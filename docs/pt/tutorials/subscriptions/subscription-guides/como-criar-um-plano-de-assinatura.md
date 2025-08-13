@@ -23,9 +23,7 @@ Existem dois caminhos possíveis para criar um plano de assinatura. O caminho **
 
 Outra possibilidade é criar um [Anexo de SKU referente à assinatura no Catálogo](#caminho-alternativo-anexo-de-sku-no-catalogo). O Anexo de SKU é equivalente ao plano.
 
-<div class="alert alert-warning">
-  <p>Você <strong>não</strong> deve realizar ambas as configurações, basta optar por uma delas. Crie apenas o novo plano no módulo de <strong>Assinaturas</strong> ou o anexo de SKU no <strong>Catálogo</strong>. Caso contrário, o plano será duplicado.</p>
-</div>
+> ⚠️ Você **não** deve realizar ambas as configurações, basta optar por uma delas. Crie apenas o novo plano no módulo de **Assinaturas** ou o anexo de SKU no **Catálogo**. Caso contrário, o plano será duplicado.
 
 ## Novo plano no módulo de Assinaturas
 
@@ -37,9 +35,7 @@ Criar um novo plano a partir do módulo de **Assinaturas** é o caminho mais rec
 4. Clique na aba [Produtos Associados](#produtos-associados) e selecione os produtos que você deseja associar aos planos de assinatura.
 5. Clique em `Salvar`.
 
-<div class="alert alert-warning">
-  <p>Todo plano é salvo como ativo, mesmo que não tenha nenhum produto associado. Planos sem produtos associados não aparecem como opção para o cliente no momento da compra.</p>
-</div>
+> ⚠️ Todo plano é salvo como ativo, mesmo que não tenha nenhum produto associado. Planos sem produtos associados não aparecem como opção para o cliente no momento da compra.
 
 ### Configurações
 
@@ -69,9 +65,7 @@ Para excluir uma frequência criada anteriormente, você precisa clicar no botã
 
 Você pode disponibilizar múltiplas opções de frequência no mesmo plano, se desejar. Nesse caso, você deve clicar novamente no botão `Adicionar frequência` e repetir esse processo, preenchendo as configurações com as outras frequências desejadas. Dessa forma, o cliente poderá escolher a frequência que preferir dentre as opções.
 
-<div class="alert alert-warning">
-  <p>Não é possível atribuir um prazo de validade ao plano de assinatura pelo módulo de <strong>Assinaturas</strong>. Somente planos de assinatura configurados como Anexos de SKU no <strong>Catálogo</strong> podem ter prazos de validade configurados.</p>
-</div>
+> ⚠️ Não é possível atribuir um prazo de validade ao plano de assinatura pelo módulo de **Assinaturas**. Somente planos de assinatura configurados como Anexos de SKU no **Catálogo** podem ter prazos de validade configurados.
 
 ### Produtos Associados
 
@@ -92,7 +86,7 @@ Nesta tela, você pode realizar as seguintes ações:
 
 * **Selecionar:** ao clicar no <i class="far fa-square"></i> na linha de cada produto, você pode selecionar produtos ou SKUs individualmente. Outra opção é clicar no primeiro <i class="far fa-square"></i> e selecionar todos os produtos e SKUs exibidos na página para adicioná-los ao plano, conforme ilustrado na imagem abaixo.
 
-![selecionarskus PT](//images.ctfassets.net/alneenqid6w5/3nBgV1SCLFqG92L1rOBXOX/d5166c26395bfd131c45fe27f51ec5a8/selecionarskus_PT.gif)
+![selecionarskus PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/subscriptions/subscription-guides/como-criar-um-plano-de-assinatura_1.gif)
 
 * **Botão** <i class="fas fa-chevron-down"></i>: exibe os SKUs, ou seja, as variações do produto.
 * **Adicionar:** ao clicar neste botão, você adiciona o(s) produto(s) ou SKU(s) ao plano de assinatura.

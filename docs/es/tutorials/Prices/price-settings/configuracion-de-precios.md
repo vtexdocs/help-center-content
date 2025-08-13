@@ -29,15 +29,11 @@ Consulte los ajustes disponibles a continuación:
   - **Siempre:** la cuenta siempre heredará todos los precios de la cuenta padre. 
   - **Solo para precios inexistentes:** los precios de la cuenta padre se heredan solo si los precios de la cuenta actual son inexistentes. 
 
-  <div class="alert alert-info">
-    <p>La configuración <b>Heredar precios de la cuenta principal</b> está disponible solo para cuentas secundarias. La cuenta principal se define cuando se crea la cuenta secundaria. Asegurarse de que la cuenta principal asociada sea la correcta ayuda a evitar problemas relacionados con los precios o la disponibilidad de stock.</p>
-</div>
+  > ℹ️ La configuración **Heredar precios de la cuenta principal** está disponible solo para cuentas secundarias. La cuenta principal se define cuando se crea la cuenta secundaria. Asegurarse de que la cuenta principal asociada sea la correcta ayuda a evitar problemas relacionados con los precios o la disponibilidad de stock.
 
 - **Sobrescribir precios de sellers:**  esta opción sobrescribe todos los precios de sellers con los de la cuenta actual.
 
-  <div class = "alert alert-info">
-    <p>La configuración <b>Sobrescribir precios de sellers</b> no está disponible para sellers White label.</p>
-  </div>
+  > ℹ️ La configuración **Sobrescribir precios de sellers** no está disponible para sellers White label.
 
 ## Consultar la Cuenta-Padre asociada
 Para consultar la cuenta-padre vinculada a una cuenta-hija, utilice la siguiente URL, sustituyendo {AccountName} por el nombre de la cuenta-hija que desea consultar:

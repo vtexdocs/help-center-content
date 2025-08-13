@@ -26,9 +26,7 @@ Para crear una nueva audiencia de campaña, sigue los pasos a continuación:
 5. Rellena los campos de la sección [Crear nuevo público-objetivo](#crear-nuevo-publico-objetivo).
 6. Haz clic en `Guardar`.
 
-<div class="alert alert-warning">
-  <p>Luego de crear una audiencia de campaña, debes asociarla a una promoción de campaña para que entre en efecto. Sigue los pasos indicados en la guía <a href="https://help.vtex.com/es/tutorial/promocion-de-campanha--1ChYXhK2AQGuS6wAqS8Ume">Crear una promoción de campaña</a>.</p>
-</div>
+> ⚠️ Luego de crear una audiencia de campaña, debes asociarla a una promoción de campaña para que entre en efecto. Sigue los pasos indicados en la guía [Crear una promoción de campaña](https://help.vtex.com/es/tutorial/promocion-de-campanha--1ChYXhK2AQGuS6wAqS8Ume).
 
 ## Datos generales
 
@@ -45,10 +43,7 @@ Al crear una nueva audiencia de campaña, debes completar la información en la 
     * **Fecha de término:** fecha de finalización de la programación de la audiencia de campaña a partir de la cual la audiencia de campaña será válida.
     * **Hora de término:** horario de finalización de la programación de la audiencia de campaña a partir de la cual la audiencia de campaña será válida.
 
-<div class="alert alert-warning">
-  <p>Para programar una audiencia de campaña, debes completar una <strong>Fecha de inicio</strong> o una <strong>Hora de inicio</strong> posterior a la fecha u hora actual.</p>
-<p>La zona horaria que toma en cuenta el sistema es la misma que la del dispositivo del usuario que creó la audiencia de campaña. No se realizan ajustes en caso de que haya zonas horarias diferentes.</p>
-</div>
+> ⚠️ Para programar una audiencia de campaña, debes completar una **Fecha de inicio** o una **Hora de inicio** posterior a la fecha u hora actual. La zona horaria que toma en cuenta el sistema es la misma que la del dispositivo del usuario que creó la audiencia de campaña. No se realizan ajustes en caso de que haya zonas horarias diferentes.
 
 ## Crear nuevo público-objetivo
 
@@ -69,7 +64,7 @@ Luego de hacer clic en `Crear nuevo público-objetivo`, debes seguir las instruc
     * **o:** la audiencia de campaña estará compuesta por clientes que encajen en cualquiera de los públicos-objetivo.
     * **y:** la audiencia de campaña estará compuesta por clientes que encajen en todos los públicos-objetivo y sumen todos sus criterio
 
-![publico-alvo-e-ou-es](//images.ctfassets.net/alneenqid6w5/2NrpuE4MN7q6qaHI6mkoCe/a3b67e255c3d65380455c6baeae20ad8/es-publico-alvo.gif)
+![publico-alvo-e-ou-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/promotions-&-taxes/campaign-audiences/crear-audiencias-de-campana_1.gif)
 
 ### Define a tu público-objetivo
 
@@ -85,7 +80,7 @@ Luego de hacer clic en `Crear nuevo público-objetivo`, debes seguir las instruc
 
 Ejemplo: en la imagen a continuación, los ítems cuya marca es **Nike** forman parte del público-objetivo. La configuración también indica que, al menos, 3 ítems deben cumplir con estos criterios. Por ende, un cliente debe tener en el carrito al menos **3** ítems que cumplan con estos criterios para ser parte del público-objetivo.
 
-![exemplo-marca-publico-alvo-es](//images.ctfassets.net/alneenqid6w5/4Bot3XZUQJ4JkWJknpTxB2/7f6a8b503e122d865d8c0f6ae78a6c4e/screencapture-lojadobreno-myvtex-admin-rnb-2022-07-21-18_02_43_1__1_.png)
+![exemplo-marca-publico-alvo-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/promotions-&-taxes/campaign-audiences/crear-audiencias-de-campana_2.png)
 
 ### Condiciones para que se aplique tu público-objetivo
 
@@ -102,9 +97,7 @@ Ejemplo: en la imagen a continuación, los ítems cuya marca es **Nike** forman 
 * **El código postal de entrega debe Incluir / Excluir de __ hasta __:** permite incluir o excluir intervalos de códigos postales para el envío de los pedidos. La audiencia de campaña se activará si el código postal cumple con la regla configurada en el público-objetivo.
 * **Afiliados:** permite seleccionar [afiliados](https://help.vtex.com/es/tutorial/que-es-afiliado--4bN3e1YarSEammk2yOeMc0) a partir de una lista. La audiencia de campaña se activará si la compra se realiza en un _marketplace_ de los afiliados seleccionados.
 
-  <div class="alert alert-warning">
-    <p>La opción <strong>Afiliados</strong> solo se aplica si el afiliado es una tienda VTEX.</p>
-  </div>
+  > ⚠️ La opción **Afiliados** solo se aplica si el afiliado es una tienda VTEX.
 
 * **Sellers:** permite definir si la campaña debe considerar sellers que sean iguales o diferentes a los seleccionados, según los sellers registrados en tu cuenta.
 * **utm_source:** permite seleccionar la [utm_source](https://help.vtex.com/es/tutorial/que-son-utm-source-utm-campaign-y-utm-medium--2wTz7QJ8KUG6skGAoAQuii) deseada o crear una nueva para vincularla a la audiencia de campaña. La audiencia de campaña se activará si el cliente navega con la utm_source correspondiente a cualquiera de los valores registrados. Cabe destacar que el cliente puede ingresar solo una utm_source en el _checkout_.
@@ -113,9 +106,7 @@ Ejemplo: en la imagen a continuación, los ítems cuya marca es **Nike** forman 
 * **Aplique el descuento solo cuando el cliente seleccione uno de los transportistas anteriores:** la audiencia de campaña se activará solo después que el cliente seleccione la forma de envío del pedido.
 * **Medio de pago:** permite seleccionar los medios de pago que se incluirán en el público-objetivo. La audiencia de campaña se activará si la forma de pago elegida por el cliente es la misma que la registrada.
 
-<div class="alert alert-warning">
-  <p>Las audiencias de campañas definidas por <strong>Medio de pago</strong> o<strong> Número máximo de cuotas</strong> no aplican a los pedidos que se pagan con dos tarjetas o con tarjetas de regalo.</p>
-</div>
+> ⚠️ Las audiencias de campañas definidas por **Medio de pago** o** Número máximo de cuotas** no aplican a los pedidos que se pagan con dos tarjetas o con tarjetas de regalo.
 
 ## Más información
 

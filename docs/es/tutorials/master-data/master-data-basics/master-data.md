@@ -21,17 +21,13 @@ Por defecto, Master Data se usa para almacenar y organizar los datos de los clie
 
 En este artículo, encontrarás más detalles sobre cada versión disponible de Master Data, así como conceptos importantes y cómo utilizarlo.
 
-<div class="alert alert-info">
-Ten en cuenta que, según la funcionalidad y la versión que desees utilizar, se recomienda ponerse en contacto con el equipo de desarrollo de tu operación.
-</div>
+> ℹ️ Ten en cuenta que, según la funcionalidad y la versión que desees utilizar, se recomienda ponerse en contacto con el equipo de desarrollo de tu operación.
 
 ## Versiones disponibles
 
 Actualmente existen dos versiones disponibles y puedes elegir la que mejor se adapte a las necesidades de tu operación. La principal diferencia entre ambas es que la v2 no incluye interfaz gráfica, por lo que se puede usar solo a través de la [API del Master Data v2](https://developers.vtex.com/docs/api-reference/master-data-api-v2), pero sí tiene otras funcionalidades importantes, por ejemplo, [esquemas JSON](https://developers.vtex.com/docs/guides/starting-to-work-on-master-data-with-json-schema).
 
-<div class = "alert alert-info">
-VTEX guarda de forma automática los datos de los clientes de tu tienda en Master Data v1.
-</div>
+> ℹ️ VTEX guarda de forma automática los datos de los clientes de tu tienda en Master Data v1.
 
 En la tabla a continuación, obtendrás más información sobre las diferencias en las funcionalidades de cada versión.
 
@@ -115,8 +111,7 @@ En la tabla a continuación, obtendrás más información sobre las diferencias 
     </td>
     <td class="t-body pa5" style="min-width: 10rem;">
       <ul style="padding-inline-start: 0px;">
-        <li><a href="#triggers" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word"
-          target="_blank" rel="noopener noreferrer">Triggers</a></li>
+        <li>[Triggers](#triggers)</li>
         <li><a href="https://help.vtex.com/es/tutorial/creating-trigger-in-master-data--tutorials_1270" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word"
           target="_blank" rel="noopener noreferrer">Crear trigger
             en Master Data v1</a></li>
@@ -135,10 +130,8 @@ En la tabla a continuación, obtendrás más información sobre las diferencias 
     </td>
     <td class="t-body pa5" style="min-width: 10rem;">
       <ul style="padding-inline-start: 0px;">
-        <li><a href="http://json-schema.org/" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word"
-          target="_blank" rel="noopener noreferrer">Esquemas JSON</a></li>
-        <li><a href="https://json-schema.org/understanding-json-schema" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word"
-          target="_blank" rel="noopener noreferrer">Qué son los esquemas JSON</a></li>
+        <li>[Esquemas JSON](http://json-schema.org/)</li>
+        <li>[Qué son los esquemas JSON](https://json-schema.org/understanding-json-schema)</li>
         <li><a
             href="https://developers.vtex.com/vtex-rest-api/docs/starting-to-work-on-master-data-with-json-schema" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word"
             target="_blank" rel="noopener noreferrer">Empieza
@@ -158,8 +151,7 @@ En la tabla a continuación, obtendrás más información sobre las diferencias 
     </td>
     <td class="t-body pa5" style="min-width: 10rem;">
       <ul style="padding-inline-start: 0px;">
-        <li><a href="#nested-properties" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word"
-          target="_blank" rel="noopener noreferrer">Propiedades anidadas</a></li>
+        <li>[Propiedades anidadas](#nested-properties)</li>
       </ul>
     </td>
   </tr>
@@ -175,8 +167,7 @@ En la tabla a continuación, obtendrás más información sobre las diferencias 
     </td>
     <td class="t-body pa5" style="min-width: 10rem;">
       <ul style="padding-inline-start: 0px;">
-        <li><a href="#data-entities" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word"
-          target="_blank" rel="noopener noreferrer">Entidades de datos</a></li>
+        <li>[Entidades de datos](#data-entities)</li>
         <li><a href="https://help.vtex.com/es/tutorial/criando-entidade-de-dados--tutorials_1265" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word"
           target="_blank" rel="noopener noreferrer">Entidades de datos en
             Master Data v1</a></li>
@@ -202,8 +193,7 @@ En la tabla a continuación, obtendrás más información sobre las diferencias 
             href="https://help.vtex.com/es/tutorial/criando-entidade-de-dados--tutorials_1265#entendendo-os-tipos" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word"
             target="_blank" rel="noopener noreferrer">Tipos
             de campos en Master Data v1</a></li>
-        <li><a href="#v2-esquemas" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word"
-          target="_blank" rel="noopener noreferrer">Esquemas JSON</a></li>
+        <li>[Esquemas JSON](#v2-esquemas)</li>
       </ul>
     </td>
   </tr>
@@ -219,16 +209,13 @@ En la tabla a continuación, obtendrás más información sobre las diferencias 
         <li><a href="https://help.vtex.com/es/tutorial/setting-up-an-index-on-master-data--tutorials_785" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word"
           target="_blank" rel="noopener noreferrer">Configurar
             índices en Master Data v1</a></li>
-        <li><a href="https://developers.vtex.com/vtex-rest-api/reference/putindices" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word"
-          target="_blank" rel="noopener noreferrer">Configurar índices con la API de Master Data v2</a></li>
+        <li>[Configurar índices con la API de Master Data v2](https://developers.vtex.com/vtex-rest-api/reference/putindices)</li>
       </ul>
     </td>
   </tr>
 </table></div>
 
-<div class="alert alert-danger">
-Las entidades de datos de ambas versiones son independientes, aunque algunas pueden ser análogas. Esto significa que un dato creado en una entidad de la v1 no se puede consultar ni editar usando recursos de la v2 y viceversa.
-</div>
+> ❗ Las entidades de datos de ambas versiones son independientes, aunque algunas pueden ser análogas. Esto significa que un dato creado en una entidad de la v1 no se puede consultar ni editar usando recursos de la v2 y viceversa.
 
 ## Componentes básicos
 
@@ -277,9 +264,7 @@ Como se dijo anteriormente, cada documento tiene un ID que la plataforma genera 
 
 Por ejemplo, puedes consultar un documento con información de un cliente especificando el valor del campo `email` del cliente.
 
-<div class = "alert alert-info">
-Obtén más información sobre cómo <a href=https://help.vtex.com/es/tutorial/setting-up-an-index-on-master-data--tutorials_785>configurar índices en Master Data v1</a> o <a href=https://developers.vtex.com/vtex-rest-api/reference/putindices>configurar índices con la API del Master Data v2</a>.
-</div>
+> ℹ️ Obtén más información sobre cómo <a href=https://help.vtex.com/es/tutorial/setting-up-an-index-on-master-data--tutorials_785>configurar índices en Master Data v1</a> o <a href=https://developers.vtex.com/vtex-rest-api/reference/putindices>configurar índices con la API del Master Data v2</a>.
 
 ## Triggers
 
@@ -294,17 +279,13 @@ Obtén más información sobre cómo [configurar triggers en el Master Data v1] 
 
 Con la v2 de Master Data puedes definir formatos de datos con esquemas JSON. Este formato indica cómo Master Data debe validar e indexar los documentos.
 
-<div class = "alert alert-info">
-Obtén más información en <a href=https://json-schema.org/>esquemas JSON</a>.
-</div>
+> ℹ️ Obtén más información en <a href=https://json-schema.org/>esquemas JSON</a>.
 
 Puedes guardar un documento en cualquier entidad de datos si el contenido es un JSON válido. Una entidad de datos puede tener asociados o no varios esquemas JSON.
 
-![Master Data schemas](//images.ctfassets.net/alneenqid6w5/CaidhUAHIxcwas8eWLQZu/3b032813aed32ec745e01d4d32cf4e87/schemas_es.jpg)
+![Master Data schemas](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/master-data/master-data-basics/master-data_1.jpg)
 
-<div class = "alert alert-info">
-Un documento puede ser compatible con varios esquemas JSON, o con ninguno.
-</div>
+> ℹ️ Un documento puede ser compatible con varios esquemas JSON, o con ninguno.
 
 ## Aplicaciones
 

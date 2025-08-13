@@ -24,16 +24,13 @@ Among the marketplaces available, there are VTEX marketplaces and external marke
 | **VTEX** | These are the profiles of VTEX clients that chose to make their environment available for sellers to sell products. |
 | **External** | Marketplaces that are not VTEX clients and did the integration, whether certified or partner. |  
 
-<div class="alert alert-info">
-Note that <b>Marketplaces and Integrations</b> is a tool that fosters contact between potential partners, yet it is not a mandatory step in becoming a VTEX marketplace.  
-If you want to act as a VTEX marketplace, read the <a href="https://help.vtex.com/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#sendo-seller-vtex">Marketplace strategies at VTEX</a>.  
-</div>
+> ℹ️ Note that **Marketplaces and Integrations** is a tool that fosters contact between potential partners, yet it is not a mandatory step in becoming a VTEX marketplace. If you want to act as a VTEX marketplace, read the [Marketplace strategies at VTEX](https://help.vtex.com/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#sendo-seller-vtex).
 
 ## Looking for marketplaces  
 
 To access the page, in the VTEX Admin, click __Marketplace > Connections > Marketplaces and Integrations__. On the page, you can see the recommended marketplaces to connect to and the complete list of all available or already connected marketplaces.  
 
-![Marketplaces and Integrations](//images.ctfassets.net/alneenqid6w5/6O436Pjv91m3GWuWFsmeAD/e4382e0c375781f8f1029ffe29e6738a/Captura_de_tela_2023-04-17_110739.png)
+![Marketplaces and Integrations](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/integration-settings/marketplaces-and-integrations_1.png)
 
 The table listing the marketplaces has the following columns:  
 

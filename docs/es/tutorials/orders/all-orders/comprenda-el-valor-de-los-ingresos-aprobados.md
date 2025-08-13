@@ -44,9 +44,7 @@ El informe financiero se genera en la sección **Facturas**. Para exportarlo, si
 3. Selecciona la factura deseada.
 4. Haz clic en `Informe financiero`.
 
-<div class = "alert alert-info">
-El informe financiero es estático y no cambia una vez generado. Puedes acceder al informe en cualquier momento para consultar los ingresos.
-</div>
+> ℹ️ El informe financiero es estático y no cambia una vez generado. Puedes acceder al informe en cualquier momento para consultar los ingresos.
 
 ## 3. Análisis y manipulación del informe financiero
 El informe financiero está en formato **CSV** y muestra varias columnas que detallan cada pedido. Para validar los valores de tu factura, **filtra las columas** del informe utilizando los siguientes criterios:

@@ -15,9 +15,7 @@ locale: en
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
-<div class = "alert alert-info">
-  <p>This article is only valid for stores using CMS Portal (Legacy).</p>
-</div>
+> ℹ️ This article is only valid for stores using CMS Portal (Legacy).
 
 A Progressive Web App (PWA) is a set of techniques for developing web applications that add features previously restricted to native applications.
 
@@ -33,8 +31,7 @@ A Progressive Web App (PWA) is a set of techniques for developing web applicatio
 
 If you already have a website or web application, you can gradually implement the features that define a PWA, such as notifications, file caching, offline execution, and other options that make users feel like they're using a native application.
 
-<div class="alert alert-warning">
-VTEX <strong>doesn't</strong> offer native solutions for conversion to PWA in the CMS Portal (Legacy). VTEX, however, provides the basic infrastructure for manual implementation. Stores developed with the VTEX IO Store Framework have this feature natively.</div>
+> ⚠️ VTEX **doesn't** offer native solutions for conversion to PWA in the CMS Portal (Legacy). VTEX, however, provides the basic infrastructure for manual implementation. Stores developed with the VTEX IO Store Framework have this feature natively.
 
 ## Instructions
 
@@ -69,7 +66,7 @@ To create the JSON, follow the steps below:
 
 7. Click `Save`.
 
-<div class="alert alert-info"> <p><strong>Tip:</strong> Use icons in a minimum resolution of 192x192px and format hexadecimal colors following your visual identity.</p> </div>
+> ℹ️ **Tip:** Use icons in a minimum resolution of 192x192px and format hexadecimal colors following your visual identity.
 
 ### Add the `manifest.json` file to the web application
 
@@ -127,7 +124,7 @@ To create the script, follow the steps below:
 
 Although the file is in `/files/service-worker.js`, it receives the header `Service-Worker-Allowed` with the value `/`, allowing to intercept requests from the site's root.
 
-<div class="alert alert-warning"> <p><strong>Warning:</strong> The Service Worker will only work in HTTPS environments. Always test in production or use secure tunnels in development.</p> </div>
+> ⚠️ **Warning:** The Service Worker will only work in HTTPS environments. Always test in production or use secure tunnels in development.
 
 To learn more about service workers, see Google [Web Fundamentals](https://developers.google.com/web/fundamentals/primers/service-workers/) documentation.
 

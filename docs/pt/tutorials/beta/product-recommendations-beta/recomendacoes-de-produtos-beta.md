@@ -15,13 +15,11 @@ locale: pt
 subcategoryId: 6WyZwZfn89IsnNFNkTAi8d
 ---
 
-<div class="alert alert-info">
-  <p>Essa funcionalidade está na fase Beta fechado, o que significa que somente clientes selecionados têm acesso a ela no momento. Se já é cliente da VTEX e deseja adotar essa funcionalidade em seu negócio, entre em contato com o <a href="https://help.vtex.com/pt/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ">Suporte Comercial</a>. É possível que taxas adicionais se apliquem. Se ainda não é cliente, mas tem interesse nesta solução, preencha o <a href="https://vtex.com/br-pt/contato/">formulário de contato</a>.</p>
-</div>
+> ℹ️ Essa funcionalidade está na fase Beta fechado, o que significa que somente clientes selecionados têm acesso a ela no momento. Se já é cliente da VTEX e deseja adotar essa funcionalidade em seu negócio, entre em contato com o [Suporte Comercial](https://help.vtex.com/pt/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ). É possível que taxas adicionais se apliquem. Se ainda não é cliente, mas tem interesse nesta solução, preencha o [formulário de contato](https://vtex.com/br-pt/contato/).
 
 A funcionalidade de Recomendações de produtos permite que sua loja ofereça experiências personalizadas aos consumidores, sugerindo itens com base em diferentes estratégias de recomendação. Com ela, é possível exibir produtos relevantes ou complementares, impulsionar a taxa de conversão e elevar o ticket médio da sua operação.
 
-![produtos-similares-pt](//images.ctfassets.net/alneenqid6w5/4IAbPOM9lIMwX6zdbF7pxs/65c0025351f9889136afe300dfa1ea28/produtos-similares-pt.png)
+![produtos-similares-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/product-recommendations-beta/recomendacoes-de-produtos-beta_1.png)
 
 ## Pré-requisitos
 

@@ -33,9 +33,7 @@ Neste artigo, explicamos como funciona a herança das especificações que você
         * [Cadastro do produto](#cadastro-do-produto)
         * [Planilha](#planilha)
 
-<div class = "alert alert-info">
-  <p>Para criar uma especificação de produto utilizando a<strong> Catalog API</strong>, siga o guia para desenvolvedores <a href="https://developers.vtex.com/vtex-developer-docs/docs/how-to-create-a-specification">How to create a specification</a>.</p>
-</div>
+> ℹ️ Para criar uma especificação de produto utilizando a** Catalog API**, siga o guia para desenvolvedores [How to create a specification](https://developers.vtex.com/vtex-developer-docs/docs/how-to-create-a-specification).
 
 ## Herança de especificações de produto
 
@@ -43,7 +41,7 @@ Antes de criar especificações, é importante compreender que as especificaçõ
 
 Considere o produto **Televisão** como exemplo. Em **Catálogo > Todos os produtos > Alterar > Especificações**, página ilustrada a seguir, podemos ver que o grupo de especificações chamado **Características** está associado à categoria da televisão. Esse grupo inclui um campo de nome **Polegadas** e um campo de nome **Faixa etária**, que são obrigatórios.
 
-![especificacoes-caracteristicas-pt](//images.ctfassets.net/alneenqid6w5/3ZMzwADYCl7QnNomdpGnoH/ac89c8d88e3188da9d6af758d0e6992a/image6.png)
+![especificacoes-caracteristicas-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Catalog/products-and-skus/cadastrar-especificacoes-ou-campos-de-produto_1.png)
 
 Por se tratar de uma especificação de produto, as informações selecionadas nessa página valerão para todas as variações do produto __Televisão__. Todos os produtos cadastrados na mesma categoria da televisão precisam ter essas especificações preenchidas também, visto que os campos são obrigatórios.
 
@@ -80,7 +78,7 @@ Para criar um campo de produto, siga os passos abaixo:
     * **Ativo**: insere ou remove este campo no cadastro do produto (aba **Especificações**).
 7. Clique em `Salvar`. 
 
-![product-spec-1](//images.ctfassets.net/alneenqid6w5/5Y8LnWHVXSvRbqtMNBLSRq/7d508a1ad7465143efe1465d19275e19/PT_ProdutoGif_1_Alterado.gif)
+![product-spec-1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Catalog/products-and-skus/cadastrar-especificacoes-ou-campos-de-produto_2.gif)
 
 #### Tipos de campo de produto
 
@@ -95,32 +93,32 @@ Confira a tabela a seguir para obter detalhes sobre os tipos de campo de produto
 </thead>
 <tbody>
   <tr class="bb b--muted-3">
-    <td class="t-body pa5" style="min-width: 15rem;"><strong>Texto</strong></td>
+    <td class="t-body pa5" style="min-width: 15rem;">**Texto**</td>
     <td class="t-body pa5" style="min-width: 15rem;">Preenchimento do conteúdo como texto livre, indicado para textos pequenos e de formatação simples. Não é indicado para grandes estruturas de HTML.</td>
   </tr>
   <tr class="bb b--muted-3">
-    <td class="t-body pa5" style="min-width: 15rem;"><strong>Texto Grande</strong></td>
+    <td class="t-body pa5" style="min-width: 15rem;">**Texto Grande**</td>
     <td class="t-body pa5" style="min-width: 15rem;">Preenchimento do conteúdo como texto livre, indicado para grandes estruturas de HTML. Exemplo: tabelas de medidas, frequentemente utilizadas no segmento de moda.</td>
   </tr>
   <tr class="bb b--muted-3">
-    <td class="t-body pa5" style="min-width: 15rem;"><strong>Número</strong></td>
+    <td class="t-body pa5" style="min-width: 15rem;">**Número**</td>
     <td class="t-body pa5" style="min-width: 15rem;">Preenchimento do conteúdo apenas com números inteiros. Exemplo: especificar a numeração de um sapato (39, 41, 42…).</td>
   </tr>
   <tr class="bb b--muted-3">
-    <td class="t-body pa5" style="min-width: 15rem;"><strong>Combo</strong></td>
+    <td class="t-body pa5" style="min-width: 15rem;">**Combo**</td>
     <td class="t-body pa5" style="min-width: 15rem;">Conteúdo com dois ou mais valores pré-definidos, para seleção de uma opção em uma lista suspensa (dropdown). Exemplo: voltagem de um eletrodoméstico, que pode ser 110v ou 220v.</td>
   </tr>
   <tr class="bb b--muted-3">
-    <td class="t-body pa5" style="min-width: 15rem;"><strong>Radio</strong></td>
+    <td class="t-body pa5" style="min-width: 15rem;">**Radio**</td>
     <td class="t-body pa5" style="min-width: 15rem;">Conteúdo com dois ou mais valores pré-definidos, para marcação de uma opção a partir de uma grade de valores. Exemplo: definição de cor dos componentes de um produto (vermelho, amarelo, azul, preto…).</td>
   </tr>
   <tr class="bb b--muted-3">
-    <td class="t-body pa5" style="min-width: 15rem;"><strong>CheckBox</strong></td>
+    <td class="t-body pa5" style="min-width: 15rem;">**CheckBox**</td>
     <td class="t-body pa5" style="min-width: 15rem;">Opção que tem apenas valores equivalentes a <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">verdadeiro</span> (marcado) ou <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">falso</span> (não marcado). Exemplo: um campo chamado Outlet será marcado apenas quando o produto fizer parte da seleção da loja para outlet (queima de estoque). Se ele não fizer parte dessa seleção, o campo deve permanecer desmarcado.</td>
   </tr>
   <tr class="bb b--muted-3">
-    <td class="t-body pa5" style="min-width: 15rem;"><strong>Texto Indexado<br> <br>Texto Grande Indexado</strong></td>
-    <td class="t-body pa5" style="min-width: 15rem;">Seguem tecnicamente a mesma regra dos campos de Texto, com uma diferença: seus valores serão interpretados pelo <a href="https://help.vtex.com/pt/tutorial/entendendo-o-funcionamento-da-indexacao--tutorials_256"  rel="noopener noreferrer" target="_blank" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word">indexador</a> do Catálogo e influenciam nos resultados de busca dos clientes na loja. Veja mais detalhes em <a href="https://help.vtex.com/pt/tutorial/como-funciona-a-busca-da-vtex/"  rel="noopener noreferrer" target="_blank" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word">Como funciona a busca da VTEX?</a>.</td>
+    <td class="t-body pa5" style="min-width: 15rem;">**Texto Indexado<br> <br>Texto Grande Indexado**</td>
+    <td class="t-body pa5" style="min-width: 15rem;">Seguem tecnicamente a mesma regra dos campos de Texto, com uma diferença: seus valores serão interpretados pelo [indexador](https://help.vtex.com/pt/tutorial/entendendo-o-funcionamento-da-indexacao--tutorials_256) do Catálogo e influenciam nos resultados de busca dos clientes na loja. Veja mais detalhes em [Como funciona a busca da VTEX?](https://help.vtex.com/pt/tutorial/como-funciona-a-busca-da-vtex/).</td>
   </tr>
 </tbody>
 </table>
@@ -146,11 +144,9 @@ Já para os campos de tipo **Combo**, **Radio** e **CheckBox**, é necessário c
 
     Os valores criados serão exibidos na aba **Especificação** no cadastro de Produto.
 
-![product-spec-2](//images.ctfassets.net/alneenqid6w5/5F0K7fQTFOf2b7opIrgpP6/283b1aca04c1790b548ee51438fe132f/PT_ProdutoGif_2_Alterado.gif)
+![product-spec-2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Catalog/products-and-skus/cadastrar-especificacoes-ou-campos-de-produto_3.gif)
 
-<div class = "alert alert-info">
-  <p>Caso esteja cadastrando os primeiros valores de um campo, é necessário voltar no formulário daquele campo específico e marcar a opção <strong>Ativo</strong>.</p>
-</div>
+> ℹ️ Caso esteja cadastrando os primeiros valores de um campo, é necessário voltar no formulário daquele campo específico e marcar a opção **Ativo**.
 
 #### Acessar ou editar valores cadastrados
 
@@ -188,7 +184,7 @@ Para preencher as especificações de cada produto de forma individual, siga as 
 
 6. Clique em `Salvar`.
 
-![product-spec-3](//images.ctfassets.net/alneenqid6w5/7B2L2oEoPQkPU2EJDowsxx/f54f61f82531c5be837a8516278103df/PT_ProdutoGif_3_Alterado.gif)
+![product-spec-3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Catalog/products-and-skus/cadastrar-especificacoes-ou-campos-de-produto_4.gif)
 
 #### Planilha
 
@@ -211,7 +207,7 @@ Para preencher especificações de produtos em massa por planilha, é necessári
 9. Clique em **Select** para selecionar o arquivo com a planilha preenchida no seu computador.
 10. Clique em `Importar`.
 
-![product-spec-4](//images.ctfassets.net/alneenqid6w5/747pr0ISwE9GrNBjC4kKjL/e25821cf11d4b27e9142389fbd207d85/PT_ProdutoGif_4_Alterado.gif)
+![product-spec-4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Catalog/products-and-skus/cadastrar-especificacoes-ou-campos-de-produto_5.gif)
 
 ## Saiba mais
 - [Cadastrar especificações ou campos de SKU](https://help.vtex.com/pt/tutorial/cadastrar-especificacoes-ou-campos-de-sku--tutorials_119)

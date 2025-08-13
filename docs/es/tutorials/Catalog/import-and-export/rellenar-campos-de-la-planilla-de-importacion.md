@@ -28,15 +28,7 @@ Dependiendo de la cantidad de productos, su procesamiento puede tardar. Después
 
 Para entender el significado de cada uno de los campos, vea a continuación una descripción completa de la lista de campos de Producto y SKU que aparecen en la plantilla.
 
-<div class="alert alert-danger">
-  <p>Al rellenar <b>CaptionLink</b>, <b>DepartamentName</b>, <b>CategoryName</b> y <b>Brand</b>, evita utilizar las siguientes palabras reservadas, ya que esto puede perjudicar el rendimiento de tu tienda e interferir con el funcionamiento de las páginas del Admin VTEX. Consulta la lista de palabras reservadas a continuación.
-  <ul>
-<li><code>a</code></li>
-<li><code>meta</code></li>
-<li><code>api</code></li>
-<li><code>admin</code></li>
-</ul></p>
-</div>
+> ❗ Al rellenar **CaptionLink**, **DepartamentName**, **CategoryName** y **Brand**, evita utilizar las siguientes palabras reservadas, ya que esto puede perjudicar el rendimiento de tu tienda e interferir con el funcionamiento de las páginas del Admin VTEX. Consulta la lista de palabras reservadas a continuación. <ul> <li>`a`</li> <li>`meta`</li> <li>`api`</li> <li>`admin`</li> </ul>
 
 __SkuId:__ número único de identificación del SKU. Si este campo ya está rellenado, no puede modificarlo. Para agregar un nuevo SKU, deje la columna vacía.
 

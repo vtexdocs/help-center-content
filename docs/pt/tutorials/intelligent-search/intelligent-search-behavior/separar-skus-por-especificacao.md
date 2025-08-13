@@ -25,10 +25,9 @@ Essa ferramenta é indicada, principalmente, para lojas de vestuários, pois é 
 
 A seguir, confira um exemplo de separação de SKUs por cor. Na imagem abaixo, a sandália em destaque apresenta duas cores diferentes no resultado da pesquisa:
 
-![screencapture-footnotes-sandals-2021-02-11-14 21 21](//images.ctfassets.net/alneenqid6w5/3wDeiYyhcz0BNUyJrDo7zI/d5d68b1a11e1c117ca11653239037005/screencapture-footnotes-sandals-2021-02-11-14_21_21.png)
+![screencapture-footnotes-sandals-2021-02-11-14 21 21](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/intelligent-search/intelligent-search-behavior/separar-skus-por-especificacao_1.png)
 
-<div class="alert alert-info"><p>
-Caso os resultados de busca sejam ordenados por relevância, os SKUs de um mesmo produto são agrupados, ou seja, aparecem um ao lado do outro.</p></div>
+> ℹ️  Caso os resultados de busca sejam ordenados por relevância, os SKUs de um mesmo produto são agrupados, ou seja, aparecem um ao lado do outro.
 
 ## Configuração
 Para configurar quais atributos serão usados para separar os SKUs, acesse nosso artigo de [Configurações da busca](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5t75L6lYNwix93l41s1Yrx#).

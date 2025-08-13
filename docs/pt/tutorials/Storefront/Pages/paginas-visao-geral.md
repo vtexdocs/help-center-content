@@ -18,7 +18,7 @@ subcategoryId: 1znnjA17XqaUNdNFr42PW5
 Na seção **Páginas**, você pode encontrar todas as rotas de URL e os modelos de página do site da sua loja, como a página inicial, de produto e de login. Você também pode criar e associar páginas personalizadas a modelos predefinidos e gerenciar páginas criadas diretamente no código-fonte do seu projeto de storefront.
 
 <div style="background-color:#cfe2ff; border-left: 2px solid #084298; border-top-left-radius: 2px; border-bottom-left-radius: 2px; margin-bottom: 10px; padding: 15px">
-  Se você deseja criar páginas totalmente personalizadas, entre em contato com seu time de desenvolvimento e consulte a nossa <a href="https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-4-configuringtemplates">Documentação sobre a configuração de templates</a> para mais informações. 
+  Se você deseja criar páginas totalmente personalizadas, entre em contato com seu time de desenvolvimento e consulte a nossa [Documentação sobre a configuração de templates](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-4-configuringtemplates) para mais informações. 
 </div>
 
 Você também pode criar redirecionamentos de URL para encaminhar visitantes do site e mecanismos de busca de uma URL para outra. Redirecionamentos são úteis quando você precisa mover o conteúdo para uma nova URL e excluir uma página de produto antiga.

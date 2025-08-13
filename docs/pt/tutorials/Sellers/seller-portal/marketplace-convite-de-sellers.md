@@ -28,7 +28,7 @@ Além de enviar convites, a página também conta com a lista de sellers, para q
 
 Para que novos sellers se integrem ao seu marketplace, algumas ações precisam ser feitas no seu ambiente VTEX: [Convidar](#convidar-seller) e [Conectar](#conectar-seller)
 
-![sellers convidados](//images.ctfassets.net/alneenqid6w5/2y4yFpA7vo6BNjMdVyvZSU/bf18d2e0010e23be921ecb520a060725/sellers_convidados.JPG)
+![sellers convidados](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Sellers/seller-portal/marketplace-convite-de-sellers_1.JPG)
 
 ## Convidar seller
 
@@ -48,10 +48,7 @@ O convite é feito por meio de um link enviado por email ao seller, que contém 
 
 O seller receberá por email o convite para vender em seu marketplace. 
 
-<div class="alert alert-info">
-O link enviado por email para o seller é válido por 7 dias. Uma vez aberto, o seller tem seis horas para completar o formulário de cadastro, sem interrupções. 
-Caso não seja possível concluir o cadastro nesse período, o marketplace precisa enviar o convite novamente. Isso pode ser feito acessando o módulo MARKETPLACE > Convidar sellers > selecione o seller na lista > clique no botão  <i class="fas fa-paper-plane"></i> Reenviar convite. 
-</div>
+> ℹ️ O link enviado por email para o seller é válido por 7 dias. Uma vez aberto, o seller tem seis horas para completar o formulário de cadastro, sem interrupções. Caso não seja possível concluir o cadastro nesse período, o marketplace precisa enviar o convite novamente. Isso pode ser feito acessando o módulo MARKETPLACE > Convidar sellers > selecione o seller na lista > clique no botão  <i class="fas fa-paper-plane"></i> Reenviar convite.
 
 ## Conectar seller
 

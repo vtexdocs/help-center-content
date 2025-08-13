@@ -17,17 +17,13 @@ subcategoryId: 42hDtnYXHw5ExG6l19RP1l
 
 The import of customer data must be made in Master Data. To find out more about sending data, use this article on [Importing data to Master Data](/en/tutorial/importing-data-into-master-data).
 
-<div class="alert alert-danger">
-  <p>You can see the guide on <a href="https://developers.vtex.com/docs/guides/import-customer-data">how to import customer information programattically using the Master Data v1 API</a>.</p>
-</div>
+> ❗ You can see the guide on [how to import customer information programattically using the Master Data v1 API](https://developers.vtex.com/docs/guides/import-customer-data).
 
 The checkout works with CL (customer) and AD (address) entities data.
 
 Please note that, for checkout to display the customer's data in the chart based on the email, you must ensure that all the following data is correctly registered in Master Data.
 
-<div class="alert alert-warning">
-<p>The field names in the checkout and Master Data differ, but their values are equivalent—for example, <code>addressId</code> and <code>addressName</code>. For more details on this equivalence, refer to the <a href="https://developers.vtex.com/docs/api-reference/masterdata-api?endpoint=overview">Master Data API</a> documentation.</p>
-</div>
+> ⚠️ The field names in the checkout and Master Data differ, but their values are equivalent—for example, `addressId` and `addressName`. For more details on this equivalence, refer to the [Master Data API](https://developers.vtex.com/docs/api-reference/masterdata-api?endpoint=overview) documentation.
 
 The tables below include the data and the formats required for the import.  
 

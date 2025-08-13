@@ -34,9 +34,7 @@ Em compras realizadas por dois meios de pagamento diferentes e que seja solicita
 
 - __Cartão de Crédito primeiro (card-first)__: determina que o reembolso dos valores deve ocorrer sempre a partir do saldo do cartão de crédito e depois do outro meio de pagamento utilizado na compra, por exemplo, vale-presente. Esta regra está sujeita a alguns [cenários específicos de liquidação do pagamento](#cenarios-de-liquidacao-de-pagamento).
 
-<div class="alert alert-info">
-  As lojas VTEX são configuradas por padrão com a regra de <b>Menor valor liquidado</b>. Caso deseje alterar a sua operação para a regra de <b>Cartão de Crédito primeiro</b>, solicite a modificação por meio de um ticket no <a href="https://help.vtex.com/pt/support">Suporte VTEX</a>.
-</div>
+> ℹ️ As lojas VTEX são configuradas por padrão com a regra de **Menor valor liquidado**. Caso deseje alterar a sua operação para a regra de **Cartão de Crédito primeiro**, solicite a modificação por meio de um ticket no [Suporte VTEX](https://help.vtex.com/pt/support).
 
 ### Cenários de liquidação de pagamento
 

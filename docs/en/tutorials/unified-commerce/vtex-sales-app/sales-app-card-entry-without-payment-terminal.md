@@ -56,9 +56,7 @@ The following table presents the main advantages of using **Sales App card entry
 
 When using **Sales App card entry** for [endless aisle](https://help.vtex.com/en/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv/40KMlmGI5tN0r0KPCDWgGn) sales with default shipping (over 24 hours), the purchase follows the same checkout flow as the ecommerce website and is classified as a card-not-present transaction — a technical term applied when the payment doesn't count has having used a physical card.
 
-<div class="alert alert-danger">
-<p>Transactions made using this feature are subject to anti-fraud rules. Approval may take up to 24 hours if the purchase requires anti-fraud authorization. For this reason, we don't recommend using <b>Sales App card entry</b> in the following scenarios:</p><p><ul><li>Sales with express shipping</li><li>Local inventory sales (On Hands)</li></ul></p>
-</div>
+> ❗ Transactions made using this feature are subject to anti-fraud rules. Approval may take up to 24 hours if the purchase requires anti-fraud authorization. For this reason, we don't recommend using **Sales App card entry** in the following scenarios:<ul><li>Sales with express shipping</li><li>Local inventory sales (On Hands)</li></ul>
 
 If the store has a [trade policy](https://help.vtex.com/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) specifically for **VTEX Sales App** with an exclusive anti-fraud rule review, you can use **Sales App card entry** for sales with local inventory (On Hands) or express shipping.
 
@@ -66,9 +64,7 @@ If the store has a [trade policy](https://help.vtex.com/en/tutorial/como-funcion
 
 The settings required to activate the feature differ for stores that already use **VTEX Sales App** or will start using the solution.
 
-<div class="alert alert-warning">
-Before enabling the feature, make sure that the store is integrated with a payment partner and can process credit card sales.
-</div>
+> ⚠️ Before enabling the feature, make sure that the store is integrated with a payment partner and can process credit card sales.
 
 ### Stores starting to use VTEX Sales App
 
@@ -113,9 +109,7 @@ Follow the steps below to sell using **Sales App card entry**:
 3. Automatically capture the card data with the capture screen or enter the data manually. The front and back of the card must be scanned.
 4. After the payment is approved, the purchase confirmation is made in **VTEX Sales App**.
 
-<div class = "alert alert-info">
-Customers can scan the card or manually enter the data themselves if they prefer.
-</div>
+> ℹ️ Customers can scan the card or manually enter the data themselves if they prefer.
 
 ## Learn more
 

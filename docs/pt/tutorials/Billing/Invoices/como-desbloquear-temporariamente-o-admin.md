@@ -28,6 +28,4 @@ Para realizar esse procedimento, é necessário ter uma das seguintes permissõe
 2. Clique em **Veja como desbloquear temporariamente.**
 3. Clique em **Desbloquear por 48 horas.**
 
-<div class = "alert alert-info">
- O desbloqueio é temporário e válido por 48 horas úteis. Aproveite esse período para regularizar suas faturas e evitar novos bloqueios.
-</div>
+> ℹ️ O desbloqueio é temporário e válido por 48 horas úteis. Aproveite esse período para regularizar suas faturas e evitar novos bloqueios.

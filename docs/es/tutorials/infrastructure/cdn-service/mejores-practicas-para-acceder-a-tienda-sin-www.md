@@ -68,6 +68,4 @@ Algunos proveedores de DNS, como [Cloudflare](https://www.cloudflare.com/pt-br/)
 
 Por lo tanto, si deseas utilizar un dominio puro con una CDN en una configuración específica, la primera etapa es comprobar si tu proveedor de DNS soporta CNAME Flattening. En caso afirmativo, puedes configurar el dominio puro de esa manera.
 
-<div class="alert alert-warning">
-  <p>Cuando se utiliza la solución DNS Flattening, se comportará de la misma forma que un <a href="https://help.vtex.com/es/tutorial/por-que-nao-recomendamos-inserir-um-proxy-reverso-em-frente-aos-servicos-da--4PFWsfRAKviNVPf1bYdiir">proxy inverso</a>. En este caso, se debe configurar una entrada de verificación TXT.</p>
-</div>
+> ⚠️ Cuando se utiliza la solución DNS Flattening, se comportará de la misma forma que un [proxy inverso](https://help.vtex.com/es/tutorial/por-que-nao-recomendamos-inserir-um-proxy-reverso-em-frente-aos-servicos-da--4PFWsfRAKviNVPf1bYdiir). En este caso, se debe configurar una entrada de verificación TXT.

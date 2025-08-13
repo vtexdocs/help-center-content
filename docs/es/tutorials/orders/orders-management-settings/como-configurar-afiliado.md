@@ -36,9 +36,7 @@ Para crear un nuevo ID del afiliado, realice los siguientes pasos:
 
 > Fijate que el valor **{NombreDelMarketplace}** debe ser cambiado por el nombre de la cuenta del marketplace y el valor **{IdDelSeller}** debe ser cambiado por el ID del seller registrado por el marketplace.
 
-> <div class="alert alert-danger">
-El valor <strong>{IdDelSeller}</strong> es <em>case sensitive</em>. Así, debe escribirse en la URL exactamente de la misma manera que esté registrado en el marketplace.
-</div>
+> > ❗ El valor **{IdDelSeller}** es *case sensitive*. Así, debe escribirse en la URL exactamente de la misma manera que esté registrado en el marketplace.
 
 > En el caso de [marketplaces externos a VTEX](https://help.vtex.com/es/tutorial/marketplace-strategies-at-vtex--tutorials_402#integrado-con-un-marketplace-externo), llene el campo con el valor: `https://{endpointDoAfiliado}/api/notification/`.   
 

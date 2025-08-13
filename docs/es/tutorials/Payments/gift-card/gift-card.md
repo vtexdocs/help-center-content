@@ -28,44 +28,36 @@ Por estándar VTEX, el vale de compra se considera una forma de pago. Este produ
 
 Para crear un nuevo vale de compra, siga los pasos a continuación:
 <ol>
-  <li>En el Admin VTEX, accede a <b>Promociones > Tarjetas de regalo</b>, o escribe __<b>Tarjetas de regalo</b> en la barra de búsqueda en la parte superior de la página.</li>
+  <li>En el Admin VTEX, accede a **Promociones > Tarjetas de regalo**, o escribe __**Tarjetas de regalo** en la barra de búsqueda en la parte superior de la página.</li>
   <br>
-  <li>Haga clic en el botón azul <b>Nuevo vale</b>.</li>
+  <li>Haga clic en el botón azul **Nuevo vale**.</li>
   <br>   
-<div class = "alert alert-info">
-  <p>En la pantalla de creación del vale, el campo <b>Vale</b> es llenado automáticamente por el sistema VTEX con el código ID del nuevo vale. Este es el código que debe ingresar el cliente en la pantalla de checkout para aplicar el vale al carrito y reducir el valor de pago del pedido.</p>
-</div>
+> ℹ️ En la pantalla de creación del vale, el campo **Vale** es llenado automáticamente por el sistema VTEX con el código ID del nuevo vale. Este es el código que debe ingresar el cliente en la pantalla de checkout para aplicar el vale al carrito y reducir el valor de pago del pedido.
 <br>
   <li>Complete los campos presentados de acuerdo con las orientaciones que se indican a continuación:</li>
   <br>
 <ul>  
-  <li><b>Valor</b>: valor nominal que se concederá para el uso del vale.</li>
-  <li><b>Código de moneda</b>: moneda en la que se creará el vale. Las opciones disponibles para la selección se presentan de acuerdo con las políticas comerciales de cada tienda.</li>
-  <li><b>Fecha de vencimiento</b>: es la fecha de vigencia de uso del vale.</li>
-  <li><b>Doc. de identificación</b>: dato que identifica y define el vale para un cliente específico.</li>
-  <li><b>Colección</b>: determina la colección de productos que define los ítems a los que se puede aplicar el vale.</li>
+  <li>**Valor**: valor nominal que se concederá para el uso del vale.</li>
+  <li>**Código de moneda**: moneda en la que se creará el vale. Las opciones disponibles para la selección se presentan de acuerdo con las políticas comerciales de cada tienda.</li>
+  <li>**Fecha de vencimiento**: es la fecha de vigencia de uso del vale.</li>
+  <li>**Doc. de identificación**: dato que identifica y define el vale para un cliente específico.</li>
+  <li>**Colección**: determina la colección de productos que define los ítems a los que se puede aplicar el vale.</li>
 </ul><br>
 
-<div class="alert alert-warning">
-<strong>Atención</strong>: los campos “Valor” y “Fecha de vencimiento” deben completarse de forma <strong>obligatoria</strong>. De lo contrario, el vale no se guardará.
-</div>
+> ⚠️ **Atención**: los campos “Valor” y “Fecha de vencimiento” deben completarse de forma **obligatoria**. De lo contrario, el vale no se guardará.
 
-<div class="alert alert-danger">
-La funcionalidad de creación de tarjetas de regalo por colecciones de productos no está funcionando. Hay más información sobre este problema en el artículo <a href="https://help.vtex.com/en/known-issues/restricting-the-use-of-giftcards-to-a-collection-of-products-does-not-work--7kdbZUdscJLo1sGY6bo1jp" target="_blank">Restricting the use of GiftCards to a collection of products does not work</a>.
-</div>
+> ❗ La funcionalidad de creación de tarjetas de regalo por colecciones de productos no está funcionando. Hay más información sobre este problema en el artículo [Restricting the use of GiftCards to a collection of products does not work](https://help.vtex.com/en/known-issues/restricting-the-use-of-giftcards-to-a-collection-of-products-does-not-work--7kdbZUdscJLo1sGY6bo1jp).
 
 Después de completar los campos correctamente, el usuario puede seleccionar hasta tres opciones de configuración: 
 <ul>
-  <li><b>Restricto</b>: solo el cliente que hace referencia al CPF o CNPJ informado anteriormente puede usar este vale.</li>
-  <li><b>Recargable</b>: mientras este vale esté disponible, su saldo puede alterarse.</li>
-  <li><b>Reutilizable</b>: puede hacer nuevas compras con este vale hasta que su valor sea utilizado en su totalidad.</li>
+  <li>**Restricto**: solo el cliente que hace referencia al CPF o CNPJ informado anteriormente puede usar este vale.</li>
+  <li>**Recargable**: mientras este vale esté disponible, su saldo puede alterarse.</li>
+  <li>**Reutilizable**: puede hacer nuevas compras con este vale hasta que su valor sea utilizado en su totalidad.</li>
 </ul>
 <br>
-  <li>Por último, haga clic en el botón <b>Guardar</b>.</li>
+  <li>Por último, haga clic en el botón **Guardar**.</li>
 <br>
-<div class="alert alert-info">
-La creación de cupones no tiene límite, sin embargo, solo se pueden exportar 8000 cupones a la vez.
-</div>
+> ℹ️ La creación de cupones no tiene límite, sin embargo, solo se pueden exportar 8000 cupones a la vez.
 
 </ol>
 
@@ -73,39 +65,33 @@ La creación de cupones no tiene límite, sin embargo, solo se pueden exportar 8
 
 Para crear más de un nuevo vale de compra al mismo tiempo (un lote), siga los pasos a continuación:
 <ol>
-  <li>En el Admin VTEX, accede a <b>Promociones > Tarjetas de regalo</b>, o escribe <b>Tarjetas de regalo</b> en la barra de búsqueda en la parte superior de la página.</li>
+  <li>En el Admin VTEX, accede a **Promociones > Tarjetas de regalo**, o escribe **Tarjetas de regalo** en la barra de búsqueda en la parte superior de la página.</li>
   <br>
-  <li>Haga clic en el botón azul <b>Nuevos vales en masa</b>.</li>
+  <li>Haga clic en el botón azul **Nuevos vales en masa**.</li>
   <br>
   <li>Complete los campos presentados de acuerdo con las orientaciones que se indican a continuación:</li>
 <br>
 <ul>
-  <li><b>Cantidad de vales</b>: este es el número de vales que desea crear como lote. Se puede crear un máximo de 500 (quinientos) vales por lote.</li>
-  <li><b>Valor</b>: valor nominal que se concederá a todos los vales de este lote;</li>
-  <li><b>Código de moneda</b>: moneda en la que se agruparán los vales. Las opciones disponibles para la selección se presentan de acuerdo con las políticas comerciales de cada tienda.</li>
-  <li><b>Fecha de vencimiento</b>: es la fecha de vigencia de uso de todos los vales de este lote.</li>
-  <li><b>Colección</b>: determina la colección de productos que define los ítems a los que se pueden aplicar los vales.</li>
+  <li>**Cantidad de vales**: este es el número de vales que desea crear como lote. Se puede crear un máximo de 500 (quinientos) vales por lote.</li>
+  <li>**Valor**: valor nominal que se concederá a todos los vales de este lote;</li>
+  <li>**Código de moneda**: moneda en la que se agruparán los vales. Las opciones disponibles para la selección se presentan de acuerdo con las políticas comerciales de cada tienda.</li>
+  <li>**Fecha de vencimiento**: es la fecha de vigencia de uso de todos los vales de este lote.</li>
+  <li>**Colección**: determina la colección de productos que define los ítems a los que se pueden aplicar los vales.</li>
 <br>
-<div class="alert alert-warning">
-<strong>Atención</strong>: los campos “Cantidad de vales”, “Valor” y “Fecha de vencimiento” deben completarse de forma <strong>obligatoria</strong>. De lo contrario, los vales no se guardarán.
-</div>
+> ⚠️ **Atención**: los campos “Cantidad de vales”, “Valor” y “Fecha de vencimiento” deben completarse de forma **obligatoria**. De lo contrario, los vales no se guardarán.
 <br>
-<div class="alert alert-danger">
-La funcionalidad de creación de tarjetas de regalo por colecciones de productos no está funcionando. Hay más información sobre este problema en el artículo <a href="https://help.vtex.com/en/known-issues/restricting-the-use-of-giftcards-to-a-collection-of-products-does-not-work--7kdbZUdscJLo1sGY6bo1jp" target="_blank">Restricting the use of GiftCards to a collection of products does not work</a>.
-</div>
+> ❗ La funcionalidad de creación de tarjetas de regalo por colecciones de productos no está funcionando. Hay más información sobre este problema en el artículo [Restricting the use of GiftCards to a collection of products does not work](https://help.vtex.com/en/known-issues/restricting-the-use-of-giftcards-to-a-collection-of-products-does-not-work--7kdbZUdscJLo1sGY6bo1jp).
 <br>
-  <li><b>Recargable</b>: mientras estos vales estén disponibles, sus saldos pueden alterarse.</li>
-  <li><b>Reutilizable</b>: puede hacer nuevas compras con estos vales hasta que sus valores sean utilizados en su totalidad.</li>
+  <li>**Recargable**: mientras estos vales estén disponibles, sus saldos pueden alterarse.</li>
+  <li>**Reutilizable**: puede hacer nuevas compras con estos vales hasta que sus valores sean utilizados en su totalidad.</li>
 </ul><br>  
-  <li>Haga clic en el botón <b>Guardar</b>.</li>
+  <li>Haga clic en el botón **Guardar**.</li>
 <br>
 Aparecerá una nueva pantalla confirmando que se ha generado el número solicitado de vales y también se mostrarán sus identificaciones.<br>
 <br>
-  <li>Por último, haga clic en el botón <b>Volver</b>.</li>
+  <li>Por último, haga clic en el botón **Volver**.</li>
 <br>
-<div class="alert alert-info">
-La creación de cupones no tiene límite, sin embargo, solo se pueden exportar 8000 cupones a la vez.
-</div>
+> ℹ️ La creación de cupones no tiene límite, sin embargo, solo se pueden exportar 8000 cupones a la vez.
   </ol>
 
 ## Cómo configurar un Vale de Compra como un método de pago 

@@ -60,16 +60,13 @@ Consulta la lista completa de [recursos de License Manager](https://help.vtex.co
 
 Los roles de acceso pueden ser gestionados a través del Admin VTEX.  Para acceder a esta sección, en la barra superior de VTEX Admin, haz clic en el **avatar de tu perfil**, marcado con la inicial de tu correo electrónico, y luego en **Configuración de la cuenta** > **Roles de usuario**.
 
-![Lista roles](//images.ctfassets.net/alneenqid6w5/5SsjVcIztKJQ3yxY1udwOH/1b6a2abc5a10006d758e31806564d378/last_with_shadow_Wed_Apr__8_16_55_01_-03_2020.png)
+![Lista roles](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/account-management/access-control/roles_1.png)
 
 Esta pantalla muestra una lista de todos los roles registrados para la cuenta, que puede editar o eliminar desde la columna **Acciones**.
 
 En una cuenta recién creada, apenas el rol de *Owner (Admin Super)* se listará. Este perfil da al usuario acceso sin restricciones a todos los recursos de la plataforma.
 
-<div class="alert alert-warning">
- <p>La cantidad de usuarios con el rol *Owner (Admin Super)* debe ser la menor posible. Además, debe asegurarse de tener visibilidad y control sobre quién recibe este acceso.</p>
- <p>El uso sin restricciones de roles muy permisivos aumenta el riesgo de ataques en las tiendas por la fuga de credenciales de acceso.</p>
-</div>
+> ⚠️ La cantidad de usuarios con el rol *Owner (Admin Super)* debe ser la menor posible. Además, debe asegurarse de tener visibilidad y control sobre quién recibe este acceso. El uso sin restricciones de roles muy permisivos aumenta el riesgo de ataques en las tiendas por la fuga de credenciales de acceso.
 
 ## Crear roles
 

@@ -105,9 +105,7 @@ Veja abaixo como configurar as **Listas 1 e 2** para ativar as condições de de
 - **SKUs:** selecione os SKUs adicionais que, quando adicionados ao carrinho junto com os SKUs da **Lista 1**, ativarão o desconto configurado. A promoção só será ativada se os produtos da **Lista 1** e da **Lista 2** forem adicionados ao carrinho.
 - **Desconto:** insira o percentual de desconto que será aplicado aos SKUs da **Lista 2** quando os SKUs da **Lista 1** forem adicionados ao carrinho. O valor deve ser inserido em percentual (%). Por exemplo, para conceder 10% de desconto na compra de um cinto combinado com uma calça da **Lista 1**, insira "10" no campo.
 
-<div class = "alert alert-info">
-Mantenha SKUs diferentes na Lista 1 e na Lista 2. Não repita o mesmo SKU em ambas as listas.
-</div>
+> ℹ️ Mantenha SKUs diferentes na Lista 1 e na Lista 2. Não repita o mesmo SKU em ambas as listas.
 
 ## Definir condições para aplicar a promoção
 
@@ -146,4 +144,4 @@ Destaque a promoção na página de produto e adicione dados personalizados para
 
 Veja abaixo o formulário de criar promoções Compre Junto:
 
-![Informação geral - PT](//images.ctfassets.net/alneenqid6w5/7FKhVNFJSyIiKySq4alXUF/296fed4f99b6741c7b9d7319f70ad9df/Compre_junto-PT.gif)
+![Informação geral - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promotions-&-taxes/promotions/compre-junto_1.gif)

@@ -30,20 +30,20 @@ Confira neste artigo como você pode gerenciar usuários:
 ## Adicionando um novo usuário à organização
 Para adicionar um novo usuário à organização, siga estas etapas:
 <ol>
-    <li>No Admin VTEX, acesse <strong>Aplicativos &gt; Organizações e centros de custo B2B &gt; Organizações</strong>, ou digite <strong>Organizações</strong> na barra de busca no topo da página.</li>
+    <li>No Admin VTEX, acesse **Aplicativos &gt; Organizações e centros de custo B2B &gt; Organizações**, ou digite **Organizações** na barra de busca no topo da página.</li>
     <li>Clique no nome da organização desejada para acessar a página de detalhes.</li>
-    <li>Clique na aba <strong>Usuários</strong>.</li>
-    <li>Clique em <code>Novo</code>.</li>
+    <li>Clique na aba **Usuários**.</li>
+    <li>Clique em `Novo`.</li>
     <li>Preencha os dados dos usuários, conforme as informações abaixo:
         <ul>
-            <li><strong>Nome:</strong> nome completo do usuário.</li>
-            <li><strong>Email:</strong> email do usuário.</li>
-            <li><strong>Organização:</strong> nome da organização.</li>
-            <li><strong>Centro de custo:</strong> centro de custo ao qual o usuário estará associado.</li>
-            <li><strong>Perfil de acesso:</strong> papel que o usuário terá na loja virtual. Veja mais detalhes sobre as funções disponíveis na documentação de <a href="https://help.vtex.com/pt/tutorial/gerenciamento-de-permissoes-no-b2b-suite--2PLR7mIFxgbmsGq84paLeA" target="_blank">Gerenciamento de permissões no B2B Suite</a>.</li>
+            <li>**Nome:** nome completo do usuário.</li>
+            <li>**Email:** email do usuário.</li>
+            <li>**Organização:** nome da organização.</li>
+            <li>**Centro de custo:** centro de custo ao qual o usuário estará associado.</li>
+            <li>**Perfil de acesso:** papel que o usuário terá na loja virtual. Veja mais detalhes sobre as funções disponíveis na documentação de [Gerenciamento de permissões no B2B Suite](https://help.vtex.com/pt/tutorial/gerenciamento-de-permissoes-no-b2b-suite--2PLR7mIFxgbmsGq84paLeA).</li>
         </ul>
     </li>
-    <li>Clique em <code>Salvar</code>.</li>
+    <li>Clique em `Salvar`.</li>
 </ol>
 
 ## Editando um usuário

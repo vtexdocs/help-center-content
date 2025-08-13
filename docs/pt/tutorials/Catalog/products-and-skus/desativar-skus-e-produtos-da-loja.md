@@ -29,7 +29,7 @@ Tanto o produto quanto o SKU podem ter status ativo ou inativo, conforme apresen
 
 | **Status do produto ou SKU** | **Descrição** |
 | :---: | :--- |
-| Ativo | <p>O produto ou SKU foi habilitado como ativo, demonstrando que o lojista deseja vendê-lo na frente de loja.</p><p>A venda do produto ou SKU depende da sua ativação e disponibilidade. Para mais informações sobre a disponibilidade de produto, veja os artigos <a href="https://help.vtex.com/pt/tutorial/products-and-skus--2ig7TmROlirWirZjFWZ3By#acompanhar-disponibilidade-de-produtos">Produtos e SKUs</a> e <a href="https://help.vtex.com/pt/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382">Por que o produto não aparece no site?</a>.</p> |
+| Ativo | O produto ou SKU foi habilitado como ativo, demonstrando que o lojista deseja vendê-lo na frente de loja.A venda do produto ou SKU depende da sua ativação e disponibilidade. Para mais informações sobre a disponibilidade de produto, veja os artigos [Produtos e SKUs](https://help.vtex.com/pt/tutorial/products-and-skus--2ig7TmROlirWirZjFWZ3By#acompanhar-disponibilidade-de-produtos) e [Por que o produto não aparece no site?](https://help.vtex.com/pt/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382). |
 | Inativo | O produto ou SKU foi desativado, demonstrando que no momento o lojista não deseja apresentá-lo na frente de loja para vendas. |
 
 ## Desativar produto
@@ -41,9 +41,7 @@ Para que o produto adquira status inativo, siga os passos abaixo:
 3. Na página de edição do produto, desabilite o toggle <i class="fas fa-toggle-off" aria-hidden="true"></i> Ativo.
 4. Clique em `Salvar`.
 
-<div class="alert alert-warning">
-  <p>Quando todos os SKUs do produto se tornam inativos, o produto é automaticamente desativado.</p>
-</div>
+> ⚠️ Quando todos os SKUs do produto se tornam inativos, o produto é automaticamente desativado.
 
 ## Desativar SKU
 

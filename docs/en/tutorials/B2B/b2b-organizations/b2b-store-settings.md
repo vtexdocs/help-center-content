@@ -28,13 +28,13 @@ On this page, you will see the instructions on how to configure the general sett
 ## Payment Terms
 You can add payment methods by selecting them based on your business needs.  
 Example: debit card, credit card, promissory.
-![ B2B Store Settings - General Settings + Payment Terms](//images.ctfassets.net/alneenqid6w5/7wvxJVXraGTFAheCAp8tGP/4efe4d1a37c7b2858fb8f528388e45e5/image1.jpg)
+![ B2B Store Settings - General Settings + Payment Terms](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/B2B/b2b-organizations/b2b-store-settings_1.jpg)
 
 ## Price Tables
 You can add default prices for the stores you add. Learn more about Price Tables on [Pricing](https://developers.vtex.com/docs/guides/pricing-overview).
 
 ## Trade Policies
- ![ B2B - Políticas comerciais EN](//images.ctfassets.net/alneenqid6w5/AsCTmvTHbdWfOnVeIiGkj/7d93cbc41f2011d2ca1f1f3090458b2d/image2.jpg)
+ ![ B2B - Políticas comerciais EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/B2B/b2b-organizations/b2b-store-settings_2.jpg)
 You can directly link your store to trade policies and sales channels.
 
 1. In the **Available trade policies** list, click the trade policy you want to add to your store and then click `Add to Trade Policy`, which will then be displayed in the **Selected trade policies** list.

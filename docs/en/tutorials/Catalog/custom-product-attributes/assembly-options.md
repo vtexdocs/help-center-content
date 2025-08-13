@@ -15,15 +15,13 @@ locale: en
 subcategoryId: 1hoOi2R0Rm6ky0yCwOUoiy
 ---
 
-<div class="alert alert-warning">
-  <p>This feature is only available for stores developed using <a href="https://vtex.com/us-en/store-framework/">VTEX IO</a>. Before proceeding, you need to <a href="https://developers.vtex.com/vtex-developer-docs/docs/vtex-product-customizer">install and configure Product Customizer</a> in your store. </p>
-</div>
+> ⚠️ This feature is only available for stores developed using [VTEX IO](https://vtex.com/us-en/store-framework/). Before proceeding, you need to [install and configure Product Customizer](https://developers.vtex.com/vtex-developer-docs/docs/vtex-product-customizer) in your store. 
 
 An assembly option is an [attachment](https://help.vtex.com/en/tutorial/what-is-an-attachment--aGICk0RVbqKg6GYmQcWUm) for complex scenarios, such as product customization, in which you need to manage different product combinations, quantity, additional items, costs, and product inventory management.
 
 In the example below, a store offers multiple assembly options for the Custom Bell product. These options are shown on the product page, where the customer can select the desired options. Depending on the choices, there may be an additional cost for the SKU.
 
-![assembly-option-EN](//images.ctfassets.net/alneenqid6w5/3A5QzqwSI6Z9CZk3EqPrZs/585aace6b147a8107f0f5d03faa5db5f/image.png)
+![assembly-option-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/custom-product-attributes/assembly-options_1.png)
 
 You can combine [SKUs](https://help.vtex.com/en/tutorial/what-is-an-sku--1K75s4RXAQyOuGUYKMM68u) to provide assembly options, such as the Bells add-ons Roman or the Bells add-ons 1-3 lines in the example above. If an item is out of stock, it will be shown as unavailable.
 
@@ -33,9 +31,7 @@ This article will explain how to start using Assembly Options in your store.
 
 There are two ways to implement Assembly Options: using the [Assembly Options app](#app-assembly-options) or the native Catalog [Custom Product Attributes](#custom-product-attributes) interface.
 
-<div class="alert alert-warning">
-  <p>If you implement Assembly Options in a <a href="https://help.vtex.com/en/tutorial/what-is-a-seller--5FkLvhZ3Few4CWWIuYOK2w">seller account</a>, the product customization options will be displayed to your customers at checkout. If you want the options to be displayed on the product page, you need to install the app in a <a href="https://help.vtex.com/en/tutorial/what-is-a-marketplace--680lLJTnmEAmekcC0MIea8">marketplace account</a>.</p>
-</div>
+> ⚠️ If you implement Assembly Options in a [seller account](https://help.vtex.com/en/tutorial/what-is-a-seller--5FkLvhZ3Few4CWWIuYOK2w), the product customization options will be displayed to your customers at checkout. If you want the options to be displayed on the product page, you need to install the app in a [marketplace account](https://help.vtex.com/en/tutorial/what-is-a-marketplace--680lLJTnmEAmekcC0MIea8).
 
 ### Assembly Options App
 
@@ -61,7 +57,7 @@ The first elements `[x-y]` are group rules, and between each `#` and `;` are SKU
 | \[0-3\]#10000\[1-2\]**\[1\]**pricetable1;#20000\[0-2\]**\[0\]**pricetable2;#30000\[0-2\]**\[0\]**pricetable3 | This segment defines the default selected quantity for each SKU.  |
 | \[0-3\]#10000\[1-2\]\[1\]**pricetable1**;#20000\[0-2\]\[0\]**pricetable2**;#30000\[0-2\]\[0\]**pricetable3** | The final segment indicates the price table for each item.  | 
 
-![assembly-option-exemplo-EN](//images.ctfassets.net/alneenqid6w5/2c4cfwQo0KisXQhlzYoxGC/939c084743ddf02d3903af57104f0b39/image.png)
+![assembly-option-exemplo-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/custom-product-attributes/assembly-options_2.png)
 
 #### Attachment Settings
 

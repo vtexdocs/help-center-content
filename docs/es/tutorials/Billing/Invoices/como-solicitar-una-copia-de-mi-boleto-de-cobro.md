@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 5ZfsNR4ioEsIyu6wkyce0M
 ---
 
-<div class="alert alert-info" role="alert"><strong>ATENCIÓN: Este procedimiento es apenas para clientes facturados en Brasil.</strong></div>
+> ℹ️ **ATENCIÓN: Este procedimiento es apenas para clientes facturados en Brasil.**
 
 En el módulo de Facturas, se puede consultar todas las facturas emitidas por VTEX y actualizar su boleto para pagar después de la fecha de vencimiento. Si no puede acceder a esta área, asegúrese de que tiene el [perfil de acceso financiero](https://help.vtex.com/es/tutorial/como-criar-um-perfil-de-acesso-financeiro--717qPtxW3Cy9n5KrReHeVv).
 

@@ -49,9 +49,7 @@ As VTEX is responsible for processing transactions from your store, all of them 
 - Transaction tag triggers even with transactions that were not successfully completed.
 - Failed or duplicated display of the order confirmation page if the transaction tag is linked to the page display.
 
-<div class = "alert alert-info">
-Consider that there is also a delay of up to 48 hours in recording transaction data on Google Analytics.
-</div>
+> ℹ️ Consider that there is also a delay of up to 48 hours in recording transaction data on Google Analytics.
 
 Also, integrations can be built in such a way that they end up not triggering certain tags on your storefront. For example, there are integrations that use a [payment app](https://developers.vtex.com/vtex-rest-api/docs/payments-integration-payment-app) and complete the purchase without redirecting the customer to the order confirmation page, such as the integration developed by AME Digital. Transactions will always be recorded in VTEX, but in this case, it is likely that they are not recorded in Google Analytics, generating divergence.
 

@@ -27,13 +27,11 @@ Para permitir o acesso à loja por outros endereços e versões sem subdomínio,
 
 ## Configurar redirecionamentos
 
-Existem diversas maneiras de configurar redirecionamentos, sendo o uso do <code>[htaccess](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Apache_Configuration_htaccess)</code> no servidor uma das mais conhecidas. Além disso, é possível usar um redirecionamento de DNS, disponibilizado por diversos serviços, incluindo provedores de domínio, como o [registro.br](https://registro.br/).
+Existem diversas maneiras de configurar redirecionamentos, sendo o uso do `[htaccess](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Apache_Configuration_htaccess)` no servidor uma das mais conhecidas. Além disso, é possível usar um redirecionamento de DNS, disponibilizado por diversos serviços, incluindo provedores de domínio, como o [registro.br](https://registro.br/).
 
 A seguir, apresentaremos instruções para configurar redirecionamentos para o endereço principal da sua loja utilizando a ferramenta [Direcionar](http://direcionar.com.br/), por sua simplicidade de uso.
 
-<div class="alert alert-warning">
-  <p>O <a href="http://direcionar.com.br/">Direcionar</a> não é um serviço da VTEX e não funciona com HTTPS. Existem outros serviços similares, e a VTEX não recomenda nenhum específico. A VTEX não se responsabiliza por problemas causados por serviços externos de redirecionamento.</p>
-</div>
+> ⚠️ O [Direcionar](http://direcionar.com.br/) não é um serviço da VTEX e não funciona com HTTPS. Existem outros serviços similares, e a VTEX não recomenda nenhum específico. A VTEX não se responsabiliza por problemas causados por serviços externos de redirecionamento.
 
 ### Redirecionamento de endereço sem subdomínio (como www)
 

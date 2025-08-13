@@ -37,15 +37,13 @@ Para activar el acceso, sigue las instrucciones de este tutorial.
 3. Haz clic en `Obtener app`.
 4. Ingresa el nombre de tu cuenta y haz clic en `Confirmar`. Se te redirigirá a la página de checkout de la aplicación.
 
-<div class="alert alert-info" role="alert"> 
-La aplicación Google Search Console es gratuita.
-</div>
+> ℹ️ La aplicación Google Search Console es gratuita.
 
 5. Haz clic en `Finalizar compra`.
 6. Haz clic en `Ir a la página de instalación` y se te redirigirá a la página de la aplicación en el Admin.
 7. Haz clic en `Instalar`. Se mostrará un mensaje de éxito para la instalación y se te redirigirá a la página de configuración de la aplicación en el Admin.
 
-![Google Search Console ES](//images.ctfassets.net/alneenqid6w5/5R9R0LNXzNI2a1Hrci0pZ5/3a0bac4b1e248b04eb26f863b5ca2781/ES.png)
+![Google Search Console ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/projects-&-integrations/integration-with-monitoring-tools/como-verificar-propiedad-en-el-google-search-console-de-tienda-vtex_1.png)
 
 8. En el campo **Content**, agrega solo el contenido que viene después de la flag `content` de la etiqueta meta que copiaste en Google Search Console [anteriormente](#instrucciones). Por ejemplo, si tu etiqueta meta es `<meta name="google-site-verification" content="{contentID}" />`, solo debes agregar lo que está dentro de `{contentID}` en el campo **Content**.
 9. Haz clic en `Guardar`.

@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 22TaEgFhwE6a6CG2KASYkC
 ---
 
-<div class="alert alert-info" role="alert"><strong>Procedimiento destinado a todas las sucursales VTEX, excepto Brasil.</strong></div>
+> ℹ️ **Procedimiento destinado a todas las sucursales VTEX, excepto Brasil.**
 
 Para garantizar la conformidad de todos los pagos realizados fuera del Brasil, se debe hacer el siguiente procedimiento:
 

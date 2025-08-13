@@ -17,7 +17,7 @@ subcategoryId: pwxWmUu7T222QyuGogs68
 
 The **Products and SKUs** page allows you to view and manage the list of all products in your store, including information about SKUs, last update, and status. To access it, go to **Catalog > Products and SKUs**.
 
-![products_and_skus_listing_page_EN](//images.ctfassets.net/alneenqid6w5/7Hg9SPWks9EScdyttTfXYI/d1675874c9ea5449a08942b0d4c3cd0c/products_and_skus_listing_page_EN.png)
+![products_and_skus_listing_page_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/products-and-skus/products-and-skus_1.png)
 
 This page allows you to: 
 
@@ -34,8 +34,8 @@ From the product list, you can find the following information:
 
 | **Column** | **Description** |
 |----|----|
-| **Name** | <p>The product name, set when adding it. Below the name, the page displays the product ID, which is the product's unique identifier code.</p><p>Next to the name, each row displays an arrow <i class="fas fa-chevron-right"></i> to <a href="#viewing-the-sku-list">view the list of SKUs</a> associated with the product, an icon that represents <a href="#tracking-product-availability">product availability</a> and the product image.</p> |
-| **Last Update** | Date of the most recent product <a href="https://help.vtex.com/en/tutorial/understanding-how-indexation-works--tutorials_256">indexing</a>. For more details about this process, go to the <a href="#viewing-indexed-information">Viewing indexed information</a> section. |
+| **Name** | The product name, set when adding it. Below the name, the page displays the product ID, which is the product's unique identifier code.Next to the name, each row displays an arrow <i class="fas fa-chevron-right"></i> to [view the list of SKUs](#viewing-the-sku-list) associated with the product, an icon that represents [product availability](#tracking-product-availability) and the product image. |
+| **Last Update** | Date of the most recent product [indexing](https://help.vtex.com/en/tutorial/understanding-how-indexation-works--tutorials_256). For more details about this process, go to the [Viewing indexed information](#viewing-indexed-information) section. |
 
 ## Creating a product
 
@@ -55,9 +55,7 @@ To find a specific product, you can type one of the following in the search bar:
 
 After entering information in the search bar, it expands to display existing criteria. Clicking the desired option immediately triggers the search and returns the results. To clear the search, click the X icon in the search bar.
 
-<div class = "alert alert-info">
-Search results are sorted by the most recent updates: the more recently a product or SKU was updated, the higher it appears in the results.
-</div>
+> ℹ️ Search results are sorted by the most recent updates: the more recently a product or SKU was updated, the higher it appears in the results.
 
 ## Filtering products
 
@@ -72,9 +70,7 @@ You can filter the product list using the options below. Select the desired filt
 * [Trade policy](https://help.vtex.com/en/tutorial/how-trade-policies-work--6Xef8PZiFm40kg2STrMkMV)
 * Created date
 
-<div class="alert alert-warning">
-To quickly find recently created products, use the <code>Created date</code> filter. You can filter by products created <code>Today</code> or in the <code>Last 7 days</code>.
-</div>
+> ⚠️ To quickly find recently created products, use the `Created date` filter. You can filter by products created `Today` or in the `Last 7 days`.
 
 ### Filtering by status
 
@@ -82,7 +78,7 @@ The table below explains the filtering options for `Status`:
 
 | **Status type** | **Description** |
 | :---: | :--- |
-| Active | <p>The product becomes active when the merchant enables this setting, meaning they want to sell it.</p><p>Activation alone doesn't guarantee availability — the product also needs to meet other conditions, like price and inventory. Learn more in <a href="https://help.vtex.com/en/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382">Why is the product not visible on the website?</a>.</p> |
+| Active | The product becomes active when the merchant enables this setting, meaning they want to sell it.Activation alone doesn't guarantee availability — the product also needs to meet other conditions, like price and inventory. Learn more in [Why is the product not visible on the website?](https://help.vtex.com/en/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382). |
 | Inactive | The product becomes inactive when the merchant disables this setting, meaning they don't want to sell it at the moment. All inactive products are unavailable for sale. |
 
 The same availability icons also apply to SKUs, as explained in the next section.
@@ -94,8 +90,8 @@ On the **Products and SKUs** page, each product has a colored icon that indicate
 | **Icon color** | **Name** | **Meaning** |
 | :---: | :--- | :--- |
 | Green | `Available for sale` | The product is enabled with an active status and is available for sale in the store, associated with at least one [trade policy](https://help.vtex.com/en/tutorial/how-trade-policies-work--6Xef8PZiFm40kg2STrMkMV). |
-| Orange | `Unavailable product` | <p>The product is unavailable for sale, even though it is active. This means the seller marked the product as available for sale, but it is currently not sellable.</p><p>Several reasons may cause a product to be unavailable, such as pricing, inventory, logistics, or others. For more information, check the article <a href="https://help.vtex.com/faq/why-is-the-product-not-visible-on-the-website--frequentlyAskedQuestions_382">Why is the product not showing on the website?</a></p> |
-| White | `Inactive in the catalog` | <p>The product is disabled and has an inactive status.</p><p>When a seller disables a product, it means they do not intend to sell it. In this case, availability tracking does not apply.</p> |
+| Orange | `Unavailable product` | The product is unavailable for sale, even though it is active. This means the seller marked the product as available for sale, but it is currently not sellable.Several reasons may cause a product to be unavailable, such as pricing, inventory, logistics, or others. For more information, check the article [Why is the product not showing on the website?](https://help.vtex.com/faq/why-is-the-product-not-visible-on-the-website--frequentlyAskedQuestions_382) |
+| White | `Inactive in the catalog` | The product is disabled and has an inactive status.When a seller disables a product, it means they do not intend to sell it. In this case, availability tracking does not apply. |
 
 The availability icons for the product also apply to SKUs, as shown in the following section.
 
@@ -103,7 +99,7 @@ The availability icons for the product also apply to SKUs, as shown in the follo
 
 When you click the arrow <i class="fas fa-chevron-right"></i> in the product row, the platform displays a list with all the SKUs of that product, as shown in the image below: 
 
-![products_and_skus_sku_icons_EN](//images.ctfassets.net/alneenqid6w5/7ssqk5kn4ZYRpduWngH49e/639f5ee043acaed10f8d583b96963000/products_and_skus_sku_icons_EN.gif)
+![products_and_skus_sku_icons_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/products-and-skus/products-and-skus_2.gif)
 
 In the SKU list, you'll find the following information:
 
@@ -142,7 +138,7 @@ By clicking the menu icon <i class="fas fa-ellipsis-v"></i> in a product, you ca
 
 The **Products and SKUs** page lets you track the product and SKU [indexing](https://help.vtex.com/en/tutorial/entendendo-o-funcionamento-da-indexacao--tutorials_256) logs. To do this, find the desired product row, click the <i class="fas fa-ellipsis-v" aria-hidden="true"></i> [action menu](#accessing-the-action-menu), and select `View indexing information`. This will open the Indexing Log modal, as shown in the image below:
 
-![products_and_skus_indexing_modal_EN](//images.ctfassets.net/alneenqid6w5/32F9nLJmKAqeCzvghvMeS5/807454a34eec5fa419b1aff556e785eb/products_and_skus_indexing_modal_EN.png)
+![products_and_skus_indexing_modal_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/products-and-skus/products-and-skus_3.png)
 
 In the top right corner of the modal, you can copy the content to the clipboard by clicking <i class="far fa-clone" aria-hidden="true"></i> `Copy`. To close the modal, click the <i class="far fa-times-circle" aria-hidden="true"></i> icon or anywhere outside the modal.
 

@@ -29,7 +29,7 @@ __Caso um SKU com determinada especificação não esteja disponível em estoque
 
 No exemplo abaixo, os tamanhos P e G do produto não estão disponíveis.
 
-![classeIndisponivel](https://images.contentful.com/alneenqid6w5/6dTacclHvqeaMwws8kqU8K/2d0d79d95dc521626eb1ba5c1c056da2/classeIndisponivel.png)
+![classeIndisponivel](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Storefront/Layout/como-usar-a-classe-de-produto-indisponivel_1.png)
 
 ## Incluir a classe de produto indisponível
 
@@ -43,9 +43,7 @@ Você pode customizar seu arquivo CSS para que essa classe exiba, por exemplo, o
 
 ## Determinar a qual especificação será atribuída a classe
 
-<div class="alert alert-warning">
-A classe de produto indisponível apenas é atribuída à especificação que aparece <b>por último</b> na lista de especificações do SKU, no módulo Catalog.
-</div>
+> ⚠️ A classe de produto indisponível apenas é atribuída à especificação que aparece **por último** na lista de especificações do SKU, no módulo Catalog.
 
 Por exemplo, se a especificação `Tamanho` aparecer por último, ela receberá a classe de indisponibilidade.
 

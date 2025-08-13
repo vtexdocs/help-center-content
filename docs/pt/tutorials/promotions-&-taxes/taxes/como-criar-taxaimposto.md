@@ -19,9 +19,7 @@ Taxa é o contrário de promoção, ou seja, é um adicional percentual inserido
 
 A taxa é aplicada conforme o cadastro que é feito no seller. Então se no carrinho da sua loja tem um produto de outro seller, a taxa a ser aplicada a esse produto, será aquela que estiver cadastrada no Admin do seller dono do produto. Não será considerada a taxa cadastrada no módulo de Preço do marketplace, ainda que essa taxa esteja associada a esse produto.
 
-<div class = "alert alert-info">
-Contas do Seller Portal não têm acesso ao módulo de criação de taxas. No entanto, ao criar uma taxa pelo Admin VTEX, para que a taxa seja aplicada no contexto de seller, selecione a política comercial correspondente durante a configuração.
-</div>
+> ℹ️ Contas do Seller Portal não têm acesso ao módulo de criação de taxas. No entanto, ao criar uma taxa pelo Admin VTEX, para que a taxa seja aplicada no contexto de seller, selecione a política comercial correspondente durante a configuração.
 
 ## Como criar
 
@@ -63,4 +61,4 @@ Contas do Seller Portal não têm acesso ao módulo de criação de taxas. No en
 
 O agendamento de uma taxa ocorre quando é criada ou alterada com data e hora de validade com início posterior ao atual. Visualmente é possível identificar essas taxas na página principal do módulo de Taxas & Promoções, através de uma tarja laranja no canto superior direito do cartão da taxa, com a palavra agendada. Veja abaixo um exemplo de como fica o cartão de uma taxa quando agendada.
 
-![agendamento.pt](//images.ctfassets.net/alneenqid6w5/79wklIdW9FLzJZb8e4rxc0/6214e94e10b4df0cc4b07b7cc81e52f9/agendamento.pt.png)
+![agendamento.pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promotions-&-taxes/taxes/como-criar-taxaimposto_1.png)

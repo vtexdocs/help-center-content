@@ -19,7 +19,7 @@ En la plataforma VTEX, tienes la opción de registrar tiendas físicas, franquic
 
 La cuenta franquicia está asociada a una cuenta principal. En el caso de una marca que tenga varias tiendas físicas, franquiciados o representantes, cada uno de ellos puede tener una cuenta franquicia vinculada a la cuenta principal de la marca. Esto les permite entregar los productos vendidos por el ecommerce de la marca.
 
-![diagrama contas v2 - es](//images.ctfassets.net/alneenqid6w5/6KC4yvWh08WZ3DMcGRJS4I/38f2bac55f9150f6049aaa20193aa97e/diagrama_contas_v2_-_es.png)
+![diagrama contas v2 - es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/omnichannel/omnichannel-overview/que-es-una-cuenta-franquicia_1.png)
 
 En este artículo, trataremos los siguientes temas:
 
@@ -38,7 +38,7 @@ Además, utilizando la cuenta franquicia, puedes gestionar precios y medios de p
 
 Una cuenta franquicia no tiene su propio sitio web. Los consumidores navegan directamente en el sitio web de la cuenta principal, que funciona como un _marketplace_ en esta situación. Los datos de los clientes se almacenan en el Master Data de la cuenta principal.
 
-![diagrama admin contas - es](//images.ctfassets.net/alneenqid6w5/226ePm8TzkWPFnTvJj2Sej/b30710b00e3a9a898fe2cd1fb5dd96c5/diagrama_admin_contas_-_es.png)
+![diagrama admin contas - es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/omnichannel/omnichannel-overview/que-es-una-cuenta-franquicia_2.png)
 
 ## Relación entre la cuenta franquicia y el _Seller White Label_
 
@@ -46,14 +46,7 @@ Cada cuenta franquicia opera automáticamente como un _Seller White Label_ de la
 
 Los clientes finales no eligen ni tienen visibilidad de la existencia de los _Sellers White Label_ en ningún momento del proceso. En esta lógica, la relación de los consumidores es con la marca (cuenta principal) y no con cada tienda física (cuenta franquicia).
 
-<div class="alert alert-info">
-<p>Aunque todas las cuentas franquicia operan como <em>Sellers White Label</em> de la cuenta principal, estos conceptos no significan lo mismo. La cuenta franquicia es un tipo de cuenta, mientras que ser <em>White Label</em> es una propiedad del <em>seller</em>.
-<ul>
-<li><strong>Cuenta</strong>: puede ser del tipo franquicia o puede ser una cuenta normal.</li>
-<li><strong><em>Seller</em></strong>: puede ser del tipo <em>White Label </em>o puede ser del tipo no <em>White Label.</em></li>
-</ul>
-Como estos conceptos son independientes, <strong>eventualmente</strong> es posible que una cuenta franquicia opere como seller no White Label de un marketplace que no es la cuenta principal.</p>
-</div>
+> ℹ️ Aunque todas las cuentas franquicia operan como *Sellers White Label* de la cuenta principal, estos conceptos no significan lo mismo. La cuenta franquicia es un tipo de cuenta, mientras que ser *White Label* es una propiedad del *seller*. <ul> <li>**Cuenta**: puede ser del tipo franquicia o puede ser una cuenta normal.</li> <li>***Seller***: puede ser del tipo *White Label *o puede ser del tipo no *White Label.*</li> </ul> Como estos conceptos son independientes, **eventualmente** es posible que una cuenta franquicia opere como seller no White Label de un marketplace que no es la cuenta principal.
 
 ## Configuración de la cuenta franquicia
 
@@ -96,9 +89,7 @@ VTEX ofrece soluciones de _split_ de pagos que pueden hacer que la distribución
 
 Existen varios tipos de configuración posibles para los precios y medios de pago relacionados con las cuentas franquicia en VTEX, que se indican a continuación. Puedes elegir la forma de uso que mejor se adecue a tu negocio.
 
-<div class="alert alert-warning">
-<p>Si deseas implementar la aplicación VTEX Sales App, es necesario que las tiendas físicas utilicen los medios de pago de la cuenta principal.</p>
-</div>
+> ⚠️ Si deseas implementar la aplicación VTEX Sales App, es necesario que las tiendas físicas utilicen los medios de pago de la cuenta principal.
 
 ## Solicitar la creación de una cuenta franquicia
 

@@ -19,7 +19,7 @@ Na plataforma VTEX, você tem a opção de cadastrar lojas físicas, franqueados
 
 A conta franquia é associada a uma conta principal. No caso de uma marca que possui múltiplas lojas físicas, franqueados ou representantes, cada um deles pode ter uma conta franquia vinculada à conta principal da marca. Isso permite que eles entreguem produtos vendidos pelo ecommerce da marca.
 
-![diagrama contas v2](https://images.contentful.com/alneenqid6w5/6KC4yvWh08WZ3DMcGRJS4I/6a4d22cb3f55e2e97a1766bad65a7101/diagrama_contas_v2.png)
+![diagrama contas v2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/omnichannel/omnichannel-overview/o-que-e-conta-franquia_1.png)
 
 Neste artigo, você verá:
 
@@ -38,7 +38,7 @@ Além disso, utilizando a conta franquia, você pode gerenciar preços, meios de
 
 Uma conta franquia não possui um site próprio: os consumidores navegam diretamente no site da conta principal, que atua como marketplace nessa situação. Os dados dos clientes são armazenados no Master Data da conta principal.
 
-![diagrama admin contas](https://images.contentful.com/alneenqid6w5/226ePm8TzkWPFnTvJj2Sej/87f8422ad8559f0681a5ab9eec71be51/diagrama_admin_contas.png)
+![diagrama admin contas](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/omnichannel/omnichannel-overview/o-que-e-conta-franquia_2.png)
 
 ## Relação entre conta franquia e Seller White Label
 
@@ -46,14 +46,7 @@ Toda conta franquia atua automaticamente como um Seller White Label da conta pri
 
 Os clientes finais não escolhem e não têm visibilidade da existência dos Sellers White Label em nenhum momento do processo. Nessa lógica, a relação dos consumidores é com a marca (conta principal) e não com cada loja física (conta franquia).
 
-<div class="alert alert-info">
-<p>Apesar de toda conta franquia atuar como Seller White Label da conta principal, esses conceitos não significam a mesma coisa. A conta franquia é um tipo de conta, enquanto ser White Label é uma propriedade de um seller.
-<ul>
-<li><strong>Conta</strong>: pode ser do tipo franquia ou pode ser uma conta normal.</li>
-<li><strong>Seller</strong>: pode ser do tipo White Label ou pode ser do tipo não White Label.</li>
-</ul>
-Como esses conceitos são independentes, <strong>eventualmente</strong> é possível que uma conta franquia atue como seller não White Label de um outro marketplace, diferente da conta principal.</p>
-</div>
+> ℹ️ Apesar de toda conta franquia atuar como Seller White Label da conta principal, esses conceitos não significam a mesma coisa. A conta franquia é um tipo de conta, enquanto ser White Label é uma propriedade de um seller. <ul> <li>**Conta**: pode ser do tipo franquia ou pode ser uma conta normal.</li> <li>**Seller**: pode ser do tipo White Label ou pode ser do tipo não White Label.</li> </ul> Como esses conceitos são independentes, **eventualmente** é possível que uma conta franquia atue como seller não White Label de um outro marketplace, diferente da conta principal.
 
 ## Configurações da conta franquia
 
@@ -96,9 +89,7 @@ Uma vez que você tenha [alterado essa configuração](#configurar-meios-de-paga
 
 A VTEX oferece soluções de split de pagamentos que podem tornar automática a distribuição de recebíveis para sellers. Recomendamos a leitura do artigo [Split de pagamento](https://help.vtex.com/pt/tutorial/split-de-pagamento--6k5JidhYRUxileNolY2VLx) para mais informações.
 
-<div class="alert alert-warning">
-<p>Caso você deseje implementar o VTEX Sales App,é necessario que as lojas físicas utilizem os meios de pagamento da conta principal.</p>
-</div>
+> ⚠️ Caso você deseje implementar o VTEX Sales App,é necessario que as lojas físicas utilizem os meios de pagamento da conta principal.
 
 ## Solicitar criação de conta franquia
 

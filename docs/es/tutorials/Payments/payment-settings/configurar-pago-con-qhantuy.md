@@ -31,11 +31,11 @@ Para configurar Qhantuy, siga los pasos a continuación:
     - __Programado: Establece Cuándo Se Realizará La Captura Automática__: al seleccionar esta opción, se mostrará el campo __Periodo de tiempo programado en horas para la captura automática__, que deberá rellenarse con el periodo en el que se realizará la captura automática. Este periodo debe respetar los límites permitidos por el proveedor de pagos.
     - __Desactivado: No Capturado Automáticamente__: la captura se produce sólo cuando se factura el pedido. Si desea utilizar esta opción, es importante prestar atención al momento de la facturación, ya que si el pedido se factura por un período mayor al acordado con el proveedor para capturar el pago, la transacción puede cancelarse.
 
-<ui>  6. En <b>¿Activar split y enviar receptores?</b>, seleccione si los pagos divididos estarán disponibles para el marketplace y los vendedores.</ui>
+<ui>  6. En **¿Activar split y enviar receptores?**, seleccione si los pagos divididos estarán disponibles para el marketplace y los vendedores.</ui>
 
-<ui>  6. Si aparece un mensaje de alerta que indica la necesidad de instalar la aplicación, haga clic en el botón <b>Instalar aplicación</b> y siga las instrucciones de instalación.</ui>
+<ui>  6. Si aparece un mensaje de alerta que indica la necesidad de instalar la aplicación, haga clic en el botón **Instalar aplicación** y siga las instrucciones de instalación.</ui>
 
-<ui>  7. Haga clic en <b>Guardar.</b></ui>
+<ui>  7. Haga clic en **Guardar.**</ui>
 
 Para configurar los métodos de pago a procesar por Qhantuy, acceda al [Configurar Condiciones de Pago](https://help.vtex.com/es/tutorial/condiciones-de-pago--tutorials_455#).
 

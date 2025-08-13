@@ -30,7 +30,7 @@ Durante a configuração inicial da VTEX, caso a sua loja utilize [integrações
 
 Uma vez configurada a integração inicial de produtos, preços e inventário, e desenvolvido o middleware, o fluxo de informações será conforme o diagrama a seguir.
 
-![back-office-pt](//images.ctfassets.net/alneenqid6w5/6M5KnqChk7RT99b034UY3L/6bc291243b2b38f8a570d404d88e055e/back-office-pt.PNG)
+![back-office-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Support/Operational/responsabilidades-no-ecossistema-vtex_1.PNG)
 
 Durante a rotina da operação, as responsabilidades são divididas da seguinte forma:
 
@@ -43,7 +43,7 @@ Durante a rotina da operação, as responsabilidades são divididas da seguinte 
   </thead>
   <tbody>
     <tr class="bb b--muted-3">
-      <td class="t-body pa5" style="min-width: 15rem;"><strong>ERP / PIM / WMS</strong></td>
+      <td class="t-body pa5" style="min-width: 15rem;">**ERP / PIM / WMS**</td>
       <td class="t-body pa5" style="min-width: 15rem;">Envio das seguintes informações para a VTEX via integração:
         <ul>
           <li>Alterações no cadastro de produtos</li>
@@ -57,8 +57,8 @@ Durante a rotina da operação, as responsabilidades são divididas da seguinte 
       </td>
     </tr>
     <tr class="bb b--muted-3">
-      <td class="t-body pa5" style="min-width: 15rem;"><strong>VTEX</strong></td>
-      <td class="t-body pa5" style="min-width: 15rem;">Envio das seguintes informações para o ERP, de acordo com o que for configurado pela loja via <a href="https://developers.vtex.com/docs/guides/orders-feed" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word">Orders Feed</a> ou <a href="https://developers.vtex.com/docs/guides/orders-feed" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word">Hook</a>:
+      <td class="t-body pa5" style="min-width: 15rem;">**VTEX**</td>
+      <td class="t-body pa5" style="min-width: 15rem;">Envio das seguintes informações para o ERP, de acordo com o que for configurado pela loja via [Orders Feed](https://developers.vtex.com/docs/guides/orders-feed) ou [Hook](https://developers.vtex.com/docs/guides/orders-feed):
         <ul>
           <li>Notificações de um novo pedido criado.</li>
           <li>Notificações do andamento do fluxo de um pedido.</li>
@@ -80,7 +80,7 @@ Para realizar o processamento de pagamentos dos pedidos em uma loja VTEX, os int
   </thead>
   <tbody>
     <tr class="bb b--muted-3">
-      <td class="t-body pa5" style="min-width: 15rem;"><strong>Lojista</strong></td>
+      <td class="t-body pa5" style="min-width: 15rem;">**Lojista**</td>
       <td class="t-body pa5" style="min-width: 15rem;">
         <ul>
           <li>Contratar o serviço de um provedor de pagamento (gateways, adquirentes ou subadquirentes).</li>
@@ -102,10 +102,8 @@ Para realizar o processamento de pagamentos dos pedidos em uma loja VTEX, os int
           <li>Desenvolver a integração do provedor de pagamento de acordo com as instruções disponíveis em <a
               href="https://developers.vtex.com/docs/guides/integrating-a-new-payment-provider-on-vtex" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word">Integrating a
               new payment provider on VTEX</a>.</li>
-          <li>Obter a certificação <a
-              href="https://developers.vtex.com/docs/guides/payments-integration-pci-dss-compliance" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word">PCI-DSS</a> ou
-            desenvolver integração com a VTEX utilizando o <a
-              href="https://developers.vtex.com/docs/guides/payments-integration-secure-proxy" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word">Secure Proxy</a> para
+          <li>Obter a certificação [PCI-DSS](https://developers.vtex.com/docs/guides/payments-integration-pci-dss-compliance) ou
+            desenvolver integração com a VTEX utilizando o [Secure Proxy](https://developers.vtex.com/docs/guides/payments-integration-secure-proxy) para
             processar transações de pagamento contendo dados sensíveis, como em cartões de crédito, débito e co-branded.
           </li>
           <li>Processar transações financeiras de maneira segura e eficiente, permitindo:
@@ -123,7 +121,7 @@ Para realizar o processamento de pagamentos dos pedidos em uma loja VTEX, os int
       </td>
     </tr>
     <tr class="bb b--muted-3">
-      <td class="t-body pa5" style="min-width: 15rem;"><strong>Provedor de antifraude</strong></td>
+      <td class="t-body pa5" style="min-width: 15rem;">**Provedor de antifraude**</td>
       <td class="t-body pa5" style="min-width: 15rem;">
         <ul>
           <li>Realizar análise de risco sobre atividades fraudulentas em transações com cartões de crédito, débito e
@@ -133,7 +131,7 @@ Para realizar o processamento de pagamentos dos pedidos em uma loja VTEX, os int
       </td>
     </tr>
     <tr class="bb b--muted-3">
-      <td class="t-body pa5" style="min-width: 15rem;"><strong>Gateway VTEX</strong></td>
+      <td class="t-body pa5" style="min-width: 15rem;">**Gateway VTEX**</td>
       <td class="t-body pa5" style="min-width: 15rem;">
         <ul>
           <li>Criar transações de pagamento para novos pedidos.</li>
@@ -178,9 +176,7 @@ Ainda assim, podem existir lojas parceiras estratégicas para o seu negócio que
 
 Para o suporte de uma operação nesse cenário, é importante que o lojista entenda quais as responsabilidades de cada participante dessa operação, detalhadas a seguir.
 
-<div class="alert alert-warning">
-  <p>As seções a seguir consideram uma loja que já está operando integrada com um marketplace externo via conector externo. Para saber como integrar o seu Catálogo da VTEX com um conector externo pela primeira vez, acesse o guia <a href="https://developers.vtex.com/docs/guides/external-marketplace-integration-catalog" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word">Catalog Integration</a>.</p>
-</div>
+> ⚠️ As seções a seguir consideram uma loja que já está operando integrada com um marketplace externo via conector externo. Para saber como integrar o seu Catálogo da VTEX com um conector externo pela primeira vez, acesse o guia [Catalog Integration](https://developers.vtex.com/docs/guides/external-marketplace-integration-catalog).
 
 ### Atualização ou envio de novos produtos e SKUs
 
@@ -214,6 +210,6 @@ Para entender qual suporte deve ser acionado caso haja algum problema na atualiz
 2. Clique no pedido desejado para acessar a [página de detalhes do pedido](https://help.vtex.com/pt/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl).
 3. Na seção **Histórico do pedido**, clique em `Ver interações` (botão ilustrado a seguir), e verifique se há alguma mensagem de erro. 
 
-![ver-interacoes-pt](//images.ctfassets.net/alneenqid6w5/2A2368gEpzx8T1VnDXsQ2C/6d50ebab0fb9de03850bc219ea7fbce8/ver-interacoes-pt.png)
+![ver-interacoes-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Support/Operational/responsabilidades-no-ecossistema-vtex_2.png)
 
 Caso a mensagem de erro não seja autossuficiente, o lojista pode acionar nossos canais de comunicação, conforme a [Política de atendimento do suporte da VTEX](https://help.vtex.com/pt/faq/suporte-vtex-brasil--5q861sTw1n7H2BENOu7ls9). Recomendamos incluir a evidência da tela de interações e o ID do pedido, para que o time de especialistas ajude a identificar a origem do problema.

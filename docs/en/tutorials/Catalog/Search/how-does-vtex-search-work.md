@@ -17,9 +17,7 @@ subcategoryId: 383bZO0kymqpnNf7Z4NdEg
 
 This article sets out to describe how VTEX's search system works.
 
-<div class = "alert alert-warning">
-  <strong>Warning</strong>: VTEX has two search options - VTEX search and VTEX Intelligent Search. This article refers to the VTEX search. To learn more about the VTEX Intelligent Search application, see <a href = "https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb">this track</a>.
-</div>
+> ⚠️ **Warning**: VTEX has two search options - VTEX search and VTEX Intelligent Search. This article refers to the VTEX search. To learn more about the VTEX Intelligent Search application, see <a href = "https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb">this track</a>.
 
 ## VTEX search engine product display prioritization 
 
@@ -38,9 +36,7 @@ In accordance with the search term, the system may render the following result p
 
 If the term searched for corresponds to the name of a folder which is set up in Portal Manager (the landing page), this folder will be rendered.
 
-<div class="alert alert-warning">
-<b>Notice</b>: a folder needs to have a layout in order to be searchable.<br><b>Even if the search in done in the subfolder, the parent folder also requires layout.</b>
-</div>
+> ⚠️ **Notice**: a folder needs to have a layout in order to be searchable.<br>**Even if the search in done in the subfolder, the parent folder also requires layout.**
 
 ### 2. Brand
 
@@ -65,9 +61,7 @@ When the search is by keyword, the search engine undergoes a search of the __ind
 __Ranking System:__
 This algorithm uses the concept of ranking (Score) to prioritize and order products. For each search, the indexer allocates a score to products based on the search term. Some basic fields (having different weight) are considered when calculating this ranking. The shop window display is created according to this ranking, from highest to lowest, meaning that the product with the highest score displayed first, while the one with the lowest score, last.
 
-<div class = "alert alert-info">
-For more information, see the article <a href="https://help.vtex.com/en/tutorial/como-funciona-o-campo-score--1BUZC0mBYEEIUgeQYAKcae">How does the Score field work?</a>.
-</div>
+> ℹ️ For more information, see the article [How does the Score field work?](https://help.vtex.com/en/tutorial/como-funciona-o-campo-score--1BUZC0mBYEEIUgeQYAKcae).
 
 ## How the search is done
 
@@ -77,7 +71,7 @@ To understand VTEX search, we must first become familiar with the indexer and it
 
 The catalog indexer is a quick access scalable database, with configurable algorithms for result prioritization. It is positioned between conventional database and user. See the outline below:
 
-![database](//images.ctfassets.net/alneenqid6w5/5ACXw5iwhZP4iT1DwuEVOi/3c3b66551bf05d00042ed3babdfc004f/database.JPG)
+![database](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/Search/how-does-vtex-search-work_1.JPG)
 
 The indexer contains all the information referring to the product catalog (products, SKUs, brands, departments, categories). The search engine uses this information to locate products and to display these in shop windows and search results. However, __only already indexed products can be found by the search__.
 
@@ -107,14 +101,14 @@ Considering the following indexer:
 | Ball       | Football 7       | society       | Soccer ball       |
 | Soccer boot       | Field       | Soccer boot, Soccer boot       | White       |
 
-<div class=alert>Search term 1: <b>Soccer ball</b></div>
+<div class=alert>Search term 1: **Soccer ball**</div>
 
 Result:
 1. **Soccer ball** (Highest ranked, since the term corresponds exactly to the product name)
 2. **Ball** (Second best ranked, since the term corresponds to a specification value)
 3. **Soccer boot** (Third best ranked, since part of the term corresponds to part of the product name)
 
-<div class=alert>Search term 2: <b>White Ball</b></div>
+<div class=alert>Search term 2: **White Ball**</div>
 
 Result:
 1. **Ball** (Best ranked, since part of the term corresponds exactly to the product name)

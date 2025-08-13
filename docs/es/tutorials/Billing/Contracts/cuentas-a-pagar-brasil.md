@@ -15,5 +15,4 @@ locale: es
 subcategoryId: 22TaEgFhwE6a6CG2KASYkC
 ---
 
-<div class="alert alert-warning" role="alert">Este conteúdo é exclusivamente regional e portanto, não aplicável a países de língua portuguesa. 
-La versión en español está disponible en <a href="https://help.vtex.com/es/tutorial/accounts-payable-international--3yea9sIlsA0KgUC28ASCGs">Cuentas por Pagar - Internacional</a></div>
+> ⚠️ Este conteúdo é exclusivamente regional e portanto, não aplicável a países de língua portuguesa. La versión en español está disponible en [Cuentas por Pagar - Internacional](https://help.vtex.com/es/tutorial/accounts-payable-international--3yea9sIlsA0KgUC28ASCGs)

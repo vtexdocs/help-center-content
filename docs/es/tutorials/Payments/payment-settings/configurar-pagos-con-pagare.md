@@ -21,17 +21,13 @@ En VTEX, su tienda puede recibir pagos a través de pagarés. Para habilitar est
 2. [Configurar Pagaré](#configurar-pagare)
 3. [Configurar las condiciones de pago](#configurar-las-condiciones-de-pago)
 
-<div class="alert alert-warning">
-  La información contenida en este artículo no se refiere a las condiciones de pago <b>Promissory</b> o <b>CardPromissory</b> disponibles en el Admin en <b>Configuración de la tienda > Pago > Configuración > Condiciones de pago</b>.
-</div>
+> ⚠️ La información contenida en este artículo no se refiere a las condiciones de pago **Promissory** o **CardPromissory** disponibles en el Admin en **Configuración de la tienda > Pago > Configuración > Condiciones de pago**.
 
 ## Configurar proveedor de pago
 
 Para configurar un proveedor de pagos, acceda a [Registrar proveedores de pagos y antifraude(https://help.vtex.com/es/tutorial/afiliaciones-de-gateway--tutorials_444).
 
-<div class="alert alert-warning">
-Verifique que el proveedor de pago deseado admita el procesamiento de pagos de pagarés.
-</div>
+> ⚠️ Verifique que el proveedor de pago deseado admita el procesamiento de pagos de pagarés.
 
 ## Configurar Pagaré
 
@@ -52,7 +48,7 @@ Después de registrar el proveedor de pagos, siga los pasos a continuación:
 Los pagarés se facturan en el momento de la autorización del pago. Al configurar este campo, la facturación no se producirá al momento de la autorización, sino después del número de días que establezca.<br>
 
 <ul>
-5. Haga clic en <b>Salvar</b> para guardar los cambios.
+5. Haga clic en **Salvar** para guardar los cambios.
   </ul>
 
 ## Configurar las condiciones de pago

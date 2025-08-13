@@ -22,6 +22,4 @@ Portanto, o período que deve ser considerado é sempre do primeiro ao último d
 ## Exemplo 
 No dia 01/03 é emitida uma fatura com a referência "Fevereiro". Todos os pedidos que passaram pelo status __aprovado__, do dia 01/02 até 28/02, serão considerados nessa fatura.
 
-<div class="alert alert-warning">
-Caso receba uma cobrança sem que sua loja esteja no ar, saiba que ela é referente ao <strong>fee mensal</strong> da taxa de manutenção do seu ambiente. Esse valor é cobrado pois mesmo que a loja não esteja em produção já está consumindo a estrutura VTEX.
-</div>
+> ⚠️ Caso receba uma cobrança sem que sua loja esteja no ar, saiba que ela é referente ao **fee mensal** da taxa de manutenção do seu ambiente. Esse valor é cobrado pois mesmo que a loja não esteja em produção já está consumindo a estrutura VTEX.

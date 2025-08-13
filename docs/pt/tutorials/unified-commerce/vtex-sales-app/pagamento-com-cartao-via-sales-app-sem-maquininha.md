@@ -56,9 +56,7 @@ A tabela a seguir apresenta as principais vantagens de usar o **Pagamento com ca
 
 Ao utilizar o **Pagamento com cartão via Sales App** em vendas de [Prateleira Infinita](https://help.vtex.com/pt/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv/40KMlmGI5tN0r0KPCDWgGn) com entrega padrão (acima de 24h), o processamento da compra ocorre pelo mesmo fluxo de checkout do ecommerce e é considerado um caso de cartão não presente, termo técnico para quando o pagamento não é considerado como tendo sido realizado com um cartão físico.
 
-<div class="alert alert-danger">
-<p>As transações realizadas pela funcionalidade estão sujeitas às regras de antifraude e, quando a autorização da compra passa pelo fluxo de antifraude, sua aprovação pode demorar até 24h. Por este motivo, não é recomendado utilizar o <b>Pagamento com cartão via Sales App</b> nos seguintes cenários</p><p><ul><li>Vendas com entrega expressa</li><li>Vendas de estoque local (On Hands)</li></ul></p>
-</div>
+> ❗ As transações realizadas pela funcionalidade estão sujeitas às regras de antifraude e, quando a autorização da compra passa pelo fluxo de antifraude, sua aprovação pode demorar até 24h. Por este motivo, não é recomendado utilizar o **Pagamento com cartão via Sales App** nos seguintes cenários<ul><li>Vendas com entrega expressa</li><li>Vendas de estoque local (On Hands)</li></ul>
 
 Caso a loja tenha uma [política comercial](https://help.vtex.com/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) para o **VTEX Sales App** separada do ecommerce, com uma revisão de regras do antifraude exclusiva, é possível usar o **Pagamento com cartão via Sales App** para vendas com estoque local (On Hands) ou entrega expressa.
 
@@ -66,9 +64,7 @@ Caso a loja tenha uma [política comercial](https://help.vtex.com/pt/tutorial/co
 
 As configurações necessárias para ativar a funcionalidade são diferentes para lojas que já utilizam o **VTEX Sales App** ou que vão começar a usar a solução.
 
-<div class="alert alert-warning">
-Antes de ativar a funcionalidade, certifique-se que a loja tenha uma integração com um parceiro de pagamentos e seja capaz de processar vendas com cartão de crédito.
-</div>
+> ⚠️ Antes de ativar a funcionalidade, certifique-se que a loja tenha uma integração com um parceiro de pagamentos e seja capaz de processar vendas com cartão de crédito.
 
 ### Lojas começando a usar o VTEX Sales App
 
@@ -113,9 +109,7 @@ Realize os passos abaixo para vender usando o **Pagamento com cartão via Sales 
 3. Capture automaticamente os dados do cartão com a tela de captura ou preencha os dados de forma manual. É necessário escanear a frente e o verso do cartão.
 4. Após a aprovação do pagamento, a confirmação da compra é feita no **VTEX Sales App**.
 
-<div class = "alert alert-info">
-Caso o cliente prefira, ele pode realizar ele próprio o escaneamento do cartão ou preenchimento manual dos dados.
-</div>
+> ℹ️ Caso o cliente prefira, ele pode realizar ele próprio o escaneamento do cartão ou preenchimento manual dos dados.
 
 ## Saiba mais
 

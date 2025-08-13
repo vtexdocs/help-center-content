@@ -23,7 +23,7 @@ Las claves de API internas son credenciales generadas y gestionadas por tu cuent
 
 La pestaña **Generadas** presenta las claves de API creadas por tu cuenta.
 
-![apikeys-es](//images.ctfassets.net/alneenqid6w5/i11jP2Y0BPyf9wp8A1joi/16603d01cc0a1c9fa4c5e7ef9a10eb5c/apikeys-es.png)
+![apikeys-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/beta/api-keys-beta/claves-generadas_1.png)
 
 La página muestra la siguiente información en forma de tabla: 
 

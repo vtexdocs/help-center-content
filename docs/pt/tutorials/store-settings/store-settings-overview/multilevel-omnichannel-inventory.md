@@ -24,9 +24,7 @@ O artigo a seguir inclui as seguintes informações sobre a funcionalidade:
 * [Restrições](#restricoes)
 * [Como configurar](#como-configurar)
 
-<div class="alert alert-info">
-Para saber mais sobre a arquitetura dos pedidos do tipo Multilevel Omnichannel Inventory, e como fazer a configuração via API REST, confira nosso <a href="https://developers.vtex.com/vtex-rest-api/docs/multilevel-omnichannel-inventory">artigo do Developer Portal</a>.
-  </div>
+> ℹ️ Para saber mais sobre a arquitetura dos pedidos do tipo Multilevel Omnichannel Inventory, e como fazer a configuração via API REST, confira nosso [artigo do Developer Portal](https://developers.vtex.com/vtex-rest-api/docs/multilevel-omnichannel-inventory).
 
 ## Arquitetura de contas
 
@@ -40,7 +38,7 @@ Também é possível que esse seller principal venda seus produtos em um marketp
 
 Quando isso ocorre, temos uma arquitetura de três níveis entre marketplace, seller principal,  e seus sellers white label, como ilustra a imagem abaixo.
 
-![Arquitetura Multilevel omichannel inventory](//images.ctfassets.net/alneenqid6w5/7k6hYv3kWxBVZrPFkUbsCK/b70689c18e55ad472f71176a283b9c17/Screen_Shot_2022-09-30_at_18.57.26.png)
+![Arquitetura Multilevel omichannel inventory](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/store-settings/store-settings-overview/multilevel-omnichannel-inventory_1.png)
 
 Por padrão, os produtos das lojas físicas, ou sellers white label (nível 3, na imagem), não ficam disponíveis para serem vendidos pelo marketplace do nível 1. Mas é possível torná-los disponíveis com a funcionalidade **Multilevel Omnichannel Inventory.**
 
@@ -48,9 +46,7 @@ Desta maneira, é possível que um marketplace venda os produtos dos seus seller
 
 Isso significa que, quando o seller com a conta principal configurar uma integração com um marketplace, as contas franquia estarão automaticamente integradas a ele também, não sendo preciso gerenciar cada franquia individualmente para configurar sua integração ao marketplace.
 
-<div class="alert alert-info">
-Atualmente, só é permitido um nível de recursividade. Ou seja, o marketplace pode vender produtos dos sellers white label integrados a um seller direto.
-</div>
+> ℹ️ Atualmente, só é permitido um nível de recursividade. Ou seja, o marketplace pode vender produtos dos sellers white label integrados a um seller direto.
 
 ## Benefícios
 
@@ -69,9 +65,7 @@ Para saber mais detalhes sobre a arquitetura de pedidos aplicada em Multilevel O
 
 Algumas das funcionalidades que fazem parte do modelo tradicional de marketplace não estão disponíveis para um cenário _Multilevel Omnichannel Inventory_. É importante conhecer essas restrições antes de habilitar a configuração.
 
-<div class="alert alert-warning">
-Note que, no Brasil, o Banco Central (BACEN) regulamenta a atuação de marketplaces varejistas como concentradores e repassadores de dinheiro. Dado essa restrição, recomendamos a implementação do Multilevel Omnichannel Marketplace em lojas que se adequam à circular 3.815 do BACEN. Saiba mais em <a href="https://vtex.com/pt-br/blog/estrategia/bacen-e-a-regulamentacao-para-marketplaces-no-brasil/"> BACEN e a regulamentação para marketplaces no Brasil - VTEX</a>.
- </div>
+> ⚠️ Note que, no Brasil, o Banco Central (BACEN) regulamenta a atuação de marketplaces varejistas como concentradores e repassadores de dinheiro. Dado essa restrição, recomendamos a implementação do Multilevel Omnichannel Marketplace em lojas que se adequam à circular 3.815 do BACEN. Saiba mais em [ BACEN e a regulamentação para marketplaces no Brasil - VTEX](https://vtex.com/pt-br/blog/estrategia/bacen-e-a-regulamentacao-para-marketplaces-no-brasil/).
 
 ### Disponibilidade
 
@@ -93,9 +87,7 @@ A solução pode ser suficiente em casos em que o seller direto faz parte do mes
 
 Uma vez que a configuração é feita, somente os meios de pagamento do marketplace aparecerão como opção no checkout. Os meios de pagamento dos sellers diretos (nível 2) e sellers white label (nível 3) não são importados na arquitetura de contas. Portanto, o checkout só mostra os meios de pagamento do marketplace, mesmo que o afiliado do seller direto esteja configurado para usar os meios de pagamento dele.
 
-<div class="alert alert-warning">
-  O <a href="https://help.vtex.com/pt/tutorial/como-configurar-afiliado--tutorials_187">afiliado</a> da conta franquia sempre deve estar com a configuração de usar os meios de pagamento desativada.
-</div>
+> ⚠️ O [afiliado](https://help.vtex.com/pt/tutorial/como-configurar-afiliado--tutorials_187) da conta franquia sempre deve estar com a configuração de usar os meios de pagamento desativada.
 
 ### Alteração de seller
 
@@ -141,9 +133,7 @@ Não é possível criar tabelas de preço por meio da funcionalidade [Price Tabl
 
 A configuração da funcionalidade **Multilevel Omnichannel Inventory** deve ser feita pelo marketplace em seu Admin VTEX ou via [API Rest](https://developers.vtex.com/vtex-rest-api/docs/multilevel-omnichannel-inventory). Essa configuração pode ser feita tanto em sellers já integrados, quanto em sellers adicionados pela primeira vez. 
 
-<div class="alert alert-info">
-Note que a configuração deve ser feita para cada seller direto (nível 2) em que se deseja aplicar a funcionalidade, mas não em cada seller white label ou conta franquia (nível 3).
-</div>
+> ℹ️ Note que a configuração deve ser feita para cada seller direto (nível 2) em que se deseja aplicar a funcionalidade, mas não em cada seller white label ou conta franquia (nível 3).
 
 ### Sellers já integrados
 

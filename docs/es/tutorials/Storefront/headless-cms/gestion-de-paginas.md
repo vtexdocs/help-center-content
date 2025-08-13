@@ -19,14 +19,14 @@ En **Headless CMS**, puedes gestionar todas las rutas de URL y los modelos de p�
 
 ## Visión general
 
-![New pages - es](//images.ctfassets.net/alneenqid6w5/7cftK7sS2epeqGjY6m0Cmj/76783d200466eafd99f1972a60068298/novas_pgs._es.png)
+![New pages - es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Storefront/headless-cms/gestion-de-paginas_1.png)
 
 | Opção               | Descrição                                              |
 | ------------------- | ------------------------------------------------------ |
 | Crear documento   | Crea una nueva página basada en las opciones disponibles, por ejemplo, `Product Page` o `Home`.  |
 | Configuraciones (⚙️) | Abre un modal con las configuraciones del proyecto divididas en tres pestañas: <ul><li>**General:** permite editar el ID del proyecto y las configuraciones de API o archivar el proyecto.</li> <li>**Content-Types:** Guarda los content types creados en el código de la tienda.</li><li>**Compilación:** permite conectar el proyecto CMS al código fuente mediante webhooks, configurando los tipos de contenido y las secciones.</li></ul> |
 | Buscar      | Busca páginas específicas dentro del proyecto. |
-| Status      | Filtra las páginas según su estado: <ul><li><code>Published</code>: Páginas publicadas y ya disponibles en la tienda.</li> <li><code>Draft</code>: Páginas que están en borrador, en desarrollo, y aún no han sido publicadas.</li></ul>|
+| Status      | Filtra las páginas según su estado: <ul><li>`Published`: Páginas publicadas y ya disponibles en la tienda.</li> <li>`Draft`: Páginas que están en borrador, en desarrollo, y aún no han sido publicadas.</li></ul>|
 | Tipo      | Filtra las páginas según el tipo de contenido (content types). Los tipos de contenido son definidos en el código de su tienda. Para obtener más información, consulte [Adding Content Types to the Headless CMS](https://developers.vtex.com/docs/guides/faststore/headless-cms-3-adding-content-types-and-sections#step-2-adding-content-types-to-the-headless-cms). |
 
 ## Crear una nueva página
@@ -34,13 +34,11 @@ En **Headless CMS**, puedes gestionar todas las rutas de URL y los modelos de p�
 Para crear y gestionar una página, sigue estos pasos:
 
 1. En el Admin VTEX, accede a **Headless CMS**.
-<div class="alert alert-warning">
-  Asegúrate de estar en el proyecto correcto. De lo contrario, ve al menú <b>Proyecto</b> en la esquina superior izquierda, selecciona el nombre del proyecto en el que deseas crear la página y continúa en el paso 2.
-</div>
+> ⚠️ Asegúrate de estar en el proyecto correcto. De lo contrario, ve al menú **Proyecto** en la esquina superior izquierda, selecciona el nombre del proyecto en el que deseas crear la página y continúa en el paso 2.
 2. Haz clic en `Crear documento` y selecciona el tipo de página deseado.
 3. En `Untitled`, nombra la página.
 4. Haz clic en `Secciones` y selecciona la sección deseada.
-![Gif - Páginas](//images.ctfassets.net/alneenqid6w5/1JOLEO3RErUiJ8AYroKwTe/e7e804bd75245d2571668725dfd82aba/Espanhol_gif_das_p__ginas.gif)
+![Gif - Páginas](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Storefront/headless-cms/gestion-de-paginas_2.gif)
 5. Agrega más secciones si es necesario y llénalas.
 6. Haz clic en `Publicar`.
 

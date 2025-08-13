@@ -24,9 +24,7 @@ En este artículo, te explicamos cómo funciona la herencia de especificaciones 
 * [Herencia de especificaciones](#herencia-de-especificaciones)
 * [Paso a paso en el Admin VTEX](#paso-a-paso-en-el-admin-vtex)
 
-<div class = "alert alert-info">
-  <p>Para crear un grupo de especificaciones con la <strong>API Catálogo</strong>, sigue la guía para desarrolladores <a href="https://developers.vtex.com/vtex-developer-docs/docs/how-to-create-a-specification">How to create a specification</a> (Cómo crear una especificación).</p>
-</div>
+> ℹ️ Para crear un grupo de especificaciones con la **API Catálogo**, sigue la guía para desarrolladores [How to create a specification](https://developers.vtex.com/vtex-developer-docs/docs/how-to-create-a-specification) (Cómo crear una especificación).
 
 ## Herencia de especificaciones
 
@@ -43,11 +41,11 @@ Para crear un grupo de especificaciones, sigue las instrucciones a continuación
 1. En el Admin de VTEX, accede a **Catálogo **> **Categorías**.
 2. Haz clic en la categoría en la que deseas crear el grupo.
 3. Haz clic en el botón `Acciones` <i class="fas fa-angle-down"></i>.
-4. Haz clic en <i class="fas fa-tags"></i> <strong>Grupo</strong>.
+4. Haz clic en <i class="fas fa-tags"></i> **Grupo**.
 5. Haz clic en el botón `Nuevo grupo`.
 6. Rellena la siguiente información:
-    * <strong>Nombre:</strong> nombre del grupo, para uso interno.
-    * <strong>Categoría:</strong> nombre de la categoría en la que estás creando el grupo. Este campo ya está rellenado. Solo debes confirmar el nombre de la categoría.
+    * **Nombre:** nombre del grupo, para uso interno.
+    * **Categoría:** nombre de la categoría en la que estás creando el grupo. Este campo ya está rellenado. Solo debes confirmar el nombre de la categoría.
 7. Haz clic en `Guardar`.
 
 Puedes crear los campos que consideres necesarios dentro de un grupo. Los campos creados pueden definirse como filtros en todos los niveles de navegación de tu tienda.

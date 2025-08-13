@@ -21,11 +21,9 @@ Como consecuencia, el sitio web puede quedar fuera de línea. Si el dominio est�
 
 Para desactivar el proxy de CloudFlare (y, en consecuencia, deshabilite los servicios CDN y WAF de CloudFlare), entra en tu cuenta de Cloudflare y haz clic en el botón **DNS**. En el __*panel DNS management*__, haz clic en el ícono de la nube naranja debajo de __*Proxy status*__ para cada entrada de DNS que debe apuntar a VTEX. 
 
-![Configuración de proxy de Cloudflare](//images.ctfassets.net/alneenqid6w5/1pEYEd1KWlH0P97Pgwyb7n/7b76e3396ed5b27b0c14ae76bb77b76a/DNS_Management.png)
+![Configuración de proxy de Cloudflare](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/uncategorized/unknown-subcategory/deshabilitar-proxy-cloudflare_1.png)
 
 Observa que si el proxy está activado, el ícono será de color naranja con el texto __*Proxied*__. De lo contrario, el ícono se mostrará en gris con el texto __*DNS Only*__.
 
-<div class="alert alert-info">
-Si deseas utilizar el CDN y el WAF de Cloudflare, puedes insertar un proxy inverso frente a los servicios de VTEX. Ten en cuenta que esta configuración no se recomienda, ya que VTEX ya ofrece servicios de CDN y WAF en su propio servicio de borde. Las fallas de CDN externos no implican fallas en los sistemas de VTEX. No tenemos ninguna responsabilidad sobre los CDN de terceros. 
-</div>
+> ℹ️ Si deseas utilizar el CDN y el WAF de Cloudflare, puedes insertar un proxy inverso frente a los servicios de VTEX. Ten en cuenta que esta configuración no se recomienda, ya que VTEX ya ofrece servicios de CDN y WAF en su propio servicio de borde. Las fallas de CDN externos no implican fallas en los sistemas de VTEX. No tenemos ninguna responsabilidad sobre los CDN de terceros.
 

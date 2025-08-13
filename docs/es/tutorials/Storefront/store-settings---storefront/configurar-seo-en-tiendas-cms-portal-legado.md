@@ -27,9 +27,9 @@ La tag de título ayuda a definir el tema de la página para los motores de bús
   - **Palabras clave (metatag keyword):** define las palabras que los mecanismos de búsqueda utilizarán para indexar la tienda. Utiliza comas para separar las palabras.
   - **Metatag de descripción:** ingresa una descripción breve de la tienda que sea informativa y contenga palabras clave relevantes, ya que se mostrará en los resultados de los mecanismos de búsqueda.
 
-       <div class = "alert alert-info"><p>No tienes que rellenar el campo <strong>Descripción de categoría (metatag description)</strong> porque hace lo mismo que el campo anterior <strong>Metatag de descripción</strong>.</p></div>
+       > ℹ️ No tienes que rellenar el campo **Descripción de categoría (metatag description)** porque hace lo mismo que el campo anterior **Metatag de descripción**.
 
   - **Robots.txt:**  define cómo los motores de búsqueda deben rastrear e indexar una página específica. Los valores predeterminados son `index, follow`. Para ver los otros valores compatibles con Google, consulta la [lista de reglas válidas](https://developers.google.com/search/docs/crawling-indexing/robots-meta-tag?hl=es-419#directives).
 4. Haz clic en `Guardar`.
 
-![seo-es](//images.ctfassets.net/alneenqid6w5/32rGRVztX93jJeuIwKf5FI/81201bce726bb668f435be399664bfe7/storefront-seo-settings-es.png)
+![seo-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Storefront/store-settings---storefront/configurar-seo-en-tiendas-cms-portal-legado_1.png)

@@ -47,9 +47,7 @@ Para adicionar sellers ao seu marketplace pelo Admin VTEX, siga as instruções 
 
 O [Seller Portal](https://help.vtex.com/pt/tutorial/seller-portal-primeiros-passos--6w1vBdRH2uuBGmUqgNQjwK) é uma edição da plataforma VTEX que permite que sellers se conectem e vendam seus produtos em marketplaces. Marketplaces hospedados na VTEX podem convidar sellers que já têm uma conta VTEX para se conectarem por meio do Seller Portal. Também é possível convidar sellers hospedados em outras plataformas ou aqueles que ainda não estão hospedados em nenhuma plataforma para criar uma conta no Seller Portal de forma rápida e sem atritos.
 
-<div class="alert alert-info">
-Para ativar o Seller Portal para seus sellers, é necessário que o marketplace solicite essa funcionalidade entrando em contato com o CSM da sua conta na VTEX.
-</div>
+> ℹ️ Para ativar o Seller Portal para seus sellers, é necessário que o marketplace solicite essa funcionalidade entrando em contato com o CSM da sua conta na VTEX.
 
 Uma vez contratado o uso do Seller Portal, para adicionar sellers a uma conta de Seller Portal, siga as instruções em [Convite de Sellers](https://help.vtex.com/pt/tutorial/marketplace-convite-de-sellers-beta--6rb2FkcslmDueJ689Ulb9A).
 
@@ -85,9 +83,7 @@ Um marketplace pode obter a informação da localização do usuário na vitrine
 
 Quando o VTEX Session não tem acesso à localização do consumidor, ainda é preciso apontar um sortimento de produtos de sellers na experiência de compra. Nesse cenário, o algoritmo de seleção de sellers indica [sellers abrangentes](https://help.vtex.com/pt/tutorial/seller-abrangente--5Qn4O2GpjUIzWTPpvLUfkI), que são capazes de entregar pedidos em todas as regiões atendidas pelo seu marketplace.
 
-<div class="alert alert-info">
-A funcionalidade Region está adaptada apenas para lojas que utilizam o VTEX IO, e não é válida para o Portal CMS Legado. 
-</div>
+> ℹ️ A funcionalidade Region está adaptada apenas para lojas que utilizam o VTEX IO, e não é válida para o Portal CMS Legado.
 
 ## Configurar storefront
 
@@ -97,27 +93,27 @@ Para lojas que ainda utilizam o Portal CMS Legado, configure os seguintes [contr
 
 <table>
   <tr>
-   <td><strong>Controle</strong>
+   <td>**Controle**
    </td>
-   <td><strong>Descrição</strong>
+   <td>**Descrição**
    </td>
   </tr>
   <tr>
    <td>&lt;vtex.cmc:sellerDescription />
    </td>
-   <td><strong>SellerDescription:</strong> nome e imagem cadastrados para o seller do produto em questão.
+   <td>**SellerDescription:** nome e imagem cadastrados para o seller do produto em questão.
    </td>
   </tr>
   <tr>
    <td>&lt;vtex.cmc:SellerOptions />
    </td>
-   <td><strong>SellerOptions:</strong> exibe os sellers que entregam o produto da página, o preço do produto vendido por cada seller e o parcelamento (limite de até 3 preços diferentes).
+   <td>**SellerOptions:** exibe os sellers que entregam o produto da página, o preço do produto vendido por cada seller e o parcelamento (limite de até 3 preços diferentes).
    </td>
   </tr>
   <tr>
    <td>&lt;vtex.cmc:sellerInfo />
    </td>
-   <td><strong>SellerInfo:</strong> exibe as informações cadastradas para o seller. Deve ser utilizado na página de detalhes de um seller, na pasta seller-info.
+   <td>**SellerInfo:** exibe as informações cadastradas para o seller. Deve ser utilizado na página de detalhes de um seller, na pasta seller-info.
    </td>
   </tr>
 </table>

@@ -15,11 +15,9 @@ locale: pt
 subcategoryId: 1RWR7qSyaREbD5RfgCjdYG
 ---
 
-<div class = "alert alert-info">
-Em <a href="https://help.vtex.com/es/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh">Minha Conta</a>, os clientes conseguem acessar somente os seus pedidos criados nos últimos dois anos.
-</div>
+> ℹ️ Em [Minha Conta](https://help.vtex.com/es/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh), os clientes conseguem acessar somente os seus pedidos criados nos últimos dois anos.
 
-O novo [My Account](https://help.vtex.com/pt/tutorial/como-funciona-o-my-account--2BQ3GiqhqGJTXsWVuio3Xh) já está instalado em todas as contas VTEX em um <strong>ambiente teste</strong>, permitindo ajustes na nova página sem impactos na experiência do usuário. 
+O novo [My Account](https://help.vtex.com/pt/tutorial/como-funciona-o-my-account--2BQ3GiqhqGJTXsWVuio3Xh) já está instalado em todas as contas VTEX em um **ambiente teste**, permitindo ajustes na nova página sem impactos na experiência do usuário. 
 
 Isso quer dizer que o My Account já está disponível para a sua loja realizar as customizações necessárias, antes da migração massiva do aplicativo para produção, através do link abaixo:
 
@@ -31,6 +29,4 @@ Para realizar as customizações na página, é necessário:
 2. Se autenticar através das opções __Receber código de acesso por e-mail__ ou __Entrar com e-mail e senha__
 3. Entrar na seção __Minha conta__, localizada no canto superior esquerdo da tela ao lado de __Meu carrinho__
 
-<div class="alert alert-info">
-Para lojas criadas a partir de 15 de maio de 2019, nenhum ajuste de customização é necessário, uma vez que o novo My Account já foi instalado nativamente na plataforma.
-</div>
+> ℹ️ Para lojas criadas a partir de 15 de maio de 2019, nenhum ajuste de customização é necessário, uma vez que o novo My Account já foi instalado nativamente na plataforma.

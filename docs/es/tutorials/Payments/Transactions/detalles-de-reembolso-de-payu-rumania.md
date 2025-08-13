@@ -16,7 +16,7 @@ subcategoryId: 3Gdgj9qfu8mO0c0S4Ukmsu
 ---
 
 <div class = "alerta alerta-alerta">
-Este artículo se aplica solo a los pagos en <b> Rumania </b>.
+Este artículo se aplica solo a los pagos en ** Rumania **.
 </div>
 
 Las cancelaciones de pago (también llamadas nulas, se pueden colocar solo por el monto total) o los reembolsos (totales o parciales) no se procesan de forma inmediata, sino que se cancelan.
@@ -38,7 +38,7 @@ Si el botón Eliminar no está activo y el tiempo de espera no ha caducado, pued
 
 Si el sistema ya ha enviado la solicitud de reembolso o anulación al banco emisor, ya no podremos eliminarlo / detenerlo de ninguna manera.
 
-![PayU Romania](//images.ctfassets.net/alneenqid6w5/eR53ZeK0Le8UMeQQs2osq/03a5bad4e5f9269dc12159b28fd27dd8/PayU_Romania.png)
+![PayU Romania](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/Transactions/detalles-de-reembolso-de-payu-rumania_1.png)
 
 Una vez que PayU haya enviado la solicitud de cancelación o reembolso al banco emisor, el estado de la orden se actualizará en el panel de PayU como "REVERSE" (para anulaciones) o "REFUND". Y VTEX va a recibir un webhook de PaymentsOS, por lo que el estado del pedido también puede actualizarse en la plataforma (en Pagos y, por lo tanto, reflejado en el OMS).
 

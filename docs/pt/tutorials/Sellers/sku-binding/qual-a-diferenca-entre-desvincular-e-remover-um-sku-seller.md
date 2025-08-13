@@ -19,9 +19,7 @@ Todos os produtos que chegam do seller para o marketplace passam pelo módulo [S
 
 Ao [desvincular o SKU](https://help.vtex.com/pt/tutorial/vinculos-de-sku--1SmrVgNwjJX17hdqwLa0TX#desvincular-sku) do seller, o SKU deixa de estar disponível e não é mais exibido no marketplace. Além disso, o SKU desvinculado não recebe mais atualizações de preço e estoque.
 
-<div class = "alert alert-info">
-Um SKU desvinculado não retorna para a fila de aprovação da página <b>SKUs Recebidos</b>, pois continua existindo no catálogo do marketplace.
-</div>
+> ℹ️ Um SKU desvinculado não retorna para a fila de aprovação da página **SKUs Recebidos**, pois continua existindo no catálogo do marketplace.
 
 Se o objetivo do marketplace é excluir permanentemente o SKU do seller, é preciso [remover o SKU](https://help.vtex.com/pt/tutorial/vinculos-de-sku--1SmrVgNwjJX17hdqwLa0TX#remover), pois desta forma o SKU do seller deixa de fazer parte do catálogo do marketplace. Para voltar a fazer parte do catálogo novamente, o SKU precisa ser enviado novamente pelo seller e aprovado pelo marketplace.
 

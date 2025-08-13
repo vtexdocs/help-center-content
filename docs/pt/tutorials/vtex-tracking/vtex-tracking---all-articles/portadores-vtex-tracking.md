@@ -53,9 +53,7 @@ Para adicionar um novo portador, vá na plataforma web no menu à esquerda:
 
 Os campos que não são obrigatórios são utilizados para fins de consulta, não impactam o funcionamento do sistema.
 
-<div class="alert alert-danger">
-Se o campo Fuso horário não for preenchido será considerado o fuso horário de Brasília (UTC -03:00) para o cálculo do horário da entrega para o cliente final.
-</div>
+> ❗ Se o campo Fuso horário não for preenchido será considerado o fuso horário de Brasília (UTC -03:00) para o cálculo do horário da entrega para o cliente final.
 
 #### Dados de cadastro
 
@@ -68,9 +66,7 @@ Se o campo Fuso horário não for preenchido será considerado o fuso horário d
 
 Os campos que não são obrigatórios são utilizados para fins de consulta, não impactam o funcionamento do sistema.
 
-<div class="alert alert-danger">
-Se ao fazer o cadastro o email do portador não for preenchido, o portador não conseguirá utilizar o aplicativo VTEX Tracking.
-</div>
+> ❗ Se ao fazer o cadastro o email do portador não for preenchido, o portador não conseguirá utilizar o aplicativo VTEX Tracking.
 
 #### Dados de contato
 

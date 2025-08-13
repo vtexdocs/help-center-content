@@ -19,9 +19,7 @@ La configuración de la tienda se aplica a tu tienda y a tu *storefront*, y est�
 
 Para acceder a esta funcionalidad, haz clic en **Configuración de la tienda** en el menú de navegación a la izquierda y luego en la sección deseada.
 
-<div class="alert alert-warning" role="alert">
-Ten en cuenta que las páginas y los ajustes configurados en el ambiente anterior no han cambiado, sino que se han reorganizado en la barra lateral del Admin, con lo que se ha cambiado la forma de acceder a ellos. 
-</div>
+> ⚠️ Ten en cuenta que las páginas y los ajustes configurados en el ambiente anterior no han cambiado, sino que se han reorganizado en la barra lateral del Admin, con lo que se ha cambiado la forma de acceder a ellos.
 
 A continuación encontrarás más detalles sobre las diferentes secciones y páginas de este menú. 
 

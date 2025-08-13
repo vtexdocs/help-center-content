@@ -34,6 +34,4 @@ Para isso, siga estes passos:
 
 Com isso, a planilha passaria a "pular" o CEP 45920-000. E consequentemente ele deixaria de ser considerado como opção de endereço atendido por essa transportadora.
 
-<div class = "alert alert-info">
-Os exemplos de código postal deste artigo são referentes ao Brasil, cada país tem o seu próprio formato de código postal.
-</div>
+> ℹ️ Os exemplos de código postal deste artigo são referentes ao Brasil, cada país tem o seu próprio formato de código postal.

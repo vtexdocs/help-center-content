@@ -25,9 +25,7 @@ En algunas ocasiones, un producto correctamente configurado y que [se muestra co
     * [Dimensiones y factor volumétrico de peso](#dimensiones-y-factor-volumetrico-de-peso)
     * [Modalidad](#modalidad)
 
-<div class="alert alert-warning">
-Si la tienda utiliza la funcionalidad de <a href="https://help.vtex.com/es/tutorial/configurar-a-regionalizacao-de-sellers--32t6wLpQCEnumoh8TjT5fw">regionalización de sellers</a>, los sellers que tienen la capacidad de enviar el producto a la ubicación del cliente deben tenerlo disponible para la venta. Además, el status de los sellers debe ser Activo, ya que los productos de sellers inactivos no se consideran como disponibles.
-</div>
+> ⚠️ Si la tienda utiliza la funcionalidad de [regionalización de sellers](https://help.vtex.com/es/tutorial/configurar-a-regionalizacao-de-sellers--32t6wLpQCEnumoh8TjT5fw), los sellers que tienen la capacidad de enviar el producto a la ubicación del cliente deben tenerlo disponible para la venta. Además, el status de los sellers debe ser Activo, ya que los productos de sellers inactivos no se consideran como disponibles.
 
 ## Simulador de envío
 
@@ -35,9 +33,7 @@ Un producto podría aparecer indisponible en el carrito porque la [estrategia de
 
 El **Simulador de envío** permite probar la existencia de rutas viables, validar la configuración de logística de la tienda y consultar el stock.
 
-<div class = "alert alert-info">
-Para ver todos los pasos para simular el envío de un producto, consulta el artículo <a href="https://help.vtex.com/es/tutorial/simulador-de-envio--tutorials_144">Simulador de envío</a>.
-</div>
+> ℹ️ Para ver todos los pasos para simular el envío de un producto, consulta el artículo [Simulador de envío](https://help.vtex.com/es/tutorial/simulador-de-envio--tutorials_144).
 
 ## Stock
 
@@ -50,9 +46,7 @@ Adoptando cualquiera de las siguientes estrategias, mantendrás la disponibilida
 
 Si el [stock futuro](https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/inventory/items/-skuId-/warehouses/-warehouseId-/supplyLots/-supplyLotId-) está configurado para el SKU, el suministro del ítem podría tardar más de lo esperado. Durante ese periodo, la indisponibilidad podría deberse a la falta del stock del producto.
 
-<div class="alert alert-warning">
-Si tu tienda tiene <a href="https://help.vtex.com/es/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#tipos-de-conta-na-vtex">cuentas franquicia</a>, para que el stock de las cuentas esté disponible para la venta, los productos deben estar asociados a la misma <a href="https://help.vtex.com/es/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV">política comercial</a> de la vitrina.
-</div>
+> ⚠️ Si tu tienda tiene [cuentas franquicia](https://help.vtex.com/es/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#tipos-de-conta-na-vtex), para que el stock de las cuentas esté disponible para la venta, los productos deben estar asociados a la misma [política comercial](https://help.vtex.com/es/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) de la vitrina.
 
 ## Estrategia de envío
 
@@ -67,9 +61,7 @@ A continuación se listan las principales causas de indisponibilidad del product
 * El muelle y la política de envío no están asociados.
 * El muelle y la [política comercial](https://help.vtex.com/es/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) que define los productos de la vitrina no están asociados. 
 
-<div class = "alert alert-info">
-Estos escenarios deben considerarse en el contexto de venta. Tener un almacén inactivo no causa indisponibilidad del producto. Sin embargo, si ese es el único almacén que da servicio a la ruta de envío y está inactivo, el producto se mostrará como indisponible en el carrito.
-</div>
+> ℹ️ Estos escenarios deben considerarse en el contexto de venta. Tener un almacén inactivo no causa indisponibilidad del producto. Sin embargo, si ese es el único almacén que da servicio a la ruta de envío y está inactivo, el producto se mostrará como indisponible en el carrito.
 
 ## Configuración de la política de envío
 
@@ -92,9 +84,7 @@ A continuación se listan las principales causas de indisponibilidad del product
 * La cantidad de ítems en el carrito es inferior al número mínimo de ítems para el envío.
 * El código postal/ubicación del cliente está fuera de la zona de entrega de la transportadora.
 
-<div class = "alert alert-info">
-Los escenarios antes mencionados deben considerarse en el contexto de venta. Si solo hay una política de envío elegible para el envío y las características del producto no cumplen con las condiciones de la transportadora, no se encontrará ninguna ruta de envío válida y el producto se mostrará como indisponible.
-</div>
+> ℹ️ Los escenarios antes mencionados deben considerarse en el contexto de venta. Si solo hay una política de envío elegible para el envío y las características del producto no cumplen con las condiciones de la transportadora, no se encontrará ninguna ruta de envío válida y el producto se mostrará como indisponible.
 
 Otros ajustes de la transportadora que pueden afectar la disponibilidad del producto pueden ser el peso y volumen de los ítems según se describe a continuación.
 
@@ -109,9 +99,7 @@ Para que el [factor volumétrico de peso](https://help.vtex.com/es/tutorial/calc
 
 Si el producto no cumple con los límites configurados, se mostrará como indisponible en el carrito.
 
-<div class="alert alert-warning">
-Si hay dos políticas de envío válidas para el pedido, una de tipo envío y otra de tipo <a href="https://help.vtex.com/es/tutorial/pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R">recogida</a>, y el producto no cumple con los límites de dimensiones de paquete de una de ellas, solo se mostrará una opción en el checkout. Por ejemplo, si el peso del producto es menor que el valor de peso mínimo de la política de envío de entrega, pero está dentro de los límites configurados para recogida, el cliente solo verá la opción de recoger el pedido.
-</div>
+> ⚠️ Si hay dos políticas de envío válidas para el pedido, una de tipo envío y otra de tipo [recogida](https://help.vtex.com/es/tutorial/pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R), y el producto no cumple con los límites de dimensiones de paquete de una de ellas, solo se mostrará una opción en el checkout. Por ejemplo, si el peso del producto es menor que el valor de peso mínimo de la política de envío de entrega, pero está dentro de los límites configurados para recogida, el cliente solo verá la opción de recoger el pedido.
 
 ### Modalidad
 

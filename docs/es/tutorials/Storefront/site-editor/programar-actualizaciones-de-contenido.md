@@ -15,9 +15,7 @@ locale: es
 subcategoryId: 9Arh3cJIOYlfSD1MUC2h3
 ---
 
-<div class="alert alert-warning" role="alert">
-<p> La actualización programada puede tardar hasta 30 minutos en surtir efecto y aparecer en su página.</p>
-</div>
+> ⚠️  La actualización programada puede tardar hasta 30 minutos en surtir efecto y aparecer en su página.
 
 Después de [crear una nueva versión de contenido](https://help.vtex.com/es/tutorial/gerenciando-versoes-de-conteudo--4loXo98CZncY0NnjKrScbG?&utm_source=autocomplete), puedes programar su publicación en tu tienda a través del recurso **Visibilidad**.
 
@@ -44,8 +42,8 @@ Si no seleccionas las opciones de la sección Visibilidad, solo tendrás una nue
 5. Después de seleccionar cuándo estará disponible el contenido, elige dónde quieres que se aplique:
 
 <ul>
-  <li><b>esta URL:</b> El contenido solo está disponible para una ruta de su elección.</li>
-  <li><b>este template:</b> El contenido está disponible para todas las rutas con el mismo template.</li>
+  <li>**esta URL:** El contenido solo está disponible para una ruta de su elección.</li>
+  <li>**este template:** El contenido está disponible para todas las rutas con el mismo template.</li>
 </ul>
 6. Una vez que hayas configurado la sección de visibilidad, haz clic en `GUARDAR`.
 

@@ -18,7 +18,7 @@ subcategoryId: 7uJcyu0VawEm8ggqKu404u
 
 Os adicionais de frete são valores extras adicionados ao custo de envio pelas [políticas de envio](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140). Então, ao configurar um valor de custo para a entrega dos itens da sua loja, é possível configurar uma tarifa fixa e incluir valores adicionais. O custo fixo de entrega somado aos adicionais compõem os custos da [tarifa de envio](https://help.vtex.com/pt/tutorial/tarifas-de-envio--1Balpg3rv0854udEPedvMM).
 
-![Tarifa envio PT](//images.ctfassets.net/alneenqid6w5/21DY5nCwLfuquTatiw2Q3e/7b02d517a10fc6acdf0f343c3b1ea797/Tarifa_envio_PT.svg)
+![Tarifa envio PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Shipping/shipping-rates/adicionais-de-frete_1.svg)
 
 Os valores adicionais podem ser configurados conforme:
 
@@ -27,12 +27,9 @@ Os valores adicionais podem ser configurados conforme:
 * O seguro do produto: [adicional de seguro](https://help.vtex.com/pt/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV#adicional-de-seguro).
 * O valor do frete:  [adicional de frete](ahttps://help.vtex.com/pt/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV#adicional-de-frete).
 
-![adicionais frete PT](https://images.contentful.com/alneenqid6w5/3j3VNUKq6qTGJRfGWGbc14/32b53f2163eed7c9497bacfb95101b65/adicionais_frete_PT.svg)
+![adicionais frete PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Shipping/shipping-rates/adicionais-de-frete_2.svg)
 
-<div class="alert alert-danger">
-É importante ressaltar que é possível ter todos os adicionais configurados simultaneamente para uma única tarifa de envio. O cálculo final da <a href="https://help.vtex.com/pt/tutorial/tarifas-de-envio--1Balpg3rv0854udEPedvMM">tarifa de envio</a> é a soma de todos os adicionais cadastrados mais a tarifa fixa do frete. 
-A tarifa de envio não é o custo final de envio.
-</div>
+> ❗ É importante ressaltar que é possível ter todos os adicionais configurados simultaneamente para uma única tarifa de envio. O cálculo final da [tarifa de envio](https://help.vtex.com/pt/tutorial/tarifas-de-envio--1Balpg3rv0854udEPedvMM) é a soma de todos os adicionais cadastrados mais a tarifa fixa do frete. A tarifa de envio não é o custo final de envio.
 
 ## Adicional por peso
 
@@ -88,11 +85,9 @@ Adicional de frete: ($10+$0+$9+$5)x10%=$2,4
 Adicionais de frete: ($9+$5+$2,4)=$16,4  
 Tarifa de envio: ($10+$16,4)=$26,4  
 
-<div class="alert alert-danger">
-É importante lembrar que o cálculo do adicional por preço não considera possíveis descontos e promoções, e sim o valor cheio do carrinho. Se o adicional por preço for menor que o adicional de seguro, o adicional por preço é desconsiderado no cálculo final da tarifa de envio.
-</div>
+> ❗ É importante lembrar que o cálculo do adicional por preço não considera possíveis descontos e promoções, e sim o valor cheio do carrinho. Se o adicional por preço for menor que o adicional de seguro, o adicional por preço é desconsiderado no cálculo final da tarifa de envio.
 
-![faixa-peso PT](https://images.contentful.com/alneenqid6w5/4s9nSGox3lNthbGiDUdOFq/dbe9c301826e8e91104cd7a8ded70690/faixa-peso_PT.png)
+![faixa-peso PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Shipping/shipping-rates/adicionais-de-frete_3.png)
 
 ### Configuração 
 
@@ -126,9 +121,7 @@ Tarifa de envio: ($15+10,3)=$25,3
 
 O adicional de seguro é configurado apenas pela [planilha de frete](https://help.vtex.com/pt/tutorial/planilha-de-frete--tutorials_127) pelo campo _MinimumValueInsurance._
 
-<div class="alert alert-danger">
-Se o adicional por preço for menor que o adicional de seguro, o adicional por preço é desconsiderado no cálculo final da tarifa de envio.
-</div>
+> ❗ Se o adicional por preço for menor que o adicional de seguro, o adicional por preço é desconsiderado no cálculo final da tarifa de envio.
 
 ## Adicional de frete
 
@@ -159,4 +152,4 @@ Para configurar o adicional de frete, acesse o menu esquerdo do Admin VTEX:
     Se quer incluir uma taxa de 10% preencha o campo com 10. Para números decimais utilize pontos ao invés de vírgula (como em 1.67).
 3. Clique em `Salvar`.
 
-![adicional configuracoes PT](https://images.contentful.com/alneenqid6w5/2pVEQFyDHdXcZYpkQW85m0/2c2619466363bd20447cd0f783d07691/adicional_configuracoes_PT.png)
+![adicional configuracoes PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Shipping/shipping-rates/adicionais-de-frete_4.png)

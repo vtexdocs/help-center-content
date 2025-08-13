@@ -35,13 +35,11 @@ A seção **Assinaturas Únicas** permite:
 - Visualizar um **gráfico dinâmico** com a relação entre assinaturas ativas e canceladas, dentro do período filtrado. Passando o cursor em cima das linhas do gráfico, é possível ver com detalhes a movimentação de assinaturas por dia.
 - **Exportar assinaturas** únicas dentro do período filtrado, pelo botão no canto superior direito da tela.
 
-![Dashboard Assinatura única](//images.ctfassets.net/alneenqid6w5/Dbqw5LPyrXvpT3tElkIXY/ce3a4d97f781a1323fb6d5e0c09a8d19/PT_Dashboard_Assinatura_uÌ_nica.png)
+![Dashboard Assinatura única](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/subscriptions/subscription-guides/como-gerenciar-assinaturas_1.png)
 
 ### Pedidos de Assinatura
 
-<div class = "alert alert-info">
-É possível acessar informações somente de pedidos criados nos últimos dois anos, sendo o mesmo período válido para clientes acessarem pedidos pelo <a href="https://help.vtex.com/pt/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh">Minha Conta</a>.
-</div>
+> ℹ️ É possível acessar informações somente de pedidos criados nos últimos dois anos, sendo o mesmo período válido para clientes acessarem pedidos pelo [Minha Conta](https://help.vtex.com/pt/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh).
 
 A seção **Pedidos de Assinatura** permite:
 
@@ -49,12 +47,12 @@ A seção **Pedidos de Assinatura** permite:
 - Acompanhar o número absoluto e porcentagem correspondente de Pedidos de Assinatura que foram agendados, processados, gerados e completos por período.  
 - Visualizar um gráfico com a porcentagem de pedidos pulados, ciclos com problema e erro de pagamento.  
 
-![Dashboard Pedidos Assinatura](//images.ctfassets.net/alneenqid6w5/20rYypV5vnYXo42CdCf0ms/24ce50c369a2856eeafdf1988991ea60/PT_Pedidos_Assinatura.png)
+![Dashboard Pedidos Assinatura](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/subscriptions/subscription-guides/como-gerenciar-assinaturas_2.png)
 
 - Ao acessar cada aba do quadro **Pedidos de Assinatura**, é possível visualizar o fluxo e detalhes dos pedidos que foram Pulados, os que apresentaram Ciclos com problema, aqueles que contém um Erro de Pagamento e pedidos Completos.    
 - Além de listar detalhes dos erros que ocorreram durante  o fluxo de pedidos de Assinatura, também é possível realizar a **retentativa manual** dos pedidos com erros. Confira nosso artigo sobre a [Resolução de problemas de pedidos com Assinatura](https://help.vtex.com/pt/tutorial/como-solucionar-pedidos-de-assinatura-com-erros--uLL8AYBGdtAmbbdL5gRCf) para saber mais. 
 
-![Log Pedidos Assinatura](//images.ctfassets.net/alneenqid6w5/77DV2slShCKyXY0pKJyTl2/ee414333f6a30b87267d78654b62fea5/PT_Log_Pedidos_Assinatura.png)
+![Log Pedidos Assinatura](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/subscriptions/subscription-guides/como-gerenciar-assinaturas_3.png)
 
 ### Assinantes
 
@@ -70,14 +68,10 @@ A seção **Assinantes** do Dashboard de Assinaturas permite:
 
 - **Exportar relatório** em CSV, que contém os dados da aba correspondente, com os filtros aplicados. 
 
-<div class = "alert alert-info">
-  <p>Essa funcionalidade requer um perfil de acesso com o recurso <code>Subscription Metrics</code> ativado.</p>
-</div>
+> ℹ️ Essa funcionalidade requer um perfil de acesso com o recurso `Subscription Metrics` ativado.
 
 - **Buscar por assinantes** específicos, digitando o email na barra de busca.
 
 - O botão **Personificar** permite edições na Assinatura de cada assinante, como  alterar a frequência de assinatura, alterando a data do ciclo de assinatura (data em que os pedidos são criados). 
 
-<div class="alert alert-warning">
-  <p>Somente usuários com acesso ao Televendas podem utilizar o botão <i>Personificar</i>.</p>
-</div>
+> ⚠️ Somente usuários com acesso ao Televendas podem utilizar o botão *Personificar*.

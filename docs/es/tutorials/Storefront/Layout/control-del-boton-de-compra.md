@@ -35,7 +35,7 @@ De forma predeterminada, este es el código que el control BuyButton renderiza:
 </div>
 <a target="_top" class="buy-button buy-button-ref" href="javascript:alert('Por favor, selecione o modelo desejado.');" style="display:block">Comprar <i class="fa fa-lock"></i></a>
 <script>$('.buy-button-ref').buyButton(17, {salesChannel: 1}, {})</script>
-<p class="unavailable-button" style="display:none">Produto Esgotado</p>
+<p class="unavailable-button" style="display:none">Produto Esgotado
 <input type="hidden" class="buy-button-amount" value="1">
 <div class="portal-notify-me-ref">
     <div class="notifyme sku-notifyme" style="display: none;">
@@ -44,7 +44,7 @@ De forma predeterminada, este es el código que el control BuyButton renderiza:
         </div>
         <form action="/no-cache/AviseMe.aspx" style="display: none;">
             <fieldset class="sku-notifyme-form notifyme-form">
-                <p>Para ser avisado da disponibilidade deste Produto, basta preencher os campos abaixo.</p>
+                Para ser avisado da disponibilidade deste Produto, basta preencher os campos abaixo.
                 <input class="sku-notifyme-client-name notifyme-client-name" placeholder="Digite seu nome..." size="20" type="text" name="notifymeClientName" id="notifymeClientName" style="display: none;">
                 <input class="sku-notifyme-client-email notifyme-client-email" placeholder="Digite seu e-mail..." size="20" type="text" name="notifymeClientEmail" id="notifymeClientEmail" style="display: none;">
                 <input class="btn-ok sku-notifyme-button-ok notifyme-button-ok" value="ok" type="button" name="notifymeButtonOK" id="notifymeButtonOK" style="display: none;">
@@ -53,7 +53,7 @@ De forma predeterminada, este es el código que el control BuyButton renderiza:
         </form>
         <p class="notifyme-loading-message" style="display: none">
             <span class="sku-notifyme-loading notifyme-loading">Carregando...</span>
-        </p>
+        
         <fieldset class="success" style="display:none;">
             <label>
                 <em>

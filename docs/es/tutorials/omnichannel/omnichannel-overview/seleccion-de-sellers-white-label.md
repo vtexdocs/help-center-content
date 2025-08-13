@@ -22,9 +22,7 @@ Existen dos tipos de _sellers_ en VTEX:
 - **Seller común:** el _seller_ está visible en la vitrina del _marketplace_ y el consumidor puede elegirlo durante su experiencia de compra.
 - **[Seller white label](https://help.vtex.com/es/tutorial/definicoes-de-conta-franquia-e-seller-white-label--5orlGHyDHGAYciQ64oEgKa):** el _seller_ permanece oculto durante la experiencia de compra del consumidor y la plataforma VTEX lo selecciona automáticamente para realizar el envío del pedido.
 
-<div class = "alert alert-info">
-En VTEX, la cuenta franquicia es un tipo de cuenta que no solo se crea y asocia a una cuenta principal, sino que también tiene la característica de ser un <i>seller white label</i> de la cuenta principal. Este modelo de negocio resulta estratégico para los <i>retailers</i> que desean conectar las tiendas físicas con su canal de venta digital. Obtén más información en <a href="https://help.vtex.com/es/tutorial/what-is-a-franchise-account--kWQC6RkFSCUFGgY5gSjdl">¿Qué es una cuenta franquicia?</a>.
-</div>
+> ℹ️ En VTEX, la cuenta franquicia es un tipo de cuenta que no solo se crea y asocia a una cuenta principal, sino que también tiene la característica de ser un *seller white label* de la cuenta principal. Este modelo de negocio resulta estratégico para los *retailers* que desean conectar las tiendas físicas con su canal de venta digital. Obtén más información en [¿Qué es una cuenta franquicia?](https://help.vtex.com/es/tutorial/what-is-a-franchise-account--kWQC6RkFSCUFGgY5gSjdl).
 
 Cuando el consumidor navega por el _marketplace_, ya sea mientras mira la vitrina o cuando está en el carrito, la información sobre la disponibilidad de los _ítems_ y las opciones de envío de los _sellers_ que se le presentan al consumidor pueden variar y dependerá si el _marketplace_ conoce o no la ubicación del comprador. En tal sentido, este artículo se divide en:
 
@@ -39,9 +37,7 @@ Al navegar por el _marketplace_, los clientes esperan ver productos que se pueda
 - [Vitrina sin localización del cliente](#vitrina-sin-localizacion-del-cliente)
 - [Vitrina con localización del cliente](#vitrina-con-localizacion-del-cliente)
 
-<div class = "alert alert-info">
-En la etapa de la vitrina, la plataforma VTEX no toma en cuenta las opciones de envío de los <i>sellers</i>. Esto recién se hace cuando el cliente ingresa su dirección en el <i>checkout</i>. Por lo tanto, es posible que el precio y la disponibilidad mostrados en la vitrina sean distintos al cerrar la compra.
-</div>
+> ℹ️ En la etapa de la vitrina, la plataforma VTEX no toma en cuenta las opciones de envío de los *sellers*. Esto recién se hace cuando el cliente ingresa su dirección en el *checkout*. Por lo tanto, es posible que el precio y la disponibilidad mostrados en la vitrina sean distintos al cerrar la compra.
 
 ### Vitrina sin localización del cliente
 
@@ -51,9 +47,7 @@ Cuando un cliente navega por el _marketplace_ y se desconoce su ubicación, los 
 
 Cuando el _marketplace_ conoce la ubicación del cliente, ya sea por medio de geocoordenadas captadas o mediante datos que brindó el cliente, la plataforma VTEX puede consultar a todos los _sellers_ que cubren dicha región a fin de mostrar el precio y la disponibilidad de los productos en la vitrina y seleccionar el que ofrece el precio más bajo. Obtén más información en [Configurar el precio y la disponibilidad de los SKU por región](https://help.vtex.com/es/tutorial/configurar-preco-e-disponibilidade-de-skus-por-region--12ne58BmvYsYuGsimmugoc).
 
-<div class="alert alert-warning">
-Cuando se conoce la ubicación del cliente, la plataforma VTEX consulta a todos los <i>sellers</i> de manera predeterminada, de acuerdo con la funcionalidad <a href="https://developers.vtex.com/vtex-developer-docs/changelog/region-v2-release">Región v2</a>. Sin embargo, es posible que algunas tiendas VTEX aún operen con Región v1, la cual tiene limitaciones en cuanto a la selección de <i>sellers</i> para la vitrina.
-</div>
+> ⚠️ Cuando se conoce la ubicación del cliente, la plataforma VTEX consulta a todos los *sellers* de manera predeterminada, de acuerdo con la funcionalidad [Región v2](https://developers.vtex.com/vtex-developer-docs/changelog/region-v2-release). Sin embargo, es posible que algunas tiendas VTEX aún operen con Región v1, la cual tiene limitaciones en cuanto a la selección de *sellers* para la vitrina.
 
 ## Selección de sellers en el carrito
 
@@ -81,9 +75,7 @@ Luego de filtrar a los _sellers_ según los criterios mencionados, se selecciona
 - [Entrega](#modalidad-de-envio-entrega): el cliente recibe el pedido en su dirección.
 - [Recogida](#modalidad-de-envio-retiro-en-un-punto-de-recogida): el cliente recoge el pedido en un [punto de recogida](https://help.vtex.com/es/tutorial/pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R). 
 
-<div class = "alert alert-info">
-  De manera predeterminada, del total máximo de doce <i>sellers</i>, hasta seis realizan entregas y hasta seis ofrecen la opción de retirar el pedido en un punto de recogida. Sin embargo, si menos de seis <i>sellers</i> cumplen con los criterios de una modalidad de envío, es posible que la lista de <i>sellers</i> de la otra modalidad de envío incluya más de seis. Por ejemplo, si solo cinco <i>sellers</i> entregan el pedido, la lista de <i>sellers</i> que ofrezcan la opción de recogida del pedido podrá estar integrada por siete <i>sellers</i>, de manera tal que haya un total de doce <i>sellers</i>.
-</div>
+> ℹ️ De manera predeterminada, del total máximo de doce *sellers*, hasta seis realizan entregas y hasta seis ofrecen la opción de retirar el pedido en un punto de recogida. Sin embargo, si menos de seis *sellers* cumplen con los criterios de una modalidad de envío, es posible que la lista de *sellers* de la otra modalidad de envío incluya más de seis. Por ejemplo, si solo cinco *sellers* entregan el pedido, la lista de *sellers* que ofrezcan la opción de recogida del pedido podrá estar integrada por siete *sellers*, de manera tal que haya un total de doce *sellers*.
 
 #### Modalidad de envío: entrega
 
@@ -98,13 +90,7 @@ La selección de hasta seis _sellers white label_ para el envío en la modalidad
 6. Sobre la base de los _sellers_ seleccionados para cubrir el carrito, la plataforma VTEX calcula las combinaciones que incluyen menos _sellers_.
 7. De todas esas combinaciones, surge una lista de –como máximo– seis _sellers_ para el envío en la modalidad de entrega.
 
-<div class = "alert alert-info">
-Es posible que, en alguna etapa de la selección, haya un empate de sellers. Cuando esto ocurre, la selección se divide en dos frentes para así seleccionar:i
-<ul>
-  <li>Hasta tres sellers que ofrezcan el menor costo.</li>
-  <li>Hasta tres sellers que ofrezcan el mejor plazo.</li>
-</ul>
-</div>
+> ℹ️ Es posible que, en alguna etapa de la selección, haya un empate de sellers. Cuando esto ocurre, la selección se divide en dos frentes para así seleccionar:i <ul> <li>Hasta tres sellers que ofrezcan el menor costo.</li> <li>Hasta tres sellers que ofrezcan el mejor plazo.</li> </ul>
 
 Si hay un empate entre los _sellers_ con los criterios de menor costo o mejor plazo, el criterio de desempate será el del _seller_ que tenga el mayor número de SKU en su _stock_.
 
@@ -112,13 +98,13 @@ Si hay un empate entre los _sellers_ con los criterios de menor costo o mejor pl
 
 Un cliente agregó cinco SKU al carrito. Cada uno de los _sellers_ que ofrece la opción de entrega en su región (_sellers_ A, B, C y D) tiene en su [inventario](https://help.vtex.com/es/tutorial/gerenciar-itens-em-estoque--tutorials_139) solo una parte de los _ítems_, tal como se muestra en la imagen a continuación:
 
-![print_selecao_seller_white_label_1](//images.ctfassets.net/alneenqid6w5/23CWM1CDejDvKqF31O2DH9/4fdb2ed25e8d3d52eef96e5c0e2fd908/print_selecao_seller_white_label_1.png)
+![print_selecao_seller_white_label_1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/omnichannel/omnichannel-overview/seleccion-de-sellers-white-label_1.png)
 
 La plataforma VTEX selecciona al _seller_ que tiene disponible en su _stock_ el número máximo de SKU del carrito. En este caso, el _seller_ B es el único que entrega tres SKU. 
 
 Luego de seleccionar al _seller_ B, aún quedan dos SKU sin entregar. Si un único _seller_ enviara ambos, ese sería el factor decisivo para la selección, ya que el objetivo es reunir la menor cantidad de _sellers_ para cubrir el carrito. Sin embargo, y de acuerdo con la imagen a continuación, se necesitan a los _sellers_ A y C para entregar los SKU 1 y 4:
 
-![print_selecao_seller_white_label_2](//images.ctfassets.net/alneenqid6w5/23CWM1CDejDvKqF31O2DH9/3f7b71abf734ae7c55d8b40d3a76f3c0/print_selecao_seller_white_label_2.png)
+![print_selecao_seller_white_label_2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/omnichannel/omnichannel-overview/seleccion-de-sellers-white-label_2.png)
 
 En la primera imagen, el _seller_ C podía entregar los SKU 3 y 4, y el _seller_ D entregaría el SKU 5. No obstante, se seleccionó al _seller_ B para entregar esos _ítems_, entonces, no se tienen en cuenta esos SKU en las otras etapas de selección. Esto se representó eliminando la flecha del _seller_ C hacia el SKU 3, y la flecha del _seller_ D hacia el SKU 5.
 
@@ -128,7 +114,7 @@ El resultado de la selección para la entrega es una combinación entre los _sel
 
 Un cliente agregó cinco SKU al carrito y hay cuatro _sellers_ (A, B, C y D) que entregan los pedidos en su región. Ninguno de ellos tiene en su [inventario](https://help.vtex.com/es/tutorial/gerenciar-itens-em-estoque--tutorials_139) todos los _ítems_, tal como se muestra en la imagen a continuación:
 
-![print_selecao_seller_white_label_3](//images.ctfassets.net/alneenqid6w5/23CWM1CDejDvKqF31O2DH9/26cd86b37e5e47ada6f15cc08acfbfbc/print_selecao_seller_white_label_3.png)
+![print_selecao_seller_white_label_3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/omnichannel/omnichannel-overview/seleccion-de-sellers-white-label_3.png)
 
 La plataforma VTEX selecciona al _seller_ que tiene disponible en su _stock_ el mayor número de los SKU del carrito. Tanto el _seller_ B como el _seller_ D pueden entregar tres _ítems_, y como ambos entregan el SKU 3, compiten entre ellos.
 
@@ -141,11 +127,11 @@ Supongamos que el _seller_ B tiene la entrega más económica, y que el _seller_
 
 - **Entrega más rápida:** cuando se selecciona al _seller_ D, quedan sin entregar los SKU 3 y 4. El _seller_ C puede entregar ambos, por lo que resulta elegido y el resultado de la selección es la combinación de los _sellers_ D y C.
 
-![print_selecao_seller_white_label_4](//images.ctfassets.net/alneenqid6w5/5OVQXuRwsEWGUxy3hocfOF/4751f13e35a8187655c04b11c67f6079/print_selecao_seller_white_label_4.png)
+![print_selecao_seller_white_label_4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/omnichannel/omnichannel-overview/seleccion-de-sellers-white-label_4.png)
 
 - **Entrega más económica:** cuando se selecciona al _seller_ B, quedan sin entregar los SKU 1 y 4. Como solo el _seller_ A entrega el SKU 1, y solo el _seller_ C entrega el SKU 4, el resultado de la selección es una combinación de los _sellers_ A, B y C. 
 
-![print_selecao_seller_white_label_5](//images.ctfassets.net/alneenqid6w5/2zLEDj7yHw54HufNUeC8OT/d69cee9bb79c876adb571e98ccd0060c/print_selecao_seller_white_label_5.png)
+![print_selecao_seller_white_label_5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/omnichannel/omnichannel-overview/seleccion-de-sellers-white-label_5.png)
 
 Las flechas repetidas de los _sellers_ que entregaban los SKU ya cubiertos por los _sellers_ B y D se eliminaron de las imágenes que contemplaban las opciones de entrega más económica y más rápida. Esto se debe a que en las etapas de selección sucesivas, los SKU ya cubiertos no se tienen en cuenta.
 
@@ -170,9 +156,7 @@ La selección de un máximo de seis _sellers_ para la modalidad de envío en un 
     - **Mejor plazo:** _sellers_ que preparan los productos para su retiro en el punto de recogida en menos tiempo.
     - **Menor costo:** _sellers_ que ofrecen menores precios para el retiro del pedido en el punto de recogida.
 
-<div class = "alert alert-info">
-Cuando hay un empate entre los criterios de menor costo o mejor plazo, el factor de desempate es el <i>seller</i> con el número más alto de SKU en su <i>stock</i>.
-</div>
+> ℹ️ Cuando hay un empate entre los criterios de menor costo o mejor plazo, el factor de desempate es el *seller* con el número más alto de SKU en su *stock*.
 
 ##### Ejemplo para envío en la modalidad de retiro en un punto de recogida
 

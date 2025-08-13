@@ -38,15 +38,11 @@ Pueden crearse dos tipos de sinónimos: unidireccional y bidireccional. Consulta
 
 Aprende más sobre el registro de sinónimos en [Crear sinónimos](https://help.vtex.com/es/tutorial/criar-sinonimos--5IfjhvjxNAvJGEWNn0AhOA).
 
-<div class="alert alert-warning">
-  <p>Una vez registrado o modificado un sinónimo, puede tardar hasta dos horas en reflejarse en la tienda.</p>
-</div>
+> ⚠️ Una vez registrado o modificado un sinónimo, puede tardar hasta dos horas en reflejarse en la tienda.
 
 ## Buenas prácticas
 
-<div class="alert alert-danger">
-  <p>No utilices las <a href="https://help.vtex.com/es/tutorial/otimizar-as-buscas-com-palavras-substitutas--32FqSsl5VuQyiIMEc02Uwu">palabras sustitutas</a> para optimizar las búsquedas de productos y SKU en el Catálogo con Intelligent Search. Usa únicamente la funcionalidad de sinónimos, ya que permite una gestión más escalable de términos por producto.</p>
-</div>
+> ❗ No utilices las [palabras sustitutas](https://help.vtex.com/es/tutorial/otimizar-as-buscas-com-palavras-substitutas--32FqSsl5VuQyiIMEc02Uwu) para optimizar las búsquedas de productos y SKU en el Catálogo con Intelligent Search. Usa únicamente la funcionalidad de sinónimos, ya que permite una gestión más escalable de términos por producto.
 
 ### Clasificación de los resultados
 
@@ -74,9 +70,7 @@ Consulta a continuación algunos ejemplos de configuración de sinónimos:
 | `pantalón ⇄ pantalones` | Bidireccional | ❌ Configuración redundante. Intelligent Search corrige automáticamente casos como este. |
 | `pantalón jeans ⇄ pantalón de jeans` | Bidireccional | ❌ Configuración redundante. Intelligent Search corrige automáticamente casos como este. |
 
-<div class="alert alert-info">
- <p>La funcionalidad <a href="https://help.vtex.com/es/tutorial/sinonimos-inteligentes--1rR47Kk96UgFYwh8dkDG7i">Sinónimos</a> genera recomendaciones de términos para registrar sinónimos, además de la configuración manual. Si te interesa implementarla en el futuro, ponte en contacto con nuestro <a href="https://support.vtex.com/hc/pt-br/requests">soporte</a>. Es posible que más adelante se apliquen tarifas adicionales.</p>
-</div>
+> ℹ️ La funcionalidad [Sinónimos](https://help.vtex.com/es/tutorial/sinonimos-inteligentes--1rR47Kk96UgFYwh8dkDG7i) genera recomendaciones de términos para registrar sinónimos, además de la configuración manual. Si te interesa implementarla en el futuro, ponte en contacto con nuestro [soporte](https://support.vtex.com/hc/pt-br/requests). Es posible que más adelante se apliquen tarifas adicionales.
 
 ## Más información
 

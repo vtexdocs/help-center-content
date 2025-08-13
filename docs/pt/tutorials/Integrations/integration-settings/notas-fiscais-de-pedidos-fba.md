@@ -19,7 +19,7 @@ A funcionalidade de Notas fiscais permite o seller [filtrar](#filtros) e exporta
 
 Para acessar a página vá em **Admin VTEX > Marketplace > Amazon > Notas fiscais** ou digite **Notas fiscais**  na barra de busca do Admin, feito isso, a seguinte página aparecerá.
 
-![Overview Notas fiscais Amazon](//images.ctfassets.net/alneenqid6w5/2Mon7qB0FEIGhzTdvf0pgy/4f1015d9612e95b64790a65d8635ab0d/nf-amazon-pt.jpg)
+![Overview Notas fiscais Amazon](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Integrations/integration-settings/notas-fiscais-de-pedidos-fba_1.jpg)
 
 ## Filtros
 
@@ -27,9 +27,7 @@ Veja a seguir quais são os filtros e como funcionam.
 
 **Período:** é um filtro do tipo obrigatório. Aqui o seller seleciona um intervalo de datas referente ao período que deseja extrair as notas fiscais, podendo ser utilizado um dos períodos pré-definidos ou o personalizado, onde o seller escolhe a data de início e fim.  
 
-<div class="alert alert-info">
-Por padrão, o período exibido ao acessar a página é “hoje”.
-</div>  
+> ℹ️ Por padrão, o período exibido ao acessar a página é “hoje”.  
 
 **Status:**  é um filtro opcional e pode ser selecionado um ou mais dentre **Emitida, Rejeitada** e **Cancelada.** Caso nenhum status seja selecionado, todos serão considerados na busca.  
 
@@ -39,15 +37,13 @@ Ao selecionar os filtros **Tipo de operação** e **Tipo de nota fiscal,**  outr
 
 - Se **Tipo de operação** é selecionado, será exibido as opções, **Remessa (Excedente), Remoção, Vendas, Devolução do cliente, Ajuste de estoque (encontrado)** e **Ajuste de estoque (perdido),** conforme imagem abaixo.  
 
-![Tipo de operação NFe](//images.ctfassets.net/alneenqid6w5/5qWQCmp0zk1ItIGqwmGEB/6bfa8df93a8d217129f3233a888a53da/tipodeoperacaonfe-pt.jpg)
+![Tipo de operação NFe](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Integrations/integration-settings/notas-fiscais-de-pedidos-fba_2.jpg)
 
 - Se **Tipo de nota fiscal** é selecionado, será exibido as opções, **Remessa, Remessa simbólica, Retorno, Retorno simbólico** e **Vendas ao cliente,** conforme imagem abaixo. 
 
-![Tipo NFe](//images.ctfassets.net/alneenqid6w5/228Fycy2V3qzOON9r5Gjn/caa6940e291f7e1f8f567c455431fd61/tiponfe-pt.jpg)
+![Tipo NFe](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Integrations/integration-settings/notas-fiscais-de-pedidos-fba_3.jpg)
 
-<div class="alert alert-info">
-Se o seller não selecionar nenhum filtro de tipo, por padrão o sistema retorna as notas fiscais de todos os tipos.
-</div>  
+> ℹ️ Se o seller não selecionar nenhum filtro de tipo, por padrão o sistema retorna as notas fiscais de todos os tipos.  
 
 ## Exportar Notas fiscais
 
@@ -59,6 +55,4 @@ Para exportar as notas fiscais dos pedidos FBA, siga os passos abaixo.
 
 Será exibida uma mensagem de confirmação indicando que o processo foi iniciado e em breve o seller receberá em seu email um link para acessar as notas fiscais.  
 
-<div class="alert alert-warning">
-O link para exportação das notas fiscais é válido por três dias. Caso você não exporte neste período, será necessário refazer o processo no Admin para receber um novo link.
-</div>  
+> ⚠️ O link para exportação das notas fiscais é válido por três dias. Caso você não exporte neste período, será necessário refazer o processo no Admin para receber um novo link.  

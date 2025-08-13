@@ -23,7 +23,7 @@ Por padrão, é necessário que o produto que será enviado do seller também po
 
 A imagem a seguir representa um exemplo, no qual o Seller A envia um produto para o Marketplace A. Caso o Marketplace A possua em seu próprio estoque o mesmo produto que o Seller A enviou, então ele poderá enviar esse item ao marketplace B.
 
-![erro-envio-skus-sellers-marketplaces-docnovo](//images.ctfassets.net/alneenqid6w5/3T528zwESuAVeiJXJWpFME/bb694301be01d46ac0d33ced3016da01/erro-envio-skus-sellers-marketplaces-docnovo.JPG)
+![erro-envio-skus-sellers-marketplaces-docnovo](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Sellers/sellers-overview/anuncios-enviados-entre-os-mesmos-sellers-e-marketplaces-vtex_1.JPG)
 
 Marketplaces com esse modelo de negócios são beneficiados porque poderão expandir seu sortimento em canais de vendas terceiros gerando mais oportunidades de vendas.
 

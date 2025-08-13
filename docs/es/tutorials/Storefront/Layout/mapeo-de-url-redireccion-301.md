@@ -15,9 +15,7 @@ locale: es
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
-<div class="alert alert-warning">
-<p>Este tutorial es para tiendas en el CMS legado. Para otras tiendas, esta configuración se realiza a través de <a href="https://help.vtex.com/es/tutorial/paginas-visao-geral--5iBUUJbK5NqG6OxlDrGNzc" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word">Páginas</a>. Acceda a la documentación <a href="https://help.vtex.com/es/tutorial/gerenciando-redirecionamentos-de-url--3UJuFrU8imSVWg134mkvJV" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word">Gestión de redirecciones de URL</a> para obtener más información.</p>
-</div>
+> ⚠️ Este tutorial es para tiendas en el CMS legado. Para otras tiendas, esta configuración se realiza a través de [Páginas](https://help.vtex.com/es/tutorial/paginas-visao-geral--5iBUUJbK5NqG6OxlDrGNzc). Acceda a la documentación [Gestión de redirecciones de URL](https://help.vtex.com/es/tutorial/gerenciando-redirecionamentos-de-url--3UJuFrU8imSVWg134mkvJV) para obtener más información.
 
 Los mapeos de URL se utilizan para redirigir URL específicas a otras URL. Este recurso es muy útil cuando la tienda ya tiene URL indexadas en los buscadores y se quiere redirigirlas a otras más atractivas, manteniendo el SEO y evitando errores de indexación.
 
@@ -45,9 +43,7 @@ Hay dos maneras de añadir y cambiar un Mapeo de URL:
 - **End date:** fecha y hora en que se dejará de considerar el mapeo.
 - **Active:** opción para determinar si el mapeo está activo o inactivo.
 
-<div class="alert alert-info"> 
-  <p>Para crear un mapeo para la home (directorio raíz), rellene el campo <b>Url to</b> con una barra <code>/</code>.</p>
-</div>
+> ℹ️ Para crear un mapeo para la home (directorio raíz), rellene el campo **Url to** con una barra `/`.
 
 ## Importación por plantilla
 
@@ -56,7 +52,7 @@ Hay dos maneras de añadir y cambiar un Mapeo de URL:
 3. Haga clic en la carpeta **URL Builder**.
 4. Haga clic en el botón `Import` para importar la plantilla.
 5. Descargue el modelo de plantilla que se ilustra a continuación haciendo clic en el botón `Click here`.
-![exemplo-planilha](https://images.contentful.com/alneenqid6w5/2Z63gJkADcR2gveT3lncQb/9bbd790becd99acb7b647537eb71c6a9/Screenshot_5.png)
+![exemplo-planilha](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Storefront/Layout/mapeo-de-url-redireccion-301_1.png)
 6. Rellene los [campos de la plantilla](#campos-de-la-plantilla).
 7. Después de rellenar la plantilla, haga clic en el botón `Browse for file` en la página de importación.
 8. Seleccione el archivo que desea importar desde su ordenador. El archivo debe tener la extensión `.xls` en formato `Excel 97-2003 Workbook`.

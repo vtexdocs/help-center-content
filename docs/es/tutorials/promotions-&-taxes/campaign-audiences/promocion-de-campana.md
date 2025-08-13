@@ -26,9 +26,7 @@ Antes de crear una campaña de promoción, debe crear un público de campaña pa
 
 Ejemplo: si configura una [audiencia de campaña](https://help.vtex.com/es/tutorial/Crear-audiencia-de-campanas--6cnuDZJzIkIeocewAQQK4K) cuyo público objetivo son los clientes que ponen el «producto A» en el carrito, en la promoción de la campaña puede configurar que este público reciba un descuento en el «producto B».
 
-<div class="alert alert-info">
-  <p>Los públicos de las campañas y sus promociones solo son válidos para la cuenta principal de la tienda. Las cuentas de <i>sellers</i> no tienen esta opción. Si se crean en una cuenta de <i>seller</i>, el público de campaña o la promoción de campaña no se activarán.</p>
-</div>
+> ℹ️ Los públicos de las campañas y sus promociones solo son válidos para la cuenta principal de la tienda. Las cuentas de *sellers* no tienen esta opción. Si se crean en una cuenta de *seller*, el público de campaña o la promoción de campaña no se activarán.
 
 Después de definir la [audiencia de la campaña](https://help.vtex.com/es/tutorial/Crear-audiencia-de-campanas--6cnuDZJzIkIeocewAQQK4K), acceda al Admin y siga los pasos a continuación para crear una promoción de campaña.
 
@@ -54,7 +52,7 @@ A continuación se describen todos los campos que debe rellenar para crear una p
 
 - **Nombre:** es el nombre de la promoción.
 - **Status:** activa o desactiva la promoción.
-- **Descripción:** es la descripción interna de la promoción. Este campo se puede utilizar para la comunicación interna en su tienda para identificar mejor la promoción. Por ejemplo, deje claro que la promoción se debe al público de alguna campaña o la liquidación de <i>stock,</i> por ejemplo.
+- **Descripción:** es la descripción interna de la promoción. Este campo se puede utilizar para la comunicación interna en su tienda para identificar mejor la promoción. Por ejemplo, deje claro que la promoción se debe al público de alguna campaña o la liquidación de *stock,* por ejemplo.
 - **Validez:** es la fecha y hora de inicio y fin de la promoción. Si lo desea, puede configurar una fecha y hora de inicio futuras para programar la promoción. En este caso, la promoción tendrá el estado **Programada** hasta la fecha y hora que defina. Mientras la promoción sea válida, tendrá el status **Activo**. Al final del periodo definido por la fecha de finalización de la promoción, el estado cambiará a **Inactivo** automáticamente.
 - **Utilizar configuraciones de recurrencia:** habilitar esta opción le permite configurar la recurrencia de la promoción de su campaña de acuerdo con las opciones a continuación.
   - **Día de la semana:**
@@ -74,11 +72,9 @@ A continuación se describen todos los campos que debe rellenar para crear una p
   - **Flete gratis:** es el descuento total sobre el valor del flete.
   - **Regalo:** es el descuento total sobre el valor del producto definido como regalo. Puede seleccionar uno o más SKU como regalos, o más de una unidad para el mismo SKU. Para definir más de un regalo, escoja la opción **Activar multiplicador de regalo** y defina la cantidad deseada. Lea más sobre esta opción en este [artículo](https://help.vtex.com/es/tutorial/que-significa-activar-el-multiplicador-de-regalo-en-una-promocion--1gydgkmjEWcoo2CskUwuYK).
 
-  <div class = "alert alert-info">
-  <p>El producto de <b>Regalo</b> también debe tener un precio registrado aunque se dé al cliente de forma gratuita.</p>
- </div>
+  > ℹ️ El producto de **Regalo** también debe tener un precio registrado aunque se dé al cliente de forma gratuita.
 
-  - **Descuento nominal basado en la fórmula:** el descuento se calcula sumando los precios de los productos (total), el flete (<i>freight</i>) y el porcentaje de descuento deseado. Es importante destacar que el valor del flete que se incluirá en la fórmula será el valor menor que esté disponible para el pedido, independientemente de la selección del cliente. El separador decimal debe ser siempre el punto. Ejemplo: el descuento será del 30 % del valor del producto + el valor del flete. Entonces, la fórmula debe rellenarse así: ((total + freight) * 0.3).
+  - **Descuento nominal basado en la fórmula:** el descuento se calcula sumando los precios de los productos (total), el flete (*freight*) y el porcentaje de descuento deseado. Es importante destacar que el valor del flete que se incluirá en la fórmula será el valor menor que esté disponible para el pedido, independientemente de la selección del cliente. El separador decimal debe ser siempre el punto. Ejemplo: el descuento será del 30 % del valor del producto + el valor del flete. Entonces, la fórmula debe rellenarse así: ((total + freight) * 0.3).
   - **Valor de fidelidad nominal:** es el crédito que será añadido al programa de fidelidad de la tienda. 
   - **Valor de fidelidad porcentual:** es el porcentaje de crédito que se añadirá al programa de fidelidad de la tienda. 
   - **Tabla de precios promocionales:** permite utilizar una lista de precios como promoción. El precio promocional de cada SKU será el correspondiente a la lista de precios seleccionada. Puede configurar un máximo de cinco promociones de campaña simultáneas utilizando listas de precios promocionales en su tienda. El precio de la lista de precios se aplicará solo si su valor es inferior al precio configurado en la política comercial utilizada en la promoción. Además, las promociones de la lista de precios compiten con todas las demás promociones relacionadas con los precios, es decir, si hay más de una promoción de precios activa y aplicable a los productos en cuestión, se aplicará el precio más bajo. Vea más información sobre la competencia de promociones en nuestro artículo [Cómo funciona la competencia de promociones](https://help.vtex.com/es/tutorial/entendiendo-la-competencia-de-las-promociones-2--tutorials_2270).
@@ -95,16 +91,14 @@ Si elige un tipo de descuento relacionado con el flete («Carga porcentual», «
 
 #### Restringir la promoción a los productos de los sellers
 
-En esta sección puede definir en qué <i>sellers</i> se aplicará la promoción. Puede determinar qué <i>sellers</i> se incluirán o excluirán del descuento. 
+En esta sección puede definir en qué *sellers* se aplicará la promoción. Puede determinar qué *sellers* se incluirán o excluirán del descuento. 
 
-- **Es igual a:** seleccione los nombres de los <i>sellers</i> deseados para incluirlos.
-- **Diferente de:** seleccione los nombres de los <i>sellers</i> deseados para excluirlos.
+- **Es igual a:** seleccione los nombres de los *sellers* deseados para incluirlos.
+- **Diferente de:** seleccione los nombres de los *sellers* deseados para excluirlos.
 
-Para que la promoción sea válida para todos los <i>sellers</i>, deje la selección sin marcar.
+Para que la promoción sea válida para todos los *sellers*, deje la selección sin marcar.
 
-<div class = "alert alert-warning">
-  <p><b>Atención:</b> no es posible seleccionar directamente un <i>seller white label</i>. Para incluir a un <i>seller white label</i> en la promoción, tiene dos opciones:</p><ol>1. Restringir los <i>sellers</i> a la tienda principal. Esta restricción agrega todos los <i>sellers white label</i> de su tienda a la promoción.</ol><ol>2. Dejar la selección sin marcar para incluir a todos los <i>sellers</i>. Aquí, todos los tipos de <i>sellers, white label</i> o no, se agregarán a la promoción.</ol>
-</div>
+> ⚠️ **Atención:** no es posible seleccionar directamente un *seller white label*. Para incluir a un *seller white label* en la promoción, tiene dos opciones:<ol>1. Restringir los *sellers* a la tienda principal. Esta restricción agrega todos los *sellers white label* de su tienda a la promoción.</ol><ol>2. Dejar la selección sin marcar para incluir a todos los *sellers*. Aquí, todos los tipos de *sellers, white label* o no, se agregarán a la promoción.</ol>
 
 #### Política comercial
 
@@ -121,9 +115,9 @@ Para que la promoción sea válida para todas las políticas comerciales, deje l
 
 En esta sección, debe elegir si la promoción se aplicará a todos los productos registrados en su tienda o solo a productos específicos, como se ilustra a continuación.
 
-![promocoes-restricao-es](//images.ctfassets.net/alneenqid6w5/55xxIduLJDJrwQMuk4OgRu/9219ee59e0e23d8a881a2ea678ff0249/promocoes-restricao-es.PNG)
+![promocoes-restricao-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/promotions-&-taxes/campaign-audiences/promocion-de-campana_1.PNG)
 
-Si desea aplicar la promoción a todo su catálogo, seleccione la opción **Aplicar a todos los productos<b>**</b>.
+Si desea aplicar la promoción a todo su catálogo, seleccione la opción **Aplicar a todos los productos******.
 
 Para limitar la promoción a productos específicos, seleccione **Aplicar a los siguientes productos** y luego rellene los criterios de selección para **Categorías**, **Marcas**, **Colecciones** y **Productos**.
 
@@ -131,13 +125,11 @@ Puede incluir o excluir **categorías**, **marcas**, **colecciones** y **product
 
 Vea a continuación un ejemplo de cómo rellenarlo. En este caso, participan en la promoción todos los productos de la categoría **Vestido** cuya marca es **Farm**, con la excepción del producto **Vestido Rosas**.
 
-![exemplo-es](//images.ctfassets.net/alneenqid6w5/69J3NHBR8yLbbn04SSc5er/4b294969b056e682bd853a323e213b33/exemplo-es.PNG)
+![exemplo-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/promotions-&-taxes/campaign-audiences/promocion-de-campana_2.PNG)
 
 En los campos **Productos** y **SKUs**, se puede cargar un archivo **.txt** con un ID de producto o de SKU por fila, en vez de seleccionar un producto o un SKU a la vez. Para ello, debe hacer clic en **Elegir archivo** y seleccionar el archivo **.txt** deseado.
 
-<div class="alert alert-warning">
-  <p>Si selecciona <b>Aplicar a los siguientes productos</b> y no rellena ninguno de los criterios de selección, la promoción no se creará y aparecerá el mensaje <b>Defina los productos elegibles o aplique a todos los productos</b>. En este caso, debe volver y rellenar los criterios de selección o elegir <b>Aplicar a todos los productos</b>.</p>
-</div>
+> ⚠️ Si selecciona **Aplicar a los siguientes productos** y no rellena ninguno de los criterios de selección, la promoción no se creará y aparecerá el mensaje **Defina los productos elegibles o aplique a todos los productos**. En este caso, debe volver y rellenar los criterios de selección o elegir **Aplicar a todos los productos**.
 
 Para ser válidos en la promoción, los productos deben cumplir todas las condiciones registradas en esta sección.
 

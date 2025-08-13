@@ -64,15 +64,13 @@ Existem dois status possíveis para um produto na B2W:
 - **Ativo:** aparece no marketplace e está disponível para venda.
 - **Inativo:** não aparece no marketplace e está indisponível para venda.
 
-<div class = "alert alert-info">
-Não existem campos obrigatórios para que um produto seja integrado. No entanto, se um produto não possui preço cadastrado ou estoque positivo, ele se torna inativo.
-</div>
+> ℹ️ Não existem campos obrigatórios para que um produto seja integrado. No entanto, se um produto não possui preço cadastrado ou estoque positivo, ele se torna inativo.
 
 ### Exibição de produtos
 
 Na página de detalhes de um produto na [Americanas Marketplace](https://www.americanas.com.br/?spa=true), as variações do produto (SKUs) são agrupadas em uma única interface. No exemplo ilustrado a seguir, o consumidor pode escolher entre as variações de tamanho Gg, P, M e G de uma camiseta.
 
-![print_camiseta_americanas_b2w](https://drive.google.com/uc?export=download&id=1LoLjBU9HTwqwdN4O0loqiWy-grNOggMD)
+![print_camiseta_americanas_b2w](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Integrations/integration-settings/como-funciona-a-integracao-da-skyhub_1.png)
 
 ### Atualização de produto
 
@@ -86,9 +84,7 @@ Depois que os produtos recebem a primeira carga de estoque, a atualização ser�
 
 A integração envia o [preço de lista](https://help.vtex.com/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3XcXp0r5WrJvogB8KIX4Kx#preco-de-lista) e o preço final para cada SKU. O preço final é enviado de acordo com o retorno da [simulação de fulfillment](https://developers.vtex.com/vtex-rest-api/reference/fulfillment-simulation). Em um cenário padrão, o preço enviado será sempre o determinado pela política comercial usada na integração.
 
-<div class = "alert alert-info">
-Qualquer alteração no <a href= "https://help.vtex.com/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3XcXp0r5WrJvogB8KIX4Kx">preço base</a> ou no <a href= "https://help.vtex.com/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3HxF2u5VwidqnUGnFoKdDy">preço fixo</a> de um produto vai se refletir automaticamente na B2W. Vale ressaltar que o preço fixo se sobrepõe a todas as configurações de preços existentes em uma <a href= "https://help.vtex.com/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/1wAm5m3IUfIj6maBdaRJt8">tabela de preços</a>.
-</div>
+> ℹ️ Qualquer alteração no <a href= "https://help.vtex.com/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3XcXp0r5WrJvogB8KIX4Kx">preço base</a> ou no <a href= "https://help.vtex.com/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3HxF2u5VwidqnUGnFoKdDy">preço fixo</a> de um produto vai se refletir automaticamente na B2W. Vale ressaltar que o preço fixo se sobrepõe a todas as configurações de preços existentes em uma <a href= "https://help.vtex.com/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/1wAm5m3IUfIj6maBdaRJt8">tabela de preços</a>.
 
 Não é possível enviar preços diferenciados em função da forma de pagamento, pois a escolha da forma de pagamento é determinada no ambiente da B2W.
 
@@ -163,9 +159,7 @@ Ao faturar o pedido na VTEX, a integração atualiza o status na SkyHub para `Sh
 
 O campo `CourierStatus` pode ser populado automaticamente por [atualizações de rastreio das próprias transportadoras](https://help.vtex.com/pt/tutorial/quais-transportadoras-disponibilizam-o-rastreio-de-frete) ou manualmente, pela API _[Update Order Tracking Status](https://developers.vtex.com/vtex-developer-docs/reference/updatetrackingstatus)_ ou pelo Admin VTEX, em **PEDIDOS > Gerenciamento de pedidos**. Quando o campo retornar `finished=true`, então o status do pedido é declarado como `Delivered` e a integração envia essa informação ao marketplace. Caso o campo retorne `finished=false`, o status do pedido não é alterado para `Delivered`, permanecendo no status anterior.
 
-<div class = "alert alert-info">
-Se você utiliza o serviço <a href="https://help.vtex.com/pt/tracks/configurar-integracao-da-b2w--6w07SJBVqE020KIOOS8ygk/5hHCiAMHih2lc5xb3A5Ohp#b2w-entregas-e-b2w-entregas-direct">B2W Entregas ou B2W Entregas Direct</a>, o preço do frete não entrará no valor do pedido integrado na VTEX e na nota fiscal constará apenas o custo dos produtos. A nota fiscal do frete deverá ser emitida pela própria B2W, que é quem está fornecendo esse serviço.
-</div>
+> ℹ️ Se você utiliza o serviço [B2W Entregas ou B2W Entregas Direct](https://help.vtex.com/pt/tracks/configurar-integracao-da-b2w--6w07SJBVqE020KIOOS8ygk/5hHCiAMHih2lc5xb3A5Ohp#b2w-entregas-e-b2w-entregas-direct), o preço do frete não entrará no valor do pedido integrado na VTEX e na nota fiscal constará apenas o custo dos produtos. A nota fiscal do frete deverá ser emitida pela própria B2W, que é quem está fornecendo esse serviço.
 
 ### Enviar pedido
 
@@ -180,9 +174,7 @@ Apesar de a SkyHub consultar o frete na VTEX, a integração permite usar uma so
 
 No caso de uma solução de terceiros fazer o cálculo de frete ou no caso de utilizar uma tabela de contingência, a integração faz um _match_ do frete calculado com a transportadora que mais se adequa na VTEX. O parâmetro utilizado é o nome da transportadora escolhida. Caso a integração não consiga encontrar uma transportadora idêntica, a VTEX integra o pedido com a transportadora mais barata disponível.
 
-<div class = "alert alert-info">
-Para o seller que utiliza o serviço <a href="https://help.vtex.com/pt/tracks/configurar-integracao-da-b2w--6w07SJBVqE020KIOOS8ygk/5hHCiAMHih2lc5xb3A5Ohp#b2w-entregas-e-b2w-entregas-direct">B2W Entregas ou B2W Entregas Direct</a>, a SkyHub não consulta a VTEX sobre frete, pois o envio é responsabilidade do marketplace. É possível também <a href="https://help.vtex.com/pt/tutorial/configurar-integracao-de-lojas-fisicas-com-a-b2w--1yv2BSquNmdp8M6vJvaLwm">Configurar integração de lojas físicas com a B2W</a> e oferecer ao consumidor a opção de pontos de retirada do pedido.
-</div>
+> ℹ️ Para o seller que utiliza o serviço [B2W Entregas ou B2W Entregas Direct](https://help.vtex.com/pt/tracks/configurar-integracao-da-b2w--6w07SJBVqE020KIOOS8ygk/5hHCiAMHih2lc5xb3A5Ohp#b2w-entregas-e-b2w-entregas-direct), a SkyHub não consulta a VTEX sobre frete, pois o envio é responsabilidade do marketplace. É possível também [Configurar integração de lojas físicas com a B2W](https://help.vtex.com/pt/tutorial/configurar-integracao-de-lojas-fisicas-com-a-b2w--1yv2BSquNmdp8M6vJvaLwm) e oferecer ao consumidor a opção de pontos de retirada do pedido.
 
 <br></br>
 ### Saiba mais

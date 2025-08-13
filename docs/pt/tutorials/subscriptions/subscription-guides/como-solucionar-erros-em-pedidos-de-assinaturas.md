@@ -15,9 +15,7 @@ locale: pt
 subcategoryId: 1rA9wuuskW3PpjvMrhatAM
 ---
 
-<div class = "alert alert-info">
-É possível acessar informações somente de pedidos criados nos últimos dois anos, sendo o mesmo período válido para clientes acessarem pedidos pelo <a href="https://help.vtex.com/pt/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh">Minha Conta</a>.
-</div>
+> ℹ️ É possível acessar informações somente de pedidos criados nos últimos dois anos, sendo o mesmo período válido para clientes acessarem pedidos pelo [Minha Conta](https://help.vtex.com/pt/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh).
 
 É possível identificar e gerenciar erros em pedidos de assinaturas através do módulo de **Assinaturas** > **Dashboards** > **Pedidos de Assinatura** no Admin.
 
@@ -32,7 +30,7 @@ Problemas em ciclos de assinaturas acontecem quando há um problema que impede a
 
 A aba **Ciclos com problema**, ilustrada na imagem abaixo, reúne os pedidos de assinaturas que apresentam problemas desse tipo.
 
-![cicloscomproblema PT](//images.ctfassets.net/alneenqid6w5/5ijnWeUeqRzKWa2agsxK7O/ee04171d3d9c785e049382f1e927b715/cicloscomproblema_PT.png)
+![cicloscomproblema PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/subscriptions/subscription-guides/como-solucionar-erros-em-pedidos-de-assinaturas_1.png)
 
 A partir dessa aba, é possível gerenciar os pedidos que apresentam ciclos com problema e fazer novas tentativas manuais de criação de pedidos. Por exemplo, quando um produto está indisponível, você pode ajustar o estoque e, em seguida, fazer a nova tentativa.
 
@@ -66,7 +64,7 @@ Veja na tabela abaixo quais são os erros informados nos ciclos com problema e s
                 <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">Could not select a SLA for sku {ID do SKU}</span>
             </td>
             <td class="t-body pa5" style="min-width: 15rem;">Não foram encontradas estratégias de envio associadas a determinado SKU dentro do pedido de assinatura.
-                <p>
+                
                 Geralmente, este erro está atrelado à falta de disponibilidade de estoque do SKU em questão, ou alguma limitação na configuração logística.
             </td>
         </tr>
@@ -75,7 +73,7 @@ Veja na tabela abaixo quais são os erros informados nos ciclos com problema e s
                 <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">No SLAs were found for this subscription</span>
             </td>
             <td class="t-body pa5" style="min-width: 15rem;">Não foram encontradas estratégias de envio associadas à assinatura como um todo.
-                <p>
+                
                 Geralmente, este erro está atrelado à falta de disponibilidade de estoque dos itens que compõem a assinatura, ou alguma limitação na configuração logística, como ausência de geocoordenadas no perfil do cliente.
             </td>
         </tr>
@@ -95,8 +93,8 @@ Veja na tabela abaixo quais são os erros informados nos ciclos com problema e s
             </td>
             <td class="t-body pa5" style="min-width: 15rem;">
                 Erro atrelado a algum problema no endereço cadastrado pelo cliente para a assinatura, como CEP inválido ou inexistência dos dados de geocoordenadas.
-                <p>
-                Para corrigir o erro, é necessário entrar em contato com o cliente e pedir para que revise seus dados de endereço na página <strong>Minha Conta</strong>.
+                
+                Para corrigir o erro, é necessário entrar em contato com o cliente e pedir para que revise seus dados de endereço na página **Minha Conta**.
             </td>
         </tr>
         <tr class="bb b--muted-3">
@@ -106,8 +104,8 @@ Veja na tabela abaixo quais são os erros informados nos ciclos com problema e s
             </td>
             <td class="t-body pa5" style="min-width: 15rem;">
                 Este erro ocorre quando há alguma informação faltando no perfil do cliente. Exemplo: se o cliente remover o CPF do perfil após a primeira compra, na próxima data do ciclo de assinatura, o pedido gerado terá este erro.
-                <p>
-                Para corrigir o erro, é necessário que o cliente preencha a informação no perfil da página <strong>Minha Conta</strong>.
+                
+                Para corrigir o erro, é necessário que o cliente preencha a informação no perfil da página **Minha Conta**.
             </td>
         </tr>
         <tr class="bb b--muted-3">
@@ -117,8 +115,8 @@ Veja na tabela abaixo quais são os erros informados nos ciclos com problema e s
             </td>
             <td class="t-body pa5" style="min-width: 15rem;">
                 Este erro significa que não há forma de pagamento cadastrada para a assinatura no perfil do usuário.
-                <p>
-                Para corrigir o erro, é necessário entrar em contato com o cliente e pedir para que preencha seus dados de pagamento na página <strong>Minha Conta</strong>.
+                
+                Para corrigir o erro, é necessário entrar em contato com o cliente e pedir para que preencha seus dados de pagamento na página **Minha Conta**.
             </td>
         </tr>
         <tr class="bb b--muted-3">
@@ -132,8 +130,8 @@ Veja na tabela abaixo quais são os erros informados nos ciclos com problema e s
                     <li>Cadastro de cliente com dados de cartão de crédito incompletos ou inválidos e dados de endereço incompletos ou inválidoS.</li>
                     <li>Cadastro de cliente com número de CPF inválido.</li>
                 </ul>        
-                <p>
-                Para corrigir o erro, é necessário entrar em contato com o cliente e pedir para que revise seus dados na página <strong>Minha Conta</strong>.​
+                
+                Para corrigir o erro, é necessário entrar em contato com o cliente e pedir para que revise seus dados na página **Minha Conta**.​
             </td>
         </tr>
         <tr class="bb b--muted-3">
@@ -142,10 +140,10 @@ Veja na tabela abaixo quais são os erros informados nos ciclos com problema e s
                     PriceTag inválida</span>
             </td>
             <td class="t-body pa5" style="min-width: 15rem;">
-                Esta mensagem é exibida quando existe uma diferença de <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">priceTags</span> das respostas entre a <a href="https://developers.vtex.com/vtex-rest-api/reference/orderform">simulação do carrinho</a> e a criação de pedidos pela API de placeOrder. Divergências entre as respostas de cada momento podem impedir a criação do pedido.
-                <p>
+                Esta mensagem é exibida quando existe uma diferença de <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">priceTags</span> das respostas entre a [simulação do carrinho](https://developers.vtex.com/vtex-rest-api/reference/orderform) e a criação de pedidos pela API de placeOrder. Divergências entre as respostas de cada momento podem impedir a criação do pedido.
+                
                 A criação de pedidos pela API de placeOrder com promoção depende do envio das <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">priceTags</span>, que então especificam as promoções previamente obtidas na simulação.
-                <p>
+                
                 Todas as <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">priceTags</span> aplicadas pelo sistema na criação do pedido precisam ser especificadas previamente na requisição à API. Caso contrário, o pedido não é criado e esta mensagem de erro é exibida, pois o sistema entende que as condições do contexto não são aplicáveis, já que elas dependem de todas as <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">priceTags</span> (incluindo as não declaradas).
             </td>
         </tr>
@@ -155,7 +153,7 @@ Veja na tabela abaixo quais são os erros informados nos ciclos com problema e s
                     O valor do pagamento é diferente do valor do pedido</span>
             </td>
             <td class="t-body pa5" style="min-width: 15rem;">
-                Esta mensagem é exibida quando há uma diferença entre o valor da <a href="https://developers.vtex.com/vtex-rest-api/reference/orderform">simulação do carrinho</a> e o valor do pedido criado via API de placeOrder.
+                Esta mensagem é exibida quando há uma diferença entre o valor da [simulação do carrinho](https://developers.vtex.com/vtex-rest-api/reference/orderform) e o valor do pedido criado via API de placeOrder.
             </td>
         </tr>
         <tr class="bb b--muted-3">
@@ -164,7 +162,7 @@ Veja na tabela abaixo quais são os erros informados nos ciclos com problema e s
                     Não foi possível se comunicar com o vendedor XXXXXX</span>
             </td>
             <td class="t-body pa5" style="min-width: 15rem;">
-                Esta mensagem é exibida quando o checkout não consegue se comunicar com o seller para fechar o pedido. Este erro geralmente tem caráter temporário e costuma ser resolvido pelas tentativas automáticas do módulo de <strong>Assinaturas</strong>.
+                Esta mensagem é exibida quando o checkout não consegue se comunicar com o seller para fechar o pedido. Este erro geralmente tem caráter temporário e costuma ser resolvido pelas tentativas automáticas do módulo de **Assinaturas**.
             </td>
         </tr>
         <tr class="bb b--muted-3">
@@ -173,11 +171,11 @@ Veja na tabela abaixo quais são os erros informados nos ciclos com problema e s
                     Subscription has invalid data to place order: [ADDRESS_DATA]</span>
             </td>
             <td class="t-body pa5" style="min-width: 15rem;">
-                Este erro ocorre apenas em lojas que utilizam <strong>Assinaturas V2</strong>. A cada ciclo de assinatura, o app de <strong>Assinaturas V2</strong> faz uma validação extra que verifica se algum dos dados de endereço mudou desde a criação da assinatura. Se os dados de endereço não forem exatamente iguais, ocorre o erro.
-                <p>
-                Exemplo: se o cliente coloca um acento no nome da rua na aba <strong>Endereços </strong>da página <strong>Minha Conta</strong> após criar a assinatura, o módulo de <strong>Assinaturas V2</strong> detecta a mudança e exibe esse erro. 
-                <p>
-                Para corrigir o erro, é necessário entrar em contato com o cliente e pedir para que revise seus dados na página <strong>Minha Conta</strong>.​
+                Este erro ocorre apenas em lojas que utilizam **Assinaturas V2**. A cada ciclo de assinatura, o app de **Assinaturas V2** faz uma validação extra que verifica se algum dos dados de endereço mudou desde a criação da assinatura. Se os dados de endereço não forem exatamente iguais, ocorre o erro.
+                
+                Exemplo: se o cliente coloca um acento no nome da rua na aba **Endereços **da página **Minha Conta** após criar a assinatura, o módulo de **Assinaturas V2** detecta a mudança e exibe esse erro. 
+                
+                Para corrigir o erro, é necessário entrar em contato com o cliente e pedir para que revise seus dados na página **Minha Conta**.​
             </td>
         </tr>
     </tbody>        
@@ -189,7 +187,7 @@ Erros de pagamento são os que acontecem durante o fluxo de aprovação do pagam
 
 Pedidos com esse tipo de erro podem ser visualizados na aba **Erro de Pagamento**, ilustrada na imagem abaixo.
 
-![errosdepagamento PT](//images.ctfassets.net/alneenqid6w5/1RIw7xmqhpU4eWq0zHEnKG/305350275dedd4e7c7888814db9fab07/errosdepagamento_PT.png)
+![errosdepagamento PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/subscriptions/subscription-guides/como-solucionar-erros-em-pedidos-de-assinaturas_2.png)
 
 Para analisar erros de pagamento, confira o passo a passo a seguir.
 
@@ -197,7 +195,7 @@ Para analisar erros de pagamento, confira o passo a passo a seguir.
 2. Clique na aba **Dashboards**.
 3. Na seção **Pedidos de Assinatura**, clique na aba **Erro de Pagamento**.
 4. Identifique o pedido desejado e clique na ID do pedido, conforme ilustrado na imagem abaixo. Você será redirecionado à página de detalhes do pedido, no módulo de **Todos os pedidos**.
-  ![PT Log Erro de pagamento](//images.ctfassets.net/alneenqid6w5/7697GbtjQbOutzL1sgrpjV/afdaba25349564a26d46149b437aab2a/PT_Log_Erro_de_pagamento.png)
+  ![PT Log Erro de pagamento](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/subscriptions/subscription-guides/como-solucionar-erros-em-pedidos-de-assinaturas_3.png)
 5. Uma vez na página de detalhes do pedido, clique em `Ver detalhes da transação`, no card de **Pagamento**. Você será redirecionado à página de **Transações**, no módulo de **Pagamentos**.
 6. Na página de **Transações**, você poderá visualizar e analisar os eventos de transação do pedido. Leia o artigo [Visualizar detalhes da transação no Pagamentos](https://help.vtex.com/pt/tutorial/como-visualizar-detalhes-do-pedido) para mais informações.
 

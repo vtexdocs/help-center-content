@@ -26,7 +26,7 @@ Para isso faça os seguintes passos :
 1. Para desabilitar o JS da página basta colocar o `/tools.html` no fim da URL. Ex: {AccountName}.myvtex.com/tools.html
 2. Clique em __Disable__ na aba __Client JavaScript is__.
 
-![javascript-disable ](//images.ctfassets.net/alneenqid6w5/2rDNQsznK8umymyKaOoYkA/1c4306998c4d580505dfaffe20ca66fa/js_enabled.png) 
+![javascript-disable ](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Storefront/Layout/como-identificar-erros-de-layout-ocasionados-por-arquivos-javascript_1.png) 
 
 3. Após isso, retire o `/tools.html` da URL e atualize a página.
 

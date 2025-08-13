@@ -35,9 +35,7 @@ Para iniciar a implementação do provedor Tino em sua loja é necessário habil
 
 As instalações dos apps Tino e Tino UI podem ser realizadas em sua loja por meio do VTEX IO CLI ou do Admin VTEX.
 
-<div class="alert alert-warning">
-Antes de iniciar a instalação por qualquer um dos métodos, verifique com a equipe de suporte da Tino os números das versões mais atuais dos aplicativos.
-</div>
+> ⚠️ Antes de iniciar a instalação por qualquer um dos métodos, verifique com a equipe de suporte da Tino os números das versões mais atuais dos aplicativos.
 
 ### Instalação via VTEX IO CLI
 
@@ -49,21 +47,17 @@ Antes de iniciar a instalação por qualquer um dos métodos, verifique com a eq
 
 <blockquote><ui>1. Acesse o Admin VTEX.</ui>
 
-<blockquote><ui>2. Copie e cole no navegador a URL a seguir, substituindo as seguintes informações: <b>SUA_URL_DA_VTEX</b>, pelo endereço do seu ambiente VTEX e <i>{{current-app-version}}</i>, pela a versão atual do aplicativo Tino: <i><b>SUA_URL_DA_VTEX</b>/admin/apps/tinopartnerbr.ppp-tino@{{current-app-version}}/install</i></ui> 
+<blockquote><ui>2. Copie e cole no navegador a URL a seguir, substituindo as seguintes informações: **SUA_URL_DA_VTEX**, pelo endereço do seu ambiente VTEX e *{{current-app-version}}*, pela a versão atual do aplicativo Tino: ***SUA_URL_DA_VTEX**/admin/apps/tinopartnerbr.ppp-tino@{{current-app-version}}/install*</ui> 
 
-<blockquote><div class="alert alert-info">
-Exemplo de URL: https://minhaloja.myvtex.com/admin/apps/tinopartnerbr.ppp-tino@0.0.50/install
-</div></blockquote>
+<blockquote>> ℹ️ Exemplo de URL: https://minhaloja.myvtex.com/admin/apps/tinopartnerbr.ppp-tino@0.0.50/install</blockquote>
 
-<blockquote><ui>3. Clique em <b>Instalar</b> e siga as instruções de instalação do Tino app.</ui>
+<blockquote><ui>3. Clique em **Instalar** e siga as instruções de instalação do Tino app.</ui>
 
-<blockquote><ui>4. Copie e cole no navegador a URL a seguir, substituindo as seguintes informações: <b>SUA_URL_DA_VTEX</b>, pelo endereço do seu ambiente VTEX e <i>{{current-app-version}}</i>, pela a versão atual do aplicativo Tino UI: <i><b>SUA_URL_DA_VTEX</b>/admin/apps/tinopartnerbr.ppp-tino-payments@{{current-app-version}}/install</i></ui> 
+<blockquote><ui>4. Copie e cole no navegador a URL a seguir, substituindo as seguintes informações: **SUA_URL_DA_VTEX**, pelo endereço do seu ambiente VTEX e *{{current-app-version}}*, pela a versão atual do aplicativo Tino UI: ***SUA_URL_DA_VTEX**/admin/apps/tinopartnerbr.ppp-tino-payments@{{current-app-version}}/install*</ui> 
 
-<blockquote><ui><div class="alert alert-info">
-Exemplo de URL: https://minhaloja.myvtex.com/admin/apps/tinopartnerbr.ppp-tino-payments@1.0.9/install
-</div></blockquote>
+<blockquote><ui>> ℹ️ Exemplo de URL: https://minhaloja.myvtex.com/admin/apps/tinopartnerbr.ppp-tino-payments@1.0.9/install</blockquote>
 
-  <blockquote><ui>5. Clique em <b>Instalar</b> e siga as instruções de instalação do Tino Ui app.</ui> 
+  <blockquote><ui>5. Clique em **Instalar** e siga as instruções de instalação do Tino Ui app.</ui> 
 
 ## Configurar Tino app
 
@@ -75,15 +69,11 @@ Após instalar os aplicativos, você precisa realizar a configuração do Tino a
 - __API Key__: chave para o processamento de pagamentos
 - __SDK Api Key__: chave para a operação do fluxo de checkout.
 
-<div class="alert alert-info">
-As informações inseridas não devem conter espaços em branco entre caracteres.
-</div>
+> ℹ️ As informações inseridas não devem conter espaços em branco entre caracteres.
 
-![Tino app_4](//images.ctfassets.net/alneenqid6w5/5UliBe8XJBCddIOiY7a499/1c44b3d5716af79b63635e0b796ed029/Tino_app_4.png)
+![Tino app_4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/payment-settings/configurar-pagamento-com-tino_1.png)
 
-<div class="alert alert-warning">
-  A opção <b>Enable Development Mode</b> deve ser mantida desmarcada. Caso esteja sinalizada, o aplicativo estará operando somente em modo de teste e não será possível processar transações de pagamento com a Tino durante o período.
-</div>
+> ⚠️ A opção **Enable Development Mode** deve ser mantida desmarcada. Caso esteja sinalizada, o aplicativo estará operando somente em modo de teste e não será possível processar transações de pagamento com a Tino durante o período.
 
 ## Configurar pagamento com Tino
 
@@ -109,13 +99,9 @@ As informações inseridas não devem conter espaços em branco entre caracteres
 
 A Tino disponibiliza a opção de coletar dados de navegação e métricas relacionadas a navegação do cliente no checkout, de forma a identificar problemas e melhorar a experiência do usuário. Para isso, é necessário implementar um script de customização do checkout por meio do VTEX IO CLI ou do Admin VTEX.
 
-<div class="alert alert-warning">
-  Caso deseje ativar esta customização, os dados de perfil do cliente (<b>clientProfileData</b>) poderão ser acessados pela Tino.
-</div>    
+> ⚠️ Caso deseje ativar esta customização, os dados de perfil do cliente (**clientProfileData**) poderão ser acessados pela Tino.    
 
-<div class="alert alert-warning">
-Qualquer customização realizada no checkout por meio de um script pode impactar o fluxo de compra do cliente. Caso tenha alguma dificuldade operacional no checkout após configurar o script em sua loja, entre em contato com o suporte da Tino.
-</div>
+> ⚠️ Qualquer customização realizada no checkout por meio de um script pode impactar o fluxo de compra do cliente. Caso tenha alguma dificuldade operacional no checkout após configurar o script em sua loja, entre em contato com o suporte da Tino.
 
 ### Instalando script via Admin VTEX
 
@@ -125,7 +111,7 @@ Qualquer customização realizada no checkout por meio de um script pode impacta
 4. No canto direito da tela, em __Arquivos__, clique sobre a opção __checkout6-custom.js__.
 5. Insira o código JavaScript fornecido pelo suporte da Tino.
 
-![Tino app_5](//images.ctfassets.net/alneenqid6w5/1N5qr5pfavc7CK07deORX5/1ed2be9a5ae86c60ba0e2001f2ac4dbd/Tino_app_5.png)
+![Tino app_5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/payment-settings/configurar-pagamento-com-tino_2.png)
 
 6. Clique em `Salvar`.
 

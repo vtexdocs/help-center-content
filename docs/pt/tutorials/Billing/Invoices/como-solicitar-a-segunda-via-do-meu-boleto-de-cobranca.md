@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 5ZfsNR4ioEsIyu6wkyce0M
 ---
 
-<div class="alert alert-info" role="alert"><strong>ATENÇÃO: Esse procedimento é apenas para clientes faturados no Brasil.</strong></div>
+> ℹ️ **ATENÇÃO: Esse procedimento é apenas para clientes faturados no Brasil.**
 
 No módulo Faturas, é possível consultar todas as notas fiscais emitidas pela VTEX e atualizar seu boleto para pagamento após o vencimento. Caso não consiga acessar a essa área, certifique-se de que você possui o [perfil de acesso financeiro](https://help.vtex.com/pt/tutorial/como-criar-um-perfil-de-acesso-financeiro--717qPtxW3Cy9n5KrReHeVv).
 

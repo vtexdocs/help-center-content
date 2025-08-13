@@ -17,9 +17,7 @@ subcategoryId: oMrzcOMVbBpH0reeMFHFg
 
 The `bridge` dataset includes historical information on Bridge logs. 
 
-<div class="alert alert-warning">
-Currently, the dataset only provides tracking and canceled order log information.
-</div>
+> ⚠️ Currently, the dataset only provides tracking and canceled order log information.
 
 This section includes the following information:
 

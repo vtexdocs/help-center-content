@@ -17,9 +17,7 @@ subcategoryId: 7fTH6bP0C4IaM8qWi0kkQC
 
 During the shopping experience, when the customer enters their location at checkout, the VTEX platform analyzes the [shipping strategies](https://help.vtex.com/en/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3) suitable for the order and displays the available shipping options to the customer.
 
-<div class = "alert alert-info">
-In the window display stage of the shopping flow, when the customer has not yet informed their address, the products displayed belong to the sellers already configured as <a href="https://help.vtex.com/en/tutorial/seller-abrangente--5Qn4O2GpjUIzWTPpvLUfkI">comprehensive sellers</a> or using the <a href="https://help.vtex.com/en/tutorial/configurar-preco-e-disponibilidade-de-skus-por-region--12ne58BmvYsYuGsimmugoc">Region</a> feature. These sellers are able to ship orders to all regions covered by the marketplace operation.
-</div>
+> ℹ️ In the window display stage of the shopping flow, when the customer has not yet informed their address, the products displayed belong to the sellers already configured as [comprehensive sellers](https://help.vtex.com/en/tutorial/seller-abrangente--5Qn4O2GpjUIzWTPpvLUfkI) or using the [Region](https://help.vtex.com/en/tutorial/configurar-preco-e-disponibilidade-de-skus-por-region--12ne58BmvYsYuGsimmugoc) feature. These sellers are able to ship orders to all regions covered by the marketplace operation.
 
 This article presents a general overview of the shipping calculation and is divided into the following sections:
 
@@ -34,26 +32,17 @@ To determine which combination of logistics steps configured by the store is the
 - **Delivery:** The customer receives the order at their address. 
 - **Pickup:** The customer picks up the order from a [pickup point](https://help.vtex.com/en/tutorial/pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R).
 
-<div class = "alert alert-info">
-Both delivery and pickup have the same selection criteria. However, the pickup option has one additional criterion, described further on in this article.
-</div>
+> ℹ️ Both delivery and pickup have the same selection criteria. However, the pickup option has one additional criterion, described further on in this article.
 
 The selection of logistics combinations is made according to the criteria below, applied in the following order:
 
 1. **Logistics route validation:** The logistics route combines the [shipping policy](https://help.vtex.com/en/tutorial/politica-de-envio--tutorials_140), [loading dock](https://help.vtex.com/en/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj) and [warehouse](https://help.vtex.com/en/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb) able to cover the order criteria, including item availability and customer location. The VTEX platform analyzes which logistics routes cover the shipping in this first validation step. The following aspects are taken into account:
 <ul>
-  <li><b>Shipping rate template attributes:</b>i.e., size, weight, ZIP code range and modal. The <a href="https://help.vtex.com/en/tutorial/planilha-de-frete--tutorials_127">shipping rate template</a> is filled out according to the <a href="https://help.vtex.com/en/tutorial/transportadoras-na-vtex--7u9duMD5UQa2QQwukAWMcE">carrier’s</a> service-providing contract. The carrier must fulfill the order per item features and customer location coverage.</li>
-  <li><b>Inventory availability:</b> The stock is the physical location where items are stored, while <a href="https://help.vtex.com/en/tutorial/gerenciar-itens-em-estoque--tutorials_139">inventory</a> is the list of SKUs of available stocks for sale. This criterion confirms the order items are available in a stock, and that the stock has at least one loading dock available.</li>
+  <li>**Shipping rate template attributes:**i.e., size, weight, ZIP code range and modal. The [shipping rate template](https://help.vtex.com/en/tutorial/planilha-de-frete--tutorials_127) is filled out according to the [carrier’s](https://help.vtex.com/en/tutorial/transportadoras-na-vtex--7u9duMD5UQa2QQwukAWMcE) service-providing contract. The carrier must fulfill the order per item features and customer location coverage.</li>
+  <li>**Inventory availability:** The stock is the physical location where items are stored, while [inventory](https://help.vtex.com/en/tutorial/gerenciar-itens-em-estoque--tutorials_139) is the list of SKUs of available stocks for sale. This criterion confirms the order items are available in a stock, and that the stock has at least one loading dock available.</li>
 </ul>
 <br>
-  <div class="alert alert-warning">
-In case of a <a href="https://help.vtex.com/en/tutorial/o-que-e-um-kit--5ov5s3eHM4AqAAgqWwoc28">kit</a> shipment, there are two conditions:
-  <ul>
-    <li>The kit components must have the same <a href="https://help.vtex.com/en/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj">loading dock</a>.</li>
-    <li>The kit components must be available in the <a href="https://help.vtex.com/en/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/2XyUVa0UKMyHTmwqyA5Bx6">inventory</a>.</li>
-  </ul>
-For more information, please see the article <a href="https://help.vtex.com/en/tutorial/como-e-calculado-o-frete-do-kit--frequentlyAskedQuestions_154">How to calculate the kit shipping rate</a>.
-</div>
+  > ⚠️ In case of a [kit](https://help.vtex.com/en/tutorial/o-que-e-um-kit--5ov5s3eHM4AqAAgqWwoc28) shipment, there are two conditions: <ul> <li>The kit components must have the same [loading dock](https://help.vtex.com/en/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj).</li> <li>The kit components must be available in the [inventory](https://help.vtex.com/en/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/2XyUVa0UKMyHTmwqyA5Bx6).</li> </ul> For more information, please see the article [How to calculate the kit shipping rate](https://help.vtex.com/en/tutorial/como-e-calculado-o-frete-do-kit--frequentlyAskedQuestions_154).
 
 2. **Inventory prioritization:** The previously selected logistics routes are organized with the [inventory](https://help.vtex.com/en/tutorial/gerenciar-itens-em-estoque--tutorials_139) as a priority criterion. The lower the order of SKU quantity in stock, the higher the priority of the logistics route selection. So inventories with small item quantities are not blocked out. The logistics routes are listed in order, placing the top priority item in the first place and the lowest priority item in the last place.
 3. **Package grouping:** The VTEX platform calculates how the item orders may be split into packages to estimate the division into packages and [consignments](https://help.vtex.com/en/tutorial/como-funciona-a-remessa--tutorials_118).
@@ -62,12 +51,10 @@ For more information, please see the article <a href="https://help.vtex.com/en/t
   <li>Lowest price</li>
   <li>Shortest time</li>
   <li>Lowest package split</li>
-  <li><a href="https://help.vtex.com/en/tutorial/gerenciar-doca--7K3FultD8I2cuuA6iyGEiW#campos-de-cadastro">Priority loading docks</a></li>
+  <li>[Priority loading docks](https://help.vtex.com/en/tutorial/gerenciar-doca--7K3FultD8I2cuuA6iyGEiW#campos-de-cadastro)</li>
 </ul>
 <br>
-  <div class = "alert alert-info">
-When there is a tie between loading docks, the tiebreak criterion is the <a href="https://help.vtex.com/en/tutorial/gerenciar-doca--7K3FultD8I2cuuA6iyGEiW">overhead</a>, which represents a value in number of days that will determine the most advantageous loading dock for a given shipment. The lower the overhead, the higher the chances for a loading dock to be selected. Please note that the overhead is not considered when calculating the shipping time.
-</div>
+  > ℹ️ When there is a tie between loading docks, the tiebreak criterion is the [overhead](https://help.vtex.com/en/tutorial/gerenciar-doca--7K3FultD8I2cuuA6iyGEiW), which represents a value in number of days that will determine the most advantageous loading dock for a given shipment. The lower the overhead, the higher the chances for a loading dock to be selected. Please note that the overhead is not considered when calculating the shipping time.
 
 5. **Exclusive criterion for the pickup option:** There is an additional step in the selection when analyzing [pickup points](https://help.vtex.com/en/tutorial/pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R). The VTEX platform creates a list of eligible pickup points, using as criterion the shortest distance between the pickup point and the customer's location.
 
@@ -96,9 +83,7 @@ The SLA is calculated using the following fields and parameters:
 
 A shipping time estimate can be obtained using the [Shipping simulator](https://help.vtex.com/en/tutorial/simulador-de-envio--tutorials_144), which considers the VTEX store [shipping strategies](https://help.vtex.com/en/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3).
 
-<div class = "alert alert-info">
-The <a href="https://help.vtex.com/en/tutorial/simulador-de-envio--tutorials_144">Shipping simulator</a> result is only an approximation since the determining factors are only provided at checkout, such as carrier availability at the time of purchase, payment confirmation time and <a href="https://help.vtex.com/en/tutorial/selecao-de-sellers-white-label--3MemNQ4pKkWCpMdzI27AHa">white label sellers' selection</a> result.
-</div>
+> ℹ️ The [Shipping simulator](https://help.vtex.com/en/tutorial/simulador-de-envio--tutorials_144) result is only an approximation since the determining factors are only provided at checkout, such as carrier availability at the time of purchase, payment confirmation time and [white label sellers' selection](https://help.vtex.com/en/tutorial/selecao-de-sellers-white-label--3MemNQ4pKkWCpMdzI27AHa) result.
 
 ## Learn more	
 

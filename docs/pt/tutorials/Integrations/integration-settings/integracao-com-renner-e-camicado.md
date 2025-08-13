@@ -19,9 +19,7 @@ A [Renner](https://www.lojasrenner.com.br/) é uma marca do segmento fashion, e 
 
 Tanto a Renner quanto a Camicado firmaram uma parceria com a VTEX e se tornaram [conectores certificados](https://help.vtex.com/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-a-conector-certificado-parceiro), também chamados de parceiros. Este artigo orienta como configurar a integração com a Renner ou a Camicado.
 
-<div class="alert alert-info">
-Caso seja do seu interesse integrar sua loja VTEX tanto com a Renner quanto com a Camicado, você deverá realizar uma integração para cada um dos parceiros.
-</div>
+> ℹ️ Caso seja do seu interesse integrar sua loja VTEX tanto com a Renner quanto com a Camicado, você deverá realizar uma integração para cada um dos parceiros.
 
 Cada marketplace possui um método de cadastro:
 
@@ -60,9 +58,7 @@ Se você for integrar com os dois parceiros, Renner e Camicado, será necessári
 5. Clique em `Adicionar perfis` e selecione os perfis desejados.  
 6. Clique em `Gerar`.  
 
-<div class="alert alert-danger">
-O <i>secret</i> gerado, também chamado de <i>appToken</i>, só aparece para o usuário esta única vez, não é possível recuperar a informação pelo sistema posteriormente. Portanto, tenha a certeza de guardá-lo em local seguro.
-</div>
+> ❗ O *secret* gerado, também chamado de *appToken*, só aparece para o usuário esta única vez, não é possível recuperar a informação pelo sistema posteriormente. Portanto, tenha a certeza de guardá-lo em local seguro.
 
 ### Criar ID do afiliado
 
@@ -123,8 +119,6 @@ Alguns dos dados a serem enviados são encontrados no seu Admin, são eles:
 
 Uma vez que você tenha reunido esses dados, você deverá enviá-los para o contato informado pela Renner ou pela Camicado, e a integração será concluída pelo parceiro. Vale ressaltar que o processo de _onboarding_ com conectores certificados é responsabilidade dos próprios parceiros.
 
-<div class="alert alert-info">
-A Camicado disponibiliza documentação sobre a integração. Para consultá-la, faça o download do <a href="//assets.ctfassets.net/alneenqid6w5/6ZlzfzebAChZfHotC5TAjW/e31c7ac40a98ff314c6368f009331b9d/Tutorial_de_Aux_lio_ao_parceiro.pdf">Tutorial de Auxílio ao parceiro.pdf</a>.
-</div>  
+> ℹ️ A Camicado disponibiliza documentação sobre a integração. Para consultá-la, faça o download do [Tutorial de Auxílio ao parceiro.pdf](//assets.ctfassets.net/alneenqid6w5/6ZlzfzebAChZfHotC5TAjW/e31c7ac40a98ff314c6368f009331b9d/Tutorial_de_Aux_lio_ao_parceiro.pdf).  
 
 Caso você tenha dúvidas sobre a integração com a Renner, você pode utilizar o [formulário de suporte Renner](https://atendimento.lojasrenner.com.br/hc/pt-br/requests/new?ticket_form_id=360004738294). Se as dúvidas forem relativas à Camicado, entre em contato pelo email _suporte_marketplace@camicado.com.br_.

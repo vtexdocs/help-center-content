@@ -17,7 +17,7 @@ subcategoryId: 2cI57eZ3ZiWSeaQs26Gwys
 
 A lista de audiências de campanhas cadastradas na sua loja está disponível no Admin VTEX, na página *Promoções > Audiências de campanhas*, ilustrada a seguir.
 
-![lista-audiencias-campanha-pt](//images.ctfassets.net/alneenqid6w5/3OyfWyVN0MMA5qpgjxtGyM/5c50543b3dc5698d0362a696b91302d2/lista-audiencias-campanha-pt.png)
+![lista-audiencias-campanha-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promotions-&-taxes/campaign-audiences/lista-de-audiencias-de-campanhas_1.png)
 
 A partir desta página, você pode realizar as seguintes ações:
 
@@ -31,9 +31,7 @@ A partir desta página, você pode realizar as seguintes ações:
 
 Para criar uma Audiência de campanha, em *Promoções > Audiências de campanhas*, você precisa clicar no botão `Nova Audiência de campanha` e seguir os passos descritos no artigo [Criar Audiência de campanha](https://help.vtex.com/pt/tutorial/criar-audiencia-de-campanhas--6cnuDZJzIkIeocewAQQK4K).
 
-<div class="alert alert-warning">
-  <p>Após a criação da audiência de campanha, é preciso associá-la a uma <a href="https://help.vtex.com/pt/tutorial/promocao-de-campanha--1ChYXhK2AQGuS6wAqS8Ume">Promoção de campanha</a> para que ela tenha efeito.</p>
-</div>
+> ⚠️ Após a criação da audiência de campanha, é preciso associá-la a uma [Promoção de campanha](https://help.vtex.com/pt/tutorial/promocao-de-campanha--1ChYXhK2AQGuS6wAqS8Ume) para que ela tenha efeito.
 
 ### Visualizar audiências de campanha
 
@@ -50,7 +48,7 @@ As audiências de campanhas são apresentadas em _cards_ com as seguintes inform
 
 Para visualizar as Audiências de campanhas que estão [arquivadas](#arquivar-audiencia-de-campanha), na opção **Exibir**, clique em **Arquivados**, conforme ilustrado a seguir:
 
-![toggle-audiencias-campanha-arquivadas-pt](//images.ctfassets.net/alneenqid6w5/7CMyMTQVHoWU7h8NMGlmwA/87dca32f5de3ef43c405cad2bda5894b/toggle-audiencias-campanha-arquivadas-pt.png)
+![toggle-audiencias-campanha-arquivadas-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promotions-&-taxes/campaign-audiences/lista-de-audiencias-de-campanhas_2.png)
 
 Para voltar a visualizar as Audiências de campanhas não arquivadas, clique em **Não Arquivados**.
 

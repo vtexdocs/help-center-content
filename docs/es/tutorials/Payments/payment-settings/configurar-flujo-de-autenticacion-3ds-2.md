@@ -17,11 +17,7 @@ subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 
 3D Secure 2.0 (3DS 2) es un flujo de autenticación que aumenta la seguridad en los pagos realizados con tarjetas de crédito y débito, mediante el análisis interno de una gran cantidad de datos presentes en cada transacción.
 
-<div class = "alert alert-warning">
-3DS 2 solo es compatible con algunos conectores en VTEX y debe implementarse a través del <a href="https://developers.vtex.com/docs/guides/payments-integration-payment-app#scenario-2-payment-app-and-3d-secure-2">Payment App</a>. Verifique con su proveedor de pagos si esta funcionalidad está disponible y cuáles son los pasos necesarios para configurarla.
-</div>
+> ⚠️ 3DS 2 solo es compatible con algunos conectores en VTEX y debe implementarse a través del [Payment App](https://developers.vtex.com/docs/guides/payments-integration-payment-app#scenario-2-payment-app-and-3d-secure-2). Verifique con su proveedor de pagos si esta funcionalidad está disponible y cuáles son los pasos necesarios para configurarla.
 
-<div class="alert alert-warning">
-En VTEX, 3DS 2 no permite realizar compras utilizando dos tarjetas. Si se realiza un pedido en estas condiciones, el pago será cancelado.
-</div>
+> ⚠️ En VTEX, 3DS 2 no permite realizar compras utilizando dos tarjetas. Si se realiza un pedido en estas condiciones, el pago será cancelado.
 

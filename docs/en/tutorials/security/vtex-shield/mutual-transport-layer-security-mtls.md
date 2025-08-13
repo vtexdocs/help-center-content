@@ -15,17 +15,7 @@ locale: en
 subcategoryId: jrgbOxKaOW0kdZs7rdgvS
 ---
 
-<div class="alert alert-info">
-  <p>
-    This feature is part of 
-    <a href="https://help.vtex.com/pt/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh" target="_blank">VTEX Shield</a>. 
-    If you're already a VTEX client and would like to adopt VTEX Shield for your business, contact our 
-    <a href="https://help.vtex.com/pt/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ" target="_blank">Commercial Support</a>. 
-    Additional fees may apply. 
-    If you're not a VTEX client yet but are interested in this solution, please complete our 
-    <a href="https://vtex.com/br-pt/contato/" target="_blank">contact form</a>.
-  </p>
-</div>
+> ℹ️  This feature is part of [VTEX Shield](https://help.vtex.com/pt/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh). If you're already a VTEX client and would like to adopt VTEX Shield for your business, contact our [Commercial Support](https://help.vtex.com/pt/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ). Additional fees may apply. If you're not a VTEX client yet but are interested in this solution, please complete our [contact form](https://vtex.com/br-pt/contato/). 
 
 In system integrations, especially when exchanging sensitive information or controlling business operations, it's essential to ensure that both ends of the communication are secure. mTLS is a feature of [VTEX Shield](https://help.vtex.com/pt/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh) that adds an advanced layer of security to integrations between external systems and VTEX.
 
@@ -54,7 +44,7 @@ With mTLS, only trusted systems can communicate with each other. This reinforces
 
 The diagram below represents the mutual authentication flow using mTLS, where client and server validate each other's identity before any data is exchanged:
 
-![mtls-en](//images.ctfassets.net/alneenqid6w5/29oPGzHDD0YSQGFMDmPfQo/295074d85d3532fe0edb18e90558a3d2/screencapture-mermaid-live-view-2025-05-21-20_10_20.png)
+![mtls-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/security/vtex-shield/mutual-transport-layer-security-mtls_1.png)
 
 1. The client initiates a connection to the server.  
 2. The server presents its TLS certificate.  
@@ -105,12 +95,7 @@ Therefore, to use mTLS, the store must meet at least one of the following requir
 
 * Operate in a headless model, where all interactions with VTEX are performed through API-based integrations.
 
-  <div class="alert alert-warning">
-    <p>
-    The use of mTLS doesn't apply to implementations with a native storefront, such as 
-    <a href="https://help.vtex.com/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2">Store Framework</a> or <a href="https://help.vtex.com/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj">Portal CMS Legado</a>.
-    </p>
-  </div>
+  > ⚠️  The use of mTLS doesn't apply to implementations with a native storefront, such as [Store Framework](https://help.vtex.com/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2) or [Portal CMS Legado](https://help.vtex.com/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj). 
 
 * Have one or more API-based integrations with external services (ERP, WMS, external sellers, etc.).
 

@@ -44,9 +44,7 @@ O relatório financeiro é gerado no módulo de **Faturas**, para extrair siga o
 3. Selecione a fatura desejada.
 4. Clique em `Relatório Financeiro`.
 
-<div class = "alert alert-info">
-O relatório financeiro é estático e não sofre alterações após sua geração. Você pode acessá-lo a qualquer momento para conferir a receita.
-</div>
+> ℹ️ O relatório financeiro é estático e não sofre alterações após sua geração. Você pode acessá-lo a qualquer momento para conferir a receita.
 
 ## 3. Analise e manipule o relatório financeiro
 O relatório financeiro está no formato **.csv** e apresenta diversas colunas que detalham cada pedido. Para validar os valores da sua fatura, aplique **filtros nas colunas** do relatório, conforme os critérios abaixo:

@@ -22,9 +22,7 @@ Hay dos formas de modificar un pedido:
 * [Admin VTEX:](#como-cambiar) esta opción se puede utilizar si el status del pedido es `Preparando entrega`.
 * [API de cambio de pedidos:](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/changes) además de cambiar los ítems, se puede crear descuentos y modificar el precio del pedido. El cambio solo se puede realizar si el status del pedido en la API de pedidos es `handling` o `waiting-for-fulfillment`.
 
-<div class="alert alert-warning">
-Tras el cambio, el cliente recibe una notificación por email si la plantilla <code>Change of information</code> (<a href="https://help.vtex.com/es/tutorial/plantillas-de-emails-transaccionales-del-pedido--3g2S2kqBOoSGcCaqMYK2my">plantillas de emails transaccionales referentes al pedido)</a> está activada en el Centro de mensajes. El cliente recibe los mensajes con la información que se ha rellenado en el formulario de cambio de ítems.
-</div>
+> ⚠️ Tras el cambio, el cliente recibe una notificación por email si la plantilla `Change of information` ([plantillas de emails transaccionales referentes al pedido)](https://help.vtex.com/es/tutorial/plantillas-de-emails-transaccionales-del-pedido--3g2S2kqBOoSGcCaqMYK2my) está activada en el Centro de mensajes. El cliente recibe los mensajes con la información que se ha rellenado en el formulario de cambio de ítems.
 
 ## Restricciones
 
@@ -60,10 +58,10 @@ Para realizar cambios en los ítems, sigue los pasos a continuación:
 
 5. Rellena el formulario con los cambios deseados.  
 <ul>
-<li><b>Para agregar nuevos productos</b>, escribe el nombre del SKU en la barra de búsqueda.</li>    
-<li><b>Para cambiar el número de unidades de cada producto</b> ajusta el control, aumentando o disminuyendo.</li>    
-<li><b>Para cambiar el valor</b> selecciona entre las opciones Descuento o Aumento, e introduce el valor actualizado.</li>    
-<li><b>Comenta el motivo de los cambios</b> El comentario ingresado en este campo se registra en el historial de ítems modificados. Recomendamos describir lo que fue comunicado por el cliente que solicitó el cambio.</li>
+<li>**Para agregar nuevos productos**, escribe el nombre del SKU en la barra de búsqueda.</li>    
+<li>**Para cambiar el número de unidades de cada producto** ajusta el control, aumentando o disminuyendo.</li>    
+<li>**Para cambiar el valor** selecciona entre las opciones Descuento o Aumento, e introduce el valor actualizado.</li>    
+<li>**Comenta el motivo de los cambios** El comentario ingresado en este campo se registra en el historial de ítems modificados. Recomendamos describir lo que fue comunicado por el cliente que solicitó el cambio.</li>
   </ul>    
 6. Haga clic en `Solicitar`.  
 
@@ -75,6 +73,4 @@ Al cambiar o eliminar ítems de un pedido, el valor total del pedido cambia. En 
 
 El valor total del pedido se actualizará después de que se inserte la factura, y corresponde al valor liquidado por el gateway de pagos de VTEX. Si el cliente devuelve un ítem, el reembolso se realizará automáticamente a través del sistema de Pagos de VTEX.
 
-<div class = "alert alert-info">
-La funcionalidad de facturas parciales está disponible para toda la base de clientes VTEX, pero la liquidación parcial en el gateway se encuentra en la versión Beta. Además, para que las facturas parciales disparen liquidaciones parciales en la transacció, es necesario utilizar un conector que utilice el <a href="https://help.vtex.com/es/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m">Payment Provider Protocol</a>. Los conectores legados no admiten la funcionalidad.
-</div>
+> ℹ️ La funcionalidad de facturas parciales está disponible para toda la base de clientes VTEX, pero la liquidación parcial en el gateway se encuentra en la versión Beta. Además, para que las facturas parciales disparen liquidaciones parciales en la transacció, es necesario utilizar un conector que utilice el [Payment Provider Protocol](https://help.vtex.com/es/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m). Los conectores legados no admiten la funcionalidad.

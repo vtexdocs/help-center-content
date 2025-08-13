@@ -70,7 +70,7 @@ En esta sección puedes consultar la siguiente información:
 | shipping\_percentual\_tax | numeric(18,0) | Cargo porcentual de envío sobre el valor total de la compra. |
 | percentual\_discount\_value\_list1 | numeric(18,0) | Descuentos válidos para los SKUs de listSku1BuyTogether, que es la lista de descuentos utilizada para las promociones Comprar juntos. |
 | percentual\_discount\_value\_list2 | numeric(18,0) | Equivalente a percentualDiscountValueList1. |
-| skus\_gift | super | Objeto del SKU de regalo. Descuento total sobre el valor del producto definido como regalo. <p>quantitySelectable: cantidad de SKUs de regalo. gifts: arreglo de IDs de los SKUs de regalo.</p>  |
+| skus\_gift | super | Objeto del SKU de regalo. Descuento total sobre el valor del producto definido como regalo. quantitySelectable: cantidad de SKUs de regalo. gifts: arreglo de IDs de los SKUs de regalo.  |
 | nominal\_reward\_value | numeric(18,0) | Valor fijo para el programa de fidelidad. |
 | percentual\_reward\_value | numeric(18,0) | Valor porcentual para el programa de fidelidad. |
 | order\_status\_reward\_value | character varying(256) | Valor de recompensa del status del pedido. |
@@ -180,7 +180,7 @@ En esta sección puedes consultar la siguiente información:
 | shipping\_percentual\_tax | numeric(18,0) | Cargo porcentual de envío sobre el valor total de la compra. |
 | percentual\_discount\_value\_list1 | numeric(18,0) | Descuentos válidos para los SKUs de listSku1BuyTogether, que es la lista de descuentos utilizada para las promociones Comprar juntos. |
 | percentual\_discount\_value\_list2 | numeric(18,0) | Equivalente a percentualDiscountValueList1. |
-| skus\_gift | super | Objeto del SKU de regalo. Descuento total sobre el valor del producto definido como regalo. <p>quantitySelectable: cantidad de SKUs de regalo.</p> <ul>gifts: arreglo de IDs de los SKUs de regalo.</ul>  |
+| skus\_gift | super | Objeto del SKU de regalo. Descuento total sobre el valor del producto definido como regalo. quantitySelectable: cantidad de SKUs de regalo. <ul>gifts: arreglo de IDs de los SKUs de regalo.</ul>  |
 | nominal\_reward\_value | numeric(18,0) | Valor fijo para el programa de recompensas. |
 | percentual\_reward\_value | numeric(18,0) | Valor porcentual para el programa de recompensas. |
 | order\_status\_reward\_value | character varying(256) | Valor de recompensa del status del pedido. |

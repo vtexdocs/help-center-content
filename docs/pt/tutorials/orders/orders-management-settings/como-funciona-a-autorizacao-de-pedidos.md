@@ -17,7 +17,7 @@ subcategoryId: 1qvm3kIrt6KA6IeGc4EQ6k
 
 No Admin VTEX, em **Configurações da loja > Pedidos > Autorização de pedidos**, é possível controlar a aprovação de pedidos com divergência de preços na sua loja.
 
-![print_autorizacao_pedidos_PT](//images.ctfassets.net/alneenqid6w5/3OSC6hxQchdd8SoWYwRI6l/92157acf2f5d379f30136b846e28a37f/print_autorizacao_pedidos_PT.png)
+![print_autorizacao_pedidos_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/orders/orders-management-settings/como-funciona-a-autorizacao-de-pedidos_1.png)
 
 A divergência de preços de pedidos podem ser encontradas em dois principais cenários:
 

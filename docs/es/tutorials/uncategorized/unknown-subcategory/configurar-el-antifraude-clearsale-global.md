@@ -17,9 +17,7 @@ subcategoryId:
 
 ClearSale Global es una solución antifraude, disponible exclusivamente para el mercado internacional. Mediante el análisis del comportamiento de los clientes, la solución identifica las vulnerabilidades y previene posibles fraudes en las transacciones de su tienda.
 
-<div class="alert alert-info">
-Si está en Brasil y quiere usar ClearSale, VTEX ofrece integración con ClearSale V3, exclusiva para clientes brasileños. Acceda al tutorial <a href="https://help.vtex.com/es/tutorial/configurar-antifraude-clearsale-v3--2pPORygesIqQOa6cIG6agg?&utm_source=autocomplete">Configurar antifraude ClearSale v3</a> para realizar la configuración.
-  </div>
+> ℹ️ Si está en Brasil y quiere usar ClearSale, VTEX ofrece integración con ClearSale V3, exclusiva para clientes brasileños. Acceda al tutorial [Configurar antifraude ClearSale v3](https://help.vtex.com/es/tutorial/configurar-antifraude-clearsale-v3--2pPORygesIqQOa6cIG6agg?&utm_source=autocomplete) para realizar la configuración.
 
 Para configurar ClearSale Global, deberá:
 
@@ -35,10 +33,10 @@ Para configurar ClearSale Global, deberá:
 4. En la sección __Antifraudes__, seleccione __ClearSaleGlobal__.
 5. Complete los siguientes campos con las informaciones que ClearSale le ha enviado por email.<br><br>
 <ul>
-  <li><b>Application key e Application token.</li></b>
-  <li><b>Enable Risk Pre-Analysis.</b> (Actualmente solo disponible para México).</li>
-<li><b>API Key.</li></b>
-<li><b>AnalysisLocation.</li></b>
+  <li>**Application key e Application token.</li>**
+  <li>**Enable Risk Pre-Analysis.** (Actualmente solo disponible para México).</li>
+<li>**API Key.</li>**
+<li>**AnalysisLocation.</li>**
  </ul>
   </li>
 </ul>
@@ -64,13 +62,13 @@ Para configurar ClearSale Global, deberá:
     window.vtex.deviceFingerprint = deviceFingerprintIdCSV4;
 </script>
 ```
-  <ui>5. Marcar la opción <b>Soporte para document.write</b>.</ui>
+  <ui>5. Marcar la opción **Soporte para document.write**.</ui>
 <br>  
-  <ui>6. En <b>Dispara En</b>, seleccionar la opción <b>Más</b> y hacer clic en <b>Nuevo</b>.</ui>
+  <ui>6. En **Dispara En**, seleccionar la opción **Más** y hacer clic en **Nuevo**.</ui>
 <br>  
-  <ui>7. Insertar un nombre para este accionador y elegir el evento tipo <b>Evento Personalizado</b>.</ui>
+  <ui>7. Insertar un nombre para este accionador y elegir el evento tipo **Evento Personalizado**.</ui>
 <br>  
-  <ui>8. En <b>Disparar En</b>, establezca el nombre del evento como <b>payment</b>.</ui>
+  <ui>8. En **Disparar En**, establezca el nombre del evento como **payment**.</ui>
 <br>  
   <ui>9. Guardar el accionador.</ui>
 <br>  
@@ -78,7 +76,7 @@ Para configurar ClearSale Global, deberá:
 <br>  
   <ui>11. En la esquina superior derecha, hacer clic en <b>Publicar</br>.</ui>
 
-![Fingerprint ClearSalve_Pantalla](//images.ctfassets.net/alneenqid6w5/1cCBNxfRXCGQr4QxBsPgg6/2f5d30cbf3147be7da09d3f86186dafc/Fingerprint_ClearSalve_Pantalla.png)
+![Fingerprint ClearSalve_Pantalla](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/uncategorized/unknown-subcategory/configurar-el-antifraude-clearsale-global_1.png)
 
 Para más detalles sobre el código introducido en Google Tag Manager, recomendamos leer [esta documentación](https://api.clearsale.com.br/docs/behavior-analytics) de ClearSale.
 

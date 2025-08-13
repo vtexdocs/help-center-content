@@ -42,9 +42,7 @@ Para crear un campo de producto, sigue los pasos a continuación:
 5. Haz clic en __Campo (Producto).__  
 6. Haz clic en __Nuevo campo.__  
 7. Completa la información del campo que estás creando:  
-<div class="alert alert-warning">
-El nombre del campo debe completarse exactamente como uno de los nombres presentados en la tabla de secciones<a href="#campos-personalizables">Campos personalizables</a>.
-</div>  
+> ⚠️ El nombre del campo debe completarse exactamente como uno de los nombres presentados en la tabla de secciones[Campos personalizables](#campos-personalizables).  
 
   __Nombre:__ nombre de la especificación (campo) de producto.  
   __Texto:__ descripción del campo.  

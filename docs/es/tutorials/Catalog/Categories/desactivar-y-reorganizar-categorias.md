@@ -45,9 +45,7 @@ En el árbol de categorías que se muestra en **Catálogo > Categorías** del Ad
 
 ## Editar el árbol de categorias
 
-<div class="alert alert-warning">
-  <p>Mover las categorías directamente a través del árbol de categorías puede generar errores inesperados en tu catálogo. Por lo tanto, te recomendamos seguir las instrucciones a continuación para realizar cualquier cambio en los niveles de las categorías. Consulta el<a href="https://help.vtex.com/es/known-issues/mover-categorias-genera-comportamientos-inesperados-en-el-arbol-de--6JSa9nnYoAAUQO1zPtzfZD"> problema conocido</a> relacionado con este escenario para obtener más información.</p>
-</div>
+> ⚠️ Mover las categorías directamente a través del árbol de categorías puede generar errores inesperados en tu catálogo. Por lo tanto, te recomendamos seguir las instrucciones a continuación para realizar cualquier cambio en los niveles de las categorías. Consulta el[ problema conocido](https://help.vtex.com/es/known-issues/mover-categorias-genera-comportamientos-inesperados-en-el-arbol-de--6JSa9nnYoAAUQO1zPtzfZD) relacionado con este escenario para obtener más información.
 
 Hay escenarios en los que es necesario cambiar el nivel jerárquico de una categoría. Por ejemplo, imagina que una tienda tiene una categoría principal llamada **Accesorios** y una categoría secundaria (subcategoría) llamada **Zapatos**, pero quiere hacer de la subcategoría **Zapatos** una categoría principal independiente.
 

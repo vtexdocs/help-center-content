@@ -25,7 +25,7 @@ La siguiente tabla presenta los límites y formatos aceptados para las imágenes
 | Tamaño mínimo en píxeles | 600 x 600 píxeles |
 | Tamaño máximo en MB | 4 MB |
 | Tamaño mínimo en KB | 300 KB |
-| Extensiones de archivo permitidas | <p><ul><li>JPG</li><li>PNG</li><li>GIF</li><li>ICO</li><li>SVG</li><li>WEBP</li></ul></p> |
+| Extensiones de archivo permitidas | <ul><li>JPG</li><li>PNG</li><li>GIF</li><li>ICO</li><li>SVG</li><li>WEBP</li></ul> |
 
 ## Recomendaciones
 

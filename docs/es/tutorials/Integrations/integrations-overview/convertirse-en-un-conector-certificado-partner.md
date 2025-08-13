@@ -17,9 +17,7 @@ subcategoryId: 6riYYNZCpO8wyksi8Ksgyq
 
 El ecosistema VTEX ofrece numerosas oportunidades de crecimiento. Con la intención de ampliar su red de colaboración, VTEX ha desarrollado un plan comercial para _marketplaces_ externos que quieran convertirse en _partners_. 
 
-<div class="alert alert-info">
-Al formar parte de este plan comercial, el <i/>marketplace</i> obtiene una certificación y se convierte en un conector certificado. Sepa más en <a href="https://vtex.com/ar-es/partner/">plan comercial</a>.
-</div>
+> ℹ️ Al formar parte de este plan comercial, el <i/>marketplace</i> obtiene una certificación y se convierte en un conector certificado. Sepa más en [plan comercial](https://vtex.com/ar-es/partner/).
 
 Además de proporcionar un conjunto de API e instrucciones para facilitar el proceso de integración con _partners_, uno de nuestros equipos también hace un seguimiento del desarrollo y la homologación del conector. Es decir, VTEX verifica si las funcionalidades se están utilizando adecuadamente para que la integración se produzca correctamente.
 

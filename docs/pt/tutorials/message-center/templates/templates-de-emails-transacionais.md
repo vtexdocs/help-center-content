@@ -17,9 +17,7 @@ subcategoryId: 4D5LrWwlHGmOWMomOaaGee
 
 O objetivo deste artigo é listar os templates de emails transacionais padrão referentes ao fluxo de um pedido. Além disso, vamos especificar o gatilho necessário para o disparo de cada email.
 
-<div class="alert alert-warning">
-Atenção: pedidos de origem Fulfillment não recebem emails transacionais da VTEX. Ou seja, neste caso, o disparo de emails fica a cargo do próprio marketplace.
-</div>
+> ⚠️ Atenção: pedidos de origem Fulfillment não recebem emails transacionais da VTEX. Ou seja, neste caso, o disparo de emails fica a cargo do próprio marketplace.
 
 Para acessar os templates, siga os passos abaixo.
 

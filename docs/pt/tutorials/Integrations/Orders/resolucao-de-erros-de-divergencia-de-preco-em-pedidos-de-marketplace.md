@@ -23,9 +23,7 @@ Quando o preço definido por um seller é diferente do preço oferecido pelo mar
 
 Para aderir ao fluxo de Autorização de pedidos, você precisa [configurar uma regra de Divergência de valores](https://help.vtex.com/pt/tutorial/configuracao-da-regra-de-divergencia-de-valores--awAKP0sS5J8jgLs2g7pPe). Somente usuários com [perfil de acesso](https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) Admin Super (_Owner_) ou OMS Full podem fazer isso.
 
-<div class = "alert alert-info">
-Uma vez que você <a href="https://help.vtex.com/pt/tutorial/configuracao-da-regra-de-divergencia-de-valores--awAKP0sS5J8jgLs2g7pPe">configure a regra de Divergência de valores</a>, ela passa a valer para todos os marketplaces nos quais você seja um seller.
-</div>
+> ℹ️ Uma vez que você [configure a regra de Divergência de valores](https://help.vtex.com/pt/tutorial/configuracao-da-regra-de-divergencia-de-valores--awAKP0sS5J8jgLs2g7pPe), ela passa a valer para todos os marketplaces nos quais você seja um seller.
 
 Para marketplaces VTEX, marketplaces externos e conectores certificados (parceiros), enquanto a regra de Divergência de valores não for criada, pedidos com erro de divergência de preço são aprovados automaticamente.
 

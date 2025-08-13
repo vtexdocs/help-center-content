@@ -38,9 +38,7 @@ Para saber a ordenação das políticas comerciais, siga os passos abaixo:
 1. Em seu Admin VTEX, acesse **Configurações da loja > Canais > Políticas Comerciais**.
 2. Na coluna __Posição__, você verá a ordenação das suas políticas comerciais. A posição 1 exibe a política comercial de maior prioridade.
 
-<div class="alert alert-danger">
-Recomendamos não alterar a posição da política comercial de <strong>ID 1</strong>.
-</div>
+> ❗ Recomendamos não alterar a posição da política comercial de **ID 1**.
 
 ### Exemplos
 

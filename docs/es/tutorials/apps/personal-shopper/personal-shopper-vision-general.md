@@ -17,14 +17,12 @@ subcategoryId: 2vuGumwWQ432unGlyOOXXc
 
 **Personal Shopper** es una aplicación que permite a las empresas organizar sesiones de compras en vivo en la tienda, facilitando la interacción en tiempo real con los clientes. Durante estas sesiones el personal shopper puede mostrar productos, responder preguntas y agregar productos al carrito del cliente. Esta experiencia interactiva de compra está diseñada para aumentar las ventas, generar engagement con los clientes y crear lealtad a la marca.
 
-<div class="alert alert-warning">
-  La aplicación Personal Shopper está diseñada para sellers que desean mostrar nuevas colecciones a clientes de alto valor o a clientes B2B. Estas sesiones en vivo tienen como objetivo proporcionar una experiencia de compra más personalizada que la que ofrece <a href="https://help.vtex.com/es/tutorial/live-shopping--1cYWPIbjNMyr072sksHSVL">Live Shopping</a>.
-</div>
+> ⚠️ La aplicación Personal Shopper está diseñada para sellers que desean mostrar nuevas colecciones a clientes de alto valor o a clientes B2B. Estas sesiones en vivo tienen como objetivo proporcionar una experiencia de compra más personalizada que la que ofrece [Live Shopping](https://help.vtex.com/es/tutorial/live-shopping--1cYWPIbjNMyr072sksHSVL).
 
 La aplicación Personal Shopper es compatible con dispositivos de escritorio y móviles.
 aplicación Personal Shopper es compatible con dispositivos de escritorio y móviles.
 
-| ![mobile-personalshopper](//images.ctfassets.net/alneenqid6w5/659plpOKWVAsoYBF2Y9qzU/d8dfccb9a3a424016080ff5b97ec16dc/mobile-personalshopper.gif)     | ![desktop-personalshopper](//images.ctfassets.net/alneenqid6w5/3ys3xj5bTjqXNjJvBjd0UY/7151913d24fe0becf3d8550e06aa7134/desktop-personalshopper.gif)     |
+| ![mobile-personalshopper](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/apps/personal-shopper/personal-shopper-vision-general_1.gif)     | ![desktop-personalshopper](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/apps/personal-shopper/personal-shopper-vision-general_2.gif)     |
 | ---------- | ---------- |
 | Personal Shopper móvil       | Personal Shopper computadora       |
 
@@ -53,9 +51,7 @@ Personal Shopper es una aplicación paga con diferentes planes de suscripción: 
 
 Para realizar un seguimiento del uso de tu plan en la aplicación Personal Shopper, ve a **Apps > Personal Shopper > Configuración**. En la pestaña `Gestión de Personal Shopper` encontrarás la sección **Plan**, donde podrás ver los detalles de uso de tu plan. Esta sección proporciona información sobre tu suscripción y uso, ayudándote a monitorear y administrar tu plan de forma eficaz.
 
-<div class="alert alert-info">
-  Para más información sobre planes y precios, consulta la página <a href="https://vtex.com/mx-es/vtex-personal-shopper/">Personal Shopper</a>.
-</div>
+> ℹ️ Para más información sobre planes y precios, consulta la página [Personal Shopper](https://vtex.com/mx-es/vtex-personal-shopper/).
 
 Una vez instalada [la aplicación Personal Shopper](https://developers.vtex.com/docs/apps/vtexventures.personal-shopper-free#installation), accede al Admin y ve a **Apps**. En la sección **Personal Shopper** encontrarás las siguientes páginas:
 
@@ -188,7 +184,7 @@ Si estás registrado como personal shopper puedes crear videollamadas con tus cl
 5.	Haz clic en `Crear videollamada`.
 6.	Selecciona `Iniciar videollamada instantánea` para comenzar la sesión con el cliente o `Crea una videollamada para más tarde` para programarla.
 
-![calls-personalshopper](//images.ctfassets.net/alneenqid6w5/658cSBSuqjclyInHrVfhyj/31d638c771d155110f2ab3a5b83c4c71/image.png)
+![calls-personalshopper](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/apps/personal-shopper/personal-shopper-vision-general_3.png)
 
 Si eliges iniciar una videollamada instantánea, haz clic en `Iniciar videollamada` para comenzar la sesión. Esto te permite interactuar con el cliente en tiempo real y ofrecer asistencia personalizada. Para conocer detalles más técnicos sobre funcionalidades de la videollamada, consulta la sección [Realización de videollamada](https://help.vtex.com/es/tutorial/visao-geral-do-personal-shopper--12dC0UMD0C6x6kw43LF8MH#realizacion-de-la-videollamada). En este caso, asegúrate de conceder al navegador los permisos necesarios para el acceso al micrófono y a la cámara y así evitar problemas durante la videollamada.
 
@@ -222,7 +218,7 @@ Asegúrate de conceder al navegador los permisos necesarios para el acceso al mi
 
 Al participar en una videollamada como personal shopper tendrás acceso a varias herramientas, según se presentan a continuación:
 
-![call-personalshopper](//images.ctfassets.net/alneenqid6w5/7DVKh1VnYT7WIrF5D5iYQ4/a3294275dd17930a0af26f486ec0986f/image.png)
+![call-personalshopper](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/apps/personal-shopper/personal-shopper-vision-general_4.png)
 
 * **I - Micrófono:** permite a los participantes controlar su audio silenciándose o reactivando el sonido.
 * **II - Cámara:** permite a los participantes encender o apagar su cámara durante la videollamada.

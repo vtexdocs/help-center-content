@@ -17,9 +17,7 @@ subcategoryId: 1hoOi2R0Rm6ky0yCwOUoiy
 
 Um anexo é a customização, opcional e sem custo, de um produto. Ele é utilizado para adicionar uma informação a um SKU. Essa informação pode ser relacionada a um [serviço](/pt/tutorial/o-que-e-um-servico) ou ao próprio item comprado.
 
-<div class = "alert alert-warning">
-A VTEX não controla o estoque de um anexo. Sendo essa a função do marketplace ou do seller. 
-</div>
+> ⚠️ A VTEX não controla o estoque de um anexo. Sendo essa a função do marketplace ou do seller.
 
 Se o seu item comprado for uma Camisa da Seleção Brasileira, o nome do seu Anexo pode ser __Personalização__, e suas chaves:
 

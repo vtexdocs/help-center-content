@@ -18,14 +18,14 @@ subcategoryId: 1znnjA17XqaUNdNFr42PW5
 En la sección **Páginas** puedes encontrar todas las rutas de URL y las correspondientes plantillas de página del sitio web de tu tienda, como las páginas de inicio, de productos y de inicio de sesión. También puedes crear y asociar páginas personalizadas a plantillas predefinidas y gestionar páginas creadas directamente en el código fuente de tu proyecto de storefront. 
 
 <div style="background-color:#cfe2ff; border-left: 2px solid #084298; border-top-left-radius: 2px; border-bottom-left-radius: 2px; margin-bottom: 10px; padding: 15px">
-   Si quieres crear páginas totalmente personalizadas, ponte en contacto con tu partner desarrollador y consulta nuestra <a href="https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-4-configuringtemplates">Documentación sobre la configuración de plantillas</a> para obtener más información.
+   Si quieres crear páginas totalmente personalizadas, ponte en contacto con tu partner desarrollador y consulta nuestra [Documentación sobre la configuración de plantillas](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-4-configuringtemplates) para obtener más información.
 </div>
 
 En Páginas, también puedes crear redirecciones de URL para redirigir a los visitantes del sitio web y a los motores de búsqueda de una URL a otra. Las redirecciones son útiles cuando se necesita mover el contenido a una nueva URL y eliminar una antigua página de producto.
 
 En el Admin VTEX, accede **Storefront > Páginas** y descubre las principales herramientas disponibles en la interfaz.
 
-![Páginas UI - ES](//images.ctfassets.net/alneenqid6w5/p6829cewqlsLC0XfCnHsC/dc75d5dcbe1d3ff9d02d710718961fba/pages-ui-es.png)
+![Páginas UI - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Storefront/Pages/paginas-vision-general_1.png)
 
 | **Herramienta** | **Descripción** |
 | ---------- | ---------- |

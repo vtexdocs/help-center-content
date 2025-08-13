@@ -21,7 +21,5 @@ La actualización de precios en los marketplaces depende de dos factores:
 - [Indexación del producto](https://help.vtex.com/es/tutorial/understanding-how-indexation-works--tutorials_256) después del registro del nuevo precio. 
 - Para que se aplique un precio fijo programado en el marketplace, se debe realizar un cambio de precio en la lista de precios correspondiente. Este cambio actúa como un desencadenante para notificar al marketplace sobre la nueva tarifa.
 
-<div class="alert alert-warning">
-  <p>Solo los <a href="https://help.vtex.com/es/tracks/precios-101--6f8pwCns3PJHqMvQSugNfP/3g39iXkQza4AW7C7L814mj">precios fijos</a> se utilizan en nuestras integraciones nativas con marketplaces. Los otros escenarios previstos en la <a href="https://help.vtex.com/es/tracks/precios-101--6f8pwCns3PJHqMvQSugNfP/7GptzvlPDVM11ojEjywIQx">arquitectura del sistema de precios</a> solo están disponibles para marketplaces VTEX-VTEX.</p>
-</div>
+> ⚠️ Solo los [precios fijos](https://help.vtex.com/es/tracks/precios-101--6f8pwCns3PJHqMvQSugNfP/3g39iXkQza4AW7C7L814mj) se utilizan en nuestras integraciones nativas con marketplaces. Los otros escenarios previstos en la [arquitectura del sistema de precios](https://help.vtex.com/es/tracks/precios-101--6f8pwCns3PJHqMvQSugNfP/7GptzvlPDVM11ojEjywIQx) solo están disponibles para marketplaces VTEX-VTEX.
 

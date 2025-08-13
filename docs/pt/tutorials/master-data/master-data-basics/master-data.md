@@ -21,17 +21,13 @@ Por padrão, o Master Data é usado para armazenar e organizar dados de clientes
 
 Neste artigo você saberá mais detalhes sobre cada versão disponível do Master Data, conceitos importantes e como utilizar.
 
-<div class = "alert alert-info">
-Note que a depender da funcionalidade e versão que deseja utilizar, você deverá entrar em contato com o time de desenvolvimento da sua operação.
-</div>
+> ℹ️ Note que a depender da funcionalidade e versão que deseja utilizar, você deverá entrar em contato com o time de desenvolvimento da sua operação.
 
 ## Versões disponíveis
 
 Atualmente existem duas versões disponíveis e você pode escolher aquela que melhor se adequa às necessidades da sua operação. A principal diferença entre as duas é que a v2 não possui interface gráfica, podendo ser utilizada apenas por meio da [API do Master Data v2](https://developers.vtex.com/docs/api-reference/master-data-api-v2), ainda que possua outras funcionalidades relevantes, como o uso de [JSON schemas](https://developers.vtex.com/docs/guides/starting-to-work-on-master-data-with-json-schema).
 
-<div class = "alert alert-info">
-A VTEX automaticamente salva dados de clientes da sua loja no Master Data v1.
-</div>
+> ℹ️ A VTEX automaticamente salva dados de clientes da sua loja no Master Data v1.
 
 Confira a tabela abaixo para saber mais sobre as funcionalidades de cada versão versões se diferem.
 
@@ -39,10 +35,10 @@ Confira a tabela abaixo para saber mais sobre as funcionalidades de cada versão
    <table class="w-100 center mv7 bb b--gray" style="border-spacing: 0px; border-collapse: collapse;">
       <thead class="bb b--muted-3 tl">
          <tr>
-            <th class="t-body fw5 pa5" style="min-width: 10rem;"><b>Funcionalidade</b></th>
-            <th class="t-body fw5 pa5" style="min-width: 10rem;"><b>v1</b></th>
-            <th class="t-body fw5 pa5" style="min-width: 10rem;"><b>v2</b></th>
-            <th class="t-body fw5 pa5" style="min-width: 10rem;"><b>Saiba mais</b></th>
+            <th class="t-body fw5 pa5" style="min-width: 10rem;">**Funcionalidade**</th>
+            <th class="t-body fw5 pa5" style="min-width: 10rem;">**v1**</th>
+            <th class="t-body fw5 pa5" style="min-width: 10rem;">**v2**</th>
+            <th class="t-body fw5 pa5" style="min-width: 10rem;">**Saiba mais**</th>
          </tr>
       </thead>
       <tbody>
@@ -58,12 +54,8 @@ Confira a tabela abaixo para saber mais sobre as funcionalidades de cada versão
             <td class="t-body pa5" style="min-width: 10rem;">Sim</td>
             <td class="t-body pa5" style="min-width: 10rem;">
                <ul style="padding-inline-start: 0px;">
-                  <li><a href="https://developers.vtex.com/docs/api-reference/masterdata-api"
-                        class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word"
-                        target="_blank" rel="noopener noreferrer">Master Data API v1</a></li>
-                  <li><a href="https://developers.vtex.com/docs/api-reference/master-data-api-v2#overview"
-                        class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word"
-                        target="_blank" rel="noopener noreferrer">Master Data API v2</a></li>
+                  <li>[Master Data API v1](https://developers.vtex.com/docs/api-reference/masterdata-api)</li>
+                  <li>[Master Data API v2](https://developers.vtex.com/docs/api-reference/master-data-api-v2#overview)</li>
                </ul>
             </td>
          </tr>
@@ -73,12 +65,8 @@ Confira a tabela abaixo para saber mais sobre as funcionalidades de cada versão
             <td class="t-body pa5" style="min-width: 10rem;">Não</td>
             <td class="t-body pa5" style="min-width: 10rem;">
                <ul style="padding-inline-start: 0px;">
-                  <li><a href="https://help.vtex.com/pt/tutorial/importando-dados-no-master-data--tutorials_1135"
-                        class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word"
-                        target="_blank" rel="noopener noreferrer">Importar dados para o Master Data v1</a></li>
-                  <li><a href="https://help.vtex.com/pt/tutorial/exportando-dados--tutorials_1125"
-                        class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word"
-                        target="_blank" rel="noopener noreferrer">Exportar dados do Master Data v1</a></li>
+                  <li>[Importar dados para o Master Data v1](https://help.vtex.com/pt/tutorial/importando-dados-no-master-data--tutorials_1135)</li>
+                  <li>[Exportar dados do Master Data v1](https://help.vtex.com/pt/tutorial/exportando-dados--tutorials_1125)</li>
                </ul>
             </td>
          </tr>
@@ -94,15 +82,9 @@ Confira a tabela abaixo para saber mais sobre as funcionalidades de cada versão
             <td class="t-body pa5" style="min-width: 10rem;">Sim</td>
             <td class="t-body pa5" style="min-width: 10rem;">
                <ul style="padding-inline-start: 0px;">
-                  <li><a href="#triggers"
-                        class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word"
-                        target="_blank" rel="noopener noreferrer">Triggers</a></li>
-                  <li><a href="https://help.vtex.com/en/tutorial/creating-trigger-in-master-data--tutorials_1270#"
-                        class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word"
-                        target="_blank" rel="noopener noreferrer">Criando triggers com Master Data v1</a></li>
-                  <li><a href="https://developers.vtex.com/docs/guides/setting-up-triggers-in-master-data-v2"
-                        class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word"
-                        target="_blank" rel="noopener noreferrer">Criando triggers com Master Data v2</a></li>
+                  <li>[Triggers](#triggers)</li>
+                  <li>[Criando triggers com Master Data v1](https://help.vtex.com/en/tutorial/creating-trigger-in-master-data--tutorials_1270#)</li>
+                  <li>[Criando triggers com Master Data v2](https://developers.vtex.com/docs/guides/setting-up-triggers-in-master-data-v2)</li>
                </ul>
             </td>
          </tr>
@@ -112,19 +94,13 @@ Confira a tabela abaixo para saber mais sobre as funcionalidades de cada versão
             <td class="t-body pa5" style="min-width: 10rem;">Sim</td>
             <td class="t-body pa5" style="min-width: 10rem;">
                <ul style="padding-inline-start: 0px;">
-                  <li><a href="http://json-schema.org/"
-                        class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word"
-                        target="_blank" rel="noopener noreferrer">JSON Schemas</a></li>
-                  <li><a href="https://json-schema.org/understanding-json-schema"
-                        class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word"
-                        target="_blank" rel="noopener noreferrer">Entendendo JSON schemas</a></li>
+                  <li>[JSON Schemas](http://json-schema.org/)</li>
+                  <li>[Entendendo JSON schemas](https://json-schema.org/understanding-json-schema)</li>
                   <li><a href="https://developers.vtex.com/docs/guides/starting-to-work-on-master-data-with-json-schema"
                         class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word"
                         target="_blank" rel="noopener noreferrer">Começando a trabalhar com JSON schemas no Master Data
                         v2</a></li>
-                  <li><a href="https://developers.vtex.com/docs/guides/master-data-schema-lifecycle"
-                        class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word"
-                        target="_blank" rel="noopener noreferrer">Ciclo de vida do schema no Master Data v2</a></li>
+                  <li>[Ciclo de vida do schema no Master Data v2](https://developers.vtex.com/docs/guides/master-data-schema-lifecycle)</li>
                </ul>
             </td>
          </tr>
@@ -134,9 +110,7 @@ Confira a tabela abaixo para saber mais sobre as funcionalidades de cada versão
             <td class="t-body pa5" style="min-width: 10rem;">Sim</td>
             <td class="t-body pa5" style="min-width: 10rem;">
                <ul style="padding-inline-start: 0px;">
-                  <li><a href="#propriedades-aninhadas"
-                        class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word"
-                        target="_blank" rel="noopener noreferrer">Propriedades aninhadas</a></li>
+                  <li>[Propriedades aninhadas](#propriedades-aninhadas)</li>
                </ul>
             </td>
          </tr>
@@ -148,12 +122,8 @@ Confira a tabela abaixo para saber mais sobre as funcionalidades de cada versão
             <td class="t-body pa5" style="min-width: 10rem;">Referenciadas por seus nomes. Por exemplo, 'Notification'. Só podem ser criadas por API.</td>
             <td class="t-body pa5" style="min-width: 10rem;">
                <ul style="padding-inline-start: 0px;">
-                  <li><a href="#entidades-de-dados"
-                        class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word"
-                        target="_blank" rel="noopener noreferrer">Entidades de dados</a></li>
-                  <li><a href="https://help.vtex.com/pt/tutorial/criando-entidade-de-dados--tutorials_1265"
-                        class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word"
-                        target="_blank" rel="noopener noreferrer">Entidades de dados no Master Data v1</a></li>
+                  <li>[Entidades de dados](#entidades-de-dados)</li>
+                  <li>[Entidades de dados no Master Data v1](https://help.vtex.com/pt/tutorial/criando-entidade-de-dados--tutorials_1265)</li>
                   <li><a href="https://developers.vtex.com/docs/guides/creating-relationships-between-data-entities-using-api"
                         class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word"
                         target="_blank" rel="noopener noreferrer">Criando relações entre entidades de dados do Master
@@ -168,12 +138,8 @@ Confira a tabela abaixo para saber mais sobre as funcionalidades de cada versão
             <td class="t-body pa5" style="min-width: 10rem;">A princípio, não há restrição de campos e formatos. A validação do formato acontece por meio de JSON schemas.</td>
             <td class="t-body pa5" style="min-width: 10rem;">
                <ul style="padding-inline-start: 0px;">
-                  <li><a href="https://help.vtex.com/pt/tutorial/criando-entidade-de-dados--tutorials_1265#entendendo-os-tipos"
-                        class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word"
-                        target="_blank" rel="noopener noreferrer">Tipos de campos no Master Data v1</a></li>
-                  <li><a href="#v2-schemas"
-                        class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word"
-                        target="_blank" rel="noopener noreferrer">JSON schemas</a></li>
+                  <li>[Tipos de campos no Master Data v1](https://help.vtex.com/pt/tutorial/criando-entidade-de-dados--tutorials_1265#entendendo-os-tipos)</li>
+                  <li>[JSON schemas](#v2-schemas)</li>
                </ul>
             </td>
          </tr>
@@ -183,12 +149,8 @@ Confira a tabela abaixo para saber mais sobre as funcionalidades de cada versão
             <td class="t-body pa5" style="min-width: 10rem;">Sim</td>
             <td class="t-body pa5" style="min-width: 10rem;">
                <ul style="padding-inline-start: 0px;">
-                  <li><a href="https://help.vtex.com/pt/tutorial/setting-up-an-index-on-master-data--tutorials_785"
-                        class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word"
-                        target="_blank" rel="noopener noreferrer">Configurar índices no Master Data v1</a></li>
-                  <li><a href="https://developers.vtex.com/docs/api-reference/master-data-api-v2#put-/api/dataentities/-dataEntityName-/indices"
-                        class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word"
-                        target="_blank" rel="noopener noreferrer">Configurar índices com a API do Master Data v2</a>
+                  <li>[Configurar índices no Master Data v1](https://help.vtex.com/pt/tutorial/setting-up-an-index-on-master-data--tutorials_785)</li>
+                  <li>[Configurar índices com a API do Master Data v2](https://developers.vtex.com/docs/api-reference/master-data-api-v2#put-/api/dataentities/-dataEntityName-/indices)
                   </li>
                </ul>
             </td>
@@ -197,9 +159,7 @@ Confira a tabela abaixo para saber mais sobre as funcionalidades de cada versão
    </table>
 </div>
 
-<div class="alert alert-danger">
-Note que as entidades de dados das duas versões são independentes, mesmo que algumas possam ser análogas. Isso significa que um dado criado em uma entidade da v1 não pode ser consultado nem editado usando recursos da v2 e vice versa.
-</div>
+> ❗ Note que as entidades de dados das duas versões são independentes, mesmo que algumas possam ser análogas. Isso significa que um dado criado em uma entidade da v1 não pode ser consultado nem editado usando recursos da v2 e vice versa.
 
 ## Componentes básicos
 
@@ -247,9 +207,7 @@ Como mencionado acima, cada documento tem um ID gerado automaticamente pela plat
 
 Por exemplo, é possível consultar um documento com informações de um cliente especificando o valor do campo `email` referente ao cliente.
 
-<div class = "alert alert-info">
-Saiba mais sobre como <a href=https://help.vtex.com/pt/tutorial/setting-up-an-index-on-master-data--tutorials_785>configurar índices no Master Data v1</a> ou <a href=https://developers.vtex.com/vtex-rest-api/reference/putindices>configurar índices com a API do Master Data v2</a>.
-</div>
+> ℹ️ Saiba mais sobre como <a href=https://help.vtex.com/pt/tutorial/setting-up-an-index-on-master-data--tutorials_785>configurar índices no Master Data v1</a> ou <a href=https://developers.vtex.com/vtex-rest-api/reference/putindices>configurar índices com a API do Master Data v2</a>.
 
 ## Triggers
 
@@ -264,17 +222,13 @@ Saiba mais sobre como [configurar triggers no Master Data v1](https://help.vtex.
 
 Com a v2 do Master Data, você pode definir formatos de dados com JSON schemas. Este formato indica como o Master Data deve validar e indexar documentos.
 
-<div class = "alert alert-info">
-  Saiba mais sobre <a href=https://json-schema.org/>JSON schemas</a>.
-</div>
+> ℹ️ Saiba mais sobre <a href=https://json-schema.org/>JSON schemas</a>.
 
 Você pode salvar um documento em qualquer entidade de dados se o conteúdo for um JSON válido. Uma entidade de dados pode ou não ter múltiplos JSON schemas associados.
 
-![Master Data schemas](//images.ctfassets.net/alneenqid6w5/CaidhUAHIxcwas8eWLQZu/908c8b04ea9e32271a494eeb0f2f7a56/schemas_pt.jpg)
+![Master Data schemas](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/master-data/master-data-basics/master-data_1.jpg)
 
-<div class = "alert alert-info">
-Um documento pode ser compatível com múltiplos JSON Schemas, mas também com nenhum.
-</div>
+> ℹ️ Um documento pode ser compatível com múltiplos JSON Schemas, mas também com nenhum.
 
 ## Casos de uso
 

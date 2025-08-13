@@ -27,29 +27,27 @@ Da mesma forma, certifique-se que os subadquirentes [MercadoPagoV1](https://help
 
 Para configurar o Mercado Pago Offline, siga as instruções abaixo:
 <ol>
-  <li>Acesse o <b>Admin</b> VTEX.</li>
+  <li>Acesse o **Admin** VTEX.</li>
   <br>
-  <li>Clique em <b>Pagamentos</b>.</li>
+  <li>Clique em **Pagamentos**.</li>
   <br>
-  <li>Em seguida, clique em <b>Configurações</b>.</li>
+  <li>Em seguida, clique em **Configurações**.</li>
   <br>
-  <li>Na aba Condições de pagamento, clique no botão <b>+</b>.</li>
+  <li>Na aba Condições de pagamento, clique no botão **+**.</li>
   <br>
-  <li>Busque e clique em <b>MercadoPagoOff</b>.</li>
+  <li>Busque e clique em **MercadoPagoOff**.</li>
   <br>
-  <li>No topo da página, preencha o campo <b>Nome da Regra</b> com um nome de sua preferência para identificação.</li>
+  <li>No topo da página, preencha o campo **Nome da Regra** com um nome de sua preferência para identificação.</li>
   <br>
-  <li>Logo abaixo, clique no botão <b>Status</b> para ativar a regra.</li>
+  <li>Logo abaixo, clique no botão **Status** para ativar a regra.</li>
 <br>
-<div class="alert alert-info">
-  Não é necessário selecionar o campo <strong>Processar com afiliação</strong>, pois o subadquirente MercadoPagoV2 já vem configurado como afiliação padrão para o MercadoPagoOff.
-</div>
+> ℹ️ Não é necessário selecionar o campo **Processar com afiliação**, pois o subadquirente MercadoPagoV2 já vem configurado como afiliação padrão para o MercadoPagoOff.
 <br>
-  <li>Se optar por utilizar o antifraude, habilite a opção <b>Usar Antifraude</b> e escolha uma das opções de antifraude disponíveis.</li>
+  <li>Se optar por utilizar o antifraude, habilite a opção **Usar Antifraude** e escolha uma das opções de antifraude disponíveis.</li>
   <br>
-  <li>Se desejar, você também pode configurar <a href="https://help.vtex.com/pt/tutorial/condicoes-especiais">condições especiais de pagamento</a>.</li>
+  <li>Se desejar, você também pode configurar [condições especiais de pagamento](https://help.vtex.com/pt/tutorial/condicoes-especiais).</li>
   <br>
-  <li>Clique em <b>Salvar</b>.</li>
+  <li>Clique em **Salvar**.</li>
 </ol>
 Assim que todas as configurações forem concluídas, aguarde até 10 minutos para que as soluções sejam exibidas no checkout.
 

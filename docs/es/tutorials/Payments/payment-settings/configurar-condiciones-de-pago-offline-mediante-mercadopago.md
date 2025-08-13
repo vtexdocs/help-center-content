@@ -15,9 +15,7 @@ locale: es
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-<div class="alert alert-warning">
-Este artículo se ocupa de las configuraciones aplicables en las tiendas que actúan en los siguientes países de América Latina: <strong>Argentina</strong>, <strong>Chile</strong>, <strong>Colombia</strong>, <strong>México</strong>, <strong>Perú</strong>, <strong>Uruguay</strong> y <strong>Venezuela</strong>.
-</div>
+> ⚠️ Este artículo se ocupa de las configuraciones aplicables en las tiendas que actúan en los siguientes países de América Latina: **Argentina**, **Chile**, **Colombia**, **México**, **Perú**, **Uruguay** y **Venezuela**.
 
 Usted puede utilizar el Mercado Pago para ofrecer condiciones de pago offline en su tienda. Para ello, primero usted debe registrar la afiliación de gateway [MercadoPagoV1](/es/tutorial/configurar-el-subadquirente-mercadopagov1).
 

@@ -69,5 +69,5 @@ A continuación, vea el significado de cada campo en la plantilla de almacén.
 - **DispatchedReservations** (número): número de ítems del SKU que ya pasaron al status `Listo para preparar`, es decir, cuyas reservas ya se pagaron.  
 
 <div class = "alert alert-info">
-  Para incluir un artículo con stock ilimitado, debe rellenar el campo <b>TotalQuantity</b> con el valor <code>1000000</code> y cambiar el campo <b>UnlimitedQuantity</b> a <code>True</code>. 
+  Para incluir un artículo con stock ilimitado, debe rellenar el campo **TotalQuantity** con el valor `1000000` y cambiar el campo **UnlimitedQuantity** a `True`. 
 </code>

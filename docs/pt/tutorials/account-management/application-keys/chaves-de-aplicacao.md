@@ -33,9 +33,7 @@ As chaves de aplicação externas são credenciais geradas e administradas por o
 
 ## Gerenciar chaves de aplicação
 
-<div class="alert alert-warning">
-  <p>É necessário ter um <a href="https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc">perfil de acesso</a> com o <a href="https://help.vtex.com/pt/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3">recurso</a> <strong>Save User</strong> para gerenciar usuários e chaves de aplicação. O perfil predefinido para essa finalidade é o <a href="https://help.vtex.com/pt/tutorial/perfis-de-acesso-predefinidos--jGDurZKJHvHJS13LnO7Dy#user-administrator-restricted">User Administrator - RESTRICTED</a>, mas também é possível <a href="https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#criando-um-perfil-de-acesso">criar um perfil de acesso customizado</a> com esse recurso.</p>  
-</div>
+> ⚠️ É necessário ter um [perfil de acesso](https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) com o [recurso](https://help.vtex.com/pt/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3) **Save User** para gerenciar usuários e chaves de aplicação. O perfil predefinido para essa finalidade é o [User Administrator - RESTRICTED](https://help.vtex.com/pt/tutorial/perfis-de-acesso-predefinidos--jGDurZKJHvHJS13LnO7Dy#user-administrator-restricted), mas também é possível [criar um perfil de acesso customizado](https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#criando-um-perfil-de-acesso) com esse recurso.
 
 Na página **Chaves de aplicação**, você pode gerenciar as chaves de aplicação [internas](#chaves-de-aplicacao-internas) e [externas](#chaves-de-aplicacao-externas) que têm acesso à sua conta, inclusive:
 
@@ -47,9 +45,7 @@ Na página **Chaves de aplicação**, você pode gerenciar as chaves de aplicaç
 
 Para visualizar essa página, na barra superior do Admin VTEX, clique no **avatar do seu perfil**, marcado pela inicial do seu email, e depois em **Configurações da conta** > **Chaves de aplicação**.
 
-<div class = "alert alert-info">
-<p>Saiba mais sobre <a href="https://help.vtex.com/pt/tutorial/boas-praticas-chaves-de-aplicacao--7b6nD1VMHa49aI5brlOvJm">Boas práticas na utilização de chaves de aplicação</a>.</p>
-</div>
+> ℹ️ Saiba mais sobre [Boas práticas na utilização de chaves de aplicação](https://help.vtex.com/pt/tutorial/boas-praticas-chaves-de-aplicacao--7b6nD1VMHa49aI5brlOvJm).
 
 ## Gerar chaves de aplicação internas
 
@@ -62,7 +58,7 @@ Para criar chaves de aplicação internas na sua conta, siga os passos abaixo.
 
     Você será redirecionado(a) para a página **Minhas chaves**, ilustrada abaixo. Essa página lista todas as [chaves de aplicação internas](#chaves-de-aplicacao-internas).
 
-    ![Minhas chaves](//images.ctfassets.net/alneenqid6w5/1pSqVIzYaiCJO3RkJUoXZQ/56384e78cd25d545b8bfb8ee603a4c59/minhas-chaves-pt.png)
+    ![Minhas chaves](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/account-management/application-keys/chaves-de-aplicacao_1.png)
 
     Estes são os campos visíveis na página **Minhas chaves**:
 
@@ -74,11 +70,9 @@ Para criar chaves de aplicação internas na sua conta, siga os passos abaixo.
 2. (Opcional) Preencha o **Rótulo** com uma descrição da finalidade da chave de aplicação. Este campo é imutável e só pode ser definido durante a criação da chave de aplicação. Se ficar vazio, será automaticamente preenchido com o valor do campo **Chave** da chave de aplicação.
 3. (Opcional) Clique em `+ Adicionar perfis` para [gerenciar as permissões da chave de aplicação](#gerenciar-permissoes-das-chaves-de-aplicacao).
 4. Clique no botão `Gerar`.
-5. Clique em <img src="https://images.contentful.com/alneenqid6w5/3OX5lRYiaSEtQUDXoYJD32/6628b57d4ec1651bcb184ab31c4acd72/image1.png" alt="copy-button"/> para copiar o **Token de aplicação**. _Esse segredo será exibido apenas uma vez. Salve-o em um local seguro._
+5. Clique em <img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/account-management/application-keys/chaves-de-aplicacao_3.png" alt="copy-button"/> para copiar o **Token de aplicação**. _Esse segredo será exibido apenas uma vez. Salve-o em um local seguro._
 
-<div class="alert alert-warning">
-  <p>Proteja os seus pares de chaves e tokens de aplicação do mesmo modo que faria com outras credenciais, como nomes de usuário e senhas. Se você suspeitar que uma chave de aplicação esteja comprometida, desative imediatamente a chave em sua conta. Para mais detalhes, confira a seção <a href="#ativar-ou-desativar-chaves-de-aplicacao">Ativar ou desativar chaves de aplicação</a> deste artigo.</p>
-</div>
+> ⚠️ Proteja os seus pares de chaves e tokens de aplicação do mesmo modo que faria com outras credenciais, como nomes de usuário e senhas. Se você suspeitar que uma chave de aplicação esteja comprometida, desative imediatamente a chave em sua conta. Para mais detalhes, confira a seção [Ativar ou desativar chaves de aplicação](#ativar-ou-desativar-chaves-de-aplicacao) deste artigo.
 
 ## Adicionar chaves de aplicação externas
 
@@ -94,9 +88,7 @@ Para adicionar chaves de aplicação de terceiros, siga os passos abaixo:
 
 Para que uma chave de aplicação faça solicitações de API à sua conta com sucesso, ela precisa estar ativa e ter [perfis de acesso](https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) especificando os recursos da conta que tem permissão para acessar. 
 
-<div class="alert alert-danger">
-<p>O uso irrestrito de perfis de acesso muito permissivos aumenta o risco de ataques nas lojas por vazamento de credenciais de login.</p>
-</div>
+> ❗ O uso irrestrito de perfis de acesso muito permissivos aumenta o risco de ataques nas lojas por vazamento de credenciais de login.
 
 As chaves de aplicação são criadas, por padrão, sem permissão de acesso a quaisquer recursos da conta.
 
@@ -114,7 +106,7 @@ Ao editar uma chave de aplicação, você pode:
 
 Após ter adicionado perfis de acesso à chave de aplicação, ela será exibida na página **Chaves de aplicação**.
 
-![Chaves de aplicação](//images.ctfassets.net/alneenqid6w5/2wGtLJjEnzTf1VJmkFcRhm/b21ce0058da588e889f23ef46582b91c/appkeys-pt.png)
+![Chaves de aplicação](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/account-management/application-keys/chaves-de-aplicacao_2.png)
 
 Estes são os campos visíveis na página **Chaves de aplicação**:
 
@@ -122,17 +114,13 @@ Estes são os campos visíveis na página **Chaves de aplicação**:
 - **Conta:** conta VTEX responsável por gerenciar a chave de aplicação.
 - **Status:** estado atual da chave de aplicação, que pode estar ativa ou inativa.
 
-<div class="alert alert-info">
-  <p>Observe que o campo <strong>Rótulo</strong> não é exibido na página <strong>Chaves de aplicação</strong>. Para ver a descrição da finalidade de uma chave de aplicação interna, use o valor da <strong>Chave</strong> e busque por ela na página <strong>Minhas chaves</strong>. Não é possível adicionar rótulos a chaves de aplicação externas.</p>
-</div>
+> ℹ️ Observe que o campo **Rótulo** não é exibido na página **Chaves de aplicação**. Para ver a descrição da finalidade de uma chave de aplicação interna, use o valor da **Chave** e busque por ela na página **Minhas chaves**. Não é possível adicionar rótulos a chaves de aplicação externas.
 
 ## Ativar ou desativar chaves de aplicação
 
 Se uma chave de aplicação que tenha acesso à sua conta for comprometida, você deve revogar imediatamente o acesso dela à sua conta. Caso cometa algum erro, é possível reabilitá-la para restabelecer a integração impactada. O modo como você fará isso dependerá do [tipo de chave de aplicação](#tipos-de-chaves-de-aplicacao).
 
-<div class="alert alert-warning">
-  <p>Apenas reative a chave de aplicação se tiver certeza de que ela não foi comprometida. Qualquer pessoa com o token de aplicação associado recuperará o acesso privilegiado à sua conta.</p>
-</div>
+> ⚠️ Apenas reative a chave de aplicação se tiver certeza de que ela não foi comprometida. Qualquer pessoa com o token de aplicação associado recuperará o acesso privilegiado à sua conta.
 
 ### Desativar chave de aplicação interna
 
@@ -168,4 +156,4 @@ Para reativar chaves de aplicação externas que tenham sido desativadas anterio
 
 Se necessário para uma auditoria de segurança, você pode exportar um arquivo CSV contendo os valores da **Chave** para todas as chaves de aplicação internas e externas que atualmente têm acesso à sua conta — ou seja, que têm perfis de acesso associadas a elas.
 
-Para exportar as chaves, acesse _Configurações da conta > Gerenciamento da conta > Chaves de aplicação_ e clique no botão <span style="display: inline-block;"><img src="https://images.contentful.com/alneenqid6w5/25JqGWNUZPZattDX6ORXX6/742e99e17042024b9cae641564909171/image4.png" alt="export-button"/> <strong>Exportar</strong></span>.
+Para exportar as chaves, acesse _Configurações da conta > Gerenciamento da conta > Chaves de aplicação_ e clique no botão <span style="display: inline-block;"><img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/account-management/application-keys/chaves-de-aplicacao_4.png" alt="export-button"/> **Exportar**</span>.

@@ -26,7 +26,7 @@ Para acessar a página, em seu Admin VTEX vá para __Dashboards > Performance de
 
 É possível customizar a visualização dos dados do gráfico e da lista filtrando por período, dimensões e métricas.
 
-![Sales Perf Dash PT](//images.ctfassets.net/alneenqid6w5/1nTkH8KfhrLPOBuxFhcZvC/97ef8b2e3525cc9a565f1d55783730b3/Sales_Perf_Dash_PT.gif)
+![Sales Perf Dash PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/dashboards/dashboards-in-the-vtex-admin/performance-de-vendas_1.gif)
 
 ## Dados 
 Os dados da página são provenientes do [sistema de Gerenciamento de Pedidos](https://help.vtex.com/pt/tracks/orders--2xkTisx4SXOWXQel8Jg8sa) da VTEX. A Performance de Vendas é uma solução analítica, que usa heurísticas e fórmulas criadas a partir de nossa experiência levando nossos clientes de ecommerce para o próximo nível para calcular suas métricas. A página não deve ser utilizada como substituto para os dados do OMS, mas como ferramenta de análise e insights de negócio.
@@ -35,9 +35,7 @@ Para garantir que você tenha acesso tanto aos últimos dados atualizados e tamb
 
 Esses grupos também são processados por sistemas diferentes, o que pode causar uma diferença entre dados do OMS e do Performance de Vendas, apesar de buscarmos apresentar no máximo 5% de divergência. 
 
-<div class ="alert alert-warning">
-É provável que existam diferenças entre as métricas de receita e ticket médio registradas no OMS e no Performance de Vendas, por exemplo. Isso ocorre porque o Performance de Vendas considera o valor dos itens, enquanto o OMS também considera os descontos, frete, taxas e promoções sobre o pedido - o que pode aumentar ou diminuir seu valor final. 
-</div>
+> ⚠️ É provável que existam diferenças entre as métricas de receita e ticket médio registradas no OMS e no Performance de Vendas, por exemplo. Isso ocorre porque o Performance de Vendas considera o valor dos itens, enquanto o OMS também considera os descontos, frete, taxas e promoções sobre o pedido - o que pode aumentar ou diminuir seu valor final.
 
 ## Período
 
@@ -154,7 +152,7 @@ Além de aplicar filtros, também é possível realizar as ações abaixo:
 
 ## Menu Exibições
 
-![Sales perf update PT](//images.ctfassets.net/alneenqid6w5/5mHOltfUnUpV1DtHXrT8xD/3abd7dcbd11988d998dd95659c1088de/Sales_perf_update_PT.gif)
+![Sales perf update PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/dashboards/dashboards-in-the-vtex-admin/performance-de-vendas_2.gif)
 
 A Performance de Vendas permite customizar o dashboard aplicando diferentes filtros e selecionando as métricas que aparecerão no gráfico e na lista. Para facilitar sua exploração de dados no dia a dia, criamos as Exibições, que gravam os filtros e métricas aplicados na página para sua visualização direta. É possível salvar, editar e compartilhar visualizações distintas do dashboard. A página já vem com as seguintes Exibições configuradas por default:
 
@@ -212,9 +210,7 @@ A lista representa as métricas e filtros aplicados no gráfico em formato de ta
   - __Absoluto:__ visualize em números absolutos o aumento ou diminuição das métricas da lista, entre um período e outro. 
   - __Representativo:__ visualize o percentual de representatividade de um item dentro de uma métrica.
 
-<div class="alert alert-info">
-Note que as métricas <em>Ticket médio</em> e <em>Itens por pedido</em> não terão visualização Percentual ou Representativa disponíveis, já que são métricas calculadas dividindo outras, e a soma de todas as partes de cada uma não é igual ao Total.
-</div>
+> ℹ️ Note que as métricas *Ticket médio* e *Itens por pedido* não terão visualização Percentual ou Representativa disponíveis, já que são métricas calculadas dividindo outras, e a soma de todas as partes de cada uma não é igual ao Total.
 
 ### Exportar dados
 

@@ -49,9 +49,7 @@ Exemplo: suponha que um cliente queira pesquisar pelo termo `bola`. Seguindo a c
 * `bora` (trocar 1 caractere)
 * `obla` (trocar 2 caracteres que ficam um do lado do outro entre eles)
 
-<div class ="alert alert-info">
-	<p>Espaços em branco não são considerados no <em>fuzzy</em>, então <code>base ball</code> não será corrigido para <code>baseball</code>, por exemplo. Recomendamos o uso de <a href="https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV">sinônimos</a> para esses casos.</p>
-</div>
+> ℹ️ Espaços em branco não são considerados no *fuzzy*, então `base ball` não será corrigido para `baseball`, por exemplo. Recomendamos o uso de [sinônimos](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV) para esses casos.
 
 ### Resultado mínimo
 
@@ -62,9 +60,7 @@ Em uma busca com múltiplos termos, ocorre a lógica a seguir:
 1. Se o resultado mínimo não for atingido mesmo com a autocorreção inicial, a busca passa a incluir resultados mais abrangentes, que apresentam qualquer um dos termos pesquisados. Por exemplo, quando um usuário pesquisa por "tenis nike", mas o catálogo não possui nenhum produto com esse nome, a busca pode apresentar como resultado um produto com apenas o termo "tenis" no nome.
 2. Se a busca abrangente não apresentar o resultado mínimo, ela será repetida aplicando a autocorreção novamente a cada um dos termos.
 
-<div class= "alert alert-warning">
-<p>Buscas com múltiplos termos são mais eficientes quando o cliente ordena os resultados por relevância, já que elas podem ter um número maior de resultados além do contexto que foi buscado. Na ordenação por relevância, ainda priorizam-se os itens relacionados aos múltiplos termos. Porém, ao aplicar outras ordenações, como preço ou mais vendidos, a ordem dos resultados depende desses valores numéricos e não necessariamente prioriza itens que contêm mais palavras dos termos de busca.</p>
-</div>
+> ⚠️ Buscas com múltiplos termos são mais eficientes quando o cliente ordena os resultados por relevância, já que elas podem ter um número maior de resultados além do contexto que foi buscado. Na ordenação por relevância, ainda priorizam-se os itens relacionados aos múltiplos termos. Porém, ao aplicar outras ordenações, como preço ou mais vendidos, a ordem dos resultados depende desses valores numéricos e não necessariamente prioriza itens que contêm mais palavras dos termos de busca.
 
 ### Limite de paginação
 
@@ -88,9 +84,7 @@ _Exemplo_: foi configurado que a especificação "cor" é pesquisável e o produ
 
 É possível buscar por caracteres especiais (`-` e `/`) para encontrar um produto.
 
-<div class ="alert alert-warning">
-	<p>A escolha dos campos de busca afeta as possibilidades das <a href="https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5tBSYXb9EIdePa0MWTnFd0">Regras de merchandising</a>, pois apenas campos pesquisáveis podem ser utilizados para configurar as regras. Por exemplo, ao definir somente o campo <strong><code>SKUID</code> </strong>como pesquisável, não será possível promover um <strong><code>ProductID</code> </strong>ou um <strong><code>ProductRefID</code> </strong>utilizando Regras de merchandising.</p>
-</div>
+> ⚠️ A escolha dos campos de busca afeta as possibilidades das [Regras de merchandising](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5tBSYXb9EIdePa0MWTnFd0), pois apenas campos pesquisáveis podem ser utilizados para configurar as regras. Por exemplo, ao definir somente o campo **`SKUID` **como pesquisável, não será possível promover um **`ProductID` **ou um **`ProductRefID` **utilizando Regras de merchandising.
 
 ### Definição e ordenação de campos de filtro
 
@@ -104,9 +98,7 @@ _Exemplo_: um lojista configurou que o critério Promoção possui uma relevânc
 
 Para mais informações sobre como personalizar a ordenação dos resultados de acordo com as necessidades da sua loja, leia o artigo [Configuração de relevância](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1qlObWIib6KqgrfX1FCOXS).
 
-<div class ="alert alert-info">
-	<p>Ao utilizar o Intelligent Search, existem duas opções que definirão a ordem de suas coleções. Usando o comando <code>map=productClusterIds</code>, estará definindo que a ordem de suas coleções será a que foi pré definida pelo lojista, com seu próprio critério de relevância. Se você optar por usar <code>productClusterNames</code>, definirá que deseja que suas coleções sigam os padrões de relevância do próprio Intelligent Search.</p>
-</div>
+> ℹ️ Ao utilizar o Intelligent Search, existem duas opções que definirão a ordem de suas coleções. Usando o comando `map=productClusterIds`, estará definindo que a ordem de suas coleções será a que foi pré definida pelo lojista, com seu próprio critério de relevância. Se você optar por usar `productClusterNames`, definirá que deseja que suas coleções sigam os padrões de relevância do próprio Intelligent Search.
 
 ## Formas alternativas de busca
 

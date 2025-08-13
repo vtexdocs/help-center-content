@@ -27,9 +27,7 @@ No monitoramento de rotas é possível acompanhar o andamento de uma rota, inclu
 *   Alterar manualmente o status das entregas.
 *   Retirar o canhoto de informações da rota.
 
-<div class="alert alert-info"> 
-As atualizações dos dados entre os sistemas VTEX Tracking acontecem de forma automática. O tempo de atualização e sincronização das informações podem ser configurados na plataforma. No entanto, para visualizar na plataforma web as mudanças ocorridas, é preciso que você atualize a página de Monitoramento de Rotas. Para saber mais sobre as configurações de conta confira <a href="https://help.vtex.com/pt/subcategory/vtex-tracking--7yiFRk9TGfMNeyhT83UljP">Configurações de conta</a>.
-</div>
+> ℹ️ As atualizações dos dados entre os sistemas VTEX Tracking acontecem de forma automática. O tempo de atualização e sincronização das informações podem ser configurados na plataforma. No entanto, para visualizar na plataforma web as mudanças ocorridas, é preciso que você atualize a página de Monitoramento de Rotas. Para saber mais sobre as configurações de conta confira [Configurações de conta](https://help.vtex.com/pt/subcategory/vtex-tracking--7yiFRk9TGfMNeyhT83UljP).
 
 A tela de monitoramento de rotas é acessada através do menu **Monitoramento** > **Rotas**. Nela, você encontra uma lista das rotas e rotas itinerantes (rotas cujo período de realização ultrapassa um dia). 
 
@@ -75,8 +73,6 @@ Caso precise mudar o status, ao final da página [Detalhes da rota](#detalhes-da
 3. É possível editar ainda a **Ocorrência** e **Justificativa** caso queira.
 4. Depois de selecionar as opções desejadas clique em **Confirmar.**
 
-<div class="alert alert-info"> 
-Para que esteja disponível uma Justificativa ela deve ser cadastrada previamente na aba de Configurações de Conta. Para saber mais confira <a href="https://help.vtex.com/pt/tutorial/justificativa-de-status-vtex-tracking--4shboc7h5XPUpA8TQzXPRG">Justificativa de status</a>.
-</div>
+> ℹ️ Para que esteja disponível uma Justificativa ela deve ser cadastrada previamente na aba de Configurações de Conta. Para saber mais confira [Justificativa de status](https://help.vtex.com/pt/tutorial/justificativa-de-status-vtex-tracking--4shboc7h5XPUpA8TQzXPRG).
 
-![Monitoramento de Rota](//images.ctfassets.net/alneenqid6w5/3cHz27dvHjO7ObLDxJTIuc/01103e99a288ab15935a7b453487fd7c/Monitoramento_Rota.gif)
+![Monitoramento de Rota](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-tracking/routes/monitoramento-de-rotas_1.gif)

@@ -17,11 +17,9 @@ subcategoryId: 3VNOhxDrvYxJThhuJClrYZ
 
 VTEX DO manages tasks automatically created by the VTEX Admin that require manual action by the ecommerce team. To access it, log in to your VTEX Admin, go to **Orders > [All orders](https://help.vtex.com/en/tutorial/lista-de-pedidos--2QTduKHAJMFIZ3BAsi6Pi)**, and click on the inbox icon in the bottom right corner of the page. By clicking on the icon, a modal will display the list of tasks related to the store's orders. 
 
-![VTEX Do overview EN](//images.ctfassets.net/alneenqid6w5/4FzyUh5uqhzXKfbw9MJXsQ/0b341bae7a9f462483ddefb3ad044e14/VTEX_Do_overview_EN.gif)
+![VTEX Do overview EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/orders/orders-overview/vtex-do-interface_1.gif)
 
-<div class = "alert alert-info">
-Only users with the <a href = "https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#oms-full-access">OMS - Full Access</a> role can perform tasks through VTEX DO.
-</div>
+> ℹ️ Only users with the <a href = "https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#oms-full-access">OMS - Full Access</a> role can perform tasks through VTEX DO.
 
 The tasks are listed in two tabs:
 
@@ -65,11 +63,11 @@ Tasks managed through VTEX DO can include messages from all VTEX systems. Some e
 
 <table>
   <tr>
-   <td><strong>Message</strong>
+   <td>**Message**
    </td>
-   <td><strong>Description</strong>
+   <td>**Description**
    </td>
-   <td><strong>Action</strong>
+   <td>**Action**
    </td>
   </tr>
   <tr>
@@ -77,15 +75,15 @@ Tasks managed through VTEX DO can include messages from all VTEX systems. Some e
    </td>
    <td>A request to refund a payment has been created.
    </td>
-   <td>Go to <strong>Task details</strong> and click <strong>View details</strong> > authorize or cancel the payment refund on the <strong>Transaction details</strong> page.
+   <td>Go to **Task details** and click **View details** > authorize or cancel the payment refund on the **Transaction details** page.
    </td>
   </tr>
   <tr>
    <td>Authorizing an order with price divergence
    </td>
-   <td>The order was generated with an amount different from the configured <a href="https://help.vtex.com/pt/tutorial/regra-de-divergencia-de-valores--6RlFLhD1rIRRshl83KnCjW">price divergence rule</a>.
+   <td>The order was generated with an amount different from the configured [price divergence rule](https://help.vtex.com/pt/tutorial/regra-de-divergencia-de-valores--6RlFLhD1rIRRshl83KnCjW).
    </td>
-   <td>Go to <strong>Task details</strong> and click <strong>View details</strong> > authorize or cancel the order on the <strong>Order details</strong> page.
+   <td>Go to **Task details** and click **View details** > authorize or cancel the order on the **Order details** page.
    </td>
   </tr>
   <tr>
@@ -93,29 +91,29 @@ Tasks managed through VTEX DO can include messages from all VTEX systems. Some e
    </td>
    <td>The buyer requested the cancellation of their order. We suggest that your store's Customer Service Center contact the customer to offer support before canceling the order.
    </td>
-   <td>Go to <strong>Task details</strong> and click <strong>View details</strong> > authorize or cancel the order on the <strong>Order details</strong> page.
+   <td>Go to **Task details** and click **View details** > authorize or cancel the order on the **Order details** page.
    </td>
   </tr>
   <tr>
    <td>An error occurred while generating the recurring order
    </td>
-   <td><a href="https://help.vtex.com/pt/tutorial/como-configurar-assinatura-v2--1FA9dfE7vJqxBna9Nft5Sj">Subscription</a> orders are often not authorized due to problems with the buyer's credit card. We suggest that your store's Customer Service Center contact the customer to offer support.
+   <td>[Subscription](https://help.vtex.com/pt/tutorial/como-configurar-assinatura-v2--1FA9dfE7vJqxBna9Nft5Sj) orders are often not authorized due to problems with the buyer's credit card. We suggest that your store's Customer Service Center contact the customer to offer support.
    </td>
-   <td>Go to <strong>Task details</strong> and click <strong>View details</strong> > authorize or cancel the order on the <strong>Order details</strong> page.
+   <td>Go to **Task details** and click **View details** > authorize or cancel the order on the **Order details** page.
    </td>
   </tr>
   <tr>
    <td>Price lower than minimum markup
    </td>
-   <td>The purchase amount is lower than the markup, or the minimum markup on the <a href="https://help.vtex.com/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/P99EjtrlRHk92Q8qDPq29">SKU base price</a>.
+   <td>The purchase amount is lower than the markup, or the minimum markup on the [SKU base price](https://help.vtex.com/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/P99EjtrlRHk92Q8qDPq29).
    </td>
-   <td>Go to <strong>Task details</strong> and click <strong>View details</strong> > authorize or cancel the order on the <strong>Order details</strong> page.
+   <td>Go to **Task details** and click **View details** > authorize or cancel the order on the **Order details** page.
    </td>
 </table>
 
 ## Task details
 
-![VTEX Do details EN](//images.ctfassets.net/alneenqid6w5/mPby3BuhZYAwGyFuII8mr/9bb5a8bb66f10645c751d11ae95b4ee0/VTEX_Do_details_EN.jpg)
+![VTEX Do details EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/orders/orders-overview/vtex-do-interface_2.jpg)
 
 By clicking on the name of a task in the list, you are redirected to the task details modal, which displays more information about the task and actions to solve it. The following fields are displayed:
 

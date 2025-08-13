@@ -19,9 +19,7 @@ El impuesto es lo contrario de la promoción, es decir, un porcentaje adicional
 
 El impuesto se aplica conforme al registro que hará el vendedor. A continuación, el carrito de su tienda tiene un producto de otro vendedor, el impuesto que se aplicará en este producto será el que registra el vendedor en la administración del producto. No se considerará el impuesto registrado en el módulo de precios de mercado, si tenemos un impuesto asociado con este producto.
 
-<div class = "alert alert-info">
-Las cuentas del Seller Portal no tienen acceso al módulo de creación de impuestos. Sin embargo, al crear un impuesto en VTEX Admin, si deseas que se aplique en el contexto de seller, selecciona la política comercial correspondiente durante la configuración.
-</div>
+> ℹ️ Las cuentas del Seller Portal no tienen acceso al módulo de creación de impuestos. Sin embargo, al crear un impuesto en VTEX Admin, si deseas que se aplique en el contexto de seller, selecciona la política comercial correspondiente durante la configuración.
 
 ## Cómo realizarlo
 
@@ -62,4 +60,4 @@ Las cuentas del Seller Portal no tienen acceso al módulo de creación de impues
 
 La planificación de un impuesto se produce cuando es creado o modificado con el tiempo y la fecha de validación más adelante del actual. Visualmente se pueden identificar estos impuestos en la página principal del módulo de Tsas y Promociones a través de una franja naranja en la esquina superior derecha de la lista de precios con la palabra programado. A continuación se muestra un ejemplo de cómo se identifica el impuesto cuando está programado.
 
-![agendamento.es](//images.ctfassets.net/alneenqid6w5/2DPKlUdsr38TTIwc3e9GH5/31b3319951c14c8faa6ab3558cebf19b/agendamento.es.png)
+![agendamento.es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/promotions-&-taxes/taxes/creando-la-tasaimpuesto_1.png)

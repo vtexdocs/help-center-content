@@ -29,7 +29,7 @@ Un producto o SKU puede tener status activo o inactivo, según se detalla en la 
 
 | **Status del producto o SKU** | **Descripción** |
 | :---: | :--- |
-| Activo | <p>Se activó el producto o SKU para indicar que el retailer desea venderlo en el storefront.</p><p>La venta del producto o SKU depende de su status activo y su disponibilidad. Para más información sobre la disponibilidad de un producto, consulta los artículos <a href="https://help.vtex.com/es/tutorial/products-and-skus--2ig7TmROlirWirZjFWZ3By#acompanhar-disponibilidade-de-produtos">Productos y SKUs</a> y <a href="https://help.vtex.com/es/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382">¿Por qué el producto no aparece en el sitio web?</a>.</p> |
+| Activo | Se activó el producto o SKU para indicar que el retailer desea venderlo en el storefront.La venta del producto o SKU depende de su status activo y su disponibilidad. Para más información sobre la disponibilidad de un producto, consulta los artículos [Productos y SKUs](https://help.vtex.com/es/tutorial/products-and-skus--2ig7TmROlirWirZjFWZ3By#acompanhar-disponibilidade-de-produtos) y [¿Por qué el producto no aparece en el sitio web?](https://help.vtex.com/es/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382). |
 | Inactivo | Se desactivó el producto o SKU porque el retailer no desea que se muestre en el storefront como disponible para la venta. |
 
 ## Desactivar un producto
@@ -41,9 +41,7 @@ Para desactivar un producto sigue los pasos a continuación:
 3. En la página de edición del producto, desactiva el botón de alternancia <i class="fas fa-toggle-off" aria-hidden="true"></i> Activo.
 4. Haz clic en `Guardar`.
 
-<div class="alert alert-warning">
-  <p>Un producto se desactiva automáticamente cuando se desactivan todos sus SKUs.</p>
-</div>
+> ⚠️ Un producto se desactiva automáticamente cuando se desactivan todos sus SKUs.
 
 ## Desactivar un SKU
 

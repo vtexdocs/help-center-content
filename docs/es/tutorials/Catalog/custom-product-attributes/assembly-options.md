@@ -15,15 +15,13 @@ locale: es
 subcategoryId: 1hoOi2R0Rm6ky0yCwOUoiy
 ---
 
-<div class="alert alert-warning">
-  <p>Esta funcionalidad solo está disponible para las tiendas desarrolladas con <a href="https://vtex.com/es-es/store-framework/">VTEX IO</a>. Antes de seguir, debes <a href="https://developers.vtex.com/vtex-developer-docs/docs/vtex-product-customizer">instalar y configurar el Product Customizer</a> en tu tienda.</p>
-</div>
+> ⚠️ Esta funcionalidad solo está disponible para las tiendas desarrolladas con [VTEX IO](https://vtex.com/es-es/store-framework/). Antes de seguir, debes [instalar y configurar el Product Customizer](https://developers.vtex.com/vtex-developer-docs/docs/vtex-product-customizer) en tu tienda.
 
 Una assembly option es un [anexo](https://help.vtex.com/es/tutorial/que-es-un-anexo--aGICk0RVbqKg6GYmQcWUm) para escenarios complejos, como la personalización de productos en las que es necesario controlar diferentes combinaciones de productos, la cantidad, ítems adicionales, costes y la gestión de stock.
 
 En el siguiente ejemplo, una tienda ofrece múltiples assembly options para el producto _custom bell_ (campana personalizada). Estas opciones se muestran en la página de producto, donde el cliente puede seleccionar las opciones deseadas. Dependiendo de las opciones, puede haber un coste adicional para el SKU.
 
-![assembly-option-ES](//images.ctfassets.net/alneenqid6w5/3A5QzqwSI6Z9CZk3EqPrZs/a4598c720776d55966ff96a0423af592/image.png)
+![assembly-option-ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Catalog/custom-product-attributes/assembly-options_1.png)
 
 Puedes combinar distintos [SKU](https://help.vtex.com/es/tutorial/que-es-un-sku--1K75s4RXAQyOuGUYKMM68u) para ofrecer assembly options, como los _Bells add-ons Roman_ o los _Bells add-ons 1-3 lines_ en el ejemplo anterior. Si un ítem está agotado, se mostrará como no disponible.
 
@@ -33,9 +31,7 @@ En este artículo, explicamos cómo empezar a utilizar las opciones de ensamblaj
 
 Hay dos formas de implementar las opciones de ensamblaje: utilizando la [aplicación Assembly Options](#aplicacion-assembly-options) o la interfaz nativa de [Campos personalizados](#campos-personalizados) del __Catálogo__.
 
-<div class="alert alert-warning">
-  <p>Al implementar las opciones de ensamblaje en una <a href="https://help.vtex.com/es/tutorial/que-es-un-seller--5FkLvhZ3Few4CWWIuYOK2w">cuenta de seller</a>, las opciones de personalización del producto se mostrarán a los clientes de tu tienda en el checkout. Para que las opciones se muestren en la página del producto, debes implementar la funcionalidad en una <a href="https://help.vtex.com/es/tutorial/que-es-un-marketplace--680lLJTnmEAmekcC0MIea8">cuenta de marketplace</a>.</p>
-</div>
+> ⚠️ Al implementar las opciones de ensamblaje en una [cuenta de seller](https://help.vtex.com/es/tutorial/que-es-un-seller--5FkLvhZ3Few4CWWIuYOK2w), las opciones de personalización del producto se mostrarán a los clientes de tu tienda en el checkout. Para que las opciones se muestren en la página del producto, debes implementar la funcionalidad en una [cuenta de marketplace](https://help.vtex.com/es/tutorial/que-es-un-marketplace--680lLJTnmEAmekcC0MIea8).
 
 ### Aplicación Assembly Options
 
@@ -61,7 +57,7 @@ El primer `[x-y]` corresponde a las reglas que se aplican al grupo, y entre cada
 | \[0-3\]#10000\[1-2\]**\[1\]**pricetable1;#20000\[0-2\]**\[0\]**pricetable2;#30000\[0-2\]**\[0\]**pricetable3 | Este segmento define la cantidad seleccionada por defecto para cada SKU.  |
 | \[0-3\]#10000\[1-2\]\[1\]**pricetable1**;#20000\[0-2\]\[0\]**pricetable2**;#30000\[0-2\]\[0\]**pricetable3** | El último segmento indica la tabla de precios de cada ítem.                    |
 
-![assembly-option-exemplo-ES](//images.ctfassets.net/alneenqid6w5/2c4cfwQo0KisXQhlzYoxGC/3f3dbae528ee506cf1eddf109168bf1a/image.png)
+![assembly-option-exemplo-ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Catalog/custom-product-attributes/assembly-options_2.png)
 
 #### Configuración del anexo
 

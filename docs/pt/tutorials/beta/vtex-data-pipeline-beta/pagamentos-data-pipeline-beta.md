@@ -32,7 +32,7 @@ Nesta seção você encontra as seguintes informações:
 
 | **Característica** | **Descrição** |
 |:---:|:---:|
-| **Origem do dado** | Os dados desse conjunto se origina do <a href="https://help.vtex.com/pt/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/kdPbEIWf8Xq8tESQvViMB">módulo de Pagamentos da VTEX</a>. Eles são coletados e organizados de modo a refletir as transações e os pagamentos realizados na plataforma. |
+| **Origem do dado** | Os dados desse conjunto se origina do [módulo de Pagamentos da VTEX](https://help.vtex.com/pt/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/kdPbEIWf8Xq8tESQvViMB). Eles são coletados e organizados de modo a refletir as transações e os pagamentos realizados na plataforma. |
 | **Disponibilidade** | Os dados de navegação podem ser acessados somente no Admin da VTEX. |
 | **Histórico** | Os dados são mantidos por dois anos, a partir de 2023 para clientes que já utilizam a plataforma VTEX. Os dados da tabela `transactions_interactions` só possuem o histórico desde 07/05/24 (dd/mm/yy).|
 | **Menor intervalo de atualização possível** | Uma hora. |

@@ -48,12 +48,12 @@ main_account | character varying(100) | Nome da conta principal associada ao ven
 |seller_name | character varying(200) | Nome do vendedor.|
 |is_better_scope | boolean | Relevante apenas para vendedores whitelabel. Define se o vendedor whitelabel é abrangente (true) ou não (false). Um vendedor abrangente não está limitado a uma localização, ou seja, se uma loja for acessada sem definir uma localização, apenas vendedores abrangentes serão considerados.|
 |is_active| boolean | Indica se o vendedor está ativo (true) ou não (false).|
-|allow_hybrid_payments | boolean | Indica se os clientes podem usar cartões-presente do vendedor para comprar produtos no marketplace (true) ou não (false). <p> Se true, identifica compras feitas com cartão-presente para que apenas o preço final (com descontos aplicados) seja pago ao vendedor.</p>|
+|allow_hybrid_payments | boolean | Indica se os clientes podem usar cartões-presente do vendedor para comprar produtos no marketplace (true) ou não (false).  Se true, identifica compras feitas com cartão-presente para que apenas o preço final (com descontos aplicados) seja pago ao vendedor.|
 |seller_type | character varying(25) | Determina se o vendedor é padrão ou whitelabel.|
 |trust_policy | character varying(50) | Política de confiança usada pelo vendedor.|
 |sales_channels | character varying(65535) | Canais de vendas do vendedor.|
 |integration | character varying(50) | Nome da integração usada pelo vendedor.|
-|integration_type | character varying(25) | As integrações são classificadas como: <p> VTEX Seller: O vendedor é outra conta VTEX.</p><p>VTEX Seller Portal: O vendedor usa o Seller Portal da VTEX.</p><p>Vendedor Externo: O vendedor usa uma conexão externa não relacionada à VTEX.</p><p>Não Configurado: O vendedor ainda não configurou a integração.</p>|
+|integration_type | character varying(25) | As integrações são classificadas como:  VTEX Seller: O vendedor é outra conta VTEX.VTEX Seller Portal: O vendedor usa o Seller Portal da VTEX.Vendedor Externo: O vendedor usa uma conexão externa não relacionada à VTEX.Não Configurado: O vendedor ainda não configurou a integração.|
 |created_at | timestamp | Data de criação do vendedor.|
 |updated_at | timestamp | Data da última atualização do vendedor.|
 |batch_id | character(13) | ID do lote onde esses dados chegaram. Permite saber quando esses dados foram entregues.|

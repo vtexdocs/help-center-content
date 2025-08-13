@@ -17,9 +17,7 @@ subcategoryId: oMrzcOMVbBpH0reeMFHFg
 
 O conjunto de dados de Bridge inclui informações históricas sobre logs do Bridge. 
 
-<div class="alert alert-warning">
-Atualmente, o conjunto de dados fornece somente as informações de logs de rastreamento e de pedidos cancelados.
-</div>  
+> ⚠️ Atualmente, o conjunto de dados fornece somente as informações de logs de rastreamento e de pedidos cancelados.  
 
 Nesta seção você encontra as seguintes informações:  
 

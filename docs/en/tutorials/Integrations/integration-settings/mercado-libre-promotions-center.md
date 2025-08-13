@@ -21,7 +21,7 @@ By clicking a promotion from the list, the seller can use the search bar to find
 
 To access the **Promotions** page in the VTEX Admin, go to **Marketplace > Mercado Libre > Promotions.**  
 
-![Central de Promoções Mercado Livre](//images.ctfassets.net/alneenqid6w5/2I8h2Cuasv6iz3IqPkNpxR/918a02f8f04066d8c83b456533af55f7/Central_de_Promo__es_Mercado_Livre.gif)
+![Central de Promoções Mercado Livre](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/integration-settings/mercado-libre-promotions-center_1.gif)
 
 ## Promotion types
 
@@ -72,7 +72,7 @@ To remove a product from the campaign, follow the steps below:
 2. Click the <i class="far fa-trash-alt" aria-hidden="true"></i> icon.  
 3. In the confirmation pop-up, click the `Confirm` button.  
 <div class=”alert alert-info”>
-Offers removed from the campaign will be listed in the <b>Candidates</b> section and can be included again.
+Offers removed from the campaign will be listed in the **Candidates** section and can be included again.
 </div>
 
 ### Co-funded
@@ -236,7 +236,7 @@ When the campaign status changes to **Started,** all the offers listed in this s
 In the **Participating** section, the offers configured to participate in a campaign with the **Started** status will be listed.  
 
 <div class=”alert alert-info”>
-In this type of campaign, offers with the <b>Started</b> status can't be removed.
+In this type of campaign, offers with the **Started** status can't be removed.
 </div>
 
 ### Automated co-participation

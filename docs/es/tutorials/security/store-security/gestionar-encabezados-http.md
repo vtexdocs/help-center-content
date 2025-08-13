@@ -22,9 +22,7 @@ Los encabezados son clave en la comunicación HTTP, ya que proporcionan informac
 - __Encabezados de request:__ enviados por el cliente al servidor. Contienen información sobre el request realizado, tal como tipo de método HTTP utilizado, tipo de contenido aceptado, cookies, entre otros.
 - __Encabezados de respuesta:__ enviados por el servidor al cliente. Proporcionan información sobre la respuesta enviada, tal como status de la respuesta, tipo de contenido devuelto, cookies, entre otros.
 
-<div class = "alert alert-info">
-Para más información, consulta la guía de <a href="https://developer.mozilla.org/es/docs/Web/HTTP">MDN HTTP</a> y la documentación relacionada.
-</div>
+> ℹ️ Para más información, consulta la guía de [MDN HTTP](https://developer.mozilla.org/es/docs/Web/HTTP) y la documentación relacionada.
 
 En esta guía, aprenderás a gestionar los encabezados de respuestas de seguridad.
 
@@ -45,9 +43,7 @@ A continuación se indican los encabezados que admiten modificación:
 
 Puedes configurar un encabezado personalizado, es decir, un valor que no está estandarizado y que es una adaptación a los requisitos o funcionalidades particulares de las necesidades de la tienda.
 
-<div class="alert alert-warning">
-Solo se puede agregar un encabezado personalizado por cuenta.
-</div>
+> ⚠️ Solo se puede agregar un encabezado personalizado por cuenta.
 
 Si necesitas configurar un encabezado personalizado, abre un ticket con el soporte VTEX y proporciona las claves y valores. Esta información es tu responsabilidad. Puedes utilizar la documentación de [MDN HTTP headers](https://developer.mozilla.org/es/docs/Web/HTTP/Headers) como guía.
 

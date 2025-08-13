@@ -45,9 +45,7 @@ O lojista precisa garantir a correta configuração dos seguintes aspectos do pr
 * Contagem do produto no [inventário](https://help.vtex.com/pt/tutorial/gerenciar-inventario--tutorials_139) disponível para vendas, ou estoque infinito configurado ou opção habilitada para exibir o produto quando esgotado.
 * Templates de [CMS](https://help.vtex.com/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/6OCY6S9tqBXPD5mgpbBInC) do frontend da loja configurados.
 
-<div class = "alert alert-info">
-Para mais informações, veja o artigo <a href="https://help.vtex.com/pt/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382">Por que o produto não aparece no site?</a>.
-</div>
+> ℹ️ Para mais informações, veja o artigo [Por que o produto não aparece no site?](https://help.vtex.com/pt/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382).
 
 ### 2. A Delivery Promise (Beta) garante a exibição de todos os meus produtos na vitrine?
 

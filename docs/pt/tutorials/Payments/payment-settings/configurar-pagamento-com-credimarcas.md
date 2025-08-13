@@ -31,17 +31,15 @@ Para configurar o provedor Credimarcas, siga os passos abaixo:
     - __Agendada: defina quando a captura automática será realizada__: ao selecionar esta opção, o campo __Prazo agendado em horas para a captura automática__ estará disponível, e deve ser preenchido com o período no qual a captura automática acontecerá. Este período deve estar em acordo com os limites permitidos pelo provedor de pagamento.
     - __Desativado: Não Capturado Automaticamente__: a captura não é autorizada automaticamente. É importante atentar-se ao escolher esse comportamento, pois a demora no faturamento pode extrapolar o tempo de captura acordado com o provedor e levar à perda do pagamento.
 
-<ui>  6. Em <b>Type Payment</b>, selecione se o pagamento será realizado via "Payment App" ou "Redirect".</ui>
+<ui>  6. Em **Type Payment**, selecione se o pagamento será realizado via "Payment App" ou "Redirect".</ui>
 
-<ui>  7. Caso seja exibida uma mensagem de alerta indicando a necessidade de instalação do app, clique no botão <b>Instalar app</b> e siga as instruções de instalação.</ui>
+<ui>  7. Caso seja exibida uma mensagem de alerta indicando a necessidade de instalação do app, clique no botão **Instalar app** e siga as instruções de instalação.</ui>
 
-<ui>  8. Clique em <b>Salvar.</b></ui>
+<ui>  8. Clique em **Salvar.**</ui>
 
 ## Configurar Promissória
 
-<div class="alert alert-warning">
-  <p>Caso ainda não tenha configurado a promissória como método de pagamento em outros conectores de sua loja, acesse <a href="https://help.vtex.com/pt/tutorial/configurar-pagamentos-com-promissoria--5pW7avTwtyQcMu4uiW8quQ">Configurar pagamentos com Promissória</a>.</p>
-</div>
+> ⚠️ Caso ainda não tenha configurado a promissória como método de pagamento em outros conectores de sua loja, acesse [Configurar pagamentos com Promissória](https://help.vtex.com/pt/tutorial/configurar-pagamentos-com-promissoria--5pW7avTwtyQcMu4uiW8quQ).
 
 Para utilizar a Credimarcas com promissórias, siga os passos abaixo:
 

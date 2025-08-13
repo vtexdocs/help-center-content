@@ -60,16 +60,13 @@ Confira a lista completa de [recursos do License Manager](https://help.vtex.com/
 
 Os perfis de acesso podem ser gerenciados por meio do Admin VTEX. Para acessar a listagem de perfis de acesso, na barra superior do Admin VTEX, clique no **avatar do seu perfil**, marcado pela inicial do seu email, e depois em **Configurações da conta** > **Perfis de acesso**.
 
-![Lista perfis de acesso](//images.ctfassets.net/alneenqid6w5/5SsjVcIztKJQ3yxY1udwOH/af2216756b2b71242cf49647ba5ec08d/image_0.png)
+![Lista perfis de acesso](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/account-management/access-control/perfis-de-acesso_1.png)
 
 Esta tela apresenta uma lista com todos os perfis de acesso cadastrados para a conta, que você pode editar ou excluir a partir da coluna **Ações**.
 
 Em uma conta recém-criada, apenas o perfil *Owner (Admin Super)* estará listado. Este perfil concede ao usuário acesso irrestrito a todos os recursos nativos da plataforma.
 
-<div class="alert alert-warning">
- <p>A quantidade de usuários com o perfil <em>Owner (Admin Super)</em> deve ser a menor possível. Além disso, é preciso se certificar que haja visibilidade e controle de quem recebe esse acesso.</p>
- <p>O uso irrestrito de perfis de acesso muito permissivos aumenta o risco de ataques nas lojas por vazamento de credenciais de login.</p>
-</div>
+> ⚠️ A quantidade de usuários com o perfil *Owner (Admin Super)* deve ser a menor possível. Além disso, é preciso se certificar que haja visibilidade e controle de quem recebe esse acesso. O uso irrestrito de perfis de acesso muito permissivos aumenta o risco de ataques nas lojas por vazamento de credenciais de login.
 
 ## Criar perfis de acesso
 

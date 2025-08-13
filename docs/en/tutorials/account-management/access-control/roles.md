@@ -59,16 +59,13 @@ Check the complete list of available [License Manager resources](https://help.vt
 
 Roles can be managed through VTEX Admin. Click on your **profile avatar** on the VTEX Admin top bar, marked by the initial of your email, and click on **Account Settings** > __User Roles__ .
 
-![List roles](//images.ctfassets.net/alneenqid6w5/5SsjVcIztKJQ3yxY1udwOH/8221fd52b20d28b39952ad447fa0424c/List_roles.png)
+![List roles](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/account-management/access-control/roles_1.png)
 
 This page shows a list with all roles that were added for the account, which you can edit or delete from the **Actions** column.
 
 In a newly created account, only the *Owner (Admin Super)* role will be listed. This role gives unrestricted access to all the resources of the platform.
 
-<div class="alert alert-warning">
- <p>The number of users with an <em>Owner (Admin Super)</em> role should be as low as possible. Ensure that there is visibility and control of those who receive this access.</p>
- <p>Unrestricted use of very permissive roles increases the risk of attacks on stores by login credentials leakage.</p>
-</div>
+> ⚠️ The number of users with an *Owner (Admin Super)* role should be as low as possible. Ensure that there is visibility and control of those who receive this access. Unrestricted use of very permissive roles increases the risk of attacks on stores by login credentials leakage.
 
 ## Creating roles
 

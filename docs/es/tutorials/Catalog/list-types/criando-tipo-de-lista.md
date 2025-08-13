@@ -15,9 +15,7 @@ locale: es
 subcategoryId: 6aeeWirCBUwwCmeIWOgIWs
 ---
 
-<div class="alert alert-warning">
-  <p>La funcionalidad <a href="https://help.vtex.com/es/tutorial/que-es-una-lista--4b4NsVFwA8kwqS8S82w4Go">Lista</a> es exclusiva para las tiendas que utilizan CMS Portal Legado.</p>
-</div>
+> ⚠️ La funcionalidad [Lista](https://help.vtex.com/es/tutorial/que-es-una-lista--4b4NsVFwA8kwqS8S82w4Go) es exclusiva para las tiendas que utilizan CMS Portal Legado.
 
 La creación de un tipo de lista es la configuración de qué listas tendrá el sitio. Ejemplo: Lista de Casamento y Lista de Aniversário. Cada una de estas es un tipo de lista diferente, con configuraciones propias. Este artículo tiene el objetivo de ilustrar el proceso de creación de un tipo de lista.
 
@@ -30,9 +28,7 @@ La creación de un tipo de lista es la configuración de qué listas tendrá el 
 
 Después de crear los tipos de listas, será posible que los clientes efectivamente creen sus listas en el sitio.
 
-<div class="alert alert-warning">
-  <p>No se puede eliminar una lista después de que se ha generado.</p>
-</div>
+> ⚠️ No se puede eliminar una lista después de que se ha generado.
 
 ## Campos del formulario
 
@@ -65,7 +61,7 @@ El dueño de la tienda decide si la lista tendrá o no evento. Una vez grabado e
 
 Al seleccionar **Posee evento**, el formulario hace disponibles otras opciones de configuración para el evento, donde será posible configurar todas las fechas límites para la creación de ese tipo de lista, conforme a la imagen abajo.
 
-![eventos.es](//images.ctfassets.net/alneenqid6w5/Q48lA7Ybjz6mQ8wH27hms/85a9a1f23758f6e1fdc3a016dadeb68b/eventos.es.png)
+![eventos.es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Catalog/list-types/criando-tipo-de-lista_1.png)
 
 El área de evento es responsable de definir si la lista creada tiene o no un período preestablecido para la fecha del evento. Listas de desejo o listas de compras no necesitan un período determinado para ocurrencia del evento. En cambio, listas de casamento o de chá de bebe, deben tener en cuenta la fecha del evento, para que así, todos los productos comprados se entreguen al dueño en período hábil según la fecha del evento.
 
@@ -81,7 +77,7 @@ El área de evento es responsable de definir si la lista creada tiene o no un pe
 
 Después de crear el tipo de lista, usted será dirigido a la pantalla donde aparecen los tipos de listas ya registrados en la tienda. Esa pantalla ofrece las siguientes informaciones y funciones:
 
-![listagem.es](//images.ctfassets.net/alneenqid6w5/3BTiBXCbQovhe3duPewHZx/410066a38327a8a69a3ffc1ed7bd2029/listagem.es.png)
+![listagem.es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Catalog/list-types/criando-tipo-de-lista_2.png)
 
 - **Exportar a Excel**: Permite exportar los datos de tipos de listas para Excel.
 - **Versión**:Identificación de listas creadas en la versión antigua de la funcionalidad, con limitaciones. La versión más actual es la “v2”.

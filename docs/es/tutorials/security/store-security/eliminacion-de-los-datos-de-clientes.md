@@ -35,9 +35,7 @@ Si tu tienda almacena información de clientes en entidades de datos personaliza
 1. Encuentra el documento correspondiente al cliente utilizando el endpoint [Search document](https://developers.vtex.com/vtex-rest-api/reference/searchdocuments-1). 
 2. Elimina dicho documento utilizando el endpoint [Delete document](https://developers.vtex.com/vtex-rest-api/reference/deletedocument-1).
 
-<div class="alert alert-danger">
-No realices este proceso para las entidades nativas <strong>CL</strong> y <strong>AD</strong>.
-</div>
+> ❗ No realices este proceso para las entidades nativas **CL** y **AD**.
 
 ## 2. Configurar rol RGPD
 
@@ -46,7 +44,7 @@ Para solicitar la eliminación de datos, crea un [rol personalizado](https://hel
 - **Write user rights requests** (del producto **User Rights**).
 - **Open Support Ticket** (del producto **VTEX Support**).
 
-![perfil-de-acesso-gdpr](//images.ctfassets.net/alneenqid6w5/1NeUT54hSBqEUuIVNbunfv/92ae172c1867401e23b07a5fa55ff1be/espanhol.jpg)
+![perfil-de-acesso-gdpr](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/security/store-security/eliminacion-de-los-datos-de-clientes_1.jpg)
 
 Luego, asigna este rol al usuario que será responsable de la solicitud de eliminación de datos de clientes.
 
@@ -57,7 +55,7 @@ Con los datos verificados y el perfil configurado, sigue estos pasos para abrir 
 1. Inicia sesión en el Admin VTEX con un usuario que tenga el rol **Ley General de Protección de Datos**.
 2. Haz clic en el botón **Copilot** en la esquina superior derecha.
 3. Envía el siguiente mensaje: `Quiero eliminar un usuario de la plataforma VTEX`.
-    ![copilot-excluir-cliente-es](//images.ctfassets.net/alneenqid6w5/5aGO3gtV9mrRB9FK5F2Tmq/8824adc8706ec3444bb77c2b07a89dfb/copilot-excluir-cliente-es.gif)   
+    ![copilot-excluir-cliente-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/security/store-security/eliminacion-de-los-datos-de-clientes_2.gif)   
 4. Cuando se solicite, ingresa el email del usuario que deseas eliminar. No es posible eliminar los datos de más de un cliente por ticket; proporciona únicamente el email de un comprador por solicitud.
 
 Después de esta etapa, el ticket se enviará al Soporte VTEX, y recibirás el ID del ticket para seguimiento.

@@ -15,13 +15,9 @@ locale: pt
 subcategoryId: 13sVE3TApOK1C8jMVLTJRh
 ---
 
-<div class = "alert alert-info">
-Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com <a href= "https://help.vtex.com/pt/support">nosso Suporte</a>.
-</div>
+> ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com <a href= "https://help.vtex.com/pt/support">nosso Suporte</a>.
 
-<div class="alert alert-warning">
-O requisito para usar a funcionalidade é ter <a href="https://help.vtex.com/pt/tutorial/o-que-e-conta-franquia--kWQC6RkFSCUFGgY5gSjdl">contas franquia</a> associadas à <a href="https://help.vtex.com/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#tipos-de-conta-na-vtex">conta principal</a>.
-</div>
+> ⚠️ O requisito para usar a funcionalidade é ter [contas franquia](https://help.vtex.com/pt/tutorial/o-que-e-conta-franquia--kWQC6RkFSCUFGgY5gSjdl) associadas à [conta principal](https://help.vtex.com/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#tipos-de-conta-na-vtex).
 
 O módulo **Capacidade operacional (Beta)** permite que você gerencie a capacidade dos sellers de receberem e prepararem os pedidos da loja, de forma a otimizar sua malha logística. Você acompanha a distribuição de pedidos entre os sellers e pode realizar [ações](#acoes-na-pagina-de-detalhes-da-capacidade-do-seller) para melhorar a distribuição dos pedidos entre eles. 
 
@@ -41,16 +37,12 @@ Este artigo orienta como utilizar o **Capacidade operacional (Beta)** e está or
 * [Escolher entre editar capacidade operacional do seller, torná-la ilimitada ou pausar seller ou desabilitar módulo](#escolher-entre-editar-capacidade-operacional-do-seller-torna-la-ilimitada-ou-pausar-seller-ou-desabilitar-modulo)
 * [Desabilitar módulo Capacidade operacional (Beta)](#desabilitar-modulo-capacidade-operacional-beta)
 
-<div class = "alert alert-info">
-Para ser capaz de habilitar e gerenciar o <b>Capacidade operacional (Beta)</b>, o seu <a href="https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc">perfil de acesso</a> no Admin VTEX deve estar associado ao <a href="https://help.vtex.com/pt/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3">recurso do License Manager</a> chamado <i>Logistics full access</i>.
-</div>
+> ℹ️ Para ser capaz de habilitar e gerenciar o **Capacidade operacional (Beta)**, o seu [perfil de acesso](https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) no Admin VTEX deve estar associado ao [recurso do License Manager](https://help.vtex.com/pt/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3) chamado *Logistics full access*.
 
 ## Habilitar módulo Capacidade operacional (Beta)
 Para começar a usar a funcionalidade, é preciso habilitar o Capacidade operacional (Beta) pelo Admin VTEX. Quando não habilitado, o módulo não gera efeitos e não permite realizar o gerenciamento da capacidade dos sellers.
 
-<div class="alert alert-warning">
-Antes de habilitar o módulo, recomendamos que você configure a capacidade operacional dos seus sellers. Assim, antes que a funcionalidade produza efeitos, você terá a visibilidade prévia de como a capacidade de cada seller é consumida e poderá ajustar suas configurações conforme as demandas da sua operação.
-</div>
+> ⚠️ Antes de habilitar o módulo, recomendamos que você configure a capacidade operacional dos seus sellers. Assim, antes que a funcionalidade produza efeitos, você terá a visibilidade prévia de como a capacidade de cada seller é consumida e poderá ajustar suas configurações conforme as demandas da sua operação.
 
 Para habilitar o módulo **Capacidade operacional (Beta)**, siga os passos abaixo:
 
@@ -64,11 +56,9 @@ Caso deseje interromper o uso da funcionalidade, você pode [desabilitar o Capac
 
 Ao acessar no Admin VTEX **Envio > Capacidade operacional**, ou digitar **Capacidade operacional** na barra de busca, você encontra uma página como a imagem abaixo:
 
-![operational_capacity_image_1_PT](//images.ctfassets.net/alneenqid6w5/opN2M1DYrc69GY2OZQMkB/6751a6db9608bd409a0c6a983647fb1a/operational_capacity_image_1_PT.png)
+![operational_capacity_image_1_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/shipping-beta/capacidade-operacional-beta_1.png)
 
-<div class="alert alert-warning">
-Os sellers que aparecem na interface são os sellers da sua operação, e eles são previamente configurados pela nossa equipe. Para acrescentar um novo seller, entre em contato com <a href="https://support.vtex.com/hc/pt-br/requests">nosso Suporte</a>.
-</div>
+> ⚠️ Os sellers que aparecem na interface são os sellers da sua operação, e eles são previamente configurados pela nossa equipe. Para acrescentar um novo seller, entre em contato com [nosso Suporte](https://support.vtex.com/hc/pt-br/requests).
 
 O gráfico apresenta os dados abaixo:
 
@@ -82,8 +72,8 @@ A página **Capacidade operacional (Beta)** apresenta as seguintes informações
 | **Coluna** | **Descrição** |
 |:---:|:---|
 | Seller | Identificação do [seller](https://help.vtex.com/pt/tutorial/o-que-e-um-seller--5FkLvhZ3Few4CWWIuYOK2w) a que se refere a capacidade operacional. |
-| Capacidade utilizada | <p>Porcentagem da capacidade operacional do seller que foi utilizada no dia.</p><p><b>Exemplo:</b> um seller com capacidade para preparar 100 pedidos diários está com 80% de sua capacidade do dia utilizada. Portanto, ele só pode receber 20 novos pedidos naquele dia.</p><p>Nesta coluna, aparece um ícone de alerta quando 100% da capacidade do seller é atingida e ele não pode receber novos pedidos no dia.</p><p>Você pode <a href="#editar-capacidade-operacional-do-seller">editar a capacidade operacional dos sellers</a> de forma individual ou massiva.</p> |
-| Status | <p>Status da capacidade operacional do seller, que pode ser de dois tipos:</p><p><ul><li><i class="fas fa-toggle-on" aria-hidden="true"></i> <b>Ativo:</b> o toggle está acionado e o seller pode receber novos pedidos, seja por estar dentro do limite da capacidade que foi configurado, seja por ser um seller de capacidade ilimitada.</li><li><i class="fas fa-toggle-off"></i> <b>Pausado:</b> o toggle está desativado e o seller não pode receber novos pedidos.</li></p><p>Para escolher quando pausar um seller, veja a seção <a href="#escolher-entre-editar-capacidade-operacional-do-seller-torna-la-ilimitada-ou-pausar-seller-ou-desabilitar-modulo">Escolher entre editar capacidade operacional do seller, torná-la ilimitada ou pausar seller</a>.</p> |
+| Capacidade utilizada | Porcentagem da capacidade operacional do seller que foi utilizada no dia.**Exemplo:** um seller com capacidade para preparar 100 pedidos diários está com 80% de sua capacidade do dia utilizada. Portanto, ele só pode receber 20 novos pedidos naquele dia.Nesta coluna, aparece um ícone de alerta quando 100% da capacidade do seller é atingida e ele não pode receber novos pedidos no dia.Você pode [editar a capacidade operacional dos sellers](#editar-capacidade-operacional-do-seller) de forma individual ou massiva. |
+| Status | Status da capacidade operacional do seller, que pode ser de dois tipos:<ul><li><i class="fas fa-toggle-on" aria-hidden="true"></i> **Ativo:** o toggle está acionado e o seller pode receber novos pedidos, seja por estar dentro do limite da capacidade que foi configurado, seja por ser um seller de capacidade ilimitada.</li><li><i class="fas fa-toggle-off"></i> **Pausado:** o toggle está desativado e o seller não pode receber novos pedidos.</li>Para escolher quando pausar um seller, veja a seção [Escolher entre editar capacidade operacional do seller, torná-la ilimitada ou pausar seller](#escolher-entre-editar-capacidade-operacional-do-seller-torna-la-ilimitada-ou-pausar-seller-ou-desabilitar-modulo). |
 
 Quando você clica em um seller, você é redirecionado para a [página de detalhes da capacidade do seller](#acoes-na-pagina-de-detalhes-da-capacidade-do-seller), que será visto adiante.
 
@@ -100,9 +90,7 @@ No Admin VTEX, na página **Envio > Capacidade operacional**, você pode realiza
 
 Utilizando a barra de busca, você pode usar o nome do seller para encontrá-lo.
 
-<div class = "alert alert-info">
-É possível associar a busca de sellers com o <a href="https://help.vtex.com/pt/tutorial/capacidade-operacional-beta--2thSYLMAS8KAd8V4XuBLSy#filtrar-sellers">filtro por status</a>. Caso os resultados da sua busca retornem vazios, observe se não há um filtro ativo.
-</div>
+> ℹ️ É possível associar a busca de sellers com o [filtro por status](https://help.vtex.com/pt/tutorial/capacidade-operacional-beta--2thSYLMAS8KAd8V4XuBLSy#filtrar-sellers). Caso os resultados da sua busca retornem vazios, observe se não há um filtro ativo.
 
 ### Filtrar sellers
 
@@ -134,9 +122,7 @@ A capacidade operacional do seller pode ser contabilizada em número de pedidos 
     * **Quantidade de itens:** a capacidade operacional do seller será contada por número de itens do pedido.
 5. Clique em `Salvar alterações`.
 
-<div class="alert alert-warning">
-A plataforma tem algumas restrições com relação a <a href="https://help.vtex.com/pt/tutorial/seller-abrangente--5Qn4O2GpjUIzWTPpvLUfkI">sellers abrangentes</a>, saiba mais na seção <a href="https://help.vtex.com/pt/tutorial/capacidade-operacional-beta--2thSYLMAS8KAd8V4XuBLSy#capacidade-operacional-de-seller-abrangente">Comportamento de sellers abrangentes</a>.
-</div>
+> ⚠️ A plataforma tem algumas restrições com relação a [sellers abrangentes](https://help.vtex.com/pt/tutorial/seller-abrangente--5Qn4O2GpjUIzWTPpvLUfkI), saiba mais na seção [Comportamento de sellers abrangentes](https://help.vtex.com/pt/tutorial/capacidade-operacional-beta--2thSYLMAS8KAd8V4XuBLSy#capacidade-operacional-de-seller-abrangente).
 
 ## Ações na página de detalhes da capacidade do seller
 
@@ -155,15 +141,13 @@ No topo direito da página de detalhes do seller, existe um toggle para ativar o
 * **Ativar:** habilite o toggle para `Ativo` e clique em `Ativar`.
 * **Desativar:** desabilite o toggle para `Pausado` e clique em `Pausar`.
 
-<div class="alert alert-warning">
-A plataforma tem algumas restrições com relação a <a href="https://help.vtex.com/pt/tutorial/seller-abrangente--5Qn4O2GpjUIzWTPpvLUfkI">sellers abrangentes</a>, saiba mais na seção <a href="#comportamento-de-sellers-abrangentes">Comportamento de sellers abrangentes</a>.
-</div>
+> ⚠️ A plataforma tem algumas restrições com relação a [sellers abrangentes](https://help.vtex.com/pt/tutorial/seller-abrangente--5Qn4O2GpjUIzWTPpvLUfkI), saiba mais na seção [Comportamento de sellers abrangentes](#comportamento-de-sellers-abrangentes).
 
 ### Acompanhar capacidade utilizada
 
 O gráfico **Status da capacidade operacional** apresenta, em tempo real, a porcentagem da capacidade do seller que já foi consumida no dia atual e nos próximos três dias, como na imagem a seguir: 
 
-![operational_capacity_image_2_PT](//images.ctfassets.net/alneenqid6w5/5jW4EqujiAVrWvAThX4i2I/26235ad45e2b5baea04ae37a03718798/operational_capacity_image_2_PT.png)
+![operational_capacity_image_2_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/shipping-beta/capacidade-operacional-beta_2.png)
 
 Se você configurar no seller a [regra](#iii-regra) _Continuar a receber pedidos consumindo a capacidade dos dias seguintes_, o gráfico vai apresentar a porcentagem da capacidade operacional dos dias seguintes que já foi consumida a partir de pedidos de dias anteriores. Saiba mais em [Editar capacidade operacional do seller](#editar-capacidade-operacional-do-seller).
 
@@ -210,9 +194,7 @@ Para configurar a capacidade ilimitada do seller, siga os passos abaixo:
 2. Clique em `Tornar a capacidade ilimitada`. 
 3. Clique em `Continuar`.
 
-<div class = "alert alert-info">
-A capacidade ilimitada do seller é o comportamento padrão de sellers para lojas que não utilizam o <b>Capacidade operacional (Beta)</b>. Quando o seller é configurado com capacidade ilimitada, o módulo não computa o consumo da sua capacidade operacional.
-</div>
+> ℹ️ A capacidade ilimitada do seller é o comportamento padrão de sellers para lojas que não utilizam o **Capacidade operacional (Beta)**. Quando o seller é configurado com capacidade ilimitada, o módulo não computa o consumo da sua capacidade operacional.
 
 Para saber quando é melhor escolher cada estratégia, veja a seção [Escolher entre editar capacidade operacional do seller, torná-la ilimitada ou pausar seller](#escolher-entre-editar-capacidade-operacional-do-seller-torna-la-ilimitada-ou-pausar-seller-ou-desabilitar-modulo).
 
@@ -254,6 +236,4 @@ Para desabilitar o módulo Capacidade operacional (Beta), siga os passos abaixo:
 2. No menu no topo direito da página, clique em `Desabilitar módulo`. 
 3. No modal, clique em `Desabilitar`.
 
-<div class="alert alert-warning">
-  A qualquer momento, você pode <a href="https://help.vtex.com/pt/tutorial/operational-capacity-beta--2thSYLMAS8KAd8V4XuBLSy#habilitar-modulo-capacidade-operacional-beta">habilitar o módulo Capacidade operacional (Beta)</a> para gerenciar a capacidade dos seus sellers. 
-</div>
+> ⚠️ A qualquer momento, você pode [habilitar o módulo Capacidade operacional (Beta)](https://help.vtex.com/pt/tutorial/operational-capacity-beta--2thSYLMAS8KAd8V4XuBLSy#habilitar-modulo-capacidade-operacional-beta) para gerenciar a capacidade dos seus sellers.

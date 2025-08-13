@@ -22,9 +22,7 @@ La exportación de datos en lote de los registros en Master Data v1 puede hacer
 
 Este documento tiene por objeto demostrar el paso a paso necesario para la __exportación de datos por informe__.
 
-<div class="alert alert-warning">
-  <p>La operación de exportación de datos del Master Data no es inmediata, y su tiempo de ejecución depende de la cantidad de datos en el Master Data. Por lo tanto, en tiendas con muchos datos y con una alta frecuencia de actualización, el archivo exportado puede quedar desfasado con relación a los nuevos datos. Si esto ocurre, la solución es volver a exportar los datos, preferiblemente en un momento en el que no se estén produciendo muchas actualizaciones (por ejemplo, fuera del horario comercial o en los fines de semana).</p>
-</div>
+> ⚠️ La operación de exportación de datos del Master Data no es inmediata, y su tiempo de ejecución depende de la cantidad de datos en el Master Data. Por lo tanto, en tiendas con muchos datos y con una alta frecuencia de actualización, el archivo exportado puede quedar desfasado con relación a los nuevos datos. Si esto ocurre, la solución es volver a exportar los datos, preferiblemente en un momento en el que no se estén produciendo muchas actualizaciones (por ejemplo, fuera del horario comercial o en los fines de semana).
 
 ## Exportar informe con datos de Master Data v1
 

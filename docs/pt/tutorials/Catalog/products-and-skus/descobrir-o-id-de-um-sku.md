@@ -25,7 +25,7 @@ Para descobrir o ID de um SKU, siga os passos abaixo:
 
 No exemplo abaixo, o produto "Camiseta Corebiz Preta" está associado ao SKU "Camiseta Preta Unisex", e o ID do SKU é `310119261`:
 
-![finding_sku_id_PT](//images.ctfassets.net/alneenqid6w5/3MlMkBI75SP7R5Arj2n8ke/69cd4a04d5f3c31d19a2a18ba19fed91/finding_sku_id_PT.png)
+![finding_sku_id_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Catalog/products-and-skus/descobrir-o-id-de-um-sku_1.png)
 
 ## Identificar ID do SKU pela URL
 
@@ -35,7 +35,5 @@ Quando você clica em um SKU e acessa sua [página de edição](https://help.vte
 
 A sequência numérica que aparece ao final da URL corresponde ao ID do SKU.
 
-<div class = "alert alert-info">
-  <p>Para descobrir o ID de SKUs pela <b>Catalog API</b>, utilize o endpoint <a href="https://developers.vtex.com/docs/api-reference/catalog-api#get-/api/catalog_system/pvt/sku/stockkeepingunitids">List all SKU IDs</a>.</p>
-</div>
+> ℹ️ Para descobrir o ID de SKUs pela **Catalog API**, utilize o endpoint [List all SKU IDs](https://developers.vtex.com/docs/api-reference/catalog-api#get-/api/catalog_system/pvt/sku/stockkeepingunitids).
 

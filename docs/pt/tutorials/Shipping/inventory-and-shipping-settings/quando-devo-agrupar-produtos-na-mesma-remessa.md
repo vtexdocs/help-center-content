@@ -23,9 +23,7 @@ Remessa é o nome dado ao conjunto de pacotes que será enviado ao __mesmo temp
 
 Esta é uma pratica válida, por exemplo, no caso de transportadoras como os Correios, em que para cada entrega é necessário a nota fiscal, que muitas vezes é a mesma para vários itens, ou em um cenário que o lojista possua estoques fisicamente distantes, mas que compartilhem da mesma doca.
 
-<div class="alert alert-warning">
-Os grupos de remessa são criados pela somatória do tempo de custo do Estoque até a Doca e do tempo de custo da Doca.
-</div>
+> ⚠️ Os grupos de remessa são criados pela somatória do tempo de custo do Estoque até a Doca e do tempo de custo da Doca.
 
 ### Artigos relacionados
 - [Configurar remessa](/pt/tutorial/como-funciona-a-remessa)

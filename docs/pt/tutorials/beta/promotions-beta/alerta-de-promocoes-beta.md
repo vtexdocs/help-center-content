@@ -15,9 +15,7 @@ locale: pt
 subcategoryId: 6iTRZiMeCGXYiO2ckABFZi
 ---
 
-<div class = "alert alert-info">
-Este módulo está em fase Beta, o que significa que estamos trabalhando para aprimorá-lo. Em caso de dúvidas, entre em contato com <a href="https://support.vtex.com/hc/pt-br/requests">nosso Suporte</a>.
-</div>
+> ℹ️ Este módulo está em fase Beta, o que significa que estamos trabalhando para aprimorá-lo. Em caso de dúvidas, entre em contato com [nosso Suporte](https://support.vtex.com/hc/pt-br/requests).
 
 Criar promoções é uma boa estratégia para atrair mais compradores para o ecommerce. Ao configurá-las, é fundamental ter atenção para que os descontos aplicados resultem nos efeitos esperados, pois erros durante o cadastro de promoções podem causar perdas de receita.
 
@@ -29,7 +27,7 @@ Se você configurar apenas a ação de alerta por email, outros pedidos com o de
 
 Para acessar a página no Admin VTEX, acesse *Promoções > Alerta de promoções*. A seguinte interface vai aparecer:
 
-![simuladordepromocoes gerenciar](//images.ctfassets.net/alneenqid6w5/4E0oZf13zNjKgj5MNRYiuf/94c9af89ae0bad5601b316dfc73a6caf/simuladordepromocoes_gerenciar.gif)
+![simuladordepromocoes gerenciar](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/promotions-beta/alerta-de-promocoes-beta_1.gif)
 
 A tabela a seguir apresenta a descrição das colunas da listagem de promoções:
 
@@ -38,7 +36,7 @@ A tabela a seguir apresenta a descrição das colunas da listagem de promoções
 | Nome | Nome do alerta de promoção. |
 | Alerta | Condição determinada para que o alerta seja emitido. |
 | Ação preventiva | Ações que serão executadas quando o alerta for disparado. |
-| Status | Status da promoção, que podem ser: <p><strong> Ativo:</strong> quando o alerta está ativado. </p> <p> <strong>Inativo:</strong> quando o alerta está desativado. </p> |
+| Status | Status da promoção, que podem ser: ** Ativo:** quando o alerta está ativado.   **Inativo:** quando o alerta está desativado.  |
 
 A página Alerta de promoções permite realizar as seguintes ações:
 

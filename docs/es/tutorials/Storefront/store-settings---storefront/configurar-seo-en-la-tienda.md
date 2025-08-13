@@ -35,7 +35,7 @@ En todas las tiendas VTEX IO se pueden configurar estos parámetros de forma nat
   - **Metatag de descripción**: ingresa una descripción breve del contenido de la página que sea informativa y contenga palabras clave relevantes.
   - **Metatag robots**: define cómo los motores de búsqueda deben rastrear e indexar una página específica. Los valores predeterminados son `index, follow`. Para ver los otros valores compatibles con Google, consulta la [lista de reglas válidas](https://developers.google.com/search/docs/crawling-indexing/robots-meta-tag?hl=es-419#directives).
 
-  ![seo-es](//images.ctfassets.net/alneenqid6w5/4JajNswh0yiVmfWvsPWbEa/614ecc04bb0994fbab579bc917aeaafa/seo-es.png)
+  ![seo-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Storefront/store-settings---storefront/configurar-seo-en-la-tienda_1.png)
 
 #### Faviconos
 
@@ -43,7 +43,7 @@ En todas las tiendas VTEX IO se pueden configurar estos parámetros de forma nat
 2. Haz clic en la pestaña **General**.
 3. Haz clic en **Agregar**.
 
-  ![favicon-es](//images.ctfassets.net/alneenqid6w5/3NtSCr6cKVn7dDqsXn8jBN/1befbd1af3f398f6ef7d7bc575f32f5b/favicons-es.png)
+  ![favicon-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Storefront/store-settings---storefront/configurar-seo-en-la-tienda_2.png)
 
 4. Rellena la pantalla que se abre según se describe a continuación:
 
@@ -54,9 +54,9 @@ En todas las tiendas VTEX IO se pueden configurar estos parámetros de forma nat
 
     A continuación se muestra un ejemplo:
 
-    ![relacao-favicon-es](//images.ctfassets.net/alneenqid6w5/4gJkfubRqf9lhtRiryrMMA/a400fa8cb893d6012d400210198b3963/relacao-favicon-es.png)
+    ![relacao-favicon-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Storefront/store-settings---storefront/configurar-seo-en-la-tienda_3.png)
 
 5. Haz clic en **Aplicar** para que la configuración se refleje en tu tienda. Esto puede demorar unos minutos.
 
-<div style="background-color:#DBEAFE; border-left: 2px solid ##1E3A8A; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px; margin-bottom: 10px">El campo <strong>Ruta del término de búsqueda</strong> es un ajuste heredado que era compatible con <code>vtex.search-resolver@0.x</code>.
+<div style="background-color:#DBEAFE; border-left: 2px solid ##1E3A8A; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px; margin-bottom: 10px">El campo **Ruta del término de búsqueda** es un ajuste heredado que era compatible con `vtex.search-resolver@0.x`.
 </div>

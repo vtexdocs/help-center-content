@@ -28,6 +28,4 @@ A seguir, confira o passo a passo para realizar esta operação:
 
 Em seguida, confira a caixa de entrada do email selecionado. Caso a operação tenha funcionado, o usuário terá recebido um email com um link para baixar a planilha completa.
 
-<div class="alert alert-warning">
-O comando só funciona adequadamente em casos de até 10 mil produtos. Caso o valor requerido seja maior que esse limite, o sistema não envia a planilha para o email. Use os filtros para refinar sua busca.
-</div>
+> ⚠️ O comando só funciona adequadamente em casos de até 10 mil produtos. Caso o valor requerido seja maior que esse limite, o sistema não envia a planilha para o email. Use os filtros para refinar sua busca.

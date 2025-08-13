@@ -17,7 +17,7 @@ subcategoryId: 22TaEgFhwE6a6CG2KASYkC
 
 The VTEX Agreement, or Commercial Agreement, consists of two parts: the [MSA (Master Service Agreement)](https://vtex.com/us-en/privacy-and-agreements/agreements/) and the **Appendix 1 Order** Form for the provision of services to companies, or the [MPA (Master Partner Agreement)](https://vtex.com/us-en/privacy-and-agreements/agreements/#:~:text=Master%20Services%20Agreement,Partner%20Agreement) and the **specific Terms and Conditions tailored for the partnership**.
 
-![VTEX Agreement](//images.ctfassets.net/alneenqid6w5/3PQyLQGwJQ4iS28cP5C4Bf/0927a3945c933046bc6eae8ba1fd0ced/En.png)
+![VTEX Agreement](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Billing/Contracts/vtex-agreement_1.png)
 
 The [Master Service Agreement](https://vtex.com/us-en/privacy-and-agreements/agreements/) and the [Master Partner Agreement](https://vtex.com/us-en/privacy-and-agreements/agreements/#:~:text=Master%20Services%20Agreement,Partner%20Agreement) are the main service and partnership agreements, respectively. They regulate the relationship between VTEX and its customers or partners. Both vary based on the region in which the company or partner is located.
 
@@ -29,6 +29,4 @@ The Master Agreement applicable to you is available under **Privacy Policy > Pri
 
 You can also find the most updated Master Agreements — the ones applicable to new clients and partners — on the [VTEX Agreement](https://vtex.com/br-pt/privacy-and-agreements/agreements/) page.
 
-<div class="alert alert-info">
-  If the <b>MSA, MPA, Appendix 1,</b> or <b>partnership-specific Terms and Conditions</b> signed with VTEX contain any information different from the one described in this documentation, prioritize your document signed with VTEX.
-  </div>
+> ℹ️ If the **MSA, MPA, Appendix 1,** or **partnership-specific Terms and Conditions** signed with VTEX contain any information different from the one described in this documentation, prioritize your document signed with VTEX.

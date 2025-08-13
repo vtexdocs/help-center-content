@@ -29,9 +29,7 @@ Também é possível [criar seu próprio template de email](https://help.vtex.co
 
 ## Como seu cliente acompanha seus pedidos de assinatura
 
-<div class = "alert alert-info">
-Em <a href="https://help.vtex.com/es/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh">Minha Conta</a>, os clientes conseguem acessar somente os seus pedidos criados nos últimos dois anos.
-</div>
+> ℹ️ Em [Minha Conta](https://help.vtex.com/es/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh), os clientes conseguem acessar somente os seus pedidos criados nos últimos dois anos.
 
 Cada ação ocorrida dentro do fluxo de pedidos de **Assinaturas** contém um gatilho que dispara um email notificando o seu cliente. Após a ativação da assinatura, o cliente receberá emails com detalhes do estado de cada pedido da assinatura toda vez que realizar uma ação. 
 
@@ -52,7 +50,7 @@ A tabela a seguir apresenta os templates de email padrão para **Assinaturas**:
 | Paused subscription | `paused-subscription` | Assinatura pausada. |
 | Canceled Subscription | `canceled-subscription` | Assinatura cancelada com sucesso. |
 | Expired Subscription | `expired-subscription` | Período de assinatura expirado. |
-| New Subscription | `new-subscription` | <p>Assinatura criada com sucesso.<br><br><div class="alert alert-info">Existe um período de tempo entre a criação da assinatura e o disparo da notificação do template `new-subscription`.</div></p> |
+| New Subscription | `new-subscription` | Assinatura criada com sucesso.<br><br>> ℹ️ Existe um período de tempo entre a criação da assinatura e o disparo da notificação do template `new-subscription`. |
 | Next Subscription Order Reminder | `next-subscription-order-reminder` | Lembrete que a data da próxima compra do pedido de assinatura será em dois dias. |
 | Payment not approved | `payment-not-approved` | Pagamento não aprovado do pedido de assinatura. |
 | Reactivated Subscription | `reactivated-subscription` | Assinatura reativada. |

@@ -19,9 +19,7 @@ __Device Fingerprint__ é um identificador que atua no processamento de um pagam
 
 Por meio da coleta de dados não sensíveis, o Device Fingerprint identifica e analisa o nível de segurança do dispositivo utilizado para realizar a transação, bem como as transações que anteriormente foram realizadas com este mesmo dispositivo.
 
-<div class="alert alert-info">
-Cada loja deve ter somente um Device Fingerprint cadastrado. Verifique se você já efetuou o cadastro do Device Fingerprint em outro conector, antes de continuar os passos abaixo.
-</div>
+> ℹ️ Cada loja deve ter somente um Device Fingerprint cadastrado. Verifique se você já efetuou o cadastro do Device Fingerprint em outro conector, antes de continuar os passos abaixo.
 
 Neste artigo, explicaremos como associar o recurso Device Fingerprint à afiliação Mercado Pago.
 
@@ -48,7 +46,7 @@ console.log("MP-deviceId 2020 " + script.getAttribute("output").value );
 
 ```
 <ui>
-  7. Clique em <b>Salvar</b> para que o código seja aplicado ao checkout.
+  7. Clique em **Salvar** para que o código seja aplicado ao checkout.
 </ui>
 
 Ao finalizar essas configurações, o Device Fingerprint do Mercado Pago estará instalado na sua loja.
@@ -63,16 +61,16 @@ Para garantir o funcionamento deste recurso, é preciso analisar os detalhes de 
 4. Na página seguinte, clique em __+Informações__.
 5. Ao clicar em __+Informações__, busque pelo campo __deviceFingerprint__ e confira se o código disponível inicia com a palavra __armor__, conforme exemplo abaixo. 
 
-![Device Fingerprint Armor](https://images.contentful.com/alneenqid6w5/2py5aLnSL2AZD9U29Bj9Nw/a16e2a10a8bbe0d6ae256267baeb92cc/DEVICEFINGERPRINTARMOR.png)
+![Device Fingerprint Armor](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/uncategorized/unknown-subcategory/configurar-device-fingerprint-do-mercado-pago_1.png)
 
 <ui>
-6. Ao confirmar que as informações estão corretas, a etapa final para verificação do Device Fingerprint é o envio do ID da transação para a equipe do Mercado Pago. Esse ID pode ser encontrado no campo, <b>authorizationConnectorResponse</b>, no detalhe da transação.
+6. Ao confirmar que as informações estão corretas, a etapa final para verificação do Device Fingerprint é o envio do ID da transação para a equipe do Mercado Pago. Esse ID pode ser encontrado no campo, **authorizationConnectorResponse**, no detalhe da transação.
 </ui>
 
-![Autorização](https://images.contentful.com/alneenqid6w5/5FTRfpgGc7HJZUNaZicEb4/e103a0d75ecc17f79510e0f9b32c1b49/AUTHORIZATION.png)
+![Autorização](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/uncategorized/unknown-subcategory/configurar-device-fingerprint-do-mercado-pago_2.png)
 
 <ui>
-7. Copie o ID e <a href="https://www.mercadopago.com.br/developers/pt/support">encaminhe um e-mail</a> para o Mercado Pago com esta informação e solicite a validação da transação. Dessa forma, a equipe do Mercado Pago poderá avaliar se o Device Fingerprint está operando corretamente.
+7. Copie o ID e [encaminhe um e-mail](https://www.mercadopago.com.br/developers/pt/support) para o Mercado Pago com esta informação e solicite a validação da transação. Dessa forma, a equipe do Mercado Pago poderá avaliar se o Device Fingerprint está operando corretamente.
 </ui>
 
 Assim que receber o retorno do Mercado Pago, o Device Fingerprint estará instalado e pronto para ser utilizado em sua loja.

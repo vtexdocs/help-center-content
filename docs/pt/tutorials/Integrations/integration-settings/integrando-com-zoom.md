@@ -33,9 +33,7 @@ Para integrar com o Zoom, é necessário realizar as seguintes etapas:
 - [Configurar conector](#configurar-conector)
 - [Reindexar base](#reindexar-base)
 
-<div class="alert alert-info">
-Se for do seu interesse consultar a documentação do Zoom, faça o <a href="https://drive.google.com/uc?export=download&id=1hZzqJgyQtozHNJKGBgDZiu6_5eKtHaU5">download do arquivo Integração VTEX.pdf</a>. Em caso de dúvidas, você pode entrar em contato com o Zoom pelo email <i/>integracao@zoom.com.br</i>. 
-</div>
+> ℹ️ Se for do seu interesse consultar a documentação do Zoom, faça o [download do arquivo Integração VTEX.pdf](https://drive.google.com/uc?export=download&id=1hZzqJgyQtozHNJKGBgDZiu6_5eKtHaU5). Em caso de dúvidas, você pode entrar em contato com o Zoom pelo email <i/>integracao@zoom.com.br</i>.
 
 ### Configurar perfil de acesso
 
@@ -67,9 +65,7 @@ Só será necessário ter uma política comercial diferente daquela utilizada na
 
 A contratação de política comercial adicional para integrar com [conector nativo](https://help.vtex.com/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-a-conector-nativo-vtex), [conector certificado (parceiro)](https://help.vtex.com/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-a-conector-certificado-parceiro) ou outras lojas VTEX é isenta de taxas.
 
-<div class="alert alert-danger">
-Caso seja feita alguma alteração na sua política comercial, o Zoom deverá ser avisado. Você pode entrar em contato pelo email <i/>integracao@zoom.com.br</i>.
-</div>
+> ❗ Caso seja feita alguma alteração na sua política comercial, o Zoom deverá ser avisado. Você pode entrar em contato pelo email <i/>integracao@zoom.com.br</i>.
 
 ### Criar ID do afiliado
 
@@ -126,6 +122,4 @@ Uma vez que todas as etapas das [Configurações na plataforma VTEX](#configurac
    - **Dados bancários:** conta para a qual deve ser feito o repasse de vendas.
    - **Logotipo da sua loja:** a imagem deve ter alta resolução e, preferencialmente, ser em formato .png.
 
-<div class="alert alert-info">
-Você pode consultar a documentação do Zoom sobre a integração, para isso faça o <a href="https://drive.google.com/uc?export=download&id=1hZzqJgyQtozHNJKGBgDZiu6_5eKtHaU5">download do arquivo Integração VTEX.pdf</a>. Em caso de dúvidas, entre em contato com o Zoom pelo email <i/>integracao@zoom.com.br</i>.
-</div>
+> ℹ️ Você pode consultar a documentação do Zoom sobre a integração, para isso faça o [download do arquivo Integração VTEX.pdf](https://drive.google.com/uc?export=download&id=1hZzqJgyQtozHNJKGBgDZiu6_5eKtHaU5). Em caso de dúvidas, entre em contato com o Zoom pelo email <i/>integracao@zoom.com.br</i>.

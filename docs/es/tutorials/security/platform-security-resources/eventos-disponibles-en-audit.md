@@ -40,13 +40,9 @@ A continuación, verás la lista de posibles eventos disponibles en [Audit] (htt
 * [Ad Network](#ad-network)
 * [Tokens de tarjeta](#tokens-de-tarjeta)
 
-<div class = "alert alert-info">
-Si, en Audit, ves algún evento no incluido en esta lista, por favor, envíanos más información a través de la <a href="https://docs.google.com/forms/d/e/1FAIpQLSfmnotPvPjw-SjiE7lt2Nt3RQgNUe10ixXZmuO2v9enOJReoQ/viewform">página de feedback sobre documentación</a>.
-</div>
+> ℹ️ Si, en Audit, ves algún evento no incluido en esta lista, por favor, envíanos más información a través de la [página de feedback sobre documentación](https://docs.google.com/forms/d/e/1FAIpQLSfmnotPvPjw-SjiE7lt2Nt3RQgNUe10ixXZmuO2v9enOJReoQ/viewform).
 
-<div class="alert alert-warning">
-En el módulo Audit, al hacer clic en los filtros de auditoría puedes encontrar <strong>Opciones de envío</strong>, <strong>Profile System</strong> y <strong>Billing</strong>, además de otras aplicaciones citadas a continuación. Estas opciónes se refieren a recursos internos o funcionalidades en beta cerrada, por lo que la mayoría de las cuentas no tendrán eventos asociados.
-</div>
+> ⚠️ En el módulo Audit, al hacer clic en los filtros de auditoría puedes encontrar **Opciones de envío**, **Profile System** y **Billing**, además de otras aplicaciones citadas a continuación. Estas opciónes se refieren a recursos internos o funcionalidades en beta cerrada, por lo que la mayoría de las cuentas no tendrán eventos asociados.
 
 ## OMS
 

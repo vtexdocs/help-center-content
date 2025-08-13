@@ -23,6 +23,4 @@ Estas informações ficam salvas no perfil do cliente e são exibidas no boleto 
 
 Por conta disso, o login é solicitado tanto no momento da __escolha do boleto registrado como meio de pagamento__ quanto para __baixar o boleto na página de fechamento de compra (order placed)__.
 
-<div class="alert alert-info">
-A autenticação é exigida mesmo na primeira compra. Estamos trabalhando para que a autenticação seja exigida somente em casos de recompra, aonde o usuário está com os dados mascarados (pois ainda não passou pelo processo de identificação).
-</div>
+> ℹ️ A autenticação é exigida mesmo na primeira compra. Estamos trabalhando para que a autenticação seja exigida somente em casos de recompra, aonde o usuário está com os dados mascarados (pois ainda não passou pelo processo de identificação).

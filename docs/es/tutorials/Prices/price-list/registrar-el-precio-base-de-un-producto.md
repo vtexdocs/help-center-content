@@ -15,9 +15,7 @@ locale: es
 subcategoryId: 4id9W3RDyw02CasOm2C2iy
 ---
 
-<div class="alert alert-info">
-Este artículo se refiere a la versión más reciente del VTEX Pricing. Si su tienda todavía no está en esta nueva versión, usted puede solicitar la migración poniéndose en contacto con nuestro equipo de soporte.
-</div>
+> ℹ️ Este artículo se refiere a la versión más reciente del VTEX Pricing. Si su tienda todavía no está en esta nueva versión, usted puede solicitar la migración poniéndose en contacto con nuestro equipo de soporte.
 
 El __precio base__ es el precio básico de venta de un producto. Se compone del __precio de costo__ más el __markup__ deseado en la venta del producto.
 
@@ -30,9 +28,7 @@ Para configurar el precio base, siga los pasos abajo:
 - En el campo __Markup__, rellene el porcentaje del margen de lucro que se obtendrá con la venta del SKU.
 - El precio base de venta se calculará en función de los datos proporcionados en los pasos anteriores.
 
-<div class="alert alert-info">
-Si el SKU tiene algún precio de lista, usted puede añadir esta información haciendo clic en <strong>+ Precio de lista</strong>. Este precio funciona como el "precio de". El precio base funcionará como el "precio por".
-</div>
+> ℹ️ Si el SKU tiene algún precio de lista, usted puede añadir esta información haciendo clic en **+ Precio de lista**. Este precio funciona como el "precio de". El precio base funcionará como el "precio por".
 
 ## Artículos relacionados
 

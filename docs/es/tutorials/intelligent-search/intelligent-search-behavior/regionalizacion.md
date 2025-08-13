@@ -32,9 +32,7 @@ Para empezar a utilizar la Regionalización, sigue los pasos a continuación.
 2. [Solicitud de activación de la Regionalización](#2-solicitud-de-activacion-de-la-regionalizacion)
 3. [Configuración en VTEX IO](#3-configuracion-en-vtex-io)
 
-<div class="alert alert-warning">
-  <p>Aunque las tiendas regionalizadas solo muestran productos disponibles en una determinada región en la página de lista de productos, los filtros no tienen en cuenta la regionalización. Debido a esta limitación, es posible que los clientes de la tienda seleccionen filtros que resulten en productos que no están disponibles en su región.</p>
-</div>
+> ⚠️ Aunque las tiendas regionalizadas solo muestran productos disponibles en una determinada región en la página de lista de productos, los filtros no tienen en cuenta la regionalización. Debido a esta limitación, es posible que los clientes de la tienda seleccionen filtros que resulten en productos que no están disponibles en su región.
 
 ## 1. Configuración de sellers 
 

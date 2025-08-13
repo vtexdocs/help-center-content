@@ -24,7 +24,7 @@ O **Monitoramento de seller** é uma ferramenta do módulo [Gerenciamento de sel
 
 - **Oque está acontecendo**: Aqui você acompanhará os detalhes do resultado da métrica com a visão detalhada da infração que levou o seller ao status de ⚠ **Aceitável** ou ❌ **Insatisfatório**. Épossível filtrar por seller,clicando no botão (colocar o símbolo do botão) e selecionar somente os sellers desejados.
 
-![Monitoramento de seller](//images.ctfassets.net/alneenqid6w5/1a6BgbLPMxQzuSPLFGb7DM/5fa662c273968852081a0ef98f50c95d/monitoramento_de_seller.png)
+![Monitoramento de seller](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Sellers/Management/monitoramento-de-seller_1.png)
 
 Ao clicar no botão **Ver pedidos,** abrirá um pop-up com o **ID do pedido**, **Valor** e o botão **Ver.**
 

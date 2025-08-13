@@ -15,9 +15,7 @@ locale: pt
 subcategoryId: BBzMtJan1UTxC9QZODnlN
 ---
 
-<div class="alert alert-info">
-  <p>Esta funcionalidade está disponível para contas que tenham pelo menos 100 mil buscas mensais para que o modelo de Inteligência Artificial seja treinado. Você pode verificar a quantidade de buscas mensais na sua loja em <em>Storefront > Intelligent Search > Analytics</em> no Admin VTEX e filtrar pelos últimos 30 dias. Caso tenha interesse em implementar Sinônimos Inteligentes, entre em contato com <a href="https://support.vtex.com/hc/pt-br/requests">nosso Suporte</a>. É possível que taxas extras se apliquem futuramente.</p>
-</div>
+> ℹ️ Esta funcionalidade está disponível para contas que tenham pelo menos 100 mil buscas mensais para que o modelo de Inteligência Artificial seja treinado. Você pode verificar a quantidade de buscas mensais na sua loja em *Storefront > Intelligent Search > Analytics* no Admin VTEX e filtrar pelos últimos 30 dias. Caso tenha interesse em implementar Sinônimos Inteligentes, entre em contato com [nosso Suporte](https://support.vtex.com/hc/pt-br/requests). É possível que taxas extras se apliquem futuramente.
 
 A funcionalidade de [Sinônimos](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV) do [VTEX Intelligent Search](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG) permite cadastrar palavras, ou expressões de mesmo sentido, para termos de busca utilizados pelos clientes ao realizar pesquisas na sua loja, aumentando a chance deles obterem resultados relevantes nas buscas.
 
@@ -32,7 +30,7 @@ As sugestões são exibidas em duas categorias na listagem de sinônimos, confor
 * **Novas sugestões:** sugestões geradas pela plataforma que ainda não foram visualizadas.
 * **Sugestões salvas:** sugestões salvas para depois, como descrito no passo 5 da seção [Revisar sugestões](#revisar-sugestoes).
 
-![synonym-suggestion-list-pt](//images.ctfassets.net/alneenqid6w5/YxS5i9kNqByGvZkPXyioK/188a778320a17c36d1af8a39ab15d4f4/synonym-suggestion-list-pt.png)
+![synonym-suggestion-list-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/intelligent-search/synonyms/sinonimos-inteligentes_1.png)
 
 Você pode revisar as sugestões geradas e optar por salvar para depois, recusar, editar ou aprovar. Confira o passo a passo na seção a seguir.
 
@@ -48,7 +46,7 @@ Siga as instruções para visualizar as sugestões de sinônimos e definir se el
 
 4. Você verá um modal com a primeira sugestão de sinônimo. Cada sugestão indica o termo buscado e o termo que será adicionado como sinônimo, bem como a quantidade de vezes em que clientes da sua loja reescreveram o termo original para o segundo termo nos últimos 30 dias.
 
-   ![synonym-suggestion-pt](//images.ctfassets.net/alneenqid6w5/187mlOYBTMHniFVEJGgUP3/f1e5f45d51ed3d98bd1b85e7ddcbed9e/synonym-suggestion-pt.png)
+   ![synonym-suggestion-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/intelligent-search/synonyms/sinonimos-inteligentes_2.png)
 
 5. Para revisar cada sugestão, escolha uma das ações a seguir:
 
@@ -58,9 +56,7 @@ Siga as instruções para visualizar as sugestões de sinônimos e definir se el
     * <i class="fas fa-check-circle"></i> **Aprovar**: aplica e salva a sugestão proposta.
 6. Após revisar todas as sugestões, feche o modal para acessar a listagem de sinônimos configurados na sua loja.
 
-<div class="alert alert-danger">
-  <p>Uma vez que uma ação é realizada, não é possível desfazê-la, pois a próxima sugestão disponível é exibida imediatamente.</p>
-</div>
+> ❗ Uma vez que uma ação é realizada, não é possível desfazê-la, pois a próxima sugestão disponível é exibida imediatamente.
 
 ## Saiba mais
 

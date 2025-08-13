@@ -44,9 +44,7 @@ Para diferenciar productos y/o precios en cada tienda, debes utilizar políticas
 
 Para que los clientes puedan acceder a la nueva tienda, sigue las instrucciones a continuación para crear un sitio web copiando la estructura de carpetas del sitio web principal. Este proceso facilita la creación del layout aunque también tienes la opción de crear un sitio web nuevo.
 
-<div class="alert alert-warning">
-Las tiendas desarrolladas con Store Framework también deben seguir estas instrucciones o la tienda no estará disponible.
-</div>
+> ⚠️ Las tiendas desarrolladas con Store Framework también deben seguir estas instrucciones o la tienda no estará disponible.
 
 1. En el Admin VTEX, accede al módulo **Storefront > Layout**.
 2. Haz clic en **CMS > Sites and channels**.
@@ -57,12 +55,12 @@ Las tiendas desarrolladas con Store Framework también deben seguir estas instru
 7. Haz clic en `Save Website`.
 8. En el campo **Links**, haz clic en `Add`.
 
-    ![cms-layout](//images.ctfassets.net/alneenqid6w5/4bVAAc3Fs8ArVYy1qSCAnX/72ee5c83f3f996278ea29a0b402e0b28/cms-layout.png)
+    ![cms-layout](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/account-management/accounts/gestionar-multitienda_1.png)
 
 9. Rellena el campo **Store name from License Manager** con el valor de la subcuenta creada anteriormente en el módulo [Gestión de la cuenta](#crear-multitienda).
 10. En el campo **Available sales channel**, marca las políticas comerciales que se deben asociar a esta tienda.
 
-    <div class="alert alert-warning">Si la tienda utiliza más de una (1) política comercial, asegúrate de ordenarlas en <strong>Configuración de la tienda > Canales > Políticas comerciales</strong>. Para más información, consulta <a href="https://help.vtex.com/es/tutorial/gestionar-multitienda--4S0lFVBPylRS5KpVgdyDhJ">Cómo funciona la relación entre sitios web y políticas comerciales</a>.</div>
+    > ⚠️ Si la tienda utiliza más de una (1) política comercial, asegúrate de ordenarlas en **Configuración de la tienda > Canales > Políticas comerciales**. Para más información, consulta [Cómo funciona la relación entre sitios web y políticas comerciales](https://help.vtex.com/es/tutorial/gestionar-multitienda--4S0lFVBPylRS5KpVgdyDhJ).
 
 11. Haz clic en `Save Binding` y después en `Save Website`.
 
@@ -74,9 +72,7 @@ Para generar el archivo XML de la nueva tienda automáticamente, sigue las instr
 
 Para eliminar una multitienda existente, sigue las instrucciones de la sección **Eliminar tienda** de la guía [Gestión de la cuenta](https://help.vtex.com/es/tutorial/account-details-page--2vhUVOKfCaswqLguT2F9xq#eliminar-tienda).
 
-<div class="alert alert-warning">
-El nombre de la subcuenta eliminada no puede volver a utilizarse.
-</div>
+> ⚠️ El nombre de la subcuenta eliminada no puede volver a utilizarse.
 
 ## Más información
 

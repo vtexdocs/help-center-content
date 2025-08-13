@@ -17,9 +17,7 @@ subcategoryId: 3VNOhxDrvYxJThhuJClrYZ
 
 A página de [Detalhes do pedido](https://help.vtex.com/pt/tutorial/pagina-de-detalhes-do-pedido-beta--2Y75n54Cc9VizrlG1N6ZNl) permite alterar o valor final do pedido para pedidos que ainda não foram faturados. Isso ocorre em cenários em que há descontos ou acréscimos ao valor.
 
-<div class="alert alert-warning">
-Lembre-se que a funcionalidade só fica disponível para pedidos que estão no status <code>Preparando entrega</code>.
- </div>
+> ⚠️ Lembre-se que a funcionalidade só fica disponível para pedidos que estão no status `Preparando entrega`.
 
 Para fazer a alteração, siga os passos abaixo:
 
@@ -28,12 +26,12 @@ Para fazer a alteração, siga os passos abaixo:
 3. Clique no pedido para acessar a página de **Detalhes do pedido**.   
 4. Vá à seção **Valor total do pedido**, localizada no lado direito da página Detalhes do pedido.
 5. Clique em `Alterar valor final`. A página **Alterar valor** ficará disponível
-![valorfinal](//images.ctfassets.net/alneenqid6w5/5VwpodKoIiDSWBwYQs2rDc/9165c911db34e8067f90734077f67080/valorfinal__2_.png)
+![valorfinal](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/orders/orders-overview/alterar-valor-total-do-pedido_1.png)
 6. Preencha os campos obrigatórios: 
     *  **Valor:** Selecione entre Desconto e Aumento, e insira o valor correspondente ao que deseja alterar.  
     * **Motivo:** escreva as razões para a mudança.  
 7. Clique em `Enviar`.
-![Alterar valor](//images.ctfassets.net/alneenqid6w5/15TldKoBz42ds5fJswW13O/5bd41102367f310c7c5e70626496d8cb/Alterar_valor__1_.png)
+![Alterar valor](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/orders/orders-overview/alterar-valor-total-do-pedido_2.png)
 
 As alterações no pedido serão atualizadas na seção *Itens para Faturar, e Histórico do pedido*. Note que o valor total do pedido também será alterado.
 
@@ -43,6 +41,4 @@ Ao alterar ou remover itens de um pedido, o valor total do pedido é alterado. N
 
 O valor total do pedido será atualizado após a inserção da nota fiscal, e corresponde ao que é captado pelo gateway de pagamentos da VTEX. Caso um item seja devolvido, o sistema de Pagamentos da VTEX fará o estorno automaticamente ao cliente.
 
-<div class = "alert alert-info">
-A funcionalidade faturas parciais está disponível para toda a base de clientes VTEX, mas a liquidação parcial no gateway está em fase Beta. Além disso, para que as faturas parciais inseridas nos pedidos disparem liquidações parciais na transação, é necessário usar um conector que utiliza o <a href="https://help.vtex.com/pt/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m">Payment Provider Protocol</a>. Conectores legados não possuem suporte à funcionalidade.
-</div>
+> ℹ️ A funcionalidade faturas parciais está disponível para toda a base de clientes VTEX, mas a liquidação parcial no gateway está em fase Beta. Além disso, para que as faturas parciais inseridas nos pedidos disparem liquidações parciais na transação, é necessário usar um conector que utiliza o [Payment Provider Protocol](https://help.vtex.com/pt/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m). Conectores legados não possuem suporte à funcionalidade.

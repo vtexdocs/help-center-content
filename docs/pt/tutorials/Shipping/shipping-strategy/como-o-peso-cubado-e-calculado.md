@@ -34,13 +34,11 @@ O fator de cubagem é o coeficiente resultante da relação entre peso e volume 
 
 O cálculo do peso cubado é realizado efetuando a multiplicação do Comprimento pela Largura e pela Altura e, em seguida, a divisão pelo Fator de cubagem fornecido pela transportadora.
 
-<div class="alert alert-warning">
-Ao realizar o cálculo do peso cúbico, a plataforma VTEX não utiliza unidades de medida e os números gerados são absolutos. Ou seja, os números e medidas que você levar em consideração serão aqueles do resultado final. Vale ressaltar que a unidade de medida do seu cálculo deve ser igual àquela utilizada pela transportadora em questão.
-</div>
+> ⚠️ Ao realizar o cálculo do peso cúbico, a plataforma VTEX não utiliza unidades de medida e os números gerados são absolutos. Ou seja, os números e medidas que você levar em consideração serão aqueles do resultado final. Vale ressaltar que a unidade de medida do seu cálculo deve ser igual àquela utilizada pela transportadora em questão.
 
 Observe o exemplo a seguir:
 
-![](https://images.contentful.com/alneenqid6w5/3KZDUQlPBYEY8mSwqQgW6k/15cef41598f4fc1359f482cddbcca756/pesocubado.jpg)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Shipping/shipping-strategy/como-o-peso-cubado-e-calculado_1.jpg)
 
 - __Dimensões do pacote:__ `50cm x 60cm x 15cm`
 - __Peso mínimo do pacote:__ `9kg`
@@ -55,7 +53,7 @@ Ou seja, caso o valor oferecido pela sua transportadora `6.000`, é necessário 
 
 Ao realizar o cadastro da sua transportadora, esse é o valor que você deve preencher no campo **Fator de peso cúbico** na sua [política de envio](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140).
 
-![cubic_weight_PT](//images.ctfassets.net/alneenqid6w5/44WaAckgByWYgyYGXtEoOj/dffa4cf86d504ec7325bb80b7b26704d/cubic_weight_PT.png)
+![cubic_weight_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Shipping/shipping-strategy/como-o-peso-cubado-e-calculado_2.png)
 
 Portanto, o cálculo final seria:
 - __Dimensões do pacote:__ `50cm x 60cm x 15cm`

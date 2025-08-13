@@ -50,9 +50,7 @@ Como VTEX procesa las transacciones de tu tienda, todas las transacciones se reg
 - La tag de transacción se activa incluso con transacciones que no se completaron con éxito.
 - Falla o duplicación de la visualización de la página de confirmación del pedido, si la tag de transacción está vinculada a la visualización de esta página.
 
-<div class = "alert alert-info">
-También debes tener en cuenta que hay un retraso de hasta 48 horas en el registro de datos de transacciones en Google Analytics.
-</div>
+> ℹ️ También debes tener en cuenta que hay un retraso de hasta 48 horas en el registro de datos de transacciones en Google Analytics.
 
 Además, las integraciones pueden construirse de forma que acaben por no desencadenar determinadas etiquetas en tu storefront. Por ejemplo, hay integraciones que utilizan una [aplicación de pago](https://developers.vtex.com/vtex-rest-api/docs/payments-integration-payment-app) y finalizan la compra sin redirigir al cliente a la página de confirmación del pedido, como la integración desarrollada por AME Digital. Las transacciones siempre se registrarán en VTEX, pero en este caso es probable que no se registre en Google Analytics, generando divergencias.
 

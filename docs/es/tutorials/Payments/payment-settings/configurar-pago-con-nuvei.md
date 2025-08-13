@@ -24,36 +24,31 @@ Para utilizar Nuvei, siga los pasos a continuación:
 
 ## Configurar proveedor Nuvei en VTEX
 
-<blockquote><ui>1. En el Admin VTEX, accede a <b>Configuración de la tienda > Pago > Proveedores</b>, o escribe <b>Proveedores</b> en la barra de búsqueda en la parte superior de la página.</ui>
+<blockquote><ui>1. En el Admin VTEX, accede a **Configuración de la tienda > Pago > Proveedores**, o escribe **Proveedores** en la barra de búsqueda en la parte superior de la página.</ui>
 
-<blockquote><ui>2. En la pantalla de proveedores, haga clic en el botón <b>Nuevo proveedor</b>.</ui>
+<blockquote><ui>2. En la pantalla de proveedores, haga clic en el botón **Nuevo proveedor**.</ui>
 
-<blockquote><ui>3. Escriba el nombre <b>nuvei-payment-provider</b> en la barra de búsqueda y haga clic en el nombre del proveedor.</ui>
+<blockquote><ui>3. Escriba el nombre **nuvei-payment-provider** en la barra de búsqueda y haga clic en el nombre del proveedor.</ui>
 
-<blockquote><ui>4. En <b>Autorización del proveedor</b>, rellene los campos de registro <b>Clave de aplicación</b> y <b>Token de aplicación</b> con la información de su cuenta Nuvei.</ui>
+<blockquote><ui>4. En **Autorización del proveedor**, rellene los campos de registro **Clave de aplicación** y **Token de aplicación** con la información de su cuenta Nuvei.</ui>
 
-<blockquote><ui>5. Si desea modificar el nombre de identificación que se mostrará para el proveedor Nuvei en la pantalla VTEX Admin, ingrese la información en el campo <b>Nombre</b> en <b>Información general</b>.</ui>
+<blockquote><ui>5. Si desea modificar el nombre de identificación que se mostrará para el proveedor Nuvei en la pantalla VTEX Admin, ingrese la información en el campo **Nombre** en **Información general**.</ui>
 
-<blockquote><ui>6. En <b>Control de pago</b>, seleccione si desea activar el proveedor en un entorno de prueba haciendo clic en <b>Activar modo de prueba</b>.</ui>
+<blockquote><ui>6. En **Control de pago**, seleccione si desea activar el proveedor en un entorno de prueba haciendo clic en **Activar modo de prueba**.</ui>
 
-<blockquote><ui>7. Para rellenar los campos <b>Merchant Id</b>, <b>Merchant Site Id</b> y <b>Client Secret</b> (Secret Key), 
-acceder a la información disponible en <b>Settings > My Integration Settings</b> dentro del panel de control de su cuenta en el entorno Nuvei.</ui>
+<blockquote><ui>7. Para rellenar los campos **Merchant Id**, **Merchant Site Id** y **Client Secret** (Secret Key), 
+acceder a la información disponible en **Settings > My Integration Settings** dentro del panel de control de su cuenta en el entorno Nuvei.</ui>
 
-<blockquote><ui><div class="alert alert-warning">
- Nuvei tiene credenciales (Merchant Id, Merchant Site Id e Client Secret) específicas para cada tipo de entorno. Acceder a entornos de prueba <a href="sandbox.nuvei.com">(Integration)</a> y <a href="cpanel.nuvei.com">Live</a> 
-identificar las credenciales relativas a cada uno de ellos.
-  </div></blockquote>
+<blockquote><ui>> ⚠️ Nuvei tiene credenciales (Merchant Id, Merchant Site Id e Client Secret) específicas para cada tipo de entorno. Acceder a entornos de prueba [(Integration)](sandbox.nuvei.com) y [Live](cpanel.nuvei.com) identificar las credenciales relativas a cada uno de ellos.</blockquote>
 <br>  
-<blockquote><ui>8. En <b>Environment</b>, seleccione si desea configurar el proveedor Nuvei en el entorno <b>Integration</b> o <b>Live</b>.</ui>
+<blockquote><ui>8. En **Environment**, seleccione si desea configurar el proveedor Nuvei en el entorno **Integration** o **Live**.</ui>
 
-<blockquote><ui>9. En <b>Test 3ds challenge Integration only</b>, si ha seleccionado el entorno de prueba (<b>Integration</b>) es posible realizar pruebas de seguridad 3DS a través de las opciones <b>Force 3ds Challenge</b>, <b>Force 3ds Frictionless</b> o <b>User cardHolder name</b>. 
-Para más información sobre las pruebas accede a la documentación <a href="https://docs.nuvei.com/documentation/integration/testing/testing-cards/?highlight=test%20cards#3d-secure-v2-test-scenarios">Nuvei</a>.</ui>
+<blockquote><ui>9. En **Test 3ds challenge Integration only**, si ha seleccionado el entorno de prueba (**Integration**) es posible realizar pruebas de seguridad 3DS a través de las opciones **Force 3ds Challenge**, **Force 3ds Frictionless** o **User cardHolder name**. 
+Para más información sobre las pruebas accede a la documentación [Nuvei](https://docs.nuvei.com/documentation/integration/testing/testing-cards/?highlight=test%20cards#3d-secure-v2-test-scenarios).</ui>
 
- <blockquote><ui><div class="alert alert-warning">
-   Siempre que el <b>Environment</b> del proveedor esté configurado como <b>Live</b>, la opción seleccionada para el campo <b>Test 3ds challenge Integration only</b> debe ser <b>User cardHolder name</b>.
-  </div></blockquote>
+ <blockquote><ui>> ⚠️ Siempre que el **Environment** del proveedor esté configurado como **Live**, la opción seleccionada para el campo **Test 3ds challenge Integration only** debe ser **User cardHolder name**.</blockquote>
 <br>  
-<blockquote><ui>10. Haga clic en <b>Guardar</b>.</ui>
+<blockquote><ui>10. Haga clic en **Guardar**.</ui>
 
 ## Configurar la URL DMN en Nuvei
 

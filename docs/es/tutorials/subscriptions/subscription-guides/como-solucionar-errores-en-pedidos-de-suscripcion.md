@@ -15,9 +15,7 @@ locale: es
 subcategoryId: 1rA9wuuskW3PpjvMrhatAM
 ---
 
-<div class = "alert alert-info">
-Solo puedes acceder a la información de los pedidos creados en los últimos años. Este periodo también se aplica a los pedidos de los clientes a través de <a href="https://help.vtex.com/es/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh">Mi Cuenta</a>.
-</div>
+> ℹ️ Solo puedes acceder a la información de los pedidos creados en los últimos años. Este periodo también se aplica a los pedidos de los clientes a través de [Mi Cuenta](https://help.vtex.com/es/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh).
 
 Es posible identificar y gestionar errores en pedidos de suscripción a través del módulo **Suscripciones** > **Dashboards** > **Pedidos de suscripción** en el Admin.
 
@@ -32,7 +30,7 @@ Los problemas en ciclos de suscripción se producen cuando hay un impedimento pa
 
 La pestaña **Ciclos con un problema**, que se ilustra en la siguiente imagen, recoge los pedidos de suscripción que tienen este tipo de problemas.
 
-![pedidos_assinaturas_print_es](//images.ctfassets.net/alneenqid6w5/1dhCAuymIdeS4JyaxC7ep2/018f9060f82320eada25f385328cbd3a/pedidos_assinaturas_print_es.png)
+![pedidos_assinaturas_print_es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/subscriptions/subscription-guides/como-solucionar-errores-en-pedidos-de-suscripcion_1.png)
 
 Desde esta pestaña se puede gestionar los pedidos que presentan ciclos con un problema y realizar reintentos manuales de creación de pedidos. Por ejemplo, cuando un producto no está disponible, puede ajustar el stock y volver a intentarlo.
 
@@ -66,7 +64,7 @@ Vea en la siguiente tabla cuáles son los errores informados en los ciclos con u
                 <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">Could not select a SLA for sku {ID del SKU}</span>
             </td>
             <td class="t-body pa5" style="min-width: 15rem;">No se han encontrado estrategias de envío asociadas con un SKU determinado en el pedido de suscripción.
-                <p>
+                
                 Generalmente, este error está relacionado con la falta de disponibilidad de stock del SKU en cuestión, o con alguna limitación en la configuración logística.
             </td>
         </tr>
@@ -75,7 +73,7 @@ Vea en la siguiente tabla cuáles son los errores informados en los ciclos con u
                 <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">No SLAs were found for this subscription</span>
             </td>
             <td class="t-body pa5" style="min-width: 15rem;">o se encontraron estrategias de envío asociadas con la suscripción en su conjunto.
-                <p>
+                
                 Generalmente, este error está vinculado a la falta de disponibilidad de stock de los ítems que componen la suscripción, o alguna limitación en la configuración logística, como la ausencia de geocoordenadas en el perfil del cliente.
             </td>
         </tr>
@@ -95,8 +93,8 @@ Vea en la siguiente tabla cuáles son los errores informados en los ciclos con u
             </td>
             <td class="t-body pa5" style="min-width: 15rem;">
                 Error vinculado a un problema con la dirección que el cliente introdujo para la suscripción, como un código postal no válido o la falta de datos de geocoordenadas.
-                <p>
-                Para corregir el error, tendrá que ponerse en contacto con el cliente y pedirle que revise sus datos de dirección en la página <strong>Mi cuenta</strong>.
+                
+                Para corregir el error, tendrá que ponerse en contacto con el cliente y pedirle que revise sus datos de dirección en la página **Mi cuenta**.
             </td>
         </tr>
         <tr class="bb b--muted-3">
@@ -106,8 +104,8 @@ Vea en la siguiente tabla cuáles son los errores informados en los ciclos con u
             </td>
             <td class="t-body pa5" style="min-width: 15rem;">
                 Este error se produce cuando falta alguna información en el perfil del cliente. Ejemplo: si el cliente elimina el número de identificación fiscal del perfil después de la primera compra, en la siguiente fecha del ciclo de suscripción, el pedido generado tendrá este error.
-                <p>
-                Para corregirlo, el cliente debe rellenar los datos del perfil en la página <strong>Mi cuenta</strong>.
+                
+                Para corregirlo, el cliente debe rellenar los datos del perfil en la página **Mi cuenta**.
             </td>
         </tr>
         <tr class="bb b--muted-3">
@@ -117,8 +115,8 @@ Vea en la siguiente tabla cuáles son los errores informados en los ciclos con u
             </td>
             <td class="t-body pa5" style="min-width: 15rem;">
                 Este error significa que no hay ninguna forma de pago registrada para la suscripción en el perfil del usuario.
-                <p>
-                Para corregir el error, debe ponerse en contacto con el cliente y pedirle que rellene sus datos de pago en la página<strong> Mi cuenta</strong>.
+                
+                Para corregir el error, debe ponerse en contacto con el cliente y pedirle que rellene sus datos de pago en la página** Mi cuenta**.
             </td>
         </tr>
         <tr class="bb b--muted-3">
@@ -132,8 +130,8 @@ Vea en la siguiente tabla cuáles son los errores informados en los ciclos con u
                     <li>Registro de clientes con datos incompletos o inválidos de la tarjeta de crédito y datos incompletos o inválidos de la dirección.</li>
                     <li>Registro del cliente con un número de número de identificación fiscal inválido.</li>
                 </ul>        
-                <p>
-                    Para corregir el error, debe ponerse en contacto con el cliente y pedirle que revise sus datos en la página <strong>Mi cuenta</strong>.
+                
+                    Para corregir el error, debe ponerse en contacto con el cliente y pedirle que revise sus datos en la página **Mi cuenta**.
             </td>
         </tr>
         <tr class="bb b--muted-3">
@@ -142,10 +140,10 @@ Vea en la siguiente tabla cuáles son los errores informados en los ciclos con u
                     PriceTag inválida</span>
             </td>
             <td class="t-body pa5" style="min-width: 15rem;">
-                Este mensaje se muestra cuando hay una diferencia de <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">priceTags</span> de las respuestas entre la <a href="https://developers.vtex.com/vtex-rest-api/reference/orderform">simulación del carrito</a> y la creación de pedidos por la API placeOrder. Las divergencias entre las respuestas en cada momento pueden impedir la creación de pedidos.
-                <p>
+                Este mensaje se muestra cuando hay una diferencia de <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">priceTags</span> de las respuestas entre la [simulación del carrito](https://developers.vtex.com/vtex-rest-api/reference/orderform) y la creación de pedidos por la API placeOrder. Las divergencias entre las respuestas en cada momento pueden impedir la creación de pedidos.
+                
                     La creación de pedidos por la API placeOrder con promoción depende del envío de <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">priceTags</span>, que especifican las promociones obtenidas previamente en la simulación.
-                <p>
+                
                     Todas las <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">priceTags</span> aplicadas por el sistema en la creación del pedido deben ser especificadas previamente en el request a la API. En caso contrario, el pedido no se crea y se muestra este mensaje de error, porque el sistema entiende que sus condiciones de contexto no son aplicables, ya que dependen de todas las  <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">priceTags</span> (incluyendo las no declaradas).
             </td>
         </tr>
@@ -155,7 +153,7 @@ Vea en la siguiente tabla cuáles son los errores informados en los ciclos con u
                     El valor del pago es diferente del valor del pedido</span>
             </td>
             <td class="t-body pa5" style="min-width: 15rem;">
-                Este mensaje se muestra cuando hay una diferencia entre el valor de la <a href="https://developers.vtex.com/vtex-rest-api/reference/orderform">simulación del carrito</a> y el valor del pedido creado a través de la API PlaceOrder.
+                Este mensaje se muestra cuando hay una diferencia entre el valor de la [simulación del carrito](https://developers.vtex.com/vtex-rest-api/reference/orderform) y el valor del pedido creado a través de la API PlaceOrder.
             </td>
         </tr>
         <tr class="bb b--muted-3">
@@ -164,7 +162,7 @@ Vea en la siguiente tabla cuáles son los errores informados en los ciclos con u
                     No fue posible comunicarse con el seller XXXXXX</span>
             </td>
             <td class="t-body pa5" style="min-width: 15rem;">
-                Este mensaje se muestra cuando el checkout no puede comunicarse con el seller para cerrar el pedido. Este error suele ser de carácter temporal y suele resolverse con los intentos automáticos del módulo de <strong>Suscripciones</strong>.
+                Este mensaje se muestra cuando el checkout no puede comunicarse con el seller para cerrar el pedido. Este error suele ser de carácter temporal y suele resolverse con los intentos automáticos del módulo de **Suscripciones**.
             </td>
         </tr>
         <tr class="bb b--muted-3">
@@ -173,11 +171,11 @@ Vea en la siguiente tabla cuáles son los errores informados en los ciclos con u
                     Subscription has invalid data to place order: [ADDRESS_DATA]</span>
             </td>
             <td class="t-body pa5" style="min-width: 15rem;">
-                Este error se produce solo en tiendas que utilizan <strong>Suscripciones V2</strong>. En cada ciclo de suscripción, la aplicación <strong>Suscripciones V2</strong> realiza una validación adicional que comprueba si alguno de los datos de la dirección ha cambiado desde la creación de la suscripción. Si los datos de la dirección no son exactamente iguales, se produce el error.
-                <p>
-                Ejemplo: En la pestaña <strong>Direcciones </strong>de <strong>Mi cuenta</strong>, si el cliente pone un acento en el nombre de la calle después de crear la suscripción, el módulo <strong>Suscripciones V2</strong> detecta el cambio y muestra este error. 
-                <p>
-                Para corregir el error, debe ponerse en contacto con el cliente y pedirle que revise sus datos en la página <strong>Mi cuenta</strong>.
+                Este error se produce solo en tiendas que utilizan **Suscripciones V2**. En cada ciclo de suscripción, la aplicación **Suscripciones V2** realiza una validación adicional que comprueba si alguno de los datos de la dirección ha cambiado desde la creación de la suscripción. Si los datos de la dirección no son exactamente iguales, se produce el error.
+                
+                Ejemplo: En la pestaña **Direcciones **de **Mi cuenta**, si el cliente pone un acento en el nombre de la calle después de crear la suscripción, el módulo **Suscripciones V2** detecta el cambio y muestra este error. 
+                
+                Para corregir el error, debe ponerse en contacto con el cliente y pedirle que revise sus datos en la página **Mi cuenta**.
             </td>
         </tr>
     </tbody>        
@@ -189,7 +187,7 @@ Los errores de pago se producen durante el flujo de aprobación del pago, como e
 
 Los pedidos con este tipo de error pueden visualizarse en la pestaña **Error de pago**, ilustrada en la siguiente imagen.
 
-![pedidos_assinaturas_print_erro_pagamento_es](//images.ctfassets.net/alneenqid6w5/2Cc9hhcSr6CjeU3tDIerqo/adfef0d0054bb88ef52d32d6ce7d81fd/pedidos_assinaturas_print_erro_pagamento_es.png)
+![pedidos_assinaturas_print_erro_pagamento_es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/subscriptions/subscription-guides/como-solucionar-errores-en-pedidos-de-suscripcion_2.png)
 
 Para analizar errores de pago, realice el siguiente procedimiento.
 

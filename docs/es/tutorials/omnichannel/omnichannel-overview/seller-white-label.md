@@ -30,18 +30,14 @@ La [cuenta franquicia](https://help.vtex.com/es/tutorial/what-is-a-franchise-acc
 
 Usar la cuenta franquicia es estratégico, por ejemplo, para las operaciones que desean expandir sus ventas con la integración de tiendas físicas, ya que existe la posibilidad de heredar un catálogo ya registrado en la plataforma VTEX. Obtén más información en [¿Qué es una cuenta franquicia?](https://help.vtex.com/es/tutorial/what-is-a-franchise-account--kWQC6RkFSCUFGgY5gSjdl).
 
-<div class = "alert alert-info">
-De forma predeterminada, toda cuenta franquicia es un <i>seller white label</i> de la cuenta principal. Aunque <i>seller white label</i> y cuenta franquicia son conceptos que están relacionados, no se corresponden entre sí, ya que <i>seller white label</i> es un tipo de <i>seller</i>, y cuenta franquicia es un tipo de cuenta.
-</div>
+> ℹ️ De forma predeterminada, toda cuenta franquicia es un *seller white label* de la cuenta principal. Aunque *seller white label* y cuenta franquicia son conceptos que están relacionados, no se corresponden entre sí, ya que *seller white label* es un tipo de *seller*, y cuenta franquicia es un tipo de cuenta.
 
 Es posible que una cuenta estándar funcione como _seller white label_ de otra tienda VTEX. En este escenario, el marketplace no informa al consumidor quién es el _seller_ que realiza el envío del pedido. Otra posibilidad es que una cuenta franquicia actúe como un _seller_ normal de un _marketplace_ que no sea la cuenta principal. En resumen:
 
 - **Cuenta:** puede ser una cuenta franquicia o una cuenta estándar.
 - **_Seller_:** puede ser común o _white label_.
 
-<div class = "alert alert-info">
-Para agregar un seller white label, es necesario tener este modelo previsto en el contrato con VTEX. Una vez acordado un contrato con el representante de ventas de VTEX responsable de tu marketplace, solicita la adición de una cuenta franquicia por medio de nuestro Soporte. Todas las cuentas franquicias se crean como un seller white label, y no es posible cambiar el tipo de seller después de su creación.
-</div>
+> ℹ️ Para agregar un seller white label, es necesario tener este modelo previsto en el contrato con VTEX. Una vez acordado un contrato con el representante de ventas de VTEX responsable de tu marketplace, solicita la adición de una cuenta franquicia por medio de nuestro Soporte. Todas las cuentas franquicias se crean como un seller white label, y no es posible cambiar el tipo de seller después de su creación.
 
 ### Más información
 

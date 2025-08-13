@@ -27,9 +27,7 @@ As funcionalidades de televendas disponíveis na VTEX são:
 - [Inserir preço manual](#inserir-preco-manual)
 - [Gerenciamento de pedidos](#gerenciamento-de-pedidos)
 
-<div class="alert alert-warning">
-  <p>Para ter acesso à toolbar de televendas, à inserção de preço manual e à página <a href="https://help.vtex.com/pt/tutorial/todos-os-pedidos--2QTduKHAJMFIZ3BAsi6Pi"><b>Todos os pedidos</b></a>, o usuário precisa ser cadastrado na loja com o <a href="https://help.vtex.com/pt/tutorial/como-criar-um-usuario-de-televendas--frequentlyAskedQuestions_4227">perfil de acesso Call Center operator</a>.</p>
-</div>
+> ⚠️ Para ter acesso à toolbar de televendas, à inserção de preço manual e à página [**Todos os pedidos**](https://help.vtex.com/pt/tutorial/todos-os-pedidos--2QTduKHAJMFIZ3BAsi6Pi), o usuário precisa ser cadastrado na loja com o [perfil de acesso Call Center operator](https://help.vtex.com/pt/tutorial/como-criar-um-usuario-de-televendas--frequentlyAskedQuestions_4227).
 
 É necessário configurar as funcionalidades listadas acima previamente, seguindo os passos do tutorial [Como configurar as funcionalidades de televendas](https://help.vtex.com/pt/tutorial/como-configurar-as-funcionalidades-de-televendas--76FNgQP2Glc4umMJ5Yr50R).
 
@@ -41,9 +39,7 @@ A Toolbar de televendas é uma barra superior exibida no site da loja para usuá
 
 Para saber como utilizar esse recurso, confira o tutorial [Toolbar de Televendas](https://help.vtex.com/pt/tutorial/usando-e-customizando-toolbar-de-televendas--tutorials_5500).
 
-<div class = "alert alert-info">
-Um caso de uso do televendas é  importar pedidos de outras plataformas para o módulo Pedidos da VTEX. Para isso, você pode associar uma <a href="https://help.vtex.com/pt/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE">política comercial</a> específica com o pagamento por <a href="https://help.vtex.com/pt/tutorial/configurar-pagamentos-com-promissoria--5pW7avTwtyQcMu4uiW8quQ">promissória</a> (método de pagamento aprovado imediatamente e manualmente pelo próprio operador).
-</div> 
+> ℹ️ Um caso de uso do televendas é  importar pedidos de outras plataformas para o módulo Pedidos da VTEX. Para isso, você pode associar uma [política comercial](https://help.vtex.com/pt/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE) específica com o pagamento por [promissória](https://help.vtex.com/pt/tutorial/configurar-pagamentos-com-promissoria--5pW7avTwtyQcMu4uiW8quQ) (método de pagamento aprovado imediatamente e manualmente pelo próprio operador). 
 
 ### Minha Conta
 
@@ -74,9 +70,7 @@ Para entrar no menu de assinaturas, siga os passos abaixo:
 - `Nova assinatura` para criar uma assinatura.
 - `Ver detalhes` para editar uma assinatura existente.
 
-<div class = "alert alert-info">
-  <p>Para saber mais sobre assinaturas, leia o artigo <a href="https://help.vtex.com/pt/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453">Como funciona a assinatura</a>.</p>
-</div>
+> ℹ️ Para saber mais sobre assinaturas, leia o artigo [Como funciona a assinatura](https://help.vtex.com/pt/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453).
 
 ## Carrinho Compartilhável
 

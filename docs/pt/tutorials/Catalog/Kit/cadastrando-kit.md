@@ -26,7 +26,7 @@ Um kit pode permitir ou não que seus componentes sejam vendidos separadamente, 
 
 Para a configuração do kit é necessário que os produtos que irão fazer parte dele &#8211; seus componentes &#8211; já estejam criados. Confira o exemplo abaixo:
 
-![Componentes](//images.ctfassets.net/alneenqid6w5/6k1lQeZ7AQ4qSQ80sWy0wg/24b2af0e0aa753077e69a3a0a8de7359/Screenshot_2018-10-24_11.05.54.png)
+![Componentes](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Catalog/Kit/cadastrando-kit_1.png)
 
 Após a criação dos produtos componentes, podemos seguir para a configuração do kit.
 
@@ -37,7 +37,7 @@ Após a criação dos produtos componentes, podemos seguir para a configuração
 5. Caso queira um kit look, clique na opção __Kit com itens vendidos separadamente__.
 6. Clique em `Salvar`.
 
-![kit](//images.ctfassets.net/alneenqid6w5/2ELMh0gTCcSiag28qAsAmg/68fb75589fef19ed4001aec9b3cedfa1/02-kit_PT.png)
+![kit](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Catalog/Kit/cadastrando-kit_2.png)
 
 ## Associar componentes
 
@@ -52,9 +52,9 @@ Depois de criar o produto que será o kit, você precisa associar os componentes
 7. Preencha o preço unitário do SKU dentro do KIT.
 6. Clique em `Salvar`.
 
-![Adicionar componente ao kit](//images.ctfassets.net/alneenqid6w5/3Cza8qJSEoIK6I00wa2aAU/07caa35d542518e389b66eca48bdffbb/03-add_component_to_kit_PT.gif)
+![Adicionar componente ao kit](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Catalog/Kit/cadastrando-kit_3.gif)
 
-![Kit no carrinho](//images.ctfassets.net/alneenqid6w5/239UK8f3gEQi4IKc6YeyEI/0878bffc1325d9c3f79365f7aa479ef8/04-kit_in_cart_ALL.png)
+![Kit no carrinho](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Catalog/Kit/cadastrando-kit_4.png)
 
 ## Peso do kit
 
@@ -70,9 +70,7 @@ Exemplo: um kit possui dois componentes. Considere que o componente 1 possui 30 
 
 Os componentes do kit podem estar em estoques diferentes, contanto que eles sejam enviados a partir da mesma doca. Se não saírem pela mesma doca, o kit inteiro se torna indisponível. 
 
-<div class="alert alert-info">
-<p>Este cenário não acontece com um kit look, pois o kit look pode ser vendido com os componentes que restaram no inventário, sem a necessidade de se ter todos os componentes do kit no inventário.</p>
-</div>
+> ℹ️ Este cenário não acontece com um kit look, pois o kit look pode ser vendido com os componentes que restaram no inventário, sem a necessidade de se ter todos os componentes do kit no inventário.
 
 ## Preço
 
@@ -84,7 +82,7 @@ Mas note que alterar qualquer componente irá gerar um novo preço final, atuali
 
 Alterar somente o preço final não atualiza o preço dos componentes.
 
-![Lista de preços](//images.ctfassets.net/alneenqid6w5/6eI3atVTvq0SgOw6c2uAqa/27af79495fd4de8860c36d214196246e/06-price_list_PT.png)
+![Lista de preços](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Catalog/Kit/cadastrando-kit_5.png)
 
 ### Saiba mais
 

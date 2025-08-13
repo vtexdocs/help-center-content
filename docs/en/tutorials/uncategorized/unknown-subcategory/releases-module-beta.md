@@ -15,9 +15,7 @@ locale: en
 subcategoryId: 
 ---
 
-<div class = "alert alert-info">
-The <b>Releases</b> module is currently in beta version, which means we are working to improve it. This feature is only available for stores using FastStore.
-</div>
+> ℹ️ The **Releases** module is currently in beta version, which means we are working to improve it. This feature is only available for stores using FastStore.
 
 Managing an ecommerce operation requires the retailer to perform several updates and changes in the store, which are often interconnected — for example, carrying out a publicity campaign in which different storefront elements need to be configured.
 
@@ -30,9 +28,7 @@ The main benefits of the module are:
 - Better control when testing and reviewing changes before publishing.
 - Easier scheduling or deleting grouped changes.
 
-<div class = "alert alert-info">
-To use the <b>Releases</b> module, you must configure the CMS. Learn more in <a href="https://www.faststore.dev/how-to-guides/cms/vtex-headless-cms/Installing%20Releases%20on%20VTEX%20Headless%20CMS">Installing Releases on VTEX Headless CMS</a>.
-</div>
+> ℹ️ To use the **Releases** module, you must configure the CMS. Learn more in [Installing Releases on VTEX Headless CMS](https://www.faststore.dev/how-to-guides/cms/vtex-headless-cms/Installing%20Releases%20on%20VTEX%20Headless%20CMS).
 
 This article will cover the following topics:
 
@@ -66,13 +62,11 @@ To create a release, follow the step-by-step instructions below:
 6. Click `Create a release`.
 7. In the _Name_ field, write a name for the release.
 
-  <div class = "alert alert-info">
-In this stage, the fields <b>Day to publish</b> and <b>Time</b> are not required. This information can be decided upon later, as described in <a href="https://help.vtex.com/en/tutorial/modulo-lancamentos-beta--n2tN0WX5I6MJMbrJrS0Kb#scheduling-releases">Scheduling releases</a>.
-</div>
+  > ℹ️ In this stage, the fields **Day to publish** and **Time** are not required. This information can be decided upon later, as described in [Scheduling releases](https://help.vtex.com/en/tutorial/modulo-lancamentos-beta--n2tN0WX5I6MJMbrJrS0Kb#scheduling-releases).
 
 8. Click `Create`.
 
-![print_cms_beta_en](//images.ctfassets.net/alneenqid6w5/3E9inm1oqSRWqfBly8puW6/9c938423b576e80d181f0cc8d32a6b46/print_cms_beta_en.png)
+![print_cms_beta_en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/uncategorized/unknown-subcategory/releases-module-beta_1.png)
 
 ### How to create a release using the Releases module
 
@@ -82,9 +76,7 @@ To create a release, follow the step-by-step instructions below:
 2. Click the `Create` button.
 3. In the _Name_ field, write a name for the release.
 
-  <div class = "alert alert-info">
-In this stage, the fields <b>Day to publish</b> and <i>Time</i> are not required. This information can be decided upon later, as described in Scheduling releases.
-</div>
+  > ℹ️ In this stage, the fields **Day to publish** and *Time* are not required. This information can be decided upon later, as described in Scheduling releases.
 
 4. Click `Create`.
 
@@ -92,7 +84,7 @@ In this stage, the fields <b>Day to publish</b> and <i>Time</i> are not required
 
 All the releases are listed in the VTEX Admin, in **Store Settings > Releases**. The page displays two tabs, `SCHEDULED` and `UNSCHEDULED`, depending on whether the release has been created with a set publish date. 
 
-![print_releases_en](//images.ctfassets.net/alneenqid6w5/14ZhiyhghBKjaoHuab8bcH/4895efa9b36315602d5b877de0a8a60c/print_releases_en.png)
+![print_releases_en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/uncategorized/unknown-subcategory/releases-module-beta_2.png)
 
 On the `SCHEDULED` tab, each column is described as follows:
 
@@ -103,7 +95,7 @@ On the `SCHEDULED` tab, each column is described as follows:
 | Created by | Identification of the user who created the release. |
 | Publish date | Date and time set for publishing the release. |
 | End date | When a release has an end date scheduled, the date will be displayed in this column. After the end date, the release updates are undone. |
-| Status | There are five possible statuses for a release: <ul><li><b>Scheduled:</b> A date is set for publishing the release.</li><li><b>Queued:</b> This means the release publishing is being deployed. No action is needed for the release to get to the next status, <i>Publishing</i>.</li><li><b>Publishing:</b> The VTEX platform is processing the release publishing request.</li><li><b>Published:</b> The release’s content is published and available to the customer in the storefront.</li><li><b>Publish failed:</b> An error occurred and the release has not been published. When you click on the release name, a page with the release details is displayed, showing more information on the error type and how to fix it.</li></ul> |
+| Status | There are five possible statuses for a release: <ul><li>**Scheduled:** A date is set for publishing the release.</li><li>**Queued:** This means the release publishing is being deployed. No action is needed for the release to get to the next status, *Publishing*.</li><li>**Publishing:** The VTEX platform is processing the release publishing request.</li><li>**Published:** The release’s content is published and available to the customer in the storefront.</li><li>**Publish failed:** An error occurred and the release has not been published. When you click on the release name, a page with the release details is displayed, showing more information on the error type and how to fix it.</li></ul> |
 
 In the `UNSCHEDULED` tab, there are only three columns with the same meaning as the ones previously described:
 
@@ -127,9 +119,7 @@ When creating a release, you can set the publish date or not, which is why there
 - **Unschedule:** Cancel the publish date, which will put the release in the `Unscheduled` status.
 - **Reschedule:** Set a new date for a release with a date defined.
 
-<div class = "alert alert-info">
-When you schedule or reschedule a release publication, you can select the option <b>Add end date</b> to set a deadline for the release to be unpublished. The end date does not mean deleting the release but archiving it to be republished at any time.
-</div>
+> ℹ️ When you schedule or reschedule a release publication, you can select the option **Add end date** to set a deadline for the release to be unpublished. The end date does not mean deleting the release but archiving it to be republished at any time.
 
 ### Scheduling
 
@@ -186,9 +176,7 @@ Another way to publish is to go to the release details page, following the steps
 
 To delete a release, follow the step-by-step instructions below: 
 
-<div class="alert alert-danger">
-Deleted releases cannot be recovered. The updates included in the release remain, but they are no longer grouped together.
-</div>
+> ❗ Deleted releases cannot be recovered. The updates included in the release remain, but they are no longer grouped together.
 
 1. In the VTEX Admin, access **Store Settings > Releases**.
 2. On the line corresponding to the desired release, click the <i class="fas fa-ellipsis-v"></i> menu icon. 

@@ -31,11 +31,11 @@ To configure Qhantuy, follow the steps below:
     - __Scheduled: Schedules The Automatic Settlement__: By selecting this option, the field __Scheduled time frame in hours for automatic settlement__ will be displayed, and it must be completed with the period in which the automatic capture will take place. This period must be in accordance with the limits allowed by the payment provider.
     - __Deactivated: Not Automatically Captured__: capture takes place only when the order is invoiced. If you select this behavior, it is important to pay attention to the invoicing time, as invoicing can exceed the capture time agreed with the payment provider and lead to the cancellation of the transaction.
 
-<ui>  6. In <b>Enable payout split and send payment recipients?</b>, select whether split payments will be available for the marketplace and sellers.</ui>
+<ui>  6. In **Enable payout split and send payment recipients?**, select whether split payments will be available for the marketplace and sellers.</ui>
 
-<ui>  7. If an alert message appears indicating the need to install the app, click on the <b>Install app</b> button and follow the installation instructions.</ui>
+<ui>  7. If an alert message appears indicating the need to install the app, click on the **Install app** button and follow the installation instructions.</ui>
 
-<ui>  8. Click <b>Save.</b></ui>
+<ui>  8. Click **Save.**</ui>
 
 To configure the payment methods to be processed by Qhantuy, access [Configuring Payment Conditions](https://help.vtex.com/en/tutorial/how-to-configure-payment-conditions--tutorials_455#).
 

@@ -30,18 +30,14 @@ A [franchise account](https://help.vtex.com/en/tutorial/what-is-a-franchise-acco
 
 A franchise account is of strategic use for sales growth operations, such as the integration of physical stores, considering the opportunity of inheriting a catalog already registered on the VTEX platform. Learn more in [What is a franchise account](https://help.vtex.com/en/tutorial/what-is-a-franchise-account--kWQC6RkFSCUFGgY5gSjdl).
 
-<div class = "alert alert-info">
-All franchise accounts are by default white label sellers of the main account. Even though white label seller and franchise account are related concepts, they are not equivalent because white label seller is a type of seller, and franchise account is a type of account.
-</div>
+> ℹ️ All franchise accounts are by default white label sellers of the main account. Even though white label seller and franchise account are related concepts, they are not equivalent because white label seller is a type of seller, and franchise account is a type of account.
 
 A standard account may act as a white label seller of another VTEX store, case in which the marketplace does not inform the customer who is the seller in charge of the order fulfillment. A franchise account can also act as a normal seller of a marketplace other than the main account. Summing up:
 
 - **Account:** Can be a franchise account or a standard account.
 - **Seller:** Can be regular or white label.
 
-<div class = "alert alert-info">
-To add a white label seller, this model must be provided for in your contract with VTEX. In case you need to make changes to your contract, please contact your VTEX sales representative and submit a request to add a franchise account through our Support. Every franchise account is created as a white label seller. It is not possible to change the seller type after its creation.
-  </div>
+> ℹ️ To add a white label seller, this model must be provided for in your contract with VTEX. In case you need to make changes to your contract, please contact your VTEX sales representative and submit a request to add a franchise account through our Support. Every franchise account is created as a white label seller. It is not possible to change the seller type after its creation.
 
 ### Learn more
 

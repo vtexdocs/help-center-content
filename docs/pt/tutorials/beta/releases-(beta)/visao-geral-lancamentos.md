@@ -15,15 +15,11 @@ locale: pt
 subcategoryId: 3vXj7HrnYK8V5riTOwUuYv
 ---
 
-<div class="alert alert-info">
-  <p>O <strong>Lançamentos</strong> está em fase beta, o que significa que estamos trabalhando para aprimorá-lo. Esta funcionalidade é válida somente para lojas que usam <a href="https://www.faststore.dev/">FastStore</a>.</p>
-</div>
+> ℹ️ O **Lançamentos** está em fase beta, o que significa que estamos trabalhando para aprimorá-lo. Esta funcionalidade é válida somente para lojas que usam [FastStore](https://www.faststore.dev/).
 
 O menu **Lançamentos** permite que você gerencie grupos de modificações relacionadas, de forma a coordenar o planejamento, criação, agendamento e publicação de alterações na sua loja. Uma modificação ou um agrupamento de modificações que podem ser publicadas de forma conjunta pelo **Lançamentos** são chamadas de [lançamento](https://help.vtex.com/pt/tutorial/planner-conceito-de-lancamento-beta--4pWhQTXG0aIIsi2TYxxRkZ).
 
-<div class="alert alert-warning">
-  <p>Na fase beta, os lançamentos precisam estar relacionados ao <a href="https://help.vtex.com/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2">CMS</a>, pois outros módulos da plataforma VTEX ainda não estão inclusos. Para utilizar o <strong>Lançamentos</strong>, é necessário configurar o CMS conforme descrito em <a href="https://www.faststore.dev/how-to-guides/cms/vtex-headless-cms/Installing%20Releases%20on%20VTEX%20Headless%20CMS">Installing Releases on VTEX Headless CMS</a>.</p>
-</div>
+> ⚠️ Na fase beta, os lançamentos precisam estar relacionados ao [CMS](https://help.vtex.com/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2), pois outros módulos da plataforma VTEX ainda não estão inclusos. Para utilizar o **Lançamentos**, é necessário configurar o CMS conforme descrito em [Installing Releases on VTEX Headless CMS](https://www.faststore.dev/how-to-guides/cms/vtex-headless-cms/Installing%20Releases%20on%20VTEX%20Headless%20CMS).
 
 Confira a seguir quais são as páginas contidas no menu **Lançamentos**.
 

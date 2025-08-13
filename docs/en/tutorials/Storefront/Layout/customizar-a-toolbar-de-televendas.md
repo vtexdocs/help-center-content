@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
-<div class="alert alert-warning">It is not recommended changing the height of the toolbar element. If your store has a fixed header on top of the screen, it should receive the <code>top</code> css property with the necessary height not to overlap with the callcenter toolbar.</div>
+> ⚠️ It is not recommended changing the height of the toolbar element. If your store has a fixed header on top of the screen, it should receive the `top` css property with the necessary height not to overlap with the callcenter toolbar.
 
 The new callcenter toolbar can be customized with the styles of your store or using JavaScript. To overwrite the original styles of the toolbar, do the customization in a **.css** or **.js** file and load it into the page template.
 

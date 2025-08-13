@@ -40,11 +40,9 @@ Puede crear su propio template de email personalizado o utilizar la opción de e
 4. Rellene el campo __Template XHTML__ con los códigos de template.
 5. Haga clic en `Save Template`.
 
-![template xhtml](//images.ctfassets.net/alneenqid6w5/44IZ7N3din2EELL15z5FeQ/5e4164dc9abd8f5139d7934cae41e44c/Template_XHTML.PNG)
+![template xhtml](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Checkout/checkout-settings/configurar-carrito-abandonado_1.PNG)
 
-<div class="alert alert-warning">
-Recomendamos que lo realicen profesionales familiarizados con el módulo CMS, que ya hayan realizado la configuración de otros templates de página y expositor.
-</div>
+> ⚠️ Recomendamos que lo realicen profesionales familiarizados con el módulo CMS, que ya hayan realizado la configuración de otros templates de página y expositor.
 
 Para utilizar una opción de modelo estándar, siga los pasos que se indican a continuación:
 
@@ -52,7 +50,7 @@ Para utilizar una opción de modelo estándar, siga los pasos que se indican a c
 2. En __CMS > HTML Templates__, haga clic en el icono `CEM-Abandoned-Cart`.
 3. Verifique la información de los códigos de template presentes en el campo __Template XHTML__.
 
-![CEM-Abandoned-Cart](//images.ctfassets.net/alneenqid6w5/5ZBXBk2KNJVjekmT7P7RqQ/0dd187775baec69f3deee305c05950cb/CEM-Abandoned-Cart.PNG)
+![CEM-Abandoned-Cart](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Checkout/checkout-settings/configurar-carrito-abandonado_2.PNG)
 
 ### Configurar modelo de email en el Centro de mensajes
 
@@ -67,11 +65,9 @@ Una vez que se haya creado el nuevo template de email o se hayan utilizado los d
 7. En __Html__, ingrese la información del template de email creado o predeterminado.
 8. Haga clic `Save`. 
 
-<div class = "alert alert-info">
-El campo JSON Data no debe completarse ni sus datos deben usarse en el template de email. Solo contiene información para permitir una vista previa del formato en el que se verán los datos en el email.
-</div>
+> ℹ️ El campo JSON Data no debe completarse ni sus datos deben usarse en el template de email. Solo contiene información para permitir una vista previa del formato en el que se verán los datos en el email.
 
-![New template - message center](//images.ctfassets.net/alneenqid6w5/7nX1YnaZoesV51yG24Z3ls/68a8a4f2f7ad9f9911598b3aab475817/Novo_template.PNG)
+![New template - message center](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Checkout/checkout-settings/configurar-carrito-abandonado_3.PNG)
 
 ### Liberación del SPF
 
@@ -79,7 +75,7 @@ La liberación del SPF es fundamental para evitar problemas de entregabilidad de
 
 Como buena práctica para configurar DNS para un dominio genérico (no obligatorio), siga el siguiente ejemplo:
 
-![Hostnames - SPF](//images.ctfassets.net/alneenqid6w5/4txj9x3nVeN7Z3WEZmSpev/45230f3dbeda2d8ee040ec8a6ee39d31/Hostnames_-_SPF.PNG)
+![Hostnames - SPF](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Checkout/checkout-settings/configurar-carrito-abandonado_4.PNG)
 
 Para obtener más información sobre este asunto, consulte [Configurar el apuntamiento del DNS para VTEX](https://help.vtex.com/es/tutorial/configurando-o-apontamento-de-dns-para-a-vtex--tutorials_4280#).
 
@@ -90,7 +86,7 @@ En esta etapa, es necesario configurar un [trigger en Master Data](https://help.
 - __Checkout:__ el trigger se activará si no se completa el checkout y es diferente de nulo, es decir, si el cliente no finaliza la compra.
 - Carrito:__ relacionado con los últimos productos que el cliente agregó al carrito. El trigger se activa si el valor es diferente de nulo.
 - __Último carrito:__ registra la fecha y hora de creación del carrito. El trigger se activa si el valor es diferente de nulo.
-- __¿Recibe newsletter?:__ garantiza el cumplimiento de los <a href="https://help.vtex.com/pt/tutorial/data-subject-rights--6imchxTx09icupKMbzHVIM">derechos de titulares de datos</a>, ya que solo los clientes suscritos al newsletter recibirán emails de carrito abandonado. La suscripción al newsletter se puede gestionar desde el checkout o en la sección <a href="https://help.vtex.com/pt/tutorial/como-funciona-a-minha-conta--2BQ3GiqhqGJTXsWVuio3Xh#perfil">Mi cuenta</a> de la tienda. El trigger se activa si el valor es verdadero.
+- __¿Recibe newsletter?:__ garantiza el cumplimiento de los [derechos de titulares de datos](https://help.vtex.com/pt/tutorial/data-subject-rights--6imchxTx09icupKMbzHVIM), ya que solo los clientes suscritos al newsletter recibirán emails de carrito abandonado. La suscripción al newsletter se puede gestionar desde el checkout o en la sección [Mi cuenta](https://help.vtex.com/pt/tutorial/como-funciona-a-minha-conta--2BQ3GiqhqGJTXsWVuio3Xh#perfil) de la tienda. El trigger se activa si el valor es verdadero.
 
 Para que la activación del trigger sea posible, es necesario que los filtros estén rellenados según las instrucciones a continuación:
 
@@ -131,9 +127,7 @@ Para que la activación del trigger sea posible, es necesario que los filtros es
 13. Haz clic en `Guardar`.
 14. Crea un carrito y cierra la página para probar el trigger.
 
-  <div class="alert alert-warning">
-	<p>La sesión de una página expira en 30 minutos. Es después de este periodo que Master Data inicia el conteo del periodo programado para activar el trigger de carrito abandonado. Por lo tanto, el tiempo hasta que llega el email corresponde al tiempo de sesión (30 minutos) más el periodo programado en el trigger.</p>
-</div>
+  > ⚠️ La sesión de una página expira en 30 minutos. Es después de este periodo que Master Data inicia el conteo del periodo programado para activar el trigger de carrito abandonado. Por lo tanto, el tiempo hasta que llega el email corresponde al tiempo de sesión (30 minutos) más el periodo programado en el trigger.
 
 14. Después de que recibas el email de carrito abandonado, en el campo __Destinatario__ (paso 12), selecciona la opción __CL:Email__ y haz clic en `Agregar email dinámico`.
 15. Haz clic en `Guardar`.
@@ -147,7 +141,7 @@ Para configurar la funcionalidad de carrito abandonado en las tiendas VTEX IO, s
 3. Realice la [liberación del SPF](#liberacion-del-spf).
 4. [Configure el trigger](#configuracion-de-trigger) de la misma manera que en las tiendas Legacy hasta el Paso 10. A partir del Paso 11 (pestaña __Si es positivo__), siga las instrucciones disponibles en [Trigger configuration information](https://developers.vtex.com/vtex-developer-docs/docs/vtex-abandoned-cart-service#trigger-configuration-information).
 
-![If positive tab IO](//images.ctfassets.net/alneenqid6w5/4kuuU7JySZQVklXS2jtfsp/ce32f7997824f648690edefe77ad03c0/If_positive_Tab_IO.PNG)
+![If positive tab IO](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Checkout/checkout-settings/configurar-carrito-abandonado_5.PNG)
 
 ## Dudas frecuentes
 

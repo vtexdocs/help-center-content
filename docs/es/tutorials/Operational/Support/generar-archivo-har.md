@@ -19,9 +19,7 @@ Al buscar soluciones para un problema complejo, puede ser que nuestro equipo de 
 
 Una feature útil para esto es el log de requests generado por la herramienta de desarrollador del navegador (el _Dev Tools_). A través de él usted puede generar un archivo `.HAR`, que contiene información detallada sobre cada request.
 
-<div class = "alert alert-info">
-Para generar el archivo <code>.HAR</code>, recomendamos utilizar el navegador Google Chrome, ya que es un proceso sencillo, pero puedes usar otros navegadores, como Mozilla Firefox, Safari o Microsoft Edge.
-</div>
+> ℹ️ Para generar el archivo `.HAR`, recomendamos utilizar el navegador Google Chrome, ya que es un proceso sencillo, pero puedes usar otros navegadores, como Mozilla Firefox, Safari o Microsoft Edge.
 
 <br>
 
@@ -34,7 +32,5 @@ Consulte la siguiente tabla para ver la documentación con las instrucciones de 
 
 Después de exportar el archivo `.HAR`, basta enviarlo a nuestro equipo de Soporte VTEX. Cuando utilice el Google Chrome, asegúrese de configurar la [opción de exportación con datos sensibles](https://developer.chrome.com/blog/new-in-devtools-130?hl=es-419#har).
 
-<div class="alert alert-danger">
-El archivo HAR contiene información sensible sobre su tienda, por lo tanto compartalo sólo con el equipo de <a href="https://help.vtex.com/es/support">Soporte VTEX</a>.
-</div>
+> ❗ El archivo HAR contiene información sensible sobre su tienda, por lo tanto compartalo sólo con el equipo de [Soporte VTEX](https://help.vtex.com/es/support).
 

@@ -15,9 +15,7 @@ locale: es
 subcategoryId: 2nx7hMJmisofwqwy2P9l2i
 ---
 
-<div class="alert alert-warning">
-  <p>Tutorial válido únicamente para tiendas CMS Portal Legado.</p>
-</div>
+> ⚠️ Tutorial válido únicamente para tiendas CMS Portal Legado.
 
 El email de producto visitado es un mensaje automático que se envía a los clientes que han visitado la página de un producto en el sitio web, pero no finalizaron la compra. El propósito de este email es recuperar la venta y ofrecer otros productos.
 
@@ -29,9 +27,7 @@ Puedes configurarlo vía Master Data siguiendo las instrucciones de las seccione
 4. [Crear estructura de carpetas](#heading=h.tyjcwt)
 5. [Configurar trigger de envío de email](#heading=h.3dy6vkm)
 
-<div class="alert alert-warning">
-  <p>Para que este recurso funcione adecuadamente es necesario que tu tienda tenga un alto flujo de visitas y compras, ya que la estantería de productos se genera utilizando datos de navegación relacionados con un producto específico.</p>
-</div>
+> ⚠️ Para que este recurso funcione adecuadamente es necesario que tu tienda tenga un alto flujo de visitas y compras, ya que la estantería de productos se genera utilizando datos de navegación relacionados con un producto específico.
 
 ## Definir un intervalo mínimo de envío
 

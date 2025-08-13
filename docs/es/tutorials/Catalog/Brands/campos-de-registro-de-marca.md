@@ -19,15 +19,7 @@ Para entender mejor el significado de los campos de registro de Marca, vea a con
 
 - __Nombre__: nombre de la marca que desea registrar para identificación en un producto. Este campo es obligatorio y debe respetar el límite de 150 caracteres.
 
-<div class="alert alert-danger">
-  <p>Al rellenar el <b>Nombre</b> de la marca, evita utilizar las siguientes palabras reservadas, ya que esto puede perjudicar el rendimiento de tu tienda e interferir con el funcionamiento de las páginas del Admin VTEX. Consulta la lista de palabras reservadas a continuación.
-  <ul>
-<li><code>a</code></li>
-<li><code>meta</code></li>
-<li><code>api</code></li>
-<li><code>admin</code></li>
-</ul></p>
-</div>
+> ❗ Al rellenar el **Nombre** de la marca, evita utilizar las siguientes palabras reservadas, ya que esto puede perjudicar el rendimiento de tu tienda e interferir con el funcionamiento de las páginas del Admin VTEX. Consulta la lista de palabras reservadas a continuación. <ul> <li>`a`</li> <li>`meta`</li> <li>`api`</li> <li>`admin`</li> </ul>
 
 - __Palabras Sustitutas__: términos alternativos que llevan a la marca registrada. El objetivo es facilitarle al usuario encontrar la marca, incluso si lo escribe de diferentes formas. Normalmente estas palabras son diferencias o errores ortográficos y/o formas genéricas y extranjeras de denominar a la marca.   
 

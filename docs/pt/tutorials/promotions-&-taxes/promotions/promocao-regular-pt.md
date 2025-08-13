@@ -38,16 +38,14 @@ Os campos obrigatórios estão marcados com um asterisco (*).
 | Data e horário de início*        | Selecione a data e o horário exatos para o início da promoção, garantindo que ela seja ativada no momento desejado.                                                                                                                                                                                                                                           |
 | Data e horário de término*       | Configure a data e o horário exatos para sua desativação.                                                                                                                                                                                                                                                                                                       |
 | Usar configurações de recorrência | Selecione esta opção para programar a repetição automática da promoção em dias e horários específicos. Configure os intervalos desejados para garantir a recorrência.                                                                                                                                                                                         |
-| Qual o tipo e valor do desconto?*| Selecione o tipo e valor do desconto que será aplicado na promoção. Veja as opções de desconto a seguir: <br> - **Nominal**: desconto concedido ao total do carrinho. <br> - **Frete nominal**: desconto concedido ao valor do frete. <br> - **Percentual**: percentual de desconto sobre o valor do produto. <br> - **Preço máximo por item**: preço máximo para cada item. <br> - **Frete percentual**: percentual de desconto no valor do frete. <br> - **Frete máximo**: valor máximo do frete. <br> - **Frete grátis**: desconto total do frete. <br> - **Brinde**: desconto total do produto definido como brinde. A quantidade máxima refere-se ao número de SKUs diferentes que o usuário pode selecionar. <br> &nbsp;&nbsp;&nbsp;&nbsp;- A caixa "Ativar multiplicador de brindes" só funciona em promoções do tipo "Compre e Ganhe". Em promoções regulares, a configuração estará disponível, mas sem efeito no carrinho. <br> &nbsp;&nbsp;&nbsp;&nbsp;<div class = "alert alert-info">O produto brinde precisa ter um preço cadastrado, mesmo sendo oferecido gratuitamente ao cliente.</div> |
+| Qual o tipo e valor do desconto?*| Selecione o tipo e valor do desconto que será aplicado na promoção. Veja as opções de desconto a seguir: <br> - **Nominal**: desconto concedido ao total do carrinho. <br> - **Frete nominal**: desconto concedido ao valor do frete. <br> - **Percentual**: percentual de desconto sobre o valor do produto. <br> - **Preço máximo por item**: preço máximo para cada item. <br> - **Frete percentual**: percentual de desconto no valor do frete. <br> - **Frete máximo**: valor máximo do frete. <br> - **Frete grátis**: desconto total do frete. <br> - **Brinde**: desconto total do produto definido como brinde. A quantidade máxima refere-se ao número de SKUs diferentes que o usuário pode selecionar. <br> &nbsp;&nbsp;&nbsp;&nbsp;- A caixa "Ativar multiplicador de brindes" só funciona em promoções do tipo "Compre e Ganhe". Em promoções regulares, a configuração estará disponível, mas sem efeito no carrinho. <br> &nbsp;&nbsp;&nbsp;&nbsp;> ℹ️ O produto brinde precisa ter um preço cadastrado, mesmo sendo oferecido gratuitamente ao cliente. |
 | Desconto baseado em fórmula      | O desconto é calculado com base em fórmula com variáveis como soma dos preços de produtos, frete e quantidade de itens. O frete considerado será o menor disponível, independentemente da seleção do cliente. <br> **Exemplo**: `(total + freight) * 0.3`                                                                                                       |
 | Valor fidelidade nominal         | Crédito adicionado ao programa de fidelidade. Ver: *Promoção regular com valor fidelidade*.                                                                                                                                                                                                                                                                    |
 | Valor fidelidade percentual      | Crédito percentual adicionado ao programa de fidelidade. Ver: *Promoção regular com valor fidelidade*.                                                                                                                                                                                                                                                         |
 | Tabela de preços promocionais    | Uma tabela de preços pode ser utilizada como promoção. O preço promocional de cada SKU será o preço correspondente na tabela selecionada.                                                                                                                                                                                                                      |
 | Destaque nos produtos            | Insere uma caixa de seleção com o nome da promoção, exibida na vitrine e na PDP, desde que o template use `<vtex.cmc:discountHighLight/>`.                                                                                                                                                                                                                      |
 
-<div class = "alert alert-info">
-Promoções do tipo **Nominal** só serão apresentadas no carrinho, e não na vitrine ou na PDP.
-</div>
+> ℹ️ Promoções do tipo **Nominal** só serão apresentadas no carrinho, e não na vitrine ou na PDP.
 
 #### Restringir esta promoção a produtos dos sellers
 
@@ -58,13 +56,7 @@ Nesta seção, é possível definir para quais sellers a promoção será aplica
 
 Para que a promoção seja válida para todos os sellers, deixe a seleção vazia.
 
-<div class="alert alert-warning">
-  <p>Não é possível selecionar diretamente um seller white label. Para incluir um seller white na promoção, existem duas opções:</p>
-  <ol>
-    <li>Restringir os sellers à loja principal. Essa restrição adiciona todos os sellers white label da sua loja à promoção.</li>
-    <li>Deixar a seleção vazia, incluindo todos os sellers. Aqui, todos os tipos de sellers – white label ou não – serão adicionados à promoção.</li>
-  </ol>
-</div>
+> ⚠️ Não é possível selecionar diretamente um seller white label. Para incluir um seller white na promoção, existem duas opções: <ol> <li>Restringir os sellers à loja principal. Essa restrição adiciona todos os sellers white label da sua loja à promoção.</li> <li>Deixar a seleção vazia, incluindo todos os sellers. Aqui, todos os tipos de sellers – white label ou não – serão adicionados à promoção.</li> </ol>
 
 #### Política Comercial
 Esta seção estabelece as políticas comerciais válidas para a promoção. Você pode incluir ou excluir políticas comerciais do desconto.
@@ -91,16 +83,14 @@ Cada campo oferece as opções **Iguais a** (inclusão) ou **Diferentes de** (ex
 
 No exemplo abaixo, a promoção foi configurada para incluir todos os produtos da categoria Alimentação, com a marca Pedigree, exceto o produto Ração Whiskas Sachê. Veja como os campos foram preenchidos:
 
-![Tela quais itens-pt](//images.ctfassets.net/alneenqid6w5/4v5wXtdO7CzCCHI0F0heTC/0ec93a1795105467af51e999595bde9c/Tela_quais_itens-pt.png)
+![Tela quais itens-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promotions-&-taxes/promotions/promocao-regular-pt_1.png)
 
 Para facilitar o preenchimento de produtos ou SKUs, você pode carregar um arquivo **.txt** contendo os IDs desejados. O arquivo deve listar um ID por linha. Para fazer o upload:
 
 - Clique em **Selecione um arquivo em .txt** no campo correspondente ao produto ou SKU desejado.
 - Selecione o arquivo **.txt** com os IDs de produtos ou SKUs.
 
-<div class = "alert alert-warning">
-<p>Se você selecionar <strong>Aplicar aos seguintes produtos</strong> e não preencher nenhum dos critérios de seleção, a promoção não será cadastrada e a mensagem <strong>Defina os produtos elegíveis ou aplique a todos os produtos</strong> será exibida. Nesse caso, você deve retornar e preencher os critérios de seleção ou optar por <strong>Aplicar a todos os produtos</strong>.</p>
-</div>
+> ⚠️ Se você selecionar **Aplicar aos seguintes produtos** e não preencher nenhum dos critérios de seleção, a promoção não será cadastrada e a mensagem **Defina os produtos elegíveis ou aplique a todos os produtos** será exibida. Nesse caso, você deve retornar e preencher os critérios de seleção ou optar por **Aplicar a todos os produtos**.
 
 Para que os produtos sejam incluídos na promoção, eles devem atender a todas as condições configuradas nesta seção.
 
@@ -121,24 +111,18 @@ O carrinho do cliente deve atender às condições cadastradas nesta seção par
 - **Aplicar o desconto somente quando uma das transportadoras acima for selecionada pelo cliente:** a promoção será aplicada somente após o cliente efetivamente selecionar a forma de entrega em questão. Enquanto não for selecionada, ela ficará sem o desconto. Esse critério somente será considerado se o tipo da promoção for relativo ao valor de frete, ou seja, somente se for um dos seguintes tipos: Frete percentual, Frete nominal, Frete máximo ou Frete grátis.
 - **Meio de pagamento:** o desconto será concedido se a forma de pagamento selecionada pelo cliente for a mesma cadastrada na promoção. Esse desconto será aplicado na finalização da compra somente quando o cliente selecionar a mesma forma de pagamento cadastrada.
 
-    <div class="alert alert-info">
-<p>Por padrão, você pode cadastrar até 20 meios de pagamento por promoção. Além disso, existe a possibilidade de customização para incluir até 100 meios de pagamento. Caso precise utilizar mais de 20, entre em contato com o <a href="https://support.vtex.com/hc/pt-br/requests" target="_blank">nosso Suporte</a>.</p>
-</div>
+    > ℹ️ Por padrão, você pode cadastrar até 20 meios de pagamento por promoção. Além disso, existe a possibilidade de customização para incluir até 100 meios de pagamento. Caso precise utilizar mais de 20, entre em contato com o [nosso Suporte](https://support.vtex.com/hc/pt-br/requests).
 
 - **Número de parcelas:** o desconto será concedido se o número de parcelas selecionadas pelo cliente estiver no intervalo cadastrado. Esse campo não se aplica para a seleção de boleto.
 
-    <div class="alert alert-warning">
-<p>Promoções por forma de pagamento e número de parcelas não atendem a pedidos pagos com dois cartões ou vale-compras.</p>
-</div>
+    > ⚠️ Promoções por forma de pagamento e número de parcelas não atendem a pedidos pagos com dois cartões ou vale-compras.
 
 - **utm_source:** o desconto será concedido se a navegação for realizada com o utm_source correspondente a qualquer um dos valores cadastrados. É importante destacar que o cliente pode inserir apenas um **utm_source** no checkout.
 - **utm_campaign:** o desconto será concedido se a navegação for realizada com o utm_campaign correspondente ao valor cadastrado.
 - **Criar cupom a partir das UTMs acima:** cria um cupom a partir das UTMs cadastradas para dar ao cliente acesso à essa promoção sem a necessidade das utms, apenas com o código do cupom.
 - **utmi_cp:** o desconto será concedido caso a navegação seja realizada com o utmi_cp com o valor cadastrado (letras maiúsculas e minúsculas são tratadas como caracteres diferentes).
 
-    <div class = "alert alert-info">
-     <p>No campo das UTMs coloque somente o valor que as UTMs terão que assumir para ativar a promoção. Não é necessário colocar <i>?utm_source=</i> dentro do campo.</p>
-  </div>
+    > ℹ️ No campo das UTMs coloque somente o valor que as UTMs terão que assumir para ativar a promoção. Não é necessário colocar *?utm_source=* dentro do campo.
 
 - **Apenas na primeira compra:** o desconto só será concedido na primeira compra do cliente.
 - **Pedido de assinatura:** opção que define que a promoção será aplicada para pedidos de assinatura. Veja as condições para os tipos de pedido a seguir:

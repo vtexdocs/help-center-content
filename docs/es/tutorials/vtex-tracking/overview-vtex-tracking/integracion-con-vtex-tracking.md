@@ -15,4 +15,4 @@ locale: es
 subcategoryId: t5ai1r0dN7J4U1IYLbHmG
 ---
 
-<div class="alert alert-warning" role="alert">Actualmente, la solución VTEX Tracking se encuentra disponible exclusivamente en Brasil. Por lo tanto, este contenido solo se encuentra a disposición en portugués.</div>
+> ⚠️ Actualmente, la solución VTEX Tracking se encuentra disponible exclusivamente en Brasil. Por lo tanto, este contenido solo se encuentra a disposición en portugués.

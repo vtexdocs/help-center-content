@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
-<div class="alert alert-warning">No se recomienda cambiar la altura del elemento HTML de la toolbar. Se tu tienda tiene un header fijo en la parte superior de la pantalla, hay que utilizar la propiedade css `top` con la altura necesaria para evitar sobreposición entre el header y la barra</div>
+> ⚠️ No se recomienda cambiar la altura del elemento HTML de la toolbar. Se tu tienda tiene un header fijo en la parte superior de la pantalla, hay que utilizar la propiedade css `top` con la altura necesaria para evitar sobreposición entre el header y la barra
 
 
 La nueva toolbar de televentas puede ser personalizada con los estilos de su tienda o con javascript. Para anular los estilos originales de la toolbar, es necesario hacer la personalización en un archivo **.css** o **.js** y cargarlo en en template de la página.

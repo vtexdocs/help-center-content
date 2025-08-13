@@ -51,9 +51,7 @@ Para criar uma nova política de envio, siga os passos abaixo:
         *   Selecione o `Dia da semana` e preencha o `Horário da coleta`. 
         *   Para adicionar mais dias da semana, clique em `Adicionar horário de coleta`.
 
-<div class="alert alert-warning">
-A <b>Janela de envio</b> e <b>Horário de coleta</b> são opções excludentes, pois um mesmo período não pode ser simultaneamente destinado a ações diferentes.
-</div>
+> ⚠️ A **Janela de envio** e **Horário de coleta** são opções excludentes, pois um mesmo período não pode ser simultaneamente destinado a ações diferentes.
 
 *   **[Entrega agendada:](https://help.vtex.com/pt/tutorial/entrega-agendada--22g3HAVCGLFiU7xugShOBi)** essa funcionalidade pode ser habilitada caso a política de envio ofereça o serviço de entrega agendada. É aqui que você deverá adicionar as janelas de entrega que ficarão disponíveis para o cliente ao final da compra. Para utilizar, habilite `entrega agendada` e preencha:
     *   **Tempo máximo de entrega:** define o tempo máximo de entrega, deve ser preenchido com o tempo em dias.

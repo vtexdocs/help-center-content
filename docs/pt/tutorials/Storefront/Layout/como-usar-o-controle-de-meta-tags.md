@@ -54,6 +54,4 @@ Veja abaixo um exemplo de meta tags inseridas pelo controle `<vtex:metaTags/>` p
 <link rel="canonical" href="http://lojadobreno.vtexcommercestable.com.br/escalada">
 ```
 
-<div class="alert alert-info">
-Caso não queira usar a tag canonical (&lt;link rel="canonical"&gt;), você pode desabilitá-la por meio de um <a href="https://developers.vtex.com/docs/guides/control-to-disable-the-canonical-tag">controle específico para isso</a>.
-</div>
+> ℹ️ Caso não queira usar a tag canonical (&lt;link rel="canonical"&gt;), você pode desabilitá-la por meio de um [controle específico para isso](https://developers.vtex.com/docs/guides/control-to-disable-the-canonical-tag).

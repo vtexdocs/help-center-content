@@ -21,9 +21,7 @@ Las tags son categorías que definen las características del pedido e indican l
 
 Este artículo describe las tags del módulo de facturación. El objetivo de este contenido es aumentar la transparencia en tu relación comercial con VTEX.
 
-<div class="alert alert-warning">
-El sistema de tags de pedidos no realiza ningún tipo de cobro a los clientes de la tienda. Solo es una fuente de datos consultada por el módulo de facturación para calcular la factura.
-</div> 
+> ⚠️ El sistema de tags de pedidos no realiza ningún tipo de cobro a los clientes de la tienda. Solo es una fuente de datos consultada por el módulo de facturación para calcular la factura. 
 
 ## Pasos iniciales para la asignación de tags a pedidos
 
@@ -32,17 +30,13 @@ Para que se le puedan asignar tags, un pedido debe cumplir las siguientes condic
 * Tener toda la [información que compone un pedido](https://help.vtex.com/es/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa) (no se les asignan tags a pedidos [incompletos](https://help.vtex.com/es/tutorial/entendendo-os-pedidos-incompletos--tutorials_294)).
 * Tener la información de pago con los datos de autorización de la transacción financiera.
 
-<div class = "alert alert-info">
-Los pedidos generados por <a href="https://help.vtex.com/es/tutorial/multilevel-omnichannel-inventory--7M1xyCZWUyCB7PcjNtOyw4">Multinivel Omnichannel Inventory (MOI)</a>, también conocidos como pedidos <i>chain</i>, no incluyen la información de pago y, por lo tanto, no se les asignan tags ni pueden ser cobrados.
-</div>
+> ℹ️ Los pedidos generados por [Multinivel Omnichannel Inventory (MOI)](https://help.vtex.com/es/tutorial/multilevel-omnichannel-inventory--7M1xyCZWUyCB7PcjNtOyw4), también conocidos como pedidos *chain*, no incluyen la información de pago y, por lo tanto, no se les asignan tags ni pueden ser cobrados.
 
 ## Modificación de pedidos y tags
 
 Las tags solo se asignan a un pedido una vez que ha sido finalizado. Sin embargo, cuando un pedido se [modifica](https://help.vtex.com/es/tutorial/como-alterar-pedidos-beta--7btlG91rb6sHpW1dkd2kBw#status-del-pedido-a-modificar), las tags se vuelven a procesar, ya que el cambio puede afectar las condiciones del take rate que se cobrará.
 
-<div class="alert alert-danger">
-El pedido puede modificarse varias veces, lo que a su vez puede resultar en cambios en las tags asignadas por el módulo de facturación. Mientras el pedido tiene el status <code>esperando fulfillment</code>, se pueden realizar modificaciones y actualizar las tags.
-</div>
+> ❗ El pedido puede modificarse varias veces, lo que a su vez puede resultar en cambios en las tags asignadas por el módulo de facturación. Mientras el pedido tiene el status `esperando fulfillment`, se pueden realizar modificaciones y actualizar las tags.
 
 ## Grupos de tags
 
@@ -63,27 +57,21 @@ A continuación se listan las tags de los canales de venta que generan el pedido
 * **IsSalesAppDeliveredByMainAccount:** solución [VTEX Sales App](https://help.vtex.com/es/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc). Esta tag se aplica cuando el ítem vendido pertenecía a la [cuenta principal](https://help.vtex.com/es/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#tipos-de-cuenta-vtex) y la venta se realizó en el entorno de la cuenta principal.
 * **IsSocialSelling:** aplicación [Carrito compartido (Social Selling)](https://help.vtex.com/es/tutorial/como-usar-o-app-carrinho-compartilhavel--3ePPpkmeZ96GXbeIoGZbTN).
 
-  <div class = "alert alert-info">
-La tag <code>IsSocialSelling</code> solo es válida para los pedidos de <a href="https://help.vtex.com/es/tutorial/como-usar-o-app-carrinho-compartilhavel--3ePPpkmeZ96GXbeIoGZbTN">Carrito compartido (Social Selling)</a> iniciados por <b>VTEX Sales App</b>.
-</div>
+  > ℹ️ La tag `IsSocialSelling` solo es válida para los pedidos de [Carrito compartido (Social Selling)](https://help.vtex.com/es/tutorial/como-usar-o-app-carrinho-compartilhavel--3ePPpkmeZ96GXbeIoGZbTN) iniciados por **VTEX Sales App**.
 
 * **IsCallCenter:** solución VTEX Sales App. Esta tag se aplica cuando la venta fue promovida por un vendedor, agente o consultor, como es el caso de [televentas](https://help.vtex.com/es/tutorial/como-configurar-as-funcionalidades-de-televendas--76FNgQP2Glc4umMJ5Yr50R).
 * **IsOnHands:** solución de **VTEX Sales App**. Esta tag se aplica cuando el pedido se realizó en una tienda física y el ítem del stock estaba almacenado localmente. Esta tag se asigna en el entorno del marketplace.
 * **IsOnHandsFulfillment:** solución **VTEX Sales App**. Esta tag se aplica cuando el ítem vendido pertenecía al seller. Esta tag se asigna en el entorno del seller.
 
-<div class = "alert alert-info">
-Cuando la tienda opera como marketplace y seller, se le asigna la tag <code>IsOnHandsFulfillment</code> al pedido.
-</div>
+> ℹ️ Cuando la tienda opera como marketplace y seller, se le asigna la tag `IsOnHandsFulfillment` al pedido.
 
 ## Tags de origen del pedido
 
 La siguiente imagen muestra como se asignan las tags de origen de pedido en el caso de marketplaces y sellers:
 
-![marcacao_pedidos_ES](//images.ctfassets.net/alneenqid6w5/3q4rRQ1ATOB7vJGm2AfwNL/67cb1c34478f7e4573d1b001bd37d721/marcacao_pedidos_ES.png)
+![marcacao_pedidos_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Billing/Contracts/tags-de-pedidos-utilizadas-por-el-modulo-de-facturacion_1.png)
 
-<div class="alert alert-warning">
-A través de acuerdos comerciales, VTEX otorga un tipo de certificación a determinados canales de venta. Cuando el pedido se generó en un canal de venta que no tiene este nivel de certificación, no hay tag de pedido por origen y el pedido se marca como <code>IsB2C</code>. Es decir, sólo los canales de venta certificados están marcados por origen.
-</div>
+> ⚠️ A través de acuerdos comerciales, VTEX otorga un tipo de certificación a determinados canales de venta. Cuando el pedido se generó en un canal de venta que no tiene este nivel de certificación, no hay tag de pedido por origen y el pedido se marca como `IsB2C`. Es decir, sólo los canales de venta certificados están marcados por origen.
 
 El flujo de `IsMarketplace` marca pedidos en el entorno del seller y el flujo `IsSeller` marca pedidos en el entorno del marketplace. Todas las tags de los flujos se describen a continuación.
 

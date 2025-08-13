@@ -29,9 +29,7 @@ Existen los siguientes tipos de informes:
 - [Suscripciones creadas entre fechas](#suscripciones-creadas-entre-fechas)
 - [Suscripciones ejecutadas entre fechas](#suscripciones-ejecutadas-entre-fechas)
 
-<div class="alert alert-info">
-  <p>También puedes usar el endpoint <a href=https://developers.vtex.com/docs/api-reference/subscriptions-api-v3#get-/api/rns/pvt/reports>List report templates</a> para conocer los tipos de informe que puedes generar.</p>
-</div>
+> ℹ️ También puedes usar el endpoint <a href=https://developers.vtex.com/docs/api-reference/subscriptions-api-v3#get-/api/rns/pvt/reports>List report templates</a> para conocer los tipos de informe que puedes generar.
 
 Este artículo presenta los diferentes datos que devuelve cada tipo de informe de suscripciones.
 
@@ -45,9 +43,9 @@ Las columnas corresponden a información específica sobre la suscripción, conf
 | ID | ID de la suscripción. |
 | Customer Email | Email del cliente. |
 | Customer Id | ID del cliente. |
-| Status | <p> Status de la suscripción en el momento de generar el informe. </p> <p> `TRIGGERED`: se activó una ejecución del ciclo de la suscripción. </p> <p> `IN_PROCESS`: la suscripción está siendo procesada por el sistema (status temporal). </p> <p> `FAILURE`: se produjo un error interno al ejecutar la suscripción. </p> <p> `SUCCESS`: el ciclo de suscripción se procesó con éxito. </p> <p> `EXPIRED`: la suscripción no se renovó y se superó la fecha límite vigente. </p> <p> `ORDER_ERROR`: el ciclo de la suscripción no se ejecutó debido a un error en el _place order_ del pedido. </p> <p> `PAYMENT_ERROR`: el ciclo de suscripción no se ejecutó debido a un error en el pago. </p> <p> `SKIPED`: se omitió la ejecución de un ciclo de suscripción y esta se ejecutará en el siguiente ciclo. </p> <p> `SUCCESS_WITH_NO_ORDER`: un ciclo de suscripción se ejecutó con éxito y el pedido vinculado no contiene ítems. </p> <p> `SUCCESS_WITH_PARTIAL_ORDER`: un ciclo de suscripción se ejecutó con éxito y tiene un pedido parcial vinculado. </p> <p> `RE_TRIGGERED`: se activó manualmente una reejecución del ciclo de suscripción. </p> <p> `SCHEDULE_UPDATED`: la fecha de la próxima ejecución del ciclo de la suscripción fue actualizada. </p> 
-| Has Active Items | <p> informa si la suscripción contiene ítems activos. </p> <p> `TRUE`: contiene ítems activos. </p> <p> "FALSE": no contiene ítems activos. </p> 
-| Is Skipped | <p> Indica si se omitirá el ciclo de la suscripción. </p> <p> `TRUE`: el ciclo se omitirá. </p> <p> `FALSE`: el ciclo no se omitirá. </p> 
+| Status |  Status de la suscripción en el momento de generar el informe.   `TRIGGERED`: se activó una ejecución del ciclo de la suscripción.   `IN_PROCESS`: la suscripción está siendo procesada por el sistema (status temporal).   `FAILURE`: se produjo un error interno al ejecutar la suscripción.   `SUCCESS`: el ciclo de suscripción se procesó con éxito.   `EXPIRED`: la suscripción no se renovó y se superó la fecha límite vigente.   `ORDER_ERROR`: el ciclo de la suscripción no se ejecutó debido a un error en el _place order_ del pedido.   `PAYMENT_ERROR`: el ciclo de suscripción no se ejecutó debido a un error en el pago.   `SKIPED`: se omitió la ejecución de un ciclo de suscripción y esta se ejecutará en el siguiente ciclo.   `SUCCESS_WITH_NO_ORDER`: un ciclo de suscripción se ejecutó con éxito y el pedido vinculado no contiene ítems.   `SUCCESS_WITH_PARTIAL_ORDER`: un ciclo de suscripción se ejecutó con éxito y tiene un pedido parcial vinculado.   `RE_TRIGGERED`: se activó manualmente una reejecución del ciclo de suscripción.   `SCHEDULE_UPDATED`: la fecha de la próxima ejecución del ciclo de la suscripción fue actualizada.  
+| Has Active Items |  informa si la suscripción contiene ítems activos.   `TRUE`: contiene ítems activos.   "FALSE": no contiene ítems activos.  
+| Is Skipped |  Indica si se omitirá el ciclo de la suscripción.   `TRUE`: el ciclo se omitirá.   `FALSE`: el ciclo no se omitirá.  
 | Next Purchase Date | Fecha de la próxima compra. |
 | Last Purchase Date | Fecha de la última compra. |
 | Periodicity | Periodicidad de la suscripción. |
@@ -67,7 +65,7 @@ Las columnas corresponden a información específica sobre la suscripción, conf
 | Subscriptions Item Sku Id | SKUs de los ítems de la suscripción. |
 | Subscriptions Item PriceAtSubscriptionDate | Valor de los ítems en el momento de la suscripción. |
 | Subscriptions Item Quantity | Cantidad de ítems de la suscripción. |
-| Subscriptions Item Is Skipped | <p> Informa si se omitirán ítems de la suscripción. </p> <p> `TRUE`: los ítems se omitirán. </p> <p> `FALSE`: los ítems no se omitirán. </p> 
+| Subscriptions Item Is Skipped |  Informa si se omitirán ítems de la suscripción.   `TRUE`: los ítems se omitirán.   `FALSE`: los ítems no se omitirán.  
 | Subscriptions Item Cycle | Ciclo de los ítems de la suscripción. |
 | Subscriptions Item OriginalOrder | Pedido original de los ítems de la suscripción. | 
 
@@ -81,9 +79,9 @@ Las columnas corresponden a información específica sobre la suscripción, conf
 | ID | ID de la suscripción. |
 | Customer Email | Email del cliente. |
 | Customer Id| ID del cliente. |
-| Status | <p> Status de la suscripción en el momento de generar el informe. </p> <p> `TRIGGERED`: se activó una ejecución del ciclo de suscripción. </p> <p> `IN_PROCESS`: la suscripción está siendo procesada por el sistema (status temporal). </p> <p> `FAILURE`: se produjo un error interno al ejecutar la suscripción. </p> <p> `SUCCESS`: el ciclo de suscripción se procesó con éxito. </p> <p> `EXPIRED`: la suscripción no se renovó y se superó la fecha límite vigente. </p> <p> `ORDER_ERROR`: el ciclo de la suscripción no se ejecutó debido a un error en el _place order_ del pedido. </p> <p> `PAYMENT_ERROR`: el ciclo de suscripción no se ejecutó debido a un error en el pago. </p> <p> `SKIPED`: se omitió la ejecución de un ciclo de suscripción y se ejecutará en el siguiente ciclo. </p> <p> `SUCCESS_WITH_NO_ORDER`: un ciclo de suscripción se ejecutó con éxito y el pedido vinculado no contiene ítems. </p> <p> `SUCCESS_WITH_PARTIAL_ORDER`: un ciclo de suscripción se ejecutó con éxito y contiene un pedido parcial vinculado. </p> <p> `RE_TRIGGERED`: se activó manualmente una reejecución del ciclo de suscripción. </p> <p> `SCHEDULE_UPDATED`: se actualizó la fecha de la próxima ejecución del ciclo de la suscripción. </p> 
-| Has Active Items | <p> informa si la suscripción contiene ítems activos. </p> <p> `TRUE`: contiene ítems activos. </p> <p> "FALSE": no contiene ítems activos. </p> 
-| Is Skipped | <p> Indica si se omitirá el ciclo de la suscripción. </p> <p> `TRUE`: el ciclo se omitirá. </p> <p> `FALSE`: el ciclo no se omitirá. </p> 
+| Status |  Status de la suscripción en el momento de generar el informe.   `TRIGGERED`: se activó una ejecución del ciclo de suscripción.   `IN_PROCESS`: la suscripción está siendo procesada por el sistema (status temporal).   `FAILURE`: se produjo un error interno al ejecutar la suscripción.   `SUCCESS`: el ciclo de suscripción se procesó con éxito.   `EXPIRED`: la suscripción no se renovó y se superó la fecha límite vigente.   `ORDER_ERROR`: el ciclo de la suscripción no se ejecutó debido a un error en el _place order_ del pedido.   `PAYMENT_ERROR`: el ciclo de suscripción no se ejecutó debido a un error en el pago.   `SKIPED`: se omitió la ejecución de un ciclo de suscripción y se ejecutará en el siguiente ciclo.   `SUCCESS_WITH_NO_ORDER`: un ciclo de suscripción se ejecutó con éxito y el pedido vinculado no contiene ítems.   `SUCCESS_WITH_PARTIAL_ORDER`: un ciclo de suscripción se ejecutó con éxito y contiene un pedido parcial vinculado.   `RE_TRIGGERED`: se activó manualmente una reejecución del ciclo de suscripción.   `SCHEDULE_UPDATED`: se actualizó la fecha de la próxima ejecución del ciclo de la suscripción.  
+| Has Active Items |  informa si la suscripción contiene ítems activos.   `TRUE`: contiene ítems activos.   "FALSE": no contiene ítems activos.  
+| Is Skipped |  Indica si se omitirá el ciclo de la suscripción.   `TRUE`: el ciclo se omitirá.   `FALSE`: el ciclo no se omitirá.  
 | Next Purchase Date | Fecha de la próxima compra. |
 | Last Purchase Date | Fecha de la última compra. |
 | Periodicity | Periodicidad de la suscripción. |
@@ -103,7 +101,7 @@ Las columnas corresponden a información específica sobre la suscripción, conf
 | Subscriptions Item Sku Id | SKUs de los ítems de la suscripción. |
 | Subscriptions Item PriceAtSubscriptionDate | Valor de los ítems en el momento de la suscripción. |
 | Subscriptions Item Quantity | Cantidad de ítems de la suscripción. |
-| Subscriptions Item Is Skipped | <p> Informa si se omitirán los ítems de la suscripción. </p> <p> `TRUE`: los ítems se omitirán. </p> <p> `FALSE`: los ítems no se omitirán. </p> 
+| Subscriptions Item Is Skipped |  Informa si se omitirán los ítems de la suscripción.   `TRUE`: los ítems se omitirán.   `FALSE`: los ítems no se omitirán.  
 | Subscriptions Item Cycle | Ciclo de los ítems de la suscripción. |
 | Subscriptions Item OriginalOrder | Pedido original de los ítems de la suscripción. | 
 
@@ -117,9 +115,9 @@ Las columnas corresponden a información específica sobre la suscripción, conf
 | ID | ID de la suscripción. |
 | Customer Email | Email del cliente. |
 | Customer Id| ID del cliente. |
-| Status | <p> Status de la suscripción en el momento de generar el informe. </p> <p> `TRIGGERED`: se activó una ejecución del ciclo de suscripción. </p> <p> `IN_PROCESS`: la suscripción está siendo procesada por el sistema (status temporal). </p> <p> `FAILURE`: se produjo un error interno al ejecutar la suscripción. </p> <p> `SUCCESS`: el ciclo de suscripción se procesó con éxito. </p> <p> `EXPIRED`: la suscripción no se renovó y se superó la fecha límite vigente. </p> <p> `ORDER_ERROR`: el ciclo de suscripción no se ejecutó debido a un error en el _place order_ del pedido. </p> <p> `PAYMENT_ERROR`: el ciclo de suscripción no se ejecutó debido a un error en el pago. </p> <p> `SKIPED`: se omitió la ejecución de un ciclo de suscripción y se ejecutará en el siguiente ciclo. </p> <p> `SUCCESS_WITH_NO_ORDER`: un ciclo de suscripción se ejecutó con éxito y el pedido vinculado no contiene ítems. </p> <p> `SUCCESS_WITH_PARTIAL_ORDER`: un ciclo de suscripción se ejecutó con éxito y contiene un pedido parcial vinculado. </p> <p> `RE_TRIGGERED`: se activó manualmente una reejecución del ciclo de suscripción. </p> <p> `SCHEDULE_UPDATED`: se actualizó la fecha de la próxima ejecución del ciclo de la suscripción. </p> 
-| Has Active Items | <p> informa si la suscripción contiene ítems activos. </p> <p> `TRUE`: contiene ítems activos. </p> <p> "FALSE": no contiene ítems activos. </p> 
-| Is Skipped | <p> Indica si se omitirá el ciclo de la suscripción. </p> <p> `TRUE`: el ciclo se omitirá. </p> <p> `FALSE`: el ciclo no se omitirá. </p> 
+| Status |  Status de la suscripción en el momento de generar el informe.   `TRIGGERED`: se activó una ejecución del ciclo de suscripción.   `IN_PROCESS`: la suscripción está siendo procesada por el sistema (status temporal).   `FAILURE`: se produjo un error interno al ejecutar la suscripción.   `SUCCESS`: el ciclo de suscripción se procesó con éxito.   `EXPIRED`: la suscripción no se renovó y se superó la fecha límite vigente.   `ORDER_ERROR`: el ciclo de suscripción no se ejecutó debido a un error en el _place order_ del pedido.   `PAYMENT_ERROR`: el ciclo de suscripción no se ejecutó debido a un error en el pago.   `SKIPED`: se omitió la ejecución de un ciclo de suscripción y se ejecutará en el siguiente ciclo.   `SUCCESS_WITH_NO_ORDER`: un ciclo de suscripción se ejecutó con éxito y el pedido vinculado no contiene ítems.   `SUCCESS_WITH_PARTIAL_ORDER`: un ciclo de suscripción se ejecutó con éxito y contiene un pedido parcial vinculado.   `RE_TRIGGERED`: se activó manualmente una reejecución del ciclo de suscripción.   `SCHEDULE_UPDATED`: se actualizó la fecha de la próxima ejecución del ciclo de la suscripción.  
+| Has Active Items |  informa si la suscripción contiene ítems activos.   `TRUE`: contiene ítems activos.   "FALSE": no contiene ítems activos.  
+| Is Skipped |  Indica si se omitirá el ciclo de la suscripción.   `TRUE`: el ciclo se omitirá.   `FALSE`: el ciclo no se omitirá.  
 | Next Purchase Date | Fecha de la próxima compra. |
 | Last Purchase Date | Fecha de la última compra. |
 | Periodicity | Periodicidad de la suscripción. |
@@ -139,7 +137,7 @@ Las columnas corresponden a información específica sobre la suscripción, conf
 | Subscriptions Item Sku Id | SKUs de los ítems de la suscripción. |
 | Subscriptions Item PriceAtSubscriptionDate | Valor de los ítems en el momento de la suscripción. |
 | Subscriptions Item Quantity | Cantidad de ítems de la suscripción. |
-| Subscriptions Item Is Skipped | <p> Informa si se omitirán los ítems de la suscripción. </p> <p> `TRUE`: los ítems se omitirán. </p> <p> `FALSE`: los ítems no se omitirán. </p> 
+| Subscriptions Item Is Skipped |  Informa si se omitirán los ítems de la suscripción.   `TRUE`: los ítems se omitirán.   `FALSE`: los ítems no se omitirán.  
 | Subscriptions Item Cycle | Ciclo de los ítems de la suscripción. |
 | Subscriptions Item OriginalOrder | Pedido original de los ítems de la suscripción. | 
 
@@ -153,9 +151,9 @@ Las columnas corresponden a información específica sobre la suscripción, conf
 | ID | ID de la suscripción. |
 | Customer Email | Email del cliente. |
 | Customer Id | ID del cliente. |
-| Status | <p> Status de la suscripción en el momento de generar el informe. </p> <p> `TRIGGERED`: se activó una ejecución del ciclo de suscripción. </p> <p> `IN_PROCESS`: la suscripción está siendo procesada por el sistema (status temporal). </p> <p> `FAILURE`: se produjo un error interno al ejecutar la suscripción. </p> <p> `SUCCESS`: el ciclo de suscripción se procesó con éxito. </p> <p> `EXPIRED`: la suscripción no se renovó y superó la fecha límite vigente. </p> <p> `ORDER_ERROR`: el ciclo de la suscripción no se ejecutó debido a un error en el _place order_ del pedido. </p> <p> `PAYMENT_ERROR`: el ciclo de suscripción no se ejecutó debido a un error en el pago. </p> <p> `SKIPED`: se omitió la ejecución de un ciclo de suscripción y se ejecutará en el siguiente ciclo. </p> <p> `SUCCESS_WITH_NO_ORDER`: un ciclo de suscripción se ejecutó con éxito y el pedido vinculado no contiene ítems. </p> <p> `SUCCESS_WITH_PARTIAL_ORDER`: un ciclo de suscripción se ejecutó con éxito y contiene un pedido parcial vinculado. </p> <p> `RE_TRIGGERED`: se activó manualmente una reejecución del ciclo de suscripción. </p> <p> `SCHEDULE_UPDATED`: se actualizó la fecha de la próxima ejecución del ciclo de la suscripción. </p> 
-| Has Active Items | <p> informa si la suscripción contiene ítems activos. </p> <p> `TRUE`: contiene ítems activos. </p> <p> "FALSE": no contiene ítems activos. </p> 
-| Is Skipped | <p> Indica si se omitirá el ciclo de la suscripción. </p> <p> `TRUE`: el ciclo se omitirá. </p> <p> `FALSE`: el ciclo no se omitirá. </p> 
+| Status |  Status de la suscripción en el momento de generar el informe.   `TRIGGERED`: se activó una ejecución del ciclo de suscripción.   `IN_PROCESS`: la suscripción está siendo procesada por el sistema (status temporal).   `FAILURE`: se produjo un error interno al ejecutar la suscripción.   `SUCCESS`: el ciclo de suscripción se procesó con éxito.   `EXPIRED`: la suscripción no se renovó y superó la fecha límite vigente.   `ORDER_ERROR`: el ciclo de la suscripción no se ejecutó debido a un error en el _place order_ del pedido.   `PAYMENT_ERROR`: el ciclo de suscripción no se ejecutó debido a un error en el pago.   `SKIPED`: se omitió la ejecución de un ciclo de suscripción y se ejecutará en el siguiente ciclo.   `SUCCESS_WITH_NO_ORDER`: un ciclo de suscripción se ejecutó con éxito y el pedido vinculado no contiene ítems.   `SUCCESS_WITH_PARTIAL_ORDER`: un ciclo de suscripción se ejecutó con éxito y contiene un pedido parcial vinculado.   `RE_TRIGGERED`: se activó manualmente una reejecución del ciclo de suscripción.   `SCHEDULE_UPDATED`: se actualizó la fecha de la próxima ejecución del ciclo de la suscripción.  
+| Has Active Items |  informa si la suscripción contiene ítems activos.   `TRUE`: contiene ítems activos.   "FALSE": no contiene ítems activos.  
+| Is Skipped |  Indica si se omitirá el ciclo de la suscripción.   `TRUE`: el ciclo se omitirá.   `FALSE`: el ciclo no se omitirá.  
 | Next Purchase Date | Fecha de la próxima compra. |
 | Last Purchase Date | Fecha de la última compra. |
 | Periodicity | Periodicidad de la suscripción. |
@@ -175,7 +173,7 @@ Las columnas corresponden a información específica sobre la suscripción, conf
 | Subscriptions Item Sku Id | SKUs de los ítems de la suscripción. |
 | Subscriptions Item PriceAtSubscriptionDate | Valor de los ítems en el momento de la suscripción. |
 | Subscriptions Item Quantity | Cantidad de ítems de la suscripción. |
-| Subscriptions Item Is Skipped | <p> Informa si se omitirán los ítems de la suscripción. </p> <p> `TRUE`: los ítems se omitirán. </p> <p> `FALSE`: los ítems no se omitirán. </p> 
+| Subscriptions Item Is Skipped |  Informa si se omitirán los ítems de la suscripción.   `TRUE`: los ítems se omitirán.   `FALSE`: los ítems no se omitirán.  
 | Subscriptions Item Cycle | Ciclo de los ítems de la suscripción. |
 | Subscriptions Item OriginalOrder | Pedido original de los ítems de la suscripción. | 
 
@@ -195,8 +193,8 @@ Las columnas corresponden a información específica sobre la suscripción, conf
 | Value | Valor de la suscripción. |
 | cycleCount | Número que identifica el ciclo de la suscripción. |
 | date | Fecha de creación de la suscripción.
-| IsInRetry | <p> Informa si la ejecución fue resultado de un reintento. </p> <p> `TRUE`: La ejecución es resultado de un reintento. </p> <p>`FALSE`: La ejecución no es resultado de un reintento. </p> 
-| Status | <p> Status de la suscripción en el momento de generar el informe. </p> <p> `TRIGGERED`: se activó una ejecución del ciclo de suscripción. </p> <p> `IN_PROCESS`: la suscripción está siendo procesada por el sistema (status temporal). </p> <p> `FAILURE`: se produjo un error interno al ejecutar la suscripción. </p> <p> `SUCCESS`: el ciclo de suscripción se procesó con éxito. </p> <p> `EXPIRED`: la suscripción no se renovó y se superó la fecha límite vigente. </p> <p> `ORDER_ERROR`: el ciclo de la suscripción no se ejecutó debido a un error en el _place order_ del pedido. </p> <p> `PAYMENT_ERROR`: el ciclo de suscripción no se ejecutó debido a un error en el pago. </p> <p> `SKIPED`: se omitió la ejecución de un ciclo de suscripción y se ejecutará en el siguiente ciclo. </p> <p> `SUCCESS_WITH_NO_ORDER`: un ciclo de suscripción se ejecutó con éxito y el pedido vinculado no contiene ítems. </p> <p> `SUCCESS_WITH_PARTIAL_ORDER`: un ciclo de suscripción se ejecutó con éxito y contiene un pedido parcial vinculado. </p> <p> `RE_TRIGGERED`: se activó manualmente una reejecución del ciclo de la suscripción. </p> <p> `SCHEDULE_UPDATED`: se actualizó la fecha de la próxima ejecución del ciclo de la suscripción. </p> 
+| IsInRetry |  Informa si la ejecución fue resultado de un reintento.   `TRUE`: La ejecución es resultado de un reintento.  `FALSE`: La ejecución no es resultado de un reintento.  
+| Status |  Status de la suscripción en el momento de generar el informe.   `TRIGGERED`: se activó una ejecución del ciclo de suscripción.   `IN_PROCESS`: la suscripción está siendo procesada por el sistema (status temporal).   `FAILURE`: se produjo un error interno al ejecutar la suscripción.   `SUCCESS`: el ciclo de suscripción se procesó con éxito.   `EXPIRED`: la suscripción no se renovó y se superó la fecha límite vigente.   `ORDER_ERROR`: el ciclo de la suscripción no se ejecutó debido a un error en el _place order_ del pedido.   `PAYMENT_ERROR`: el ciclo de suscripción no se ejecutó debido a un error en el pago.   `SKIPED`: se omitió la ejecución de un ciclo de suscripción y se ejecutará en el siguiente ciclo.   `SUCCESS_WITH_NO_ORDER`: un ciclo de suscripción se ejecutó con éxito y el pedido vinculado no contiene ítems.   `SUCCESS_WITH_PARTIAL_ORDER`: un ciclo de suscripción se ejecutó con éxito y contiene un pedido parcial vinculado.   `RE_TRIGGERED`: se activó manualmente una reejecución del ciclo de la suscripción.   `SCHEDULE_UPDATED`: se actualizó la fecha de la próxima ejecución del ciclo de la suscripción.  
 | messageParsed | Mensaje devuelto por el checkout durante la ejecución de la suscripción. |
 | CreatedAt | Fecha de creación de la suscripción.
 | LastUpdate | Fecha de la última actualización de la suscripción. |

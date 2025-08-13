@@ -24,8 +24,7 @@ Hay dos maneras de registrar los puntos de recogida a través de Admin:
 * [Registro individual](#registro-individual);
 * [Registro por plantilla](#registro-por-plantilla);
 
-<div class="alert alert-warning">El registro de los puntos de recogida es uno de los pasos necesarios para el correcto funcionamiento de la funcionalidad. Consulta el artículo <a href="https://help.vtex.com/es/tutorial/puntos-de-recogida--2fljn6wLjn8M4lJHA6HP3R">Puntos de recogida</a> y descubre la configuración necesaria para que los puntos de recogida estén disponibles para tus clientes.
-</div>
+> ⚠️ El registro de los puntos de recogida es uno de los pasos necesarios para el correcto funcionamiento de la funcionalidad. Consulta el artículo [Puntos de recogida](https://help.vtex.com/es/tutorial/puntos-de-recogida--2fljn6wLjn8M4lJHA6HP3R) y descubre la configuración necesaria para que los puntos de recogida estén disponibles para tus clientes.
 
 ## Registro individual
 
@@ -42,9 +41,7 @@ Hay dos maneras de registrar los puntos de recogida a través de Admin:
 * **ID:** identificación del punto de recogida. Si no se rellena, el sistema elegirá un ID automáticamente. No dejes espacios en blanco.
 * **Punto de recogida de terceros:** marca esta casilla si el punto de recogida no está relacionado con tu tienda. Los puntos de recogida de terceros se muestran con menos relevancia que los de la propia tienda.
 
-  <div class="alert alert-danger">
-La configuración <b>Punto de recogida de terceros</b> actualmente no está disponible.
-</div>
+  > ❗ La configuración **Punto de recogida de terceros** actualmente no está disponible.
 
 Selecciona <i class="fas fa-toggle-on"></i> para activar el punto de recogida.
 
@@ -55,9 +52,7 @@ Selecciona <i class="fas fa-toggle-on"></i> para activar el punto de recogida.
 * Para editar la información de la dirección, haz clic en `Editar`. 
 * Para añadir una dirección diferente, haz clic en `Borrar` y vuelve a realizar la búsqueda.
 
-<div class = "alert alert-info">
-La información de la dirección y la ubicación en el mapa se mostrarán en el checkout. 
-</div>
+> ℹ️ La información de la dirección y la ubicación en el mapa se mostrarán en el checkout.
 
 #### Información adicional
 
@@ -68,29 +63,24 @@ La información de la dirección y la ubicación en el mapa se mostrarán en el 
 
 * **Días de la semana:**
     1. Marca las casillas de los días en que el punto de recogida estará disponible para que tus clientes recojan sus pedidos. 
-    2. Selecciona también las horas labolables del punto de recogida para cada día. <div class = "alert alert-info">Si este campo no se rellena, la plataforma considerará que el punto de recogida funciona las 24 horas del día. </div>
+    2. Selecciona también las horas labolables del punto de recogida para cada día. > ℹ️ Si este campo no se rellena, la plataforma considerará que el punto de recogida funciona las 24 horas del día.
 * **Excepciones o feriados**: para añadir días específicos en los que el punto de recogida no funcionará, sigue los pasos a continuación:
     1. Haz clic en `Agregar excepción`.
     2. Rellena el **día** y la **hora**;
     3. Haz clic en `Agregar`.
 
-<div class="alert alert-warning">
-La hora laborable registrada en el punto de recogida solo tiene carácter informativo y no se utiliza en el cálculo del SLA. Para cambiar la configuración que influye en el plazo de entrega, es necesario establecer el horario de funcionamiento en la <a href="https://help.vtex.com/es/tutorial/politica-de-envio--tutorials_140">política de envío</a> relacionada con el punto de recogida. En el caso del registro de feriados, la configuración debe realizarse en el módulo de <a href="https://help.vtex.com/es/tutorial/registrar-feriados--2ItOthSEAoyAmcwsuiO6Yk">feriados</a> para que influya en el cálculo del plazo.
-</div>
+> ⚠️ La hora laborable registrada en el punto de recogida solo tiene carácter informativo y no se utiliza en el cálculo del SLA. Para cambiar la configuración que influye en el plazo de entrega, es necesario establecer el horario de funcionamiento en la [política de envío](https://help.vtex.com/es/tutorial/politica-de-envio--tutorials_140) relacionada con el punto de recogida. En el caso del registro de feriados, la configuración debe realizarse en el módulo de [feriados](https://help.vtex.com/es/tutorial/registrar-feriados--2ItOthSEAoyAmcwsuiO6Yk) para que influya en el cálculo del plazo.
 
 ## Registro por plantilla
 
 Es posible registrar los puntos de recogida mediante la importación de una plantilla (archivo XLS). Esto te permite registrar más de un punto de recogida a la vez.
 
-<div class = "alert alert-info">
-El archivo XLS no debe superar los 10 MB (aproximadamente 50.000 puntos de recogida). Si es necesario, registra más de una plantilla. 
-</div>
+> ℹ️ El archivo XLS no debe superar los 10 MB (aproximadamente 50.000 puntos de recogida). Si es necesario, registra más de una plantilla.
 
 1. En el Admin VTEX, accede a **Envío > Puntos de recogida**, o escribe *Puntos de recogida* en la barra de búsqueda en la parte superior de la página.  
 2. Haz clic en <i class="fas fa-upload"></i> `Cargar un XLS`.
 3. Descarga la plantilla y rellena los 
-[campos](#campos-de-la-plantilla).<div class = "alert alert-info">
-Ten en cuenta que la plantilla viene con valores de ejemplo, que debes sustituir por los datos de los puntos de recogida de tu tienda.</div>
+[campos](#campos-de-la-plantilla).> ℹ️ Ten en cuenta que la plantilla viene con valores de ejemplo, que debes sustituir por los datos de los puntos de recogida de tu tienda.
 4. Tras cargar la plantilla, haz clic en `OK`. Se habrán registrado los puntos de recogida. 
 
 ### Campos de la plantilla
@@ -100,17 +90,17 @@ Rellena la plantilla de acuerdo con la información de la siguiente tabla:
 <table class="w-100 center mv7 bb b--gray" style="border-spacing: 2px; border-collapse: collapse;">
     <thead class="w-100 center mv7 bb b--gray" style="border-spacing: 2px; border-collapse: collapse;">
   <tr class="t-body fw5 c-muted-1 bb bw1 pa2 pb3 b--muted-3 tl">
-            <th class="t-body fw5 c-muted-1 bb bw1 pa2 pb3 b--muted-3 tl"><strong>Columna de la plantilla </strong>
+            <th class="t-body fw5 c-muted-1 bb bw1 pa2 pb3 b--muted-3 tl">**Columna de la plantilla **
    </th>
-   <th class="t-body fw5 c-muted-1 bb bw1 pa2 pb3 b--muted-3 tl"><strong>Descripción</strong>
+   <th class="t-body fw5 c-muted-1 bb bw1 pa2 pb3 b--muted-3 tl">**Descripción**
    </th>
-   <th class="t-body fw5 c-muted-1 bb bw1 pa2 pb3 b--muted-3 tl"><strong>Campo obligatorio</strong>
+   <th class="t-body fw5 c-muted-1 bb bw1 pa2 pb3 b--muted-3 tl">**Campo obligatorio**
    </th>
-   <th class="t-body fw5 c-muted-1 bb bw1 pa2 pb3 b--muted-3 tl"><strong>Ejemplo de cómo rellenar</strong>
+   <th class="t-body fw5 c-muted-1 bb bw1 pa2 pb3 b--muted-3 tl">**Ejemplo de cómo rellenar**
    </th>
   </tr>
  <tr class="bb b--muted-3">
-            <td class="t-body pa5" style="min-width: 15rem;"><strong>Id</strong>
+            <td class="t-body pa5" style="min-width: 15rem;">**Id**
     </td>
    <td>Código de identificación del punto de recogida.
     </td>
@@ -120,9 +110,9 @@ Rellena la plantilla de acuerdo con la información de la siguiente tabla:
    </td>
   </tr>
   <tr class="bb b--muted-3">
-            <td class="t-body pa5" style="min-width: 15rem;"><strong>Name</strong>
+            <td class="t-body pa5" style="min-width: 15rem;">**Name**
   </td>
-   <td>Nombre del punto de recogida que se muestra al cliente en el <em>checkout</em>.
+   <td>Nombre del punto de recogida que se muestra al cliente en el *checkout*.
    </td>
    <td><center>Sí</center>
    </td>
@@ -130,9 +120,9 @@ Rellena la plantilla de acuerdo con la información de la siguiente tabla:
    </td>
   </tr>
   <tr class="bb b--muted-3">
-            <td class="t-body pa5" style="min-width: 15rem;"><strong>Description</strong>
+            <td class="t-body pa5" style="min-width: 15rem;">**Description**
    </td>
-   <td>Descripción del punto de recogida que se muestra en el <em>checkout</em>.
+   <td>Descripción del punto de recogida que se muestra en el *checkout*.
    </td>
    <td><center>No</center>
    </td>
@@ -140,7 +130,7 @@ Rellena la plantilla de acuerdo con la información de la siguiente tabla:
    </td>
   </tr>
   <tr class="bb b--muted-3">
-            <td class="t-body pa5" style="min-width: 15rem;"><strong>Instructions</strong>
+            <td class="t-body pa5" style="min-width: 15rem;">**Instructions**
 </td>   
 <td>Instrucciones para facilitar la recogida por parte del cliente.
    </td>
@@ -151,7 +141,7 @@ Rellena la plantilla de acuerdo con la información de la siguiente tabla:
    </td>
   </tr>
   <tr class="bb b--muted-3">
-            <td class="t-body pa5" style="min-width: 15rem;"><strong>CountryName</strong>
+            <td class="t-body pa5" style="min-width: 15rem;">**CountryName**
    </td>
    <td>Nombre del país donde se encuentra el punto de recogida.</td>
    <td><center>No</center>
@@ -160,7 +150,7 @@ Rellena la plantilla de acuerdo con la información de la siguiente tabla:
    </td>
   </tr>
   <tr class="bb b--muted-3">
-            <td class="t-body pa5" style="min-width: 15rem;"><strong>City</strong>
+            <td class="t-body pa5" style="min-width: 15rem;">**City**
    </td>
    <td>Ciudad donde está el punto de recogida. </td>
    <td><center>No</center>
@@ -169,7 +159,7 @@ Rellena la plantilla de acuerdo con la información de la siguiente tabla:
    </td>
   </tr>
   <tr class="bb b--muted-3">
-            <td class="t-body pa5" style="min-width: 15rem;"><strong>PostalCode</strong>
+            <td class="t-body pa5" style="min-width: 15rem;">**PostalCode**
    </td>
    <td>Código postal de la ubicación del punto de recogida. 
 </td>
@@ -179,7 +169,7 @@ Rellena la plantilla de acuerdo con la información de la siguiente tabla:
    </td>
   </tr>
   <tr class="bb b--muted-3">
-            <td class="t-body pa5" style="min-width: 15rem;"><strong>CountryAcronym</strong>
+            <td class="t-body pa5" style="min-width: 15rem;">**CountryAcronym**
    </td>
    <td>Código de 3 dígitos del país según la norma ISO 8601 (RFC 3339).</td>
    <td><center>Sí</center>
@@ -188,7 +178,7 @@ Rellena la plantilla de acuerdo con la información de la siguiente tabla:
    </td>
   </tr>
   <tr class="bb b--muted-3">
-            <td class="t-body pa5" style="min-width: 15rem;"><strong>State</strong>
+            <td class="t-body pa5" style="min-width: 15rem;">**State**
    </td>
    <td>El estado donde se encuentra el punto de recogida. </td>
    <td><center>No</center>
@@ -197,7 +187,7 @@ Rellena la plantilla de acuerdo con la información de la siguiente tabla:
    </td>
   </tr>
   <tr class="bb b--muted-3">
-            <td class="t-body pa5" style="min-width: 15rem;"><strong>Latitud</strong></td>
+            <td class="t-body pa5" style="min-width: 15rem;">**Latitud**</td>
    <td>Latitud del punto de recogida.  </td>
    <td><center>Sí</center>
    </td>
@@ -205,7 +195,7 @@ Rellena la plantilla de acuerdo con la información de la siguiente tabla:
    </td>
   </tr>
   <tr class="bb b--muted-3">
-            <td class="t-body pa5" style="min-width: 15rem;"><strong>Longitud</strong> </td>
+            <td class="t-body pa5" style="min-width: 15rem;">**Longitud** </td>
    <td>Longitud del punto de recogida.  </td>
    <td><center>Sí</center>
    </td>
@@ -213,7 +203,7 @@ Rellena la plantilla de acuerdo con la información de la siguiente tabla:
    </td>
   </tr>
   <tr class="bb b--muted-3">
-            <td class="t-body pa5" style="min-width: 15rem;"><strong>Neighborhood</strong>
+            <td class="t-body pa5" style="min-width: 15rem;">**Neighborhood**
    </td>
    <td>Barrio del punto de recogida.</td>
    <td><center>No</center>
@@ -222,7 +212,7 @@ Rellena la plantilla de acuerdo con la información de la siguiente tabla:
    </td>
   </tr>
   <tr class="bb b--muted-3">
-            <td class="t-body pa5" style="min-width: 15rem;"><strong>Street</strong>
+            <td class="t-body pa5" style="min-width: 15rem;">**Street**
    </td>
    <td>Calle donde se encuentra el punto de recogida.
    </td>
@@ -232,7 +222,7 @@ Rellena la plantilla de acuerdo con la información de la siguiente tabla:
    </td>
   </tr>
   <tr class="bb b--muted-3">
-            <td class="t-body pa5" style="min-width: 15rem;"><strong>Number</strong>
+            <td class="t-body pa5" style="min-width: 15rem;">**Number**
    </td>
    <td>Número (dirección) del punto de recogida.
    </td>
@@ -242,7 +232,7 @@ Rellena la plantilla de acuerdo con la información de la siguiente tabla:
    </td>
   </tr>
   <tr class="bb b--muted-3">
-            <td class="t-body pa5" style="min-width: 15rem;"><strong>Complement</strong>
+            <td class="t-body pa5" style="min-width: 15rem;">**Complement**
    </td>
    <td>Información adicional de la dirección.
    </td>
@@ -252,7 +242,7 @@ Rellena la plantilla de acuerdo con la información de la siguiente tabla:
    </td>
   </tr>
   <tr class="bb b--muted-3">
-            <td class="t-body pa5" style="min-width: 15rem;"><strong>Reference</strong>
+            <td class="t-body pa5" style="min-width: 15rem;">**Reference**
    </td>
    <td>Punto de referencia para ayudar a localizar el punto de recogida.</td>
    <td><center>No</center>
@@ -261,9 +251,9 @@ Rellena la plantilla de acuerdo con la información de la siguiente tabla:
    </td>
   </tr>
   <tr class="bb b--muted-3">
-            <td class="t-body pa5" style="min-width: 15rem;"><strong>IsActive</strong>
+            <td class="t-body pa5" style="min-width: 15rem;">**IsActive**
    </td>
-   <td>Introduce <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">true</span> para activar el punto de recogida o <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">false</span> para desactivarlo. Los puntos de recogida activos aparecen en el <em>checkout.</em>
+   <td>Introduce <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">true</span> para activar el punto de recogida o <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">false</span> para desactivarlo. Los puntos de recogida activos aparecen en el *checkout.*
    </td>
    <td><center>Não</center>
    </td>
@@ -271,7 +261,7 @@ Rellena la plantilla de acuerdo con la información de la siguiente tabla:
    </td>
   </tr>
   <tr class="bb b--muted-3">
-            <td class="t-body pa5" style="min-width: 15rem;"><strong>BusinessHours</strong>
+            <td class="t-body pa5" style="min-width: 15rem;">**BusinessHours**
    </td>
    <td>Indica el horario de funcionamiento del punto de recogida. Debe completarse de la siguiente manera:
 <body>
@@ -282,14 +272,14 @@ Rellena la plantilla de acuerdo con la información de la siguiente tabla:
 <li>Los horarios deben seguir el estándar de 24 horas y registrarse en el formato hh:mm, donde hh representa la hora y mm los minutos.</li> 
 </ul>
 </body>
-<p>Este campo no se utiliza en el cálculo del SLA.  Para cambiar la configuración que influye en el plazo de entrega, es necesario establecer el horario de funcionamiento en la <a href="https://help.vtex.com/es/tutorial/politica-de-envio--tutorials_140">política de envío</a> relacionada con el punto de recogida. En el caso del registro de feriados, la configuración debe realizarse en el módulo de <a href="https://help.vtex.com/es/tutorial/registrar-feriados--2ItOthSEAoyAmcwsuiO6Yk">feriados</a> para que influya en el cálculo del plazo.</p>
+Este campo no se utiliza en el cálculo del SLA.  Para cambiar la configuración que influye en el plazo de entrega, es necesario establecer el horario de funcionamiento en la [política de envío](https://help.vtex.com/es/tutorial/politica-de-envio--tutorials_140) relacionada con el punto de recogida. En el caso del registro de feriados, la configuración debe realizarse en el módulo de [feriados](https://help.vtex.com/es/tutorial/registrar-feriados--2ItOthSEAoyAmcwsuiO6Yk) para que influya en el cálculo del plazo.
    </td>
    <td><center>No</center>
    </td>
    <td>Por ejemplo, si funciona los lunes y los martes de las 9 a las 18 horas, se rellenaría así: <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">1,09:00:00,18:00:00;2,09:00:00,18:00:00;</span></td>
   </tr>
   <tr class="bb b--muted-3">
-  <td class="t-body pa5" style="min-width: 15rem;"><b>PickupHolidays</b>
+  <td class="t-body pa5" style="min-width: 15rem;">**PickupHolidays**
    </td>
    <td>Rellena este campo si hay días en los que los puntos de recogida no están disponibles. Debe rellenarse de la siguiente manera:<body>
 <ul>
@@ -303,12 +293,12 @@ Rellena la plantilla de acuerdo con la información de la siguiente tabla:
    </td>
    <td><center>No</center>
    </td>
-   <td>En el caso de un feriado el 28 de diciembre de 2018 se rellenaría de la siguiente manera:<p><span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">2018-12-28,00:00,00:00</span></p>
-<p>En el caso de un feriado el 25 de noviembre de 2016 con funcionamiento a partir de las 13 horas se rellenaría de la siguiente manera:</p> 
+   <td>En el caso de un feriado el 28 de diciembre de 2018 se rellenaría de la siguiente manera:<span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">2018-12-28,00:00,00:00</span>
+En el caso de un feriado el 25 de noviembre de 2016 con funcionamiento a partir de las 13 horas se rellenaría de la siguiente manera: 
 <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">2016-11-25,00:00, 13:00;2018-11-17T00:00:00Z,00:00,00:00</span></td>
   </tr>
   <tr class="bb b--muted-3">
-  <td class="t-body pa5" style="min-width: 15rem;"><b>Tags</b>
+  <td class="t-body pa5" style="min-width: 15rem;">**Tags**
    </td>
    <td>Introduce etiquetas para identificar un grupo de puntos de recogida.</td>
    <td><center>No</center>

@@ -135,9 +135,7 @@ Nesta seção, saiba como destacar a promoção na página de produto e adiciona
 
 - **Destacar nos produtos:** marque esta opção para exibir a promoção diretamente nas páginas de produtos. 
 
-<div class="alert alert-warning">
-  Lembre-se <a href="https://help.vtex.com/pt/tutorial/configurando-promocao-com-destaque-flag--tutorials_2295" target="_blank">configurar essa exibição no módulo CMS</a>.
-</div>
+> ⚠️ Lembre-se [configurar essa exibição no módulo CMS](https://help.vtex.com/pt/tutorial/configurando-promocao-com-destaque-flag--tutorials_2295).
 
 - **Informações adicionais:** clique em `Criar` para adicionar campos personalizados com nome e valor, que podem ser usados para customizações na loja.
 

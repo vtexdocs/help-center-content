@@ -29,9 +29,7 @@ Por exemplo, em um carrinho o frete foi calculado no valor de $25,00 para cinco 
 
 Para fins de usabilidade de termos, utilizamos em nossa documentação o termo "peso" ao invés de "massa". Mesmo conhecendo a diferença entre os termos e a forma correta de uso, mantemos o uso de "peso" para melhor compreensão dos usuários.
 
-<div class="alert alert-danger">
-O peso do produto não pode ser zero. Isso pode causar problemas no cálculo do custo de frete no carrinho.
-</div>
+> ❗ O peso do produto não pode ser zero. Isso pode causar problemas no cálculo do custo de frete no carrinho.
 
 ## Como visualizar o rateio do frete
 

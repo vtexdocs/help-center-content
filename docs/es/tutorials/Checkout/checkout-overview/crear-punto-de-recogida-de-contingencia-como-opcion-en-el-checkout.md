@@ -21,7 +21,7 @@ Si su cliente final compra un producto en cualquiera de sus canales (en línea o
 
 Sin embargo, usted puede preferir que esa tienda funcione como un punto de recogida __ incluso si no tiene stock__. Para esto, su logística necesita asegurar que el producto llegará a esa tienda desde otro stock, por ejemplo, desde el stock del comercio electrónico. En este caso, necesita tener una política de envío en el comercio electrónico en el que esté configurado el punto de recogida de la tienda física.
 
-![Crear punto de retiro de contingencia para garantizarlo como opción en checkout](//images.ctfassets.net/alneenqid6w5/38phAuzqPzQoBPy8811K3K/aebc9c8a6dded36f5b31496626099186/diagrama-como-criar-um-ponto-de_contigencia-es.jpg)
+![Crear punto de retiro de contingencia para garantizarlo como opción en checkout](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Checkout/checkout-overview/crear-punto-de-recogida-de-contingencia-como-opcion-en-el-checkout_1.jpg)
 
 ## Cómo implementar un punto de recogida de contingencia
 

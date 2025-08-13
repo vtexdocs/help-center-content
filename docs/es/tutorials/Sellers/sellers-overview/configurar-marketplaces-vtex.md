@@ -83,9 +83,7 @@ Un _marketplace_ puede obtener la información de ubicación del usuario en el _
 
 Incluso cuando VTEX Session no tiene acceso a la ubicación del consumidor, sigue siendo necesario orientar un surtido de productos de los _sellers_ en la experiencia de compra. En este caso, el algoritmo de selección de _sellers_ indica [sellers de extensa cobertura](https://help.vtex.com/es/tutorial/seller-abrangente--5Qn4O2GpjUIzWTPpvLUfkI) que pueden entregar pedidos en todas las regiones atendidas por tu _marketplace_.
 
-<div class="alert alert-info">
-La funcionalidad Region solo está adaptada a las tiendas que utilizan VTEX IO, y no es válida para el Portal CMS Legado. 
-</div>
+> ℹ️ La funcionalidad Region solo está adaptada a las tiendas que utilizan VTEX IO, y no es válida para el Portal CMS Legado.
 
 ## Configurar storefront
 
@@ -95,27 +93,27 @@ Para las tiendas que todavía utilizan el Portal CMS Legado, configura los sigui
 
 <table>
   <tr>
-   <td><strong>Control</strong>
+   <td>**Control**
    </td>
-   <td><strong>Descripción</strong>
+   <td>**Descripción**
    </td>
   </tr>
   <tr>
    <td>&lt;vtex.cmc:sellerDescription />
    </td>
-   <td><strong>SellerDescription:</strong> nombre e imagen registrados para el <em>seller</em> del producto en cuestión.
+   <td>**SellerDescription:** nombre e imagen registrados para el *seller* del producto en cuestión.
    </td>
   </tr>
   <tr>
    <td>&lt;vtex.cmc:SellerOptions />
    </td>
-   <td><strong>SellerOptions:</strong> muestra los <em>sellers</em> que entregan el producto, el precio del producto vendido por cada <em>seller</em> y el pago en cuotas (límite de hasta 3 precios diferentes).
+   <td>**SellerOptions:** muestra los *sellers* que entregan el producto, el precio del producto vendido por cada *seller* y el pago en cuotas (límite de hasta 3 precios diferentes).
    </td>
   </tr>
   <tr>
    <td>&lt;vtex.cmc:sellerInfo />
    </td>
-   <td><strong>SellerInfo:</strong> muestra la información registrada para el <em>seller</em>. Debe utilizarse en la página de detalles del <em>seller</em>, en la carpeta seller-info.
+   <td>**SellerInfo:** muestra la información registrada para el *seller*. Debe utilizarse en la página de detalles del *seller*, en la carpeta seller-info.
    </td>
   </tr>
 </table>

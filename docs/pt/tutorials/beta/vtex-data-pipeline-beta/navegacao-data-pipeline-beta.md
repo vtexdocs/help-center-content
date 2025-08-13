@@ -18,9 +18,7 @@ subcategoryId: oMrzcOMVbBpH0reeMFHFg
 O conjunto de dados de navegação opera com duas tabelas principais: `pageviews` e `sessions`. Uma `pageview` refere-se a cada nova página acessada pelo usuário durante a navegação na loja, enquanto uma `session` é definida como o conjunto de todos os `pageviews` realizados por um usuário em uma única visita.  
 Cada `session` permanece ativa até que não ocorra uma nova `pageview` por um período de 30 minutos.  
 
-<div class="alert alert-warning">
-O conjunto de dados de navegação não captura todos os tipos de eventos que ocorrem durante a navegação.</br>
-Ex: cliques específicos, eventos especiais e interações com o mini carrinho.</br></div>
+> ⚠️ O conjunto de dados de navegação não captura todos os tipos de eventos que ocorrem durante a navegação.</br> Ex: cliques específicos, eventos especiais e interações com o mini carrinho.</br>
 
 - [Características dos dados de navegação](#caracteristicas-dos-dados-de-navegacao)
 - [Tabela sessions](#tabela_sessions)
@@ -32,15 +30,12 @@ Ex: cliques específicos, eventos especiais e interações com o mini carrinho.<
 
 | **Característica** | **Descrição** |
 |:---:|:---:|
-| Origem do dado | O conjunto de dados se origina via <i>script</i> executado no <i>frontend</i> da loja, é ele quem registra as informações das sessões e atividades dos usuários. |
-| Disponibilidade | Os dados de navegação podem ser acessados no <a href="https://help.vtex.com/pt/tutorial/visao-geral-da-loja--P8ahguoRs0U3PzmXg2wuQ#dados">dashboard Visão Geral</a> no Admin da VTEX, concentrando-se no total de sessões e no funil de conversão, ou por meio de ferramentas terceiras, como Google Analytics. |
+| Origem do dado | O conjunto de dados se origina via *script* executado no *frontend* da loja, é ele quem registra as informações das sessões e atividades dos usuários. |
+| Disponibilidade | Os dados de navegação podem ser acessados no [dashboard Visão Geral](https://help.vtex.com/pt/tutorial/visao-geral-da-loja--P8ahguoRs0U3PzmXg2wuQ#dados) no Admin da VTEX, concentrando-se no total de sessões e no funil de conversão, ou por meio de ferramentas terceiras, como Google Analytics. |
 | Histórico | Os dados são mantidos por dois anos, a partir de 2022 para clientes que já utilizam a plataforma VTEX. |
 | Menor intervalo de atualização possível | Uma hora. |  
 
-<div class="alert alert-warning">
-  O <i>script</i> em um site não é capaz de capturar dados de sessões que se originam em marketplaces, aplicativos ou implementações <i>headless</i>, nas quais não gerenciamos o <i>frontend</i>. Além disso, personalizações realizadas no <i>frontend</i> da loja podem interferir ou mesmo inativar o <i>script</i> levando à falta de registro de algumas sessões, ou taxa de conversão observada no dashboard.</br>
-Para minimizar o impacto no desempenho da loja, o <i>script</i> é configurado para ser o último elemento a carregar na página, o que significa que sessões muito breves podem não ser capturadas.</br>
-</div>
+> ⚠️ O *script* em um site não é capaz de capturar dados de sessões que se originam em marketplaces, aplicativos ou implementações *headless*, nas quais não gerenciamos o *frontend*. Além disso, personalizações realizadas no *frontend* da loja podem interferir ou mesmo inativar o *script* levando à falta de registro de algumas sessões, ou taxa de conversão observada no dashboard.</br> Para minimizar o impacto no desempenho da loja, o *script* é configurado para ser o último elemento a carregar na página, o que significa que sessões muito breves podem não ser capturadas.</br>
 
 ## Tabela sessions
 

@@ -17,26 +17,26 @@ subcategoryId: 7fTH6bP0C4IaM8qWi0kkQC
 
 Estrategia de envío es la relación entre stock, muelle y política de envío; es decir, la forma en que se comunican el stock, el muelle y la política de envío definirá la coordinación de la estructura de entrega de los pedidos de la tienda. 
 
-![shipping_strategy_ES](//images.ctfassets.net/alneenqid6w5/1LdEuL3gjF12uwFj4ya6OL/ebc72f36e25bc9e6000d7d0b275bd1be/shipping_strategy_ES.png)
+![shipping_strategy_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/shipping-strategy/estrategia-de-envio_1.png)
 
 <table class="w-100 center mv7 bb b--gray" style="border-spacing: 0px; border-collapse: collapse;">
    <tr class="bb b--muted-3">
             <td class="t-body pa5" style="min-width: 15rem;">
-                <b><a href="https://help.vtex.com/es/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb">Stock</b></a>
+                **[Stock**](https://help.vtex.com/es/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb)
             </td>
             <td class="t-body pa5" style="min-width: 15rem;">Conjunto de mercancías almacenadas en un depósito o una tienda. Funciona como una herramienta para controlar la disponibilidad de los productos.
             </td>
     </tr>
     <tr class="bb b--muted-3">
             <td class="t-body pa5" style="min-width: 15rem;">
-                <b><a href="https://help.vtex.com/es/tutorial/muelles--5DY8xHEjOLYDVL41Urd5qj">Muelle</a></b>
+                **[Muelle](https://help.vtex.com/es/tutorial/muelles--5DY8xHEjOLYDVL41Urd5qj)**
             </td>
             <td class="t-body pa5" style="min-width: 15rem;">Lugar de distribución del stock. Funciona como área de almacenamiento para los productos que se van a entregar.
             </td>
     </tr>
     <tr class="bb b--muted-3">
             <td class="t-body pa5" style="min-width: 15rem;">
-                <b><a href="https://help.vtex.com/es/tutorial/politica-de-envio--tutorials_140">Política de envío</b></a>
+                **[Política de envío**](https://help.vtex.com/es/tutorial/politica-de-envio--tutorials_140)
             </td>
             <td class="t-body pa5" style="min-width: 15rem;">Conjunto de reglas que definen las opciones y condiciones de envío que se presentarán al consumidor en el momento de la compra. 
             </td>

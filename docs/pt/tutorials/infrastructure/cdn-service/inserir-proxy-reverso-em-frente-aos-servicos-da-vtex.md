@@ -15,17 +15,7 @@ locale: pt
 subcategoryId: 2Za4fjGfxYOo6oqykukgyy
 ---
 
-<div class="alert alert-danger">
-<p>
-Este guia aborda uma prática <strong>não recomendada</strong> para a maioria das lojas e é aplicável somente a casos de extrema exceção.
-</p>
-<p>
-Implementar um proxy reverso significa substituir todos os serviços de borda (CDN) gerenciados e otimizados pela VTEX. Isso implica que a loja será responsável pelo fornecimento efetivo do site, incluindo configurações, monitoramento e gerenciamento de aspectos como repasse de cabeçalhos, cookies e cache. A VTEX não oferece suporte ou documentação para essas configurações específicas e não se responsabiliza por problemas que possam surgir.
-</p>
-<p>
-A VTEX não se responsabiliza por problemas nesse sistema, seja um CDN próprio, serviço de WAF ou outro recurso que fique à frente dos nossos servidores. Não teremos visibilidade da operação, e, portanto, a solução <strong>não</strong> se enquadra em nossos acordos de SLA.
-</p>
-</div>
+> ❗  Este guia aborda uma prática **não recomendada** para a maioria das lojas e é aplicável somente a casos de extrema exceção.   Implementar um proxy reverso significa substituir todos os serviços de borda (CDN) gerenciados e otimizados pela VTEX. Isso implica que a loja será responsável pelo fornecimento efetivo do site, incluindo configurações, monitoramento e gerenciamento de aspectos como repasse de cabeçalhos, cookies e cache. A VTEX não oferece suporte ou documentação para essas configurações específicas e não se responsabiliza por problemas que possam surgir.   A VTEX não se responsabiliza por problemas nesse sistema, seja um CDN próprio, serviço de WAF ou outro recurso que fique à frente dos nossos servidores. Não teremos visibilidade da operação, e, portanto, a solução **não** se enquadra em nossos acordos de SLA. 
 
 Para apontar sua própria CDN para a CDN da VTEX, é necessário inserir um proxy reverso em frente aos serviços da VTEX. Neste cenário, o fluxo de tráfego passa a seguir este caminho: 
 
@@ -89,15 +79,4 @@ Para permitir a geração de certificados SSL, certifique-se de que todo o tráf
 
 Alguns proxies reversos capturam essa rota, e, com isso, a VTEX não consegue emitir ou renovar o certificado SSL.
 
-<div class="alert alert-warning">
-<p>
-A VTEX somente provê navegação se:
-</p>
-<ul>
-  <li>Houver um registro TXT configurado corretamente.</li>
-  <li>For possível emitir e renovar certificados SSL para o host.</li>
-</ul>
-<p>
-Se ambas as condições não forem atendidas, a navegação não funcionará, e o site ficará fora do ar.
-</p>
-</div>
+> ⚠️  A VTEX somente provê navegação se:  <ul> <li>Houver um registro TXT configurado corretamente.</li> <li>For possível emitir e renovar certificados SSL para o host.</li> </ul>  Se ambas as condições não forem atendidas, a navegação não funcionará, e o site ficará fora do ar. 

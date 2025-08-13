@@ -15,4 +15,4 @@ locale: es
 subcategoryId: 3TASbcSqDuDZwmgDLc0O5I
 ---
 
-<div class="alert alert-warning" role="alert">Contenido en proceso de traducción.</div>
+> ⚠️ Contenido en proceso de traducción.

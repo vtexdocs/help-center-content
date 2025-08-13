@@ -35,13 +35,11 @@ La sección de **Suscripciones Únicas** permite:
 - Visualizar un **gráfico dinámico** con la relación entre las suscripciones *activas* y las *canceladas*, dentro del período filtrado. - Al pasar el cursor sobre las líneas del gráfico, se puede ver en detalle el movimiento de las suscripciones por día.   
 - **Exportar suscripciones**  únicas dentro del período filtrado pulsando el botón de la esquina superior derecha de la pantalla.
 
-![ES Dashboard Assinatura única](//images.ctfassets.net/alneenqid6w5/Dbqw5LPyrXvpT3tElkIXY/7e5d49e39bb3a8e99da8c967b097b3da/ES_Dashboard_Assinatura_uÌ_nica.png)
+![ES Dashboard Assinatura única](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/subscriptions/subscription-guides/como-gestionar-suscripciones_1.png)
 
 ### Pedidos de Suscripción
 
-<div class = "alert alert-info">
-Solo puedes acceder a la información de los pedidos creados en los últimos años. Este periodo también se aplica a los pedidos de los clientes a través de <a href="https://help.vtex.com/es/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh">Mi Cuenta</a>.
-</div>
+> ℹ️ Solo puedes acceder a la información de los pedidos creados en los últimos años. Este periodo también se aplica a los pedidos de los clientes a través de [Mi Cuenta](https://help.vtex.com/es/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh).
 
 La sección **Pedidos de Suscripción** permite: 
 
@@ -49,12 +47,12 @@ La sección **Pedidos de Suscripción** permite:
 - Acompañe el **número absoluto y porcentaje** correspondiente de Pedidos de Suscripción que han sido *programados*, *procesados*, *generados* y *completados* por período.  
 - Visualizar un **gráfico** con el porcentaje de pedidos *omitidos*, *ciclos con problemas* y *error de pago*. 
 
-![ES Dashboard Pedidos Assinatura](//images.ctfassets.net/alneenqid6w5/20rYypV5vnYXo42CdCf0ms/e1560e59c91b4ef00a4073bf3c3a71c6/ES_Pedidos_assinatura.png)
+![ES Dashboard Pedidos Assinatura](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/subscriptions/subscription-guides/como-gestionar-suscripciones_2.png)
 
 - Al acceder a cada pestaña de la sección **Pedidos de Suscripción**, es posible visualizar el flujo y los detalles de los pedidos que fueron *omitidos*, los que presentaron *ciclos problemáticos*, aquellos que contienen un *error de pago* y  pedidos *completos*.  
 - Además de listar detalles de los errores que se produjeron durante el flujo de pedidos de suscripción, también es posible realizar el **reintento manual** de los pedidos con errores. Revise nuestro artículo sobre la [Resolución de problemas de  pedidos con suscripción](https://help.vtex.com/es/tutorial/como-solucionar-pedidos-de-assinatura-com-erros--uLL8AYBGdtAmbbdL5gRCf) para saber más. 
 
-![ES Log Pedidos Assinatura](//images.ctfassets.net/alneenqid6w5/77DV2slShCKyXY0pKJyTl2/97d825a9b6540ba10771bb1decdef681/ES_Log_Pedidos_Assinatura.png)
+![ES Log Pedidos Assinatura](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/subscriptions/subscription-guides/como-gestionar-suscripciones_3.png)
 
 ### Suscriptores
 
@@ -72,14 +70,10 @@ La sección **Suscriptores** del Dashboard de Suscripciones permite:
 
 - **Exportar informe** en CSV, que contiene los datos de la pestaña correspondiente, con los filtros aplicados. 
 
-<div class = "alert alert-info">
-  <p>Esta funcionalidad requiere un perfil de acceso con el recurso <code>Subscription Metrics</code> activado.</p>
-</div>
+> ℹ️ Esta funcionalidad requiere un perfil de acceso con el recurso `Subscription Metrics` activado.
 
 - **Búsqueda por suscriptores** específicos, por su correo electrónico a través de la barra de búsqueda.
 
 - El botón **Personificar** permite realizar ediciones en la suscripción de cada suscriptor, como alterar la frecuencia de suscripción, cambiando la fecha de ejecución del pedido (no sería la fecha de entrega, sino la fecha de generación del pedido). 
 
-<div class="alert alert-warning">
-  <p> Solo los usuarios con acceso a Televentas pueden utilizar el botón <i>Personificar</i>.</p>
-</div>
+> ⚠️  Solo los usuarios con acceso a Televentas pueden utilizar el botón *Personificar*.

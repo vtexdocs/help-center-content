@@ -53,7 +53,7 @@ Los campos de la tabla se describen a continuación:
 |trust_policy | character varying(50) | Política de confianza utilizada por el vendedor.|
 |sales_channels | character varying(65535) | Canales de ventas del vendedor.|
 |integration | character varying(50) | Nombre de la integración utilizada por el vendedor.|
-|integration_type | character varying(25) | Las integraciones se clasifican como, <p>VTEX Seller: El vendedor es otra cuenta VTEX.</p><p>VTEX Seller Portal: El vendedor usa el Portal de Vendedores de VTEX.</p><p>Vendedor Externo: El vendedor usa una conexión externa no relacionada con VTEX.</p><p>No Configurado: El vendedor aún no ha configurado la integración.</p>|
+|integration_type | character varying(25) | Las integraciones se clasifican como, VTEX Seller: El vendedor es otra cuenta VTEX.VTEX Seller Portal: El vendedor usa el Portal de Vendedores de VTEX.Vendedor Externo: El vendedor usa una conexión externa no relacionada con VTEX.No Configurado: El vendedor aún no ha configurado la integración.|
 |created_at | timestamp | Fecha de creación del vendedor.|
 |updated_at | timestamp | Fecha de la última actualización del vendedor.|
 |batch_id | character(13) | ID del lote donde llegaron estos datos. Permite saber cuándo se entregaron estos datos.|

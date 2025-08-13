@@ -40,6 +40,4 @@ Si la tienda no tiene ERP o algún sistema que integre los pedidos, usted puede 
     - <a class="far fa-check-square"></a> Entiendo las consecuencias de esta acción en el flujo del pedido.
 5. Haga clic en `Proceder com el status`.
 
-<div class="alert alert-warning">
-Al iniciar el preparo de um pedido manualmente, el pedido no se puede integrar al ERP posteriormente.
-</div>
+> ⚠️ Al iniciar el preparo de um pedido manualmente, el pedido no se puede integrar al ERP posteriormente.

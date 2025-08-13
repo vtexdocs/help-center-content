@@ -30,14 +30,12 @@ Veja as configurações disponíveis a seguir:
   - **Apenas para preços inexistentes:** os preços da conta-pai serão herdados apenas se forem inexistentes na conta atual.
 
   <div class = "alet alert-info">
-    <p>A configuração <b>Herdar preços da conta-pai</b> é disponível apenas para contas-filhas. A definição da conta-pai ocorre durante a criação da conta-filha. Verificar se a conta-pai associada está correta evita problemas relacionados a preços ou à disponibilidade de estoque.</p>
+    A configuração **Herdar preços da conta-pai** é disponível apenas para contas-filhas. A definição da conta-pai ocorre durante a criação da conta-filha. Verificar se a conta-pai associada está correta evita problemas relacionados a preços ou à disponibilidade de estoque.
   </div>
 
 - **Sobrescrever preços de sellers:** permite sobrescrever todos os preços de sellers com os da conta atual.
 
-  <div class = "alert alert-info">
-    <p>A configuração <b>Sobrescrever preços de sellers</b> não é disponível para sellers white label.</p>
-  </div>
+  > ℹ️ A configuração **Sobrescrever preços de sellers** não é disponível para sellers white label.
 
 ## Consultar a Conta-Pai associada
 Para consultar a conta-pai vinculada a uma conta-filha, utilize a URL abaixo, substituindo `{AccountName}` pelo nome da conta-filha que deseja consultar:

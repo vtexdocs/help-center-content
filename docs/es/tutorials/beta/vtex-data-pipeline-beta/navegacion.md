@@ -18,9 +18,7 @@ subcategoryId: oMrzcOMVbBpH0reeMFHFg
 El conjunto de datos de navegación opera con dos tablas principales: `pageviews` y `sessions`. `Pageview` se refiere a cada nueva página a la que accede el usuario mientras navega por la tienda, mientras que `session` se define como el conjunto de todas las pageviews realizadas por un usuario en una única visita.
 Cada `session` permanece activa si no se produce una nueva `pageview` durante un periodo de 30 minutos.
 
-<div class="alert alert-warning">
-El conjunto de datos de navegación no captura todos los tipos de eventos que ocurren durante la navegación. Por ejemplo, no se registran clics específicos, eventos especiales ni interacciones con el minicarrito.
-</div>  
+> ⚠️ El conjunto de datos de navegación no captura todos los tipos de eventos que ocurren durante la navegación. Por ejemplo, no se registran clics específicos, eventos especiales ni interacciones con el minicarrito.  
 
 En esta sección puedes consultar la siguiente información:
 
@@ -39,10 +37,7 @@ En esta sección puedes consultar la siguiente información:
 | **Historial** | Los datos se conservan durante dos años, a partir de 2022 para los clientes que ya utilizan la plataforma VTEX. |
 | **Intervalo mínimo de actualización** | Una hora. |
 
-<div class="alert alert-warning">
-Data Pipeline solo proporciona datos de sesiones originadas en las soluciones de <i>storefront</i> de VTEX: CMS Legado, Store Framework y FastStore. VTEX no tiene acceso a sesiones originadas en marketplaces de terceros o storefronts de tiendas propietarias. Además, las personalizaciones realizadas en el <i>frontend</i> de la tienda pueden interferir o incluso desactivar el <i>script,</i> provocando que algunas sesiones no se registren o que la tasa de conversión observada en el dashboard no sea precisa.
-<p>Para minimizar el impacto en el desempeño de la tienda, el <i>script</i> está configurado para ser el último elemento en cargarse en la página. Esto significa que es posible que no se capturen sesiones muy breves.</p>
-  </div>  
+> ⚠️ Data Pipeline solo proporciona datos de sesiones originadas en las soluciones de *storefront* de VTEX: CMS Legado, Store Framework y FastStore. VTEX no tiene acceso a sesiones originadas en marketplaces de terceros o storefronts de tiendas propietarias. Además, las personalizaciones realizadas en el *frontend* de la tienda pueden interferir o incluso desactivar el *script,* provocando que algunas sesiones no se registren o que la tasa de conversión observada en el dashboard no sea precisa. Para minimizar el impacto en el desempeño de la tienda, el *script* está configurado para ser el último elemento en cargarse en la página. Esto significa que es posible que no se capturen sesiones muy breves.  
 
 ## Tabla sessions  
 

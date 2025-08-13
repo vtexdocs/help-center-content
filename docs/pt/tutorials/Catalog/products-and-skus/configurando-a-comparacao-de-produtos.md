@@ -15,9 +15,7 @@ locale: pt
 subcategoryId: pwxWmUu7T222QyuGogs68
 ---
 
-<div class = "alert alert-warning">
-  <p>Tutorial válido apenas para lojas CMS Portal Legado.</p>
-</div>
+> ⚠️ Tutorial válido apenas para lojas CMS Portal Legado.
 
 A comparação de produtos é um recurso nativo da VTEX que permite exibir, lado a lado, detalhes e especificações de produtos previamente selecionados, possibilitando que o usuário compare os produtos da loja de forma simples e visualize facilmente as diferenças entre suas especificações.
 
@@ -26,9 +24,7 @@ A configuração deve ser realizada em dois momentos:
 - [**Página de comparação**](#pagina-de-comparacao): onde o usuário visualizará a comparação dos produtos selecionados na vitrine.
 - [**Vitrine**](#vitrine): onde o usuário selecionará os produtos a serem comparados.
 
-<div class = "alert alert-warning">
-  <p>A comparação de produtos não funciona na página inicial da loja.</p>
-</div>
+> ⚠️ A comparação de produtos não funciona na página inicial da loja.
 
 ## Instruções
 
@@ -51,7 +47,7 @@ onde `ShelfLayoutId` é `Id` do template de prateleira criado na etapa anterior.
   - No campo `Folder Name`, atribua um nome para a pasta e clique em `OK`.
   - Clique em `Save Folder`.
 
-       ![new-folder-pt](//images.ctfassets.net/alneenqid6w5/7lAM8DDROFdPxQYaZoRRzk/2cdb1a9747e5f9b208703ebdbd02b333/new-folder-pt.gif)
+       ![new-folder-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Catalog/products-and-skus/configurando-a-comparacao-de-produtos_1.gif)
 
 4. Crie um layout padrão:
   - Abra a pasta criada no item anterior.
@@ -59,12 +55,10 @@ onde `ShelfLayoutId` é `Id` do template de prateleira criado na etapa anterior.
   - No campo `Template`, vincule o template de página criado no passo 2 à pasta. Saiba mais em [Associando um template a um layout](https://help.vtex.com/pt/tutorial/associando-um-template-a-um-layout--7CkgOHRj7DVbsRxyR8YQrK).
   - Clique em `Save Layout` e, em seguida, em `OK`.
 
-       ![new-layout-pt](//images.ctfassets.net/alneenqid6w5/4krTQkJzqQRbgWJrtlftgJ/c087f506cc178042923f56e1915bd720/new-layout-pt.gif)
+       ![new-layout-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Catalog/products-and-skus/configurando-a-comparacao-de-produtos_2.gif)
 
 ### Vitrine
 
 Para que os produtos sejam exibidos com a opção de comparação (checkbox), atribua o controle `$product.Compare` nos templates de prateleira que você deseja incluir esse recurso. Esse controle renderizará um checkbox para que o usuário possa escolher os produtos para comparar. Além disso, o controle disponibilizará no header e no footer da listagem de produtos o link **Comparar**, que será utilizado pelo usuário após a seleção e o redirecionará para a página de comparação.
 
-<div class = "alert alert-warning">
-  <p>Só é possível realizar a comparação de 4 produtos por vez.</p>
-</div>
+> ⚠️ Só é possível realizar a comparação de 4 produtos por vez.

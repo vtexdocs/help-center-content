@@ -35,10 +35,7 @@ El tiempo que tarde este proceso dependerá del tamaño del archivo. Si la plant
 
 Por último, los productos de las filas de la plantilla cuyas imágenes se procesaron con éxito se pondrán en la cola de indexación.
 
-<div class="alert alert-danger">
-<p>Siempre que se importe una plantilla con información de imágenes, el sistema cargará la nueva imagen del SKU. Presta atención a posibles duplicaciones.</p>
-<p>Si se importa por segunda vez una plantilla con información que ya se envió previamente a VTEX, la información no sobrescribirá la imagen anterior: la imagen se duplicará en el registro del SKU.</p>
-</div>
+> ❗ Siempre que se importe una plantilla con información de imágenes, el sistema cargará la nueva imagen del SKU. Presta atención a posibles duplicaciones. Si se importa por segunda vez una plantilla con información que ya se envió previamente a VTEX, la información no sobrescribirá la imagen anterior: la imagen se duplicará en el registro del SKU.
 
 ## Cómo completar la plantilla para importar imágenes
 
@@ -54,7 +51,7 @@ A continuación, se explica cómo rellenar cada campo de la plantilla de importa
 ### URL de imagen
 
 <div class= “alert alert-info”>
-<p>Este campo es obligatorio. No está permitido utilizar caracteres especiales, puntos en el nombre de la imagen o tildes.</p>
+Este campo es obligatorio. No está permitido utilizar caracteres especiales, puntos en el nombre de la imagen o tildes.
 </div>
 
 Este campo debe rellenarse con la URL de la imagen que se asociará al SKU, la cual debe ser pública y estar alojada en un servidor FTP desde donde se origina el _link_ de la imagen. La URL debe comenzar, sin excepción, con el identificador de protocolo HTTP (`http://`) y terminar con la extensión del archivo (`.jpg`, `.png` o `.gif`). Ejemplo: `http://www.ejemploimage.com.br/imagem03/teste01/exemplo15.jpg`.
@@ -65,14 +62,12 @@ No es necesario que cuentes con un servidor FTP propio para enviar las URL de la
 
 Además, para verificar si las URL son correctas, puedes usar un servicio externo que verifique su validez.
 
-<div class="alert alert-warning">
-  <p>Recomendamos que cada imagen no pese más de 3000 KB (3 MB).</p>
-</div>
+> ⚠️ Recomendamos que cada imagen no pese más de 3000 KB (3 MB).
 
 ### Nombre de imagen
 
 <div class= “alert alert-info”>
-<p>Este campo es obligatorio. No está permitido usar caracteres especiales, tildes o espacios en blanco.</p>
+Este campo es obligatorio. No está permitido usar caracteres especiales, tildes o espacios en blanco.
 </div>
 
 El nombre de la imagen es lo que viene luego de la última / en la URL de la imagen, incluida la extensión del archivo. Por ende, este campo se debe rellenar con el nombre y la extensión del archivo (`.jpg`, `.png` o `.gif`). Ejemplo: `exemplo15.jpg`.
@@ -82,8 +77,8 @@ El nombre estará relacionado con la imagen en el gestor de archivos del CMS - P
 ### Texto de imagen
 
 <div class= “alert alert-info”>
-  <p>No está permitido usar caracteres especiales ni tildes en este campo.</p>
-  <p>No está permitido usar el mismo valor en los campos <strong>Label</strong> y <strong>TextoImagem</strong>.</p>
+  No está permitido usar caracteres especiales ni tildes en este campo.
+  No está permitido usar el mismo valor en los campos **Label** y **TextoImagem**.
 </div>
 
 El campo __Texto de imagen__ debe rellenarse con el texto que se asociará a tu imagen. Quedará registrado en el registro del SKU en la pestaña __Imágenes__ en el campo __Texto__.
@@ -91,8 +86,8 @@ El campo __Texto de imagen__ debe rellenarse con el texto que se asociará a tu 
 ### Etiqueta
 
 <div class= “alert alert-info”>
-  <p>Este campo es obligatorio. No está permitido usar caracteres especiales ni tildes en este campo.</p>
-  <p>No está permitido usar el mismo valor en los campos <strong>Etiqueta</strong> y <strong>Texto de imagen</strong>.</p>
+  Este campo es obligatorio. No está permitido usar caracteres especiales ni tildes en este campo.
+  No está permitido usar el mismo valor en los campos **Etiqueta** y **Texto de imagen**.
 </div>
 
 La _Etiqueta__ es lo que se usa para facilitar la organización de la plantilla de las páginas de tu sitio web a través de la referencia del valor ingresado en esta. Ejemplos: frontal, lateral, superior.
@@ -100,7 +95,7 @@ La _Etiqueta__ es lo que se usa para facilitar la organización de la plantilla 
 ### IDSKU
 
 <div class= “alert alert-info”>
-<p>Este campo es obligatorio. El ID informado debe corresponderse con el ID de un SKU ya existente en el Catálogo.</p>
+Este campo es obligatorio. El ID informado debe corresponderse con el ID de un SKU ya existente en el Catálogo.
 </div>
 
 El ID del SKU es el código que identifica al SKU que se asociará a la imagen. Este código puede obtenerse exportando **Productos y SKU**. Para más información, consulta el artículo [Cómo exportar plantillas de productos](https://help.vtex.com/es/tutorial/how-to-export-a-product-spreadsheet--2sIroGeqZqaN3NAvaSGwWV).

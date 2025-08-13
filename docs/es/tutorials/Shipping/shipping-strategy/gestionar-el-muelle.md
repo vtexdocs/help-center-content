@@ -18,8 +18,7 @@ subcategoryId: 7fTH6bP0C4IaM8qWi0kkQC
 
 El muelle es una de las etapas logísticas de su tienda. Es un punto intermedio entre el almacén y la transportadora, que funciona como área de salida de productos. Los muelles reciben ítems procedentes de almacenes o centros de distribución y los entregan a las transportadoras para que éstas realicen la entrega al destinatario final. 
 
-<div class="alert alert-info">
-Para saber más sobre lo que es un muelle en VTEX, consulte el artículo <a href="https://help.vtex.com/es/tutorial/muelles--5DY8xHEjOLYDVL41Urd5qj">Muelles</a>.</div>
+> ℹ️ Para saber más sobre lo que es un muelle en VTEX, consulte el artículo [Muelles](https://help.vtex.com/es/tutorial/muelles--5DY8xHEjOLYDVL41Urd5qj).
 
 Este artículo contiene la información necesaria para:
 
@@ -30,9 +29,7 @@ Este artículo contiene la información necesaria para:
 
 Es importante saber que para configurar un muelle correctamente hay que: crear el muelle, rellenar los campos de registro (que determinan los horarios de funcionamiento, la prioridad), y también asociar el muelle con la [política comercial](https://help.vtex.com/pt/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE), el [almacén](https://docs.google.com/document/u/0/d/1Nx2HYf58xSJLB3V_voySEW80sxkzzhR8dNrS6mytytM/edit) y la [política de envío](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140?&utm_source=autocomplete). 
 
-<div class="alert alert-warning">
-El orden de registro sugerido en la plataforma VTEX para el funcionamiento previsto del sistema logístico es:<p><ul><li><a href="https://help.vtex.com/es/tutorial/politica-de-envio--tutorials_140">Política de envío</a></li><li><a href="https://help.vtex.com/es/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj">Muelle</a></li><li><a href="https://help.vtex.com/es/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb">Almacén</a></li></ul></p>
-</div>
+> ⚠️ El orden de registro sugerido en la plataforma VTEX para el funcionamiento previsto del sistema logístico es:<ul><li>[Política de envío](https://help.vtex.com/es/tutorial/politica-de-envio--tutorials_140)</li><li>[Muelle](https://help.vtex.com/es/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj)</li><li>[Almacén](https://help.vtex.com/es/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb)</li></ul>
 
 ## Registrar
 

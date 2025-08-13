@@ -19,9 +19,7 @@ Animamos a nuestros clientes a que informen responsablemente de cualquier vulner
 
 Quienes deseen informar una vulnerabilidad deben trabajar primero con sus propios equipos de seguridad y desarrollo para realizar una evaluación de seguridad y eliminar falsos positivos o problemas derivados de configuraciones personalizadas. Se analizarán únicamente los casos que sean compatibles con la [definición de vulnerabilidad](#definicion-de-vulnerabilidad).
 
-<div class="alert alert-warning">
-  <p>Consulta el documento <a href="https://vtex.com/mx-es/security/security-practices/">Prácticas de seguridad de VTEX</a> y nuestras <a href="https://help.vtex.com/es/tutorial/the-risk-assessment-process--4K97IpqkpCpDYsZOSxtfkX">Preguntas frecuentes sobre seguridad</a> antes de informar cualquier vulnerabilidad. Estos documentos aclaran nuestros procesos y ayudan a eliminar los falsos positivos.</p>
-</div>
+> ⚠️ Consulta el documento [Prácticas de seguridad de VTEX](https://vtex.com/mx-es/security/security-practices/) y nuestras [Preguntas frecuentes sobre seguridad](https://help.vtex.com/es/tutorial/the-risk-assessment-process--4K97IpqkpCpDYsZOSxtfkX) antes de informar cualquier vulnerabilidad. Estos documentos aclaran nuestros procesos y ayudan a eliminar los falsos positivos.
 
 Después de este procedimiento, si existe una vulnerabilidad, sigue los pasos a continuación para reportarla:
 
@@ -30,9 +28,7 @@ Después de este procedimiento, si existe una vulnerabilidad, sigue los pasos a 
 
     Las vulnerabilidades se deben informar de manera individual según el modelo establecido. Si encontraste más de una vulnerabilidad en tu prueba, rellena varios modelos y adjúntalos a tu ticket.
 
-  <div class="alert alert-warning">
-    <p>Toda la información solicitada debe rellenarse, dado que es importante para la evaluación. El equipo de Seguridad de VTEX no atenderá vulnerabilidades que no sigan el patrón establecido.</p>
-  </div>
+  > ⚠️ Toda la información solicitada debe rellenarse, dado que es importante para la evaluación. El equipo de Seguridad de VTEX no atenderá vulnerabilidades que no sigan el patrón establecido.
 
 3. Abre un ticket para nuestro [Soporte](https://help.vtex.com/support?/cultureInfo=es-419) para registrar el aviso de vulnerabilidad de seguridad. No olvides adjuntar el modelo de comunicación de vulnerabilidades y rellena todos los datos solicitados en el ticket de soporte.
 4. Guarda tu número de ticket, ya que puedes necesitarlo en futuras comunicaciones.

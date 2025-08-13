@@ -17,9 +17,7 @@ subcategoryId: oMrzcOMVbBpH0reeMFHFg
 
 El conjunto de datos del `Bridge` incluye información histórica sobre los registros de Bridge. 
 
-<div class="alert alert-warning">
-Actualmente, el conjunto de datos solo proporciona la información de los registros de seguimiento y de pedidos cancelados.
-</div>  
+> ⚠️ Actualmente, el conjunto de datos solo proporciona la información de los registros de seguimiento y de pedidos cancelados.  
 
 En esta sección encontrará la siguiente información:
 

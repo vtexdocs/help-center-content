@@ -19,21 +19,7 @@ A limitação no acesso de uma loja pode ser implementado por diversos motivos, 
 
 Esse cenário pode ser atendido através do uso do Master Data v1 e da política comercial utilizada na loja.
 
-<div class="alert alert-warning">
-Este artigo diz respeito ao funcionamento do Master Data v1. É importante avaliar qual versão do Master Data atende as necessidades ou está em uso na sua operação. Saiba mais:
-<ul>
-<li>
-<a href="https://help.vtex.com/tutorial/master-data--4otjBnR27u4WUIciQsmkAw#versions-available">
-Características das versões do Master Data
-</a>
-</li>
-<li>
-<a href="https://developers.vtex.com/vtex-rest-api/docs/getting-started-1">
-Master Data v2
-</a>
-</li>
-</ul>
-</div>
+> ⚠️ Este artigo diz respeito ao funcionamento do Master Data v1. É importante avaliar qual versão do Master Data atende as necessidades ou está em uso na sua operação. Saiba mais: <ul> <li> [ Características das versões do Master Data ](https://help.vtex.com/tutorial/master-data--4otjBnR27u4WUIciQsmkAw#versions-available) </li> <li> [ Master Data v2 ](https://developers.vtex.com/vtex-rest-api/docs/getting-started-1) </li> </ul>
 
 ## Criar cluster de clientes
 
@@ -48,7 +34,7 @@ Após a criação do cluster, é preciso criar a regra na política comercial pa
 3. No campo **Regra condicional**, preencha com o valor **{NomeDoCluster}=”true”**. O valor **{NomeDoCluster}** deve ser alterado pelo nome do campo na entidade de dados.
 4. Clique no botão **Salvar**.
 
-![Catálogo PT](//images.ctfassets.net/alneenqid6w5/7r2ANIP2U6JDt1B0dxGmF6/739b47fa293440f94bb635d0d90cfbc0/pol__ticas_comerciais_pt.png)
+![Catálogo PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/master-data/customer-relations-management/limitando-acesso-a-loja-pela-politica-comercial_1.png)
 
 Na configuração acima, apenas o clientes com o valor true (utilizado um campo boolean – em que os valores são verdadeiro ou falso) acessarão o site.
 

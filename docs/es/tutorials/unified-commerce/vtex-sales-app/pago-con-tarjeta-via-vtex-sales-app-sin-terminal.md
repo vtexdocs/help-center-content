@@ -56,9 +56,7 @@ La tabla a continuación presenta las principales ventajas del **Pago con tarjet
 
 Al utilizar el **Pago con tarjeta vía VTEX Sales App** en ventas de [pasillo infinito](https://help.vtex.com/es/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv/40KMlmGI5tN0r0KPCDWgGn) con envío predeterminado (más de 24 horas), la compra se procesa a través del mismo flujo de checkout de la tienda de ecommerce y se clasifica como un caso de tarjeta no presente, un término técnico que indica que el pago no se realizó con una tarjeta física.
 
-<div class="alert alert-danger">
-<p>Las transacciones realizadas con esta funcionalidad están sujetas a las reglas de antifraude. Cuando la autorización de compra pasa por el flujo antifraude, su aprobación puede demorar hasta 24 horas. Por este motivo, no se recomienda utilizar el <b>Pago con tarjeta vía VTEX Sales App</b> en los siguientes escenarios:</p><p><ul><li>Ventas con envío express</li><li>Ventas de stock local (On Hands)</li></ul></p>
-</div>
+> ❗ Las transacciones realizadas con esta funcionalidad están sujetas a las reglas de antifraude. Cuando la autorización de compra pasa por el flujo antifraude, su aprobación puede demorar hasta 24 horas. Por este motivo, no se recomienda utilizar el **Pago con tarjeta vía VTEX Sales App** en los siguientes escenarios:<ul><li>Ventas con envío express</li><li>Ventas de stock local (On Hands)</li></ul>
 
 Si tu tienda física tiene una [política comercial](https://help.vtex.com/es/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) para **VTEX Sales App** independiente de tu tienda de ecommerce y cuenta con una revisión exclusiva de las reglas antifraude, puedes utilizar el **Pago con tarjeta vía VTEX Sales App** para ventas con stock local (On Hands) o envío express.
 
@@ -66,9 +64,7 @@ Si tu tienda física tiene una [política comercial](https://help.vtex.com/es/tu
 
 La configuración necesaria para activar la funcionalidad es distinta para tiendas que ya usan **VTEX Sales App** y para las que van a empezar a utilizar la solución.
 
-<div class="alert alert-warning">
-Antes de activar la funcionalidad, asegúrate de que tu tienda tenga una integración con un partner de pagos y pueda procesar ventas con tarjeta de crédito.
-</div>
+> ⚠️ Antes de activar la funcionalidad, asegúrate de que tu tienda tenga una integración con un partner de pagos y pueda procesar ventas con tarjeta de crédito.
 
 ### Tiendas que comienzan a utilizar VTEX Sales App
 
@@ -113,9 +109,7 @@ Sigue los pasos a continuación para finalizar pedidos utilizando **Pago con tar
 3. Captura automáticamente los datos de la tarjeta con la pantalla de captura o llena los datos de forma manual. Es necesario escanear la parte delantera y trasera de la tarjeta.
 4. Después de la aprobación del pago, la confirmación de la compra se realiza en **VTEX Sales App**.
 
-<div class = "alert alert-info">
-Los clientes pueden realizar el escaneo de la tarjeta o el ingreso manual de los datos ellos mismos si así lo desean.
-</div>
+> ℹ️ Los clientes pueden realizar el escaneo de la tarjeta o el ingreso manual de los datos ellos mismos si así lo desean.
 
 ## Más información
 

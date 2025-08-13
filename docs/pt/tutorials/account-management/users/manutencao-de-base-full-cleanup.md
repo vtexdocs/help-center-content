@@ -29,12 +29,7 @@ Estas são as operações disponíveis:
 
 - __Apagar Produtos do Indexador:__ ao apagar produtos do indexador, sua loja ficará sem produtos para serem visualizados.
 
-  <div class="alert alert-warning"> 
-    <p>As regras a seguir se aplicam ao botão <strong>Apagar Produtos do Indexador</strong>:
-<ul> <li>Apenas lojas com menos de 10 mil produtos podem realizar essa ação. Lojas com um catálogo maior devem <a href="https://help.vtex.com/pt/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM">abrir um chamado para o suporte VTEX</a> para realizar a limpeza do indexador e reindexação da base de dados.</li>
-<li>Quando um usuário apaga produtos do indexador, a conta é bloqueada de executar essa ação por 24 horas.</li>
-<li>Existe uma fila para processar as solicitações geradas pelo botão <i>Apagar Produtos do Indexador</i>. Após clicar no botão, o tempo estimado de espera aparece em um log no final da página. A fila é global e se aplica a todos os usuários, para garantir a segurança da plataforma VTEX.</li></ul></p>
-  </div>
+  > ⚠️ As regras a seguir se aplicam ao botão **Apagar Produtos do Indexador**: <ul> <li>Apenas lojas com menos de 10 mil produtos podem realizar essa ação. Lojas com um catálogo maior devem [abrir um chamado para o suporte VTEX](https://help.vtex.com/pt/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM) para realizar a limpeza do indexador e reindexação da base de dados.</li> <li>Quando um usuário apaga produtos do indexador, a conta é bloqueada de executar essa ação por 24 horas.</li> <li>Existe uma fila para processar as solicitações geradas pelo botão *Apagar Produtos do Indexador*. Após clicar no botão, o tempo estimado de espera aparece em um log no final da página. A fila é global e se aplica a todos os usuários, para garantir a segurança da plataforma VTEX.</li></ul>
 
 - __Apagar Produtos/Skus e itens relacionados:__ ao apagar esses elementos, seus produtos e SKUs, além dos seus itens relacionados, serão removidos de forma definitiva da sua loja.
 
@@ -44,6 +39,4 @@ Estas são as operações disponíveis:
 
 - __Agendar reindexação Completa:__ ao reindexar a base, você entra em uma fila para iniciar o processo de indexação dos seus produtos. Os produtos da loja continuam à venda durante o processo de indexação. Eles apenas entram em uma fila para atualização de dados e seguem disponíveis no site para venda. Após clicar em __Reindexar Base__, o processo é iniciado automaticamente.
 
-<div class="alert alert-warning">
-  <p>É importante <strong>Apagar Produtos do Indexador</strong> após realizar qualquer outra operação nesta página, exceto após <strong>Agendar reindexação completa</strong>. Caso contrário, sua loja pode apresentar erros ao acessar páginas de produtos, de categorias ou resultados de busca.
-</div>
+> ⚠️ É importante **Apagar Produtos do Indexador** após realizar qualquer outra operação nesta página, exceto após **Agendar reindexação completa**. Caso contrário, sua loja pode apresentar erros ao acessar páginas de produtos, de categorias ou resultados de busca.

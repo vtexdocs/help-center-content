@@ -19,9 +19,7 @@ La exportación de pedidos en la página [Todos los pedidos](https://help.vtex.c
 
 Cada fila de la plantilla se refiere a un [SKU](https://help.vtex.com/es/tutorial/o-que-e-um-sku--1K75s4RXAQyOuGUYKMM68u). Por ejemplo, si en un pedido hay 3 SKUs, este será referenciado en 3 filas en el informe. Cada fila mostrará los datos de un SKU del pedido.
 
-<div class = "alert alert-info">
-El link del informe de pedidos está disponible para descargar durante seis horas.
-</div>
+> ℹ️ El link del informe de pedidos está disponible para descargar durante seis horas.
 
 Las columnas corresponden a información específica sobre el pedido, conforme se describe a continuación.
 

@@ -15,9 +15,7 @@ locale: es
 subcategoryId: 7Kllu6CmeLNV3tYXlCFvOt
 ---
 
-<div class = "alert alert-info">
-Esta función se encuentra en fase beta cerrada, por lo que sólo los clientes seleccionados pueden acceder a ella ahora. Si desea implementarla en el futuro, rellene nuestro <a href="https://vtex.com/co-es/contacto/">formulario</a> apontaby introduciendo el nombre del producto en el campo <code>Comentarios</code>.
-</div>
+> ℹ️ Esta función se encuentra en fase beta cerrada, por lo que sólo los clientes seleccionados pueden acceder a ella ahora. Si desea implementarla en el futuro, rellene nuestro [formulario](https://vtex.com/co-es/contacto/) apontaby introduciendo el nombre del producto en el campo `Comentarios`.
 
 **Pedidos** es una página del Admin VTEX que muestra información sobre los pedidos realizados y gestionados por [VTEX Pick and Pack](https://help.vtex.com/es/tutorial/vtex-pick-and-pack--1OOops3WrUyz7e0bnhkfXU).
 
@@ -28,7 +26,7 @@ Esta página te permite realizar las siguientes acciones:
 * [Filtrar pedidos](#filtrar-pedidos) 
 * [Exportar pedidos](#exportar-pedidos)
 
-![pick-and-pack-pedidos-ES](//images.ctfassets.net/alneenqid6w5/7oIngXdaDwQP0CQSHlQaPO/0b19e96e2057462deca476086792e17d/image.png)
+![pick-and-pack-pedidos-ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/vtex-pick-and-pack/vtex-pick-and-pack-pedidos_1.png)
 
 La página presenta la siguiente información en forma de tabla: 
 
@@ -56,7 +54,7 @@ Puedes optimizar la consulta de pedidos desde las siguientes secciones:
 
 También puedes acceder a información más detallada sobre cada pedido haciendo clic en el pedido en la tabla.
 
-![pick-and-pack-pedidos-2-ES](//images.ctfassets.net/alneenqid6w5/2X9tIEvxpMKtTTCMC7NF9N/8307fcdea5832aa1a653f812c0eaba02/image.png)
+![pick-and-pack-pedidos-2-ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/vtex-pick-and-pack/vtex-pick-and-pack-pedidos_2.png)
 
 Al seleccionar el pedido deseado, se mostrará la siguiente información:
 
@@ -91,5 +89,5 @@ Puedes exportar pedidos siguiendo los pasos a continuación:
 1. Haz clic en `Exportar`.
 2. Selecciona los datos que deseas exportar: `Informe de paquetes` o `Informe de pedidos`.
     - En el caso de `Informe de paquetes`, debes seleccionar el periodo que deseas exportar, el tipo y el método de envío.
-    ![pick-and-pack-pedidos-3-ES](//images.ctfassets.net/alneenqid6w5/4e3Zjkh9zuwmcPNe0CKJQU/ab4c8bcb38a8ab892c57aeeec869dac8/image.png)
+    ![pick-and-pack-pedidos-3-ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/vtex-pick-and-pack/vtex-pick-and-pack-pedidos_3.png)
 3.  Haz clic en `Exportar`.

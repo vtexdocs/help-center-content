@@ -25,7 +25,7 @@ To find a SKU ID, follow the steps below:
 
 In the example below, the product "Corebiz t-shirt" is associated with the SKU "corebiz t-shirt black", whose ID is `310119261`:
 
-![finding_sku_id_EN](//images.ctfassets.net/alneenqid6w5/3MlMkBI75SP7R5Arj2n8ke/4c58bb88416e5d850d283f2c222b704e/finding_sku_id_EN.png)
+![finding_sku_id_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/products-and-skus/finding-a-sku-id_1.png)
 
 ## Identifying a SKU ID via URL
 
@@ -35,7 +35,5 @@ When you click a SKU and open its [edit page](https://help.vtex.com/en/tutorial/
 
 The number at the end of the URL is the SKU ID.
 
-<div class = "alert alert-info">
-  <p>To find SKU IDs via the <b>Catalog API</b>, use the <a href="https://developers.vtex.com/docs/api-reference/catalog-api#get-/api/catalog_system/pvt/sku/stockkeepingunitids">List all SKU IDs</a> endpoint.</p>
-</div>
+> ℹ️ To find SKU IDs via the **Catalog API**, use the [List all SKU IDs](https://developers.vtex.com/docs/api-reference/catalog-api#get-/api/catalog_system/pvt/sku/stockkeepingunitids) endpoint.
 

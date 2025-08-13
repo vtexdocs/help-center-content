@@ -3,8 +3,8 @@ title: 'Security Monitor'
 id: 5LOVNLrrtmgSj99pM1NS4x
 status: PUBLISHED
 createdAt: 2024-04-25T00:42:30.944Z
-updatedAt: 2025-05-19T20:49:33.423Z
-publishedAt: 2025-05-19T20:49:33.423Z
+updatedAt: 2025-08-12T22:54:55.978Z
+publishedAt: 2025-08-12T22:54:55.978Z
 firstPublishedAt: 2024-04-25T02:41:44.798Z
 contentType: tutorial
 productTeam: Identity
@@ -15,9 +15,7 @@ locale: es
 subcategoryId: jrgbOxKaOW0kdZs7rdgvS
 ---
 
-<div class="alert alert-info">
-  <p>Esta funcionalidad es parte de <a href="https://help.vtex.com/es/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh">VTEX Shield</a>. Si ya es cliente de VTEX y desea adoptar VTEX Shield para su negocio, por favor, póngase en contacto con el <a href="https://help.vtex.com/es/tracks/soporte-en-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ">Soporte Comercial</a>. Pueden aplicarse tarifas adicionales. Si aún no es cliente pero está interesado en esta solución, por favor, complete el <a href="https://vtex.com/co-es/contacto/">formulario de contacto</a>.</p>
-</div>
+> ℹ️ Esta funcionalidad es parte de [VTEX Shield](https://help.vtex.com/es/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh). Si ya es cliente de VTEX y desea adoptar VTEX Shield para su negocio, por favor, póngase en contacto con el [Soporte Comercial](https://help.vtex.com/es/tracks/soporte-en-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ). Pueden aplicarse tarifas adicionales. Si aún no es cliente pero está interesado en esta solución, por favor, complete el [formulario de contacto](https://vtex.com/co-es/contacto/).
 
 Security Monitor es un dashboard que ayuda a los retailers a identificar y gestionar riesgos potenciales en su entorno en tiempo real. La herramienta identifica y notifica por email a los retailers sobre riesgos relacionados con la configuración y el comportamiento de los usuarios administrativos, lo que permite tomar medidas preventivas contra las vulnerabilidades de seguridad.
 
@@ -26,7 +24,7 @@ Para acceder al dashboard sigue los pasos a continuación:
 1. En el Admin VTEX, accede a **Dashboards**, o ingresa **Dashboards** en la barra de búsqueda.
 2. En **Security Monitor**, haz clic en **Security Monitor Dashboard**.
 
-![1-security-monitor-es](//images.ctfassets.net/alneenqid6w5/k2BpYU2kF3p3grDdfy4aB/95bed565d784a939eb248d97a7ca6289/security-monitor-es.png)
+![1-security-monitor-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/security/vtex-shield/security-monitor_1.png)
 
 Security Monitor presenta los resultados en tres pestañas, divididas por status:
 
@@ -49,18 +47,18 @@ La pestaña **Abiertos** muestra las amenazas identificadas por Security Monitor
 
 La barra superior muestra el número total de hallazgos y el número de amenazas por nivel de gravedad (alto, medio o bajo).
 
-![2-findings-es](//images.ctfassets.net/alneenqid6w5/4wpzGuNHIyqAaRGuv5Dt8E/630a7a558c2c57d07e6b8b68de359a4b/2-findings-es.png)
+![2-findings-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/security/vtex-shield/security-monitor_2.png)
 
 La pestaña muestra la lista completa de hallazgos abiertos en una tabla, del más reciente al más antiguo: 
 
 | Columnas | Descripción |
 | --- | --- |
-| Hallazgo | Email de usuario o clave de la aplicación relacionado con el hallazgo. |
-| Tipo | Tipo de hallazgo detectado:<br/><ul><li><strong>Claves de aplicación antiguas:</strong> <a href="https://help.vtex.com/es/tutorial/claves-de-aplicacion--2iffYzlvvz4BDMr6WGUtet" rel="noopener noreferrer" target="_self" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word">claves de aplicación</a> que se crearon hace más de 6 meses.</li><li><strong>Excesivos Admin Super:</strong> usuarios o claves de aplicación con el <a href="https://help.vtex.com/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc" rel="noopener noreferrer" target="_self" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word">rol</a> <strong>Owner (Admin Super)</strong>.</li><li><strong>Claves de aplicación filtradas:</strong> <a href="https://help.vtex.com/es/tutorial/claves-de-aplicacion--2iffYzlvvz4BDMr6WGUtet" rel="noopener noreferrer" target="_self" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word">claves de aplicación</a> expuestas en la web, identificadas por el equipo de seguridad de VTEX.</li><li><strong>Usuarios inactivos:</strong> usuarios que no han accedido al Admin en los últimos 30 días.</li><li><strong>Permisiones Excesivas:</strong> usuarios o claves de aplicación con acceso a recursos que no han utilizado en los últimos 30 días.</li></ul> |
+| Hallazgo | Email de usuario o clave de API relacionado con el hallazgo. |
+| Tipo | Tipo de hallazgo detectado:<br/><ul><li>**Claves de API antiguas:** [claves de API](https://help.vtex.com/es/tutorial/claves-de-aplicacion--2iffYzlvvz4BDMr6WGUtet) que se crearon hace más de 6 meses.</li><li>**Excesivos Admin Super:** usuarios o claves de API con el [rol](https://help.vtex.com/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) **Owner (Admin Super)**.</li><li>**Claves de API filtradas:** [claves de API](https://help.vtex.com/es/tutorial/claves-de-aplicacion--2iffYzlvvz4BDMr6WGUtet) expuestas en la web, identificadas por el equipo de seguridad de VTEX.</li><li>**Usuarios inactivos:** usuarios que no han accedido al Admin en los últimos 30 días.</li><li>**Permisiones Excesivas:** usuarios o claves de API con acceso a recursos que no han utilizado en los últimos 30 días.</li></ul> |
 | Detectado | Fecha en que se detectó el hallazgo. |
-| Sensor | Sensor que detectó la amenaza: <br/><ul><li><strong>VTEX Identity</strong></li></ul> |
-| Gravedad | Nivel de gravedad de la amenaza, determinado por el impacto o riesgo potencial: <br /><ul><li><strong>Alta</strong></li><li><strong>Media</strong></li><li><strong>Baja</strong></li></ul> |
-| Menú de acciones ⋮ | Opciones disponibles para abordar el hallazgo: <br/><ul><li><a href="#gestionar-hallazgo" rel="noopener noreferrer" target="_self" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word">Gestionar</a></li><li><a href="#posponer-hallazgo" rel="noopener noreferrer" target="_self" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word">Posponer</a></li></ul> |
+| Sensor | Sensor que detectó la amenaza: <br/><ul><li>**VTEX Identity**</li></ul> |
+| Gravedad | Nivel de gravedad de la amenaza, determinado por el impacto o riesgo potencial: <br /><ul><li>**Alta**</li><li>**Media**</li><li>**Baja**</li></ul> |
+| Menú de acciones ⋮ | Opciones disponibles para abordar el hallazgo: <br/><ul><li>[Gestionar](#gestionar-hallazgo)</li><li>[Posponer](#posponer-hallazgo)</li></ul> |
 
 ### Gestionar hallazgo
 
@@ -69,7 +67,7 @@ Para gestionar un hallazgo sigue las instrucciones a continuación:
 1. En la fila del hallazgo, haz clic en el menú ⋮ .
 2. Después, en `Gestionar`.
 
-   Serás redirigido a la pantalla de **Usuarios** en **Configuración de la cuenta** para editar los roles asociados al usuario o a la clave de aplicación en cuestión.
+   Serás redirigido a la pantalla de **Usuarios** en **Configuración de la cuenta** para editar los roles asociados al usuario o a la clave de API en cuestión.
 
 ### Posponer hallazgo
 
@@ -80,7 +78,7 @@ Para mover un hallazgo a la pestaña **Pospuestos**, es decir, removerlo de la p
 3. Elige el periodo de tiempo, en días, durante el cual deseas mantener este hallazgo en la pestaña **Pospuestos**. Las opciones disponibles son: **7**, **90** o **120** días.
 4. Haz clic en `Posponer`.
 
-![3-snooze-finding-es](//images.ctfassets.net/alneenqid6w5/1neaA5XmCxK4EB3HAVxcud/689f451b9a7a58a1e91a52744b177871/snooze-es.png)
+![3-snooze-finding-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/security/vtex-shield/security-monitor_3.png)
 
 ## Pospuestos
 
@@ -94,22 +92,22 @@ La pestaña **Cerrados** contiene la lista de hallazgos ya gestionados, es decir
 
 | Columnas | Descripción |
 | --- | --- |
-| Hallazgo | Email de usuario o clave de la aplicación relacionado con el hallazgo. |
-| Tipo | Tipo de hallazgo detectado:<br/><ul><li><strong>Claves de aplicación antiguas:</strong> <a href="https://help.vtex.com/es/tutorial/claves-de-aplicacion--2iffYzlvvz4BDMr6WGUtet" rel="noopener noreferrer" target="_self" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word">claves de aplicación</a> que se crearon hace más de 6 meses.</li><li><strong>Excesivos Admin Super:</strong> usuarios o claves de aplicación con el <a href="https://help.vtex.com/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc" rel="noopener noreferrer" target="_self" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word">rol</a> <strong>Owner (Admin Super)</strong>.</li><li><strong>Claves de aplicación filtradas:</strong> <a href="https://help.vtex.com/es/tutorial/claves-de-aplicacion--2iffYzlvvz4BDMr6WGUtet" rel="noopener noreferrer" target="_self" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word">claves de aplicación</a> expuestas en la web, identificadas por el equipo de seguridad de VTEX.</li><li><strong>Usuarios inactivos:</strong> usuarios que no han accedido al Admin en los últimos 30 días.</li></ul> |
+| Hallazgo | Email de usuario o clave de API relacionado con el hallazgo. |
+| Tipo | Tipo de hallazgo detectado:<br/><ul><li>**Claves de API antiguas:** [claves de API](https://help.vtex.com/es/tutorial/claves-de-aplicacion--2iffYzlvvz4BDMr6WGUtet) que se crearon hace más de 6 meses.</li><li>**Excesivos Admin Super:** usuarios o claves de API con el [rol](https://help.vtex.com/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) **Owner (Admin Super)**.</li><li>**Claves de API filtradas:** [claves de API](https://help.vtex.com/es/tutorial/claves-de-aplicacion--2iffYzlvvz4BDMr6WGUtet) expuestas en la web, identificadas por el equipo de seguridad de VTEX.</li><li>**Usuarios inactivos:** usuarios que no han accedido al Admin en los últimos 30 días.</li></ul> |
 | Detectado | Fecha en que se detectó el hallazgo. |
 | Cerrado | Fecha en que se cerró el hallazgo. |
 | Cerrado por | Indica que el hallazgo se cerró automáticamente tras ser gestionado por un usuario administrativo. |
-| Gravedad | Nivel de gravedad de la amenaza, determinado por el impacto o riesgo potencial: <br /><ul><li><strong>Alta</strong></li><li><strong>Media</strong></li><li><strong>Baja</strong></li></ul> |
+| Gravedad | Nivel de gravedad de la amenaza, determinado por el impacto o riesgo potencial: <br /><ul><li>**Alta**</li><li>**Media**</li><li>**Baja**</li></ul> |
 
 ## Buscar hallazgos
 
-En la barra de búsqueda, ingresa la dirección de email del usuario o el nombre de la clave de la aplicación para encontrar hallazgos relacionados.
+En la barra de búsqueda, ingresa la dirección de email del usuario o el nombre de la clave de API para encontrar hallazgos relacionados.
 
 ## Filtrar hallazgos por tipo
 
 Al hacer clic en `Tipo` <i class="fas fa-chevron-down"></i>, puedes elegir uno de los tipos de hallazgo para filtrar los resultados mostrados en la lista. Haz clic en `Aplicar` para confirmar el filtro elegido y la lista se actualizará.
 
-![4-filter-findings-es](//images.ctfassets.net/alneenqid6w5/1qJnJBy5YHJzQKynw783W7/79bb4164cf1b8b8c7be13f492f2e55aa/filter-security-monitor-es.png)
+![4-filter-findings-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/security/vtex-shield/security-monitor_4.png)
 
 ## Exportar hallazgos
 
@@ -132,7 +130,7 @@ Consulta a continuación la información sobre cada hallazgo incluida en el arch
 | :---- | :---- |
 | *Id* | ID del hallazgo. |
 | *Type* | Tipo de hallazgo detectado. |
-| *Finding* | Email de usuario o clave de la aplicación relacionado con el hallazgo. |
+| *Finding* | Email de usuario o clave de API relacionado con el hallazgo. |
 | *Sensor* | Sensor que detectó la amenaza (VTEX Identity). |
 | *Account* | Cuenta en la que se detectó la amenaza. |
 | *Severity* | Nivel de gravedad de la amenaza, determinado por el impacto o riesgo potencial: <ul><li>High (alta)</li><li> Medium (media)</li><li> Low (baja)</li></ul> |
@@ -153,12 +151,12 @@ Para editar aquellos usuarios administrativos que recibirán notificaciones en c
    Para remover un usuario, haz clic en la `X` junto al email relacionado.
 3. Haz clic en `Guardar`.
 
-![5-edit-notifications-es](//images.ctfassets.net/alneenqid6w5/1CmMhWokQgzxRAqk1Jvqn4/a923e33a52380c184917439b1ee0f5fd/notifications-security-monitor-es.png)
+![5-edit-notifications-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/security/vtex-shield/security-monitor_5.png)
 
 ## Más información
 
 * [VTEX Shield](https://help.vtex.com/es/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh)
 * [Roles](https://help.vtex.com/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc)
 * [Usuarios](https://help.vtex.com/es/tutorial/gestionar-usuarios--tutorials_512)
-* [Claves de aplicación](https://help.vtex.com/es/tutorial/claves-de-aplicacion--2iffYzlvvz4BDMr6WGUtet)
+* [Claves de API](https://help.vtex.com/es/tutorial/claves-de-aplicacion--2iffYzlvvz4BDMr6WGUtet)
 

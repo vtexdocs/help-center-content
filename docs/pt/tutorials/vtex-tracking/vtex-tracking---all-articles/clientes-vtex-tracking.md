@@ -38,7 +38,7 @@ Uma vez no painel, é possível:
 ## Criar novo cliente
 
 <div class=”alert alert-info”>
-Cada vez que é lançada uma entrega para um cliente não cadastrado, o sistema registra seu perfil no painel <b>Consultar clientes</b>, como se fosse um cliente novo. Para evitar essa repetição, crie um perfil manualmente para seus clientes, e vincule um Código Externo a cada um. Confira os Campos de Cadastro para saber mais sobre Código Externo.
+Cada vez que é lançada uma entrega para um cliente não cadastrado, o sistema registra seu perfil no painel **Consultar clientes**, como se fosse um cliente novo. Para evitar essa repetição, crie um perfil manualmente para seus clientes, e vincule um Código Externo a cada um. Confira os Campos de Cadastro para saber mais sobre Código Externo.
 </div>
 
 1. Acesse o módulo **Configurações da Conta**.  

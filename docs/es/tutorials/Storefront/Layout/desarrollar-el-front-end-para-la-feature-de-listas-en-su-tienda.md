@@ -104,9 +104,9 @@ Dentro del template `new-GiftList`, hay un subtemplate con el nombre` new-GiftLi
 
 ```html
 <ul class="nav nav-list bs-docs-sidenav giftlist-sidenav">
-    <li><a href="/giftlist/"><i class="icon-chevron-right"></i>Buscar una Lista</a></li>
-    <li><a href="/giftlist/create/"><i class="icon-chevron-right"></i>Crear nueva Lista</a></li>
-    <li><a href="/giftlist/manage/"><i class="icon-chevron-right"></i>Gestionar mis Listas</a></li>
+    <li>[<i class="icon-chevron-right"></i>Buscar una Lista](/giftlist/)</li>
+    <li>[<i class="icon-chevron-right"></i>Crear nueva Lista](/giftlist/create/)</li>
+    <li>[<i class="icon-chevron-right"></i>Gestionar mis Listas](/giftlist/manage/)</li>
 </ul>
 ```
 
@@ -116,15 +116,11 @@ Este código representa una lista con __tres links__:
 2. __Crear nueva Lista__: Este enlace lleva al cliente a la ruta `/giftlist/create`, donde el cliente crea sus listas. En los próximos pasos, vamos a explicar cómo se hace la creación de listas.
 3. __Generación de mis Listas__: Este enlace lleva al cliente a la ruta `/giftlist/manage`, donde el cliente puede administrar sus listas. En los próximos pasos, vamos a explicar cómo se gestiona la lista.
 
-<div class="alert alert-danger">
-No desactive la bandera <strong>Authentication Required</strong> ya seleccionada por defecto en las carpetas siguientes. La identificación es necesaria para que las listas se muestren para cada usuario específico.
-</div>
+> ❗ No desactive la bandera **Authentication Required** ya seleccionada por defecto en las carpetas siguientes. La identificación es necesaria para que las listas se muestren para cada usuario específico.
 
 ## Editar el template de creación de listas
 
-<div class="alert alert-info">
-Antes de editar esta plantilla, es necesario <a href="http://help.vtex.com/es/tutorial/criando-tipo-de-lista">crear el tipo de lista</a> que se ofrecerá en su lista tienda. <!--Reescrever o artigo de tipo de lista -->
-</div>
+> ℹ️ Antes de editar esta plantilla, es necesario [crear el tipo de lista](http://help.vtex.com/es/tutorial/criando-tipo-de-lista) que se ofrecerá en su lista tienda. <!--Reescrever o artigo de tipo de lista -->
 
 La plantilla para crear listas se encuentra en la ruta `giftlist/create`. La plantilla por defecto de esta ruta es el `new-GiftList-Create`, ubicado en la sección `HTML Templates` de su CMS.
 

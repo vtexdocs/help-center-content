@@ -20,7 +20,7 @@ Tutorial válido solo para tiendas CMS Portal Legado.
 </div>
 
 <div style="background-color:#FFE6E6; border-left: 4px solid #D9534F; border-top-left-radius: 2px; border-bottom-left-radius: 2px; margin: 10px; padding: 15px">
-Mucho cuidado con esta acción. Si usted suprime uno de sus sitios web, <strong>TODOS</strong> los archivos y carpetas de ese sitio web son borrados permanentemente. Usted <strong>no</strong> conseguirá recuperarlos. Atención: no es posible deletar el <strong>website default.</strong>
+Mucho cuidado con esta acción. Si usted suprime uno de sus sitios web, **TODOS** los archivos y carpetas de ese sitio web son borrados permanentemente. Usted **no** conseguirá recuperarlos. Atención: no es posible deletar el **website default.**
 </div>
 
 Para borrar un sitio web, siga los pasos abajo:

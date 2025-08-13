@@ -16,7 +16,7 @@ subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
 <div style="background-color:#cfe2ff; border-left: 2px solid #084298; border-top-left-radius: 2px; border-bottom-left-radius: 2px; margin-bottom: 10px; padding: 15px">
-  <p>Esta funcionalidad está disponible para las tiendas que utilizan la tecnología Portal Legada.</p>
+  Esta funcionalidad está disponible para las tiendas que utilizan la tecnología Portal Legada.
 </div>
 
 La sección [Layout](https://help.vtex.com/es/subcategory/layout--2g6LxtasS4iSeGEqeYUuGW) te permite crear tu storefront con HTML y CSS.
@@ -27,7 +27,7 @@ Si aún no ha creado un Web Site (o desea crear un nuevo), es en ese directorio 
 **Sites and channels** es también el lugar donde usted podrá crear y organizar los layouts de su sitio, como veremos más adelante.
 
 <div style="background-color:#cfe2ff; border-left: 2px solid #084298; border-top-left-radius: 2px; border-bottom-left-radius: 2px; margin-bottom: 10px; padding: 15px">
-  <p>Esta función también está disponible para las tiendas que usan Site Editor.</p>
+  Esta función también está disponible para las tiendas que usan Site Editor.
 </div>
 
 ## Binding
@@ -36,7 +36,7 @@ Antes de comenzar a organizar el contenido de su Web Site, este Web Site debe es
 
 Este es un proceso fundamental para el perfecto funcionamiento de su tienda, pero también es muy simple. Sólo tienes que seguir los pasos [de este artículo](/es/tutorial/vincular-un-account-name-a-un-website-binding).
 
-![Binding](https://images.contentful.com/alneenqid6w5/2selXSrkaoWaqUug24Mewm/bfea4f2413f1433c6cc2b80d8c7c9a93/Binding-min.png)
+![Binding](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Storefront/Layout/que-es-el-cms-layout_1.png)
 
 ## Layouts y templates
 

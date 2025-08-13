@@ -28,9 +28,9 @@ Você pode fazer um pedido para teste na loja e, em seguida, verificar no **Gere
 
 Exemplo: imagine um pedido em que frete grátis foi aplicado, mas você não sabe o motivo. Ao clicar em um pedido no **Gerenciamento de pedidos**, você encontraria o nome da promoção registrada na seção **Promoções e parcerias**.
 
-<img class="db center mv9 shadow-4 pointer" src="https://images.ctfassets.net/alneenqid6w5/1LpXT5YXqbsjb02eAQUsfg/9b4ede20a2b910d2a4c2b117a4e0b7ec/detalhes-oms-pt__1_.png" alt="detalhes-do-pedido" style="margin-bottom: 20px;"> <figcaption align = "center"><em>Detalhes do pedido</em></figcaption></figure>
+<img class="db center mv9 shadow-4 pointer" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promotions-&-taxes/promotions/como-identificar-as-promocoes-no-carrinho_3.png" alt="detalhes-do-pedido" style="margin-bottom: 20px;"> <figcaption align = "center">*Detalhes do pedido*</figcaption></figure>
 
-<img class="db center mv9 shadow-4 pointer" src="https://images.ctfassets.net/alneenqid6w5/2mriJhUbQbqrrUSbp7tjaC/b9de1a7d07c48b49026ec6d3adba4d20/detalhes-neworders-pt__1_.png" alt="detalhes-do-pedido-beta" style="margin-bottom: 20px;"> <figcaption align = "center"><em>Detalhes do pedido (Beta)</em></figcaption></figure>
+<img class="db center mv9 shadow-4 pointer" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promotions-&-taxes/promotions/como-identificar-as-promocoes-no-carrinho_4.png" alt="detalhes-do-pedido-beta" style="margin-bottom: 20px;"> <figcaption align = "center">*Detalhes do pedido (Beta)*</figcaption></figure>
 
 Se nenhuma promoção estiver listada, isso indica que o frete grátis não tem como causa uma promoção, ou seja, o cálculo de frete no módulo de **Estoque & entrega** teve como resultado zero. Nesse caso, seria necessário utilizar o **Simulador de envio** para entender por que razão o frete teve valor zero.
 
@@ -40,13 +40,11 @@ No carrinho, você pode passar o mouse sobre o ícone de interrogação que fica
 
 Porém, caso mais de uma promoção seja aplicada, o que aparecerá será apenas o somatório dos descontos, dificultando a análise do cenário.
 
-![example-cart](//images.ctfassets.net/alneenqid6w5/4OuONCFldxuXYgevJ8wU81/58e4571f3ce7b0af86ecf17885799258/image6.png)
+![example-cart](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promotions-&-taxes/promotions/como-identificar-as-promocoes-no-carrinho_1.png)
 
 ## orderForm
 
-<div class = "alert alert-warning">
-  <p>Para realizar a investigação documentada nesta seção, é necessário utilizar o Google Chrome. Por se tratar de uma ferramenta externa à VTEX, ela pode ser atualizada sem aviso prévio.</p>
-</div>
+> ⚠️ Para realizar a investigação documentada nesta seção, é necessário utilizar o Google Chrome. Por se tratar de uma ferramenta externa à VTEX, ela pode ser atualizada sem aviso prévio.
 
 Na página do carrinho, você pode verificar o orderForm, que é um arquivo em formato JSON com todas as informações correspondentes ao pedido que está sendo criado.
 
@@ -56,7 +54,7 @@ Siga o passo a passo para encontrar o orderForm e identificar as promoções apl
 2. Clique em `Network`.
 3. Marque a opção **Preserve log**.
 4. Recarregue a página.
-5. Após o carregamento, pressione `Ctrl+F` para fazer uma busca na janela das **Ferramentas de Desenvolvedor**. Digite `orderForm` na barra de busca.![order-form](https://images.contentful.com/alneenqid6w5/jtqrcUjDAAqoMUGiYM4qE/94803953c1577a7954ba09f163738e0e/order-form.png)
+5. Após o carregamento, pressione `Ctrl+F` para fazer uma busca na janela das **Ferramentas de Desenvolvedor**. Digite `orderForm` na barra de busca.![order-form](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promotions-&-taxes/promotions/como-identificar-as-promocoes-no-carrinho_2.png)
 6. Clique sobre a linha do `orderForm`. Ao lado abrirá uma nova janela.
 7. Clique em `Preview`.
 8. Procure por `ratesAndBenefitsData` e clique sobre o item.

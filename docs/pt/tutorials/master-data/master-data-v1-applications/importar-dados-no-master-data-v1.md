@@ -47,9 +47,7 @@ Para atualizar dados existentes, é imprescindível exportá-los conforme descri
 
 Para criar um novo registro, crie uma nova linha com as informações do registro e mantenha o  valor da coluna id vazio.
 
-<div class="alert alert-warning">
-Ao inserir os dados na planilha, certifique-se que o formato dos valores nas células corresponde ao formato esperado pela respectiva coluna (campo do formulário). Exemplos de formatos são número, texto ou data.
-</div>
+> ⚠️ Ao inserir os dados na planilha, certifique-se que o formato dos valores nas células corresponde ao formato esperado pela respectiva coluna (campo do formulário). Exemplos de formatos são número, texto ou data.
 
 ## Fazer upload da planilha
 
@@ -62,7 +60,5 @@ Após a exportação e edição da planilha, você deve realizar a importação 
 5. Clique em `Escolher arquivo` para selecionar o arquivo da planilha no seu dispositivo.
 6. Clique no botão `Importar` no canto inferior direito da tela.
 
-<div class="alert alert-warning">
-Mantenha o mesmo formato da planilha exportada (XLS) para realizar a importação com sucesso.
-</div>
+> ⚠️ Mantenha o mesmo formato da planilha exportada (XLS) para realizar a importação com sucesso.
 

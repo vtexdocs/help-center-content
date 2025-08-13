@@ -20,7 +20,7 @@ Tutorial válido apenas para lojas CMS Portal Legado.
 </div>
 
 <div style="background-color:#FFE6E6; border-left: 4px solid #D9534F; border-top-left-radius: 2px; border-bottom-left-radius: 2px; margin: 10px; padding: 15px">
-Muito cuidado com essa ação. Se você deletar um dos seus websites, <strong>TODOS</strong> os arquivos e pastas desse website serão apagados permanentemente. Você <strong>não</strong> conseguirá recuperá-los. Outro ponto de atenção: não é possível deletar o <strong>website default</strong>.
+Muito cuidado com essa ação. Se você deletar um dos seus websites, **TODOS** os arquivos e pastas desse website serão apagados permanentemente. Você **não** conseguirá recuperá-los. Outro ponto de atenção: não é possível deletar o **website default**.
 </div>
 
 Para deletar um website, siga os passos abaixo:

@@ -15,9 +15,7 @@ locale: es
 subcategoryId: 3VNOhxDrvYxJThhuJClrYZ
 ---
 
-<div class = "alert alert-info">
-Solo puedes acceder a la información de los pedidos creados en los últimos años. Este periodo también se aplica a los pedidos de los clientes a través de <a href="https://help.vtex.com/es/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh">Mi Cuenta</a>.
-</div>
+> ℹ️ Solo puedes acceder a la información de los pedidos creados en los últimos años. Este periodo también se aplica a los pedidos de los clientes a través de [Mi Cuenta](https://help.vtex.com/es/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh).
 
 La página **Todos los pedidos** permite a los administradores de la tienda hacer seguimiento de los pedidos de su tienda y extraer información para la gestión inteligente de su negocio. Para acceder a la página, en el menú del Admin VTEX, haz clic en **Pedidos > Todos los pedidos**. En esta página puedes: 
 
@@ -28,7 +26,7 @@ La página **Todos los pedidos** permite a los administradores de la tienda hace
 
 Las siguientes secciones proporcionan más detalles sobre cada componente de la página y sus acciones.
 
-![Order Listing EN](//images.ctfassets.net/alneenqid6w5/683JysQxHoXao2zRxQCJ6x/458efe24f7fcb7653eb23d1ea1d7110b/Order_Listing_EN.gif)
+![Order Listing EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/orders/orders-overview/todos-los-pedidos_1.gif)
 
 Además de buscar pedidos en **Pedidos > Todos los pedidos**, puede buscar pedidos desde cualquier página del Admin VTEX utilizando la barra de búsqueda global en la parte superior de la página. Por defecto, la búsqueda está configurada en `Páginas`. Para buscar un pedido, haga clic en la barra, seleccione la opción `Pedidos` y utilice cualquiera de los siguientes criterios:
 
@@ -167,7 +165,7 @@ A continuación, encontrarás más detalles sobre cada columna:
 
 ## VTEX DO
 
-![VTEX Do overview ES](//images.ctfassets.net/alneenqid6w5/4FzyUh5uqhzXKfbw9MJXsQ/220b438c30b05a78d3932e097fefc42b/VTEX_Do_overview_ES.gif)
+![VTEX Do overview ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/orders/orders-overview/todos-los-pedidos_2.gif)
 
 [VTEX DO](https://help.vtex.com/es/tutorial/vtex-do-beta--7KMbRL4OslN8DTX9oiuCiu) es un gestor de tareas creadas por el Admin VTEX automáticamente y que requieren una acción manual por parte del equipo de _ecommerce_. 
 

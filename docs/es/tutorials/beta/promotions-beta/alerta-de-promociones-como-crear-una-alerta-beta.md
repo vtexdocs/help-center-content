@@ -15,9 +15,7 @@ locale: es
 subcategoryId: 6iTRZiMeCGXYiO2ckABFZi
 ---
 
-<div class = "alert alert-info">
-Este módulo está en fase beta. Esto significa que estamos trabajando para mejorarlo. Si tienes alguna duda, por favor ponte en contacto con nuestro <a href="https://support.vtex.com/hc/pt-br/requests">equipo de soporte</a>.
-</div>
+> ℹ️ Este módulo está en fase beta. Esto significa que estamos trabajando para mejorarlo. Si tienes alguna duda, por favor ponte en contacto con nuestro [equipo de soporte](https://support.vtex.com/hc/pt-br/requests).
 
 Crear promociones es una buena estrategia para atraer a más compradores a tu sitio de ecommerce. Al configurarlas, es muy importante tener cuidado de que los descuentos aplicados tengan los efectos esperados, ya que los errores al registrar promociones pueden causar pérdidas de ingresos.
 
@@ -42,9 +40,7 @@ Sigue las instrucciones a continuación para crear una nueva alerta:
 
 La nueva alerta de promoción se habrá creado con éxito.
 
-<div class = "alert alert-info">
-Al configurar alertas para productos con multiplicadores de unidad, como artículos vendidos en fracciones (ej: 0,5 kg), es importante saber que el sistema puede marcar incorrectamente promociones para estos productos. Esto ocurre porque no puede identificar con precisión el precio por gramo u otras fracciones de unidad. Por ello, recomendamos revisar las alertas con cuidado al gestionar artículos pesables.
-</div>
+> ℹ️ Al configurar alertas para productos con multiplicadores de unidad, como artículos vendidos en fracciones (ej: 0,5 kg), es importante saber que el sistema puede marcar incorrectamente promociones para estos productos. Esto ocurre porque no puede identificar con precisión el precio por gramo u otras fracciones de unidad. Por ello, recomendamos revisar las alertas con cuidado al gestionar artículos pesables.
 
 ## Condiciones
 

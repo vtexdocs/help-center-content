@@ -17,17 +17,13 @@ subcategoryId: 42hDtnYXHw5ExG6l19RP1l
 
 A importação de dados de clientes deve ser feita no Master Data. Para o envio de dados, use o artigo [Importando dados no Master Data](/pt/tutorial/importando-dados-no-master-data).
 
-<div class="alert alert-danger">
-<p>Você pode conferir o guia sobre como <a href="https://developers.vtex.com/docs/guides/import-customer-data">importar dados de clientes programaticamente com a API do Master Data v1</a>.</p>
-</div>
+> ❗ Você pode conferir o guia sobre como [importar dados de clientes programaticamente com a API do Master Data v1](https://developers.vtex.com/docs/guides/import-customer-data).
 
 O checkout trabalha com os dados das entidades CL (cliente) e AD (endereço).
 
 Mas é importante notar que, para que o checkout já traga os dados do cliente no carrinho com base no email, chave primária do Master Data, é fundamental garantir que todos os dados a seguir estejam corretamente cadastrados na plataforma.
 
-<div class="alert alert-warning">
-<p>Os nomes dos campos no checkout e no Master Data diferem, mas seus valores são equivalentes — por exemplo, <code>addressId</code> e <code>addressName</code>. Para mais detalhes sobre essa equivalência, consulte a documentação da <a href="https://developers.vtex.com/docs/api-reference/masterdata-api?endpoint=overview">Master Data API</a>.</p>
-</div>
+> ⚠️ Os nomes dos campos no checkout e no Master Data diferem, mas seus valores são equivalentes — por exemplo, `addressId` e `addressName`. Para mais detalhes sobre essa equivalência, consulte a documentação da [Master Data API](https://developers.vtex.com/docs/api-reference/masterdata-api?endpoint=overview).
 
 As tabelas a seguir representam os dados e os formatos necessários para a importação.
 

@@ -15,4 +15,4 @@ locale: pt
 subcategoryId: 
 ---
 
-![Bulk import template v1](//assets.ctfassets.net/alneenqid6w5/PkYPXgHoDpok9ajVXQcM2/e5ff6b732ad776d2d04946855e109f15/b2b-bulk-import-template_v1.xlsx)
+![Bulk import template v1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/uncategorized/unknown-subcategory/untitled-entry-2025-04-28-at-15-06-53_1.xlsx)

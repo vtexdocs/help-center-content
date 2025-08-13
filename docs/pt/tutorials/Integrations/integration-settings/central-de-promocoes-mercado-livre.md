@@ -21,7 +21,7 @@ Ao clicar em uma promoção da lista, o seller utiliza a barra de busca para enc
 
 Para acessar a página **Promoções** no Admin VTEX, vá em **Marketplace > Mercado Livre > Promoções.**  
 
-![Central de Promoções Mercado Livre](//images.ctfassets.net/alneenqid6w5/2I8h2Cuasv6iz3IqPkNpxR/918a02f8f04066d8c83b456533af55f7/Central_de_Promo__es_Mercado_Livre.gif)
+![Central de Promoções Mercado Livre](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Integrations/integration-settings/central-de-promocoes-mercado-livre_1.gif)
 
 ## Tipos de promoções
 
@@ -72,9 +72,7 @@ Caso deseje remover algum produto da campanha, siga os passos a seguir:
 2. Clique no ícone <i class="far fa-trash-alt" aria-hidden="true"></i>.  
 3. No pop-up de confirmação, clique no botão `Confirmar`.
 
-<div class="alert alert-info">
-Os anúncios removidos da campanha aparecerão listados na seção <b>Candidatos</b> e poderão ser incluídos novamente.
-</div>
+> ℹ️ Os anúncios removidos da campanha aparecerão listados na seção **Candidatos** e poderão ser incluídos novamente.
 
 ### Coparticipação
 
@@ -82,9 +80,7 @@ Este é o tipo de campanha promocional que o Mercado Livre cobre um percentual d
 
 Neste tipo de campanha, é o Mercado Livre quem define a porcentagem de desconto que cada uma das partes deve oferecer para um produto, o seller pode aceitar ou não incluir o produto na promoção.  
 
-<div class="alert alert-info">
-A porcentagem do desconto não pode ser alterada.
-</div>
+> ℹ️ A porcentagem do desconto não pode ser alterada.
 
 Ao clicar em uma campanha do tipo **Coparticipação,** o seller encontra três seções, são elas as seguintes:  
 
@@ -148,9 +144,7 @@ Caso deseje remover algum produto da campanha, siga os passos a seguir:
 2. Clique no ícone <i class="far fa-trash-alt" aria-hidden="true"></i>.  
 3. No pop-up de confirmação, clique no botão `Confirmar`.  
 
-<div class="alert alert-info">
-Os anúncios removidos da campanha não poderão ser reenviados.
-</div>
+> ℹ️ Os anúncios removidos da campanha não poderão ser reenviados.
 
 ### Desconto por volume
 
@@ -213,9 +207,7 @@ Quando o status da campanha alterar para **Iniciada,** todos os anúncios listad
 
 Na seção **Participando,** serão listados os anúncios configurados previamente para participar de uma campanha promocional que está com o status **Iniciada.**  
 
-<div class="alert alert-info">
-Neste tipo de campanha, não é possível remover os anúncios, caso a campanha já tenha sido iniciada.
-</div>
+> ℹ️ Neste tipo de campanha, não é possível remover os anúncios, caso a campanha já tenha sido iniciada.
 
 ### Oferta relâmpago
 
@@ -242,9 +234,7 @@ Quando o status da campanha alterar para **Iniciada,** todos os anúncios listad
 
 Na seção **Participando,** serão listados os anúncios configurados previamente para participar de uma campanha promocional que está com o status **Iniciada.**  
 
-<div class="alert alert-info">
-Neste tipo de campanha, não é possível remover os anúncios caso a campanha tenha o status <b>Iniciada</b>.
-</div>
+> ℹ️ Neste tipo de campanha, não é possível remover os anúncios caso a campanha tenha o status **Iniciada**.
 
 ### Co-participação automatizada
 
@@ -338,9 +328,7 @@ Caso deseje remover algum produto da campanha, siga os passos a seguir:
 2. Clique no ícone <i class="far fa-trash-alt" aria-hidden="true"></i>.  
 3. No pop-up de confirmação, clique no botão `Confirmar`.  
 
-<div class="alert alert-info">
-Neste tipo de campanha, caso um anúncio seja removido, ele não ficará disponível para nova inclusão.
-</div>
+> ℹ️ Neste tipo de campanha, caso um anúncio seja removido, ele não ficará disponível para nova inclusão.
 
 ### Campanha do vendedor
 
@@ -392,9 +380,7 @@ Caso deseje remover algum produto da campanha, siga os passos a seguir:
 2. Clique no ícone <i class="far fa-trash-alt" aria-hidden="true"></i>.  
 3. No pop-up de confirmação, clique no botão `Confirmar`.  
 
-<div class="alert alert-info">
-Neste tipo de campanha, caso um anúncio seja removido, ele não ficará disponível para nova inclusão.
-</div>
+> ℹ️ Neste tipo de campanha, caso um anúncio seja removido, ele não ficará disponível para nova inclusão.
 
 ### Cupom do vendedor
 

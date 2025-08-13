@@ -40,7 +40,7 @@ La página **Detalles de la interacción** cuenta con las siguientes secciones:
 </div>  
 
 ## Encabezado
-![Interaction details PT cabeçalho](//images.ctfassets.net/alneenqid6w5/7zEocS2MW5dSRzZaaqNDUc/cc97295e6fa0f0d1cfaa76cd755904cb/Interaction_details_ES_cabe__alho.jpg)
+![Interaction details PT cabeçalho](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/uncategorized/unknown-subcategory/detalles-de-la-interaccion_1.jpg)
 El *encabezado* contiene la información principal del anuncio para la visualización rápida, como nombre del SKU, logo del canal al que fue enviado, su ID en VTEX e ID en el canal.
 
 ## Resultado de la interacción
@@ -49,23 +49,23 @@ Las interacciones, o actualizaciones de un [anuncio](https://help.vtex.com/es/tu
 El bloque *Resultado de la interacción* informa el efecto que la interacción tuvo sobre el anuncio, calculado a partir de la combinación de registros que forman la interacción. El resultado de una interacción permite que el sistema determine el status del anuncio, indicando si fue posible enviarlo o sincronizarlo al canal, o no. Los resultados de la interacción incluyen:
 
 ### Resultado: Satisfactorio
-![Interaction details PT resultado sucesso](//images.ctfassets.net/alneenqid6w5/72PZOesROTjIZbmFOTQ8jk/35d67af0da667655b5643e3509ccc427/Interaction_details_ES_resultado_sucesso.jpg)
+![Interaction details PT resultado sucesso](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/uncategorized/unknown-subcategory/detalles-de-la-interaccion_2.jpg)
 El status de una interacción es *Satisfactorio* cuando las interacciones cumplen con su efecto esperado. Eso significa que el anuncio se pudo enviar al canal correctamente, o que las interacciones generaron atualizaciones en un anuncio en términos de precio, stock o catálogo. 
 
 ### Resultado: Falla
-![Interaction details PT resultado falha](//images.ctfassets.net/alneenqid6w5/1ZR16rSnDEVY0812xY4XFZ/8af1ee83533f4108433214dc2c3f0964/Interaction_details_ES_resultado_falha.jpg)
+![Interaction details PT resultado falha](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/uncategorized/unknown-subcategory/detalles-de-la-interaccion_3.jpg)
 El status de una interacción es *Falla* cuando las interacciones no se realizan debido a un error identificado por el sistema. Los resultados de ese tipo acaban generando el status *Con error* en un anuncio, impidiendo que el anuncio se envíe o actualice correctamente en el canal.  En caso de que el resultado de la interacción sea *Falla*, el bloque indica una lista con las fallas detectadas y donde cada una se puede expandir para que el seller acceda a más información sobre lo que ocurrió. 
 
 ### Resultado: Notificación
-![Interaction details PT resultado aviso](//images.ctfassets.net/alneenqid6w5/7kwwswW5m4kVL3fXWzxKSV/28e3c2b39fc2740880338efcfb3d2729/Interaction_details_ES_resultado_aviso.jpg)
+![Interaction details PT resultado aviso](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/uncategorized/unknown-subcategory/detalles-de-la-interaccion_4.jpg)
 El status de una interacción es *Notificación* cuando hay interacciones que dan una mayor visibilidad a las etapas que se produjeron en el proceso de envío y actualización de un anuncio, pero que no generaron actualizaciones como tal. 
 
 ### Resultado: Procesando
-![Interaction details PT resultado processing](//images.ctfassets.net/alneenqid6w5/1gilFQQUmLVzTznTQDNv7G/d4f5b881db18ed358e6386c06e4cc2a8/Interaction_details_ES_resultado_processing.jpg)
+![Interaction details PT resultado processing](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/uncategorized/unknown-subcategory/detalles-de-la-interaccion_5.jpg)
 El status de una interacción es *Procesando* cuando una interacción no fue finalizada y aún debe recibir más acciones. Es un status transitorio, considerando que cuando un evento se cierra, su resultado solo puede ser `satisfactorio`, `falla`, o `notificación`.
 
 ## Línea de tiempo
-![Interaction details ES linha do tempo](//images.ctfassets.net/alneenqid6w5/6rLi24P5ltS8XFIEBIn6hb/b95c1753d211144af9336c13bd2002bf/Interaction_details_ES_linha_do_tempo.jpg)
+![Interaction details ES linha do tempo](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/uncategorized/unknown-subcategory/detalles-de-la-interaccion_6.jpg)
 El sistema abre una interacción para iniciar una actualización y contiene una serie de registros para realizar las acciones necesarias para que eso suceda. 
 
 La línea de tiempo de la página **Detalles de la interacción** organiza cronológicamente los registros que se producen en cada interacción, e están disponibles para consulta durante diez días. El sistema cierra la interacción cuando cumple su objetivo y no hay más registros por realizar. La línea de tiempo de la interacción muestra los siguientes datos: 

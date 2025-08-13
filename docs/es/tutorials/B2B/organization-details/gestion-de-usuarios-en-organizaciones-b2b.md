@@ -31,20 +31,20 @@ En este artículo se describe cómo gestionar los usuarios:
 Para agregar un nuevo usuario a la organización, sigue estos pasos:
 
 <ol>
-    <li>En el Admin VTEX, accede a <strong>Apps &gt; Organizaciones y centros de costos B2B &gt; Organizaciones</strong> o escribe <strong>Organizaciones</strong> en la barra de búsqueda en la parte superior de la página.</li>
+    <li>En el Admin VTEX, accede a **Apps &gt; Organizaciones y centros de costos B2B &gt; Organizaciones** o escribe **Organizaciones** en la barra de búsqueda en la parte superior de la página.</li>
     <li>Haz clic en el nombre de la organización deseada para acceder a la página de Información de la organización.</li>
-    <li>Haz clic en la pestaña <strong>Usuarios</strong>.</li>
-    <li>Haz clic en <code>Nuevo</code>.</li>
+    <li>Haz clic en la pestaña **Usuarios**.</li>
+    <li>Haz clic en `Nuevo`.</li>
     <li>Rellena los datos del usuario según se detalla a continuación:
         <ul>
-            <li><strong>Nombre:</strong> nombre completo del usuario.</li>
-            <li><strong>Email:</strong> email del usuario.</li>
-            <li><strong>Organización:</strong> nombre de la organización.</li>
-            <li><strong>Centro de costos:</strong> centro de costo al que se asociará el usuario.</li>
-            <li><strong>Rol:</strong> rol del usuario en la tienda virtual. Consulta más detalles sobre los roles disponibles en <a href="https://help.vtex.com/es/tutorial/gerenciamento-de-permissoes-no-b2b-suite--2PLR7mIFxgbmsGq84paLeA" target="_blank">Gestionar permisos en B2B Suite</a>.</li>
+            <li>**Nombre:** nombre completo del usuario.</li>
+            <li>**Email:** email del usuario.</li>
+            <li>**Organización:** nombre de la organización.</li>
+            <li>**Centro de costos:** centro de costo al que se asociará el usuario.</li>
+            <li>**Rol:** rol del usuario en la tienda virtual. Consulta más detalles sobre los roles disponibles en [Gestionar permisos en B2B Suite](https://help.vtex.com/es/tutorial/gerenciamento-de-permissoes-no-b2b-suite--2PLR7mIFxgbmsGq84paLeA).</li>
         </ul>
     </li>
-    <li>Haz clic en <code>Guardar</code>.</li>
+    <li>Haz clic en `Guardar`.</li>
 </ol>
 
 ## Editar usuarios

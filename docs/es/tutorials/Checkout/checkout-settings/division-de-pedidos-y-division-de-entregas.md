@@ -22,9 +22,7 @@ Ve a continuación las principales diferencias entre los escenarios de división
 * **[División de pedidos](#division-de-pedidos):** se produce cuando hay más de un _seller_ que atiende la misma compra. Esto significa que si hay tres _sellers_ para atender una misma compra, se generan tres pedidos. 
 * **[División de paquetes](#division-de-paquetes-entregas):** se produce cuando hay más de una entrega para un mismo pedido. Por ejemplo, cuando un único _seller_ es responsable de la entrega, pero el pedido se entrega en más de un envío. 
 
-<div class = "alert alert-info">
-Siempre que hay una división de pedidos, hay una división de paquetes. Además, un seller puede optar por dividir un mismo pedido en más de un paquete; así, al final de la compra, el número de paquetes siempre será mayor o igual que el número de pedidos generados.
-</div>
+> ℹ️ Siempre que hay una división de pedidos, hay una división de paquetes. Además, un seller puede optar por dividir un mismo pedido en más de un paquete; así, al final de la compra, el número de paquetes siempre será mayor o igual que el número de pedidos generados.
 
 Para facilitar la identificación de los casos en los que hay división de pedidos y división de entregas, mira algunos ejemplos a continuación:
 
@@ -54,8 +52,6 @@ El pedido lo atiende un solo _seller_, pero es necesario realizar más de una en
 
     Esta división se realiza de forma automática y nativa para las tiendas que cuentan con Checkout V6, a través del campo `allowMultipleDeliveries` indicado como `true` en la API [Update orderForm configuration](https://developers.vtex.com/docs/api-reference/checkout-api#post-/api/checkout/pvt/configuration/orderForm). La configuración viene activa por defecto para que sea posible realizar compras con diferentes modalidades de entrega en el mismo carrito.
 
-<div class="alert alert-danger">
-  No recomendamos operar la tienda con el campo <code>allowMultipleDeliveries</code> indicado como <i>false</i>. En esta configuración, cuando hay artículos en el carrito que no tienen ningún método de entrega en común, es decir, los SLAID son diferentes y el carrito tiene un punto de recogida, no será posible completar el pedido.
-</div>
+> ❗ No recomendamos operar la tienda con el campo `allowMultipleDeliveries` indicado como *false*. En esta configuración, cuando hay artículos en el carrito que no tienen ningún método de entrega en común, es decir, los SLAID son diferentes y el carrito tiene un punto de recogida, no será posible completar el pedido.
 
 * **Muelles diferentes:** una misma tienda ofrece todos los ítems de un pedido, pero en el cálculo de la ruta logística están asociados a diferentes muelles. Entonces hay que _dividir los paquetes de entrega_, pero sin dividir el pedido entre diferentes tiendas. La plataforma lo hace automáticamente.

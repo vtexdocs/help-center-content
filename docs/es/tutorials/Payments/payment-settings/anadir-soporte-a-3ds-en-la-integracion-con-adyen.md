@@ -30,9 +30,7 @@ Para añadir soporte para [3DS](https://help.vtex.com/es/tutorial/what-is-3d-sec
 
 Después de configurar el conector en VTEX, tiene que acceder al panel de Adyen para habilitar el 3DS en las transacciones de su tienda.
 
-<div class="alert alert-warning">
-  Se recomienda que primero realice la configuración en el entorno Test. Solo después de realizar las validaciones adecuadas, acceda al entorno <B>Live</B> para la configuración final.
-  </div>
+> ⚠️ Se recomienda que primero realice la configuración en el entorno Test. Solo después de realizar las validaciones adecuadas, acceda al entorno **Live** para la configuración final.
 
 1. Haga clic en los enlaces a continuación para acceder al entorno Test y Live de Adyen.
 

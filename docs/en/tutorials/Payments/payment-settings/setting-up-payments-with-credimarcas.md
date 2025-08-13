@@ -31,17 +31,15 @@ To configure Credimarcas provider, follow the steps below:
     - __Scheduled: Schedules The Automatic Settlement__: By selecting this option, the field __Scheduled time frame in hours for automatic settlement__ will be displayed, and it must be completed with the period in which the automatic capture will take place. This period must be in accordance with the limits allowed by the payment provider.
     - __Deactivated: Not Automatically Captured__: capture takes place only when the order is invoiced. If you select this behavior, it is important to pay attention to the invoicing time, as invoicing can exceed the capture time agreed with the payment provider and lead to the cancellation of the transaction.
 
-<ui>  6. In <b>Type Payment</b>, select whether the payment will be made via "Payment App" or "Redirect".</ui>
+<ui>  6. In **Type Payment**, select whether the payment will be made via "Payment App" or "Redirect".</ui>
 
-<ui>  7. If an alert message appears indicating the need to install the app, click on the <b>Install app</b> button and follow the installation instructions.</ui>
+<ui>  7. If an alert message appears indicating the need to install the app, click on the **Install app** button and follow the installation instructions.</ui>
 
-<ui>  8. Click on <b>Save.</b></ui>
+<ui>  8. Click on **Save.**</ui>
 
 ## Setting up Notes Payable
 
-<div class="alert alert-warning">
-  <p>If you have not yet configured the Notes Payable as a payment method in other connectors in your store, go to <a href="https://help.vtex.com/en/tutorial/setting-up-payments-with-notes-payable">Setting up payments with Notes Payable</a>.</p>
-</div>
+> ⚠️ If you have not yet configured the Notes Payable as a payment method in other connectors in your store, go to [Setting up payments with Notes Payable](https://help.vtex.com/en/tutorial/setting-up-payments-with-notes-payable).
 
 To use Credimarcas with notes payable, follow the steps below:
 

@@ -26,7 +26,7 @@ A kit may or may not allow for its components to be sold separately. See the dif
 
 To set up the kit, all its products – that is, its components – must have already been created. See the example below:
 
-![01-components EN](//images.ctfassets.net/alneenqid6w5/3pQ4a93uZi8sqQA2oGywi4/4c0acd198d16920872025de5d95ed61f/01-components_EN.png)
+![01-components EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/Kit/kit-registration_1.png)
 
 After creating all component products, we can move on to defining the kit’s settings.
 
@@ -37,7 +37,7 @@ After creating all component products, we can move on to defining the kit’s se
 5. If you would like a look kit, click on the option __Bundle with SKUs sold separately__.
 6. Click on `Save`.
 
-![02-kit EN](//images.ctfassets.net/alneenqid6w5/5O4ZP4iGI0YE60aMOkAI4Q/830694f23e7b6b7d2e4b0cd6c2438c41/02-kit_EN.png)
+![02-kit EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/Kit/kit-registration_2.png)
 
 ## Associating components
 
@@ -52,9 +52,9 @@ After the kit product has been created, you must associate the components, accor
 7. Enter the SKU unit price inside the kit.
 6. Click on `Save`.
 
-![03-add component to kit EN](//images.ctfassets.net/alneenqid6w5/1qBz4qjkAQ8OE8kMMeiw0o/eb5437d1d8a7c40e30998f2ad3723c5e/03-add_component_to_kit_EN.gif)
+![03-add component to kit EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/Kit/kit-registration_3.gif)
 
-![04-kit in cart ALL](//images.ctfassets.net/alneenqid6w5/4yJVbkTnDyIC2c682UskYw/8cad5dc5512f49e73a10abb31184ba8e/04-kit_in_cart_ALL.png)
+![04-kit in cart ALL](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/Kit/kit-registration_4.png)
 
 ## Kit Weight
 
@@ -70,9 +70,7 @@ Example: A kit has two components. Consider Component 1 has 30 units in stock, w
 
 Kit components can be in different stocks, as long as they are shipped from the same dock. If they do not leave through the same dock, the entire kit becomes unavailable. 
 
-<div class="alert alert-info">
-<p>This is not applicable to the look kit, since it may be sold with the components that are still in stock, without the need for all the components to be in stock.</p>
-</div>
+> ℹ️ This is not applicable to the look kit, since it may be sold with the components that are still in stock, without the need for all the components to be in stock.
 
 ## Price
 
@@ -83,7 +81,7 @@ You may only change the final price of the kit by directly accessing the pricing
 Please note that any change in any component will generate a new final price, updating what had been previously registered. 
 
 Merely changing the final price will not update the price of the components.
-![06-price list EN](//images.ctfassets.net/alneenqid6w5/1OFwACSPPuCiiWA4YqYa28/5b4ef3a2e50e78b0be869c97288e5778/06-price_list_EN.png)
+![06-price list EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/Kit/kit-registration_5.png)
 
 ### Learn more
 

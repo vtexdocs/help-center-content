@@ -45,9 +45,7 @@ The merchant must ensure that the following product aspects are correctly config
 * Product count in the [inventory](https://help.vtex.com/en/tutorial/gerenciar-inventario--tutorials_139) for sales, unlimited inventory, or the option to display the product when sold out is activated.
 * [CMS](https://help.vtex.com/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/6OCY6S9tqBXPD5mgpbBInC) templates for the store frontend.
 
-<div class = "alert alert-info">
-For more information, see the article <a href="https://help.vtex.com/en/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382">Why is the product not visible on the website?</a>.
-</div>
+> ℹ️ For more information, see the article [Why is the product not visible on the website?](https://help.vtex.com/en/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382).
 
 ### 2. Does Delivery Promise (Beta) guarantee that all my products will be displayed on the product listing page?
 

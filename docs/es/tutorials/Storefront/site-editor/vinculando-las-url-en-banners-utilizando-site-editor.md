@@ -19,7 +19,7 @@ Puede configurar uno de los banners de su tienda para un redireccionamiento de p
 
 ## URLs Internas
 
-![url-interna](//images.ctfassets.net/alneenqid6w5/76tw5q9jP5kqkEhkFMIAOE/3d5a31e246e7525d91009ed3f1e77af1/image5.png)
+![url-interna](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Storefront/site-editor/vinculando-las-url-en-banners-utilizando-site-editor_1.png)
 
 1. En el Admin VTEX, accede a **Storefront > Site Editor**.
 2. Seleccione el bloque __Carrusel__ deseado y elija el banner cuyo contenido será editado.
@@ -27,13 +27,13 @@ Puede configurar uno de los banners de su tienda para un redireccionamiento de p
 4. Haga clic en `APLICAR` > `GUARDAR`.
 
 <div style="background-color:#FCF8F2; border-left: 2px solid #F0AD4E; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 5px">
-  Los campos <i>Página de destino del banner</i> y <i>Parámetros</i> han sido descontinuados. Por lo tanto, los datos incluidos en la URL interna son los únicos que se tienen en cuenta a la hora de indicar la ruta interna deseada.
+  Los campos *Página de destino del banner* y *Parámetros* han sido descontinuados. Por lo tanto, los datos incluidos en la URL interna son los únicos que se tienen en cuenta a la hora de indicar la ruta interna deseada.
 </div>
 <br>
 
 ## URLs Externas
 
-![url-externa-es](//images.ctfassets.net/alneenqid6w5/7ESwBk45QYY2eHme82hy1Y/42317522340b78b7ce0a36ef8bb8163d/image3.png)
+![url-externa-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Storefront/site-editor/vinculando-las-url-en-banners-utilizando-site-editor_2.png)
 
 1. En el Admin VTEX, accede a **Storefront > Site Editor**.
 2.  Seleccione el bloque __Carrusel__ deseado y elija el banner cuyo contenido será editado.

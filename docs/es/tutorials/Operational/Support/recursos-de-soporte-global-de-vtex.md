@@ -48,7 +48,7 @@ Consulta a continuación la tabla de disponibilidad y los SLA que VTEX aplica a 
     <tr class="bb b--muted-3">
       <td style="background-color: white;">Baja</td>
       <td style="background-color: white;">8-12 horas</td>
-      <td style="background-color: white;">Tickets para el equipo financiero, tareas o preguntas sobre funcionalidades o documentación. <br><br><em>Ejemplo: "¿Pueden configurarse feriados locales en la plataforma?"</em></td>
+      <td style="background-color: white;">Tickets para el equipo financiero, tareas o preguntas sobre funcionalidades o documentación. <br><br>*Ejemplo: "¿Pueden configurarse feriados locales en la plataforma?"*</td>
     </tr>
   </tbody>
 </table>
@@ -66,9 +66,7 @@ Los tickets urgentes reportan problemas críticos con impacto directo en las ven
 | Imposibilidad de atender pedidos | Los status de pedidos no se están actualizando El feed o hook de pedidos no está funcionando |
 | Usabilidad de la tienda no disponible | No se pueden agregar ítems al carrito No es posible registrarse en el sitio web La búsqueda interna no devuelve respuesta |
 
-<div class="alert alert-warning">
-Los tickets urgentes contarán con asistencia prioritaria, disponible exclusivamente a través de <a href="https://help.vtex.com/en/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM">tickets en Zendesk</a>.
-</div>
+> ⚠️ Los tickets urgentes contarán con asistencia prioritaria, disponible exclusivamente a través de [tickets en Zendesk](https://help.vtex.com/en/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM).
 
 ## Clasificación de la prioridad de los tickets
 

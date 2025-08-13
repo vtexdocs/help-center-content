@@ -36,9 +36,7 @@ Se sua loja armazena informações de clientes em entidades de dados personaliza
 
 2. Exclua o documento correspondente utilizando o endpoint [Delete document](https://developers.vtex.com/vtex-rest-api/reference/deletedocument-1).
 
-<div class="alert alert-danger">
-Não realize esse processo para as entidades nativas <strong>CL</strong> e <strong>AD</strong>.
-</div>
+> ❗ Não realize esse processo para as entidades nativas **CL** e **AD**.
 
 ## 2. Configurar perfil de acesso
 
@@ -47,7 +45,7 @@ Para solicitar a exclusão de dados, crie um [perfil de acesso customizado](http
 - **Write user rights requests** (do produto **User Rights**);
 - **Open Support Ticket** (do produto **VTEX Support**).
 
-![perfil-de-acesso-gdpr](//images.ctfassets.net/alneenqid6w5/1NeUT54hSBqEUuIVNbunfv/4eb7017c042436572c6ebf7d02c218be/port.jpg)
+![perfil-de-acesso-gdpr](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/security/store-security/exclusao-de-dados-de-clientes_1.jpg)
 
 Em seguida, atribua este perfil de acesso ao usuário que será responsável pela solicitação de exclusão de dados de clientes.
 
@@ -58,7 +56,7 @@ Com os dados verificados e o perfil configurado, siga estes passos para realizar
 1. Faça login no Admin VTEX com a conta em que a exclusão será realizada, utilizando um usuário com o perfil de acesso **Lei Geral de Proteção de Dados** configurado em [2. Configurar perfil de acesso](#2-configurar-perfil-de-acesso).
 2. Clique no botão **Copilot** no canto superior direito.
 3. Envie a mensagem: `Eu quero excluir um cliente da plataforma VTEX`.
-    ![copilot-excluir-cliente-pt](//images.ctfassets.net/alneenqid6w5/5aGO3gtV9mrRB9FK5F2Tmq/a2f05894f9bc0284769e8601e9843820/copilot-excluir-cliente-pt.gif)
+    ![copilot-excluir-cliente-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/security/store-security/exclusao-de-dados-de-clientes_2.gif)
 4. Quando solicitado, informe o email do cliente que deseja excluir. É possível solicitar a exclusão de apenas um cliente por vez. Portanto, cada solicitação deve conter apenas um email.
 
 Após essa etapa, a solicitação será encaminhada ao suporte da VTEX, e você receberá o ID do ticket de suporte para acompanhamento.

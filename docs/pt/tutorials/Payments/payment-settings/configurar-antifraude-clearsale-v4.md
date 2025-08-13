@@ -44,6 +44,4 @@ Depois de configurar o antifraude da Clearsale, ele vai estar disponível para s
 6. Selecione __ClearsaleV4__.
 7. Clique em `Salvar`.
 
-<div class="alert alert-warning">
-Para que uma transação passe pela análise do antifraude, <strong>a condição de pagamento utilizada pelo cliente precisa estar associada a ele</strong>.
-</div>
+> ⚠️ Para que uma transação passe pela análise do antifraude, **a condição de pagamento utilizada pelo cliente precisa estar associada a ele**.

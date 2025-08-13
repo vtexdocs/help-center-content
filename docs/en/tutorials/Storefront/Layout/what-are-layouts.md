@@ -19,10 +19,7 @@ __Layouts__ are responsible for determining which [placeholders](/en/tutorial/wh
 
 This is done first with the placeholder settings, that will tell you which type is used and what file will fill it. Then, in order for the layout to become functional, it must be linked to a [template](/en/tutorial/what-are-templates). Thus, the page code where the placeholder will be displayed will know exactly where the information comes from.
 
-<div class = "alert alert-warning">
-<strong>Important</strong><br>
-In order to work, each layout must be linked to a single template.
-</div>
+> ⚠️ **Important**<br> In order to work, each layout must be linked to a single template.
 
 ### Related articles
 - [What is CMS?](/en/faq/what-is-cms)

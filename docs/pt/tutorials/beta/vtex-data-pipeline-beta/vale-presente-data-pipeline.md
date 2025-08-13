@@ -17,9 +17,7 @@ subcategoryId: oMrzcOMVbBpH0reeMFHFg
 
 O conjunto de dados de `gift cards` inclui informações históricas sobre gift cards criados ou modificados. Este conjunto de dados fornece apenas informações dos gift cards criados nativamente na VTEX, usando a [API de Giftcard](https://developers.vtex.com/docs/api-reference/giftcard-api).
 
-<div class="alert alert-warning">
-Os gift cards criados em aplicativos personalizados ou externos não aparecerão dentre os dados deste modelo.
-</div>
+> ⚠️ Os gift cards criados em aplicativos personalizados ou externos não aparecerão dentre os dados deste modelo.
 
 Nesta seção inclui as seguintes informações:
 

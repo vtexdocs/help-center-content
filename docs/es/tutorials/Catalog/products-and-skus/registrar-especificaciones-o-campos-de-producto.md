@@ -33,9 +33,7 @@ En este artículo, te explicamos cómo funciona la herencia de las especificacio
         * [Registro de producto](#registro-de-producto)
         * [Plantilla](#plantilla)
 
-<div class = "alert alert-info">
-  <p>Para crear una especificación de producto con la <strong>API Catálogo</strong>, sigue la guía para desarrolladores <a href="https://developers.vtex.com/vtex-developer-docs/docs/how-to-create-a-specification">How to create a specification</a> (Cómo crear una especificación).</p>
-</div>
+> ℹ️ Para crear una especificación de producto con la **API Catálogo**, sigue la guía para desarrolladores [How to create a specification](https://developers.vtex.com/vtex-developer-docs/docs/how-to-create-a-specification) (Cómo crear una especificación).
 
 ## Herencia de especificaciones de producto
 
@@ -43,7 +41,7 @@ Antes de crear especificaciones, es importante entender que las especificaciones
 
 Tomemos como ejemplo el producto **Televisor**. En __Catálogo > Productos y SKU > Modificar > Especificaciones__, en la imagen que vemos a continuación, se puede ver que el grupo de especificaciones llamado **Características** está asociado a la categoría de televisor. Ese grupo incluye un campo llamado **Pulgadas** y un campo llamado **Rango etario** que son obligatorios.
 
-![especificaciones-es](//images.ctfassets.net/alneenqid6w5/3ZMzwADYCl7QnNomdpGnoH/1dba4d4f967811f7b3f0a22872a2734d/especificaciones-es.PNG)
+![especificaciones-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Catalog/products-and-skus/registrar-especificaciones-o-campos-de-producto_1.PNG)
 
 Como se trata de una especificación de producto, la información seleccionada en esa página será válida para todas las variaciones del producto **Televisor**. Estas especificaciones también deben haber sido rellenadas en todos los productos registrados en la misma categoría de televisor porque son campos obligatorios.
 
@@ -80,7 +78,7 @@ Para crear un campo de producto, sigue los pasos a continuación:
     * **Activo**: inserta o elimina este campo en el registro del producto (pestaña **Especificaciones**).
 7. Haz clic en `Guardar`.
 
-![product-spec-1](//images.ctfassets.net/alneenqid6w5/5Y8LnWHVXSvRbqtMNBLSRq/26805d3f463bbfeb47e8cbcb7a023005/ES_ProdutoGif_1_Alterado.gif)
+![product-spec-1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Catalog/products-and-skus/registrar-especificaciones-o-campos-de-producto_2.gif)
 
 #### Tipos de campo de producto
 
@@ -95,32 +93,32 @@ Consulta la tabla a continuación para obtener información detallada sobre los 
 </thead>
 <tbody>
   <tr class="bb b--muted-3">
-    <td class="t-body pa5" style="min-width: 15rem;"><strong>Texto</strong></td>
+    <td class="t-body pa5" style="min-width: 15rem;">**Texto**</td>
     <td class="t-body pa5" style="min-width: 15rem;">Rellenar el contenido del campo con texto libre; indicado para textos pequeños y con formato simple. No está indicado para grandes estructuras de HTML.</td>
   </tr>
   <tr class="bb b--muted-3">
-    <td class="t-body pa5" style="min-width: 15rem;"><strong>Texto Grande</strong></td>
+    <td class="t-body pa5" style="min-width: 15rem;">**Texto Grande**</td>
     <td class="t-body pa5" style="min-width: 15rem;">Rellenar el contenido del campo con texto libre; indicado para grandes estructuras de HTML. Ejemplo: tablas de medidas que, con frecuencia, se usan en el segmento de la moda.</td>
   </tr>
   <tr class="bb b--muted-3">
-    <td class="t-body pa5" style="min-width: 15rem;"><strong>Número</strong></td>
+    <td class="t-body pa5" style="min-width: 15rem;">**Número**</td>
     <td class="t-body pa5" style="min-width: 15rem;">Rellenar el contenido del campo solo con números enteros. Ejemplo: especificar el número de un calzado (39, 41, 42...).</td>
   </tr>
   <tr class="bb b--muted-3">
-    <td class="t-body pa5" style="min-width: 15rem;"><strong>Combo</strong></td>
+    <td class="t-body pa5" style="min-width: 15rem;">**Combo**</td>
     <td class="t-body pa5" style="min-width: 15rem;">Contenido con dos o más valores predefinidos para seleccionarlos en una lista desplegable (dropdown). Ejemplo: el voltaje de un electrodoméstico que puede ser 110v o 220v.</td>
   </tr>
   <tr class="bb b--muted-3">
-    <td class="t-body pa5" style="min-width: 15rem;"><strong>Radio</strong></td>
+    <td class="t-body pa5" style="min-width: 15rem;">**Radio**</td>
     <td class="t-body pa5" style="min-width: 15rem;">Contenido con dos o más valores predefinidos para seleccionar una opción de una escala de valores. Ejemplo: definición del color de los componentes de un producto (rojo, amarillo, azul, negro...).</td>
   </tr>
   <tr class="bb b--muted-3">
-    <td class="t-body pa5" style="min-width: 15rem;"><strong>CheckBox</strong></td>
-    <td class="t-body pa5" style="min-width: 15rem;">Opción que solo tiene valores equivalentes a <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">verdadero</span> (seleccionado) o <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">falso</span> (no seleccionado). Ejemplo: un campo llamado <strong>Outlet</strong> se seleccionará solo cuando el producto sea parte de la selección de la tienda para <em>outlet</em> (liquidación de stock). Si el producto no forma parte de esa selección, el campo debe quedar sin seleccionar.</td>
+    <td class="t-body pa5" style="min-width: 15rem;">**CheckBox**</td>
+    <td class="t-body pa5" style="min-width: 15rem;">Opción que solo tiene valores equivalentes a <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">verdadero</span> (seleccionado) o <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">falso</span> (no seleccionado). Ejemplo: un campo llamado **Outlet** se seleccionará solo cuando el producto sea parte de la selección de la tienda para *outlet* (liquidación de stock). Si el producto no forma parte de esa selección, el campo debe quedar sin seleccionar.</td>
   </tr>
   <tr class="bb b--muted-3">
-    <td class="t-body pa5" style="min-width: 15rem;"><strong>Texto Indexado<br> <br>Texto Grande Indexado</strong></td>
-    <td class="t-body pa5" style="min-width: 15rem;">Técnicamente, siguen la misma regla que los campos de <strong>texto</strong>, pero con una diferencia: el <a href="https://help.vtex.com/es/tutorial/entendiendo-el-funcionamento-de-la-indexacion--tutorials_256"  rel="noopener noreferrer" target="_blank" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word">indexador</a> del <strong>Catálogo</strong> interpretará sus valores e influirá en los resultados de búsqueda de los clientes de la tienda. Puedes ver más detalles en <a href="https://help.vtex.com/es/tutorial/como-funciona-la-busqueda-de-vtex--tutorials_542" rel="noopener noreferrer" target="_blank" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word">Cómo funciona la búsqueda de VTEX</a>.</td>
+    <td class="t-body pa5" style="min-width: 15rem;">**Texto Indexado<br> <br>Texto Grande Indexado**</td>
+    <td class="t-body pa5" style="min-width: 15rem;">Técnicamente, siguen la misma regla que los campos de **texto**, pero con una diferencia: el [indexador](https://help.vtex.com/es/tutorial/entendiendo-el-funcionamento-de-la-indexacion--tutorials_256) del **Catálogo** interpretará sus valores e influirá en los resultados de búsqueda de los clientes de la tienda. Puedes ver más detalles en [Cómo funciona la búsqueda de VTEX](https://help.vtex.com/es/tutorial/como-funciona-la-busqueda-de-vtex--tutorials_542).</td>
   </tr>
 </tbody>
 </table>
@@ -146,11 +144,9 @@ Sin embargo, para los campos **Combo**, **Radio** y **Checkbox** es necesario re
 
     Los valores creados se mostrarán en la pestaña **Especificaciones** en el registro de Producto.
 
-![product-spec-2](//images.ctfassets.net/alneenqid6w5/5F0K7fQTFOf2b7opIrgpP6/35fc1b6e4edc189e4d4195d35f777514/ES_ProdutoGif_2_Alterado.gif)
+![product-spec-2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Catalog/products-and-skus/registrar-especificaciones-o-campos-de-producto_3.gif)
 
-<div class = "alert alert-info">
-  <p>Si estás registrando los primeros valores de un campo, deberás regresar al formulario de ese campo específico y seleccionar la opción <strong>Activo</strong>.</p>
-</div>
+> ℹ️ Si estás registrando los primeros valores de un campo, deberás regresar al formulario de ese campo específico y seleccionar la opción **Activo**.
 
 #### Obtener o editar valores registrados
 
@@ -188,7 +184,7 @@ Para rellenar las especificaciones de cada producto individualmente, siga las  i
 
 6. Haz clic en `Guardar`.
 
-![product-spec-3](//images.ctfassets.net/alneenqid6w5/7B2L2oEoPQkPU2EJDowsxx/2f3c1e78b21f035b190aa3adcc55c8c2/ES_ProdutoGif_3_Alterado.gif)
+![product-spec-3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Catalog/products-and-skus/registrar-especificaciones-o-campos-de-producto_4.gif)
 
 #### Plantilla
 
@@ -211,7 +207,7 @@ Para rellenar las especificaciones de los productos de forma masiva mediante una
 9. Haz clic en **Seleccionar** para seleccionar el archivo con la plantilla completada en su ordenador.
 10. Haz clic en `Importar`.
 
-![product-spec-4](//images.ctfassets.net/alneenqid6w5/747pr0ISwE9GrNBjC4kKjL/fbb88c9ededec1bef032d9276837059e/ES_ProdutoGif_4_Alterado.gif)
+![product-spec-4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Catalog/products-and-skus/registrar-especificaciones-o-campos-de-producto_5.gif)
 
 ## Más información
 - [Registrar especificaciones o campos de SKU](https://help.vtex.com/es/tutorial/registrar-especificaciones-o-campos-de-sku--tutorials_119)

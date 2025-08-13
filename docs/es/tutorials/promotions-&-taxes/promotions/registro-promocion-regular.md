@@ -38,16 +38,14 @@ Los campos obligatorios están marcados con un asterisco (*).
 | Fecha y hora de inicio*        | Selecciona la fecha y hora exactas de inicio de la promoción para que se active en el momento deseado.                                                                                                                                                                                                                                                                      |
 | Fecha y hora de fin*           | Configura la fecha y hora exactas para su desactivación.                                                                                                                                                                                                                                                                                                                     |
 | Utilizar configuración de recurrencia | Selecciona esta opción para programar la repetición automática de la promoción en días y horas determinados. Debes configurar los intervalos deseados para que la recurrencia se aplique.                                                                                                                                                                               |
-| ¿Cuál es el tipo y valor del descuento?* | Selecciona el tipo y el valor de descuento que se aplicará a la promoción. Opciones disponibles: <br> - **Nominal**: valor fijo aplicado al total del carrito. <br> - **Envío nominal**: valor fijo aplicado al costo del envío. <br> - **Porcentual**: porcentaje aplicado al valor del producto. <br> - **Precio máximo por ítem**: precio tope por ítem. <br> - **Envío porcentual**: porcentaje aplicado al envío. <br> - **Envío máximo**: tope del valor del envío. <br> - **Envío gratis**: 100% de descuento sobre el valor del envío. <br> - **Regalo**: descuento total sobre el producto definido como regalo. La cantidad máxima se refiere al número de SKUs distintos que el usuario puede seleccionar. <br> &nbsp;&nbsp;&nbsp;&nbsp;- La casilla "Activar multiplicador de regalos" solo funciona en promociones del tipo "Compra uno y lleva uno gratis". Aunque esté disponible en promociones regulares, no tiene efecto en el carrito. <br> &nbsp;&nbsp;&nbsp;&nbsp;<div class="alert alert-warning">El producto de regalo también debe tener un precio registrado aunque se ofrezca gratuitamente al cliente.</div> |
+| ¿Cuál es el tipo y valor del descuento?* | Selecciona el tipo y el valor de descuento que se aplicará a la promoción. Opciones disponibles: <br> - **Nominal**: valor fijo aplicado al total del carrito. <br> - **Envío nominal**: valor fijo aplicado al costo del envío. <br> - **Porcentual**: porcentaje aplicado al valor del producto. <br> - **Precio máximo por ítem**: precio tope por ítem. <br> - **Envío porcentual**: porcentaje aplicado al envío. <br> - **Envío máximo**: tope del valor del envío. <br> - **Envío gratis**: 100% de descuento sobre el valor del envío. <br> - **Regalo**: descuento total sobre el producto definido como regalo. La cantidad máxima se refiere al número de SKUs distintos que el usuario puede seleccionar. <br> &nbsp;&nbsp;&nbsp;&nbsp;- La casilla "Activar multiplicador de regalos" solo funciona en promociones del tipo "Compra uno y lleva uno gratis". Aunque esté disponible en promociones regulares, no tiene efecto en el carrito. <br> &nbsp;&nbsp;&nbsp;&nbsp;> ⚠️ El producto de regalo también debe tener un precio registrado aunque se ofrezca gratuitamente al cliente. |
 | Descuento nominal basado en fórmula | Descuento de valor fijo calculado con base en una fórmula que puede usar como variables el valor total del producto, el envío y la cantidad de ítems. Se toma en cuenta el envío de menor costo disponible. <br> **Ejemplo**: `(total + freight) * 0.3`                                                                                                                           |
 | Valor de recompensa nominal    | Crédito de valor fijo que se agregará al programa de fidelidad de la tienda. Consulta *Promoción regular con valor de fidelidad*.                                                                                                                                                                                                                                          |
 | Valor de fidelidad porcentual  | Porcentaje de crédito que se agregará al programa de fidelidad de la tienda. Consulta *Promoción regular con valor de fidelidad*.                                                                                                                                                                                                                                          |
 | Tabla de precios promocionales | Se puede utilizar una tabla de precios como promoción. El precio promocional de cada SKU será el correspondiente en la tabla de precios seleccionada.                                                                                                                                                                                                                       |
 | Promoción resaltada            | Inserta una caja de texto con el nombre de la promoción, para que se muestre en la vitrina y en la PDP. Solo se mostrará si se utiliza el componente: `<vtex.cmc:discountHighLight/>`.                                                                                                                                                                                    |
 
-<div class = "alert alert-info">
-Las promociones de tipo **Nominal** (valor fijo) solo se mostrarán en el carrito, y no en la vitrina o en la PDP.
-</div>
+> ℹ️ Las promociones de tipo **Nominal** (valor fijo) solo se mostrarán en el carrito, y no en la vitrina o en la PDP.
 
 #### Restringir esta promoción a los productos de los sellers
 
@@ -58,13 +56,7 @@ En esta sección puedes definir a qué sellers se aplicará la promoción. Es de
 
 Para que la promoción sea válida para todos los sellers, deja la opción sin seleccionar.
 
-<div class="alert alert-warning">
-  <p>No puedes seleccionar un seller white label directamente. Hay dos opciones para incluir un seller white label en la promoción:</p>
-  <ol>
-    <li>Restringir los sellers a la tienda principal. Esta restricción agrega todos los sellers white label de tu tienda a la promoción.</li>
-    <li>Dejar la opción sin seleccionar para incluir todos los sellers. En este caso, todos los tipos de sellers (white label y otros) se agregan a la promoción.</li>
-  </ol>
-</div>
+> ⚠️ No puedes seleccionar un seller white label directamente. Hay dos opciones para incluir un seller white label en la promoción: <ol> <li>Restringir los sellers a la tienda principal. Esta restricción agrega todos los sellers white label de tu tienda a la promoción.</li> <li>Dejar la opción sin seleccionar para incluir todos los sellers. En este caso, todos los tipos de sellers (white label y otros) se agregan a la promoción.</li> </ol>
 
 #### Política comercial
 Esta sección define las políticas comerciales válidas para la promoción. Puedes incluir o excluir políticas comerciales en el descuento.
@@ -92,16 +84,14 @@ Cada campo ofrece las opciones **Igual a** (inclusión) o **Diferentes de** (exc
 
 En el siguiente ejemplo, la promoción se configuró para incluir todos los productos de la categoría Alimentación, con la marca Pedigree, excepto el producto Croquetas Whiskas. A continuación se ilustra cómo se completaron los campos:
 
-![Tela quais itens-ES](//images.ctfassets.net/alneenqid6w5/4v5wXtdO7CzCCHI0F0heTC/5fa158710f53c21d7c39c431602e299a/Tela_quais_itens-ES.png)
+![Tela quais itens-ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/promotions-&-taxes/promotions/registro-promocion-regular_1.png)
 
 Para facilitar el llenado de productos o SKUs, puedes cargar un archivo **.txt** con los IDs deseados. El archivo debe contener un ID por fila. Para cargarlo:
 
 - Haz clic en **Selecciona un archivo .txt** en el campo correspondiente al producto o SKU deseado.
 - Selecciona el archivo **.txt** con los IDs de productos o SKUs.
 
-    <div class="alert alert-warning">
-  <p>Si seleccionas <strong>Aplicar a los productos que cumplen todas las restricciones siguientes</strong> y no llenas ninguno de los criterios de selección, la promoción no se registrará y se mostrará el mensaje <strong>Define los productos elegibles o aplica a todos los productos</strong>. En este caso, debes llenar los criterios de selección o elegir <strong>Aplicar a todos los productos</strong>.</p>
-</div>
+    > ⚠️ Si seleccionas **Aplicar a los productos que cumplen todas las restricciones siguientes** y no llenas ninguno de los criterios de selección, la promoción no se registrará y se mostrará el mensaje **Define los productos elegibles o aplica a todos los productos**. En este caso, debes llenar los criterios de selección o elegir **Aplicar a todos los productos**.
 
 Para que los productos se incluyan en la promoción deben cumplir con todas las condiciones configuradas en esta sección.
 
@@ -122,26 +112,18 @@ Para que la promoción aplique, el carrito del cliente debe cumplir con las cond
 - **Aplicar el descuento solo cuando el cliente seleccione una de las transportadoras anteriores:** la promoción se activará únicamente después de que el cliente elija esa forma de envío. Mientras no se seleccione, no habrá descuento. Este criterio *solo* se tendrá en cuenta si el tipo de promoción está relacionado con el valor del envío, es decir, solo si el tipo es Envío porcentual, Envío nominal, Envío máximo o Envío gratis.
 - **Medio de pago:** el descuento se concederá si el medio de pago seleccionado por el cliente es el mismo que el registrado en la promoción. Este descuento *solo* se aplicará al finalizar la compra, cuando el cliente seleccione el mismo medio de pago que el registrado.
 
-    <div class="alert alert-warning">
-  <p>
-    De manera predeterminada, pueden registrarse hasta <strong>20 medios de pago por promoción</strong>, aunque existe la posibilidad de personalización para incluir hasta <strong>100 medios de pago</strong>. Si necesitas utilizar más de 20, ponte en contacto con nuestro <strong>Soporte</strong>.
-  </p>
-</div>
+    > ⚠️  De manera predeterminada, pueden registrarse hasta **20 medios de pago por promoción**, aunque existe la posibilidad de personalización para incluir hasta **100 medios de pago**. Si necesitas utilizar más de 20, ponte en contacto con nuestro **Soporte**. 
 
 - **Número de cuotas:** el descuento se concederá si la cantidad de cuotas seleccionada por el cliente está en el intervalo registrado. Este campo no se aplica si se selecciona la opción boleto (Brasil).
 
-    <div class = "alert alert-warning">
-  <p><b>Atención</b>: las promociones por medio de pago y número de cuotas no se aplican a pedidos pagados con dos tarjetas o vales de compra.</p>
-</div>
+    > ⚠️ **Atención**: las promociones por medio de pago y número de cuotas no se aplican a pedidos pagados con dos tarjetas o vales de compra.
 
 - **utm_source:** el descuento se concederá si la navegación utiliza un parámetro utm_source correspondiente a cualquiera de los valores registrados. Es importante destacar que el cliente solo puede ingresar un **utm_source** en el checkout.
 - **utm_campaign** el descuento se concederá si la navegación utiliza un parámetro utm_campaign con el valor registrado.
 - **Crear un nuevo cupón con los UTM anteriores:** crea un cupón a partir de los UTM registrados para que el cliente tenga acceso a esta promoción solo con el código del cupón.
 - **utmi_cp:** el descuento se concederá si la navegación se realiza con el utmi_cp con el valor registrado (distingue entre mayúsculas y minúsculas).
 
-    <div class = "alert alert-info">
-  <p>En el campo de las UTM, ingrese solo el valor que tendrán las UTM para activar la promoción. No es necesario ingresar <i>?utm_source=</i> dentro del campo.</p>
-</div>
+    > ℹ️ En el campo de las UTM, ingrese solo el valor que tendrán las UTM para activar la promoción. No es necesario ingresar *?utm_source=* dentro del campo.
 
 - **Solo en la primera compra:** el descuento se concederá únicamente en la primera compra del cliente.
 - **Pedido de suscripción:** opción que define que la promoción se aplique a pedidos de suscripción. Consulta a continuación las condiciones para los tipos de pedido:

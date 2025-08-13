@@ -15,17 +15,13 @@ locale: es
 subcategoryId: 4T6qfa6gNO6g4sAUIa6s2G
 ---
 
-<div class = "alert alert-info">
-  <p>Esta funcionalidad está disponible solo para Android e impresoras térmicas específicas, según se describe en la sección <a href="#requisitos">Requisitos</a>.</p>
-</div>
+> ℹ️ Esta funcionalidad está disponible solo para Android e impresoras térmicas específicas, según se describe en la sección [Requisitos](#requisitos).
 
 [VTEX Sales App](https://help.vtex.com/es/tracks/instore-primeros-pasos-y-configuracion--zav76TFEZlAjnyBVL5tRc) permite que los vendedores impriman los comprobantes de venta en una impresora térmica utilizando un teléfono celular a través de conexión bluetooth.
 
 Así el vendedor no tiene que ir a la caja para generar el comprobante de venta, ya que lo puede emitir rápidamente por el teléfono celular y está disponible en el flujo de venta de **Sales App**. Esto aumenta la agilidad en el servicio y mejora la experiencia de compra de los clientes.
 
-<div class="alert alert-warning">
-  <p>La impresión del comprobante de venta en <b>Sales App</b> con una impresora térmica no es lo mismo que la facturación del pedido. La factura que se emite después, ya que depende de integraciones con conectores de pago y cuestiones logísticas, como el stock utilizado.</p>
-</div>
+> ⚠️ La impresión del comprobante de venta en **Sales App** con una impresora térmica no es lo mismo que la facturación del pedido. La factura que se emite después, ya que depende de integraciones con conectores de pago y cuestiones logísticas, como el stock utilizado.
 
 Si tu tienda desea emitir comprobantes con facturación automática para ventas de stock local (On Hands), recomendamos ponerte en contacto con el partner Neomode.
 
@@ -47,15 +43,11 @@ Para imprimir el comprobante de venta desde **Sales App**, sigue los pasos a con
 1. Activa la conexión bluetooth en el teléfono.
 2. Conecta el celular a la impresora térmica vía bluetooth.
 
-  <div class = "alert alert-info">
-  <p>Si el teléfono no reconoce la impresora automáticamente, busca el driver en el sitio web del fabricante y sigue las instrucciones de instalación.</p>
-</div>
+  > ℹ️ Si el teléfono no reconoce la impresora automáticamente, busca el driver en el sitio web del fabricante y sigue las instrucciones de instalación.
 
 3. En la aplicación **Sales App**, en la pantalla final del pedido o después de seleccionar un pedido en la sección **Pedidos**, haz clic en `Imprimir pedido`.
 
-  <div class="alert alert-danger">
-  <p>La primera vez que se utiliza la funcionalidad se produce un error en este paso. Cierra la aplicación y sigue las instrucciones desde el comienzo. Si el error continúa, ponte en contacto con nuestro <a href="https://help.vtex.com/es/support">Soporte</a>.</p>
-</div>
+  > ❗ La primera vez que se utiliza la funcionalidad se produce un error en este paso. Cierra la aplicación y sigue las instrucciones desde el comienzo. Si el error continúa, ponte en contacto con nuestro [Soporte](https://help.vtex.com/es/support).
 
 4. Selecciona la impresora térmica deseada y la impresión se realizará inmediatamente.
 
@@ -69,4 +61,4 @@ El comprobante impreso incluirá los siguientes datos:
 
 Para tiendas que tienen integraciones realizadas por partners como Neomode y que facturan las ventas On Hands inmediatamente, la factura se mostrará en el comprobante, como se ilustra a continuación:
 
-![thermic_printer_receipt_ES](//images.ctfassets.net/alneenqid6w5/YOumGZtiUlkA1ACYOgKec/b59f186e04782170470d10ff0fdd9578/thermic_printer_receipt_ES.png)
+![thermic_printer_receipt_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/unified-commerce/vtex-sales-app/emision-de-comprobante-de-venta-en-sales-app-a-traves-de-impresora-termica_1.png)

@@ -17,7 +17,7 @@ subcategoryId: 7fTH6bP0C4IaM8qWi0kkQC
 
 [Política de envio](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140) é um conjunto de regras e configurações que definem quais opções de envio serão apresentadas aos clientes no checkout. A relação entre política de envio, [estoque](https://help.vtex.com/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb) e [doca](https://help.vtex.com/pt/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj) é o que compõe a sua [estratégia de envio](https://help.vtex.com/pt/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3) na VTEX, conforme a imagem abaixo:
 
-![shipping_strategy_PT](//images.ctfassets.net/alneenqid6w5/1LdEuL3gjF12uwFj4ya6OL/c60984b010b96980383798cffad3527f/shipping_strategy_PT.png)
+![shipping_strategy_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Shipping/shipping-strategy/gerenciar-politicas-de-envio_1.png)
 
 Este artigo apresenta como acompanhar e gerenciar suas políticas de envio. No Admin VTEX, em **Envio > Estratégia de envio**, a aba **Políticas de envio** é onde você realiza as seguintes ações:
 
@@ -29,34 +29,30 @@ Este artigo apresenta como acompanhar e gerenciar suas políticas de envio. No A
 * [Ativar ou desativar política de envio](#ativar-ou-desativar-politica-de-envio)
 * [Excluir política de envio](#excluir-politica-de-envio)
 
-<div class = "alert alert-info">
-Também é possível criar políticas de envio, confira o passo a passo no artigo <a href="https://help.vtex.com/pt/tutorial/criar-uma-politica-de-envio--66rJO4LKBdyMJOH6Z3dsaT">Criar uma política de envio</a>.
-</div>
+> ℹ️ Também é possível criar políticas de envio, confira o passo a passo no artigo [Criar uma política de envio](https://help.vtex.com/pt/tutorial/criar-uma-politica-de-envio--66rJO4LKBdyMJOH6Z3dsaT).
 
 ## Visualizar lista de políticas de envio
 
 No Admin VTEX, ao acessar **Envio > Estratégia de envio**, na aba **Políticas de envio** você encontra uma lista como na imagem abaixo:
 
-![shipping_policy_PT](//images.ctfassets.net/alneenqid6w5/uiwwWTGlS60kPjMDLNfzY/8f71ffc10c5e9e530c7f7d122de84005/shipping_policy_PT.png)
+![shipping_policy_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Shipping/shipping-strategy/gerenciar-politicas-de-envio_2.png)
 
 As informações apresentadas nessa página estão descritas na tabela a seguir: 
 
 | **Coluna** | **Descrição** |
 | :---: | :--- |
 | Política de envio | Nome que identifica a sua [política de envio](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140) para usuários com acesso ao seu Admin VTEX. Saiba mais no artigo [Criar uma política de envio](https://help.vtex.com/pt/tutorial/criar-uma-politica-de-envio--66rJO4LKBdyMJOH6Z3dsaT). |
-| Tipo de envio | <p><a href="https://help.vtex.com/pt/tutorial/como-funciona-o-tipo-de-envio--tutorials_126">Tipo de envio</a>, ou método de envio, é o nome que você configura na política de envio que aparece para os clientes no checkout. Por isso, é importante utilizar nomes intuitivos ao criar uma política de envio.</p><p>Exemplo: <code>Entrega expressa</code> e <code>Entrega normal</code>.</p> |
+| Tipo de envio | [Tipo de envio](https://help.vtex.com/pt/tutorial/como-funciona-o-tipo-de-envio--tutorials_126), ou método de envio, é o nome que você configura na política de envio que aparece para os clientes no checkout. Por isso, é importante utilizar nomes intuitivos ao criar uma política de envio.Exemplo: `Entrega expressa` e `Entrega normal`. |
 | Docas | Identifica quais [docas](https://help.vtex.com/pt/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj) estão associadas à [política de envio](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140). Ao passar o mouse sobre o número nesta coluna, você visualiza os nomes de todas as docas associadas à política de envio. |
-| Status | <p>Status de ativação da política de envio, que pode ser:</p><p><ul><li><b>Ativa:</b> a política de envio está ativada e é considerada válida no <a href="https://help.vtex.com/pt/tutorial/como-funciona-o-calculo-de-envio--tutorials_116">cálculo</a> para o envio de pedidos.</li><li><b>Inativa:</b> a política de envio está desativada e não é válida para envios.</li></ul></p> |
+| Status | Status de ativação da política de envio, que pode ser:<ul><li>**Ativa:** a política de envio está ativada e é considerada válida no [cálculo](https://help.vtex.com/pt/tutorial/como-funciona-o-calculo-de-envio--tutorials_116) para o envio de pedidos.</li><li>**Inativa:** a política de envio está desativada e não é válida para envios.</li></ul> |
 | Transportadora (opcional) | Este campo aparece somente no Admin VTEX de lojas que ativaram o [VTEX Shipping Network Correios](https://help.vtex.com/pt/tutorial/vtex-shipping-network-correios-ativacao--57opHihFbRAwrjQjCTymTa) ou que contrataram o [VTEX Shipping Network](https://help.vtex.com/pt/tutorial/pronto-para-envio--5YOZV7Aotv3pap0fGNESDs), e identifica exclusivamente os Correios. |
-| Contrato (opcional) | <p>Este campo aparece somente no Admin VTEX de lojas que ativaram o <a href="https://help.vtex.com/pt/tutorial/vtex-shipping-network-correios-ativacao--57opHihFbRAwrjQjCTymTa">VTEX Shipping Network Correios</a>.</p><p>Os valores possíveis são:<ul><li><b>VTEX:</b> a loja contratou uma tabela dos Correios intermediada pela VTEX.</li><li><b>Próprio:</b> a loja contratou uma tabela por conta própria antes de ativar o VTEX Shipping Network Correios.</li></ul></p> |
+| Contrato (opcional) | Este campo aparece somente no Admin VTEX de lojas que ativaram o [VTEX Shipping Network Correios](https://help.vtex.com/pt/tutorial/vtex-shipping-network-correios-ativacao--57opHihFbRAwrjQjCTymTa).Os valores possíveis são:<ul><li>**VTEX:** a loja contratou uma tabela dos Correios intermediada pela VTEX.</li><li>**Próprio:** a loja contratou uma tabela por conta própria antes de ativar o VTEX Shipping Network Correios.</li></ul> |
 
 ## Pesquisar política de envio
 
 Na caixa de busca com o ícone lupa <i class="fas fa-search"></i>, é possível buscar políticas de envio pelo nome. Ao digitar um caractere na barra de busca, a pesquisa é imediatamente realizada. Para limpar a busca, clique no ícone fechar <i class="far fa-times-circle"></i>.
 
-<div class = "alert alert-info">
-Caso não haja um resultado para a pesquisa, verifique a ortografia usada na busca e se existe algum filtro selecionado.
-</div>
+> ℹ️ Caso não haja um resultado para a pesquisa, verifique a ortografia usada na busca e se existe algum filtro selecionado.
 
 ## Filtrar políticas de envio
 
@@ -105,9 +101,7 @@ Para ativar ou desativar uma política de envio, realize os passos abaixo:
 
 Para excluir uma política de envio, realize os passos abaixo:
 
-<div class="alert alert-danger">
-A ação de excluir uma política de envio é permanente e não pode ser desfeita.
-</div>
+> ❗ A ação de excluir uma política de envio é permanente e não pode ser desfeita.
 
 1. No Admin VTEX, acesse **Envio > Estratégia de Envio** ou digite **Estratégia de envio** na barra de busca no topo da página.
 2. Na aba **Políticas de envio**, na linha correspondente à política desejada, clique no ícone menu <i class="fas fa-ellipsis-v"></i>. Você pode [pesquisar](#pesquisar-politica-de-envio) ou [filtrar](#filtrar-politicas-de-envio) políticas.

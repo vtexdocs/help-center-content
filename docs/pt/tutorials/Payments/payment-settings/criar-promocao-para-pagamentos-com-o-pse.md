@@ -30,9 +30,9 @@ Cada banco que realiza transações de pagamento associadas ao PSE possui um có
 2. Na seção de pagamentos, clique sobre a opção __PSE__.
 3. Abra a página __Web Developer Tools__ do seu navegador. Caso tenha alguma dúvida, veja abaixo como realizar este procedimento de acordo com o tipo de navegador:<br>
 <ul>
-  <li><a href="https://developer.chrome.com/docs/devtools/open#inspect">Google Chrome</a></li>
-  <li><a href="https://firefox-source-docs.mozilla.org/devtools-user/page_inspector/how_to/open_the_inspector/index.html">Firefox</a></li>
-  <li><a href="https://firefox-source-docs.mozilla.org/devtools-user/page_inspector/how_to/open_the_inspector/index.html">Safari</a></li>
+  <li>[Google Chrome](https://developer.chrome.com/docs/devtools/open#inspect)</li>
+  <li>[Firefox](https://firefox-source-docs.mozilla.org/devtools-user/page_inspector/how_to/open_the_inspector/index.html)</li>
+  <li>[Safari](https://firefox-source-docs.mozilla.org/devtools-user/page_inspector/how_to/open_the_inspector/index.html)</li>
 </ul>
 4. Clique sobre a aba __Rede__. 
 5. Atualize a página pressionando a tecla __F5__ ou o botão de atualizar do seu navegador.
@@ -42,39 +42,35 @@ Cada banco que realiza transações de pagamento associadas ao PSE possui um có
 9. No componente __data__, selecione o componente __banks__.
 10. Clique sobre o nome do banco para o qual deseja criar a promoção e anote o número com 4 dígitos descrito no campo __code__.
 
-![PSE Dev Tool pt](//images.ctfassets.net/alneenqid6w5/F2ucfedyA57R4t5H6Bfab/0d7fbd6284642e35f5e64d70fe9fbbf3/PSE_Dev_tool_pt.png)
+![PSE Dev Tool pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/payment-settings/criar-promocao-para-pagamentos-com-o-pse_1.png)
 
 ## Criando uma promoção PSE
 
 Após obter o código do banco, crie a promoção regular conforme os passos abaixo:
 
-<blockquote><ui>1. No Admin VTEX, acesse <b>Promoções > Promoções</b>, ou digite <b>Promoções</b> na barra de busca no topo da página.</ui>
+<blockquote><ui>1. No Admin VTEX, acesse **Promoções > Promoções**, ou digite **Promoções** na barra de busca no topo da página.</ui>
 
-<blockquote><ui>2. Clique no botão <b>Criar promoção</b>.</ui>
+<blockquote><ui>2. Clique no botão **Criar promoção**.</ui>
 
-<blockquote><ui>3. Selecione a opção <b>Regular</b>.</ui>
+<blockquote><ui>3. Selecione a opção **Regular**.</ui>
 
-<blockquote><ui>4. No campo <b>Nome</b>, preencha como você deseja identificar a promoção.</ui>
+<blockquote><ui>4. No campo **Nome**, preencha como você deseja identificar a promoção.</ui>
 
-<blockquote><ui>5. Em <b>Data de expiração</b>, configure o período no qual o desconto será aplicado para os clientes que utilizarem o PSE com o banco configurado.</ui>
+<blockquote><ui>5. Em **Data de expiração**, configure o período no qual o desconto será aplicado para os clientes que utilizarem o PSE com o banco configurado.</ui>
 
-<blockquote><ui>6. Em <b>Tipo e valor de desconto?</b>, defina o tipo de desconto da promoção e preencha o valor.</ui> 
+<blockquote><ui>6. Em **Tipo e valor de desconto?**, defina o tipo de desconto da promoção e preencha o valor.</ui> 
 
-<blockquote><ui><div class="alert alert-info">
-A promoção do tipo "Porcentagem" é a mais comum para promoções realizadas com bancos.
-</div></blockquote>
+<blockquote><ui>> ℹ️ A promoção do tipo "Porcentagem" é a mais comum para promoções realizadas com bancos.</blockquote>
 <br>
-<blockquote><ui>7. Na seção <b>A quais itens esta promoção será aplicada?</b>, selecione se o desconto para pagamento com banco desejado via PSE deve ser aplicado a todos os produtos da loja ou somente para alguns tipos de produtos. Caso deseje restringir a promoção, configure os demais campos desta seção.</ui>
+<blockquote><ui>7. Na seção **A quais itens esta promoção será aplicada?**, selecione se o desconto para pagamento com banco desejado via PSE deve ser aplicado a todos os produtos da loja ou somente para alguns tipos de produtos. Caso deseje restringir a promoção, configure os demais campos desta seção.</ui>
 
-<blockquote><ui>8. Na seção <b>Quais as condições para a promoção ser válida?</b>, selecione a opção Tags de marketing e escreva <b>pse-discount-for-bank-code-XXXX</b>, substituindo o <b>XXXX</b> pelo código do banco desejado.</ui>
+<blockquote><ui>8. Na seção **Quais as condições para a promoção ser válida?**, selecione a opção Tags de marketing e escreva **pse-discount-for-bank-code-XXXX**, substituindo o **XXXX** pelo código do banco desejado.</ui>
 
-<blockquote><ui>9. Selecione a opção <b>Meio de pagamento</b> e escolha <b>PSE</b>.</ui>
+<blockquote><ui>9. Selecione a opção **Meio de pagamento** e escolha **PSE**.</ui>
 
-<blockquote><ui>10. Na seção <b>Restrições e limitações de uso</b>, se você deseja que a promoção seja aplicada de forma acumulada com outras promoções da loja, selecione a opção <b>Permitir acumular promoções</b>.</ui>
+<blockquote><ui>10. Na seção **Restrições e limitações de uso**, se você deseja que a promoção seja aplicada de forma acumulada com outras promoções da loja, selecione a opção **Permitir acumular promoções**.</ui>
 
-<blockquote><ui><div class="alert alert-warning">
-  A promoção PSE sempre será adicionada ao carrinho quando a opção <b>Permitir acumular promoções</b> estiver selecionada e houver outras promoções aplicadas nos produtos. Caso a opção <b>Permitir acumular promoções</b> não esteja marcada, o checkout irá utilizar apenas a promoção que permite o maior desconto nos produtos.
-</div></blockquote>
+<blockquote><ui>> ⚠️ A promoção PSE sempre será adicionada ao carrinho quando a opção **Permitir acumular promoções** estiver selecionada e houver outras promoções aplicadas nos produtos. Caso a opção **Permitir acumular promoções** não esteja marcada, o checkout irá utilizar apenas a promoção que permite o maior desconto nos produtos.</blockquote>
 <br>
-<blockquote><ui>11. Clique em <b>Salvar</b>.</ui>
+<blockquote><ui>11. Clique em **Salvar**.</ui>
 

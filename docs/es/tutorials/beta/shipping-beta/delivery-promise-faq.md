@@ -45,9 +45,7 @@ El retailer debe verificar que los siguientes aspectos del producto estén corre
 * Recuento del [stock](https://help.vtex.com/es/tutorial/gerenciar-inventario--tutorials_139) del producto para ventas, o stock ilimitado configurado o posibilidad de activar la opción para mostrar el producto cuando esté agotado.
 * Plantillas de [CMS](https://help.vtex.com/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/6OCY6S9tqBXPD5mgpbBInC) configuradas para el frontend de la tienda.
 
-<div class = "alert alert-info">
-Para más información, consulta <a href="https://help.vtex.com/es/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382">¿Por qué el producto no se muestra en el sitio web?</a>.
-</div>
+> ℹ️ Para más información, consulta [¿Por qué el producto no se muestra en el sitio web?](https://help.vtex.com/es/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382).
 
 ### 2. ¿Delivery Promise (Beta) garantiza que todos mis productos se mostrarán en la vitrina?
 

@@ -45,9 +45,7 @@ Por lo tanto, para estos medios de pago, las transacciones no serán reprocesada
 
 Mode-off se activa cuando el partner o la integración presentan una inestabilidad que se identifica a partir de la respuesta de mensajes de error del tipo 500, 408 o timeout superior a 30 segundos en los últimos cinco minutos. Esta regla es válida para todos los medios de pago que mode-off procesa.
 
-<div class="alert alert-warning">
-Cabe recordar que los medios de pago sincrónos <strong>no</strong> se pueden volver a procesar. Sin embargo, entran en el recuento de errores para identificar si un partner es inestable o no.
-</div>
+> ⚠️ Cabe recordar que los medios de pago sincrónos **no** se pueden volver a procesar. Sin embargo, entran en el recuento de errores para identificar si un partner es inestable o no.
 
 ## ¿Cuál es la regla para desactivar mode-off?
 
@@ -58,7 +56,7 @@ Las transacciones se liberarán normalmente cuando el partner deje de presentar 
 El partner puede definir el tiempo entre los reintentos de procesamiento de transacciones (_retries_) al enviar la información de pago. Al configurar el tiempo de cancelación de pago (campo delayToCancel) por un período inferior a 1 día, los reintentos se realizarán cada 1 hora. Si el tiempo para cancelar el pago se establece como igual o mayor a 1 día, los reintentos se realizarán cada 4 horas. Para obtener más información, visite [Create Payment endpoint](https://developers.vtex.com/docs/api-reference/payment-provider-protocol?endpoint=post-/payments).
 
 <div class="alerta alerta-info">
- Si el pago se realiza mediante <a href="https://help.vtex.com/pt/tutorial/configurar-pix-como-meio-de-pagamento--5sbNavMSJY4jyLmLKRHiOf">PIX (Método de pago instantáneo brasileño)</a> o el tiempo de cancelación de pago se configura entre 5 minutos y 1 hora, los reintentos se realizarán cada 5 minutos.</div>
+ Si el pago se realiza mediante [PIX (Método de pago instantáneo brasileño)](https://help.vtex.com/pt/tutorial/configurar-pix-como-meio-de-pagamento--5sbNavMSJY4jyLmLKRHiOf) o el tiempo de cancelación de pago se configura entre 5 minutos y 1 hora, los reintentos se realizarán cada 5 minutos.</div>
 
 ## ¿Cómo identificar mode-off y qué hacer cuando esté activo?
 

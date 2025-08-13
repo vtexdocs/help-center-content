@@ -15,7 +15,5 @@ locale: es
 subcategoryId: 4y4ylvqceE6vVqEF8IWZix
 ---
 
-<div class="alert alert-warning">
-  <p>Este contenido sólo está disponible en portugués.</p>
-</div>
+> ⚠️ Este contenido sólo está disponible en portugués.
 

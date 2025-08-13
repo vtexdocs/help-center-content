@@ -22,9 +22,7 @@ As [tarifas de envio](https://help.vtex.com/pt/tutorial/tarifas-de-envio--1Balpg
 * [Editar](#editar) as tarifas de envio;
 * [Excluir](#excluir) as tarifas de envio.
 
-<div class="alert alert-info">
-Para casos em que há vários preços de envio para serem atualizados ou cadastrados, recomendamos utilizar a Planilha de frete em vez do módulo <b>Tarifas de envio</b>. Caso queira conferir como as tarifas de envio cadastradas serão apresentadas ao cliente final, utilize o módulo <a href="https://help.vtex.com/pt/tutorial/simulacao-de-frete--tutorials_144">Simulador de envio</a>.
-</div>
+> ℹ️ Para casos em que há vários preços de envio para serem atualizados ou cadastrados, recomendamos utilizar a Planilha de frete em vez do módulo **Tarifas de envio**. Caso queira conferir como as tarifas de envio cadastradas serão apresentadas ao cliente final, utilize o módulo [Simulador de envio](https://help.vtex.com/pt/tutorial/simulacao-de-frete--tutorials_144).
 
 ## Cadastrar
 
@@ -38,8 +36,8 @@ Para cadastrar uma nova tarifa de envio, siga as instruções abaixo:
     * **Faixa de código postal**: limite inicial e final dos códigos postais que a nova tarifa atende. Esse campo deve ser preenchido apenas com números e/ou letras.
     * **Faixa de peso**: limite inicial e final de peso que a transportadora aceita para o envio (considerando a tarifa de envio e o código postal). Esse campo deve ser preenchido por um número decimal. A unidade de peso (gramas, quilogramas, etc) deve ser a mesma utilizada no cadastro dos itens no catálogo (SKU). 
     * **Valor do frete**: tarifa fixa cobrada para a realização da entrega (considerando o código postal e o peso especificados). Esse campo deve ser preenchido com um valor decimal.
-    * **Valor adicional**: valor percentual do produto que será adicionado para o envio. Por exemplo, se o produto custa R$ 80,00 e o valor adicional é 1 então será somado ao valor final do frete R$ 0,80.<p>A porcentagem cadastrada se refere ao valor cheio do produto (valor do produto sem possíveis descontos). Esse campo deve ser preenchido com um número decimal.Por exemplo para adicionar um percentual de 
-23%, você pode preencher o campo com `23` ou `23,00`.</p>
+    * **Valor adicional**: valor percentual do produto que será adicionado para o envio. Por exemplo, se o produto custa R$ 80,00 e o valor adicional é 1 então será somado ao valor final do frete R$ 0,80.A porcentagem cadastrada se refere ao valor cheio do produto (valor do produto sem possíveis descontos). Esse campo deve ser preenchido com um número decimal.Por exemplo para adicionar um percentual de 
+23%, você pode preencher o campo com `23` ou `23,00`.
     * **Valor adicional por peso**: valor adicionado para cada unidade acima do limite inferior da faixa de peso. Esse campo deve ser preenchido com um número decimal.
     * **Volume cúbico máximo**: limite de volume aceito pela transportadora. Esse campo deve ser preenchido com um número decimal.
     * **Prazo de entrega**: prazo da transportadora para realização da entrega. Esse campo deve ser preenchido com um número natural.

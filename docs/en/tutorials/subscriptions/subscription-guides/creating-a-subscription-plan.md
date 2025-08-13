@@ -23,9 +23,7 @@ There are two possible ways to create a subscription plan. The **most recommende
 
 Another possibility is to create a [SKU attachment related to the subscription in the Catalog](#sku-attachment-in-the-catalog) module. SKU attachments are equivalent to subscription plans.
 
-<div class="alert alert-warning">
-  <p>For this reason, you should <strong>not</strong> create both. Otherwise, the plan will be duplicated.</p>
-</div>
+> ⚠️ For this reason, you should **not** create both. Otherwise, the plan will be duplicated.
 
 ## Creating a new plan in the Subscriptions module
 
@@ -37,9 +35,7 @@ Creating a new plan in the **Subscriptions** module is the most recommended opti
 4. Click on the [Associated Products](#associated-products) tab and select the products you want to associate with the subscription plan.
 5. Click on `Save`.
 
-<div class="alert alert-warning">
-  <p>By default, plans are saved as active, even if they do not have any associated products. Plans that do not have associated products are not available as an option for customers.</p>
-</div>
+> ⚠️ By default, plans are saved as active, even if they do not have any associated products. Plans that do not have associated products are not available as an option for customers.
 
 ### Settings
 
@@ -68,9 +64,7 @@ To delete a previously created frequency, click on the <i class="far fa-trash-al
 
 You can provide multiple frequency options on the same plan. In this case, you should click the `Add frequency` button again and repeat the process by filling in the fields with the new frequency information. This way, customers can choose the frequency they prefer.
 
-<div class="alert alert-warning">
-  <p>You cannot assign a validity period to the subscription plan in the <strong>Subscriptions</strong> module. Only subscription plans configured as SKU attachments in the <strong>Catalog</strong> module can have validity periods configured.</p>
-</div>
+> ⚠️ You cannot assign a validity period to the subscription plan in the **Subscriptions** module. Only subscription plans configured as SKU attachments in the **Catalog** module can have validity periods configured.
 
 ### Associated Products
 
@@ -91,7 +85,7 @@ On this page, you can perform the following actions:
 
 * **Select**: by clicking on the <i class="far fa-square"></i> in the row of each product, you can select products or SKUs individually. Another option is to click on the first <i class="far fa-square"></i> and select all the products and SKUs displayed on the page to add them to the subscription plan, as illustrated in the example below.
 
-![selecionarskus EN](//images.ctfassets.net/alneenqid6w5/3nBgV1SCLFqG92L1rOBXOX/f833322d9519810cbdd0d1b7e17e4551/selecionarskus_EN.gif)
+![selecionarskus EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/subscriptions/subscription-guides/creating-a-subscription-plan_1.gif)
 
 * <i class="fas fa-chevron-down"></i> __button__: displays the SKUs, i.e., product variations.
 * **Add**: click on this button to add products or SKUs to the subscription plan.

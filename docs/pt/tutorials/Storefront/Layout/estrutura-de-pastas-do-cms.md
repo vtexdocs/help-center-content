@@ -33,13 +33,11 @@ Estas são as pastas que toda loja precisa ter no CMS para garantir o correto fu
 
 Veja abaixo estas pastas básicas no CMS:
 
-![pastasObrigatorias](https://images.contentful.com/alneenqid6w5/2yLeJGvd48WcA6egy2kSSC/43e22907371f954df25d5fd7e5dd116b/pastasObrigatorias.png)
+![pastasObrigatorias](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Storefront/Layout/estrutura-de-pastas-do-cms_1.png)
 
 Estas pastas vêm por padrão no ambiente de todas as lojas VTEX.
 
-<div class="alert alert-danger">
-  <p>Os nomes das pastas obrigatórias <b>não</b> devem ser editados. Isso pode comprometer o funcionamento correto da loja e impedir que compras sejam realizadas.</p>
-</div>
+> ❗ Os nomes das pastas obrigatórias **não** devem ser editados. Isso pode comprometer o funcionamento correto da loja e impedir que compras sejam realizadas.
 
 Como as pastas se referem a páginas dinâmicas, seus nomes não aparecem na navegação do cliente. Ou seja, o fato de a edição dos nomes ser vetada não afeta o texto final das suas URLs nem, portanto, a internacionalização do seu site.
 
@@ -55,9 +53,7 @@ São elas:
 
 Para estas duas pastas, o que importa é o controle ou placeholder que lê o conteúdo delas. Os nomes delas podem ser livremente editados.
 
-<div class="alert alert-warning">
-Como são pastas privadas, <code>/account</code> e <code>/account/orders</code> <b>precisam requerer autenticação</b>. Veja <a href="http://help.vtex.com/pt/tutorial/exigir-autenticacao-em-paginas-da-loja">neste artigo</a> como garantir que elas estejam configuradas para pedir autenticação do usuário.
-</div>
+> ⚠️ Como são pastas privadas, `/account` e `/account/orders` **precisam requerer autenticação**. Veja [neste artigo](http://help.vtex.com/pt/tutorial/exigir-autenticacao-em-paginas-da-loja) como garantir que elas estejam configuradas para pedir autenticação do usuário.
 
 ## Pastas úteis
 

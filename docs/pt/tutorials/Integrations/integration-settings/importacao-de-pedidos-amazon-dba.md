@@ -15,9 +15,7 @@ locale: pt
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 ---
 
-<div class = "alert alert-info">
-A funcionalidade Importação de Pedidos Amazon DBA está disponível apenas para sellers VTEX Brasil.  
-</div>  
+> ℹ️ A funcionalidade Importação de Pedidos Amazon DBA está disponível apenas para sellers VTEX Brasil.  
 
 Existem três tipos de configuração logística para atender aos pedidos realizados na Amazon:
 
@@ -62,7 +60,7 @@ Após salvar as configurações, o DBA estará ativo na integração com a Amazo
 
 A cada compra finalizada, os pedidos correspondentes ao DBA aparecerão na aba __Pedidos > Todos pedidos__ do Admin VTEX. O sufixo **`_DBA`** aparecerá no ID de cada pedido do programa. Para prosseguir com a entrega, o pedido precisa ser faturado, conforme os passos descritos em [Faturar um pedido > Nota Fiscal](https://help.vtex.com/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/2WgQrlHTyVo4hLjhUs1LMT#nota-fiscal).  
 
-![pedido DBA](//downloads.ctfassets.net/alneenqid6w5/29NDtLCX5tVW7SzePTvuEG/32ab35230267fe61f772d9c60ea555e8/Pedidos.gif)
+![pedido DBA](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Integrations/integration-settings/importacao-de-pedidos-amazon-dba_1.gif)
 
 ### 3. Download de etiqueta  
 

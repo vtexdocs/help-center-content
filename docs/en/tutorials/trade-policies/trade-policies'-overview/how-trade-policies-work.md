@@ -60,9 +60,7 @@ You can limit access to the store to specific audiences, for example, a B2B site
 
 ## Account management
 
-<div class="alert alert-warning">
-If you have many sub-accounts, or physical store operations that offer in-store pickup or ship from store, creating multiple trade policies is not the best solution. We suggest creating new <a href="https://help.vtex.com/en/tutorial/o-que-e-store-name">store names</a> for each store within an <a href="https://help.vtex.com/en/tutorial/o-que-e-account-name">account</a>. 
-</div>
+> ⚠️ If you have many sub-accounts, or physical store operations that offer in-store pickup or ship from store, creating multiple trade policies is not the best solution. We suggest creating new [store names](https://help.vtex.com/en/tutorial/o-que-e-store-name) for each store within an [account](https://help.vtex.com/en/tutorial/o-que-e-account-name).
 
 Having too many trade policies in a VTEX environment slows down the process of indexing products and displaying them on your website, as well as simulating shipping rates at checkout, which might affect your order conversion rates. By segmenting the catalog based on multiple trade policies instead of creating store names with separate inventories, the store restricts its product offer, which leads to lost sales opportunities and worse delivery conditions. Learn more about [how to create a store name](https://help.vtex.com/en/tutorial/como-criar-um-store-name).
 

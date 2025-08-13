@@ -19,11 +19,11 @@ El escenario de autoservicio es la opción más flexible para B2B. Permite que e
 
 Este escenario tiene ventajas para el usuario, ya que le permite explorar el catálogo, el inventario y los precios con libertad, de acuerdo con su perfil de acceso. Además, el usuario puede ver información y realizar pedidos en cualquier momento, sin depender de ningún intermediario.
 
-<div class="alert alert-info" role="info">Si ya es un cliente B2C y desea configurar un escenario B2B, contacte a <a href="https://support.vtex.com/hc/pt-br/requests">nuestro Soporte</a>.</div>
+> ℹ️ Si ya es un cliente B2C y desea configurar un escenario B2B, contacte a [nuestro Soporte](https://support.vtex.com/hc/pt-br/requests).
 
 Una de las primeras decisiones que se deben tomar al estructurar una tienda B2B es decidir si la misma estará abierta o cerrada al público.
 
-Optar por una __tienda abierta al público__ significa que cualquier usuario puede visualizar todos los productos. Esta opción es muy útil para quien desea construir una referencia para su propio sitio web y cumplir con todas las reglas de SEO centradas en el <i>ecommerce</i>.  
+Optar por una __tienda abierta al público__ significa que cualquier usuario puede visualizar todos los productos. Esta opción es muy útil para quien desea construir una referencia para su propio sitio web y cumplir con todas las reglas de SEO centradas en el *ecommerce*.  
 
 Usualmente, las empresas que eligen este escenario son los fabricantes de un determinado producto, ya que tienen las referencias y los contenidos (ej.: imágenes y descripciones) de cada uno de los productos que producen.
 
@@ -64,13 +64,13 @@ Este documento se crea de acuerdo con sus necesidades. La información básica y
 
 | Contexto               | Funcionamiento de la tienda                                                                                                                                                                                    |
 |------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Canal de ventas        | A menudo se toma la decisión de potenciar un canal de ventas en particular. Por ejemplo, una industria se puede enfocar en crear una plataforma de <i>ecommerce </i>B2B para atender a sus distribuidores, revendedores y algunas empresas de porte grande.                                                                                |
+| Canal de ventas        | A menudo se toma la decisión de potenciar un canal de ventas en particular. Por ejemplo, una industria se puede enfocar en crear una plataforma de *ecommerce *B2B para atender a sus distribuidores, revendedores y algunas empresas de porte grande.                                                                                |
 | Cuestiones legales        | Hay empresas que solo venden sus productos a clientes que actúan como revendedores. Esto sucede, principalmente, en los casos en que los productos tienen muchas especificaciones técnicas, por ejemplo. En este caso, el revendedor debe estar muy familiarizado con las características de los productos, incluso puede actuar como asesor en el momento de la venta y ayudar en la instalación de tales productos.                                                                                                                                                          |
 | Ubicación geográfica | En un inicio, una operación puede atender solo determinadas regiones para facilitar su control operativo y logístico. |
 
-En el escenario B2B, normalmente se utiliza información básica como nombre, <i>email</i>, teléfono, calle, barrio y ciudad. Puede usar un formulario para recabar esta información. 
+En el escenario B2B, normalmente se utiliza información básica como nombre, *email*, teléfono, calle, barrio y ciudad. Puede usar un formulario para recabar esta información. 
 
-<div class="alert alert-danger" role="alert">El campo utilizado como regla condicional en la política comercial <strong>nunca podrá formar parte del formulario</strong>, ya que el usuario no puede realizar su propia aprobación, esa es una responsabilidad de la tienda. </div>
+> ❗ El campo utilizado como regla condicional en la política comercial **nunca podrá formar parte del formulario**, ya que el usuario no puede realizar su propia aprobación, esa es una responsabilidad de la tienda.
 
 En VTEX, los formularios se crean a través de [Master Data](https://help.vtex.com/pt/tutorial/o-que-e-o-master-data--4otjBnR27u4WUIciQsmkAw "Master Data") —base de datos de la tienda— que almacena la información de la base de clientes de la tienda organizando los datos recibidos a través de los formularios en campos agrupados en diferentes entidades. 
 
@@ -82,10 +82,10 @@ Para crear un formulario:
 
 De esta forma, cuando un cliente complete el formulario, sus datos se incluirán en la tabla de clientes de Master Data.
 
-<div class="alert alert-info" role="info">Puede optar por crear un formulario con más recursos, tales como introducción automática del código postal, pestañas múltiples o la validación de la CNAE (Clasificación Nacional de Actividades Económicas). Si opta por este tipo de formulario, revise la documentación técnica de <a href="https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-creating-a-new-custom-page">VTEX IO</a>.</div>
+> ℹ️ Puede optar por crear un formulario con más recursos, tales como introducción automática del código postal, pestañas múltiples o la validación de la CNAE (Clasificación Nacional de Actividades Económicas). Si opta por este tipo de formulario, revise la documentación técnica de [VTEX IO](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-creating-a-new-custom-page).
 
 ### Aprobación de usuarios
-La aprobación de los usuarios, así como el registro, se realiza en [Master Data](https://help.vtex.com/pt/tutorial/o-que-e-o-master-data--4otjBnR27u4WUIciQsmkAw "Master Data"). Corresponde a los responsables de la gestión del <i>ecommerce</i> aprobar el acceso de los clientes al contenido de la tienda. 
+La aprobación de los usuarios, así como el registro, se realiza en [Master Data](https://help.vtex.com/pt/tutorial/o-que-e-o-master-data--4otjBnR27u4WUIciQsmkAw "Master Data"). Corresponde a los responsables de la gestión del *ecommerce* aprobar el acceso de los clientes al contenido de la tienda. 
 
 Para aprobar el acceso de los clientes a la tienda, es necesario que apruebe cada uno de los clientes que se registraron al completar el formulario. La aprobación se puede realizar a través del Admin o vía API.
 
@@ -95,15 +95,15 @@ La exhibición de los productos de la tienda para determinados grupos de usuario
 
 En esta configuración, debe seleccionar los productos que se asociarán a la política comercial destinada al contexto B2B. En VTEX, puede asociar SKUs de forma individual por medio del Admin o en masa a través de la [API de Catálogo](https://developers.vtex.com/vtex-developer-docs/reference/catalog-api-overview "API de Catálogo").
 
-<div class="alert alert-info" role="info">La configuración de SKUs vía <a href="https://developers.vtex.com/vtex-developer-docs/reference/catalog-api-overview">API de Catálogo</a> —asociación o creación en masa o de forma individual— se recomienda para empresas que ya tienen una operación de <i>ecommerce </i>madura y que cuentan con una área de <i>ecommerce</i> propia que gestiona y mantiene el catálogo de productos existente. Toda esa infraestructura permite la importación de todo el catálogo con todas las configuraciones actuales mediante la <a href="https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide">integración con el ERP</a>.</div>
+> ℹ️ La configuración de SKUs vía [API de Catálogo](https://developers.vtex.com/vtex-developer-docs/reference/catalog-api-overview) —asociación o creación en masa o de forma individual— se recomienda para empresas que ya tienen una operación de *ecommerce *madura y que cuentan con una área de *ecommerce* propia que gestiona y mantiene el catálogo de productos existente. Toda esa infraestructura permite la importación de todo el catálogo con todas las configuraciones actuales mediante la [integración con el ERP](https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide).
 
 ### Configuración de la estrategia de logística
 
 La configuración de la logística se debe realizar por medio de la política comercial, tal y como se efectúa con el catálogo.  
 
-Se necesita asociar la política comercial configurada para el escenario B2B con las estrategias de envío relacionadas con la logística del <i>ecommerce</i>, incluyendo las estrategias de envío/transportadoras, los muelles y los <i>stocks</i>.
+Se necesita asociar la política comercial configurada para el escenario B2B con las estrategias de envío relacionadas con la logística del *ecommerce*, incluyendo las estrategias de envío/transportadoras, los muelles y los *stocks*.
 
-Usted puede configurar estrategias de envío, muelles y <i>stocks</i> a través de la [API de Logística](https://developers.vtex.com/vtex-developer-docs/reference/logistics-api-overview "API de Logísitica") o a través del [Admin](https://help.vtex.com/pt/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx "Admin").
+Usted puede configurar estrategias de envío, muelles y *stocks* a través de la [API de Logística](https://developers.vtex.com/vtex-developer-docs/reference/logistics-api-overview "API de Logísitica") o a través del [Admin](https://help.vtex.com/pt/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx "Admin").
 
 Cuando se configura a través del Admin, se necesita:
 
@@ -111,11 +111,11 @@ Cuando se configura a través del Admin, se necesita:
 
 2. __Asociar una transportadora al muelle elegido__\: esta asociación se realiza completando el campo Políticas de envío relacionadas que se muestra en la pantalla de registro/edición del muelle en el cual debe seleccionar la política comercial configurada para el escenario B2B. En caso de que no hayan transportadoras registradas en su tienda, deberá [registrar una transportadora](https://help.vtex.com/pt/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/55MezrFTw2limlgT7KUg6l "registrar una transportadora").
 
-3. __Definir un <i>stock</i> y asociarlo al muelle__\: esta asociación se realiza a través de la selección del muelle deseado en la pantalla de registro/edición de <i>stocks. </i>En caso de que no hayan <i>stocks</i> registrados en su tienda, deberá [registrar un <i>stock</i>](https://help.vtex.com/pt/tutorial/gerenciar-estoque "registrar un {i>stock<i}"). 
+3. __Definir un *stock* y asociarlo al muelle__\: esta asociación se realiza a través de la selección del muelle deseado en la pantalla de registro/edición de *stocks. *En caso de que no hayan *stocks* registrados en su tienda, deberá [registrar un *stock*](https://help.vtex.com/pt/tutorial/gerenciar-estoque "registrar un {i>stock<i}"). 
 
-Cuando se efectúa la configuración a través de la [API de Logística](https://developers.vtex.com/vtex-developer-docs/reference/logistics-api-overview "API de Logística"), se deben realizar los mismos pasos. Por tanto, puede utilizar el endpoint <code>[Post Create/Update Dock](https://developers.vtex.com/vtex-developer-docs/reference/docks#createupdatedock "POST Create/Update Dock")</code> para asociar la política comercial al muelle, así como para asociar la transportadora al muelle completando los parámetros `salesChannels` y `freightTableIds`, respectivamente.  
+Cuando se efectúa la configuración a través de la [API de Logística](https://developers.vtex.com/vtex-developer-docs/reference/logistics-api-overview "API de Logística"), se deben realizar los mismos pasos. Por tanto, puede utilizar el endpoint `[Post Create/Update Dock](https://developers.vtex.com/vtex-developer-docs/reference/docks#createupdatedock "POST Create/Update Dock")` para asociar la política comercial al muelle, así como para asociar la transportadora al muelle completando los parámetros `salesChannels` y `freightTableIds`, respectivamente.  
 
-La asociación del <i>stock</i> al muelle, por su parte, se realiza a través del parámetro `warehouseDock` del endpoint <code>[POST Create/Update Warehouse](https://developers.vtex.com/vtex-developer-docs/reference/warehouses#createupdatewarehouse "POST Create/Update Warehouse")</code>.
+La asociación del *stock* al muelle, por su parte, se realiza a través del parámetro `warehouseDock` del endpoint `[POST Create/Update Warehouse](https://developers.vtex.com/vtex-developer-docs/reference/warehouses#createupdatewarehouse "POST Create/Update Warehouse")`.
 
 ### Configuración de precios
 
@@ -125,7 +125,7 @@ La configuración de precios se realiza a través de [tablas de precios](https:/
 2. Editar la configuración de la plantilla de precios.
 3. Importar la plantilla de precios configurada.
 
-También puede crear y editar tablas de precios a través del endpoint <code>[POST Create/Edit Fixed Prices on a price table (or trade policy)](https://developers.vtex.com/vtex-developer-docs/reference/prices-and-fixed-prices#createeditfixedpricesonapricetableortradepolicy "POST Create/Edit Fixed Prices on a price table (or trade policy)")</code>.
+También puede crear y editar tablas de precios a través del endpoint `[POST Create/Edit Fixed Prices on a price table (or trade policy)](https://developers.vtex.com/vtex-developer-docs/reference/prices-and-fixed-prices#createeditfixedpricesonapricetableortradepolicy "POST Create/Edit Fixed Prices on a price table (or trade policy)")`.
 
 ### Configuración de medios de pago
 
@@ -135,7 +135,7 @@ La gestión de crédito es un recurso versátil y, por eso, se utiliza en difere
 
 En VTEX, los administradores de tiendas pueden utilizar [Customer Credit](https://help.vtex.com/pt/tutorial/customer-credit-visao-geral--1uIqTjWxIIIEW0COMg4uE0 "Customer Credit"), una aplicación en la que pueden ofrecer y administrar los créditos que conceden a sus clientes. Para instalar la aplicación, consulte el paso a paso completo en el artículo [Instalar Customer Credit](https://help.vtex.com/pt/tracks/customer-credit-como-comecar--1hCRg21lXYy2seOKgqQ2CC/36grlQ69NK6OCuioeekyCs "Instalar Customer Credit").
 
-<div class="alert alert-info" role="info">Los medios de pago convencionales, como tarjeta de crédito, tarjeta de débito y boleto bancario (disponible en Brasil), también se pueden configurar para el contexto B2B. La gestión de crédito es el método más utilizado por los clientes.</div>
+> ℹ️ Los medios de pago convencionales, como tarjeta de crédito, tarjeta de débito y boleto bancario (disponible en Brasil), también se pueden configurar para el contexto B2B. La gestión de crédito es el método más utilizado por los clientes.
 
 Después de instalar la aplicación en su tienda, debe configurar Customer Credit como un medio de pago disponible.  De esta manera, sus clientes podrán finalizar las compras utilizando el crédito concedido. Para realizar la configuración, lea el tutorial [cómo configurar Customer Credit como condición de pago](https://help.vtex.com/pt/tracks/customer-credit-como-comecar--1hCRg21lXYy2seOKgqQ2CC/21ok0GBwmcIeaY2IukYMOg#condicoes-de-pagamento "cómo configurar Customer Credit como condición de pago"). 
 
@@ -170,8 +170,8 @@ Para obtener más detalles sobre el protocolo, consulte la siguiente documentaci
 
  [VTEX Intelligent Search](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb "VTEX Intelligent Search") es una aplicación de búsqueda que ayuda a los clientes en la jornada de compra sugiriendo productos relacionados con su perfil. 
 
-En el contexto B2B, VTEX Intelligent Search es un recurso esencial que puede ser aprovechado en la búsqueda de ítems por medio de su <i>part number</i> (código referente al modelo de producto). 
+En el contexto B2B, VTEX Intelligent Search es un recurso esencial que puede ser aprovechado en la búsqueda de ítems por medio de su *part number* (código referente al modelo de producto). 
 
 Además, es un recurso que aporta otros beneficios para este contexto, como el registro de sinónimos y el cambio de relevancia de las palabras clave, por ejemplo.
 
-Esta aplicación se puede incorporar a su <i>ecommerce </i>mediante la configuración de VTEX IO. Puede ver el paso a paso en la guía [cómo configurar VTEX Intelligence Search](https://vtex.io/docs/app/vtex.search@2.4.0/ "cómo configurar VTEX Intelligence Search").
+Esta aplicación se puede incorporar a su *ecommerce *mediante la configuración de VTEX IO. Puede ver el paso a paso en la guía [cómo configurar VTEX Intelligence Search](https://vtex.io/docs/app/vtex.search@2.4.0/ "cómo configurar VTEX Intelligence Search").

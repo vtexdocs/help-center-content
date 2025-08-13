@@ -15,9 +15,7 @@ locale: es
 subcategoryId: pwxWmUu7T222QyuGogs68
 ---
 
-<div class = "alert alert-warning">
-  <p>Este tutorial solo es válido para tiendas CMS Portal Legado.</p>
-</div>
+> ⚠️ Este tutorial solo es válido para tiendas CMS Portal Legado.
 
 La comparación de productos es una función nativa de VTEX que permite mostrar en paralelo los detalles y especificaciones de productos previamente seleccionados, lo que permite al usuario comparar los productos de la tienda de forma sencilla y visualizar fácilmente las diferencias entre sus especificaciones.
 
@@ -26,9 +24,7 @@ La configuración debe realizarse en dos pasos:
 - [**Página de comparación**](#pagina-de-comparacion): lugar en que el usuario visualiza la comparación de los productos seleccionados en la vitrina.
 - [**Vitrina**](#vitrina): lugar en que el usuario selecciona los productos para comparar.
 
-<div class = "alert alert-warning">
-  <p>La comparación de productos no funciona en la página de inicio de la tienda.</p>
-</div>
+> ⚠️ La comparación de productos no funciona en la página de inicio de la tienda.
 
 ## Instrucciones
 
@@ -51,7 +47,7 @@ Donde `ShelfLayoutId` es el`Id` de la plantilla de estantería de productos crea
   - En el campo `Folder Name`, asigna un nombre a la carpeta y haz clic en `OK`.
   - Haz clic en `Save Folder`.
 
-       ![new-folder-es](//images.ctfassets.net/alneenqid6w5/7lAM8DDROFdPxQYaZoRRzk/529308c689d83e608a69cda7dada1d66/new-folder-es.gif)
+       ![new-folder-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Catalog/products-and-skus/configurando-a-comparacao-de-produtos_1.gif)
 
 4. Crea un layout predeterminado:
   - Abre la carpeta creada en el paso anterior.
@@ -59,12 +55,10 @@ Donde `ShelfLayoutId` es el`Id` de la plantilla de estantería de productos crea
   - En el campo `Template`, vincula la plantilla de página creada en el paso 2 a la carpeta. Más información en [Asociar un template con un layout](https://help.vtex.com/pt/tutorial/associando-um-template-a-um-layout--7CkgOHRj7DVbsRxyR8YQrK).
   - Haz clic en `Save Layout` y después en `OK`.
 
-       ![new-layout-es](//images.ctfassets.net/alneenqid6w5/4krTQkJzqQRbgWJrtlftgJ/13b559a0903d39bafc772ddf14060ae4/new-layout-es.gif)
+       ![new-layout-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Catalog/products-and-skus/configurando-a-comparacao-de-produtos_2.gif)
 
 ### Vitrina
 
 Para que los productos se muestren con la opción de comparación (casilla), asigna el control `$product.Compare`a las plantillas de estantería de productos que deseas incluir en este recurso. Este control mostrará una casilla para que el usuario pueda escoger los productos que desea comparar. Además, el control mostrará el link **Comparar** en el header y footer de la lista de productos. El usuario utilizará este link después de la selección y se le redirigirá a la página de comparación.
 
-<div class = "alert alert-warning">
-  <p>Solo se pueden comparar 4 productos a la vez.</p>
-</div>
+> ⚠️ Solo se pueden comparar 4 productos a la vez.

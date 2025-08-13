@@ -35,11 +35,9 @@ A continuación, se describe la experiencia de compra de un cliente, además de 
 
 Siempre que el cliente realiza un cambio en el carrito (agrega o elimina ítems), o cuando se actualiza la pantalla del checkout, se ejecuta la siguiente cadena de procesos internos en el módulo Checkout.
 
-![Checkout overview](//images.ctfassets.net/alneenqid6w5/6U3DBHywYW2RnlM94QQFg5/435f909fb3e5493329a6a76fcb398134/Checkout_Overview_ES.png)
+![Checkout overview](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Checkout/checkout-overview/checkout-vtex-vista-general_1.png)
 
-<div class="alert alert-info">
-Si un <a href="https://help.vtex.com/es/tutorial/definicoes-de-conta-franquia-e-seller-white-label--5orlGHyDHGAYciQ64oEgKa#">Seller white label</a>, puede entregar uno o más ítems de los que eligió el cliente, se realizarán simulaciones (tal como se muestra a la derecha de la imagen) para determinar qué sellers serán los responsables de entregar los ítems. Obtén más información en <a href="https://help.vtex.com/es/tutorial/white-label-sellers-selection--3MemNQ4pKkWCpMdzI27AHa#">Selección de sellers white label</a>.
-</div>
+> ℹ️ Si un [Seller white label](https://help.vtex.com/es/tutorial/definicoes-de-conta-franquia-e-seller-white-label--5orlGHyDHGAYciQ64oEgKa#), puede entregar uno o más ítems de los que eligió el cliente, se realizarán simulaciones (tal como se muestra a la derecha de la imagen) para determinar qué sellers serán los responsables de entregar los ítems. Obtén más información en [Selección de sellers white label](https://help.vtex.com/es/tutorial/white-label-sellers-selection--3MemNQ4pKkWCpMdzI27AHa#).
 
 ## Funcionalidades del módulo Checkout de VTEX
 
@@ -55,8 +53,6 @@ Entre las principales funcionalidades disponibles en el módulo Checkout de VTEX
 
 Actualmente, hay dos versiones operativas del módulo Checkout de VTEX: **Checkout v5** y **Checkout v6**.
 
-<div class="alert alert-info">
-  La versión <b>Checkout v5</b> ya no recibe actualizaciones ni soporte operativo directo. Es precisamente por esto que te recomendamos usar la versión <b>Checkout v6</b> en tu tienda.
-</div>
+> ℹ️ La versión **Checkout v5** ya no recibe actualizaciones ni soporte operativo directo. Es precisamente por esto que te recomendamos usar la versión **Checkout v6** en tu tienda.
 
 Para más información sobre las configuraciones y las API del módulo Checkout, accede a [Checkout Overview no Developer Portal](https://developers.vtex.com/vtex-rest-api/docs/checkout-overview).

@@ -30,15 +30,13 @@ Una vez que hayas definido tu proveedor, para elegir cualquiera de las condicion
 
 Además, hay la posibilidad de definir si el pago será al contado o en cuotas, con o sin intereses y las condiciones especiales.
 
-<div class="alert alert-warning">
- Cualquier cambio en las condiciones de pago puede llevar hasta 10 minutos en aparecer en el checkout de su tienda.
-</div>
+> ⚠️ Cualquier cambio en las condiciones de pago puede llevar hasta 10 minutos en aparecer en el checkout de su tienda.
 
 En los pasos siguientes, utilizaremos la tarjeta de crédito como ejemplo de condición de pago.
 
 ### Al contado
 
-![pagamento-a-vista es](//images.ctfassets.net/alneenqid6w5/16U7FyAeXiC88gWCwkKmSU/e4b130c50f632f7bb341675c3d69f5bb/pagamento_a_vista_es.png)
+![pagamento-a-vista es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/payment-settings/condiciones-de-pago_1.png)
 
 1. En el Admin VTEX, accede a __Configuración de la tienda > Pago > Configuración__, o escribe __Configuración__ en la barra de búsqueda en la parte superior de la página.
 2. En la pestana __Condiciones de pago__, haga clic en el botón __+__.
@@ -50,13 +48,11 @@ En los pasos siguientes, utilizaremos la tarjeta de crédito como ejemplo de con
 8. En el campo __Pago al contado o en cuotas?__, seleccione __Al contado__.
 9. Haga clic en __Guardar__.
 
-<div class="alert alert-info">
-En el Paso 5. puede elegir otros métodos de pago como tarjetas de débito, cobranded, privado, pagarés, boletos, PIX, entre otros.
-</div>
+> ℹ️ En el Paso 5. puede elegir otros métodos de pago como tarjetas de débito, cobranded, privado, pagarés, boletos, PIX, entre otros.
 
 ### En cuotas sin interés
 
-![parcelamento-sem-juros es](//images.ctfassets.net/alneenqid6w5/5UuCXeD07moeaQiqqmuCMe/841c2830d1a8f031c3c0cbf716bcc4c5/pagamento_sem_juros_es.png)
+![parcelamento-sem-juros es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/payment-settings/condiciones-de-pago_2.png)
 
 1. En el Admin VTEX, accede a __Configuración de la tienda > Pago > Configuración__, o escribe __Configuración__ en la barra de búsqueda en la parte superior de la página.
 2. En la pestana __Condiciones de pago__, haga clic en el botón __+__.
@@ -73,7 +69,7 @@ En el Paso 5. puede elegir otros métodos de pago como tarjetas de débito, cobr
 
 ### En cuotas con interés
 
-![parcelamento-com-juros es](//images.ctfassets.net/alneenqid6w5/46wBJ8tCUgCaWmAyOgkycY/37586fac3ee5495ab4be1e2aaa6eb733/pagamento_com_juros_es.png)
+![parcelamento-com-juros es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/payment-settings/condiciones-de-pago_3.png)
 
 1. En el Admin VTEX, accede a __Configuración de la tienda > Pago > Configuración__, o escribe __Configuración__ en la barra de búsqueda en la parte superior de la página.
 2. En la pestana __Condiciones de pago__, haga clic en el botón __+__.
@@ -91,7 +87,7 @@ En el Paso 5. puede elegir otros métodos de pago como tarjetas de débito, cobr
 14. Para elegir entre interés compuesto e interés simple, haga clic en __Se aplicó el interés compuesto. Cambiar__. Aparecerá una casilla de verificación que ofrece ambas opciones.
 15. Haga clic en __Guardar__.
 
-![Juros - es](//images.ctfassets.net/alneenqid6w5/6LByLxJORIELFs7gTY3kmA/93f4c4c2accb7c5a0efa08b31452b9fb/juros_es.png)
+![Juros - es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/payment-settings/condiciones-de-pago_4.png)
 
 ## Remover condición de pago
 
@@ -99,4 +95,4 @@ En el Paso 5. puede elegir otros métodos de pago como tarjetas de débito, cobr
 2. En la pestana __Condiciones de pago__, haga clic en el condición de pago que desea eliminar.
 3. Haga clic en el icono de la papelera.
 
-![Remover condición de pago](//images.ctfassets.net/alneenqid6w5/30AGmwCJOclqEqvcNPzuxV/76f4023f4e0262ebaefa8318e46330b3/remover_condicion_pago.png)
+![Remover condición de pago](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/payment-settings/condiciones-de-pago_5.png)

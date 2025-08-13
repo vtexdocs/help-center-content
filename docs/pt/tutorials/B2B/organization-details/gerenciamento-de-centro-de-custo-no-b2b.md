@@ -25,27 +25,27 @@ Para adicionar um novo centro de custo, siga estes passos:
 <ol>
   <li>Clique sobre o nome da organização.</li>
   <li>Clique na aba Centros de Custo.</li>
-  <li>Clique em <code>Novo</code>.</li>
+  <li>Clique em `Novo`.</li>
   <li>
     Preencha os campos necessários sobre o centro de custo, conforme as informações abaixo:
     <ul>
-      <li><strong>Nome</strong>: nome do centro de custo associado à organização.</li>
-      <li><strong>Número de telefone</strong>: número de telefone para contato com a organização.</li>
-      <li><strong>Documento comercial</strong>: CNPJ, número de identificação fiscal, número do IVA ou outro documento.</li>
-      <li><strong>Inscrição estadual</strong>: número de registro da empresa.</li>
-      <li><strong>País</strong>: país onde o centro de custo está localizado.</li>
-      <li><strong>CEP</strong>: código postal do endereço do centro de custo.</li>
-      <li><strong>Endereço</strong>: nome da rua onde o centro de custo está localizado.</li>
-      <li><strong>Número</strong>: número do endereço onde o centro de custo está localizado.</li>
-      <li><strong>Complemento e referência</strong>: informação que possa complementar o endereço do centro de custo.</li>
-      <li><strong>Bairro</strong>: nome do bairro onde o centro de custo está localizado.</li>
-      <li><strong>Cidade</strong>: cidade onde o centro de custo está localizado. Esse campo é preenchido automaticamente com base no CEP informado.</li>
-      <li><strong>Estado</strong>: estado onde o centro de custo está localizado. Isso é preenchido automaticamente com base no CEP informado.</li>
-      <li><strong>Destinatário</strong>: nome da pessoa que receberá os pedidos no endereço informado.</li>
+      <li>**Nome**: nome do centro de custo associado à organização.</li>
+      <li>**Número de telefone**: número de telefone para contato com a organização.</li>
+      <li>**Documento comercial**: CNPJ, número de identificação fiscal, número do IVA ou outro documento.</li>
+      <li>**Inscrição estadual**: número de registro da empresa.</li>
+      <li>**País**: país onde o centro de custo está localizado.</li>
+      <li>**CEP**: código postal do endereço do centro de custo.</li>
+      <li>**Endereço**: nome da rua onde o centro de custo está localizado.</li>
+      <li>**Número**: número do endereço onde o centro de custo está localizado.</li>
+      <li>**Complemento e referência**: informação que possa complementar o endereço do centro de custo.</li>
+      <li>**Bairro**: nome do bairro onde o centro de custo está localizado.</li>
+      <li>**Cidade**: cidade onde o centro de custo está localizado. Esse campo é preenchido automaticamente com base no CEP informado.</li>
+      <li>**Estado**: estado onde o centro de custo está localizado. Isso é preenchido automaticamente com base no CEP informado.</li>
+      <li>**Destinatário**: nome da pessoa que receberá os pedidos no endereço informado.</li>
     </ul>
   </li>
-  <li>Clique no botão <code>Adicionar</code>.</li>
-  <li>Clique em <code>Salvar</code> no canto superior direito da página após realizar qualquer alteração.</li>
+  <li>Clique no botão `Adicionar`.</li>
+  <li>Clique em `Salvar` no canto superior direito da página após realizar qualquer alteração.</li>
 </ol>
 
 ## Detalhes do centro de custo
@@ -78,22 +78,22 @@ Para editar ou excluir um endereço existente, clique nos <i class="fas fa-ellip
 Se deseja adicionar um novo endereço de entrega relacionado a esse centro de custo, siga estas instruções:
 
 <ol>
-  <li>Clique no botão <code>Adicionar novo endereço</code>.</li>
+  <li>Clique no botão `Adicionar novo endereço`.</li>
   <li>
     Preencha as informações necessárias sobre o novo endereço:
     <ul>
-      <li><strong>País</strong>: país onde o centro de custo está localizado.</li>
-      <li><strong>CEP</strong>: código postal do endereço do centro de custo.</li>
-      <li><strong>Endereço</strong>: nome da rua onde o centro de custo está localizado.</li>
-      <li><strong>Complemento e referência</strong>: informação que possa complementar o endereço do centro de custo.</li>
-      <li><strong>Cidade</strong>: cidade onde o centro de custo está localizado. Isso é preenchido automaticamente com base no código postal informado.</li>
-      <li><strong>Estado</strong>: estado onde o centro de custo está localizado. Isso é preenchido automaticamente com base no código postal informado.</li>
-      <li><strong>Destinatário</strong>: nome da pessoa que receberá os pedidos no endereço informado.</li>
+      <li>**País**: país onde o centro de custo está localizado.</li>
+      <li>**CEP**: código postal do endereço do centro de custo.</li>
+      <li>**Endereço**: nome da rua onde o centro de custo está localizado.</li>
+      <li>**Complemento e referência**: informação que possa complementar o endereço do centro de custo.</li>
+      <li>**Cidade**: cidade onde o centro de custo está localizado. Isso é preenchido automaticamente com base no código postal informado.</li>
+      <li>**Estado**: estado onde o centro de custo está localizado. Isso é preenchido automaticamente com base no código postal informado.</li>
+      <li>**Destinatário**: nome da pessoa que receberá os pedidos no endereço informado.</li>
     </ul>
   </li>
-  <li>Clique no botão <code>Adicionar</code>.</li>
-  <li>Clique em <code>Salvar</code> no canto superior direito da página após realizar qualquer alteração.</li>
-  <li>Clique em <code>Excluir</code> para remover o centro de custo.</li>
+  <li>Clique no botão `Adicionar`.</li>
+  <li>Clique em `Salvar` no canto superior direito da página após realizar qualquer alteração.</li>
+  <li>Clique em `Excluir` para remover o centro de custo.</li>
 </ol>
 
 #### Campos personalizados

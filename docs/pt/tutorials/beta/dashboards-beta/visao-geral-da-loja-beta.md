@@ -15,15 +15,13 @@ locale: pt
 subcategoryId: QPnz120TdtLcXSh65c4Gs
 ---
 
-<div class="alert alert-info"> 
-A versão atualizada da página Visão Geral da Loja (Beta) está disponível para uso gratuito no Admin VTEX durante seu período Beta, ou até decidido pela VTEX. É importante observar que podem ser aplicadas taxas extras no futuro. Além disso, a página Visão Geral atualmente presente no Admin VTEX continuará disponível para uso por enquanto.
-</div>
+> ℹ️ A versão atualizada da página Visão Geral da Loja (Beta) está disponível para uso gratuito no Admin VTEX durante seu período Beta, ou até decidido pela VTEX. É importante observar que podem ser aplicadas taxas extras no futuro. Além disso, a página Visão Geral atualmente presente no Admin VTEX continuará disponível para uso por enquanto.
 
 A página Visão Geral (Beta) em seu Admin VTEX fornece um acompanhamento em tempo real da sua operação no dia atual, oferecendo visibilidade sobre indicadores para que você e sua equipe tenham um feedback rápido das ações realizadas na loja e possam atuar prontamente em melhorias. 
 
 Essa ferramenta está disponível no Admin VTEX, na página de início. Para acessá-la, clique em **Dashboards > Visão Geral** no menu de navegação, ou digite _Visão Geral_ na barra de busca no topo da página.
 
-![PT Visão geral Beta](//images.ctfassets.net/alneenqid6w5/5C2Na8YDkwgIsMHqp28oGv/62aceefab415f246a39fcd604a89f080/PT_Visa__o_geral_Beta.png)
+![PT Visão geral Beta](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/dashboards-beta/visao-geral-da-loja-beta_1.png)
 
 Neste artigo, apresentamos as principais seções e ações presentes na página. Saiba mais sobre:
 
@@ -38,9 +36,7 @@ Neste artigo, apresentamos as principais seções e ações presentes na página
 
 As métricas da página incluem dados sobre pedidos e navegação, que são captados de sistemas diferentes.
 
-<div class ="alert alert-warning">
-É provável que existam diferenças entre as métricas de receita e ticket médio registradas no OMS e no Performance de Vendas, por exemplo. Isso ocorre porque o Performance de Vendas considera o valor dos itens, enquanto o OMS também considera os descontos, frete, taxas e promoções sobre o pedido - o que pode aumentar ou diminuir seu valor final. 
-</div>
+> ⚠️ É provável que existam diferenças entre as métricas de receita e ticket médio registradas no OMS e no Performance de Vendas, por exemplo. Isso ocorre porque o Performance de Vendas considera o valor dos itens, enquanto o OMS também considera os descontos, frete, taxas e promoções sobre o pedido - o que pode aumentar ou diminuir seu valor final.
 
 * **Pedidos e receitas:** os dados sobre pedidos e receitas vêm do OMS, ou Sistema de Gerenciamento de Pedidos da VTEX e incluem pedidos realizados em todos os seus canais de venda.
 * **Sessões:** os dados de navegação vêm do sistema interno da plataforma que capta sessões dos usuários no storefront de lojas VTEX. Sessões são representadas pelo conjunto de visualizações das páginas acessadas por um mesmo usuário  ao navegar em seu ecommerce, desconsiderando marketplaces, apps, Sales App e qualquer outro canal de venda.
@@ -65,9 +61,7 @@ Os dados da página são atualizados com frequências diferentes. Os gráficos n
 | Resultados financeiros | - [Receita captada](#monitoramento) <br>- [Ticket Médio](#metricas)<br>- [Produtos com maior receita](#metricas)                                                                                                                                                                                                                         |
 | Conversão              | - [Taxa de Conversão](#metricas) <br>- [Funil de vendas](#funil-de-vendas) <br>- [Pedidos captados](#monitoramento), comparando com o número de Pedidos cancelados. Dependendo do resultado, isso pode direcionar sua equipe a identificar problemas operacionais no fulfillment ou atendimento ao consumidor que causaram os pedidos cancelados. |
 
-<div class="alert alert-info"> 
-Note que enquanto os gráficos em Monitoramento são atualizados em até três minutos, as Métricas são atualizadas de quinze em quinze minutos, o que pode influenciar a sua análise de resultados. Saiba mais em <a href="#atualizacao-de-dados">Atualização de dados</a>.
-</div>
+> ℹ️ Note que enquanto os gráficos em Monitoramento são atualizados em até três minutos, as Métricas são atualizadas de quinze em quinze minutos, o que pode influenciar a sua análise de resultados. Saiba mais em [Atualização de dados](#atualizacao-de-dados).
 
 ### Analisar resultados de campanhas
 
@@ -78,7 +72,7 @@ Caso deseje analisar os resultados gerados por campanhas, promoções ou lançam
 3. Selecione a [visualização](#visualizacao) `Acumulada`.
 4. Acompanhe a performance hora a hora das métricas.
 
-![PT visão geral acumulado](//images.ctfassets.net/alneenqid6w5/44wg1PRlF5WHD5I6R5Cu8o/93f86ef067d3c7630ba6b545a8811a8b/PT_visa__o_geral_acumulado.png)
+![PT visão geral acumulado](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/dashboards-beta/visao-geral-da-loja-beta_2.png)
 
 ### Acompanhar impactos de mudanças na loja
 
@@ -91,7 +85,7 @@ Caso deseje ver o impacto de mudanças feitas na loja, para identificar um poss�
 3. Avalie o pulso nas métricas, ou pontos de inflexão no gráfico, ocorridos nas últimas duas horas. 
 4. Compare os horários dos pontos de inflexão, com as mudanças geradas para identificar sua causa e impacto. 
 
-![PT visão geral últimas duas horas](//images.ctfassets.net/alneenqid6w5/6JA6a85eBz6dMN5Cg1EAQi/a069a0657d521f68a7be3a4221b70036/PT_visa__o_geral_u__ltimas_duas_horas.png)
+![PT visão geral últimas duas horas](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/dashboards-beta/visao-geral-da-loja-beta_3.png)
 
 ## Comparar períodos
 
@@ -134,7 +128,7 @@ A tabela abaixo descreve os gráficos incluídos na seção _Monitoramento_ da p
 
 ## Métricas
 
-![PT métricas](//images.ctfassets.net/alneenqid6w5/6kxOvmmLfGYnhFiBvOtrOV/5757d545cae0367ad8a8e784532252f8/PT_me__tricas.png)
+![PT métricas](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/dashboards-beta/visao-geral-da-loja-beta_4.png)
 
 A tabela abaixo descreve as métricas disponíveis no painel da página inicial. Todas as métricas se referem aos fluxos de compra realizados em lojas VTEX no período selecionado.
 

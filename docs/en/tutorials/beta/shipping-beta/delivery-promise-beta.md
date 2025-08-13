@@ -15,9 +15,7 @@ locale: en
 subcategoryId: 13sVE3TApOK1C8jMVLTJRh
 ---
 
-<div class="alert alert-info">
-This feature is in beta, which means that we are working to improve it. If you have any questions, please contact <a href= "https://help.vtex.com/en/support">our Support</a>.
-</div>
+> ℹ️ This feature is in beta, which means that we are working to improve it. If you have any questions, please contact <a href= "https://help.vtex.com/en/support">our Support</a>.
 
 **Delivery Promise (Beta)** is VTEX's new solution that allows customers to view only the products they can buy in their shopping experience, considering both the product availability and valid shipping methods for their delivery address.
 
@@ -25,9 +23,7 @@ With **Delivery Promise (Beta)**, your store can make a “delivery promise” t
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/l8HU2qVpsBg" title="VTEX Vision Spring &#39;24: Delivery Promises" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<div class="alert alert-danger">
-Currently, <b>Delivery Promise (Beta)</b> does not yet allow you to filter the product listing page by shipping time. To learn more about filters, see the <a href="#available-features">Available features</a> section.
-</div>
+> ❗ Currently, **Delivery Promise (Beta)** does not yet allow you to filter the product listing page by shipping time. To learn more about filters, see the [Available features](#available-features) section.
 
 The content is organized as follows:
 
@@ -55,9 +51,7 @@ At this stage, **Delivery Promise (Beta)** allows your store's customers to filt
 * **Pickup nearby:** Products available for pickup at pickup points within a radius of up to 10 km from the provided address. 
 * **Pickup at {{name}}:** Products available for pickup at a given pickup point.
 
-<div class = "alert alert-info">
-The filters mentioned above are native components of Intelligent Search. If you want to develop custom components for your store, please contact your development team or an <a href="https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#implementation-partners">implementation partner</a>.
-</div>
+> ℹ️ The filters mentioned above are native components of Intelligent Search. If you want to develop custom components for your store, please contact your development team or an [implementation partner](https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#implementation-partners).
 
 ## Advantages
 
@@ -67,10 +61,10 @@ For [omnichannel](https://help.vtex.com/en/tracks/estrategias-de-comercio-unific
 
 | **Advantage** | **Details** |
 | :---: | :--- |
-| Fewer abandoned carts | <p>Customers often abandon an order after entering their location in the cart step when they find out it can't be shipped to their location or that the shipping time doesn't meet their expectations.</p><p>With <b>Delivery Promise (Beta)</b>, the availability and delivery feasibility of each product the customer sees on the product listing page are considered based on the customer's location. Besides this, shipping information is displayed from the beginning of the customer's buying journey.</p> |
-| Increased product assortment on the product listing page | <p>Without <b>Delivery Promise (Beta)</b>, the product assortment displayed on the product listing page may not reflect all available products from sellers due to limitations in features such as <a href="https://help.vtex.com/en/tutorial/configurar-a-regionalizacao-de-sellers--32t6wLpQCEnumoh8TjT5fw">seller regionalization</a>, <a href="https://help.vtex.com/en/tutorial/seller-abrangente--5Qn4O2GpjUIzWTPpvLUfkI">comprehensive seller</a> and the <a href="https://help.vtex.com/en/tutorial/algoritmo-de-selecao-de-sellers-white-label--3MemNQ4pKkWCpMdzI27AHa">seller selection algorithm</a>.</p><p>With the <b>Delivery Promise (Beta)</b>, the customer can view the complete product assortment of all sellers, provided that:<ul><li>They are correctly configured.</li><li>They are available in stock.</li><li>Have a valid shipping method to the address entered by the customer.</li></ul></p> |
-| Improved shopping experience | <p><b>Delivery Promise (Beta)</b> promotes a better shopping experience for the customer as a whole:<ul><li>It eliminates any frustration at checkout when they find it impossible to place an order.</li><li>It allows customers to view more products.</li><li>It allows customers to browse the storefront in a way that meets their needs, whether they prioritize the type of shipment or choose to place an order in a physical store.</li></ul></p> |
-| Promotion of physical stores sales | <b>Delivery Promise (Beta)</b> gives customers confidence in finding certain products in physical stores, which encourages them to go to the stores and increases sales opportunities. |
+| Fewer abandoned carts | Customers often abandon an order after entering their location in the cart step when they find out it can't be shipped to their location or that the shipping time doesn't meet their expectations.With **Delivery Promise (Beta)**, the availability and delivery feasibility of each product the customer sees on the product listing page are considered based on the customer's location. Besides this, shipping information is displayed from the beginning of the customer's buying journey. |
+| Increased product assortment on the product listing page | Without **Delivery Promise (Beta)**, the product assortment displayed on the product listing page may not reflect all available products from sellers due to limitations in features such as [seller regionalization](https://help.vtex.com/en/tutorial/configurar-a-regionalizacao-de-sellers--32t6wLpQCEnumoh8TjT5fw), [comprehensive seller](https://help.vtex.com/en/tutorial/seller-abrangente--5Qn4O2GpjUIzWTPpvLUfkI) and the [seller selection algorithm](https://help.vtex.com/en/tutorial/algoritmo-de-selecao-de-sellers-white-label--3MemNQ4pKkWCpMdzI27AHa).With the **Delivery Promise (Beta)**, the customer can view the complete product assortment of all sellers, provided that:<ul><li>They are correctly configured.</li><li>They are available in stock.</li><li>Have a valid shipping method to the address entered by the customer.</li></ul> |
+| Improved shopping experience | **Delivery Promise (Beta)** promotes a better shopping experience for the customer as a whole:<ul><li>It eliminates any frustration at checkout when they find it impossible to place an order.</li><li>It allows customers to view more products.</li><li>It allows customers to browse the storefront in a way that meets their needs, whether they prioritize the type of shipment or choose to place an order in a physical store.</li></ul> |
+| Promotion of physical stores sales | **Delivery Promise (Beta)** gives customers confidence in finding certain products in physical stores, which encourages them to go to the stores and increases sales opportunities. |
 
 ## Requirements and restrictions
 

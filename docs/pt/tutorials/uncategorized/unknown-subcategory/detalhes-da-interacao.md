@@ -40,7 +40,7 @@ O <b>Gerenciamento de anúncios</b> permite acompanhar anúncios com o <a href="
 </div>
 
 ## Cabeçalho
-![Interaction details PT cabeçalho](//images.ctfassets.net/alneenqid6w5/7zEocS2MW5dSRzZaaqNDUc/13e23260eaabde52ec1c38246a05be68/Interaction_details_PT_cabe__alho.jpg)
+![Interaction details PT cabeçalho](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/uncategorized/unknown-subcategory/detalhes-da-interacao_1.jpg)
 O *cabeçalho* traz informações principais do anúncio para rápida visualização, como nome do SKU, logo do canal para onde foi enviado, seu ID na VTEX e ID no canal.
 
 ## Resultado da Interação
@@ -50,26 +50,26 @@ As interações, ou atualizações de  um [anúncio](https://help.vtex.com/pt/tu
 O bloco de *Resultado da Interação* informa o efeito que a interação teve sobre o anúncio, calculado a partir da combinação de registros que formam a interação. O resultado de uma interação faz com o que o sistema determine o status daquele anúncio, indicando se foi possível enviá-lo e sincronizá-lo ao canal, ou não. Resultados das interações incluem: 
 
 ### Resultado: Sucesso
-![Interaction details PT resultado sucesso](//images.ctfassets.net/alneenqid6w5/72PZOesROTjIZbmFOTQ8jk/4c0f6f4dacc479647a334304f46156ba/Interaction_details_PT_resultado_sucesso.jpg)
+![Interaction details PT resultado sucesso](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/uncategorized/unknown-subcategory/detalhes-da-interacao_2.jpg)
 O status de uma interação é *Sucesso* quando interações cumprem com o seu efeito esperado. Isso significa que foi possível enviar o anúncio ao canal corretamente, ou que de fato geraram atualizações em um anúncio em termos de preço, estoque ou catálogo. 
 
 ### Resultado: Falha
-![Interaction details PT resultado falha](//images.ctfassets.net/alneenqid6w5/1ZR16rSnDEVY0812xY4XFZ/3818ba5ecd25b3aed73ad7c8d27950b3/Interaction_details_PT_resultado_falha.jpg)
+![Interaction details PT resultado falha](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/uncategorized/unknown-subcategory/detalhes-da-interacao_3.jpg)
 O status de uma interação é *Falha* quando interações não são realizadas por causa de um erro identificado pelo sistema. Resultados desse tipo acabam gerando o status *Erro* em um anúncio, impedindo-o de ser enviado ou atualizado corretamente no canal. 
 
 Caso o resultado da interação seja *Falha*, o bloco aponta uma lista com as falhas detectadas, onde cada uma pode ser expandida para que o seller acesse mais informações sobre o que ocorreu.
 
 ### Resultado: Aviso
-![Interaction details PT resultado aviso](//images.ctfassets.net/alneenqid6w5/7kwwswW5m4kVL3fXWzxKSV/6eb5baa530de97d609c827f07344eb38/Interaction_details_PT_resultado_aviso.jpg)
+![Interaction details PT resultado aviso](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/uncategorized/unknown-subcategory/detalhes-da-interacao_4.jpg)
 O status de uma interação é *Aviso* quando existem interações que trazem mais visibilidade para as etapas ocorridas no processo de envio e atualização de um anúncio, mas não geraram atualizações de fato.
 
 ### Resultado: Processando
-![Interaction details PT resultado processing](//images.ctfassets.net/alneenqid6w5/1gilFQQUmLVzTznTQDNv7G/754b810e1c0feaeed6f79203fab2bea1/Interaction_details_PT_resultado_processing.jpg)
+![Interaction details PT resultado processing](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/uncategorized/unknown-subcategory/detalhes-da-interacao_5.jpg)
 O status de uma interação é *Processando* quando uma interação não foi concluída e ainda deve receber mais ações. Esse é um estado transitório, considerando que quando um evento é fechado, só pode terminar em `sucesso`, `falha`, ou `aviso` como seu resultado. 
 
 ## Linha do tempo
 
-![Interaction details PT linha do tempo](//images.ctfassets.net/alneenqid6w5/6rLi24P5ltS8XFIEBIn6hb/13786eef8d2ec669080b995324c507d8/Interaction_details_PT_linha_do_tempo.jpg)
+![Interaction details PT linha do tempo](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/uncategorized/unknown-subcategory/detalhes-da-interacao_6.jpg)
 Uma interação é aberta pelo sistema para dar início a uma atualização e contém uma série de registros para realizar as ações necessárias para que isso aconteça. 
 
 A linha do tempo na **Detalhes da interação** organiza cronologicamente os registros que ocorreram dentro de cada interação, sendo que as informações ficam disponíveis para consulta por dez dias. A interação é fechada pelo sistema quando seu objetivo é concluído e não existem mais registros a serem feitos. A linha do tempo da apresenta os seguintes dados:

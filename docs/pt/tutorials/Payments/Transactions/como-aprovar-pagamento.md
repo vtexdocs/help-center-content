@@ -25,17 +25,13 @@ Essa aprovação pode ser feita manualmente no módulo Pedidos, conforme abaixo.
 2. Clique sobre a transação desejada.
 3. Clique no botão **Notificar Pagamento**.
 
-![NotificarPT](//images.ctfassets.net/alneenqid6w5/6jQnmZtHygY4csKym2kC0e/f48943b3a025d87ab59a724e17188df3/NotificarPT.png)
+![NotificarPT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Transactions/como-aprovar-pagamento_1.png)
 
 **Após a aprovação do pagamento, o pedido entrará no fluxo normal de compra.**
 
-<div class="alert alert-info">
-No módulo de Gerenciamento da Conta, o usuário precisa ter um perfil de acesso que inclua a permissão <code>Notify payment</code> para ser capaz de aprovar pagamentos.
-</div>
+> ℹ️ No módulo de Gerenciamento da Conta, o usuário precisa ter um perfil de acesso que inclua a permissão `Notify payment` para ser capaz de aprovar pagamentos.
 
 Para aprovar o pagamento por API, veja a [documentação da chamada de notificação de pagamento](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/payments/-paymentId-/payment-notification).
 
-<div class="alert alert-warning">
-Como <a href="https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide">integrações com ERPs</a> são regidas pelo <a href="https://help.vtex.com/pt/tutorial/fluxo-e-status-de-pedidos--tutorials_196#">fluxo de pedidos</a>, a aprovação manual de um pagamento dará continuidade à integração deste pedido com o back office da loja normalmente. Portanto recomenda-se cautela ao aprovar pagamentos manualmente, de modo a garantir o recebimento por cada pedido que é processado e enviado.
-</div>
+> ⚠️ Como [integrações com ERPs](https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide) são regidas pelo [fluxo de pedidos](https://help.vtex.com/pt/tutorial/fluxo-e-status-de-pedidos--tutorials_196#), a aprovação manual de um pagamento dará continuidade à integração deste pedido com o back office da loja normalmente. Portanto recomenda-se cautela ao aprovar pagamentos manualmente, de modo a garantir o recebimento por cada pedido que é processado e enviado.
 

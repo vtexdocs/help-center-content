@@ -32,51 +32,45 @@ Se requieren las siguientes acciones dependiendo del método de pago que quieras
    3. [Habilitar PIX en Rede](#habilitar-pix-en-rede)
    4. [Configurar condição de pagamento con PIX](#configurar-condicion-de-pago-con-pix)  
 
-<div class="alert alert-warning">
-Las configuraciones realizadas en un entorno externo a VTEX podrán ser discontinuadas o modificadas sin previo aviso. Consulta tu cuenta de Itaú Rede para obtener información actualizada.
-</div>
+> ⚠️ Las configuraciones realizadas en un entorno externo a VTEX podrán ser discontinuadas o modificadas sin previo aviso. Consulta tu cuenta de Itaú Rede para obtener información actualizada.
 
 ## Obtener credenciales en el Portal Rede
 
 Para iniciar el proceso de integración de su tienda en el entorno de Userede, envíe un correo electrónico a ecommerce@userede.com.br solicitando la acreditación de las soluciones de comercio electrónico de Rede. El tiempo estimado de respuesta es de hasta 1 día hábil.
 
-<div class="alert alert-info">
-Una vez completada la acreditación, recibirás por correo electrónico tu número de membresía (PV) e instrucciones de acceso al Portal Rede.
-</div>
+> ℹ️ Una vez completada la acreditación, recibirás por correo electrónico tu número de membresía (PV) e instrucciones de acceso al Portal Rede.
 
 Luego de recibir la información de acceso, usted u otra persona con un perfil de administrador en su cuenta Rede (__usuario maestro__) deberá generar la clave de integración de acuerdo con los pasos a continuación:
 
-<blockquote><ui>1. Acceda al <a href="https://meu.userede.com.br/login">Portal Userede</a> con los datos de su cuenta Itaú Rede.</ui>
+<blockquote><ui>1. Acceda al [Portal Userede](https://meu.userede.com.br/login) con los datos de su cuenta Itaú Rede.</ui>
 
-<blockquote><ui>2. Seleccione la cuenta en la que desea realizar pagos en VTEX y haga clic en <b>Aplicar</b>. Guarde el número de cuenta, ya que debe ser utilizado en el campo <b>Clave de aplicación</b> de la sección <a href="#configurar-itau-rede-en-vtex">Configurar Itaú Rede en VTEX</a>.</ui>
+<blockquote><ui>2. Seleccione la cuenta en la que desea realizar pagos en VTEX y haga clic en **Aplicar**. Guarde el número de cuenta, ya que debe ser utilizado en el campo **Clave de aplicación** de la sección [Configurar Itaú Rede en VTEX](#configurar-itau-rede-en-vtex).</ui>
 
-![Itaú Rede_1_es](//images.ctfassets.net/alneenqid6w5/gooU2CGrEsArx16vHLBAw/20c7e6cdbe2e6eb4191038e2b7777f2e/Ita__Rede_1.png)
+![Itaú Rede_1_es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/payment-settings/configurar-pago-con-itau-rede_1.png)
 
-<blockquote><ui>3. Después de que la pantalla se actualice a la cuenta deseada, en el menú <b>para vender</b>, seleccione la opción <b>e-commerce</b>.</ui>
+<blockquote><ui>3. Después de que la pantalla se actualice a la cuenta deseada, en el menú **para vender**, seleccione la opción **e-commerce**.</ui>
 
-![Itaú Rede_2](//images.ctfassets.net/alneenqid6w5/3VB0bwzReQKt2zjXnLHltx/11bfb6b935d77828b0a243dc90ea55fd/Itau_Rede_2.PNG)
+![Itaú Rede_2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/payment-settings/configurar-pago-con-itau-rede_2.PNG)
 
-<blockquote><ui>4. En la página <b>e-commerce</b>, haga clic en la tarjeta <b>chave de integração</b>.</ui>
+<blockquote><ui>4. En la página **e-commerce**, haga clic en la tarjeta **chave de integração**.</ui>
 
-![Itaú Rede_3](//images.ctfassets.net/alneenqid6w5/AxbQNB9snirJxN4zOV7qT/b8441d7cc910a99448ea9f4c9724612e/Itau_Rede_3.png)
+![Itaú Rede_3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/payment-settings/configurar-pago-con-itau-rede_3.png)
 
-<blockquote><ui>5. Después de leer la información de la "chave de integração", haga clic en <b>li, estou ciente</b>.</ui>
+<blockquote><ui>5. Después de leer la información de la "chave de integração", haga clic en **li, estou ciente**.</ui>
 
-![Itaú Rede_4](//images.ctfassets.net/alneenqid6w5/BU5ydvg5BxaY9KRPHevzv/73a8d3ed6e2bf9e9625b69430f8ae2d6/Itau_Rede_4.png)
+![Itaú Rede_4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/payment-settings/configurar-pago-con-itau-rede_4.png)
 
-<blockquote><ui>6. Haga clic en el botón <b>gerar nova chave</b>.</ui>
+<blockquote><ui>6. Haga clic en el botón **gerar nova chave**.</ui>
 
-![Itaú Rede_5](//images.ctfassets.net/alneenqid6w5/kZGFItLuWLgm6lc9Twrhb/266384a3037afaeed2b8b04a5efb9a87/Itau_Rede_5.png)
+![Itaú Rede_5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/payment-settings/configurar-pago-con-itau-rede_5.png)
 
-<blockquote><ui>7. Verifique la información descrita en la ventana <b>gerar nova chave de integração</b> y haga clic en <b>gerar nova chave</b>.</ui>
+<blockquote><ui>7. Verifique la información descrita en la ventana **gerar nova chave de integração** y haga clic en **gerar nova chave**.</ui>
 
-![Itaú Rede_6](//images.ctfassets.net/alneenqid6w5/diZYL8GRAhwcL5sX7IQtn/24789d56142d14bc756ecd8c02616135/Itau_Rede_6.png)
+![Itaú Rede_6](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/payment-settings/configurar-pago-con-itau-rede_6.png)
 
-<blockquote><ui>8. Después de crear la nueva clave, haga clic en <b>copiar</b> y conserve la información en un lugar seguro. Esta clave debe ser utilizada en el campo <b>Token de aplicación</b> de la sección <a href="#configurar-itau-rede-en-vtex">Configurar Itaú Rede en VTEX</a>.</ui>
+<blockquote><ui>8. Después de crear la nueva clave, haga clic en **copiar** y conserve la información en un lugar seguro. Esta clave debe ser utilizada en el campo **Token de aplicación** de la sección [Configurar Itaú Rede en VTEX](#configurar-itau-rede-en-vtex).</ui>
 
-<blockquote><ui><div class="alert alert-warning">
-Si pierde el acceso a la información de la clave de integración, deberá repetir los pasos anteriores para generar una nueva clave. Luego de obtener la nueva clave para el mismo número de membresía (PV), también será necesario actualizar la información en todas las integraciones asociadas al PV. Las integraciones que no se actualizan con la nueva clave pueden tener un impacto en las operaciones.
-  </div></ui></blockquote>
+<blockquote><ui>> ⚠️ Si pierde el acceso a la información de la clave de integración, deberá repetir los pasos anteriores para generar una nueva clave. Luego de obtener la nueva clave para el mismo número de membresía (PV), también será necesario actualizar la información en todas las integraciones asociadas al PV. Las integraciones que no se actualizan con la nueva clave pueden tener un impacto en las operaciones.</ui></blockquote>
 
 ## Configurar Itaú Rede en VTEX
 
@@ -92,21 +86,19 @@ Para configurar Itaú Rede siga los pasos a continuación:
 <br>
 <ul>
 <br>
-    	<li><b>Utiliza comportamiento recomendado por el procesador de pagos</b>: a captura no es automática, sino programada de acuerdo con el plazo especificado por el adquirente que, además de indicar si el pago ha sido autorizado, puede especificar o recomendar un número de días para la captura en el momento de la respuesta a la autorización de pago (este es el comportamiento predeterminado de la plataforma).</li>
-    	<li><b>Liquidación automática inmediatamente después de la autorización del pago</b>: la captura es automática y se produce inmediatamente después de la autorización, incluso si la transacción tiene un análisis antifraude.</li>
-   		<li><b>Liquidación automática inmediatamente después del análisis antifraude</b>: la captura es automática y se realiza inmediatamente después de la autorización y el análisis antifraude (si seleccionas este comportamiento y no tienes análisis antifraude, la captura de pago se realizará de la misma manera que en el comportamiento "Liquidación automática inmediatamente después de la autorización del pago").</li>
-   		<li><b>Desactivado</b>: la captura se realiza solo cuando se factura el pedido. Si se opta por este comportamiento de captura, es importante estar atento al tiempo de facturación, ya que puede exceder el tiempo de captura acordado con el proveedor de pagos y provocar la cancelación de la transacción.</li>
+    	<li>**Utiliza comportamiento recomendado por el procesador de pagos**: a captura no es automática, sino programada de acuerdo con el plazo especificado por el adquirente que, además de indicar si el pago ha sido autorizado, puede especificar o recomendar un número de días para la captura en el momento de la respuesta a la autorización de pago (este es el comportamiento predeterminado de la plataforma).</li>
+    	<li>**Liquidación automática inmediatamente después de la autorización del pago**: la captura es automática y se produce inmediatamente después de la autorización, incluso si la transacción tiene un análisis antifraude.</li>
+   		<li>**Liquidación automática inmediatamente después del análisis antifraude**: la captura es automática y se realiza inmediatamente después de la autorización y el análisis antifraude (si seleccionas este comportamiento y no tienes análisis antifraude, la captura de pago se realizará de la misma manera que en el comportamiento "Liquidación automática inmediatamente después de la autorización del pago").</li>
+   		<li>**Desactivado**: la captura se realiza solo cuando se factura el pedido. Si se opta por este comportamiento de captura, es importante estar atento al tiempo de facturación, ya que puede exceder el tiempo de captura acordado con el proveedor de pagos y provocar la cancelación de la transacción.</li>
 </ul>
 
-<blockquote><ui>8. En <b>merchantName</b>, ingresa el nombre de tu tienda.</ui>
+<blockquote><ui>8. En **merchantName**, ingresa el nombre de tu tienda.</ui>
 
-<blockquote><ui>9. En <b>SoftDescriptor</b>, describa el mensaje de identificación que se mostrará en el extracto de la tarjeta de su cliente. Debe utilizar la misma información registrada en Soft Descriptor en el Portal Rede.</ui>
+<blockquote><ui>9. En **SoftDescriptor**, describa el mensaje de identificación que se mostrará en el extracto de la tarjeta de su cliente. Debe utilizar la misma información registrada en Soft Descriptor en el Portal Rede.</ui>
 
-<blockquote><div class="alert alert-info">
-  Si aún no ha habilitado <b>Soft Descriptor</b>, acceda al Portal Rede para habilitarlo o si prefiere no utilizar esta funcionalidad simplemente no complete este campo.
-  </div>
+<blockquote>> ℹ️ Si aún no ha habilitado **Soft Descriptor**, acceda al Portal Rede para habilitarlo o si prefiere no utilizar esta funcionalidad simplemente no complete este campo.
 
-<blockquote><ui>10. En el campo <b>delayToAutoSettle</b>, introduzca el período para liquidar la orden. Recuerde que el valor de este campo debe estar de acuerdo con la regla determinada en el campo <b>Liquidación automática</b>.</ui>
+<blockquote><ui>10. En el campo **delayToAutoSettle**, introduzca el período para liquidar la orden. Recuerde que el valor de este campo debe estar de acuerdo con la regla determinada en el campo **Liquidación automática**.</ui>
 
 <blockquote><ui>11. Haga clic en `Guardar`.</ui></blockquote>
 
@@ -131,29 +123,27 @@ Antes de realizar los siguientes pasos, asegúrese de haber [obtenido las creden
 
 ### Habilitar PIX en Rede
 
-<div class="alert alert-info">
-  Sólo los usuarios con perfil de administrador (<b>usuario maestro</b>) pueden habilitar Pix en Rede.
-  </div>
+> ℹ️ Sólo los usuarios con perfil de administrador (**usuario maestro**) pueden habilitar Pix en Rede.
 
 Para habilitar la clave Pix, acceda al Portal Rede y siga los pasos: 
 
-<blockquote><ui>1. Acceda al <a href="https://meu.userede.com.br/login">Portal Userede</a> con los datos de su cuenta Itaú Rede.</ui>
+<blockquote><ui>1. Acceda al [Portal Userede](https://meu.userede.com.br/login) con los datos de su cuenta Itaú Rede.</ui>
 
-<blockquote><ui>2. Seleccione la cuenta en la que desea realizar pagos en VTEX y haga clic en <b>Aplicar</b>.</ui>
+<blockquote><ui>2. Seleccione la cuenta en la que desea realizar pagos en VTEX y haga clic en **Aplicar**.</ui>
 
-![Itaú Rede_1_es](//images.ctfassets.net/alneenqid6w5/gooU2CGrEsArx16vHLBAw/20c7e6cdbe2e6eb4191038e2b7777f2e/Ita__Rede_1.png)
+![Itaú Rede_1_es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/payment-settings/configurar-pago-con-itau-rede_7.png)
 
-<blockquote><ui>3. Después de que la pantalla se actualice a la cuenta deseada, en el menú <b>para vender</b>, seleccione la opción <b>pix</b>.</ui>
+<blockquote><ui>3. Después de que la pantalla se actualice a la cuenta deseada, en el menú **para vender**, seleccione la opción **pix**.</ui>
 
-![Itaú Rede_7_es](//images.ctfassets.net/alneenqid6w5/4eoo6CA1ZIZNQ1RBEv4yUm/39f10245f908f9f01d3e65962db72f5d/Ita__Rede_7.png)  
+![Itaú Rede_7_es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/payment-settings/configurar-pago-con-itau-rede_8.png)  
 
-<blockquote><ui>4. Haga clic en el botón <b>Habilitar Pix na Rede</b>.</ui>  
+<blockquote><ui>4. Haga clic en el botón **Habilitar Pix na Rede**.</ui>  
 
-![Itaú Rede_8_es](//images.ctfassets.net/alneenqid6w5/5eczd25Lmic550HChvQ8WG/6bdd1e897b7dcc8b050206b58351f3e6/Ita__Rede_8.png)
+![Itaú Rede_8_es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/payment-settings/configurar-pago-con-itau-rede_9.png)
 
-<blockquote><ui>5. Selecciona la cuenta Itaú donde deseas recibir tus ventas con Pix y haz clic <b>Escolher conta</b>.</ui></blockquote>    
+<blockquote><ui>5. Selecciona la cuenta Itaú donde deseas recibir tus ventas con Pix y haz clic **Escolher conta**.</ui></blockquote>    
 
-![Itaú Rede_9_es](//images.ctfassets.net/alneenqid6w5/1FqQQFuB8M6iGaTXJDo0CT/0d587215152b429fbabb21e2f3af72e1/Ita__Rede_9.png)
+![Itaú Rede_9_es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/payment-settings/configurar-pago-con-itau-rede_10.png)
 
 ### Configurar condición de pago con PIX
 

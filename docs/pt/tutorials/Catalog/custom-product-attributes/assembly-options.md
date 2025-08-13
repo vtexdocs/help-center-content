@@ -15,15 +15,13 @@ locale: pt
 subcategoryId: 1hoOi2R0Rm6ky0yCwOUoiy
 ---
 
-<div class="alert alert-warning">
-  <p>Esta funcionalidade está disponível apenas para lojas desenvolvidas usando <a href="https://vtex.com/br-pt/store-framework/">VTEX IO</a>. Antes de prosseguir, você deve <a href="https://developers.vtex.com/vtex-developer-docs/docs/vtex-product-customizer">instalar e configurar o Product Customizer</a> na sua loja.</p>
-</div>
+> ⚠️ Esta funcionalidade está disponível apenas para lojas desenvolvidas usando [VTEX IO](https://vtex.com/br-pt/store-framework/). Antes de prosseguir, você deve [instalar e configurar o Product Customizer](https://developers.vtex.com/vtex-developer-docs/docs/vtex-product-customizer) na sua loja.
 
 Uma Assembly Option é um [anexo](https://help.vtex.com/pt/tutorial/o-que-e-um-anexo--aGICk0RVbqKg6GYmQcWUm) para cenários complexos, como a customização de produtos, em que é necessário gerenciar diferentes combinações de produtos, quantidade, itens adicionais, custos e estoque.
 
 No exemplo abaixo, uma loja oferece várias Assembly Options para o produto _Custom Bell_. Essas opções são mostradas na página do produto, onde o cliente pode selecionar as opções desejadas. Dependendo das escolhas, pode haver um custo adicional.
 
-![assembly-option-PT](//images.ctfassets.net/alneenqid6w5/3A5QzqwSI6Z9CZk3EqPrZs/4d0d0db168c8a984a69fb6462ccc9084/image.png)
+![assembly-option-PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Catalog/custom-product-attributes/assembly-options_1.png)
 
 Você pode combinar [SKUs](https://help.vtex.com/pt/tutorial/o-que-e-um-sku--1K75s4RXAQyOuGUYKMM68u) para oferecer Assembly Options, como o _Bells add-ons Roman_ ou o _Bells add-ons 1-3 lines_ no exemplo acima. Se um item estiver esgotado, ele será exibido como indisponível.
 
@@ -33,9 +31,7 @@ Neste artigo, explicamos como começar a utilizar Assembly Options na sua loja.
 
 Existem duas formas de implementar Assembly Options: utilizando o [app Assembly Options](#app-assembly-options) ou utilizando a interface nativa de [Campos personalizados](#campos-personalizados) do Catálogo.
 
-<div class="alert alert-warning">
-  <p>Ao implementar Assembly Options em uma <a href="https://help.vtex.com/pt/tutorial/o-que-e-um-seller--5FkLvhZ3Few4CWWIuYOK2w">conta de seller</a>, as opções de customização do produto são exibidas para os clientes da sua loja no checkout. Para que as opções sejam exibidas na página do produto, você precisa implementar a funcionalidade em uma <a href="https://help.vtex.com/pt/tutorial/o-que-e-um-marketplace--680lLJTnmEAmekcC0MIea8">conta de marketplace</a>.</p>
-</div>
+> ⚠️ Ao implementar Assembly Options em uma [conta de seller](https://help.vtex.com/pt/tutorial/o-que-e-um-seller--5FkLvhZ3Few4CWWIuYOK2w), as opções de customização do produto são exibidas para os clientes da sua loja no checkout. Para que as opções sejam exibidas na página do produto, você precisa implementar a funcionalidade em uma [conta de marketplace](https://help.vtex.com/pt/tutorial/o-que-e-um-marketplace--680lLJTnmEAmekcC0MIea8).
 
 ### App Assembly Options
 
@@ -61,7 +57,7 @@ O primeiro trecho`[x-y]` se refere às regras aplicadas ao grupo, e entre cada `
 |\[0-3\]#10000\[1-2\]**\[1\]**pricetable1;#20000\[0-2\]**\[0\]**pricetable2;#30000\[0-2\]**\[0\]**pricetable3 | Esse segmento define a quantidade padrão selecionada para cada SKU.                                    |
 | \[0-3\]#10000\[1-2\]\[1\]**pricetable1**;#20000\[0-2\]\[0\]**pricetable2**;#30000\[0-2\]\[0\]**pricetable3** | O segmento final indica a tabela de preços para cada item. |
 
-![assembly-option-exemplo-PT](//images.ctfassets.net/alneenqid6w5/2c4cfwQo0KisXQhlzYoxGC/ff463ce52bf53d528a1127d81a36eb38/image.png)
+![assembly-option-exemplo-PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Catalog/custom-product-attributes/assembly-options_2.png)
 
 #### Configuração do Anexo
 

@@ -17,9 +17,7 @@ subcategoryId: 383bZO0kymqpnNf7Z4NdEg
 
 Este artículo tiene el objetivo de describir el funcionamiento del sistema de búsqueda de VTEX.
 
-<div class = "alert alert-warning">
-  VTEX presenta dos opciones de búsqueda - La búsqueda VTEX y VTEX Intelligent Search. Este artículo se refiere a la búsqueda VTEX. Para saber más sobre la aplicación VTEX Intelligent Search, consulte <a href = "https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb">nuestra guía</a>.
-</div>
+> ⚠️ VTEX presenta dos opciones de búsqueda - La búsqueda VTEX y VTEX Intelligent Search. Este artículo se refiere a la búsqueda VTEX. Para saber más sobre la aplicación VTEX Intelligent Search, consulte <a href = "https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb">nuestra guía</a>.
 
 ## Cómo el buscador de VTEX prioriza la exhibición de productos
 
@@ -38,8 +36,7 @@ De acuerdo con el término buscado, el sistema puede renderizar los siguientes r
 
 Si el término buscado corresponde exactamente al nombre de una carpeta configurada en el CMS (es decir, a una landing page), esa carpeta será renderizada.
 
-<div class="alert alert-warning">
-<b>Atención</b>: para que una carpeta pueda buscarse, esta debe poseer un layout.<br><b>Aunque la búsqueda sea por una carpeta hija, el padre también requiere un layout.</b></div>
+> ⚠️ **Atención**: para que una carpeta pueda buscarse, esta debe poseer un layout.<br>**Aunque la búsqueda sea por una carpeta hija, el padre también requiere un layout.**
 
 ### 2. Marca
 
@@ -66,9 +63,7 @@ Este algoritmo utiliza el concepto de puntuación (_Score_) para priorizar y ord
 
 La vitrina se arma en base a esa puntuación, en orden decreciente; es decir, el producto más puntuado será el primero a ser exhibido y el menos puntuado, el último.
 
-<div class = "alert alert-info">
-Para más información, accede al artículo <a href="https://help.vtex.com/es/tutorial/como-funciona-o-campo-score--1BUZC0mBYEEIUgeQYAKcae">¿Cómo funciona el campo Puntuación?</a>.
-</div>
+> ℹ️ Para más información, accede al artículo [¿Cómo funciona el campo Puntuación?](https://help.vtex.com/es/tutorial/como-funciona-o-campo-score--1BUZC0mBYEEIUgeQYAKcae).
 
 ## Cómo funciona la búsqueda
 
@@ -78,7 +73,7 @@ Para entender la búsqueda de VTEX, inicialmente es necesario saber cómo funcio
 
 El indexador del catálogo es una base de datos escalable de acceso rápido, con algoritmos configurables de priorización de resultados. Está posicionado entre la base de datos convencional y el usuario. Vea el siguiente esquema:
 
-![](https://images.contentful.com/alneenqid6w5/4PSR97lU5y2iac2QkoUAKg/10b9097341faf0de317fa6984104da95/indexacao.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Catalog/Search/como-funciona-la-busqueda-de-vtex_1.png)
 
 En el indexador encontramos todas las informaciones referentes al catálogo de productos (productos, SKUs, marcas, departamentos, categorías). El buscador utiliza estas informaciones para localizar los productos y mostrarlos en las vitrinas y los resultados de búsqueda. Por lo tanto, __solamente los productos indexados pueden ser encontrados por la búsqueda__.
 
@@ -110,7 +105,7 @@ Considerando el siguiente indexador:
 | Pelota       | Society       | sozaite, sossaite       | Pelota de fútbol       |
 | Zapatillas de fútbol       | Campo       | Sapatillas de fútbol, Zapatillas de football       | Blanca       |
 
-<div class=alert>Término buscado 1: <b>Pelota de fútbol</b></div>
+<div class=alert>Término buscado 1: **Pelota de fútbol**</div>
 
 Resultado:
 1. **Pelota de fútbol** (Mejor puntuado, pues el término corresponde exactamente al nombre del producto)

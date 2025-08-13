@@ -17,11 +17,9 @@ subcategoryId: 3VNOhxDrvYxJThhuJClrYZ
 
 O VTEX DO é um gerenciador de tarefas criadas automaticamente pelo Admin VTEX, para que a equipe de ecommerce da sua loja as realize manualmente. Para acessá-lo, em seu Admin VTEX, vá em **Pedidos > [Todos os pedidos](https://help.vtex.com/pt/tutorial/lista-de-pedidos--2QTduKHAJMFIZ3BAsi6Pi)** e clique no ícone de caixa de entrada, localizado no canto inferior direito da página. Ao clicar no ícone, um modal se abrirá com a lista de tarefas relacionadas aos pedidos da loja. 
 
-![VTEX Do overview PT](//images.ctfassets.net/alneenqid6w5/4FzyUh5uqhzXKfbw9MJXsQ/76b1688496144fe90a8fc65f94a62bef/VTEX_Do_overview_PT.gif)
+![VTEX Do overview PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/orders/orders-overview/vtex-do-interface_1.gif)
 
-<div class = "alert alert-info">
-Somente usuários com o perfil de acesso <a href = "https://help.vtex.com/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#oms-full-access">OMS - Full Access</a> podem realizar tarefas pelo VTEX DO. 
-</div>
+> ℹ️ Somente usuários com o perfil de acesso <a href = "https://help.vtex.com/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#oms-full-access">OMS - Full Access</a> podem realizar tarefas pelo VTEX DO.
 
 As tarefas estão listadas em duas abas:
 
@@ -77,15 +75,15 @@ As tarefas gerenciadas por meio do VTEX DO podem incluir mensagens de todos os s
    </td>
    <td>Foi criada uma solicitação de estorno do pagamento.
    </td>
-   <td>Acesse os <strong>Detalhes da tarefa</strong> >  clique em <strong>Ver detalhes</strong> > autorize ou cancele o estorno do pagamento na página de <strong>Detalhes da transação</strong>.
+   <td>Acesse os **Detalhes da tarefa** >  clique em **Ver detalhes** > autorize ou cancele o estorno do pagamento na página de **Detalhes da transação**.
    </td>
   </tr>
   <tr>
    <td>Autorizar pedido com alçada
    </td>
-   <td>Pedido foi gerado com valor fora da <a href="https://help.vtex.com/pt/tutorial/regra-de-divergencia-de-valores--6RlFLhD1rIRRshl83KnCjW">Regra de divergência de valores</a> configurada.
+   <td>Pedido foi gerado com valor fora da [Regra de divergência de valores](https://help.vtex.com/pt/tutorial/regra-de-divergencia-de-valores--6RlFLhD1rIRRshl83KnCjW) configurada.
    </td>
-   <td>Acesse os <strong>Detalhes da tarefa</strong> >  clique em <strong>Ver detalhes</strong> > autorize ou cancele o pedido na página de <strong>Detalhes do pedido</strong>.
+   <td>Acesse os **Detalhes da tarefa** >  clique em **Ver detalhes** > autorize ou cancele o pedido na página de **Detalhes do pedido**.
    </td>
   </tr>
   <tr>
@@ -93,30 +91,30 @@ As tarefas gerenciadas por meio do VTEX DO podem incluir mensagens de todos os s
    </td>
    <td>O comprador solicitou o cancelamento do seu pedido. Sugerimos que a Central de Atendimento ao Consumidor da sua loja entre em contato com a pessoa para oferecer suporte, antes de cancelar o pedido.
    </td>
-   <td>Acesse os <strong>Detalhes da tarefa</strong> >  clique em <strong>Ver detalhes</strong> > autorize ou cancele o pedido na página de <strong>Detalhes do pedido</strong>.
+   <td>Acesse os **Detalhes da tarefa** >  clique em **Ver detalhes** > autorize ou cancele o pedido na página de **Detalhes do pedido**.
    </td>
   </tr>
   <tr>
    <td>Ocorreu um erro na geração do pedido recorrente
    </td>
-   <td>Pedidos de <a href="https://help.vtex.com/pt/tutorial/como-configurar-assinatura-v2--1FA9dfE7vJqxBna9Nft5Sj">Assinatura</a> costumam não serem autorizados por problemas no cartão de crédito do comprador. Sugerimos que a Central de Atendimento ao Consumidor da sua loja entre em contato com a pessoa para oferecer suporte.
+   <td>Pedidos de [Assinatura](https://help.vtex.com/pt/tutorial/como-configurar-assinatura-v2--1FA9dfE7vJqxBna9Nft5Sj) costumam não serem autorizados por problemas no cartão de crédito do comprador. Sugerimos que a Central de Atendimento ao Consumidor da sua loja entre em contato com a pessoa para oferecer suporte.
    </td>
-   <td>Acesse os <strong>Detalhes da tarefa</strong> >  clique em <strong>Ver detalhes</strong> > autorize ou cancele o pedido na página de <strong>Detalhes do pedido</strong>.
+   <td>Acesse os **Detalhes da tarefa** >  clique em **Ver detalhes** > autorize ou cancele o pedido na página de **Detalhes do pedido**.
    </td>
   </tr>
   <tr>
    <td>Preço menor que markup mínimo
    </td>
-   <td>O valor da compra é menor do que o markup, ou a margem de lucro mínima do <a href="https://help.vtex.com/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/P99EjtrlRHk92Q8qDPq29">preço base de um SKU</a>.
+   <td>O valor da compra é menor do que o markup, ou a margem de lucro mínima do [preço base de um SKU](https://help.vtex.com/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/P99EjtrlRHk92Q8qDPq29).
    </td>
-   <td>Acesse os <strong>Detalhes da tarefa</strong> >  clique em <strong>Ver detalhes</strong> > autorize ou cancele o pedido na página de <strong>Detalhes do pedido</strong>.
+   <td>Acesse os **Detalhes da tarefa** >  clique em **Ver detalhes** > autorize ou cancele o pedido na página de **Detalhes do pedido**.
    </td>
   </tr>
 </table>
 
 ## Detalhes da tarefa
 
-![VTEX Do details PT](//images.ctfassets.net/alneenqid6w5/mPby3BuhZYAwGyFuII8mr/08c283d0b9bcebf7da71bd78c0d7eeec/VTEX_Do_details_PT.jpg)
+![VTEX Do details PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/orders/orders-overview/vtex-do-interface_2.jpg)
 
 Ao clicar no nome de uma tarefa da lista, você é redirecionado para o modal de detalhes da tarefa, que apresenta mais informações sobre a tarefa e ações para resolvê-la. São apresentados os seguintes campos:
 

@@ -21,9 +21,7 @@ Marcações são categorias que definem as características do pedido e sinaliza
 
 Este artigo apresenta quais são as marcações existentes no módulo de cobranças. Ao disponibilizarmos este conteúdo, o nosso objetivo é aumentar a transparência da sua relação comercial com a VTEX.
 
-<div class="alert alert-warning">
-O sistema de marcações de pedidos não realiza qualquer tipo de cobrança aos clientes da loja. Ele é somente uma fonte de dados que o módulo de cobranças consulta para realizar o cálculo da fatura.
-</div>
+> ⚠️ O sistema de marcações de pedidos não realiza qualquer tipo de cobrança aos clientes da loja. Ele é somente uma fonte de dados que o módulo de cobranças consulta para realizar o cálculo da fatura.
 
 ## Etapa inicial para marcação de pedidos
 
@@ -32,17 +30,13 @@ Para que um pedido seja passível de marcação, ele deve atender às seguintes 
 * Ter todas as [informações que constituem o pedido](https://help.vtex.com/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa) (pedidos [incompletos](https://help.vtex.com/pt/tutorial/entendendo-os-pedidos-incompletos--tutorials_294) não recebem marcações).
 * Possuir informação de pagamento com data de autorização da transação financeira.
 
-<div class = "alert alert-info">
-Pedidos gerados pelo <a href="https://help.vtex.com/pt/tutorial/multilevel-omnichannel-inventory--7M1xyCZWUyCB7PcjNtOyw4">Multilevel Omnichannel Inventory (MOI)</a>, chamados de pedidos <i>chain</i>, não possuem informação de pagamento. Portanto, eles não recebem marcações e não são passíveis de cobrança.
-</div>
+> ℹ️ Pedidos gerados pelo [Multilevel Omnichannel Inventory (MOI)](https://help.vtex.com/pt/tutorial/multilevel-omnichannel-inventory--7M1xyCZWUyCB7PcjNtOyw4), chamados de pedidos *chain*, não possuem informação de pagamento. Portanto, eles não recebem marcações e não são passíveis de cobrança.
 
 ## Alteração de pedidos e marcações
 
 O pedido é marcado somente após finalizado. No entanto, quando um pedido é [alterado](https://help.vtex.com/pt/tutorial/como-alterar-pedidos-beta--7btlG91rb6sHpW1dkd2kBw#status-do-pedido-a-ser-alterado), ele é submetido a uma nova marcação, pois a alteração pode ter impactado as condições do *take rate* a ser cobrado.
 
-<div class="alert alert-danger">
-O pedido pode ser alterado diversas vezes e isso resultar em mudanças nas marcações feitas pelo módulo de cobranças. Enquanto estiver no status <code>preparando entrega</code>, o pedido pode continuar este processo de ser alterado e ter as marcações atualizadas.
-</div>
+> ❗ O pedido pode ser alterado diversas vezes e isso resultar em mudanças nas marcações feitas pelo módulo de cobranças. Enquanto estiver no status `preparando entrega`, o pedido pode continuar este processo de ser alterado e ter as marcações atualizadas.
 
 ## Grupos de marcações
 
@@ -63,27 +57,21 @@ Veja a seguir quais marcações existem relacionadas ao canal no qual o pedido �
 * **IsSalesAppDeliveredByMainAccount:** solução [VTEX Sales App](https://help.vtex.com/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc) quando o item vendido pertencia à [conta principal](https://help.vtex.com/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#tipos-de-conta-na-vtex) e a venda foi realizada no ambiente da conta principal.
 * **IsSocialSelling:** funcionalidade [Carrinho Compartilhável (Social Selling)](https://help.vtex.com/pt/tutorial/como-usar-o-app-carrinho-compartilhavel--3ePPpkmeZ96GXbeIoGZbTN).
 
-  <div class = "alert alert-info">
-A marcação <code>IsSocialSelling</code> é válida somente para os pedidos de <a href="https://help.vtex.com/pt/tutorial/como-usar-o-app-carrinho-compartilhavel--3ePPpkmeZ96GXbeIoGZbTN">Carrinho Compartilhável (Social Selling)</a> que foram iniciados pelo <b>VTEX Sales App</b>.
-</div>
+  > ℹ️ A marcação `IsSocialSelling` é válida somente para os pedidos de [Carrinho Compartilhável (Social Selling)](https://help.vtex.com/pt/tutorial/como-usar-o-app-carrinho-compartilhavel--3ePPpkmeZ96GXbeIoGZbTN) que foram iniciados pelo **VTEX Sales App**.
 
 * **IsCallCenter:** solução **VTEX Sales App** quando a venda foi promovida por um vendedor, atendente ou consultor, como ocorre com [televendas](https://help.vtex.com/pt/tutorial/como-configurar-as-funcionalidades-de-televendas--76FNgQP2Glc4umMJ5Yr50R).
 * **IsOnHands:** solução **VTEX Sales App** quando o pedido foi realizado na loja física e o item do inventário estava armazenado localmente. Esta marcação é feita no ambiente do marketplace.
 * **IsOnHandsFulfillment:** solução **VTEX Sales App** quando o item vendido pertencia ao seller. Esta marcação é feita no ambiente do seller.
 
-<div class = "alert alert-info">
-Quando a loja atua tanto como marketplace quanto seller, o pedido recebe a marcação <code>IsOnHandsFulfillment</code>.
-</div>
+> ℹ️ Quando a loja atua tanto como marketplace quanto seller, o pedido recebe a marcação `IsOnHandsFulfillment`.
 
 ## Marcações por origem do pedido
 
 A imagem abaixo apresenta como é feita a marcação do pedido com relação à origem do pedido para o marketplace e para o seller:
 
-![marcacao_pedidos_PT](//images.ctfassets.net/alneenqid6w5/3q4rRQ1ATOB7vJGm2AfwNL/3db88a4045040b0fa96ca427d0829551/marcacao_pedidos_PT.png)
+![marcacao_pedidos_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Billing/Contracts/marcacoes-de-pedidos-pelo-modulo-de-cobrancas_1.png)
 
-<div class="alert alert-warning">
-Mediante acordos comerciais, a VTEX concede um tipo de certificação a determinados canais de venda. Quando o pedido foi gerado em um canal de venda que não possui esse nível de certificação, não há uma marcação por origem e o pedido é marcado como <code>IsB2C</code>. Ou seja, somente canais de venda certificados possuem marcação por origem.
-</div>
+> ⚠️ Mediante acordos comerciais, a VTEX concede um tipo de certificação a determinados canais de venda. Quando o pedido foi gerado em um canal de venda que não possui esse nível de certificação, não há uma marcação por origem e o pedido é marcado como `IsB2C`. Ou seja, somente canais de venda certificados possuem marcação por origem.
 
 O fluxo a partir de `IsMarketplace` existe para marcar os pedidos no ambiente do seller e o fluxo de `IsSeller` para marcar os pedidos no ambiente do marketplace. Cada uma das marcações está descrita adiante.
 

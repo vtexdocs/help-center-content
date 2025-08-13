@@ -15,15 +15,13 @@ locale: pt
 subcategoryId: BBzMtJan1UTxC9QZODnlN
 ---
 
-<div class = "alert alert-info"> Para relacionar palavras ao produto, é recomendada a utilização da configuração de <a href="https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV?&utm_source=autocomplete">Sinônimos</a> ao invés das <a href="https://help.vtex.com/pt/tutorial/otimizar-as-buscas-com-palavras-substitutas--32FqSsl5VuQyiIMEc02Uwu?&utm_source=autocomplete">Palavras Substitutas</a>, uma vez que os sinônimos possibilitam uma gestão mais escalável de termos por produto. Para mais informações, entre em contato com nosso <a href="https://support.vtex.com/hc/pt-br/requests">Suporte</a>.</div>
+> ℹ️ Para relacionar palavras ao produto, é recomendada a utilização da configuração de [Sinônimos](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV?&utm_source=autocomplete) ao invés das [Palavras Substitutas](https://help.vtex.com/pt/tutorial/otimizar-as-buscas-com-palavras-substitutas--32FqSsl5VuQyiIMEc02Uwu?&utm_source=autocomplete), uma vez que os sinônimos possibilitam uma gestão mais escalável de termos por produto. Para mais informações, entre em contato com nosso [Suporte](https://support.vtex.com/hc/pt-br/requests).
 
 Existem duas formas de configurar sinônimos no Admin VTEX: [individualmente](#criar-sinonimos-individualmente) ou por [importação de uma planilha em formato CSV](#importar-csv). Se você precisa cadastrar sinônimos em massa, recomendamos utilizar a planilha. Confira as instruções para cada forma de configuração nas seções a seguir.
 
 A configuração de sinônimos funciona de maneira recursiva. Isso significa que, ao adicionar um segundo sinônimo a outro já existente, ele também se tornará sinônimo do primeiro. 
 
-<div class="alert alert-info" role="alert">
-<p>Sinônimos não devem ser utilizados para resolver erros de grafia, de plural e singular ou mesmo de pronomes, de artigos e de proposições nos termos pesquisados. Em todos estes pontos, o VTEX Intelligent Search é capaz de interpretar, aprender e resolver automaticamente por meio de algoritmos.</p>
-</div>
+> ℹ️ Sinônimos não devem ser utilizados para resolver erros de grafia, de plural e singular ou mesmo de pronomes, de artigos e de proposições nos termos pesquisados. Em todos estes pontos, o VTEX Intelligent Search é capaz de interpretar, aprender e resolver automaticamente por meio de algoritmos.
 
 ## Criar sinônimos individualmente
 
@@ -41,9 +39,7 @@ Siga o passo a passo para configurar sinônimos individualmente no Admin VTEX:
 
 A alteração pode demorar até duas horas para ser aplicada.
 
-<div class = "alert alert-info">
-  <p>Essa funcionalidade está disponível no VTEX Intelligent Search Multi-idioma. Leia o nosso artigo <a href="https://help.vtex.com/pt/tutorial/vtex-intelligent-search-configuracoes-multi-idioma-beta--2WahlTESLXIJ9XBdQMdTYO#sinonimos">VTEX Intelligent Search: configurações Multi-idioma (Beta)</a> para saber mais.</p>
-</div>
+> ℹ️ Essa funcionalidade está disponível no VTEX Intelligent Search Multi-idioma. Leia o nosso artigo [VTEX Intelligent Search: configurações Multi-idioma (Beta)](https://help.vtex.com/pt/tutorial/vtex-intelligent-search-configuracoes-multi-idioma-beta--2WahlTESLXIJ9XBdQMdTYO#sinonimos) para saber mais.
 
 ## Importar CSV
 
@@ -90,6 +86,4 @@ Lojas que utilizam [Configurações Multi-idioma (Beta)](https://help.vtex.com/p
      __Exemplo:__
      - `tv,smart tv;true;en-GB`: ao pesquisar por qualquer um dos termos na loja no idioma inglês (`locale = en-GB`), qualquer produto que contenha um desses termos irá aparecer nos resultados da busca.
 
-<div class="alert alert-warning">
-<p> Se o arquivo CSV importado não apresentar o <code>locale</code>, o sinônimo será válido para todos os idiomas disponíveis na loja.</p>
-</div>
+> ⚠️  Se o arquivo CSV importado não apresentar o `locale`, o sinônimo será válido para todos os idiomas disponíveis na loja.

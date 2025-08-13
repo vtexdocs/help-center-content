@@ -77,7 +77,7 @@ The list of quotes and saved carts displays the following information:
 
 Users can click any row or the <i class="fas fa-ellipsis-v" aria-hidden="true"></i> and then click Details to view and edit the information of a quote, depending on their permissions.
 
-![My quotes - EN](//images.ctfassets.net/alneenqid6w5/53BQDZh9EBc8OrFTxfO1eD/9aa6c7d1954fbd7112da3c65220d70cb/My_Quotes.png)
+![My quotes - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/B2B/b2b-quotes/managing-b2b-quotes_1.png)
 
 ## Creating quotes or saving carts
 To create a quote or saved cart, you must have the [Create Quotes and Carts permission](#create-quotes-and-Carts-permission). After adding products to the cart, use the cart content to create a saved cart or request a quote. Follow the instructions below:
@@ -86,47 +86,45 @@ To create a quote or saved cart, you must have the [Create Quotes and Carts perm
    <li>
       Add products to the shopping cart.
       <ul>
-         <li>Click <strong>Create Quote</strong> in the shopping cart.</li>
+         <li>Click **Create Quote** in the shopping cart.</li>
       </ul>
    </li>
    <li>
-      Go to the storefront and click <strong>Hello, {username}</strong>. Click <strong>My Account</strong>.
+      Go to the storefront and click **Hello, {username}**. Click **My Account**.
       <ul>
-         <li>Click <strong>Quotes and Saved Carts</strong> in the sidebar.</li>
+         <li>Click **Quotes and Saved Carts** in the sidebar.</li>
       </ul>
    </li>
-   <li>Click <strong>New Quote</strong>.</li>
-   <li>Access the <code>/b2b-quotes/create</code> route.</li>
+   <li>Click **New Quote**.</li>
+   <li>Access the `/b2b-quotes/create` route.</li>
    <li>Enter the name of the quote or the saved cart.</li>
    <li>
       Make sure that all the information on the Create Quote page is correct:
       <ul>
-         <li><strong>Original Subtotal:</strong> Shopping cart subtotal not considering discounts.</li>
-         <li><strong>Percentage Discount:</strong> Percent of the discount given by a sales associate.</li>
-         <li><strong>Quoted Subtotal:</strong> Subtotal of the quote with discounts given by sales associates.</li>
-         <li><strong>Image:</strong> Image of the selected product.</li>
-         <li><strong>Ref. Code:</strong> Reference code of the selected product.</li>
-         <li><strong>Name:</strong> Product name.</li>
-         <li><strong>Original Price:</strong> Original price of the product.</li>
-         <li><strong>Quoted Price:</strong> Product price considering the discounts given by sales associates.</li>
-         <li><strong>Quantity:</strong> Number of items.</li>
-         <li><strong>Total:</strong> Total amount considering the quoted price and the number of items.</li>
+         <li>**Original Subtotal:** Shopping cart subtotal not considering discounts.</li>
+         <li>**Percentage Discount:** Percent of the discount given by a sales associate.</li>
+         <li>**Quoted Subtotal:** Subtotal of the quote with discounts given by sales associates.</li>
+         <li>**Image:** Image of the selected product.</li>
+         <li>**Ref. Code:** Reference code of the selected product.</li>
+         <li>**Name:** Product name.</li>
+         <li>**Original Price:** Original price of the product.</li>
+         <li>**Quoted Price:** Product price considering the discounts given by sales associates.</li>
+         <li>**Quantity:** Number of items.</li>
+         <li>**Total:** Total amount considering the quoted price and the number of items.</li>
       </ul>
    </li>
-   <li>Write a note in the <strong>Add Note</strong> field, if necessary.</li>
+   <li>Write a note in the **Add Note** field, if necessary.</li>
 </ol>
-<div class = "alert alert-info">
-   Notes added here will be visible as part of the Update History of the quote or saved cart and can be seen by the sales associates or other members of your organization and cost center. For example: if a user wants to ask for a specific discount from the sales associate in the B2B store, they can enter this request as a note.
-</div>
+> ℹ️ Notes added here will be visible as part of the Update History of the quote or saved cart and can be seen by the sales associates or other members of your organization and cost center. For example: if a user wants to ask for a specific discount from the sales associate in the B2B store, they can enter this request as a note.
 <ol start="8">
    <li>
       Click one of the following options:
       <ul>
          <li>
-            <strong>Save for Later:</strong> Creates a saved cart. The status of the newly created saved cart will be set to <strong>Ready</strong>, which means that it can be used immediately in an order by any user within that organization or cost center who has the <a href="#">permission</a> to Create Orders from Quotes and Carts.
+            **Save for Later:** Creates a saved cart. The status of the newly created saved cart will be set to **Ready**, which means that it can be used immediately in an order by any user within that organization or cost center who has the [permission](#) to Create Orders from Quotes and Carts.
          </li>
          <li>
-            <strong>Save Quote:</strong> Creates a quote. The status of the newly created quote will be set to <strong>Pending</strong>, which means that it will need to be reviewed and adjusted by a sales associate before any special discounts can be applied.
+            **Save Quote:** Creates a quote. The status of the newly created quote will be set to **Pending**, which means that it will need to be reviewed and adjusted by a sales associate before any special discounts can be applied.
          </li>
       </ul>
    </li>
@@ -134,7 +132,7 @@ To create a quote or saved cart, you must have the [Create Quotes and Carts perm
 
 A quote is essentially a saved cart with the original quantities and prices of the items in the user's shopping cart.
 
-![Create Quote - EN](//images.ctfassets.net/alneenqid6w5/sIVQqxw1NtZLbqtI3K4we/88ce527cb1318d54dc13242660b04d2a/Create_quote.png)
+![Create Quote - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/B2B/b2b-quotes/managing-b2b-quotes_2.png)
 
 ## Quote details
 The Quote Details page displays all the information about a quote or saved cart, as well as the actions available based on the status and [user permissions](#access-permissions). To access this page, go to **My Account > Quotes and Saved Carts**.
@@ -157,7 +155,7 @@ On this page, you will see the following information:
 - **Update History:** Includes a history of all events related to the quote, such as its creation and discounts given, including notes, if any.
 - **Add Note:** Optional field for writing comments or notes. Notes added here will be visible as part of the Update History of the quote or saved cart. For example, if a user wants to ask for a specific discount from the sales associate, they can enter this request as a note.
 
-![Quotes Details - EN](//images.ctfassets.net/alneenqid6w5/5XLea07XtuCRfGJyvX819I/3f0a860131ed34dfac7c3d0089c1a00d/Quotes_details.png)
+![Quotes Details - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/B2B/b2b-quotes/managing-b2b-quotes_3.png)
 
 ## Editing quotes
 Users with [editing permissions](#access-permissions), usually associated with sales or store administrator roles, can edit quotes on the Quote Details page as follows:
@@ -183,8 +181,6 @@ Users with the [permission](#access-permissions) to **Reject** Quotes and Carts 
 
 To use the quote, click `Use Quote` on the quote details page. You will be redirected to checkout, with the content of the quote or saved cart added to your current cart. All items that were previously in your cart will be removed.
 
-<div class="alert alert-warning">
-If the <a href="https://help.vtex.com/en/tutorial/b2b-checkout-settings--u7wG1SjmeCqXCSF2UsVok"> Checkout Settings</a> app is installed, the checkout will be blocked until you place the order. This means that you won't be able to edit product quantities or add or remove new products. If there are not enough items in stock to meet the quantity specified in the quote or saved cart, the system will automatically adjust the quantity. If a product is not available, the checkout will allow you to remove it from the cart.
-</div>
+> ⚠️ If the [ Checkout Settings](https://help.vtex.com/en/tutorial/b2b-checkout-settings--u7wG1SjmeCqXCSF2UsVok) app is installed, the checkout will be blocked until you place the order. This means that you won't be able to edit product quantities or add or remove new products. If there are not enough items in stock to meet the quantity specified in the quote or saved cart, the system will automatically adjust the quantity. If a product is not available, the checkout will allow you to remove it from the cart.
 
 After placing the order, the status of the quote or saved cart will automatically change to **Placed**, preventing its further use.

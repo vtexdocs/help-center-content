@@ -43,38 +43,34 @@ Para configurar una [regla de merchandising](https://help.vtex.com/es/tracks/vte
       Más información sobre estas acciones en los puntos **4, 5, 6, 8, 9** y **11** de la sección [Acciones disponibles en el Editor visual](#acciones-disponibles-en-el-editor-visual).
 9. Haz clic en `Guardar`.
 
- <div class="alert alert-info">
-  <p>Una vez guardados, los cambios en las reglas de merchandising tardan un promedio de dos minutos en actualizarse.</p>
-</div>
+ > ℹ️ Una vez guardados, los cambios en las reglas de merchandising tardan un promedio de dos minutos en actualizarse.
 
 ## Acciones disponibles en el Editor visual
 
 El Editor visual de reglas de merchandising de VTEX Intelligent Search permite realizar las acciones que se ilustran en la imagen siguiente:
 
-![visual-merch-rules-ES-v2](//images.ctfassets.net/alneenqid6w5/1wQEvrFFEp5ixHPCVtHsxa/717c18f418806f9cda88166167928548/visual-merch-rules-ES-v2.png)
+![visual-merch-rules-ES-v2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/intelligent-search/relevance/crear-regla-de-merchandising-editor-visual_1.png)
 
 <ol class="mv7" type="I">
     <li class="t-body c-on-base mb5 lh-copy">Editar nombre de la regla de merchandising.</li>
     <li class="t-body c-on-base mb5 lh-copy">Definir los términos de búsqueda para aplicar la regla de merchandising.</li>
-    <li class="t-body c-on-base mb5 lh-copy">Definir <a href="#agregar-filtros-y-condiciones" rel="noopener noreferrer"
-            target="_self"
-            class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word">filtros</a> para aplicar la regla de merchandising.</li>
+    <li class="t-body c-on-base mb5 lh-copy">Definir [filtros](#agregar-filtros-y-condiciones) para aplicar la regla de merchandising.</li>
     <li class="t-body c-on-base mb5 lh-copy">Definir cantidad de ítems por fila en los resultados de búsqueda.</li>
     <li class="t-body c-on-base mb5 lh-copy">Definir cantidad de ítems por página en los resultados de búsqueda.</li>
     <li class="t-body c-on-base mb5 lh-copy">Ocultar producto en los resultados de búsqueda. En el Editor visual, los productos ocultos aparecen en gris con el ícono del ojo tachado <i class="far fa-eye-slash"></i>. Para volver a mostrar un producto oculto, pasa el mouse sobre él y haz clic en el ícono del ojo <i class="far fa-eye"></i>.</li>
     <li class="t-body c-on-base mb5 lh-copy">Ver detalles del producto. La información mostrada es:<br /><br />
 	   <ul>
-		  <li class="t-body c-on-base mb5 lh-copy"><strong>Disponible:</strong> indica si el producto está o no disponible en la tienda.</li>
-			<li class="t-body c-on-base mb5 lh-copy"><strong>Clics:</strong> número de clics durante los últimos 90 días.</li>
-			<li class="t-body c-on-base mb5 lh-copy"><strong>Pedidos:</strong> número de pedidos realizados que incluyen el producto en los últimos 90 días.</li>
-			<li class="t-body c-on-base mb5 lh-copy"><strong>Ingresos:</strong> ingresos que generó el producto en los últimos 90 días.</li>
-			<li class="t-body c-on-base mb5 lh-copy"><strong>Fecha de lanzamiento:</strong> fecha de lanzamiento del producto.</li> 
-			<li class="t-body c-on-base mb5 lh-copy"><strong>Promoción:</strong> indica si el producto forma parte o no de una promoción.</li>
-			<li class="t-body c-on-base mb5 lh-copy"><strong>Descuento:</strong> descuento aplicado sobre el producto.</li>
-			<li class="t-body c-on-base mb5 lh-copy"><strong>Variedad de matriz disponible: </strong>representa el porcentaje de SKU disponibles del producto. Por ejemplo, si un producto tiene cinco SKU y solo hay tres disponibles, la variedad de matriz disponible será del 60 %, representada como 0.6 en este campo. Si todos los SKU están disponibles, el valor del campo será 1.</li>
+		  <li class="t-body c-on-base mb5 lh-copy">**Disponible:** indica si el producto está o no disponible en la tienda.</li>
+			<li class="t-body c-on-base mb5 lh-copy">**Clics:** número de clics durante los últimos 90 días.</li>
+			<li class="t-body c-on-base mb5 lh-copy">**Pedidos:** número de pedidos realizados que incluyen el producto en los últimos 90 días.</li>
+			<li class="t-body c-on-base mb5 lh-copy">**Ingresos:** ingresos que generó el producto en los últimos 90 días.</li>
+			<li class="t-body c-on-base mb5 lh-copy">**Fecha de lanzamiento:** fecha de lanzamiento del producto.</li> 
+			<li class="t-body c-on-base mb5 lh-copy">**Promoción:** indica si el producto forma parte o no de una promoción.</li>
+			<li class="t-body c-on-base mb5 lh-copy">**Descuento:** descuento aplicado sobre el producto.</li>
+			<li class="t-body c-on-base mb5 lh-copy">**Variedad de matriz disponible: **representa el porcentaje de SKU disponibles del producto. Por ejemplo, si un producto tiene cinco SKU y solo hay tres disponibles, la variedad de matriz disponible será del 60 %, representada como 0.6 en este campo. Si todos los SKU están disponibles, el valor del campo será 1.</li>
 	   </ul>
     </li>
-    <li class="t-body c-on-base mb5 lh-copy">Arrastrar producto anclado a la posición deseada en los resultados de búsqueda. Solo pueden arrastrarse productos que hayan sido anclados (acción <strong>IX</strong> de esta lista).</li>
+    <li class="t-body c-on-base mb5 lh-copy">Arrastrar producto anclado a la posición deseada en los resultados de búsqueda. Solo pueden arrastrarse productos que hayan sido anclados (acción **IX** de esta lista).</li>
     <li class="t-body c-on-base mb5 lh-copy">Anclar producto, es decir, situarlo en las primeras posiciones de los resultados de búsqueda. Al anclar el producto A y, a continuación, el producto B, aparecerán en ese orden en los resultados de búsqueda, antes que los demás. Para desanclar un producto, pasa el cursor sobre él y haz clic en el ícono de la tachuela tachada <i class="fas fa-thumbtack"></i>.</li>
     <li class="t-body c-on-base mb5 lh-copy">Navegar entre páginas de resultados de búsqueda.</li>
     <li class="t-body c-on-base mb5 lh-copy">Editar la configuración inicial de la regla de merchandising, que incluye el nombre de la regla, las fechas de inicio y fin y, si la tienda utiliza la <a rel="noopener noreferrer" target="_self" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word" href="https://help.vtex.com/es/tutorial/vtex-intelligent-search-configuracoes-multi-idioma-beta--2WahlTESLXIJ9XBdQMdTYO">Configuración multidioma (beta)</a>, los idiomas a los que se aplicará.</li>
@@ -86,7 +82,7 @@ El Editor visual de reglas de merchandising de VTEX Intelligent Search permite r
 
 El filtro es un atributo seleccionable predefinido que restringe los resultados de la búsqueda, por ejemplo, permite filtrar por todos los productos de una categoría o marca, entre otras condiciones. Puedes agregar una o más condiciones a un filtro, tal como se muestra a continuación.
 
-![filtros-merchrules-es](//images.ctfassets.net/alneenqid6w5/5e2KtHyjaAmvBqRDaJe8EK/cff18739dd40a27d303df3b5664e4d63/filtros-es.gif)
+![filtros-merchrules-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/intelligent-search/relevance/crear-regla-de-merchandising-editor-visual_2.gif)
 
 Si deseas agregar una condición en el Editor visual, sigue cada uno de los pasos que se indican a continuación. 
 

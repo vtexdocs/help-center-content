@@ -17,9 +17,7 @@ subcategoryId:
 
 A ClearSale Global é uma solução antifraude, disponível __exclusivamente para o mercado internacional__. Através da análise comportamental dos clientes, a solução identifica vulnerabilidades e evita possíveis fraudes nas transações da sua loja.
 
-<div class="alert alert-info">
-Caso você esteja no Brasil e queira utilizar a ClearSale, a VTEX oferece integração com a ClearSale V3, exclusiva para clientes brasileiros. Acesse o tutorial <a href="https://help.vtex.com/pt/tutorial/configurar-antifraude-clearsale-v3--2pPORygesIqQOa6cIG6agg?&utm_source=autocomplete">Configurar antifraude ClearSale v3</a> para realizar a configuração.
-  </div>
+> ℹ️ Caso você esteja no Brasil e queira utilizar a ClearSale, a VTEX oferece integração com a ClearSale V3, exclusiva para clientes brasileiros. Acesse o tutorial [Configurar antifraude ClearSale v3](https://help.vtex.com/pt/tutorial/configurar-antifraude-clearsale-v3--2pPORygesIqQOa6cIG6agg?&utm_source=autocomplete) para realizar a configuração.
 
 Para configurar a __ClearSale Global__, será necessário:
 
@@ -35,14 +33,14 @@ Para configurar a __ClearSale Global__, será necessário:
 4. Na seção __Antifraudes__, selecione __ClearSaleGlobal__.
 5. Preencha os seguintes campos com as informações enviadas via e-mail pela ClearSale.<br><br>
 <ul>
-  <li><b>Application key e Application token.</li></b>
-  <li><b>Enable Risk Pre-Analysis.</b> (Atualmente disponível somente para o México).</li>
-<li><b>API Key.</li></b>
-<li><b>AnalysisLocation.</li></b>
+  <li>**Application key e Application token.</li>**
+  <li>**Enable Risk Pre-Analysis.** (Atualmente disponível somente para o México).</li>
+<li>**API Key.</li>**
+<li>**AnalysisLocation.</li>**
  </ul>
   </li>
 </ul>
-6. Ao finalizar o preenchimento, clique em <b>Salvar.</b>
+6. Ao finalizar o preenchimento, clique em **Salvar.**
 
 ## Configurar o Google Tag Manager
 
@@ -64,21 +62,21 @@ Para configurar a __ClearSale Global__, será necessário:
     window.vtex.deviceFingerprint = deviceFingerprintIdCSV4;
 </script>
 ```
-  <ui>5. Após inserir o código, marque a opção <b>Suporte para document.write"</b>.</ui>
+  <ui>5. Após inserir o código, marque a opção **Suporte para document.write"**.</ui>
 <br>  
-  <ui>6. Em <b>Dispara em</b>, selecione a opção <b>Mais</b> e clique em <b>Novo</b>.</ui>
+  <ui>6. Em **Dispara em**, selecione a opção **Mais** e clique em **Novo**.</ui>
 <br>  
-  <ui>7. Insira um nome para este acionador e escolha o evento tipo <b>Evento Personalizado</b>.</ui>
+  <ui>7. Insira um nome para este acionador e escolha o evento tipo **Evento Personalizado**.</ui>
 <br>  
-  <ui>8. Em <b>Disparar Em</b>, defina o nome do evento como <b>payment</b>.</ui>
+  <ui>8. Em **Disparar Em**, defina o nome do evento como **payment**.</ui>
 <br>  
   <ui>9. Salve o acionador.</ui>
 <br>  
-  <ui>10. Clique no botão <b>Criar Tag</b>, insira um nome para esta tag e salve.</ui>
+  <ui>10. Clique no botão **Criar Tag**, insira um nome para esta tag e salve.</ui>
 <br>  
-  <ui>11. No canto superior direito, clique em <b>Publicar</b>.</ui> 
+  <ui>11. No canto superior direito, clique em **Publicar**.</ui> 
 
-![Fingerprint ClearSalve_Tela](https://images.contentful.com/alneenqid6w5/1cCBNxfRXCGQr4QxBsPgg6/314960d342aad03b56da4affe46439f8/Fingerprint_ClearSalve_Tela.png)
+![Fingerprint ClearSalve_Tela](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/uncategorized/unknown-subcategory/configurar-o-antifraude-clearsale-global_1.png)
 
 Para mais detalhes sobre o código inserido no Google Tag Manager, recomendamos a leitura [desta documentação](https://api.clearsale.com.br/docs/behavior-analytics), da ClearSale. 
 

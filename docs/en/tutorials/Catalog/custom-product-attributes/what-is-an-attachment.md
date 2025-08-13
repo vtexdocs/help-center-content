@@ -17,9 +17,7 @@ subcategoryId: 1hoOi2R0Rm6ky0yCwOUoiy
 
 An attachment is the optional and cost-free customization of a product. It's used to add information to an SKU. This information may be related to a [service](/en/tutorial/what-is-a-service) or the purchased item itself.
 
-<div class = "alert alert-warning">
-VTEX does not control the stock of an attachment. This is a responsibility of the marketplace or the seller.
-</div>
+> ⚠️ VTEX does not control the stock of an attachment. This is a responsibility of the marketplace or the seller.
 
 If your purchased item is a Brazilian National Team Shirt, the name of your Attachment may be __Customization__, and its keys:
 

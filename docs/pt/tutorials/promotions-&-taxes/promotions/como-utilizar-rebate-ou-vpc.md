@@ -25,9 +25,7 @@ Todo esse cenário além de fortalecer os relacionamentos entre fornecedores e r
 
 A maneira mais apropriada para utilizar o rebate recebido dos fornecedores é por meio de [Promoções Regulares](https://help.vtex.com/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI#) com restrições de uso requeridas. Para saber mais sobre as possibilidades da Promoção Regular, leia nosso artigo de [Exemplos de promoção](https://help.vtex.com/pt/tutorial/exemplos-de-promocao--5A8UTc7knvAscxo7e7rMFD).
 
-<div class = "alert alert-warning">
-  <p>O cliente pode eventualmente cancelar a compra de um pedido com desconto do rebate. Nesse caso, é preciso redirecionar a promoção para outro cliente para, assim, atingir o total dos créditos. Para verificar se o rebate foi aplicado a um pedido, use os endpoints <a href = "https://developers.vtex.com/vtex-developer-docs/reference/user-orders#userorderslist">Retrieve User's orders</a> ou <a href="https://developers.vtex.com/vtex-developer-docs/reference/orders#getorder">Get Order</a> da Orders API.</p>
-</div>
+> ⚠️ O cliente pode eventualmente cancelar a compra de um pedido com desconto do rebate. Nesse caso, é preciso redirecionar a promoção para outro cliente para, assim, atingir o total dos créditos. Para verificar se o rebate foi aplicado a um pedido, use os endpoints <a href = "https://developers.vtex.com/vtex-developer-docs/reference/user-orders#userorderslist">Retrieve User's orders</a> ou [Get Order](https://developers.vtex.com/vtex-developer-docs/reference/orders#getorder) da Orders API.
 
 ## Exemplo
 

@@ -47,9 +47,7 @@ Para actualizar datos existentes, es imprescindible exportarlos como se describe
 
 Para crear un nuevo registro, crea una nueva fila con la información del registro y mantén el valor de la columna id vacío.
 
-<div class="alert alert-warning">
-Al ingresar los datos en la plantilla, comprueba que el formato de los valores en las celdas coincida con el formato esperado por la respectiva columna (campo del formulario). Algunos ejemplos de formatos son número, texto o fecha.
-</div>
+> ⚠️ Al ingresar los datos en la plantilla, comprueba que el formato de los valores en las celdas coincida con el formato esperado por la respectiva columna (campo del formulario). Algunos ejemplos de formatos son número, texto o fecha.
 
 ## Cargar la plantilla
 
@@ -62,6 +60,4 @@ Después de la exportación y edición de la plantilla, debes realizar la import
 5. Haz clic en `Seleccionar archivo` para seleccionar el archivo de la plantilla en tu dispositivo.
 6. Haz clic en el botón `Importar` en la esquina inferior derecha de la pantalla.
 
-<div class="alert alert-warning">
-Mantén el mismo formato de la plantilla exportada (XLS) para realizar la importación con éxito.
-</div>
+> ⚠️ Mantén el mismo formato de la plantilla exportada (XLS) para realizar la importación con éxito.

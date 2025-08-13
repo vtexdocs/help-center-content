@@ -21,17 +21,13 @@ Na VTEX, sua loja pode receber pagamentos por meio de promissórias customizadas
 - [Configurar Promissória](#configurar-promissoria)
 - [Configurar condição de pagamento](#configurar-condicao-de-pagamento)
 
-<div class="alert alert-warning">
-  As informações deste artigo não são referentes as condições de pagamento <b>Promissory</b> ou <b>CardPromissory</b> disponíveis no Admin em <b>Configurações da loja > Pagamentos > Configurações > Condições de pagamento</b>.
-</div>
+> ⚠️ As informações deste artigo não são referentes as condições de pagamento **Promissory** ou **CardPromissory** disponíveis no Admin em **Configurações da loja > Pagamentos > Configurações > Condições de pagamento**.
 
 ## Configurar provedor de pagamento
 
 Para configurar um provedor de pagamento, acesse [Cadastrar provedores de pagamento e antifraude](https://help.vtex.com/pt/tutorial/afiliacoes-de-gateway--tutorials_444#).
 
-<div class="alert alert-warning">
-Verifique se o provedor de pagamento desejado suporta o processamento de pagamento por promissória.
-</div>
+> ⚠️ Verifique se o provedor de pagamento desejado suporta o processamento de pagamento por promissória.
 
 ## Configurar Promissória
 
@@ -51,7 +47,7 @@ Após cadastrar o provedor de pagamento, siga os passos abaixo:
 - __Faturamento automático:__ Quantidade de dias para faturamento automático da promissória após autorização. Promissórias são faturadas no momento da autorização do pagamento. Ao configurar esse campo, o faturamento deixará de acontecer na autorização e passará a ser feito após o número de dias definido pelo cliente.<br>
 
 <ul>  
-5. Clique em <b>Salvar</b>.  
+5. Clique em **Salvar**.  
 </ul>
 
 ## Configurar condição de pagamento

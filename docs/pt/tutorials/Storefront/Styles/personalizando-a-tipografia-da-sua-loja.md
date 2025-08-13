@@ -19,9 +19,7 @@ A tipografia da sua loja online é uma ferramenta para mostrar a identidade de s
 
 No Admin, você tem flexibilidade para personalizar a tipografia da sua loja de acordo com as necessidades de seu negócio.
 
-<div class="alert alert-warning">
-  <p>Lembre-se de que as mudanças realizadas na tipografia da sua loja no <b>Storefront</b> substituem as mudanças de tipografia feitas no código da loja. Por favor, entre em contato com sua equipe de desenvolvimento e certifique-se de que essas mudanças serão definidas no Storefront ou pelo código da sua loja.</p>
-</div>
+> ⚠️ Lembre-se de que as mudanças realizadas na tipografia da sua loja no **Storefront** substituem as mudanças de tipografia feitas no código da loja. Por favor, entre em contato com sua equipe de desenvolvimento e certifique-se de que essas mudanças serão definidas no Storefront ou pelo código da sua loja.
 
 ## Adicionar famílias de fontes personalizadas
 
@@ -35,13 +33,11 @@ No Admin, você tem flexibilidade para personalizar a tipografia da sua loja de 
 
 5. No campo **Família de fontes**, crie um nome para a fonte.
 
-    ![familia-de-fontes-giff-pt](//images.ctfassets.net/alneenqid6w5/5GVDDJvzXVmlkEbU1OHPoR/d3a05b339370de4be136cc16685a0a99/familia-de-fontes-giff-pt.gif)
+    ![familia-de-fontes-giff-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Storefront/Styles/personalizando-a-tipografia-da-sua-loja_1.gif)
 
 6. Clique em **Enviar** para fazer o upload do arquivo da fonte desejada.
 
-<div class="alert alert-warning">
-  <p>O arquivo da família de fontes deve ter uma das seguintes extensões: <i>.ttf</i> ou <i>.woff</i>.</p>
-</div>
+> ⚠️ O arquivo da família de fontes deve ter uma das seguintes extensões: *.ttf* ou *.woff*.
 
 7. Após finalizar o upload dos arquivos, escolha um estilo para as fontes. Os valores aceitos são: `Thin`, `Extra Light`, `Light`, `Regular`, `Medium`, `Bold`, `Extra Bold`, `Black`, `Thin Italic`, `Extra Light Italic`, `Light Italic`, `Regular Italic`, `Medium Italic`, `Bold Italic`, `Extra Bold Italic` e `Black Italic`.
 
@@ -71,7 +67,7 @@ Siga as instruções a seguir para configurar tokens de tipo:
 
 3. Clique em **Editar > Tipografia > Tokens de tipo**.
 
-    ![tokens-tipo-giff-pt](//images.ctfassets.net/alneenqid6w5/6O5G4MOA0vGlFLEzdcRQDa/ffb592b26d8e7702b566ddc2731e76c7/tokens-tipo-giff-pt.gif)
+    ![tokens-tipo-giff-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Storefront/Styles/personalizando-a-tipografia-da-sua-loja_2.gif)
 
 4. Escolha o token que você deseja personalizar como, por exemplo, **Heading 1** (Cabeçalho 1), e clique nele.
 

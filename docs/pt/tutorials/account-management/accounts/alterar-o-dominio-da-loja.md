@@ -75,6 +75,4 @@ Para garantir que todos os acessos ao domínio antigo sejam direcionados para o 
 * Recomendamos o uso de ferramentas como [direcionar.com.br](https://direcionar.com.br) e [redirect.center](https://redirect.center) para criar o redirecionamento.  
 * No painel DNS, evite usar CNAME para redirecionamento, pois essa configuração não garante um redirecionamento adequado.
 
-<div class="alert alert-warning">
-  <p>É comum que as primeiras navegações no novo domínio sejam mais lentas do que o esperado devido à criação inicial do cache. Esse impacto é temporário e se normaliza com o tempo.</p>
-</div>
+> ⚠️ É comum que as primeiras navegações no novo domínio sejam mais lentas do que o esperado devido à criação inicial do cache. Esse impacto é temporário e se normaliza com o tempo.

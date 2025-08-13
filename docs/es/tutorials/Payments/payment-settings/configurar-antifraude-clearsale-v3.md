@@ -28,20 +28,17 @@ Para configurar ClearSaleV3 siga los pasos a continuación:
 <br>
 <ul>
 <br>
-  <li><b>Login</b>: login.</li>
-  <li><b>Password</b>: contraseña.</li>
-  <li><b>SLA personalizado en minutos (opcional)</b>: período en el que ClearSale tendrá que procesar el análisis de fraude.</li>
-  <li><b>Producto (opcional)</b>: valor numérico. Corresponde al ID del producto contratado en ClearSale.</li>
-  <li><b>Transaction currency</b>: moneda en la que se realiza la transacción.</li>
-  <li><b>Observation (opcional)</b>: texto abierto para enviar a ClearSale como nota.</li>
-  <li><b>¿Enviar transacciones autenticadas?</b>: indica si las transacciones de pago deben autenticarse con una contraseña en el programa 3DSecure.</li>
+  <li>**Login**: login.</li>
+  <li>**Password**: contraseña.</li>
+  <li>**SLA personalizado en minutos (opcional)**: período en el que ClearSale tendrá que procesar el análisis de fraude.</li>
+  <li>**Producto (opcional)**: valor numérico. Corresponde al ID del producto contratado en ClearSale.</li>
+  <li>**Transaction currency**: moneda en la que se realiza la transacción.</li>
+  <li>**Observation (opcional)**: texto abierto para enviar a ClearSale como nota.</li>
+  <li>**¿Enviar transacciones autenticadas?**: indica si las transacciones de pago deben autenticarse con una contraseña en el programa 3DSecure.</li>
 </ul>
 7. Haga clic en `Guardar`.
 
-<div class="alert alert-info">
-<p>Si tiene una aplicación móvil que utiliza API de VTEX en el momento del pago, es necesario implementar la recolección de datos de huellas dactilares para enviarlos a Clearsale, según la plataforma utilizada por la aplicación. Obtenga más información en <a href="https://api.clearsale.com.br/docs/behavior-analytics" target="_blank">Clearsale Behavior Analytics</a>.</p>
-  <p>Con la implementación del SDK es necesario recolectar el valor de <span class="bg-muted-4">sessionId</span> y enviarlo en el <span class="bg-muted-4">deviceFingerprint</span> a través de la <a href="https://developers.vtex.com/docs/api-reference/payment-provider-protocol#post-/payments">API al momento de crear el pago</a>.</p>  
-</div>
+> ℹ️ Si tiene una aplicación móvil que utiliza API de VTEX en el momento del pago, es necesario implementar la recolección de datos de huellas dactilares para enviarlos a Clearsale, según la plataforma utilizada por la aplicación. Obtenga más información en [Clearsale Behavior Analytics](https://api.clearsale.com.br/docs/behavior-analytics). Con la implementación del SDK es necesario recolectar el valor de <span class="bg-muted-4">sessionId</span> y enviarlo en el <span class="bg-muted-4">deviceFingerprint</span> a través de la [API al momento de crear el pago](https://developers.vtex.com/docs/api-reference/payment-provider-protocol#post-/payments).
 
 ## Creación de la etiqueta de Google Tag Manager
 
@@ -73,7 +70,7 @@ La configuración del antifraude ClearSale v3 requiere la creación de una etiqu
 10. Hacer clic en el botón __Crear Tag__, insertar un nombre para esta tag y guardar.
 11. En la esquina superior derecha, hacer clic en __Publicar__.
 
-![Pasted image at 2017 10 20 01 11 PM](https://images.contentful.com/alneenqid6w5/2kdI4xh9IYwKI2mSiU20yW/b850c070cc8de2ec09e690ffe6cc9c15/Pasted_image_at_2017_10_20_01_11_PM.png)
+![Pasted image at 2017 10 20 01 11 PM](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/payment-settings/configurar-antifraude-clearsale-v3_1.png)
 
 ## Detalles del campo customSLA
 
@@ -87,10 +84,8 @@ El valor de `shippingEstimate` se obtiene a partir de un cálculo realizado por 
 - `h` para horas si el tiempo es inferior a 24 horas y al menos 2 horas.
 - `m` para minutos si el tiempo es inferior a 2 horas.
 
-El `shippingEstimate` puede obtenerse en los ítems de `shippingData.logisticsInfo[]` en la respuesta del endpoint <a href="https://developers.vtex.com/vtex-rest-api/reference/orders#getorder" target="_blank">Get Order</a>.
+El `shippingEstimate` puede obtenerse en los ítems de `shippingData.logisticsInfo[]` en la respuesta del endpoint [Get Order](https://developers.vtex.com/vtex-rest-api/reference/orders#getorder).
 
-El valor de `deliverySlaInMinutes` es la conversión de `shippingEstimate` en minutos. Si la unidad es `m` (minutos) será el mismo valor, si la unidad es `h` (horas) el valor se multiplica por 60 y si la unidad es `d` (días consecutivos) o `bd` (días hábiles) el valor se multiplica por 1440. Por ejemplo, tres días consecutivos o `3d` se representa como `4320`. El `deliverySlaInMinutes` se utiliza en cada ítem del `minicart` en el cuerpo de la solicitud de los endpoints <a href="https://developers.vtex.com/vtex-rest-api/reference/antifraud-flow#sendantifraudpreanalysisdata" target="_blank">Send Antifraud Pre-Analysis Data</a> y <a href="https://developers.vtex.com/vtex-rest-api/reference/antifraud-flow#sendantifrauddata" target="_blank">Send Antifraud Data</a>.
+El valor de `deliverySlaInMinutes` es la conversión de `shippingEstimate` en minutos. Si la unidad es `m` (minutos) será el mismo valor, si la unidad es `h` (horas) el valor se multiplica por 60 y si la unidad es `d` (días consecutivos) o `bd` (días hábiles) el valor se multiplica por 1440. Por ejemplo, tres días consecutivos o `3d` se representa como `4320`. El `deliverySlaInMinutes` se utiliza en cada ítem del `minicart` en el cuerpo de la solicitud de los endpoints [Send Antifraud Pre-Analysis Data](https://developers.vtex.com/vtex-rest-api/reference/antifraud-flow#sendantifraudpreanalysisdata) y [Send Antifraud Data](https://developers.vtex.com/vtex-rest-api/reference/antifraud-flow#sendantifrauddata).
 
-<div class="alert alert-info">
-Aunque la conversión del tiempo en días consecutivos (<code>d</code>) y días hábiles (<code>bd</code>) a minutos es igual en el campo <code>deliverySlaInMinutes</code>, la fecha de entrega puede ser diferente en función del calendario (cuando hay fines de semana y feriados en el periodo de entrega).
-</div>
+> ℹ️ Aunque la conversión del tiempo en días consecutivos (`d`) y días hábiles (`bd`) a minutos es igual en el campo `deliverySlaInMinutes`, la fecha de entrega puede ser diferente en función del calendario (cuando hay fines de semana y feriados en el periodo de entrega).

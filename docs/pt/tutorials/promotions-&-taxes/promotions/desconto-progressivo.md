@@ -17,7 +17,7 @@ subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 
 O desconto progressivo é uma funcionalidade que permite criar promoções com percentuais de desconto crescentes, à medida que o cliente adiciona mais produtos ao carrinho. Essa estratégia é ideal para estimular compras em maiores quantidades, recompensando o cliente com benefícios proporcionais ao volume adquirido.
 
-![Desconto Progressivo gift-PT](//images.ctfassets.net/alneenqid6w5/5bWDJyWkKBJaoER9XPBkEq/cf2afe38423f512b4c0fa6f0827dc9c0/Desconto_Progressivo-PT.gif)
+![Desconto Progressivo gift-PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promotions-&-taxes/promotions/desconto-progressivo_1.gif)
 
 Para configurar o **Desconto progressivo**, você precisa executar os seguintes passos:
 
@@ -40,16 +40,16 @@ Para criar o desconto progressivo, siga as etapas abaixo:
 | Campo                                 | Descrição                                                                                                                                                                                                                                                                                                                                                                                                                 | Exemplo                                           |
 |---------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|
 | **Nome**                              | Escolha um nome claro e objetivo que reflita o propósito da promoção, facilitando a identificação pelos clientes (até 150 caracteres).                                                                                                                                                                                                                                                                                   | Queima de Estoque Verão.                          |
-| **Status**                            | Defina se a promoção estará **Ativa** ou **Inativa**. Configure como <i class="fas fa-toggle-on" aria-hidden="true"></i>` para aplicar a promoção conforme as datas e horários configurados. Configure como `<i class="fas fa-toggle-off" aria-hidden="true"></i>` para pausá-la, mesmo que esteja dentro do período definido.                                                                                            | ![Habilitar Promoções-PT](//images.ctfassets.net/alneenqid6w5/53JRRDwnwqYZHkAvXDHZ4q/eb0e4a15df178f7b63331d9260a00657/Habilitar_Promo__es-_PT.png) ![Desabilitar Promoções-PT](//images.ctfassets.net/alneenqid6w5/3kMog54wFdkBKNgBOped6G/a823005ec61016575bb71fcb7f95d428/desabilitar_Promo__es-_PT.png)                                        |
+| **Status**                            | Defina se a promoção estará **Ativa** ou **Inativa**. Configure como <i class="fas fa-toggle-on" aria-hidden="true"></i>` para aplicar a promoção conforme as datas e horários configurados. Configure como `<i class="fas fa-toggle-off" aria-hidden="true"></i>` para pausá-la, mesmo que esteja dentro do período definido.                                                                                            | ![Habilitar Promoções-PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promotions-&-taxes/promotions/desconto-progressivo_2.png) ![Desabilitar Promoções-PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promotions-&-taxes/promotions/desconto-progressivo_3.png)                                        |
 | **Descrição**                         | A descrição interna da promoção deve ser usada para registrar informações destinadas à comunicação interna da loja (até 10.000 caracteres). Este campo serve para especificar o motivo da promoção, por exemplo, uma campanha específica, ou queima de estoque.                                                                                                                                                           | Promoção destinada à liquidação de itens da coleção Verão. |
-| **Data de início e horário de início**| Selecione a data e o horário exatos para o início da promoção, garantindo que ela seja ativada no momento desejado. Certifique-se de ajustar conforme o planejamento da campanha para maximizar sua eficácia.                                                                                                                                                                                                             | ![Data e horário de início da Promoções-PT](//images.ctfassets.net/alneenqid6w5/5gTtMgL4HlIDqOLXr0GlkR/f8f64dfaac287942539c14665ead4223/Data_e_horario_de_inicio_da_Promo__es-PT.png)                                        |
-| **Data de término e horário de término**| Defina o período de validade da promoção configurando a data e o horário exatos para sua desativação automática.                                                                                                                                                                                                                                                                                                          | ![Data de término e horário da Promoções-PT](//images.ctfassets.net/alneenqid6w5/47LXgLL2EnmPdeB7HBDAlc/88bd72f29fc641769bcea1ab501f667e/Data_de_termino_e_horario_da_Promo__es-PT.png)                                                 |
-| **Usar configurações de recorrência** | Selecione esta opção para programar a repetição automática da promoção em dias e horários específicos. Configure os intervalos desejados para garantir recorrência conforme o planejamento.                                                                                                                                                                                                                                | ![Usar recorrência-PT](//images.ctfassets.net/alneenqid6w5/45x0h14pQOrpBu6RacEheI/3c6a2c9c33077e70b3cef58153d463fd/Usar_recorrencia-PT.png)                                        |
+| **Data de início e horário de início**| Selecione a data e o horário exatos para o início da promoção, garantindo que ela seja ativada no momento desejado. Certifique-se de ajustar conforme o planejamento da campanha para maximizar sua eficácia.                                                                                                                                                                                                             | ![Data e horário de início da Promoções-PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promotions-&-taxes/promotions/desconto-progressivo_4.png)                                        |
+| **Data de término e horário de término**| Defina o período de validade da promoção configurando a data e o horário exatos para sua desativação automática.                                                                                                                                                                                                                                                                                                          | ![Data de término e horário da Promoções-PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promotions-&-taxes/promotions/desconto-progressivo_5.png)                                                 |
+| **Usar configurações de recorrência** | Selecione esta opção para programar a repetição automática da promoção em dias e horários específicos. Configure os intervalos desejados para garantir recorrência conforme o planejamento.                                                                                                                                                                                                                                | ![Usar recorrência-PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promotions-&-taxes/promotions/desconto-progressivo_6.png)                                        |
 
 ### Definir os sellers participantes 
 No canto direito da página, na seção **Sellers,** defina a quais sellers a promoção deve ser aplicada. 
 
-![Seller-PT](//images.ctfassets.net/alneenqid6w5/cOayrbcrmuwe2BfyUMOGS/e7bcf616acd01689711d7dc7ffacc25f/Seller-PT.png)
+![Seller-PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promotions-&-taxes/promotions/desconto-progressivo_7.png)
 
 Selecione uma das opções para a aplicação da promoção.
 - **Todos:** nesta opção a promoção será aplicada a todos os sellers cadastrados. Use-a quando quiser que todos os produtos, de todos os sellers, façam parte da campanha.
@@ -65,7 +65,7 @@ Você pode escolher entre as seguintes opções:
 - **Iguais a:** esta opção permite que você especifique quais políticas se aplicam aos produtos que receberão o desconto.
 - **Diferentes de:** esta opção remove determinadas políticas, garantindo que o desconto não seja aplicado a produtos que seguem essas regras comerciais.
 
-![Politica comercial-PT](//images.ctfassets.net/alneenqid6w5/2pa7FR8lrDdSJt7cdZl48b/08922fd13d300afe376bf87ed1265bd2/Politica_comercial-PT.png)
+![Politica comercial-PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promotions-&-taxes/promotions/desconto-progressivo_8.png)
 
 ## Condições do Desconto progressivo
 Determine as condições e os percentuais de desconto a serem aplicados. Veja a seguir quais condições estão disponíveis:
@@ -76,7 +76,7 @@ Determine as condições e os percentuais de desconto a serem aplicados. Veja a 
 - **Desconto:** essa opção permite configurar o percentual de desconto aplicado ao atingir a quantidade mínima de itens definida. É possível criar até 10 intervalos de desconto progressivo.
 - **Adicionar intervalo:** nesta opção é possível configurar níveis adicionais de desconto progressivo. Por exemplo, você pode definir que ao atingir 10 unidades o desconto será de 5%, e ao atingir 20 unidades, o desconto aumentará para 10%. O limite máximo de intervalos configuráveis é 10.
 
-![Desconto Promoções-PT](//images.ctfassets.net/alneenqid6w5/3SznyBALv0e59SC2J2XMvH/c1a25ebf843df04367d55006e0e5134d/Desconto_Promoções-PT.png)
+![Desconto Promoções-PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promotions-&-taxes/promotions/desconto-progressivo_9.png)
 
 ## Condições para aplicar a promoção
 As condições permitem que a promoção seja ativada em circunstâncias específicas, conforme os critérios selecionados. Para adicionar uma condição, siga as instruções abaixo:
@@ -93,13 +93,11 @@ As condições permitem que a promoção seja ativada em circunstâncias especí
     - **Configure os intervalos de CEP:**  preencha os campos “De” e “Até” com os códigos postais desejados.
     - **Adicione múltiplos intervalos:** utilize a opção + Adicionar intervalo para incluir outros intervalos, conforme necessário.
 
-![Local de entrega-PT](//images.ctfassets.net/alneenqid6w5/2Hv9G5dZovZhdCoqFF75oy/92dbff3d0a629be01d27d892fd9bc227/CEP_Promoções-PT.png)
+![Local de entrega-PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promotions-&-taxes/promotions/desconto-progressivo_10.png)
 
 - **UTM:** permite configurar a promoção para que seja aplicada quando o acesso ao site ocorrer por meio de uma URL com parâmetros UTM ou quando um cupom vinculado a esses parâmetros for utilizado. Defina os parâmetros UTM seguindo as regras de formatação , usando letras, números, hífens e sublinhados.
 
-<div class = "alert alert-info">
-O uso desses parâmetros é opcional e permite configurar descontos para campanhas específicas.
-</div>
+> ℹ️ O uso desses parâmetros é opcional e permite configurar descontos para campanhas específicas.
 
 Defina os parâmetros abaixo, se necessário:
 
@@ -128,8 +126,6 @@ Defina como a promoção será combinada com outras condições comerciais aplic
 Destaque a promoção na página de produto e adicione dados personalizados para customizações da loja nesta seção.
 - **Destacar nos produtos:** marque esta opção para exibir a promoção diretamente nas páginas de produtos. 
 
-<div class="alert alert-warning">
-  Lembre-se <a href="https://help.vtex.com/pt/tutorial/configurando-promocao-com-destaque-flag--tutorials_2295" target="_blank">configurar essa exibição no módulo CMS</a>.
-</div>
+> ⚠️ Lembre-se [configurar essa exibição no módulo CMS](https://help.vtex.com/pt/tutorial/configurando-promocao-com-destaque-flag--tutorials_2295).
 
 - **Informações adicionais:** clique em `Criar` para adicionar campos personalizados com nome e valor, que podem ser usados para customizações na loja.

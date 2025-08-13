@@ -15,9 +15,7 @@ locale: pt
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
-<div class = "alert alert-warning">
-  <p><b>Atenção:</b> existem duas formas de configurar coleções, por meio do CMS ou utilizando o módulo de Coleções Beta. Este artigo, refere-se à <a href = "https://help.vtex.com/pt/tutorial/cadastro-de-colecoes-cms--2YBy6P6X0NFRpkD2ZBxF6L">configuração de coleções por meio do CMS</a>.</p>
-</div>
+> ⚠️ **Atenção:** existem duas formas de configurar coleções, por meio do CMS ou utilizando o módulo de Coleções Beta. Este artigo, refere-se à <a href = "https://help.vtex.com/pt/tutorial/cadastro-de-colecoes-cms--2YBy6P6X0NFRpkD2ZBxF6L">configuração de coleções por meio do CMS</a>.
 
 As vitrines são utilizadas no destaque de produtos em diversas páginas, elas também podem ser utilizadas para recomendações, na página do produto.
 
@@ -27,26 +25,26 @@ Realizadas as devidas definições, o vínculo da coleção com a vitrine é fei
 
 No exemplo abaixo, iremos definir a vitrine apresentada na Home, sendo assim, deve-se realizar a alteração no seguinte layout:
 
-![cms_layout_home ](//images.ctfassets.net/alneenqid6w5/36BJckeyOAIYeEm8sOwQO0/e7a24fbbfe861550445a9f18dee77954/cms_layout_home.png)
+![cms_layout_home ](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Storefront/Layout/definicao-de-vitrines_1.png)
 
 No layout selecionado, adicione o controle correspondente à vitrine onde deseja exibir a coleção clicando em **Add object**.
 Após selecionar o tipo de controle desejado, defina seu nome e clique em **Adicionar**.
 
 __Não se esqueça de salvar as configurações feitas para que seja possível posteriormente editar o controle criado.__
 
-![save settings cms](//images.ctfassets.net/alneenqid6w5/21omKZNVc8QaWSw6K4akEQ/70105f086510d2eec6bfb3862a9979f5/save_settings_cms.png)
+![save settings cms](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Storefront/Layout/definicao-de-vitrines_2.png)
 
 ### Edição do controle
 
 Para editar seus controles, clique no **símbolo de lápis**, conforme mostra a imagem exemplo abaixo: 
 
-![banner_edit_cms](//images.ctfassets.net/alneenqid6w5/5eOuIai1zGGWOKI4OmoMOQ/5ff1b51e63a08d6d265a1e053999a369/banner_edit_cms.png)
+![banner_edit_cms](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Storefront/Layout/definicao-de-vitrines_3.png)
 
 Ao editar o controle é necessário adicionar seus conteúdos, que representam cada conjunto de itens que serão exibidos.
 Para isso, clique em **Add content**
 
-![cadastro_conteudo_cms ](//images.ctfassets.net/alneenqid6w5/TWIydQxL2M4WsEiccmI2A/f8ff28eafb9dde3e01926b899262f519/cadastro_de_conteudo_1.png)
-![cadastro_conteudo_cms 2](//images.ctfassets.net/alneenqid6w5/6Q0ZTbWIBUeu2uSY8w2mMs/5fb5a636e8781881b47237714571ee1c/cadastro_de_conteudo_2.png)
+![cadastro_conteudo_cms ](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Storefront/Layout/definicao-de-vitrines_4.png)
+![cadastro_conteudo_cms 2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Storefront/Layout/definicao-de-vitrines_5.png)
 
 - **"Adicionar arquivo":** para selecionar a coleção que será exibida nesse conteúdo. 
 - **Partner / Campaign / Source:**  define a exibição desse conteúdo caso o visitante possua alguma UTM correspondente em sua URL de origem. 
@@ -62,7 +60,7 @@ Deve-se marcar a opção **Active Content** e clicar em **Add content list**, sa
 
 Se caso depois de salvo o conteúdo for necessário editá-lo, basta clicar no segundo simbolo de lápis conforme mostra a imagem abaixo:
 
-![edit_content_cms](//images.ctfassets.net/alneenqid6w5/3m9TM8vkEU0UmkueoEYIM8/89b2385f1e14978383b9d4fd0ecfd129/edi_content.png)
+![edit_content_cms](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Storefront/Layout/definicao-de-vitrines_6.png)
 
 Deve-se realizar as mudanças desejadas, clicar em **Update Content List** e salvar todas as configurações feitas clicando em **Save Settings** depois. 
 

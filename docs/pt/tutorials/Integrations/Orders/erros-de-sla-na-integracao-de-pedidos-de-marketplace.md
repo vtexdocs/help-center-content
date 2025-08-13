@@ -31,9 +31,7 @@ Os problemas mais comuns que ocasionam erros de SLA são:
 
 Após solucionar o erro, o pedido deve ser reprocessado manualmente. No seu Admin, no módulo **Marketplace > Conexões > Pedidos**, clique sobre o pedido com erro. Feito isso, o botão **Ações** se torna visível, clique sobre ele e escolha a opção **Reprocessar**.
 
-<div class="alert alert-info">
-Caso o erro persista, abra um <a href="https://help.vtex.com/pt/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM?locale=pt">chamado para suporte VTEX</a>.
-</div>
+> ℹ️ Caso o erro persista, abra um [chamado para suporte VTEX](https://help.vtex.com/pt/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM?locale=pt).
 
 ### Saiba mais
 

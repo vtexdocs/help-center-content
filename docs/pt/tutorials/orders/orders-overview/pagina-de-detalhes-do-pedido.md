@@ -15,9 +15,7 @@ locale: pt
 subcategoryId: 3VNOhxDrvYxJThhuJClrYZ
 ---
 
-<div class = "alert alert-info">
-É possível acessar informações somente de pedidos criados nos últimos dois anos, sendo o mesmo período válido para clientes acessarem pedidos pelo <a href="https://help.vtex.com/pt/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh">Minha Conta</a>.
-</div>
+> ℹ️ É possível acessar informações somente de pedidos criados nos últimos dois anos, sendo o mesmo período válido para clientes acessarem pedidos pelo [Minha Conta](https://help.vtex.com/pt/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh).
 
 A página de **Detalhes do Pedido** permite visualizar todas as informações de um pedido e gerenciá-lo em um único lugar. Para visualizá-la, no Admin VTEX, acesse **Pedidos > [Todos os Pedidos](https://help.vtex.com/pt/tutorial/lista-de-pedidos-interface--2QTduKHAJMFIZ3BAsi6Pi)**, e clique no pedido desejado.
 
@@ -44,9 +42,7 @@ A página de **Detalhes do pedido** está dividida em blocos que agrupam informa
 
 Para saber mais sobre os status e o fluxo do pedido, confira o artigo [Fluxo e status de pedidos](https://help.vtex.com/pt/tutorial/fluxo-e-status-de-pedidos--tutorials_196).
 
-<div class = "alert alert-info">
-A seguir listamos todas as seções da página <b>Detalhes do pedido</b>. Note que somente as seções que se aplicarem ao pedido em questão estarão visíveis.
-</div>
+> ℹ️ A seguir listamos todas as seções da página **Detalhes do pedido**. Note que somente as seções que se aplicarem ao pedido em questão estarão visíveis.
 
 ##  Barra superior
 
@@ -72,9 +68,7 @@ As informações gerais do pedido são exibidas no início da página, logo abai
   - Contato (celular e email)
 * **Entrega/Retirada:** dados do endereço e destinatário para o envio por transportadora ou retirada pelo cliente.
 
-<div class = "alert alert-info">
-Clique em <i class="fas fa-chevron-right"></i> na lateral dos blocos para mostrar mais informações, caso os blocos estejam minimizados.
-</div>
+> ℹ️ Clique em <i class="fas fa-chevron-right"></i> na lateral dos blocos para mostrar mais informações, caso os blocos estejam minimizados.
 
 ## Status do pedido
 

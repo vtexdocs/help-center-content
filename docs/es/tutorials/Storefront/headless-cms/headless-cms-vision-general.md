@@ -22,7 +22,7 @@ El término *headless* se refiere a la independencia existente entre la interfaz
 Para acceder a Headless CMS, inicia sesión en el Admin VTEX > **Storefront > Headless CMS**. 
 
 <div style="background-color:#FCF8F2; border-left: 2px solid #F0AD4E; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px; margin-bottom: 10px">
-  Para gestionar el Headless CMS, asegúrese de que los <a href="https://help.vtex.com/es/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3">recursos</a> <i>See CMS menu on the top-bar</i>, <i>Settings</i>, and <i>CMS GraphQL API</i> estén asociados con su <a href="https://help.vtex.com/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc">rol de usuario </a>. De lo contrario, <a href="https://help.vtex.com/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#creando-un-rol">cree un rol de usuario</a> y agregue estos recursos o añádalos a un rol de usuario existente.
+  Para gestionar el Headless CMS, asegúrese de que los [recursos](https://help.vtex.com/es/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) *See CMS menu on the top-bar*, *Settings*, and *CMS GraphQL API* estén asociados con su [rol de usuario ](https://help.vtex.com/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc). De lo contrario, [cree un rol de usuario](https://help.vtex.com/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#creando-un-rol) y agregue estos recursos o añádalos a un rol de usuario existente.
 </div>
 
 Con Headless CMS puedes:
@@ -35,7 +35,7 @@ Con Headless CMS puedes:
 
 [Proyectos](https://help.vtex.com/es/tutorial/managing-projects--42IpDFqTVTESH8DCypJMPM) es una funcionalidad de Headless CMS que permite crear y gestionar varios proyectos frontend, como aplicaciones móviles, sitios web e email marketing desde un único panel de control. 
 
-![Projects pages](//images.ctfassets.net/alneenqid6w5/5sXlS9M78whzUVdSxJiKpX/28a48f587a491e87481d837595130e0d/projects-one-es.gif)
+![Projects pages](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Storefront/headless-cms/headless-cms-vision-general_1.gif)
 
 Para más información, consulta Gestionar Proyectos. 
 

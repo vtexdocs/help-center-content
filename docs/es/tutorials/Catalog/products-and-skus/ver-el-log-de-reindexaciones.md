@@ -21,7 +21,7 @@ Es posible consultar el registro de cuándo y quién realizó una reindexación 
 
 En realidad, cualquier acción tomada en Full Clean Up está registrada en esta página.
 
-![fullcleanupLog](https://images.contentful.com/alneenqid6w5/4imYxqJjWwog0UYwCIcWY4/a036d799b6de9d34a2e2f810f3780929/fullcleanupLog.png)
+![fullcleanupLog](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Catalog/products-and-skus/ver-el-log-de-reindexaciones_1.png)
 
 El registro muestra la siguiente información para cada acción:
 - __Data__: fecha y hora de la acción.

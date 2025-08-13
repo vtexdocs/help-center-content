@@ -17,9 +17,7 @@ subcategoryId: pwxWmUu7T222QyuGogs68
 
 There are two ways to update SKU images: using the VTEX Admin or Catalog API.
 
-<div class = "alert alert-danger">
-You must perform this procedure very carefully. The procedure described below involves <em>deleting all images</em> of an SKU, which will make it <strong>INACTIVE</strong>. Please pay close attention to the recommendations in the steps below so that the image is successfully updated.
-</div>
+> ❗ You must perform this procedure very carefully. The procedure described below involves *deleting all images* of an SKU, which will make it **INACTIVE**. Please pay close attention to the recommendations in the steps below so that the image is successfully updated.
 
 Since this procedure involves deleting all images from an SKU, consequently making it inactive, we recommend performing the image replacement process in small batches of SKUs.
 
@@ -33,9 +31,7 @@ Since this procedure involves deleting all images from an SKU, consequently maki
 4. Click on the __Images__ tab.
 5. Choose the images you want to delete and click __Remove__.
 
-<div class = "alert alert-danger">
-We recommend doing these image updates in small batches. Remember that deleting all images of an SKU inactivates it.
-</div>
+> ❗ We recommend doing these image updates in small batches. Remember that deleting all images of an SKU inactivates it.
 
 ### Uploading new images
 

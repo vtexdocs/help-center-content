@@ -22,7 +22,7 @@ Para utilizar la afiliación easypay en tu marketplace, es necesario:
 - [Instalar la aplicación easypay seller account](#instalar-la-aplicacion-easypay-seller-account)
 - [Configurar la aplicación easypay seller account](#configurar-la-aplicacion-easypay-seller-account)
 
-<div class="alert alert-warning" role="alert">Si deseas configurar easypay para un contexto distinto al de seller, consulta los artículos <a href="https://help.vtex.com/es/tutorial/configurar-pago-con-easypay--3xJQqjMIn0ARDI1HcwK88J">Configurar pago con easypay</a> o <a href="https://help.vtex.com/es/tutorial/configurar-pago-con-easypay-marketplace--3YllWiITcPEOpteuToEdO7">Configurar pago con easypay marketplace</a>.</div>
+> ⚠️ Si deseas configurar easypay para un contexto distinto al de seller, consulta los artículos [Configurar pago con easypay](https://help.vtex.com/es/tutorial/configurar-pago-con-easypay--3xJQqjMIn0ARDI1HcwK88J) o [Configurar pago con easypay marketplace](https://help.vtex.com/es/tutorial/configurar-pago-con-easypay-marketplace--3YllWiITcPEOpteuToEdO7).
 
 ## Instalar la aplicación easypay seller account
 
@@ -35,17 +35,17 @@ Para instalar o app Easypay Seller Account, siga os passos abaixo:
 
 Después de instalar la aplicación easypay seller account, debes configurarla. Para acceder a la pantalla de configuración, sigue estos pasos:
 
-<blockquote><ui>1. En el Admin VTEX, ve a <b>Hub de extensiones > Gestión de aplicaciones</b>, o ingresa <b>Gestión de aplicaciones</b> en la barra de búsqueda de la parte superior de la página.</ui>
+<blockquote><ui>1. En el Admin VTEX, ve a **Hub de extensiones > Gestión de aplicaciones**, o ingresa **Gestión de aplicaciones** en la barra de búsqueda de la parte superior de la página.</ui>
 
-<blockquote><ui>2. Busca la aplicación <b>Easypay Seller Account</b> y haz clic en <b>Configuración</b>.</ui>
+<blockquote><ui>2. Busca la aplicación **Easypay Seller Account** y haz clic en **Configuración**.</ui>
 
-<blockquote><ui>3. En la pantalla <b>Easypay Seller Account</b>, rellena los siguientes campos::</ui>
+<blockquote><ui>3. En la pantalla **Easypay Seller Account**, rellena los siguientes campos::</ui>
 
-<blockquote><ui>- <b>VTEX Marketplace Account</b>: URL de la cuenta VTEX a la que estás vinculado. Ejemplo: https://{nombre-de-tu-cuenta}.myvtex.com/admin</ui> 
+<blockquote><ui>- **VTEX Marketplace Account**: URL de la cuenta VTEX a la que estás vinculado. Ejemplo: https://{nombre-de-tu-cuenta}.myvtex.com/admin</ui> 
 
-<blockquote><ui>- <b>Easypay Account UID</b>: identificación de la cuenta seller en la que se abonarán los valores de la compra de productos adquiridos en la tienda. Para obtener esta información, accede al <a href="https://backoffice.easypay.pt/">entorno easypay</a>, haz clic en el logotipo de easypay situado en la esquina superior de la pantalla y, a continuación, en la cuenta deseada. Copia y guarda la información <b>Account UID</b>.</ui> 
+<blockquote><ui>- **Easypay Account UID**: identificación de la cuenta seller en la que se abonarán los valores de la compra de productos adquiridos en la tienda. Para obtener esta información, accede al [entorno easypay](https://backoffice.easypay.pt/), haz clic en el logotipo de easypay situado en la esquina superior de la pantalla y, a continuación, en la cuenta deseada. Copia y guarda la información **Account UID**.</ui> 
 
-![easypay_pt_18](//images.ctfassets.net/alneenqid6w5/72jPh8mwBcEqbtiCBU09Bm/e9218fcccf92ed76e45024aa1c4c2285/easypay_pt_18.PNG)
+![easypay_pt_18](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/payment-settings/configurar-pago-con-easypay-seller_1.PNG)
 
-<blockquote><ui>4. Haz clic en <b>Guardar</b>.</ui>
+<blockquote><ui>4. Haz clic en **Guardar**.</ui>
 

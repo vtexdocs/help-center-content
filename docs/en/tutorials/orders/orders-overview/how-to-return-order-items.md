@@ -26,7 +26,7 @@ On the Order Details page, you can orchestrate this operation by completing the 
 3. In the **Invoices** section, click `Return items`.
 4. Select the checkbox of the items that you want to return.
 5. Define the number of units of each item that you want to return.
-6. Enter the additional value that you will reimburse your client in the `Additional value` field. This value is for the shipping cost of the returned order.<p>For example, if an order had a shipping cost of $20.00, you should fill this field with $20.00. If it is filled in with an amount less than the total shipping cost, the customer receives half of the filled in amount (**Additional Value**) as a reversal of the purchase, and the other half in giftcard. Following the example given, suppose that instead of $20.00 (which is the total shipping cost) the store has filled in the **Additional Value** as $12.00. The customer will receive this back in the form of a chargeback of US$6.00 plus a US$6.00 giftcard.</p> *It’s an optional field. Please fill in if the additional value is part of your store’s return policy.* 
+6. Enter the additional value that you will reimburse your client in the `Additional value` field. This value is for the shipping cost of the returned order.For example, if an order had a shipping cost of $20.00, you should fill this field with $20.00. If it is filled in with an amount less than the total shipping cost, the customer receives half of the filled in amount (**Additional Value**) as a reversal of the purchase, and the other half in giftcard. Following the example given, suppose that instead of $20.00 (which is the total shipping cost) the store has filled in the **Additional Value** as $12.00. The customer will receive this back in the form of a chargeback of US$6.00 plus a US$6.00 giftcard. *It’s an optional field. Please fill in if the additional value is part of your store’s return policy.* 
 7. Enter the reason for that added value in the `Referred to` field.
     > *It’s an optional field. Please fill in if the additional value is part of your store’s return policy.* 
 
@@ -38,6 +38,4 @@ On the Order Details page, you can orchestrate this operation by completing the 
 
 After the refund is processed in the system, your returned items and information will be displayed in the **Returned items** section.
 
-<div class = "alert alert-info">
-You can change orders via API using the endpoint <a href="https://developers.vtex.com/docs/api-reference/orders-api#patch-/api/order-system/orders/-changeOrderId-/changes">Create order change</a>, and issue invoices after changes using the endpoint <a href="https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/invoice">Order invoice notification</a>.
-</div>
+> ℹ️ You can change orders via API using the endpoint [Create order change](https://developers.vtex.com/docs/api-reference/orders-api#patch-/api/order-system/orders/-changeOrderId-/changes), and issue invoices after changes using the endpoint [Order invoice notification](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/invoice).

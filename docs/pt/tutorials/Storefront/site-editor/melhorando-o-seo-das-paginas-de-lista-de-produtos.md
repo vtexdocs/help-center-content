@@ -21,12 +21,12 @@ As PLPs são correlacionadas, pois cada produto tem um link de volta para uma p�
 
 Para melhorar o desempenho de SEO das PLPs, você deve permitir que os rastreadores da web, como Google, percebam essa conexão entre as PLPs. Desse modo, esses rastreadores serão capazes de navegar em diferentes páginas e acessar os diferentes produtos que elas mostram.
 
-![Botão mostrar mais](https://images.contentful.com/alneenqid6w5/63jE8FYBJW8ssJOXwoADTZ/407d073404b0f7eaa7934dc7bc4a64f9/bt-mostrar-mais.png)
+![Botão mostrar mais](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Storefront/site-editor/melhorando-o-seo-das-paginas-de-lista-de-produtos_1.png)
 
 Veja na seção abaixo como melhorar o desempenho de SEO das PLPs [usando o Site Editor](#usando-site-editor).
 
 <div style="background-color:#FFF3CD; border-left: 2px solid #F0AD4E; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px; margin-bottom: 35px">
-  Ao seguir esse passo a passo, o estilo dos botões <i>MOSTRAR MAI</i> e <i>MOSTRAR ANTERIORES</i> poderá ser afetado nas lojas que já estão no ar. Caso você esteja construindo uma nova loja, siga este tutorial antes de começar a estilizar a sua loja. Caso a sua loja já esteja ativa, não esqueça de verificar, ao final deste tutorial, se o estilo dos botões está conforme o esperado. 
+  Ao seguir esse passo a passo, o estilo dos botões *MOSTRAR MAI* e *MOSTRAR ANTERIORES* poderá ser afetado nas lojas que já estão no ar. Caso você esteja construindo uma nova loja, siga este tutorial antes de começar a estilizar a sua loja. Caso a sua loja já esteja ativa, não esqueça de verificar, ao final deste tutorial, se o estilo dos botões está conforme o esperado. 
 
 </div>
 
@@ -40,7 +40,7 @@ Para melhorar o desempenho de SEO das PLPs via Site Editor, você deve configura
 4. Clique em __Mostrar mais.__
 5. Em __Comportamento do botão,__ selecione a opção __Link para a página - Melhora o SEO, pode mudar a aparência do botão.__
 
-![bt-config-pt](https://images.contentful.com/alneenqid6w5/6LQJMtP8loMFop3pp5NgFt/3f3cbb455fd6739c886beae22017e2b6/bt-config-pt.gif)
+![bt-config-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Storefront/site-editor/melhorando-o-seo-das-paginas-de-lista-de-produtos_2.gif)
 
 6. Clique em `SALVAR`.
 7. Para configurar o item __Mostrar anteriores,__ expanda o bloco __Resultado de busca flexível.__

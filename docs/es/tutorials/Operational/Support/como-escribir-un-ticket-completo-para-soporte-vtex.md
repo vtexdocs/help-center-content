@@ -48,9 +48,7 @@ Para comprobar si el problema está asociado a IO, sigue los pasos a a continuac
     ```
     vtex uninstall {tema}
     ```
-    <div class="alert alert-info">
-    Puedes comprobar si hay algún tema instalado utilizando el comando <code>vtex list</code>, que muestra una lista de todas las aplicaciones instaladas en la tienda.
-    </div>
+    > ℹ️ Puedes comprobar si hay algún tema instalado utilizando el comando `vtex list`, que muestra una lista de todas las aplicaciones instaladas en la tienda.
 4.	Clona el tema predeterminado de Store Framework en tu computadora.
 5.	En la línea de comandos, accede a la carpeta del tema predeterminado.
 6.	Ejecuta el comando:
@@ -59,7 +57,7 @@ Para comprobar si el problema está asociado a IO, sigue los pasos a a continuac
     vtex link
     ```
 
-    <div class="alert alert-warning">Si tu tienda no tiene la aplicación Reviews and Ratings instalada, puede aparecer un error al intentar establecer el vínculo. Para evitar este problema, remueve esta aplicación de la lista de `peer dependencies` del archivo `manifest.json` del tema predeterminado. </div>
+    > ⚠️ Si tu tienda no tiene la aplicación Reviews and Ratings instalada, puede aparecer un error al intentar establecer el vínculo. Para evitar este problema, remueve esta aplicación de la lista de `peer dependencies` del archivo `manifest.json` del tema predeterminado.
 
 7.	Accede al storefront de tu workspace mediante la URL:
     ```
@@ -75,11 +73,11 @@ Si, después de seguir todos los pasos de troubleshooting indicados anteriorment
 
 | Información | Guías |
 | ----------- | ----------- |
-| Asunto y descripción del problema | <p> - Resume el problema o duda en pocas palabras. Rellena el campo **Asunto de la solicitud** de forma concisa y directa para ayudar al equipo de especialistas a entender rápidamente el escenario. </p> <p> - Rellena el campo **Asunto de la solicitud** con una descripción completa de lo observado e incluye qué, cómo y dónde está ocurriendo el problema para que el equipo de especialistas pueda investigar y reproducir el escenario. No olvides informar si los pasos para reproducir el problema incluyen alguna acción atípica que se deba realizar o algún permiso de acceso restringido. </p>  |
+| Asunto y descripción del problema |  - Resume el problema o duda en pocas palabras. Rellena el campo **Asunto de la solicitud** de forma concisa y directa para ayudar al equipo de especialistas a entender rápidamente el escenario.   - Rellena el campo **Asunto de la solicitud** con una descripción completa de lo observado e incluye qué, cómo y dónde está ocurriendo el problema para que el equipo de especialistas pueda investigar y reproducir el escenario. No olvides informar si los pasos para reproducir el problema incluyen alguna acción atípica que se deba realizar o algún permiso de acceso restringido.   |
 | Pruebas | Incluye cualquier material que permita observar el problema, si está disponible. Por ejemplo, capturas o grabaciones de pantalla, [archivos HAR](https://help.vtex.com/es/tutorial/gerar-arquivo-har-para-debugar-problemas-na-loja--15xVlw8nuakk2k6Cao4k2Q), logs generados por la plataforma, respuestas del servidor o el texto o ID del error mostrado. |
 | Escenario esperado | Proporciona los detalles del escenario esperado, en comparación con lo que está ocurriendo. |
 | Pruebas y validaciones | Si ya intentaste solucionar el problema, detalla las acciones que ya hayas realizado, qué documentación consultaste y los resultados. |
-| Alcance del ticket | <p> - No abordes más de un problema en un mismo ticket. </p> <p> - No crees más de un ticket para el mismo problema. </p> |
+| Alcance del ticket |  - No abordes más de un problema en un mismo ticket.   - No crees más de un ticket para el mismo problema.  |
 | Prioridad | 
 Comprueba la [prioridad](https://help.vtex.com/es/faq/suporte-vtex-brasil--5q861sTw1n7H2BENOu7ls9#prioridade-de-chamados) según la naturaleza del problema. Lea mas en [¿Como funciona el soporte de VTEX?](https://help.vtex.com/es/faq/como-funciona-el-soporte-de-vtex--3kACEfni4m8Yxa1vnf2ebe?&utm_source=autocomplete)|
  | Información pertinente sobre el producto | 
@@ -93,13 +91,13 @@ Puedes adaptar esta información a tu escenario específico y también utilizarl
 
 | Escenarios | Información |
 | ----------- | ----------- |
-| Pedidos | <p> - ID del pedido o <code> orderForm </code>. </p> <p> - URL del pedido en <strong> Gestión de pedidos </strong> en o <strong> Bridge </strong> (para los pedidos de marketplaces con integraciones nativas). </p> |
-| Checkout | <p> - URL del carrito generada por <a href="https://help.vtex.com/es/tutorial/configurar-o-cartman--1ACMTStZYkMqB0lTgwg451">Cartman</a>. </p> <p> - ID de los SKU y código postal para reproducir el carrito. </p>
-| Logística | <p> - ID del seller. </p> <p> - URL del almacén, muelle o transportadora del seller. </p> <p> - Información para simular el envío, como ID de los SKU y código postal. </p> |
-| Pagos | <p> - ID de la transacción. </p> <p> - Link de la transacción al acceder al Admin VTEX en <em> Pagos > Transacciones. </em> </p>
-| VTEX IO | <p> - Nombre y versión de la aplicación utilizada. </p> <p> - Workspace utilizado. </p> <p> - Archivo ZIP con el <a href="https://developers.vtex.com/docs/guides/vtex-io-documentation-3-settingyourstoretheme">store-theme</a> en caso de tema vinculado y no instalado. </p> |
-| Promociones | <p> - Nombre de la promoción. </p> <p> - URL de la promoción. </p> <p> - Producto y código postal aplicables a la promoción para las pruebas. </p> |
-| Integraciones (aplicable a los partners de integración) | <p> - Explicación del producto y su función en VTEX. </p> <p> - Tu objetivo final antes de que ocurriera el problema. </p> <p> - En caso de llamadas fallidas a las API VTEX: endpoint utilizado, cuerpo del request y cuerpo de la respuesta. </p> <p> - ID y URL del afiliado (si el problema es la integración con un marketplace externo). </p>
+| Pedidos |  - ID del pedido o ` orderForm `.   - URL del pedido en ** Gestión de pedidos ** en o ** Bridge ** (para los pedidos de marketplaces con integraciones nativas).  |
+| Checkout |  - URL del carrito generada por [Cartman](https://help.vtex.com/es/tutorial/configurar-o-cartman--1ACMTStZYkMqB0lTgwg451).   - ID de los SKU y código postal para reproducir el carrito. 
+| Logística |  - ID del seller.   - URL del almacén, muelle o transportadora del seller.   - Información para simular el envío, como ID de los SKU y código postal.  |
+| Pagos |  - ID de la transacción.   - Link de la transacción al acceder al Admin VTEX en * Pagos > Transacciones. * 
+| VTEX IO |  - Nombre y versión de la aplicación utilizada.   - Workspace utilizado.   - Archivo ZIP con el [store-theme](https://developers.vtex.com/docs/guides/vtex-io-documentation-3-settingyourstoretheme) en caso de tema vinculado y no instalado.  |
+| Promociones |  - Nombre de la promoción.   - URL de la promoción.   - Producto y código postal aplicables a la promoción para las pruebas.  |
+| Integraciones (aplicable a los partners de integración) |  - Explicación del producto y su función en VTEX.   - Tu objetivo final antes de que ocurriera el problema.   - En caso de llamadas fallidas a las API VTEX: endpoint utilizado, cuerpo del request y cuerpo de la respuesta.   - ID y URL del afiliado (si el problema es la integración con un marketplace externo). 
 
 #### Más información
 

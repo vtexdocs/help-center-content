@@ -34,17 +34,13 @@ O Checkout v6 da VTEX combina informações como CEP do cliente, localização d
 - **Mais econômica**: opção com o menor custo para o cliente.
 - **Mais rápida**: opção com o menor tempo de entrega.
 
-<div class="alert alert-warning">
-Quando somente um tipo de opção de entrega estiver disponível para um determinado pedido, as opções <b>Mais econômica</b> e <b>Mais rápida</b> não serão mostradas no Checkout.
-</div>
+> ⚠️ Quando somente um tipo de opção de entrega estiver disponível para um determinado pedido, as opções **Mais econômica** e **Mais rápida** não serão mostradas no Checkout.
 
 ## Desabilitar a função Opções de entrega otimizadas
 
 A funcionalidade de **Opções de entrega otimizadas** está ativada por padrão no Checkout v6. Entretanto, em algumas regiões podem ocorrer cenários que contribuam para que esta função não seja utilizada. Em países como Espanha ou Estados Unidos, onde as opções disponíveis de entrega são similares, os consumidores preferem escolher a transportadora baseados no seu nível de confiança na empresa.
 
-<div class="alert alert-warning">
-Ao desabilitar esta função no Admin VTEX, todas as opções disponíveis de entrega serão exibidas no processo do Checkout. Entretanto, caso a funcionalidade de <a href="https://help.vtex.com/pt/tutorial/divisao-de-pedidos-e-divisao-de-entregas--jQvzA6QgSd51e2p6bthoV#">múltiplas entregas</a> esteja habilitada na loja e existam opções de entrega diferentes entre os itens selecionados no carrinho, as <b>Opções de entrega otimizadas</b> continuarão a ser exibidas. Ou seja, a otimização de entrega será necessária para lidar com os múltiplos pacotes (itens com diferentes opções de entrega).
-</div>
+> ⚠️ Ao desabilitar esta função no Admin VTEX, todas as opções disponíveis de entrega serão exibidas no processo do Checkout. Entretanto, caso a funcionalidade de [múltiplas entregas](https://help.vtex.com/pt/tutorial/divisao-de-pedidos-e-divisao-de-entregas--jQvzA6QgSd51e2p6bthoV#) esteja habilitada na loja e existam opções de entrega diferentes entre os itens selecionados no carrinho, as **Opções de entrega otimizadas** continuarão a ser exibidas. Ou seja, a otimização de entrega será necessária para lidar com os múltiplos pacotes (itens com diferentes opções de entrega).
 
 Para desabilitar a função __Opções de entrega otimizadas__, siga os passos abaixo:
 
@@ -53,9 +49,9 @@ Para desabilitar a função __Opções de entrega otimizadas__, siga os passos a
 3. No menu de opções azul localizado na parte superior da página, clique em __Checkout__.
 4. Em __Opções de entrega otimizadas__, clique no botão <i class="fas fa-toggle-off"></i> para desabilitar a opção __Otimizar exibição das opções de entrega__.
 
-![Opções de entrega otimizadas](//images.ctfassets.net/alneenqid6w5/4NfLhi5ao5JyVs4mNTwaRu/1101fc69a729d79465192bca2b331bfe/Op____es_de_entrega_otimizadas.PNG)
+![Opções de entrega otimizadas](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Checkout/checkout-settings/otimizacao-das-opcoes-de-entrega-no-checkout_1.PNG)
 
 <ul>
-  5. Clique em <b>Salvar</b>.
+  5. Clique em **Salvar**.
 </ul>  
 

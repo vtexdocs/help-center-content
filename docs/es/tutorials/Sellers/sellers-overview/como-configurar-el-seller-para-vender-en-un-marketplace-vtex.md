@@ -25,17 +25,13 @@ Este artículo explica cómo configurar tu tienda para convertirse en un _seller
 
 Para saber qué datos deben intercambiar los _sellers_ y los _marketplaces_, consulta el artículo [Información compartida](https://help.vtex.com/es/tutorial/informacoes-compartilhadas-entre-marketplace-e-seller-na-vtex--3o7WGiBtfnKKZ3Ddug26k3) entre el _marketplace_ y el _seller en VTEX. Si tu tienda quiere operar como _marketplace_, consulta el artículo [Configurar marketplaces VTEX](https://help.vtex.com/es/tutorial/configurar-marketplace-vtex--7splyp5MqIyt2Iyz5jsNzb).
 
-<div class = "alert alert-info">
-Para comenzar a vender tus productos en <i>marketplaces</i> o para encontrar nuevos <i>partners</i> comerciales que vendan en tu <i>marketplace</i>, usa <a href="https://help.vtex.com/es/tutorial/encontre-marketplaces-e-sellers-no-ecossistema-vtex--2bzC7tXlVgLEEjxo4ixcAM">Marketplaces e integraciones</a>, la funcionalidad que facilita la identificación y el contacto entre los <i>marketplaces</i> y <i>sellers</i> en el ecosistema VTEX.
-</div>
+> ℹ️ Para comenzar a vender tus productos en *marketplaces* o para encontrar nuevos *partners* comerciales que vendan en tu *marketplace*, usa [Marketplaces e integraciones](https://help.vtex.com/es/tutorial/encontre-marketplaces-e-sellers-no-ecossistema-vtex--2bzC7tXlVgLEEjxo4ixcAM), la funcionalidad que facilita la identificación y el contacto entre los *marketplaces* y *sellers* en el ecosistema VTEX.
 
 ## Definir la política comercial
 
 En VTEX, la [política comercial](https://help.vtex.com/es/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) agrupa configuraciones de catálogo, precios, promociones, logística, segmentación de clientes y pagos en un canal de venta. El _seller_ puede integrarse al _marketplace_ utilizando la política comercial predefinida de su tienda o también puede definir configuraciones específicas para la integración mediante la configuración de una [política comercial para el marketplace](https://help.vtex.com/es/tutorial/configurando-a-politica-comercial-para-marketplace/).
 
-<div class = "alert alert-info">
-Se puede usar una misma política comercial para integrarla con varios <i>marketplaces</i>. La <a href="https://help.vtex.com/es/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X">contratación de una política comercial adicional</a> para integrarse con un <a href="https://help.vtex.com/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-con-un-conector-nativo-vtex">conector nativo</a>, un conector certificado (partner) u otras tiendas VTEX es gratuita.
-</div>
+> ℹ️ Se puede usar una misma política comercial para integrarla con varios *marketplaces*. La [contratación de una política comercial adicional](https://help.vtex.com/es/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X) para integrarse con un [conector nativo](https://help.vtex.com/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-con-un-conector-nativo-vtex), un conector certificado (partner) u otras tiendas VTEX es gratuita.
 
 No es necesario crear una política comercial específica para un _marketplace_ solo para configurar promociones, ya que se pueden segmentar las promociones por [afiliado](https://help.vtex.com/es/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0). Obtén más información en [Configurar promoción para marketplace](https://help.vtex.com/es/tutorial/configurar-promocao-para-marketplace--tutorials_406).
 
@@ -45,9 +41,7 @@ El surtido de productos enviados al _marketplace_ se debe gestionar a través de
 
 En VTEX, el [afiliado](https://help.vtex.com/es/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0) es el código que el _seller_ VTEX crea para identificar al _marketplace_ en el que venderá sus productos. Cada _marketplace_ debe corresponder a un único afiliado. Será a través del afiliado que el _marketplace_ recibirá notificaciones sobre pedidos, cambios en la información de un SKU y modificaciones de precios y _stock_, por ejemplo.
 
-<div class = "alert alert-info">
-La integración con <a href="https://help.vtex.com/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-con-un-conector-nativo-vtex">conectores nativos</a> crea el código del afiliado automáticamente. No obstante, para que el <i>seller</i> VTEX se integre con un <i>marketplace</i> VTEX o un <i>marketplace</i> externo, el <i>seller</i> debe crear el ID de afiliado de forma manual.
-</div>
+> ℹ️ La integración con [conectores nativos](https://help.vtex.com/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-con-un-conector-nativo-vtex) crea el código del afiliado automáticamente. No obstante, para que el *seller* VTEX se integre con un *marketplace* VTEX o un *marketplace* externo, el *seller* debe crear el ID de afiliado de forma manual.
 
 El _seller_ debe seguir los pasos que se indican en el artículo [Configurar afiliado](https://help.vtex.com/es/tutorial/como-configurar-afiliado--tutorials_187) y, una vez que haya creado el código identificador, se lo debe informar al _marketplace_. Luego de esto, el _marketplace_ VTEX [agregará al seller](https://help.vtex.com/es/tutorial/configuring-the-seller--tutorials_392) y lo asociará a una política comercial.
 
@@ -55,9 +49,7 @@ El _seller_ debe seguir los pasos que se indican en el artículo [Configurar afi
 
 Una vez que el _seller_ y el _marketplace_ están integrados, el envío de productos al _marketplace_ no es automático sino que será necesario que el _seller_ [reindexe la base](https://help.vtex.com/es/tutorial/entendendo-o-funcionamento-da-indexacao). Este proceso prepara los datos de los SKU y de los productos y envía al _marketplace_ la información general sobre el catálogo, los precios y el _stock_. 
 
-<div class = "alert alert-info">
-Solo el <a href="https://help.vtex.com/es/tracks/contas-e-permissoes--5PxyAgZrtiYlaYZBTlhJ2A/56Bd0KpwbvAji1aFs94xdA">usuario titular (owner)</a> tiene permiso para reindexar la base de una tienda VTEX. Durante el periodo de reindexación, que es variable, los productos ingresan en una fila para que se actualicen los datos, pero siguen disponibles para la venta en el sitio web de la tienda. 
-</div>
+> ℹ️ Solo el [usuario titular (owner)](https://help.vtex.com/es/tracks/contas-e-permissoes--5PxyAgZrtiYlaYZBTlhJ2A/56Bd0KpwbvAji1aFs94xdA) tiene permiso para reindexar la base de una tienda VTEX. Durante el periodo de reindexación, que es variable, los productos ingresan en una fila para que se actualicen los datos, pero siguen disponibles para la venta en el sitio web de la tienda.
 
 Para reindexar la base, copia en tu navegador la dirección a continuación y reemplaza «{nomedaloja}» con el nombre de tu tienda:
 

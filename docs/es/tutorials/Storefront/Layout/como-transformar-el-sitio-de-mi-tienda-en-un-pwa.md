@@ -15,9 +15,7 @@ locale: es
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
-<div class = "alert alert-info">
-  <p>Este artículo solo es válido para tiendas CMS Portal Legado.</p>
-</div>
+> ℹ️ Este artículo solo es válido para tiendas CMS Portal Legado.
 
 Progressive Web App (PWA) es un conjunto de técnicas utilizadas para desarrollar aplicaciones web y utilizar funcionalidades que de otro modo estarían restringidas a aplicaciones nativas.
 
@@ -33,8 +31,7 @@ Progressive Web App (PWA) es un conjunto de técnicas utilizadas para desarrolla
 
 Si ya tienes un sitio o aplicación web, puedes implementar poco a poco las características que definen una PWA, como notificaciones, caché de archivos, ejecución offline y otras cosas que hagan al usuario sentirse como si estuviera utilizando una aplicación nativa.
 
-<div class="alert alert-warning">
-VTEX <strong>no</strong> ofrece soluciones nativas para conversión a PWA en el CMS Portal Legado, aunque sí tiene la infraestructura básica para una implementación manual. Las tiendas desarrolladas con VTEX IO Store Framework tienen este recurso de forma nativa.</div>
+> ⚠️ VTEX **no** ofrece soluciones nativas para conversión a PWA en el CMS Portal Legado, aunque sí tiene la infraestructura básica para una implementación manual. Las tiendas desarrolladas con VTEX IO Store Framework tienen este recurso de forma nativa.
 
 ## Instrucciones
 
@@ -69,7 +66,7 @@ Para crear el archivo JSON, sigue los pasos a continuación:
 
 7. Haz clic en `Guardar`.
 
-<div class="alert alert-info"> <p><strong>Consejo:</strong> Utiliza íconos con una resolución mínima de 192x192 px y prepara colores hexadecimales que se ajusten a tu identidad visual.</p> </div>
+> ℹ️ **Consejo:** Utiliza íconos con una resolución mínima de 192x192 px y prepara colores hexadecimales que se ajusten a tu identidad visual.
 
 ### Agrega el archivo `manifest.json` a la aplicación web
 
@@ -127,7 +124,7 @@ Para crear el script, sigue los pasos a continuación:
 
 Aunque esté ubicado en `/archivos/service-worker.js`, el archivo recibe el encabezado `Service-Worker-Allowed` con valor `/`, lo que permite interceptar requests de la raíz del sitio web.
 
-<div class="alert alert-warning"> <p><strong>Atención:</strong> El service worker solo funciona en entornos HTTPS. Siempre debes realizar pruebas en producción o utilizar tunnels seguros en el entorno de desarrollo.</p></div>
+> ⚠️ **Atención:** El service worker solo funciona en entornos HTTPS. Siempre debes realizar pruebas en producción o utilizar tunnels seguros en el entorno de desarrollo.
 
 Para saber más sobre los service workers, consulta la documentación de Google [Web Fundamentals](https://developer.chrome.com/docs/workbox/service-worker-overview?hl=es-419).
 

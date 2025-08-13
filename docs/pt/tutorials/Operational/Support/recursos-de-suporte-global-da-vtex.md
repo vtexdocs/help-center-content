@@ -33,22 +33,22 @@ A seguir, apresentamos a tabela de disponibilidade e os SLAs de atendimento, que
     <tr class="bb b--muted-3">
       <td style="background-color: white;">Urgente</td>
       <td style="background-color: white;">1 hora</td>
-      <td style="background-color: white;">Sua loja VTEX em produção está indisponível ou completamente inutilizável, com todos os clientes ou todas as regiões afetadas. <br><br><em>Exemplo: VTEX retornando erro 502 para todos usuários.</em></td>
+      <td style="background-color: white;">Sua loja VTEX em produção está indisponível ou completamente inutilizável, com todos os clientes ou todas as regiões afetadas. <br><br>*Exemplo: VTEX retornando erro 502 para todos usuários.*</td>
     </tr>
     <tr class="bb b--muted-3">
       <td style="background-color: white;">Alta</td>
       <td style="background-color: white;">2-4 horas</td>
-      <td style="background-color: white;">Funcionalidades importantes da sua loja VTEX estão indisponíveis ou extremamente lentas, sem alternativa viável para contornar o problema. <br><br><em>Exemplo: Uma promoção não está sendo aplicada ou produtos não estão sendo enviados de um Seller para um Marketplace.</em></td>
+      <td style="background-color: white;">Funcionalidades importantes da sua loja VTEX estão indisponíveis ou extremamente lentas, sem alternativa viável para contornar o problema. <br><br>*Exemplo: Uma promoção não está sendo aplicada ou produtos não estão sendo enviados de um Seller para um Marketplace.*</td>
     </tr>
     <tr class="bb b--muted-3">
       <td style="background-color: white;">Normal</td>
       <td style="background-color: white;">4-8 horas</td>
-      <td style="background-color: white;">Funcionalidades importantes da sua loja VTEX estão indisponíveis ou lentas, mas existe uma alternativa viável para contornar o problema. <br><br><em>Exemplo: Um problema conhecido impacta o seu uso da VTEX, mas um workaround está sendo utilizado como solução temporária.</em></td>
+      <td style="background-color: white;">Funcionalidades importantes da sua loja VTEX estão indisponíveis ou lentas, mas existe uma alternativa viável para contornar o problema. <br><br>*Exemplo: Um problema conhecido impacta o seu uso da VTEX, mas um workaround está sendo utilizado como solução temporária.*</td>
     </tr>
     <tr class="bb b--muted-3">
       <td style="background-color: white;">Baixa</td>
       <td style="background-color: white;">8-12 horas</td>
-      <td style="background-color: white;">Chamados para o time financeiro, tarefas ou perguntas sobre funcionalidades ou documentação. <br><br><em>Exemplo: "É possível configurar feriados locais na plataforma?"</em></td>
+      <td style="background-color: white;">Chamados para o time financeiro, tarefas ou perguntas sobre funcionalidades ou documentação. <br><br>*Exemplo: "É possível configurar feriados locais na plataforma?"*</td>
     </tr>
   </tbody>
 </table>
@@ -66,9 +66,7 @@ Chamados urgentes são aqueles que reportam problemas críticos com impacto dire
 | Impossível Atender Pedidos | Status de pedidos não sendo atualizado *Feed* ou *hook* de pedidos não funcionando |
 | Usabilidade da Loja Indisponível | Não é possível adicionar itens ao carrinho Não é possível registrar no site Busca interna sem resposta |
 
-<div class="alert alert-warning">
-Chamados urgentes terão atendimento emergencial, disponível exclusivamente via <a href="https://help.vtex.com/en/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM">chamados Zendesk</a>.
-</div>
+> ⚠️ Chamados urgentes terão atendimento emergencial, disponível exclusivamente via [chamados Zendesk](https://help.vtex.com/en/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM).
 
 ## Classificação de prioridade dos Chamados
 

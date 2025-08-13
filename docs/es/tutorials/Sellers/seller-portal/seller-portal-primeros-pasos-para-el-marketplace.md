@@ -27,13 +27,13 @@ A través del *Seller Portal*, los *marketplaces* pueden:
 - Reducir el tiempo de conversión de las ventas con una incorporación self-service de nuevos sellers ahora más rápida y sin fricciones.  
 - Compartir el surtido de productos con el seller de forma sencilla y gestionar rápidamente los anuncios de productos compartidos.  
 
-![Seller Portal gif 2022 launch](//images.ctfassets.net/alneenqid6w5/48uQe9Gi0K9ZU8qyXXO8US/442d951b3a76c47f43249b3f544389be/Seller_Portal.gif)
+![Seller Portal gif 2022 launch](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Sellers/seller-portal/seller-portal-primeros-pasos-para-el-marketplace_1.gif)
 
 ## Interacción entre el seller y el marketplace en el Seller Portal
 
 El uso del Seller Portal depende de las acciones del _marketplace_ y del _seller_, como se muestra en la imagen a continuación:
 
-<img src="https://drive.google.com/uc?export=download&id=1CWtmHm5WqniZ1xqQs2NBnVIoeOQt7tBZ"/>
+<img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Sellers/seller-portal/seller-portal-primeros-pasos-para-el-marketplace_2.png"/>
 
 Los pasos representados en la imagen anterior son los siguientes:
 
@@ -60,9 +60,7 @@ La página de **Invitación de Sellers** es donde los operadores del _marketplac
 
 A través del Seller Portal, los _marketplaces_ hospedados en VTEX pueden conectarse con _sellers_ que tienen una cuenta VTEX, _sellers_ hospedados en otras plataformas o _sellers_ que no están alojados en ninguna plataforma. Al aceptar la invitación, el _seller_ elige si desea integrar su cuenta VTEX existente o crear una nueva cuenta para vender en el _marketplace_. 
 
-<div class = "alert alert-info">
-Una vez que el <a href="https://help.vtex.com/es/tutorial/marketplace-convite-de-sellers-beta--6rb2FkcslmDueJ689Ulb9A#convidar-seller">marketplace invita al seller</a>, se le envía un email con un link para crear una cuenta en el Seller Portal. El link es válido durante siete días. Después de hacer clic en link, el seller tiene seis horas para completar el formulario de registro.
-</div>
+> ℹ️ Una vez que el [marketplace invita al seller](https://help.vtex.com/es/tutorial/marketplace-convite-de-sellers-beta--6rb2FkcslmDueJ689Ulb9A#convidar-seller), se le envía un email con un link para crear una cuenta en el Seller Portal. El link es válido durante siete días. Después de hacer clic en link, el seller tiene seis horas para completar el formulario de registro.
 
 Si el _seller_ no completa el registro en el plazo previsto, el _marketplace_ debe enviar la invitación de nuevo. Puedes acceder a la página desde el Admin VTEX, en **MARKETPLACE > Sellers > Invitación de sellers**. Debes seleccionar el _seller_ de la lista y hacer clic en el botón **Reenviar invitación**.
 
@@ -77,9 +75,7 @@ Para saber más, consulta los siguientes artículos:
 
 Una vez que el _seller_ acepta la invitación al _marketplace_ y finaliza el registro de su cuenta en el Seller Portal, el siguiente paso es la activación para conectarlo al _marketplace_. Esto hace que el _seller_ pase del status _Invitado_ al status _Activo_, y se incluya en la **Gestión de sellers**. Consulta el paso a paso de cómo activar el _seller_ en [Conectar seller](https://help.vtex.com/es/tutorial/marketplace-convite-de-sellers-beta--6rb2FkcslmDueJ689Ulb9A#conectar-seller).
 
-<div class = "alert alert-info">
-La etapa de activación del <i>seller</i> pretende dar más seguridad al <i>marketplace</i>, en caso de que se requiera alguna alineación con el <i>seller</i> antes de que empiece a vender en el <i>marketplace</i>.
-</div>
+> ℹ️ La etapa de activación del *seller* pretende dar más seguridad al *marketplace*, en caso de que se requiera alguna alineación con el *seller* antes de que empiece a vender en el *marketplace*.
 
 #### Acciones por API Rest
 
@@ -102,9 +98,7 @@ Este paso es opcional para el _marketplace_ y dependerá del objetivo de tu mode
 
 Cuando el _marketplace_ opta por compartir el catálogo, lo hace a través de una [política comercial](https://help.vtex.com/es/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV). El _seller_ recibe la lista de productos ya registrados en el _marketplace_ para importar y configurar el _stock_ y el precio en el Seller Portal, en **Precios > Catálogo > Productos compartidos**.
 
-<div class = "alert alert-info">
-La creación de una política comercial adicional por parte del operador del marketplace para definir el surtido del catálogo de sellers en el Seller Portal se cobra como un <a href="https://help.vtex.com/es/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X">contratación de política comercial adicional</a>.
-</div>
+> ℹ️ La creación de una política comercial adicional por parte del operador del marketplace para definir el surtido del catálogo de sellers en el Seller Portal se cobra como un [contratación de política comercial adicional](https://help.vtex.com/es/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X).
 
 #### Compartir productos
 
@@ -122,9 +116,7 @@ En VTEX, un [anuncio](https://help.vtex.com/es/tutorial/anuncios-y-envio-de-prod
 
 Cuando el _seller_ crea un nuevo producto, el _marketplace_ debe revisarlo y aprobar el anuncio del producto siguiendo un proceso llamado [catalogación de anuncios](https://help.vtex.com/es/tutorial/sugerindo-e-aprovando-skus--tutorials_396). La catalogación permite crear nuevos productos y asociar anuncios a SKU o productos ya existentes para ponerlos a la venta.
 
-<div class = "alert alert-info">
-Los anuncios de <a href="https://help.vtex.com/es/tutorial/seller-portal-produtos-compartilhados--6vUGj2UmOuLzQTK9pj04lu">productos compartidos</a> entre el marketplace y el seller se aprueban automáticamente sin necesidad de ninguna acción manual.
-</div>
+> ℹ️ Los anuncios de [productos compartidos](https://help.vtex.com/es/tutorial/seller-portal-produtos-compartilhados--6vUGj2UmOuLzQTK9pj04lu) entre el marketplace y el seller se aprueban automáticamente sin necesidad de ninguna acción manual.
 
 El proceso de catalogación puede ser realizado en el Admin VTEX, en **MARKETPLACE > Sellers > SKU recibidos**, o mediante la API [Match Received SKUs](https://developers.vtex.com/vtex-rest-api/reference/match).
 

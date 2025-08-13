@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-<div class="alert alert-danger">Esta integración de pago ya no se puede configurar en la plataforma debido al <a href="https://help.vtex.com/es/announcements/descontinuacion-de-conectores-de-pago-legados-en-2024--4R5YIjUu1IWkiOHzXtQU14">proceso de descontinuación de los proveedores legados</a> y el artículo pronto se eliminará del Help Center. Consulte con su proveedor para obtener más información sobre el desarrollo de la nueva integración de pago y los pasos necesarios para migrar la configuración en su tienda.</div>
+> ❗ Esta integración de pago ya no se puede configurar en la plataforma debido al [proceso de descontinuación de los proveedores legados](https://help.vtex.com/es/announcements/descontinuacion-de-conectores-de-pago-legados-en-2024--4R5YIjUu1IWkiOHzXtQU14) y el artículo pronto se eliminará del Help Center. Consulte con su proveedor para obtener más información sobre el desarrollo de la nueva integración de pago y los pasos necesarios para migrar la configuración en su tienda.
 
 [WebPay](https://publico.transbank.cl/productos-y-servicios/soluciones-para-ventas-internet/webpay.cl) es una [afiliación](https://help.vtex.com/es/tutorial/o-que-e-um-gateway-de-pagamentos) exclusiva para los clientes chilenos.  Para configurar la solución y procesar sus pagos con WebPay, realice los siguientes pasos:
 
@@ -38,7 +38,7 @@ Para configurar el WebPay como gateway, siga estos pasos:
     - __Usa Preauth__: Indique si va a utilizar la preautorización en los pagos de su tienda.
 
 <ui>
-5. Haga clic en <b>Guardar</b>.
+5. Haga clic en **Guardar**.
   </ui>
 
 ## Configurar condición de pago

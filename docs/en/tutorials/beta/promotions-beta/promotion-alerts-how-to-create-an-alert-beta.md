@@ -15,9 +15,7 @@ locale: en
 subcategoryId: 6iTRZiMeCGXYiO2ckABFZi
 ---
 
-<div class = "alert alert-info">
-This module is in Beta, which means we are working on improving it. If you have any questions, please contact our <a href="https://help.vtex.com/en/support">Support team.</a>
-</div>
+> ℹ️ This module is in Beta, which means we are working on improving it. If you have any questions, please contact our [Support team.](https://help.vtex.com/en/support)
 
 Creating promotions is a great strategy to attract more customers to your ecommerce website. When configuring them, you must ensure that the applied discounts will produce the expected results since mistakes when creating a promotion can lead to revenue losses.
 
@@ -42,9 +40,7 @@ Follow the instructions below to create an alert:
 
 Then, the new promotion alert will be successfully created.
 
-<div class = "alert alert-info">
-When setting up alerts for products with unit multipliers, such as items sold in fractions (e.g., 0.5 kg), it is important to know that the system may incorrectly flag promotions for these products. This happens because it cannot accurately identify the price per gram or other unit fractions. Therefore, we recommend carefully reviewing the alerts when managing weighable items.
-</div>
+> ℹ️ When setting up alerts for products with unit multipliers, such as items sold in fractions (e.g., 0.5 kg), it is important to know that the system may incorrectly flag promotions for these products. This happens because it cannot accurately identify the price per gram or other unit fractions. Therefore, we recommend carefully reviewing the alerts when managing weighable items.
 
 ## Conditions
 

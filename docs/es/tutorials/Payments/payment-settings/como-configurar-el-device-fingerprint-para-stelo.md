@@ -19,20 +19,16 @@ __Device Fingerprint__ es un identificador que actúa en el procesamiento de un 
 
 Mediante la recolección de datos no sensibles, Device Fingerprint identifica y analiza el nivel de seguridad del dispositivo utilizado para realizar la transacción, así como las transacciones que se realizaron previamente con este mismo dispositivo.
 
-<div class="alert alert-info">
-Cada tienda debe tener solo un registro de Device fingerprint. Verifique si ya ha registrado el Device Fingerprint en otro conector, antes de continuar con los pasos siguientes.
-</div>
+> ℹ️ Cada tienda debe tener solo un registro de Device fingerprint. Verifique si ya ha registrado el Device Fingerprint en otro conector, antes de continuar con los pasos siguientes.
 
 En este artículo, explicaremos cómo asociar Device Fingerprint con la afiliación Stelo.
 
-<div class="alert alert-info">
-Las configuraciones documentadas en este artículo se realizan en un ambiente exterior a VTEX. Por lo tanto, pueden estar desactualizadas.
-</div>
+> ℹ️ Las configuraciones documentadas en este artículo se realizan en un ambiente exterior a VTEX. Por lo tanto, pueden estar desactualizadas.
 
 Para insertar los scripts que exige Stelo al device fingerprint, es necessário usar el Google Tag Manager. Para ello, haga login en su cuenta en [http://www.google.com/tagmanager](http://www.google.com/tagmanager). Después, siga los pasos a continuación:
 
 1. En el menú inicial del Google Tag Manager, haga clic en **Nova tag**;
-2. Seleccione ** Configuração da tag ** y elija el tipo **HTML personalizado**.![Tela1](https://images.contentful.com/alneenqid6w5/2VjcP3lQ9aqceC82kgaAU8/68bffad6d79e91e7286c780ac16fffc7/Tela1.jpg);
+2. Seleccione ** Configuração da tag ** y elija el tipo **HTML personalizado**.![Tela1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/payment-settings/como-configurar-el-device-fingerprint-para-stelo_1.jpg);
 
 Entonces, inserte el script a continuación:
 
@@ -51,13 +47,13 @@ window.vtex.deviceFingerprint = match[1];
 
 Después, siga los pasos a continuación:
 
-1. Haga clic en **Acionamento**, Novo acionador (símbolo de **+** en la esquina superior derecha) y en ** Configuração do acionador.**![Tela2](https://images.contentful.com/alneenqid6w5/6uwEr6KGJyOCcigIMCcUoS/4142ad24f3121bee1fea9d55069d10a6/Tela2.jpg);
+1. Haga clic en **Acionamento**, Novo acionador (símbolo de **+** en la esquina superior derecha) y en ** Configuração do acionador.**![Tela2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/payment-settings/como-configurar-el-device-fingerprint-para-stelo_2.jpg);
 2. Elija el tipo **Evento personalizado** e inserte el nombre **payment**;
 3. Seleccione la flag **Alguns eventos personalizados**;
-4. En las dos primeras cajas abajo, seleccione: **Event** y **é igual a**. En la tercera, escriba **payment**.![Tela3](https://images.contentful.com/alneenqid6w5/5sbXgbm4g0yysWKSwmYWI0/e7d605639093f30aff58bff0efef2ae4/Tela3.jpg)
+4. En las dos primeras cajas abajo, seleccione: **Event** y **é igual a**. En la tercera, escriba **payment**.![Tela3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/payment-settings/como-configurar-el-device-fingerprint-para-stelo_3.jpg)
 5. Guarde el accionador y la tag;
 6. En el menú lateral, haga clic en la opción **Variables** y después en **Nueva**;
-7. Haga clic en **Configuração da variável** y elija el tipo **JavaScript personalizado**;![Tela4](https://images.contentful.com/alneenqid6w5/3I7Eq6Jt2wkYg6EoKAkCqC/91cca1c81534bbbc76e70db8f94be13a/Tela4.jpg)
+7. Haga clic en **Configuração da variável** y elija el tipo **JavaScript personalizado**;![Tela4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/payment-settings/como-configurar-el-device-fingerprint-para-stelo_4.jpg)
 
 Finalmente, inserte el script a continuación:
 

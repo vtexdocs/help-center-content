@@ -95,7 +95,7 @@ Cuando se [configura](https://help.vtex.com/es/tracks/promocoes--6asfF1vFYiZgTQt
 y modifican el valor que refleja el descuento de la promoción seleccionada por la competencia de promociones no acumulables. La secuencia de aplicación sigue el orden por tipo y valor descrito.
 
 Se aplica de la siguiente manera:
-![promocao3 PT](//images.ctfassets.net/alneenqid6w5/1LKDzbLkhua8Gk284SEwsk/997fdac9b6380c68a729bf4d48e20af8/promocao3_PT.png)
+![promocao3 PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/promotions-&-taxes/promotions/como-funciona-la-competencia-de-promociones_1.png)
 
 <div style="background-color: #fff8e1; border-left: 4px solid #ffb300; padding: 12px 16px; margin: 16px 0; font-family: sans-serif; overflow: auto;">
   <p style="margin: 0;">
@@ -104,7 +104,7 @@ Se aplica de la siguiente manera:
       marketplace
     </a> 
     y fulfillment no reconocen la acumulación de promociones, ya que el uso de promociones en marketplaces VTEX o externos está restringido a ciertos tipos específicos.
-  </p>
+  
 </div>
 
 ## Estrategia de competencia de promociones
@@ -127,7 +127,7 @@ Hay dos estrategias de competencia:
       abre un ticket con nuestro equipo de Soporte
     </a> 
     para solicitar el cambio.
-  </p>
+  
 </div>
 
 ### Competencia por escenario

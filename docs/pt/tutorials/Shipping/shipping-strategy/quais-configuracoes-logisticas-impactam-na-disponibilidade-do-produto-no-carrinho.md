@@ -25,9 +25,7 @@ Quando você configura corretamente o produto e ele [aparece como disponível na
     * [Dimensões e fator cúbico de peso](#dimensoes-e-fator-cubico-de-peso)
     * [Modal](#modal)
 
-<div class="alert alert-warning">
-Se a sua loja utiliza a funcionalidade <a href="https://help.vtex.com/pt/tutorial/configurar-a-regionalizacao-de-sellers--32t6wLpQCEnumoh8TjT5fw">Regionalização de sellers</a>, os sellers capazes de enviar o produto para a localidade do cliente devem ter o produto disponível para vendas. Além disso, o status desses sellers precisa ser ativo, pois produtos de sellers inativos não são considerados como disponíveis.
-</div>
+> ⚠️ Se a sua loja utiliza a funcionalidade [Regionalização de sellers](https://help.vtex.com/pt/tutorial/configurar-a-regionalizacao-de-sellers--32t6wLpQCEnumoh8TjT5fw), os sellers capazes de enviar o produto para a localidade do cliente devem ter o produto disponível para vendas. Além disso, o status desses sellers precisa ser ativo, pois produtos de sellers inativos não são considerados como disponíveis.
 
 ## Simulador de envio
 
@@ -35,9 +33,7 @@ Um produto pode estar indisponível no carrinho porque a [estratégia de envio](
 
 Uma forma de testar a existência de uma rota de entrega viável, validar certas configurações logísticas da sua loja e conferir o inventário é usando o **Simulador de envio**.
 
-<div class = "alert alert-info">
-Para conhecer o passo a passo de como simular o envio de um produto, veja o artigo <a href="https://help.vtex.com/pt/tutorial/simulador-de-envio--tutorials_144">Simulador de envio</a>.
-</div>
+> ℹ️ Para conhecer o passo a passo de como simular o envio de um produto, veja o artigo [Simulador de envio](https://help.vtex.com/pt/tutorial/simulador-de-envio--tutorials_144).
 
 ## Inventário
 
@@ -50,9 +46,7 @@ Ao adotar qualquer uma dessas estratégias, você mantém a disponibilidade do p
 
 Se o [estoque futuro](https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/inventory/items/-skuId-/warehouses/-warehouseId-/supplyLots/-supplyLotId-) estiver configurado para o SKU, o abastecimento desse item poderia levar um tempo a mais que o previsto, e nesse período a indisponibilidade poderia ser por falta de estoque do produto.
 
-<div class="alert alert-warning">
-Caso a sua loja tenha <a href="https://help.vtex.com/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#tipos-de-conta-na-vtex">contas franquia</a>, para que o inventário dessas contas esteja disponível para vendas, os produtos precisam estar vinculados à mesma <a href="https://help.vtex.com/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV">política comercial</a> usada na sua vitrine.
-</div>
+> ⚠️ Caso a sua loja tenha [contas franquia](https://help.vtex.com/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#tipos-de-conta-na-vtex), para que o inventário dessas contas esteja disponível para vendas, os produtos precisam estar vinculados à mesma [política comercial](https://help.vtex.com/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) usada na sua vitrine.
 
 ## Estratégia de envio
 
@@ -67,9 +61,7 @@ Com relação à estratégia de envio, a lista abaixo apresenta as principais si
 * Não existe vínculo entre a doca e a política de envio.
 * Não existe vínculo entre a doca e a [política comercial](https://help.vtex.com/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) que define os produtos exibidos na vitrine.
 
-<div class = "alert alert-info">
-Estas situações devem ser consideradas no contexto da venda. Ter um estoque inativo não causa a indisponibilidade do produto, mas quando somente um estoque atende à rota de envio e ele está inativo, o produto se torna indisponível no carrinho.
-</div>
+> ℹ️ Estas situações devem ser consideradas no contexto da venda. Ter um estoque inativo não causa a indisponibilidade do produto, mas quando somente um estoque atende à rota de envio e ele está inativo, o produto se torna indisponível no carrinho.
 
 ## Configurações da política de envio
 
@@ -92,9 +84,7 @@ Com relação às configurações da transportadora, a lista a seguir apresenta 
 * A quantidade de itens no carrinho não atende ao número mínimo de itens para envio.
 * O CEP/localidade do cliente não se encontra na região onde a transportadora entrega.
 
-<div class = "alert alert-info">
-As situações acima mencionadas devem ser consideradas no contexto da venda. Se existe uma única política de envio elegível para o envio do produto e as características deste produto estão fora das configurações aceitas pela transportadora, então não existe uma rota de envio válida e o produto se torna indisponível.
-</div>
+> ℹ️ As situações acima mencionadas devem ser consideradas no contexto da venda. Se existe uma única política de envio elegível para o envio do produto e as características deste produto estão fora das configurações aceitas pela transportadora, então não existe uma rota de envio válida e o produto se torna indisponível.
 
 Outras configurações da transportadora que podem impactar na disponibilidade do produto estão relacionadas ao peso e volumetria de itens, como será a seguir.
 
@@ -109,9 +99,7 @@ Com relação ao [fator cúbico de peso](https://help.vtex.com/pt/tutorial/calcu
 
 Caso o produto esteja fora de algum dos limites configurados, ele se tornará indisponível no carrinho.
 
-<div class="alert alert-warning">
-Se houver duas políticas de envio válidas para o pedido, sendo uma do tipo entrega e outra do tipo <a href="https://help.vtex.com/pt/tutorial/pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R">retirada</a>, mas o produto não se enquadrar nos limites de dimensões do pacote de uma delas, somente um tipo de envio será apresentado no checkout. Por exemplo, se o peso do produto for menor que o valor de peso mínimo da política de envio para entrega, mas estiver dentro dos limites configurados para a retirada, aparecerá para o cliente somente a opção para retirar o pedido.
-</div>
+> ⚠️ Se houver duas políticas de envio válidas para o pedido, sendo uma do tipo entrega e outra do tipo [retirada](https://help.vtex.com/pt/tutorial/pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R), mas o produto não se enquadrar nos limites de dimensões do pacote de uma delas, somente um tipo de envio será apresentado no checkout. Por exemplo, se o peso do produto for menor que o valor de peso mínimo da política de envio para entrega, mas estiver dentro dos limites configurados para a retirada, aparecerá para o cliente somente a opção para retirar o pedido.
 
 ### Modal
 

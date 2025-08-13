@@ -15,9 +15,7 @@ locale: es
 subcategoryId: jrgbOxKaOW0kdZs7rdgvS
 ---
 
-<div class="alert alert-info">
-  <p>Esta funcionalidad es parte de <a href="https://help.vtex.com/es/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh">VTEX Shield</a>. Si ya es cliente de VTEX y desea adoptar VTEX Shield para su negocio, por favor, póngase en contacto con el <a href="https://help.vtex.com/es/tracks/soporte-en-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ">Soporte Comercial</a>. Pueden aplicarse tarifas adicionales. Si aún no es cliente pero está interesado en esta solución, por favor, complete el <a href="https://vtex.com/co-es/contacto/">formulario de contacto</a>.</p>
-</div>
+> ℹ️ Esta funcionalidad es parte de [VTEX Shield](https://help.vtex.com/es/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh). Si ya es cliente de VTEX y desea adoptar VTEX Shield para su negocio, por favor, póngase en contacto con el [Soporte Comercial](https://help.vtex.com/es/tracks/soporte-en-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ). Pueden aplicarse tarifas adicionales. Si aún no es cliente pero está interesado en esta solución, por favor, complete el [formulario de contacto](https://vtex.com/co-es/contacto/).
 
 De forma predeterminada, VTEX utiliza [certificados SSL](https://help.vtex.com/es/tutorial/certificado-de-seguranca-ssl--tutorials_1308) emitidos por [Let's](https://letsencrypt.org/) [Encrypt](https://letsencrypt.org/), que es una solución de código abierto ampliamente adoptada en el mercado. Esto garantiza la seguridad, confiabilidad y compatibilidad con la mayoría de los navegadores.
 
@@ -33,7 +31,7 @@ La página presenta la siguiente información en forma de tabla:
 | **AC** | Autoridad de certificación. |
 | **Fecha de instalación** | Fecha de instalación del certificado. |
 | **Fecha de vencimiento** | Fecha de vencimiento del certificado. |
-| **Status** | Status del certificado, que puede ser: <ul><li><strong>Activo:</strong> certificado válido y activo para el host.</li><li><strong>Sobrescrito:</strong> el certificado para este host ha sido reemplazado por otro a través de un método externo, como una llamada de API en la CDN.</li><li><strong>Instalando:</strong> instalación del certificado en curso.</li><li><strong>Desconocido:</strong> no se pudo determinar el status del certificado debido a problemas técnicos internos de comunicación, configuración o monitoreo.</li><li><strong>Expira pronto:</strong> el certificado está cerca de su fecha de vencimiento (30 días antes o menos).</li><li><strong>La instalación falló:</strong> después del status <em>Instalando</em> la instalación puede fallar. En este caso el usuario tiene que intentarlo de nuevo después.</li><li><strong>Vencido:</strong> la fecha de vencimiento pasó.</li></ul> |
+| **Status** | Status del certificado, que puede ser: <ul><li>**Activo:** certificado válido y activo para el host.</li><li>**Sobrescrito:** el certificado para este host ha sido reemplazado por otro a través de un método externo, como una llamada de API en la CDN.</li><li>**Instalando:** instalación del certificado en curso.</li><li>**Desconocido:** no se pudo determinar el status del certificado debido a problemas técnicos internos de comunicación, configuración o monitoreo.</li><li>**Expira pronto:** el certificado está cerca de su fecha de vencimiento (30 días antes o menos).</li><li>**La instalación falló:** después del status *Instalando* la instalación puede fallar. En este caso el usuario tiene que intentarlo de nuevo después.</li><li>**Vencido:** la fecha de vencimiento pasó.</li></ul> |
 
 ## Prerrequisitos
 
@@ -63,9 +61,7 @@ Si la configuración tiene éxito, se te redirigirá a la página de lista de ce
 
 La instalación puede tomar 7 días para completarse y durante este periodo el status de los hosts será **Instalando**. Una vez finalizada la instalación, el status de los hosts cambiará a **Activo**.
 
-<div class="alert alert-info">
-  <p>Para saber cómo solucionar errores de instalación, consulta la guía de resolución de problemas <a href="https://help.vtex.com/es/tutorial/error-al-instalar-el-certificado-ssl-personalizado--6hgFzbcc96mcrqXZMmHCTr" target="_blank" rel="noopener noreferrer">Error al instalar certificado SSL personalizado</a>.</p>
-</div>
+> ℹ️ Para saber cómo solucionar errores de instalación, consulta la guía de resolución de problemas [Error al instalar certificado SSL personalizado](https://help.vtex.com/es/tutorial/error-al-instalar-el-certificado-ssl-personalizado--6hgFzbcc96mcrqXZMmHCTr).
 
 Más información
 

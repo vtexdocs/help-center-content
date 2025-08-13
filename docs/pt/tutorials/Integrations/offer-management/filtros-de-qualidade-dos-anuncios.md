@@ -21,7 +21,7 @@ Marketplaces precisam revisar e aprovar anúncios enviados por sellers para que 
 
 **Filtros de qualidade dos anúncios** é a página onde marketplaces cadastram e gerenciam os grupos de requisitos aplicados ao processo de catalogação de SKUs recebidos. Para acessá-la, em seu Admin VTEX, vá para **Marketplace > Qualidade dos Anúncios** ou digite __“Qualidade dos anúncios”__ na barra de busca.
 
-![PT offer quality](//images.ctfassets.net/alneenqid6w5/7GL1AaqkfQqjLCj262wg04/d51603a30cf92b54035d2229ae23792a/PT_offer_quality.png)
+![PT offer quality](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Integrations/offer-management/filtros-de-qualidade-dos-anuncios_1.png)
 
 Nesse artigo, saiba como:
 
@@ -47,7 +47,7 @@ A funcionalidade permite ao operador de marketplace realizar uma série de açõ
 
 ## Visualizar "Default requirements"
 
-![PT Default requirements](//images.ctfassets.net/alneenqid6w5/6OxPTO8QO6o9zZ8kTt5tVG/7b191f93fedb9f951939925e481c473b/PT_Default_requirements.png)
+![PT Default requirements](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Integrations/offer-management/filtros-de-qualidade-dos-anuncios_2.png)
 
 A página já vem por padrão com alguns requisitos pré-cadastrados que serão aplicados a todas as categorias, sellers e marcas, chamados de "Default requirements", ou Regras padrão. Alguns desses critérios são configurados nativamente no [VTEX Matcher](https://help.vtex.com/pt/tutorial/entendendo-a-pontuacao-do-vtex-matcher--tutorials_424), a ferramenta aplicada aos marketplaces VTEX para auxiliar no processo de catalogação de anúncios recebidos. 
 
@@ -58,9 +58,7 @@ Não é possível desativar as "Default requirements", e estão à mostra na pá
 * Ref ID possui quantidade de caracteres máximo de 50
 * EAN possui quantidade de caracteres máximo de 50
 
-<div class="alert alert-info">
-  É possível configurar a auto aprovação de anúncios pelo VTEX Matcher por meio de chamadas de API REST <a href="https://developers.vtex.com/vtex-rest-api/reference/saveaccountconfig">Save Account's Approval Settings</a>. São critérios diferentes dos disponíveis para visualização na página de Filtros de qualidade dos anúncios e se aplicam à aprovação automática de anúncios de determinados sellers.
-  </div>
+> ℹ️ É possível configurar a auto aprovação de anúncios pelo VTEX Matcher por meio de chamadas de API REST [Save Account's Approval Settings](https://developers.vtex.com/vtex-rest-api/reference/saveaccountconfig). São critérios diferentes dos disponíveis para visualização na página de Filtros de qualidade dos anúncios e se aplicam à aprovação automática de anúncios de determinados sellers.
 
 ## Criar grupos de requisitos 
 Crie grupo de requisitos para definir as regras aplicadas a sellers, categorias ou marketplaces. Os grupos de requisitos aplicam regras aos campos listados a seguir. Saiba mais sobre a definição de cada Tipo de requisito.
@@ -81,9 +79,7 @@ Crie grupo de requisitos para definir as regras aplicadas a sellers, categorias 
 
 É possível criar requisitos obrigatórios e/ou opcionais. Saiba mais sobre as implicações de cada requisito em [Catalogar anúncios com requisitos](#catalogar-anuncios-com-requisitos). 
 
-<div class="alert alert-info">
-Note que cada grupo de requisito só comporta um valor. Portanto, para adicionar mais de um valor é necessário criar outro grupo de requisito. Por exemplo, se o marketplace quiser adicionar as palavras "Blusas" e "Camisas" como requisitos obrigatórios para o campo Marca do seller, é necessário criar um grupo de requisito para "Blusas" e outro para "Camisas".
-  </div>
+> ℹ️ Note que cada grupo de requisito só comporta um valor. Portanto, para adicionar mais de um valor é necessário criar outro grupo de requisito. Por exemplo, se o marketplace quiser adicionar as palavras "Blusas" e "Camisas" como requisitos obrigatórios para o campo Marca do seller, é necessário criar um grupo de requisito para "Blusas" e outro para "Camisas".
 
 Para criar um novo grupo de requisitos:
 

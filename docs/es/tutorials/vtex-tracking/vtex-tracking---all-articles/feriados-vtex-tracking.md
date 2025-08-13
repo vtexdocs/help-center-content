@@ -17,9 +17,7 @@ subcategoryId: 7yiFRk9TGfMNeyhT83UljP
 
 IN PROGRESS...
 
-<div class="alert alert-info">
-El registro de «Feriados» solo está vinculado a la funcionalidad de programación de entrega que únicamente está disponible para los usuarios de VTEX Tracking con integración de sistemas. 
-</div>
+> ℹ️ El registro de «Feriados» solo está vinculado a la funcionalidad de programación de entrega que únicamente está disponible para los usuarios de VTEX Tracking con integración de sistemas.
 
 Los clientes reciben una comunicación por *email* o SMS con la predicción de entrega de su pedido. Si el cliente sabe de antemano que no estará disponible para recibir su paquete en el periodo indicado, puede reprogramar la entrega para otra fecha y periodo.
 

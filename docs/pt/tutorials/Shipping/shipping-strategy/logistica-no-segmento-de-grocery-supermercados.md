@@ -27,7 +27,7 @@ O fulfillment nada mais é do que o processo da análise dos pedidos, separaçã
 
 Na maioria das operações convencionais de e-commerce, temos um armazém que representa o estoque. Já na maioria das operações de grocery, esse armazém não é praticado devido à perecibilidade, rápido detrimento das mercadorias (validade) e a grande variedade do mix de produtos.
 
-![](https://images.contentful.com/alneenqid6w5/5VsYaqLOz6iq2Q6KEGiOIw/ccca0432aef12d539de3d6d9301383df/mapaARMAZEM1.jpg)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Shipping/shipping-strategy/logistica-no-segmento-de-grocery-supermercados_1.jpg)
 
 Neste contexto, para a existência de um armazém que represente o estoque é praticamente necessário o dobro do espaço físico e um grande fluxo de pedidos para escoamento antes do detrimento dos produtos.
 Para evitar esta custosa e complexa operação, os grocerys de modo geral, utilizam os próprios pdvs como fonte de estoque, ou seja, os produtos que estão nas gôndolas são os produtos que alimentam o estoque da loja virtual. 
@@ -58,7 +58,7 @@ A partir de volumes medianos (acima de 30 pedidos diários) o método de picking
 
 Pode-se realizar essas ondas por transportadora, rotas, docas ou lote.
 
-![](https://images.contentful.com/alneenqid6w5/5rrGJF8WL60uOmgeEia08o/5b66179fe04f4fd6c1cddcd9c12f774f/pickingonda2.jpg)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Shipping/shipping-strategy/logistica-no-segmento-de-grocery-supermercados_2.jpg)
 
 ## Picking _por onda lote_ favorece o Packing
 
@@ -72,7 +72,7 @@ Devido aos diferentes tipos de mercadorias vendáveis no grocery, podemos atribu
 6. Frágeis
 7. Congelados
 
-![](https://images.contentful.com/alneenqid6w5/tepJVna9uoiKUqeUeOQM4/e9b1e3bca826f9a4bb8f662d34108339/mapa.jpg)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Shipping/shipping-strategy/logistica-no-segmento-de-grocery-supermercados_3.jpg)
 
 Além de ser imprescindível para a separação, o lote é muito importante no packing, uma vez que os tipos de lotes tem necessidades características e particulares:
 
@@ -91,7 +91,7 @@ Exemplos: Ovos, Frutas, bomboniere, batatas etc.
 **7. (Congelados):** Devem ser transportados em caixas térmicas, em até 6 horas são conservados com o auxílio de blocos de gelos, estes gelos devem estar preferencialmente em recipientes plásticos fechados para evitar o envolvimento com água e reaproveitamento do insumo.
 Exemplos: Sorvetes, sobremesas, empanados, pratos prontos, hambúrgueres, petiscos e etc.
 
-![](https://images.contentful.com/alneenqid6w5/ptgKUEgHBu4syuiuS46mS/ae31c4cbd90a04a8d0dc19a3e2a6b669/packing.jpg)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Shipping/shipping-strategy/logistica-no-segmento-de-grocery-supermercados_4.jpg)
 
 ## Despacho, transporte e entrega
 

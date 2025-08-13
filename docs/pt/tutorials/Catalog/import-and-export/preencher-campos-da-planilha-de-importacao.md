@@ -28,15 +28,7 @@ Dependendo da quantidade de produtos, seu processamento pode demorar algumas hor
 
 Para entender o significado de cada campo da planilha, veja abaixo a descrição completa dos campos de Produto e SKU relacionados no Excel.
 
-<div class="alert alert-danger">
-  <p>Ao preencher <b>TextoLink</b>, <b>NomeDepartamento</b>, <b>NomeCategoria</b> e <b>Marca</b>, evite utilizar as seguintes palavras reservadas, pois isso pode prejudicar o desempenho da sua loja e interferir no funcionamento de páginas definidas no Admin VTEX. Veja a lista de palavras reservadas abaixo.
-  <ul>
-<li><code>a</code></li>
-<li><code>meta</code></li>
-<li><code>api</code></li>
-<li><code>admin</code></li>
-</ul></p>
-</div>
+> ❗ Ao preencher **TextoLink**, **NomeDepartamento**, **NomeCategoria** e **Marca**, evite utilizar as seguintes palavras reservadas, pois isso pode prejudicar o desempenho da sua loja e interferir no funcionamento de páginas definidas no Admin VTEX. Veja a lista de palavras reservadas abaixo. <ul> <li>`a`</li> <li>`meta`</li> <li>`api`</li> <li>`admin`</li> </ul>
 
 **SkuId:** número único identificador do SKU. Caso esse campo já esteja preenchido, não é possível alterá-lo. Para adicionar um novo SKU, deixe a coluna vazia.
 

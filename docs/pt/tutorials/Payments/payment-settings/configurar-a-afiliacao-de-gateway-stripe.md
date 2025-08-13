@@ -17,9 +17,7 @@ subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 
 A [Stripe](https://stripe.com/br) é uma plataforma de pagamentos que oferece um sistema integrado com foco no recebimento de pagamentos online e qualquer tipo de transação financeira comum a ecommerces e outros sites da web.
 
-<div class="alert alert-warning">
-A integração da sua loja com a Stripe é feita por meio de uma <strong>Application Key</strong> e <strong>Application Token</strong>. Para obter esses dados, primeiramente <a href="https://dashboard.stripe.com/register" target="_blank">crie sua conta na plataforma</a> e, ao finalizar, acesse <a href="https://stripe.com/docs/keys" target="_blank"> esta documentação da Stripe</a> para ter acesso à sua <strong>Chave publicável</strong> e <strong>Chave secreta</strong>. Elas são mandatórias para as configurações no ambiente VTEX.
-</div>
+> ⚠️ A integração da sua loja com a Stripe é feita por meio de uma **Application Key** e **Application Token**. Para obter esses dados, primeiramente [crie sua conta na plataforma](https://dashboard.stripe.com/register) e, ao finalizar, acesse [ esta documentação da Stripe](https://stripe.com/docs/keys) para ter acesso à sua **Chave publicável** e **Chave secreta**. Elas são mandatórias para as configurações no ambiente VTEX.
 
 A Stripe suporta pagamentos em mais de 40 países. A lista de países disponíveis pode ser acessada no [site da Stripe](https://stripe.com/br/enterprise).
 
@@ -39,8 +37,8 @@ Siga os passos abaixo para a configuração no ambiente VTEX.
 <br>
 <ul>
 <br>
-    	<li><b>Chave de aplicação</b>: Chave publicável que você obteve no <a href="https://dashboard.stripe.com">dashboard da sua conta na Stripe</a>.</li>
-    	<li><b>Token de aplicação</b>: Chave secreta que você obteve no <a href="https://dashboard.stripe.com">dashboard da sua conta na Stripe</a>.</li>
+    	<li>**Chave de aplicação**: Chave publicável que você obteve no [dashboard da sua conta na Stripe](https://dashboard.stripe.com).</li>
+    	<li>**Token de aplicação**: Chave secreta que você obteve no [dashboard da sua conta na Stripe](https://dashboard.stripe.com).</li>
 </ul>
 5. Clique em __Salvar__.
 
@@ -56,12 +54,7 @@ Após a configuração no ambiente VTEX, você também precisa configurar o Webh
 8. Clique em __Adicionar eventos__.
 9. Clique em __Adicionar endpoint__.
 
-<div class="alert alert-info">
-  <p>Caso você deseje realizar transações com cartão de crédito na Stripe, é necessário abrir um ticket na própria Stripe da seguinte maneira:</p>
-  <p>- Solicitar a liberação da função "raw card data", indicando que a VTEX e a Stripe são parceiros de pagamento.</p>
-  <p>- Encaminhar em anexo o AOC (Attestation of Compliance for Onsite Assessments – Service Providers) da VTEX. Para verificar a versão mais recente do AOC VTEX, acesse a página de <a href="https://vtex.com/br-pt/compliance/certifications">certificações da VTEX</a> e baixe o arquivo na seção PCI.</p>
-  <p>As ações acima evitarão que erros relacionados a transmissão de dados sensíveis ocorram na integração entre a Stripe e a VTEX.</p>
-</div>
+> ℹ️ Caso você deseje realizar transações com cartão de crédito na Stripe, é necessário abrir um ticket na própria Stripe da seguinte maneira: - Solicitar a liberação da função "raw card data", indicando que a VTEX e a Stripe são parceiros de pagamento. - Encaminhar em anexo o AOC (Attestation of Compliance for Onsite Assessments – Service Providers) da VTEX. Para verificar a versão mais recente do AOC VTEX, acesse a página de [certificações da VTEX](https://vtex.com/br-pt/compliance/certifications) e baixe o arquivo na seção PCI. As ações acima evitarão que erros relacionados a transmissão de dados sensíveis ocorram na integração entre a Stripe e a VTEX.
 
 ## Configurar condição de pagamento
 
@@ -86,9 +79,7 @@ Após esse procedimento, o Google Pay aparecerá no checkout da loja como um dos
 
 O conector Stripe permite adicionar o Apple Pay como método de pagamento no checkout da sua loja. 
 
-<div class="alert alert-warning">
-O Apple Pay funciona atualmente somente nos sistemas operacionais MacOs e IOS, e no navegador Safari. Para maiores informações, acesse <a href="https://support.apple.com/pt-br/HT208531">Dispositivos compatíveis com o Apple Pay</a>.
-</div>
+> ⚠️ O Apple Pay funciona atualmente somente nos sistemas operacionais MacOs e IOS, e no navegador Safari. Para maiores informações, acesse [Dispositivos compatíveis com o Apple Pay](https://support.apple.com/pt-br/HT208531).
 
 Com o conector Stripe configurado, você pode adicionar o Apple Pay com os seguintes passos:
 

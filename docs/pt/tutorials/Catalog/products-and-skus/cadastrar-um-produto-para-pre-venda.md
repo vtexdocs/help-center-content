@@ -34,15 +34,11 @@ Para disponibilizar um produto via pré-venda, siga os passos abaixo.
 5. Preencha os [restantes campos do produto](https://help.vtex.com/pt/tutorial/campos-de-cadastro-de-produto--4dYXWIK3zyS8IceKkQseke).
 6. Clique em `Salvar e Cadastrar um novo SKU`.
 7. Na página de criação do SKU, preencha o campo **Data Previsão Chegada (pré-venda)** com a data em que o produto estará disponível para entrega pela loja no formato `dd/mm/aaaa`.
-<div class="alert alert-info">
-  <p>É preciso levar em consideração tanto a data de lançamento quanto o cálculo do frete para o cadastro da data de chegada: <code>tempo final de entrega = SLA de entrega + prazo de recebimento do lote de abastecimento</code></p>  
-</div>
+> ℹ️ É preciso levar em consideração tanto a data de lançamento quanto o cálculo do frete para o cadastro da data de chegada: `tempo final de entrega = SLA de entrega + prazo de recebimento do lote de abastecimento`
 8. Preencha os [restantes campos do SKU](https://help.vtex.com/pt/tutorial/campos-de-cadastro-de-sku--21DDItuEQc6mseiW8EakcY).
 9. Clique em `Salvar` para finalizar.
 
-<div class="alert alert-info">
-  <p>O pedido do item em pré-venda só deverá ser faturado a partir da data de lançamento, isto é, quando haverá a disponibilidade real de estoque do produto.</p>  
-</div>
+> ℹ️ O pedido do item em pré-venda só deverá ser faturado a partir da data de lançamento, isto é, quando haverá a disponibilidade real de estoque do produto.
 
 ## Agendar preços
 Para agendar os preços fixos da sua loja para a pré-venda de um produto, siga os passos descritos no artigo [Agendar preços](https://help.vtex.com/pt/tutorial/agendar-preco--4vVha6TGzYkguWuMOqCcCk). 

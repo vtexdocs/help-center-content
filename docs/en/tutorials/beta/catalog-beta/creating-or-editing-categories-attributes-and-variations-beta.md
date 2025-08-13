@@ -15,9 +15,7 @@ locale: en
 subcategoryId: 6XPsLadoT3moZ7eTduCg3c
 ---
 
-<div class = "alert alert-info">
-  <p>This feature is in beta, which means that we are working to improve it. If you have any questions, please contact <a href="https://help.vtex.com/en/support">our Support</a>.</p>
-</div>
+> ℹ️ This feature is in beta, which means that we are working to improve it. If you have any questions, please contact [our Support](https://help.vtex.com/en/support).
 
 In the VTEX Admin, under **Catalog > Categories**, you'll find the page for managing your store's category tree. This article guides you through creating and configuring categories, [attributes, and variations](#terminology). It's divided into the following sections:
 
@@ -43,9 +41,7 @@ In the VTEX Admin, under **Catalog > Categories**, you'll find the page for mana
     - [Viewing variation activation status and values](#viewing-variation-activation-status-and-values)
     - [Hiding inactive variations](#hiding-inactive-variations)
 
-<div class="alert alert-danger">
-  <p>Once a category, attribute, or variation is created, it can't be deleted; only edited, deactivated, or hidden in the interface.</p>
-</div>
+> ❗ Once a category, attribute, or variation is created, it can't be deleted; only edited, deactivated, or hidden in the interface.
 
 ## Terminology
 
@@ -61,7 +57,7 @@ In the beta phase, we'll use a new name for the following terms:
 
 In the VTEX Admin, when you go to **Catalog > Categories**, the interface by displays **Categories** and **Attributes** by default, as shown in the image below:
 
-![category_attributes_EN](//images.ctfassets.net/alneenqid6w5/7436dJLF4YzoYkjrm6GBfM/fe467645e777cf8e5cbdc1e5e596390c/category_attributes_EN.png)
+![category_attributes_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/catalog-beta/creating-or-editing-categories-attributes-and-variations-beta_1.png)
 
 On this page, you can view information and perform the following actions:
 
@@ -82,7 +78,7 @@ On this page, you can view information and perform the following actions:
 
 Selecting the **Variations** option displays an interface like the one shown below:
 
-![category_variations_EN](//images.ctfassets.net/alneenqid6w5/5XX38yXs6AkibrvpWqXODV/0a0418f43b503e6fb16913ee28c4ef40/category_variations_EN.png)
+![category_variations_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/catalog-beta/creating-or-editing-categories-attributes-and-variations-beta_2.png)
 
 On this page, you can view information and do the following:
 
@@ -105,24 +101,18 @@ Category actions include:
 - [Searching categories by name](#searching-categories-by-name)
 - [Hiding categories](#hiding-categories)
 
-<div class="alert alert-warning">
-  <p>When a category is added, it can't be removed, only <a href="#editing-categories">edited</a> or deactivated.</p>
-</div>
+> ⚠️ When a category is added, it can't be removed, only [edited](#editing-categories) or deactivated.
 
 ### Adding categories
 
 To create a category, follow the steps below:
 
-<div class="alert alert-danger">
-  <p>Once a category has been created as a parent category, it can't be edited as a subcategory. The same rule applies to subcategories, which can't become categories or change their parent category.</p>
-</div>
+> ❗ Once a category has been created as a parent category, it can't be edited as a subcategory. The same rule applies to subcategories, which can't become categories or change their parent category.
 
 1. In the left corner of the page, next to the search bar, click the + icon, or hover over **All products** and click the + displayed. You can also click the + icon next to the category name.
 2. In the modal displayed, enter the category name. This is the only required field.
 
-  <div class="alert alert-warning">
-  <p>The category name is crucial for <a href="https://help.vtex.com/en/tutorial/melhorando-o-seo-das-paginas-de-lista-de-produtos--UrQtlKAMuSaLBP5wG9ftG">SEO</a> (Search Engine Optimization), so we recommend the following:</p><p><ul><li>Use simple words.</li><li>Avoid using other languages.</li><li>Avoid complex spelling.</li><li>Use up to 150 characters.</li></ul></p>
-</div>
+  > ⚠️ The category name is crucial for [SEO](https://help.vtex.com/en/tutorial/melhorando-o-seo-das-paginas-de-lista-de-produtos--UrQtlKAMuSaLBP5wG9ftG) (Search Engine Optimization), so we recommend the following:<ul><li>Use simple words.</li><li>Avoid using other languages.</li><li>Avoid complex spelling.</li><li>Use up to 150 characters.</li></ul>
 
 3. If you want to activate the category you're creating, select the checkbox **Active.** To keep it deactivated, leave the option unchecked.
 4. In the **Basic information** section, complete the following fields:
@@ -158,9 +148,7 @@ To edit a category, follow the steps below:
 2. Click <i class="fas fa-pencil-alt" aria-hidden="true"></i> **Edit category**.
 3. Edit the information you want.
 
-  <div class="alert alert-danger">
-  <p>The following configurations can't be edited:</p><p><ul><li>Hierarchy level of the category, whether it's a parent category or subcategory.</li><li>Relationship between categories and subcategories.</li></ul></p>
-</div>
+  > ❗ The following configurations can't be edited:<ul><li>Hierarchy level of the category, whether it's a parent category or subcategory.</li><li>Relationship between categories and subcategories.</li></ul>
 
 4. Click `Apply`.
 
@@ -170,9 +158,7 @@ Once this is done, the confirmation message "*Category updated successfully*" wi
 
 Once you've created categories, you can find them using the search bar indicated by the magnifying glass icon <i class="fas fa-search" aria-hidden="true"></i>. The search only considers the names of categories and subcategories.
 
-<div class = "alert alert-info">
-  <p>You can use a shortcut for this search. By pressing the <code>/</code> key, the cursor moves to the search field to enter the name of the desired category.</p>
-</div>
+> ℹ️ You can use a shortcut for this search. By pressing the `/` key, the cursor moves to the search field to enter the name of the desired category.
 
 ### Hiding categories
 
@@ -199,9 +185,7 @@ To create a group, follow the steps below:
 
 Once this is done, the confirmation message "*Category group saved successfully*" will be displayed. The group will be automatically listed in alphabetical order after being added.
 
-<div class = "alert alert-info">
-  <p>To learn how to add attributes to a group, go to <a href="#adding-attributes">Adding attributes</a>, and to learn how to add variations to a group, go to <a href="#adding-variations">Adding variations</a>.</p>
-</div>
+> ℹ️ To learn how to add attributes to a group, go to [Adding attributes](#adding-attributes), and to learn how to add variations to a group, go to [Adding variations](#adding-variations).
 
 ### Editing groups
 
@@ -222,11 +206,9 @@ When a group of attributes is created in the parent category, it becomes mandato
 
 In the **Attributes** interface, you can identify groups and inherited attributes by the share icon, located to the left of the name, as in the image below:
 
-![inherited_atribute_EN](//images.ctfassets.net/alneenqid6w5/5nmtuQ4WLDd95101bFo3vq/49808ee4f19506367fed4f66f5ae172d/inherited_atribute_EN.png)
+![inherited_atribute_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/catalog-beta/creating-or-editing-categories-attributes-and-variations-beta_3.png)
 
-<div class = "alert alert-info">
-  <p>To learn about attribute status, see the section <a href="#viewing-attribute-activation-status-and-values">Viewing attribute activation status and values</a>.</p>
-</div>
+> ℹ️ To learn about attribute status, see the section [Viewing attribute activation status and values](#viewing-attribute-activation-status-and-values).
 
 ## Actions on attributes
 
@@ -243,9 +225,7 @@ To view its interface, see the section [Interface overview of categories, attrib
 
 To add an attribute, follow the steps below:
 
-<div class="alert alert-danger">
-  <p>Once an attribute has been added to a group, it can't be removed; it can only be edited, deactivated, or hidden in the interface. The attributes' type can't be edited.</p>
-</div>
+> ❗ Once an attribute has been added to a group, it can't be removed; it can only be edited, deactivated, or hidden in the interface. The attributes' type can't be edited.
 
 1. On the **Attributes** page, after you've [added a group](#adding-groups), click the + icon next to the name of the group you want, or click the down arrow next to the name of the group and then click `Add first attribute`.
 2. Click the type of attribute you want:
@@ -277,9 +257,7 @@ To edit an attribute, follow the steps below:
 1. On the **Attributes** page, hover over the name of the attribute you want to edit and click the pencil icon <i class="fas fa-pencil-alt" aria-hidden="true"></i> that will be displayed.
 2. In the side drawer, change the attribute settings as desired. For more information on **Settings** or **Storefront**, see the section [Adding attributes](#adding-attributes).
 
-  <div class="alert alert-warning">
-  <p>The attribute type is the only setting that can't be changed.</p>
-</div>
+  > ⚠️ The attribute type is the only setting that can't be changed.
 
 3. (Optional). This step doesn't apply to the **Free text** and **Large text** attribute types. However, for **Single selection** and **Multiple selection**, there's the **Values** section, in which you determine the exact values for the attribute.
     - 3.1 To create a value, click the + icon, or click the down arrow next to **Values** and select `Add first value`.
@@ -302,9 +280,7 @@ Both the attribute and its values can have two possible statuses, as shown in th
 
 To activate or deactivate an attribute or its values, see the section [Editing attributes](#editing-attributes).
 
-<div class = "alert alert-info">
-  <p>For more information on the icon that can be displayed next to the attribute's status, see the section </a><a href="#identifying-groups-and-inherited-attributes">Identifying groups and inherited attributes</a>.</p>
-</div>
+> ℹ️ For more information on the icon that can be displayed next to the attribute's status, see the section </a>[Identifying groups and inherited attributes](#identifying-groups-and-inherited-attributes).
 
 ### Hiding inactive attributes
 
@@ -327,9 +303,7 @@ To view its interface, see the section [Interface overview of categories, attrib
 
 To create a variation, follow the steps below:
 
-<div class="alert alert-danger">
-  <p>Once a variation has been added to a group, it can't be removed; it can only be edited, deactivated, or hidden in the interface. The variations' type can't be edited.</p>
-</div>
+> ❗ Once a variation has been added to a group, it can't be removed; it can only be edited, deactivated, or hidden in the interface. The variations' type can't be edited.
 
 1. On the **Attributes** page, after you've [added a group](#adding-groups), click the + icon next to the name of the group you want, or click the down arrow next to the name of the group and then click `Create first variation`.
 2. Click the desired type of variation:
@@ -359,9 +333,7 @@ To edit a variation, follow the steps below:
 1. On the **Variations** page, hover over the name of the variation you want to edit and click the pencil icon <i class="fas fa-pencil-alt" aria-hidden="true"></i> that will be displayed.
 2. In the side drawer, change the variation settings as desired. For more information on **Settings** or **Storefront**, see the section [Adding variations](#adding-variations).
 
-  <div class="alert alert-warning">
-  <p>The variation type is the only setting that can't be changed.</p>
-</div>
+  > ⚠️ The variation type is the only setting that can't be changed.
 
 3. When editing, the **Values** section determines the predefined values for the variation.
     - 3.1 To create a value, click the + icon, or click the down arrow next to **Values** and select `Add first value`.
@@ -382,9 +354,7 @@ Both the variation and its values can have two possible statuses, as shown in th
 | Active | The variation is reflected on the storefront and only displays the activated values. | The variation value can be reflected on the storefront if the variation itself is active. | 🟢 Green |
 | Inactive | The variation isn't reflected on the storefront, regardless of the value status. | The value of the variation isn't reflected on the storefront, regardless of whether the variation is active. | ⚪ White |
 
-<div class = "alert alert-info">
-  <p>To activate or deactivate a variation or its values, see the section <a href="#editing-variations">Editing variations</a>.</p>
-</div>
+> ℹ️ To activate or deactivate a variation or its values, see the section [Editing variations](#editing-variations).
 
 ### Hiding inactive variations
 

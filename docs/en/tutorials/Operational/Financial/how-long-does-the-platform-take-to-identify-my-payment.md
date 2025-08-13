@@ -17,9 +17,7 @@ subcategoryId: 6SJnrkKDjGwSqKkMuQMOmm
 
 If you paid through bank slip, compensation should occur within 48 business hours after payment. But rest easy, usually the compensation happens before this deadline and the release of your environment is done automatically after payment confirmation.
 
-<div class="alert alert-warning">
-If the title is not updated in 48 hours, open a call, via ticket, and send the proof of payment so we can understand what happened.
-</div>
+> ⚠️ If the title is not updated in 48 hours, open a call, via ticket, and send the proof of payment so we can understand what happened.
 
 ### Related articles
 

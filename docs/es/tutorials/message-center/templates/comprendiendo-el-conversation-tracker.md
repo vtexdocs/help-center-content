@@ -24,9 +24,7 @@ Conversation Tracker puede tener dos configuraciones:
 - **Compleja** - crea un alias (correo electrónico alternativo) de forma ilegible, evitando así la identificación del correo electrónico por sistemas externos, también vincula cualquier correo electrónico enviado a esta dirección a la línea de tiempo del pedido. Normalmente, la tienda con esta configuración presenta el alias de la siguiente forma: `ff2e6348a53a4d449af92be2a1011328@ct.vtex.com.br`
 - **Simple** - crea un alias (correo electrónico alternativo) menos complejo para el correo electrónico del usuario comprador, esto hace que el correo electrónico continúe legible en la UI del OMS y cuando se visualice en el JSON del pedido. Otro punto importante es que la dirección del remitente (tienda) también está enmascarada de la misma manera que el correo electrónico del usuario en el JSON. Esto es necesario para que el sistema pueda vincular los correos electrónicos de esta compra a la línea de tiempo del pedido. Por lo general, la tienda con esta configuración mostrará el alias de la siguiente forma:`juanvaldez@vtex.com.br-207700027841b.ct.vtex.com.br`
 
-<div class="alert alert-info">
-Todas las tiendas vienen con la configuración <strong>Compleja</strong> por default.
-</div>
+> ℹ️ Todas las tiendas vienen con la configuración **Compleja** por default.
 
 Conversation Tracker ofrece diversas otras ventajas, principalmente en cuestión de seguridad:
 

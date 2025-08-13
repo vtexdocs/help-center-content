@@ -19,11 +19,7 @@ O inventário contém as informações dos produtos que a loja possui para venda
 
 Esse artigo contém as instruções para acessar o histórico de movimentações do inventário pelo Admin VTEX. 
 
-<div class = "alert alert-info">
-Não esqueça da diferença entre estoque e inventário:
-  <p> <b><a href="https://help.vtex.com/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb">Estoque:</a></b> nome dado para os locais de armazenamento da loja.
-<p>  <b>Inventário:</b> relação dos SKUs e os estoques em que estão armazenados.
-</div>
+> ℹ️ Não esqueça da diferença entre estoque e inventário:  **[Estoque:](https://help.vtex.com/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb)** nome dado para os locais de armazenamento da loja.   **Inventário:** relação dos SKUs e os estoques em que estão armazenados.
 
 Para visualizar as movimentações de um SKU:
 
@@ -36,8 +32,6 @@ Para visualizar as movimentações de um SKU:
   * A quantidade de itens antes da atualização.
   * A quantidade de itens após a atualização.
 
-<div class="alert alert-warning">
-Só é possível consultar as últimas 50 movimentações no registro de atualizações de um determinado SKU.
-</div>
+> ⚠️ Só é possível consultar as últimas 50 movimentações no registro de atualizações de um determinado SKU.
 
 A quantidade total de itens na página [Gerenciamento de inventário](https://help.vtex.com/pt/tutorial/gerenciar-itens-em-estoque--tutorials_139) é atualizada em tempo real, mas pode haver um atraso de até 1 hora para a informação aparecer no registro de atualizações.

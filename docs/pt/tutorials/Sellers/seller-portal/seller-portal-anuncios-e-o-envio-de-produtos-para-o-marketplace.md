@@ -29,7 +29,7 @@ Anúncio é o nome que damos para um produto ou variação de um seller, que foi
 
 Na ilustração podemos ver uma série de anúncios de um seller na vitrine de um marketplace, contendo as variações de seus produtos.
 
-![ilustra-anuncio](//images.ctfassets.net/alneenqid6w5/6jTBcTMp6BZkTIdmzlj2cO/2bb8c962ee97323f452c8d0fbff68c2b/ilustra-anuncio.png)
+![ilustra-anuncio](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Sellers/seller-portal/seller-portal-anuncios-e-o-envio-de-produtos-para-o-marketplace_1.png)
 
 ## Como sei que o meu produto foi enviado para o Marketplace?
 

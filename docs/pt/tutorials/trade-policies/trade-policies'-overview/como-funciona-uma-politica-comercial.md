@@ -63,7 +63,7 @@ Ao criar condições de pagamento diferentes sobre o mesmo produto, elas irão c
 ## Gerenciamento de Conta
 
 <div class=alert alert-warning>
-Para clientes com muitas subcontas, ou com operação de loja física que possibilitam retirada em loja, ou  com ship from store, criar múltiplas políticas comerciais não é a melhor solução. Sugerimos abrir novas <a href="https://help.vtex.com/pt/tutorial/o-que-e-store-name">store names</a> para cada uma das lojas operando dentro de uma <a href="https://help.vtex.com/pt/tutorial/o-que-e-account-name">account</a>. 
+Para clientes com muitas subcontas, ou com operação de loja física que possibilitam retirada em loja, ou  com ship from store, criar múltiplas políticas comerciais não é a melhor solução. Sugerimos abrir novas [store names](https://help.vtex.com/pt/tutorial/o-que-e-store-name) para cada uma das lojas operando dentro de uma [account](https://help.vtex.com/pt/tutorial/o-que-e-account-name). 
 </div>
 
 O excesso de políticas comerciais em um ambiente VTEX faz com que o processo de indexação de produtos na vitrine da loja e a simulação de frete no checkout fiquem mais lentos, possivelmente afetando a conversão de pedidos. Ao segmentar o catálogo por múltiplas políticas comerciais em vez de criar store names com inventário próprio, a loja também pode perder oportunidades de venda e melhores condições de entrega, ao restringir a oferta de produtos. Saiba mais sobre [como criar um store name](https://help.vtex.com/pt/tutorial/como-criar-um-store-name).

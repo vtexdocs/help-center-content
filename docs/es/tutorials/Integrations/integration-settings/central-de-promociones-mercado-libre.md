@@ -21,7 +21,7 @@ Al hacer clic en una promoción de la lista, el seller utiliza la barra de búsq
 
 Accede a la página **Promociones** en el Admin VTEX, en **Marketplace > Mercado Libre > Promociones.**  
 
-![Central de promociones Mercado Libre](//images.ctfassets.net/alneenqid6w5/2I8h2Cuasv6iz3IqPkNpxR/0d8561e21ad7c3931948e2d9b3860ea0/Central_de_Promo__es_Mercado_Livre.gif)
+![Central de promociones Mercado Libre](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Integrations/integration-settings/central-de-promociones-mercado-libre_1.gif)
 
 ## Tipos de promociones
 
@@ -72,9 +72,7 @@ Si deseas remover algún producto de la campaña sigue los pasos a continuación
 2. Haz clic en el ícono <i class="far fa-trash-alt" aria-hidden="true"></i>.  
 3. En la ventana emergente haz clic en el botón `Confirmar`.  
 
-<div class="alert alert-info">
-Los anuncios removidos de la campaña aparecerán listados en la sección <b>Candidatos</b> y podrán incluirse nuevamente.
-</div>
+> ℹ️ Los anuncios removidos de la campaña aparecerán listados en la sección **Candidatos** y podrán incluirse nuevamente.
 
 ### Co-fondeada
 
@@ -145,8 +143,7 @@ Si deseas remover algún producto de la campaña sigue los pasos a continuación
 2. Haz clic en el ícono <i class="far fa-trash-alt" aria-hidden="true"></i>.  
 3. En la ventana emergente haz clic en el botón `Confirmar`.  
 
-<div class="alert alert-info">
-Los anuncios removidos de la campaña no pueden volver a enviarse.</div>
+> ℹ️ Los anuncios removidos de la campaña no pueden volver a enviarse.
 
 ### Descuento por volumen
 
@@ -209,9 +206,7 @@ Cuando el status de la campaña cambie a **Activa**, todos los anuncios listados
 
 En la sección **Participando** se mostrarán los anuncios previamente configurados para participar en una campaña promocional cuyo status es **Activa**.  
 
-<div class="alert alert-info">
-En este tipo de campaña no es posible remover los anuncios.
-</div>
+> ℹ️ En este tipo de campaña no es posible remover los anuncios.
 
 ### Oferta relámpago
 
@@ -240,9 +235,7 @@ Cuando el status de la campaña cambie a **Activa**, todos los anuncios listados
 
 En la sección **Participando** se mostrarán los anuncios previamente configurados para participar en una campaña promocional cuyo status es **Activa**.  
 
-<div class="alert alert-info">
-En este tipo de campaña no es posible remover los anuncios si la campaña tiene el status <b>Activa</b>.
-</div>
+> ℹ️ En este tipo de campaña no es posible remover los anuncios si la campaña tiene el status **Activa**.
 
 ### Co-fondeada automatizada
 
@@ -340,9 +333,7 @@ Si deseas remover algún producto de la campaña sigue los pasos a continuación
 2. Haz clic en el ícono <i class="far fa-trash-alt" aria-hidden="true"></i>.
 3. En la ventana emergente haz clic en el botón `Confirmar`.
 
-<div class="alert alert-info">
-En este tipo de campaña, los anuncios removidos no pueden volver a incluirse.
-</div>
+> ℹ️ En este tipo de campaña, los anuncios removidos no pueden volver a incluirse.
 
 ### Campaña del vendedor
 

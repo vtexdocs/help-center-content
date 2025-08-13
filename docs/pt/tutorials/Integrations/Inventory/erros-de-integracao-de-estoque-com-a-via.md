@@ -39,7 +39,7 @@ Este erro significa que não foi possível identificar um estoque válido na int
 
 Para identificar a causa, faça uma [simulação de envio](https://help.vtex.com/pt/tutorial/simulador-de-envio--tutorials_144). A simulação apresenta quais são as possibilidades de envio, e qual a quantidade disponível de itens para um produto. A imagem a seguir apresenta o resultado de uma simulação de envio:
 
-![imagem_simulador](https://drive.google.com/uc?export=download&id=18GIkZRAIHAAQKcCrCrTK8_tos4-3eVNK)
+![imagem_simulador](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Integrations/Inventory/erros-de-integracao-de-estoque-com-a-via_1.png)
 
 Quando não há estoque disponível, ou quando existe algum erro nas configurações da sua [Estratégia de Envio](https://help.vtex.com/pt/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3), o resultado da simulação apresenta o motivo para o insucesso da operação. Neste exemplo, existem algumas transportadoras que não cumpriam as condições necessárias para a entrega do produto.
 

@@ -21,9 +21,7 @@ Um cupom consiste em um código promocional, composto de uma sequência de letra
 
 É possível criar e editar cupons pelo Admin VTEX, em **Promoções** > [Cupons](https://help.vtex.com/pt/tutorial/lista-de-cupons-beta--5z5ya3IonsC2W4B5h4JrsZ), ou pela [Promotions & Taxes API v2](https://developers.vtex.com/vtex-rest-api/reference/promotions-taxes-api-v2).
 
-<div class="alert alert-warning">
-<p>Para ser utilizado, o cupom precisa estar vinculado a pelo menos uma promoção. É possível associar um cupom a qualquer tipo de promoção, exceto a <a href="https://help.vtex.com/pt/tutorial/promocao-de-campanha--1ChYXhK2AQGuS6wAqS8Ume">Promoção de campanha</a>. Saiba mais em <a href="https://help.vtex.com/pt/tutorial/criar-cupom-beta--7lMk3MmhNp2IEccyGApxU">Criar cupom (Beta)</a>.</p>
-</div>
+> ⚠️ Para ser utilizado, o cupom precisa estar vinculado a pelo menos uma promoção. É possível associar um cupom a qualquer tipo de promoção, exceto a [Promoção de campanha](https://help.vtex.com/pt/tutorial/promocao-de-campanha--1ChYXhK2AQGuS6wAqS8Ume). Saiba mais em [Criar cupom (Beta)](https://help.vtex.com/pt/tutorial/criar-cupom-beta--7lMk3MmhNp2IEccyGApxU).
 
 ## Tipos de cupons
 

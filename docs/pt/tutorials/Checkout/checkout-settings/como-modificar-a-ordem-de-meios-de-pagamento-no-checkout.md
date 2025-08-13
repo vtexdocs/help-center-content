@@ -19,9 +19,7 @@ Você pode mudar a ordem de exibição dos meios de pagamento no Checkout da sua
 - Pelo Admin.
 - Por meio de uma customização no JavaScript. 
 
-<div class="alert alert-warning">
-<strong>Atenção:</strong> ainda que exista essa possibilidade, por questões de segurança e performance, <strong>não recomendamos</strong> que você modifique os arquivos JavaScript do Checkout. A VTEX não se responsabiliza por qualquer problema gerado após a edição desse código.
-</div>
+> ⚠️ **Atenção:** ainda que exista essa possibilidade, por questões de segurança e performance, **não recomendamos** que você modifique os arquivos JavaScript do Checkout. A VTEX não se responsabiliza por qualquer problema gerado após a edição desse código.
 
 ## Como funciona o ordenação
 

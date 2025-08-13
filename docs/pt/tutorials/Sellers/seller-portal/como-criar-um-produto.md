@@ -32,9 +32,7 @@ O formulário de cadastro de um novo produto contém as seguintes seções:
 *   [SEO](#seo)
 *   [Frente de loja](#frente-de-loja)
 
-<div class="alert alert-info">
-  <p>Antes de criar um produto, você precisa criar a <a href="https://help.vtex.com/pt/tutorial/cadastrando-categoria--tutorials_206?&utm_source=autocomplete">Categoria</a> correspondente a esse produto, caso ela não tenha sido cadastrada anteriormente na sua loja.</p>
-</div>
+> ℹ️ Antes de criar um produto, você precisa criar a [Categoria](https://help.vtex.com/pt/tutorial/cadastrando-categoria--tutorials_206?&utm_source=autocomplete) correspondente a esse produto, caso ela não tenha sido cadastrada anteriormente na sua loja.
 
 ## Informações Básicas
 
@@ -56,7 +54,7 @@ Nesta seção, você precisa adicionar pelo menos uma política comercial para s
 
 Nesta etapa, você precisa escrever uma descrição das principais informações relacionadas ao produto. O texto deve ser um resumo simples e de fácil entendimento para o cliente. O editor de texto da descrição é rich text, ou seja, você pode utilizar diversos recursos de formatação utilizando a barra de ferramentas desse campo, ilustrada abaixo.
 
-![richtextdescription-PT](https://images.contentful.com/alneenqid6w5/5ZsZ8w2bYbaM7yQ685K0QD/703ab1ea4e8618aeac8170938e79b43a/richtextdescription.gif)
+![richtextdescription-PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Sellers/seller-portal/como-criar-um-produto_1.gif)
 
 Veja quais são os recursos disponíveis a partir da barra de ferramentas:
 
@@ -83,13 +81,11 @@ Para adicionar imagens ao produto, siga o passo a passo abaixo:
 1. Clique no botão **Adicionar imagens** ou solte-as no espaço pontilhado.
 2. Insira todas as imagens do produto, incluindo suas variações, como cor e tamanho. As imagens devem estar no formato JPEG, PNG ou GIF, com até 5MB cada.
 
-<div class="alert alert-warning">
-<p>Recomendamos o uso de imagens com 600px ou mais, para que a exibição da imagem aconteça adequadamente na sua loja.</p>
-</div>
+> ⚠️ Recomendamos o uso de imagens com 600px ou mais, para que a exibição da imagem aconteça adequadamente na sua loja.
 
 Você pode clicar em uma imagem e arrastá-la para antes ou depois das outras, caso deseje reorganizar as imagens e alterar a ordem de exibição na página do produto, conforme ilustrado abaixo.
 
-![imagens-sku-PT](https://images.contentful.com/alneenqid6w5/5m037wmoaACDY2kWW8i590/75fd6f032396efb8d479ad4ae4c075ab/imagens-sku-PT.gif)
+![imagens-sku-PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Sellers/seller-portal/como-criar-um-produto_2.gif)
 
 Você pode alterar informações de cada imagem clicando no botão <i class="fas fa-ellipsis-v"></i> na linha de cada uma, que abre um menu com opções a seguir.
 
@@ -124,7 +120,7 @@ Exemplo: uma loja de cosméticos poderia configurar os grupos de atributos de um
   1. Tempo de fixação: longo
   2. Tipo de aplicação: spray
 
-![atributos-PT](https://images.contentful.com/alneenqid6w5/6F9yuSkur10PzPGiBgccSR/1fb207ddf5ff24be4464ff95dad09950/image3.gif)
+![atributos-PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Sellers/seller-portal/como-criar-um-produto_3.gif)
 
 Após realizar as alterações desejadas no painel de atributos, clique em `Aplicar`.
 
@@ -144,9 +140,7 @@ Todo produto precisa ter pelo menos um [SKU](https://help.vtex.com/pt/tutorial/o
 
 Se você desejar criar mais de um SKU, de acordo com as variações possíveis do seu produto, opte por clicar no botão `+ Criar variações`.
 
-<div class="alert alert-warning">
-  <p>Ao clicar em <code>+ Criar variações</code>, os campos que tiverem sido preenchidos em <b>Informações do SKU</b> serão apagados.</p>
-</div>
+> ⚠️ Ao clicar em `+ Criar variações`, os campos que tiverem sido preenchidos em **Informações do SKU** serão apagados.
 
 O que diferencia os SKUs ou variações do produto entre si são as diversas combinações de especificações possíveis. Exemplo: ao criar o produto _tênis_ e configurar a especificação _cor_ com as opções _rosa_ e _azul_ e a especificação _tamanho_ com as opções _36_ e _37_, os SKUs serão as combinações dessas opções: _tênis rosa 36_, _tênis rosa 37, tênis azul 36_ e _tênis azul 37_.
 
@@ -167,7 +161,7 @@ Depois de realizar esse procedimento, as especificações criadas e suas respect
 
 Além disso, a partir da combinação das opções criadas, a lista de SKUs possíveis é gerada automaticamente e exibida na seção **[Variações](#variacoes)**.
 
-![variacoes PT](//images.ctfassets.net/alneenqid6w5/DkJNVLdFQ6BuBUDPwt2Xj/4c28a11c44f7df5e108eb595b73a98bb/variations_PT_v2.png)
+![variacoes PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Sellers/seller-portal/como-criar-um-produto_4.png)
 
 ## Especificações
 
@@ -175,9 +169,7 @@ As especificações que você criou e suas respectivas opções são listadas ne
 
 Você pode alterar informações de cada especificação clicando no botão <i class="fas fa-pencil-alt"></i> na linha de cada uma.
 
-<div class="alert alert-info">
-  <p>Depois de definir as configurações de especificações do produto, não é possível excluir uma especificação nem adicionar uma nova. Durante a edição, você pode apenas adicionar novos valores para a especificação existente.</p>
-</div>
+> ℹ️ Depois de definir as configurações de especificações do produto, não é possível excluir uma especificação nem adicionar uma nova. Durante a edição, você pode apenas adicionar novos valores para a especificação existente.
 
 Também é possível clicar no botão **+ Adicionar especificações** para incluir mais especificações.
 
@@ -198,20 +190,18 @@ Ao clicar no botão <i class="fas fa-ellipsis-v"></i>, é possível realizar as 
   * **Selecionar imagens:** selecionar as imagens correspondentes à variação. Para selecionar uma imagem, basta clicar nela. Caso queira selecionar todas as imagens de uma vez, você pode utilizar o atalho `Ctrl` + `A` no teclado.
   * **Aplicar a múltiplas variações:** se desejar, você pode aplicar as imagens selecionadas a múltiplas variações. Para isso, clique em `Aplicar a múltiplas variações +` e selecione os valores  das especificações às quais a sua imagem se relaciona. Por exemplo: se a imagem é de um tênis bege, aqui você deve selecionar a opção `bege` da especificação `cor`. Com essa configuração, a imagem será aplicada a todas as variações cuja especificação `cor` tem o valor `bege`, independentemente de outras especificações configuradas, como `tamanho`. A imagem abaixo ilustra esse fluxo de configuração.
 
-![variações-PT](https://images.contentful.com/alneenqid6w5/33nhm0Ai4UGwkDicUCk4ew/455b033b84018a2a261735c4afeefc77/image2.gif)
+![variações-PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Sellers/seller-portal/como-criar-um-produto_5.gif)
 
   * **Adicionar imagens:** neste painel, também é possível fazer upload de novas imagens, clicando no botão `Adicionar imagens` ou soltando arquivos de imagem no espaço pontilhado.
 * **Desativar:** desativar a variação na sua loja. 
 
-<div class="alert alert-warning">
-<p>Caso você adicione especificações após configurar as variações, todas as variações serão recalculadas e terão seus campos redefinidos.</p>
-</div>
+> ⚠️ Caso você adicione especificações após configurar as variações, todas as variações serão recalculadas e terão seus campos redefinidos.
 
 ### Edição avançada
 
 O painel de edição avançada de variações, ilustrado abaixo, possibilita visualizar e editar todas as informações e imagens relacionadas a cada variação do produto. 
 
-![edição avançada - PT](https://images.contentful.com/alneenqid6w5/4YLX9IfwOBnFLcZF2vme0x/3b5234624d85e3ad048f797546de6fe2/image11.png)
+![edição avançada - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Sellers/seller-portal/como-criar-um-produto_6.png)
 
 Na seção **Variações**, do lado esquerdo do painel, você encontra a lista de variações do seu produto. Para editar uma variação específica, é necessário clicar nela.
 
@@ -222,7 +212,7 @@ Para editar uma grande quantidade de variações de uma única vez, é possível
 
 1. Clique no botão `Edição em massa` para abrir a planilha de edição de variações.
 2. Para editar uma informação da planilha, clique no campo que deseja alterar.
-![edicao-massa-SKU-PT](https://images.contentful.com/alneenqid6w5/6WRJU5vCWJKjH0ULhdbCdV/8d5d9d8762ecb143b6d0cd3dbf9b693c/image.png)
+![edicao-massa-SKU-PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Sellers/seller-portal/como-criar-um-produto_7.png)
 
 Na planilha é possível editar as seguintes informações:
 - **Ativo:** se a variação está ativa ou não.
@@ -238,7 +228,7 @@ Na planilha é possível editar as seguintes informações:
 Para filtrar as colunas exibidas na planilha, clique em `Filtrar colunas` e selecione as colunas que deseja ocultar.
 
 Você pode replicar a informação de uma célula para outras linhas e colunas. Para isso, clique no quadrado azul do canto inferior direito da célula e arraste para as células em que deseja replicar automaticamente o valor, como mostra a imagem abaixo.
-![Formatacao-celula-PT](https://images.contentful.com/alneenqid6w5/7cFtECFGcmmDTQ6Oy3qGTg/9e45959c7e3a92cf8df1b98777a394c2/Formatacao-celula-PT.gif)
+![Formatacao-celula-PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Sellers/seller-portal/como-criar-um-produto_8.gif)
 3. Após realizar a edição, clique em `Aplicar` para salvar as alterações.
 
 ## SEO
@@ -251,7 +241,7 @@ O preenchimento dos campos desta seção influenciam em como o produto será cla
 
 Ao preencher os campos de SEO, é possível conferir, à direita, a pré-visualização do produto nos resultados do Google. Veja um exemplo de preenchimento na imagem abaixo.
 
-![image9](https://images.contentful.com/alneenqid6w5/134gy2AQA0Fcazfy3ZnqsW/a22a47a4fd90b56a993b9f54f5ecb24a/image9.png)
+![image9](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Sellers/seller-portal/como-criar-um-produto_9.png)
 
 ## Frente de loja
 

@@ -75,7 +75,7 @@ A lista de cotações e carrinhos salvos exibe as seguintes informações:
 
 Os usuários podem clicar em qualquer linha ou nos <i class="fas fa-ellipsis-v" aria-hidden="true"></i> e, em seguida, clique em Detalhes para visualizar e editar os informações de uma cotação, conforme suas permissões.
 
-![Minhas cotações - PT](//images.ctfassets.net/alneenqid6w5/53BQDZh9EBc8OrFTxfO1eD/edc53f41d4d3bb19b3d85a44d9914fa0/Minhas_cota__es.png)
+![Minhas cotações - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/B2B/b2b-quotes/gerenciamento-de-cotacoes-no-b2b_1.png)
 
 ## Criar uma cotação ou salvando um carrinho
 Para criar uma cotação ou carrinho salvo, você precisa ter a [permissão](#permissoes-de-acesso) de [Criar Cotações e Carrinhos](#criar-cotações-e-carrinhos). Após adicionar produtos ao carrinho na loja, use o conteúdo do carrinho para criar um carrinho salvo ou solicitar uma cotação. Siga as instruções abaixo:
@@ -84,47 +84,45 @@ Para criar uma cotação ou carrinho salvo, você precisa ter a [permissão](#pe
    <li>
       Adicione os produtos no carrinho de compras.
       <ul>
-         <li>Clique em <strong>Criar uma Cotação</strong> dentro do carrinho de compras.</li>
+         <li>Clique em **Criar uma Cotação** dentro do carrinho de compras.</li>
       </ul>
    </li>
    <li>
-      Acesse a vitrine da loja, clique em <strong>Olá, {nome do usuário}</strong>. Clique em <strong>Minha Conta</strong>.
+      Acesse a vitrine da loja, clique em **Olá, {nome do usuário}**. Clique em **Minha Conta**.
       <ul>
          <li>Clique em cotações e carrinhos salvos na barra lateral.</li>
       </ul>
    </li>
-   <li>Clique em <strong>Nova Cotação</strong>.</li>
-   <li>Acesse a rota <code>/b2b-quotes/create</code>.</li>
+   <li>Clique em **Nova Cotação**.</li>
+   <li>Acesse a rota `/b2b-quotes/create`.</li>
    <li>Preencha o nome da cotação ou do carrinho salvo.</li>
    <li>
       Certifique-se de que todas as informações na página Criar Cotação estão corretas:
       <ul>
-         <li><strong>Subtotal Original:</strong> subtotal do carrinho de compras antes de quaisquer descontos.</li>
-         <li><strong>Desconto Percentual:</strong> percentual do desconto oferecido por um representante de vendas.</li>
-         <li><strong>Subtotal cotado:</strong> subtotal da cotação, incluindo quaisquer descontos oferecidos por representantes de vendas.</li>
-         <li><strong>Imagem:</strong> imagem do produto selecionado.</li>
-         <li><strong>Código de Ref.:</strong> código de referência do produto selecionado.</li>
-         <li><strong>Nome:</strong> nome do produto.</li>
-         <li><strong>Preço original:</strong> preço original do produto.</li>
-         <li><strong>Preço cotado:</strong> preço do produto incluindo quaisquer descontos oferecidos por representantes de vendas.</li>
-         <li><strong>Quantidade:</strong> quantidade de itens.</li>
-         <li><strong>Total:</strong> valor total considerando o preço cotado e a quantidade de itens.</li>
+         <li>**Subtotal Original:** subtotal do carrinho de compras antes de quaisquer descontos.</li>
+         <li>**Desconto Percentual:** percentual do desconto oferecido por um representante de vendas.</li>
+         <li>**Subtotal cotado:** subtotal da cotação, incluindo quaisquer descontos oferecidos por representantes de vendas.</li>
+         <li>**Imagem:** imagem do produto selecionado.</li>
+         <li>**Código de Ref.:** código de referência do produto selecionado.</li>
+         <li>**Nome:** nome do produto.</li>
+         <li>**Preço original:** preço original do produto.</li>
+         <li>**Preço cotado:** preço do produto incluindo quaisquer descontos oferecidos por representantes de vendas.</li>
+         <li>**Quantidade:** quantidade de itens.</li>
+         <li>**Total:** valor total considerando o preço cotado e a quantidade de itens.</li>
       </ul>
    </li>
-   <li>Escreva uma nota no campo <strong>Adicionar Observação</strong>, se necessário.</li>
+   <li>Escreva uma nota no campo **Adicionar Observação**, se necessário.</li>
 </ol>
-<div class = "alert alert-info">
-   Notas adicionadas aqui serão visíveis como parte do Histórico de Atualizações da cotação ou carrinho salvo e podem ser vistas por vendedores ou outros membros da sua organização e centro de custo. Por exemplo, se um usuário desejar solicitar um desconto específico ao vendedor da loja B2B, ele pode incluir esse pedido como uma nota.
-</div>
+> ℹ️ Notas adicionadas aqui serão visíveis como parte do Histórico de Atualizações da cotação ou carrinho salvo e podem ser vistas por vendedores ou outros membros da sua organização e centro de custo. Por exemplo, se um usuário desejar solicitar um desconto específico ao vendedor da loja B2B, ele pode incluir esse pedido como uma nota.
 <ol start="8">
    <li>
       Clique em uma das seguintes opções:
       <ul>
          <li>
-            <strong>Salvar para depois:</strong> criação de um carrinho salvo. O status do carrinho salvo recém-criado será definido como <strong>Pronta</strong>, o que significa que ele pode ser usado imediatamente para fazer um pedido por qualquer usuário dentro dessa organização ou centro de custo que tenha a <a href="#permissão-de-acesso">permissão</a> de fazer Pedidos de Cotações e Carrinhos.
+            **Salvar para depois:** criação de um carrinho salvo. O status do carrinho salvo recém-criado será definido como **Pronta**, o que significa que ele pode ser usado imediatamente para fazer um pedido por qualquer usuário dentro dessa organização ou centro de custo que tenha a [permissão](#permissão-de-acesso) de fazer Pedidos de Cotações e Carrinhos.
          </li>
          <li>
-            <strong>Salvar cotação:</strong> criação de uma cotação. O status da cotação recém-criada será definido como <strong>Pendente</strong>, o que significa que ela precisará ser revisada e ajustada por um vendedor antes que quaisquer descontos especiais possam ser aplicados.
+            **Salvar cotação:** criação de uma cotação. O status da cotação recém-criada será definido como **Pendente**, o que significa que ela precisará ser revisada e ajustada por um vendedor antes que quaisquer descontos especiais possam ser aplicados.
          </li>
       </ul>
    </li>
@@ -132,7 +130,7 @@ Para criar uma cotação ou carrinho salvo, você precisa ter a [permissão](#pe
 
 Uma cotação é essencialmente um carrinho salvo, com as quantidades e preços originais dos itens do carrinho de compras do usuário.
 
-![Crie uma cotação - PT](//images.ctfassets.net/alneenqid6w5/sIVQqxw1NtZLbqtI3K4we/ed751df8db50d8cdfdf2a398800a4821/Crie_uma_cota__o.png)
+![Crie uma cotação - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/B2B/b2b-quotes/gerenciamento-de-cotacoes-no-b2b_2.png)
 
 ## Detalhes da cotação
 A página de Detalhes da Cotação exibe todas as informações sobre uma cotação ou carrinho salvo, além das ações disponíveis conforme o status e as [permissões do usuário](#permissoes-de-acesso). Para acessar esta página, vá em Minha Conta > Cotações e Carrinhos Salvos.
@@ -155,7 +153,7 @@ Nesta página, você verá as seguintes informações:
 - **Histórico de Atualizações:** inclui um histórico de todos os eventos relacionados à cotação, como sua criação e descontos oferecidos, incluindo notas, se houver.
 - **Adicionar observação:** campo opcional para escrever comentários ou notas. Notas adicionadas aqui serão visíveis como parte do Histórico de Atualizações da cotação ou carrinho salvo. Por exemplo, se um usuário desejar solicitar um desconto específico ao seu vendedor, ele pode incluir esse pedido como uma nota.
 
-![Detalhes da cotação - PT](//images.ctfassets.net/alneenqid6w5/5XLea07XtuCRfGJyvX819I/8285290b14999ec2d42790e54088319d/Detalhes_da_cota__o.png)
+![Detalhes da cotação - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/B2B/b2b-quotes/gerenciamento-de-cotacoes-no-b2b_3.png)
 
 ## Editar uma cotação
 Usuários com [permissões](#permissoes-de-acesso) de edição, geralmente associados a papéis de Vendas ou Administrador da Loja, podem editar cotações na página de Detalhes da Cotação da seguinte forma:
@@ -180,9 +178,7 @@ Usuários com [permissão](#permissoes-de-acesso) para fazer **Pedidos** a parti
 
 Para usar a cotação, clique em `Usar Cotação` na página de detalhes da cotação. Você será redirecionado para a finalização da compra, com o conteúdo da cotação ou do carrinho salvo adicionado ao seu carrinho atual. Qualquer item que estivesse anteriormente no seu carrinho será removido.
 
-<div class="alert alert-warning">
-Se o aplicativo de Configurações de <a href="https://help.vtex.com/pt/tutorial/configuracoes-de-checkout-no-b2b--u7wG1SjmeCqXCSF2UsVok">Checkout B2B</a> estiver instalado, o checkout ficará bloqueado até que você realize o pedido. Isso significa que você não poderá alterar as quantidades dos produtos nem adicionar ou remover novos produtos. Caso não haja itens suficientes em estoque para atender à quantidade especificada na cotação ou no carrinho salvo, o sistema ajustará automaticamente a quantidade. Se um produto não estiver disponível, o checkout permitirá que você o remova do carrinho.
-</div>
+> ⚠️ Se o aplicativo de Configurações de [Checkout B2B](https://help.vtex.com/pt/tutorial/configuracoes-de-checkout-no-b2b--u7wG1SjmeCqXCSF2UsVok) estiver instalado, o checkout ficará bloqueado até que você realize o pedido. Isso significa que você não poderá alterar as quantidades dos produtos nem adicionar ou remover novos produtos. Caso não haja itens suficientes em estoque para atender à quantidade especificada na cotação ou no carrinho salvo, o sistema ajustará automaticamente a quantidade. Se um produto não estiver disponível, o checkout permitirá que você o remova do carrinho.
 
 Após realizar o pedido, o status da cotação ou do carrinho salvo mudará automaticamente para **Realizado**, impedindo seu uso posterior.
 

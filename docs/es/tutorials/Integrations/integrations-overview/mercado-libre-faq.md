@@ -27,9 +27,7 @@ Existen tres formas de enviar a Mercado Libre la descripción de un producto:
 - Crear una especificación de producto
 - Crear una plantilla en el Centro de mensajes (opcional)
 
-<div class = "alert alert-info">
-Consulta el artículo de Mercado Libre <a href="https://www.mercadolibre.com.ar/ayuda/completar_datos_productos_3147#:~:text=Ingres%C3%A1%20desde%20Modificar%2C%20en%20el%20listado%20de%20publicaciones.&text=Ahora%20bien%2C%20si%20ten%C3%A9s%20muchas,las%20publicaciones%20ordenadas%20por%20categor%C3%ADa.">“Cómo describir tus productos”</a> para obtener sugerencias sobre cómo describir tus productos.
-</div>
+> ℹ️ Consulta el artículo de Mercado Libre [“Cómo describir tus productos”](https://www.mercadolibre.com.ar/ayuda/completar_datos_productos_3147#:~:text=Ingres%C3%A1%20desde%20Modificar%2C%20en%20el%20listado%20de%20publicaciones.&text=Ahora%20bien%2C%20si%20ten%C3%A9s%20muchas,las%20publicaciones%20ordenadas%20por%20categor%C3%ADa.) para obtener sugerencias sobre cómo describir tus productos.
 
 #### Rellenar el campo Descripción de producto
 
@@ -95,7 +93,7 @@ Al registrar un producto, es necesario establecer una cantidad mínima de stock 
 
 La categoría en cuestión exige el mapeo de marca y modelo. Esta información debe estar presente en la plantilla de mapeo. Formato de ejemplo:
 
-![mercadolivre faq erro](//images.ctfassets.net/alneenqid6w5/0ohB2SiPHNmQMufVCfyou/21f9472e17fb15af9b910756ab6d0c89/mercadolivre_faq_erro.JPG)
+![mercadolivre faq erro](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Integrations/integrations-overview/mercado-libre-faq_1.JPG)
 
 ## ¿Por qué mi anuncio está desactivado en Mercado Libre?
 
@@ -117,7 +115,7 @@ Por regla de Mercado Libre, no se puede reenviar información de los productos l
 
 Si el producto aún no se vendió, podrás hacer modificaciones. Si la modificación es en el valor de la variación/atributo, el cambio se debe hacer en la [página de mapeo](https://help.vtex.com/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/5XNeiye4rS4oao2MueSUeA). Si la modificación es en el valor de la especificación del producto, consulta el artículo [Registrar especificaciones de producto](https://help.vtex.com/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/4fcdmJzQ6QYA9zWf3bLWin).
 
-<div class="alert alert-warning">Luego de eliminar un producto, no es posible recuperar la relevancia del anuncio.</div>
+> ⚠️ Luego de eliminar un producto, no es posible recuperar la relevancia del anuncio.
 
 ## ¿Por qué mi producto fue categorizado equivocadamente en Mercado Libre?
 
@@ -135,12 +133,12 @@ Sin embargo, estos atributos son bastante claros (Color principal, Color secunda
 
 Si alguno de estos atributos se completa de forma incorrecta (por ejemplo, si se asignó un código relativo a Talla de cinturón para un zapato), Integraciones va a mostrar un error con el siguiente formato:
 
-![mercadolivre faq erro2](//images.ctfassets.net/alneenqid6w5/2vUouOJPTK2ual9FZMfOFS/5e3d929a0cd2523663b9370745dce783/mercadolivre_faq_erro2.JPG)
+![mercadolivre faq erro2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Integrations/integrations-overview/mercado-libre-faq_2.JPG)
 
 En este caso, tenemos dos ejemplos de errores en el mismo mensaje.
 El primero de estos indica que el atributo cuyo código comienza con el número `113000` es necesario para la categoría escogida y no fue ingresado en la plantilla de mapeo. Vea la plantilla a continuación:
 
-![mercadolivre faq erro3](//images.ctfassets.net/alneenqid6w5/2YAWKiw4kIJc41xfNm1sdw/6345af3383c6acdaea4813c42274248b/mercadolivre_faq_erro3.JPG)
+![mercadolivre faq erro3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Integrations/integrations-overview/mercado-libre-faq_3.JPG)
 
 El segundo error muestra que el atributo cuyo código empieza con el número `63000`, ingresado en la última columna de la plantilla anterior, es inválido para la categoría escogida.
 
@@ -185,7 +183,7 @@ Existe el elemento principal del anuncio y este contiene las variaciones (que so
 
 Cada categoría tiene su propia especificación de cuántas imágenes pueden ser añadidas, en la categoría MLA3697 solo se permite 12 imágenes para este elemento principal. Vea en el enlace las condiciones de esta [categoría](https://api.mercadolibre.com/categories/MLA3697)
 
-![mercadolivre faq erro4](//images.ctfassets.net/alneenqid6w5/5fz7U4ytVKkijIWqof3XGu/b7748b6c1c14bbf87b1f6bb009d58c5d/mercadolivre_faq_erro4.JPG)
+![mercadolivre faq erro4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Integrations/integrations-overview/mercado-libre-faq_4.JPG)
 
 `SKU no integrado, pues el mismo no posee descripción`
 
@@ -219,7 +217,7 @@ Dicho esto, el primer paso es acceder al registro de esta integración:
 1. Acceda al módulo __Marketplace__
 2. Haga clic en __Integraciones__ 
 3. Busque el __panel__ de Mercado Libre
-4. Haga clic en el __engranaje__ <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/3GKATZh3AUzyZ2LzqvXZSg/f1db9ae88c6bcf0ed632df42133213d4/gear.png" />
+4. Haga clic en el __engranaje__ <img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Integrations/integrations-overview/mercado-libre-faq_5.png" />
 5. Haga clic en __Editar configuración__
 
 A partir de ahí, tenemos que rehacer el proceso de integración.

@@ -23,17 +23,11 @@ Para regionalizar los precios y la disponibilidad de SKU, debe:
 2. [Sellers White Label](/es/faq/que-son-cuenta-franquicia-y-seller-white-label) realicen entregas de pedidos hechos en su tienda para determinados rangos de Códigos Postales.
 3. La sesión del usuario navegando por la tienda contiene información sobre su código postal y país de origen.
 
-<div class="alert alert-info">
-Para utilizar esta función, la tienda debe tener el sistema (<a href="https://help.vtex.com/pt/tutorial/vtex-session-visao-geral-do-sistema-de-sessoes--6C4Edou6bYqqEAOCAg2MQQ#">VTEX Session</a>). VTEX Session es nativo de todas las tiendas y usted puede confirmar su instalación por la presencia de las cookies <code>vtex_session<code> y <code>vtex_segment<code> al navegar por la tienda.
-</div>
+> ℹ️ Para utilizar esta función, la tienda debe tener el sistema ([VTEX Session](https://help.vtex.com/pt/tutorial/vtex-session-visao-geral-do-sistema-de-sessoes--6C4Edou6bYqqEAOCAg2MQQ#)). VTEX Session es nativo de todas las tiendas y usted puede confirmar su instalación por la presencia de las cookies <code>vtex_session<code> y <code>vtex_segment<code> al navegar por la tienda.
 
-<div class="alert alert-warning">
-Para <a href="https://help.vtex.com/es/tutorial/multilevel-omnichannel-inventory--7M1xyCZWUyCB7PcjNtOyw4#">Multilevel Omnichannel Inventory</a>, un marketplace (nivel 1) no puede configurar la exhibición de los precios y la disponibilidad de los productos para los sellers white label (nivel 3) con la funcionalidad de regionalización.
-</div>
+> ⚠️ Para [Multilevel Omnichannel Inventory](https://help.vtex.com/es/tutorial/multilevel-omnichannel-inventory--7M1xyCZWUyCB7PcjNtOyw4#), un marketplace (nivel 1) no puede configurar la exhibición de los precios y la disponibilidad de los productos para los sellers white label (nivel 3) con la funcionalidad de regionalización.
 
-<div class = "alert alert-info">
-La funcionalidad <b>Region</b> funciona tanto para las tiendas Portal CMS Legado como para las tiendas desarrolladas con <a href="https://help.vtex.com/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/6OCY6S9tqBXPD5mgpbBInC">VTEX IO</a>, pero la funcionalidad <a href="https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG">VTEX Intelligent Search</a> solo es válida para las tiendas VTEX IO. Como resultado, las tiendas con Portal CMS Legado tienen una limitación en la indexación de datos regionalizados y no es posible ordenar correctamente los sellers que atienden la ventana de un RegionId en función de la disponibilidad de ítems.
-</div>
+> ℹ️ La funcionalidad **Region** funciona tanto para las tiendas Portal CMS Legado como para las tiendas desarrolladas con [VTEX IO](https://help.vtex.com/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/6OCY6S9tqBXPD5mgpbBInC), pero la funcionalidad [VTEX Intelligent Search](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG) solo es válida para las tiendas VTEX IO. Como resultado, las tiendas con Portal CMS Legado tienen una limitación en la indexación de datos regionalizados y no es posible ordenar correctamente los sellers que atienden la ventana de un RegionId en función de la disponibilidad de ítems.
 
 ## Configurar la entrega en la Cuenta Franquicia/Seller White Label
 
@@ -48,6 +42,4 @@ Para configurar la entrega, siga los pasos a continuación:
 6. Registre un [inventario](https://help.vtex.com/es/tutorial/gerenciar-estoque--tutorials_137#).
 7. [Agregue stock a los SKUs](https://help.vtex.com/es/tutorial/managing-stock-items) que se entregarán por la ruta configurada.
 
-<div class="alert alert-info">
-Para que un SKU aparezca como disponible para la venta, es necesario que tenga stock y precio asociados a este. 
-</div>
+> ℹ️ Para que un SKU aparezca como disponible para la venta, es necesario que tenga stock y precio asociados a este.

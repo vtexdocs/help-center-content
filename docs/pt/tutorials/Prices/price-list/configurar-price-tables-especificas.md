@@ -21,9 +21,7 @@ Diferentemente das políticas comerciais, que também podem ser usadas para segm
 
 Por exemplo, digamos que você queira que os clientes de Minas Gerais vejam um preço diferente do que veem os clientes do Rio de Janeiro. Neste caso, você pode criar duas tabelas de preço diferentes, e associar a primeira aos clientes de Minas Gerais, e a segunda aos do Rio de Janeiro.
 
-<div class="alert alert-info">
-<p>Preços fixos ou regras de preço podem ser definidos para modificar o preço de um SKU em uma tabela de preço.</p>
-</div>
+> ℹ️ Preços fixos ou regras de preço podem ser definidos para modificar o preço de um SKU em uma tabela de preço.
 
 Isto permite ao lojista mais liberdade para lidar com informações contextuais de seus clientes.
 
@@ -63,10 +61,7 @@ Outra maneira de usar tabelas de preço é declarando-as diretamente no formulá
 10. Na linha da entidade alterada, clique no ícone disquete para publicar.
 11. Então, na mesma linha da entidade editada, clique no ícone setas para reindexá-la.
 
-<div class="alert alert-info">
-<p>Cada cliente pode ter no máximo 5 tabelas de preço atreladas a ele.
-Quando o cliente tiver mais de uma tabela de preço atrelada, o sistema irá seguir a ordem das tabelas de preço cadastradas para determinar o preço de cada SKU. Se o SKU não possui preço configurado na primeira tabela de preço, o sistema vai buscar na segunda em diante. Caso não haja preço configurado em nenhuma tabela atrelada ao cliente, o preço aplicado será o preço base.</p>
-</div>
+> ℹ️ Cada cliente pode ter no máximo 5 tabelas de preço atreladas a ele. Quando o cliente tiver mais de uma tabela de preço atrelada, o sistema irá seguir a ordem das tabelas de preço cadastradas para determinar o preço de cada SKU. Se o SKU não possui preço configurado na primeira tabela de preço, o sistema vai buscar na segunda em diante. Caso não haja preço configurado em nenhuma tabela atrelada ao cliente, o preço aplicado será o preço base.
 
 Agora sua entidade de __Clientes__ tem um atributo `priceTables`, que pode ser populado diretamente na UI do Master Data ou por API.
 
@@ -78,19 +73,17 @@ No menu principal do Admin, acesse __Preços__ e escolha a opção __Lista de pr
 
 No filtro da busca, insira os nomes das tabelas criadas no __Master Data__.
 
-![Filtros](//images.ctfassets.net/alneenqid6w5/4sQMk2XLRyoQvFLNrGI0A7/623539da9a99dcfae6b6bf2a8ce1e6b0/Filtros_-_PT.png)
+![Filtros](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Prices/price-list/configurar-price-tables-especificas_1.png)
 
 As tabelas de preço são mostradas como colunas da lista de preços, assim como as políticas comerciais.
 
-![Lista de preços - PT](//images.ctfassets.net/alneenqid6w5/16m3JGeeDwzioInWVBxbpl/5cdc7aed4d5feb7687f5103fe6a8746c/Lista_de_pre_os_-_PT.png)
+![Lista de preços - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Prices/price-list/configurar-price-tables-especificas_2.png)
 
 Para atualizar o preço fixo em uma tabela específica, clique na coluna dessa tabela e depois em __Definir preços fixos__. 
 
 Para inserir e atualizar os preços de uma tabela específica por API, confira a [documentação da API de Pricing](https://developers.vtex.com/reference/prices-and-fixed-prices#createeditfixedpricesonapricetableortradepolicy).
 
-<div class="alert alert-info">
-<p>A tabela de preços tem prioridade sobre o preço da Política Comercial. Isso significa que, se determinada tabela de preços se aplicar ao contexto de um usuário, o preço definido nela será utilizado, mesmo que esse cliente esteja também no contexto de uma política comercial que defina um preço diferente.</p>
-</div>
+> ℹ️ A tabela de preços tem prioridade sobre o preço da Política Comercial. Isso significa que, se determinada tabela de preços se aplicar ao contexto de um usuário, o preço definido nela será utilizado, mesmo que esse cliente esteja também no contexto de uma política comercial que defina um preço diferente.
 
 ## Como exibir preços diferentes para usuários diferentes
 
@@ -99,11 +92,9 @@ Quando um usuário da sua loja não está logado, os preços mostrados a ele sã
 Mas se o usuário estiver logado, ele verá os preços correspondentes à tabela de preços à qual o email dele estiver associado.
 
 Por exemplo, estes dois clientes estão atrelados a tabelas de preços diferentes:
-![Clients](//images.ctfassets.net/alneenqid6w5/4YanVck2GswcKKEEamO6gs/d1a2bc5603716c485dd000239a49fb41/Clients.png)
+![Clients](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Prices/price-list/configurar-price-tables-especificas_3.png)
 
 Quando o cliente Daniel, que está na tabela Silver, estiver logado na loja, ele verá os preços definidos nessa tabela. A mochila do exemplo acima aparecerá com o valor de R$ 50,00.
 Já o cliente Breno, que está na tabela Gold, verá os preços definidos nessa outra tabela. Para ele a mochila custará R$ 60,50.
 
-<div class="alert alert-warning">
-<p>Lembre-se de que os preços variam de acordo com a sessão. Ou seja, o cliente <strong>precisa</strong> estar autenticado para que haja alteração (seja através de token, senha, Google ou Facebook). Sem a autenticação do usuário, o preço sempre será o padrão. E atenção: o fato de ele inserir o email no processo de checkout não é suficiente, já que nesse processo ele realiza sua identificação, mas não a autenticação.</p>
-</div>
+> ⚠️ Lembre-se de que os preços variam de acordo com a sessão. Ou seja, o cliente **precisa** estar autenticado para que haja alteração (seja através de token, senha, Google ou Facebook). Sem a autenticação do usuário, o preço sempre será o padrão. E atenção: o fato de ele inserir o email no processo de checkout não é suficiente, já que nesse processo ele realiza sua identificação, mas não a autenticação.

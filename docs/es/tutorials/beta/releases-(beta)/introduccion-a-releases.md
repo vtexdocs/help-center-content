@@ -15,15 +15,11 @@ locale: es
 subcategoryId: 3vXj7HrnYK8V5riTOwUuYv
 ---
 
-<div class="alert alert-info">
-  <p>El <strong>Releases</strong>se encuentra en la versión Beta, por lo tanto, estamos trabajando para mejorarlo. Esta funcionalidad es válida únicamente para las tiendas que usan <a href="https://www.faststore.dev/">FastStore</a>.</p>
-</div>
+> ℹ️ El **Releases**se encuentra en la versión Beta, por lo tanto, estamos trabajando para mejorarlo. Esta funcionalidad es válida únicamente para las tiendas que usan [FastStore](https://www.faststore.dev/).
 
 El menú **Releases** te permite gestionar grupos de cambios relacionados para coordinar la planificación, creación, programación y publicación de los cambios de tu tienda. A los cambios o grupos de cambios que **Releases** puede publicar en conjunto se les conoce como releases.
 
-<div class="alert alert-warning">
-  <p>En la etapa Beta, los releases deben estar relacionados al <a href="https://help.vtex.com/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2">CMS</a> porque hay otros módulos de la plataforma VTEX que aún no están incluidos. Para usar el <strong>Releases</strong>, se debe configurar el CMS tal como se describe en <a href="https://www.faststore.dev/how-to-guides/cms/vtex-headless-cms/Installing%20Releases%20on%20VTEX%20Headless%20CMS">Installing Releases on VTEX Headless CMS</a>.</p>
-</div>
+> ⚠️ En la etapa Beta, los releases deben estar relacionados al [CMS](https://help.vtex.com/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2) porque hay otros módulos de la plataforma VTEX que aún no están incluidos. Para usar el **Releases**, se debe configurar el CMS tal como se describe en [Installing Releases on VTEX Headless CMS](https://www.faststore.dev/how-to-guides/cms/vtex-headless-cms/Installing%20Releases%20on%20VTEX%20Headless%20CMS).
 
 ## Calendario
 

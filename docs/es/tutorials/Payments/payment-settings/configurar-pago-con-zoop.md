@@ -30,9 +30,9 @@ Para configurar Zoop, siga los pasos a continuación:
     - __Inmediatamente: Captura Automática Al Pasar El Análisis De Riesgo De Fraude__: la captura se realiza automáticamente inmediatamente después de la autorización del pago y el análisis antifraude. Si desea utilizar esta opción y no hay que realizar un análisis antifraude, el sistema seguirá el mismo flujo que la opción __Inmediatamente: Captura Automática Al Autorizar El Pagamento__.
     - __Desactivado: No Capturado Automáticamente__: la captura se produce sólo cuando se factura el pedido. Si desea utilizar esta opción, es importante prestar atención al momento de la facturación, ya que si el pedido se factura por un período mayor al acordado con el proveedor para capturar el pago, la transacción puede cancelarse.
 
-<ui>  6. En <b>¿Activar split y enviar receptores?</b>, seleccione si los pagos divididos estarán disponibles para el marketplace y sellers.</ui>
+<ui>  6. En **¿Activar split y enviar receptores?**, seleccione si los pagos divididos estarán disponibles para el marketplace y sellers.</ui>
 
-<ui>  7. Haga clic en <b>Guardar.</b></ui>
+<ui>  7. Haga clic en **Guardar.**</ui>
 
 Para configurar las condiciones de pago, acceda a [Configurar condiciones de pago](https://help.vtex.com/es/tutorial/condiciones-de-pago#).
 

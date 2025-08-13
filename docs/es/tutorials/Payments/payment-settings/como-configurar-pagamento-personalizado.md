@@ -33,6 +33,4 @@ Permite que usted utilice una tarjeta de crédito de la Tienda con una de las si
 
 Después de esta configuración, será necesaria la creación de la [Condición de Pago](https://help.vtex.com/es/tutorial/condiciones-de-pago--tutorials).
 
-<div class="alert alert-warning">
-Cuando señale para autorizar automáticamente, el pedido sigue directamente para el status “Preparando Entrega”, o sea, no queda parado en el status “Pago pendiente” aguardando la aprobación, como ocurre caso la flag no esté señalada.
-  </div>
+> ⚠️ Cuando señale para autorizar automáticamente, el pedido sigue directamente para el status “Preparando Entrega”, o sea, no queda parado en el status “Pago pendiente” aguardando la aprobación, como ocurre caso la flag no esté señalada.

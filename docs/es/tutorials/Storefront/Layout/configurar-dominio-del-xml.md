@@ -26,6 +26,6 @@ Para configurar este dominio, seguir los pasos siguientes:
 5.  Adicionar o actualizar una clave con el nombre **EnderecoSite**.
 6.  El nombre de la clave debe ser el hostname (dominio completo) de tu sitio, por ejemplo, www.misite.com.
 
-![](https://images.contentful.com/alneenqid6w5/2Pi5Pj2hRuOuUsmoqQc260/6604151e3c2f5de3e5a90af035037741/2017-09-27_194912.jpg)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Storefront/Layout/configurar-dominio-del-xml_1.jpg)
 
 __Observación:__ de no ser posible, hacer clic en el botón **Add**, para adicionar una nueva clave, antes hacer clic en el botón verde de refresh, en la parte inferior de la tabla. Tras hacerlo, el Add será habilitado.

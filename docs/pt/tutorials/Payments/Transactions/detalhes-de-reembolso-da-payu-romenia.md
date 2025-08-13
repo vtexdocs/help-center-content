@@ -16,7 +16,7 @@ subcategoryId: 3Gdgj9qfu8mO0c0S4Ukmsu
 ---
 
 <div class="alerta alert-warning">
-Este artigo se aplica apenas a pagamentos realizados na <b>Romênia</b>.
+Este artigo se aplica apenas a pagamentos realizados na **Romênia**.
 </div>
 
 Cancelamentos de pagamento (que apenas podem ser feito para o valor total) ou reembolsos (totais ou parciais) não são processados imediatamente, mas sim com um timeout.
@@ -38,7 +38,7 @@ Se o botão Excluir não estiver ativo e o tempo limite não tiver expirado, voc
 
 Se o pedido de reembolso ou de reembolso já tiver sido enviado pelo sistema ao banco emissor, não poderemos mais excluir / interromper o pedido de forma alguma.
 
-![PayU Romania](//images.ctfassets.net/alneenqid6w5/eR53ZeK0Le8UMeQQs2osq/03a5bad4e5f9269dc12159b28fd27dd8/PayU_Romania.png)
+![PayU Romania](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Payments/Transactions/detalhes-de-reembolso-da-payu-romenia_1.png)
 
 Depois que a PayU enviar o pedido de reembolso ou de reembolso ao banco emissor, o status do pedido será atualizado no PayP cPanel como "REVERSE" (para vazios) ou "REEMBOLSO". E a VTEX receberá um webhook do PaymentsOS, portanto, o status do pedido também pode ser atualizado na plataforma (no Pagamentos e, consequentemente, refletido no OMS).
 

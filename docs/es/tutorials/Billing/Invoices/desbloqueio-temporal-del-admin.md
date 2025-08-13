@@ -28,6 +28,4 @@ Para realizar este procedimiento debes tener uno de los siguientes roles de usua
 2. Haz clic en **Instrucciones para desbloqueo temporal.**
 3. Haz clic en **Desbloquear durante 48 horas.**
 
-<div class = "alert alert-info">
-El desbloqueo es temporal y tiene una vigencia de 48 horas laborables. Aprovecha este periodo para regularizar tus facturas y evitar futuros bloqueos.
-</div>
+> ℹ️ El desbloqueo es temporal y tiene una vigencia de 48 horas laborables. Aprovecha este periodo para regularizar tus facturas y evitar futuros bloqueos.

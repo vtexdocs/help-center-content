@@ -15,9 +15,7 @@ locale: pt
 subcategoryId: 3vXj7HrnYK8V5riTOwUuYv
 ---
 
-<div class="alert alert-info">
-  <p>O <strong>Lançamentos</strong> está em fase beta, o que significa que estamos trabalhando para aprimorá-lo. Esta funcionalidade é válida somente para lojas que usam <a href="https://www.faststore.dev/">FastStore</a>.</p>
-</div>
+> ℹ️ O **Lançamentos** está em fase beta, o que significa que estamos trabalhando para aprimorá-lo. Esta funcionalidade é válida somente para lojas que usam [FastStore](https://www.faststore.dev/).
 
 O gerenciamento de uma operação de ecommerce requer que o lojista faça uma série de atualizações na loja e muitas vezes elas estão relacionadas entre si. Um exemplo é a realização de uma campanha publicitária, em que diferentes elementos do storefront precisam ser configurados.
 
@@ -30,9 +28,7 @@ Um lançamento significa uma modificação ou um agrupamento de modificações q
 * Maior controle ao testar e revisar modificações antes de sua publicação.
 * Facilidade em agendar ou excluir grupos de modificações.
 
-<div class="alert alert-warning">
-  <p>Na fase beta, os lançamentos precisam estar relacionados ao <a href="https://help.vtex.com/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2">CMS</a>, pois outros módulos da plataforma VTEX ainda não estão inclusos. Para utilizar o <strong>Lançamentos</strong>, é necessário configurar o CMS conforme descrito em <a href="https://www.faststore.dev/how-to-guides/cms/vtex-headless-cms/Installing%20Releases%20on%20VTEX%20Headless%20CMS">Installing Releases on VTEX Headless CMS</a>.</p>
-</div>
+> ⚠️ Na fase beta, os lançamentos precisam estar relacionados ao [CMS](https://help.vtex.com/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2), pois outros módulos da plataforma VTEX ainda não estão inclusos. Para utilizar o **Lançamentos**, é necessário configurar o CMS conforme descrito em [Installing Releases on VTEX Headless CMS](https://www.faststore.dev/how-to-guides/cms/vtex-headless-cms/Installing%20Releases%20on%20VTEX%20Headless%20CMS).
 
 A funcionalidade pode ser acessada pelo menu de navegação do Admin VTEX **Lançamentos**, no qual existem as seguintes páginas:
 

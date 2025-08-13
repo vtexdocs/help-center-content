@@ -15,13 +15,11 @@ locale: es
 subcategoryId: 2t00bBkcAwIkgSCGKsMOwY
 ---
 
-<div class = "alert alert-info">
-Solo puedes acceder a la información de los pedidos creados en los últimos años. Este periodo también se aplica a los pedidos de los clientes a través de <a href="https://help.vtex.com/es/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh">Mi Cuenta</a>.
-</div>
+> ℹ️ Solo puedes acceder a la información de los pedidos creados en los últimos años. Este periodo también se aplica a los pedidos de los clientes a través de [Mi Cuenta](https://help.vtex.com/es/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh).
 
 En el módulo **Pedidos**, la página **Todos los pedidos** permite acceder a todos los pedidos de la tienda y buscar utilizando la barra de búsqueda y filtros según se muestra en la imagen a continuación:
 
-![search_bar_ES](//images.ctfassets.net/alneenqid6w5/1aPXtEWSmO3isVQ5k1GF3z/daa7bf97f15445140cba0433da887aa5/search_bar_ES.png)
+![search_bar_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/orders/all-orders/filtrar-todos-los-pedidos_1.png)
 
 Este artículo explica cómo utilizar estos recursos y se divide en:
 
@@ -37,9 +35,7 @@ Además de buscar pedidos en **Pedidos > Todos los pedidos**, puede buscar pedid
 - Email del cliente
 - Documento del cliente
 
-<div class = "alert alert-info">
-Al aplicar varios filtros a diferentes búsquedas, el total de pedidos que se muestran en la ventana de filtrado puede ser diferente del total que se muestra en la pantalla <b>Todos los pedidos</b>. Esto se debe a una limitación de la plataforma, pero no afecta la validez de los resultados mostrados después del filtrado.
-</div>
+> ℹ️ Al aplicar varios filtros a diferentes búsquedas, el total de pedidos que se muestran en la ventana de filtrado puede ser diferente del total que se muestra en la pantalla **Todos los pedidos**. Esto se debe a una limitación de la plataforma, pero no afecta la validez de los resultados mostrados después del filtrado.
 
 ## Barra de búsqueda
 
@@ -53,9 +49,7 @@ Para realizar una búsqueda en la barra de búsqueda, ingresa el término desead
 
 El [sequence](https://help.vtex.com/es/tutorial/cuidados-ao-definir-a-numeracao-de-pedido--VAKKptfcaOxFxM8gfPobu) es una secuencia de seis dígitos que aparece en el Admin VTEX justo después del ID del pedido. Por ejemplo, en el pedido `1268540501456-01 (501456)`, el ID del pedido es `1268540501456`, el `-01` indica que el cumplimiento será realizado por un seller y el sequence es `501456`.
 
-<div class = "alert alert-info">
-Además de los criterios enumerados anteriormente, es posible activar otros criterios de búsqueda, como se verá en la sección <a href="https://help.vtex.com/es/tutorial/filtrar-todos-pedidos--tutorials_192#filtros-otros">Otros</a>.
-</div>
+> ℹ️ Además de los criterios enumerados anteriormente, es posible activar otros criterios de búsqueda, como se verá en la sección [Otros](https://help.vtex.com/es/tutorial/filtrar-todos-pedidos--tutorials_192#filtros-otros).
 
 De forma predeterminada, la página **Todos los pedidos** se muestra con el filtro de pedidos creados **Hoy** activado. Para buscar otras fechas, utiliza los filtros descritos en [Filtros: Fechas](#filtros-fechas) y [Creado](#creado).
 
@@ -67,11 +61,9 @@ La búsqueda en todos los pedidos devuelve todos los pedidos relacionados con el
 
 Para buscar en todos los pedidos, ingresa el término deseado en la casilla de búsqueda. Se mostrará la opción <i class="fas fa-toggle-on"></i> `Remover límite de fechas`. Solo hay que activarla para iniciar la búsqueda.
 
-![search_bar_without_time_limit_ES](//images.ctfassets.net/alneenqid6w5/2ii9VFh5uRpG4Ad0nwIIN0/3e96ddad7e6e25df9bfc57510655390b/search_bar_without_time_limit_ES.png)
+![search_bar_without_time_limit_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/orders/all-orders/filtrar-todos-los-pedidos_2.png)
 
-<div class="alert alert-danger">
-La búsqueda en todos los pedidos no se puede asociar a otros filtros. Es decir, al remover el límite de fechas de búsqueda, cualquier filtro activo pasa a estar inactivo. Si se remueve el término de búsqueda o se desactiva el botón de alternancia <i class="fas fa-toggle-off"></i>, los filtros configurados anteriormente se vuelven a activar.
-</div>
+> ❗ La búsqueda en todos los pedidos no se puede asociar a otros filtros. Es decir, al remover el límite de fechas de búsqueda, cualquier filtro activo pasa a estar inactivo. Si se remueve el término de búsqueda o se desactiva el botón de alternancia <i class="fas fa-toggle-off"></i>, los filtros configurados anteriormente se vuelven a activar.
 
 ### Buscar asociando filtros
 
@@ -85,7 +77,7 @@ Realizar una búsqueda con filtros permite combinar diferentes filtros que se de
 
 La página **Pedidos > Todos los pedidos** tiene la opción `Filtros` según se muestra en la imagen a continuación:
 
-![search_bar_ES](//images.ctfassets.net/alneenqid6w5/1aPXtEWSmO3isVQ5k1GF3z/daa7bf97f15445140cba0433da887aa5/search_bar_ES.png)
+![search_bar_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/orders/all-orders/filtrar-todos-los-pedidos_3.png)
 
 Al hacer clic en `Filtros`, se muestra una ventana modal que presenta las siguientes opciones:
 
@@ -96,9 +88,7 @@ Al hacer clic en `Filtros`, se muestra una ventana modal que presenta las siguie
 
 Para que se aplique un filtro a la búsqueda, selecciona la opción deseada y haz clic en **Aplicar**. Para remover los filtros aplicados, haz clic en **Limpiar filtros > Aplicar**.
 
-<div class = "alert alert-info">
-De forma predeterminada, la opción <i class="fas fa-toggle-on"></i> <b>Utilizar mi zona horaria: GMT-3</b> aparece activada para todos los filtros. Cuando se desactiva, la referencia de zona horaria cambia a GMT-0 y, si se vuelve a activar, se convierte en la zona horaria utilizada por el navegador del usuario.
-</div>
+> ℹ️ De forma predeterminada, la opción <i class="fas fa-toggle-on"></i> **Utilizar mi zona horaria: GMT-3** aparece activada para todos los filtros. Cuando se desactiva, la referencia de zona horaria cambia a GMT-0 y, si se vuelve a activar, se convierte en la zona horaria utilizada por el navegador del usuario.
 
 Si no hay ninguna coincidencia para la combinación de filtros utilizada, la búsqueda no devuelve ningún pedido en la pantalla.
 
@@ -201,19 +191,17 @@ Para utilizar estos filtros, haz `Filtros` y selecciona **Otros**. Puedes buscar
 
 La página **Pedidos > Todos los pedidos** tiene la opción `Filtrar por status` <i class="fas fa-angle-down"></i> según se muestra en la siguiente imagen:
 
-![search_bar_ES](//images.ctfassets.net/alneenqid6w5/1aPXtEWSmO3isVQ5k1GF3z/daa7bf97f15445140cba0433da887aa5/search_bar_ES.png)
+![search_bar_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/orders/all-orders/filtrar-todos-los-pedidos_4.png)
 
 Al hacer clic en `Filtrar por status` <i class="fas fa-angle-down"></i>, se muestran las opciones de [status de pedidos](https://help.vtex.com/es/tutorial/fluxo-e-status-de-pedidos--tutorials_196) de tu tienda. Por ejemplo, si no hay pedidos cancelados entre todos tus pedidos, esta opción no estará visible.
 
-<div class = "alert alert-info">
-Para más opciones de filtros de status, consulta la sección <a href="https://help.vtex.com/es/tutorial/filtrar-todos-pedidos--tutorials_192#filtros-status">Filtros: Status</a>. Si deseas ver todos los status de pedidos que hay, consulta el artículo <a href="https://help.vtex.com/es/tutorial/fluxo-e-status-de-pedidos--tutorials_196">Flujo y status de pedidos</a>.
-</div>
+> ℹ️ Para más opciones de filtros de status, consulta la sección [Filtros: Status](https://help.vtex.com/es/tutorial/filtrar-todos-pedidos--tutorials_192#filtros-status). Si deseas ver todos los status de pedidos que hay, consulta el artículo [Flujo y status de pedidos](https://help.vtex.com/es/tutorial/fluxo-e-status-de-pedidos--tutorials_196).
 
 ## Creado
 
 La página **Pedidos > Todos los pedidos** tiene la opción `Creado: Hoy` <i class="fas fa-angle-down"></i> según se muestra en la siguiente imagen:
 
-![search_bar_ES](//images.ctfassets.net/alneenqid6w5/1aPXtEWSmO3isVQ5k1GF3z/daa7bf97f15445140cba0433da887aa5/search_bar_ES.png)
+![search_bar_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/orders/all-orders/filtrar-todos-los-pedidos_5.png)
 
 Este filtro tiene la fecha **Hoy** activada como estándar, pero al hacer clic aparecen las siguientes opciones:
 
@@ -223,8 +211,6 @@ Este filtro tiene la fecha **Hoy** activada como estándar, pero al hacer clic a
 - Mes actual
 - Últimos 30 días
 
-<div class = "alert alert-info">
-De forma predeterminada, la opción <i class="fas fa-toggle-on"></i> <b>Utilizar mi zona horaria: GMT-3</b> está activada. Cuando se desactiva, la referencia de zona horaria cambia a GMT-0 y, si se vuelve a activar, se convierte en la zona horaria utilizada por el navegador del usuario.
-</div>
+> ℹ️ De forma predeterminada, la opción <i class="fas fa-toggle-on"></i> **Utilizar mi zona horaria: GMT-3** está activada. Cuando se desactiva, la referencia de zona horaria cambia a GMT-0 y, si se vuelve a activar, se convierte en la zona horaria utilizada por el navegador del usuario.
 
 Para ver más opciones de filtros de fechas y periodos, consulta la sección [Filtros: Fechas](#filtros-fechas).

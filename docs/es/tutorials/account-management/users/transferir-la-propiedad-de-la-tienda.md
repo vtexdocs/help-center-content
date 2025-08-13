@@ -60,9 +60,7 @@ El usuario titular es responsable de importantes acciones de mantenimiento y aut
 
 Todos los eventos relacionados con la transferencia de propiedad de la cuenta se registran en el registro de actividades con la fecha en que se produjeron y el usuario asociado al evento.
 
-<div class = "alert alert-info">
-<p>También puedes auditar diversas acciones de los usuarios en tu cuenta con el módulo <a href="https://help.vtex.com/es/tutorial/how-to-find-events-in-audit--5RXf9WJ5YLFBcS8q8KcxTA">Audit</a>.</p>
-</div>
+> ℹ️ También puedes auditar diversas acciones de los usuarios en tu cuenta con el módulo [Audit](https://help.vtex.com/es/tutorial/how-to-find-events-in-audit--5RXf9WJ5YLFBcS8q8KcxTA).
 
 ## Circunstancias excepcionales
 

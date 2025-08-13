@@ -17,11 +17,9 @@ subcategoryId: 3VNOhxDrvYxJThhuJClrYZ
 
 VTEX DO es un gestor de tareas creadas automáticamente por el Admin VTEX para que el equipo de _ecommerce_ de tu tienda las realice manualmente. Para acceder a VTEX DO, en el menú del Admin VTEX, ve a **Pedidos > [Todos los pedidos](https://help.vtex.com/es/tutorial/lista-de-pedidos--2QTduKHAJMFIZ3BAsi6Pi)** y haz clic en el ícono de bandeja de entrada, ubicado en la esquina inferior derecha de la página. Al hacer clic en el ícono, se abrirá un modal con la lista de tareas relacionadas con los pedidos de la tienda.
 
-![VTEX Do overview ES](//images.ctfassets.net/alneenqid6w5/4FzyUh5uqhzXKfbw9MJXsQ/220b438c30b05a78d3932e097fefc42b/VTEX_Do_overview_ES.gif)
+![VTEX Do overview ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/orders/orders-overview/vtex-do-interface_1.gif)
 
-<div class = "alert alert-info">
-Solo los usuarios con el perfil de acceso <a href = "https://help.vtex.com/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#oms-full-access">OMS - Full Access</a> pueden realizar tareas a través de VTEX DO.
-</div>
+> ℹ️ Solo los usuarios con el perfil de acceso <a href = "https://help.vtex.com/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#oms-full-access">OMS - Full Access</a> pueden realizar tareas a través de VTEX DO.
 
 Las tareas aparecen en dos pestañas:
 - **Todas:** todas las tareas vinculadas a los pedidos de la cuenta de la tienda.
@@ -64,11 +62,11 @@ Las tareas gestionadas a través de VTEX DO pueden incluir mensajes de todos los
 
 <table>
   <tr>
-   <td><strong>Mensaje</strong>
+   <td>**Mensaje**
    </td>
-   <td><strong>Descripción</strong>
+   <td>**Descripción**
    </td>
-   <td><strong>Acción</strong>
+   <td>**Acción**
    </td>
   </tr>
   <tr>
@@ -76,15 +74,15 @@ Las tareas gestionadas a través de VTEX DO pueden incluir mensajes de todos los
    </td>
    <td>Se creó una solicitud de reembolso de pago.
    </td>
-   <td>Accede a los <strong>Detalles de la tarea </strong>> Haz clic en <strong>Ver detalles</strong> > Autoriza o cancela el reembolso del pago en la página <strong>Detalles de la transacción</strong>.
+   <td>Accede a los **Detalles de la tarea **> Haz clic en **Ver detalles** > Autoriza o cancela el reembolso del pago en la página **Detalles de la transacción**.
    </td>
   </tr>
   <tr>
    <td>Autorización de pedido alterado manualmente
    </td>
-   <td>El pedido se generó con un valor fuera de la<a href="https://help.vtex.com/pt/tutorial/regra-de-divergencia-de-valores--6RlFLhD1rIRRshl83KnCjW"> Regla de divergencia de precios</a> configurada.
+   <td>El pedido se generó con un valor fuera de la[ Regla de divergencia de precios](https://help.vtex.com/pt/tutorial/regra-de-divergencia-de-valores--6RlFLhD1rIRRshl83KnCjW) configurada.
    </td>
-   <td>Accede a los <strong>Detalles de la tarea </strong>> Haz clic en <strong>Ver detalles </strong>> Autoriza o cancela el pedido en la página <strong>Detalles del pedido</strong>.
+   <td>Accede a los **Detalles de la tarea **> Haz clic en **Ver detalles **> Autoriza o cancela el pedido en la página **Detalles del pedido**.
    </td>
   </tr>
   <tr>
@@ -92,30 +90,30 @@ Las tareas gestionadas a través de VTEX DO pueden incluir mensajes de todos los
    </td>
    <td>El comprador solicitó la cancelación de su pedido. Sugerimos que el centro de atención al cliente de tu tienda se ponga en contacto con la persona para ofrecerle ayuda antes de cancelar el pedido.
    </td>
-   <td>Accede a los <strong>Detalles de la tarea </strong>> Haz clic en <strong>Ver detalles </strong>> Autoriza o cancela el pedido en la página <strong>Detalles del pedido</strong>.
+   <td>Accede a los **Detalles de la tarea **> Haz clic en **Ver detalles **> Autoriza o cancela el pedido en la página **Detalles del pedido**.
    </td>
   </tr>
   <tr>
    <td>Ocurrió un problema en la generación del pedido recurrente
    </td>
-   <td>Los pedidos de<a href="https://help.vtex.com/pt/tutorial/como-configurar-assinatura-v2--1FA9dfE7vJqxBna9Nft5Sj"> suscripción</a> generalmente no se autorizan por problemas con la tarjeta de crédito del comprador. Sugerimos que el centro de atención al cliente de tu tienda se ponga en contacto con la persona para ofrecerle ayuda.
+   <td>Los pedidos de[ suscripción](https://help.vtex.com/pt/tutorial/como-configurar-assinatura-v2--1FA9dfE7vJqxBna9Nft5Sj) generalmente no se autorizan por problemas con la tarjeta de crédito del comprador. Sugerimos que el centro de atención al cliente de tu tienda se ponga en contacto con la persona para ofrecerle ayuda.
    </td>
-   <td>Accede a los <strong>Detalles de la tarea </strong>> Haz clic en <strong>Ver detalles </strong>> Autoriza o cancela el pedido en la página <strong>Detalles del pedido</strong>.
+   <td>Accede a los **Detalles de la tarea **> Haz clic en **Ver detalles **> Autoriza o cancela el pedido en la página **Detalles del pedido**.
    </td>
   </tr>
   <tr>
-   <td>El precio es menor que el <em>markup</em> mínimo
+   <td>El precio es menor que el *markup* mínimo
    </td>
-   <td>El valor de la compra es menor que el <em>markup</em> o el margen de beneficio mínimo del<a href="https://help.vtex.com/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/P99EjtrlRHk92Q8qDPq29"> precio base de un SKU</a>.
+   <td>El valor de la compra es menor que el *markup* o el margen de beneficio mínimo del[ precio base de un SKU](https://help.vtex.com/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/P99EjtrlRHk92Q8qDPq29).
    </td>
-   <td>Accede a los <strong>Detalles de la tarea </strong>> Haz clic en <strong>Ver detalles </strong>> Autoriza o cancela el pedido en la página <strong>Detalles del pedido</strong>.
+   <td>Accede a los **Detalles de la tarea **> Haz clic en **Ver detalles **> Autoriza o cancela el pedido en la página **Detalles del pedido**.
    </td>
   </tr>
 </table>
 
 ## Detalles de la tarea
 
-![VTEX Do details ES](//images.ctfassets.net/alneenqid6w5/mPby3BuhZYAwGyFuII8mr/d72c3000996192d5f687c6adf8b0b381/VTEX_Do_details_ES.jpg)
+![VTEX Do details ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/orders/orders-overview/vtex-do-interface_2.jpg)
 
 Al hacer clic en el nombre de una tarea de la lista, se te redirige al modal de detalles de la tarea que presenta más información sobre la misma y las acciones para resolverla. Se muestran los siguientes campos:
 

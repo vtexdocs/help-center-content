@@ -15,9 +15,7 @@ locale: es
 subcategoryId: 6iTRZiMeCGXYiO2ckABFZi
 ---
 
-<div class = "alert alert-info">
-Este módulo está en fase beta. Esto significa que estamos trabajando para mejorarlo. Si tienes alguna duda, por favor ponte en contacto con nuestro <a href="https://help.vtex.com/es/support">equipo de soporte</a>.
-</div>
+> ℹ️ Este módulo está en fase beta. Esto significa que estamos trabajando para mejorarlo. Si tienes alguna duda, por favor ponte en contacto con nuestro [equipo de soporte](https://help.vtex.com/es/support).
 
 Crear promociones es una buena estrategia para atraer a más compradores a tu sitio de ecommerce. Al configurarlas, es muy importante tener cuidado de que los descuentos aplicados tengan los efectos esperados, ya que los errores al registrar promociones pueden causar pérdidas de ingresos.
 
@@ -29,7 +27,7 @@ Si solo se configura la acción de alerta por email, es posible que se realicen 
 
 Para acceder a la página en el Admin VTEX, ve a *Promociones > Alerta de promociones*. Se mostrará la interfaz a continuación:
 
-![simuladordepromocoes gerenciar](//images.ctfassets.net/alneenqid6w5/4E0oZf13zNjKgj5MNRYiuf/94c9af89ae0bad5601b316dfc73a6caf/simuladordepromocoes_gerenciar.gif)
+![simuladordepromocoes gerenciar](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/beta/promotions-beta/alertas-de-promociones-beta_1.gif)
 
 La siguiente tabla proporciona la descripción de las columnas de la lista de promociones:
 
@@ -38,7 +36,7 @@ La siguiente tabla proporciona la descripción de las columnas de la lista de pr
 | Nombre | Nombre de la alerta de promoción. |
 | Alerta | Condición determinada para que se emita la alerta. |
 | Acción preventiva | Acciones que se ejecutarán cuando se active la alerta. |
-| Status | Status de la promoción, que puede ser: <p><strong> Activo:</strong> cuando se activa la alerta </p> <p> <strong>Inactivo:</strong> cuando se desactiva la alerta </p> |
+| Status | Status de la promoción, que puede ser: ** Activo:** cuando se activa la alerta   **Inactivo:** cuando se desactiva la alerta  |
 
  La página Alerta de promociones permite realizar las siguientes acciones:
 

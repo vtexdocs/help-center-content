@@ -17,9 +17,7 @@ subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 
 [Stripe](https://stripe.com/es) es una plataforma de pago que ofrece un sistema integrado enfocado en la recepción de pagos, transferencias, donaciones y cualquier tipo de transacción financiera habitual en los ecommerce y otras páginas web.
 
-<div class="alert alert-warning">
-La integración de tu tienda con Stripe se realiza a través de <strong>Application Key</strong> y <strong>Application Token</strong>. Para obtener estos datos, primero debes <a href="https://dashboard.stripe.com/register" target="_blank">crear tu cuenta</a> en la plataforma y. Cuando hayas terminado, accede a <a href="https://stripe.com/docs/keys" target="_blank">esta documentación</a> de Stripe para obtener acceso a tu <strong>clave publicable</strong> y <strong>clave secreta</strong>. Estas claves son obligatorias para las configuraciones en la plataforma VTEX.
-</div>
+> ⚠️ La integración de tu tienda con Stripe se realiza a través de **Application Key** y **Application Token**. Para obtener estos datos, primero debes [crear tu cuenta](https://dashboard.stripe.com/register) en la plataforma y. Cuando hayas terminado, accede a [esta documentación](https://stripe.com/docs/keys) de Stripe para obtener acceso a tu **clave publicable** y **clave secreta**. Estas claves son obligatorias para las configuraciones en la plataforma VTEX.
 
 Stripe admite pagos en más de 40 países. Se puede acceder a la lista de países disponibles en el [sitio web de Stripe](https://stripe.com/es/enterprise).
 
@@ -39,8 +37,8 @@ Después de instalar el conector de Stripe, sigue los pasos a continuación para
 <br>
 <ul>
 <br>
-    	<li><b>Clave de aplicación</b>: Clave publicable que has obtenido en el <a href="https://dashboard.stripe.com">dashboard de tu cuenta de Stripe</a>.</li>
-    	<li><b>Token de aplicación</b>: Clave secreta que has obtenido en el <a href="https://dashboard.stripe.com">dashboard de tu cuenta de Stripe</a>.</li>
+    	<li>**Clave de aplicación**: Clave publicable que has obtenido en el [dashboard de tu cuenta de Stripe](https://dashboard.stripe.com).</li>
+    	<li>**Token de aplicación**: Clave secreta que has obtenido en el [dashboard de tu cuenta de Stripe](https://dashboard.stripe.com).</li>
 </ul>
 5. Haga clic en __Guardar__.
 
@@ -56,12 +54,7 @@ Después de realizar la configuración en el ambiente VTEX, también debes confi
 8. Haga clic en __Añadir eventos__.
 9. Haga clic en __Añadir punto de conexión__.
 
-<div class="alert alert-info">
-  <p>Si deseas realizar transacciones con tarjeta de crédito en Stripe, debes abrir un ticket en Stripe de la siguiente manera:</p>
-  <p>- Solicitar la liberación de la función "raw card data", indicando que VTEX y Stripe son socios de pago.</p>
-  <p>- Enviar como archivo adjunto el VTEX AOC (Attestation of Compliance for Onsite Assessments – Service Providers). Para consultar la última versión de AOC VTEX acceda a la página de <a href="https://vtex.com/es-es/compliance/certifications">certificaciones VTEX</a> y descargue el archivo disponible en la sección PCI.</p>
-  <p>Las acciones anteriores evitarán que ocurran errores relacionados con la transmisión de datos sensibles en la integración entre Stripe y VTEX.</p>
-</div>
+> ℹ️ Si deseas realizar transacciones con tarjeta de crédito en Stripe, debes abrir un ticket en Stripe de la siguiente manera: - Solicitar la liberación de la función "raw card data", indicando que VTEX y Stripe son socios de pago. - Enviar como archivo adjunto el VTEX AOC (Attestation of Compliance for Onsite Assessments – Service Providers). Para consultar la última versión de AOC VTEX acceda a la página de [certificaciones VTEX](https://vtex.com/es-es/compliance/certifications) y descargue el archivo disponible en la sección PCI. Las acciones anteriores evitarán que ocurran errores relacionados con la transmisión de datos sensibles en la integración entre Stripe y VTEX.
 
 ## Configuración de condición de pago
 
@@ -86,9 +79,7 @@ Cuando hayas realizado estos pasos, Google Pay figurará en el *checkout* de la 
 
 El conector Stripe te permite añadir Apple Pay como método de pago en el checkout de tu tienda.
 
-<div class="alert alert-warning">
-Apple Pay actualmente solo funciona en los sistemas operativos MacOs e IOS, y el navegador Safari. Para más información acceda a <a href="https://support.apple.com/es-es/HT208531">Dispositivos compatibles con Apple Pay</a>.
-</div>
+> ⚠️ Apple Pay actualmente solo funciona en los sistemas operativos MacOs e IOS, y el navegador Safari. Para más información acceda a [Dispositivos compatibles con Apple Pay](https://support.apple.com/es-es/HT208531).
 
 Con el conector Stripe configurado, puedes añadir Apple Pay siguiendo los pasos que se indican a continuación:
 

@@ -24,28 +24,28 @@ Para agregar un nuevo centro de costos sigue los pasos a continuación:
 
 <ol>
   <li>Haz clic en el nombre de la organización.</li>
-  <li>Después, en la pestaña <strong>Centros de costos</strong>.</li>
-  <li>Haz clic en <code>Nuevo</code>.</li>
+  <li>Después, en la pestaña **Centros de costos**.</li>
+  <li>Haz clic en `Nuevo`.</li>
   <li>
     Rellena los campos solicitados, especificados a continuación:
     <ul>
-      <li><strong>Nombre</strong>: nombre del centro de costos que deseas asociar a la organización.</li>
-      <li><strong>Número de teléfono</strong>: teléfono para ponerse en contacto con la organización.</li>
-      <li><strong>Documento empresarial</strong>: puede ser el número de registro corporativo, el número de identificación fiscal, el número de IVA u otro documento.</li>
-      <li><strong>Inscripción estatal</strong>: número de registro de la empresa.</li>
-      <li><strong>País</strong>: país donde se encuentra el centro de costos.</li>
-      <li><strong>Código postal</strong>: código postal del centro de costos.</li>
-      <li><strong>Dirección</strong>: nombre de la calle donde se ubica el centro de costos.</li>
-      <li><strong>Número</strong>: número de la dirección donde se encuentra el centro de costos.</li>
-      <li><strong>Información adicional</strong>: información que puede complementar la dirección del centro de costos.</li>
-      <li><strong>Barrio</strong>: nombre del barrio donde se ubica el centro de costos.</li>
-      <li><strong>Ciudad</strong>: ciudad donde se encuentra el centro de costos. Se rellena automáticamente en función del código postal informado.</li>
-      <li><strong>Estado</strong>: estado donde se encuentra el centro de costos. Se rellena automáticamente en función del código postal informado.</li>
-      <li><strong>Destinatario</strong>: nombre de la persona que recibirá los pedidos en la dirección informada.</li>
+      <li>**Nombre**: nombre del centro de costos que deseas asociar a la organización.</li>
+      <li>**Número de teléfono**: teléfono para ponerse en contacto con la organización.</li>
+      <li>**Documento empresarial**: puede ser el número de registro corporativo, el número de identificación fiscal, el número de IVA u otro documento.</li>
+      <li>**Inscripción estatal**: número de registro de la empresa.</li>
+      <li>**País**: país donde se encuentra el centro de costos.</li>
+      <li>**Código postal**: código postal del centro de costos.</li>
+      <li>**Dirección**: nombre de la calle donde se ubica el centro de costos.</li>
+      <li>**Número**: número de la dirección donde se encuentra el centro de costos.</li>
+      <li>**Información adicional**: información que puede complementar la dirección del centro de costos.</li>
+      <li>**Barrio**: nombre del barrio donde se ubica el centro de costos.</li>
+      <li>**Ciudad**: ciudad donde se encuentra el centro de costos. Se rellena automáticamente en función del código postal informado.</li>
+      <li>**Estado**: estado donde se encuentra el centro de costos. Se rellena automáticamente en función del código postal informado.</li>
+      <li>**Destinatario**: nombre de la persona que recibirá los pedidos en la dirección informada.</li>
     </ul>
   </li>
-  <li>Haz clic en el botón <code>Agregar</code>.</li>
-  <li>Haz clic en <code>Guardar</code> en la esquina superior derecha de la página después de cualquier cambio.</li>
+  <li>Haz clic en el botón `Agregar`.</li>
+  <li>Haz clic en `Guardar` en la esquina superior derecha de la página después de cualquier cambio.</li>
 </ol>
 
 ## Información del centro de costos
@@ -78,22 +78,22 @@ Para editar o eliminar una dirección existente, haz clic en <i class="fas fa-el
 Si deseas agregar una nueva dirección de envío relacionada con este centro de costos, sigue estas instrucciones:
 
 <ol>
-  <li>Haz clic en el botón <code>Agregar nueva dirección</code>.</li>
+  <li>Haz clic en el botón `Agregar nueva dirección`.</li>
   <li>
     Rellena la información requerida sobre la nueva dirección:
     <ul>
-      <li><strong>País</strong>: país donde se encuentra el centro de costos.</li>
-      <li><strong>Código postal</strong>: código postal del centro de costos.</li>
-      <li><strong>Dirección</strong>: nombre de la calle donde se ubica el centro de costos.</li>
-      <li><strong>Información adicional</strong>: información que puede complementar la dirección del centro de costos.</li>
-      <li><strong>Ciudad</strong>: ciudad donde se encuentra el centro de costos. Se rellena automáticamente en función del código postal informado.</li>
-      <li><strong>Estado</strong>: estado donde se encuentra el centro de costos. Se rellena automáticamente en función del código postal informado.</li>
-      <li><strong>Destinatario</strong>: nombre de la persona que recibirá los pedidos en la dirección informada.</li>
+      <li>**País**: país donde se encuentra el centro de costos.</li>
+      <li>**Código postal**: código postal del centro de costos.</li>
+      <li>**Dirección**: nombre de la calle donde se ubica el centro de costos.</li>
+      <li>**Información adicional**: información que puede complementar la dirección del centro de costos.</li>
+      <li>**Ciudad**: ciudad donde se encuentra el centro de costos. Se rellena automáticamente en función del código postal informado.</li>
+      <li>**Estado**: estado donde se encuentra el centro de costos. Se rellena automáticamente en función del código postal informado.</li>
+      <li>**Destinatario**: nombre de la persona que recibirá los pedidos en la dirección informada.</li>
     </ul>
   </li>
-  <li>Haz clic en el botón <code>Agregar</code>.</li>
-  <li>Haz clic en <code>Guardar</code> en la esquina superior derecha de la página después de cualquier cambio.</li>
-  <li>Haz clic en <code>Eliminar</code> para remover el centro de costos.</li>
+  <li>Haz clic en el botón `Agregar`.</li>
+  <li>Haz clic en `Guardar` en la esquina superior derecha de la página después de cualquier cambio.</li>
+  <li>Haz clic en `Eliminar` para remover el centro de costos.</li>
 </ol>
 
 #### Campos personalizados

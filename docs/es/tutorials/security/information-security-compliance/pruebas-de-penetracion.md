@@ -27,6 +27,4 @@ En lugar de analizar las solicitudes de pruebas de penetración individuales de 
 
 Para obtener el documento, sin costo, [abre un ticket con Soporte VTEX](https://help.vtex.com/es/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM).
 
-<div class="alert alert-warning">
-  <p>Nuestro <a href="https://vtex.com/mx-es/privacy-and-agreements/agreements/">Master Services Agreement (MSA)</a> prohíbe expresamente la realización de pruebas de penetración en la plataforma VTEX sin que lo autoricemos previamente mediante consentimiento por escrito. Realizar pruebas sin nuestra autorización constituye un incumplimiento del contrato por parte del cliente.</p>
-</div>
+> ⚠️ Nuestro [Master Services Agreement (MSA)](https://vtex.com/mx-es/privacy-and-agreements/agreements/) prohíbe expresamente la realización de pruebas de penetración en la plataforma VTEX sin que lo autoricemos previamente mediante consentimiento por escrito. Realizar pruebas sin nuestra autorización constituye un incumplimiento del contrato por parte del cliente.

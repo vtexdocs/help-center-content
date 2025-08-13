@@ -20,9 +20,9 @@ Una de las primeras acciones que usted necesita realizar en su web site es enlaz
 1. En el Admin VTEX, accede a **Storefront > Layout**.
 2. Haga clic en la carpeta __CMS__.
 3. Haga clic en la carpeta __Sites and channels__.
-4. Haga clic en el Website deseado.![websites](https://images.contentful.com/alneenqid6w5/56BRjkYWyIwKogAI0oMmSM/0910a749d03b6fd8d596ce6361a21045/websites.png)
+4. Haga clic en el Website deseado.![websites](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Storefront/Layout/vincular-un-account-name-a-un-website-binding_1.png)
 5. Haga clic en __Save Website__.
-6. Haga clic en __Add__.![addBinding](https://images.contentful.com/alneenqid6w5/r0P8ZE9LNesKoeGewcWOu/527511bc3ae48875fe1a6421a1db5f42/addBinding.png)
-7. Seleccione el nombre de la tienda.![chooseBinding](https://images.contentful.com/alneenqid6w5/3nFPaDlnaEG2EqIMM8gCe0/188754ebaa172cef01a9212eea168e46/chooseBinding.png)
-8. Marque la política comercial o las políticas comerciales que quedarán vinculadas a esa tienda.![bindingSalesPolicy](https://images.contentful.com/alneenqid6w5/5FFxnelVTyCu04a6EkiEkS/30905c7f368a1393100f118fd70fcb02/bindingSalesPolicy.png)
+6. Haga clic en __Add__.![addBinding](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Storefront/Layout/vincular-un-account-name-a-un-website-binding_2.png)
+7. Seleccione el nombre de la tienda.![chooseBinding](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Storefront/Layout/vincular-un-account-name-a-un-website-binding_3.png)
+8. Marque la política comercial o las políticas comerciales que quedarán vinculadas a esa tienda.![bindingSalesPolicy](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Storefront/Layout/vincular-un-account-name-a-un-website-binding_4.png)
 9. Haga clic en __Save Binding__.

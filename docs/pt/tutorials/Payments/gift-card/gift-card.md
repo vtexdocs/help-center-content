@@ -28,43 +28,35 @@ Por padrão VTEX, o vale-presente é considerado como uma forma de pagamento. Es
 
 Para criar um novo vale-presente, confira o passo a passo:
 <ol>
-  <li>No Admin VTEX, acesse <b>Promoções > Vales-presente</b>, ou digite <b>Vales-presente</b> na barra de busca no topo da página.</li> 
+  <li>No Admin VTEX, acesse **Promoções > Vales-presente**, ou digite **Vales-presente** na barra de busca no topo da página.</li> 
   <br>
-  <li>Clique no botão azul <b>Criar vale</b>.</li>  
+  <li>Clique no botão azul **Criar vale**.</li>  
   <br>
-<div class = "alert alert-info">
-  <p>Na tela de criação do vale, o campo <b>Vale-presente</b> é automaticamente preenchido pelo sistema VTEX com o código ID do novo vale. Esse é o código a ser inserido pelo cliente na tela do checkout para aplicar o vale-presente no carrinho e reduzir o valor de pagamento do pedido.</p>
-</div>
+> ℹ️ Na tela de criação do vale, o campo **Vale-presente** é automaticamente preenchido pelo sistema VTEX com o código ID do novo vale. Esse é o código a ser inserido pelo cliente na tela do checkout para aplicar o vale-presente no carrinho e reduzir o valor de pagamento do pedido.
 <br>
   <li>Preencha os demais campos apresentados conforme as orientações abaixo:</li>
   <br>
 <ul>
-  <li><b>Valor</b>: valor nominal que será concedido para o uso do vale.</li>
-  <li><b>Código da moeda</b>: moeda na qual o vale será criado. As opções disponíveis para seleção são apresentadas de acordo com as políticas comerciais de cada loja.</li>
-  <li><b>Data de expiração</b>: trata-se da data de vigência da utilização do vale.</li>
-  <li><b>CPF/CNPJ Cliente</b>: dado que identifica e define o vale para um específico cliente.</li>
-  <li><b>Coleção</b>: determina a coleção de produtos que define os itens em que o vale poderá ser aplicado.</li>
+  <li>**Valor**: valor nominal que será concedido para o uso do vale.</li>
+  <li>**Código da moeda**: moeda na qual o vale será criado. As opções disponíveis para seleção são apresentadas de acordo com as políticas comerciais de cada loja.</li>
+  <li>**Data de expiração**: trata-se da data de vigência da utilização do vale.</li>
+  <li>**CPF/CNPJ Cliente**: dado que identifica e define o vale para um específico cliente.</li>
+  <li>**Coleção**: determina a coleção de produtos que define os itens em que o vale poderá ser aplicado.</li>
 </ul><br>
 
-<div class="alert alert-warning">
-<strong>Atenção</strong>: o preenchimento dos campos “Valor” e “Data de expiração” é <strong>obrigatório</strong>. Caso o contrário, o vale-presente não será salvo.
-</div>
+> ⚠️ **Atenção**: o preenchimento dos campos “Valor” e “Data de expiração” é **obrigatório**. Caso o contrário, o vale-presente não será salvo.
 
-<div class="alert alert-danger">
-A funcionalidade de criação de vales-presente limitados por coleções de produtos não está funcionando. Mais informações sobre este problema podem ser encontrados no artigo <a href="https://help.vtex.com/en/known-issues/restricting-the-use-of-giftcards-to-a-collection-of-products-does-not-work--7kdbZUdscJLo1sGY6bo1jp" target="_blank">Restricting the use of GiftCards to a collection of products does not work</a>.
-</div>
+> ❗ A funcionalidade de criação de vales-presente limitados por coleções de produtos não está funcionando. Mais informações sobre este problema podem ser encontrados no artigo [Restricting the use of GiftCards to a collection of products does not work](https://help.vtex.com/en/known-issues/restricting-the-use-of-giftcards-to-a-collection-of-products-does-not-work--7kdbZUdscJLo1sGY6bo1jp).
 
 Depois de preencher os campos corretamente, o usuário poderá assinalar até três opções de configuração: 
 <ul>
-  <li><b>Restrito</b>: somente o cliente referente ao CPF ou CNPJ informado acima poderá utilizar este vale.</li>
-  <li><b>Recarregável</b>: enquanto esse vale estiver disponível, seu saldo poderá ser alterado.</li>
-  <li><b>Reutilizável</b>: será possível realizar novas compras com este vale até que seu valor seja totalmente utilizado.</li></ul>
+  <li>**Restrito**: somente o cliente referente ao CPF ou CNPJ informado acima poderá utilizar este vale.</li>
+  <li>**Recarregável**: enquanto esse vale estiver disponível, seu saldo poderá ser alterado.</li>
+  <li>**Reutilizável**: será possível realizar novas compras com este vale até que seu valor seja totalmente utilizado.</li></ul>
 <br>
-  <li>Por fim, clique no botão <b>Salvar</b>.</li>
+  <li>Por fim, clique no botão **Salvar**.</li>
 <br>
-<div class="alert alert-info">
-Não há limite para a criação de vales, porém apenas 8000 vales podem ser exportados por vez.
-</div>
+> ℹ️ Não há limite para a criação de vales, porém apenas 8000 vales podem ser exportados por vez.
 
 </ol>
 
@@ -72,39 +64,33 @@ Não há limite para a criação de vales, porém apenas 8000 vales podem ser ex
 
 Para criar mais de um vale-presente ao mesmo tempo (um lote), confira o passo a passo:
 <ol>
-  <li>No Admin VTEX, acesse <b>Promoções > Vales-presente</b>, ou digite <b>Vales-presente</b> na barra de busca no topo da página.</li> 
+  <li>No Admin VTEX, acesse **Promoções > Vales-presente**, ou digite **Vales-presente** na barra de busca no topo da página.</li> 
   <br>
-  <li>Clique no botão azul <b>Criar vales em massa</b>.</li>  
+  <li>Clique no botão azul **Criar vales em massa**.</li>  
   <br>  
   <li>Preencha os campos apresentados conforme as orientações abaixo:</li>  
 <br>
 <ul>
-  <li><b>Quantidade de vales-presente</b>: este é o número de vales que você deseja criar em um mesmo lote. Um número máximo de 500 (quinhentos) vales podem ser criados por lote.</li>
-  <li><b>Valor</b>: valor nominal que será concedido para todos os vales do lote.</li>
-  <li><b>Código da moeda</b>: moeda na qual os vales serão criados em lote. As opções disponíveis para seleção são apresentadas de acordo com as políticas comerciais de cada loja.</li>
-  <li><b>Data de expiração</b>: trata-se da data de vigência da utilização de todos os vales do lote.</li>
-  <li><b>Coleção</b>: determina a coleção de produtos que define os itens em que os vales poderão ser aplicados.</li>
+  <li>**Quantidade de vales-presente**: este é o número de vales que você deseja criar em um mesmo lote. Um número máximo de 500 (quinhentos) vales podem ser criados por lote.</li>
+  <li>**Valor**: valor nominal que será concedido para todos os vales do lote.</li>
+  <li>**Código da moeda**: moeda na qual os vales serão criados em lote. As opções disponíveis para seleção são apresentadas de acordo com as políticas comerciais de cada loja.</li>
+  <li>**Data de expiração**: trata-se da data de vigência da utilização de todos os vales do lote.</li>
+  <li>**Coleção**: determina a coleção de produtos que define os itens em que os vales poderão ser aplicados.</li>
   <br>
-  <div class="alert alert-warning">
-<strong>Atenção</strong>: o preenchimento dos campos “Quantidade de vales-presente”, “Valor” e “Data de Validade” é <strong>obrigatório</strong>. Caso o contrário, os vales-presente não serão salvos.
-</div>
+  > ⚠️ **Atenção**: o preenchimento dos campos “Quantidade de vales-presente”, “Valor” e “Data de Validade” é **obrigatório**. Caso o contrário, os vales-presente não serão salvos.
 <br>
-  <div class="alert alert-danger">
-A funcionalidade de criação de vales-presente limitados por coleções de produtos não está funcionando. Mais informações sobre este problema podem ser encontrados no artigo <a href="https://help.vtex.com/en/known-issues/restricting-the-use-of-giftcards-to-a-collection-of-products-does-not-work--7kdbZUdscJLo1sGY6bo1jp" target="_blank">Restricting the use of GiftCards to a collection of products does not work</a>.
-</div>
+  > ❗ A funcionalidade de criação de vales-presente limitados por coleções de produtos não está funcionando. Mais informações sobre este problema podem ser encontrados no artigo [Restricting the use of GiftCards to a collection of products does not work](https://help.vtex.com/en/known-issues/restricting-the-use-of-giftcards-to-a-collection-of-products-does-not-work--7kdbZUdscJLo1sGY6bo1jp).
 <br>
-  <li><b>Recarregável</b>: enquanto estes vales estiverem disponíveis, seus saldos poderão ser alterados.</li>
-  <li><b>Reutilizável</b>: será possível realizar novas compras com estes vales até que seus valores sejam totalmente utilizados.</li>
+  <li>**Recarregável**: enquanto estes vales estiverem disponíveis, seus saldos poderão ser alterados.</li>
+  <li>**Reutilizável**: será possível realizar novas compras com estes vales até que seus valores sejam totalmente utilizados.</li>
 </ul><br>  
-  <li>Clique no botão <b>Salvar</b>.</li>
+  <li>Clique no botão **Salvar**.</li>
 <br>
 Uma nova tela irá aparecer confirmando que foram gerados o número de vales-presentes solicitados e os respectivos códigos de identificação serão apresentados.<br> 
 <br>
-  <li>Por fim, clique no botão <b>Voltar</b>.</li>
+  <li>Por fim, clique no botão **Voltar**.</li>
 <br>
-<div class="alert alert-info">
-Não há limite para a criação de vales, porém apenas 8000 vales podem ser exportados por vez.
-</div>
+> ℹ️ Não há limite para a criação de vales, porém apenas 8000 vales podem ser exportados por vez.
 </ol>
 
 ## Como configurar o Vale-presente como meio de pagamento

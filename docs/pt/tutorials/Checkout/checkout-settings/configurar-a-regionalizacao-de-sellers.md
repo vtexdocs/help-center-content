@@ -43,6 +43,4 @@ Para ativar o **Region** em sua loja, é necessário realizar os seguintes passo
 1. [Configurar preço e disponibilidade de SKUs por Region](https://help.vtex.com/pt/tutorial/configurar-preco-e-disponibilidade-de-skus-por-region--12ne58BmvYsYuGsimmugoc#)
 2. [Habilitar a funcionalidade Region](https://developers.vtex.com/docs/guides/enable-the-region-for-skus)
 
-<div class="alert alert-info">
-  Atualmente, o <b>Region</b> está disponível para utilização em todas as lojas VTEX na versão v2. Saiba mais em <a href="https://developers.vtex.com/vtex-developer-docs/changelog/region-v2-release">Region v2<a/>.
-</div>
+> ℹ️ Atualmente, o **Region** está disponível para utilização em todas as lojas VTEX na versão v2. Saiba mais em <a href="https://developers.vtex.com/vtex-developer-docs/changelog/region-v2-release">Region v2<a/>.

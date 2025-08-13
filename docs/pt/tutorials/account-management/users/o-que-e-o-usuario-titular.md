@@ -17,9 +17,7 @@ subcategoryId: 63DHe3VQEEE6Uuua8gIs2M
 
 Cada conta VTEX tem apenas um usuário Titular - o único a quem é dado acesso total a todas as seções do Admin, incluindo ações importantes de manutenção e autorização. 
 
-<div class = "alert alert-warning"> 
-Usuário Titular não é o mesmo que <b>Owner (Admin Super)</b>. O <b>Owner (Admin Super)</b> é um perfil de acesso do License Manager, que define permissões concedidas a um dado usuário da sua loja, podendo inclusive ser atribuído a múltiplos usuários.
-</div>
+> ⚠️ Usuário Titular não é o mesmo que **Owner (Admin Super)**. O **Owner (Admin Super)** é um perfil de acesso do License Manager, que define permissões concedidas a um dado usuário da sua loja, podendo inclusive ser atribuído a múltiplos usuários.
 
 A página de gerenciamento do Titular permite identificar o usuário Titular atual, transferir a propriedade da loja e visualizar o log de atividades associado às ações do usuário Titular. Para acessar esta página, clique em **Configurações da conta** > **Gerenciamento da conta** > **Conta**. Na seção Contato, clique em `Gerenciamento de titulares`.
 
@@ -43,7 +41,5 @@ Somente o usuário Titular pode realizar as seguintes ações essenciais de manu
 
 Além disso, quando a VTEX precisa comunicar informações sensíveis à loja, como mudanças em perfis de acesso, tal comunicação é feita direta e exclusivamente com o usuário Titular.
 
-<div class="alert alert-info">
-A criação de <a href="https://help.vtex.com/pt/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet">credenciais de autenticação</a> (appKey/appToken) para integrações via API não é mais restrita ao usuário Titular. Veja este <a href="https://help.vtex.com/pt/announcements/mudancas-no-nome-e-acoes-restritas-disponiveis-para-o-usuario-master">anúncio</a> para mais detalhes sobre esta mudança.
-</div>
+> ℹ️ A criação de [credenciais de autenticação](https://help.vtex.com/pt/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet) (appKey/appToken) para integrações via API não é mais restrita ao usuário Titular. Veja este [anúncio](https://help.vtex.com/pt/announcements/mudancas-no-nome-e-acoes-restritas-disponiveis-para-o-usuario-master) para mais detalhes sobre esta mudança.
 

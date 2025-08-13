@@ -26,9 +26,7 @@ En este artículo trataremos los siguientes temas:
 - [Vincular un servicio a un SKU](#vincular-un-servicio-a-un-SKU)
   - [Campos de la plantilla](#campos-de-la-plantilla)
 
-<div class = "alert alert-info">
-Puedes configurar los servicios de SKU a través del <b>Catalog API</b> utilizando los endpoints de <a href="https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/skuservicetype">SKU service</a>.
-</div>
+> ℹ️ Puedes configurar los servicios de SKU a través del **Catalog API** utilizando los endpoints de [SKU service](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/skuservicetype).
 
 ## Crear un tipo de servicio
 Para registrar un tipo de servicio, sigue los pasos a continuación:
@@ -77,20 +75,16 @@ Para vincular un servicio a un SKU, sigue los pasos a continuación:
 5. Haz clic en `Exportar`.
 6. Guarda la plantilla en formato CSV que se exportará en su ordenador.
 7. Rellena los [campos de la plantilla](#campos-de-la-plantilla). Mantén el formato CSV del archivo al guardar los cambios.
-<div class = "alert alert-warning">
-  <p>El tamaño del archivo de la plantilla no debe superar los 4Mb (4096KB).</p>
-</div>
+> ⚠️ El tamaño del archivo de la plantilla no debe superar los 4Mb (4096KB).
 8. Haz clic en la barra que se encuentra junto al botón `Select`, que se muestra a continuación.
-  ![Anexos - ES](//images.ctfassets.net/alneenqid6w5/76FSnqnRMroOc0Ex2knz1Z/844c4cb0282e3b4e32c9b494906b0597/sku-services-ES.png)
+  ![Anexos - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Catalog/custom-product-attributes/crear-servicio-para-un-sku_1.png)
 9. Selecciona la plantilla CSV actualizada.
 10. Haz clic en `Vincular valores de servicios a SKU` para finalizar.
 
 ### Campos de la plantilla
 Maneja la plantilla con cuidado, comprobando siempre que la información está correctamente rellenada. Todos los campos de la plantilla deben rellenarse para evitar errores.
 
-<div class="alert alert-warning">
-  <p>Al rellenar la plantilla, no cambie ni elimine los títulos de las columnas en la línea 1. Rellene los valores deseados en las líneas posteriores a los títulos de las columnas para que la importación funcione correctamente.</p>
-</div>  
+> ⚠️ Al rellenar la plantilla, no cambie ni elimine los títulos de las columnas en la línea 1. Rellene los valores deseados en las líneas posteriores a los títulos de las columnas para que la importación funcione correctamente.  
 
 - **Nome Serviço:** es el nombre del servicio.
 - **Texto Serviço:** es el texto que se mostrará junto con el servicio.
@@ -107,6 +101,4 @@ Maneja la plantilla con cuidado, comprobando siempre que la información está c
 - **Custo:** es el costo del servicio para la tienda.
 - **Ativo:** es el status del servicio. Introduce `1` para mantener el servicio activo y `0` para mantenerlo inactivo.
 
-<div class = "alert alert-warning">
-  <p>Añadir una nueva plantilla no sustituirá los servicios ya vinculados al SKU. Para desvincular un servicio, utiliza el <i>endpoint</i> <a href ="https://developers.vtex.com/docs/api-reference/catalog-api#delete-/api/catalog/pvt/skuservice/-skuServiceId-">Dissociate SKU Service</a>.</p>
-</div>
+> ⚠️ Añadir una nueva plantilla no sustituirá los servicios ya vinculados al SKU. Para desvincular un servicio, utiliza el *endpoint* <a href ="https://developers.vtex.com/docs/api-reference/catalog-api#delete-/api/catalog/pvt/skuservice/-skuServiceId-">Dissociate SKU Service</a>.

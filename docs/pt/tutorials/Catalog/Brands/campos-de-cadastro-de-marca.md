@@ -19,15 +19,7 @@ Para entender melhor o significado dos campos de cadastro de Marca, veja abaixo 
 
 - __Nome__: nome da marca que deseja cadastrar para identificação num produto. Esse campo é obrigatório e deve respeitar o limite de 150 caracteres.
 
-<div class="alert alert-danger">
-  <p>Ao preencher o <b>Nome</b> da marca, evite utilizar as seguintes palavras reservadas, pois isso pode prejudicar o desempenho da sua loja e interferir no funcionamento de páginas definidas no Admin VTEX. Veja a lista de palavras reservadas abaixo.
-  <ul>
-<li><code>a</code></li>
-<li><code>meta</code></li>
-<li><code>api</code></li>
-<li><code>admin</code></li>
-</ul></p>
-</div>
+> ❗ Ao preencher o **Nome** da marca, evite utilizar as seguintes palavras reservadas, pois isso pode prejudicar o desempenho da sua loja e interferir no funcionamento de páginas definidas no Admin VTEX. Veja a lista de palavras reservadas abaixo. <ul> <li>`a`</li> <li>`meta`</li> <li>`api`</li> <li>`admin`</li> </ul>
 
 - __Palavras Substitutas__: termos alternativos que levam à marca cadastrada. O objetivo é facilitar o usuário a encontrar a marca, mesmo que escreva de diferentes formas. Normalmente essas palavras são diferenças ou erros ortográficos e/ou formas genéricas e estrangeiras de chamar a marca.   
 

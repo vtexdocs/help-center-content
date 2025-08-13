@@ -15,16 +15,14 @@ locale: es
 subcategoryId: 7uJcyu0VawEm8ggqKu404u
 ---
 
-Las [tarifas de envío](https://help.vtex.com/es/tutorial/tarifas-de-envio--1Balpg3rv0854udEPedvMM) de su tienda son los precios de envío que se ofrecerán a los clientes. En el módulo <b>Tarifas de envío</b> en el Admin VTEX, puede gestionar individualmente una tarifa de envío mediante el código postal. En este módulo puede:
+Las [tarifas de envío](https://help.vtex.com/es/tutorial/tarifas-de-envio--1Balpg3rv0854udEPedvMM) de su tienda son los precios de envío que se ofrecerán a los clientes. En el módulo **Tarifas de envío** en el Admin VTEX, puede gestionar individualmente una tarifa de envío mediante el código postal. En este módulo puede:
 
 * [Registrar](#registrar) nuevas tarifas de envío;
 * [Buscar](#buscar) las tarifas de envío existentes;
 * [Editar](#editar) las tarifas de envío;
 * [Eliminar](#eliminar) las tarifas de envío.
 
-<div class="alert alert-info">
-Cuando tenga que actualizar o registrar varios precios de envío, recomendamos utilizar la Plantilla de envío (flete) en vez del módulo Tarifas de envío. Si desea comprobar cómo se mostrarán las tarifas de envío registradas al cliente final, utilice el módulo <a href="https://help.vtex.com/es/tutorial/simulacao-de-frete--tutorials_144">Simulador de envío</a>.
-</div>
+> ℹ️ Cuando tenga que actualizar o registrar varios precios de envío, recomendamos utilizar la Plantilla de envío (flete) en vez del módulo Tarifas de envío. Si desea comprobar cómo se mostrarán las tarifas de envío registradas al cliente final, utilice el módulo [Simulador de envío](https://help.vtex.com/es/tutorial/simulacao-de-frete--tutorials_144).
 
 ## Registrar
 
@@ -38,7 +36,7 @@ Para registrar una nueva tarifa de envío, siga las instrucciones a continuació
     * **Rango de código postal:** limite inicial y final de los códigos postales en que la nueva tarifa estará disponible. Debe rellenar este campo con números y/o letras.
     * **Rango de peso:** limite inicial y final de peso que la transportadora acepta para el envío (considerando la tarifa de envío y el código postal). Debe rellenar este campo con un número decimal. La unidad de peso (gramos, kilogramos, etc.) debe ser la misma utilizada al registrar los artículos en el catálogo (SKU). 
     * **Valor de envío:** la tarifa fija cobrada por la entrega (teniendo en cuenta el código postal y el peso especificados). Debe rellenar este campo con un valor decimal.
-    * **Valor adicional:** porcentaje del valor del producto que se añadirá para el envío. Por ejemplo, si el producto cuesta USD 80.00 y el valor adicional es 1, se le añadirá al valor de envío final USD 0.80. <p>El porcentaje registrado se refiere al valor total del producto (valor del producto sin posibles descuentos). Debe rellenar este campo con un número decimal.Por ejemplo, para añadir un porcentaje de 23%, puede rellenar el campo con `23` o `23,00`.</p>
+    * **Valor adicional:** porcentaje del valor del producto que se añadirá para el envío. Por ejemplo, si el producto cuesta USD 80.00 y el valor adicional es 1, se le añadirá al valor de envío final USD 0.80. El porcentaje registrado se refiere al valor total del producto (valor del producto sin posibles descuentos). Debe rellenar este campo con un número decimal.Por ejemplo, para añadir un porcentaje de 23%, puede rellenar el campo con `23` o `23,00`.
     * **Valor adicional por peso:** valor añadido por cada unidad que supere el límite inferior del rango de peso. Debe rellenar este campo con un número decimal.
     * **Volumen cúbico máximo:** límite de volumen aceptado por la transportadora. Debe rellenar este campo con un número decimal.
     * **Plazo de entrega:** plazo que la transportadora tiene para realizar la entrega. Debe rellenar este campo con un número natural.

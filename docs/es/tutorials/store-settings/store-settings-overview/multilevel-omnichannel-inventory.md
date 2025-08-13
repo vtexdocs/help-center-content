@@ -24,9 +24,7 @@ Este artículo incluye la siguiente información sobre la funcionalidad:
 - [Restricciones](#restricciones)  
 - [Cómo configurar](#como-configurar)  
 
-<div class="alert alert-info">
-Para obtener más información sobre la arquitectura de los pedidos de tipo Multilevel Omnichannel Inventory y aprender a realizar la configuración a través de la API REST, consulta nuestro artículo en el <a href="https://developers.vtex.com/vtex-rest-api/docs/multilevel-omnichannel-inventory">Developer Portal</a>.
-</div>
+> ℹ️ Para obtener más información sobre la arquitectura de los pedidos de tipo Multilevel Omnichannel Inventory y aprender a realizar la configuración a través de la API REST, consulta nuestro artículo en el [Developer Portal](https://developers.vtex.com/vtex-rest-api/docs/multilevel-omnichannel-inventory).
 
 ## Arquitectura de cuentas
 
@@ -40,7 +38,7 @@ También es posible que este _seller_ principal venda sus productos en un _marke
 
 Cuando esto ocurre, tenemos una arquitectura de tres niveles entre el _marketplace_, el _seller_ principal y sus _sellers white label_, como se ilustra en la imagen de abajo.
 
-![Arquitetura Multilevel omichannel inventory](//images.ctfassets.net/alneenqid6w5/7k6hYv3kWxBVZrPFkUbsCK/abf2341444442ee6ef770afdfd044a06/Screen_Shot_2022-09-30_at_18.57.26.png)
+![Arquitetura Multilevel omichannel inventory](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/store-settings/store-settings-overview/multilevel-omnichannel-inventory_1.png)
 
 De forma predeterminada, los productos de las tiendas físicas, o _sellers white label_ (nivel 3 en la imagen), no están disponibles para ser vendidos por el _marketplace_ de nivel 1, pero con la funcionalidad _Multilevel Omnichannel Inventory_ puedes disponibilizarlos.
 
@@ -48,9 +46,7 @@ De este modo, es posible que un _marketplace_ venda los productos de sus _seller
 
 Esto significa que cuando el _seller_ de la cuenta principal configura una integración con un _marketplace_, las cuentas franquicia también se integran automáticamente con él, por lo que no es necesario gestionar cada franquicia individualmente para configurar su integración con el _marketplace_.
 
-<div class="alert alert-info">
-Actualmente, solo se permite un nivel de recursión. En otras palabras, el marketplace puede vender productos de sellers white label integrados con un seller directo.
-</div>
+> ℹ️ Actualmente, solo se permite un nivel de recursión. En otras palabras, el marketplace puede vender productos de sellers white label integrados con un seller directo.
 
 ## Beneficios
 
@@ -89,9 +85,7 @@ Es importante destacar que cuando el _seller directo_ no es responsable de las c
 
 Una vez realizada la configuración, solo los medios de pago del _marketplace_ aparecerán como opción en el _checkout_. Los medios de pago de los _sellers_ directos (nivel 2) y de los _sellers white label_ (nivel 3) no se importan a la arquitectura de las cuentas. Por lo tanto, el _checkout_ solo muestra los medios de pago del _marketplace_, incluso si el afiliado del _seller_ directo está configurado para utilizar sus medios de pago. 
 
-<div class="alert alert-warning">
-  El <a href="https://help.vtex.com/es/tutorial/como-configurar-afiliado--tutorials_187">afiliado</a> de la cuenta franquicia debe tener siempre desmarcada la opción de usar los medios de pago.
-</div>
+> ⚠️ El [afiliado](https://help.vtex.com/es/tutorial/como-configurar-afiliado--tutorials_187) de la cuenta franquicia debe tener siempre desmarcada la opción de usar los medios de pago.
 
 ### Cambio de seller
 
@@ -133,9 +127,7 @@ No es posible crear tablas de precios mediante la funcionalidad [Tablas de preci
 
 La configuración de la funcionalidad __Multilevel omnichannel inventory__ debe ser realizada por el _marketplace_ en tu Admin VTEX o a través de la [API Rest](https://developers.vtex.com/vtex-rest-api/docs/multilevel-omnichannel-inventory). Esta configuración puede realizarse tanto para los _sellers_ ya integrados como para los _sellers_ agregados por primera vez.
 
-<div class="alert alert-info">
-Ten en cuenta que la configuración debe realizarse para cada seller directo (nivel 2) al que quieras aplicar la funcionalidad, pero no para cada cuenta de seller white label o cuenta franquicia (nivel 3).
-</div>
+> ℹ️ Ten en cuenta que la configuración debe realizarse para cada seller directo (nivel 2) al que quieras aplicar la funcionalidad, pero no para cada cuenta de seller white label o cuenta franquicia (nivel 3).
 
 ### Sellers ya integrados
 

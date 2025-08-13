@@ -34,7 +34,5 @@ You must associate a [price table](https://help.vtex.com/en/tracks/prices-101--6
 
 If you configure a scenario that has no price table linked to it, it will use a default price table.
 
-<div class = "alert alert-info">
-  <p>Users need to be logged in to use Order Configuration and view the different prices based on their configurations.</p>
-</div>
+> ℹ️ Users need to be logged in to use Order Configuration and view the different prices based on their configurations.
 

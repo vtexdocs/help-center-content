@@ -49,14 +49,7 @@ After [creating a new content version in Site Editor](#creating-a-new-content-ve
 
 3. Choose the content you want to activate and click on `More options` > **Activate.**
 
-<div class="alert alert-warning">
-  <p>When accessing <i>Apply to</i>, the option <i>this URL</i> will always appear above <i>this template</i>. This means that if the block has two versions, each one with a different application option, the user will only be able to reactivate the version applied in the template if he deletes the version applied by URL.</p>
-
-After clicking on `more options` > **Activate**, the new content will be published on your store.
-
-<div style="background-color:#FCF8F2; border-left: 2px solid #F0AD4E; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px; margin-bottom: 10px">
-You can only have one content active at a time. If you activate one content, the others are deactivated.
-</div>
+> ⚠️ When accessing *Apply to*, the option *this URL* will always appear above *this template*. This means that if the block has two versions, each one with a different application option, the user will only be able to reactivate the version applied in the template if he deletes the version applied by URL. After clicking on `more options` > **Activate**, the new content will be published on your store. <div style="background-color:#FCF8F2; border-left: 2px solid #F0AD4E; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px; margin-bottom: 10px"> You can only have one content active at a time. If you activate one content, the others are deactivated.
 
 ## Scheduling content updates
 

@@ -34,9 +34,7 @@ Para compras en que se hayan utilizado dos medios de pago diferentes y para las 
 
 - __Tarjeta de crédito primero (card-first)__: el reembolso de los valores siempre comienza por el total de la tarjeta de crédito y después sigue con el otro medio de pago utilizado en la compra, como una tarjeta de regalo. Esta regla está depende de ciertos [escenarios específicos de liquidación de pagos](#escenarios-de-liquidacion-de-pagos).
 
-<div class="alert alert-info">
-  Las tiendas VTEX utilizan la regla de <b>menor valor liquidado</b> de forma predeterminada. Si deseas que tu operación utilice la regla de <b>tarjeta de crédito primero</b>, solicita el cambio abriendo un ticket con el <a href="https://help.vtex.com/es/support">Soporte VTEX</a>.
-</div>
+> ℹ️ Las tiendas VTEX utilizan la regla de **menor valor liquidado** de forma predeterminada. Si deseas que tu operación utilice la regla de **tarjeta de crédito primero**, solicita el cambio abriendo un ticket con el [Soporte VTEX](https://help.vtex.com/es/support).
 
 ### Escenarios de liquidación de pagos
 

@@ -25,13 +25,9 @@ Para entender como preencher a [planilha de cadastro de preço base](https://hel
 
 - **List Price**: preço de lista é um preço que funciona como um preço antigo de SKU que recebeu um desconto. Também é conhecido como “preço De” e pode ser exibido na vitrine da sua loja. Este é um campo opcional no cadastro de um preço.
 
-<div class="alert alert-danger">
-Ao preencher na planilha os campos <b>Cost Price</b>, <b>Base Price</b> e <b>List Price</b>, o formato dos caracteres precisa ser o tipo <code>Geral</code>. Utilizar outros formatos resultará em erro na importação da planilha.
-</div>
+> ❗ Ao preencher na planilha os campos **Cost Price**, **Base Price** e **List Price**, o formato dos caracteres precisa ser o tipo `Geral`. Utilizar outros formatos resultará em erro na importação da planilha.
 
-<div class="alert alert-info">
-<p>Nas colunas <b>Cost Price</b>, <b>Base Price</b> e <b>List Price</b>, você pode inserir valores com casas decimais separadas por ponto. Exemplo: <code>4.95</code>.</p>
-</div>
+> ℹ️ Nas colunas **Cost Price**, **Base Price** e **List Price**, você pode inserir valores com casas decimais separadas por ponto. Exemplo: `4.95`.
 
 Os próximos campos são opcionais na planilha, exportados somente para exibição e para facilitar a identificação de um SKU. Para visualizá-los na planilha, é necessário selecionar a opção *Incluir metadados nas tabelas exportadas* na exportação.
 
@@ -48,7 +44,7 @@ Os próximos campos são opcionais na planilha, exportados somente para exibiç�
 <table width="100%">
   <tr>
    <td>
-    <img src="https://images.ctfassets.net/alneenqid6w5/2XX0xwgVreVnFb6U2rjJR7/8a4d5893336315d414078ff7518d83ca/baseprices_table.png" style="display: block; margin-left: auto; margin-right: auto;" alt="base prices table" title="base prices table">
+    <img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Prices/price-settings/tabela-de-precos-base_1.png" style="display: block; margin-left: auto; margin-right: auto;" alt="base prices table" title="base prices table">
    </td>
   </tr>
   <tr>

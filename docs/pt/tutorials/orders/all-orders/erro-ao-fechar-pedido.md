@@ -19,8 +19,6 @@ Sempre que o usuário clica em fechar pedido, o checkout cria um novo pedido na 
 
 E como todo pedido tem, no mínimo, uma transação, também é possível encontrar essa transação em **Pedidos > Transações**. Por ser um cenário de erro, provavelmente já estará como transação cancelada.
 
-<div class = "alert alert-info">
-A recomendação é para todo erro de pedido, o primeiro local a se consutar é o log das transações em <b>Pedidos > Transações</b>. Saiba mais em <a href="https://help.vtex.com/pt/tutorial/how-to-view-the-orders-details">Visualizar detalhes da transação em Pedidos</a>.
-</div>
+> ℹ️ A recomendação é para todo erro de pedido, o primeiro local a se consutar é o log das transações em **Pedidos > Transações**. Saiba mais em [Visualizar detalhes da transação em Pedidos](https://help.vtex.com/pt/tutorial/how-to-view-the-orders-details).
 
 A mensagem de erro exibida para o cliente pode ser gerada por diferentes motivos. Desde erros internos, como falha em efetuar uma reserva de um item, até problemas com o cartão, como dados incompletos, ou mesmo uma resposta do gateway, como dados inseridos errados.

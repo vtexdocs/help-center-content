@@ -75,7 +75,7 @@ La lista de cotizaciones y carritos guardados muestra la siguiente información:
 
 Los usuarios pueden hacer clic en cualquier fila o en el <i class="fas fa-ellipsis-v" aria-hidden="true"></i> y, a continuación, hacer clic en **Detalles** para ver y editar la información de una cotización, según sus permisos.
 
-![Minhas cotações - ES](//images.ctfassets.net/alneenqid6w5/53BQDZh9EBc8OrFTxfO1eD/95263971bac96765813a8473ff3b1e9e/Minhas_cota__es.png)
+![Minhas cotações - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/B2B/b2b-quotes/gestionar-cotizaciones-en-b2b_1.png)
 
 ## Crear una cotización o guardar un carrito
 Para crear una cotización o carrito guardado, es necesario tener el [permiso Crear cotizaciones y carritos](#permisos-de-acceso). Después de agregar productos al carrito en la tienda, utiliza el contenido del carrito para crear un carrito guardado o solicitar una cotización. Sigue las instrucciones a continuación:
@@ -84,47 +84,45 @@ Para crear una cotización o carrito guardado, es necesario tener el [permiso Cr
    <li>
       Agrega productos al carrito.
       <ul>
-         <li>Haz clic en <strong>Crear cotización</strong> dentro del carrito.</li>
+         <li>Haz clic en **Crear cotización** dentro del carrito.</li>
       </ul>
    </li>
    <li>
-      Accede al storefront de la tienda y haz clic en <strong>Hola, {nombre de usuario}</strong>. Haz clic en <strong>Mi cuenta</strong>.
+      Accede al storefront de la tienda y haz clic en **Hola, {nombre de usuario}**. Haz clic en **Mi cuenta**.
       <ul>
-         <li>Haz clic en <strong>Cotizaciones y carritos guardados</strong> en la barra lateral.</li>
+         <li>Haz clic en **Cotizaciones y carritos guardados** en la barra lateral.</li>
       </ul>
    </li>
-   <li>Haz clic en <strong>Nueva cotización</strong>.</li>
-   <li>Accede a la ruta <code>/b2b-quotes/create</code>.</li>
+   <li>Haz clic en **Nueva cotización**.</li>
+   <li>Accede a la ruta `/b2b-quotes/create`.</li>
    <li>Ingresa el nombre de la cotización o carrito guardado.</li>
    <li>
       Asegúrate de que toda la información de la página Crear cotización es correcta:
       <ul>
-         <li><strong>Subtotal original:</strong> subtotal del carrito antes de cualquier descuento.</li>
-         <li><strong>Descuento porcentual:</strong> porcentaje del descuento ofrecido por un representante de ventas.</li>
-         <li><strong>Subtotal cotizado:</strong> subtotal de la cotización, incluidos los descuentos ofrecidos por los representantes de ventas.</li>
-         <li><strong>Imagen:</strong> imagen del producto seleccionado.</li>
-         <li><strong>Código de ref.:</strong> código de referencia del producto seleccionado.</li>
-         <li><strong>Nombre:</strong> nombre del producto.</li>
-         <li><strong>Precio original:</strong> precio original del producto.</li>
-         <li><strong>Precio cotizado:</strong> precio del producto, incluidos los descuentos ofrecidos por los representantes de ventas.</li>
-         <li><strong>Cantidad:</strong> número de ítems.</li>
-         <li><strong>Total:</strong> valor total considerando el precio cotizado y la cantidad de ítems.</li>
+         <li>**Subtotal original:** subtotal del carrito antes de cualquier descuento.</li>
+         <li>**Descuento porcentual:** porcentaje del descuento ofrecido por un representante de ventas.</li>
+         <li>**Subtotal cotizado:** subtotal de la cotización, incluidos los descuentos ofrecidos por los representantes de ventas.</li>
+         <li>**Imagen:** imagen del producto seleccionado.</li>
+         <li>**Código de ref.:** código de referencia del producto seleccionado.</li>
+         <li>**Nombre:** nombre del producto.</li>
+         <li>**Precio original:** precio original del producto.</li>
+         <li>**Precio cotizado:** precio del producto, incluidos los descuentos ofrecidos por los representantes de ventas.</li>
+         <li>**Cantidad:** número de ítems.</li>
+         <li>**Total:** valor total considerando el precio cotizado y la cantidad de ítems.</li>
       </ul>
    </li>
-   <li>Ingresa una observación en el campo <strong>Agregar observación</strong>, si es necesario.</li>
+   <li>Ingresa una observación en el campo **Agregar observación**, si es necesario.</li>
 </ol>
-<div class = "alert alert-info">
-   Las observaciones aquí añadidas serán visibles como parte del Historial de actualizaciones de la cotización o carrito guardado y podrán ser vistas por los vendedores u otros miembros de tu organización y centro de costos. Por ejemplo, si un usuario quiere solicitar un descuento específico al vendedor de la tienda B2B, puede incluir esta solicitud como observación.
-</div>
+> ℹ️ Las observaciones aquí añadidas serán visibles como parte del Historial de actualizaciones de la cotización o carrito guardado y podrán ser vistas por los vendedores u otros miembros de tu organización y centro de costos. Por ejemplo, si un usuario quiere solicitar un descuento específico al vendedor de la tienda B2B, puede incluir esta solicitud como observación.
 <ol start="8">
    <li>
       Haz clic en una de las siguientes opciones:
       <ul>
          <li>
-            <strong>Guardar para más tarde:</strong> se crea un carrito guardado. El status del carrito guardado recién creado cambia a <strong>Lista</strong>, lo que significa que cualquier usuario dentro de esa organización o centro de costos que tenga <a href="#">permisos</a> para realizar pedidos podrá utilizar el carrito inmediatamente desde la sección de Cotizaciones y carritos para realizar un pedido.
+            **Guardar para más tarde:** se crea un carrito guardado. El status del carrito guardado recién creado cambia a **Lista**, lo que significa que cualquier usuario dentro de esa organización o centro de costos que tenga [permisos](#) para realizar pedidos podrá utilizar el carrito inmediatamente desde la sección de Cotizaciones y carritos para realizar un pedido.
          </li>
          <li>
-            <strong>Guardar cotización:</strong> se crea una cotización. El status de la cotización recién creada figurará como <strong>Pendiente</strong>, lo que significa que tendrá que ser revisada y ajustada por un vendedor antes de que se puedan aplicar descuentos especiales.
+            **Guardar cotización:** se crea una cotización. El status de la cotización recién creada figurará como **Pendiente**, lo que significa que tendrá que ser revisada y ajustada por un vendedor antes de que se puedan aplicar descuentos especiales.
          </li>
       </ul>
    </li>
@@ -132,7 +130,7 @@ Para crear una cotización o carrito guardado, es necesario tener el [permiso Cr
 
 Una cotización es esencialmente un carrito guardado con las cantidades y precios originales de los ítems del carrito del usuario.
 
-![Crie uma cotação - ES](//images.ctfassets.net/alneenqid6w5/sIVQqxw1NtZLbqtI3K4we/2b38996c023fb754242a720a5a7066a3/Crie_uma_cota__o.png)
+![Crie uma cotação - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/B2B/b2b-quotes/gestionar-cotizaciones-en-b2b_2.png)
 
 ## Información de la cotización
 La página Información de la cotización muestra toda la información sobre una cotización o carrito guardado, así como las acciones disponibles en función del status y de los [permisos del usuario](#permisos-de-acceso). Para acceder a esta página, ve a **Mi cuenta > Cotizaciones y carritos guardados**.
@@ -155,7 +153,7 @@ En esta página verás la siguiente información:
 - **Historial de actualizaciones:** incluye un historial de todos los eventos relacionados con la cotización, como su creación y los descuentos ofrecidos, incluidas las observaciones, si las hubiera.
 - **Agregar observación:** campo opcional para ingresar comentarios u observaciones. Las observaciones aquí añadidas serán visibles como parte del Historial de actualizaciones de la cotización o carrito guardado. Por ejemplo, si un usuario quiere solicitar un descuento específico al vendedor de la tienda B2B, puede incluir esta solicitud como observación.
 
-![Detalhes da cotação - ES](//images.ctfassets.net/alneenqid6w5/5XLea07XtuCRfGJyvX819I/8d46379fe54a26b3d3a0a6ecdc19d2b1/Detalhes_da_cota__o.png)
+![Detalhes da cotação - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/B2B/b2b-quotes/gestionar-cotizaciones-en-b2b_3.png)
 
 ## Editar una cotización
 Los usuarios con [permisos](#permisos-de-acceso) de edición, normalmente asociados a roles de ventas o administradores de tienda, pueden editar cotizaciones en la página Información de la cotización de la siguiente manera:
@@ -180,8 +178,6 @@ Los usuarios con [permiso](#permisos-de-acceso) para realizar **Pedidos** desde 
 
 Para utilizar la cotización, haz clic en `Usar cotización` en la página de información de la cotización. Se te redirigirá al checkout con el contenido de la cotización o del carrito guardado, que se agregará automáticamente a tu carrito actual. Se eliminarán todos los ítems que estuvieran previamente en el carrito.
 
-<div class="alert alert-warning">
-Si la aplicación Configuración de <a href="https://help.vtex.com/es/tutorial/b2b-checkout-settings--u7wG1SjmeCqXCSF2UsVok">checkout B2B</a> está instalada, el checkout se bloqueará hasta que realices el pedido. Esto significa que no podrás modificar las cantidades de los productos ni agregar o remover nuevos productos. Si no hay suficientes ítems en stock para satisfacer la cantidad especificada en la cotización o carrito guardado, el sistema ajustará automáticamente la cantidad. Si un producto no está disponible, el checkout te permitirá removerlo del carrito.
-</div>
+> ⚠️ Si la aplicación Configuración de [checkout B2B](https://help.vtex.com/es/tutorial/b2b-checkout-settings--u7wG1SjmeCqXCSF2UsVok) está instalada, el checkout se bloqueará hasta que realices el pedido. Esto significa que no podrás modificar las cantidades de los productos ni agregar o remover nuevos productos. Si no hay suficientes ítems en stock para satisfacer la cantidad especificada en la cotización o carrito guardado, el sistema ajustará automáticamente la cantidad. Si un producto no está disponible, el checkout te permitirá removerlo del carrito.
 
 Una vez realizado el pedido, el status de la cotización o carrito guardado cambiará automáticamente a **Realizada**, impidiendo que pueda ser utilizado posteriormente.

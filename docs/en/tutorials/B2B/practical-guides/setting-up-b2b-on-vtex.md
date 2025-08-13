@@ -22,7 +22,7 @@ On VTEX, B2B environments are usually blocked, in whole or in part, for anonymou
 See below a description of the settings required for turning an account into B2B on VTEX.
 
 <div class="alert-info">
-<p>Every B2B store preparing to go into production and configure a final domain should contact <a href="https://support.vtex.com/hc/pt-br/requests">our Support</a> in advance and request that the internal configuration be done.</p>
+Every B2B store preparing to go into production and configure a final domain should contact [our Support](https://support.vtex.com/hc/pt-br/requests) in advance and request that the internal configuration be done.
 </div>
 
 ## Prerequisite
@@ -35,7 +35,7 @@ This is the most important step to activate the B2B. Upon setting up the B2B Com
 
 Usually, in traditional B2Bs, this field is filled out with the value `approved="true"` (where `approved` is the name of a field of the Client entity, in Master Data). Using this rule, only authenticated and approved users will be able to browse the website.
 
-![](https://images.contentful.com/alneenqid6w5/34rM0gmlgQOoqwwEG2c0ck/a506984d2e7c23381e05a6ad16306d9f/1.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/B2B/practical-guides/setting-up-b2b-on-vtex_1.png)
 
 ## 2.Customize the layout of B2B directories
 
@@ -49,13 +49,13 @@ Check out the basic characteristics of each type of user:
 
 Thus, to have a B2B environment, the **401** and **403** folders, under the **system** folder, must be customized.
 
-![](https://images.contentful.com/alneenqid6w5/4eOGUWH7nWqyQGCmIou6WO/1910b62f54515007e85aa3a82d04fb9e/2.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/B2B/practical-guides/setting-up-b2b-on-vtex_2.png)
 
 Browsing by Anonymous users (when attempting to access any page, they will be redirected to 401):
-![](https://images.contentful.com/alneenqid6w5/1bxTbhKatws2mgGiOGSUYW/8bf8e626bf53a8e785ffdcc5f2ffc813/3.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/B2B/practical-guides/setting-up-b2b-on-vtex_3.png)
 
 Browsing by non-approved users (when attempting to access any page, they will be redirected to 403):
-![](https://images.contentful.com/alneenqid6w5/1Ep24Fgl1SIG6Uw8Wmkq42/2a995f8d9c2be0e92629447c1e6d3948/4.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/B2B/practical-guides/setting-up-b2b-on-vtex_4.png)
 
 ## 3. Define pre-registration fields
 
@@ -63,9 +63,7 @@ Users not registered on the website need an interface for pre-registration. The 
 
 Accordingly, all pre-registration fields must be defined. B2B usually uses client information (name, email, phone etc.) and their address (street, district, city etc.) for purposes of pre-registration. Check our article [Import customer data - Brazil](https://help.vtex.com/en/tutorial/importando-dados-de-clientes-brasil--2zWYVOyj0sISYQmeUwCsI0 "Importar dados de clientes - Brasil") for more information about the required data.
 
-<div class="alert alert-warning">
-  <p>The field used as conditional rule in the commercial policy should not be included in this form, since users cannot approve themselves, this being under the responsibility of the store.</p>
-</div>
+> ⚠️ The field used as conditional rule in the commercial policy should not be included in this form, since users cannot approve themselves, this being under the responsibility of the store.
 
 ## 4. Create a pre-registration form
 
@@ -75,6 +73,4 @@ Upon the definition of fields, the pre-registration form must be created on the 
 
 Once the settings have been completed and the B2B is finally operating, the store owner’s routine will depend on their business rules and needs. Basically, at each new registration, the store owner should analyze and approve the user using the CRM interface, that they can access using the following URL: `http://{nome_da_conta}.vtexcrm.com.br/`.
 
-<div class="alert alert-info">
-  <p>This article describes basic B2B settings; however, there are several ways to customize the system according to this need, including by sending emails (triggers) based on pre-defined events.</p>
-</div>
+> ℹ️ This article describes basic B2B settings; however, there are several ways to customize the system according to this need, including by sending emails (triggers) based on pre-defined events.

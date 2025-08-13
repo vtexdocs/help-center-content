@@ -15,9 +15,7 @@ locale: pt
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
-<div class = "alert alert-info">
-  <p>Este artigo é válido apenas para lojas utilizando o CMS Portal (Legado).</p>
-</div>
+> ℹ️ Este artigo é válido apenas para lojas utilizando o CMS Portal (Legado).
 
 Progressive Web App (PWA) é um conjunto de técnicas usadas para desenvolver aplicações web e adicionar funcionalidades que antes eram restritas a aplicativos nativos.
 
@@ -33,8 +31,7 @@ Progressive Web App (PWA) é um conjunto de técnicas usadas para desenvolver ap
 
 Se você já tem um site ou uma aplicação web, pode implementar aos poucos as características que definem um PWA, como notificações, cache de arquivos, execução em modo offline e outras possibilidades que fazem o usuário se sentir em um aplicativo nativo.
 
-<div class="alert alert-warning">
-A VTEX <strong>não</strong> oferece soluções nativas para conversão em PWA no CMS Portal (Legado). A VTEX fornece, no entanto, a infraestrutura básica para implementação manual. Lojas desenvolvidas com o VTEX IO Store Framework possuem este recurso nativamente.</div>
+> ⚠️ A VTEX **não** oferece soluções nativas para conversão em PWA no CMS Portal (Legado). A VTEX fornece, no entanto, a infraestrutura básica para implementação manual. Lojas desenvolvidas com o VTEX IO Store Framework possuem este recurso nativamente.
 
 ## Instruções
 
@@ -69,7 +66,7 @@ Para criar o JSON, siga o passos abaixo:
 
 7. Clique em `Salvar`.
 
-<div class="alert alert-info"> <p><strong>Dica:</strong> Utilize ícones em resolução mínima de 192x192px e formate cores hexadecimais conforme sua identidade visual.</p> </div>
+> ℹ️ **Dica:** Utilize ícones em resolução mínima de 192x192px e formate cores hexadecimais conforme sua identidade visual.
 
 ### Adicione o arquivo `manifest.json` ao aplicativo web
 
@@ -127,7 +124,7 @@ Para criar o script, siga os passos abaixo:
 
 Embora o arquivo esteja em `/arquivos/service-worker.js`, ele recebe o header `Service-Worker-Allowed` com valor `/`, o que permite interceptar requests da raiz do site.
 
-<div class="alert alert-warning"> <p><strong>Atenção:</strong> O Service Worker só funcionará em ambientes HTTPS. Teste sempre em produção ou utilize tunnels seguros em desenvolvimento.</p> </div>
+> ⚠️ **Atenção:** O Service Worker só funcionará em ambientes HTTPS. Teste sempre em produção ou utilize tunnels seguros em desenvolvimento.
 
 Para saber mais sobre Service Worker, consulte a documentação do Google [Web Fundamentals](https://developers.google.com/web/fundamentals/primers/service-workers/).
 

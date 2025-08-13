@@ -15,9 +15,7 @@ locale: es
 subcategoryId: wUepkh8pzimEywO8oGUIc
 ---
 
-<div class="alert alert-info">
-Este artículo hace referencia a la versión más reciente de pricing de VTEX. Si su tienda aún no está en esta nueva versión, usted puede solicitar la migración poniéndose en contacto con nuestro equipo de atención.
-</div>
+> ℹ️ Este artículo hace referencia a la versión más reciente de pricing de VTEX. Si su tienda aún no está en esta nueva versión, usted puede solicitar la migración poniéndose en contacto con nuestro equipo de atención.
 
 Una __regla de precio__ es un conjunto de condiciones que determinan los precios para una cierta política comercial.
 

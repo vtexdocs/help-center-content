@@ -17,9 +17,7 @@ subcategoryId: 7fTH6bP0C4IaM8qWi0kkQC
 
 A doca é uma das etapas logísticas da sua loja. Ela é um ponto intermediário entre o estoque e a transportadora, funcionando como área de escoamento de produtos. As docas recebem itens vindos de estoques ou centros de distribuição, e entrega às transportadoras para que a entrega seja feita ao destinatário final. 
 
-<div class="alert alert-info">
-Para saber mais sobre o que é uma doca para a VTEX, consulte o artigo de <a href="https://help.vtex.com/pt/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj">Doca</a>.
-</div>
+> ℹ️ Para saber mais sobre o que é uma doca para a VTEX, consulte o artigo de [Doca](https://help.vtex.com/pt/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj).
 
 Este artigo contém as informações necessárias para:
 
@@ -30,9 +28,7 @@ Este artigo contém as informações necessárias para:
 
 É importante saber que para ter uma doca configurada corretamente é preciso: criar a doca, preencher os campos de cadastro (que determinaram horário de funcionamento, prioridade), e também associar a doca a [política comercial](https://help.vtex.com/pt/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE), ao estoque e a [política de envio](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140?&utm_source=autocomplete). 
 
-<div class="alert alert-warning">
-A ordem de cadastro sugerida na plataforma VTEX para o funcionamento esperado do sistema logístico é:<p><ul><li><a href="https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140">Política de envio</a></li><li><a href="https://help.vtex.com/pt/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj">Doca</a></li><li><a href="https://help.vtex.com/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb">Estoque</a></li></ul></p>
-</div>
+> ⚠️ A ordem de cadastro sugerida na plataforma VTEX para o funcionamento esperado do sistema logístico é:<ul><li>[Política de envio](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140)</li><li>[Doca](https://help.vtex.com/pt/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj)</li><li>[Estoque](https://help.vtex.com/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb)</li></ul>
 
 ## Cadastrar
 

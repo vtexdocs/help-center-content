@@ -19,15 +19,11 @@ O **Agent Builder** é uma ferramenta de conversação com o cliente baseada em 
 
 A funcionalidade se concentra em um agente orquestrador, que é o ponto de contato com o cliente e assume o controle do chat. Esse orquestrador aciona agentes colaboradores que retornam dados e informações conforme as necessidades do usuário.
 
-<div class = "alert alert-info">
-  <p>Para saber mais sobre os agentes colaboradores, leia o artigo <a href=”https://help.vtex.com/pt/tutorial/agentes-oficiais-da-weni-by-vtex--7E8wlD3T41CiOexDVH1SIy”>Agentes oficiais da Weni by VTEX</a>.</p>
-</div>
+> ℹ️ Para saber mais sobre os agentes colaboradores, leia o artigo <a href=”https://help.vtex.com/pt/tutorial/agentes-oficiais-da-weni-by-vtex--7E8wlD3T41CiOexDVH1SIy”>Agentes oficiais da Weni by VTEX</a>.
 
 Além de atribuir e testar esses agentes, você também pode criar agentes próprios que atendam a necessidades específicas da sua empresa.
 
-<div class="alert alert-warning">
-  <p>Para criar agentes customizados, use o CLI da Weni by VTEX. Confira a <a href=”https://weni-ai.github.io/weni-cli/getting-started/installation/”>documentação</a> para criar seu próprio agente.</p>
-</div>
+> ⚠️ Para criar agentes customizados, use o CLI da Weni by VTEX. Confira a <a href=”https://weni-ai.github.io/weni-cli/getting-started/installation/”>documentação</a> para criar seu próprio agente.
 
 ## Agent Builder
 
@@ -54,7 +50,7 @@ No campo <i class="fas fa-search" aria-hidden="true"></i>`Pesquisar`, você pode
 
 No canto superior, estão as datas das interações. Você pode clicar na data para alterar o intervalo de tempo e filtrar os resultados que aparecem.
 
-![Imagem Supervisor](//images.ctfassets.net/alneenqid6w5/5Uqo1q2IiTHirEU2NN3QJl/9302ead016b66680a701634e273a565a/Screenshot_2025-07-25_at_14.10.16.png)
+![Imagem Supervisor](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/agent-builder/visao-geral-agent-builder_1.png)
 
 ### Perfil
 
@@ -86,9 +82,7 @@ Na seção de **Instruções gerais**, você pode adicionar instruções diretas
 
 Se você adicionou uma instrução e quer deletá-la, basta clicar no botão de <i class="far fa-trash-alt" aria-hidden="true"></i> lixeira ao lado da instrução. Uma mensagem vai aparecer perguntando se você deseja remover a instrução. Clique em `Remover` para deletá-la ou `Cancelar` se deseja mantê-la. 
 
-<div class = "alert alert-info">
-  <p>Não há um limite para a quantidade de instruções.</p>
-</div>
+> ℹ️ Não há um limite para a quantidade de instruções.
 
 Ao final, para salvar as características do seu agente, clique no botão `Salvar alterações`, no canto direito da tela.
 
@@ -106,9 +100,7 @@ Nessa página, você pode adicionar arquivos, sites e textos à base de conhecim
 
 Para adicionar um arquivo à base de dados, clique em <i class="fas fa-plus" aria-hidden="true"></i>`Adicionar arquivo`.
 
-<div class="alert alert-warning">
-  <p>O upload só ocorrerá se os arquivos tiverem extensão <code>.pdf</code>, <code>.doc</code>, <code>.docx</code>, <code>.txt</code>, <code>.xls</code> ou <code>.xlsx</code> e até 50 MB de tamanho.</p>
-</div>
+> ⚠️ O upload só ocorrerá se os arquivos tiverem extensão `.pdf`, `.doc`, `.docx`, `.txt`, `.xls` ou `.xlsx` e até 50 MB de tamanho.
 
 Clicando nos <i class="fas fa-ellipsis-v" aria-hidden="true"></i>três pontos ao lado do nome do arquivo, é possível:
 
@@ -150,11 +142,11 @@ Abaixo de **Preview dos agentes,** há dois toggles:
 
 - **Feedback progressivo dos agentes:** ative o toggle <i class="fas fa-toggle-on" aria-hidden="true"></i> se quiser que o agente envie atualizações em tempo real ao usuário enquanto redige a resposta final. Caso contrário, deixe o toggle desativado <i class="fas fa-toggle-off" aria-hidden="true"></i>.
 
-![GIF Feedback progressivo dos agentes](//images.ctfassets.net/alneenqid6w5/4nkuKaLyY6mHfASXSxKHYA/52a0ddf2651314b204a1dc5e6c5a3367/PT_gif.gif)
+![GIF Feedback progressivo dos agentes](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/agent-builder/visao-geral-agent-builder_2.gif)
 
 - **Formato de mensagem múltipla:** ative o toggle <i class="fas fa-toggle-on" aria-hidden="true"></i> se quiser que o agente envie várias mensagens, como respostas rápidas, listas, catálogo. Caso contrário, deixe o toggle desativado <i class="fas fa-toggle-off" aria-hidden="true"></i>.
 
-![Formato de mensagem múltipla](//images.ctfassets.net/alneenqid6w5/UI2s7dILpF11AydI3EZXE/683c3fdf237803a44226c5758853d9da/Screenshot_2025-07-24_at_17.00.49.png)
+![Formato de mensagem múltipla](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/agent-builder/visao-geral-agent-builder_3.png)
 
 Abaixo de **Suporte humano,** há um toggle:
 
@@ -166,9 +158,7 @@ Na caixa de texto **Quando o agente deve transferir a conversa para um humano?**
 
 Nessa seção, você pode visualizar as credenciais utilizadas pelos agentes oficiais e pelos agentes personalizados.
 
-<div class = "alert alert-info">
-  <p>Leia mais sobre o assunto no artigo <a href="https://help.vtex.com/pt/tutorial/agentes-oficiais-da-weni-by-vtex--7E8wlD3T41CiOexDVH1SIy">Agentes oficiais da Weni by VTEX</a>.</p>
-</div>
+> ℹ️ Leia mais sobre o assunto no artigo [Agentes oficiais da Weni by VTEX](https://help.vtex.com/pt/tutorial/agentes-oficiais-da-weni-by-vtex--7E8wlD3T41CiOexDVH1SIy).
 
 #### Histórico de alterações
 

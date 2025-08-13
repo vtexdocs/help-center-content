@@ -24,15 +24,13 @@ Dos marketplaces disponibilizados, temos a opção de marketplace VTEX e marketp
 | **VTEX** | São os perfis de clientes VTEX que optaram abrir o seu ambiente para que sellers divulguem seus produtos para venda. |
 | **Externo** | São aqueles marketplaces que não são clientes VTEX e desenvolveram a integração, seja ela certificada ou parceira. |
 
-<div class= "alert alert-info">
-Note que a <b>Marketplaces e Integrações</b> é uma ferramenta que promove o contato entre potenciais parceiros, mas não é uma etapa obrigatória para tornar-se marketplace na VTEX. Se você deseja atuar como um marketplace VTEX, leia a documentação <a href="https://help.vtex.com/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#sendo-seller-vtex">Estratégias de marketplace na VTEX</a>.  
-</div>  
+> ℹ️ Note que a **Marketplaces e Integrações** é uma ferramenta que promove o contato entre potenciais parceiros, mas não é uma etapa obrigatória para tornar-se marketplace na VTEX. Se você deseja atuar como um marketplace VTEX, leia a documentação [Estratégias de marketplace na VTEX](https://help.vtex.com/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#sendo-seller-vtex).  
 
 ## Encontrando marketplaces  
 
 Para acessar a página, no Admin VTEX clique em __Marketplace > Conexões > Marketplaces e Integrações__. Na página será possível visualizar os marketplaces sugeridos para conexão e a lista completa de todos os marketplaces disponíveis ou já conectados.  
 
-![Marketplace e integrações](//images.ctfassets.net/alneenqid6w5/6O436Pjv91m3GWuWFsmeAD/563d08e7d74c4621111ae6a677725235/Marketplaces_e_Integra____es.png) 
+![Marketplace e integrações](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Integrations/integration-settings/marketplaces-e-integracoes_1.png) 
 
 A tabela que lista os marketplaces possui as seguintes colunas:  
 
@@ -80,9 +78,7 @@ Na tela irá aparecer uma mensagem de sucesso.
 
 Caso o seller necessite fazer novo contato com o mesmo marketplace, repita os passos acima.
 
-<div class= "alert alert-info">
-O potencial parceiro comercial receberá um email com as informações preenchidas no campo Mensagem. Caso o interesse seja mútuo, o encarregado pelo seller ou marketplace poderá entrar em contato e negociar os termos do acordo entre marketplace e seller.
-</div>  
+> ℹ️ O potencial parceiro comercial receberá um email com as informações preenchidas no campo Mensagem. Caso o interesse seja mútuo, o encarregado pelo seller ou marketplace poderá entrar em contato e negociar os termos do acordo entre marketplace e seller.  
 
 ## Editar  
 

@@ -19,21 +19,7 @@ La limitación en el acceso a una tienda puede ser implementado por diversas raz
 
 Este escenario se puede cumplir mediante el uso de Master Data v1 y la política comercial utilizada en la tienda.
 
-<div class="alert alert-warning">
-Este artículo describe el funcionamiento de Master Data v1. Es importante evaluar cuál versión de Master Data satisface las necesidades de tu operación o ya está en uso.
- <ul>
-<li>
-<a href="https://help.vtex.com/tutorial/master-data--4otjBnR27u4WUIciQsmkAw#versions-available">
-Características de las versiones de Master Data
- </a>
-</li>
-<li>
-<a href="https://developers.vtex.com/vtex-rest-api/docs/getting-started-1">
-Master Data v2
- </a>
-</li>
-</ul>
-</div>
+> ⚠️ Este artículo describe el funcionamiento de Master Data v1. Es importante evaluar cuál versión de Master Data satisface las necesidades de tu operación o ya está en uso. <ul> <li> [ Características de las versiones de Master Data ](https://help.vtex.com/tutorial/master-data--4otjBnR27u4WUIciQsmkAw#versions-available) </li> <li> [ Master Data v2 ](https://developers.vtex.com/vtex-rest-api/docs/getting-started-1) </li> </ul>
 
 ## Crear cluster de clientes
 
@@ -48,7 +34,7 @@ Después de crear el clúster, debe crear la regla en la política comercial de 
 3. En el campo de la **Regla condicional**, rellene el valor **NombreDelCluster=”true”**. Tenga en cuenta que el valor **NombreDelCluster** debe de ser cambiado por el nombre del campo en la entidad de datos.
 4. Haga click en el botón **Guardar**.
 
-![Catálogo ES](//images.ctfassets.net/alneenqid6w5/7r2ANIP2U6JDt1B0dxGmF6/d748769c9e6b3aa2f001942ed51d6e53/pol__ticas_comerciais_ES.png)
+![Catálogo ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/master-data/customer-relations-management/limitar-acceso-la-politica-comercial-la-tienda_1.png)
 
 En la configuración anterior, sólo los clientes con el valor verdadero (utilizando un campo booleano - cuando los datos son verdaderos o falsos) tendrán acceso al sitio.
 

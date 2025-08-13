@@ -34,17 +34,13 @@ VTEX's Checkout v6 combines information such as the customer's zip code, product
 - **Cheapest**: option with the lowest cost to the customer.
 - **Fastest**: option with the shortest shipping time.
 
-<div class="alert alert-warning">
-When only one type of shipping option is available for a given order, the <b>Cheapest</b> and <b>Fastest</b> options will not be shown at Checkout.
-</div>
+> ⚠️ When only one type of shipping option is available for a given order, the **Cheapest** and **Fastest** options will not be shown at Checkout.
 
 ## Disable the Optimized Shipping Options function
 
 The **Optimized Shipping Options** functionality is enabled by default in Checkout v6. However, in some regions, there may be scenarios that contribute to this function not being used. In countries such as Spain or the United States, where the available shipping options are similar, consumers prefer to choose a carrier based on their level of trust in the company.
 
-<div class="alert alert-warning">
-By disabling this function in Admin VTEX, all available shipping options will be displayed in the Checkout process. However, if the <a href="https://help.vtex.com/en/tutorial/divisao-de-pedidos-e-divisao-de-entregas--jQvzA6QgSd51e2p6bthoV#">Multiple Deliveries</a> functionality is enabled in the store and there are different delivery options between the selected items in the cart, the <b>Optimized Delivery Options</b> will continue to be displayed. That is, delivery optimization will be needed to handle multiple packages (items with different delivery options).
-</div>
+> ⚠️ By disabling this function in Admin VTEX, all available shipping options will be displayed in the Checkout process. However, if the [Multiple Deliveries](https://help.vtex.com/en/tutorial/divisao-de-pedidos-e-divisao-de-entregas--jQvzA6QgSd51e2p6bthoV#) functionality is enabled in the store and there are different delivery options between the selected items in the cart, the **Optimized Delivery Options** will continue to be displayed. That is, delivery optimization will be needed to handle multiple packages (items with different delivery options).
 
 To disable the __Optimized Shipping Options__ function, follow the steps below:
 
@@ -53,8 +49,8 @@ To disable the __Optimized Shipping Options__ function, follow the steps below:
 3. In the blue options menu located at the top of the page, click on __Checkout__.
 4. Under __Optimized Shipping Options__, click the <i class="fas fa-toggle-off"></i> to disable the __Optimize Shipping options display option__.
 
-![Optimized shipping options](//images.ctfassets.net/alneenqid6w5/4NfLhi5ao5JyVs4mNTwaRu/838428bac6e785ad6472fd87c18f1e1c/Optimized_shipping_options_EN.PNG)
+![Optimized shipping options](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Checkout/checkout-settings/optimization-of-shipping-options-at-checkout_1.PNG)
 
 <ul>
-  5. Click <b>Save</b>.
+  5. Click **Save**.
 </ul>

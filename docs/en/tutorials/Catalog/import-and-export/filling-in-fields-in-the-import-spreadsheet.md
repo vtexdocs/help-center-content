@@ -28,15 +28,7 @@ Depending on the quantity of products, their processing can be time consuming. A
 
 To better understand the meaning of each field in the spreadsheet, see the complete description of the Product and SKU related fields in Excel.
 
-<div class="alert alert-danger">
-  <p>When filling in <b>CaptionLink</b>, <b>DepartmentName</b>, <b>CategoryName</b> and <b>Brand</b>, avoid using the following reserved words, as this can hinder your store's performance and interfere with the functioning of VTEX Admin pages. See the list of reserved words below.
-  <ul>
-<li><code>a</code></li>
-<li><code>meta</code></li>
-<li><code>api</code></li>
-<li><code>admin</code></li>
-</ul></p>
-</div>
+> ❗ When filling in **CaptionLink**, **DepartmentName**, **CategoryName** and **Brand**, avoid using the following reserved words, as this can hinder your store's performance and interfere with the functioning of VTEX Admin pages. See the list of reserved words below. <ul> <li>`a`</li> <li>`meta`</li> <li>`api`</li> <li>`admin`</li> </ul>
 
 **SkuId:** the unique identifier number of the SKU. If this field is already filled in, you cannot change it. To add a new SKU, leave the column empty.
 

@@ -15,9 +15,7 @@ locale: en
 subcategoryId: 1rA9wuuskW3PpjvMrhatAM
 ---
 
-<div class = "alert alert-info">
-You can only access information from orders created in the last two years, and that same period is valid for customers through <a href="https://help.vtex.com/en/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh">My Account</a>.
-</div>
+> ℹ️ You can only access information from orders created in the last two years, and that same period is valid for customers through [My Account](https://help.vtex.com/en/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh).
 
 You can identify and manage errors in subscription orders in the Admin, in **Subscriptions** > **Dashboards** > **Subscription Orders**.
 
@@ -32,7 +30,7 @@ Issues in subscription cycles indicate that an obstacle prevented a subscription
 
 The **Cycles with an issue** tab displays subscription orders with such problems, as illustrated in the image below.
 
-![cicloscomproblema EN](//images.ctfassets.net/alneenqid6w5/5ijnWeUeqRzKWa2agsxK7O/8985fa930def4ec541d9127bc855740d/cicloscomproblema_EN.png)
+![cicloscomproblema EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/subscriptions/subscription-guides/troubleshooting-errors-in-subscription-orders_1.png)
 
 In this tab, you can manage orders with issues in subscription cycles and retry placing orders manually. For example, when a product is unavailable, you can edit its inventory and then try to order it again.
 
@@ -66,7 +64,7 @@ See in the table below possible issues in subscription cycles and their respecti
                 <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">Could not select a SLA for sku {SKU ID}</span>
             </td>
             <td class="t-body pa5" style="min-width: 15rem;">No shipping strategies associated with a particular SKU were found in the subscription order.
-                <p>
+                
                 This issue usually indicates that the SKU is out of stock or that a limitation occurred in the logistics setup.
             </td>
         </tr>
@@ -75,7 +73,7 @@ See in the table below possible issues in subscription cycles and their respecti
                 <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">No SLAs were found for this subscription</span>
             </td>
             <td class="t-body pa5" style="min-width: 15rem;">No shipping strategies associated with the subscription were found.
-                <p>
+                
                 This issue usually indicates that subscription items are out of stock or that a limitation occurred in the logistics setup, such as having no geographic coordinates in the customer's profile.
             </td>
         </tr>
@@ -85,7 +83,7 @@ See in the table below possible issues in subscription cycles and their respecti
                     Request items length is zero after simulation</span>
             </td>
             <td class="t-body pa5" style="min-width: 15rem;">
-                This message is displayed when the <a href="https://developers.vtex.com/vtex-rest-api/reference/orderform">shopping cart simulation</a> cannot find valid items to place the order. This issue can be identified hours later in the case of a new payment attempt. This is a foreseen scenario that cannot be avoided unless items have infinite inventory and a permanent shipping policy.
+                This message is displayed when the [shopping cart simulation](https://developers.vtex.com/vtex-rest-api/reference/orderform) cannot find valid items to place the order. This issue can be identified hours later in the case of a new payment attempt. This is a foreseen scenario that cannot be avoided unless items have infinite inventory and a permanent shipping policy.
             </td>
         </tr>
         <tr class="bb b--muted-3">
@@ -95,8 +93,8 @@ See in the table below possible issues in subscription cycles and their respecti
             </td>
             <td class="t-body pa5" style="min-width: 15rem;">
                 Indicates an issue in the address added by the customer for the subscription, such as invalid ZIP code or non-existing geographic coordinates.
-                <p>
-                To fix this issue, contact your customer and ask them to review their address details on the <strong>My account</strong> page.
+                
+                To fix this issue, contact your customer and ask them to review their address details on the **My account** page.
             </td>
         </tr>
         <tr class="bb b--muted-3">
@@ -106,8 +104,8 @@ See in the table below possible issues in subscription cycles and their respecti
             </td>
             <td class="t-body pa5" style="min-width: 15rem;">
                 This issue indicates there is information missing in the customer profile. For example, suppose a customer removes some personal information from their profile after their first purchase. On the next date of the subscription cycle, this issue will be detected.
-                <p>
-                To fix this issue, the customer must fill in the missing information in their profile on the <strong>My account</strong> page.
+                
+                To fix this issue, the customer must fill in the missing information in their profile on the **My account** page.
             </td>
         </tr>
         <tr class="bb b--muted-3">
@@ -117,8 +115,8 @@ See in the table below possible issues in subscription cycles and their respecti
             </td>
             <td class="t-body pa5" style="min-width: 15rem;">
                 This issue means that there is no payment method for the subscription.
-                <p>
-                To fix this issue, contact your customer and ask them to fill in the payment fields on the <strong>My account</strong> page.
+                
+                To fix this issue, contact your customer and ask them to fill in the payment fields on the **My account** page.
             </td>
         </tr>
         <tr class="bb b--muted-3">
@@ -132,8 +130,8 @@ See in the table below possible issues in subscription cycles and their respecti
                     <li>Invalid or incomplete credit card or address data.</li>
                     <li>Invalid Taxpayer Registration Number.</li>
                 </ul>        
-                <p>
-                    To fix this issue, contact your customer and ask them to review their data on the <strong>My account</strong> page.
+                
+                    To fix this issue, contact your customer and ask them to review their data on the **My account** page.
             </td>
         </tr>
         <tr class="bb b--muted-3">
@@ -142,10 +140,10 @@ See in the table below possible issues in subscription cycles and their respecti
                     Invalid PriceTag</span>
             </td>
             <td class="t-body pa5" style="min-width: 15rem;">
-                This message is displayed when there is a difference in <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">priceTags</span> responses between the <a href="https://developers.vtex.com/vtex-rest-api/reference/orderform">shopping cart simulation</a> and the order placement using the placeOrder API. Divergences between responses may prevent the order from being placed.
-                <p>
+                This message is displayed when there is a difference in <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">priceTags</span> responses between the [shopping cart simulation](https://developers.vtex.com/vtex-rest-api/reference/orderform) and the order placement using the placeOrder API. Divergences between responses may prevent the order from being placed.
+                
                     Placing orders with discounts using the placeOrder API depends on submitting <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">priceTags</span>, which specify the discounts previously obtained in the simulation.
-                <p>
+                
                 All <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">priceTags</span> that the system has applied for placing the order must be specified in advance in the API request. Otherwise, the order will not be placed, and this message is displayed. This is because the system understands that context conditions are not applicable since they depend on all <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">priceTags</span>  — including the undeclared ones.
             </td>
         </tr>
@@ -155,7 +153,7 @@ See in the table below possible issues in subscription cycles and their respecti
                     The payment amount is different from the order price.</span>
             </td>
             <td class="t-body pa5" style="min-width: 15rem;">
-                This message is displayed when there is a difference between the prices of the <a href="https://developers.vtex.com/vtex-rest-api/reference/orderform">shopping cart simulation</a> and the order placed via the placeOrder API.
+                This message is displayed when there is a difference between the prices of the [shopping cart simulation](https://developers.vtex.com/vtex-rest-api/reference/orderform) and the order placed via the placeOrder API.
             </td>
         </tr>
         <tr class="bb b--muted-3">
@@ -164,7 +162,7 @@ See in the table below possible issues in subscription cycles and their respecti
                     Unable to communicate with seller XXXXXX.</span>
             </td>
             <td class="t-body pa5" style="min-width: 15rem;">
-                This message is displayed when checkout cannot communicate with the seller to place the order. It tends to be a temporary issue that is solved by automatic retries in the <strong>Subscriptions</strong> module.
+                This message is displayed when checkout cannot communicate with the seller to place the order. It tends to be a temporary issue that is solved by automatic retries in the **Subscriptions** module.
             </td>
         </tr>
         <tr class="bb b--muted-3">
@@ -173,11 +171,11 @@ See in the table below possible issues in subscription cycles and their respecti
                     Subscription has invalid data to place order: [ADDRESS_DATA]</span>
             </td>
             <td class="t-body pa5" style="min-width: 15rem;">
-                This issue occurs only in stores that use <strong>Subscriptions V2</strong>. Each subscription cycle, the<strong> Subscriptions V2</strong> app does an extra validation and checks if any address changes were made since the subscription was created. If the address data are not exactly the same, this issue is detected.
-                <p>
-                For example, if a customer changes a letter in their address after creating a subscription, the <strong>Subscriptions V2</strong> module will detect the change and display this issue. 
-                <p>
-                To fix this issue, contact your customer and ask them to review their data on the <strong>My account</strong> page.
+                This issue occurs only in stores that use **Subscriptions V2**. Each subscription cycle, the** Subscriptions V2** app does an extra validation and checks if any address changes were made since the subscription was created. If the address data are not exactly the same, this issue is detected.
+                
+                For example, if a customer changes a letter in their address after creating a subscription, the **Subscriptions V2** module will detect the change and display this issue. 
+                
+                To fix this issue, contact your customer and ask them to review their data on the **My account** page.
             </td>
         </tr>
     </tbody>        
@@ -189,7 +187,7 @@ Payment errors occur during the payment approval flow, such as having a credit c
 
 You can view orders with this error on the **Payment Error** tab, as shown in the image below.
 
-![errosdepagamento EN](//images.ctfassets.net/alneenqid6w5/1RIw7xmqhpU4eWq0zHEnKG/4bea9e2c3fa3385e1fd1b1c0add2b0f0/errosdepagamento_EN.png)
+![errosdepagamento EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/subscriptions/subscription-guides/troubleshooting-errors-in-subscription-orders_2.png)
 
 To analyze payment errors, follow the steps below:
 
@@ -197,7 +195,7 @@ To analyze payment errors, follow the steps below:
 2. Click on the **Dashboards** tab.
 3. In the **Subscription Orders** section, click on the **Payment Error** tab.
 4. Identify the order you want to analyze and click on its ID, as illustrated in the image below. You will be redirected to the order details page in the **All Orders** module.
-  ![EN Log Erro de pagamento](//images.ctfassets.net/alneenqid6w5/2Bb1XYgaZEdNMVhcnX5lF3/a10c69783d57d09b70234c6dda18542d/EN_Log_Erro_de_pagamento.png)
+  ![EN Log Erro de pagamento](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/subscriptions/subscription-guides/troubleshooting-errors-in-subscription-orders_3.png)
 5. Then, click on **View transaction details** under the **Payment** card. You will be redirected to the **Transactions** page in the **Payments** module.
 6. On the **Transactions** page, you can view and analyze the order transaction events. Read the article [Viewing the order's details in Payments](https://help.vtex.com/en/tutorial/como-visualizar-detalhes-do-pedido) for more information.
 

@@ -19,14 +19,14 @@ SEO (Search Engine Optimization) es una de las estrategias más importantes para
 
 En tiendas desarrolladas con [FastStore](https://developers.vtex.com/docs/guides/faststore), puedes gestionar la configuración de SEO a través de [Headless CMS](https://help.vtex.com/es/tutorial/headless-cms-visao-geral--3U5gvhHdQL0jczYH8gjX09).
 
-<div class = "alert alert-info">Para tiendas desarrolladas con Store Framework, consulta <a href="https://help.vtex.com/es/tutorial/configurando-seo-em-sua-loja--1sKskEsjUSvgHyqM8oknVR">Configurar SEO en la tienda Store Framework</a>.</div>
+> ℹ️ Para tiendas desarrolladas con Store Framework, consulta [Configurar SEO en la tienda Store Framework](https://help.vtex.com/es/tutorial/configurando-seo-em-sua-loja--1sKskEsjUSvgHyqM8oknVR).
 
 ## Instrucciones
 
 1. En el Admin VTEX, accede a **Storefront > Headless CMS**.
 2. Haz clic en la página deseada.
 
-  <div class = "alert alert-info"><p>Esta configuración está disponible para los   siguientes <a href="https://developers.vtex.com/docs/guides/faststore/headless-cms-3-adding-content-types-and-sections">tipos de contenido</a>: <strong>Product Details Page (PDP)</strong>, <strong> Home</strong> y <strong>Landing Page</strong>.</p></div>
+  > ℹ️ Esta configuración está disponible para los   siguientes [tipos de contenido](https://developers.vtex.com/docs/guides/faststore/headless-cms-3-adding-content-types-and-sections): **Product Details Page (PDP)**, ** Home** y **Landing Page**.
 
 3. Cambia a la pestaña **Settings**.
 4. En **SEO** actualiza los campos relacionados. Consulta la lista de campos por tipo de contenido en [Campos de SEO por tipo de contenido](#campos-de-seo-por-tipo-de-contenido).

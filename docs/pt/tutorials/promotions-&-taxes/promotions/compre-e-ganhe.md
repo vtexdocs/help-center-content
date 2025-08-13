@@ -17,7 +17,7 @@ subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 
 A promoção Compre e Ganhe oferece frete grátis ou um brinde ao adicionar produtos ao carrinho. Quando os critérios são atendidos, esses benefícios são aplicados automaticamente. Por exemplo, ao comprar uma televisão, o frete pode ser gratuito, ou ao adquirir um videogame, um jogo extra pode ser adicionado ao pedido.
 
-![Compre e Ganhe-PT](//images.ctfassets.net/alneenqid6w5/6Jhx1J6n197TiAPgJq8j5h/46bf19850ff659f4108395ac862f8598/Compre_e_Ganhe-PT.gif)
+![Compre e Ganhe-PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promotions-&-taxes/promotions/compre-e-ganhe_1.gif)
 
 Para configurar o **Compre e Ganhe** o seller precisa executar os seguintes passos:
 
@@ -39,16 +39,16 @@ Para configurar o **Compre e Ganhe** o seller precisa executar os seguintes pass
 | **Campo**                                | **Descrição**                                                                                                                                                                                                                                    | **Exemplo**                                                                                                                                                                                                                  |
 |------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Nome**                                 | Escolha um nome claro e objetivo para a promoção (até 150 caracteres).                                                                                                                                                                                | Queima de Estoque de Verão: Compre e Ganhe Descontos!                                                                                                                                                                          |
-| **Status**                               | Defina se a promoção estará **Ativa** ou **Inativa**. Configure como <i class="fas fa-toggle-on" aria-hidden="true"></i> para aplicar a promoção conforme as datas e horários configurados. Configure como <i class="fas fa-toggle-off" aria-hidden="true"></i> para pausá-la, mesmo que esteja dentro do período definido. | ![Habilitar Promoções-PT](//images.ctfassets.net/alneenqid6w5/53JRRDwnwqYZHkAvXDHZ4q/eb0e4a15df178f7b63331d9260a00657/Habilitar_Promo__es-_PT.png) ![Desabilitar Promoções-PT](//images.ctfassets.net/alneenqid6w5/3kMog54wFdkBKNgBOped6G/a823005ec61016575bb71fcb7f95d428/desabilitar_Promo__es-_PT.png) |
+| **Status**                               | Defina se a promoção estará **Ativa** ou **Inativa**. Configure como <i class="fas fa-toggle-on" aria-hidden="true"></i> para aplicar a promoção conforme as datas e horários configurados. Configure como <i class="fas fa-toggle-off" aria-hidden="true"></i> para pausá-la, mesmo que esteja dentro do período definido. | ![Habilitar Promoções-PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promotions-&-taxes/promotions/compre-e-ganhe_2.png) ![Desabilitar Promoções-PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promotions-&-taxes/promotions/compre-e-ganhe_3.png) |
 | **Descrição**                            | A descrição interna da promoção deve ser usada para registrar informações destinadas à comunicação interna da loja. Este campo serve para especificar o motivo da promoção, como uma campanha específica ou uma queima de estoque. A descrição deve ter no máximo 10.000 caracteres. | Ao comprar um produto, você recebe um desconto no segundo produto.                                                                                                                   |
-| **Data de início e horário de início**   | Selecione a data e o horário exatos para o início da promoção, garantindo que ela seja ativada no momento desejado. Certifique-se de ajustar conforme o planejamento da campanha para maximizar sua eficácia.                                        | ![Data e horário de início da Promoções-PT](//images.ctfassets.net/alneenqid6w5/5gTtMgL4HlIDqOLXr0GlkR/f8f64dfaac287942539c14665ead4223/Data_e_horario_de_inicio_da_Promo__es-PT.png)                                         |
-| **Data de término e horário de término** | Defina o período de validade da promoção configurando a data e o horário exatos para sua desativação automática. A data deve ser posterior à data atual.                                                                                                                                  | ![Data de término e horário da Promoções-PT](//images.ctfassets.net/alneenqid6w5/47LXgLL2EnmPdeB7HBDAlc/88bd72f29fc641769bcea1ab501f667e/Data_de_termino_e_horario_da_Promo__es-PT.png)                                       |
-| **Usar configurações de recorrência**    | Selecione esta opção para programar a repetição automática da promoção em dias e horários específicos. Configure os intervalos desejados para garantir recorrência conforme o planejamento.                                                        | ![Usar recorrência-PT](//images.ctfassets.net/alneenqid6w5/45x0h14pQOrpBu6RacEheI/3c6a2c9c33077e70b3cef58153d463fd/Usar_recorrencia-PT.png)                                            |
+| **Data de início e horário de início**   | Selecione a data e o horário exatos para o início da promoção, garantindo que ela seja ativada no momento desejado. Certifique-se de ajustar conforme o planejamento da campanha para maximizar sua eficácia.                                        | ![Data e horário de início da Promoções-PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promotions-&-taxes/promotions/compre-e-ganhe_4.png)                                         |
+| **Data de término e horário de término** | Defina o período de validade da promoção configurando a data e o horário exatos para sua desativação automática. A data deve ser posterior à data atual.                                                                                                                                  | ![Data de término e horário da Promoções-PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promotions-&-taxes/promotions/compre-e-ganhe_5.png)                                       |
+| **Usar configurações de recorrência**    | Selecione esta opção para programar a repetição automática da promoção em dias e horários específicos. Configure os intervalos desejados para garantir recorrência conforme o planejamento.                                                        | ![Usar recorrência-PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promotions-&-taxes/promotions/compre-e-ganhe_6.png)                                            |
 
 ### Definir os sellers participantes 
 
 Nesta seção, você pode definir se a promoção será aplicada a todos os sellers ou apenas a sellers específicos. Selecione uma das opções a seguir para a aplicação da promoção.
-![Seller-PT](//images.ctfassets.net/alneenqid6w5/5bD08s04LIKlVljTm90OTe/b467774d461ba83c11eaa00ab9d6221d/Seller-PT.png)
+![Seller-PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promotions-&-taxes/promotions/compre-e-ganhe_7.png)
 
 Selecione uma das opções para a aplicação da promoção.
 
@@ -56,14 +56,12 @@ Selecione uma das opções para a aplicação da promoção.
 - **Iguais a:** selecione esta opção para incluir apenas sellers específicos na promoção. Após selecionar "Iguais a", você poderá escolher os sellers desejados no campo abaixo. Somente os sellers selecionados terão seus produtos incluídos na campanha.
 - **Diferentes de:** selecione esta opção para excluir sellers específicos da promoção. Após escolher "Diferentes de", você poderá selecionar os sellers que não deseja incluir na campanha. Todos os demais sellers estarão incluídos.
 
-<div class = "alert alert-warning">
-  <p>Não é possível selecionar diretamente um seller white label. Para incluir um seller white na promoção, existem duas opções:</p><ol>1. Restringir os sellers à loja principal. Essa restrição adiciona todos os sellers white label da sua loja à promoção.</ol><ol>2. Deixar a seleção vazia, incluindo todos os sellers. Aqui, todos os tipos de sellers - white label ou não - serão adicionados à promoção.</ol>
-</div>
+> ⚠️ Não é possível selecionar diretamente um seller white label. Para incluir um seller white na promoção, existem duas opções:<ol>1. Restringir os sellers à loja principal. Essa restrição adiciona todos os sellers white label da sua loja à promoção.</ol><ol>2. Deixar a seleção vazia, incluindo todos os sellers. Aqui, todos os tipos de sellers - white label ou não - serão adicionados à promoção.</ol>
 
 ### Selecionar políticas comerciais 
 Nesta seção, você pode selecionar as políticas comerciais que serão aplicadas à sua promoção. As políticas comerciais definem as condições de venda e entrega dos produtos.
 
-![Politica comercial-PT](//images.ctfassets.net/alneenqid6w5/60M2QAZWrFtGr6VNICkpIv/47e112c8908db2e1f20eb8c8daf918c0/Politica_comercial-PT.png)
+![Politica comercial-PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promotions-&-taxes/promotions/compre-e-ganhe_8.png)
 
 Você pode escolher entre as seguintes opções:
 
@@ -85,9 +83,7 @@ Para começar, defina as coleções, SKUs e a quantidade mínima necessária par
 - **Quantidade mínima:** defina a quantidade mínima de itens que o cliente deve adicionar ao carrinho para receber o benefício.
 - **Considerar apenas itens iguais:** marque esta opção se desejar que a promoção só seja ativada com produtos idênticos.
 
-<div class = "alert alert-warning">
-<p>Uma promoção Compre e Ganhe permite configurar até 100 SKUs diferentes simultaneamente.</p>
-</div>
+> ⚠️ Uma promoção Compre e Ganhe permite configurar até 100 SKUs diferentes simultaneamente.
 
 **O cliente ganha:**
 
@@ -143,9 +139,7 @@ Destaque a promoção na página de produtos e adicione dados personalizados par
 
 - **Destacar nos produtos:** marque esta opção para exibir a promoção diretamente nas páginas de produtos. Lembre-se de configurar essa exibição no módulo CMS.
 
-<div class = "alert alert-info">
-Lembre-se configurar essa exibição no módulo <a href=https://help.vtex.com/pt/tutorial/configurando-promocao-com-destaque-flag--tutorials_2295>CMS.</a>
-</div>
+> ℹ️ Lembre-se configurar essa exibição no módulo <a href=https://help.vtex.com/pt/tutorial/configurando-promocao-com-destaque-flag--tutorials_2295>CMS.</a>
 
 - **Informações adicionais:** clique em `Criar` para adicionar campos personalizados com nome e valor, que podem ser usados para customizações na loja.
 

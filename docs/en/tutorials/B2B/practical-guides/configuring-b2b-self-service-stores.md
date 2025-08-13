@@ -19,7 +19,7 @@ The self-service scenario is the most flexible in B2B. It allows the customer to
 
 This scenario offers advantages for users since they can explore the catalog, inventory, and prices freely, according to their user roles. In addition, they can view information and place orders at any time, without intermediaries.
 
-<div class="alert alert-info" role="info">For B2C clients who want to set up a B2B scenario, please contact <a href="https://support.vtex.com/hc/pt-br/requests">our Support</a>.</div>
+> ℹ️ For B2C clients who want to set up a B2B scenario, please contact [our Support](https://support.vtex.com/hc/pt-br/requests).
 
 One of the first decisions you must make when setting a B2B store is whether it will be open or closed to the public.
 
@@ -70,9 +70,7 @@ It should require essential information about the user to help you assess whethe
 
 In the B2B scenario, it is common to use basic information such as name, email, phone number, street name, and city. You can use a form to get this information. 
 
-<div class="alert alert-danger" role="alert">The field used as a conditional rule in the trade policy <strong>cannot be in this form</strong> because user approval is the store's responsibility.
-
-</div>
+> ❗ The field used as a conditional rule in the trade policy **cannot be in this form** because user approval is the store's responsibility.
 
 On VTEX, you can create forms through [Master Data](https://help.vtex.com/pt/tutorial/o-que-e-o-master-data--4otjBnR27u4WUIciQsmkAw "Master Data") — the store's database —, which stores information of the store's customer database and organizes the data received through forms.
 
@@ -84,7 +82,7 @@ To create a form, please follow the instructions below:
 
 So when a customer fills out the form, their data will be included in the Master Data customer table.
 
-<div class="alert alert-info" role="info">You can choose to create a form with more features, such as ZIP code autofill, multiple tabs, or NAICS (North American Industry Classification System) code. If you choose this type of form, check out the <a href="https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-creating-a-new-custom-page">VTEX IO</a> technical documentation.</div>
+> ℹ️ You can choose to create a form with more features, such as ZIP code autofill, multiple tabs, or NAICS (North American Industry Classification System) code. If you choose this type of form, check out the [VTEX IO](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-creating-a-new-custom-page) technical documentation.
 
 ### Approving users
 You can approve or add users in the [Master Data](https://help.vtex.com/pt/tutorial/o-que-e-o-master-data--4otjBnR27u4WUIciQsmkAw "Master Data"). Ecommerce managers are the ones responsible for approving customer access to store content. 
@@ -97,7 +95,7 @@ To determine which products each group of users will be able to view, you must c
 
 When creating or configuring a trade policy for the B2B context, you’ll need to select the products that will be associated with it. On VTEX, you can associate SKUs individually through the Admin or in bulk using the [Catalog API](https://developers.vtex.com/vtex-developer-docs/reference/catalog-api-overview "Catalog API").
 
-<div class="alert alert-info" role="info">We recommend configuring SKUs using the <a href="https://developers.vtex.com/vtex-developer-docs/reference/catalog-api-overview">Catalog API</a> — association or creation in bulk or individually — for companies that already have a mature ecommerce operation and manage and maintain their own product catalog in ecommerce. This infrastructure allows you to import the entire catalog with all current configurations via <a href="https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide">ERP integration</a>.</div>
+> ℹ️ We recommend configuring SKUs using the [Catalog API](https://developers.vtex.com/vtex-developer-docs/reference/catalog-api-overview) — association or creation in bulk or individually — for companies that already have a mature ecommerce operation and manage and maintain their own product catalog in ecommerce. This infrastructure allows you to import the entire catalog with all current configurations via [ERP integration](https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide).
 
 ### Configuring the logistics strategy
 
@@ -117,7 +115,7 @@ To configure it in the Admin, you must:
 
 In the configuration via [Logistics API](https://developers.vtex.com/vtex-developer-docs/reference/logistics-api-overview "Logistics API"), you must follow these exact instructions. However, you can use the [POST Create/Update Dock](https://developers.vtex.com/vtex-developer-docs/reference/docks#createupdatedock "POST Create/Update Dock")</code> endpoint to  associate a trade policy with a loading dock and a carrier with a loading dock by filling in the `salesChannels` and `freightTableIds` parameters, respectively.  
 
-To associate a warehouse with a loading dock, fill in the `warehouseDock` parameter of the <code>[POST Create/Update Warehouse](https://developers.vtex.com/vtex-developer-docs/reference/warehouses#createupdatewarehouse "POST Create/Update Warehouse")</code> endpoint.
+To associate a warehouse with a loading dock, fill in the `warehouseDock` parameter of the `[POST Create/Update Warehouse](https://developers.vtex.com/vtex-developer-docs/reference/warehouses#createupdatewarehouse "POST Create/Update Warehouse")` endpoint.
 
 ### Configuring prices
 
@@ -127,7 +125,7 @@ You can configure prices through [price tables](https://help.vtex.com/pt/tracks/
 2. Edit the pricing spreadsheet settings.
 3. Import the pricing spreadsheet you have configured.
 
-You can also create and edit price tables via the <code>[POST Create/Edit Fixed Prices on a price table (or trade policy)](https://developers.vtex.com/vtex-developer-docs/reference/prices-and-fixed-prices#createeditfixedpricesonapricetableortradepolicy "POST Create/Edit Fixed Prices on a price table (or trade policy)")</code> endpoint.
+You can also create and edit price tables via the `[POST Create/Edit Fixed Prices on a price table (or trade policy)](https://developers.vtex.com/vtex-developer-docs/reference/prices-and-fixed-prices#createeditfixedpricesonapricetableortradepolicy "POST Create/Edit Fixed Prices on a price table (or trade policy)")` endpoint.
 
 ### Configuring payment methods
 
@@ -137,7 +135,7 @@ Credit management is a versatile resource and, as a result, you can use it in di
 
 On VTEX, retailers can use [Customer Credit](https://help.vtex.com/pt/tutorial/customer-credit-visao-geral--1uIqTjWxIIIEW0COMg4uE0 "Customer Credit"), an app in which they can offer and manage the credits granted to their customers. To install the app, check out the complete step-by-step guide in [Installing Customer Credit ](https://help.vtex.com/pt/tracks/customer-credit-como-comecar--1hCRg21lXYy2seOKgqQ2CC/36grlQ69NK6OCuioeekyCs "Installing Customer Credit").
 
-<div class="alert alert-info" role="info">Standard payment methods, such as credit card and debit card, can also be configured for the B2B context. Credit management is the method most frequently used by customers.</div>
+> ℹ️ Standard payment methods, such as credit card and debit card, can also be configured for the B2B context. Credit management is the method most frequently used by customers.
 
 After installing the app in your store, you must configure Customer Credit as an available payment method. This way, your customers will be able to make their purchases using the credit granted to them. To configure Customer Credit as a payment method in your store, check out [this tutorial](https://help.vtex.com/pt/tracks/customer-credit-como-comecar--1hCRg21lXYy2seOKgqQ2CC/21ok0GBwmcIeaY2IukYMOg#condicoes-de-pagamento "this tutorial"). 
 

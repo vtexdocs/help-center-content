@@ -27,9 +27,7 @@ Las funcionalidades de televentas disponibles en VTEX son:
 - [Ingresar precio manual](#ingresar-precio-manual)
 - [Gestión de pedidos](#gestion-de-pedidos)
 
-<div class="alert alert-warning">
-  <p>Para acceder a la barra de herramientas de televentas, precios manuales y a la página <b><a href="https://help.vtex.com/es/tutorial/todos-os-pedidos--2QTduKHAJMFIZ3BAsi6Pi">Todos los pedidos</a></b>, el usuario debe estar registrado en la tienda con el rol de <a href="https://help.vtex.com/es/tutorial/como-criar-um-usuario-de-televendas--frequentlyAskedQuestions_4227">Call center operator</a>.</p>
-</div>
+> ⚠️ Para acceder a la barra de herramientas de televentas, precios manuales y a la página **[Todos los pedidos](https://help.vtex.com/es/tutorial/todos-os-pedidos--2QTduKHAJMFIZ3BAsi6Pi)**, el usuario debe estar registrado en la tienda con el rol de [Call center operator](https://help.vtex.com/es/tutorial/como-criar-um-usuario-de-televendas--frequentlyAskedQuestions_4227).
 
 Además, es necesario configurar estas funcionalidades de antemano, siguiendo los pasos del tutorial [Cómo configurar las funcionalidades de televentas](https://help.vtex.com/es/tutorial/como-configurar-as-funcionalidades-de-televendas--76FNgQP2Glc4umMJ5Yr50R).
 
@@ -41,9 +39,7 @@ La barra de herramientas de televentas es una barra superior que se muestra en e
 
 Para saber cómo utilizar esta función, consulte el tutorial [Barra de herramientas de televentas](https://help.vtex.com/es/tutorial/usando-e-customizando-toolbar-de-televendas--tutorials_5500).
 
-<div class = "alert alert-info">
-Un caso de uso de la funcionalidad de televentas es importar pedidos de otras plataformas al módulo Pedidos de Admin VTEX. Para ello, puedes asociar una <a href="https://help.vtex.com/es/tutorial/crear-una-politica-comercial--563tbcL0TYKEKeOY4IAgAE">política comercial</a> específica con el pago mediante <a href="https://help.vtex.com/es/tutorial/configurar-pagos-con-pagare--5pW7avTwtyQcMu4uiW8quQ">pagaré</a> (medio de pago aprobado de forma inmediata y manual por el propio operador).
-  </div>
+> ℹ️ Un caso de uso de la funcionalidad de televentas es importar pedidos de otras plataformas al módulo Pedidos de Admin VTEX. Para ello, puedes asociar una [política comercial](https://help.vtex.com/es/tutorial/crear-una-politica-comercial--563tbcL0TYKEKeOY4IAgAE) específica con el pago mediante [pagaré](https://help.vtex.com/es/tutorial/configurar-pagos-con-pagare--5pW7avTwtyQcMu4uiW8quQ) (medio de pago aprobado de forma inmediata y manual por el propio operador).
 
 ### Mi cuenta
 
@@ -74,9 +70,7 @@ Para acceder al menú Suscripciones sigue los pasos a continuación:
 - `Nueva suscripción` para crear una suscripción.
 - `Ver detalles` para editar una suscripción existente.
 
-<div class = "alert alert-info">
-  <p>Para saber más sobre suscripciones, consulta <a href="https://help.vtex.com/es/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453">Cómo funciona Suscripciones</a>.</p>
-</div>
+> ℹ️ Para saber más sobre suscripciones, consulta [Cómo funciona Suscripciones](https://help.vtex.com/es/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453).
 
 ## Carrito Compartido
 

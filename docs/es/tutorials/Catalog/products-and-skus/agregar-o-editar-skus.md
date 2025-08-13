@@ -25,9 +25,7 @@ Todo nuevo SKU debe vincularse a un producto. Para registrar un nuevo SKU despu�
 4. Haz clic en el ícono + para **Abrir las opciones de agregar SKUs**.
 5. Haz clic en `Agregar nuevo SKU`.
 
-  <div class="alert alert-info">
-Puedes crear un nuevo SKU a partir de otro SKU existente en el producto en la pestaña SKUs, haciendo clic en <b>ícono de menú del SKU > Duplicar > Guardar</b>.
-</div>
+  > ℹ️ Puedes crear un nuevo SKU a partir de otro SKU existente en el producto en la pestaña SKUs, haciendo clic en **ícono de menú del SKU > Duplicar > Guardar**.
 
 6. Rellena los campos del formulario de registro de SKU, según se describe en las secciones:
 
@@ -44,21 +42,17 @@ Puedes crear un nuevo SKU a partir de otro SKU existente en el producto en la pe
 
 7. Haz clic en `Guardar`.
 
-<div class="alert alert-warning">
-Puedes inactivar un SKU después de crearlo, pero no puedes eliminarlo si es el único SKU del producto. La plataforma solo permite eliminar SKUs y productos en masa mediante <a href="https://help.vtex.com/es/tutorial/manutencao-de-base-full-cleanup--34P9LGs7BCIQK6acQom802">Mantenimiento de base de datos (Full Cleanup)</a>.
-</div>
+> ⚠️ Puedes inactivar un SKU después de crearlo, pero no puedes eliminarlo si es el único SKU del producto. La plataforma solo permite eliminar SKUs y productos en masa mediante [Mantenimiento de base de datos (Full Cleanup)](https://help.vtex.com/es/tutorial/manutencao-de-base-full-cleanup--34P9LGs7BCIQK6acQom802).
 
 Después de crear el SKU, puedes monitorear su disponibilidad para la venta a través del ícono de color. Al pasar el mouse sobre el ícono, se muestra un texto que explica el significado del color, según se ilustra en la siguiente imagen. Más información en [Productos y SKUs](https://help.vtex.com/es/tutorial/productos-y-skus--2ig7TmROlirWirZjFWZ3By).
 
-![adding_or_editting_sku_ES](//images.ctfassets.net/alneenqid6w5/74p412VGa4kW3IH97tpeEA/921142f7de70981b27c0e1e022beb960/adding_or_editting_sku_ES.png)
+![adding_or_editting_sku_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Catalog/products-and-skus/agregar-o-editar-skus_1.png)
 
 Además, después de registrar el SKU puedes agregarlo a un [kit](https://help.vtex.com/es/tutorial/o-que-e-um-kit--5ov5s3eHM4AqAAgqWwoc28) haciendo clic en el ícono de menú en la fila del SKU deseado y seleccionando la opción `Crear kit`. Ten en cuenta que transformar un SKU en un kit es permanente y no se puede deshacer.
 
 En las siguientes secciones se describen los campos del formulario, incluyendo detalles sobre cómo rellenarlos.
 
-<div class="alert alert-warning">
-  <p>Hay un límite de 50 SKU por producto. Para solicitar que se amplíe el límite, ponte en contacto con <a href= "https://support.vtex.com/hc/es-419/requests">nuestro Soporte</a>.</p>
-</div>
+> ⚠️ Hay un límite de 50 SKU por producto. Para solicitar que se amplíe el límite, ponte en contacto con <a href= "https://support.vtex.com/hc/es-419/requests">nuestro Soporte</a>.
 
 ## Nombre y status
 
@@ -73,13 +67,9 @@ Las especificaciones son características configuradas en el SKU que el cliente 
 
 Los campos de la sección **Especificaciones** pueden variar dependiendo del producto al que el SKU está asociado.
 
-<div class="alert alert-warning">
-Cuando existe una especificación de SKU, es obligatorio rellenarla. Para más información, consulta el artículo <a href="https://help.vtex.com/es/tutorial/cadastrar-especificacoes-ou-campos-de-sku--tutorials_119">Registrar especificaciones o campos de SKU</a>.
-</div>
+> ⚠️ Cuando existe una especificación de SKU, es obligatorio rellenarla. Para más información, consulta el artículo [Registrar especificaciones o campos de SKU](https://help.vtex.com/es/tutorial/cadastrar-especificacoes-ou-campos-de-sku--tutorials_119).
 
-<div class="alert alert-danger">
-No es posible crear un SKU con la misma combinación de valores que ya existen en otro SKU. Por ejemplo, si la combinación de SKU A es negro y talla S, no sería posible crear el SKU B con negro y talla S, ya que se generaría un conflicto. Sin embargo, si el color del SKU A fuera negro y el del SKU B fuera azul, incluso manteniendo la talla P para ambos, no habría conflicto, ya que las combinaciones serían diferentes. Si lo deseas, puedes desactivar un SKU, pero la plataforma no te permite eliminar un solo SKU.
-</div>
+> ❗ No es posible crear un SKU con la misma combinación de valores que ya existen en otro SKU. Por ejemplo, si la combinación de SKU A es negro y talla S, no sería posible crear el SKU B con negro y talla S, ya que se generaría un conflicto. Sin embargo, si el color del SKU A fuera negro y el del SKU B fuera azul, incluso manteniendo la talla P para ambos, no habría conflicto, ya que las combinaciones serían diferentes. Si lo deseas, puedes desactivar un SKU, pero la plataforma no te permite eliminar un solo SKU.
 
 ## Contenido multimedia
 
@@ -100,11 +90,9 @@ La siguiente tabla presenta los límites y formatos aceptados para las imágenes
 | Tamaño mínimo en píxeles | 600 x 600 píxeles |
 | Tamaño máximo en MB | 4 MB |
 | Tamaño mínimo en KB | 300 KB |
-| Extensiones de archivo permitidas | <p><ul><li>JPG</li><li>PNG</li><li>GIF</li><li>ICO</li><li>SVG</li><li>WEBP</li></ul></p> |
+| Extensiones de archivo permitidas | <ul><li>JPG</li><li>PNG</li><li>GIF</li><li>ICO</li><li>SVG</li><li>WEBP</li></ul> |
 
-<div class = "alert alert-info">
-  <p>Para más recomendaciones, consulta el artículo <a href="https://help.vtex.com/es/tutorial/buenas-practicas-para-el-uso-de-imagenes-en-el-catalogo--738K2yfq5U86kUI2k4AQIk">Buenas prácticas para el uso de imágenes en el Catálogo</a>.</p>
-</div>
+> ℹ️ Para más recomendaciones, consulta el artículo [Buenas prácticas para el uso de imágenes en el Catálogo](https://help.vtex.com/es/tutorial/buenas-practicas-para-el-uso-de-imagenes-en-el-catalogo--738K2yfq5U86kUI2k4AQIk).
 
 Después cargar una imagen, puedes editar los metadatos siguiendo los pasos a continuación:
 
@@ -120,9 +108,7 @@ Además de agregar nuevas imágenes a un SKU, puedes replicar las imágenes de u
 2. En la ventana modal **Escoge los SKUs en que deseas replicar los elementos multimedia**, haz clic en los SKUs a los que deseas agregar las imágenes copiadas.
 3. Haz clic en `Aplicar`.
 
-<div class="alert alert-warning">
-Uno de los requisitos para activar un SKU es que tenga al menos una imagen. Para más información sobre las condiciones para mostrar un ítem en el storefront, consulta el artículo <a href="https://help.vtex.com/es/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382">¿Por qué el producto no aparece en el sitio web?</a>.
-</div>
+> ⚠️ Uno de los requisitos para activar un SKU es que tenga al menos una imagen. Para más información sobre las condiciones para mostrar un ítem en el storefront, consulta el artículo [¿Por qué el producto no aparece en el sitio web?](https://help.vtex.com/es/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382).
 
 ### Videos
 
@@ -141,7 +127,7 @@ El SKU puede tener hasta 6 videos y la **única forma de agregarlos es utilizand
 - `https://www.youtube.com/embed/{VIDEO_ID}`
 - `https://www.youtube.com/v/{VIDEO_ID}`
 
-<div class="alert alert-warning">Sustituye <code>{VIDEO_ID}</code> con el ID del video que deseas mostrar.</div>
+> ⚠️ Sustituye `{VIDEO_ID}` con el ID del video que deseas mostrar.
 
 ## Identificadores
 
@@ -170,9 +156,7 @@ Los siguientes campos se utilizan para [calcular el factor volumétrico de peso]
 * **Altura del paquete:** valor absoluto de la altura.
 * **Longitud del paquete:** valor absoluto de la longitud.
 
-<div class="alert alert-info">
-Los campos deben llenarse solo con números sin unidades de medida, ya que el sistema considera automáticamente las unidades registradas en el catálogo de la tienda.
-</div>
+> ℹ️ Los campos deben llenarse solo con números sin unidades de medida, ya que el sistema considera automáticamente las unidades registradas en el catálogo de la tienda.
 
 ### Peso y dimensiones reales
 
@@ -190,9 +174,7 @@ Los siguientes campos definen cómo se organizará y contabilizará el SKU en el
 * **Unidad de medida:** identificación de la unidad de medida utilizada para contabilizar los ítems en stock.
 * **Multiplicador de unidad:** valor numérico que se utiliza para multiplicar el SKU y definir la cantidad en el carrito. Por ejemplo, un multiplicador de 5 significa que cada SKU representa 5 ítems en el carrito y solo permite compras en múltiplos de 5 como, por ejemplo, 10 o 15 ítems. Los valores de fracciones se pueden separar con punto o coma. Por ejemplo, medio kilogramo se puede indicar como 0.5 o 0,5.
 
-<div class="alert alert-warning">
-  <p>El valor en el campo multiplicador de unidad no tiene impacto en los cálculos de inventario y logística.</p>
-</div>
+> ⚠️ El valor en el campo multiplicador de unidad no tiene impacto en los cálculos de inventario y logística.
 
 ## Estrategia comercial
 
@@ -212,9 +194,7 @@ Para vincular una personalización al SKU, haz clic en el ícono de agregar +, s
 * `Anexos`: al hacer clic en esta opción, se abre la ventana modal **Selecciona los anexos que deseas vincular**. Selecciona los anexos deseados y haz clic en `Aplicar`.
 * `Servicios`: al hacer clic en esta opción, se abre la ventana modal **Nuevo servicio**. Rellena los campos y activa el botón de alternancia <i class="fas fa-toggle-on" aria-hidden="true"></i> **Activo**. Para guardar la información, haz clic en `Aplicar`.
 
-<div class="alert alert-warning">
-Las opciones de anexos y servicios disponibles para el SKU deben configurarse previamente. Para más información, consulta los artículos <a href="https://help.vtex.com/es/tutorial/cadastrar-um-anexo--7zHMUpuoQE4cAskqEUWScU">Registrar un anexo</a> y <a href="https://help.vtex.com/es/tutorial/criar-servico-para-um-sku--tutorials_252">Crear servicio para un SKU</a>.
-</div>
+> ⚠️ Las opciones de anexos y servicios disponibles para el SKU deben configurarse previamente. Para más información, consulta los artículos [Registrar un anexo](https://help.vtex.com/es/tutorial/cadastrar-um-anexo--7zHMUpuoQE4cAskqEUWScU) y [Crear servicio para un SKU](https://help.vtex.com/es/tutorial/criar-servico-para-um-sku--tutorials_252).
 
 ## Cross-sells y up-sells
 
@@ -240,9 +220,7 @@ Para configurar alguna de estas opciones, sigue los pasos a continuación:
 3. En el campo de texto de la ventana modal que se abre, ingresa el ID de SKU del ítem deseado.
 4. Haz clic en `Aplicar`.
 
-<div class="alert alert-info">
-Para más información, consulta el artículo <a href="https://help.vtex.com/es/tutorial/configurar-produto-similar-sugestoes-acessorios-e-genericos--tutorials_280">Consultar producto similar, sugerencias, accesorios y genéricos</a>.
-</div>
+> ℹ️ Para más información, consulta el artículo [Consultar producto similar, sugerencias, accesorios y genéricos](https://help.vtex.com/es/tutorial/configurar-produto-similar-sugestoes-acessorios-e-genericos--tutorials_280).
 
 ## Más información
 

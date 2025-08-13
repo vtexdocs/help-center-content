@@ -63,9 +63,7 @@ Este artigo responde a dúvidas frequentes sobre o **VTEX Sales App** e está di
 
   [18 - O VTEX Sales App suporta cenários de contas que utilizam Cartões de loja (bandeira própria)?](#18-o-vtex-sales-app-suporta-cenarios-de-contas-que-utilizam-cartoes-de-loja-bandeira-propria)
 
-<div class = "alert alert-info">
-Para mais informações, confira a trilha de artigos <a href="https://help.vtex.com/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc">VTEX Sales App - Primeiros passos e configurações</a> ou assista a um <a href="https://www.youtube.com/watch?v=bWZnfJ4-tZo">demo vídeo</a>.
-</div>
+> ℹ️ Para mais informações, confira a trilha de artigos [VTEX Sales App - Primeiros passos e configurações](https://help.vtex.com/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc) ou assista a um [demo vídeo](https://www.youtube.com/watch?v=bWZnfJ4-tZo).
 
 ## Arquitetura de conta
 
@@ -84,9 +82,7 @@ Algumas funcionalidades do **VTEX Sales App** são ativadas com determinadas car
 
 Quando o lojista deseja disponibilizar para os clientes um grande volume de itens e ter uma logística de entrega otimizada, ele pode usar no **VTEX Sales App** a mesma política comercial do centro de distribuição.
 
-<div class = "alert alert-info">
-Mais informações no artigo <a href="https://help.vtex.com/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/1wtAanSRA3g2316dw7bw8u">Pré-requisitos para usar o VTEX Sales App</a>.
-</div>
+> ℹ️ Mais informações no artigo [Pré-requisitos para usar o VTEX Sales App](https://help.vtex.com/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/1wtAanSRA3g2316dw7bw8u).
 
 ### 3. O que é necessário para a loja disponibilizar o inventário de estoque local via VTEX Sales App?
 
@@ -97,9 +93,7 @@ Para vender seu estoque local (On Hands), a loja precisa atender os seguintes cr
 
 Essa integração entre a plataforma VTEX e o sistema da loja é o que proporciona aos clientes a experiência de carrinhos mistos, contendo em um único pedido e transação financeira tanto itens do estoque local quanto dos remotos.
 
-<div class = "alert alert-info">
-Para disponibilizar o inventário de estoque local, realize os passos descritos no artigo <a href="https://help.vtex.com/pt/tutorial/habilitar-venda-de-estoque-local-do-vtex-sales-app--54eQN4rOH5yBYPGG2w8v9q?&utm_source=autocomplete">Habilitar Venda de estoque local do VTEX Sales App</a>.
-</div>
+> ℹ️ Para disponibilizar o inventário de estoque local, realize os passos descritos no artigo [Habilitar Venda de estoque local do VTEX Sales App](https://help.vtex.com/pt/tutorial/habilitar-venda-de-estoque-local-do-vtex-sales-app--54eQN4rOH5yBYPGG2w8v9q?&utm_source=autocomplete).
 
 ### 4. O VTEX Sales App é igualmente estratégico para qualquer modelo de negócio?
 
@@ -115,9 +109,7 @@ Isso ainda não é possível. Caso tenha interesse nesta funcionalidade para [B2
 
 Não, o **VTEX Sales App** foi desenvolvido para ser utilizado pela equipe de vendas da loja, tanto para atender os clientes quanto para auxiliar no gerenciamento da equipe. Ele permite, por exemplo, que vendedores e gestores acompanhem os resultados das vendas pelo [Performance de vendas](https://help.vtex.com/pt/tutorial/sales-app-performance-de-vendas--7i4Elt835tatBM6iqZoc56).
 
-<div class="alert alert-warning">
-Até certo ponto, o <b>VTEX Sales App</b> pode ser manuseado diretamente pelos clientes da loja, por meio de dispositivos como totens touch screen no PDV. No entanto, a participação dos vendedores nessa experiência é indispensável para garantir a eficiência no atendimento e a segurança da informação.
-</div>
+> ⚠️ Até certo ponto, o **VTEX Sales App** pode ser manuseado diretamente pelos clientes da loja, por meio de dispositivos como totens touch screen no PDV. No entanto, a participação dos vendedores nessa experiência é indispensável para garantir a eficiência no atendimento e a segurança da informação.
 
 ### 7. É possível gerenciar metas de venda pelo VTEX Sales App?
 
@@ -129,9 +121,7 @@ Para um serviço especializado no gerenciamento de metas dos vendedores, recomen
 
 Sim, para isso basta que o vendedor utilize a funcionalidade **Forçar estoque**. Saiba mais na nossa documentação para desenvolvedores [Force stock availability](https://developers.vtex.com/docs/guides/force-stock-availability). 
 
-<div class = "alert alert-info">
-<p>Para entender os motivos para um produto disponível no estoque local aparecer como indisponível no sistema, confira os artigos:</p><p><ul><li><a href="https://help.vtex.com/pt/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382">Por que o produto não aparece no site?</a></li><li><a href="https://help.vtex.com/pt/tutorial/quais-configuracoes-logisticas-impactam-na-disponibilidade-do-produto-no-carrinho--NAyBFToRdvlDyOzeeAeNw">Quais configurações logísticas impactam na disponibilidade do produto no carrinho?</a></li></ul></p>
-</div>
+> ℹ️ Para entender os motivos para um produto disponível no estoque local aparecer como indisponível no sistema, confira os artigos:<ul><li>[Por que o produto não aparece no site?](https://help.vtex.com/pt/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382)</li><li>[Quais configurações logísticas impactam na disponibilidade do produto no carrinho?](https://help.vtex.com/pt/tutorial/quais-configuracoes-logisticas-impactam-na-disponibilidade-do-produto-no-carrinho--NAyBFToRdvlDyOzeeAeNw)</li></ul>
 
 ### 9. O VTEX Sales App tem alguma limitação de funcionamento em dispositivos, como somente versão mobile?
 
@@ -141,9 +131,7 @@ Esta limitação não existe, o **VTEX Sales App** pode ser utilizado em diverso
 
 Sim, o uso da solução requer conexão à internet, e vale a qualidade do sinal impacta diretamente na experiência dos clientes. Uma velocidade de conexão melhor proporciona experiências melhores.
 
-<div class = "alert alert-info">
-Para conhecer as condições para uso da solução, confira o artigo <a href="https://help.vtex.com/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/1wtAanSRA3g2316dw7bw8u">Pré-requisitos para usar o VTEX Sales App</a>.
-</div>
+> ℹ️ Para conhecer as condições para uso da solução, confira o artigo [Pré-requisitos para usar o VTEX Sales App](https://help.vtex.com/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/1wtAanSRA3g2316dw7bw8u).
 
 ### 11. Quem não é cliente VTEX consegue usar o VTEX Sales App?
 
@@ -173,9 +161,7 @@ A solução permite utilizar os seguintes [meios de pagamento](https://help.vtex
 
 Se em uma venda no **VTEX Sales App** você deseja utilizar um meio de pagamento configurado no seu ecommerce, mas que não aparece na lista acima, existe uma forma de fazer isso. Basta que os vendedores finalizem a venda usando o [carrinho compartilhado (Social Selling)](https://help.vtex.com/pt/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr/6deiffo22iKkY27PkfstXy), de forma a enviar o link de pagamento para os clientes. Pedidos pagos pelos links não são processados pelo checkout do **VTEX Sales App** e sim pelo checkout do ecommerce, permitindo à loja dispor de todos os meios de pagamento configurados para o ecommerce.
 
-<div class="alert alert-danger">
-O <b>VTEX Sales App</b> não admite pagamentos em dinheiro envolvendo o caixa da loja física. Saiba mais no artigo <a href="https://help.vtex.com/pt/tracks/instore-pagamentos--43B4Nr7uZva5UdwWEt3PEy/2liigRors32hzqBNs2M1Oa">VTEX Sales App - Pagamentos</a>.
-</div>
+> ❗ O **VTEX Sales App** não admite pagamentos em dinheiro envolvendo o caixa da loja física. Saiba mais no artigo [VTEX Sales App - Pagamentos](https://help.vtex.com/pt/tracks/instore-pagamentos--43B4Nr7uZva5UdwWEt3PEy/2liigRors32hzqBNs2M1Oa).
 
 ### 15. Quais conectores de pagamento atuam como adquirentes para compras com cartões no VTEX Sales App?
 
@@ -196,9 +182,7 @@ Sim, é possível configurar conectores e meios de pagamento exclusivos para o *
 
 Sim, ter [contas franquia](https://help.vtex.com/pt/tutorial/o-que-e-conta-franquia--kWQC6RkFSCUFGgY5gSjdl) ou [sellers white label](https://help.vtex.com/pt/tutorial/seller-white-label--5orlGHyDHGAYciQ64oEgKa) é uma condição para a loja usar o [Split de pagamento](https://help.vtex.com/pt/tutorial/split-de-pagamento--6k5JidhYRUxileNolY2VLx) (também conhecido como split de recebíveis). Esta é uma funcionalidade especialmente relevante em cenários envolvendo marketplaces e pedidos atendidos por múltiplos sellers.
 
-<div class="alert alert-warning">
-O único conector que permite o Split de pagamentos no <b>VTEX Sales App</b> é a PagarMe.
-</div>
+> ⚠️ O único conector que permite o Split de pagamentos no **VTEX Sales App** é a PagarMe.
 
 ### 18. O VTEX Sales App suporta cenários de contas que utilizam Cartões de loja (bandeira própria)?
 

@@ -21,7 +21,7 @@ Para algunos administradores de tienda, existe la necesidad de crear una autenti
 
 Debido a esto, VTEX pone a disposición la __autenticación OAuth2__ integrada a VTEX ID.
 
-<div class="alert alert-warning">Como este es un asunto con aspectos bastante técnicos, recomendamos el acompañamiento de un compañero o equipo de TI.</div>
+> ⚠️ Como este es un asunto con aspectos bastante técnicos, recomendamos el acompañamiento de un compañero o equipo de TI.
 
 ### ¿Qué es OAuth2?
 
@@ -38,7 +38,7 @@ Puede consultar la guía oficial del protocolo OAuth2 en esta dirección: https:
 ### Flujo de integración de OAuth2 con VTEX ID
 
 Con base en la documentación oficial, vea a continuación una ilustración que explica la integración de OAuth2 con VTEX ID:
-![oauth2](//images.ctfassets.net/alneenqid6w5/ZIsxie9YMmuWgWcgkeUis/313ac04141d8975528a273f1d2d47023/Fluxo_OAuth2_VTEX_ID__ES_.png)
+![oauth2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/authentication/authentication-settings/crear-autenticacion-oauth2_1.png)
 
 A partir de esta ilustración, vamos a detallar los pasos a seguir.  
 
@@ -156,7 +156,7 @@ Response:
 
 Una vez que el servicio está desarrollado y público en Internet, todos los datos de configuración deben ser direccionados a VTEX (vía ticket de soporte) para que sea configurado el ambiente de la tienda e integrado a VTEX ID, poniendo a disposición otra opción de login para sus clientes.
 
-<div class="alert alert-info">Si tienes varias tiendas (subcuentas) enumeradas en <strong>Configuraciónes de la cuenta > Gestión de la cuenta > Cuenta</strong>, cada una requerirá su propia configuración de Proveedor de identidad OAuth2.</div>
+> ℹ️ Si tienes varias tiendas (subcuentas) enumeradas en **Configuraciónes de la cuenta > Gestión de la cuenta > Cuenta**, cada una requerirá su propia configuración de Proveedor de identidad OAuth2.
 
 En resumen, estos son:
 

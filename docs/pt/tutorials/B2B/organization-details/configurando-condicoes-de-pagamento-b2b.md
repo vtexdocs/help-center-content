@@ -19,9 +19,7 @@ Em uma operação B2B, as [condições de pagamento](https://help.vtex.com/pt/tu
 
 As opções de pagamento disponíveis podem ser personalizadas por centro de custo pelo usuário com perfil de administrador da organização. 
 
-<div class = "alert alert-info">
-Quando você configura uma condição de pagamento no módulo Pagamentos, ela aparece como um meio de pagamento na lista <b>Disponível</b>, dentro da aba <b>Condições de Pagamento</b>. Para visualizar essa lista, clique no nome da organização. Os métodos de pagamento listados são aqueles já atribuídos à organização.
-</div>
+> ℹ️ Quando você configura uma condição de pagamento no módulo Pagamentos, ela aparece como um meio de pagamento na lista **Disponível**, dentro da aba **Condições de Pagamento**. Para visualizar essa lista, clique no nome da organização. Os métodos de pagamento listados são aqueles já atribuídos à organização.
 
 ## Associar condições de pagamento à organização
 Para associar uma condição de pagamento a uma organização compradora, siga as instruções abaixo:

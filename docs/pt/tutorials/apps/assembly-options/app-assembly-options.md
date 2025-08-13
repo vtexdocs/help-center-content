@@ -15,9 +15,7 @@ locale: pt
 subcategoryId: 3xpuy7xGlzKKg6vxqiExZ2
 ---
 
-<div class="alert alert-warning">
-<p>Este aplicativo está disponível apenas para lojas que utilizam <a href="https://vtex.com/br-pt/store-framework/">VTEX IO</a>. Antes de prosseguir, você deve <a href="https://developers.vtex.com/vtex-developer-docs/docs/vtex-product-customizer">instalar e configurar o Product Customizer</a> na sua loja.</p>
-</div>
+> ⚠️ Este aplicativo está disponível apenas para lojas que utilizam [VTEX IO](https://vtex.com/br-pt/store-framework/). Antes de prosseguir, você deve [instalar e configurar o Product Customizer](https://developers.vtex.com/vtex-developer-docs/docs/vtex-product-customizer) na sua loja.
 
 Na VTEX, é possível disponibilizar opções de customização de produtos utilizando [Assembly Options](https://help.vtex.com/pt/tutorial/assembly-options--5x5FhNr4f5RUGDEGWzV1nH). Essa solução consiste em criar [anexos](https://help.vtex.com/pt/tutorial/o-que-e-um-anexo--aGICk0RVbqKg6GYmQcWUm) para cenários complexos, em que é necessário gerenciar diferentes combinações de produtos, quantidades, itens adicionais e custos.
 
@@ -27,9 +25,7 @@ O [app Assembly Options](https://apps.vtex.com/vtex-admin-assembly-options/p) di
 
 Você pode instalar o aplicativo gratuitamente pela [VTEX App Store](https://apps.vtex.com/vtex-admin-assembly-options/p) ou pelo [VTEX IO CLI](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-vtex-io-cli-installation-and-command-reference), seguindo os passos do [guia para desenvolvedores Assembly Options](https://developers.vtex.com/vtex-developer-docs/docs/assembly-options-app).
 
-<div class="alert alert-warning">
-<p>Quando o aplicativo Assembly Options é instalado em uma <a href="https://help.vtex.com/pt/tutorial/o-que-e-um-seller--5FkLvhZ3Few4CWWIuYOK2w">conta de seller</a>, as opções de customização do produto são exibidas para os clientes da sua loja no checkout. Para que as opções sejam exibidas na página do produto, você precisa instalar o aplicativo em uma <a href="https://help.vtex.com/pt/tutorial/o-que-e-um-marketplace--680lLJTnmEAmekcC0MIea8">conta de marketplace</a>.</p>
-</div>
+> ⚠️ Quando o aplicativo Assembly Options é instalado em uma [conta de seller](https://help.vtex.com/pt/tutorial/o-que-e-um-seller--5FkLvhZ3Few4CWWIuYOK2w), as opções de customização do produto são exibidas para os clientes da sua loja no checkout. Para que as opções sejam exibidas na página do produto, você precisa instalar o aplicativo em uma [conta de marketplace](https://help.vtex.com/pt/tutorial/o-que-e-um-marketplace--680lLJTnmEAmekcC0MIea8).
 
 Após a instalação, a página **Catálogo > Assembly Options** se torna disponível no Admin VTEX. Veja a seguir as funcionalidades disponíveis uma vez que o aplicativo é instalado.
 
@@ -37,7 +33,7 @@ Após a instalação, a página **Catálogo > Assembly Options** se torna dispon
 
 No Admin VTEX, em **Catálogo > Assembly options**, você tem acesso a uma lista com todas as Assembly Options cadastradas na sua loja utilizando o aplicativo.
 
-![assembly-options-app](//images.ctfassets.net/alneenqid6w5/7AoMYLduvKisAxKMho64m0/e2166df5fd26a7dba75c2420c19e43e9/image1.png)
+![assembly-options-app](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/apps/assembly-options/app-assembly-options_1.png)
 
 As informações exibidas na lista são:
 
@@ -83,9 +79,7 @@ A página **Produtos > Assembly options > Novas Assembly options** contém um fo
 
 Ao salvar a Assembly Option, um anexo é criado automaticamente em **Catálogo > Anexos**, com o prefixo `vtex.assembly-option.` adicionado ao nome da Assembly Option criada. Exemplo: `vtex.assembly-option.Ingredientes`.
 
-<div class="alert alert-warning">
-<p>Para que as opções de customização cadastradas na Assembly Option apareçam no storefront, é necessário associar o anexo criado a um SKU em<em> <strong>Catálogo > Produtos e SKUs > SKU > Configurações Avançadas > Anexos</strong></em>. Para isso, siga os passos descritos em <a href="https://help.vtex.com/pt/tutorial/cadastrar-um-anexo--7zHMUpuoQE4cAskqEUWScU#associar-o-anexo-a-um-sku">Associar o anexo a um SKU</a>.</p>
-</div>
+> ⚠️ Para que as opções de customização cadastradas na Assembly Option apareçam no storefront, é necessário associar o anexo criado a um SKU em* **Catálogo > Produtos e SKUs > SKU > Configurações Avançadas > Anexos***. Para isso, siga os passos descritos em [Associar o anexo a um SKU](https://help.vtex.com/pt/tutorial/cadastrar-um-anexo--7zHMUpuoQE4cAskqEUWScU#associar-o-anexo-a-um-sku).
 
 ## Saiba mais
 

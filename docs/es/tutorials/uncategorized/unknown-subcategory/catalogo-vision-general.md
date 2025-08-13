@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 
 ---
 
-![Catalogo overview (tapa)](//images.ctfassets.net/alneenqid6w5/1OkPBtIH7KNPWFpCYVv89Y/acb839745dcafabbe9cfa2dfbd529484/image1.jpg)
+![Catalogo overview (tapa)](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/uncategorized/unknown-subcategory/catalogo-vision-general_1.jpg)
 
 El **Catálogo** es el módulo del Admin VTEX que te permite configurar las funcionalidades relacionadas con los productos de tu ecommerce. Para que tu cliente pueda ver los productos en el sitio web, debes registrarlos en este módulo. 
 
@@ -27,7 +27,7 @@ La categoría es el segundo nivel de categorización de tu tienda, debajo del ni
 
 El módulo **Categorías** te permite ver y gestionar el árbol de categorías registradas en tu tienda, como se muestra en el ejemplo a continuación.
 
-![Estructura del catalogo](//images.ctfassets.net/alneenqid6w5/6x2Nbxv5BvPZ9XW2Q4pTHa/6f11799fa0f016fa0429a2e49e757f27/image5.png)
+![Estructura del catalogo](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/uncategorized/unknown-subcategory/catalogo-vision-general_2.png)
 
 Puedes registrar una categoría siguiendo el tutorial [Registrar categoría](https://help.vtex.com/es/tutorial/registrando-categoria--tutorials_206). Si deseas gestionar o desactivar una categoría, sigue los pasos del tutorial [Desactivar y reorganizar categorías](https://help.vtex.com/es/tutorial/desactivar-y-reorganizar-categorias--tutorials_264).
 

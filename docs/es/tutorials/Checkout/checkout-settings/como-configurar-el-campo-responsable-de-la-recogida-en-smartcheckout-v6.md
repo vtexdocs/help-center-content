@@ -15,15 +15,11 @@ locale: es
 subcategoryId: 6XAvmMxp7yyY06ewYMuggs
 ---
 
-<div class="alert alert-info">
-El campo <strong>Responsable de la recogida</strong> sólo está disponible para el <strong>SmartCheckout™ V6</strong>, versión compatible con la feature de Pick Up Points.
-</div>
+> ℹ️ El campo **Responsable de la recogida** sólo está disponible para el **SmartCheckout™ V6**, versión compatible con la feature de Pick Up Points.
 
 Los [puntos de recogida](/tutorial/configurar-pontos-de-retirada-pickup-points?locale=es) dan una opción más a sus clientes: en lugar de esperar la entrega, ellos pueden elegir ir hasta un punto definido y buscar los produtos personalmente. Por defecto, esta acción está vinculada al usuario registrado que efectuó la compra. Sin embargo, usted puede habilitar el campo `Responsable por la recogida` en el checkout de su tienda, para que su cliente pueda nombrar a otra persona para recoger el producto.
 
-<div class="alert alert-warning">
-Si tiene instalada la aplicación <a href="https://developers.vtex.com/vtex-developer-docs/docs/vtex-checkout-ui-settings">Checkout UI Settings</a> en su tienda, el código CSS descrito en el procedimiento a continuación solo debe ingresarse a través de la aplicación. Los scripts insertados a través de la interfaz de administración VTEX (pestaña <b>Código > Archivos</b>) no se reproducen en las tiendas que tienen la aplicación instalada.
-</div>
+> ⚠️ Si tiene instalada la aplicación [Checkout UI Settings](https://developers.vtex.com/vtex-developer-docs/docs/vtex-checkout-ui-settings) en su tienda, el código CSS descrito en el procedimiento a continuación solo debe ingresarse a través de la aplicación. Los scripts insertados a través de la interfaz de administración VTEX (pestaña **Código > Archivos**) no se reproducen en las tiendas que tienen la aplicación instalada.
 
 Para configurar el campo (que viene desactivado de forma predeterminada), siga los pasos abajo:
 

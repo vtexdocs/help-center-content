@@ -17,7 +17,7 @@ subcategoryId: 6J3wx7KM4oysymsWuUACyY
 
 Para exhibir la tienda en otro idioma es necesario [crear una nueva Politica Comercial](/es/tutorial/configurar-politica-comercial-para-marketplace/) y relacionarla al idioma deseado por el campo __Culture Info__.
 
-![exibição-loja-idioma-diferente es](//images.ctfassets.net/alneenqid6w5/38du9gVEQomS0Y2sGqMYeW/3abd36c8b8714cb4297c58680499ad62/exibi____o-loja-outra-l__ngua_es.png)
+![exibição-loja-idioma-diferente es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/trade-policies/trade-policies'-overview/exhibir-la-tienda-en-otro-idioma_1.png)
 
 Desupués de configurar la política comercial, es necesario un tratamiento en el front-end de su tienda para que cambie el idioma y pronto cambie también la Politicas Comercial. 
 Para eso, es necesario configurar que cada cambio de idioma incluya en la URL el parámetro `?sc=iddelapolíticacomercial` reemplazando __iddelapolíticacomercial__ por el Id de la política comercial registrada que sea relacionada al idioma deseado.

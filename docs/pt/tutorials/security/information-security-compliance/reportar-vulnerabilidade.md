@@ -19,9 +19,7 @@ Nossos clientes são encorajados a reportar, de modo responsável, quaisquer vul
 
 Aqueles que desejarem reportar uma vulnerabilidade devem antes trabalhar com suas próprias equipes de segurança e desenvolvimento para realizar uma avaliação de segurança e eliminar  falsos positivos ou problemas oriundos de configurações personalizadas. Somente casos compatíveis com a [definição de vulnerabilidade](#definicao-de-vulnerabilidade) serão verificados.
 
-<div class="alert alert-warning">
-  <p>Consulte o documento <a href="https://vtex.com/br-pt/security/security-practices/">Práticas de Segurança da VTEX</a> e nossa <a href="https://help.vtex.com/pt/tutorial/the-risk-assessment-process--4K97IpqkpCpDYsZOSxtfkX#risk-assessment-na-vtex">FAQ de Segurança</a> antes de reportar qualquer vulnerabilidade. Estes documentos esclarecem nossos processos e ajudam a eliminar falsos positivos.</p>
-</div>
+> ⚠️ Consulte o documento [Práticas de Segurança da VTEX](https://vtex.com/br-pt/security/security-practices/) e nossa [FAQ de Segurança](https://help.vtex.com/pt/tutorial/the-risk-assessment-process--4K97IpqkpCpDYsZOSxtfkX#risk-assessment-na-vtex) antes de reportar qualquer vulnerabilidade. Estes documentos esclarecem nossos processos e ajudam a eliminar falsos positivos.
 
 Após esse procedimento, caso haja uma vulnerabilidade, siga estes passos:
 
@@ -30,9 +28,7 @@ Após esse procedimento, caso haja uma vulnerabilidade, siga estes passos:
 
   As vulnerabilidades devem ser reportadas individualmente, seguindo o modelo estabelecido. Caso tenha encontrado mais de uma vulnerabilidade em seu teste, preencha múltiplos modelos e anexe ao seu chamado.
 
-  <div class="alert alert-warning">
-    <p>Todas as informações devem ser preenchidas e são importantes para a avaliação. Comunicações de vulnerabilidade fora do padrão estabelecido não serão endereçadas pelo time de Segurança da VTEX.</p>
-  </div>
+  > ⚠️ Todas as informações devem ser preenchidas e são importantes para a avaliação. Comunicações de vulnerabilidade fora do padrão estabelecido não serão endereçadas pelo time de Segurança da VTEX.
 
 3. Abra uma solicitação para o nosso [Suporte](https://help.vtex.com/pt/support) para registrar o aviso de vulnerabilidade de segurança. Não esqueça de anexar o modelo de comunicação de vulnerabilidades preenchido neste chamado.
 4. Salve o número do seu chamado, pois você poderá precisar dele em futuras comunicações.

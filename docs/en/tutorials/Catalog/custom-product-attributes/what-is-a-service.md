@@ -17,9 +17,7 @@ subcategoryId: 1hoOi2R0Rm6ky0yCwOUoiy
 
 A service is an item that may come with a product, optionally and with cost. It is used to assign a value, often emotional, but also of an additional service itself to an SKU. For example, a gift packaging, a distinctive ribbon, a gift card or a product installation.
 
-<div class = "alert alert-warning">
-It's important to remember that a service is always charged. However, VTEX does not control the stock of a service. This is a responsibility of the marketplace or the seller.
-</div>
+> ⚠️ It's important to remember that a service is always charged. However, VTEX does not control the stock of a service. This is a responsibility of the marketplace or the seller.
 
 If your purchased product is a Brazilian National Team Shirt, the name of your service might be __Gift Packaging___, and it might be displayed during the order flow on the screen that you choose: product, cart or service.
 

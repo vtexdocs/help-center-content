@@ -19,11 +19,7 @@ El _stock_ contiene la información de los productos disponibles en una tienda y
 
 Este artículo contiene las instrucciones para acceder al historial de movimientos de _stock_ desde el VTEX Admin.
 
-<div class = "alert alert-info">
-No olvides la diferencia entre almacén y stock:
-<p><b><a href="https://help.vtex.com/es/tutorial/almacen--6oIxvsVDTtGpO7y6zwhGpb">Almacén:</a></b> donde se almacenan los productos de la tienda.
-<p><b>Stock:</b>lista de los SKU y de los almacenes en los que se encuentran.
-</div>
+> ℹ️ No olvides la diferencia entre almacén y stock: **[Almacén:](https://help.vtex.com/es/tutorial/almacen--6oIxvsVDTtGpO7y6zwhGpb)** donde se almacenan los productos de la tienda. **Stock:**lista de los SKU y de los almacenes en los que se encuentran.
 
 Para ver los movimientos de un SKU:
 
@@ -36,8 +32,6 @@ Para ver los movimientos de un SKU:
   * La cantidad de ítems antes de la actualización.
   * La cantidad de ítems después de la actualización.
 
-<div class="alert alert-warning">
-Solo puedes consultar las últimas 50 actualizaciones en el registro de actualizaciones de un determinado SKU.
-</div>
+> ⚠️ Solo puedes consultar las últimas 50 actualizaciones en el registro de actualizaciones de un determinado SKU.
 
 La cantidad total de ítems en la página [Gestión de stock](https://help.vtex.com/es/tutorial/gerenciar-itens-em-estoque--tutorials_139) se actualiza en tiempo real, pero puede haber un retraso de hasta 1 hora para que la información aparezca en el historial de movimientos.

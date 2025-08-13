@@ -39,6 +39,4 @@ Se você quiser visualizar todos os serviços que foram filtrados de forma mais 
 *   Horário que o serviço foi feito.
 *   O turno que o serviço foi feito.
 
-<div class="alert alert-danger"> 
-A plataforma do VTEX Tracking está sofrendo atualizações, por esse motivo  é possível que essa funcionalidade não se comporte como esperado. Aguarde as novas atualizações e usufrua integralmente dessa aba. 
-</div>
+> ❗ A plataforma do VTEX Tracking está sofrendo atualizações, por esse motivo  é possível que essa funcionalidade não se comporte como esperado. Aguarde as novas atualizações e usufrua integralmente dessa aba.

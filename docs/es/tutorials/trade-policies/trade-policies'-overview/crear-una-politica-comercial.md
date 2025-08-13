@@ -17,9 +17,7 @@ subcategoryId: 6J3wx7KM4oysymsWuUACyY
 
 En VTEX las [políticas comerciales](https://help.vtex.com/es/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) se utilizan para agrupar configuraciones de catálogo, precios, promociones, inventario, logística de envío y pagos para distintos canales de venta. Los canales de venta pueden incluir, por ejemplo, marketplaces, ecommerces, tiendas físicas o tiendas B2B.
 
-<div class="alert alert-danger">
-Por defecto, las nuevas políticas comerciales se aplican a todos los vendedores activos. Si desea aplicarlas solo a un grupo específico de vendedores, por favor, indíquelo en el ticket.
-</div>
+> ❗ Por defecto, las nuevas políticas comerciales se aplican a todos los vendedores activos. Si desea aplicarlas solo a un grupo específico de vendedores, por favor, indíquelo en el ticket.
 
 ## Manejar políticas comerciales
 
@@ -33,9 +31,7 @@ Para utilizar el mismo catálogo en más de una política comercial, acceda a la
 
 Para [contratar políticas comerciales adicionales](https://help.vtex.com/es/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X), póngase en contacto con nuestro equipo de Growth Operations en *[Soporte](https://help.vtex.com/es/support)* seleccionando la opción **Comercial** y el tipo de solicitud `Creación de Política Comercial`. Al solicitar la creación de una política comercial a través de un ticket, tenga en cuenta un tiempo de respuesta de hasta tres días hábiles.
 
-<div class="alert alert-info">
-Para que el uso de política comercial adicional para integrarse con <a href="https://help.vtex.com/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-con-un-conector-nativo-vtex"conector nativo</a>, un <a href="https://help.vtex.com/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-con-un-conector-certificado-partner">conector certificado (partner)</a> u otras tiendas VTEX esté exento de tarifas, los pedidos deben estar asociados a la misma.
-</div>
+> ℹ️ Para que el uso de política comercial adicional para integrarse con [, un <a href="https://help.vtex.com/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-con-un-conector-certificado-partner">conector certificado (partner)](https://help.vtex.com/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-con-un-conector-nativo-vtex) u otras tiendas VTEX esté exento de tarifas, los pedidos deben estar asociados a la misma.
 
 ## Más información
 

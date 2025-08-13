@@ -27,7 +27,7 @@ Además de permitir enviar invitaciones, la página tiene una lista de sellers, 
 
 Para que nuevos sellers se integren en su marketplace, es necesario realizar algunas acciones en su entorno VTEX: [Invitar](#invitar-seller) y [Conectar](#conectar-seller).
 
-![ES Seller invite](//images.ctfassets.net/alneenqid6w5/3kCM8CHXpzssH5MWf6txLh/7c9dd1931913f57b7bef76df6faad117/ES_seller_invite.jpg)
+![ES Seller invite](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Sellers/seller-portal/marketplace-sellers-invitados_1.jpg)
 
 ## Invitar Seller
 
@@ -47,9 +47,7 @@ La invitación se realiza mediante un enlace enviado al seller por email que con
 
 El seller recibirá por email una invitación para vender en su marketplace. 
 
-<div class="alert alert-info">
-El enlace enviado por email al seller es válido durante 7 días. Después de hacer clic en el enlace, el seller tiene seis horas para completar el formulario de registro. 
-Si no es posible completar el registro dentro de este período, el marketplace tiene que enviar la invitación de nuevo. Para ello, vaya a MARKETPLACE > Invitación de sellers. Busque al seller en la lista y haga clic en <i class="fas fa-paper-plane"></i> «Reenviar invitación». </div>
+> ℹ️ El enlace enviado por email al seller es válido durante 7 días. Después de hacer clic en el enlace, el seller tiene seis horas para completar el formulario de registro. Si no es posible completar el registro dentro de este período, el marketplace tiene que enviar la invitación de nuevo. Para ello, vaya a MARKETPLACE > Invitación de sellers. Busque al seller en la lista y haga clic en <i class="fas fa-paper-plane"></i> «Reenviar invitación».
 
 ## Conectar seller
 

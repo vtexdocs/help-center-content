@@ -34,13 +34,11 @@ A través de VTEX Admin o [API de Customer Credit](https://developers.vtex.com/d
 - Configurar plazos y cuotas para documentos de facturas.
 - Monitorear y modificar el status de las facturas emitidas.
 
-<div class="alert alert-info">
-Cuando se instala, el Customer Credit aparece como una opción de pago en el momento del pago solo para los clientes seleccionados por el administrador de la tiend, y muestra la cantidad de crédito disponible para usar en la compra.
-</div>
+> ℹ️ Cuando se instala, el Customer Credit aparece como una opción de pago en el momento del pago solo para los clientes seleccionados por el administrador de la tiend, y muestra la cantidad de crédito disponible para usar en la compra.
 
 Vea a continuación el flujo básico de cómo funciona el Customer Credit en las tiendas VTEX:
 
-![GIF_CC_ES](//images.ctfassets.net/alneenqid6w5/6e4DmVcrW4FCvZgrhOYQDe/99a8ceaf503fd3154ab5e2aa9b2f3021/GIF_CC_ES.gif)
+![GIF_CC_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/apps/customer-credit/customer-credit-vision-general_1.gif)
 
 ## Definiciones en Customer Credit
 
@@ -52,9 +50,7 @@ Para utilizar Customer Credit como medio de pago de una compra, el cliente debe 
 
 Cada cuenta tiene un límite de crédito registrado al momento de su apertura. Este límite indica el monto máximo que el cliente puede utilizar para realizar una o más compras al mismo tiempo a través de Customer Credit.
 
-<div class="alert alert-warning">
-El administrador de la tienda puede cambiar el límite de crédito de una cuenta en cualquier momento.
-</div>
+> ⚠️ El administrador de la tienda puede cambiar el límite de crédito de una cuenta en cualquier momento.
 
 ### Crédito disponible
 
@@ -62,9 +58,7 @@ Monto que el cliente aún tiene disponible en su cuenta para realizar compras a 
 
 Cada vez que el cliente completa una compra y se factura el pedido, la cantidad de crédito disponible disminuye. Sin embargo, después de que el cliente realiza el pago de la factura emitida, el valor del crédito disponible vuelve al valor previo a la compra.
 
-<div class="alert alert-warning">
-En el momento de una compra, el cliente tiene visibilidad de cuánto crédito puede utilizar a través del Customer Credit. Si el valor de la compra es mayor que el crédito disponible, no se podrá realizar el pago a través de Customer Credit.
-</div>
+> ⚠️ En el momento de una compra, el cliente tiene visibilidad de cuánto crédito puede utilizar a través del Customer Credit. Si el valor de la compra es mayor que el crédito disponible, no se podrá realizar el pago a través de Customer Credit.
 
 ### Factura
 
@@ -82,9 +76,7 @@ Luego de que el cliente realiza la compra utilizando Customer Credit, el pago se
 
 El flujo en Customer Credit es similar al de las tarjetas de crédito en relación a las modificaciones de pedidos. Cuando se produce un cambio en el valor del pedido durante el período de preautorización, el monto del crédito cambia.
 
-<div class="alert alert-warning">
-Si es necesario cambiar una orden para reducir su valor después del período de liquidación (emisión de facturas), el sistema actualizará las facturas al nuevo valor. Si el valor del pedido aumenta, el sistema creará nuevas facturas.
-</div>
+> ⚠️ Si es necesario cambiar una orden para reducir su valor después del período de liquidación (emisión de facturas), el sistema actualizará las facturas al nuevo valor. Si el valor del pedido aumenta, el sistema creará nuevas facturas.
 
 ## Instalacion y configuracion
 

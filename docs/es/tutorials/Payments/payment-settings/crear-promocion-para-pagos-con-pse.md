@@ -30,9 +30,9 @@ Cada banco que realiza transacciones de pago asociadas a PSE tiene un código es
 2. En la sección de pago, haz clic en la opción __PSE__.
 3. Abre la página __Web Developer Tools__ de tu navegador. Si tienes dudas sobre cómo acceder a esta página, consulta a continuación las instrucciones de cada tipo de navegador:<br>
 <ul>
-  <li><a href="https://developer.chrome.com/docs/devtools/open#inspect">Google Chrome</a></li>
-  <li><a href="https://firefox-source-docs.mozilla.org/devtools-user/page_inspector/how_to/open_the_inspector/index.html">Firefox</a></li>
-  <li><a href="https://firefox-source-docs.mozilla.org/devtools-user/page_inspector/how_to/open_the_inspector/index.html">Safari</a></li>
+  <li>[Google Chrome](https://developer.chrome.com/docs/devtools/open#inspect)</li>
+  <li>[Firefox](https://firefox-source-docs.mozilla.org/devtools-user/page_inspector/how_to/open_the_inspector/index.html)</li>
+  <li>[Safari](https://firefox-source-docs.mozilla.org/devtools-user/page_inspector/how_to/open_the_inspector/index.html)</li>
 </ul>
 4. Haz clic en la pestaña __Red__.
 5. Actualiza la página presionando la tecla __F5__ o el botón de actualizar el navegador.
@@ -42,39 +42,35 @@ Cada banco que realiza transacciones de pago asociadas a PSE tiene un código es
 9. En el componente data, selecciona el componente __banks__.
 10. Haz clic en el nombre del banco para el que deseas crear la promoción y anota el número de 4 dígitos que se muestra en el campo __code__.
 
-![PSE Dev Tool es](//images.ctfassets.net/alneenqid6w5/F2ucfedyA57R4t5H6Bfab/a0656f726b62be1e9ecb9216b0244b8f/PSE_Dev_tool_es.png)
+![PSE Dev Tool es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/payment-settings/crear-promocion-para-pagos-con-pse_1.png)
 
 ## Crear una promoción para PSE
 
 Después de obtener el código del banco, crea la promoción regular siguiendo los pasos a continuación:
 
-<blockquote><ui>1. En el Admin VTEX, accede a <b>Promociones > Promociones</b> o escribe <b>Promociones</b> en la barra de búsqueda en la parte superior de la página.</ui>
+<blockquote><ui>1. En el Admin VTEX, accede a **Promociones > Promociones** o escribe **Promociones** en la barra de búsqueda en la parte superior de la página.</ui>
 
-<blockquote><ui>2. Haz clic en el botón <b>Crear promoción</b>.</ui>
+<blockquote><ui>2. Haz clic en el botón **Crear promoción**.</ui>
 
-<blockquote><ui>3. Selecciona la opción <b>Regular</b>.</ui>
+<blockquote><ui>3. Selecciona la opción **Regular**.</ui>
 
-<blockquote><ui>4. En el campo <b>Nombre</b>, ingresa el nombre con el que deseas identificar la promoción.</ui>
+<blockquote><ui>4. En el campo **Nombre**, ingresa el nombre con el que deseas identificar la promoción.</ui>
 
-<blockquote><ui>5. En <b>Fecha de vencimiento</b>, define el periodo en el que los clientes recibirán descuento por utilizar PSE con el banco configurado.</ui>
+<blockquote><ui>5. En **Fecha de vencimiento**, define el periodo en el que los clientes recibirán descuento por utilizar PSE con el banco configurado.</ui>
 
-<blockquote><ui>6. En <b>¿Cuál es el tipo y valor del descuento?</b>, define el tipo de descuento de la promoción e indica su valor.</ui>
+<blockquote><ui>6. En **¿Cuál es el tipo y valor del descuento?**, define el tipo de descuento de la promoción e indica su valor.</ui>
 
-<blockquote><ui><div class="alert alert-info">
-El tipo de promoción "Porcentual" es más común para promociones de bancos.
-</div></blockquote>
+<blockquote><ui>> ℹ️ El tipo de promoción "Porcentual" es más común para promociones de bancos.</blockquote>
 <br>  
-<blockquote><ui>7. En la sección <b>¿A qué ítems se aplicará esta promoción?</b>, selecciona si el descuento por pago con el banco deseado a través de PSE se debe aplicar a todos los productos de la tienda o si solo se aplica a algunos tipos de productos. Si deseas restringir la promoción, configura los demás campos de esta sección.</ui>
+<blockquote><ui>7. En la sección **¿A qué ítems se aplicará esta promoción?**, selecciona si el descuento por pago con el banco deseado a través de PSE se debe aplicar a todos los productos de la tienda o si solo se aplica a algunos tipos de productos. Si deseas restringir la promoción, configura los demás campos de esta sección.</ui>
 
-<blockquote><ui>8. En la sección <b>¿Cuáles son las condiciones para que la promoción sea válida?</b>, marca Tags de marketing y escribe <b>pse-discount-for-bank-code-XXXX</b>, sustituyendo <b>XXXX</b> por el código del banco deseado.</ui>
+<blockquote><ui>8. En la sección **¿Cuáles son las condiciones para que la promoción sea válida?**, marca Tags de marketing y escribe **pse-discount-for-bank-code-XXXX**, sustituyendo **XXXX** por el código del banco deseado.</ui>
 
-<blockquote><ui>9. Marca la opción <b>Medio de pago</b> y selecciona <b>PSE</b>.</ui>
+<blockquote><ui>9. Marca la opción **Medio de pago** y selecciona **PSE**.</ui>
 
-<blockquote><ui>10. En la sección <b>Restricciones y limitaciones de uso</b> puedes marcar la opción <b>Aplicar con otras promociones</b> para que la promoción se pueda acumular con otras promociones.</ui>
+<blockquote><ui>10. En la sección **Restricciones y limitaciones de uso** puedes marcar la opción **Aplicar con otras promociones** para que la promoción se pueda acumular con otras promociones.</ui>
 
-<blockquote><ui><div class="alert alert-warning">
-  La promoción de PSE siempre se agregará al carrito si la opción <b>Aplicar con otras promociones</b> está marcada y se han aplicado otras promociones a los productos. Si la opción <b>Aplicar con otras promociones</b> no está marcada, el checkout solo aplicará la promoción que permita el mayor descuento sobre los productos.
-</div></blockquote>
+<blockquote><ui>> ⚠️ La promoción de PSE siempre se agregará al carrito si la opción **Aplicar con otras promociones** está marcada y se han aplicado otras promociones a los productos. Si la opción **Aplicar con otras promociones** no está marcada, el checkout solo aplicará la promoción que permita el mayor descuento sobre los productos.</blockquote>
 <br>  
-<blockquote><ui>11. Haz clic en <b>Guardar</b>.</ui>
+<blockquote><ui>11. Haz clic en **Guardar**.</ui>
 

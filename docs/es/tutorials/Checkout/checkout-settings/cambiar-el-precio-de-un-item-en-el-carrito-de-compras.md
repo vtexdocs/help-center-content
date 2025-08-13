@@ -20,9 +20,7 @@ En VTEX, las tiendas pueden configurar manualmente el precio de un artículo (SK
 - **Perfil de acceso**: Owner (Admin Super) o Call Center Operator (Telesales) 
 - **Permiso**: Shopping Cart Full Access
 
-<div class="alert alert-warning">
-  Los pasos a continuación se deben realizar en el dominio <i>myvtex</i> de cada tienda ({accountName}.myvtex.com.br).
-</div>
+> ⚠️ Los pasos a continuación se deben realizar en el dominio *myvtex* de cada tienda ({accountName}.myvtex.com.br).
 
 ## Cambiar el precio del ítem
 
@@ -33,7 +31,7 @@ Después de [habilitar la funcionalidad](https://developers.vtex.com/vtex-rest-a
 3. Cambie el precio al valor deseado y presione `ENTER`.
 4. Haga clic en `Cerrar pedido`.
 
-![manualprice](//images.ctfassets.net/alneenqid6w5/6lKNt1yT41wOQCRv5Yv6ge/a2c63f9fd22cbc180cb95ca790ab7b61/manualprice.gif)
+![manualprice](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Checkout/checkout-settings/cambiar-el-precio-de-un-item-en-el-carrito-de-compras_1.gif)
 
 Además de la configuración en la pantalla de Checkout , el precio de un producto también se puede modificar a través de la API [Change Price](https://developers.vtex.com/vtex-rest-api/reference/pricechange), obtenga más información en [Setting the price of an item manually](https://developers.vtex.com/vtex-rest-api/docs/enable-the-manual-price#setting-the-price-of-an-item-manually).
 
@@ -43,7 +41,5 @@ La seguridad operativa de esta funcionalidad se basa en controlar el acceso de p
 
 Una vez que se cierra el pedido, el precio ingresado manualmente debe ser aprobado por el administrador de la tienda o un usuario con permiso en el sistema de [Autorización de pedidos](https://help.vtex.com/es/tutorial/how-order-authorization-works--3MBK6CmKHAuUjMBieDU0pn).
 
-<div class = "alert alert-info">
-Una vez validado el valor del precio manual, el pedido sigue el flujo de facturación normal.
-</div>
+> ℹ️ Una vez validado el valor del precio manual, el pedido sigue el flujo de facturación normal.
 

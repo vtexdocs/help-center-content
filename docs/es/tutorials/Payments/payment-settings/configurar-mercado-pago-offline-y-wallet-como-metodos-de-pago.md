@@ -27,29 +27,27 @@ Asimismo, asegúrese de que los subadquirentes [MercadoPagoV1](https://help.vtex
 
 Para configurar Mercado Pago Offline, siga estos pasos:
 <ol>
-  <li>Acceda al <b>Admin</b> VTEX.</li>
+  <li>Acceda al **Admin** VTEX.</li>
   <br>
-  <li>Haga clic en <b>Pagos</b>.</li>
+  <li>Haga clic en **Pagos**.</li>
   <br>
-  <li>Después, haga clic en <b>Configuración</b>.</li>
+  <li>Después, haga clic en **Configuración**.</li>
   <br>
-  <li>En la pestaña Planos de Pago, haga clic en el botón <b>+</b>.</li>
+  <li>En la pestaña Planos de Pago, haga clic en el botón **+**.</li>
   <br>
-  <li>Busque y haga clic en <b>MercadoPagoOff</b>.</li>
+  <li>Busque y haga clic en **MercadoPagoOff**.</li>
   <br>
-  <li>En la parte superior de la página, complete el campo <b>Nombre de la Regra</b> con el nombre que prefiera para la identificación.</li>
+  <li>En la parte superior de la página, complete el campo **Nombre de la Regra** con el nombre que prefiera para la identificación.</li>
   <br>
-  <li>Haga clic en el botón <b>Status</b> para activar la regra.</li>
+  <li>Haga clic en el botón **Status** para activar la regra.</li>
 <br>
-<div class="alert alert-info">
-  No es necesario seleccionar el campo <strong>Proceso com la afiliación</strong>, ya que el subadquirente MercadoPagoV2 ya está configurado como afiliación por defecto para MercadoPagoOff.
-</div>
+> ℹ️ No es necesario seleccionar el campo **Proceso com la afiliación**, ya que el subadquirente MercadoPagoV2 ya está configurado como afiliación por defecto para MercadoPagoOff.
 <br>
-  <li>Si opta por utilizar la función antifraude, habilite la opción <b>Usando Antifraude</b> y elija una de las opciones antifraude disponibles.</li>
+  <li>Si opta por utilizar la función antifraude, habilite la opción **Usando Antifraude** y elija una de las opciones antifraude disponibles.</li>
   <br>
-  <li>También tiene la opción de <a href="https://help.vtex.com/es/tutorial/condicoes-especiais">configurar condiciones especiales de pago</a>.</li>
+  <li>También tiene la opción de [configurar condiciones especiales de pago](https://help.vtex.com/es/tutorial/condicoes-especiais).</li>
   <br>
-  <li>Haga clic en <b>Salva</b>.</li>
+  <li>Haga clic en **Salva**.</li>
 </ol>
 Una vez que se completen todas las configuraciones, espere hasta 10 minutos para que aparezcan la opción MercadoPagoOff en el checkout.
 

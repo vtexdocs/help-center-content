@@ -33,11 +33,7 @@ Con la propiedad definida, siga las instrucciones que se indican a continuación
 6. Rellene el campo con el clúster que desea asociar a la promoción.[Vea a continuación más información sobre cómo completar este campo](#como-completar-el-campo-cluster-de-clientes). Puede añadir más de un clúster haciendo clic en el botón `+`.
 7. Haga clic en `Guardar`.
 
-<div class="alert alert-info">
-<p>
-El límite de clústeres que pueden ingresarse en la opción <strong>clúster de clientes</strong> es 50. 
-</p>
-</div>
+> ℹ️  El límite de clústeres que pueden ingresarse en la opción **clúster de clientes** es 50. 
 
 ## Cómo completar el campo Clúster de clientes
 
@@ -48,11 +44,7 @@ Hay dos criterios posibles para seleccionar un clúster para la promoción y, po
 
 Nótese que en ambas opciones, `{nombredelapropriedad}` debe cambiarse por el nombre del campo en la entidad de datos y `{"valor"}` debe sustituirse por el valor definido en Master Data.
 
-<div class="alert alert-info">
-<p>
-El uso de las comillas varía en <a href="https://help.vtex.com/es/tutorial/criando-entidade-de-dados--tutorials_1265#">función del tipo de campo</a> creado en Master Data.
-</p>
-</div>
+> ℹ️  El uso de las comillas varía en [función del tipo de campo](https://help.vtex.com/es/tutorial/criando-entidade-de-dados--tutorials_1265#) creado en Master Data. 
 
 ### Función de igualdad
 
@@ -62,17 +54,13 @@ En la siguiente configuración, por ejemplo, solo los registros de ``empleados``
 
 De esta manera también se podría establecer `empleado=false`, donde solo los registros de `empleado` con un valor `false` en el campo obtendrían la promoción.
 
-![Campo funcionário Master Data ES](//images.ctfassets.net/alneenqid6w5/1GQftbj5FuIiQ4mUweacwa/8fdaea6b5ced25c76bea649ccc0e9e12/Campo_funcion__rio_Master_Data_ES.png)
+![Campo funcionário Master Data ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/promotions-&-taxes/promotions/creando-promociones-cluster-clientes_1.png)
 
-![Cluster de clientes ES](//images.ctfassets.net/alneenqid6w5/1IOHFLD9w840WEuceWMk4Q/cb74a3f5ecba7fe987381e62543a13de/Cluster_de_clientes_ES.png)
+![Cluster de clientes ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/promotions-&-taxes/promotions/creando-promociones-cluster-clientes_2.png)
 
 Dado un campo **[Varchar](https://help.vtex.com/es/tutorial/criando-entidade-de-dados--tutorials_1265#)**, podríamos configurar `empleado="sí"` para que solo los clientes con el valor `"sí"` en el campo recibieran la promoción.
 
-<div class="alert alert-warning">
-<p>
-Para los campos de tipo <strong>Varchar</strong>, el valor introducido en la sección <strong>Clúster de clientes</strong> de la promoción distingue los caracteres minúsculos de los mayúsculos. Esto significa que si se completa la opción de Clúster de Clientes de forma diferente a la definida para el campo en Master Data, la promoción no se aplicará.
-</p>
-</div>
+> ⚠️  Para los campos de tipo **Varchar**, el valor introducido en la sección **Clúster de clientes** de la promoción distingue los caracteres minúsculos de los mayúsculos. Esto significa que si se completa la opción de Clúster de Clientes de forma diferente a la definida para el campo en Master Data, la promoción no se aplicará. 
 
 Por lo tanto, considerando el ejemplo anterior de un campo de tipo **Varchar** con los valores `"sí"` y `"no"`, el registro en la promoción debe ser `empleado="sí"`. Si se introduce el término `empleado="Sí"` en la promoción, por ejemplo, el clúster de clientes deseado no recibirá la promoción.
 
@@ -82,8 +70,8 @@ La expresión `{nombredelapropiedad} contains {valor}` debe utilizarse cuando la
 
 Por ejemplo, si quiere crear un clúster sólo con clientes cuyas direcciones de correo electrónico contengan `@test.com`, la configuración sería igual a la representada en la imagen siguiente.
 
-![Campo Email Master Data](//images.ctfassets.net/alneenqid6w5/5aeXd0Ro72P1GlzVeBiVVZ/4bfb1189f8f967ef9ed77e081291931b/Campo_Email_Master_Data.png)
+![Campo Email Master Data](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/promotions-&-taxes/promotions/creando-promociones-cluster-clientes_3.png)
 
-![cluster email ES](//images.ctfassets.net/alneenqid6w5/5LKj1wrG3zL54lfh4R2MzQ/8139bb8d0546b62edf917418c5c92c5b/cluster_email_ES.PNG)
+![cluster email ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/promotions-&-taxes/promotions/creando-promociones-cluster-clientes_4.PNG)
 
 En este caso, `email contains test.com` será verdadero, por ejemplo, cuando el valor sea `joao@test.com` y falso cuando el valor sea `joao@test.org`.

@@ -17,9 +17,7 @@ subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 
 En VTEX, puede configurar su tienda con el gateway Tuna para recibir pagos a través de: boleto, tarjetas de débito y crédito, PIX y Bitcoin.
 
-<div class="alert alert-warning">
-  La integración de su tienda con Tuna se realiza a través de una <b>Application Key</b> y un <b>Application Token.</b> Los datos de acceso para obtener esta información y habilitar la configuración en VTEX se le enviarán después de crear su cuenta. Para esto, debe rellenar <a href="https://docs.google.com/forms/d/e/1FAIpQLScWk5fsmkIfGaW2Z6qhdGH-JJ5iU6Fv5TGghUR1Pod5dY5Z2Q/viewform">este formulario</a> y esperar la respuesta de Tuna con más detalles.
-  </div>
+> ⚠️ La integración de su tienda con Tuna se realiza a través de una **Application Key** y un **Application Token.** Los datos de acceso para obtener esta información y habilitar la configuración en VTEX se le enviarán después de crear su cuenta. Para esto, debe rellenar [este formulario](https://docs.google.com/forms/d/e/1FAIpQLScWk5fsmkIfGaW2Z6qhdGH-JJ5iU6Fv5TGghUR1Pod5dY5Z2Q/viewform) y esperar la respuesta de Tuna con más detalles.
 
 Después de crear su cuenta y obtener la __Application Key__ y el __Application Token__, siga los pasos a continuación para configurar Tuna en su tienda:
 
@@ -35,7 +33,7 @@ Después de crear su cuenta y obtener la __Application Key__ y el __Application 
     - __Desactivado: no se captura automáticamente__: la captura no se autoriza automáticamente. Debe tener cuidado al elegir este comportamiento, ya que el retraso en la facturación puede exceder el tiempo de captura acordado con el proveedor y provocar la pérdida del pago.
 
 <ui>
-  6. Haga clic en <b>Salvar</b> para guardar los cambios.
+  6. Haga clic en **Salvar** para guardar los cambios.
   </ui>
 
 Después de completar la configuración en VTEX, debe acceder a [Console](https://dev.tuna.uy/console?utm_medium=docs&utm_source=vtex&utm_content=console&utm_campaign=docs) de Tuna con sus datos y crear por lo menos un flujo de pago. Solo entonces podrá procesar los pagos a través de la solución.

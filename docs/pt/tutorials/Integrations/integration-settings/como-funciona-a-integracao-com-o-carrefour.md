@@ -47,14 +47,12 @@ Para os produtos serem exibidos no Carrefour, a integração envia os seguintes 
 _Legenda:_
 `*` Campos obrigatórios.<br /> 
 
-<div class="alert alert-warning">O Carrefour não aceita produtos com variação (mais de um SKU).</div>
+> ⚠️ O Carrefour não aceita produtos com variação (mais de um SKU).
 
 ### Exibição do produto
 Uma vez que os lotes de produto e oferta são enviados com sucesso e validados pelo Carrefour, todas as variações/SKUs de um mesmo produto são exibidas juntas, em um mesmo agrupamento.
 
-<div class="alert alert-info">
-Ex: Camisa Azul (produto) | P, M, G (variações/skus)
-</div>
+> ℹ️ Ex: Camisa Azul (produto) | P, M, G (variações/skus)
 
 ### Status do produto
 Com todos os produtos processados corretamente e catalogados pelo Carrefour, suas ofertas podem ter os seguintes status:
@@ -67,9 +65,7 @@ Ao serem enviados com sucesso pela primeira vez, os produtos passam por um proce
 
 Por exemplo, se a descrição do produto for alterada, a integração não vai atualizá-la no marketplace. Para fazer algum tipo de alteração, você vai precisar entrar em contato direto com o Carrefour.
 
-<div class="alert alert-warning">
-<strong>OBS:</strong> o produto não pode ser apagado no painel do Carrefour. Se isso acontecer, a integração não vai conseguir enviá-lo novamente.
-</div>
+> ⚠️ **OBS:** o produto não pode ser apagado no painel do Carrefour. Se isso acontecer, a integração não vai conseguir enviá-lo novamente.
 
 ## 2. Estoque
 Quando um produto é enviado pela primeira vez, o estoque também é enviado. No entanto, ele é descartado pelo Carrefour, pois eles só aceitam receber os estoques para produtos já catalogados. Essa política existe para que o estoque disponível no marketplace seja sempre o mais atualizado.
@@ -85,9 +81,7 @@ Porém, o Carrefour não notifica a VTEX quando tudo foi aprovado. Isso signific
 
 Depois que os produtos recebem a primeira carga de preço, a atualização é feita SKU por SKU sempre que os preços na VTEX sofrem alguma mudança. Essa atualização é mandada em lotes de 6 em 6 minutos. Isso significa que a integração acumula todas as atualizações da sua loja por 6 minutos e mandar tudo de uma vez. Caso a atualização de preços esteja demorando mais do que o esperado, é provável que haja muitas informações na fila para serem atualizadas.
 
-<div class="alert alert-warning">
-Note que, para preços com validade, o sistema não notifica os afiliados quando a data expira. Assim, o preço base só será enviado na próxima modificação de preços. 
-</div>
+> ⚠️ Note que, para preços com validade, o sistema não notifica os afiliados quando a data expira. Assim, o preço base só será enviado na próxima modificação de preços.
 
 Para cada SKU, a integração envia apenas o preço final, baseado no retorno da simulação de fulfillment. Em um cenário padrão, o preço enviado vai ser sempre o determinado para a política comercial associada à integração. Porém, existem fatores que podem influenciar no preço final, como promoções e preços fixos.
 
@@ -95,11 +89,7 @@ _`Exemplo 1:` uma promoção que oferece 10% de desconto para uma determinada ca
 
 _`Exemplo 2:` na política comercial usada no Carrefour, um SKU tem preço de R$ 10 e um preço fixo de R$ 15. O valor que a integração envia para o marketplace é R$ 15._
 
-<div class="alert alert-warning">
-<strong>Atenção:</strong> como a forma de pagamento é dada no marketplace, as regras de pagamento também são determinadas por ele. Por causa disso, a integração não consegue enviar preços diferenciados de acordo com a forma de pagamento.
-<br />
-<em>Ex: se na VTEX estiver configurada a incidência de juros para pagamentos parcelados, o preço enviado vai continuar sendo o que foi retornado pela simulação de fulfillment.</em>
-</div>
+> ⚠️ **Atenção:** como a forma de pagamento é dada no marketplace, as regras de pagamento também são determinadas por ele. Por causa disso, a integração não consegue enviar preços diferenciados de acordo com a forma de pagamento. <br /> *Ex: se na VTEX estiver configurada a incidência de juros para pagamentos parcelados, o preço enviado vai continuar sendo o que foi retornado pela simulação de fulfillment.*
 
 ## 4. Promoções
 Diferente de uma promoção usada para o site da sua loja, uma promoção para marketplace apenas desconta o valor do produto, mas sem indicar que é uma promoção. Ou seja, o preço enviado já está modificado e não há um selo de promoção.
@@ -122,9 +112,7 @@ Os detalhes do pedido são influenciados diretamente por fatores como entrega, p
 #### Frete
 O Carrefour consulta, no momento do pedido, a tabela de frete cadastrada na VTEX. Nossa plataforma retorna para eles as opções de frete disponíveis, de acordo com o mapeamento preenchido na configuração da integração. É importante ter em mente que a consulta só é possível se a [API de Frete](https://help.vtex.com/pt/tracks/configurar-integracao-com-o-carrefour--2wYlj07cNuA8k8mmwY86K2/6FacWWJszKw0Um42uYcQai) for cadastrada no painel do Carrefour.
 
-<div class="alert alert-warning">
-OBS: caso nenhum dos campos do mapeamento seja preenchido corretamente, não será possível simular o frete na VTEX. Consequentemente, os pedidos feitos no Carrefour não serão integrados.
-</div>
+> ⚠️ OBS: caso nenhum dos campos do mapeamento seja preenchido corretamente, não será possível simular o frete na VTEX. Consequentemente, os pedidos feitos no Carrefour não serão integrados.
 
 Se a API de Frete não for cadastrada, o Carrefour vai usar uma __tabela de contingência__ para fazer o cálculo. Nesse caso, o Carrefour envia as informações do pedido e a integração tenta fazer um _match_ do frete calculado com a transportadora que mais se adequa dentro da VTEX (usamos o __tipo__ de transportadora como parâmetro). Caso não haja uma correspondência, haverá um erro na integração do pedido. Para solucionar isso, você precisará fazer primeiro o mapeamento de frete e, depois, reprocessar o pedido.
 
@@ -149,9 +137,7 @@ Durante o processo, pode ser que o pedido não seja integrado por algum motivo. 
 
 Depois que a integração acontece, os pedidos continuam sendo tratados com o mesmo ID usado no Carrefour.
 
-<div class="alert alert-warning">
-<strong>OBS:</strong> pedidos com algum tipo de incidente não são integrados. Caso o incidente ocorra depois da integração do pedido, um aviso vai ser exibido na aba de Rastreamento no Admin da VTEX.
-</div>
+> ⚠️ **OBS:** pedidos com algum tipo de incidente não são integrados. Caso o incidente ocorra depois da integração do pedido, um aviso vai ser exibido na aba de Rastreamento no Admin da VTEX.
 
 ### 5.3 Interação do pedido
 Depois que o pedido foi integrado com sucesso, você pode interagir com ele tanto pelo Admin da VTEX quanto pelo painel de administrador do Carrefour. No entanto, algumas ações podem ou não ser aplicadas nos dois lados.

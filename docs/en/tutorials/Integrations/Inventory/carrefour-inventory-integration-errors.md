@@ -15,5 +15,4 @@ locale: en
 subcategoryId: 7lxg0kyL3TYIsrlSQlf1zP
 ---
 
-<div class="alert alert-warning" role="alert">This is a regional exclusive content not applicable to 
-English speaking countries.</div>
+> ⚠️ This is a regional exclusive content not applicable to English speaking countries.

@@ -15,9 +15,7 @@ locale: es
 subcategoryId: 6XPsLadoT3moZ7eTduCg3c
 ---
 
-<div class = "alert alert-info">
-  <p>Esta funcionalidad se encuentra en fase beta, lo que significa que estamos trabajando para optimizarla. Si tienes alguna duda ponte en contacto con nuestro equipo de <a href="https://help.vtex.com/es/support">Soporte</a>.</p>
-</div>
+> ℹ️ Esta funcionalidad se encuentra en fase beta, lo que significa que estamos trabajando para optimizarla. Si tienes alguna duda ponte en contacto con nuestro equipo de [Soporte](https://help.vtex.com/es/support).
 
 La página **Catálogo > Categorías** del Admin VTEX te permite gestionar el árbol de categorías de tu tienda. Este artículo describe cómo crear y configurar categorías, [atributos y variaciones](#terminologia) y se divide en las siguientes secciones:
 
@@ -43,9 +41,7 @@ La página **Catálogo > Categorías** del Admin VTEX te permite gestionar el á
     * [Ver status de activación de variaciones y sus valores](#ver-status-de-activacion-de-variaciones-y-sus-valores)
     * [Ocultar variaciones inactivas](#ocultar-variaciones-inactivas)
 
-<div class="alert alert-danger">
-  <p>Las categorías (atributos o variaciones) no se pueden editar después de creadas; solo se pueden editar, desactivar u ocultar en la interfaz.</p>
-</div>
+> ❗ Las categorías (atributos o variaciones) no se pueden editar después de creadas; solo se pueden editar, desactivar u ocultar en la interfaz.
 
 ## Terminología 
 
@@ -61,7 +57,7 @@ En la fase beta utilizaremos una nueva nomenclatura para los siguientes término
 
 Al acceder a **Catálogo > Categorías** en el Admin VTEX, la vista predeterminada muestra la interfaz **Categorías** y **Atributos**, según se ilustra a continuación:
 
-![category_attributes_ES](//images.ctfassets.net/alneenqid6w5/7436dJLF4YzoYkjrm6GBfM/d5497da7c2bee3fd9a5c34b7cdbce6e1/category_attributes_ES.png)
+![category_attributes_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/beta/catalog-beta/crear-o-editar-categorias-atributos-y-variaciones-beta_1.png)
 
 A continuación se describe la información que se muestra y las acciones que se pueden realizar en esta página:
 
@@ -82,7 +78,7 @@ A continuación se describe la información que se muestra y las acciones que se
 
 Al seleccionar la vista de **Variaciones** se muestra la siguiente interfaz:
 
-![category_variations_ES](//images.ctfassets.net/alneenqid6w5/5XX38yXs6AkibrvpWqXODV/e0e4e79075fdccd3ebe5fd8005aee83a/category_variations_ES.png)
+![category_variations_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/beta/catalog-beta/crear-o-editar-categorias-atributos-y-variaciones-beta_2.png)
 
 A continuación se describe la información que se muestra y las acciones que se pueden realizar en esta página:
 
@@ -105,24 +101,18 @@ Puedes realizar las siguientes acciones en las categorías:
 * [Buscar categorías por nombre](#buscar-categorias-por-nombre)
 * [Ocultar categorías](#ocultar-categorias)
 
-<div class="alert alert-warning">
-  <p>No puedes eliminar categorías después de agregarlas, solo las puedes <a href="#editar-categorias">editar</a> o desactivar.</p>
-</div>
+> ⚠️ No puedes eliminar categorías después de agregarlas, solo las puedes [editar](#editar-categorias) o desactivar.
 
 ### Agregar categorías
 
 Para crear una categoría sigue los pasos a continuación:
 
-<div class="alert alert-danger">
-  <p>Si creas una categoría como categoría principal, no la puedes cambiar a subcategoría. La misma regla se aplica a las subcategorías. No las puedes cambiar a categorías ni modificar su asociación a la categoría principal.</p>
-</div>
+> ❗ Si creas una categoría como categoría principal, no la puedes cambiar a subcategoría. La misma regla se aplica a las subcategorías. No las puedes cambiar a categorías ni modificar su asociación a la categoría principal.
 
 1. En la esquina izquierda de la página, junto a la barra de búsqueda, haz clic en el ícono + o coloca el mouse en **Todos los productos** y haz clic en el + que se muestra. También puedes hacer clic en el ícono + junto al nombre de una categoría.
 2. Ingresa el nombre de la categoría en la ventana modal que se abre. Este es el único campo obligatorio.
 
-  <div class="alert alert-warning">
-  <p><p>El nombre de la categoría es importante para <a href="https://help.vtex.com/es/tutorial/melhorando-o-seo-das-paginas-de-lista-de-produtos--UrQtlKAMuSaLBP5wG9ftG">SEO</a> (optimización para buscadores) y recomendamos:</p><p><ul><li>Utilizar palabras simples.</li><li>Evitar otros idiomas.</li><li>Evitar ortografía compleja.</li><li>Utilizar un máximo de 150 caracteres.</li></ul></p>
-</div>
+  > ⚠️ El nombre de la categoría es importante para [SEO](https://help.vtex.com/es/tutorial/melhorando-o-seo-das-paginas-de-lista-de-produtos--UrQtlKAMuSaLBP5wG9ftG) (optimización para buscadores) y recomendamos:<ul><li>Utilizar palabras simples.</li><li>Evitar otros idiomas.</li><li>Evitar ortografía compleja.</li><li>Utilizar un máximo de 150 caracteres.</li></ul>
 
 3. Si deseas activar la categoría que estás creando en la tienda, marca la casilla **Activar**. Para mantenerla desactivada, deja la casilla sin marcar.
 4. En la sección **Información general**, puedes llenar los siguientes campos:
@@ -154,9 +144,7 @@ Para editar una categoría sigue los pasos a continuación:
 2. Haz clic en <i class="fas fa-pencil-alt" aria-hidden="true"></i> **Editar categoría**.
 3. Edita los datos deseados. 
 
-  <div class="alert alert-danger">
-  <p>No se pueden editar los siguientes ajustes:</p><p><ul><li>Nivel de jerarquía de la categoría (categoría principal o subcategoría).</li><li>Asociaciones entre las categorías y subcategorías.</li></ul></p>
-</div>
+  > ❗ No se pueden editar los siguientes ajustes:<ul><li>Nivel de jerarquía de la categoría (categoría principal o subcategoría).</li><li>Asociaciones entre las categorías y subcategorías.</li></ul>
 
 4. Haz clic en `Aplicar`.
 
@@ -166,9 +154,7 @@ Se mostrará un mensaje de confirmación *Categoría actualizada*.
 
 Después de crear las categorías, puedes encontrarlas utilizando la barra de búsqueda indicada por el ícono lupa <i class="fas fa-search" aria-hidden="true"></i>. La búsqueda solo tiene en cuenta el nombre de las categorías y subcategorías.
 
-<div class = "alert alert-info">
-  <p>Puedes utilizar el acceso rápido de teclado para buscar presionando la tecla <code>/</code>. El cursor se colocará en la barra de búsqueda automáticamente donde puedes ingresar el nombre de la categoría deseada.</p>
-</div>
+> ℹ️ Puedes utilizar el acceso rápido de teclado para buscar presionando la tecla `/`. El cursor se colocará en la barra de búsqueda automáticamente donde puedes ingresar el nombre de la categoría deseada.
 
 ### Ocultar categorías
 
@@ -195,9 +181,7 @@ Para crear un grupo sigue los pasos a continuación:
 
 Se mostrará un mensaje de confirmación *Grupo de la categoría guardado con éxito*. El grupo agregado automáticamente se mostrará en orden alfabético.
 
-<div class = "alert alert-info">
-  <p>Para más detalles sobre cómo incluir atributos en un grupo, consulta la sección <a href="#agregar-atributos">Agregar atributos</a> y para incluir variaciones, consulta <a href="#agregar-variaciones">Agregar variaciones</a>.</p>
-</div>
+> ℹ️ Para más detalles sobre cómo incluir atributos en un grupo, consulta la sección [Agregar atributos](#agregar-atributos) y para incluir variaciones, consulta [Agregar variaciones](#agregar-variaciones).
 
 ### Editar grupo
 
@@ -218,11 +202,9 @@ Un grupo de atributos creado en la categoría principal es obligatorio en todas 
 
 En la interfaz **Atributos**, los grupos y atributos heredados se indican mediante un ícono de compartir a la izquierda del nombre, como se ilustra a continuación:
 
-![inherited_atribute_ES](//images.ctfassets.net/alneenqid6w5/5nmtuQ4WLDd95101bFo3vq/918167c8ae9d6bb306b1f9b49e24c5cd/inherited_atribute_ES.png)
+![inherited_atribute_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/beta/catalog-beta/crear-o-editar-categorias-atributos-y-variaciones-beta_3.png)
 
-<div class = "alert alert-info">
-  <p>Para más información sobre status de los atributos, consulta la sección <a href="#ver-status-de-activacion-de-atributos-y-sus-valores">Ver status de activación de atributos y sus valores</a>.</p>
-</div>
+> ℹ️ Para más información sobre status de los atributos, consulta la sección [Ver status de activación de atributos y sus valores](#ver-status-de-activacion-de-atributos-y-sus-valores).
 
 ## Acciones en atributos
 
@@ -239,9 +221,7 @@ Para más detalles sobre la interfaz, consulta la sección [Interfaz de categor�
 
 Para registrar un atributo sigue los pasos a continuación:
 
-<div class="alert alert-danger">
-  <p>No se puede remover un atributo después de agregarlo a un grupo, solo se puede editar, desactivar u ocultar. No puedes editar el tipo de atributo.</p>
-</div>
+> ❗ No se puede remover un atributo después de agregarlo a un grupo, solo se puede editar, desactivar u ocultar. No puedes editar el tipo de atributo.
 
 1. Después de [agregar un grupo](#agregar-grupo) en la página **Atributos**, haz clic en el ícono + al lado del nombre del grupo deseado o haz clic en la flecha hacia abajo al lado del nombre del grupo y luego en `Agregar primer atributo`.
 2. Haz clic sobre el tipo de atributo deseado:
@@ -271,9 +251,7 @@ Para editar un atributo sigue los pasos a continuación:
 1. En la página **Atributos**, sitúa el mouse sobre el nombre del atributo que deseas editar y haz clic en el <i class="fas fa-pencil-alt" aria-hidden="true"></i> ícono de lápiz que se muestra.
 2. En el panel lateral que se abre, realiza los cambios de deseados. Para más información sobre **Configuración** o **Storefront**, consulta la sección [Agregar atributos](#agregar-atributos).
 
-  <div class="alert alert-warning">
-  <p>El tipo de atributo es el único ajuste que no se puede cambiar.</p>
-</div>
+  > ⚠️ El tipo de atributo es el único ajuste que no se puede cambiar.
 
 3. (Opcional). Este paso no se aplica a los atributos de tipo **Texto libre** y **Texto grande**, a diferencia de los tipos **Selección única** y **Selección múltiple** que tienen la sección **Valores**, en que puedes agregar los valores exactos del atributo. 
     * 3.1 Para crear un valor, haz clic en el ícono + o haz clic en la flecha hacia abajo junto a **Valores** y selecciona `Agregar primer valor`.
@@ -296,9 +274,7 @@ Los atributos y sus valores pueden tener dos status de activación según se des
 
 Para activar o desactivar atributos o sus valores, consulta la sección [Editar atributos](#editar-atributos).
 
-<div class="alert alert-info">
-  <p>Si deseas saber el significado del ícono que a veces se muestra al lado del status del atributo, consulta la sección <a href="#identificar-grupos-y-atributos-heredados">Identificar grupos y atributos heredados</a>.</p>
-</div>
+> ℹ️ Si deseas saber el significado del ícono que a veces se muestra al lado del status del atributo, consulta la sección [Identificar grupos y atributos heredados](#identificar-grupos-y-atributos-heredados).
 
 ### Ocultar atributos inactivos
 
@@ -321,9 +297,7 @@ Para más detalles sobre la interfaz, consulta la sección [Interfaz de categor�
 
 Para crear una variación sigue los pasos a continuación:
 
-<div class="alert alert-danger">
-  <p>No se puede remover una variación después de agregarla a un grupo, solo se puede editar, desactivar u ocultar en la interfaz. No puedes editar el tipo de la variación.</p>
-</div>
+> ❗ No se puede remover una variación después de agregarla a un grupo, solo se puede editar, desactivar u ocultar en la interfaz. No puedes editar el tipo de la variación.
 
 1. Después de [agregar un grupo](#agregar-grupo) en la página **Variaciones**, haz clic en el ícono + al lado del nombre del grupo deseado o haz clic en la flecha hacia abajo al lado del nombre del grupo y luego en `Crear primera variación`.
 2. Haz clic sobre el tipo de variación deseada:
@@ -351,9 +325,7 @@ Para editar una variación, sigue los pasos a continuación:
 1. En la página **Variaciones**, coloca el mouse sobre el nombre de la variación que deseas editar y haz clic en el <i class="fas fa-pencil-alt" aria-hidden="true"></i> ícono de lápiz que se muestra.
 2. En el panel lateral que se abre, realiza los cambios de configuración de la variación como desees. Para más información sobre **Configuración** o **Storefront**, consulta la sección [Agregar variaciones](#agregar-variaciones).
 
-  <div class = "alert alert-warning">
-  <p>El tipo de variación es el único ajuste que no se puede cambiar.</p>
-</div>
+  > ⚠️ El tipo de variación es el único ajuste que no se puede cambiar.
 
 3. El panel de edición muestra la sección **Valores** donde puedes modificar los valores predefinidos de la variación.
     * 3.1 Para crear un valor, haz clic en el ícono + o haz clic en la flecha hacia abajo junto a **Valores** y selecciona `Agregar primer valor`.
@@ -374,9 +346,7 @@ Los atributos de activación y sus valores de variación pueden tener dos status
 | Activo | La variación se refleja en el storefront y muestra únicamente los valores activados. | El valor de la variación puede reflejarse en el storefront desde el momento en que se active la variación. | 🟢 Verde |
 | Inactivo | La variación no se refleja en el storefront, independientemente del status de los valores. | El valor de la variación no se refleja en el storefront, independientemente del status de la variación. | ⚪ Blanco |
 
-<div class = "alert alert-info">
-  <p>Para activar o desactivar una variación o sus valores, consulta la sección <a href="#editar-variaciones">Editar variaciones</a>.</p>
-</div>
+> ℹ️ Para activar o desactivar una variación o sus valores, consulta la sección [Editar variaciones](#editar-variaciones).
 
 ### Ocultar variaciones inactivas
 

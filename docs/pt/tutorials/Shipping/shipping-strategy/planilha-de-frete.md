@@ -24,9 +24,7 @@ Para cadastrar preços de envio pela planilha de frete é necessário:
 1. [Preencher os campos da planilha](#preencher-os-campos-da-planilha)
 2. [Enviar o arquivo pelo Admin VTEX](#enviar-o-arquivo-pelo-admin-vtex)
 
-<div class="alert alert-info"> 
-Há também como cadastrar preços de envio pelo módulo <a href="https://help.vtex.com/pt/tutorial/gerenciar-valores-de-frete--tutorials_141">Tarifas de Envio</a>. Recomendamos utilizar a <a href="https://help.vtex.com/pt/tutorial/planilha-de-frete--tutorials_127">Planilha de frete</a> ao incluir vários intervalos de código postal, e utilizar Tarifas de Envio para gerenciar os preços de frete já cadastrados e para cadastrar cada intervalo de código postal individualmente.
-</div>
+> ℹ️ Há também como cadastrar preços de envio pelo módulo [Tarifas de Envio](https://help.vtex.com/pt/tutorial/gerenciar-valores-de-frete--tutorials_141). Recomendamos utilizar a [Planilha de frete](https://help.vtex.com/pt/tutorial/planilha-de-frete--tutorials_127) ao incluir vários intervalos de código postal, e utilizar Tarifas de Envio para gerenciar os preços de frete já cadastrados e para cadastrar cada intervalo de código postal individualmente.
 
 ## Preencher os campos da planilha
 
@@ -47,7 +45,7 @@ Confira a tabela a seguir para entender cada campo detalhadamente.
     <thead class="w-100 center mv7 bb b--gray" style="border-spacing: 0px; border-collapse: collapse;">
         <tr class="t-body fw5 c-muted-1 bb bw1 pa2 pb3 b--muted-3 tl">
             <th class="t-body fw5 c-muted-1 bb bw1 pa2 pb3 b--muted-3 tl">
-                <em class="i"><strong>Coluna</strong></em>
+                <em class="i">**Coluna**</em>
             </th>
             <th class="t-body fw5 c-muted-1 bb bw1 pa2 pb3 b--muted-3 tl">
                 <em class="i">Descrição</em>
@@ -64,9 +62,9 @@ Confira a tabela a seguir para entender cada campo detalhadamente.
             </td>
             <td class="t-body pa5" style="min-width: 15rem;">  O início do intervalo de faixa do código postal (CEP).
             </td>
-            <td rowspan="2" class="t-body pa5" style="min-width: 15rem;"> O preenchimento dos intervalos de código postal deverá ser feito apenas se o campo <b>PolygonName</b> não for preenchido, pois são dados de função equivalente.
-            <p>
-            Os  campos devem conter até 8 dígitos. Não se deve usar caracteres especiais, somente números e letras. <p>O preenchimento deve obedecer a seguinte regra:
+            <td rowspan="2" class="t-body pa5" style="min-width: 15rem;"> O preenchimento dos intervalos de código postal deverá ser feito apenas se o campo **PolygonName** não for preenchido, pois são dados de função equivalente.
+            
+            Os  campos devem conter até 8 dígitos. Não se deve usar caracteres especiais, somente números e letras. O preenchimento deve obedecer a seguinte regra:
                 <body>
                   <ul>
                     <li>Para intervalos apenas numéricos, o limite aceito é de  <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">0000000</span> até  <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">99999999</span>.</li>
@@ -87,9 +85,9 @@ Confira a tabela a seguir para entender cada campo detalhadamente.
             <td class="t-body pa5" style="min-width: 15rem;">
                 <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">PolygonName</span>
             </td>
-            <td class="t-body pa5" style="min-width: 15rem;">Identificação do polígono definido na função de <a href="https://help.vtex.com/pt/tutorial/gerenciar-geolocalizacao/">geolocalização</a>.
+            <td class="t-body pa5" style="min-width: 15rem;">Identificação do polígono definido na função de [geolocalização](https://help.vtex.com/pt/tutorial/gerenciar-geolocalizacao/).
             </td>
-            <td class="t-body pa5" style="min-width: 15rem;">Para usar a geolocalização, após preencher a coluna <b>PolygonName</b> com os valores desejados, preencha as colunas <b>ZipCodeStart</b> e <b>ZipCodeEnd</b> com o valor <code>0</code>.<p>Este campo deverá ser preenchido somente se os campos <b>ZipCodeStart</b> e <b>ZipCodeEnd</b> não forem usados, pois são dados de função equivalente.
+            <td class="t-body pa5" style="min-width: 15rem;">Para usar a geolocalização, após preencher a coluna **PolygonName** com os valores desejados, preencha as colunas **ZipCodeStart** e **ZipCodeEnd** com o valor `0`.Este campo deverá ser preenchido somente se os campos **ZipCodeStart** e **ZipCodeEnd** não forem usados, pois são dados de função equivalente.
             </td>
         </tr>
     <tr class="bb b--muted-3">
@@ -98,7 +96,7 @@ Confira a tabela a seguir para entender cada campo detalhadamente.
             </td>
             <td class="t-body pa5" style="min-width: 15rem;">Limite inicial do intervalo de peso aceito, em número decimal.
             </td>
-            <td rowspan="2" class="t-body pa5" style="min-width: 15rem;">Considere que a unidade de peso é a mesma do <a href="https://help.vtex.com/pt/tutorial/campos-de-cadastro-de-sku--21DDItuEQc6mseiW8EakcY">preenchimento de campos de cadastro de SKU</a>. Por exemplo, se ao cadastrar os SKUs você utilizou gramas, esse será o padrão utilizado  em <b>WeightStart </b>e <b>WeightEnd</b>.
+            <td rowspan="2" class="t-body pa5" style="min-width: 15rem;">Considere que a unidade de peso é a mesma do [preenchimento de campos de cadastro de SKU](https://help.vtex.com/pt/tutorial/campos-de-cadastro-de-sku--21DDItuEQc6mseiW8EakcY). Por exemplo, se ao cadastrar os SKUs você utilizou gramas, esse será o padrão utilizado  em **WeightStart **e **WeightEnd**.
             </td>
         </tr>
         <tr class="bb b--muted-3">
@@ -121,18 +119,18 @@ Confira a tabela a seguir para entender cada campo detalhadamente.
             <td class="t-body pa5" style="min-width: 15rem;">
                 <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">PricePercent</span>
             </td>
-            <td class="t-body pa5" style="min-width: 15rem;"><a href="https://help.vtex.com/pt/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV">Adicional por preço,</a> calculado em número decimal de acordo com o preço dos produtos no carrinho. Para o preenchimento da tabela, utilize o valor em porcentagem. Por exemplo: para um adicional de 10% preencha a tabela com 10.
+            <td class="t-body pa5" style="min-width: 15rem;">[Adicional por preço,](https://help.vtex.com/pt/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV) calculado em número decimal de acordo com o preço dos produtos no carrinho. Para o preenchimento da tabela, utilize o valor em porcentagem. Por exemplo: para um adicional de 10% preencha a tabela com 10.
             </td>
-            <td class="t-body pa5" style="min-width: 15rem;"> Utilize o campo nos casos em que exista um adicional de preço para a entrega. Os <a href="https://help.vtex.com/pt/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV">adicionais de frete</a> são somados ao valor fixo.
+            <td class="t-body pa5" style="min-width: 15rem;"> Utilize o campo nos casos em que exista um adicional de preço para a entrega. Os [adicionais de frete](https://help.vtex.com/pt/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV) são somados ao valor fixo.
             </td>
         </tr>
   <tr class="bb b--muted-3">
             <td class="t-body pa5" style="min-width: 15rem;">
                 <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">PriceByExtraWeight</span>
             </td>
-            <td class="t-body pa5" style="min-width: 15rem;"><a href="https://help.vtex.com/pt/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV">Adicional por peso</a>, calculado de acordo com o peso do carrinho, em número decimal. 
+            <td class="t-body pa5" style="min-width: 15rem;">[Adicional por peso](https://help.vtex.com/pt/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV), calculado de acordo com o peso do carrinho, em número decimal. 
             </td>
-            <td class="t-body pa5" style="min-width: 15rem;">Utilize o campo nos casos em que exista um adicional de preço para a entrega. Os <a href="https://help.vtex.com/pt/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV">adicionais de frete</a> são somados ao valor fixo. Considere que a unidade de peso está relacionada às mesmas utilizadas no <a href="https://help.vtex.com/pt/tutorial/campos-de-cadastro-de-sku--21DDItuEQc6mseiW8EakcY">preenchimento de campos de cadastro de SKU</a> (por exemplo: grama, quilograma e oz).
+            <td class="t-body pa5" style="min-width: 15rem;">Utilize o campo nos casos em que exista um adicional de preço para a entrega. Os [adicionais de frete](https://help.vtex.com/pt/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV) são somados ao valor fixo. Considere que a unidade de peso está relacionada às mesmas utilizadas no [preenchimento de campos de cadastro de SKU](https://help.vtex.com/pt/tutorial/campos-de-cadastro-de-sku--21DDItuEQc6mseiW8EakcY) (por exemplo: grama, quilograma e oz).
             </td>
         </tr>
   <tr class="bb b--muted-3">
@@ -141,14 +139,14 @@ Confira a tabela a seguir para entender cada campo detalhadamente.
             </td>
             <td class="t-body pa5" style="min-width: 15rem;">Volume máximo aceito, em número decimal.
             </td>
-            <td class="t-body pa5" style="min-width: 15rem;">Considere que a unidade de volume está relacionada às dimensões  cadastradas no <a href="https://help.vtex.com/pt/tutorial/campos-de-cadastro-de-sku--21DDItuEQc6mseiW8EakcY">preenchimento de campos de cadastro de SKU</a>. Por exemplo, se as arestas (altura, largura e comprimento) estiverem em centímetros, o campo de<b> MaxVolume </b>deve estar em cm³.
+            <td class="t-body pa5" style="min-width: 15rem;">Considere que a unidade de volume está relacionada às dimensões  cadastradas no [preenchimento de campos de cadastro de SKU](https://help.vtex.com/pt/tutorial/campos-de-cadastro-de-sku--21DDItuEQc6mseiW8EakcY). Por exemplo, se as arestas (altura, largura e comprimento) estiverem em centímetros, o campo de** MaxVolume **deve estar em cm³.
             </td>
         </tr>
   <tr class="bb b--muted-3">
             <td class="t-body pa5" style="min-width: 15rem;">
                 <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">TimeCost</span>
             </td>
-            <td class="t-body pa5" style="min-width: 15rem;">Tempo de entrega do pedido pela transportadora, no formato <b>DD.HH:MM:SS</b>.
+            <td class="t-body pa5" style="min-width: 15rem;">Tempo de entrega do pedido pela transportadora, no formato **DD.HH:MM:SS**.
             </td>
             <td class="t-body pa5" style="min-width: 15rem;">Por exemplo: se o tempo para a realização da entrega é de 4 dias e meio, o campo deve ser preenchido da seguinte forma: 04.12:00:00.
             </td>
@@ -159,29 +157,27 @@ Confira a tabela a seguir para entender cada campo detalhadamente.
             </td>
             <td class="t-body pa5" style="min-width: 15rem;">País onde a entrega será realizada, preenchido com o código ISO de 3 dígitos.
             </td>
-            <td class="t-body pa5" style="min-width: 15rem;">Para consultar o código ISO do país, acesse <a href="https://countrycode.org/">Country Codes</a>.
+            <td class="t-body pa5" style="min-width: 15rem;">Para consultar o código ISO do país, acesse [Country Codes](https://countrycode.org/).
             </td>
         </tr>
   <tr class="bb b--muted-3">
             <td class="t-body pa5" style="min-width: 15rem;">
                 <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">MinimumValueInsurance</span>
             </td>
-            <td class="t-body pa5" style="min-width: 15rem;"><a href="https://help.vtex.com/pt/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV">Valor adicional de seguro</a>, configurado com um valor absoluto, em número decimal.
+            <td class="t-body pa5" style="min-width: 15rem;">[Valor adicional de seguro](https://help.vtex.com/pt/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV), configurado com um valor absoluto, em número decimal.
             </td>
             <td class="t-body pa5" style="min-width: 15rem;">O valor cadastrado no campo é adicionado ao frete. No entanto, só será adicionado quando o <a href="https://help.vtex.com/pt/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV">Adicional por preço
-</a> for menor que o campo  <em>MinimumValueInsurance</em>. Veja em <a href="https://help.vtex.com/pt/faq/para-que-serve-o-campo-na-tabela-de-frete-minimum-value-insurance">Para que serve o campo Minimum Value Insurance?</a>
+</a> for menor que o campo  *MinimumValueInsurance*. Veja em [Para que serve o campo Minimum Value Insurance?](https://help.vtex.com/pt/faq/para-que-serve-o-campo-na-tabela-de-frete-minimum-value-insurance)
             </td>
         </tr>
 </tbody>
 </table>
 
-<div class="alert alert-info"> 
-Para fins de usabilidade de termos, utilizamos em nossa documentação o termo "peso" ao invés de "massa". 
-</div>
+> ℹ️ Para fins de usabilidade de termos, utilizamos em nossa documentação o termo "peso" ao invés de "massa".
 
 Veja abaixo um exemplo de preenchimento dos campos, considerando o formato aceito em cada coluna. 
 
-![modelo_planilhanumerica](//images.ctfassets.net/alneenqid6w5/15Dc2cfsXWbIwSt2vypWN3/20628e9acf5336c3fefcc84d334c08ec/freight_-_Debora_Moreno.png)
+![modelo_planilhanumerica](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Shipping/shipping-strategy/planilha-de-frete_1.png)
 
 ## Enviar o arquivo pelo Admin VTEX
 
@@ -196,13 +192,9 @@ O envio da planilha é feito no cadastro ou na edição de **Política de Envio.
 
 ![upload tarifas envioPT]   (//images.contentful.com/alneenqid6w5/1qNl0ZaHhZMpshuBWRQhs9/f5814cef893c4f139a8497ec1985cbb2/upload_tarifas_envioPT.png)
 
-<div class="alert alert-warning"> 
-Para cadastrar uma <b>nova</b> Política de Envio, é preciso preencher outros campos além da Planilha de frete. Entenda como criar, editar e preencher todos os campos necessários no artigo <a href="https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140">Política de Envio</a>.
-</div>
+> ⚠️ Para cadastrar uma **nova** Política de Envio, é preciso preencher outros campos além da Planilha de frete. Entenda como criar, editar e preencher todos os campos necessários no artigo [Política de Envio](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140).
 
-<div class="alert alert-danger"> 
-Cada aba dentro da planilha não pode ultrapassar 65.536 linhas. É possível criar várias abas na mesma planilha, respeitando o limite de linhas. Não há limite de abas dentro do arquivo, no entanto o arquivo total não pode exceder 10Mb. Se preciso, compacte o arquivo em formato <b>.zip</b>. Se ainda não for suficiente, divida em dois arquivos e cadastre outra política de envio para fazer upload do segundo arquivo criado. 
-</div>
+> ❗ Cada aba dentro da planilha não pode ultrapassar 65.536 linhas. É possível criar várias abas na mesma planilha, respeitando o limite de linhas. Não há limite de abas dentro do arquivo, no entanto o arquivo total não pode exceder 10Mb. Se preciso, compacte o arquivo em formato **.zip**. Se ainda não for suficiente, divida em dois arquivos e cadastre outra política de envio para fazer upload do segundo arquivo criado.
 
 Caso exista algum problema no preenchimento dos campos do arquivo enviado, você receberá um email informando o erro. Não esqueça de verificar o preenchimento correto antes de realizar uma nova tentativa de envio.
 

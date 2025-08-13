@@ -15,9 +15,7 @@ locale: en
 subcategoryId: 1E7tziZCkY4w8i4EmUuwec
 ---
 
-<div class = "alert alert-info">
-On the VTEX platform, Department, Category, and Subcategory structure is not predefined. It varies according to the structure of your store, and it is not mandatory to create these 3 hierarchical levels.
-</div>
+> ℹ️ On the VTEX platform, Department, Category, and Subcategory structure is not predefined. It varies according to the structure of your store, and it is not mandatory to create these 3 hierarchical levels.
 
 The registration of a category happens inside the __Catalog__ on VTEX Admin.
 
@@ -37,15 +35,7 @@ To better understand the meaning of each category registration field, see the fu
 
 - __Name:__ the name you want to give to the department or category you're registering. Use simple words and avoid other languages or complex writing. This field is important for SEO and must respect the 150 character limit.
 
-  <div class="alert alert-danger">
-    <p>When filling in the category <b>Name</b>, avoid using the following reserved words, as this can hinder your store's performance and interfere with the functioning of VTEX Admin pages. See the list of reserved words below.
-    <ul>
-      <li><code>a</code></li>
-      <li><code>meta</code></li>
-      <li><code>api</code></li>
-      <li><code>admin</code></li>
-    </ul></p>
-  </div>
+  > ❗ When filling in the category **Name**, avoid using the following reserved words, as this can hinder your store's performance and interfere with the functioning of VTEX Admin pages. See the list of reserved words below. <ul> <li>`a`</li> <li>`meta`</li> <li>`api`</li> <li>`admin`</li> </ul>
 
 - __Similar words:__ synonyms of terms related to the name given to your department or category. "Television", for example, can have as a substitute word like "TV". This field is important to make your searches more comprehensive and must respect the 200 character limit.
 - __Category Page Title (Tag Title):__ text that is displayed in the browser tab and corresponds to the page title of the category. This field is important for SEO search engines. It only supports plain text and cannot contain HTML tags.
@@ -61,11 +51,11 @@ To better understand the meaning of each category registration field, see the fu
 - __Score (used for search ordering):__ value used to set the priority on the search result page. To understand more about Score, access our article: [How does the score field work?](https://help.vtex.com/en/tutorial/how-does-the-score-field-work--1BUZC0mBYEEIUgeQYAKcae).
 - __Product display mode:__ defines how SKUs will be displayed on the product page. See below the options for this field:
   - __List of SKUs:__ All SKUs in the department or category in question will be displayed in list format. Each one with its Buy button on the side.
-  ![1Lista.en](//images.ctfassets.net/alneenqid6w5/52RUiCTYT5JeL6Huo53nSh/1b3c9713709f10be3e88ae5925128de5/Lista.en.png)
+  ![1Lista.en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/Categories/registering-a-category_1.png)
   - __Icons with radio selection (radio box)__ All SKUs in this department/category will need to be selected through radio selection.
-  ![RadioBox.en](//images.ctfassets.net/alneenqid6w5/bbx5D8m5cXuac0w1LZGc2/9c91af75ed6af97eebf70207880e7708/RadioBox.en.png)
+  ![RadioBox.en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/Categories/registering-a-category_2.png)
   - __Following definition of the SKU specification:__ all SKUs in this department/category will be selected according to the specification tab on the SKU registration form. The preconfigured options are Combo or Radio.
-  ![Campos.en](//images.ctfassets.net/alneenqid6w5/4opYmeQPk3r8uux4ldosbh/d14bec6c5bdb9d6b0e6b4ab87bd20ef6/Campos.en.png)
+  ![Campos.en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/Categories/registering-a-category_3.png)
 
 ## Learn more
 

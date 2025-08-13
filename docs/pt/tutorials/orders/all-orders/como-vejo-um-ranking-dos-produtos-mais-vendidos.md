@@ -15,9 +15,7 @@ locale: pt
 subcategoryId: 2t00bBkcAwIkgSCGKsMOwY
 ---
 
-<div class="alert alert-warning">
-O módulo <strong>Pedidos</strong> não tem o objetivo de servir como ferramenta de BI (Business Inteligence). Normalmente, é no ERP que a loja tem acesso aos relatórios de vendas.
-</div>
+> ⚠️ O módulo **Pedidos** não tem o objetivo de servir como ferramenta de BI (Business Inteligence). Normalmente, é no ERP que a loja tem acesso aos relatórios de vendas.
 
 Embora o objetivo principal do módulo **Pedidos** seja gerenciar o fluxo de pedidos, é possível manipular os dados da [planilha de pedidos](https://help.vtex.com/tutorial/planilha-de-pedidos) para extrair informações que podem ser úteis ao seu negócio.
 

@@ -44,9 +44,7 @@ Para diferenciar produtos e/ou preços em cada loja, é necessária a utilizaç�
 
 Para que os clientes possam acessar a nova loja, siga as instruções abaixo para criar um website copiando a estrutura de pastas do seu website principal. Esse processo facilita a criação do layout, mas também é possível criar um website novo.
 
-<div class="alert alert-danger">
-Lojas desenvolvidas com Store Framework também devem seguir estas instruções. Caso contrário, a nova loja não ficará disponível.
-</div>
+> ❗ Lojas desenvolvidas com Store Framework também devem seguir estas instruções. Caso contrário, a nova loja não ficará disponível.
 
 1. No Admin VTEX, acesse o módulo **Storefront > Layout**.
 2. Clique em **CMS > Sites and channels**.
@@ -57,12 +55,12 @@ Lojas desenvolvidas com Store Framework também devem seguir estas instruções.
 7. Clique em `Save Website`.
 8. No campo **Links**, clique em `Add`.
 
-    ![cms-layout](//images.ctfassets.net/alneenqid6w5/4bVAAc3Fs8ArVYy1qSCAnX/c2e122871755da52a3dad51d8aa10593/cms-layout.png)
+    ![cms-layout](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/account-management/accounts/gerenciando-uma-multiloja_1.png)
 
 9. Preencha o campo **Store name from License Manager** com o valor da subconta criada anteriormente no módulo de [Gerenciamento de conta](#configurar-nova-loja).
 10. Preencha o campo **Available sales channel** selecionando as políticas comerciais que serão associadas a esta loja.
 
-    <div class="alert alert-warning"> Caso a loja utilize mais de uma 1 política comercial, atente-se para a ordenação dessas políticas em <strong>Configurações da loja > Canais > Políticas comerciais</strong>. Para saber mais, veja <a href="https://help.vtex.com/pt/tutorial/como-funciona-a-relacao-entre-websites-e-politicas-comerciais--1VuakBcyNOgg4AM4cUeeQg">Como funciona a relação entre websites e políticas comerciais</a>.</div>
+    > ⚠️ Caso a loja utilize mais de uma 1 política comercial, atente-se para a ordenação dessas políticas em **Configurações da loja > Canais > Políticas comerciais**. Para saber mais, veja [Como funciona a relação entre websites e políticas comerciais](https://help.vtex.com/pt/tutorial/como-funciona-a-relacao-entre-websites-e-politicas-comerciais--1VuakBcyNOgg4AM4cUeeQg).
 
 11. Clique em `Save Binding` e depois em `Save Website`.
 
@@ -74,9 +72,7 @@ Para gerar o arquivo XML da nova loja automaticamente, siga as instruções do g
 
 Para excluir uma multiloja existente, siga as instruções da seção **Excluir loja** do guia [Gerenciamento de conta](https://help.vtex.com/pt/tutorial/account-details-page--2vhUVOKfCaswqLguT2F9xq#excluir-loja).
 
-<div class="alert alert-warning">
-O nome da subconta removida não poderá ser utilizado novamente.
-</div>
+> ⚠️ O nome da subconta removida não poderá ser utilizado novamente.
 
 ## Saiba mais
 

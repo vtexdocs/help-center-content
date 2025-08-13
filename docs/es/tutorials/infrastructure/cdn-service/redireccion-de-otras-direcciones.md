@@ -27,13 +27,11 @@ Para posibilitar el acceso a la tienda desde otras direcciones y versiones sin s
 
 ## Configurar redirecciones
 
-Existen diversas formas de configurar las redirecciones, y una de las más conocidas es mediante el uso de <code>[htaccess](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Apache_Configuration_htaccess)</code> en el servidor. Además, puedes utilizar una redirección DNS, proporcionada por varios servicios, incluidos proveedores de dominios como [domain.com](https://www.domain.com/).
+Existen diversas formas de configurar las redirecciones, y una de las más conocidas es mediante el uso de `[htaccess](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Apache_Configuration_htaccess)` en el servidor. Además, puedes utilizar una redirección DNS, proporcionada por varios servicios, incluidos proveedores de dominios como [domain.com](https://www.domain.com/).
 
 Consulta a continuación instrucciones para configurar redirecciones a la dirección principal de tu tienda utilizando esta sencilla herramienta: [Redirect Center](http://redirect.center/).
 
-<div class="alert alert-warning">
-  <p><a href="http://redirect.center/">Redirect Center</a> no es un servicio de VTEX y no funciona con HTTPS. Existen otros servicios similares, y VTEX no recomienda ninguno en particular. VTEX no se hace responsable de los problemas causados por servicios externos de redirección.</p>
-</div>
+> ⚠️ [Redirect Center](http://redirect.center/) no es un servicio de VTEX y no funciona con HTTPS. Existen otros servicios similares, y VTEX no recomienda ninguno en particular. VTEX no se hace responsable de los problemas causados por servicios externos de redirección.
 
 ### Redirección de direcciones sin subdominio (como www)
 

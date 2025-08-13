@@ -38,7 +38,7 @@ Feito isso, sua plataforma VTEX terá a nova aba VTEX Tracking liberada no menu 
 
 A integração entre sua loja no Admin da VTEX, e a app VTEX Tracking depende de algumas configurações. Confira abaixo as configurações necessárias para que seu serviço VTEX Tracking seja ativado, e o passo a passo para acessar o menu de Configurações. 
 
-![VTEX Tracking app install](//images.ctfassets.net/alneenqid6w5/2TreUSwOkfK0VVTLxHLFpi/a6005d9583994252ea385c55bd1a35a6/VTEX_Tracking_app_install.jpg) 
+![VTEX Tracking app install](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-tracking/vtex-tracking---all-articles/como-instalar-e-configurar-a-app-vtex-tracking-no-seu-admin-vtex_1.jpg) 
 
 1. No Admin VTEX, acesse **Aplicativos > Apps instalados > VTEX Tracking**, ou digite **VTEX Tracking** na barra de busca no topo da página.
 2. Digite o **Token da API** na caixa de texto.  
@@ -73,7 +73,7 @@ Se os casos descritos acima são relevantes para a sua operação, recomendamos 
 
 Para enviar uma nota fiscal na sua integração, você deve disponibilizá-la em um arquivo XML com um link público e enviar a URL no campo `invoiceUrl` da  [requisição de notificação de fatura](https://developers.vtex.com/vtex-rest-api/reference/invoice#invoicenotification) da API de gerenciamento de pedidos.
 
-Para obter um link público, você pode hospedar o arquivo XML em um serviço de nuvem. O caráter público indica apenas a configuração de privacidade do arquivo. Isso não significa que qualquer pessoa terá acesso, apenas quem tiver a URL completa. Confira o  exemplo de <a href="https://www.vtextracking.com/support-files/exemplo-arquivo-nfe.xml">nota fiscal XML</a> com a URL <code style="background-color:#e3e4e6">https://www.vtextracking.com/support-files/exemplo-arquivo-nfe.xml</code>.
+Para obter um link público, você pode hospedar o arquivo XML em um serviço de nuvem. O caráter público indica apenas a configuração de privacidade do arquivo. Isso não significa que qualquer pessoa terá acesso, apenas quem tiver a URL completa. Confira o  exemplo de [nota fiscal XML](https://www.vtextracking.com/support-files/exemplo-arquivo-nfe.xml) com a URL <code style="background-color:#e3e4e6">https://www.vtextracking.com/support-files/exemplo-arquivo-nfe.xml</code>.
 
 A URL enviada deve conter a extensão <code style="background-color:#e3e4e6">.xml</code>, garantindo que o formato está correto. A ausência dessa extensão sinaliza que o endereço é referente a um arquivo de outro tipo (como PDF ou HTML), mesmo que tenha o texto do XML incorporado, e a integração não funcionará. 
 
@@ -86,7 +86,7 @@ Após realizar o envio, você pode conferir se teve sucesso seguindo esses passo
 
 Se a nota fiscal estiver correta, o envio ocorreu como esperado.
 
-<div class="alert alert-warning" role="alert">Observe o padrão de notas fiscais em XML estabelecido pela Secretaria de Estado da Fazenda (Sefaz) pertinente à sua operação.</div>
+> ⚠️ Observe o padrão de notas fiscais em XML estabelecido pela Secretaria de Estado da Fazenda (Sefaz) pertinente à sua operação.
 
 ### Atualização do status de entrega nos pedidos
 

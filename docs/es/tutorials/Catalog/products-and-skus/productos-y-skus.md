@@ -17,7 +17,7 @@ subcategoryId: pwxWmUu7T222QyuGogs68
 
 La página **Productos y SKUs** permite ver y gestionar toda la lista de productos registrados en la tienda, incluyendo la información de los SKU, fecha de actualización y status. Para acceder a la página, ve a **Catálogo > Productos y SKUs**. 
 
-![products_and_skus_listing_page_ES](//images.ctfassets.net/alneenqid6w5/7Hg9SPWks9EScdyttTfXYI/ad4ebdf2c96de0f78d7252dc056aa831/products_and_skus_listing_page_ES.png)
+![products_and_skus_listing_page_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Catalog/products-and-skus/productos-y-skus_1.png)
 
 La página te permite realizar las siguientes acciones:
 
@@ -34,8 +34,8 @@ En la lista de productos, puedes ver la siguiente información:
 
 | **Columna** | **Descripción** |
 |----|----|
-| **Nombre** | <p>Nombre que identifica el producto, definido al crearlo. Debajo del nombre, la página muestra el ID del producto, es decir, el código identificador único del producto.</p><p>Junto al nombre, cada fila muestra una flecha <i class="fas fa-chevron-right"></i> para <a href="#ver-la-lista-de-skus">ver la lista de SKUs</a> asociada al producto, un icono que representa la <a href="#monitorear-disponibilidad-de-los-productos">disponibilidad del producto</a> y la imagen registrada para el producto.</p>|
-| **Última actualización** | Fecha de <a href="https://help.vtex.com/es/tutorial/entendendo-o-funcionamento-da-indexacao--tutorials_256">indexación</a> más reciente del producto. Para ver los detalles de este proceso, consulta la sección <a href="#ver-detalles-de-indexacion">Ver detalles de indexación</a>. |
+| **Nombre** | Nombre que identifica el producto, definido al crearlo. Debajo del nombre, la página muestra el ID del producto, es decir, el código identificador único del producto.Junto al nombre, cada fila muestra una flecha <i class="fas fa-chevron-right"></i> para [ver la lista de SKUs](#ver-la-lista-de-skus) asociada al producto, un icono que representa la [disponibilidad del producto](#monitorear-disponibilidad-de-los-productos) y la imagen registrada para el producto.|
+| **Última actualización** | Fecha de [indexación](https://help.vtex.com/es/tutorial/entendendo-o-funcionamento-da-indexacao--tutorials_256) más reciente del producto. Para ver los detalles de este proceso, consulta la sección [Ver detalles de indexación](#ver-detalles-de-indexacion). |
 
 ## Crear producto
 
@@ -55,9 +55,7 @@ Para encontrar un producto específico, puedes ingresar uno de los siguientes da
 
 Después de escribir la información en la barra de búsqueda, la barra se expande y muestra los criterios existentes. La búsqueda se realiza inmediatamente al hacer clic en la opción deseada y devuelve los resultados. Para limpiar la búsqueda, haz clic en el ícono X en la barra de búsqueda.
 
-<div class = "alert alert-info">
-El orden de las búsquedas sigue la fecha de actualización: mientras más reciente sea la actualización de un producto o SKU, mayor será su prioridad en los resultados.
-</div>
+> ℹ️ El orden de las búsquedas sigue la fecha de actualización: mientras más reciente sea la actualización de un producto o SKU, mayor será su prioridad en los resultados.
 
 ## Filtrar productos
 
@@ -72,9 +70,7 @@ Puedes filtrar la lista de productos por los criterios que se listan a continuac
 * [Política comercial](https://help.vtex.com/es/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV)
 * Fecha de creación
 
-<div class = "alert alert-info">
-Una forma rápida de buscar productos creados recientemente es utilizar el filtro <code>Fecha de creación</code>. Puedes escoger entre las opciones de productos creados <code>Hoy</code> o <code>Últimos 7 días</code>.
-</div>
+> ℹ️ Una forma rápida de buscar productos creados recientemente es utilizar el filtro `Fecha de creación`. Puedes escoger entre las opciones de productos creados `Hoy` o `Últimos 7 días`.
 
 ### Filtrar por status
 
@@ -82,8 +78,8 @@ La siguiente tabla describe el significado de las opciones del filtro `Status`:
 
 | **Tipo de status** | **Descripción** |
 | :---: | :--- |
-| Activo | <p>El producto se considera activo cuando el retailer activa la configuración del status en el producto para demostrar que desea venderlo.</p><p>Para poder venderlo, el producto debe estar activo. Sin embargo, la activación no garantiza su disponibilidad, ya que un producto disponible debe cumplir con otros factores, como precio, stock, entre otros. Consulta más información en <a href="https://help.vtex.com/es/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382">¿Por qué el producto no aparece en el sitio web?</a>.</p> |
-| Inactivo | <p>El producto se considera inactivo cuando el retailer desactiva la configuración de status para indicar que no desea venderlo en ese momento.</p><p>Todo producto inactivo se clasifica como no disponible para la venta.</p> |
+| Activo | El producto se considera activo cuando el retailer activa la configuración del status en el producto para demostrar que desea venderlo.Para poder venderlo, el producto debe estar activo. Sin embargo, la activación no garantiza su disponibilidad, ya que un producto disponible debe cumplir con otros factores, como precio, stock, entre otros. Consulta más información en [¿Por qué el producto no aparece en el sitio web?](https://help.vtex.com/es/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382). |
+| Inactivo | El producto se considera inactivo cuando el retailer desactiva la configuración de status para indicar que no desea venderlo en ese momento.Todo producto inactivo se clasifica como no disponible para la venta. |
 
 ## Monitorear disponibilidad de los productos
 
@@ -91,9 +87,9 @@ En la página **Productos y SKUs** cada producto tiene un ícono de color que in
 
 | **Color del ícono** | **Nombre** | **Significado** |
 | :---: | :---: | :--- |
-| Verde | `Disponible para la venta` | El producto tiene status activo y está disponible para la venta en la tienda; además tiene por lo menos una <a href="https://help.vtex.com/es/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV">política comercial</a> asociada. |
-| Naranja | `Producto no disponible` | <p>El producto no está disponible para la venta a pesar de tener status activo. Es decir, el retailer configuró el status para indicar que desea venderlo, pero por el momento no está disponible.</p><p>La indisponibilidad del producto puede deberse a diferentes motivos, como precio, stock, logística, entre otros. Para más información, consulta el artículo <a href="https://help.vtex.com/es/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382">¿Por qué el producto no aparece en el sitio web?</a>.</p> |
-| Blanco | `Inactivo en el catálogo` | <p>El producto está deshabilitado y tiene status inactivo.</p><p>Los retailers desactivan un producto cuando no desean venderlo y en estos casos el seguimiento de la disponibilidad no se aplica.</p> |
+| Verde | `Disponible para la venta` | El producto tiene status activo y está disponible para la venta en la tienda; además tiene por lo menos una [política comercial](https://help.vtex.com/es/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) asociada. |
+| Naranja | `Producto no disponible` | El producto no está disponible para la venta a pesar de tener status activo. Es decir, el retailer configuró el status para indicar que desea venderlo, pero por el momento no está disponible.La indisponibilidad del producto puede deberse a diferentes motivos, como precio, stock, logística, entre otros. Para más información, consulta el artículo [¿Por qué el producto no aparece en el sitio web?](https://help.vtex.com/es/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382). |
+| Blanco | `Inactivo en el catálogo` | El producto está deshabilitado y tiene status inactivo.Los retailers desactivan un producto cuando no desean venderlo y en estos casos el seguimiento de la disponibilidad no se aplica. |
 
 Los íconos de disponibilidad del producto se aplican de la misma manera a los SKUs, según se describe en la sección a seguir.
 
@@ -101,7 +97,7 @@ Los íconos de disponibilidad del producto se aplican de la misma manera a los S
 
 Al hacer clic en la flecha <i class="fas fa-chevron-right"></i> en la fila de un producto de la lista, la plataforma muestra una lista con todos los SKUs registrados para ese producto, según se ilustra a continuación:
 
-![products_and_skus_sku_icons_ES](//images.ctfassets.net/alneenqid6w5/7ssqk5kn4ZYRpduWngH49e/427a530b47c7bfbbe49a79297d79136f/products_and_skus_sku_icons_ES.gif)
+![products_and_skus_sku_icons_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Catalog/products-and-skus/productos-y-skus_2.gif)
 
 En la lista de SKU, se puede ver la siguiente información:
 
@@ -140,7 +136,7 @@ Al hacer clic en el icono de menú <i class="fas fa-ellipsis-v"></i> de un produ
 
 La página **Productos y SKUs** te permite ver los logs (registros técnicos) de la indexación de productos y SKUs haciendo clic en la fila del producto deseado y luego seleccionando `Ver detalles de la indexación` en el [menú de acciones](#acceder-al-menu-de-acciones) <i class="fas fa-ellipsis-v" aria-hidden="true"></i>. Se mostrará la ventana **Log de indexación** según se ilustra a continuación:
 
-![products_and_skus_indexing_modal_ES](//images.ctfassets.net/alneenqid6w5/32F9nLJmKAqeCzvghvMeS5/416d4c079fd73c9b51360058dd2a22c5/products_and_skus_indexing_modal_ES.png)
+![products_and_skus_indexing_modal_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Catalog/products-and-skus/productos-y-skus_3.png)
 
 En la parte superior derecha de la ventana, puedes copiar el contenido al portapapeles haciendo clic en <i class="far fa-clone" aria-hidden="true"></i> `Copiar`. Para cerrar la ventana, haz clic en el ícono <i class="far fa-times-circle" aria-hidden="true"></i> o fuera de la ventana.
 

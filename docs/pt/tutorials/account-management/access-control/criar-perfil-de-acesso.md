@@ -26,9 +26,7 @@ Confira a seguir o passo a passo para cada uma dessas opções:
 
 Recomendamos a criação de perfis que sejam análogos às estruturas hierárquicas da loja. Desta forma, todos os colaboradores são responsáveis pelas informações a que podem ter acesso. Boas práticas de gerenciamento dos perfis de acesso aumentam a segurança de uma operação, além de se reforçar a atenção de todos os envolvidos com dados sensíveis de uma loja e de seus clientes. 
 
-<div class="alert alert-warning">
-  <p>O uso irrestrito de perfis de acesso muito permissivos aumenta o risco de ataques nas lojas caso ocorra o vazamento de credenciais de login.</p>
-</div>
+> ⚠️ O uso irrestrito de perfis de acesso muito permissivos aumenta o risco de ataques nas lojas caso ocorra o vazamento de credenciais de login.
 
 ## Utilizar perfil de acesso predefinido
 
@@ -45,13 +43,13 @@ Para começar a utilizar um perfil de acesso predefinido, siga as instruções a
 
     Por exemplo, o perfil **Call center operator** contém um recurso do produto _Catálogo_ que permite executar operações numa loja em nome de um cliente e um recurso do _OMS_ que permite checar o status de um pedido:
 
-    ![Novo perfil de acesso](//images.ctfassets.net/alneenqid6w5/5biL3DriciSnHKbgHvV2PE/1fe552a5c15c7c3dee8d54c88a60fafc/image_3.png)
+    ![Novo perfil de acesso](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/account-management/access-control/criar-perfil-de-acesso_1.png)
 
     Saiba mais sobre os perfis predefinidos disponíveis e os recursos associados em [Perfis de acesso predefinidos](https://help.vtex.com/pt/tutorial/perfis-de-acesso-predefinidos--jGDurZKJHvHJS13LnO7Dy).
 
 4. Adicione usuários administrativos ao perfil de acesso, preenchendo o email do usuário a ser inserido em **Adicionar usuários para este perfil de acesso** e clicando em `Adicionar`.
 
-    ![Usuários do perfil](//images.ctfassets.net/alneenqid6w5/1lSnygEawddufMz9IZ45Mj/39ac0e7bfbf0abb88113494883108a83/usuarios-perfil-pt.png)
+    ![Usuários do perfil](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/account-management/access-control/criar-perfil-de-acesso_2.png)
 
     Se o usuário não existir, será criado um novo usuário usando o email como nome, ou seja, nome e email serão iguais.
 
@@ -71,7 +69,7 @@ Para criar  um perfil de acesso personalizado para atender as necessidades de ac
 
     Você verá a lista de todos os recursos disponíveis para o produto:
 
-    ![Configurando produto](//images.ctfassets.net/alneenqid6w5/1VE4awGJHyrsR2OkYwAzRQ/39bc16eca81b8a13946f081c5a1454d3/image_4.png)
+    ![Configurando produto](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/account-management/access-control/criar-perfil-de-acesso_3.png)
 
 5. Marque os recursos aos quais o perfil deve conceder acesso. Confira a lista completa de [Recursos do License Manager](https://help.vtex.com/pt/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3) para mais informações sobre cada um.
 6. Caso deseje adicionar recursos de outro produto, clique no botão **Configurar outro produto**, ao final da lista de produtos e recursos e repita os passos 4 e 5.
@@ -80,13 +78,11 @@ Para criar  um perfil de acesso personalizado para atender as necessidades de ac
 
 7. Escreva um nome para o perfil personalizado no campo **Nome do perfil**.
 
-  <div class="alert alert-warning">
-    <p>É importante escolher nomes descritivos para os perfis de acesso, deixando claro que tipo de usuário deve ter aquele acesso. Recomendamos indicar o cargo na empresa ou atividade a ser desempenhada na plataforma.</p>
-  </div>
+  > ⚠️ É importante escolher nomes descritivos para os perfis de acesso, deixando claro que tipo de usuário deve ter aquele acesso. Recomendamos indicar o cargo na empresa ou atividade a ser desempenhada na plataforma.
 
 8. Adicione usuários administrativos ao perfil de acesso, preenchendo o email do usuário a ser inserido em **Adicionar usuários para este perfil de acesso** e clicando em `Adicionar`.
 
-    ![Usuários do perfil](//images.ctfassets.net/alneenqid6w5/1lSnygEawddufMz9IZ45Mj/39ac0e7bfbf0abb88113494883108a83/usuarios-perfil-pt.png)
+    ![Usuários do perfil](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/account-management/access-control/criar-perfil-de-acesso_4.png)
 
     Se o usuário não existir, será criado um novo usuário usando o email como nome, ou seja, nome e email serão iguais.
 

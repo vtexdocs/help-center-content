@@ -15,9 +15,7 @@ locale: es
 subcategoryId: 3vXj7HrnYK8V5riTOwUuYv
 ---
 
-<div class="alert alert-info">
-  <p>El <strong>Releases</strong> se encuentra en la versión Beta, por lo tanto, estamos trabajando para mejorarlo. Esta funcionalidad es válida únicamente para las tiendas que usan <a href="https://www.faststore.dev/">FastStore</a>.</p>
-</div>
+> ℹ️ El **Releases** se encuentra en la versión Beta, por lo tanto, estamos trabajando para mejorarlo. Esta funcionalidad es válida únicamente para las tiendas que usan [FastStore](https://www.faststore.dev/).
 
 El módulo **Releases** te permite gestionar [releases](https://help.vtex.com/es/tutorial/planner-concepto-de-release-beta--4pWhQTXG0aIIsi2TYxxRkZ) para que puedas coordinar la creación, programación y publicación de los cambios en tu tienda. Un release es un cambio o un grupo de cambios que pueden publicarse en conjunto.
 
@@ -36,9 +34,7 @@ Cada página muestra una vista de los releases y te permite realizar distintas a
 * [Publicar un release](#publicar-un-release)
 * [Eliminar un release](#eliminar-un-release)
 
-<div class="alert alert-warning">
-  <p>En la etapa Beta, los releases deben estar relacionados al <a href="https://help.vtex.com/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2">CMS</a> porque hay otros módulos de la plataforma VTEX que aún no están incluidos. Para usar el <strong>Releases</strong>, se debe configurar el CMS tal como se describe en <a href="https://www.faststore.dev/how-to-guides/cms/vtex-headless-cms/Installing%20Releases%20on%20VTEX%20Headless%20CMS">Installing Releases on VTEX Headless CMS</a>.</p>
-</div>
+> ⚠️ En la etapa Beta, los releases deben estar relacionados al [CMS](https://help.vtex.com/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2) porque hay otros módulos de la plataforma VTEX que aún no están incluidos. Para usar el **Releases**, se debe configurar el CMS tal como se describe en [Installing Releases on VTEX Headless CMS](https://www.faststore.dev/how-to-guides/cms/vtex-headless-cms/Installing%20Releases%20on%20VTEX%20Headless%20CMS).
 
 ## Crear un release
 
@@ -113,9 +109,7 @@ Para publicar un release y hacer visibles los cambios en el _storefront_ de la t
 
 Todos los [status de releases](https://help.vtex.com/es/tutorial/planner-concepto-de-release-beta--4pWhQTXG0aIIsi2TYxxRkZ#status-de-los-releases) permiten eliminar un release, es decir, que el release se elimine permanentemente.
 
-<div class="alert alert-info">
-  <p>Si en lugar de eliminar un release quieres archivarlo, debes quitar el release de la publicación. De esta manera, no se eliminará y podrás volver a publicarlo en cualquier momento.</p>
-</div>
+> ℹ️ Si en lugar de eliminar un release quieres archivarlo, debes quitar el release de la publicación. De esta manera, no se eliminará y podrás volver a publicarlo en cualquier momento.
 
 Cuando se elimina un release que está en el status `Publicado`, los cambios que agrupaba se mantienen en el _storefront_ de la tienda. Lo único que deja de existir es el release que agrupaba los cambios.
 

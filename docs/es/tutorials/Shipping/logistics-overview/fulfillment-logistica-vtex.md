@@ -20,10 +20,7 @@ La logística o fulfillment es el proceso de planificación y ejecución del tra
 
 VTEX te permite registrar e controlar el _stock_, gestionar las tarifas de envío, controlar la disponibilidad de los ítems y hacer el seguimiento de las entregas. 
 
-<div class = "alert alert-info"> Si tu tienda no ha dado los primeros pasos en el módulo de <b>Envío</b>, consulta el artículo <a href="https://help.vtex.com/es/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/6Y8C1JuPtO5E61Ew91tq1a">Logística: primeros pasos</a>.
-Consulta el artículo <a href="https://help.vtex.com/en/tutorial/logistics-glossary--16DSSiXn548rsidi0A8Hby">Glosario de logística</a> para consultar el significado de los términos logísticos utilizados en VTEX.
-Las configuraciones logísticas disponibles mediante <a href="https://developers.vtex.com/vtex-rest-api/reference/logistics-api-overview">API</a>. 
-</div>
+> ℹ️ Si tu tienda no ha dado los primeros pasos en el módulo de **Envío**, consulta el artículo [Logística: primeros pasos](https://help.vtex.com/es/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/6Y8C1JuPtO5E61Ew91tq1a). Consulta el artículo [Glosario de logística](https://help.vtex.com/en/tutorial/logistics-glossary--16DSSiXn548rsidi0A8Hby) para consultar el significado de los términos logísticos utilizados en VTEX. Las configuraciones logísticas disponibles mediante [API](https://developers.vtex.com/vtex-rest-api/reference/logistics-api-overview).
 
 Para saber qué configuraciones logísticas son necesarias y cómo realizarlas, primero hay que entender los pasos del flujo de compra de un producto:
 
@@ -44,10 +41,9 @@ Para saber qué configuraciones logísticas son necesarias y cómo realizarlas, 
     * En el caso de los pedidos que se envían a los [puntos de recogida](https://help.vtex.com/es/tutorial/como-funcionan-puntos-de-recogida--2fljn6wLjn8M4lJHA6HP3R) (recogida), la tienda debe dejar los paquetes disponibles para que el cliente los recoja. Para ello, los paquetes se sacan del [almacén](https://help.vtex.com/es/tutorial/almacen--6oIxvsVDTtGpO7y6zwhGpb) y se transportan al punto de recogida. El transporte desde el muelle hasta el punto de recogida se define por una[ política de envío](https://help.vtex.com/es/tutorial/politica-de-envio--tutorials_140).
 8. Tras la facturación y el envío, la tienda se encarga de actualizar el _stock_, lo que para la plataforma significa también dar de baja a los ítems en el _stock_.
 
-<div class = "alert alert-info">Ten en cuenta que el proceso de envío dependerá de la configuración realizada en la plataforma. Aquí presentamos los escenarios para cada tipo de envío (entrega y recogida), pero hay otros flujos posibles en el proceso de envío. Por ejemplo, cuando se realiza el envío por recogida y el almacén coincide con el punto de recogida, no es necesario transportar los paquetes entre estos lugares.
-</div>
+> ℹ️ Ten en cuenta que el proceso de envío dependerá de la configuración realizada en la plataforma. Aquí presentamos los escenarios para cada tipo de envío (entrega y recogida), pero hay otros flujos posibles en el proceso de envío. Por ejemplo, cuando se realiza el envío por recogida y el almacén coincide con el punto de recogida, no es necesario transportar los paquetes entre estos lugares.
 
-![Envio ES](//images.ctfassets.net/alneenqid6w5/2e2f4toAiFamlcXlAQfC3h/b45650074aea4947a048e8140434fa46/Envio_ES.svg)
+![Envio ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Shipping/logistics-overview/fulfillment-logistica-vtex_1.svg)
 ## Configuración del proceso logístico
 
 El proceso logístico debe configurarse según las necesidades de tu tienda. Estas configuraciones se hacen en el módulo **Envío**. Mira las funcionalidades disponibles en el módulo y cómo afecta cada una de ellas a tu negocio:
@@ -55,78 +51,78 @@ El proceso logístico debe configurarse según las necesidades de tu tienda. Est
 <table class="w-100 center mv7 bb b--gray" style="border-spacing: 0px; border-collapse: collapse;">
     <thead class="w-100 center mv7 bb b--gray" style="border-spacing: 0px; border-collapse: collapse;">
   <tr class="bb b--muted-3">
-            <td class="t-body pa5" style="min-width: 15rem;"><a href="https://help.vtex.com/es/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3"><span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">Estrategia de envío</a><span>
+            <td class="t-body pa5" style="min-width: 15rem;">[<span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">Estrategia de envío](https://help.vtex.com/es/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3)<span>
    </td>
    <td class="t-body pa5" style="min-width: 15rem;">
-     Gestión de los almacenes, los muelles y las políticas de envío. A partir de las estrategias de envío configuradas, la plataforma calcula las posibilidades de envío y las presenta al cliente en el <em>checkout</em>.
+     Gestión de los almacenes, los muelles y las políticas de envío. A partir de las estrategias de envío configuradas, la plataforma calcula las posibilidades de envío y las presenta al cliente en el *checkout*.
 <body>
 <ul>
-<li><a href="https://help.vtex.com/es/tutorial/almacen--6oIxvsVDTtGpO7y6zwhGpb">Almacén</a>;</li>
-<li><a href="https://help.vtex.com/es/tutorial/muelles--5DY8xHEjOLYDVL41Urd5qj">Muelle</a>;</li>
-<li><a href="https://help.vtex.com/es/tutorial/politica-de-envio--tutorials_140">Política de envío</a>.</li>
+<li>[Almacén](https://help.vtex.com/es/tutorial/almacen--6oIxvsVDTtGpO7y6zwhGpb);</li>
+<li>[Muelle](https://help.vtex.com/es/tutorial/muelles--5DY8xHEjOLYDVL41Urd5qj);</li>
+<li>[Política de envío](https://help.vtex.com/es/tutorial/politica-de-envio--tutorials_140).</li>
 </ul>
 </body>
    </td>
   </tr>
   <tr class="bb b--muted-3">
-   <td class="t-body pa5" style="min-width: 15rem;"><a href="https://help.vtex.com/es/tutorial/gestionar-capacidad-de-entrega--2y217FQZCjD0I1n62yxVcz"><span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">Capacidad de entrega</a><span>
+   <td class="t-body pa5" style="min-width: 15rem;">[<span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">Capacidad de entrega](https://help.vtex.com/es/tutorial/gestionar-capacidad-de-entrega--2y217FQZCjD0I1n62yxVcz)<span>
    </td>
    <td class="t-body pa5" style="min-width: 15rem;">
      Gestión de las entregas programadas. Puedes hacer un seguimiento de las entregas ya programadas y verificar los periodos que aún están disponibles.
 <body>
 <ul>
-<li><a href="https://help.vtex.com/es/tutorial/entrega-programada--22g3HAVCGLFiU7xugShOBi">Entrega programada</a>.</li>
+<li>[Entrega programada](https://help.vtex.com/es/tutorial/entrega-programada--22g3HAVCGLFiU7xugShOBi).</li>
 </ul>
 </body>
    </td>
   </tr>
   <tr class="bb b--muted-3">
-            <td class="t-body pa5" style="min-width: 15rem;"><a href="https://help.vtex.com/es/tutorial/tarifas-de-envio--1Balpg3rv0854udEPedvMM"><span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">Tarifas de envío</a></span>
+            <td class="t-body pa5" style="min-width: 15rem;">[<span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">Tarifas de envío](https://help.vtex.com/es/tutorial/tarifas-de-envio--1Balpg3rv0854udEPedvMM)</span>
    </td>
    <td class="t-body pa5" style="min-width: 15rem;">Gestión de los costos de envío de tu tienda.
 <body>
 <ul>
-<li><a href="https://help.vtex.com/es/tutorial/gestionar-las-tarifas-de-envio--tutorials_141">Gestionar las tarifas de envío</a>;</li>
-<li><a href="https://help.vtex.com/es/tutorial/costo-final-del-envio--5bwhIO108VA5Y2YOpef9lV">Costo final del envío</a>;</li>
-<li><a href="https://help.vtex.com/es/tutorial/adicionales-de-flete--2vqGwMn0LabkOHY6zSHYNV">Adicionales de flete</a><span style="text-decoration:underline;">.</span></li>
+<li>[Gestionar las tarifas de envío](https://help.vtex.com/es/tutorial/gestionar-las-tarifas-de-envio--tutorials_141);</li>
+<li>[Costo final del envío](https://help.vtex.com/es/tutorial/costo-final-del-envio--5bwhIO108VA5Y2YOpef9lV);</li>
+<li>[Adicionales de flete](https://help.vtex.com/es/tutorial/adicionales-de-flete--2vqGwMn0LabkOHY6zSHYNV)<span style="text-decoration:underline;">.</span></li>
 </ul>
 </body>
    </td>
   </tr>
   <tr class="bb b--muted-3">
-<td class="t-body pa5" style="min-width: 15rem;"><a href="https://help.vtex.com/es/tutorial/gestionar-items-en-inventario--tutorials_139"><span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">Gestión del stock</a></span>
+<td class="t-body pa5" style="min-width: 15rem;">[<span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">Gestión del stock](https://help.vtex.com/es/tutorial/gestionar-items-en-inventario--tutorials_139)</span>
    </td>
    <td class="t-body pa5" style="min-width: 15rem;">
-     Gestión de la disponibilidad de los ítems registrados en el <em>stock</em>. Puedes seguir el movimiento y las reservas de ítems.
+     Gestión de la disponibilidad de los ítems registrados en el *stock*. Puedes seguir el movimiento y las reservas de ítems.
 <body>
 <ul>
-<li><a href="https://help.vtex.com/es/tutorial/como-se-maneja-la-reserva--tutorials_92#como-seguir-el-status-de-la-reserva">Acceder a las reservas de un producto</a>;</li>
-<li><a href="https://help.vtex.com/es/tutorial/como-se-maneja-la-reserva--tutorials_92">Cómo funciona la reserva</a>.</li>
+<li>[Acceder a las reservas de un producto](https://help.vtex.com/es/tutorial/como-se-maneja-la-reserva--tutorials_92#como-seguir-el-status-de-la-reserva);</li>
+<li>[Cómo funciona la reserva](https://help.vtex.com/es/tutorial/como-se-maneja-la-reserva--tutorials_92).</li>
 </ul>
 </body>
    </td>
   </tr>
   <tr class="bb b--muted-3">
-            <td class="t-body pa5" style="min-width: 15rem;"><a href="https://help.vtex.com/es/tutorial/simulador-de-envio--tutorials_144"><span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">Simulador de envío</a></span>
+            <td class="t-body pa5" style="min-width: 15rem;">[<span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">Simulador de envío](https://help.vtex.com/es/tutorial/simulador-de-envio--tutorials_144)</span>
    </td>
    <td class="t-body pa5" style="min-width: 15rem;">Herramienta de simulación de envíos, que permite reproducir escenarios de envío (disponibilidad de ítems, tipos de entrega y recogida). 
    </td>
   </tr>
   <tr class="bb b--muted-3">
-            <td class="t-body pa5" style="min-width: 15rem;"><a href="https://help.vtex.com/es/tutorial/gestionar-geolocalizacion--tutorials_138"><span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">Envío por geolocalización</a></span>
+            <td class="t-body pa5" style="min-width: 15rem;">[<span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">Envío por geolocalización](https://help.vtex.com/es/tutorial/gestionar-geolocalizacion--tutorials_138)</span>
    </td>
    <td class="t-body pa5" style="min-width: 15rem;">Registro de los lugares de entrega mediante la latitud y la longitud de las direcciones.
-<p>Esta funcionalidad se utiliza normalmente en direcciones de zonas rurales e industriales o en zonas de riesgo (donde es necesario eliminar ciertos lugares de entrega dentro de una región).</p>
+Esta funcionalidad se utiliza normalmente en direcciones de zonas rurales e industriales o en zonas de riesgo (donde es necesario eliminar ciertos lugares de entrega dentro de una región).
    </td>
   </tr>
   <tr class="bb b--muted-3">
-            <td class="t-body pa5" style="min-width: 15rem;"><a href="https://help.vtex.com/es/tutorial/registrar-feriados--2ItOthSEAoyAmcwsuiO6Yk"><span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">Feriados</a></span>
+            <td class="t-body pa5" style="min-width: 15rem;">[<span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">Feriados](https://help.vtex.com/es/tutorial/registrar-feriados--2ItOthSEAoyAmcwsuiO6Yk)</span>
    </td>
    <td class="t-body pa5" style="min-width: 15rem;">Registro de los días que no se considerarán hábiles en tu tienda. 
-<p>Los días registrados como feriados no se contabilizan en el plazo de entrega de los pedidos.</p>
+Los días registrados como feriados no se contabilizan en el plazo de entrega de los pedidos.
 <body>
 <ul>
-<li><a href="https://help.vtex.com/es/tutorial/registrar-feriados--2ItOthSEAoyAmcwsuiO6Yk">Registro de feriados</a>.</li>
+<li>[Registro de feriados](https://help.vtex.com/es/tutorial/registrar-feriados--2ItOthSEAoyAmcwsuiO6Yk).</li>
 </ul>
 </body>
    </td>
@@ -137,22 +133,22 @@ El proceso logístico debe configurarse según las necesidades de tu tienda. Est
    <td class="t-body pa5" style="min-width: 15rem;">Gestión de configuraciones específicas de las rutas logísticas. Estas configuraciones permiten detallar las condiciones de entrega que estarán disponibles para el cliente. Las posibles configuraciones en esta sección son:
 <body>
 <ul>
-<li><a href="https://help.vtex.com/es/tutorial/adicionales-de-flete--2vqGwMn0LabkOHY6zSHYNV">Adicional de flete</a>: costo adicional sobre el valor de la <a href="https://help.vtex.com/es/tutorial/tarifas-de-envio--1Balpg3rv0854udEPedvMM">tarifa de envío</a>;</li>
-<li><a href="https://help.vtex.com/es/tutorial/configurar-grupos-de-envio--tutorials_118">Envío</a>: envío de un grupo de paquetes;</li>
-<li><a href="https://help.vtex.com/es/tutorial/como-se-maneja-el-modal--tutorials_125">Modalidad</a>: modalidad de los ítems aceptados para la entrega.</li> 
-<li><a href="https://help.vtex.com/es/tutorial/como-se-maneja-el-reparto-de-carga--tutorials_109">División de la carga</a>: cómo deben dividirse los productos para la entrega del pedido.</li>
-<li><a href="https://help.vtex.com/es/tutorial/configurar-la-alerta%20de%20Stock%20Cr%C3%ADtico--6FD0GHeQPCsKIMgkQ88SGu">Alerta de stock crítico</a>: alerta para cuando la cantidad de ítems está por debajo de lo previsto. </li>
+<li>[Adicional de flete](https://help.vtex.com/es/tutorial/adicionales-de-flete--2vqGwMn0LabkOHY6zSHYNV): costo adicional sobre el valor de la [tarifa de envío](https://help.vtex.com/es/tutorial/tarifas-de-envio--1Balpg3rv0854udEPedvMM);</li>
+<li>[Envío](https://help.vtex.com/es/tutorial/configurar-grupos-de-envio--tutorials_118): envío de un grupo de paquetes;</li>
+<li>[Modalidad](https://help.vtex.com/es/tutorial/como-se-maneja-el-modal--tutorials_125): modalidad de los ítems aceptados para la entrega.</li> 
+<li>[División de la carga](https://help.vtex.com/es/tutorial/como-se-maneja-el-reparto-de-carga--tutorials_109): cómo deben dividirse los productos para la entrega del pedido.</li>
+<li>[Alerta de stock crítico](https://help.vtex.com/es/tutorial/configurar-la-alerta%20de%20Stock%20Cr%C3%ADtico--6FD0GHeQPCsKIMgkQ88SGu): alerta para cuando la cantidad de ítems está por debajo de lo previsto. </li>
 </ul>
 </body>
    </td>
   </tr>
   <tr class="bb b--muted-3">
-            <td class="t-body pa5" style="min-width: 15rem;"><a href="https://help.vtex.com/es/tutorial/como-funcionan-puntos-de-recogida--2fljn6wLjn8M4lJHA6HP3R"><span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">Puntos de recogida</a></span>
+            <td class="t-body pa5" style="min-width: 15rem;">[<span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">Puntos de recogida](https://help.vtex.com/es/tutorial/como-funcionan-puntos-de-recogida--2fljn6wLjn8M4lJHA6HP3R)</span>
    </td>
    <td class="t-body pa5" style="min-width: 15rem;">Gestión de los puntos de recogida. Esta funcionalidad permite a la tienda ofrecer a los clientes la opción de recoger pedidos en puntos físicos.
 <body>
 <ul>
-<li><a href="https://help.vtex.com/es/tutorial/configurar-puntos-de-recogida-pickup-points--2R5ClQiwe4KoSQgsuiOw4E">Configurar puntos de recogida</a>.</li>
+<li>[Configurar puntos de recogida](https://help.vtex.com/es/tutorial/configurar-puntos-de-recogida-pickup-points--2R5ClQiwe4KoSQgsuiOw4E).</li>
 </ul>
 </body>
    </td>

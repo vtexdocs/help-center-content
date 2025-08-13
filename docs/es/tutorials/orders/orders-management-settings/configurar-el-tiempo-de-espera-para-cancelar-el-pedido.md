@@ -21,9 +21,7 @@ Es decir, si el cliente solicita la cancelación antes o durante el período de 
 
 Si el cliente solicita la cancelación después de que la carencia haya terminado, la tienda recibe la solicitud, pero la cancelación sólo se realiza si la tienda la aprueba en Gestión de pedidos.
 
-<div class = "alert alert-info">
-De forma predeterminada, el tiempo de carencia para cancelación de pedido es de 30 minutos, pero se puede configurar para satisfacer la demanda de su negocio.
-</div>
+> ℹ️ De forma predeterminada, el tiempo de carencia para cancelación de pedido es de 30 minutos, pero se puede configurar para satisfacer la demanda de su negocio.
 
 Por ejemplo, si su tienda vende alimentos o productos farmacéuticos, que necesitan ser entregados en poco tiempo, puede ser mejor tener una carencia de cancelación menor de 30 minutos.
 

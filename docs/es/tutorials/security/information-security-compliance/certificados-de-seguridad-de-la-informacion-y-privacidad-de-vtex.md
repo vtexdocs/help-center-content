@@ -33,9 +33,7 @@ VTEX está en conformidad con la versión más reciente de la certificación, PC
 
 El certificado está disponible en [VTEX Trust Center](https://compliance.vtex.com/).
 
-<div class="alert alert-info">
-  <p>En el certificado PCI-DSS, la fecha de emisión se identifica como Assessment End Date. Por su parte, el campo Publication Date se refiere a la fecha en que la normativa PCI fue oficialmente publicada y no a la validez del certificado en sí.</p>
-</div>
+> ℹ️ En el certificado PCI-DSS, la fecha de emisión se identifica como Assessment End Date. Por su parte, el campo Publication Date se refiere a la fecha en que la normativa PCI fue oficialmente publicada y no a la validez del certificado en sí.
 
 ## SOC 1 Tipo 2 y SOC 2 Tipo 2
 

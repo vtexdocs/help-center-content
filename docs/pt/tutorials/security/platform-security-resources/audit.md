@@ -22,11 +22,9 @@ Para acessar a página do Audit no Admin VTEX, acesse **Apps > Apps instalados >
 * [Buscar eventos no Audit](#buscar-eventos-no-audit)
 * [Verificar últimas buscas realizadas no Audit](#verificar-ultimas-buscas-realizadas-no-audit)
 
-<div class="alert alert-info">
-  <p>Para visualizar os eventos do Audit, é necessário ter um <a href="https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc">perfil de acesso</a> associado ao <a href="https://help.vtex.com/pt/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3">recurso</a> <em>Insights Metrics</em>.</p>
-</div>
+> ℹ️ Para visualizar os eventos do Audit, é necessário ter um [perfil de acesso](https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) associado ao [recurso](https://help.vtex.com/pt/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3) *Insights Metrics*.
 
-![audit-ui-pt 1](//images.ctfassets.net/alneenqid6w5/5IFUH95vspIgJVYg9CrWMW/42032a1aa1700f58ffaf92b1e00ecfd2/audit-ui-pt_1.png)
+![audit-ui-pt 1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/security/platform-security-resources/audit_1.png)
 
 ## Buscar eventos no Audit
 
@@ -40,9 +38,7 @@ Confira o passo a passo para buscar por um evento utilizando os filtros disponí
 2. Em **Filtros**, no menu **Aplicação**, selecione a aplicação relacionada à busca.
 3. No menu **Data**, escolha uma data pré-definida para a busca. Se preferir definir o exato intervalo de datas para a busca, ative a opção **Personalizada** e determine as datas de **Início** e **Fim** para a busca.
 
-   <div class= "alert alert-info">
-     <p>Apenas registros dos últimos três meses são armazenados.</p>
-   </div>
+   > ℹ️ Apenas registros dos últimos três meses são armazenados.
 
 4. Se desejar, inclua um filtro por Ação. Para isso, no campo ao lado de `Ação deve ser`, digite o nome da ação e tecle `Enter`. Você pode inserir mais de um valor teclando `Enter` após cada seleção. Confira o nome de cada ação em [Eventos disponíveis no Audit](https://help.vtex.com/pt/tutorial/events-available-in-audit--6r1Mzcu5NmkmmDLJlz9CCZ).
 5. Se necessário, você pode adicionar filtros mais específicos para realizar a busca por eventos com mais precisão. Para isso, clique no botão `Adicionar Filtro`.
@@ -52,15 +48,13 @@ Confira o passo a passo para buscar por um evento utilizando os filtros disponí
 
     Por exemplo, a busca correspondente à figura abaixo encontra resultados cujas ações são _Change Promotion Configuration_ ou _Change Coupon Configuration_ e cujo autor é `email@email.com`.
 
-    ![filtros-pt](//images.ctfassets.net/alneenqid6w5/LQkBnce7aFlx8T1zjXYdm/3f1ad9727d1f0eb54168e9e68895533b/filtros-pt.png)
+    ![filtros-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/security/platform-security-resources/audit_2.png)
 
 7. Clique no botão `Aplicar` para obter os eventos que foram encontrados.
 
     Confira [Resultados](#resultados) para entender como os eventos são apresentados.
 
-<div class= "alert alert-warning">
-  <p>Os resultados da busca correspondem exatamente ao conteúdo escrito no tópico do filtro. Para evitar resultados inesperados, certifique-se de que você não digitou espaços desnecessários nos termos da busca.</p>
-</div>
+> ⚠️ Os resultados da busca correspondem exatamente ao conteúdo escrito no tópico do filtro. Para evitar resultados inesperados, certifique-se de que você não digitou espaços desnecessários nos termos da busca.
 
 Se desejar, você pode compartilhar uma busca com outro usuário. Para isso, clique em `Compartilhar busca`, no canto superior direito da página. O link para a busca no Audit será copiado para a sua área de transferência.
 
@@ -75,7 +69,7 @@ A seção **Resultados** lista cada evento encontrado na busca e exibe as inform
 | __Ação__ | Ação realizada na aplicação selecionada para a busca. Confira as ações possíveis na [lista de eventos disponíveis no Audit](https://help.vtex.com/pt/tutorial/eventos-disponiveis-no-audit--6r1Mzcu5NmkmmDLJlz9CCZ). |
 | __Detalhe do evento__ | Informações complementares sobre o evento. Confira os detalhes exibidos para cada evento na [lista de eventos disponíveis no Audit](https://help.vtex.com/pt/tutorial/eventos-disponiveis-no-audit--6r1Mzcu5NmkmmDLJlz9CCZ). |
 | __Autor__ | Email, ID ou token do usuário que realizou o evento. |
-| __Mais detalhes__ | Botão que abre um modal com mais informações sobre o evento, quando aplicável. Os detalhes exibidos podem incluir: <ul><li class="t-body mb5 lh-copy"><strong>Nome da entidade:</strong> ID da entidade modificada.</li><li class="t-body mb5 lh-copy"><strong>Entidade antes da ação:</strong> dados da entidade antes do evento, em formato <a href="http://www.json.org/" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word" rel="noopener noreferrer" target="_blank">JSON</a>.</li><li class="t-body mb5 lh-copy"><strong>Entidade após a ação:</strong> dados da entidade após o evento, em formato <a href="http://www.json.org/" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word" rel="noopener noreferrer" target="_blank">JSON</a>.</li></ul>A depender do evento, nem todas as informações citadas acima são exibidas. Por exemplo, um evento de exclusão de uma informação mostra apenas a entidade antes da ação. Por outro lado, um evento de criação de uma informação apresenta apenas a entidade após a ação. <br /><br /> Alguns eventos não apresentam nenhuma informação complementar. Nesses casos, o modal aparece vazio. |
+| __Mais detalhes__ | Botão que abre um modal com mais informações sobre o evento, quando aplicável. Os detalhes exibidos podem incluir: <ul><li class="t-body mb5 lh-copy">**Nome da entidade:** ID da entidade modificada.</li><li class="t-body mb5 lh-copy">**Entidade antes da ação:** dados da entidade antes do evento, em formato [JSON](http://www.json.org/).</li><li class="t-body mb5 lh-copy">**Entidade após a ação:** dados da entidade após o evento, em formato [JSON](http://www.json.org/).</li></ul>A depender do evento, nem todas as informações citadas acima são exibidas. Por exemplo, um evento de exclusão de uma informação mostra apenas a entidade antes da ação. Por outro lado, um evento de criação de uma informação apresenta apenas a entidade após a ação. <br /><br /> Alguns eventos não apresentam nenhuma informação complementar. Nesses casos, o modal aparece vazio. |
 
 ### Exemplos de buscas
 
@@ -99,10 +93,7 @@ Para buscar se o preço de um SKU foi alterado em determinada data:
 3. Adicione um filtro cuja **Ação** deve ser `Put Price`.
 4. Adicione um filtro cujo **Detalhe do evento **deve ser o ID do SKU do item procurado.
 
-<div class="alert alert-info"> 
-	<p> Para identificar se a alteração de preço foi realizada por meio da importação de uma planilha de preços fixos, verifique a coluna <strong>Autor</strong> no resultado da busca. Se o autor for <code>vtex-service::pricing-wrk::Stable</code>, isso indica que o preço foi atualizado por uma planilha importada. Caso o autor seja um endereço de email de usuário, a alteração foi feita manualmente. 
-	</p> 
-</div>
+> ℹ️  Para identificar se a alteração de preço foi realizada por meio da importação de uma planilha de preços fixos, verifique a coluna **Autor** no resultado da busca. Se o autor for `vtex-service::pricing-wrk::Stable`, isso indica que o preço foi atualizado por uma planilha importada. Caso o autor seja um endereço de email de usuário, a alteração foi feita manualmente. 
 
 #### Exclusão de estoque
 
@@ -124,7 +115,7 @@ Para buscar se uma transportadora foi deletada em determinada data:
 
 ## Verificar últimas buscas realizadas no Audit
 
-Toda busca realizada no Audit é salva na aba **Últimas buscas**. Para refazer uma busca nessa aba, clique no botão <img src="//images.ctfassets.net/alneenqid6w5/4gWsOnbLMOUeWh0r5YRDz/9b7148d995c03ca84b39473f266b46a9/refresh.png" width="15"> correspondente à busca que você deseja refazer.
+Toda busca realizada no Audit é salva na aba **Últimas buscas**. Para refazer uma busca nessa aba, clique no botão <img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/security/platform-security-resources/audit_3.png" width="15"> correspondente à busca que você deseja refazer.
 
 Confira a seguir as informações disponíveis nesta aba:
 
@@ -136,6 +127,4 @@ Confira a seguir as informações disponíveis nesta aba:
 | Período buscado | Data de início e fim do período selecionado para a busca. |
 | Refazer busca | Botão que permite repetir a busca. |
 
-<div class= "alert alert-warning">
-  <p>Apenas 50 buscas ficam gravadas na aba <b>Últimas buscas</b>. Se quiser salvar uma busca além desse limite, adicione-a aos favoritos do seu browser.</p>
-</div>
+> ⚠️ Apenas 50 buscas ficam gravadas na aba **Últimas buscas**. Se quiser salvar uma busca além desse limite, adicione-a aos favoritos do seu browser.

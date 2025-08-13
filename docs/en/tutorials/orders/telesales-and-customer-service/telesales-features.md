@@ -27,9 +27,7 @@ Here are the telesales features available on VTEX:
 - [Manual pricing](#manual-pricing)
 - [Orders management](#orders-management)
 
-<div class="alert alert-warning">
-  <p>To access the telesales toolbar, manual pricing, and the <b><a href="https://help.vtex.com/en/tutorial/todos-os-pedidos--2QTduKHAJMFIZ3BAsi6Pi">All Orders</a></b> page, the user must have a <a href="https://help.vtex.com/en/tutorial/como-criar-um-usuario-de-televendas--frequentlyAskedQuestions_4227">Call Center operator role</a>. </p>
-</div>
+> ⚠️ To access the telesales toolbar, manual pricing, and the **[All Orders](https://help.vtex.com/en/tutorial/todos-os-pedidos--2QTduKHAJMFIZ3BAsi6Pi)** page, the user must have a [Call Center operator role](https://help.vtex.com/en/tutorial/como-criar-um-usuario-de-televendas--frequentlyAskedQuestions_4227). 
 
 You must configure the features listed above beforehand, following the steps in the tutorial [Configuring telesales features](https://help.vtex.com/en/tutorial/como-configurar-as-funcionalidades-de-televendas--76FNgQP2Glc4umMJ5Yr50R). 
 
@@ -41,9 +39,7 @@ The telesales toolbar is displayed at the top of your store's website for users 
 
 To learn how to use this feature, check out the [Telesales toolbar](https://help.vtex.com/en/tutorial/usando-e-customizando-toolbar-de-televendas--tutorials_5500) tutorial.
 
-<div class = "alert alert-info">
-A use case for the telesales feature is to import orders from other platforms to the VTEX Orders module. To do this, you can associate a specific <a href="https://help.vtex.com/en/tutorial/creating-a-sales-policy--563tbcL0TYKEKeOY4IAgAE">trade policy</a> with payment <a href="https://help.vtex.com/en/tutorial/setting-up-payments-with-notes-payable--5pW7avTwtyQcMu4uiW8quQ">Notes Payable</a> (payment method immediately and manually approved by the operator).
-  </div>
+> ℹ️ A use case for the telesales feature is to import orders from other platforms to the VTEX Orders module. To do this, you can associate a specific [trade policy](https://help.vtex.com/en/tutorial/creating-a-sales-policy--563tbcL0TYKEKeOY4IAgAE) with payment [Notes Payable](https://help.vtex.com/en/tutorial/setting-up-payments-with-notes-payable--5pW7avTwtyQcMu4uiW8quQ) (payment method immediately and manually approved by the operator).
 
 ### My Account
 
@@ -74,9 +70,7 @@ To access the subscription list, follow the steps below:
 - `New subscription` to create a subscription.
 - `View details` to edit an existing subscription.
 
-<div class = "alert alert-info">
-  <p>Learn more about subscriptions in the article <a href="https://help.vtex.com/en/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453">How subscriptions work</a>. </p>
-</div>
+> ℹ️ Learn more about subscriptions in the article [How subscriptions work](https://help.vtex.com/en/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453). 
 
 ## Shareable cart
 

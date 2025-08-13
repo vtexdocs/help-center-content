@@ -44,39 +44,35 @@ To configure a VTEX Intelligent Search [merchandising rule](https://help.vtex.co
       Learn more about these actions in items **IV, V, VI, VIII, IX**, and **XI** of the [Actions available in the Visual Editor](#actions-available-in-the-visual-editor) section.
 9.	Click `Save`.
 
-<div class="alert alert-info">
-  <p>After saving, the changes to merchandising rules will take an average of two minutes to be updated.</p>
-</div>
+> ℹ️ After saving, the changes to merchandising rules will take an average of two minutes to be updated.
 
 ## Actions available in the Visual Editor
 
 The Visual Editor for merchandising rules in VTEX Intelligent Search allows you to perform the actions shown in the image below:
 
-![visual-merch-rules-EN-v2](//images.ctfassets.net/alneenqid6w5/1wQEvrFFEp5ixHPCVtHsxa/2f765817f537bc8477b0d6fddfb171b8/visual-merch-rules-EN-v2.png)
+![visual-merch-rules-EN-v2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/intelligent-search/relevance/creating-merchandising-rules-visual-editor_1.png)
 
 <ol class="mv7" type="I">
     <li class="t-body c-on-base mb5 lh-copy">Edit the name of the merchandising rule.</li>
     <li class="t-body c-on-base mb5 lh-copy">Define search terms to apply the merchandising rule.</li>
-    <li class="t-body c-on-base mb5 lh-copy">Set <a href="#adding-filters-and-conditions" rel="noopener noreferrer"
-            target="_self"
-            class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word">filters</a>
+    <li class="t-body c-on-base mb5 lh-copy">Set [filters](#adding-filters-and-conditions)
         to apply the merchandising rule.</li>
     <li class="t-body c-on-base mb5 lh-copy">Define the number of items per row in the search results.</li>
     <li class="t-body c-on-base mb5 lh-copy">Define the number of items per page in the search results.</li>
     <li class="t-body c-on-base mb5 lh-copy">Hide products in the search results. Hidden products appear in gray with the crossed-out eye icon <i class="far fa-eye-slash"></i> in the Visual Editor. To display a hidden product again, hover over it and click the eye icon <i class="far fa-eye"></i>.</li>
     <li class="t-body c-on-base mb5 lh-copy">View product details. The information displayed is:<br /><br />
     	 <ul>
-			   <li class="t-body c-on-base mb5 lh-copy"><strong>Available:</strong> Indicates whether the product is available in the store.</li>
-				<li class="t-body c-on-base mb5 lh-copy"><strong>Clicks:</strong> Number of clicks over the last 90 days.</li>
-				<li class="t-body c-on-base mb5 lh-copy"><strong>Orders:</strong> Number of orders containing the product that were placed over the last 90 days.</li>
-				<li class="t-body c-on-base mb5 lh-copy"><strong>Revenue:</strong> Revenue the product represented over the last 90 days.</li>
-				<li class="t-body c-on-base mb5 lh-copy"><strong>Launch date:</strong> Date on which the product was launched.</li>
-				<li class="t-body c-on-base mb5 lh-copy"><strong>Promotion:</strong> Indicates whether the product participates in a promotion.</li> 
-				<li class="t-body c-on-base mb5 lh-copy"><strong>Discount:</strong> Discount applied to the product.</li>
-				<li class="t-body c-on-base mb5 lh-copy"><strong>Available matrix variety:</strong> Represents the percentage of SKUs available for a product. For example, if a product has five SKUs and only three are available, the available matrix variety will be 60%, represented as 0.6 in this field. If all the SKUs are available, the field value will be 1.</li>
+			   <li class="t-body c-on-base mb5 lh-copy">**Available:** Indicates whether the product is available in the store.</li>
+				<li class="t-body c-on-base mb5 lh-copy">**Clicks:** Number of clicks over the last 90 days.</li>
+				<li class="t-body c-on-base mb5 lh-copy">**Orders:** Number of orders containing the product that were placed over the last 90 days.</li>
+				<li class="t-body c-on-base mb5 lh-copy">**Revenue:** Revenue the product represented over the last 90 days.</li>
+				<li class="t-body c-on-base mb5 lh-copy">**Launch date:** Date on which the product was launched.</li>
+				<li class="t-body c-on-base mb5 lh-copy">**Promotion:** Indicates whether the product participates in a promotion.</li> 
+				<li class="t-body c-on-base mb5 lh-copy">**Discount:** Discount applied to the product.</li>
+				<li class="t-body c-on-base mb5 lh-copy">**Available matrix variety:** Represents the percentage of SKUs available for a product. For example, if a product has five SKUs and only three are available, the available matrix variety will be 60%, represented as 0.6 in this field. If all the SKUs are available, the field value will be 1.</li>
 		    </ul>
 	    </li>
-    <li class="t-body c-on-base mb5 lh-copy">Drag the pinned product to the desired position in the search results. You can only drag pinned products (action <strong>IX</strong> in this list).</li>
+    <li class="t-body c-on-base mb5 lh-copy">Drag the pinned product to the desired position in the search results. You can only drag pinned products (action **IX** in this list).</li>
     <li class="t-body c-on-base mb5 lh-copy">Pin products to the top positions of the search results. By pinning product A and then product B, they will appear in this order in the search results, just before the others. To pin a product, hover over it and click the pin-crossed icon <i class="fas fa-thumbtack"></i>.</li>
     <li class="t-body c-on-base mb5 lh-copy">Navigate between search result pages.</li>
     <li class="t-body c-on-base mb5 lh-copy">Cancel editing.</li>

@@ -17,9 +17,7 @@ subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 
 Na VTEX, é possível processar pagamentos com o provedor PagarMe por meio das integrações V2 e V3.
 
-<div class="alert alert-warning">
-Caso deseje configurar a versão V3 da Pagarme em sua loja, acesse <a href="https://help.vtex.com/pt/tutorial/configurar-pagamento-com-pagarmev3--5PMavdamrVijwIrHas9ndE">Configurar pagamento com PagarMeV3</a>.
-</div>
+> ⚠️ Caso deseje configurar a versão V3 da Pagarme em sua loja, acesse [Configurar pagamento com PagarMeV3](https://help.vtex.com/pt/tutorial/configurar-pagamento-com-pagarmev3--5PMavdamrVijwIrHas9ndE).
 
 Para configurar a PagarMeV2, siga os passos abaixo:
 
@@ -28,21 +26,21 @@ Para configurar a PagarMeV2, siga os passos abaixo:
 3. Digite o nome __PagarMeV2__ na barra de busca e clique sobre o nome do provedor.
 4. Preencha os campos indicados com as seguintes informações:<br><br>
 <ul>
-<li><b>Chave de aplicação</b> e <b>Token de aplicação</b>: insira as informações que foram fornecidas pela Pagar.me.</li>
-<li><b>Captura automática de pagamento</b>: selecione uma das seguintes opções:<br><br>
+<li>**Chave de aplicação** e **Token de aplicação**: insira as informações que foram fornecidas pela Pagar.me.</li>
+<li>**Captura automática de pagamento**: selecione uma das seguintes opções:<br><br>
     <ul>
-    	<li><b>Use O Comportamento Recomendado Pelo Processador de Pagamentos</b>: a captura não é automática, mas agendada de acordo com o prazo especificado pela adquirente que, além de indicar se o pagamento foi autorizado, pode especificar ou recomendar um número de dias para a captura no momento da resposta à autorização do pagamento (este é o comportamento padrão da plataforma).</li>
-    	<li><b>Imediatamente: Captura Automática Ao Autorizar O Pagamento</b>: a captura é automática e acontece logo após a autorização, mesmo que a transação possua uma análise antifraude.</li>
-   		<li><b>Imediatamente: Captura Automática Ao Passar A Análise De Risco De Fraude</b>: a captura é automática e acontece logo após a autorização e análise antifraude (Caso você selecione este comportamento e não possua análise antifraude, a captura do pagamento acontecerá da mesma forma que no comportamento *– Imediatamente: Captura Automática Ao Autorizar O Pagamento*).</li>
-   		<li><b>Desativado: Não Capturado Automaticamente</b>: a captura acontece somente quando o pedido for faturado. Caso escolha esse comportamento de captura, é importante atentar-se quanto ao tempo do faturamento. Isso porque o faturamento pode ultrapassar o tempo de captura acordado com o provedor de pagamentos e levar à perda da transação.</li>
+    	<li>**Use O Comportamento Recomendado Pelo Processador de Pagamentos**: a captura não é automática, mas agendada de acordo com o prazo especificado pela adquirente que, além de indicar se o pagamento foi autorizado, pode especificar ou recomendar um número de dias para a captura no momento da resposta à autorização do pagamento (este é o comportamento padrão da plataforma).</li>
+    	<li>**Imediatamente: Captura Automática Ao Autorizar O Pagamento**: a captura é automática e acontece logo após a autorização, mesmo que a transação possua uma análise antifraude.</li>
+   		<li>**Imediatamente: Captura Automática Ao Passar A Análise De Risco De Fraude**: a captura é automática e acontece logo após a autorização e análise antifraude (Caso você selecione este comportamento e não possua análise antifraude, a captura do pagamento acontecerá da mesma forma que no comportamento *– Imediatamente: Captura Automática Ao Autorizar O Pagamento*).</li>
+   		<li>**Desativado: Não Capturado Automaticamente**: a captura acontece somente quando o pedido for faturado. Caso escolha esse comportamento de captura, é importante atentar-se quanto ao tempo do faturamento. Isso porque o faturamento pode ultrapassar o tempo de captura acordado com o provedor de pagamentos e levar à perda da transação.</li>
     </ul>
   </li>
 </ul>
 5. __Nome na fatura__: insira o nome que irá identificar sua loja na fatura do consumidor.
 6. __Ativar split e enviar recebedores?__: caso queira utilizar a solução de split de pagamentos, selecione __Sim__ e preencha as informações solicitadas de acordo com o que foi negociado junto à Pagar.me.<br><br>
 <ul>
-  <li><b>Responsabilidade pelas tarifas de pagamento</b>: escolha entre Marketplace, Markeplace + Sellers ou Sellers.</li>
-  <li><b>Responsabilidade pelos chargebacks</b>: escolha entre Marketplace, Markeplace + Sellers ou Sellers.</li>
+  <li>**Responsabilidade pelas tarifas de pagamento**: escolha entre Marketplace, Markeplace + Sellers ou Sellers.</li>
+  <li>**Responsabilidade pelos chargebacks**: escolha entre Marketplace, Markeplace + Sellers ou Sellers.</li>
 </ul>
 7. Clique em __Salvar__.
 

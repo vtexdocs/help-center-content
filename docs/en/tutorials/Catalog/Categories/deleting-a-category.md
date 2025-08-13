@@ -26,7 +26,7 @@ If you do not want to display a specific category to your customers, you can dea
 3. Select the category you want to deactivate.
 4. Click on the `Actions` button.
 5. Click on `Edit`.
-6. Uncheck the box that says __Active | Category is active on site__, as illustrated in the image below: ![img inativarcategoria EN](//images.ctfassets.net/alneenqid6w5/6SzDebwe2AzOlz9PjlaHNP/b1056e64bedc8a7f495dde49b87b735e/img_inativarcategoria_EN.png)
+6. Uncheck the box that says __Active | Category is active on site__, as illustrated in the image below: ![img inativarcategoria EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/Categories/deleting-a-category_1.png)
 7. Click on `Save`.
 
 ## Deleting all categories
@@ -37,7 +37,7 @@ Another option is to [empty the catalog](https://help.vtex.com/en/tutorial/enten
 2. Click on `Delete Products and SKUs`. Warning: your products, SKUs, and related items will be permanently removed from your store.
 3. Then click on `Delete Categories and brands`. Warning: your categories, tags, fields, and related items will be permanently removed from your store.
 
-<div class="alert alert-warning"> <p>For security reasons, only the <a href="https://help.vtex.com/en/tutorial/o-que-e-o-usuario-master--3oPr7YuIkEYqUGmEqIMSEy">Sponsor user</a> of the account has access to the database cleaning feature. If another user tries to access this page, all buttons will be disabled.</p></div>
+> ⚠️ For security reasons, only the [Sponsor user](https://help.vtex.com/en/tutorial/o-que-e-o-usuario-master--3oPr7YuIkEYqUGmEqIMSEy) of the account has access to the database cleaning feature. If another user tries to access this page, all buttons will be disabled.
 
 ### Related articles
 - [Adding a category](/en/tutorial/registering-a-category)

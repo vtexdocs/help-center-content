@@ -17,9 +17,7 @@ subcategoryId: 63DHe3VQEEE6Uuua8gIs2M
 
 Cada cuenta de VTEX tiene un único usuario titular que es el único que tiene acceso completo a todas las secciones del Admin, incluidas las acciones críticas de mantenimiento y autorización. 
 
-<div class = "alert alert-warning">
-El usuario titular no es el mismo que el <b>Owner (Admin Super)</b>. El <b>Owner (Admin Super)</b> es un perfil de acceso del License Manager que define los permisos que se conceden a un determinado usuario de tu tienda, e incluso puede asignarse a varios usuarios.
-</div>
+> ⚠️ El usuario titular no es el mismo que el **Owner (Admin Super)**. El **Owner (Admin Super)** es un perfil de acceso del License Manager que define los permisos que se conceden a un determinado usuario de tu tienda, e incluso puede asignarse a varios usuarios.
 
 La página de gestión del titular le permite identificar al usuario titular actual, transferir la propiedad de la tienda y ver el registro de actividad asociado al usuario titular. Para acceder a esta página navegue a **Configuración de la cuenta** > **Gestión de la cuenta** > **Cuenta**, desplácese hacia abajo hasta la sección de «Contacto» y haga clic en el enlace `Gestión de titulares`.
 
@@ -43,6 +41,4 @@ Solo el usuario titular puede realizar estas acciones críticas de mantenimiento
 
 Además, cuando VTEX necesita comunicar información importante sobre la tienda, como cambios de roles, dicha comunicación se lleva a cabo directa y exclusivamente con el usuario titular.
 
-<div class="alert alert-info">
-La creación de <a href="https://help.vtex.com/es/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet">credenciales de autenticación</a> (appKey/appToken) para integraciones de API ya no está restringida al usuario titular. Vea este <a href="https://help.vtex.com/es/announcements/changes-in-the-name-and-restricted-actions-available-to-the-master-user">anuncio</a> para saber más detalles sobre este cambio.
-</div>
+> ℹ️ La creación de [credenciales de autenticación](https://help.vtex.com/es/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet) (appKey/appToken) para integraciones de API ya no está restringida al usuario titular. Vea este [anuncio](https://help.vtex.com/es/announcements/changes-in-the-name-and-restricted-actions-available-to-the-master-user) para saber más detalles sobre este cambio.

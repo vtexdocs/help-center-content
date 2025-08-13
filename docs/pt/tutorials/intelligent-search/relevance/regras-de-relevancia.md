@@ -24,7 +24,7 @@ Existem dois cenários possíveis de configurações de relevância:
 - **Critérios prioritários:** é a forma de forçar que um ou mais critérios terão prioridade maior entre os demais. Nessa situação não existem pesos, pois todos os produtos que possuírem essa característica serão apresentados primeiro no resultado de busca.
 - **Composição de critérios:** é a forma de distribuir pesos para cada opção, variando de 0 a 10. Aqui, não existe uma ordem entre os critérios, serão os pesos que vão definir a relevância.
 
-![criterios-pt](//images.ctfassets.net/alneenqid6w5/2okH4XcNScAzf6PJIlOKqs/faefb674583084511a114faf0c39cdbd/criterios-pt.png)
+![criterios-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/intelligent-search/relevance/regras-de-relevancia_1.png)
 
 As informações aplicadas para compor a relevância são:
 
@@ -41,11 +41,7 @@ O conjunto de distribuição de pesos e critérios gera uma pontuação para o p
 
 Dessa forma, é possível adequar o comportamento do resultado de busca a uma estratégia específica.
 
-<div class="alert alert-warning">
-  <p>Se você deseja utilizar critérios prioritários, posicione o mais importante em primeiro lugar, pois a ordenação será sempre aplicada com base nele.</p>
-  <p>O primeiro critério prioritário tem mais peso do que os outros, por isso ele pode neutralizar os demais critérios prioritários e a composição de critérios.</p>
-  <p>Em casos de empate, os demais critérios serão considerados para definir a ordem final dos resultados (primeiro os outros prioritários e depois a composição de critérios).</p>
-</div>
+> ⚠️ Se você deseja utilizar critérios prioritários, posicione o mais importante em primeiro lugar, pois a ordenação será sempre aplicada com base nele. O primeiro critério prioritário tem mais peso do que os outros, por isso ele pode neutralizar os demais critérios prioritários e a composição de critérios. Em casos de empate, os demais critérios serão considerados para definir a ordem final dos resultados (primeiro os outros prioritários e depois a composição de critérios).
 
 ## Exemplo
 
@@ -112,5 +108,5 @@ Para alterar a configuração de relevância, siga os passos abaixo.
 
    Caso você queira mudar a posição de um critério de **Composição de critérios** para **Critérios prioritários**, arraste-o pelo ícone <i class="fas fa-grip-vertical"></i> para a área superior, conforme ilustrado na imagem abaixo. Note que quando o critério se torna prioritário, não é mais possível alterar seu peso. 
 
-    ![criterios-prioritarios-pt](//images.ctfassets.net/alneenqid6w5/c6CNsiZOSl7WnmP7k8Ffa/43155e1e110f6ec8eaff5debf9d8a2df/criterios-prioritarios-pt.gif)
+    ![criterios-prioritarios-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/intelligent-search/relevance/regras-de-relevancia_2.gif)
 5. Para finalizar, clique em `Salvar`.

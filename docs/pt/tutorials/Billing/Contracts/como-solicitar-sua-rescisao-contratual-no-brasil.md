@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 22TaEgFhwE6a6CG2KASYkC
 ---
 
-<div class="alert alert-info" role="alert">Esse procedimento é apenas para clientes faturados no Brasil.</div>
+> ℹ️ Esse procedimento é apenas para clientes faturados no Brasil.
 
 Para efetuar o cancelamento do contrato e deixar de utilizar a plataforma VTEX, é necessário abrir um chamado comunicando sua decisão ao Suporte VTEX Financeiro. Caso tenha dúvidas sobre como abrir um chamado, leia o artigo [Abrir chamados para o suporte VTEX](https://help.vtex.com/pt/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM).
 

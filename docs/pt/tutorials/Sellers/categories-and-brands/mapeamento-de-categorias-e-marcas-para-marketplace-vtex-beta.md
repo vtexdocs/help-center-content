@@ -15,9 +15,7 @@ locale: pt
 subcategoryId: 24EN0qRBg4yK0uusGUGosu
 ---
 
-<div class="alert alert-info">
-<p>Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com <a href="https://support.vtex.com/hc/pt-br/requests">nosso Suporte</a>.</p>
-</div>
+> ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com [nosso Suporte](https://support.vtex.com/hc/pt-br/requests).
 
 A arquitetura de uma loja VTEX possibilita [anunciar e vender produtos](https://help.vtex.com/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402) em outras lojas, sejam elas VTEX ou não. Ao vender produtos de outros sellers em seu ambiente, a loja VTEX se torna um [marketplace VTEX](https://help.vtex.com/pt/tutorial/configurar-marketplace-vtex--7splyp5MqIyt2Iyz5jsNzb). 
 
@@ -28,9 +26,7 @@ O marketplace VTEX realiza a correspondência de valores dos catálogos por meio
 - Envia produtos pela primeira vez para o marketplace VTEX.
 - Envia novas informações de categorias, marcas ou especificações, ainda não mapeadas no marketplace VTEX.
 
-<div class = "alert alert-info">
-O envio de um item para mapear novas informações não modifica os valores já mapeados no marketplace VTEX.
-</div>
+> ℹ️ O envio de um item para mapear novas informações não modifica os valores já mapeados no marketplace VTEX.
 
 Para facilitar a conexão entre sellers e marketplaces VTEX, existe a página **Categorias e marcas Beta**, que permite ao marketplace VTEX fazer a correspondência entre suas categorias e marcas e as categorias e marcas do seller. As ações que o marketplace VTEX precisa realizar para o mapeamento são:
 
@@ -65,13 +61,11 @@ O status do mapeamento de categorias no marketplace VTEX é indicado por ícones
 
 | **Ícone** | **Status** |
 | ---------- | ---------- |
-| <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/6Ry65cPvgGmChmE3RipFio/deec73c3e429f63dfa8971ae8c848221/mapeado_mapper.JPG" /> | **Mapeado:** o mapeamento da categoria foi concluído. | 
-| <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/lsN6TxCm1e6frHvIQ8xjt/491ad1e6d99ab858e2a76d0ea31e1a39/erromapeamento_mapper.JPG" /> | **Erro no mapeamento:** houve um problema e o mapeamento não foi realizado. | 
-| <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/3nVJUJHetaqPHThGGpoG8T/d7f667b269105a5c65aa7b16b1aace21/incompleto_mapper.JPG" /> | **Não mapeado:** a categoria ainda não foi mapeada. |
+| <img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Sellers/categories-and-brands/mapeamento-de-categorias-e-marcas-para-marketplace-vtex-beta_1.JPG" /> | **Mapeado:** o mapeamento da categoria foi concluído. | 
+| <img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Sellers/categories-and-brands/mapeamento-de-categorias-e-marcas-para-marketplace-vtex-beta_2.JPG" /> | **Erro no mapeamento:** houve um problema e o mapeamento não foi realizado. | 
+| <img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Sellers/categories-and-brands/mapeamento-de-categorias-e-marcas-para-marketplace-vtex-beta_3.JPG" /> | **Não mapeado:** a categoria ainda não foi mapeada. |
 
-<div class = "alert alert-info">
-Não é possível excluir um mapeamento de categoria, mas você pode alterar as configurações a qualquer momento, seguindo os mesmos passos do primeiro mapeamento realizado.
-</div>
+> ℹ️ Não é possível excluir um mapeamento de categoria, mas você pode alterar as configurações a qualquer momento, seguindo os mesmos passos do primeiro mapeamento realizado.
 
 ## Mapear marcas do seller
 
@@ -90,13 +84,11 @@ O status do mapeamento de marcas no marketplace VTEX é indicado por ícones na 
 
 | **Ícone** | **Status** |
 | ---------- | ---------- |
-| <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/6Ry65cPvgGmChmE3RipFio/deec73c3e429f63dfa8971ae8c848221/mapeado_mapper.JPG" /> | **Mapeado:** o mapeamento da categoria foi concluído. | 
-| <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/lsN6TxCm1e6frHvIQ8xjt/491ad1e6d99ab858e2a76d0ea31e1a39/erromapeamento_mapper.JPG" /> | **Erro no mapeamento:** houve um problema e o mapeamento não foi realizado. | 
-| <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/3nVJUJHetaqPHThGGpoG8T/d7f667b269105a5c65aa7b16b1aace21/incompleto_mapper.JPG" /> | **Não mapeado:** a categoria ainda não foi mapeada. |
+| <img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Sellers/categories-and-brands/mapeamento-de-categorias-e-marcas-para-marketplace-vtex-beta_4.JPG" /> | **Mapeado:** o mapeamento da categoria foi concluído. | 
+| <img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Sellers/categories-and-brands/mapeamento-de-categorias-e-marcas-para-marketplace-vtex-beta_5.JPG" /> | **Erro no mapeamento:** houve um problema e o mapeamento não foi realizado. | 
+| <img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Sellers/categories-and-brands/mapeamento-de-categorias-e-marcas-para-marketplace-vtex-beta_6.JPG" /> | **Não mapeado:** a categoria ainda não foi mapeada. |
 
-<div class = "alert alert-info">
-Não é possível excluir um mapeamento de marca, mas você pode alterar as configurações a qualquer momento, seguindo os mesmos passos do primeiro mapeamento realizado.
-</div>
+> ℹ️ Não é possível excluir um mapeamento de marca, mas você pode alterar as configurações a qualquer momento, seguindo os mesmos passos do primeiro mapeamento realizado.
 
 ## Saiba mais
 

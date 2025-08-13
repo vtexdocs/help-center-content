@@ -22,14 +22,7 @@ El simulador también se puede utilizar para validar la configuración de la  **
 * **Disponibilidad de un ítem:** el simulador verifica si el ítem cuenta con _stock_ y si se puede realizar su entrega (si hay transportadoras registradas para esa región, por ejemplo). Si uno de los dos criterios no se cumple, el simulador entiende que el ítem no está disponible.
 * **Disponibilidad de Sellers White Label:** el simulador selecciona al franquiciado más cercano a la dirección de entrega (la configuración logística es calculada a través del ambiente del _Seller White Label_, y no por la Main Account).
 
-<div class="alert alert-warning"> 
-Puede haber una divergencia entre el precio final indicado por el simulador y el precio real en su tienda, ya que la simulación no considera:
-<ul>
-<li>Promociones aplicadas a esos ítems.</li>
-<li>Descuentos de flete configurados a través de promociones.</li>
-<li>El plazo de entrega total que se muestra en el resultado de la simulación no contempla el campo <b>Fecha de previsión de llegada (Preventa)</b>  <a href="https://help.vtex.com/es/tutorial/campos-de-cadastro-de-sku--21DDItuEQc6mseiW8EakcY">del registro del ítem.</li></a>
-</ul>
-</div>
+> ⚠️ Puede haber una divergencia entre el precio final indicado por el simulador y el precio real en su tienda, ya que la simulación no considera: <ul> <li>Promociones aplicadas a esos ítems.</li> <li>Descuentos de flete configurados a través de promociones.</li> <li>El plazo de entrega total que se muestra en el resultado de la simulación no contempla el campo **Fecha de previsión de llegada (Preventa)**  [del registro del ítem.</li>](https://help.vtex.com/es/tutorial/campos-de-cadastro-de-sku--21DDItuEQc6mseiW8EakcY) </ul>
 
 ## Simular el envío
 
@@ -54,9 +47,7 @@ Si lo desea, puede seleccionar la casilla `Simular ítems individualmente`.
 
  10. Haga clic en el botón `Simular Envío`.  
 
-<div class = "alert alert-info">
-En el resultado de la simulación, las medidas del ítem aparecen en centímetros y gramos, pero el valor real considerado en el Checkout son las unidades de medida registradas en los <a href="https://help.vtex.com/es/tutorial/campos-de-cadastro-de-produto--4dYXWIK3zyS8IceKkQseke">campos de registro del producto</a> y SKU.
-</div>
+> ℹ️ En el resultado de la simulación, las medidas del ítem aparecen en centímetros y gramos, pero el valor real considerado en el Checkout son las unidades de medida registradas en los [campos de registro del producto](https://help.vtex.com/es/tutorial/campos-de-cadastro-de-produto--4dYXWIK3zyS8IceKkQseke) y SKU.
 
 ## Detalles de la simulación
 
@@ -76,7 +67,7 @@ A continuación, se enumeran los motivos más comunes por los que una transporta
     <thead class="w-100 center mv7 bb b--gray" style="border-spacing: 0px; border-collapse: collapse;">
    <tr class="t-body fw5 c-muted-1 bb bw1 pa2 pb3 b--muted-3 tl">
             <th class="t-body fw5 c-muted-1 bb bw1 pa2 pb3 b--muted-3 tl">
-                <em class="i"><strong>Motivo</strong></em>
+                <em class="i">**Motivo**</em>
             </th>
             <th class="t-body fw5 c-muted-1 bb bw1 pa2 pb3 b--muted-3 tl">
                 <em class="i">Solución</em>
@@ -85,39 +76,39 @@ A continuación, se enumeran los motivos más comunes por los que una transporta
   <tr class="bb b--muted-3">
     <td class="t-body pa5" style="min-width: 15rem;">El peso total del carrito excedió el límite permitido por la transportadora. 
    </td>
-   <td class="t-body pa5" style="min-width: 15rem;">Puede cumplir con el límite dividiendo la carga.  Para más información lea nuestro artículo sobre <a href="https://help.vtex.com/es/tutorial/como-funciona-a-divisao-de-carga--tutorials_109">reparto de carga</a>. También puede verificar si hay un error en la <a href="https://help.vtex.com/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1wmX3QvQVxbKVmalhIE5Ru">configuración del producto en el catálogo</a>.
+   <td class="t-body pa5" style="min-width: 15rem;">Puede cumplir con el límite dividiendo la carga.  Para más información lea nuestro artículo sobre [reparto de carga](https://help.vtex.com/es/tutorial/como-funciona-a-divisao-de-carga--tutorials_109). También puede verificar si hay un error en la [configuración del producto en el catálogo](https://help.vtex.com/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1wmX3QvQVxbKVmalhIE5Ru).
    </td>
   </tr>
   <tr class="bb b--muted-3">
     <td class="t-body pa5" style="min-width: 15rem;">El peso o la dimensión del ítem no es permitido por la transportadora.
    </td>
-   <td class="t-body pa5" style="min-width: 15rem;">Verifique la configuración de la <a href="https://help.vtex.com/es/tutorial/plantilla-de-flete--tutorials_127">plantilla de flete</a> a través de los campos <strong><em>WeightStart, WeightEnd y MaxVolume</em></strong>.<strong><em> </em></strong> También revise si hay un error en la <a href="https://help.vtex.com/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1wmX3QvQVxbKVmalhIE5Ru">configuración del producto en el catálogo</a>.
+   <td class="t-body pa5" style="min-width: 15rem;">Verifique la configuración de la [plantilla de flete](https://help.vtex.com/es/tutorial/plantilla-de-flete--tutorials_127) a través de los campos ***WeightStart, WeightEnd y MaxVolume***.*** *** También revise si hay un error en la [configuración del producto en el catálogo](https://help.vtex.com/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1wmX3QvQVxbKVmalhIE5Ru).
    </td>
   </tr>
   <tr class="bb b--muted-3">
     <td class="t-body pa5" style="min-width: 15rem;">El peso del kit superó el límite aceptado por la transportadora. 
-      <p>
-      <em>Nota: los ítems que componen un kit o promoción no se pueden separar en diferentes paquetes.</em>
+      
+      *Nota: los ítems que componen un kit o promoción no se pueden separar en diferentes paquetes.*
    </td>
-  <td class="t-body pa5" style="min-width: 15rem;">Verifique la configuración de la <a href="https://help.vtex.com/es/tutorial/plantilla-de-flete--tutorials_127">plantilla de flete </a>a través de los campos <strong><em>WeightStart </em></strong>y <strong><em>WeightEnd. </em></strong>También puede comprobar si hay un error en la <a href="https://help.vtex.com/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1wmX3QvQVxbKVmalhIE5Ru">configuración del producto en el catálogo</a>.
+  <td class="t-body pa5" style="min-width: 15rem;">Verifique la configuración de la [plantilla de flete ](https://help.vtex.com/es/tutorial/plantilla-de-flete--tutorials_127)a través de los campos ***WeightStart ***y ***WeightEnd. ***También puede comprobar si hay un error en la [configuración del producto en el catálogo](https://help.vtex.com/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1wmX3QvQVxbKVmalhIE5Ru).
    </td>
   </tr>
   <tr class="bb b--muted-3">
     <td class="t-body pa5" style="min-width: 15rem;">Las opciones de programación de entrega no están disponibles.
    </td>
-  <td class="t-body pa5" style="min-width: 15rem;">Verifique la configuración de las ventanas de <a href="https://help.vtex.com/es/tutorial/entrega-programada--22g3HAVCGLFiU7xugShOBi">entregas programadas</a> y el horario de atención de la <a href="https://help.vtex.com/es/tutorial/politica-de-envio--tutorials_140">política de envío</a>. Es posible que las ventanas de entregas programadas estén bloqueadas, compruebe si las ventanas correctas están activas.
+  <td class="t-body pa5" style="min-width: 15rem;">Verifique la configuración de las ventanas de [entregas programadas](https://help.vtex.com/es/tutorial/entrega-programada--22g3HAVCGLFiU7xugShOBi) y el horario de atención de la [política de envío](https://help.vtex.com/es/tutorial/politica-de-envio--tutorials_140). Es posible que las ventanas de entregas programadas estén bloqueadas, compruebe si las ventanas correctas están activas.
    </td>
   </tr>
   <tr class="bb b--muted-3">
     <td class="t-body pa5" style="min-width: 15rem;">El Código Postal no es cubierto por la transportadora.
    </td>
-   <td class="t-body pa5" style="min-width: 15rem;">Verifique la configuración de la <a href="https://help.vtex.com/es/tutorial/plantilla-de-flete--tutorials_127">plantilla de flete</a> a través de los campos <strong><em>ZipCodeStart</em></strong> y <strong><em>ZipCodeEnd. </em></strong>También revise las <a href="https://help.vtex.com/es/tutorial/gestionar-valores-de-flete--tutorials_141">Tarifas de envío</a> en el módulo de <b>Envío</b>.
+   <td class="t-body pa5" style="min-width: 15rem;">Verifique la configuración de la [plantilla de flete](https://help.vtex.com/es/tutorial/plantilla-de-flete--tutorials_127) a través de los campos ***ZipCodeStart*** y ***ZipCodeEnd. ***También revise las [Tarifas de envío](https://help.vtex.com/es/tutorial/gestionar-valores-de-flete--tutorials_141) en el módulo de **Envío**.
    </td>
   </tr>
   <tr class="bb b--muted-3">
     <td class="t-body pa5" style="min-width: 15rem;">La transportadora fue desconsiderada porque no cumple los criterios de prioridad.
    </td>
-   <td class="t-body pa5" style="min-width: 15rem;">Los criterios de prioridad evaluados por el sistema en el <em>checkout</em> son:
+   <td class="t-body pa5" style="min-width: 15rem;">Los criterios de prioridad evaluados por el sistema en el *checkout* son:
 <ul>
 <li>Entrega más económica.
 <li>Entrega más rápida.
@@ -129,19 +120,19 @@ A continuación, se enumeran los motivos más comunes por los que una transporta
   <tr class="bb b--muted-3">
     <td class="t-body pa5" style="min-width: 15rem;">La transportadora está inactiva. 
    </td>
-   <td class="t-body pa5" style="min-width: 15rem;">Revise el registro de la <a href="https://help.vtex.com/es/tutorial/politica-de-envio--tutorials_140">política de envío</a> para verificar si la transportadora está activa.
+   <td class="t-body pa5" style="min-width: 15rem;">Revise el registro de la [política de envío](https://help.vtex.com/es/tutorial/politica-de-envio--tutorials_140) para verificar si la transportadora está activa.
    </td>
   </tr>
   <tr class="bb b--muted-3">
     <td class="t-body pa5" style="min-width: 15rem;">El precio de los ítems no cumple las especificaciones de la transportadora.
    </td>
-   <td class="t-body pa5" style="min-width: 15rem;">Verifique la configuración del precio límite aceptado en la <a href="https://help.vtex.com/es/tutorial/politica-de-envio--tutorials_140">política de envío</a>. 
+   <td class="t-body pa5" style="min-width: 15rem;">Verifique la configuración del precio límite aceptado en la [política de envío](https://help.vtex.com/es/tutorial/politica-de-envio--tutorials_140). 
    </td>
   </tr>
   <tr class="bb b--muted-3">
     <td class="t-body pa5" style="min-width: 15rem;">El horario de atención de la transportadora no se adecúa al horario de entrega.
    </td>
-   <td class="t-body pa5" style="min-width: 15rem;">Verifique el horario de atención de la <a href="https://help.vtex.com/es/tutorial/politica-de-envio--tutorials_140">política de envío</a>.
+   <td class="t-body pa5" style="min-width: 15rem;">Verifique el horario de atención de la [política de envío](https://help.vtex.com/es/tutorial/politica-de-envio--tutorials_140).
    </td>
   </tr>
 </table>

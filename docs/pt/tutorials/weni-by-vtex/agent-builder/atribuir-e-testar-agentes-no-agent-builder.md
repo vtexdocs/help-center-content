@@ -19,9 +19,7 @@ A seção **Agentes** permite que o usuário atribua agentes ao time e teste-os.
 
 Alguns agentes oficiais pedem credenciais. Veja a lista completa no artigo [Agentes oficiais da Weni by VTEX](https://help.vtex.com/pt/tutorial/agentes-oficiais-da-weni-by-vtex--7E8wlD3T41CiOexDVH1SIy).
 
-<div class="alert alert-info">
-  <p>Para criar agentes customizados, use o CLI da Weni by VTEX. Confira a <a href=”https://weni-ai.github.io/weni-cli/getting-started/installation/”>documentação</a> para criar seu próprio agente.</p>
-</div>
+> ℹ️ Para criar agentes customizados, use o CLI da Weni by VTEX. Confira a <a href=”https://weni-ai.github.io/weni-cli/getting-started/installation/”>documentação</a> para criar seu próprio agente.
 
 Este artigo está dividido em duas partes:
 
@@ -36,9 +34,7 @@ Este artigo está dividido em duas partes:
 4. Na Galeria de agentes, selecione **Agentes oficiais** ou **Agentes customizados**. Você pode selecionar dentre os agentes listados ou usar o campo de busca para procurar por um agente específico.
 5. Após escolher seu agente, clique em `Atribuir ao time`.
 
-<div class="alert alert-warning">
-  <p>Se o agente solicitar uma credencial, preencha os campos necessários e, em seguida, clique em <code>Atribuir</code>.</p>
-</div>
+> ⚠️ Se o agente solicitar uma credencial, preencha os campos necessários e, em seguida, clique em `Atribuir`.
 
 ## Testar um agente
 

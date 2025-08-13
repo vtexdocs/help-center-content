@@ -26,9 +26,7 @@ Neste artigo iremos abordar os seguintes tópicos:
 - [Vincular um serviço a SKUs](#vincular-um-serviço-a-skus)
   - [Campos da planilha](#campos-da-planilha)
 
-<div class = "alert alert-info">
-É possível configurar serviços de SKU pela <b>Catalog API</b> usando os endpoints de <a href="https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/skuservicetype">SKU service</a>.
-</div>
+> ℹ️ É possível configurar serviços de SKU pela **Catalog API** usando os endpoints de [SKU service](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/skuservicetype).
 
 ## Criar um tipo de serviço
 Para cadastrar um tipo de serviço, siga os passos abaixo:
@@ -78,20 +76,16 @@ Para vincular um serviço a um SKU, siga os passos abaixo:
 5. Clique em `Exportar`.
 6. Salve a planilha de formato CSV que será exportada no seu computador.
 7. Preencha os [campos da planilha](#campos-da-planilha). Mantenha o formato CSV do arquivo quando salvar as alterações.
-<div class = "alert alert-warning">
-  <p>O tamanho do arquivo da planilha não poderá exceder 4Mb (4096KB).</p>
-</div>
+> ⚠️ O tamanho do arquivo da planilha não poderá exceder 4Mb (4096KB).
 8. Clique na barra ao lado do botão `Select`, destacada abaixo.
-  ![Anexos - PT](//images.ctfassets.net/alneenqid6w5/76FSnqnRMroOc0Ex2knz1Z/8581377e9a02b411cd383a85be145983/image.png)
+  ![Anexos - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/Catalog/custom-product-attributes/criando-servico-para-um-sku_1.png)
 9. Selecione a planilha CSV atualizada.
 10. Clique em `Vincular Valor(es) de Serviço(s) a SKU(s)` para finalizar.
 
 ### Campos da planilha
 Manipule a planilha com cautela, sempre verificando se as informações contidas estão preenchidas corretamente. A planilha precisa estar com todos os campos preenchidos para evitar erros.
 
-<div class="alert alert-warning">
-  <p>Ao preencher a planilha, não altere ou apague os cabeçalhos das colunas na linha 1. Preencha os valores desejados nas linhas após os cabeçalhos das colunas para que a importação funcione corretamente.</p>
-</div>  
+> ⚠️ Ao preencher a planilha, não altere ou apague os cabeçalhos das colunas na linha 1. Preencha os valores desejados nas linhas após os cabeçalhos das colunas para que a importação funcione corretamente.  
 
 - **Nome Serviço:** nome do serviço.
 - **Texto Serviço:** texto que será exibido junto com o serviço.
@@ -108,7 +102,5 @@ Manipule a planilha com cautela, sempre verificando se as informações contidas
 - **Custo:** o custo do serviço para a loja.
 - **Ativo:** status do serviço. Preencha com `1` para manter o serviço ativo ou com `0` para manter inativo.
 
-<div class = "alert alert-warning">
-  <p>A inclusão de uma nova planilha não irá substituir os serviços já vinculados ao SKU. Para desvincular um serviço, utilize o endpoint <a href ="https://developers.vtex.com/docs/api-reference/catalog-api#delete-/api/catalog/pvt/skuservice/-skuServiceId-">Dissociate SKU Service</a>.</p>
-</div>
+> ⚠️ A inclusão de uma nova planilha não irá substituir os serviços já vinculados ao SKU. Para desvincular um serviço, utilize o endpoint <a href ="https://developers.vtex.com/docs/api-reference/catalog-api#delete-/api/catalog/pvt/skuservice/-skuServiceId-">Dissociate SKU Service</a>.
 

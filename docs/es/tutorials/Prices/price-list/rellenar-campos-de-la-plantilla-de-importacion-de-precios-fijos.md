@@ -17,7 +17,7 @@ subcategoryId: 4id9W3RDyw02CasOm2C2iy
 
 Para comprender mejor el significado de cada campo de la plantilla de registro de precio fijo, vea la descripción completa de los ítems.
 
-![tabela.preço.fixo](//images.ctfassets.net/alneenqid6w5/6V1yGMgHF0NP5pzZzcSOCF/cc9369da09f81cafaeac1fc73ac61aa1/tabela.pre__o.fixo.png)
+![tabela.preço.fixo](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Prices/price-list/rellenar-campos-de-la-plantilla-de-importacion-de-precios-fijos_1.png)
 
 - **SKU ID:** el ID del SKU al que quiere añadir el precio fijo.
 - **Trade Policy:** el nombre o el ID de la política comercial a la que se aplicará el precio fijo.
@@ -35,4 +35,4 @@ Los siguientes campos son opcionales en la plantilla, se exportan solo para exhi
 - **Ref ID (View Only):** código de referencia único utilizado para facilitar la organización del catálogo de productos. Este id generalmente es creado por los sistemas internos de la tienda.
 - **EAN (View Only):** código de identificación único del SKU (código de barras).
 
-<div class="alert alert-warning">Plantillas de precios utilizadas para importación tienen un límite de tamaño de 1 MB. Si su plantilla actual excede este límite, le recomendamos dividirla en varios archivos, <strong>asegurándose de que los precios que se refieren al mismo SKU se mantengan juntos en la misma plantilla</strong>.</div>
+> ⚠️ Plantillas de precios utilizadas para importación tienen un límite de tamaño de 1 MB. Si su plantilla actual excede este límite, le recomendamos dividirla en varios archivos, **asegurándose de que los precios que se refieren al mismo SKU se mantengan juntos en la misma plantilla**.

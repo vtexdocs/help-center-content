@@ -31,7 +31,7 @@ Para configurar Dock, siga os passos abaixo:
     - __Desativado: Não Capturado Automaticamente__: a captura não é autorizada automaticamente. É importante atentar-se ao escolher esse comportamento, pois a demora no faturamento pode extrapolar o tempo de captura acordado com o provedor e levar à perda do pagamento.
 
 <ui>
-  6. Clique em <b>Salvar.</b>
+  6. Clique em **Salvar.**
   </ui>
 
 ## Configurar condição de pagamento

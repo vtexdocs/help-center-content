@@ -17,9 +17,7 @@ subcategoryId: 6J3wx7KM4oysymsWuUACyY
 
 [Políticas comerciais](https://help.vtex.com/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) são usadas na VTEX para agrupar configurações de catálogo, preços, promoções, inventário, logística, segmentação de clientes e pagamentos para diferentes canais de venda. Canais de venda podem incluir marketplaces, ecommerce próprio, lojas físicas, ou lojas B2B, por exemplo.
 
-<div class="alert alert-danger">
-Por padrão, novas políticas comerciais são aplicadas a todos os sellers ativos. Se desejar aplicar apenas a um grupo específico de sellers, por favor informe isto no ticket.
-</div>
+> ❗ Por padrão, novas políticas comerciais são aplicadas a todos os sellers ativos. Se desejar aplicar apenas a um grupo específico de sellers, por favor informe isto no ticket.
 
 ## Gerenciar políticas comerciais
 
@@ -33,9 +31,7 @@ Para utilizar o mesmo catálogo em mais de uma política comercial, acesse a doc
 
 Para [contratar políticas comerciais adicionais](https://help.vtex.com/pt/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X), basta solicitar via [suporte VTEX](https://help.vtex.com/pt/support) selecionando a opção **Comercial** e o tipo de solicitação `Criação de Política Comercial`. Ao solicitar a criação de uma política comercial via ticket, considere um tempo de resposta de até três dias úteis.
 
-<div class="alert alert-info">
-Para que o uso de política comercial adicional para integrar com <a href="https://help.vtex.com/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-a-conector-nativo-vtex">conector nativo</a>, <a href="https://help.vtex.com/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-a-conector-certificado-parceiro">conector certificado (parceiro)</a> ou outras lojas VTEX seja isenta de taxas, é encessário que pedidos sejam associados a ela.
-</div>
+> ℹ️ Para que o uso de política comercial adicional para integrar com [conector nativo](https://help.vtex.com/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-a-conector-nativo-vtex), [conector certificado (parceiro)](https://help.vtex.com/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-a-conector-certificado-parceiro) ou outras lojas VTEX seja isenta de taxas, é encessário que pedidos sejam associados a ela.
 
 ## Saiba mais
 

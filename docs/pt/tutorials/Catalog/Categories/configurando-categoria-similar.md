@@ -17,9 +17,7 @@ subcategoryId: 1E7tziZCkY4w8i4EmUuwec
 
 No Admin VTEX, é possível cadastrar categoria similar a nível de produto ou de categoria, como veremos nas próximas seções.
 
-<div class = "alert alert-info">
-  <p>Para cadastrar categoria similar pela Catalog API, utilize o endpoint <a href="https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/product/-productId-/similarcategory/-categoryId-">Add similar category</a>.</p>
-</div>
+> ℹ️ Para cadastrar categoria similar pela Catalog API, utilize o endpoint [Add similar category](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/product/-productId-/similarcategory/-categoryId-).
 
 ## Configurar categoria similar pelo produto
 
@@ -38,9 +36,7 @@ O passo a passo para configurar categoria similar no produto é o seguinte:
 
 ## Configurar categoria similar pela categoria
 
-<div class="alert alert-warning">
-  <p>Esta configuração é compatível apenas com lojas que utilizam o <a href="https://help.vtex.com/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj">Portal CMS Legado</a>.</p>
-</div>
+> ⚠️ Esta configuração é compatível apenas com lojas que utilizam o [Portal CMS Legado](https://help.vtex.com/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj).
 
 Ao editar uma categoria, é possível configurar sua categoria similar. Ao concluir esse tipo de configuração a nível de categoria, o menu de navegação passa a exibir um link para a categoria similar no nível da categoria original. 
 

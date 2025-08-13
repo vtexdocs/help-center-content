@@ -3,8 +3,8 @@ title: 'Registrar información de BIN'
 id: 7xvo4JJ53WM7aLzufdC4au
 status: PUBLISHED
 createdAt: 2024-05-02T19:11:00.734Z
-updatedAt: 2024-05-03T13:40:32.363Z
-publishedAt: 2024-05-03T13:40:32.363Z
+updatedAt: 2025-08-11T19:36:44.910Z
+publishedAt: 2025-08-11T19:36:44.910Z
 firstPublishedAt: 2024-05-02T19:44:35.388Z
 contentType: tutorial
 productTeam: Financial
@@ -17,7 +17,7 @@ subcategoryId: 2Xay1NOZKE2CSqKMwckOm8
 
 El número de identificación bancaria (BIN) se compone de los primeros seis u ocho dígitos de una tarjeta de crédito o débito y caracteriza la entidad emisora de la tarjeta.
 
-![BIN_image_digits_ES_2](//images.ctfassets.net/alneenqid6w5/56E0fyyarcKE5C68SXt7xQ/474de4b5b02f9be016dd9aae13d83b4a/BIN_image_digits_ES_2.png)
+![BIN_image_digits_ES_2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/payments-overview/registrar-informacion-de-bin_1.png)
 
 Cuando la entidad emisora desea crear nuevos perfiles de tarjetas o emitir nuevas tarjetas para un modelo existente, debe crear nuevos BIN. Esto también se aplica cuando una [bandera de tarjeta](https://help.vtex.com/es/tutorial/que-es-una-bandera-de-tarjeta-de-credito--4bNba5QYuIwKEmac88KwyI) es adquirida por otra.
 
@@ -26,6 +26,8 @@ En estos casos, se debe notificar a VTEX para permitir que las nuevas tarjetas s
 ## Solicitar la inclusión de BIN
 
 Para agegar un BIN o actualizar la información de un BIN existente en VTEX, debes abrir un ticket con el [Soporte VTEX](https://help.vtex.com/es/support).
+
+> ⚠️ Para garantizar la seguridad y la legitimidad de los cambios solicitados, es obligatorio enviar una comprobación formal de la entidad financiera que acredite la titularidad de los BINs informados. Las solicitudes sin esta validación no podrán ser atendidas.
 
 El ticket debe incluir como adjunto una plantilla rellenada con la siguiente información:
 
@@ -39,4 +41,4 @@ El ticket debe incluir como adjunto una plantilla rellenada con la siguiente inf
 
 Modelo de plantilla rellenada:
 
-![Bin_spreadsheet](//images.ctfassets.net/alneenqid6w5/1bYkI1ppRO3r7VtpFyDPfA/34d0045e509662b159b442818a9854f6/Bin_spreadsheet.PNG)
+![Bin_spreadsheet](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Payments/payments-overview/registrar-informacion-de-bin_2.PNG)

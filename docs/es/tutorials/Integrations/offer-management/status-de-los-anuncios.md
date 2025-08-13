@@ -19,11 +19,11 @@ El módulo **Status de los anuncios** permite a los sellers realizar un seguimie
 
 En **Status de los anuncios** se puede llevar a cabo un seguimiento de los anuncios enviados únicamente a los marketplaces VTEX. Para acceder al módulo en el Admin VTEX, ve a **Marketplace > Conexiones > Status de los anuncios,** o ingresa **Status de los anuncios** en la barra de búsqueda.  
 
-![Pantalla de estado de la oferta](//downloads.ctfassets.net/alneenqid6w5/5elFaSW31IgANpXseTApPo/91b3ae83719e933617324f74223d736b/-ES-_Offer_Status_-_GIF.gif)
+![Pantalla de estado de la oferta](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Integrations/offer-management/status-de-los-anuncios_1.gif)
 
 La página **Status de los anuncios** está compuesta por tres pestañas: **[Publicados](#pestana-publicados)**, **[Problemas](#pestana-problemas)** y **[A la espera de finalización.](#pestana-a-la-espera-de-finalizacion)** Todas ellas presentan una lista de tus anuncios de acuerdo con su status actual. Accede y consulta los detalles de cada anuncio, como status, stock, precio, fecha de actualización y los motivos de rechazo en el marketplace.
 
-![Estado de los anuncios shcema](//images.ctfassets.net/alneenqid6w5/mC78m1ROUDWruOE5V5XEk/9e17eeb599bb0d5e3dec1933097d4af0/offer-status-schema-es.png)
+![Estado de los anuncios shcema](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Integrations/offer-management/status-de-los-anuncios_2.png)
 
 ## Pestaña Publicados
 
@@ -50,7 +50,7 @@ Para filtrar los anuncios por **Marketplace**, haz clic en la flecha hacia abajo
 
 Para filtrar los anuncios por **Stock**, haz clic en la flecha hacia abajo situada junto al filtro, ingresa el número de stock mínimo, stock máximo, o ambos, y haz clic en **Aplicar**.
 
-![Filtro estoque offer status](//images.ctfassets.net/alneenqid6w5/p6cXcm4zP1pYWyTGbQcoE/0cc494ba4b34b71a2aaf21cfb3ed1a21/inventario-offer-status.png)
+![Filtro estoque offer status](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Integrations/offer-management/status-de-los-anuncios_3.png)
 
 Para filtrar los anuncios por **Actualización**, haz clic en la flecha hacia abajo situada junto al filtro, selecciona una de las opciones y haz clic en **Aplicar.**
 
@@ -59,7 +59,7 @@ Consulta a continuación las opciones disponibles para este filtro:
 - **Actualizados**: son anuncios cuyo precio y/o stock han sido actualizados por el seller y se procesaron con éxito.
 - **Error al actualizar:** anuncios que presentaban inconsistencias y, por lo tanto, no pudieron ser actualizados.
 
-![Filtro atualizado offer status](//images.ctfassets.net/alneenqid6w5/VBAg96YrCwBHB358eJS7r/fa8829e63abbb196a93296e24d12a960/actualizaci_n-offer-status.png)
+![Filtro atualizado offer status](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Integrations/offer-management/status-de-los-anuncios_4.png)
 
 Puedes utilizar un único filtro o combinarlos en una misma búsqueda. Los filtros no vienen preseleccionados de manera predeterminada, lo que significa que la página inicial mostrará la cantidad total de anuncios existentes.
 
@@ -78,7 +78,7 @@ En la lista de anuncios se muestran columnas con la siguiente información:
 | **Nombre** | Muestra la imagen del SKU, el título del anuncio en el canal de ventas y el ID del SKU en VTEX. |
 | **Marketplace** | Canal de ventas al que se envió el anuncio. |
 | **Precio** | Precio del SKU del anuncio. |
-| **Stock** | Cantidad de items en  <a href="https://help.vtex.com/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb">stock</a> para el SKU del anuncio. |
+| **Stock** | Cantidad de items en  [stock](https://help.vtex.com/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb) para el SKU del anuncio. |
 | **Actualización** | Estado del proceso de la actualización, pudiendo ser Actualizados <i class="far fa-check-circle"></i> o Error al actualizar<div class="error-icon"></div>. |
 
 Para ordenar los anuncios en orden ascendente o descendente haz clic en los nombres de las columnas. Por ejemplo, al hacer clic en la columna **Precio**, la lista se organiza por el precio del anuncio, ya sea de menor a mayor o de mayor a menor.
@@ -102,15 +102,13 @@ Para actualizar la información de un anuncio ya publicado el seller debe realiz
 
 Serás redirigido a la página correspondiente para realizar los cambios necesarios.
 
-![Ações offer status](//images.ctfassets.net/alneenqid6w5/3SzA8sqcAKJx2L4GrdLcQ2/b17744a4b3b202fc28490eda7ff16663/a__es-offer-status.png)
+![Ações offer status](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Integrations/offer-management/status-de-los-anuncios_5.png)
 
 ### Exportar la lista de anuncios publicados
 
 Para exportar la lista de anuncios publicados en formato XLSX, haz clic sobre el ícono flecha hacia abajo, ubicado en la parte superior de la interfaz. El archivo se enviará al email del usuario registrado. El tiempo que tarde la exportación dependerá de la cantidad de anuncios de la lista exportada y de cuestiones de procesamiento de la plataforma VTEX.
 
-<div class="alert alert-info">
-El contenido exportado incluirá el total de anuncios de la lista al momento de la exportación. Si hay algún filtro activo, solo se exportarán los anuncios seleccionados.
-  </div>
+> ℹ️ El contenido exportado incluirá el total de anuncios de la lista al momento de la exportación. Si hay algún filtro activo, solo se exportarán los anuncios seleccionados.
 
 ## Pestaña Problemas
 
@@ -142,7 +140,7 @@ Para filtrar los anuncios por **Enviados**, haz clic en la flecha hacia abajo si
 
 Para filtrar los anuncios por **Stock**, haz clic en la flecha hacia abajo situada junto al filtro, ingresa el número de stock mínimo, stock máximo, o ambos, y haz clic en **Aplicar**.
 
-![Filtro estoque offer status](//images.ctfassets.net/alneenqid6w5/p6cXcm4zP1pYWyTGbQcoE/0cc494ba4b34b71a2aaf21cfb3ed1a21/inventario-offer-status.png)
+![Filtro estoque offer status](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/Integrations/offer-management/status-de-los-anuncios_6.png)
 
 Puedes utilizar un único filtro o combinarlos en una misma búsqueda. Los filtros no vienen preseleccionados de manera predeterminada, lo que significa que la página inicial mostrará la cantidad total de anuncios existentes.
 
@@ -155,7 +153,7 @@ En la pestaña **Problemas** puedes ver la lista de anuncios junto con la siguie
 | **Nombre** | Muestra la imagen del SKU, el título del anuncio en el canal de ventas y el ID del SKU en VTEX. |
 | **Marketplace** | Canal de ventas al que se envió el anuncio. |
 | **Precio** | Precio del SKU del anuncio. |
-| **Stock** | Cantidad de items en  <a href="https://help.vtex.com/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb">stock</a> para el SKU del anuncio. |
+| **Stock** | Cantidad de items en  [stock](https://help.vtex.com/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb) para el SKU del anuncio. |
 | **Problemas** | Número de problemas identificados en el anuncio. |
 | **Enviados** | Fecha en la que el anuncio se envió al marketplace.|
 
@@ -185,9 +183,7 @@ Serás redirigido a la página correspondiente para realizar los cambios necesar
 
 Para exportar la lista de anuncios con problemas en formato XLSX, haz clic sobre el ícono flecha hacia abajo, ubicado en la parte superior de la interfaz. El archivo se enviará al email del usuario registrado. El tiempo que tarde la exportación dependerá de la cantidad de anuncios de la lista exportada y de cuestiones de procesamiento de la plataforma VTEX.
 
-<div class="alert alert-info">
-El contenido exportado incluirá el total de anuncios de la lista al momento de la exportación. Si hay algún filtro activo, solo se exportarán los anuncios seleccionados.
-  </div>
+> ℹ️ El contenido exportado incluirá el total de anuncios de la lista al momento de la exportación. Si hay algún filtro activo, solo se exportarán los anuncios seleccionados.
 
 ## Pestaña A la espera de finalización
 
@@ -242,6 +238,4 @@ Serás redirigido a la página correspondiente para realizar los cambios necesar
 
 Para exportar la lista de anuncios en espera de finalización en formato XLSX, haz clic sobre el ícono flecha hacia abajo, ubicado en la parte superior de la interfaz. El archivo se enviará al email del usuario registrado. El tiempo que tarde la exportación dependerá de la cantidad de anuncios de la lista exportada y de cuestiones de procesamiento de la plataforma VTEX.
 
-<div class="alert alert-info">
-El contenido exportado incluirá el total de anuncios de la lista al momento de la exportación. Si hay algún filtro activo, solo se exportarán los anuncios seleccionados.
-  </div>
+> ℹ️ El contenido exportado incluirá el total de anuncios de la lista al momento de la exportación. Si hay algún filtro activo, solo se exportarán los anuncios seleccionados.

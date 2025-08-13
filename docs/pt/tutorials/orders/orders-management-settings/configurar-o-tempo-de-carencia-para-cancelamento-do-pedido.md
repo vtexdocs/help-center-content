@@ -21,9 +21,7 @@ Ou seja, se o cliente solicitar o cancelamento antes ou durante o período de ca
 
 Se o cliente solicitar o cancelamento depois que a carência tiver terminado, a loja recebe a solicitação, mas o cancelamento só é realizado se o lojista aprová-lo em **Pedidos**.
 
-<div class = "alert alert-info">
-Por padrão, o tempo de carência para cancelamento é de 30 minutos mas você pode configurá-lo para atender à demanda do seu negócio.
-</div>
+> ℹ️ Por padrão, o tempo de carência para cancelamento é de 30 minutos mas você pode configurá-lo para atender à demanda do seu negócio.
 
 Por exemplo, se sua loja vende comida ou produtos farmacêuticos, que precisam ser entregues em pouco tempo, talvez faça sentido ter uma carência para cancelamento menor que 30 minutos.
 

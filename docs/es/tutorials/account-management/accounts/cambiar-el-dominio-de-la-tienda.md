@@ -74,6 +74,4 @@ Sigue las instrucciones a continuación para garantizar que todos los accesos al
 * Recomendamos el uso de herramientas como [redirhub.com](https://www.redirhub.com/es/free-redirect-service) y [redirect.center](https://redirect.center) para crear la redirección.  
 * En el panel DNS, evita utilizar CNAME para la redirección, ya que esta configuración no garantiza una redirección correcta.
 
-<div class="alert alert-warning">
-  <p>Es habitual que las primeras visitas al nuevo dominio sean más lentas de lo esperado, debido al proceso inicial de creación de la caché. Este impacto es temporal y se normaliza con el tiempo.</p>
-</div>
+> ⚠️ Es habitual que las primeras visitas al nuevo dominio sean más lentas de lo esperado, debido al proceso inicial de creación de la caché. Este impacto es temporal y se normaliza con el tiempo.

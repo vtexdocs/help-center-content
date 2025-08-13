@@ -44,9 +44,7 @@ The **Invoices module** generates the financial report. To export it, follow the
 3. Select the desired invoice.
 4. Click `Financial Report`.
 
-<div class = "alert alert-info">
-The financial report is static and doesn't change after it's generated. You can access it at any time to view the revenue.
-</div>
+> ℹ️ The financial report is static and doesn't change after it's generated. You can access it at any time to view the revenue.
 
 ## 3. Analyzing and manipulating the financial report
 The financial report is in **CSV** format with several columns detailing each order. To validate the invoice values, apply **filters to the columns** in the report, following the criteria below:

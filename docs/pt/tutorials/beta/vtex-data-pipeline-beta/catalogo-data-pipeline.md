@@ -3,8 +3,8 @@ title: 'Catálogo Data Pipeline'
 id: 7ARDELPaugrBu5dZT7Vx2b
 status: PUBLISHED
 createdAt: 2025-03-06T15:48:35.084Z
-updatedAt: 2025-07-31T22:11:52.565Z
-publishedAt: 2025-07-31T22:11:52.565Z
+updatedAt: 2025-08-12T14:55:58.564Z
+publishedAt: 2025-08-12T14:55:58.564Z
 firstPublishedAt: 2025-03-07T11:30:01.994Z
 contentType: tutorial
 productTeam: Others
@@ -17,11 +17,7 @@ subcategoryId: oMrzcOMVbBpH0reeMFHFg
 
 O conjunto de dados é composto por cinco tabelas que fornecem as informações mais recentes do catálogo de uma conta VTEX. Neste conjunto de dados são disponibilizadas informações de **produtos, SKUs, marcas, categorias** e **especificações.**  
 
-<div clas="alert alert-warning">
-No modelo de dados de Catálogo, somente <b>Marcas</b> e <b>Categorias</b> com pelo menos um produto ou SKU vinculado no catálogo são elegíveis para envio, mesmo que estejam inativas.
-</div>
-
-Traduza para o EN e ES
+> ⚠️ No modelo de dados de Catálogo, somente **Marcas** e **Categorias** com pelo menos um produto ou SKU vinculado no catálogo são elegíveis para envio, mesmo que estejam inativas.
 
 Nesta seção você encontrará as seguintes informações:  
 

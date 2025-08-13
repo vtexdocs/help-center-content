@@ -45,9 +45,7 @@ Caso seja do seu interesse ter configurações específicas para vender no Enjoe
 
 A [contratação de políticas comerciais adicionais](https://help.vtex.com/pt/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X) para integrar com conectores certificados, certificados nativos ou outras lojas VTEX é isenta de taxas. Saiba mais sobre quem são esses parceiros em [Estratégias de marketplace na VTEX](https://help.vtex.com/pt/tutorial/integrando-com-marketplace--tutorials_402).
 
-<div class="alert alert-warning">
-Os produtos que você deseja enviar para o Enjoei devem estar <a href="https://help.vtex.com/pt/tutorial/associacao-de-sku-a-politica-comercial--1qFAiybogHCStRO65sy4vb">associados à política comercial</a> definida. Caso contrário, eles não serão integrados. 
-</div>
+> ⚠️ Os produtos que você deseja enviar para o Enjoei devem estar [associados à política comercial](https://help.vtex.com/pt/tutorial/associacao-de-sku-a-politica-comercial--1qFAiybogHCStRO65sy4vb) definida. Caso contrário, eles não serão integrados.
 
 ### Definir a Estratégia de Envio
 
@@ -73,9 +71,7 @@ Para configurar uma nova chave, siga os passos abaixo:
 4. Preencha com um nome para o novo access key.
 5. Clique em `Gerar novos secrets`.
 
-<div class="alert alert-warning">
-O secret gerado, também chamado de appToken, só aparece para o usuário esta única vez, não é possível recuperar a informação pelo sistema posteriormente. Portanto, tenha a certeza de guardá-lo em local seguro.
-</div>
+> ⚠️ O secret gerado, também chamado de appToken, só aparece para o usuário esta única vez, não é possível recuperar a informação pelo sistema posteriormente. Portanto, tenha a certeza de guardá-lo em local seguro.
 
 ### Criar perfil de acesso 
 
@@ -143,6 +139,4 @@ Depois de concluir o preenchimento do formulário com as informações solicitad
 
 Uma vez que você tenha concluído todas as etapas anteriores, sua loja será integrada na plataforma do Enjoei e a integração será concluída pelo parceiro.
 
-<div class="alert alert-info">
-Você também pode conferir as orientações para integração fornecidas pelo Enjoei na documentação <a href="https://drive.google.com/uc?export=download&id=1bOR_Kc37kRXWWy8b68tShnb2TNbW9BUp">Configuração VTEX</a>.
-</div>
+> ℹ️ Você também pode conferir as orientações para integração fornecidas pelo Enjoei na documentação [Configuração VTEX](https://drive.google.com/uc?export=download&id=1bOR_Kc37kRXWWy8b68tShnb2TNbW9BUp).

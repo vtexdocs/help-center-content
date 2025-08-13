@@ -26,6 +26,4 @@ Para exportar su base de clientes que han optado por recibir newsletter, siga el
 
    En la planilla que ha sido enviada a su e-mail habrá una columna titulada `isNewsletterOptIn`, que asigna el valor **true** para los clientes que reciben newsletter y **false** para aquellos que no la reciben.
 
-<div class="alert alert-warning">
-  <p>Esta opción sólo es válida para tiendas que tienen registro de newsletter por el Master Data. Si su tienda no tiene esa configuración y ella todavía se hace por un control de página, vea el artículo <a href="https://help.vtex.com/es/tutorial/como-configuro-la-captacion-de-newsletter-por-el-master-data--frequentlyAskedQuestions_1816">Configurar la captación de newsletter por Master Data</a> para saber como configurar.</p>
-</div>
+> ⚠️ Esta opción sólo es válida para tiendas que tienen registro de newsletter por el Master Data. Si su tienda no tiene esa configuración y ella todavía se hace por un control de página, vea el artículo [Configurar la captación de newsletter por Master Data](https://help.vtex.com/es/tutorial/como-configuro-la-captacion-de-newsletter-por-el-master-data--frequentlyAskedQuestions_1816) para saber como configurar.

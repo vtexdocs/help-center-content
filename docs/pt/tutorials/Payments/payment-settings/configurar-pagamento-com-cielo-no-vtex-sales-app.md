@@ -17,9 +17,7 @@ subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 
 Na VTEX, é possível realizar a integração com o provedor de pagamento Cielo. Por meio deste conector, sua loja pode oferecer transações de pagamento em lojas físicas (VTEX Sales App), utilizando pontos de vendas (POS). Para mais informações, acesse [O que é o VTEX Sales App?](https://help.vtex.com/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf).
 
-<div class="alert alert-info">
-Para utilizar o provedor Cielo em sua loja por outros canais de venda online (exceto VTEX Sales App), acesse <a href="https://help.vtex.com/pt/tutorial/configurar-pagamento-com-cieloecommerce--6zuELBqEo0QzApbU4l7L4">Configurar pagamento com CieloEcommerce</a>.
-</div>
+> ℹ️ Para utilizar o provedor Cielo em sua loja por outros canais de venda online (exceto VTEX Sales App), acesse [Configurar pagamento com CieloEcommerce](https://help.vtex.com/pt/tutorial/configurar-pagamento-com-cieloecommerce--6zuELBqEo0QzApbU4l7L4).
 
 Para utilizar o provedor Cielo no VTEX Sales App, é necessário:
 
@@ -27,77 +25,71 @@ Para utilizar o provedor Cielo no VTEX Sales App, é necessário:
 - [Configurar conector Cielo (VTEX Sales App) na VTEX](#configurar-conector-cielo-vtex-sales-app-na-vtex)
 - [Configurar condição de pagamento](#configurar-condicao-de-pagamento)
 
-<div class="alert alert-warning">
-As configurações realizadas em um ambiente externo à VTEX podem ser descontinuadas ou modificadas sem aviso prévio. Consulte sua conta na Cielo para informações atualizadas.
-</div>
+> ⚠️ As configurações realizadas em um ambiente externo à VTEX podem ser descontinuadas ou modificadas sem aviso prévio. Consulte sua conta na Cielo para informações atualizadas.
 
 ## Configurar chaves no ambiente Cielo
 
 Os passos a seguir descrevem as configurações mínimas a serem realizadas para que o conector da Cielo seja devidamente configurado. Demais configurações personalizadas aplicadas à clientes, habilitação de métodos de pagamento específicos ou funcionalidades particulares da plataforma, devem ser realizadas conforme documentação da Cielo.
 
-<blockquote><ui>1. Acesse o <a href="https://desenvolvedores.cielo.com.br/api-portal/pt-br">portal do desenvolvedor Cielo</a> para criar uma nova conta.</ui>
+<blockquote><ui>1. Acesse o [portal do desenvolvedor Cielo](https://desenvolvedores.cielo.com.br/api-portal/pt-br) para criar uma nova conta.</ui>
 
-<blockquote><ui><div class="alert alert-warning">
-O portal do desenvolvedor Cielo permite que o usuário obtenha informações de todas as chaves necessárias pra configurar a conexão entre a VTEX e a Cielo Lio. Recomendamos que o procedimento abaixo seja realizado por um usuário que já possua acesso às demais chaves de sua conta na Cielo.
-  </div></blockquote>
+<blockquote><ui>> ⚠️ O portal do desenvolvedor Cielo permite que o usuário obtenha informações de todas as chaves necessárias pra configurar a conexão entre a VTEX e a Cielo Lio. Recomendamos que o procedimento abaixo seja realizado por um usuário que já possua acesso às demais chaves de sua conta na Cielo.</blockquote>
 
-<blockquote><ui>2. Após realizar o login, solicite a criação das chaves do SalesApp por meio do link <a href="https://devcielo.zendesk.com/hc/pt-br/requests/new?ticket_form_id=526108">https://devcielo.zendesk.com/hc/pt-br/requests/new?ticket_form_id=526108</a> ou acessando <b>Suporte > Cielo Lio > Envie sua pergunta > Token de integração remota</b> dentro do portal. Informe os seguintes dados: <i>Assunto: Solicitação de chaves de produção</i> e <i>Nome do PDV: SalesApp</i>.</ui> 
+<blockquote><ui>2. Após realizar o login, solicite a criação das chaves do SalesApp por meio do link [https://devcielo.zendesk.com/hc/pt-br/requests/new?ticket_form_id=526108](https://devcielo.zendesk.com/hc/pt-br/requests/new?ticket_form_id=526108) ou acessando **Suporte > Cielo Lio > Envie sua pergunta > Token de integração remota** dentro do portal. Informe os seguintes dados: *Assunto: Solicitação de chaves de produção* e *Nome do PDV: SalesApp*.</ui> 
 
-<blockquote><ui><div class="alert alert-info">
-As chaves estarão disponíveis no portal do desenvolvedor da Cielo em até 2 dias úteis.
-</div></blockquote>
+<blockquote><ui>> ℹ️ As chaves estarão disponíveis no portal do desenvolvedor da Cielo em até 2 dias úteis.</blockquote>
 
 ## Configurar conector Cielo (VTEX Sales App) na VTEX
 
-<blockquote><ui>1. No Admin VTEX, acesse <b>Configurações da loja > Pagamentos > Provedores</b>, ou digite <b>Provedores</b> na barra de busca no topo da página.</ui>
+<blockquote><ui>1. No Admin VTEX, acesse **Configurações da loja > Pagamentos > Provedores**, ou digite **Provedores** na barra de busca no topo da página.</ui>
 
-<blockquote><ui>2. Na tela de provedores, clique no botão <b>Novo provedor</b>.</ui>
+<blockquote><ui>2. Na tela de provedores, clique no botão **Novo provedor**.</ui>
 
-<blockquote><ui>3. Digite o nome <b>CieloEcommerce</b> na barra de busca e clique sobre o nome do provedor.</ui>
+<blockquote><ui>3. Digite o nome **CieloEcommerce** na barra de busca e clique sobre o nome do provedor.</ui>
 
-<blockquote><ui>4. Em <b>Chave de aplicação</b>, insira o nome da sua <b>MerchantID</b> fornecido pela Cielo.</ui>
+<blockquote><ui>4. Em **Chave de aplicação**, insira o nome da sua **MerchantID** fornecido pela Cielo.</ui>
 
-<blockquote><ui>5. Em <b>Token de aplicação</b>, insira a chave <b>Client token</b> gerada no portal do desenvolvedor da Cielo.</ui>  
+<blockquote><ui>5. Em **Token de aplicação**, insira a chave **Client token** gerada no portal do desenvolvedor da Cielo.</ui>  
 
-<blockquote><ui>6. Caso deseje modificar o nome de identificação a ser exibido para o provedor Cielo na tela do Admin VTEX, insira a informação no campo <b>Nome</b> em <b>Informações básicas</b>.</ui>
+<blockquote><ui>6. Caso deseje modificar o nome de identificação a ser exibido para o provedor Cielo na tela do Admin VTEX, insira a informação no campo **Nome** em **Informações básicas**.</ui>
 
-<blockquote><ui>7. Em <b>Controle de pagamento</b>, desative o ambiente de teste ao desmarcar a opção <b>Ativar modo de teste</b>.</ui>
+<blockquote><ui>7. Em **Controle de pagamento**, desative o ambiente de teste ao desmarcar a opção **Ativar modo de teste**.</ui>
 
-<blockquote><ui>8. Mantenha desmarcada a opção <b>Ativar split de recebíveis e enviar recebedores de pagamento</b>.</ui>   
+<blockquote><ui>8. Mantenha desmarcada a opção **Ativar split de recebíveis e enviar recebedores de pagamento**.</ui>   
 
-<blockquote><ui>9. Em <b>Integration</b>, selecione a opção <b>Adquirencia</b> (clientes Cielo 3.0) ou <b>Gateway</b> (clientes Braspag).</ui>
+<blockquote><ui>9. Em **Integration**, selecione a opção **Adquirencia** (clientes Cielo 3.0) ou **Gateway** (clientes Braspag).</ui>
 
-<blockquote><ui>10. Em <b>Provider</b>, selecione a opção <b>Cielo</b> (clientes Cielo 3.0) ou <b>Cielo30</b> (clientes Braspag).</ui>
+<blockquote><ui>10. Em **Provider**, selecione a opção **Cielo** (clientes Cielo 3.0) ou **Cielo30** (clientes Braspag).</ui>
 
-<blockquote><ui>11. Em <b>IsSplit</b>, selecione a opção <b>False</b>.</ui>
+<blockquote><ui>11. Em **IsSplit**, selecione a opção **False**.</ui>
 
-<blockquote><ui>12. Em <b>useCieloMDR</b>, selecione a opção <b>Not Defined</b>.</ui> 
+<blockquote><ui>12. Em **useCieloMDR**, selecione a opção **Not Defined**.</ui> 
 
-<blockquote><ui>13. Em <b>UseMpi</b>, selecione a opção <b>False</b>.</ui> 
+<blockquote><ui>13. Em **UseMpi**, selecione a opção **False**.</ui> 
 
-<blockquote><ui>14. Mantenha em branco os seguintes campos: <b>MpiClientId</b>, <b>MpiClientSecret</b>, <b>MpiMerchantName</b>, <b>MpiMCC</b>, <b>MpiEstablishmentCode</b> e <b>SoftDescriptor</b>.</ui>
+<blockquote><ui>14. Mantenha em branco os seguintes campos: **MpiClientId**, **MpiClientSecret**, **MpiMerchantName**, **MpiMCC**, **MpiEstablishmentCode** e **SoftDescriptor**.</ui>
 
-<blockquote><ui>15. Em <b>AntifraudProvider</b>, selecione a opção <b>Not Defined</b>.</ui>  
+<blockquote><ui>15. Em **AntifraudProvider**, selecione a opção **Not Defined**.</ui>  
 
-<blockquote><ui>16. Em <b>Antifraud</b>, selecione a opção <b>Not Defined</b>.</ui>   
+<blockquote><ui>16. Em **Antifraud**, selecione a opção **Not Defined**.</ui>   
 
-<blockquote><ui>17. Em <b>AntifraudSequenceCriteria</b>, selecione a opção <b>Not Defined</b>.</ui> 
+<blockquote><ui>17. Em **AntifraudSequenceCriteria**, selecione a opção **Not Defined**.</ui> 
 
-<blockquote><ui>18. Em <b>Captura</b>, selecione a opção <b>Imediatamente</b>.</ui>   
+<blockquote><ui>18. Em **Captura**, selecione a opção **Imediatamente**.</ui>   
 
-<blockquote><ui>19. Em <b>UseVerifyCard</b>, selecione a opção <b>False</b>.</ui>
+<blockquote><ui>19. Em **UseVerifyCard**, selecione a opção **False**.</ui>
 
-<blockquote><ui>20. Em <b>AcceptInternationalCard</b>, selecione a opção <b>True</b>.</ui>
+<blockquote><ui>20. Em **AcceptInternationalCard**, selecione a opção **True**.</ui>
 
-<blockquote><ui>21. Em <b>AcceptPrePaidCard</b>, selecione a opção <b>True</b>.</ui>
+<blockquote><ui>21. Em **AcceptPrePaidCard**, selecione a opção **True**.</ui>
 
-<blockquote><ui>22. Em <b>SaveCard</b>, selecione a opção <b>False</b>.</ui>  
+<blockquote><ui>22. Em **SaveCard**, selecione a opção **False**.</ui>  
 
-<blockquote><ui>23. Em <b>CancelRefundType</b>, selecione a opção <b>Automático Sempre que possível</b>.</ui> 
+<blockquote><ui>23. Em **CancelRefundType**, selecione a opção **Automático Sempre que possível**.</ui> 
 
-<blockquote><ui>24. Em <b>CieloLIOClientId</b>, preencha a chave da Lio fornecida pela Cielo.</ui>   
+<blockquote><ui>24. Em **CieloLIOClientId**, preencha a chave da Lio fornecida pela Cielo.</ui>   
 
-<blockquote><ui>25. Clique em <b>Salvar</b>.</ui>
+<blockquote><ui>25. Clique em **Salvar**.</ui>
 
 ## Configurar condição de pagamento
 

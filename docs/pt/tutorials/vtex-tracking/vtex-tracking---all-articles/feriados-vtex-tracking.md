@@ -15,9 +15,7 @@ locale: pt
 subcategoryId: 7yiFRk9TGfMNeyhT83UljP
 ---
 
-<div class="alert alert-info">
-O cadastro de Feriados é vinculado apenas à funcionalidade de agendamento de entrega, que está disponível somente para usuários VTEX Tracking com integração de sistemas. 
-</div>
+> ℹ️ O cadastro de Feriados é vinculado apenas à funcionalidade de agendamento de entrega, que está disponível somente para usuários VTEX Tracking com integração de sistemas.
 
 Os clientes recebem uma comunicação via  e-mail ou SMS com a previsão da entrega do seu pedido. Se o cliente já souber que não estará disponível para receber seu pacote no período informado, pode reagendar a entrega para outra data e período.  
 

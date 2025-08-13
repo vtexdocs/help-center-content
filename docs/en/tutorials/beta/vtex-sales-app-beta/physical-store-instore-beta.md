@@ -28,7 +28,7 @@ This page allows you to perform the following actions:
 * [Edit](#editing-a-store)
 * [Delete](#editing-a-store)
 
-![loja-fisica-EN](//images.ctfassets.net/alneenqid6w5/6C1IhZgOyHi06ZogDIfTcF/516078c3146ebc1f4a7905faed445098/image.png)
+![loja-fisica-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/vtex-sales-app-beta/physical-store-instore-beta_1.png)
 
 The page displays the following information: 
 
@@ -53,7 +53,7 @@ You can add a physical store by following the steps below:
 
 ### Physical store fields
 
-![loja-fisica2-en](//images.ctfassets.net/alneenqid6w5/60OAU1QatgSvdghvRebAOW/6a50e8a8cd3f452b4102af5871ede996/image.png)
+![loja-fisica2-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/vtex-sales-app-beta/physical-store-instore-beta_2.png)
 
 #### Identification
 
