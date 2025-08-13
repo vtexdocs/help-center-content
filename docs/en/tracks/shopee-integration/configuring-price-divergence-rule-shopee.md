@@ -14,4 +14,4 @@ trackId: 4CaZCzU9ZO1CByH0haZ9hA
 trackSlugEN: shopee-integration
 ---
 
-<div class="alert alert-warning" role="alert">This is a regional exclusive content not applicable to English speaking countries.</div>
+> ⚠️ This is a regional exclusive content not applicable to English speaking countries.

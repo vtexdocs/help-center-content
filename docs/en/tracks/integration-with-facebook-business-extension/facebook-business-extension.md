@@ -30,9 +30,7 @@ The _Facebook Business Extension and Conversions API_ app is fully compatible wi
 
 Learn more about the required configuration for each in our [Facebook Business Extension](https://developers.vtex.com/docs/guides/vtex-facebook-fbe#compatibility) guide on the Developer Portal.
 
-<div class="alert alert-warning">
-VTEX has a <a href= "https://help.vtex.com/en/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc">Facebook integration guide</a>. However, integration with the <i>Facebook Business Extension and Conversions API</i> app must be your default choice, as FBE is Facebook's most complete solution. Regardless of whether you have the other integration configured, you must proceed normally with the configuration of this integration.
-</div>
+> ⚠️ VTEX has a <a href= "https://help.vtex.com/en/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc">Facebook integration guide</a>. However, integration with the *Facebook Business Extension and Conversions API* app must be your default choice, as FBE is Facebook's most complete solution. Regardless of whether you have the other integration configured, you must proceed normally with the configuration of this integration.
 
 ## Facebook Pixel
 
@@ -53,6 +51,4 @@ The Conversions API is designed to create a direct connection between your marke
 - Improved measurement of marketing data.
 - Increased data control.
 
-<div class = "alert alert-info">
-Learn more in the Facebook documentation <a href= "https://www.facebook.com/business/help/2041148702652965?locale=en_US">About Conversions API</a>.
-</div>
+> ℹ️ Learn more in the Facebook documentation <a href= "https://www.facebook.com/business/help/2041148702652965?locale=en_US">About Conversions API</a>.

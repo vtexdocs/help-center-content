@@ -14,6 +14,4 @@ trackId: eipXIoOCKRgTDkg1Z1C4a
 trackSlugEN: posthaus-integration
 ---
 
-<div class="alert alert-warning">
-This is a regional exclusive content not applicable to english speaking countries.
-</div>
+> ⚠️ This is a regional exclusive content not applicable to english speaking countries.

@@ -18,9 +18,7 @@ Após fazer as conﬁgurações de conta na Livelo na VTEX e integrar o conector
 
 Esta funcionalidade fará a correspondência entre as categorias, variações e atributos da sua loja e os padrões adotados pela Livelo, agilizando o processo de catalogação dos seus produtos no Marketplace, permitindo que estes ﬁquem disponíveis para venda em menos tempo.  
 
-<div class="alert alert-info">
-  Os campos de <b>Mapeamento de Atributos</b> com asterisco <b>(*)</b> são obrigatórios.  
-</div>  
+> ℹ️ Os campos de **Mapeamento de Atributos** com asterisco **(*)** são obrigatórios.  
 
 Para realizar o mapeamento de categorias, siga as instruções abaixo.  
 
@@ -29,8 +27,6 @@ Para realizar o mapeamento de categorias, siga as instruções abaixo.
 3. Na barra lateral, clique em **Categoria do marketplace.**  
 4. Clique no ícone  <i class="fas fa-angle-down"></i>  e, em seguida, selecione a categoria correspondente no marketplace.  
 5. Clique em **Mapeamento de Atributos** e faça as correspondências dos campos que aparecerão na tela.  
-<div class="alert alert-warning">
-O campo <b>Marca</b> deve ser enviado sem preenchimento, o mesmo é preenchido automaticamente pela integração.
-</div>  
+> ⚠️ O campo **Marca** deve ser enviado sem preenchimento, o mesmo é preenchido automaticamente pela integração.  
 6. Clique no botão `Salvar Alterações`. 
 

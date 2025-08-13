@@ -25,5 +25,4 @@ To use the filter, follow these steps:
 
 For more information about filters, see the article [Filtering orders on All Orders](https://help.vtex.com/en/tutorial/filtrar-todos-pedidos--tutorials_192).
 
-<div class = "alert alert-info">
-When applying multiple filters to different searches, the total number of orders viewed in the filtering window may differ from the total displayed on the <b>All Orders</b> page due to a platform limitation. However, that does not impact the validity of the results displayed after filtering.</div>
+> ℹ️ When applying multiple filters to different searches, the total number of orders viewed in the filtering window may differ from the total displayed on the **All Orders** page due to a platform limitation. However, that does not impact the validity of the results displayed after filtering.

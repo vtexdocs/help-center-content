@@ -14,6 +14,4 @@ trackId: 43B4Nr7uZva5UdwWEt3PEy
 trackSlugEN: instore-pagos
 ---
 
-<div class="alert alert-warning">
-<p>Este contenido es exclusivamente regional; por lo tanto, no se aplica a los países de habla española.</p>
-</div>
+> ⚠️ Este contenido es exclusivamente regional; por lo tanto, no se aplica a los países de habla española.

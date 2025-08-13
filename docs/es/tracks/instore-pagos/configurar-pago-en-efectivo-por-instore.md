@@ -34,12 +34,12 @@ Ahora vamos a crear la condición de pago.
 1. Aún en la página de **Configuración **del módulo de **Pagos**, haz clic en la pestaña **Planes de Pago**.
 2. Haz clic en el botón verde con el ícono `+` para añadir una nueva condición de pago, como se muestra a continuación.
 
-![es-add-payment-condition](//images.ctfassets.net/alneenqid6w5/27933kBohPNieKSiiulGZA/7aa38306086b2bb26b9b789b63baeeb0/es-add-payment-condition.png)
+![es-add-payment-condition](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/instore-pagos/configurar-pago-en-efectivo-por-instore_1.png)
 
 3. En la sección __Pagos Personalizados__, haz clic en la opción __Efectivo__ que ha creado.
 4. Introduce un nombre para esta condición de pago, cambia el status a __Activo__, y en el campo __Procesar con la afiliación__, selecciona el pago personalizado que creaste en el paso anterior.
 5. Haga clic en `Guardar`.
 
 <div class="alert-info">
-<p>Además de los ajustes anteriores, debes seguir la guía <strong><a href="https://help.vtex.com/es/tracks/instore-pagamentos--43B4Nr7uZva5UdwWEt3PEy/jHQQcyX3WKeUFidwSjmY1">Definir los métodos de pago mostrados en VTEX Sales App</a></strong> para que las opciones de pago se muestren correctamente en la app.</p>
+Además de los ajustes anteriores, debes seguir la guía **[Definir los métodos de pago mostrados en VTEX Sales App](https://help.vtex.com/es/tracks/instore-pagamentos--43B4Nr7uZva5UdwWEt3PEy/jHQQcyX3WKeUFidwSjmY1)** para que las opciones de pago se muestren correctamente en la app.
 </div>

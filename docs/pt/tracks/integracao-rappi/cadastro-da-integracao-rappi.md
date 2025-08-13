@@ -20,9 +20,7 @@ Terminadas as etapas de conﬁguração da sua conta na Rappi e da sua conta na 
 2. Digite **Rappi** na barra de busca da página, clique no card da integração.  
 3. Clique no botão **`Conectar`**.    
 
-<div class="alert alert-info">
-Todos os campos da tela de configuração da Rappi são obrigatórios.
-</div>  
+> ℹ️ Todos os campos da tela de configuração da Rappi são obrigatórios.  
 
 | **Campo** | **Descrição** | **Exemplo** |
 |---|---|---|

@@ -47,7 +47,7 @@ Preencha os campos que aparecerão na tela. Veja na tabela a seguir quais são o
 <tbody>
   <tr>
     <td class="tg-n6bu">Integração Logística do Vendedor do Shopee<br></td>
-    <td class="tg-2fdn">Caso você queira utilizar o sistema de logística próprio, é necessário <a href="https://help.vtex.com/tracks/--4CaZCzU9ZO1CByH0haZ9hA/70xqC5uNOggv51Lb3su45w?__bindingAddress=vtexhelp.myvtex.com/#cadastrando-logistica-do-vendedor-na-shopee">autenticar essa integração</a> com a Shopee por meio de login.</td>
+    <td class="tg-2fdn">Caso você queira utilizar o sistema de logística próprio, é necessário [autenticar essa integração](https://help.vtex.com/tracks/--4CaZCzU9ZO1CByH0haZ9hA/70xqC5uNOggv51Lb3su45w?__bindingAddress=vtexhelp.myvtex.com/#cadastrando-logistica-do-vendedor-na-shopee) com a Shopee por meio de login.</td>
   </tr>
   <tr>
     <td class="tg-n6bu">ID de afiliado</td>

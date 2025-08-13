@@ -16,15 +16,11 @@ trackSlugEN: instore-primeros-pasos-y-configuracion
 
 VTEX Sales App es uno de los principales productos de VTEX para las operaciones de [comercio unificado](https://help.vtex.com/es/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv). Esta aplicación te permite ofrecer una experiencia omnichannel real en tu tienda, integrando los canales online y físicos y poniendo a tus clientes en el centro de tu negocio.
 
-<div class="alert alert-info">
-Antes de comenzar, verifica que tu tienda cumpla con todos los prerrequisitos para utilizar VTEX Sales App <a href="https://help.vtex.com/es/tracks/instore-primeiros-passos--6N0QlieWqboSVU2ehgAVAb/1wtAanSRA3g2316dw7bw8u">requisitos para utilizar VTEX Sales App</a>.
-</div>
+> ℹ️ Antes de comenzar, verifica que tu tienda cumpla con todos los prerrequisitos para utilizar VTEX Sales App [requisitos para utilizar VTEX Sales App](https://help.vtex.com/es/tracks/instore-primeiros-passos--6N0QlieWqboSVU2ehgAVAb/1wtAanSRA3g2316dw7bw8u).
 
 Para utilizar VTEX Sales App, debes seguir los pasos descritos a continuación en tu cuenta principal.
 
-<div class="alert alert-warning">
-<p> No es necesario instalar o configurar VTEX Sales App en las cuentas franquicia que representan tiendas físicas. Solo debes realizar el procedimiento descrito en este artículo en la cuenta principal de la marca.</p>
-</div>
+> ⚠️  No es necesario instalar o configurar VTEX Sales App en las cuentas franquicia que representan tiendas físicas. Solo debes realizar el procedimiento descrito en este artículo en la cuenta principal de la marca.
 
 ## Instalar VTEX Sales App
 
@@ -62,9 +58,7 @@ Después puedes [agregar otras tiendas](https://help.vtex.com/es/tracks/instore-
 
 En esta sección, debes definir un email y un nombre que se utilizarán como credenciales de inicio de sesión del vendedor. Si lo deseas, puedes incluir un código de identificación. Luego, haz clic en `Continuar`.
 
-<div class="alert alert-warning">
-El email registrado en esta página no puede ser un email que ya esté en uso en el Admin de la plataforma VTEX. Utiliza emails de vendedores que no tengan acceso al Admin.
-</div>
+> ⚠️ El email registrado en esta página no puede ser un email que ya esté en uso en el Admin de la plataforma VTEX. Utiliza emails de vendedores que no tengan acceso al Admin.
 
 En esta etapa, debes registrar solo a uno de tus vendedores. Después de realizar la configuración básica, puedes [añadir otros vendedores](https://help.vtex.com/es/tracks/instore-setting-up--zav76TFEZlAjnyBVL5tRc/5PSjRstg7UU4lOm0s8aqKN).
 
@@ -96,9 +90,7 @@ Para configurar el binding y garantizar que el catálogo de la tienda se muestre
 5. En la sección **Available sales channels**, marca la política comercial que deseas vincular al binding.
 6. Haz clic en `Save Binding` para guardar.
 
-<div class="alert alert-warning">
-Asegúrate de que la política comercial esté configurada correctamente en tu Admin VTEX antes de vincularla al binding. Esta configuración es esencial para garantizar que el catálogo de la tienda se muestre correctamente en VTEX Sales App.
-</div>
+> ⚠️ Asegúrate de que la política comercial esté configurada correctamente en tu Admin VTEX antes de vincularla al binding. Esta configuración es esencial para garantizar que el catálogo de la tienda se muestre correctamente en VTEX Sales App.
 
 ## Configurar logística
 

@@ -20,9 +20,7 @@ These conditions are based on the data that Master Data saves on a store’s cus
 
 The deadline and installment rules will thereby be applied to the consumer(s) that fit the condition(s). 
 
-<div class="alert alert-danger">
-<strong>Warning</strong>: you can only create five client clusters per payment condition.
-</div>
+> ❗ **Warning**: you can only create five client clusters per payment condition.
 
 To configure these clusters, choose a property and then select the parameters to create a cluster.
 

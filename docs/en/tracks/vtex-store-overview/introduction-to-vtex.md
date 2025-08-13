@@ -18,19 +18,15 @@ trackSlugEN: vtex-store-overview
 
 The following image shows VTEX's solutions and possibilities, which will be covered throughout this article series:
 
-![vtex_composable_complete_EN](//images.ctfassets.net/alneenqid6w5/7wKnayzJJYUKq2PLrGrfEc/d4622b765ea964b60da83fd11dffe865/vtex_composable_complete_EN.png)
+![vtex_composable_complete_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-store-overview/introduction-to-vtex_1.png)
 
-<div class="alert alert-info">
-Besides the resources available on the Help Center and <a href="https://developers.vtex.com/">Developer Portal</a>, as well as the <a href="https://community.vtex.com/">VTEX Community</a>, our <a href="https://vtex.com/us-en/">website</a> provides additional information about the platform through <a href="https://vtex.com/br-pt/resources-category/product-demo-videos-br/">demo videos</a> and <a href="https://vtex.com/br-pt/resources-category/ebooks-br/">ebooks</a> created by our <a href="https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#implementation-partners">partners</a>. There is also a series of <a href="https://sites.google.com/vtex.com.br/onboardingvtex/trilha">onboarding videos</a> (available only in Portuguese).
-</div>
+> ℹ️ Besides the resources available on the Help Center and [Developer Portal](https://developers.vtex.com/), as well as the [VTEX Community](https://community.vtex.com/), our [website](https://vtex.com/us-en/) provides additional information about the platform through [demo videos](https://vtex.com/br-pt/resources-category/product-demo-videos-br/) and [ebooks](https://vtex.com/br-pt/resources-category/ebooks-br/) created by our [partners](https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#implementation-partners). There is also a series of [onboarding videos](https://sites.google.com/vtex.com.br/onboardingvtex/trilha) (available only in Portuguese).
 
 ## Track overview
 
 This track presents the journey of a VTEX store from its initial settings to the go-live. But before configuring the platform [modules](https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7), planning [backend integrations](https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu), and choosing a [frontend](https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ) technology for building the storefront, there's a preliminary step: determining the [account type and architecture](https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl) that best align with your business needs.
 
-<div class="alert alert-warning">
-Each ecommerce operation has its own particularities and this content is not intended to encompass all possible scenarios. Our goal is to provide a general model and present the features and possibilities of the VTEX platform.
-</div>
+> ⚠️ Each ecommerce operation has its own particularities and this content is not intended to encompass all possible scenarios. Our goal is to provide a general model and present the features and possibilities of the VTEX platform.
 
 The content is organized sequentially for educational purposes; however, this does not imply that the steps need to be executed in order or that the previous step is a block for the next. Some steps can be completed in parallel, at least partially, such as backend integrations, settings for some modules, and frontend implementation.
 

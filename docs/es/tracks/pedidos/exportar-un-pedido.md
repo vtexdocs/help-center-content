@@ -18,9 +18,7 @@ El proceso de exportación de pedidos se puede realizar a través de la pantalla
 
 La exportación de pedidos genera un informe en formato .csv que contiene una serie de detalles sobre los pedidos de su tienda. Para saber qué información se muestra en el informe exportado, consulte el [tutorial sobre los campos de la plantilla de pedidos](https://help.vtex.com/es/tutorial/planilla-de-pedidos--31m1ewsmsEe0WS4So2aGMY).
 
-<div class="alert alert-info">
-<p>Cuando el número de pedidos solicitados para la exportación es muy elevado, el proceso puede ser lento. Por lo tanto, hay una limitación en el número de pedidos seleccionados. Por el momento, es posible exportar <b>hasta 50 000 pedidos a la vez</b>.</p>
-</div>
+> ℹ️ Cuando el número de pedidos solicitados para la exportación es muy elevado, el proceso puede ser lento. Por lo tanto, hay una limitación en el número de pedidos seleccionados. Por el momento, es posible exportar **hasta 50 000 pedidos a la vez**.
 
 Siga las instrucciones a continuación para generar el informe:
 

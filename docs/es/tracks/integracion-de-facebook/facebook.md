@@ -14,13 +14,11 @@ trackId: 7h8KvIC4DbRRc8VlyJ8PFc
 trackSlugEN: integracion-de-facebook
 ---
 
-<div class = "alert alert-info">
-Hay una integración con la aplicación <a href= "https://help.vtex.com/es/tracks/integracao-com-o-facebook-business-extension--2hS3ANSZ7vlHCcba4h7k8D">Facebook Business Extension y Conversions API</a> que debe ser tu selección predeterminada con Facebook. Esto es válido inclusive para los que ya realizaron la <a href= "https://help.vtex.com/es/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc">Integración de Facebook</a>, ya que la integración con la aplicación garantiza las funcionalidades anteriores y otras, como la API de conversiones y píxel de Facebook.
-</div>
+> ℹ️ Hay una integración con la aplicación <a href= "https://help.vtex.com/es/tracks/integracao-com-o-facebook-business-extension--2hS3ANSZ7vlHCcba4h7k8D">Facebook Business Extension y Conversions API</a> que debe ser tu selección predeterminada con Facebook. Esto es válido inclusive para los que ya realizaron la <a href= "https://help.vtex.com/es/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc">Integración de Facebook</a>, ya que la integración con la aplicación garantiza las funcionalidades anteriores y otras, como la API de conversiones y píxel de Facebook.
 
 [Facebook](https://about.fb.com/ltam/) es la red social con el mayor número de usuarios en el mundo. Creada en 2004, es la plataforma a través de la cual más de tres mil millones de personas se conectan y comparten información todos los días.
 
-![Logo Facebook](//images.ctfassets.net/alneenqid6w5/O8m2gKVxHDZwdd3VAmixX/3c560deb0619a7e8d2c96057047eab1f/facebook_logo_4.png)
+![Logo Facebook](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/integracion-de-facebook/facebook_1.png)
 
 Existen diferentes estrategias para promocionar su tienda en Facebook. El Administrador Comercial, también conocido como Business Manager, es una herramienta gratuita creada para facilitar la gestión de sus acciones en la red social. En un solo lugar, puede gestionar las publicaciones orgánicas, los anuncios pagados, las bibliotecas de contenidos y mucho más.
 

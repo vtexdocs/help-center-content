@@ -32,9 +32,7 @@ Las facturas parciales generan las siguientes acciones en el módulo **Pedidos**
 * Como en la factura parcial solo se liquida el valor correspondiente a la factura, se pueden realizar cambios en los importes del pedido. Con la factura parcial, la transacción queda pendiente.
 * No es posible [cancelar](https://help.vtex.com/es/tutorial/como-cancelar-pedido--tutorials_186) pedidos parcialmente facturados. Si el cliente desea sustituir o remover ítems del pedido, es posible [modificar el pedido](https://help.vtex.com/es/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190).
 
-<div class = "alert alert-info">
-La funcionalidad de facturas parciales está disponible para toda la base de clientes VTEX, pero la liquidación parcial en el gateway se encuentra en la versión Beta. Además, para que las facturas parciales disparen liquidaciones parciales en la transacció, es necesario utilizar un conector que utilice el <a href="https://help.vtex.com/es/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m">Payment Provider Protocol</a>. Los conectores legados no admiten la funcionalidad.
-</div>
+> ℹ️ La funcionalidad de facturas parciales está disponible para toda la base de clientes VTEX, pero la liquidación parcial en el gateway se encuentra en la versión Beta. Además, para que las facturas parciales disparen liquidaciones parciales en la transacció, es necesario utilizar un conector que utilice el [Payment Provider Protocol](https://help.vtex.com/es/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m). Los conectores legados no admiten la funcionalidad.
 
 ## Envío de la factura parcial via Admin
 
@@ -54,9 +52,7 @@ Para enviar una factura parcial, sigue los pasos a continuación:
 
 Luego de realizar todos los cambios en el pedido, puedes seguir todos los eventos de la transacción haciendo clic en [Ver detalles de la transacción](https://help.vtex.com/es/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/3Nt40DMEWkvhlpaL5PlBy).
 
-<div class = "alert alert-info">
-También puedes realizar las mismas acciones a través de nuestra API de Pedidos. Para hacerlo, revisa los <i>endpoints</i>: <a href="https://developers.vtex.com/vtex-rest-api/reference/registerchange">Register Change on Order</a>, <a href="https://developers.vtex.com/vtex-rest-api/reference/invoicenotification">Invoice notification</a>, <a href="https://developers.vtex.com/vtex-rest-api/reference/getpaymenttransaction">Retrieve Payment transaction</a>, y  <a href="https://developers.vtex.com/vtex-rest-api/reference/updatepartialinvoicesendtrackingnumber">Update order's partial invoice (send tracking number)</a>.
-    </div>  
+> ℹ️ También puedes realizar las mismas acciones a través de nuestra API de Pedidos. Para hacerlo, revisa los *endpoints*: [Register Change on Order](https://developers.vtex.com/vtex-rest-api/reference/registerchange), [Invoice notification](https://developers.vtex.com/vtex-rest-api/reference/invoicenotification), [Retrieve Payment transaction](https://developers.vtex.com/vtex-rest-api/reference/getpaymenttransaction), y  [Update order's partial invoice (send tracking number)](https://developers.vtex.com/vtex-rest-api/reference/updatepartialinvoicesendtrackingnumber).  
 
 ## Más información
 

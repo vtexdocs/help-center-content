@@ -16,9 +16,7 @@ trackSlugEN: integracao-posthaus
 
 Após fazer as conﬁgurações de conta na Posthaus na VTEX e integrar o conector, é necessário categorizar e enviar as variações e [especiﬁcações de produto](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP) para o marketplace. O envio dessas informações é feito por meio dos menus **Mapeamento de categorias** e **Mapeamento de atributos**.  
 
-<div class="alert alert-danger">
-É obrigatória a realização do <b>Mapeamento de categorias</b> e do <b>Mapeamento de atributos.</b> A não realização de um dos mapeamentos, implica que o produto pode não ser integrado ao marketplace.
-</div>
+> ❗ É obrigatória a realização do **Mapeamento de categorias** e do **Mapeamento de atributos.** A não realização de um dos mapeamentos, implica que o produto pode não ser integrado ao marketplace.
 
 ## Mapeamento de categorias
 

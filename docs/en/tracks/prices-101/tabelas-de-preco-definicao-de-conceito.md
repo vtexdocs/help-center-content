@@ -26,9 +26,7 @@ Price tables and [trade policies](https://help.vtex.com/en/tutorial/como-funcion
 
 When not linked to trade policies, price tables can be applied in contexts such as [promotions](https://help.vtex.com/en/tutorial/lista-de-promocoes-beta--4yB7nNdliiFxBTXE19GCIi) and [customer clusters](https://help.vtex.com/en/tutorial/criando-promocao-para-um-cluster-de-clientes--tutorials_342). However, if a table is created to support a trade policy, it must be exclusively associated with that policy. 
 
-<div class = "alert alert-info">
-A table linked to a trade policy defines the SKU prices for that specific sales context and cannot be used in other contexts.
-</div>
+> ℹ️ A table linked to a trade policy defines the SKU prices for that specific sales context and cannot be used in other contexts.
 
 ## Practical example
 

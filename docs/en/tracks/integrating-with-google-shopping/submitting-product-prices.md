@@ -39,10 +39,6 @@ To configure a discount linked to a payment method, see the following documentat
 
 After following these instructions, you should activate the connector by [configuring the connector](https://help.vtex.com/en/tracks/configurar-integracao-com-o-google-shopping--25Sl7iOqq58PGfVfTAo8Xw/wWyl0Njxgs5KfXvxYZJrl).
 
-<div class="alert alert-warning">
-  When multiple sellers are linked to a product in your store, the rule for Google Shopping is to offer the best discount available.
-  </div>
+> ⚠️ When multiple sellers are linked to a product in your store, the rule for Google Shopping is to offer the best discount available.
 
- <div class="alert alert-danger">
-  Each promotion created can belinked to only one payment method for the discount to be sent to Google Shopping.
-  </div> 
+ > ❗ Each promotion created can belinked to only one payment method for the discount to be sent to Google Shopping. 

@@ -37,13 +37,11 @@ Essa opção possibilita compartilhar um carrinho preenchido com um ou mais clie
 
 Veja o passo a passo ilustrado a seguir.
 
-![socialselling-sugestaocarrinho-pt](//images.ctfassets.net/alneenqid6w5/4UJM2FglGqcJGdFJqZ9AQg/e0ce46b332549816ac9ff81a99d39879/socialselling-sugestaocarrinho-pt.gif)
+![socialselling-sugestaocarrinho-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/instore-usando-o-app/compartilhar-carrinho-utilizando-o-instore-social-selling_1.gif)
 
 O vendedor pode enviar o mesmo link para vários clientes, quantas vezes desejar. Cada vez que uma pessoa acessar esse link, um novo carrinho será gerado, exatamente igual ao criado no inStore. Cada carrinho acessado também fica associado à conta do vendedor e, se houver, ao código do vendedor.
 
-<div class="alert alert-info">
-<p>Se o código do vendedor estiver habilitado, será obrigatório preenchê-lo antes de compartilhar o carrinho. Para mais informações sobre o código do vendedor, acesse o guia <a href="https://help.vtex.com/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/Rby973h1l9tEM4C1YrzwZ">Customizar o inStore</a> e o guia para desenvolvedores <a href="https://developers.vtex.com/vtex-rest-api/docs/sales-rep-code">Enable the Sales Rep Code</a>.</p>
-</div>
+> ℹ️ Se o código do vendedor estiver habilitado, será obrigatório preenchê-lo antes de compartilhar o carrinho. Para mais informações sobre o código do vendedor, acesse o guia [Customizar o inStore](https://help.vtex.com/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/Rby973h1l9tEM4C1YrzwZ) e o guia para desenvolvedores [Enable the Sales Rep Code](https://developers.vtex.com/vtex-rest-api/docs/sales-rep-code).
 
 ## Link para pagamento
 
@@ -63,4 +61,4 @@ Nesse caso, o vendedor precisa colocar itens no carrinho, preencher as informaç
 
 Veja o passo a passo ilustrado abaixo.
 
-![socialselling-paymentlink-pt](//images.ctfassets.net/alneenqid6w5/hCgVTtE5YrsUFA2WHKrny/c00c97d9a8eec83b259d30793879d019/socialselling-paymentlink-pt.gif)
+![socialselling-paymentlink-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/instore-usando-o-app/compartilhar-carrinho-utilizando-o-instore-social-selling_2.gif)

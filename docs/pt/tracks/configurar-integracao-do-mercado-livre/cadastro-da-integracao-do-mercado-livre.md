@@ -20,9 +20,7 @@ trackSlugEN: configurar-integracao-do-mercado-livre
 4.	Busque pelas caixas do __Mercado Livre Classic__ ou __Mercado Livre Premium__ e clique em `Integrar`.
 5.	Preencha os campos listados abaixo (o asterisco indica preenchimento obrigatório). Em seguida clique no botão `Salvar configuração`.
 
-<div class="alert alert-info">
-Cada conta VTEX deve estar vinculada a apenas uma conta no Mercado Livre, mesmo se forem utilizados ambos conectores (Classic e Premium). Atualmente não é possível autenticar com duas contas simultaneamente.
-</div>
+> ℹ️ Cada conta VTEX deve estar vinculada a apenas uma conta no Mercado Livre, mesmo se forem utilizados ambos conectores (Classic e Premium). Atualmente não é possível autenticar com duas contas simultaneamente.
 
 - **Integração (se optar por desativar a integração, toda a configuração, incluindo afiliado, serão excluídos)* :** selecione *Ativada* para que a integração comece a operar.
 - **ID do afiliado*:** código identificador para criação de um [afiliado](https://help.vtex.com/pt/tutorial/o-que-e-afiliado) que ainda não esteja cadastrado no seu sistema. O código deve ser composto de três consoantes, sejam elas repetidas ou não, vogais não são aceitas. Sugestões: `MLC` (Classic) ou `MLP` (Premium). A configuração do conector cria automaticamente o afiliado.

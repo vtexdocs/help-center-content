@@ -37,13 +37,11 @@ Esta opción permite compartir un carrito lleno de ítems con uno o más cliente
 
 Vea el paso a paso que se muestra a continuación.
 
-![socialselling-sugestaocarrinho-es](//images.ctfassets.net/alneenqid6w5/4UJM2FglGqcJGdFJqZ9AQg/dccf53fd6fdac19cd750717c4dd4a0be/socialselling-sugestaocarrinho-es.gif)
+![socialselling-sugestaocarrinho-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/instore-usando-el-app/compartir-el-carrito-utilizando-instore-social-selling_1.gif)
 
 El vendedor puede enviar el mismo enlace a varios clientes, tantas veces como lo desee. Cada vez que una persona acceda a este enlace, se generará un nuevo carrito de compra, exactamente igual al creado en VTEX Sales App. Cada carrito al que se accede también está asociado a la cuenta del vendedor y, si existe, al código del vendedor.
 
-<div class="alert alert-info">
-<p>Si el código de vendedor está activado, se le pide que lo rellene antes de compartir el carrito. Para obtener más información sobre el código de vendedor, visite la guía <a href="https://help.vtex.com/es/tracks/instore-primeros-pasos-y-configuracion--zav76TFEZlAjnyBVL5tRc/Rby973h1l9tEM4C1YrzwZ">Personalización de VTEX Sales App</a> y la guía para desarrolladores <a href="https://developers.vtex.com/vtex-rest-api/docs/sales-rep-code">Enable the Sales Rep Code</a>.</p>
-</div>
+> ℹ️ Si el código de vendedor está activado, se le pide que lo rellene antes de compartir el carrito. Para obtener más información sobre el código de vendedor, visite la guía [Personalización de VTEX Sales App](https://help.vtex.com/es/tracks/instore-primeros-pasos-y-configuracion--zav76TFEZlAjnyBVL5tRc/Rby973h1l9tEM4C1YrzwZ) y la guía para desarrolladores [Enable the Sales Rep Code](https://developers.vtex.com/vtex-rest-api/docs/sales-rep-code).
 
 ## Link de pago
 
@@ -63,4 +61,4 @@ En este caso, el vendedor tiene que poner los ítems en el carrito, rellenar los
 
 Vea el paso a paso que se muestra a continuación.
 
-![socialselling-paymentlink-es](//images.ctfassets.net/alneenqid6w5/hCgVTtE5YrsUFA2WHKrny/3690f99dd3ac16dd3ae0f90c2bf85cc1/socialselling-paymentlink-es.gif)
+![socialselling-paymentlink-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/instore-usando-el-app/compartir-el-carrito-utilizando-instore-social-selling_2.gif)

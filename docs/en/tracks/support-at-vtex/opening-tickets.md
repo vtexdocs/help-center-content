@@ -26,10 +26,7 @@ You can open tickets with VTEX Support related to:
 - [Financial support](https://help.vtex.com/en/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/3g2mhmPDx5GszNgLDICzsl): Get help with agreement or billing issues regarding the store and VTEX.
 - [Commercial support](https://help.vtex.com/en/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ): Request additional [trade policies](https://help.vtex.com/en/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ#requesting-an-additional-trade-policy), [environments](https://help.vtex.com/en/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ#requesting-a-new-environment), franchise accounts, or changes to the [main user](https://help.vtex.com/en/tutorial/o-que-e-o-usuario-titular--3oPr7YuIkEYqUGmEqIMSEy).
 
-<div class = "alert alert-info">
-Learn more about how to open a ticket in the article  <a href="https://help.vtex.com/en/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM">Opening tickets with VTEX Support.
-</a>
-</div>
+> ℹ️ Learn more about how to open a ticket in the article  [Opening tickets with VTEX Support. ](https://help.vtex.com/en/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM)
 
 ## Accessing Copilot
 [Copilot](https://help.vtex.com/pt/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM#2-acessar-o-copilot) is a tool integrated into the platform that streamlines technical support. It allows you to solve questions and identify problems by providing automatic guidance.
@@ -44,7 +41,7 @@ To access Copilot and start interacting with support, follow the steps below:
    - I have an unexpected behavior
    - I need VTEX to setup something
 
-![Copilot-EN](//images.ctfassets.net/alneenqid6w5/13Btoe6i63BUHjlyVNRrpu/9e489e6bd46ce7c613452f1a490d4599/copilot-en.gif)
+![Copilot-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/support-at-vtex/opening-tickets_1.gif)
 
 Copilot will respond automatically and guide you through the process. If your question isn't solved during the interaction with Copilot, you can proceed to open a ticket manually.
 

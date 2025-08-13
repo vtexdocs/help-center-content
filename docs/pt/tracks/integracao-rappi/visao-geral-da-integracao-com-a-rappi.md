@@ -16,17 +16,13 @@ trackSlugEN: integracao-rappi
 
 A Rappi é uma plataforma que funciona como marketplace conectando compradores a produtos dos mais diversos segmentos. Acompanhando a experiência do cliente da compra à entrega.
 
-![Logo Rappi](//images.ctfassets.net/alneenqid6w5/INsIz4tJzR7MR8JsKPKjt/4264529e186ed1aa18d6e75352719dfe/logo-rappi.jpg)
+![Logo Rappi](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/integracao-rappi/visao-geral-da-integracao-com-a-rappi_1.jpg)
 
 A configuração com a Rappi tem o objetivo conectar sua loja VTEX com a plataforma, permitindo que você anuncie seus produtos, aumente suas vendas e alcance novos clientes a partir deste canal.
 
-<div class="alert alert-warning">
-A integração com a Rappi está disponível apenas para lojas VTEX do Brasil, que possuam loja física.
-</div>
+> ⚠️ A integração com a Rappi está disponível apenas para lojas VTEX do Brasil, que possuam loja física.
 
-<div class="alert alert-info">
-A funcionalidade <a href="https://help.vtex.com/pt/tutorial/multilevel-omnichannel-inventory--7M1xyCZWUyCB7PcjNtOyw4">Multilevel Omnichannel Inventory</a> (MOI) não está disponível na integração com a Rappi.
-</div>
+> ℹ️ A funcionalidade [Multilevel Omnichannel Inventory](https://help.vtex.com/pt/tutorial/multilevel-omnichannel-inventory--7M1xyCZWUyCB7PcjNtOyw4) (MOI) não está disponível na integração com a Rappi.
 
 Para realizar a configuração entre VTEX e Rappi, é necessário concluir algumas etapas:
 

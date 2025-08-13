@@ -16,9 +16,7 @@ trackSlugEN: vtex-live-shopping-getting-started
 
 The first step to live-stream an event is to turn it on. This action will not start the event transmission, but it will enable you to make all the necessary configurations. 
 
-<div class="alert alert-warning">
-  <p>Before your store's first live event, we strongly recommend you to conduct a <a href="https://help.vtex.com/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/1le8tz3fyBdb7kR4UdxTjZ#testing-the-tool">test event</a> to validate product setup, stream quality, and interactivity.</p>
-</div>
+> ⚠️ Before your store's first live event, we strongly recommend you to conduct a [test event](https://help.vtex.com/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/1le8tz3fyBdb7kR4UdxTjZ#testing-the-tool) to validate product setup, stream quality, and interactivity.
 
 To turn an event on, follow the steps below:
 
@@ -26,9 +24,7 @@ To turn an event on, follow the steps below:
 2. On the line of the event you wish to activate, click the arrow button in the **Action** column.
 3. On the **Event Information** page, at the top right, click the switch `Turn On` to activate the event.
 
-<div class="alert alert-danger">
-  <p>After clicking on <b>Turn on</b>, the process of activating the event takes about 3 to 5 minutes.</p>
-</div>
+> ❗ After clicking on **Turn on**, the process of activating the event takes about 3 to 5 minutes.
 
 After the **Turn on** switch is enabled, you can close the page if you wish, but remember that the event will be automatically completed after 1h30. The count is automatically reset when you start transmitting. 
 
@@ -49,8 +45,6 @@ Once the [event is turned on](https://help.vtex.com/en/tracks/vtex-live-shopping
 
 In this section you can monitor the [event status](https://help.vtex.com/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv#event-status), as shown in the image below: 
 
-![article_6_turning_on_event_EN](//images.ctfassets.net/alneenqid6w5/4KAySG2jgc0XilL7edzXl8/348a635360d7696d3077275e555147dc/article_6_turning_on_event_EN.png)
+![article_6_turning_on_event_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-live-shopping-getting-started/turning-on-event_1.png)
 
-<div class = "alert alert-info">
-  <p>After turning on the event, if you don't transmit it and lack interaction with it for more than 90 minutes, the event status will move to <code>Completed</code>, meaning it is finished and can no longer be broadcasted.</p>
-</div>
+> ℹ️ After turning on the event, if you don't transmit it and lack interaction with it for more than 90 minutes, the event status will move to `Completed`, meaning it is finished and can no longer be broadcasted.

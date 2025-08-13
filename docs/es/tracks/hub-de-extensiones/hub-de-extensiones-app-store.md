@@ -20,7 +20,7 @@ App Store es la página del Admin VTEX donde puedes buscar, visualizar y obtener
 
 Al entrar en la tienda estarás en la página de inicio,  con las siguientes opciones disponibles: 
 
-![Extensions Hub App Store página de inicio](//images.ctfassets.net/alneenqid6w5/3wzHr69aCqLuPG2cuT2e6y/03756392e94a93e19546acc1f9e1bc75/Extensions_Hub_App_Store_home_page_ES.png)
+![Extensions Hub App Store página de inicio](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/hub-de-extensiones/hub-de-extensiones-app-store_1.png)
 
 * **Buscar:** cuadro de texto donde puedes buscar aplicaciones en la tienda. Al escribir en el cuadro de texto y pulsar la tecla `Intro`, accederás a la [página de búsqueda](#buscar).
 * **Destacados:** aplicaciones y partners destacados. Los destacados aparecen en formato de tarjetas rectangulares, en las que se puede ver el título y el subtítulo. Al hacer clic en un elemento destacado, accederás a la página de una aplicación o a la de un partner.
@@ -28,13 +28,13 @@ Al entrar en la tienda estarás en la página de inicio,  con las siguientes opc
 
 ## Buscar
 
-![Extensions Hub App Store busca](//images.ctfassets.net/alneenqid6w5/1VuHQqhPZ9G88K3ZOQqny8/59564b2103a79a2e5b4ebd9dfbad5fa5/Extensions_Hub_App_Store_search_ES.png)
+![Extensions Hub App Store busca](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/hub-de-extensiones/hub-de-extensiones-app-store_2.png)
 
 El cuadro de búsqueda te permite buscar aplicaciones por su nombre. Al escribir lo que deseas encontrar y pulsar `Intro`, se te dirigirá a la página de resultados de la búsqueda. Los resultados serán las aplicaciones cuyos nombres coincidan con el texto introducido en la búsqueda. Las aplicaciones aparecen en formato de tarjetas cuadradas, donde puedes ver el nombre, el subtítulo y el costo de la misma. Al hacer clic en una tarjeta, accederás a la [página de la aplicación](#pagina-de-la-aplicacion).
 
 ## Página de la aplicación
 
-![Extensions Hub App Store app page](//images.ctfassets.net/alneenqid6w5/4VdhF4EhRvcktxnlqK0nt/a08b32f1a0af455d68c111c42cf4dd75/Extensions_Hub_App_Store_app_page_ES.png)
+![Extensions Hub App Store app page](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/hub-de-extensiones/hub-de-extensiones-app-store_3.png)
 
 Al hacer clic en una tarjeta en la página de inicio o en la búsqueda, se te dirigirá a la página de inicio de la aplicación. En esta página encontrarás toda la información sobre la aplicación, incluido el precio, y la opción de comprarla.
 
@@ -60,9 +60,7 @@ Si deseas comprar una aplicación para tu cuenta:
 3. Marca la opción **Acepto el medio de pago**, si estás de acuerdo con las condiciones.
 4. Haz clic en el botón **Obtener app**.
 
-<div class="alert alert-warning" role="alert">
-Antes de comprar una aplicación, recomendamos consultar los términos y condiciones del proveedor y los términos de VTEX a través de los enlaces disponibles debajo del botón <b>Obtener app</b>.
-</div>
+> ⚠️ Antes de comprar una aplicación, recomendamos consultar los términos y condiciones del proveedor y los términos de VTEX a través de los enlaces disponibles debajo del botón **Obtener app**.
 
 El costo de una aplicación puede ser:
 

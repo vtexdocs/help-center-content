@@ -18,9 +18,7 @@ O módulo de **Pagamentos** é o sistema responsável na VTEX por gerenciar toda
 
 Antes de explorarmos as funcionalidades dentro de *Pagamentos* no Admin da VTEX, vamos esclarecer alguns conceitos importantes que estão envolvidos no fluxo de pagamento de um pedido. Esse processo é realizado por alguns atores dentro do sistema financeiro brasileiro, que compõem a arquitetura do módulo de Pagamentos.
 
-<div class="alert alert-info">
-É importante lembrar que cada loja possui particularidades, e funcionamento próprio, o que influencia a forma de construir o módulo de Pagamentos do seu negócio. Para configurar seu fluxo financeiro, é fundamental, portanto, ter em mente as reais necessidades e propósitos do lojista e do projeto desejado.
-</div>
+> ℹ️ É importante lembrar que cada loja possui particularidades, e funcionamento próprio, o que influencia a forma de construir o módulo de Pagamentos do seu negócio. Para configurar seu fluxo financeiro, é fundamental, portanto, ter em mente as reais necessidades e propósitos do lojista e do projeto desejado.
 
 ## Gateway 
 Um gateway (também chamado de gateway de pagamento) é um sistema que efetua a transmissão dos dados das compras realizadas na sua loja no momento do checkout.

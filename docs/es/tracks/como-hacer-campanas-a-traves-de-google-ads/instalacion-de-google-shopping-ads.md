@@ -14,9 +14,7 @@ trackId: 47kz5PRQPK0IEaqGqiIuA
 trackSlugEN: como-hacer-campanas-a-traves-de-google-ads
 ---
 
-<div class="alert alert-warning">
-Actualmente, Google Shopping Ads está disponible <strong>solamente para tiendas de Brasil.</strong>
-</div>
+> ⚠️ Actualmente, Google Shopping Ads está disponible **solamente para tiendas de Brasil.**
 
 El primer paso para utilizar la app es instalarla. Siga el paso a paso abajo:
 

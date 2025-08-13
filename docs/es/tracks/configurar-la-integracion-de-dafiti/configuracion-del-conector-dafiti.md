@@ -44,13 +44,11 @@ La configuración del conector se realiza en el Admin. Para completarla, siga la
 
 - **Enviar Kit*:** si selecciona _No_, los SKU [registrados como kits](https://help.vtex.com/es/tutorial/cadastrando-kit--tutorials_215) no se enviarán a Dafiti. Al activar el _Sí_, todos los ítems de su política comercial se enviarán al marketplace, sin filtrar los SKU registrados como kits. Se pueden realizar cambios en la configuración del conector en cualquier momento, y esto no afecta a los SKU que ya han sido enviados. Por ejemplo, si cambiara su configuración de _Sí_ a _No_, los SKU enviados previamente a Dafiti no se eliminarán ni tendrán ningún cambio.
 
-  <div class="alert alert-info">
-Si se activa la opción <i>No</i>, los intentos de enviar SKU registrados como kits a Dafiti generarán el siguiente mensaje de advertencia: <i>«El conector está configurado para no enviar los SKU del tipo Kit»</i>. Este mensaje puede verse en Admin, en el módulo <b>MARKETPLACE > Integraciones > Productos,</b> al hacer clic en el SKU.
-</div>
+  > ℹ️ Si se activa la opción *No*, los intentos de enviar SKU registrados como kits a Dafiti generarán el siguiente mensaje de advertencia: *«El conector está configurado para no enviar los SKU del tipo Kit»*. Este mensaje puede verse en Admin, en el módulo **MARKETPLACE > Integraciones > Productos,** al hacer clic en el SKU.
 
 - **Nombre de SKU*:** determina cuál será la regla para nombrar los SKU en el portal de Dafiti. Debe seleccionar una de las combinaciones disponibles de los siguientes atributos: _Marca_, _Nombre del Producto_ y _Nombre del SKU._
 
-![print nome exibicao produto es](//images.ctfassets.net/alneenqid6w5/3MiGbDbIXFGiawLcXjji5w/35e795635bba7aa025facd31d63d76d7/print_nome_exibicao_produto_es.png)
+![print nome exibicao produto es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/configurar-la-integracion-de-dafiti/configuracion-del-conector-dafiti_1.png)
 
 > Ejemplo: mi producto es una zapatilla deportiva negra de Nike. El _Nombre de SKU_ que seleccioné fue _Marca - Nombre del Producto - Nombre del SKU_. Así, el nombre que aparecerá en el portal de Dafiti será Nike zapatilla deportiva negra.
 

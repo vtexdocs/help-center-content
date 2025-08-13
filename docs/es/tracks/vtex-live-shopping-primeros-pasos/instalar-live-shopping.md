@@ -14,5 +14,5 @@ trackId: 3eCHNCIx8XhZOSmX0sQT3U
 trackSlugEN: vtex-live-shopping-primeros-pasos
 ---
 
-<div class="alert alert-warning" role="alert">Contenido en proceso de traducción.</div>
+> ⚠️ Contenido en proceso de traducción.
 

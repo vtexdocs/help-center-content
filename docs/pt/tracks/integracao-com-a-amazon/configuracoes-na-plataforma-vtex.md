@@ -51,14 +51,10 @@ Se for do seu interesse utilizar a mesma Estratégia de Envio definida para sua 
 
 Caso você queira conferir se as configurações foram realizadas corretamente, você pode fazer uma [simulação de envio](https://help.vtex.com/pt/tutorial/simulacao-de-frete--tutorials_144). O Simulador de envio é uma ferramenta que possibilita checar as condições de entrega do produto sem de fato abrir um pedido.
 
-<div class="alert alert-info">
-A Amazon seleciona o frete conforme a <a href="https://help.vtex.com/pt/tutorial/como-montar-a-planilha-de-frete--tutorials_127">planilha</a> exportada pelo lojista. Por isso, é importante que os dados da planilha <a href="https://help.vtex.com/pt/tutorial/importando-e-exportando-planilha-de-estoque--tutorials_2034">exportada</a> correspondam aos da planilha cadastrada na VTEX, para reduzir a chance de erros de divergência.
-</div>
+> ℹ️ A Amazon seleciona o frete conforme a [planilha](https://help.vtex.com/pt/tutorial/como-montar-a-planilha-de-frete--tutorials_127) exportada pelo lojista. Por isso, é importante que os dados da planilha [exportada](https://help.vtex.com/pt/tutorial/importando-e-exportando-planilha-de-estoque--tutorials_2034) correspondam aos da planilha cadastrada na VTEX, para reduzir a chance de erros de divergência.
 
 ### Tempo de custo
 
 Na Amazon existe o campo *"fulfillment latency"*, que é usado para configurar o tempo de preparo da entrega de determinado produto. Para utilizá-lo na configuração com a Amazon, é necessário preencher o campo **Tempo de Custo** no [cadastro da doca](https://help.vtex.com/pt/tutorial/como-cadastrar-doca) associada à [política comercial](#definicao-da-politica-comercial-na-amazon) usada para a Amazon. Caso esse campo não esteja preenchido, a Amazon usará o valor padrão deles (2 dias).
 
-<div class="alert alert-warning">
-O preenchimento desse campo é fundamental, porque caso sua loja esteja atrasando na entrega do pedido, sua conta pode ser bloqueada. 
-</div>
+> ⚠️ O preenchimento desse campo é fundamental, porque caso sua loja esteja atrasando na entrega do pedido, sua conta pode ser bloqueada.

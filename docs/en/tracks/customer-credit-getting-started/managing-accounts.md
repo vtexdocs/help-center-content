@@ -26,7 +26,7 @@ When clicking on the name of a specific account, the __Account Details__ screen 
 - [Account closure](#account-closure)
 <br>
 <br>
-![Account_EN](//images.ctfassets.net/alneenqid6w5/3Wu6HcL5NbC5XS5YdiF3Dx/a9f3a550884255677d837466ec63cf3c/Contas_EN.png)
+![Account_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/customer-credit-getting-started/managing-accounts_1.png)
 
 ## Holder
 
@@ -36,9 +36,7 @@ It presents information about the account status (active, inactive), identificat
 
 Displays the amount of credit available for the customer to use for purchases and the total amount to be paid (in invoices) for purchases already made using Customer Credit as a means of payment.
 
-<div class="alert alert-warning">
-When the customer makes a purchase using Customer Credit, but the order has not yet been billed (invoice issued), the <b>Reserved Credit</b> field is also displayed on this screen containing information on the order value.
-</div>
+> ⚠️ When the customer makes a purchase using Customer Credit, but the order has not yet been billed (invoice issued), the **Reserved Credit** field is also displayed on this screen containing information on the order value.
 
 ## Manage
 
@@ -74,6 +72,4 @@ From this moment on, the customer and their dependent will be able to share the 
 
 If you wish to close the customer's account, in the __Others__ section, click on `CLOSE ACCOUNT`.
 
-<div class="alert alert-warning">
-A closed Customer Credit account cannot be reopened again and invoice, statement and additional dependent data will be deleted. However, after completing the account closure, if you wish, you can <a href="https://help.vtex.com/en/tracks/customer-credit-como-comecar--1hCRg21lXYy2seOKgqQ2CC/7FHLd0cmxqqGeEUuc8uioU#creating-accounts-individually">open a new account</a> for the customer using the same email as the closed account.
-</div>
+> ⚠️ A closed Customer Credit account cannot be reopened again and invoice, statement and additional dependent data will be deleted. However, after completing the account closure, if you wish, you can [open a new account](https://help.vtex.com/en/tracks/customer-credit-como-comecar--1hCRg21lXYy2seOKgqQ2CC/7FHLd0cmxqqGeEUuc8uioU#creating-accounts-individually) for the customer using the same email as the closed account.

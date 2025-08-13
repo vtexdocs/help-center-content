@@ -41,9 +41,7 @@ En esta parte del formulario, debes rellenar la información que servirá para i
 * **ID del afiliado:** identificador del nuevo [afiliado](https://help.vtex.com/es/tutorial/que-es-afiliado--4bN3e1YarSEammk2yOeMc0) que deseas crear para la integración. El ID del afiliado debe contener solo 3 consonantes y no puede estar asociado a un afiliado existente. Sugerimos usar `TKT` para identificar fácilmente TikTok. Es importante que compruebes en **Gestión de pedidos > Configuración > Afiliados** que el ID no está en uso. El afiliado se creará automáticamente al finalizar la configuración. 
 * **Política comercial:** campo para seleccionar la [política comercial](https://help.vtex.com/es/tutorial/como-funciona-una-politica-comercial--6Xef8PZiFm40kg2STrMkMV) que se asociará a la integración del catálogo con TikTok. Actualmente, la integración solo acepta políticas comerciales con BRL como moneda. Consulta la sección [Envío de datos de productos a TikTok](#envio-de-datos-de-produtos-a-tiktok) para más información.
 
-<div class="alert alert-warning">
-  <p>No cambies la configuración del afiliado que se creó automáticamente durante la integración. Si, en el futuro, se introduce algún cambio manual en la configuración del afiliado en <strong>Gestión de pedidos > Configuración > Afiliados</strong>, la integración puede dejar de funcionar.</p>
-</div>
+> ⚠️ No cambies la configuración del afiliado que se creó automáticamente durante la integración. Si, en el futuro, se introduce algún cambio manual en la configuración del afiliado en **Gestión de pedidos > Configuración > Afiliados**, la integración puede dejar de funcionar.
 
 ### Datos de la empresa
 
@@ -74,13 +72,11 @@ Después de rellenar el formulario de configuración de la integración, debes c
 
 ## 3. Configurar TikTok for Business
 
-<div class="alert alert-warning">
-  <p>Te recomendamos que desactives las extensiones que bloquean los anuncios en tu navegador para evitar errores en los pasos a continuación.</p>
-</div>
+> ⚠️ Te recomendamos que desactives las extensiones que bloquean los anuncios en tu navegador para evitar errores en los pasos a continuación.
 
 En la página **Set up TikTok for Business** (Configurar TikTok for Business), que se muestra abajo, debes seguir las instrucciones de configuración que se describen a continuación.
 
-![set-up-tiktok-for-business](//images.ctfassets.net/alneenqid6w5/77d9v0437SxRBVXD0OUmW/290a1ece93c0fcb0fe91a1da61352513/image2.png)
+![set-up-tiktok-for-business](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/integracion-de-tiktok/configurar-la-integracion-de-tiktok-for-business-en-vtex-admin_1.png)
 
 1. Haz clic en la sección **TikTok for Business Account** y verifica que tu cuenta esté en la lista.
     * Si quieres conectar otra cuenta, haz clic en `Disconnect` y repite el paso de inicio de sesión que se describe en [Conectar con la cuenta de TikTok](#2-conectar-con-la-cuenta-de-tiktok).
@@ -103,9 +99,7 @@ Una vez completada esta configuración, serás redirigido a **Marketplace > TikT
 
 ### Envío de datos de productos a TikTok
 
-<div class="alert alert-warning">
-  <p>TikTok solo sincroniza productos que se ajustan a las políticas publicitarias de la plataforma. Consulta las <a href="https://ads.tiktok.com/help/article?aid=9550">Políticas publicitarias de TikTok</a> para obtener más información.</p>
-</div>
+> ⚠️ TikTok solo sincroniza productos que se ajustan a las políticas publicitarias de la plataforma. Consulta las [Políticas publicitarias de TikTok](https://ads.tiktok.com/help/article?aid=9550) para obtener más información.
 
 Una vez configurada la integración, el envío de productos a TikTok es un proceso automático. Los datos enviados son:
 

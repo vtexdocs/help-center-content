@@ -18,9 +18,7 @@ A B2W e as Lojas Americanas fizeram uma fusão, dando origem ao Americanas Marke
 
 Para dar início à integração, o primeiro passo é fazer o [cadastro da sua loja](https://americanasmarketplace.com.br/v3/registre-se/vtex?utm_source=vtex&utm_medium=vtex_homepage&utm_campaign=parceiro_vtex_cadastro) no portal da Americanas. Feito isso, realize seu cadastro na [SkyHub](https://ajuda.skyhub.com.br/hc/pt-br).
 
-<div class = "alert alert-info">
-A <a href="https://ajuda.skyhub.com.br/hc/pt-br">SkyHub</a> é a integradora que gerencia a comunicação entre VTEX e a B2W. Portanto, a integração é feita com a SkyHub, que é a responsável pelo envio dos seus produtos para o marketplace.
-</div>
+> ℹ️ A [SkyHub](https://ajuda.skyhub.com.br/hc/pt-br) é a integradora que gerencia a comunicação entre VTEX e a B2W. Portanto, a integração é feita com a SkyHub, que é a responsável pelo envio dos seus produtos para o marketplace.
 
 Uma vez recebida a confirmação do Americanas Marketplace, prossiga com as configurações no ambiente VTEX:
 

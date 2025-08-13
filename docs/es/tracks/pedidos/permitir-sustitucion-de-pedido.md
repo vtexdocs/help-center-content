@@ -18,9 +18,7 @@ La **Sustitución de pedidos** permite a los clientes de su tienda cambiar los d
 
 El objetivo es ayudarlos a corregir errores sin tener que realizar manualmente un nuevo pedido o contactar a su soporte, lo que facilita el funcionamiento de su tienda y reduce costos.
 
-<div class = "alert alert-warning">
-No es posible <a href="https://help.vtex.com/es/tutorial/como-cancelar-pedido--tutorials_186">cancelar</a> pedidos <a href="https://help.vtex.com/es/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe">parcialmente facturados</a>. Si el cliente desea sustituir o remover ítems del pedido, es posible <a href="https://help.vtex.com/es/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190">modificar el pedido</a>.
-</div>
+> ⚠️ No es posible [cancelar](https://help.vtex.com/es/tutorial/como-cancelar-pedido--tutorials_186) pedidos [parcialmente facturados](https://help.vtex.com/es/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe). Si el cliente desea sustituir o remover ítems del pedido, es posible [modificar el pedido](https://help.vtex.com/es/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190).
 
 ## Habilitación de la sustitución de pedidos
 
@@ -32,7 +30,5 @@ La funcionalidad está disponible para todas las tiendas. Para habilitarla, sigu
 
 Dentro de 15 minutos, después de la actualización automática de caché, la funcionalidad estará disponible.
 
-<div class = "alert alert-info">
-Para más información sobre la funcionalidad y asos que no permiten la sustitución, vea el artículo <a href="https://help.vtex.com/es/tutorial/substituicao-de-pedidos--2IK9mwQjBKseQmE8K8saO8">Cambio de pedido</a>.
-</div>
+> ℹ️ Para más información sobre la funcionalidad y asos que no permiten la sustitución, vea el artículo [Cambio de pedido](https://help.vtex.com/es/tutorial/substituicao-de-pedidos--2IK9mwQjBKseQmE8K8saO8).
 

@@ -21,9 +21,7 @@ La plataforma VTEX se compone de diferentes módulos, cada uno responsable de un
 - [Promociones](#promociones)
 - [Logística](#logistica)
 
-<div class="alert alert-info">
-El artículo <a href="https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/3MYcZaojb5HSUg6ufm6GxQ">Módulos de VTEX II</a> presenta los módulos <a href="https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/3MYcZaojb5HSUg6ufm6GxQ#pagos">Pagos</a>, <a href="https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/3MYcZaojb5HSUg6ufm6GxQ#pedidos">Pedidos</a>, y <a href="https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/3MYcZaojb5HSUg6ufm6GxQ#checkout">Checkout</a>.
-</div>
+> ℹ️ El artículo [Módulos de VTEX II](https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/3MYcZaojb5HSUg6ufm6GxQ) presenta los módulos [Pagos](https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/3MYcZaojb5HSUg6ufm6GxQ#pagos), [Pedidos](https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/3MYcZaojb5HSUg6ufm6GxQ#pedidos), y [Checkout](https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/3MYcZaojb5HSUg6ufm6GxQ#checkout).
 
 ## Catálogo
 
@@ -40,7 +38,7 @@ No se requieren ajustes preliminares antes de realizar configuraciones en Catál
 
 La arquitectura de Catálogo presenta algunos conceptos fundamentales: categoría, marca, producto, SKU (_Stock Keeping Unit_) y especificación. La siguiente imagen ilustra la relación entre estos conceptos:
 
-![arquitetura-catalogo-ES](//images.ctfassets.net/alneenqid6w5/4P3TCN2sjS3EuMdNO6Rrkb/93df901612fa89e7b315cee7b7d121ae/ES.png)
+![arquitetura-catalogo-ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/serie-de-la-tienda-vtex/modulos-de-vtex-i_1.png)
 
 El catálogo de la tienda debe crearse siguiendo el orden de los pasos que se indican a continuación:
 
@@ -63,9 +61,7 @@ La siguiente tabla muestra los principales ajustes de Catálogo para la tienda, 
 
 <br>
 
-<div class="alert alert-warning">
-Puedes obtener información detallada sobre la importación de productos a la plataforma VTEX desde un sistema ERP (Enterprise Resource Planning) o PIM (Product Information Manager) consultando el artículo <a href="https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu">Integraciones de backend</a>.
-</div>
+> ⚠️ Puedes obtener información detallada sobre la importación de productos a la plataforma VTEX desde un sistema ERP (Enterprise Resource Planning) o PIM (Product Information Manager) consultando el artículo [Integraciones de backend](https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu).
 
 #### Árbol de categorías
 
@@ -77,11 +73,9 @@ __Ejemplo__: Departamento `Femenino`, Categoría `Blusas y camisas` y Subcategor
 
 Antes de importar el catálogo de la tienda a VTEX, recomendamos empezar a trabajar en el árbol de categorías creando una tabla como la que se ilustra a continuación. Esto facilita la visualización de la estructura del árbol y la presentación de las especificaciones.
 
-![catalog_arquitecture_table_ES](//images.ctfassets.net/alneenqid6w5/6Vg5pVKydPdMipVEqj1Spq/60756721b1e21b27b981dee2f2a5e9ad/catalog_arquitecture_table_ES.png)
+![catalog_arquitecture_table_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/serie-de-la-tienda-vtex/modulos-de-vtex-i_2.png)
 
-<div class="alert alert-info">
-En el artículo <a href="https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu">Integraciones de backend</a> puedes consultar más información sobre cómo importar especificaciones para back office.
-</div>
+> ℹ️ En el artículo [Integraciones de backend](https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu) puedes consultar más información sobre cómo importar especificaciones para back office.
 
 #### Marcas
 
@@ -158,7 +152,7 @@ Los precios son la información del valor de venta de tus SKU. Estos precios se 
 
 La relación entre los precios, la tabla de precios y el contexto que se aplicará se muestra en la siguiente imagen:
 
-![Conceito de Precios-ES](//images.ctfassets.net/alneenqid6w5/5xPmlWSbROFajhSkaUt7ya/2a14232018aea8b88b70c21d5a9b6618/Conceito_de_Precios-ES.png)
+![Conceito de Precios-ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/serie-de-la-tienda-vtex/modulos-de-vtex-i_3.png)
 
 Puedes registrar tablas de precios para los SKU de la tienda de tres maneras:
 
@@ -174,9 +168,7 @@ Existe una diferencia entre las tablas de precios creadas para [políticas comer
 
 Las listas de precios no asociadas a políticas comerciales pueden utilizarse en contextos como __promociones__ y __clústeres de clientes__. Las tablas creadas para políticas comerciales solo pueden asociarse a la propia política comercial. Así, la tabla de precios asociada a una política comercial informa el precio de los SKU de esa política y no puede asociarse a otros contextos.
 
-<div class="alert alert-warning">
-Los conceptos de <b>tabla de precios</b> y <a href="LINK">política comercial</a> son diferentes. La política comercial es el contexto al que se asocia una tabla de precios.
-</div>
+> ⚠️ Los conceptos de **tabla de precios** y [política comercial](LINK) son diferentes. La política comercial es el contexto al que se asocia una tabla de precios.
 
 A la hora de configurar una política comercial, es imprescindible [especificar la moneda que se utilizará en la tienda](https://help.vtex.com/es/tutorial/criar-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE). La creación de diferentes políticas comerciales, cada una asociada a una moneda distinta, permite a la tienda mostrar a los clientes los precios en diferentes monedas. 
 
@@ -227,9 +219,7 @@ Consulta más información sobre las posibilidades de aplicar promociones en el 
 
 Puedes crear cupones de descuento en el [Admin VTEX](https://help.vtex.com/es/tutorial/criar-cupom-beta--7lMk3MmhNp2IEccyGApxU) o a través de [API](https://developers.vtex.com/docs/guides/creating-and-managing-coupons-with-promotions-api). Para utilizarlo, el cupón debe estar vinculado al menos a una promoción.
 
-<div class="alert alert-warning">
-Hay una cantidad limitada de cupones activos. Se recomienda encarecidamente la reutilización de los cupones, ya que un exceso de estos podría afectar el desempeño del módulo Promociones.
-</div>
+> ⚠️ Hay una cantidad limitada de cupones activos. Se recomienda encarecidamente la reutilización de los cupones, ya que un exceso de estos podría afectar el desempeño del módulo Promociones.
 
 ### Crear promociones de campaña
 
@@ -278,13 +268,11 @@ El conjunto de configuraciones esenciales de logística para una tienda VTEX se 
 
 La imagen siguiente muestra cómo se relacionan estos conceptos en la venta de un producto:
 
-![shipping_strategy_ES](//images.ctfassets.net/alneenqid6w5/1LdEuL3gjF12uwFj4ya6OL/ebc72f36e25bc9e6000d7d0b275bd1be/shipping_strategy_ES.png)
+![shipping_strategy_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/serie-de-la-tienda-vtex/modulos-de-vtex-i_4.png)
 
 La siguiente tabla muestra los principales ajustes de logística de la tienda VTEX:
 
-<div class="alert alert-INFO">
-Recomendamos en primer lugar configurar la política de envío, en segundo lugar el muelle y, finalmente, el almacén.
-</div>
+>  Recomendamos en primer lugar configurar la política de envío, en segundo lugar el muelle y, finalmente, el almacén.
 
 | **Tema** | **Configuración en el Admin VTEX** | **Configuración por API** |
 | :---: | :--- | :--- |
@@ -317,9 +305,7 @@ La ruta logística se inicia en el [almacén](https://help.vtex.com/es/tutorial/
 
 El [stock](https://help.vtex.com/es/tutorial/gerenciar-itens-em-estoque--tutorials_139) de la tienda corresponde a los ítems almacenados que están disponibles para la venta. El almacén es la identificación de la ubicación física de almacenamiento, mientras que el stock es el conjunto de SKU disponibles para la venta.
 
-<div class="alert alert-danger">
-En VTEX, la actualización del stock una vez vendidos los ítems debe ser controlada por la propia tienda. De esta forma, tras la venta, el retailer garantiza un control de la cantidad de ítems restantes y de las operaciones de facturación con ERP. En el artículo  <a href="https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu">Integraciones de backend</a> puedes consultar más información sobre cómo importar stock a través del back office.
-</div>
+> ❗ En VTEX, la actualización del stock una vez vendidos los ítems debe ser controlada por la propia tienda. De esta forma, tras la venta, el retailer garantiza un control de la cantidad de ítems restantes y de las operaciones de facturación con ERP. En el artículo  [Integraciones de backend](https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu) puedes consultar más información sobre cómo importar stock a través del back office.
 
 ### Lead time
 
@@ -331,7 +317,7 @@ Entre los [principales casos de uso](https://help.vtex.com/es/tutorial/lead_time
 
 Para realizar el [cálculo de envio](https://help.vtex.com/es/tutorial/como-funciona-o-calculo-de-envio--tutorials_116) de los pedidos, la plataforma VTEX considera las siguientes configuraciones:
 
-![Envío de Pedidos_ES](//images.ctfassets.net/alneenqid6w5/CwtKVwOkH8NMV0v2IYjlX/19fd25987e328aeb22f03f48764b2479/Env_o_de_Pedidos_ES.png)
+![Envío de Pedidos_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/serie-de-la-tienda-vtex/modulos-de-vtex-i_5.png)
 
 - [Lead time](https://help.vtex.com/es/tutorial/lead_time-shipping-time-at-sku-level--16yv5Mkj6bTyWR1hCN2f4B): cantidad de tiempo configurable para el SKU de un almacén. Esta configuración es opcional y se establece en cero días de forma predeterminada.
 - [Tiempo de almacén](https://help.vtex.com/es/tutorial/gerenciar-estoque--tutorials_137): tiempo que tarda el SKU en pasar del almacén al [muelle](https://help.vtex.com/es/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj). Esta configuración es obligatoria, pero el tiempo puede establecerse en cero.

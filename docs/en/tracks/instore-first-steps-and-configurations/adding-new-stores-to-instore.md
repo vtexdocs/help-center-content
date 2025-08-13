@@ -25,7 +25,7 @@ This page allows you to perform the following actions:
 * [Edit](#editing-a-physical-store)
 * [Inactivate](#inactivating-a-physical-store)
 
-![loja-fisica-EN](//images.ctfassets.net/alneenqid6w5/6C1IhZgOyHi06ZogDIfTcF/516078c3146ebc1f4a7905faed445098/image.png)
+![loja-fisica-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/instore-first-steps-and-configurations/adding-new-stores-to-instore_1.png)
 
 The page displays the following information: 
 
@@ -50,7 +50,7 @@ You can add a physical store by following the steps below:
 
 ### Physical store fields
 
-![loja-fisica2-en](//images.ctfassets.net/alneenqid6w5/60OAU1QatgSvdghvRebAOW/6a50e8a8cd3f452b4102af5871ede996/image.png)
+![loja-fisica2-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/instore-first-steps-and-configurations/adding-new-stores-to-instore_2.png)
 
 #### Identification
 
@@ -74,9 +74,7 @@ You can add a physical store by following the steps below:
 * **Trade policy:** the [trade policy](https://help.vtex.com/en/tutorial/how-trade-policies-work--6Xef8PZiFm40kg2STrMkMV) that will be applied in the physical store. Mandatory field.
 * **Pickup point:** the [pickup point](https://help.vtex.com/en/tutorial/pickup-points--2fljn6wLjn8M4lJHA6HP3R) associated to this physical store, where customers pick up their orders. 
 
-<div class ="alert alert-info">
-<p>Changes can take up to 15 minutes to be processed and applied to VTEX Sales App.</p> 
-</div>
+> ℹ️ Changes can take up to 15 minutes to be processed and applied to VTEX Sales App.
 
 ## Searching for a physical store
 

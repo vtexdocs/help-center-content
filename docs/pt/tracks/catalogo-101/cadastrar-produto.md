@@ -20,13 +20,9 @@ Há diferentes formas de cadastrar um produto:
 - Importação de planilha
 - API
 
-<div class = "alert alert-info">
-  <p>Antes de criar um produto, é necessário que você tenha criado e ativado sua marca e categoria.</p>
-</div>
+> ℹ️ Antes de criar um produto, é necessário que você tenha criado e ativado sua marca e categoria.
 
-<div class="alert alert-warning">
-Se o seu produto não aparecer no site da sua loja após o cadastro, confira o artigo <a href="https://help.vtex.com/pt/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382">Por que o produto não aparece no site?</a> para entender como resolver esse problema.
-</div>
+> ⚠️ Se o seu produto não aparecer no site da sua loja após o cadastro, confira o artigo [Por que o produto não aparece no site?](https://help.vtex.com/pt/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382) para entender como resolver esse problema.
 
 ## Admin VTEX
 
@@ -40,6 +36,4 @@ Para cadastrar seus produtos por planilha, recomendamos que você cadastre ao me
 
 Para cadastrar um produto por API, use a chamada [Create product with category and brand](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/product).
 
-<div class = "alert alert-info">
-  <p>Se você deseja importar produtos via <a href="https://help.vtex.com/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu">integrações de backend</a> com ERP, confira o guia <a href="https://developers.vtex.com/docs/guides/erp-integration-guide">Back office integration guide (ERP/PIM/WMS)</a>.</p>
-</div>
+> ℹ️ Se você deseja importar produtos via [integrações de backend](https://help.vtex.com/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu) com ERP, confira o guia [Back office integration guide (ERP/PIM/WMS)](https://developers.vtex.com/docs/guides/erp-integration-guide).

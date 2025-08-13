@@ -30,7 +30,7 @@ To install the app in your store, follow the steps below:
 
 After you complete these steps, the app will be installed on the account you entered. The next step is to fill out the basic settings that allow VTEX and Lengow to connect to each other.
 
-<div class="alert alert-warning" role="alert">Your <code class="c-link">{accountName}</code> is the identifier used to access your Admin, as seen in the URL <code>https://<span class="c-link">{accountName}</span>.myvtex.com/admin</code></div>
+> ⚠️ Your <code class="c-link">{accountName}</code> is the identifier used to access your Admin, as seen in the URL `https://<span class="c-link">{accountName}</span>.myvtex.com/admin`
 
 ## Connector setup
 
@@ -40,13 +40,13 @@ To get started, we will fill out basic settings that allow VTEX and Lengow to co
 
 Once this is done, as seen in the image below, press **Save** to store the settings and move on to the next step.
 
-![Lengow Basic Setup](//images.ctfassets.net/alneenqid6w5/47hHUySqAFsoAXKSX0ec8N/9be820ddefcc9e6893c634d7fe627b16/Screen_Shot_2020-07-01_at_22.44.34.png)
+![Lengow Basic Setup](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/lengow-integration/installation-and-setup_1.png)
 
 ### Configure VTEX affiliate for Lengow
 
 To fill out the **Prefix to imported orders - Affilitiate ID** field you should configure an [affiliate](https://help.vtex.com/en/tutorial/configuring-affiliates--tutorials_187) for the Lengow connector in *Orders > Orders Management > Settings*. We recommend using the settings below, with LNG as the affiliate ID and your own e-mail address for notifications.
 
-![Lengow affiliate](//images.ctfassets.net/alneenqid6w5/7384AJaO2ZFcECDGFqWHPT/78a10bd0370a43cdd65116f067fc814c/image9.png)
+![Lengow affiliate](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/lengow-integration/installation-and-setup_2.png)
 
 ### Get Lengow authentication credentials
 
@@ -55,7 +55,7 @@ You can find the information needed to fill out the **Lengow Account**, **Lengow
 <table width="100%">
   <tr>
    <td>
-    <img src="https://images.ctfassets.net/alneenqid6w5/5RhkmJ5MSU7IAqKeaeIHOt/1a047d143644b5ede26e54ff0248d609/image10.png" style="display: block; margin-left: auto; margin-right: auto;" alt="Lengow Account ID" title="Lengow Account ID">
+    <img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/lengow-integration/installation-and-setup_3.png" style="display: block; margin-left: auto; margin-right: auto;" alt="Lengow Account ID" title="Lengow Account ID">
    </td>
   </tr>
   <tr>
@@ -70,7 +70,7 @@ You can find the information needed to fill out the **Lengow Account**, **Lengow
 <table width="100%">
   <tr>
    <td>
-    <img src="https://images.ctfassets.net/alneenqid6w5/4VSUTXCPjvJrDztQPuTHa7/114b813e20818cd9058ea47295f74f0c/image13.png" style="display: block; margin-left: auto; margin-right: auto;" alt="Lengow API KEY / Secret" title="Lengow API KEY / Secret">
+    <img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/lengow-integration/installation-and-setup_4.png" style="display: block; margin-left: auto; margin-right: auto;" alt="Lengow API KEY / Secret" title="Lengow API KEY / Secret">
    </td>
   </tr>
   <tr>

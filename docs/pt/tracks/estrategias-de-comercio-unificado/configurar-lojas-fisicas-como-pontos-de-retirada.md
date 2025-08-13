@@ -58,9 +58,7 @@ Agora, você precisa conectar o ponto de retirada ao estoque local da loja físi
 
 Com isso, seu estoque está conectado ao ponto de retirada, e os clientes já podem retirar produtos nessa loja física. Ao ativar essa opção, a __Logística__ não observa a política comercial da doca vinculada ao estoque em questão. 
 
-<div class="alert alert-info">
-Ao associar o ponto de retirada ao estoque da loja física, essa configuração se aplica ao estoque de todas as políticas comerciais ativas.
-</div>
+> ℹ️ Ao associar o ponto de retirada ao estoque da loja física, essa configuração se aplica ao estoque de todas as políticas comerciais ativas.
 
 ## Saiba mais
 

@@ -58,9 +58,7 @@ Now, you must connect the pickup point with the warehouse of the physical store.
 
 With this, your warehouse is connected to the pickup point, and customers can now pick up products at this physical store. When you activate this option, __Logistics__ does not observe the trade policy of the loading dock connected to the warehouse in question. 
 
-<div class="alert alert-info">
-When you associate the pickup point with the physical store's stock, this configuration applies to the stock of all active trade policies.
-</div>
+> ℹ️ When you associate the pickup point with the physical store's stock, this configuration applies to the stock of all active trade policies.
 
 ## Learn more
 - [Configuring a white label seller as a pickup point](https://help.vtex.com/en/tutorial/setting-up-seller-white-label-as-a-pickup-point--6fSUE2O0taaoKieAaiuc4e).

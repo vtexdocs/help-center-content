@@ -36,7 +36,4 @@ Mais à frente nesta trilha vamos aprender a configurar cada um desses tipos de 
 
 Além disso, para todas as promoções é possível definir período de validade, além de restrições e limitações de uso.
 
-<div class = "alert alert-info">
-O módulo de promoções permite até 100 promoções ativas por vez. Cada promoção pode incluir até 100 SKUs.
-No entanto, é possível aplicar promoções a coleções ou categorias que contenham mais de 100 SKUs.
-</div>
+> ℹ️ O módulo de promoções permite até 100 promoções ativas por vez. Cada promoção pode incluir até 100 SKUs. No entanto, é possível aplicar promoções a coleções ou categorias que contenham mais de 100 SKUs.

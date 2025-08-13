@@ -26,9 +26,7 @@ As tabelas de preços e as [políticas comerciais](https://help.vtex.com/pt/tuto
 
 Quando desvinculadas de políticas comerciais, essas tabelas podem ser aplicadas em contextos como [promoções](https://help.vtex.com/pt/tutorial/criar-promocoes--tutorials_320) e [clusters de clientes](https://help.vtex.com/pt/tutorial/criando-promocao-para-um-cluster-de-clientes--tutorials_342). No entanto, se forem criadas para atender a uma política comercial, devem estar associadas exclusivamente à política correspondente. 
 
-<div class = "alert alert-info">
-Uma tabela vinculada a uma política comercial define o preço dos SKUs para aquele contexto específico de venda e não pode ser usada em outros contextos.
-</div>
+> ℹ️ Uma tabela vinculada a uma política comercial define o preço dos SKUs para aquele contexto específico de venda e não pode ser usada em outros contextos.
 
 ## Exemplo prático
 

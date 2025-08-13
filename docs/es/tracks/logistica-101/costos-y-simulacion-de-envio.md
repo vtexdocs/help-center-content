@@ -43,6 +43,4 @@ Esta validación la realiza el [Simulador de envío](https://help.vtex.com/es/tu
 * Si hay puntos de recogida del producto.
 * Qué [seller white label](https://help.vtex.com/es/tutorial/que-son-cuenta-franquicia-y-seller-white-label--5orlGHyDHGAYciQ64oEgKa) realizará la entrega del producto. 
 
-<div class = "alert alert-info">
-También simula el envío a través de la API utilizando la <a href="https://developers.vtex.com/vtex-rest-api/reference/calculatesla">API de cálculo de SLA</a>.
-</div>
+> ℹ️ También simula el envío a través de la API utilizando la [API de cálculo de SLA](https://developers.vtex.com/vtex-rest-api/reference/calculatesla).

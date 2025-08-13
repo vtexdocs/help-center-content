@@ -58,9 +58,7 @@ Ahora, debes conectar el punto de recogida con el almacén local de la tienda f�
 
 Con esto, tu almacén estará conectado con el punto de recogida, y los clientes podrán recoger sus productos en esa tienda física. Cuando se activa esta opción, la __Logística__ no observa la política comercial del muelle vinculado al almacén en cuestión. 
 
-<div class="alert alert-info">
-Al asociar el punto de recogida con el stock de la tienda física, esta configuración se aplica al stock de todas las políticas comerciales activas.
-</div>
+> ℹ️ Al asociar el punto de recogida con el stock de la tienda física, esta configuración se aplica al stock de todas las políticas comerciales activas.
 
 ## Más información
 - [Configurar seller white label como punto de recogida (pickup point)](https://help.vtex.com/es/tutorial/configurar-seller-white-label-como-punto-de-retirada-pickup-point--6fSUE2O0taaoKieAaiuc4e).

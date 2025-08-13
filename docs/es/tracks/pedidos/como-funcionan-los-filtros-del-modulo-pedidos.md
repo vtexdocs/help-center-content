@@ -25,6 +25,4 @@ Para usar el filtro, siga estos pasos:
 
 Para más información sobre filtros, vea el artículo [Filtrar pedidos en Todos los pedidos](https://help.vtex.com/es/tutorial/filtrar-todos-pedidos--tutorials_192).
 
-<div class = "alert alert-info">
-Al aplicar varios filtros a diferentes búsquedas, el total de pedidos que se muestran en la ventana de filtrado puede ser diferente del total que se muestra en la pantalla <b>Todos los pedidos</b>. Esto se debe a una limitación de la plataforma, pero no afecta la validez de los resultados mostrados después del filtrado.
-</div>
+> ℹ️ Al aplicar varios filtros a diferentes búsquedas, el total de pedidos que se muestran en la ventana de filtrado puede ser diferente del total que se muestra en la pantalla **Todos los pedidos**. Esto se debe a una limitación de la plataforma, pero no afecta la validez de los resultados mostrados después del filtrado.

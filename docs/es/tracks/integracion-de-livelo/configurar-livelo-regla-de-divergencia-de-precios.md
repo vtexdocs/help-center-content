@@ -14,5 +14,4 @@ trackId: 4ZSHEiuTkh8HR9ubJQj8BP
 trackSlugEN: integracion-de-livelo
 ---
 
-<div class="alert alert-warning" role="alert">Este contenido es exclusivamente regional; 
-por lo tanto, no se aplica a los países de habla española.</div>
+> ⚠️ Este contenido es exclusivamente regional; por lo tanto, no se aplica a los países de habla española.

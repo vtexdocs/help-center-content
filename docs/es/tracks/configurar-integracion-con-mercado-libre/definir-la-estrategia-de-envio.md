@@ -20,9 +20,7 @@ La Política de envío (transportadora) se asocia al Almacén de su tienda a tra
 
 Si desea utilizar la misma Estrategia de envío definida para su tienda VTEX en la integración con Mercado Libre, no es necesario crear nuevas configuraciones logísticas. Sin embargo, si desea crear una Estrategia de envío específica para el marketplace, deberá realizar los siguientes pasos:
 
-<div class="alert alert-warning"> 
-La Política comercial que se utilizará en la integración con Mercado Libre debe estar asociada a un único muelle. Si la Política comercial está asociada a más de un muelle, los pedidos recibidos pueden no integrarse con el sistema VTEX. 
-</div>
+> ⚠️ La Política comercial que se utilizará en la integración con Mercado Libre debe estar asociada a un único muelle. Si la Política comercial está asociada a más de un muelle, los pedidos recibidos pueden no integrarse con el sistema VTEX.
 
 - [Registrar la política de envío](https://help.vtex.com/es/tutorial/politica-de-envio--tutorials_140#cadastrar-uma-politica-de-envio) asociada a la política comercial utilizada en la integración.
 - [Registrar el muelle](https://help.vtex.com/es/tutorial/como-cadastrar-doca--7K3FultD8I2cuuA6iyGEiW) asociado a la política comercial utilizada en la integración.

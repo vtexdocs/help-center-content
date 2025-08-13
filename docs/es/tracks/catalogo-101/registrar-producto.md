@@ -20,14 +20,9 @@ Hay diferentes formas de registrar un producto:
 - Importación de plantilla
 - API
 
-<div class = "alert alert-info">
-  <p>Antes de crear un producto, debe haber creado y activado su marca y su categoría.
-</p>
-</div>
+> ℹ️ Antes de crear un producto, debe haber creado y activado su marca y su categoría. 
 
-<div class="alert alert-warning">
-Si su producto no aparece en el sitio web de su tienda después del registro, consulte el artículo <a href="https://help.vtex.com/es/faq/por-que-el-producto-no-aparece-en-el-sitio--frequentlyAskedQuestions_382">¿Por qué el producto no aparece en el sitio?</a> para entender cómo resolver este problema.
-</div>
+> ⚠️ Si su producto no aparece en el sitio web de su tienda después del registro, consulte el artículo [¿Por qué el producto no aparece en el sitio?](https://help.vtex.com/es/faq/por-que-el-producto-no-aparece-en-el-sitio--frequentlyAskedQuestions_382) para entender cómo resolver este problema.
 
 ## Admin VTEX
 
@@ -40,6 +35,4 @@ Para registrar sus productos por plantilla, recomendamos que los registre junto 
 
 Utilice la llamada [Create product with category and brand](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/product) para crear un nuevo producto por medio de la API del Catálogo.
 
-<div class="alert alert-info">
-  <p>Si deseas importar productos mediante <a href="https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu">integraciones backend</a> con un ERP, consulta la guía <a href="https://developers.vtex.com/docs/guides/erp-integration-guide">Back office integration guide (ERP/PIM/WMS)</a>.</p>
-</div>
+> ℹ️ Si deseas importar productos mediante [integraciones backend](https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu) con un ERP, consulta la guía [Back office integration guide (ERP/PIM/WMS)](https://developers.vtex.com/docs/guides/erp-integration-guide).

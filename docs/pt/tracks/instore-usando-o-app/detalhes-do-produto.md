@@ -16,7 +16,7 @@ trackSlugEN: instore-usando-o-app
 
 Ao clicar nos detalhes de um produto que aparece nos resultados da busca do VTEX Sales App, ou ao bipar um produto, o vendedor é direcionado à tela de detalhes do produto.
 
-![instore-pdp-pt](//images.ctfassets.net/alneenqid6w5/fSLOfLn7bnpFyAfujZ8GN/91062ff9c3840a3095bb96b36dc73136/pdp-pt.png)
+![instore-pdp-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/instore-usando-o-app/detalhes-do-produto_1.png)
 
 Essa tela mostra o nome do produto, sua galeria de fotos, variações, descrição e disponibilidade. O vendedor pode, nessa tela, adicionar o produto ao carrinho.
 

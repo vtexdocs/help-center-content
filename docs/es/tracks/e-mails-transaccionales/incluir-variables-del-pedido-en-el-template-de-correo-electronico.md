@@ -22,15 +22,13 @@ Estas variables son propiedades del JSON que constan en el campo __JSON Data__ y
 
 ### Ejemplo
 
-<div class="alert alert-warning">
-Los ejemplos de JSON Data apenas aparecerán en los templates cuando complete la acción deseada en su tienda. Si no ha realizado la transacción de un pedido, una recurrencia o cualquier otra acción, el JSON Data aparecerá en blanco.
-</div>
+> ⚠️ Los ejemplos de JSON Data apenas aparecerán en los templates cuando complete la acción deseada en su tienda. Si no ha realizado la transacción de un pedido, una recurrencia o cualquier otra acción, el JSON Data aparecerá en blanco.
 
 Supongamos que desea ingresar el nombre de la transportadora en el correo electrónico de pedido enviado.
 
 Para hacer esto, entre en el template de pedido enviado y, en el campo __JSON Data__, busque la propiedad `courier`.
 
-![EN Incluir variáveis do pedido no template de e-mail - 1](//images.ctfassets.net/alneenqid6w5/3lkYWEKSwjz99oSGDCpapE/a8060a2a2c8dca9887178af7d6c97812/EN_Incluir_vari__veis_do_pedido_no_template_de_e-mail_-_1.png)  
+![EN Incluir variáveis do pedido no template de e-mail - 1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/e-mails-transaccionales/incluir-variables-del-pedido-en-el-template-de-correo-electronico_1.png)  
 
 El valor ingresado para esta propiedad es apenas un ejemplo, pero puede usarlo en el campo __HTML__ para que, cuando se envíe el correo electrónico, el cliente vea la transportadora de hecho responsable de entregar el pedido.
 
@@ -39,7 +37,7 @@ Tenga en cuenta que la propiedad `courier` está dentro del objeto `package`. Po
 `{{package.courier}}`
 
 
-![EN Incluir variáveis do pedido no template de e-mail - 2](//images.ctfassets.net/alneenqid6w5/5MhBjWokAHVHZKXgvswn6X/f3e8ee4de1d2a5d5a46c0385660a9c67/EN_Incluir_vari__veis_do_pedido_no_template_de_e-mail_-_2.png)  
+![EN Incluir variáveis do pedido no template de e-mail - 2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/e-mails-transaccionales/incluir-variables-del-pedido-en-el-template-de-correo-electronico_2.png)  
 
 
 Vea que el valor de ejemplo  ("Transportadora Teste Courier S.A.") fue ingresado en la pantalla de preview, debajo de los campos __HTML__ y __JSON Data__. 

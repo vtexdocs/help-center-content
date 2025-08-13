@@ -25,5 +25,5 @@ Si desea recibir pagos con tarjeta de crédito, siga los pasos a continuación:
 7. Haga clic en `Guardar`.
 
 <div class="alert-info">
-<p>Además de los ajustes anteriores, debes seguir la guía <strong><a href="https://help.vtex.com/es/tracks/instore-pagamentos--43B4Nr7uZva5UdwWEt3PEy/jHQQcyX3WKeUFidwSjmY1">Definir los métodos de pago mostrados en VTEX Sales App</a></strong> para que las opciones de pago se muestren correctamente en la app.</p>
+Además de los ajustes anteriores, debes seguir la guía **[Definir los métodos de pago mostrados en VTEX Sales App](https://help.vtex.com/es/tracks/instore-pagamentos--43B4Nr7uZva5UdwWEt3PEy/jHQQcyX3WKeUFidwSjmY1)** para que las opciones de pago se muestren correctamente en la app.
 </div>

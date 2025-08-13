@@ -20,9 +20,7 @@ No Google Shopping somente [catálogos](https://help.vtex.com/pt/tracks/catalogo
 
 Após a configuração da integração e autenticação da sua conta, o envio de produtos para o marketplace não é automático, é necessário [reindexar a base](https://help.vtex.com/pt/tutorial/entendendo-o-funcionamento-da-indexacao). Esse processo prepara os dados dos SKUs e produtos e envia para o marketplace informações gerais sobre catálogo, preço e estoque. 
 
-<div class = "alert alert-info">
-Somente o <a href="https://help.vtex.com/pt/tracks/contas-e-permissoes--5PxyAgZrtiYlaYZBTlhJ2A/56Bd0KpwbvAji1aFs94xdA">usuário Titular (owner)</a> tem permissão para reindexar a base de uma loja VTEX. Durante o período de reindexação, que é variável, os produtos entram numa fila para atualização de dados, mas seguem disponíveis para venda no site da loja.
-</div>
+> ℹ️ Somente o [usuário Titular (owner)](https://help.vtex.com/pt/tracks/contas-e-permissoes--5PxyAgZrtiYlaYZBTlhJ2A/56Bd0KpwbvAji1aFs94xdA) tem permissão para reindexar a base de uma loja VTEX. Durante o período de reindexação, que é variável, os produtos entram numa fila para atualização de dados, mas seguem disponíveis para venda no site da loja.
 
 Para reindexar a base, copie o endereço abaixo no seu navegador, substituindo `{nomedaloja}` pelo nome da sua loja:
 
@@ -50,9 +48,7 @@ A aprovação dos seus produtos pelo Google vai torná-los ativos, e isso imedia
 
 **Se um produto é reprovado, é necessário revisar seus dados e enviá-los novamente**. Você pode acompanhar o status dos seus produtos no Google Merchant Center.
 
-<div class="alert alert-info">
-Verifique se os seus produtos atendem a <a href="https://support.google.com/merchants/answer/7052112?visit_id=637492777706451215-3729304881&rd=1&hl=pt-BR">Especificação dos dados do produto</a> definida pelo Google. Caso algum produto esteja em desacordo com as exigências, o anúncio será reprovado.
-</div>
+> ℹ️ Verifique se os seus produtos atendem a [Especificação dos dados do produto](https://support.google.com/merchants/answer/7052112?visit_id=637492777706451215-3729304881&rd=1&hl=pt-BR) definida pelo Google. Caso algum produto esteja em desacordo com as exigências, o anúncio será reprovado.
 
 Há situações nas quais a reprovação do produto acontece posteriormente a ele já ter sido considerado ativo. Isso é visto por vezes quando uma conta foi criada recentemente.
 
@@ -66,9 +62,7 @@ No Google Shopping, os produtos automaticamente expiram caso não sejam atualiza
 
 Entretanto, não é algo com o qual você precise se preocupar, pois na integração com o conector da Plataforma VTEX, **os produtos são automaticamente atualizados pelo sistema a cada 29 dias.**
 
-<div class="alert alert-info">
-É possível haver um delay de até 30 minutos entre o processamento da alteração de dados de um produto e sua atualização no feed.
-</div>
+> ℹ️ É possível haver um delay de até 30 minutos entre o processamento da alteração de dados de um produto e sua atualização no feed.
 
 ## Uso de custom labels 
 
@@ -99,9 +93,7 @@ Após criar o novo campo de especificação é necessário associar as labels à
 4. Preencha o campo `googleshopping-labels` com valores desejados, separando-os por ponto e vírgula`;`.  
 5. Clique em `Salvar`.  
 
-<div class="alert alert-warning">
-Cada oferta pode ter no máximo cinco labels associadas. 
-</div>
+> ⚠️ Cada oferta pode ter no máximo cinco labels associadas.
 
 ## Modificar categorização automática
 
@@ -113,6 +105,4 @@ Antes de considerar um problema na categorização, porém, tenha a certeza de q
 
 Para substituir uma categoria incorreta e garantir que o produto seja aprovado, veja o passo-a-passo no artigo do Google [categoria Google do produto](https://support.google.com/merchants/answer/6324436?hl=pt-BR). 
 
-<div class="alert alert-warning">
-O Google aceitará uma modificação de categoria apenas nas situações previstas no artigo <a href="https://support.google.com/merchants/answer/6324436?hl=pt-BR">categoria Google do produto.</a>
-</div>
+> ⚠️ O Google aceitará uma modificação de categoria apenas nas situações previstas no artigo [categoria Google do produto.](https://support.google.com/merchants/answer/6324436?hl=pt-BR)

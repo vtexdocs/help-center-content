@@ -20,9 +20,7 @@ Hay diferentes formas de registrar SKUs:
 - Importación de plantilla
 - API
 
-<div class="alert alert-info">
-  <p>Si deseas importar SKUs mediante <a href="https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu">integraciones backend</a> con un ERP, consulta la guía <a href="https://developers.vtex.com/docs/guides/erp-integration-guide">Back office integration guide (ERP/PIM/WMS)</a>.</p>
-</div>
+> ℹ️ Si deseas importar SKUs mediante [integraciones backend](https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu) con un ERP, consulta la guía [Back office integration guide (ERP/PIM/WMS)](https://developers.vtex.com/docs/guides/erp-integration-guide).
 
 ## Admin VTEX
 

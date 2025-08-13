@@ -33,9 +33,7 @@ Uma vez terminadas as etapas de preparo da sua loja na VTEX e na Amazon, é nece
 - __Não enviar preço para a Amazon:__ a Amazon dá a possibilidade de usar o próprio sistema deles para parametrização de preços nos produtos. Para utilizar este serviço, marque a opção *ON* para que a integração não envie os preços da VTEX. Pois, se os preços forem enviados via integração, eles irão sobrescrever os preços do sistema da Amazon.
 - **Enviar KIT*:** ao escolher *Não*, SKUs [cadastrados como kit](https://help.vtex.com/pt/tutorial/cadastrando-kit--tutorials_215) não são enviados para a Amazon. Ao habilitar *Sim*, todos os itens da sua política comercial são enviados para o marketplace, inclusive SKUs cadastrados como kit. Mudanças na configuração do conector podem ser feitas a qualquer momento, sem que isso afete SKUs que já tenham sido enviados. Por exemplo, se você mudasse sua configuração de *Sim* para *Não*, SKUs enviados anteriormente para a Amazon não seriam removidos nem sofreriam qualquer alteração.
 
-<div class="alert alert-info">
-Com a opção <i>Não</i> ativada, tentativas de envio para a Amazon de SKUs cadastrados como kit resultarão no seguinte aviso: “o conector está configurado para não enviar SKUs do tipo Kit”. Esta mensagem pode ser visualizada no Admin VTEX, no módulo <b>MARKETPLACE > Integrações > Produtos</b>, ao se clicar sobre o SKU.
-</div>
+> ℹ️ Com a opção *Não* ativada, tentativas de envio para a Amazon de SKUs cadastrados como kit resultarão no seguinte aviso: “o conector está configurado para não enviar SKUs do tipo Kit”. Esta mensagem pode ser visualizada no Admin VTEX, no módulo **MARKETPLACE > Integrações > Produtos**, ao se clicar sobre o SKU.
 
 - **Notificar por e-mail se ocorrer um erro em um pedido:** preencher com o e-mail do responsável técnico. Caso ocorra algum erro na integração do pedido, será enviada uma mensagem para o e-mail cadastrado.
 

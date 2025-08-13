@@ -26,7 +26,7 @@ In the DNS zone of your domain, you should create a CNAME-type entry in the desi
 Note that the `{domain}` indicated above has to be the same as the one you [registered on VTEX](https://help.vtex.com/en/tracks/como-realizar-el-go-live-de-tu-tienda--4Ns5FxIiksmjsdX2yOTduM/7sM5IMx02zaHvAFTm0OxiJ#registering-the-domain-on-vtex).
 
 <div class="alert-warning">
-If you use Cloudflare as your DNS zone, you may need to disable the DNS proxy and thus disable Cloudflare's CDN and WAF services. Learn more in the <a href="https://help.vtex.com/en/tutorial/disable-cloudflare-proxy--75QqsXAqR7NdkRc1GZPiXb">How to disable the proxy in Cloudflare</a> article.
+If you use Cloudflare as your DNS zone, you may need to disable the DNS proxy and thus disable Cloudflare's CDN and WAF services. Learn more in the [How to disable the proxy in Cloudflare](https://help.vtex.com/en/tutorial/disable-cloudflare-proxy--75QqsXAqR7NdkRc1GZPiXb) article.
 </div>
 
 See some examples:
@@ -67,9 +67,7 @@ Store address: secure.mystore.com
   - Destination: secure.mystore.com.cdn.vtex.com
 ```
 
-<div class="alert alert-danger">
-There can not be any type A pointing coexisting with the CNAME pointing described above. This coexistence may cause issues in your go-live. Maintain only the CNAME pointing described above.
-</div>
+> ❗ There can not be any type A pointing coexisting with the CNAME pointing described above. This coexistence may cause issues in your go-live. Maintain only the CNAME pointing described above.
 
 It takes 24-48 hours for DNS pointing to propagate fully, which means that the configured address may not be accessible to everyone immediately after configuration. Also, [notifying the pointing](#notifying-the-pointing) is required for the store to be available.
 

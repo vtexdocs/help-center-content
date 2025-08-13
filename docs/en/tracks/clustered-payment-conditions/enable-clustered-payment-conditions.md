@@ -14,7 +14,5 @@ trackId: 1LqUFHQZ3ZQyV5TmugbGNm
 trackSlugEN: clustered-payment-conditions
 ---
 
-<div class="alert alert-info">
-This functionality is currently in Closed Beta (testing stage) and is not available for installation in new stores.        
-</div>  
+> ℹ️ This functionality is currently in Closed Beta (testing stage) and is not available for installation in new stores.  
 

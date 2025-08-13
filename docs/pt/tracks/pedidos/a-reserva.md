@@ -22,9 +22,7 @@ A reserva conecta o módulo de logística ao módulo de pedidos. Ela impede que 
 
 ## Como a reserva funciona
 
-<div class="alert alert-warning">
-Produtos apenas inseridos no carrinho <strong>não</strong> geram reserva ou prioridade. Uma reserva é feita apenas se um pedido for <strong>finalizado</strong>.
-</div>  
+> ⚠️ Produtos apenas inseridos no carrinho **não** geram reserva ou prioridade. Uma reserva é feita apenas se um pedido for **finalizado**.  
 
 
 Este é o fluxo da reserva na VTEX: 
@@ -35,8 +33,6 @@ Este é o fluxo da reserva na VTEX:
  
  3. Finalmente, uma vez que o pedido está na etapa de preparo para a entrega, os itens passam para o status `Reserva reconhecida`. Esse status indica que o item já não existe mais no estoque físico.      
 
-![reservation pt](//images.ctfassets.net/alneenqid6w5/7nDqT6kSvWTESRqZLzZutZ/9009856b729712a613d4d6c36612fd9a/reservation_pt.png)
+![reservation pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/pedidos/a-reserva_1.png)
 
-<div class="alert alert-warning">
-A VTEX não desconta automaticamente os itens dos estoques, mesmo depois que eles passam para o status <code>Reserva reconhecida</code>. Os itens comprados continuarão nesse status até que o ERP ou o lojista realizem a baixa no estoque.
-</div>
+> ⚠️ A VTEX não desconta automaticamente os itens dos estoques, mesmo depois que eles passam para o status `Reserva reconhecida`. Os itens comprados continuarão nesse status até que o ERP ou o lojista realizem a baixa no estoque.

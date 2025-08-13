@@ -14,4 +14,4 @@ trackId: 3eCHNCIx8XhZOSmX0sQT3U
 trackSlugEN: vtex-live-shopping-primeiros-passos
 ---
 
-<div class="alert alert-warning" role="alert">Conteúdo em tradução.</div>
+> ⚠️ Conteúdo em tradução.

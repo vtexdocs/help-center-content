@@ -57,7 +57,7 @@ Com o objetivo de simplificar a explicação, vamos considerar que a regra de ar
 - *Regra do Zero*: o segundo algarismo, da direita para a esquerda, será __substituído por zero__ e o primeiro também será __substituído por zero__. Vamos utilizar como exemplo um preço de *R$ 100,25*. O sistema irá considerar os dois valores mais próximos deste preço que tenham *“00”* como os dois primeiros algarismos, ou seja, *100,00* e *200,00*. Como a diferença entre 100,25 e 100,00 é __menor__ que a diferença entre 100,25 e 200,00, __o preço será arredondado para 100,00__.
 
 <div class=“alert alert-info”>
-Se a diferença do preço original para o valor superior e para o valor inferior for a mesma, o <strong>arredondamento será feito para cima</strong>.
+Se a diferença do preço original para o valor superior e para o valor inferior for a mesma, o **arredondamento será feito para cima**.
 </div>
 
 ## Exemplo

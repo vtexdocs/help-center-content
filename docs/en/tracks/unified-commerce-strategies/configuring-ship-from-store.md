@@ -16,7 +16,7 @@ trackSlugEN: unified-commerce-strategies
 
 The **Ship From Store** strategy allows a customer who wants to receive the products at home to receive them from the warehouse of a physical store. In other words, in this scenario, the store functions as a mini distribution center.
 
-![35. Setting up Shipping From Store - 1](//images.ctfassets.net/alneenqid6w5/7uHIuX10TvTGJS1kkwPmBb/6847796e390c9d18123eea24f87469c4/35._Setting_up_Shipping_From_Store_-_1.png)
+![35. Setting up Shipping From Store - 1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/unified-commerce-strategies/configuring-ship-from-store_1.png)
 
 This type of logistics helps your operation to reduce costs and shipping time. Instead of having only the main warehouses - usually away from the central areas of cities - you now have a more capillary delivery network.
 
@@ -28,9 +28,7 @@ First of all, you must consider the prerequisites that your store needs to ensur
 
 ## How to implement Ship From Store
 
-<div class="alert alert-info">
-Although it is possible to implement Ship From Store in other ways, in this article we will explain how to do it using the Franchise Account and Seller White Label features. This is the architecture most recommended by VTEX for this type of project.
-</div>
+> ℹ️ Although it is possible to implement Ship From Store in other ways, in this article we will explain how to do it using the Franchise Account and Seller White Label features. This is the architecture most recommended by VTEX for this type of project.
 
 These are the steps to implement __Ship From Store__:
 

@@ -14,9 +14,7 @@ trackId: 5AF0XfnjfWeopIFBgs3LIQ
 trackSlugEN: catalogo-101
 ---
 
-<div class="alert alert-warning">
-  <p>Antes de criar uma coleção, é preciso ter configurado a autorização. Para isso, é preciso ter um perfil de acesso com o recurso <b>Write Collections</b>, na seção <b>Collections</b> dos perfis do Catalog. Veja aqui <a href ="https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc">como configurar um recurso</a>.</p>
-</div>
+> ⚠️ Antes de criar uma coleção, é preciso ter configurado a autorização. Para isso, é preciso ter um perfil de acesso com o recurso **Write Collections**, na seção **Collections** dos perfis do Catalog. Veja aqui <a href ="https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc">como configurar um recurso</a>.
 
 Siga o passo a passo abaixo para cadastrar uma nova coleção:
 

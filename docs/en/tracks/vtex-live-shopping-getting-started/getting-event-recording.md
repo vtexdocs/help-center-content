@@ -22,6 +22,4 @@ Once the transmission is over and the event reaches the [status](https://help.vt
     * `Download`: The recording file will be downloaded on your computer. The processing time depends on the event duration, and you will see the progress loading.
 3. Check your email, or the files downloaded on your computer, and you will have access to the event recording in .mp4 format.
 
-<div class = "alert alert-warning">
-  <p>You mustn't leave the page while downloading the event record, otherwise the process will be interrupted.</p>
-</div>
+> ⚠️ You mustn't leave the page while downloading the event record, otherwise the process will be interrupted.

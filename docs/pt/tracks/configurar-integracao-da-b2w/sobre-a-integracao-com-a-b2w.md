@@ -32,6 +32,4 @@ Existe também o serviço B2W Entregas Direct, resultado da parceria entre a B2W
 - Cadastrar na plataforma da B2W o status `order_invoiced` como sendo do tipo _Pagamento Faturado_.
 - Preencher na plataforma VTEX o campo `embeddedInvoice` da API de [Order invoice notification](https://developers.vtex.com/vtex-rest-api/reference/invoice) com os dados da nota fiscal.
 
-<div class="alert alert-warning">
-Sem o status <b>order_invoiced</b> criado no marketplace e o <b>embeddedInvoice</b> preenchido corretamente, não é possível avançar com o pedido na VTEX, pois o pedido só é faturado mediante inclusão dos dados em XML na nota fiscal. O campo <b>issuanceDate</b> também precisa estar preenchido com uma data válida.
-</div>
+> ⚠️ Sem o status **order_invoiced** criado no marketplace e o **embeddedInvoice** preenchido corretamente, não é possível avançar com o pedido na VTEX, pois o pedido só é faturado mediante inclusão dos dados em XML na nota fiscal. O campo **issuanceDate** também precisa estar preenchido com uma data válida.

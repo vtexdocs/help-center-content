@@ -18,7 +18,7 @@ trackSlugEN: cms
 
 La sección [Layout](https://help.vtex.com/es/subcategory/layout--2g6LxtasS4iSeGEqeYUuGW) te permite crear tu storefront con HTML y CSS. Se organiza en carpetas y archivos con fines específicos:
 
-![CMS - Layout ES](//images.ctfassets.net/alneenqid6w5/4YnFtKkC8exlv3vm8VTCqh/b79de6b1ecd88c672cd7f004666e4106/cms-layout-es.png)
+![CMS - Layout ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/cms/cms-portal-legado_1.png)
 
 - **HTML Templates:** construye el código HTML y los archivos JavaScript y CSS de referencia que se utilizarán en las páginas del sitio web.
 
@@ -38,7 +38,7 @@ La sección [Layout](https://help.vtex.com/es/subcategory/layout--2g6LxtasS4iSeG
 
 La sección [Configuración](https://help.vtex.com/es/subcategory/configuracion-de-cms--6kovkwzMRyeOOc2iEC4suM) te permite configurar los ajustes relacionados con el sitio web de tu tienda, como sus metadatos, las etiquetas SEO, los tipos de archivo, etc. 
 
-![CMS - Settings ES](//images.ctfassets.net/alneenqid6w5/1JFkw9wFlJd5oulogEGDDL/68fd8114fc801d74c45f115716d2a73e/cms-settings-es.png)
+![CMS - Settings ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/cms/cms-portal-legado_2.png)
 
 La sección **Configuración** está estructurada de la siguiente manera:
 
@@ -69,12 +69,12 @@ Toda tienda debe tener, sin excepción, las siguientes carpetas en el CMS para a
 
 Vea abajo estas carpetas básicas en el CMS:
 
-![2 1](//images.ctfassets.net/alneenqid6w5/6jvwsPMcIBTllVekqROlkk/ea2d4a9d0d4cdb8a07dd02a3add4b40b/2_1.png)
+![2 1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/cms/cms-portal-legado_3.png)
 
 Estas carpetas vienen de forma predeterminada en el ambiente de todas las tiendas VTEX.
 
 <div clas="alert alert-warning">
-Atención: los nombres de las carpetas obligatorias <strong>no</strong> deben ser alterados.
+Atención: los nombres de las carpetas obligatorias **no** deben ser alterados.
 </div>
 
 Como las carpetas se refieren a páginas dinámicas, sus nombres no aparecen en la navegación del cliente. 
@@ -94,7 +94,7 @@ Estas son:
 Para estas dos carpetas, lo que importa es el control o placeholder que lee su contenido. Sus nombres pueden ser editados libremente.
 
 <div class="">
-Tanto <code>/account</code> como <code>/account/orders</code>  son carpetas privadas. Por lo tanto, ambas requieren autenticación. Vea en el artículo <a href="https://help.vtex.com/es/tutorial/exigir-autenticacion-en-paginas-de-la-tienda">Exigir autenticación en páginas de la tienda</a> cómo asegurarse de que están configuradas para solicitar la autenticación del usuario.
+Tanto `/account` como `/account/orders`  son carpetas privadas. Por lo tanto, ambas requieren autenticación. Vea en el artículo [Exigir autenticación en páginas de la tienda](https://help.vtex.com/es/tutorial/exigir-autenticacion-en-paginas-de-la-tienda) cómo asegurarse de que están configuradas para solicitar la autenticación del usuario.
 
 </div>
 

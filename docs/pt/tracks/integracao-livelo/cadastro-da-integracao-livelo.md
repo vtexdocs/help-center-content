@@ -22,9 +22,7 @@ Terminadas as etapas de conﬁguração da sua conta na Livelo e da sua conta na
 4. Clique no botão **`GET APP`**.
 5. Retorne para a página **Marketplaces e Integrações** e preencha os campos da tela descritos logo abaixo e, em seguida, clique no botão `Salvar`.  
 
-<div class="alert alert-danger">
-Nesta etapa as credenciaisda Livelo são necessárias. <br>Todos os campos da tela de configuração da Livelo são obrigatórios.</br>
-</div>  
+> ❗ Nesta etapa as credenciaisda Livelo são necessárias. <br>Todos os campos da tela de configuração da Livelo são obrigatórios.</br>  
 
 | **Campo** | **Descrição** | **Exemplo** |
 |---|---|---|
