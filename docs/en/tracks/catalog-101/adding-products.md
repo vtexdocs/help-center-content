@@ -20,13 +20,9 @@ There are different ways to add a product:
 - Importing spreadsheet
 - API
 
-<div class = "alert alert-info">
-  <p>Before creating a product, you must have created and activated its corresponding brand and category.</p>
-</div>
+> ℹ️ Before creating a product, you must have created and activated its corresponding brand and category.
 
-<div class="alert alert-warning">
-If your product does not appear on your store's website after you have created it, check out the article <a href="https://help.vtex.com/pt/faq/why-is-the-product-not-shown-on-the-website--frequentlyAskedQuestions_382">Why is the product not shown on the website?</a> to understand how to solve this problem.
-</div>
+> ⚠️ If your product does not appear on your store's website after you have created it, check out the article [Why is the product not shown on the website?](https://help.vtex.com/pt/faq/why-is-the-product-not-shown-on-the-website--frequentlyAskedQuestions_382) to understand how to solve this problem.
 
 ## VTEX Admin
 
@@ -40,6 +36,4 @@ We recommend that you add products and SKUs together when using a spreadsheet. Y
 
 To add a new product via API use the [Create product with category and brand](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/product) endpoint. 
 
-<div class="alert alert-info">
-  <p>If you want to import products via <a href="https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu">backend integrations</a> with an ERP, check out the <a href="https://developers.vtex.com/docs/guides/erp-integration-guide">Back office integration guide (ERP/PIM/WMS)</a>.</p>
-</div>
+> ℹ️ If you want to import products via [backend integrations](https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu) with an ERP, check out the [Back office integration guide (ERP/PIM/WMS)](https://developers.vtex.com/docs/guides/erp-integration-guide).

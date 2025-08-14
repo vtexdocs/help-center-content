@@ -16,11 +16,9 @@ trackSlugEN: configurar-integracao-com-o-magazine-luiza
 
 Após realizar as configurações iniciais da integração, é possível enviar os produtos para o catálogo do Magazine Luiza, além de definir quais atributos de cada categoria serão exibidos nos anúncios no marketplace.  
 
-<div class="alert alert-warning">
-Para enviar produtos ao marketplace, o seller deve mapear as <a href="https://help.vtex.com/pt/tutorial/o-que-e-uma-categoria--6HV4Q3E2FauUoOQoiCCgCg">categorias</a> e <a href="https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP>atributos dos produtos</a>, além de configurar <a href=”https://help.vtex.com/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb">estoque</a> e <a href="https://help.vtex.com/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/">preço</a> de cada produto.
-</div>  
+> ⚠️ Para enviar produtos ao marketplace, o seller deve mapear as [categorias](https://help.vtex.com/pt/tutorial/o-que-e-uma-categoria--6HV4Q3E2FauUoOQoiCCgCg) e [estoque](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP>atributos dos produtos</a>, além de configurar <a href=”https://help.vtex.com/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb) e [preço](https://help.vtex.com/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/) de cada produto.  
 
-![Gerenciamento de atributos Magalu](//images.ctfassets.net/alneenqid6w5/1l5ZqsswOfw1Ju4GvP77yG/4da2f7ebb4050422eb5a8d6e11f2737d/Untitled_Video_October_16__2024_3_09_PM.gif)
+![Gerenciamento de atributos Magalu](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/configurar-integracao-com-o-magazine-luiza/gerenciamento-de-atributos_1.gif)
 
 A página de **Gerenciamento de Atributos,** pode ser acessada no Admin VTEX em **Marketplace > Magazine Luiza > Gerenciamento de Atributos.**   
 Ao acessar a página, é exibida uma lista com as categorias previamente mapeadas pelo seller em sua loja VTEX. No topo da página, há uma barra de busca que pode ser utilizada para pesquisar categorias pelo nome.  
@@ -37,13 +35,9 @@ Para habilitar ou desabilitar um atributo, siga os passos abaixo:
 3. Habilite <i class="fas fa-toggle-on" aria-hidden="true"></i> ou desabilite <i class="fas fa-toggle-off" aria-hidden="true"></i> o atributo desejado.  
 4. Clique no botão `Salvar Alterações`.  
 
-<div class="alert alert-info">
-Por padrão, todos os atributos de produtos e SKUs ativos no catálogo VTEX estão habilitados para envio ao marketplace.
-</div>  
+> ℹ️ Por padrão, todos os atributos de produtos e SKUs ativos no catálogo VTEX estão habilitados para envio ao marketplace.  
 
 Após configurar o **Gerenciamento de Atributos,** é necessário [reindexar a base](https://help.vtex.com/pt/tutorial/entendendo-o-funcionamento-da-indexacao) para que as alterações reflitam no marketplace. Durante o período de reindexação, os produtos entram em uma fila para atualização dos dados, mas seguem disponíveis para venda.  
 
-<div class="alert alert-info">
-Somente o <a href="https://help.vtex.com/pt/tracks/contas-e-permissoes--5PxyAgZrtiYlaYZBTlhJ2A/56Bd0KpwbvAji1aFs94xdA">usuário Titular (owner)</a> tem permissão para reindexar a base de uma loja VTEX.
-</div>
+> ℹ️ Somente o [usuário Titular (owner)](https://help.vtex.com/pt/tracks/contas-e-permissoes--5PxyAgZrtiYlaYZBTlhJ2A/56Bd0KpwbvAji1aFs94xdA) tem permissão para reindexar a base de uma loja VTEX.
 

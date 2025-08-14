@@ -22,9 +22,7 @@ Las reglas de precio permiten que cambie el precio de un SKU para apenas una tab
 
 Por tanto, cuando combinamos esta regla con el precio base de un SKU, tenemos un nuevo valor. Este será el __precio calculado__ de un SKU dentro de una tabla.
 
-<div class="alert alert-info">
-El uso de las reglas de precio es <strong>opcional</strong>. Si algún SKU no tiene ningún modificador asociado, su precio para la tabla de precios en cuestión será el precio base registrado. 
-</div>
+> ℹ️ El uso de las reglas de precio es **opcional**. Si algún SKU no tiene ningún modificador asociado, su precio para la tabla de precios en cuestión será el precio base registrado.
 
 Las reglas de precio funcionan a partir de __cinco condiciones de configuración__: 
 

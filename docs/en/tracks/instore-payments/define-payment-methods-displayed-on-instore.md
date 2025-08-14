@@ -18,6 +18,4 @@ Once the payment condition has been created, you must create the filters that de
 
 To do this, your store developers must customize a JavaScript file. For more information, please refer to the guide [Define payment methods displayed on VTEX Sales App](https://developers.vtex.com/docs/guides/define-payment-methods-displayed-on-vtex-sales-app).
 
-<div class="alert alert-danger">
-<p>To enable payment conditions via the VTEX Sales App app, you must make changes to a JavaScript file. This operation must only be performed by people with programming experience. Incorrect changes to this file can cause critical errors.</p>
-</div>
+> ❗ To enable payment conditions via the VTEX Sales App app, you must make changes to a JavaScript file. This operation must only be performed by people with programming experience. Incorrect changes to this file can cause critical errors.

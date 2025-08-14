@@ -30,19 +30,15 @@ O cadastro do conector é feito no Admin da VTEX. Para realizá-lo, siga as inst
 - **Estoque mínimo*:** determina o valor mínimo de estoque de segurança. Se a quantidade de itens de um produto em estoque estiver abaixo do valor escolhido, seu anúncio é pausado para evitar que sejam feitas vendas sem estoque durante o tempo de atualização da Casas Bahia Marketplace pela VTEX. O valor de estoque mínimo é aplicado a todos os produtos, portanto verifique se algum produto deixaria de ser anunciado devido ao seu estoque inicial.
 - **Enviar KIT*:** ao escolher `Não`, SKUs [cadastrados como kit](https://help.vtex.com/pt/tutorial/cadastrando-kit--tutorials_215) não são enviados para a Casas Bahia Marketplace. Ao habilitar `Sim`, todos os itens da sua política comercial são enviados para o marketplace, sem filtrar SKUs cadastrados como kit. Mudanças na configuração do conector podem ser feitas a qualquer momento, sendo que isso não afeta SKUs que já tenham sido enviados. Por exemplo, se você mudasse sua configuração de `Sim` para `Não`, SKUs enviados anteriormente para a Casas Bahia Marketplace não seriam removidos ou sofreriam qualquer alteração. Se você mudar sua configuração de `Não` para `Sim`, você precisará [reindexar a base](https://help.vtex.com/pt/tutorial/manutencao-de-base-full-cleanup--34P9LGs7BCIQK6acQom802) para que a configuração seja aplicada.
 
-<div class="alert alert-info">
-Com a opção <i>Não</i> ativada, tentativas de envio para a Casas Bahia Marketplace de SKUs cadastrados como kit resultarão no seguinte aviso: <i>O conector está configurado para não enviar SKUs do tipo Kit</i>. Esta mensagem pode ser visualizada no Admin, no módulo <b>MARKETPLACE > Integrações > Produtos</b>, ao se clicar sobre o SKU.</div>
+> ℹ️ Com a opção *Não* ativada, tentativas de envio para a Casas Bahia Marketplace de SKUs cadastrados como kit resultarão no seguinte aviso: *O conector está configurado para não enviar SKUs do tipo Kit*. Esta mensagem pode ser visualizada no Admin, no módulo **MARKETPLACE > Integrações > Produtos**, ao se clicar sobre o SKU.
 
 - **E-mails Para Notificação de Pedidos Não Integrados*:** preencher com o e-mail do responsável técnico. Caso ocorra algum erro na integração do pedido, será enviada uma mensagem para o e-mail cadastrado.
 
-<div class="alert alert-warning">Caso você não aperte no botão <code>+</code> para inserir o E-MAIL PARA NOTIFICAÇÃO DE PEDIDOS NÃO INTEGRADOS, aparecerá um alerta de erro ao salvar a configuração.</div>  
+> ⚠️ Caso você não aperte no botão `+` para inserir o E-MAIL PARA NOTIFICAÇÃO DE PEDIDOS NÃO INTEGRADOS, aparecerá um alerta de erro ao salvar a configuração.  
 
 **Mapeamento de Campos Customizados (Nome e descrição):**  Para utilizar esse mapeamento é necessário criar um campo customizado. Para saber como criar campos customizados, acesse a documentação [Cadastrar especificações ou campos de produto](https://help.vtex.com/pt/tutorial/criando-um-campo-de-produto--tutorials_106).  
 
-<div class = "alert alert-info">
-  O mapeamento de campos customizáveis está disponível apenas para <b>nome do produto</b> e <b>descrição do produto</b>.
-<p><b>Exemplo de nome para o novo campo:</b> <code>CBH_ProductName</code> para nome do produto e <code>CBH_ProductDescription</code> para descrição do produto.</p>
-</div>  
+> ℹ️ O mapeamento de campos customizáveis está disponível apenas para **nome do produto** e **descrição do produto**. **Exemplo de nome para o novo campo:** `CBH_ProductName` para nome do produto e `CBH_ProductDescription` para descrição do produto.  
 
 Para o mapeamento funcionar, é necessário o seller seguir os seguintes passos:  
 
@@ -58,8 +54,5 @@ Obrigatoriamente `ProductName` para título do produto ou Obrigatoriamente `Prod
 `CBH_ProductName` para nome do produto e `CBH_ProductDescription` para descrição do produto.    
 4. Clique no botão e uma regra de mapeamento será adicionada a sua integração.  
 
-<div class="alert alert-info">
-Cada regra cadastrada mapeia apenas um campo.
-<p>Caso o campo mapeado não tenha um valor preenchido, será enviado o valor padrão de <code>Título</code> ou <code>Descrição</code> cadastrados no catálogo.
-</div>
+> ℹ️ Cada regra cadastrada mapeia apenas um campo. Caso o campo mapeado não tenha um valor preenchido, será enviado o valor padrão de `Título` ou `Descrição` cadastrados no catálogo.
 

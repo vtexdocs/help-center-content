@@ -26,31 +26,31 @@ Para crear un precio fijo en el Admin, sigue los pasos a continuación:
 
 <ol>
     <li>En el Admin VTEX, accede a <strong>Precios &gt; Lista de precios<strong>, o escribe <strong>Lista de precios<strong> en la barra de búsqueda en la parte superior de la página.</li>
-    <li>Haz clic en <code>Tablas de Precios</code>.</li>
+    <li>Haz clic en `Tablas de Precios`.</li>
     <li>Selecciona la tabla de precios deseada.</li>
     <li>Haz clic en la celda de precio de SKU en la tabla de precios deseada.</li>
-    <li>Haz clic en <strong>Definir precios fijos</strong>.</li>
-    <li>Haz clic en <strong>No se ha definido</strong>.</li>
+    <li>Haz clic en **Definir precios fijos**.</li>
+    <li>Haz clic en **No se ha definido**.</li>
     <li>Rellena los campos que se describen a continuación.</li>
     <ul>
-        <li><strong>Cantidad mínima:</strong> cantidad mínima del ítem que debe añadirse al carrito para que se aplique el precio fijo.</li>
-        <li><strong>Precio:</strong> el valor del precio fijo.</li>
-        <li><strong>Definir precio de lista:</strong> opción para añadir <i class="fas fa-toggle-on"></i> o no <i class="fas fa-toggle-off"></i> un precio de lista.
+        <li>**Cantidad mínima:** cantidad mínima del ítem que debe añadirse al carrito para que se aplique el precio fijo.</li>
+        <li>**Precio:** el valor del precio fijo.</li>
+        <li>**Definir precio de lista:** opción para añadir <i class="fas fa-toggle-on"></i> o no <i class="fas fa-toggle-off"></i> un precio de lista.
             <ul>
-                <li><strong>Precio de lista:</strong> precio de venta sugerido para el ítem.</li>
+                <li>**Precio de lista:** precio de venta sugerido para el ítem.</li>
             </ul>
         </li>
-        <li><strong>Programar precio fijo:</strong> opción para programar <i class="fas fa-toggle-on"></i> o no <i class="fas fa-toggle-off"></i> un precio fijo.
+        <li>**Programar precio fijo:** opción para programar <i class="fas fa-toggle-on"></i> o no <i class="fas fa-toggle-off"></i> un precio fijo.
             <ul>
-                <li><strong>Status:</strong> indica si la programación está activa o inactiva.</li>
-                <li><strong>Fecha de inicio:</strong> fecha de inicio de la programación del precio fijo. El precio fijo será válido a partir de esa fecha.</li>
-                <li><strong>Hora de inicio:</strong> hora de inicio de la programación del precio fijo. El precio fijo será válido a partir de esa hora.</li>
-                <li><strong>Fecha de término:</strong> fecha de término de la programación del precio fijo. El precio fijo deja de ser válido a partir de esa fecha.</li>
-                <li><strong>Hora de término:</strong> hora de término de la programación del precio fijo. El precio fijo deja de ser válido a partir de esa hora.</li>
+                <li>**Status:** indica si la programación está activa o inactiva.</li>
+                <li>**Fecha de inicio:** fecha de inicio de la programación del precio fijo. El precio fijo será válido a partir de esa fecha.</li>
+                <li>**Hora de inicio:** hora de inicio de la programación del precio fijo. El precio fijo será válido a partir de esa hora.</li>
+                <li>**Fecha de término:** fecha de término de la programación del precio fijo. El precio fijo deja de ser válido a partir de esa fecha.</li>
+                <li>**Hora de término:** hora de término de la programación del precio fijo. El precio fijo deja de ser válido a partir de esa hora.</li>
             </ul>
         </li>
     </ul>
-    <li>Haz clic en <code>Guardar</code>.</li>
+    <li>Haz clic en `Guardar`.</li>
 </ol>
 
 ### Eliminar precio fijo
@@ -62,9 +62,7 @@ Para eliminar un precio fijo existente, sigue los pasos que se indican a continu
 4. Haz clic en el precio fijo registrado.
 5. Haz clic en el botón `Eliminar`.
 
-<div class = "alert alert-info">
-No es posible realizar la eliminación masiva de precios fijos mediante la planilla. La eliminación debe hacerse manualmente, siguiendo los pasos anteriores, o a través de la API <a href="https://developers.vtex.com/docs/api-reference/pricing-api#delete-/pricing/prices/-itemId-/fixed/-priceTableId-">Delete fixed prices on a price table or trade policy.
-</div>
+> ℹ️ No es posible realizar la eliminación masiva de precios fijos mediante la planilla. La eliminación debe hacerse manualmente, siguiendo los pasos anteriores, o a través de la API <a href="https://developers.vtex.com/docs/api-reference/pricing-api#delete-/pricing/prices/-itemId-/fixed/-priceTableId-">Delete fixed prices on a price table or trade policy.
 
 ## Pricing API
 Para registrar un precio fijo mediante API, utiliza el endpoint [Create or update base or fixed prices](https://developers.vtex.com/docs/api-reference/pricing-api#put-/pricing/prices/-itemId-) de la Pricing API.

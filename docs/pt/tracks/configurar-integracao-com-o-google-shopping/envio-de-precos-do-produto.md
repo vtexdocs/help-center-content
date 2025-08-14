@@ -26,9 +26,7 @@ Para que essas promoções apareçam no Google Shopping, é preciso que os produ
 
 Com seus produtos seguindo todos os requisitos acima, a ferramenta aplica o valor promocional previamente configurado na VTEX, nas visualizações do Google Shopping.  
 
-<div class="alert alert-warning">
-  Caso exista uma promoção de desconto à vista (condicionada ao método de pagamento boleto ou pix), esse benefício será aplicado ao valor do produto antes do envio.
-  </div>
+> ⚠️ Caso exista uma promoção de desconto à vista (condicionada ao método de pagamento boleto ou pix), esse benefício será aplicado ao valor do produto antes do envio.
 
 ## Desconto vinculado ao método de pagamento  
 
@@ -44,10 +42,6 @@ Para configurar um desconto vinculado a um método de pagamento, é necessário 
 
 Após seguir essas documentações, a ativação deverá ser realizada através da [Configuração do conector](https://help.vtex.com/pt/tracks/configurar-integracao-com-o-google-shopping--25Sl7iOqq58PGfVfTAo8Xw/wWyl0Njxgs5KfXvxYZJrl).
 
-<div class="alert alert-warning">
-  Quando há vários sellers vinculados a um produto na sua loja, para o Google Shopping a regra é anunciar a melhor oferta disponível.
-  </div>
+> ⚠️ Quando há vários sellers vinculados a um produto na sua loja, para o Google Shopping a regra é anunciar a melhor oferta disponível.
 
-  <div class="alert alert-danger">
-  Cada promoção criada só pode ter um método de pagamento atrelado para que o desconto seja enviado ao Google Shooping.
-  </div>
+  > ❗ Cada promoção criada só pode ter um método de pagamento atrelado para que o desconto seja enviado ao Google Shooping.

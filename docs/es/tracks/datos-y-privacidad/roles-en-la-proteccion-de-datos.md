@@ -48,9 +48,7 @@ VTEX no utiliza los datos de los clientes finales para ningún otro fin que no s
 
 El DPA utilizado debe corresponder a la región específica del titular de los datos (cliente de la tienda).
 
-<div class="alert alert-warning">
-  <p>Accede a <a href="https://vtex.com/co-es/privacy-and-agreements/data-processing-addendum/">Data Processing Addendum - VTEX</a> para ver el DPA predeterminado de VTEX para cada región.</p>
-</div>
+> ⚠️ Accede a [Data Processing Addendum - VTEX](https://vtex.com/co-es/privacy-and-agreements/data-processing-addendum/) para ver el DPA predeterminado de VTEX para cada región.
 
 ## Responsabilidades compartidas
 

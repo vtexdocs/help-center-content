@@ -14,7 +14,5 @@ trackId: 6sgd4Pagy3wNsWKBvmIFrP
 trackSlugEN: integracion-de-amazon
 ---
 
-<div class="alert alert-warning">
-Contenido en traducción.
-</div>
+> ⚠️ Contenido en traducción.
 

@@ -19,9 +19,7 @@ Sus clientes pueden comprar con Apple Pay, la [cartera digital](https://help.vte
 - Tener cuenta en `developer.apple.com`.
 - Tener contrato con un proveedor que procese pagos con Apple Pay.
 
-<div class="alert alert-warning">
-  Actualmente, Apple Pay solo funciona en los sistemas operativos MacOs e IOS, y en el navegador Safari. Para obtener más información, vaya a <a href="https://support.apple.com/es-es/HT208531">Dispositivos compatibles con Apple Pay</a>.
-</div>
+> ⚠️ Actualmente, Apple Pay solo funciona en los sistemas operativos MacOs e IOS, y en el navegador Safari. Para obtener más información, vaya a [Dispositivos compatibles con Apple Pay](https://support.apple.com/es-es/HT208531).
 
 ## Configurar proveedor de pago
 
@@ -30,7 +28,7 @@ En primer lugar, debes configurar un proveedor en el Admin de tu tienda que proc
 Para consultar todas las opciones de proveedores disponibles para este método de pago, acceda a la lista como se describe en el Paso 5 de la sección [Configurar el pago con Apple Pay](#configurar-el-pago-con-apple-pay).
 
 <div class="alerta alerta-advertencia">
-  Antes de comenzar a configurar el proveedor, debe <a href="register your Merchant ID with Apple Pay">registrar su Merchant ID con Apple Pay</a>.
+  Antes de comenzar a configurar el proveedor, debe [registrar su Merchant ID con Apple Pay](register your Merchant ID with Apple Pay).
 </div>
 
 ## Configurar el pago con Apple Pay

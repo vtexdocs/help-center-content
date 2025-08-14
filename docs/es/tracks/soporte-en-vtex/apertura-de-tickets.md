@@ -24,10 +24,7 @@ Los tickets con el Soporte VTEX, detallados a continuación, se dividen en tres 
 - [Soporte financiero](https://help.vtex.com/es/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/3g2mhmPDx5GszNgLDICzsl): su objetivo es la resolución de problemas relacionados con contratos o asuntos financieros de tiendas que operan con VTEX.
 - [Soporte comercial](https://help.vtex.com/es/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ): su objetivo es la contratación de políticas comerciales adicionales, entornos adicionales, cuentas franquicia o cambios de usuario titular.
 
-<div class = "alert alert-info">
-Para más información sobre apertura de tickets y tipos existentes, consulta  <a href="https://help.vtex.com/es/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM">Abrir tickets con el Soporte VTEX.
-</a>
-</div>
+> ℹ️ Para más información sobre apertura de tickets y tipos existentes, consulta  [Abrir tickets con el Soporte VTEX. ](https://help.vtex.com/es/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM)
 
 ## Acceso a Copilot
 Copilot es una herramienta integrada en la plataforma que ofrece soporte técnico, resolviendo dudas e identificando problemas mediante orientación automática.
@@ -42,7 +39,7 @@ Sigue los pasos a continuación para acceder a Copilot y comenzar la interacció
    - Tengo un comportamiento inesperado
    - Necesito una configuración por parte de VTEX
 
-![Copilot-ES](//images.ctfassets.net/alneenqid6w5/13Btoe6i63BUHjlyVNRrpu/5bcd7fa04ac9536d42d2e785e6acf51c/copilot-es.gif)
+![Copilot-ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/soporte-en-vtex/apertura-de-tickets_1.gif)
 
 Copilot responderá automáticamente y te guiará a través del proceso. Si tu pregunta no se resuelve durante la interacción con Copilot, puedes abrir un ticket manualmente.
 

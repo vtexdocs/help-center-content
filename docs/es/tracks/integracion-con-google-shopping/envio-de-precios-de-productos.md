@@ -39,10 +39,6 @@ Para configurar un descuento vinculado a un medio de pago debes considerar la in
 
 Una vez realizados los pasos anteriormente descritos, la activación deberá realizarse a través de la [configuración del conector](https://help.vtex.com/es/tracks/configurar-integracao-com-o-google-shopping--25Sl7iOqq58PGfVfTAo8Xw/wWyl0Njxgs5KfXvxYZJrl).
 
-<div class="alert alert-warning">
-En caso de que haya varios sellers vinculados a un producto de tu tienda, Google Shopping aplicará la regla de anunciar la mejor oferta disponible.
-  </div>
+> ⚠️ En caso de que haya varios sellers vinculados a un producto de tu tienda, Google Shopping aplicará la regla de anunciar la mejor oferta disponible.
 
-  <div class="alert alert-danger">
-Para que el descuento se envíe a Google Shopping, cada promoción creada solo puede tener vinculado un medio de pago.
-  </div>
+  > ❗ Para que el descuento se envíe a Google Shopping, cada promoción creada solo puede tener vinculado un medio de pago.

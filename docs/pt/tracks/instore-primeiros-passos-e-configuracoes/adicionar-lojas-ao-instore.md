@@ -25,7 +25,7 @@ Esta página permite que você realize as seguintes ações:
 * [Editar](#editar-loja-fisica)
 * [Inativar](#inativar-loja-fisica)
 
-![loja-fisica-PT](//images.ctfassets.net/alneenqid6w5/6C1IhZgOyHi06ZogDIfTcF/0c7eafb7209254cfca3224ccb820012e/image.png)
+![loja-fisica-PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/instore-primeiros-passos-e-configuracoes/adicionar-lojas-ao-instore_1.png)
 
 A página apresenta as seguintes informações: 
 
@@ -51,7 +51,7 @@ Você pode cadastrar uma loja física seguindo os passos a seguir:
 
 ### Campos de cadastro da loja física
 
-![loja-fisica2-pt](//images.ctfassets.net/alneenqid6w5/60OAU1QatgSvdghvRebAOW/92f54533a7b36d602d4108760ba3c7e0/image.png)
+![loja-fisica2-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/instore-primeiros-passos-e-configuracoes/adicionar-lojas-ao-instore_2.png)
 
 #### Identificação
 
@@ -75,9 +75,7 @@ Você pode cadastrar uma loja física seguindo os passos a seguir:
 * **Política comercial:** [política comercial](https://help.vtex.com/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) que será aplicada na loja física. Campo obrigatório.
 * **Ponto de retirada:** [ponto de retirada](https://help.vtex.com/pt/tutorial/pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R) cadastrado para essa loja física, onde clientes retiram seus pedidos. 
 
-<div class ="alert alert-info">
-<p>As alterações podem levar até 15 minutos para serem processadas e aplicadas no VTEX Sales App.</p> 
-</div>
+> ℹ️ As alterações podem levar até 15 minutos para serem processadas e aplicadas no VTEX Sales App.
 
 ## Buscar loja física
 

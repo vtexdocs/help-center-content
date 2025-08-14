@@ -42,6 +42,4 @@ To do this validation, you can use the [Shipping simulator](https://help.vtex.co
 * Whether there are pickup points available for that product.
 * Which [white label seller](https://help.vtex.com/en/tutorial/what-are-franchise-account-and-seller-white-label--5orlGHyDHGAYciQ64oEgKa) will deliver the product. 
 
-<div class = "alert alert-info">
-You can also simulate shipping options via the <a href="https://developers.vtex.com/vtex-rest-api/reference/calculatesla">SLA calculation API</a>. 
-</div>
+> ℹ️ You can also simulate shipping options via the [SLA calculation API](https://developers.vtex.com/vtex-rest-api/reference/calculatesla).

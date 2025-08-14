@@ -14,4 +14,4 @@ trackId: 3E9XylGaJ2wqwISGyw4GuY
 trackSlugEN: integracion-de-casas-bahia-marketplace
 ---
 
-<div class="alert alert-warning" role="alert">Este contenido es exclusivamente regional; por lo tanto, no se aplica a los países de habla española.</div>
+> ⚠️ Este contenido es exclusivamente regional; por lo tanto, no se aplica a los países de habla española.

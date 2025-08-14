@@ -55,9 +55,7 @@ Al principio, las principales acciones que solo pueden ser ejecutadas por el usu
 
 Existen otras acciones que están restringidas a este usuario. Puedes ver la lista en el artículo [Usuario titular](https://help.vtex.com/es/tutorial/o-que-e-o-usuario-titular--3oPr7YuIkEYqUGmEqIMSEy#acciones-restringidas-al-usuario-titular).
 
-<div class="alert alert-warning">
-El <strong>usuario titular</strong> difiere del usuario <strong>Owner (Admin Super)</strong>. El usuario <strong>Owner (Admin Super)</strong> es un <a href="https://help.vtex.com/es/tutorial/perfis-de-acesso-predefinidos--jGDurZKJHvHJS13LnO7Dy">rol</a> de <a href="https://help.vtex.com/es/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3">License Manager</a> que define los permisos concedidos a un usuario y puede asignarse a varios usuarios. Sin embargo, solo hay un <strong>usuario titular</strong> por <a href="https://help.vtex.com/es/tutorial/o-que-e-account-name--i0mIGLcg3QyEy8OCicEoC">cuenta</a>.
-</div>
+> ⚠️ El **usuario titular** difiere del usuario **Owner (Admin Super)**. El usuario **Owner (Admin Super)** es un [rol](https://help.vtex.com/es/tutorial/perfis-de-acesso-predefinidos--jGDurZKJHvHJS13LnO7Dy) de [License Manager](https://help.vtex.com/es/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) que define los permisos concedidos a un usuario y puede asignarse a varios usuarios. Sin embargo, solo hay un **usuario titular** por [cuenta](https://help.vtex.com/es/tutorial/o-que-e-account-name--i0mIGLcg3QyEy8OCicEoC).
 
 ## Usuarios y permisos
 
@@ -85,9 +83,9 @@ La tabla a continuación detalla los tres tipos de autenticación disponibles:
 
 | **Tipo de autenticación** | **Descripción** |
 | :---: | :--- |
-| Autenticación de requests a API mediante <a href="https://help.vtex.com/es/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet">claves de aplicación</a> (appKeys) | <p>Las claves de aplicación (appKeys) se utilizan para autenticar requests a API de VTEX. Los administradores de la tienda pueden crear las claves para diferentes integraciones.</p><p>Para más información, consulta <a href="https://developers.vtex.com/docs/guides/api-authentication-using-application-keys">API authentication using application keys</a>.</p> |
-| Autenticación de requets a API mediante tokens de usuario | <p>Los tokens de usuarios se utilizan para autenticar requests a API, especialmente en aplicaciones <a href="https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ">frontend</a> desarrolladas con VTEX IO.</p><p>Para más información, consulta <a href="https://developers.vtex.com/docs/guides/api-authentication-using-user-tokens">API authentication using user tokens</a>.</p> |
-| Autenticación de aplicaciones mediante tokens de autenticación | <p>El uso de tokens de autenticación (auth tokens) es necesario para la autenticación cuando se desarrollan aplicaciones en VTEX IO.</p><p>Para más información, consulta <a href="https://developers.vtex.com/docs/guides/app-authentication-using-auth-tokens">App authentication using auth tokens</a>.</p> |
+| Autenticación de requests a API mediante [claves de aplicación](https://help.vtex.com/es/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet) (appKeys) | Las claves de aplicación (appKeys) se utilizan para autenticar requests a API de VTEX. Los administradores de la tienda pueden crear las claves para diferentes integraciones.Para más información, consulta [API authentication using application keys](https://developers.vtex.com/docs/guides/api-authentication-using-application-keys). |
+| Autenticación de requets a API mediante tokens de usuario | Los tokens de usuarios se utilizan para autenticar requests a API, especialmente en aplicaciones [frontend](https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ) desarrolladas con VTEX IO.Para más información, consulta [API authentication using user tokens](https://developers.vtex.com/docs/guides/api-authentication-using-user-tokens). |
+| Autenticación de aplicaciones mediante tokens de autenticación | El uso de tokens de autenticación (auth tokens) es necesario para la autenticación cuando se desarrollan aplicaciones en VTEX IO.Para más información, consulta [App authentication using auth tokens](https://developers.vtex.com/docs/guides/app-authentication-using-auth-tokens). |
 
 ## Políticas comerciales
 
@@ -104,7 +102,7 @@ Toda integración con un canal de ventas debe tener una política comercial asoc
 Dependiendo de su arquitectura en VTEX, la tienda puede beneficiarse de tener más de una política comercial, o asociar estrategias de varias políticas comerciales a [multitiendas](https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#multitienda) y [entornos adicionales](https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#entorno-adicional). El artículo [Cuentas y arquitectura](https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl) explica en detalle la relación entre estos conceptos.
 
 <div>
-Para <a href="https://help.vtex.com/es/tutorial/criar-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE">crear una política comercial</a> y para <a href="https://help.vtex.com/es/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X">contratar políticas comerciales adicionales</a>, debes ponerte en contacto con el <a href="https://help.vtex.com/es/tracks/soporte-en-vtex--4AXsGdGHqExp9ZkiNq9eMy/7w7cUmbrdPEKpTMItjXEB8">equipo de soporte de VTEX</a>.
+Para [crear una política comercial](https://help.vtex.com/es/tutorial/criar-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE) y para [contratar políticas comerciales adicionales](https://help.vtex.com/es/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X), debes ponerte en contacto con el [equipo de soporte de VTEX](https://help.vtex.com/es/tracks/soporte-en-vtex--4AXsGdGHqExp9ZkiNq9eMy/7w7cUmbrdPEKpTMItjXEB8).
 </div>
 
 ## Edition Apps

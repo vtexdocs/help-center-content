@@ -16,15 +16,11 @@ trackSlugEN: instore-first-steps-and-configurations
 
 VTEX Sales App is one of VTEX's main products for [unified commerce](https://help.vtex.com/pt/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv) operations. It enables your store to provide a true omnichannel experience, integrating your online and physical channels and placing customers at the core of your business.
 
-<div class="alert alert-info">
-Before you start using VTEX Sales App, make sure your store meets all the <a href="https://help.vtex.com/en/tracks/instore-primeiros-passos--6N0QlieWqboSVU2ehgAVAb/1wtAanSRA3g2316dw7bw8u">prerequisites</a>.
-</div>
+> ℹ️ Before you start using VTEX Sales App, make sure your store meets all the [prerequisites](https://help.vtex.com/en/tracks/instore-primeiros-passos--6N0QlieWqboSVU2ehgAVAb/1wtAanSRA3g2316dw7bw8u).
 
 To use VTEX Sales App, follow the steps below in your main account.
 
-<div class="alert alert-warning">
-There is no need to install or configure VTEX Sales App on franchise accounts representing physical stores. You should only configure these settings on the main brand account.
-</div>
+> ⚠️ There is no need to install or configure VTEX Sales App on franchise accounts representing physical stores. You should only configure these settings on the main brand account.
 
 ## Installing VTEX Sales App
 
@@ -62,9 +58,7 @@ You can [add other stores later](https://help.vtex.com/en/tracks/instore-setting
 
 In this section, you need to define an email and a name to be used as the sales associate's login credentials. If you want, you can include an identification code for the sales associate. Once defined, click `Continue`.
 
-<div class="alert alert-warning">
-The email entered on this screen can't already be in use in the VTEX Admin. Use sales associate emails without Admin access.
-</div>
+> ⚠️ The email entered on this screen can't already be in use in the VTEX Admin. Use sales associate emails without Admin access.
 
 In this step, you'll add only one of your sales associates. After configuring the basic settings, you can [add other sales associates](https://help.vtex.com/en/tracks/instore-setting-up--zav76TFEZlAjnyBVL5tRc/5PSjRstg7UU4lOm0s8aqKN).
 
@@ -96,9 +90,7 @@ To configure the binding and ensure the store catalog is displayed in VTEX Sales
 5. In the **Available Sales Channels** section, select the trade policy you want to link to the binding.
 6. Click `Save Binding`.
 
-<div class="alert alert-warning">
-Make sure the trade policy is correctly configured in your VTEX Admin before linking it to the binding. This configuration is essential to ensure the store catalog displays correctly in VTEX Sales App.
-</div>
+> ⚠️ Make sure the trade policy is correctly configured in your VTEX Admin before linking it to the binding. This configuration is essential to ensure the store catalog displays correctly in VTEX Sales App.
 
 ## Configuring logistics
 

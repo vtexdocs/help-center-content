@@ -21,17 +21,13 @@ In the VTEX Admin, when you go to **Apps > Live Shopping** and click the arrow i
 * [Settings - Configuring functionalities](#settings-configuring-functionalities)
 * [CMS Configuration - Configuring content presentation](#cms-configuration-configuring-content-presentation)
 
-<div class="alert alert-warning">
-  <p>This article presents the main configurations for an event, so it doesn't cover all sections of the <b>Event Information</b> page. For more information, check the <a href="https://help.vtex.com/en/tutorial/live-shopping-events--6aGLiqoKG1UoS30f3FFWch">Live Shopping: Events article</a>.</p>
-</div>
+> ⚠️ This article presents the main configurations for an event, so it doesn't cover all sections of the **Event Information** page. For more information, check the [Live Shopping: Events article](https://help.vtex.com/en/tutorial/live-shopping-events--6aGLiqoKG1UoS30f3FFWch).
 
 ## Layout type - Configuring style
 
 The layout defines the screen format seen by customers during the event transmission, therefore, it determines the event recording format.
 
-<div class="alert alert-danger">
-  <p>The broadcasting studio takes the layout of the first person who enters, so you must set up the event layout before entering the streaming studio. Although it is possible to modify the layout via VTEX Admin later, it is not possible to change it within the streaming studio.</p>
-</div>
+> ❗ The broadcasting studio takes the layout of the first person who enters, so you must set up the event layout before entering the streaming studio. Although it is possible to modify the layout via VTEX Admin later, it is not possible to change it within the streaming studio.
 
 ### Screen format
 
@@ -40,13 +36,11 @@ In the **Layout Type** section, you can choose the desired layout format for bro
 * **Landscape (16:9):** Provides a horizontal view of the transmission, optimized for desktop screens.
 * **Portrait Transmission (9:16):** Provides a portrait view of the transmission, optimized for mobile screens.
 
-![article_7_screen_format_EN](//images.ctfassets.net/alneenqid6w5/2EpPRgxSsLdIYt1JtcxCb8/130ce5d114d4efd2e9751c588b2a3931/article_7_screen_format_EN.png)
+![article_7_screen_format_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-live-shopping-getting-started/configuring-event_1.png)
 
 The screen format is **Landscape (16:9)** by default, but you can change it by clicking the **Portrait (9:6)** view. The blue checkmark indicates the selected option.
 
-<div class="alert alert-info">
-  <p>Note that once the transmission using the Bundle studio starts, the screen layout cannot be altered anymore. To change it, it would be necessary to create a new event.</p>
-</div>
+> ℹ️ Note that once the transmission using the Bundle studio starts, the screen layout cannot be altered anymore. To change it, it would be necessary to create a new event.
 
 ### Style customization
 
@@ -62,9 +56,7 @@ By default, an event has a neutral visual style that is suitable for stores and 
 * Chat title
 * Send message button
 
-<div class="alert alert-info">
-  <p>The customizations above are made by clicking the <b>Customize the look and feel</b> button and filling in the Look and Feel page according to your preferences. For the complete step by step, see the <a href="https://help.vtex.com/en/tutorial/live-shopping-events--6aGLiqoKG1UoS30f3FFWch">Live Shopping: Events article</a>.</p>
-</div>
+> ℹ️ The customizations above are made by clicking the **Customize the look and feel** button and filling in the Look and Feel page according to your preferences. For the complete step by step, see the [Live Shopping: Events article](https://help.vtex.com/en/tutorial/live-shopping-events--6aGLiqoKG1UoS30f3FFWch).
 
 ## Live chat - Configuring administrator name
 
@@ -74,9 +66,7 @@ The **Live chat** section is where you manage the live chat during your event. I
 2. In the **Store data** window, fill in the box with the desired administrator name.
 3. Click `Confirmar`.
 
-<div class="alert alert-info">
-  <p>To know how to pin messages, block users, delete messages and perform other actions in the event chat, check the article <a href="https://help.vtex.com/en/tutorial/live-shopping-events--6aGLiqoKG1UoS30f3FFWch">Live Shopping: Events</a>.</p>
-</div>
+> ℹ️ To know how to pin messages, block users, delete messages and perform other actions in the event chat, check the article [Live Shopping: Events](https://help.vtex.com/en/tutorial/live-shopping-events--6aGLiqoKG1UoS30f3FFWch).
 
 ## Settings - Configuring functionalities
 
@@ -84,9 +74,9 @@ In the **Settings** section, you can enable or disable the following event featu
 
 | **Topic** | **Feature** |
 | :---: | :--- |
-| Chat | <p><ul><li><b>Email required:</b> By default, to allow the audience to participate in the live event chat, only their name is required. When you enable this field, they also have to provide an email address.</li><li><b>Enable email sending:</b> When this field is enabled, if the audience asks a question and the administrator responds via chat, an email notification is sent to the user with the response. This helps to maintain interaction with the end user even outside the chat.</li></ul></p> |
-| Player | <p><ul><li><b>Viewer visibility:</b> Displays the number of viewers currently watching the live stream event. This number is not cumulative.</li><li><b>Popup transmission:</b> Allows displaying the entire Live Shopping component (chat, player, and product sidebar) in a popup format, drawing the audience full attention while they are watching the event. The public can close the popup anytime, by clicking the X in the corner, so that they return to the normal format.</li></ul></p> |
-| Products | <p><ul><li><b>Apply tax:</b> Permits the application of taxes to products showcased during the live event. When this option is activated, the module <b>Promotions > Taxes</b> will display the product price along with the applicable tax.</li></ul></p> |
+| Chat | <ul><li>**Email required:** By default, to allow the audience to participate in the live event chat, only their name is required. When you enable this field, they also have to provide an email address.</li><li>**Enable email sending:** When this field is enabled, if the audience asks a question and the administrator responds via chat, an email notification is sent to the user with the response. This helps to maintain interaction with the end user even outside the chat.</li></ul> |
+| Player | <ul><li>**Viewer visibility:** Displays the number of viewers currently watching the live stream event. This number is not cumulative.</li><li>**Popup transmission:** Allows displaying the entire Live Shopping component (chat, player, and product sidebar) in a popup format, drawing the audience full attention while they are watching the event. The public can close the popup anytime, by clicking the X in the corner, so that they return to the normal format.</li></ul> |
+| Products | <ul><li>**Apply tax:** Permits the application of taxes to products showcased during the live event. When this option is activated, the module **Promotions > Taxes** will display the product price along with the applicable tax.</li></ul> |
 
 ## CMS Configuration - Configuring content presentation
 
@@ -97,7 +87,7 @@ In the **CMS Configuration** section, you can set up how the content will be pre
 * **Chat:** Enables your audience to interact via chat during the live event. Note that if the chat is hidden, the question option will also be hidden, as this functionality is displayed above the chat.
 * **Like:** Allows users to react during the live event with the like button that has the shape of a heart.
 
-![article_7_cms_configuration_EN](//images.ctfassets.net/alneenqid6w5/2Tb8TErEdECiHpuwvJs53G/72ea57ddb2ab71f875e0b9ab2e46983e/article_7_cms_configuration_EN.png)
+![article_7_cms_configuration_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-live-shopping-getting-started/configuring-event_2.png)
 
 * **Checkout cart:** Provides an `Add to cart` button that, when clicked by your audience, opens a new tab to the checkout with the product added to the customer shopping cart. The PiP (Picture in Picture) mode will also be activated, allowing the customer to continue watching the live stream while completing the purchase.
 * **Quick view:** Permits your audience to have a view of the live event while seeing product variations. When the customer clicks the `Add to cart` button, a quick product view opens up, in a way that doesn’t hide the event transmission. This allows the customer to choose the size and color of a product, for example, while watching the event. 
@@ -105,9 +95,7 @@ In the **CMS Configuration** section, you can set up how the content will be pre
 * **Infinite scroll:** Implements an infinite scroll for the sidebar products option that automatically scrolls every N seconds, so that your audience can view all the products without any additional action. 
     * The automatic scroll speed is by default set to 10 seconds, but you can change it by filling in the box with the desired number. We recommended configuring within 3 to 100 seconds.
 
-<div class="alert alert-info">
-  <p>Almost all of the functionalities above are enabled by default, the ones that aren't already enabled are <b>Product carousel</b> and <b>Checkout cart</b>.</p>
-</div>
+> ℹ️ Almost all of the functionalities above are enabled by default, the ones that aren't already enabled are **Product carousel** and **Checkout cart**.
 
 ### Script for template
 
@@ -125,6 +113,4 @@ To have a preview of the event, in the **Event Information > CMS Configuration**
 * Product sidebar
 * Product highlights
 
-<div class="alert alert-danger">
-  <p>We highly recommend you to perform additional checks on the entire website to ensure everything is working properly. The <b>Preview</b> checks only certain components of <b>Live Shopping</b>.</p>
-</div>
+> ❗ We highly recommend you to perform additional checks on the entire website to ensure everything is working properly. The **Preview** checks only certain components of **Live Shopping**.

@@ -32,9 +32,7 @@ Si desea enviar los atributos de sus productos a Facebook, hay una etapa adicion
 
 La etapa adicional es la realización de un mapeo de las especificaciones de los productos. El mapeo permite la correspondencia entre los atributos registrados en su tienda VTEX y los estándares adoptados por Facebook.
 
-<div class="alert alert-warning">
-El mapeo de atributos por plantilla es opcional; sin embargo, si decide realizarlo debe efectuar todos los pasos que se describen en este artículo. De lo contrario, pueden producirse errores en la integración.
-</div>
+> ⚠️ El mapeo de atributos por plantilla es opcional; sin embargo, si decide realizarlo debe efectuar todos los pasos que se describen en este artículo. De lo contrario, pueden producirse errores en la integración.
 
 ## Envío de atributos a Facebook
 
@@ -54,9 +52,7 @@ El primer paso para realizar el mapeo es descargar el archivo [Plantilla de mape
 
 El segundo paso para el mapeo es completar los datos en el archivo descargado. La plantilla consta de una sola pestaña, en la que se puede identificar cinco columnas.
 
-<div class="alert alert-info">
-La plantilla de mapeo de Facebook es case sensitive, es decir, distingue el uso de letras mayúsculas y minúsculas.
-</div>
+> ℹ️ La plantilla de mapeo de Facebook es case sensitive, es decir, distingue el uso de letras mayúsculas y minúsculas.
 
 - **Primera columna, ID Category:** se debe completar con el número de identificación de la categoría del producto en la plataforma VTEX. Puede encontrar el ID de una categoría en el Admin, en el módulo _Productos > Catálogo > Categorías_. El ID de la categoría es el número que se encuentra a la izquierda del nombre de la categoría.
 - **Segunda columna, VTEX attribute name:** debe contener el nombre del atributo registrado en VTEX.
@@ -65,9 +61,7 @@ La plantilla de mapeo de Facebook es case sensitive, es decir, distingue el uso 
 - **Tercera columna, Facebook attribute name:** se debe completar con el término utilizado por Facebook que corresponde a cada atributo. 
 > Ejemplo: la correspondencia de Facebook para el atributo _Color_ es _Color_.
 
-  <div class="alert alert-info">
-Para conocer los nombres de los atributos y los valores de referencia, consulte la documentación de Facebook <a href="https://developers.facebook.com/docs/commerce-platform/catalog/fields?locale=es_LA#universal-basic-attributes">Universal Basic Attributes</a>. Si no hay ninguna correspondencia para un atributo o valor, complete la columna Facebook attribute name con el mismo término utilizado en VTEX.
-</div>
+  > ℹ️ Para conocer los nombres de los atributos y los valores de referencia, consulte la documentación de Facebook [Universal Basic Attributes](https://developers.facebook.com/docs/commerce-platform/catalog/fields?locale=es_LA#universal-basic-attributes). Si no hay ninguna correspondencia para un atributo o valor, complete la columna Facebook attribute name con el mismo término utilizado en VTEX.
 
 - **Cuarta columna, VTEX attribute value:** se debe completar con los valores de sus atributos en VTEX.
 > Ejemplo: supongamos que para el atributo _Género_ existe el valor _Femenino_ en su tienda VTEX. Por lo tanto, la columna VTEX attribute value se debe completar con la palabra _Femenino_. 

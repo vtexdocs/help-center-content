@@ -26,7 +26,7 @@ Ao clicar sobre o nome de uma conta específica, a tela __Detalhes da conta__ ex
 - [Encerramento de conta](#encerramento-da-conta)
 <br>
 <br>
-![Conta_PT](//images.ctfassets.net/alneenqid6w5/3Wu6HcL5NbC5XS5YdiF3Dx/7a4da3fc9797c2256f03e5811b06475d/Contas_PT.png)
+![Conta_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/customer-credit-como-comecar/gerenciando-contas_1.png)
 
 ## Titular
 
@@ -36,9 +36,7 @@ Apresenta informações sobre o status da conta (ativa, inativa), código de ide
 
 Exibe o valor do crédito disponível para o cliente utilizar em compras e o valor total a ser pago (em títulos), por compras já realizadas utilizando o Customer Credit como meio de pagamento.
 
-<div class="alert alert-warning">
-Quando o cliente realiza uma compra utilizando o Customer Credit, mas o pedido ainda não foi faturado (título emitido), o campo <b>Crédito reservado</b> também é exibido nesta tela contendo a informação do valor do pedido.
-</div>
+> ⚠️ Quando o cliente realiza uma compra utilizando o Customer Credit, mas o pedido ainda não foi faturado (título emitido), o campo **Crédito reservado** também é exibido nesta tela contendo a informação do valor do pedido.
 
 ## Gerenciar
 
@@ -74,6 +72,4 @@ A partir deste momento, o cliente e seu dependente poderão utilizar de forma co
 
 Caso deseje encerrar a conta do cliente, na seção __Outros__, clique em `FECHAR CONTA`.
 
-<div class="alert alert-warning">
-Uma conta do Customer Credit fechada não poderá ser reaberta novamente e os dados de títulos, extrato e dependentes adicionais serão apagados. Entretanto, após concluir o encerramento da conta, caso deseje, você poderá <a href="https://help.vtex.com/pt/tracks/customer-credit-como-comecar--1hCRg21lXYy2seOKgqQ2CC/7FHLd0cmxqqGeEUuc8uioU#criar-contas-individualmente">abrir uma nova conta</a> para o cliente utilizando o mesmo email da conta encerrada.
-</div>
+> ⚠️ Uma conta do Customer Credit fechada não poderá ser reaberta novamente e os dados de títulos, extrato e dependentes adicionais serão apagados. Entretanto, após concluir o encerramento da conta, caso deseje, você poderá [abrir uma nova conta](https://help.vtex.com/pt/tracks/customer-credit-como-comecar--1hCRg21lXYy2seOKgqQ2CC/7FHLd0cmxqqGeEUuc8uioU#criar-contas-individualmente) para o cliente utilizando o mesmo email da conta encerrada.

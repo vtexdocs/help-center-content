@@ -20,9 +20,7 @@ The three main category levels are called __Department__, __Category__, and __Su
 
 Categories are also where you need to configure the Specifications (or Fields), that represent the properties you will add to the products or SKUs. We will have a closer look at the relationship between categories, products, SKUs and specifications during the next steps.
 
-<div class="alert alert-info"> 
-We suggest that your store’s category trees have no more than three levels of hierarchy. This will allow your customers to browse your store with more ease. 
-</div>
+> ℹ️ We suggest that your store’s category trees have no more than three levels of hierarchy. This will allow your customers to browse your store with more ease.
 
 ## Department
 
@@ -34,9 +32,7 @@ It is the highest level within the categories tree. More specific categories sho
 
 The category tree’s second hierarchy level is called __Category__. This level is under the __Department__ level and above the __Subcategory__ level.
 
-<div class="alert alert-info">
-The term "category" is typically used to refer to a generic segmentation concept. At VTEX, the term "Category" is also used to refer to the category tree’s second hierarchy level.
-</div>
+> ℹ️ The term "category" is typically used to refer to a generic segmentation concept. At VTEX, the term "Category" is also used to refer to the category tree’s second hierarchy level.
 
 ## Subcategory 
 

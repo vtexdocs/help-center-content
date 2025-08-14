@@ -28,7 +28,7 @@ To learn more about the financial agents involved in the payment flow of an orde
 
 The complete credit card payment flow at VTEX is shown in the following scheme:
 
-![Credit Card - Basic payment flow](//images.ctfassets.net/alneenqid6w5/64zjpwrBkpqbOhR7vtZhKs/dbee2595f3dda339db8010cb8d00f67d/payments_image1_EN.JPG)
+![Credit Card - Basic payment flow](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/payments/credit-card-payment-flow_1.JPG)
 
 1. On the Checkout screen of your store, the customer chooses the _credit card_ **Payment Method** to complete the purchase.
 
@@ -42,7 +42,5 @@ The complete credit card payment flow at VTEX is shown in the following scheme:
 
 Upon the issuing bank's response, the reverse flow is performed and the **Payment Gateway** receives information whether the payment has been approved or denied.
 
-<div class="alert alert-info">
-It is possible to include Anti-fraud in this flow. In this case, the anti-fraud receives from the gateway the information that the payment has been pre-authorized by the issuing bank. With the information received from the gateway, the anti-fraud sends a payment approval or denial response. If the anti-fraud denies, the payment is canceled. If the payment is approved, the order can proceed its normal flow.
-</div>
+> ℹ️ It is possible to include Anti-fraud in this flow. In this case, the anti-fraud receives from the gateway the information that the payment has been pre-authorized by the issuing bank. With the information received from the gateway, the anti-fraud sends a payment approval or denial response. If the anti-fraud denies, the payment is canceled. If the payment is approved, the order can proceed its normal flow.
 

@@ -16,9 +16,7 @@ trackSlugEN: logistics-101
 
 Inventory is the feature for managing products available for sale. Once [products have been added](https://help.vtex.com/en/tutorial/product-registration-fields--4dYXWIK3zyS8IceKkQseke) to the [catalog](https://help.vtex.com/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3rA2tTpIoEXdv2nzC27zxR), they must be listed in a warehouse to become available for sale. The [Inventory management](https://help.vtex.com/en/tutorial/managing-stock-items--tutorials_139) module is where catalog items are associated with a warehouse.
 
-<div class = "alert alert-info">
-Remember to add at least one <a href="https://help.vtex.com/en/tutorial/warehouse--6oIxvsVDTtGpO7y6zwhGpb">warehouse</a> in your store before using the <a href="https://help.vtex.com/en/tutorial/managing-stock-items--tutorials_139">Inventory</a>. 
-</div>
+> ℹ️ Remember to add at least one [warehouse](https://help.vtex.com/en/tutorial/warehouse--6oIxvsVDTtGpO7y6zwhGpb) in your store before using the [Inventory](https://help.vtex.com/en/tutorial/managing-stock-items--tutorials_139).
 
 In the inventory, retailers can see:
 
@@ -31,9 +29,7 @@ To add items in bulk to the inventory, use the inventory template to import them
 
 Use the [critical inventory level alert](https://help.vtex.com/en/tutorial/setting-up-the-critical-stock-alert--6FD0GHeQPCsKIMgkQ88SGu) to receive notifications when an item is almost out of stock.
 
-<div class = "alert alert-info">
-You can also set up your inventory via the <a href="https://developers.vtex.com/vtex-rest-api/reference/inventory"> Inventory API.</a>
-</div>
+> ℹ️ You can also set up your inventory via the [ Inventory API.](https://developers.vtex.com/vtex-rest-api/reference/inventory)
 
 ### Learn more
 

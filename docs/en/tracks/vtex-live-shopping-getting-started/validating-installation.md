@@ -14,9 +14,7 @@ trackId: 3eCHNCIx8XhZOSmX0sQT3U
 trackSlugEN: vtex-live-shopping-getting-started
 ---
 
-<div class = "alert alert-info">
-  <p>This section applies to stores using Store Framework (VTEX IO), Legacy CMS Portal or Headless CMS, but not to external stores, which receive a code to use the <a href="https://platform.nizza.com/login">Nizza</a> platform.</p>
-</div>
+> ℹ️ This section applies to stores using Store Framework (VTEX IO), Legacy CMS Portal or Headless CMS, but not to external stores, which receive a code to use the [Nizza](https://platform.nizza.com/login) platform.
 
 When **Live Shopping** is successfully installed, it contains four pages in your VTEX Admin:
 
@@ -35,9 +33,7 @@ In your VTEX Admin, go to **Apps** and check if **Live Shopping** is visible, or
 
 To validate the installation, follow the steps below:
 
-<div class="alert alert-danger">
-  <p>Don't click <code>Save</code> in this step by step, this must be done only when you're ready to start transmitting the event.</p>
-</div>
+> ❗ Don't click `Save` in this step by step, this must be done only when you're ready to start transmitting the event.
 
 1. In the **Site Editor**, navigate to the location where the Live Shopping block was installed (Home, Landing, or Category Page).
 2. Ensure the **Live Shopping** block is visible.

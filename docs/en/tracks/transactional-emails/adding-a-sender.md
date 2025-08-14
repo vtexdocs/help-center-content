@@ -42,8 +42,6 @@ Once that is done, go back to the Admin settings page and check the "This is the
 
 Whenever you deem it necessary, you can test if email sending is working by accessing the Senders section and clicking on the __Test__ button on the card with the desired sender.
 
-<div class="alert alert-warning">
-Warning: Whenever you make a change to the sender and save it, an email confirming that the SMTP was successfully registered will be sent to the address you entered. In all cases, it is essential to click on the link received in the email to complete the confirmation.
-</div>
+> ⚠️ Warning: Whenever you make a change to the sender and save it, an email confirming that the SMTP was successfully registered will be sent to the address you entered. In all cases, it is essential to click on the link received in the email to complete the confirmation.
   
 

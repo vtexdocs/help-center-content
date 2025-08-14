@@ -24,5 +24,5 @@ If you wish to receive your payments in debit mode on VTEX Sales App, follow the
 6. Click `Save`.
 
 <div class="alert-info">
-<p>In addition to the settings above, you must follow the <strong><a href="https://help.vtex.com/en/tracks/instore-pagamentos--43B4Nr7uZva5UdwWEt3PEy/jHQQcyX3WKeUFidwSjmY1">Define payment methods displayed in VTEX Sales App</a></strong> guide so that the payment options are displayed correctly in the app.</p>
+In addition to the settings above, you must follow the **[Define payment methods displayed in VTEX Sales App](https://help.vtex.com/en/tracks/instore-pagamentos--43B4Nr7uZva5UdwWEt3PEy/jHQQcyX3WKeUFidwSjmY1)** guide so that the payment options are displayed correctly in the app.
 </div>

@@ -41,22 +41,22 @@ Com o VTEX Ads, é possível configurar diferentes tipos de campanha para atingi
 
 Os anúncios de produtos patrocinados são o formato mais comum no Retail Media. Os produtos patrocinados são exibidos em posições estratégicas, como resultados de busca e vitrines, com base em palavras-chave e categorias acessadas pelo consumidor. Isso aumenta a visibilidade dos produtos e a taxa de conversão.
 
-![sponsored-products](//images.ctfassets.net/alneenqid6w5/5XOoqGk9bYhRhjkNqEtFa8/22be2a907dc02e6ef7f1b9e4f1a26140/image2.png)
+![sponsored-products](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/vtex-ads/retail-media_1.png)
 
 ### Banner/Display
 
 Os banners ou displays são utilizados para promover produtos e promoções específicas, geralmente exibidos em áreas selecionadas do site, como categorias de produtos ou na página inicial. Este formato é focado em destacar promoções de forma visual.
 
-![banner-display](//images.ctfassets.net/alneenqid6w5/2iruGcyoNWvL6mlFTVYhD2/920c67898c2f33d144ea8f21ed6f38db/image4.png)
+![banner-display](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/vtex-ads/retail-media_2.png)
 
 ### Marcas patrocinadas
 
 Esse formato permite que as marcas posicionem seus anúncios de forma destacada, combinando elementos de banners e produtos patrocinados em uma única experiência de publicidade digital.
 
-![sponsored-brands](//images.ctfassets.net/alneenqid6w5/5fC7TIDcTHiqKaKIoJURaL/b509474d5847b3c57edd4ba40f37f5f8/image3.png)
+![sponsored-brands](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/vtex-ads/retail-media_3.png)
 
 ### Tela em loja
 
 Esse tipo de campanha envolve o uso de painéis de LED ou telas LCD em lojas físicas para exibir campanhas e promoções. Esses displays podem ser usados tanto para aumentar o reconhecimento de marca quanto para promover ofertas específicas, com base no comportamento de compra dos consumidores.
 
-![digital-signage](//images.ctfassets.net/alneenqid6w5/79kodZpNkRAvIaNDGphZmW/b9ae599f84fd823667d473bfe659e250/image1.png)
+![digital-signage](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/vtex-ads/retail-media_4.png)

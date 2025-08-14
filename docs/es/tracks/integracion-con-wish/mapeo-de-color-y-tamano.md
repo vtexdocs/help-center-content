@@ -18,13 +18,9 @@ Después de hacer las configuraciones iniciales para la integración con Wish, a
 
 El envío de esta información se realiza cargando la plantilla de mapeo, que contiene un de/para. El mapeo solo se hará una vez para cada categoría. Esto significa que, una vez realizado el mapeo, los nuevos productos que se creen se integrarán directamente en la categoría correcta (y con sus respectivas variaciones y atributos).
 
-<div class = "alert alert-info">
-Usted debe realizar el mapeo de categoría para que Wish pueda diferenciar sus SKUs correctamente. Ejemplo: imagine que hay dos SKUs de un mismo producto con diferentes colores y tamaños iguales en VTEX, si no se realiza el mapeo de categoría, Wish reconocerá ambos SKUs como uno solo.
-</div>
+> ℹ️ Usted debe realizar el mapeo de categoría para que Wish pueda diferenciar sus SKUs correctamente. Ejemplo: imagine que hay dos SKUs de un mismo producto con diferentes colores y tamaños iguales en VTEX, si no se realiza el mapeo de categoría, Wish reconocerá ambos SKUs como uno solo.
 
-<div class = "alert alert-warning">
-Los productos sin un color o tamaño mapeado no se enviarán a Wish. Si alguna categoría no tiene estos campos en VTEX, será necesario <a href="https://help.vtex.com/es/tutorial/criando-campo-de-sku--tutorials_119">crear un campo de SKU</a> en el Catálogo y complete los valores apropiados antes de realizar la asignación de color y tamaño.
-</div>
+> ⚠️ Los productos sin un color o tamaño mapeado no se enviarán a Wish. Si alguna categoría no tiene estos campos en VTEX, será necesario [crear un campo de SKU](https://help.vtex.com/es/tutorial/criando-campo-de-sku--tutorials_119) en el Catálogo y complete los valores apropiados antes de realizar la asignación de color y tamaño.
 
   - [Descargue aquí](https://drive.google.com/uc?export=download&id=1yJCgahkDhc4Gbvtxpe9kID1CwWsijdOf) la Plantilla de Mapeo de Wish en el  formato .xlsx.
 
@@ -61,11 +57,9 @@ Note que en VTEX el nombre de los campos es "Colores" y "Tamaños", pero Wish lo
 En VTEX, los productos de esta categoría poseen dos colores posibles: rojo y hielo. 
 Debe escogerse el color disponible más cercano que, en el caso de Wish, "Hielo" podría ser "White/Ice Glaze" (basado en [lista de colores aceptados](https://merchant.wish.com/documentation/colors)). Y "Rojo" podría ser "Red".
 
-<div class = "alert alert-info">
-  OBS: la cabecera de la tabla debe rellenarse exactamente como está en el siguiente ejemplo. Recuerde no agregar caracteres especiales como enter o espacio al rellenar esta tabla. 
-  </div>
+> ℹ️ OBS: la cabecera de la tabla debe rellenarse exactamente como está en el siguiente ejemplo. Recuerde no agregar caracteres especiales como enter o espacio al rellenar esta tabla.
 
-![PT - Tabela Wish](//images.ctfassets.net/alneenqid6w5/5fvuqSjSRGHwbFVNUSTM3T/6f8f13054b1be01cbd1340d7b5b90bbd/Tabela_Wish.png)
+![PT - Tabela Wish](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/integracion-con-wish/mapeo-de-color-y-tamano_1.png)
 
 ## Cargando el archivo
 

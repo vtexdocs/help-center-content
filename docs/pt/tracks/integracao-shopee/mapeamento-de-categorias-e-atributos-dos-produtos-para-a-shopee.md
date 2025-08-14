@@ -18,9 +18,7 @@ Feitas as configurações iniciais da integração, é possível enviar os produ
 
 Para enviar os seus produtos para a Shopee, você deve mapear as [categorias](https://help.vtex.com/pt/tutorial/o-que-e-uma-categoria--6HV4Q3E2FauUoOQoiCCgCg) e os [atributos dos produtos](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP).  
 
-<div class="alert alert-info">
-Seus produtos precisam ter o <a href="https://help.vtex.com/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb">Estoque</a> e <a href="https://help.vtex.com/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP">Preço</a> configurados antes de enviá-los à Shopee.
-</div>  
+> ℹ️ Seus produtos precisam ter o [Estoque](https://help.vtex.com/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb) e [Preço](https://help.vtex.com/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP) configurados antes de enviá-los à Shopee.  
 
 ## Mapear categorias
 
@@ -30,18 +28,16 @@ Você será direcionado a página de mapeamento da Shopee e a página apresentar
 
 Na página de mapeamento, existe uma barra de busca que permite buscar a categoria por nome. Além disso, a seção **Categorias da loja** exibe lista das categorias da sua loja VTEX.  
 
-<div class="alert alert-info">
-A Shopee exige uma especificação para diferenciar um SKU do outro. Caso não haja especificação mapeada em seu produto, a integração utilizará o nome do SKU para criar essa especificação.
-</div>  
+> ℹ️ A Shopee exige uma especificação para diferenciar um SKU do outro. Caso não haja especificação mapeada em seu produto, a integração utilizará o nome do SKU para criar essa especificação.  
 
 A lista de categorias da sua loja VTEX inclui o status de seu mapeamento por meio dos ícones:  
 
 | **Ícone** | **Status** | **Descrição** |
 | ---------- | ---------- | ---------- | 
-| <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/6Ry65cPvgGmChmE3RipFio/deec73c3e429f63dfa8971ae8c848221/mapeado_mapper.JPG" /> | **Mapeado**| Indica que o mapeamento da categoria foi concluído. | 
-| <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/6v4eFsWHVy8F5VIqTVLQD9/e63d945d60a958a37246f57d919eede8/mapeamentoincompleto_mapper.JPG" /> | **Mapeamento incompleto** | A categoria está parcialmente mapeada, necessitando preencher seus atributos obrigatórios, indicados por meio de um asterisco, para mapeá-la. | 
-| <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/lsN6TxCm1e6frHvIQ8xjt/491ad1e6d99ab858e2a76d0ea31e1a39/erromapeamento_mapper.JPG" /> | **Erro no mapeamento** | O erro no mapeamento ocorre quando o marketplace exclui ou muda a categoria do produto.  Para solucionar esse problema basta refazer o mapeamento da categoria. | 
-| <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/3nVJUJHetaqPHThGGpoG8T/d7f667b269105a5c65aa7b16b1aace21/incompleto_mapper.JPG" /> | **Não mapeado** | Indica que a categoria não foi mapeada. |  
+| <img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/integracao-shopee/mapeamento-de-categorias-e-atributos-dos-produtos-para-a-shopee_1.JPG" /> | **Mapeado**| Indica que o mapeamento da categoria foi concluído. | 
+| <img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/integracao-shopee/mapeamento-de-categorias-e-atributos-dos-produtos-para-a-shopee_2.JPG" /> | **Mapeamento incompleto** | A categoria está parcialmente mapeada, necessitando preencher seus atributos obrigatórios, indicados por meio de um asterisco, para mapeá-la. | 
+| <img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/integracao-shopee/mapeamento-de-categorias-e-atributos-dos-produtos-para-a-shopee_3.JPG" /> | **Erro no mapeamento** | O erro no mapeamento ocorre quando o marketplace exclui ou muda a categoria do produto.  Para solucionar esse problema basta refazer o mapeamento da categoria. | 
+| <img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/integracao-shopee/mapeamento-de-categorias-e-atributos-dos-produtos-para-a-shopee_4.JPG" /> | **Não mapeado** | Indica que a categoria não foi mapeada. |  
 
 Ainda na página de mapeamento, existem as seções, **Categoria do marketplace** e **[Mapeamento de atributos](#mapear-atributos)**, ambos com uma opção de menu de seleção, onde ao clicar sobre a seta, aparecem novos campos e informações.
 
@@ -51,9 +47,7 @@ O mapeamento dos atributos permite que exista uma correspondência entre o padr�
 
 Os campos não mapeados não impedem que o mapeamento ocorra, porém, quanto mais atributos enviados para a Shopee seu produto tiver, melhor ranqueado ele será no marketplace.  
 
-<div class="alert alert-warning">
-A descrição dos produtos precisa ter, no mínimo, 100 caracteres. Além disso, a Shopee não aceita produtos com menos de 100 gramas, assim como não é possível enviar produtos com dimensões inválidas. Exemplo: Altura = 0 cm , Largura = 0,000001 cm. Em caso de dúvida, acesse o artigo <a href="https://seller.shopee.com.br/edu/article/3305/dimensoes-e-pesos-permitidos-para-enviar-pacotes-na-shopee">Dimensões e pesos permitidos para enviar pacotes da Shopee</a>.
-</div>
+> ⚠️ A descrição dos produtos precisa ter, no mínimo, 100 caracteres. Além disso, a Shopee não aceita produtos com menos de 100 gramas, assim como não é possível enviar produtos com dimensões inválidas. Exemplo: Altura = 0 cm , Largura = 0,000001 cm. Em caso de dúvida, acesse o artigo [Dimensões e pesos permitidos para enviar pacotes da Shopee](https://seller.shopee.com.br/edu/article/3305/dimensoes-e-pesos-permitidos-para-enviar-pacotes-na-shopee).
 
 Para realizar o mapeamento de categorias e atributos no Admin VTEX vá em **Aplicativos > Shopee > Mapeamento de categorias** e siga os passos abaixo:  
 
@@ -66,7 +60,5 @@ Para realizar o mapeamento de categorias e atributos no Admin VTEX vá em **Apli
 
 Ao finalizar o mapeamento de categorias e atributos corretamente, o status da categoria mudará para **Mapeado**.
 
-<div class="alert alert-warning">
-A Shopee só aceita marcas já registradas no seu catálogo de produtos. Quando não houver uma marca cadastrada no produto ou a marca cadastrada no produto não corresponder aos nomes aceitos pelo marketplace, ele será categorizado na Shopee como `NoBrand`.
-</div>
+> ⚠️ A Shopee só aceita marcas já registradas no seu catálogo de produtos. Quando não houver uma marca cadastrada no produto ou a marca cadastrada no produto não corresponder aos nomes aceitos pelo marketplace, ele será categorizado na Shopee como `NoBrand`.
 

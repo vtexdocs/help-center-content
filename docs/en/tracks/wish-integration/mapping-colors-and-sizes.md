@@ -18,14 +18,9 @@ After going through the initial Wish integration configurations, we will now map
 
 This information is sent when uploading the mapping spreadsheet, which has a from/to. This mapping will be performed once for each category. This means that once the mapping has been performed once, new products that are created will be directly integrated in the correct category, together with their corresponding variations and attributes.
 
-<div class = "alert alert-info">
-You need to map categories so that Wish can correctly distinguish your SKUs. 
-Example: suppose that two SKUs exist for the same product, having different colors but the same sizes in VTEX. If the category is not mapped, Wish will recognize the two SKUs as merely one. 
-</div>
+> ℹ️ You need to map categories so that Wish can correctly distinguish your SKUs. Example: suppose that two SKUs exist for the same product, having different colors but the same sizes in VTEX. If the category is not mapped, Wish will recognize the two SKUs as merely one.
 
-<div class = "alert alert-warning">
-Products with no color or size will not be submitted to Wish. If a category does not have these fields in VTEX, you will need to <a href="https://help.vtex.com/en/tutorial/creating-sku-fields--tutorials_119">create an SKU field</a> in the Catalog and fill it ou with the appropriate values before mapping color and size for your SKUs.
-</div>
+> ⚠️ Products with no color or size will not be submitted to Wish. If a category does not have these fields in VTEX, you will need to [create an SKU field](https://help.vtex.com/en/tutorial/creating-sku-fields--tutorials_119) in the Catalog and fill it ou with the appropriate values before mapping color and size for your SKUs.
 
   - Download the Wish Mapping Spreadsheet in .xlsx format [here](https://drive.google.com/uc?export=download&id=1yJCgahkDhc4Gbvtxpe9kID1CwWsijdOf) .
 
@@ -62,11 +57,9 @@ Notice that VTEX uses the fields "Colors" and "Sizes", while Wish uses "Color" a
 On the VTEX platform, the product pertaining to this category have two possible colors: wine red and icy white.
 You should choose the closest color match, which in Wish's case can be "White/Ice Glaze" for "Icy White" and "Red" for "Wine Red", based on [list of accepted colors](https://merchant.wish.com/documentation/colors)). 
 
-<div class = "alert alert-info">
-The table's header should be filled in exactly as in the example below. Remember to not add any special characters such as "enter" or "space" when filling this table in.   
-</div>
+> ℹ️ The table's header should be filled in exactly as in the example below. Remember to not add any special characters such as "enter" or "space" when filling this table in.
 
-![PT - Tabela Wish](//images.ctfassets.net/alneenqid6w5/5fvuqSjSRGHwbFVNUSTM3T/6f8f13054b1be01cbd1340d7b5b90bbd/Tabela_Wish.png)
+![PT - Tabela Wish](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/wish-integration/mapping-colors-and-sizes_1.png)
 
 ## Uploading the spreadsheet
 

@@ -22,6 +22,4 @@ Após a conclusão do [cadastro no portal da Dafiti](https://www.dafiti.com.br/q
 2. [Configurar conector](https://help.vtex.com/pt/tracks/configurar-integracao-da-dafiti--4wF4RBx9ygEkimW6SsKw8i/3PV2OACP2E4O4uOKKW2sMg).
 3. [Enviar produtos para a Dafiti](https://help.vtex.com/pt/tracks/configurar-integracao-da-dafiti--4wF4RBx9ygEkimW6SsKw8i/3b8BZfB1BC8G8SCe0ao46m).
 
-<div class="alert alert-warning">
-É importante que a transportadora cadastrada na VTEX seja aceita pela Dafiti, caso contrário, um erro de rastreamento no pedido será gerado. Além disso, o nome cadastrado da transportadora precisa estar rigorosamente igual ao nome aceito pela Dafiti. Entre em contato com a Dafiti para para verificar quais os nomes aceitos.
-</div>
+> ⚠️ É importante que a transportadora cadastrada na VTEX seja aceita pela Dafiti, caso contrário, um erro de rastreamento no pedido será gerado. Além disso, o nome cadastrado da transportadora precisa estar rigorosamente igual ao nome aceito pela Dafiti. Entre em contato com a Dafiti para para verificar quais os nomes aceitos.

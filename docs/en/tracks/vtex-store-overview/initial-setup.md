@@ -55,9 +55,7 @@ Initially, the main actions only the sponsor user can perform are:
 
 Other actions may be restricted to this user, which are listed in the [Sponsor user](https://help.vtex.com/en/tutorial/o-que-e-o-usuario-titular--3oPr7YuIkEYqUGmEqIMSEy#acoes-restritas-ao-usuario-titular) article.
 
-<div class="alert alert-warning">
-<strong>Sponsor user</strong> is not the same as <strong>Owner (Admin Super)</strong>. <strong>Owner(Admin Super)</strong> is a <a href="https://help.vtex.com/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3">License Manager role</a> that gives permissions to a user and can be assigned to multiple users. However, there is only one <strong>Sponsor user</strong> per <a href="https://help.vtex.com/en/tutorial/o-que-e-account-name--i0mIGLcg3QyEy8OCicEoC">account</a>.
-</div>
+> ⚠️ **Sponsor user** is not the same as **Owner (Admin Super)**. **Owner(Admin Super)** is a [License Manager role](https://help.vtex.com/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) that gives permissions to a user and can be assigned to multiple users. However, there is only one **Sponsor user** per [account](https://help.vtex.com/en/tutorial/o-que-e-account-name--i0mIGLcg3QyEy8OCicEoC).
 
 ## Users and permissions
 
@@ -85,9 +83,9 @@ The table below shows the three authentication types available:
 
 | **Authentication type** | **Description** |
 | :---: | :--- |
-| Authentication of API requests using <a href="https://help.vtex.com/en/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet">app keys</a> | <p>App keys are used to authenticate VTEX API requests. Store admins can create these keys for different integrations.</p><p>Learn more in the <a href="https://developers.vtex.com/docs/guides/api-authentication-using-application-keys">API authentication using application keys</a> article.</p> |
-| Authentication of requests to APIs using user tokens | <p>User tokens are used to authenticate API requests, especially for <a href="https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ">frontend</a> apps developed using VTEX IO.</p><p>Learn more in the <a href="https://developers.vtex.com/docs/guides/api-authentication-using-user-tokens">API authentication using user tokens</a> article.</p> |
-| Authentication of apps using authentication tokens | <p>The use of auth tokens is required for authentication when developing apps using VTEX IO.</p><p>Learn more in the <a href="https://developers.vtex.com/docs/guides/app-authentication-using-auth-tokens">App authentication using auth tokens</a> article.</p> |
+| Authentication of API requests using [app keys](https://help.vtex.com/en/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet) | App keys are used to authenticate VTEX API requests. Store admins can create these keys for different integrations.Learn more in the [API authentication using application keys](https://developers.vtex.com/docs/guides/api-authentication-using-application-keys) article. |
+| Authentication of requests to APIs using user tokens | User tokens are used to authenticate API requests, especially for [frontend](https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ) apps developed using VTEX IO.Learn more in the [API authentication using user tokens](https://developers.vtex.com/docs/guides/api-authentication-using-user-tokens) article. |
+| Authentication of apps using authentication tokens | The use of auth tokens is required for authentication when developing apps using VTEX IO.Learn more in the [App authentication using auth tokens](https://developers.vtex.com/docs/guides/app-authentication-using-auth-tokens) article. |
 
 ## Trade policy
 
@@ -104,7 +102,7 @@ In every integration with a sales channel, a trade policy must be linked, and wh
 Depending on its architecture on VTEX, the store can benefit from more than one trade policy or associate strategies from several trade policies with [multistores](https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#multistore) and [additional environments](https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#additional-environment). The [Accounts and architecture](https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl) article explains the relationship between these concepts.
 
 <div class="alert laert-info">
-To <a href="https://help.vtex.com/en/tutorial/criar-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE">create a trade policy</a> and to <a href="https://help.vtex.com/en/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X">request additional trade policies</a>, contact <a href="https://help.vtex.com/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ#requesting-an-additional-trade-policy">VTEX Support</a>.
+To [create a trade policy](https://help.vtex.com/en/tutorial/criar-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE) and to [request additional trade policies](https://help.vtex.com/en/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X), contact [VTEX Support](https://help.vtex.com/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ#requesting-an-additional-trade-policy).
 </div>
 
 ## Edition Apps

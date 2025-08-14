@@ -48,9 +48,7 @@ VTEX does not use end-customer data for any purpose other than to perform ecomme
 
 The DPA used must correspond to the specific region of the data subject (store customer).
 
-<div class="alert alert-warning">
-  <p>Check the<a href="https://vtex.com/us-en/privacy-and-agreements/data-processing-addendum/"> Data Processing Addendum - VTEX</a> to view the standard VTEX DPA for each region.</p>
-</div>
+> ⚠️ Check the[ Data Processing Addendum - VTEX](https://vtex.com/us-en/privacy-and-agreements/data-processing-addendum/) to view the standard VTEX DPA for each region.
 
 ## Shared responsibilities
 

@@ -18,9 +18,7 @@ The **Payments** module is the system responsible for managing all actions regar
 
 Before we explore the features within VTEX Admin *Payments*, let's clarify some important concepts regarding the payment flow of an order. This process is performed by some actors within the Brazilian financial system, which make up the Payments module architecture.
 
-<div class="alert alert-info">
-It is important to remember that each store has its own particularities and its own operation, which influence how to build your business' Payment module. To set up your cash flow, it is therefore crucial to keep in mind the real needs and purposes of the retailer and of the desired project.
-</div>
+> ℹ️ It is important to remember that each store has its own particularities and its own operation, which influence how to build your business' Payment module. To set up your cash flow, it is therefore crucial to keep in mind the real needs and purposes of the retailer and of the desired project.
 
 ## Gateway 
 

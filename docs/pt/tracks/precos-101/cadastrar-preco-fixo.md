@@ -25,31 +25,31 @@ Há três formas de cadastrar um preço fixo:
 Para criar um preço fixo pelo Admin, siga os seguintes passos:
 
 <ol>
-    <li>No Admin VTEX, acesse <strong>Preços &gt; Lista de preços</strong>, ou digite <strong>Lista de preços</strong> na barra de busca no topo da página.</li>
+    <li>No Admin VTEX, acesse **Preços &gt; Lista de preços**, ou digite **Lista de preços** na barra de busca no topo da página.</li>
     <li>Marque a tabela de preço desejada.</li>
     <li>Clique na célula de preço de SKU da tabela de preço desejada.</li>
-    <li>Clique em <strong>Definir preços fixos</strong>.</li>
-    <li>Clique em <strong>Não definido</strong>.</li>
+    <li>Clique em **Definir preços fixos**.</li>
+    <li>Clique em **Não definido**.</li>
     <li>Preencha os campos descritos abaixo.</li>
     <ul>
-        <li><strong>Quantidade mínima:</strong> quantidade mínima do item que precisa ser adicionada ao carrinho para que o preço fixo seja aplicado.</li>
-        <li><strong>Preço:</strong> valor do preço fixo.</li>
-        <li><strong>Definir preço de lista:</strong> opção para adicionar <i class="fas fa-toggle-on"></i> ou não <i class="fas fa-toggle-off"></i> um preço de lista.
+        <li>**Quantidade mínima:** quantidade mínima do item que precisa ser adicionada ao carrinho para que o preço fixo seja aplicado.</li>
+        <li>**Preço:** valor do preço fixo.</li>
+        <li>**Definir preço de lista:** opção para adicionar <i class="fas fa-toggle-on"></i> ou não <i class="fas fa-toggle-off"></i> um preço de lista.
             <ul>
-                <li><strong>Preço de lista:</strong> valor do preço de venda sugerido para o item.</li>
+                <li>**Preço de lista:** valor do preço de venda sugerido para o item.</li>
             </ul>
         </li>
-        <li><strong>Agendar preço fixo:</strong> opção para agendar <i class="fas fa-toggle-on"></i> ou não <i class="fas fa-toggle-off"></i> um preço fixo.
+        <li>**Agendar preço fixo:** opção para agendar <i class="fas fa-toggle-on"></i> ou não <i class="fas fa-toggle-off"></i> um preço fixo.
             <ul>
-                <li><strong>Status:</strong> status indicando se o agendamento está agendado ou inativo.</li>
-                <li><strong>Data Início:</strong> data de início do agendamento do preço fixo. Será a partir dessa data que o preço fixo será válido.</li>
-                <li><strong>Hora Início:</strong> hora de início do agendamento do preço fixo. Será a partir dessa hora que o preço fixo será válido.</li>
-                <li><strong>Data Fim:</strong> data de fim do agendamento do preço fixo. Será a partir dessa data que o preço fixo não será mais válido.</li>
-                <li><strong>Hora Fim:</strong> hora de fim do agendamento do preço fixo. Será a partir dessa hora que o preço fixo não será mais válido.</li>
+                <li>**Status:** status indicando se o agendamento está agendado ou inativo.</li>
+                <li>**Data Início:** data de início do agendamento do preço fixo. Será a partir dessa data que o preço fixo será válido.</li>
+                <li>**Hora Início:** hora de início do agendamento do preço fixo. Será a partir dessa hora que o preço fixo será válido.</li>
+                <li>**Data Fim:** data de fim do agendamento do preço fixo. Será a partir dessa data que o preço fixo não será mais válido.</li>
+                <li>**Hora Fim:** hora de fim do agendamento do preço fixo. Será a partir dessa hora que o preço fixo não será mais válido.</li>
             </ul>
         </li>
     </ul>
-    <li>Clique em <code>Salvar</code>.</li>
+    <li>Clique em `Salvar`.</li>
 </ol>
 
 ### Remover preço fixo
@@ -61,9 +61,7 @@ Para excluir um preço fixo existente, siga os passos abaixo.
 3. Clique no preço fixo cadastrado.
 4. Clique em `Remover`.
 
-<div class = "alert alert-info">
-Não é possível fazer exclusão em massa de preços fixos pela planilha. A exclusão deve ser feita manualmente, seguindo os passos acima, ou via API <a href="https://developers.vtex.com/docs/api-reference/pricing-api#delete-/pricing/prices/-itemId-/fixed/-priceTableId-">Delete fixed prices on a price table or trade policy</a>.
-</div>
+> ℹ️ Não é possível fazer exclusão em massa de preços fixos pela planilha. A exclusão deve ser feita manualmente, seguindo os passos acima, ou via API [Delete fixed prices on a price table or trade policy](https://developers.vtex.com/docs/api-reference/pricing-api#delete-/pricing/prices/-itemId-/fixed/-priceTableId-).
 
 ## Pricing API
 

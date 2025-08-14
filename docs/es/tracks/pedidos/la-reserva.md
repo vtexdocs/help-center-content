@@ -22,9 +22,7 @@ La reserva conecta el módulo de logística al módulo de pedidos. Impide que el
 
 ## Cómo funciona la reserva
 
-<div class="alert alert-warning">
-Los productos solamente insertados en el carrito <strong>no</strong> generan reserva o prioridad. Una reserva se realiza solo si un pedido está <strong>finalizado</strong>.
-</div>  
+> ⚠️ Los productos solamente insertados en el carrito **no** generan reserva o prioridad. Una reserva se realiza solo si un pedido está **finalizado**.  
 
 Este es el flujo de reserva en VTEX:  
 
@@ -34,8 +32,6 @@ Este es el flujo de reserva en VTEX:
 
  3. Finalmente, una vez que el pedido se encuentra en la etapa de preparación para la entrega, los artículos pasan al estado `Reserva Reconocida`. Este estado indica que el artículo ya no existe en el inventario físico.  
 
-![reservation es](//images.ctfassets.net/alneenqid6w5/3qiFEUNLlkbc403lzwFCdS/31eaafb108b2e75685cc33441f127407/reservation_es.png)
+![reservation es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/pedidos/la-reserva_1.png)
 
-<div class="alert alert-warning">
-VTEX no quita automáticamente los artículos del inventario, incluso después de que hayan pasado al estado <code>Reserva Reconocida</code>. Los artículos comprados permanecerán en este estado hasta que el ERP o la tienda los quiten del inventario.
-</div>
+> ⚠️ VTEX no quita automáticamente los artículos del inventario, incluso después de que hayan pasado al estado `Reserva Reconocida`. Los artículos comprados permanecerán en este estado hasta que el ERP o la tienda los quiten del inventario.

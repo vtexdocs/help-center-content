@@ -14,13 +14,11 @@ trackId: 7h8KvIC4DbRRc8VlyJ8PFc
 trackSlugEN: integracao-com-o-facebook
 ---
 
-<div class = "alert alert-info">
-Existe a integração com a app <a href= "https://help.vtex.com/pt/tracks/integracao-com-o-facebook-business-extension--2hS3ANSZ7vlHCcba4h7k8D">Facebook Business Extension e Conversions API</a>, que deve ser sua escolha padrão para integrar com o Facebook. Isso é válido inclusive para quem já realizou a <a href= "https://help.vtex.com/pt/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc">Integração com o Facebook</a>, pois a integração com a app garante as funcionalidades prévias e outras, como API de Conversões e Pixel do Facebook.
-</div>
+> ℹ️ Existe a integração com a app <a href= "https://help.vtex.com/pt/tracks/integracao-com-o-facebook-business-extension--2hS3ANSZ7vlHCcba4h7k8D">Facebook Business Extension e Conversions API</a>, que deve ser sua escolha padrão para integrar com o Facebook. Isso é válido inclusive para quem já realizou a <a href= "https://help.vtex.com/pt/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc">Integração com o Facebook</a>, pois a integração com a app garante as funcionalidades prévias e outras, como API de Conversões e Pixel do Facebook.
 
 O [Facebook](https://about.fb.com/br/company-info/) é a rede social com maior número de usuários no mundo. Criado em 2004, é a plataforma pela qual mais de três bilhões de pessoas se conectam e compartilham informação todos os dias.
 
-![Logo Facebook](//images.ctfassets.net/alneenqid6w5/O8m2gKVxHDZwdd3VAmixX/22a762dbe650000261a1c5ab115e5c69/facebook_logo_4.png)
+![Logo Facebook](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/integracao-com-o-facebook/facebook_1.png)
 
 Existem diferentes estratégias para promover sua loja no Facebook. O Gerenciador de Negócios, também conhecido como Business Manager, é uma ferramenta gratuita, criada para facilitar a gestão das suas ações na rede social. Em um único lugar, é possível gerenciar publicações orgânicas, anúncios pagos, bibliotecas de mídia, dentre outros.
 

@@ -14,9 +14,7 @@ trackId: 3eCHNCIx8XhZOSmX0sQT3U
 trackSlugEN: vtex-live-shopping-getting-started
 ---
 
-<div class = "alert alert-warning">
-  <p>This article is exclusive for accounts broadcasting events from other studios than Bundle.</p>
-</div>
+> ⚠️ This article is exclusive for accounts broadcasting events from other studios than Bundle.
 
 Besides the Bundle studio, **Live Shopping** events can be transmitted by other studios while keeping the same functionalities, for example:
 
@@ -37,9 +35,7 @@ To configure external studio solutions, follow these steps:
     * **Server:** Insert the Inbound server value.
     * **Server Key:** Insert the Server key value.
 
-<div class = "alert alert-info">
-  <p>Before the <b>Go Live</b>, we recommend you to have an image as a placeholder before starting presenting the event, in order to validate the transmission. The reason is that you might need to adjust final configurations, and then the audience will view this image.</p>
-</div>
+> ℹ️ Before the **Go Live**, we recommend you to have an image as a placeholder before starting presenting the event, in order to validate the transmission. The reason is that you might need to adjust final configurations, and then the audience will view this image.
 
 ## Setting quality transmission
 
@@ -54,9 +50,7 @@ For a high quality transmission, including streaming to devices with limited int
 
 After [configuring where to display the Live Shopping component](https://help.vtex.com/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/4r5uk6XHxdYlOGMr11GFWR), and checking with the preview if everything is working properly, you can start transmitting the event. Since the step by step for that will vary according to each studio, we recommend looking for the studio official documentation.
 
-<div class = "alert alert-danger">
-  <p>When using external studios, don't try to duplicate the transmission via Bundle. Live Shopping allows one transmission per studio, and the platform will recognize only the first studio transmitting the event.</p>
-</div>
+> ❗ When using external studios, don't try to duplicate the transmission via Bundle. Live Shopping allows one transmission per studio, and the platform will recognize only the first studio transmitting the event.
 
 ## After live-streaming from external studio
 

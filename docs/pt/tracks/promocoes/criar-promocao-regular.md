@@ -59,9 +59,7 @@ Nesta seção, você deve configurar as informações gerais da sua promoção. 
      - **Frete máximo:** valor máximo que o frete poderá assumir.
      - **Frete grátis:** desconto total sobre o valor do frete.
      - **Brinde:** desconto total sobre o valor do produto definido como brinde. Ao selecionar essa opção  é possível indicar o SKU por nome ou ID que será considerado como brinde, escolher se o [multiplicador de brindes](https://help.vtex.com/pt/tutorial/o-que-significa-ativar-o-multiplicador-de-brinde-em-uma-promocao--1gydgkmjEWcoo2CskUwuYK) deve ser ativado e a quantidade máxima de produtos que poderão ser utilizados como brindes na promoção.
-<div class = "alert alert-info">
-O produto Brinde também precisa ter um preço cadastrado, mesmo sendo oferecido gratuitamente ao cliente.
-</div>
+> ℹ️ O produto Brinde também precisa ter um preço cadastrado, mesmo sendo oferecido gratuitamente ao cliente.
 
    - **Desconto nominal baseado em fórmula:** o desconto é calculado com base na fórmula que você pode criar usando como variáveis a soma dos preços de produtos, o frete e a quantidade de itens. Observe que o frete considerado pela fórmula será o menor disponível para o pedido, independentemente da seleção do cliente. O separador decimal deve ser sempre o ponto. Exemplo: se o desconto for 30% do valor total do produto + valor do frete, a fórmula deve ser (total + freight) * 0.3. Para obter mais informações sobre a fórmula, leia nossa [documentação](https://help.vtex.com/pt/tutorial/promocao-regular-com-desconto-nominal-baseado-em-formula--2Pwrq6THyGViNedQG381jV).
    - **Valor fidelidade nominal:** crédito que será adicionado no programa de fidelidade da loja. Leia [Promoção regular com valor fidelidade](https://help.vtex.com/pt/tutorial/promocao-regular-com-valor-fidelidade--3FCip23ZtvG0sDt0rVGVmR) para mais informações.
@@ -70,9 +68,7 @@ O produto Brinde também precisa ter um preço cadastrado, mesmo sendo oferecido
 - **Informações adicionais (opcional):** permite  incluir informações adicionais a promoção composto de um nome e valor.
 - **Destaque nos produtos:** insere uma flag com o nome da promoção, utilizada na vitrine e na página do produto. Essa flag só será inserida caso use o controle correto de exibição de promoção no template `vtex.cmc:discountHightLight/>`.
 
-<div class = "alert alert-info">
-Promoções do tipo Nominal só serão apresentadas no carrinho, e não na vitrine ou na página de produto.
-</div>
+> ℹ️ Promoções do tipo Nominal só serão apresentadas no carrinho, e não na vitrine ou na página de produto.
 
 ## Restringir esta promoção a produtos dos sellers
 
@@ -83,9 +79,7 @@ Nesta seção, é possível definir para quais sellers a promoção será aplica
 
 Para que a promoção seja válida para todos os sellers, deixe a seleção vazia.
 
-<div class = "alert alert-warning">
-  <p><b>Atenção:</b> não é possível selecionar diretamente um seller white label. Para incluir um seller white na promoção, existem duas opções:</p><ol>1. Restringir os sellers à loja principal. Essa restrição adiciona todos os sellers white label da sua loja à promoção.</ol><ol>2. Deixar a seleção vazia, incluindo todos os sellers. Aqui, todos os tipos de sellers - white label ou não - serão adicionados à promoção.</ol>
-</div>
+> ⚠️ **Atenção:** não é possível selecionar diretamente um seller white label. Para incluir um seller white na promoção, existem duas opções:<ol>1. Restringir os sellers à loja principal. Essa restrição adiciona todos os sellers white label da sua loja à promoção.</ol><ol>2. Deixar a seleção vazia, incluindo todos os sellers. Aqui, todos os tipos de sellers - white label ou não - serão adicionados à promoção.</ol>
 
 ## Política comercial
 
@@ -111,7 +105,7 @@ Você pode incluir ou excluir **Categorias**, **Marcas**, **Coleções**, **Prod
 
 Para serem válidos na promoção, os produtos precisam atender a todas as condições cadastradas nesta seção.
 
-![A quais itens esta promoção será aplicada - PT](//images.ctfassets.net/alneenqid6w5/7lxp9shJsZD5LBMzXldQnz/811aa40a0ac7caaf32b2e04e9dd438f6/A_quais_itens.png)
+![A quais itens esta promoção será aplicada - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/promocoes/criar-promocao-regular_1.png)
 
 # 3. Quais as condições para a promoção ser válida?
 
@@ -130,20 +124,14 @@ O pedido do cliente deve atender às condições cadastradas nesta seção para 
 - **Tipo de frete:** o desconto será concedido caso o tipo de frete escolhido pelo cliente seja o mesmo que o cadastrado na promoção. Esse critério somente será considerado se o efeito da promoção for relativo ao Valor de Frete, ou seja, somente se for um dos seguintes efeitos: Frete percentual, Frete nominal, Frete máximo ou Frete grátis. Importante observar que esta configuração não pode ser combinada com a opção “Aplicar desconto ao frete mais barato”, já que uma opção invalida a outra.
 - **Aplicar o desconto somente quando uma das transportadoras acima for selecionada pelo cliente:** a promoção será aplicada somente após o cliente efetivamente selecionar a forma de entrega em questão. Enquanto não for selecionada, ela ficará sem o desconto. Esse critério somente será considerado se o tipo da promoção for relativo ao valor de frete, ou seja, somente se for um dos seguintes tipos: Frete percentual, Frete nominal, Frete máximo ou Frete grátis.
 - **Meio de pagamento:** permite escolher se a promoção será aplicada em um ou mais tipos de meios de pagamento selecionados.
-<div class = "alert alert-info">
-Por padrão, você pode cadastrar até 20 meios de pagamento por promoção. Além disso, existe a possibilidade de customização para incluir até 100 meios de pagamento. Caso precise utilizar mais de 20, entre em contato com o [nosso Suporte.](https://vtexhelp.zendesk.com/auth/v2/login/signin?return_to=https%3A%2F%2Fsupport.vtex.com%2Fhc%2Fpt-br%2Frequests&theme=hc&locale=pt-br&brand_id=144968&auth_origin=144968%2Ctrue%2Ctrue)
-</div>
+> ℹ️ Por padrão, você pode cadastrar até 20 meios de pagamento por promoção. Além disso, existe a possibilidade de customização para incluir até 100 meios de pagamento. Caso precise utilizar mais de 20, entre em contato com o [nosso Suporte.](https://vtexhelp.zendesk.com/auth/v2/login/signin?return_to=https%3A%2F%2Fsupport.vtex.com%2Fhc%2Fpt-br%2Frequests&theme=hc&locale=pt-br&brand_id=144968&auth_origin=144968%2Ctrue%2Ctrue)
 - **Número de parcelas:** o desconto será concedido caso o número de parcelas selecionadas pelo cliente estiver no intervalo cadastrado. Esse campo não se aplica para a seleção de boleto.
- <div class="alert alert-warning">
-Promoções por forma de pagamento e número de parcelas não atendem a pedidos pagos com dois cartões ou vale-compras.
-</div>
+ > ⚠️ Promoções por forma de pagamento e número de parcelas não atendem a pedidos pagos com dois cartões ou vale-compras.
 - **utm_source:** o desconto será concedido caso a navegação seja realizada com as **utm_source** correspondente a qualquer um dos valores cadastrados. É importante destacar que o cliente pode inserir apenas um **utm_source** no checkout.
 - **utm_campaign:** o desconto será concedido caso a navegação seja realizada com a utm_campaign com o valor cadastrado.
 - **Criar cupom a partir das UTMs acima:** cria um cupom a partir das UTMs cadastradas para dar ao cliente acesso à essa promoção sem a necessidade das utms, apenas com o código do cupom.
 - **utmi_cp:** o desconto será concedido caso a navegação seja realizada com a utmi_cp com o valor cadastrado (case sensitive).
- <div class = "alert alert-info">
-No campo das UTMs coloque somente o valor que as UTMs terão que assumir para ativar a promoção. Não é necessário colocar ?utm_source= dentro do campo.
-</div>
+ > ℹ️ No campo das UTMs coloque somente o valor que as UTMs terão que assumir para ativar a promoção. Não é necessário colocar ?utm_source= dentro do campo.
 - **Apenas na primeira compra:** o desconto só será concedido na primeira compra do cliente.
 - **Aplicar o desconto mesmo se o cliente não estiver logado:** este campo é disponibilizado quando o campo **Apenas na primeira compra** é selecionado. Se este campo é marcado, a promoção será aplicada mesmo que o consumidor não tenha inserido e-mail e senha. Quando desmarcado, a promoção somente será aplicada se o consumidor tiver acessado com e-mail e senha previamente cadastrados.
 - **Pedido de assinatura:** permite selecionar uma das opções abaixo:

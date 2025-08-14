@@ -18,9 +18,7 @@ A **Substituição de pedidos** permite aos clientes da sua loja alterar dados d
 
 O objetivo é ajudá-los a corrigir erros sem a necessidade de realizar um novo pedido manualmente ou de entrar em contato com seu suporte, o que facilita a operação da sua loja e reduz custos.
 
-<div class = "alert alert-warning">
-Não é possível <a href="https://help.vtex.com/pt/tutorial/como-cancelar-pedido--tutorials_186">cancelar pedidos</a> que já tenham sido <a href="https://help.vtex.com/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe">faturados parcialmente</a>. Caso o cliente deseje substituir ou remover itens do pedido, é possível <a href="https://help.vtex.com/pt/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190">alterar o pedido</a>.
-</div>
+> ⚠️ Não é possível [cancelar pedidos](https://help.vtex.com/pt/tutorial/como-cancelar-pedido--tutorials_186) que já tenham sido [faturados parcialmente](https://help.vtex.com/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe). Caso o cliente deseje substituir ou remover itens do pedido, é possível [alterar o pedido](https://help.vtex.com/pt/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190).
 
 ## Como ativar a Substituição de pedidos
 
@@ -32,7 +30,5 @@ A funcionalidade está disponível para todos as lojas. Para ativá-la, siga os 
 
 Em 15 minutos, após a atualização automática do cache, a funcionalidade estará disponível.
 
-<div class = "alert alert-info">
-Para mais informações sobre a funcionalidade e casos que não permitem substituição, veja o artigo <a href="https://help.vtex.com/pt/tutorial/substituicao-de-pedidos--2IK9mwQjBKseQmE8K8saO8">Substituição de pedidos</a>.
-</div>
+> ℹ️ Para mais informações sobre a funcionalidade e casos que não permitem substituição, veja o artigo [Substituição de pedidos](https://help.vtex.com/pt/tutorial/substituicao-de-pedidos--2IK9mwQjBKseQmE8K8saO8).
 

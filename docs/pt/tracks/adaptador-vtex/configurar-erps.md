@@ -23,7 +23,7 @@ Esta seção apresenta o passo-a-passo de confirmação dos ERPs:
 
 Tudo o que você precisa é acessar a tela da integradora clicando em  e, em seguida, na filial utilizada para integrar com Ecommerce, você deve alterar os campos URL de integração e o campo Token, conforme os passos abaixo:
 
-![integra winthor-adaptador](https://images.contentful.com/alneenqid6w5/32FkfE0nBRdrWM88p3enOA/7615e676fcc0f84f9a19d2a3e577ccc2/integra_winthor-adaptador.png)
+![integra winthor-adaptador](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/adaptador-vtex/configurar-erps_1.png)
 
 1. No campo URL da integração, insira o o endereço: `https://adapterstaging.ciashop.com.br`. 
 2. Após executar todo o processo de validação da integração com o ambiente de homologação (`https://adapterstaging.ciashop.com.br`), você deve requisitar ao time de suporte VTEX CURITIBA, para que seja liberado o acesso ao ambiente de produção do adapter.
@@ -38,9 +38,9 @@ Tudo o que você precisa fazer no ambiente Protheus é alterar os valores  de tr
 1. No ambiente Proteus, acesse o **SigaCFG**. 
 2. No menu lateral, acesse **Ambiente** > **Cadastros**. 
 3. Clique em **Parâmetros**. A seguinte tela será exibida:
-![protheusParametros-adaptador](https://images.contentful.com/alneenqid6w5/3aqBRHAGIDIeEuSJUTwPjm/c442a2efa4ea45d6040db8a9e6eeaa62/protheusParametros-adaptador.png)
+![protheusParametros-adaptador](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/adaptador-vtex/configurar-erps_2.png)
 4. Na barra de ferramentas superior, clique no botão `FILTRO`. Abrirá a tela **Expressão de Filtro**:
-![protheusParametros2-adaptador](//images.ctfassets.net/alneenqid6w5/5RJ5621Oog3oUS5kzl1Siq/91d3daf359cb35448132f1c68191869d/protheusParametros2-adaptador.png)
+![protheusParametros2-adaptador](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/adaptador-vtex/configurar-erps_3.png)
 5. Na caixa **campos**, informe `X6_VAR`.
 6. Na caixa **Operadores**, escolha **Contém a expressão**.
 7. Na caixa **expressão** informe `MV_LJEC`.
@@ -60,9 +60,7 @@ O código da tabela de preços no ERP deve ser cadastrada manualmente na VTEX ut
 2. Na lista de preços, abra o campo **PriceTables(1)** e, em seguida, clique em `+ Create New Price Tables`.
 3. No campo **Type the name of the price table that you want to create**, insira o código da tabela que você coletou do ERP (deve ser exatamente igual).
 
-<div class="alert alert-warning">
-  <p>O código da tabela de preços no ERP deve conter letras e números.</p>
-</div>  
+> ⚠️ O código da tabela de preços no ERP deve conter letras e números.  
 
 ### Configurar a integração das Transportadoras
 

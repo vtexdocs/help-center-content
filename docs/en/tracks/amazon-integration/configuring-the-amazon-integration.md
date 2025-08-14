@@ -34,9 +34,7 @@ Once you have configured your VTEX store and your Amazon account, you must confi
 - __Not send price to Amazon:__ Amazon allows you to use their own system to parameterize product prices. To use this service, toggle the *ON* option so that the integration does not submit VTEX prices. If prices are sent through the integration, they will overwrite the ones in Amazon's system.
 - **Send KIT*:** if you click *No*, SKUs [registered as kits](https://help.vtex.com/en/tutorial/cadastrando-kit--tutorials_215) will not be sent to Amazon. By clicking Yes, all items in your trade policy will be sent to the marketplace, including SKUs created as kits. Changes to the connector configuration can be made at any time. This does not affect SKUs that have already been sent. For example, if you changed the setting from *Yes* to *No*, SKUs previously sent to Amazon would not be deleted or modified.
 
-<div class="alert alert-info">
-  If the <i>No</i> option is enabled, attempts to send SKUs registered as kits to Amazon will result in the following warning: "The connector is configured not to send SKUs of the Kit type". This message can be viewed in the Admin, in <b>Marketplace > Integrations > Products</b>, when you click on the SKU.
-</div>
+> ℹ️ If the *No* option is enabled, attempts to send SKUs registered as kits to Amazon will result in the following warning: "The connector is configured not to send SKUs of the Kit type". This message can be viewed in the Admin, in **Marketplace > Integrations > Products**, when you click on the SKU.
 
 - **Notify by email if an error occurs in an order:** enter the email address of the responsible technician. If any error occurs when integrating an order, a message will be sent to this email address.
 

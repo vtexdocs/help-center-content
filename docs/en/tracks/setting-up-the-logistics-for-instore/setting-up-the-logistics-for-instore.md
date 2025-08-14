@@ -18,6 +18,6 @@ In this article we will cover the two steps that are commonly taken in order to 
 - Adding a Pickup Point
 - Adding a warehouse
 
-![6. Setting up the Logistics for inStore - 1 - EN.png?h=250](//images.ctfassets.net/alneenqid6w5/12OuLkRESoN49LHu2O0hBo/f02c44cac1112df83248724a3659d505/6._Setting_up_the_Logistics_for_inStore_-_1_-_EN.png_h_250)
+![6. Setting up the Logistics for inStore - 1 - EN.png?h=250](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/setting-up-the-logistics-for-instore/setting-up-the-logistics-for-instore_1.png)
 
 

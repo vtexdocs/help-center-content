@@ -102,7 +102,7 @@ Los pasos para la configuración se deben seguir en el orden indicado a continua
 
 Después de configurar la tienda y completar la integración con el middleware, el flujo general de información seguirá el formato que se muestra en la imagen:
 
-![ERP-integrations-es](//images.ctfassets.net/alneenqid6w5/7G5OqBkp2i7tpz19u6XBFy/fc870c6a2aedf5a3bebd4d0c33058794/Diagrama_do_fluxo_de_integra__o_com_o_ERP_-_Frame_3.jpg)
+![ERP-integrations-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/serie-de-la-tienda-vtex/integraciones-de-backend_1.jpg)
 
 Cada una de las solicitudes o procesos representados por las flechas en el diagrama anterior es accionado por un tipo diferente de evento en la operación cotidiana de una tienda online. Para más información sobre este flujo, consulta[ Back office integration guide (ERP/PIM/WMS)](https://developers.vtex.com/docs/guides/erp-integration-guide#ongoing-middleware-flow).
 
@@ -131,9 +131,7 @@ Después de definir y planificar la [arquitectura del catálogo](https://help.vt
 2. **API de Catálogo:** crear cada categoría mediante llamadas de API. Consulta los detalles en [Catalog API](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/category).
 3. **Integración con back office:** importar categorías a partir de un software de back office externo (ERP o PIM) integrado a VTEX. El software puede ofrecer una integración nativa con VTEX o requerir el desarrollo de middleware que utilice la [API de Catálogo](https://developers.vtex.com/docs/api-reference/catalog-api#overview). Consulta los detalles en [Category migration from ERPs](https://developers.vtex.com/docs/guides/erp-integration-set-up-catalog#category-migration-from-erps).
 
-<div class="alert alert-warning">
-Al importar las categorías de un software externo, la estructura de categorías en el software puede diferir de la de VTEX. En este caso, recomendamos crear una categoría simulada inactiva que no será visible en el storefront y que se puede utilizar para recibir todos los productos y SKU durante la importación. Una vez finalizada la importación, los productos pueden organizarse manualmente en el Admin VTEX para ajustarse al árbol de categorías deseado.
-</div>
+> ⚠️ Al importar las categorías de un software externo, la estructura de categorías en el software puede diferir de la de VTEX. En este caso, recomendamos crear una categoría simulada inactiva que no será visible en el storefront y que se puede utilizar para recibir todos los productos y SKU durante la importación. Una vez finalizada la importación, los productos pueden organizarse manualmente en el Admin VTEX para ajustarse al árbol de categorías deseado.
 
 Las categorías tienen algunas limitaciones:
 
@@ -150,9 +148,7 @@ Las [marcas](https://help.vtex.com/es/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ
 2. **API de Catálogo:** crear cada marca mediante llamadas de API. Consulta los detalles en [Catalog API](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/brand).
 3. **Integración con back office:** importar marcas a partir de un software de back office externo (ERP o PIM) integrado a VTEX. El software puede ofrecer una integración nativa con VTEX o requerir el desarrollo de middleware que utilice la [API de Catálogo](https://developers.vtex.com/docs/api-reference/catalog-api#overview). Consulta los detalles en la sección [Create Brands](https://developers.vtex.com/docs/guides/erp-integration-set-up-catalog#create-brands) de la guía de configuración de Catálogo para back office.
 
-<div class="alert alert-warning">
-Si el sistema de back office no tiene la información sobre marcas, se puede aplicar el mismo procedimiento mencionado anteriormente para categorías en el que se crea una marca simulada inactiva que solo se usa para la migración. Luego, la información de los productos puede ingresarse manualmente.
-</div>
+> ⚠️ Si el sistema de back office no tiene la información sobre marcas, se puede aplicar el mismo procedimiento mencionado anteriormente para categorías en el que se crea una marca simulada inactiva que solo se usa para la migración. Luego, la información de los productos puede ingresarse manualmente.
 
 Para más información sobre la importación de marcas al back office, consulta [Brands](https://developers.vtex.com/docs/guides/brands).
 
@@ -168,7 +164,7 @@ Hay tres tipos de especificaciones que se deben crear en el siguiente orden:
 
 El diagrama a continuación ilustra el procedimiento.
 
-![catalog_specification_diagram_ES](//images.ctfassets.net/alneenqid6w5/16tZGd00Gxeqk5awp711gz/8614400d84e83d97dcc00ae1029161e4/catalog_specification_diagram_ES.png)
+![catalog_specification_diagram_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/serie-de-la-tienda-vtex/integraciones-de-backend_2.png)
 
 Las especificaciones siguen la jerarquía de Catálogo. Cuando se crea un grupo en un departamento o categoría, el mismo se heredará en los niveles inferiores.
 Una vez creados los grupos, campos y valores, hay que asociar las especificaciones a productos y SKU. Estos procedimientos se describen en la próxima sección: [Importar productos](#importar-productos).
@@ -184,9 +180,7 @@ En VTEX, es importante entender la distinción entre productos y SKU:
 - [Producto](https://help.vtex.com/es/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/1wmX3QvQVxbKVmalhIE5Ru): unidad abstracta del catálogo, visible en los estantes de la tienda.
 - [SKU](https://help.vtex.com/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3mJbIqMlz6oKDmyZ2bKJoA): unidad concreta del catálogo en el stock que representa las variaciones específicas de un producto, como color, tamaño y otros atributos. Los SKU se muestran como ítems individuales en las páginas de los productos.
 
-<div class = "alert alert-info">
-La manera en que se estructuran los productos y SKU afectan directamente la experiencia de compra de los clientes.
-</div>
+> ℹ️ La manera en que se estructuran los productos y SKU afectan directamente la experiencia de compra de los clientes.
 
 La importación de productos debe seguir el orden descrito en la tabla a continuación:
 
@@ -201,9 +195,7 @@ La importación de productos debe seguir el orden descrito en la tabla a continu
 
 <br>
 
-<div class="alert alert-warning">
-Es común que los datos de productos en el ERP no sean adecuados para uso y visualización en una tienda online. Por esta razón, debe llevarse a cabo un proceso de enriquecimiento, que puede incluir reestructuración de categorías y la creación de descripciones de productos más detalladas y atractivas.
-</div>
+> ⚠️ Es común que los datos de productos en el ERP no sean adecuados para uso y visualización en una tienda online. Por esta razón, debe llevarse a cabo un proceso de enriquecimiento, que puede incluir reestructuración de categorías y la creación de descripciones de productos más detalladas y atractivas.
 
 Después de la importación, también es importante garantizar que los datos de los productos y SKU se mantengan actualizados. Consulta las instrucciones en el artículo [Update or delete information](https://developers.vtex.com/docs/guides/erp-integration-updating-and-deleting-information).
 
@@ -268,9 +260,7 @@ Existen dos formas dar seguimiento a los cambios de status de los pedidos en VTE
 
 Los dos tipos de integración permiten aplicar [filtros](https://developers.vtex.com/docs/guides/orders-feed#filter) para seleccionar los tipos de eventos que el sistema de back office debe procesar.
 
-<div class = "alert alert-info">
-En la mayoría de los casos, VTEX recomienda integrar los pedidos con <a href="https://developers.vtex.com/docs/guides/orders-feed">Feed v3</a> porque es un método más robusto.
-</div>
+> ℹ️ En la mayoría de los casos, VTEX recomienda integrar los pedidos con [Feed v3](https://developers.vtex.com/docs/guides/orders-feed) porque es un método más robusto.
 
 #### Obtener detalles del pedido
 
@@ -398,9 +388,7 @@ Si no encuentras una aplicación que satisfaga las necesidades de tu tienda VTEX
 
   d. **(Opcional) Validar que la aplicación satisfaga la necesidad de negocio:** después de tener la versión publicada, podría ser beneficioso instalar la aplicación en un [workspace de producción](https://developers.vtex.com/docs/guides/vtex-io-documentation-creating-a-production-workspace) y realizar una [prueba A/B](https://developers.vtex.com/docs/guides/ab-tests) para comparar la tasa de conversión de las ventas con la nueva aplicación. 
 
-<div class = "alert alert-info">
-Si deseas saber más sobre el desarrollo de aplicaciones, accede a nuestro <a href="https://learn.vtex.com/">Learning Center</a>.
-</div>
+> ℹ️ Si deseas saber más sobre el desarrollo de aplicaciones, accede a nuestro [Learning Center](https://learn.vtex.com/).
 
 - **¿Deseas que la aplicación sea pública?** Puedes [disponibilizar](https://developers.vtex.com/docs/guides/vtex-io-documentation-making-your-new-app-version-publicly-available) la aplicación en la App Store para permitir que otras cuentas puedan aprovechar la solución desarrollada.
 - **¿Deseas que la aplicación esté disponible en la App Store?** Disponibilizar la aplicación en la App Store tiene varias ventajas, como aumentar la visibilidad de la aplicación y la posibilidad de [monetizarla](https://developers.vtex.com/docs/guides/vtex-io-documentation-setting-your-apps-billing-model) siguiendo algunos pasos y reglas. En resumen, debes ser un [desarrollador registrado](https://developers.vtex.com/docs/guides/vtex-io-documentation-becoming-a-registered-vtex-app-store-developer), tener el código de la aplicación almacenado en un repositorio de [GitHub](https://github.com/), desarrollar la aplicación siguiendo las [mejores prácticas de la App Store](https://developers.vtex.com/docs/guides/vtex-io-documentation-homologation-requirements-for-vtex-app-store) y [enviarla](https://developers.vtex.com/docs/guides/vtex-io-documentation-submitting-your-app-in-the-vtex-app-store) al proceso de homologación. Tras el proceso de homologación, la aplicación estará disponible en la App Store.

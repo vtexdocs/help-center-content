@@ -21,15 +21,13 @@ A tela de __Títulos__ no Admin VTEX (__Aplicativos > Customer Credit > Títulos
 - [Liquidar títulos](#liquidar-titulos)
 <br>
 <br>
-![Invoices_PT](//images.ctfassets.net/alneenqid6w5/6otbbLNAHn0hHmKvkYmrj2/3ac50b7bdade789abccccda8abe14352/Invoices_PT.JPG)
+![Invoices_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/customer-credit-como-comecar/gerenciando-titulos-no-customer-credit_1.JPG)
 
 ## Filtro de títulos
 
 Para selecionar a lista de títulos a ser exibida é possível clicar em um dos quatro status (Aberto, Pago, Cancelado ou Vencido), ou inserir o número de identificação do pedido para qual o título foi emitido.
 
-<div class="alert alert-warning">
-No Customer Credit, todos os títulos são criados com o status <b>Aberto</b>.
-</div>
+> ⚠️ No Customer Credit, todos os títulos são criados com o status **Aberto**.
 
 ## Detalhes do título
 
@@ -42,9 +40,7 @@ Para facilitar o processo de pagamento de um título, é possível fornecer um l
 - Utilizar a função `IMPORTAR` para inserir dados de uma planilha .csv.
 - Via endpoint [PUT Change Invoice](https://developers.vtex.com/docs/api-reference/customer-credit-api#put-/api/creditcontrol/accounts/-creditAccountId-/invoices/-invoiceId-) do Customer Credit API.
 
-<div class="alert alert-info">
-  Após você realizar um dos procedimentos acima, o cliente terá acesso ao botão <b>PAGAR</b> que ficará disponível na sua área do cliente no site da loja (<b>Minha Conta > Meus Créditos</b>).
-</div>
+> ℹ️ Após você realizar um dos procedimentos acima, o cliente terá acesso ao botão **PAGAR** que ficará disponível na sua área do cliente no site da loja (**Minha Conta > Meus Créditos**).
 
 ### Liquidação individual
 

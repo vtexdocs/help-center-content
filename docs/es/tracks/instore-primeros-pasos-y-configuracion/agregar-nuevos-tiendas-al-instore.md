@@ -25,7 +25,7 @@ Esta página te permite realizar las siguientes acciones:
 * [Editar](#editar-tienda-física)
 * [Inativar](#inativar-tienda-física)
 
-![loja-fisica-ES](//images.ctfassets.net/alneenqid6w5/6C1IhZgOyHi06ZogDIfTcF/df72ba565c1eff2f92a4b6b74f27ad8d/image.png)
+![loja-fisica-ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/instore-primeros-pasos-y-configuracion/agregar-nuevos-tiendas-al-instore_1.png)
 
 La página contiene la siguiente información:
 
@@ -50,7 +50,7 @@ Puedes crear una tienda física siguiendo los pasos a continuación:
 
 ### Campos de registro de la tienda física
 
-![loja-fisica2-es](//images.ctfassets.net/alneenqid6w5/60OAU1QatgSvdghvRebAOW/d27ac78354af709db771a00656578353/image.png)
+![loja-fisica2-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/instore-primeros-pasos-y-configuracion/agregar-nuevos-tiendas-al-instore_2.png)
 
 #### Identificación
 
@@ -74,9 +74,7 @@ Puedes crear una tienda física siguiendo los pasos a continuación:
 * **Política comercial:** [política comercial](https://help.vtex.com/es/tutorial/como-funciona-una-politica-comercial--6Xef8PZiFm40kg2STrMkMV) que será aplicada na loja física. Campo obrigatório.
 * **Punto de recogida:** [punto de recogida](https://help.vtex.com/es/tutorial/puntos-de-recogida--2fljn6wLjn8M4lJHA6HP3R) registrado para esta tienda física, donde los clientes recogen sus pedidos.
 
-<div class ="alert alert-info">
-<p>Los cambios pueden tardar hasta 15 minutos en procesarse y aplicarse en inStore.</p> 
-</div>
+> ℹ️ Los cambios pueden tardar hasta 15 minutos en procesarse y aplicarse en inStore.
 
 ## Buscar tienda física
 

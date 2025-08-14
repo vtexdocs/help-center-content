@@ -18,8 +18,7 @@ trackSlugEN: integracao-posthaus
 
 O primeiro passo para integrar da sua loja VTEX à Posthaus é ter as credenciais **AppKey** e AppToken, ambas são utilizadas para validar sua integração com o Marketplace.  
 
-<div class="alert alert-danger">
-Para obter as suas credenciais e iniciar a integração, entre em contato por meio do time de <a href="https://help.vtex.com/pt/support">suporte da VTEX</a>. </div> 
+> ❗ Para obter as suas credenciais e iniciar a integração, entre em contato por meio do time de [suporte da VTEX](https://help.vtex.com/pt/support). 
 
 Após solicitar as credenciais, o seller pode seguir com a [Deﬁnição da política comercial na Posthaus](#definicao-da-politica-comercial-na-posthaus) VTEX e configuração da [Regra de divergência](https://help.vtex.com/tracks/integracao-posthaus--eipXIoOCKRgTDkg1Z1C4a/1OrzYEI4OZajAwUXPzmtlE).  
 

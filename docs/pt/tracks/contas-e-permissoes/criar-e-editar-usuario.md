@@ -46,6 +46,4 @@ Não é possível alterar o e-mail. Para isso, é necessário fazer um novo cada
 2. Selecione o usuário desejado e clique no **ícone de lixeira**, na coluna de ações.  
 3. Clique em **confirmar**.
 
-<div class="alert alert-info">
-Embora tokens de integração apareçam na listagem de usuários, eles não podem ser excluídos. Para desativá-los, acesse <em>Configuração da conta > Gerenciamento da conta > Conta</em> e desmarque o campo <strong>Status dos Tokens</strong>.
-</div>
+> ℹ️ Embora tokens de integração apareçam na listagem de usuários, eles não podem ser excluídos. Para desativá-los, acesse *Configuração da conta > Gerenciamento da conta > Conta* e desmarque o campo **Status dos Tokens**.

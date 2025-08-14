@@ -42,13 +42,11 @@ A configuração do conector é feita no Admin. Para realizá-la, siga as instru
 
 - **Enviar KIT*:** ao escolher _Não_, SKUs [cadastrados como kit](https://help.vtex.com/pt/tutorial/cadastrando-kit--tutorials_215) não são enviados para a Dafiti. Ao habilitar _Sim_, todos os itens da sua política comercial são enviados para o marketplace, sem filtrar SKUs cadastrados como kit. Mudanças na configuração do conector podem ser feitas a qualquer momento, sendo que isso não afeta SKUs que já tenham sido enviados. Por exemplo, se você mudasse sua configuração de _Sim_ para _Não_, SKUs enviados anteriormente para a Dafiti não seriam removidos ou sofreriam qualquer alteração.
 
-  <div class="alert alert-info">
-Com a opção <i>Não</i> ativada, tentativas de envio para a Dafiti de SKUs cadastrados como kit resultarão no seguinte aviso: <i>O conector está configurado para não enviar SKUs do tipo Kit</i>. Esta mensagem pode ser visualizada no Admin, no módulo <b>Marketplace> Conexões> Produtos,</b> ao se clicar sobre o SKU.
-</div>
+  > ℹ️ Com a opção *Não* ativada, tentativas de envio para a Dafiti de SKUs cadastrados como kit resultarão no seguinte aviso: *O conector está configurado para não enviar SKUs do tipo Kit*. Esta mensagem pode ser visualizada no Admin, no módulo **Marketplace> Conexões> Produtos,** ao se clicar sobre o SKU.
 
 - **Nome do SKU*:** determina qual será a regra para nomeação de SKUs no portal da Dafiti. Você deve selecionar uma das combinações disponíveis dos seguintes atributos: _Marca_, _Nome do Produto_ e _Nome do SKU_.
 
-![print nome exibicao produto es](//images.ctfassets.net/alneenqid6w5/3MiGbDbIXFGiawLcXjji5w/62b3d417ca2cfc58e13f8602c482ff23/print_nome_exibicao_produto.png)
+![print nome exibicao produto es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/configurar-integracao-da-dafiti/configuracao-do-conector-dafiti_1.png)
 
 > Exemplo: meu produto é um tênis preto da marca Nike. O _Nome do SKU_ que eu selecionei foi _Marca - Nome do Produto - Nome do SKU_. Assim, o nome que aparecerá no portal da Dafiti será _Nike tênis preto_.
 
@@ -57,10 +55,7 @@ Com a opção <i>Não</i> ativada, tentativas de envio para a Dafiti de SKUs cad
 - **Client Secret:** código único utilizado para autenticação da integração.
 - **Mapeamento de Campos Customizados (Nome e descrição):**  Para utilizar esse mapeamento é necessário criar um campo customizado. Para saber como criar campos customizados, acesse a documentação [Cadastrar especificações ou campos de produto](https://help.vtex.com/pt/tutorial/criando-um-campo-de-produto--tutorials_106).  
 
-<div class = "alert alert-info">
-  O mapeamento de campos customizáveis está disponível apenas para <b>nome do produto</b> e <b>descrição do produto</b>.
-  <p><b>Exemplo de nome para o novo campo:</b> <code>DFT_ProductName</code> para nome do produto e <code>DFT_ProductDescription</code> para descrição do produto.</p>
-</div>  
+> ℹ️ O mapeamento de campos customizáveis está disponível apenas para **nome do produto** e **descrição do produto**. **Exemplo de nome para o novo campo:** `DFT_ProductName` para nome do produto e `DFT_ProductDescription` para descrição do produto.  
 
 Para o mapeamento funcionar, é necessário o seller seguir os seguintes passos:  
 
@@ -74,8 +69,5 @@ O preenchimento desse campo deve ser realizado da seguinte maneira:
 2. Preencha o campo PARA com o nome do novo campo. `DFT_ProductName` para nome do produto e `DFT_ProductDescription` para descrição do produto.  
 3. Clique no botão e uma regra de mapeamento será adicionada a sua integração.  
 
-<div class="alert alert-info">
-Cada regra cadastrada mapeia apenas um campo.
-<p>Caso o campo mapeado não tenha um valor preenchido, será enviado o valor padrão de <code>Título</code> ou <code>Descrição</code> cadastrados no catálogo.
-</div>
+> ℹ️ Cada regra cadastrada mapeia apenas um campo. Caso o campo mapeado não tenha um valor preenchido, será enviado o valor padrão de `Título` ou `Descrição` cadastrados no catálogo.
 

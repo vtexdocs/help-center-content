@@ -14,9 +14,7 @@ trackId: 3eCHNCIx8XhZOSmX0sQT3U
 trackSlugEN: vtex-live-shopping-getting-started
 ---
 
-<div class = "alert alert-info">
-  <p>If you wish to use another studio rather than Bundle, check the article <a href="https://help.vtex.com/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/Dw0QdKI0aGjmyD5Z6z5JC">Using external studios</a>.</p>
-</div>
+> ℹ️ If you wish to use another studio rather than Bundle, check the article [Using external studios](https://help.vtex.com/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/Dw0QdKI0aGjmyD5Z6z5JC).
 
 VTEX broadcast studio is called Bundle, and in this article you will learn how to make all the necessary configurations in our native studio solution.
 
@@ -24,11 +22,9 @@ VTEX broadcast studio is called Bundle, and in this article you will learn how t
 
 To access the studio in VTEX Admin and start transmitting the live, in the **Event Information** page, go to the **Streaming Studio** section:
 
-![article_8_streaming_studio_EN](//images.ctfassets.net/alneenqid6w5/42ko6XyZU0Fy0Y9Ri4sSmY/84cabea29afc3a34e011dca7064bc137/article_8_streaming_studio_EN.png)
+![article_8_streaming_studio_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-live-shopping-getting-started/using-bundle-studio_1.png)
 
-<div class = "alert alert-info">
-  <p>To enable the fields, the event has to be <a href="https://help.vtex.com/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/6NrWRLAJEHijcd6tLIWoqq">turned on</a>, so that its status is <code>Live</code>.</p>
-</div>
+> ℹ️ To enable the fields, the event has to be [turned on](https://help.vtex.com/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/6NrWRLAJEHijcd6tLIWoqq), so that its status is `Live`.
 
 The settings in this section do the following:
 
@@ -41,11 +37,9 @@ Both hosts using the link generated with the `Copy invitation` button and admini
 
 In the **Device settings** page, when you click `Enter the studio`, you are redirected to the **My Studio** page, as shown in the example below. a vertical [layout type](#https://help.vtex.com/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/125yr6jAfwiiz84JP4ppfO#layout-type-configuring-style):
 
-![article_8_my_studio_EN](//images.ctfassets.net/alneenqid6w5/6qLDAF3sVIUzGcxoLrUD5A/95d8f31be82f9ec1bf97d4fa030b72fc/article_8_my_studio_EN.png)
+![article_8_my_studio_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-live-shopping-getting-started/using-bundle-studio_2.png)
 
-<div class = "alert alert-warning">
-  <p>Before transmitting from Bundle, you must select the <a href="https://help.vtex.com/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/125yr6jAfwiiz84JP4ppfO#layout-type-configuring-style">layout type</a> you want for the screen, because once in the <b>My Studio</b> page, this event layout cannot be altered anymore. To change afterwards, it would be necessary to create a new event.</p>
-</div>
+> ⚠️ Before transmitting from Bundle, you must select the [layout type](https://help.vtex.com/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/125yr6jAfwiiz84JP4ppfO#layout-type-configuring-style) you want for the screen, because once in the **My Studio** page, this event layout cannot be altered anymore. To change afterwards, it would be necessary to create a new event.
 
 In the left navigation menu, you have the following sections (administrators only, except for the Chat private):
 
@@ -57,7 +51,7 @@ In the left navigation menu, you have the following sections (administrators onl
 
 In **My Studio** menu option, the numbers 1 to 5 show which settings can be done by guests and administrators, while numbers 6 to 9 are reserved for administrators only:
 
-![article_8_my_studio_woman_streaming_EN](//images.ctfassets.net/alneenqid6w5/1coQL5kLVhhzwx4YofRTyD/e507677f61646033f033da1aa2b22cd6/article_8_my_studio_woman_streaming_EN.png)
+![article_8_my_studio_woman_streaming_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-live-shopping-getting-started/using-bundle-studio_3.png)
 
 ### Settings for both guests and administrators
 
@@ -98,8 +92,8 @@ Besides that, there is a <i class="fas fa-toggle-off" aria-hidden="true"></i> **
 The name will appear in white letters against a dark background, which cannot be changed. However, you can customize the initial stripe color, as it is taken from **Banners > Theme Color.** Creating a banner is not necessary to activate this option, you only have to define the theme color, which is black by default.  The image below is an example of a pink **Theme Color**:
 
 <p align="center">
-  <img src="https://images.ctfassets.net/alneenqid6w5/1ZHkS8bGN3gSZNDyPM1gIC/5d6a1107820453dcd6d84c478bacb3f1/article_8_asset_types_EN.png" alt="article_8_asset_types_EN" width="200" height="30">
-</p>
+  <img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-live-shopping-getting-started/using-bundle-studio_4.png" alt="article_8_asset_types_EN" width="200" height="30">
+
 
 ### Asset dimensions
 
@@ -107,7 +101,7 @@ The table below presents the format and limit for each type of asset on Bundle s
 
 | **Asset type** | **Common information** | **Horizontal view Landscape (16:9)** | **Vertical view  Portrait Transmission (9:16)** |
 | :---: | :--- | :---: | :---: |
-| Banners | <p>You can customize the following aspects of banners:<ul><li>Color</li><li>Text</li><li>Fixed or scrolling</li></ul></p> | Equal | Equal |
+| Banners | You can customize the following aspects of banners:<ul><li>Color</li><li>Text</li><li>Fixed or scrolling</li></ul> | Equal | Equal |
 | Overlay | **Size limit:** 20 MB / **Extension:** png | **File size:** 1280 x 720 pixels | **File size:** 720 x 1280 pixels |
 | Background | **Size limit:** 20 MB / **Extensions:** png, jpg, jpeg | **File size:** 1280 x 720 pixels | **File size:** 720 x 1280 pixels |
 | Video | **Size limit:** 200 MB / **Extensions:** mov, webm, mp4 | **File size:** 1280 x 720 pixels | **File size:** 720 x 1280 pixels |
@@ -123,9 +117,7 @@ To add an asset, follow the steps below:
 
 After that, the following confirmation message will show: *“The asset was saved with success”*.
 
-<div class = "alert alert-info">
-  <p>Every new asset added into your logged area in Bundle studio is saved for future lives and events.</p>
-</div>
+> ℹ️ Every new asset added into your logged area in Bundle studio is saved for future lives and events.
 
 ### Removing an asset
 
@@ -139,9 +131,7 @@ To remove an asset, follow the steps below:
 
 In **My destinations** menu option, you can connect to other platforms to transmit the same live on multiple channels, such as Youtube, Facebook, and other VTEX accounts.
 
-<div class = "alert alert-danger">
-  <p>Destinations must be configured before the <b>Go Live</b>. Once you start broadcasting, it is no longer possible to connect to other platforms, it would be necessary to create a new event.</p>
-</div>
+> ❗ Destinations must be configured before the **Go Live**. Once you start broadcasting, it is no longer possible to connect to other platforms, it would be necessary to create a new event.
 
 ### Connecting to other VTEX account 
 
@@ -185,9 +175,7 @@ To broadcast your event on Youtube, follow the steps below:
 
 Once you go live, all the content shown on Bundle is going to be automatically streamed on YouTube.
 
-<div class = "alert alert-danger">
-  <p>These destinations must be configured before <b>Go Live</b>.</p>
-</div>
+> ❗ These destinations must be configured before **Go Live**.
 
 ### Connecting to Facebook
 

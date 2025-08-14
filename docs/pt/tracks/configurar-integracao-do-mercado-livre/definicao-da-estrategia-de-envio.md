@@ -20,9 +20,7 @@ Para vender seus produtos no Mercado Livre é preciso determinar uma [Estratégi
 
 Se for do seu interesse utilizar a mesma Estratégia de Envio definida para sua loja VTEX na integração com o Mercado Livre, não é necessário criar novas configurações de logística. Se, no entanto, você deseja criar uma Estratégia de Envio específica para o marketplace, é necessário realizar os seguintes passos:
 
-<div class="alert alert-warning">
-A Política comercial que será utilizada na integração com o Mercado Livre deve ser associada a uma única doca. Caso a Política comercial seja associada a mais de uma doca, os pedidos recebidos podem não integrar com o sistema VTEX.
- </div>
+> ⚠️ A Política comercial que será utilizada na integração com o Mercado Livre deve ser associada a uma única doca. Caso a Política comercial seja associada a mais de uma doca, os pedidos recebidos podem não integrar com o sistema VTEX.
 
 1. [Cadastrar Política de envio](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140#cadastrar-uma-politica-de-envio), associada à política comercial usada na integração.
 2. [Cadastrar Doca](https://help.vtex.com/pt/tutorial/como-cadastrar-doca--7K3FultD8I2cuuA6iyGEiW), associada à política comercial usada na integração.

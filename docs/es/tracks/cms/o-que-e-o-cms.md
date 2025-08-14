@@ -14,7 +14,7 @@ trackId: 2YcpgIljVaLVQYMzxQbc3z
 trackSlugEN: cms
 ---
 
-![CMS Capa overview](//images.ctfassets.net/alneenqid6w5/5FaFzk5z2vdyWIKl5AlCby/e241b8b8231499bfec4c8ce67fb27d0b/CAPA_OVERVIEW_CMS.png)
+![CMS Capa overview](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/cms/o-que-e-o-cms_1.png)
 
 Un sistema de gestión de contenido o CMS (content management system) permite gestionar contenido de forma práctica y constante.
 

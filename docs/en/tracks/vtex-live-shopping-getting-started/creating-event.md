@@ -36,6 +36,6 @@ An event can have one the following status:
 | :---: | :--- |
 | Created | You have successfully created an event.  |
 | Starting | You have turned on the event and it’s being processed to start live-streaming. This might take 3-5 minutes. |
-| Live | <p>The event is ready for you to:</p><p><ul><li>Configure all functionalities.</li><li>View the keys to live-stream from external studios and other platforms.</li><li>Start the Go live.</li></ul></p> |
+| Live | The event is ready for you to:<ul><li>Configure all functionalities.</li><li>View the keys to live-stream from external studios and other platforms.</li><li>Start the Go live.</li></ul> |
 | Completed | The event was finished and can no longer be transmitted. |
 

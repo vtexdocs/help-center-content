@@ -34,7 +34,7 @@ El proceso de go live de una tienda, incluyendo las configuraciones y pruebas ne
 
 En la siguiente imagen puedes ver las etapas de planificación del go live de una tienda VTEX:
 
-![go-live-es](//images.ctfassets.net/alneenqid6w5/3AA13R58ffQhNjBBoJm2kS/41e4c49c159b2a1d22c863808f3e382c/golive_1_ES.png)
+![go-live-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/serie-de-la-tienda-vtex/planificacion-del-go-live_1.png)
 
 ### Definir MVP
 
@@ -46,7 +46,7 @@ Es importante hacer una lista de todos los requisitos que se deben implementar a
 
 Para organizar los equipos participantes y realizar el go live en la fecha deseada, es importante crear un roadmap, es decir, un documento que recoja las acciones requeridas y que indique los responsables de cada etapa y los plazos acordados. La siguiente imagen muestra un ejemplo de roadmap:
 
-![golive 2 ES](//images.ctfassets.net/alneenqid6w5/Z0MHCvHc0dMND8dOCk7JJ/135bae2dca13c1881fb5d7c02a5f0b60/golive_2_ES.png)
+![golive 2 ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/serie-de-la-tienda-vtex/planificacion-del-go-live_2.png)
 
 Recomendamos planificar reuniones periódicas con los [equipos de implementación](https://help.vtex.com/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#partners-de-implementacion) para mantener una alineación frecuente y, de ser necesario, crear un war room para resolver asuntos pendientes la semana antes del go live.
 
@@ -60,9 +60,7 @@ Después de la fecha del lanzamiento oficial, con la tienda plenamente operativa
 
 Antes del go live, es muy importante comprobar las configuraciones esenciales para el buen funcionamiento de la tienda. Para esto recomendamos verificar la [Lista de configuración de la tienda](https://assets.ctfassets.net/alneenqid6w5/3yv1ofQRJ5xeX7J5EGglGy/dbe5b9175ab01586916c6155ac5681fa/Checklist_de_configura____o_de_loja.xlsx). En cada punto se debe confirmar que las configuraciones se completaron de acuerdo con las características de operación de la tienda.
 
-<div class="alert alert-warning">
- <p>La lista de comprobación indicada anteriormente enumera las funcionalidades y configuraciones básicas para el funcionamiento de una tienda VTEX. El <a href="https://help.vtex.com/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#partners-de-implementacion">equipo de implementación</a> de cada tienda es responsable de definir las funcionalidades y configuraciones que se deben aplicar para producir la experiencia de compra deseada para los clientes. Recomendamos comprobar todos los aspectos operativos de la tienda y añadirlos a la lista en caso de que no estén incluidos.</p>
-</div>
+> ⚠️ La lista de comprobación indicada anteriormente enumera las funcionalidades y configuraciones básicas para el funcionamiento de una tienda VTEX. El [equipo de implementación](https://help.vtex.com/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#partners-de-implementacion) de cada tienda es responsable de definir las funcionalidades y configuraciones que se deben aplicar para producir la experiencia de compra deseada para los clientes. Recomendamos comprobar todos los aspectos operativos de la tienda y añadirlos a la lista en caso de que no estén incluidos.
 
 ## 3. Configuración del dominio y la cuenta
 
@@ -72,9 +70,7 @@ Después de completar las configuraciones internas de la tienda se deben realiza
 2. [Configurar registro CAA](https://help.vtex.com/es/tracks/realizando-o-go-live-da-sua-loja--4Ns5FxIiksmjsdX2yOTduM/7wFsbWgN4rnZsbjhv8IItX#configurar-registro-caa): indicar que la autoridad de certificación (CA) **Let's Encrypt** está autorizada para generar y renovar certificados que acrediten la identidad del dominio. Este paso es necesario si hay un registro CAA en el servidor DNS.
 3. [Añadir cuenta en producción](https://help.vtex.com/es/tracks/realizando-o-go-live-da-sua-loja--4Ns5FxIiksmjsdX2yOTduM/7wFsbWgN4rnZsbjhv8IItX#colocar-conta-em-producao): activar la cuenta VTEX en producción. Aun después de la activación, la tienda sigue sin estar disponible para clientes externos. Solo se podrán ver y comprar productos en la tienda después de la finalización del go live, según los pasos que se describen en las próximas secciones de este artículo.
 
-<div class="alert alert-warning">
- <p>Desde el momento en que la cuenta se active en producción, todos los pedidos se cobrarán automáticamente y el <a href="https://help.vtex.com/es/tutorial/compreenda-o-valor-da-receita-aprovada--tutorials_4322#valores-da-receita-aprovada">take rate</a> se aplicará según el plan acordado con VTEX. Esto incluye los pedidos realizados en `{nombredelatienda}.myvtex.com`, incuso si fueron realizados como prueba.</p>
-</div>
+> ⚠️ Desde el momento en que la cuenta se active en producción, todos los pedidos se cobrarán automáticamente y el [take rate](https://help.vtex.com/es/tutorial/compreenda-o-valor-da-receita-aprovada--tutorials_4322#valores-da-receita-aprovada) se aplicará según el plan acordado con VTEX. Esto incluye los pedidos realizados en `{nombredelatienda}.myvtex.com`, incuso si fueron realizados como prueba.
 
 Para más información, consulta el artículo [Configuración](https://help.vtex.com/es/tracks/realizando-o-go-live-da-sua-loja--4Ns5FxIiksmjsdX2yOTduM/7wFsbWgN4rnZsbjhv8IItX), que forma parte de la serie [Go live](https://help.vtex.com/es/tracks/realizando-o-go-live-da-sua-loja--4Ns5FxIiksmjsdX2yOTduM/1iP90RcJvlrfQhnlxM54wo).
 
@@ -86,9 +82,7 @@ VTEX permite crear entornos independientes para estas pruebas. Cuando se crea un
 
 Para planificar una fase de pruebas ponte en contacto con [nuestro equipo de soporte](https://help.vtex.com/es/tracks/soporte-en-vtex--4AXsGdGHqExp9ZkiNq9eMy), que es el canal para [contratar un entorno de pruebas](https://help.vtex.com/es/tutorial/contratar-ambiente-de-testes--2nmZAHlfQoGsCWmEWGIoGy).
 
-<div class="alert alert-info">
- <p>Si la tienda fue<a href="https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ#entorno-de-desarrollo"> creada utilizando VTEX IO</a>, puedes realizar pruebas A/B entre workspaces, es decir, comparar el rendimiento de entornos de desarrollo de storefront. Para más información, consulta la guía de desarrolladores<a href="https://developers.vtex.com/docs/guides/vtex-io-documentation-running-native-ab-testing"> Running A/B tests</a>.</p>
-</div>
+> ℹ️ Si la tienda fue[ creada utilizando VTEX IO](https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ#entorno-de-desarrollo), puedes realizar pruebas A/B entre workspaces, es decir, comparar el rendimiento de entornos de desarrollo de storefront. Para más información, consulta la guía de desarrolladores[ Running A/B tests](https://developers.vtex.com/docs/guides/vtex-io-documentation-running-native-ab-testing).
 
 ### Quality Assurance (QA)
 
@@ -108,9 +102,7 @@ Después de concluidas las pruebas y ajustes correspondientes, se debe preparar 
 
 1. [Registrar el dominio en VTEX](https://help.vtex.com/es/tutorial/configurando-dominios-no-gerenciamento-da-conta--tutorials_2450): hay que acceder a **Configuración de la cuenta** en el Admin VTEX para conectar la dirección de la tienda.
 
-   <div class="alert alert-warning">
-     <p>Después del registro, hay un plazo de siete días para completar el go live. Si la tienda no completa los procedimientos requeridos para el go live en ese periodo, habrá que acceder al registro y guardarlo nuevamente.</p>
-   </div>
+   > ⚠️ Después del registro, hay un plazo de siete días para completar el go live. Si la tienda no completa los procedimientos requeridos para el go live en ese periodo, habrá que acceder al registro y guardarlo nuevamente.
 
 2. **Solicitar apuntamiento interno:** hay que abrir un ticket con el [soporte VTEX](https://help.vtex.com/es/tracks/soporte-en-vtex--4AXsGdGHqExp9ZkiNq9eMy) para solicitar el apuntamiento de DNS interno. El plazo para completar esta solicitud es de hasta tres días laborables.
 
@@ -126,11 +118,11 @@ Después de concluidas las pruebas y ajustes correspondientes, se debe preparar 
   <tbody>
     <tr class="bb b--muted-3">
       <td class="t-body pa5" style="min-width: 10rem;">Store Framework o FastStore (VTEX IO)</td>
-      <td class="t-body pa5" style="min-width: 10rem;">Solicitar el <a href="https://help.vtex.com/es/tracks/realizando-o-go-live-da-sua-loja--4Ns5FxIiksmjsdX2yOTduM/7sM5IMx02zaHvAFTm0OxiJ#solicitar-apontamento-io" target="_blank" rel="noopener noreferrer" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word">apuntamiento de DNS interno para VTEX IO</a> mediante un ticket con el <a href="https://help.vtex.com/es/support" target="_blank" rel="noopener noreferrer"  class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word">soporte VTEX</a>.<br> <br>Para más información, consulta los artículos:<ul><li><a href="https://developers.vtex.com/docs/guides/vtex-io-documentation-go-live" target="_blank" rel="noopener noreferrer" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word">Going live with a new store</a> (Store Framework)</li><li><a href="https://developers.vtex.com/docs/guides/vtex-io-documentation-migrating-storefront-from-legacy-to-io" target="_blank" rel="noopener noreferrer" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word">Migrating your storefront from Legacy CMS Portal to Store Framework</a></li><li><a href="https://www.faststore.dev/docs/go-live/2-configuring-external-dns" target="_blank" rel="noopener noreferrer" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word">Configuring external DNS for a custom domain</a> (FastStore)</li></ul></td>
+      <td class="t-body pa5" style="min-width: 10rem;">Solicitar el [apuntamiento de DNS interno para VTEX IO](https://help.vtex.com/es/tracks/realizando-o-go-live-da-sua-loja--4Ns5FxIiksmjsdX2yOTduM/7sM5IMx02zaHvAFTm0OxiJ#solicitar-apontamento-io) mediante un ticket con el [soporte VTEX](https://help.vtex.com/es/support).<br> <br>Para más información, consulta los artículos:<ul><li>[Going live with a new store](https://developers.vtex.com/docs/guides/vtex-io-documentation-go-live) (Store Framework)</li><li>[Migrating your storefront from Legacy CMS Portal to Store Framework](https://developers.vtex.com/docs/guides/vtex-io-documentation-migrating-storefront-from-legacy-to-io)</li><li>[Configuring external DNS for a custom domain](https://www.faststore.dev/docs/go-live/2-configuring-external-dns) (FastStore)</li></ul></td>
     </tr>
     <tr class="bb b--muted-3">
       <td class="t-body pa5" style="min-width: 10rem;">CMS Portal Legado</td>
-      <td class="t-body pa5" style="min-width: 10rem;">Si el acceso a la tienda está restringido por una <a href="https://help.vtex.com/es/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word">política comercial</a> con una regla condicional y tu storefront fue creado con<a href="https://help.vtex.com/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word">CMS Portal Legado</a>, debes solicitar un <a href="https://help.vtex.com/es/tracks/go-live-your-store--4Ns5FxIiksmjsdX2yOTduM/7sM5IMx02zaHvAFTm0OxiJ#solicitar-apontamento-especial" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word">apuntamiento interno especial</a>. Un ejemplo común son las tiendas B2B que restringen el acceso a empresas preaprobadas. La solicitud de apuntamiento especial se envía a través del <a href="https://help.vtex.com/es/support" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word">soporte VTEX</a>, que debe incluir la política comercial y la regla condicional configurada.</td>
+      <td class="t-body pa5" style="min-width: 10rem;">Si el acceso a la tienda está restringido por una [política comercial](https://help.vtex.com/es/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE) con una regla condicional y tu storefront fue creado con[CMS Portal Legado](https://help.vtex.com/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj), debes solicitar un [apuntamiento interno especial](https://help.vtex.com/es/tracks/go-live-your-store--4Ns5FxIiksmjsdX2yOTduM/7sM5IMx02zaHvAFTm0OxiJ#solicitar-apontamento-especial). Un ejemplo común son las tiendas B2B que restringen el acceso a empresas preaprobadas. La solicitud de apuntamiento especial se envía a través del [soporte VTEX](https://help.vtex.com/es/support), que debe incluir la política comercial y la regla condicional configurada.</td>
     </tr>
   </tbody>
   </table>
@@ -144,9 +136,7 @@ Independientemente del tipo de solicitud que se necesite, el ticket para el sopo
 - Indicar si la tienda tiene reglas condicionales de [políticas comerciales](https://help.vtex.com/es/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE).
 - Si ya hay un sitio web activo que se esté migrando a VTEX, indicar si se utiliza la red CDN de Cloudfront.
 
-<div class="alert alert-warning">
- <p>Después de recibir la confirmación de apuntamiento interno, hay que realizar el apuntamiento común de DNS en hasta cinco días. De lo contrario, el apuntamiento interno se eliminará y habrá que enviar una nueva solicitud.</p>
-</div>
+> ⚠️ Después de recibir la confirmación de apuntamiento interno, hay que realizar el apuntamiento común de DNS en hasta cinco días. De lo contrario, el apuntamiento interno se eliminará y habrá que enviar una nueva solicitud.
 
 ## 6. Go live
 
@@ -154,15 +144,11 @@ Durante el go live, después de la confirmación del apuntamiento interno realiz
 
 1. [Realizar el apuntamiento DNS:](https://help.vtex.com/es/tracks/go-live-your-store--4Ns5FxIiksmjsdX2yOTduM/12bQlMbJ68Ot0LIaO6Btkj#realizar-apontamento-de-dnshttps://help.vtex.com/pt/tracks/go-live-your-store--4Ns5FxIiksmjsdX2yOTduM/12bQlMbJ68Ot0LIaO6Btkj#realizar-apontamento-de-dns) en la zona DNS del dominio, crear una entrada de tipo CNAME en el subdominio deseado para el destino ``{dominio}.cdn.vtex.com``. El ``{dominio}`` debe ser el mismo que está registrado en VTEX.
 
-   <div class="alert alert-warning">
-    <p>La propagación del apuntamiento DNS puede tomar de 24 a 48 horas para completarse. Esto significa que la dirección configurada puede no estar accesible a todo el mundo justo después de la configuración.</p>
-   </div>
+   > ⚠️ La propagación del apuntamiento DNS puede tomar de 24 a 48 horas para completarse. Esto significa que la dirección configurada puede no estar accesible a todo el mundo justo después de la configuración.
 
 2. [Notificar el apuntamiento:](https://help.vtex.com/es/tracks/go-live-your-store--4Ns5FxIiksmjsdX2yOTduM/12bQlMbJ68Ot0LIaO6Btkj#notificar-apontamento) para que la tienda esté disponible al público general, se debe notificar a la plataforma VTEX que el apuntamiento fue realizado. Para esto, hay que guardar nuevamente la **Configuración de la cuenta** en el Admin VTEX.
 
-   <div class="alert alert-info">
-    <p>Si la tienda fue creada con<a href="https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ#faststore"> FastStore</a>, también se deben seguir los pasos descritos en el artículo<a href="https://www.faststore.dev/docs/go-live/2-configuring-external-dns"> Configuring external DNS for a custom domain</a>.</p>
-   </div>
+   > ℹ️ Si la tienda fue creada con[ FastStore](https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ#faststore), también se deben seguir los pasos descritos en el artículo[ Configuring external DNS for a custom domain](https://www.faststore.dev/docs/go-live/2-configuring-external-dns).
 
 Luego de completar las etapas anteriores, la tienda estará disponible en el dominio registrado para que los clientes puedan entrar y hacer compras.
 

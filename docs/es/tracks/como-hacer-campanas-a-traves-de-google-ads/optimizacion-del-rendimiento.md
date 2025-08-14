@@ -23,7 +23,7 @@ Aquí le enseñaremos cómo optimizar una campaña a partir de la exclusión de 
 En consecuencia, la optimización de una campaña también se puede hacer a partir de la exclusión de Subcategorías, siempre que tenga sentido para la estrategia de una campaña.
 
 <div class=“ alert alert-warning” >
-<strong>Atención</strong>: VTEX Shopping Ads solo permite la optimización de campañas de tipo Google Smart Shopping creadas dentro del propio aplicativo. Las demás campañas apenas  muestran sus resultados en VTEX Shopping Ads, mientras que su administración se realiza en el panel de Google Ads.
+**Atención**: VTEX Shopping Ads solo permite la optimización de campañas de tipo Google Smart Shopping creadas dentro del propio aplicativo. Las demás campañas apenas  muestran sus resultados en VTEX Shopping Ads, mientras que su administración se realiza en el panel de Google Ads.
 </div>
 
 1. En la esquina superior derecha de la pantalla, haga clic en __Audiencia de las Campañas__;

@@ -20,9 +20,7 @@ De forma simples e intuitiva, ele apresenta resultados relevantes desde a primei
 
 Nesta trilha, apresentamos as etapas necessárias para configurar e começar a utilizar o Intelligent Search em sua loja VTEX.
 
-<div class="alert alert-info">
-  <p>Conheça todas as funcionalidades disponíveis e saiba mais sobre o comportamento da ferramenta em <a href="https://help.vtex.com/pt/tutorial/intelligent-search-visao-geral--5o8ixTpYIxx3uJD0B1xp3z">Intelligent Search - Visão geral</a>.</p>
-</div>
+> ℹ️ Conheça todas as funcionalidades disponíveis e saiba mais sobre o comportamento da ferramenta em [Intelligent Search - Visão geral](https://help.vtex.com/pt/tutorial/intelligent-search-visao-geral--5o8ixTpYIxx3uJD0B1xp3z).
 
 ## Requisitos
 
@@ -30,9 +28,7 @@ Antes de começar a utilizar o Intelligent Search, confira se sua loja atende ao
 
 * A loja precisa ter sido desenvolvida utilizando [Store Framework](https://developers.vtex.com/docs/guides/store-framework) ou [FastStore](https://developers.vtex.com/docs/guides/faststore), ou seja, é necessário utilizar uma versão do [Edition App](https://developers.vtex.com/docs/guides/vtex-io-documentation-edition-app) vtex.edition-store@3.x ou mais recente.
 
-  <div class="alert alert-info">
-    <p>O requisito acima não se aplica a cenários de implementação headless, em que a tecnologia de frontend não é oferecida pela VTEX. Nesses casos, é necessário implementar o envio dos eventos de busca. Obtenha mais detalhes em <a href="https://developers.vtex.com/docs/api-reference/intelligent-search-events-api-headless">VTEX Intelligent Search Events API - Headless</a>.</p>
-  </div>
+  > ℹ️ O requisito acima não se aplica a cenários de implementação headless, em que a tecnologia de frontend não é oferecida pela VTEX. Nesses casos, é necessário implementar o envio dos eventos de busca. Obtenha mais detalhes em [VTEX Intelligent Search Events API - Headless](https://developers.vtex.com/docs/api-reference/intelligent-search-events-api-headless).
 
 * A loja deve ter [produtos e SKUs cadastrados no Catálogo](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1ROhz3Y7mfSMmCO1I1GxEL) e ativos.
 

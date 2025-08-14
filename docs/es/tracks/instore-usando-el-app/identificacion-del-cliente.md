@@ -27,12 +27,10 @@ Usted puede [configurar qué métodos de identificación desea habilitar](https:
 
 En el ejemplo de la imagen a continuación, Email y CPF están habilitados.
 
-![31. inStore - Product Overview - 2 - ES](//images.ctfassets.net/alneenqid6w5/2YKc9S2FehS7eA2zTskL33/99fe77f7a5c0a43318ffa841e67d20cb/identify-customer-es.PNG)
+![31. inStore - Product Overview - 2 - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/instore-usando-el-app/identificacion-del-cliente_1.PNG)
 
 Ingrese uno de estos datos en el campo y haga clic en el botón `Confirmar`.
 
 Alternativamente, si ha habilitado Usuario anónimo, es posible continuar sin identificar al cliente. Para hacer esto, haga clic en `Continuar sin identificación`.
 
-<div class="alert alert-info">
-Aunque es posible atender a los clientes sin identificarlos, siempre recomendamos hacerlo, ya que esto le brinda al vendedor una serie de información contextual que aumenta las posibilidades de conversión.
-</div>
+> ℹ️ Aunque es posible atender a los clientes sin identificarlos, siempre recomendamos hacerlo, ya que esto le brinda al vendedor una serie de información contextual que aumenta las posibilidades de conversión.

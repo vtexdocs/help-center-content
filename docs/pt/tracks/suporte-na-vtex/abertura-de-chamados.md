@@ -26,9 +26,7 @@ Os chamados para o suporte VTEX são:
 - [Suporte financeiro](https://help.vtex.com/pt/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/3g2mhmPDx5GszNgLDICzsl): contrato ou questões financeiras relativas à loja e à VTEX.
 - [Suporte comercial](https://help.vtex.com/pt/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ): contratação de [política comercial](https://help.vtex.com/pt/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ#contratar-politica-comercial-adicional) adicional, de [ambiente adicional](https://help.vtex.com/pt/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ#contratar-politica-comercial-adicional#contratar-novo-ambiente), conta franquia ou alteração de [usuário titular](https://help.vtex.com/pt/tutorial/o-que-e-o-usuario-titular--3oPr7YuIkEYqUGmEqIMSEy).
 
-<div class = "alert alert-info">
-Para obter mais informações sobre como abrir um chamado, basta acessar o artigo <a href="https://help.vtex.com/pt/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM">Abrir chamados para o suporte VTEX. </a>
-</div>
+> ℹ️ Para obter mais informações sobre como abrir um chamado, basta acessar o artigo [Abrir chamados para o suporte VTEX. ](https://help.vtex.com/pt/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM)
 
 ## Acesso ao Copilot
 
@@ -44,7 +42,7 @@ Para acessar o **Copilot** e iniciar a interação com o suporte, siga os passos
    - Tenho um cenário inesperado.
    - Preciso de uma configuração por parte da VTEX.
 
-![Chatbot-PT](//images.ctfassets.net/alneenqid6w5/13Btoe6i63BUHjlyVNRrpu/74ecf0d07b35057f1d2a82da9486d19e/copilot-pt.gif)
+![Chatbot-PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/suporte-na-vtex/abertura-de-chamados_1.gif)
 
 O Copilot responderá de forma automática e guiará você pelo processo. Caso sua dúvida não seja resolvida durante a interação com o Copilot, você poderá prosseguir para a abertura de um chamado manualmente.
 

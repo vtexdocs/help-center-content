@@ -14,6 +14,4 @@ trackId: 1LqUFHQZ3ZQyV5TmugbGNm
 trackSlugEN: condiciones-de-pago-clusterizadas
 ---
 
-<div class="alert alert-info">
-Esta funcionalidad se encuentra actualmente en Beta Cerrada (etapa de prueba) y no está disponible para su instalación en tiendas nuevas.           
-</div>  
+> ℹ️ Esta funcionalidad se encuentra actualmente en Beta Cerrada (etapa de prueba) y no está disponible para su instalación en tiendas nuevas.  

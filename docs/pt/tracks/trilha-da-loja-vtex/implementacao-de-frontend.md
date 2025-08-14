@@ -24,9 +24,7 @@ Este artigo tem como objetivo auxiliar na escolha de qual tecnologia usar para c
 
 O foco da implementação de frontend é uma etapa com foco em definir as tecnologias a serem implementadas, de acordo com as necessidades do negócio relacionadas à frente de loja.
 
-<div class = "alert alert-info">
-O frontend pode ser implementado pelo time de desenvolvimento interno da empresa ou pelos nossos <a href="https://help.vtex.com/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#parceiros-de-implementacao">parceiros de implementação</a>. <a href="https://help.vtex.com/pt/tutorial/gerenciando-usuarios--tutorials_512">Usuários</a> com acesso ao Admin VTEX podem consultar a lista dos nossos parceiros pelo <a href="https://partnerportal.vtex.com/">Partner Portal</a>.
-</div>
+> ℹ️ O frontend pode ser implementado pelo time de desenvolvimento interno da empresa ou pelos nossos [parceiros de implementação](https://help.vtex.com/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#parceiros-de-implementacao). [Usuários](https://help.vtex.com/pt/tutorial/gerenciando-usuarios--tutorials_512) com acesso ao Admin VTEX podem consultar a lista dos nossos parceiros pelo [Partner Portal](https://partnerportal.vtex.com/).
 
 ## Antes de começar
 
@@ -39,17 +37,13 @@ Antes de começar a implementação do frontend, é recomendado que a loja tenha
 | Configuração do catálogo | O time configurou o [catálogo](https://help.vtex.com/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#catalogo) com os produtos, a árvore de categoria e informações relacionadas, como descrições, imagens e preços, a fim de preencher e testar a loja, incluindo recursos como páginas de listagem de produtos (PLP), funcionalidade de pesquisa, páginas de detalhes de produtos (PDP) e checkout.<br><br>A ausência de um catálogo pode resultar em testes incompletos e problemas de integração de dados, atrasando a implementação.<br><br>Mais informações no artigo [Módulos da VTEX I](https://help.vtex.com/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7). |
 | Definição dos aplicativos necessários à operação da loja | O time definiu os aplicativos, nativos ou de terceiros, necessários para a operação da loja.<br><br>Para lojas que serão construídas usando [Store Framework](#store-framework), existe uma lista de apps nativos e de terceiros.<br><br>Mais informações no artigo [VTEX IO apps](https://developers.vtex.com/docs/vtex-io-apps). |
 
-<div class = "alert alert-info">
-A <a href="#etapas-de-desenvolvimento">etapa de desenvolvimento</a> pode acontecer em paralelo com outras etapas da <a href="https://help.vtex.com/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu">Integrações de backend</a> e <a href="https://help.vtex.com/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7">configuração de módulos</a>, como por exemplo as configurações de meios de pagamentos e logística. Isso vai depender do tipo de <a href="https://help.vtex.com/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl">arquitetura e planejamento</a> escolhidos para a loja VTEX e deve ser acompanhado pela <a href="https://help.vtex.com/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#parceiros-de-implementacao">agência implementadora</a> ou <a href="https://help.vtex.com/pt/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/7w7cUmbrdPEKpTMItjXEB8">Suporte VTEX</a>.
-</div>
+> ℹ️ A [etapa de desenvolvimento](#etapas-de-desenvolvimento) pode acontecer em paralelo com outras etapas da [Integrações de backend](https://help.vtex.com/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu) e [configuração de módulos](https://help.vtex.com/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7), como por exemplo as configurações de meios de pagamentos e logística. Isso vai depender do tipo de [arquitetura e planejamento](https://help.vtex.com/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl) escolhidos para a loja VTEX e deve ser acompanhado pela [agência implementadora](https://help.vtex.com/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#parceiros-de-implementacao) ou [Suporte VTEX](https://help.vtex.com/pt/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/7w7cUmbrdPEKpTMItjXEB8).
 
 ## Tecnologias de desenvolvimento de frontend na VTEX
 
 A VTEX possui três tecnologias distintas para o desenvolvimento de frente de loja: a [FastStore](#FastStore), o [Store Framework](#store-framework) e o [CMS Portal Legado](https://help.vtex.com/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj). O CMS Portal Legado foi a primeira tecnologia da VTEX para construção de frente de loja, baseada em HTML, CSS e JavaScript, e todo o desenvolvimento e a edição do código dessa tecnologia são feitos via Admin VTEX.
 
-<div class="alert alert-warning">
-Apesar de ainda ser usado por algumas lojas, o <a href="https://help.vtex.com/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj">CMS Portal Legado</a> é uma tecnologia legada e não está mais disponível para lojas que estão iniciando com a VTEX.
-</div>
+> ⚠️ Apesar de ainda ser usado por algumas lojas, o [CMS Portal Legado](https://help.vtex.com/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj) é uma tecnologia legada e não está mais disponível para lojas que estão iniciando com a VTEX.
 
 As próximas seções são sobre as principais características e funcionalidades da FastStore e do Store Framework.
 
@@ -93,7 +87,7 @@ Ao falar de implementação de frontend, é preciso lembrar que o [VTEX IO](http
 
 Isso significa que ao trabalhar com VTEX IO, a pessoa desenvolve seu código localmente. Porém, quando se trata de implantar e executar a loja, o VTEX IO gerencia a infraestrutura, CI/CD e segurança, além de cuidar do processo de implantação. A imagem abaixo apresenta como estes conceitos se relacionam entre si:
 
-![Arquitetura de desenvolvimento frontend](//images.ctfassets.net/alneenqid6w5/70awnhEGvAlpk5NBrGJJJ6/a552a6ae6c50ef92304ff8f11e651cbf/frontend_image2_PT.png)
+![Arquitetura de desenvolvimento frontend](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/trilha-da-loja-vtex/implementacao-de-frontend_1.png)
 
 ### Principais funcionalidades do Store Framework
 
@@ -121,27 +115,25 @@ Para lojas B2B, o Store Framework é uma ótima opção, uma vez que disponibili
 
 A FastStore é uma alternativa em evolução mais recente focada na performance da loja. Esta solução oferece uma experiência de carregamento rápido, o que é essencial para manter os visitantes da loja engajados e reduzir as taxas de abandono de carrinho. Para casos de uso mais simples e com foco em performance, a FastStore pode ser a tecnologia mais recomendada. 
 
-<div class = "alert alert-info">
-A equipe de <a href="https://help.vtex.com/pt/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/7w7cUmbrdPEKpTMItjXEB8">suporte da VTEX</a> pode auxiliar no momento de escolher entre uma das tecnologias de storefront disponíveis.
-</div>
+> ℹ️ A equipe de [suporte da VTEX](https://help.vtex.com/pt/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/7w7cUmbrdPEKpTMItjXEB8) pode auxiliar no momento de escolher entre uma das tecnologias de storefront disponíveis.
 
 A tabela abaixo compara as duas tecnologias de acordo com suas principais funcionalidades:
 
 <table>
     <tr>
-        <td><strong>Funcionalidade</strong></td>
-        <td><strong>Store Framework</strong></td>
-        <td><strong>FastStore</strong></td>
+        <td>**Funcionalidade**</td>
+        <td>**Store Framework**</td>
+        <td>**FastStore**</td>
     </tr>
     <tr>
-      <td><i>Starter</i> (template inicial)</td>
-        <td>O <a href="https://github.com/vtex-apps/store-theme">Store Theme</a> é o template inicial no qual o time pode usar de base para iniciar o projeto da loja ou iniciar do zero.</td>
-        <td>O <a href="https://starter.vtex.app/">Starter FastStore</a> já é disponibilizado ao finalizar o <a href="https://www.faststore.dev/docs/getting-started/1-faststore-onboarding/overview">Onboarding da FastStore</a>. Isso permite que o time comece o projeto com um template base focado em performance.</td>
+      <td>*Starter* (template inicial)</td>
+        <td>O [Store Theme](https://github.com/vtex-apps/store-theme) é o template inicial no qual o time pode usar de base para iniciar o projeto da loja ou iniciar do zero.</td>
+        <td>O [Starter FastStore](https://starter.vtex.app/) já é disponibilizado ao finalizar o [Onboarding da FastStore](https://www.faststore.dev/docs/getting-started/1-faststore-onboarding/overview). Isso permite que o time comece o projeto com um template base focado em performance.</td>
     </tr>
     <tr>
         <td>Desempenho</td>
-        <td>Os recursos de SSR (<em>Server Side Rendering</em>) geram todo o HTML de uma página no servidor em resposta a uma solicitação de página, enquanto o SPA (<em>Single Page Application</em>) carrega elementos como o cabeçalho apenas uma vez que a página é carregada.</td>
-        <td>Possibilidade de máxima performance, já que utiliza a arquitetura <a href="https://jamstack.org/">Jamstack</a> para criar as páginas do site da loja com antecedência, tornando a entrega do site mais rápida e eficiente em termos de recursos.</td>
+        <td>Os recursos de SSR (*Server Side Rendering*) geram todo o HTML de uma página no servidor em resposta a uma solicitação de página, enquanto o SPA (*Single Page Application*) carrega elementos como o cabeçalho apenas uma vez que a página é carregada.</td>
+        <td>Possibilidade de máxima performance, já que utiliza a arquitetura [Jamstack](https://jamstack.org/) para criar as páginas do site da loja com antecedência, tornando a entrega do site mais rápida e eficiente em termos de recursos.</td>
     </tr>
     <tr>
         <td>Tech Stack</td>
@@ -170,29 +162,29 @@ A tabela abaixo compara as duas tecnologias de acordo com suas principais funcio
     </tr>
     <tr>
         <td>Gerenciamento do código</td>
-        <td>Utiliza <a href="https://developers.vtex.com/docs/guides/vtex-io-documentation-workspace">Workspaces</a> e a arquitetura do VTEX IO para o versionamento, atualização e rollback dos componentes e aplicativos.</td>
-        <td>Utiliza o GitHub e o conceito de <a href="https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches">branches</a> para a colaboração. Os usuários autorizados no repositório da frente de loja no GitHub podem visualizar e colaborar com o código.</td>
+        <td>Utiliza [Workspaces](https://developers.vtex.com/docs/guides/vtex-io-documentation-workspace) e a arquitetura do VTEX IO para o versionamento, atualização e rollback dos componentes e aplicativos.</td>
+        <td>Utiliza o GitHub e o conceito de [branches](https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches) para a colaboração. Os usuários autorizados no repositório da frente de loja no GitHub podem visualizar e colaborar com o código.</td>
     </tr>
     <tr>
-        <td><em>Community and Support</em></td>
+        <td>*Community and Support*</td>
         <td>
             <ul>
-                <li><a href="https://developers.vtex.com/docs/guides/vtex-io-documentation-what-is-vtex-store-framework">Documentação oficial</a></li>
-                <li><a href="https://community.vtex.com/c/store-development/store-framework/17">VTEX community</a></li>
+                <li>[Documentação oficial](https://developers.vtex.com/docs/guides/vtex-io-documentation-what-is-vtex-store-framework)</li>
+                <li>[VTEX community](https://community.vtex.com/c/store-development/store-framework/17)</li>
             </ul>
         </td>
         <td>
             <ul>
-                <li><a href="https://www.faststore.dev/docs">Documentação oficial</a></li>
+                <li>[Documentação oficial](https://www.faststore.dev/docs)</li>
             </ul>
         </td>
     </tr>
     <tr>
-        <td><em>Performance Monitoring and Analytics</em></td>
+        <td>*Performance Monitoring and Analytics*</td>
         <td>
             <ul>
-                <li>Possibilidade de configurar o <a href="https://developers.vtex.com/docs/guides/google-tag-manager">VTEX Google Tag Manager</a> para analisar dados de navegação da loja.</li>
-                <li>Possibilidade de aumentar o desempenho do site da loja usando ferramentas de <a href="https://developers.vtex.com/docs/guides/vtex-io-documentation-best-practices-for-optimizing-performance">otimização de desempenho</a>.</li>
+                <li>Possibilidade de configurar o [VTEX Google Tag Manager](https://developers.vtex.com/docs/guides/google-tag-manager) para analisar dados de navegação da loja.</li>
+                <li>Possibilidade de aumentar o desempenho do site da loja usando ferramentas de [otimização de desempenho](https://developers.vtex.com/docs/guides/vtex-io-documentation-best-practices-for-optimizing-performance).</li>
             </ul>
         </td>
         <td>
@@ -204,8 +196,8 @@ A tabela abaixo compara as duas tecnologias de acordo com suas principais funcio
     </tr>
     <tr>
         <td>Sistema de Gerenciamento de Conteúdo (CMS)</td>
-        <td>Compatível com o <a href="https://help.vtex.com/pt/tutorial/site-editor-visao-geral--299Dbeb9mFczUTyNQ9xPe1">Site Editor</a>.</td>
-        <td>Compatível com o <a href="https://www.faststore.dev/docs/headless-cms-overview">Headless CMS</a>.</td>
+        <td>Compatível com o [Site Editor](https://help.vtex.com/pt/tutorial/site-editor-visao-geral--299Dbeb9mFczUTyNQ9xPe1).</td>
+        <td>Compatível com o [Headless CMS](https://www.faststore.dev/docs/headless-cms-overview).</td>
     </tr>
 </table>
 
@@ -216,9 +208,7 @@ Antes de lançar a loja em produção e do [go-live](https://help.vtex.com/pt/tr
 - [Requisitos para um MVP da FastStore](#requisitos-para-um-mvp-da-faststore)
 - [Requisitos para um MVP do Store Framework](#requisitos-para-um-mvp-do-store-framework)
 
-<div class = "alert alert-info">
-As recomendações a seguir são para configurações básicas de frente de loja. Dependendo da <a href="https://help.vtex.com/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl">arquitetura escolhida</a> para a operação da loja, outras configurações podem ser necessárias.
-</div>
+> ℹ️ As recomendações a seguir são para configurações básicas de frente de loja. Dependendo da [arquitetura escolhida](https://help.vtex.com/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl) para a operação da loja, outras configurações podem ser necessárias.
 
 ### Desenvolvendo com a FastStore
 
@@ -229,7 +219,7 @@ O time de desenvolvimento deve iniciar um novo projeto com a FastStore através 
 - *Product Details Page* (PDP)
 - *Minicart*
 
-![FastStore template](//images.ctfassets.net/alneenqid6w5/gRMxctAER60dhr8UEIEh2/56b79e81aae806bf7ab17d6088267f90/frontend_image4_ALL.png)
+![FastStore template](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/trilha-da-loja-vtex/implementacao-de-frontend_2.png)
 
 #### Requisitos para um MVP da FastStore
 
@@ -282,7 +272,7 @@ O time de desenvolvimento deve iniciar um novo projeto com o Store Framework clo
 - *Product Listing Page* (PLP)
 - *Product Details Page* (PDP)
 
-![Store Framework template](//images.ctfassets.net/alneenqid6w5/5TpA31coQ1lu5ZoMkj8boS/d1f1bfb2f0e46ff3755375e00658a466/frontend_image5_ALL.png)
+![Store Framework template](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/trilha-da-loja-vtex/implementacao-de-frontend_3.png)
 
 #### Requisitos para um MVP do Store Framework
 

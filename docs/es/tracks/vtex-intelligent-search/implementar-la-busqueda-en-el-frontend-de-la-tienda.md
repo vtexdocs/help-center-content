@@ -18,9 +18,7 @@ Para empezar a utilizar las funcionalidades de búsqueda, debes agregar los comp
 
 Ponte en contacto con el equipo de desarrolladores de tu tienda para personalizar el frontend utilizando los componentes específicos para cada tecnología, detallados a continuación.
 
-<div class="alert alert-info">
-  <p>Esta etapa no aplica a escenarios de implementación headless, donde la tecnología frontend no la proporciona VTEX. En estos casos, es necesario implementar el envío de los eventos de búsqueda. Para más información, consulta <a href="https://developers.vtex.com/docs/api-reference/intelligent-search-events-api-headless">VTEX Intelligent Search Events API - Headless</a>.</p>
-</div>
+> ℹ️ Esta etapa no aplica a escenarios de implementación headless, donde la tecnología frontend no la proporciona VTEX. En estos casos, es necesario implementar el envío de los eventos de búsqueda. Para más información, consulta [VTEX Intelligent Search Events API - Headless](https://developers.vtex.com/docs/api-reference/intelligent-search-events-api-headless).
 
 ## Store Framework
 

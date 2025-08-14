@@ -61,7 +61,7 @@ Para cada produto, siga os passos a seguir:
 8. Repita os passos acima.
 9. Salve a planilha em seu computador.
 
-<div class="alert alert-warning" role="alert">Variações obrigatórias para uma categoria precisam ser mapeadas, caso contrário seus produtos não serão integrados. Caso o campo de especificação correspondente não exista na sua loja, ele precisará ser criado e preenchido para todos os SKUs da categoria.</div>
+> ⚠️ Variações obrigatórias para uma categoria precisam ser mapeadas, caso contrário seus produtos não serão integrados. Caso o campo de especificação correspondente não exista na sua loja, ele precisará ser criado e preenchido para todos os SKUs da categoria.
 
 ### Exemplo de preenchimento
 

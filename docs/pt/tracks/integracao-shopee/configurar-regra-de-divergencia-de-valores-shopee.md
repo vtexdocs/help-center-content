@@ -20,9 +20,7 @@ No Admin VTEX, em **Configurações da loja > Pedidos > Autorização de pedidos
 
 A Regra de divergência de valores é composta de uma ou mais regras de autorização, sendo que cada uma delas corresponde a um intervalo percentual do preço do pedido. As regras de autorização podem ser configuradas para negar automaticamente, aprovar automaticamente, ou exigir autorização manual do pedido.
 
-<div class="alert alert-info">
-Uma vez que você configure a regra de Divergência de valores, ela passa a valer para todos os marketplaces nos quais você atue como seller. Podem ser marketplaces VTEX, marketplaces externos, conectores certificados (parceiros) ou outros conectores nativos além da Shopee.
-</div>
+> ℹ️ Uma vez que você configure a regra de Divergência de valores, ela passa a valer para todos os marketplaces nos quais você atue como seller. Podem ser marketplaces VTEX, marketplaces externos, conectores certificados (parceiros) ou outros conectores nativos além da Shopee.
 
 É recomendável que a configuração da regra de Divergência de valores seja feita antes de você seguir para a próxima etapa da configuração da integração com a Amazon.  
 Descumprir esta recomendação não impede que a integração seja concluída, mas pedidos com divergência de preço ficarão retidos até a criação da Regra de divergência de valores. É possível acompanhá-los no Admin VTEX, em **Marketplace > Conexões > Pedidos.**

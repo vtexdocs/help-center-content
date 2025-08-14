@@ -16,9 +16,7 @@ trackSlugEN: catalogo-101
 
 Las especificaciones son propiedades adicionales que se pueden registrar en los productos o SKUs de su tienda. En VTEX, estas especificaciones se registran en la pestaña **Categorías** y se denominan **Campo**.
 
-<div class="alert alert-warning">
-<p>En VTEX, las especificaciones siguen una lógica de "herencia", es decir, cuando se crea una especificación en un nivel de categoría superior, la especificación se presentará en todos los niveles de categoría inferiores. Por lo tanto, si es necesario crear una especificación de producto o SKU que se aplique a una sola categoría, debe crearse en ese nivel de categoría.</p>
-</div>
+> ⚠️ En VTEX, las especificaciones siguen una lógica de "herencia", es decir, cuando se crea una especificación en un nivel de categoría superior, la especificación se presentará en todos los niveles de categoría inferiores. Por lo tanto, si es necesario crear una especificación de producto o SKU que se aplique a una sola categoría, debe crearse en ese nivel de categoría.
 
 ## Especificación de Producto
 
@@ -44,6 +42,4 @@ Las especificaciones de SKU tendrían los valores **PP, P, M, G y GG**. Estas po
 Para entender el paso a paso completo para la creación de especificaciones de productos, consulte el artículo [Registrar especificaciones o campos de SKU
 ](https://help.vtex.com/es/tutorial/registrar-especificaciones-o-campos-de-sku--tutorials_119).
 
-<div class="alert alert-warning">
-En VTEX, las especificaciones de SKU son campos obligatorios para concluir el registro de un SKU. Esto significa que, si se crea una nueva especificación dentro de una categoría, todos los SKUs dentro de esta categoría necesitan tener registrada esta nueva especificación. Así, todos estos SKUs estarán inactivos hasta que el registro de esta nueva especificación se haga en los SKUs de la categoría en cuestión.
-</div>
+> ⚠️ En VTEX, las especificaciones de SKU son campos obligatorios para concluir el registro de un SKU. Esto significa que, si se crea una nueva especificación dentro de una categoría, todos los SKUs dentro de esta categoría necesitan tener registrada esta nueva especificación. Así, todos estos SKUs estarán inactivos hasta que el registro de esta nueva especificación se haga en los SKUs de la categoría en cuestión.

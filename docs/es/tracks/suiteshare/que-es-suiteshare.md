@@ -14,6 +14,4 @@ trackId: khP0p8mjIYRIpvM7Cb4Zr
 trackSlugEN: suiteshare
 ---
 
-<div class="alert alert-warning">
-  <p>Este contenido sólo está disponible en portugués.</p>
-</div>
+> ⚠️ Este contenido sólo está disponible en portugués.

@@ -22,9 +22,7 @@ Check the step by step according to your frontend solution:
 * [Legacy CMS Portal](#legacy-cms-portal)
 * [Headless CMS](#headless-cms)
 
-<div class = "alert alert-danger">
-  <p>When you end an event, the audience sees a black screen. To avoid this, we recommend displaying an image that represents the end of the transmission. The correct way to do it is the following:<ol><li>Before ending the transmission, display the ending image in Bundle on an external studio.</li><li>Hide the <b>Live Shopping</b> component or remove the code from the store (as shown in the next sections).</li><li>Wait about 10 minutes after displaying the ending image for the cache to update.</li><li>End the event.</p>
-</div>
+> ❗ When you end an event, the audience sees a black screen. To avoid this, we recommend displaying an image that represents the end of the transmission. The correct way to do it is the following:<ol><li>Before ending the transmission, display the ending image in Bundle on an external studio.</li><li>Hide the **Live Shopping** component or remove the code from the store (as shown in the next sections).</li><li>Wait about 10 minutes after displaying the ending image for the cache to update.</li><li>End the event.
 
 ## Store Framework (VTEX IO)
 
@@ -34,13 +32,11 @@ For stores using [Store Framework](https://help.vtex.com/en/tracks/vtex-store-ov
 2. On the list **Blocks** on the right corner of the page, select the **Live Shopping** block.
 3. Deactivate the <i class="fas fa-toggle-off" aria-hidden="true"></i> `Show component` option.
 
-  ![article_4_store_framework_EN](//images.ctfassets.net/alneenqid6w5/CU6g8lTpsQSvuq184znAP/cb0c60872f06b68d8177f2dd229e8562/article_4_show_component_EN.png)
+  ![article_4_store_framework_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-live-shopping-getting-started/hiding-or-removing-live-shopping-component_1.png)
 
 4. Click `Save`.
 
-<div class = "alert alert-info">
-  <p>After configuring the <b>Live Shopping</b> component in the <b>Site Editor</b>, it may take from five to ten minutes for the changes to reflect on the storefront. While the page is being updated, a good practice is having an image placeholder finalizing the event.</p>
-</div>
+> ℹ️ After configuring the **Live Shopping** component in the **Site Editor**, it may take from five to ten minutes for the changes to reflect on the storefront. While the page is being updated, a good practice is having an image placeholder finalizing the event.
 
 ## Legacy CMS Portal
 

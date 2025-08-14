@@ -22,9 +22,7 @@ Price rules allow you to change the price of an SKU in a price table __without c
 
 However, when we combine this price rule with the SKU's base price, a new value is obtained. This value will represent the SKU's __computed price__ within a price table.
 
-<div class="alert alert-info">
-Using price rules is <strong>optional</strong>. If an SKU is not linked to any modifiers, its price in the price table in question will be the registered base price.
-</div>
+> ℹ️ Using price rules is **optional**. If an SKU is not linked to any modifiers, its price in the price table in question will be the registered base price.
 
 Price rules have __five configuration settings__:
 
