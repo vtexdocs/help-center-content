@@ -3,8 +3,8 @@ title: 'My order was closed with the wrong price'
 id: 5an0m7uLMwxWRlJlsyKxvl
 status: PUBLISHED
 createdAt: 2025-05-07T13:03:46.201Z
-updatedAt: 2025-05-08T16:51:43.033Z
-publishedAt: 2025-05-08T16:51:43.033Z
+updatedAt: 2025-08-14T22:08:07.983Z
+publishedAt: 2025-08-14T22:08:07.983Z
 firstPublishedAt: 2025-05-07T13:25:11.579Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -13,9 +13,11 @@ slugEN: my-order-was-closed-with-the-wrong-price
 legacySlug: my-order-was-closed-with-the-wrong-price
 locale: en
 subcategoryId: 2LcLWCYaEm5qPmOuYUiKIS
+tags:
+  - Orders
+  - Integration
+  - Marketplace
 ---
-
-**Tags**: Orders, Integration, Marketplace
 
 In the VTEX Admin, under **Marketplace > Connections > Orders**, you can check the status of orders closed by certified marketplaces. Orders closed with the wrong price will show the status **Processed with error**. 
 

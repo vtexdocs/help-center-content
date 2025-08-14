@@ -3,8 +3,8 @@ title: 'Error al intentar importar SKUs vía plantilla en el Admin VTEX'
 id: 1TDF87s7P1UJT1hNDGZsuk
 status: PUBLISHED
 createdAt: 2024-07-01T15:07:50.982Z
-updatedAt: 2025-04-08T23:14:26.707Z
-publishedAt: 2025-04-08T23:14:26.707Z
+updatedAt: 2025-08-14T22:09:55.424Z
+publishedAt: 2025-08-14T22:09:55.424Z
 firstPublishedAt: 2024-07-01T18:24:23.096Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -13,9 +13,12 @@ slugEN: error-when-trying-to-import-skus-via-spreadsheet-in-the-vtex-admin
 legacySlug: error-al-intentar-importar-skus-via-plantilla-en-el-admin-vtex
 locale: es
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
+tags:
+  - Catálogo
+  - SKU
+  - Planilla
+  - Imprtación
 ---
-
-**Product tags:** Catálogo, SKU, Planilla, Imprtación
 
 Después de definir el árbol de categorías y el registro de [especificaciones de productos y SKUs] en tu tienda, es necesario rellenar los valores de las especificaciones creadas. En el Admin VTEX, este proceso se puede realizar mediante una plantilla o manualmente al [registrar productos y SKUs].
 

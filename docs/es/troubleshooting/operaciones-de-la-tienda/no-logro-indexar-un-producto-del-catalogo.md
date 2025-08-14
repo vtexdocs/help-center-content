@@ -3,8 +3,8 @@ title: 'No logro indexar un producto del catálogo'
 id: 5ZKLTqnCyGbWEYGPTCBIxI
 status: PUBLISHED
 createdAt: 2024-09-06T13:35:52.255Z
-updatedAt: 2024-12-10T18:06:38.568Z
-publishedAt: 2024-12-10T18:06:38.568Z
+updatedAt: 2025-08-14T22:18:48.876Z
+publishedAt: 2025-08-14T22:18:48.876Z
 firstPublishedAt: 2024-09-06T20:54:50.631Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -37,15 +37,12 @@ En ciertas situaciones, la indexación es interrumpida y no se muestra la inform
 - Registro incorrecto del producto en el catálogo
 - Falta de una política comercial asociada al producto en el binding de la tienda
 - Tiempo límite de indexación (40 segundos) alcanzado cuando el checkout recibe muchos requests de información durante la indexación. La cantidad de requests puede variar dependiendo de los siguientes factores asociados al producto:
-<br>
-<ul>
-<br>
-    	<li>Cantidad de políticas comerciales</li>
-    	<li>Cantidad de SKUs</li>
-    	<li>Cantidad de regiones geográficas</li>
-    	<li>Cantidad de colecciones</li>
-    	<li>Cantidad de sellers</li>
-</ul>
+
+   - Cantidad de políticas comerciales  
+   - Cantidad de SKUs  
+   - Cantidad de regiones geográficas  
+   - Cantidad de colecciones  
+   - Cantidad de sellers
 
 ## Soluciones
 
@@ -62,15 +59,15 @@ Para corregir los problemas que impiden indexar correctamente un producto en la 
 
 Los errores en el registro de un producto pueden generar inconsistencias al reindexarlo.
 
-<blockquote><ui>1. En el Admin VTEX, accede a **Catálogo > Todos los productos**.</ui>
+1. En el Admin VTEX, accede a **Catálogo > Todos los productos**.  
 
-<blockquote>> ⚠️ Las tiendas que utilizan la página **Produtos y SKUS (Beta)** deben verificar los campos de registro de productos accediendo a **Catálogo > Produtos y SKUS** en el Admin VTEX. Más información e [Produtos y SKUS (Beta)](https://help.vtex.com/es/tutorial/products-and-skus-beta--2ig7TmROlirWirZjFWZ3By).</blockquote>
+   > ⚠️ Las tiendas que utilizan la página **Produtos y SKUS (Beta)** deben verificar los campos de registro de productos accediendo a **Catálogo > Produtos y SKUS** en el Admin VTEX. Más información en [Produtos y SKUS (Beta)](https://help.vtex.com/es/tutorial/products-and-skus-beta--2ig7TmROlirWirZjFWZ3By).
 
-<blockquote><ui>2. Ubica el producto que deseas y haz clic en **Modificar**.</ui>
+2. Ubica el producto que deseas y haz clic en **Modificar**.  
 
-<blockquote><ui>3. Comprueba que la información de todos los [campos de cadastro](https://help.vtex.com/es/tutorial/campos-de-cadastro-de-produto--4dYXWIK3zyS8IceKkQseke) esté correcta. De ser necesario, actualiza la información y haz clic en Guardar.</ui>
+3. Comprueba que la información de todos los [campos de cadastro](https://help.vtex.com/es/tutorial/campos-de-cadastro-de-produto--4dYXWIK3zyS8IceKkQseke) esté correcta. De ser necesario, actualiza la información y haz clic en Guardar.  
 
-<blockquote><ui>4. Accede al informe de indexación en **Catálogo > Informes** y comprueba que el producto esté en la cola de indexación o que ya haya sido indexado.</ui>
+4. Accede al informe de indexación en **Catálogo > Informes** y comprueba que el producto esté en la cola de indexación o que ya haya sido indexado.
 
 ### Verificar la información de binding de la cuenta
 
@@ -94,7 +91,7 @@ Al igual que las políticas comerciales, tener muchos SKUs asociados a un produc
 
 Ejemplo: si el producto "Camisa" tiene seis SKUs (Amarillo P, Amarillo M, Amarillo G, Azul P, Azul M y Azul G), lo puedes dividir en dos productos con tres SKUs cada uno: "Camisa amarilla" (P, M y G) y "Camisa azul" (P, M y G).
 
-Después de reorganizar la cantidad de SKUs por productos, verifica el informe de indexación, según se describe en la sección [Verificar los campos de registro del producto](https://docs.google.com/document/d/1EJY1pNrzyNDLY9jIKwxoVM7H-a_MiY5gwRBWcA7kKrQ/edit#heading=h.thoceo5ljuhz).
+Después de reorganizar la cantidad de SKUs por productos, verifica el informe de indexación, según se describe en la sección [Verificar los campos de registro del producto](#verificar-los-campos-de-registro-del-producto).
 
 ### Remover SKUs de colecciones 
 

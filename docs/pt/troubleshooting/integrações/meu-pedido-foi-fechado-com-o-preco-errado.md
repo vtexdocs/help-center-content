@@ -3,8 +3,8 @@ title: 'Meu pedido foi fechado com o preço errado'
 id: 5an0m7uLMwxWRlJlsyKxvl
 status: PUBLISHED
 createdAt: 2025-05-07T13:03:46.201Z
-updatedAt: 2025-05-08T16:51:43.033Z
-publishedAt: 2025-05-08T16:51:43.033Z
+updatedAt: 2025-08-14T22:08:07.983Z
+publishedAt: 2025-08-14T22:08:07.983Z
 firstPublishedAt: 2025-05-07T13:25:11.579Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -13,9 +13,11 @@ slugEN: my-order-was-closed-with-the-wrong-price
 legacySlug: meu-pedido-foi-fechado-com-o-preco-errado
 locale: pt
 subcategoryId: 2LcLWCYaEm5qPmOuYUiKIS
+tags:
+  - Pedidos
+  - Integração
+  - Marketplace
 ---
-
-**Tags**: Pedidos, Integração, Marketplace
 
 No Admin VTEX, em **Marketplace > Conexões > Pedidos**, são informados os status dos pedidos fechados por marketplaces certificados. Pedidos fechados com o preço errado apresentam status **Processado com erro**. 
 

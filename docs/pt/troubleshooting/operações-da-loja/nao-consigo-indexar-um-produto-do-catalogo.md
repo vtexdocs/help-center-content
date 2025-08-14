@@ -3,8 +3,8 @@ title: 'Não consigo indexar um produto do catálogo'
 id: 5ZKLTqnCyGbWEYGPTCBIxI
 status: PUBLISHED
 createdAt: 2024-09-06T13:35:52.255Z
-updatedAt: 2024-12-10T18:06:38.568Z
-publishedAt: 2024-12-10T18:06:38.568Z
+updatedAt: 2025-08-14T22:18:48.876Z
+publishedAt: 2025-08-14T22:18:48.876Z
 firstPublishedAt: 2024-09-06T20:54:50.631Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -37,15 +37,12 @@ Em determinadas situações, a indexação é interrompida durante o processo e 
 - Cadastro incorreto do produto no Catálogo
 - Ausência da política comercial associada ao produto no binding da loja
 - Tempo limite de indexação (40 segundos) é excedido quando ocorrem um grande - número de requisições de informações ao checkout durante a indexação. O número de requisições pode variar conforme os seguintes fatores associados ao produto:
-<br>
-<ul>
-<br>
-    	<li>Quantidade de políticas comerciais</li>
-    	<li>Quantidade de SKUS</li>
-    	<li>Quantidade de regiões geográficas</li>
-    	<li>Quantidade de coleções</li>
-    	<li>Quantidade de sellers</li>
-</ul>
+
+   - Quantidade de políticas comerciais  
+   - Quantidade de SKUS  
+   - Quantidade de regiões geográficas  
+   - Quantidade de coleções  
+   - Quantidade de sellers
 
 ## Soluções
 
@@ -62,15 +59,15 @@ Para corrigir problemas que estejam impedindo um produto de ser corretamente ind
 
 Erros no cadastro de um produto podem gerar inconsistências no momento de realizar a indexação de um produto.
 
-<blockquote><ui>1. No Admin VTEX, acesse **Catálogo > Todos os produtos**.</ui>
+1. No Admin VTEX, acesse **Catálogo > Todos os produtos**.  
 
-<blockquote>> ⚠️ Lojas que utilizam a página **Produtos e SKUS (Beta)** devem verificar os campos de cadastro do produto acessando **Catálogo > Produtos e SKUS** no Admin VTEX. Saiba mais em [Produtos e SKUS (Beta)](https://help.vtex.com/pt/tutorial/products-and-skus-beta--2ig7TmROlirWirZjFWZ3By).</blockquote>
+   > ⚠️ Lojas que utilizam a página **Produtos e SKUS (Beta)** devem verificar os campos de cadastro do produto acessando **Catálogo > Produtos e SKUS** no Admin VTEX. Saiba mais em [Produtos e SKUS (Beta)](https://help.vtex.com/pt/tutorial/products-and-skus-beta--2ig7TmROlirWirZjFWZ3By).
 
-<blockquote><ui>2. Localize o produto desejado e clique em **EDITAR**.</ui>
+2. Localize o produto desejado e clique em **EDITAR**.  
 
-<blockquote><ui>3. Verifique se as informações de todos os [campos de cadastro](https://help.vtex.com/pt/tutorial/campos-de-cadastro-de-produto--4dYXWIK3zyS8IceKkQseke) estão corretas. Se necessário, atualize as informações e clique em Salvar.</ui>
+3. Verifique se as informações de todos os [campos de cadastro](https://help.vtex.com/pt/tutorial/campos-de-cadastro-de-produto--4dYXWIK3zyS8IceKkQseke) estão corretas. Se necessário, atualize as informações e clique em Salvar.  
 
-<blockquote><ui>4. Acesse o relatório de indexação em **Catálogo > Relatórios** e verifique se o produto está na fila de indexação ou já foi indexado.</ui>
+4. Acesse o relatório de indexação em **Catálogo > Relatórios** e verifique se o produto está na fila de indexação ou já foi indexado.
 
 ### Verificação de informações de binding na conta
 

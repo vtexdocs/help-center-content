@@ -3,8 +3,8 @@ title: "I can't view a page in the Admin"
 id: 3U8TJMlAqHIM5Qs8rLwkwQ
 status: PUBLISHED
 createdAt: 2024-11-28T14:27:44.578Z
-updatedAt: 2024-11-28T14:47:54.183Z
-publishedAt: 2024-11-28T14:47:54.183Z
+updatedAt: 2025-08-14T15:09:37.454Z
+publishedAt: 2025-08-14T15:09:37.454Z
 firstPublishedAt: 2024-11-28T14:46:25.398Z
 contentType: tutorial
 productTeam: Identity
@@ -13,9 +13,12 @@ slugEN: i-cant-view-a-page-in-the-admin
 legacySlug: i-cant-view-a-page-in-the-admin
 locale: en
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
+tags:
+  - Roles
+  - License Manager resources
+  - License Manager
+  - Admin
 ---
-
-**Tags**: Roles, License Manager resources, License Manager, Admin
 
 When using the Admin, some users may experience *Error 403 - We're sorry, but you do not have access to this page* or a page loading continuously.  
 

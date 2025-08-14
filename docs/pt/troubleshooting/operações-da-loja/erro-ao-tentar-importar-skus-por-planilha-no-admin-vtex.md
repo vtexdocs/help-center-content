@@ -3,8 +3,8 @@ title: 'Erro ao tentar importar SKUs por planilha no Admin VTEX'
 id: 1TDF87s7P1UJT1hNDGZsuk
 status: PUBLISHED
 createdAt: 2024-07-01T15:07:50.982Z
-updatedAt: 2025-04-08T23:14:26.707Z
-publishedAt: 2025-04-08T23:14:26.707Z
+updatedAt: 2025-08-14T22:09:55.424Z
+publishedAt: 2025-08-14T22:09:55.424Z
 firstPublishedAt: 2024-07-01T18:24:23.096Z
 contentType: tutorial
 productTeam: Marketing & Merchandising

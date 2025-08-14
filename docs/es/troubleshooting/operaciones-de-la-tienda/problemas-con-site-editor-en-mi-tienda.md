@@ -3,8 +3,8 @@ title: 'Problemas con Site Editor en mi tienda'
 id: 3A6Ois91zEZ8zpKJp1wsP2
 status: PUBLISHED
 createdAt: 2024-08-26T16:52:35.556Z
-updatedAt: 2024-11-29T17:38:37.259Z
-publishedAt: 2024-11-29T17:38:37.259Z
+updatedAt: 2025-08-14T22:58:05.821Z
+publishedAt: 2025-08-14T22:58:05.821Z
 firstPublishedAt: 2024-08-27T19:19:21.047Z
 contentType: tutorial
 productTeam: VTEX IO
@@ -26,8 +26,8 @@ Las instrucciones a continuación te ayudarán a resolver estos problemas en Sit
 | **Problema** | **Descripción** | **Instrucciones para resolver el problema** |
 | ------------ | ------------- | ----------------------------------------- |
 | [Site Editor no abre](#site-editor-no-abre) | La página Site Editor muestra una pantalla en blanco o el mensaje `Se produjo un error`. | - [Comprueba la integración de búsqueda](#comprobar-la-integracion-de-busqueda).<br> - [Comprueba la configuración del inquilino (solo cuentas nuevas)](#comprobar-la-configuración-del-inquilino-solo-cuentas-nuevas). |
-| No puedo gestionar el contenido de mi tienda en Site Editor] (#no-puedo-gestionar-el-contenido-de-mi-tienda-en-site-editor) | No se puede editar, guardar o borrar contenido en Site Editor. | - [Comprueba si el rol de usuario tiene los permisos necesarios](#comprobar-si-el-rol-de-usuario-tiene-los-permisos-necesarios).<br> - [Comprueba la región principal del dominio](#comprobar-la-region-principal-del-dominio). |
-| Perdí el contenido almacenado en Site Editor](#perdi-el-contenido-almacenado-en-site-editor) | Se perdió el contenido guardado en Site Editor. | [Abre un ticket con el soporte VTEX](#perdi-el-contenido-almacenado-en-site-editor). |
+| [No puedo gestionar el contenido de mi tienda en Site Editor](#no-puedo-gestionar-el-contenido-de-mi-tienda-en-site-editor) | No se puede editar, guardar o borrar contenido en Site Editor. | - [Comprueba si el rol de usuario tiene los permisos necesarios](#comprobar-si-el-rol-de-usuario-tiene-los-permisos-necesarios).<br> - [Comprueba la región principal del dominio](#comprobar-la-region-principal-del-dominio). |
+| [Perdí el contenido almacenado en Site Editor](#perdi-el-contenido-almacenado-en-site-editor) | Se perdió el contenido guardado en Site Editor. | [Abre un ticket con el soporte VTEX](#perdi-el-contenido-almacenado-en-site-editor). |
 | [Continúo teniendo problemas con Site Editor](#continuo-teniendo-problemas-con-site-editor) | Tras intentar resolver los problemas en Site Editor, persisten. | [Abre un ticket con el soporte VTEX](#continuo-experimentando-problemas-con-site-editor). |
 
 Para comprender y corregir cada error, consulta las soluciones a continuación:

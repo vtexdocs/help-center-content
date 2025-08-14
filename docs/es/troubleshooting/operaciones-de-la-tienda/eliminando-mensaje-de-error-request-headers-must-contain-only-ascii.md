@@ -3,8 +3,8 @@ title: 'Cómo remover el mensaje de error "Request headers must contain only ASC
 id: 19psKZvLXrBqqK1bPaTIHG
 status: PUBLISHED
 createdAt: 2024-07-25T16:54:41.663Z
-updatedAt: 2024-11-08T19:21:54.243Z
-publishedAt: 2024-11-08T19:21:54.243Z
+updatedAt: 2025-08-14T22:48:13.680Z
+publishedAt: 2025-08-14T22:48:13.680Z
 firstPublishedAt: 2024-07-25T21:21:03.197Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -39,25 +39,25 @@ Para remover el mensaje de error y permitir que el usuario vuelva a acceder a la
 
 En la página en la que se muestra el mensaje "__Request headers must contain only ASCII characters__", sigue los pasos a continuación para identificar la cookie que contiene caracteres especiales:
 
-<blockquote><ui>1. Accede al [DevTools](https://help.vtex.com/pt/tutorial/products-and-skus-beta--2ig7TmROlirWirZjFWZ3By) en tu navegador pulsando **F12** o haciendo clic con el botón derecho del mouse y eligiendo la opción **Inspect**.</ui>
+1. Accede al [DevTools](https://help.vtex.com/pt/tutorial/products-and-skus-beta--2ig7TmROlirWirZjFWZ3By) en tu navegador pulsando **F12** o haciendo clic con el botón derecho del mouse y eligiendo la opción **Inspect**.
 
-  <blockquote><ui>2. En la barra superior de la pantalla, accede a la pestaña **Network** y ordena los requests haciendo clic en **Status**. La información **400** en el estado indica que la solicitud no se procesó correctamente, lo que puede deberse a errores como cookies incorrectas.</ui>  
+  2. En la barra superior de la pantalla, accede a la pestaña **Network** y ordena los requests haciendo clic en **Status**. La información **400** en el estado indica que la solicitud no se procesó correctamente, lo que puede deberse a errores como cookies incorrectas.  
 
 ![ascii 2ascii_2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/troubleshooting/operaciones-de-la-tienda/eliminando-mensaje-de-error-request-headers-must-contain-only-ascii_2.png) 
 
-<blockquote><ui>3. Haz clic en un request y después en la pestaña **Preview** para identificar si el error encontrado se refiere al mensaje "**Request headers must contain only ASCII characters**".</ui>
+3. Haz clic en un request y después en la pestaña **Preview** para identificar si el error encontrado se refiere al mensaje "**Request headers must contain only ASCII characters**".
 
 ![ascii 3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/troubleshooting/operaciones-de-la-tienda/eliminando-mensaje-de-error-request-headers-must-contain-only-ascii_3.png)
 
-<blockquote><ui>4. Haz clic en la pestaña **Headers** y copia los datos de la cookie.</ui>  
+4. Haz clic en la pestaña **Headers** y copia los datos de la cookie.  
 
 ![ascii 4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/troubleshooting/operaciones-de-la-tienda/eliminando-mensaje-de-error-request-headers-must-contain-only-ascii_4.png)
 
-<blockquote><ui>5. Accede a un [validador online de caracteres ASCII](https://pages.cs.wisc.edu/~markm/ascii.html) e ingresa la información de la cookie. Si se identifican uno o varios caracteres especiales, los tipos y posiciones se mostrarán en la parte inferior del validador de caracteres.</ui>     
+5. Accede a un [validador online de caracteres ASCII](https://pages.cs.wisc.edu/~markm/ascii.html) e ingresa la información de la cookie. Si se identifican uno o varios caracteres especiales, los tipos y posiciones se mostrarán en la parte inferior del validador de caracteres.     
 
 ![ascii 5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/troubleshooting/operaciones-de-la-tienda/eliminando-mensaje-de-error-request-headers-must-contain-only-ascii_5.png)
 
-<blockquote><ui>6. Repite los pasos 3 a 5 con todos los requests de error para identificar los que contienen cookies con caracteres especiales.</ui>      
+6. Repite los pasos 3 a 5 con todos los requests de error para identificar los que contienen cookies con caracteres especiales.      
 
 ### Desactivar cookies con caracteres especiales
 

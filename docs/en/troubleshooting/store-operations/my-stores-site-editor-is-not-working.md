@@ -3,8 +3,8 @@ title: 'My store’s Site Editor is not working'
 id: 3A6Ois91zEZ8zpKJp1wsP2
 status: PUBLISHED
 createdAt: 2024-08-26T16:52:35.556Z
-updatedAt: 2024-11-29T17:38:37.259Z
-publishedAt: 2024-11-29T17:38:37.259Z
+updatedAt: 2025-08-14T22:58:05.821Z
+publishedAt: 2025-08-14T22:58:05.821Z
 firstPublishedAt: 2024-08-27T19:19:21.047Z
 contentType: tutorial
 productTeam: VTEX IO
@@ -26,7 +26,7 @@ Below are some instructions to help you solve these issues in Site Editor.
 | **Issue** | **Description** | **How to fix it** |
 | ------------ | ------------- | ----------------------------------------- |
 | [Site Editor won't open](#the-site-editor-won't-open) | The Site Editor page displays a blank screen or the message `Something went wrong`. | - [Check the search integration](#checking-the-search-integration).<br> - [Check the tenant configuration (new accounts only)](#checking-the-tenant-configuration-new-accounts-only). |
-| I can't manage my store's content in Site Editor (#I-can't-manage-my-store's-content-in-site-editor) | I can't edit, save or delete content in Site Editor. | - [Check if the user role has the necessary permissions](#checking-if-the-user-role-has-the-necessary-permissions).<br> - [Check the domain's main location](#checking-the-domain-main-location). |
+| [I can't manage my store's content in Site Editor](#i-cant-manage-my-store's-content-in-site-editor) | I can't edit, save or delete content in Site Editor. | - [Check if the user role has the necessary permissions](#checking-if-the-user-role-has-the-necessary-permissions).<br> - [Check the domain's main location](#checking-the-domain-main-location). |
 | [I lost the content stored in Site Editor](#i-lost-the-content-stored-in-site-editor) | The content saved in Site Editor has been lost. | [Open a ticket with VTEX Support](#i-lost-the-content-stored-in-site-editor). |
 | [I'm still having problems with Site Editor](#i'm-still-having-problems-with-site-editor) | Issues with the Site Editor persist even after trying to resolve them. | [Open a ticket with VTEX Support](#i'm-still-experiencing-issues-with-site-editor). |
 

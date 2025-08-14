@@ -3,8 +3,8 @@ title: 'Não consigo visualizar uma página no Admin'
 id: 3U8TJMlAqHIM5Qs8rLwkwQ
 status: PUBLISHED
 createdAt: 2024-11-28T14:27:44.578Z
-updatedAt: 2024-11-28T14:47:54.183Z
-publishedAt: 2024-11-28T14:47:54.183Z
+updatedAt: 2025-08-14T15:09:37.454Z
+publishedAt: 2025-08-14T15:09:37.454Z
 firstPublishedAt: 2024-11-28T14:46:25.398Z
 contentType: tutorial
 productTeam: Identity
@@ -13,9 +13,12 @@ slugEN: i-cant-view-a-page-in-the-admin
 legacySlug: nao-consigo-visualizar-uma-pagina-no-admin
 locale: pt
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
+tags:
+  - Perfis de acesso
+  - Recursos do License Manager
+  - License Manager
+  - Admin
 ---
-
-**Tags**: Perfis de acesso, Recursos do License Manager, License Manager, Admin
 
 Ao utilizar o Admin, alguns usuários podem ter problemas como o *Erro 403 - Desculpe, você não tem acesso a essa página* ou o carregamento contínuo de uma página.
 

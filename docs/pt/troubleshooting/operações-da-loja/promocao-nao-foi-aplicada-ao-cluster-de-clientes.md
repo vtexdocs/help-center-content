@@ -3,8 +3,8 @@ title: 'Promoção não foi aplicada ao cluster de clientes'
 id: 1fQEKdmWwIAPfDQAbuP3Kr
 status: PUBLISHED
 createdAt: 2025-02-28T18:00:30.100Z
-updatedAt: 2025-02-28T19:31:52.785Z
-publishedAt: 2025-02-28T19:31:52.785Z
+updatedAt: 2025-08-14T22:53:01.477Z
+publishedAt: 2025-08-14T22:53:01.477Z
 firstPublishedAt: 2025-02-28T19:31:52.785Z
 contentType: tutorial
 productTeam: Others
@@ -33,21 +33,21 @@ Confira a seguir algumas soluções que podem ajudar a garantir a exibição da 
 
 Para identificar se um cluster de clientes está associado a uma promoção, siga os passos abaixo:
 
-<blockquote><ui>1. No Admin VTEX, acesse **Promoções > Promoções**, ou digite **Promoções** na barra de busca no topo da página.</ui>
+1. No Admin VTEX, acesse **Promoções > Promoções**, ou digite **Promoções** na barra de busca no topo da página.
 
-<blockquote><ui>2. Clique na promoção que deseja verificar.</ui>
+2. Clique na promoção que deseja verificar.
 
-<blockquote><ui>3. Na seção **“Quais as condições para a promoção ser válida?”**, verifique se a opção **Cluster de clientes** está marcada e se o campo está preenchido com o [valor correto do respectivo cluster](https://help.vtex.com/pt/tutorial/criando-promocao-para-um-cluster-de-clientes#como-preencher-o-campo-cluster-de-clientes).</ui>
+3. Na seção **Quais as condições para a promoção ser válida?**, verifique se a opção **Cluster de clientes** está marcada e se o campo está preenchido com o [valor correto do respectivo cluster](https://help.vtex.com/pt/tutorial/criando-promocao-para-um-cluster-de-clientes#como-preencher-o-campo-cluster-de-clientes).
 
 ![Cluster_pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/troubleshooting/opera%C3%A7%C3%B5es-da-loja/promocao-nao-foi-aplicada-ao-cluster-de-clientes_1.png) 
 
-<blockquote><ui>> ⚠️ O valor cadastrado no campo deve ser exatamente igual ao valor anteriormente atribuído ao cluster de cliente, pois o sistema interpreta diferenças entre letras maiusculas e minúsculas (case sensitive). Por exemplo, se o valor adotado para um determinado identificador do cluster é `funcionario=true` e na promoção for cadastrado `Funcionario=true` ou `funcionario=True`, a promoção não será exibida para os usuários daquele cluster.</blockquote>
+> ⚠️ O valor cadastrado no campo deve ser exatamente igual ao valor anteriormente atribuído ao cluster de cliente, pois o sistema interpreta diferenças entre letras maiusculas e minúsculas (case sensitive). Por exemplo, se o valor adotado para um determinado identificador do cluster é `funcionario=true` e na promoção for cadastrado `Funcionario=true` ou `funcionario=True`, a promoção não será exibida para os usuários daquele cluster.
 
-<blockquote><ui>4. Caso necessário, adicione ou modifique o valor referente ao cluster desejado.</ui>
+4. Caso necessário, adicione ou modifique o valor referente ao cluster desejado.
 
-<blockquote><ui>5. Clique em `Salvar`.</ui>
+5. Clique em `Salvar`.
 
-<blockquote><ui>> ℹ️ Para garantir que uma mesma promoção seja aplicada simultaneamente a clusters de clientes que possuem valores diferentes cadastrados, é necessário selecionar a condição **Pelo menos um dos seguintes** e configurar todos os valores dos clusters na promoção.</blockquote>
+> ℹ️ Para garantir que uma mesma promoção seja aplicada simultaneamente a clusters de clientes que possuem valores diferentes cadastrados, é necessário selecionar a condição **Pelo menos um dos seguintes** e configurar todos os valores dos clusters na promoção.
 
 ### Verificar valor atribuído no perfil do cliente
 

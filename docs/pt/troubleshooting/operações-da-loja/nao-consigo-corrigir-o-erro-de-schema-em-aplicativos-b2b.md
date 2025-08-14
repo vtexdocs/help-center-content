@@ -3,8 +3,8 @@ title: 'Não consigo corrigir o erro de schema em aplicativos B2B'
 id: WkjJZSnGXCiqmLhg4b0OR
 status: PUBLISHED
 createdAt: 2024-09-11T18:54:34.611Z
-updatedAt: 2024-11-08T19:31:33.438Z
-publishedAt: 2024-11-08T19:31:33.438Z
+updatedAt: 2025-08-14T22:02:49.294Z
+publishedAt: 2025-08-14T22:02:49.294Z
 firstPublishedAt: 2024-09-11T19:42:01.055Z
 contentType: tutorial
 productTeam: B2B
@@ -26,27 +26,20 @@ A situação mais comum envolve a adição de campos obrigatórios ao schema que
 ## Solução
 A correção do alerta schema is invalid em aplicativos B2B envolve ajustes na configuração dos campos obrigatórios no Master Data.
 
-### Resolvendo o alerta schema is invalid em aplicativos B2B
-Para corrigir o alerta Schema is invalid, siga os passos abaixo para garantir a configuração correta:
+### Resolvendo o alerta *Schema is invalid* em aplicativos B2B
+Para corrigir o alerta *Schema is invalid*, siga os passos abaixo para garantir a configuração correta:
 
-<ol>
-  <li>No Admin VTEX, acesse **Configurações da Loja > Storefront > Master Data**, ou digite **Master Data** na barra de busca no topo da página.</li>
-  <li>Faça o login.</li>
-  <li>Clique em **Configurações Avançadas**.</li>
-  <li>Clique em **Estrutura de Dados**.</li>
-  <li>Clique em **Entidades de Dados**.</li>
-  <li>Selecione a linha **CL**, e clique em **Editar**.</li>
-  <li>Revise todos os campos na lista e identifique aquele em que a opção **É anulável** não está marcada e marque-o.</li>
-</ol>
+1. No Admin VTEX, acesse **Configurações da Loja > Storefront > Master Data**, ou digite **Master Data** na barra de busca no topo da página.  
+2. Faça o login.  
+3. Clique em **Configurações Avançadas**.  
+4. Clique em **Estrutura de Dados**.  
+5. Clique em **Entidades de Dados**.  
+6. Selecione a linha **CL** e clique em **Editar**.  
+7. Revise todos os campos na lista e identifique aquele em que a opção **É anulável** não está marcada, e marque-a.
 
-<div>
-  Apenas o campo de email deve permanecer com a opção **"É anulável"** desmarcada.
-</div>
-
-<ol start="8">
-  <li>Clique em **Salvar**.</li>
-  <li>Na lista de **Entidades de Dados**, clique em **Publicar**.</li>
-</ol>
+   > ⚠️ Apenas o campo de email deve permanecer com a opção **É anulável** desmarcada.
+8. Clique em **Salvar**.  
+9. Na lista de **Entidades de Dados**, clique em **Publicar**.
 
 A imagem abaixo ilustra os passos necessários para corrigir a configuração dos campos obrigatórios no Master Data, solucionando o alerta `schema is invalid`.
 

@@ -3,8 +3,8 @@ title: 'No puedo acceder a una página del Admin'
 id: 3U8TJMlAqHIM5Qs8rLwkwQ
 status: PUBLISHED
 createdAt: 2024-11-28T14:27:44.578Z
-updatedAt: 2024-11-28T14:47:54.183Z
-publishedAt: 2024-11-28T14:47:54.183Z
+updatedAt: 2025-08-14T15:09:37.454Z
+publishedAt: 2025-08-14T15:09:37.454Z
 firstPublishedAt: 2024-11-28T14:46:25.398Z
 contentType: tutorial
 productTeam: Identity
@@ -13,9 +13,12 @@ slugEN: i-cant-view-a-page-in-the-admin
 legacySlug: no-puedo-acceder-a-una-pagina-del-admin
 locale: es
 subcategoryId: 2Q0IQjRcOqSgJTh6wRHVMB
+tags:
+  - Roles
+  - Recursos de License Manager
+  - License Manager
+  - Admin
 ---
-
-**Tags**: Roles, Recursos de License Manager, License Manager, Admin
 
 Al utilizar el Admin, algunos usuarios pueden experimentar problemas como el Error 403 \- Lo sentimos, no tienes acceso a esta página, o que una página no termine de cargar.
 

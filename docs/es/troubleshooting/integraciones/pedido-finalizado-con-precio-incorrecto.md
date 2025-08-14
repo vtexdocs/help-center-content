@@ -3,8 +3,8 @@ title: 'Pedido finalizado con precio incorrecto'
 id: 5an0m7uLMwxWRlJlsyKxvl
 status: PUBLISHED
 createdAt: 2025-05-07T13:03:46.201Z
-updatedAt: 2025-05-08T16:51:43.033Z
-publishedAt: 2025-05-08T16:51:43.033Z
+updatedAt: 2025-08-14T22:08:07.983Z
+publishedAt: 2025-08-14T22:08:07.983Z
 firstPublishedAt: 2025-05-07T13:25:11.579Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -13,9 +13,11 @@ slugEN: my-order-was-closed-with-the-wrong-price
 legacySlug: pedido-finalizado-con-precio-incorrecto
 locale: es
 subcategoryId: 2LcLWCYaEm5qPmOuYUiKIS
+tags:
+  - Pedidos
+  - Integración
+  - Marketplace
 ---
-
-**Tags**: Pedidos, Integración, Marketplace
 
 El status de los pedidos finalizados por marketplaces certificados se muestra en la sección **Marketplace > Conexiones > Pedidos** del Admin VTEX. Los pedidos finalizados con precio incorrecto tienen el status **Procesado con error**. 
 

@@ -3,8 +3,8 @@ title: 'Meu estoque está negativo'
 id: JSFHaWsASXbnrX9dgNEeP
 status: PUBLISHED
 createdAt: 2024-06-10T11:08:39.990Z
-updatedAt: 2024-11-08T18:37:40.459Z
-publishedAt: 2024-11-08T18:37:40.459Z
+updatedAt: 2025-08-14T15:10:09.934Z
+publishedAt: 2025-08-14T15:10:09.934Z
 firstPublishedAt: 2024-06-10T17:21:47.755Z
 contentType: tutorial
 productTeam: Post-purchase
