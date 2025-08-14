@@ -50,4 +50,4 @@ Sigue los pasos a continuación para corregir la alerta Schema is invalid y gara
 
 La siguiente imagen ilustra los pasos necesarios para corregir la configuración de los campos obligatorios de Master Data y solucionar la alerta `Schema is invalid`.
 
-![B2B Suite - troubleshootingv2](//images.ctfassets.net/alneenqid6w5/3IYnKHxoYR6FcKZGiG98fO/498eab43ccb2b694e5491fc03c6322fb/B2B_Suite_-_troubleshootingv2.gif)
+![B2B Suite - troubleshootingv2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/troubleshooting/store-operations/como-corregir-el-error-de-esquema-en-aplicaciones-b2b_1.gif)

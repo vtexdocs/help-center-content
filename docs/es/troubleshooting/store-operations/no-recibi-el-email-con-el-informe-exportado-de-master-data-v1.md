@@ -31,7 +31,7 @@ Se puede acceder al informe en Master Data siguiendo los pasos que se indican a 
 4. En **Status de las exportaciones**, identifica la fila del informe al que deseas acceder.
 5. Si el **Status** es **Realizado - Descargar**, haz clic en `Descargar` para descargar el archivo.
 
-    ![download-report-es](//images.ctfassets.net/alneenqid6w5/5fL8dTuacGUYYFfhwx8eSh/30836df1d33aa9022b19ef7e52895454/download-report-es.png)
+    ![download-report-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/troubleshooting/store-operations/no-recibi-el-email-con-el-informe-exportado-de-master-data-v1_1.png)
 
     Si el status es **En ejecución**, espera a que se complete la exportación y repite los pasos anteriores.
 

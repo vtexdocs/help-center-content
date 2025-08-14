@@ -31,7 +31,7 @@ Você pode acessar o relatório no Master Data seguindo o passo a passo abaixo:
 4. Em **Status das exportações**, identifique a linha do relatório que deseja acessar.
 5. Se o **Status** for **Finalizado - Baixar**, clique em `Baixar` para fazer o download do arquivo.
 
-    ![download-report-pt](//images.ctfassets.net/alneenqid6w5/5fL8dTuacGUYYFfhwx8eSh/4bc2ebaf956d849d28b0d2123020bcc9/download-report-pt.png)
+    ![download-report-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/troubleshooting/store-operations/nao-recebi-o-email-com-o-relatorio-exportado-do-master-data-v1_1.png)
 
     Se o **Status** for **Em execução**, aguarde a conclusão da exportação e repita o passo a passo.
 

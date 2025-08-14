@@ -36,7 +36,7 @@ To understand and correct each error, see the solutions below:
 
 The following error may occur: when accessing VTEX Admin, going to **Storefront** and clicking **Site Editor**, the Site Editor page shows a blank screen or the message `Something went wrong`.
 
-![Site Editor - Something went wrong EN](//images.ctfassets.net/alneenqid6w5/6HAg54FmMXcxq7rfh1738y/178a0dae490ee3ab5b0a8c5feaf54302/img1-PT.png)
+![Site Editor - Something went wrong EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/troubleshooting/store-operations/my-stores-site-editor-is-not-working_1.png)
 
 To solve this error, see the following instructions:
 
@@ -50,7 +50,7 @@ One possible reason for this issue might be related to the [Intelligent Search](
 1. Access the VTEX Admin and go to **Store Settings > Intelligent Search > Integrations**.
 2. On the **Integrations** page, all the statuses must be checked, as in the following image.
 
-    ![Site Editor - IS integrations EN](//images.ctfassets.net/alneenqid6w5/5hQJjnkLuCwRA2VVtKvEEC/91618ffbb8e61ddf78bb0417bc55caa1/img2-PT.png)
+    ![Site Editor - IS integrations EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/troubleshooting/store-operations/my-stores-site-editor-is-not-working_2.png)
 
 3. If the statuses are all checked, and you still can’t open Site Editor, see the [Checking the tenant configuration](#checking-the-new-account-tenant-configuration) section. Otherwise, proceed to the next step.
 4. If the Integrations page does not look like the image above, here are the reasons and how to fix them:
@@ -110,12 +110,12 @@ Another possible reason for this error is related to the locale set for the acco
 
 5. Check the main location set for your store. This information is available in the `defaultLocale` field. See the example below.
 
-    ![graphql-default-locale-en](//images.ctfassets.net/alneenqid6w5/37qyTXPNZE0zWbvCrqIsWa/0629615f53bf837b1aa6dd2ec5389c79/graphql-default-locale-en.png)
+    ![graphql-default-locale-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/troubleshooting/store-operations/my-stores-site-editor-is-not-working_3.png)
 
 6. Now, go to **Store Settings > Channels > Trade Policies**.
 7. On the **Trade Policies** page, select the trade policy associated with your account and check the **Locale** field.
 
-    ![Site Editor - Locale EN](//images.ctfassets.net/alneenqid6w5/6i6EbEw6OXr2BnOzh4mVE2/62aa1add719c52cd697fbda36176ca03/img3-PT.png)
+    ![Site Editor - Locale EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/troubleshooting/store-operations/my-stores-site-editor-is-not-working_4.png)
 
   The locale is considered incorrect in the following cases:
     - The locale is different from the one the account should use. For example, the locale is set as `pt-BR`, but the account should be `pt-PT`.
