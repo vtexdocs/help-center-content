@@ -3,8 +3,8 @@ title: "I can't index a product in the catalog"
 id: 5ZKLTqnCyGbWEYGPTCBIxI
 status: PUBLISHED
 createdAt: 2024-09-06T13:35:52.255Z
-updatedAt: 2024-12-10T18:06:38.568Z
-publishedAt: 2024-12-10T18:06:38.568Z
+updatedAt: 2025-08-14T22:18:48.876Z
+publishedAt: 2025-08-14T22:18:48.876Z
 firstPublishedAt: 2024-09-06T20:54:50.631Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -37,15 +37,12 @@ In some cases, the indexing process may be interrupted, resulting in the latest 
 - Incorrect product entry in the Catalog
 - No trade policy associated with the product in the store binding
 - Indexing timeout (40 seconds) due to a high number of requests to the checkout during indexing. The number of requests may vary depending on the following product-related factors:
-<br>
-<ul>
-<br>
-    	<li>Number of trade policies</li>
-    	<li>Number of SKUs</li>
-    	<li>Number of geographical regions</li>
-    	<li>Number of collections</li>
-    	<li>Number of sellers</li>
-</ul>
+
+   - Number of trade policies  
+   - Number of SKUs  
+   - Number of geographical regions  
+   - Number of collections  
+   - Number of sellers
 
 ## Solutions
 
@@ -62,15 +59,15 @@ To fix any issues preventing correct product indexing in the store, consider doi
 
 Errors in product fields can lead to inconsistencies when indexing a product.
 
-<blockquote><ui>1. In the Admin VTEX, go to **Catalog > All Products**.</ui>
+1. In the Admin VTEX, go to **Catalog > All Products**.  
 
-<blockquote>> ⚠️ Stores using the **Products and SKUs (Beta)** page should check the product fields by going to **Catalog > Products and SKUs** in the VTEX Admin. Learn more about [Produtos and SKUS (Beta)](https://help.vtex.com/en/tutorial/products-and-skus-beta--2ig7TmROlirWirZjFWZ3By).</blockquote>
+   > ⚠️ Stores using the **Products and SKUs (Beta)** page should check the product fields by going to **Catalog > Products and SKUs** in the VTEX Admin. Learn more about [Products and SKUs (Beta)](https://help.vtex.com/en/tutorial/products-and-skus-beta--2ig7TmROlirWirZjFWZ3By).
 
-<blockquote><ui>2. Find the product you want and click **UPDATE**.</ui>
+2. Find the product you want and click **UPDATE**.  
 
-<blockquote><ui>3. Check if the information in all the [product fields](https://help.vtex.com/en/tutorial/product-registration-fields--4dYXWIK3zyS8IceKkQseke) is correct. If necessary, update it and click Save.</ui>
+3. Check if the information in all the [product fields](https://help.vtex.com/en/tutorial/product-registration-fields--4dYXWIK3zyS8IceKkQseke) is correct. If necessary, update it and click Save.  
 
-<blockquote><ui>4. Access the indexing report in **Catalog > Reports** and check whether the product is in the indexing queue or has been indexed.</ui>
+4. Access the indexing report in **Catalog > Reports** and check whether the product is in the indexing queue or has been indexed.
 
 ### Checking the account binding information
 
@@ -119,4 +116,4 @@ For accounts with 100,000 or more products, please contact [VTEX Support](https:
 
 Learn more in [Database Maintenance (Full Cleanup)](https://help.vtex.com/en/tutorial/database-maintenance-full-cleanup--34P9LGs7BCIQK6acQom802).
 
-![Schedule full reindexing](//images.ctfassets.net/alneenqid6w5/65cBrSeyPnEY1FgnRUvnU8/080fed5de879388ff7b2077981a044c5/Schedule_full_reindexing.png)
+![Schedule full reindexing](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/troubleshooting/store-operations/i-cant-index-a-product-in-the-catalog_1.png)

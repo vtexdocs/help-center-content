@@ -3,8 +3,8 @@ title: "I can't view the product in the search results"
 id: 2Ry55Fh6JW8v7oKBiB2pH3
 status: PUBLISHED
 createdAt: 2024-07-24T16:39:50.379Z
-updatedAt: 2025-03-31T19:12:10.972Z
-publishedAt: 2025-03-31T19:12:10.972Z
+updatedAt: 2025-08-14T22:44:25.091Z
+publishedAt: 2025-08-14T22:44:25.091Z
 firstPublishedAt: 2024-07-24T18:55:15.925Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -25,9 +25,9 @@ When the user searches in a VTEX store using [Intelligent Search](https://help.v
 
 Example scenario: When searching the store's website for products containing the term "Pendleton," the search results return 6 products. However, when we access the VTEX Admin (__Storefront > Intelligent Search > Explained Search__) and enter the same term, 9 products are displayed.
 
-![Filter_1](//images.ctfassets.net/alneenqid6w5/1bMAcWQEyVXBsUBZQp8H0K/568f6f3868b13d54ed4335b4574ac434/Filter_1.png)
+![Filter_1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/troubleshooting/store-operations/i-cant-view-the-product-in-the-search-results_1.png)
 
-![Filter_2](//images.ctfassets.net/alneenqid6w5/5TL7uaMv37zf7AGwohmAKu/06017d321b1996515da01c11ea53403c/Filter_2.png)
+![Filter_2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/troubleshooting/store-operations/i-cant-view-the-product-in-the-search-results_2.png)
 
 This behavior can occur due to the following reasons:
 
@@ -49,23 +49,23 @@ To enable the searched products to be displayed correctly in the site's search r
 
 A missing product in a search result may come from incomplete fields during the [product registration](https://help.vtex.com/en/tutorial/product-registration-fields--4dYXWIK3zyS8IceKkQseke). Follow the steps below to check the __Brand, Show on site__, and __Show when out of stock__ fields:
 
-<blockquote><ui>1. In the Admin VTEX, go to **Catalog > All Products**.</ui>
+1. In the Admin VTEX, go to **Catalog > All Products**.
 
-<blockquote><ui>> ⚠️ Stores using the **Produtos and SKUS (Beta)** page should check the product registration fields by going to **Catalog > Products and SKUs** in the VTEX Admin. Learn more about [Produtos and SKUS (Beta)](https://help.vtex.com/en/tutorial/products-and-skus-beta--2ig7TmROlirWirZjFWZ3By).</blockquote>
+> ⚠️ Stores using the **Products and SKUS (Beta)** page should check the product registration fields by going to **Catalog > Products and SKUs** in the VTEX Admin. Learn more about [Produtos and SKUS (Beta)](https://help.vtex.com/en/tutorial/products-and-skus-beta--2ig7TmROlirWirZjFWZ3By).
 
-<blockquote><ui>2. Find the product you want and click **Edit product**.</ui>
+2. Find the product you want and click **Edit product**.
 
-<blockquote><ui>3. In the **Brand** field, confirm if the information is correct. If necessary, add the brand corresponding to the product. You can only add brands that have already been [created in the store](https://help.vtex.com/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/7lEGOSpAlQJCs5eUc5XFmR).</ui>
+3. In the **Brand** field, confirm if the information is correct. If necessary, add the brand corresponding to the product. You can only add brands that have already been [created in the store](https://help.vtex.com/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/7lEGOSpAlQJCs5eUc5XFmR).
 
-<blockquote><ui>4. Confirm if the **Show on site** option is checked.</ui>
+4. Confirm if the **Show on site** option is checked.
 
-<blockquote><ui>5. Confirm if the **Show when out of stock** option is checked.</ui>
+5. Confirm if the **Show when out of stock** option is checked.
 
-<blockquote><ui>6. Click *Save*.</ui>
+6. Click _Save_.
 
-<blockquote><ui>7. Go to the store's website, search for the desired term, and ensure that the products displayed in the search results are the same as the ones available on the **Explained Search** page under Intelligent Search (**Storefront > Intelligent Search > Explained Search**).</ui>
+7. Go to the store's website, search for the desired term, and ensure that the products displayed in the search results are the same as the ones available on the **Explained Search** page under Intelligent Search (**Storefront > Intelligent Search > Explained Search**).
 
-<blockquote><ui>> ⚠️ If the search term is included in the product's name or description, but the product belongs to a different brand than the term specified in the search, proceed with the other steps to solve the problem.</blockquote>
+> ⚠️ If the search term is included in the product's name or description, but the product belongs to a different brand than the term specified in the search, proceed with the other steps to solve the problem.
 
 ### Changing search filters in Rewriter
 
@@ -75,84 +75,84 @@ If a term is listed in Rewriter as a brand, [Intelligent Search](https://help.vt
 
 To remove the restriction on searching by *brand* and allow products to be found also by terms in the name or description (*full text*), follow the steps below:
 
-<blockquote><ui>1. In the VTEX Admin, go to **Storefront > Intelligent Search > Explained Search** enter the desired term, and see how many products are returned in the search.</ui>
+1. In the VTEX Admin, go to **Storefront > Intelligent Search > Explained Search** enter the desired term, and see how many products are returned in the search.
 
-<blockquote><ui>2. Configure the [Rewriter](https://developers.vtex.com/docs/apps/vtex.rewriter) app. If this app is not installed in your store, go to the [App Store](https://help.vtex.com/en/tracks/extensions-hub--AW7klkYMh557y5IUOgzco/2LDRvGujYsumxi7IlE7CEJ) and install it.</ui>
+2. Configure the [Rewriter](https://developers.vtex.com/docs/apps/vtex.rewriter) app. If this app is not installed in your store, go to the [App Store](https://help.vtex.com/en/tracks/extensions-hub--AW7klkYMh557y5IUOgzco/2LDRvGujYsumxi7IlE7CEJ) and install it.
 
-<blockquote><ui>3. Access the [GraphQL IDE](https://developers.vtex.com/docs/guides/graphql-ide#graphql-basics) in **Store Settings > Storefront > GraphQL IDE**.</ui>
+3. Access the [GraphQL IDE](https://developers.vtex.com/docs/guides/graphql-ide#graphql-basics) in **Store Settings > Storefront > GraphQL IDE**.
 
-<blockquote><ui>4. Under **Choose an app**, click the Rewriter app option (**vtex.rewriter@{app-version-number}**).</ui>
+4. Under **Choose an app**, click the Rewriter app option (**vtex.rewriter@{app-version-number}**).
 
-![Graphql_ide_en](//images.ctfassets.net/alneenqid6w5/1IBr0HvF5xxf2nfxIwW4YC/6e0774e72b9a6e4a6b85a4c47986fe84/Graphql_ide_en.png)
+![Graphql_ide_en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/troubleshooting/store-operations/i-cant-view-the-product-in-the-search-results_3.png)
 
-<blockquote><ui>5. In the query input field (below **GraphiQL**), enter the details of the *saveInternal* mutation function.<ui>
+5. In the query input field (below **GraphiQL**), enter the details of the _saveInternal_ mutation function.
 
-```
-mutation saverInternal($route: InternalInput!) {
-internal {
- save(route: $route) {
-   from
-   declarer
-   type
-   id
-   query
-   endDate
-   binding
-   resolveAs
-   origin
-   disableSitemapEntry
- }
-}
-}
-```
+    ```graphql
+    mutation saverInternal($route: InternalInput!) {
+    internal {
+     save(route: $route) {
+       from
+       declarer
+       type
+       id
+       query
+       endDate
+       binding
+       resolveAs
+       origin
+       disableSitemapEntry
+     }
+    }
+    }
+    ```
 
-<blockquote><ui>6. In **Query Variables**, enter the route details. You must replace the *Pendleton* value with the desired term and the *id* field value with the product ID.<ui>
+6. In **Query Variables**, enter the route details. You must replace the _Pendleton_ value with the desired term and the _id_ field value with the product ID.
 
-```
-{
-"route": {
- "from": "/Pendleton",
- "declarer": "vtex.store@2.x",
- "type": "fullText",
- "id": "2000307",
- "query": {
-     "map": "ft"
- },
-   "origin": "user-canonical"
- }
-}
-```
+    ```graphql
+    {
+    "route": {
+     "from": "/Pendleton",
+     "declarer": "vtex.store@2.x",
+     "type": "fullText",
+     "id": "2000307",
+     "query": {
+         "map": "ft"
+     },
+       "origin": "user-canonical"
+     }
+    }
+    ```
 
-<blockquote><ui>> ⚠️ The value *ft* (full text) instead of *b* (brand) in the *map* parameter indicates that products with the term *Pendleton* in the name or description will also be displayed in the search.</blockquote>
+> ⚠️ The value *ft* (full text) instead of *b* (brand) in the *map* parameter indicates that products with the term *Pendleton* in the name or description will also be displayed in the search.
 
-<blockquote><ui>7. Click the GraphiQL IDE arrow (next to **GraphiQL**) to update the search filter. The display of the following message in the GraphiQL IDE results field will confirm the new default search filter for the term.</ui>
+7. Click the GraphiQL IDE arrow (next to **GraphiQL**) to update the search filter. The display of the following message in the GraphiQL IDE results field will confirm the new default search filter for the term.
 
-```
-{
-  "data": {
-    "internal": {
-      "save": {
-        "from": "/Pendleton",
-        "declarer": "vtex.store@2.x",
-        "type": "fullText",
-        "id": "2000307",
-        "query": {
-          "map": "ft"
-        },
-        "endDate": null,
-        "binding": "0be568e5-52f5-44f0-9308-3ea701a9f847",
-        "resolveAs": null,
-        "origin": "user-canonical",
-        "disableSitemapEntry": null
+    ```graphql
+    {
+      "data": {
+        "internal": {
+          "save": {
+            "from": "/Pendleton",
+            "declarer": "vtex.store@2.x",
+            "type": "fullText",
+            "id": "2000307",
+            "query": {
+              "map": "ft"
+            },
+            "endDate": null,
+            "binding": "0be568e5-52f5-44f0-9308-3ea701a9f847",
+            "resolveAs": null,
+            "origin": "user-canonical",
+            "disableSitemapEntry": null
+          }
+        }
       }
     }
-  }
-}
-```
+    ```
 
-<blockquote><ui>8. Go to the store's website, search for the desired term, and ensure that the products displayed in the search results are the same as the ones available on the **Explained Search** page under Intelligent Search (**Storefront > Intelligent Search > Explained Search**).</ui>
+8. Go to the store's website, search for the desired term, and ensure that the products displayed in the search results are the same as the ones available on the **Explained Search** page under Intelligent Search (**Storefront > Intelligent Search > Explained Search**).
 
-<blockquote><ui>> ⚠️ If the search term is associated with a brand that no longer exists on your site, you will need to remove the internal search route within the Rewriter app, as described in the solution below</a>.</blockquote>
+> ⚠️ If the search term is associated with a brand that no longer exists on your site, you will need to remove the internal search route within the Rewriter app, as described in the solution below</a>.
 
 ### Removing internal search route in Rewriter
 
@@ -162,76 +162,76 @@ To display products using the search terms only in the name or description, you 
 
 To remove an internal search route for the term, follow the steps below:
 
-<blockquote><ui>1. In the VTEX Admin, go to [GraphQL IDE](https://developers.vtex.com/docs/guides/graphql-ide#graphql-basics) in **Store Settings > Storefront > GraphQL IDE**.</ui>
+1. In the VTEX Admin, go to [GraphQL IDE](https://developers.vtex.com/docs/guides/graphql-ide#graphql-basics) in **Store Settings > Storefront > GraphQL IDE**.
 
-<blockquote><ui>2. Under **Choose an app**, click the Rewriter app option (**vtex.rewriter@{app-version-number}**).</ui>
+2. Under **Choose an app**, click the Rewriter app option (**vtex.rewriter@{app-version-number}**).
 
-<blockquote><ui>3. In the query input field (below **GraphiQL**), enter the data for the *internal get* function, replacingo *pendleton* with the desired term.</ui> 
+3. In the query input field (below **GraphiQL**), enter the data for the _internal get_ function, replacingo _pendleton_ with the desired term. 
 
-```
-{
-  internal {
-    get(path: "/Pendleton") {
-      from
-      resolveAs
-      type
-    }
-  }
-}
-```
-
-<blockquote><ui>4. Click the GraphiQL IDE arrow (next to **GraphiQL**) and check the results field to see if the internal route is described as a *brand*.</ui>
-
-```
-{
-  "data": {
-    "internal": {
-      "get": {
-        "from": "/Pendleton",
-        "resolveAs": "/Pendleton",
-        "type": "brand"
+    ```graphql
+    {
+      internal {
+        get(path: "/Pendleton") {
+          from
+          resolveAs
+          type
+        }
       }
     }
-  }
-}
-```
+    ```
 
-<blockquote><ui>5. In the query input field (below **GraphiQL**), enter the data for the *mutation* function, replacing *pendleton* with the desired term.</ui> 
+4. Click the GraphiQL IDE arrow (next to **GraphiQL**) and check the results field to see if the internal route is described as a _brand_.
 
-```
-mutation {
-  internal {
-    delete(path: "/Pendleton"){
-      type
-    }
-  }
-}
-```
-
-<blockquote><ui>6. Click the GraphiQL IDE arrow (next to **GraphiQL**) to remove the internal filter route by *brand* and confirm that the information below appears in the GraphiQL IDE results field.</ui>
-
-```
-{
-  "data": {
-    "internal": {
-      "delete": {
-        "type": "brand"
+    ```graphql
+    {
+      "data": {
+        "internal": {
+          "get": {
+            "from": "/Pendleton",
+            "resolveAs": "/Pendleton",
+            "type": "brand"
+          }
+        }
       }
     }
-  }
-}
-```
+    ```
 
-<blockquote><ui>7. Repeat steps 3 and 4 to confirm that the internal redirection route from term to brand has been deleted. This can be indicated by the *"get": null* result in the GraphiQL IDE results field.</ui>
+5. In the query input field (below **GraphiQL**), enter the data for the _mutation_ function, replacing _pendleton_ with the desired term. 
 
-```
-{
-  "data": {
-    "internal": {
-      "get": null
+    ```graphql
+    mutation {
+      internal {
+        delete(path: "/Pendleton"){
+          type
+        }
+      }
     }
-  }
-}
-```
+    ```
 
-<blockquote><ui>8. Go to the store's website, search for the desired term, and ensure that the products displayed in the search results are the same as the ones available on the **Explained Search** page under Intelligent Search (**Storefront > Intelligent Search > Explained Search**).</ui>
+6. Click the GraphiQL IDE arrow (next to **GraphiQL**) to remove the internal filter route by _brand_ and confirm that the information below appears in the GraphiQL IDE results field.
+
+    ```graphql
+    {
+      "data": {
+        "internal": {
+          "delete": {
+            "type": "brand"
+          }
+        }
+      }
+    }
+    ```
+
+7. Repeat steps 3 and 4 to confirm that the internal redirection route from term to brand has been deleted. This can be indicated by the _"get": null_ result in the GraphiQL IDE results field.
+
+    ```graphql
+    {
+      "data": {
+        "internal": {
+          "get": null
+        }
+      }
+    }
+    ```
+
+8. Go to the store's website, search for the desired term, and ensure that the products displayed in the search results are the same as the ones available on the **Explained Search** page under Intelligent Search (**Storefront > Intelligent Search > Explained Search**).

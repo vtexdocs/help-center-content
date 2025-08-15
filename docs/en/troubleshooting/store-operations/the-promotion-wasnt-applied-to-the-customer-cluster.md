@@ -3,8 +3,8 @@ title: "The promotion wasn't applied to the customer cluster"
 id: 1fQEKdmWwIAPfDQAbuP3Kr
 status: PUBLISHED
 createdAt: 2025-02-28T18:00:30.100Z
-updatedAt: 2025-02-28T19:31:52.785Z
-publishedAt: 2025-02-28T19:31:52.785Z
+updatedAt: 2025-08-14T22:53:01.477Z
+publishedAt: 2025-08-14T22:53:01.477Z
 firstPublishedAt: 2025-02-28T19:31:52.785Z
 contentType: tutorial
 productTeam: Others
@@ -33,21 +33,21 @@ Below are some solutions that can help ensure the promotion is displayed to the 
 
 To identify whether a customer cluster is associated with a promotion, follow the steps below:
 
-<blockquote><ui>1. In the VTEX Admin, go to **Promotions > Promotions**, or type **Promotions** in the search bar at the top of the page.</ui>
+1. In the VTEX Admin, go to **Promotions > Promotions**, or type **Promotions** in the search bar at the top of the page.
 
-<blockquote><ui>2. Click the promotion you want to check.</ui>
+2. Click the promotion you want to check.
 
-<blockquote><ui>3. In the section **“What are the conditions for the promotion to be valid?”**, check if the option **Customer cluster** is selected and that the field is completed with the correct [value of the respective cluster](https://help.vtex.com/en/tutorial/creating-promotion-for-a-customer-cluster--tutorials_342#filling-in-the-customer-cluster-field).</ui>
+3. In the section **“What are the conditions for the promotion to be valid?”**, check if the option **Customer cluster** is selected and that the field is completed with the correct [value of the respective cluster](https://help.vtex.com/en/tutorial/creating-promotion-for-a-customer-cluster--tutorials_342#filling-in-the-customer-cluster-field).
 
-![Cluster_en](//images.ctfassets.net/alneenqid6w5/1kmG4hIoavKPG1JKkKNKnU/9f5fccae1677bdf9acf69958b3835454/cluster_en.png)  
+![Cluster_en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/troubleshooting/store-operations/the-promotion-wasnt-applied-to-the-customer-cluster_1.png)  
 
-<blockquote><ui>> ⚠️ The value entered in this field must be exactly the same as the value previously assigned to the customer cluster, as the system interprets differences between upper and lower case letters (case sensitive). For example, if the value entered for a given cluster identifier is `employee=true` and in the promotion it's `Employee=true` or `Employee=True`, the promotion won't be visible to users in that cluster.</blockquote>
+> ⚠️ The value entered in this field must be exactly the same as the value previously assigned to the customer cluster, as the system interprets differences between upper and lower case letters (case sensitive). For example, if the value entered for a given cluster identifier is `employee=true` and in the promotion it's `Employee=true` or `Employee=True`, the promotion won't be visible to users in that cluster.
 
-<blockquote><ui>4. If necessary, add or change the value for the desired cluster.</ui>
+4. If necessary, add or change the value for the desired cluster.
 
-<blockquote><ui>5. Click `Save`.</ui>
+5. Click `Save`.
 
-<blockquote><ui>> ℹ️ To ensure that the same promotion is applied simultaneously to customer clusters with different values, select the condition **At least one of the following** and configure all the cluster values in the promotion.</blockquote>
+> ℹ️ To ensure that the same promotion is applied simultaneously to customer clusters with different values, select the condition **At least one of the following** and configure all the cluster values in the promotion.
 
 ### Check the value assigned to the customer profile
 

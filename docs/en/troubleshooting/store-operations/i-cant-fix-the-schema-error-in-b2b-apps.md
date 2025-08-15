@@ -3,8 +3,8 @@ title: "I can't fix the schema error in B2B apps"
 id: WkjJZSnGXCiqmLhg4b0OR
 status: PUBLISHED
 createdAt: 2024-09-11T18:54:34.611Z
-updatedAt: 2024-11-08T19:31:33.438Z
-publishedAt: 2024-11-08T19:31:33.438Z
+updatedAt: 2025-08-14T22:02:49.294Z
+publishedAt: 2025-08-14T22:02:49.294Z
 firstPublishedAt: 2024-09-11T19:42:01.055Z
 contentType: tutorial
 productTeam: B2B
@@ -29,25 +29,19 @@ Fixing the Schema is invalid alert in B2B apps involves adjusting the configurat
 ### Fixing the Schema is invalid alert in B2B apps
 To fix the Schema is invalid alert, follow the steps below to ensure the correct configuration:
 
-<ol>
-  <li>In the VTEX Admin, go to **Store Settings > Storefront > Master Data**, or type **Master Data** in the search bar at the top of the page.</li>
-  <li>Log in.</li>
-  <li>Click **Advanced Settings**.</li>
-  <li>Click **Data structure**.</li>
-  <li>Click **Data Entities**.</li>
-  <li>Click **Edit** in the **CL** row.</li>
-  <li>Review all the fields in the list to identify the one where the option is **nullable** and unchecked, and then check it.</li>
-</ol>
+1. In the VTEX Admin, go to **Store Settings > Storefront > Master Data**, or type **Master Data** in the search bar at the top of the page.  
+2. Log in.  
+3. Click **Advanced Settings**.  
+4. Click **Data structure**.  
+5. Click **Data Entities**.  
+6. Click **Edit** in the **CL** row.  
+7. Review all the fields in the list to identify the one where the option is **nullable** and unchecked, and then check it.  
 
-<div>
-  Only the email field should remain with the **"Is nullable"** option unchecked.
-</div>
+   > ⚠️ Only the email field should remain with the **Is nullable** option unchecked.
 
-<ol start="8">
-  <li>Click **Save**.</li>
-  <li>In the list of **Data Entities**, click **Publish**.</li>
-</ol>
+8. Click **Save**.  
+9. In the list of **Data Entities**, click **Publish**.
 
 The image below shows the necessary steps to fix the configuration of the required fields in Master Data, solving the `Schema is invalid` alert.
 
-![B2B Suite - troubleshootingv2](//images.ctfassets.net/alneenqid6w5/3IYnKHxoYR6FcKZGiG98fO/8680ee05ea74b66e0c10612a791e7ce5/B2B_Suite_-_troubleshootingv2.gif)
+![B2B Suite - troubleshootingv2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/troubleshooting/store-operations/i-cant-fix-the-schema-error-in-b2b-apps_1.gif)
