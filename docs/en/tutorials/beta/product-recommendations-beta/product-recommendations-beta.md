@@ -15,19 +15,11 @@ locale: en
 subcategoryId: 6WyZwZfn89IsnNFNkTAi8d
 ---
 
-<div class="alert alert-info">
-  <p>This feature is in closed beta, and only participating customers can access it.
-If you're a VTEX client and want to adopt this feature for your business, please
-contact <a
-href="https://help.vtex.com/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ">Commercial
-Support</a>. Additional fees may apply. If you're not a VTEX client but are
-interested in this solution, please complete our <a
-href="https://vtex.com/en-us/contact/">contact form</a>.</p>
-</div>
+> ℹ️ This feature is in closed beta, and only participating customers can access it. If you're a VTEX client and want to adopt this feature for your business, please contact [Commercial Support](https://help.vtex.com/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ). Additional fees may apply. If you're not a VTEX client but are interested in this solution, please complete our [contact form](https://vtex.com/en-us/contact/).
 
 The Product Recommendations feature allows your store to provide custom experiences to buyers by recommending items based on multiple strategies. In addition, you can display relevant or complementary products, boost conversion rates, and increase the average ticket of your business.
 
-![buy-together](//images.ctfassets.net/alneenqid6w5/4IAbPOM9lIMwX6zdbF7pxs/a1bb03831639bac0722d124cce6fbc90/buy-together.png)
+![buy-together](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/product-recommendations-beta/product-recommendations-beta_1.png)
 
 ## Prerequisites
 

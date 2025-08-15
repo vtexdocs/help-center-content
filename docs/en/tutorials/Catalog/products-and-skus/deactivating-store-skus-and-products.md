@@ -29,7 +29,7 @@ Both products and SKUs can be either active or inactive, as shown in the table b
 
 | **Product or SKU status** | **Description** |
 | :---: | :--- |
-| Active | <p>The product or SKU was activated, indicating that the merchant intends to sell it on the storefront.</p><p>The sale of that product or SKU also depends on its activation and availability. For more information on product availability, see <a href="https://help.vtex.com/en/tutorial/products-and-skus--2ig7TmROlirWirZjFWZ3By#tracking-product-availability">Products and SKUs</a> and <a href="https://help.vtex.com/faq/why-is-the-product-not-visible-on-the-website--frequentlyAskedQuestions_382">Why is the product not visible on the website?</a>.</p> |
+| Active | The product or SKU was activated, indicating that the merchant intends to sell it on the storefront.The sale of that product or SKU also depends on its activation and availability. For more information on product availability, see [Products and SKUs](https://help.vtex.com/en/tutorial/products-and-skus--2ig7TmROlirWirZjFWZ3By#tracking-product-availability) and [Why is the product not visible on the website?](https://help.vtex.com/faq/why-is-the-product-not-visible-on-the-website--frequentlyAskedQuestions_382). |
 | Inactive | The product or SKU is inactive, showing the merchant doesn't want it to display in the storefront for sale at the moment. |
 
 ## Deactivating a product
@@ -41,9 +41,7 @@ To deactivate a product, follow the steps below:
 3. On the product editing page, turn off the <i class="fas fa-toggle-off" aria-hidden="true"></i> Active toggle.
 4. Click `Save`.
 
-<div class="alert alert-warning">
-  <p>.en all SKUs of a product are inactive, the product is automatically deactivated.</p>
-</div>
+> ⚠️ .en all SKUs of a product are inactive, the product is automatically deactivated.
 
 ## Deactivating a SKU
 

@@ -15,18 +15,13 @@ locale: en
 subcategoryId: 4T6qfa6gNO6g4sAUIa6s2G
 ---
 
-<div class = "alert alert-info">
-  <p>This feature is only available for Android and is compatible with specific thermal printers, as described in the <a href="#requirements">Requirements</a> section.</p>
-</div>
+> ℹ️ This feature is only available for Android and is compatible with specific thermal printers, as described in the [Requirements](#requirements) section.
 
 [VTEX Sales App](https://help.vtex.com/en/tracks/instore-getting-started-and-setting-up--zav76TFEZlAjnyBVL5tRc) allows sales associates to print sales receipts using a thermal printer directly from a mobile device via a Bluetooth connection.
 
 This feature eliminates the need for the sales associate to go to the cash register to generate a receipt, allowing it to be issued quickly within the **Sales App** sales flow. The result is a faster service and a better shopping experience for customers.
 
-<div class="alert alert-warning">
-  <p>Printing a sales receipt via thermal printer in <b>Sales App</b> doesn't interfere with the order invoice. The invoice or receipt is issued later, as it depends on integrations with payment connectors and logistical considerations, such as the warehouse used. 
-</p>
-</div>
+> ⚠️ Printing a sales receipt via thermal printer in **Sales App** doesn't interfere with the order invoice. The invoice or receipt is issued later, as it depends on integrations with payment connectors and logistical considerations, such as the warehouse used. 
 
 If your store wants to issue receipts with automatic invoicing for local (OnHands) sales, we recommend contacting our partner Neomode.
 
@@ -48,15 +43,11 @@ To print the sales receipt using the **Sales App**, follow the steps below:
 1. Turn on Bluetooth on your mobile phone.
 2. Connect your phone to the thermal printer via Bluetooth.
 
-  <div class = "alert alert-info">
-  <p>If the printer is not automatically recognized, search for the driver on the manufacturer's website and follow the installation instructions.</p>
-</div>
+  > ℹ️ If the printer is not automatically recognized, search for the driver on the manufacturer's website and follow the installation instructions.
 
 3. In **Sales App**, on the final order screen or after selecting an order in the **Orders** section, click `Print order`.
 
-  <div class="alert alert-danger">
-  <p>The first time you use this feature, an error may occur at this step. Close the app and follow the instructions from the beginning. If the error persists, contact our <a href="https://help.vtex.com/en/support">Support team</a>.</p>
-</div>
+  > ❗ The first time you use this feature, an error may occur at this step. Close the app and follow the instructions from the beginning. If the error persists, contact our [Support team](https://help.vtex.com/en/support).
 
 4. Select the desired thermal printer, and the printing will start immediately.
 
@@ -70,4 +61,4 @@ The printed receipt includes the following information:
 
 For stores with integrations by partners like Neomode that immediately invoice OnHands sales, the invoice will appear on the receipt, as shown in the image below:
 
-![thermic_printer_receipt_EN](//images.ctfassets.net/alneenqid6w5/YOumGZtiUlkA1ACYOgKec/6e1a0665c0b78a6a4a2707c89fa9c977/thermic_printer_receipt_EN.png)
+![thermic_printer_receipt_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/unified-commerce/vtex-sales-app/issuing-sales-receipts-in-sales-app-via-thermal-printer_1.png)

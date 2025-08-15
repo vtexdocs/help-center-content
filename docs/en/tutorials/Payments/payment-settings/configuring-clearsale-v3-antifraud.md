@@ -29,20 +29,17 @@ To configure ClearSaleV3, follow the steps below:
 <br>
 <ul>
 <br>
-  <li><b>Login</b>: Login.</li>
-  <li><b>Password</b>: Password.</li>
-  <li><b>Custom SLA in minutes (optional)</b>: Period in which ClearSale will have to process the fraud analysis.</li>
-  <li><b>Product (optional)</b>: Numeric value. Corresponds to the product ID contracted on ClearSale.</li>
-  <li><b>Transaction currency</b>: Currency in which the transaction is carried out.</li>
-  <li><b>Observation (optional)</b>: Text that will be sent to ClearSale as a remark.</li>
-  <li><b>Send authenticated transactions?</b>: Indicates whether payment transactions must be authenticated with a password in the 3DSecure program.</li>
+  <li>**Login**: Login.</li>
+  <li>**Password**: Password.</li>
+  <li>**Custom SLA in minutes (optional)**: Period in which ClearSale will have to process the fraud analysis.</li>
+  <li>**Product (optional)**: Numeric value. Corresponds to the product ID contracted on ClearSale.</li>
+  <li>**Transaction currency**: Currency in which the transaction is carried out.</li>
+  <li>**Observation (optional)**: Text that will be sent to ClearSale as a remark.</li>
+  <li>**Send authenticated transactions?**: Indicates whether payment transactions must be authenticated with a password in the 3DSecure program.</li>
 </ul>
 7. Click `Save`.
 
-<div class="alert alert-info">
-<p>If you have a mobile application that uses VTEX APIs at checkout, it is necessary to implement fingerprint data collection to be sent to Clearsale, according to the platform used by the application. Find out more at <a href="https://api.clearsale.com.br/docs/behavior-analytics" target="_blank">Clearsale Behavior Analytics</a>.</p>
-  <p>With the SDK implementation, it is necessary to collect the <span class="bg-muted-4">sessionId</span> value and send it in the <span class="bg-muted-4">deviceFingerprint</span> via <a href="https://developers.vtex.com/docs/api-reference/payment-provider-protocol#post-/payments">API when creating the payment</a>.</p>
-</div>
+> ℹ️ If you have a mobile application that uses VTEX APIs at checkout, it is necessary to implement fingerprint data collection to be sent to Clearsale, according to the platform used by the application. Find out more at [Clearsale Behavior Analytics](https://api.clearsale.com.br/docs/behavior-analytics). With the SDK implementation, it is necessary to collect the <span class="bg-muted-4">sessionId</span> value and send it in the <span class="bg-muted-4">deviceFingerprint</span> via [API when creating the payment](https://developers.vtex.com/docs/api-reference/payment-provider-protocol#post-/payments).
 
 ## Creating a Google Tag Manager tag
 
@@ -74,9 +71,9 @@ Configuring ClearSale v3 anti-fraud solution requires creating a tag in Google T
 10. Click on the __Create Tag__ button, enter a name for this tag and save.
 11. In the top right corner, click on __Publish__.
 
-![Pasted image at 2017 10 20 01 11 PM](https://images.contentful.com/alneenqid6w5/2kdI4xh9IYwKI2mSiU20yW/b850c070cc8de2ec09e690ffe6cc9c15/Pasted_image_at_2017_10_20_01_11_PM.png)
+![Pasted image at 2017 10 20 01 11 PM](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/payment-settings/configuring-clearsale-v3-antifraud_1.png)
 
-<div class="alert alert-info"> See the <a href="https://api.clearsale.com.br/docs/finger-print" target="_blank"> FingerPrint documentation</a> on ClearSale for more information on the above script. </div>
+> ℹ️ See the [ FingerPrint documentation](https://api.clearsale.com.br/docs/finger-print) on ClearSale for more information on the above script.
 
 ## CustomSLA field details
 
@@ -90,10 +87,8 @@ The `shippingEstimate` value is obtained from a calculation made by the Logistic
 - `h` for hours if the time is less than 24 hours and at least 2 hours.
 - `m` for minutes if time is less than 2 hours.
 
-The `shippingEstimate` field can be obtained from the `shippingData.logisticsInfo[]` items in the <a href="https://developers.vtex.com/vtex-rest-api/reference/orders#getorder" target="_blank">Get Order</a> endpoint response.
+The `shippingEstimate` field can be obtained from the `shippingData.logisticsInfo[]` items in the [Get Order](https://developers.vtex.com/vtex-rest-api/reference/orders#getorder) endpoint response.
 
-The `deliverySlaInMinutes` value is the conversion of `shippingEstimate` into minutes. If the unit is `m` (minutes), the value will be the same. If the unit is `h` (hours), the value is multiplied by 60, and if the unit is `d` (calendar days) or `bd` (working days), the value is multiplied by 1440. For example, three calendar days or `3d` is represented as `4320`. The `deliverySlaInMinutes` field is used in each item of the `minicart` in the request body of the <a href="https://developers.vtex.com/vtex-rest-api/reference/antifraud-flow#sendantifraudpreanalysisdata" target="_blank">Send Antifraud Pre-Analysis Data</a> and <a href="https://developers.vtex.com/vtex-rest-api/reference/antifraud-flow#sendantifrauddata" target="_blank">Send Antifraud Data</a> endpoints.
+The `deliverySlaInMinutes` value is the conversion of `shippingEstimate` into minutes. If the unit is `m` (minutes), the value will be the same. If the unit is `h` (hours), the value is multiplied by 60, and if the unit is `d` (calendar days) or `bd` (working days), the value is multiplied by 1440. For example, three calendar days or `3d` is represented as `4320`. The `deliverySlaInMinutes` field is used in each item of the `minicart` in the request body of the [Send Antifraud Pre-Analysis Data](https://developers.vtex.com/vtex-rest-api/reference/antifraud-flow#sendantifraudpreanalysisdata) and [Send Antifraud Data](https://developers.vtex.com/vtex-rest-api/reference/antifraud-flow#sendantifrauddata) endpoints.
 
-<div class="alert alert-info">
-Although the time conversion in calendar days (<code>d</code>) and working days (<code>bd</code>) to minutes is the same in the <code>deliverySlaInMinutes</code> field, the delivery date may be different depending on the calendar (when there are weekends and holidays within the delivery window).
-</div>
+> ℹ️ Although the time conversion in calendar days (`d`) and working days (`bd`) to minutes is the same in the `deliverySlaInMinutes` field, the delivery date may be different depending on the calendar (when there are weekends and holidays within the delivery window).

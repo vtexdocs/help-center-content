@@ -15,9 +15,7 @@ locale: en
 subcategoryId: 6riYYNZCpO8wyksi8Ksgyq
 ---
 
-<div class="alert alert-warning">
-Check out the updated version of this <a href="https://developers.vtex.com/vtex-developer-docs/docs/external-marketplace-integration-guide">marketplace integration guide</a> in our Developer Portal. 
-</div> 
+> ⚠️ Check out the updated version of this [marketplace integration guide](https://developers.vtex.com/vtex-developer-docs/docs/external-marketplace-integration-guide) in our Developer Portal. 
 
 This document assists in integrating a non-VTEX-hosted Marketplace with a VTEX-hosted Seller.
 
@@ -57,9 +55,7 @@ In this article, you get an overview of the process of integrating both blocks, 
 
 3) Marketplace searches for SKU price, inventory and shipping data using the Fulfillment API.  
 
-<div class = "alert alert-info">
-For more information, see the documentation for developers <a href="https://developers.vtex.com/vtex-rest-api/docs/external-marketplace-integration-guide">External Marketplace</a>.
-</div>
+> ℹ️ For more information, see the documentation for developers [External Marketplace](https://developers.vtex.com/vtex-rest-api/docs/external-marketplace-integration-guide).
 
 ## B) Flow referring to Order sending and processing
 
@@ -94,6 +90,4 @@ The integrations flow referring to the shipping and processing of orders can be 
 5) Report carrier tracking.  
 6) Submit cancellation request.  
 
-<div class = "alert alert-info">
-For more information, see the documentation for developers <a href="https://developers.vtex.com/vtex-rest-api/docs/external-marketplace-integration-guide">External Marketplace</a>.
-</div>
+> ℹ️ For more information, see the documentation for developers [External Marketplace](https://developers.vtex.com/vtex-rest-api/docs/external-marketplace-integration-guide).

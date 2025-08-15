@@ -3,8 +3,8 @@ title: 'Catalog Data Pipeline'
 id: 7ARDELPaugrBu5dZT7Vx2b
 status: PUBLISHED
 createdAt: 2025-03-06T15:48:35.084Z
-updatedAt: 2025-07-31T22:11:52.565Z
-publishedAt: 2025-07-31T22:11:52.565Z
+updatedAt: 2025-08-12T14:55:58.564Z
+publishedAt: 2025-08-12T14:55:58.564Z
 firstPublishedAt: 2025-03-07T11:30:01.994Z
 contentType: tutorial
 productTeam: Others
@@ -18,9 +18,7 @@ subcategoryId: oMrzcOMVbBpH0reeMFHFg
 
 The dataset consists of five tables that provide the most recent catalog information for a VTEX account. This dataset provides information on **products, SKUs, brands, categories** and **specifications.**
 
-<div clas="alert alert-warning">
-In the Catalog data model, only <b>Brands</b> and <b>Categories</b> with at least one product or SKU linked in the catalog are eligible for submission, regardless of active status.
-</div>
+> ⚠️ In the Catalog data model, only **Brands** and **Categories** with at least one product or SKU linked in the catalog are eligible for submission, regardless of active status.
 
 In this section you will find the following information:
 

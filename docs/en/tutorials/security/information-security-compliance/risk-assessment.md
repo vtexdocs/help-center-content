@@ -45,9 +45,7 @@ Some security information is restricted to VTEX Admin users, and it's not availa
 
 <iframe src="https://help.vtex.com/insertaccountname?id=7AmPOGXykmE9SYyYDzdAZ4" title="Enter your account name and click the button." frameBorder="0" width="400" height="50"></iframe>
 
-<div class="alert alert-warning">
-  If you are having dificulty accessing the FAQs, try installing the latest version of the app <code>vtex.admin-docs</code> using <a href="https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-vtex-io-cli-installation-and-command-reference">VTEX CLI</a> and repeating the process.
-</div>
+> ⚠️ If you are having dificulty accessing the FAQs, try installing the latest version of the app `vtex.admin-docs` using [VTEX CLI](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-vtex-io-cli-installation-and-command-reference) and repeating the process.
 
 ## FAQ - Security
 

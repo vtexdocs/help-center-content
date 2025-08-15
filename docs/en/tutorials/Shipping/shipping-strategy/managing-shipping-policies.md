@@ -17,7 +17,7 @@ subcategoryId: 7fTH6bP0C4IaM8qWi0kkQC
 
 [Shipping policy](https://help.vtex.com/en/tutorial/politica-de-envio--tutorials_140) is a set of rules and settings that define the shipping options displayed to customers at checkout. The relationship between shipping policy, [warehouse](https://help.vtex.com/en/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb), and [loading dock](https://help.vtex.com/en/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj) makes up your [shipping strategy](https://help.vtex.com/en/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3) on VTEX, as shown in the image below:
 
-![shipping_strategy_EN](//images.ctfassets.net/alneenqid6w5/1LdEuL3gjF12uwFj4ya6OL/9f3db7829e85f1c910daf1b81bacd127/shipping_strategy_EN.png)
+![shipping_strategy_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Shipping/shipping-strategy/managing-shipping-policies_1.png)
 
 This article explains how to monitor and manage your shipping policies. In the VTEX Admin, under **Shipping > Shipping Strategy**, the **Shipping Policies** tab is where you can do the following:
 
@@ -35,26 +35,24 @@ You can also create shipping policies. Read the instructions in the [Creating a 
 
 In the VTEX Admin, by going to **Shipping > Shipping Strategy** in the **Shipping Policies** tab, you will see a list as shown in the image below:
 
-![shipping_policy_EN](//images.ctfassets.net/alneenqid6w5/uiwwWTGlS60kPjMDLNfzY/68d66c99a43db25f4e297fbc238f0375/shipping_policy_EN.png)
+![shipping_policy_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Shipping/shipping-strategy/managing-shipping-policies_2.png)
 
 The information displayed on this page is described in the table below:
 
 | **Column** | **Description** |
 | :---: | :--- |
 | Shipping Policy | Name that identifies your [shipping policy](https://help.vtex.com/en/tutorial/politica-de-envio--tutorials_140) for users with access to your VTEX Admin. Learn more in the [Creating a shipping policy](https://help.vtex.com/en/tutorial/criar-uma-politica-de-envio--66rJO4LKBdyMJOH6Z3dsaT) article. |
-| Shipping Method | <p><a href="https://help.vtex.com/en/tutorial/como-funciona-o-tipo-de-envio--tutorials_126">Shipping method</a> is the name you set in the shipping policy displayed to customers at checkout. Thus, you should use intuitive names when creating a shipping policy.</p><p>Example: `Express shipping` and `Standard shipping`.</p> |
+| Shipping Method | [Shipping method](https://help.vtex.com/en/tutorial/como-funciona-o-tipo-de-envio--tutorials_126) is the name you set in the shipping policy displayed to customers at checkout. Thus, you should use intuitive names when creating a shipping policy.Example: `Express shipping` and `Standard shipping`. |
 | Loading Docks | Identifies which [loading docks](https://help.vtex.com/en/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj) are associated with the [shipping policy](https://help.vtex.com/en/tutorial/politica-de-envio--tutorials_140). When you hover over the number in this column, you will see the names of all the loading docks associated with the shipping policy. |
-| Status | <p>Shipping policy activation status, which can be:</p><p><ul><li><b>Active:</b> The shipping policy is activated and valid for the order shipping <a href="https://help.vtex.com/en/tutorial/como-funciona-o-calculo-de-envio--tutorials_116">calculation</a>.</li><li><b>Inactive:</b> The shipping policy is deactivated and not valid for shipping.</li></ul></p> |
+| Status | Shipping policy activation status, which can be:<ul><li>**Active:** The shipping policy is activated and valid for the order shipping [calculation](https://help.vtex.com/en/tutorial/como-funciona-o-calculo-de-envio--tutorials_116).</li><li>**Inactive:** The shipping policy is deactivated and not valid for shipping.</li></ul> |
 | Carrier (Brazil only) | This field only appears in the VTEX Admin for stores that have activated the [VTEX Shipping Network Correios](https://help.vtex.com/pt/tutorial/vtex-shipping-network-correios-ativacao--57opHihFbRAwrjQjCTymTa) or requested the [VTEX Shipping Network](https://help.vtex.com/pt/tutorial/pronto-para-envio--5YOZV7Aotv3pap0fGNESDs). It uniquely identifies Correios. |
-| Contract (Brazil only) | <p>This field only appears in the VTEX Admin for stores that have activated the <a href="https://help.vtex.com/pt/tutorial/vtex-shipping-network-correios-ativacao--57opHihFbRAwrjQjCTymTa">VTEX Shipping Network Correios</a>.</p><p>Possible values are:</p><p><ul><li><b>VTEX:</b> The store has requested a Correios price list intermediated by VTEX.</li><li><b>Store:</b> The store requested a price list on its own before activating the VTEX Shipping Network Correios.</li></ul></p> |
+| Contract (Brazil only) | This field only appears in the VTEX Admin for stores that have activated the [VTEX Shipping Network Correios](https://help.vtex.com/pt/tutorial/vtex-shipping-network-correios-ativacao--57opHihFbRAwrjQjCTymTa).Possible values are:<ul><li>**VTEX:** The store has requested a Correios price list intermediated by VTEX.</li><li>**Store:** The store requested a price list on its own before activating the VTEX Shipping Network Correios.</li></ul> |
 
 ## Searching for shipping policies
 
 In the search box with the magnifying glass icon <i class="fas fa-search"></i>, you can search for shipping policies by name. Typing a character into the search bar immediately initiates the search. To clear the search, click the close icon <i class="far fa-times-circle"></i>.
 
-<div class = "alert alert-info">
-If the search does not return any results, check the spelling used in the search and if a filter has been selected.
-</div>
+> ℹ️ If the search does not return any results, check the spelling used in the search and if a filter has been selected.
 
 ## Filtering shipping policies
 
@@ -103,9 +101,7 @@ To activate or deactivate a shipping policy, follow the steps below:
 
 To delete a shipping policy, follow the steps below:
 
-<div class="alert alert-danger">
-Deleting a shipping policy is permanent and cannot be undone.
-</div>
+> ❗ Deleting a shipping policy is permanent and cannot be undone.
 
 1. In the VTEX Admin, go to **Shipping > Shipping Strategy** or type **Shipping Strategy** in the search bar at the top of the page.
 2. In the **Shipping Policies** tab, in the row for the shipping policy you want, click the menu icon <i class="fas fa-ellipsis-v"></i>. You can [search](#searching-for-shipping-policies) for policies or [filter by](#filtering-shipping-policies) certain criteria.

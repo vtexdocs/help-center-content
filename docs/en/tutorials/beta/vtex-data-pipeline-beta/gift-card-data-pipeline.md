@@ -17,9 +17,7 @@ subcategoryId: oMrzcOMVbBpH0reeMFHFg
 
 The `gift cards` dataset includes historical information on gift cards that have been created or modified. This dataset only provides information on gift cards created natively within VTEX, using the [Giftcard API](https://developers.vtex.com/docs/api-reference/giftcard-api).
 
-<div class="alert alert-warning"> 
-Gift cards created through customized or external apps will not appear in this data model.
-</div>
+> ⚠️ Gift cards created through customized or external apps will not appear in this data model.
 
 This section includes the following information:
 

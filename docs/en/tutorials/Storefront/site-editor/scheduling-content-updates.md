@@ -15,9 +15,7 @@ locale: en
 subcategoryId: 9Arh3cJIOYlfSD1MUC2h3
 ---
 
-<div class="alert alert-warning" role="alert">
-<p> The scheduled update can take up to 30 minutes to take effect and be shown on your page.</p>
-</div>
+> ⚠️  The scheduled update can take up to 30 minutes to take effect and be shown on your page.
 
 After [creating a new content version in Site Editor](https://help.vtex.com/en/tutorial/gerenciando-versoes-de-conteudo--4loXo98CZncY0NnjKrScbG?&utm_source=autocomplete), you can schedule it to be published on your store by using the **Visibility** feature.
 
@@ -45,8 +43,8 @@ If you do not select the options in the Visibility section,the new version will 
 6. After selecting when the content will be published, choose where  you want it to be applied:
 
 <ul>
-  <li><b>this URL:</b> the content will only be available  for one route of your choice.</li>
-  <li><b>this template:</b> the content will be available for all routes with the same template.</li>
+  <li>**this URL:** the content will only be available  for one route of your choice.</li>
+  <li>**this template:** the content will be available for all routes with the same template.</li>
 </ul>
 5. Once you have configured the Visibility section, click on `SAVE`.
 

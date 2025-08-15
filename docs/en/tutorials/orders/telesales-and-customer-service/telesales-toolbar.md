@@ -19,7 +19,7 @@ The telesales toolbar is displayed at the top of your store's website for users 
 
 Once the registered operator logs into the store environment, the toolbar will be displayed at the top of all sections of the website.
 
-![toolbartelevendas EN](//images.ctfassets.net/alneenqid6w5/5ed5A8G266JqwpCaYAyDdI/ab7894a0dc03568e5e1745a0adbec2f3/toolbartelevendas_EN.png)
+![toolbartelevendas EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/orders/telesales-and-customer-service/telesales-toolbar_1.png)
 
 See below the main features of the telesales toolbar:
 *   [Log in as customer](#log-in-as-customer)
@@ -29,10 +29,7 @@ To enable this toolbar, the store administrator must [assign the Call Center Ope
 
 To learn how to customize the toolbar in the **CMS** module, check out the article [Customizing the telesales toolbar](https://help.vtex.com/en/tutorial/customizar-a-toolbar-de-televendas--1XEz1zqO3KyIuwC4asUsOg).
 
-<div class="alert alert-warning">
-<p>For stores developed with <a href="https://developers.vtex.com/vtex-developer-docs/docs/what-is-vtex-io">VTEX IO</a>, you must configure the <strong>VTEX Telemarketing</strong> app to enable and customize the telesales toolbar. Learn more about this process in our <a href="https://developers.vtex.com/vtex-developer-docs/docs/vtex-telemarketing">VTEX Telemarketing</a> guide.
-</p>
-</div>
+> ⚠️ For stores developed with [VTEX IO](https://developers.vtex.com/vtex-developer-docs/docs/what-is-vtex-io), you must configure the **VTEX Telemarketing** app to enable and customize the telesales toolbar. Learn more about this process in our [VTEX Telemarketing](https://developers.vtex.com/vtex-developer-docs/docs/vtex-telemarketing) guide. 
 
 ## Log in as customer
 

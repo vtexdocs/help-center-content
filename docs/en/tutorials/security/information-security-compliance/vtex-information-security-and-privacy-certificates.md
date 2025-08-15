@@ -33,9 +33,7 @@ VTEX complies with the latest version of the certification, PCI-DSS v4.0. This c
 
 The certificate is available at the [VTEX Trust Center](https://compliance.vtex.com/).  
 
-<div class="alert alert-info">
-  <p>The PCI-DSS certificate indicates the issue date as the Assessment End Date. The Publication Date field refers to the date the PCI standard was officially published, not to the certificate's validity.</p>
-</div>
+> ℹ️ The PCI-DSS certificate indicates the issue date as the Assessment End Date. The Publication Date field refers to the date the PCI standard was officially published, not to the certificate's validity.
 
 ## SOC 1 Type 2 and SOC 2 Type 2
 

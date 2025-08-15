@@ -22,14 +22,7 @@ The simulator can also be used to validate the **[Shipping Strategy](https://hel
 * **Item Availability**: the simulator checks if the item is in stock and whether it is possible to ship it (checks if there are carriers for that region, for example). If one of the criteria is not met, the simulator assumes that the item is unavailable.
 * **White Label Sellers Availability:** the simulator selects the white label seller that is closest to the shipping address (the logistics settings are calculated in the _White Label Seller’s_ environment, not in the main account). 
 
-<div class="alert alert-warning"> 
-There may be a discrepancy between the final price indicated by the simulator and the actual price in your store since the simulation does not take into account the following:
-<ul>
-<li>Promotions applied to the items.
-<li>Shipping discounts configured through promotions.
-<li>The Total Delivery Time shown in the simulation results does not take into account the field <b>Expected Delivery Date (pre-sale)</b>  <a href="https://help.vtex.com/en/tutorial/campos-de-cadastro-de-sku--21DDItuEQc6mseiW8EakcY">in the item’s information in the system.</a>
-</ul>
-</div>
+> ⚠️ There may be a discrepancy between the final price indicated by the simulator and the actual price in your store since the simulation does not take into account the following: <ul> <li>Promotions applied to the items. <li>Shipping discounts configured through promotions. <li>The Total Delivery Time shown in the simulation results does not take into account the field **Expected Delivery Date (pre-sale)**  [in the item’s information in the system.](https://help.vtex.com/en/tutorial/campos-de-cadastro-de-sku--21DDItuEQc6mseiW8EakcY) </ul>
 
 ## Simulating the shipping
 
@@ -54,9 +47,7 @@ If you want, you can check the `Simulate items individually` box.
 
  10. Click on the `Shipping simulation` button.
 
-<div class = "alert alert-info">
-The items measurements in the simulation result appear in centimeters and grams; however, the actual values for the Checkout are the measurement units registered in the SKU and <a href="https://help.vtex.com/en/tutorial/campos-de-cadastro-de-produto--4dYXWIK3zyS8IceKkQseke">product registration fields</a>.
-</div>
+> ℹ️ The items measurements in the simulation result appear in centimeters and grams; however, the actual values for the Checkout are the measurement units registered in the SKU and [product registration fields](https://help.vtex.com/en/tutorial/campos-de-cadastro-de-produto--4dYXWIK3zyS8IceKkQseke).
 
 ## Simulation details
 
@@ -75,7 +66,7 @@ The shipping simulation shows all the shipping possibilities and availability fo
     <thead class="w-100 center mv7 bb b--gray" style="border-spacing: 0px; border-collapse: collapse;">
    <tr class="t-body fw5 c-muted-1 bb bw1 pa2 pb3 b--muted-3 tl">
             <th class="t-body fw5 c-muted-1 bb bw1 pa2 pb3 b--muted-3 tl">
-                <em class="i"><strong>Reason</strong></em>
+                <em class="i">**Reason**</em>
             </th>
             <th class="t-body fw5 c-muted-1 bb bw1 pa2 pb3 b--muted-3 tl">
                 <em class="i">Solution</em>
@@ -84,31 +75,31 @@ The shipping simulation shows all the shipping possibilities and availability fo
   <tr class="bb b--muted-3">
     <td class="t-body pa5" style="min-width: 15rem;">The total weight of the cart exceeds the carrier limit.
    </td>
-   <td class="t-body pa5" style="min-width: 15rem;">You can meet the limit by using cargo splitting. See cargo splitting for more information. Also, check if there are any errors in the <a href="https://help.vtex.com/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1wmX3QvQVxbKVmalhIE5Ru">product settings in the catalog</a>.
+   <td class="t-body pa5" style="min-width: 15rem;">You can meet the limit by using cargo splitting. See cargo splitting for more information. Also, check if there are any errors in the [product settings in the catalog](https://help.vtex.com/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1wmX3QvQVxbKVmalhIE5Ru).
    </td>
   </tr>
   <tr class="bb b--muted-3">
     <td class="t-body pa5" style="min-width: 15rem;">The weight or size of the item is not supported by the carrier.
    </td>
-   <td class="t-body pa5" style="min-width: 15rem;">Check the settings in the s <a href="https://help.vtex.com/en/tutorial/como-montar-a-planilha-de-frete--tutorials_127">hipping rate template</a> for the <b><i>WeightStart</b></i>,<b><i>WeightEnd</b></i>, and <b><i>MaxVolume</b></i> fields. Also, check if there are any errors in the <a href="https://help.vtex.com/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1wmX3QvQVxbKVmalhIE5Ru"> product settings in the catalog</a>.
+   <td class="t-body pa5" style="min-width: 15rem;">Check the settings in the s [hipping rate template](https://help.vtex.com/en/tutorial/como-montar-a-planilha-de-frete--tutorials_127) for the ***WeightStart***,***WeightEnd***, and ***MaxVolume*** fields. Also, check if there are any errors in the [ product settings in the catalog](https://help.vtex.com/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1wmX3QvQVxbKVmalhIE5Ru).
    </td>
   </tr>
   <tr class="bb b--muted-3">
     <td class="t-body pa5" style="min-width: 15rem;">The weight of the kit exceeds the weight accepted by the carrier. Note: items that make up a kit or promotion cannot be separated into different packages.
    </td>
-  <td class="t-body pa5" style="min-width: 15rem;">Check the settings in the shipping rate template for the <b><i>WeightStart</b></i> and <b><i>WeightEnd</b></i> fields. Also, check if there are any errors in the <a href="https://help.vtex.com/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1wmX3QvQVxbKVmalhIE5Ru"> product settings in the catalog</a>
+  <td class="t-body pa5" style="min-width: 15rem;">Check the settings in the shipping rate template for the ***WeightStart*** and ***WeightEnd*** fields. Also, check if there are any errors in the [ product settings in the catalog](https://help.vtex.com/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1wmX3QvQVxbKVmalhIE5Ru)
    </td>
   </tr>
   <tr class="bb b--muted-3">
     <td class="t-body pa5" style="min-width: 15rem;">Delivery scheduling options are not available.
    </td>
-   <td class="t-body pa5" style="min-width: 15rem;">Check the <a href="https://help.vtex.com/en/tutorial/entrega-agendada--22g3HAVCGLFiU7xugShOBi"> scheduled delivery</a>window settings and the hours of operation for the <a href="https://help.vtex.com/en/tutorial/politica-de-envio--tutorials_140">shipping policy</a>.The delivery windows may be blocked. Make sure that the correct windows are active.
+   <td class="t-body pa5" style="min-width: 15rem;">Check the [ scheduled delivery](https://help.vtex.com/en/tutorial/entrega-agendada--22g3HAVCGLFiU7xugShOBi)window settings and the hours of operation for the [shipping policy](https://help.vtex.com/en/tutorial/politica-de-envio--tutorials_140).The delivery windows may be blocked. Make sure that the correct windows are active.
    </td>
   </tr>
   <tr class="bb b--muted-3">
     <td class="t-body pa5" style="min-width: 15rem;">The carrier does not offer service in that zip code.
    </td>
-   <td class="t-body pa5" style="min-width: 15rem;">Check the settings in the <a href="https://help.vtex.com/en/tutorial/como-montar-a-planilha-de-frete--tutorials_127">shipping rate template</a> for the <b><i>ZipCodeStart</b></i> and <b><i>ZipCodeEnd</b></i> fields.You should also check the <a href="https://help.vtex.com/en/tutorial/editing-freight-values--tutorials_141">shipping rates</a> in the <b>Shipping</b> module.
+   <td class="t-body pa5" style="min-width: 15rem;">Check the settings in the [shipping rate template](https://help.vtex.com/en/tutorial/como-montar-a-planilha-de-frete--tutorials_127) for the ***ZipCodeStart*** and ***ZipCodeEnd*** fields.You should also check the [shipping rates](https://help.vtex.com/en/tutorial/editing-freight-values--tutorials_141) in the **Shipping** module.
    </td>
   </tr>
   <tr class="bb b--muted-3">
@@ -123,21 +114,21 @@ The shipping simulation shows all the shipping possibilities and availability fo
    </td>
   </tr>
   <tr class="bb b--muted-3">
-    <td class="t-body pa5" style="min-width: 15rem;">The carrier is <b>inactive</b>.
+    <td class="t-body pa5" style="min-width: 15rem;">The carrier is **inactive**.
    </td>
-   <td class="t-body pa5" style="min-width: 15rem;">Check the <a href="https://help.vtex.com/en/tutorial/politica-de-envio--tutorials_140">shipping policy</a> in the system to make sure the carrier is active.
+   <td class="t-body pa5" style="min-width: 15rem;">Check the [shipping policy](https://help.vtex.com/en/tutorial/politica-de-envio--tutorials_140) in the system to make sure the carrier is active.
    </td>
   </tr>
   <tr class="bb b--muted-3">
     <td class="t-body pa5" style="min-width: 15rem;">The price of the items does not meet carrier specifications.
    </td>
-   <td class="t-body pa5" style="min-width: 15rem;">Check the settings in the <a href="https://help.vtex.com/en/tutorial/politica-de-envio--tutorials_140">shipping policy</a> to see the price limit that is accepted.
+   <td class="t-body pa5" style="min-width: 15rem;">Check the settings in the [shipping policy](https://help.vtex.com/en/tutorial/politica-de-envio--tutorials_140) to see the price limit that is accepted.
    </td>
   </tr>
   <tr class="bb b--muted-3">
     <td class="t-body pa5" style="min-width: 15rem;">The carrier’s hours of operation do not meet the shipping schedule.
    </td>
-   <td class="t-body pa5" style="min-width: 15rem;">Check the hours of operation in the <a href="https://help.vtex.com/en/tutorial/politica-de-envio--tutorials_140">shipping policy</a>.
+   <td class="t-body pa5" style="min-width: 15rem;">Check the hours of operation in the [shipping policy](https://help.vtex.com/en/tutorial/politica-de-envio--tutorials_140).
  </td>
   </tr>
 </table>

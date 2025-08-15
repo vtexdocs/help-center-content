@@ -24,9 +24,7 @@ In this article, we explain how the specification inheritance works and how to c
 * [Specification inheritance](#specification-inheritance)
 * [Step-by-step instructions in the VTEX Admin](#step-by-step-instructions-in-the-vtex-admin)
 
-<div class = "alert alert-info">
-  <p>To create a specification group using the <strong>Catalog API</strong>, follow the <a href="https://developers.vtex.com/vtex-developer-docs/docs/how-to-create-a-specification">How to create a specification</a> developer's guide.</p>
-</div>
+> ℹ️ To create a specification group using the **Catalog API**, follow the [How to create a specification](https://developers.vtex.com/vtex-developer-docs/docs/how-to-create-a-specification) developer's guide.
 
 ## Specification inheritance
 

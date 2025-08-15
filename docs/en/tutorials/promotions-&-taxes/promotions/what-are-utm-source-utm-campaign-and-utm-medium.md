@@ -17,10 +17,7 @@ subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 
 UTMs (Urchin Tracking Modules) are URL parameters commonly used in marketing to track website traffic.
 
-<div class="alert alert-info">
-  UTM parameters aren't created or managed directly on the VTEX platform. They need to be added manually to the URLs of marketing campaigns. You should use external tools, like 
-  <a href="https://analytics.google.com/" target="_blank">Google Analytics</a>, to analyze the traffic data obtained from parameters.
-</div>
+> ℹ️ UTM parameters aren't created or managed directly on the VTEX platform. They need to be added manually to the URLs of marketing campaigns. You should use external tools, like [Google Analytics](https://analytics.google.com/), to analyze the traffic data obtained from parameters.
 
 For example, when you click on a Facebook ad, you'll be directed to a URL containing the parameter `utm_source=fb`.
 
@@ -33,14 +30,9 @@ You can use three types of UTM for traffic tracking:
 - **utm_medium:** Specifies the advertising medium, such as banner, CPC (cost per click), or newsletter.
 - **utm_campaign:** Defines the campaign name, indicating the marketing context, such as Christmas, release, or promotion.
 
-<div class="alert alert-info">
-  On the Order Management page, only the <code>utm_source</code> parameter is 
-  <a href="https://help.vtex.com/en/tutorial/como-filtrar-pedidos" target="_blank">available for filtering</a>.
-</div>
+> ℹ️ On the Order Management page, only the `utm_source` parameter is [available for filtering](https://help.vtex.com/en/tutorial/como-filtrar-pedidos).
 
-<div class="alert alert-danger">
-Don't use special characters in UTM values (example:`utm_source=#fb`). Only alphanumeric characters, hyphens, and underscores are supported.
-</div>
+> ❗ Don't use special characters in UTM values (example:`utm_source=#fb`). Only alphanumeric characters, hyphens, and underscores are supported.
 
 For more information about issues related to applying UTMs to carts, see [Why are the UTMs not being applied to the cart?](https://developers.vtex.com/vtex-rest-api/docs/check-marketing-utms-used-at-checkout#why-are-the-utms-not-being-applied-to-the-cart).
 

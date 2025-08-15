@@ -291,10 +291,6 @@ Receiving this payload, the integrator must use this information to decide which
 - If there has been a price or stock change, the integrator should call the `https://{accountName}.vtexcommercestable.com.br/api/fulfillment/pvt/orderForms/simulation?sc={salesChannel}&affiliateId={affiliateId}`, as described in the section [Obtain SKU price and inventory data](#3-obtain-sku-price-and-inventory-data).
 - If there has been a change in the SKU other than price or inventory, the integrator should call the `http://{{accountName}}.vtexcommercestable.com.br/api/catalog_system/pvt/sku/stockkeepingunitbyid/{{skuId}}`, as described in the section [Get the data about SKU properties](#2-get-the-data-about-sku-properties).
 
-<div class="alert alert-warning">
-If a new SKU is inserted into the catalog, it will be notified at the endpoint of each affiliate. Because it is a new SKU, it's necessary to fill in the data of this new SKU in the database of the external service. The integrator shall verify that the notified SKU does not yet exist in the external service database. If it's a new SKU, the integrator must follow the same steps described in the <strong>Perform the first load with SKU data</strong> section. If it's an existing SKU, the integrator must follow the steps in the section <strong>Update SKUs data</strong>
-</div>
+> ⚠️ If a new SKU is inserted into the catalog, it will be notified at the endpoint of each affiliate. Because it is a new SKU, it's necessary to fill in the data of this new SKU in the database of the external service. The integrator shall verify that the notified SKU does not yet exist in the external service database. If it's a new SKU, the integrator must follow the same steps described in the **Perform the first load with SKU data** section. If it's an existing SKU, the integrator must follow the steps in the section **Update SKUs data**
 
-<div class="alert alert-info">
-If you want to integrate the payment methods of a VTEX seller with an external marketplace, <a href = "https://developers.vtex.com/vtex-rest-api/docs/external-marketplace-integration-guide">go to our documentation</a>.
-</div>
+> ℹ️ If you want to integrate the payment methods of a VTEX seller with an external marketplace, <a href = "https://developers.vtex.com/vtex-rest-api/docs/external-marketplace-integration-guide">go to our documentation</a>.

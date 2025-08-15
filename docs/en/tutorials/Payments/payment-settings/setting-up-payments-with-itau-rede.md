@@ -32,51 +32,45 @@ The following actions are required depending on the payment method you want to o
    3. [Enable PIX on Rede](#enable-pix-on-rede)
    4. [Setting up the PIX payment condition](#setting-up-the-pix-payment-condition)  
 
-<div class="alert alert-warning">
-Configurations made in an environment external to VTEX may be discontinued or modified without prior notice. Check your Itaú Rede account for updated information.
-</div>
+> ⚠️ Configurations made in an environment external to VTEX may be discontinued or modified without prior notice. Check your Itaú Rede account for updated information.
 
 ## Obtain credentials in the Rede Portal
 
 To start the process of integrating your store into the Userede environment, send an email to ecommerce@userede.com.br requesting accreditation of Rede e-commerce solutions. The estimated turnaround time is up to 1 business day.
 
-<div class="alert alert-info">
-Once accreditation is completed, you will receive by email your membership number (PV) and access instructions to the Rede Portal.
-</div>
+> ℹ️ Once accreditation is completed, you will receive by email your membership number (PV) and access instructions to the Rede Portal.
 
 After receiving the access information, you or someone else with an administrator profile on your Rede account (__master user__) must generate the integration key according to the steps below:
 
-<blockquote><ui>1. Access the <a href="#https://meu.userede.com.br/login">Rede Portal</a> with your Itaú Rede account information.</ui>
+<blockquote><ui>1. Access the [Rede Portal](#https://meu.userede.com.br/login) with your Itaú Rede account information.</ui>
 
-<blockquote><ui>2. Select the account in which you want to transact payments at VTEX and click <b>Aplicar</b>. Save the account number, as it must be used in the <b>App key</b> field in the <a href="#setting-up-itau-rede-on-vtex">Setting up Itaú Rede on VTEX</a>.</ui> 
+<blockquote><ui>2. Select the account in which you want to transact payments at VTEX and click **Aplicar**. Save the account number, as it must be used in the **App key** field in the [Setting up Itaú Rede on VTEX](#setting-up-itau-rede-on-vtex).</ui> 
 
-![Itaú Rede_1_en](//images.ctfassets.net/alneenqid6w5/gooU2CGrEsArx16vHLBAw/0866dfa5c17c5b332bb105209751ee64/Ita__Rede_1.png)
+![Itaú Rede_1_en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/payment-settings/setting-up-payments-with-itau-rede_1.png)
 
-<blockquote><ui>3. After the screen updates to the desired account, in the <b>para vender</b> menu, select the <b>e-commerce</b> option.
+<blockquote><ui>3. After the screen updates to the desired account, in the **para vender** menu, select the **e-commerce** option.
 
-![Itaú Rede_2](//images.ctfassets.net/alneenqid6w5/3VB0bwzReQKt2zjXnLHltx/11bfb6b935d77828b0a243dc90ea55fd/Itau_Rede_2.PNG)
+![Itaú Rede_2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/payment-settings/setting-up-payments-with-itau-rede_2.PNG)
 
-<blockquote><ui>4. On the <b>e-commerce</b> page, click on the <b>chave de integração</b> card.
+<blockquote><ui>4. On the **e-commerce** page, click on the **chave de integração** card.
 
-![Itaú Rede_3](//images.ctfassets.net/alneenqid6w5/AxbQNB9snirJxN4zOV7qT/b8441d7cc910a99448ea9f4c9724612e/Itau_Rede_3.png)
+![Itaú Rede_3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/payment-settings/setting-up-payments-with-itau-rede_3.png)
 
-<blockquote><ui>5. After reading the "chave de integração" information, click <b>li, estou ciente</b>.
+<blockquote><ui>5. After reading the "chave de integração" information, click **li, estou ciente**.
 
-![Itaú Rede_4](//images.ctfassets.net/alneenqid6w5/BU5ydvg5BxaY9KRPHevzv/73a8d3ed6e2bf9e9625b69430f8ae2d6/Itau_Rede_4.png)
+![Itaú Rede_4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/payment-settings/setting-up-payments-with-itau-rede_4.png)
 
-<blockquote><ui>6. Click the <b>gerar nova chave</b> button.
+<blockquote><ui>6. Click the **gerar nova chave** button.
 
-![Itaú Rede_5](//images.ctfassets.net/alneenqid6w5/kZGFItLuWLgm6lc9Twrhb/266384a3037afaeed2b8b04a5efb9a87/Itau_Rede_5.png)
+![Itaú Rede_5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/payment-settings/setting-up-payments-with-itau-rede_5.png)
 
-<blockquote><ui>7. Check the information described in the <b>gerar nova chave de integração</b> window and click <b>gerar nova chave</b>.
+<blockquote><ui>7. Check the information described in the **gerar nova chave de integração** window and click **gerar nova chave**.
 
-![Itaú Rede_6](//images.ctfassets.net/alneenqid6w5/diZYL8GRAhwcL5sX7IQtn/24789d56142d14bc756ecd8c02616135/Itau_Rede_6.png)
+![Itaú Rede_6](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/payment-settings/setting-up-payments-with-itau-rede_6.png)
 
-<blockquote><ui>8. After creating the new key, click <b>copiar</b> and preserve the information in a safe location. This key must be used in the <b>Token de aplicação</b> field in the section <a href="#setting-up-itau-rede-on-vtex">Setting up Itaú Rede on VTEX</a>.
+<blockquote><ui>8. After creating the new key, click **copiar** and preserve the information in a safe location. This key must be used in the **Token de aplicação** field in the section [Setting up Itaú Rede on VTEX](#setting-up-itau-rede-on-vtex).
 
-<blockquote><ui><div class="alert alert-warning">
-If you lose access to the integration key information, you will need to repeat the previous steps to generate a new key. After obtaining the new key for the same membership number (PV), it will also be necessary to update the information in all integrations associated with the PV. Integrations that are not updated with the new key may have an impact on operations.
-  </div></ui></blockquote>
+<blockquote><ui>> ⚠️ If you lose access to the integration key information, you will need to repeat the previous steps to generate a new key. After obtaining the new key for the same membership number (PV), it will also be necessary to update the information in all integrations associated with the PV. Integrations that are not updated with the new key may have an impact on operations.</ui></blockquote>
 
 ## Setting up Itaú Rede on VTEX
 
@@ -92,21 +86,19 @@ To configure Itaú Rede, follow the steps below:
 <br>
 <ul>
 <br>
-    	<li><b>Use behavior recommended by the payment processor</b>: Capture is not automatic; it is scheduled according to the period specified by the acquirer. The acquirer indicates whether the payment has been authorized and can determine or recommend a number of days for the capture upon payment authorization. (This is the platform's default behavior).</li>
-    	<li><b>Automatic capture immediately after payment authorization</b>: Capture is automatically performed right after payment authorization, even if the transaction includes an anti-fraud analysis.</li>
-   		<li><b>Automatic capture immediately after anti-fraud analysis</b>: Capture is automatically performed right after payment authorization and anti-fraud analysis. If you select this behavior and do not have anti-fraud analysis, the system will perform the payment capture as in "Automatic capture immediately after payment authorization".</li>     
-   		<li><b>Disabled</b>: Capture takes place only when the order is invoiced. If you select this behavior, it is important to pay attention to the invoicing time, as invoicing can exceed the capture time agreed with the payment provider and lead to the cancellation of the transaction.</li>
+    	<li>**Use behavior recommended by the payment processor**: Capture is not automatic; it is scheduled according to the period specified by the acquirer. The acquirer indicates whether the payment has been authorized and can determine or recommend a number of days for the capture upon payment authorization. (This is the platform's default behavior).</li>
+    	<li>**Automatic capture immediately after payment authorization**: Capture is automatically performed right after payment authorization, even if the transaction includes an anti-fraud analysis.</li>
+   		<li>**Automatic capture immediately after anti-fraud analysis**: Capture is automatically performed right after payment authorization and anti-fraud analysis. If you select this behavior and do not have anti-fraud analysis, the system will perform the payment capture as in "Automatic capture immediately after payment authorization".</li>     
+   		<li>**Disabled**: Capture takes place only when the order is invoiced. If you select this behavior, it is important to pay attention to the invoicing time, as invoicing can exceed the capture time agreed with the payment provider and lead to the cancellation of the transaction.</li>
 </ul>
 
-<blockquote><ui>8. In <b>merchantName</b>, enter the name of your store.</ui>
+<blockquote><ui>8. In **merchantName**, enter the name of your store.</ui>
 
-<blockquote><ui>9. In <b>SoftDescriptor</b>, describe the identification message to be displayed on your customer's card statement. You must use the same information registered in Soft Descriptor on the Rede Portal.</ui>
+<blockquote><ui>9. In **SoftDescriptor**, describe the identification message to be displayed on your customer's card statement. You must use the same information registered in Soft Descriptor on the Rede Portal.</ui>
 
-<blockquote><div class="alert alert-info">
-  If you have not yet enabled <b>Soft Descriptor</b>, access the Rede Portal to enable it or if you prefer not to use this functionality, just do not fill in this field.
-  </div>  
+<blockquote>> ℹ️ If you have not yet enabled **Soft Descriptor**, access the Rede Portal to enable it or if you prefer not to use this functionality, just do not fill in this field.  
 
-<blockquote><ui>10. In the <b>delayToAutoSettle</b> field, enter the period for the order to be settled. Remember that the value of this field must be in accordance with the rule determined in the <b>Automatic settlement</b> field.</ui>
+<blockquote><ui>10. In the **delayToAutoSettle** field, enter the period for the order to be settled. Remember that the value of this field must be in accordance with the rule determined in the **Automatic settlement** field.</ui>
 
 <blockquote><ui>11. Click `Save`.</ui></blockquote>
 
@@ -131,29 +123,27 @@ Before carrying out the steps below, make sure that you have already [obtained c
 
 ### Enable PIX on Rede
 
-<div class="alert alert-info">
-  Only users with an administrator profile (<b>master user</b>) can enable Pix on Rede.
-  </div>
+> ℹ️ Only users with an administrator profile (**master user**) can enable Pix on Rede.
 
 To enable the Pix key, access the Rede Portal and follow the steps:
 
-<blockquote><ui>1. Access the <a href="#https://meu.userede.com.br/login">Rede Portal</a> with your Itaú Rede account information.</ui>
+<blockquote><ui>1. Access the [Rede Portal](#https://meu.userede.com.br/login) with your Itaú Rede account information.</ui>
 
-<blockquote><ui>2. Select the account in which you want to transact payments at VTEX and click <b>Aplicar</b>.</ui> 
+<blockquote><ui>2. Select the account in which you want to transact payments at VTEX and click **Aplicar**.</ui> 
 
-![Itaú Rede_1_en](//images.ctfassets.net/alneenqid6w5/gooU2CGrEsArx16vHLBAw/0866dfa5c17c5b332bb105209751ee64/Ita__Rede_1.png)
+![Itaú Rede_1_en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/payment-settings/setting-up-payments-with-itau-rede_7.png)
 
-<blockquote><ui>3. After the screen updates to the desired account, in the <b>para vender</b> menu, select the <b>pix</b> option.
+<blockquote><ui>3. After the screen updates to the desired account, in the **para vender** menu, select the **pix** option.
 
-![Itaú Rede_7_en](//images.ctfassets.net/alneenqid6w5/4eoo6CA1ZIZNQ1RBEv4yUm/27086c7dfd0fffae30eaac6ef3ec572f/Ita__Rede_7.png)
+![Itaú Rede_7_en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/payment-settings/setting-up-payments-with-itau-rede_8.png)
 
-<blockquote><ui>4. Click <b>Habilitar Pix na Rede</b>.</ui>  
+<blockquote><ui>4. Click **Habilitar Pix na Rede**.</ui>  
 
-![Itaú Rede_8_en](//images.ctfassets.net/alneenqid6w5/5eczd25Lmic550HChvQ8WG/8cfb2bd6e86bed0a32962ff68f81b8af/Ita__Rede_8.png)
+![Itaú Rede_8_en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/payment-settings/setting-up-payments-with-itau-rede_9.png)
 
-<blockquote><ui>5. Select the Itaú account where you want to receive your sales with Pix and click<b>Escolher conta</b>.</ui></blockquote>    
+<blockquote><ui>5. Select the Itaú account where you want to receive your sales with Pix and click**Escolher conta**.</ui></blockquote>    
 
-![Itaú Rede_9_en](//images.ctfassets.net/alneenqid6w5/1FqQQFuB8M6iGaTXJDo0CT/33233854bce472cb964ace928b34bb8a/Ita__Rede_9.png)
+![Itaú Rede_9_en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/payment-settings/setting-up-payments-with-itau-rede_10.png)
 
 ### Setting up the PIX payment condition
 

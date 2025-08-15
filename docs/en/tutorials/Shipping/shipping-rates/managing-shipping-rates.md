@@ -22,9 +22,7 @@ Your store's [shipping rates](https://help.vtex.com/en/tutorial/tarifas-de-envio
 * [Edit shipping rates](#editing-shipping-rates).
 * [Delete shipping rates](#deleting-shipping-rates).
 
-<div class="alert alert-info">
-If you need to update or add multiple shipping rates, we recommend using the shipping rate template instead of the <b>Shipping rates</b> module. If you want to check out how shipping rates are added and displayed to the end customer, use the <a href="https://help.vtex.com/en/tutorial/simulacao-de-frete--tutorials_144">Shipping simulator</a> module.
-</div>
+> ℹ️ If you need to update or add multiple shipping rates, we recommend using the shipping rate template instead of the **Shipping rates** module. If you want to check out how shipping rates are added and displayed to the end customer, use the [Shipping simulator](https://help.vtex.com/en/tutorial/simulacao-de-frete--tutorials_144) module.
 
 ## Adding shipping rates
 
@@ -38,8 +36,8 @@ To add a new shipping rate, follow the steps below:
     * **Postal code range: **the postal code interval to which the new rate will apply. This field must be filled in only with numbers and/or letters.
     * **Weight range**: minimum and maximum shipment weight limits accepted by the carrier (considering the shipping rate and postal code specified). This field must be filled in with a decimal number. The weight unit (grams, kilograms, etc.) must be the same used when adding items (SKUs) to the catalog. 
     * **Shipping rate**: flat rate charged for making the delivery (considering the postal code and weight specified). This field must be filled in with a decimal number.
-    * **Additional value**: the product’s percentage value that will be added to the shipping rate. For example, if the product costs US$ 80.00 and the additional value is 1 then an amount of US$ 0.80 will be added to the final shipping rate.<p>The percentage refers to the product’s total cost (the product price without discounts). This field must be filled in with a decimal number.For example, to add a percentage of 
-23%, you can fill in the field with `23` or `23,00`.</p>
+    * **Additional value**: the product’s percentage value that will be added to the shipping rate. For example, if the product costs US$ 80.00 and the additional value is 1 then an amount of US$ 0.80 will be added to the final shipping rate.The percentage refers to the product’s total cost (the product price without discounts). This field must be filled in with a decimal number.For example, to add a percentage of 
+23%, you can fill in the field with `23` or `23,00`.
     * **Additional value per weight**: additional value for each unit that exceeds the minimum weight limit. This field must be filled in with a decimal number.
     * **Max. cubic volume:** the maximum volume accepted by the carrier. This field must be filled in with a decimal number.
     * **Delivery time**: the maximum number of days for the carrier to make the delivery. This field must be filled in with a natural number.

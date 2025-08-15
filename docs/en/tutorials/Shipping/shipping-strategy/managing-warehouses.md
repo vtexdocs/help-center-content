@@ -17,9 +17,7 @@ subcategoryId: 7fTH6bP0C4IaM8qWi0kkQC
 
 Warehouses are physical storage facilities for the ecommerce business. On the VTEX platform, you can add items to the warehouses you have configured in your store. Then you will be able to track items, their availability and manage their shipping through [loading docks](https://help.vtex.com/en/tutorial/gerenciar-doca--7K3FultD8I2cuuA6iyGEiW) and [shipping policies](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140). 
 
-<div class="alert alert-info">
-To better understand how the VTEX platform interprets and defines warehouse operations, check out our article <a href="https://help.vtex.com/en/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb">Warehouse</a>.
-</div>
+> ℹ️ To better understand how the VTEX platform interprets and defines warehouse operations, check out our article [Warehouse](https://help.vtex.com/en/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb).
 
 In addition, you can add warehouses, the loading docks where products will be sent to, the processing time for transporting products from a warehouse to a loading dock, and the amount charged for handling them.
 
@@ -30,16 +28,7 @@ This article describes how to:
 * [Edit a warehouse](https://help.vtex.com/en/tutorial/managing-warehouses--tutorials_137#editing-a-warehouse).  
 * [Delete a warehouse](https://help.vtex.com/en/tutorial/managing-warehouses--tutorials_137#editing-a-warehouse).
 
-<div class="alert alert-warning">
-For the logistics system to work as expected, we suggest that you configure it in the following order:
-<body>
-<ol>
-<li><a href="https://help.vtex.com/en/tutorial/politica-de-envio--tutorials_140">Shipping policy</a></li>
-  <li><a href="https://help.vtex.com/pt/tutorial/gerenciar-doca--7K3FultD8I2cuuA6iyGEiW">Loading dock</a></li>
-<li><a href="https://help.vtex.com/en/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb">Warehouse</a></li>
-</ol>
-</body>
-</div>
+> ⚠️ For the logistics system to work as expected, we suggest that you configure it in the following order: <body> <ol> <li>[Shipping policy](https://help.vtex.com/en/tutorial/politica-de-envio--tutorials_140)</li> <li>[Loading dock](https://help.vtex.com/pt/tutorial/gerenciar-doca--7K3FultD8I2cuuA6iyGEiW)</li> <li>[Warehouse](https://help.vtex.com/en/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb)</li> </ol> </body>
 
 ## Adding a warehouse
 
@@ -81,6 +70,4 @@ For the logistics system to work as expected, we suggest that you configure it i
 3. On the card of the warehouse you want to delete, select <i class="fas fa-ellipsis-v"></i>.
 4. Click on `Delete`.
 
-<div class="alert alert-warning">
-To add items to a warehouse, first, they must be listed in your catalog. Once you have listed them in your <a href="https://help.vtex.com/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/7kz4uWVq6NoaOdUpiJv4PR">catalog</a> and added a warehouse, you must associate items with the warehouse on the <a href="https://help.vtex.com/en/tutorial/gerenciar-itens-em-estoque--tutorials_139">Inventory management page</a>. 
-</div>
+> ⚠️ To add items to a warehouse, first, they must be listed in your catalog. Once you have listed them in your [catalog](https://help.vtex.com/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/7kz4uWVq6NoaOdUpiJv4PR) and added a warehouse, you must associate items with the warehouse on the [Inventory management page](https://help.vtex.com/en/tutorial/gerenciar-itens-em-estoque--tutorials_139).

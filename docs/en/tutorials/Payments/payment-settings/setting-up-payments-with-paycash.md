@@ -31,9 +31,9 @@ To configure Paycash, follow the steps below:
     - __Scheduled: Schedules The Automatic Settlement__: By selecting this option, the field __Scheduled time frame in hours for automatic settlement__ will be displayed, and it must be completed with the period in which the automatic capture will take place. This period must be in accordance with the limits allowed by the payment provider.
     - __Deactivated: Not Automatically Captured__: capture takes place only when the order is invoiced. If you select this behavior, it is important to pay attention to the invoicing time, as invoicing can exceed the capture time agreed with the payment provider and lead to the cancellation of the transaction.
 
-<ui>  6. If an alert message appears indicating the need to install the app, click on the <b>Install app</b> button and follow the installation instructions.</ui>
+<ui>  6. If an alert message appears indicating the need to install the app, click on the **Install app** button and follow the installation instructions.</ui>
 
-<ui>  7. Click on <b>Save.</b></ui>
+<ui>  7. Click on **Save.**</ui>
 
 ## Setting up payment condition 
 

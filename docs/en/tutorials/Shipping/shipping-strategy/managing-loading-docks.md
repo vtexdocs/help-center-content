@@ -17,9 +17,7 @@ subcategoryId: 7fTH6bP0C4IaM8qWi0kkQC
 
 Loading docks are one of the logistical stages of your store. A loading dock represents an intermediate point between the warehouse and the carrier. It is the location where products will be shipped from. Loading docks receive items coming from warehouses or distribution centers and deliver them to carriers, which will deliver them to the final recipient. 
 
-<div class="alert alert-info">
-To learn more about loading docks in the VTEX system, see <a href="https://help.vtex.com/en/tutorial/loading-dock--5DY8xHEjOLYDVL41Urd5qj">Loading docks</a>.
-</div>
+> ℹ️ To learn more about loading docks in the VTEX system, see [Loading docks](https://help.vtex.com/en/tutorial/loading-dock--5DY8xHEjOLYDVL41Urd5qj).
 
 This article describes how to:
 
@@ -30,10 +28,7 @@ This article describes how to:
 
 To configure a loading dock correctly, you need to: create the loading dock, fill in the fields for adding it (which include working hours and priority), and associate the loading dock with a [trade policy](https://help.vtex.com/en/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE), a warehouse, and a [shipping policy](https://help.vtex.com/en/tutorial/politica-de-envio--tutorials_140?&utm_source=autocomplete). 
 
-<div class="alert alert-warning">
-For the logistics system to work as expected, we suggest that you configure it in the following order:
-<p><ul><li><a href="https://help.vtex.com/en/tutorial/politica-de-envio--tutorials_140">Shipping policy</a></li><li><a href="https://help.vtex.com/en/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj">Loading dock</a></li><li><a href="https://help.vtex.com/en/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb">Warehouse</a></li></ul></p>  
-</div>
+> ⚠️ For the logistics system to work as expected, we suggest that you configure it in the following order: <ul><li>[Shipping policy](https://help.vtex.com/en/tutorial/politica-de-envio--tutorials_140)</li><li>[Loading dock](https://help.vtex.com/en/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj)</li><li>[Warehouse](https://help.vtex.com/en/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb)</li></ul>
 
 ## Adding a loading dock
 

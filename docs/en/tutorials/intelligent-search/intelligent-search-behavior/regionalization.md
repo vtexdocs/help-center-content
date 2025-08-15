@@ -32,9 +32,7 @@ To start using the Regionalization feature, you must follow the steps described 
 2. [Request to activate the Regionalization feature](#2-request-to-activate-the-regionalization-feature)
 3. [Configuration in VTEX IO](#3-configuration-in-vtex-io)
 
-<div class="alert alert-warning">
-  <p>While regionalized stores display only products available in a certain region on the product list page, filters do not take regionalization into account. This means that store customers may select filter values that result in products not being available in their region.</p>
-</div>
+> ⚠️ While regionalized stores display only products available in a certain region on the product list page, filters do not take regionalization into account. This means that store customers may select filter values that result in products not being available in their region.
 
 ## 1. Seller configuration
 

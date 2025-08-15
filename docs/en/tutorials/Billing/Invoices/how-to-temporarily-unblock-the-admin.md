@@ -28,7 +28,5 @@ To perform this procedure, you must have one of the following permissions:
 2. Click **See how to temporarily unblock.**
 3. Click **Unblock for 48 hours.**
 
-<div class = "alert alert-info">
-The unblock is temporary and valid for 48 business hours. Use this time to settle your invoices and avoid further blocks.
-</div>
+> ℹ️ The unblock is temporary and valid for 48 business hours. Use this time to settle your invoices and avoid further blocks.
 

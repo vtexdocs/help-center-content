@@ -19,21 +19,7 @@ You can limit access to a store for a number of different reasons, such as when 
 
 This can be achieved by using Master Data v1 and the store’s sales policy.
 
-<div class="alert alert-warning">
-This article describes how Master Data v1 works. It is important that you evaluate which Master Data version meets the needs of your operation or is already in use.
- <ul>
-<li>
-<a href="https://help.vtex.com/tutorial/master-data--4otjBnR27u4WUIciQsmkAw#versions-available">
-Master Data version characteristics
- </a>
-</li>
-<li>
-<a href="https://developers.vtex.com/vtex-rest-api/docs/getting-started-1">
-Master Data v2
-</a>
-</li>
-</ul>
-</div>
+> ⚠️ This article describes how Master Data v1 works. It is important that you evaluate which Master Data version meets the needs of your operation or is already in use. <ul> <li> [ Master Data version characteristics ](https://help.vtex.com/tutorial/master-data--4otjBnR27u4WUIciQsmkAw#versions-available) </li> <li> [ Master Data v2 ](https://developers.vtex.com/vtex-rest-api/docs/getting-started-1) </li> </ul>
 
 ## Creating a cluster of customers
 
@@ -48,7 +34,7 @@ After creating a cluster, you must include a rule in the trade policy allowing a
 3. In the **Conditional Rule** field, enter the value **ClusterName=”true”**. Note that the value **ClusterName** must be changed to the name of the field in the data entity.
 4. Click on the **Save** button.
 
-![Catalog EN](//images.ctfassets.net/alneenqid6w5/7r2ANIP2U6JDt1B0dxGmF6/8d11cabbb359f20a73667b2a787e1ee4/politicas_comerciais_EN.png)
+![Catalog EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/master-data/customer-relations-management/limiting-access-to-the-store-by-means-of-the-trade-policy_1.png)
 
 In the above configuration, only customers with the value “true” (using a Boolean field – where values are either true or false) can access the site.
 

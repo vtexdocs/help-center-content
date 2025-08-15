@@ -24,28 +24,28 @@ To add a new cost center, follow these steps:
 
 <ol>
   <li>Click the organization name.</li>
-  <li>Click the <strong>Cost Centers</strong> tab.</li>
-  <li>Click <code>New</code>.</li>
+  <li>Click the **Cost Centers** tab.</li>
+  <li>Click `New`.</li>
   <li>
     Complete the necessary fields about the cost center based on the information below:
     <ul>
-      <li><strong>Cost center name</strong>: Name of the cost center associated with the organization.</li>
-      <li><strong>Phone number</strong>: Phone number for contacting the organization.</li>
-      <li><strong>Business document</strong>: Company registration number, tax identification number, VAT number, or other document.</li>
-      <li><strong>State registration</strong>: Company state registration number.</li>
-      <li><strong>Country</strong>: Country where the cost center is located.</li>
-      <li><strong>Postal code</strong>: Postal code of the cost center's address.</li>
-      <li><strong>Street</strong>: Name of the street where the cost center is located.</li>
-      <li><strong>Number</strong>: Number of the address where the cost center is located.</li>
-      <li><strong>Additional information</strong>: Extra details about the cost center's address.</li>
-      <li><strong>Neighborhood</strong>: Name of the neighborhood where the cost center is located.</li>
-      <li><strong>City</strong>: City where the cost center is located. This field is populated automatically based on the postal code entered.</li>
-      <li><strong>State</strong>: State where the cost center is located. This field is populated automatically based on the postal code entered.</li>
-      <li><strong>Recipient</strong>: Name of the person who will receive the orders at the address provided.</li>
+      <li>**Cost center name**: Name of the cost center associated with the organization.</li>
+      <li>**Phone number**: Phone number for contacting the organization.</li>
+      <li>**Business document**: Company registration number, tax identification number, VAT number, or other document.</li>
+      <li>**State registration**: Company state registration number.</li>
+      <li>**Country**: Country where the cost center is located.</li>
+      <li>**Postal code**: Postal code of the cost center's address.</li>
+      <li>**Street**: Name of the street where the cost center is located.</li>
+      <li>**Number**: Number of the address where the cost center is located.</li>
+      <li>**Additional information**: Extra details about the cost center's address.</li>
+      <li>**Neighborhood**: Name of the neighborhood where the cost center is located.</li>
+      <li>**City**: City where the cost center is located. This field is populated automatically based on the postal code entered.</li>
+      <li>**State**: State where the cost center is located. This field is populated automatically based on the postal code entered.</li>
+      <li>**Recipient**: Name of the person who will receive the orders at the address provided.</li>
     </ul>
   </li>
-  <li>Click the <code>Add</code> button.</li>
-  <li>Click <code>Save</code> at the top right of the page after making any changes.</li>
+  <li>Click the `Add` button.</li>
+  <li>Click `Save` at the top right of the page after making any changes.</li>
 </ol>
 
 ## Cost center details
@@ -78,22 +78,22 @@ To edit or delete an existing address, click<i class="fas fa-ellipsis-v" aria-hi
 If you want to add a new delivery address associated with this cost center, follow these instructions:
 
 <ol>
-  <li>Click the <code>Add New Address</code> button.</li>
+  <li>Click the `Add New Address` button.</li>
   <li>
     Complete the address details:
     <ul>
-      <li><strong>Country</strong>: Country where the cost center is located.</li>
-      <li><strong>Postal code</strong>: Postal code of the cost center's address.</li>
-      <li><strong>Street</strong>: Name of the street where the cost center is located.</li>
-      <li><strong>Additional information</strong>: Extra details about the cost center's address.</li>
-      <li><strong>City</strong>: City where the cost center is located. This field is populated automatically based on the postal code entered.</li>
-      <li><strong>State</strong>: State where the cost center is located. This field is populated automatically based on the postal code entered.</li>
-      <li><strong>Recipient</strong>: Name of the person who will receive the orders at the address provided.</li>
+      <li>**Country**: Country where the cost center is located.</li>
+      <li>**Postal code**: Postal code of the cost center's address.</li>
+      <li>**Street**: Name of the street where the cost center is located.</li>
+      <li>**Additional information**: Extra details about the cost center's address.</li>
+      <li>**City**: City where the cost center is located. This field is populated automatically based on the postal code entered.</li>
+      <li>**State**: State where the cost center is located. This field is populated automatically based on the postal code entered.</li>
+      <li>**Recipient**: Name of the person who will receive the orders at the address provided.</li>
     </ul>
   </li>
-  <li>Click the <code>Add</code> button.</li>
-  <li>Click <code>Save</code> at the top right of the page after making any changes.</li>
-  <li>Click <code>Delete</code> to remove the cost center.</li>
+  <li>Click the `Add` button.</li>
+  <li>Click `Save` at the top right of the page after making any changes.</li>
+  <li>Click `Delete` to remove the cost center.</li>
 </ol>
 
 #### Custom fields

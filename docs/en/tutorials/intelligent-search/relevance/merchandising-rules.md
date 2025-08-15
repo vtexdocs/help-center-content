@@ -51,9 +51,7 @@ Consider the following recommendations for using merchandising rules in your sto
 * If too many merchandising rules are created, then the organic search will probably be greatly affected.
 * Be careful when using global [trigger rules](https://help.vtex.com/en/tutorial/creating-merchandising-rules-manual-editor--3jrXB1MSvi14ezvKancorc#activation-rules), as they impact all searches.
 
-<div class="alert alert-warning">
-  <p>If the search results are not correct, we recommend not creating merchandising rules to fix them, as this could indicate some other configuration problem. In this case, please contact our<a href="https://support.vtex.com/hc/en-us/requests"> Support</a>.</p>
-</div>
+> ⚠️ If the search results are not correct, we recommend not creating merchandising rules to fix them, as this could indicate some other configuration problem. In this case, please contact our[ Support](https://support.vtex.com/hc/en-us/requests).
 
 ## Learn more
 

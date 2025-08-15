@@ -19,9 +19,7 @@ A surcharge is the opposite of a promotion, that is, it is an additional percent
 
 The surcharge is applied in accordance with the registration done on the seller. So if your store’s shopping cart has another seller’s product, the surcharge to be applied to that product will be the one registered on the admin of the seller that owns the product. Surcharges registered in the Pricing module will not be taken into account, even if this surcharge is associated with this product.
 
-<div class = "alert alert-info">
-Seller Portal accounts don’t have access to the Tax creation module. However, when creating a tax in VTEX Admin, if you want the tax to apply in the seller context, select the appropriate trade policy during configuration.
-</div>
+> ℹ️ Seller Portal accounts don’t have access to the Tax creation module. However, when creating a tax in VTEX Admin, if you want the tax to apply in the seller context, select the appropriate trade policy during configuration.
 
 ## How to create them
 
@@ -62,4 +60,4 @@ Seller Portal accounts don’t have access to the Tax creation module. However, 
 
 Scheduling of a surcharge occurs when it is created with an expiration date and time, beginning after the current one. Visually, it is possible to identify these surcharges on the home page of the Promotions & Taxes module by an orange strip in the upper right-hand corner of the surcharge card with the word ‘scheduled’. See below an example of how the surcharge card looks when scheduled.
 
-![agendamento.en](//images.ctfassets.net/alneenqid6w5/6XrW3s1vW86EPSvcMufVcg/3b64aad76af6a36adc278405163fc7aa/agendamento.en.png)
+![agendamento.en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-&-taxes/taxes/creating-surchargestaxes_1.png)

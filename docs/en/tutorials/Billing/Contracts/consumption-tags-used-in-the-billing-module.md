@@ -21,9 +21,7 @@ Consumption tags are categories that define the characteristics of an order and 
 
 This article presents the existing tags in the billing module. By providing this content, we aim to increase transparency in your commercial relationship with VTEX.
 
-<div class="alert alert-warning">
-The order tagging system does not charge your store's customers in any way. It serves only as a data source that the billing module uses to calculate the invoice.
-</div>
+> ⚠️ The order tagging system does not charge your store's customers in any way. It serves only as a data source that the billing module uses to calculate the invoice.
 
 ## First steps for assigning consumption tags
 
@@ -32,17 +30,13 @@ For an order to be tagged, it must meet the following conditions:
 * Have all [order details](https://help.vtex.com/en/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa) ([incomplete](https://help.vtex.com/en/tutorial/entendendo-os-pedidos-incompletos--tutorials_294) orders do not receive tags).
 * Have payment information, including the authorization date of the financial transaction.
 
-<div class = "alert alert-info">
-Orders placed through <a href="https://help.vtex.com/en/tutorial/multilevel-omnichannel-inventory--7M1xyCZWUyCB7PcjNtOyw4">Multilevel Omnichannel Inventory (MOI)</a>, known as chain orders, do not include payment information. Therefore, they cannot be tagged or charged.
-</div>
+> ℹ️ Orders placed through [Multilevel Omnichannel Inventory (MOI)](https://help.vtex.com/en/tutorial/multilevel-omnichannel-inventory--7M1xyCZWUyCB7PcjNtOyw4), known as chain orders, do not include payment information. Therefore, they cannot be tagged or charged.
 
 ## Changing orders and tags
 
 The order is only tagged once it is completed. However, if the order is [changed](https://help.vtex.com/en/tutorial/como-alterar-pedidos-beta--7btlG91rb6sHpW1dkd2kBw#status-of-the-order-to-be-changed), it is tagged again, as the change may impact the conditions affecting the take rate to be charged.
 
-<div class="alert alert-danger">
-You can change an order multiple times, which may result in updates to the tags applied by the billing module. While the order is in the <code>Awaiting fulfillment</code> status, this process of changes and tag updates can continue.
-</div>
+> ❗ You can change an order multiple times, which may result in updates to the tags applied by the billing module. While the order is in the `Awaiting fulfillment` status, this process of changes and tag updates can continue.
 
 ## Tagging groups
 
@@ -63,27 +57,21 @@ Below are the tags related to the channel through which the order is placed:
 * **IsSalesAppDeliveredByMainAccount:** For orders placed through [VTEX Sales App](https://help.vtex.com/en/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc); used when the item sold belongs to the [main account](https://help.vtex.com/en/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#vtex-account-types) and the sale is made within the main account environment.
 * **IsSocialSelling:** For orders placed through [Social Selling](https://help.vtex.com/en/tutorial/como-usar-o-app-carrinho-compartilhavel--3ePPpkmeZ96GXbeIoGZbTN).
 
-  <div class = "alert alert-info">
-The <code>IsSocialSelling</code> tag is only valid for <a href="https://help.vtex.com/en/tutorial/como-usar-o-app-carrinho-compartilhavel--3ePPpkmeZ96GXbeIoGZbTN">Social Selling</a> orders placed through <b>VTEX Sales App</b>.
-</div>
+  > ℹ️ The `IsSocialSelling` tag is only valid for [Social Selling](https://help.vtex.com/en/tutorial/como-usar-o-app-carrinho-compartilhavel--3ePPpkmeZ96GXbeIoGZbTN) orders placed through **VTEX Sales App**.
 
 * **IsCallCenter:** For orders placed through **VTEX Sales App**; used when the sale was promoted by a sales associate, attendant, or consultant, as in [telesales](https://help.vtex.com/en/tutorial/como-configurar-as-funcionalidades-de-televendas--76FNgQP2Glc4umMJ5Yr50R).
 * **IsOnHands:** For orders placed through **VTEX Sales App**; used when the order was placed in the physical store and the inventory item was stored locally. This tag is applied in the marketplace environment.
 * **IsOnHandsFulfillment:** For orders placed through **VTEX Sales App**; used when the item sold belongs to the seller. This tag is applied in the seller environment.
 
-<div class = "alert alert-info">
-When the store acts as both a marketplace and a seller, the order is tagged as <code>IsOnHandsFulfillment</code>.
-</div>
+> ℹ️ When the store acts as both a marketplace and a seller, the order is tagged as `IsOnHandsFulfillment`.
 
 ## Tags by order origin
 
 The image below shows how the order is tagged based on its origin, both for the marketplace and the seller:
 
-![marcacao_pedidos_EN](//images.ctfassets.net/alneenqid6w5/3q4rRQ1ATOB7vJGm2AfwNL/98b2b9314b3be0ce4f5bb74b9caf9157/marcacao_pedidos_EN.png)
+![marcacao_pedidos_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Billing/Contracts/consumption-tags-used-in-the-billing-module_1.png)
 
-<div class="alert alert-warning">
-Due to commercial agreements, VTEX grants a type of certification to certain channels. When an order is generated in a channel that does not have this level of certification, there are no consumption tags by origin, and the order is tagged as <code>IsB2C</code>. In other words, only certified channels have consumption tags by origin.
-</div>
+> ⚠️ Due to commercial agreements, VTEX grants a type of certification to certain channels. When an order is generated in a channel that does not have this level of certification, there are no consumption tags by origin, and the order is tagged as `IsB2C`. In other words, only certified channels have consumption tags by origin.
 
 The flow from `IsMarketplace` tags orders in the seller environment, while the flow from `IsSeller` tags orders in the marketplace environment. Each of these tags is described below.
 

@@ -15,6 +15,4 @@ locale: en
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 ---
 
-<div class="alert alert-warning">
-This content is exclusively regional; therefore, it does not apply to Spanish-speaking countries.
-  </div>
+> ⚠️ This content is exclusively regional; therefore, it does not apply to Spanish-speaking countries.

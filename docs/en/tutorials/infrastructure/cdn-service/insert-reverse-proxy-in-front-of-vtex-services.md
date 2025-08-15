@@ -15,17 +15,7 @@ locale: en
 subcategoryId: 2Za4fjGfxYOo6oqykukgyy
 ---
 
-<div class="alert alert-danger">
-<p>
-This guide addresses a practice that is <strong>not recommended</strong> for most stores and should only be applied in extreme cases.
-</p>
-<p>
-Implementing a reverse proxy means replacing all edge services (CDN) managed and optimized by VTEX. This implies that the store will be responsible for effective site provisioning, including configuration, monitoring, and management of aspects such as header passing, cookies, and caching. VTEX does not provide support or documentation for these specific configurations and is not responsible for any issues that may arise.
-</p>
-<p>
-VTEX is not responsible for problems with this system, whether related to our CDN, WAF service, or any other resource in front of our servers. We will not have visibility into the operation, and therefore this solution is <strong>not</strong> covered under our SLA agreements.
-</p>
-</div>
+> ❗  This guide addresses a practice that is **not recommended** for most stores and should only be applied in extreme cases.   Implementing a reverse proxy means replacing all edge services (CDN) managed and optimized by VTEX. This implies that the store will be responsible for effective site provisioning, including configuration, monitoring, and management of aspects such as header passing, cookies, and caching. VTEX does not provide support or documentation for these specific configurations and is not responsible for any issues that may arise.   VTEX is not responsible for problems with this system, whether related to our CDN, WAF service, or any other resource in front of our servers. We will not have visibility into the operation, and therefore this solution is **not** covered under our SLA agreements. 
 
 To point your own CDN to the VTEX CDN, you need to insert a reverse proxy in front of VTEX services. In this scenario, the traffic flow follows this path:
 
@@ -89,11 +79,4 @@ To enable the generation of SSL certificates, make sure that all HTTP traffic to
 
 Some reverse proxies may capture this route, preventing VTEX from issuing or renewing the SSL certificate.
 
-<div class="alert alert-warning">
-VTEX only provides navigation if:
-<ul>
-<li>The TXT record is set up correctly.</li>
-<li>SSL certificates can be issued and renewed for the host.</li>
-</ul>
-If either condition is not met, navigation will fail, and the site will be down.
-</div>
+> ⚠️ VTEX only provides navigation if: <ul> <li>The TXT record is set up correctly.</li> <li>SSL certificates can be issued and renewed for the host.</li> </ul> If either condition is not met, navigation will fail, and the site will be down.

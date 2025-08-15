@@ -17,9 +17,7 @@ subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 
 At VTEX, you can configure your store with the Tuna gateway to receive payments through: bank invoice, debit and credit cards, PIX and Bitcoin.
 
-<div class="alert alert-warning">
-  You can integrate your store with Tuna via <b>Application Key</b> and <b>Application Token.</b> To receive this information, you need to create your account first. To do so, please fill out <a href="https://docs.google.com/forms/d/e/1FAIpQLScWk5fsmkIfGaW2Z6qhdGH-JJ5iU6Fv5TGghUR1Pod5dY5Z2Q/viewform">this form</a> and wait to be contacted by Tuna with more details.
-  </div>
+> ⚠️ You can integrate your store with Tuna via **Application Key** and **Application Token.** To receive this information, you need to create your account first. To do so, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLScWk5fsmkIfGaW2Z6qhdGH-JJ5iU6Fv5TGghUR1Pod5dY5Z2Q/viewform) and wait to be contacted by Tuna with more details.
 
 Once you have created your account and obtained the __Application Key__ and __Application Token__, follow the steps below to configure Tuna in your store:
 
@@ -35,7 +33,7 @@ Once you have created your account and obtained the __Application Key__ and __Ap
     - __Deactivated: Not automatically captured__: capture takes place only when the order is invoiced. Please note that the payment will not be processed if invoicing is delayed and exceeds the capture period agreed with the payment provider.
 
 <ui>
-6. Click on <b>Save.</b>
+6. Click on **Save.**
  </ui>
 
 After completing the configuration steps on the VTEX platform, access the Tuna [Console](https://dev.tuna.uy/console?utm_medium=docs&utm_source=vtex&utm_content=console&utm_campaign=docs) and create at least one payment flow. This is necessary to start processing payments using the solution.

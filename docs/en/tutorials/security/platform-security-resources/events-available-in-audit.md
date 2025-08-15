@@ -40,13 +40,9 @@ Below, you will find a list of the potential events available in [Audit](https:/
 * [Ad Network](#ad-network)
 * [Card tokens](#card-tokens)
 
-<div class = "alert alert-info">
-In case you encounter an event in Audit which has not been included in this list, please inform us through the <a href="https://docs.google.com/forms/d/e/1FAIpQLSfmnotPvPjw-SjiE7lt2Nt3RQgNUe10ixXZmuO2v9enOJReoQ/viewform">documentation feedback page</a>.
-</div>
+> ℹ️ In case you encounter an event in Audit which has not been included in this list, please inform us through the [documentation feedback page](https://docs.google.com/forms/d/e/1FAIpQLSfmnotPvPjw-SjiE7lt2Nt3RQgNUe10ixXZmuO2v9enOJReoQ/viewform).
 
-<div class="alert alert-warning">
-<p>In the Audit filter options, you can find <strong>Shipping Options</strong>, <strong>Profile System</strong>, and <strong>Billing</strong> options besides the applications listed in this guide. Since these options refer to internal resources or features in closed beta, most accounts will not have events associated with them.</p>
-</div>
+> ⚠️ In the Audit filter options, you can find **Shipping Options**, **Profile System**, and **Billing** options besides the applications listed in this guide. Since these options refer to internal resources or features in closed beta, most accounts will not have events associated with them.
 
 ## OMS
 

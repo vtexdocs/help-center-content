@@ -70,7 +70,7 @@ This section includes the following information:
 | shipping\_percentual\_tax | numeric(18,0) | Shipping Percentual tax over purchase total value. |
 | percentual\_discount\_value\_list1 | numeric(18,0) | Valid discounts for the SKUs in listSku1BuyTogether, discount list used for Buy Together Promotions. |
 | percentual\_discount\_value\_list2 | numeric(18,0) | Equivalent to percentualDiscountValueList1. |
-| skus\_gift | super | SKU Gift Object. Total discount on the product value set as a gift. <p>quantitySelectable Quantity of SKU Gifts.</p> <p>Array with SKU Gifts IDs.</p> |
+| skus\_gift | super | SKU Gift Object. Total discount on the product value set as a gift. quantitySelectable Quantity of SKU Gifts. Array with SKU Gifts IDs. |
 | nominal\_reward\_value | numeric(18,0) | Nominal value for rewards program. |
 | percentual\_reward\_value | numeric(18,0) | Percentage value for rewards program. |
 | order\_status\_reward\_value | character varying(256) | Order status reward value. |
@@ -126,7 +126,7 @@ This section includes the following information:
 | min\_installment | integer | Minimum value for installment. |
 | max\_installment | integer | Maximum value for installment. |
 | merchants | super | List of merchants. |
-| cluster\_expressions | super | Criteria to select a customer cluster. Each item in this array should follow the format of an equality function {propertyname}={value} or the format of a contains function {propertyname} contains {value}. In both options, {propertyname} must be replaced with the name of the field in the data entity, and {value} must be replaced with the value determined in Master Data. <p>Find more information about these criteria in [Filling in the Customer cluster field](https://help.vtex.com/tutorial/creating-promotion-for-a-customer-cluster--tutorials_342#filling-in-the-customer-cluster-field).</p> |
+| cluster\_expressions | super | Criteria to select a customer cluster. Each item in this array should follow the format of an equality function {propertyname}={value} or the format of a contains function {propertyname} contains {value}. In both options, {propertyname} must be replaced with the name of the field in the data entity, and {value} must be replaced with the value determined in Master Data. Find more information about these criteria in [Filling in the Customer cluster field](https://help.vtex.com/tutorial/creating-promotion-for-a-customer-cluster--tutorials_342#filling-in-the-customer-cluster-field). |
 | pii\_cluster\_expressions | super | Cluster expressions related to customers’ personally identifiable information (PII). |
 | payments\_rules | super | List of payment rules |
 | gift\_list\_types | super | Gifts List Type |
@@ -210,8 +210,8 @@ Column name | Column type | Column description |
 | minimum\_quantity\_buy\_together | integer | Minimum quantity for Buy Together promotion. |
 | quantity\_to\_affect\_buy\_together | integer | Quantity to affect Buy Together promotion. |
 | enable\_buy\_together\_per\_sku | boolean | Enable Buy Together per SKU. |
-| list\_sku1\_buy\_together | super | Array of objects, each containing ID and Name of an SKU to be added in the first list of the **Buy Together** promotion. Learn more about this type of promotion in the [Creating a Buy Together promotion](https://help.vtex.com/en/tutorial/buy-together--tutorials_323) documentation. <p>⮕ Object containing the ID and Name of the SKU to be added to the first list of the **Buy Together** promotion.</p> Learn more about this type of promotion in the [Creating a Buy Together promotion](https://help.vtex.com/en/tutorial/buy-together--tutorials_323) documentation. |
-| list\_sku2\_buy\_together | super | Array of objects, each containing ID and Name of an SKU to be added to the second list of the **Buy Together** promotion. Learn more about this type of promotion in the [Creating a Buy Together promotion](https://help.vtex.com/en/tutorial/buy-together--tutorials_323) documentation. <p>⮕ Object containing the ID and Name of the SKU to be added to the second list of the **Buy Together** promotion. Learn more about this type of promotion in the [Creating a Buy Together promotion](https://help.vtex.com/en/tutorial/buy-together--tutorials_323) documentation.</p> |
+| list\_sku1\_buy\_together | super | Array of objects, each containing ID and Name of an SKU to be added in the first list of the **Buy Together** promotion. Learn more about this type of promotion in the [Creating a Buy Together promotion](https://help.vtex.com/en/tutorial/buy-together--tutorials_323) documentation. ⮕ Object containing the ID and Name of the SKU to be added to the first list of the **Buy Together** promotion. Learn more about this type of promotion in the [Creating a Buy Together promotion](https://help.vtex.com/en/tutorial/buy-together--tutorials_323) documentation. |
+| list\_sku2\_buy\_together | super | Array of objects, each containing ID and Name of an SKU to be added to the second list of the **Buy Together** promotion. Learn more about this type of promotion in the [Creating a Buy Together promotion](https://help.vtex.com/en/tutorial/buy-together--tutorials_323) documentation. ⮕ Object containing the ID and Name of the SKU to be added to the second list of the **Buy Together** promotion. Learn more about this type of promotion in the [Creating a Buy Together promotion](https://help.vtex.com/en/tutorial/buy-together--tutorials_323) documentation. |
 | coupon | super | Deprecated List of coupons. |
 | total\_value\_floor | numeric(18,0) | Minimum cart value to activate the promotion. |
 | total\_value\_ceiling | numeric(18,0) | Maximum chart value to activate the promotion. |

@@ -19,7 +19,7 @@ The **Invoices** feature allows sellers to [filter](#filters) and export invoice
 
 To access the page, go to the **VTEX Admin > Marketplace > Amazon > Invoices** or type **Invoices** in the search bar. The following page will open:  
 
-![overview-nfe-fba](//images.ctfassets.net/alneenqid6w5/4FqM91rsLMIVmr1xcVuvfx/ea9f1f992466a7da1cd20c27828b6056/overview-nfe-en.jpg)
+![overview-nfe-fba](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/uncategorized/unknown-subcategory/fba-order-invoices_1.jpg)
 
 ## Filters
 
@@ -38,11 +38,11 @@ If **Operation type** or **Invoice type** is selected, additional filtering opti
 
 - If **Operation type** is selected, the options displayed include **Shipment, Excess shipment, Removal, Sales, Customer return, Found stock,** and **Lost stock,** as shown in the image below.
 
-![typeop-nfe-fba](//images.ctfassets.net/alneenqid6w5/1RdIWYPBSZGPBguJOIohxx/e1304f7da923a0affd64ca50d42966f5/typoop-nfe-en.jpg)
+![typeop-nfe-fba](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/uncategorized/unknown-subcategory/fba-order-invoices_2.jpg)
 
 - If **Invoice type** is selected, the options displayed include **Shipment, Adjustment shipment, Return, Adjustment return** and **Customer sale,** as shown in the image below.
 
-![type-nfe-fba](//images.ctfassets.net/alneenqid6w5/mLpc2MpvddP67tvsBv07e/a5656571ca63e6337d60cdbc5de9bfb4/typo-nfe-en.jpg)
+![type-nfe-fba](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/uncategorized/unknown-subcategory/fba-order-invoices_3.jpg)
 
 <div class=”alert alert-info”>
 If you don't select a type filter, the system returns invoices of all types by default.

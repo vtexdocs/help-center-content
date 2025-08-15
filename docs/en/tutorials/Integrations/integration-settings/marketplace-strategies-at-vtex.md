@@ -17,7 +17,7 @@ subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 
 A marketplace is a virtual platform through which different sellers offer their products. In addition to owning products, sellers are often responsible for the [fulfillment process](https://help.vtex.com/en/tutorial/fulfillment-logistics-vtex--53udnvI5eBy8DKo8FOjMoP).  
 
-![Marketplace strategies](//images.ctfassets.net/alneenqid6w5/1XaGifpW4ztfRM3XIkiACS/8f611e6a89c168b7322aa14e1f6b7024/Ecommerce_web_page-pana.png)  
+![Marketplace strategies](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/integration-settings/marketplace-strategies-at-vtex_1.png)  
 
 [VTEX promotes digital collaboration](https://vtex.com/en-us/marketplace/) in different scenarios. For example, besides selling your products on other marketplaces, you can also act as a marketplace and sell products from other sellers on your website.  
 
@@ -34,9 +34,7 @@ The product assortment sent to a marketplace is defined when you choose the [tra
 
 [Additional trade policies can be requested](https://help.vtex.com/pt/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X) via a ticket to our [Support](https://help.vtex.com/pt/support) team by selecting the Commercial option and the New Trade Policy request type. A monthly fee is charged for each additional trade policy, whether used for integration with certified, partner, external, or VTEX marketplaces.  
 
-<div class="alert alert-info">
- Orders placed through marketplaces are subject to the same <a href="https://help.vtex.com/en/tutorial/o-que-a-vtex-considera-como-receita-para-apuracao--58j4cfoXfisWyemASACwSq?locale=pt">contractual rules</a> as the ones placed through other channels.  
-</div>  
+> ℹ️ Orders placed through marketplaces are subject to the same [contractual rules](https://help.vtex.com/en/tutorial/o-que-a-vtex-considera-como-receita-para-apuracao--58j4cfoXfisWyemASACwSq?locale=pt) as the ones placed through other channels.  
 
 Here are the scenarios we will address next:  
 
@@ -72,7 +70,7 @@ The process to configure your store as [a VTEX marketplace](https://help.vtex.co
 
 See below for the main VTEX marketplaces:  
 
-![mkt br](//images.ctfassets.net/alneenqid6w5/6DB08TtDzQ0tuesrK1I1XU/d42c1c45fff7301eea1e2fe7160274b5/mkt_br.png)
+![mkt br](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/integration-settings/marketplace-strategies-at-vtex_2.png)
 
 The __Marketplaces and Integrations__ module also promotes and enables contact between VTEX marketplaces and certified VTEX sellers interested in collaborations.  
 
@@ -100,10 +98,7 @@ At VTEX, you can sell on other channels in the following situations:
 - [Integrating with marketplaces](#integrating-with-marketplaces)  
 - [Operating as a VTEX seller](#operating-as-a-vtex-seller)  
 
-<div class="alert alert-info">
-  A VTEX store can act simultaneously as a <a href="#selling-on-marketplaces">VTEX seller</a> and a <a href="#operating-as-a-vtex-marketplces">VTEX marketplace</a>.  
-The VTEX platform offers different fulfillment features that can be combined for scenarios such as dropshipping, where the seller receives and forwards the customer's order to a third party responsible for the fulfillment. The most fitting <a href="https://help.vtex.com/en/tutorial/logistica--53udnvI5eBy8DKo8FOjMoP">logistics</a> solution for the seller will depend on the architecture and business model and can be implemented through <a href="https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide">Back office integration (ERP/PIM/WMS)</a>.
-</div>  
+> ℹ️ A VTEX store can act simultaneously as a [VTEX seller](#selling-on-marketplaces) and a [VTEX marketplace](#operating-as-a-vtex-marketplces). The VTEX platform offers different fulfillment features that can be combined for scenarios such as dropshipping, where the seller receives and forwards the customer's order to a third party responsible for the fulfillment. The most fitting [logistics](https://help.vtex.com/en/tutorial/logistica--53udnvI5eBy8DKo8FOjMoP) solution for the seller will depend on the architecture and business model and can be implemented through [Back office integration (ERP/PIM/WMS)](https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide).  
 
 ### Integrating with an external marketplace
 
@@ -172,9 +167,7 @@ Currently, on the VTEX platform, you can find the following marketplaces:
 - Fast Shop  
 - Hubplus  
 
-<div class="alert alert-info">
-Facebook, Google Shopping, Google Shopping Ads, and TikTok are not marketplaces, but they offer a similar experience of sending products from VTEX stores.
-</div>  
+> ℹ️ Facebook, Google Shopping, Google Shopping Ads, and TikTok are not marketplaces, but they offer a similar experience of sending products from VTEX stores.  
 
 ### Operating as a VTEX seller  
 
@@ -186,6 +179,4 @@ Setting up an [integration between VTEX stores](https://help.vtex.com/en/tutoria
 
 The [Seller Portal](https://help.vtex.com/en/tutorial/seller-portal-primeiros-passos--6w1vBdRH2uuBGmUqgNQjwK) is a VTEX platform edition for sellers to connect and sell their products on VTEX marketplaces. The portal allows sellers to access all the key features necessary to operate ecommerce on big storefronts, increasing visibility and sales conversion.  
 
-<div class="alert alert-info">
-At VTEX, it is possible to act as a <a href="https://help.vtex.com/en/tutorial/definicoes-de-conta-franquia-e-seller-white-label--5orlGHyDHGAYciQ64oEgKa">white label seller</a>, a seller unknown to the consumer in his shopping experience. This type of seller is the standard for <a href="https://help.vtex.com/en/tutorial/what-is-a-franchise-account--kWQC6RkFSCUFGgY5gSjdl">franchise accounts</a>, for example, and can be strategic for certain business models. To learn more, see the article <a href="https://help.vtex.com/en/tutorial/escolher-entre-conta-padrao-conta-franquia-ou-seller-portal--4S90HzzhMyZESsHqrnUs78">Choosing between standard account, franchise account, or Seller Portal</a>.
-</div>
+> ℹ️ At VTEX, it is possible to act as a [white label seller](https://help.vtex.com/en/tutorial/definicoes-de-conta-franquia-e-seller-white-label--5orlGHyDHGAYciQ64oEgKa), a seller unknown to the consumer in his shopping experience. This type of seller is the standard for [franchise accounts](https://help.vtex.com/en/tutorial/what-is-a-franchise-account--kWQC6RkFSCUFGgY5gSjdl), for example, and can be strategic for certain business models. To learn more, see the article [Choosing between standard account, franchise account, or Seller Portal](https://help.vtex.com/en/tutorial/escolher-entre-conta-padrao-conta-franquia-ou-seller-portal--4S90HzzhMyZESsHqrnUs78).

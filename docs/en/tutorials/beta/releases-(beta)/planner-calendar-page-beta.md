@@ -16,9 +16,7 @@ subcategoryId: 3vXj7HrnYK8V5riTOwUuYv
 ---
 
 
-<div class="alert alert-info">
-  <p>The <strong>Releases</strong> is in beta version, which means we are working to improve it. This feature is only available for stores using <a href="https://www.faststore.dev/">FastStore</a>.</p>
-</div>
+> ℹ️ The **Releases** is in beta version, which means we are working to improve it. This feature is only available for stores using [FastStore](https://www.faststore.dev/).
 
 The **Releases** module allows you to [manage your releases](https://help.vtex.com/en/tutorial/planner-actions-on-releases-beta--1zsomdifPEQkdV6RW93JyW) so that you can coordinate the creation, schedule and publication of the changes in your store.
 
@@ -32,15 +30,13 @@ You can view the **Calendar** page in three ways:
 
 **Calendar** only shows [scheduled releases](https://help.vtex.com/en/tutorial/planner-actions-on-releases-beta--1zsomdifPEQkdV6RW93JyW#schedule). To view all your releases, access the [Releases](https://help.vtex.com/en/tutorial/planner-releases-page-beta--2p7IiVD6K8i1iRiwHph5sw) page.
 
-<div class="alert alert-warning">
-  <p>In the beta version, the releases must be <a href="https://help.vtex.com/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2">CMS</a>-related, because other VTEX platform modules are not yet included. To use the <strong>Releases</strong>, you must configure the CMS as described in <a href="https://www.faststore.dev/how-to-guides/cms/vtex-headless-cms/Installing%20Releases%20on%20VTEX%20Headless%20CMS">Installing Releases on VTEX Headless CMS</a>.</p>
-</div>
+> ⚠️ In the beta version, the releases must be [CMS](https://help.vtex.com/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2)-related, because other VTEX platform modules are not yet included. To use the **Releases**, you must configure the CMS as described in [Installing Releases on VTEX Headless CMS](https://www.faststore.dev/how-to-guides/cms/vtex-headless-cms/Installing%20Releases%20on%20VTEX%20Headless%20CMS).
 
 ## View per month
 
 In the following image, you will see the view per month and what you can do in the interface:
 
-![releases-calendar-monthly-view-en](//images.ctfassets.net/alneenqid6w5/BQCF0b8kNzGTOv06wCOde/6dc0c1f3eef1fa4aef0bbd7a6f462f63/releases-calendar-monthly-view-en.png)
+![releases-calendar-monthly-view-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/releases-(beta)/planner-calendar-page-beta_1.png)
 
 In this page, you can:
 
@@ -58,7 +54,7 @@ In this page, you can:
 
 In the following image, you'll see the view per week and what you can do in the interface:
 
-![releases-calendar-weekly-view-en](//images.ctfassets.net/alneenqid6w5/QHZDKB0IX07GLoEO84NJv/a968361f0e0d1f0eece420ff190c1a94/releases-calendar-weekly-view-en.png)
+![releases-calendar-weekly-view-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/releases-(beta)/planner-calendar-page-beta_2.png)
 
 In this page, you can:
 
@@ -76,7 +72,7 @@ In this page, you can:
 
 In the following image, you'll see the view per day and what you can do in the interface:
 
-![daily view v2 en](//images.ctfassets.net/alneenqid6w5/5dwgo1qqTYNFMKV4sBNW0Q/b41cc39641404cceacfee3fb47d35615/daily_view_v2_en.png)
+![daily view v2 en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/releases-(beta)/planner-calendar-page-beta_3.png)
 
 Apart from viewing information about the release, in this page, you can:
 

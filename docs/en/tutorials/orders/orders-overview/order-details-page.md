@@ -15,9 +15,7 @@ locale: en
 subcategoryId: 3VNOhxDrvYxJThhuJClrYZ
 ---
 
-<div class = "alert alert-info">
-You can only access information from orders created in the last two years, and that same period is valid for customers through <a href="https://help.vtex.com/en/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh">My Account</a>.
-</div>
+> ℹ️ You can only access information from orders created in the last two years, and that same period is valid for customers through [My Account](https://help.vtex.com/en/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh).
 
 The order details page allows you to view all the information of an order and manage it in a single place. To access it, in the VTEX Admin, go to **Orders > [All orders](https://help.vtex.com/en/tutorial/lista-de-pedidos-beta--2QTduKHAJMFIZ3BAsi6Pi)**, and click the desired order.
 
@@ -44,13 +42,11 @@ The order details page is divided into blocks that group information or features
 
 To learn more about order flow and status, please check out the article [Order flow and status](https://help.vtex.com/pt/tutorial/fluxo-e-status-de-pedidos--tutorials_196).
 
-<div class = "alert alert-info">
-You will find below a list of all possible sections for the <b>Order details page</b>, but please note that only the sections that apply to the order in question will be visible.
-</div>
+> ℹ️ You will find below a list of all possible sections for the **Order details page**, but please note that only the sections that apply to the order in question will be visible.
 
 ## Top bar
 
-![BarrasuperiorEN](//images.ctfassets.net/alneenqid6w5/4iRT7cRVqHuZ7BzKScT76O/ee97e23a21b0ba350ee47cf6ded14cde/BarrasuperiorEN.jpg)
+![BarrasuperiorEN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/orders/orders-overview/order-details-page_1.jpg)
 
 The top bar contains the following information and actions:
 
@@ -64,7 +60,7 @@ The top bar contains the following information and actions:
 
 ## General information 
 
-![Informacao geraisEN](//images.ctfassets.net/alneenqid6w5/33MvPNsMEzss1dgk5qaakl/5a4a537da2ec23a9153aa7027a4b2c49/Informacao_geraisEN.jpg)
+![Informacao geraisEN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/orders/orders-overview/order-details-page_2.jpg)
 
 General order information is displayed at the top of the page, just below the top bar, and includes:
 
@@ -76,9 +72,7 @@ General order information is displayed at the top of the page, just below the to
   - Contact details (mobile number and email)  
 * **Delivery/Pickup:** address details and recipient name for shipping by carrier or for pickup by customer.  
 
-<div class = "alert alert-info">
-Click on the <i class="fas fa-chevron-right"></i> icon to enlarge the block.
-</div>
+> ℹ️ Click on the <i class="fas fa-chevron-right"></i> icon to enlarge the block.
 
 ### Order status
 
@@ -88,7 +82,7 @@ To learn more about the order flow and when to handle an order, read the article
 
 ### Items to invoice
 
-![Itens faturarEN](//images.ctfassets.net/alneenqid6w5/2wScKr5ZaHShpyntCuN0jy/c88e7dc843b651ed6b703ed4cd05ba3c/Itens_faturarEN.png)
+![Itens faturarEN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/orders/orders-overview/order-details-page_3.png)
 
 The block **Items to Invoice** contains packages with items for which payment has been approved but not yet [invoiced](https://help.vtex.com/en/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/2WgQrlHTyVo4hLjhUs1LMT), i.e. their invoices have not been uploaded to the platform.
 
@@ -101,7 +95,7 @@ In the top left corner, the following actions are available:
 
 ###  Invoices
 
-![FaturaEN](//images.ctfassets.net/alneenqid6w5/24K1rMqn970zgeKxK81f3Z/1f68c545e4a42383d85aa82b7dd6ba96/FaturaEN.png)
+![FaturaEN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/orders/orders-overview/order-details-page_4.png)
 
 This block displays the invoiced items with their respective invoices and the packages that make up the deliveries.
 
@@ -114,7 +108,7 @@ In this block, the retailer can:
 
 ### Returned items
 
-![Itens devolvidosEN](//images.ctfassets.net/alneenqid6w5/318Sl1C9ih6QCltdfps82D/d6354bb77f2ab0ffa3f01f81afe5de19/Itens_devolvidosEN.png)
+![Itens devolvidosEN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/orders/orders-overview/order-details-page_5.png)
 
 The block **Returned Items** is displayed when order items are returned. See the information and actions available in this block:
 
@@ -128,7 +122,7 @@ The block **Returned Items** is displayed when order items are returned. See the
 
 ### History of changed items
 
-![Historico Itens alteradosEN](//images.ctfassets.net/alneenqid6w5/2iaeorSz55zPeXnjaGZdPm/d96c4ca6d673fd5222086070ea9c64ae/Historico_Itens_alteradosEN.png)
+![Historico Itens alteradosEN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/orders/orders-overview/order-details-page_6.png)
 
 This block is displayed when changes are made to order items. The **History of changed items** displays the details of the changes made, such as which items were added or removed, the date the change occurred, and the prices of the products (the price of the returned item, the price of the added item, and the difference between the two).
 
@@ -136,7 +130,7 @@ If there are changes in the final amount of the order, the difference will be di
 
 ### Order history
 
-![Historico pedidoEN](//images.ctfassets.net/alneenqid6w5/1x2CvQpxrGD48YdmebHVsu/3d9701b380306223f795295b4ecf3cae/Historico_pedidoEN.jpg)
+![Historico pedidoEN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/orders/orders-overview/order-details-page_7.jpg)
 
 This block displays all the order activity and  interactions that took place within the order, with date and time information. 
 
@@ -150,7 +144,7 @@ You can also view details of notifications emailed to the customer by clicking o
 
 ### Comments
 
-![ComentariosEN](//images.ctfassets.net/alneenqid6w5/6Rqz8dZ1DzcY6nE7juDELC/89520a487885e12fbacf0b7b614c1347/ComentariosEN.png)
+![ComentariosEN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/orders/orders-overview/order-details-page_8.png)
 
 This section allows you to add internal comments with remarks about the order. To do this, you can type in the text box and click on `Send`.
 
@@ -158,7 +152,7 @@ Comments are recorded on the order details page with the date, time, and email a
 
 ## Financial details
 
-![Lateral](//images.ctfassets.net/alneenqid6w5/1oYh572kbKHKoqODLnmNyD/c9be1169615d4c8c08d6108fd4171395/LateralEN.png)
+![Lateral](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/orders/orders-overview/order-details-page_9.png)
 
 On the right side of the page, you can view the financial details of the order. This information is updated automatically as the order progresses. 
 

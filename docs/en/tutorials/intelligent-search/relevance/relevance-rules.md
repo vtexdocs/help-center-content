@@ -24,7 +24,7 @@ You can configure relevance in two ways:
   - __Priority Criteria__: it imposes that one or more criteria has a higher priority among the others. In this situation, there are no weights; all products that have this feature will be shown first in the search results.
   - __Criteria Composition__: it is a way to distribute weights for each option, ranging from 0 to 10. Here, there is no order between the criteria; the weights will define the relevance.
 
-![criterios-en](//images.ctfassets.net/alneenqid6w5/2okH4XcNScAzf6PJIlOKqs/56c8163ed9b449419c17db066dd4506e/criterios-en.png)
+![criterios-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/intelligent-search/relevance/relevance-rules_1.png)
 
 The information considered for the relevance is:
 
@@ -41,11 +41,7 @@ The set of weights and criteria distribution generates a score for the product, 
 
 So you can tailor the behavior of the search results to a specific strategy.
 
-<div class="alert alert-warning">
-  <p>If you want to use priority criteria, place the most relevant one first, as the ranking will always be based on it.</p>
-  <p>The first priority criterion has more weight than the others, so it can neutralize the other priority criteria and the criteria composition.</p>
-  <p>In case of a tie, the other criteria will be considered to determine the final ranking of the results (the other priorities will be first, followed by the criteria composition).</p>   
-</div>
+> ⚠️ If you want to use priority criteria, place the most relevant one first, as the ranking will always be based on it. The first priority criterion has more weight than the others, so it can neutralize the other priority criteria and the criteria composition. In case of a tie, the other criteria will be considered to determine the final ranking of the results (the other priorities will be first, followed by the criteria composition).
 
 ## Example
 
@@ -105,6 +101,6 @@ To change relevance settings, follow the steps below.
 
    If you want to change a criterion from **Criteria Composition** to **Priority Criteria**, click on the <i class="fas fa-grip-vertical"></i> icon and drag it to the top of the page, as shown below. Note that when the criterion is set as a priority, you can no longer change its weight. 
 
-   ![criterios-prioritarios-en](//images.ctfassets.net/alneenqid6w5/c6CNsiZOSl7WnmP7k8Ffa/326edf2ab5b2c2ee3050a97a98090dd9/criterios-prioritarios-en.gif)
+   ![criterios-prioritarios-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/intelligent-search/relevance/relevance-rules_2.gif)
 5. Click `Save` to finish.
 

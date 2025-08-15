@@ -23,25 +23,22 @@ The Layout module covers home, catalog (search, categories e products), landing 
 
 You can change the protocol in all folders at once by using our API, documented [in this Postman collection](https://developers.vtex.com/reference/change-uri-schema). 
 
-<div class="alert alert-warning">
-<p><strong>Warning:</strong> avoid having HTTPS enabled on only a few pages. When you access an HTTPS page, then go to an HTTP page from the same store, the browser will try to read your resources forcibly over HTTPS, and this can cause problems.</p>
-<p>It is appropriate to enable HTTPS throughout the site at one time.</p>
-<p>The same goes for desktop and mobile websites (child website), where it is necessary to treat the HTTPS of both at the same time.</p></div>
+> ⚠️ **Warning:** avoid having HTTPS enabled on only a few pages. When you access an HTTPS page, then go to an HTTP page from the same store, the browser will try to read your resources forcibly over HTTPS, and this can cause problems. It is appropriate to enable HTTPS throughout the site at one time. The same goes for desktop and mobile websites (child website), where it is necessary to treat the HTTPS of both at the same time.
 
 1. In the VTEX Admin, access **Storefront > Layout** and open the folder **CMS**.
 2. Access **Sites and channels**.
 3. Access the desired website.
 4. Open the root folder of the website.
-![CMS instrução - EN](//images.ctfassets.net/alneenqid6w5/4hp4fJ22GIWmEQ2ggQGCaE/910148475de19dfac0b0bd451cee1f7a/CMS_instru____o_-_EN.png)
+![CMS instrução - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Storefront/Layout/how-do-i-use-the-https-protocol-on-my-stores-pages_1.png)
 5. The screen that was opened displays all the folders that are on the first level of the site. For each pertinent folder, click **Edit** - for home, consider the top button;
-![edit cms - EN](//images.ctfassets.net/alneenqid6w5/6ijmcqCYCIOmi2oeSSEaiy/c6f229d2a4727d5fbeb368e6b8282b2f/edit_CMS_EN.png)
+![edit cms - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Storefront/Layout/how-do-i-use-the-https-protocol-on-my-stores-pages_2.png)
 6. In the checkbox **Protocol**, select the option **HTTPS**;
-![cms-protocol-https EN](//images.ctfassets.net/alneenqid6w5/6QfX3kETJeqI2Iu0wKECys/2296b1dff11262501fbc20b2ff70afe2/cms_protocol_HTTPS_EN.png)
+![cms-protocol-https EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Storefront/Layout/how-do-i-use-the-https-protocol-on-my-stores-pages_3.png)
 7. Click in **Save Folder**.
 
 Attention to folders that have subfolders, such as Departamento, Categoria, Produto, and other folders, including also those created for store customization. 
 
 In the following example, the folder **Orders**, contained in **Account**, which also must be edited: 
-![cms-subcategoria-edit EN](//images.ctfassets.net/alneenqid6w5/6ugtIHxBSgMMeMgCeA040c/51521187a54845179835e410d76294d4/subcategoria_edit_EN.png)
+![cms-subcategoria-edit EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Storefront/Layout/how-do-i-use-the-https-protocol-on-my-stores-pages_4.png)
 
 After a cache of up to 10 minutes the changes will take effect.

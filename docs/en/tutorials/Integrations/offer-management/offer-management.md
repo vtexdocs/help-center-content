@@ -23,17 +23,17 @@ For connectors interested in starting the integration, we ask you to wait for th
 
 The **Offer Management** module allows sellers to track the sending and syncing of their offers on all sales channels integrated with the store. On the VTEX platform, an offer is a SKU from a seller that has been sent to a sales channel and whose price and inventory information have been configured.
 
-![Offer Management gif](//images.ctfassets.net/alneenqid6w5/39zPddPF6cBtI1QZn7GSDz/d270dd62f2b92f6100de71836279b195/Offer_Management_gif.gif)
+![Offer Management gif](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/offer-management/offer-management_1.gif)
 
 In **Offer Management**, you can track offers sent to the following channels: [Mercado Libre](https://help.vtex.com/en/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq) (Classic and Premium), [Netshoes](https://help.vtex.com/en/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm) and VTEX marketplaces. For connectors to integrate via API, see [Offer Management Integration Guide](https://developers.vtex.com/vtex-rest-api/docs/sent-offers-integration-guide-connectors).
 
 To access the module, in the VTEX Admin go to **Marketplace > Connections > Offer Management**. The following interface is displayed:
 
-![sent-offers-en_2](//images.ctfassets.net/alneenqid6w5/4NEuTkSW9kSb6SQa3I7QPc/ab112c902aff07dd90b1271dbac0cfae/sent-offers-en_2.png)
+![sent-offers-en_2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/offer-management/offer-management_2.png)
 
 The **Offer Management** interface displays a list of your offers, and you can click on any of the offers to access the [offer details](https://help.vtex.com/en/tutorial/detalhes-do-anuncio--4FF9QYAewqAn610mDHwb0P) and check the [interaction details](https://help.vtex.com/en/tutorial/detalhes-da-interacao--5qC6XPkyUsYPd0dqKHQNlf). Interactions are the offer logs when sending and syncing them with the sales channel and are available for consultation for ten days.
 
-![diagrama ju meyer sent offers en](//images.ctfassets.net/alneenqid6w5/1v1nQSOtb5hekGMB4sQCiW/4537ebb6b68838ee6ee4d1bc03dd87c8/diagrama_ju_meyer_sent_offers_en.png)
+![diagrama ju meyer sent offers en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/offer-management/offer-management_3.png)
 
 On the **Offer Management** page, you can perform the following actions:
 
@@ -50,7 +50,7 @@ At the top of the page, there is a search field with a <i class="fas fa-search">
 - SKU ID
 - EAN Code 
 
-![IMAGEM 2](https://drive.google.com/uc?export=download&id=10Jjhe-ILfdm-KI6ip1wWCOPE_IGjDQ0T)
+![IMAGEM 2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/offer-management/offer-management_4.png)
 
 Furthermore, you can filter the search result by the following criteria:
 
@@ -75,7 +75,7 @@ At the top of the page, there is a general presentation of the seller's offers, 
 - The total number of created offers.
 - Percentage of successfully synched offers.
 
-![IMAGEM 3](https://drive.google.com/uc?export=download&id=1U5XfQG1K8zjddwwM-R0bDAzpJZW0ky48)
+![IMAGEM 3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/offer-management/offer-management_5.png)
 
 There is also a colored bar illustrating the number of offers for each of the following statuses: 
 

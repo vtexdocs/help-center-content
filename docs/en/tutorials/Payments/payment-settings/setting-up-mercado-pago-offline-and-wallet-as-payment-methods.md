@@ -27,29 +27,27 @@ Likewise, make sure that sub-acquirers [MercadoPagoV1](https://help.vtex.com/en/
 
 To configure Mercado Pago Offline, follow these steps:
 <ol>
-  <li>Access the <b>Admin</b> VTEX.</li>
+  <li>Access the **Admin** VTEX.</li>
   <br>
-  <li>Click on <b>Payments</b>.</li>
+  <li>Click on **Payments**.</li>
   <br>
-  <li>Then, click on <b>Settings</b>.</li>
+  <li>Then, click on **Settings**.</li>
   <br>
-  <li>In the <b>Payment conditions</b> tab, click on the <b>+</b> button.</li>
+  <li>In the **Payment conditions** tab, click on the **+** button.</li>
   <br>
-  <li>Search and click on <b>MercadoPagoOff</b>.</li>
+  <li>Search and click on **MercadoPagoOff**.</li>
   <br>
-  <li>At the top of the page, fill in the <b>Rule name</b> field with a name of your choice for identification.</li>
+  <li>At the top of the page, fill in the **Rule name** field with a name of your choice for identification.</li>
   <br>
-  <li>Below, click on the <b>Status</b> button to activate the rule.</li>
+  <li>Below, click on the **Status** button to activate the rule.</li>
 <br>
-<div class="alert alert-info">
-  It is not necessary to select the <strong>Process with affiliation</strong>, as the sub-acquirer MercadoPagoV2 is already configured as the default affiliation for MercadoPagoOff.
-</div>
+> ℹ️ It is not necessary to select the **Process with affiliation**, as the sub-acquirer MercadoPagoV2 is already configured as the default affiliation for MercadoPagoOff.
 <br>
-  <li>If you choose to use antifraud, enable the <b>Use antifraud solution</b> option and choose one of the available antifraud options.</li>
+  <li>If you choose to use antifraud, enable the **Use antifraud solution** option and choose one of the available antifraud options.</li>
   <br>
-  <li>You can also <a href="https://help.vtex.com/en/tutorial/condicoes-especiais">configure payment special conditions</a>.</li>
+  <li>You can also [configure payment special conditions](https://help.vtex.com/en/tutorial/condicoes-especiais).</li>
    <br> 
-  <br>Click on <b>Save</b>.</li>
+  <br>Click on **Save**.</li>
 </ol>
 After all settings are complete, wait up to 10 minutes for the MercadoPagoOff option to be available at checkout.
 

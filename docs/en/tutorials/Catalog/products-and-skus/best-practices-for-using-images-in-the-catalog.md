@@ -25,7 +25,7 @@ The table below shows the size limits and formats accepted for each image:
 | Minimum size in pixels | 600 x 600 pixels |
 | Maximum size in MB | 4 MB |
 | Minimum size in KB | 300 KB |
-| Allowed file extensions | <p><ul><li>JPG</li><li>PNG</li><li>GIF</li><li>ICO</li><li>SVG</li><li>WEBP</li></ul></p> |
+| Allowed file extensions | <ul><li>JPG</li><li>PNG</li><li>GIF</li><li>ICO</li><li>SVG</li><li>WEBP</li></ul> |
 
 ## Recommendations
 

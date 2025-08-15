@@ -23,6 +23,4 @@ This information is saved in the customer profile and is displayed in the regist
 
 Because of this, the login is requested both at the time of __choosing the registered bank slip as payment method__ and the time of __getting the bank slip in the page of Order Placed__.
 
-<div class="alert alert-info">
-Authentication is required only as of the second purchase. Since during the first purchase the data is being saved for the first time, there's no need for authentication. The registered bank slip will be issued with the data informed in this first purchase and only the person who filled the information will have access to them.
-</div>
+> ℹ️ Authentication is required only as of the second purchase. Since during the first purchase the data is being saved for the first time, there's no need for authentication. The registered bank slip will be issued with the data informed in this first purchase and only the person who filled the information will have access to them.

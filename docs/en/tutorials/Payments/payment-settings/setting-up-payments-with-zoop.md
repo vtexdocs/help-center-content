@@ -30,9 +30,9 @@ To configure Zoop, follow the steps below:
     - __Immediate: Automatic Settlement After Anti-Fraud Analysis__:  Capture is automatically performed right after payment authorization and anti-fraud analysis. If you select this behavior and do not have anti-fraud analysis, the system will perform the payment capture as in __Immediate: Automatic Settlement After Payment Authorization__.
     - __Deactivated: Not Automatically Captured__: capture takes place only when the order is invoiced. If you select this behavior, it is important to pay attention to the invoicing time, as invoicing can exceed the capture time agreed with the payment provider and lead to the cancellation of the transaction.
 
-<ui>  6. In <b>Enable payout split and send payment recipients?</b>, select whether split payments will be available for the marketplace and sellers.</ui>
+<ui>  6. In **Enable payout split and send payment recipients?**, select whether split payments will be available for the marketplace and sellers.</ui>
 
-<ui>  7. Click on <b>Save.</b></ui>
+<ui>  7. Click on **Save.**</ui>
 
 To set up payment conditions, access [Configure special payment conditions](https://help.vtex.com/en/tutorial/how-to-configure-payment-conditions).
 
