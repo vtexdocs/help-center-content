@@ -21,6 +21,6 @@ This query means that the XML was called in less than 48 hours. Those XMLs not c
 
 You can view the date of the latest XML update. This information is shown in UTC time at the foot of the document, as illustrated below.
 
-[![xml](https://images.contentful.com/alneenqid6w5/4f0ryUsnO8UQM8micg88EQ/8127b7bad05fd3b27fcc84f0754e7ea0/xml.png)](https://images.contentful.com/alneenqid6w5/4f0ryUsnO8UQM8micg88EQ/8127b7bad05fd3b27fcc84f0754e7ea0/xml.png "![xml](https://images.contentful.com/alneenqid6w5/4f0ryUsnO8UQM8micg88EQ/8127b7bad05fd3b27fcc84f0754e7ea0/xml.png)")
+[![xml](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/xml-integration/understanding-the-updating-of-the-xml_1.png)](//images.contentful.com/alneenqid6w5/4f0ryUsnO8UQM8micg88EQ/8127b7bad05fd3b27fcc84f0754e7ea0/xml.png "![xml](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/xml-integration/understanding-the-updating-of-the-xml_2.png)")
 
-<div class="alert alert-info">If the option “Display SKUs without available stock (out of stock) in Inventory among the results” is not checked, out-of-stock products/SKUs will NOT be shown in the XML. Inactive products also do <strong>not</strong> appear in the XML.</div>
+> ℹ️ If the option “Display SKUs without available stock (out of stock) in Inventory among the results” is not checked, out-of-stock products/SKUs will NOT be shown in the XML. Inactive products also do **not** appear in the XML.

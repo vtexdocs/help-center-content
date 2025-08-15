@@ -22,9 +22,7 @@ There are two ways to make a change to an order:
 * [VTEX Admin:](#how-to-change-order-items) it is only possible if the order status is `Handling Shipping`.
 * [Order change API:](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/changes) in addition to changing items, you can create discounts and change the order price. You can only change it if the order status in the order API is `handling` or `waiting-for-fulfillment`.
 
-<div class="alert alert-warning">
-After it has been changed, the customer will receive an email notification if the <code>Change of information</code> template (<a href="https://help.vtex.com/en/tutorial/order-transactional-email-templates--3g2S2kqBOoSGcCaqMYK2my">transactional email template related to the order</a>) is enabled in Message Center. The customer receives the messages with the information that was filled in the item change form.
-</div>
+> ⚠️ After it has been changed, the customer will receive an email notification if the `Change of information` template ([transactional email template related to the order](https://help.vtex.com/en/tutorial/order-transactional-email-templates--3g2S2kqBOoSGcCaqMYK2my)) is enabled in Message Center. The customer receives the messages with the information that was filled in the item change form.
 
 ## Restrictions
 
@@ -60,10 +58,10 @@ To make changes to items, follow the steps below:
 
 5. Fill out the form with the desired changes.
 <ul>
-<li><b>To add new products</b>, type the SKU name in the search bar.</li>
-<li><b>To change product quantities</b> adjust the control by increasing or decreasing it.</li>
-<li><b>To change the value</b> select Discount or Increase, and enter the updated value.</li>
-<li>Comment the <b>Reason for changes</b> The comment entered in this field is recorded in the History of modified items. We advise you to describe what the customer who requested the change communicated.</li>
+<li>**To add new products**, type the SKU name in the search bar.</li>
+<li>**To change product quantities** adjust the control by increasing or decreasing it.</li>
+<li>**To change the value** select Discount or Increase, and enter the updated value.</li>
+<li>Comment the **Reason for changes** The comment entered in this field is recorded in the History of modified items. We advise you to describe what the customer who requested the change communicated.</li>
 </ul>
 6. Click on `Send`.    
 
@@ -75,6 +73,4 @@ When changing or removing items from an order, the order total changes. In this 
 
 The order total will be updated once the invoice is added, corresponding to what is settled by the VTEX payment gateway. The VTEX Payments system will automatically refund the customer if an item is returned.
 
-<div class = "alert alert-info">
-The partial invoices feature is available to all VTEX stores, but the partial settlement in the gateway is in beta. Besides, for partial invoices to trigger partial settlements in the transaction, it is necessary to use a connector with the <a href="https://help.vtex.com/en/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m">Payment Provider Protocol</a>. Legacy connectors do not support the functionality.
-</div>
+> ℹ️ The partial invoices feature is available to all VTEX stores, but the partial settlement in the gateway is in beta. Besides, for partial invoices to trigger partial settlements in the transaction, it is necessary to use a connector with the [Payment Provider Protocol](https://help.vtex.com/en/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m). Legacy connectors do not support the functionality.

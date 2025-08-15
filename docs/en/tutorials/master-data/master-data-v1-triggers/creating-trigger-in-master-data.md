@@ -15,9 +15,7 @@ locale: en
 subcategoryId: 2nx7hMJmisofwqwy2P9l2i
 ---
 
-<div class="alert alert-info">
-<p>This article is about Master Data v1. If you want to use Master Data v2, see the steps in the guide <a href="https://developers.vtex.com/docs/guides/setting-up-triggers-in-master-data-v2">Setting up triggers in Master Data v2</a>.</p>
-</div>
+> ℹ️ This article is about Master Data v1. If you want to use Master Data v2, see the steps in the guide [Setting up triggers in Master Data v2](https://developers.vtex.com/docs/guides/setting-up-triggers-in-master-data-v2).
 
 Conceptually, a trigger is a programming resource that performs a specific action whenever an associated event occurs. In Master Data, a trigger consists of configuring one or more events that activate when a particular situation occurs based on different variables.
 
@@ -44,7 +42,7 @@ Below are the main characteristics of triggers:
 
 Before [creating a trigger](#configuring-triggers), it's important to understand that configuring a trigger has four parts, which are explained below.
 
-![trigger](//images.ctfassets.net/alneenqid6w5/5WbC7SD6aPFqaOHuHWgQoq/7c3bad97c814b7cb52393616ef58fa47/trigger-en.png)
+![trigger](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/master-data/master-data-v1-triggers/creating-trigger-in-master-data_1.png)
 
 ### Action that fires the trigger
 
@@ -120,11 +118,9 @@ In this section, you must set the conditions that will fire the event(s) configu
 
    Select which fields and values are accepted or not for the trigger to be fired.
 
-   ![filters-en](//images.ctfassets.net/alneenqid6w5/go7XW0mqWsuA4ygwYsoMS/c0d93fda52ba199ee2101c62028d1c33/filters-en.png)
+   ![filters-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/master-data/master-data-v1-triggers/creating-trigger-in-master-data_2.png)
 
-<div class="alert alert-info">
-  <p>Master Data v1 does not allow the configuration of trigger reattempts, unlike Master Data v2.</p>
-</div>
+> ℹ️ Master Data v1 does not allow the configuration of trigger reattempts, unlike Master Data v2.
 
 ### Schedule
 
@@ -142,7 +138,7 @@ In this tab, you must configure the events to be triggered if the record that tr
 
 Sends an email to dynamic (specified in the record) or static recipients. The email content can be customized to include text, HTML, or even URL content. You can also add attachments, and the **Valid tags** field shows how to enter field values in the record.
 
-![send-email-en](//images.ctfassets.net/alneenqid6w5/KsQUtktQoECEMiKEY6EU8/ed63e14a042e2e8b9ec80cc7303b7f00/send-email-en.png)
+![send-email-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/master-data/master-data-v1-triggers/creating-trigger-in-master-data_3.png)
 
 #### Send an email using a VTEX Message Center template
 
@@ -158,7 +154,7 @@ Sends an HTTP request, allowing you to save the response details in Master Data.
 
 Complete the **Request information** section with the request details you want to send. In the **Response action** section, you can indicate how the response details should be saved in Master Data.
 
-![http-request-en](//images.ctfassets.net/alneenqid6w5/5uIXuDHBecTzuJxi0mnjWv/63d495ea6217ad26f62c5d1f26b4d299/http-request-en.png)
+![http-request-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/master-data/master-data-v1-triggers/creating-trigger-in-master-data_4.png)
 
 To configure the **Response action**, select the desired data entity and set the corresponding JSON path in the response for each field to be saved.
 

@@ -33,22 +33,22 @@ The following table shows the availability and service SLAs, which are global st
     <tr class="bb b--muted-3">
       <td style="background-color: white;">Urgent</td>
       <td style="background-color: white;">1 hour</td>
-      <td style="background-color: white;">Your VTEX store in production is unavailable or completely unusable, with all clients or all regions affected. <br><br><em>Example: VTEX returning error 502 for all users.</em></td>
+      <td style="background-color: white;">Your VTEX store in production is unavailable or completely unusable, with all clients or all regions affected. <br><br>*Example: VTEX returning error 502 for all users.*</td>
     </tr>
     <tr class="bb b--muted-3">
       <td style="background-color: white;">High</td>
       <td style="background-color: white;">2-4 hours</td>
-      <td style="background-color: white;">Important features of your VTEX store are unavailable or extremely slow, with no viable workaround. <br><br><em>Example: A promotion fails to apply, or products fail to sync from a seller to a marketplace.</em></td>
+      <td style="background-color: white;">Important features of your VTEX store are unavailable or extremely slow, with no viable workaround. <br><br>*Example: A promotion fails to apply, or products fail to sync from a seller to a marketplace.*</td>
     </tr>
     <tr class="bb b--muted-3">
       <td style="background-color: white;">Normal</td>
       <td style="background-color: white;">4-8 hours</td>
-      <td style="background-color: white;">Important features of your VTEX store are unavailable or slow, but a viable workaround exists. <br><br><em>Example: A known issue impacts your store, but a temporary solution is in place.</em></td>
+      <td style="background-color: white;">Important features of your VTEX store are unavailable or slow, but a viable workaround exists. <br><br>*Example: A known issue impacts your store, but a temporary solution is in place.*</td>
     </tr>
     <tr class="bb b--muted-3">
       <td style="background-color: white;">Low</td>
       <td style="background-color: white;">8-12 hours</td>
-      <td style="background-color: white;">Finance-related tickets, tasks, or questions about features or documentation. <br><br><em>Example: "Can you set up local holidays on the platform?"</em></td>
+      <td style="background-color: white;">Finance-related tickets, tasks, or questions about features or documentation. <br><br>*Example: "Can you set up local holidays on the platform?"*</td>
     </tr>
   </tbody>
 </table>
@@ -66,9 +66,7 @@ Urgent tickets report critical issues with direct impact on sales. The following
 | Unable to fulfill orders | Order status not being updated Order feed or hook not working |
 | Store usability unavailable | Users can't add items to the cart Users can't register on the site Internal search with no response |
 
-<div class="alert alert-warning">
-Urgent tickets will receive emergency support exclusively via <a href="https://help.vtex.com/en/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM">Zendesk</a>.
-</div>
+> ⚠️ Urgent tickets will receive emergency support exclusively via [Zendesk](https://help.vtex.com/en/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM).
 
 ## Ticket priority classification
 

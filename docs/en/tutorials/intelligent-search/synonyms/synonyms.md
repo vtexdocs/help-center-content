@@ -38,15 +38,11 @@ You can create two types of synonyms: unidirectional and bidirectional. Here's h
 
 Learn more about adding synonyms in [Creating synonyms](https://help.vtex.com/en/tutorial/creating-synonyms--5IfjhvjxNAvJGEWNn0AhOA).
 
-<div class="alert alert-warning">
-  <p>After registration or modification, a synonym can take up to two hours to reflect in the store.</p>
-</div>
+> ⚠️ After registration or modification, a synonym can take up to two hours to reflect in the store.
 
 ## Best practices
 
-<div class="alert alert-danger">
-  <p>Don't use <a href="https://help.vtex.com/pt/tutorial/otimizar-as-buscas-com-palavras-substitutas--32FqSsl5VuQyiIMEc02Uwu">substitute words</a> from the product/SKU in the Catalog with Intelligent Search. Instead, use only the synonym feature, which allows for more scalable management of terms per product.</p>
-</div>
+> ❗ Don't use [substitute words](https://help.vtex.com/pt/tutorial/otimizar-as-buscas-com-palavras-substitutas--32FqSsl5VuQyiIMEc02Uwu) from the product/SKU in the Catalog with Intelligent Search. Instead, use only the synonym feature, which allows for more scalable management of terms per product.
 
 ### Results sorting
 
@@ -74,9 +70,7 @@ Here are some examples of synonym configurations:
 | `shoe ⇄ shoes` | Bidirectional | ❌ Redundant configuration. Intelligent Search automatically corrects variations like this. |
 | `running shoes ⇄ shoes for running` | Bidirectional | ❌ Redundant configuration. Intelligent Search automatically corrects variations like this. |
 
-<div class="alert alert-info">
-  <p>The <a href="https://help.vtex.com/pt/tutorial/sinonimos-inteligentes--1rR47Kk96UgFYwh8dkDG7i">Intelligent Synonyms</a> feature generates term recommendations for adding synonyms, in addition to manual configuration. If you are interested in implementing this feature, please contact our <a href="https://support.vtex.com/hc/pt-br/requests">Support team</a>. Extra fees may apply in the future.</p>
-</div>
+> ℹ️ The [Intelligent Synonyms](https://help.vtex.com/pt/tutorial/sinonimos-inteligentes--1rR47Kk96UgFYwh8dkDG7i) feature generates term recommendations for adding synonyms, in addition to manual configuration. If you are interested in implementing this feature, please contact our [Support team](https://support.vtex.com/hc/pt-br/requests). Extra fees may apply in the future.
 
 ## Learn more
 

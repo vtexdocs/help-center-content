@@ -15,9 +15,7 @@ locale: en
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-<div class="alert alert-warning">
-This is a marketplace payment solution.
-</div>
+> ⚠️ This is a marketplace payment solution.
 
 To guarantee that our [marketplace](https://help.vtex.com/en/tutorial/what-is-a-marketplace--680lLJTnmEAmekcC0MIea8) clients automatically divide the payment between all [sellers](https://help.vtex.com/en/tutorial/what-is-a-seller--5FkLvhZ3Few4CWWIuYOK2w), set a commission based on a fixed percentage, and remain operating in accordance with current regulations, VTEX offers the __Split Payment__.
 
@@ -26,9 +24,7 @@ Below are two examples of split payment application scenarios where a consumer a
 1. When the marketplace is responsible for processing payment for the purchase, VTEX automatically divides this payment so that each beneficiary receives their share directly into their own bank account, thus carrying out the [Payout Split](https://help.vtex.com/tutorial/split-payment--6k5JidhYRUxileNolY2VLx#payout-split).
 2. When the cart involves sellers who are responsible for processing their own payment method (without depending on the marketplace), VTEX creates different payment transactions for the Marketplace and the sellers, performing the [Transaction Split](https://help.vtex.com/tutorial/split-payment--6k5JidhYRUxileNolY2VLx#transaction-split).
 
-<div class="alert alert-warning">
-The distribution of purchase amounts is always carried out in accordance with pre-defined commission percentage agreements between the marketplace and sellers.
-</div>
+> ⚠️ The distribution of purchase amounts is always carried out in accordance with pre-defined commission percentage agreements between the marketplace and sellers.
 
 Check below for more details about each of the split payment models:
 
@@ -55,11 +51,11 @@ For example, a shopper adds two products to the same shopping cart. One of them 
 
 __The payment is distributed as follows:__
 
-![Payout Split](//images.ctfassets.net/alneenqid6w5/2Pqz4t4XkfA1WGZOi1VCX0/1694e5c9947473a360e50010881fee70/PAYOUT.png)
+![Payout Split](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/payment-settings/split-payment_1.png)
 
 As you can see, our Gateway calculates and distributes payouts for each recipient when the order is invoiced and sends that info to the payment provider. The distribution is done according to the amount destined to each merchant in the order and the commissions taken by the marketplace.
 
-![Receivables](//images.ctfassets.net/alneenqid6w5/1rJ1dG3TMX9UqjPr5H4GMR/1b024e71291ab003f9b6379d0ffcecca/RECEBIVEIS.png)
+![Receivables](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/payment-settings/split-payment_2.png)
 
 Our __Payout Split__ solution has some limitations that are important to consider:
 
@@ -86,11 +82,11 @@ Meaning that the marketplace has less control over the payment flow. Unlike the 
 
 For example, a shopper adds two products to the same shopping cart. One of them will be fulfilled by the marketplace itself and the other one belongs to a seller called __Seller A__.
 
-![Transaction Split](//images.ctfassets.net/alneenqid6w5/3uiBeqiyYlaneMksnW4G0v/8a47d871bdc64ccec3d812b4449b053e/TRANSACTION.png)
+![Transaction Split](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/payment-settings/split-payment_3.png)
 
 In the __Transaction Split__, the marketplace has no need to make any configuration. The seller is the one that needs to configure their own payment method in the affiliation with a given marketplace. Find out more at [Send the Seller White Label payment methods to the Marketplace](https://help.vtex.com/en/tutorial/send-the-seller-white-label-payment-methods-to-the-marketplace--bfvtPzZyikacSqgkgeGW). 
 
-![Report](//images.ctfassets.net/alneenqid6w5/3YX8MmCPvAWyJpZ7tFAHt4/7276a3b6c1ff1cf1d4d6fe5ccd7bdba9/REPORT.png)
+![Report](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/payment-settings/split-payment_4.png)
 
 The transaction split has a few __limitations__ that must be taken into account:
 

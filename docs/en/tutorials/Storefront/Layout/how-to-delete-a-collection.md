@@ -15,9 +15,7 @@ locale: en
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
-<div class = "alert alert-warning" >
-  <p><b>Warning:</b> there are two ways to configure collections, through the CMS or the Collection module. This article is about how to <a href = "https://help.vtex.com/en/tutorial/adding-collections-cms--2YBy6P6X0NFRpkD2ZBxF6L">configure collections through the CMS</a>.</p>
-</div>
+> ⚠️ **Warning:** there are two ways to configure collections, through the CMS or the Collection module. This article is about how to <a href = "https://help.vtex.com/en/tutorial/adding-collections-cms--2YBy6P6X0NFRpkD2ZBxF6L">configure collections through the CMS</a>.
 
 ## Via Admin
 You can not delete a collection altogether via Admin.

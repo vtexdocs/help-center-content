@@ -15,4 +15,4 @@ locale: en
 subcategoryId: 3TASbcSqDuDZwmgDLc0O5I
 ---
 
-<div class="alert alert-warning" role="alert">Content under translation.</div>
+> ⚠️ Content under translation.

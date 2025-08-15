@@ -15,9 +15,7 @@ locale: en
 subcategoryId: 6iTRZiMeCGXYiO2ckABFZi
 ---
 
-<div class = "alert alert-info">
-This module is in Beta, which means we are working on improving it. If you have any questions, please contact our <a href="https://help.vtex.com/en/support">Support team</a>.
-</div>
+> ℹ️ This module is in Beta, which means we are working on improving it. If you have any questions, please contact our [Support team](https://help.vtex.com/en/support).
 
 Creating promotions is a great strategy to attract more customers to your ecommerce website. When configuring them, you must ensure that the discounts applied will produce the expected results since mistakes during the promotion creation can lead to revenue losses.
 
@@ -29,7 +27,7 @@ Suppose you only configure the email alert action, further orders with the unwan
 
 To access the page in the VTEX Admin, go to *Promotions > Promotion Alert*. You will see the following interface:
 
-![simuladordepromocoes gerenciar](//images.ctfassets.net/alneenqid6w5/4E0oZf13zNjKgj5MNRYiuf/94c9af89ae0bad5601b316dfc73a6caf/simuladordepromocoes_gerenciar.gif)
+![simuladordepromocoes gerenciar](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/promotions-beta/promotion-alerts-beta_1.gif)
 
 The table below shows the column descriptions for the promotion list:
 
@@ -38,7 +36,7 @@ The table below shows the column descriptions for the promotion list:
 | Name | Promotion alert name. |
 | Alert | Condition set to trigger the alert. |
 | Preemptive Action | Actions that will be performed when the alert is triggered. |
-| Status | Promotion status, which can be: <p><strong> Active:</strong> when the alert is active. </p> <p> <strong>Inactive:</strong> when the alert is inactive. </p> |
+| Status | Promotion status, which can be: ** Active:** when the alert is active.   **Inactive:** when the alert is inactive.  |
 
 The Promotion Alerts page allows you to:
 

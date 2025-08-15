@@ -19,19 +19,17 @@ __Device Fingerprint__ is an identifier that acts in payment processing to impro
 
 By collecting non-sensitive data, Device Fingerprint identifies and analyzes the security level of the device used to perform a given transaction. It also analyzes transactions previously performed with that device.
 
-<div class="alert alert-info">
-Each store must have only one Device Fingerprint registered. Check if you have already registered the Device Fingerprint in another connector, before proceeding with the steps below.
-</div>
+> ℹ️ Each store must have only one Device Fingerprint registered. Check if you have already registered the Device Fingerprint in another connector, before proceeding with the steps below.
 
 This article will explain how to associate the Device Fingerprint feature with the Braspag affiliation.
 
-<div class="alert alert-info">The settings documented in this article take place in an environment that is external to VTEX, therefore they may be outdated.</div>
+> ℹ️ The settings documented in this article take place in an environment that is external to VTEX, therefore they may be outdated.
 
 To enter the device fingerprint scripts required by Braspag/CyberSource, you will need to use Google Tag Manager. To do so, go to [http://www.google.com/tagmanager](http://www.google.com/tagmanager/) and access your account.
 
 ## Creation of variables (macros) and driver
 
-- Create a variable named `trasactionPaymentId`, ype **Variável da camada de dados**, by reading the detalayer `transactionPayment.id` variable.[]![](https://images.contentful.com/alneenqid6w5/2iGloCXR32IMAyWAKe8qWy/cf1108ad17e944adc63f189e67cfa93d/gtm-cybersource-variavel1-1.png)
+- Create a variable named `trasactionPaymentId`, ype **Variável da camada de dados**, by reading the detalayer `transactionPayment.id` variable.[]![](//images.contentful.com/alneenqid6w5/2iGloCXR32IMAyWAKe8qWy/cf1108ad17e944adc63f189e67cfa93d/gtm-cybersource-variavel1-1.png)
 - Create a variable named `cs_sessionId`, of type **JavaScript personalizado** and the following code:
 
 ```
@@ -43,11 +41,11 @@ function() {
 
 - Create the variables `cs_orgId` and `cs_merchantId` of type **Permanente.** The values of these two variables should be filled out with the contents informed by Braspag.
 
-![gtm-cybersource-variavel3-permanente](https://images.contentful.com/alneenqid6w5/5EFSTIM6TCKUE4GEOA66kc/8c2f37cdd8cc94571f6f2ac72ec1d35b/gtm-cybersource-variavel3-permanente.png)
+![gtm-cybersource-variavel3-permanente](//images.contentful.com/alneenqid6w5/5EFSTIM6TCKUE4GEOA66kc/8c2f37cdd8cc94571f6f2ac72ec1d35b/gtm-cybersource-variavel3-permanente.png)
 
 - Create or edit a driver for the orderPlaced screen (screen that shows purchases successfully closed) for it to be compatible with the **Evento personalizado** type and the **orderPlaced** value.
 
-![gtm-cybersource-acionador-orderplaced](https://images.contentful.com/alneenqid6w5/51IPOyaAjmowkEQ24sYyw4/7b11cddfb71c200dd1cd2c85149c7726/gtm-cybersource-acionador-orderplaced.png)
+![gtm-cybersource-acionador-orderplaced](//images.contentful.com/alneenqid6w5/51IPOyaAjmowkEQ24sYyw4/7b11cddfb71c200dd1cd2c85149c7726/gtm-cybersource-acionador-orderplaced.png)
 
 ## Creation of a Braspag tag
 
@@ -57,7 +55,7 @@ function() {
 Fill it out with the HTML below:
 
 ```
-<p style="background:url(https://h.online-metrix.net/fp/clear.png?org_id={{cs_orgId}}&amp;session_id={{cs_merchantId}}{{cs_sessionId}}&amp;m=1)"></p>
+<p style="background:url(https://h.online-metrix.net/fp/clear.png?org_id={{cs_orgId}}&amp;session_id={{cs_merchantId}}{{cs_sessionId}}&amp;m=1)">
 <img src="https://h.online-metrix.net/fp/clear.png?org_id={{cs_orgId}}&amp;session_id={{cs_merchantId}}{{cs_sessionId}}&amp;m=2" alt="">
 
 <object type="application/x-shockwave-flash" data="https://h.online-metrix.net/fp/fp.swf?org_id={{cs_orgId}}&amp;session_id={{cs_merchantId}}{{cs_sessionId}}" width="1" height="1"id="thm_fp">

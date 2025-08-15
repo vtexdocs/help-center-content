@@ -17,9 +17,7 @@ subcategoryId: 1E7tziZCkY4w8i4EmUuwec
 
 In VTEX Admin, you can register a similar category at product level or category level, as shown in the next sections.  
 
-<div class = "alert alert-info">
-  <p>To register a similar category at via Catalog API, use the <a href="https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/product/-productId-/similarcategory/-categoryId-">Add similar category</a> endpoint.</p>
-</div>
+> ℹ️ To register a similar category at via Catalog API, use the [Add similar category](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/product/-productId-/similarcategory/-categoryId-) endpoint.
 
 ## Configuring similar category at product level
 
@@ -38,9 +36,7 @@ To configure a similar category at product level, follow the steps below:
 
 ## Configuring similar category within a category
 
-<div class="alert alert-warning">
-  <p>This setting is only compatible with stores using <a href="https://help.vtex.com/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj">Legacy CMS Portal</a>.</p>
-</div>
+> ⚠️ This setting is only compatible with stores using [Legacy CMS Portal](https://help.vtex.com/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj).
 
 When editing a category, you can set up its like category. When you complete this kind of configuration at category level, the navigation menu will display a link to the similar category at the original category level.
 

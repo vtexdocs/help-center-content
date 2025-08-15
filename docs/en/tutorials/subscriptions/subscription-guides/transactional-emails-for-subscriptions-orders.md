@@ -29,9 +29,7 @@ You can also [create your own email template](https://help.vtex.com/en/tutorial/
 
 ## How your customer tracks their subscription orders
 
-<div class = "alert alert-info">
-In <a href="https://help.vtex.com/en/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh">My Account</a>, customers can only access their orders from the last two years.
-</div>
+> ℹ️ In [My Account](https://help.vtex.com/en/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh), customers can only access their orders from the last two years.
 
 Each action that occurs within the **Subscriptions** order flow contains a trigger that sends an email notifying your customer. After activating the subscription, your customer will receive emails with details of the status of each subscription order every time they perform an action.
 
@@ -52,7 +50,7 @@ The table below shows the default email templates for **Subscriptions**:
 | Paused subscription | `paused-subscription` | Subscription paused. |
 | Canceled Subscription | `canceled-subscription` | Subscription successfully canceled. |
 | Expired Subscription | `expired-subscription` | Subscription period expired. |
-| New Subscription | `new-subscription` | <p>Subscription successfully created.<br><br><div class="alert alert-info">There is a delay between the subscription creation and the triggering of the `new-subscription` template notification.</div></p> |
+| New Subscription | `new-subscription` | Subscription successfully created.<br><br>> ℹ️ There is a delay between the subscription creation and the triggering of the `new-subscription` template notification. |
 | Next Subscription Order Reminder | `next-subscription-order-reminder` | Reminder that the next subscription purchase date will be in two days. |
 | Payment not approved | `payment-not-approved` | Subscription order payment not approved. |
 | Reactivated Subscription | `reactivated-subscription` | Subscription reactivated. |

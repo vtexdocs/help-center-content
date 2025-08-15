@@ -15,15 +15,7 @@ locale: en
 subcategoryId: 23WdCYqmn2V2Z7SDlc14DF
 ---
 
-<div class="alert alert-info">
-  <p>This feature is in closed beta, and only participating customers can access it.
-If you're a VTEX client and want to adopt this feature for your business, please
-contact <a
-href="https://help.vtex.com/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ">Commercial
-Support</a>. Additional fees may apply. If you're not a VTEX client but are
-interested in this solution, please complete our <a
-href="https://vtex.com/en-us/contact/">contact form</a>.</p>
-</div>
+> ℹ️ This feature is in closed beta, and only participating customers can access it. If you're a VTEX client and want to adopt this feature for your business, please contact [Commercial Support](https://help.vtex.com/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ). Additional fees may apply. If you're not a VTEX client but are interested in this solution, please complete our [contact form](https://vtex.com/en-us/contact/).
 
 The Intelligent Search hybrid search feature combines the precision of lexical techniques with the intelligence of semantic search models to provide a relevant and seamless experience that aligns with user intent.
 

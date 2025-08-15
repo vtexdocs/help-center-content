@@ -22,9 +22,7 @@ See below for the main differences between order split and package split scenari
 * **[Order split](#order-split)**: occurs when more than one seller fulfills the same purchase. This means that if a single purchase will be fulfilled by three sellers, three orders will be generated.
 * **[Delivery split](#package-split-delivery-split)**: occurs when there is more than one delivery for an order. For example, when a single seller is responsible for delivery, but the order is delivered in more than one shipment.
 
-<div class = "alert alert-info">
-Whenever there is an order split, there is a delivery split. In addition, a seller may choose to split the same order into more than one package; thus, at the end of the purchase, the number of packages will always be greater than or equal to the number of orders generated.
-</div>
+> ℹ️ Whenever there is an order split, there is a delivery split. In addition, a seller may choose to split the same order into more than one package; thus, at the end of the purchase, the number of packages will always be greater than or equal to the number of orders generated.
 
 To facilitate the identification of cases in which there are order splits and delivery splits, see some examples below:
 
@@ -52,8 +50,6 @@ The order is fulfilled by a single seller, but more than one delivery is require
 
     This split is done automatically and natively for stores that have Checkout V6, through the `allowMultipleDeliveries` field indicated as `true` in the API [Update orderForm configuration](https://developers.vtex.com/docs/api-reference/checkout-api#post-/api/checkout/pvt/configuration/orderForm). The configuration is enabled by default so that it is possible to make purchases with different delivery methods in the same cart.
 
-<div class="alert alert-danger">
-  We do not recommend operating the store with the <code>allowMultipleDeliveries</code> field indicated as <i>false</i>. In this configuration, when there are items in the cart that do not have any delivery method in common, that is, the SLAIDs are different, and the cart has a pickup-point, it will not be possible to complete the order.
-</div>
+> ❗ We do not recommend operating the store with the `allowMultipleDeliveries` field indicated as *false*. In this configuration, when there are items in the cart that do not have any delivery method in common, that is, the SLAIDs are different, and the cart has a pickup-point, it will not be possible to complete the order.
 
 * **Different loading docks:** a single store offers all the items in an order, but in the calculated logistic route they are related to different docks. Then, _the delivery packages must be split_, but without splitting the order between different stores. The platform does this automatically.

@@ -35,7 +35,7 @@ In all VTEX IO stores, you can configure these parameters natively by following 
   - **Meta description tag**: Provide a brief description of the page's content. It should be informative and contain relevant keywords.
   - **Meta robots tag**: Specify how search engines should crawl and index a specific page. The default values are `index, follow`. For additional values compatible with Google, see the [list of valid rules](https://developers.google.com/search/docs/crawling-indexing/robots-meta-tag#directives). 
 
-  ![seo-en](//images.ctfassets.net/alneenqid6w5/4JajNswh0yiVmfWvsPWbEa/b545a83de82a94a5551a222f9b15b5a5/seo-en.png)
+  ![seo-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Storefront/store-settings---storefront/configuring-seo-in-your-store_1.png)
 
 ### Favicons
 
@@ -43,7 +43,7 @@ In all VTEX IO stores, you can configure these parameters natively by following 
 2. Click the **General** tab.
 3. Click **Add**.
 
-  ![favicon-en](//images.ctfassets.net/alneenqid6w5/3NtSCr6cKVn7dDqsXn8jBN/bba39b30bedfe404b3111a06853a42de/favicons-en.png)
+  ![favicon-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Storefront/store-settings---storefront/configuring-seo-in-your-store_2.png)
 
 4. A new screen will open for completion based on the following guidelines:
 
@@ -54,10 +54,10 @@ In all VTEX IO stores, you can configure these parameters natively by following 
 
     See the example below:
 
-    ![relacao-favicon-en](//images.ctfassets.net/alneenqid6w5/4gJkfubRqf9lhtRiryrMMA/9d4f662c2be71d1d33ec68495b594049/relacao-favicon-en.png)
+    ![relacao-favicon-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Storefront/store-settings---storefront/configuring-seo-in-your-store_3.png)
 
 5. Click **Apply** to reflect the settings in your store. This process may take a few minutes.
 
 <div style="background-color:#DBEAFE; border-left: 2px solid ##1E3A8A; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px; margin-bottom: 10px">
-The <strong>Search term path</strong> field is a legacy setting that was compatible with <code>vtex.search-resolver@0.x</code>.
+The **Search term path** field is a legacy setting that was compatible with `vtex.search-resolver@0.x`.
 </div>

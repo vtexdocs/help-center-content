@@ -21,17 +21,13 @@ On VTEX, your store can receive payments made with __Notes Payable__. To enable 
 2. [Notes Payable setup](#notes-payable-setup)
 3. [Setting up the payment condition](#setting-up-the-payment-condition)
 
-<div class="alert alert-warning">
-  The information in this article does not refer to the <b>Promissory</b> or <b>CardPromissory</b> payment conditions available in the Admin in <b>Store Settings > Payment > Settings > Payment Conditions</b>.
-</div>
+> ⚠️ The information in this article does not refer to the **Promissory** or **CardPromissory** payment conditions available in the Admin in **Store Settings > Payment > Settings > Payment Conditions**.
 
 ## Setting up a payment provider
 
 To set up a payment provider,  access [Register payment and anti-fraud providers](https://help.vtex.com/en/tutorial/registering-gateway-affiliations--tutorials_444).
 
-<div class="alert alert-warning">
-Check that the desired payment provider supports Notes Payable payment processing.
-</div>
+> ⚠️ Check that the desired payment provider supports Notes Payable payment processing.
 
 ## Notes Payable Setup
 
@@ -50,7 +46,7 @@ After registering the payment provider, follow the steps below:
 - __Automatic invoicing:__ number of days for the system to invoice the Note Payable after payment authorization. By default, Notes Payable are invoiced upon payment authorization. If this field is set to __Yes__, invoicing will no longer occur upon authorization but after the number of days you have determined.<br>
 
 <ul> 
-5. Click on <b>Save</b>.
+5. Click on **Save**.
   </ul>
 
 ## Setting up the payment condition

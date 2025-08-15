@@ -27,25 +27,24 @@ On VTEX, buying organizations (B2B) can create an allocation rule that allows th
 
 To assign sellers to a particular buying organization, follow the steps below:
 <ol>
-<li>In the VTEX Admin, go to <b>Apps > B2B Organizations & Cost Centers > Organizations</b>, or type <b>Organizations</b> in the search bar at the top of the page.</li>
-<li>In the <b>Organizations</b> tab, click the name of the desired buying organization.</li>
+<li>In the VTEX Admin, go to **Apps > B2B Organizations & Cost Centers > Organizations**, or type **Organizations** in the search bar at the top of the page.</li>
+<li>In the **Organizations** tab, click the name of the desired buying organization.</li>
 
-![Organization](//images.ctfassets.net/alneenqid6w5/1b6R9emKupGC3gv6BqKPbG/c127c65c00d63077e2a61463b8fcc2d7/ORGANIZACOES_-_EN.jpg)
+![Organization](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/B2B/organization-details/configuring-seller-allocation-for-buying-xky_1.jpg)
 
-<li>In the <b>Sellers</b> tab, under <b>Disponible</b>, select the desired sellers.</li>
+<li>In the **Sellers** tab, under **Disponible**, select the desired sellers.</li>
 
-![Details Organization](//images.ctfassets.net/alneenqid6w5/185XmP4eH8WdgFT5T7CONb/860e494a5cb6ed7c25ed7f7423ae082e/ORGANIZACOES-DETALHES2_-_EN__com_clique_.jpg)
+![Details Organization](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/B2B/organization-details/configuring-seller-allocation-for-buying-xky_2.jpg)
 
-<li>Click the <b>ADD TO ORG</b> button.</li>
+<li>Click the **ADD TO ORG** button.</li>
 
-![Details Organizations 2](//images.ctfassets.net/alneenqid6w5/2assMBtPIxiA80ldC1yNwu/ba7c7629dda12d95e114ecb0570e4927/ORGANIZACOES-DETALHES2_-_EN.jpg)
+![Details Organizations 2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/B2B/organization-details/configuring-seller-allocation-for-buying-xky_3.jpg)
 
-<li>Click <b>Save</b>.</li>
+<li>Click **Save**.</li>
 
 From now on, whenever the organization searches on the VTEX platform, only the products from the sellers assigned to it will be displayed.
 </ol>
 
-<div class="alert alert-warning">
-Buying organizations that do not assign sellers will be able to access information and purchase from all the sellers available on the marketplace.</div>
+> ⚠️ Buying organizations that do not assign sellers will be able to access information and purchase from all the sellers available on the marketplace.
 
 For more information on how to integrate a new seller, read the[ Adding a seller](https://help.vtex.com/pt/tutorial/adicionar-seller--tutorials_392) article.

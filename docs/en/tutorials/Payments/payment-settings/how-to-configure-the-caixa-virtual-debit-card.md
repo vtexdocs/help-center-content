@@ -15,4 +15,4 @@ locale: en
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-<div class="alert alert-warning" role="alert">Only applicable to the Brazilian market.</div>
+> ⚠️ Only applicable to the Brazilian market.

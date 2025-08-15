@@ -44,9 +44,7 @@ Trade policies are required to differentiate products and/or prices in each stor
 
 To allow customers to access the new store, follow the instructions below to create a website by copying the folder structure of your main site. This process makes it easier to create the layout and create a new website.
 
-<div class="alert alert-warning">
-Stores developed using Store Framework should also follow these instructions. Otherwise, the new store won't be available.
-</div>
+> ⚠️ Stores developed using Store Framework should also follow these instructions. Otherwise, the new store won't be available.
 
 1. In the VTEX Admin, go to **Storefront > Layout**.
 2. Click **CMS > Sites and channels**.
@@ -57,12 +55,12 @@ Stores developed using Store Framework should also follow these instructions. Ot
 7. Click `Save Website`.
 8. In the **Links** field, click `Add`.
 
-    ![cms-layout](//images.ctfassets.net/alneenqid6w5/4bVAAc3Fs8ArVYy1qSCAnX/2376e2c489b5894681626ef26bf58d47/cms-layout.png)
+    ![cms-layout](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/account-management/accounts/managing-a-multistore_1.png)
 
 9. Complete the **Store name from License Manager** field with the value of the subaccount previously created in the [Account Management] module (#creating-a-store).
 10. Complete the **Available sales channel** field by selecting the trade policies that will be associated with this store.
 
-    <div class="alert alert-warning">If your store uses more than one trade policy, check the sorting of these policies in <strong>Store Settings > Channels > Trade Policies</strong>. To learn more, see <a href="https://help.vtex.com/en/tutorial/managing-a-multistore--4S0lFVBPylRS5KpVgdyDhJ">How the relationship between websites and sales policies works</a>.</div>
+    > ⚠️ If your store uses more than one trade policy, check the sorting of these policies in **Store Settings > Channels > Trade Policies**. To learn more, see [How the relationship between websites and sales policies works](https://help.vtex.com/en/tutorial/managing-a-multistore--4S0lFVBPylRS5KpVgdyDhJ).
 
 11. Click `Save Binding` and then `Save Website`.
 
@@ -74,9 +72,7 @@ To automatically generate the XML file for the new store, follow the instruction
 
 To delete an existing multistore, follow the instructions in the **Deleting a store** section of the guide [Account management](https://help.vtex.com/pt/tutorial/account-details-page--2vhUVOKfCaswqLguT2F9xq#excluir-loja).
 
-<div class="alert alert-warning">
-The name of the deleted subaccount cannot be used again.
-</div>
+> ⚠️ The name of the deleted subaccount cannot be used again.
 
 ## Learn more
 

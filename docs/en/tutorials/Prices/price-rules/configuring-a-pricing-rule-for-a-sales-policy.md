@@ -15,9 +15,7 @@ locale: en
 subcategoryId: wUepkh8pzimEywO8oGUIc
 ---
 
-<div class="alert alert-info">
-This article refers to the latest version of VTEX Pricing. If your store is not yet in this new version, you can request the migration by contacting our support team.
-</div>
+> ℹ️ This article refers to the latest version of VTEX Pricing. If your store is not yet in this new version, you can request the migration by contacting our support team.
 
 A __pricing rule__ is a set of conditions that determine the prices for a certain sales policy.
 

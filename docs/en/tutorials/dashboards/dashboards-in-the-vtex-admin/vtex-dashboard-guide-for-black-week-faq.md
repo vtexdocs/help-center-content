@@ -34,7 +34,7 @@ Below are some tips to best leverage this feature:
 
 Start by setting the desired time zone and selecting the store you want to monitor in the real-time Overview.    
 
-![timezone-en](//images.ctfassets.net/alneenqid6w5/7sfMnNC4GYLOU0tiiunxvR/3693d76ead0495c35a66f8c099d60f9c/timezone-en.png)  
+![timezone-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/dashboards/dashboards-in-the-vtex-admin/vtex-dashboard-guide-for-black-week-faq_1.png)  
 
 ### Reference filter  
 
@@ -47,23 +47,21 @@ To configure the reference filter, follow these steps:
 3. Set a date.  
 4. Click `Apply`.  
 
-<div class="alert alert-warning">
-A useful comparison during Black Week is with the same date last year. In the reference filter, select a date between November 21, 2022 and November 27, 2022, ideally the same days of the week. <br>This option is available for clients who were already using the VTEX platform during that period last year.</br>
-</div>
+> ⚠️ A useful comparison during Black Week is with the same date last year. In the reference filter, select a date between November 21, 2022 and November 27, 2022, ideally the same days of the week. <br>This option is available for clients who were already using the VTEX platform during that period last year.</br>
 
-![reference-en](//images.ctfassets.net/alneenqid6w5/1ba2BbD9ANCJfHj5o4jwQC/2d4ca5424f4c45e4e8104f37ca11186d/reference-en.png)
+![reference-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/dashboards/dashboards-in-the-vtex-admin/vtex-dashboard-guide-for-black-week-faq_2.png)
 
 ### View filter  
 
 - **Track the day’s performance with the cumulative view:** Use the **cumulative view** to monitor the sales performance of your ecommerce website minute by minute. This will provide insights that will enable quick operation adjustments.  
 To select the **cumulative view** in the dashboard, click **View<i class="fas fa-angle-down"></i> > Accumulated.**  
 
-![accumulated-en](//images.ctfassets.net/alneenqid6w5/12S4L4jhi6FwkoW3TsNnAP/573168bd8086f888f6f98cddc84c0e6c/accumulated-en.png)
+![accumulated-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/dashboards/dashboards-in-the-vtex-admin/vtex-dashboard-guide-for-black-week-faq_3.png)
 
 - **Track performance in the last hours:** **The Last 2 hours view** shows the metrics isolated minute by minute, which is important for guaranteeing the operational stability of your store during the event.  
 To select **Last 2 hours** in the dashboard, click **View<i class="fas fa-angle-down"></i> > Last 2 hours.**  
 
-![hours-en](//images.ctfassets.net/alneenqid6w5/7lFOUhQFyRgGFjooVOuvDy/119053d48e6874dcfd5905473e754c17/hours-en.png)
+![hours-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/dashboards/dashboards-in-the-vtex-admin/vtex-dashboard-guide-for-black-week-faq_4.png)
 
 ### Metrics  
 
@@ -71,11 +69,9 @@ The real-time Overview provides important insights into your sales strategy. For
 
 To view the best-selling products, in the **Metrics** section click the <i class="fas fa-ellipsis-v"></i> button and select **Best-selling products.**  
 
-![best-selling-en](//images.ctfassets.net/alneenqid6w5/1sooXuFeV0NyhByWoLegHb/61ac987b15602d8dfd633019a448fa04/best-selling-en.png)
+![best-selling-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/dashboards/dashboards-in-the-vtex-admin/vtex-dashboard-guide-for-black-week-faq_5.png)
 
-<div class="alert alert-warning">
-For analyzing or monitoring longer periods, we recommend using our Sales Performance dashboard, which will be explained in the next question.
-  </div>
+> ⚠️ For analyzing or monitoring longer periods, we recommend using our Sales Performance dashboard, which will be explained in the next question.
 
 ## How can I track my ecommerce data beyond today?  
 
@@ -86,7 +82,7 @@ The VTEX Sales Performance dashboard is the right tool for normal monitoring of 
 - **Date**  
 When you go to the dashboard, the first step is to set the date for **Main period** and **Compared with.** If you’re running an analysis after Black Week, select Last week to compare with last year's Black Week (available if you were a VTEX client at that time). During Black Week, select Custom date and set the specific days to analyze.  
 
-![sales-date-en](//images.ctfassets.net/alneenqid6w5/1ohgIwKBI0qsKrScdHUdE4/05805210036ffecd73251cc0d8581eb7/sales-date-en.png)  
+![sales-date-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/dashboards/dashboards-in-the-vtex-admin/vtex-dashboard-guide-for-black-week-faq_6.png)  
 
 - **Combined filters**  
 The data displayed on the Sales Performance dashboard can be segmented using combined filters, such as category. To add a new filter, follow the steps below:  
@@ -98,7 +94,7 @@ The data displayed on the Sales Performance dashboard can be segmented using com
 
 You can explore other filters based on the needs and specific aspects of your ecommerce operation.  
 
-![add-filter-en](//images.ctfassets.net/alneenqid6w5/71V1UF9tUvs1BtIFw9BRgZ/fa01df4adc0b1a05a20225da3ccb7bc8/add-filter-en.png)  
+![add-filter-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/dashboards/dashboards-in-the-vtex-admin/vtex-dashboard-guide-for-black-week-faq_7.png)  
 
 ### Metrics  
 
@@ -111,22 +107,22 @@ During Black Week, this dashboard can be used to analyze the following performan
 - Average ticket (approved)
 - Orders (canceled)  
 
-![change-metric-en](//images.ctfassets.net/alneenqid6w5/VI0G6Wp0QYu85mUQN9hA9/c08adbff229f6ff0116568228b741bdf/change-metric-en.png)  
+![change-metric-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/dashboards/dashboards-in-the-vtex-admin/vtex-dashboard-guide-for-black-week-faq_8.png)  
 
 - **Week’s performance**  
 After making adjustments, compare the current week's performance with last year's Black Week to identify trends and opportunities.  
 
-![week-performance-en](//images.ctfassets.net/alneenqid6w5/5UOlx5RSYyY9LQbryuMlYw/993675a67d0bb68327994f5250fa8d9d/week-performance-en.png)    
+![week-performance-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/dashboards/dashboards-in-the-vtex-admin/vtex-dashboard-guide-for-black-week-faq_9.png)    
 
 - **Table analysis**  
 Analyze the breakdown table for deeper insights. For example, SKU analysis can reveal which products should be highlighted in future campaigns.  
 
-![table-analysis-en](//images.ctfassets.net/alneenqid6w5/5bcuf4WK9hCMAyrKjfvUUV/c9a20889c76d79221b42972fd1c1dc5c/table-analysis-en.png)  
+![table-analysis-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/dashboards/dashboards-in-the-vtex-admin/vtex-dashboard-guide-for-black-week-faq_10.png)  
 
 - **Save your view**  
 Save your dashboard configuration for future queries. Click **Sales Management > <i class="fas fa-plus"></i>  > Add a name > `Create`** to save your custom view.  
 
-![create-view-en](//images.ctfassets.net/alneenqid6w5/4JFfJdUqSKhh3vqO2Jdq2Q/aefb269aa88b6c50dcf98fa2a92ad197/create-view-en.png)    
+![create-view-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/dashboards/dashboards-in-the-vtex-admin/vtex-dashboard-guide-for-black-week-faq_11.png)    
 
 ## Why are my metrics different from the Orders page in the Admin?  
 
@@ -137,19 +133,17 @@ There are several reasons why metrics in the real-time Overview might differ fro
 - Different refresh rates: The Overview page refreshes every 1 to 3 minutes. Therefore, a slight discrepancy (1 to 3% of the total) between the two pages is common.  
 - Revenue calculation formula: The metrics in Overview don’t consider discounts, shipping, surcharges, and promotions in the revenue calculation, while the Orders page does take these factors into account.  
 
-![change-store-en](//images.ctfassets.net/alneenqid6w5/1REIeF2xgDkIW8JuxjIWwx/1951bcca25915d306c0062c2d69ed361/change-store-en.png)
+![change-store-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/dashboards/dashboards-in-the-vtex-admin/vtex-dashboard-guide-for-black-week-faq_12.png)
 
 To see the data from all stores, use the Sales Performance page, which shows aggregated data with an approximate refresh rate of 90 minutes.  
 
-<div class="alert alert-danger">
-  If your operation uses more than one currency, the <b>Overview dashboard</b> will sum your orders in the currency that is most used in your sales. <br>To make a comparison with the <b>Orders</b> page, you need to sum the order total from all your currencies.</br>
-  </div>
+> ❗ If your operation uses more than one currency, the **Overview dashboard** will sum your orders in the currency that is most used in your sales. <br>To make a comparison with the **Orders** page, you need to sum the order total from all your currencies.</br>
 
-![all-orders-en](//images.ctfassets.net/alneenqid6w5/4tG8VMrSZU45ZRsDHifGPV/70d18cf6c4a5489b7073a610f3dcbe13/all-orders-en.png)  
+![all-orders-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/dashboards/dashboards-in-the-vtex-admin/vtex-dashboard-guide-for-black-week-faq_13.png)  
 
 - **Time zone:** This filter is available in **Overview.** If you use a time zone that is different from the Orders page default (which is your current time zone), the metrics will not match. Adjust the time zone as needed.  
 
-![timezone-en](//images.ctfassets.net/alneenqid6w5/3PQegjpVrlr4JlBs7fR2Cv/2a62c6b5c8883593286347b27a87fb6d/sales-timezone-en.png)  
+![timezone-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/dashboards/dashboards-in-the-vtex-admin/vtex-dashboard-guide-for-black-week-faq_14.png)  
 
 ## Why don't I have session or conversion rate data?  
 
@@ -159,7 +153,7 @@ However, it’s important to note that our script does not capture data from ses
 
 If you notice this data is missing, it may be due to these limitations. We recommend checking the script settings and any frontend customizations that might be affecting data capture.  
 
-![sales-overview-en](//images.ctfassets.net/alneenqid6w5/2Lywp5C24kGVVhUHriyug8/a3b342736ed0ba9f09c79eed98be6066/sales-overview-en.png)  
+![sales-overview-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/dashboards/dashboards-in-the-vtex-admin/vtex-dashboard-guide-for-black-week-faq_15.png)  
 
 ## Why don't my conversion rate, new sessions, or sales funnel metrics match the numbers from my internal tools?  
 
@@ -177,8 +171,8 @@ To determine which currency to display, we assess the most used currency in onli
 
 As a result, if you operate with more than one currency, you need to sum the total orders from the Admin Orders page across all your currencies to match the order data shown in the real-time Overview.  
 
-![all-orders-en](//images.ctfassets.net/alneenqid6w5/4tG8VMrSZU45ZRsDHifGPV/70d18cf6c4a5489b7073a610f3dcbe13/all-orders-en.png)  
-![monitoring-en](//images.ctfassets.net/alneenqid6w5/3Kmi0wL5ie28LIIFZlLIzN/97d4da4d04313aec7d1cdd95de40378b/monitoring-en.png)  
+![all-orders-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/dashboards/dashboards-in-the-vtex-admin/vtex-dashboard-guide-for-black-week-faq_16.png)  
+![monitoring-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/dashboards/dashboards-in-the-vtex-admin/vtex-dashboard-guide-for-black-week-faq_17.png)  
 
 ## Why doesn’t the number of orders in the sales funnel analysis match the Monitoring section?  
 
@@ -188,8 +182,8 @@ On the other hand, the data from the sales funnel is collected from the site's n
 
 As a result, it is common for the number of orders in the sales funnel to be lower than the Monitoring section, which provides a broader view of store sales, including channels outside the VTEX platform.  
 
-![conversation-rate-en](//images.ctfassets.net/alneenqid6w5/3PTACRp0lgoWd35Mavp9Fj/0e640c18f48f1d6576b2b366e5a26f34/conversation-rate-en.png)  
-![new-sessions-en](//images.ctfassets.net/alneenqid6w5/2mMweozEf0zpcmSTxLiU94/fd44b2bc0036ac47ea0421bcb74b36b8/new-sessions-en.png)  
+![conversation-rate-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/dashboards/dashboards-in-the-vtex-admin/vtex-dashboard-guide-for-black-week-faq_18.png)  
+![new-sessions-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/dashboards/dashboards-in-the-vtex-admin/vtex-dashboard-guide-for-black-week-faq_19.png)  
 
 ## Why is the new Overview in a separate URL?  
 

@@ -105,9 +105,7 @@ See below for how to configure **Lists 1 and 2** to activate discount conditions
 - **SKUs:** Select the additional SKUs which, when added to the cart along with SKUs from List 1, will activate the configured discount. The promotion is activated only if products from both List 1 and List 2 are added to the cart.
 - **Discount:** Enter the discount percentage for SKUs in List 2 when SKUs from List 1 are added to the cart. Enter the value in percent (%). For example, to apply a 10% discount on the purchase of a belt combined with pants from List 1, enter "10" in this field.
 
-<div class = "alert alert-info">
-Keep different SKUs in List 1 and List 2. Do not repeat the same SKU in both lists.
-</div>
+> ℹ️ Keep different SKUs in List 1 and List 2. Do not repeat the same SKU in both lists.
 
 ## Conditions
 
@@ -146,5 +144,5 @@ In this section, you can highlight the promotion on the product listing page and
 
 See the Buy Together creation form below:
 
-![Informação geral - EN](//images.ctfassets.net/alneenqid6w5/7FKhVNFJSyIiKySq4alXUF/12e35d7d12bc22ffa4921a63502d5401/Compre_Junto_V1-_EN.gif)
+![Informação geral - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-&-taxes/promotions/buy-together_1.gif)
 

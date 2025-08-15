@@ -59,9 +59,7 @@ As with the promotion, you can schedule a tax while you are creating it. To sche
 
 Content scheduling via Site Editor can be done either while [creating](https://help.vtex.com/en/tutorial/managing-page-and-template-content--3tMbx6HXy4Fy5r9EhboG37#creating-content) or [editing](https://help.vtex.com/en/tutorial/managing-page-and-template-content--3tMbx6HXy4Fy5r9EhboG37#editing-content) a block. 
 
-<div class="alert alert-warning">
-  <p>Content scheduling is only available for stores developed with <a href="https://vtex.com/us-en/store-framework/">VTEX IO</a>.</p>
-</div>
+> ⚠️ Content scheduling is only available for stores developed with [VTEX IO](https://vtex.com/us-en/store-framework/).
 
 To schedule content, follow the steps below:
 
@@ -70,7 +68,7 @@ To schedule content, follow the steps below:
 3. Use the URL field in the top corner to navigate to the page that displays the block whose content you want to overwrite.
 4. Select the block for which you want to create new content. You can select it using the list on the right side or the interface:
 
-![seta-interface](//images.ctfassets.net/alneenqid6w5/6IhPT84ZmkV83ooydYNLLc/89b848f0f5678a4ce69c9f095e3abcbc/seta-interface.png)
+![seta-interface](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Other/scheduling-features/scheduling-features-for-special-events_1.png)
 
 5. Click `Configurations` in the upper right corner.
 6. Click the `New content` button.

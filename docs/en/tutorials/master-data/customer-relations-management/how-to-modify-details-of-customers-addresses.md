@@ -25,19 +25,5 @@ To edit customer information you must do the following:
 6. Click `Save`.
 7. Click `Go Back` to see the list of addresses again.
 
-<div class="alert alert-warning">
-This article describes how Master Data v1 works. It is important that you evaluate which Master Data version meets the needs of your operation or is already in use.
- <ul>
-<li>
-<a href="https://help.vtex.com/tutorial/master-data--4otjBnR27u4WUIciQsmkAw#versions-available">
-Master Data version characteristics
- </a>
-</li>
-<li>
-<a href="https://developers.vtex.com/vtex-rest-api/docs/getting-started-1">
-Master Data v2
-</a>
-</li>
-</ul>
-</div>
+> ⚠️ This article describes how Master Data v1 works. It is important that you evaluate which Master Data version meets the needs of your operation or is already in use. <ul> <li> [ Master Data version characteristics ](https://help.vtex.com/tutorial/master-data--4otjBnR27u4WUIciQsmkAw#versions-available) </li> <li> [ Master Data v2 ](https://developers.vtex.com/vtex-rest-api/docs/getting-started-1) </li> </ul>
 

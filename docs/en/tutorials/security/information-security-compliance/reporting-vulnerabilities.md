@@ -19,9 +19,7 @@ We encourage our clients to responsibly report any security vulnerabilities they
 
 If you wish to report a vulnerability, you should first work with your security and development teams to conduct a security assessment and eliminate false positives or issues arising from custom configurations. Only cases compatible with the [definition of vulnerability](#vulnerability-definition) will be analyzed.
 
-<div class="alert alert-warning">
-  <p>Please review the<a href="https://vtex.com/us-en/security/security-practices/"> VTEX Security Practices</a> document and our<a href="https://help.vtex.com/en/tutorial/the-risk-assessment-process--4K97IpqkpCpDYsZOSxtfkX#risk-assessment-at-vtex"> Security FAQ</a> before reporting any vulnerabilities. These documents clarify our processes and help eliminate false positives.</p>
-</div>
+> ⚠️ Please review the[ VTEX Security Practices](https://vtex.com/us-en/security/security-practices/) document and our[ Security FAQ](https://help.vtex.com/en/tutorial/the-risk-assessment-process--4K97IpqkpCpDYsZOSxtfkX#risk-assessment-at-vtex) before reporting any vulnerabilities. These documents clarify our processes and help eliminate false positives.
 
 After this, follow the steps below to report if there is a vulnerability:
 
@@ -30,9 +28,7 @@ After this, follow the steps below to report if there is a vulnerability:
 
    Vulnerabilities must be reported individually, following the template. If you encountered more than one vulnerability in your test, please complete multiple templates and attach them to your ticket.
 
-  <div class="alert alert-warning">
-    <p>All information must be provided and is essential for the assessment. The VTEX Security team will not address vulnerability notifications that do not follow the established template.</p>
-  </div>
+  > ⚠️ All information must be provided and is essential for the assessment. The VTEX Security team will not address vulnerability notifications that do not follow the established template.
 
 3. Open a ticket with our [Support](https://help.vtex.com/en/support) to submit the security vulnerability notification. Do not forget to attach the completed vulnerability notification template in the ticket.
 4. Save your ticket number, as you may need it in future communications.

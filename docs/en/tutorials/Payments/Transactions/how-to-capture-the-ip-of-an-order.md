@@ -21,11 +21,11 @@ To retrieve the IP of a customer that placed an order at your store, you can ana
 
 When you open an order, click "See transaction details" in the payment box:
 
-![ip pedido1 EN](//images.ctfassets.net/alneenqid6w5/23018S94Qgws4swwoUUmSW/37a40268c64fb2306cdb236f552d3e20/ip_pedido1_EN.png)
+![ip pedido1 EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Transactions/how-to-capture-the-ip-of-an-order_1.png)
 
 Finally, the IP is visualized on the top right corner:
 
-![ip pedido2 EN](//images.ctfassets.net/alneenqid6w5/5TFz9FxDAQiwcuGCmcYoCu/315612e531df7562d33b80398bc80ef9/ip_pedido2_EN.png)
+![ip pedido2 EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Transactions/how-to-capture-the-ip-of-an-order_2.png)
 
 See more details on [How to visualize the order detail](/en/tutorial/how-to-view-the-orders-details)
 
@@ -33,14 +33,10 @@ See more details on [How to visualize the order detail](/en/tutorial/how-to-view
 
 To capture the IP by integration, it is possible to check the API Get Order with the orderID.
 
-<div class="alert alert-info">
-<a href="https://developers.vtex.com/reference/orders#getorder">See documentation of API OMS</a>
-</div>
+> ℹ️ [See documentation of API OMS](https://developers.vtex.com/reference/orders#getorder)
 
 Once the Order Json is obtained, it is possible to capture the `transactionId` and check the API **Get Transaction Details** with the transaction ID.
 
-<div class="alert alert-info">
-<a href="https://developers.vtex.com/reference/transaction-process#transactiondetails">See documentation of API Transaction</a>
-</div>
+> ℹ️ [See documentation of API Transaction](https://developers.vtex.com/reference/transaction-process#transactiondetails)
 
 Finally, from this last call it is possible to check the `ipAddress` field.

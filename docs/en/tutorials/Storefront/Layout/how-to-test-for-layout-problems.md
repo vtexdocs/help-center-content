@@ -15,9 +15,7 @@ locale: en
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
-<div class="alert alert-warning">
-Tutorial valid only for Legacy CMS Stores.
-</div>
+> ⚠️ Tutorial valid only for Legacy CMS Stores.
 
 When we encounter scenarios where there is strange behavior on the website, there are certain procedures that we can adopt to track the origin of the doubt.
 

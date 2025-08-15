@@ -31,20 +31,20 @@ See how you can manage users by:
 To add a new user to the organization, follow these steps:
 
 <ol>
-    <li>In the VTEX Admin, go to <strong>Apps &gt; B2B Organizations and Cost Centers &gt; Organizations</strong>, or type <strong>Organizations</strong> in the search bar at the top of the page.</li>
+    <li>In the VTEX Admin, go to **Apps &gt; B2B Organizations and Cost Centers &gt; Organizations**, or type **Organizations** in the search bar at the top of the page.</li>
     <li>Click the name of the desired organization to access its details page.</li>
-    <li>Click the <strong>Users</strong> tab.</li>
-    <li>Click <code>New</code>.</li>
+    <li>Click the **Users** tab.</li>
+    <li>Click `New`.</li>
     <li>Complete the user information as shown below:
         <ul>
-            <li><strong>Name:</strong> User's full name.</li>
-            <li><strong>Email:</strong> User email.</li>
-            <li><strong>Organization:</strong> Name of the organization.</li>
-            <li><strong>Cost Center:</strong> Cost center with which the user will be associated.</li>
-            <li><strong>Role:</strong> Role that the user will have in the store. See more details on the available roles in the <a href="https://help.vtex.com/en/tutorial/gerenciamento-de-permissoes-no-b2b-suite--2PLR7mIFxgbmsGq84paLeA" target="_blank">Permissions management in B2B Suite documentation</a>.</li>
+            <li>**Name:** User's full name.</li>
+            <li>**Email:** User email.</li>
+            <li>**Organization:** Name of the organization.</li>
+            <li>**Cost Center:** Cost center with which the user will be associated.</li>
+            <li>**Role:** Role that the user will have in the store. See more details on the available roles in the [Permissions management in B2B Suite documentation](https://help.vtex.com/en/tutorial/gerenciamento-de-permissoes-no-b2b-suite--2PLR7mIFxgbmsGq84paLeA).</li>
         </ul>
     </li>
-    <li>Click <code>Save</code>.</li>
+    <li>Click `Save`.</li>
 </ol>
 
 ## Editing users

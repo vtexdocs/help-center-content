@@ -38,16 +38,14 @@ Required fields are marked with an asterisk (*).
 | Start date and time*          | Select the date and time the promotion will start, ensuring it's activated when you want it to.                                                                                                                                                                                                                                                                            |
 | End date and time*            | Select the exact date and time the promotion should end.                                                                                                                                                                                                                                                                                                                    |
 | Use recurrence settings       | Select this option to schedule the promotion to repeat automatically on specific days and times. Set the desired recurrence intervals.                                                                                                                                                                                                                                     |
-| What is the type and amount of discount?* | Select the discount type and amount that will be applied in the promotion. Options include: <br> - **Fixed amount**: Discount applied to the cart total. <br> - **Fixed amount off shipping**: Discount applied to the shipping cost. <br> - **Percentage**: Discount percentage on product price. <br> - **Maximum price per item**: Sets a max price per item. <br> - **Percentage-off shipping**: Discount percentage on shipping. <br> - **Maximum shipping**: Maximum amount for shipping. <br> - **Free shipping**: Full discount on shipping. <br> - **Gift**: Full discount on the product set as a gift. The max quantity refers to the number of distinct SKUs the user may select. <br> &nbsp;&nbsp;&nbsp;&nbsp;- The checkbox "Activate gift multiplier" only works in Buy One Get One promotions. In regular promotions, it may appear but has no effect. <br> &nbsp;&nbsp;&nbsp;&nbsp;<div class="alert alert-warning">The gift product must have a price associated with it, even if it's given to the customer for free.</div> |
+| What is the type and amount of discount?* | Select the discount type and amount that will be applied in the promotion. Options include: <br> - **Fixed amount**: Discount applied to the cart total. <br> - **Fixed amount off shipping**: Discount applied to the shipping cost. <br> - **Percentage**: Discount percentage on product price. <br> - **Maximum price per item**: Sets a max price per item. <br> - **Percentage-off shipping**: Discount percentage on shipping. <br> - **Maximum shipping**: Maximum amount for shipping. <br> - **Free shipping**: Full discount on shipping. <br> - **Gift**: Full discount on the product set as a gift. The max quantity refers to the number of distinct SKUs the user may select. <br> &nbsp;&nbsp;&nbsp;&nbsp;- The checkbox "Activate gift multiplier" only works in Buy One Get One promotions. In regular promotions, it may appear but has no effect. <br> &nbsp;&nbsp;&nbsp;&nbsp;> ⚠️ The gift product must have a price associated with it, even if it's given to the customer for free. |
 | Fixed amount based on formula | Discount calculated using a custom formula with variables like total product value, shipping, and quantity. The formula uses the lowest available shipping for the order. <br> **Example**: `(total + freight) * 0.3`                                                                                                                                                            |
 | Fixed reward amount           | Credit added to the store’s reward program. See: *Regular promotion with reward value*.                                                                                                                                                                                                                                                                                      |
 | Percentage reward amount      | Percentage-based credit added to the store’s reward program. See: *Regular promotion with reward value*.                                                                                                                                                                                                                                                                    |
 | Promotional price table       | Price tables can be used as promotions. The promotional price of each SKU will be the corresponding price in the selected price table.                                                                                                                                                                                                                                     |
 | Promotion is highlighted      | Adds a tag with the promotion name on the PLP and PDP. Only works if the template uses `<vtex.cmc:discountHighLight/>`.                                                                                                                                                                                                                                                     |
 
-<div class = "alert alert-info">
-**Fixed amount** promotions will only be displayed in the cart, not in the window display or on the product detail page (PDP).
-</div>
+> ℹ️ **Fixed amount** promotions will only be displayed in the cart, not in the window display or on the product detail page (PDP).
 
 #### Restrict this promotion to seller products
 
@@ -57,9 +55,7 @@ In this section, you can determine to which sellers the promotion will apply. Yo
 
 For the promotion to be valid for all sellers, leave the field blank.
 
-<div class = "alert alert-warning">
-  <p>You can't select a white label seller directly. To include a white label seller in the promotion, you have two options:</p><ol>1. Restrict sellers to the main store. This restriction adds all your store's white label sellers to the promotion.</ol><ol>2. Leave the selection empty to including all sellers. Here, all types of sellers — white label or not — will be added to the promotion.</ol>
-</div>
+> ⚠️ You can't select a white label seller directly. To include a white label seller in the promotion, you have two options:<ol>1. Restrict sellers to the main store. This restriction adds all your store's white label sellers to the promotion.</ol><ol>2. Leave the selection empty to including all sellers. Here, all types of sellers — white label or not — will be added to the promotion.</ol>
 
 #### Trade policy
 In this section, you can set the trade policies valid for the promotion. You can include or exclude trade policies from the discount.
@@ -86,16 +82,14 @@ Each field allows you to select the options **Equal to** (inclusion) or **Differ
 
 In the example below, the promotion was configured to include all products in the Food category with the Pedigree brand, except the Whiskas Sachet product. Fields were completed as follows:
 
-![Tela quais itens-EN](//images.ctfassets.net/alneenqid6w5/4v5wXtdO7CzCCHI0F0heTC/1a96b896b9e9472cd7b0200ec41832b0/Tela_quais_itens-EN.png)
+![Tela quais itens-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-&-taxes/promotions/regular-promotion_1.png)
 
 To simplify adding products or SKUs, you can upload a **.txt** file containing their desired IDs. Each ID should be on a separate line. To upload:
 
 - Click **Select a .txt file** in the corresponding field for the desired product or SKU.
 - Select the **.txt** file with product IDs or SKUs.
 
-<div class = "alert alert-warning">
-<p>If you select <strong>Apply to the following products</strong> and don't complete any selection criteria, the promotion will not be saved, and the message <strong>Set eligible products</strong> or <strong>apply to all products</strong>. will be displayed. In this case, you must go back and complete the selection criteria or click <strong>Apply to all products</strong>.
-</div>
+> ⚠️ If you select **Apply to the following products** and don't complete any selection criteria, the promotion will not be saved, and the message **Set eligible products** or **apply to all products**. will be displayed. In this case, you must go back and complete the selection criteria or click **Apply to all products**.
 
 For products to be included in the promotion, they must meet all the conditions configured in this section.
 
@@ -116,24 +110,18 @@ The customer cart must meet the conditions specified in this section for the pro
 - **Apply the selected discount only when one of the above carriers is selected by the customer:** The promotion will only be applied after the customer selects the specified delivery method. If it's not selected, it won't be eligible for the discount. This criterion will only be considered if the promotion applies to the shipping cost, so only if it's one of the following: Percentage-off shipping, Fixed amount off shipping, Maximum shipping, or Free shipping.
 - **Payment method:** The discount applies if the payment method selected matches the one configured in the promotion. This discount will only be applied at checkout when customers select the same payment method configured in the promotion.
 
-    <div class = "alert alert-info">
-  <p> By default, you can add up to 20 payment methods per promotion. You can also customize it to add up to 100 payment methods. If you need to use more than 20 payment methods, contact <a href="https://support.vtex.com/hc/pt-br/requests">our Support</a>.</p>
- </div>
+    > ℹ️  By default, you can add up to 20 payment methods per promotion. You can also customize it to add up to 100 payment methods. If you need to use more than 20 payment methods, contact [our Support](https://support.vtex.com/hc/pt-br/requests).
 
 - **Number of installments:** Discount given if the number of installments selected by the customer is within the specified range. This field does not apply to boleto (Brazil).
 
-    <div class = "alert alert-warning">
-  <p><b>Warning</b>: Promotions based on payment method and number of installments don't apply to orders paid for with two cards or gift cards.</p>
-</div>
+    > ⚠️ **Warning**: Promotions based on payment method and number of installments don't apply to orders paid for with two cards or gift cards.
 
 - **UTM source:** The discount will apply if the customer navigation uses an utm_source parameter corresponding to a listed one in this promotion. Note that the customer can only enter one utm_source at checkout.
 - **UTM campaign:** The discount will apply if the customer navigation uses an utm_campaign parameter corresponding to a listed one in this promotion.
 - **Create a new coupon with the UTMs above:** Creates a coupon from the added UTMs to give customers access to the promotion using just the coupon code, without the need for UTMs.
 - **utmi_cp:** The discount will apply if the customer navigation uses an utmi_cp parameter corresponding to a listed one in this promotion (uppercase and lowercase letters are considered different characters).
 
-    <div class = "alert alert-info">
-  <p>In the UTMs field, enter only the value that the UTMs must match to activate the promotion. You don't need to enter <i>?utm_source=</i> in the field</p>
-</div>
+    > ℹ️ In the UTMs field, enter only the value that the UTMs must match to activate the promotion. You don't need to enter *?utm_source=* in the field
 
 - **Only on first purchase:** The discount will only be given on the customer's first purchase.
 - **Is a subscription order:** This option specifies that the promotion will apply to subscription orders. See the conditions for the following order types:

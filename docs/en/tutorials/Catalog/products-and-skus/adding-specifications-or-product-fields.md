@@ -33,9 +33,7 @@ In this article, we explain how the specification inheritance works for the adde
         * [Product registration](#product-registration)
         * [Spreadsheet](#spreadsheet)
 
-<div class = "alert alert-info">
-  <p>To create a product specification using <strong>Catalog API</strong>, follow the <a href="https://developers.vtex.com/vtex-developer-docs/docs/how-to-create-a-specification">How to create a specification</a> developer's guide.</p>
-</div>
+> ℹ️ To create a product specification using **Catalog API**, follow the [How to create a specification](https://developers.vtex.com/vtex-developer-docs/docs/how-to-create-a-specification) developer's guide.
 
 ## Product specifications inheritance
 
@@ -43,7 +41,7 @@ Before creating any specifications, it's important to understand that they follo
 
 Consider the **TV** product for example. In __Catalog > All products > Edit > Specifications__, as illustrated in the page below, we can see that the specification group called **Characteristics** is associated with the TV's category. This group includes a field named **Inches** and a field named **Age group**, which are mandatory.
 
-![specifications-en](//images.ctfassets.net/alneenqid6w5/3ZMzwADYCl7QnNomdpGnoH/abd1962c5063aa7f66d4ca8c743216c9/specifications-en.PNG)
+![specifications-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/products-and-skus/adding-specifications-or-product-fields_1.PNG)
 
 Since this is a product specification, the information selected on that page will apply to all **TV** product variations. All products added to the TV's category must have these specifications filled out, since they are required fields.
 
@@ -80,7 +78,7 @@ To create a product field, follow the steps below:
     * **Active**: Inserts or removes this field when adding the product (**Specifications** tab).
 7. Click `Save`. 
 
-![product-spec-1](//images.ctfassets.net/alneenqid6w5/5Y8LnWHVXSvRbqtMNBLSRq/d63d7b135d47717c567f77769ded7998/EN_ProdutoGif_1_Alterado.gif)
+![product-spec-1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/products-and-skus/adding-specifications-or-product-fields_2.gif)
 
 #### Product field types
 
@@ -95,32 +93,32 @@ See the table below for details on the product field types you can select in the
 </thead>
 <tbody>
   <tr class="bb b--muted-3">
-    <td class="t-body pa5" style="min-width: 15rem;"><strong>Text</strong></td>
+    <td class="t-body pa5" style="min-width: 15rem;">**Text**</td>
     <td class="t-body pa5" style="min-width: 15rem;">Content as free text, recommended for short texts and simple formatting. Not recommended for large HTML structures.</td>
   </tr>
   <tr class="bb b--muted-3">
-    <td class="t-body pa5" style="min-width: 15rem;"><strong>Large Text</strong></td>
+    <td class="t-body pa5" style="min-width: 15rem;">**Large Text**</td>
     <td class="t-body pa5" style="min-width: 15rem;">Content as free text, recommended for large HTML structures. For example, size charts, frequently used in the fashion segment.</td>
   </tr>
   <tr class="bb b--muted-3">
-    <td class="t-body pa5" style="min-width: 15rem;"><strong>Number</strong></td>
+    <td class="t-body pa5" style="min-width: 15rem;">**Number**</td>
     <td class="t-body pa5" style="min-width: 15rem;">Content with whole numbers only. For example, indicating shoe sizes (39, 41, 42...).</td>
   </tr>
   <tr class="bb b--muted-3">
-    <td class="t-body pa5" style="min-width: 15rem;"><strong>Combo</strong></td>
+    <td class="t-body pa5" style="min-width: 15rem;">**Combo**</td>
     <td class="t-body pa5" style="min-width: 15rem;">Content with two or more preset values selected out of a dropdown list. For example, a home appliance voltage, which can be 110v or 220v.</td>
   </tr>
   <tr class="bb b--muted-3">
-    <td class="t-body pa5" style="min-width: 15rem;"><strong>Radio</strong></td>
+    <td class="t-body pa5" style="min-width: 15rem;">**Radio**</td>
     <td class="t-body pa5" style="min-width: 15rem;">Content with two or more preset values checked as options from a value grid. For example, choosing the colors of product components (red, yellow, blue, black...).</td>
   </tr>
   <tr class="bb b--muted-3">
-    <td class="t-body pa5" style="min-width: 15rem;"><strong>CheckBox</strong></td>
-    <td class="t-body pa5" style="min-width: 15rem;">Option with values equivalent to <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">true</span> (checked) or <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">false</span> (unchecked). For example, a field named <strong>Outlet</strong> will be checked only when the product is part of the store selection for <em>outlet</em> (clearance sale). The field must remain unchecked if it's not part of the selection.</td>
+    <td class="t-body pa5" style="min-width: 15rem;">**CheckBox**</td>
+    <td class="t-body pa5" style="min-width: 15rem;">Option with values equivalent to <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">true</span> (checked) or <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">false</span> (unchecked). For example, a field named **Outlet** will be checked only when the product is part of the store selection for *outlet* (clearance sale). The field must remain unchecked if it's not part of the selection.</td>
   </tr>
   <tr class="bb b--muted-3">
-    <td class="t-body pa5" style="min-width: 15rem;"><strong>Indexed Text<br> <br>Large Indexed Text</strong></td>
-    <td class="t-body pa5" style="min-width: 15rem;">Technically, these field types follow the same rule as the <strong>Text</strong> field, except for one difference: their values will be interpreted by the <strong>Catalog </strong><a href="https://help.vtex.com/en/tutorial/understanding-how-indexation-works--tutorials_256"  rel="noopener noreferrer" target="_blank" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word">indexer</a> and will influence the search results for the store customers. For more details, please see the article <a href="https://help.vtex.com/en/tutorial/how-does-vtex-search-work--tutorials_542"  rel="noopener noreferrer" target="_blank" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word">How VTEX search works?</a>.</td>
+    <td class="t-body pa5" style="min-width: 15rem;">**Indexed Text<br> <br>Large Indexed Text**</td>
+    <td class="t-body pa5" style="min-width: 15rem;">Technically, these field types follow the same rule as the **Text** field, except for one difference: their values will be interpreted by the **Catalog **[indexer](https://help.vtex.com/en/tutorial/understanding-how-indexation-works--tutorials_256) and will influence the search results for the store customers. For more details, please see the article [How VTEX search works?](https://help.vtex.com/en/tutorial/how-does-vtex-search-work--tutorials_542).</td>
   </tr>
 </tbody>
 </table>
@@ -146,11 +144,9 @@ For the **Combo**, **Radio** and **CheckBox** field types, you must add preset v
 
     The created values will be displayed in the Product **Specifications** tab.
 
-![product-spec-2](//images.ctfassets.net/alneenqid6w5/5F0K7fQTFOf2b7opIrgpP6/c8c76e2f734ee038be20a6c273fdf987/EN_ProdutoGif_2_Alterado.gif)
+![product-spec-2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/products-and-skus/adding-specifications-or-product-fields_3.gif)
 
-<div class = "alert alert-info">
-  <p>If you are adding values for the first time in a field, you must return to the form of that specific field and check the <strong>Active</strong> option.</p>
-</div>
+> ℹ️ If you are adding values for the first time in a field, you must return to the form of that specific field and check the **Active** option.
 
 #### Accessing or editing values
 
@@ -188,7 +184,7 @@ To fill in the specifications for each product individually, follow the instruct
 
 6. Click `Save`.
 
-![product-spec-3](//images.ctfassets.net/alneenqid6w5/7B2L2oEoPQkPU2EJDowsxx/80503bcee1eddc3c30cc9b6eee05a4f5/EN_ProdutoGif_3_Alterado.gif)
+![product-spec-3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/products-and-skus/adding-specifications-or-product-fields_4.gif)
 
 #### Spreadsheet
 
@@ -211,7 +207,7 @@ To fill in product specifications in bulk by spreadsheet, you need to export the
 9. Click **Select** to select the file with the completed spreadsheet on your computer.
 10. Click `Import`.
 
-![product-spec-4](//images.ctfassets.net/alneenqid6w5/747pr0ISwE9GrNBjC4kKjL/0bc27b7b0d9e41dc649b057c20aaf90f/EN_ProdutoGif_4_Alterado.gif)
+![product-spec-4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/products-and-skus/adding-specifications-or-product-fields_5.gif)
 
 ## Learn more
 - [Adding SKU specifications or fields](https://help.vtex.com/en/tutorial/adding-sku-specifications-or-fields--tutorials_119)

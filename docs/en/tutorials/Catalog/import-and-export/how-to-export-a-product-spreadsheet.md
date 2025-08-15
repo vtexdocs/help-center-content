@@ -28,6 +28,4 @@ Here's the step-by-step to do so:
 
 Then check the inbox for the selected email. If the operation has worked, the user will have received an email with a link to download the complete spreadsheet.
 
-<div class="alert alert-warning">
-This only works properly when you're dealing with up to 10,000 products. If the required value is greater than this limit, the system does not send the spreadsheet to the email. Use the filters to refine your search.
-</div>
+> ⚠️ This only works properly when you're dealing with up to 10,000 products. If the required value is greater than this limit, the system does not send the spreadsheet to the email. Use the filters to refine your search.

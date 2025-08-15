@@ -69,6 +69,4 @@ To ensure that all accesses to the previous domain are directed to the new domai
 * We recommend using tools such as [redirhub.com](https://www.redirhub.com/) and [redirect.center](https://redirect.center) to create the redirection.  
 * Avoid using CNAME for redirection in the DNS dashboard, as this setting doesn't guarantee proper redirection.
 
-<div class="alert alert-warning">
-  <p>The first few visits to the new domain are often slower than expected due to the initial cache creation. This impact is temporary and normalizes over time.</p>
-</div>
+> ⚠️ The first few visits to the new domain are often slower than expected due to the initial cache creation. This impact is temporary and normalizes over time.

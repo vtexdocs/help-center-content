@@ -17,9 +17,7 @@ subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 
 Firstly, it is important to understand the difference between three similar concepts used by payment providers on the platform, __settlement after payment confirmation__, __automatic settlement__ and __payment with anticipated settlement authorization__.
 
-<div class="alert alert-warning">
-The following information is valid for payments with credit cards.
-</div>
+> ⚠️ The following information is valid for payments with credit cards.
 
 ## Settlement after payment confirmation
 
@@ -41,9 +39,7 @@ When the authorization process begins, the system waits for a previously set max
 
 The retailer and the acquirer agree on the time frame for the automatic settlement to be triggered. 
 
-<div class="alert alert-info">
-The maximum time frame set for payment settlement is usually four days. However, this is <strong>not</strong> a rule. Each acquirer can define the period they find most appropriate.
-</div>
+> ℹ️ The maximum time frame set for payment settlement is usually four days. However, this is **not** a rule. Each acquirer can define the period they find most appropriate.
 
 See below an example of how to perform the above settings:
 

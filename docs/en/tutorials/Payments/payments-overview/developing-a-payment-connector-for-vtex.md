@@ -63,17 +63,17 @@ Implementing connectors using the [VTEX Payment Provider Protocol (PPP)](https:/
 
 The development process for a VTEX connector can be divided into four phases:
 
-<blockquote><ui>1. <b>API implementation:</b> Develop the connector's endpoints according to the <a href="https://developers.vtex.com/docs/api-reference/payment-provider-protocol">VTEX Payment Provider Protocol (PPP)</a>, incorporating definitions such as operating environment, infrastructure, and purchase flow.</ui>
+<blockquote><ui>1. **API implementation:** Develop the connector's endpoints according to the [VTEX Payment Provider Protocol (PPP)](https://developers.vtex.com/docs/api-reference/payment-provider-protocol), incorporating definitions such as operating environment, infrastructure, and purchase flow.</ui>
 
-  <blockquote><ui>2. <b>Testing:</b> Validate the connector through predefined test cases to make sure it works properly. This phase is crucial, as any identified errors may impact the delivery SLA originally planned.</ui>
+  <blockquote><ui>2. **Testing:** Validate the connector through predefined test cases to make sure it works properly. This phase is crucial, as any identified errors may impact the delivery SLA originally planned.</ui>
 
-<blockquote><div class="alert alert-info">After completing the <a href="https://help.vtex.com/en/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m#4-testing">initial tests</a> and submitting the connector for homologation, we recommend running <a href="https://developers.vtex.com/docs/guides/payments-integration-payment-provider-framework#placing-an-order-with-your-new-connector">purchase flow tests</a> in a test environment.  This helps detect inconsistencies that could affect the homologation process.</div></blockquote>
+<blockquote>> ℹ️ After completing the [initial tests](https://help.vtex.com/en/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m#4-testing) and submitting the connector for homologation, we recommend running [purchase flow tests](https://developers.vtex.com/docs/guides/payments-integration-payment-provider-framework#placing-an-order-with-your-new-connector) in a test environment.  This helps detect inconsistencies that could affect the homologation process.</blockquote>
 
-<blockquote><ui>3. <b>Homologation:</b> The partner developing the connector opens a request, which will be handled by the VTEX Partner Support team. From this stage, the internal validation and publication process of the connector in the VTEX environment begins.</ui>
+<blockquote><ui>3. **Homologation:** The partner developing the connector opens a request, which will be handled by the VTEX Partner Support team. From this stage, the internal validation and publication process of the connector in the VTEX environment begins.</ui>
 
-<blockquote><div class="alert alert-warning">To initiate the <a href="https://developers.vtex.com/docs/guides/integrating-a-new-payment-provider-on-vtex#7-homologation-and-go-live">homologation process for a payment connector</a> your company must have an active contract and no outstanding financial obligations with VTEX.</div></blockquote>
+<blockquote>> ⚠️ To initiate the [homologation process for a payment connector](https://developers.vtex.com/docs/guides/integrating-a-new-payment-provider-on-vtex#7-homologation-and-go-live) your company must have an active contract and no outstanding financial obligations with VTEX.</blockquote>
 
-<blockquote><ui>4. <b>Connector activation:</b> Once approved and published, merchants can configure the <a href="https://help.vtex.com/en/tutorial/registering-gateway-affiliations--tutorials_444">payment methods</a> in their stores via the <a href="https://help.vtex.com/en/tutorial/vtex-admin-start-here--531cHtUCUi3puRXNDmKziw">VTEX Admin</a>.</ui></blockquote>
+<blockquote><ui>4. **Connector activation:** Once approved and published, merchants can configure the [payment methods](https://help.vtex.com/en/tutorial/registering-gateway-affiliations--tutorials_444) in their stores via the [VTEX Admin](https://help.vtex.com/en/tutorial/vtex-admin-start-here--531cHtUCUi3puRXNDmKziw).</ui></blockquote>
 
 For more details on the connector creation process, see [Integrating a new payment provider on VTEX](https://developers.vtex.com/docs/guides/integrating-a-new-payment-provider-on-vtex). 
 
@@ -188,9 +188,7 @@ Supporting Google Pay with [DPAN tokenization](https://help.vtex.com/en/tutorial
 - __Compatibility with multiple devices:__ Allows the same card to be used across different devices without requiring re-authentication.
 - __Reduced fraud costs:__ Tokenization prevents credential misuse, helping reduce the number of chargebacks.
 
-<div class="alert alert-warning">
-Support for Google Pay with DPAN is only available through the <a href="https://help.vtex.com/en/tracks/digital-wallet-e-wallet--6X8YyZBoVJpz5R8oXciTyu/61JMBvM5Vanqj6RaJsP8CT">VTEX native Google Pay Wallet</a>.
-</div>  
+> ⚠️ Support for Google Pay with DPAN is only available through the [VTEX native Google Pay Wallet](https://help.vtex.com/en/tracks/digital-wallet-e-wallet--6X8YyZBoVJpz5R8oXciTyu/61JMBvM5Vanqj6RaJsP8CT).  
 
 #### Support for payments via POS (VTEX Sales App)
 

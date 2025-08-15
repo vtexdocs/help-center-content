@@ -15,9 +15,7 @@ locale: en
 subcategoryId: 6aeeWirCBUwwCmeIWOgIWs
 ---
 
-<div class="alert alert-warning">
-  <p>The <b>List</b> feature is exclusive to stores that use Legacy CMS Portal.</p>
-</div>
+> ⚠️ The **List** feature is exclusive to stores that use Legacy CMS Portal.
 
 Lists are groupings of products that you can make available in your store to your customers. They can be of various types and be associated with events such as wedding, bridal shower, anniversary or any other type of list that your consumer may want to create.
 

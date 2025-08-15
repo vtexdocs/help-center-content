@@ -47,9 +47,7 @@ To update existing data, export it as described in [Exporting form data](#export
 
 To create a new record, add a new row with the record information and leave the id column blank.
 
-<div class="alert alert-warning">
-When adding data to the spreadsheet, make sure that the format of the values in each cell matches the format expected by that column (form field). Examples of formats include number, text, and date.
-</div>
+> ⚠️ When adding data to the spreadsheet, make sure that the format of the values in each cell matches the format expected by that column (form field). Examples of formats include number, text, and date.
 
 ## Uploading the spreadsheet
 
@@ -62,7 +60,5 @@ After exporting and editing the spreadsheet, you must import the data. To do thi
 5. Click `Choose file` to select the spreadsheet file on your device.
 6. Click the `Import` button in the right corner at the bottom of the screen.
 
-<div class="alert alert-warning">
-Keep the same file format (XLS) as the exported spreadsheet to import successfully.
-</div>
+> ⚠️ Keep the same file format (XLS) as the exported spreadsheet to import successfully.
 

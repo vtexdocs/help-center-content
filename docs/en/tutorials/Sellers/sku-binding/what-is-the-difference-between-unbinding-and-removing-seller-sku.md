@@ -19,9 +19,7 @@ The products sent by a seller to the marketplace go through the [Received SKUs](
 
 If you [unbinde a seller's SKU](https://help.vtex.com/en/tutorial/vinculos-de-sku--1SmrVgNwjJX17hdqwLa0TX#unbinding-a-sku), it will no longer be shown as available in the marketplace. The SKU will be unbinded from the catalogue and will no longer be updated in terms of seller’s price and stocks.
 
-<div class = "alert alert-info">
-An unbinded SKU will not return to the queue for approval in <b>Received SKUs</b>, since it still exists in the marketplace's catalogue.
-</div>
+> ℹ️ An unbinded SKU will not return to the queue for approval in **Received SKUs**, since it still exists in the marketplace's catalogue.
 
 If you want to delete a seller's SKU, you must [remove the seller's SKU](https://help.vtex.com/en/tutorial/vinculos-de-sku--1SmrVgNwjJX17hdqwLa0TX#removing). When you remove an SKU, it is permanently deleted from the marketplace's catalogue. The removed SKU will only appear in the catalogue again if the seller resends it to **Received SKUs**.
 

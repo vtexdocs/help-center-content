@@ -21,7 +21,7 @@ In some circumstances, you may want to create an additional authentication in VT
 
 To match those needs, VTEX provides a VTEX ID integrated __authentication OAuth2__ .
 
-<div class="alert alert-warning">As this is a complicated technical matter, we recommend that you consult a partner or IT team.</div>
+> ⚠️ As this is a complicated technical matter, we recommend that you consult a partner or IT team.
 
 ### About OAuth2
 
@@ -38,7 +38,7 @@ Have a look at the OAuth2 protocol official guide on https://tools.ietf.org/html
 ### Integrating OAuth2 with VTEX ID
 
 Based on the official documentation, have a look at the illustration below explaining how to integrate OAuth2 with VTEX ID:
-![Fluxo OAuth2 VTEX ID (EN)](//images.ctfassets.net/alneenqid6w5/3qrMFrsucwq2eWSmSAe6yY/ee05f4dafad5d0e2005293274d8f30f8/Fluxo_OAuth2_VTEX_ID__EN_.png)
+![Fluxo OAuth2 VTEX ID (EN)](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/authentication/authentication-settings/creating-an-oauth2-authentication_1.png)
 
 Keeping the illustration in mind, let's have a closer look at some of the things you'll need to know.
 
@@ -155,7 +155,7 @@ Response:
 
 As soon as the service is developed and published, you can send the above-mentioned data to VTEX (by opening a ticket). VTEX will then be able to complete environment integration with VTEX ID, providing your store with another login option.
 
-<div class="alert alert-info">If you have multiple stores (subaccounts) listed in <strong>Account Settings > Account management > Account</strong>, please note that each one will require their own OAuth2 Identity Provider configuration.</div>
+> ℹ️ If you have multiple stores (subaccounts) listed in **Account Settings > Account management > Account**, please note that each one will require their own OAuth2 Identity Provider configuration.
 
 Important things to remember:
 

@@ -18,7 +18,7 @@ subcategoryId: 7ogirQ8NClawO2X6xdgCKc
 Stores developed with VTEX IO Store Framework natively have a *Progressive Web App* (PWA), a type of web app that offers a user experience similar to a native app but runs directly in a web browser.
 
 <div style="background-color:#DBEAFE; border-left: 2px solid ##1E3A8A; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px; margin-bottom: 10px">
-For Legacy Portal CMS stores, see the guide <a href="https://help.vtex.com/en/tutorial/how-to-turn-my-store-website-into-a-pwa--3i8VmYeToAUGKgo2kKK6I2">How to turn my store's website into a PWA</a>.
+For Legacy Portal CMS stores, see the guide [How to turn my store's website into a PWA](https://help.vtex.com/en/tutorial/how-to-turn-my-store-website-into-a-pwa--3i8VmYeToAUGKgo2kKK6I2).
 </div>
 
 To configure a PWA in your store, go to **Store Settings > Storefront > Store** in the VTEX Admin and follow the steps below:
@@ -26,11 +26,11 @@ To configure a PWA in your store, go to **Store Settings > Storefront > Store** 
 1. Click the **PWA** tab.
 2. Set the **Theme color**, **Background color** and add the **Android logo icon (512x512, PNG)** and **iOS logo icon (512x512, PNG)**. The colors must be specified in hexadecimal code (e.g., #F71963), and the icons must have a size of 512x512 px and a `.png` extension.
 
-  ![pwa-settings-1-en](//images.ctfassets.net/alneenqid6w5/2EscgymgyMjCL6nvKedrjk/8b7909e47d4ebe3906f12fc997dec948/pwa-settings-1-en.png)
+  ![pwa-settings-1-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Storefront/store-settings---storefront/configuring-pwa-in-your-store-framework-store_1.png)
 
 3. Scroll down and go to the **Other PWA settings** field. Click the arrow to show the other settings.
 
-  ![pwa-settings-2-en](//images.ctfassets.net/alneenqid6w5/2UJAVrnwSn3NPNxxi42nk8/7e6e92b83cdc7af103e35f19d740343d/pwa-settings-2-en.png)
+  ![pwa-settings-2-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Storefront/store-settings---storefront/configuring-pwa-in-your-store-framework-store_2.png)
 
 4. In **Other PWA settings**, complete the fields as indicated below:
 
@@ -60,7 +60,7 @@ To configure a PWA in your store, go to **Store Settings > Storefront > Store** 
     - **Add to home screen**: When activated, it allows the user to install the PWA.
     - **"Add to home screen" prompt**: Defines the moment when the PWA installation will be recommended to the user. One of the following values can be assigned: On the first visit, On the first item added to the cart, or On the first order. This option only applies when **Add to Home Screen** is activated.
 
-   ![pwa-settings-3-en](//images.ctfassets.net/alneenqid6w5/2wVkAwUIy6E33I6pUoXMVT/8496511fdfbe7d9bdd30915bd0d4e3b9/pwa-settings-3-en.png)
+   ![pwa-settings-3-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Storefront/store-settings---storefront/configuring-pwa-in-your-store-framework-store_3.png)
 
 5. Save changes by clicking `SAVE`.
 

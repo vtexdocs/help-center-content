@@ -17,22 +17,20 @@ subcategoryId: 5m1qqfnmfYKsO0KiOQC8Ky
 
 The Change Seller is the feature that gives marketplaces the autonomy to change the seller that will fulfill an order. 
 
-<div class = "alert alert-info">
-The Change Seller feature can only be configured using APIs. For more information, see our <a href="https://developers.vtex.com/vtex-rest-api/docs/change-seller">Change Seller documentations for developers</a>.
-</div>
+> ℹ️ The Change Seller feature can only be configured using APIs. For more information, see our [Change Seller documentations for developers](https://developers.vtex.com/vtex-rest-api/docs/change-seller).
 
 Sellers can be changed in two situations: 
 
 - Seller cancels the order.
 - Marketplace decides to change the seller.
 
-![seller_cancela_pedido_EN](//images.ctfassets.net/alneenqid6w5/1w1If5Xirav4fZKLQlpkPn/de157152dd35da3598e6345114c7e90e/seller_cancela_pedido_EN.png)
+![seller_cancela_pedido_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/Orders/change-seller_1.png)
 
 You can [set the time window to change seller from 0 to 30 days](https://developers.vtex.com/vtex-rest-api/reference/updatewindowtochangeseller); by default, it is two days. When the window to change seller is set to 0 days, there is not an actual period for switching sellers, so even though the feature is configured, it does not work in practice, and the order proceeds to cancellation.
 
 Upon being notified by the seller about the order cancellation, the marketplace can configure how many days they have to decide whether to cancel the purchase or change the seller. But pay attention: if the marketplace chooses to change sellers, the decision to inform customers of such changes is the marketplace’s responsibility.
 
-![mkt_cancela_seller_EN](//images.ctfassets.net/alneenqid6w5/3jMZldSV2RLu4P0xoUyrE/7a5c5687cb444e4ddf4a41a64dec6ff4/mkt_cancela_seller_EN.png)
+![mkt_cancela_seller_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/Orders/change-seller_2.png)
 
 ## Limitations
 

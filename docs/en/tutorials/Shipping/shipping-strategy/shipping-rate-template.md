@@ -24,9 +24,7 @@ To add shipping costs to the template, you have to:
 1. [Fill in the fields in the spreadsheet](#fill-in-the-fields-in-the-spreadsheet)
 2. [Upload the spreadsheet in VTEX Admin](#upload-the-spreadsheet-in-vtex-admin)
 
-<div class="alert alert-info"> 
-You can also add shipping costs in the Shipping rates module. We recommend using the <a href="https://help.vtex.com/en/tutorial/shipping-rate-template--tutorials_127">shipping rate template</a> to include multiple ZIP code ranges and using the Shipping rates module to manage existing shipping costs and add ZIP code ranges individually. 
-</div>
+> ℹ️ You can also add shipping costs in the Shipping rates module. We recommend using the [shipping rate template](https://help.vtex.com/en/tutorial/shipping-rate-template--tutorials_127) to include multiple ZIP code ranges and using the Shipping rates module to manage existing shipping costs and add ZIP code ranges individually.
 
 ## Fill in the fields in the spreadsheet
 
@@ -46,13 +44,13 @@ See below the spreadsheet columns content to understand each field in detail.
     <thead class="w-100 center mv7 bb b--gray" style="border-spacing: 0px; border-collapse: collapse;">
         <tr class="t-body fw5 c-muted-1 bb bw1 pa2 pb3 b--muted-3 tl">
             <th class="t-body fw5 c-muted-1 bb bw1 pa2 pb3 b--muted-3 tl">
-                <em class="i"><b>Colum</b>
+                <em class="i">**Colum**
             </th>
             <th class="t-body fw5 c-muted-1 bb bw1 pa2 pb3 b--muted-3 tl">
-                <em class="i"><b>Description</b>
+                <em class="i">**Description**
             </th>
             <th class="t-body fw5 c-muted-1 bb bw1 pa2 pb3 b--muted-3 tl">
-                <em class="i"><b>Details</b>
+                <em class="i">**Details**
             </th>
         </tr>
     </thead>
@@ -63,10 +61,10 @@ See below the spreadsheet columns content to understand each field in detail.
             </td>
             <td class="t-body pa5" style="min-width: 15rem;">The first part of the ZIP code range. 
             </td>
-            <td rowspan="2" class="t-body pa5" style="min-width: 15rem;"> You should add code ranges only if the <b>PolygonName</b> field is empty, as they contain equivalent function data.
-            <p>
-            <b>ZipCode</b> fields must contain up to 8 digits. Do not use special characters, only numbers and letters. </p>
-            <p>You must fill in the fields according to the following rules:
+            <td rowspan="2" class="t-body pa5" style="min-width: 15rem;"> You should add code ranges only if the **PolygonName** field is empty, as they contain equivalent function data.
+            
+            **ZipCode** fields must contain up to 8 digits. Do not use special characters, only numbers and letters. 
+            You must fill in the fields according to the following rules:
                 <body>
                   <ul>
                     <li>For numerical ranges, the accepted values are from <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">0000000</span> to <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">99999999</span>. </li>
@@ -87,9 +85,9 @@ See below the spreadsheet columns content to understand each field in detail.
             <td class="t-body pa5" style="min-width: 15rem;">
                 <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">PolygonName</span>
             </td>
-            <td class="t-body pa5" style="min-width: 15rem;">The polygon identification defined in the <a href="https://help.vtex.com/en/tutorial/gerenciar-geolocalizacao/"> geolocation</a> function.
+            <td class="t-body pa5" style="min-width: 15rem;">The polygon identification defined in the [ geolocation](https://help.vtex.com/en/tutorial/gerenciar-geolocalizacao/) function.
             </td>
-            <td class="t-body pa5" style="min-width: 15rem;">To use geolocation, after filling in the <b>PolygonName</b> column with the desired values, fill in the <b>ZipCodeStart</b> and <b>ZipCodeEnd</b> columns with the value <code>0</code>.<p>You should fill in this field only if the <b>ZipCodeStart</b> and <b>ZipCodeEnd</b> fields are used, as they contain equivalent function data.
+            <td class="t-body pa5" style="min-width: 15rem;">To use geolocation, after filling in the **PolygonName** column with the desired values, fill in the **ZipCodeStart** and **ZipCodeEnd** columns with the value `0`.You should fill in this field only if the **ZipCodeStart** and **ZipCodeEnd** fields are used, as they contain equivalent function data.
             </td>
         </tr>
     <tr class="bb b--muted-3">
@@ -98,7 +96,7 @@ See below the spreadsheet columns content to understand each field in detail.
             </td>
             <td class="t-body pa5" style="min-width: 15rem;">The minimum weight allowed, in decimal number.
             </td>
-            <td rowspan="2" class="t-body pa5" style="min-width: 15rem;">Consider the same weight unit informed when adding a SKU. For example, if you <a href="https://help.vtex.com/en/tutorial/campos-de-cadastro-de-sku--21DDItuEQc6mseiW8EakcY"> added SKUs</a> using grams, this will be the default unit for <b>WeightStart</b> and <b>WeightEnd</b>.
+            <td rowspan="2" class="t-body pa5" style="min-width: 15rem;">Consider the same weight unit informed when adding a SKU. For example, if you [ added SKUs](https://help.vtex.com/en/tutorial/campos-de-cadastro-de-sku--21DDItuEQc6mseiW8EakcY) using grams, this will be the default unit for **WeightStart** and **WeightEnd**.
             </td>
         </tr>
         <tr class="bb b--muted-3">
@@ -121,18 +119,18 @@ See below the spreadsheet columns content to understand each field in detail.
             <td class="t-body pa5" style="min-width: 15rem;">
                 <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">PricePercent</span>
             </td>
-            <td class="t-body pa5" style="min-width: 15rem;"> <a href="https://help.vtex.com/en/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV"> Price-based additional shipping charge</a> calculated in decimal number based on the total price of the products in the shopping cart. You must fill in this field with a percentage value. For example, for an additional charge of 10%, fill in the table with 10.
+            <td class="t-body pa5" style="min-width: 15rem;"> [ Price-based additional shipping charge](https://help.vtex.com/en/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV) calculated in decimal number based on the total price of the products in the shopping cart. You must fill in this field with a percentage value. For example, for an additional charge of 10%, fill in the table with 10.
             </td>
-            <td class="t-body pa5" style="min-width: 15rem;"> <a href="https://help.vtex.com/en/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV">Additional shipping costs</a> will be added to the fixed cost.
+            <td class="t-body pa5" style="min-width: 15rem;"> [Additional shipping costs](https://help.vtex.com/en/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV) will be added to the fixed cost.
             </td>
         </tr>
   <tr class="bb b--muted-3">
             <td class="t-body pa5" style="min-width: 15rem;">
                 <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">PriceByExtraWeight</span>
             </td>
-            <td class="t-body pa5" style="min-width: 15rem;"><a href="https://help.vtex.com/en/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV">Weight-based additional shipping charge</a>, calculated based on the total weight of the order, in decimal number.
+            <td class="t-body pa5" style="min-width: 15rem;">[Weight-based additional shipping charge](https://help.vtex.com/en/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV), calculated based on the total weight of the order, in decimal number.
             </td>
-            <td class="t-body pa5" style="min-width: 15rem;"> <a href="https://help.vtex.com/en/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV">Additional shipping costs</a> will be added to the fixed cost. Consider the exact weight unit informed when <a href="https://help.vtex.com/en/tutorial/campos-de-cadastro-de-sku--21DDItuEQc6mseiW8EakcY">adding a SKU</a> (examples: gram, kilogram, or ounce).
+            <td class="t-body pa5" style="min-width: 15rem;"> [Additional shipping costs](https://help.vtex.com/en/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV) will be added to the fixed cost. Consider the exact weight unit informed when [adding a SKU](https://help.vtex.com/en/tutorial/campos-de-cadastro-de-sku--21DDItuEQc6mseiW8EakcY) (examples: gram, kilogram, or ounce).
             </td>
         </tr>
   <tr class="bb b--muted-3">
@@ -141,14 +139,14 @@ See below the spreadsheet columns content to understand each field in detail.
             </td>
             <td class="t-body pa5" style="min-width: 15rem;">Maximum volume allowed, in decimal number.
             </td>
-            <td class="t-body pa5" style="min-width: 15rem;">Consider the same unit of volume informed when <a href="https://help.vtex.com/en/tutorial/campos-de-cadastro-de-sku--21DDItuEQc6mseiW8EakcY"> adding a SKU</a>. For example, if centimeter is the unit of measurement for height, width, and length, the <b>MaxVolume</b> field must be in cm³.
+            <td class="t-body pa5" style="min-width: 15rem;">Consider the same unit of volume informed when [ adding a SKU](https://help.vtex.com/en/tutorial/campos-de-cadastro-de-sku--21DDItuEQc6mseiW8EakcY). For example, if centimeter is the unit of measurement for height, width, and length, the **MaxVolume** field must be in cm³.
             </td>
         </tr>
   <tr class="bb b--muted-3">
             <td class="t-body pa5" style="min-width: 15rem;">
                 <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">TimeCost</span>
             </td>
-            <td class="t-body pa5" style="min-width: 15rem;">The delivery time frame informed by the carrier, in the format <b>DD.HH:MM:SS</b>.
+            <td class="t-body pa5" style="min-width: 15rem;">The delivery time frame informed by the carrier, in the format **DD.HH:MM:SS**.
             </td>
             <td class="t-body pa5" style="min-width: 15rem;">For example, if the delivery time frame is 4.5 days, fill in the field as follows: 04.12:00:00.
             </td>
@@ -159,27 +157,25 @@ See below the spreadsheet columns content to understand each field in detail.
             </td>
             <td class="t-body pa5" style="min-width: 15rem;">Country where the delivery will take place. Fill it in with a three-letter ISO country code.
             </td>
-            <td class="t-body pa5" style="min-width: 15rem;">You can check the ISO country code at <a href="https://countrycode.org/">Country Codes</a>.
+            <td class="t-body pa5" style="min-width: 15rem;">You can check the ISO country code at [Country Codes](https://countrycode.org/).
             </td>
         </tr>
   <tr class="bb b--muted-3">
             <td class="t-body pa5" style="min-width: 15rem;">
                 <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">MinimumValueInsurance</span>
             </td>
-            <td class="t-body pa5" style="min-width: 15rem;"><a href="https://help.vtex.com/en/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV">Additional insurance charge,</a> in absolute value and decimal number.
+            <td class="t-body pa5" style="min-width: 15rem;">[Additional insurance charge,](https://help.vtex.com/en/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV) in absolute value and decimal number.
             </td>
-            <td class="t-body pa5" style="min-width: 15rem;"> This value will be added to the shipping cost. However, it only applies when the <a href="https://help.vtex.com/en/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV"> price-based additional shipping charge</a> is lower than the <b>MinimumValueInsurance</b>. For more details, see the article <a href="https://help.vtex.com/en/faq/para-que-serve-o-campo-na-tabela-de-frete-minimum-value-insurance">What is the Minimum Value Insurance field?</a>.
+            <td class="t-body pa5" style="min-width: 15rem;"> This value will be added to the shipping cost. However, it only applies when the [ price-based additional shipping charge](https://help.vtex.com/en/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV) is lower than the **MinimumValueInsurance**. For more details, see the article [What is the Minimum Value Insurance field?](https://help.vtex.com/en/faq/para-que-serve-o-campo-na-tabela-de-frete-minimum-value-insurance).
             </td>
         </tr>
 </tbody>
 </table>
 
-<div class="alert alert-info"> 
-We used the term "weight" when referring to "mass" in this documentation for readability. 
-</div>
+> ℹ️ We used the term "weight" when referring to "mass" in this documentation for readability.
 
 Here is an example of how to fill in the fields in the spreadsheet.
-![modelo_planilhanumerica](//images.ctfassets.net/alneenqid6w5/15Dc2cfsXWbIwSt2vypWN3/20628e9acf5336c3fefcc84d334c08ec/freight_-_Debora_Moreno.png)
+![modelo_planilhanumerica](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Shipping/shipping-strategy/shipping-rate-template_1.png)
 
 ## Upload the spreadsheet in VTEX Admin
 
@@ -192,15 +188,11 @@ Follow the steps below:
 4. In both cases, download the spreadsheet and [complete its fields](#fill-in-the-fields-in-the-spreadsheet). Then, upload the file in the **Upload shipping rates** section, as illustrated in the image below.
 5. After completing these steps, click on `Save changes`.
 
-![upload tarifas envioEN](//images.ctfassets.net/alneenqid6w5/1qNl0ZaHhZMpshuBWRQhs9/38cfc78b89a4e0e68bfec882af0ea9f4/upload_tarifas_envioEN.png)
+![upload tarifas envioEN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Shipping/shipping-strategy/shipping-rate-template_2.png)
 
-<div class="alert alert-warning">
-For <b>new</b> shipping policies, other steps are required. Check out the article <a href="https://help.vtex.com/en/tutorial/politica-de-envio--tutorials_140">Shipping policy</a> for more information.
-</div>
+> ⚠️ For **new** shipping policies, other steps are required. Check out the article [Shipping policy](https://help.vtex.com/en/tutorial/politica-de-envio--tutorials_140) for more information.
 
-<div class="alert alert-danger"> 
-Each tab in the spreadsheet supports a maximum of 65,536 rows. You can create as many tabs as you want on the same worksheet, provided that it does not exceed the limit of rows and the maximum file size of 10MB. You can compress the file by saving it as <b>.zip</b>, if necessary. If the file is still too large to upload, you can split it into two files and create another shipping policy to upload the second file. 
-</div>
+> ❗ Each tab in the spreadsheet supports a maximum of 65,536 rows. You can create as many tabs as you want on the same worksheet, provided that it does not exceed the limit of rows and the maximum file size of 10MB. You can compress the file by saving it as **.zip**, if necessary. If the file is still too large to upload, you can split it into two files and create another shipping policy to upload the second file.
 
 In the event that the spreadsheet contains an error, you will receive an email with details about the error. Make sure you have reviewed all the fields before uploading the file again.
 

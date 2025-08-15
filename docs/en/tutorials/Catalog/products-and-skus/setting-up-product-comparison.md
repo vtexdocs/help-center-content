@@ -15,9 +15,7 @@ locale: en
 subcategoryId: pwxWmUu7T222QyuGogs68
 ---
 
-<div class = "alert alert-warning">
-  <p>This tutorial is only applicable to Legacy CMS Portal stores.</p>
-</div>
+> ⚠️ This tutorial is only applicable to Legacy CMS Portal stores.
 
 Product Comparison is a native VTEX feature that allows you to view the details and specifications of selected products side by side. This makes it easy to compare items and quickly identify differences between their specifications.
 
@@ -26,9 +24,7 @@ The configuration process involves two steps:
 - [**Comparison page**](#comparison-page): Where you can view a side-by-side comparison of products selected from the product listing page.
 - [**Product listing page**](#product-listing-page): Where you can select products to compare.
 
-<div class = "alert alert-warning">
-  <p>Product comparison doesn't work on the store homepage.</p>
-</div>
+> ⚠️ Product comparison doesn't work on the store homepage.
 
 ## Instructions
 
@@ -51,7 +47,7 @@ where `ShelfLayoutId` is the `Id` of the shelf template created in the previous 
   - In the `Folder Name` field, enter a name for the folder and click `OK`.
   - Click `Save Folder`.
 
-       ![new-folder-en](//images.ctfassets.net/alneenqid6w5/7lAM8DDROFdPxQYaZoRRzk/19abe7f5f04424757f7978e6593b238d/new-folder-en.gif)
+       ![new-folder-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/products-and-skus/setting-up-product-comparison_1.gif)
 
 4. Create a default layout:
   - Open the folder created in the previous step.
@@ -59,12 +55,10 @@ where `ShelfLayoutId` is the `Id` of the shelf template created in the previous 
   - In the `Template` field, link the page template created in step 2 to the folder. Learn more in [Associating a template with a layout](https://help.vtex.com/en/tutorial/associando-um-template-a-um-layout--7CkgOHRj7DVbsRxyR8YQrK).
   - Click `Save Layout` and then click `OK`.
 
-       ![new-layout-en](//images.ctfassets.net/alneenqid6w5/4krTQkJzqQRbgWJrtlftgJ/c8bfbb11d749e4417ef892c3ad282a99/new-layout-en.gif)
+       ![new-layout-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/products-and-skus/setting-up-product-comparison_2.gif)
 
 ### Product listing page
 
 To display products with the comparison option (checkbox), add the `$product.Compare` control to the shelf templates where you want to include this feature. This control will render a checkbox to select products for comparison. Additionally, the control will provide a **Compare** link in the header and footer of the product listing. You can click this link to be redirected to the comparison page.
 
-<div class = "alert alert-warning">
-  <p>You can only compare 4 products at a time.</p>
-</div>
+> ⚠️ You can only compare 4 products at a time.

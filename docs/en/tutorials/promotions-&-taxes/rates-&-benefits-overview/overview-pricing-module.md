@@ -21,7 +21,7 @@ There are four departments within this module responsible for configuring each o
 
 ## Campaign Audiences
 
-![campanha-en](//images.ctfassets.net/alneenqid6w5/5K7LSd8kVJ6Zq1EnDUPxHF/17299aa9e8c91b40b427b402e6c09e70/campanha-en.png)
+![campanha-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-&-taxes/rates-&-benefits-overview/overview-pricing-module_1.png)
 
 A campaign audience is a way of defining the target audience to which a benefit can be applied. In other words, you can create customer segments based on the definition of some criteria that will be eligible for a given campaign audience and consequently one or more benefits. A campaign audience can be associated with one or more campaign benefits.
 
@@ -29,7 +29,7 @@ A campaign audience is a way of defining the target audience to which a benefit 
 
 ## Benefits
 
-![promoções.en](//images.ctfassets.net/alneenqid6w5/23MV9Zb4N0CLUcyoeZaP1r/08a7f435db69a7a826ba336b58603a45/promo____es.en.png)
+![promoções.en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-&-taxes/rates-&-benefits-overview/overview-pricing-module_2.png)
 
 Here, the discounts that your store will offer are created. You can also view, filter, search and file all promotions. According to each store configuration, there is a limit of promotions that can be enabled at the same time. To find out how many, read the message that appears on the upper right corner, below the paging. The types of promotions that can be created are:
 
@@ -42,12 +42,12 @@ Here, the discounts that your store will offer are created. You can also view, f
 
 ## Coupons
 
-![cupons.en](//images.ctfassets.net/alneenqid6w5/4dFwRo3yG2ZLWwFosYJBRI/5a717e969314bd7492d9a6d1d4f24f7a/cupons.en.png)
+![cupons.en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-&-taxes/rates-&-benefits-overview/overview-pricing-module_3.png)
 
 It's in this department that the coupons are created, but you can also search and file them. [Learn how to create coupons in our documentation](/en/tutorial/creating-a-coupon/).
 
 ## Taxes
 
-![taxas.en](//images.ctfassets.net/alneenqid6w5/4kQJ4px0w7kUgDdzmc1lR0/f9ee86721f6888e957be3db820f3afbb/taxas.en.png)
+![taxas.en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-&-taxes/rates-&-benefits-overview/overview-pricing-module_4.png)
 
 Here, you can define the incidence of taxes on your products. You can also filter, search and file fees. [To better understand the characteristics of this configuration, check out our article about fees.](/en/tutorial/creating-surchargestaxes)

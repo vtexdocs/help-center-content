@@ -3,8 +3,8 @@ title: 'Security Monitor'
 id: 5LOVNLrrtmgSj99pM1NS4x
 status: PUBLISHED
 createdAt: 2024-04-25T00:42:30.944Z
-updatedAt: 2025-05-19T20:49:33.423Z
-publishedAt: 2025-05-19T20:49:33.423Z
+updatedAt: 2025-08-12T22:54:55.978Z
+publishedAt: 2025-08-12T22:54:55.978Z
 firstPublishedAt: 2024-04-25T02:41:44.798Z
 contentType: tutorial
 productTeam: Identity
@@ -15,9 +15,7 @@ locale: en
 subcategoryId: jrgbOxKaOW0kdZs7rdgvS
 ---
 
-<div class="alert alert-info">
-  <p>This feature is part of <a href="https://help.vtex.com/en/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh">VTEX Shield</a>. If you are already a VTEX customer and want to adopt VTEX Shield for your business, please contact <a href="https://help.vtex.com/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ">Commercial Support</a>. Additional fees may apply. If you are not yet a customer but are interested in this solution, please complete our <a href="https://vtex.com/br-pt/contato/">contact form</a>.</p>
-</div>
+> ℹ️ This feature is part of [VTEX Shield](https://help.vtex.com/en/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh). If you are already a VTEX customer and want to adopt VTEX Shield for your business, please contact [Commercial Support](https://help.vtex.com/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ). Additional fees may apply. If you are not yet a customer but are interested in this solution, please complete our [contact form](https://vtex.com/br-pt/contato/).
 
 Security Monitor is a dashboard that helps merchants identify and manage potential risks in their environment in real time. The tool identifies configuration risks and the behavior of admin users, then notifies merchants via email, enabling them to take preventive action against security vulnerabilities.
 
@@ -26,7 +24,7 @@ To access the dashboard, follow the steps below:
 1. In the VTEX Admin, go to **Dashboards**, or type **Dashboards** in the search bar.
 2. Under **Security Monitor**, click **Security Monitor Dashboard**.
 
-![1-security-monitor-en](//images.ctfassets.net/alneenqid6w5/k2BpYU2kF3p3grDdfy4aB/2cc1c397d80b020cdee8743eb79fa2b7/security-monitor-en.png)
+![1-security-monitor-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/security/vtex-shield/security-monitor_1.png)
 
 Security Monitor displays the findings in three tabs based on their status:
 
@@ -49,18 +47,18 @@ The **Open** tab displays the threats detected by the Security Monitor that have
 
 The top bar displays the total number of findings and the number of threats by severity level (high, medium, or low).
 
-![2-findings-en](//images.ctfassets.net/alneenqid6w5/4wpzGuNHIyqAaRGuv5Dt8E/e70417627fcb41986d7ab06be2aaafcd/findings-en.png)
+![2-findings-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/security/vtex-shield/security-monitor_2.png)
 
 The tab displays the full list of open findings in a table, from the most recent to the oldest:
 
 | Column fields | Description |
 | --- | --- |
-| Finding | User email or application key related to the finding. |
-| Type | Type of finding detected:<br/><ul><li><strong>Old app keys:</strong> <a href="https://help.vtex.com/en/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet" rel="noopener noreferrer" target="_self" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word">Application keys</a> that were created more than 6 months ago.</li><li><strong>Excessive Super Admins:</strong> Users or application keys with the <strong>Owner (Admin Super)</strong>  <a href="https://help.vtex.com/en/tutorial/role--7HKK5Uau2H6wxE1rH5oRbc" rel="noopener noreferrer" target="_self" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word">role</a>.</li><li><strong>Leaked App Keys:</strong> <a href="https://help.vtex.com/en/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet" rel="noopener noreferrer" target="_self" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word">Application keys</a> that have been leaked on the web and identified by the VTEX Security team.</li><li><strong>Inactive Users:</strong> Users who have not accessed the Admin in the last 30 days.</li><li><strong>Excessive Permissions:</strong> Users or application keys with access to resources they did not use in the last 30 days.</li></ul> |
+| Finding | User email or API key related to the finding. |
+| Type | Type of finding detected:<br/><ul><li>**Old app keys:** [API keys](https://help.vtex.com/en/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet) that were created more than 6 months ago.</li><li>**Excessive Super Admins:** Users or API keys with the **Owner (Admin Super)**  [role](https://help.vtex.com/en/tutorial/role--7HKK5Uau2H6wxE1rH5oRbc).</li><li>**Leaked App Keys:** [API keys](https://help.vtex.com/en/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet) that have been leaked on the web and identified by the VTEX Security team.</li><li>**Inactive Users:** Users who have not accessed the Admin in the last 30 days.</li><li>**Excessive Permissions:** Users or API keys with access to resources they did not use in the last 30 days.</li></ul> |
 | Detected | Date the finding was detected. |
-| Sensor | Sensor that detected the threat: <br/><ul><li><strong>VTEX Identity</strong></li></ul> |
-| Severity| Level of threat severity, determined by the impact or potential risk associated with the threat: <br /><ul><li><strong>High</strong></li><li><strong>Medium</strong></li><li><strong>Low</strong></li></ul> |
-| Action menu ⋮ | Menu of possible actions for the finding: <br/><ul><li><a href="#managing-findings" rel="noopener noreferrer" target="_self" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word">Manage findings</a></li><li><a href="#snoozing-findings" rel="noopener noreferrer" target="_self" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word">Snoozing findings</a></li></ul> |
+| Sensor | Sensor that detected the threat: <br/><ul><li>**VTEX Identity**</li></ul> |
+| Severity| Level of threat severity, determined by the impact or potential risk associated with the threat: <br /><ul><li>**High**</li><li>**Medium**</li><li>**Low**</li></ul> |
+| Action menu ⋮ | Menu of possible actions for the finding: <br/><ul><li>[Manage findings](#managing-findings)</li><li>[Snoozing findings](#snoozing-findings)</li></ul> |
 
 ### Managing findings
 
@@ -69,7 +67,7 @@ To manage a finding, follow the instructions below:
 1. In the finding row, click the ⋮ menu.
 2. Select `Manage`.
 
-   You will be redirected to the **Users** screen in **Account Management** to edit the roles associated with the specific user or application key.
+   You will be redirected to the **Users** screen in **Account Management** to edit the roles associated with the specific user or API key.
 
 ### Snoozing findings
 
@@ -80,7 +78,7 @@ To move a finding to the **Snoozed** tab, removing it temporarily from the **Ope
 3. Choose the number of days you want the finding to remain in the **Snoozed** tab. The options available are: **7**, **90**, or **120** days.
 4. Click `Snooze`.
 
-![3-snooze-finding-en](//images.ctfassets.net/alneenqid6w5/1neaA5XmCxK4EB3HAVxcud/c7ca24c6ee12e307477b5436fd7ded5d/snooze-en.png)
+![3-snooze-finding-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/security/vtex-shield/security-monitor_3.png)
 
 ## Snoozed
 
@@ -94,22 +92,22 @@ The **Closed** tab displays a list of findings that have been managed and are th
 
 | Column fields | Description |
 | --- | --- |
-| Finding | User email or application key related to the finding. |
-| Type | Type of finding detected:<br/><ul><li><strong>Old app keys:</strong> <a href="https://help.vtex.com/en/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet" rel="noopener noreferrer" target="_self" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word">Application keys</a> that were created more than 6 months ago.</li><li><strong>Excessive Super Admins:</strong> Users or application keys with the <strong>Owner (Admin Super)</strong>  <a href="https://help.vtex.com/en/tutorial/role--7HKK5Uau2H6wxE1rH5oRbc" rel="noopener noreferrer" target="_self" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word">role</a>.</li><li><strong>Leaked App Keys:</strong> <a href="https://help.vtex.com/en/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet" rel="noopener noreferrer" target="_self" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word">Application keys</a> that have been leaked on the web and identified by the VTEX Security team.</li><li><strong>Inactive Users:</strong> Users who have not accessed the Admin in the last 30 days.</li></ul> |
+| Finding | User email or API key related to the finding. |
+| Type | Type of finding detected:<br/><ul><li>**Old app keys:** [API keys](https://help.vtex.com/en/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet) that were created more than 6 months ago.</li><li>**Excessive Super Admins:** Users or API keys with the **Owner (Admin Super)**  [role](https://help.vtex.com/en/tutorial/role--7HKK5Uau2H6wxE1rH5oRbc).</li><li>**Leaked App Keys:** [API keys](https://help.vtex.com/en/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet) that have been leaked on the web and identified by the VTEX Security team.</li><li>**Inactive Users:** Users who have not accessed the Admin in the last 30 days.</li></ul> |
 | Detected | Date the finding was detected. |
 | Closed | Date the finding was closed. |
 | Closed By | Indicates that the finding was automatically closed after being managed by an admin user. |
-| Severity | Level of threat severity, determined by the impact or potential risk associated with the threat: <br /><ul><li><strong>High</strong></li><li><strong>Medium</strong></li><li><strong>Low</strong></li></ul> |
+| Severity | Level of threat severity, determined by the impact or potential risk associated with the threat: <br /><ul><li>**High**</li><li>**Medium**</li><li>**Low**</li></ul> |
 
 ## Searching for findings
 
-In the search bar, enter the user's email address or the name of the application key to find related findings.
+In the search bar, enter the user's email address or the name of the API key to find related findings.
 
 ## Filtering findings by type
 
 By clicking `Type` <i class="fas fa-chevron-down"></i>, you can choose one of the finding types to filter the results displayed in the list. Click `Apply` to confirm the chosen filter, and the list will be updated.
 
-![4-filter-findings-en](//images.ctfassets.net/alneenqid6w5/1qJnJBy5YHJzQKynw783W7/144c7b2efaaf32d4ef8de3cdb115eb47/filter-security-monitor-en.png)
+![4-filter-findings-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/security/vtex-shield/security-monitor_4.png)
 
 ## Exporting findings
 
@@ -132,7 +130,7 @@ The exported CSV file includes the following information about each finding:
 | :---- | :---- |
 | *Id* | ID of the finding. |
 | *Type* | Type of finding detected. |
-| *Finding* | User email or application key related to the finding. |
+| *Finding* | User email or API key related to the finding. |
 | *Sensor* | Sensor that detected the threat (VTEX Identity). |
 | *Account* | Account where the threat was detected. |
 | *Severity* | Level of threat severity, determined by the impact or potential risk: <ul><li>High</li><li>Medium</li><li>Low</li></ul> |
@@ -153,11 +151,11 @@ To edit the admin users who will be notified about the findings, follow the step
    To remove a user, click the `X` next to their email.
 3. Click `Save`.
 
-![5-edit-notifications-en](//images.ctfassets.net/alneenqid6w5/1CmMhWokQgzxRAqk1Jvqn4/d7022e75253fe620253513a811edad0f/notifications-security-monitor-en.png)
+![5-edit-notifications-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/security/vtex-shield/security-monitor_5.png)
 
 ## Learn more
 
 * [VTEX Shield](https://help.vtex.com/en/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh)
 * [Roles](https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc)
 * [Users](https://help.vtex.com/en/tutorial/managing-users--tutorials_512)
-* [Application keys](https://help.vtex.com/en/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet)
+* [API keys](https://help.vtex.com/en/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet)

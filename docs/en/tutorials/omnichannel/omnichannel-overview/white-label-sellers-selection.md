@@ -22,9 +22,7 @@ There are two types of sellers on the VTEX platform:
 - **Common seller:** The seller is visible for customers in the marketplace and can be chosen by the customer during their shopping experience.
 - **[White label seller](https://help.vtex.com/en/tutorial/definicoes-de-conta-franquia-e-seller-white-label--5orlGHyDHGAYciQ64oEgKa):** The seller remains unknown to the customer during their shopping experience and is automatically selected by the VTEX platform to deliver the order. 
 
-<div class = "alert alert-info">
-At VTEX, a franchise account is associated with a main account, and it acts as a white label seller of the main account. This business model is strategic for retailers who want to connect physical stores to their digital sales channel. Learn more in <a href="https://help.vtex.com/en/tutorial/what-is-a-franchise-account--kWQC6RkFSCUFGgY5gSjdl">What is a franchise account?</a>.
-</div>
+> ℹ️ At VTEX, a franchise account is associated with a main account, and it acts as a white label seller of the main account. This business model is strategic for retailers who want to connect physical stores to their digital sales channel. Learn more in [What is a franchise account?](https://help.vtex.com/en/tutorial/what-is-a-franchise-account--kWQC6RkFSCUFGgY5gSjdl).
 
 When the customer browses the marketplace, either the window display or the shopping cart, the seller information regarding item availability and shipping options may vary, depending on the marketplace knowing or not the buyer's location. Therefore, this article is divided into the following:
 
@@ -39,9 +37,7 @@ When customers browse the marketplace, they expect to view products that can be 
 - [Window display when customer location is not defined.](#window-display-when-customer-location-is-not-defined)
 - [Window display when customer location is defined.](#window-display-when-customer-location-is-defined)
 
-<div class = "alert alert-info">
-During the window display stage of the shopping experience, the VTEX platform does not consider the sellers' shipping options. This only happens when the customer enters the address at checkout. However, the price and availability presented in the window display may change when completing the purchase.
-</div>
+> ℹ️ During the window display stage of the shopping experience, the VTEX platform does not consider the sellers' shipping options. This only happens when the customer enters the address at checkout. However, the price and availability presented in the window display may change when completing the purchase.
 
 ### Window display when customer location is not defined
 
@@ -51,9 +47,7 @@ When a customer is browsing the marketplace from an undefined location, only the
 
 When the marketplace has access to the customer's location, either through captured geolocation or customer provided data, the VTEX platform queries for all the sellers covering that specific region to display the product price and availability in the window display and select the seller offering the lowest price. Learn more in [Setting up price and availability of SKUs by Region](https://help.vtex.com/en/tutorial/configurar-preco-e-disponibilidade-de-skus-por-region--12ne58BmvYsYuGsimmugoc).
 
-<div class="alert alert-warning">
-When the customer location is known, the VTEX platform queries for all sellers by default, using the <a href="https://developers.vtex.com/vtex-developer-docs/changelog/region-v2-release">Region v2</a> feature. However, some VTEX stores may still be operating with Region v1, which has a limited seller selection for the window display.
-</div>
+> ⚠️ When the customer location is known, the VTEX platform queries for all sellers by default, using the [Region v2](https://developers.vtex.com/vtex-developer-docs/changelog/region-v2-release) feature. However, some VTEX stores may still be operating with Region v1, which has a limited seller selection for the window display.
 
 ## Seller selection in the shopping cart
 
@@ -81,9 +75,7 @@ After filtering all sellers based on the criteria above, up to six sellers will 
 - [Delivery](#shipping-method-delivery): the customer receives the order at their address.
 - [Pickup](#shipping-method-pickup): the customer picks up the order from a [pickup point](https://help.vtex.com/en/tutorial/pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R).
 
-<div class = "alert alert-info">
-By default, from a total of up to twelve sellers, up to six do delivery and up to six offer pickup. However, if less than six sellers meet the criteria for one shipping method, the other category may list more than six sellers. For example, if there are only five sellers for order delivery, the pickup list may have seven sellers, so that the total adds up to twelve sellers.
-</div>
+> ℹ️ By default, from a total of up to twelve sellers, up to six do delivery and up to six offer pickup. However, if less than six sellers meet the criteria for one shipping method, the other category may list more than six sellers. For example, if there are only five sellers for order delivery, the pickup list may have seven sellers, so that the total adds up to twelve sellers.
 
 #### Shipping method: delivery
 
@@ -98,13 +90,7 @@ The selection of up to six white label sellers for delivery shipping consists of
 6. Based on the selection of sellers covering the shopping cart, the VTEX platform calculates the combinations with the lowest number of sellers.
 7. Out of these combinations, a list of maximum six sellers is made for delivery shipping.
 
-<div class = "alert alert-info">
-During selection, different sellers may come to a tie. In that case, the selection is divided into two criteria in order to choose:
-  <ul>
-    <li>Up to three sellers with the best cost.</li>
-    <li>Up to three sellers with the best time.</li>
-  </ul>
-</div>
+> ℹ️ During selection, different sellers may come to a tie. In that case, the selection is divided into two criteria in order to choose: <ul> <li>Up to three sellers with the best cost.</li> <li>Up to three sellers with the best time.</li> </ul>
 
 If there is a tie between sellers on the best cost or time, the tiebreaker criterion is the seller with the highest quantity of SKUs in stock.
 
@@ -112,13 +98,13 @@ If there is a tie between sellers on the best cost or time, the tiebreaker crite
 
 A customer added five SKUs to the shopping cart. Each of the sellers delivering in the customer's region (sellers A, B, C, and D) has only part of the ordered items in [stock](https://help.vtex.com/en/tutorial/gerenciar-itens-em-estoque--tutorials_139), as illustrated below: 
 
-![print_selecao_seller_white_label_1](//images.ctfassets.net/alneenqid6w5/23CWM1CDejDvKqF31O2DH9/4fdb2ed25e8d3d52eef96e5c0e2fd908/print_selecao_seller_white_label_1.png)
+![print_selecao_seller_white_label_1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/omnichannel/omnichannel-overview/white-label-sellers-selection_1.png)
 
 The VTEX platform selects the seller that has available in stock the maximum quantity of the SKUs added to the shopping cart. In this case, it's Seller B, the only one that can deliver three SKUs. 
 
 After Seller B is selected, there are two SKUs still to be delivered. If a single seller were able to deliver both items, it would be a decisive selection factor because the objective is to find the lowest number of sellers to cover the shopping cart. However, Sellers A and C will be selected for delivering SKUs 1 and 4, as illustrated in the image below:
 
-![print_selecao_seller_white_label_2](//images.ctfassets.net/alneenqid6w5/23CWM1CDejDvKqF31O2DH9/3f7b71abf734ae7c55d8b40d3a76f3c0/print_selecao_seller_white_label_2.png)
+![print_selecao_seller_white_label_2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/omnichannel/omnichannel-overview/white-label-sellers-selection_2.png)
 
 In the first image, Seller C was able to deliver SKUs 3 and 4, and Seller D could deliver SKU 5. But Seller B has already been selected to deliver those items, so those SKUs will be disregarded in the following steps of the selection. This is represented by removing the arrow connecting Seller C to SKU 3 and Seller D to SKU 5.
 
@@ -128,7 +114,7 @@ The selection result for the delivery method is a combination between sellers A,
 
 A customer added five SKUs to the shopping cart and there are four sellers delivering in their region: sellers A, B, C, and D. None of them has all of the items in [stock](https://help.vtex.com/en/tutorial/gerenciar-itens-em-estoque--tutorials_139), as illustrated below:
 
-![print_selecao_seller_white_label_3](//images.ctfassets.net/alneenqid6w5/23CWM1CDejDvKqF31O2DH9/26cd86b37e5e47ada6f15cc08acfbfbc/print_selecao_seller_white_label_3.png)
+![print_selecao_seller_white_label_3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/omnichannel/omnichannel-overview/white-label-sellers-selection_3.png)
 
 The VTEX platform selects the seller that has available in stock the highest number of the SKUs added to the shopping cart. Seller B and Seller D are able to deliver three items. Because both can deliver SKU 3, they are in competition.
 
@@ -141,11 +127,11 @@ Suppose Seller B has the cheapest shipping and Seller D has the fastest shipping
 
 - **Fastest shipping:** After Seller D is selected, SKUs 3 and 4 remain to be delivered. Seller C is able to deliver both, therefore it will be selected. The selection result is a combination of sellers D and C.
 
-![print_selecao_seller_white_label_4](//images.ctfassets.net/alneenqid6w5/5OVQXuRwsEWGUxy3hocfOF/4751f13e35a8187655c04b11c67f6079/print_selecao_seller_white_label_4.png)
+![print_selecao_seller_white_label_4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/omnichannel/omnichannel-overview/white-label-sellers-selection_4.png)
 
 - **Cheapest shipping cost:** After Seller B is selected, SKUs 1 and 4 remain to be delivered. Since only Seller A is able to deliver SKU 1 and Seller C SKU 4, the selection result is a combination of sellers A, B, and C. 
 
-![print_selecao_seller_white_label_5](//images.ctfassets.net/alneenqid6w5/2zLEDj7yHw54HufNUeC8OT/d69cee9bb79c876adb571e98ccd0060c/print_selecao_seller_white_label_5.png)
+![print_selecao_seller_white_label_5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/omnichannel/omnichannel-overview/white-label-sellers-selection_5.png)
 
 In the images showing the fastest shipping and the cheapest shipping, the arrows pointing repeatedly to sellers which delivered SKUs covered by sellers B and D were removed. During the selection process, SKUs that are already covered are disregarded.
 
@@ -170,9 +156,7 @@ The selection of up to six sellers is made for the customer to get all shopping 
     - **Best time:** Sellers which make the products available for pickup in the shortest time.
     - **Best cost:** Sellers which offer the cheapest prices for order pickup.
 
-<div class = "alert alert-info">
-When there is a tie between the best cost and best time, the tiebreak criterion is the seller with the highest quantity of SKUs in stock.
-</div>
+> ℹ️ When there is a tie between the best cost and best time, the tiebreak criterion is the seller with the highest quantity of SKUs in stock.
 
 ##### Example for pickup shipping
 

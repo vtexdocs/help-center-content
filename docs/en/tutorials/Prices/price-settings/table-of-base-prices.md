@@ -25,13 +25,9 @@ For a better understanding of how to fill the [table of base prices](https://hel
 
 - **List Price**: The list price functions as a SKU's former price assumed to be on sale. It's also known as the "original price" and can be shown in your store's window display. This field is optional when registering a price.
 
-<div class="alert alert-danger">
-When filling out the spreadsheet for the <b>Cost Price</b>, <b>Base Price</b> and <b>List Price</b> fields, the characters must be the <code>General</code> type. Using other formats will result in errors when importing the spreadsheet.
-</div>
+> ❗ When filling out the spreadsheet for the **Cost Price**, **Base Price** and **List Price** fields, the characters must be the `General` type. Using other formats will result in errors when importing the spreadsheet.
 
-<div class="alert alert-info">
-<p>In <b>Cost Price</b>, <b>Base Price</b> and <b>List Price</b>, you can insert decimal values separated by dot. Example: <code>4.95</code>.</p>
-</div>
+> ℹ️ In **Cost Price**, **Base Price** and **List Price**, you can insert decimal values separated by dot. Example: `4.95`.
 
 The next spreadsheet fields are optional, used only to make SKU identification easier. To view these fields in the spreadsheet, you'll need to select the *include metadata in exported tables* export option.
 
@@ -48,7 +44,7 @@ The next spreadsheet fields are optional, used only to make SKU identification e
 <table width="100%">
   <tr>
    <td>
-    <img src="https://images.ctfassets.net/alneenqid6w5/2XX0xwgVreVnFb6U2rjJR7/3d3cd52b27e5831b6b105e8104e20714/baseprices_table.png" style="display: block; margin-left: auto; margin-right: auto;" alt="base prices table" title="base prices table">
+    <img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Prices/price-settings/table-of-base-prices_1.png" style="display: block; margin-left: auto; margin-right: auto;" alt="base prices table" title="base prices table">
    </td>
   </tr>
   <tr>

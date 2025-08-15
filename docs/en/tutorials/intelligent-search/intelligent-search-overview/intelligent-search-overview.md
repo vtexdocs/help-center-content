@@ -15,18 +15,11 @@ locale: en
 subcategoryId: l3DubpOCHBfKyF2ueg2Vs
 ---
 
-<div class="alert alert-info">
-  <p>Intelligent Search is available for stores developed using:</p>
-  <ul>
-    <li><a href="https://developers.vtex.com/docs/guides/store-framework">Store Framework</a></li>
-    <li><a href="https://developers.vtex.com/docs/guides/faststore">FastStore</a>
-    <li><a href="https://developers.vtex.com/docs/api-reference/intelligent-search-events-api-headless">Headless implementations</a>
-  </ul>
-</div>
+> ℹ️ Intelligent Search is available for stores developed using: <ul> <li>[Store Framework](https://developers.vtex.com/docs/guides/store-framework)</li> <li>[FastStore](https://developers.vtex.com/docs/guides/faststore) <li>[Headless implementations](https://developers.vtex.com/docs/api-reference/intelligent-search-events-api-headless) </ul>
 
 Intelligent Search is a search solution developed by VTEX to provide accurate and relevant search results based on the interactions of your store's customers. Results are displayed based on user behavior, whether through the search bar, browsing categories or viewing product window displays.
 
-![Intelligent Search](https://cdn.jsdelivr.net/gh/vtexdocs/dev-portal-content@main/images/search-overview-0_21.gif)
+![Intelligent Search](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/intelligent-search/intelligent-search-overview/intelligent-search-overview_1.gif)
 
 The tool has features such as:
 
@@ -36,9 +29,7 @@ The tool has features such as:
 * Autocorrect: Handles typos and spelling mistakes, such as plural and singular variations and gender variations in words that share the same radical.  
 * Customization: Offers customizable features such as Relevance, Synonyms, and Merchandising Rules, which make it possible to improve the customer experience and meet the store's business needs.
 
-<div class="alert alert-info">
-  <p>Learn how to get started with Intelligent Search in the <a href="https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb">Getting Started track</a>.</p>
-</div>
+> ℹ️ Learn how to get started with Intelligent Search in the [Getting Started track](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb).
 
 In the articles listed below, you will find an overview of Intelligent Search's main features.
 

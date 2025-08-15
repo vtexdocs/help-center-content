@@ -19,9 +19,7 @@ A relationship between entities is a reference between documents that belong to 
 
 For example, assume your store has a **Customer** entity and a **Wishlist** entity. If you want each customer to be able to create multiple wishlists, you must create a field in the **Wishlist** entity to link each one of them to a customer. 
 
-<div class="alert alert-info">
-<p>Master Data has a few predefined relationships by default, such as Customer (CL) and Address (AD).</p>
-</div>
+> ℹ️ Master Data has a few predefined relationships by default, such as Customer (CL) and Address (AD).
 
 ## Creating a relationship between data entities
 
@@ -49,7 +47,7 @@ Check out the instructions below for the aforementioned example.
 8. Click the gear icon <i class="fas fa-cog"></i> next to the **Relationship** field to configure it.
 9. Under **Custom field type settings**, select the entity you want to link and the field that will be displayed in the relationship. In this example, the relationship will be with the **Customer** entity, and the **email** field will be displayed.
 
-   ![Relationship entity Shopping List](//images.ctfassets.net/alneenqid6w5/3YjtdLHluQz9ve11TkmylY/353fce7d63dcb871aad6b426723738c7/Lista_Compras_Relacionamento_EN.png)
+   ![Relationship entity Shopping List](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/master-data/master-data-v1-applications/creating-relationships-between-master-data-entities-using-admin_1.png)
 
 10. Click the `Save` button to save the settings.
 11. Click the publish icon <i class="fas fa-save"></i> to publish the entity.
@@ -96,4 +94,4 @@ To do this, you need to add the value `{relationship_entity_acronym}.{relationsh
 
 Relationships are kept through document IDs. Trying to insert the relationship's field value as a filter in the form will return only the IDs of the referred documents, and not each document's value for the chosen field. The image below shows this result. For more information, see [How to filter data in Master Data](https://help.vtex.com/en/tutorial/filtering-data-on-master-data--tutorials_778).
 
-![Filter relationship ID](//images.ctfassets.net/alneenqid6w5/4O1qpGWOrnnM3Zzmyqzymu/cc8c2639c1f1c806c97392e7a97da165/filters-en.png)
+![Filter relationship ID](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/master-data/master-data-v1-applications/creating-relationships-between-master-data-entities-using-admin_2.png)

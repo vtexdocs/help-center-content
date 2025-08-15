@@ -27,6 +27,4 @@ Through the VTEX Admin's Storefront, VTEX enables you to do so. Check below the 
 
 4. Create, update or/and delete content for the predefined binding and locale, and then save your changes.
 
-<div class="alert alert-warning">
-Whereas editing a block content, you will not be able to change binding and locale data — the fields will be blocked. If you wish to change them, save or discard your changes and return to the Site Editor home page.
-</div>
+> ⚠️ Whereas editing a block content, you will not be able to change binding and locale data — the fields will be blocked. If you wish to change them, save or discard your changes and return to the Site Editor home page.

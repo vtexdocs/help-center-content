@@ -62,7 +62,7 @@ To create internal app keys in your account, follow the steps below:
 
 	You will be redirected to the **My Keys** page, as shown below. This page lists all [internal app keys](#internal-application-keys).
 
-    ![My Keys](//images.ctfassets.net/alneenqid6w5/1pSqVIzYaiCJO3RkJUoXZQ/1c98224b6f50673c4567f21e22de4978/image3.png)
+    ![My Keys](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/account-management/application-keys/application-keys_1.png)
 
     These are the visible fields on the **My Keys** page:
 
@@ -74,7 +74,7 @@ To create internal app keys in your account, follow the steps below:
 4. (Optional) Complete the **Label** with a description of the purpose of the app key. This field is set only when creating the app key and cannot be changed afterward. If left blank, it will default to the **Key** value of the generated app key.
 5. (Optional) Click `+ Add Roles` to [manage application key permissions](#managing-application-key-permissions).
 6. Click the `Generate` button.
-7. Click <img src="https://images.contentful.com/alneenqid6w5/3OX5lRYiaSEtQUDXoYJD32/6628b57d4ec1651bcb184ab31c4acd72/image1.png" alt="copy-button"/> to copy the **Application token**. _This secret will only be displayed once. Save it in a safe place._
+7. Click <img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/account-management/application-keys/application-keys_3.png" alt="copy-button"/> to copy the **Application token**. _This secret will only be displayed once. Save it in a safe place._
 
 <div class="alert alert-warning">
   <p>Secure your application keys and token pairs as you would with other credentials, such as usernames and passwords. If you suspect an application key is compromised, immediately deactivate the key in your account. To learn more, read the <a href="#activating-or-deactivating-application-keys">Activating or deactivating application keys</a> section of this article.</p>
@@ -114,7 +114,7 @@ When editing an application key, you can:
 
 Once you have added roles to an application key, it will be displayed on the **Application Keys** page.
 
-![Application Keys](//images.ctfassets.net/alneenqid6w5/2wGtLJjEnzTf1VJmkFcRhm/4ca25e35b379a4a71370c1e07221cf1a/appkeys-en.png)
+![Application Keys](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/account-management/application-keys/application-keys_2.png)
 
 These are the visible fields on the **Application Keys** page:
 
@@ -168,4 +168,4 @@ To reactivate external application keys that have previously been deactivated, y
 
 If necessary for a security audit, you can export a CSV file containing the **Key** values for all internal and external app keys that currently have access to your account — that is, that have roles associated with them.
 
-To export the keys, go to _Account settings > Application keys_ and click the <span style="display: inline-block;"><img src="https://images.contentful.com/alneenqid6w5/25JqGWNUZPZattDX6ORXX6/742e99e17042024b9cae641564909171/image4.png" alt="export-button"/> <strong>Export</strong></span> button.
+To export the keys, go to _Account settings > Application keys_ and click the <span style="display: inline-block;"><img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/account-management/application-keys/application-keys_4.png" alt="export-button"/> <strong>Export</strong></span> button.

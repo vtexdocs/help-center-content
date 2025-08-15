@@ -27,13 +27,13 @@ The Seller Portal enables marketplaces to:
 - Decrease sales conversion time with self-service onboarding of new sellers, which is now faster and frictionless.  
 - Easily share product assortment with the seller and quickly manage shared product offers.  
 
-![Seller Portal gif 2022 launch](//images.ctfassets.net/alneenqid6w5/48uQe9Gi0K9ZU8qyXXO8US/ff02b9c926398dcfa69683bcfbf5b02f/Seller_Portal.gif)
+![Seller Portal gif 2022 launch](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Sellers/seller-portal/seller-portal-getting-started-for-the-marketplace_1.gif)
 
 ## Seller and marketplace interaction in the Seller Portal
 
 Using the Seller Portal depends on the actions of the marketplace and the seller, as shown in the following image:
 
-<img src="https://drive.google.com/uc?export=download&id=1O-PCwHCM8MioJBTkhCAGieJeGBHCi5db"/>
+<img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Sellers/seller-portal/seller-portal-getting-started-for-the-marketplace_2.png"/>
 
 The steps shown in the image above are:
 
@@ -60,9 +60,7 @@ The **Invited Sellers** page is where marketplace operators [invite sellers](htt
 
 Through the Seller Portal, marketplaces hosted on VTEX can connect with sellers who have a VTEX account, sellers hosted on other platforms, or sellers who are not hosted on any platform. Upon accepting the invitation, the seller chooses whether to integrate their existing VTEX account or create a new account to sell on the marketplace. 
 
-<div class = "alert alert-info">
-Once the <a href="https://help.vtex.com/en/tutorial/marketplace-convite-de-sellers-beta--6rb2FkcslmDueJ689Ulb9A#convidar-seller">marketplace invites the seller</a>, an email is sent to the seller containing a link to create an account on the Seller Portal. The link is valid for seven days. After opening it, the seller has six hours to complete the registration form, without interruption.
-</div>
+> ℹ️ Once the [marketplace invites the seller](https://help.vtex.com/en/tutorial/marketplace-convite-de-sellers-beta--6rb2FkcslmDueJ689Ulb9A#convidar-seller), an email is sent to the seller containing a link to create an account on the Seller Portal. The link is valid for seven days. After opening it, the seller has six hours to complete the registration form, without interruption.
 
 If the seller does not register within that period, the marketplace will have to resend the invitation. This can be done from the VTEX Admin through **MARKETPLACE > Sellers > Seller Invite**. You need to select the seller from the list and click the **Resend Invitation** button.
 
@@ -77,9 +75,7 @@ To learn more, check the following articles:
 
 Once the seller accepts the marketplace invitation and they register their Seller Portal account, the next step is activating them so they can connect to the marketplace. This changes the seller status from _Invited_ to _Active_ and adds them to **Seller Management**. Follow the instructions to activate the seller in [Connecting sellers](https://help.vtex.com/en/tutorial/marketplace-convite-de-sellers-beta--6rb2FkcslmDueJ689Ulb9A#connecting-sellers).
 
-<div class = "alert alert-info">
-The seller activation step is intended to provide more security for the marketplace, in case some alignment with the seller is required before they start selling on the marketplace.
-</div>
+> ℹ️ The seller activation step is intended to provide more security for the marketplace, in case some alignment with the seller is required before they start selling on the marketplace.
 
 #### Actions through REST APIs
 
@@ -102,9 +98,7 @@ This step is optional for the marketplace and will depend on the goal of your bu
 
 When the marketplace decides to allow sharing, this is done through a [trade policy](https://help.vtex.com/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV). Then, the seller receives the list of products that are already available in the marketplace, which allows them to import and configure inventory and pricing in the Seller Portal, under **Products > Shared Products**.
 
-<div class = "alert alert-info">
-If the marketplace operator creates an additional trade policy to define the seller catalog assortment on the Seller Portal, the policy is charged as <a href="https://help.vtex.com/en/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X">requesting an additional trade policy</a>.
-</div>
+> ℹ️ If the marketplace operator creates an additional trade policy to define the seller catalog assortment on the Seller Portal, the policy is charged as [requesting an additional trade policy](https://help.vtex.com/en/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X).
 
 #### Sharing products
 
@@ -122,9 +116,7 @@ On VTEX, an [offer](https://help.vtex.com/en/tutorial/anuncios-y-envio-de-produc
 
 When the seller creates a new product, the marketplace needs to review and approve the offer in a process called [cataloging offers](https://help.vtex.com/en/tutorial/sugerindo-e-aprovando-skus--tutorials_396). Cataloging allows you to create new products and associate offers with SKUs or existing products to make them available for sale.
 
-<div class = "alert alert-info">
-Offers for <a href="https://help.vtex.com/en/tutorial/seller-portal-produtos-compartilhados--6vUGj2UmOuLzQTK9pj04lu">products that are shared</a> between the marketplace and the seller are approved automatically, without requiring any manual action.
-</div>
+> ℹ️ Offers for [products that are shared](https://help.vtex.com/en/tutorial/seller-portal-produtos-compartilhados--6vUGj2UmOuLzQTK9pj04lu) between the marketplace and the seller are approved automatically, without requiring any manual action.
 
 The cataloging process can be completed through the VTEX Admin, under **MARKETPLACE > Sellers > Received SKUs** or through the [Match Received SKUs](https://developers.vtex.com/vtex-rest-api/reference/match) API.
 

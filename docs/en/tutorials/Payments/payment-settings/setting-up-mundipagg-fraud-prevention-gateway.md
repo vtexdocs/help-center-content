@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-<div class="alert alert-danger">This payment integration can no longer be configured on the platform due to the <a href="https://help.vtex.com/en/announcements/legacy-payment-connectors-will-be-discontinued-in-2024--4R5YIjUu1IWkiOHzXtQU14">legacy provider removal process</a> and the article will soon be removed from the Help Center. Check with your provider for more information about developing the new payment integration and the steps required for migrating settings in your store.</div>
+> ❗ This payment integration can no longer be configured on the platform due to the [legacy provider removal process](https://help.vtex.com/en/announcements/legacy-payment-connectors-will-be-discontinued-in-2024--4R5YIjUu1IWkiOHzXtQU14) and the article will soon be removed from the Help Center. Check with your provider for more information about developing the new payment integration and the steps required for migrating settings in your store.
 
 Mundipagg offers a version of its [gateway](/en/tutorial/what-is-a-payment-gateway) with anti-fraud functionality. Mundipagg Fraud Prevention brings even more security to the processing of purchases made with bank slips, bank transfers and major credit card brands.
 
@@ -37,7 +37,7 @@ To configure Mundipagg Fraud Prevention, follow the steps below:
 14. Click __Save__.
 
 <div class "alert alert-info">
-The steps <strong>8</strong>, <strong>9</strong>, <strong>11</strong> and <strong>12</strong> must be completed if you want to offer bank slip as a payment condition in your store.
+The steps **8**, **9**, **11** and **12** must be completed if you want to offer bank slip as a payment condition in your store.
 </div>
 
 ## Setting up the payment condition

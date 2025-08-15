@@ -43,6 +43,4 @@ After setting up Clearsale's anti-fraud system, it will be available for use in 
 6. Select __ClearsaleV4__.
 7. Click `Save`.
 
-<div class="alert alert-warning">
-For a transaction to go through antifraud analysis, <strong>the payment condition used by the customer must be associated with it</strong>.
-</div>
+> ⚠️ For a transaction to go through antifraud analysis, **the payment condition used by the customer must be associated with it**.

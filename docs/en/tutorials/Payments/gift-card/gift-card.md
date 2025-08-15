@@ -28,44 +28,36 @@ By a VTEX standard, the gift card is considered a payment method. This product h
 
 To create a new gift card, follow the step by step:
 <ol>
-  <li>In the VTEX Admin, go to <b>Promotions > Gift Cards</b>, or type <b>Gift Cards</b> in the search bar at the top of the page.</li>  
+  <li>In the VTEX Admin, go to **Promotions > Gift Cards**, or type **Gift Cards** in the search bar at the top of the page.</li>  
   <br>
-  <li>Click on the <b>New Gift Card</b> button.</li> 
+  <li>Click on the **New Gift Card** button.</li> 
   <br>
-  <div class = "alert alert-info">
-  <p>On the gift card creation screen, the <b>Gift card</b> field is automatically filled in by the VTEX system with the ID code of the new gift card. This is the code to be entered by the customer on the checkout screen to apply the gift card to the cart and reduce the payment value of the order.</p>
-</div>
+  > ℹ️ On the gift card creation screen, the **Gift card** field is automatically filled in by the VTEX system with the ID code of the new gift card. This is the code to be entered by the customer on the checkout screen to apply the gift card to the cart and reduce the payment value of the order.
 <br>
   <li>Fill in the fields that will be displayed as explained below:</li>
   <br>
 <ul>  
-  <li><b>Value</b>: the nominal value that will be granted for the voucher use.</li>
-  <li><b>Currency code</b>: currency in which the voucher will be created. The options available for selection are presented in accordance with the commercial policies of each store.</li>
-  <li><b>Expiration Date</b>: this is the effective date for using the voucher.</li>
-  <li><b>Customer ID</b>: data that identifies and defines the voucher for a specific client.</li>
-  <li><b>Collection</b>: identifies the product collection that defines the items to which the voucher can be applied.</li>
+  <li>**Value**: the nominal value that will be granted for the voucher use.</li>
+  <li>**Currency code**: currency in which the voucher will be created. The options available for selection are presented in accordance with the commercial policies of each store.</li>
+  <li>**Expiration Date**: this is the effective date for using the voucher.</li>
+  <li>**Customer ID**: data that identifies and defines the voucher for a specific client.</li>
+  <li>**Collection**: identifies the product collection that defines the items to which the voucher can be applied.</li>
 </ul><br>
 
-<div class="alert alert-warning">
-<strong>Warning</strong>: The “Value” and the “Expiration Date” fields are <strong>mandatory</strong>. If you do not fill them, the purchase voucher will not be saved.
-</div>
+> ⚠️ **Warning**: The “Value” and the “Expiration Date” fields are **mandatory**. If you do not fill them, the purchase voucher will not be saved.
 
-<div class="alert alert-danger">
-The feature that creates gift cards limited by product collections is not working. More details about this issue are provided in the article <a href="https://help.vtex.com/en/known-issues/restricting-the-use-of-giftcards-to-a-collection-of-products-does-not-work--7kdbZUdscJLo1sGY6bo1jp" target="_blank">Restricting the use of GiftCards to a collection of products does not work</a>.
-</div>
+> ❗ The feature that creates gift cards limited by product collections is not working. More details about this issue are provided in the article [Restricting the use of GiftCards to a collection of products does not work](https://help.vtex.com/en/known-issues/restricting-the-use-of-giftcards-to-a-collection-of-products-does-not-work--7kdbZUdscJLo1sGY6bo1jp).
 
 After filling in the fields correctly, the user can select up to three configuration options:
 <ul>
-  <li><b>Restricted</b>: only the customer associated with the CPF or CNPJ informed above can use this voucher.</li>
-  <li><b>Reloadable</b>: while this voucher is available, its balance can be changed.</li>
-  <li><b>Reusable</b>: it will be possible to make new purchases with this voucher until its value is fully used.</li>
+  <li>**Restricted**: only the customer associated with the CPF or CNPJ informed above can use this voucher.</li>
+  <li>**Reloadable**: while this voucher is available, its balance can be changed.</li>
+  <li>**Reusable**: it will be possible to make new purchases with this voucher until its value is fully used.</li>
 </ul>
 <br>
-  <li>Finally, click on the <b>Save</b> button.</li>
+  <li>Finally, click on the **Save** button.</li>
 <br>
-<div class="alert alert-info">
-There is no limit to the creation of gift cards, however only 8000 gift cards can be exported at a time.
-</div>
+> ℹ️ There is no limit to the creation of gift cards, however only 8000 gift cards can be exported at a time.
 
 </ol>  
 
@@ -73,38 +65,33 @@ There is no limit to the creation of gift cards, however only 8000 gift cards ca
 
 To create more than one new voucher at the same time (a batch), follow the step by step:
 <ol>
-  <li>In the VTEX Admin, go to <b>Promotions > Gift Cards</b>, or type <b>Gift Cards</b> in the search bar at the top of the page.</li>  
+  <li>In the VTEX Admin, go to **Promotions > Gift Cards**, or type **Gift Cards** in the search bar at the top of the page.</li>  
   <br>
-  <li>Click on the <b>New Gift Card Batch</b> button.</li> 
+  <li>Click on the **New Gift Card Batch** button.</li> 
   <br>
   <li>Fill in the fields that will be displayed as explained below:</li>  
 <br>
 <ul>
-  <li><b>Number of gift cards</b>: this is the number of vouchers that you want to create as a batch. A maximum of 500 (five hundred) vouchers can be created per batch.</li>
-  <li><b>Value</b>: the nominal value that will be granted for all vouchers in this batch.</li>
-  <li><b>Currency code</b>: currency in which vouchers will be batched. The options available for selection are customized according to the commercial policies of each store.</li>
-  <li><b>Expiration Date</b>: this is the effective date for using all vouchers of this batch.</li>
-  <li><b>Collection</b>: identifies the product collection that defines the items to which the vouchers can be applied.</li>
+  <li>**Number of gift cards**: this is the number of vouchers that you want to create as a batch. A maximum of 500 (five hundred) vouchers can be created per batch.</li>
+  <li>**Value**: the nominal value that will be granted for all vouchers in this batch.</li>
+  <li>**Currency code**: currency in which vouchers will be batched. The options available for selection are customized according to the commercial policies of each store.</li>
+  <li>**Expiration Date**: this is the effective date for using all vouchers of this batch.</li>
+  <li>**Collection**: identifies the product collection that defines the items to which the vouchers can be applied.</li>
 <br>
-<div class="alert alert-warning">
-<strong>Warning</strong>: The “Number of gift cards”, “Value” and the “Expiration Date” fields are <strong>mandatory</strong>. If you don’t fill them, the purchase vouchers will not be saved.</div>
+> ⚠️ **Warning**: The “Number of gift cards”, “Value” and the “Expiration Date” fields are **mandatory**. If you don’t fill them, the purchase vouchers will not be saved.
 <br>
-<div class="alert alert-danger">
-The feature that creates gift cards limited by product collections is not working. More details about this issue are provided in the article <a href="https://help.vtex.com/en/known-issues/restricting-the-use-of-giftcards-to-a-collection-of-products-does-not-work--7kdbZUdscJLo1sGY6bo1jp" target="_blank">Restricting the use of GiftCards to a collection of products does not work</a>.
-</div>
+> ❗ The feature that creates gift cards limited by product collections is not working. More details about this issue are provided in the article [Restricting the use of GiftCards to a collection of products does not work](https://help.vtex.com/en/known-issues/restricting-the-use-of-giftcards-to-a-collection-of-products-does-not-work--7kdbZUdscJLo1sGY6bo1jp).
 <br>
-  <li><b>Reloadable</b>: while these vouchers are available, their balances can be changed;</li>
-  <li><b>Reusable</b>: it will be possible to make new purchases with these vouchers until their values are fully used.</li>
+  <li>**Reloadable**: while these vouchers are available, their balances can be changed;</li>
+  <li>**Reusable**: it will be possible to make new purchases with these vouchers until their values are fully used.</li>
 </ul><br>  
-  <li>Click on the <b>Save</b> button.</li>
+  <li>Click on the **Save** button.</li>
 <br>
 A new screen will appear confirming that the requested number of vouchers has been generated and their IDs will also be shown.<br> 
 <br>
-  <li>To end, click on the <b>Back</b> button.</li>
+  <li>To end, click on the **Back** button.</li>
 <br>
-<div class="alert alert-info">
-There is no limit to the creation of gift cards, however only 8000 gift cards can be exported at a time.
-</div>
+> ℹ️ There is no limit to the creation of gift cards, however only 8000 gift cards can be exported at a time.
 </ol>
 
 ## How to set a Gift Card as a payment method

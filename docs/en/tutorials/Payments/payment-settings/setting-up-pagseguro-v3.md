@@ -29,17 +29,17 @@ To configure PagBankV3, follow the steps below:
 <br>
 <ul>
 <br>
-    	<li><b>Use behavior recommended by the payment processor</b>: Capture is not automatic; it is scheduled according to the period specified by the acquirer. The acquirer indicates whether the payment has been authorized and can determine or recommend a number of days for the capture upon payment authorization. (This is the platform's default behavior).</li>
-    	<li><b>Automatic capture immediately after payment authorization</b>: Capture is automatically performed right after payment authorization, even if the transaction includes an anti-fraud analysis.</li>
-   		<li><b>Automatic capture immediately after anti-fraud analysis</b>: Capture is automatically performed right after payment authorization and anti-fraud analysis. If you select this behavior and do not have anti-fraud analysis, the system will perform the payment capture as in "Automatic capture immediately after payment authorization".</li>     
-   		<li><b>Disabled</b>: Capture takes place only when the order is invoiced. If you select this behavior, it is important to pay attention to the invoicing time, as invoicing can exceed the capture time agreed with the payment provider and lead to the cancellation of the transaction.</li>
+    	<li>**Use behavior recommended by the payment processor**: Capture is not automatic; it is scheduled according to the period specified by the acquirer. The acquirer indicates whether the payment has been authorized and can determine or recommend a number of days for the capture upon payment authorization. (This is the platform's default behavior).</li>
+    	<li>**Automatic capture immediately after payment authorization**: Capture is automatically performed right after payment authorization, even if the transaction includes an anti-fraud analysis.</li>
+   		<li>**Automatic capture immediately after anti-fraud analysis**: Capture is automatically performed right after payment authorization and anti-fraud analysis. If you select this behavior and do not have anti-fraud analysis, the system will perform the payment capture as in "Automatic capture immediately after payment authorization".</li>     
+   		<li>**Disabled**: Capture takes place only when the order is invoiced. If you select this behavior, it is important to pay attention to the invoicing time, as invoicing can exceed the capture time agreed with the payment provider and lead to the cancellation of the transaction.</li>
 </ul>
 8. If you want to use [payment split](https://help.vtex.com/en/tutorial/split-payment--6k5JidhYRUxileNolY2VLx) in your store, select the option __Enable payout split and send payment recipients__ and indicate the __Accountable for payment processing charges__ and __Accountable for chargebacks__ (marketplace, sellers or marketplaces and sellers).
 9. In __Provider Fields__, configure the fields __Prazo para captura do pagamento
 __, __Gostaria de ativar o repasse do liable das transações para o seller com maior valor a receber?__, and __Prazo de expiração do QR Code PIX__ according to the provider's instructions.
 10. Click __Save__.
 
-<div class="alert alert-warning" role="alert">PagBank also offers the option of scheduled automatic capture for up to 5 days. If you wish to use it in your store, follow the steps indicated in this <a href="https://help.vtex.com/en/known-issues/scheduled-automatic-capture-does-not-appear--1cuvGbgUvd1ATeHEG6Il98">documentation</a>.</div>
+> ⚠️ PagBank also offers the option of scheduled automatic capture for up to 5 days. If you wish to use it in your store, follow the steps indicated in this [documentation](https://help.vtex.com/en/known-issues/scheduled-automatic-capture-does-not-appear--1cuvGbgUvd1ATeHEG6Il98).
 
 To configure the payment methods to be processed by PagBankV3, access [Configuring Payment Conditions](https://help.vtex.com/en/tutorial/how-to-configure-payment-conditions--tutorials_455#).
 

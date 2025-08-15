@@ -17,11 +17,9 @@ subcategoryId: yMp6sKDiJEi66CGAIQ4ma
 
 The **Account** page allows you to view and manage your VTEX account details. To access it, click your **profile avatar** that has the first letter of your email, and click **Account Settings** > **Account.**
 
-![Admin v4 account settings menu EN](//images.ctfassets.net/alneenqid6w5/gMscIoImNJt51634ZQsRD/c9f9e17c63ce76c40d01a650920ce5ff/Admin_v4_account_settings_menu_EN.jpg)
+![Admin v4 account settings menu EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/account-management/accounts/account-management_1.jpg)
 
-<div class="alert alert-warning">
-This screen has no application key details. Learn where to find and manage this information in the article <a href="https://help.vtex.com/en/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet">Application Keys</a>.
-</div>
+> ⚠️ This screen has no application key details. Learn where to find and manage this information in the article [Application Keys](https://help.vtex.com/en/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet).
 
 The **Account** page is divided into two tabs: [General](#general) and [Stores](#stores). Learn more about each tab below.
 
@@ -29,7 +27,7 @@ The **Account** page is divided into two tabs: [General](#general) and [Stores](
 
 The **General** tab's features are available in the [Details](#details), [Company Information](#company-information), and [Owner](#owner) sections. This tab allows you to:
 
-![Account details page - account section](//images.ctfassets.net/alneenqid6w5/6UK90f7QEkwzfa0A2ccru/61a25511aa697fc8333c809463d94564/1en.png)
+![Account details page - account section](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/account-management/accounts/account-management_2.png)
 
 This tab allows you to:
 
@@ -41,7 +39,7 @@ This tab allows you to:
 
 In this section, you can check the basic information of your VTEX account.
 
-![Account details page - details](//images.ctfassets.net/alneenqid6w5/2E2AS5t3Y3LeBZHPwAQxVL/1f9820f3b88337024d6f0370792cdd6b/1.1en.png)
+![Account details page - details](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/account-management/accounts/account-management_3.png)
 
 - **Main account name:** [VTEX account name](https://help.vtex.com/en/tutorial/what-is-an-account-name--i0mIGLcg3QyEy8OCicEoC).
 - **Creation date:** The date your account was created.
@@ -58,7 +56,7 @@ In this section, you will see the following information about your company:
 - Trading name
 - Company registration number
 
-![Account details page - Company information](//images.ctfassets.net/alneenqid6w5/VnjrwHmW1txGedK5fewVb/20c9237ae2f95e1ab1f8d667361c489e/1.2en.png)
+![Account details page - Company information](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/account-management/accounts/account-management_4.png)
 
 #### Editing company information
 
@@ -74,19 +72,15 @@ You can edit the company information by following the steps below:
 	- **Company reg. no.**
 5. Click `Save`.
 
-<div class="alert alert-warning">
-Your logo must be a JPG, GIF, or PNG file with a maximum size of 800 KB.
-</div>
+> ⚠️ Your logo must be a JPG, GIF, or PNG file with a maximum size of 800 KB.
 
 ### Sponsor
 
 This section displays the account sponsor details. Each VTEX account has only one sponsor account, which has full access to all Admin sections, including important maintenance and authorization actions.
 
-<div class = "alert alert-info">
-Learn more about the <a href="https://help.vtex.com/pt/tutorial/o-que-e-o-usuario-titular--3oPr7YuIkEYqUGmEqIMSEy">sponsor user</a>.
-</div>
+> ℹ️ Learn more about the [sponsor user](https://help.vtex.com/pt/tutorial/o-que-e-o-usuario-titular--3oPr7YuIkEYqUGmEqIMSEy).
 
-![Account details page - Sponsor](//images.ctfassets.net/alneenqid6w5/36R9gxFOVRov7QeFcdZNUe/0be2d1b90ccb11fb673fba80fd65b400/1.3en.png)
+![Account details page - Sponsor](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/account-management/accounts/account-management_5.png)
 
 If you are the sponsor user, you can [transfer store ownership](https://help.vtex.com/en/tutorial/transferencia-de-propriedade-da-loja) in this section. This allows you to transfer the store's ownership to another user.
 
@@ -101,7 +95,7 @@ In the Stores tab, you can:
 
 By clicking the **Stores** tab at the top of the screen, you will see a list with all the information of all the stores created in your VTEX account.
 
-![Account details page - Stores](//images.ctfassets.net/alneenqid6w5/rAFyEsEDLBDqj3UBGufrb/19d4e782db194e0482398ffa382a9565/2en.png)
+![Account details page - Stores](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/account-management/accounts/account-management_6.png)
 
 For each store, you can view the following details:
 
@@ -128,13 +122,9 @@ Follow the steps below to create a store:
 5. If you wish to start the [go-live](https://help.vtex.com/en/tracks/realizando-o-go-live-da-sua-loja--4Ns5FxIiksmjsdX2yOTduM) process for your store, fill in the **Hosts** field with [your store's domain](https://help.vtex.com/en/tutorial/configurando-dominios-no-license-manager). Otherwise, leave it blank.
 6. Click the `Create` button.
 
-<div class = "alert alert-info">
-  To learn more about configuring your store's <b>Hosts</b>, read the article  <a href="https://help.vtex.com/tutorial/configurando-dominios-no-gerenciamento-da-conta--tutorials_2450">Configure your store domain</a>.
-</div>
+> ℹ️ To learn more about configuring your store's **Hosts**, read the article  [Configure your store domain](https://help.vtex.com/tutorial/configurando-dominios-no-gerenciamento-da-conta--tutorials_2450).
 
-<div class="alert alert-warning">
-Do not use a ".com" domain in the Store Name field. This type of entry can only exist in the Hosts field.
-</div>
+> ⚠️ Do not use a ".com" domain in the Store Name field. This type of entry can only exist in the Hosts field.
 
 ### Editing a store
 
@@ -159,9 +149,7 @@ Follow the steps below to delete a store:
 
 The name of the removed store cannot be used again.
 
-<div class="alert alert-warning">
-Note that the main store, indicated with a star next to its name in the store list, cannot be deleted.
-</div>
+> ⚠️ Note that the main store, indicated with a star next to its name in the store list, cannot be deleted.
 
 ## Learn more
 

@@ -16,11 +16,11 @@ subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
 
-When you create a [regular promotion](https://help.vtex.com/en/tutorial/regular-promotion--tutorials_327) in **Promotions** > **Promotions** > <code>New promotion</code> > <code>Regular</code>, one of the available options when choosing the discount type and amount is **Nominal discount based on formula**.
+When you create a [regular promotion](https://help.vtex.com/en/tutorial/regular-promotion--tutorials_327) in **Promotions** > **Promotions** > `New promotion` > `Regular`, one of the available options when choosing the discount type and amount is **Nominal discount based on formula**.
 
 By selecting this type of discount, you need to create a formula defining how the applied discount will be calculated. In this article, we’ll explain how to build a formula which meets your promotion's objectives.
 
-![discount-type-formula](//images.ctfassets.net/alneenqid6w5/5NTM35GkPQtUzA6CKDco9q/c7e753bddc57ad9ec18b30f05f654688/desc.PNG)
+![discount-type-formula](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-&-taxes/promotions/regular-promotion-with-nominal-discount-based-on-formula_1.PNG)
 
 To build your formula, you can use [variables](#variables) such as total, shipping (freight), and quantity, perform [operations](#operations) (addition, subtraction, multiplication, and division) and apply [functions](#functions) such as `min`, `max`, and `floor`.
 
@@ -49,17 +49,13 @@ You can do a multiplication to calculate the desired discount percentage using [
 
 To indicate the order in which calculations should be done, write the calculation which comes first between parenthesis `()`. For example: If a store wants to apply a 40% discount on the total price of the order plus the shipping cost, the formula must be `(total + freight) * 0.4`.
 
-<div class="alert alert-info">
-  <p>You must always use the dot (<code>.</code>) as a decimal separator.</p>
-</div>
+> ℹ️ You must always use the dot (`.`) as a decimal separator.
 
 ## Functions
 
 You can use the min [function to limit the discount](#limiting-the-discount-value) value or the max function to [prioritize the largest possible discount](#prioritizing-the-largest-possible-discount). The `floor` function allows you to get the integer part of a value, discarding decimals. See below for more details on how to apply these functions.
 
-<div class="alert alert-info">
-<p>When using functions, there must be a space between the function and the opening parenthesis. For example: <code>min (total * 0.2, 10)</code>.</p>
-</div>
+> ℹ️ When using functions, there must be a space between the function and the opening parenthesis. For example: `min (total * 0.2, 10)`.
 
 ### Limiting the discount
 
@@ -79,19 +75,19 @@ The promotion will apply the lowest discount in each case, comparing the 20% cal
 
 A customer added a $ 45 item to the cart. By calculating 20% of the total price, the result is 9, as per `total * 0.2 = 9`. Since 9 is below the discount limit value, the applied discount will be $ 9.
 
-![scenario1-en](//images.ctfassets.net/alneenqid6w5/22tobaXfukykfntCXBpISS/7cedfaa3ffa9b54192807f47a4b1fe18/scenario1-en.png)
+![scenario1-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-&-taxes/promotions/regular-promotion-with-nominal-discount-based-on-formula_2.png)
 
 #### Scenario 2
 
 Another customer added a $ 2600 item to the cart. By calculating 20% of this amount, the result is 520, as per `total * 0.2 = 520`. Since this value is above the limit ($ 10), the discount will be $ 10.
 
-![scenario2-en](//images.ctfassets.net/alneenqid6w5/6M3rMa2VKBXNtDV44J3x5w/7bd025f1787a20a9fdc1332c54e73568/scenario2-en.png)
+![scenario2-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-&-taxes/promotions/regular-promotion-with-nominal-discount-based-on-formula_3.png)
 
 #### Scenario 3
 
 A third customer added two items to the cart: One costs $ 100 and the other $ 2600. Their sum is $ 2700, as per `total = 2700`. By calculating 20% of the total amount, the result is 540, according to `total * 0.2 = 540`. Since this value is above the limit ($ 10), the applied discount will be $ 10.
 
-![scenario3-en](//images.ctfassets.net/alneenqid6w5/2lYHI6Iw0pZ8sOyN282TDr/11a3e761ff2194ad9e63ee9a575cd62c/scenario3-en.png)
+![scenario3-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-&-taxes/promotions/regular-promotion-with-nominal-discount-based-on-formula_4.png)
 
 The total discount of $ 10 is proportionally distributed among the items, based on each item's price and quantity. The platform makes this distribution automatically, as explained below.
 

@@ -25,9 +25,7 @@ When you configure the product correctly and it [is displayed as available on th
     * [Dimensions and cubic weight factor](#dimensions-and-cubic-weight-factor)
     * [Modal](#modal)
 
-<div class="alert alert-warning">
-If your store uses the <a href="https://help.vtex.com/en/tutorial/configurar-a-regionalizacao-de-sellers--32t6wLpQCEnumoh8TjT5fw">seller regionalization</a> feature, the sellers able to ship the product to the customer's location must have the product available for sale. In addition, the status of these sellers must be active, as products from inactive sellers are not considered available.
-</div>
+> ⚠️ If your store uses the [seller regionalization](https://help.vtex.com/en/tutorial/configurar-a-regionalizacao-de-sellers--32t6wLpQCEnumoh8TjT5fw) feature, the sellers able to ship the product to the customer's location must have the product available for sale. In addition, the status of these sellers must be active, as products from inactive sellers are not considered available.
 
 ## Shipping Simulator
 
@@ -35,9 +33,7 @@ A product may be unavailable in the cart because your store's [shipping strategy
 
 One way to test if there is a feasible delivery route is using the **Shipping Simulator** to validate specific logistical settings in your store and check your inventory.
 
-<div class = "alert alert-info">
-See the article <a href="https://help.vtex.com/en/tutorial/simulador-de-envio--tutorials_144">Shipping Simulator</a> to learn how to simulate product shipping.
-</div>
+> ℹ️ See the article [Shipping Simulator](https://help.vtex.com/en/tutorial/simulador-de-envio--tutorials_144) to learn how to simulate product shipping.
 
 ## Inventory
 
@@ -50,9 +46,7 @@ By adopting any of the following inventory strategies, you can ensure product av
 
 If [future inventory](https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/inventory/items/-skuId-/warehouses/-warehouseId-/supplyLots/-supplyLotId-) is configured for the SKU, the supply of this item could take longer than expected. In this period, the unavailability could be due to a lack of stock.
 
-<div class="alert alert-warning">
-If your store has <a href="https://help.vtex.com/en/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#tipos-de-conta-na-vtex">franchise accounts</a>, for the inventory of these accounts to be available for sale, the products must be linked to the same <a href="https://help.vtex.com/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV">trade policy</a> used in your storefront.
-</div>
+> ⚠️ If your store has [franchise accounts](https://help.vtex.com/en/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#tipos-de-conta-na-vtex), for the inventory of these accounts to be available for sale, the products must be linked to the same [trade policy](https://help.vtex.com/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) used in your storefront.
 
 ## Shipping strategy
 
@@ -67,9 +61,7 @@ In terms of shipping strategy, the list below shows the main situations that lea
 * Loading dock not associated with the shipping policy.
 * Loading dock not associated with the [trade policy](https://help.vtex.com/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) that determines the products displayed on the product listing page.
 
-<div class = "alert alert-info">
-These situations must be considered in the context of the sale. Having an inactive warehouse does not make the product unavailable, but if it is the only one warehouse serving as the shipping route and is inactive, the product becomes unavailable in the cart.
-</div>
+> ℹ️ These situations must be considered in the context of the sale. Having an inactive warehouse does not make the product unavailable, but if it is the only one warehouse serving as the shipping route and is inactive, the product becomes unavailable in the cart.
 
 ## Shipping policy settings
 
@@ -92,9 +84,7 @@ The following list shows the main reasons for product unavailability in the cart
 * The number of items in the cart does not meet the minimum number of items for shipping.
 * The customer's postal code/location is not in the region served by the carrier.
 
-<div class = "alert alert-info">
-The above situations must be considered in the context of the sale. If there is only one eligible shipping policy for shipping the product and the characteristics of this product are not within the settings accepted by the carrier, then there is no valid shipping route, and the product becomes unavailable.
-</div>
+> ℹ️ The above situations must be considered in the context of the sale. If there is only one eligible shipping policy for shipping the product and the characteristics of this product are not within the settings accepted by the carrier, then there is no valid shipping route, and the product becomes unavailable.
 
 Other carrier settings that can impact product availability are related to item weight and volume, as mentioned below.
 
@@ -109,9 +99,7 @@ For the [cubic weight factor](https://help.vtex.com/en/tutorial/calcular-o-fator
 
 If the product is not within any of the configured limits, it will become unavailable in the cart.
 
-<div class="alert alert-warning">
-If two shipping policies are valid for the order, one for delivery and the other for <a href="https://help.vtex.com/en/tutorial/pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R">pickup</a>, but the product does not meet the package size limits of one of them, only one shipping method will be displayed at checkout. For example, if the product's weight is lower than the minimum weight value in the shipping policy for delivery but within the limits set for pickup, the customer will only be offered the option to pick up the order.
-</div>
+> ⚠️ If two shipping policies are valid for the order, one for delivery and the other for [pickup](https://help.vtex.com/en/tutorial/pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R), but the product does not meet the package size limits of one of them, only one shipping method will be displayed at checkout. For example, if the product's weight is lower than the minimum weight value in the shipping policy for delivery but within the limits set for pickup, the customer will only be offered the option to pick up the order.
 
 ### Modal
 

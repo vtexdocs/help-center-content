@@ -62,7 +62,7 @@ Copilot is a tool integrated into the platform that enables technical support.  
    - I have an unexpected behavior
    - I need VTEX to setup something
 
-![Copilot-EN](//images.ctfassets.net/alneenqid6w5/13Btoe6i63BUHjlyVNRrpu/9e489e6bd46ce7c613452f1a490d4599/copilot-en.gif)
+![Copilot-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Operational/Support/opening-tickets-to-vtex-support_1.gif)
 
 ### 3. Chat with Copilot 
 To ensure Copilot provides the most accurate assistance, include the following information when requesting help:

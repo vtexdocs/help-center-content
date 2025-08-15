@@ -29,15 +29,15 @@ The **API Keys** page in the VTEX Admin allows you to manage the API keys with a
 
 * [Settings](https://help.vtex.com/en/tutorial/configuring-the-duration-of-api-keys--kcGIFysFt02FDuhsfjQwZ): Allows you to set the default duration of API keys generated in your account.
 
-   ![apikeys-settings-en](//images.ctfassets.net/alneenqid6w5/2fwTDGaDljmOzza1hZRPyw/aef6470321db869b6e149cc4e6f7c914/apikeys-settings-en.png)
+   ![apikeys-settings-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/api-keys-beta/api-keys_1.png)
 
 * [Generated keys](https://help.vtex.com/en/tutorial/generated-keys--7fnU4iZdvZKbxCaT3Ymdjc): Allows you to manage API keys created and managed by your VTEX account.
 
-   ![apikeys-en](//images.ctfassets.net/alneenqid6w5/i11jP2Y0BPyf9wp8A1joi/4dc24b7eb344a8b2828466a451995179/apikeys-en.png)
+   ![apikeys-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/api-keys-beta/api-keys_2.png)
 
 * [External keys](https://help.vtex.com/en/tutorial/external-keys--1isU0HfKkeg0atlxRha14Q): Allows you to manage API keys created and managed by other VTEX accounts, with access to specific resources in your account.
 
-  ![apikeys-external-en](//images.ctfassets.net/alneenqid6w5/5mwOrVyQr2LiDBAkzIZWwU/4c9af93d503448201a349ac01170bb68/apikeys-external-en.png)
+  ![apikeys-external-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/api-keys-beta/api-keys_3.png)
 
 ## Requirements for managing API keys
 

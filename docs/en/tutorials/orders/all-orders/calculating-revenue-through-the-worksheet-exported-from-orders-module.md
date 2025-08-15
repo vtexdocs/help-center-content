@@ -29,8 +29,6 @@ To calculate the total revenue from the worksheet, follow the steps below:
 4. Remove all duplicate values from the second column (__Order__). This must be done because in the case of carts with more than one SKU, several lines are generated for the same order - one for each SKU.
 5. Add the values in column __Total Value__. In this column you find the total value of the order (that is, already considering all SKUs in the cart).
 
-<div class = "alert alert-info">
-The sum of values in the Total Value column (after the removal of duplicate orders) is the total revenue obtained from the selected orders in the worksheet.
-</div>
+> ℹ️ The sum of values in the Total Value column (after the removal of duplicate orders) is the total revenue obtained from the selected orders in the worksheet.
 
 To understand all the columns, see the article [Order report](https://help.vtex.com/en/tutorial/planilha-de-pedidos--31m1ewsmsEe0WS4So2aGMY).

@@ -26,7 +26,7 @@ To access the page, go to __Dashboards__ and click on __Sales performance__.
 
 You can customize the view of chart and list data by filtering by period, dimensions and metrics.
 
-![Sales Perf Dash EN](//images.ctfassets.net/alneenqid6w5/1nTkH8KfhrLPOBuxFhcZvC/2e794d37d8b2afe1d2d2b89d805ae736/Sales_Perf_Dash_EN.gif)
+![Sales Perf Dash EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/dashboards/dashboards-in-the-vtex-admin/sales-performance_1.gif)
 
 ## Data 
 
@@ -36,9 +36,7 @@ To ensure that you have access to the latest updated data as well as to all of y
 
 These groups are also processed by different systems, which may cause a difference between the data of the OMS and Sales Performance. Although, we do aim for a maximum of 5% divergence.
 
-<div class ="alert alert-warning">
-The revenue metric may differ from the average ticket metric recorded in the OMS and Sales Performance, for example. This is because Sales Performance considers an order's item values, while OMS also considers discounts, freight, fees, and promotions applied to the order, which may increase or decrease its final total.
-</div>
+> ⚠️ The revenue metric may differ from the average ticket metric recorded in the OMS and Sales Performance, for example. This is because Sales Performance considers an order's item values, while OMS also considers discounts, freight, fees, and promotions applied to the order, which may increase or decrease its final total.
 
 ## Period
 
@@ -154,7 +152,7 @@ In addition to applying filters, you can also perform the actions below.
 
 ## Views
 
-![Sales perf update EN](//images.ctfassets.net/alneenqid6w5/5mHOltfUnUpV1DtHXrT8xD/c2573e700f0400eb44176cb4cee696bf/Sales_perf_update_EN.gif)
+![Sales perf update EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/dashboards/dashboards-in-the-vtex-admin/sales-performance_2.gif)
 
 The Sales Performance dashboard can be customized by applying different filters and selecting the metrics that will be displayed in the chart and in the list. To facilitate your data exploration on a daily basis, we have created views, which save the filters and metrics applied on the page for your direct viewing. You can save, edit, and share different dashboard views. The page comes with the following views configured by default:
 
@@ -212,9 +210,7 @@ The list represents the metrics and filters applied to the chart in table format
   - __Absolute__: view in absolute numbers the increase or decrease of the metrics between one period and another.   
   - __Representative__: view the percentage of representativeness of an item within a metric.  
 
-<div class="alert alert-info">
-Note that the metrics <em>Average ticket</em> and <em>Items per order</em> do not have Percent or Representative views available, as these metrics are calculated by dividing others, and the sum of all the parts of each of them does not equal the Total.
-</div>
+> ℹ️ Note that the metrics *Average ticket* and *Items per order* do not have Percent or Representative views available, as these metrics are calculated by dividing others, and the sum of all the parts of each of them does not equal the Total.
 
 ### Exporting data
 

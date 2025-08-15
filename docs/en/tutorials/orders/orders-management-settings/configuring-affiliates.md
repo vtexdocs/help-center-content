@@ -35,9 +35,7 @@ To create a new affiliate ID, follow the steps below:
 
 > Notice that the value **{NameOfMarketplace}** must be altered using the name of the marketplace account, while the value **{SellerId}** must be changed to the ID of the seller registered by the marketplace.
 
-> <div class="alert alert-danger">
-The <strong>{SellerId}</strong> value is <em>case sensitive</em>. In that way, it should be written in the URL exactly the same way it is registered in the marketplace.
-</div>
+> > ❗ The **{SellerId}** value is *case sensitive*. In that way, it should be written in the URL exactly the same way it is registered in the marketplace.
 
 > For [external marketplaces](https://help.vtex.com/en/tutorial/marketplace-strategies-at-vtex--tutorials_402#integrating-with-an-external-marketplace), fill in the value: `https://{endpointDoAfiliado}/api/notification/`.   
 

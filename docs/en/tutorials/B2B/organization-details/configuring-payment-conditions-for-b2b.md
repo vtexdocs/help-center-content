@@ -19,9 +19,7 @@ In a B2B operation, [payment conditions](https://help.vtex.com/es/tutorial/how-t
 
 An organization administrator user can customize the available payment options by cost center.
 
-<div class = "alert alert-info">
-When you configure a payment condition in the Payments module, it will display as a payment method in the <b>Available</b> list in the <b>Payment Conditions</b> tab. To view the list, click the name of the organization. The payment methods listed are the ones that are already assigned to the organization.
-</div>
+> ℹ️ When you configure a payment condition in the Payments module, it will display as a payment method in the **Available** list in the **Payment Conditions** tab. To view the list, click the name of the organization. The payment methods listed are the ones that are already assigned to the organization.
 
 ## Linking payment conditions to the organization
 To link a payment condition to a buyer organization, follow the instructions below:

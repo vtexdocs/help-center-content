@@ -21,7 +21,7 @@ subcategoryId: 3OlaStejO5MSzvDSU3VCH3
 
 The **API Keys** page allows you to configure the duration of the API tokens generated when you create a key. Setting the duration of API keys is important to guarantee security, limit exposure to risks, control access to resources, and minimize the impact of compromised keys.
 
-![apikeys-settings-en](//images.ctfassets.net/alneenqid6w5/2fwTDGaDljmOzza1hZRPyw/aef6470321db869b6e149cc4e6f7c914/apikeys-settings-en.png)
+![apikeys-settings-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/api-keys-beta/configuring-the-duration-of-api-keys_1.png)
 
 By default, the duration applied to API keys is three months unless another option is selected.
 

@@ -35,13 +35,11 @@ The **Unique Subscriptions** section allows you to:
 - View a **dynamic chart** with the *active* and *canceled* subscriptions within the selected period. By hovering the cursor over the chart lines, you can see in detail the subscriptions variation per day.
 - **Export subscriptions** within the filtered period by clicking on the button in the upper right corner of the screen.
 
-![EN Dashboard Assinatura única](//images.ctfassets.net/alneenqid6w5/Dbqw5LPyrXvpT3tElkIXY/9a8c1aac052b52f8af1ec349da706ced/EN_Dashboard_Assinatura_uÌ_nica.png)
+![EN Dashboard Assinatura única](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/subscriptions/subscription-guides/how-to-manage-subscriptions_1.png)
 
 ### Subscription Orders
 
-<div class = "alert alert-info">
-You can only access information from orders created in the last two years, and that same period is valid for customers through <a href="https://help.vtex.com/en/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh">My Account</a>.
-</div>
+> ℹ️ You can only access information from orders created in the last two years, and that same period is valid for customers through [My Account](https://help.vtex.com/en/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh).
 
 The **Subscription Orders** section allows you to:
 
@@ -49,12 +47,12 @@ The **Subscription Orders** section allows you to:
 - Monitor the **absolute number and corresponding percentage** of Subscription Orders that were *scheduled*, *processed*, *generated* and *completed* per period.
 - View a **chart** with the percentage of *skipped* orders, *cycles with an issue* and *payment errors*.
 
-![EN Dashboard Pedidos Assinatura](//images.ctfassets.net/alneenqid6w5/20rYypV5vnYXo42CdCf0ms/fea7a2d0884bb636326e2039f5a58478/EN_Pedidos_Assinatura.png)
+![EN Dashboard Pedidos Assinatura](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/subscriptions/subscription-guides/how-to-manage-subscriptions_2.png)
 
 - When accessing each tab of the **Subscription Orders** table, you can view the flow and details of the orders that were *skipped*, those that presented *Cycles with an issue*, those that contain a *Payment Error* and the *Completed* orders. 
 - In addition to listing the details of the errors that occurred during the  Subscription orders flow, it is also possible to perform a **manual retry** of orders with errors. Check out our article on [Troubleshooting of Subscription orders issues](https://help.vtex.com/tutorial/como-solucionar-pedidos-de-assinatura-com-erros--uLL8AYBGdtAmbbdL5gRCf) to learn more.
 
-![EN Log Pedidos Assinatura](//images.ctfassets.net/alneenqid6w5/77DV2slShCKyXY0pKJyTl2/cd3969cb8b37e0a3063d81830b8d1930/EN_Log_Pedidos_Assinatura.png)
+![EN Log Pedidos Assinatura](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/subscriptions/subscription-guides/how-to-manage-subscriptions_3.png)
 
 ### Subscribers
 
@@ -72,14 +70,10 @@ The **Subscribers** section allows you to:
 
 - **Export report** in CSV, which contains the data of the corresponding tab, with the filters applied.
 
-<div class = "alert alert-info">
-  <p>To use this functionality, you must have a role with the <code>Subscription Metrics</code> feature enabled.</p>
-</div>
+> ℹ️ To use this functionality, you must have a role with the `Subscription Metrics` feature enabled.
 
 - **Search for specific subscribers** by their email addresses in the search bar.
 
 - The **Personify** button allows for editions in each Subscription, such as changing the subscription frequency, changing the order execution date (not the delivery date, but the date of the order generation).
 
-<div class="alert alert-warning">
-  <p> Only users with access to Telesales can use the <i>Personify</i> button.</p>
-</div>
+> ⚠️  Only users with access to Telesales can use the *Personify* button.

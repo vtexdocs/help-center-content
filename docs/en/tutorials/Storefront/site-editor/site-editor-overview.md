@@ -16,14 +16,14 @@ subcategoryId: 9Arh3cJIOYlfSD1MUC2h3
 ---
 
 <div style="background-color:#cfe2ff; border-left: 2px solid #084298; border-top-left-radius: 2px; border-bottom-left-radius: 2px; margin-bottom: 10px; padding: 15px">
-  <p>This functionality is available for stores using the Store Framework technology.</p>
+  This functionality is available for stores using the Store Framework technology.
 </div>
 
 Site Editor is a graphical interface for managing your storefront content. It allows you to create, edit, publish and schedule changes in your storefront components and behavior.
 
 In your VTEX Admin, access **Storefront > Site Editor** and you’ll see the main tools available in the graphical interface.
 
-![Site Editor - EN](//images.ctfassets.net/alneenqid6w5/5K3z9KH8VLYFh0iYA4UFDX/216b3664d5d3f8b6d901a0b8cf427906/site-editor-ui-en.png)
+![Site Editor - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Storefront/site-editor/site-editor-overview_1.png)
 
 | **Tool**    | **Description** |
 | ----------  | ----------    |

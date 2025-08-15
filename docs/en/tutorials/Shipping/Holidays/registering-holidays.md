@@ -34,9 +34,7 @@ To set up the Holidays, follow the steps below:
 3. In the **Weekends and Holidays** section, make sure the option `Holiday delivery` disabled <i class="fas fa-toggle-off"></i>.
 4. Click on `Save`.
 
-<div class="alert alert-info">
-You may configure holidays for the years to come.
-</div>
+> ℹ️ You may configure holidays for the years to come.
 
 ## How to consider holidays when calculating shipping time
 
@@ -57,9 +55,7 @@ From a technical standpoint, holidays are considered in the `shippingEstimateDat
 2. Tuesday (02/06) is a holiday.
 3. The estimated delivery date will be Thursday (02/08), as Tuesday will not be considered a business day.
 
-<div class="alert alert-warning">
-There is one exception in which the holiday counts as a business day: when the customer places an order on a holiday and the carrier has shipping hours set (<a href="https://help.vtex.com/en/tutorial/carrier-working-hours--2oGpbInIgdxSWUi3TZjdCS">Shipping Window</a>) for that same day.
-</div>
+> ⚠️ There is one exception in which the holiday counts as a business day: when the customer places an order on a holiday and the carrier has shipping hours set ([Shipping Window](https://help.vtex.com/en/tutorial/carrier-working-hours--2oGpbInIgdxSWUi3TZjdCS)) for that same day.
 
 ### Example 2
 
