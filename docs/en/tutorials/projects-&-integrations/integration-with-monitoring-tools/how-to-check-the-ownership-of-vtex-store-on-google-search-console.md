@@ -43,7 +43,7 @@ Follow the instructions in this tutorial to enable access.
 6. Click `Go to Install Page`, and you'll be redirected to the app's page in the Admin.
 7. Click `Install`. An installation success message will be displayed, redirecting you to the app's configuration page in the Admin.
 
-![Google Search Console EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/projects-&-integrations/integration-with-monitoring-tools/how-to-check-the-ownership-of-vtex-store-on-google-search-console_1.png)
+![Google Search Console EN](//images.ctfassets.net/alneenqid6w5/5R9R0LNXzNI2a1Hrci0pZ5/6647731863dff185160e787e1a9055ee/EN.png)
 
 8. In the **Content** field, add only the content after the `content` flag of the meta tag you copied from Google Search Console [previously](#instructions). For example, if your meta tag is `<meta name="google-site-verification" content="{contentID}" />`, add only what is inside `{contentID}`.
 9. Click `Save`.

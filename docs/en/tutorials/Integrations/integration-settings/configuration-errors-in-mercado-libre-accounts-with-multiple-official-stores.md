@@ -27,7 +27,7 @@ In this scenario, if a Mercado Libre customer makes a purchase with products fro
 
 VTEX does not recommend this type of configuration because orders will not be integrated.
 
-![cenario problemaENN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/integration-settings/configuration-errors-in-mercado-libre-accounts-with-multiple-official-stores_1.JPG)
+![cenario problemaENN](//images.contentful.com/alneenqid6w5/1kGjXEcmRvASXHl0WBrgXh/26449573e080d2c6e11953cdc9eeefae/cenario_problemaENN.JPG)
 
 However, in the integration of VTEX stores with Mercado Libre, two scenarios can prevent this error. To fit within those scenarios, your store must have the following configurations:
 
@@ -40,7 +40,7 @@ The seller uses a single VTEX subaccount and integrates with a single account on
 
 In this scenario, if a user makes a purchase on Mercado Libre with products from two or more of the seller's official stores, the order will be correctly imported into VTEX. This happens because the products listed on Mercado Libre are from the catalog of a single VTEX subaccount.
 
-![cenario singleuser](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/integration-settings/configuration-errors-in-mercado-libre-accounts-with-multiple-official-stores_2.JPG)
+![cenario singleuser](//images.contentful.com/alneenqid6w5/3ibZG93KjAsKqfXmyTBVqj/1b049c0266e29706c38b2e03b0e98a91/cenario_singleuser.JPG)
 
 ## Multiple VTEX subaccounts and multiple official stores
 
@@ -48,5 +48,5 @@ The VTEX seller has two or more subaccounts and uses each of them to integrate w
 
 In this scenario, if a user makes a purchase on Mercado Libre with two or more products from different subaccounts in the same cart, orders will be integrated normally into each VTEX subaccount. This happens because each order generated on Mercado Libre is linked to a different VTEX subaccount, so the products sold correspond to the catalogs of each subaccount.
 
-![cenario multiplesotre](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/integration-settings/configuration-errors-in-mercado-libre-accounts-with-multiple-official-stores_3.JPG)
+![cenario multiplesotre](//images.contentful.com/alneenqid6w5/nwcJEB4dNrEn9aEEMDWBX/026214b8bfffe1374e4acc7eda0dd79f/cenario_multiplesotre.JPG)
 

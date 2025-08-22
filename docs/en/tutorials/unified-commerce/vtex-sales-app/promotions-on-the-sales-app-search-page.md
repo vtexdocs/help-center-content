@@ -29,4 +29,4 @@ When a product has multiple promotions, the sales associate in a physical store 
 
 The following image shows a promotion available on the Product Listing Page (PLP).
 
-![promoção em destaque](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/unified-commerce/vtex-sales-app/promotions-on-the-sales-app-search-page_1.png)
+![promoção em destaque](//images.ctfassets.net/alneenqid6w5/2YpcrGEb1eHZ0IFeOzvAj4/00f7a287cb76d6ad3301364e8bdfa79a/promo__o_em_destaque.png)

@@ -23,7 +23,7 @@ Este artigo é sobre como ativar o **VTEX Shipping Network Correios**. Esta ativ
 
 O vídeo abaixo apresenta todas as etapas da ativação, e na seção seguinte você encontra o passo a passo:
 
-![vsncorreios_ativacao_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-shipping-network/vtex-shipping-network-correios-ativacao_1.gif)
+![vsncorreios_ativacao_PT](//images.ctfassets.net/alneenqid6w5/3jkyhn9NypaHZBeXAib7iz/410d76ca2ba8b25cbfce2c0adcb27813/vsncorreios_ativacao.gif)
 
 > ℹ️ Se você deseja integrar a sua operação com outras transportadoras além dos Correios, temos o [VTEX Shipping Network](https://vtex.com/br-pt/shipping-network/), com sugestões de parceiros selecionados pela nossa equipe com foco no seu modelo de negócio.
 
@@ -32,7 +32,7 @@ O vídeo abaixo apresenta todas as etapas da ativação, e na seção seguinte v
 Para realizar a ativação, siga o passo a passo abaixo:
 
 1. No Admin VTEX, acesse **Envio > Estratégia de envio**, ou digite **Estratégia de envio** na barra de busca no topo da página. Em seguida, clique no banner em `Veja a sua oferta`.
-  ![vsncorreios_banner_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-shipping-network/vtex-shipping-network-correios-ativacao_2.png)
+  ![vsncorreios_banner_PT](//images.ctfassets.net/alneenqid6w5/SHhb94U7uQeYTggJBFYxJ/487402ecdbfa87d8777c8071ae49c297/vsncorreios_banner.png)
 
 Se o banner não aparecer na página, acesse a URL `https://{nome-da-loja}.myvtex.com/admin/shipping-strategy/beta/shipping-network-offer/form`, substituindo `{nome-da-loja}` pelo seu [account name](https://help.vtex.com/pt/tutorial/o-que-e-account-name--i0mIGLcg3QyEy8OCicEoC).
 
@@ -46,19 +46,19 @@ Se o banner não aparecer na página, acesse a URL `https://{nome-da-loja}.myvte
 
   c. Clique em **Conhecer Oferta**.
 
-  ![vsncorreios_conhecer_oferta_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-shipping-network/vtex-shipping-network-correios-ativacao_3.png)
+  ![vsncorreios_conhecer_oferta_PT](//images.ctfassets.net/alneenqid6w5/oIBsNdSOSJoNQtzT14RGc/1e836be59f73d8171a0e0551ede0be25/vsncorreios_conhecer_oferta.png)
 
 3. Na etapa **Nossa Oferta**, consulte os benefícios da tabela que foi considerada a mais adequada à sua operação.
 
 A imagem abaixo é um exemplo da _Tabela Ouro_:
 
-  ![vsncorreios_nossa_oferta_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-shipping-network/vtex-shipping-network-correios-ativacao_4.png)
+  ![vsncorreios_nossa_oferta_PT](//images.ctfassets.net/alneenqid6w5/3dW4e20L9fdXo5lVdp1MLy/34dee25d430596a57261894e759b1b27/vsncorreios_nossa_oferta.png)
 
 4. Em seguida, clique em `Tenho interesse` e um modal será aberto contendo os termos e condições da ativação.
 
 Você pode adquirir uma cópia do arquivo em formato PDF clicando em **Download dos termos**.
 
-  ![vsncorreios_termos_condicoes_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-shipping-network/vtex-shipping-network-correios-ativacao_5.png)
+  ![vsncorreios_termos_condicoes_PT](//images.ctfassets.net/alneenqid6w5/1X6rp478ZIsZlGZCOCPjEq/b518371d3989a37595ce48a9175b05b6/vsncorreios_termos_condicoes.png)
 
 5. Clique em `Aceitar` para concordar com as condições apresentadas e ativar o VTEX Shipping Network Correios.
 6. Na etapa **Um Resumo**, confira as informações finais e garanta que a sua operação tenha uma [agência dos Correios parceira](https://www.correios.com.br/coronavirus/rede-de-atendimento).
@@ -68,7 +68,7 @@ Você pode adquirir uma cópia do arquivo em formato PDF clicando em **Download 
 
 Você pode a qualquer momento ativar ou desativar as políticas de envio associadas aos Correios, e não existe cobrança quando o serviço não é utilizado. 
 
-    ![vsncorreios_contratou_tabela_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-shipping-network/vtex-shipping-network-correios-ativacao_6.png)
+    ![vsncorreios_contratou_tabela_PT](//images.ctfassets.net/alneenqid6w5/5qYbCqvYVzttbB3RnsAkCX/cdc81c301c9409f5e9a518f9212c9d15/vsncorreios_contratou_tabela.png)
 
 Feito isso, a ativação do **VTEX Shipping Network Correios** terá sido concluída.
 

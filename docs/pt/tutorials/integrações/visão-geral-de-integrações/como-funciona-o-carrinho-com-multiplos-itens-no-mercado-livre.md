@@ -31,6 +31,6 @@ Em vez de usar os IDs de cada item (o que geraria pedidos separados em nosso sis
 
 Você pode encontrar os dois IDs através do relatório enviado a partir do painel de integrações no Admin da VTEX.
 
-![Pedidos Mercado Livre](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integra%C3%A7%C3%B5es/vis%C3%A3o-geral-de-integra%C3%A7%C3%B5es/como-funciona-o-carrinho-com-multiplos-itens-no-mercado-livre_1.png)
+![Pedidos Mercado Livre](//images.ctfassets.net/alneenqid6w5/2NFqrrWGlqQMYSOugYo8kQ/deba1c9f1ffb01e0db3f2874fb7ee8a3/Pedidos_Mercado_Livre.png)
 
 > ⚠️ Essa lógica de funcionamento se aplica a todos os tipos de entrega, com exceção daqueles que incluem pickup points. Nesses casos, a plataforma continua a utilizar o ID antigo.

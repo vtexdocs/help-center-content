@@ -26,11 +26,11 @@ Para configurar um PWA em sua loja, acesse Configurações da Loja > Storefront 
 1. Clique na aba **PWA**.
 2. Defina a **Cor do tema**, **Cor de fundo** e adicione o **Ícone de logotipo Android  (512x512, PNG)** e **Ícone de logotipo iOS (512x512, PNG)**. As cores devem ser especificadas em código hexadecimal (e.g., #F71963) e os ícones devem ter tamanho 512x512  px e extensão `.png`.
 
-  ![pwa-settings-1-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/configura%C3%A7%C3%B5es-da-loja---storefront/configurando-pwa-em-sua-loja-store-framework_1.png)
+  ![pwa-settings-1-pt](//images.ctfassets.net/alneenqid6w5/2EscgymgyMjCL6nvKedrjk/9bea6f91cd42a70bffb185f1037f43eb/pwa-settings-1-pt.png)
 
 3. Desça a página e vá para o campo **Outras configurações do PWA**. Clique na seta para mostrar as outras configurações.
 
-  ![pwa-settings-2-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/configura%C3%A7%C3%B5es-da-loja---storefront/configurando-pwa-em-sua-loja-store-framework_2.png)
+  ![pwa-settings-2-pt](//images.ctfassets.net/alneenqid6w5/2UJAVrnwSn3NPNxxi42nk8/faa642b4f2c82f837d6c60a319e63dd0/pwa-settings-2-pt.png)
 
 4. Em **Outras configurações de PWA**, preencha os campos conforme orientações abaixo:
 
@@ -60,7 +60,7 @@ Para configurar um PWA em sua loja, acesse Configurações da Loja > Storefront 
     - **Adicionar à tela inicial**: quando ativada, permite que o PWA seja instalado pelo usuário.
     - **Exibir prompt “Adicionar à tela inicial”**: define o momento em que a instalação do PWA será sugerida ao usuário. Pode ser atribuído um dos seguintes valores: Na primeira visita, Ao adicionar o primeiro item ao carrinho, ou Ao finalizar a primeira compra. Esta opção é aplicável apenas quando **Adicionar à Tela Inicial** está ativada.
 
-   ![pwa-settings-3-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/configura%C3%A7%C3%B5es-da-loja---storefront/configurando-pwa-em-sua-loja-store-framework_3.png)
+   ![pwa-settings-3-pt](//images.ctfassets.net/alneenqid6w5/2wVkAwUIy6E33I6pUoXMVT/afb78e3e3a3ead92b334b459227ddb0a/pwa-settings-3-pt.png)
 
  5. Salve suas alterações clicando em `SALVAR`.
 

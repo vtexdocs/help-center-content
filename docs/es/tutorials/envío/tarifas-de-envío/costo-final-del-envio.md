@@ -31,6 +31,6 @@ Vea cómo se calcula cada tarifa:
 
 Así que, en general, el costo final del envío puede calcularse así:
 
-![Custo-final-envio-ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/tarifas-de-env%C3%ADo/costo-final-del-envio_1.svg)
+![Custo-final-envio-ES](//images.ctfassets.net/alneenqid6w5/5qeoN5AQPvoWyOPcNW3J6q/48b3d941065ab47cb55c7b4590b993bd/Custo-final-envio-ES.svg)
 
 > ❗ Si el **adicional de precio** es inferior al **adicional de seguro,** la tarifa considerada es el adicional de seguro. El adicional de precio no se tomará en cuenta en el cálculo de la tarifa final. La elección de la transportadora para el envío de los ítems considera únicamente el precio de la Tarifa de envío, sin tener en cuenta los costos del muelle y del almacén (si existen). Para simular el escenario de entrega para el cliente utilice el[Simulador de envío](https://help.vtex.com/pt/tutorial/simulacao-de-frete--tutorials_144).

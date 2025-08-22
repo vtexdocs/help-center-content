@@ -38,7 +38,7 @@ No se requieren ajustes preliminares antes de realizar configuraciones en Catál
 
 La arquitectura de Catálogo presenta algunos conceptos fundamentales: categoría, marca, producto, SKU (_Stock Keeping Unit_) y especificación. La siguiente imagen ilustra la relación entre estos conceptos:
 
-![arquitetura-catalogo-ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/serie-de-la-tienda-vtex/modulos-de-vtex-i_1.png)
+![arquitetura-catalogo-ES](//images.ctfassets.net/alneenqid6w5/4P3TCN2sjS3EuMdNO6Rrkb/93df901612fa89e7b315cee7b7d121ae/ES.png)
 
 El catálogo de la tienda debe crearse siguiendo el orden de los pasos que se indican a continuación:
 
@@ -73,7 +73,7 @@ __Ejemplo__: Departamento `Femenino`, Categoría `Blusas y camisas` y Subcategor
 
 Antes de importar el catálogo de la tienda a VTEX, recomendamos empezar a trabajar en el árbol de categorías creando una tabla como la que se ilustra a continuación. Esto facilita la visualización de la estructura del árbol y la presentación de las especificaciones.
 
-![catalog_arquitecture_table_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/serie-de-la-tienda-vtex/modulos-de-vtex-i_2.png)
+![catalog_arquitecture_table_ES](//images.ctfassets.net/alneenqid6w5/6Vg5pVKydPdMipVEqj1Spq/60756721b1e21b27b981dee2f2a5e9ad/catalog_arquitecture_table_ES.png)
 
 > ℹ️ En el artículo [Integraciones de backend](https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu) puedes consultar más información sobre cómo importar especificaciones para back office.
 
@@ -152,7 +152,7 @@ Los precios son la información del valor de venta de tus SKU. Estos precios se 
 
 La relación entre los precios, la tabla de precios y el contexto que se aplicará se muestra en la siguiente imagen:
 
-![Conceito de Precios-ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/serie-de-la-tienda-vtex/modulos-de-vtex-i_3.png)
+![Conceito de Precios-ES](//images.ctfassets.net/alneenqid6w5/5xPmlWSbROFajhSkaUt7ya/2a14232018aea8b88b70c21d5a9b6618/Conceito_de_Precios-ES.png)
 
 Puedes registrar tablas de precios para los SKU de la tienda de tres maneras:
 
@@ -268,7 +268,7 @@ El conjunto de configuraciones esenciales de logística para una tienda VTEX se 
 
 La imagen siguiente muestra cómo se relacionan estos conceptos en la venta de un producto:
 
-![shipping_strategy_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/serie-de-la-tienda-vtex/modulos-de-vtex-i_4.png)
+![shipping_strategy_ES](//images.ctfassets.net/alneenqid6w5/1LdEuL3gjF12uwFj4ya6OL/ebc72f36e25bc9e6000d7d0b275bd1be/shipping_strategy_ES.png)
 
 La siguiente tabla muestra los principales ajustes de logística de la tienda VTEX:
 
@@ -317,7 +317,7 @@ Entre los [principales casos de uso](https://help.vtex.com/es/tutorial/lead_time
 
 Para realizar el [cálculo de envio](https://help.vtex.com/es/tutorial/como-funciona-o-calculo-de-envio--tutorials_116) de los pedidos, la plataforma VTEX considera las siguientes configuraciones:
 
-![Envío de Pedidos_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/serie-de-la-tienda-vtex/modulos-de-vtex-i_5.png)
+![Envío de Pedidos_ES](//images.ctfassets.net/alneenqid6w5/CwtKVwOkH8NMV0v2IYjlX/19fd25987e328aeb22f03f48764b2479/Env_o_de_Pedidos_ES.png)
 
 - [Lead time](https://help.vtex.com/es/tutorial/lead_time-shipping-time-at-sku-level--16yv5Mkj6bTyWR1hCN2f4B): cantidad de tiempo configurable para el SKU de un almacén. Esta configuración es opcional y se establece en cero días de forma predeterminada.
 - [Tiempo de almacén](https://help.vtex.com/es/tutorial/gerenciar-estoque--tutorials_137): tiempo que tarda el SKU en pasar del almacén al [muelle](https://help.vtex.com/es/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj). Esta configuración es obligatoria, pero el tiempo puede establecerse en cero.

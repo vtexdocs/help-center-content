@@ -70,7 +70,7 @@ Existem dois status possíveis para um produto na B2W:
 
 Na página de detalhes de um produto na [Americanas Marketplace](https://www.americanas.com.br/?spa=true), as variações do produto (SKUs) são agrupadas em uma única interface. No exemplo ilustrado a seguir, o consumidor pode escolher entre as variações de tamanho Gg, P, M e G de uma camiseta.
 
-![print_camiseta_americanas_b2w](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integra%C3%A7%C3%B5es/configura%C3%A7%C3%B5es-de-integra%C3%A7%C3%B5es/como-funciona-a-integracao-da-skyhub_1.png)
+![print_camiseta_americanas_b2w](https://drive.google.com/uc?export=download&id=1LoLjBU9HTwqwdN4O0loqiWy-grNOggMD)
 
 ### Atualização de produto
 

@@ -44,11 +44,11 @@ Sigue los pasos a continuación para filtrar los registros de un formulario y gu
 
 Tras seguir las instrucciones anteriores, la consulta aparecerá como una opción de vista en la lista del formulario.
 
-![consultas-2-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/master-data/aplicaciones-de-master-data-v1/crear-consulta-personalizada-en-master-data-v1_1.png)
+![consultas-2-es](//images.ctfassets.net/alneenqid6w5/4x2QAjHSxEZT0RyIUqv5kg/5e6ce3c1f84ca1d99e8c2761a66c6954/consultas-2-es.png)
 
 También puedes acceder a las consultas guardadas haciendo clic en el botón **Consultas**, en la lista del formulario:
 
-![consultas-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/master-data/aplicaciones-de-master-data-v1/crear-consulta-personalizada-en-master-data-v1_2.png)
+![consultas-es](//images.ctfassets.net/alneenqid6w5/Cj2YVA2pZ64Sscy0O2MA0/22fd8166b6442947fd09734856ac675a/consultas-es__1_.png)
 
 ## Configuración de consulta predeterminada
 

@@ -27,13 +27,13 @@ You can choose between:
 - Pick up in a store.
 - Customize by item.
 
-![entrega-2-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/instore-using-the-app/delivery_1.png)
+![entrega-2-en](//images.ctfassets.net/alneenqid6w5/621Dlpel880kPOoL8Ur6id/6acc2ea35a43a1056fc26336baff9db6/entrega-2-en.png)
 
 ### Pickup points
 
 For pickup point options, the system selects the stores that have the SKUs in stock and shows the store closest to the customer's zip code, as a suggestion. If the sales associate wants to change the store where the customer will pick up the items, they just need to click the `Change pickup point` button.
 
-![entrega-retirada-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/instore-using-the-app/delivery_2.png)
+![entrega-retirada-en](//images.ctfassets.net/alneenqid6w5/2lmJceEfryZV6OBtgGc3Tq/f842bfa6851d45177338b3241e7c350c/entrega-retirada-en.png)
 
 When choosing to change the pickup point, the sales associate first has access to the pickup point suggested by the system. To see all available pickup points, click `View all pickup points`.
 

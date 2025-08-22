@@ -144,4 +144,4 @@ Destaca la promoción en la página de productos y agrega datos personalizados p
 
 Vea el formulario de Comprar Juntos a continuación:
 
-![Informação geral - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/tasas-y-promociones/promociones/comprar-juntos-registro-de-promocion_1.gif)
+![Informação geral - ES](//images.ctfassets.net/alneenqid6w5/7FKhVNFJSyIiKySq4alXUF/8c20e0d221752e583bb48424ae21c49e/Compre_Junto_v1-_ES.gif)

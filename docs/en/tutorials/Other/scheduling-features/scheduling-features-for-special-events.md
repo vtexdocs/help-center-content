@@ -68,7 +68,7 @@ To schedule content, follow the steps below:
 3. Use the URL field in the top corner to navigate to the page that displays the block whose content you want to overwrite.
 4. Select the block for which you want to create new content. You can select it using the list on the right side or the interface:
 
-![seta-interface](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Other/scheduling-features/scheduling-features-for-special-events_1.png)
+![seta-interface](//images.ctfassets.net/alneenqid6w5/6IhPT84ZmkV83ooydYNLLc/89b848f0f5678a4ce69c9f095e3abcbc/seta-interface.png)
 
 5. Click `Configurations` in the upper right corner.
 6. Click the `New content` button.

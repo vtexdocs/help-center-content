@@ -39,7 +39,7 @@ O **Valor fidelidade nominal** adiciona um valor fixo de crédito na conta do us
 
 No exemplo ilustrado a seguir, os clientes ganharão um crédito de R$10,00 na loja quando o status do pedido mudar para **Faturado**.
 
-![vf-nominal-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promo%C3%A7%C3%B5es-e-taxas/promo%C3%A7%C3%B5es/promocao-regular-com-valor-fidelidade_1.png)
+![vf-nominal-pt](//images.ctfassets.net/alneenqid6w5/5i67rFawcAHCOpI84bBP2U/f2498f3f46cbafe7e1d8dd747422cce8/vf-nominal-pt.png)
 
 ### Valor fidelidade percentual
 
@@ -50,7 +50,7 @@ O **Valor fidelidade percentual** adiciona um valor percentual de crédito basea
 
 No exemplo ilustrado a seguir, os clientes ganharão um crédito de 20% do valor da compra quando o status do pedido mudar para **Pagamento aprovado**.
 
-![vf-percentual-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promo%C3%A7%C3%B5es-e-taxas/promo%C3%A7%C3%B5es/promocao-regular-com-valor-fidelidade_2.png)
+![vf-percentual-pt](//images.ctfassets.net/alneenqid6w5/4EIq0OwX5GI1FgdWk0JHje/4373e3263836d3388356a06dc025f73a/vf-percentual-pt.png)
 
 ## Como configurar restrições
 
@@ -86,17 +86,17 @@ Quando um cliente faz um pedido elegível para receber crédito fidelidade, voc�
 
 Na seção **Promoções e parcerias**, aparece o nome da promoção aplicada ao pedido:
 
-<img class="db center mv9 shadow-4 pointer" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promo%C3%A7%C3%B5es-e-taxas/promo%C3%A7%C3%B5es/promocao-regular-com-valor-fidelidade_7.png" alt="detalhes-do-pedido" style="margin-bottom: 20px;"> <figcaption align = "center">*Detalhes do pedido*</figcaption></figure>
+<img class="db center mv9 shadow-4 pointer" src="https://images.ctfassets.net/alneenqid6w5/1LpXT5YXqbsjb02eAQUsfg/9b4ede20a2b910d2a4c2b117a4e0b7ec/detalhes-oms-pt__1_.png" alt="detalhes-do-pedido" style="margin-bottom: 20px;"> <figcaption align = "center">*Detalhes do pedido*</figcaption></figure>
 
-<img class="db center mv9 shadow-4 pointer" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promo%C3%A7%C3%B5es-e-taxas/promo%C3%A7%C3%B5es/promocao-regular-com-valor-fidelidade_8.png" alt="detalhes-do-pedido-beta" style="margin-bottom: 20px;"> <figcaption align = "center">*Detalhes do pedido (Beta)*</figcaption></figure>
+<img class="db center mv9 shadow-4 pointer" src="https://images.ctfassets.net/alneenqid6w5/2mriJhUbQbqrrUSbp7tjaC/b9de1a7d07c48b49026ec6d3adba4d20/detalhes-neworders-pt__1_.png" alt="detalhes-do-pedido-beta" style="margin-bottom: 20px;"> <figcaption align = "center">*Detalhes do pedido (Beta)*</figcaption></figure>
 
 Na seção __Fluxo do pedido__, é possível verificar o valor fidelidade concedido:
 
-![fluxo-oms-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promo%C3%A7%C3%B5es-e-taxas/promo%C3%A7%C3%B5es/promocao-regular-com-valor-fidelidade_3.png)
+![fluxo-oms-pt](//images.ctfassets.net/alneenqid6w5/62q5OKyu3BqHmbd23HVyOc/57cc8d05f5a909b360634d35bb5eb54e/fluxo-oms-pt__1_.png)
 
 Se você utiliza a nova interface de [Detalhes do pedido (Beta)](https://help.vtex.com/pt/tutorial/order-details-page-beta--2Y75n54Cc9VizrlG1N6ZNl), acesse `Ver interações` para verificar o valor concedido:
 
-![interacoes-neworders-pt (1)](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promo%C3%A7%C3%B5es-e-taxas/promo%C3%A7%C3%B5es/promocao-regular-com-valor-fidelidade_4.png)
+![interacoes-neworders-pt (1)](//images.ctfassets.net/alneenqid6w5/7jjz0zNzeoZbOZ4PapQ836/0b7c14a0db14110258c907a78377ec7a/interacoes-neworders-pt__1_.png)
 
 Considere que a promoção aplicada no pedido ilustrado oferece **Valor fidelidade percentual** de **50%**. Por isso, a cliente ganhou um crédito de `R$ 54,28` para as próximas compras na loja, que equivale a **50%** de `R$ 108,55`, o valor total do pedido.
 
@@ -104,13 +104,13 @@ Considere que a promoção aplicada no pedido ilustrado oferece **Valor fidelida
 
 O valor fidelidade disponível para uso é apresentado para os clientes da sua loja na etapa de **Pagamento** durante o checkout, conforme ilustrado a seguir.
 
-![checkout-pt (1)](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promo%C3%A7%C3%B5es-e-taxas/promo%C3%A7%C3%B5es/promocao-regular-com-valor-fidelidade_5.png)
+![checkout-pt (1)](//images.ctfassets.net/alneenqid6w5/6TNM6G9j4f3vnD7JERO6TE/60bf6f957d722190baf2c3c3e9b8a302/checkout-pt__1_.png)
 
 O valor concedido pode ser utilizado para compor o pagamento. Para isso, o cliente deve clicar em `utilizar crédito` e, em seguida, digitar o valor que deseja utilizar.
 
 Observe que o valor será descontado da outra forma de pagamento selecionada. No exemplo a seguir, o boleto passou a ter o valor de `R$ 113,50`, que corresponde a `R$ 167,80` menos o valor fidelidade utilizado (`R$ 54,30`).
 
-![checkout-2-pt (1)](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promo%C3%A7%C3%B5es-e-taxas/promo%C3%A7%C3%B5es/promocao-regular-com-valor-fidelidade_6.png)
+![checkout-2-pt (1)](//images.ctfassets.net/alneenqid6w5/6pM4KJyCPRijRDFqLHNehz/26f4604ae74e66ebfc41040164d8c1e9/checkout-2-pt__1_.png)
 
 ## Saiba mais
 

@@ -27,7 +27,7 @@ In addition to sending invitations, the page also displays a list of sellers to 
 
 For new sellers to integrate with your marketplace, you must perform the following actions on the VTEX platform: [Invite](#inviting-sellers) and [Connect](#connecting-sellers).
 
-![EN seller invite](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Sellers/seller-portal/marketplace-invited-sellers_1.jpg)
+![EN seller invite](//images.ctfassets.net/alneenqid6w5/3kCM8CHXpzssH5MWf6txLh/48e7ae5bdb892b7e0b0811c2d868a8b4/EN_Seller_invite.jpg)
 
 ## Inviting sellers
 

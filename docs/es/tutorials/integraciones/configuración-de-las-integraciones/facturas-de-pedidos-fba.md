@@ -19,7 +19,7 @@ La funcionalidad **Facturas** permite que los sellers [filtren](#filtros) y expo
 
 Para acceder a la página, accede al **Admin VTEX > Marketplace > Amazon > Facturas** o escribe **Facturas** en la barra de búsqueda del Admin.
 
-![Overview facturas Amazon](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/configuraci%C3%B3n-de-las-integraciones/facturas-de-pedidos-fba_1.jpg)
+![Overview facturas Amazon](//images.ctfassets.net/alneenqid6w5/2Mon7qB0FEIGhzTdvf0pgy/4f1015d9612e95b64790a65d8635ab0d/nf-amazon-pt.jpg)
 
 ## Filtros
 
@@ -37,11 +37,11 @@ Al seleccionar **Tipo de operación** o **Tipo de factura,**  se muestran otras 
 
 - Si se selecciona **Tipo de operación** , se muestran las opciones **Envío (excedente), Remoción, Ventas, Devolución del cliente, Ajuste de stock (encontrado)** y **Ajuste de stock (perdido),**  según se ilustra a continuación.  
 
-![Tipo operación NFe](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/configuraci%C3%B3n-de-las-integraciones/facturas-de-pedidos-fba_2.jpg)
+![Tipo operación NFe](//images.ctfassets.net/alneenqid6w5/5qWQCmp0zk1ItIGqwmGEB/6bfa8df93a8d217129f3233a888a53da/tipodeoperacaonfe-pt.jpg)
 
 - Si se selecciona **Tipo de factura** , se muestran las opciones **Envío, Envío de ajuste, Devolución, Devolución de ajuste** y **Venta al cliente**, según se ilustra a continuación.  
 
-![Tipo NFe](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/configuraci%C3%B3n-de-las-integraciones/facturas-de-pedidos-fba_3.jpg)
+![Tipo NFe](//images.ctfassets.net/alneenqid6w5/228Fycy2V3qzOON9r5Gjn/caa6940e291f7e1f8f567c455431fd61/tiponfe-pt.jpg)
 
 > ℹ️ Si no seleccionas ninguno de los dos, el sistema devuelve las facturas de todos los tipos de forma predeterminada.
 

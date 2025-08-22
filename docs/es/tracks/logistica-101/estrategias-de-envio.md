@@ -18,7 +18,7 @@ Las opciones de envío a disposición del cliente en el _checkout_ de tu tienda 
 
 La estrategia de envío define cómo los almacenes, muelles y políticas de envío interactúan para atender las necesidades de tus clientes y de tu empresa. 
 
-![Estrategia EnvioES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/logistica-101/estrategias-de-envio_1.png)
+![Estrategia EnvioES](//images.ctfassets.net/alneenqid6w5/a0tXw0SPa0zFg5o0byFeS/d0349a827fc24a4c5a3e1782289fd8c0/Estrategia_EnvioES.png)
 
 La estrategia de envío está definida por tres entidades logísticas:
 

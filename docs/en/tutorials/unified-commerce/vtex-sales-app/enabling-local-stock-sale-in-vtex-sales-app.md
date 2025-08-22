@@ -73,7 +73,7 @@ You will need to select a sales associate from the store where you want to test 
 1. With a [sales associate selected](https://help.vtex.com/en/tutorial/vendedores-instore-beta--4rzit1pzp28km4HSDEdrEC), open Sales App and log in.
 2. Search for an item that exists in the franchise account warehouse. The item should display the available quantity that corresponds to the seller inventory.
 
-![instore-pdp-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/unified-commerce/vtex-sales-app/enabling-local-stock-sale-in-vtex-sales-app_1.png)
+![instore-pdp-en](//images.ctfassets.net/alneenqid6w5/7CtYO9vUzaunI2qO8onP7B/064cb3f0b499da4533cacdbea0fee4eb/image.png)
 
 > ℹ️ If you enabled Unlimited inventory, the item quantity will display as a number greater than one million, which can't be changed when a sale is completed.
 
@@ -86,9 +86,9 @@ You can also enable On Hands to ignore stock quantity and force item availabilit
 2. Click the gear <i class="fas fa-cog"></i> button to edit.
 3. Select the **Code** tab.
 4. In the side tab, select the `checkout-instore-custom-js` file.
-![instore-custom-js-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/unified-commerce/vtex-sales-app/enabling-local-stock-sale-in-vtex-sales-app_2.png)
+![instore-custom-js-en](//images.ctfassets.net/alneenqid6w5/5a70caO8nFFF25CrSXPXkx/45e6d1e73997a0ff4a4872fdc502a17c/image.png)
 5. In the `window.INSTORE_CONFIG` key, add the `sellWithoutStockInHands: true` flag.
-![sellWithoutStockInHands-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/unified-commerce/vtex-sales-app/enabling-local-stock-sale-in-vtex-sales-app_3.png)
+![sellWithoutStockInHands-en](//images.ctfassets.net/alneenqid6w5/3yfRFSG0QgIwnXvyxwhsLo/642bf1e6d79d00ce46275ac1924d03c0/image.png)
 6. Click <i class="fas fa-save"></i> `Save`.
 
 ## Enabling mixed cart sales (optional)

@@ -21,6 +21,6 @@ Essa consulta significa que o XML foi chamado em menos de 48 horas. Aqueles XML 
 
 É possível visualizar a última data de atualização do XML. Essa informação fica em horário UTC no final do documento, conforme imagem abaixo.
 
-[![xml](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/cat%C3%A1logo/integra%C3%A7%C3%A3o-xml/entendendo-a-atualizacao-do-xml_1.png)](//images.contentful.com/alneenqid6w5/4f0ryUsnO8UQM8micg88EQ/8127b7bad05fd3b27fcc84f0754e7ea0/xml.png "![xml](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/cat%C3%A1logo/integra%C3%A7%C3%A3o-xml/entendendo-a-atualizacao-do-xml_2.png)")
+[![xml](//images.contentful.com/alneenqid6w5/4f0ryUsnO8UQM8micg88EQ/8127b7bad05fd3b27fcc84f0754e7ea0/xml.png)](//images.contentful.com/alneenqid6w5/4f0ryUsnO8UQM8micg88EQ/8127b7bad05fd3b27fcc84f0754e7ea0/xml.png "![xml](//images.contentful.com/alneenqid6w5/4f0ryUsnO8UQM8micg88EQ/8127b7bad05fd3b27fcc84f0754e7ea0/xml.png)")
 
 > ℹ️ Caso a opção "Exibir os SKUs sem saldo disponível (esgotados) em Estoque entre os resultados" esteja desmarcada, os produtos/SKUs que estiverem esgotados não aparecerão no XML. <br>Produtos inativos também **não** aparecem no XML.

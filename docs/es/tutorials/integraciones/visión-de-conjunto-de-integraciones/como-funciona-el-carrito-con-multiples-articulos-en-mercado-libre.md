@@ -29,6 +29,6 @@ En lugar de usar los IDs de cada artículo (lo que generaría pedidos separados 
 
 Usted puede encontrar los dos IDs a través del informe enviado desde el panel de integraciones en el Admin de VTEX.
 
-![mercalo-livre-pedido-id-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/visi%C3%B3n-de-conjunto-de-integraciones/como-funciona-el-carrito-con-multiples-articulos-en-mercado-libre_1.png)
+![mercalo-livre-pedido-id-es](//images.ctfassets.net/alneenqid6w5/5JOUHJijbIVncRSfvx5lnC/6cceef1724619d4cd8d332d0e5aad89b/mercalo-livre-pedido-id-es.png)
 
 > ⚠️ Esta lógica de funcionamiento se aplica a todos los tipos de entrega, con excepción de aquellos que incluyen pickup points. En estos casos, la plataforma sigue utilizando el identificador antiguo.

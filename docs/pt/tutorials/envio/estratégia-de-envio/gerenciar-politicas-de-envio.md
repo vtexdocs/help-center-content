@@ -17,7 +17,7 @@ subcategoryId: 7fTH6bP0C4IaM8qWi0kkQC
 
 [Política de envio](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140) é um conjunto de regras e configurações que definem quais opções de envio serão apresentadas aos clientes no checkout. A relação entre política de envio, [estoque](https://help.vtex.com/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb) e [doca](https://help.vtex.com/pt/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj) é o que compõe a sua [estratégia de envio](https://help.vtex.com/pt/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3) na VTEX, conforme a imagem abaixo:
 
-![shipping_strategy_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/estrat%C3%A9gia-de-envio/gerenciar-politicas-de-envio_1.png)
+![shipping_strategy_PT](//images.ctfassets.net/alneenqid6w5/1LdEuL3gjF12uwFj4ya6OL/c60984b010b96980383798cffad3527f/shipping_strategy_PT.png)
 
 Este artigo apresenta como acompanhar e gerenciar suas políticas de envio. No Admin VTEX, em **Envio > Estratégia de envio**, a aba **Políticas de envio** é onde você realiza as seguintes ações:
 
@@ -35,7 +35,7 @@ Este artigo apresenta como acompanhar e gerenciar suas políticas de envio. No A
 
 No Admin VTEX, ao acessar **Envio > Estratégia de envio**, na aba **Políticas de envio** você encontra uma lista como na imagem abaixo:
 
-![shipping_policy_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/estrat%C3%A9gia-de-envio/gerenciar-politicas-de-envio_2.png)
+![shipping_policy_PT](//images.ctfassets.net/alneenqid6w5/uiwwWTGlS60kPjMDLNfzY/8f71ffc10c5e9e530c7f7d122de84005/shipping_policy_PT.png)
 
 As informações apresentadas nessa página estão descritas na tabela a seguir: 
 

@@ -3,8 +3,8 @@ title: 'Configurar pago con iugu'
 id: 2c1nAo5iR6jG1UySzRB89t
 status: PUBLISHED
 createdAt: 2022-03-31T18:58:08.146Z
-updatedAt: 2024-03-13T11:53:59.094Z
-publishedAt: 2024-03-13T11:53:59.094Z
+updatedAt: 2025-08-15T14:01:20.485Z
+publishedAt: 2025-08-15T14:01:20.485Z
 firstPublishedAt: 2022-03-31T19:22:31.835Z
 contentType: tutorial
 productTeam: Financial
@@ -25,8 +25,10 @@ Para agregar iugu a tu tienda, sigue los pasos a continuación:
 4. En los campos __Clave de aplicación__ y __Token de aplicación__, ingrese la información proporcionada por iugu ([ID da conta y Chave API](https://dev.iugu.com/docs/configurando-conector-iugu-na-vtex#localizando-id-da-conta-e-chave-api-no-painel-da-iugu)).
 5. Si desea modificar el nombre de identificación que se mostrará para el proveedor iugu en la pantalla VTEX Admin, ingrese la información en el campo __Nombre__ en __Información general__.
 6. En __Control de pago__, seleccione si desea activar el proveedor en un entorno de prueba haciendo clic en __Activar modo de prueba__.
-7. Si desea utilizar el boleto bancario como medio de pago, en __Campos del proveedor__, complete el campo __Prazo de vencimento do boleto(em dias)__ con el mismo valor configurado en su área de clientes en el portal iugu.
-8. Haga clic en `Guardar`.
+7. Si desea utilizar [Split de pagos](https://help.vtex.com/es/tutorial/split-de-pagos--6k5JidhYRUxileNolY2VLx) en su tienda, seleccione la opción __Activar split de cobros y enviar destinatarios de pago__ e indique el __Responsable de cargos de procesamiento de pagos__ y el __Responsable de contracargos__ (marketplace, sellers o marketplace y sellers).
+8. Si desea utilizar el boleto bancario como medio de pago, en __Campos del proveedor__, complete el campo __Prazo de vencimento do boleto(em dias)__ con el mismo valor configurado en su área de clientes en el portal iugu.
+9. En __Tempo limite de validade do Pix (minutos)__, seleccione el período disponible para que el cliente realice el pago a través de Pix.
+10. Haga clic en `Guardar`.
 
 ## Configurar condiciones de pago
 

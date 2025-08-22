@@ -29,5 +29,5 @@ Cuando un producto tiene múltiples promociones asociadas, el vendedor de una ti
 
 La siguiente imagen ilustra una promoción disponible en la Página de Listado de Productos (PLP).
 
-![promoção em destaque](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/comercio-unificado/vtex-sales-app/promociones-en-la-pagina-de-busqueda-de-sales-app_1.png)
+![promoção em destaque](//images.ctfassets.net/alneenqid6w5/2YpcrGEb1eHZ0IFeOzvAj4/4100ae92c199a78d0146497191ab0b9a/promo__o_em_destaque.png)
 

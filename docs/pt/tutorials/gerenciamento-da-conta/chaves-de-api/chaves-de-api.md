@@ -43,15 +43,15 @@ A página **Chaves de API** no Admin VTEX permite gerenciar as chaves de API com
 
    > ℹ️ O token não expira após o prazo definido. A configuração determina apenas quando a interface vai recomendar a renovação.
 
-   ![token-renewal-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/gerenciamento-da-conta/chaves-de-api/chaves-de-api_1.png)
+   ![token-renewal-pt](//images.ctfassets.net/alneenqid6w5/0YykrEUuUAjQ6VUjL48aI/1b8ffb4cd9fad9e509e4cb9f4db4a897/token-renewal-pt.png)
 
 * [Chaves geradas](https://help.vtex.com/pt/tutorial/chaves-geradas--7fnU4iZdvZKbxCaT3Ymdjc): permite gerenciar chaves de API criadas e administradas por sua conta VTEX.
 
-   ![generated-keys-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/gerenciamento-da-conta/chaves-de-api/chaves-de-api_2.png)
+   ![generated-keys-pt](//images.ctfassets.net/alneenqid6w5/1BKpENJAjKlijTutL0wxLZ/a587d714dde16657400d07b47fc31826/generated-keys-pt.png)
 
 * [Chaves externas](https://help.vtex.com/pt/tutorial/chaves-externas--1isU0HfKkeg0atlxRha14Q): permite gerenciar chaves de API criadas e administradas por outras contas VTEX, com acesso a recursos específicos na sua conta.
 
-   ![apikeys-external-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/gerenciamento-da-conta/chaves-de-api/chaves-de-api_3.png)
+   ![apikeys-external-pt](//images.ctfassets.net/alneenqid6w5/5mwOrVyQr2LiDBAkzIZWwU/ef829c3c776b6fa1326d49d97a6b7b47/apikeys-external-pt.png)
 
 ## Requisitos para gerenciar chaves de API
 

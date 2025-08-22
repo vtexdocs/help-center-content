@@ -19,7 +19,7 @@ A página **Chaves de API** permite configurar um alerta para recomendar a renov
 
 [Renovar tokens](https://help.vtex.com/pt/tutorial/renovar-token-de-api--7r4AzptYjXErGHadg9LnJ3]) periodicamente é importante para garantir a segurança, limitar a exposição a riscos e controlar o acesso a recursos, minimizando o impacto de chaves comprometidas.
 
-![token-renewal-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/gerenciamento-da-conta/chaves-de-api/configurar-alerta-para-renovar-tokens-de-api_1.png)
+![token-renewal-pt](//images.ctfassets.net/alneenqid6w5/0YykrEUuUAjQ6VUjL48aI/1b8ffb4cd9fad9e509e4cb9f4db4a897/token-renewal-pt.png)
 
 Por padrão, o alerta de renovação aparece após 3 meses, a não ser que outra opção seja selecionada. Para configurar a periodicidade do alerta, siga o procedimento abaixo:
 
@@ -38,11 +38,11 @@ A periodicidade do alerta será aplicada a todas as chaves novas e existentes e 
 
 Ao atingir o prazo definido, o alerta para renovação aparece ao lado da chave na aba **Geradas**:
 
-![renew-recommended-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/gerenciamento-da-conta/chaves-de-api/configurar-alerta-para-renovar-tokens-de-api_2.png)
+![renew-recommended-pt](//images.ctfassets.net/alneenqid6w5/33RBvgeiebVLBudT0L7GhC/c59a8bffe9881dc5884f834a2ae340cc/renew-recommended-pt.png)
 
  O alerta laranja significa que o token passou do prazo recomendado de uso em até 3 meses.
 
-![renew-highly-recommended-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/gerenciamento-da-conta/chaves-de-api/configurar-alerta-para-renovar-tokens-de-api_3.png)
+![renew-highly-recommended-pt](//images.ctfassets.net/alneenqid6w5/5dk1vc3reYddm3C2xXWmUq/89f619e16e41c482da0ef8229c4e1d64/renew-highly-recommended-pt.png)
 
 O alerta vermelho significa que o token está em uso há 3 meses ou mais além do prazo determinado.
 

@@ -84,7 +84,7 @@ Cada campo ofrece las opciones **Igual a** (inclusión) o **Diferentes de** (exc
 
 En el siguiente ejemplo, la promoción se configuró para incluir todos los productos de la categoría Alimentación, con la marca Pedigree, excepto el producto Croquetas Whiskas. A continuación se ilustra cómo se completaron los campos:
 
-![Tela quais itens-ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/tasas-y-promociones/promociones/registro-promocion-regular_1.png)
+![Tela quais itens-ES](//images.ctfassets.net/alneenqid6w5/4v5wXtdO7CzCCHI0F0heTC/5fa158710f53c21d7c39c431602e299a/Tela_quais_itens-ES.png)
 
 Para facilitar el llenado de productos o SKUs, puedes cargar un archivo **.txt** con los IDs deseados. El archivo debe contener un ID por fila. Para cargarlo:
 

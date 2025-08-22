@@ -45,7 +45,7 @@ Na planilha os campos a serem preenchidos são:
 
 Para escolher o turno da entrega, marque um X na célula em apenas um dos turnos (Manhã, Tarde ou Noite).
 
-![exemplo de planilha de agendamento](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-tracking/servi%C3%A7os/agendamento-de-servicos_1.png)
+![exemplo de planilha de agendamento](//images.ctfassets.net/alneenqid6w5/5crlOibYcmzfWkusdc2iSP/2cefb30f0df8fc7ab61104a09f8f9414/exemplo_planilha_agendamento.png)
 
 > ❗ O modelo da planilha não deve ser alterado. Nenhuma coluna deve ser modificada ou trocada de posição.
 
@@ -69,4 +69,4 @@ Depois de preencher a planilha, você precisa subir o arquivo na plataforma VTEX
 
 > ⚠️ Os agendamentos só podem ser alterados se as entregas ainda estiverem no status Ativo.
 
-![Agendamento de serviços](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-tracking/servi%C3%A7os/agendamento-de-servicos_2.gif)
+![Agendamento de serviços](//images.ctfassets.net/alneenqid6w5/OhKdJX8S3Ef4EjoUOaGL3/5f463a280ae7cfa51a856d047b39be82/Agendamento.gif)

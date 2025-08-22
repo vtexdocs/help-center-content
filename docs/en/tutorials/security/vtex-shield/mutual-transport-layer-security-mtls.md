@@ -44,7 +44,7 @@ With mTLS, only trusted systems can communicate with each other. This reinforces
 
 The diagram below represents the mutual authentication flow using mTLS, where client and server validate each other's identity before any data is exchanged:
 
-![mtls-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/security/vtex-shield/mutual-transport-layer-security-mtls_1.png)
+![mtls-en](//images.ctfassets.net/alneenqid6w5/29oPGzHDD0YSQGFMDmPfQo/295074d85d3532fe0edb18e90558a3d2/screencapture-mermaid-live-view-2025-05-21-20_10_20.png)
 
 1. The client initiates a connection to the server.  
 2. The server presents its TLS certificate.  

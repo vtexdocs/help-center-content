@@ -19,7 +19,7 @@ La barra de herramientas de televentas es una barra superior que se muestra en e
 
 La barra de herramientas aparece una vez que el operador registrado inicia sesión en el ambiente de la tienda y esta se muestra en todas las áreas del sitio web.
 
-![toolbartelevendas ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pedidos/televentas-y-servicio-al-cliente/barra-de-herramientas-de-televentas_1.png)
+![toolbartelevendas ES](//images.ctfassets.net/alneenqid6w5/5ed5A8G266JqwpCaYAyDdI/ac84e4fa98ca225195dae8890f04333b/toolbartelevendas_ES.png)
 
 Estos son los principales recursos de la barra de herramientas:
 *   [Entrar como cliente](#entrar-como-cliente)

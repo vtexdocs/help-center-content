@@ -46,7 +46,7 @@ Para descargar su factura, realice los siguientes pasos:
 
 Una vez hecho esto, su factura estará disponible en otra pestaña.
 
-![baixar faturas es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/facturas/t%C3%ADtulos/como-descargar-las-facturas-de-vtex_1.gif)
+![baixar faturas es](//images.ctfassets.net/alneenqid6w5/5sIBQUq8c2OKi0PHOb7qhs/8554b546c31d52e5f1a897a99c9341eb/baixar_faturas_es.gif)
 
 ## Brasil 
 
@@ -66,7 +66,7 @@ Para descargar su boleto, realice los siguientes pasos:
 
 > ℹ️ En Brasil, una factura púrpura puede indicar que está atrasada pero se ha generado un nuevo boleto para una fecha cercana. En este caso, la factura permanecerá atrasada hasta que se realice el pago. Si no se paga el nuevo boleto, la factura se pondrá en rojo.
 
-![baixar boletos es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/facturas/t%C3%ADtulos/como-descargar-las-facturas-de-vtex_2.gif)
+![baixar boletos es](//images.ctfassets.net/alneenqid6w5/6JSRhGjBxWs4KDpVm9P5LL/57eb4cb973d27d600710cd8a91f7f4a6/baixar_boletos_es.gif)
 
 ### Descargar la Nota Fiscal
 
@@ -83,6 +83,6 @@ De esta forma, la Nota Fiscal se abrirá en otra pestaña de su navegador. Haga 
 1. En Destino, seleccione la opción **Guardar en PDF**.
 2. Para finalizar, haga clic en **Guardar**.
 
-![baixar notafiscal es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/facturas/t%C3%ADtulos/como-descargar-las-facturas-de-vtex_3.gif)
+![baixar notafiscal es](//images.ctfassets.net/alneenqid6w5/y5FNSwSwYBOrMvX6mvHeO/c1f091d98df99caa716e3e2ad352b230/baixar_notafiscal_es.gif)
 
 Si tiene dudas sobre el valor de la factura, lea el artículo [comprenda el valor de los ingresos aprobados](https://help.vtex.com/es/tutorial/como-acessar-o-valor-da-receita-aprovada--tutorials_4322) para entender el valor que se cobró.

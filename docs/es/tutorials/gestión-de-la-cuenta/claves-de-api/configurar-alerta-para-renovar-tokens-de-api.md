@@ -19,7 +19,7 @@ La página **Claves de API** permite configurar alertas para recomendar la renov
 
 [Renovar los tokens](https://help.vtex.com/es/tutorial/renovar-token-de-api--7r4AzptYjXErGHadg9LnJ3%5D) periódicamente es importante para garantizar la seguridad, limitar la exposición a riesgos y controlar el acceso a los recursos, lo que minimiza el impacto de claves comprometidas.
 
-![token-renewal-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/gesti%C3%B3n-de-la-cuenta/claves-de-api/configurar-alerta-para-renovar-tokens-de-api_1.png)
+![token-renewal-es](//images.ctfassets.net/alneenqid6w5/0YykrEUuUAjQ6VUjL48aI/4159b7e09e3ab0c96d3bd884db0a58f3/token-renewal-es.png)
 
 La alerta de renovación se muestra a los 3 meses de forma predeterminada, a menos que se seleccione otra opción. Para configurar la periodicidad de la alerta sigue los pasos a continuación:
 
@@ -39,11 +39,11 @@ La periodicidad de la alerta se aplicará a todas las claves, tanto nuevas como 
 
 Cuando se cumple el plazo definido, la alerta de renovación se muestra al lado de la clave en la pestaña **Generadas**:
 
-![renew-recommended-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/gesti%C3%B3n-de-la-cuenta/claves-de-api/configurar-alerta-para-renovar-tokens-de-api_2.png)
+![renew-recommended-es](//images.ctfassets.net/alneenqid6w5/33RBvgeiebVLBudT0L7GhC/beb1f70eea01b40412f32e526af81080/renew-recommended-es.png)
 
 La alerta naranja indica que el token superó el plazo de uso recomendado por un periodo inferior a 3 meses.
 
-![renew-highly-recommended-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/gesti%C3%B3n-de-la-cuenta/claves-de-api/configurar-alerta-para-renovar-tokens-de-api_3.png)
+![renew-highly-recommended-es](//images.ctfassets.net/alneenqid6w5/5dk1vc3reYddm3C2xXWmUq/d61c7db95076c3cb2a067b7349a9f0d0/renew-highly-recommended-es.png)
 
 La alerta roja indica que el plazo de uso recomendado se superó hace 3 meses o más.
 

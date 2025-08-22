@@ -61,4 +61,4 @@ El comprobante impreso incluirá los siguientes datos:
 
 Para tiendas que tienen integraciones realizadas por partners como Neomode y que facturan las ventas On Hands inmediatamente, la factura se mostrará en el comprobante, como se ilustra a continuación:
 
-![thermic_printer_receipt_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/comercio-unificado/vtex-sales-app/emision-de-comprobante-de-venta-en-sales-app-a-traves-de-impresora-termica_1.png)
+![thermic_printer_receipt_ES](//images.ctfassets.net/alneenqid6w5/YOumGZtiUlkA1ACYOgKec/b59f186e04782170470d10ff0fdd9578/thermic_printer_receipt_ES.png)

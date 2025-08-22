@@ -61,4 +61,4 @@ The printed receipt includes the following information:
 
 For stores with integrations by partners like Neomode that immediately invoice OnHands sales, the invoice will appear on the receipt, as shown in the image below:
 
-![thermic_printer_receipt_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/unified-commerce/vtex-sales-app/issuing-sales-receipts-in-sales-app-via-thermal-printer_1.png)
+![thermic_printer_receipt_EN](//images.ctfassets.net/alneenqid6w5/YOumGZtiUlkA1ACYOgKec/6e1a0665c0b78a6a4a2707c89fa9c977/thermic_printer_receipt_EN.png)

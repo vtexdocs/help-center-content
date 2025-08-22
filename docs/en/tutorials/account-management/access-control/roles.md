@@ -59,7 +59,7 @@ Check the complete list of available [License Manager resources](https://help.vt
 
 Roles can be managed through VTEX Admin. Click on your **profile avatar** on the VTEX Admin top bar, marked by the initial of your email, and click on **Account Settings** > __User Roles__ .
 
-![List roles](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/account-management/access-control/roles_1.png)
+![List roles](//images.ctfassets.net/alneenqid6w5/5SsjVcIztKJQ3yxY1udwOH/8221fd52b20d28b39952ad447fa0424c/List_roles.png)
 
 This page shows a list with all roles that were added for the account, which you can edit or delete from the **Actions** column.
 

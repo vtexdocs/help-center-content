@@ -44,7 +44,7 @@ Los siguientes campos son opcionales en la plantilla, se exportan solo para exhi
 <table width="100%">
   <tr>
    <td>
-    <img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/precios/configuraci%C3%B3n-de-precios/tabla-de-precios-base_1.png" style="display: block; margin-left: auto; margin-right: auto;" alt="base prices table" title="base prices table">
+    <img src="https://images.ctfassets.net/alneenqid6w5/2XX0xwgVreVnFb6U2rjJR7/900c3bc9557aabaa87811369ce785581/baseprices_table.png" style="display: block; margin-left: auto; margin-right: auto;" alt="base prices table" title="base prices table">
    </td>
   </tr>
   <tr>

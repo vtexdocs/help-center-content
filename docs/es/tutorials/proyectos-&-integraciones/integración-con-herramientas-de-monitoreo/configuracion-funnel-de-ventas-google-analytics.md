@@ -23,23 +23,23 @@ Con el embudo de ventas configurado, es posible acompañar y analizar los pasos 
 
 Para la configuración manual o la edición de una meta existente, el primer paso es acceder a Analytics y hacer clic en el botón __Administrador__ en la esquina inferior izquierda. A continuación, vaya a la opción __Metas__, de la columna "Vista".
 
-![image](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/proyectos-&-integraciones/integraci%C3%B3n-con-herramientas-de-monitoreo/configuracion-funnel-de-ventas-google-analytics_1.png)
+![image](//images.ctfassets.net/alneenqid6w5/1br6W1yFRuMWoO2wW8Iu04/de2c4c8938a856821b25fde18b2632a7/image.png)
 
 En la pantalla de administración de metas, opte por crear una nueva o editar una ya existente.
 
 __En el paso 1__ usted puede seguir con una meta de tipo personalizado:
 
-![image](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/proyectos-&-integraciones/integraci%C3%B3n-con-herramientas-de-monitoreo/configuracion-funnel-de-ventas-google-analytics_2.png)
+![image](//images.ctfassets.net/alneenqid6w5/7GPxGfEoaA2GUqOGA48U2a/3b731dfd468a389813d0da16802df98f/image.png)
 
 __En el paso 2__ usted puede definir el nombre que prefiera para su meta y un código de posición (de uso interno de Google Analytics). En el tipo, vamos a usar "Destino":
 
-![image](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/proyectos-&-integraciones/integraci%C3%B3n-con-herramientas-de-monitoreo/configuracion-funnel-de-ventas-google-analytics_3.png)
+![image](//images.ctfassets.net/alneenqid6w5/6Sdi6PJ4e4SKiuUSeEgMii/d0f1e7fb597333867e4d56453922847a/image.png)
 
 __En el paso 3__ tenemos las configuraciones más sensibles. En él configuramos la página que determina la conclusión de la meta y el camino que los clientes van a recorrer para alcanzarla.
 
 En el campo "Destino" seleccione la opción de expresión regular e introduzca la dirección URL de la página de pedido completa: `^/checkout/orderPlaced`
 
-![image](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/proyectos-&-integraciones/integraci%C3%B3n-con-herramientas-de-monitoreo/configuracion-funnel-de-ventas-google-analytics_4.png)
+![image](//images.ctfassets.net/alneenqid6w5/6lxVMRQt7GWcqqSiCGe40g/177d2cf23b65d5f2134fc389a5646b9b/image.png)
 
 Luego configure la ruta que el cliente va a recorrer hasta que finalice un pedido. En este caso, tenemos en cuenta que el proceso de compra se inicia en la pantalla del producto; entonces mi embudo servirá para medir la cantidad de clientes que accede a esa pantalla, cuántos pedidos se han finalizado y en qué paso los clientes están desistiendo de la compra.
 
@@ -52,7 +52,7 @@ Aún en el paso 3, active la opción __Embudo__ con los siguientes pasos:
  - __Envío__ = `^/checkout/(\?.*)?#/shipping$`
  - __Pago__ =  `^/checkout/(\?.*)?#/payment$`
 
-![image](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/proyectos-&-integraciones/integraci%C3%B3n-con-herramientas-de-monitoreo/configuracion-funnel-de-ventas-google-analytics_5.png)
+![image](//images.ctfassets.net/alneenqid6w5/4gzupPXI4w0gYWISUaCUQS/efb5f7cd239cae3cfd992b2b649e58b9/image.png)
 
 Una forma de comprobar si la meta está configurada correctamente es usar el enlace "Compruebe esta meta". Google va a generar una simulación de la conversión de la meta en los últimos 7 días.
 

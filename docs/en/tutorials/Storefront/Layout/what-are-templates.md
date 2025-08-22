@@ -32,7 +32,7 @@ In addition to these two basic types, there is also a subdivision of the __page 
 
 And speaking of organization, you will find all templates in **Storefront > Layout > CMS**, gathered in folders according to their type (HTML or Shelves). __Sub Templates__ are in the folder of the same name, which is inside the __HTML Templates__ directory. There, you will be able to create new templates and edit the ones that already exist.
 
-![cms](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Storefront/Layout/what-are-templates_1.png)
+![cms](//images.ctfassets.net/alneenqid6w5/JJxxdcGFq04SKmaqas6Oy/5c7a29f8676d68cc0d4dc7bfcf639ded/cms.png)
 
 ### Related articles
 - [What is CMS?](/en/tutorial/what-is-cms)

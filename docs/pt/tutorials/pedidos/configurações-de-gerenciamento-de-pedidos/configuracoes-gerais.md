@@ -19,7 +19,7 @@ subcategoryId: 1qvm3kIrt6KA6IeGc4EQ6k
 
 No Admin VTEX, acesse **Configurações da loja > Pedidos > Configurações**, ou digite *Pedidos* na barra de busca no topo da página e e selecione *Configurações da loja / Pedidos*. 
 
-![configuracoes_pedidos_pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pedidos/configura%C3%A7%C3%B5es-de-gerenciamento-de-pedidos/configuracoes-gerais_1.png)
+![configuracoes_pedidos_pt](//images.ctfassets.net/alneenqid6w5/3Pg3IFrgPiGdwsIJowvNBy/743fdbe79371cf6f3f7a43ca340102d2/configuracoes_pedidos_pt.png)
 
 ## Carrinho
 

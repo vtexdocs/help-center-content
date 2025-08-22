@@ -17,7 +17,7 @@ subcategoryId: 1TIJqw8kV2Yok4iQe4SAkq
 
 Na página Visão Geral, os proprietários de lojas VTEX têm acesso às principais métricas que impactam a receita de suas lojas. Nesse painel, você pode acompanhar a evolução das suas vendas através dos recursos de análise de tendências de pedidos, taxa de conversão e gráficos de funil de vendas. Essa ferramenta está disponível no Admin VTEX. Para acessá-la, clique em __Dashboards > Visão Geral__ no menu de navegação, ou digite *Visão Geral* na barra de busca no topo da página.
 
-![Store overview gif PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/dashboards/dashboards-no-admin-vtex/visao-geral-da-loja_1.gif)
+![Store overview gif PT](//images.ctfassets.net/alneenqid6w5/4vKmiLmTVUtaxn5vzpX5xq/b9a4a299f80286eadf1727cd5057a64c/Store_overview_gif_PT.gif)
 
 A página de Visão Geral traz um resumo do seu negócio com a VTEX. Para consultar análises mais profundas das métricas da sua loja, acesse [Performance de Vendas](https://help.vtex.com/pt/v4/docs/performance-de-vendas--6gx46RGRzWO8qgaVck7PRp).
 
@@ -54,7 +54,7 @@ Para comparar dados de diferentes períodos, no topo da página, selecione a dat
 | Últimos 28 dias | 00:00 do 29° dia anterior ao dia atual        | 23:59 do dia anterior ao dia de hoje                                                                                                                                    |
 
 ## Métricas
-![Store overview Métricas PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/dashboards/dashboards-no-admin-vtex/visao-geral-da-loja_2.png)
+![Store overview Métricas PT](//images.ctfassets.net/alneenqid6w5/75FnGMAHaNQxfcHmKM7Jjf/efa916ff3c1f70906439c3f2f4adbf06/Me__tricas_PT.png)
 
 A tabela abaixo descreve as principais métricas disponíveis no painel da página inicial. Todas as métricas se referem aos fluxos de compra realizados em lojas VTEX em um determinado período de tempo.
 
@@ -71,7 +71,7 @@ Pedidos cancelados                               | Número total de pedidos canc
 | Pedidos na última hora                | Pedidos feitos na sua loja na última hora. Ao clicar nessa métrica, você será redirecionado para a página [Todos os pedidos](https://help.vtex.com/pt/v4/docs/todos-os-pedidos--6JHeydzIft46VY7JTEpbJT).                                                                                                                                                                   |
 
 ## Produtos com maior receita / Produtos com mais unidades vendidas
-![Store overview Growing products PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/dashboards/dashboards-no-admin-vtex/visao-geral-da-loja_3.jpg)
+![Store overview Growing products PT](//images.ctfassets.net/alneenqid6w5/5J5U85LjLuTt6MRFSaisZG/186c31b9b5632b5a106d3439dac945ec/Store_overview_Growing_products_PT.jpg)
 
 Esse componente lista seus produtos com maior receita e os produtos com mais unidades vendidas no período selecionado. Você pode alternar entre as duas opções clicando no título, ou no ícone <i class="fas fa-chevron-down"></i>.
 
@@ -80,16 +80,16 @@ Saiba mais sobre as listas:
 - **Produtos com mais unidades vendidas:** produtos que venderam mais unidades no período selecionado. Indica a quantidade de itens vendidos e uma porcentagem indicando aumento ou diminuição de itens vendidos, comparando entre os períodos selecionados. 
 
 ## Pedidos realizados
-![Store overview Pedidos realizados PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/dashboards/dashboards-no-admin-vtex/visao-geral-da-loja_4.png)
+![Store overview Pedidos realizados PT](//images.ctfassets.net/alneenqid6w5/54DyQfUdOlf3VZdwIUdQjT/7f8f3d3bab538d4c680dcd09511f0984/Pedidos_realizados_PT.png)
 
 Esse gráfico mostra o número de pedidos recebidos pela sua loja no período selecionado. A linha azul mais grossa indica os pedidos feitos no período mais recente. A linha cinza mais fina indica os pedidos feitos no período que está sendo comparado.   Ao passar o cursor, o gráfico mostra o número de pedidos captados para cada data. 
 
 ## Pedidos cancelados
-![Store overview Pedidos cancelados PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/dashboards/dashboards-no-admin-vtex/visao-geral-da-loja_5.png)
+![Store overview Pedidos cancelados PT](//images.ctfassets.net/alneenqid6w5/2RUKzEeb2SvpktBvQJoUQk/3bb0e1ec615af3d38c6b10cdcf3a3370/Pedidos_cancelados_PT.png)
 Esse gráfico mostra o número de pedidos cancelados na sua loja no período selecionado. A linha azul mais grossa indica os pedidos cancelados no período mais recente. A linha cinza mais fina indica os pedidos cancelados no período que está sendo comparado. Ao passar o cursor, o gráfico mostra o número de pedidos cancelados em cada data. 
 
 ## Análise de tendências de pedidos
-![Store overview Order trend PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/dashboards/dashboards-no-admin-vtex/visao-geral-da-loja_6.jpg)
+![Store overview Order trend PT](//images.ctfassets.net/alneenqid6w5/5c3eFasw5spgqeynh4Q9c5/9807c6b956c1b2a34d558046766d1120/Store_overview_Order_trend_PT.jpg)
 
 Esse gráfico mostra o comportamento dos pedidos da sua loja, indicando o número de pedidos feitos pelos compradores no período selecionado.
 
@@ -98,14 +98,14 @@ A linha indica a curva de pedidos para o período selecionado. Ao passar o curso
 A etiqueta acima do gráfico indica se o número de pedidos está `normal`, `baixo` ou `alto` em comparação com o desempenho habitual da sua loja no período selecionado.
 
 ## Taxa de conversão
-![Store overview Conversion rate PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/dashboards/dashboards-no-admin-vtex/visao-geral-da-loja_7.jpg)  
+![Store overview Conversion rate PT](//images.ctfassets.net/alneenqid6w5/1S5WA2yR00R1GuBU0NoKaZ/c974a11d3e708c5d40d0757ebfa95faf/Store_overview_Conversion_rate_PT.jpg)  
 
 Esse gráfico mostra a taxa de conversão da sua loja nos períodos que você deseja comparar. 
 
 A taxa de conversão é calculada dividindo o número total de pedidos pelo número total de sessões na sua loja. A linha azul mais grossa indica a taxa de conversão para o período mais recente. A linha cinza mais fina indica a taxa para o período que está sendo comparado.  Ao passar o cursor, o gráfico mostra a taxa de conversão para cada período comparado. 
 
 ## Funil de vendas
-![Store overview sales funnel PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/dashboards/dashboards-no-admin-vtex/visao-geral-da-loja_8.jpg)
+![Store overview sales funnel PT](//images.ctfassets.net/alneenqid6w5/3jSzBfJ4nQa8iI2f1opyds/c00dbe392b24f5157350d6c037759837/Store_overview_sales_funnel_PT.jpg)
 
 Esse gráfico acompanha e rastreia o volume de sessões nas etapas intermediárias do fluxo de compras e identifica oportunidades para otimizar a taxa de conversão da loja. A tabela abaixo descreve as etapas intermediárias do fluxo de compras.
 
@@ -121,7 +121,7 @@ Esse gráfico acompanha e rastreia o volume de sessões nas etapas intermediári
 Cada barra azul no gráfico representa o volume de sessões que atingiram um determinado estágio do fluxo de compras. Esse volume é representado como um valor absoluto (acima), e como uma porcentagem do número de sessões (abaixo), juntamente com os pontos percentuais (p.p) de aumento ou diminuição no funil de vendas. Ao passar o cursor sobre a porcentagem, você pode ver mais detalhes sobre essa etapa intermediária.
 
 ## Categorias com maior receita
-![Categorias PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/dashboards/dashboards-no-admin-vtex/visao-geral-da-loja_9.png)
+![Categorias PT](//images.ctfassets.net/alneenqid6w5/1jkVQ63kTKC7EWYNpZ2M5i/18f8e56b4d93e7a89ca021153a73eb8e/Categorias_PT.png)
 
 Este gráfico indica as dez categorias da sua loja que geraram mais receita no período selecionado. A barra azul indica a receita gerada na data mais recente, e a barra cinza indica a receita gerada no período comparado. Ao passar o cursor, o gráfico mostra a taxa de conversão para cada período comparado. Ao clicar no título do gráfico é possível mudar a visualização para __Categorias mais vendidas por pedido__.
 

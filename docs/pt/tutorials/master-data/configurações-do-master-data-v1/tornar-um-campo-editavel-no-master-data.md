@@ -23,7 +23,7 @@ Por padrão, nem todos os campos são editáveis no Master Data. Para alterar es
 2. Na aplicação desejada, clique no símbolo de engrenagem <i class="fas fa-cog"></i>.
 3. Clique no ícone de edição  <i class="fas fa-edit"></i>  no formulário que deseja alterar.
 4. Clique na aba **Esquemas de layout**.
-5. No campo desejado, clique no ícone de edição <i class="fas fa-edit"></i>. ![master-data-editar-campo-layout](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/master-data/configura%C3%A7%C3%B5es-do-master-data-v1/tornar-um-campo-editavel-no-master-data_1.png)
+5. No campo desejado, clique no ícone de edição <i class="fas fa-edit"></i>. ![master-data-editar-campo-layout](//images.ctfassets.net/alneenqid6w5/3zHKQ7fVCwqi4CIWqumYC/27db047819bc08ee9d597da18aed6c7f/Group_3.png)
 6. Desmarque a opção **Exibir campos de somente leitura**.
 7. Clique no botão `OK`.
 8. Clique no botão `Salvar`.

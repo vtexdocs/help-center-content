@@ -19,7 +19,7 @@ Configurar promoção com destaque / flag
 
 O destaque de uma promoção é um aviso visual que pode ser inserido nas prateleiras e nas páginas de produtos, informando que o item é elegível para uma promoção. Um exemplo comum é a indicação de frete grátis abaixo da imagem do produto.
 
-![ExemploPromocaoDestaque2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promo%C3%A7%C3%B5es-e-taxas/promo%C3%A7%C3%B5es/configurando-promocao-com-destaque-flag_1.png)
+![ExemploPromocaoDestaque2](//images.contentful.com/alneenqid6w5/jS31HBOW3YWsIYyUOE8o/3d0c108c84b2a7c5e6ae2d4254425e4b/ExemploPromocaoDestaque2.png)
 
 Neste guia, você encontrará as seguintes seções:
 
@@ -91,16 +91,16 @@ Essa configuração consiste em editar o template de página utilizado para o la
 4. Clique em **/ > Produto > @Produto@**.
 5. Clique sobre o layout marcado em com um check vermelho.
 
-    ![template-pagina](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promo%C3%A7%C3%B5es-e-taxas/promo%C3%A7%C3%B5es/configurando-promocao-com-destaque-flag_2.gif)
+    ![template-pagina](//images.ctfassets.net/alneenqid6w5/37poO6Jxhn6Mc1nLeMIbB1/8dd1cf2c0463ebbd8aa86c019964e7c8/template-pagina.gif)
 
 6. No campo __Template__, verifique qual o nome do template utilizado:
 
-    ![template-produto](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promo%C3%A7%C3%B5es-e-taxas/promo%C3%A7%C3%B5es/configurando-promocao-com-destaque-flag_3.png)
+    ![template-produto](//images.ctfassets.net/alneenqid6w5/3GST4wBaoqbW84ryZ7y1Y5/3209503a3e218046d97dd40fbf04a998/template-produto.png)
 
 7.  No menu lateral, clique em **CMS > HTML Templates**.
 8.  Clique no template encontrado em **@Produto@**.
 
-    ![save-template](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promo%C3%A7%C3%B5es-e-taxas/promo%C3%A7%C3%B5es/configurando-promocao-com-destaque-flag_4.gif)
+    ![save-template](//images.ctfassets.net/alneenqid6w5/5n0wxeIf8uVM26GRVkQ5Ty/97802b42dca79f5eb548df76f45f174d/save-template.gif)
 
 9.  Insira o código `<vtex.cmc:discountHightLight/>` de acordo com sua estrutura HTML.
 10.  Clique em **Save Template**.
@@ -110,7 +110,7 @@ Essa configuração consiste em editar o template de página utilizado para o la
 1.  No Admin VTEX, acesse **Storefront > Layout**, ou digite **Layout** na barra de busca no topo da página.
 2.  Clique em **CMS > Shelves Templates**.
 
-    ![shelves-templates](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promo%C3%A7%C3%B5es-e-taxas/promo%C3%A7%C3%B5es/configurando-promocao-com-destaque-flag_5.png)
+    ![shelves-templates](//images.ctfassets.net/alneenqid6w5/9F4rv410hc9HxXowv9EAX/0bc7542b9c7ef4c67f861b114c2b0538/shelves-templates.png)
 
 3.  Clique sobre o template desejado.
 4.  Insira o código `$product.DiscountHightLight`.

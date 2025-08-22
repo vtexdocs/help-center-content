@@ -28,7 +28,7 @@ This article will explain how to associate the Device Fingerprint feature with t
 To enter the scripts that Stelo requires for the fingerprint device, you must use Google Tag Manager. To do this, log into your account at [http://www.google.com/tagmanager](http://www.google.com/tagmanager "http://www.google.com/tagmanager"). Then proceed as follows:
 
 1. In the opening menu in Google Tag Manager, click on **Nova tag**.
-2. Select **Configuração da tag** and then type **HTML personalizado**.![Tela1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/payment-settings/how-to-configure-the-fingerprint-device-for-stelo_1.jpg)
+2. Select **Configuração da tag** and then type **HTML personalizado**.![Tela1](//images.contentful.com/alneenqid6w5/2VjcP3lQ9aqceC82kgaAU8/68bffad6d79e91e7286c780ac16fffc7/Tela1.jpg)
 3. Enter the following script:
 
 ```
@@ -44,13 +44,13 @@ window.vtex.deviceFingerprint = match[1];
 </script>
 ```
 
-1. Click on **Acionamento**, Novo acionador (**+** symbol in the top right corner) and on **Configuração do acionador.**![Tela2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/payment-settings/how-to-configure-the-fingerprint-device-for-stelo_2.jpg)
+1. Click on **Acionamento**, Novo acionador (**+** symbol in the top right corner) and on **Configuração do acionador.**![Tela2](//images.contentful.com/alneenqid6w5/6uwEr6KGJyOCcigIMCcUoS/4142ad24f3121bee1fea9d55069d10a6/Tela2.jpg)
 2. Select **Evento personalizado** and enter the name **payment**.
 2. Select the flag **Alguns eventos personalizados**.
-3. In the first two boxes underneath, select: **Event** and **é igual a**. In the third one, type **payment**.![Tela3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/payment-settings/how-to-configure-the-fingerprint-device-for-stelo_3.jpg)
+3. In the first two boxes underneath, select: **Event** and **é igual a**. In the third one, type **payment**.![Tela3](//images.contentful.com/alneenqid6w5/5sbXgbm4g0yysWKSwmYWI0/e7d605639093f30aff58bff0efef2ae4/Tela3.jpg)
 4. Save the trigger and the tag.
 5. In the side menu, click on **Variáveis** and then **Nova**.
-6. Click on **Configuração da variável** and select **JavaScript personalizado**.![Tela4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/payment-settings/how-to-configure-the-fingerprint-device-for-stelo_4.jpg)
+6. Click on **Configuração da variável** and select **JavaScript personalizado**.![Tela4](//images.contentful.com/alneenqid6w5/3I7Eq6Jt2wkYg6EoKAkCqC/91cca1c81534bbbc76e70db8f94be13a/Tela4.jpg)
 
 Enter the following script:
 

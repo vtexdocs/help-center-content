@@ -23,7 +23,7 @@ Por meio da tela de gerenciamento de provedores você pode:
 - [Visualizar provedores cadastrados](#visualizar-provedores-cadastrados)
 - [Editar configurações de provedores](#editar-configuracoes-de-provedores)
 
-![interface_provedor_PT_1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/configura%C3%A7%C3%B5es-de-pagamentos/afiliacoes-de-gateway_1.JPG)
+![interface_provedor_PT_1](//images.ctfassets.net/alneenqid6w5/6721j5gbs4JkxAFJ9QPQve/d997ea6d0bf7807c1219d307933467e6/interface_provedor_PT_1.JPG)
 
 ## Cadastrar provedor
 
@@ -44,7 +44,7 @@ Para configurar os métodos de pagamento a serem processados pelo provedor de pa
 
 Para definir condições especiais sobre os métodos de pagamento, acesse [Configurar condições especiais de Pagamento](https://help.vtex.com/pt/tutorial/condiciones-especiales--tutorials_456?&utm_source=autocomplete).
 
-![interface_provedor_PT_2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/configura%C3%A7%C3%B5es-de-pagamentos/afiliacoes-de-gateway_2.JPG)
+![interface_provedor_PT_2](//images.ctfassets.net/alneenqid6w5/2uzCrSICV4zlbieq13Vky0/03ec92c0a18fd9cc8b368fd27a4eeee2/artigo_interface_provedor_PT_2.JPG)
 
 ## Visualizar provedores cadastrados
 
@@ -54,7 +54,7 @@ A tela principal de gerenciamento de provedores, disponível no Admin VTEX em __
 
 Para localizar provedores pelo nome, acesse a página de gerenciamento de provedores e digite o nome do provedor desejado.
 
-![interface_provedor_PT_3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/configura%C3%A7%C3%B5es-de-pagamentos/afiliacoes-de-gateway_3.JPG)
+![interface_provedor_PT_3](//images.ctfassets.net/alneenqid6w5/1AVxMc8gzpBLTaoOM3DqJt/b7489e1bd5b8f23cf1c41190266c7178/interface_provedor_PT_3.JPG)
 
 ### Filtrar provedores
 
@@ -62,15 +62,15 @@ Para selecionar a exibição de provedores por meio de filtros, acesse a página
 
 - __Nome__: selecione a exibição de provedores de pagamento por meio do nome, ativando a caixa de texto ou digitando na barra de busca do menu.
 
-![interface_provedor_PT_4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/configura%C3%A7%C3%B5es-de-pagamentos/afiliacoes-de-gateway_4.JPG)
+![interface_provedor_PT_4](//images.ctfassets.net/alneenqid6w5/3HWuAtg2Ei867PMhqqXTpZ/b994729bad2abcc7fff53dbae2c45788/interface_provedor_PT_4.JPG)
 
 - __Tipo__: selecione a exibição de provedores de pagamento, antifraude ou ambos.
 
-![interface_provedor_PT_5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/configura%C3%A7%C3%B5es-de-pagamentos/afiliacoes-de-gateway_5.JPG)
+![interface_provedor_PT_5](//images.ctfassets.net/alneenqid6w5/34wou6AALCHGCAMSufWpxZ/52542c9cbf58ab10d6527e5b5c8efd17/interface_provedor_PT_5.JPG)
 
 - __Ambiente__: selecione a exibição de provedores pelo tipo de ambiente de operação cadastrado (produção ou teste).
 
-![interface_provedor_PT_6](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/configura%C3%A7%C3%B5es-de-pagamentos/afiliacoes-de-gateway_6.JPG)
+![interface_provedor_PT_6](//images.ctfassets.net/alneenqid6w5/36BloW94uLYLN7qGFO1HeP/fe3d094d3ce7e5463841694309b28a52/interface_provedor_PT_6.JPG)
 
 > ❗ Para remover os filtros aplicados e voltar a visualizar todos os provedores cadastrados na loja, clique no botão `Limpar todos`.
 
@@ -83,7 +83,7 @@ Para editar configurações de provedores de pagamento ou antifraude já cadastr
 3. Na tela de configuração do provedor, clique em `Editar`.
 4. Realize as modificações necessárias e clique em `Salvar`.
 
-![interface_provedor_PT_7](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/configura%C3%A7%C3%B5es-de-pagamentos/afiliacoes-de-gateway_7.JPG)
+![interface_provedor_PT_7](//images.ctfassets.net/alneenqid6w5/49bqIpjzfjB6VGrjwMiYEK/1852b341c59e2ac6419504214fcfdee0/artigo_interface_provedor_PT_7.JPG)
 
 > ❗ Antes de realizar qualquer alteração na configuração de um provedor, como por exemplo: dados de autorização, modo de processamento ou tipo de reembolso, certifique-se de que as novas informações a serem inseridas não irão prejudicar o seu desempenho operacional na loja.
 
