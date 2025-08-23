@@ -29,19 +29,6 @@ jobs:
         with:
           node-version: 20
 
-      - name: Network diagnostics
-        run: |
-          echo "=== Network Diagnostics ==="
-          echo "Hostname resolution:"
-          nslookup github.com || true
-          echo "Ping test:"
-          ping -c 2 github.com || true
-          echo "Curl test:"
-          curl -I https://github.com || true
-          echo "Git version:"
-          git --version
-          echo "==========================="
-
       - name: Generate navigation directly into public/
         working-directory: ${{ github.workspace }}
         env:
