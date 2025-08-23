@@ -64,11 +64,9 @@ jobs:
             git clone --depth 1 https://github.com/vtexdocs/vtexhelp-nav-cli.git 2>&1 | tee -a "$LOG"
             CLONE_STATUS=${PIPESTATUS[0]}
             if [ $CLONE_STATUS -ne 0 ]; then
-              echo "HTTPS clone failed, trying with explicit git config..." | tee -a "$LOG"
-              git config --global http.sslverify false
-              git clone --depth 1 https://github.com/vtexdocs/vtexhelp-nav-cli.git 2>&1 | tee -a "$LOG"
+              echo "HTTPS clone failed, trying with per-command SSL verification disabled..." | tee -a "$LOG"
+              git -c http.sslverify=false clone --depth 1 https://github.com/vtexdocs/vtexhelp-nav-cli.git 2>&1 | tee -a "$LOG"
               CLONE_STATUS=${PIPESTATUS[0]}
-              git config --global --unset http.sslverify || true
             fi
             if [ $CLONE_STATUS -ne 0 ]; then
               echo "Still failing, trying curl + unzip approach..." | tee -a "$LOG"
