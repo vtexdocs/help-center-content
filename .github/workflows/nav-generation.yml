@@ -87,8 +87,8 @@ jobs:
                 set -e
                 cd vtexhelp-nav-cli
                 if [ -f yarn.lock ]; then
-                  corepack enable || true
-                  corepack prepare yarn@stable --activate || true
+                  if command -v corepack >/dev/null 2>&1; then corepack enable; else echo "corepack not found, skipping enable"; fi
+                  if command -v corepack >/dev/null 2>&1; then corepack prepare yarn@stable --activate; else echo "corepack not found, skipping prepare"; fi
                   yarn install --frozen-lockfile || yarn install
                   yarn add axios dotenv
                   yarn build
