@@ -194,12 +194,22 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           set -e
-          if git diff --quiet --exit-code public/navigation.json; then
-            echo "No changes to commit"
+          if [ ! -f public/navigation.json ]; then
+            echo "No navigation.json file generated - nothing to commit"
             exit 0
           fi
+          
+          # Add the file first so git can track it for diff
+          git add public/navigation.json
+          
+          # Check if there are any changes to commit (handles both new and modified files)
+          if git diff --quiet --exit-code --cached public/navigation.json; then
+            echo "No changes to navigation.json - nothing to commit"
+            git reset public/navigation.json  # unstage if no changes
+            exit 0
+          fi
+          
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add public/navigation.json
           git commit -m "chore(nav): update navigation.json via vtexhelp-nav-cli"
           git push
