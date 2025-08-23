@@ -1,0 +1,163 @@
+name: Generate navigation on PR
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: nav-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build-nav:
+    name: Build navigation
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Inspect runner credentials (gh)
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -e
+          echo "GITHUB_TOKEN present: $([ -n "$GITHUB_TOKEN" ] && echo yes || echo no)"
+          echo "GH_TOKEN present: $([ -n "$GH_TOKEN" ] && echo yes || echo no)"
+          if command -v gh >/dev/null 2>&1; then
+            gh --version
+            gh auth status -h github.com || true
+            echo "Authenticated login:"
+            gh api /user --jq '.login' || true
+            echo "Repo viewerPermission:"
+            gh api graphql -f query='
+              query($owner:String!, $name:String!) {
+                repository(owner:$owner, name:$name) {
+                  nameWithOwner
+                  isPrivate
+                  viewerPermission
+                }
+                viewer { login }
+              }' -F owner='${{ github.repository_owner }}' -F name='${{ github.event.repository.name }}' || true
+          else
+            echo "gh CLI not found on runner. On GitHub-hosted runners, gh is preinstalled and will use GH_TOKEN automatically."
+          fi
+
+      - name: Generate navigation directly into public/
+        working-directory: ${{ github.workspace }}
+        env:
+          REQUEST_TIMEOUT: "60000"
+        run: |
+          set -e
+          mkdir -p public
+          LOG=".navgen.log"
+          : > "$LOG"
+          EXTRA_ARGS=""
+          if [ "${ACT}" = "true" ]; then
+            # Speed up local runs under act to avoid long scans/logs
+            EXTRA_ARGS="--languages en --sections announcements"
+          fi
+          echo "Running generator with npx (ssh first, then https fallback). Extra args: ${EXTRA_ARGS}"
+          # Capture output for summary; don't let the pipe hide failures
+          set +e
+          npx --yes --package="git+ssh://git@github.com/vtexdocs/vtexhelp-nav-cli.git#main" --package=axios --package=dotenv \
+            vtex-nav gen --content-dir . --output public/navigation.json ${EXTRA_ARGS} 2>&1 | tee -a "$LOG"
+          GEN_STATUS=${PIPESTATUS[0]}
+          if [ $GEN_STATUS -ne 0 ]; then
+            echo "npx via SSH failed (exit $GEN_STATUS). Retrying via HTTPS..." | tee -a "$LOG"
+            npx --yes --package="git+https://github.com/vtexdocs/vtexhelp-nav-cli.git#main" --package=axios --package=dotenv \
+              vtex-nav gen --content-dir . --output public/navigation.json ${EXTRA_ARGS} 2>&1 | tee -a "$LOG"
+            GEN_STATUS=${PIPESTATUS[0]}
+          fi
+          set -e
+          echo "Generator exit code: $GEN_STATUS" >> "$LOG"
+          if [ $GEN_STATUS -ne 0 ]; then
+            echo "Generator exited with code $GEN_STATUS"
+          fi
+
+      - name: Upload generated navigation as artifact
+        id: upload_nav
+        uses: actions/upload-artifact@v4
+        with:
+          name: navigation-json
+          path: public/navigation.json
+          compression-level: 0
+          if-no-files-found: error
+
+      - name: Summarize navigation (job summary)
+        if: ${{ always() }}
+        env:
+          ARTIFACT_URL: ${{ steps.upload_nav.outputs.artifact-url }}
+        run: |
+          set -e
+          FILE="public/navigation.json"
+          LOG=".navgen.log"
+          if [ -f "$FILE" ]; then
+            BYTES=$(stat -c%s "$FILE" 2>/dev/null || wc -c < "$FILE")
+            HUMAN=$(numfmt --to=iec "$BYTES" 2>/dev/null || echo "${BYTES} bytes")
+            SHA256=$(sha256sum "$FILE" | awk '{print $1}')
+          else
+            BYTES=0
+            HUMAN="0 bytes"
+            SHA256="N/A"
+          fi
+          FILES_PROCESSED=$(grep -E 'Files processed:' "$LOG" 2>/dev/null | tail -n1 | sed -E 's/.*Files processed:[[:space:]]*([0-9]+).*/\1/' || true)
+          CATEGORIES=$(grep -E 'Categories:' "$LOG" 2>/dev/null | tail -n1 | sed -E 's/.*Categories:[[:space:]]*([0-9]+).*/\1/' || true)
+          DOCUMENTS=$(grep -E 'Documents:' "$LOG" 2>/dev/null | tail -n1 | sed -E 's/.*Documents:[[:space:]]*([0-9]+).*/\1/' || true)
+          VALIDATION=$(grep -E 'Validation:' "$LOG" 2>/dev/null | tail -n1 | sed -E 's/.*Validation:[[:space:]]*([A-Za-z]+).*/\1/' || true)
+          WARNINGS=$(grep -E 'Warnings:' "$LOG" 2>/dev/null | tail -n1 | sed -E 's/.*Warnings:[[:space:]]*([0-9]+).*/\1/' || true)
+          LANG_COVERAGE=$(awk '/Language Coverage:/,/^$/' "$LOG" 2>/dev/null | sed 's/^/  /' || true)
+
+          {
+            echo "## Navigation generation report"
+            echo ""
+            echo "- Output file: $FILE"
+            echo "- Size: $BYTES bytes ($HUMAN)"
+            echo "- SHA256: \`$SHA256\`"
+            if [ -n "$ARTIFACT_URL" ]; then
+              echo "- Artifact: $ARTIFACT_URL"
+            fi
+            echo ""
+            if [ -n "$FILES_PROCESSED$CATEGORIES$DOCUMENTS$VALIDATION$WARNINGS" ]; then
+              echo "### Stats"
+              [ -n "$FILES_PROCESSED" ] && echo "- Files processed: $FILES_PROCESSED"
+              [ -n "$CATEGORIES" ] && echo "- Categories: $CATEGORIES"
+              [ -n "$DOCUMENTS" ] && echo "- Documents: $DOCUMENTS"
+              [ -n "$VALIDATION" ] && echo "- Validation: $VALIDATION"
+              [ -n "$WARNINGS" ] && echo "- Warnings: $WARNINGS"
+              echo ""
+            fi
+            if [ -n "$LANG_COVERAGE" ]; then
+              echo "### Language coverage"
+              echo "$LANG_COVERAGE"
+              echo ""
+            fi
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Commit changes back to PR branch (if any)
+        # Skip when running under act locally
+        if: ${{ github.event_name == 'pull_request' && env.ACT != 'true' }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -e
+          if git diff --quiet --exit-code public/navigation.json; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/navigation.json
+          git commit -m "chore(nav): update navigation.json via vtexhelp-nav-cli"
+          git push
