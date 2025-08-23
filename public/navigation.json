@@ -17,8 +17,8 @@
           },
           "slug": {
             "en": "2017",
-            "es": "",
-            "pt": ""
+            "es": "2017",
+            "pt": "2017"
           },
           "origin": "",
           "type": "category",
@@ -288,8 +288,8 @@
           },
           "slug": {
             "en": "2018",
-            "es": "",
-            "pt": ""
+            "es": "2018",
+            "pt": "2018"
           },
           "origin": "",
           "type": "category",
@@ -1039,8 +1039,8 @@
           },
           "slug": {
             "en": "2019",
-            "es": "",
-            "pt": ""
+            "es": "2019",
+            "pt": "2019"
           },
           "origin": "",
           "type": "category",
@@ -1325,8 +1325,8 @@
           },
           "slug": {
             "en": "2020",
-            "es": "",
-            "pt": ""
+            "es": "2020",
+            "pt": "2020"
           },
           "origin": "",
           "type": "category",
@@ -1821,8 +1821,8 @@
           },
           "slug": {
             "en": "2021",
-            "es": "",
-            "pt": ""
+            "es": "2021",
+            "pt": "2021"
           },
           "origin": "",
           "type": "category",
@@ -2677,8 +2677,8 @@
           },
           "slug": {
             "en": "2022",
-            "es": "",
-            "pt": ""
+            "es": "2022",
+            "pt": "2022"
           },
           "origin": "",
           "type": "category",
@@ -3173,8 +3173,8 @@
           },
           "slug": {
             "en": "2023",
-            "es": "",
-            "pt": ""
+            "es": "2023",
+            "pt": "2023"
           },
           "origin": "",
           "type": "category",
@@ -3909,8 +3909,8 @@
           },
           "slug": {
             "en": "2024",
-            "es": "",
-            "pt": ""
+            "es": "2024",
+            "pt": "2024"
           },
           "origin": "",
           "type": "category",
@@ -4570,8 +4570,8 @@
           },
           "slug": {
             "en": "2025",
-            "es": "",
-            "pt": ""
+            "es": "2025",
+            "pt": "2025"
           },
           "origin": "",
           "type": "category",
@@ -4957,8 +4957,8 @@
           },
           "slug": {
             "en": "billing",
-            "es": "",
-            "pt": ""
+            "es": "billing",
+            "pt": "billing"
           },
           "origin": "",
           "type": "category",
@@ -4988,8 +4988,8 @@
           },
           "slug": {
             "en": "channels",
-            "es": "",
-            "pt": ""
+            "es": "channels",
+            "pt": "channels"
           },
           "origin": "",
           "type": "category",
@@ -5319,8 +5319,8 @@
           },
           "slug": {
             "en": "financial",
-            "es": "",
-            "pt": ""
+            "es": "financial",
+            "pt": "financial"
           },
           "origin": "",
           "type": "category",
@@ -5515,8 +5515,8 @@
           },
           "slug": {
             "en": "identity",
-            "es": "",
-            "pt": ""
+            "es": "identity",
+            "pt": "identity"
           },
           "origin": "",
           "type": "category",
@@ -5591,8 +5591,8 @@
           },
           "slug": {
             "en": "marketing-merchandising",
-            "es": "",
-            "pt": ""
+            "es": "marketing-merchandising",
+            "pt": "marketing-merchandising"
           },
           "origin": "",
           "type": "category",
@@ -5982,8 +5982,8 @@
           },
           "slug": {
             "en": "others",
-            "es": "",
-            "pt": ""
+            "es": "others",
+            "pt": "others"
           },
           "origin": "",
           "type": "category",
@@ -6088,8 +6088,8 @@
           },
           "slug": {
             "en": "post-purchase",
-            "es": "",
-            "pt": ""
+            "es": "post-purchase",
+            "pt": "post-purchase"
           },
           "origin": "",
           "type": "category",
@@ -6554,8 +6554,8 @@
           },
           "slug": {
             "en": "reliability",
-            "es": "",
-            "pt": ""
+            "es": "reliability",
+            "pt": "reliability"
           },
           "origin": "",
           "type": "category",
@@ -6585,8 +6585,8 @@
           },
           "slug": {
             "en": "shopping",
-            "es": "",
-            "pt": ""
+            "es": "shopping",
+            "pt": "shopping"
           },
           "origin": "",
           "type": "category",
@@ -6837,8 +6837,8 @@
           },
           "slug": {
             "en": "accounts-and-permissions",
-            "es": "",
-            "pt": ""
+            "es": "contas-e-permissoes",
+            "pt": "contas-e-permissoes"
           },
           "origin": "",
           "type": "category",
@@ -6988,8 +6988,8 @@
           },
           "slug": {
             "en": "adaptador-vtex",
-            "es": "",
-            "pt": ""
+            "es": "adaptador-vtex",
+            "pt": "adaptador-vtex"
           },
           "origin": "",
           "type": "category",
@@ -7079,8 +7079,8 @@
           },
           "slug": {
             "en": "amazon-integration",
-            "es": "",
-            "pt": ""
+            "es": "configurar-la-integracion-de-amazon-category",
+            "pt": "configurar-integracao-com-a-amazon"
           },
           "origin": "",
           "type": "category",
@@ -7200,8 +7200,8 @@
           },
           "slug": {
             "en": "b2w-integration-set-up",
-            "es": "",
-            "pt": ""
+            "es": "configurar-integracion-b2w",
+            "pt": "configurar-integracao-da-b2w"
           },
           "origin": "",
           "type": "category",
@@ -7321,8 +7321,8 @@
           },
           "slug": {
             "en": "carrefour-integration-set-up",
-            "es": "",
-            "pt": ""
+            "es": "configurar-integracion-carrefour",
+            "pt": "configurar-integracao-com-o-carrefour"
           },
           "origin": "",
           "type": "category",
@@ -7442,8 +7442,8 @@
           },
           "slug": {
             "en": "casas-bahia-marketplace-integration",
-            "es": "",
-            "pt": ""
+            "es": "integracion-de-casas-bahia-marketplace",
+            "pt": "integracao-com-a-casas-bahia-marketplace"
           },
           "origin": "",
           "type": "category",
@@ -7578,8 +7578,8 @@
           },
           "slug": {
             "en": "catalog-101",
-            "es": "",
-            "pt": ""
+            "es": "catalogo-101",
+            "pt": "catalogo-101"
           },
           "origin": "",
           "type": "category",
@@ -7789,8 +7789,8 @@
           },
           "slug": {
             "en": "centauro-integration",
-            "es": "",
-            "pt": ""
+            "es": "integracion-con-centauro",
+            "pt": "cadastro-da-integracao-da-centauro-category"
           },
           "origin": "",
           "type": "category",
@@ -7880,8 +7880,8 @@
           },
           "slug": {
             "en": "clustered-payment-conditions",
-            "es": "",
-            "pt": ""
+            "es": "condiciones-de-pago-clusterizadas",
+            "pt": "condicoes-de-pagamento-clusterizadas"
           },
           "origin": "",
           "type": "category",
@@ -7971,8 +7971,8 @@
           },
           "slug": {
             "en": "cms",
-            "es": "",
-            "pt": ""
+            "es": "cms",
+            "pt": "cms"
           },
           "origin": "",
           "type": "category",
@@ -8062,8 +8062,8 @@
           },
           "slug": {
             "en": "creating-franchise-accounts-category",
-            "es": "",
-            "pt": ""
+            "es": "crear-cuentas-franquicia-category",
+            "pt": "cadastrar-o-codigo-de-barras-dos-skus-para-instore-category"
           },
           "origin": "",
           "type": "category",
@@ -8198,8 +8198,8 @@
           },
           "slug": {
             "en": "customer-credit-getting-started",
-            "es": "",
-            "pt": ""
+            "es": "customer-credit-como-empezar",
+            "pt": "customer-credit-como-comecar"
           },
           "origin": "",
           "type": "category",
@@ -8289,8 +8289,8 @@
           },
           "slug": {
             "en": "dafiti-integration-setup",
-            "es": "",
-            "pt": ""
+            "es": "configurar-la-integracion-de-dafiti",
+            "pt": "configurar-integracao-da-dafiti"
           },
           "origin": "",
           "type": "category",
@@ -8395,8 +8395,8 @@
           },
           "slug": {
             "en": "data-and-privacy",
-            "es": "",
-            "pt": ""
+            "es": "datos-y-privacidad",
+            "pt": "dados-e-privacidade"
           },
           "origin": "",
           "type": "category",
@@ -8471,8 +8471,8 @@
           },
           "slug": {
             "en": "digital-wallet-e-wallet-category",
-            "es": "",
-            "pt": ""
+            "es": "cartera-digital-e-wallet-category",
+            "pt": "carteira-digital-e-wallet-category"
           },
           "origin": "",
           "type": "category",
@@ -8532,8 +8532,8 @@
           },
           "slug": {
             "en": "extensions-hub",
-            "es": "",
-            "pt": ""
+            "es": "hub-de-extensiones",
+            "pt": "hub-de-extensoes"
           },
           "origin": "",
           "type": "category",
@@ -8593,8 +8593,8 @@
           },
           "slug": {
             "en": "facebook-integration",
-            "es": "",
-            "pt": ""
+            "es": "integracion-de-facebook",
+            "pt": "integracao-com-o-facebook"
           },
           "origin": "",
           "type": "category",
@@ -8684,8 +8684,8 @@
           },
           "slug": {
             "en": "go-live-category",
-            "es": "",
-            "pt": ""
+            "es": "go-live-category",
+            "pt": "go-live-category"
           },
           "origin": "",
           "type": "category",
@@ -8760,8 +8760,8 @@
           },
           "slug": {
             "en": "how-to-campaign-through-google-ads",
-            "es": "",
-            "pt": ""
+            "es": "como-hacer-campanas-a-traves-de-google-ads",
+            "pt": "como-fazer-campanhas-atraves-do-google-ads"
           },
           "origin": "",
           "type": "category",
@@ -8821,8 +8821,8 @@
           },
           "slug": {
             "en": "instore-payments",
-            "es": "",
-            "pt": ""
+            "es": "instore-pagos",
+            "pt": "instore-pagamentos"
           },
           "origin": "",
           "type": "category",
@@ -8927,8 +8927,8 @@
           },
           "slug": {
             "en": "instore-product-overview",
-            "es": "",
-            "pt": ""
+            "es": "instore-descripci-n-del-producto",
+            "pt": "instore-usando-o-app-category"
           },
           "origin": "",
           "type": "category",
@@ -9213,8 +9213,8 @@
           },
           "slug": {
             "en": "integrating-with-google-shopping",
-            "es": "",
-            "pt": ""
+            "es": "integracion-con-google-shopping",
+            "pt": "configurar-integracao-com-o-google-shopping"
           },
           "origin": "",
           "type": "category",
@@ -9349,8 +9349,8 @@
           },
           "slug": {
             "en": "integration-with-facebook-business-extension",
-            "es": "",
-            "pt": ""
+            "es": "integracion-con-facebook-business-extension",
+            "pt": "integracao-com-o-facebook-business-extension"
           },
           "origin": "",
           "type": "category",
@@ -9440,8 +9440,8 @@
           },
           "slug": {
             "en": "lengow-integration",
-            "es": "",
-            "pt": ""
+            "es": "integracion-de-lengow",
+            "pt": "integracao-com-a-lengow"
           },
           "origin": "",
           "type": "category",
@@ -9501,8 +9501,8 @@
           },
           "slug": {
             "en": "livelo-integration",
-            "es": "",
-            "pt": ""
+            "es": "integracion-de-livelo",
+            "pt": "integracao-livelo"
           },
           "origin": "",
           "type": "category",
@@ -9592,8 +9592,8 @@
           },
           "slug": {
             "en": "logistics-101",
-            "es": "",
-            "pt": ""
+            "es": "logistica-101",
+            "pt": "logistica-101"
           },
           "origin": "",
           "type": "category",
@@ -9683,8 +9683,8 @@
           },
           "slug": {
             "en": "magazine-luiza-integration-set-up",
-            "es": "",
-            "pt": ""
+            "es": "configurar-integracion-netshoes",
+            "pt": "configurar-integracao-com-o-magazine-luiza"
           },
           "origin": "",
           "type": "category",
@@ -9834,8 +9834,8 @@
           },
           "slug": {
             "en": "mercado-libre-integration-set-up",
-            "es": "",
-            "pt": ""
+            "es": "configurar-integracion-con-mercado-libre",
+            "pt": "configurar-integracao-do-mercado-livre"
           },
           "origin": "",
           "type": "category",
@@ -10000,8 +10000,8 @@
           },
           "slug": {
             "en": "netshoes-integration-set-up",
-            "es": "",
-            "pt": ""
+            "es": "configurar-integracion-netshoes",
+            "pt": "configurar-integracao-da-netshoes"
           },
           "origin": "",
           "type": "category",
@@ -10121,8 +10121,8 @@
           },
           "slug": {
             "en": "next-steps-after-the-go-live",
-            "es": "",
-            "pt": ""
+            "es": "proximos-pasos-tras-el-go-live",
+            "pt": "proximos-passos-apos-o-go-live"
           },
           "origin": "",
           "type": "category",
@@ -10197,8 +10197,8 @@
           },
           "slug": {
             "en": "orders",
-            "es": "",
-            "pt": ""
+            "es": "pedidos",
+            "pt": "pedidos"
           },
           "origin": "",
           "type": "category",
@@ -10363,8 +10363,8 @@
           },
           "slug": {
             "en": "payments",
-            "es": "",
-            "pt": ""
+            "es": "pagos",
+            "pt": "pagamentos"
           },
           "origin": "",
           "type": "category",
@@ -10484,8 +10484,8 @@
           },
           "slug": {
             "en": "posthaus-integration",
-            "es": "",
-            "pt": ""
+            "es": "integracion-posthaus",
+            "pt": "integracao-posthaus"
           },
           "origin": "",
           "type": "category",
@@ -10575,8 +10575,8 @@
           },
           "slug": {
             "en": "prices-101",
-            "es": "",
-            "pt": ""
+            "es": "precios-101",
+            "pt": "precos-101"
           },
           "origin": "",
           "type": "category",
@@ -10801,8 +10801,8 @@
           },
           "slug": {
             "en": "promotions",
-            "es": "",
-            "pt": ""
+            "es": "promociones",
+            "pt": "promocoes"
           },
           "origin": "",
           "type": "category",
@@ -10877,8 +10877,8 @@
           },
           "slug": {
             "en": "rappi-integration",
-            "es": "",
-            "pt": ""
+            "es": "integracion-de-rappi",
+            "pt": "integracao-rappi"
           },
           "origin": "",
           "type": "category",
@@ -10968,8 +10968,8 @@
           },
           "slug": {
             "en": "shopee-integration",
-            "es": "",
-            "pt": ""
+            "es": "integracion-con-shopee",
+            "pt": "integracao-shopee"
           },
           "origin": "",
           "type": "category",
@@ -11059,8 +11059,8 @@
           },
           "slug": {
             "en": "store-development-category",
-            "es": "",
-            "pt": ""
+            "es": "desarrollo-de-la-tienda-category",
+            "pt": "desenvolvimento-de-loja-category"
           },
           "origin": "",
           "type": "category",
@@ -11150,8 +11150,8 @@
           },
           "slug": {
             "en": "suiteshare",
-            "es": "",
-            "pt": ""
+            "es": "suiteshare",
+            "pt": "suiteshare"
           },
           "origin": "",
           "type": "category",
@@ -11256,8 +11256,8 @@
           },
           "slug": {
             "en": "support-at-vtex",
-            "es": "",
-            "pt": ""
+            "es": "soporte-en-vtex",
+            "pt": "suporte-na-vtex-category"
           },
           "origin": "",
           "type": "category",
@@ -11377,8 +11377,8 @@
           },
           "slug": {
             "en": "tiktok-integration",
-            "es": "",
-            "pt": ""
+            "es": "integracion-de-tiktok",
+            "pt": "integracao-com-o-tiktok"
           },
           "origin": "",
           "type": "category",
@@ -11468,8 +11468,8 @@
           },
           "slug": {
             "en": "transactional-emails",
-            "es": "",
-            "pt": ""
+            "es": "e-mails-transaccionales",
+            "pt": "e-mails-transacionais"
           },
           "origin": "",
           "type": "category",
@@ -11544,8 +11544,8 @@
           },
           "slug": {
             "en": "unified-commerce-strategies",
-            "es": "",
-            "pt": ""
+            "es": "estrategias-de-comercio-unificado",
+            "pt": "estrategias-de-comercio-unificado"
           },
           "origin": "",
           "type": "category",
@@ -11635,8 +11635,8 @@
           },
           "slug": {
             "en": "vtex-ads",
-            "es": "",
-            "pt": ""
+            "es": "vtex-ads",
+            "pt": "vtex-ads"
           },
           "origin": "",
           "type": "category",
@@ -11726,8 +11726,8 @@
           },
           "slug": {
             "en": "vtex-intelligent-search",
-            "es": "",
-            "pt": ""
+            "es": "vtex-intelligent-search",
+            "pt": "vtex-intelligent-search"
           },
           "origin": "",
           "type": "category",
@@ -11817,8 +11817,8 @@
           },
           "slug": {
             "en": "vtex-live-shopping-getting-started",
-            "es": "",
-            "pt": ""
+            "es": "vtex-live-shopping-primeros-pasos",
+            "pt": "vtex-live-shopping-primeiros-passos"
           },
           "origin": "",
           "type": "category",
@@ -12013,8 +12013,8 @@
           },
           "slug": {
             "en": "vtex-store-overview",
-            "es": "",
-            "pt": ""
+            "es": "serie-de-la-tienda-vtex",
+            "pt": "trilha-da-loja-vtex"
           },
           "origin": "",
           "type": "category",
@@ -12119,8 +12119,8 @@
           },
           "slug": {
             "en": "wish-integration",
-            "es": "",
-            "pt": ""
+            "es": "integracion-con-wish",
+            "pt": "integracao-com-a-wish"
           },
           "origin": "",
           "type": "category",
@@ -12206,8 +12206,8 @@
           },
           "slug": {
             "en": "integrations",
-            "es": "",
-            "pt": ""
+            "es": "integraciones",
+            "pt": "integra-es"
           },
           "origin": "",
           "type": "category",
@@ -12297,8 +12297,8 @@
           },
           "slug": {
             "en": "store-operations",
-            "es": "",
-            "pt": ""
+            "es": "operaciones-de-la-tienda",
+            "pt": "opera-es-da-loja"
           },
           "origin": "",
           "type": "category",
@@ -12673,8 +12673,8 @@
           },
           "slug": {
             "en": "operaciones-de-la-tienda",
-            "es": "",
-            "pt": ""
+            "es": "operaciones-de-la-tienda",
+            "pt": "operaciones-de-la-tienda"
           },
           "origin": "",
           "type": "category",
@@ -12745,8 +12745,8 @@
           },
           "slug": {
             "en": "b2b",
-            "es": "",
-            "pt": ""
+            "es": "b2b",
+            "pt": "b2b"
           },
           "origin": "",
           "type": "category",
@@ -12759,8 +12759,8 @@
               },
               "slug": {
                 "en": "overview",
-                "es": "",
-                "pt": ""
+                "es": "overview",
+                "pt": "overview"
               },
               "origin": "",
               "type": "category",
@@ -12805,8 +12805,8 @@
               },
               "slug": {
                 "en": "b2b-checkout-settings-category",
-                "es": "",
-                "pt": ""
+                "es": "b2b-checkout-settings",
+                "pt": "b2b-checkout-settings"
               },
               "origin": "",
               "type": "category",
@@ -12836,8 +12836,8 @@
               },
               "slug": {
                 "en": "b2b-orders-history",
-                "es": "",
-                "pt": ""
+                "es": "b2b-orders-history",
+                "pt": "b2b-orders-history"
               },
               "origin": "",
               "type": "category",
@@ -12867,8 +12867,8 @@
               },
               "slug": {
                 "en": "b2b-organizations",
-                "es": "",
-                "pt": ""
+                "es": "b2b-organizations",
+                "pt": "b2b-organizations"
               },
               "origin": "",
               "type": "category",
@@ -12943,8 +12943,8 @@
               },
               "slug": {
                 "en": "b2b-quotes",
-                "es": "",
-                "pt": ""
+                "es": "b2b-quotes",
+                "pt": "b2b-quotes"
               },
               "origin": "",
               "type": "category",
@@ -12974,8 +12974,8 @@
               },
               "slug": {
                 "en": "organization-details",
-                "es": "",
-                "pt": ""
+                "es": "organization-details",
+                "pt": "organization-details"
               },
               "origin": "",
               "type": "category",
@@ -13125,8 +13125,8 @@
               },
               "slug": {
                 "en": "practical-guides",
-                "es": "",
-                "pt": ""
+                "es": "practical-guides",
+                "pt": "practical-guides"
               },
               "origin": "",
               "type": "category",
@@ -13171,8 +13171,8 @@
               },
               "slug": {
                 "en": "storefront-permissions",
-                "es": "",
-                "pt": ""
+                "es": "storefront-permissions",
+                "pt": "storefront-permissions"
               },
               "origin": "",
               "type": "category",
@@ -13204,8 +13204,8 @@
           },
           "slug": {
             "en": "billing",
-            "es": "",
-            "pt": ""
+            "es": "billing",
+            "pt": "billing"
           },
           "origin": "",
           "type": "category",
@@ -13218,8 +13218,8 @@
               },
               "slug": {
                 "en": "contracts",
-                "es": "",
-                "pt": ""
+                "es": "contracts",
+                "pt": "contracts"
               },
               "origin": "",
               "type": "category",
@@ -13339,8 +13339,8 @@
               },
               "slug": {
                 "en": "invoices",
-                "es": "",
-                "pt": ""
+                "es": "invoices",
+                "pt": "invoices"
               },
               "origin": "",
               "type": "category",
@@ -13460,8 +13460,8 @@
               },
               "slug": {
                 "en": "registration-data",
-                "es": "",
-                "pt": ""
+                "es": "registration-data",
+                "pt": "registration-data"
               },
               "origin": "",
               "type": "category",
@@ -13493,8 +13493,8 @@
           },
           "slug": {
             "en": "catalog",
-            "es": "",
-            "pt": ""
+            "es": "catalog",
+            "pt": "catalog"
           },
           "origin": "",
           "type": "category",
@@ -13507,8 +13507,8 @@
               },
               "slug": {
                 "en": "brands",
-                "es": "",
-                "pt": ""
+                "es": "brands",
+                "pt": "brands"
               },
               "origin": "",
               "type": "category",
@@ -13568,8 +13568,8 @@
               },
               "slug": {
                 "en": "categories",
-                "es": "",
-                "pt": ""
+                "es": "categories",
+                "pt": "categories"
               },
               "origin": "",
               "type": "category",
@@ -13749,8 +13749,8 @@
               },
               "slug": {
                 "en": "collection",
-                "es": "",
-                "pt": ""
+                "es": "collection",
+                "pt": "collection"
               },
               "origin": "",
               "type": "category",
@@ -13810,8 +13810,8 @@
               },
               "slug": {
                 "en": "kit",
-                "es": "",
-                "pt": ""
+                "es": "kit",
+                "pt": "kit"
               },
               "origin": "",
               "type": "category",
@@ -13901,8 +13901,8 @@
               },
               "slug": {
                 "en": "reports",
-                "es": "",
-                "pt": ""
+                "es": "reports",
+                "pt": "reports"
               },
               "origin": "",
               "type": "category",
@@ -13977,8 +13977,8 @@
               },
               "slug": {
                 "en": "search",
-                "es": "",
-                "pt": ""
+                "es": "search",
+                "pt": "search"
               },
               "origin": "",
               "type": "category",
@@ -14053,8 +14053,8 @@
               },
               "slug": {
                 "en": "catalog-overview",
-                "es": "",
-                "pt": ""
+                "es": "catalog-overview",
+                "pt": "catalog-overview"
               },
               "origin": "",
               "type": "category",
@@ -14084,8 +14084,8 @@
               },
               "slug": {
                 "en": "commercial-conditions",
-                "es": "",
-                "pt": ""
+                "es": "commercial-conditions",
+                "pt": "commercial-conditions"
               },
               "origin": "",
               "type": "category",
@@ -14115,8 +14115,8 @@
               },
               "slug": {
                 "en": "custom-product-attributes",
-                "es": "",
-                "pt": ""
+                "es": "custom-product-attributes",
+                "pt": "custom-product-attributes"
               },
               "origin": "",
               "type": "category",
@@ -14221,8 +14221,8 @@
               },
               "slug": {
                 "en": "import-and-export",
-                "es": "",
-                "pt": ""
+                "es": "import-and-export",
+                "pt": "import-and-export"
               },
               "origin": "",
               "type": "category",
@@ -14297,8 +14297,8 @@
               },
               "slug": {
                 "en": "list-types",
-                "es": "",
-                "pt": ""
+                "es": "list-types",
+                "pt": "list-types"
               },
               "origin": "",
               "type": "category",
@@ -14358,8 +14358,8 @@
               },
               "slug": {
                 "en": "products-and-skus-category",
-                "es": "",
-                "pt": ""
+                "es": "products-and-skus",
+                "pt": "products-and-skus"
               },
               "origin": "",
               "type": "category",
@@ -14749,8 +14749,8 @@
               },
               "slug": {
                 "en": "xml-integration",
-                "es": "",
-                "pt": ""
+                "es": "xml-integration",
+                "pt": "xml-integration"
               },
               "origin": "",
               "type": "category",
@@ -14827,8 +14827,8 @@
           },
           "slug": {
             "en": "checkout",
-            "es": "",
-            "pt": ""
+            "es": "checkout",
+            "pt": "checkout"
           },
           "origin": "",
           "type": "category",
@@ -14841,8 +14841,8 @@
               },
               "slug": {
                 "en": "checkout-overview",
-                "es": "",
-                "pt": ""
+                "es": "checkout-overview",
+                "pt": "checkout-overview"
               },
               "origin": "",
               "type": "category",
@@ -14947,8 +14947,8 @@
               },
               "slug": {
                 "en": "checkout-settings",
-                "es": "",
-                "pt": ""
+                "es": "checkout-settings",
+                "pt": "checkout-settings"
               },
               "origin": "",
               "type": "category",
@@ -15278,8 +15278,8 @@
               },
               "slug": {
                 "en": "recaptcha",
-                "es": "",
-                "pt": ""
+                "es": "recaptcha",
+                "pt": "recaptcha"
               },
               "origin": "",
               "type": "category",
@@ -15311,8 +15311,8 @@
           },
           "slug": {
             "en": "integrations",
-            "es": "",
-            "pt": ""
+            "es": "integrations",
+            "pt": "integrations"
           },
           "origin": "",
           "type": "category",
@@ -15325,8 +15325,8 @@
               },
               "slug": {
                 "en": "inventory",
-                "es": "",
-                "pt": ""
+                "es": "inventory",
+                "pt": "inventory"
               },
               "origin": "",
               "type": "category",
@@ -15521,8 +15521,8 @@
               },
               "slug": {
                 "en": "orders",
-                "es": "",
-                "pt": ""
+                "es": "orders",
+                "pt": "orders"
               },
               "origin": "",
               "type": "category",
@@ -15717,8 +15717,8 @@
               },
               "slug": {
                 "en": "price",
-                "es": "",
-                "pt": ""
+                "es": "price",
+                "pt": "price"
               },
               "origin": "",
               "type": "category",
@@ -15778,8 +15778,8 @@
               },
               "slug": {
                 "en": "products",
-                "es": "",
-                "pt": ""
+                "es": "products",
+                "pt": "products"
               },
               "origin": "",
               "type": "category",
@@ -15839,8 +15839,8 @@
               },
               "slug": {
                 "en": "integration-settings",
-                "es": "",
-                "pt": ""
+                "es": "integration-settings",
+                "pt": "integration-settings"
               },
               "origin": "",
               "type": "category",
@@ -16335,8 +16335,8 @@
               },
               "slug": {
                 "en": "integrations-overview",
-                "es": "",
-                "pt": ""
+                "es": "integrations-overview",
+                "pt": "integrations-overview"
               },
               "origin": "",
               "type": "category",
@@ -16531,8 +16531,8 @@
               },
               "slug": {
                 "en": "offer-management",
-                "es": "",
-                "pt": ""
+                "es": "offer-management",
+                "pt": "offer-management"
               },
               "origin": "",
               "type": "category",
@@ -16594,8 +16594,8 @@
           },
           "slug": {
             "en": "operational",
-            "es": "",
-            "pt": ""
+            "es": "operational",
+            "pt": "operational"
           },
           "origin": "",
           "type": "category",
@@ -16608,8 +16608,8 @@
               },
               "slug": {
                 "en": "financial",
-                "es": "",
-                "pt": ""
+                "es": "financial",
+                "pt": "financial"
               },
               "origin": "",
               "type": "category",
@@ -16669,8 +16669,8 @@
               },
               "slug": {
                 "en": "support",
-                "es": "",
-                "pt": ""
+                "es": "support",
+                "pt": "support"
               },
               "origin": "",
               "type": "category",
@@ -16775,8 +16775,8 @@
               },
               "slug": {
                 "en": "vtex-admin",
-                "es": "",
-                "pt": ""
+                "es": "vtex-admin",
+                "pt": "vtex-admin"
               },
               "origin": "",
               "type": "category",
@@ -16823,8 +16823,8 @@
           },
           "slug": {
             "en": "other",
-            "es": "",
-            "pt": ""
+            "es": "other",
+            "pt": "other"
           },
           "origin": "",
           "type": "category",
@@ -16837,8 +16837,8 @@
               },
               "slug": {
                 "en": "uncategorized",
-                "es": "",
-                "pt": ""
+                "es": "uncategorized",
+                "pt": "uncategorized"
               },
               "origin": "",
               "type": "category",
@@ -16883,8 +16883,8 @@
               },
               "slug": {
                 "en": "foresight-commerce-academy",
-                "es": "",
-                "pt": ""
+                "es": "foresight-commerce-academy",
+                "pt": "foresight-commerce-academy"
               },
               "origin": "",
               "type": "category",
@@ -16914,8 +16914,8 @@
               },
               "slug": {
                 "en": "scheduling-features",
-                "es": "",
-                "pt": ""
+                "es": "scheduling-features",
+                "pt": "scheduling-features"
               },
               "origin": "",
               "type": "category",
@@ -16947,8 +16947,8 @@
           },
           "slug": {
             "en": "payments",
-            "es": "",
-            "pt": ""
+            "es": "payments",
+            "pt": "payments"
           },
           "origin": "",
           "type": "category",
@@ -16961,8 +16961,8 @@
               },
               "slug": {
                 "en": "transactions",
-                "es": "",
-                "pt": ""
+                "es": "transactions",
+                "pt": "transactions"
               },
               "origin": "",
               "type": "category",
@@ -17202,8 +17202,8 @@
               },
               "slug": {
                 "en": "bank-conciliation",
-                "es": "",
-                "pt": ""
+                "es": "bank-conciliation",
+                "pt": "bank-conciliation"
               },
               "origin": "",
               "type": "category",
@@ -17248,8 +17248,8 @@
               },
               "slug": {
                 "en": "gift-card-category",
-                "es": "",
-                "pt": ""
+                "es": "gift-card",
+                "pt": "gift-card"
               },
               "origin": "",
               "type": "category",
@@ -17279,8 +17279,8 @@
               },
               "slug": {
                 "en": "payment-settings",
-                "es": "",
-                "pt": ""
+                "es": "payment-settings",
+                "pt": "payment-settings"
               },
               "origin": "",
               "type": "category",
@@ -20070,8 +20070,8 @@
               },
               "slug": {
                 "en": "payments-overview",
-                "es": "",
-                "pt": ""
+                "es": "payments-overview",
+                "pt": "payments-overview"
               },
               "origin": "",
               "type": "category",
@@ -20478,8 +20478,8 @@
           },
           "slug": {
             "en": "prices",
-            "es": "",
-            "pt": ""
+            "es": "prices",
+            "pt": "prices"
           },
           "origin": "",
           "type": "category",
@@ -20492,8 +20492,8 @@
               },
               "slug": {
                 "en": "b2b",
-                "es": "",
-                "pt": ""
+                "es": "b2b",
+                "pt": "b2b"
               },
               "origin": "",
               "type": "category",
@@ -20523,8 +20523,8 @@
               },
               "slug": {
                 "en": "price-list",
-                "es": "",
-                "pt": ""
+                "es": "price-list",
+                "pt": "price-list"
               },
               "origin": "",
               "type": "category",
@@ -20674,8 +20674,8 @@
               },
               "slug": {
                 "en": "price-rules",
-                "es": "",
-                "pt": ""
+                "es": "price-rules",
+                "pt": "price-rules"
               },
               "origin": "",
               "type": "category",
@@ -20705,8 +20705,8 @@
               },
               "slug": {
                 "en": "price-settings",
-                "es": "",
-                "pt": ""
+                "es": "price-settings",
+                "pt": "price-settings"
               },
               "origin": "",
               "type": "category",
@@ -20751,8 +20751,8 @@
               },
               "slug": {
                 "en": "rounding-rules-category",
-                "es": "",
-                "pt": ""
+                "es": "rounding-rules",
+                "pt": "rounding-rules"
               },
               "origin": "",
               "type": "category",
@@ -20784,8 +20784,8 @@
           },
           "slug": {
             "en": "sellers",
-            "es": "",
-            "pt": ""
+            "es": "sellers",
+            "pt": "sellers"
           },
           "origin": "",
           "type": "category",
@@ -20798,8 +20798,8 @@
               },
               "slug": {
                 "en": "management",
-                "es": "",
-                "pt": ""
+                "es": "management",
+                "pt": "management"
               },
               "origin": "",
               "type": "category",
@@ -20844,8 +20844,8 @@
               },
               "slug": {
                 "en": "categories-and-brands",
-                "es": "",
-                "pt": ""
+                "es": "categories-and-brands",
+                "pt": "categories-and-brands"
               },
               "origin": "",
               "type": "category",
@@ -20890,8 +20890,8 @@
               },
               "slug": {
                 "en": "received-skus",
-                "es": "",
-                "pt": ""
+                "es": "received-skus",
+                "pt": "received-skus"
               },
               "origin": "",
               "type": "category",
@@ -20921,8 +20921,8 @@
               },
               "slug": {
                 "en": "seller-portal",
-                "es": "",
-                "pt": ""
+                "es": "seller-portal",
+                "pt": "seller-portal"
               },
               "origin": "",
               "type": "category",
@@ -21147,8 +21147,8 @@
               },
               "slug": {
                 "en": "sellers-overview",
-                "es": "",
-                "pt": ""
+                "es": "sellers-overview",
+                "pt": "sellers-overview"
               },
               "origin": "",
               "type": "category",
@@ -21283,8 +21283,8 @@
               },
               "slug": {
                 "en": "sku-binding",
-                "es": "",
-                "pt": ""
+                "es": "sku-binding",
+                "pt": "sku-binding"
               },
               "origin": "",
               "type": "category",
@@ -21331,8 +21331,8 @@
           },
           "slug": {
             "en": "shipping",
-            "es": "",
-            "pt": ""
+            "es": "shipping",
+            "pt": "shipping"
           },
           "origin": "",
           "type": "category",
@@ -21345,8 +21345,8 @@
               },
               "slug": {
                 "en": "holidays",
-                "es": "",
-                "pt": ""
+                "es": "holidays",
+                "pt": "holidays"
               },
               "origin": "",
               "type": "category",
@@ -21376,8 +21376,8 @@
               },
               "slug": {
                 "en": "inventory",
-                "es": "",
-                "pt": ""
+                "es": "inventory",
+                "pt": "inventory"
               },
               "origin": "",
               "type": "category",
@@ -21467,8 +21467,8 @@
               },
               "slug": {
                 "en": "geolocation-shipping",
-                "es": "",
-                "pt": ""
+                "es": "geolocation-shipping",
+                "pt": "geolocation-shipping"
               },
               "origin": "",
               "type": "category",
@@ -21498,8 +21498,8 @@
               },
               "slug": {
                 "en": "inventory-and-shipping-settings",
-                "es": "",
-                "pt": ""
+                "es": "inventory-and-shipping-settings",
+                "pt": "inventory-and-shipping-settings"
               },
               "origin": "",
               "type": "category",
@@ -21589,8 +21589,8 @@
               },
               "slug": {
                 "en": "logistics-overview",
-                "es": "",
-                "pt": ""
+                "es": "logistics-overview",
+                "pt": "logistics-overview"
               },
               "origin": "",
               "type": "category",
@@ -21650,8 +21650,8 @@
               },
               "slug": {
                 "en": "pickup-points-category",
-                "es": "",
-                "pt": ""
+                "es": "pickup-points",
+                "pt": "pickup-points"
               },
               "origin": "",
               "type": "category",
@@ -21696,8 +21696,8 @@
               },
               "slug": {
                 "en": "shipping-rates",
-                "es": "",
-                "pt": ""
+                "es": "shipping-rates",
+                "pt": "shipping-rates"
               },
               "origin": "",
               "type": "category",
@@ -21742,8 +21742,8 @@
               },
               "slug": {
                 "en": "shipping-simulator",
-                "es": "",
-                "pt": ""
+                "es": "shipping-simulator",
+                "pt": "shipping-simulator"
               },
               "origin": "",
               "type": "category",
@@ -21788,8 +21788,8 @@
               },
               "slug": {
                 "en": "shipping-strategy-category",
-                "es": "",
-                "pt": ""
+                "es": "shipping-strategy",
+                "pt": "shipping-strategy"
               },
               "origin": "",
               "type": "category",
@@ -22149,8 +22149,8 @@
               },
               "slug": {
                 "en": "vtex-pick-and-pack-category",
-                "es": "",
-                "pt": ""
+                "es": "vtex-pick-and-pack",
+                "pt": "vtex-pick-and-pack"
               },
               "origin": "",
               "type": "category",
@@ -22300,8 +22300,8 @@
               },
               "slug": {
                 "en": "vtex-shipping-network",
-                "es": "",
-                "pt": ""
+                "es": "vtex-shipping-network",
+                "pt": "vtex-shipping-network"
               },
               "origin": "",
               "type": "category",
@@ -22393,8 +22393,8 @@
           },
           "slug": {
             "en": "storefront",
-            "es": "",
-            "pt": ""
+            "es": "storefront",
+            "pt": "storefront"
           },
           "origin": "",
           "type": "category",
@@ -22407,8 +22407,8 @@
               },
               "slug": {
                 "en": "layout",
-                "es": "",
-                "pt": ""
+                "es": "layout",
+                "pt": "layout"
               },
               "origin": "",
               "type": "category",
@@ -23383,8 +23383,8 @@
               },
               "slug": {
                 "en": "pages",
-                "es": "",
-                "pt": ""
+                "es": "pages",
+                "pt": "pages"
               },
               "origin": "",
               "type": "category",
@@ -23459,8 +23459,8 @@
               },
               "slug": {
                 "en": "styles",
-                "es": "",
-                "pt": ""
+                "es": "styles",
+                "pt": "styles"
               },
               "origin": "",
               "type": "category",
@@ -23505,8 +23505,8 @@
               },
               "slug": {
                 "en": "headless-cms",
-                "es": "",
-                "pt": ""
+                "es": "headless-cms",
+                "pt": "headless-cms"
               },
               "origin": "",
               "type": "category",
@@ -23596,8 +23596,8 @@
               },
               "slug": {
                 "en": "site-editor",
-                "es": "",
-                "pt": ""
+                "es": "site-editor",
+                "pt": "site-editor"
               },
               "origin": "",
               "type": "category",
@@ -23732,8 +23732,8 @@
               },
               "slug": {
                 "en": "store-settings-storefront",
-                "es": "",
-                "pt": ""
+                "es": "store-settings-storefront",
+                "pt": "store-settings-storefront"
               },
               "origin": "",
               "type": "category",
@@ -23928,8 +23928,8 @@
               },
               "slug": {
                 "en": "storefront-overview-category",
-                "es": "",
-                "pt": ""
+                "es": "storefront-overview",
+                "pt": "storefront-overview"
               },
               "origin": "",
               "type": "category",
@@ -23961,8 +23961,8 @@
           },
           "slug": {
             "en": "suggestions",
-            "es": "",
-            "pt": ""
+            "es": "suggestions",
+            "pt": "suggestions"
           },
           "origin": "",
           "type": "category",
@@ -23975,8 +23975,8 @@
               },
               "slug": {
                 "en": "pending",
-                "es": "",
-                "pt": ""
+                "es": "pending",
+                "pt": "pending"
               },
               "origin": "",
               "type": "category",
@@ -24006,8 +24006,8 @@
               },
               "slug": {
                 "en": "processing",
-                "es": "",
-                "pt": ""
+                "es": "processing",
+                "pt": "processing"
               },
               "origin": "",
               "type": "category",
@@ -24039,8 +24039,8 @@
           },
           "slug": {
             "en": "support",
-            "es": "",
-            "pt": ""
+            "es": "support",
+            "pt": "support"
           },
           "origin": "",
           "type": "category",
@@ -24053,8 +24053,8 @@
               },
               "slug": {
                 "en": "operational",
-                "es": "",
-                "pt": ""
+                "es": "operational",
+                "pt": "operational"
               },
               "origin": "",
               "type": "category",
@@ -24086,8 +24086,8 @@
           },
           "slug": {
             "en": "about-the-admin",
-            "es": "",
-            "pt": ""
+            "es": "about-the-admin",
+            "pt": "about-the-admin"
           },
           "origin": "",
           "type": "category",
@@ -24100,8 +24100,8 @@
               },
               "slug": {
                 "en": "admin-overview",
-                "es": "",
-                "pt": ""
+                "es": "admin-overview",
+                "pt": "admin-overview"
               },
               "origin": "",
               "type": "category",
@@ -24148,8 +24148,8 @@
           },
           "slug": {
             "en": "account-management",
-            "es": "",
-            "pt": ""
+            "es": "account-management",
+            "pt": "account-management"
           },
           "origin": "",
           "type": "category",
@@ -24162,8 +24162,8 @@
               },
               "slug": {
                 "en": "access-control",
-                "es": "",
-                "pt": ""
+                "es": "access-control",
+                "pt": "access-control"
               },
               "origin": "",
               "type": "category",
@@ -24253,8 +24253,8 @@
               },
               "slug": {
                 "en": "account-settings",
-                "es": "",
-                "pt": ""
+                "es": "account-settings",
+                "pt": "account-settings"
               },
               "origin": "",
               "type": "category",
@@ -24284,8 +24284,8 @@
               },
               "slug": {
                 "en": "accounts",
-                "es": "",
-                "pt": ""
+                "es": "accounts",
+                "pt": "accounts"
               },
               "origin": "",
               "type": "category",
@@ -24405,8 +24405,8 @@
               },
               "slug": {
                 "en": "api-keys-category",
-                "es": "",
-                "pt": ""
+                "es": "api-keys",
+                "pt": "api-keys"
               },
               "origin": "",
               "type": "category",
@@ -24511,8 +24511,8 @@
               },
               "slug": {
                 "en": "application-keys-category",
-                "es": "",
-                "pt": ""
+                "es": "application-keys",
+                "pt": "application-keys"
               },
               "origin": "",
               "type": "category",
@@ -24542,8 +24542,8 @@
               },
               "slug": {
                 "en": "users",
-                "es": "",
-                "pt": ""
+                "es": "users",
+                "pt": "users"
               },
               "origin": "",
               "type": "category",
@@ -24695,8 +24695,8 @@
           },
           "slug": {
             "en": "apps",
-            "es": "",
-            "pt": ""
+            "es": "apps",
+            "pt": "apps"
           },
           "origin": "",
           "type": "category",
@@ -24709,8 +24709,8 @@
               },
               "slug": {
                 "en": "affiliates-program-app-category",
-                "es": "",
-                "pt": ""
+                "es": "affiliates-program-app",
+                "pt": "affiliates-program-app"
               },
               "origin": "",
               "type": "category",
@@ -24740,8 +24740,8 @@
               },
               "slug": {
                 "en": "amazon-mcf-app",
-                "es": "",
-                "pt": ""
+                "es": "amazon-mcf-app",
+                "pt": "amazon-mcf-app"
               },
               "origin": "",
               "type": "category",
@@ -24771,8 +24771,8 @@
               },
               "slug": {
                 "en": "apps-overview",
-                "es": "",
-                "pt": ""
+                "es": "apps-overview",
+                "pt": "apps-overview"
               },
               "origin": "",
               "type": "category",
@@ -24802,8 +24802,8 @@
               },
               "slug": {
                 "en": "assembly-options",
-                "es": "",
-                "pt": ""
+                "es": "assembly-options",
+                "pt": "assembly-options"
               },
               "origin": "",
               "type": "category",
@@ -24833,8 +24833,8 @@
               },
               "slug": {
                 "en": "customer-credit",
-                "es": "",
-                "pt": ""
+                "es": "customer-credit",
+                "pt": "customer-credit"
               },
               "origin": "",
               "type": "category",
@@ -24864,8 +24864,8 @@
               },
               "slug": {
                 "en": "live-shopping-category",
-                "es": "",
-                "pt": ""
+                "es": "live-shopping-category",
+                "pt": "live-shopping-category"
               },
               "origin": "",
               "type": "category",
@@ -24925,8 +24925,8 @@
               },
               "slug": {
                 "en": "my-account",
-                "es": "",
-                "pt": ""
+                "es": "my-account",
+                "pt": "my-account"
               },
               "origin": "",
               "type": "category",
@@ -24971,8 +24971,8 @@
               },
               "slug": {
                 "en": "personal-shopper",
-                "es": "",
-                "pt": ""
+                "es": "personal-shopper",
+                "pt": "personal-shopper"
               },
               "origin": "",
               "type": "category",
@@ -25002,8 +25002,8 @@
               },
               "slug": {
                 "en": "vtex-session",
-                "es": "",
-                "pt": ""
+                "es": "vtex-session",
+                "pt": "vtex-session"
               },
               "origin": "",
               "type": "category",
@@ -25035,8 +25035,8 @@
           },
           "slug": {
             "en": "authentication",
-            "es": "",
-            "pt": ""
+            "es": "authentication",
+            "pt": "authentication"
           },
           "origin": "",
           "type": "category",
@@ -25049,8 +25049,8 @@
               },
               "slug": {
                 "en": "authentication-basics",
-                "es": "",
-                "pt": ""
+                "es": "authentication-basics",
+                "pt": "authentication-basics"
               },
               "origin": "",
               "type": "category",
@@ -25140,8 +25140,8 @@
               },
               "slug": {
                 "en": "authentication-settings",
-                "es": "",
-                "pt": ""
+                "es": "authentication-settings",
+                "pt": "authentication-settings"
               },
               "origin": "",
               "type": "category",
@@ -25171,8 +25171,8 @@
               },
               "slug": {
                 "en": "two-factor-authentication",
-                "es": "",
-                "pt": ""
+                "es": "two-factor-authentication",
+                "pt": "two-factor-authentication"
               },
               "origin": "",
               "type": "category",
@@ -25219,8 +25219,8 @@
           },
           "slug": {
             "en": "beta",
-            "es": "",
-            "pt": ""
+            "es": "beta",
+            "pt": "beta"
           },
           "origin": "",
           "type": "category",
@@ -25233,8 +25233,8 @@
               },
               "slug": {
                 "en": "api-keys-beta",
-                "es": "",
-                "pt": ""
+                "es": "api-keys-beta",
+                "pt": "api-keys-beta"
               },
               "origin": "",
               "type": "category",
@@ -25264,8 +25264,8 @@
               },
               "slug": {
                 "en": "catalog-beta",
-                "es": "",
-                "pt": ""
+                "es": "catalog-beta",
+                "pt": "catalog-beta"
               },
               "origin": "",
               "type": "category",
@@ -25295,8 +25295,8 @@
               },
               "slug": {
                 "en": "dashboards-beta",
-                "es": "",
-                "pt": ""
+                "es": "dashboards-beta",
+                "pt": "dashboards-beta"
               },
               "origin": "",
               "type": "category",
@@ -25326,8 +25326,8 @@
               },
               "slug": {
                 "en": "intelligent-search-beta",
-                "es": "",
-                "pt": ""
+                "es": "intelligent-search-beta",
+                "pt": "intelligent-search-beta"
               },
               "origin": "",
               "type": "category",
@@ -25387,8 +25387,8 @@
               },
               "slug": {
                 "en": "product-recommendations-beta-category",
-                "es": "",
-                "pt": ""
+                "es": "product-recommendations-beta",
+                "pt": "product-recommendations-beta"
               },
               "origin": "",
               "type": "category",
@@ -25418,8 +25418,8 @@
               },
               "slug": {
                 "en": "promotions-beta",
-                "es": "",
-                "pt": ""
+                "es": "promotions-beta",
+                "pt": "promotions-beta"
               },
               "origin": "",
               "type": "category",
@@ -25464,8 +25464,8 @@
               },
               "slug": {
                 "en": "releases-beta",
-                "es": "",
-                "pt": ""
+                "es": "releases-beta",
+                "pt": "releases-beta"
               },
               "origin": "",
               "type": "category",
@@ -25555,8 +25555,8 @@
               },
               "slug": {
                 "en": "shipping-beta",
-                "es": "",
-                "pt": ""
+                "es": "shipping-beta",
+                "pt": "shipping-beta"
               },
               "origin": "",
               "type": "category",
@@ -25616,8 +25616,8 @@
               },
               "slug": {
                 "en": "vtex-data-pipeline-beta",
-                "es": "",
-                "pt": ""
+                "es": "vtex-data-pipeline-beta",
+                "pt": "vtex-data-pipeline-beta"
               },
               "origin": "",
               "type": "category",
@@ -25797,8 +25797,8 @@
               },
               "slug": {
                 "en": "vtex-sales-app-beta",
-                "es": "",
-                "pt": ""
+                "es": "vtex-sales-app-beta",
+                "pt": "vtex-sales-app-beta"
               },
               "origin": "",
               "type": "category",
@@ -25860,8 +25860,8 @@
           },
           "slug": {
             "en": "conversational-commerce",
-            "es": "",
-            "pt": ""
+            "es": "conversational-commerce",
+            "pt": "conversational-commerce"
           },
           "origin": "",
           "type": "category",
@@ -25874,8 +25874,8 @@
               },
               "slug": {
                 "en": "vtex-assisted-sales-suiteshare",
-                "es": "",
-                "pt": ""
+                "es": "vtex-assisted-sales-suiteshare",
+                "pt": "vtex-assisted-sales-suiteshare"
               },
               "origin": "",
               "type": "category",
@@ -26447,8 +26447,8 @@
           },
           "slug": {
             "en": "dashboards",
-            "es": "",
-            "pt": ""
+            "es": "dashboards",
+            "pt": "dashboards"
           },
           "origin": "",
           "type": "category",
@@ -26461,8 +26461,8 @@
               },
               "slug": {
                 "en": "dashboards-in-the-vtex-admin",
-                "es": "",
-                "pt": ""
+                "es": "dashboards-in-the-vtex-admin",
+                "pt": "dashboards-in-the-vtex-admin"
               },
               "origin": "",
               "type": "category",
@@ -26539,8 +26539,8 @@
           },
           "slug": {
             "en": "infrastructure",
-            "es": "",
-            "pt": ""
+            "es": "infrastructure",
+            "pt": "infrastructure"
           },
           "origin": "",
           "type": "category",
@@ -26553,8 +26553,8 @@
               },
               "slug": {
                 "en": "cdn-service",
-                "es": "",
-                "pt": ""
+                "es": "cdn-service",
+                "pt": "cdn-service"
               },
               "origin": "",
               "type": "category",
@@ -26674,8 +26674,8 @@
               },
               "slug": {
                 "en": "sla-status",
-                "es": "",
-                "pt": ""
+                "es": "sla-status",
+                "pt": "sla-status"
               },
               "origin": "",
               "type": "category",
@@ -26737,8 +26737,8 @@
           },
           "slug": {
             "en": "intelligent-search",
-            "es": "",
-            "pt": ""
+            "es": "intelligent-search",
+            "pt": "intelligent-search"
           },
           "origin": "",
           "type": "category",
@@ -26751,8 +26751,8 @@
               },
               "slug": {
                 "en": "banners-category",
-                "es": "",
-                "pt": ""
+                "es": "banners-category",
+                "pt": "banners-category"
               },
               "origin": "",
               "type": "category",
@@ -26797,8 +26797,8 @@
               },
               "slug": {
                 "en": "intelligent-search-behavior",
-                "es": "",
-                "pt": ""
+                "es": "intelligent-search-behavior",
+                "pt": "intelligent-search-behavior"
               },
               "origin": "",
               "type": "category",
@@ -26918,8 +26918,8 @@
               },
               "slug": {
                 "en": "intelligent-search-overview-category",
-                "es": "",
-                "pt": ""
+                "es": "intelligent-search-overview",
+                "pt": "intelligent-search-overview"
               },
               "origin": "",
               "type": "category",
@@ -26994,8 +26994,8 @@
               },
               "slug": {
                 "en": "intelligent-search-settings",
-                "es": "",
-                "pt": ""
+                "es": "intelligent-search-settings",
+                "pt": "intelligent-search-settings"
               },
               "origin": "",
               "type": "category",
@@ -27025,8 +27025,8 @@
               },
               "slug": {
                 "en": "redirects",
-                "es": "",
-                "pt": ""
+                "es": "redirects",
+                "pt": "redirects"
               },
               "origin": "",
               "type": "category",
@@ -27056,8 +27056,8 @@
               },
               "slug": {
                 "en": "relevance",
-                "es": "",
-                "pt": ""
+                "es": "relevance",
+                "pt": "relevance"
               },
               "origin": "",
               "type": "category",
@@ -27162,8 +27162,8 @@
               },
               "slug": {
                 "en": "synonyms-category",
-                "es": "",
-                "pt": ""
+                "es": "synonyms",
+                "pt": "synonyms"
               },
               "origin": "",
               "type": "category",
@@ -27240,8 +27240,8 @@
           },
           "slug": {
             "en": "master-data",
-            "es": "",
-            "pt": ""
+            "es": "master-data",
+            "pt": "master-data"
           },
           "origin": "",
           "type": "category",
@@ -27254,8 +27254,8 @@
               },
               "slug": {
                 "en": "customer-relations-management",
-                "es": "",
-                "pt": ""
+                "es": "customer-relations-management",
+                "pt": "customer-relations-management"
               },
               "origin": "",
               "type": "category",
@@ -27390,8 +27390,8 @@
               },
               "slug": {
                 "en": "master-data-basics",
-                "es": "",
-                "pt": ""
+                "es": "master-data-basics",
+                "pt": "master-data-basics"
               },
               "origin": "",
               "type": "category",
@@ -27436,8 +27436,8 @@
               },
               "slug": {
                 "en": "master-data-settings",
-                "es": "",
-                "pt": ""
+                "es": "master-data-settings",
+                "pt": "master-data-settings"
               },
               "origin": "",
               "type": "category",
@@ -27467,8 +27467,8 @@
               },
               "slug": {
                 "en": "master-data-v1-applications",
-                "es": "",
-                "pt": ""
+                "es": "master-data-v1-applications",
+                "pt": "master-data-v1-applications"
               },
               "origin": "",
               "type": "category",
@@ -27558,8 +27558,8 @@
               },
               "slug": {
                 "en": "master-data-v1-settings",
-                "es": "",
-                "pt": ""
+                "es": "master-data-v1-settings",
+                "pt": "master-data-v1-settings"
               },
               "origin": "",
               "type": "category",
@@ -27709,8 +27709,8 @@
               },
               "slug": {
                 "en": "master-data-v1-triggers",
-                "es": "",
-                "pt": ""
+                "es": "master-data-v1-triggers",
+                "pt": "master-data-v1-triggers"
               },
               "origin": "",
               "type": "category",
@@ -27772,8 +27772,8 @@
           },
           "slug": {
             "en": "message-center",
-            "es": "",
-            "pt": ""
+            "es": "message-center",
+            "pt": "message-center"
           },
           "origin": "",
           "type": "category",
@@ -27786,8 +27786,8 @@
               },
               "slug": {
                 "en": "senders",
-                "es": "",
-                "pt": ""
+                "es": "senders",
+                "pt": "senders"
               },
               "origin": "",
               "type": "category",
@@ -27817,8 +27817,8 @@
               },
               "slug": {
                 "en": "templates",
-                "es": "",
-                "pt": ""
+                "es": "templates",
+                "pt": "templates"
               },
               "origin": "",
               "type": "category",
@@ -27925,8 +27925,8 @@
           },
           "slug": {
             "en": "omnichannel",
-            "es": "",
-            "pt": ""
+            "es": "omnichannel",
+            "pt": "omnichannel"
           },
           "origin": "",
           "type": "category",
@@ -27939,8 +27939,8 @@
               },
               "slug": {
                 "en": "omnichannel-overview",
-                "es": "",
-                "pt": ""
+                "es": "omnichannel-overview",
+                "pt": "omnichannel-overview"
               },
               "origin": "",
               "type": "category",
@@ -28000,8 +28000,8 @@
               },
               "slug": {
                 "en": "omnichannel-settings",
-                "es": "",
-                "pt": ""
+                "es": "omnichannel-settings",
+                "pt": "omnichannel-settings"
               },
               "origin": "",
               "type": "category",
@@ -28033,8 +28033,8 @@
           },
           "slug": {
             "en": "orders",
-            "es": "",
-            "pt": ""
+            "es": "orders",
+            "pt": "orders"
           },
           "origin": "",
           "type": "category",
@@ -28047,8 +28047,8 @@
               },
               "slug": {
                 "en": "all-orders",
-                "es": "",
-                "pt": ""
+                "es": "all-orders",
+                "pt": "all-orders"
               },
               "origin": "",
               "type": "category",
@@ -28498,8 +28498,8 @@
               },
               "slug": {
                 "en": "b2b-orders",
-                "es": "",
-                "pt": ""
+                "es": "b2b-orders",
+                "pt": "b2b-orders"
               },
               "origin": "",
               "type": "category",
@@ -28529,8 +28529,8 @@
               },
               "slug": {
                 "en": "orders-management-settings",
-                "es": "",
-                "pt": ""
+                "es": "orders-management-settings",
+                "pt": "orders-management-settings"
               },
               "origin": "",
               "type": "category",
@@ -28725,8 +28725,8 @@
               },
               "slug": {
                 "en": "orders-overview-category",
-                "es": "",
-                "pt": ""
+                "es": "orders-overview",
+                "pt": "orders-overview"
               },
               "origin": "",
               "type": "category",
@@ -28891,8 +28891,8 @@
               },
               "slug": {
                 "en": "telesales-and-customer-service",
-                "es": "",
-                "pt": ""
+                "es": "telesales-and-customer-service",
+                "pt": "telesales-and-customer-service"
               },
               "origin": "",
               "type": "category",
@@ -28954,8 +28954,8 @@
           },
           "slug": {
             "en": "projects-integrations",
-            "es": "",
-            "pt": ""
+            "es": "projects-integrations",
+            "pt": "projects-integrations"
           },
           "origin": "",
           "type": "category",
@@ -28968,8 +28968,8 @@
               },
               "slug": {
                 "en": "integration-with-monitoring-tools",
-                "es": "",
-                "pt": ""
+                "es": "integration-with-monitoring-tools",
+                "pt": "integration-with-monitoring-tools"
               },
               "origin": "",
               "type": "category",
@@ -29211,8 +29211,8 @@
           },
           "slug": {
             "en": "promotions-taxes",
-            "es": "",
-            "pt": ""
+            "es": "promotions-taxes",
+            "pt": "promotions-taxes"
           },
           "origin": "",
           "type": "category",
@@ -29225,8 +29225,8 @@
               },
               "slug": {
                 "en": "campaign-audiences-category",
-                "es": "",
-                "pt": ""
+                "es": "campaign-audiences",
+                "pt": "campaign-audiences"
               },
               "origin": "",
               "type": "category",
@@ -29301,8 +29301,8 @@
               },
               "slug": {
                 "en": "coupons",
-                "es": "",
-                "pt": ""
+                "es": "coupons",
+                "pt": "coupons"
               },
               "origin": "",
               "type": "category",
@@ -29347,8 +29347,8 @@
               },
               "slug": {
                 "en": "promotions",
-                "es": "",
-                "pt": ""
+                "es": "promotions",
+                "pt": "promotions"
               },
               "origin": "",
               "type": "category",
@@ -29813,8 +29813,8 @@
               },
               "slug": {
                 "en": "taxes",
-                "es": "",
-                "pt": ""
+                "es": "taxes",
+                "pt": "taxes"
               },
               "origin": "",
               "type": "category",
@@ -29876,8 +29876,8 @@
           },
           "slug": {
             "en": "security",
-            "es": "",
-            "pt": ""
+            "es": "security",
+            "pt": "security"
           },
           "origin": "",
           "type": "category",
@@ -29890,8 +29890,8 @@
               },
               "slug": {
                 "en": "information-security-compliance",
-                "es": "",
-                "pt": ""
+                "es": "information-security-compliance",
+                "pt": "information-security-compliance"
               },
               "origin": "",
               "type": "category",
@@ -29981,8 +29981,8 @@
               },
               "slug": {
                 "en": "platform-security-resources",
-                "es": "",
-                "pt": ""
+                "es": "platform-security-resources",
+                "pt": "platform-security-resources"
               },
               "origin": "",
               "type": "category",
@@ -30057,8 +30057,8 @@
               },
               "slug": {
                 "en": "store-security",
-                "es": "",
-                "pt": ""
+                "es": "store-security",
+                "pt": "store-security"
               },
               "origin": "",
               "type": "category",
@@ -30223,8 +30223,8 @@
               },
               "slug": {
                 "en": "vtex-shield-category",
-                "es": "",
-                "pt": ""
+                "es": "vtex-shield",
+                "pt": "vtex-shield"
               },
               "origin": "",
               "type": "category",
@@ -30316,8 +30316,8 @@
           },
           "slug": {
             "en": "store-settings",
-            "es": "",
-            "pt": ""
+            "es": "store-settings",
+            "pt": "store-settings"
           },
           "origin": "",
           "type": "category",
@@ -30330,8 +30330,8 @@
               },
               "slug": {
                 "en": "best-practices-for-the-success-of-your-vtex-store-category",
-                "es": "",
-                "pt": ""
+                "es": "best-practices-for-the-success-of-your-vtex-store",
+                "pt": "best-practices-for-the-success-of-your-vtex-store"
               },
               "origin": "",
               "type": "category",
@@ -30361,8 +30361,8 @@
               },
               "slug": {
                 "en": "store-settings-overview-category",
-                "es": "",
-                "pt": ""
+                "es": "store-settings-overview",
+                "pt": "store-settings-overview"
               },
               "origin": "",
               "type": "category",
@@ -30409,8 +30409,8 @@
           },
           "slug": {
             "en": "subscriptions",
-            "es": "",
-            "pt": ""
+            "es": "subscriptions",
+            "pt": "subscriptions"
           },
           "origin": "",
           "type": "category",
@@ -30423,8 +30423,8 @@
               },
               "slug": {
                 "en": "subscription-guides",
-                "es": "",
-                "pt": ""
+                "es": "subscription-guides",
+                "pt": "subscription-guides"
               },
               "origin": "",
               "type": "category",
@@ -30591,8 +30591,8 @@
           },
           "slug": {
             "en": "trade-policies",
-            "es": "",
-            "pt": ""
+            "es": "trade-policies",
+            "pt": "trade-policies"
           },
           "origin": "",
           "type": "category",
@@ -30605,8 +30605,8 @@
               },
               "slug": {
                 "en": "trade-policies-overview",
-                "es": "",
-                "pt": ""
+                "es": "trade-policies-overview",
+                "pt": "trade-policies-overview"
               },
               "origin": "",
               "type": "category",
@@ -30696,8 +30696,8 @@
               },
               "slug": {
                 "en": "trade-policies-settings",
-                "es": "",
-                "pt": ""
+                "es": "trade-policies-settings",
+                "pt": "trade-policies-settings"
               },
               "origin": "",
               "type": "category",
@@ -30744,8 +30744,8 @@
           },
           "slug": {
             "en": "uncategorized",
-            "es": "",
-            "pt": ""
+            "es": "uncategorized",
+            "pt": "uncategorized"
           },
           "origin": "",
           "type": "category",
@@ -30758,8 +30758,8 @@
               },
               "slug": {
                 "en": "unknown-subcategory",
-                "es": "",
-                "pt": ""
+                "es": "unknown-subcategory",
+                "pt": "unknown-subcategory"
               },
               "origin": "",
               "type": "category",
@@ -31061,8 +31061,8 @@
           },
           "slug": {
             "en": "unified-commerce",
-            "es": "",
-            "pt": ""
+            "es": "unified-commerce",
+            "pt": "unified-commerce"
           },
           "origin": "",
           "type": "category",
@@ -31075,8 +31075,8 @@
               },
               "slug": {
                 "en": "vtex-sales-app",
-                "es": "",
-                "pt": ""
+                "es": "vtex-sales-app",
+                "pt": "vtex-sales-app"
               },
               "origin": "",
               "type": "category",
@@ -31228,8 +31228,8 @@
           },
           "slug": {
             "en": "vtex-tracking",
-            "es": "",
-            "pt": ""
+            "es": "vtex-tracking",
+            "pt": "vtex-tracking"
           },
           "origin": "",
           "type": "category",
@@ -31242,8 +31242,8 @@
               },
               "slug": {
                 "en": "indicators",
-                "es": "",
-                "pt": ""
+                "es": "indicators",
+                "pt": "indicators"
               },
               "origin": "",
               "type": "category",
@@ -31303,8 +31303,8 @@
               },
               "slug": {
                 "en": "mobile-app",
-                "es": "",
-                "pt": ""
+                "es": "mobile-app",
+                "pt": "mobile-app"
               },
               "origin": "",
               "type": "category",
@@ -31334,8 +31334,8 @@
               },
               "slug": {
                 "en": "overview-vtex-tracking",
-                "es": "",
-                "pt": ""
+                "es": "overview-vtex-tracking",
+                "pt": "overview-vtex-tracking"
               },
               "origin": "",
               "type": "category",
@@ -31380,8 +31380,8 @@
               },
               "slug": {
                 "en": "reports-category",
-                "es": "",
-                "pt": ""
+                "es": "reports",
+                "pt": "reports"
               },
               "origin": "",
               "type": "category",
@@ -31471,8 +31471,8 @@
               },
               "slug": {
                 "en": "routes-category",
-                "es": "",
-                "pt": ""
+                "es": "routes",
+                "pt": "routes"
               },
               "origin": "",
               "type": "category",
@@ -31532,8 +31532,8 @@
               },
               "slug": {
                 "en": "services",
-                "es": "",
-                "pt": ""
+                "es": "services",
+                "pt": "services"
               },
               "origin": "",
               "type": "category",
@@ -31593,8 +31593,8 @@
               },
               "slug": {
                 "en": "vtex-tracking-all-articles",
-                "es": "",
-                "pt": ""
+                "es": "vtex-tracking-all-articles",
+                "pt": "vtex-tracking-all-articles"
               },
               "origin": "",
               "type": "category",
@@ -31791,8 +31791,8 @@
           },
           "slug": {
             "en": "weni-by-vtex",
-            "es": "",
-            "pt": ""
+            "es": "weni-by-vtex",
+            "pt": "weni-by-vtex"
           },
           "origin": "",
           "type": "category",
@@ -31805,8 +31805,8 @@
               },
               "slug": {
                 "en": "agent-builder",
-                "es": "",
-                "pt": ""
+                "es": "agent-builder",
+                "pt": "agent-builder"
               },
               "origin": "",
               "type": "category",
@@ -31879,8 +31879,8 @@
           },
           "slug": {
             "en": "admin",
-            "es": "",
-            "pt": ""
+            "es": "admin",
+            "pt": "admin"
           },
           "origin": "",
           "type": "category",
@@ -31985,8 +31985,8 @@
           },
           "slug": {
             "en": "analytics",
-            "es": "",
-            "pt": ""
+            "es": "analytics",
+            "pt": "analytics"
           },
           "origin": "",
           "type": "category",
@@ -32076,8 +32076,8 @@
           },
           "slug": {
             "en": "app-platform",
-            "es": "",
-            "pt": ""
+            "es": "app-platform",
+            "pt": "app-platform"
           },
           "origin": "",
           "type": "category",
@@ -32107,8 +32107,8 @@
           },
           "slug": {
             "en": "apps",
-            "es": "",
-            "pt": ""
+            "es": "apps",
+            "pt": "apps"
           },
           "origin": "",
           "type": "category",
@@ -32213,8 +32213,8 @@
           },
           "slug": {
             "en": "b2b",
-            "es": "",
-            "pt": ""
+            "es": "b2b",
+            "pt": "b2b"
           },
           "origin": "",
           "type": "category",
@@ -32754,8 +32754,8 @@
           },
           "slug": {
             "en": "cms",
-            "es": "",
-            "pt": ""
+            "es": "cms",
+            "pt": "cms"
           },
           "origin": "",
           "type": "category",
@@ -33235,8 +33235,8 @@
           },
           "slug": {
             "en": "catalog",
-            "es": "",
-            "pt": ""
+            "es": "catalog",
+            "pt": "catalog"
           },
           "origin": "",
           "type": "category",
@@ -36476,8 +36476,8 @@
           },
           "slug": {
             "en": "channels",
-            "es": "",
-            "pt": ""
+            "es": "channels",
+            "pt": "channels"
           },
           "origin": "",
           "type": "category",
@@ -36732,8 +36732,8 @@
           },
           "slug": {
             "en": "checkout",
-            "es": "",
-            "pt": ""
+            "es": "checkout",
+            "pt": "checkout"
           },
           "origin": "",
           "type": "category",
@@ -40123,8 +40123,8 @@
           },
           "slug": {
             "en": "cloud-services",
-            "es": "",
-            "pt": ""
+            "es": "cloud-services",
+            "pt": "cloud-services"
           },
           "origin": "",
           "type": "category",
@@ -40154,8 +40154,8 @@
           },
           "slug": {
             "en": "connections",
-            "es": "",
-            "pt": ""
+            "es": "connections",
+            "pt": "connections"
           },
           "origin": "",
           "type": "category",
@@ -41880,8 +41880,8 @@
           },
           "slug": {
             "en": "faststore",
-            "es": "",
-            "pt": ""
+            "es": "faststore",
+            "pt": "faststore"
           },
           "origin": "",
           "type": "category",
@@ -42211,8 +42211,8 @@
           },
           "slug": {
             "en": "financial",
-            "es": "",
-            "pt": ""
+            "es": "financial",
+            "pt": "financial"
           },
           "origin": "",
           "type": "category",
@@ -42362,8 +42362,8 @@
           },
           "slug": {
             "en": "identity",
-            "es": "",
-            "pt": ""
+            "es": "identity",
+            "pt": "identity"
           },
           "origin": "",
           "type": "category",
@@ -42603,8 +42603,8 @@
           },
           "slug": {
             "en": "intelligent-search",
-            "es": "",
-            "pt": ""
+            "es": "intelligent-search",
+            "pt": "intelligent-search"
           },
           "origin": "",
           "type": "category",
@@ -43954,8 +43954,8 @@
           },
           "slug": {
             "en": "logistics",
-            "es": "",
-            "pt": ""
+            "es": "logistics",
+            "pt": "logistics"
           },
           "origin": "",
           "type": "category",
@@ -44585,8 +44585,8 @@
           },
           "slug": {
             "en": "marketing-merchandising",
-            "es": "",
-            "pt": ""
+            "es": "marketing-merchandising",
+            "pt": "marketing-merchandising"
           },
           "origin": "",
           "type": "category",
@@ -46326,8 +46326,8 @@
           },
           "slug": {
             "en": "marketplace",
-            "es": "",
-            "pt": ""
+            "es": "marketplace",
+            "pt": "marketplace"
           },
           "origin": "",
           "type": "category",
@@ -46852,8 +46852,8 @@
           },
           "slug": {
             "en": "master-data",
-            "es": "",
-            "pt": ""
+            "es": "master-data",
+            "pt": "master-data"
           },
           "origin": "",
           "type": "category",
@@ -47168,8 +47168,8 @@
           },
           "slug": {
             "en": "order-management",
-            "es": "",
-            "pt": ""
+            "es": "order-management",
+            "pt": "order-management"
           },
           "origin": "",
           "type": "category",
@@ -48684,8 +48684,8 @@
           },
           "slug": {
             "en": "other",
-            "es": "",
-            "pt": ""
+            "es": "other",
+            "pt": "other"
           },
           "origin": "",
           "type": "category",
@@ -48715,8 +48715,8 @@
           },
           "slug": {
             "en": "others",
-            "es": "",
-            "pt": ""
+            "es": "others",
+            "pt": "others"
           },
           "origin": "",
           "type": "category",
@@ -48776,8 +48776,8 @@
           },
           "slug": {
             "en": "payments",
-            "es": "",
-            "pt": ""
+            "es": "payments",
+            "pt": "payments"
           },
           "origin": "",
           "type": "category",
@@ -51462,8 +51462,8 @@
           },
           "slug": {
             "en": "physical-stores",
-            "es": "",
-            "pt": ""
+            "es": "physical-stores",
+            "pt": "physical-stores"
           },
           "origin": "",
           "type": "category",
@@ -51493,8 +51493,8 @@
           },
           "slug": {
             "en": "pick-and-pack",
-            "es": "",
-            "pt": ""
+            "es": "pick-and-pack",
+            "pt": "pick-and-pack"
           },
           "origin": "",
           "type": "category",
@@ -51524,8 +51524,8 @@
           },
           "slug": {
             "en": "portal",
-            "es": "",
-            "pt": ""
+            "es": "portal",
+            "pt": "portal"
           },
           "origin": "",
           "type": "category",
@@ -52350,8 +52350,8 @@
           },
           "slug": {
             "en": "post-purchase",
-            "es": "",
-            "pt": ""
+            "es": "post-purchase",
+            "pt": "post-purchase"
           },
           "origin": "",
           "type": "category",
@@ -52831,8 +52831,8 @@
           },
           "slug": {
             "en": "pricing-promotions",
-            "es": "",
-            "pt": ""
+            "es": "pricing-promotions",
+            "pt": "pricing-promotions"
           },
           "origin": "",
           "type": "category",
@@ -53777,8 +53777,8 @@
           },
           "slug": {
             "en": "reliability",
-            "es": "",
-            "pt": ""
+            "es": "reliability",
+            "pt": "reliability"
           },
           "origin": "",
           "type": "category",
@@ -53808,8 +53808,8 @@
           },
           "slug": {
             "en": "shopping",
-            "es": "",
-            "pt": ""
+            "es": "shopping",
+            "pt": "shopping"
           },
           "origin": "",
           "type": "category",
@@ -54229,8 +54229,8 @@
           },
           "slug": {
             "en": "storage",
-            "es": "",
-            "pt": ""
+            "es": "storage",
+            "pt": "storage"
           },
           "origin": "",
           "type": "category",
@@ -54545,8 +54545,8 @@
           },
           "slug": {
             "en": "store-framework",
-            "es": "",
-            "pt": ""
+            "es": "store-framework",
+            "pt": "store-framework"
           },
           "origin": "",
           "type": "category",
@@ -55986,8 +55986,8 @@
           },
           "slug": {
             "en": "vtex-log",
-            "es": "",
-            "pt": ""
+            "es": "vtex-log",
+            "pt": "vtex-log"
           },
           "origin": "",
           "type": "category",
@@ -56017,8 +56017,8 @@
           },
           "slug": {
             "en": "vtex-shipping-network-vtex-log",
-            "es": "",
-            "pt": ""
+            "es": "vtex-shipping-network-vtex-log",
+            "pt": "vtex-shipping-network-vtex-log"
           },
           "origin": "",
           "type": "category",
