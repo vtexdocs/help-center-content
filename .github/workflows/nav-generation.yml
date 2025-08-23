@@ -28,6 +28,19 @@ jobs:
         with:
           node-version: 20
 
+      - name: Configure GitHub token for git+https (for npx/clone)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -e
+          if [ -n "$GITHUB_TOKEN" ]; then
+            git config --global url."https://x-access-token:${GITHUB_TOKEN}@github.com/".insteadOf "https://github.com/"
+            git config --global url."https://x-access-token:${GITHUB_TOKEN}@github.com/".insteadOf "git@github.com:"
+            git config --global url."https://x-access-token:${GITHUB_TOKEN}@github.com/".insteadOf "ssh://git@github.com/"
+          else
+            echo "GITHUB_TOKEN not set; proceeding without authenticated git."
+          fi
+
       - name: Inspect runner credentials (gh)
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -68,22 +81,56 @@ jobs:
             # Speed up local runs under act to avoid long scans/logs
             EXTRA_ARGS="--languages en --sections announcements"
           fi
-          echo "Running generator with npx (ssh first, then https fallback). Extra args: ${EXTRA_ARGS}"
+          echo "Running generator with npx (github shorthand first, then git+https), with clone+build fallback. Extra args: ${EXTRA_ARGS}"
           # Capture output for summary; don't let the pipe hide failures
           set +e
-          npx --yes --package="git+ssh://git@github.com/vtexdocs/vtexhelp-nav-cli.git#main" --package=axios --package=dotenv \
+          # 1) Try GitHub shorthand (tarball install) — avoids git when possible
+          npx --yes --package="github:vtexdocs/vtexhelp-nav-cli#main" --package=axios --package=dotenv \
             vtex-nav gen --content-dir . --output public/navigation.json ${EXTRA_ARGS} 2>&1 | tee -a "$LOG"
           GEN_STATUS=${PIPESTATUS[0]}
           if [ $GEN_STATUS -ne 0 ]; then
-            echo "npx via SSH failed (exit $GEN_STATUS). Retrying via HTTPS..." | tee -a "$LOG"
+            echo "npx via github: failed (exit $GEN_STATUS). Retrying via git+https..." | tee -a "$LOG"
             npx --yes --package="git+https://github.com/vtexdocs/vtexhelp-nav-cli.git#main" --package=axios --package=dotenv \
               vtex-nav gen --content-dir . --output public/navigation.json ${EXTRA_ARGS} 2>&1 | tee -a "$LOG"
             GEN_STATUS=${PIPESTATUS[0]}
+          fi
+          if [ $GEN_STATUS -ne 0 ]; then
+            echo "npx failed (exit $GEN_STATUS). Falling back to clone+build path..." | tee -a "$LOG"
+            rm -rf vtexhelp-nav-cli
+            git clone --depth 1 https://github.com/vtexdocs/vtexhelp-nav-cli.git 2>&1 | tee -a "$LOG"
+            CLONE_STATUS=${PIPESTATUS[0]}
+            if [ $CLONE_STATUS -ne 0 ]; then
+              echo "git clone failed (exit $CLONE_STATUS)" | tee -a "$LOG"
+            else
+              (
+                set -e
+                cd vtexhelp-nav-cli
+                if [ -f yarn.lock ]; then
+                  corepack enable || true
+                  corepack prepare yarn@stable --activate || true
+                  yarn install --frozen-lockfile || yarn install
+                  yarn add axios dotenv
+                  yarn build
+                else
+                  npm ci || npm install --no-audit --no-fund
+                  npm install --no-audit --no-fund axios dotenv
+                  npm run build
+                fi
+              ) 2>&1 | tee -a "$LOG"
+              BUILD_STATUS=${PIPESTATUS[0]}
+              if [ $BUILD_STATUS -eq 0 ]; then
+                node vtexhelp-nav-cli/dist/cli.js gen --content-dir . --output public/navigation.json ${EXTRA_ARGS} 2>&1 | tee -a "$LOG"
+                GEN_STATUS=${PIPESTATUS[0]}
+              else
+                echo "CLI build failed (exit $BUILD_STATUS)" | tee -a "$LOG"
+              fi
+            fi
           fi
           set -e
           echo "Generator exit code: $GEN_STATUS" >> "$LOG"
           if [ $GEN_STATUS -ne 0 ]; then
             echo "Generator exited with code $GEN_STATUS"
+            exit $GEN_STATUS
           fi
 
       - name: Upload generated navigation as artifact
