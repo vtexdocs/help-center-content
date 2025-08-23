@@ -12754,13 +12754,13 @@
             {
               "name": {
                 "en": "Overview",
-                "es": "Overview",
-                "pt": "Overview"
+                "es": "Visión General",
+                "pt": "Visão Geral"
               },
               "slug": {
                 "en": "overview",
-                "es": "overview",
-                "pt": "overview"
+                "es": "visi-n-general",
+                "pt": "vis-o-geral"
               },
               "origin": "",
               "type": "category",
@@ -12801,12 +12801,12 @@
               "name": {
                 "en": "B2b Checkout Settings",
                 "es": "B2b Checkout Settings",
-                "pt": "B2b Checkout Settings"
+                "pt": "Configurações De Checkout B2b"
               },
               "slug": {
                 "en": "b2b-checkout-settings-category",
                 "es": "b2b-checkout-settings",
-                "pt": "b2b-checkout-settings"
+                "pt": "configura-es-de-checkout-b2b"
               },
               "origin": "",
               "type": "category",
@@ -12832,12 +12832,12 @@
               "name": {
                 "en": "B2b Orders History",
                 "es": "B2b Orders History",
-                "pt": "B2b Orders History"
+                "pt": "Histórico De Pedidos B2b"
               },
               "slug": {
                 "en": "b2b-orders-history",
                 "es": "b2b-orders-history",
-                "pt": "b2b-orders-history"
+                "pt": "hist-rico-de-pedidos-b2b"
               },
               "origin": "",
               "type": "category",
@@ -12862,13 +12862,13 @@
             {
               "name": {
                 "en": "B2b Organizations",
-                "es": "B2b Organizations",
-                "pt": "B2b Organizations"
+                "es": "Organizaciones B2b",
+                "pt": "Organizações B2b"
               },
               "slug": {
                 "en": "b2b-organizations",
-                "es": "b2b-organizations",
-                "pt": "b2b-organizations"
+                "es": "organizaciones-b2b",
+                "pt": "organiza-es-b2b"
               },
               "origin": "",
               "type": "category",
@@ -12938,13 +12938,13 @@
             {
               "name": {
                 "en": "B2b Quotes",
-                "es": "B2b Quotes",
-                "pt": "B2b Quotes"
+                "es": "Cotizaciones B2b",
+                "pt": "Cotações B2b"
               },
               "slug": {
                 "en": "b2b-quotes",
-                "es": "b2b-quotes",
-                "pt": "b2b-quotes"
+                "es": "cotizaciones-b2b",
+                "pt": "cota-es-b2b"
               },
               "origin": "",
               "type": "category",
@@ -12969,13 +12969,13 @@
             {
               "name": {
                 "en": "Organization Details",
-                "es": "Organization Details",
-                "pt": "Organization Details"
+                "es": "Detalles De La Organización",
+                "pt": "Detalhes Da Organização"
               },
               "slug": {
                 "en": "organization-details",
-                "es": "organization-details",
-                "pt": "organization-details"
+                "es": "detalles-de-la-organizaci-n",
+                "pt": "detalhes-da-organiza-o"
               },
               "origin": "",
               "type": "category",
@@ -13120,13 +13120,13 @@
             {
               "name": {
                 "en": "Practical Guides",
-                "es": "Practical Guides",
-                "pt": "Practical Guides"
+                "es": "Guías Práticas",
+                "pt": "Guias Práticos"
               },
               "slug": {
                 "en": "practical-guides",
-                "es": "practical-guides",
-                "pt": "practical-guides"
+                "es": "gu-as-pr-ticas",
+                "pt": "guias-pr-ticos"
               },
               "origin": "",
               "type": "category",
@@ -13166,13 +13166,13 @@
             {
               "name": {
                 "en": "Storefront Permissions",
-                "es": "Storefront Permissions",
-                "pt": "Storefront Permissions"
+                "es": "Permisos Del Storefront",
+                "pt": "Permissões Da Loja"
               },
               "slug": {
                 "en": "storefront-permissions",
-                "es": "storefront-permissions",
-                "pt": "storefront-permissions"
+                "es": "permisos-del-storefront",
+                "pt": "permiss-es-da-loja"
               },
               "origin": "",
               "type": "category",
@@ -13199,13 +13199,13 @@
         {
           "name": {
             "en": "Billing",
-            "es": "Billing",
-            "pt": "Billing"
+            "es": "Facturas",
+            "pt": "Faturas"
           },
           "slug": {
             "en": "billing",
-            "es": "billing",
-            "pt": "billing"
+            "es": "facturas",
+            "pt": "faturas"
           },
           "origin": "",
           "type": "category",
@@ -13213,13 +13213,13 @@
             {
               "name": {
                 "en": "Contracts",
-                "es": "Contracts",
-                "pt": "Contracts"
+                "es": "Contratos",
+                "pt": "Contratos"
               },
               "slug": {
                 "en": "contracts",
-                "es": "contracts",
-                "pt": "contracts"
+                "es": "contratos",
+                "pt": "contratos"
               },
               "origin": "",
               "type": "category",
@@ -13334,13 +13334,13 @@
             {
               "name": {
                 "en": "Invoices",
-                "es": "Invoices",
-                "pt": "Invoices"
+                "es": "Títulos",
+                "pt": "Títulos"
               },
               "slug": {
                 "en": "invoices",
-                "es": "invoices",
-                "pt": "invoices"
+                "es": "t-tulos",
+                "pt": "t-tulos"
               },
               "origin": "",
               "type": "category",
@@ -13455,13 +13455,13 @@
             {
               "name": {
                 "en": "Registration Data",
-                "es": "Registration Data",
-                "pt": "Registration Data"
+                "es": "Datos De Registro",
+                "pt": "Dados Cadastrais"
               },
               "slug": {
                 "en": "registration-data",
-                "es": "registration-data",
-                "pt": "registration-data"
+                "es": "datos-de-registro",
+                "pt": "dados-cadastrais"
               },
               "origin": "",
               "type": "category",
@@ -13488,13 +13488,13 @@
         {
           "name": {
             "en": "Catalog",
-            "es": "Catalog",
-            "pt": "Catalog"
+            "es": "Catalogo",
+            "pt": "Catálogo"
           },
           "slug": {
             "en": "catalog",
-            "es": "catalog",
-            "pt": "catalog"
+            "es": "catalogo",
+            "pt": "cat-logo"
           },
           "origin": "",
           "type": "category",
@@ -13502,13 +13502,13 @@
             {
               "name": {
                 "en": "Brands",
-                "es": "Brands",
-                "pt": "Brands"
+                "es": "Marcas",
+                "pt": "Marcas"
               },
               "slug": {
                 "en": "brands",
-                "es": "brands",
-                "pt": "brands"
+                "es": "marcas",
+                "pt": "marcas"
               },
               "origin": "",
               "type": "category",
@@ -13563,13 +13563,13 @@
             {
               "name": {
                 "en": "Categories",
-                "es": "Categories",
-                "pt": "Categories"
+                "es": "Categorías",
+                "pt": "Categorias"
               },
               "slug": {
                 "en": "categories",
-                "es": "categories",
-                "pt": "categories"
+                "es": "categor-as",
+                "pt": "categorias"
               },
               "origin": "",
               "type": "category",
@@ -13744,13 +13744,13 @@
             {
               "name": {
                 "en": "Collection",
-                "es": "Collection",
-                "pt": "Collection"
+                "es": "Colecciones",
+                "pt": "Coleções"
               },
               "slug": {
                 "en": "collection",
-                "es": "collection",
-                "pt": "collection"
+                "es": "colecciones",
+                "pt": "cole-es"
               },
               "origin": "",
               "type": "category",
@@ -13896,13 +13896,13 @@
             {
               "name": {
                 "en": "Reports",
-                "es": "Reports",
-                "pt": "Reports"
+                "es": "Informes",
+                "pt": "Relatórios"
               },
               "slug": {
                 "en": "reports",
-                "es": "reports",
-                "pt": "reports"
+                "es": "informes",
+                "pt": "relat-rios"
               },
               "origin": "",
               "type": "category",
@@ -13972,13 +13972,13 @@
             {
               "name": {
                 "en": "Search",
-                "es": "Search",
-                "pt": "Search"
+                "es": "Búsqueda",
+                "pt": "Busca"
               },
               "slug": {
                 "en": "search",
-                "es": "search",
-                "pt": "search"
+                "es": "b-squeda",
+                "pt": "busca"
               },
               "origin": "",
               "type": "category",
@@ -14048,13 +14048,13 @@
             {
               "name": {
                 "en": "Catalog Overview",
-                "es": "Catalog Overview",
-                "pt": "Catalog Overview"
+                "es": "Catálogo Visión General",
+                "pt": "Catálogo Visão Geral"
               },
               "slug": {
                 "en": "catalog-overview",
-                "es": "catalog-overview",
-                "pt": "catalog-overview"
+                "es": "cat-logo-visi-n-general",
+                "pt": "cat-logo-vis-o-geral"
               },
               "origin": "",
               "type": "category",
@@ -14079,13 +14079,13 @@
             {
               "name": {
                 "en": "Commercial Conditions",
-                "es": "Commercial Conditions",
-                "pt": "Commercial Conditions"
+                "es": "Condiciones Comerciales",
+                "pt": "Condições Comerciais"
               },
               "slug": {
                 "en": "commercial-conditions",
-                "es": "commercial-conditions",
-                "pt": "commercial-conditions"
+                "es": "condiciones-comerciales",
+                "pt": "condi-es-comerciais"
               },
               "origin": "",
               "type": "category",
@@ -14110,13 +14110,13 @@
             {
               "name": {
                 "en": "Custom Product Attributes",
-                "es": "Custom Product Attributes",
-                "pt": "Custom Product Attributes"
+                "es": "Campos Personalizados",
+                "pt": "Campos Personalizados"
               },
               "slug": {
                 "en": "custom-product-attributes",
-                "es": "custom-product-attributes",
-                "pt": "custom-product-attributes"
+                "es": "campos-personalizados",
+                "pt": "campos-personalizados"
               },
               "origin": "",
               "type": "category",
@@ -14216,13 +14216,13 @@
             {
               "name": {
                 "en": "Import And Export",
-                "es": "Import And Export",
-                "pt": "Import And Export"
+                "es": "Importación Y Exportación",
+                "pt": "Importação E Exportação"
               },
               "slug": {
                 "en": "import-and-export",
-                "es": "import-and-export",
-                "pt": "import-and-export"
+                "es": "importaci-n-y-exportaci-n",
+                "pt": "importa-o-e-exporta-o"
               },
               "origin": "",
               "type": "category",
@@ -14292,13 +14292,13 @@
             {
               "name": {
                 "en": "List Types",
-                "es": "List Types",
-                "pt": "List Types"
+                "es": "Tipos De Lista",
+                "pt": "Tipos De Lista"
               },
               "slug": {
                 "en": "list-types",
-                "es": "list-types",
-                "pt": "list-types"
+                "es": "tipos-de-lista",
+                "pt": "tipos-de-lista"
               },
               "origin": "",
               "type": "category",
@@ -14353,13 +14353,13 @@
             {
               "name": {
                 "en": "Products And Skus",
-                "es": "Products And Skus",
-                "pt": "Products And Skus"
+                "es": "Productos Y Skus",
+                "pt": "Produtos E Skus"
               },
               "slug": {
                 "en": "products-and-skus-category",
-                "es": "products-and-skus",
-                "pt": "products-and-skus"
+                "es": "productos-y-skus-category",
+                "pt": "produtos-e-skus-category"
               },
               "origin": "",
               "type": "category",
@@ -14744,13 +14744,13 @@
             {
               "name": {
                 "en": "Xml Integration",
-                "es": "Xml Integration",
-                "pt": "Xml Integration"
+                "es": "Integraciones Xml",
+                "pt": "Integração Xml"
               },
               "slug": {
                 "en": "xml-integration",
-                "es": "xml-integration",
-                "pt": "xml-integration"
+                "es": "integraciones-xml",
+                "pt": "integra-o-xml"
               },
               "origin": "",
               "type": "category",
@@ -14836,13 +14836,13 @@
             {
               "name": {
                 "en": "Checkout Overview",
-                "es": "Checkout Overview",
-                "pt": "Checkout Overview"
+                "es": "Visión De Conjunto De Checkout",
+                "pt": "Visão Geral Do Checkout"
               },
               "slug": {
                 "en": "checkout-overview",
-                "es": "checkout-overview",
-                "pt": "checkout-overview"
+                "es": "visi-n-de-conjunto-de-checkout",
+                "pt": "vis-o-geral-do-checkout"
               },
               "origin": "",
               "type": "category",
@@ -14942,13 +14942,13 @@
             {
               "name": {
                 "en": "Checkout Settings",
-                "es": "Checkout Settings",
-                "pt": "Checkout Settings"
+                "es": "Configuración De Checkout",
+                "pt": "Configurações Do Checkout"
               },
               "slug": {
                 "en": "checkout-settings",
-                "es": "checkout-settings",
-                "pt": "checkout-settings"
+                "es": "configuraci-n-de-checkout",
+                "pt": "configura-es-do-checkout"
               },
               "origin": "",
               "type": "category",
@@ -15306,13 +15306,13 @@
         {
           "name": {
             "en": "Integrations",
-            "es": "Integrations",
-            "pt": "Integrations"
+            "es": "Integraciones",
+            "pt": "Integrações"
           },
           "slug": {
             "en": "integrations",
-            "es": "integrations",
-            "pt": "integrations"
+            "es": "integraciones",
+            "pt": "integra-es"
           },
           "origin": "",
           "type": "category",
@@ -15320,13 +15320,13 @@
             {
               "name": {
                 "en": "Inventory",
-                "es": "Inventory",
-                "pt": "Inventory"
+                "es": "Valores",
+                "pt": "Estoque"
               },
               "slug": {
                 "en": "inventory",
-                "es": "inventory",
-                "pt": "inventory"
+                "es": "valores",
+                "pt": "estoque"
               },
               "origin": "",
               "type": "category",
@@ -15516,13 +15516,13 @@
             {
               "name": {
                 "en": "Orders",
-                "es": "Orders",
-                "pt": "Orders"
+                "es": "Pedidos",
+                "pt": "Pedidos"
               },
               "slug": {
                 "en": "orders",
-                "es": "orders",
-                "pt": "orders"
+                "es": "pedidos",
+                "pt": "pedidos"
               },
               "origin": "",
               "type": "category",
@@ -15712,13 +15712,13 @@
             {
               "name": {
                 "en": "Price",
-                "es": "Price",
-                "pt": "Price"
+                "es": "Precio",
+                "pt": "Preço"
               },
               "slug": {
                 "en": "price",
-                "es": "price",
-                "pt": "price"
+                "es": "precio",
+                "pt": "pre-o"
               },
               "origin": "",
               "type": "category",
@@ -15773,13 +15773,13 @@
             {
               "name": {
                 "en": "Products",
-                "es": "Products",
-                "pt": "Products"
+                "es": "Productos",
+                "pt": "Produtos"
               },
               "slug": {
                 "en": "products",
-                "es": "products",
-                "pt": "products"
+                "es": "productos",
+                "pt": "produtos"
               },
               "origin": "",
               "type": "category",
@@ -15834,13 +15834,13 @@
             {
               "name": {
                 "en": "Integration Settings",
-                "es": "Integration Settings",
-                "pt": "Integration Settings"
+                "es": "Configuración De Las Integraciones",
+                "pt": "Configurações De Integrações"
               },
               "slug": {
                 "en": "integration-settings",
-                "es": "integration-settings",
-                "pt": "integration-settings"
+                "es": "configuraci-n-de-las-integraciones",
+                "pt": "configura-es-de-integra-es"
               },
               "origin": "",
               "type": "category",
@@ -16330,13 +16330,13 @@
             {
               "name": {
                 "en": "Integrations Overview",
-                "es": "Integrations Overview",
-                "pt": "Integrations Overview"
+                "es": "Visión De Conjunto De Integraciones",
+                "pt": "Visão Geral De Integrações"
               },
               "slug": {
                 "en": "integrations-overview",
-                "es": "integrations-overview",
-                "pt": "integrations-overview"
+                "es": "visi-n-de-conjunto-de-integraciones",
+                "pt": "vis-o-geral-de-integra-es"
               },
               "origin": "",
               "type": "category",
@@ -16526,13 +16526,13 @@
             {
               "name": {
                 "en": "Offer Management",
-                "es": "Offer Management",
-                "pt": "Offer Management"
+                "es": "Gestión De Anuncios",
+                "pt": "Gerenciamento De Anúncios"
               },
               "slug": {
                 "en": "offer-management",
-                "es": "offer-management",
-                "pt": "offer-management"
+                "es": "gesti-n-de-anuncios",
+                "pt": "gerenciamento-de-an-ncios"
               },
               "origin": "",
               "type": "category",
@@ -16589,13 +16589,13 @@
         {
           "name": {
             "en": "Operational",
-            "es": "Operational",
-            "pt": "Operational"
+            "es": "Operativo",
+            "pt": "Operacional"
           },
           "slug": {
             "en": "operational",
-            "es": "operational",
-            "pt": "operational"
+            "es": "operativo",
+            "pt": "operacional"
           },
           "origin": "",
           "type": "category",
@@ -16603,13 +16603,13 @@
             {
               "name": {
                 "en": "Financial",
-                "es": "Financial",
-                "pt": "Financial"
+                "es": "Financiero",
+                "pt": "Financeiro"
               },
               "slug": {
                 "en": "financial",
-                "es": "financial",
-                "pt": "financial"
+                "es": "financiero",
+                "pt": "financeiro"
               },
               "origin": "",
               "type": "category",
@@ -16664,13 +16664,13 @@
             {
               "name": {
                 "en": "Support",
-                "es": "Support",
-                "pt": "Support"
+                "es": "Apoyo",
+                "pt": "Suporte"
               },
               "slug": {
                 "en": "support",
-                "es": "support",
-                "pt": "support"
+                "es": "apoyo",
+                "pt": "suporte"
               },
               "origin": "",
               "type": "category",
@@ -16770,13 +16770,13 @@
             {
               "name": {
                 "en": "Vtex Admin",
-                "es": "Vtex Admin",
-                "pt": "Vtex Admin"
+                "es": "Admin Vtex",
+                "pt": "Admin Vtex"
               },
               "slug": {
                 "en": "vtex-admin",
-                "es": "vtex-admin",
-                "pt": "vtex-admin"
+                "es": "admin-vtex",
+                "pt": "admin-vtex"
               },
               "origin": "",
               "type": "category",
@@ -16818,13 +16818,13 @@
         {
           "name": {
             "en": "Other",
-            "es": "Other",
-            "pt": "Other"
+            "es": "Otros",
+            "pt": "Outros"
           },
           "slug": {
             "en": "other",
-            "es": "other",
-            "pt": "other"
+            "es": "otros",
+            "pt": "outros"
           },
           "origin": "",
           "type": "category",
@@ -16832,13 +16832,13 @@
             {
               "name": {
                 "en": "Uncategorized",
-                "es": "Uncategorized",
-                "pt": "Uncategorized"
+                "es": "No Categorizado",
+                "pt": "Não Categorizado"
               },
               "slug": {
                 "en": "uncategorized",
-                "es": "uncategorized",
-                "pt": "uncategorized"
+                "es": "no-categorizado",
+                "pt": "n-o-categorizado"
               },
               "origin": "",
               "type": "category",
@@ -16909,13 +16909,13 @@
             {
               "name": {
                 "en": "Scheduling Features",
-                "es": "Scheduling Features",
-                "pt": "Scheduling Features"
+                "es": "Programación De Funcionalidades",
+                "pt": "Agendamento"
               },
               "slug": {
                 "en": "scheduling-features",
-                "es": "scheduling-features",
-                "pt": "scheduling-features"
+                "es": "programaci-n-de-funcionalidades",
+                "pt": "agendamento"
               },
               "origin": "",
               "type": "category",
@@ -16942,13 +16942,13 @@
         {
           "name": {
             "en": "Payments",
-            "es": "Payments",
-            "pt": "Payments"
+            "es": "Pagos",
+            "pt": "Pagamentos"
           },
           "slug": {
             "en": "payments",
-            "es": "payments",
-            "pt": "payments"
+            "es": "pagos",
+            "pt": "pagamentos"
           },
           "origin": "",
           "type": "category",
@@ -16956,13 +16956,13 @@
             {
               "name": {
                 "en": "Transactions",
-                "es": "Transactions",
-                "pt": "Transactions"
+                "es": "Transacciones",
+                "pt": "Transações"
               },
               "slug": {
                 "en": "transactions",
-                "es": "transactions",
-                "pt": "transactions"
+                "es": "transacciones",
+                "pt": "transa-es"
               },
               "origin": "",
               "type": "category",
@@ -17197,13 +17197,13 @@
             {
               "name": {
                 "en": "Bank Conciliation",
-                "es": "Bank Conciliation",
-                "pt": "Bank Conciliation"
+                "es": "Conciliaciones Bancarias",
+                "pt": "Conciliação Bancária"
               },
               "slug": {
                 "en": "bank-conciliation",
-                "es": "bank-conciliation",
-                "pt": "bank-conciliation"
+                "es": "conciliaciones-bancarias-category",
+                "pt": "concilia-o-banc-ria"
               },
               "origin": "",
               "type": "category",
@@ -17243,13 +17243,13 @@
             {
               "name": {
                 "en": "Gift Card",
-                "es": "Gift Card",
-                "pt": "Gift Card"
+                "es": "Tarjeta De Regalo",
+                "pt": "Vale Compra"
               },
               "slug": {
                 "en": "gift-card-category",
-                "es": "gift-card",
-                "pt": "gift-card"
+                "es": "tarjeta-de-regalo",
+                "pt": "vale-compra"
               },
               "origin": "",
               "type": "category",
@@ -17274,13 +17274,13 @@
             {
               "name": {
                 "en": "Payment Settings",
-                "es": "Payment Settings",
-                "pt": "Payment Settings"
+                "es": "Configuración De Pagos",
+                "pt": "Configurações De Pagamentos"
               },
               "slug": {
                 "en": "payment-settings",
-                "es": "payment-settings",
-                "pt": "payment-settings"
+                "es": "configuraci-n-de-pagos",
+                "pt": "configura-es-de-pagamentos"
               },
               "origin": "",
               "type": "category",
@@ -20065,13 +20065,13 @@
             {
               "name": {
                 "en": "Payments Overview",
-                "es": "Payments Overview",
-                "pt": "Payments Overview"
+                "es": "Visión De Conjunto De Pagos",
+                "pt": "Visão Geral De Pagamentos"
               },
               "slug": {
                 "en": "payments-overview",
-                "es": "payments-overview",
-                "pt": "payments-overview"
+                "es": "visi-n-de-conjunto-de-pagos",
+                "pt": "vis-o-geral-de-pagamentos"
               },
               "origin": "",
               "type": "category",
@@ -20473,13 +20473,13 @@
         {
           "name": {
             "en": "Prices",
-            "es": "Prices",
-            "pt": "Prices"
+            "es": "Precios",
+            "pt": "Preços"
           },
           "slug": {
             "en": "prices",
-            "es": "prices",
-            "pt": "prices"
+            "es": "precios",
+            "pt": "pre-os"
           },
           "origin": "",
           "type": "category",
@@ -20518,13 +20518,13 @@
             {
               "name": {
                 "en": "Price List",
-                "es": "Price List",
-                "pt": "Price List"
+                "es": "Lista De Precios",
+                "pt": "Lista De Preços"
               },
               "slug": {
                 "en": "price-list",
-                "es": "price-list",
-                "pt": "price-list"
+                "es": "lista-de-precios",
+                "pt": "lista-de-pre-os"
               },
               "origin": "",
               "type": "category",
@@ -20669,13 +20669,13 @@
             {
               "name": {
                 "en": "Price Rules",
-                "es": "Price Rules",
-                "pt": "Price Rules"
+                "es": "Reglas De Precio",
+                "pt": "Regras De Preço"
               },
               "slug": {
                 "en": "price-rules",
-                "es": "price-rules",
-                "pt": "price-rules"
+                "es": "reglas-de-precio",
+                "pt": "regras-de-pre-o"
               },
               "origin": "",
               "type": "category",
@@ -20700,13 +20700,13 @@
             {
               "name": {
                 "en": "Price Settings",
-                "es": "Price Settings",
-                "pt": "Price Settings"
+                "es": "Configuración De Precios",
+                "pt": "Configurações De Preços"
               },
               "slug": {
                 "en": "price-settings",
-                "es": "price-settings",
-                "pt": "price-settings"
+                "es": "configuraci-n-de-precios",
+                "pt": "configura-es-de-pre-os"
               },
               "origin": "",
               "type": "category",
@@ -20746,13 +20746,13 @@
             {
               "name": {
                 "en": "Rounding Rules",
-                "es": "Rounding Rules",
-                "pt": "Rounding Rules"
+                "es": "Redondeo De Precios",
+                "pt": "Arredondamento De Preços"
               },
               "slug": {
                 "en": "rounding-rules-category",
-                "es": "rounding-rules",
-                "pt": "rounding-rules"
+                "es": "redondeo-de-precios-category",
+                "pt": "arredondamento-de-pre-os"
               },
               "origin": "",
               "type": "category",
@@ -20793,13 +20793,13 @@
             {
               "name": {
                 "en": "Management",
-                "es": "Management",
-                "pt": "Management"
+                "es": "Gestión",
+                "pt": "Gerenciamento"
               },
               "slug": {
                 "en": "management",
-                "es": "management",
-                "pt": "management"
+                "es": "gesti-n",
+                "pt": "gerenciamento"
               },
               "origin": "",
               "type": "category",
@@ -20839,13 +20839,13 @@
             {
               "name": {
                 "en": "Categories And Brands",
-                "es": "Categories And Brands",
-                "pt": "Categories And Brands"
+                "es": "Categorías Y Marcas",
+                "pt": "Categorias E Marcas"
               },
               "slug": {
                 "en": "categories-and-brands",
-                "es": "categories-and-brands",
-                "pt": "categories-and-brands"
+                "es": "categor-as-y-marcas",
+                "pt": "categorias-e-marcas"
               },
               "origin": "",
               "type": "category",
@@ -20885,13 +20885,13 @@
             {
               "name": {
                 "en": "Received Skus",
-                "es": "Received Skus",
-                "pt": "Received Skus"
+                "es": "Skus Recibidos",
+                "pt": "Skus Recebidos"
               },
               "slug": {
                 "en": "received-skus",
-                "es": "received-skus",
-                "pt": "received-skus"
+                "es": "skus-recibidos",
+                "pt": "skus-recebidos"
               },
               "origin": "",
               "type": "category",
@@ -21142,13 +21142,13 @@
             {
               "name": {
                 "en": "Sellers Overview",
-                "es": "Sellers Overview",
-                "pt": "Sellers Overview"
+                "es": "Visión De Conjunto De Sellers",
+                "pt": "Visão Geral De Sellers"
               },
               "slug": {
                 "en": "sellers-overview",
-                "es": "sellers-overview",
-                "pt": "sellers-overview"
+                "es": "visi-n-de-conjunto-de-sellers",
+                "pt": "vis-o-geral-de-sellers"
               },
               "origin": "",
               "type": "category",
@@ -21278,13 +21278,13 @@
             {
               "name": {
                 "en": "Sku Binding",
-                "es": "Sku Binding",
-                "pt": "Sku Binding"
+                "es": "Vínculos De Sku",
+                "pt": "Vínculos De Sku"
               },
               "slug": {
                 "en": "sku-binding",
-                "es": "sku-binding",
-                "pt": "sku-binding"
+                "es": "v-nculos-de-sku",
+                "pt": "v-nculos-de-sku"
               },
               "origin": "",
               "type": "category",
@@ -21326,13 +21326,13 @@
         {
           "name": {
             "en": "Shipping",
-            "es": "Shipping",
-            "pt": "Shipping"
+            "es": "Envío",
+            "pt": "Envio"
           },
           "slug": {
             "en": "shipping",
-            "es": "shipping",
-            "pt": "shipping"
+            "es": "env-o",
+            "pt": "envio"
           },
           "origin": "",
           "type": "category",
@@ -21340,13 +21340,13 @@
             {
               "name": {
                 "en": "Holidays",
-                "es": "Holidays",
-                "pt": "Holidays"
+                "es": "Festivos",
+                "pt": "Feriados"
               },
               "slug": {
                 "en": "holidays",
-                "es": "holidays",
-                "pt": "holidays"
+                "es": "festivos",
+                "pt": "feriados"
               },
               "origin": "",
               "type": "category",
@@ -21371,13 +21371,13 @@
             {
               "name": {
                 "en": "Inventory",
-                "es": "Inventory",
-                "pt": "Inventory"
+                "es": "Inventario",
+                "pt": "Inventário"
               },
               "slug": {
                 "en": "inventory",
-                "es": "inventory",
-                "pt": "inventory"
+                "es": "inventario",
+                "pt": "invent-rio"
               },
               "origin": "",
               "type": "category",
@@ -21462,13 +21462,13 @@
             {
               "name": {
                 "en": "Geolocation Shipping",
-                "es": "Geolocation Shipping",
-                "pt": "Geolocation Shipping"
+                "es": "Envío Por Geolocalización",
+                "pt": "Envio Por Geolocalização"
               },
               "slug": {
                 "en": "geolocation-shipping",
-                "es": "geolocation-shipping",
-                "pt": "geolocation-shipping"
+                "es": "env-o-por-geolocalizaci-n",
+                "pt": "envio-por-geolocaliza-o"
               },
               "origin": "",
               "type": "category",
@@ -21493,13 +21493,13 @@
             {
               "name": {
                 "en": "Inventory And Shipping Settings",
-                "es": "Inventory And Shipping Settings",
-                "pt": "Inventory And Shipping Settings"
+                "es": "Configuración De Inventario Y Envío",
+                "pt": "Configurações De Estoque E Entrega"
               },
               "slug": {
                 "en": "inventory-and-shipping-settings",
-                "es": "inventory-and-shipping-settings",
-                "pt": "inventory-and-shipping-settings"
+                "es": "configuraci-n-de-inventario-y-env-o",
+                "pt": "configura-es-de-estoque-e-entrega"
               },
               "origin": "",
               "type": "category",
@@ -21584,13 +21584,13 @@
             {
               "name": {
                 "en": "Logistics Overview",
-                "es": "Logistics Overview",
-                "pt": "Logistics Overview"
+                "es": "Visión General De La Logística",
+                "pt": "Visão Geral Da Logística"
               },
               "slug": {
                 "en": "logistics-overview",
-                "es": "logistics-overview",
-                "pt": "logistics-overview"
+                "es": "visi-n-general-de-la-log-stica",
+                "pt": "vis-o-geral-da-log-stica"
               },
               "origin": "",
               "type": "category",
@@ -21645,13 +21645,13 @@
             {
               "name": {
                 "en": "Pickup Points",
-                "es": "Pickup Points",
-                "pt": "Pickup Points"
+                "es": "Puntos De Recogida",
+                "pt": "Pontos De Retirada"
               },
               "slug": {
                 "en": "pickup-points-category",
-                "es": "pickup-points",
-                "pt": "pickup-points"
+                "es": "puntos-de-recogida-category",
+                "pt": "pontos-de-retirada-category"
               },
               "origin": "",
               "type": "category",
@@ -21691,13 +21691,13 @@
             {
               "name": {
                 "en": "Shipping Rates",
-                "es": "Shipping Rates",
-                "pt": "Shipping Rates"
+                "es": "Tarifas De Envío",
+                "pt": "Tarifas De Envio"
               },
               "slug": {
                 "en": "shipping-rates",
-                "es": "shipping-rates",
-                "pt": "shipping-rates"
+                "es": "tarifas-de-env-o",
+                "pt": "tarifas-de-envio"
               },
               "origin": "",
               "type": "category",
@@ -21737,13 +21737,13 @@
             {
               "name": {
                 "en": "Shipping Simulator",
-                "es": "Shipping Simulator",
-                "pt": "Shipping Simulator"
+                "es": "Simulador De Envío",
+                "pt": "Simulador De Envio"
               },
               "slug": {
                 "en": "shipping-simulator",
-                "es": "shipping-simulator",
-                "pt": "shipping-simulator"
+                "es": "simulador-de-env-o",
+                "pt": "simulador-de-envio-category"
               },
               "origin": "",
               "type": "category",
@@ -21783,13 +21783,13 @@
             {
               "name": {
                 "en": "Shipping Strategy",
-                "es": "Shipping Strategy",
-                "pt": "Shipping Strategy"
+                "es": "Estratégia De Envío",
+                "pt": "Estratégia De Envio"
               },
               "slug": {
                 "en": "shipping-strategy-category",
-                "es": "shipping-strategy",
-                "pt": "shipping-strategy"
+                "es": "estrat-gia-de-env-o",
+                "pt": "estrat-gia-de-envio"
               },
               "origin": "",
               "type": "category",
@@ -22149,8 +22149,8 @@
               },
               "slug": {
                 "en": "vtex-pick-and-pack-category",
-                "es": "vtex-pick-and-pack",
-                "pt": "vtex-pick-and-pack"
+                "es": "vtex-pick-and-pack-category",
+                "pt": "vtex-pick-and-pack-category"
               },
               "origin": "",
               "type": "category",
@@ -23378,13 +23378,13 @@
             {
               "name": {
                 "en": "Pages",
-                "es": "Pages",
-                "pt": "Pages"
+                "es": "Páginas",
+                "pt": "Páginas"
               },
               "slug": {
                 "en": "pages",
-                "es": "pages",
-                "pt": "pages"
+                "es": "p-ginas",
+                "pt": "p-ginas"
               },
               "origin": "",
               "type": "category",
@@ -23454,13 +23454,13 @@
             {
               "name": {
                 "en": "Styles",
-                "es": "Styles",
-                "pt": "Styles"
+                "es": "Estilos",
+                "pt": "Estilos"
               },
               "slug": {
                 "en": "styles",
-                "es": "styles",
-                "pt": "styles"
+                "es": "estilos",
+                "pt": "estilos"
               },
               "origin": "",
               "type": "category",
@@ -23727,13 +23727,13 @@
             {
               "name": {
                 "en": "Store Settings   Storefront",
-                "es": "Store Settings   Storefront",
-                "pt": "Store Settings   Storefront"
+                "es": "Configuración De La Tienda   Storefront",
+                "pt": "Configurações Da Loja   Storefront"
               },
               "slug": {
                 "en": "store-settings-storefront",
-                "es": "store-settings-storefront",
-                "pt": "store-settings-storefront"
+                "es": "configuraci-n-de-la-tienda-storefront",
+                "pt": "configura-es-da-loja-storefront"
               },
               "origin": "",
               "type": "category",
@@ -23923,13 +23923,13 @@
             {
               "name": {
                 "en": "Storefront Overview",
-                "es": "Storefront Overview",
-                "pt": "Storefront Overview"
+                "es": "Visión General Storefront",
+                "pt": "Visão Geral Storefront"
               },
               "slug": {
                 "en": "storefront-overview-category",
-                "es": "storefront-overview",
-                "pt": "storefront-overview"
+                "es": "visi-n-general-storefront",
+                "pt": "vis-o-geral-storefront"
               },
               "origin": "",
               "type": "category",
@@ -23956,13 +23956,13 @@
         {
           "name": {
             "en": "Suggestions",
-            "es": "Suggestions",
-            "pt": "Suggestions"
+            "es": "Sugerencias",
+            "pt": "Sugestões"
           },
           "slug": {
             "en": "suggestions",
-            "es": "suggestions",
-            "pt": "suggestions"
+            "es": "sugerencias",
+            "pt": "sugest-es"
           },
           "origin": "",
           "type": "category",
@@ -23970,13 +23970,13 @@
             {
               "name": {
                 "en": "Pending",
-                "es": "Pending",
-                "pt": "Pending"
+                "es": "Productos",
+                "pt": "Pendentes"
               },
               "slug": {
                 "en": "pending",
-                "es": "pending",
-                "pt": "pending"
+                "es": "productos",
+                "pt": "pendentes"
               },
               "origin": "",
               "type": "category",
@@ -24001,13 +24001,13 @@
             {
               "name": {
                 "en": "Processing",
-                "es": "Processing",
-                "pt": "Processing"
+                "es": "En Procesamiento",
+                "pt": "Em Processamento"
               },
               "slug": {
                 "en": "processing",
-                "es": "processing",
-                "pt": "processing"
+                "es": "en-procesamiento",
+                "pt": "em-processamento"
               },
               "origin": "",
               "type": "category",
@@ -24034,13 +24034,13 @@
         {
           "name": {
             "en": "Support",
-            "es": "Support",
-            "pt": "Support"
+            "es": "Soporte",
+            "pt": "Suporte"
           },
           "slug": {
             "en": "support",
-            "es": "support",
-            "pt": "support"
+            "es": "soporte",
+            "pt": "suporte"
           },
           "origin": "",
           "type": "category",
@@ -24048,13 +24048,13 @@
             {
               "name": {
                 "en": "Operational",
-                "es": "Operational",
-                "pt": "Operational"
+                "es": "Operativo",
+                "pt": "Operacional"
               },
               "slug": {
                 "en": "operational",
-                "es": "operational",
-                "pt": "operational"
+                "es": "operativo",
+                "pt": "operacional"
               },
               "origin": "",
               "type": "category",
@@ -24081,13 +24081,13 @@
         {
           "name": {
             "en": "About The Admin",
-            "es": "About The Admin",
-            "pt": "About The Admin"
+            "es": "Acerca De Admin",
+            "pt": "Sobre O Admin"
           },
           "slug": {
             "en": "about-the-admin",
-            "es": "about-the-admin",
-            "pt": "about-the-admin"
+            "es": "acerca-de-admin",
+            "pt": "sobre-o-admin"
           },
           "origin": "",
           "type": "category",
@@ -24095,13 +24095,13 @@
             {
               "name": {
                 "en": "Admin Overview",
-                "es": "Admin Overview",
-                "pt": "Admin Overview"
+                "es": "Visión General Del Admin",
+                "pt": "Visão Do Geral Do Admin"
               },
               "slug": {
                 "en": "admin-overview",
-                "es": "admin-overview",
-                "pt": "admin-overview"
+                "es": "visi-n-general-del-admin",
+                "pt": "vis-o-do-geral-do-admin"
               },
               "origin": "",
               "type": "category",
@@ -24143,13 +24143,13 @@
         {
           "name": {
             "en": "Account Management",
-            "es": "Account Management",
-            "pt": "Account Management"
+            "es": "Gestión De La Cuenta",
+            "pt": "Gerenciamento Da Conta"
           },
           "slug": {
             "en": "account-management",
-            "es": "account-management",
-            "pt": "account-management"
+            "es": "gesti-n-de-la-cuenta",
+            "pt": "gerenciamento-da-conta"
           },
           "origin": "",
           "type": "category",
@@ -24157,13 +24157,13 @@
             {
               "name": {
                 "en": "Access Control",
-                "es": "Access Control",
-                "pt": "Access Control"
+                "es": "Control De Acceso",
+                "pt": "Controle De Acesso"
               },
               "slug": {
                 "en": "access-control",
-                "es": "access-control",
-                "pt": "access-control"
+                "es": "control-de-acceso",
+                "pt": "controle-de-acesso"
               },
               "origin": "",
               "type": "category",
@@ -24248,13 +24248,13 @@
             {
               "name": {
                 "en": "Account Settings",
-                "es": "Account Settings",
-                "pt": "Account Settings"
+                "es": "Configuraciones De La Cuenta",
+                "pt": "Configurações Da Conta"
               },
               "slug": {
                 "en": "account-settings",
-                "es": "account-settings",
-                "pt": "account-settings"
+                "es": "configuraciones-de-la-cuenta",
+                "pt": "configura-es-da-conta"
               },
               "origin": "",
               "type": "category",
@@ -24279,13 +24279,13 @@
             {
               "name": {
                 "en": "Accounts",
-                "es": "Accounts",
-                "pt": "Accounts"
+                "es": "Cuentas",
+                "pt": "Contas"
               },
               "slug": {
                 "en": "accounts",
-                "es": "accounts",
-                "pt": "accounts"
+                "es": "cuentas",
+                "pt": "contas"
               },
               "origin": "",
               "type": "category",
@@ -24400,13 +24400,13 @@
             {
               "name": {
                 "en": "Api Keys",
-                "es": "Api Keys",
-                "pt": "Api Keys"
+                "es": "Claves De Api",
+                "pt": "Chaves De Api"
               },
               "slug": {
                 "en": "api-keys-category",
-                "es": "api-keys",
-                "pt": "api-keys"
+                "es": "claves-de-api-category",
+                "pt": "chaves-de-api-category"
               },
               "origin": "",
               "type": "category",
@@ -24537,13 +24537,13 @@
             {
               "name": {
                 "en": "Users",
-                "es": "Users",
-                "pt": "Users"
+                "es": "Usuarios",
+                "pt": "Usuários"
               },
               "slug": {
                 "en": "users",
-                "es": "users",
-                "pt": "users"
+                "es": "usuarios",
+                "pt": "usu-rios"
               },
               "origin": "",
               "type": "category",
@@ -24704,13 +24704,13 @@
             {
               "name": {
                 "en": "Affiliates Program App",
-                "es": "Affiliates Program App",
-                "pt": "Affiliates Program App"
+                "es": "Aplicación Affiliates Program",
+                "pt": "Aplicativo Affiliates Program"
               },
               "slug": {
                 "en": "affiliates-program-app-category",
-                "es": "affiliates-program-app",
-                "pt": "affiliates-program-app"
+                "es": "aplicaci-n-affiliates-program",
+                "pt": "aplicativo-affiliates-program-category"
               },
               "origin": "",
               "type": "category",
@@ -24735,13 +24735,13 @@
             {
               "name": {
                 "en": "Amazon Mcf App",
-                "es": "Amazon Mcf App",
-                "pt": "Amazon Mcf App"
+                "es": "Aplicación Amazon Mcf",
+                "pt": "Aplicativo Amazon Mcf"
               },
               "slug": {
                 "en": "amazon-mcf-app",
-                "es": "amazon-mcf-app",
-                "pt": "amazon-mcf-app"
+                "es": "aplicaci-n-amazon-mcf",
+                "pt": "aplicativo-amazon-mcf"
               },
               "origin": "",
               "type": "category",
@@ -24766,13 +24766,13 @@
             {
               "name": {
                 "en": "Apps Overview",
-                "es": "Apps Overview",
-                "pt": "Apps Overview"
+                "es": "Visión De Conjunto De Apps",
+                "pt": "Visão Geral De Apps"
               },
               "slug": {
                 "en": "apps-overview",
-                "es": "apps-overview",
-                "pt": "apps-overview"
+                "es": "visi-n-de-conjunto-de-apps",
+                "pt": "vis-o-geral-de-apps"
               },
               "origin": "",
               "type": "category",
@@ -25030,13 +25030,13 @@
         {
           "name": {
             "en": "Authentication",
-            "es": "Authentication",
-            "pt": "Authentication"
+            "es": "Autenticación",
+            "pt": "Autenticação"
           },
           "slug": {
             "en": "authentication",
-            "es": "authentication",
-            "pt": "authentication"
+            "es": "autenticaci-n",
+            "pt": "autentica-o"
           },
           "origin": "",
           "type": "category",
@@ -25044,13 +25044,13 @@
             {
               "name": {
                 "en": "Authentication Basics",
-                "es": "Authentication Basics",
-                "pt": "Authentication Basics"
+                "es": "Conceptos Básicos De Autenticación",
+                "pt": "Conceitos Básicos De Autenticação"
               },
               "slug": {
                 "en": "authentication-basics",
-                "es": "authentication-basics",
-                "pt": "authentication-basics"
+                "es": "conceptos-b-sicos-de-autenticaci-n",
+                "pt": "conceitos-b-sicos-de-autentica-o"
               },
               "origin": "",
               "type": "category",
@@ -25135,13 +25135,13 @@
             {
               "name": {
                 "en": "Authentication Settings",
-                "es": "Authentication Settings",
-                "pt": "Authentication Settings"
+                "es": "Configuración De Autenticación",
+                "pt": "Configurações De Autenticação"
               },
               "slug": {
                 "en": "authentication-settings",
-                "es": "authentication-settings",
-                "pt": "authentication-settings"
+                "es": "configuraci-n-de-autenticaci-n",
+                "pt": "configura-es-de-autentica-o"
               },
               "origin": "",
               "type": "category",
@@ -25166,13 +25166,13 @@
             {
               "name": {
                 "en": "Two Factor Authentication",
-                "es": "Two Factor Authentication",
-                "pt": "Two Factor Authentication"
+                "es": "Autenticación De Dos Factores",
+                "pt": "Autenticação De Dois Fatores"
               },
               "slug": {
                 "en": "two-factor-authentication",
-                "es": "two-factor-authentication",
-                "pt": "two-factor-authentication"
+                "es": "autenticaci-n-de-dos-factores",
+                "pt": "autentica-o-de-dois-fatores"
               },
               "origin": "",
               "type": "category",
@@ -25259,13 +25259,13 @@
             {
               "name": {
                 "en": "Catalog Beta",
-                "es": "Catalog Beta",
-                "pt": "Catalog Beta"
+                "es": "Catálogo Beta",
+                "pt": "Catálogo Beta"
               },
               "slug": {
                 "en": "catalog-beta",
-                "es": "catalog-beta",
-                "pt": "catalog-beta"
+                "es": "cat-logo-beta",
+                "pt": "cat-logo-beta"
               },
               "origin": "",
               "type": "category",
@@ -25382,13 +25382,13 @@
             {
               "name": {
                 "en": "Product Recommendations Beta",
-                "es": "Product Recommendations Beta",
-                "pt": "Product Recommendations Beta"
+                "es": "Recomendaciones De Productos Beta",
+                "pt": "Recomendações De Produtos Beta"
               },
               "slug": {
                 "en": "product-recommendations-beta-category",
-                "es": "product-recommendations-beta",
-                "pt": "product-recommendations-beta"
+                "es": "recomendaciones-de-productos-beta-category",
+                "pt": "recomenda-es-de-produtos-beta"
               },
               "origin": "",
               "type": "category",
@@ -25413,13 +25413,13 @@
             {
               "name": {
                 "en": "Promotions Beta",
-                "es": "Promotions Beta",
-                "pt": "Promotions Beta"
+                "es": "Promociones Beta",
+                "pt": "Promoções Beta"
               },
               "slug": {
                 "en": "promotions-beta",
-                "es": "promotions-beta",
-                "pt": "promotions-beta"
+                "es": "promociones-beta",
+                "pt": "promo-es-beta"
               },
               "origin": "",
               "type": "category",
@@ -25459,13 +25459,13 @@
             {
               "name": {
                 "en": "Releases (beta)",
-                "es": "Releases (beta)",
-                "pt": "Releases (beta)"
+                "es": "Lanzamientos (beta)",
+                "pt": "Lançamentos (beta)"
               },
               "slug": {
                 "en": "releases-beta",
-                "es": "releases-beta",
-                "pt": "releases-beta"
+                "es": "lanzamientos-beta",
+                "pt": "lan-amentos-beta"
               },
               "origin": "",
               "type": "category",
@@ -25550,13 +25550,13 @@
             {
               "name": {
                 "en": "Shipping Beta",
-                "es": "Shipping Beta",
-                "pt": "Shipping Beta"
+                "es": "Envío Beta",
+                "pt": "Envio Beta"
               },
               "slug": {
                 "en": "shipping-beta",
-                "es": "shipping-beta",
-                "pt": "shipping-beta"
+                "es": "env-o-beta",
+                "pt": "envio-beta"
               },
               "origin": "",
               "type": "category",
@@ -26456,13 +26456,13 @@
             {
               "name": {
                 "en": "Dashboards In The Vtex Admin",
-                "es": "Dashboards In The Vtex Admin",
-                "pt": "Dashboards In The Vtex Admin"
+                "es": "Dashboards En El Admin Vtex",
+                "pt": "Dashboards No Admin Vtex"
               },
               "slug": {
                 "en": "dashboards-in-the-vtex-admin",
-                "es": "dashboards-in-the-vtex-admin",
-                "pt": "dashboards-in-the-vtex-admin"
+                "es": "dashboards-en-el-admin-vtex",
+                "pt": "dashboards-no-admin-vtex"
               },
               "origin": "",
               "type": "category",
@@ -26534,13 +26534,13 @@
         {
           "name": {
             "en": "Infrastructure",
-            "es": "Infrastructure",
-            "pt": "Infrastructure"
+            "es": "Infraestructura",
+            "pt": "Infraestrutura"
           },
           "slug": {
             "en": "infrastructure",
-            "es": "infrastructure",
-            "pt": "infrastructure"
+            "es": "infraestructura",
+            "pt": "infraestrutura"
           },
           "origin": "",
           "type": "category",
@@ -26792,13 +26792,13 @@
             {
               "name": {
                 "en": "Intelligent Search Behavior",
-                "es": "Intelligent Search Behavior",
-                "pt": "Intelligent Search Behavior"
+                "es": "Comportamiento Del Intelligent Search",
+                "pt": "Comportamento Do Intelligent Search"
               },
               "slug": {
                 "en": "intelligent-search-behavior",
-                "es": "intelligent-search-behavior",
-                "pt": "intelligent-search-behavior"
+                "es": "comportamiento-del-intelligent-search",
+                "pt": "comportamento-do-intelligent-search"
               },
               "origin": "",
               "type": "category",
@@ -26913,13 +26913,13 @@
             {
               "name": {
                 "en": "Intelligent Search Overview",
-                "es": "Intelligent Search Overview",
-                "pt": "Intelligent Search Overview"
+                "es": "Intelligent Search   Visión General",
+                "pt": "Intelligent Search   Visão Geral"
               },
               "slug": {
                 "en": "intelligent-search-overview-category",
-                "es": "intelligent-search-overview",
-                "pt": "intelligent-search-overview"
+                "es": "intelligent-search-visi-n-general",
+                "pt": "intelligent-search-vis-o-geral"
               },
               "origin": "",
               "type": "category",
@@ -26989,13 +26989,13 @@
             {
               "name": {
                 "en": "Intelligent Search Settings",
-                "es": "Intelligent Search Settings",
-                "pt": "Intelligent Search Settings"
+                "es": "Configuración Del Intelligent Search",
+                "pt": "Configurações Do Intelligent Search"
               },
               "slug": {
                 "en": "intelligent-search-settings",
-                "es": "intelligent-search-settings",
-                "pt": "intelligent-search-settings"
+                "es": "configuraci-n-del-intelligent-search",
+                "pt": "configura-es-do-intelligent-search"
               },
               "origin": "",
               "type": "category",
@@ -27020,13 +27020,13 @@
             {
               "name": {
                 "en": "Redirects",
-                "es": "Redirects",
-                "pt": "Redirects"
+                "es": "Redireccionamientos",
+                "pt": "Redirecionamentos"
               },
               "slug": {
                 "en": "redirects",
-                "es": "redirects",
-                "pt": "redirects"
+                "es": "redireccionamientos",
+                "pt": "redirecionamentos"
               },
               "origin": "",
               "type": "category",
@@ -27051,13 +27051,13 @@
             {
               "name": {
                 "en": "Relevance",
-                "es": "Relevance",
-                "pt": "Relevance"
+                "es": "Relevancia",
+                "pt": "Relevância"
               },
               "slug": {
                 "en": "relevance",
-                "es": "relevance",
-                "pt": "relevance"
+                "es": "relevancia",
+                "pt": "relev-ncia"
               },
               "origin": "",
               "type": "category",
@@ -27157,13 +27157,13 @@
             {
               "name": {
                 "en": "Synonyms",
-                "es": "Synonyms",
-                "pt": "Synonyms"
+                "es": "Sinónimos",
+                "pt": "Sinônimos"
               },
               "slug": {
                 "en": "synonyms-category",
-                "es": "synonyms",
-                "pt": "synonyms"
+                "es": "sin-nimos",
+                "pt": "sin-nimos"
               },
               "origin": "",
               "type": "category",
@@ -27249,13 +27249,13 @@
             {
               "name": {
                 "en": "Customer Relations Management",
-                "es": "Customer Relations Management",
-                "pt": "Customer Relations Management"
+                "es": "Gestión De Clientes",
+                "pt": "Gestão De Clientes"
               },
               "slug": {
                 "en": "customer-relations-management",
-                "es": "customer-relations-management",
-                "pt": "customer-relations-management"
+                "es": "gesti-n-de-clientes",
+                "pt": "gest-o-de-clientes"
               },
               "origin": "",
               "type": "category",
@@ -27385,13 +27385,13 @@
             {
               "name": {
                 "en": "Master Data Basics",
-                "es": "Master Data Basics",
-                "pt": "Master Data Basics"
+                "es": "Conceptos Básicos De Master Data",
+                "pt": "Conceitos Básicos Do Master Data"
               },
               "slug": {
                 "en": "master-data-basics",
-                "es": "master-data-basics",
-                "pt": "master-data-basics"
+                "es": "conceptos-b-sicos-de-master-data",
+                "pt": "conceitos-b-sicos-do-master-data"
               },
               "origin": "",
               "type": "category",
@@ -27431,13 +27431,13 @@
             {
               "name": {
                 "en": "Master Data Settings",
-                "es": "Master Data Settings",
-                "pt": "Master Data Settings"
+                "es": "Configuración De Master Data",
+                "pt": "Configurações De Master Data"
               },
               "slug": {
                 "en": "master-data-settings",
-                "es": "master-data-settings",
-                "pt": "master-data-settings"
+                "es": "configuraci-n-de-master-data",
+                "pt": "configura-es-de-master-data"
               },
               "origin": "",
               "type": "category",
@@ -27462,13 +27462,13 @@
             {
               "name": {
                 "en": "Master Data V1 Applications",
-                "es": "Master Data V1 Applications",
-                "pt": "Master Data V1 Applications"
+                "es": "Aplicaciones De Master Data V1",
+                "pt": "Aplicações No Master Data V1"
               },
               "slug": {
                 "en": "master-data-v1-applications",
-                "es": "master-data-v1-applications",
-                "pt": "master-data-v1-applications"
+                "es": "aplicaciones-de-master-data-v1",
+                "pt": "aplica-es-no-master-data-v1"
               },
               "origin": "",
               "type": "category",
@@ -27553,13 +27553,13 @@
             {
               "name": {
                 "en": "Master Data V1 Settings",
-                "es": "Master Data V1 Settings",
-                "pt": "Master Data V1 Settings"
+                "es": "Configuración De Master Data V1",
+                "pt": "Configurações Do Master Data V1"
               },
               "slug": {
                 "en": "master-data-v1-settings",
-                "es": "master-data-v1-settings",
-                "pt": "master-data-v1-settings"
+                "es": "configuraci-n-de-master-data-v1",
+                "pt": "configura-es-do-master-data-v1"
               },
               "origin": "",
               "type": "category",
@@ -27704,13 +27704,13 @@
             {
               "name": {
                 "en": "Master Data V1 Triggers",
-                "es": "Master Data V1 Triggers",
-                "pt": "Master Data V1 Triggers"
+                "es": "Triggers De Master Data V1",
+                "pt": "Triggers No Master Data V1"
               },
               "slug": {
                 "en": "master-data-v1-triggers",
-                "es": "master-data-v1-triggers",
-                "pt": "master-data-v1-triggers"
+                "es": "triggers-de-master-data-v1",
+                "pt": "triggers-no-master-data-v1"
               },
               "origin": "",
               "type": "category",
@@ -27767,13 +27767,13 @@
         {
           "name": {
             "en": "Message Center",
-            "es": "Message Center",
-            "pt": "Message Center"
+            "es": "Centro De Mensajes",
+            "pt": "Central De Mensagens"
           },
           "slug": {
             "en": "message-center",
-            "es": "message-center",
-            "pt": "message-center"
+            "es": "centro-de-mensajes",
+            "pt": "central-de-mensagens"
           },
           "origin": "",
           "type": "category",
@@ -27781,13 +27781,13 @@
             {
               "name": {
                 "en": "Senders",
-                "es": "Senders",
-                "pt": "Senders"
+                "es": "Remitentes",
+                "pt": "Remetentes"
               },
               "slug": {
                 "en": "senders",
-                "es": "senders",
-                "pt": "senders"
+                "es": "remitentes",
+                "pt": "remetentes"
               },
               "origin": "",
               "type": "category",
@@ -27812,12 +27812,12 @@
             {
               "name": {
                 "en": "Templates",
-                "es": "Templates",
+                "es": "Plantillas",
                 "pt": "Templates"
               },
               "slug": {
                 "en": "templates",
-                "es": "templates",
+                "es": "plantillas",
                 "pt": "templates"
               },
               "origin": "",
@@ -27934,13 +27934,13 @@
             {
               "name": {
                 "en": "Omnichannel Overview",
-                "es": "Omnichannel Overview",
-                "pt": "Omnichannel Overview"
+                "es": "Visión General De Omnichannel",
+                "pt": "Visão Geral De Omnichannel"
               },
               "slug": {
                 "en": "omnichannel-overview",
-                "es": "omnichannel-overview",
-                "pt": "omnichannel-overview"
+                "es": "visi-n-general-de-omnichannel",
+                "pt": "vis-o-geral-de-omnichannel"
               },
               "origin": "",
               "type": "category",
@@ -27995,13 +27995,13 @@
             {
               "name": {
                 "en": "Omnichannel Settings",
-                "es": "Omnichannel Settings",
-                "pt": "Omnichannel Settings"
+                "es": "Configuración De Omnichannel",
+                "pt": "Configurações De Omnichannel"
               },
               "slug": {
                 "en": "omnichannel-settings",
-                "es": "omnichannel-settings",
-                "pt": "omnichannel-settings"
+                "es": "configuraci-n-de-omnichannel",
+                "pt": "configura-es-de-omnichannel"
               },
               "origin": "",
               "type": "category",
@@ -28028,13 +28028,13 @@
         {
           "name": {
             "en": "Orders",
-            "es": "Orders",
-            "pt": "Orders"
+            "es": "Pedidos",
+            "pt": "Pedidos"
           },
           "slug": {
             "en": "orders",
-            "es": "orders",
-            "pt": "orders"
+            "es": "pedidos",
+            "pt": "pedidos"
           },
           "origin": "",
           "type": "category",
@@ -28042,13 +28042,13 @@
             {
               "name": {
                 "en": "All Orders",
-                "es": "All Orders",
-                "pt": "All Orders"
+                "es": "Todos Los Pedidos",
+                "pt": "Todos Os Pedidos"
               },
               "slug": {
                 "en": "all-orders",
-                "es": "all-orders",
-                "pt": "all-orders"
+                "es": "todos-los-pedidos",
+                "pt": "todos-os-pedidos"
               },
               "origin": "",
               "type": "category",
@@ -28493,13 +28493,13 @@
             {
               "name": {
                 "en": "B2b Orders",
-                "es": "B2b Orders",
-                "pt": "B2b Orders"
+                "es": "Pedidos B2b",
+                "pt": "Pedidos B2b"
               },
               "slug": {
                 "en": "b2b-orders",
-                "es": "b2b-orders",
-                "pt": "b2b-orders"
+                "es": "pedidos-b2b",
+                "pt": "pedidos-b2b"
               },
               "origin": "",
               "type": "category",
@@ -28524,13 +28524,13 @@
             {
               "name": {
                 "en": "Orders Management Settings",
-                "es": "Orders Management Settings",
-                "pt": "Orders Management Settings"
+                "es": "Configuración De Gestión De Pedidos",
+                "pt": "Configurações De Gerenciamento De Pedidos"
               },
               "slug": {
                 "en": "orders-management-settings",
-                "es": "orders-management-settings",
-                "pt": "orders-management-settings"
+                "es": "configuraci-n-de-gesti-n-de-pedidos",
+                "pt": "configura-es-de-gerenciamento-de-pedidos"
               },
               "origin": "",
               "type": "category",
@@ -28720,13 +28720,13 @@
             {
               "name": {
                 "en": "Orders Overview",
-                "es": "Orders Overview",
-                "pt": "Orders Overview"
+                "es": "Visión De Conjunto De Pedidos",
+                "pt": "Visão Geral De Pedidos"
               },
               "slug": {
                 "en": "orders-overview-category",
-                "es": "orders-overview",
-                "pt": "orders-overview"
+                "es": "visi-n-de-conjunto-de-pedidos",
+                "pt": "vis-o-geral-de-pedidos"
               },
               "origin": "",
               "type": "category",
@@ -28886,13 +28886,13 @@
             {
               "name": {
                 "en": "Telesales And Customer Service",
-                "es": "Telesales And Customer Service",
-                "pt": "Telesales And Customer Service"
+                "es": "Televentas Y Servicio Al Cliente",
+                "pt": "Televendas E Atendimento Ao Cliente"
               },
               "slug": {
                 "en": "telesales-and-customer-service",
-                "es": "telesales-and-customer-service",
-                "pt": "telesales-and-customer-service"
+                "es": "televentas-y-servicio-al-cliente",
+                "pt": "televendas-e-atendimento-ao-cliente"
               },
               "origin": "",
               "type": "category",
@@ -28949,13 +28949,13 @@
         {
           "name": {
             "en": "Projects & Integrations",
-            "es": "Projects & Integrations",
-            "pt": "Projects & Integrations"
+            "es": "Proyectos & Integraciones",
+            "pt": "Projetos & Integrações"
           },
           "slug": {
             "en": "projects-integrations",
-            "es": "projects-integrations",
-            "pt": "projects-integrations"
+            "es": "proyectos-integraciones",
+            "pt": "projetos-integra-es"
           },
           "origin": "",
           "type": "category",
@@ -28963,13 +28963,13 @@
             {
               "name": {
                 "en": "Integration With Monitoring Tools",
-                "es": "Integration With Monitoring Tools",
-                "pt": "Integration With Monitoring Tools"
+                "es": "Integración Con Herramientas De Monitoreo",
+                "pt": "Integração Com Ferramentas De Monitoramento"
               },
               "slug": {
                 "en": "integration-with-monitoring-tools",
-                "es": "integration-with-monitoring-tools",
-                "pt": "integration-with-monitoring-tools"
+                "es": "integraci-n-con-herramientas-de-monitoreo",
+                "pt": "integra-o-com-ferramentas-de-monitoramento"
               },
               "origin": "",
               "type": "category",
@@ -29206,13 +29206,13 @@
         {
           "name": {
             "en": "Promotions & Taxes",
-            "es": "Promotions & Taxes",
-            "pt": "Promotions & Taxes"
+            "es": "Tasas Y Promociones",
+            "pt": "Promoções E Taxas"
           },
           "slug": {
             "en": "promotions-taxes",
-            "es": "promotions-taxes",
-            "pt": "promotions-taxes"
+            "es": "tasas-y-promociones",
+            "pt": "promo-es-e-taxas"
           },
           "origin": "",
           "type": "category",
@@ -29220,13 +29220,13 @@
             {
               "name": {
                 "en": "Campaign Audiences",
-                "es": "Campaign Audiences",
-                "pt": "Campaign Audiences"
+                "es": "Audiencia De Las Campañas",
+                "pt": "Audiência De Campanhas"
               },
               "slug": {
                 "en": "campaign-audiences-category",
-                "es": "campaign-audiences",
-                "pt": "campaign-audiences"
+                "es": "audiencia-de-las-campa-as",
+                "pt": "audi-ncia-de-campanhas"
               },
               "origin": "",
               "type": "category",
@@ -29296,13 +29296,13 @@
             {
               "name": {
                 "en": "Coupons",
-                "es": "Coupons",
-                "pt": "Coupons"
+                "es": "Cupones",
+                "pt": "Cupons"
               },
               "slug": {
                 "en": "coupons",
-                "es": "coupons",
-                "pt": "coupons"
+                "es": "cupones",
+                "pt": "cupons"
               },
               "origin": "",
               "type": "category",
@@ -29342,13 +29342,13 @@
             {
               "name": {
                 "en": "Promotions",
-                "es": "Promotions",
-                "pt": "Promotions"
+                "es": "Promociones",
+                "pt": "Promoções"
               },
               "slug": {
                 "en": "promotions",
-                "es": "promotions",
-                "pt": "promotions"
+                "es": "promociones",
+                "pt": "promo-es"
               },
               "origin": "",
               "type": "category",
@@ -29808,13 +29808,13 @@
             {
               "name": {
                 "en": "Taxes",
-                "es": "Taxes",
-                "pt": "Taxes"
+                "es": "Impuestos",
+                "pt": "Taxas"
               },
               "slug": {
                 "en": "taxes",
-                "es": "taxes",
-                "pt": "taxes"
+                "es": "impuestos",
+                "pt": "taxas"
               },
               "origin": "",
               "type": "category",
@@ -29871,13 +29871,13 @@
         {
           "name": {
             "en": "Security",
-            "es": "Security",
-            "pt": "Security"
+            "es": "Seguridad",
+            "pt": "Segurança"
           },
           "slug": {
             "en": "security",
-            "es": "security",
-            "pt": "security"
+            "es": "seguridad",
+            "pt": "seguran-a"
           },
           "origin": "",
           "type": "category",
@@ -29885,13 +29885,13 @@
             {
               "name": {
                 "en": "Information Security Compliance",
-                "es": "Information Security Compliance",
-                "pt": "Information Security Compliance"
+                "es": "Cumplimiento De Seguridad De La Información",
+                "pt": "Compliance De Segurança Da Informação"
               },
               "slug": {
                 "en": "information-security-compliance",
-                "es": "information-security-compliance",
-                "pt": "information-security-compliance"
+                "es": "cumplimiento-de-seguridad-de-la-informaci-n",
+                "pt": "compliance-de-seguran-a-da-informa-o"
               },
               "origin": "",
               "type": "category",
@@ -29976,13 +29976,13 @@
             {
               "name": {
                 "en": "Platform Security Resources",
-                "es": "Platform Security Resources",
-                "pt": "Platform Security Resources"
+                "es": "Recursos De Seguridad De La Plataforma",
+                "pt": "Recursos De Segurança Da Plataforma"
               },
               "slug": {
                 "en": "platform-security-resources",
-                "es": "platform-security-resources",
-                "pt": "platform-security-resources"
+                "es": "recursos-de-seguridad-de-la-plataforma",
+                "pt": "recursos-de-seguran-a-da-plataforma"
               },
               "origin": "",
               "type": "category",
@@ -30052,13 +30052,13 @@
             {
               "name": {
                 "en": "Store Security",
-                "es": "Store Security",
-                "pt": "Store Security"
+                "es": "Seguridad Para Comerciantes",
+                "pt": "Segurança Para Lojistas"
               },
               "slug": {
                 "en": "store-security",
-                "es": "store-security",
-                "pt": "store-security"
+                "es": "seguridad-para-comerciantes",
+                "pt": "seguran-a-para-lojistas"
               },
               "origin": "",
               "type": "category",
@@ -30223,8 +30223,8 @@
               },
               "slug": {
                 "en": "vtex-shield-category",
-                "es": "vtex-shield",
-                "pt": "vtex-shield"
+                "es": "vtex-shield-category",
+                "pt": "vtex-shield-category"
               },
               "origin": "",
               "type": "category",
@@ -30311,13 +30311,13 @@
         {
           "name": {
             "en": "Store Settings",
-            "es": "Store Settings",
-            "pt": "Store Settings"
+            "es": "Configuraciones De La Tienda",
+            "pt": "Configurações Da Loja"
           },
           "slug": {
             "en": "store-settings",
-            "es": "store-settings",
-            "pt": "store-settings"
+            "es": "configuraciones-de-la-tienda",
+            "pt": "configura-es-da-loja"
           },
           "origin": "",
           "type": "category",
@@ -30325,13 +30325,13 @@
             {
               "name": {
                 "en": "Best Practices For The Success Of Your Vtex Store",
-                "es": "Best Practices For The Success Of Your Vtex Store",
-                "pt": "Best Practices For The Success Of Your Vtex Store"
+                "es": "Mejores Prácticas Para El Éxito De Tu Tienda Vtex",
+                "pt": "Boas Práticas Para O Sucesso Da Sua Loja Vtex"
               },
               "slug": {
                 "en": "best-practices-for-the-success-of-your-vtex-store-category",
-                "es": "best-practices-for-the-success-of-your-vtex-store",
-                "pt": "best-practices-for-the-success-of-your-vtex-store"
+                "es": "mejores-pr-cticas-para-el-xito-de-tu-tienda-vtex",
+                "pt": "boas-pr-ticas-para-o-sucesso-da-sua-loja-vtex"
               },
               "origin": "",
               "type": "category",
@@ -30356,13 +30356,13 @@
             {
               "name": {
                 "en": "Store Settings Overview",
-                "es": "Store Settings Overview",
-                "pt": "Store Settings Overview"
+                "es": "Visión General De Configuraciones De La Tienda",
+                "pt": "Visão Geral De Configurações Da Loja"
               },
               "slug": {
                 "en": "store-settings-overview-category",
-                "es": "store-settings-overview",
-                "pt": "store-settings-overview"
+                "es": "visi-n-general-de-configuraciones-de-la-tienda",
+                "pt": "vis-o-geral-de-configura-es-da-loja"
               },
               "origin": "",
               "type": "category",
@@ -30404,13 +30404,13 @@
         {
           "name": {
             "en": "Subscriptions",
-            "es": "Subscriptions",
-            "pt": "Subscriptions"
+            "es": "Suscripciones",
+            "pt": "Assinaturas"
           },
           "slug": {
             "en": "subscriptions",
-            "es": "subscriptions",
-            "pt": "subscriptions"
+            "es": "suscripciones",
+            "pt": "assinaturas"
           },
           "origin": "",
           "type": "category",
@@ -30418,13 +30418,13 @@
             {
               "name": {
                 "en": "Subscription Guides",
-                "es": "Subscription Guides",
-                "pt": "Subscription Guides"
+                "es": "Guía De Suscripciones",
+                "pt": "Guias De Assinatura"
               },
               "slug": {
                 "en": "subscription-guides",
-                "es": "subscription-guides",
-                "pt": "subscription-guides"
+                "es": "gu-a-de-suscripciones",
+                "pt": "guias-de-assinatura"
               },
               "origin": "",
               "type": "category",
@@ -30586,13 +30586,13 @@
         {
           "name": {
             "en": "Trade Policies",
-            "es": "Trade Policies",
-            "pt": "Trade Policies"
+            "es": "Políticas Comerciales",
+            "pt": "Políticas Comerciais"
           },
           "slug": {
             "en": "trade-policies",
-            "es": "trade-policies",
-            "pt": "trade-policies"
+            "es": "pol-ticas-comerciales",
+            "pt": "pol-ticas-comerciais"
           },
           "origin": "",
           "type": "category",
@@ -30600,13 +30600,13 @@
             {
               "name": {
                 "en": "Trade Policies' Overview",
-                "es": "Trade Policies' Overview",
-                "pt": "Trade Policies' Overview"
+                "es": "Visión De Conjunto De Políticas Comerciales",
+                "pt": "Visão Geral De Políticas Comerciais"
               },
               "slug": {
                 "en": "trade-policies-overview",
-                "es": "trade-policies-overview",
-                "pt": "trade-policies-overview"
+                "es": "visi-n-de-conjunto-de-pol-ticas-comerciales",
+                "pt": "vis-o-geral-de-pol-ticas-comerciais"
               },
               "origin": "",
               "type": "category",
@@ -30691,13 +30691,13 @@
             {
               "name": {
                 "en": "Trade Policies Settings",
-                "es": "Trade Policies Settings",
-                "pt": "Trade Policies Settings"
+                "es": "Configuración De Políticas Comerciales",
+                "pt": "Configurações De Políticas Comerciais"
               },
               "slug": {
                 "en": "trade-policies-settings",
-                "es": "trade-policies-settings",
-                "pt": "trade-policies-settings"
+                "es": "configuraci-n-de-pol-ticas-comerciales",
+                "pt": "configura-es-de-pol-ticas-comerciais"
               },
               "origin": "",
               "type": "category",
@@ -31056,13 +31056,13 @@
         {
           "name": {
             "en": "Unified Commerce",
-            "es": "Unified Commerce",
-            "pt": "Unified Commerce"
+            "es": "Comercio Unificado",
+            "pt": "Comércio Unificado"
           },
           "slug": {
             "en": "unified-commerce",
-            "es": "unified-commerce",
-            "pt": "unified-commerce"
+            "es": "comercio-unificado",
+            "pt": "com-rcio-unificado"
           },
           "origin": "",
           "type": "category",
@@ -31237,13 +31237,13 @@
             {
               "name": {
                 "en": "Indicators",
-                "es": "Indicators",
-                "pt": "Indicators"
+                "es": "Indicadores",
+                "pt": "Indicadores"
               },
               "slug": {
                 "en": "indicators",
-                "es": "indicators",
-                "pt": "indicators"
+                "es": "indicadores",
+                "pt": "indicadores"
               },
               "origin": "",
               "type": "category",
@@ -31298,13 +31298,13 @@
             {
               "name": {
                 "en": "Mobile App",
-                "es": "Mobile App",
-                "pt": "Mobile App"
+                "es": "Aplicación Móvil",
+                "pt": "Aplicativo Móvel"
               },
               "slug": {
                 "en": "mobile-app",
-                "es": "mobile-app",
-                "pt": "mobile-app"
+                "es": "aplicaci-n-m-vil",
+                "pt": "aplicativo-m-vel"
               },
               "origin": "",
               "type": "category",
@@ -31329,13 +31329,13 @@
             {
               "name": {
                 "en": "Overview Vtex Tracking",
-                "es": "Overview Vtex Tracking",
-                "pt": "Overview Vtex Tracking"
+                "es": "Visión General Vtex Tracking",
+                "pt": "Visão Geral Vtex Tracking"
               },
               "slug": {
                 "en": "overview-vtex-tracking",
-                "es": "overview-vtex-tracking",
-                "pt": "overview-vtex-tracking"
+                "es": "visi-n-general-vtex-tracking",
+                "pt": "vis-o-geral-vtex-tracking"
               },
               "origin": "",
               "type": "category",
@@ -31375,13 +31375,13 @@
             {
               "name": {
                 "en": "Reports",
-                "es": "Reports",
-                "pt": "Reports"
+                "es": "Informes",
+                "pt": "Relatórios"
               },
               "slug": {
                 "en": "reports-category",
-                "es": "reports",
-                "pt": "reports"
+                "es": "informes-category",
+                "pt": "relat-rios"
               },
               "origin": "",
               "type": "category",
@@ -31466,13 +31466,13 @@
             {
               "name": {
                 "en": "Routes",
-                "es": "Routes",
-                "pt": "Routes"
+                "es": "Rutes",
+                "pt": "Rotas"
               },
               "slug": {
                 "en": "routes-category",
-                "es": "routes",
-                "pt": "routes"
+                "es": "rutes",
+                "pt": "rotas"
               },
               "origin": "",
               "type": "category",
@@ -31527,13 +31527,13 @@
             {
               "name": {
                 "en": "Services",
-                "es": "Services",
-                "pt": "Services"
+                "es": "Servicios",
+                "pt": "Serviços"
               },
               "slug": {
                 "en": "services",
-                "es": "services",
-                "pt": "services"
+                "es": "servicios",
+                "pt": "servi-os"
               },
               "origin": "",
               "type": "category",
@@ -31588,13 +31588,13 @@
             {
               "name": {
                 "en": "Vtex Tracking   All Articles",
-                "es": "Vtex Tracking   All Articles",
-                "pt": "Vtex Tracking   All Articles"
+                "es": "Vtex Tracking   Todos Los Artículos",
+                "pt": "Vtex Tracking   Todos Os Artigos"
               },
               "slug": {
                 "en": "vtex-tracking-all-articles",
-                "es": "vtex-tracking-all-articles",
-                "pt": "vtex-tracking-all-articles"
+                "es": "vtex-tracking-todos-los-art-culos",
+                "pt": "vtex-tracking-todos-os-artigos"
               },
               "origin": "",
               "type": "category",
