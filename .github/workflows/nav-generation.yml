@@ -28,6 +28,18 @@ jobs:
         with:
           node-version: 20
 
+      - name: Network diagnostics
+        run: |
+          echo "=== Network Diagnostics ==="
+          echo "Hostname resolution:"
+          nslookup github.com || true
+          echo "Ping test:"
+          ping -c 2 github.com || true
+          echo "Curl test:"
+          curl -I https://github.com || true
+          echo "Git version:"
+          git --version
+          echo "==========================="
 
       - name: Generate navigation directly into public/
         working-directory: ${{ github.workspace }}
@@ -59,8 +71,29 @@ jobs:
           if [ $GEN_STATUS -ne 0 ]; then
             echo "npx failed (exit $GEN_STATUS). Falling back to clone+build path..." | tee -a "$LOG"
             rm -rf vtexhelp-nav-cli
+            echo "Trying different clone methods..." | tee -a "$LOG"
+            # Try multiple clone approaches
             git clone --depth 1 https://github.com/vtexdocs/vtexhelp-nav-cli.git 2>&1 | tee -a "$LOG"
             CLONE_STATUS=${PIPESTATUS[0]}
+            if [ $CLONE_STATUS -ne 0 ]; then
+              echo "HTTPS clone failed, trying with explicit git config..." | tee -a "$LOG"
+              git config --global http.sslverify false
+              git clone --depth 1 https://github.com/vtexdocs/vtexhelp-nav-cli.git 2>&1 | tee -a "$LOG"
+              CLONE_STATUS=${PIPESTATUS[0]}
+              git config --global --unset http.sslverify || true
+            fi
+            if [ $CLONE_STATUS -ne 0 ]; then
+              echo "Still failing, trying curl + unzip approach..." | tee -a "$LOG"
+              curl -L https://github.com/vtexdocs/vtexhelp-nav-cli/archive/refs/heads/main.zip -o vtexhelp-nav-cli.zip 2>&1 | tee -a "$LOG"
+              CURL_STATUS=${PIPESTATUS[0]}
+              if [ $CURL_STATUS -eq 0 ]; then
+                unzip -q vtexhelp-nav-cli.zip && mv vtexhelp-nav-cli-main vtexhelp-nav-cli
+                CLONE_STATUS=0
+                echo "Successfully downloaded via curl+unzip" | tee -a "$LOG"
+              else
+                echo "curl download also failed (exit $CURL_STATUS)" | tee -a "$LOG"
+              fi
+            fi
             if [ $CLONE_STATUS -ne 0 ]; then
               echo "git clone failed (exit $CLONE_STATUS)" | tee -a "$LOG"
             else
