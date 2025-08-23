@@ -28,30 +28,46 @@ jobs:
         with:
           node-version: 20
 
-      - name: Configure GitHub token for git+https (for npx/clone)
+      - name: Configure token and git for cross-repo access (for npx/clone)
         env:
+          NAV_CLI_TOKEN: ${{ secrets.NAV_CLI_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           set -e
-          if [ -n "$GITHUB_TOKEN" ]; then
-            git config --global url."https://x-access-token:${GITHUB_TOKEN}@github.com/".insteadOf "https://github.com/"
-            git config --global url."https://x-access-token:${GITHUB_TOKEN}@github.com/".insteadOf "git@github.com:"
-            git config --global url."https://x-access-token:${GITHUB_TOKEN}@github.com/".insteadOf "ssh://git@github.com/"
+          TOKEN="$NAV_CLI_TOKEN"
+          SOURCE="NAV_CLI_TOKEN"
+          if [ -z "$TOKEN" ]; then
+            TOKEN="$GITHUB_TOKEN"
+            SOURCE="GITHUB_TOKEN"
+          fi
+          echo "Using token source: $SOURCE"
+          if [ -n "$TOKEN" ]; then
+            # Make token available to later steps/tools that read GITHUB_TOKEN / GH_TOKEN
+            {
+              echo "GITHUB_TOKEN=$TOKEN"
+              echo "GH_TOKEN=$TOKEN"
+            } >> "$GITHUB_ENV"
+            # Configure git to rewrite any github.com URL to use the token over HTTPS
+            git config --global url."https://x-access-token:${TOKEN}@github.com/".insteadOf "https://github.com/"
+            git config --global url."https://x-access-token:${TOKEN}@github.com/".insteadOf "git@github.com:"
+            git config --global url."https://x-access-token:${TOKEN}@github.com/".insteadOf "ssh://git@github.com/"
           else
-            echo "GITHUB_TOKEN not set; proceeding without authenticated git."
+            echo "No token available; proceeding without authenticated git. Private repo installs will fail."
           fi
 
       - name: Inspect runner credentials (gh)
         env:
+          NAV_CLI_TOKEN: ${{ secrets.NAV_CLI_TOKEN }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           set -e
+          echo "NAV_CLI_TOKEN present: $([ -n "$NAV_CLI_TOKEN" ] && echo yes || echo no)"
           echo "GITHUB_TOKEN present: $([ -n "$GITHUB_TOKEN" ] && echo yes || echo no)"
           echo "GH_TOKEN present: $([ -n "$GH_TOKEN" ] && echo yes || echo no)"
           if command -v gh >/dev/null 2>&1; then
             gh --version
             gh auth status -h github.com || true
-            echo "Authenticated login:"
+            echo "Authenticated login (may be restricted for /user with GITHUB_TOKEN):"
             gh api /user --jq '.login' || true
             echo "Repo viewerPermission:"
             gh api graphql -f query='
