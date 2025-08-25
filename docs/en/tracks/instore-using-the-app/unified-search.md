@@ -18,13 +18,13 @@ VTEX Sales App's [endless aisle](https://help.vtex.com/en/tracks/estrategias-de-
 
 > ℹ️ This feature uses the browser's cache to optimize searches in scenarios with slow internet connections.
 
-![Barra busca - EN](//images.ctfassets.net/alneenqid6w5/3bfHAUCI0TwYoAkLMf67yw/31aeb140714a23b6e5d0f958e90dcea2/Tela_1_barra_busca.gif)
+![Barra busca - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/instore-using-the-app/unified-search_1.gif)
 
 VTEX Sales App features a unified search, which means that, when searching for a product in the app, search results will include not only the local inventory (of the current physical store) but also inventories of other physical stores and distribution centers associated with the ecommerce operation.
 
 Search results are organized to improve customer experience, displaying images that facilitate product identification and providing relevant information for sales associates.
 
-![Busca unificada - EN](//images.ctfassets.net/alneenqid6w5/2xcAiK7XONko8bTJrQPRNR/89c5c59cc9e5ce4f86f3d97966439ed7/Busca_unificada_VTEX_Sales_App.png)
+![Busca unificada - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/instore-using-the-app/unified-search_2.png)
 
 When you click the `Add to Cart` option, the following product information will be displayed:
 - Product variations, SKUs.
@@ -33,7 +33,7 @@ When you click the `Add to Cart` option, the following product information will 
 
 To add a product to the cart, select the desired variation, shipping option, and quantity, then click `Add to Cart`.
 
-![Carrinho - EN](//images.ctfassets.net/alneenqid6w5/3lUWtqtEAZZCsJhTYVkYBO/4e2090b5e30f545a65f35c7faefd67ac/Adicionar_ao_carrinho_VTEX_Sales_App.png)
+![Carrinho - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/instore-using-the-app/unified-search_3.png)
 
 ## Filters
 

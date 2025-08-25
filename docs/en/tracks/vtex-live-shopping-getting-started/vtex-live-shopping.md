@@ -32,7 +32,7 @@ In a **Live Shopping** event, you have the following features:
 
 They can be seen below as they would appear in a real **Live Shopping** event:
 
-![article_1_overview_v2_EN](//images.ctfassets.net/alneenqid6w5/5KmjAo9kik3uNLiUny1I0k/f93b807f35d11cfa12878ba3c6a9f6ac/article_1_overview_v2_EN.png)
+![article_1_overview_v2_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-live-shopping-getting-started/vtex-live-shopping_1.png)
 
 > ℹ️ [Live Shopping](https://help.vtex.com/en/tutorial/live-shopping--1cYWPIbjNMyr072sksHSVL) is a paid app with different subscription plans. For more information, check the [VTEX App Store](https://apps.vtex.com/liveshopping/p).
 

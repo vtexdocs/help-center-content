@@ -57,7 +57,7 @@ The customer must select **Pix** and click `Complete Sale`.
 
 After completing the sale, the QR Code will be displayed on the VTEX Sales App screen. The customer must scan it using their phone to proceed with payment. 
 
-![instore-pix2-en](//images.ctfassets.net/alneenqid6w5/3hZIPLWRJoOPnh5Pw5N8vK/f252d0b00eff1385cc1e14cb7dbdf3bf/image.png)
+![instore-pix2-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/instore-using-the-app/payment_1.png)
 
 After payment, the sale will be processed and confirmed on the order page, as shown in the image below.
 

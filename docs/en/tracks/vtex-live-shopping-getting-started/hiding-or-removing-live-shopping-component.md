@@ -32,7 +32,7 @@ For stores using [Store Framework](https://help.vtex.com/en/tracks/vtex-store-ov
 2. On the list **Blocks** on the right corner of the page, select the **Live Shopping** block.
 3. Deactivate the <i class="fas fa-toggle-off" aria-hidden="true"></i> `Show component` option.
 
-  ![article_4_store_framework_EN](//images.ctfassets.net/alneenqid6w5/CU6g8lTpsQSvuq184znAP/cb0c60872f06b68d8177f2dd229e8562/article_4_show_component_EN.png)
+  ![article_4_store_framework_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-live-shopping-getting-started/hiding-or-removing-live-shopping-component_1.png)
 
 4. Click `Save`.
 
