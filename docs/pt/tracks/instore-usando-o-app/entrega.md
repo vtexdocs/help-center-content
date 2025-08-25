@@ -18,7 +18,7 @@ Ao clicar em `Ir para a entrega`, o VTEX Sales App mostra os endereços disponí
 
 Alternativamente, o vendedor pode inserir um outro CEP no campo __Informe o CEP para ver as opções de entrega__ e, em seguida, clicar em `Confirmar`.
 
-![instore-entrega-1](//images.ctfassets.net/alneenqid6w5/6gysul2FyDXGWJRUC0nwJT/2b1d1f617824ddbac290d8ee0c98ead3/entrega-1.png)
+![instore-entrega-1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/instore-usando-o-app/entrega_1.png)
 
 A tela seguinte permite definir escolhas de entrega. Como o VTEX Sales App lida com o estoque de múltiplas lojas, há diversas possibilidades de organização da entrega, dependendo de onde se encontram os produtos do carrinho.
 
@@ -29,13 +29,13 @@ A tela seguinte permite definir escolhas de entrega. Como o VTEX Sales App lida 
 - Retirar em uma loja física.
 - Personalizar por item.
 
-![instore-definir-escolhas-de-entrega](//images.ctfassets.net/alneenqid6w5/621Dlpel880kPOoL8Ur6id/697cb506db0466fd5f137629ec57458a/entrega-2.png)
+![instore-definir-escolhas-de-entrega](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/instore-usando-o-app/entrega_2.png)
 
 ### Pontos de retirada
 
 Para opções de retirada em loja (pickup point), o sistema seleciona as lojas que têm os itens em estoque e mostra a loja mais próxima ao CEP do cliente, como sugestão. Se o vendedor quiser trocar a loja onde o cliente fará a coleta, basta clicar no botão `Alterar ponto de retirada`.
 
-![31. VTEX Sales App - Product Overview - 11](//images.ctfassets.net/alneenqid6w5/2lmJceEfryZV6OBtgGc3Tq/667f6c141be1ad04b2588fc6e28526be/entrega-retirada.png)
+![31. VTEX Sales App - Product Overview - 11](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/instore-usando-o-app/entrega_3.png)
 
 Ao clicar em `Alterar ponto de retirada`, o vendedor primeiro visualiza o ponto de retirada sugerido pelo sistema. Para ver os demais pontos de retirada disponíveis, é necessário clicar em `Ver todos os pontos de retirada`.
 

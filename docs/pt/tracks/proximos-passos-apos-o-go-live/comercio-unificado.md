@@ -20,7 +20,7 @@ trackSlugEN: proximos-passos-apos-o-go-live
 
 [Contas franquias](https://help.vtex.com/pt/tutorial/o-que-e-conta-franquia--kWQC6RkFSCUFGgY5gSjdl) são contas associadas a uma [conta principal](https://help.vtex.com/tracks/trilha-geral-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl). Para empresas que possuam múltiplas lojas físicas, franqueados ou multimarcas, é possível criar contas-franquia vinculadas à conta principal da marca.
 
-![Conta principal](//images.ctfassets.net/alneenqid6w5/5LB8M0ZLnlb9dIQuZEQh3A/f6dc3d52f41b4acbf54704f177df49f4/next_steps_image1_PT.png)
+![Conta principal](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/proximos-passos-apos-o-go-live/comercio-unificado_1.png)
 
 Esse modelo compartilha as informações do Catálogo e [frente de loja](https://help.vtex.com/pt/tracks/trilha-geral-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ), permitindo que o inventário das contas franquia seja disponibilizado para venda na loja principal e que diversas estratégias de comércio unificado possam ser utilizadas, tais como, [Ship from store](#ship-from-store), [lojas físicas como pontos de retirada](#pontos-de-retirada) e [prateleira infinita](https://help.vtex.com/en/tracks/proximos-passos-apos-o-go-live--3J7WFZyvTcoiwkcIVFVhIS/1t2QBZvrOBSLgvHaAV9fYm).
 

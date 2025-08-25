@@ -106,7 +106,7 @@ En esta sección, debes seleccionar si la promoción se aplicará a todos los pr
 Puedes incluir o excluir **categorías**, **marcas**, **colecciones**, **productos** y **SKU** de la promoción utilizando los criterios **Igual a** o **Diferentes de**.
 Los productos deben cumplir todas las condiciones para ser válidos en la promoción.
 
-![A quais itens esta promoção será aplicada - ES](//images.ctfassets.net/alneenqid6w5/7lxp9shJsZD5LBMzXldQnz/7ad5d4c49596dad8d2e81e0f1ef28d66/A_quais_itens_-_ES.png)
+![A quais itens esta promoção será aplicada - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/promociones/crear-promocion-regular_1.png)
 
 # 3. Condiciones de la promoción
 El pedido del cliente debe cumplir las condiciones registradas en esta sección para ser válido en la promoción.

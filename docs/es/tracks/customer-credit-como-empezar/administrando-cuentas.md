@@ -26,7 +26,7 @@ Al hacer clic en el nombre de una cuenta específica, la pantalla __Detalles de 
 - [Cierre de cuenta](#cierre-de-cuenta)
 <br>
 <br>
-![Cuenta_ES](//images.ctfassets.net/alneenqid6w5/3Wu6HcL5NbC5XS5YdiF3Dx/4ee2770f072e2cbd60d80045423ad427/Contas_ES.png)
+![Cuenta_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/customer-credit-como-empezar/administrando-cuentas_1.png)
 
 ## Titular
 

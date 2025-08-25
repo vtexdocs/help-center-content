@@ -78,7 +78,7 @@ O [VTEX DO](https://help.vtex.com/pt/tutorial/vtex-do-interface--7KMbRL4OslN8DTX
 - Acesso a detalhes e informações para conclusão de cada tarefa.
 - Atribuição de [usuário](https://help.vtex.com/pt/tutorial/gerenciando-usuarios--tutorials_512) responsável pela tarefa.
 
-![vtex-do-pt](//images.ctfassets.net/alneenqid6w5/3E0pKwhLDI9VjAUPsPgykJ/61ec58213dff43bd94d98b757087249d/next_steps_image12_PT.JPG)
+![vtex-do-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/proximos-passos-apos-o-go-live/outras-configuracoes-de-modulos-vtex_1.JPG)
 
 ### VTEX Social Selling
 

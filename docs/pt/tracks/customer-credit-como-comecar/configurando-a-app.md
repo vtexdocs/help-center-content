@@ -34,7 +34,7 @@ Para realizar as configurações iniciais do Customer Credit, siga os passos aba
   	<li>**Appkey e appToken da afiliação não definidos**: clique em **Autenticar** para ser redirecionado a tela de configuração onde você deverá preencher as informações **Application Key** e **Application Token**. Esta ação permitirá que pagamentos realizados por meio de Customer Credit possam ser processados em sua loja. Saiba mais em [Authentication](https://developers.vtex.com/docs/guides/authentication).</li>
 </ul>
 
-![CC_Configurações_1_PT](//images.ctfassets.net/alneenqid6w5/6cDl5QeEatvpLW3kYxV7Yd/b1505293c33db8cd9f7d8cf1d7802496/CC_Configura__es_1_PT.JPG)
+![CC_Configurações_1_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/customer-credit-como-comecar/configurando-a-app_1.JPG)
 
 ## Configurações da app
 
@@ -54,13 +54,13 @@ Por exemplo, para uma conta criada com o limite de crédito de R$ 1.000,00 e tol
 
 > ⚠️ Os valores de tolerância são configurados em números decimais, sendo 0 a representação de 0% e 1, a representação de 100%. Exemplo: para utilizar uma tolerância de 5%, o valor a ser configurado é de 0.05.
 
-![CC_Configurações_2_PT](//images.ctfassets.net/alneenqid6w5/3kjEQ2OblMKqwumNWSFnSt/1fde698cc193dda7e6ed82de51f7c19e/CC_Configura__es_2_PT.JPG)
+![CC_Configurações_2_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/customer-credit-como-comecar/configurando-a-app_2.JPG)
 
 ### Criação automática de conta 
 
 Esta opção permite que qualquer cliente da loja possa utilizar o Customer Credit como meio de pagamento, mesmo que o você não tenha previamente criado uma conta para ele no app do Customer Credit. Ao ativar esta funcionalidade, você também deve definir qual o limite de crédito inicial poderá ser utilizado para pedidos realizados por clientes sem conta no Customer Credit.
 
-![CC_Configurações_3_PT](//images.ctfassets.net/alneenqid6w5/1TX1ArtNwm8toa84UqNCHZ/692229716909844ecc30b605e629301e/CC_Configura__es_3_PT.JPG)
+![CC_Configurações_3_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/customer-credit-como-comecar/configurando-a-app_3.JPG)
 
 ### Página Meus Créditos
 
@@ -68,7 +68,7 @@ Ao realizar a instalação da página __Meus Créditos__, você permitirá que o
 
 O cliente poderá acessar esta página no site da sua loja em __Minha Conta > Meus Créditos__.
 
-![CC_Configurações_4_PT](//images.ctfassets.net/alneenqid6w5/59SuH9h84mmgaHmcDB2Bbl/8bf45b5c1708a3861ea92a729c2b9d22/CC_Configura__es_4_PT.JPG)
+![CC_Configurações_4_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/customer-credit-como-comecar/configurando-a-app_4.JPG)
 
 ### Instruções de pagamento  
 
@@ -76,15 +76,15 @@ Esta configuração permite você possa inserir instruções relacionadas ao pag
 
 > ⚠️ A mensagem cadastrada nessa configuração será replicada em todos os títulos emitidos para todas as contas de clientes do Customer Credit. Não é possível configurar uma mensagem única para cada cliente ou título específico.
 
-![CC_Configurações_5_PT](//images.ctfassets.net/alneenqid6w5/6UkZi827KKQqH8Yk1mmPKj/b2c97be162320e8ed8ef2da3729ecedd/CC_Configura__es_5_PT.JPG)
+![CC_Configurações_5_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/customer-credit-como-comecar/configurando-a-app_5.JPG)
 
 ### Informações de identificação
 
 Esta opção permite selecionar quais informações de identificação da loja devem ser exibidas na parte superior dos títulos emitidos.
 
-![CC_Configurações_6_PT](//images.ctfassets.net/alneenqid6w5/6ADAtBnrZQS6sCzkwPSqFt/d85d0bf4bf69a520f923844d36f304bb/CC_Configura__es_6_PT.JPG)
+![CC_Configurações_6_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/customer-credit-como-comecar/configurando-a-app_6.JPG)
 
-![CC_Configuration_8_PT](//images.ctfassets.net/alneenqid6w5/54WcXTGpAGppAyGxxoa8gx/ec7b597cdf26bc9aeb17012047849f44/CC_Configuration_8_PT.JPG)
+![CC_Configuration_8_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/customer-credit-como-comecar/configurando-a-app_7.JPG)
 
 ## Condições de pagamento 
 
@@ -99,7 +99,7 @@ Para criar as condições de pagamento de títulos do Customer Credit, siga os p
 5. Ative a condição no campo __Status__.
 6. Em __Configure as condições de prazo e parcelamento__, indique o número de parcelas, período de vencimento (em dias) e a taxa de juros simples a ser aplicada em cada parcela. Para criar mais de uma condição de pagamento, clique em `Adicionar nova condição`.
 
-![CC_Configuration_9_PT](//images.ctfassets.net/alneenqid6w5/3P3JMnSiAPXNprYvgaNFNh/337edcc2678c80f6e1504def51efceaf/CC_Configuration_9_PT.JPG)
+![CC_Configuration_9_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/customer-credit-como-comecar/configurando-a-app_8.JPG)
 
 <blockquote><ui>7. Se desejar, você também pode [configurar condições especiais de pagamento](https://help.vtex.com/pt/tutorial/condicoes-especiais--tutorials_456).</ui>
 

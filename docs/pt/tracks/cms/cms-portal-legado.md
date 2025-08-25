@@ -18,7 +18,7 @@ trackSlugEN: cms
 
 A seção [Layout](https://help.vtex.com/pt/subcategory/layout--2g6LxtasS4iSeGEqeYUuGW) permite que você crie seu storefront usando HTML e CSS. Ela é organizada em pastas e arquivos com as funções descritas abaixo.
 
-![CMS - Layout PT](//images.ctfassets.net/alneenqid6w5/4YnFtKkC8exlv3vm8VTCqh/ce15ae6de766c7856a26d9c2f7e21cbc/cms-layout-pt.png)
+![CMS - Layout PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/cms/cms-portal-legado_1.png)
 
 - **HTML Templates:** criar o código HTML e os arquivos JavaScript e CSS de referência que serão usados nas páginas do site.
 
@@ -38,7 +38,7 @@ A seção [Layout](https://help.vtex.com/pt/subcategory/layout--2g6LxtasS4iSeGEq
 
 A seção [Configurações](https://help.vtex.com/pt/subcategory/configuracoes-de-cms--6kovkwzMRyeOOc2iEC4suM) permite que você defina configurações relacionadas ao site da sua loja, como metadados, tags de SEO, tipos de arquivos, etc. 
 
-![CMS - Settings PT](//images.ctfassets.net/alneenqid6w5/1JFkw9wFlJd5oulogEGDDL/77031b9bdbae01c422147d00c9f9a2cb/cms-settings-pt.png)
+![CMS - Settings PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/cms/cms-portal-legado_2.png)
 
 A seção **Configurações** contém as seguintes abas:
 
@@ -67,7 +67,7 @@ Toda loja precisa ter, sem exceção, as seguintes pastas no CMS para garantir o
 
 Veja abaixo estas pastas básicas no CMS:
 
-![2 1](//images.ctfassets.net/alneenqid6w5/6jvwsPMcIBTllVekqROlkk/ea2d4a9d0d4cdb8a07dd02a3add4b40b/2_1.png)
+![2 1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/cms/cms-portal-legado_3.png)
 
 Estas pastas vêm por padrão no ambiente de todas as lojas VTEX.
 

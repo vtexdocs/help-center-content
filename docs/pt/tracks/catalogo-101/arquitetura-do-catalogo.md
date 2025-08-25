@@ -35,4 +35,4 @@ Essas especificações são, por exemplo, a composição de um produto, ou o tam
 
 Abaixo, vemos um esquema da arquitetura do Catálogo na VTEX.
 
-![arquitetura-catalogo-PT](//images.ctfassets.net/alneenqid6w5/4P3TCN2sjS3EuMdNO6Rrkb/76c3c87942fb93c1022b4eacb748c6f8/PT.png)
+![arquitetura-catalogo-PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/catalogo-101/arquitetura-do-catalogo_1.png)

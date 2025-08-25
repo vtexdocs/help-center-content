@@ -20,7 +20,7 @@ O VTEX Sales App permite [habilitar uma funcionalidade de transferência de carr
 
 Para o vendedor compartilhar um carrinho, ele pode gerar um código numérico ou um QR Code. Para isso, estando na tela do carrinho, basta clicar no botão __Transferir__. Veja um exemplo na imagem abaixo.
 
-![24. Enable cart transfer between devices - 3](//images.ctfassets.net/alneenqid6w5/1rk5DOgk5a0XAWwWqLCO4t/dcc5225d218120953155432b30f43c21/24._Enable_cart_transfer_between_devices_-_3.png)
+![24. Enable cart transfer between devices - 3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/instore-usando-o-app/transferir-e-capturar-carrinho_1.png)
 
 Ao clicar nesse botão, o aplicativo mostra um QR Code e um código numérico de quatro dígitos.
 
@@ -34,7 +34,7 @@ Para capturar um carrinho, basta entrar no menu principal do VTEX Sales App e cl
 
 Alternativamente, na tela inicial do aplicativo, o vendedor pode simplesmente arrastar a tela para a direita. Ao arrastar a tela para a direita, você verá a tela para __Capturar Carrinho__, conforme mostra a imagem abaixo.
 
-![24. Enable cart transfer between devices - 2](//images.ctfassets.net/alneenqid6w5/2BdYpDo4UL0GETBeTM72u3/a017156e7e2beac121abb5d2cd0b1ba0/24._Enable_cart_transfer_between_devices_-_2.png)
+![24. Enable cart transfer between devices - 2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/instore-usando-o-app/transferir-e-capturar-carrinho_2.png)
 
 Nessa tela, é possível capturar um carrinho por um desses três métodos:
 - Código do carrinho

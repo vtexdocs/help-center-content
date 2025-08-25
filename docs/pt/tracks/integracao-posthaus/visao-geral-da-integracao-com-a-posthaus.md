@@ -18,7 +18,7 @@ A Posthaus é um marketplace de moda, disponibilizando roupas de todos os tamanh
 
 Essa integração visa conectar sua loja VTEX com o marketplace, permitindo que você anuncie seus produtos, aumente suas vendas e atingindo novos clientes a partir deste novo canal.  
 
-![Posthaus ](//images.ctfassets.net/alneenqid6w5/3CQuHVqM0U74dKbWKr4zmH/af7fbdac910ee0e7881e03e355d600ad/logo_posthaus.png)
+![Posthaus ](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/integracao-posthaus/visao-geral-da-integracao-com-a-posthaus_1.png)
 
 > ℹ️ A funcionalidade [Multilevel Omnichannel Inventory (MOI)](https://help.vtex.com/pt/tutorial/multilevel-omnichannel-inventory--7M1xyCZWUyCB7PcjNtOyw4) não está disponível na integração com a Posthaus.  
 
