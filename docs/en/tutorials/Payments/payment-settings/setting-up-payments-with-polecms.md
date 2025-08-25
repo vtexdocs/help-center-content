@@ -1,10 +1,10 @@
 ---
 title: 'Setting up payments with PoleCMS'
 id: 12Wyet40HSrq5ImonyRDRu
-status: CHANGED
+status: PUBLISHED
 createdAt: 2025-05-30T16:44:23.741Z
-updatedAt: 2025-06-11T12:00:12.908Z
-publishedAt: 2025-06-11T11:55:48.881Z
+updatedAt: 2025-08-18T15:10:32.788Z
+publishedAt: 2025-08-18T15:10:32.788Z
 firstPublishedAt: 2025-05-30T17:05:56.692Z
 contentType: tutorial
 productTeam: Financial
@@ -33,7 +33,7 @@ To configure PoleCMS, follow the steps below:
     	<li>**Disabled**: Capture takes place only when the order is invoiced. If you select this behavior, it is important to pay attention to the invoicing time, as invoicing can exceed the capture time agreed with the payment provider and lead to the cancellation of the transaction.</li>
 </ul>
 
-8. In **Provider Fields**, select or complete the fields **Clave de aplicación VTEX**, **Token de aplicación VTEX**, **Clave pública**, **Clave HMAC-SHA-256**, **Pago por token**, **Modo de ingreso de datos de pago**, **Número de intentos de pago con tarjeta**, **Tema**, and **Modo compacto** according to the provider`s instructions.
+8. In **Provider Fields**, select or complete the fields **Clave pública**, **Clave HMAC-SHA-256**, **Pago por token**, **Modo de ingreso de datos de pago**, **Número de intentos de pago con tarjeta**, **Tema**, and **Modo compacto** according to the provider`s instructions.
 9. Click `Save`.
 
 ## Setting up the payment condition

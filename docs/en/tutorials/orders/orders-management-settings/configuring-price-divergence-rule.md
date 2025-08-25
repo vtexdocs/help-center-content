@@ -43,13 +43,13 @@ To create a price divergence rule, follow the steps below:
 
 You will see the following screen:
 
-![print_01_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/orders/orders-management-settings/configuring-price-divergence-rule_1.png)
+![print_01_EN](//images.ctfassets.net/alneenqid6w5/6lp2IKdU8VvaFgOUhHv5GA/fa9641527537c42b23341371afd4952c/print_01_EN.png)
 
 The **All** tab displays all configured authorization rules.
 
 To create the first authorization rule, click on **CREATE RULES**. A new tab named **1st rule** will be displayed. Clicking on this tab will display the configuration options.
 
-![print_02_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/orders/orders-management-settings/configuring-price-divergence-rule_2.png)
+![print_02_EN](//images.ctfassets.net/alneenqid6w5/Q8TwzIWNwQPg13tcaALd6/624e56c9b13d8208d9415b0645b4745a/print_02_EN.png)
 
 To configure the **1st rule**, you can increase or decrease the divergence percentage by dragging the ends of the bar. The > sign determines the start of the range, and the < sign determines its end. The range can be from 0% to 100%.
 
@@ -65,7 +65,7 @@ To configure a hierarchy of users responsible for approving orders, you must ent
 
 To create the **2nd rule**, click on the <i class="fas fa-plus" aria-hidden="true"></i> plus sign. The same applies to creating a third or fourth rule, and so on. Once you click on the icon, the following interface is displayed:
 
-![print_03_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/orders/orders-management-settings/configuring-price-divergence-rule_3.png)
+![print_03_EN](//images.ctfassets.net/alneenqid6w5/6Yxvh93ja2V69Yywn3CyWt/9c85616fd03154cf6130dc5addc22cc4/print_03_EN.png)
 
 Configure the new authorization rule and, once you have configured all the rules you want, click on the **SAVE RULES** button. You will see the following message: _After saving, you can still edit or delete them at any time_. Click **OK** to confirm. Once this is done, the Price Divergence rule will be created.
 

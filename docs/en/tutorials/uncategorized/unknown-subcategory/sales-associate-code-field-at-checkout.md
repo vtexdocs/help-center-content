@@ -57,7 +57,7 @@ After creating the salesassociatecode entity, you need to link it to a promotion
 
 <blockquote><ui>3. In **To which items will this promotion apply?**, click the **utm_campaign** option and type *salesassociatecode*.</ui>
 
-![utm campaign codigovendedor](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/uncategorized/unknown-subcategory/sales-associate-code-field-at-checkout_1.PNG)
+![utm campaign codigovendedor](//images.ctfassets.net/alneenqid6w5/6jroNJYCvzunmfosErnmZF/4886ffbd85e8e08257a5d8249a734a4f/UTM_Campaign_codigovendedor_en.PNG)
 
 <blockquote><ui>4. In **Restrictions and limitations of use**, add the other available restrictions if desired. Select the **Apply with other promotions** option.</ui>
 
@@ -85,4 +85,4 @@ Additionally, you need to complete the following steps:
 
 After completing all the above steps, the **Sales associate code** field will be available on the Checkout page.
 
-![Sales associate code](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/uncategorized/unknown-subcategory/sales-associate-code-field-at-checkout_2.png)  
+![Sales associate code](//images.ctfassets.net/alneenqid6w5/kWi3gE5Q9gyHP2pa8XFpv/6f6627b73ef728a83841ed4017256925/Checkout_UI_-_EN_2.png)  

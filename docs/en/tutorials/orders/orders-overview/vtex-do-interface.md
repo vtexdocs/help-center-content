@@ -17,7 +17,7 @@ subcategoryId: 3VNOhxDrvYxJThhuJClrYZ
 
 VTEX DO manages tasks automatically created by the VTEX Admin that require manual action by the ecommerce team. To access it, log in to your VTEX Admin, go to **Orders > [All orders](https://help.vtex.com/en/tutorial/lista-de-pedidos--2QTduKHAJMFIZ3BAsi6Pi)**, and click on the inbox icon in the bottom right corner of the page. By clicking on the icon, a modal will display the list of tasks related to the store's orders. 
 
-![VTEX Do overview EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/orders/orders-overview/vtex-do-interface_1.gif)
+![VTEX Do overview EN](//images.ctfassets.net/alneenqid6w5/4FzyUh5uqhzXKfbw9MJXsQ/0b341bae7a9f462483ddefb3ad044e14/VTEX_Do_overview_EN.gif)
 
 > ℹ️ Only users with the <a href = "https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#oms-full-access">OMS - Full Access</a> role can perform tasks through VTEX DO.
 
@@ -113,7 +113,7 @@ Tasks managed through VTEX DO can include messages from all VTEX systems. Some e
 
 ## Task details
 
-![VTEX Do details EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/orders/orders-overview/vtex-do-interface_2.jpg)
+![VTEX Do details EN](//images.ctfassets.net/alneenqid6w5/mPby3BuhZYAwGyFuII8mr/9bb5a8bb66f10645c751d11ae95b4ee0/VTEX_Do_details_EN.jpg)
 
 By clicking on the name of a task in the list, you are redirected to the task details modal, which displays more information about the task and actions to solve it. The following fields are displayed:
 

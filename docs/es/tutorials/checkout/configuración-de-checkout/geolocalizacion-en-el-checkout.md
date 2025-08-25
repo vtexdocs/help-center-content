@@ -42,7 +42,7 @@ Cuando tengas la API, siga los pasos adelante:
 1. En el Admin VTEX, accede a __Configuración de la tienda > Envío > Envío por geolocalización__, o escribe __Envío por geolocalización__ en la barra de búsqueda en la parte superior de la página.
 2. Ponga la API Key en el campo disponible y haga un click en __Registrar Llave__.
 
-![Geolocalizacao 1 ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/checkout/configuraci%C3%B3n-de-checkout/geolocalizacion-en-el-checkout_1.png)
+![Geolocalizacao 1 ES](//images.ctfassets.net/alneenqid6w5/3XL4C5B5SM48uGaeocUiw4/22560c9c40cc587cb7fa0884e48fcd5f/Geolocalizacao_1_ES.png)
 
 > ℹ️ En algunos paises, el Google Maps no hace un mapping de buena calidad, lo que hace con que las direcciones queden mal escritas o incorrectas. En estes casos, la dirección debe ser alterada directamente en el mapa.
 
@@ -59,7 +59,7 @@ Después de crear el poligono y insertar el ID en la planilla de flete de la tra
 3. En el menú de opciones azul ubicado en la parte superior de la página, haga clic en __Checkout__.
 4. En el campo **Google Maps API Key**, inserte la misma API Key utilizada en la etapa de logística.
 
-![Google map keys](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/checkout/configuraci%C3%B3n-de-checkout/geolocalizacion-en-el-checkout_2.PNG)
+![Google map keys](//images.ctfassets.net/alneenqid6w5/5Fly0uJ3DE9SmlK6I1oRNx/687470ae8e86c210d778e34057af2a5c/google_maps_api_key_es.PNG)
 
 Asi que la API Key sea informada en las configuraciónes del Checkout, la geolocalización ya va estar visible en el checkout de la tienda.
 

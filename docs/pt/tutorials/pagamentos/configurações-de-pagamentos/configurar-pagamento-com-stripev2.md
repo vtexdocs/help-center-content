@@ -3,8 +3,8 @@ title: 'Configurar pagamento com StripeV2'
 id: 3XG7Vrb0GGhdN40ICNKQoN
 status: PUBLISHED
 createdAt: 2025-03-07T15:20:58.287Z
-updatedAt: 2025-08-13T18:36:28.531Z
-publishedAt: 2025-08-13T18:36:28.531Z
+updatedAt: 2025-08-15T18:47:00.764Z
+publishedAt: 2025-08-15T18:47:00.764Z
 firstPublishedAt: 2025-03-07T15:34:55.639Z
 contentType: tutorial
 productTeam: Financial
@@ -148,6 +148,12 @@ Para configurar a integração da StripeV2 na VTEX, siga os passos abaixo:
 7. Em __Campos do provedor__, na opção __Mode__, selecione __Embedded__.
 8. Em __Test Mode__, selecione __False__ se o modo for __Live__ ou __True__ se o modo for __Test__.  
 9. Clique em `Salvar`.
+10. Adicione chaves Stripe nas configurações do aplicativo do provedor, como segue:
+<blockquote>a. Acesse **Store Settings > Payment > Providers**.</blockquote>
+<blockquote>b. Clique em **Settings**.</blockquote>
+<blockquote> c. Em **Publishable Key**, insira sua chave começando com **pk_**.</blockquote>
+<blockquote>d. Em **Secret Key**, insira sua chave começando com **rk_**.</blockquote>
+<blockquote>d. Clique em **Save**.</blockquote>
 
 ### Configurar condição de pagamento
 

@@ -20,7 +20,7 @@ subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 - If the product already exists on Amazon, follow the instructions in the [Amazon Offer Matching tutorial](https://help.vtex.com/en/tutorial/match-de-anuncios-amazon--7fRfoP69kYgg8znImMhyQ0) to link your product to an Amazon offer.
 - If the product doesn't exist on Amazon yet, follow the steps in this tutorial to add the product and create a new offer.
 
-![overview-listing-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/integration-settings/amazon-listing_1.gif)
+![overview-listing-en](//images.ctfassets.net/alneenqid6w5/6WBSbS8HiLi35enIvScFvC/c5e4095175681e8a9223a5e871492c43/overview-listing-en.gif)
 
 > ℹ️ All products must have [Inventory](https://help.vtex.com/en/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb) and [Price](https://help.vtex.com/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP) configured before being sent to the marketplace.
 
@@ -38,9 +38,9 @@ The page consists of the following sections:
 
 In the search bar, you can search SKUs by **name** or **SKU ID.** See some examples below.
 
-![Filter name listing](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/integration-settings/amazon-listing_2.jpg)
+![Filter name listing](//images.ctfassets.net/alneenqid6w5/5UppxMacyhINSC81pMLgHe/935d63b6ade2087b23d59c0c6464f97e/name-listing.jpg)
 
-![SKU search listing](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/integration-settings/amazon-listing_3.jpg)
+![SKU search listing](//images.ctfassets.net/alneenqid6w5/4Zfk20fxq8QsuVGnpv9smq/01fa6a8f48cd00a91736a6e63722e926/sku-listing-en.jpg)
 
 ### Filters
 

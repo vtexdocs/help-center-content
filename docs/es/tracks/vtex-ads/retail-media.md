@@ -41,22 +41,22 @@ Con VTEX Ads pueden configurarse diferentes tipos de campaña para alcanzar obje
 
 Los anuncios de productos patrocinados representan el formato más común en retail media. Los productos patrocinados se muestran en posiciones estratégicas, como resultados de búsqueda y páginas de listado de productos, basándose en las palabras clave y categorías consultadas por el consumidor, lo que aumenta la visibilidad de los productos y la tasa de conversión.
 
-![sponsored-products](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/vtex-ads/retail-media_1.png)
+![sponsored-products](//images.ctfassets.net/alneenqid6w5/5XOoqGk9bYhRhjkNqEtFa8/22be2a907dc02e6ef7f1b9e4f1a26140/image2.png)
 
 ### Banners/Displays
 
 Los banners y los displays se utilizan para promover productos y promociones específicas, generalmente mostrados en áreas seleccionadas del sitio web, como categorías de productos o en la página de inicio. Este formato se centra en destacar las promociones de forma visual.
 
-![banner-display](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/vtex-ads/retail-media_2.png)
+![banner-display](//images.ctfassets.net/alneenqid6w5/2iruGcyoNWvL6mlFTVYhD2/920c67898c2f33d144ea8f21ed6f38db/image4.png)
 
 ### Marcas patrocinadas
 
 Este formato permite que las marcas coloquen sus anuncios de manera destacada, combinando elementos de banners y productos patrocinados en una única experiencia de publicidad digital.
 
-![sponsored-brands](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/vtex-ads/retail-media_3.png)
+![sponsored-brands](//images.ctfassets.net/alneenqid6w5/5fC7TIDcTHiqKaKIoJURaL/b509474d5847b3c57edd4ba40f37f5f8/image3.png)
 
 ### Pantalla en tienda
 
 Este tipo de campaña consiste en utilizar paneles LED o pantallas LCD en tiendas físicas para mostrar campañas y promociones. Estos displays pueden usarse tanto para aumentar el reconocimiento de marca como para promover ofertas específicas, en función del comportamiento de compra de los consumidores.
 
-![digital-signage](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/vtex-ads/retail-media_4.png)
+![digital-signage](//images.ctfassets.net/alneenqid6w5/79kodZpNkRAvIaNDGphZmW/b9ae599f84fd823667d473bfe659e250/image1.png)

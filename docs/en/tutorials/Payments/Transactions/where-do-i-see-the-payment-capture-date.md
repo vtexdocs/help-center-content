@@ -23,4 +23,4 @@ To do that, follow the steps below:
 2. Find the desired transaction and click on it.
 3. In the __Transaction Events__, look for the settlement event:
 
-![settlementEvent](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Transactions/where-do-i-see-the-payment-capture-date_1.png)
+![settlementEvent](//images.contentful.com/alneenqid6w5/2svl4ROF5OoG4G62QeQaAg/8f45a34ccbe4c03a178a89bcd8468957/settlementEvent.png)

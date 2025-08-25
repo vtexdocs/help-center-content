@@ -26,6 +26,6 @@ To configure this domain, follow these steps:
 5. Add or update a key with the name **AddressSite**.
 6. The name of the key must be the hostname (full domain name) of your site, e.g. www.mysite.com.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Storefront/Layout/configuring-an-xml-domain_1.jpg)
+![](https://images.contentful.com/alneenqid6w5/2Pi5Pj2hRuOuUsmoqQc260/6604151e3c2f5de3e5a90af035037741/2017-09-27_194912.jpg)
 
 __Note:__ if you can’t click on the **Add** button to add a new key, first click on the green refresh button at the bottom of the table. This will make the Add button work.

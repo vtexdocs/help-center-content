@@ -22,14 +22,14 @@ Usaremos como exemplo um banner da Home no passo-a-passo. Porém, estas instruç
 3. Clique na pasta **Sites and Channels**.
 4. Clique no nome do website desejado.
 5. Clique na pasta **/**.
-![instrução CMS -pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/como-alterar-banner_1.png)
+![instrução CMS -pt](//images.ctfassets.net/alneenqid6w5/1lAXv0QTpq4YOSg2cu86Yi/5e6c2e3cfe424806118b20a9ef5e7b7b/CMS_instru____o.png)
 6. Clique no arquivo **Home**.
 7. Clique na aba **Settings**.
 8. Clique no ícone de lápis para editar.
-![cms-home-settings PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/como-alterar-banner_2.png)
+![cms-home-settings PT](//images.ctfassets.net/alneenqid6w5/5yEek4apQ4KCoKeSAoCEAY/9d4008ac0a2852da8eaa7fe801d093b1/banner_home_settings_-_pt.png)
 9. Será aberta a janela de banners.
 10. Clique no ícone de lápis que aparecerá.
-![cms_home_settings_lapis pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/como-alterar-banner_3.png)
+![cms_home_settings_lapis pt](//images.ctfassets.net/alneenqid6w5/2ab0An97IMUK82aACeS2e4/8ded803db11dfb6e478d4de78749f903/cms_settings_lapis_pt.png)
 11. Será aberto o formulário de banner.
 
 **Altere o conteúdo do formulário:**

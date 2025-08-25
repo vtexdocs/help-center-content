@@ -21,6 +21,6 @@ Esta transação é realizada no valor de R$ 1,50 e pode ser identificada pela p
 
 Veja abaixo um exemplo de transação de verificação de conta, disponível na página de transações do Admin VTEX, em __Pedidos > Transações__:
 
-![Transação av pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/transa%C3%A7%C3%B5es/como-funcionam-as-transacoes-de-verificacao-de-conta_1.png)
+![Transação av pt](//images.ctfassets.net/alneenqid6w5/2JzA7ef5RiZd0lHXuFAouW/6db07224d7c04d8c1a94746462b7a2d2/transaÃ_Ã_o_av_pt.png)
 
 > ⚠️ Após os dados do cartão serem validados pela instituição financeira ou empresa emissora, a transação de pagamento é automaticamente cancelada e o valor de R$ 1,50, estornado, sem gerar cobranças ao cliente.

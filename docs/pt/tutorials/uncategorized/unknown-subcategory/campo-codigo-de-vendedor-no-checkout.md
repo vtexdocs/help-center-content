@@ -57,7 +57,7 @@ Após a criação da entidade *codigovendedor*, é necessário associá-la a uma
 
 <blockquote><ui>3. Em **Quais as condições para a promoção ser válida?**, clique na opção **utm_campaign** e digite no campo *codigovendedor*.</ui>
 
-![utm campaign codigovendedor](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/uncategorized/unknown-subcategory/campo-codigo-de-vendedor-no-checkout_1.PNG)
+![utm campaign codigovendedor](//images.ctfassets.net/alneenqid6w5/6jroNJYCvzunmfosErnmZF/1896457a0ea45bc20292377e8c963077/UTM_Campaign_codigovendedor.PNG)
 
 <blockquote><ui>4. Em **Restrições e limitações de uso**, adicione as demais restrições disponíveis, caso desejar. Selecione a opção **Permitir acumular promoções**.</ui>
 
@@ -85,4 +85,4 @@ Adicionalmente, os seguintes passos devem ser realizados:
 
 Após executar todas as etapas acima descritas, o campo **Código do Vendedor** estará disponível na tela do Checkout.
 
-![Código do vendedor](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/uncategorized/unknown-subcategory/campo-codigo-de-vendedor-no-checkout_2.png)
+![Código do vendedor](//images.ctfassets.net/alneenqid6w5/kWi3gE5Q9gyHP2pa8XFpv/c44bb28d5954f7f015da9feb751dc8f4/Checkout_UI_-_PT_2.png)

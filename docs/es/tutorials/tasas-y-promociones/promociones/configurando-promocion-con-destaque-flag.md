@@ -17,7 +17,7 @@ subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 
 El destaque de una promoción es un aviso visual que puede insertarse en las estanterías y en las páginas de productos, informando que el artículo es elegible para una promoción. Un ejemplo común es la indicación de envío gratuito debajo de la imagen del producto.
 
-![ExemploPromocaoDestaque2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/tasas-y-promociones/promociones/configurando-promocion-con-destaque-flag_1.png)
+![ExemploPromocaoDestaque2](//images.contentful.com/alneenqid6w5/jS31HBOW3YWsIYyUOE8o/3d0c108c84b2a7c5e6ae2d4254425e4b/ExemploPromocaoDestaque2.png)
 
 En esta guía puedes consultar las siguientes secciones:
 
@@ -88,15 +88,15 @@ Esta configuración consiste en editar la plantilla de la página utilizada para
 4. Haz clic en **/ > Producto > @Producto@**.
 5. En el menú lateral, haz clic en el layout marcado con una marca de verificación roja.
 
-    ![template-pagina](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/tasas-y-promociones/promociones/configurando-promocion-con-destaque-flag_2.gif)
+    ![template-pagina](//images.ctfassets.net/alneenqid6w5/37poO6Jxhn6Mc1nLeMIbB1/d973bfb36abeb7dece6959e78f60b0a6/template-pagina.gif)
 
 6. En el campo __Template__, marca el nombre de la plantilla utilizada:
 
-    ![template-produto](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/tasas-y-promociones/promociones/configurando-promocion-con-destaque-flag_3.png)
+    ![template-produto](//images.ctfassets.net/alneenqid6w5/3GST4wBaoqbW84ryZ7y1Y5/5d4f8d0a77b694363d61a2847417a28c/template-produto.png)
 
 7. En el menú lateral, haz clic en **HTML Templates > @Producto@**.
 
-    ![save-template](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/tasas-y-promociones/promociones/configurando-promocion-con-destaque-flag_4.gif)
+    ![save-template](//images.ctfassets.net/alneenqid6w5/5n0wxeIf8uVM26GRVkQ5Ty/dadb250a79ceb1e06ac4a49e5c738e30/save-template.gif)
 
 8. Haz clic en la plantilla que se encuentra en **@Producto@**.
 9. Ingresa el código `<vtex.cmc:discountHightLight/>` de acuerdo con tu estructura HTML.
@@ -107,7 +107,7 @@ Esta configuración consiste en editar la plantilla de la página utilizada para
 1.  En el Admin VTEX, accede a **Storefront > Layout**, o ingresa **Layout** en la barra de búsqueda de la parte superior de la página.
 2.  Haz clic en **CMS > Shelves Templates**.
 
-    ![shelves-templates](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/tasas-y-promociones/promociones/configurando-promocion-con-destaque-flag_5.png)
+    ![shelves-templates](//images.ctfassets.net/alneenqid6w5/9F4rv410hc9HxXowv9EAX/ab9c6b2d2e213cf3481ed56ede0404ac/shelves-templates.png)
 
 3.  Haz clic en la plantilla deseada.
 4.  Ingresa el código `$product.DiscountHightLight`.

@@ -42,7 +42,7 @@ Cada banco que realiza transações de pagamento associadas ao PSE possui um có
 9. No componente __data__, selecione o componente __banks__.
 10. Clique sobre o nome do banco para o qual deseja criar a promoção e anote o número com 4 dígitos descrito no campo __code__.
 
-![PSE Dev Tool pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/configura%C3%A7%C3%B5es-de-pagamentos/criar-promocao-para-pagamentos-com-o-pse_1.png)
+![PSE Dev Tool pt](//images.ctfassets.net/alneenqid6w5/F2ucfedyA57R4t5H6Bfab/0d7fbd6284642e35f5e64d70fe9fbbf3/PSE_Dev_tool_pt.png)
 
 ## Criando uma promoção PSE
 

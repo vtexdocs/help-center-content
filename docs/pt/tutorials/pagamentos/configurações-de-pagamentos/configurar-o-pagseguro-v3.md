@@ -3,8 +3,8 @@ title: 'Configurar pagamento com PagBankV3'
 id: 5Noi1mUbBQ6CyqdeDQtWfw
 status: PUBLISHED
 createdAt: 2021-12-02T12:14:58.698Z
-updatedAt: 2025-07-16T22:10:10.719Z
-publishedAt: 2025-07-16T22:10:10.719Z
+updatedAt: 2025-08-18T13:11:08.593Z
+publishedAt: 2025-08-18T13:11:08.593Z
 firstPublishedAt: 2021-12-02T19:18:21.251Z
 contentType: tutorial
 productTeam: Financial
@@ -35,7 +35,7 @@ Para configurar o PagBankV3, siga os passos abaixo:
    		<li>**Desativado**: a captura acontece somente quando o pedido for faturado. Caso escolha esse comportamento de captura, é importante atentar-se quanto ao tempo do faturamento. Isso porque o faturamento pode ultrapassar o tempo de captura acordado com o provedor de pagamentos e levar à perda da transação.</li>
 </ul>
 8. Caso deseje utilizar o [split de pagamento](https://help.vtex.com/pt/tutorial/split-de-pagamento--6k5JidhYRUxileNolY2VLx) em sua loja, selecione a opção __Ativar split de recebíveis e enviar recebedores de pagamento__ e indique o __Responsável pelas tarifas de processamento de pagamentos__ e __Responsável pelos estornos__ (marketplace, sellers ou marketplaces e sellers).
-9. Em __Campos do provedor__, selecione os campos __Prazo para captura do pagamento__, __Gostaria de ativar o repasse do liable das transações para o seller com maior valor a receber?__ e __Prazo de expiração do QR Code PIX__ conforme as instruções do provedor.  
+9. Em __Campos do provedor__, selecione os campos __Prazo para captura do pagamento__, __Gostaria de ativar o repasse do liable das transações para o seller com maior valor a receber?__, __Prazo de expiração do QR Code PIX__ e __Ativar 3DS__ conforme as instruções do provedor.  
 10. Clique em __Salvar__.
 
 > ⚠️ O PagBank também oferece a opção de captura automática programada para até 5 dias. Caso deseje utilizá-la em sua loja, siga os passos indicados nesta [documentação](https://help.vtex.com/pt/known-issues/a-captura-automatica-programada-nao-e-exibida--1cuvGbgUvd1ATeHEG6Il98).

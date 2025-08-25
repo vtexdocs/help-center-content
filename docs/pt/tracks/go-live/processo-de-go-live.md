@@ -18,7 +18,7 @@ Se você já [configurou o funcionamento da sua loja](https://help.vtex.com/pt/t
 
 Neste tutorial você encontra o passo a passo detalhado de como realizar o go-live da sua loja.
 
-![Go-live](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/go-live/processo-de-go-live_1.jpg)
+![Go-live](//images.ctfassets.net/alneenqid6w5/1DBW4Cw10Z3Gt4orXMAqWE/032594f36e1fe4fda13252502060b753/go_live_pt.jpg)
 
 > ℹ️ Note que uma loja em produção é diferente de uma conta em produção. De modo geral, pode-se dizer que para ter uma loja em produção é necessário colocar a conta em produção e realizar o apontamento de DNS. Confira abaixo todos os passos envolvidos nesse processo.
 

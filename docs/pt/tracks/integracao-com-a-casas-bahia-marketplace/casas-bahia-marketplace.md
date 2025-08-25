@@ -18,6 +18,6 @@ A [Casas Bahia Marketplace](https://marketplace.via.com.br/) é uma das líderes
 
 Usando a integração nativa com a Casas Bahia Marketplace, você poderá expor e vender seus produtos nas lojas online das [Casas Bahia](https://www.casasbahia.com.br/), [Ponto](http://pontofrio.com.br/) e [Extra](http://extra.com.br/).
 
-![Casas Bahia Marketplace](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/integracao-com-a-casas-bahia-marketplace/casas-bahia-marketplace_1.jpg)  
+![Casas Bahia Marketplace](//images.ctfassets.net/alneenqid6w5/nBFPh57qyKQcaPmseMIcj/9fd735f8bd3a713d26e3655aa0419601/Casas_Bahia_Marketplace.jpg)  
 
 A configuração com a Casas Bahia Marketplace tem como objetivo enviar o catálogo de produtos da sua loja VTEX para os 3 marketplaces que fazem parte do Grupo Casas Bahia, permitindo que você anuncie seus produtos para milhões de clientes e aumente suas vendas.  

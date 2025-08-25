@@ -36,7 +36,7 @@ To start configuring the integration, please follow the steps below:
 10. Click on `Next`.
 11. In the pop-up window, a confirmation that the integration has been configured will be displayed. Click on `Done`.
 
-![gif en v1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/integration-with-facebook-business-extension/configuring-the-integration-with-fbe-in-the-vtex-admin_1.gif)
+![gif en v1](//images.ctfassets.net/alneenqid6w5/1FptUh8HMlsK1FvVPBw89H/6eec11fdae6edb9afd05f70a1814b248/gif_en_v1.gif)
 
 ## Sending product information to Facebook Business Extension
 

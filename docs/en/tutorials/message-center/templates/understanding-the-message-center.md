@@ -33,7 +33,7 @@ Understand the information that each template card contains:
 
 To facilitate browsing, in addition to the free text search field, the interface provided filters per application (modules) and type (standard/default and/or personalized/amended message).
 
-![busca-templates-central-mensagens en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/message-center/templates/understanding-the-message-center_1.png)
+![busca-templates-central-mensagens en](//images.ctfassets.net/alneenqid6w5/6unXvbEcUgaQAucsKCcm8W/9aebebd28a45aea02949470c429fe4db/busca-templates-central-mensagens_en.png)
 
 After understanding the basic about the templates, you can see how to edit them. This step is not mandatory, since VTEX provides a basic and responsive layout for all messages, with information needed to communicate properly with your customer, but it is natural that the stores adapt the brand communication standard they already use.
 

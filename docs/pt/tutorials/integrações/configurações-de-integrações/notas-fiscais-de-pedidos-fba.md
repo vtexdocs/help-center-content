@@ -19,7 +19,7 @@ A funcionalidade de Notas fiscais permite o seller [filtrar](#filtros) e exporta
 
 Para acessar a página vá em **Admin VTEX > Marketplace > Amazon > Notas fiscais** ou digite **Notas fiscais**  na barra de busca do Admin, feito isso, a seguinte página aparecerá.
 
-![Overview Notas fiscais Amazon](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integra%C3%A7%C3%B5es/configura%C3%A7%C3%B5es-de-integra%C3%A7%C3%B5es/notas-fiscais-de-pedidos-fba_1.jpg)
+![Overview Notas fiscais Amazon](//images.ctfassets.net/alneenqid6w5/2Mon7qB0FEIGhzTdvf0pgy/4f1015d9612e95b64790a65d8635ab0d/nf-amazon-pt.jpg)
 
 ## Filtros
 
@@ -37,11 +37,11 @@ Ao selecionar os filtros **Tipo de operação** e **Tipo de nota fiscal,**  outr
 
 - Se **Tipo de operação** é selecionado, será exibido as opções, **Remessa (Excedente), Remoção, Vendas, Devolução do cliente, Ajuste de estoque (encontrado)** e **Ajuste de estoque (perdido),** conforme imagem abaixo.  
 
-![Tipo de operação NFe](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integra%C3%A7%C3%B5es/configura%C3%A7%C3%B5es-de-integra%C3%A7%C3%B5es/notas-fiscais-de-pedidos-fba_2.jpg)
+![Tipo de operação NFe](//images.ctfassets.net/alneenqid6w5/5qWQCmp0zk1ItIGqwmGEB/6bfa8df93a8d217129f3233a888a53da/tipodeoperacaonfe-pt.jpg)
 
 - Se **Tipo de nota fiscal** é selecionado, será exibido as opções, **Remessa, Remessa simbólica, Retorno, Retorno simbólico** e **Vendas ao cliente,** conforme imagem abaixo. 
 
-![Tipo NFe](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integra%C3%A7%C3%B5es/configura%C3%A7%C3%B5es-de-integra%C3%A7%C3%B5es/notas-fiscais-de-pedidos-fba_3.jpg)
+![Tipo NFe](//images.ctfassets.net/alneenqid6w5/228Fycy2V3qzOON9r5Gjn/caa6940e291f7e1f8f567c455431fd61/tiponfe-pt.jpg)
 
 > ℹ️ Se o seller não selecionar nenhum filtro de tipo, por padrão o sistema retorna as notas fiscais de todos os tipos.  
 

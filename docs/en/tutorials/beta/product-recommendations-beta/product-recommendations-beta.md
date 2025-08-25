@@ -19,7 +19,7 @@ subcategoryId: 6WyZwZfn89IsnNFNkTAi8d
 
 The Product Recommendations feature allows your store to provide custom experiences to buyers by recommending items based on multiple strategies. In addition, you can display relevant or complementary products, boost conversion rates, and increase the average ticket of your business.
 
-![buy-together](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/product-recommendations-beta/product-recommendations-beta_1.png)
+![buy-together](//images.ctfassets.net/alneenqid6w5/4IAbPOM9lIMwX6zdbF7pxs/a1bb03831639bac0722d124cce6fbc90/buy-together.png)
 
 ## Prerequisites
 

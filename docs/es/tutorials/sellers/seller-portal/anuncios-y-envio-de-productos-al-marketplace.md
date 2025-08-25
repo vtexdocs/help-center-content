@@ -29,7 +29,7 @@ Los *anuncios* son aquellos productos de su tienda cuyo precio y stock ya se han
 
 En la ilustración, podemos ver una serie de anuncios de un seller en la vitrina de un marketplace que contienen las variaciones de sus productos.
 
-![ilustra-anuncioES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/sellers/seller-portal/anuncios-y-envio-de-productos-al-marketplace_1.png)
+![ilustra-anuncioES](//images.ctfassets.net/alneenqid6w5/6jTBcTMp6BZkTIdmzlj2cO/4187989f97f479f29e5495da533ae928/ilustra-anuncioES.png)
 
 ## ¿Cómo sé que mi producto se ha enviado al marketplace?
 

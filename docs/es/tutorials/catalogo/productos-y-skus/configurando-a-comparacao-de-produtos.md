@@ -47,7 +47,7 @@ Donde `ShelfLayoutId` es el`Id` de la plantilla de estantería de productos crea
   - En el campo `Folder Name`, asigna un nombre a la carpeta y haz clic en `OK`.
   - Haz clic en `Save Folder`.
 
-       ![new-folder-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/productos-y-skus/configurando-a-comparacao-de-produtos_1.gif)
+       ![new-folder-es](//images.ctfassets.net/alneenqid6w5/7lAM8DDROFdPxQYaZoRRzk/529308c689d83e608a69cda7dada1d66/new-folder-es.gif)
 
 4. Crea un layout predeterminado:
   - Abre la carpeta creada en el paso anterior.
@@ -55,7 +55,7 @@ Donde `ShelfLayoutId` es el`Id` de la plantilla de estantería de productos crea
   - En el campo `Template`, vincula la plantilla de página creada en el paso 2 a la carpeta. Más información en [Asociar un template con un layout](https://help.vtex.com/pt/tutorial/associando-um-template-a-um-layout--7CkgOHRj7DVbsRxyR8YQrK).
   - Haz clic en `Save Layout` y después en `OK`.
 
-       ![new-layout-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/productos-y-skus/configurando-a-comparacao-de-produtos_2.gif)
+       ![new-layout-es](//images.ctfassets.net/alneenqid6w5/4krTQkJzqQRbgWJrtlftgJ/13b559a0903d39bafc772ddf14060ae4/new-layout-es.gif)
 
 ### Vitrina
 

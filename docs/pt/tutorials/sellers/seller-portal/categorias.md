@@ -17,7 +17,7 @@ subcategoryId: 4hisB47iAVZk4r3SEmMoG
 
 A página **Categorias** permite visualizar e gerenciar a árvore de categorias cadastradas no Seller Portal. Você pode acessar a página no Admin VTEX em **Catálogo** > **Categorias**.
 
-![categorias-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/sellers/seller-portal/categorias_1.PNG)
+![categorias-pt](//images.ctfassets.net/alneenqid6w5/1ViCOvDbtriF91lt0Z6ztZ/8bbda2aa615c249815bae0424ead68c7/categorias-pt.PNG)
 
 A partir da árvore de categorias, você pode realizar uma variedade de ações:
 
@@ -57,7 +57,7 @@ Para localizar uma categoria, você deve digitar o nome da categoria na barra de
 ## Navegar pela árvore de categorias
 A página de categorias apresenta os níveis mais externos das categorias. Clique no ícone <i class="fas fa-angle-right"></i> para acessar as subcategorias, como demonstrado abaixo.
 
-![arvore-categoria-PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/sellers/seller-portal/categorias_2.gif)
+![arvore-categoria-PT](//images.contentful.com/alneenqid6w5/4bcSzxVEs4GAn1INLdjP8E/a3cacb293c5c5ce3ded311ab85468a04/arvore-categoria-PT.gif)
 
 Para visualizar as informações do cadastro de uma categoria, clique no nome dela.
 

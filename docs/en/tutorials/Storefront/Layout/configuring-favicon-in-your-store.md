@@ -19,7 +19,7 @@ subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 
 Favicon is a small icon associated with a website, displayed on the browser tab next to the page title, in bookmarks, browsing histories, and other places where the website address appears, such as search results pages.
 
-![favicon-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Storefront/Layout/configuring-favicon-in-your-store_1.png)
+![favicon-en](//images.ctfassets.net/alneenqid6w5/6RVE5D9e9zbUogXZHvZPNQ/4978d6190f58c2ad89225537ddc86688/favicon-en.png)
 
 The favicon helps users quickly identify a website when multiple tabs are opened or when browsing their favorites, improving the user experience and reinforcing a brand's identity and reliability.
 
@@ -27,17 +27,17 @@ To configure the favicon in Legacy Portal CMS stores, follow the instructions be
 
 1. In the VTEX Admin, go to **Storefront > Layout > CMS > Files Manager > images**.
 
-    ![files-manager](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Storefront/Layout/configuring-favicon-in-your-store_2.png)
+    ![files-manager](//images.ctfassets.net/alneenqid6w5/4uQN2LoOBbID1KLD63B3jA/23dd800181765e5bc72dd33fa58172bc/files-manager.png)
 
 2. In the second column, click `Add`.
 
-    ![add-image](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Storefront/Layout/configuring-favicon-in-your-store_3.png)
+    ![add-image](//images.ctfassets.net/alneenqid6w5/34MLMbESt4MynXCF301zLc/07347410844fbaf1f4932c139592e7fd/add-image.png)
 
 3. Click `Browse for file` to add the image file in the `.ico` format.
 
     > ⚠️ The file name should follow the pattern ***{storeName}**-favicon.ico*. Replace the variable **{storeName}** with the store name in [Account management](https://help.vtex.com/en/tutorial/account-management--2vhUVOKfCaswqLguT2F9xq).
 
-    ![store-name-favicon](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Storefront/Layout/configuring-favicon-in-your-store_4.png)
+    ![store-name-favicon](//images.ctfassets.net/alneenqid6w5/sqSMZhwI4vz48vBFTqmEA/0e678d46dd9c2515305bb8637fffc291/store-name-favicon.png)
 
 4. Configure the [templates](https://help.vtex.com/en/tutorial/what-are-templates--4l7BQBYO9ycumsqua2CU88) with the element `<link>` inside `<head>`, as follows: `<link rel="shortcut icon" href="/arquivos/**{storeName}**-favicon.ico" />`. The variable `{storeName}` should be replaced with the store name.
 

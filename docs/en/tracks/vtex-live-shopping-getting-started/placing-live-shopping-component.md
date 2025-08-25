@@ -30,7 +30,7 @@ For stores using [Store Framework](https://help.vtex.com/en/tracks/vtex-store-ov
 2. On the list **Blocks** on the right corner of the page, select the **Live Shopping** block.
 3. Activate the <i class="fas fa-toggle-on" aria-hidden="true"></i> `Show component` option.
 
-  ![article_4_store_framework_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-live-shopping-getting-started/placing-live-shopping-component_1.png)
+  ![article_4_store_framework_EN](//images.ctfassets.net/alneenqid6w5/CU6g8lTpsQSvuq184znAP/cb0c60872f06b68d8177f2dd229e8562/article_4_show_component_EN.png)
 
 4. Click the **Events (Live)** dropdown and select the desired event. The options presented are only events with `Live` [status](https://help.vtex.com/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv#event-status).
 5. Click `Save`.
@@ -44,7 +44,7 @@ For stores using [Legacy CMS Portal](https://help.vtex.com/en/tracks/cms--2YcpgI
 3. In **Script for template**, select `CMS template`.
 4. Copy the code in **Script for template**.
 
-  ![article_4_legacy_cms_portal_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-live-shopping-getting-started/placing-live-shopping-component_2.png)
+  ![article_4_legacy_cms_portal_EN](//images.ctfassets.net/alneenqid6w5/7wrERw2I4eXzmfjNNPa6Bq/0c19515b146afd4e16b62af983d1e430/article_4_legacy_cms_portal_EN.png)
 
 5. Go to **Storefront > Layout**, or type **Layout** in the search bar at the top of the page.
 6. Click **CMS > HTML Templates**.
@@ -59,7 +59,7 @@ For stores using [Headless CMS](https://help.vtex.com/en/tutorial/headless-cms-o
 3. In **Script for template**, select `External template`.
 4. Copy the code in **Script for template**.
 
-  ![article_4_headless_cms_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-live-shopping-getting-started/placing-live-shopping-component_3.png)
+  ![article_4_headless_cms_EN](//images.ctfassets.net/alneenqid6w5/2X3fPS70Z8i6TIvYTGUpM5/358355e937e855172b1275d5569b592b/article_4_headless_cms_EN.png)
 
 5. Paste the code on the desired HTML file.
 

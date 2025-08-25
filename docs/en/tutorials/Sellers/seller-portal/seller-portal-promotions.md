@@ -17,7 +17,7 @@ subcategoryId: 4hisB47iAVZk4r3SEmMoG
 
 The **Promotions** page in the Seller Portal allows you to view and manage the complete list of existing promotions, streamlining seller promotion management. Go to **Promotions > Promotions** in the VTEX Admin to access the page.
 
-![seller-portal-promo-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Sellers/seller-portal/seller-portal-promotions_1.png)
+![seller-portal-promo-en](//images.ctfassets.net/alneenqid6w5/266zLPS2IkGekYdMOz27Pz/9bef7119b64fec9b074b7f20f6659985/image.png)
 
 From the promotion list in the Seller Portal, you can do the following:
 
@@ -75,7 +75,7 @@ To view the number of active promotions in your store and the remaining quota fo
 
 By default, the maximum number of active promotions is 100. If you need to increase this limit, please contact [our Support](https://support.vtex.com/hc/en-us/requests) team.
 
- ![seller-portal-promo-ativas-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Sellers/seller-portal/seller-portal-promotions_2.png)
+ ![seller-portal-promo-ativas-en](//images.ctfassets.net/alneenqid6w5/3tnyz6u3HxC6Qjezn9PvLr/6e62fdd0fa7a104df792d27d8a4496e1/image.png)
 
 ## Accessing the promotion action menu
 

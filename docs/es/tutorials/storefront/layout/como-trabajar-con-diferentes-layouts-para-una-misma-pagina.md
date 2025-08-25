@@ -36,7 +36,7 @@ Después de eso, una nueva sección estará disponible y podrá definir a travé
 
 Es posible limitar la disponibilidad del template a un período de tiempo predeterminado rellenando los campos __From__ y __To__, así como definir en qué categorías, productos, marcas y colecciones se aplicará el template elegido.
 
-![template-condicionado-cms](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/como-trabajar-con-diferentes-layouts-para-una-misma-pagina_1.png)
+![template-condicionado-cms](//images.ctfassets.net/alneenqid6w5/5oheUsdoc0aKS4ysOwQ6ig/66a11beac0c32d7fde34d43b94fb45bb/template-condicionado-cms.png)
 
 Después de llenar todos los campos, asegúrese de guardar los cambios realizados haciendo clic en __Save Layout__.
 

@@ -44,7 +44,7 @@ Os próximos campos são opcionais na planilha, exportados somente para exibiç�
 <table width="100%">
   <tr>
    <td>
-    <img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pre%C3%A7os/configura%C3%A7%C3%B5es-de-pre%C3%A7os/tabela-de-precos-base_1.png" style="display: block; margin-left: auto; margin-right: auto;" alt="base prices table" title="base prices table">
+    <img src="https://images.ctfassets.net/alneenqid6w5/2XX0xwgVreVnFb6U2rjJR7/8a4d5893336315d414078ff7518d83ca/baseprices_table.png" style="display: block; margin-left: auto; margin-right: auto;" alt="base prices table" title="base prices table">
    </td>
   </tr>
   <tr>

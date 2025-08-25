@@ -60,7 +60,7 @@ Confira a lista completa de [recursos do License Manager](https://help.vtex.com/
 
 Os perfis de acesso podem ser gerenciados por meio do Admin VTEX. Para acessar a listagem de perfis de acesso, na barra superior do Admin VTEX, clique no **avatar do seu perfil**, marcado pela inicial do seu email, e depois em **Configurações da conta** > **Perfis de acesso**.
 
-![Lista perfis de acesso](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/gerenciamento-da-conta/controle-de-acesso/perfis-de-acesso_1.png)
+![Lista perfis de acesso](//images.ctfassets.net/alneenqid6w5/5SsjVcIztKJQ3yxY1udwOH/af2216756b2b71242cf49647ba5ec08d/image_0.png)
 
 Esta tela apresenta uma lista com todos os perfis de acesso cadastrados para a conta, que você pode editar ou excluir a partir da coluna **Ações**.
 

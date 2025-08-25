@@ -50,7 +50,7 @@ No campo <i class="fas fa-search" aria-hidden="true"></i>`Pesquisar`, você pode
 
 No canto superior, estão as datas das interações. Você pode clicar na data para alterar o intervalo de tempo e filtrar os resultados que aparecem.
 
-![Imagem Supervisor](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/agent-builder/visao-geral-agent-builder_1.png)
+![Imagem Supervisor](//images.ctfassets.net/alneenqid6w5/5Uqo1q2IiTHirEU2NN3QJl/9302ead016b66680a701634e273a565a/Screenshot_2025-07-25_at_14.10.16.png)
 
 ### Perfil
 
@@ -142,11 +142,11 @@ Abaixo de **Preview dos agentes,** há dois toggles:
 
 - **Feedback progressivo dos agentes:** ative o toggle <i class="fas fa-toggle-on" aria-hidden="true"></i> se quiser que o agente envie atualizações em tempo real ao usuário enquanto redige a resposta final. Caso contrário, deixe o toggle desativado <i class="fas fa-toggle-off" aria-hidden="true"></i>.
 
-![GIF Feedback progressivo dos agentes](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/agent-builder/visao-geral-agent-builder_2.gif)
+![GIF Feedback progressivo dos agentes](//images.ctfassets.net/alneenqid6w5/4nkuKaLyY6mHfASXSxKHYA/52a0ddf2651314b204a1dc5e6c5a3367/PT_gif.gif)
 
 - **Formato de mensagem múltipla:** ative o toggle <i class="fas fa-toggle-on" aria-hidden="true"></i> se quiser que o agente envie várias mensagens, como respostas rápidas, listas, catálogo. Caso contrário, deixe o toggle desativado <i class="fas fa-toggle-off" aria-hidden="true"></i>.
 
-![Formato de mensagem múltipla](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/agent-builder/visao-geral-agent-builder_3.png)
+![Formato de mensagem múltipla](//images.ctfassets.net/alneenqid6w5/UI2s7dILpF11AydI3EZXE/683c3fdf237803a44226c5758853d9da/Screenshot_2025-07-24_at_17.00.49.png)
 
 Abaixo de **Suporte humano,** há um toggle:
 

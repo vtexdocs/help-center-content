@@ -56,7 +56,7 @@ Caso deseje interromper o uso da funcionalidade, você pode [desabilitar o Capac
 
 Ao acessar no Admin VTEX **Envio > Capacidade operacional**, ou digitar **Capacidade operacional** na barra de busca, você encontra uma página como a imagem abaixo:
 
-![operational_capacity_image_1_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/envio-beta/capacidade-operacional-beta_1.png)
+![operational_capacity_image_1_PT](//images.ctfassets.net/alneenqid6w5/opN2M1DYrc69GY2OZQMkB/6751a6db9608bd409a0c6a983647fb1a/operational_capacity_image_1_PT.png)
 
 > ⚠️ Os sellers que aparecem na interface são os sellers da sua operação, e eles são previamente configurados pela nossa equipe. Para acrescentar um novo seller, entre em contato com [nosso Suporte](https://support.vtex.com/hc/pt-br/requests).
 
@@ -147,7 +147,7 @@ No topo direito da página de detalhes do seller, existe um toggle para ativar o
 
 O gráfico **Status da capacidade operacional** apresenta, em tempo real, a porcentagem da capacidade do seller que já foi consumida no dia atual e nos próximos três dias, como na imagem a seguir: 
 
-![operational_capacity_image_2_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/envio-beta/capacidade-operacional-beta_2.png)
+![operational_capacity_image_2_PT](//images.ctfassets.net/alneenqid6w5/5jW4EqujiAVrWvAThX4i2I/26235ad45e2b5baea04ae37a03718798/operational_capacity_image_2_PT.png)
 
 Se você configurar no seller a [regra](#iii-regra) _Continuar a receber pedidos consumindo a capacidade dos dias seguintes_, o gráfico vai apresentar a porcentagem da capacidade operacional dos dias seguintes que já foi consumida a partir de pedidos de dias anteriores. Saiba mais em [Editar capacidade operacional do seller](#editar-capacidade-operacional-do-seller).
 

@@ -29,7 +29,7 @@ To enable Google Pay, follow the steps below.
 
 > ℹ️ The card brands supported by the Google Pay extension are the ones configured in the payment conditions.
 
-![google-pay-checkout-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/digital-wallet-e-wallet/google-pay_1.png)
+![google-pay-checkout-en](//images.ctfassets.net/alneenqid6w5/5EjOagjPXAeIAAN0Fpzkdq/2857562e61a935524807632c23be2e91/Screenshot_2024-08-01_at_14.21.39.png)
 
 Google Pay will then be available in your VTEX store's checkout as a new payment method. It may take around 10 minutes to be implemented.
 
@@ -48,11 +48,11 @@ To use Google Pay, you must meet the following requirements:
 
 To view transactions that have been completed with Google Pay, please follow the steps described in the article [Viewing transaction details](https://help.vtex.com/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/3Nt40DMEWkvhlpaL5PlBy). In the search bar of the transactions page, type **Google Pay** to filter the transactions carried out with this type of payment.
 
-![Google Pay Transaction_1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/digital-wallet-e-wallet/google-pay_2.png)
+![Google Pay Transaction_1](//images.ctfassets.net/alneenqid6w5/3N6LkrdAmAEfmDDsuLaWz5/e1521f4f47aff56a64d808f2f450ce38/Google_Pay_Transaction1_EN.png)
 
 After accessing the desired transaction, click on `+ Information` to verify the **Google Pay** information described in the `paymentOrigin` field.
 
-![Google Pay Transaction_2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/digital-wallet-e-wallet/google-pay_3.png)
+![Google Pay Transaction_2](//images.ctfassets.net/alneenqid6w5/6nLdqOG38LEUbmSKth5FRP/a565b60f7ca5f541c836553140261985/Google_Pay_Transaction2_EN.png)
 
 > ⚠️ It is also possible to identify transactions made with Google Pay through the **All Orders** page in Admin. You just need to select the desired search period, [export the orders](https://help.vtex.com/en/tracks/orders--2xkTisx4SXOWXQel8Jg8sa/6rVCf9KLn1jgTaxS0xuByu) in a report in .csv and locate the Google Pay information in the "payment origin" field.
 

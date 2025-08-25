@@ -22,7 +22,7 @@ VTEX broadcast studio is called Bundle, and in this article you will learn how t
 
 To access the studio in VTEX Admin and start transmitting the live, in the **Event Information** page, go to the **Streaming Studio** section:
 
-![article_8_streaming_studio_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-live-shopping-getting-started/using-bundle-studio_1.png)
+![article_8_streaming_studio_EN](//images.ctfassets.net/alneenqid6w5/42ko6XyZU0Fy0Y9Ri4sSmY/84cabea29afc3a34e011dca7064bc137/article_8_streaming_studio_EN.png)
 
 > ℹ️ To enable the fields, the event has to be [turned on](https://help.vtex.com/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/6NrWRLAJEHijcd6tLIWoqq), so that its status is `Live`.
 
@@ -37,7 +37,7 @@ Both hosts using the link generated with the `Copy invitation` button and admini
 
 In the **Device settings** page, when you click `Enter the studio`, you are redirected to the **My Studio** page, as shown in the example below. a vertical [layout type](#https://help.vtex.com/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/125yr6jAfwiiz84JP4ppfO#layout-type-configuring-style):
 
-![article_8_my_studio_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-live-shopping-getting-started/using-bundle-studio_2.png)
+![article_8_my_studio_EN](//images.ctfassets.net/alneenqid6w5/6qLDAF3sVIUzGcxoLrUD5A/95d8f31be82f9ec1bf97d4fa030b72fc/article_8_my_studio_EN.png)
 
 > ⚠️ Before transmitting from Bundle, you must select the [layout type](https://help.vtex.com/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/125yr6jAfwiiz84JP4ppfO#layout-type-configuring-style) you want for the screen, because once in the **My Studio** page, this event layout cannot be altered anymore. To change afterwards, it would be necessary to create a new event.
 
@@ -51,7 +51,7 @@ In the left navigation menu, you have the following sections (administrators onl
 
 In **My Studio** menu option, the numbers 1 to 5 show which settings can be done by guests and administrators, while numbers 6 to 9 are reserved for administrators only:
 
-![article_8_my_studio_woman_streaming_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-live-shopping-getting-started/using-bundle-studio_3.png)
+![article_8_my_studio_woman_streaming_EN](//images.ctfassets.net/alneenqid6w5/1coQL5kLVhhzwx4YofRTyD/e507677f61646033f033da1aa2b22cd6/article_8_my_studio_woman_streaming_EN.png)
 
 ### Settings for both guests and administrators
 
@@ -92,7 +92,7 @@ Besides that, there is a <i class="fas fa-toggle-off" aria-hidden="true"></i> **
 The name will appear in white letters against a dark background, which cannot be changed. However, you can customize the initial stripe color, as it is taken from **Banners > Theme Color.** Creating a banner is not necessary to activate this option, you only have to define the theme color, which is black by default.  The image below is an example of a pink **Theme Color**:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-live-shopping-getting-started/using-bundle-studio_4.png" alt="article_8_asset_types_EN" width="200" height="30">
+  <img src="https://images.ctfassets.net/alneenqid6w5/1ZHkS8bGN3gSZNDyPM1gIC/5d6a1107820453dcd6d84c478bacb3f1/article_8_asset_types_EN.png" alt="article_8_asset_types_EN" width="200" height="30">
 
 
 ### Asset dimensions

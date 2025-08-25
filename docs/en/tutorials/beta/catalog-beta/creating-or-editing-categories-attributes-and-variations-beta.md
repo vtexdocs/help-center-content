@@ -57,7 +57,7 @@ In the beta phase, we'll use a new name for the following terms:
 
 In the VTEX Admin, when you go to **Catalog > Categories**, the interface by displays **Categories** and **Attributes** by default, as shown in the image below:
 
-![category_attributes_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/catalog-beta/creating-or-editing-categories-attributes-and-variations-beta_1.png)
+![category_attributes_EN](//images.ctfassets.net/alneenqid6w5/7436dJLF4YzoYkjrm6GBfM/fe467645e777cf8e5cbdc1e5e596390c/category_attributes_EN.png)
 
 On this page, you can view information and perform the following actions:
 
@@ -78,7 +78,7 @@ On this page, you can view information and perform the following actions:
 
 Selecting the **Variations** option displays an interface like the one shown below:
 
-![category_variations_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/catalog-beta/creating-or-editing-categories-attributes-and-variations-beta_2.png)
+![category_variations_EN](//images.ctfassets.net/alneenqid6w5/5XX38yXs6AkibrvpWqXODV/0a0418f43b503e6fb16913ee28c4ef40/category_variations_EN.png)
 
 On this page, you can view information and do the following:
 
@@ -206,7 +206,7 @@ When a group of attributes is created in the parent category, it becomes mandato
 
 In the **Attributes** interface, you can identify groups and inherited attributes by the share icon, located to the left of the name, as in the image below:
 
-![inherited_atribute_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/catalog-beta/creating-or-editing-categories-attributes-and-variations-beta_3.png)
+![inherited_atribute_EN](//images.ctfassets.net/alneenqid6w5/5nmtuQ4WLDd95101bFo3vq/49808ee4f19506367fed4f66f5ae172d/inherited_atribute_EN.png)
 
 > ℹ️ To learn about attribute status, see the section [Viewing attribute activation status and values](#viewing-attribute-activation-status-and-values).
 

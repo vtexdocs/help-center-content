@@ -41,7 +41,7 @@ Here's how to import data in bulk into the VTEX platform:
 	<li>Once the import process is complete, you can click View Import Details to access the import report.</li>
 </ol>
 
-![Importação em massa - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/B2B/b2b-organizations/configuring-bulk-data-import-for-organizations-and-cost-centers_1.gif)
+![Importação em massa - EN](//images.ctfassets.net/alneenqid6w5/3sWvUytkkonIe01tnvXwpK/255b9bf809653b7f66bdeff7e22c0c49/Bulk_import_vers_o_original-gif-EN.gif)
 
 # Import errors
 
@@ -55,7 +55,7 @@ To get a detailed overview of the detected problems, follow the steps below:
 
 > ℹ️ Make sure you only upload the file with corrections to the previously detected errors to ensure a successful import.
 
-![Bulk import - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/B2B/b2b-organizations/configuring-bulk-data-import-for-organizations-and-cost-centers_2.gif)
+![Bulk import - EN](//images.ctfassets.net/alneenqid6w5/xXZgwvWu4ngsY9D9hjQsO/f15af7d4180b8949ef33c25c761122a8/Bulk_import_vers_o_error-gif-EN.gif)
 
 # Bulk Import via API
 

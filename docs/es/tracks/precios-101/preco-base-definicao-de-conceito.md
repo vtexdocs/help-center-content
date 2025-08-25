@@ -18,7 +18,7 @@ trackSlugEN: precios-101
 
 El Precio Base de un SKU es el valor calculado a través de la combinación entre el **Precio de Costo** y el **Markup**, el margen de ganancia deseado con la venta del SKU. Es el __precio de referencia__ de un SKU para todas las tablas de precio. 
 
-![base-price-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/precios-101/preco-base-definicao-de-conceito_1.png)
+![base-price-es](//images.ctfassets.net/alneenqid6w5/14OYPLF5k6gNJhSUZ5OE53/9b59c8c88d39347707be5054d948ad91/base-price-es.png)
 
 Este **precio base** puede combinarse con una **regla de precio** aplicada a la tabla de precios. Si no existe regla de precio registrada, el precio de venta en una tabla será el propio precio base.
 

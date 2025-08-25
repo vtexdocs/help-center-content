@@ -47,7 +47,7 @@ where `ShelfLayoutId` is the `Id` of the shelf template created in the previous 
   - In the `Folder Name` field, enter a name for the folder and click `OK`.
   - Click `Save Folder`.
 
-       ![new-folder-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/products-and-skus/setting-up-product-comparison_1.gif)
+       ![new-folder-en](//images.ctfassets.net/alneenqid6w5/7lAM8DDROFdPxQYaZoRRzk/19abe7f5f04424757f7978e6593b238d/new-folder-en.gif)
 
 4. Create a default layout:
   - Open the folder created in the previous step.
@@ -55,7 +55,7 @@ where `ShelfLayoutId` is the `Id` of the shelf template created in the previous 
   - In the `Template` field, link the page template created in step 2 to the folder. Learn more in [Associating a template with a layout](https://help.vtex.com/en/tutorial/associando-um-template-a-um-layout--7CkgOHRj7DVbsRxyR8YQrK).
   - Click `Save Layout` and then click `OK`.
 
-       ![new-layout-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/products-and-skus/setting-up-product-comparison_2.gif)
+       ![new-layout-en](//images.ctfassets.net/alneenqid6w5/4krTQkJzqQRbgWJrtlftgJ/c8bfbb11d749e4417ef892c3ad282a99/new-layout-en.gif)
 
 ### Product listing page
 

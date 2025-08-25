@@ -1,10 +1,10 @@
 ---
 title: 'Configurar pago con PoleCMS'
 id: 12Wyet40HSrq5ImonyRDRu
-status: CHANGED
+status: PUBLISHED
 createdAt: 2025-05-30T16:44:23.741Z
-updatedAt: 2025-06-11T12:00:12.908Z
-publishedAt: 2025-06-11T11:55:48.881Z
+updatedAt: 2025-08-18T15:10:32.788Z
+publishedAt: 2025-08-18T15:10:32.788Z
 firstPublishedAt: 2025-05-30T17:05:56.692Z
 contentType: tutorial
 productTeam: Financial
@@ -33,7 +33,7 @@ Para configurar PoleCMS, siga los pasos a continuación:
     	<li>**Desactivado**: la captura se realiza solo cuando se factura el pedido. Si se opta por este comportamiento de captura, es importante estar atento al tiempo de facturación, ya que puede exceder el tiempo de captura acordado con el proveedor de pagos y provocar la cancelación de la transacción.</li>
 </ul>
 
-8. En **Campos del Proveedor**, seleccione o complete los campos **Clave de aplicación VTEX**, **Token de aplicación VTEX**, **Clave pública**, **Clave HMAC-SHA-256**, **Pago por token**, **Modo de ingreso de datos de pago**, **Número de intentos de pago con tarjeta**, **Tema**, y **Modo compacto** según las instrucciones del proveedor.
+8. En **Campos del Proveedor**, seleccione o complete los campos **Clave pública**, **Clave HMAC-SHA-256**, **Pago por token**, **Modo de ingreso de datos de pago**, **Número de intentos de pago con tarjeta**, **Tema**, y **Modo compacto** según las instrucciones del proveedor.
 9. Haga clic en `Guardar`.
 
 ## Configurar condición de pago

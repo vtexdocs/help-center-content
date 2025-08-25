@@ -17,18 +17,18 @@ subcategoryId: 4y4ylvqceE6vVqEF8IWZix
 
 Para editar os dados de acesso, você deve acessar _**Configurações > Minha conta**_. 
 
-![Editar_dados_Suitshare_1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-(suiteshare)/editando-meus-dados-suiteshare_1.png)
+![Editar_dados_Suitshare_1](//images.ctfassets.net/alneenqid6w5/7GjD9aAHEpWeLMULbgIlN7/7373e8bfedf32a7c6c1fa965872b80a5/Editar_dados_1.png)
 
 Em **Profile**, edite informações como **Nome** e **Empresa**. 
 
-![Editar_dados_suitshare_2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-(suiteshare)/editando-meus-dados-suiteshare_2.png)
+![Editar_dados_suitshare_2](//images.ctfassets.net/alneenqid6w5/1IytrpGXxE40bEdQ6eSLtg/4560182def1d9a3ee7b26b66c709f5fe/Editar_dados_suitshare_2.png)
 
 Em **Password**, edite sua senha. 
 
-![Editar_dados_suitshare_3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-(suiteshare)/editando-meus-dados-suiteshare_3.png)
+![Editar_dados_suitshare_3](//images.ctfassets.net/alneenqid6w5/1qcocpgUcO5nj9wqeDUJDW/048ec22ead339bb22b4779a22cad5cfd/Editar_dados_suitshare_3.png)
 
 Em **Email**, edite as informações do seu e-mail. 
 
-![Editar_dados_suitshare_4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-(suiteshare)/editando-meus-dados-suiteshare_4.png)
+![Editar_dados_suitshare_4](//images.ctfassets.net/alneenqid6w5/7aNcHeEQPJ8Di0VALzxVXx/341143302118e8a7fad2ef91b26ca817/Editar_dados_suitshare_4.png)
 
 Para saber mais sobre sua conta, entre em contato conosco.

@@ -39,7 +39,7 @@ Follow the steps below to renew the token of an API key:
 7. Access the copied link or share it with the person that will use the new token. The link can only be accessed once and is valid for 24 hours if not accessed.
 8. Click `Copy` to copy the API token to the clipboard. This secret will only be displayed once. Save it in a safe place.
 
-![one-time-link-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/account-management/api-keys/renewing-api-tokens_1.png)
+![one-time-link-en](//images.ctfassets.net/alneenqid6w5/6EPIyJw435gQ2QkLoBBi9G/22cf4dde1af767ec3b7c1a5be6c38d60/one-time-link-en.png)
 
 Once the renewal is completed, you can't renew the token again until the single-access link is accessed or expires within 24 hours. If necessary, you can [undo the token renewal](#undoing-token-renewal) while the link is still valid. 
 
@@ -57,7 +57,7 @@ Follow the instructions below to manually delete an old token after renewal. Thi
 2. Make sure you are in the **Generated** tab.  
 3. In an API key row with the *Pending deletion \- Old token* alert, click the vertical ellipsis menu (⋮), then click <i class="far fa-trash-alt"></i> `Delete old token`.
 
-   ![delete-pending-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/account-management/api-keys/renewing-api-tokens_2.png)
+   ![delete-pending-en](//images.ctfassets.net/alneenqid6w5/2v3HtEXyMaNMI7rgu9bcx2/4d0ae00d5e92e263d7a42803c4ee8927/delete-pending-en.png)
 
 4. Click `Delete` to confirm.  
 

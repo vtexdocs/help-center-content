@@ -3,8 +3,8 @@ title: 'Configurar pagamento com Nuvei'
 id: 67DjdrpIaZZmhXv9Iwa6Ev
 status: PUBLISHED
 createdAt: 2024-03-27T12:55:27.016Z
-updatedAt: 2024-09-13T17:39:52.427Z
-publishedAt: 2024-09-13T17:39:52.427Z
+updatedAt: 2025-08-18T14:50:12.265Z
+publishedAt: 2025-08-18T14:50:12.265Z
 firstPublishedAt: 2024-09-13T17:39:52.427Z
 contentType: tutorial
 productTeam: Financial
@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-Na VTEX, é possível realizar a integração com o Nuvei. Por meio deste provedor, sua loja pode realizar vendas com cartões de crédito e débito.
+Na VTEX, é possível realizar a integração com o Nuvei. Por meio deste provedor, sua loja pode realizar vendas diversos meios de pagamento, como cartões de crédito, débito, OXXO, PSE, promissórias, entre outros.
 
 Para utilizar o Nuvei, siga os passos abaixo:
 

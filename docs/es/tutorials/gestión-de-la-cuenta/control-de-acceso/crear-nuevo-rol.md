@@ -43,12 +43,12 @@ Para empezar a utilizar un rol predefinido sigue las instrucciones a continuaci�
 
     Por ejemplo, el rol **Call center operator** contiene un recurso del producto _Catálogo_ que permite realizar operaciones en una tienda en nombre de un cliente, y un recurso de _OMS_ que permite consultar el status de un pedido:
 
-    ![Nuevo perfil de acceso](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/gesti%C3%B3n-de-la-cuenta/control-de-acceso/crear-nuevo-rol_1.png)
+    ![Nuevo perfil de acceso](//images.ctfassets.net/alneenqid6w5/5biL3DriciSnHKbgHvV2PE/377d5de0c9b4af5667a4e8f10c171ae0/last_with_shadow_Wed_Apr__8_17_06_18_-03_2020.png)
 
     Consulta más información sobre los roles predefinidos disponibles y los recursos asociados en [Roles de usuario predefinidos](https://help.vtex.com/es/tutorial/perfis-de-acesso-predefinidos--jGDurZKJHvHJS13LnO7Dy).
 4. Agrega usuarios administrativos al rol rellenando el email del usuario en **Agregar usuarios para este rol** y haciendo clic en `Agregar`.
 
-    ![Usuarios de perfil](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/gesti%C3%B3n-de-la-cuenta/control-de-acceso/crear-nuevo-rol_2.PNG)
+    ![Usuarios de perfil](//images.ctfassets.net/alneenqid6w5/1lSnygEawddufMz9IZ45Mj/5d76addf0b92724ac97f66aa517a110d/usuarios-es.PNG)
 
     Si el usuario no existe, se creará uno nuevo utilizando el email como nombre, es decir, el nombre y el email serán iguales.
 
@@ -68,7 +68,7 @@ Sigue las instrucciones a continuación para crear un rol personalizado que resp
 
     Verás una lista de todos los recursos disponibles para ese producto:
 
-    ![Configurando producto](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/gesti%C3%B3n-de-la-cuenta/control-de-acceso/crear-nuevo-rol_3.png)
+    ![Configurando producto](//images.ctfassets.net/alneenqid6w5/1VE4awGJHyrsR2OkYwAzRQ/0393d07c7e603da3fab9a589adf8e58c/configurar-produto-es.png)
 5. Marca los recursos a los que el rol tendrá acceso. Para más información sobre [Recursos, consulta la lista completa de License Manager](https://help.vtex.com/es/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3).
 6. Si deseas agregar recursos de otro producto, haz clic en el botón **Configurar otro producto** situado en la parte inferior de la lista de productos y recursos y repite los pasos 4 y 5.
 
@@ -80,7 +80,7 @@ Sigue las instrucciones a continuación para crear un rol personalizado que resp
 
 8. Agrega usuarios administrativos al rol rellenando el email del usuario en **Agregar usuarios para este rol** y haciendo clic en `Agregar`.
 
-      ![Usuarios de perfil](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/gesti%C3%B3n-de-la-cuenta/control-de-acceso/crear-nuevo-rol_4.PNG)
+      ![Usuarios de perfil](//images.ctfassets.net/alneenqid6w5/1lSnygEawddufMz9IZ45Mj/5d76addf0b92724ac97f66aa517a110d/usuarios-es.PNG)
 
       Si el usuario no existe, se creará uno nuevo utilizando el email como nombre, es decir, el nombre y el email serán iguales.
 9. Haz clic en `Guardar`.

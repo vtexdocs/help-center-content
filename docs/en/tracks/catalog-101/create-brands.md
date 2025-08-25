@@ -38,7 +38,7 @@ Information that is filled out can be updated at any time using the Catalog modu
 
 To delete a brand entry, click the arrow next to `Edit` and then click `Delete`.
 
-![editar-marca EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/catalog-101/create-brands_1.png)
+![editar-marca EN](//images.ctfassets.net/alneenqid6w5/lAOk9EHq8WLoXs6SnrXsv/55b9ba52f46ae8582315ffda359a3b39/editar-marca_EN.png)
 
 ## API
 

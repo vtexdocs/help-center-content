@@ -38,7 +38,7 @@ Para acceder al entorno beta de tu tienda debes habilitar la cookie `vtex-commer
 <li>Valor: `beta`
 </li>
 </ul>
-<img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/acerca-de-admin/visi%C3%B3n-general-del-admin/acceder-al-ambiente-beta_1.png" alt="beta">
+<img src="https://images.ctfassets.net/alneenqid6w5/3g8wintA1heJbzdV8J0s45/8eb6f5917e2d9d8a134b81231dc42728/Ambiente_beta_.png" alt="beta">
 <li>Actualiza la página presionando `F5` o la tecla de actualización de tu navegador. Una vez que a página se haya cargado, el Admin de la tienda ya estará en el entorno beta.
 </li>
 </ol>

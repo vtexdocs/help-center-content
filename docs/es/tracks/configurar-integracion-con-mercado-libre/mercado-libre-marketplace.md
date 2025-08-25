@@ -18,7 +18,7 @@ trackSlugEN: configurar-integracion-con-mercado-libre
 
 Su operación está presente en países: Argentina, Brasil, Chile, Colombia, México, Uruguay y Venezuela.
 
-![image3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/configurar-integracion-con-mercado-libre/mercado-libre-marketplace_1.png)
+![image3](//images.ctfassets.net/alneenqid6w5/2oy6tDlTCV5xKtYinxqr3G/c459fc424669363e045e5a6bca90c82d/image3.png)
 
 El marketplace de Mercado Libre ofrece un entorno de comercio en línea totalmente automatizado, organizado por temas y fácil de usar. Este servicio ofrece a los compradores una amplia variedad de artículos nuevos y usados, permitiendo a empresas y particulares publicitar artículos y realizar sus ventas y compras en el mercado más grande de América Latina.
 

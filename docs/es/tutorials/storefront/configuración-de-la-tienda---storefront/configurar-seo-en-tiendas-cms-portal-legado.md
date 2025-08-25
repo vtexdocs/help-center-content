@@ -32,4 +32,4 @@ La tag de título ayuda a definir el tema de la página para los motores de bús
   - **Robots.txt:**  define cómo los motores de búsqueda deben rastrear e indexar una página específica. Los valores predeterminados son `index, follow`. Para ver los otros valores compatibles con Google, consulta la [lista de reglas válidas](https://developers.google.com/search/docs/crawling-indexing/robots-meta-tag?hl=es-419#directives).
 4. Haz clic en `Guardar`.
 
-![seo-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/configuraci%C3%B3n-de-la-tienda---storefront/configurar-seo-en-tiendas-cms-portal-legado_1.png)
+![seo-es](//images.ctfassets.net/alneenqid6w5/32rGRVztX93jJeuIwKf5FI/81201bce726bb668f435be399664bfe7/storefront-seo-settings-es.png)

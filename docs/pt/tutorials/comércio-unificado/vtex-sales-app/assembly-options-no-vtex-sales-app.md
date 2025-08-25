@@ -37,9 +37,9 @@ Existem dois cenários nos quais é possível adicionar serviços a produtos pre
 
 3. Após finalizar o processo, é possível visualizar em seu carrinho o serviço que foi selecionado, com o valor total do pedido.
 
-![Garantia estendida - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/com%C3%A9rcio-unificado/vtex-sales-app/assembly-options-no-vtex-sales-app_1.png)
+![Garantia estendida - PT](//images.ctfassets.net/alneenqid6w5/6x9bCRVpOcGLa8bilRpZ7I/d7ed484879b2e99209db45d784227559/Cen_rio_1__T1__PT.png)
 
-![Carrinho - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/com%C3%A9rcio-unificado/vtex-sales-app/assembly-options-no-vtex-sales-app_2.png)
+![Carrinho - PT](//images.ctfassets.net/alneenqid6w5/2w3D5PYdqlPZs4gtGOY0VM/c208432eab7761f4b3ace4cd75ef30db/Cen_rio_1__T2__PT.png)
 
 **Cenário 2:** Seleção de múltiplos serviços
 
@@ -55,8 +55,8 @@ Existem dois cenários nos quais é possível adicionar serviços a produtos pre
 
 6. Clique no botão **Aplicar**.
 
-![Garantia estendida - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/com%C3%A9rcio-unificado/vtex-sales-app/assembly-options-no-vtex-sales-app_3.png)
+![Garantia estendida - PT](//images.ctfassets.net/alneenqid6w5/6x9bCRVpOcGLa8bilRpZ7I/d7ed484879b2e99209db45d784227559/Cen_rio_1__T1__PT.png)
 
-![Seguro - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/com%C3%A9rcio-unificado/vtex-sales-app/assembly-options-no-vtex-sales-app_4.png)
+![Seguro - PT](//images.ctfassets.net/alneenqid6w5/7MQkGqCSarYQTpAKT365r3/be5cd06bb77bb828040cb44b8604b10b/Cen_rio_2__T2__-_PT.png)
 
-![Ordem pedido - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/com%C3%A9rcio-unificado/vtex-sales-app/assembly-options-no-vtex-sales-app_5.png)
+![Ordem pedido - PT](//images.ctfassets.net/alneenqid6w5/DKPaBz21QHRDmfVoJxWs0/e7f7178cf8f4c30faf5cca4bda49dcc2/Cen_rio_2__T3__-_PT.png)

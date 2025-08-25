@@ -28,7 +28,7 @@ Digamos que você queira inserir o nome da transportadora no e-mail de pedido en
 
 Para fazer isso, entre no template de pedido enviado e, no campo __JSON Data__, busque a propriedade `courier`.
 
-![courier](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/e-mails-transacionais/incluir-variaveis-do-pedido-no-template-de-e-mail_1.png)
+![courier](//images.contentful.com/alneenqid6w5/2AKyoHdoQ8c40SsQa2uSKS/b4c2b0c460d0f31bec40148f5bba6006/courier.png)
 
 O valor preenchido para essa propriedade é apenas um exemplo, mas você pode usá-la no campo __HTML__ para que, quando o e-mail for enviado, o cliente veja a transportadora de fato responsável pela entrega do pedido.
 
@@ -36,6 +36,6 @@ Note que a propriedade `courier` está dentro do objeto `package`. Portanto, voc
 
 `{{package.courier}}`
 
-![courier3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/e-mails-transacionais/incluir-variaveis-do-pedido-no-template-de-e-mail_2.png)
+![courier3](//images.contentful.com/alneenqid6w5/2yzopAVuU46I2UICEQ0y2S/69e4a43fa202c90cb9996f4a3eea19aa/courier3.png)
 
 Veja que o valor de exemplo ("Transportadora Teste Courier S.A.") foi inserido na tela de preview, abaixo dos campos __HTML__ e __JSON Data__.

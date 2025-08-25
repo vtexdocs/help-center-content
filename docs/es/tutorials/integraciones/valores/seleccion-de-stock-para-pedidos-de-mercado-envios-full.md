@@ -27,8 +27,8 @@ Cuando el stock esté registrado, realice los siguientes pasos:
 2. En el módulo **Inventario y envío**, haga clic en **Estrategia de envío**.
 3. En **Estrategia de envío**, seleccione la pestaña **Almacenes** y copie el ID del stock que desea utilizar. 
 4. Luego, vaya al módulo **Marketplace**, seleccione la opción **Integraciones** y haga clic en **Configuración**.
-5. En la integración de Mercado Libre, haga clic en el ícono de engranaje <img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/valores/seleccion-de-stock-para-pedidos-de-mercado-envios-full_2.JPG" /> y seleccione la opción **Editar configuración**.
+5. En la integración de Mercado Libre, haga clic en el ícono de engranaje <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/39oIVAfBAL5iIPqR5mrg2y/f1943060e88dd71804dcc7844a71c1cd/engrenagem.JPG" /> y seleccione la opción **Editar configuración**.
 6. Ingrese el ID del stock seleccionado en el campo **Almacén Mercado Full**.
 7. Para finalizar, haga clic en **Guardar Configuración**.
 
-![Início (3)](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/valores/seleccion-de-stock-para-pedidos-de-mercado-envios-full_1.gif)
+![Início (3)](//images.ctfassets.net/alneenqid6w5/4iKrvuMuXZBzVzrZU7hWev/3f1bcba69b69cce6b56ff2afac670c6d/In__cio__3_.gif)

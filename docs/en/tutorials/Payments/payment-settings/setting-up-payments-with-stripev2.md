@@ -3,8 +3,8 @@ title: 'Setting up payments with StripeV2'
 id: 3XG7Vrb0GGhdN40ICNKQoN
 status: PUBLISHED
 createdAt: 2025-03-07T15:20:58.287Z
-updatedAt: 2025-08-13T18:36:28.531Z
-publishedAt: 2025-08-13T18:36:28.531Z
+updatedAt: 2025-08-15T18:47:00.764Z
+publishedAt: 2025-08-15T18:47:00.764Z
 firstPublishedAt: 2025-03-07T15:34:55.639Z
 contentType: tutorial
 productTeam: Financial
@@ -148,6 +148,12 @@ To configure the StripeV2 integration on VTEX, follow the steps below:
 7. In __Provider fields__, in the __Mode__ option, select __Embedded__.
 8. In __Test Mode__, select __False__ if the mode is __Live__ or __True__ if the mode is __Test__.
 9. Click `Save`.
+10. Add Stripe keys in the Provider App settings, as follows:
+<blockquote>a. Go to **Applications > My applications > Stripe Payment Provider**.</blockquote>
+<blockquote>b. Click **Settings**.</blockquote>
+<blockquote>c. In **Publishable Key**, enter your key starting with **pk_**.</blockquote>
+<blockquote>d. In **Secret Key**, enter your key starting with **rk_**.</blockquote>
+<blockquote>d. Click **Save**.</blockquote>
 
 ### Configuring payment conditions
 

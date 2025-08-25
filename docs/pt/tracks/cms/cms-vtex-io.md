@@ -31,7 +31,7 @@ O **[Site Editor](https://help.vtex.com/pt/tutorial/site-editor-overview--299Dbe
 
 Por meio de uma interface intuitiva diretamente no Admin VTEX, o Site Editor reflete os blocos definidos no [Store Theme](https://developers.vtex.com/docs/guides/vtex-io-documentation-store-theme), possibilitando que qualquer pessoa altere o conteúdo e o layout da loja sem precisar editar o código.
 
-![site-editor-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/cms/cms-vtex-io_1.png)
+![site-editor-pt](//images.ctfassets.net/alneenqid6w5/7rE8YyLWd2ibnGqudpoIUq/c41bacc68892c93ebd609dc44838f379/site-editor-pt.png)
 
 ## Layout - Sites and Channels
 
@@ -39,7 +39,7 @@ Lojas desenvolvidas com Store Framework também devem configurar o [binding da l
 
 Binding é o processo utilizado para vincular o seu site a uma loja. Para mais detalhes, consulte o artigo [Vincular uma loja a uma estrutura de pastas do CMS (binding)](https://help.vtex.com/pt/tutorial/vincular-um-account-name-a-um-website-binding).
 
-![layout-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/cms/cms-vtex-io_2.png)
+![layout-pt](//images.ctfassets.net/alneenqid6w5/6Ga75Ds4BfkH8zhemQkLCl/aed18069cefd01081dbb5aa78331f1f0/layout-pt.png)
 
 > ℹ️ Com exceção da pasta **Sites and channels**, todos os demais recursos da seção **Layout** do Admin VTEX estão disponíveis apenas para lojas CMS Portal Legado. 
 
@@ -53,11 +53,11 @@ Para saber como utilizar esse módulo, acesse o tutorial de [Banners](https://he
 
 O módulo **Páginas** é onde as páginas do seu site são gerenciadas. No Admin VTEX, as páginas são divididas em **Padrão**, **Produto**, **Coleções de produtos** e **Não encontrado (404)**, nas quais você pode criar novas URLs e vinculá-las a um template já definido no [código do tema da loja](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-4-configuringtemplates).
 
-![cms-store-framework-paginas-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/cms/cms-vtex-io_3.gif)
+![cms-store-framework-paginas-pt](//images.ctfassets.net/alneenqid6w5/SiDDQmtiWZyjTMpY7atyH/025de90aaea92c3489345d64bc711152/cms-store-framework-paginas-pt.gif)
 
 Essa seção também contém a página **Redirecionamentos**, que permite configurar redirecionamentos de uma URL da loja para outra mais relevante. 
 
-![cms-store-framework-redirecionamentos-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/cms/cms-vtex-io_4.png)
+![cms-store-framework-redirecionamentos-pt](//images.ctfassets.net/alneenqid6w5/720v68fXhF2aPtnsrUgykt/861a38200d0d118ee20e0a8af488e1e8/cms-store-framework-redirecionamentos-pt.png)
 
 Para saber mais sobre este módulo, acesse o tutorial de [Páginas](https://help.vtex.com/pt/tutorial/paginas-visao-geral--5iBUUJbK5NqG6OxlDrGNzc).
 
@@ -73,7 +73,7 @@ Para saber como utilizar esse módulo, acesse o tutorial de [Estilos](https://he
 
 Mídia é o módulo responsável por gerenciar os arquivos de mídia de sua loja, como imagens e vídeos.
 
-![cms-store-framework-media-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/cms/cms-vtex-io_5.png)
+![cms-store-framework-media-pt](//images.ctfassets.net/alneenqid6w5/38AaBZMeKIPAD9OLVWwROr/6a571a3245687db80b0b218043d163f5/cms-store-framework-midia-pt.png)
 
 Para saber mais sobre este módulo, acesse [Mídia- Visão geral](https://help.vtex.com/pt/tutorial/midia-visao-geral--31fhjHTt4TBoo50AmGQ9b2).
 

@@ -25,7 +25,7 @@ No Admin, você pode criar landing pages personalizadas, como páginas para ofer
 
 2.Clique em **CRIAR PÁGINA**.
 
-![Criando Landing pages](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/p%C3%A1ginas/criando-landing-pages_1.png)
+![Criando Landing pages](//images.ctfassets.net/alneenqid6w5/79EZvMxQKLKyE88OxQJudE/f9472895136b58039a0f1639a6877652/cms-pages-pt.png)
 
 3.Na seção Detalhes da página, preencha os campos abaixo para definir os metadados da página:
 

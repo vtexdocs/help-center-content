@@ -95,7 +95,7 @@ Cuando se [configura](https://help.vtex.com/es/tracks/promocoes--6asfF1vFYiZgTQt
 y modifican el valor que refleja el descuento de la promoción seleccionada por la competencia de promociones no acumulables. La secuencia de aplicación sigue el orden por tipo y valor descrito.
 
 Se aplica de la siguiente manera:
-![promocao3 PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/tasas-y-promociones/promociones/como-funciona-la-competencia-de-promociones_1.png)
+![promocao3 PT](//images.ctfassets.net/alneenqid6w5/1LKDzbLkhua8Gk284SEwsk/997fdac9b6380c68a729bf4d48e20af8/promocao3_PT.png)
 
 <div style="background-color: #fff8e1; border-left: 4px solid #ffb300; padding: 12px 16px; margin: 16px 0; font-family: sans-serif; overflow: auto;">
   <p style="margin: 0;">

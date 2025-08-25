@@ -40,7 +40,7 @@ O formulário para criar ou editar um cupom apresenta as seguintes seções:
 
 O painel superior do formulário de criação e edição de cupom, ilustrado abaixo, apresenta a quantidade de vezes em que o cupom foi utilizado e a quantidade de promoções vinculadas ao cupom.
 
-![usos-do-cupom-promocoes-vinculadas](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promo%C3%A7%C3%B5es-e-taxas/cupons/criar-cupom-beta_1.png)
+![usos-do-cupom-promocoes-vinculadas](//images.ctfassets.net/alneenqid6w5/3HAiF63zYFGjrfOnBCl5Hb/7642e6bfa91548c82c851d849fd34a87/criar-cupom-1.png)
 
 Ao clicar em qualquer uma dessas informações no painel, você tem acesso ao modal **Ver detalhes de uso**, que apresenta os dados descritos a seguir:
 
@@ -88,7 +88,7 @@ Após salvar o novo cupom, se você tiver criado um [grupo de cupons](https://he
 * <i class="far fa-clone"></i> **Copiar tudo:** permite copiar os códigos gerados para a sua área de transferência. Posteriormente, se desejar, você pode colá-los em um editor de planilhas como o Excel ou o Google Sheets. Também é possível copiar cada código clicando sobre ele.
 * **Exportar:** permite exportar os códigos gerados para um arquivo CSV. O arquivo exportado contém uma coluna, com um código por linha.
 
-![cupons-gerados-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promo%C3%A7%C3%B5es-e-taxas/cupons/criar-cupom-beta_2.gif)
+![cupons-gerados-pt](//images.ctfassets.net/alneenqid6w5/3Ar3vHIyynacQr9vJ5qUf3/094bd2aaca673c282bba6a95f688a1b4/cupons-gerados-pt.gif)
 
 ### Gerar cupons em massa
 A [criação de cupons](#criar-cupons) para promoções deve ser feita a partir do módulo Promoções e Taxas. No entanto, podem ocorrer casos em que é necessário criar múltiplos cupons de uma vez, devido a alguma campanha ou ação de marketing.

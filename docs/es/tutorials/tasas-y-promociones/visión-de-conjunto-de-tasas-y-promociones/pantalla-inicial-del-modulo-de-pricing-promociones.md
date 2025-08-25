@@ -21,7 +21,7 @@ Hay tres departamentos dentro del módulo que son responsables de la configuraci
 
 ## Audiencia de Campañas
 
-![campanha-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/tasas-y-promociones/visi%C3%B3n-de-conjunto-de-tasas-y-promociones/pantalla-inicial-del-modulo-de-pricing-promociones_1.png)
+![campanha-es](//images.ctfassets.net/alneenqid6w5/78eGGuLQ9U5X8nJd21K46T/16b42ea9ae089696a8fab6986cf078ee/campanha-es.png)
 
 La audiencia de campañas es una forma de definir el público objetivo al que una promoción puede ser aplicada. Es decir, usted puede crear segmentos de clientes basados en la definición de algunos criterios que serán elegibles para una determinada audiencia de campaña y consecuentemente a una o más promociones. Una audiencia de campaña puede asociarse a una o más [promociones de audiencias de campañas](https:///tutorial/promocao-de-campanha?locale=es "Crear promoción de campaña").
 
@@ -29,7 +29,7 @@ La audiencia de campañas es una forma de definir el público objetivo al que un
 
 ## Promociones
 
-![promoções.es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/tasas-y-promociones/visi%C3%B3n-de-conjunto-de-tasas-y-promociones/pantalla-inicial-del-modulo-de-pricing-promociones_2.png)
+![promoções.es](//images.ctfassets.net/alneenqid6w5/1zFONiDeeUvKA1Cyj5zY1c/dc438c0f2f3a786b3efceb8665ecde57/promo____es.es.png)
 
 Aquí es donde los descuentos que su tienda va a ofrecer se crean. Usted también puede ver, filtrar, buscar y archivar todas las promociones. De acuerdo con la configuración de cada tienda, existe un límite de promociones que pueden estar activas al mismo tiempo. 
 
@@ -44,12 +44,12 @@ Para comprobar esta cantidad, observe el mensaje que aparece en la esquina super
 
 ## Cupones
 
-![cupons.es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/tasas-y-promociones/visi%C3%B3n-de-conjunto-de-tasas-y-promociones/pantalla-inicial-del-modulo-de-pricing-promociones_3.png)
+![cupons.es](//images.ctfassets.net/alneenqid6w5/6DMoadJ7T4npiiWir48bCQ/ce25ad3832e5098993ed05eb06cb7d84/cupons.es.png)
 
 Es en esta sección que se crean los cupones. Usted también puede recogerlos y archivarlos. [Aprenda cómo crear cupones](/es/tutorial/crear-cupon-de-descuento).
 
 ## Impuestos
 
-![taxas.es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/tasas-y-promociones/visi%C3%B3n-de-conjunto-de-tasas-y-promociones/pantalla-inicial-del-modulo-de-pricing-promociones_4.png)
+![taxas.es](//images.ctfassets.net/alneenqid6w5/2pHx00EwpCj3fatVpnfPui/83121098980fd0f608d9d808a4acd417/taxas.es.png)
 
 En esta área se crearán los impuestos que inciden sobre sus productos. También se permite filtrar, buscar y archivar las tasas. [Entienda mejor las particularidades de esta configuración en el artículo sobre tasas](/es/tutorial/creando-la-tasaimpuesto).

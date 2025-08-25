@@ -19,11 +19,11 @@ El concepto de cache es bastante difundido como siendo un dispositivo de acceso 
 
 Cuando una página o archivo inicia su carga, a través de la URL, el browser realiza una solicitud para el servidor que, por su parte, tiene la función de responder con información relevante para aquella solicitud. La solicitud del browser se conoce como **request** y la respuesta del servidor como **response**. Esos términos serán bastante utilizados en el transcurso de este artículo. Vea el esquema abajo:
 
-![Como o cache funciona - comunicação entre servidor e navegador](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/infraestructura/cdn-service/entendendo-o-funcionamento-do-cache_1.png)
+![Como o cache funciona - comunicação entre servidor e navegador](//images.ctfassets.net/alneenqid6w5/6ONSKQqdEoIsHxcvfp5GoS/1d05717d54faede0fc00d75716d7def4/1_ES.png)
 
 El cache está representado a través de una capa entre el browser y el servidor y, así, cuando un **request** ocurre, en vez del sistema ir a buscar la información directamente en el servidor, primero va a esa capa, lo que vuelve mucho más ágil a la respuesta. Vea el esquema abajo:
 
-![Cómo funciona el caché: comunicación con el caché (sin caducar)](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/infraestructura/cdn-service/entendendo-o-funcionamento-do-cache_2.png)
+![Cómo funciona el caché: comunicación con el caché (sin caducar)](//images.ctfassets.net/alneenqid6w5/15ss3biutJhXX2WkG9k8xG/3d375c19c114eecdbe75decac28e2df3/2_PT.png)
 
 Sin embargo, como el dato actualizado está en el servidor, de tiempo en tiempo es necesario actualizar el cache. Ese tiempo varía de acuerdo al tipo de **request, **o sea, si el **request** es una página, el tiempo es uno, si es un archivo javascript o CSS, es otro y aún, si es una imagen, será otro.
 
@@ -50,7 +50,7 @@ Como ya se ha dicho, tempo de duração del cache varía para cada tipo de **req
 
 Cuando el cache de un **request** (página o archivo) expira, al realizar una nueva solicitud, o sea, al cargar nuevamente la URL, el sistema va al servidor, rescata la información actualizada para aquella solicitud y actualiza el contenido de aquella URL en el cache. Después de actualizada, la versión cacheada vuelve a ser retornada para nuevas solicitudes de URL. Vea el esquema ilustrando ese caso:
 
-![Cómo funciona la caché: comunicación con la caché (caducada)](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/infraestructura/cdn-service/entendendo-o-funcionamento-do-cache_3.png)
+![Cómo funciona la caché: comunicación con la caché (caducada)](//images.ctfassets.net/alneenqid6w5/e5oS6cve6yw1tS81PYkBK/36d452de8975e10cbb847787bddaf1e1/3_ES.png)
 
 En ese aspecto, podemos separar las respuestas en dos grupos: Cacheadas y no cacheadas.
 
@@ -63,7 +63,7 @@ Si el valor está rellenado con “HIT”, significa que el contenido exhibido e
 
 Otra información relevante que puede ser identificada en los headers de los **requests** es la fecha en la que el cache fue creado. Esa información está disponible en la propiedad `X-vtex-processed-at`.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/infraestructura/cdn-service/entendendo-o-funcionamento-do-cache_4.png)
+![](//images.contentful.com/alneenqid6w5/5GPSsb4UWA28QS4soyguSI/8772946997cc979ddf9c2297f2ca8bb6/cache.png)
 
 Pese a que archivos javascript y CSS también tienen la duración de cache establecida, como este tipo de archivos se usa en la dormitación de los layouts y, por eso, en algunos casos, necesitan una actualización más ágil, el portal posee una inteligencia que identifica modificaciones en sus contenidos, rompiendo con la capa de cache. 
 

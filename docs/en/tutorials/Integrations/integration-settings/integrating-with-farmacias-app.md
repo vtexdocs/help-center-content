@@ -35,7 +35,7 @@ _**Attention**: these fields must be filled out exactly as described above._
 
 The **role** will be: IntegrationProfile-Fulfillment_Oms, IntegrationProfile-Fulfillment_Gateway
 
-![Farmacias1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/integration-settings/integrating-with-farmacias-app_1.png)
+![Farmacias1](//images.contentful.com/alneenqid6w5/2rkEOHXVIEk4q8WiOWCsSs/46449655d8c76e01903a29ec6ed5492d/Farmacias1.png)
 
 Then, click on **Save**.
 
@@ -51,7 +51,7 @@ Afterwards, you will have to:
 Lastly, the affiliate must be registered, as it is the unique identity of the marketplace in your store. To do this, follow the steps below:
 
 1. Access the **Orders Managment** module;
-2. Click on the **Settings** button;![Farmacias2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/integration-settings/integrating-with-farmacias-app_2.png)
+2. Click on the **Settings** button;![Farmacias2](//images.contentful.com/alneenqid6w5/7Mekt0KzpmaS4M4uoEu2kC/d0b13138a044072b6ba2c7c89808eacc/Farmacias2.png)
 3. Click on the **Affiliates** tab;
 4. Click on the **New Affiliate** button;
 5. Complete the fields as follows:
@@ -62,7 +62,7 @@ Lastly, the affiliate must be registered, as it is the unique identity of the ma
 **E-mail for notifications**: _e-mail of the person responsible for the integration_;
 **Search Endpoint**: https://integrador.farmaciasapp.com.br/Vtex/api/notification
 
-![Farmacias3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/integration-settings/integrating-with-farmacias-app_3.png)
+![Farmacias3](//images.contentful.com/alneenqid6w5/6pnQjxLuhO8cUogU6oYoig/953a840b59416974f9a3baeff39d47cd/Farmacias3.png)
 
 _When the payments are processed using Farmácias App, the **Usar meu meio de pagamento** option must be disabled. Check this option only for payments processed in different environments, such as payments processed on the VTEX platform._
 

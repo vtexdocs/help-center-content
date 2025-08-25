@@ -43,13 +43,13 @@ Para criar uma regra de Divergência de valores, siga os passos abaixo:
 
 Você verá a seguinte tela:
 
-![print_01_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pedidos/configura%C3%A7%C3%B5es-de-gerenciamento-de-pedidos/configuracao-da-regra-de-divergencia-de-valores_1.png)
+![print_01_PT](//images.ctfassets.net/alneenqid6w5/6lp2IKdU8VvaFgOUhHv5GA/97a35d8b97cc9bd3a9ccd7c9db67b87a/print_01_PT.png)
 
 A aba **Todas** apresenta todas as regras de autorização configuradas.
 
 Para criar a 1ª regra de autorização, clique em **CRIAR REGRAS**. A partir disso, será possível identificar uma nova aba, chamada **1ª regra**. Clique sobre ela e opções de configuração vão aparecer.
 
-![print_02_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pedidos/configura%C3%A7%C3%B5es-de-gerenciamento-de-pedidos/configuracao-da-regra-de-divergencia-de-valores_2.png)
+![print_02_PT](//images.ctfassets.net/alneenqid6w5/Q8TwzIWNwQPg13tcaALd6/a8a96047fce4c061362d5a22ada0d2c0/print_02_PT.png)
 
 Para configurar a **1ª regra**, você pode aumentar ou diminuir o percentual de divergência, arrastando as extremidades da barra, sendo o sinal > para definir o início do intervalo, e < para determinar até onde ele vai. O intervalo percentual escolhido pode variar de 0% a 100%.
 
@@ -65,7 +65,7 @@ Para configurar uma hierarquia de usuários responsáveis por aprovações de pe
 
 Para criar a **2ª regra**, clique no <i class="fas fa-plus" aria-hidden="true"></i> sinal de adição. Esse mesmo procedimento vale para criar uma terceira ou quarta regra, e assim por diante. Após clicar no ícone, aparece a seguinte interface:
 
-![print_03_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pedidos/configura%C3%A7%C3%B5es-de-gerenciamento-de-pedidos/configuracao-da-regra-de-divergencia-de-valores_3.png)
+![print_03_PT](//images.ctfassets.net/alneenqid6w5/6Yxvh93ja2V69Yywn3CyWt/15b1a362d2184c3e8a09f65796ea9db2/print_03_PT.png)
 
 Configure a nova regra de autorização e, após definir todas as regras desejadas, clique no botão **SALVAR REGRAS**. Você verá a seguinte mensagem: _Após salvar, você ainda poderá editá-las ou excluí-las quando quiser_. Clique em **OK** para  confirmar. Feito isso, você terá concluído a criação da regra de Divergência de valores.
 

@@ -38,7 +38,7 @@ The calculation of the cubic weight is performed by multiplying Length x Width x
 
 Check out the following example:
 
-![example_cubic_weight_en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Shipping/shipping-strategy/understanding-the-cubic-weight-factor_1.jpg)
+![example_cubic_weight_en](//images.contentful.com/alneenqid6w5/3KZDUQlPBYEY8mSwqQgW6k/15cef41598f4fc1359f482cddbcca756/pesocubado.jpg)
 
 - __Package size:__ `50cm x 15cm x 60cm`
 - __Minimum weight:__ `9kg`
@@ -53,7 +53,7 @@ That is, if the value offered by your carrier is `6,000`, you must perform the d
 
 This is the value you must fill out the **Cubic weight factor** field in your [shipping policy](https://help.vtex.com/es/tutorial/politica-de-envio--tutorials_140).
 
-![cubic_weight_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Shipping/shipping-strategy/understanding-the-cubic-weight-factor_2.png)
+![cubic_weight_EN](//images.ctfassets.net/alneenqid6w5/44WaAckgByWYgyYGXtEoOj/dc63a437a83448eaafd90e0fb545879e/cubic_weight_EN.png)
 
 Therefore, the final calculation will be:
 

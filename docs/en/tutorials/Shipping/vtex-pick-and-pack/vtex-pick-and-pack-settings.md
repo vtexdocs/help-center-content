@@ -32,7 +32,7 @@ subcategoryId: 7Kllu6CmeLNV3tYXlCFvOt
 
 In this tab, you'll find the settings related to the picking of order items. Here, you can set actions the picker can take during the picking process, including notifying you that an order item is unavailable and suggesting replacements.
 
-![pick-and-pack-separacao-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Shipping/vtex-pick-and-pack/vtex-pick-and-pack-settings_1.png)
+![pick-and-pack-separacao-en](//images.ctfassets.net/alneenqid6w5/31IMWfSufilPJHlkU7bLyh/0b5dd839ffadbb4fc7670bae7b6a1e27/image.png)
 
 ### Picking Strategy
 
@@ -89,7 +89,7 @@ Click `Save` to save the changes.
 
 On this tab, you can configure the order of the categories in which the orders will be picked. This enables the picker to manage the order picking process efficiently.
 
-![pick-pack-categorias-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Shipping/vtex-pick-and-pack/vtex-pick-and-pack-settings_2.png)
+![pick-pack-categorias-en](//images.ctfassets.net/alneenqid6w5/3BSGR29QrAWbHBRjadYcBE/1399599a366ab0232398093187d11eaa/image.png)
 
 * **Fast configuration**: Applies the settings to all facilities. You can enable <i class="fas fa-toggle-on"></i> or disable <i class="fas fa-toggle-off"></i> this option.
 * **Facility**: Determines the facility to which the category settings will be applied.
@@ -101,7 +101,7 @@ You can import a CSV file or export the already configured list.
 ## Packing
 In this tab, you will find the packing settings for order items.
 
-![pick-pack-empacotamento-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Shipping/vtex-pick-and-pack/vtex-pick-and-pack-settings_3.png)
+![pick-pack-empacotamento-en](//images.ctfassets.net/alneenqid6w5/2SbFdooYvZpNL3KDq2gdgK/af91942f280c2312c521db86060c706e/image.png)
 * **Allow package reports**: Enables the visualization of the package report, which will be displayed on the Orders screen. You can enable <i class="fas fa-toggle-on"></i> or disable <i class="fas fa-toggle-off"></i> this option.
 * **Allow automatic packing**: Allows automatic packaging of orders. You can enable <i class="fas fa-toggle-on"></i> or disable <i class="fas fa-toggle-off"></i> this option.
 
@@ -168,7 +168,7 @@ Click `Save` to save the changes.
 
 In this tab, you will find settings for orders processed by VTEX Pick and Pack.
 
-![pick-pack-config-pedidos-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Shipping/vtex-pick-and-pack/vtex-pick-and-pack-settings_4.png)
+![pick-pack-config-pedidos-en](//images.ctfassets.net/alneenqid6w5/4WY1T4pWaSbvdzA6FqOeGY/557e12764b6dc82064c62cc8e9f6a405/image.png)
 
 * **Download Orders From OMS**: Allows exporting orders from the OMS.
 * **Payment methods**: Payment methods used in the orders being exported.
@@ -182,7 +182,7 @@ Click `Save` to save the changes.
 
 In this tab, you will find the automation settings for VTEX Pick and Pack processes.
 
-![pick-pack-automacao-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Shipping/vtex-pick-and-pack/vtex-pick-and-pack-settings_5.png)
+![pick-pack-automacao-en](//images.ctfassets.net/alneenqid6w5/4ymzTYa77AIPdheE0KkgSy/5bdf2473a93291bf2c839415872f4805/image.png)
 
 To create a new automation, follow the steps below:
 
@@ -194,7 +194,7 @@ To create a new automation, follow the steps below:
 
 In this tab, you can manage users, admins, and pickers from your VTEX Pick and Pack operation. Users with Admin permission will have access to the VTEX Admin and be able to make changes within the tool. Users with Picker permission can only access the VTEX Pick and Pack app.
 
-![pick-pack-usuarios-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Shipping/vtex-pick-and-pack/vtex-pick-and-pack-settings_6.png)
+![pick-pack-usuarios-en](//images.ctfassets.net/alneenqid6w5/1VzckMNHfoiub8sRtreP3p/445bb2e98986273d4fbd0afba11a6310/image.png)
 
 To create a new user, follow the steps below:
 
@@ -204,7 +204,7 @@ To create a new user, follow the steps below:
   * __Admin__ permission
     1. Select the listed user you want to add as __Admin__.
     2. Click `Create`.
-    ![pick-pack-usuarios-2-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Shipping/vtex-pick-and-pack/vtex-pick-and-pack-settings_7.png)
+    ![pick-pack-usuarios-2-en](//images.ctfassets.net/alneenqid6w5/1cdVquaWE1X8XIgD7M6tlS/b91e3d2d4268d779b7df0453d8cbf7c1/image.png)
   * __Picker__ permission
     1. Complete the form with the following information:
        * User name
@@ -215,13 +215,13 @@ To create a new user, follow the steps below:
        * Allow shipping packages
        * Categories
     2. Click `Create`.
-    ![pick-pack-usuarios-3-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Shipping/vtex-pick-and-pack/vtex-pick-and-pack-settings_8.png)
+    ![pick-pack-usuarios-3-en](//images.ctfassets.net/alneenqid6w5/4PrkthovWlPTX7vzJ1IdAN/5ab7dd935ac929c4c3bd2c2f7feac3af/image.png)
 
 ## Catalog
 
 In this tab, you can access information about items in orders that are currently in the shipping stage.
 
-![pick-pack-catalogo-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Shipping/vtex-pick-and-pack/vtex-pick-and-pack-settings_9.png)
+![pick-pack-catalogo-en](//images.ctfassets.net/alneenqid6w5/7bEUt2nvw2xGUKO8WjmkSl/846976dd5b8fab2a93d32264334f9686/image.png)
 
 The page displays the following information in a table:
 
@@ -252,7 +252,7 @@ You can also index the catalog to update the product list. To do this, click `In
 
 In this tab, you will be able to add and view your store's facilities.
 
-![pick-pack-instalacoes-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Shipping/vtex-pick-and-pack/vtex-pick-and-pack-settings_10.png)
+![pick-pack-instalacoes-en](//images.ctfassets.net/alneenqid6w5/4VKy2KHlm4Vdz8oa8lv8VB/3c3a6b90a27abf2d6144ae505a64d46c/image.png)
 
 To create a new facility, follow these steps:
 

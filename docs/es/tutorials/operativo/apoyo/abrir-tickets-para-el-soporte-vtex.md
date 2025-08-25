@@ -60,7 +60,7 @@ En esta primera etapa, autentifica tu acceso al [Admin VTEX](https://help.vtex.c
    - Tengo un comportamiento inesperado
    - Necesito una configuración por parte de VTEX
 
-![Copilot-ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/operativo/apoyo/abrir-tickets-para-el-soporte-vtex_1.gif)
+![Copilot-ES](//images.ctfassets.net/alneenqid6w5/13Btoe6i63BUHjlyVNRrpu/5bcd7fa04ac9536d42d2e785e6acf51c/copilot-es.gif)
 
 ### 3. Chatear con Copilot
 Para que Copilot pueda ofrecer la asistencia correcta, facilita la siguiente información cuando solicites ayuda:

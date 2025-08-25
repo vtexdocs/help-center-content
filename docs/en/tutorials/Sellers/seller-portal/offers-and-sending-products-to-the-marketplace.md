@@ -29,7 +29,7 @@ Offer is the name we give to a product or a seller variation sent to the marketp
 
 In the illustration we can see a series of offers from a seller in a marketplace window with the product variations.
 
-![ilustra-anuncio](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Sellers/seller-portal/offers-and-sending-products-to-the-marketplace_1.png)
+![ilustra-anuncio](//images.ctfassets.net/alneenqid6w5/6jTBcTMp6BZkTIdmzlj2cO/53440cb4c74b7e84b5f3d3dbce54ee40/ilustra-anuncioEN.png)
 
 ## How do I know if my product was sent to the Marketplace?
 

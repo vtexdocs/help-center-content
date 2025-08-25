@@ -36,7 +36,7 @@ Para registrar el Sitemap usted deberá de ejecutar las siguientes acciones:
 
 **2. Seleccione la opción de &#8220;Sitemaps&#8221; en el apartado llamado &#8220;Rastreo&#8221;**
 
-****![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/proyectos-&-integraciones/integraci%C3%B3n-con-herramientas-de-monitoreo/rastreo-google-search-console-sitemap_1.png)****
+****![](//images.contentful.com/alneenqid6w5/4ZbMabhWNO6cWaqOKQauGA/e0a6c544f7990e7203a89c63761ce7ea/image00.png)****
 
 **3. Haga click en el boton &#8220;Añadir o Probar Sitemap&#8221;**
 
@@ -44,13 +44,13 @@ Para registrar el Sitemap usted deberá de ejecutar las siguientes acciones:
 
 **5. **Click en &#8220;Enviar&#8221; **
 
-****![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/proyectos-&-integraciones/integraci%C3%B3n-con-herramientas-de-monitoreo/rastreo-google-search-console-sitemap_2.png)****
+****![](//images.contentful.com/alneenqid6w5/5WlIFTSGm4MGc6Wg6a24qY/8b1ae91bbedfdd5bcae4e255cd649784/image01.png)****
 
 **6. El Search Console tendrá acceso al XML y lo verificara. Haga click en la opcion &#8220;Actualizar pagina&#8221; para ir visualizando los resultados y los status de las urls enviadas por el Sitemap.**
 
-**![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/proyectos-&-integraciones/integraci%C3%B3n-con-herramientas-de-monitoreo/rastreo-google-search-console-sitemap_3.png)**
+**![](//images.contentful.com/alneenqid6w5/4H9Cm60mooYeeeEy0cOOaW/9d714db622a05eeda0dc52042b83aaf8/image02.png)**
 
 **7. Después de agregar con éxito el Sitemap en Search Console, se disponibilizara un reporte de las URLs enviadas versus las URLs indexadas, segmentadas por &#8220;Paginas web&#8221; e &#8220;Imagenes&#8221;**
 
-**![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/proyectos-&-integraciones/integraci%C3%B3n-con-herramientas-de-monitoreo/rastreo-google-search-console-sitemap_4.png)**
+**![](//images.contentful.com/alneenqid6w5/6e0WHJD0YMCaWIkE4Kcgm/db32fa9488506be988d648554c3e3c42/image03.png)**
 

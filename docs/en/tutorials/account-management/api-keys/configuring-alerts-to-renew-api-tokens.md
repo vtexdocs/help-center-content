@@ -19,7 +19,7 @@ The **API keys** page allows you to configure alerts to recommend the renewal of
 
 [Renewing tokens](https://help.vtex.com/en/tutorial/renewing-api-tokens--7r4AzptYjXErGHadg9LnJ3) periodically is important to ensure security, limit exposure to risks, and control access to resources, minimizing the impact of compromised keys.
 
-![token-renewal-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/account-management/api-keys/configuring-alerts-to-renew-api-tokens_1.png)
+![token-renewal-en](//images.ctfassets.net/alneenqid6w5/0YykrEUuUAjQ6VUjL48aI/09e2a3bd0236fdf99a686ce2cc8adff0/token-renewal-en.png)
 
 By default, the renewal alert is displayed after three months, unless another option is selected. To configure the alert frequency, follow these steps:
 
@@ -39,11 +39,11 @@ This period will apply to all new and existing keys, using the created date as t
 
 Once the defined period is reached, a renewal alert is displayed next to the key in the **Generated** tab:
 
-![renew-recommended-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/account-management/api-keys/configuring-alerts-to-renew-api-tokens_2.png)
+![renew-recommended-en](//images.ctfassets.net/alneenqid6w5/33RBvgeiebVLBudT0L7GhC/7ef0357528fe14cd27f8ce1218f2acf8/renew-recommended-en.png)
 
 The orange alert means the token has exceeded the recommended usage period by up to three months.
 
-![renew-highly-recommended-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/account-management/api-keys/configuring-alerts-to-renew-api-tokens_3.png)
+![renew-highly-recommended-en](//images.ctfassets.net/alneenqid6w5/5dk1vc3reYddm3C2xXWmUq/7083fc8415300e8e19cf71a73622a16a/renew-highly-recommended-en.png)
 
 The red alert means the token has been in use for three or more months beyond the specified period.
 
