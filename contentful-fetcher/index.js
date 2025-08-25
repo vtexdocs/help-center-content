@@ -13,12 +13,17 @@ const { normalizeFolderName } = require("./utils/normalize");
 const { convertInlineHtmlToMarkdown } = require("./utils/markdownUtils");
 const { updateImages } = require("./utils/updateImages");
 const { isDraft } = require("contentful-management");
+const fs = require("fs");
+const path = require("path");
 
 async function main() {
   const args = minimist(process.argv.slice(2));
   let contentTypes = args.contentType?.split(",") ?? [
     "trackArticle",
     "tutorial",
+    "updates",
+    "frequentlyAskedQuestion",
+    "troubleshooting",
   ];
   const skipImages = args.skipImages;
 
@@ -40,6 +45,14 @@ async function main() {
   }
 
   const locales = ["en", "pt", "es"];
+
+  // Clean docs folder before fetching content
+  const docsPath = path.join(__dirname, "..", "docs");
+  if (fs.existsSync(docsPath)) {
+    console.log("🧹 Cleaning docs folder...");
+    fs.rmSync(docsPath, { recursive: true, force: true });
+    console.log("✅ Docs folder cleaned successfully.");
+  }
 
   const troubleshootingMode = contentTypes.includes("troubleshooting");
 
@@ -172,10 +185,19 @@ async function main() {
       frequentlyAskedQuestion: "faq",
     };
 
+    // If no specific content types were requested, process all folders
     const requestedTypes = args.contentType?.split(",") ?? [];
-    const foldersToUpdate = requestedTypes
-      .map((type) => folderMap[type])
-      .filter(Boolean);
+    let foldersToUpdate;
+    
+    if (requestedTypes.length === 0) {
+      // No specific types requested, so process all folders
+      foldersToUpdate = Object.values(folderMap);
+    } else {
+      // Process only the requested types
+      foldersToUpdate = requestedTypes
+        .map((type) => folderMap[type])
+        .filter(Boolean);
+    }
 
     for (const folder of foldersToUpdate) {
       console.log(`🖼️ Starting image update process for ${folder}`);
