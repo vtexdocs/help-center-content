@@ -1,5 +1,5 @@
 node_modules/
-navigation.json
+/navigation.json
 errorDocs.json
 .env
 netlify.toml
