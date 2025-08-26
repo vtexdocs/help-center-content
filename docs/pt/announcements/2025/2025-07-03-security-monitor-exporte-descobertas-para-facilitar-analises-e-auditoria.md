@@ -1,10 +1,10 @@
 ---
 title: 'Security Monitor: exporte descobertas para facilitar análises e auditoria'
 id: 3zd6g32wGCftuaKSTuTWif
-status: CHANGED
+status: PUBLISHED
 createdAt: 2025-07-03T13:49:07.488Z
-updatedAt: 2025-07-03T15:17:48.076Z
-publishedAt: 2025-07-03T15:14:20.746Z
+updatedAt: 2025-08-11T17:41:03.585Z
+publishedAt: 2025-08-11T17:41:03.585Z
 contentType: updates
 productTeam: Identity
 author: 1malnhMX0vPThsaJaZMYm2

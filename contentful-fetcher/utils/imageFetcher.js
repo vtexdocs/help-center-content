@@ -35,11 +35,13 @@ const checkAndCompressImage = async (filePath) => {
         )} MB). Compressing...`
       );
 
-      // Temporary file path for compressed version
-      const tempCompressedPath = filePath.replace(/(\.\w+)$/, "_compressed$1");
+      // Temporary file path for uncompressed version
+      const tempUncompressedPath = filePath.replace(/(\.\w+)$/, "_uncompressed$1");
+      // Rename uncompressed file
+      fs.renameSync(filePath, tempUncompressedPath);
 
       // Compress into a temporary file first
-      await sharp(filePath, { limitInputPixels: 0, animated: true })
+      await sharp(tempUncompressedPath, { limitInputPixels: 0, animated: true })
         .resize({ width: 800, withoutEnlargement: true }) // só reduz se for maior que 800px
         .gif({
           interFrameMaxError: 8, // mais baixo = mais qualidade
@@ -47,14 +49,12 @@ const checkAndCompressImage = async (filePath) => {
           effort: 10, // mais esforço para compressão
           reoptimise: true, // otimiza mantendo qualidade
         })
-        .toFile(tempCompressedPath);
+        .toFile(filePath);
 
-      // Delete the original large file
-      fs.unlinkSync(filePath);
-      console.log(`🗑️ Original large file deleted: ${filePath}`);
+      // Delete the uncompressed file
+      fs.unlinkSync(tempUncompressedPath);
+      console.log(`🗑️ Original large file deleted: ${tempUncompressedPath}`);
 
-      // Rename compressed file back to original name
-      fs.renameSync(tempCompressedPath, filePath);
       console.log(`♻️ Compression completed: ${filePath}`);
 
       return filePath; // Return compressed file path
