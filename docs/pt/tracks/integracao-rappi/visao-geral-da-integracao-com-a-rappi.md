@@ -12,6 +12,7 @@ slugEN: rappi-integration-overview
 locale: pt
 trackId: 2AeYfJRnQ0I91dvSzRcpKh
 trackSlugEN: integracao-rappi
+order: 1
 ---
 
 A Rappi é uma plataforma que funciona como marketplace conectando compradores a produtos dos mais diversos segmentos. Acompanhando a experiência do cliente da compra à entrega.

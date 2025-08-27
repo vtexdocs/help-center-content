@@ -12,6 +12,7 @@ slugEN: personal-data
 locale: pt
 trackId: 65ZqZlNWcmFSOqZQxr8gha
 trackSlugEN: dados-e-privacidade
+order: 1
 ---
 
 Um dado pessoal ou _Personally Identifiable Information_ (PII) é qualquer informação relativa a uma pessoa física, que seja capaz de identificá-la de maneira direta (como nome, CPF e e-mails pessoais) ou indireta (como endereços de IP, endereços físicos e [cookies](https://vtex.com/br-pt/privacy-and-agreements/vtex-platform-cookies-information/)).

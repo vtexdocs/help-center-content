@@ -1,5 +1,5 @@
 ---
-title: 'Mapping product categories and attributes to Shopee '
+title: 'Mapping product categories and attributes to Shopee'
 id: 7FgpimfEhkQmYsIMeCeuNH
 status: PUBLISHED
 createdAt: 2025-03-17T15:12:14.932Z
@@ -12,6 +12,7 @@ slugEN: mapping-product-categories-and-attributes-to-shopee
 locale: en
 trackId: 4CaZCzU9ZO1CByH0haZ9hA
 trackSlugEN: shopee-integration
+order: 5
 ---
 
 > ⚠️ This is a regional exclusive content not applicable to English speaking countries.

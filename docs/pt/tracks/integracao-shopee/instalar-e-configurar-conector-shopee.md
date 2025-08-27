@@ -12,6 +12,7 @@ slugEN: install-and-configure-shopee-connector
 locale: pt
 trackId: 4CaZCzU9ZO1CByH0haZ9hA
 trackSlugEN: integracao-shopee
+order: 4
 ---
 
 Para instalar o conector da Shopee, siga os passos abaixo:

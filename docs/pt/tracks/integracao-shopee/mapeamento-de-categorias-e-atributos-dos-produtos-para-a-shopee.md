@@ -12,6 +12,7 @@ slugEN: mapping-product-categories-and-attributes-to-shopee
 locale: pt
 trackId: 4CaZCzU9ZO1CByH0haZ9hA
 trackSlugEN: integracao-shopee
+order: 5
 ---
 
 Feitas as configurações iniciais da integração, é possível enviar os produtos para o catálogo da Shopee. Para habilitar o processo de catalogação dos produtos na Shopee, permitindo que eles fiquem disponíveis para venda em menos tempo, o seller precisará realizar o mapeamento entre as características dos produtos na sua loja VTEX e as características dos mesmos produtos na Shopee.  

@@ -6,7 +6,7 @@ const { yamlSafeString } = require("../utils/normalize");
 function generateTrackMarkdown(entry, locale = "en", order) {
   const { fields, sys } = entry;
 
-  const title = fields.title?.[locale] || "Untitled";
+  const title = fields.title?.[locale].trim() || "Untitled";
   const slugLocalized = fields.slug?.[locale] || "untitled";
   const slugEN = fields.slug?.en || "untitled";
   const trackSlug = fields.trackSlug?.[locale] || "untitled-track";

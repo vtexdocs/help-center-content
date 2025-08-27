@@ -12,6 +12,7 @@ slugEN: installing-the-facebook-business-extension-e-conversions-api-app
 locale: pt
 trackId: 434Z1iWnaa0zbOMDyr6oi
 trackSlugEN: integracao-com-o-facebook-business-extension
+order: 3
 ---
 
 Na VTEX App Store, está disponível a app _Facebook Business Extension e Conversions API_. Para realizar sua instalação, siga os passos abaixo:

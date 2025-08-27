@@ -1,5 +1,5 @@
 ---
-title: 'Configurar rappi regla de Divergencia de precios '
+title: 'Configurar rappi regla de Divergencia de precios'
 id: VoIvBSldeT2A4MuRVMMi1
 status: PUBLISHED
 createdAt: 2024-05-31T20:36:17.323Z
@@ -12,6 +12,7 @@ slugEN: configuring-rappi-price-divergence-rule
 locale: es
 trackId: 2AeYfJRnQ0I91dvSzRcpKh
 trackSlugEN: integracion-de-rappi
+order: 3
 ---
 
 > ⚠️ Este contenido es exclusivamente regional; por lo tanto, no se aplica a los países de habla española.
