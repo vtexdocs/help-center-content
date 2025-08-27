@@ -1,71 +1,71 @@
 ---
-title: 'Punctuation'
-id: grammar0007
+title: 'Puntuación'
+id: grammar0007-es
 status: PUBLISHED
-createdAt: 2024-12-05T19:24:22.388Z
-updatedAt: 2024-12-05T19:24:22.388Z
-publishedAt: 2024-12-05T19:24:22.388Z
-firstPublishedAt: 2024-12-05T19:24:22.388Z
+createdAt: 2025-08-27T19:24:22.388Z
+updatedAt: 2025-08-27T19:24:22.388Z
+publishedAt: 2025-08-27T19:24:22.388Z
+firstPublishedAt: 2025-08-27T19:24:22.388Z
 contentType: trackArticle
 productTeam: Localization
-slugEN: punctuation
-locale: en
+slugES: puntuacion
+locale: es
 trackId: 5PxyAgZrtiYlaYZBTlhJ2A
-trackSlugEN: punctuation
+trackSlugES: puntuacion
 ---
 
-In a UI, the goal is to minimize distractions and guide users through clear actions and messages. The UI must be concise, functional, and often minimal in its use of punctuation.
+En una interfaz de usuario, el objetivo es reducir interferencias y guiar al usuario mediante acciones y mensajes claros. La interfaz debe ser concisa, funcional y, en lo posible, evitar el uso excesivo de signos de puntuación.
 
-Avoid using periods to end single sentences, particularly in labels, label description text, tooltip text, bulleted lists, dialog body text, hyperlinked text, titles, and buttons containing a sentence.
+Se recomienda omitir signos como puntos y signos de exclamación al final de oraciones simples, especialmente en etiquetas, descripciones, mensajes y títulos.
 
-Use periods on long or complex sentences, paragraphs with multiple sentences, and any sentence followed by a link.
+Utiliza punto final solo en oraciones largas o complejas, en párrafos con más de una oración o en cualquier frase que termine con un link.
 
-| Do ✅ | Don't ❌ |
-| :---- | :---- |
-| <ul><li>Invite your first seller</li><li>Here you can invite and onboard new sellers</li><li>Collection deleted successfully</li><li>Total captured orders within the selected period</li><li>Learn more</li><li>Delete user</li><li>I agree and accept</li></ul> | <ul><li>Invite your first seller.</li><li>Here you can invite and onboard new sellers.</li><li>Collection deleted successfully!</li><li>Total captured orders within the selected period.</li><li>Learn more.</li><li>Delete user?</li><li>I agree and accept.</li></ul> |
+| Correcto ✅ | Incorrecto ❌ |
+| :--- | :--- |
+| <ul><li>Muestra un producto con diferentes sellers destacando la mejor oferta</li><li>Total de pedidos facturados en el periodo seleccionado</li><li><u>Saber más</u></li><li>Estoy de acuerdo y acepto</li><li>Configura cuántas cotizaciones de envío se deben mostrar. Esta configuración se aplicará a todos los sellers de esta página. <u>Saber más</u></li></ul> | <ul><li>Muestra un producto con diferentes sellers destacando la mejor oferta.</li><li>Total de pedidos facturados en el periodo seleccionado.</li><li><u>Saber más.</u></li><li>Estoy de acuerdo y acepto.</li><li>Configura cuántas cotizaciones de envío se deben mostrar. Esta configuración se aplicará a todos los sellers de esta página <u>Saber más</u></li></ul> |
 
-For a more objective message, avoid using commas.
+Para un mensaje más objetivo, evita el uso de comas cuando sea posible.
 
-| Do ✅ | Don't ❌ |
-| :---- | :---- |
-| <ul><li>[x] will also be removed from `{applications}` and other applications where it's being used</li><li>This collection has manually added products and also automatic filters in the CMS</li></ul> | <ul><li>If it's being used in `{applications}`, or others, it will also be removed from those applications</li><li>In addition to the manually added products, this collection has automatic filters in the CMS</li></ul> |
+| Correcto ✅ | Incorrecto ❌ |
+| :--- | :--- |
+| <ul><li>Al desactivar la aplicación estás removiéndola de tu workspace, pero no se eliminará la configuración guardada anteriormente. Para eliminarla por completo utiliza la opción Eliminar</li><li>Esta colección es automática y tiene productos agregados por filtros que solo se pueden ver en el CMS.</li></ul> | <ul><li>Al desactivar la aplicación, estás removiéndola de tu workspace, pero no se eliminará la configuración guardada anteriormente. Para eliminarla por completo, utiliza la opción Eliminar</li><li>Además de los productos agregados por filtros que solo se pueden ver en el CMS, esta colección es automática</li></ul> |
 
-Use periods on multiple sentences; long or complex sentences, if it suits the context; or any sentence followed by a link.
+Evita el uso de signos de exclamación y de interrogación.
 
-| Do ✅ | Don't ❌ |
-| :---- | :---- |
-| <ul><li>Words related to the product. They will be used in searches. Separate the words with commas ",".</li><li>You are using <b>`{current, number}` out of `{limit, number}`</b> available coupon slots. Remove some coupons to create more. <u>Learn more</u></li></ul> | <ul><li>Words related to the product. They will be used in searches. Separate the words with commas ","</li><li>You are using <b>`{current, number}` out of `{limit, number}`</b> available coupon slots. Remove some coupons to create more <u>Learn more</u></li></ul> |
+| Correcto ✅ | Incorrecto ❌ |
+| :--- | :--- |
+| <ul><li>Colección eliminada con éxito</li><li>Eliminar usuario</li></ul> | <ul><li>¡Colección eliminada con éxito!</li><li>¿Eliminar usuario?</li></ul> |
 
-Don't use exclamation or interrogation marks.
+Agrega un espacio antes y después de los guiones para garantizar la legibilidad y coherencia del texto.
 
-| Do ✅ | Don't ❌ |
-| :---- | :---- |
-| <ul><li>Collection deleted successfully</li><li>Delete user</li></ul> | <ul><li>Collection deleted successfully!</li><li>Delete user?</li></ul> |
+| Correcto ✅ | Incorrecto ❌ |
+| :--- | :--- |
+| <ul><li>1 – 25 de 215 ítems</li><li>8:00 a. m. – 9:00 p. m.</li></ul> | <ul><li>1–25 de 215 ítems</li><li>8:00 a. m. a 9:00 p. m.</li></ul> |
 
-Add a space before and after dashes to ensure readability and consistency in the text.
+No agregues espacios antes y después de las barras.
 
-| Do ✅ | Don't ❌ |
-| :---- | :---- |
-| <ul><li>1 – 25 of 215 items</li><li>8:00 AM – 9:00 PM</li></ul> | <ul><li>1–25 of 215 items</li><li>8:00 AM–9:00 PM</li></ul> |
+| Correcto ✅ | Incorrecto ❌ |
+| :--- | :--- |
+| <ul><li>Filtrar por Nombre/SKU</li><li>Agregar/Eliminar productos de colecciones</li></ul> | <ul><li>Filtrar por Nombre / SKU</li><li>Agregar / Eliminar productos de colecciones</li></ul> |
 
-Don't add space before and after slashes.
+Solo deben usarse cuando se respetan nombres propios de campañas, aplicaciones, funcionalidades, marcas que así se presentan en su forma original y términos acordados en el glosario.
 
-| Do ✅ | Don't ❌ |
-| :---- | :---- |
-| <ul><li>Filter by Name/SKU</li><li>Add/Remove products from collections</li></ul> | <ul><li>Filter by Name / SKU</li><li>Add / Remove products from collections</li></ul> |
+| Correcto ✅ | Incorrecto ❌ |
+| :--- | :--- |
+| <ul><li>Descuento pre-acordado por ítem (Mercado Libre)</li><li>Los productos add-on son soluciones que VTEX ofrece para satisfacer demandas específicas.</li><li>El menú Catálogo contiene las funcionalidades relativas al surtido de productos de tu tienda de ecommerce.</li></ul> | <ul><li>Descuento preacordado por ítem (Mercado Libre)</li><li>Los productos add on son soluciones que VTEX ofrece para satisfacer demandas específicas.</li><li>El menú Catálogo contiene las funcionalidades relativas al surtido de productos de tu tienda de e-commerce.</li></ul> |
 
-## Colons
+## Dos puntos
 
-Capitalize the first letter after a colon.
+Utiliza minúscula después de dos puntos.
 
-| Do ✅ | Don't ❌ |
-| :---- | :---- |
-| Autocomplete: Provides search and product suggestions based on the shopper's context.| Autocomplete: provides search and product suggestions based on the shopper's context. |
+| Correcto ✅ | Incorrecto ❌ |
+| :--- | :--- |
+| Autocomplete: presenta sugerencias de búsqueda y de productos según el contexto del comprador. | Autocomplete: Presenta sugerencias de búsqueda y de productos según el contexto del comprador. |
 
-## User interfaces
+## Interfaz de usuario
 
-Use interrogation marks and personal pronouns only when confirming actions that are hard to undo or can't be undone.
+Usa signos de interrogación solo cuando sea necesario confirmar acciones complejas o que no se pueden deshacer. Mantén el mensaje directo: evita frases largas, estructuras redundantes o formulaciones innecesarias.
 
-| Do ✅ | Don't ❌ |
-| :---- | :---- |
-| Are you sure you want to discard all changes? | <ul><li>Want to discard all changes?</li><li>Are you sure you want to discard all changes</li></ul> |
+| Correcto ✅ | Incorrecto ❌ |
+| :--- | :--- |
+| ¿Realmente deseas eliminar esta dirección? | ¿Estás seguro de que realmente deseas eliminar esta dirección? |

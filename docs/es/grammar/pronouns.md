@@ -1,33 +1,27 @@
 ---
-title: 'Pronouns'
-id: grammar0003
+title: 'Pronombres'
+id: grammar0003-es
 status: PUBLISHED
-createdAt: 2025-01-09T19:24:22.388Z
-updatedAt: 2025-01-09T19:24:22.388Z
-publishedAt: 2025-01-09T19:24:22.388Z
-firstPublishedAt: 2025-01-09T19:24:22.388Z
+createdAt: 2025-08-27T19:24:22.388Z
+updatedAt: 2025-08-27T19:24:22.388Z
+publishedAt: 2025-08-27T19:24:22.388Z
+firstPublishedAt: 2025-08-27T19:24:22.388Z
 contentType: trackArticle
 productTeam: Localization
-slugEN: pronouns
-locale: en
+slugES: pronombres
+locale: es
 trackId: 5PxyAgZrtiYlaYZBTlhJ2A
-trackSlugEN: pronouns
+trackSlugES: pronombres
 ---
 
-Use *their* when talking about a third-person singular.
+Dirígete siempre al lector en segunda persona del singular, *tú*, nunca como *usted*. Emplea las palabras *usuario*, *retailer* o *seller* solo cuando te refieras específicamente a quien usará la función que tu lector está configurando.
 
-| Do ✅ | Don't ❌ |
-| :---- | :-------- |
-| When you click a seller, you are redirected to *their* details page. | When you click a seller, you are redirected to *his* details page. |
+| ✅ Correcto | ❌ Incorrecto |
+| :--- | :--- |
+| En esta sección, selecciona las ofertas que se incluirán en la promoción. Para incluir ofertas en la campaña sigue los pasos a continuación: <ol><li>En la sección **Candidatos** marca las casillas de las ofertas que deseas incluir en la campaña promocional.</li></ol> | En esta sección, el seller debe seleccionar las ofertas que se incluirán en la promoción. Para incluir ofertas en la campaña sigue los pasos a continuación: <ol><li>En la sección **Candidatos** marca las casillas de las ofertas que el seller desea incluir en la campaña promocional.</li></ol> |
 
-Always address the reader as you. Use the words *user, merchant, or seller* only to refer to the user of the feature that your reader is configuring.
+Usa la primera persona del plural para referirte a VTEX como autor del documento, cuando sea necesario.
 
-| Do ✅ | Don't ❌ |
-| --------- | ------------ |
-| In this section, you can select the offers that will be included in the promotion. To include offers in the promotional campaign, follow the steps below: <ol><li>In the <b>Candidates</b> section, check the checkbox of the offers that you want to include in the promotional campaign.</li></ol>  | In this section, the seller will select the offers that will be included in the promotion. To include offers in the promotional campaign, follow the steps below: <ol><li>In the <b>Candidates section</b>, check the checkbox of the offers that the seller wants to include in the promotional campaign.</li></ol> |
-
-Use first-person plural pronouns (*we, our, us*) to refer to VTEX as author of the document when necessary.
-
-| Do ✅ | Don't ❌ |
-| --------- | ------------ |
-| <ul><li>We recommend adjusting this setting to avoid stockout.</li><li>We recommend exporting 10,000 records at a time.</li></ul> | <ul><li>VTEX recommends adjusting this setting to avoid stockout.</li><li>It's recommended to export 10,000 records at a time.</li></ul> |
+| ✅ Correcto | ❌ Incorrecto |
+| :--- | :--- |
+| <ul><li>Recomendamos ajustar esta configuración para evitar la falta de stock.</li><li>Recomendamos exportar 10 000 registros por vez.</li></ul> | <ul><li>VTEX recomienda ajustar esta configuración para evitar falta de stock.</li><li>Se recomienda exportar 10 000 registros por vez.</li></ul> |

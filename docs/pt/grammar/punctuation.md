@@ -1,71 +1,123 @@
 ---
-title: 'Punctuation'
-id: grammar0007
+title: 'Pontuação'
+id: grammar0007-pt
 status: PUBLISHED
-createdAt: 2024-12-05T19:24:22.388Z
-updatedAt: 2024-12-05T19:24:22.388Z
-publishedAt: 2024-12-05T19:24:22.388Z
-firstPublishedAt: 2024-12-05T19:24:22.388Z
+createdAt: 2025-08-27T19:24:22.388Z
+updatedAt: 2025-08-27T19:24:22.388Z
+publishedAt: 2025-08-27T19:24:22.388Z
+firstPublishedAt: 2025-08-27T19:24:22.388Z
 contentType: trackArticle
 productTeam: Localization
-slugEN: punctuation
-locale: en
+slugPT: pontuacao
+locale: pt
 trackId: 5PxyAgZrtiYlaYZBTlhJ2A
-trackSlugEN: punctuation
+trackSlugPT: pontuacao
 ---
 
-In a UI, the goal is to minimize distractions and guide users through clear actions and messages. The UI must be concise, functional, and often minimal in its use of punctuation.
+Em uma interface de usuário, o objetivo é minimizar as interferências e orientar os usuários por meio de ações e mensagens claras. A interface precisa ser concisa, funcional e, muitas vezes, usar o mínimo de pontuação possível.
 
-Avoid using periods to end single sentences, particularly in labels, label description text, tooltip text, bulleted lists, dialog body text, hyperlinked text, titles, and buttons containing a sentence.
+Evite usar pontuação no final de frases simples, como pontos finais e pontos de exclamação, principalmente em labels, descrições, mensagens e títulos.
 
-Use periods on long or complex sentences, paragraphs with multiple sentences, and any sentence followed by a link.
+Use ponto final em frases longas ou complexas, parágrafos com várias frases e qualquer frase que seja seguida de um link.
 
-| Do ✅ | Don't ❌ |
-| :---- | :---- |
-| <ul><li>Invite your first seller</li><li>Here you can invite and onboard new sellers</li><li>Collection deleted successfully</li><li>Total captured orders within the selected period</li><li>Learn more</li><li>Delete user</li><li>I agree and accept</li></ul> | <ul><li>Invite your first seller.</li><li>Here you can invite and onboard new sellers.</li><li>Collection deleted successfully!</li><li>Total captured orders within the selected period.</li><li>Learn more.</li><li>Delete user?</li><li>I agree and accept.</li></ul> |
+| Correto ✅ | Incorreto ❌ |
+| :--- | :--- |
+| <ul><li>Convide seu novo seller</li><li>Total de pedidos capturados no período selecionado</li><li><u>Saiba mais</u></li><li>Concordo e aceito</li><li>Todas as 100 opções de cupons disponíveis estão sendo usadas. Remova os cupons para criar mais. <u>Saiba mais</u></li></ul> | <ul><li>Convide seu novo seller.</li><li>Total de pedidos capturados no período selecionado.</li><li><u>Saiba mais.</u></li><li>Concordo e aceito.</li><li>Todas as 100 opções de cupons disponíveis estão sendo usadas. Remova os cupons para criar mais <u>Saiba mais</u></li></ul> |
 
-For a more objective message, avoid using commas.
+Para uma mensagem mais objetiva, evite usar vírgulas.
 
-| Do ✅ | Don't ❌ |
-| :---- | :---- |
-| <ul><li>[x] will also be removed from `{applications}` and other applications where it's being used</li><li>This collection has manually added products and also automatic filters in the CMS</li></ul> | <ul><li>If it's being used in `{applications}`, or others, it will also be removed from those applications</li><li>In addition to the manually added products, this collection has automatic filters in the CMS</li></ul> |
+| Correto ✅ | Incorreto ❌ |
+| :--- | :--- |
+| <ul><li>O [x] também será removido de {applications} e de outros aplicativos em que estiver sendo usado</li><li>Essa coleção tem produtos adicionados manualmente e filtros automáticos no CMS</li></ul> | <ul><li>Se estiver sendo usado em {aplicativos}, ou outros, ele também será removido desses aplicativos</li><li>Além dos produtos adicionados manualmente, essa coleção tem filtros automáticos no CMS</li></ul> |
 
-Use periods on multiple sentences; long or complex sentences, if it suits the context; or any sentence followed by a link.
+Evite usar pontos de exclamação e interrogação.
 
-| Do ✅ | Don't ❌ |
-| :---- | :---- |
-| <ul><li>Words related to the product. They will be used in searches. Separate the words with commas ",".</li><li>You are using <b>`{current, number}` out of `{limit, number}`</b> available coupon slots. Remove some coupons to create more. <u>Learn more</u></li></ul> | <ul><li>Words related to the product. They will be used in searches. Separate the words with commas ","</li><li>You are using <b>`{current, number}` out of `{limit, number}`</b> available coupon slots. Remove some coupons to create more <u>Learn more</u></li></ul> |
+| Correto ✅ | Incorreto ❌ |
+| :--- | :--- |
+| <ul><li>Coleção excluída com sucesso</li><li>Excluir usuário</li></ul> | <ul><li>Coleção excluída com sucesso!</li><li>Excluir usuário?</li></ul> |
 
-Don't use exclamation or interrogation marks.
+Não use espaço em palavras separadas por barras.
 
-| Do ✅ | Don't ❌ |
-| :---- | :---- |
-| <ul><li>Collection deleted successfully</li><li>Delete user</li></ul> | <ul><li>Collection deleted successfully!</li><li>Delete user?</li></ul> |
+| Correto ✅ | Incorreto ❌ |
+| :--- | :--- |
+| <ul><li>Filtrar por Nome/SKU</li><li>Adicionar/Remover produtos de coleções</li></ul> | <ul><li>Filtrar por Nome / SKU</li><li>Adicionar / Remover produtos de coleções</li></ul> |
 
-Add a space before and after dashes to ensure readability and consistency in the text.
+Valores numéricos: use sempre um espaço entre o símbolo e o número, ou entre o número e a unidade de medida. O ponto pode ser usado como separador de milhar, mas muitas vezes é omitido em textos corridos. Para separador decimal, use vírgula. Não use zero na casa decimal.
 
-| Do ✅ | Don't ❌ |
-| :---- | :---- |
-| <ul><li>1 – 25 of 215 items</li><li>8:00 AM – 9:00 PM</li></ul> | <ul><li>1–25 of 215 items</li><li>8:00 AM–9:00 PM</li></ul> |
+| Correto ✅ | Incorreto ❌ |
+| :--- | :--- |
+| <ul><li>R$ 50,00</li><li>R$ 1.230,99</li><li>R$ 300</li><li>10 kg</li><li>3,4 L</li><li>2,3 km</li></ul> | <ul><li>R$50,00</li><li>R$ 1230.99</li><li>R$ 300,00</li><li>10kg</li><li>3,4L</li><li>2.3 km</li></ul> |
 
-Don't add space before and after slashes.
+Hífen: use o hífen apenas na composição de palavras. Para separar ideias, indicar intervalos ou inserir explicações no meio da frase, prefira a meia-risca (–) ou o travessão (—), conforme o caso.
 
-| Do ✅ | Don't ❌ |
-| :---- | :---- |
-| <ul><li>Filter by Name/SKU</li><li>Add/Remove products from collections</li></ul> | <ul><li>Filter by Name / SKU</li><li>Add / Remove products from collections</li></ul> |
+| Exemplo |
+| :--- |
+| <ul><li>Pré-venda</li><li>Go-live</li></ul> |
 
-## Colons
+Meia-risca: não use espaço antes e depois da meia-risca.
 
-Capitalize the first letter after a colon.
+| Correto ✅ | Incorreto ❌ |
+| :--- | :--- |
+| 1–50 páginas | 1 – 50 páginas |
 
-| Do ✅ | Don't ❌ |
-| :---- | :---- |
-| Autocomplete: Provides search and product suggestions based on the shopper's context.| Autocomplete: provides search and product suggestions based on the shopper's context. |
+Travessão: use espaço antes e depois do travessão.
 
-## User interfaces
+| Correto ✅ | Incorreto ❌ |
+| :--- | :--- |
+| As promoções com desconto nominal — aquelas que aplicam um valor fixo em vez de percentual — só são exibidas no checkout. | As promoções com desconto nominal - aquelas que aplicam um valor fixo em vez de percentual - só são exibidas no checkout. |
 
-Use interrogation marks and personal pronouns only when confirming actions that are hard to undo or can't be undone.
+## Dois-pontos
 
-| Do ✅ | Don't ❌ |
-| :---- | :---- |
-| Are you sure you want to discard all changes? | <ul><li>Want to discard all changes?</li><li>Are you sure you want to discard all changes</li></ul> |
+Use letra minúscula após dois-pontos.
+
+| Correto ✅ | Incorreto ❌ |
+| :--- | :--- |
+| Autocomplete: apresenta sugestões de pesquisa e de produtos com base no contexto do comprador. | Autocomplete: Apresenta sugestões de pesquisa e de produtos com base no contexto do comprador. |
+
+## Interfaces de usuário
+
+Use pontos de interrogação e pronomes pessoais somente ao confirmar ações que são complicadas de desfazer ou que não podem ser desfeitas.
+
+| Correto ✅ | Incorreto ❌ |
+| :--- | :--- |
+| Tem certeza de que deseja descartar todas as alterações? | Descartar todas as alterações? |
+
+## Documentação
+
+### Títulos
+
+Não use pontuação em títulos.
+
+| Correto ✅ | Incorreto ❌ |
+| :--- | :--- |
+| <ul><li>Cadastrar produtos</li><li>Campos de cadastro</li></ul> | <ul><li>Cadastrar produtos.</li><li>Campos de cadastro.</li></ul> |
+
+### Aspas e ponto final
+
+O ponto final deve ser colocado após as aspas quando a citação não começa, mas termina a frase.
+
+| Correto ✅ | Incorreto ❌ |
+| :--- | :--- |
+| Para alterar a descrição do produto, clique em "Editar descrição". | Para alterar a descrição do produto, clique em "Editar descrição." |
+
+### Listas e tabelas
+
+Ao listar tópicos abordados em um texto, não use ponto final, a menos que seja uma frase completa.
+
+| Correto ✅ | Incorreto ❌ |
+| :--- | :--- |
+| A página permite que você realize as seguintes ações: <ul><li>Cadastrar produtos</li><li>Filtrar por categoria</li><li>Remover produtos</li></ul> | A página permite que você realize as seguintes ações: <ul><li>Cadastrar produtos.</li><li>Filtrar por categoria.</li><li>Remover produtos.</li></ul> |
+
+Em um passo a passo, use ponto final para cada um dos itens listados.
+
+| Correto ✅ | Incorreto ❌ |
+| :--- | :--- |
+| <ol><li>No Admin VTEX, acesse **Envio > Estratégia de envio** ou digite **Estratégia de envio** na barra de busca no topo da página.</li><li>Clique na aba Estoques.</li><li>Clique no botão Criar estoque.</li></ol> | <ol><li>No Admin VTEX, acesse **Envio > Estratégia de envio** ou digite **Estratégia de envio** na barra de busca no topo da página</li><li>Clique na aba Estoques</li><li>Clique no botão Criar estoque</li></ol> |
+
+### Emails
+
+Em emails com uma saudação seguida do nome da pessoa ou pronome de tratamento, use preferencialmente uma vírgula antes e uma depois do vocativo.
+
+| Correto ✅ | Incorreto ❌ |
+| :--- | :--- |
+| Olá, Maria, | <ul><li>Olá, Maria!</li><li>Olá, Maria.</li></ul> |

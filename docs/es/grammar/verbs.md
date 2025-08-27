@@ -1,51 +1,61 @@
 ---
-title: 'Verbs'
-id: grammar0005
+title: 'Verbos'
+id: grammar0005-es
 status: PUBLISHED
-createdAt: 2025-01-29T19:24:22.388Z
-updatedAt: 2025-01-29T19:24:22.388Z
-publishedAt: 2025-01-29T19:24:22.388Z
-firstPublishedAt: 2025-01-29T19:24:22.388Z
+createdAt: 2025-08-27T19:24:22.388Z
+updatedAt: 2025-08-27T19:24:22.388Z
+publishedAt: 2025-08-27T19:24:22.388Z
+firstPublishedAt: 2025-08-27T19:24:22.388Z
 contentType: trackArticle
 productTeam: Localization
-slugEN: verbs
-locale: en
+slugES: verbos
+locale: es
 trackId: 5PxyAgZrtiYlaYZBTlhJ2A
-trackSlugEN: verbs
+trackSlugES: verbos
 ---
 
-Verbs play a critical role in creating clear and actionable content for user interfaces and documentation. They guide users, convey actions, and ensure instructions are concise yet effective.
+Los verbos desempeñan un papel fundamental en la creación de contenido claro y accionable para interfaces de usuario y documentación. Guían a los usuarios, indican acciones y garantizan que las instrucciones sean directas y efectivas.
 
-## Documentation
+## Documentación
 
-Start sentences with imperative verbs when indicating the actions users must take.
+Inicia las frases con verbos en imperativo para indicar las acciones que los usuarios deben realizar.
 
-| Do ✅ | Don't ❌ |
-| :--------- | :------------ |
-| <ul><li>Create a Catalog for populating and testing your store with features like product listing pages, search functionality, product detail pages, and checkout.</li><li>Open the VTEX Admin and access **Storefront > FastStore WebOps**.</li><li>Enter your postal code.</li><li>Learn more about VTEX IO Clients and their advantages.</li></ul> | <ul><li>To populate and test your store with features like product listing pages, search functionality, product detail pages, and checkout, create a catalog.</li><li>At the VTEX Admin, access **Storefront > FastStore WebOps**.</li><li>Entering your postal code.</li><li>Learning more about VTEX IO Clients and their advantages.</li></ul> |
+| Correcto ✅ | Incorrecto ❌ |
+| :--- | :--- |
+| <ul><li>Crea una nueva cuenta VTEX y envía tus productos utilizando el Seller Portal.</li><li>Ingresa tu código postal.</li><li>Aprende más sobre las mejores prácticas para utilizar las claves de aplicación.</li></ul> | <ul><li>Para enviar tus productos utilizando el Seller Portal crea una nueva cuenta VTEX.</li><li>Ingresar código postal.</li><li>Aprender más sobre las mejores prácticas para utilizar las claves de aplicación.</li></ul> |
 
-When the title or heading starts with a verb, use it in the \-ing form.
+En títulos con comandos para el usuario, usa el infinitivo.
 
-| Do ✅ | Don't ❌ |
-| :--------- | :------------ |
-| Creating a specification group in a category | Create a specification group in a category |
+| Correcto ✅ | Incorrecto ❌ |
+| :--- | :--- |
+| <ul><li>Configurar condición de pago</li><li>Instalar VTEX IO CLI en tu computadora</li><li>Configurar MSI en el modo VTEX Checkout experience</li></ul> | <ul><li>Configura condición de pago</li><li>Instalando VTEX IO CLI en tu computadora</li><li>Configura MSI en el modo VTEX Checkout experience</li></ul> |
 
-When introducing sections with the phrase *you can*: at the beginning of an article, use the infinitive, but use the *-ing* form in the actual heading.
+En títulos, usa el infinitivo. Nunca uses el gerundio.
 
-| Do ✅ | Don't ❌ |
-| :--------- | :------------ |
-| In this guide, you will learn how to:<ul><li>Access Media</li><li>Manage files in Media</li></ul><p><strong>Accessing Media</strong></p><p>There are three ways to access Media:</p> | In this guide, you will learn how to:<ul><li>Accessing Media</li><li>Managing files in Media</li></ul><p><strong>Access Media</strong></p><p>There are three ways to access Media:</p> |
+| Correcto ✅ | Incorrecto ❌ |
+| :--- | :--- |
+| <ul><li>Crear tabla de precios promocionales</li><li>Modificar precios</li></ul> | <ul><li>Creando tabla de precios promocionales</li><li>Modificando precios</li></ul> |
 
-When talking about a description in a table, use the present. 
+En la descripción de una tabla, utiliza la conjugación de tercera persona en el presente.
 
-![First example of usage](https://github.com/vtexdocs/content-portal-content/blob/main/images/en/verbs1.png?raw=true)
+![Ejemplo](https://github.com/vtexdocs/content-portal-content/blob/main/images/es/verbs.png?raw=true)
 
-![Second example of usage](https://github.com/vtexdocs/content-portal-content/blob/main/images/en/verbs2.png?raw=true)
+## Interfaces de usuario
 
-## User Interfaces
+En botones, utiliza el verbo en infinitivo.
 
-In buttons, use imperative verbs.
+| Correcto ✅ | Incorrecto ❌ |
+| :--- | :--- |
+| <ul><li>Crear producto</li><li>Ir a la tienda</li><li>Saber más</li></ul> | <ul><li>Nuevo producto</li><li>Tienda</li><li>Aprende más</li></ul> |
 
-| Do ✅ | Don't ❌ |
-| --------- | ------------ |
-| <ul><li>Create product</li><li>Visit store</li></ul> | <ul><li>New product</li><li>Store</li></ul> |
+No utilices verbos para el nombre de **módulos del Admin**.
+
+| Correcto ✅ | Incorrecto ❌ |
+| :--- | :--- |
+| <ul><li>Gestión de stock</li></ul> | <ul><li>Gestionar stock</li></ul> |
+
+Los títulos de las **ventanas modales** deben contener un verbo en infinitivo para indicar claramente la acción que el usuario debe realizar.
+
+| Correcto ✅ | Incorrecto ❌ |
+| :--- | :--- |
+| <ul><li>Eliminar promoción</li><li>Confirmar cambio</li></ul> | <ul><li>Eliminación de promociones</li><li>Eliminando promoción</li><li>Elimina la promoción</li><li>Confirmación del cambio</li><li>Confirma el cambio</li></ul> |

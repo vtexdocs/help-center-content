@@ -1,51 +1,73 @@
 ---
-title: 'Verbs'
-id: grammar0005
+title: 'Verbos'
+id: grammar0005-pt
 status: PUBLISHED
-createdAt: 2025-01-29T19:24:22.388Z
-updatedAt: 2025-01-29T19:24:22.388Z
-publishedAt: 2025-01-29T19:24:22.388Z
-firstPublishedAt: 2025-01-29T19:24:22.388Z
+createdAt: 2025-08-27T19:24:22.388Z
+updatedAt: 2025-08-27T19:24:22.388Z
+publishedAt: 2025-08-27T19:24:22.388Z
+firstPublishedAt: 2025-08-27T19:24:22.388Z
 contentType: trackArticle
 productTeam: Localization
-slugEN: verbs
-locale: en
+slugPT: verbos
+locale: pt
 trackId: 5PxyAgZrtiYlaYZBTlhJ2A
-trackSlugEN: verbs
+trackSlugPT: verbos
 ---
 
-Verbs play a critical role in creating clear and actionable content for user interfaces and documentation. They guide users, convey actions, and ensure instructions are concise yet effective.
+Os verbos desempenham um papel fundamental na criação de conteúdo claro e acionável para interfaces de usuário e documentação. Eles orientam os usuários, indicam ações e garantem que as instruções sejam diretas e eficazes.
 
-## Documentation
+## Documentação
 
-Start sentences with imperative verbs when indicating the actions users must take.
+Em títulos de documentação especificamente, use um verbo no infinitivo ou um substantivo. Utilizar o verbo no gerúndio é algo típico do inglês.
 
-| Do ✅ | Don't ❌ |
-| :--------- | :------------ |
-| <ul><li>Create a Catalog for populating and testing your store with features like product listing pages, search functionality, product detail pages, and checkout.</li><li>Open the VTEX Admin and access **Storefront > FastStore WebOps**.</li><li>Enter your postal code.</li><li>Learn more about VTEX IO Clients and their advantages.</li></ul> | <ul><li>To populate and test your store with features like product listing pages, search functionality, product detail pages, and checkout, create a catalog.</li><li>At the VTEX Admin, access **Storefront > FastStore WebOps**.</li><li>Entering your postal code.</li><li>Learning more about VTEX IO Clients and their advantages.</li></ul> |
+| Correto ✅ | Incorreto ❌ |
+| :--- | :--- |
+| <ul><li>Criar tabela de preços promocionais</li><li>Integração com o marketplace</li></ul> | <ul><li>Criando tabela de preços promocionais</li><li>Integrando o marketplace</li></ul> |
 
-When the title or heading starts with a verb, use it in the \-ing form.
+Em subtítulos, é aceitável o uso de infinitivo ou substantivo, como nos títulos, e de imperativo. O imperativo deve ser usado caso o subtítulo seja um comando para o usuário.
 
-| Do ✅ | Don't ❌ |
-| :--------- | :------------ |
-| Creating a specification group in a category | Create a specification group in a category |
+| Exemplo |
+| :--- |
+| <ul><li>**Criar** novo evento</li><li>**Campos** de cadastro</li><li>**Clone** o repositório criado</li></ul> |
 
-When introducing sections with the phrase *you can*: at the beginning of an article, use the infinitive, but use the *-ing* form in the actual heading.
+Quando houver instruções para determinada ação, elas devem estar no imperativo.
 
-| Do ✅ | Don't ❌ |
-| :--------- | :------------ |
-| In this guide, you will learn how to:<ul><li>Access Media</li><li>Manage files in Media</li></ul><p><strong>Accessing Media</strong></p><p>There are three ways to access Media:</p> | In this guide, you will learn how to:<ul><li>Accessing Media</li><li>Managing files in Media</li></ul><p><strong>Access Media</strong></p><p>There are three ways to access Media:</p> |
+| Correto ✅ | Incorreto ❌ |
+| :--- | :--- |
+| Siga as etapas abaixo: <ol><li>No Admin VTEX, clique no módulo de Storefront, ou digite Storefront na barra de busca.</li><li>Em Intelligent Search, clique em Regras de relevância.</li></ol> | Siga as etapas abaixo: <ol><li>No Admin VTEX, clicar no módulo de Storefront ou digite Storefront na barra de busca.</li><li>Em Intelligent Search, clicar em Regras de relevância.</li></ol> |
 
-When talking about a description in a table, use the present. 
+Em uma descrição de uma tabela, use o presente.
 
-![First example of usage](https://github.com/vtexdocs/content-portal-content/blob/main/images/en/verbs1.png?raw=true)
+![Exemplo](https://github.com/vtexdocs/content-portal-content/blob/main/images/pt/verbs.png?raw=true)
 
-![Second example of usage](https://github.com/vtexdocs/content-portal-content/blob/main/images/en/verbs2.png?raw=true)
+## Interfaces de usuário
 
-## User Interfaces
+Inicie as frases com verbos no imperativo ao indicar as ações que os lojistas devem realizar.
 
-In buttons, use imperative verbs.
+| Correto ✅ | Incorreto ❌ |
+| :--- | :--- |
+| Informe seu CEP | Informar CEP |
 
-| Do ✅ | Don't ❌ |
-| --------- | ------------ |
-| <ul><li>Create product</li><li>Visit store</li></ul> | <ul><li>New product</li><li>Store</li></ul> |
+Em **botões**, use o verbo no infinitivo.
+
+| Correto ✅ | Incorreto ❌ |
+| :--- | :--- |
+| <ul><li>Criar produto</li><li>Visitar loja</li><li>Tentar novamente</li></ul> | <ul><li>Crie um produto</li><li>Visite a loja</li><li>Tente novamente</li></ul> |
+
+Em botões de texto clicável, use o imperativo.
+
+| Correto ✅ | Incorreto ❌ |
+| :--- | :--- |
+| Saiba mais | Saber mais |
+
+Não use verbos para nome de **módulos no Admin**.
+
+| Correto ✅ | Incorreto ❌ |
+| :--- | :--- |
+| Gerenciamento de inventário | Gerenciar inventário |
+
+Os títulos de **modais** devem conter um verbo no infinitivo para indicar a ação necessária.
+
+| Correto ✅ | Incorreto ❌ |
+| :--- | :--- |
+| <ul><li>Excluir promoção</li><li>Confirmar alteração</li></ul> | <ul><li>Exclusão de promoção</li><li>Excluindo promoção</li><li>Exclua a promoção</li><li>Confirmação de alteração</li><li>Confirme a alteração</li></ul> |
