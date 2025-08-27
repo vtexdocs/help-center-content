@@ -12,6 +12,7 @@ slugEN: configuring-price-divergence-rule-shopee
 locale: pt
 trackId: 4CaZCzU9ZO1CByH0haZ9hA
 trackSlugEN: integracao-shopee
+order: 3
 ---
 
 Na integração com marketplaces como a Shopee, por vezes há uma variação entre o preço definido pelo seller e aquele oferecido pelo marketplace, resultando em pedidos fechados com valores diferentes do esperado. Isso pode ocasionar pedidos com erro de divergência de preço.

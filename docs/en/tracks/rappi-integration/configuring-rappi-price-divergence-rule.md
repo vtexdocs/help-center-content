@@ -12,6 +12,7 @@ slugEN: configuring-rappi-price-divergence-rule
 locale: en
 trackId: 2AeYfJRnQ0I91dvSzRcpKh
 trackSlugEN: rappi-integration
+order: 3
 ---
 
 > ⚠️ This is a regional exclusive content not applicable to English speaking countries.

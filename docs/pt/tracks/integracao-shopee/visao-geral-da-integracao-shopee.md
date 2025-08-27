@@ -12,6 +12,7 @@ slugEN: integration-overview-shopee
 locale: pt
 trackId: 4CaZCzU9ZO1CByH0haZ9hA
 trackSlugEN: integracao-shopee
+order: 1
 ---
 
 A [Shopee](https://shopee.com.br/) é uma plataforma de e-commerce que opera como um marketplace que conecta vendedores e compradores de diversos segmentos. Com um amplo catálogo de produtos disponíveis no site e no aplicativo, a Shopee se destaca por oferecer uma experiência de compra simplificada. A plataforma já conta com mais de 43 milhões de usuários cadastrados no Brasil, consolidando-se como um dos principais players do comércio eletrônico.

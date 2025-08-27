@@ -12,6 +12,7 @@ slugEN: configuring-the-integration-rappi
 locale: pt
 trackId: 2AeYfJRnQ0I91dvSzRcpKh
 trackSlugEN: integracao-rappi
+order: 2
 ---
 
 ## Credenciais Rappi

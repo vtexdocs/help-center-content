@@ -12,6 +12,7 @@ slugEN: integration-overview-shopee
 locale: es
 trackId: 4CaZCzU9ZO1CByH0haZ9hA
 trackSlugEN: integracion-con-shopee
+order: 1
 ---
 
 > ⚠️ Este contenido es exclusivamente regional; por lo tanto, no se aplica a los países de habla española.

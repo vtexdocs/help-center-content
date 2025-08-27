@@ -12,6 +12,7 @@ slugEN: mapping-rappi-product-categories-and-attributes
 locale: en
 trackId: 2AeYfJRnQ0I91dvSzRcpKh
 trackSlugEN: rappi-integration
+order: 5
 ---
 
 > ⚠️ This is a regional exclusive content not applicable to English speaking countries.

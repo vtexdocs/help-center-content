@@ -3,8 +3,8 @@ title: 'Configurações na plataforma VTEX'
 id: 70xqC5uNOggv51Lb3su45w
 status: PUBLISHED
 createdAt: 2025-03-17T15:05:24.376Z
-updatedAt: 2025-07-18T00:11:26.931Z
-publishedAt: 2025-07-18T00:11:26.931Z
+updatedAt: 2025-08-25T16:49:58.194Z
+publishedAt: 2025-08-25T16:49:58.194Z
 firstPublishedAt: 2025-03-17T15:36:00.320Z
 contentType: trackArticle
 productTeam: Channels
@@ -12,6 +12,7 @@ slugEN: settings-on-the-vtex-platform-shopee
 locale: pt
 trackId: 4CaZCzU9ZO1CByH0haZ9hA
 trackSlugEN: integracao-shopee
+order: 2
 ---
 
 Realizado as configurações na Shopee, você deve começar as configurações no admin VTEX. 
@@ -43,7 +44,7 @@ Veja a seguir como é o funcionamento de cada um.
 
 - **FOB (Free on Board):** Nessa modalidade o marketplace é responsável pela entrega e toda cotação de frete é feita do lado da Shopee.
 
-- **[Logística do vendedor](https://seller.br.shopee.cn/edu/article/22135/O-que-e-Logistica-do-Vendedor):** Nessa modalidade o seller utiliza sua própria logística para cotação e envio de pedidos que contenham produtos maiores do que o atendido pelas entregas da Shopee.
+- **[Logística do vendedor](https://seller.br.shopee.cn/edu/article/25782/Configuracao-da-logistica-do-vendedor):** Nessa modalidade o seller utiliza sua própria logística para cotação e envio de pedidos que contenham produtos maiores do que o atendido pelas entregas da Shopee.
 
 Para definir a estratégia de envio, você precisa executar os seguintes passos:
 

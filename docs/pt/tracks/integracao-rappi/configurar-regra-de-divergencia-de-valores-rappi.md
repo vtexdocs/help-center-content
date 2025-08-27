@@ -12,6 +12,7 @@ slugEN: configuring-rappi-price-divergence-rule
 locale: pt
 trackId: 2AeYfJRnQ0I91dvSzRcpKh
 trackSlugEN: integracao-rappi
+order: 3
 ---
 
 Na integração com marketplaces como a Rappi, por vezes há uma variação entre o preço deﬁnido pelo seller e aquele oferecido pelo marketplace, resultando em pedidos fechados com valores diferentes do esperado. Isso pode ocasionar pedidos com erro de divergência de preço.  

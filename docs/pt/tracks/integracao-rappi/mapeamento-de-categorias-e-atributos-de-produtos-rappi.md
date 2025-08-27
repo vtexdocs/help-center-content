@@ -12,6 +12,7 @@ slugEN: mapping-rappi-product-categories-and-attributes
 locale: pt
 trackId: 2AeYfJRnQ0I91dvSzRcpKh
 trackSlugEN: integracao-rappi
+order: 5
 ---
 
 Após fazer as conﬁgurações de conta na Rappi na VTEX e integrar o conector, é necessário categorizar e enviar as variações e [especiﬁcações de produto](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP) para o marketplace. O envio dessas informações é feito por meio do menu **Mapeamento de categorias**.  

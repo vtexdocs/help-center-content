@@ -12,6 +12,7 @@ slugEN: rappi-integration-registration
 locale: pt
 trackId: 2AeYfJRnQ0I91dvSzRcpKh
 trackSlugEN: integracao-rappi
+order: 4
 ---
 
 Terminadas as etapas de conﬁguração da sua conta na Rappi e da sua conta na VTEX, a conﬁguração do conector é feita no Admin VTEX. Para conﬁgurar, siga as instruções abaixo:  
