@@ -28,7 +28,7 @@ Para uma mensagem mais objetiva, evite usar vírgulas.
 
 | Correto ✅ | Incorreto ❌ |
 | :--- | :--- |
-| <ul><li>O [x] também será removido de {applications} e de outros aplicativos em que estiver sendo usado</li><li>Essa coleção tem produtos adicionados manualmente e filtros automáticos no CMS</li></ul> | <ul><li>Se estiver sendo usado em {aplicativos}, ou outros, ele também será removido desses aplicativos</li><li>Além dos produtos adicionados manualmente, essa coleção tem filtros automáticos no CMS</li></ul> |
+| <ul><li>O [x] também será removido de `applications` e de outros aplicativos em que estiver sendo usado</li><li>Essa coleção tem produtos adicionados manualmente e filtros automáticos no CMS</li></ul> | <ul><li>Se estiver sendo usado em `aplicativos`, ou outros, ele também será removido desses aplicativos</li><li>Além dos produtos adicionados manualmente, essa coleção tem filtros automáticos no CMS</li></ul> |
 
 Evite usar pontos de exclamação e interrogação.
 
