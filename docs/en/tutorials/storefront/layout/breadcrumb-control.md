@@ -1,0 +1,45 @@
+---
+title: 'Breadcrumb control'
+id: 3qQS5O9XpusAC6oUqSIQMM
+status: PUBLISHED
+createdAt: 2018-02-07T11:57:17.362Z
+updatedAt: 2020-01-08T20:23:45.528Z
+publishedAt: 2020-01-08T20:23:45.528Z
+firstPublishedAt: 2018-02-07T12:28:18.865Z
+contentType: tutorial
+productTeam: Marketing & Merchandising
+author: authors_24
+slugEN: breadcrumb-control
+legacySlug: breadcrumb-control
+locale: en
+subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
+---
+
+Breadbrumbs improve the in-store browsing experience by encouraging users to explore their page hierarchy.
+
+In VTEX, the `<vtex.cmc:breadCrumb/>` control is responsible for rendering breadcrumbs like the one below.
+
+![breadcrumb1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/layout/breadcrumb-control_1.png)
+
+If, as in this example, the user directly accesses the page of a product of the category *Camisetas*, the breadcrumb displayed on the product page will give you the information that the user is in this category (*Camisetas*), which is below the department *Moda masculina*.
+
+This control works only on the following page types:
+- Product
+- Department
+- Category
+- Search
+
+Here is an example of the HTML code rendered by the breadcrumb control:
+
+```html
+<div id="box-bread-brumb" class="hidden-xs"><div class="bread-crumb" xmlns:v="http://rdf.data-vocabulary.org/#">
+<ul>
+<li typeof="v:Breadcrumb">[lojadobreno](http://lojadobreno.vtexcommercestable.com.br/)</li>
+<li class="last" typeof="v:Breadcrumb">[Livros](http://lojadobreno.vtexcommercestable.com.br/livros)</li></ul>
+</div>
+</div>
+```
+
+The code above renders the following breadcrumb in the site:
+
+![breadcrumb2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/layout/breadcrumb-control_2.png)

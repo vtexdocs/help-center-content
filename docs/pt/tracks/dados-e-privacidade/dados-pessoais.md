@@ -3,14 +3,14 @@ title: 'Dados pessoais'
 id: 65ZqZlNWcmFSOqZQxr8gha
 status: PUBLISHED
 createdAt: 2024-05-03T14:39:14.904Z
-updatedAt: 2024-05-03T21:13:09.925Z
-publishedAt: 2024-05-03T21:13:09.925Z
+updatedAt: 2025-08-27T13:24:04.629Z
+publishedAt: 2025-08-27T13:24:04.629Z
 firstPublishedAt: 2024-05-03T16:42:08.464Z
 contentType: trackArticle
 productTeam: Others
 slugEN: personal-data
 locale: pt
-trackId: 65ZqZlNWcmFSOqZQxr8gha
+trackId: 4Lc0i0an0DgnEtB0AUwlcq
 trackSlugEN: dados-e-privacidade
 ---
 

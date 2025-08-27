@@ -3,14 +3,14 @@ title: 'Instalar a app Facebook Business Extension e Conversions API'
 id: 7JvybNGcBXxGKbVWjadKjt
 status: PUBLISHED
 createdAt: 2021-09-30T15:49:04.967Z
-updatedAt: 2021-10-04T17:28:27.033Z
-publishedAt: 2021-10-04T17:28:27.033Z
+updatedAt: 2025-08-27T13:30:20.125Z
+publishedAt: 2025-08-27T13:30:20.125Z
 firstPublishedAt: 2021-09-30T18:49:00.175Z
 contentType: trackArticle
 productTeam: Channels
 slugEN: installing-the-facebook-business-extension-e-conversions-api-app
 locale: pt
-trackId: 434Z1iWnaa0zbOMDyr6oi
+trackId: 2hS3ANSZ7vlHCcba4h7k8D
 trackSlugEN: integracao-com-o-facebook-business-extension
 ---
 
