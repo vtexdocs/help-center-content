@@ -1,45 +1,51 @@
 ---
-title: 'Adjectives'
-id: grammar0002
+title: 'Adjetivos'
+id: grammar0002-es
 status: PUBLISHED
-createdAt: 2025-01-09T19:24:22.388Z
-updatedAt: 2025-01-09T19:24:22.388Z
-publishedAt: 2025-01-09T19:24:22.388Z
-firstPublishedAt: 2025-01-09T19:24:22.388Z
+createdAt: 2025-08-27T19:24:22.388Z
+updatedAt: 2025-08-27T19:24:22.388Z
+publishedAt: 2025-08-27T19:24:22.388Z
+firstPublishedAt: 2025-08-27T19:24:22.388Z
 contentType: trackArticle
 productTeam: Localization
-slugEN: adjectives
-locale: en
+slugES: adjetivos
+locale: es
 trackId: 5PxyAgZrtiYlaYZBTlhJ2A
-trackSlugEN: adjectives
+trackSlugES: adjetivos
 ---
 
-Adjectives come before the noun.
+Evita exageraciones o calificativos vacíos. Prefiere adjetivos funcionales, medibles o verificables.
 
-| Do ✅ | Don't ❌ |
-| :--------- | :------------ |
-| The main criteria for white label seller selection are the following. | The main criteria for seller white label selection are the following. |
+| ✅ Correcto | ❌ Incorrecto |
+| :--- | :--- |
+| <ul><li>API compatible con sistemas externos</li><li>Un flujo más rápido para aprobar cambios</li></ul> | <ul><li>API poderosa para todo tipo de negocios</li><li>Un flujo extremadamente fácil y ágil</li></ul> |
 
-To be more objective, avoid using too many adjectives.
+Los adjetivos deben evitarse si no aportan información relevante.
 
-| Do ✅ | Don't ❌ |
-| :--------- | :------------ |
-| <ul><li>In the next step, click *Payments*.</li><li>The store setup will be complete after completing this step.</li></ul> | <ul><li>The next step is very easy, just click *Payments*.</li><li>Please make sure to complete this step. It is a really important step in completing the store setup.</li></ul> |
+| ✅ Correcto | ❌ Incorrecto |
+| :--- | :--- |
+| <ul><li>Error al guardar los cambios</li><li>Configuración completada con éxito</li></ul> | <ul><li>Ups, ocurrió un terrible error inesperado</li><li>Configuración completada con éxito, tu tienda está más llamativa para los clientes.</li></ul> |
 
-Past participles can be part of verb tenses or adjectives describing a noun or a completed action. When they act as a verb, they come after the noun, and when they act as an adjective, they come before.
+Los adjetivos generalmente van después del sustantivo, excepto cuando se quiere enfatizar una cualidad subjetiva. Los participios, cuando actúan como adjetivos, también deben estar después del sustantivo.
 
-| Do ✅ | Don't ❌ |
-| :--------- | :------------ |
-| <ul><li>Product added to cart successfully</li><li>Added products are also ranked in the first positions</li></ul> | <ul><li>Added product to cart successfully</li><li>Products added are also ranked in the first positions</li></ul> |
+| ✅ Correcto | ❌ Incorrecto |
+| :--- | :--- |
+| <ul><li>Producto agregado al carrito</li><li>Configuración completada con éxito</li></ul> | <ul><li>Agregado producto al carrito</li><li>Completada la configuración</li></ul> |
 
-Nouns can act as attributive adjectives to indicate possession, measurement, or source. Attributive adjectives are used to express these qualities concisely, often in lieu of the preposition *of* or a possessive with apostrophe *‘s.*
+Puedes utilizar nombres propios como adjetivos para evitar la forma posesiva y acortar el texto. Siempre van colocados después del sustantivo.
 
-| Do ✅ | Don't ❌ |
-| :--------- | :------------ |
-| <ul><li>The event list will not be in chronological order.</li><li>In the Admin, you have the flexibility of customizing store typography to meet your business needs.</li><li>Ask the store frontend admin for help.</li></ul> | <ul><li>The list of events will not be in chronological order.</li><li>In the Admin, you have the flexibility to customize your store's typography to meet your business needs.</li><li>Ask your store's front-end admin for help.</li></ul> |
+| ✅ Correcto | ❌ Incorrecto |
+| :--- | :--- |
+| <ul><li>VTEX Ad Network conecta a retailers VTEX con marcas interesadas en anunciar sus productos.</li></ul> | <ul><li>VTEX Ad Network conecta a VTEX retailers con marcas interesadas en anunciar sus productos.</li></ul> |
 
-Nouns acting as adjectives are used in singular.
+Sigue las reglas de posición y pluralización del español cuando el sustantivo, el adjetivo o ambos sean términos en inglés.
 
-| Do ✅ | Don't ❌ |
-| :-------- | :------------ |
-| <ul><li>Order Management</li><li>Seller Portal</li></ul> | <ul><li>Orders Management</li><li>Sellers Portal</li></ul> |
+| ✅ Correcto | ❌ Incorrecto |
+| :--- | :--- |
+| <ul><li>Split de pago incorrecto con sellers white label</li><li>Los productos add-on son soluciones VTEX.</li></ul> | <ul><li>Split de pago con white label sellers</li><li>Los add-on productos son soluciones VTEX.</li></ul> |
+
+Aunque el uso de guiones no es propio del español, en contextos técnicos o de marca conservamos la forma original con guiones de términos en inglés.
+
+| ✅ Correcto | ❌ Incorrecto |
+| :--- | :--- |
+| <ul><li>Producto add-on</li><li>Funcionalidad all-in-one para tiendas VTEX</li></ul> | <ul><li>Producto add on</li><li>Funcionalidad all in one para tiendas VTEX</li></ul> |

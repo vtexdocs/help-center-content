@@ -1,47 +1,51 @@
 ---
-title: 'Articles'
-id: grammar0006
+title: 'Artículos'
+id: grammar0006-es
 status: PUBLISHED
-createdAt: 2024-09-13T19:24:22.388Z
-updatedAt: 2024-09-16T14:56:26.279Z
-publishedAt: 2024-11-28T14:56:26.279Z
-firstPublishedAt: 2024-11-28T14:56:26.279Z
+createdAt: 2025-08-27T19:24:22.388Z
+updatedAt: 2025-08-27T14:56:26.279Z
+publishedAt: 2025-08-27T14:56:26.279Z
+firstPublishedAt: 2025-08-27T14:56:26.279Z
 contentType: trackArticle
 productTeam: Localization
-slugEN: articles
-locale: en
+slugES: articulos
+locale: es
 trackId: 5PxyAgZrtiYlaYZBTlhJ2A
-trackSlugEN: articles
+trackSlugES: articulos
 ---
 
-To convey an objective and concise message, avoid using articles.
+Los nombres propios no deben ir precedidos por artículos, a diferencia de otros sustantivos comunes. Esto incluye tanto los artículos definidos como indefinidos.
 
-Keep button labels short to encourage action.
+| Correcto ✅ | Incorrecto ❌ |
+| :--- | :--- |
+| <ul><li>Integración con Intelligent Search</li><li>Pedido `{orderId}` cancelado</li></ul> | <ul><li>Integración con el Intelligent Search</li><li>El `{orderId}` fue cancelado</li></ul> |
 
-| Do ✅ | Don't ❌ |
-| :---- | :---- |
-| Add product | Add a product |
+Sí se utiliza artículo con nombres propios que funcionan como nombres comunes.
 
-Use articles when the message is longer and requires explanation.
+| Correcto ✅ | Incorrecto ❌ |
+| :--- | :--- |
+| <ul><li>Prueba la nueva versión del Admin VTEX</li><li>Puedes ponerte en contacto a través del Help Center</li></ul> | <ul><li>Prueba la nueva versión de Admin VTEX</li><li>Puedes ponerte en contacto a través de Help Center</li></ul> |
 
-| Do ✅ | Don't ❌ |
-| :---- | :---- |
-| Add a new pickup point address | Add new pickup point address |
+El uso de artículos definidos o indefinidos debe ser consistente entre los elementos coordinados para mantener el paralelismo sintáctico.
 
-Do not use articles with proper nouns. The exceptions are when product names are treated as common nouns.
+| Correcto ✅ | Incorrecto ❌ |
+| :--- | :--- |
+| <ul><li>En esta pantalla podrás ver el número y la fecha del pedido.</li><li>La guía proporciona información sobre cómo registrar nuevos usuarios, actualizar datos y eliminar cuentas.</li><li>Esta función te permite crear informes, exportar gráficos y analizar resultados.</li></ul> | <ul><li>En esta pantalla podrás ver el número y fecha del pedido.</li><li>La guía proporciona información sobre cómo registrar nuevos usuarios, actualizar los datos y eliminar cuentas.</li><li>Esta función te permite crear informes, exportar gráficos y analizar los resultados.</li></ul> |
 
-| Do ✅ | Don't ❌ |
-| :---- | :---- |
-| <ul><li>Use the integration with Intelligent search</li><li>Order `orderId` will be canceled on Sales App</li></ul> | <ul><li>Use the integration with the Intelligent search.</li><li>Order `orderId` will be canceled on the Sales App</li></ul> |
+Evita utilizar artículos en comandos, botones, menús, mensajes breves o mensajes de error, ya que esto puede hacer que el texto sea más largo y menos directo.
 
-Use articles when product names are treated as common nouns.
+| Correcto ✅ | Incorrecto ❌ |
+| :--- | :--- |
+| Agregar producto | Agregar un producto |
 
-| Do ✅ | Don't ❌ |
-| :---- | :---- |
-| <ul><li>Test the new version of the VTEX Admin</li><li>You can contact our team through the Help Center.</li></ul> | <ul><li>Test the new version of VTEX Admin</li><li>You can contact our team through Help Center.</li></ul> |
+Utiliza artículos para crear oraciones más fluidas y claras cuando dichas oraciones sean más largas, descriptivas o explicativas.
 
-The indefinite article used before SKU (Stock Keeping Unit) can vary depending on its pronunciation. It can be pronounced either as individual letters (/ˌɛsˌkeɪˈjuː/), which requires “an,” or as a single syllable (/skjuː/), which takes “a.” At VTEX, we use the syllable pronunciation (/skjuː/), so the preferred form is “a SKU.”
+| Correcto ✅ | Incorrecto ❌ |
+| :--- | :--- |
+| Agregar una nueva dirección de punto de recogida | Agregar nueva dirección de punto de recogida |
 
-| Do ✅ | Don't ❌ |
-| :---- | :---- |
-| A SKU | An SKU |
+En frases completas como notificaciones o mensajes informativos, sí se debe usar el artículo:
+
+| Correcto ✅ | Incorrecto ❌ |
+| :--- | :--- |
+| El pedido `{orderId}` será cancelado. | Pedido `{orderId}` será cancelado. |

@@ -1,155 +1,137 @@
 ---
-title: 'Capitalization'
-id: grammar0001
+title: 'Capitalización'
+id: grammar0001-es
 status: PUBLISHED
-createdAt: 2025-01-09T19:24:22.388Z
-updatedAt: 2025-01-09T19:24:22.388Z
-publishedAt: 2025-01-09T19:24:22.388Z
-firstPublishedAt: 2025-01-09T19:24:22.388Z
+createdAt: 2025-08-27T19:24:22.388Z
+updatedAt: 2025-08-27T19:24:22.388Z
+publishedAt: 2025-08-27T19:24:22.388Z
+firstPublishedAt: 2025-08-27T19:24:22.388Z
 contentType: trackArticle
 productTeam: Localization
-slugEN: capitalization
-locale: en
+slugES: capitalizacion
+locale: es
 trackId: 5PxyAgZrtiYlaYZBTlhJ2A
-trackSlugEN: capitalization
+trackSlugES: capitalizacion
 ---
 
 ## General
 
-Use sentence case capitalization for documentation, including headings and all UI elements. This means capitalizing only the first letter of the first word in a sentence or phrase, except for proper nouns and acronyms.
+Escribe en mayúscula solo la primera letra de la primera palabra de una oración en la documentación o en los elementos de la interfaz de usuario, excepto los nombres propios y las siglas.
 
-| Do ✅ | Don't ❌ |
-| :----- | :------- |
-| Create account | Create Account |
-| Try new experience | Try New Experience |
-| Getting started with Ad Network | Getting started with ad network |
-| Starting the integration with Catalog | Starting the integration with catalog |
-| Merchant ID | Merchant id |
-|  Copy URL to clipboard |  Copy url to clipboard |
-| Activate seller | Activate Seller |
-| Deactivate seller | Deactivate Seller |
+| Correcto ✅ | Incorrecto ❌ |
+| :---- | :---- |
+| <ul><li>Crear una cuenta</li><li>Probar nueva experiencia</li><li>Activar seller</li><li>Desactivar seller</li></ul> | <ul><li>Crear Cuenta</li><li>Probar Nueva Experiencia</li><li>Activar Seller</li><li>Desactivar Seller</li></ul> |
 
-### Proper nouns
+### Nombres propios
 
-Capitalize all proper or trademarked nouns, including names of **products**, **features, modules, pages,** **people, places, nationalities, names of languages, months, days of the week,** and **holidays**. If the noun has more than one word, use title case.
+Escribe en mayúscula todos los sustantivos propios y marcas registradas, incluidos nombres de **productos, funcionalidades, módulos, páginas, personas, lugares** y **días feriados**.
 
-| Do ✅ | Don't ❌ |
-| :---- | :-------- |
-| Black Friday will be on November 24 | Black friday will be on november 24 |
-| Intelligent Search determines the relevance of each product by combining weights. | Intelligent search determines the relevance of each product by combining weights. |
-| <ul><li>Contact the VTEX Support team.</li><li>Contact the Support team - Short alternative option for <i>VTEX Support team</i>.</li></ul> | Contact the support team. |
-| Requesting a trade policy for the Brazilian market. | Requesting a trade policy for the brazilian market. |
-| Personal Shopper is available in the following languages: English, Spanish, Portuguese, French, and German. | Personal Shopper is available in the following languages: english, spanish, portuguese, french, and german. |
-| Export to Excel | Export to excel |
-| Install Intelligent Search | Install intelligent search |
-| VTEX App Store | VTEX app store |
+| Correcto ✅ | Incorrecto ❌ |
+| :---- | :---- |
+| <ul><li>Black Friday tendrá lugar el 24 de noviembre.</li><li>Intelligent Search determina la relevancia de cada producto.</li><li>Ponte en contacto con el equipo de Soporte.</li><li>Exportar a Excel</li><li>Instalar Intelligent Search</li><li>VTEX App Store</li></ul> | <ul><li>Black friday tendrá lugar el 24 de noviembre.</li><li>Intelligent Search determina la relevancia de cada producto.</li><li>Por favor contacte al equipo de soporte.</li><li>exportar a excel</li><li>Instalar intelligent search</li><li>VTEX app store</li></ul> |
 
-Respect the capitalization of company names as used in their copy material (not their logo), whether it’s all caps, a capital letter in between, or all lowercase.
+Respeta las mayúsculas originales de los nombres de las empresas como figuran en sus materiales institucionales (excepto en el logotipo). Esto incluye el uso de todas las letras en mayúscula, una mayúscula intermedia o todas en minúscula.
 
-| Do ✅ | Don't ❌ |
-| :----- | :------- |
-| VTEX | <ul><li>Vtex</li><li>vtex</li></ul> |
-| SAP | Sap |
-| ServiceNow | Servicenow |
+| Correcto ✅ | Incorrecto ❌ |
+| :---- | :---- |
+| <ul><li>VTEX</li><li>SAP</li><li>ServiceNow</li><li>easypay</li></ul> | <ul><li>vtex</li><li>Sap</li><li>Servicenow</li><li>Easypay</li></ul> |
 
-If an official name begins with a lowercase letter, use it in lowercase even at the start of a sentence. If possible, rewrite the sentence to avoid a lowercase word at the beginning.
+### Días de la semana, meses, nacionalidades e idiomas
 
-| Do ✅ | Don't ❌ |
-| :---- | :-------- |
-| To configure the easypay affiliation, follow the steps below.  | To configure the Easypay affiliation, follow the steps below. |
-| Checkout customization for easypay.  | easypay checkout customization |
-| VTEX is the highest-ranked *Leader*  | Vtex is the highest-ranked *Leader* |
+En español, los días de la semana, meses y nacionalidades **no se escriben con mayúscula inicial**, a menos que estén al comienzo de la oración o en un menú de selección.
 
-### Letters following slashes
+| Correcto ✅ | Incorrecto ❌ |
+| :---- | :---- |
+| <ul><li>Lunes a viernes</li><li>Sábado</li><li>Factura de noviembre</li><li>Promoción válida hasta febrero.</li><li>Campaña dirigida al público colombiano</li><li>Producto brasileño</li><li>Texto escrito en inglés.</li></ul> | <ul><li>Lunes a Viernes</li><li>sábado</li><li>Factura de Noviembre</li><li>Promoción válida hasta Febrero.</li><li>Campaña dirigida al público Colombiano</li><li>Producto Brasileño</li><li>Texto escrito en Inglés.</li></ul> |
 
-When a slash joins words, capitalize the word after the slash if the word before the slash is capitalized.
+### Uso de mayúsculas después de la barra (/)
 
-| Do ✅ | Don't ❌ |
-| :---- | :-------- |
-| Items/Units | Items/units |
-| Note/Sales associate code  | Note/sales associate code |
-| Package/Order number  | Package/order number |
+Si la palabra anterior a la barra está en mayúscula, la palabra siguiente también debe comenzar con mayúscula.
 
-### File formats
+| Correcto ✅ | Incorrecto ❌ |
+| :---- | :---- |
+| <ul><li>Ítems/Unidades</li><li>Observaciones/Código de vendedor</li><li>Inicio de sesión/Registro de usuario</li></ul> | <ul><li>Ítems/unidades</li><li>Observaciones/código de vendedor</li><li>Inicio de sesión/registro de usuario</li></ul> |
 
-Capitalize file formats.
+### Formato de archivo
 
-| Do ✅ | Don't ❌ |
-| :---- | :-------- |
-| Export to CSV | Export to csv |
+Escribe con mayúscula los nombres de formatos y programas que sean marcas registradas o nombres propios, como Excel, Word, PowerPoint y PDF. Si el nombre del archivo está completamente en mayúsculas, **no** debe llevar punto al final.
 
-### Endpoints and APIs
+| Correcto ✅ | Incorrecto ❌ |
+| :---- | :---- |
+| <ul><li>Exportar a CSV</li><li>Abrir PDF</li></ul> | <ul><li>Exportar a .csv</li><li>Abrir pdf</li></ul> |
 
-Capitalize the first word of labels and terms in APIs unless they're always lowercase.
+### Endpoints y APIs
 
-| Do ✅ | Don't ❌ |
-| :---- | :-------- |
-| Create or update promotion endpoint | Create Or Update Promotion endpoint |
-| The Conversions API | The conversions API |
+Utiliza mayúscula solo en la primera palabra de labels y términos de APIs, excepto cuando siempre se escriban en minúsculas. Respeta la ortografía original en inglés, tal como se define en la documentación de VTEX.
 
-### Acronyms
+| Correcto ✅ | Incorrecto ❌ |
+| :---- | :---- |
+| <ul><li>Para recuperar un producto utilizando el ID, usa el endpoint `GET /api/catalog/pvt/product/{productId}`</li><li>La API Conversions.</li></ul> | <ul><li>Para recuperar un producto utilizando el ID, usa el endpoint GET/api/catalog/pvt/product/{productId}.</li><li>La API conversiones.</li></ul> |
 
-Most acronyms are fully capitalized, but not all. Follow the standard form used in the industry. Capitalize all words in the spelled-out form of an acronym. The names of many protocols and specifications are considered proper nouns and are capitalized when spelled out.
+## Acrónimos
 
-| Do ✅ | Don't ❌ |
-| :---- | :-------- |
-| Renew the API token before the duration ends. | Renew the api token before the duration ends. |
-| This option involves using a third-party platform, known as Platform as a Service (PaaS).  | This option involves using a third-party platform, known as platform as a service (PAAS). |
-| How does VTEX ensure compliance with the General Data Protection Regulation (GDPR)?  | How does VTEX ensure compliance with the general data protection regulation (GDPR)? |
-| Multiple redirects are possible in a single URL.  |  Multiple redirects are possible in a single url. |
-| A user ID screen is displayed so that the customer can continue trying to purchase.  | A user id screen is displayed so that the customer can continue trying to purchase. |
+La mayoría de las siglas se escriben con todas sus letras en mayúscula (como API, HTML o CSS). Algunos nombres de protocolos y especificaciones también se consideran nombres propios y llevan mayúscula inicial, como GraphQL u OAuth. En caso de duda, sigue el uso más común en el sector.
 
-### Colons
+| Correcto ✅ | Incorrecto ❌ |
+| :---- | :---- |
+| <ul><li>Renueva el token de API antes de que venza.</li><li>Esta opción implica el uso de una plataforma externa, conocida como PaaS (Plataforma como Servicio).</li><li>¿Cómo garantiza VTEX el cumplimiento del Reglamento General de Protección de Datos (RGPD)?</li><li>Es posible realizar múltiples redirecciones dentro de una misma URL.</li><li>Se muestra una página de ID de usuario para que el cliente continúe con la compra.</li></ul> | <ul><li>Renueva el token de api antes de que venza.</li><li>Esta opción implica el uso de una plataforma externa, conocida como platform as a service (PaaS).</li><li>¿Cómo garantiza VTEX el cumplimiento del reglamento general de protección de datos (RGPD)?</li><li>Es posible realizar múltiples redirecciones dentro de una misma url.</li><li>Se muestra una página de id de usuario para que el cliente continúe con la compra.</li></ul> |
 
-Capitalize the first letter after a colon.
+## Dos puntos
 
-| Do ✅ | Don't ❌ |
-| :---- | :-------- |
-| Autocomplete: Provides search and product suggestions based on the shopper's context. | Autocomplete: provides search and product suggestions based on the shopper's context. |
+La palabra que sigue a los dos puntos debe estar en minúscula.
 
-## User interfaces
+| Correcto ✅ | Incorrecto ❌ |
+| :---- | :---- |
+| Autocompletar: presenta búsquedas y sugerencias de productos con base en el contexto del consumidor. | Autocompletar: Presenta búsquedas y sugerencias de productos con base en el contexto del consumidor. |
 
-Actions and nouns listed in action and content labels (including dropdown menus and filters) should be capitalized.
+## Interfaz de usuario
 
-| Do ✅ | Don't ❌ |
-| :---- | :-------- |
-| Edit  | edit |
-| Export file  | export file |
-| Import file  | import file |
-| Filter by status: <ul><li>Confirmed</li><li>Expired</li><li>Handled</li></ul> | Filter by status: <ul><li>confirmed</li><li>expired</li><li>handled</li></ul> |
+Las acciones y los sustantivos listados en los labels de acción y contenido (incluidos los menús desplegables y los filtros) deben comenzar con letras mayúsculas.
 
-## Documentation
+| Correcto ✅ | Incorrecto ❌ |
+| :---- | :---- |
+| <ul><li>Editar</li><li>Exportar archivo</li><li>Importar archivo</li></ul> | <ul><li>editar</li><li>exportar archivo</li><li>importar archivo</li></ul> |
+| Filtrar por status: <ul><li>Confirmado</li><li>Vencido</li><li>Preparado</li></ul> | Filtrar por status: <ul><li>confirmado</li><li>vencido</li><li>preparado</li></ul> |
 
-### User Interface elements
+## Documentación
 
-Follow the capitalization used on the UI including labels, buttons, and VTEX Admin module names. This also applies to UI from other platforms.
+### Elementos de la interfaz de usuario
 
-![Google Tag Manager example](https://github.com/vtexdocs/content-portal-content/blob/main/images/en/capitalization.png?raw=true)
+En la documentación, usa las mayúsculas tal como están en la interfaz de VTEX.  
+Excepción: si un botón está escrito completamente en mayúsculas, escríbelo solo con la inicial en mayúscula.
 
-| Do ✅ | Don't ❌ |
-| :--------- | :------------ |
-| In the **Google Tag Manager** field, enter the store identification code in **GTM-XXXX** format, as shown in the image below.  | In the **Google tag manager** field, enter the store identification code in **gtm-XXXX** format, as shown in the image below. |
+| Correcto ✅ | Incorrecto ❌ |
+| :---- | :---- |
+| El número total de ítems en la página **Gestión de stock** se actualiza en tiempo real. Hacer clic en `Guardar`. | El número total de artículos en la página de pedido. **Gestión de Stock** se actualiza en tiempo real. Haga clic en GUARDAR. |
 
-### Technical references and developer fields
+Cuando la UI es externa a VTEX, respeta el uso de mayúsculas tal como se muestra en la misma.
 
-Use camel case for placeholders and developer fields. This means capitalizing the first letter of each word, except for the first letter of the entire compound word.
+![Google Tag Manager example](https://github.com/vtexdocs/content-portal-content/blob/main/images/es/capitalization.png?raw=true)
 
-| Do ✅ | Don't ❌ |
-| :---- | :-------- |
-| The file name should follow the pattern *`{storeName}`-favicon.ico*. | The file name should follow the pattern *`{storename}`-favicon.ico*. |
+| Correcto ✅ | Incorrecto ❌ |
+| :---- | :---- |
+|  |  |
 
-### Lists
+### Referencias técnicas y campos para desarrolladores.
 
-Always capitalize the first letter in a bullet or numbered list.
+Utiliza la notación camel case para placeholders y campos destinados a desarrolladores. Es decir, escribe la primera letra de cada palabra en mayúscula, excepto la primera letra de toda la palabra compuesta. Si el texto es una traducción, sigue el uso de mayúsculas del texto original.
 
-### Bullet list
+| Correcto ✅ | Incorrecto ❌ |
+| :---- | :---- |
+| El nombre del archivo debe seguir el estándar *`{nombreDeLaTienda}`-favicon.ico*. | El nombre del archivo debe seguir el patrón. *`{nombredelatienda}`-favicon.ico*. |
 
-| Do ✅ | Don't ❌ |
-| :--------- | :------------ |
-| Search Console provides easy and free access to the following information: <ol><li>Top search terms</li><li>Top URLs viewed</li></ol> | Search Console provides easy and free access to the following information: <ul><li>top search terms</li><li>top URLs viewed</li></ul> |
+### Listas
 
-### Numbered list
+En listas numeradas o con viñetas, todas las palabras deben escribirse con mayúscula inicial.
 
-| Do ✅ | Don't ❌ |
-| :---- | :-------- |
-| <ul><li>On the <b>Projects</b> page, click `Create new`.</li><li>In the <b>New project</b> page, complete the fields.</li><li>After setting each field of the page, click `Create`.</li></ul>  | <ul><li>on the <b>Projects</b> page, click `Create new`.</li><li>in the <b>New project</b> page, complete the fields.</li><li>after setting each field of the page, click `Create`.</li></ul> |
+#### Lista con viñetas
+
+| Correcto ✅ | Incorrecto ❌ |
+| :---- | :---- |
+| Search Console brinda acceso fácil y gratuito a la siguiente información: <ol><li>Principales términos de búsqueda</li><li>Principales URLs</li></ol> | Search Console le brinda acceso fácil y gratuito a la siguiente información: <ul><li>principales términos de búsqueda</li><li>principales URLs</li></ul> |
+
+#### Lista numerada
+
+| Correcto ✅ | Incorrecto ❌ |
+| :---- | :---- |
+| <ul><li>En la página **Proyectos**, haz clic en `Crear nuevo`.</li><li>En la página **Nuevo proyecto**, completa los campos.</li><li>Después de completar los campos de la página, haz clic en `Crear`.</li></ul> | <ul><li>en la página **Proyectos**, haga clic en `Crear nuevo`.</li><li>en la página **Nuevo proyecto**, completa los campos.</li><li>después de completar los campos de la página, haz clic en `Crear`.</li></ul> |

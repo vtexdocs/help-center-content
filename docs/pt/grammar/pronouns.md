@@ -1,33 +1,33 @@
 ---
-title: 'Pronouns'
-id: grammar0003
+title: 'Pronomes'
+id: grammar0003-pt
 status: PUBLISHED
-createdAt: 2025-01-09T19:24:22.388Z
-updatedAt: 2025-01-09T19:24:22.388Z
-publishedAt: 2025-01-09T19:24:22.388Z
-firstPublishedAt: 2025-01-09T19:24:22.388Z
+createdAt: 2025-08-27T19:24:22.388Z
+updatedAt: 2025-08-27T19:24:22.388Z
+publishedAt: 2025-08-27T19:24:22.388Z
+firstPublishedAt: 2025-08-27T19:24:22.388Z
 contentType: trackArticle
 productTeam: Localization
-slugEN: pronouns
-locale: en
+slugPT: pronomes
+locale: pt
 trackId: 5PxyAgZrtiYlaYZBTlhJ2A
-trackSlugEN: pronouns
+trackSlugPT: pronomes
 ---
 
-Use *their* when talking about a third-person singular.
+Sempre dirija-se ao leitor como “você”. Use as palavras “usuário”, “lojista” ou “seller” apenas para se referir ao usuário da funcionalidade que o leitor está configurando.
 
-| Do ✅ | Don't ❌ |
-| :---- | :-------- |
-| When you click a seller, you are redirected to *their* details page. | When you click a seller, you are redirected to *his* details page. |
+| Correto ✅ | Incorreto ❌ |
+| :--- | :--- |
+| Nesta seção, você pode selecionar os anúncios que serão incluídos na promoção. Para incluir anúncios na campanha promocional, siga os passos abaixo: <ol><li>Na seção **Candidatos**, selecione a caixa de seleção dos anúncios que você deseja incluir na campanha promocional.</li></ol> | Nesta seção, o seller irá selecionar os anúncios que serão incluídos na promoção. Para incluir anúncios na campanha promocional, siga os passos abaixo: <ol><li>Na seção **Candidatos**, selecione a caixa de seleção dos anúncios que o seller deseja incluir na campanha promocional.</li></ol> |
 
-Always address the reader as you. Use the words *user, merchant, or seller* only to refer to the user of the feature that your reader is configuring.
+Use pronomes na primeira pessoa do plural (nós, nosso, nos) para se referir à VTEX como autora do documento, quando necessário.
 
-| Do ✅ | Don't ❌ |
-| --------- | ------------ |
-| In this section, you can select the offers that will be included in the promotion. To include offers in the promotional campaign, follow the steps below: <ol><li>In the <b>Candidates</b> section, check the checkbox of the offers that you want to include in the promotional campaign.</li></ol>  | In this section, the seller will select the offers that will be included in the promotion. To include offers in the promotional campaign, follow the steps below: <ol><li>In the <b>Candidates section</b>, check the checkbox of the offers that the seller wants to include in the promotional campaign.</li></ol> |
+| Correto ✅ | Incorreto ❌ |
+| :--- | :--- |
+| <ul><li>Recomendamos alterar essa configuração para evitar a falta de estoque.</li><li>Recomendamos exportar 10.000 registros por vez.</li></ul> | <ul><li>A VTEX recomenda alterar essa configuração para evitar a falta de estoque.</li><li>Recomenda-se exportar 10.000 registros por vez.</li></ul> |
 
-Use first-person plural pronouns (*we, our, us*) to refer to VTEX as author of the document when necessary.
+Evite o uso excessivo de pronomes em uma frase para que não gere ambiguidade.
 
-| Do ✅ | Don't ❌ |
-| --------- | ------------ |
-| <ul><li>We recommend adjusting this setting to avoid stockout.</li><li>We recommend exporting 10,000 records at a time.</li></ul> | <ul><li>VTEX recommends adjusting this setting to avoid stockout.</li><li>It's recommended to export 10,000 records at a time.</li></ul> |
+| Correto ✅ | Incorreto ❌ |
+| :--- | :--- |
+| <ul><li>Ao configurar o método de envio, o usuário deve selecionar a transportadora desejada. Depois, o sistema solicitará que o usuário informe o prazo de entrega.</li></ul> | <ul><li>Ao configurar o método de envio, o usuário deve selecionar a transportadora desejada. Depois, ele deve informar o prazo de entrega.</li></ul> |

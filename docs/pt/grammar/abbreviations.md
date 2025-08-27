@@ -1,122 +1,69 @@
 ---
-title: 'Abbreviations'
-id: grammar0006
+title: 'Abreviações'
+id: grammar0006-pt
 status: PUBLISHED
-createdAt: 2025-02-10T19:24:22.388Z
-updatedAt: 2025-02-10T19:24:22.388Z
-publishedAt: 2025-02-10T19:24:22.388Z
-firstPublishedAt: 2025-02-10T19:24:22.388Z
+createdAt: 2025-08-27T19:24:22.388Z
+updatedAt: 2025-08-27T19:24:22.388Z
+publishedAt: 2025-08-27T19:24:22.388Z
+firstPublishedAt: 2025-08-27T19:24:22.388Z
 contentType: trackArticle
 productTeam: Localization
-slugEN: abbreviations
-locale: en
+slugPT: abreviacoes
+locale: pt
 trackId: 5PxyAgZrtiYlaYZBTlhJ2A
-trackSlugEN: abbreviations
+trackSlugPT: abreviacoes
 ---
 
-Abbreviations include acronyms, shortened words, and contractions.
+Em documentações, quando uma abreviação não for comum ao público, escreva-a na primeira menção e coloque-a entre parênteses logo em seguida.
 
-In documentation, spell out abbreviations on the first reference if they’re not common and include the abbreviation in parentheses immediately after.
+| Correto ✅ | Incorreto ❌ |
+| :--- | :--- |
+| O Sistema de Gerenciamento de Conteúdo (CMS) é uma funcionalidade voltada para o gerenciamento de conteúdo de forma prática e constante. | CMS (Content Management System, em português, Sistema de Gerenciamento de Conteúdo) é uma funcionalidade voltada para o gerenciamento de conteúdo de forma prática e constante. |
 
-| Do ✅ | Don't ❌ |
-| :---- | :---- |
-| The `Filter` component is used to filter products inside the *Product Listing Page (PLP)* and Search Page. | The `Filter` component is used to filter products inside the *PLP* and Search Page. |
+As seguintes abreviações raramente precisam ser explicitadas:
 
-Don’t use *i.e.* or *e.g.* They are not localization friendly.
+*   API
+*   Formatos de arquivos (PDF, XML)
+*   HTML
+*   RAM
+*   REST
+*   MB, GB
+*   URL
 
-| Do ✅ | Don't ❌ |
-| :---- | :---- |
-| It is frequently necessary to send the item price to the gateway or to your ERP with the tax shown separately from the price. | It’s frequently necessary to send the item price to the Gateway or to your ERP with the tax shown, i.e. separately from the price. |
-| In this function, create an event object specifying the desired event type (example: `purchase`) and then call `sendAnalyticsEvent`.| In this function, create an event object specifying the desired event type (e.g., `purchase`) and then call `sendAnalyticsEvent`. |
+Evite usar "i.e." e "e.g.". Essas abreviações não boas para localização e acessibilidade. Prefira escrever de forma clara e direta.
 
-## Periods with abbreviations
+| Correto ✅ | Incorreto ❌ |
+| :--- | :--- |
+| Nesta função, crie um objeto de evento especificando o tipo desejado (por exemplo, ‘purchase’) e chame `sendAnalyticsEvent`. | Nesta função, crie um objeto de evento especificando o tipo desejado (e.g., ‘purchase’) e chame `sendAnalyticsEvent`. |
 
-Don't use periods with acronyms or the abbreviation for the name of a country.
+Embora seja comum usar “Nº”, “nº” ou “no.” como abreviação de **“número”** em português, a **abreviação correta e recomendada é “N.º”** (ou “n.º” se estiver no meio da frase), com ponto. Outras abreviações aceitas são “núm.” ou “n.”. Ao abreviar “número” em português, é fundamental incluir o ponto após a letra “N” para manter a precisão e a consistência. Essa abordagem obedece às convenções tipográficas estabelecidas na escrita portuguesa.
 
-| Do ✅ | Don't ❌ |
-| :---- | :---- |
-| You need to send the item price to your ERP with the tax shown separately from the price. | You need to send the item price to your E.R.P. with the tax shown separately from the price. |
-| This amount is shown in US dollars.| This amount is shown in U.S. dollars. |
+| Correto ✅ | Incorreto ❌ |
+| :--- | :--- |
+| <ul><li>N.º da nota fiscal</li><li>Pedido n.º XXX</li></ul> | <ul><li>Nº. da nota fiscal</li><li>Pedido nº XXX</li></ul> |
 
-If you write or say an abbreviation as a word (for example, app or sync), don't put a period after it.
+## Acrônimos
 
-| Do ✅ | Don't ❌ |
-| :---- | :---- |
-| The app is available in the Extensions Hub. | The app. is available in the Extensions Hub. |
-| You can sync your catalog with Amazon. | You can sync. your catalog with Amazon. |
+Use letras maiúsculas para os acrônimos.
 
-Put a period at the end of a shortened word in text, including strings that are full phrases. Omit for date and time, forms, and column headers in the UI.
+| Correto ✅ | Incorreto ❌ |
+| :--- | :--- |
+| <ul><li>ID do lojista</li><li>Copiar URL para a área de transferência</li></ul> | <ul><li>id do lojista</li><li>Copiar url para a área de transferência</li></ul> |
 
-| Do ✅ | Don't ❌ |
-| :---- | :---- |
-| Check the item qty. in the cart | <ol><li>Check the item qty in the cart</li><li>No.</li></ol> |
+Não crie acrônimos para nome de produtos e funcionalidades.
 
-## Contractions
+| Correto ✅ | Incorreto ❌ |
+| :--- | :--- |
+| Delivery Promise (Beta) é ideal para todos os tipos de operações. | DP (Beta) é ideal para todos os tipos de operações. |
 
-Always use common contractions, such as *it’s*, *you’re*, *that's, don’t, can’t, you’ll.* Contractions help avoid misreading, as it's easier for readers to overlook the word *not* in a sentence than to misinterpret a contraction like *don’t* as *do*. 
+Ao colocar acrônimos e abreviações no plural, trate-os como palavras normais.
 
-| Do ✅ | Don't ❌ |
-| :---- | :---- |
-| You don't have any manually added products. | You do not have any manually added products. |
+| Correto ✅ | Incorreto ❌ |
+| :--- | :--- |
+| <ul><li>O mapeamento de URL é usado para redirecionar URLs específicas para outras URLs.</li><li>Este tipo de aplicativo permite que você crie integrações entre serviços usando APIs REST ou crie APIs GraphQL para usar dados em componentes React personalizados.</li></ul> | <ul><li>O mapeamento de URL é usado para redirecionar URL específicas para outras URL.</li><li>Este tipo de aplicativo permite que você crie integrações entre serviços usando API REST ou crie API GraphQL para usar dados em componentes React personalizados.</li></ul> |
 
-Don’t mix contractions and spelled-out equivalents within the same sentence.
+Prefira usar formatos de arquivo em letras maiúsculas. Ao especificar extensões de arquivo, use letras minúsculas (exemplo: ‘faststore.config.js’).
 
-| Do ✅ | Don't ❌ |
-| :---- | :---- |
-| **It’s** key for data encoding to be part of this routine, but **it's** important noting that creating cookies can also interfere with the store in other ways. | **It is** key for data encoding to be part of this routine, but **it’s** important noting that creating cookies can also interfere with the store in other ways. |
-
-Avoid contractions formed from nouns and verbs.
-
-| Do ✅ | Don't ❌ |
-| :---- | :---- |
-| VTEX is continuously evolving our products. | VTEX’s continuously evolving our products. |
-
-Don’t use double contractions like *mustn't've* or *shouldn't've*, and avoid ambiguous or awkward contractions, such as *there’d*, *it’ll*, and *they’d.*
-
-| Do ✅ | Don't ❌ |
-| :---- | :---- |
-| It will disappear from the list on the SKU Bindings page. | It'll disappear from the list on the SKU Bindings page. |
-
-## Acronyms
-
-Most acronyms are fully capitalized, but not all. Follow the standard form used in the industry. Capitalize all words in the spelled-out form of an acronym. The names of many protocols and specifications are considered proper nouns and are capitalized when spelled out.
-
-| Do ✅ | Don't ❌ |
-| :---- | :---- |
-| <ul><li>Renew the API token before the duration ends.</li><li>This option involves using a third-party platform, known as Platform as a Service (PaaS).</li><li>How does VTEX ensure compliance with the General Data Protection Regulation (GDPR)?</li><li>Multiple redirects are possible in a single URL.</li><li>A user ID screen is displayed so that the customer can continue trying to purchase.</li></ul> | <ul><li>Renew the api token before the duration ends.</li><li>This option involves using a third-party platform, known as platform as a service (PAAS).</li><li>How does VTEX ensure compliance with the general data protection regulation (GDPR)?</li><li>Multiple redirects are possible in a single url.</li><li>A user id screen is displayed so that the customer can continue trying to purchase.</li></ul> |
-
-Don't spell out common acronyms.
-
-| Do ✅ | Don't ❌ |
-| :---- | :---- |
-| <ol><li> API, REST, POST</li><li> File formats (CSV, XML, JSON)</li><li> ID, URL, HTML</li><li> SKU, EAN</li><li> KPI, ROI, GMV</li><li> MB, GB</li><li> Renew the API token before the duration ends.</li></ol>  | <ol><li> Megabyte, Gigabyte</li><li> Renew the API (Application Programming Interface) token before the duration ends.</li></ol> |
-
-Don't create acronyms from product or feature names.
-
-| Do ✅ | Don't ❌ |
-| :---- | :---- |
-| Delivery Promise (Beta) is suitable for all types of operations. | DP (Beta) is suitable for all types of operations |
-
-Use *a* or *an based* on pronunciation.
-
-| Do ✅ | Don't ❌ |
-| :---- | :---- |
-| <ul><li>A URL</li><li>A SKU (preferred US pronunciation is /skjuː/)</li></ul> | <ul><li>An URL</li><li>An SKU</li></ul> |
-
-Avoid the possessive form. An alternative is using the preposition *of* using nouns as adjectives, which may require using a definite article or omitting the article.
-
-| Do ✅ | Don't ❌ |
-| :---- | :---- |
-| <ul><li>The purpose of this FAQ.</li><li>This means providing Google with the address of the store website.</li><li>The vteximg.com.br domain delivers store image files.</li></ul> | <ul><li>This FAQ's purpose.</li><li>This means providing Google with the address of your store's website.</li><li>The vteximg.com.br domain is responsible for delivering your store's image files.</li></ul> |
-
-When making acronyms, initialisms, and other abbreviations plural, treat them as regular words.
-
-| Do ✅ | Don't ❌ |
-| :---- | :---- |
-| <ul><li>URL mapping is used to redirect specific URLs to other URLs.</li><li>This type of app allows you to create integrations between services using REST APIs or create GraphQL APIs to use data in custom React components.</li></ul> | <ul><li>URL mapping is used to redirect specific URL to other URL.</li><li>This type of app allows you to create integrations between services using REST API’s or create GraphQL APIs to use data in custom React components.</li></ul> |
-
-Prefer to use the acronyms of file formats and capitalize them. When specifying file extensions, use lowercase letters (example: `faststore.config.js`).
-
-| Do ✅ | Don't ❌ |
-| :---- | :---- |
-| <ul><li>You can set up synonyms individually or by importing a spreadsheet in **CSV** format.</li><li>package.**json**: **JSON** file describing the dependencies, script commands for building, and version details.</li></ul> | <ul><li>You can set up synonyms individually or by importing a spreadsheet in **csv** format.</li><li>package.**JSON**: **json** file describing the dependencies, script commands for building, and version details.</li></ul> |
+| Correto ✅ | Incorreto ❌ |
+| :--- | :--- |
+| <ul><li>Você pode configurar sinônimos individualmente ou importando uma planilha no formato **CSV**.</li><li>`package.json`: arquivo **JSON** que descreve as dependências, comandos de script para build e detalhes da versão.</li></ul> | <ul><li>Você pode configurar sinônimos individualmente ou importando uma planilha no formato **.csv**.</li><li>`package.JSON`: arquivo **json** que descreve as dependências, comandos de script para build e detalhes da versão.</li></ul> |
