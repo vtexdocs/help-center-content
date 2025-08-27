@@ -6937,37 +6937,6 @@
         },
         {
           "name": {
-            "en": "Data And Privacy",
-            "es": "Datos Y Privacidad",
-            "pt": "Dados E Privacidade"
-          },
-          "slug": {
-            "en": "data-and-privacy",
-            "es": "datos-y-privacidad",
-            "pt": "dados-e-privacidade"
-          },
-          "origin": "",
-          "type": "category",
-          "children": [
-            {
-              "name": {
-                "en": "Personal data",
-                "es": "Datos personales",
-                "pt": "Dados pessoais"
-              },
-              "slug": {
-                "en": "personal-data",
-                "es": "datos-personales",
-                "pt": "dados-pessoais"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            }
-          ]
-        },
-        {
-          "name": {
             "en": "Erp",
             "es": "Erp",
             "pt": "Erp"
@@ -7050,37 +7019,6 @@
                 "en": "monitor-da-integracao",
                 "es": "monitor-da-integracao",
                 "pt": "monitor-da-integracao"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            }
-          ]
-        },
-        {
-          "name": {
-            "en": "Integration With Facebook Business Extension",
-            "es": "Integracion Con Facebook Business Extension",
-            "pt": "Integracao Com O Facebook Business Extension"
-          },
-          "slug": {
-            "en": "integration-with-facebook-business-extension",
-            "es": "integracion-con-facebook-business-extension",
-            "pt": "integracao-com-o-facebook-business-extension"
-          },
-          "origin": "",
-          "type": "category",
-          "children": [
-            {
-              "name": {
-                "en": "Installing the Facebook Business Extension e Conversions API app",
-                "es": "Instalar la aplicación Facebook Business Extension e Conversions API",
-                "pt": "Instalar a app Facebook Business Extension e Conversions API"
-              },
-              "slug": {
-                "en": "installing-the-facebook-business-extension-e-conversions-api-app",
-                "es": "instalar-la-aplicacion-facebook-business-extension-e-conversions-api",
-                "pt": "instalar-a-app-facebook-business-extension-e-conversions-api"
               },
               "origin": "",
               "type": "markdown",
@@ -7967,6 +7905,21 @@
                 "en": "facebook-business-extension",
                 "es": "facebook-business-extension",
                 "pt": "facebook-business-extension"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Installing the Facebook Business Extension e Conversions API app",
+                "es": "Instalar la aplicación Facebook Business Extension e Conversions API",
+                "pt": "Instalar a app Facebook Business Extension e Conversions API"
+              },
+              "slug": {
+                "en": "installing-the-facebook-business-extension-e-conversions-api-app",
+                "es": "instalar-la-aplicacion-facebook-business-extension-e-conversions-api",
+                "pt": "instalar-a-app-facebook-business-extension-e-conversions-api"
               },
               "origin": "",
               "type": "markdown",
@@ -10810,6 +10763,21 @@
                 "en": "subject-rights",
                 "es": "derechos-de-los-titulares",
                 "pt": "direitos-dos-titulares"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Personal data",
+                "es": "Datos personales",
+                "pt": "Dados pessoais"
+              },
+              "slug": {
+                "en": "personal-data",
+                "es": "datos-personales",
+                "pt": "dados-pessoais"
               },
               "origin": "",
               "type": "markdown",
