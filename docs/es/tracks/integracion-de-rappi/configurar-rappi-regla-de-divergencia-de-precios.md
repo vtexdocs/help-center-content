@@ -1,5 +1,5 @@
 ---
-title: 'Configurar rappi regla de Divergencia de precios '
+title: 'Configurar rappi regla de Divergencia de precios'
 id: VoIvBSldeT2A4MuRVMMi1
 status: PUBLISHED
 createdAt: 2024-05-31T20:36:17.323Z

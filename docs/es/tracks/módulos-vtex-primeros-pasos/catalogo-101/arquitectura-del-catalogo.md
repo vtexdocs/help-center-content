@@ -1,5 +1,5 @@
 ---
-title: 'Arquitectura del Catálogo '
+title: 'Arquitectura del Catálogo'
 id: 7kz4uWVq6NoaOdUpiJv4PR
 status: PUBLISHED
 createdAt: 2019-05-17T23:09:48.278Z

@@ -1,5 +1,5 @@
 ---
-title: 'Authorize Wish integration on VTEX dashboard '
+title: 'Authorize Wish integration on VTEX dashboard'
 id: 2aF61hBlTKNXJlhN6aowbM
 status: PUBLISHED
 createdAt: 2019-11-18T13:39:18.957Z

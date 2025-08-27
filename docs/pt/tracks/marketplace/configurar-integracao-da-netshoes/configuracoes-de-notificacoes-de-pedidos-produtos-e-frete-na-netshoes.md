@@ -1,5 +1,5 @@
 ---
-title: ' Configuração de Notificações de Pedidos, Produtos e Frete na Netshoes'
+title: 'Configuração de Notificações de Pedidos, Produtos e Frete na Netshoes'
 id: 4XEVWU4XIQimY4swYuaOoE
 status: PUBLISHED
 createdAt: 2018-09-24T20:45:52.055Z

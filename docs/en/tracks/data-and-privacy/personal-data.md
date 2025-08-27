@@ -12,7 +12,7 @@ slugEN: personal-data
 locale: en
 trackId: 65ZqZlNWcmFSOqZQxr8gha
 trackSlugEN: data-and-privacy
-order: undefined
+order: 1
 ---
 
 Personal data or _Personally Identifiable Information_ (PII) is any information relating to a natural person that is capable of identifying them directly (such as name, ID number, and email address) or indirectly (such as IP addresses, physical addresses, and [cookies](https://vtex.com/us-en/privacy-and-agreements/vtex-platform-cookies-information/)).

@@ -1,5 +1,5 @@
 ---
-title: 'Configurar la política comercial '
+title: 'Configurar la política comercial'
 id: 2s7YE2VK7LBx4Mvokj3gc
 status: PUBLISHED
 createdAt: 2021-02-22T20:40:31.986Z

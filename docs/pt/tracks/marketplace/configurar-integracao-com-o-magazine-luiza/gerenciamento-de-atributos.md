@@ -1,5 +1,5 @@
 ---
-title: 'Gerenciamento de atributos '
+title: 'Gerenciamento de atributos'
 id: 2fdw5tfuj3YfAfOgWYRaKw
 status: PUBLISHED
 createdAt: 2024-10-08T22:00:21.393Z

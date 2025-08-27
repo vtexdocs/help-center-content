@@ -1,5 +1,5 @@
 ---
-title: 'Flujo de pago por tarjeta de crédito  '
+title: 'Flujo de pago por tarjeta de crédito'
 id: TEYVv2fcVkH7et9n3OnBS
 status: PUBLISHED
 createdAt: 2019-11-12T15:51:05.024Z

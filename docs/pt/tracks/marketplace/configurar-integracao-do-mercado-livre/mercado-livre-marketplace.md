@@ -1,5 +1,5 @@
 ---
-title: 'Mercado Livre '
+title: 'Mercado Livre'
 id: 51oWBHvVxSs8eAwLQhSbSd
 status: PUBLISHED
 createdAt: 2020-09-23T20:16:36.804Z

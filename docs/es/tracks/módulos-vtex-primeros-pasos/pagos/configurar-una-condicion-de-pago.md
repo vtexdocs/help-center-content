@@ -1,5 +1,5 @@
 ---
-title: 'Configurar una condición de pago '
+title: 'Configurar una condición de pago'
 id: 6bzGxlz4inf8sKmvZ1c7i3
 status: PUBLISHED
 createdAt: 2019-11-26T17:47:27.426Z

@@ -1,5 +1,5 @@
 ---
-title: 'Configuraciones de la integración '
+title: 'Configuraciones de la integración'
 id: 6EYEy1jRiAj465WOnhiczD
 status: CHANGED
 createdAt: 2019-11-18T13:39:42.709Z

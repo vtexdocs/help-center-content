@@ -1,5 +1,5 @@
 ---
-title: 'Integraciones de backend '
+title: 'Integraciones de backend'
 id: 7euXDZR5CCnVFSrXyczIhu
 status: PUBLISHED
 createdAt: 2024-02-05T13:23:32.848Z

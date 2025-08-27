@@ -1,5 +1,5 @@
 ---
-title: 'Next steps '
+title: 'Next steps'
 id: 7bORBaAr4rIG3JgRi68jIK
 status: PUBLISHED
 createdAt: 2024-02-07T16:51:41.686Z

@@ -1,5 +1,5 @@
 ---
-title: 'Crear Promoción Regular '
+title: 'Crear Promoción Regular'
 id: 7FjbeZdE2KMwk5L1t98pZI
 status: PUBLISHED
 createdAt: 2020-01-14T13:11:35.010Z

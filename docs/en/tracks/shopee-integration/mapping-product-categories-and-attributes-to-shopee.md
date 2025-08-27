@@ -1,5 +1,5 @@
 ---
-title: 'Mapping product categories and attributes to Shopee '
+title: 'Mapping product categories and attributes to Shopee'
 id: 7FgpimfEhkQmYsIMeCeuNH
 status: PUBLISHED
 createdAt: 2025-03-17T15:12:14.932Z

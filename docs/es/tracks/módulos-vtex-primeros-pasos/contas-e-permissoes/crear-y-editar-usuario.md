@@ -1,5 +1,5 @@
 ---
-title: 'Crear y editar usuario '
+title: 'Crear y editar usuario'
 id: 5enE0a0glnI0coEj7rRHBA
 status: PUBLISHED
 createdAt: 2019-11-22T15:16:38.307Z

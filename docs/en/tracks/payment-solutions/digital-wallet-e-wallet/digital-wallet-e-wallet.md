@@ -1,5 +1,5 @@
 ---
-title: ' Digital wallet (ewallet)'
+title: 'Digital wallet (ewallet)'
 id: 7jLbdfch9Oe2yYbQa9zwE1
 status: PUBLISHED
 createdAt: 2023-06-27T21:10:04.185Z
