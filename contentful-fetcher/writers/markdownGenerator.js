@@ -3,7 +3,7 @@ const { toISODate } = require("../utils/markdownUtils");
 const { yamlSafeString } = require("../utils/normalize");
 
 //GENERATE TRACKS MARKDOWN FILES
-function generateTrackMarkdown(entry, locale = "en") {
+function generateTrackMarkdown(entry, locale = "en", order) {
   const { fields, sys } = entry;
 
   const title = fields.title?.[locale] || "Untitled";
@@ -29,6 +29,7 @@ slugEN: ${slugEN}
 locale: ${locale}
 trackId: ${trackId}
 trackSlugEN: ${trackSlug}
+order: ${order}
 ---
 
 ${text}
