@@ -108,10 +108,6 @@ Cuando la UI es externa a VTEX, respeta el uso de mayúsculas tal como se muestr
 
 ![Google Tag Manager example](https://github.com/vtexdocs/content-portal-content/blob/main/images/es/capitalization.png?raw=true)
 
-| Correcto ✅ | Incorrecto ❌ |
-| :---- | :---- |
-|  |  |
-
 ### Referencias técnicas y campos para desarrolladores.
 
 Utiliza la notación camel case para placeholders y campos destinados a desarrolladores. Es decir, escribe la primera letra de cada palabra en mayúscula, excepto la primera letra de toda la palabra compuesta. Si el texto es una traducción, sigue el uso de mayúsculas del texto original.
