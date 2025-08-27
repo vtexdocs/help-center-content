@@ -66,7 +66,7 @@ Utiliza mayúscula solo en la primera palabra de labels y términos de APIs, exc
 
 | Correcto ✅ | Incorrecto ❌ |
 | :---- | :---- |
-| <ul><li>Para recuperar un producto utilizando el ID, usa el endpoint `GET /api/catalog/pvt/product/{productId}`</li><li>La API Conversions.</li></ul> | <ul><li>Para recuperar un producto utilizando el ID, usa el endpoint GET/api/catalog/pvt/product/{productId}.</li><li>La API conversiones.</li></ul> |
+| <ul><li>Para recuperar un producto utilizando el ID, usa el endpoint <code>GET /api/catalog/pvt/product/\{productId\}</code></li><li>La API Conversions.</li></ul> | <ul><li>Para recuperar un producto utilizando el ID, usa el endpoint <code>GET/api/catalog/pvt/product/\{productId\}</code>.</li><li>La API conversiones.</li></ul> |
 
 ## Acrónimos
 
