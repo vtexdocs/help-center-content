@@ -6,6 +6,7 @@ const {
   generateAnnouncementMarkdown,
   generateFaqMarkdown,
 } = require("./writers/markdownGenerator");
+const { getYearAndMonthName } = require("./utils/monthFolder");
 const { writeTrackOrderFile } = require("./writers/trackOrderGenerator");
 const {
   getTrackCategoryByTrackId,
@@ -41,7 +42,7 @@ async function main() {
   if (invalidTypes.length > 0) {
     console.error(
       `⛔ Invalid content type(s): ${invalidTypes.join(", ")}\n` +
-      `✅ Allowed types are: ${allowedTypes.join(", ")}`
+        `✅ Allowed types are: ${allowedTypes.join(", ")}`
     );
     return;
   }
@@ -193,19 +194,20 @@ async function main() {
             : normalizeFolderName(subcategoryTitle),
         });
       } else if (type === "updates") {
-        const { content, slug, year } = generateAnnouncementMarkdown(
-          entry,
-          locale
-        );
+        const { content, slug } = generateAnnouncementMarkdown(entry, locale);
 
         const fixedContent = convertInlineHtmlToMarkdown(content);
+        const { year, monthName } = getYearAndMonthName(
+          entry.sys.createdAt,
+          locale
+        );
 
         await writeMarkdown({
           content: fixedContent,
           slug,
           locale,
           folder: "announcements",
-          subfolder: String(year),
+          subfolder: path.join(year, monthName),
         });
       } else if (type === "frequentlyAskedQuestion") {
         const { content, slug, productTeam } = generateFaqMarkdown(
