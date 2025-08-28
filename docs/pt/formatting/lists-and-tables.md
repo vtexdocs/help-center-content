@@ -1,196 +1,70 @@
 ---
-title: 'Lists and tables'
-id: formatting0002
+title: 'Listas e tabelas'
+id: formatting0002-pt
 status: PUBLISHED
-createdAt: 2025-12-11T15:00:00.388Z
-publishedAt: 2025-12-11T15:00:00.388Z
-firstPublishedAt: 2025-12-06T15:00:00.388Z
+createdAt: 2025-08-28T15:00:00.388Z
+publishedAt: 2025-08-28T15:00:00.388Z
+firstPublishedAt: 2025-08-28T15:00:00.388Z
 contentType: trackArticle
 productTeam: Education
-slugEN: lists-and-tables
-locale: en
+slugPT: listas-e-tabelas
+locale: pt
 trackId: 5PxyAgZrtiYlaYZBTlhJ2A
-trackSlugEN: lists-and-tables
+trackSlugPT: listas-e-tabelas
 ---
 
-Tables and lists present structured content, but sometimes, it’s unclear when to use one over the other. Here are some rules you can follow when creating them:
+Listas e tabelas são usadas para apresentar conteúdo estruturado. Veja algumas regras que você pode seguir ao criá-las:
 
-<details>
-<summary><b>Lists</b></summary>
+<b>Listas</b>
+As listas ajudam a organizar conteúdos em sequência linear. Use listas para apresentar uma série de itens ou etapas individuais. Por exemplo, você pode usar uma lista com bullet points para apresentar as funcionalidades de um produto e uma lista numerada ao orientar os usuários nas etapas de instalação de um software.
 
-Lists help organize the content and facilitate understanding. When you need to roll items that do not configure a sequence of steps, it could be helpful to format it as a list. Use lists to present a series of single items or steps. For example, a bulleted list can outline product features, and a numbered list can guide users through software installation steps.
+Para mais informações, veja as especificações de [listas](#listas).
 
-See the [lists](#lists) guidelines for more information.
+<b>Tabelas</b>
+As tabelas ajudam a organizar dados com múltiplos atributos em linhas e colunas. Por exemplo, você pode usar uma tabela para comparar os requisitos de instalação de diferentes sistemas operacionais e suas especificações mínimas e recomendadas.
 
-</details>
+Para mais informações, veja as especificações de [tabelas](#tabelas).
 
-<details>
-<summary><b>Tables</b></summary>
+## Regras gerais
 
-Use tables to organize data with multiple attributes. For example, a table can compare installation requirements for different operating systems, showing the minimum and recommended specifications.
+Escreva uma frase para introduzir a lista ou tabela para o usuário. Use dois-pontos ao final da frase que precede o conteúdo apresentado.
 
-See the [tables](#tables) guidelines for more information.
+| Correto ✅ | Incorreto ❌ |
+| :--- | :--- |
+| <ul><li>Para personalizar os botões, siga os passos abaixo:</li><li>Siga os passos abaixo para conferir a integração com a sua loja:</li><ol><li>No Admin VTEX, acesse **Configurações da loja > Intelligent Search > Integrações**.</li><li>Na página **Integrações**, todos os status devem estar ticados, como na imagem a seguir.</li></ol></ul> | <ul><li>Instruções:</li><li>Siga os passos abaixo para conferir a integração com a sua loja.</li><ol><li>No Admin VTEX, acesse **Configurações da loja > Intelligent Search > Integrações**.</li><li>Na página **Integrações**, todos os status devem estar ticados, como na imagem a seguir.</li></ol></ul> |
 
-</details>
+Quando o item da lista ou tabela incluir dois-pontos, a palavra seguinte deve começar em minúscula.
 
-## General rules
+| Correto ✅ | Incorreto ❌ |
+| :--- | :--- |
+| <ul><li><b>Reserva autorizada:</b> após a finalização da compra.</li><li><b>Reserva confirmada:</b> após a aprovação do pagamento.</li></ul> | <ul><li><b>Reserva autorizada:</b> Após a finalização da compra.</li><li><b>Reserva confirmada:</b> Após a aprovação do pagamento.</li></ul> |
 
-When a list or table item contains a colon, the first word after it must be capitalized.
+Para garantir que a estrutura da lista esteja consistente, comece todos os itens com a mesma classe gramatical, como verbos no imperativo, verbos no infinitivo ou substantivos.
 
-| Do ✅ | Don't ❌ |
-| ------ |-------- |
-| <ul><li><b>Authorized reservation:</b> After the order is placed.</li><li><b>Confirmed reservation:</b> After the order is placed.</li></ul> | <ul><li><b>Authorized reservation:</b> after the order is placed.</li><li><b>Confirmed reservation:</b> after payment is approved.</li></ul> |
+| Correto ✅ | Incorreto ❌ |
+| :--- | :--- |
+| <b>Exemplo 1:</b><ul><li><b>Controle</b> os resultados de busca usando condições específicas.</li><li><b>Visualize</b> como os resultados de busca serão exibidos aos clientes na loja.</li><li><b>Altere</b> a ordem dos itens listados como resultados de busca.</li></ul><b>Exemplo 2:</b><ul><li><b>Indica</b> o tipo de edição utilizado na regra de merchandising.</li><li><b>Ativa ou desativa</b> uma regra de merchandising.</li></ul>OU<ul><li><b>Tipo</b> de edição utilizado na regra de merchandising.</li><li><b>Opção</b> que ativa ou desativa uma regra de merchandising.</li></ul> | <b>Exemplo 1:</b><ul><li><b>Controla</b> os resultados de busca usando condições específicas.</li><li><b>Visualize</b> como os resultados de busca serão exibidos aos clientes na loja.</li><li><b>Você pode alterar</b> a ordem dos itens listados como resultados de busca.</li></ul><b>Exemplo 2:</b><ul><li><b>Indica</b> o tipo de edição utilizado na regra de merchandising.</li><li><b>Opção</b> que ativa ou desativa uma regra de merchandising.</li></ul> |
 
-Make sure the list or table structure is consistent. Start each item with the same verb or noun form.
+Use ponto final se houver mais elementos, como um callout, entre a introdução e a lista.
 
-| Do ✅ | Don't ❌ |
-| ------ |-------- |
-| <ul><li><b>Control</b> search results using specific conditions.</li><li><b>Preview</b> how search results will be displayed to customers while navigating the store.</li><li><b>Change</b> the order of the items listed in search results.</li></ul> | <ul><li><b>Controls</b> search results using specific conditions.</li><li><b>You can change</b> the order of the items listed in search results.</li><li><b>Type</b> of editing used in the merchandising rule.</li><li><b>Option</b> to enable or disable a merchandising rule.</li></ul> |
+<b>Correto ✅</b>
 
-When a list or a word in the table is not a complete sentence, don't use punctuation.
+![Exemplo](https://github.com/vtexdocs/content-portal-content/blob/main/images/pt/lists_and_tables_1.png?raw=true)
 
-| Do ✅ | Don't ❌ |
-| ------ |-------- |
-| Before cloning your store's repository, ensure that you have the following tools on your machine:<ul><li>Node.js</li><li>Yarn</li><li>Git</li><li>Visual Studio Code</li></ul> | Before cloning your store's repository, ensure that you have the following tools on your machine:<ul><li>Node.js.</li><li>Yarn.</li><li>Git.</li><li>Visual Studio Code.</li></ul> |
+Para itens de lista compostos por frases completas, use ponto final ao final de cada frase.
 
-## Lists
+| Correto ✅ | Incorreto ❌ |
+| :--- | :--- |
+| Os cenários em que acontece concorrência de promoções são:<ul><li>Promoções com o mesmo tipo de desconto.</li><li>Aplicação de mais de uma promoção no mesmo item.</li></ul> | Os cenários em que acontece concorrência de promoções são:<ul><li>Promoções com o mesmo tipo de desconto</li><li>Aplicação de mais de uma promoção no mesmo item</li></ul> |
 
-There are two types of lists:
+Para itens da lista que não sejam compostos por frases completas, não use pontuação.
 
-- **Ordered:** Presented in a specific sequence, typically numbered. Use for sequential steps (e.g., installation instructions):
+| Exemplo |
+| :--- |
+| As promoções inseridas no carrinho seguem a seguinte disposição:<ul><li>Percentual</li><li>Nominal</li><li>Compre Junto</li></ul> |
 
-    ```sh
-    1. Go to the VTEX Admin and access **Storefront > Headless CMS**.
-    2. Click **Create a new project**.
-    3. …
-    ```
+No início da documentação, ao listar os tópicos que serão abordados, utilize os títulos no infinitivo. Em português, títulos e subtítulos devem permanecer no infinitivo, mesmo quando, em inglês, a forma equivalente usar o gerúndio (-ing).
 
-- **Unordered:** Presented without a specific sequence, typically bulleted. Use for groups of items without a specific order (e.g., required tools):
-
-    ```sh
-    Before cloning your store repository, ensure that you have the following tools on your machine:
-    - Node.js
-    - Yarn
-    - Git
-    ```
-
-### Ordered list
-
-Use a **numbered list** for sequential steps.
-
-| Do ✅ | Don't ❌ |
-| ------ | -------- |
-| Archiving a project disables the API and access to the content within the project. To archive a project, follow the steps below:<ol><li>Go to <b>Storefront > Projects.</b></li><li>Choose the project you want to archive and click <b>Settings</b> (⚙️) to open a modal.</li><li>Click <code>Archive project</code> on the General page. A pop-up message will appear to confirm that you want to archive the project.</li></ol> | Archiving a project disables the API and access to the content within the project. To archive a project, follow the steps below:<ul><li>Go to <b>Storefront > Projects.</b></li><li>Choose the project you want to archive and click <b>Settings</b> (⚙️) to open a modal.</li><li>Click <code>Archive project</code> on the General page. A pop-up message will appear to confirm that you want to archive the project.</li></ul> |
-| The promotions applied to the cart follow the order below:<ol><li>Percentage</li><li>Nominal</li><li>Buy Together</li></ol> | The promotions applied to the cart follow the order below:<ul><li>Percentage</li><li>Nominal</li><li>Buy Together</li></ul> |
-
-Write an introduction to the list providing context for the user. Use a colon at the end of the sentence if the list follows immediately after.
-
-| Do ✅ | Don't ❌ |
-| ------ | -------- |
-| Follow the steps below to add a new collection:<ol><li>In the Admin, click <b>Catalog</b>.</li><li>Click <b>Collections</b>.</li></ol> | Add a new collection:<ol><li>In the Admin, click <b>Catalog</b>.</li><li>Click <b>Collections</b>.</li></ol> |
-
-### Unordered list
-
-Use a **bulleted list** of items with a common theme that doesn’t require a specific order.
-
-| Do ✅ | Don't ❌ |
-| ------ | -------- |
-| The tool has features such as:<ul><li>Autocomplete: Provides search and product suggestions based on the shopper's context.</li><li>Customizable filters: Help in the process of finding the desired product.</li><li>Dynamic results: Uses historical data on clicks and orders to improve the search results dynamically.</li><li>Autocorrect: Handles typos and spelling mistakes, such as plural and singular variations and gender variations in words that share the same radical.</li><li>Customization: Offers customizable features such as Relevance, Synonyms, and Merchandising Rules, which make it possible to improve the customer experience and meet the store's business needs.</li></ul> | The card Opens a modal that displays three tabs:<ol><li>Autocomplete: Provides search and product suggestions based on the shopper's context.</li><li>Customizable filters: Help in the process of finding the desired product.</li><li>Dynamic results: Uses historical data on clicks and orders to improve the search results dynamically.</li><li>Autocorrect: Handles typos and spelling mistakes, such as plural and singular variations and gender variations in words that share the same radical.</li><li>Customization: Offers customizable features such as Relevance, Synonyms, and Merchandising Rules, which make it possible to improve the customer experience and meet the store's business needs.</li></ol> |
-
-For bullet list items consisting of complete sentences, use a period at the end of each sentence.
-
-| Do ✅ | Don't ❌ |
-| ------ | -------- |
-| Promotion competition occurs in the following situations:<ul><li>Promotions with the same type of discount.</li><li>More than one promotion applied to the same item.</li></ul> | Promotion competition occurs in the following situations:<ul><li>Promotions with the same type of discount</li><li>More than one promotion applied to the same item</li></ul> |
-
-Use a period if there are more elements, such as a callout, code example, or an image, between the introduction and the list.
-
-<details>
-<summary><b>Do ✅</b></summary>
-
-When you send the request, be sure to include the following fields.
-
-```sh
-{ 
-  "skuId": "`{sku-identification-number}`", 
-  "quantity": "`{product-identification-number}`", 
-  "price": "`{sku-price}`"
-}
-```
-
-- `skuId`: SKU identification code corresponding to the item.
-- `quantity`: Item quantity.
-- `price`: Item price in cents.
-
-</details>
-
-<details>
-
-<summary><b>Don't ❌</b></summary>
-
-When you send the request, be sure to include the following fields:
-
-```sh
-{ 
-   "skuId": "`{sku-identification-number}`", 
-   "quantity": "`{product-identification-number}`", 
-   "price": "`{sku-price}`"
-}
-```
-
-- `skuId`: SKU identification code corresponding to the item.
-- `quantity`: Item quantity.
-- `price`: Item price in cents.
-</details>
-
-## Tables
-Use tables for items with three or more related data points.
-
-<details>
-<summary><b>Do ✅</b></summary>
-
-When creating a field, the following types are displayed:
-
-| Field type | Description |
-| ------ | ----------- |
-| **Auto Increment** | Stores integers and is automatically incremented, which means that for each new record, this field receives the value of the previous record + 1. |
-| **Boolean** | Stores true or false information, which means it will always be completed as `true` or `false`.  |
-| **CEP** | Stores a CEP (postal code in Brazil). |
-</details>
-
-<details>
-<summary><b>Don’t ❌</b></summary>
-
-When creating a field, the following types are displayed:
-
-| Field type |
-| ---------- |
-| **Auto Increment** |
-| **Boolean** |
-| **CEP** |
-</details>
-Write an introductory sentence for the table and refer to the table's position using phrases like the following table or the preceding table.
-
-<details>
-<summary><b>Do ✅</b></summary>
-
-FastStore is a toolkit based on Jamstack that helps developers build high-performance stores. In the following table, see its main aspects:
-
-| Aspect | Description |
-| ------ | ----------- |
-| **Performance** | Ensures fast-loading stores and provides a good user experience, focusing on achieving high scores in tests like [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview) and [Web Vitals](https://web.dev/articles/vitals#core-web-vitals).  |
-| **Stability** | Built to be stable and avoid crashes, so your store doesn't lose sales due to provider issues.  |
-| **Analytics/SEO** | Works with analytics tools to understand store customers and with SEO tools to improve store visibility in search results. |
-</details>
-
-<details>
-<summary><b>Don’t ❌</b></summary>
-
-| Aspect | Description |
-| ------ | ----------- |
-| **Performance** | Ensures fast-loading stores and provides a good user experience, focusing on achieving high scores in tests like [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview) and [Web Vitals](https://web.dev/articles/vitals#core-web-vitals).  |
-| **Stability** | Built to be stable and avoid crashes, so your store doesn't lose sales due to provider issues.  |
-| **Analytics/SEO** | Works with analytics tools to understand store customers and with SEO tools to improve store visibility in search results. |
-</details>
-
-> ⚠ The introductory sentence must be a complete sentence, and it can end with a colon or a period. Usually, a colon if it immediately precedes the table, and usually a period if there's more content (e.g., a callout) between the introduction and the table.
+| Correto ✅ | Incorreto ❌ |
+| :--- | :--- |
+| Este artigo está dividido nas seguintes seções:<ul><li>Adicionar produtos</li><li>Editar produtos</li></ul> | Este artigo está dividido nas seguintes seções:<ul><li>Adicionando produtos</li><li>Editando produtos</li></ul> |

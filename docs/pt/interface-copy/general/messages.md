@@ -1,87 +1,81 @@
 ---
-title: 'Messages'
-id: ui0006
+title: 'Mensagens'
+id: ui0006-pt
 status: PUBLISHED
-createdAt: 2024-12-05T19:24:22.388Z
-updatedAt: 2024-12-05T19:24:22.388Z
-publishedAt: 2024-12-05T19:24:22.388Z
-firstPublishedAt: 2024-12-05T19:24:22.388Z
+createdAt: 2025-08-28T19:24:22.388Z
+updatedAt: 2025-08-28T19:24:22.388Z
+publishedAt: 2025-08-28T19:24:22.388Z
+firstPublishedAt: 2025-08-28T19:24:22.388Z
 contentType: trackArticle
 productTeam: Localization
-slugEN: messages
-locale: en
+slugPT: mensagens
+locale: pt
 trackId: 5PxyAgZrtiYlaYZBTlhJ2A
-trackSlugEN: messages
+trackSlugPT: mensagens
 ---
 
-Messages consist of up to two sentences to communicate the system's current state and provide feedback on user actions. This pattern is commonly found in components like Inputs or Alerts.
+As mensagens usam até duas frases para comunicar o estado atual do sistema e dar feedback sobre as ações realizadas pelo usuário. Elas são usadas em componentes como campos de texto ou notificações.
 
-## General
+## Geral
 
-Keep it as short as possible while still being descriptive enough. Also, remember there’s a 240-character limit per message.
+Mantenha o texto o mais curto possível, mas suficientemente descritivo. Lembre-se de que há um limite de 240 caracteres por mensagem.
 
-| Do ✅ | Don't ❌ |
-| :---- | :---- |
-| <ul><li>Provider couldn't be saved due to a technical issue</li><li>Check this option</li><li>Select at least one option</li><li>Products couldn't be imported because the CSV file is invalid</li></ul> | <ul><li>We faced an unexpected issue while attempting to save the provider. There might be several reasons for this, such as server downtime or network errors</li><li>Check this</li><li>Select at least one</li><li>Something went wrong</li></ul> |
+| Correto ✅ | Incorreto ❌ |
+| :--- | :--- |
+| <ul><li>Não foi possível salvar o provedor devido a um problema técnico</li><li>Marque esta opção</li><li>Selecione pelo menos uma opção</li><li>Não foi possível importar os produtos porque o arquivo CSV é inválido</li></ul> | <ul><li>Enfrentamos um problema inesperado ao tentar salvar o provedor. Pode haver vários motivos para isso, como tempo de inatividade do servidor ou erros de rede.</li><li>Marque o seguinte</li><li>Selecione pelo menos uma das seguintes opções</li></ul> |
 
-Don't use technical language.
+Evite ser muito técnico.
 
-| Do ✅ | Don't ❌ |
-| :---- | :---- |
-| Invoice couldn't be sent due to a technical issue | Error 298dx9283 prevented the invoice from being sent |
+| Correto ✅ | Incorreto ❌ |
+| :--- | :--- |
+| Não foi possível enviar a fatura devido a um problema técnico | O erro 298dx9283 impediu o envio da fatura |
 
-Reuse messages (or their structure) whenever possible.
+Use as mensagens (ou a estrutura usada nelas) de forma consistente. As mensagens mais comuns estão listadas no glossário.
 
-| Do ✅ | Don't ❌ |
-| :---- | :---- |
-| <ul><li>Collection exported successfully</li><li>Provider couldn't be saved due to a technical issue</li><li>Enter this information</li><li>Check this option</li><li>Select at least one option</li></ul> | <ul><li>The collection was successfully exported.</li><li>A technical issue prevented the provider from being saved</li><li>This field is required</li><li>This option needs to be checked</li><li>At least one option needs to be selected</li></ul> |
+| Correto ✅ | Incorreto ❌ |
+| :--- | :--- |
+| <ul><li>Coleção exportada com sucesso</li><li>Não foi possível salvar o provedor devido a um problema técnico</li><li>Campo obrigatorio</li><li>Marque esta opção</li><li>Selecione pelo menos uma opção</li></ul> | <ul><li>A coleção foi exportada com sucesso.</li><li>Um problema técnico impediu que o provedor fosse salvo</li><li>Este campo é obrigatório</li><li>Essa opção precisa ser marcada</li><li>Pelo menos uma opção precisa ser selecionada</li></ul> |
 
-Don't use personal pronouns.
+Não use pronomes pessoais.
 
-| Do ✅ | Don't ❌ |
-| :---- | :---- |
-| <ul><li>Account created successfully</li><li>Double-check the password</li></ul> | <ul><li>Your account was successfully created</li><li>You entered the wrong password.</li></ul> |
+| Correto ✅ | Incorreto ❌ |
+| :--- | :--- |
+| <ul><li>Conta criada com sucesso</li><li>Verifique a senha informada</li></ul> | <ul><li>Sua conta foi criada com sucesso</li><li>Você digitou a senha errada.</li></ul> |
 
-Use an objective and neutral tone.
+O tom das mensagens deve ser objetivo e neutro.
 
-| Do ✅ | Don't ❌ |
-| :---- | :---- |
-| <ul><li>Invoice couldn't be sent due to a technical issue</li><li>Products couldn't be imported because the CSV file is invalid</li><li>Account created successfully</li><li>Log in to your Admin</li><li>Double-check the password</li><li>Enter this information</li></ul> | <ul><li>Oops, something went wrong, and the invoice could not be sent</li><li>Please upload a valid CSV file</li><li>Account successfully created!</li><li>Hello. Log in to your Admin</li><li>Unfortunately, the password is incorrect</li><li>Please enter this information</li></ul> |
+| Correto ✅ | Incorreto ❌ |
+| :--- | :--- |
+| <ul><li>Não foi possível enviar a fatura devido a um problema técnico</li><li>Conta criada com sucesso</li><li>Faça login em seu Admin</li><li>Verifique novamente a senha</li><li>Insira os dados</li></ul> | <ul><li>Ops, algo deu errado e a fatura não pôde ser enviada</li><li>Conta criada com sucesso!</li><li>Olá. Faça login em seu Admin</li><li>Infelizmente, a senha está incorreta</li><li>Por favor, insira os dados</li></ul> |
 
-Use common contractions.
+Use pontuação somente quando for necessário para compreensão e em frases grandes.
 
-| Do ✅ | Don't ❌ |
-| :---- | :---- |
-| Provider couldn't be saved due to a technical issue | Provider could not be saved because of a technical issue |
+| Correto ✅ | Incorreto ❌ |
+| :--- | :--- |
+| <ul><li>A loja está sendo editada ao vivo. As alterações terão efeito imediato.</li><li>Não foi possível processar o arquivo porque ele é maior que 10 MB</li><li>Coleção excluída com sucesso</li><li>Verifique novamente a senha</li><li>Faça upload de uma imagem de até 5 MB</li></ul> | <ul><li>A loja está sendo editada ao vivo e as alterações terão efeito imediato.</li><li>Desculpe, seu arquivo é muito grande. Para evitar erros, tente arquivos com menos de 10 MB.</li><li>Coleção excluída com sucesso!</li><li>A senha está incorreta, tente novamente.</li><li>Este arquivo é muito grande. Faca upload de uma imagem de ate 5MB.</li></ul> |
 
-Use punctuation only when a larger message is extremely necessary.
+Use letra maiúscula somente na primeira letra da frase e em nomes próprios.
 
-| Do ✅ | Don't ❌ |
-| :---- | :---- |
-| <ul><li>The store is being edited live. Changes will have immediate effect.</li><li>File couldn't be processed because its size is larger than 10MB</li><li>Collection deleted successfully</li><li>Double-check the password</li><li>Upload an image up to 5 MB</li></ul> | <ul><li>The store is being edited live and changes will have immediate effect.</li><li>Sorry, your file is too large. To avoid errors, try files under 10 MB.</li><li>Collection deleted successfully!</li><li>The password is incorrect, please try again.</li><li>This file is too large, please upload an image with 5MB at most.</li></ul> |
+| Correto ✅ | Incorreto ❌ |
+| :--- | :--- |
+| <ul><li>Coleção exportada com sucesso</li><li>Notificação do indexador do Intelligent Search</li></ul> | <ul><li>Coleção Exportada Com Sucesso</li><li>Notificação do indexador do intelligent search</li></ul> |
 
-Use sentence case, but capitalize proper nouns.
+## Específico
 
-| Do ✅ | Don't ❌ |
-| :---- | :---- |
-| <ul><li>Collection exported successfully</li><li>Notifying Intelligent Search indexer</li></ul> | <ul><li>Collection Exported Successfully</li><li>Notifying intelligent search indexer</li></ul> |
+Para textos de erro em um campo de formulário, comece com um verbo no imperativo.
 
-## Specific
+| Correto ✅ | Incorreto ❌ |
+| :--- | :--- |
+| <ul><li>Preencha este campo</li><li>Marque esta opção</li><li>Selecione pelo menos uma opção</li></ul> | <ul><li>Este campo é obrigatório</li><li>Essa opção precisa ser marcada</li><li>Pelo menos uma opção precisa ser selecionada</li></ul> |
 
-For the error texts in a form field, start with an imperative verb.
+Em modais que confirmam ações, é possível usar pronomes pessoais e pontos de interrogação.
 
-| Do ✅ | Don't ❌ |
-| :---- | :---- |
-| <ul><li>Complete this field</li><li>Check this option</li><li>Select at least one option</li></ul> | <ul><li>This field is required</li><li>This option needs to be checked</li><li>At least one option needs to be selected</li></ul> |
+| Correto ✅ | Incorreto ❌ |
+| :--- | :--- |
+| Essa ação não pode ser desfeita. Tem certeza de que deseja excluir este produto? | Deseja excluir este produto? Isso não pode ser desfeito. |
 
-In modals that confirm actions, personal pronouns, and question marks can be used.
+Para manter a consistência, seja breve e use "com sucesso" no final da frase.
 
-| Do ✅ | Don't ❌ |
-| :---- | :---- |
-| This action can’t be undone. Are you sure you want to delete this product? | Do you want to delete this product? This can't be undone. |
-
-For consistency, place the adverb “successfully” at the end of the phrase.
-
-| Do ✅ | Don't ❌ |
-| :---- | :---- |
-| <ul><li>Order placed successfully</li><li>Collection exported successfully.</li></ul> | <ul><li>Your order was successfully placed</li><li>The collection was successfully exported</li></ul> |
+| Correto ✅ | Incorreto ❌ |
+| :--- | :--- |
+| <ul><li>Pedido feito com sucesso</li><li>Coleção exportada com sucesso</li></ul> | <ul><li>Seu pedido foi feito com êxito</li><li>A coleção foi exportada</li></ul> |

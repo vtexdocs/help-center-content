@@ -1,91 +1,97 @@
 ---
-title: 'Titles'
-id: ui0003
+title: 'Títulos'
+id: ui0003-pt
 status: PUBLISHED
-createdAt: 2024-12-05T19:24:22.388Z
-updatedAt: 2024-12-05T19:24:22.388Z
-publishedAt: 2024-12-05T19:24:22.388Z
-firstPublishedAt: 2024-12-05T19:24:22.388Z
+createdAt: 2025-08-28T19:24:22.388Z
+updatedAt: 2025-08-28T19:24:22.388Z
+publishedAt: 2025-08-28T19:24:22.388Z
+firstPublishedAt: 2025-08-28T19:24:22.388Z
 contentType: trackArticle
 productTeam: Localization
-slugEN: titles
-locale: en
+slugPT: titulos
+locale: pt
 trackId: 5PxyAgZrtiYlaYZBTlhJ2A
-trackSlugEN: titles
+trackSlugPT: titulos
 ---
 
-Titles consist of up to three words to name the content of a page or a specific section within it. This pattern is commonly used in components like Modals or Tabs.
+Os títulos geralmente são compostos por até três palavras para indicar o conteúdo de uma página ou de uma seção específica dentro dela. Esse padrão é comumente usado em componentes como modais ou guias.
 
-## General
+## Regras gerais
 
-Use sentence case but capitalize proper nouns.
+Coloque em letra maiúscula a primeira letra da primeira palavra que inicia a frase, assim como em nomes próprios.
 
-| Do ✅ | Don't ❌ |
-| --------- | ------------ |
-| <ul><li>Give feedback</li><li>Help Center</li></ul> | <ul><li>Give Feedback</li><li>Help center</li></ul> |
+| Correto ✅ | Incorreto ❌ |
+| :--- | :--- |
+| <ul><li>Enviar feedback</li><li>Help Center</li></ul> | <ul><li>Enviar Feedback</li><li>Help center</li></ul> |
 
-Don't use punctuation, such as question marks or periods.
+Não use pontuação, como ponto de interrogação ou ponto final.
 
-| Do ✅ | Don't ❌ |
-| --------- | ------------ |
-| <ul><li>Page not found</li><li>Delete user</li></ul> | <ul><li>Page not found.</li><li>Delete user?</li></ul> |
+| Correto ✅ | Incorreto ❌ |
+| :--- | :--- |
+| <ul><li>Página não encontrada</li><li>Excluir usuário</li></ul> | <ul><li>Página não encontrada.</li><li>Excluir usuário?</li></ul> |
 
-Avoid using articles.
+Evite usar artigos.
 
-| Do ✅ | Don't ❌ |
-| --------- | ------------ |
-| Add new seller | Add a new seller |
+| Correto ✅ | Incorreto ❌ |
+| :--- | :--- |
+| Adicionar novo seller | Adicionar um novo seller |
 
-Don't use personal pronouns.
+Não use pronomes pessoais.
 
-| Do ✅ | Don't ❌ |
-| --------- | ------------ |
-| Application keys | My application keys |
+| Correto ✅ | Incorreto ❌ |
+| :--- | :--- |
+| Chaves de aplicação | Minhas chaves de aplicação |
 
-Keep it as short as possible while still being descriptive enough.
+Não use gerúndio em títulos.
 
-| Do ✅ | Don't ❌ |
-| --------- | ------------ |
-| <ul><li>Inventory</li><li>Campaigns</li></ul> | <ul><li>Inventory management</li><li>Store promotional campaigns</li></ul> |
+| Correto ✅ | Incorreto ❌ |
+| :--- | :--- |
+| Criar coleção | Criando coleção |
 
-Avoid redundancy, such as by omitting context present elsewhere.
+Mantenha o mais curto possível, sem deixar de ser descritivo.
 
-| Do ✅ | Don't ❌ |
-| --------- | ------------ |
-| <ul><li><p>Page title:</p><p>Products</p></li><li><p>Titles inside page:</p><p>Products</p><p>Categories</p></li></ul> | <ul><li><p>Page title:</p><p>Permissions</p></li><li><p>Titles inside page:</p><p>Product permissions</p><p>Category permissions</p></li></ul> |
+| Correto ✅ | Incorreto ❌ |
+| :--- | :--- |
+| <ul><li>Inventário</li><li>Campanhas</li></ul> | <ul><li>Gerenciamento de inventário</li><li>Campanhas promocionais da loja</li></ul> |
 
-Don't use a marketing tone of voice.
+Evite redundâncias, omitindo o contexto que já foi apresentado, por exemplo. Ao mesmo tempo, o título de uma página deve ser o mesmo tanto no menu e quanto ao abrir a página em si.
 
-| Do ✅ | Don't ❌ |
-| --------- | ------------ |
-| <ul><li>Search</li><li>New product</li></ul> | <ul><li>VTEX Intelligent Search</li><li>Quickly create a product</li></ul> |
+| Correto ✅ | Incorreto ❌ |
+| :--- | :--- |
+| <ul><li><p>Título da página no menu:</p><p>Produtos</p></li><li><p>Títulos ao longo da página:</p><p>Produtos</p><p>Categorias</p></li></ul> | <ul><li><p>Título da página no menu:</p><p>Permissões</p></li><li><p>Títulos ao longo da página:</p><p>Permissões de produto</p><p>Permissões de categoria</p></li></ul> |
 
-## Specific
+Não use um tom de voz de marketing.
 
-### Page
+| Correto ✅ | Incorreto ❌ |
+| :--- | :--- |
+| <ul><li>Busca</li><li>Novo produto</li></ul> | <ul><li>VTEX Intelligent Search</li><li>Crie um produto facilmente</li></ul> |
 
-Reuse the same page title whenever possible, such as in the URL, title meta tag, and, when it applies, in a navigation entry.
+## Regras específicas
 
-| Do ✅ | Don't ❌ |
-| --------- | ------------ |
-| <ul><li>Page title: Orders</li><li>Title meta tag: Orders</li><li>URL: /orders</li><li>Navigation entry: Orders</li></ul> | <ul><li>Page title: Orders</li><li>Title meta tag: Orders listing</li><li>URL: /all-orders</li><li>Navigation entry: Store orders</li></ul> |
+### Páginas
 
-In a form page, when an item is being edited, use the name of the item as the page title. When a new item is being created, use the word `New` followed by the item type.
+Reutilize o mesmo título de página sempre que possível, como na URL, na meta tag de título e, quando aplicável, em um item de navegação.
 
-| Do ✅ | Don't ❌ |
-| --------- | ------------ |
-| <ul><li>Christmas discount</li><li>New promotion</li></ul> | <ul><li>Promotion</li><li>Untitled promotion</li></ul> |
+| Correto ✅ | Incorreto ❌ |
+| :--- | :--- |
+| <ul><li>Título da página: Pedidos</li><li>Meta tag de título: Pedidos</li><li>URL: /pedidos</li><li>Item da navegação: Pedidos</li></ul> | <ul><li>Título da página: Pedidos</li><li>Meta tag de título: Lista de pedidos</li><li>URL: /todos-pedidos</li><li>Item da navegação: Pedidos da loja</li></ul> |
 
-In a listing page, use the type of item being listed as the page title. Include only nouns in the plural form and avoid adding an unnecessary prefix or suffix.
+Em um formulário, ao editar um item, use o nome dele como título da página. Ao criar um novo item, use a palavra “Novo” seguida do tipo de item.
 
-| Do ✅ | Don't ❌ |
-| --------- | ------------ |
-| <ul><li>Product</li><li>Orders</li></ul> | <ul><li>All products</li><li>Orders listing</li></ul> |
+| Correto ✅ | Incorreto ❌ |
+| :--- | :--- |
+| <ul><li>Desconto de Natal</li><li>Nova promoção</li></ul> | <ul><li>Promoção</li><li>Promoção sem nome</li></ul> |
+
+Em uma página de listagem, use o tipo de item listado como título da página. Inclua apenas substantivos no plural e evite adicionar prefixos ou sufixos desnecessários.
+
+| Correto ✅ | Incorreto ❌ |
+| :--- | :--- |
+| <ul><li>Produtos</li><li>Pedidos</li></ul> | <ul><li>Todos os produtos</li><li>Lista de produtos</li></ul> |
 
 ### Modal
 
-In a modal with a form or actions, use an action label as the title. If the modal was triggered by action, prefer to repeat the verb of the action that triggered the modal.
+Em um modal de formulário ou ações, use uma [label de ação](https://contentguide.vtex.com/docs/interface-copy/action-labels) como título. Se o modal foi acionado por uma ação, opte por repetir o verbo da ação que acionou o modal.
 
-| Do ✅ | Don't ❌ |
-| --------- | ------------ |
-| <ul><li>Delete shipping policy</li><li>Create release</li></ul> | <ul><li>Shipping policy</li><li>Create</li></ul> |
+| Correto ✅ | Incorreto ❌ |
+| :--- | :--- |
+| <ul><li>Excluir política de envio</li><li>Criar lançamento</li></ul> | <ul><li>Política de envio</li><li>Criar</li></ul> |

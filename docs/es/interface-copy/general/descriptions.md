@@ -1,75 +1,81 @@
 ---
-title: 'Descriptions'
-id: ui0005
+title: 'Descripciones'
+id: ui0005-es
 status: PUBLISHED
-createdAt: 2024-12-05T19:24:22.388Z
-updatedAt: 2024-12-05T19:24:22.388Z
-publishedAt: 2024-12-05T19:24:22.388Z
-firstPublishedAt: 2024-12-05T19:24:22.388Z
+createdAt: 2025-08-28T19:24:22.388Z
+updatedAt: 2025-08-28T19:24:22.388Z
+publishedAt: 2025-08-28T19:24:22.388Z
+firstPublishedAt: 2025-08-28T19:24:22.388Z
 contentType: trackArticle
 productTeam: Localization
-slugEN: descriptions
-locale: en
+slugES: descripciones
+locale: es
 trackId: 5PxyAgZrtiYlaYZBTlhJ2A
-trackSlugEN: descriptions
+trackSlugES: descripciones
 ---
 
-Descriptions use a single sentence to clarify or explain complex information or tasks to the user. This pattern is frequently found in form fields and help-related components.
+Las descripciones consisten en una sola oración destinada a aclarar o explicar información o tareas complejas al usuario. Este recurso se utiliza frecuentemente en campos de formulario y componentes de ayuda.
 
 ## General
 
-Include a description only when additional information is actually necessary.
+Incluye una descripción solo cuando sea estrictamente necesario para proporcionar información adicional.
 
-| Do ✅ | Don't ❌ |
-| :---- | :-------- |
-| <ul><li>Label: Category</li><li>Label: Phone</li></ul> | <ul><li><p>Label: Category</p><p>Description: Complete the category</p></li><li><p>Label: Phone</p><p>Description: Example: +1-576-158-4127</p></li></ul> |
+| Correcto ✅ | Incorrecto ❌ |
+| :--- | :--- |
+| <ul><li>Etiqueta: Categoría</li><li>Etiqueta: Teléfono</li></ul> | <ul><li><p>Etiqueta: Categoría</p><p>Descripción: ingresa la categoría</p></li><li><p>Etiqueta: Teléfono</p><p>Descripción: Ejemplo: +52 664-476-8351</p></li></ul> |
 
-Keep it as short as possible while still being descriptive enough.
+Procura ser lo más conciso posible, pero claro en la descripción.
 
-| Do ✅ | Don't ❌ |
-| :---- | :---- |
-| Volume of sessions in the intermediate stages of the purchase flow | This chart allows you to track the volume of sessions in the intermediate stages of the purchase flow and view opportunities for optimizing the conversion rate |
+| Correcto ✅ | Incorrecto ❌ |
+| :--- | :--- |
+| Volumen de sesiones en las etapas intermedias del flujo de compra | Este gráfico permite realizar un seguimiento del volumen de sesiones en las etapas intermedias del flujo de compra y visualizar oportunidades para optimizar la tasa de conversión. |
 
-Use sentence case, but capitalize proper nouns.
+Utiliza mayúsculas solo al principio de la frase y en nombres propios.
 
-| Do ✅ | Don't ❌ |
-| :---- | :---- |
-| <ul><li>Schedule for updates</li><li>Seller identifier in the marketplace</li><li>Performance analysis of all VTEX Shipping Network carriers</li></ul> | <ul><li>Schedule for Updates</li><li>Seller identifier in the Marketplace</li><li>Performance analysis of all VTEX shipping network carriers</li></ul> |
+| Correcto ✅ | Incorrecto ❌ |
+| :--- | :--- |
+| <ul><li>Cronograma de actualizaciones</li><li>Identificador de seller en el marketplace</li><li>Análisis de performance de todas las transportadoras de VTEX Shipping Network</li></ul> | <ul><li>Cronograma de Actualizaciones</li><li>Identificador de Seller en el Marketplace</li><li>Análisis de performance de todas las transportadoras de VTEX shipping network</li></ul> |
 
-Avoid punctuation such as commas, and don't use periods or question marks.
+Evita el uso de signos de puntuación como comas, puntos finales, osignos de interrogación.
 
-| Do ✅ | Don't ❌ |
-| :---- | :---- |
-| Day in which the changes made will be published considering the time zone where the store is located | Considering the time zone where the store is located, the day in which the changes made will be published. |
+| Correcto ✅ | Incorrecto ❌ |
+| :--- | :--- |
+| Día en que se publicarán los cambios, según la zona horaria de la tienda | Día en que se publicarán los cambios, realizados previamente, según la zona horaria de la tienda. |
 
-Don't include redundant words.
+Utiliza una sola oración directa, sin punto final.
 
-| Do ✅ | Don't ❌ |
-| :---- | :---- |
-| <ul><li>Label: Frequency</li><li>Description: Schedule for updates</li></ul> | <ul><li>Label: Frequency</li><li>Description: Frequency for updates</li></ul> |
+| Correcto ✅ | Incorrecto ❌ |
+| :--- | :--- |
+| Selecciona un archivo CSV o XLS | <ul><li>Formato de archivo no compatible. Selecciona un archivo CSV o XLS.</li><li>Selecciona un archivo CSV o XLS.</li></ul> |
 
-Don't use a marketing tone of voice or explain benefits.
+Evita redundancias.
 
-| Do ✅ | Don't ❌ |
-| :---- | :---- |
-| Volume of sessions in the intermediate stages of the purchase flow | Track the volume of sessions in the intermediate stages of the purchase flow to optimize your conversion rate |
+| Correcto ✅ | Incorrecto ❌ |
+| :--- | :--- |
+| <ul><li><p>Etiqueta: Frecuencia</p><p>Descripción: Cronograma de actualizaciones</p></li></ul> | <ul><li><p>Etiqueta: Frecuencia</p><p>Descripción: Frecuencia de actualizaciones</p></li></ul> |
 
-## Specific
+Mantén un lenguaje neutral. No uses tono de marketing ni expliques posibles ventajas.
 
-When explaining a label, write as if completing the sentence "This is the…". Start with a noun followed by additional information, such as conditions and definitions.
+| Correcto ✅ | Incorrecto ❌ |
+| :--- | :--- |
+| Volumen de sesiones en las etapas intermedias del flujo de compra | Realiza un seguimiento del volumen de sesiones en las etapas intermedias del flujo de compra para optimizar tu tasa de conversión |
 
-| Do ✅ | Don't ❌ |
-| :---- | :---- |
-| <ul><li><p>Label: Seller ID</p><p>Description: Seller identifier in the marketplace</p></li><li><p>Label: Frequency</p><p>Description: Schedule for updates</p></li><li><p>Label: Privacy policy</p><p>Description: Declaration of the parties that manage customer data</p></li><li><p>Label: Publish date</p><p>Description: Day in which the changes made will appear in the store</p></li></ul> | <ul><li><p>Label: Seller ID</p><p>Description: This is the seller identifier in the marketplace</p></li><li><p>Label: Frequency</p><p>Description: Frequency is the schedule for updates</p></li><li><p>Label: Privacy policy</p><p>Description: Fill a declaration of which parties manage customer data</p></li><li><p>Label: Publish date</p><p>Description: When should the changes appear in the store?</p></li></ul> |
+## Específico
 
-When explaining how information given in a form field will be used, write as if completing the sentence "When you enter a value in this field, it…" and start with a verb in the simple present tense.
+Redacta las descripciones de etiquetas como definiciones, empezando con un sustantivo seguido del resto de la información como condiciones o definiciones.
 
-| Do ✅ | Don't ❌ |
-| :---- | :---- |
-| <ul><li><p>Label: Seller ID</p><p>Description: Appears to customers in the store</p></li><li><p>Label: Frequency</p><p>Description: Defines when updates will be published</p></li><li><p>Label: Privacy policy</p><p>Description: Appears to customers in the store</p></li><li><p>Label: Publish date</p><p>Description: Considers the time zone where the store is located</p></li></ul> | <ul><li><p>Label: Seller ID</p><p>Description: When you fill a value in this field, it appears to customers in the store</p></li><li><p>Label: Frequency</p><p>Description: Frequency defines when updates will be published</p></li><li><p>Label: Privacy policy</p><p>Description: This appears to customers in the store</p></li><li><p>Label: Publish date</p><p>Description: Consider the time zone where the store is located</p></li></ul> |
+| Correcto ✅ | Incorrecto ❌ |
+| :--- | :--- |
+| <ul><li><p>Etiqueta: ID de seller</p><p>Descripción: Identificador del seller en el marketplace</p></li><li><p>Etiqueta: Frecuencia</p><p>Descripción: Cronograma de actualizaciones</p></li><li><p>Etiqueta: Política de privacidad</p><p>Descripción: Declaración de las partes que gestionan los datos de los clientes</p></li><li><p>Etiqueta: Fecha de publicación</p><p>Descripción: fecha en que los cambios realizados se aplicarán a la tienda</p></li></ul> | <ul><li><p>Etiqueta: ID de seller</p><p>Descripción: Se refiere al identificador del seller en el marketplace.</p></li><li><p>Etiqueta: Frecuencia</p><p>Descripción: La frecuencia es el Cronograma de actualizaciones.</p></li><li><p>Etiqueta: Política de privacidad</p><p>Descripción: Llena la declaración sobre las partes que gestionan los datos del cliente</p></li><li><p>Etiqueta: Fecha de publicación</p><p>Descripción: ¿Cuándo se aplicarán los cambios realizados a la tienda?</p></li></ul> |
 
-When explaining both the label of a form field and how its value will be used, combine the two sentences described in the previous topics and adapt them if necessary.
+Al explicar qué ocurre al ingresar un valor en un campo del formulario, redacta la descripción como si completaras la frase: “Cuando ingresas un valor en este campo, …” y comienza con un verbo en presente que describa la acción o efecto inmediato.
 
-| Do ✅ | Don't ❌ |
-| :---- | :---- |
-| <ul><li><p>Label: Seller ID</p><p>Description: Seller identifier in the marketplace that appears to customers in the store</p></li><li><p>Label: Frequency</p><p>Description: Schedule for updates that defines when they will be published</p></li><li><p>Label: Privacy policy</p><p>Description: Declaration of which parties manage customer data that will appear to customers in the store</p></li><li><p>Label: Publish date</p><p>Description: Day in which the changes made will be published considering the time zone where the store is located</p></li></ul> | <ul><li><p>Label: Seller ID</p><p>Description: Fill the seller identifier in the marketplace that will appear to customers in the store</p></li><li><p>Label: Frequency</p><p>Description: Frequency is the schedule for updates that defines when they will be published</p></li><li><p>Label: Privacy policy</p><p>Description: Declaration of which parties manage customer data that will appear to customers in the store</p></li><li><p>Label: Publish date</p><p>Description: When should the changes made be published, considering the time zone where the store is located?</p></li></ul> |
+| Correcto ✅ | Incorrecto ❌ |
+| :--- | :--- |
+| <ul><li><p>Etiqueta: ID de seller</p><p>Descripción: Se muestra a los clientes en la tienda.</p></li><li><p>Etiqueta: Frecuencia</p><p>Descripción: Define cuándo se publicarán las actualizaciones.</p></li><li><p>Etiqueta: Política de privacidad</p><p>Descripción: Se muestra a los clientes en la tienda.</p></li><li><p>Etiqueta: Fecha de publicación</p><p>Descripción: Considera la zona horaria en la que se encuentra la tienda.</p></li></ul> | <ul><li><p>Etiqueta: ID de seller</p><p>Descripción: Cuando ingresas un valor en este campo, se muestra a los clientes en la tienda.</p></li><li><p>Etiqueta: Frecuencia</p><p>Descripción: La frecuencia define cuándo se publicarán las actualizaciones.</p></li><li><p>Etiqueta: Política de privacidad</p><p>Descripción: Esto se muestra a los clientes en la tienda.</p></li><li><p>Etiqueta: Fecha de publicación</p><p>Descripción: Debes tener en cuenta la zona horaria en la que se encuentra la tienda.</p></li></ul> |
+
+Al explicar la etiqueta de un campo de formulario y cómo se utiliza su valor, combina las dos oraciones mencionadas anteriormente y adáptalas según sea necesario.
+
+| Correcto ✅ | Incorrecto ❌ |
+| :--- | :--- |
+| <ul><li><p>Etiqueta: ID de seller</p><p>Descripción: Identificador del seller en el marketplace que se muestra a los clientes en la tienda</p></li><li><p>Etiqueta: Frecuencia</p><p>Descripción: Cronograma de actualizaciones que define cuándo se publicarán</p></li><li><p>Etiqueta: Política de privacidad</p><p>Descripción: Declaración que explica las partes que gestionan los datos de los clientes y que se muestra en la tienda</p></li><li><p>Etiqueta: Fecha de publicación</p><p>Descripción: Fecha en la que se publicarán los cambios realizados, considerando la zona horaria de la tienda.</p></li></ul> | <ul><li><p>Etiqueta: ID de seller</p><p>Descripción: ingresa el identificador del seller en el marketplace que se mostrará a los clientes en la tienda</p></li><li><p>Etiqueta: Frecuencia</p><p>Descripción: La frecuencia es el cronograma de actualizaciones que define cuándo se publicarán.</p></li><li><p>Etiqueta: Política de privacidad</p><p>Descripción: Es una declaración que explica las partes que gestionan los datos de los clientes y que se muestra en la tienda</p></li><li><p>Etiqueta: Fecha de publicación</p><p>Descripción: ¿Cuándo se deben publicar los cambios, teniendo en cuenta la zona horaria en la que se encuentra la tienda?</p></li></ul> |
