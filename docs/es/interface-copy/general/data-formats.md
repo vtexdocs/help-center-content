@@ -112,7 +112,7 @@ Para mostrar tiempo restante (por ejemplo, en promociones o vencimientos), usa a
 | :--- | :--- |
 | <ul><li>2d 5h 30m</li><li>45m 10s</li><li>10s</li></ul> | 2:5:30 |
 
-Para indicar fechas relativas, como la fecha de creación o la última modificación, utiliza expresiones como *Últimos {unidad de tiempo}*.
+Para indicar fechas relativas, como la fecha de creación o la última modificación, utiliza expresiones como *Últimos \{unidad de tiempo\}*.
 
 | Correcto ✅ | Incorrecto❌ |
 | :--- | :--- |
