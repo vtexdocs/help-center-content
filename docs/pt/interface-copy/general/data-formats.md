@@ -188,9 +188,17 @@ Use vírgula entre a cidade e o estado. Se o endereço for escrito em uma única
 
 Para casos especiais, siga as orientações dos [Correios do Brasil](https://www.correios.com.br/para-voce/enderecamento/manual-de-enderecamento-postal). Para endereços de outros países, siga as diretrizes do serviço postal oficial de cada país.
 
-| Correto ✅ | Incorreto ❌ |
-| :--- | :--- |
-| Av. Paulista, 931 – Bela Vista<br>São Paulo, SP<br>01311-000 | Av. Paulista, 931-<br>São Paulo, 01311000 |
+Correto ✅
+```
+Av. Paulista, 931 – Bela Vista
+São Paulo, SP 01311-000
+```
+
+Incorreto ❌
+```
+Av. Paulista, 931- São Paulo,
+01311000
+```
 
 Ao indicar uma localização aproximada, pode-se usar o CEP no formato de oito dígitos, a cidade ou ambos. Se utilizar cidade e CEP juntos, separe-os por vírgula.
 
