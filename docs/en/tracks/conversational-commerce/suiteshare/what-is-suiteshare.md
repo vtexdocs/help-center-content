@@ -13,6 +13,8 @@ locale: en
 trackId: khP0p8mjIYRIpvM7Cb4Zr
 trackSlugEN: suiteshare
 order: 1
+seeAlso:
+  - /en/docs/tutorials/vtex-assisted-sales-suiteshare
 ---
 
 > ⚠️ This content is only available in Portuguese.
