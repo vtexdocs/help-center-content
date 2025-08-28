@@ -157,6 +157,7 @@ jobs:
           path: .navgen.log
           compression-level: 0
           if-no-files-found: warn
+          include-hidden-files: true
 
       - name: Summarize navigation (job summary)
         if: ${{ always() }}
