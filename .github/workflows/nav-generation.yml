@@ -44,7 +44,7 @@ jobs:
         run: |
           set -e
           mkdir -p public
-          LOG=".navgen.log"
+          LOG="${{ github.workspace }}/.navgen.log"
           : > "$LOG"
           EXTRA_ARGS=""
           if [ "${ACT}" = "true" ]; then
@@ -137,7 +137,7 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: navgen-log
-          path: .navgen.log
+          path: ${{ github.workspace }}/.navgen.log
           compression-level: 0
           if-no-files-found: warn
 
@@ -148,7 +148,7 @@ jobs:
         run: |
           set -e
           FILE="public/navigation.json"
-          LOG=".navgen.log"
+          LOG="${{ github.workspace }}/.navgen.log"
           if [ -f "$FILE" ]; then
             BYTES=$(stat -c%s "$FILE" 2>/dev/null || wc -c < "$FILE")
             HUMAN=$(numfmt --to=iec "$BYTES" 2>/dev/null || echo "${BYTES} bytes")
@@ -221,7 +221,7 @@ jobs:
         run: |
           set -e
           FILE="public/navigation.json"
-          LOG=".navgen.log"
+          LOG="${{ github.workspace }}/.navgen.log"
           
           # Get commit info
           COMMIT_SHA="${{ github.event.pull_request.head.sha }}"
