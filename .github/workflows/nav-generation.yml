@@ -136,6 +136,18 @@ jobs:
           compression-level: 0
           if-no-files-found: error
 
+      - name: Debug log file before upload
+        if: ${{ always() }}
+        run: |
+          LOG="${{ github.workspace }}/.navgen.log"
+          echo "Debug: About to upload log file at: $LOG"
+          ls -la "$LOG" || echo "ERROR: Log file does not exist!"
+          echo "Debug: Current working directory: $(pwd)"
+          echo "Debug: Files in workspace root:"
+          ls -la ${{ github.workspace }}/ | head -10
+          echo "Debug: Log file content preview (last 10 lines):"
+          tail -10 "$LOG" 2>/dev/null || echo "ERROR: Cannot read log file"
+
       - name: Upload generation log as artifact
         if: ${{ always() }}
         id: upload_log
