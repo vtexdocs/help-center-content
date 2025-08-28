@@ -1,70 +1,69 @@
 ---
-title: 'Action labels'
-id: ui0004
+title: 'Etiquetas de acción'
+id: ui0004-es
 status: PUBLISHED
-createdAt: 2024-12-05T19:24:22.388Z
-updatedAt: 2024-12-05T19:24:22.388Z
-publishedAt: 2024-12-05T19:24:22.388Z
-firstPublishedAt: 2024-12-05T19:24:22.388Z
+createdAt: 2025-08-28T19:24:22.388Z
+updatedAt: 2025-08-28T19:24:22.388Z
+publishedAt: 2025-08-28T19:24:22.388Z
+firstPublishedAt: 2025-08-28T19:24:22.388Z
 contentType: trackArticle
 productTeam: Localization
-slugEN: action-labels
-locale: en
+slugES: etiquetas-de-accion
+locale: es
 trackId: 5PxyAgZrtiYlaYZBTlhJ2A
-trackSlugEN: action-labels
+trackSlugES: etiquetas-de-accion
 ---
 
-Action labels use up to three words to indicate an action that the user wants or needs to perform. This pattern is often seen in components such as Buttons or Menus.
+Las etiquetas de acción usan hasta tres palabras para indicar una acción que el usuario desea o necesita realizar. Este patrón es común en componentes como botones o menús.
 
 ## General
 
-Keep it as short as possible while still being descriptive enough.
+Mantén la etiqueta lo más corta posible, pero lo suficientemente descriptiva.
 
-| Do ✅ | Don't ❌ |
-| :---- | :---- |
-| Add product | Add new product to catalog |
+| Correcto ✅ | Incorrecto ❌ |
+| :--- | :--- |
+| Agregar producto | Agregar nuevo producto al catálogo |
 
-Use a verb in the infinitive followed by an object.
+Usa un verbo en infinitivo seguido de un objeto.
 
-| Do ✅ | Don't ❌ |
-| :---- | :---- |
-| <ul><li>Create product</li><li>Visit store</li></ul> | <ul><li>New product</li><li>Store</li></ul> |
+| Correcto ✅ | Incorrecto ❌ |
+| :--- | :--- |
+| <ul><li>Crear producto</li><li>Visitar tienda</li></ul> | <ul><li>Nuevo producto</li><li>Tienda</li></ul> |
 
-Reuse labels for the same action. Common labels can be found in the glossary.
+Utiliza etiquetas consistentes para acciones repetidas. Las etiquetas comunes están en el glosario.
 
-| Do ✅ | Don't ❌ |
-| :---- | :---- |
-| <ul><li>Add product</li><li>View details</li><li>Edit</li><li>Rename</li></ul> | <ul><li>Insert product</li><li>See details</li><li>Modify</li><li>Change name</li></ul> |
+| Correcto ✅ | Incorrecto ❌ |
+| :--- | :--- |
+| <ul><li>Agregar producto</li><li>Ver detalles</li><li>Editar</li><li>Renombrar</li></ul> | <ul><li>Insertar producto</li><li>Consultar detalles</li><li>Cambiar</li><li>Nuevo nombre</li></ul> |
 
-Use sentence case but capitalize proper nouns.
+Usa mayúscula solo en la primera palabra, excepto en nombres propios.
 
-| Do ✅ | Don't ❌ |
-| :---- | :---- |
-| Try new experience | Try New Experience |
+| Correcto ✅ | Incorrecto ❌ |
+| :--- | :--- |
+| Probar nueva experiencia | Probar Nueva Experiencia |
 
-Don’t use punctuation or personal pronouns and avoid articles.
+Evita usar puntuación, artículos o pronombres.
 
-| Do ✅ | Don't ❌ |
-| :---- | :---- |
-| <ul><li>Add product</li><li>Preview content</li></ul> | <ul><li>Add a product</li><li>Preview my content</li></ul> |
+| Correcto ✅ | Incorrecto ❌ |
+| :--- | :--- |
+| <ul><li>Agregar producto</li><li>Previsualizar contenido</li></ul> | <ul><li>Agregar un producto</li><li>Previsualizar mi contenido</li></ul> |
 
-## Specific
+## Específico
 
-Use precise labels that reflect the exact action.
+Utiliza etiquetas precisas que reflejen la acción exacta.
 
-| Do ✅ | Don't ❌ |
-| :---- | :---- |
-| <ul><li>Publish</li><li>Rename</li><li>Edit</li><li>Learn more</li></ul> | <ul><li>Confirm</li><li>Edit</li><li>Modify</li><li>Click here</li></ul> |
+| Correcto ✅ | Incorrecto ❌ |
+| :--- | :--- |
+| <ul><li>Publicar</li><li>Renombrar</li><li>Saber más</li></ul> | <ul><li>Confirmar</li><li>Modificar</li><li>Haz clic aquí</li></ul> |
 
-When the context implies a single clear object, remove the object name from the label.
+Si el contexto ya deja claro a qué objeto se refiere la acción, no lo repitas en la etiqueta.
 
-| Do ✅ | Don't ❌ |
-| :---- | :---- |
-| <ul><li>Content label: Product Action</li><li>Action label: Edit</li></ul> | <ul><li>Content label: Product</li><li>Action label: Edit product</li></ul> |
-| <ul><li>Content label: Order</li><li>Action label: Invoice</li></ul> | <ul><li>Content label: Order</li><li>Action label: Invoice order</li></ul> |
+| Correcto ✅ | Incorrecto ❌ |
+| :--- | :--- |
+| <ul><li>Etiqueta de contenido: Producto</li><li>Etiqueta de acción: Editar</li></ul><hr><ul><li>Etiqueta de contenido: Pedido</li><li>Etiqueta de acción: Facturar</li></ul> | <ul><li>Etiqueta de contenido: Producto</li><li>Etiqueta de acción: Editar producto</li></ul><hr><ul><li>Etiqueta de contenido: Pedido</li><li>Etiqueta de acción: Facturar pedido</li></ul> |
 
-When a link is within a paragraph, it's not necessary to modify capitalization or start with a verb.
+Cuando un link está integrado dentro de una oración, formando parte del texto, no es necesario usar mayúscula inicial ni empezar con un verbo, a menos que mencione el título exacto de un artículo.
 
-| Do ✅ | Don't ❌ |
-| :---- | :---- |
-| This metric is only available for stores that [capture navigation data](#). | This metric is only available for stores that [Capture navigation data](#). |
+| Correcto ✅ | Incorrecto ❌ |
+| :--- | :--- |
+| Esta métrica solo está disponible para las tiendas que [capturan datos de navegación](#). Para crear una especificación de SKU con la API Catálogo, sigue la guía para desarrolladores [How to create a specification](#). | Esta métrica solo está disponible para las tiendas que [Capturan datos de navegación](#). Para crear una especificación de SKU con la API Catálogo, sigue la guía para desarrolladores [how to create a specification](#). |

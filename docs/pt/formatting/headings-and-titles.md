@@ -1,82 +1,64 @@
 ---
-title: 'Headings and titles'
-id: formatting0001
+title: 'Cabeçalhos e títulos'
+id: formatting0001-pt
 status: PUBLISHED
-createdAt: 2025-12-11T15:00:00.388Z
-publishedAt: 2025-12-11T15:00:00.388Z
-firstPublishedAt: 2025-12-06T15:00:00.388Z
+createdAt: 2025-08-28T15:00:00.388Z
+publishedAt: 2025-08-28T15:00:00.388Z
+firstPublishedAt: 2025-08-28T15:00:00.388Z
 contentType: trackArticle
 productTeam: Education
-slugEN: headings-and-titles
-locale: en
+slugPT: cabecalhos-e-titulos
+locale: pt
 trackId: 5PxyAgZrtiYlaYZBTlhJ2A
-trackSlugEN: headings-and-titles
+trackSlugPT: cabecalhos-e-titulos
 ---
 
-Headings and titles must be descriptive, as short as possible, and generally convey only one main action.
+Os títulos e cabeçalhos devem ser descritivos, curtos e, em geral, transmitir apenas uma ação principal.
 
-Make the learning objective of the article clear, preferably with only one verb.
+Deixe claro o objetivo do que está sendo abordado no artigo, de preferência usando apenas um verbo.
 
-| Do ✅ | Don't ❌ |
-| :------ |:-------- |
-| Starting a new FastStore project | FastStore project |
+| Correto ✅ | Incorreto ❌ |
+| :--- | :--- |
+| Cadastrar um produto | Cadastro de produto |
 
-When the title or heading starts with a verb, use it in the *-ing* form.
+Em títulos indicando que uma funcionalidade está em beta, use letra maiúscula para a primeira letra.
 
-| Do ✅ | Don't ❌ |
-| :------ |:-------- |
-| Creating a specification group in a category | Create a specification group in a category |
+| Correto ✅ | Incorreto ❌ |
+| :--- | :--- |
+| Capacidade operacional (Beta) | Capacidade operacional (beta) |
 
-In texts where titles are commands for the user, use the imperative.
+Não use o verbo no gerúndio em títulos, como é comum em inglês. Em português, use infinitivo sempre que possível.
 
-| Do ✅ | Don't ❌ |
-| :------ | :-------- |
-| <ul><li>Create a specification group in a category</li><li>Install the VTEX IO CLI on your machine</li></ul> | <ul><li>Cloning the repository created</li><li>Installing the VTEX IO CLI on your machine</li></ul> |
+| Correto ✅ | Incorreto ❌ |
+| :--- | :--- |
+| Criar tabela de preços promocionais | Criando tabela de preços promocionais |
 
-Use sentence case, except with proper nouns.
+Use letra maiúscula somente na primeira palavra do título, exceto com nomes próprios.
 
-| Do ✅ | Don't ❌ |
-| :------ | :-------- |
-| <ul><li>Setting up the Notify me option</li><li>Configuring Price Divergence rule</li><li>Order flow and status</li></ul> | <ul><li>Setting up the notify me option</li><li>Configuring Price Divergence Rule</li><li>Order Flow and Status</li></ul> |
+| Correto ✅ | Incorreto ❌ |
+| :--- | :--- |
+| <ul><li>Como faturar um pedido</li><li>Filtrar dados no Master Data</li><li>Lista de Regras de merchandising</li></ul> | <ul><li>Como faturar um Pedido</li><li>Filtrar dados no master data</li><li>Lista de regras de merchandising</li></ul> |
 
-Do not use a full stop ( `.` ), bold, interrogation and exclamation marks, or italic.
+Não use ponto final ( . ), nem itálico ou negrito.
 
-| Do ✅ | Don't ❌ |
-| :------ | :-------- |
-| <ul><li>Managing shipping rates</li><li>Creating synonyms</li><li>Events available in Audit</li></ul> | <ul><li>Managing shipping rates.</li><li>Creating *synonyms*</li><li>Events available in **Audit**</li></ul> |
+| Correto ✅ | Incorreto ❌ |
+| :--- | :--- |
+| Gerenciar cabeçalhos HTTP | Gerenciar cabeçalhos HTTP. |
 
-An interrogation mark (`?`) can be used in FAQs and Announcements.
+Use ponto de interrogação somente quando o documento for uma FAQ.
 
-| Do ✅ | Don't ❌ |
-| :------ | :-------- |
-| <ul><li>How does promotion proration work?</li><li>What needs to be done?</li></ul> | <ul><li>How does promotion proration work</li><li>What needs to be done</li></ul> |
+| Correto ✅ | Incorreto ❌ |
+| :--- | :--- |
+| Posso ter mais de uma assinatura na minha loja? | Quero saber se posso ter mais de uma assinatura na minha loja. |
 
-When using an abbreviation or acronym in a heading or title, spell out the abbreviation in the first paragraph that follows the heading or title.
+Ao usar uma abreviação em um título ou cabeçalho, escreva-a por extenso no primeiro parágrafo que segue o título ou cabeçalho.
 
-| Do ✅ | Don't ❌ |
-| :------ | :-------- |
-| <p><b>Configuring SEO in your Store Framework store</b></p><p>SEO (Search Engine Optimization) is one of the most important strategies to better position your site on organic search engine results pages.</p> | <p><b>Configuring SEO in your Store Framework store</b></p><p>SEO is one of the most important strategies to better position your site on organic search engine results pages.</p> |
+| Correto ✅ | Incorreto ❌ |
+| :--- | :--- |
+| <p><b>Configurando SEO em sua loja Store Framework</b></p><p>O SEO (Search Engine Optimization) é uma das mais importantes estratégias para que seu site alcance bons posicionamentos orgânicos nas páginas de resultados dos motores de busca.</p> | <p><b>Configurando SEO em sua loja Store Framework</b></p><p>O SEO é uma das mais importantes estratégias para que seu site alcance bons posicionos orgânicos nas páginas de resultados dos motores de busca.</p> |
 
-Do not use highlight expressions and generic words, such as *attention*, *details*, *important observations,* and *examples.*
+Se o seu título incluir dois-pontos ( : ), a primeira palavras que o seguir deve começar com letra minúscula.
 
-| Do ✅ | Don't ❌ |
-| ------ |-------- |
-| Site Editor schema examples | Examples |
-
-If your title includes a colon (`:`), treat the two parts of your title as one sentence each, meaning both parts will be capitalized using a sentence case.
-
-| Do ✅ | Don't ❌ |
-| ------ |-------- |
-| VTEX Intelligent Search: New visual editor for Merchandising Rules | VTEX Intelligent Search: new visual editor for Merchandising Rules |
-
-When listing section headings, use the infinitive.
-
-| Do ✅ | Don't ❌ |
-| ------ |-------- |
-| In this article, you will learn to: <ol><li>Create a seller</li><li>Edit a seller</li></ol> | In this article, you will learn to: <ol><li>Creating a seller</li><li>Editing a seller</li></ol> |
-
-In the actual heading, use `-ing`.
-
-| Do ✅ | Don't ❌ |
-| ------ |-------- |
-| <ul><li>Creating a seller</li><li>Editing a seller</li></ul> | <ul><li>Create a seller</li><li>Edit a seller</li></ul> |
+| Correto ✅ | Incorreto ❌ |
+| :--- | :--- |
+| VTEX Intelligent Search: novo editor visual de Regras de merchandising | VTEX Intelligent Search: Novo editor visual de Regras de merchandising |

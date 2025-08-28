@@ -1,45 +1,45 @@
 ---
-title: 'Placeholder texts'
-id: ui0007
+title: 'Textos de marcador de posición'
+id: ui0007-es
 status: PUBLISHED
-createdAt: 2024-12-06T19:24:22.388Z
-updatedAt: 2024-12-06T19:24:22.388Z
-publishedAt: 2024-12-06T19:24:22.388Z
-firstPublishedAt: 2024-12-06T19:24:22.388Z
+createdAt: 2025-08-28T19:24:22.388Z
+updatedAt: 2025-08-28T19:24:22.388Z
+publishedAt: 2025-08-28T19:24:22.388Z
+firstPublishedAt: 2025-08-28T19:24:22.388Z
 contentType: trackArticle
 productTeam: Localization
-slugEN: placeholder-texts
-locale: en
+slugES: textos-de-marcador-de-posicion
+locale: es
 trackId: 5PxyAgZrtiYlaYZBTlhJ2A
-trackSlugEN: placeholder-texts
+trackSlugES: textos-de-marcador-de-posicion
 ---
 
-Placeholder texts use a single sentence to guide the user on how to interact with a form field before any value is entered. This pattern is commonly found in components like Search and Select fields.
+El texto de marcador de posición (placeholder) es una frase breve que orienta al usuario sobre cómo completar un campo de formulario antes de ingresar un valor. Este patrón es común en componentes como campos de búsqueda o selección.
 
 ## General
 
-Avoid custom placeholder text. The user should intuitively know what information to enter.
+No personalices los textos de marcadores de posición. El usuario debe entender de forma intuitiva qué tipo de información debe ingresar.
 
-| Do ✅ | Don't ❌ |
-| :---- | :---- |
-| <ul><li>Search</li><li>Select…</li></ul> | <ul><li>Search by name</li><li>Select an option...</li></ul> |
+| Correcto ✅ | Incorrecto ❌ |
+| :--- | :--- |
+| <ul><li>Buscar</li><li>Selecciona…</li></ul> | <ul><li>Buscar por nombre</li><li>Selecciona una opción...</li></ul> |
 
-Don't include redundant words.
+No incluyas palabras redundantes.
 
-| Do ✅ | Don't ❌ |
-| :---- | :---- |
-| <ul><li><p>Page title: Products</p><p>Field placeholder: Search by category or ID</p></li><li><p>Field label: Category</p><p>Field placeholder: Select…</p></li></ul> | <ul><li><p>Page title: Products</p><p>Field placeholder: Search by product category or product ID</p></li><li><p>Field label: Category</p><p>Field placeholder: Select a category…</p></li></ul> |
+| Correcto ✅ | Incorrecto ❌ |
+| :--- | :--- |
+| <ul><li><p>Título de la página: Productos</p><p>Marcador de posición: Buscar por categoría o ID</p></li><li><p>Etiqueta: Categoría</p><p>Marcador de posición: Seleccionar…</p></li></ul> | <ul><li><p>Título de la página: Productos</p><p>Marcador de posición: Buscar por categoría de producto o ID de producto</p></li><li><p>Etiqueta: Categoría</p><p>Marcador de posición: Selecciona una categoría…</p></li></ul> |
 
-Write at most 36 characters.
+Usa como máximo 36 caracteres.
 
-| Do ✅ | Don't ❌ |
-| :---- | :---- |
-| Search by name, ID, or ref ID | Search by name, category, description, ID, or ref ID |
+| Correcto ✅ | Incorrecto ❌ |
+| :--- | :--- |
+| Buscar por nombre, ID o ID de ref. | Buscar por nombre, categoría, descripción, ID, o ID de referencia |
 
-## Specific
+## Específico
 
-When writing the placeholder text of a Select field, include an ellipsis at the end.
+El marcador de posición de un campo de selección siempre debe llevar puntos suspensivos al final.
 
-| Do ✅ | Don't ❌ |
-| :---- | :---- |
-| Select… | Select |
+| Correcto ✅ | Incorrecto ❌ |
+| :--- | :--- |
+| Seleccionar… | Seleccionar |

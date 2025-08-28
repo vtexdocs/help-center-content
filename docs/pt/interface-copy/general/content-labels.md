@@ -1,66 +1,66 @@
 ---
-title: 'Content labels'
-id: ui0008
+title: 'Labels de conteúdo'
+id: ui0008-pt
 status: PUBLISHED
-createdAt: 2024-12-06T19:24:22.388Z
-updatedAt: 2024-12-06T19:24:22.388Z
-publishedAt: 2024-12-06T19:24:22.388Z
-firstPublishedAt: 2024-12-06T19:24:22.388Z
+createdAt: 2025-08-28T19:24:22.388Z
+updatedAt: 2025-08-28T19:24:22.388Z
+publishedAt: 2025-08-28T19:24:22.388Z
+firstPublishedAt: 2025-08-28T19:24:22.388Z
 contentType: trackArticle
 productTeam: Localization
-slugEN: content-labels
-locale: en
+slugPT: labels-de-conteudo
+locale: pt
 trackId: 5PxyAgZrtiYlaYZBTlhJ2A
-trackSlugEN: content-labels
+trackSlugPT: labels-de-conteudo
 ---
 
-Content labels consist of up to three words to identify data properties and values. This pattern is typically found in components like Inputs or Tables.
+As labels de conteúdo usam até três palavras para identificar propriedades e valores de dados. Esse padrão é usado com frequência em componentes como campos de texto ou tabelas.
 
-Keep it as short as possible while still being descriptive enough.
+Mantenha o texto o mais curto possível, mas suficientemente descritivo.
 
-| Do ✅ | Don't ❌ |
-| :---- | :---- |
-| Payment pending | Waiting for payment |
+| Correto ✅ | Incorreto ❌ |
+| :--- | :--- |
+| Pagamento pendente | Aguardando pelo pagamento |
 
-Reuse labels for the same property. Existing labels can be found in the glossary.
+Use labels de forma consistente para a mesma propriedade. As labels existentes podem ser encontradas no glossário.
 
-| Do ✅ | Don't ❌ |
-| :---- | :---- |
-| <ul><li>Name</li><li>ID</li><li>Tags</li></ul> | <ul><li>Title</li><li>Identification</li><li>Labels</li></ul> |
+| Correto ✅ | Incorreto ❌ |
+| :--- | :--- |
+| <ul><li>Nome</li><li>ID</li><li>Tags</li></ul> | <ul><li>Título</li><li>Identificação</li><li>Etiquetas</li></ul> |
 
-Don't include redundant words already mentioned in the context.
+Não use palavras já mencionadas no contexto para evitar redundância.
 
-| Do ✅ | Don't ❌ |
-| :---- | :---- |
-| <ul><li>Page title: Promotions</li><li>Label: Name</li></ul> | <ul><li>Page title: Promotion</li><li>Field label: Promotion name</li></ul> |
-| <ul><li>Page title: Products</li><li>Label: Status</li></ul> | <ul><li>Page title: Products</li><li>Label: Product status</li></ul> |
+| Correto ✅ | Incorreto ❌ |
+| :--- | :--- |
+| <ul><li>Título da página: Promoções</li><li>Label: Nome</li></ul> | <ul><li>Título da página: Promoção</li><li>Label: Nome da promoção</li></ul> |
+| <ul><li>Título da página: Produtos</li><li>Label: Status</li></ul> | <ul><li>Título da página: Produtos</li><li>Label: Status do produto</li></ul> |
 
-Use sentence case, but capitalize proper nouns.
+Use letra maiúscula somente na primeira letra da frase e em nomes próprios.
 
-| Do ✅ | Don't ❌ |
-| :---- | :---- |
-| <ul><li>Publish date</li><li>Email address</li><li>VTEX Seller</li></ul> | <ul><li>Publish Date</li><li>EMAIL ADDRESS</li><li>Vtex Seller</li></ul> |
+| Correto ✅ | Incorreto ❌ |
+| :--- | :--- |
+| <ul><li>Data de publicação</li><li>Email</li><li>Seller VTEX</li></ul> | <ul><li>Data de publicação</li><li>EMAIL</li><li>Seller Vtex</li></ul> |
 
-Don’t use verbs.
+Não use verbos.
 
-| Do ✅ | Don't ❌ |
-| :---- | :---- |
-| <ul><li>Name</li><li>Status</li></ul> | <ul><li>Enter the name</li><li>Select status</li></ul> |
+| Correto ✅ | Incorreto ❌ |
+| :--- | :--- |
+| <ul><li>Nome</li><li>Status</li></ul> | <ul><li>Informe o nome</li><li>Selecionar status</li></ul> |
 
-Don't use personal pronouns.
+Não use pronomes pessoais.
 
-| Do ✅ | Don't ❌ |
-| :---- | :---- |
-| <ul><li>VTEX account</li><li>Personal email</li></ul> | <ul><li>My VTEX account</li><li>My email</li></ul> |
+| Correto ✅ | Incorreto ❌ |
+| :--- | :--- |
+| <ul><li>Conta VTEX</li><li>Email pessoal</li></ul> | <ul><li>Minha conta VTEX</li><li>Meu e-mail</li></ul> |
 
-Don't include negative words.
+Não inclua palavras negativas.
 
-| Do ✅ | Don't ❌ |
-| :---- | :---- |
-| More than 6 months | Not in the last 6 months |
+| Correto ✅ | Incorreto ❌ |
+| :--- | :--- |
+| Mais de 6 meses | Não nos últimos 6 meses |
 
-Don't use punctuation, separators, periods, commas, interrogations.
+Não use pontuação, separadores, pontos, vírgulas, interrogações.
 
-| Do ✅ | Don't ❌ |
-| :---- | :---- |
-| Active | Status: active. |
+| Correto ✅ | Incorreto ❌ |
+| :--- | :--- |
+| Ativo | Status: ativo. |

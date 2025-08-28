@@ -1,82 +1,76 @@
 ---
-title: 'Headings and titles'
-id: formatting0001
+title: 'Encabezados y títulos'
+id: formatting0001-es
 status: PUBLISHED
-createdAt: 2025-12-11T15:00:00.388Z
-publishedAt: 2025-12-11T15:00:00.388Z
-firstPublishedAt: 2025-12-06T15:00:00.388Z
+createdAt: 2025-08-28T15:00:00.388Z
+publishedAt: 2025-08-28T15:00:00.388Z
+firstPublishedAt: 2025-08-28T15:00:00.388Z
 contentType: trackArticle
 productTeam: Education
-slugEN: headings-and-titles
-locale: en
+slugES: encabezados-y-titulos
+locale: es
 trackId: 5PxyAgZrtiYlaYZBTlhJ2A
-trackSlugEN: headings-and-titles
+trackSlugES: encabezados-y-titulos
 ---
 
-Headings and titles must be descriptive, as short as possible, and generally convey only one main action.
+Los encabezados y títulos deben ser descriptivos, lo más breves posible y, en general, transmitir solo una acción principal.
 
-Make the learning objective of the article clear, preferably with only one verb.
+Define el objetivo de aprendizaje del artículo de forma clara, preferiblemente con un único verbo.
 
-| Do ✅ | Don't ❌ |
-| :------ |:-------- |
-| Starting a new FastStore project | FastStore project |
+| Correcto ✅ | Incorrecto ❌ |
+| :--- | :--- |
+| Cómo funciona la competencia de promociones | Competencia de promociones |
 
-When the title or heading starts with a verb, use it in the *-ing* form.
+Cuando el título o encabezado comience con un verbo, debe estar en infinitivo.
 
-| Do ✅ | Don't ❌ |
-| :------ |:-------- |
-| Creating a specification group in a category | Create a specification group in a category |
+| Correcto ✅ | Incorrecto ❌ |
+| :--- | :--- |
+| Crear grupo de especificaciones en una categoría | Creando un grupo de especificaciones en una categoría |
 
-In texts where titles are commands for the user, use the imperative.
+En textos donde los títulos sean instrucciones para el usuario, utiliza el imperativo.
 
-| Do ✅ | Don't ❌ |
-| :------ | :-------- |
-| <ul><li>Create a specification group in a category</li><li>Install the VTEX IO CLI on your machine</li></ul> | <ul><li>Cloning the repository created</li><li>Installing the VTEX IO CLI on your machine</li></ul> |
+| Correcto ✅ | Incorrecto ❌ |
+| :--- | :--- |
+| <ul><li>Clona el repositorio creado</li><li>Instala VTEX IO CLI en tu máquina</li></ul> | <ul><li>Clonar el repositorio creado</li><li>Instalar VTEX IO CLI en tu computadora</li></ul> |
 
-Use sentence case, except with proper nouns.
+Escribe todas las palabras con minúscula, excepto la mayúscula inicial y nombres propios.
 
-| Do ✅ | Don't ❌ |
-| :------ | :-------- |
-| <ul><li>Setting up the Notify me option</li><li>Configuring Price Divergence rule</li><li>Order flow and status</li></ul> | <ul><li>Setting up the notify me option</li><li>Configuring Price Divergence Rule</li><li>Order Flow and Status</li></ul> |
+| Correcto ✅ | Incorrecto ❌ |
+| :--- | :--- |
+| <ul><li>Comprobar errores o problemas en una transacción</li><li>Filtrar transacciones en la sección de Pedidos</li></ul> | <ul><li>Comprobar Errores o Problemas en una Transacción</li><li>Filtrar Transacciones en la Sección de Pedidos</li></ul> |
 
-Do not use a full stop ( `.` ), bold, interrogation and exclamation marks, or italic.
+No utilices un punto ( . ), negrita o cursiva.
 
-| Do ✅ | Don't ❌ |
-| :------ | :-------- |
-| <ul><li>Managing shipping rates</li><li>Creating synonyms</li><li>Events available in Audit</li></ul> | <ul><li>Managing shipping rates.</li><li>Creating *synonyms*</li><li>Events available in **Audit**</li></ul> |
+| Correcto ✅ | Incorrecto ❌ |
+| :--- | :--- |
+| <ul><li>Gestión de tarifas de envío</li><li>Crear sinónimos</li><li>Eventos disponibles en Audit</li></ul> | <ul><li>Gestión de tarifas de envío.</li><li>Crear *sinónimos*</li><li>Eventos disponibles en **Audit**</li></ul> |
 
-An interrogation mark (`?`) can be used in FAQs and Announcements.
+Puedes utilizar signos de interrogación (¿?) en preguntas frecuentes y anuncios.
 
-| Do ✅ | Don't ❌ |
-| :------ | :-------- |
-| <ul><li>How does promotion proration work?</li><li>What needs to be done?</li></ul> | <ul><li>How does promotion proration work</li><li>What needs to be done</li></ul> |
+| Correcto ✅ | Incorrecto ❌ |
+| :--- | :--- |
+| <ul><li>¿Cuántas políticas comerciales pueden usarse en VTEX Sales App?</li><li>¿Qué se necesita hacer?</li></ul> | <ul><li>Políticas comerciales que pueden usarse en VTEX Sales App</li><li>Qué se necesita hacer:</li></ul> |
 
-When using an abbreviation or acronym in a heading or title, spell out the abbreviation in the first paragraph that follows the heading or title.
+Si usas una abreviatura en un título o encabezado, escribe su forma completa la primera vez que aparezca en el texto que le sigue.
 
-| Do ✅ | Don't ❌ |
-| :------ | :-------- |
-| <p><b>Configuring SEO in your Store Framework store</b></p><p>SEO (Search Engine Optimization) is one of the most important strategies to better position your site on organic search engine results pages.</p> | <p><b>Configuring SEO in your Store Framework store</b></p><p>SEO is one of the most important strategies to better position your site on organic search engine results pages.</p> |
+| Correcto ✅ | Incorrecto ❌ |
+| :--- | :--- |
+| <p><b>Configurar SEO en la tienda Store Framework</b></p><p>SEO (Search Engine Optimization) es una de las estrategias más importantes para que tu sitio web logre un buen posicionamiento orgánico en las páginas de resultados de los motores de búsqueda.</p> | <p><b>Configurar SEO en la tienda Store Framework</b></p><p>SEO es una de las estrategias más importantes para que tu sitio web logre un buen posicionamiento orgánico en las páginas de resultados de los motores de búsqueda.</p> |
 
-Do not use highlight expressions and generic words, such as *attention*, *details*, *important observations,* and *examples.*
+Si el título incluye dos puntos (:), la primera palabra que le sigue debe comenzar con una letra minúscula.
 
-| Do ✅ | Don't ❌ |
-| ------ |-------- |
-| Site Editor schema examples | Examples |
+| Correcto ✅ | Incorrecto ❌ |
+| :--- | :--- |
+| VTEX Intelligent Search: nuevo editor visual de Reglas de merchandising | VTEX Intelligent Search: Nuevo editor visual de Reglas de merchandising |
 
-If your title includes a colon (`:`), treat the two parts of your title as one sentence each, meaning both parts will be capitalized using a sentence case.
+No utilices expresiones destacadas ni palabras genéricas, como *atención, detalles, observaciones importantes* y *ejemplos.*
 
-| Do ✅ | Don't ❌ |
-| ------ |-------- |
-| VTEX Intelligent Search: New visual editor for Merchandising Rules | VTEX Intelligent Search: new visual editor for Merchandising Rules |
+| Correcto ✅ | Incorrecto ❌ |
+| :--- | :--- |
+| Ejemplos de Site Editor schema | Ejemplos |
 
-When listing section headings, use the infinitive.
+Al enumerar los títulos de las secciones, utiliza el infinitivo.
 
-| Do ✅ | Don't ❌ |
-| ------ |-------- |
-| In this article, you will learn to: <ol><li>Create a seller</li><li>Edit a seller</li></ol> | In this article, you will learn to: <ol><li>Creating a seller</li><li>Editing a seller</li></ol> |
-
-In the actual heading, use `-ing`.
-
-| Do ✅ | Don't ❌ |
-| ------ |-------- |
-| <ul><li>Creating a seller</li><li>Editing a seller</li></ul> | <ul><li>Create a seller</li><li>Edit a seller</li></ul> |
+| Correcto ✅ | Incorrecto ❌ |
+| :--- | :--- |
+| En este artículo, aprenderás a: <ol><li>Crear sellers</li><li>Editar sellers</li></ol> | En este artículo, aprenderá a: <ol><li>Creación de sellers</li><li>Edición de sellers</li></ol> |
