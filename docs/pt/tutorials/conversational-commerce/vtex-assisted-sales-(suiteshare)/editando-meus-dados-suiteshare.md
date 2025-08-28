@@ -13,6 +13,8 @@ slugEN: editing-my-data-suiteshare
 legacySlug: editando-meus-dados-suiteshare
 locale: pt
 subcategoryId: 4y4ylvqceE6vVqEF8IWZix
+seeAlso:
+  - "/pt/docs/tracks/suiteshare"
 ---
 
 Para editar os dados de acesso, você deve acessar _**Configurações > Minha conta**_. 
