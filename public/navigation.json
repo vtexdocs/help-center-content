@@ -5251,51 +5251,6 @@
             },
             {
               "name": {
-                "en": "Why was my ad on Mercado Livre paused?",
-                "es": "¿Por qué mi anuncio fue pausado en Mercado Libre?",
-                "pt": "Por que meu anúncio foi pausado no Mercado Livre?"
-              },
-              "slug": {
-                "en": "why-was-my-ad-paused-in-mercado-libre",
-                "es": "por-que-mi-anuncio-fue-pausado-en-mercado-libre",
-                "pt": "por-que-meu-anuncio-foi-pausado-no-mercado-livre"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Why was my order cancelled in VTEX, and not in the marketplace?",
-                "es": "¿Por qué el pedido fue cancelado en la VTEX y no en el marketplace?",
-                "pt": "Por que meu pedido foi cancelado na VTEX e não no marketplace?"
-              },
-              "slug": {
-                "en": "why-was-my-order-cancelled-in-vtex-and-not-in-the-marketplace",
-                "es": "por-que-el-pedido-fue-cancelado-en-la-vtex-e-no-en-el-marketplace",
-                "pt": "por-que-meu-pedido-foi-cancelado-na-vtex-e-nao-no-marketplace"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Why wasn’t the price sent to the marketplace?",
-                "es": "¿Por qué el precio no fue integrado con el marketplace?",
-                "pt": "Por que o preço não foi enviado para o marketplace?"
-              },
-              "slug": {
-                "en": "why-wasnt-the-price-sent-to-the-marketplace",
-                "es": "por-que-el-precio-no-fue-integrado-con-el-marketplace",
-                "pt": "por-que-o-preco-nao-foi-enviado-para-o-marketplace"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Why were products not sent to the marketplace?",
                 "es": "¿Por qué los productos no fueron enviados para el marketplace?",
                 "pt": "Por que os produtos não foram enviados para o marketplace?"
@@ -5929,21 +5884,6 @@
             },
             {
               "name": {
-                "en": "Why isn’t my product indexed?",
-                "es": "¿Por qué el producto no indexa?",
-                "pt": "Por que o produto não indexa?"
-              },
-              "slug": {
-                "en": "why-isnt-my-product-indexed",
-                "es": "por-que-el-producto-no-indexa",
-                "pt": "por-que-o-produto-nao-indexa"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Why isn't the price table displayed to the customer?",
                 "es": "¿Por qué la tabla de precios no aparece para el cliente?",
                 "pt": "Por que a tabela de preços não aparece para o cliente?"
@@ -6201,21 +6141,6 @@
             },
             {
               "name": {
-                "en": "Order is locked in \"Ready for Handling\", what should I do?",
-                "es": "Pedido está trabado en \"Listo para preparación\", ¿qué se hace?",
-                "pt": "Pedido está travado em \"Pronto para manuseio\", o que fazer?"
-              },
-              "slug": {
-                "en": "order-is-locked-in-ready-for-handling-what-should-i-do",
-                "es": "pedido-esta-trabado-en-listo-para-preparacion-que-se-hace",
-                "pt": "pedido-esta-travado-em-pronto-para-manuseio-o-que-fazer"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Some gateway affiliations are highlighted in yellow. Why?",
                 "es": "¿Por qué quedan amarillas  algunas afiliaciones de gateways?",
                 "pt": "Por que algumas afiliações de gateway ficam marcadas em amarelo?"
@@ -6426,21 +6351,6 @@
             },
             {
               "name": {
-                "en": "Why don't I receive VTEX emails?",
-                "es": "¿Por qué no recibo los correos electrónicos de VTEX?",
-                "pt": "Por que não recebo os emails da VTEX?"
-              },
-              "slug": {
-                "en": "why-dont-i-receive-vtex-emails",
-                "es": "por-que-no-recibo-los-correos-electronicos-de-vtex",
-                "pt": "por-que-nao-recebo-os-e-mails-da-vtex"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Why has my order stopped on “Ready for Handling”?",
                 "es": "¿Por qué está mi pedido parado en  \"Listo para preparar\"?",
                 "pt": "Por que meu pedido está parado em \"Preparando entrega\"?"
@@ -6471,21 +6381,6 @@
             },
             {
               "name": {
-                "en": "Why is my inventory negative?",
-                "es": "¿Por qué mi inventario está negativo?",
-                "pt": "Por que meu estoque está negativo?"
-              },
-              "slug": {
-                "en": "why-is-my-stock-negative",
-                "es": "por-que-mi-inventario-esta-negativo",
-                "pt": "por-que-meu-estoque-esta-negativo"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Why is my order with available stock failing in Orders module?",
                 "es": "¿Por qué mi pedido con stock disponible está dando error en el módulo Pedidos?",
                 "pt": "Por que meu pedido com estoque disponível está dando erro no módulo Pedidos?"
@@ -6509,21 +6404,6 @@
                 "en": "why-was-my-canceled-order-charged-in-the-client-invoice",
                 "es": "por-que-se-cobro-en-la-factura-del-cliente-mi-pedido-cancelado",
                 "pt": "por-que-meu-pedido-cancelado-foi-cobrado-na-fatura-do-cliente"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Why was my order canceled?",
-                "es": "Por qué un pedido fue cancelado?",
-                "pt": "Por que meu pedido foi cancelado?"
-              },
-              "slug": {
-                "en": "why-was-my-order-canceled",
-                "es": "por-que-un-pedido-fue-cancelado",
-                "pt": "por-que-meu-pedido-foi-cancelado"
               },
               "origin": "",
               "type": "markdown",
