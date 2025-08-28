@@ -3,17 +3,22 @@ title: "Why don't marketplace orders integrate with my store?"
 id: 275YvF8dyry5KmfY9epoET
 status: PUBLISHED
 createdAt: 2024-06-21T14:24:48.621Z
-updatedAt: 2024-11-08T18:32:01.935Z
-publishedAt: 2024-11-08T18:32:01.935Z
+updatedAt: 2025-07-31T17:28:33.906Z
+publishedAt: 2025-07-31T17:28:33.906Z
 firstPublishedAt: 2024-06-21T14:48:49.434Z
 contentType: tutorial
 productTeam: Others
 author: 2p7evLfTcDrhc5qtrzbLWD
 slugEN: why-dont-marketplace-orders-integrate-with-my-store
-locale: en
 legacySlug: why-dont-marketplace-orders-integrate-with-my-store
+locale: en
 subcategoryId: 2LcLWCYaEm5qPmOuYUiKIS
-tags: Orders, Marketplace, Integration, SKU, Inventory
+tags:
+  - Orders
+  - Marketplace
+  - Integration
+  - SKU
+  - Inventory
 ---
 
 When order integration errors occur between a marketplace and your store, messages are displayed on the page of each order with the error. The possible order integration errors are the following:  

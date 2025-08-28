@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slugEN: welcome-message-control
-locale: en
 legacySlug: welcome-message-control
+locale: en
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
@@ -47,7 +47,7 @@ Here is an example of the code rendered by this control:
 	    Bem-vindo!
 	    <em><a id="login">Já é cadastrado?
 	    </a></em>
-	    </p>
+	    
 	</div>
 </div>
 ```

@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_41
 slugEN: how-to-capture-the-ip-of-an-order
-locale: en
 legacySlug: how-to-capture-the-ip-of-an-order
+locale: en
 subcategoryId: 3Gdgj9qfu8mO0c0S4Ukmsu
 ---
 
@@ -33,10 +33,10 @@ See more details on [How to visualize the order detail](/en/tutorial/how-to-view
 
 To capture the IP by integration, it is possible to check the API Get Order with the orderID.
 
->ℹ️ [See documentation of API OMS](https://developers.vtex.com/reference/orders#getorder)
+> ℹ️ [See documentation of API OMS](https://developers.vtex.com/reference/orders#getorder)
 
 Once the Order Json is obtained, it is possible to capture the `transactionId` and check the API **Get Transaction Details** with the transaction ID.
 
->ℹ️ [See documentation of API Transaction](https://developers.vtex.com/reference/transaction-process#transactiondetails)
+> ℹ️ [See documentation of API Transaction](https://developers.vtex.com/reference/transaction-process#transactiondetails)
 
 Finally, from this last call it is possible to check the `ipAddress` field.

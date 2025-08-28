@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 7FpKZ0rc6k4WqeymES80cw
 slugEN: deleting-a-category
-locale: en
 legacySlug: deleting-a-category
+locale: en
 subcategoryId: 1E7tziZCkY4w8i4EmUuwec
 ---
 
@@ -37,7 +37,7 @@ Another option is to [empty the catalog](https://help.vtex.com/en/tutorial/enten
 2. Click on `Delete Products and SKUs`. Warning: your products, SKUs, and related items will be permanently removed from your store.
 3. Then click on `Delete Categories and brands`. Warning: your categories, tags, fields, and related items will be permanently removed from your store.
 
->⚠️ For security reasons, only the [Sponsor user](https://help.vtex.com/en/tutorial/o-que-e-o-usuario-master--3oPr7YuIkEYqUGmEqIMSEy) of the account has access to the database cleaning feature. If another user tries to access this page, all buttons will be disabled.
+> ⚠️ For security reasons, only the [Sponsor user](https://help.vtex.com/en/tutorial/o-que-e-o-usuario-master--3oPr7YuIkEYqUGmEqIMSEy) of the account has access to the database cleaning feature. If another user tries to access this page, all buttons will be disabled.
 
 ### Related articles
 - [Adding a category](/en/tutorial/registering-a-category)

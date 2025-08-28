@@ -3,15 +3,15 @@ title: 'Adding a seller'
 id: tutorials_392
 status: PUBLISHED
 createdAt: 2017-04-27T22:07:15.357Z
-updatedAt: 2023-04-17T22:11:37.326Z
-publishedAt: 2023-04-17T22:11:37.326Z
+updatedAt: 2025-01-06T15:48:19.897Z
+publishedAt: 2025-01-06T15:48:19.897Z
 firstPublishedAt: 2017-04-27T23:03:22.826Z
 contentType: tutorial
 productTeam: Channels
-author: authors_3
+author: 2p7evLfTcDrhc5qtrzbLWD
 slugEN: adding-a-seller
-locale: en
 legacySlug: configuring-the-seller
+locale: en
 subcategoryId: 2xWRgEIlR2ookieEmm4KQu
 ---
 
@@ -21,9 +21,9 @@ subcategoryId: 2xWRgEIlR2ookieEmm4KQu
 
 To add an unidentifiable seller, aka [white label seller](https://help.vtex.com/en/tutorial/definicoes-de-conta-franquia-e-seller-white-label--5orlGHyDHGAYciQ64oEgKa), this model must be provided for in your contract with VTEX. In case you need to make changes to your contract, please contact your VTEX sales representative and submit a request to [add a franchise account](https://help.vtex.com/en/tutorial/o-que-e-conta-franquia--kWQC6RkFSCUFGgY5gSjdl) through our Support. Every franchise account is created as a white label seller. It is not possible to change the seller type after its creation. 
 
->ℹ️ If you want to find new partners to sell in your marketplace, use the __Find sellers__, which facilitates the identification and the communication between marketplaces and sellers operating in the VTEX ecosystem, as well as certified partners.
+> ℹ️ If you want to find new partners to sell in your marketplace, use the **Find sellers,** which facilitates the identification and the communication between marketplaces and sellers operating in the VTEX ecosystem, as well as certified partners.
 
-1. In your VTEX Admin, go to _MARKETPLACE > Management_.    
+1. In your VTEX Admin, go to **Marketplace > Management.**    
 2. Click `Add Seller`.      
 3. Choose an integration type between the **VTEX Seller** and the **External Seller**.    
 4. Complete the fields, as described below.     
@@ -66,7 +66,7 @@ To add an unidentifiable seller, aka [white label seller](https://help.vtex.com/
 - **Exchanges and returns**: Text describing the exchange and return policy previously agreed upon by the marketplace and the seller.  
 - **Privacy and security policy**: Text describing the security policy previously agreed upon by the marketplace and the seller.  
 
->ℹ️ In the new version of the page, released on 2022, we have removed the Catalog Endpoint field from the screen, as it is no longer needed for integration with new sellers. If necessary, it is still possible to manage the fields via API.
+> ℹ️ In the new version of the page, released on 2022, we have removed the Catalog Endpoint field from the screen, as it is no longer needed for integration with new sellers. If necessary, it is still possible to manage the fields via API.
 
 Once you have filled out the form and clicked **Save**, your seller will be added to the marketplace. To complete your store's configuration as a marketplace, you must also [map brands, categories, and specifications from the seller's catalog](https://help.vtex.com/en/tutorial/mapeando-categorias-e-marcas-para-marketplace/) and [approve the ads added](https://help.vtex.com/en/tutorial/sugerindo-e-aprovando-skus/).
 

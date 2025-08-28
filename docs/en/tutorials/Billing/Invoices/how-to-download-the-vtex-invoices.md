@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Billing
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slugEN: how-to-download-the-vtex-invoices
-locale: en
 legacySlug: how-to-download-vtex-payment-slips-and-tax-invoices
+locale: en
 subcategoryId: 5ZfsNR4ioEsIyu6wkyce0M
 ---
 
@@ -64,7 +64,7 @@ To download your "boleto", follow the steps below:
 6. Click on **Pay this Invoice**.
 7. A new "boleto" will be generated; and penalties and taxes will be included automatically when required. 
 
->ℹ️ In Brazil, a purple invoice can indicate that it is overdue but that a new "boleto" with an upcoming due date has already been issued. In such cases, the invoice will continue as overdue until it's paid. If no payment is made, the invoice color will switch to red again.
+> ℹ️ In Brazil, a purple invoice can indicate that it is overdue but that a new "boleto" with an upcoming due date has already been issued. In such cases, the invoice will continue as overdue until it's paid. If no payment is made, the invoice color will switch to red again.
 
 ![baixar boletos en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Billing/Invoices/how-to-download-the-vtex-invoices_2.gif)
 

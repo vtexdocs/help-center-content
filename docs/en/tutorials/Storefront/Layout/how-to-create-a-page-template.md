@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slugEN: how-to-create-a-page-template
-locale: en
 legacySlug: how-to-create-a-page-template
+locale: en
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
@@ -36,18 +36,7 @@ Check out the walk-through:
 3. Click on __HTML Templates __.
 4. Just below, click on __New template__.
 5. Fill in the __Template Name__ field.
->❗ When filling in the **Template Name**, avoid using the following reserved words, as this can hinder your store's performance and interfere with the functioning of VTEX Admin pages. See the list of reserved words below.
->
-> *`a`
->
-> *`meta`
->
-> *`api`
->
-> *`admin`
->
-> *`app`
-> 
+> ❗ When filling in the **Template Name**, avoid using the following reserved words, as this can hinder your store's performance and interfere with the functioning of VTEX Admin pages. See the list of reserved words below. <ul> <li>`a`</li> <li>`meta`</li> <li>`api`</li> <li>`admin`</li> <li>`app`</li> </ul>
 6. Then fill in the __Template XHTML__ box with your template code. 
 ![4 1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Storefront/Layout/how-to-create-a-page-template_1.png)
 7. Click on the __Save Template__ button.

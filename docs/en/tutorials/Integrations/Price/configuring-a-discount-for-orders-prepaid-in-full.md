@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slugEN: configuring-a-discount-for-orders-prepaid-in-full
-locale: en
 legacySlug: configuring-a-discount-for-orders-prepaid-in-full
+locale: en
 subcategoryId: 3pGCbMh80UueoeSqoAgSuS
 ---
 

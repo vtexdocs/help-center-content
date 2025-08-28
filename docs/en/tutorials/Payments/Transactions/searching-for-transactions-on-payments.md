@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Financial
 author: authors_84
 slugEN: searching-for-transactions-on-payments
-locale: en
 legacySlug: searching-for-transactions-on-pci-gateway
+locale: en
 subcategoryId: 3Gdgj9qfu8mO0c0S4Ukmsu
 ---
 

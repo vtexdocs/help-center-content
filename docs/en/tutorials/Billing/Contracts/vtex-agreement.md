@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Billing
 author: 2p7evLfTcDrhc5qtrzbLWD
 slugEN: vtex-agreement
-locale: en
 legacySlug: why-didnt-i-receive-the-signed-contract-from-vtex
+locale: en
 subcategoryId: 22TaEgFhwE6a6CG2KASYkC
 ---
 
@@ -29,4 +29,4 @@ The Master Agreement applicable to you is available under **Privacy Policy > Pri
 
 You can also find the most updated Master Agreements — the ones applicable to new clients and partners — on the [VTEX Agreement](https://vtex.com/br-pt/privacy-and-agreements/agreements/) page.
 
->ℹ️ If the **MSA, MPA, Appendix 1,** or **partnership-specific Terms and Conditions** signed with VTEX contain any information different from the one described in this documentation, prioritize your document signed with VTEX.
+> ℹ️ If the **MSA, MPA, Appendix 1,** or **partnership-specific Terms and Conditions** signed with VTEX contain any information different from the one described in this documentation, prioritize your document signed with VTEX.

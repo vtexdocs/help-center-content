@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slugEN: registering-brands
-locale: en
 legacySlug: registering-brands
+locale: en
 subcategoryId: fUHfjTEwyOcIQuyeUsIIu
 ---
 

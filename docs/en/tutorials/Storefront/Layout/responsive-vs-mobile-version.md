@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slugEN: responsive-vs-mobile-version
-locale: en
 legacySlug: responsive-vs-mobile-version
+locale: en
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 

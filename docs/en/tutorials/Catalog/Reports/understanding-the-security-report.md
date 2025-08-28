@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_3
 slugEN: understanding-the-security-report
-locale: en
 legacySlug: understanding-the-security-report
+locale: en
 subcategoryId: 5yDQmr18K4GgQAeGwq8USa
 ---
 

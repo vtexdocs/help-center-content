@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
 slugEN: seller-management
-locale: en
 legacySlug: seller-management-beta
+locale: en
 subcategoryId: 2xWRgEIlR2ookieEmm4KQu
 ---
 
@@ -90,7 +90,7 @@ By clicking on the <i class="fas fa-ellipsis-v"></i> button in the seller row, t
 - **Seller details:** Redirects to the Seller details page, where you can view or edit information.  
 - **Orders:** Redirects to the All orders page in the VTEX OMS, filtered by the orders from the selected seller.  
 
->ℹ️ Please note that the list is sorted alphabetically. To view data for all sellers, navigate between the results pages by clicking on the <i class="fas fa-angle-left"></i> and <i class="fas fa-angle-right"></i> arrows at the bottom of the page. Use the filters to refine your results.
+> ℹ️ Please note that the list is sorted alphabetically. To view data for all sellers, navigate between the results pages by clicking on the <i class="fas fa-angle-left"></i> and <i class="fas fa-angle-right"></i> arrows at the bottom of the page. Use the filters to refine your results.
 
 ### Identifiable sellers and unidentifiable sellers (white label)
 

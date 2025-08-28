@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slugEN: how-to-use-the-meta-tags-control
-locale: en
 legacySlug: how-to-use-the-meta-tags-control
+locale: en
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
@@ -54,4 +54,4 @@ See an example of meta tags inserted by the `<vtex:metaTags/>` control for the p
 <link rel="canonical" href="http://lojadobreno.vtexcommercestable.com.br/climbing">
 ```
 
->ℹ️ If you don't want to use the canonical tag (&lt;link rel="canonical"&gt;), you can disable it using a [specific control](https://developers.vtex.com/docs/guides/control-to-disable-the-canonical-tag).
+> ℹ️ If you don't want to use the canonical tag (&lt;link rel="canonical"&gt;), you can disable it using a [specific control](https://developers.vtex.com/docs/guides/control-to-disable-the-canonical-tag).

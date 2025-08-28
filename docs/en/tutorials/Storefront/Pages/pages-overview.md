@@ -10,15 +10,15 @@ contentType: tutorial
 productTeam: VTEX IO
 author: 1DedyaVUPp5wLAvjY7wKKv
 slugEN: pages-overview
-locale: en
 legacySlug: pages-overview
+locale: en
 subcategoryId: 1znnjA17XqaUNdNFr42PW5
 ---
 
 In the **Pages** section you can find all URL routes and corresponding page templates of your store’s website, such as home, product, and login pages. You can also create and associate custom pages to predefined templates and manage pages created directly in the source code of your storefront project. 
 
 <div style="background-color:#cfe2ff; border-left: 2px solid #084298; border-top-left-radius: 2px; border-bottom-left-radius: 2px; margin-bottom: 10px; padding: 15px">
-   If you want to create fully customized pages, please contact your developer partner and refer to our <a href="https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-4-configuringtemplates">Configuring templates documentation</a> for more information.
+   If you want to create fully customized pages, please contact your developer partner and refer to our [Configuring templates documentation](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-4-configuringtemplates) for more information.
 </div>
 
 In Pages, you can also create URL redirects to forward website visitors and search engines from one URL to another. Redirects are helpful when you need to move content to a new URL and remove an old product page.

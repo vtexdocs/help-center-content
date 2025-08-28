@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
 slugEN: how-does-the-score-field-work
-locale: en
 legacySlug: how-does-the-score-field-work
+locale: en
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 

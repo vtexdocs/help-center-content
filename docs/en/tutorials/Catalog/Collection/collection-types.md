@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slugEN: collection-types
-locale: en
 legacySlug: collection-types
+locale: en
 subcategoryId: 3aExYJkji3NIu9Ks8bxbWx
 ---
 
@@ -27,11 +27,11 @@ On VTEX, there are three ways to configure Collections:
 
 | Collection  | Where to configure   | Adding products  | Ordering    |
 | ---------- | -----------------------------|------------------------------------------------------------------------------------------------ | ------------------------------------------------------------ |
-| Manual | CMS and Collections module (Beta) | In CMS: by SKU selection <p>In Collections (Beta): by search refinement and product filters |In CMS: no control<p>In Collections (Beta): total control | 
+| Manual | CMS and Collections module (Beta) | In CMS: by SKU selection In Collections (Beta): by search refinement and product filters |In CMS: no controlIn Collections (Beta): total control | 
 | Automatic | CMS | Created by Brand or Category filters | No control |  
 | Hybrid | CMS and Collections module (Beta) | Created by Brand or Category filters. You can also add products manually | No control        |
 
->⚠️ Collections created in the CMS module and with more than one <a href = "https://help.vtex.com/en/tutorial/cadastro-de-colecoes-cms--2YBy6P6X0NFRpkD2ZBxF6L">group</a> cannot be reordered in the new Beta Collection module. We recommend you do not change the ordering, as it may compromise the efficiency of the functionality.
+> ⚠️ Collections created in the CMS module and with more than one <a href = "https://help.vtex.com/en/tutorial/cadastro-de-colecoes-cms--2YBy6P6X0NFRpkD2ZBxF6L">group</a> cannot be reordered in the new Beta Collection module. We recommend you do not change the ordering, as it may compromise the efficiency of the functionality.
 
   ## Manual collections
 

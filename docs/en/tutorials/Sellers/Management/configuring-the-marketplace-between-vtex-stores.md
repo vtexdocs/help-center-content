@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Channels
 author: authors_3
 slugEN: configuring-the-marketplace-between-vtex-stores
-locale: en
 legacySlug: configuring-the-marketplace-between-vtex-stores
+locale: en
 subcategoryId: 2xWRgEIlR2ookieEmm4KQu
 ---
 

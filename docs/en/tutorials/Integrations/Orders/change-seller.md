@@ -10,14 +10,14 @@ contentType: tutorial
 productTeam: Channels
 author: 7FpKZ0rc6k4WqeymES80cw
 slugEN: change-seller
-locale: en
 legacySlug: how-to-use-the-change-seller
+locale: en
 subcategoryId: 5m1qqfnmfYKsO0KiOQC8Ky
 ---
 
 The Change Seller is the feature that gives marketplaces the autonomy to change the seller that will fulfill an order. 
 
->ℹ️ The Change Seller feature can only be configured using APIs. For more information, see our [Change Seller documentations for developers](https://developers.vtex.com/vtex-rest-api/docs/change-seller).
+> ℹ️ The Change Seller feature can only be configured using APIs. For more information, see our [Change Seller documentations for developers](https://developers.vtex.com/vtex-rest-api/docs/change-seller).
 
 Sellers can be changed in two situations: 
 

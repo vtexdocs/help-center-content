@@ -14,6 +14,7 @@ Welcome to the [VTEX Help Center](https://help.vtex.com/) content repository!
   - [Creating a redirect](#creating-a-redirect)
   - [Settings for specific content](#settings-for-specific-content)
 - [GitHub Actions](#github-actions)
+  - [Navigation Generation](#navigation-generation)
   - [Help Center Batch Files Scraper](#help-center-batch-files-scraper)
   - [Help Center Changed Files Scraper](#help-center-changed-files-scraper)
   - [Retrieve Docs from Contentful](#retrieve-docs-from-contentful)
@@ -192,6 +193,66 @@ Track articles' titles must contain the reference numbers in the navigation side
 ## GitHub Actions
 
 This repository uses GitHub Actions for automating various tasks related to content management and search indexing. Below are details about each workflow.
+
+### Navigation Generation
+
+**Source**: `.github/workflows/nav-generation.yml`
+
+**Summary**: This workflow automatically generates the navigation structure for the VTEX Help Center by processing all markdown files in the repository. It creates a comprehensive `navigation.json` file that contains the hierarchical structure of all documentation, organized by categories, subcategories, and individual articles across all supported languages (PT, EN, ES).
+
+**Trigger Conditions**:
+- Pull request events: `opened`, `synchronize`, `reopened`
+- Automatically runs when PRs are created or updated
+
+**Process Overview**:
+1. **Content Scanning**: Processes 10,000+ markdown files across all locales and content types
+2. **CLI Download**: Uses multiple fallback strategies to obtain the navigation generator CLI:
+   - Primary: `npx github:vtexdocs/vtexhelp-nav-cli#main` (GitHub tarball)
+   - Fallback 1: `npx git+https://github.com/vtexdocs/vtexhelp-nav-cli.git#main`
+   - Fallback 2: Direct git clone and local build
+   - Fallback 3: Curl download + unzip (network resilience)
+3. **Navigation Generation**: Creates structured JSON with:
+   - 600+ categories and subcategories
+   - 3,400+ individual documents
+   - Full multilingual support (PT/EN/ES)
+   - Cross-language document linking
+4. **File Commit**: Automatically commits the generated `public/navigation.json` back to the PR branch
+5. **Artifacts**: Uploads the navigation file as a downloadable artifact
+6. **Reporting**: Provides detailed job summaries with statistics and file information
+
+**Output**:
+- **File**: `public/navigation.json` (~58,000+ lines, ~2.6MB)
+- **Structure**: Hierarchical JSON with navbar sections, categories, subcategories, and articles
+- **Metadata**: Includes titles, slugs, publication status, and cross-references for all languages
+- **Coverage**: 100% language coverage for all supported locales
+
+**Performance**:
+- **Generation Time**: ~5-6 seconds for full repository scan
+- **Total Workflow Time**: ~2-3 minutes including setup and commit
+- **Network Resilience**: Multiple fallback mechanisms handle GitHub runner limitations
+
+**Key Features**:
+- **Robust Error Handling**: Multiple download strategies ensure reliable CLI access
+- **Git Integration**: Handles detached HEAD states and automatically commits results
+- **Validation**: Performs content validation and reports duplicate slugs or issues
+- **Incremental Updates**: Only commits when navigation content actually changes
+- **Artifact Preservation**: Generated files are available for download even if commit fails
+
+**Dependencies**:
+- actions/checkout@v4
+  - Function: Checks out the PR branch for processing
+- actions/setup-node@v4
+  - Function: Sets up Node.js environment (version 20)
+- actions/upload-artifact@v4
+  - Function: Uploads generated navigation.json as downloadable artifact
+- vtexdocs/vtexhelp-nav-cli (external)
+  - Function: CLI tool that processes markdown files and generates navigation structure
+
+**Usage Notes**:
+- Automatically triggered on all PR activity - no manual intervention required
+- Generated navigation.json is committed directly to the PR branch
+- Workflow includes comprehensive logging for debugging and monitoring
+- Safe for concurrent execution with other workflows due to branch-specific concurrency controls
 
 ### Help Center Batch Files Scraper
 

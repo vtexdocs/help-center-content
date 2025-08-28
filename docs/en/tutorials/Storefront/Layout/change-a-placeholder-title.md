@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slugEN: change-a-placeholder-title
-locale: en
 legacySlug: change-a-placeholder-title
+locale: en
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 

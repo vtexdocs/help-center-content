@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_4
 slugEN: configuring-an-xml-domain
-locale: en
 legacySlug: configuring-an-xml-domain
+locale: en
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 

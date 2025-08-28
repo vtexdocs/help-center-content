@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_3
 slugEN: activating-the-complete-list-link-on-the-category-menu
-locale: en
 legacySlug: activating-the-complete-list-link-on-the-category-menu
+locale: en
 subcategoryId: 1E7tziZCkY4w8i4EmUuwec
 ---
 

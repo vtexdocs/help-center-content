@@ -1,5 +1,5 @@
 ---
-title: "How do I request a duplicate of my 'boleto'?"
+title: 'How do I request a duplicate of my "boleto"?'
 id: 5uIetorejSECKuyS2068mG
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:47.207Z
@@ -10,12 +10,12 @@ contentType: tutorial
 productTeam: Billing
 author: 7FpKZ0rc6k4WqeymES80cw
 slugEN: how-do-i-request-a-duplicate-of-my-boleto
-locale: en
 legacySlug: how-do-i-request-a-duplicate-of-my-boleto
+locale: en
 subcategoryId: 5ZfsNR4ioEsIyu6wkyce0M
 ---
 
->ℹ️ **WARNING: This procedure is only for customers billed in Brazil.**
+> ℹ️ **WARNING: This procedure is only for customers billed in Brazil.**
 
 In the Billing module, you can check all invoices issued by VTEX and update your "boleto" (Brazilian off-line payment method) to pay it after the due date. If you are unable to access this area, make sure that you have the [financial role](https://help.vtex.com/tutorial/como-criar-um-perfil-de-acesso-financeiro--717qPtxW3Cy9n5KrReHeVv).
 

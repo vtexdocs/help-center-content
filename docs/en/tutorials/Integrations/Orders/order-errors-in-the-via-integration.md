@@ -10,10 +10,9 @@ contentType: tutorial
 productTeam: Channels
 author: 5l9ZQjiivHzkEVjafL4O6v
 slugEN: order-errors-in-the-via-integration
-locale: en
 legacySlug: via-integration-orders-erros
+locale: en
 subcategoryId: 5m1qqfnmfYKsO0KiOQC8Ky
 ---
 
->⚠️ This is a regional exclusive content not applicable to 
-> English speaking countries.
+> ⚠️ This is a regional exclusive content not applicable to English speaking countries.

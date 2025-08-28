@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Channels
 author: authors_84
 slugEN: how-to-manage-stock-in-the-marketplace
-locale: en
 legacySlug: how-to-manage-stock-in-the-marketplace
+locale: en
 subcategoryId: 7lxg0kyL3TYIsrlSQlf1zP
 ---
 

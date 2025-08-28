@@ -1,5 +1,5 @@
 ---
-title: 'Configuring rappi Price Divergence rule '
+title: 'Configuring rappi Price Divergence rule'
 id: VoIvBSldeT2A4MuRVMMi1
 status: PUBLISHED
 createdAt: 2024-05-31T20:36:17.323Z
@@ -12,7 +12,7 @@ slugEN: configuring-rappi-price-divergence-rule
 locale: en
 trackId: 2AeYfJRnQ0I91dvSzRcpKh
 trackSlugEN: rappi-integration
+order: 3
 ---
 
->⚠️ This is a regional exclusive content not applicable to 
-> English speaking countries.
+> ⚠️ This is a regional exclusive content not applicable to English speaking countries.

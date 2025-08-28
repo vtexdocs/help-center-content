@@ -10,12 +10,12 @@ contentType: tutorial
 productTeam: Billing
 author: 7FpKZ0rc6k4WqeymES80cw
 slugEN: how-and-when-do-i-receive-my-invoice
-locale: en
 legacySlug: how-and-when-do-i-receive-my-invoice
+locale: en
 subcategoryId: 5ZfsNR4ioEsIyu6wkyce0M
 ---
 
->⚠️ <p>This procedure only applies to customers billed in **Brazil.**
+> ⚠️ This procedure only applies to customers billed in **Brazil.**
 
 The billing is triggered until the 5th business day of the month. Invoice and *boleto* (Brazilian offline payment method) are available on the __Billing__ module in the Admin of your store.
 

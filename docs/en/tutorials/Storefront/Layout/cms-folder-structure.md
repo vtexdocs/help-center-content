@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slugEN: cms-folder-structure
-locale: en
 legacySlug: cms-folder-structure
+locale: en
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
@@ -37,7 +37,7 @@ See below these basic folders in the CMS:
 
 These folders come by default in the environment of all VTEX stores.
 
->❗ The names of the required folders must **not** be edited. This can compromise the proper functioning of the store and prevent purchases from being made.
+> ❗ The names of the required folders must **not** be edited. This can compromise the proper functioning of the store and prevent purchases from being made.
 
 Since folders refer to dynamic pages, their names don't appear on the customer's navigation. In other words, the fact that editing the names is banned does not affect the final text of your URLs, nor the internationalization of your site.
 
@@ -53,7 +53,7 @@ These are:
 
 For these two folders, what matters is the control or placeholder that reads their content. Their names can be freely edited.
 
->⚠️ Since they are private folders, `/account` and `/account/orders` **must require authentication**. See [in this article](http://help.vtex.com/en/tutorial/requering-authentication-on-store-pages) how to ensure they are configured to ask for user authentication.
+> ⚠️ Since they are private folders, `/account` and `/account/orders` **must require authentication**. See [in this article](http://help.vtex.com/en/tutorial/requering-authentication-on-store-pages) how to ensure they are configured to ask for user authentication.
 
 ## Useful folders
 

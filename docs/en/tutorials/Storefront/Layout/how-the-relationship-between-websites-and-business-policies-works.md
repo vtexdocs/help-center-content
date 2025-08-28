@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Channels
 author: authors_59
 slugEN: how-the-relationship-between-websites-and-business-policies-works
-locale: en
 legacySlug: how-the-relationship-between-websites-and-business-policies-works
+locale: en
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
@@ -38,7 +38,7 @@ To know the ordering of trade policies, follow the steps below:
 1. In your VTEX Admin, access **Store Settings > Channels > Trade Policies**.
 2. In the __Position__ column, you will see the ordering of your trade policies. Position 1 displays the highest priority trade policy.
 
->❗ We recommend that you do not change the position of the trade policy with **ID 1**.
+> ❗ We recommend that you do not change the position of the trade policy with **ID 1**.
 
 ### Examples
 

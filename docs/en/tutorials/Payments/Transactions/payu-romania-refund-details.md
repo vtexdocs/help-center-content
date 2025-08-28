@@ -10,12 +10,12 @@ contentType: tutorial
 productTeam: Financial
 author: authors_24
 slugEN: payu-romania-refund-details
-locale: en
 legacySlug: payu-romania-refund-details
+locale: en
 subcategoryId: 3Gdgj9qfu8mO0c0S4Ukmsu
 ---
 
->⚠️ This article applies only for payments made in **Romania**.
+> ⚠️ This article applies only for payments made in **Romania**.
 
 Payment cancellations (also called voids – they can be placed only for the full amount) or refunds (total or partial) are not processed immediately, but with a timeout instead. 
 

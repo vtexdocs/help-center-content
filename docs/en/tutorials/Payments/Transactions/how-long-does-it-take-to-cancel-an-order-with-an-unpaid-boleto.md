@@ -1,5 +1,5 @@
 ---
-title: "How long does it take to cancel an order with an unpaid 'boleto'?"
+title: 'How long does it take to cancel an order with an unpaid "boleto"?'
 id: frequentlyAskedQuestions_300
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:51.983Z
@@ -10,10 +10,9 @@ contentType: tutorial
 productTeam: Financial
 author: authors_84
 slugEN: how-long-does-it-take-to-cancel-an-order-with-an-unpaid-boleto
-locale: en
 legacySlug: how-long-does-it-take-to-cancel-an-order-with-an-unpaid-bank-payment-slip
+locale: en
 subcategoryId: 3Gdgj9qfu8mO0c0S4Ukmsu
 ---
 
->⚠️ This is a regional exclusive content not applicable to 
-> English speaking countries.
+> ⚠️ This is a regional exclusive content not applicable to English speaking countries.

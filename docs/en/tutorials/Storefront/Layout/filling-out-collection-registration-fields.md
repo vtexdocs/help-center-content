@@ -10,12 +10,12 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 6AcGyun1hSWewU8YcaQiO
 slugEN: filling-out-collection-registration-fields
-locale: en
 legacySlug: filling-out-Collection-registration-fields
+locale: en
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
->⚠️ **Warning:** there are two ways to configure collections, through the CMS or the Collection module (Beta). This article is about how to <a href = "https://help.vtex.com/en/tutorial/adding-collections-cms--2YBy6P6X0NFRpkD2ZBxF6L">configure collections through the CMS</a>.
+> ⚠️ **Warning:** there are two ways to configure collections, through the CMS or the Collection module (Beta). This article is about how to <a href = "https://help.vtex.com/en/tutorial/adding-collections-cms--2YBy6P6X0NFRpkD2ZBxF6L">configure collections through the CMS</a>.
 
 To better understand the meaning of the registration fields of a product collection, check out the full description of each one below: 
 

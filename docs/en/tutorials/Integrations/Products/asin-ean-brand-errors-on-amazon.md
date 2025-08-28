@@ -10,9 +10,9 @@ contentType: tutorial
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slugEN: asin-ean-brand-errors-on-amazon
-locale: en
 legacySlug: asin-ean-brand-errors-on-amazon
+locale: en
 subcategoryId: 4HBbKdnwneGew2qGGykSM8
 ---
 
->⚠️ Content under translation.
+<div class="alert alert-warning" role="alert">Content under translation.</div>

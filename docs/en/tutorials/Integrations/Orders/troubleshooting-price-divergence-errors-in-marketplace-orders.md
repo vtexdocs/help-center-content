@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Channels
 author: 5l9ZQjiivHzkEVjafL4O6v
 slugEN: troubleshooting-price-divergence-errors-in-marketplace-orders
-locale: en
 legacySlug: resolution-of-price-divergence-errors-in-marketplace-integration-orders
+locale: en
 subcategoryId: 5m1qqfnmfYKsO0KiOQC8Ky
 ---
 
@@ -23,7 +23,7 @@ When the price set by a seller is different from the price offered by the market
 
 To activate the Orders Authorization flow for native connectors, you need to [configure a Price Divergence rule](https://help.vtex.com/en/tutorial/configuracao-da-regra-de-divergencia-de-valores--awAKP0sS5J8jgLs2g7pPe). Only users with Super Admin (Owner) or OMS Full [roles](https://help.vtex.com/en/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) can do this.
 
->ℹ️ Once you have [configured the Price Divergence rule](https://help.vtex.com/en/tutorial/configuracao-da-regra-de-divergencia-de-valores--awAKP0sS5J8jgLs2g7pPe), it will apply to all marketplaces where you are a seller.
+> ℹ️ Once you have [configured the Price Divergence rule](https://help.vtex.com/en/tutorial/configuracao-da-regra-de-divergencia-de-valores--awAKP0sS5J8jgLs2g7pPe), it will apply to all marketplaces where you are a seller.
 
 For VTEX marketplaces, external marketplaces and certified connectors (partners), as long as the Price Divergence rule has not been created, orders with price divergence error are automatically approved.
 

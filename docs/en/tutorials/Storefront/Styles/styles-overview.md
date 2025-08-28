@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: VTEX IO
 author: 1DedyaVUPp5wLAvjY7wKKv
 slugEN: styles-overview
-locale: en
 legacySlug: styles-overview
+locale: en
 subcategoryId: 5HsDDU48ZP58JHWU3WbCPc
 ---
 
@@ -22,7 +22,7 @@ To access it, log in to VTEX Admin, access **Storefront > Styles**, and check ou
 ![Styles - Overview](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Storefront/Styles/styles-overview_1.png)
 
 <div style="background-color:#FFF3CD; border-left: 2px solid #F0AD4E; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px">
-  To apply and preview the changes in your store's styles, make sure to use a workspace that supports production traffic, i.e., <a href="https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-workspace)">production workspaces</a>. 
+  To apply and preview the changes in your store's styles, make sure to use a workspace that supports production traffic, i.e., [production workspaces](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-workspace)). 
 </div>
 
 | **Tool** | **Description** |

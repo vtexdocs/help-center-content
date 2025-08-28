@@ -10,12 +10,12 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slugEN: how-to-work-with-different-layouts-for-the-same-page
-locale: en
 legacySlug: how-to-work-with-different-layouts-for-the-same-page
+locale: en
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
->⚠️ **Warning:** there are two ways to configure collections, through the CMS or the Collection module (Beta). This article is about how to <a href = "https://help.vtex.com/en/tutorial/adding-collections-cms--2YBy6P6X0NFRpkD2ZBxF6L">configure collections through the CMS</a>.
+> ⚠️ **Warning:** there are two ways to configure collections, through the CMS or the Collection module (Beta). This article is about how to <a href = "https://help.vtex.com/en/tutorial/adding-collections-cms--2YBy6P6X0NFRpkD2ZBxF6L">configure collections through the CMS</a>.
 
 On the __Storefront__ > __Layout__ page, a standard layout is established for all pages of the same kind included on each folder of a website; e.g. product. 
 
@@ -48,7 +48,7 @@ It happens that the offered conditions are not present on any page:
 
 Hence, it is not possible to asign conditions to specific product or to different layouts through a collection. You would need to register these together with the product condition.
 
->ℹ️ According to the chosen conditions, an order of priority is established for the applicability of the template. The order first follows, if available, product template, category and, finally, brand. Thus, a template conditioned for a given product layout overlaps the template conditioned for the category in which this product is contained and so on.
+> ℹ️ According to the chosen conditions, an order of priority is established for the applicability of the template. The order first follows, if available, product template, category and, finally, brand. Thus, a template conditioned for a given product layout overlaps the template conditioned for the category in which this product is contained and so on.
 
 In case of doubt with this set up, we recommend using the lid: [Layout Test](/en/faq/validating-a-layout-before-moving-it-to-production)
 

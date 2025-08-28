@@ -1,0 +1,202 @@
+name: Generate navigation on PR
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: nav-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build-nav:
+    name: Build navigation
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: ${{ github.head_ref }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Generate navigation directly into public/
+        working-directory: ${{ github.workspace }}
+        env:
+          REQUEST_TIMEOUT: "60000"
+        run: |
+          set -e
+          mkdir -p public
+          LOG=".navgen.log"
+          : > "$LOG"
+          EXTRA_ARGS=""
+          if [ "${ACT}" = "true" ]; then
+            # Speed up local runs under act to avoid long scans/logs
+            EXTRA_ARGS="--languages en --sections announcements"
+          fi
+          echo "Running generator with npx (github shorthand first, then git+https), with clone+build fallback. Extra args: ${EXTRA_ARGS}"
+          # Capture output for summary; don't let the pipe hide failures
+          set +e
+          # 1) Try GitHub shorthand (tarball install) — avoids git when possible
+          npx --yes --package="github:vtexdocs/vtexhelp-nav-cli#main" --package=axios --package=dotenv \
+            vtex-nav gen --content-dir . --output public/navigation.json ${EXTRA_ARGS} 2>&1 | tee -a "$LOG"
+          GEN_STATUS=${PIPESTATUS[0]}
+          if [ $GEN_STATUS -ne 0 ]; then
+            echo "npx via github: failed (exit $GEN_STATUS). Retrying via git+https..." | tee -a "$LOG"
+            npx --yes --package="git+https://github.com/vtexdocs/vtexhelp-nav-cli.git#main" --package=axios --package=dotenv \
+              vtex-nav gen --content-dir . --output public/navigation.json ${EXTRA_ARGS} 2>&1 | tee -a "$LOG"
+            GEN_STATUS=${PIPESTATUS[0]}
+          fi
+          if [ $GEN_STATUS -ne 0 ]; then
+            echo "npx failed (exit $GEN_STATUS). Falling back to clone+build path..." | tee -a "$LOG"
+            rm -rf vtexhelp-nav-cli
+            echo "Trying different clone methods..." | tee -a "$LOG"
+            # Try multiple clone approaches
+            git clone --depth 1 https://github.com/vtexdocs/vtexhelp-nav-cli.git 2>&1 | tee -a "$LOG"
+            CLONE_STATUS=${PIPESTATUS[0]}
+            if [ $CLONE_STATUS -ne 0 ]; then
+              echo "HTTPS clone failed, trying with per-command SSL verification disabled..." | tee -a "$LOG"
+              git -c http.sslverify=false clone --depth 1 https://github.com/vtexdocs/vtexhelp-nav-cli.git 2>&1 | tee -a "$LOG"
+              CLONE_STATUS=${PIPESTATUS[0]}
+            fi
+            if [ $CLONE_STATUS -ne 0 ]; then
+              echo "Still failing, trying curl + unzip approach..." | tee -a "$LOG"
+              curl -L https://github.com/vtexdocs/vtexhelp-nav-cli/archive/refs/heads/main.zip -o vtexhelp-nav-cli.zip 2>&1 | tee -a "$LOG"
+              CURL_STATUS=${PIPESTATUS[0]}
+              if [ $CURL_STATUS -eq 0 ]; then
+                unzip -q vtexhelp-nav-cli.zip && mv vtexhelp-nav-cli-main vtexhelp-nav-cli
+                CLONE_STATUS=0
+                echo "Successfully downloaded via curl+unzip" | tee -a "$LOG"
+              else
+                echo "curl download also failed (exit $CURL_STATUS)" | tee -a "$LOG"
+              fi
+            fi
+            if [ $CLONE_STATUS -ne 0 ]; then
+              echo "git clone failed (exit $CLONE_STATUS)" | tee -a "$LOG"
+            else
+              (
+                set -e
+                cd vtexhelp-nav-cli
+                if [ -f yarn.lock ]; then
+                  if command -v corepack >/dev/null 2>&1; then corepack enable; else echo "corepack not found, skipping enable"; fi
+                  if command -v corepack >/dev/null 2>&1; then corepack prepare yarn@stable --activate; else echo "corepack not found, skipping prepare"; fi
+                  yarn install --frozen-lockfile || yarn install
+                  yarn add axios dotenv
+                  yarn build
+                else
+                  npm ci || npm install --no-audit --no-fund
+                  npm install --no-audit --no-fund axios dotenv
+                  npm run build
+                fi
+              ) 2>&1 | tee -a "$LOG"
+              BUILD_STATUS=${PIPESTATUS[0]}
+              if [ $BUILD_STATUS -eq 0 ]; then
+                node vtexhelp-nav-cli/dist/cli.js gen --content-dir . --output public/navigation.json ${EXTRA_ARGS} 2>&1 | tee -a "$LOG"
+                GEN_STATUS=${PIPESTATUS[0]}
+              else
+                echo "CLI build failed (exit $BUILD_STATUS)" | tee -a "$LOG"
+              fi
+            fi
+          fi
+          set -e
+          echo "Generator exit code: $GEN_STATUS" >> "$LOG"
+          if [ $GEN_STATUS -ne 0 ]; then
+            echo "Generator exited with code $GEN_STATUS"
+            exit $GEN_STATUS
+          fi
+
+      - name: Upload generated navigation as artifact
+        id: upload_nav
+        uses: actions/upload-artifact@v4
+        with:
+          name: navigation-json
+          path: public/navigation.json
+          compression-level: 0
+          if-no-files-found: error
+
+      - name: Summarize navigation (job summary)
+        if: ${{ always() }}
+        env:
+          ARTIFACT_URL: ${{ steps.upload_nav.outputs.artifact-url }}
+        run: |
+          set -e
+          FILE="public/navigation.json"
+          LOG=".navgen.log"
+          if [ -f "$FILE" ]; then
+            BYTES=$(stat -c%s "$FILE" 2>/dev/null || wc -c < "$FILE")
+            HUMAN=$(numfmt --to=iec "$BYTES" 2>/dev/null || echo "${BYTES} bytes")
+            SHA256=$(sha256sum "$FILE" | awk '{print $1}')
+          else
+            BYTES=0
+            HUMAN="0 bytes"
+            SHA256="N/A"
+          fi
+          FILES_PROCESSED=$(grep -E 'Files processed:' "$LOG" 2>/dev/null | tail -n1 | sed -E 's/.*Files processed:[[:space:]]*([0-9]+).*/\1/' || true)
+          CATEGORIES=$(grep -E 'Categories:' "$LOG" 2>/dev/null | tail -n1 | sed -E 's/.*Categories:[[:space:]]*([0-9]+).*/\1/' || true)
+          DOCUMENTS=$(grep -E 'Documents:' "$LOG" 2>/dev/null | tail -n1 | sed -E 's/.*Documents:[[:space:]]*([0-9]+).*/\1/' || true)
+          VALIDATION=$(grep -E 'Validation:' "$LOG" 2>/dev/null | tail -n1 | sed -E 's/.*Validation:[[:space:]]*([A-Za-z]+).*/\1/' || true)
+          WARNINGS=$(grep -E 'Warnings:' "$LOG" 2>/dev/null | tail -n1 | sed -E 's/.*Warnings:[[:space:]]*([0-9]+).*/\1/' || true)
+          LANG_COVERAGE=$(awk '/Language Coverage:/,/^$/' "$LOG" 2>/dev/null | sed 's/^/  /' || true)
+
+          {
+            echo "## Navigation generation report"
+            echo ""
+            echo "- Output file: $FILE"
+            echo "- Size: $BYTES bytes ($HUMAN)"
+            echo "- SHA256: \`$SHA256\`"
+            if [ -n "$ARTIFACT_URL" ]; then
+              echo "- Artifact: $ARTIFACT_URL"
+            fi
+            echo ""
+            if [ -n "$FILES_PROCESSED$CATEGORIES$DOCUMENTS$VALIDATION$WARNINGS" ]; then
+              echo "### Stats"
+              [ -n "$FILES_PROCESSED" ] && echo "- Files processed: $FILES_PROCESSED"
+              [ -n "$CATEGORIES" ] && echo "- Categories: $CATEGORIES"
+              [ -n "$DOCUMENTS" ] && echo "- Documents: $DOCUMENTS"
+              [ -n "$VALIDATION" ] && echo "- Validation: $VALIDATION"
+              [ -n "$WARNINGS" ] && echo "- Warnings: $WARNINGS"
+              echo ""
+            fi
+            if [ -n "$LANG_COVERAGE" ]; then
+              echo "### Language coverage"
+              echo "$LANG_COVERAGE"
+              echo ""
+            fi
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Commit changes back to PR branch (if any)
+        # Skip when running under act locally
+        if: ${{ github.event_name == 'pull_request' && env.ACT != 'true' }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -e
+          if [ ! -f public/navigation.json ]; then
+            echo "No navigation.json file generated - nothing to commit"
+            exit 0
+          fi
+          
+          # Add the file first so git can track it for diff
+          git add public/navigation.json
+          
+          # Check if there are any changes to commit (handles both new and modified files)
+          if git diff --quiet --exit-code --cached public/navigation.json; then
+            echo "No changes to navigation.json - nothing to commit"
+            git reset public/navigation.json  # unstage if no changes
+            exit 0
+          fi
+          
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore(nav): update navigation.json via vtexhelp-nav-cli"
+          # Push using HEAD:branch syntax to handle detached HEAD state
+          git push origin HEAD:${{ github.head_ref }}

@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Billing
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slugEN: names-of-vtex-branches-worldwide
-locale: en
 legacySlug: names-of-vtex-branches-worldwide
+locale: en
 subcategoryId: 22TaEgFhwE6a6CG2KASYkC
 ---
 

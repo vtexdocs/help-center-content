@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slugEN: what-is-the-purpose-of-the-customized-control
-locale: en
 legacySlug: what-is-the-purpose-of-the-customized-control
+locale: en
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
@@ -33,7 +33,7 @@ To create a customized control tag, click on Add, enter a name, a tag name, and 
 
 ![cms-custom-elements EN / ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Storefront/Layout/what-is-the-purpose-of-the-customized-control_1.png)
 
->⚠️ **Warning:** do not create an HTML type control with an element `title`. This may interfere with your store operation.
+> ⚠️ **Warning:** do not create an HTML type control with an element `title`. This may interfere with your store operation.
 
 ## Application of customized controls on a page template
 

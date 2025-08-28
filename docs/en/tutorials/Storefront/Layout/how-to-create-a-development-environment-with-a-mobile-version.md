@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slugEN: how-to-create-a-development-environment-with-a-mobile-version
-locale: en
 legacySlug: how-to-create-a-development-environment-with-a-mobile-version
+locale: en
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 

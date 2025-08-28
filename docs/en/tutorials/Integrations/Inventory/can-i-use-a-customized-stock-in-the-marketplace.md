@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Channels
 author: 7FpKZ0rc6k4WqeymES80cw
 slugEN: can-i-use-a-customized-stock-in-the-marketplace
-locale: en
 legacySlug: can-i-use-a-customized-stock-in-the-marketplace
+locale: en
 subcategoryId: 7lxg0kyL3TYIsrlSQlf1zP
 ---
 

@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_59
 slugEN: develop-the-front-end-for-the-list-feature-in-your-store
-locale: en
 legacySlug: develop-the-front-end-for-the-list-feature-in-your-store
+locale: en
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
@@ -105,9 +105,9 @@ Inside the `new-GiftList` template, there is a subtemplate with the name `new-Gi
 
 ```html
 <ul class="nav nav-list bs-docs-sidenav giftlist-sidenav">
-    <li><a href="/giftlist/"><i class="icon-chevron-right"></i>Search a List</a></li>
-    <li><a href="/giftlist/create/"><i class="icon-chevron-right"></i>Create new List</a></li>
-    <li><a href="/giftlist/manage/"><i class="icon-chevron-right"></i>Mange my Lists</a></li>
+    <li>[<i class="icon-chevron-right"></i>Search a List](/giftlist/)</li>
+    <li>[<i class="icon-chevron-right"></i>Create new List](/giftlist/create/)</li>
+    <li>[<i class="icon-chevron-right"></i>Mange my Lists](/giftlist/manage/)</li>
 </ul>
 ```
 
@@ -117,11 +117,11 @@ This code renders a list with __three links__:
 2. __Create new List__: This link takes the client to the `/giftlist/create` route, where the client creates their lists. In the next steps, we'll explain how list creation is done.
 3. __Manage my Lists__: This link takes the client to the `/giftlist/manage` route, where the client can manage their lists. In the next steps, we'll explain how list management is done.
 
->❗ Do not uncheck the **Authentication Required** flag already selected by default in the folders below. Identification is required for lists to be displayed for each specific user.
+> ❗ Do not uncheck the **Authentication Required** flag already selected by default in the folders below. Identification is required for lists to be displayed for each specific user.
 
 ## Editing the list creation template
 
->ℹ️ Before editing this template, you must [create the List Type](http://help.vtex.com/en/tutorial/creating-a-type-of-list) that will be offered in your store. <!--Reescrever o artigo de tipo de lista -->
+> ℹ️ Before editing this template, you must [create the List Type](http://help.vtex.com/en/tutorial/creating-a-type-of-list) that will be offered in your store. <!--Reescrever o artigo de tipo de lista -->
 
 The template for creating lists is located in the `giftlist/create` route. The default template for this route is `new-GiftList-Create`, located in the `HTML Templates` section of your CMS.
 

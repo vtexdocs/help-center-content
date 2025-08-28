@@ -10,9 +10,9 @@ contentType: tutorial
 productTeam: Billing
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slugEN: how-to-request-your-contract-termination-in-brazil
-locale: en
 legacySlug: how-to-request-your-contractual-termination-brazil
+locale: en
 subcategoryId: 22TaEgFhwE6a6CG2KASYkC
 ---
 
->⚠️ This is a regional exclusive content not applicable to English speaking countries.
+> ⚠️ This is a regional exclusive content not applicable to English speaking countries.

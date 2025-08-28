@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Channels
 author: authors_4
 slugEN: how-shipping-works-when-delivery-is-done-by-the-marketplace
-locale: en
 legacySlug: how-the-freight-fob-works-when-mercado-envios-is-used
+locale: en
 subcategoryId: 5m1qqfnmfYKsO0KiOQC8Ky
 ---
 

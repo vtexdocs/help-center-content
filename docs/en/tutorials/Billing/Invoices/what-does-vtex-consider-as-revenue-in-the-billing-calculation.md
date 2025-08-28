@@ -1,17 +1,17 @@
 ---
 title: 'What does VTEX consider as revenues for invoice calculation?'
 id: 58j4cfoXfisWyemASACwSq
-status: CHANGED
+status: PUBLISHED
 createdAt: 2019-01-24T20:45:47.341Z
-updatedAt: 2020-11-27T19:36:02.275Z
-publishedAt: 2020-05-15T18:50:16.189Z
+updatedAt: 2025-02-12T11:25:36.700Z
+publishedAt: 2025-02-12T11:25:36.700Z
 firstPublishedAt: 2019-01-24T22:05:40.851Z
 contentType: tutorial
 productTeam: Billing
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slugEN: what-does-vtex-consider-as-revenue-in-the-billing-calculation
-locale: en
 legacySlug: what-does-vtex-consider-as-revenue-in-the-billing-calculations
+locale: en
 subcategoryId: 5ZfsNR4ioEsIyu6wkyce0M
 ---
 

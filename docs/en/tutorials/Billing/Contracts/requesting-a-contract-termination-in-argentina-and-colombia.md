@@ -10,12 +10,12 @@ contentType: tutorial
 productTeam: Billing
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slugEN: requesting-a-contract-termination-in-argentina-and-colombia
-locale: en
 legacySlug: requesting-a-contract-termination-in-argentina-and-colombia
+locale: en
 subcategoryId: 22TaEgFhwE6a6CG2KASYkC
 ---
 
->ℹ️ To terminate a contract, your store cannot have any past due debt with VTEX.Should there be any, it must be settled for the process to proceed. See [how to pay your invoice](https://help.vtex.com/en/tutorial/como-baixar-boletos-e-notas-fiscais-da-vtex--tutorials_653" target="_blank).
+> ℹ️ To terminate a contract, your store cannot have any past due debt with VTEX.Should there be any, it must be settled for the process to proceed. See [how to pay your invoice](https://help.vtex.com/en/tutorial/como-baixar-boletos-e-notas-fiscais-da-vtex--tutorials_653).
 
 To request the contract termination, please contact our financial team through a [ticket](https://help.vtex.com/en/tutorial/opening-tickets-to-vtex-support-finacial--1ad3TguXzCSKq4yuYSK80c). Creating a ticket will generate a response from VTEX. After this contact, you must send the required documents. 
 

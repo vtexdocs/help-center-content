@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Others
 author: 7FpKZ0rc6k4WqeymES80cw
 slugEN: what-is-the-period-considered-for-calculating-my-billing
-locale: en
 legacySlug: what-is-the-period-considered-for-calculating-my-billing
+locale: en
 subcategoryId: 5ZfsNR4ioEsIyu6wkyce0M
 ---
 
@@ -22,4 +22,4 @@ So, the period considered is always from the first to the last day of a given mo
 ## Example 
 An invoice is issued on 03/01, referring to "February". It will take into account all orders that got the __approved__ status in the period between 02/01 and 02/28.
 
->⚠️ If you're charged before your store goes live, note that it relates to the **monthly fee** of your environment maintenance. This value is charged because even though the store is not in production it is already consuming VTEX structure.
+> ⚠️ If you're charged before your store goes live, note that it relates to the **monthly fee** of your environment maintenance. This value is charged because even though the store is not in production it is already consuming VTEX structure.

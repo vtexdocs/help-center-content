@@ -12,7 +12,7 @@ slugEN: configuring-the-integration-rappi
 locale: en
 trackId: 2AeYfJRnQ0I91dvSzRcpKh
 trackSlugEN: rappi-integration
+order: 2
 ---
 
->⚠️ This is a regional exclusive content not applicable to 
-> English speaking countries.
+> ⚠️ This is a regional exclusive content not applicable to English speaking countries.

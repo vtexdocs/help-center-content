@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Financial
 author: authors_84
 slugEN: how-to-view-transactions-on-pci-gateway
-locale: en
 legacySlug: how-to-view-transactions-on-pci-gateway
+locale: en
 subcategoryId: 3Gdgj9qfu8mO0c0S4Ukmsu
 ---
 

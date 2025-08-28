@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slugEN: prices
-locale: en
 legacySlug: prices-v2
+locale: en
 subcategoryId: 3pGCbMh80UueoeSqoAgSuS
 ---
 

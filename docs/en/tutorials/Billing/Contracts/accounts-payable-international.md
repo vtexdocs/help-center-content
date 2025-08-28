@@ -10,12 +10,12 @@ contentType: tutorial
 productTeam: Billing
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slugEN: accounts-payable-international
-locale: en
 legacySlug: accounts-payable-procedures-international
+locale: en
 subcategoryId: 22TaEgFhwE6a6CG2KASYkC
 ---
 
->ℹ️ **This procedure applies only to VTEX's international offices.**
+> ℹ️ **This procedure applies only to VTEX's international offices.**
 
 To ensure the conformity of overseas payments, the following procedures must be followed:  
 

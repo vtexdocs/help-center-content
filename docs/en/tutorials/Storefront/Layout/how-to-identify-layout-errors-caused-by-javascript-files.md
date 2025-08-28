@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slugEN: how-to-identify-layout-errors-caused-by-javascript-files
-locale: en
 legacySlug: how-to-identify-layout-errors-caused-by-javascript-files
+locale: en
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 

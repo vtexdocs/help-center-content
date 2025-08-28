@@ -10,10 +10,13 @@ contentType: tutorial
 productTeam: Channels
 author: 2p7evLfTcDrhc5qtrzbLWD
 slugEN: why-havent-my-product-prices-been-sent-to-the-marketplace
-locale: en
 legacySlug: why-havent-my-product-prices-been-sent-to-the-marketplace
+locale: en
 subcategoryId: 2LcLWCYaEm5qPmOuYUiKIS
-tags: Marketplace, Integration, Pricing
+tags:
+  - Marketplace
+  - Integration
+  - Pricing
 ---
 
 A product price is sent to the marketplace after two steps: [pricing configuration in the seller's store](https://help.vtex.com/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3N9xYhnampRQOrfaTAOxNu) and product cataloging. If one of these processes is not performed, the seller's product price will not be available on the marketplace.  
@@ -45,4 +48,5 @@ If the products have already been cataloged, you must submit the product prices 
 3. Click the `Actions` button.  
 4. Click **Reprocess**.  
 
-Repeat the process for each product with the status  **Processed with error**. If the error persists, please contact the [VTEX support team](https://help.vtex.com/en/support).
+Repeat the process for each product with the status  **Processed with error**. If the error persists, please contact the [VTEX support team](https://help.vtex.com/en/support).  
+

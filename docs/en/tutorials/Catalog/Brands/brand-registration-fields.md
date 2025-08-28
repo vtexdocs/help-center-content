@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slugEN: brand-registration-fields
-locale: en
 legacySlug: brand-registration-fields
+locale: en
 subcategoryId: fUHfjTEwyOcIQuyeUsIIu
 ---
 
@@ -19,16 +19,7 @@ To better understand the meaning of each Brand creation field, read their descri
 
 - __Name__: Name of the brand you wish create and identify a product with. This field is mandatory and limited to 150 characters.
 
->❗ When filling in then brand's **Name**, avoid using the following reserved words, as this can hinder your store's performance and interfere with the functioning of VTEX Admin pages. See the list of reserved words below.
->
-> *`a`
->
-> *`meta`
->
-> *`api`
->
-> *`admin`
-> 
+> ❗ When filling in then brand's **Name**, avoid using the following reserved words, as this can hinder your store's performance and interfere with the functioning of VTEX Admin pages. See the list of reserved words below. <ul> <li>`a`</li> <li>`meta`</li> <li>`api`</li> <li>`admin`</li> </ul>
 
 - __Replacement Words__: Alternative search terms that will lead to the created brand.The user can find the desired brand even when misspelling it. Used especially when words are of foreign origin and have a distinct spelling that is transcribed into a generic one, or when small spelling mistakes occur.
 

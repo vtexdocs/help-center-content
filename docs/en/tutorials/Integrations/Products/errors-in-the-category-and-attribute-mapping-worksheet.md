@@ -10,9 +10,9 @@ contentType: tutorial
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slugEN: errors-in-the-category-and-attribute-mapping-worksheet
-locale: en
 legacySlug: errors-in-the-category-and-attribute-mapping-worksheet
+locale: en
 subcategoryId: 4HBbKdnwneGew2qGGykSM8
 ---
 
->⚠️ Contenido bajo traducción.
+<div class="alert alert-warning" role="alert">Contenido bajo traducción.</div>

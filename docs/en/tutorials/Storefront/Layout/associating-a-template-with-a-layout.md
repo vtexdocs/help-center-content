@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 1DedyaVUPp5wLAvjY7wKKv
 slugEN: associating-a-template-with-a-layout
-locale: en
 legacySlug: associating-a-template-with-a-layout
+locale: en
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 

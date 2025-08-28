@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Channels
 author: 2p7evLfTcDrhc5qtrzbLWD
 slugEN: seller-monitoring
-locale: en
 legacySlug: seller-monitoring
+locale: en
 subcategoryId: 2xWRgEIlR2ookieEmm4KQu
 ---
 

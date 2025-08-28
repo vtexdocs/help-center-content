@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Others
 author: 30TBnJ838LXSZvdJFlcB8H
 slugEN: using-recaptcha-at-checkout
-locale: en
 legacySlug: using-recaptcha-at-checkout
+locale: en
 subcategoryId: 3shmvletqbB206RqbY2vYQ
 ---
 

@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Billing
 author: 1malnhMX0vPThsaJaZMYm2
 slugEN: responsibilities-in-the-vtex-ecosystem
-locale: en
 legacySlug: responsibilities-in-the-vtex-ecosystem
+locale: en
 subcategoryId: 1VvCpaa8NCA6a0MK6W6oWg
 ---
 
@@ -43,7 +43,7 @@ During routine operations, responsibilities are divided as follows:
   </thead>
   <tbody>
     <tr class="bb b--muted-3">
-      <td class="t-body pa5" style="min-width: 15rem;"><strong>ERP / PIM / WMS</strong></td>
+      <td class="t-body pa5" style="min-width: 15rem;">**ERP / PIM / WMS**</td>
       <td class="t-body pa5" style="min-width: 15rem;">Sending the following information to VTEX via integration:
         <ul>
           <li>Changes to product information</li>
@@ -57,8 +57,8 @@ During routine operations, responsibilities are divided as follows:
       </td>
     </tr>
     <tr class="bb b--muted-3">
-      <td class="t-body pa5" style="min-width: 15rem;"><strong>VTEX</strong></td>
-      <td class="t-body pa5" style="min-width: 15rem;">Sending the following information to the ERP, based on the store's configuration via <a href="https://developers.vtex.com/docs/guides/orders-feed" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word">Order Feed</a> or <a href="https://developers.vtex.com/docs/guides/orders-feed" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word">Hook</a>:
+      <td class="t-body pa5" style="min-width: 15rem;">**VTEX**</td>
+      <td class="t-body pa5" style="min-width: 15rem;">Sending the following information to the ERP, based on the store's configuration via [Order Feed](https://developers.vtex.com/docs/guides/orders-feed) or [Hook](https://developers.vtex.com/docs/guides/orders-feed):
         <ul>
           <li>Notifications of a new order created.</li>
           <li>Notifications of an order's progress.</li>
@@ -80,7 +80,7 @@ To process payments for orders in a VTEX store, the payment infrastructure respo
   </thead>
   <tbody>
     <tr class="bb b--muted-3">
-      <td class="t-body pa5" style="min-width: 15rem;"><strong>Merchant</strong></td>
+      <td class="t-body pa5" style="min-width: 15rem;">**Merchant**</td>
       <td class="t-body pa5" style="min-width: 15rem;">
         <ul>
           <li>Contract payment providers (gateways, acquirers, or subacquirers).</li>
@@ -92,11 +92,11 @@ To process payments for orders in a VTEX store, the payment infrastructure respo
       </td>
     </tr>
     <tr class="bb b--muted-3">
-      <td class="t-body pa5" style="min-width: 15rem;"><strong>Payment providers (gateways, acquirers, or subacquirers)</strong></td>
+      <td class="t-body pa5" style="min-width: 15rem;">**Payment providers (gateways, acquirers, or subacquirers)**</td>
       <td class="t-body pa5" style="min-width: 15rem;">
         <ul>
-          <li>Develop the payment provider integration according to the instructions in<a href="https://developers.vtex.com/docs/guides/integrating-a-new-payment-provider-on-vtex" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word"> Integrating a new payment provider on VTEX</a>.</li>
-          <li>Obtain<a href="https://developers.vtex.com/docs/guides/payments-integration-pci-dss-compliance" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word"> PCI-DSS</a> certification or develop the integration with VTEX using<a href="https://developers.vtex.com/docs/guides/payments-integration-secure-proxy" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word"> Secure Proxy</a> to process payment transactions with sensitive information, such as credit, debit, and co-branded card details.</li>
+          <li>Develop the payment provider integration according to the instructions in[ Integrating a new payment provider on VTEX](https://developers.vtex.com/docs/guides/integrating-a-new-payment-provider-on-vtex).</li>
+          <li>Obtain[ PCI-DSS](https://developers.vtex.com/docs/guides/payments-integration-pci-dss-compliance) certification or develop the integration with VTEX using[ Secure Proxy](https://developers.vtex.com/docs/guides/payments-integration-secure-proxy) to process payment transactions with sensitive information, such as credit, debit, and co-branded card details.</li>
           <li>Process financial transactions securely and efficiently, which includes:
             <ul>
               <li>Approving or denying payments, following internal policies.</li>
@@ -110,7 +110,7 @@ To process payments for orders in a VTEX store, the payment infrastructure respo
       </td>
     </tr>
     <tr class="bb b--muted-3">
-      <td class="t-body pa5" style="min-width: 15rem;"><strong>Anti-fraud solution provider</strong></td>
+      <td class="t-body pa5" style="min-width: 15rem;">**Anti-fraud solution provider**</td>
       <td class="t-body pa5" style="min-width: 15rem;">
         <ul>
           <li>Conduct risk analysis on transactions involving credit, debit, and co-branded cards to identify fraudulent activities.</li>
@@ -119,7 +119,7 @@ To process payments for orders in a VTEX store, the payment infrastructure respo
       </td>
     </tr>
     <tr class="bb b--muted-3">
-      <td class="t-body pa5" style="min-width: 15rem;"><strong>VTEX Gateway</strong></td>
+      <td class="t-body pa5" style="min-width: 15rem;">**VTEX Gateway**</td>
       <td class="t-body pa5" style="min-width: 15rem;">
         <ul>
           <li>Create payment transactions for new orders.</li>
@@ -162,7 +162,7 @@ Even so, there may be strategic partner stores for your business that operate ou
 
 For merchants operating in this scenario, it's important to understand the responsibilities of each player involved in the operation, as detailed below.
 
->⚠️ The following sections consider a store already integrated with an external marketplace via an external connector. Learn how to integrate your VTEX Catalog with an external connector for the first time, go to the [Catalog Integration](https://developers.vtex.com/docs/guides/external-marketplace-integration-catalog" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word) guide.
+> ⚠️ The following sections consider a store already integrated with an external marketplace via an external connector. Learn how to integrate your VTEX Catalog with an external connector for the first time, go to the [Catalog Integration](https://developers.vtex.com/docs/guides/external-marketplace-integration-catalog) guide.
 
 ### Updating or sending new products and SKUs
 

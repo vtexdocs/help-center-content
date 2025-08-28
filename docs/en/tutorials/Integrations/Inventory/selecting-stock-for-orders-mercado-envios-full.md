@@ -10,9 +10,9 @@ contentType: tutorial
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slugEN: selecting-stock-for-orders-mercado-envios-full
-locale: en
 legacySlug: selecting-stock-for-orders-mercado-envios-full
+locale: en
 subcategoryId: 7lxg0kyL3TYIsrlSQlf1zP
 ---
 
->⚠️ This is a regional exclusive content not applicable to English speaking countries.
+> ⚠️ This is a regional exclusive content not applicable to English speaking countries.

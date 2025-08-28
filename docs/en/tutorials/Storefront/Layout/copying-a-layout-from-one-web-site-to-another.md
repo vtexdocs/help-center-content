@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slugEN: copying-a-layout-from-one-web-site-to-another
-locale: en
 legacySlug: copying-a-layout-from-one-web-site-to-another
+locale: en
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 

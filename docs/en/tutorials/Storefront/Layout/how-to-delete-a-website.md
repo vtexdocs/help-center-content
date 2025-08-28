@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slugEN: how-to-delete-a-website
-locale: en
 legacySlug: how-to-delete-a-website
+locale: en
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
@@ -20,7 +20,7 @@ Tutorial valid only for Legacy CMS Stores.
 </div>
 
 <div style="background-color:#FFE6E6; border-left: 4px solid #D9534F; border-top-left-radius: 2px; border-bottom-left-radius: 2px; margin: 10px; padding: 15px">
-Be very careful with this action. If you delete one of your websites, <strong>ALL</strong> the files and folders on this website will be deleted permanently. You will <strong>not</strong> be able to retrieve them. Attention: it's not possible to delete the <strong>default website.</strong> 
+Be very careful with this action. If you delete one of your websites, **ALL** the files and folders on this website will be deleted permanently. You will **not** be able to retrieve them. Attention: it's not possible to delete the **default website.** 
 </div>
 
 To delete a website, follow the steps below:

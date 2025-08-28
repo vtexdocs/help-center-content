@@ -10,15 +10,15 @@ contentType: tutorial
 productTeam: VTEX IO
 author: 1DedyaVUPp5wLAvjY7wKKv
 slugEN: customizing-your-stores-typography
-locale: en
 legacySlug: customizing-your-stores-typography
+locale: en
 subcategoryId: 5HsDDU48ZP58JHWU3WbCPc
 ---
 
 The typography of your online store is a tool for showing your brand identity to your customers.
 In the Admin, you have the flexibility to customize your store's typography to meet your business needs.
 
->⚠️ Keep in mind that changes made to your store's typography in the **Storefront** override typography changes made in the store's code. Please contact your development team and make sure that these changes will be set in the Storefront or in your store's code.
+> ⚠️ Keep in mind that changes made to your store's typography in the **Storefront** override typography changes made in the store's code. Please contact your development team and make sure that these changes will be set in the Storefront or in your store's code.
 
 ## Adding custom font families
 
@@ -36,7 +36,7 @@ In the Admin, you have the flexibility to customize your store's typography to m
 
 6. Click **Upload** to upload the desired font file.
 
->⚠️ The font family file must have one of the following extensions: <i>.ttf</i> or <i>.woff</i>.
+> ⚠️ The font family file must have one of the following extensions: *.ttf* or *.woff*.
 
 7. Once the files have been uploaded, choose a font style. The accepted values are: `Thin`, `Extra Light`, `Light`, `Regular`, `Medium`, `Bold`, `Extra Bold`, `Black`, `Thin Italic`, `Extra Light Italic`, `Light Italic`, `Regular Italic`, `Medium Italic`, `Bold Italic`, `Extra Bold Italic` and `Black Italic`.
 

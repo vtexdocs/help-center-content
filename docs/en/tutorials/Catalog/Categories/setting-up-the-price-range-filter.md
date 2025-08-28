@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_3
 slugEN: setting-up-the-price-range-filter
-locale: en
 legacySlug: setting-up-the-price-range-filter
+locale: en
 subcategoryId: 1E7tziZCkY4w8i4EmUuwec
 ---
 

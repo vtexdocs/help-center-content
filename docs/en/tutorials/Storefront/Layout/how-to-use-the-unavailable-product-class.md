@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slugEN: how-to-use-the-unavailable-product-class
-locale: en
 legacySlug: how-to-use-the-unavailable-product-class
+locale: en
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
@@ -43,7 +43,7 @@ You can customize your CSS file so that this class displays, for example, a cut 
 
 ## Determining to which specification the classed will be assigned
 
->⚠️ The unavailable product class is only assigned to the specification that **last** appears in the SKU specifications list in the Catalog module.
+> ⚠️ The unavailable product class is only assigned to the specification that **last** appears in the SKU specifications list in the Catalog module.
 
 For example, in the case of a SKU that only the `Tamanho` specification will receive the unavailability class.
 

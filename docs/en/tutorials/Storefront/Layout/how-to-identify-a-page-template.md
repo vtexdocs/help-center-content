@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_35
 slugEN: how-to-identify-a-page-template
-locale: en
 legacySlug: how-to-identify-a-page-template
+locale: en
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 

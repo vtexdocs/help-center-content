@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
 slugEN: deactivating-and-reorganizing-categories
-locale: en
 legacySlug: disabling-and-reorganizing-categories
+locale: en
 subcategoryId: 1E7tziZCkY4w8i4EmUuwec
 ---
 
@@ -45,7 +45,7 @@ If a category has subcategories, they appear below the parent category in the ca
 
 ## Changing the category tree
 
->⚠️ Moving categories directly through the category tree can generate unexpected errors in your catalog. Therefore, we recommend following the instructions below to change category levels. Read the[ known issue](https://help.vtex.com/en/known-issues/mover-categorias-gera-comportamentos-inesperados-na-arvore-de-categorias--6JSa9nnYoAAUQO1zPtzfZD) related to this for more information.
+> ⚠️ Moving categories directly through the category tree can generate unexpected errors in your catalog. Therefore, we recommend following the instructions below to change category levels. Read the[ known issue](https://help.vtex.com/en/known-issues/mover-categorias-gera-comportamentos-inesperados-na-arvore-de-categorias--6JSa9nnYoAAUQO1zPtzfZD) related to this for more information.
 
 There are cases where you need to change the hierarchy level of a category. For example, imagine a store has a parent category called **Accessories** and a child category (subcategory) called **Shoes**, and they want to make **Shoes** a separate parent category.
 

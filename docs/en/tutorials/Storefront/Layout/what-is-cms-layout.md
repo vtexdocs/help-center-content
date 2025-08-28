@@ -10,13 +10,13 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 245tA425AIeioKAk2eaiwS
 slugEN: what-is-cms-layout
-locale: en
 legacySlug: what-is-cms
+locale: en
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
 <div style="background-color:#cfe2ff; border-left: 2px solid #084298; border-top-left-radius: 2px; border-bottom-left-radius: 2px; margin-bottom: 10px; padding: 15px">
-  <p>This functionality is available for stores using the Legacy Portal technology.</p>
+  This functionality is available for stores using the Legacy Portal technology.
 </div>
 
 The [Layout](https://help.vtex.com/en/subcategory/layout--2g6LxtasS4iSeGEqeYUuGW) section allows you to create your storefront with HTML and CSS. 
@@ -28,7 +28,7 @@ If you haven't yet created a Web Site (or want to create a new one), it's in thi
 **Sites and channels** is also the place where you will be able to create and organize the layouts of your site, as we will see later.
 
 <div style="background-color:#cfe2ff; border-left: 2px solid #084298; border-top-left-radius: 2px; border-bottom-left-radius: 2px; margin-bottom: 10px; padding: 15px">
-  <p>This feature is also available for stores using Site Editor.</p>
+  This feature is also available for stores using Site Editor.
 </div>
 
 ## Binding

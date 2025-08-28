@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slugEN: setting-up-the-global-category
-locale: en
 legacySlug: setting-up-the-global-category
+locale: en
 subcategoryId: 1E7tziZCkY4w8i4EmUuwec
 ---
 
@@ -19,7 +19,7 @@ The global category tree is the taxonomy created by Google for the [Merchant Cen
 
 The same global categories are available for products from all stores.
 
->ℹ️ For every category of your store, you need to choose a global category.
+> ℹ️ For every category of your store, you need to choose a global category.
 
 ### Why use it?
 
@@ -27,7 +27,7 @@ We have adopted this taxonomy because it's widely applicable to any context, and
 
 It is used, for example, as a reference for the integration of products with Amazon, Buscapé and marketplaces.
 
->ℹ️ The default behavior of our integration with Google Shopping is **not to send** this information. Thus, most stores rely on Google's own automatic categorization. If you prefer manual categorization, [contact support](https://help.vtex.com/en/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM" target="_blank).
+> ℹ️ The default behavior of our integration with Google Shopping is **not to send** this information. Thus, most stores rely on Google's own automatic categorization. If you prefer manual categorization, [contact support](https://help.vtex.com/en/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM).
 
 ### When is it applied?
 
@@ -55,7 +55,7 @@ You must choose the global category that most closely matches your product. Your
 
 Ideally, it would be best if you determined the global category in the category settings. This way, all products in a given category will belong to the same global category.
 
->❗ Choosing a global category when adding a product is only recommended if it needs to be configured differently from the products in the category it belongs to.
+> ❗ Choosing a global category when adding a product is only recommended if it needs to be configured differently from the products in the category it belongs to.
 
 You must configure the global category in the Admin. Please follow the steps below:
 
@@ -68,4 +68,4 @@ You must configure the global category in the Admin. Please follow the steps bel
 7. Type the name of the category you want to find and click on the <i class="fas fa-search"></i> button.
 8. Select a category and then click on the `Save` button.
 
->ℹ️ You can also configure the global category via [XML](https://help.vtex.com/en/tutorial/configuring-xml--tutorials_242) file.
+> ℹ️ You can also configure the global category via [XML](https://help.vtex.com/en/tutorial/configuring-xml--tutorials_242) file.

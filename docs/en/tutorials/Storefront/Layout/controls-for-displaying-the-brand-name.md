@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slugEN: controls-for-displaying-the-brand-name
-locale: en
 legacySlug: controls-for-displaying-the-brand-name
+locale: en
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
@@ -24,4 +24,4 @@ Both are shelf controls, that is, they only work on pages that use shelf templat
 The difference between the two is as follows:
 
 - The `$product.BrandName` control displays the brand name as it's registered in the store catalog. For example, if you registered a brand name like "Oliveira Juices", when you use this control, the __brand name__ will be rendered in the same way: "Oliveira Juices". This control renders only the pure string. To manipulate it on the front end, you can insert the control into an HTML element, such as a div or a span, with the class you want.
-- The `$product.Brand` control displays the brand name in a __format specified to compose URLs__. This is because uppercase characters will be replaced by their lower case equivalents, and spaces will be replaced by dash. For example, if the brand name registered in the catalog is "Oliveira Juices", this control will render the following: "oliveira-juices". In this case, the rendered HTML code has the following format: `<p class="texto brand {brand}">{brand}</p>`, where {brand} is the brand name.
+- The `$product.Brand` control displays the brand name in a __format specified to compose URLs__. This is because uppercase characters will be replaced by their lower case equivalents, and spaces will be replaced by dash. For example, if the brand name registered in the catalog is "Oliveira Juices", this control will render the following: "oliveira-juices". In this case, the rendered HTML code has the following format: `<p class="texto brand {brand}">{brand}`, where {brand} is the brand name.

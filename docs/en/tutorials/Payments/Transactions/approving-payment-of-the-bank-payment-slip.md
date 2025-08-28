@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Financial
 author: authors_84
 slugEN: approving-payment-of-the-bank-payment-slip
-locale: en
 legacySlug: approving-payment-of-the-bank-payment-slip
+locale: en
 subcategoryId: 3Gdgj9qfu8mO0c0S4Ukmsu
 ---
 
@@ -29,9 +29,9 @@ This approval can be done manually through the Orders Management module as shown
 
 **After approval of the payment, the order will go through the normal purchase flow.**
 
->ℹ️ In the Account management module, the user must have a role that includes the `Notify payment` permission to be able to approve payments.
+> ℹ️ In the Account management module, the user must have a role that includes the `Notify payment` permission to be able to approve payments.
 
 To approve payments through API, check the [documentation about the payment notification request](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/payments/-paymentId-/payment-notification).
 
->⚠️ Since [ERP integrations](https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide) are governed by the [orders flow](https://help.vtex.com/en/tutorial/fluxo-e-status-de-pedidos--tutorials_196#), manually approving a payment will continue the integration of this order with the store’s back office as usual. Therefore, caution is recommended when approving payments manually, in order to ensure that every order that is processed and shipped is received.
+> ⚠️ Since [ERP integrations](https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide) are governed by the [orders flow](https://help.vtex.com/en/tutorial/fluxo-e-status-de-pedidos--tutorials_196#), manually approving a payment will continue the integration of this order with the store’s back office as usual. Therefore, caution is recommended when approving payments manually, in order to ensure that every order that is processed and shipped is received.
 

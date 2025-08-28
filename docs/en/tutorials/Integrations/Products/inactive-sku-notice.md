@@ -10,9 +10,9 @@ contentType: tutorial
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slugEN: inactive-sku-notice
-locale: en
 legacySlug: inactive-sku-notice
+locale: en
 subcategoryId: 4HBbKdnwneGew2qGGykSM8
 ---
 
->⚠️ Content under translation.
+<div class="alert alert-warning" role="alert">Content under translation.</div>

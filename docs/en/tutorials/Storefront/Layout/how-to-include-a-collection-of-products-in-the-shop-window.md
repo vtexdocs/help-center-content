@@ -3,19 +3,19 @@ title: 'Including a collection of products in the shop window'
 id: frequentlyAskedQuestions_589
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:55.516Z
-updatedAt: 2023-03-29T18:05:00.147Z
-publishedAt: 2023-03-29T18:05:00.147Z
+updatedAt: 2025-02-01T00:12:59.875Z
+publishedAt: 2025-02-01T00:12:59.875Z
 firstPublishedAt: 2019-01-24T22:12:59.506Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slugEN: how-to-include-a-collection-of-products-in-the-shop-window
-locale: en
 legacySlug: how-to-include-a-collection-of-products-in-the-shop-window
+locale: en
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
->⚠️ **Warning:** there are two ways to configure collections, through the CMS or the Collection module (Beta). This article is about how to <a href = "https://help.vtex.com/en/tutorial/adding-collections-cms--2YBy6P6X0NFRpkD2ZBxF6L">configure collections through the CMS</a>.
+> ⚠️ **Warning:** there are two ways to configure collections, through the CMS or the Collection module (Beta). This article is about how to <a href = "https://help.vtex.com/en/tutorial/adding-collections-cms--2YBy6P6X0NFRpkD2ZBxF6L">configure collections through the CMS</a>.
 
 Shop windows are used to feature products on several pages; they can also be used for recommendations on the product page.
 
@@ -50,7 +50,7 @@ Remember to save your changes before you search or change pages.
 The next step is to add the content by selecting **Add Content**.
 ![coleção8](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Storefront/Layout/how-to-include-a-collection-of-products-in-the-shop-window_7.png)
 
-It is possible to define each content by using collections or search results, by using search parameters (further details [here](/en/tutorial/search-parameters "here"))
+It is possible to define each content by using collections or search results, by using search parameters (further details [here](https://help.vtex.com/en/tutorial/como-funciona-a-busca-da-vtex--tutorials_542)).
 
 The contents to be filled in **Content** are:
 _Content_: Name that will identify each set of items

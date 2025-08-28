@@ -10,16 +10,16 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slugEN: search-navigator-control
-locale: en
 legacySlug: search-navigator-control
+locale: en
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
->⚠️ **Warning:** there are two ways to configure collections, through the CMS or the Collection module (Beta). This article is about how to <a href = "https://help.vtex.com/en/tutorial/adding-collections-cms--2YBy6P6X0NFRpkD2ZBxF6L">configure collections through the CMS</a>.
+> ⚠️ **Warning:** there are two ways to configure collections, through the CMS or the Collection module (Beta). This article is about how to <a href = "https://help.vtex.com/en/tutorial/adding-collections-cms--2YBy6P6X0NFRpkD2ZBxF6L">configure collections through the CMS</a>.
 
 The `<vtex.cmc:searchNavigator/>` control renders a menu of filters related to the result of a search.
 
->ℹ️ This control works **only on pages with search context**, i.e. pages where the displayed results were fetched by a user search.
+> ℹ️ This control works **only on pages with search context**, i.e. pages where the displayed results were fetched by a user search.
 
 When users perform a search on the store page, the VTEX system tries to fetch results according to filter priority order. [Know more about the VTEX search works here.](/en/tutorial/how-does-vtex-search-work)
 
@@ -50,8 +50,7 @@ This flag can be found on the category registration screen.
 
 ![How Search Navigator control works EN 2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Storefront/Layout/search-navigator-control_2.png)
 
->ℹ️ **Important**: The `&lt;vtex.cmc:searchNavigator/&gt;` control displays, by default, only the primary-level categories (root) and the lowest-level sub-categories, within the current context. Intermediate splits in the categories tree are omitted. 
->   In addition, the control only functions on the first three levels, which traditionally are the Department, Category and Subcategory. If your [catalog architecture](https://help.vtex.com/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/7kz4uWVq6NoaOdUpiJv4PR) has any other subdivisions except the three levels mentioned above, these will not be displayed using the native control.
+> ℹ️ **Important**: The `&lt;vtex.cmc:searchNavigator/&gt;` control displays, by default, only the primary-level categories (root) and the lowest-level sub-categories, within the current context. Intermediate splits in the categories tree are omitted. In addition, the control only functions on the first three levels, which traditionally are the Department, Category and Subcategory. If your [catalog architecture](https://help.vtex.com/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/7kz4uWVq6NoaOdUpiJv4PR) has any other subdivisions except the three levels mentioned above, these will not be displayed using the native control.
 
 ## Brands
 
@@ -61,7 +60,7 @@ The brand registration page doesn't have a display flag in the menu rendered by 
 
 So, by default, brands are always displayed.
 
->⚠️ However, on department or category pages, brands will only be displayed by the Search Navigator control if the **Brand Filter** flag is checked when adding a category.
+> ⚠️ However, on department or category pages, brands will only be displayed by the Search Navigator control if the **Brand Filter** flag is checked when adding a category.
 
 ### In other pages:
 
@@ -87,12 +86,4 @@ Since they're filters registered in categories, price ranges are only displayed 
 
 ---
 
->ℹ️ Filters are **always** rendered based on the attributes of  search context products; meaning based on the category, specification (color, size), brand, collection, etc.
->
-> 
->
-> Therefore, in addition to the conditions listed above for these attributes to appear as filters in the menu, it's first of all necessary for the search term to return a context with products that have such attributes.
->
-> 
->
-> If the user searches, for example, for "cell" and the Shirts category does not contain any cell, it will not appear in the menu, even if the display flag in this category is checked.
+> ℹ️ Filters are **always** rendered based on the attributes of  search context products; meaning based on the category, specification (color, size), brand, collection, etc.<br><br>Therefore, in addition to the conditions listed above for these attributes to appear as filters in the menu, it's first of all necessary for the search term to return a context with products that have such attributes.<br><br>If the user searches, for example, for "cell" and the Shirts category does not contain any cell, it will not appear in the menu, even if the display flag in this category is checked.

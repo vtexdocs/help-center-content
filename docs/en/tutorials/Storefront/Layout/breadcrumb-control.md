@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slugEN: breadcrumb-control
-locale: en
 legacySlug: breadcrumb-control
+locale: en
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
@@ -34,8 +34,8 @@ Here is an example of the HTML code rendered by the breadcrumb control:
 ```html
 <div id="box-bread-brumb" class="hidden-xs"><div class="bread-crumb" xmlns:v="http://rdf.data-vocabulary.org/#">
 <ul>
-<li typeof="v:Breadcrumb"><a href="http://lojadobreno.vtexcommercestable.com.br/" rel="v:url" property="v:title">lojadobreno</a></li>
-<li class="last" typeof="v:Breadcrumb"><a href="http://lojadobreno.vtexcommercestable.com.br/livros" rel="v:url" property="v:title">Livros</a></li></ul>
+<li typeof="v:Breadcrumb">[lojadobreno](http://lojadobreno.vtexcommercestable.com.br/)</li>
+<li class="last" typeof="v:Breadcrumb">[Livros](http://lojadobreno.vtexcommercestable.com.br/livros)</li></ul>
 </div>
 </div>
 ```

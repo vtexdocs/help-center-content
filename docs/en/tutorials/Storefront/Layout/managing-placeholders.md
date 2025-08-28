@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 1DedyaVUPp5wLAvjY7wKKv
 slugEN: managing-placeholders
-locale: en
 legacySlug: managing-placeholders
+locale: en
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 

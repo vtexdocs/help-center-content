@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Channels
 author: 5l9ZQjiivHzkEVjafL4O6v
 slugEN: out-of-stock-errors-in-marketplace-integration-orders
-locale: en
 legacySlug: out-of-stock-errors-in-marketplace-integration-orders
+locale: en
 subcategoryId: 7lxg0kyL3TYIsrlSQlf1zP
 ---
 
@@ -28,7 +28,7 @@ Out-of-stock errors can occur for different reasons. Here are the most common:
 
 After resolving the error, the order must be manually reprocessed. In your Admin, go to **MARKETPLACE > Connections > Orders** and click on the order with the error. Click on the **Actions** button and choose the **Reprocess** option.
 
->ℹ️ If the error persists, please open a [VTEX support ticket](https://help.vtex.com/en/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM).
+> ℹ️ If the error persists, please open a [VTEX support ticket](https://help.vtex.com/en/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM).
 
 ### Learn more
 

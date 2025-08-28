@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slugEN: how-to-alter-a-banner
-locale: en
 legacySlug: how-to-alter-a-banner
+locale: en
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 

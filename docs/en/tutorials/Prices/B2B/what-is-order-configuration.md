@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slugEN: what-is-order-configuration
-locale: en
 legacySlug: what-is-order-configuration
+locale: en
 subcategoryId: 1GujN7Pa7NESCz0sB8srX4
 ---
 
@@ -34,5 +34,5 @@ You must associate a [price table](https://help.vtex.com/en/tracks/prices-101--6
 
 If you configure a scenario that has no price table linked to it, it will use a default price table.
 
->ℹ️ Users need to be logged in to use Order Configuration and view the different prices based on their configurations.
+> ℹ️ Users need to be logged in to use Order Configuration and view the different prices based on their configurations.
 

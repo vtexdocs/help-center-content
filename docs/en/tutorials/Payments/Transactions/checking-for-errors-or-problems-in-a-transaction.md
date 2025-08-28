@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Financial
 author: authors_59
 slugEN: checking-for-errors-or-problems-in-a-transaction
-locale: en
 legacySlug: checking-for-errors-or-problems-in-a-transaction
+locale: en
 subcategoryId: 3Gdgj9qfu8mO0c0S4Ukmsu
 ---
 
@@ -21,7 +21,7 @@ The steps of a transaction are logged in a timeline, with the most recent intera
 
 VTEX gateway can communicate with acquirers, sub-acquirers, anti-frauds and other gateways. The __status changes in the transaction__ and the __partner's reply messages__ are displayed in boxes on the transaction details screen.
 
->ℹ️ You can [click here](https://help.vtex.com/en/faq/credit-card-basic-payment-flow) to find out how the flow of a credit card transaction works. Also visit [our article](https://help.vtex.com/en/faq/registered-ticket-flow) with the basic scheme of a bank slip transaction.
+> ℹ️ You can [click here](https://help.vtex.com/en/faq/credit-card-basic-payment-flow) to find out how the flow of a credit card transaction works. Also visit [our article](https://help.vtex.com/en/faq/registered-ticket-flow) with the basic scheme of a bank slip transaction.
 
 ## Check the transaction status
 

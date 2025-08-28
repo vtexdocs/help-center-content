@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_3
 slugEN: ordering-images-on-the-shop-window-display-and-on-the-product-page
-locale: en
 legacySlug: ordering-images-on-the-shop-window-display-and-on-the-product-page
+locale: en
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 

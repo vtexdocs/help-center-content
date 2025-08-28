@@ -10,8 +10,8 @@ contentType: tutorial
 productTeam: B2B
 author: 2AhArvGNSPKwUAd8GOz0iU
 slugEN: b2b-suite-overview
-locale: en
 legacySlug: b2b-suite-overview
+locale: en
 subcategoryId: 1PSq4adEARlFaK5Mdv74Y7
 ---
 
