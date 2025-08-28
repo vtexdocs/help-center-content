@@ -154,7 +154,7 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: navgen-log
-          path: ${{ github.workspace }}/.navgen.log
+          path: .navgen.log
           compression-level: 0
           if-no-files-found: warn
 
