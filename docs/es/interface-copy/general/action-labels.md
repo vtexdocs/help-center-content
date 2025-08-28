@@ -60,7 +60,7 @@ Si el contexto ya deja claro a qué objeto se refiere la acción, no lo repitas 
 
 | Correcto ✅ | Incorrecto ❌ |
 | :--- | :--- |
-| <ul><li>Etiqueta de contenido: Producto</li><li>Etiqueta de acción: Editar</li></ul><hr><ul><li>Etiqueta de contenido: Pedido</li><li>Etiqueta de acción: Facturar</li></ul> | <ul><li>Etiqueta de contenido: Producto</li><li>Etiqueta de acción: Editar producto</li></ul><hr><ul><li>Etiqueta de contenido: Pedido</li><li>Etiqueta de acción: Facturar pedido</li></ul> |
+| <ul><li>Etiqueta de contenido: Producto</li><li>Etiqueta de acción: Editar</li></ul><ul><li>Etiqueta de contenido: Pedido</li><li>Etiqueta de acción: Facturar</li></ul> | <ul><li>Etiqueta de contenido: Producto</li><li>Etiqueta de acción: Editar producto</li></ul><ul><li>Etiqueta de contenido: Pedido</li><li>Etiqueta de acción: Facturar pedido</li></ul> |
 
 Cuando un link está integrado dentro de una oración, formando parte del texto, no es necesario usar mayúscula inicial ni empezar con un verbo, a menos que mencione el título exacto de un artículo.
 
