@@ -219,11 +219,50 @@ jobs:
             fi
           } >> "$GITHUB_STEP_SUMMARY"
 
+      - name: Commit changes back to PR branch (if any)
+        id: commit_changes
+        # Skip when running under act locally
+        if: ${{ github.event_name == 'pull_request' && env.ACT != 'true' }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -e
+          # Default outputs
+          echo "committed=false" >> "$GITHUB_OUTPUT"
+          echo "commit_sha=" >> "$GITHUB_OUTPUT"
+
+          if [ ! -f public/navigation.json ]; then
+            echo "No navigation.json file generated - nothing to commit"
+            exit 0
+          fi
+          
+          # Add the file first so git can track it for diff
+          git add public/navigation.json
+          
+          # Check if there are any changes to commit (handles both new and modified files)
+          if git diff --quiet --exit-code --cached public/navigation.json; then
+            echo "No changes to navigation.json - nothing to commit"
+            git reset public/navigation.json  # unstage if no changes
+            exit 0
+          fi
+          
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore(nav): update navigation.json via vtexhelp-nav-cli"
+          NEW_SHA=$(git rev-parse HEAD)
+          # Push using HEAD:branch syntax to handle detached HEAD state
+          git push origin HEAD:${{ github.head_ref }}
+          # Set outputs
+          echo "committed=true" >> "$GITHUB_OUTPUT"
+          echo "commit_sha=$NEW_SHA" >> "$GITHUB_OUTPUT"
+
       - name: Create or update PR comment with navigation report
         if: ${{ github.event_name == 'pull_request' }}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           LOG_ARTIFACT_URL: ${{ steps.upload_log.outputs.artifact-url }}
+          AUTO_COMMIT: ${{ steps.commit_changes.outputs.committed }}
+          AUTO_COMMIT_SHA: ${{ steps.commit_changes.outputs.commit_sha }}
         run: |
           set -e
           FILE="public/navigation.json"
@@ -298,6 +337,8 @@ jobs:
           ### VALIDATION_EMOJI_PLACEHOLDER Validation Status: VALIDATION_PLACEHOLDER
           VALIDATION_DETAILS_PLACEHOLDER
           
+          AUTOCOMMIT_LINE_PLACEHOLDER
+          
           <details>
           <summary><strong>📊 Generation Details</strong> (click to expand)</summary>
           
@@ -331,6 +372,23 @@ jobs:
           else
             LOG_LINK="- **Full log**: Not available"
           fi
+
+          # Build auto-commit line
+          if [ "$AUTO_COMMIT" = "true" ]; then
+            AC_EMOJI="📝"
+            if [ -n "$AUTO_COMMIT_SHA" ]; then
+              AC_TEXT="Navigation changes committed by workflow (commit $AUTO_COMMIT_SHA)"
+            else
+              AC_TEXT="Navigation changes committed by workflow"
+            fi
+          elif [ "$AUTO_COMMIT" = "false" ]; then
+            AC_EMOJI="ℹ️"
+            AC_TEXT="No navigation changes to commit"
+          else
+            AC_EMOJI="ℹ️"
+            AC_TEXT="Auto-commit skipped or not applicable"
+          fi
+          AUTOCOMMIT_LINE="**$AC_EMOJI Auto-commit**: $AC_TEXT"
           
           # Replace placeholders
           COMMENT_BODY="${COMMENT_BODY//COMMIT_SHA_PLACEHOLDER/$COMMIT_SHA}"
@@ -351,6 +409,7 @@ jobs:
           COMMENT_BODY="${COMMENT_BODY//PARSE_ERRORS_SECTION_PLACEHOLDER/$PARSE_ERRORS_SECTION}"
           COMMENT_BODY="${COMMENT_BODY//DUPLICATE_CONFLICTS_SECTION_PLACEHOLDER/$DUPLICATE_CONFLICTS_SECTION}"
           COMMENT_BODY="${COMMENT_BODY//LOG_LINK_PLACEHOLDER/$LOG_LINK}"
+          COMMENT_BODY="${COMMENT_BODY//AUTOCOMMIT_LINE_PLACEHOLDER/$AUTOCOMMIT_LINE}"
           
           # Find existing comment
           EXISTING_COMMENT_ID=$(gh pr view ${{ github.event.number }} --json comments --jq '.comments[] | select(.body | contains("🧭 Navigation Generation Report")) | .id' | head -1 || true)
@@ -363,30 +422,3 @@ jobs:
             echo "$COMMENT_BODY" | gh pr comment ${{ github.event.number }} --body-file -
           fi
 
-      - name: Commit changes back to PR branch (if any)
-        # Skip when running under act locally
-        if: ${{ github.event_name == 'pull_request' && env.ACT != 'true' }}
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          set -e
-          if [ ! -f public/navigation.json ]; then
-            echo "No navigation.json file generated - nothing to commit"
-            exit 0
-          fi
-          
-          # Add the file first so git can track it for diff
-          git add public/navigation.json
-          
-          # Check if there are any changes to commit (handles both new and modified files)
-          if git diff --quiet --exit-code --cached public/navigation.json; then
-            echo "No changes to navigation.json - nothing to commit"
-            git reset public/navigation.json  # unstage if no changes
-            exit 0
-          fi
-          
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit -m "chore(nav): update navigation.json via vtexhelp-nav-cli"
-          # Push using HEAD:branch syntax to handle detached HEAD state
-          git push origin HEAD:${{ github.head_ref }}
