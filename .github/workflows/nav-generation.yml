@@ -30,7 +30,7 @@ jobs:
             /**/*.json
             /**/*.yml
             public/
-          sparse-checkout-cone: false
+          sparse-checkout-cone-mode: false
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -131,6 +131,15 @@ jobs:
           compression-level: 0
           if-no-files-found: error
 
+      - name: Upload generation log as artifact
+        if: ${{ always() }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: navgen-log
+          path: .navgen.log
+          compression-level: 0
+          if-no-files-found: warn
+
       - name: Summarize navigation (job summary)
         if: ${{ always() }}
         env:
@@ -148,38 +157,147 @@ jobs:
             HUMAN="0 bytes"
             SHA256="N/A"
           fi
-          FILES_PROCESSED=$(grep -E 'Files processed:' "$LOG" 2>/dev/null | tail -n1 | sed -E 's/.*Files processed:[[:space:]]*([0-9]+).*/\1/' || true)
-          CATEGORIES=$(grep -E 'Categories:' "$LOG" 2>/dev/null | tail -n1 | sed -E 's/.*Categories:[[:space:]]*([0-9]+).*/\1/' || true)
-          DOCUMENTS=$(grep -E 'Documents:' "$LOG" 2>/dev/null | tail -n1 | sed -E 's/.*Documents:[[:space:]]*([0-9]+).*/\1/' || true)
-          VALIDATION=$(grep -E 'Validation:' "$LOG" 2>/dev/null | tail -n1 | sed -E 's/.*Validation:[[:space:]]*([A-Za-z]+).*/\1/' || true)
-          WARNINGS=$(grep -E 'Warnings:' "$LOG" 2>/dev/null | tail -n1 | sed -E 's/.*Warnings:[[:space:]]*([0-9]+).*/\1/' || true)
-          LANG_COVERAGE=$(awk '/Language Coverage:/,/^$/' "$LOG" 2>/dev/null | sed 's/^/  /' || true)
+          
+          # Extract key metrics from log
+          FILES_PROCESSED=$(grep -E 'Files processed:' "$LOG" 2>/dev/null | tail -n1 | sed -E 's/.*Files processed:[[:space:]]*([0-9]+).*/\1/' || echo "0")
+          FILES_SKIPPED=$(grep -E 'Files skipped \(parse errors\):' "$LOG" 2>/dev/null | tail -n1 | sed -E 's/.*Files skipped \(parse errors\):[[:space:]]*([0-9]+).*/\1/' || echo "0")
+          CATEGORIES=$(grep -E 'Categories:' "$LOG" 2>/dev/null | tail -n1 | sed -E 's/.*Categories:[[:space:]]*([0-9]+).*/\1/' || echo "0")
+          DOCUMENTS=$(grep -E 'Documents:' "$LOG" 2>/dev/null | tail -n1 | sed -E 's/.*Documents:[[:space:]]*([0-9]+).*/\1/' || echo "0")
+          VALIDATION=$(grep -E 'Validation:' "$LOG" 2>/dev/null | tail -n1 | sed -E 's/.*Validation:[[:space:]]*([A-Za-z]+).*/\1/' || echo "UNKNOWN")
+          PARSE_ERRORS=$(grep -E 'Parse errors:' "$LOG" 2>/dev/null | tail -n1 | sed -E 's/.*Parse errors:[[:space:]]*([0-9]+).*/\1/' || echo "0")
+          DUPLICATE_CONFLICTS=$(grep -E 'Duplicate slug conflicts:' "$LOG" 2>/dev/null | tail -n1 | sed -E 's/.*Duplicate slug conflicts:[[:space:]]*([0-9]+).*/\1/' || echo "0")
+          DURATION=$(grep -E 'Duration:' "$LOG" 2>/dev/null | tail -n1 | sed -E 's/.*Duration:[[:space:]]*([0-9]+[a-z]*).*/\1/' || echo "unknown")
+          
+          # Extract language coverage
+          LANG_COVERAGE=$(awk '/Language Coverage:/,/^$/' "$LOG" 2>/dev/null | grep -E '^[[:space:]]*[A-Z]{2}:' | sed 's/^/  /' || true)
+          
+          # Extract error samples (first few parse errors and duplicate slugs)
+          PARSE_ERROR_SAMPLES=$(grep -E '^❌ Failed to parse markdown file:' "$LOG" 2>/dev/null | head -5 | sed 's/^❌ Failed to parse markdown file: /- /' || true)
+          DUPLICATE_SLUG_SAMPLES=$(grep -E '^❌ Duplicate slug' "$LOG" 2>/dev/null | head -5 | sed 's/^❌ /- /' || true)
 
           {
             echo "## Navigation generation report"
             echo ""
-            echo "- Output file: $FILE"
-            echo "- Size: $BYTES bytes ($HUMAN)"
-            echo "- SHA256: \`$SHA256\`"
+            echo "- **Output file**: $FILE"
+            echo "- **Size**: $BYTES bytes ($HUMAN)"
+            echo "- **SHA256**: \`$SHA256\`"
+            echo "- **Duration**: $DURATION"
             if [ -n "$ARTIFACT_URL" ]; then
-              echo "- Artifact: $ARTIFACT_URL"
+              echo "- **Artifact**: $ARTIFACT_URL"
             fi
             echo ""
-            if [ -n "$FILES_PROCESSED$CATEGORIES$DOCUMENTS$VALIDATION$WARNINGS" ]; then
-              echo "### Stats"
-              [ -n "$FILES_PROCESSED" ] && echo "- Files processed: $FILES_PROCESSED"
-              [ -n "$CATEGORIES" ] && echo "- Categories: $CATEGORIES"
-              [ -n "$DOCUMENTS" ] && echo "- Documents: $DOCUMENTS"
-              [ -n "$VALIDATION" ] && echo "- Validation: $VALIDATION"
-              [ -n "$WARNINGS" ] && echo "- Warnings: $WARNINGS"
-              echo ""
-            fi
+            echo "### 📊 Statistics"
+            echo "- **Files processed**: $FILES_PROCESSED"
+            echo "- **Files skipped (parse errors)**: $FILES_SKIPPED"
+            echo "- **Categories**: $CATEGORIES"
+            echo "- **Documents**: $DOCUMENTS"
+            echo "- **Validation**: $VALIDATION"
+            echo "- **Parse errors**: $PARSE_ERRORS"
+            echo "- **Duplicate slug conflicts**: $DUPLICATE_CONFLICTS"
+            echo ""
             if [ -n "$LANG_COVERAGE" ]; then
-              echo "### Language coverage"
+              echo "### 🌍 Language coverage"
               echo "$LANG_COVERAGE"
               echo ""
             fi
+            if [ -n "$PARSE_ERROR_SAMPLES" ] && [ "$PARSE_ERRORS" != "0" ]; then
+              echo "### ⚠️ Sample parse errors"
+              echo "$PARSE_ERROR_SAMPLES"
+              echo ""
+            fi
+            if [ -n "$DUPLICATE_SLUG_SAMPLES" ] && [ "$DUPLICATE_CONFLICTS" != "0" ]; then
+              echo "### 🔗 Sample duplicate slug conflicts"
+              echo "$DUPLICATE_SLUG_SAMPLES"
+              echo ""
+            fi
           } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Create or update PR comment with navigation report
+        if: ${{ github.event_name == 'pull_request' }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -e
+          FILE="public/navigation.json"
+          LOG=".navgen.log"
+          
+          # Get commit info
+          COMMIT_SHA="${{ github.event.pull_request.head.sha }}"
+          COMMIT_TIME=$(git show -s --format=%ci "$COMMIT_SHA" 2>/dev/null || date -u +"%Y-%m-%d %H:%M:%S UTC")
+          
+          # Extract metrics (same as in summary step)
+          if [ -f "$FILE" ]; then
+            BYTES=$(stat -c%s "$FILE" 2>/dev/null || wc -c < "$FILE")
+            HUMAN=$(numfmt --to=iec "$BYTES" 2>/dev/null || echo "${BYTES} bytes")
+            SHA256=$(sha256sum "$FILE" | awk '{print $1}')
+          else
+            BYTES=0
+            HUMAN="0 bytes"
+            SHA256="N/A"
+          fi
+          
+          FILES_PROCESSED=$(grep -E 'Files processed:' "$LOG" 2>/dev/null | tail -n1 | sed -E 's/.*Files processed:[[:space:]]*([0-9]+).*/\1/' || echo "0")
+          FILES_SKIPPED=$(grep -E 'Files skipped \(parse errors\):' "$LOG" 2>/dev/null | tail -n1 | sed -E 's/.*Files skipped \(parse errors\):[[:space:]]*([0-9]+).*/\1/' || echo "0")
+          CATEGORIES=$(grep -E 'Categories:' "$LOG" 2>/dev/null | tail -n1 | sed -E 's/.*Categories:[[:space:]]*([0-9]+).*/\1/' || echo "0")
+          DOCUMENTS=$(grep -E 'Documents:' "$LOG" 2>/dev/null | tail -n1 | sed -E 's/.*Documents:[[:space:]]*([0-9]+).*/\1/' || echo "0")
+          VALIDATION=$(grep -E 'Validation:' "$LOG" 2>/dev/null | tail -n1 | sed -E 's/.*Validation:[[:space:]]*([A-Za-z]+).*/\1/' || echo "UNKNOWN")
+          PARSE_ERRORS=$(grep -E 'Parse errors:' "$LOG" 2>/dev/null | tail -n1 | sed -E 's/.*Parse errors:[[:space:]]*([0-9]+).*/\1/' || echo "0")
+          DUPLICATE_CONFLICTS=$(grep -E 'Duplicate slug conflicts:' "$LOG" 2>/dev/null | tail -n1 | sed -E 's/.*Duplicate slug conflicts:[[:space:]]*([0-9]+).*/\1/' || echo "0")
+          DURATION=$(grep -E 'Duration:' "$LOG" 2>/dev/null | tail -n1 | sed -E 's/.*Duration:[[:space:]]*([0-9]+[a-z]*).*/\1/' || echo "unknown")
+          
+          # Create comment body
+          COMMENT_BODY=$(cat << 'EOF'
+          ## 🧭 Navigation Generation Report
+          
+          **Commit**: `COMMIT_SHA_PLACEHOLDER` (COMMIT_TIME_PLACEHOLDER)
+          
+          ### 📊 Generation Results
+          - **Files processed**: FILES_PROCESSED_PLACEHOLDER
+          - **Files skipped**: FILES_SKIPPED_PLACEHOLDER  
+          - **Categories**: CATEGORIES_PLACEHOLDER
+          - **Documents**: DOCUMENTS_PLACEHOLDER
+          - **Duration**: DURATION_PLACEHOLDER
+          
+          ### 📄 Output File
+          - **Path**: `FILE_PLACEHOLDER`
+          - **Size**: HUMAN_PLACEHOLDER
+          - **SHA256**: `SHA256_PLACEHOLDER`
+          
+          ### ✅ Validation
+          - **Status**: VALIDATION_PLACEHOLDER
+          - **Parse errors**: PARSE_ERRORS_PLACEHOLDER
+          - **Duplicate conflicts**: DUPLICATE_CONFLICTS_PLACEHOLDER
+          
+          ---
+          *Generated by [nav-generation workflow](https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }})*
+          EOF
+          )
+          
+          # Replace placeholders
+          COMMENT_BODY="${COMMENT_BODY//COMMIT_SHA_PLACEHOLDER/$COMMIT_SHA}"
+          COMMENT_BODY="${COMMENT_BODY//COMMIT_TIME_PLACEHOLDER/$COMMIT_TIME}"
+          COMMENT_BODY="${COMMENT_BODY//FILES_PROCESSED_PLACEHOLDER/$FILES_PROCESSED}"
+          COMMENT_BODY="${COMMENT_BODY//FILES_SKIPPED_PLACEHOLDER/$FILES_SKIPPED}"
+          COMMENT_BODY="${COMMENT_BODY//CATEGORIES_PLACEHOLDER/$CATEGORIES}"
+          COMMENT_BODY="${COMMENT_BODY//DOCUMENTS_PLACEHOLDER/$DOCUMENTS}"
+          COMMENT_BODY="${COMMENT_BODY//DURATION_PLACEHOLDER/$DURATION}"
+          COMMENT_BODY="${COMMENT_BODY//FILE_PLACEHOLDER/$FILE}"
+          COMMENT_BODY="${COMMENT_BODY//HUMAN_PLACEHOLDER/$HUMAN}"
+          COMMENT_BODY="${COMMENT_BODY//SHA256_PLACEHOLDER/$SHA256}"
+          COMMENT_BODY="${COMMENT_BODY//VALIDATION_PLACEHOLDER/$VALIDATION}"
+          COMMENT_BODY="${COMMENT_BODY//PARSE_ERRORS_PLACEHOLDER/$PARSE_ERRORS}"
+          COMMENT_BODY="${COMMENT_BODY//DUPLICATE_CONFLICTS_PLACEHOLDER/$DUPLICATE_CONFLICTS}"
+          
+          # Find existing comment
+          EXISTING_COMMENT_ID=$(gh pr view ${{ github.event.number }} --json comments --jq '.comments[] | select(.body | contains("🧭 Navigation Generation Report")) | .id' | head -1 || true)
+          
+          if [ -n "$EXISTING_COMMENT_ID" ]; then
+            echo "Updating existing comment ID: $EXISTING_COMMENT_ID"
+            echo "$COMMENT_BODY" | gh pr comment ${{ github.event.number }} --edit-last --body-file -
+          else
+            echo "Creating new comment"
+            echo "$COMMENT_BODY" | gh pr comment ${{ github.event.number }} --body-file -
+          fi
 
       - name: Commit changes back to PR branch (if any)
         # Skip when running under act locally
