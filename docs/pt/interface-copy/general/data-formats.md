@@ -170,9 +170,15 @@ Sempre use o meia-risca (en dash –) com espaço antes e depois para indicar in
 
 O formato padrão de endereço no Brasil inclui o nome do destinatário, seguido do logradouro com tipo (rua, avenida, etc.), nome, número e complemento, quando houver. Em seguida, deve vir o bairro (opcional, mas recomendado em cidades maiores) e, por fim, a cidade, a sigla do estado em maiúsculas e o CEP com oito dígitos, separado por hífen (xxxxx-xxx).
 
-| Exemplo |
-| :--- |
-| Maria Silva<br>Rua das Flores, 123, apto 45<br>Jardim Primavera<br>São Paulo, SP<br>01234-567 |
+Exemplo:
+
+```
+Maria Silva
+Rua das Flores, 123, apto 45
+Jardim Primavera
+São Paulo, SP
+01234-567
+```
 
 Use vírgula entre a cidade e o estado. Se o endereço for escrito em uma única linha, coloque vírgula após o nome da rua e após a cidade.
 
