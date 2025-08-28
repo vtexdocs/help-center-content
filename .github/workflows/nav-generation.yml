@@ -23,6 +23,14 @@ jobs:
         with:
           fetch-depth: 0
           ref: ${{ github.head_ref }}
+          filter: blob:none
+          sparse-checkout: |
+            /**/*.md
+            /**/*.mdx
+            /**/*.json
+            /**/*.yml
+            public/
+          sparse-checkout-cone: false
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -61,11 +69,11 @@ jobs:
             rm -rf vtexhelp-nav-cli
             echo "Trying different clone methods..." | tee -a "$LOG"
             # Try multiple clone approaches
-            git clone --depth 1 https://github.com/vtexdocs/vtexhelp-nav-cli.git 2>&1 | tee -a "$LOG"
+            git clone --filter=blob:none --depth 1 https://github.com/vtexdocs/vtexhelp-nav-cli.git 2>&1 | tee -a "$LOG"
             CLONE_STATUS=${PIPESTATUS[0]}
             if [ $CLONE_STATUS -ne 0 ]; then
               echo "HTTPS clone failed, trying with per-command SSL verification disabled..." | tee -a "$LOG"
-              git -c http.sslverify=false clone --depth 1 https://github.com/vtexdocs/vtexhelp-nav-cli.git 2>&1 | tee -a "$LOG"
+              git -c http.sslverify=false clone --filter=blob:none --depth 1 https://github.com/vtexdocs/vtexhelp-nav-cli.git 2>&1 | tee -a "$LOG"
               CLONE_STATUS=${PIPESTATUS[0]}
             fi
             if [ $CLONE_STATUS -ne 0 ]; then
