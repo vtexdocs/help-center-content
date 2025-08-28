@@ -56,40 +56,40 @@ jobs:
           set +e
           # 1) Try GitHub shorthand (tarball install) — avoids git when possible
           npx --yes --package="github:vtexdocs/vtexhelp-nav-cli#main" --package=axios --package=dotenv \
-            vtex-nav gen --content-dir . --output public/navigation.json ${EXTRA_ARGS} 2>&1 | tee -a "$LOG"
-          GEN_STATUS=${PIPESTATUS[0]}
+            vtex-nav gen --content-dir . --output public/navigation.json ${EXTRA_ARGS} > "$LOG" 2>&1
+          GEN_STATUS=$?
           if [ $GEN_STATUS -ne 0 ]; then
-            echo "npx via github: failed (exit $GEN_STATUS). Retrying via git+https..." | tee -a "$LOG"
+            echo "npx via github: failed (exit $GEN_STATUS). Retrying via git+https..." >> "$LOG"
             npx --yes --package="git+https://github.com/vtexdocs/vtexhelp-nav-cli.git#main" --package=axios --package=dotenv \
-              vtex-nav gen --content-dir . --output public/navigation.json ${EXTRA_ARGS} 2>&1 | tee -a "$LOG"
-            GEN_STATUS=${PIPESTATUS[0]}
+              vtex-nav gen --content-dir . --output public/navigation.json ${EXTRA_ARGS} >> "$LOG" 2>&1
+            GEN_STATUS=$?
           fi
           if [ $GEN_STATUS -ne 0 ]; then
-            echo "npx failed (exit $GEN_STATUS). Falling back to clone+build path..." | tee -a "$LOG"
+            echo "npx failed (exit $GEN_STATUS). Falling back to clone+build path..." >> "$LOG"
             rm -rf vtexhelp-nav-cli
-            echo "Trying different clone methods..." | tee -a "$LOG"
+            echo "Trying different clone methods..." >> "$LOG"
             # Try multiple clone approaches
-            git clone --filter=blob:none --depth 1 https://github.com/vtexdocs/vtexhelp-nav-cli.git 2>&1 | tee -a "$LOG"
-            CLONE_STATUS=${PIPESTATUS[0]}
+            git clone --filter=blob:none --depth 1 https://github.com/vtexdocs/vtexhelp-nav-cli.git >> "$LOG" 2>&1
+            CLONE_STATUS=$?
             if [ $CLONE_STATUS -ne 0 ]; then
-              echo "HTTPS clone failed, trying with per-command SSL verification disabled..." | tee -a "$LOG"
-              git -c http.sslverify=false clone --filter=blob:none --depth 1 https://github.com/vtexdocs/vtexhelp-nav-cli.git 2>&1 | tee -a "$LOG"
-              CLONE_STATUS=${PIPESTATUS[0]}
+              echo "HTTPS clone failed, trying with per-command SSL verification disabled..." >> "$LOG"
+              git -c http.sslverify=false clone --filter=blob:none --depth 1 https://github.com/vtexdocs/vtexhelp-nav-cli.git >> "$LOG" 2>&1
+              CLONE_STATUS=$?
             fi
             if [ $CLONE_STATUS -ne 0 ]; then
-              echo "Still failing, trying curl + unzip approach..." | tee -a "$LOG"
-              curl -L https://github.com/vtexdocs/vtexhelp-nav-cli/archive/refs/heads/main.zip -o vtexhelp-nav-cli.zip 2>&1 | tee -a "$LOG"
-              CURL_STATUS=${PIPESTATUS[0]}
+              echo "Still failing, trying curl + unzip approach..." >> "$LOG"
+              curl -L https://github.com/vtexdocs/vtexhelp-nav-cli/archive/refs/heads/main.zip -o vtexhelp-nav-cli.zip >> "$LOG" 2>&1
+              CURL_STATUS=$?
               if [ $CURL_STATUS -eq 0 ]; then
                 unzip -q vtexhelp-nav-cli.zip && mv vtexhelp-nav-cli-main vtexhelp-nav-cli
                 CLONE_STATUS=0
-                echo "Successfully downloaded via curl+unzip" | tee -a "$LOG"
+                echo "Successfully downloaded via curl+unzip" >> "$LOG"
               else
-                echo "curl download also failed (exit $CURL_STATUS)" | tee -a "$LOG"
+                echo "curl download also failed (exit $CURL_STATUS)" >> "$LOG"
               fi
             fi
             if [ $CLONE_STATUS -ne 0 ]; then
-              echo "git clone failed (exit $CLONE_STATUS)" | tee -a "$LOG"
+              echo "git clone failed (exit $CLONE_STATUS)" >> "$LOG"
             else
               (
                 set -e
@@ -105,18 +105,23 @@ jobs:
                   npm install --no-audit --no-fund axios dotenv
                   npm run build
                 fi
-              ) 2>&1 | tee -a "$LOG"
-              BUILD_STATUS=${PIPESTATUS[0]}
+              ) >> "$LOG" 2>&1
+              BUILD_STATUS=$?
               if [ $BUILD_STATUS -eq 0 ]; then
-                node vtexhelp-nav-cli/dist/cli.js gen --content-dir . --output public/navigation.json ${EXTRA_ARGS} 2>&1 | tee -a "$LOG"
-                GEN_STATUS=${PIPESTATUS[0]}
+                node vtexhelp-nav-cli/dist/cli.js gen --content-dir . --output public/navigation.json ${EXTRA_ARGS} >> "$LOG" 2>&1
+                GEN_STATUS=$?
               else
-                echo "CLI build failed (exit $BUILD_STATUS)" | tee -a "$LOG"
+                echo "CLI build failed (exit $BUILD_STATUS)" >> "$LOG"
               fi
             fi
           fi
           set -e
           echo "Generator exit code: $GEN_STATUS" >> "$LOG"
+          # Debug: Ensure log file exists and add final marker
+          echo "=== END OF LOG ===" >> "$LOG"
+          echo "Debug: Log file path is $LOG"
+          ls -la "$LOG" || echo "Log file does not exist!"
+          echo "Debug: Log file size: $(wc -l < "$LOG" 2>/dev/null || echo 'N/A') lines"
           if [ $GEN_STATUS -ne 0 ]; then
             echo "Generator exited with code $GEN_STATUS"
             exit $GEN_STATUS
