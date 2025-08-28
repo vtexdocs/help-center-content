@@ -60,7 +60,7 @@ Se o contexto já deixa claro a que objeto se refere a ação, não o repita na 
 
 | Correto ✅ | Incorreto ❌ |
 | :--- | :--- |
-| <ul><li>Label de conteúdo: Produto</li><li>Label de ação: Editar</li></ul><hr><ul><li>Label de conteúdo: Pedido</li><li>Label de ação: Faturar</li></ul> | <ul><li>Label de conteúdo: Produto</li><li>Label de ação: Editar produto</li></ul><hr><ul><li>Label de conteúdo: Pedido</li><li>Label de ação: Faturar pedido</li></ul> |
+| <ul><li>Label de conteúdo: Produto</li><li>Label de ação: Editar</li></ul><ul><li>Label de conteúdo: Pedido</li><li>Label de ação: Faturar</li></ul> | <ul><li>Label de conteúdo: Produto</li><li>Label de ação: Editar produto</li></ul><ul><li>Label de conteúdo: Pedido</li><li>Label de ação: Faturar pedido</li></ul> |
 
 Quando um link está no meio de um parágrafo, não é necessário iniciar com maiúscula ou verbo, a menos que seja o título exato de um artigo.
 
