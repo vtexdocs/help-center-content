@@ -171,6 +171,10 @@ jobs:
           DUPLICATE_CONFLICTS=$(grep -E 'Duplicate slug conflicts:' "$LOG" 2>/dev/null | tail -n1 | sed -E 's/.*Duplicate slug conflicts:[[:space:]]*([0-9]+).*/\1/' || echo "0")
           DURATION=$(grep -E 'Duration:' "$LOG" 2>/dev/null | tail -n1 | sed -E 's/.*Duration:[[:space:]]*([0-9]+[a-z]*).*/\1/' || echo "unknown")
           
+          # Extract error samples for PR comment
+          PARSE_ERROR_SAMPLES=$(grep -E '^❌ Failed to parse markdown file:' "$LOG" 2>/dev/null | head -10 | sed 's/^❌ Failed to parse markdown file: /- /' || true)
+          DUPLICATE_SLUG_SAMPLES=$(grep -E '^❌ Duplicate slug' "$LOG" 2>/dev/null | head -10 | sed 's/^❌ /- /' || true)
+          
           # Extract language coverage
           LANG_COVERAGE=$(awk '/Language Coverage:/,/^$/' "$LOG" 2>/dev/null | grep -E '^[[:space:]]*[A-Z]{2}:' | sed 's/^/  /' || true)
           
@@ -249,6 +253,10 @@ jobs:
           DUPLICATE_CONFLICTS=$(grep -E 'Duplicate slug conflicts:' "$LOG" 2>/dev/null | tail -n1 | sed -E 's/.*Duplicate slug conflicts:[[:space:]]*([0-9]+).*/\1/' || echo "0")
           DURATION=$(grep -E 'Duration:' "$LOG" 2>/dev/null | tail -n1 | sed -E 's/.*Duration:[[:space:]]*([0-9]+[a-z]*).*/\1/' || echo "unknown")
           
+          # Extract error samples for PR comment
+          PARSE_ERROR_SAMPLES=$(grep -E '^❌ Failed to parse markdown file:' "$LOG" 2>/dev/null | head -10 | sed 's/^❌ Failed to parse markdown file: /- /' || true)
+          DUPLICATE_SLUG_SAMPLES=$(grep -E '^❌ Duplicate slug' "$LOG" 2>/dev/null | head -10 | sed 's/^❌ /- /' || true)
+          
           # Determine validation emoji and detailed message based on status
           if [ "$VALIDATION" = "FAILED" ]; then
             VALIDATION_EMOJI="❌"
@@ -260,6 +268,27 @@ jobs:
             else
               VALIDATION_DETAILS="**Parse errors**: $PARSE_ERRORS • **Duplicate conflicts**: $DUPLICATE_CONFLICTS"
             fi
+          fi
+          
+          # Build collapsible error sections
+          PARSE_ERRORS_SECTION=""
+          if [ -n "$PARSE_ERROR_SAMPLES" ] && [ "$PARSE_ERRORS" != "0" ]; then
+            PARSE_ERRORS_SECTION="<details>
+          <summary><strong>⚠️ Parse Errors ($PARSE_ERRORS files)</strong></summary>
+          
+          $PARSE_ERROR_SAMPLES
+          
+          </details>"
+          fi
+          
+          DUPLICATE_CONFLICTS_SECTION=""
+          if [ -n "$DUPLICATE_SLUG_SAMPLES" ] && [ "$DUPLICATE_CONFLICTS" != "0" ]; then
+            DUPLICATE_CONFLICTS_SECTION="<details>
+          <summary><strong>🔗 Duplicate Slug Conflicts ($DUPLICATE_CONFLICTS conflicts)</strong></summary>
+          
+          $DUPLICATE_SLUG_SAMPLES
+          
+          </details>"
           fi
           
           # Create comment body
@@ -282,6 +311,10 @@ jobs:
           | Files skipped | FILES_SKIPPED_PLACEHOLDER | Size | HUMAN_PLACEHOLDER |
           | Categories | CATEGORIES_PLACEHOLDER | SHA256 | `SHA256_PLACEHOLDER` |
           | Documents | DOCUMENTS_PLACEHOLDER | Duplicate conflicts | DUPLICATE_CONFLICTS_PLACEHOLDER |
+          
+          PARSE_ERRORS_SECTION_PLACEHOLDER
+          
+          DUPLICATE_CONFLICTS_SECTION_PLACEHOLDER
           
           **📋 Generation Log**: LOG_LINK_PLACEHOLDER
           
@@ -315,6 +348,8 @@ jobs:
           COMMENT_BODY="${COMMENT_BODY//VALIDATION_DETAILS_PLACEHOLDER/$VALIDATION_DETAILS}"
           COMMENT_BODY="${COMMENT_BODY//PARSE_ERRORS_PLACEHOLDER/$PARSE_ERRORS}"
           COMMENT_BODY="${COMMENT_BODY//DUPLICATE_CONFLICTS_PLACEHOLDER/$DUPLICATE_CONFLICTS}"
+          COMMENT_BODY="${COMMENT_BODY//PARSE_ERRORS_SECTION_PLACEHOLDER/$PARSE_ERRORS_SECTION}"
+          COMMENT_BODY="${COMMENT_BODY//DUPLICATE_CONFLICTS_SECTION_PLACEHOLDER/$DUPLICATE_CONFLICTS_SECTION}"
           COMMENT_BODY="${COMMENT_BODY//LOG_LINK_PLACEHOLDER/$LOG_LINK}"
           
           # Find existing comment
