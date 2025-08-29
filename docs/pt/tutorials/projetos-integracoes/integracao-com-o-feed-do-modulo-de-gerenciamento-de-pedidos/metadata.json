@@ -1,0 +1,6 @@
+{
+  "id": "orders-management-feed-integration",
+  "name": "Integração com o Feed do módulo de Gerenciamento de pedidos",
+  "slug": "integracao-com-o-feed-do-modulo-de-gerenciamento-de-pedidos",
+  "order": 3
+}

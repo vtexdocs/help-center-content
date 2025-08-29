@@ -48,7 +48,7 @@ function generateTutorialMarkdown(
 ) {
   const { fields, sys } = entry;
 
-  const title = fields.title?.[locale] || "Untitled";
+  const title = fields.title?.[locale].trim() || "Untitled";
   const slugLocalized = fields.slug?.[locale] || "untitled";
   const slugEN = fields.slug?.en || "untitled";
   const legacySlug = fields.legacySlug?.[locale] || "";
@@ -107,7 +107,7 @@ function generateAnnouncementMarkdown(entry, locale = "en") {
 
   const dateISO = toISODate(sys.createdAt);
 
-  const title = fields.title?.[locale] || "Untitled";
+  const title = fields.title?.[locale].trim() || "Untitled";
   const slugLocalized = `${dateISO}-${fields.slug?.[locale]}` || "undefined";
   const slugEN = `${dateISO}-${fields.slug?.en}` || "undefined";
   const productTeam = fields.xpTeam?.pt || "unknown";
@@ -148,7 +148,7 @@ ${text}
 function generateFaqMarkdown(entry, locale = "en") {
   const { fields, sys } = entry;
 
-  const title = fields.title?.[locale] || "Untitled";
+  const title = fields.title?.[locale].trim() || "Untitled";
   const slugLocalized = fields.slug?.[locale] || "untitled";
   const slugEN = fields.slug?.en || "untitled";
   const legacySlug = fields.legacySlug?.[locale] || "";
