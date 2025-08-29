@@ -10112,6 +10112,115 @@
           "children": [
             {
               "name": {
+<<<<<<< HEAD
+=======
+                "en": "VTEX store overview",
+                "es": "Serie de la tienda VTEX",
+                "pt": "Trilha da loja VTEX"
+              },
+              "slug": {
+                "en": "vtex-store-overview",
+                "es": "serie-de-la-tienda-vtex",
+                "pt": "trilha-da-loja-vtex"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "1. Introduction to VTEX",
+                    "es": "1. Introducción a VTEX",
+                    "pt": "1. Introdução à VTEX"
+                  },
+                  "slug": {
+                    "en": "introduction-to-vtex",
+                    "es": "introduccion-a-vtex",
+                    "pt": "introducao-a-vtex"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "2. Initial setup",
+                    "es": "2. Configuración inicial",
+                    "pt": "2. Configurações iniciais"
+                  },
+                  "slug": {
+                    "en": "initial-setup",
+                    "es": "configuracion-inicial",
+                    "pt": "configuracoes-iniciais"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "3. Backend integrations",
+                    "es": "3. Integraciones de backend",
+                    "pt": "3. Integrações de backend"
+                  },
+                  "slug": {
+                    "en": "backend-integrations",
+                    "es": "integraciones-de-backend",
+                    "pt": "integracoes-de-backend"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "4. VTEX modules I",
+                    "es": "4. Módulos de VTEX I",
+                    "pt": "4. Módulos da VTEX I"
+                  },
+                  "slug": {
+                    "en": "vtex-modules-i",
+                    "es": "modulos-de-vtex-i",
+                    "pt": "modulos-da-vtex-i"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "5. Frontend implementation",
+                    "es": "5. Implementación del frontend",
+                    "pt": "5. Implementação de frontend"
+                  },
+                  "slug": {
+                    "en": "frontend-implementation",
+                    "es": "implementacion-del-frontend",
+                    "pt": "implementacao-de-frontend"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "6. Planning the go-live",
+                    "es": "6. Planificación del go live",
+                    "pt": "6. Planejamento do go-live"
+                  },
+                  "slug": {
+                    "en": "planning-the-go-live",
+                    "es": "planificacion-del-go-live",
+                    "pt": "planejamento-do-go-live"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+>>>>>>> main
                 "en": "Next steps after the go live",
                 "es": "Proximos pasos tras el go live",
                 "pt": "Proximos passos apos o go live"
