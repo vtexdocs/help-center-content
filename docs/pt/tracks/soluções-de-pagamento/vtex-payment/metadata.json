@@ -1,0 +1,6 @@
+{
+  "id": "vtex-payment",
+  "name": "VTEX Payment",
+  "slug": "vtex-payment",
+  "order": 1
+}

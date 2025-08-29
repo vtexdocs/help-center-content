@@ -1,8 +1,6 @@
 {
-  "metadata": {
-    "id": "payment-solutions",
-    "name": "Payment solutions",
-    "slug": "payment-solutions",
-    "order": 6
-  }
+  "id": "payment-solutions",
+  "name": "Payment solutions",
+  "slug": "payment-solutions",
+  "order": 6
 }

@@ -1,8 +1,6 @@
 {
-  "metadata": {
-    "id": "omnichannel",
-    "name": "Omnichannel",
-    "slug": "omnichannel",
-    "order": 3
-  }
+  "id": "omnichannel",
+  "name": "Omnichannel",
+  "slug": "omnichannel",
+  "order": 3
 }

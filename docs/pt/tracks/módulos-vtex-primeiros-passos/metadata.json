@@ -1,8 +1,6 @@
 {
-  "metadata": {
-    "id": "vtex-modules-getting-started",
-    "name": "Módulos VTEX: Primeiros Passos",
-    "slug": "módulos-vtex-primeiros-passos",
-    "order": 2
-  }
+  "id": "vtex-modules-getting-started",
+  "name": "Módulos VTEX: Primeiros Passos",
+  "slug": "módulos-vtex-primeiros-passos",
+  "order": 2
 }

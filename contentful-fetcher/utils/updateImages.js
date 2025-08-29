@@ -1,9 +1,9 @@
 const fs = require("fs");
 const path = require("path");
 
-const docsDirEN = path.join(__dirname, "../../docs/en/");
-const docsDirPT = path.join(__dirname, "../../docs/pt/");
-const docsDirES = path.join(__dirname, "../../docs/es/");
+const docsDirEN = path.join(__dirname, "..", "..", "docs", "en");
+const docsDirPT = path.join(__dirname, "..", "..", "docs", "pt");
+const docsDirES = path.join(__dirname, "..", "..", "docs", "es");
 
 const { imageFetcher } = require("./imageFetcher.js");
 
