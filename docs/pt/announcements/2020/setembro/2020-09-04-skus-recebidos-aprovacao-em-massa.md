@@ -1,5 +1,5 @@
 ---
-title: 'SKUs Recebidos: aprovação em massa '
+title: 'SKUs Recebidos: aprovação em massa'
 id: PC9nNmPKePbiuH8pDoG9g
 status: PUBLISHED
 createdAt: 2020-09-04T19:13:19.581Z

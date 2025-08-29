@@ -1,5 +1,5 @@
 ---
-title: 'Nuevo módulo Colecciones Beta: cree y gestione colecciones de productos con practicidad '
+title: 'Nuevo módulo Colecciones Beta: cree y gestione colecciones de productos con practicidad'
 id: 6KvFxylC5SNsbVm8L8XZpZ
 status: PUBLISHED
 createdAt: 2020-12-15T19:14:51.662Z

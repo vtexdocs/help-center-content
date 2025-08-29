@@ -1,5 +1,5 @@
 ---
-title: 'Funcionalidad Removida: Discontinuación de la función Precio Máximo por Ítem '
+title: 'Funcionalidad Removida: Discontinuación de la función Precio Máximo por Ítem'
 id: 2sI7R4FgmWpmFdKSJSwJPW
 status: CHANGED
 createdAt: 2019-04-05T16:20:16.272Z

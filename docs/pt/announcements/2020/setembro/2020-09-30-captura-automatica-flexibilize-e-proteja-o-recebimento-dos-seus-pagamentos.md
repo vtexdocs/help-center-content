@@ -1,5 +1,5 @@
 ---
-title: 'Captura automática: flexibilize e proteja o recebimento dos seus pagamentos '
+title: 'Captura automática: flexibilize e proteja o recebimento dos seus pagamentos'
 id: 1nrL1zneJm3MPZwO5Lb9cp
 status: PUBLISHED
 createdAt: 2020-09-30T21:50:51.930Z

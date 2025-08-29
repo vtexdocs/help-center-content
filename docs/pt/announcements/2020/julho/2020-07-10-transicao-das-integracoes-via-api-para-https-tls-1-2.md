@@ -1,5 +1,5 @@
 ---
-title: 'Transição das integrações via API para HTTPS / TLS 1.2 '
+title: 'Transição das integrações via API para HTTPS / TLS 1.2'
 id: 50H4bHnV1uk2GCY3CaJBXo
 status: CHANGED
 createdAt: 2020-07-10T20:32:32.971Z

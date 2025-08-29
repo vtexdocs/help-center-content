@@ -1,5 +1,5 @@
 ---
-title: 'Inventory & Shipping: learn what has changed in the "Inventory management" tab '
+title: 'Inventory & Shipping: learn what has changed in the "Inventory management" tab'
 id: 6AKTFKEdVMyjRdDBv3vGkv
 status: PUBLISHED
 createdAt: 2020-10-29T15:15:14.224Z

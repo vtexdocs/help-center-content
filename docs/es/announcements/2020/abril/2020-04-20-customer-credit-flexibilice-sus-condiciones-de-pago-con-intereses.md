@@ -1,5 +1,5 @@
 ---
-title: 'Customer Credit: flexibilice sus condiciones de pago con intereses '
+title: 'Customer Credit: flexibilice sus condiciones de pago con intereses'
 id: 5B1FjEk1pn33PPGlRsPDm
 status: CHANGED
 createdAt: 2020-04-20T22:08:31.800Z

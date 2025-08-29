@@ -1,5 +1,5 @@
 ---
-title: 'Métricas do Autocomplete agora disponíveis nos relatórios de busca '
+title: 'Métricas do Autocomplete agora disponíveis nos relatórios de busca'
 id: 69fXrUlDzGZ8Uvhi17oXcY
 status: PUBLISHED
 createdAt: 2020-10-13T19:10:34.882Z

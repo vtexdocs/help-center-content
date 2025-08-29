@@ -1,5 +1,5 @@
 ---
-title: ' Ahora usted puede activar intereses externos en los planes de pago'
+title: 'Ahora usted puede activar intereses externos en los planes de pago'
 id: 2CPvlfBe5e6gGQwUIYQMYq
 status: PUBLISHED
 createdAt: 2018-02-01T13:38:03.118Z

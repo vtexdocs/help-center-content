@@ -1,5 +1,5 @@
 ---
-title: 'Desenvolva livremente componentes customizados de storefront no VTEX IO '
+title: 'Desenvolva livremente componentes customizados de storefront no VTEX IO'
 id: 17Er2P2P9hTrV6lT4g2V9J
 status: PUBLISHED
 createdAt: 2021-03-12T12:31:16.443Z

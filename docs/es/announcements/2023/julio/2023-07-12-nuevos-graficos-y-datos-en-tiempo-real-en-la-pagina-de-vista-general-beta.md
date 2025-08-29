@@ -1,5 +1,5 @@
 ---
-title: 'Nuevos gráficos y datos en tiempo real en la página de Vista general (Beta) '
+title: 'Nuevos gráficos y datos en tiempo real en la página de Vista general (Beta)'
 id: 6yzy7BYw5rPbaH0WdrAHyI
 status: PUBLISHED
 createdAt: 2023-07-12T13:28:42.856Z

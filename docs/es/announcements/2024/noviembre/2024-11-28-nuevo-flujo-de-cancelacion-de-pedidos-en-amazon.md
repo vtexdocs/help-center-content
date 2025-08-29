@@ -1,5 +1,5 @@
 ---
-title: 'Nuevo flujo de cancelación de pedidos en Amazon '
+title: 'Nuevo flujo de cancelación de pedidos en Amazon'
 id: 6LJsO6XygxQyjMk58CRPG0
 status: PUBLISHED
 createdAt: 2024-11-28T18:38:39.999Z

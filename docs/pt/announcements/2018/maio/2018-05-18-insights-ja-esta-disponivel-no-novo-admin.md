@@ -1,5 +1,5 @@
 ---
-title: 'Insights já está disponível no novo admin '
+title: 'Insights já está disponível no novo admin'
 id: 2pRsPlgzQc2USEqeGuKe26
 status: PUBLISHED
 createdAt: 2018-05-18T18:15:06.125Z

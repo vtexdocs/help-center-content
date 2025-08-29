@@ -1,5 +1,5 @@
 ---
-title: 'Wishlist: conheça o novo app da VTEX App Store '
+title: 'Wishlist: conheça o novo app da VTEX App Store'
 id: 2Irl40LdpkTruqifY5lzsi
 status: PUBLISHED
 createdAt: 2020-12-07T18:58:32.265Z

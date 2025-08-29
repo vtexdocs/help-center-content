@@ -1,5 +1,5 @@
 ---
-title: ' VTEX ahora da total soporte al protocolo TLS 1.2'
+title: 'VTEX ahora da total soporte al protocolo TLS 1.2'
 id: 6yst9OOxqgow60aWak2mq4
 status: PUBLISHED
 createdAt: 2018-03-01T21:47:35.312Z

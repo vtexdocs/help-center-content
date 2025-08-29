@@ -1,5 +1,5 @@
 ---
-title: ' Pix: prepare-se para esse novo meio de pagamento no seu e-commerce'
+title: 'Pix: prepare-se para esse novo meio de pagamento no seu e-commerce'
 id: 1v5clxhNiDST404Orzwrv6
 status: PUBLISHED
 createdAt: 2020-10-28T11:13:00.457Z

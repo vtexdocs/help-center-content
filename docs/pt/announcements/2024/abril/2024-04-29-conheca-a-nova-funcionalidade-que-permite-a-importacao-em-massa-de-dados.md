@@ -1,5 +1,5 @@
 ---
-title: 'Conheça a nova funcionalidade que permite a importação em massa de dados sobre organizações e centros de custos '
+title: 'Conheça a nova funcionalidade que permite a importação em massa de dados sobre organizações e centros de custos'
 id: 6XwSfF6YYjIiIDoxR3NoDN
 status: PUBLISHED
 createdAt: 2024-04-29T17:36:01.588Z

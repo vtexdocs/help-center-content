@@ -1,5 +1,5 @@
 ---
-title: 'Make your payments more flexible and secure with automatic payment capture '
+title: 'Make your payments more flexible and secure with automatic payment capture'
 id: 1nrL1zneJm3MPZwO5Lb9cp
 status: PUBLISHED
 createdAt: 2020-09-30T21:50:51.930Z
