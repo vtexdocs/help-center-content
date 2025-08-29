@@ -1,8 +1,6 @@
 {
-  "metadata": {
-    "id": "marketplace",
-    "name": "Marketplace",
-    "slug": "marketplace",
-    "order": 9
-  }
+  "id": "marketplace",
+  "name": "Marketplace",
+  "slug": "marketplace",
+  "order": 9
 }

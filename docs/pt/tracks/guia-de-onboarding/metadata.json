@@ -1,8 +1,6 @@
 {
-  "metadata": {
-    "id": "onboarding-guide",
-    "name": "Guia de onboarding",
-    "slug": "guia-de-onboarding",
-    "order": 1
-  }
+  "id": "onboarding-guide",
+  "name": "Guia de onboarding",
+  "slug": "guia-de-onboarding",
+  "order": 1
 }

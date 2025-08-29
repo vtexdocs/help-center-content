@@ -1,4 +1,4 @@
-const fs = require("fs").promises;
+const fs = require("fs");
 const path = require("path");
 const { normalizeFileName } = require("../utils/normalize");
 
@@ -29,4 +29,15 @@ async function writeMarkdown({
   console.log(`✅ Written: ${path.relative(process.cwd(), fullPath)}`);
 }
 
-module.exports = { writeMarkdown };
+function ensureDirSync(dir) {
+  if (!fs.existsSync(dir)) fs.mkdirSync(dir, { recursive: true });
+}
+
+async function writeJSON(filePath, data) {
+  const fsp = fs.promises;
+  ensureDirSync(path.dirname(filePath));
+  await fsp.writeFile(filePath, JSON.stringify(data, null, 2), "utf8");
+  console.log(`📝  ${path.relative(process.cwd(), filePath)}`);
+}
+
+module.exports = { writeMarkdown, writeJSON };

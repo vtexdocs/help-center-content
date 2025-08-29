@@ -1,8 +1,6 @@
 {
-  "metadata": {
-    "id": "vtex-io",
-    "name": "VTEX IO",
-    "slug": "vtex-io",
-    "order": 7
-  }
+  "id": "vtex-io",
+  "name": "VTEX IO",
+  "slug": "vtex-io",
+  "order": 7
 }
