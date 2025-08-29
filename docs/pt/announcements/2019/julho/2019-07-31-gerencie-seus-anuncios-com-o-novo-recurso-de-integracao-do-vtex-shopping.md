@@ -1,5 +1,5 @@
 ---
-title: 'Gerencie seus anúncios com o novo recurso de integração do VTEX Shopping Ads '
+title: 'Gerencie seus anúncios com o novo recurso de integração do VTEX Shopping Ads'
 id: 3cGKE2G63tRrXmrp0kbic8
 status: CHANGED
 createdAt: 2019-07-31T21:54:59.585Z

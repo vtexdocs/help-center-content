@@ -1,5 +1,5 @@
 ---
-title: 'Migración de Adobe Flash '
+title: 'Migración de Adobe Flash'
 id: 2oqcLDuGp52PEAuMSLOjPY
 status: PUBLISHED
 createdAt: 2020-06-19T15:28:35.331Z

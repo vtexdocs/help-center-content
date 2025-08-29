@@ -1,5 +1,5 @@
 ---
-title: 'SKUs recebidos: nova experiência no gerenciamento de SKUs '
+title: 'SKUs recebidos: nova experiência no gerenciamento de SKUs'
 id: 60ES12Hng6RmbFaBCRxM0v
 status: PUBLISHED
 createdAt: 2024-09-02T19:29:25.770Z

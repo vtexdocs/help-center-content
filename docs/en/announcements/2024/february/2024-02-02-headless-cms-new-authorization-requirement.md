@@ -1,5 +1,5 @@
 ---
-title: 'Headless CMS: new authorization requirement '
+title: 'Headless CMS: new authorization requirement'
 id: 7G056zzZmGFBztkRqhpUgj
 status: PUBLISHED
 createdAt: 2024-02-02T12:34:37.766Z

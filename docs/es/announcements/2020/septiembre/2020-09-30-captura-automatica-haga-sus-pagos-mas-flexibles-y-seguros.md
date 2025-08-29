@@ -1,5 +1,5 @@
 ---
-title: 'Captura automática: haga sus pagos más flexibles y seguros '
+title: 'Captura automática: haga sus pagos más flexibles y seguros'
 id: 1nrL1zneJm3MPZwO5Lb9cp
 status: PUBLISHED
 createdAt: 2020-09-30T21:50:51.930Z

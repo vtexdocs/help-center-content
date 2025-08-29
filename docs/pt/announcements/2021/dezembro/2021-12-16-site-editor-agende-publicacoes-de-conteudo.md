@@ -1,5 +1,5 @@
 ---
-title: 'Site Editor: agende publicações de conteúdo '
+title: 'Site Editor: agende publicações de conteúdo'
 id: 1nKMy0i8VKEq23MJNih4T3
 status: PUBLISHED
 createdAt: 2021-12-16T17:38:42.017Z

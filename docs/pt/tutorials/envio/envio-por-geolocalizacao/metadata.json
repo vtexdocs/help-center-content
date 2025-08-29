@@ -1,0 +1,6 @@
+{
+  "id": "geolocation-shipping",
+  "name": "Envio por geolocalização",
+  "slug": "envio-por-geolocalizacao",
+  "order": 2
+}

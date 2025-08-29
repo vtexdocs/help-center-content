@@ -1,5 +1,5 @@
 ---
-title: 'Código do vendedor: evoluções na customização do inStore '
+title: 'Código do vendedor: evoluções na customização do inStore'
 id: 4DsmWN3XTpdnTtNbiaxEs1
 status: PUBLISHED
 createdAt: 2021-02-04T11:40:06.468Z

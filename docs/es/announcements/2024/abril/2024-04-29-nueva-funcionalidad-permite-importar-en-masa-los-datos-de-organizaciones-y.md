@@ -1,5 +1,5 @@
 ---
-title: 'Nueva funcionalidad permite importar en masa los datos de organizaciones y centros de costo '
+title: 'Nueva funcionalidad permite importar en masa los datos de organizaciones y centros de costo'
 id: 6XwSfF6YYjIiIDoxR3NoDN
 status: PUBLISHED
 createdAt: 2024-04-29T17:36:01.588Z

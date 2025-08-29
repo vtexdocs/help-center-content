@@ -7,7 +7,6 @@ const {
   generateFaqMarkdown,
 } = require("./writers/markdownGenerator");
 const { getYearAndMonthName } = require("./utils/monthFolder");
-const { writeTrackOrderFile } = require("./writers/trackOrderGenerator");
 const {
   getTrackCategoryByTrackId,
   getTrackSteps,
@@ -48,7 +47,6 @@ async function main() {
   }
 
   const locales = ["en", "pt", "es"];
-  const orderJsonWritten = new Set();
 
   const troubleshootingMode = contentTypes.includes("troubleshooting");
 
@@ -84,7 +82,6 @@ async function main() {
         if (!fs.existsSync(folderPath)) {
           fs.mkdirSync(folderPath, { recursive: true });
         }
-        writeTrackOrderFile(folderPath, i + 1);
 
         const trackIds =
           trackTopics[i].fields.tracks?.pt?.map((t) => t.sys.id) || [];

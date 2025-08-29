@@ -1,5 +1,5 @@
 ---
-title: 'La nueva API del Master Data aumenta la flexibilidad de  configuración '
+title: 'La nueva API del Master Data aumenta la flexibilidad de  configuración'
 id: 46r2SSSWz6QQWyYwGyGwme
 status: PUBLISHED
 createdAt: 2017-12-22T14:29:00.901Z

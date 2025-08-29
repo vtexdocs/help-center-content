@@ -101,7 +101,7 @@
             {
               "name": {
                 "en": "New Master Data API increases configuration flexibility",
-                "es": "La nueva API del Master Data aumenta la flexibilidad de  configuración ",
+                "es": "La nueva API del Master Data aumenta la flexibilidad de  configuración",
                 "pt": "Nova API do Master Data aumenta flexibilidade de configuração"
               },
               "slug": {
@@ -296,21 +296,6 @@
           "children": [
             {
               "name": {
-                "en": " Add Apple Pay to your store's payment methods",
-                "es": "Agregue Apple Pay a los métodos de pago de su tienda",
-                "pt": "Ofereça Apple Pay como opção de pagamento na sua loja"
-              },
-              "slug": {
-                "en": "2018-04-12-add-apple-pay-to-your-stores-payment-methods",
-                "es": "2018-04-12-agregue-apple-pay-a-los-metodos-de-pago-de-su-tienda",
-                "pt": "2018-04-12-ofereca-apple-pay-como-opcao-de-pagamento-na-sua-loja"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "A new feature to use Mercado Livre's messaging service",
                 "es": "Feature VTEX para usar la Mensajería del MercadoLibre",
                 "pt": "Nova feature para usar a Mensageria do Mercado Livre"
@@ -319,6 +304,21 @@
                 "en": "2018-07-05-a-new-feature-to-use-mercado-livres-messaging-service",
                 "es": "2018-07-05-feature-vtex-para-usar-la-mensajeria-del-mercadolibre",
                 "pt": "2018-07-05-nova-feature-para-usar-a-mensageria-do-mercado-livre"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Add Apple Pay to your store's payment methods",
+                "es": "Agregue Apple Pay a los métodos de pago de su tienda",
+                "pt": "Ofereça Apple Pay como opção de pagamento na sua loja"
+              },
+              "slug": {
+                "en": "2018-04-12-add-apple-pay-to-your-stores-payment-methods",
+                "es": "2018-04-12-agregue-apple-pay-a-los-metodos-de-pago-de-su-tienda",
+                "pt": "2018-04-12-ofereca-apple-pay-como-opcao-de-pagamento-na-sua-loja"
               },
               "origin": "",
               "type": "markdown",
@@ -463,7 +463,7 @@
               "name": {
                 "en": "Insights is available in the new admin",
                 "es": "Insights está disponible en el nuevo admin",
-                "pt": "Insights já está disponível no novo admin "
+                "pt": "Insights já está disponível no novo admin"
               },
               "slug": {
                 "en": "2018-05-18-insights-is-available-in-the-new-admin",
@@ -627,7 +627,7 @@
             {
               "name": {
                 "en": "Now you can activate external interest in payment conditions",
-                "es": " Ahora usted puede activar intereses externos en los planes de pago",
+                "es": "Ahora usted puede activar intereses externos en los planes de pago",
                 "pt": "Agora você pode ativar juros externos nas condições de pagamento"
               },
               "slug": {
@@ -942,7 +942,7 @@
             {
               "name": {
                 "en": "VTEX now gives full support to the TLS 1.2 protocol",
-                "es": " VTEX ahora da total soporte al protocolo TLS 1.2",
+                "es": "VTEX ahora da total soporte al protocolo TLS 1.2",
                 "pt": "VTEX agora dá total suporte ao protocolo TLS 1.2"
               },
               "slug": {
@@ -1182,7 +1182,7 @@
             },
             {
               "name": {
-                "en": "New access code email template ",
+                "en": "New access code email template",
                 "es": "Nuevo layout en el e-mail de código de acesso",
                 "pt": "Novo layout no e-mail de código de acesso"
               },
@@ -1334,7 +1334,7 @@
             {
               "name": {
                 "en": "\"Recurrences\" module will be discontinued: migrate your data until August",
-                "es": "El módulo de Recurrencia será descontinuado: migre sus datos hasta el mes de agosto ",
+                "es": "El módulo de Recurrencia será descontinuado: migre sus datos hasta el mes de agosto",
                 "pt": "Módulo \"Recorrência\" será descontinuado: migre seus dados até agosto"
               },
               "slug": {
@@ -1364,7 +1364,7 @@
             {
               "name": {
                 "en": "Adobe Flash Migration",
-                "es": "Migración de Adobe Flash ",
+                "es": "Migración de Adobe Flash",
                 "pt": "Migração do Adobe Flash"
               },
               "slug": {
@@ -1395,7 +1395,7 @@
               "name": {
                 "en": "Autocomplete Metrics now available in search reports",
                 "es": "Las métricas de Autocomplete ahora están disponibles en los informes de búsqueda",
-                "pt": "Métricas do Autocomplete agora disponíveis nos relatórios de busca "
+                "pt": "Métricas do Autocomplete agora disponíveis nos relatórios de busca"
               },
               "slug": {
                 "en": "2020-10-13-autocomplete-metrics-now-available-in-search-reports",
@@ -1424,7 +1424,7 @@
             {
               "name": {
                 "en": "Change in CC/BCC field in Message Center templates",
-                "es": "Alteración en el campo CC/CCO en los templates del Centro de Mensaje ",
+                "es": "Alteración en el campo CC/CCO en los templates del Centro de Mensaje",
                 "pt": "Alteração no campo CC/CCO nos templates da Central de Mensagens"
               },
               "slug": {
@@ -1513,9 +1513,9 @@
             },
             {
               "name": {
-                "en": "Inventory & Shipping: learn what has changed in the \"Inventory management\" tab ",
-                "es": "Inventario y envío: entienda lo que cambió en la pestaña \"Gestión del inventario\" ",
-                "pt": "Estoque & entrega: entenda o que mudou na aba \"Gerenciar Inventário\" "
+                "en": "Inventory & Shipping: learn what has changed in the \"Inventory management\" tab",
+                "es": "Inventario y envío: entienda lo que cambió en la pestaña \"Gestión del inventario\"",
+                "pt": "Estoque & entrega: entenda o que mudou na aba \"Gerenciar Inventário\""
               },
               "slug": {
                 "en": "2020-10-29-inventory-and-shipping-learn-what-has-changed-in-the-inventory-management",
@@ -1543,9 +1543,9 @@
             },
             {
               "name": {
-                "en": "Make your payments more flexible and secure with automatic payment capture ",
-                "es": "Captura automática: haga sus pagos más flexibles y seguros ",
-                "pt": "Captura automática: flexibilize e proteja o recebimento dos seus pagamentos "
+                "en": "Make your payments more flexible and secure with automatic payment capture",
+                "es": "Captura automática: haga sus pagos más flexibles y seguros",
+                "pt": "Captura automática: flexibilize e proteja o recebimento dos seus pagamentos"
               },
               "slug": {
                 "en": "2020-09-30-make-your-payments-more-flexible-and-secure-with-automatic-payment-capture",
@@ -1589,7 +1589,7 @@
             {
               "name": {
                 "en": "New Beta Collections module: Easily create and manage product collections",
-                "es": "Nuevo módulo Colecciones Beta: cree y gestione colecciones de productos con practicidad ",
+                "es": "Nuevo módulo Colecciones Beta: cree y gestione colecciones de productos con practicidad",
                 "pt": "Novo módulo de Coleções Beta: crie e gerencie coleções de produto com praticidade"
               },
               "slug": {
@@ -1634,8 +1634,8 @@
             {
               "name": {
                 "en": "Pix: get ready to offer this new payment method on your e-commerce",
-                "es": " Pix: prepárate para el nuevo medio de pago para tu e-commerce",
-                "pt": " Pix: prepare-se para esse novo meio de pagamento no seu e-commerce"
+                "es": "Pix: prepárate para el nuevo medio de pago para tu e-commerce",
+                "pt": "Pix: prepare-se para esse novo meio de pagamento no seu e-commerce"
               },
               "slug": {
                 "en": "2020-10-28-pix-get-ready-to-offer-this-new-payment-method-on-your-e-commerce",
@@ -1678,9 +1678,9 @@
             },
             {
               "name": {
-                "en": "Received SKUs: Bulk approval ",
+                "en": "Received SKUs: Bulk approval",
                 "es": "SKUs Recibidos: aprobación en masa",
-                "pt": "SKUs Recebidos: aprovação em massa "
+                "pt": "SKUs Recebidos: aprovação em massa"
               },
               "slug": {
                 "en": "2020-09-04-received-skus-bulk-approval",
@@ -1800,7 +1800,7 @@
               "name": {
                 "en": "Wishlist: discover the new VTEX App Store app",
                 "es": "Wishlist: descubra la nueva aplicación de VTEX App Store",
-                "pt": "Wishlist: conheça o novo app da VTEX App Store "
+                "pt": "Wishlist: conheça o novo app da VTEX App Store"
               },
               "slug": {
                 "en": "2020-12-07-wishlist-discover-the-new-vtex-app-store-app",
@@ -1996,7 +1996,7 @@
               "name": {
                 "en": "Freely develop custom storefront components in VTEX IO",
                 "es": "Desarrolle libremente componentes personalizados de storefront en VTEX IO",
-                "pt": "Desenvolva livremente componentes customizados de storefront no VTEX IO "
+                "pt": "Desenvolva livremente componentes customizados de storefront no VTEX IO"
               },
               "slug": {
                 "en": "2021-03-12-freely-develop-custom-storefront-components-in-vtex-io",
@@ -2115,7 +2115,7 @@
             {
               "name": {
                 "en": "Inventory management updates",
-                "es": "Actualización en Gestión del Stock ",
+                "es": "Actualización en Gestión del Stock",
                 "pt": "Atualização no Gerenciamento de Inventário"
               },
               "slug": {
@@ -2159,9 +2159,9 @@
             },
             {
               "name": {
-                "en": "Live Shopping: the VTEX app to broadcast live events ",
-                "es": "Live Shopping: la aplicación VTEX para transmitir eventos en vivo ",
-                "pt": "Live Shopping: o app da VTEX para transmitir eventos ao vivo "
+                "en": "Live Shopping: the VTEX app to broadcast live events",
+                "es": "Live Shopping: la aplicación VTEX para transmitir eventos en vivo",
+                "pt": "Live Shopping: o app da VTEX para transmitir eventos ao vivo"
               },
               "slug": {
                 "en": "2021-08-19-live-shopping-the-vtex-app-to-broadcast-live-events",
@@ -2446,7 +2446,7 @@
               "name": {
                 "en": "Sales rep code: inStore customization improvements",
                 "es": "Código del vendedor: evolución en la personalización de inStore",
-                "pt": "Código do vendedor: evoluções na customização do inStore "
+                "pt": "Código do vendedor: evoluções na customização do inStore"
               },
               "slug": {
                 "en": "2021-02-04-sales-rep-code-instore-customization-improvements",
@@ -2460,8 +2460,8 @@
             {
               "name": {
                 "en": "Schedule content publication with Site Editor",
-                "es": "Site Editor: programa las publicaciones de contenido ",
-                "pt": "Site Editor: agende publicações de conteúdo "
+                "es": "Site Editor: programa las publicaciones de contenido",
+                "pt": "Site Editor: agende publicações de conteúdo"
               },
               "slug": {
                 "en": "2021-12-16-schedule-content-publication-with-site-editor",
@@ -2970,7 +2970,7 @@
             },
             {
               "name": {
-                "en": "​​Rate VTEX's service in your Admin  ",
+                "en": "​​Rate VTEX's service in your Admin",
                 "es": "Evalúa el servicio VTEX en tu Admin",
                 "pt": "Avalie o atendimento da VTEX pelo seu Admin"
               },
@@ -3572,7 +3572,7 @@
             {
               "name": {
                 "en": "New charts and real-time data in Store Overview (Beta) Admin page",
-                "es": "Nuevos gráficos y datos en tiempo real en la página de Vista general (Beta) ",
+                "es": "Nuevos gráficos y datos en tiempo real en la página de Vista general (Beta)",
                 "pt": "Novos gráficos e dados em tempo real na página Visão Geral (Beta)"
               },
               "slug": {
@@ -4038,8 +4038,8 @@
             {
               "name": {
                 "en": "Discover the new feature that allows bulk data import for organizations and cost centers",
-                "es": "Nueva funcionalidad permite importar en masa los datos de organizaciones y centros de costo ",
-                "pt": "Conheça a nova funcionalidade que permite a importação em massa de dados sobre organizações e centros de custos "
+                "es": "Nueva funcionalidad permite importar en masa los datos de organizaciones y centros de costo",
+                "pt": "Conheça a nova funcionalidade que permite a importação em massa de dados sobre organizações e centros de custos"
               },
               "slug": {
                 "en": "2024-04-29-discover-the-new-feature-that-allows-bulk-data-import-for-organizations-and",
@@ -4082,7 +4082,7 @@
             },
             {
               "name": {
-                "en": "Headless CMS: new authorization requirement ",
+                "en": "Headless CMS: new authorization requirement",
                 "es": "Headless CMS: nueva solicitud de autorización",
                 "pt": "Headless CMS: nova solicitação de autorização"
               },
@@ -4158,7 +4158,7 @@
             {
               "name": {
                 "en": "New Amazon order cancellation flow",
-                "es": "Nuevo flujo de cancelación de pedidos en Amazon ",
+                "es": "Nuevo flujo de cancelación de pedidos en Amazon",
                 "pt": "Novidade no fluxo de cancelamento de pedidos Amazon"
               },
               "slug": {
@@ -4384,7 +4384,7 @@
               "name": {
                 "en": "Received SKUs: New SKU management experience",
                 "es": "SKUs recibidos: nueva experiencia en la gestión de SKUs",
-                "pt": "SKUs recebidos: nova experiência no gerenciamento de SKUs "
+                "pt": "SKUs recebidos: nova experiência no gerenciamento de SKUs"
               },
               "slug": {
                 "en": "2024-09-02-received-skus-new-sku-management-experience",
@@ -4850,7 +4850,7 @@
               "name": {
                 "en": "New Regular Promotion form",
                 "es": "Promoción Regular: nuevo formulario",
-                "pt": "Novo formulário de Promoção Regular "
+                "pt": "Novo formulário de Promoção Regular"
               },
               "slug": {
                 "en": "2025-08-22-new-regular-promotion-form",
@@ -10112,112 +10112,6 @@
           "children": [
             {
               "name": {
-                "en": "VTEX store overview",
-                "es": "Serie de la tienda VTEX",
-                "pt": "Trilha da loja VTEX"
-              },
-              "slug": {
-                "en": "vtex-store-overview",
-                "es": "serie-de-la-tienda-vtex",
-                "pt": "trilha-da-loja-vtex"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "1. Introduction to VTEX",
-                    "es": "1. Introducción a VTEX",
-                    "pt": "1. Introdução à VTEX"
-                  },
-                  "slug": {
-                    "en": "introduction-to-vtex",
-                    "es": "introduccion-a-vtex",
-                    "pt": "introducao-a-vtex"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "2. Initial setup",
-                    "es": "2. Configuración inicial",
-                    "pt": "2. Configurações iniciais"
-                  },
-                  "slug": {
-                    "en": "initial-setup",
-                    "es": "configuracion-inicial",
-                    "pt": "configuracoes-iniciais"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "3. Backend integrations",
-                    "es": "3. Integraciones de backend",
-                    "pt": "3. Integrações de backend"
-                  },
-                  "slug": {
-                    "en": "backend-integrations",
-                    "es": "integraciones-de-backend",
-                    "pt": "integracoes-de-backend"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "4. VTEX modules I",
-                    "es": "4. Módulos de VTEX I",
-                    "pt": "4. Módulos da VTEX I"
-                  },
-                  "slug": {
-                    "en": "vtex-modules-i",
-                    "es": "modulos-de-vtex-i",
-                    "pt": "modulos-da-vtex-i"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "5. Frontend implementation",
-                    "es": "5. Implementación del frontend",
-                    "pt": "5. Implementação de frontend"
-                  },
-                  "slug": {
-                    "en": "frontend-implementation",
-                    "es": "implementacion-del-frontend",
-                    "pt": "implementacao-de-frontend"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "6. Planning the go-live",
-                    "es": "6. Planificación del go live",
-                    "pt": "6. Planejamento do go-live"
-                  },
-                  "slug": {
-                    "en": "planning-the-go-live",
-                    "es": "planificacion-del-go-live",
-                    "pt": "planejamento-do-go-live"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
                 "en": "Next steps after the go live",
                 "es": "Proximos pasos tras el go live",
                 "pt": "Proximos passos apos o go live"
@@ -10406,6 +10300,112 @@
                     "en": "contract-termination",
                     "es": "rescision-de-contrato",
                     "pt": "rescisao-de-contrato"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "VTEX store overview",
+                "es": "Serie de la tienda VTEX",
+                "pt": "Trilha da loja VTEX"
+              },
+              "slug": {
+                "en": "vtex-store-overview",
+                "es": "serie-de-la-tienda-vtex",
+                "pt": "trilha-da-loja-vtex"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "1. Introduction to VTEX",
+                    "es": "1. Introducción a VTEX",
+                    "pt": "1. Introdução à VTEX"
+                  },
+                  "slug": {
+                    "en": "introduction-to-vtex",
+                    "es": "introduccion-a-vtex",
+                    "pt": "introducao-a-vtex"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "2. Initial setup",
+                    "es": "2. Configuración inicial",
+                    "pt": "2. Configurações iniciais"
+                  },
+                  "slug": {
+                    "en": "initial-setup",
+                    "es": "configuracion-inicial",
+                    "pt": "configuracoes-iniciais"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "3. Backend integrations",
+                    "es": "3. Integraciones de backend",
+                    "pt": "3. Integrações de backend"
+                  },
+                  "slug": {
+                    "en": "backend-integrations",
+                    "es": "integraciones-de-backend",
+                    "pt": "integracoes-de-backend"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "4. VTEX modules I",
+                    "es": "4. Módulos de VTEX I",
+                    "pt": "4. Módulos da VTEX I"
+                  },
+                  "slug": {
+                    "en": "vtex-modules-i",
+                    "es": "modulos-de-vtex-i",
+                    "pt": "modulos-da-vtex-i"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "5. Frontend implementation",
+                    "es": "5. Implementación del frontend",
+                    "pt": "5. Implementação de frontend"
+                  },
+                  "slug": {
+                    "en": "frontend-implementation",
+                    "es": "implementacion-del-frontend",
+                    "pt": "implementacao-de-frontend"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "6. Planning the go-live",
+                    "es": "6. Planificación del go live",
+                    "pt": "6. Planejamento do go-live"
+                  },
+                  "slug": {
+                    "en": "planning-the-go-live",
+                    "es": "planificacion-del-go-live",
+                    "pt": "planejamento-do-go-live"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -33113,6 +33113,21 @@
             },
             {
               "name": {
+                "en": "SKU quantity miscount in checkout when More for Less promotion is applied in B2B Quotes",
+                "es": "Error en el recuento de la cantidad de SKU en la caja cuando se aplica la promoción Más por Menos en Cotizaciones B2B.",
+                "pt": "Erro na contagem da quantidade de SKU no checkout quando a promoção Mais por Menos é aplicada em Cotações B2B"
+              },
+              "slug": {
+                "en": "sku-quantity-miscount-in-checkout-when-more-for-less-promotion-is-applied-in-b2b-quotes",
+                "es": "error-en-el-recuento-de-la-cantidad-de-sku-en-la-caja-cuando-se-aplica-la-promocion-mas-por-menos-en-cotizaciones-b2b",
+                "pt": "erro-na-contagem-da-quantidade-de-sku-no-checkout-quando-a-promocao-mais-por-menos-e-aplicada-em-cotacoes-b2b"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "State Registration is not filled after approving the Organization Request",
                 "es": "El registro estatal no se completa tras aprobar la solicitud de organización",
                 "pt": "O registro estadual não é preenchido após a aprovação da solicitação da organização"
@@ -36302,6 +36317,21 @@
                 "en": "xml-installment-currency-does-not-apply",
                 "es": "xml-no-se-aplica-la-moneda-a-plazos",
                 "pt": "xml-a-moeda-da-prestacao-nao-se-aplica"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "XML \"Check installment settings\"",
+                "es": "XML \"Comprobar ajustes de instalación\"",
+                "pt": "XML \"Verificar configurações de parcelamento\""
+              },
+              "slug": {
+                "en": "xml-check-installment-settings",
+                "es": "xml-comprobar-ajustes-de-instalacion",
+                "pt": "xml-verificar-configuracoes-de-parcelamento"
               },
               "origin": "",
               "type": "markdown",
@@ -40341,6 +40371,21 @@
                 "en": "it-is-not-possible-to-create-a-path-using-content-type-via-ui",
                 "es": "no-es-posible-crear-una-ruta-utilizando-el-tipo-de-contenido-a-traves-de-ui",
                 "pt": "nao-e-possivel-criar-um-caminho-usando-o-tipo-de-conteudo-por-meio-da-interface-do-usuario"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "MessagessV2 flag requires content to be saved on the original language",
+                "es": "La bandera MessagessV2 requiere que el contenido se guarde en el idioma original",
+                "pt": "O sinalizador MessagessV2 exige que o conteúdo seja salvo no idioma original"
+              },
+              "slug": {
+                "en": "messagessv2-flag-requires-content-to-be-saved-on-the-original-language",
+                "es": "la-bandera-messagessv2-requiere-que-el-contenido-se-guarde-en-el-idioma-original",
+                "pt": "o-sinalizador-messagessv2-exige-que-o-conteudo-seja-salvo-no-idioma-original"
               },
               "origin": "",
               "type": "markdown",
@@ -44712,6 +44757,21 @@
                 "en": "no-delivery-window-can-be-created-due-to-inconsistence-in-estimatedate-and-lastdeliveryday-for-high-timecost",
                 "es": "no-se-puede-crear-ninguna-ventana-de-entrega-debido-a-la-incoherencia-en-estimatedate-y-lastdeliveryday-para-timecost-alto",
                 "pt": "nenhuma-janela-de-entrega-pode-ser-criada-devido-a-inconsistencia-em-estimatedate-e-lastdeliveryday-para-timecost-alto"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Pick-up points do not work in the delivery simulator in countries that do not use our postal code API",
+                "es": "Los puntos de recogida no funcionan en el simulador de entrega en los países que no utilizan nuestra API de código postal",
+                "pt": "Os pontos de coleta não funcionam no simulador de entrega em países que não usam nossa API de código postal"
+              },
+              "slug": {
+                "en": "pickup-points-do-not-work-in-the-delivery-simulator-in-countries-that-do-not-use-our-postal-code-api",
+                "es": "los-puntos-de-recogida-no-funcionan-en-el-simulador-de-entrega-en-los-paises-que-no-utilizan-nuestra-api-de-codigo-postal",
+                "pt": "os-pontos-de-coleta-nao-funcionam-no-simulador-de-entrega-em-paises-que-nao-usam-nossa-api-de-codigo-postal"
               },
               "origin": "",
               "type": "markdown",
@@ -50231,6 +50291,21 @@
             },
             {
               "name": {
+                "en": "Giftcard not getting refund after transaction cancellation",
+                "es": "No se reembolsa la tarjeta regalo tras cancelar la transacción",
+                "pt": "O Giftcard não está sendo reembolsado após o cancelamento da transação"
+              },
+              "slug": {
+                "en": "giftcard-not-getting-refund-after-transaction-cancellation",
+                "es": "no-se-reembolsa-la-tarjeta-regalo-tras-cancelar-la-transaccion",
+                "pt": "o-giftcard-nao-esta-sendo-reembolsado-apos-o-cancelamento-da-transacao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Giftcard Rechargeable configuration does not work when trying to add credit to the gift card through API",
                 "es": "La configuración de la tarjeta de regalo recargable no funciona cuando se intenta añadir crédito a la tarjeta de regalo a través de la API",
                 "pt": "A configuração do Giftcard Recarregável não funciona quando se tenta adicionar crédito ao cartão presente através de API"
@@ -50599,21 +50674,6 @@
                 "en": "konduto-af-cannot-complete-a-request-when-the-accountid-is-missing",
                 "es": "konduto-af-no-puede-completar-una-solicitud-cuando-falta-el-accountid",
                 "pt": "o-konduto-af-nao-pode-concluir-uma-solicitacao-quando-o-accountid-esta-ausente"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "es": "La tarjeta de regalo no se reembolsa después de la cancelación de la transacción",
-                "pt": "Giftcard não recebendo reembolso após o cancelamento da transação",
-                "en": "La tarjeta de regalo no se reembolsa después de la cancelación de la transacción"
-              },
-              "slug": {
-                "es": "la-tarjeta-de-regalo-no-se-reembolsa-despues-de-la-cancelacion-de-la-transaccion",
-                "pt": "giftcard-nao-recebendo-reembolso-apos-o-cancelamento-da-transacao",
-                "en": ""
               },
               "origin": "",
               "type": "markdown",
@@ -51981,6 +52041,21 @@
                 "en": "error-get-items-and-fulfillments-when-attempting-to-assign-orders-in-pick-and-pack-due-to-canceled-orders-associated-with-a-picker",
                 "es": "",
                 "pt": ""
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Absence of Feedback for Order Change Failures in Pick and Pack (Communication with OMS)",
+                "es": "Ausencia de retroalimentación por fallos en el cambio de pedido en Pick and Pack (comunicación con OMS)",
+                "pt": "Ausência de feedback para falhas na alteração de pedidos no Pick and Pack (comunicação com o OMS)"
+              },
+              "slug": {
+                "en": "absence-of-feedback-for-order-change-failures-in-pick-and-pack-communication-with-oms",
+                "es": "ausencia-de-retroalimentacion-por-fallos-en-el-cambio-de-pedido-en-pick-and-pack-comunicacion-con-oms",
+                "pt": "ausencia-de-feedback-para-falhas-na-alteracao-de-pedidos-no-pick-and-pack-comunicacao-com-o-oms"
               },
               "origin": "",
               "type": "markdown",

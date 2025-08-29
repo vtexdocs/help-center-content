@@ -1,5 +1,5 @@
 ---
-title: 'Actualización en Gestión del Stock '
+title: 'Actualización en Gestión del Stock'
 id: S6Ag6t4mXoixQdJJVsHpm
 status: PUBLISHED
 createdAt: 2021-05-12T10:50:57.835Z

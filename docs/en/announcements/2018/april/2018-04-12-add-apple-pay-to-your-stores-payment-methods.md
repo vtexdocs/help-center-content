@@ -1,5 +1,5 @@
 ---
-title: " Add Apple Pay to your store's payment methods"
+title: "Add Apple Pay to your store's payment methods"
 id: 2S1medaBEQOY6U2oOoG2wO
 status: PUBLISHED
 createdAt: 2018-04-12T20:40:50.288Z

@@ -1,5 +1,5 @@
 ---
-title: 'Estoque & entrega: entenda o que mudou na aba "Gerenciar Inventário" '
+title: 'Estoque & entrega: entenda o que mudou na aba "Gerenciar Inventário"'
 id: 6AKTFKEdVMyjRdDBv3vGkv
 status: PUBLISHED
 createdAt: 2020-10-29T15:15:14.224Z

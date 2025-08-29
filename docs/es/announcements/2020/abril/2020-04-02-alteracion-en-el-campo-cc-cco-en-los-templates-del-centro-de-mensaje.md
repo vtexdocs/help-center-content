@@ -1,5 +1,5 @@
 ---
-title: 'Alteración en el campo CC/CCO en los templates del Centro de Mensaje '
+title: 'Alteración en el campo CC/CCO en los templates del Centro de Mensaje'
 id: 3UFXa6mCy9ZP7aESHZCVOn
 status: PUBLISHED
 createdAt: 2020-04-02T14:27:35.727Z

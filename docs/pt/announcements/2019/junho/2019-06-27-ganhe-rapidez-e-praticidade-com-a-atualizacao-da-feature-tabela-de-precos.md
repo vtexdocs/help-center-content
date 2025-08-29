@@ -1,5 +1,5 @@
 ---
-title: 'Ganhe rapidez e praticidade com a atualização da feature Tabela de Preços '
+title: 'Ganhe rapidez e praticidade com a atualização da feature Tabela de Preços'
 id: 2WRQvE9bMqwAnLTvMM3ppN
 status: CHANGED
 createdAt: 2019-06-27T14:09:07.789Z

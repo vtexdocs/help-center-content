@@ -1,5 +1,5 @@
 ---
-title: 'Novo formulário de Promoção Regular '
+title: 'Novo formulário de Promoção Regular'
 id: 3iQCNZXQnsa72kcGMHN4tm
 status: PUBLISHED
 createdAt: 2025-08-22T11:43:38.376Z
