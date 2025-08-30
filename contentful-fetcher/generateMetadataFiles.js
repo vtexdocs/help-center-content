@@ -15,7 +15,7 @@ function safeStr(v, fb = "") {
 // Constrói objeto metadata
 function makeMetadata({ titleEN, titleLocale, slugEN, slugLocale, order }) {
   return {
-    id: slugEN || normalizeFolderName(titleEN) || "untitled",
+    id: slugEN || normalizeFolderName(slugEN) || "untitled",
     name: titleLocale || titleEN || "Untitled",
     slug: slugLocale || slugEN || "untitled",
     order: Number.isFinite(order) ? order : 1,
