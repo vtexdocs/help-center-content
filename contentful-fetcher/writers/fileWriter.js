@@ -35,9 +35,18 @@ function ensureDirSync(dir) {
 
 async function writeJSON(filePath, data) {
   const fsp = fs.promises;
-  ensureDirSync(path.dirname(filePath));
-  await fsp.writeFile(filePath, JSON.stringify(data, null, 2), "utf8");
-  console.log(`📝  ${path.relative(process.cwd(), filePath)}`);
+
+  try {
+    await fsp.writeFile(filePath, JSON.stringify(data, null, 2), "utf8");
+    console.log(`📝  ${path.relative(process.cwd(), filePath)}`);
+  } catch (err) {
+    if (err.code === "ENOENT") {
+      console.error(`❌ Pasta não existe: ${path.dirname(filePath)}`);
+    } else {
+      throw err; 
+    }
+  }
 }
+
 
 module.exports = { writeMarkdown, writeJSON };
