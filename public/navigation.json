@@ -4773,6 +4773,21 @@
             },
             {
               "name": {
+                "en": "New mandatory fields for invoice issuance",
+                "es": "Nuevos campos obligatorios para la emisión de facturas",
+                "pt": "Novos campos obrigatórios para emissão de notas fiscais"
+              },
+              "slug": {
+                "en": "2025-08-29-new-mandatory-fields-for-invoice-issuance",
+                "es": "2025-08-29-nuevos-campos-obligatorios-para-la-emision-de-facturas",
+                "pt": "2025-08-29-novos-campos-obrigatorios-para-emissao-de-notas-fiscais"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "New offer model on Mercado Libre",
                 "es": "Nuevo modelo de anuncios en Mercado Libre",
                 "pt": "Novo modelo de anúncios no Mercado Livre"
@@ -5088,7 +5103,7 @@
               "name": {
                 "en": "I don't recognize the reservation ID of an order. What's happened?",
                 "es": "No reconozco el ID de reserva de un pedido. ¿Qué puede haber ocurrido?",
-                "pt": "Não reconheço o ID de reserva de um pedido. O que pode ter acontecido? "
+                "pt": "Não reconheço o ID de reserva de um pedido. O que pode ter acontecido?"
               },
               "slug": {
                 "en": "i-dont-recognize-the-reservation-id-of-an-order",
@@ -5387,8 +5402,8 @@
           "children": [
             {
               "name": {
-                "en": "Change seller for affiliations that support native split: FAQ ",
-                "es": "Change seller por afiliaciones que admitan split nativo: FAQ ",
+                "en": "Change seller for affiliations that support native split: FAQ",
+                "es": "Change seller por afiliaciones que admitan split nativo: FAQ",
                 "pt": "Change seller para afiliações que suportam split nativo: FAQ"
               },
               "slug": {
@@ -5630,7 +5645,7 @@
               "name": {
                 "en": "Why authentication with appkey and apptoken doesn't work?",
                 "es": "¿Por qué  no funciona la autentificación con appkey y apptoken?",
-                "pt": "Por que a autenticação utilizando appKey e appToken não funciona? "
+                "pt": "Por que a autenticação utilizando appKey e appToken não funciona?"
               },
               "slug": {
                 "en": "why-doesnt-authentication-with-appkey-and-apptoken-work",
@@ -6819,7 +6834,7 @@
             {
               "name": {
                 "en": "Where to use WhatsApp Link",
-                "es": "  Dónde usar el link de WhatsApp",
+                "es": "Dónde usar el link de WhatsApp",
                 "pt": "Onde utilizar o Link de WhatsApp"
               },
               "slug": {
@@ -13363,7 +13378,7 @@
               "children": [
                 {
                   "name": {
-                    "en": " Account management",
+                    "en": "Account management",
                     "es": "Gestión de la cuenta",
                     "pt": "Gerenciamento da conta"
                   },
@@ -13841,13 +13856,28 @@
                 "pt": "Visão geral de apps"
               },
               "slug": {
-                "en": "apps-overview",
+                "en": "apps-overview-category",
                 "es": "vision-de-conjunto-de-apps",
                 "pt": "visao-geral-de-apps"
               },
               "origin": "",
               "type": "category",
               "children": [
+                {
+                  "name": {
+                    "en": "Apps Overview",
+                    "es": "Vision General Apps",
+                    "pt": "Visão Geral Apps"
+                  },
+                  "slug": {
+                    "en": "apps-overview",
+                    "es": "vision-general-apps",
+                    "pt": "visao-geral-apps"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
                 {
                   "name": {
                     "en": "Canceling payment for the service of an app installed in my store",
@@ -14081,8 +14111,8 @@
               "children": [
                 {
                   "name": {
-                    "en": " Setting up price and availability of SKUs by Region",
-                    "es": " Configurar el precio y la disponibilidad de SKUs por Region",
+                    "en": "Setting up price and availability of SKUs by Region",
+                    "es": "Configurar el precio y la disponibilidad de SKUs por Region",
                     "pt": "Configurar preço e disponibilidade de SKUs regionalmente"
                   },
                   "slug": {
@@ -14391,7 +14421,7 @@
                   "name": {
                     "en": "Configuring bulk data import for organizations and cost centers",
                     "es": "Configurar la importación en masa de datos de organizaciones y centros de costos",
-                    "pt": "Configurando a importação em massa de dados sobre organizações e centros de custos "
+                    "pt": "Configurando a importação em massa de dados sobre organizações e centros de custos"
                   },
                   "slug": {
                     "en": "configuring-bulk-data-import-for-organizations-and-cost-centers",
@@ -14406,7 +14436,7 @@
                   "name": {
                     "en": "Managing B2B organizations",
                     "es": "Gestión de organizaciones B2B",
-                    "pt": "Gerenciamento de organizações B2B "
+                    "pt": "Gerenciamento de organizações B2B"
                   },
                   "slug": {
                     "en": "managing-b2b-organizations",
@@ -14481,9 +14511,9 @@
               "children": [
                 {
                   "name": {
-                    "en": "B2B collection management ",
+                    "en": "B2B collection management",
                     "es": "Gestión de colecciones en B2B",
-                    "pt": "Gerenciamento de Coleções no B2B "
+                    "pt": "Gerenciamento de Coleções no B2B"
                   },
                   "slug": {
                     "en": "b2b-collection-management",
@@ -14603,7 +14633,7 @@
                   "name": {
                     "en": "Price table management in B2B organizations",
                     "es": "Gestionar tablas de precios en organizaciones B2B",
-                    "pt": "Gerenciamento de tabelas de preços em organizações B2B "
+                    "pt": "Gerenciamento de tabelas de preços em organizações B2B"
                   },
                   "slug": {
                     "en": "price-table-management-in-b2b-organizations",
@@ -14634,7 +14664,7 @@
                   "name": {
                     "en": "B2B – Overview",
                     "es": "B2B: visión general",
-                    "pt": "B2B – Visão Geral "
+                    "pt": "B2B – Visão Geral"
                   },
                   "slug": {
                     "en": "b2b-overview",
@@ -14989,8 +15019,8 @@
             {
               "name": {
                 "en": "Releases BETA",
-                "es": "Lanzamientos (beta)",
-                "pt": "Lançamentos (beta)"
+                "es": "Lanzamientos BETA",
+                "pt": "Lançamentos BETA"
               },
               "slug": {
                 "en": "releases-beta",
@@ -15000,6 +15030,21 @@
               "origin": "",
               "type": "category",
               "children": [
+                {
+                  "name": {
+                    "en": "Releases Module (Beta)",
+                    "es": "Módulo de Lanzamientos (Beta)",
+                    "pt": "Módulo Lançamentos (Beta)"
+                  },
+                  "slug": {
+                    "en": "releases-module-beta",
+                    "es": "modulo-de-lanzamientos-beta",
+                    "pt": "modulo-lancamentos-beta"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
                 {
                   "name": {
                     "en": "Releases Overview",
@@ -15091,6 +15136,21 @@
               "origin": "",
               "type": "category",
               "children": [
+                {
+                  "name": {
+                    "en": "Delivery Options (Beta)",
+                    "es": "Opciones de envío (Beta)",
+                    "pt": "Opções de envio (Beta)"
+                  },
+                  "slug": {
+                    "en": "delivery-options-beta",
+                    "es": "opciones-de-envio-beta",
+                    "pt": "opcoes-de-envio-beta"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
                 {
                   "name": {
                     "en": "Delivery Promise (Beta)",
@@ -15214,9 +15274,9 @@
                 },
                 {
                   "name": {
-                    "en": "Inventory Data Pipeline ",
-                    "es": "Stock Data Pipeline ",
-                    "pt": "Inventário Data Pipeline "
+                    "en": "Inventory Data Pipeline",
+                    "es": "Stock Data Pipeline",
+                    "pt": "Inventário Data Pipeline"
                   },
                   "slug": {
                     "en": "inventory-data-pipeline-beta",
@@ -15244,9 +15304,9 @@
                 },
                 {
                   "name": {
-                    "en": "Navigation Data Pipeline ",
+                    "en": "Navigation Data Pipeline",
                     "es": "Navegación Data Pipeline",
-                    "pt": "Navegação Data Pipeline "
+                    "pt": "Navegação Data Pipeline"
                   },
                   "slug": {
                     "en": "navigation",
@@ -15259,9 +15319,9 @@
                 },
                 {
                   "name": {
-                    "en": "Orders Data Pipeline ",
+                    "en": "Orders Data Pipeline",
                     "es": "Pedidos Data Pipeline (Beta)",
-                    "pt": "Pedidos Data Pipeline "
+                    "pt": "Pedidos Data Pipeline"
                   },
                   "slug": {
                     "en": "orders",
@@ -15274,9 +15334,9 @@
                 },
                 {
                   "name": {
-                    "en": "Payments Data Pipeline ",
+                    "en": "Payments Data Pipeline",
                     "es": "Pagos Data Pipeline",
-                    "pt": "Pagamentos Data Pipeline "
+                    "pt": "Pagamentos Data Pipeline"
                   },
                   "slug": {
                     "en": "payments",
@@ -15289,9 +15349,9 @@
                 },
                 {
                   "name": {
-                    "en": "Prices Data Pipeline ",
-                    "es": "Precios Data Pipeline ",
-                    "pt": "Preços Data Pipeline "
+                    "en": "Prices Data Pipeline",
+                    "es": "Precios Data Pipeline",
+                    "pt": "Preços Data Pipeline"
                   },
                   "slug": {
                     "en": "prices-data-pipeline-beta",
@@ -15304,9 +15364,9 @@
                 },
                 {
                   "name": {
-                    "en": "Promotions Data Pipeline ",
-                    "es": "Promociones Data Pipeline ",
-                    "pt": "Promoções Data Pipeline "
+                    "en": "Promotions Data Pipeline",
+                    "es": "Promociones Data Pipeline",
+                    "pt": "Promoções Data Pipeline"
                   },
                   "slug": {
                     "en": "promotions",
@@ -15563,7 +15623,7 @@
                 },
                 {
                   "name": {
-                    "en": "How to download the VTEX invoices ",
+                    "en": "How to download the VTEX invoices",
                     "es": "Cómo descargar las facturas de VTEX",
                     "pt": "Como fazer download das faturas da VTEX"
                   },
@@ -15593,7 +15653,7 @@
                 },
                 {
                   "name": {
-                    "en": "Payment was made but not found. What should I do? ",
+                    "en": "Payment was made but not found. What should I do?",
                     "es": "El pago se realizó, pero no se identificó. ¿Qué debo hacer?",
                     "pt": "O pagamento foi efetuado, porém não identificado. O que devo fazer ?"
                   },
@@ -15753,13 +15813,28 @@
                 "pt": "Catálogo visão geral"
               },
               "slug": {
-                "en": "catalog-overview",
-                "es": "catalogo-vision-general",
-                "pt": "catalogo-visao-geral"
+                "en": "catalog-overview-category",
+                "es": "catalogo-vision-general-category",
+                "pt": "catalogo-visao-geral-category"
               },
               "origin": "",
               "type": "category",
               "children": [
+                {
+                  "name": {
+                    "en": "Catalog: Overview",
+                    "es": "Catálogo: visión general",
+                    "pt": "Catálogo: visão geral"
+                  },
+                  "slug": {
+                    "en": "catalog-overview",
+                    "es": "catalogo-vision-general",
+                    "pt": "catalogo-visao-geral"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
                 {
                   "name": {
                     "en": "How indexing works",
@@ -16897,7 +16972,7 @@
                 },
                 {
                   "name": {
-                    "en": "Optimizing searches with substitute words ",
+                    "en": "Optimizing searches with substitute words",
                     "es": "Optimizar las búsquedas con palabras sustitutas",
                     "pt": "Otimizar as buscas com palavras substitutas"
                   },
@@ -17051,8 +17126,8 @@
                 {
                   "name": {
                     "en": "Creating a contingency pickup point to guarantee it as an option at checkout",
-                    "es": "Crear un punto de recogida de contingencia para garantizarlo como opción en el checkout  ",
-                    "pt": "Criar ponto de retirada de contingência para garanti-lo como opção no checkout "
+                    "es": "Crear un punto de recogida de contingencia para garantizarlo como opción en el checkout",
+                    "pt": "Criar ponto de retirada de contingência para garanti-lo como opção no checkout"
                   },
                   "slug": {
                     "en": "creating-a-contingency-pickup-point-to-guarantee-it-as-an-option-at-checkout",
@@ -17307,7 +17382,7 @@
                 {
                   "name": {
                     "en": "How to customize the Checkout UI Custom in the Admin",
-                    "es": "Ajustes en la interfaz personalizada del checkout en el Admin ",
+                    "es": "Ajustes en la interfaz personalizada del checkout en el Admin",
                     "pt": "Como customizar a interface personalizada do Checkout no Admin"
                   },
                   "slug": {
@@ -17519,21 +17594,6 @@
               "children": [
                 {
                   "name": {
-                    "en": " Editing my data - Suiteshare",
-                    "es": "Editando mis datos - Suiteshare",
-                    "pt": "Editando meus dados - Suiteshare"
-                  },
-                  "slug": {
-                    "en": "editing-my-data-suiteshare",
-                    "es": "editando-mis-datos-suiteshare",
-                    "pt": "editando-meus-dados-suiteshare"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Active Campaign",
                     "es": "Active Campaign",
                     "pt": "Active Campaign"
@@ -17662,6 +17722,21 @@
                     "en": "customize-suiteshare",
                     "es": "personalice-suiteshare",
                     "pt": "personalizar-suiteshare"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Editing my data - Suiteshare",
+                    "es": "Editando mis datos - Suiteshare",
+                    "pt": "Editando meus dados - Suiteshare"
+                  },
+                  "slug": {
+                    "en": "editing-my-data-suiteshare",
+                    "es": "editando-mis-datos-suiteshare",
+                    "pt": "editando-meus-dados-suiteshare"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -18396,51 +18471,6 @@
               "children": [
                 {
                   "name": {
-                    "en": " Importing Amazon DBA orders",
-                    "es": "Importación de pedidos de Amazon DBA",
-                    "pt": "Importação de Pedidos Amazon DBA"
-                  },
-                  "slug": {
-                    "en": "importing-amazon-dba-orders",
-                    "es": "importacion-de-pedidos-de-amazon-dba",
-                    "pt": "importacao-de-pedidos-amazon-dba"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": " Importing Amazon FBA Classic orders",
-                    "es": "Importación de pedidos de Amazon FBA Classic",
-                    "pt": "Importação de Pedidos Amazon FBA Classic "
-                  },
-                  "slug": {
-                    "en": "importing-amazon-classic-fba-orders",
-                    "es": "importacion-de-pedidos-classic-de-amazon-fba",
-                    "pt": "importacao-de-pedidos-amazon-fba-classic"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": " Importing Amazon FBA Onsite orders",
-                    "es": "Importación de pedidos de Amazon FBA Onsite",
-                    "pt": "Importação de Pedidos Amazon FBA Onsite"
-                  },
-                  "slug": {
-                    "en": "importing-amazon-fba-onsite-orders",
-                    "es": "importacion-de-pedidos-de-amazon-fba-onsite",
-                    "pt": "importacao-de-pedidos-amazon-fba-onsite"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "AMARO Integration",
                     "es": "Integración con AMARO",
                     "pt": "Integração com a AMARO"
@@ -18456,9 +18486,9 @@
                 },
                 {
                   "name": {
-                    "en": "Amazon Listing ",
-                    "es": "Amazon Listing ",
-                    "pt": "Amazon Listing "
+                    "en": "Amazon Listing",
+                    "es": "Amazon Listing",
+                    "pt": "Amazon Listing"
                   },
                   "slug": {
                     "en": "amazon-listing",
@@ -18681,9 +18711,54 @@
                 },
                 {
                   "name": {
+                    "en": "Importing Amazon DBA orders",
+                    "es": "Importación de pedidos de Amazon DBA",
+                    "pt": "Importação de Pedidos Amazon DBA"
+                  },
+                  "slug": {
+                    "en": "importing-amazon-dba-orders",
+                    "es": "importacion-de-pedidos-de-amazon-dba",
+                    "pt": "importacao-de-pedidos-amazon-dba"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Importing Amazon FBA Classic orders",
+                    "es": "Importación de pedidos de Amazon FBA Classic",
+                    "pt": "Importação de Pedidos Amazon FBA Classic"
+                  },
+                  "slug": {
+                    "en": "importing-amazon-classic-fba-orders",
+                    "es": "importacion-de-pedidos-classic-de-amazon-fba",
+                    "pt": "importacao-de-pedidos-amazon-fba-classic"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Importing Amazon FBA Onsite orders",
+                    "es": "Importación de pedidos de Amazon FBA Onsite",
+                    "pt": "Importação de Pedidos Amazon FBA Onsite"
+                  },
+                  "slug": {
+                    "en": "importing-amazon-fba-onsite-orders",
+                    "es": "importacion-de-pedidos-de-amazon-fba-onsite",
+                    "pt": "importacao-de-pedidos-amazon-fba-onsite"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Integrating with Enjoei",
                     "es": "Integración con Enjoei",
-                    "pt": "Integração com Enjoei "
+                    "pt": "Integração com Enjoei"
                   },
                   "slug": {
                     "en": "integrating-with-enjoei",
@@ -18861,7 +18936,22 @@
                 },
                 {
                   "name": {
-                    "en": "Shopping Feed Integration ",
+                    "en": "Offer Management: moderation and quality of Mercado Libre",
+                    "es": "Gestión de anuncios: moderación y calidad de los anuncios en Mercado Libre",
+                    "pt": "Gerenciamento de Anúncios: moderação e qualidade dos anúncios do Mercado Livre"
+                  },
+                  "slug": {
+                    "en": "offer-management-moderation-and-quality-of-mercado-libre",
+                    "es": "gestion-de-anuncios-moderacion-y-calidad-de-los-anuncios-en-mercado-libre",
+                    "pt": "gerenciamento-de-anuncios-moderacao-e-qualidade-dos-anuncios-do-mercado"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Shopping Feed Integration",
                     "es": "Shopping Feed integración",
                     "pt": "Integração Shopping Feed"
                   },
@@ -18984,7 +19074,7 @@
                   "name": {
                     "en": "Integration Guide for non-VTEX platform-hosted Marketplaces",
                     "es": "Guía de integración para Marketplace no alojada en la plataforma VTEX",
-                    "pt": " Guia de integração para Marketplace não hospedado na plataforma VTEX"
+                    "pt": "Guia de integração para Marketplace não hospedado na plataforma VTEX"
                   },
                   "slug": {
                     "en": "integration-guide-for-marketplaces-marketplace-non-vtex",
@@ -19345,21 +19435,6 @@
               "children": [
                 {
                   "name": {
-                    "en": " How shipping works when delivery is done by the marketplace (FOB)",
-                    "es": " Cómo funciona el flete cuando la entrega es hecha por el marketplace (FOB)",
-                    "pt": "Como funciona o frete quando a entrega é feita pelo marketplace (FOB)"
-                  },
-                  "slug": {
-                    "en": "how-shipping-works-when-delivery-is-done-by-the-marketplace",
-                    "es": "como-funciona-el-flete-cuando-la-entrega-es-hecha-por-el-marketplace",
-                    "pt": "como-funciona-o-frete-quando-o-marketplace-faz-a-entrega"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Change Seller",
                     "es": "Change Seller",
                     "pt": "Change Seller"
@@ -19368,6 +19443,21 @@
                     "en": "change-seller",
                     "es": "change-seller",
                     "pt": "change-seller"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "How shipping works when delivery is done by the marketplace (FOB)",
+                    "es": "Cómo funciona el flete cuando la entrega es hecha por el marketplace (FOB)",
+                    "pt": "Como funciona o frete quando a entrega é feita pelo marketplace (FOB)"
+                  },
+                  "slug": {
+                    "en": "how-shipping-works-when-delivery-is-done-by-the-marketplace",
+                    "es": "como-funciona-el-flete-cuando-la-entrega-es-hecha-por-el-marketplace",
+                    "pt": "como-funciona-o-frete-quando-o-marketplace-faz-a-entrega"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -20088,21 +20178,6 @@
               "origin": "",
               "type": "category",
               "children": [
-                {
-                  "name": {
-                    "en": "Creating synonyms",
-                    "es": "Crear sinónimos",
-                    "pt": "Criar sinônimos"
-                  },
-                  "slug": {
-                    "en": "creating-synonyms",
-                    "es": "crear-sinonimos",
-                    "pt": "criar-sinonimos"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
                 {
                   "name": {
                     "en": "Intelligent Synonyms",
@@ -20928,6 +21003,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "How to use the Shareable Cart app (Social Selling)",
+                    "es": "Cómo usar la app Carrito Compartido (Social Selling)",
+                    "pt": "Como usar o app Carrinho Compartilhável (Social Selling)"
+                  },
+                  "slug": {
+                    "en": "how-to-use-the-shareable-cart-app",
+                    "es": "como-usar-la-app-carrito-compartido",
+                    "pt": "como-usar-o-app-carrinho-compartilhavel"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Send the Seller White Label payment methods to the Marketplace",
                     "es": "Enviar los medios de pago del Seller White Label al Marketplace",
                     "pt": "Enviar os meios de pagamento do Seller White Label para o Marketplace"
@@ -21111,6 +21201,21 @@
                 },
                 {
                   "name": {
+                    "en": "VTEX Support - APAC",
+                    "es": "Soporte VTEX - APAC",
+                    "pt": "Suporte VTEX - APAC"
+                  },
+                  "slug": {
+                    "en": "vtex-support-apac",
+                    "es": "soporte-vtex-apac",
+                    "pt": "suporte-vtex-apac"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "VTEX Support satisfaction survey",
                     "es": "Encuesta de satisfacción del Soporte VTEX",
                     "pt": "Pesquisa de Satisfação do suporte VTEX"
@@ -21219,7 +21324,7 @@
                 },
                 {
                   "name": {
-                    "en": "Calculating revenue through the worksheet exported from Orders module ",
+                    "en": "Calculating revenue through the worksheet exported from Orders module",
                     "es": "Calcular los ingresos a partir de la planilla exportada del módulo Pedidos",
                     "pt": "Calcular receita a partir da planilha exportada do módulo Pedidos"
                   },
@@ -22386,6 +22491,21 @@
                 },
                 {
                   "name": {
+                    "en": "Configuring ClearSale Global anti-fraud solution",
+                    "es": "Configurar el antifraude ClearSale Global",
+                    "pt": "Configurar o antifraude ClearSale Global"
+                  },
+                  "slug": {
+                    "en": "configuring-clearsale-global-anti-fraud-solution",
+                    "es": "configurar-el-antifraude-clearsale-global",
+                    "pt": "configurar-o-antifraude-clearsale-global"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Configuring ClearSale v3 antifraud",
                     "es": "Configurar antifraude ClearSale v3",
                     "pt": "Configurar antifraude ClearSale v3"
@@ -22439,6 +22559,36 @@
                     "en": "configuring-maximum-automatic-payment-settlement-time-frame",
                     "es": "configurar-tiempo-maximo-para-la-liquidacion-automatica",
                     "pt": "configurar-tempo-maximo-para-liquidacao-automatica"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Configuring Mercado Pago's Device Fingerprint",
+                    "es": "Configurar Device Fingerprint de Mercado Pago",
+                    "pt": "Configurar Device Fingerprint do Mercado Pago"
+                  },
+                  "slug": {
+                    "en": "configuring-mercado-pagos-device-fingerprint",
+                    "es": "configurar-device-fingerprint-de-mercado-pago",
+                    "pt": "configurar-device-fingerprint-do-mercado-pago"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Configuring Openpay payment gateway",
+                    "es": "Configurar el gateway Openpay",
+                    "pt": "Configurar o gateway Openpay"
+                  },
+                  "slug": {
+                    "en": "configuring-openpay-payment-gateway",
+                    "es": "configurar-el-gateway-openpay",
+                    "pt": "configurar-o-gateway-openpay"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -22522,13 +22672,28 @@
                 {
                   "name": {
                     "en": "Configuring Samsung Pay as a payment method",
-                    "es": "Configurar Samsung Pay como medio de pago ",
-                    "pt": "Configurar Samsung Pay como meio de pagamento "
+                    "es": "Configurar Samsung Pay como medio de pago",
+                    "pt": "Configurar Samsung Pay como meio de pagamento"
                   },
                   "slug": {
                     "en": "configuring-samsung-pay-as-a-payment-method",
                     "es": "configurar-samsung-pay-como-medio-de-pago",
                     "pt": "configurar-samsung-pay-como-meio-de-pagamento"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Configuring Spin Pay gateway",
+                    "es": "Configurar el gateway Spin Pay",
+                    "pt": "Configurar o gateway Spin Pay"
+                  },
+                  "slug": {
+                    "en": "configuring-spin-pay-gateway",
+                    "es": "configurar-el-gateway-spin-pay",
+                    "pt": "configurar-o-gateway-spin-pay"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -22582,13 +22747,28 @@
                 {
                   "name": {
                     "en": "Creating promotions for PSE payments",
-                    "es": "Crear promoción para pagos con PSE ",
+                    "es": "Crear promoción para pagos con PSE",
                     "pt": "Criar promoção para pagamentos com o PSE"
                   },
                   "slug": {
                     "en": "creating-promotions-for-pse-payments",
                     "es": "crear-promocion-para-pagos-con-pse",
                     "pt": "criar-promocao-para-pagamentos-com-o-pse"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "DPAN and FPAN: Understanding security in the online tokenized payment flow",
+                    "es": "DPAN y FPAN: comprender la seguridad en el flujo de pagos tokenizados online",
+                    "pt": "DPAN e FPAN: entendendo a segurança no fluxo de pagamentos tokenizados online"
+                  },
+                  "slug": {
+                    "en": "dpan-and-fpan-understanding-security-in-the-online-tokenized-payment-flow",
+                    "es": "dpan-y-fpan-comprender-la-seguridad-en-el-flujo-de-pagos-tokenizados-online",
+                    "pt": "dpan-e-fpan-entendendo-a-seguranca-no-fluxo-de-pagamentos-tokenizados-online"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -22628,7 +22808,7 @@
                   "name": {
                     "en": "How to configure Mercado Pago Pro as a payment method",
                     "es": "Cómo configurar Mercado Pago Pro como medio de pago",
-                    "pt": "Como configurar Mercado Pago Pro como meio de pagamento "
+                    "pt": "Como configurar Mercado Pago Pro como meio de pagamento"
                   },
                   "slug": {
                     "en": "how-to-configure-mercado-pago-pro-as-a-payment-method",
@@ -22643,7 +22823,7 @@
                   "name": {
                     "en": "How to configure the Caixa Virtual Debit Card",
                     "es": "Cómo configurar la Tarjeta de Débito Virtual de Caixa",
-                    "pt": "Como configurar o Cartão de Débito Virtual da Caixa "
+                    "pt": "Como configurar o Cartão de Débito Virtual da Caixa"
                   },
                   "slug": {
                     "en": "how-to-configure-the-caixa-virtual-debit-card",
@@ -22716,7 +22896,7 @@
                 },
                 {
                   "name": {
-                    "en": "How to set up recurrence in payment conditions ",
+                    "en": "How to set up recurrence in payment conditions",
                     "es": "Configurar recurrencia en condiciones de pago",
                     "pt": "Configurar recorrência em condições de pagamento"
                   },
@@ -22792,7 +22972,7 @@
                 {
                   "name": {
                     "en": "Set up Alelo payment method for Cielo V3",
-                    "es": " Configurar el medio de pago Alelo para Cielo V3",
+                    "es": "Configurar el medio de pago Alelo para Cielo V3",
                     "pt": "Configurar meio de pagamento Alelo para Cielo V3"
                   },
                   "slug": {
@@ -23219,6 +23399,21 @@
                     "en": "setting-up-payments-with-bci",
                     "es": "configurar-pago-con-bci",
                     "pt": "configurar-pagamento-com-bci"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with Bizum",
+                    "es": "Configurar pago con Bizum",
+                    "pt": "Configurar pagamento com Bizum"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-bizum",
+                    "es": "configurar-pago-con-bizum",
+                    "pt": "configurar-pagamento-com-bizum"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -23946,6 +24141,21 @@
                 },
                 {
                   "name": {
+                    "en": "Setting up payments with Lifemiles",
+                    "es": "Configurar pago con Lifemiles",
+                    "pt": "Configurar pagamento com Lifemiles"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-lifemiles",
+                    "es": "configurar-pago-con-lifemiles",
+                    "pt": "configurar-pagamento-com-lifemiles"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Setting up payments with Liquido Payment",
                     "es": "Configurar pago con Liquido Payment",
                     "pt": "Configurar pagamento com Liquido Payment"
@@ -24351,6 +24561,21 @@
                 },
                 {
                   "name": {
+                    "en": "Setting up payments with PayJoy",
+                    "es": "Configurar pago con PayJoy",
+                    "pt": "Configurar pagamento com PayJoy"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-payjoy",
+                    "es": "configurar-pago-con-payjoy",
+                    "pt": "configurar-pagamento-com-payjoy"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Setting up payments with PayPalCheckout",
                     "es": "Configurar pago con PayPalCheckout",
                     "pt": "Configurar pagamento com PayPalCheckout"
@@ -24464,6 +24689,21 @@
                     "en": "setting-up-payments-with-placetopaylatam",
                     "es": "configurar-pago-con-placetopaylatam",
                     "pt": "configurar-pagamento-com-placetopaylatam"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with PoleCMS",
+                    "es": "Configurar pago con PoleCMS",
+                    "pt": "Configurar pagamento com PoleCMS"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-polecms",
+                    "es": "configurar-pago-con-polecms",
+                    "pt": "configurar-pagamento-com-polecms"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -24861,7 +25101,7 @@
                 },
                 {
                   "name": {
-                    "en": "Setting up payments with Vindi ",
+                    "en": "Setting up payments with Vindi",
                     "es": "Configurar pago con Vindi",
                     "pt": "Configurar pagamento com Vindi"
                   },
@@ -25132,7 +25372,7 @@
                 },
                 {
                   "name": {
-                    "en": "Credit Card - Basic payment flow ",
+                    "en": "Credit Card - Basic payment flow",
                     "es": "Tarjeta de crédito - Flujo básico de un pago",
                     "pt": "Cartão de crédito - Fluxo básico de um pagamento"
                   },
@@ -25207,8 +25447,8 @@
                 },
                 {
                   "name": {
-                    "en": "Payment Provider Protocol ",
-                    "es": "Payment Provider Protocol ",
+                    "en": "Payment Provider Protocol",
+                    "es": "Payment Provider Protocol",
                     "pt": "Payment Provider Protocol"
                   },
                   "slug": {
@@ -25584,7 +25824,7 @@
                 {
                   "name": {
                     "en": "How do account verification transactions work?",
-                    "es": "¿Cómo funcionan las transacciones de verificación de cuenta? ",
+                    "es": "¿Cómo funcionan las transacciones de verificación de cuenta?",
                     "pt": "Como funcionam as transações de verificação de conta?"
                   },
                   "slug": {
@@ -25842,7 +26082,7 @@
                 {
                   "name": {
                     "en": "Creating an XML with promotional price using a price table",
-                    "es": "Crear XML con precio promocional por tabla de precios ",
+                    "es": "Crear XML con precio promocional por tabla de precios",
                     "pt": "Criar XML com preço promocional por tabela de preços"
                   },
                   "slug": {
@@ -25857,8 +26097,8 @@
                 {
                   "name": {
                     "en": "Creating Price Tables",
-                    "es": "Creación de tablas de precios ",
-                    "pt": "Criar tabelas de preços "
+                    "es": "Creación de tablas de precios",
+                    "pt": "Criar tabelas de preços"
                   },
                   "slug": {
                     "en": "creating-price-tables",
@@ -26601,8 +26841,8 @@
                 {
                   "name": {
                     "en": "Creating a subscription promotion",
-                    "es": " Crear una promoción por suscripción",
-                    "pt": " Criar uma promoção por assinatura"
+                    "es": "Crear una promoción por suscripción",
+                    "pt": "Criar uma promoção por assinatura"
                   },
                   "slug": {
                     "en": "creating-a-subscription-promotion",
@@ -26766,7 +27006,7 @@
                 {
                   "name": {
                     "en": "How to use rebates",
-                    "es": "Cómo utilizar rebates ",
+                    "es": "Cómo utilizar rebates",
                     "pt": "Como utilizar rebate ou VPC"
                   },
                   "slug": {
@@ -26840,9 +27080,24 @@
                 },
                 {
                   "name": {
-                    "en": "Promotions Simulator ",
-                    "es": "Simulador de Promociones ",
-                    "pt": "Simulador de Promoções "
+                    "en": "Promotions Overview",
+                    "es": "Visión General Promociones",
+                    "pt": "Visão Geral Promoções"
+                  },
+                  "slug": {
+                    "en": "promotions-overview",
+                    "es": "vision-general-promociones",
+                    "pt": "visao-geral-promocoes"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Promotions Simulator",
+                    "es": "Simulador de Promociones",
+                    "pt": "Simulador de Promoções"
                   },
                   "slug": {
                     "en": "promotions-simulator-beta",
@@ -27509,9 +27764,9 @@
                 },
                 {
                   "name": {
-                    "en": "Seller Management ",
-                    "es": "Gestión de Sellers ",
-                    "pt": "Gerenciamento de Sellers "
+                    "en": "Seller Management",
+                    "es": "Gestión de Sellers",
+                    "pt": "Gerenciamento de Sellers"
                   },
                   "slug": {
                     "en": "seller-management",
@@ -27768,7 +28023,7 @@
                   "name": {
                     "en": "Seller: creating an account in the Seller Portal",
                     "es": "Sellers: crear una cuenta en el Seller Portal",
-                    "pt": "Seller: criar conta no Seller Portal "
+                    "pt": "Seller: criar conta no Seller Portal"
                   },
                   "slug": {
                     "en": "seller-creating-an-account-in-the-seller-portal",
@@ -27842,7 +28097,7 @@
                 },
                 {
                   "name": {
-                    "en": "Configuring a seller on VTEX marketplace ",
+                    "en": "Configuring a seller on VTEX marketplace",
                     "es": "Cómo configurar el seller para vender en un marketplace VTEX",
                     "pt": "Configurar seller para vender em marketplace VTEX"
                   },
@@ -28678,7 +28933,7 @@
                 },
                 {
                   "name": {
-                    "en": "Shipping policy ",
+                    "en": "Shipping policy",
                     "es": "Política de envío",
                     "pt": "Política de envio"
                   },
@@ -28981,7 +29236,7 @@
                 {
                   "name": {
                     "en": "VTEX Shipping Network: Dashboard",
-                    "es": "VTEX Shipping Network: Panel ",
+                    "es": "VTEX Shipping Network: Panel",
                     "pt": "VTEX Shipping Network: Painel"
                   },
                   "slug": {
@@ -30113,7 +30368,7 @@
                   "name": {
                     "en": "What are placeholders?",
                     "es": "Qué son placeholders?",
-                    "pt": " O que são placeholders?"
+                    "pt": "O que são placeholders?"
                   },
                   "slug": {
                     "en": "what-are-placeholders",
@@ -30249,7 +30504,7 @@
                   "name": {
                     "en": "Managing URL redirects per binding",
                     "es": "Gestionar redirecciones según el binding",
-                    "pt": "Gerenciando redirecionamentos de URL por binding "
+                    "pt": "Gerenciando redirecionamentos de URL por binding"
                   },
                   "slug": {
                     "en": "managing-redirects-per-binding",
@@ -30383,7 +30638,7 @@
                 },
                 {
                   "name": {
-                    "en": "Scheduling content updates ",
+                    "en": "Scheduling content updates",
                     "es": "Programar actualizaciones de contenido",
                     "pt": "Agendando atualizações de conteúdo"
                   },
@@ -30734,7 +30989,7 @@
                 {
                   "name": {
                     "en": "How subscriptions work",
-                    "es": "Cómo funciona Suscripciones ",
+                    "es": "Cómo funciona Suscripciones",
                     "pt": "Como funciona a assinatura"
                   },
                   "slug": {
@@ -30779,7 +31034,7 @@
                 {
                   "name": {
                     "en": "How to manage Subscriptions",
-                    "es": "Cómo Gestionar Suscripciones ",
+                    "es": "Cómo Gestionar Suscripciones",
                     "pt": "Como gerenciar Assinaturas"
                   },
                   "slug": {
@@ -31193,21 +31448,6 @@
                 },
                 {
                   "name": {
-                    "en": "Apps Overview",
-                    "es": "Vision General Apps",
-                    "pt": "Visão Geral Apps"
-                  },
-                  "slug": {
-                    "en": "apps-overview",
-                    "es": "vision-general-apps",
-                    "pt": "visao-geral-apps"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Billing Overview",
                     "es": "Visión General Facturación",
                     "pt": "Visão Geral Faturas"
@@ -31216,36 +31456,6 @@
                     "en": "billing-module-overview",
                     "es": "vision-general-facturacion",
                     "pt": "visao-geral-faturas"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Catalog: Overview",
-                    "es": "Catálogo: visión general",
-                    "pt": "Catálogo: visão geral"
-                  },
-                  "slug": {
-                    "en": "catalog-overview",
-                    "es": "catalogo-vision-general",
-                    "pt": "catalogo-visao-geral"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Configuring ClearSale Global anti-fraud solution",
-                    "es": "Configurar el antifraude ClearSale Global",
-                    "pt": "Configurar o antifraude ClearSale Global"
-                  },
-                  "slug": {
-                    "en": "configuring-clearsale-global-anti-fraud-solution",
-                    "es": "configurar-el-antifraude-clearsale-global",
-                    "pt": "configurar-o-antifraude-clearsale-global"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -31268,51 +31478,6 @@
                 },
                 {
                   "name": {
-                    "en": "Configuring Mercado Pago's Device Fingerprint",
-                    "es": "Configurar Device Fingerprint de Mercado Pago",
-                    "pt": "Configurar Device Fingerprint do Mercado Pago"
-                  },
-                  "slug": {
-                    "en": "configuring-mercado-pagos-device-fingerprint",
-                    "es": "configurar-device-fingerprint-de-mercado-pago",
-                    "pt": "configurar-device-fingerprint-do-mercado-pago"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Configuring Openpay payment gateway",
-                    "es": "Configurar el gateway Openpay",
-                    "pt": "Configurar o gateway Openpay"
-                  },
-                  "slug": {
-                    "en": "configuring-openpay-payment-gateway",
-                    "es": "configurar-el-gateway-openpay",
-                    "pt": "configurar-o-gateway-openpay"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Configuring Spin Pay gateway",
-                    "es": "Configurar el gateway Spin Pay",
-                    "pt": "Configurar o gateway Spin Pay"
-                  },
-                  "slug": {
-                    "en": "configuring-spin-pay-gateway",
-                    "es": "configurar-el-gateway-spin-pay",
-                    "pt": "configurar-o-gateway-spin-pay"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Data Insights Agent",
                     "es": "Data Insights Agent",
                     "pt": "Data Insights Agent"
@@ -31321,21 +31486,6 @@
                     "en": "data-insights-agent",
                     "es": "data-insights-agent",
                     "pt": "data-insights-agent"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "DPAN and FPAN: Understanding security in the online tokenized payment flow",
-                    "es": "DPAN y FPAN: comprender la seguridad en el flujo de pagos tokenizados online",
-                    "pt": "DPAN e FPAN: entendendo a segurança no fluxo de pagamentos tokenizados online"
-                  },
-                  "slug": {
-                    "en": "dpan-and-fpan-understanding-security-in-the-online-tokenized-payment-flow",
-                    "es": "dpan-y-fpan-comprender-la-seguridad-en-el-flujo-de-pagos-tokenizados-online",
-                    "pt": "dpan-e-fpan-entendendo-a-seguranca-no-fluxo-de-pagamentos-tokenizados-online"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -31373,51 +31523,6 @@
                 },
                 {
                   "name": {
-                    "en": "Offer Management: moderation and quality of Mercado Libre",
-                    "es": "Gestión de anuncios: moderación y calidad de los anuncios en Mercado Libre",
-                    "pt": "Gerenciamento de Anúncios: moderação e qualidade dos anúncios do Mercado Livre"
-                  },
-                  "slug": {
-                    "en": "offer-management-moderation-and-quality-of-mercado-libre",
-                    "es": "gestion-de-anuncios-moderacion-y-calidad-de-los-anuncios-en-mercado-libre",
-                    "pt": "gerenciamento-de-anuncios-moderacao-e-qualidade-dos-anuncios-do-mercado"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Promotions Overview",
-                    "es": "Visión General Promociones",
-                    "pt": "Visão Geral Promoções"
-                  },
-                  "slug": {
-                    "en": "promotions-overview",
-                    "es": "vision-general-promociones",
-                    "pt": "visao-geral-promocoes"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Releases Module (Beta)",
-                    "es": "Módulo de Lanzamientos (Beta)",
-                    "pt": "Módulo Lançamentos (Beta)"
-                  },
-                  "slug": {
-                    "en": "releases-module-beta",
-                    "es": "modulo-de-lanzamientos-beta",
-                    "pt": "modulo-lancamentos-beta"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Sales associate code field at Checkout",
                     "es": "Campo Código de vendedor en el Checkout",
                     "pt": "Campo Código de Vendedor no Checkout"
@@ -31441,21 +31546,6 @@
                     "en": "setting-up-nethone-antifraud",
                     "es": "configurar-antifraude-nethone",
                     "pt": "configurar-o-antifraude-nethone"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "VTEX Support - APAC",
-                    "es": "Soporte VTEX - APAC",
-                    "pt": "Suporte VTEX - APAC"
-                  },
-                  "slug": {
-                    "en": "vtex-support-apac",
-                    "es": "soporte-vtex-apac",
-                    "pt": "suporte-vtex-apac"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -31725,7 +31815,7 @@
                   "name": {
                     "en": "Using the app",
                     "es": "Uso de la aplicación",
-                    "pt": "Uso do Aplicativo "
+                    "pt": "Uso do Aplicativo"
                   },
                   "slug": {
                     "en": "tutorial-vtex-tracking-mobile-app",
@@ -32013,21 +32103,6 @@
               "children": [
                 {
                   "name": {
-                    "en": " Holidays (VTEX Tracking)",
-                    "es": "Feriados (VTEX Tracking)",
-                    "pt": "Feriados (VTEX Tracking)"
-                  },
-                  "slug": {
-                    "en": "vtex-tracking-holidays",
-                    "es": "feriados-vtex-tracking",
-                    "pt": "feriados-vtex-tracking"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Agencies (VTEX Tracking)",
                     "es": "Agencias (VTEX Tracking)",
                     "pt": "Agências (VTEX Tracking)"
@@ -32096,6 +32171,21 @@
                     "en": "clientes-vtex-tracking",
                     "es": "clientes-vtex-tracking",
                     "pt": "clientes-vtex-tracking"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Holidays (VTEX Tracking)",
+                    "es": "Feriados (VTEX Tracking)",
+                    "pt": "Feriados (VTEX Tracking)"
+                  },
+                  "slug": {
+                    "en": "vtex-tracking-holidays",
+                    "es": "feriados-vtex-tracking",
+                    "pt": "feriados-vtex-tracking"
                   },
                   "origin": "",
                   "type": "markdown",
