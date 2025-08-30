@@ -3,18 +3,9 @@ const fetchEntries = require("../fetch/entries");
 const { fetchLinkedEntry } = require("../fetch/linkedEntry");
 const fs = require("fs");
 const { normalizeFolderName } = require("../utils/normalize");
-const { writeJSON } = require("./fileWriter");
+const { writeJSON } = require("../writers/fileWriter");
 
 function s(v, fb = "") { return typeof v === "string" ? v.trim() : fb; }
-
-async function hasTrackArticles(trackId) {
-  const articles = await fetchEntries({
-    contentTypes: ["trackArticle"],
-    query: { "fields.trackId.sys.id": trackId }
-  });
-  return articles.length > 0;
-}
-
 
 function makeMetadata({ titleEN, titleLO, slugEN, slugLO, order }) {
   return {
@@ -65,13 +56,6 @@ async function buildTracksMetadata(locales) {
         const ref = orderedRefs[j];
         const trackId = ref?.sys?.id;
         if (!trackId) continue;
-
-        // ⚠️ Checar se tem artigos
-        const hasArticles = await hasTrackArticles(trackId);
-        if (!hasArticles) {
-          console.log(`⏭️  Pulando track ${trackId} (sem artigos)`);
-          continue;
-        }
 
         const trackEntry = await fetchLinkedEntry(trackId);
         if (!trackEntry) continue;
