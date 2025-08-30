@@ -1,5 +1,5 @@
 ---
-title: 'Criar tabelas de preços '
+title: 'Criar tabelas de preços'
 id: 58YmY2Iwggyw4WeSCGg24S
 status: PUBLISHED
 createdAt: 2018-12-02T21:35:14.220Z

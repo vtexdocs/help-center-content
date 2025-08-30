@@ -3,8 +3,8 @@ title: 'Master Data'
 id: 4otjBnR27u4WUIciQsmkAw
 status: PUBLISHED
 createdAt: 2018-04-02T19:01:38.026Z
-updatedAt: 2025-05-06T14:07:44.336Z
-publishedAt: 2025-05-06T14:07:44.336Z
+updatedAt: 2025-08-29T14:19:54.707Z
+publishedAt: 2025-08-29T14:19:54.707Z
 firstPublishedAt: 2018-04-02T20:54:18.272Z
 contentType: tutorial
 productTeam: Master Data
@@ -43,7 +43,6 @@ En la tabla a continuación, obtendrás más información sobre las diferencias 
 | Entidades de datos         | Se nombran con acrónimos compuestos de dos letras mayúsculas. Ejemplo: `CL` almacena los clientes, `AD` los domicilios. No se puede crear con API. | Se los llama por sus nombres, por ejemplo `Notification`. Solo se puede crear con API.                                                                      | - [Entidades de datos](#data-entities) <br> - [Entidades de datos en Master Data v1](https://help.vtex.com/es/tutorial/criando-entidade-de-dados--tutorials_1265) <br> - [Crear relaciones entre entidades de datos de Master Data v2](https://developers.vtex.com/vtex-rest-api/docs/creating-relationships-between-data-entities-using-api)                                                                                                   |
 | Campos                     | Se deben rellenar en el formato específico configurado en la entidad de datos.                                                                    | No hay restricción de campos y formatos. La validación del formato se hace a través de los esquemas JSON.                                                   | - [Tipos de campos en Master Data v1](https://help.vtex.com/es/tutorial/criando-entidade-de-dados--tutorials_1265#entendendo-os-tipos) <br> - [Esquemas JSON](#v2-esquemas)                                                                                                                                                                                                                                                               |
 | Índices                    | Sí                                                                                                                                                 | Sí                                                                                                                                                          | - [Configurar índices en Master Data v1](https://help.vtex.com/es/tutorial/setting-up-an-index-on-master-data--tutorials_785) <br> - [Configurar índices con la API de Master Data v2](https://developers.vtex.com/vtex-rest-api/reference/putindices)                                                                                                                                                                                                                           |
-
 
 > ❗ Las entidades de datos de ambas versiones son independientes, aunque algunas pueden ser análogas. Esto significa que un dato creado en una entidad de la v1 no se puede consultar ni editar usando recursos de la v2 y viceversa.
 

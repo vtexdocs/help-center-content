@@ -3,8 +3,8 @@ title: 'Configurar pagamento com Digital River V2'
 id: 5dlXHutd9Ik6vtN3WP7GRP
 status: PUBLISHED
 createdAt: 2022-02-17T12:11:27.726Z
-updatedAt: 2024-01-24T17:19:19.577Z
-publishedAt: 2024-01-24T17:19:19.577Z
+updatedAt: 2025-08-26T18:33:22.831Z
+publishedAt: 2025-08-26T18:33:22.831Z
 firstPublishedAt: 2022-02-17T13:44:17.095Z
 contentType: tutorial
 productTeam: Financial
@@ -19,22 +19,16 @@ Na VTEX, é possível realizar a integração com o provedor de pagamento Digita
 
 Para configurar Digital River V2, siga os passos abaixo:
 
-<ui>1. No Admin VTEX, acesse **Configurações da loja** > **Pagamentos** > **Provedores**, ou digite **Provedores** na barra de busca no topo da página.</ui>
-
-<ui>2. Na tela de provedores, clique no botão `Novo provedor`.</ui>
-
-<ui>3. Digite o nome __DigitalRiverV2__ na barra de busca e clique sobre o nome do provedor.</ui>
-
-<ui>4. Preencha os campos __Application Key__ e __Application Token__ com as informações da sua conta Digital River V2.</ui>
-
-<ui>5. Em __Captura automática de pagamento__, selecione uma das opções disponíveis:</ui>
-
+1. No Admin VTEX, acesse **Configurações da loja** > **Pagamentos** > **Provedores**, ou digite **Provedores** na barra de busca no topo da página.
+2. Na tela de provedores, clique no botão `Novo provedor`.
+3. Digite o nome __DigitalRiverV2__ na barra de busca e clique sobre o nome do provedor.
+4. Preencha os campos __Application Key__ e __Application Token__ com as informações da sua conta Digital River V2.
+5. Em __Captura automática de pagamento__, selecione uma das opções disponíveis:
  - __Use o Comportamento Recomendado Do Processador De Pagamentos__: a captura do pagamento não ocorre de forma automática. Nesta opção, o provedor de pagamento indica se o pagamento foi autorizado, e pode determinar ou recomendar um número de dias para a captura mediante a autorização do pagamento.   
  - __Imediatamente: Captura Automática Ao Autorizar O Pagamento__: a captura é realizada automaticamente logo após a autorização  do pagamento, mesmo se na transação existir a necessidade de análise do antifraude.
  - __Imediatamente: Captura Automática Ao Passar A Análise De Risco De Fraude__:  a captura é realizada automaticamente logo após a autorização  do pagamento e análise do antifraude. Se desejar utilizar esta opção e não existe análise do antifraude a ser realizada, o sistema irá seguir o mesmo fluxo da opção __Imediatamente: Captura Automática Ao Autorizar O Pagamento__.  
  - __Desativado: Não Capturado Automaticamente__: a captura ocorre apenas quando o pedido é faturado. Se desejar utilizar essa opção, é importante ficar atento ao momento do faturamento, pois caso o pedido seja faturado em um período de tempo maior que o acordado com o provedor para a captura do pagamento, a transação poderá ser cancelada.
-
-<ui>6.Clique em __Salvar__.</ui>
+6.Clique em __Salvar__.
 
 ## Configurar condição de pagamento
 

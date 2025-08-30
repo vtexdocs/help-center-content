@@ -1,5 +1,5 @@
 ---
-title: 'Ajustes en la interfaz personalizada del checkout en el Admin '
+title: 'Ajustes en la interfaz personalizada del checkout en el Admin'
 id: 548aDBJciQu97Vh0BhEiWx
 status: PUBLISHED
 createdAt: 2024-01-04T13:27:04.734Z

@@ -1,5 +1,5 @@
 ---
-title: 'Optimizing searches with substitute words '
+title: 'Optimizing searches with substitute words'
 id: 32FqSsl5VuQyiIMEc02Uwu
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:49.707Z

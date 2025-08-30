@@ -1,5 +1,5 @@
 ---
-title: 'Setting up payments with Vindi '
+title: 'Setting up payments with Vindi'
 id: 61EXzfrBZYIgGU26EGcaMo
 status: PUBLISHED
 createdAt: 2018-03-01T15:25:39.368Z

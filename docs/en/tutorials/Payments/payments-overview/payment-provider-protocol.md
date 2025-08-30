@@ -1,5 +1,5 @@
 ---
-title: 'Payment Provider Protocol '
+title: 'Payment Provider Protocol'
 id: RdsT2spdq80MMwwOeEq0m
 status: PUBLISHED
 createdAt: 2018-01-02T15:40:00.920Z

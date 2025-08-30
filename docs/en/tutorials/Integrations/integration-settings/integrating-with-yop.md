@@ -3,8 +3,8 @@ title: 'How to integrate with YOP'
 id: tutorials_4206
 status: PUBLISHED
 createdAt: 2017-04-27T21:51:42.320Z
-updatedAt: 2023-03-29T16:28:29.290Z
-publishedAt: 2023-03-29T16:28:29.290Z
+updatedAt: 2025-08-26T17:46:58.501Z
+publishedAt: 2025-08-26T17:46:58.501Z
 firstPublishedAt: 2017-04-27T23:11:14.915Z
 contentType: tutorial
 productTeam: Channels
@@ -30,7 +30,7 @@ Some steps are essential for us to start configuring integration with the YOP ma
 2. Click on the **Users** tab;
 3. Click on the **New user** button;
 4. Enter **e-mail** and **Full name**;
-5. Search for and select the roles **IntegrationProfile-Fulfillment\_Oms **(to add the new orders);
+5. Search for and select the roles **IntegrationProfile-Fulfillment\_Oms** (to add the new orders);
 6. Click on **Add;**
 7. Click on the **Save** button.
 

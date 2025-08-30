@@ -9,7 +9,7 @@ function normalizeFileName(str) {
 }
 
 function normalizeFolderName(name) {
-  return name.trim().toLowerCase().replace(/\s+/g, "-").replace(":", "");
+  return name.trim().toLowerCase().replace(/\s+/g, "-").replace(":", "").replace("(", "").replace(")", "");
 }
 
 function yamlSafeString(value) {

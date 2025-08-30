@@ -1,5 +1,5 @@
 ---
-title: 'Cómo Gestionar Suscripciones '
+title: 'Cómo Gestionar Suscripciones'
 id: 6Jk50FPbv6iuz1OsFypv8x
 status: PUBLISHED
 createdAt: 2020-02-05T14:18:54.781Z

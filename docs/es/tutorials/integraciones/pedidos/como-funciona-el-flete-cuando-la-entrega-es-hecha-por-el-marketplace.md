@@ -1,5 +1,5 @@
 ---
-title: ' Cómo funciona el flete cuando la entrega es hecha por el marketplace (FOB)'
+title: 'Cómo funciona el flete cuando la entrega es hecha por el marketplace (FOB)'
 id: EY1l6tYW3IUquwwwcQqwQ
 status: PUBLISHED
 createdAt: 2017-08-28T23:17:57.225Z

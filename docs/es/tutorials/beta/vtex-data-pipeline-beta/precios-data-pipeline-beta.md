@@ -1,5 +1,5 @@
 ---
-title: 'Precios Data Pipeline '
+title: 'Precios Data Pipeline'
 id: 3NMGJ8dtv73Bwvo9PSz1fz
 status: PUBLISHED
 createdAt: 2024-06-21T14:58:43.084Z

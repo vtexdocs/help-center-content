@@ -1,5 +1,5 @@
 ---
-title: 'Gerenciamento de organizações B2B '
+title: 'Gerenciamento de organizações B2B'
 id: 1UwNCWhML3BsV6anpoUvVZ
 status: PUBLISHED
 createdAt: 2024-06-12T17:24:48.991Z

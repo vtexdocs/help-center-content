@@ -1,9 +1,9 @@
 ---
 title: 'Criar sinônimos'
 id: 5IfjhvjxNAvJGEWNn0AhOA
-status: PUBLISHED
+status: CHANGED
 createdAt: 2024-06-27T16:36:30.904Z
-updatedAt: 2024-06-27T16:39:00.981Z
+updatedAt: 2025-08-26T17:42:15.506Z
 publishedAt: 2024-06-27T16:39:00.981Z
 firstPublishedAt: 2024-06-27T16:37:25.800Z
 contentType: tutorial
@@ -56,7 +56,7 @@ Para importar sinônimos por planilha, siga os passos abaixo:
 
 ### Template da planilha de sinônimos
 
-O arquivo deve conter o seguinte formato, de acordo com os [tipos de sinônimos](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV#tipos-de-sinonimos) escolhidos:
+Cada linha na planilha corresponde a um sinônimo. OA linha deve conter o seguinte formato, de acordo com o [tipo de sinônimo](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV#tipos-de-sinonimos) escolhido:
 
  - **Unidirecional**: `{termos separados por vírgula};{termo equivalente};{status}`
 
@@ -71,6 +71,19 @@ O arquivo deve conter o seguinte formato, de acordo com os [tipos de sinônimos]
 
     - `tv,televisão,televisor;true`: ao pesquisar por qualquer um dos termos, qualquer produto que contenha um deles será exibido.
     - `monitor,tela,display;true`: ao pesquisar por qualquer um dos termos, qualquer produto que contenha um deles será exibido.
+
+Confira a seguir um exemplo de preenchimento da planilha com diferentes tipos de sinônimos e o resultado da importação no Admin VTEX. Cada linha no exemplo corresponde a uma linha na planilha:
+
+Exemplo de preenchimento:
+
+```
+flor;floral;true
+pequeno,mini;compacto;true
+cachorro;animal;false
+beleza,blush,pó;true
+```
+
+Resultado no Admin VTEX:
 
 #### Lojas Multi-idioma (Beta)
 

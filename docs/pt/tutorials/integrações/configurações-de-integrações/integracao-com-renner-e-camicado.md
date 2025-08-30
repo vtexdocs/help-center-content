@@ -3,8 +3,8 @@ title: 'Integração com Renner e Camicado'
 id: 5qf2wloosKlmIB8o2AitnT
 status: PUBLISHED
 createdAt: 2021-07-02T19:25:31.689Z
-updatedAt: 2024-11-13T18:06:07.642Z
-publishedAt: 2024-11-13T18:06:07.642Z
+updatedAt: 2025-08-26T17:49:30.086Z
+publishedAt: 2025-08-26T17:49:30.086Z
 firstPublishedAt: 2021-07-02T21:07:36.096Z
 contentType: tutorial
 productTeam: Channels
@@ -72,7 +72,7 @@ O [afiliado](https://help.vtex.com/pt/tutorial/o-que-e-afiliado--4bN3e1YarSEammk
    - **ID:** código identificador do afiliado, deve ser composto de três consoantes, sejam elas repetidas ou não. Vogais não são aceitas. A sugestão é usar RNN para a Renner, e CMD para a Camicado.
    - **Política Comercial:** número da política comercial que definirá o sortimento de catálogo, preço e estratégia de envio dos itens utilizados na integração com a Renner ou a Camicado.
    - **E-mail de Follow Up:** endereço eletrônico que receberá notificações sobre a integração.
-   - **Endpoint de Search: **URL da aplicação que receberá notificações de produtos, preço, estoque, dentre outras. Você será informado sobre este dado pelo próprio parceiro, seja a Renner ou a Camicado.
+   - **Endpoint de Search:** URL da aplicação que receberá notificações de produtos, preço, estoque, dentre outras. Você será informado sobre este dado pelo próprio parceiro, seja a Renner ou a Camicado.
    - **Versão do Endpoint de Search:** só existe a opção padrão _1.x.x_.
    - Deixe desmarcada a flag _Usar meu meio de pagamento_.
 

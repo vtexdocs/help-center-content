@@ -3,8 +3,8 @@ title: 'Via inventory integration errors'
 id: 2jzz4Ip0M2BDzwslEtCzPc
 status: PUBLISHED
 createdAt: 2021-10-26T23:55:47.528Z
-updatedAt: 2023-11-30T21:50:54.362Z
-publishedAt: 2023-11-30T21:50:54.362Z
+updatedAt: 2025-08-26T15:32:22.393Z
+publishedAt: 2025-08-26T15:32:22.393Z
 firstPublishedAt: 2021-10-27T00:08:05.224Z
 contentType: tutorial
 productTeam: Channels

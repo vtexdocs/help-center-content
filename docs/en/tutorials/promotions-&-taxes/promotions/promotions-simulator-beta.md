@@ -1,5 +1,5 @@
 ---
-title: 'Promotions Simulator '
+title: 'Promotions Simulator'
 id: 4zc8SNqjqeIJ0ZRMhjlnvy
 status: PUBLISHED
 createdAt: 2022-09-13T21:22:59.620Z

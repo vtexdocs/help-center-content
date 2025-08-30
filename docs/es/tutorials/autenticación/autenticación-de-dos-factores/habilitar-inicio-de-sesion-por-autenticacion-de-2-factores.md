@@ -3,8 +3,8 @@ title: 'Habilitar inicio de sesión por autenticación de dos factores'
 id: 4Ae1fcQi12g8u4SkQKCqWQ
 status: PUBLISHED
 createdAt: 2017-11-09T00:46:29.023Z
-updatedAt: 2024-11-14T18:38:58.853Z
-publishedAt: 2024-11-14T18:38:58.853Z
+updatedAt: 2025-08-26T16:31:38.221Z
+publishedAt: 2025-08-26T16:31:38.221Z
 firstPublishedAt: 2017-11-09T13:09:54.237Z
 contentType: tutorial
 productTeam: Identity
@@ -49,7 +49,7 @@ Para utilizar una clave generada por una aplicación de autenticación sigue los
 3. Inicia sesión ingresando el código que se muestra en la aplicación. Este código se actualiza periódicamente, consúltalo siempre que sea necesario.
   ![2FA - App Insert Code - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/autenticaci%C3%B3n/autenticaci%C3%B3n-de-dos-factores/habilitar-inicio-de-sesion-por-autenticacion-de-2-factores_4.png)
 
-> ℹ️ Si inicias sesión con email y contraseña en la misma computadora, la clave de acceso se solicitará **cada 3 días**. Cuando esto ocurra, consulta el código de la aplicación.
+> ℹ️ Si inicias sesión con email y contraseña en el mismo navegador, la clave de acceso se solicitará **cada 10 días**. Cuando esto ocurra, consulta el código de la aplicación.
 
 ### Activar 2FA por SMS
 
