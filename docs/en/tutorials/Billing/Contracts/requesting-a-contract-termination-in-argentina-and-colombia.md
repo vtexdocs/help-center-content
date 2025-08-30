@@ -1,5 +1,5 @@
 ---
-title: 'Requesting a contract termination in Argentina and Colombia '
+title: 'Requesting a contract termination in Argentina and Colombia'
 id: 33g6mUoYB9Mf04C06gSU0a
 status: CHANGED
 createdAt: 2020-06-25T22:12:14.589Z

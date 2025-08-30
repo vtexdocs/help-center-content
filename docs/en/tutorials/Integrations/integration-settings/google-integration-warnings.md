@@ -42,17 +42,13 @@ To identify the SKU price integration error with Google, see the documentation [
 
 **Availability:** Required field. If the integration of a SKU shows an error, see [Inventory management](https://help.vtex.com/en/tutorial/gerenciar-itens-em-estoque--tutorials_139) and [Warehouse](https://help.vtex.com/en/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb).   
 
-<div class=”alert alert-info”>
-A product description differs from the title or product name.
-</div>  
+> ℹ️ A product description differs from the title or product name.
 
 **EAN/UPC:** Required field in the [Catalog module](https://help.vtex.com/en/tutorial/catalogo-visao-geral--77M8ItLhDXs6aBdQTqToVe) that must be completed with the SKU's unique identification code (barcode) with up to 13 numeric characters.  
 
 **Manufacturer code:** Required field in the [Catalog module](https://help.vtex.com/en/tutorial/catalogo-visao-geral--77M8ItLhDXs6aBdQTqToVe) that must be completed with the code provided by the manufacturer to identify their product. If a product has a specific code, this field must be completed.  
 
-<div class=”alert alert-info”>
-The codes EAN/UPC and Manufacturer's code are required when selling manufactured products. See when to apply the <a href https://support.google.com/merchants/answer/6324461?hl=pt-BR&ref_topic=6324338&sjid=10867212756007821438-SA>EAN/UPC</a> or the <a href https://support.google.com/merchants/answer/6324482?hl=pt-BR&ref_topic=6324338&sjid=10867212756007821438-SA>Manufacturer's Code</a> to a product.
-</div>   
+> ℹ️ The codes EAN/UPC and Manufacturer's code are required when selling manufactured products. See when to apply the <a href https://support.google.com/merchants/answer/6324461?hl=pt-BR&ref_topic=6324338&sjid=10867212756007821438-SA>EAN/UPC</a> or the <a href https://support.google.com/merchants/answer/6324482?hl=pt-BR&ref_topic=6324338&sjid=10867212756007821438-SA>Manufacturer's Code</a> to a product.
 
 **Size:** Required field only for clothing products that correspond to the category [ID1604](https://support.google.com/merchants/answer/6324492?sjid=6190195010935556339-SA&visit_id=638479454885115656-3876849034&rd=1) and footwear that correspond to the category [ID187](https://support.google.com/merchants/answer/6324492?sjid=6190195010935556339-SA&visit_id=638479454885115656-3876849034&rd=1) on Google. If applicable to your product, enter the SKU size.  
 
@@ -74,9 +70,7 @@ The Color field is a [custom field](https://help.vtex.com/en/tutorial/criando-um
 
 This field type supports alphanumeric values such as **Green, Black, Yellow, Pink**.
 
-<div class=”alert alert-info”>
-Each SKU only allows one color.
-</div>   
+> ℹ️ Each SKU only allows one color.
 
 **Gender:** Required field only for clothing items and accessories that correspond to [category ID166](https://support.google.com/merchants/answer/6324479?sjid=6190195010935556339-SA&visit_id=638479454885115656-3876849034&rd=1) on Google. If applicable to your product, enter the SKU gender.  
 

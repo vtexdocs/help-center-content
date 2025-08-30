@@ -1,9 +1,9 @@
 ---
 title: 'Crear sinónimos'
 id: 5IfjhvjxNAvJGEWNn0AhOA
-status: PUBLISHED
+status: CHANGED
 createdAt: 2024-06-27T16:36:30.904Z
-updatedAt: 2024-06-27T16:39:00.981Z
+updatedAt: 2025-08-26T17:42:15.506Z
 publishedAt: 2024-06-27T16:39:00.981Z
 firstPublishedAt: 2024-06-27T16:37:25.800Z
 contentType: tutorial

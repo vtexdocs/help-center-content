@@ -3,8 +3,8 @@ title: 'Events available in Audit'
 id: 6r1Mzcu5NmkmmDLJlz9CCZ
 status: PUBLISHED
 createdAt: 2022-06-22T16:05:16.214Z
-updatedAt: 2025-06-12T15:42:48.235Z
-publishedAt: 2025-06-12T15:42:48.235Z
+updatedAt: 2025-08-25T18:20:54.585Z
+publishedAt: 2025-08-25T18:20:54.585Z
 firstPublishedAt: 2022-06-22T16:28:52.801Z
 contentType: tutorial
 productTeam: Master Data
@@ -39,6 +39,7 @@ Below, you will find a list of the potential events available in [Audit](https:/
 * [Site Editor](#site-editor)
 * [Ad Network](#ad-network)
 * [Card tokens](#card-tokens)
+* [Organizational units](#organizational-units)
 
 > ℹ️ In case you encounter an event in Audit which has not been included in this list, please inform us through the [documentation feedback page](https://docs.google.com/forms/d/e/1FAIpQLSfmnotPvPjw-SjiE7lt2Nt3RQgNUe10ixXZmuO2v9enOJReoQ/viewform).
 
@@ -120,6 +121,8 @@ Below, you will find a list of the potential events available in [Audit](https:/
 | Seller Creation | Seller creation. | Seller ID. |
 | SKU Seller Binding Activation | SKU binding activation. | SKU ID in seller and seller ID. |
 | SKU Seller Binding Inactivation | SKU binding inactivation. | SKU ID in seller and seller ID. |
+| GiftCard Create | Creation of a native gift card. | Gift card ID and action author ID. |
+| GiftCard List All Paged | Query for listing gift cards. | Action author ID and gift card IDs. |
 
 ## Prices
 
@@ -178,6 +181,7 @@ Below, you will find a list of the potential events available in [Audit](https:/
 | EXPORT_GIFT_CARD | Export of gift cards. | export-gift-card |
 | EDIT_GIFT_CARD | Change in gift card value. | add-gift-card-value |
 | CREATE_GIFT_CARD | Creation of gift cards. | create-multiple-gift-cards |
+| LIST_CARDS_FROM_API | Search for native gift cards. | list-gift-card-api |
 
 ## Checkout
 
@@ -295,3 +299,18 @@ In the **Action** column, all Headless CMS events also display the following inf
 | GetToken | Reading of a card token. | Card token ID, customer profile associated with the token, and action performed. |
 | UpdateToken | Update of a card token. | Card token ID, customer profile associated with the token, and action performed. |
 | DeleteToken | Deletion of a card token. | Card token ID, customer profile associated with the token, and action performed. |
+
+## Organizational units
+
+| Action | Event description | Event details |
+|---|---|---|
+| RemoveValueFromScope | Removal of values from a scope of an organizational unit. | Scope ID. |
+| DeleteOrganizationScope | Deletion of a scope of an organizational unit. | Scope ID and organizational unit ID. |
+| DeleteOrganizationScopes | Deletion of all scopes of an organizational unit. | Organizational unit ID. |
+| SaveOrganizationUnitScope | Creation of a scope for an organizational unit. | Created scope ID and organizational unit ID. |
+| UpdateOrganizationUnitScope | Update of a scope of an organizational unit. | Updated scope ID and organizational unit ID. |
+| DeleteOrganizationUnit | Deletion of an organizational unit. | Organizational unit ID. |
+| SaveOrganizationUnit | Creation of an organizational unit. | Organizational unit ID. |
+| UpdateOrganizationUnit | Update of the name of an organizational unit. | Organizational unit ID. |
+| MoveOrganizationUnit | Creation of a hierarchy between organizational units. | Parent organizational unit ID and child organizational unit ID. |
+

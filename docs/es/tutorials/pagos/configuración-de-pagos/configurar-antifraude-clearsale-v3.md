@@ -3,8 +3,8 @@ title: 'Configurar antifraude ClearSale v3'
 id: 2pPORygesIqQOa6cIG6agg
 status: PUBLISHED
 createdAt: 2017-10-30T14:10:20.822Z
-updatedAt: 2024-11-08T18:13:21.419Z
-publishedAt: 2024-11-08T18:13:21.419Z
+updatedAt: 2025-08-26T18:12:25.550Z
+publishedAt: 2025-08-26T18:12:25.550Z
 firstPublishedAt: 2017-10-30T14:26:53.089Z
 contentType: tutorial
 productTeam: Financial
@@ -25,9 +25,7 @@ Para configurar ClearSaleV3 siga los pasos a continuación:
 4. Si desea modificar el nombre de identificación que se mostrará para el proveedor ClearSaleV3 en la pantalla VTEX Admin, ingrese la información en el campo __Nombre__ en __Información general__.
 5. En __Control de pago__, seleccione si desea activar el proveedor en un entorno de prueba haciendo clic en __Activar modo de prueba__.
 6. Complete la siguiente información de acuerdo con su configuración de ClearSale:
-<br>
 <ul>
-<br>
   <li>**Login**: login.</li>
   <li>**Password**: contraseña.</li>
   <li>**SLA personalizado en minutos (opcional)**: período en el que ClearSale tendrá que procesar el análisis de fraude.</li>

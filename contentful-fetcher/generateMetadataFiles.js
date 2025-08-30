@@ -174,9 +174,6 @@ async function buildTroubleshootingMetadata(locales = ["en", "pt", "es"]) {
       order: 1, // raiz; se preferir, pode omitir ou deixar 0
     });
     await writeJSON(path.join(baseFolder, "metadata.json"), catMeta);
-    console.log(
-      `🧭 Escrito metadata da categoria Troubleshooting em ${locale}`
-    );
 
     // ordenar subcategorias por título no locale
     const sortedSubs = [...troubleSubcats].sort((a, b) => {
@@ -210,11 +207,8 @@ async function buildTroubleshootingMetadata(locales = ["en", "pt", "es"]) {
 
       const subFolder = path.join(baseFolder, subSlugLO);
       await writeJSON(path.join(subFolder, "metadata.json"), subMeta);
-      console.log(`🗂️  ${locale}/troubleshooting/${subSlugLO}/metadata.json`);
     }
   }
-
-  console.log("✅ metadata de Troubleshooting finalizado.");
 }
 
 // ---------- FAQ ----------
@@ -270,7 +264,6 @@ async function buildFaqMetadata(locales = ["en", "pt", "es"]) {
 }
 
 // ---------- ANNOUNCEMENTS ----------
-// scripts/buildAnnouncementsMetadata.js
 const MONTHS_EN = [
   "january",
   "february",
@@ -286,71 +279,63 @@ const MONTHS_EN = [
   "december",
 ];
 
-
 async function buildAnnouncementsMetadata(locales = ["en", "pt", "es"]) {
   const updates = await fetchEntries({ contentTypes: ["updates"] });
-  // agrupa por ano->mesIndex (1..12)
+
   const byYear = new Map();
+
   for (const e of updates) {
     const iso =
-      e.sys?.createdAt || e.sys?.publishedAt || e.sys?.firstPublishedAt;
+      e?.sys?.firstPublishedAt ??
+      e?.sys?.publishedAt ??
+      e?.sys?.createdAt;
     if (!iso) continue;
+
     const d = new Date(iso);
     const year = String(d.getUTCFullYear());
-    const mIdx = d.getUTCMonth() + 1; // 1..12
+    const month = d.getUTCMonth() + 1; // 1..12
+
     if (!byYear.has(year)) byYear.set(year, new Set());
-    byYear.get(year).add(mIdx);
+    byYear.get(year).add(month);
   }
 
   const years = [...byYear.keys()].sort((a, b) => Number(b) - Number(a));
 
+  const monthIdEN = (year, m) =>
+    new Intl.DateTimeFormat("en", { month: "long", timeZone: "UTC" })
+      .format(new Date(Date.UTC(Number(year), m - 1, 1)))
+      .toLowerCase();
+
+  const localizedMonthName = (year, m, locale) => {
+    const raw = new Intl.DateTimeFormat(locale, {
+      month: "long",
+      timeZone: "UTC",
+    }).format(new Date(Date.UTC(Number(year), m - 1, 1)));
+
+    return raw.charAt(0).toUpperCase() + raw.slice(1);
+  };
+
   for (const locale of locales) {
-    for (let yIdx = 0; yIdx < years.length; yIdx++) {
-      const year = years[yIdx];
+    years.forEach((year, yIdx) => {
       // metadata do ano
       writeJSON(
-        path.join(
-          __dirname,
-          "..",
-          "docs",
-          locale,
-          "announcements",
-          year,
-          "metadata.json"
-        ),
+        path.join(__dirname, "..", "docs", locale, "announcements", year, "metadata.json"),
         { id: year, name: year, slug: year, order: yIdx + 1 }
       );
 
-      // meses (ordenados 1..12)
+      const monthsDesc = [...(byYear.get(year) || [])].sort((a, b) => b - a);
 
-      const months = [...(byYear.get(year) || [])].sort((a, b) => b - a);
-      for (const m of months) {
-        // nome do mês no locale (usa seu util para manter compatibilidade com a pasta)
-        const monthDateISO = `${year}-${String(m).padStart(
-          2,
-          "0"
-        )}-01T00:00:00.000Z`;
-        const { monthName } = getYearAndMonthName(monthDateISO, locale);
-
-        // id EN sempre (para month): ex. "july"
-        const idEN = MONTHS_EN[m - 2];
-        const slugLO = normalizeFolderName(monthName);
+      monthsDesc.forEach((m, mIdx) => {
+        const nameLO = localizedMonthName(year, m, locale);
+        const idEN = `${year}-${monthIdEN(year, m)}`;
+        const slugLO = normalizeFolderName(nameLO);
 
         writeJSON(
-          path.join(
-            __dirname,
-            "..",
-            "docs",
-            locale,
-            "announcements",
-            year,
-            monthName,
-            "metadata.json"
-          ),
-          { id: idEN, name: monthName, slug: slugLO, order: m - 1 }
+          path.join(__dirname, "..", "docs", locale, "announcements", year, slugLO, "metadata.json"),
+          { id: idEN, name: nameLO, slug: `${year}-${normalizeFolderName(nameLO)}`, order: mIdx + 1 }
         );
-      }
-    }
+      });
+    });
   }
 }
 

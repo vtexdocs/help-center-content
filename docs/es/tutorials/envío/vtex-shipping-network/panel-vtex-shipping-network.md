@@ -1,5 +1,5 @@
 ---
-title: 'VTEX Shipping Network: Panel '
+title: 'VTEX Shipping Network: Panel'
 id: 51e8tx1IehiN4ZtURRWU92
 status: PUBLISHED
 createdAt: 2020-04-06T20:01:00.909Z

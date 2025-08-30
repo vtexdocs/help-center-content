@@ -3,12 +3,12 @@ title: 'Criar uma política comercial'
 id: 563tbcL0TYKEKeOY4IAgAE
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:49.369Z
-updatedAt: 2024-04-15T21:21:00.376Z
-publishedAt: 2024-04-15T21:21:00.376Z
+updatedAt: 2025-08-27T17:00:49.320Z
+publishedAt: 2025-08-27T17:00:49.320Z
 firstPublishedAt: 2019-01-24T22:14:00.848Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
-author: authors_84
+author: 2p7evLfTcDrhc5qtrzbLWD
 slugEN: creating-a-trade-policy
 legacySlug: o-que-e-uma-politica-comercial
 locale: pt
@@ -31,7 +31,7 @@ Para utilizar o mesmo catálogo em mais de uma política comercial, acesse a doc
 
 Para [contratar políticas comerciais adicionais](https://help.vtex.com/pt/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X), basta solicitar via [suporte VTEX](https://help.vtex.com/pt/support) selecionando a opção **Comercial** e o tipo de solicitação `Criação de Política Comercial`. Ao solicitar a criação de uma política comercial via ticket, considere um tempo de resposta de até três dias úteis.
 
-> ℹ️ Para que o uso de política comercial adicional para integrar com [conector nativo](https://help.vtex.com/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-a-conector-nativo-vtex), [conector certificado (parceiro)](https://help.vtex.com/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-a-conector-certificado-parceiro) ou outras lojas VTEX seja isenta de taxas, é encessário que pedidos sejam associados a ela.
+> ℹ️ Para cada política comercial adicional, é cobrado um valor mensal, seja ela utilizada para integração com marketplaces certificados, parceiros, externos ou VTEX.
 
 ## Saiba mais
 

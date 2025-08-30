@@ -1,5 +1,5 @@
 ---
-title: 'Configurando a importação em massa de dados sobre organizações e centros de custos '
+title: 'Configurando a importação em massa de dados sobre organizações e centros de custos'
 id: 41FwcZHF3GctzKcgyKGaoF
 status: PUBLISHED
 createdAt: 2024-04-25T11:45:15.945Z

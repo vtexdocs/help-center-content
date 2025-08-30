@@ -1,5 +1,5 @@
 ---
-title: 'Inventory Data Pipeline '
+title: 'Inventory Data Pipeline'
 id: 2IvKMZV9SNrE6ipBRQr8h2
 status: PUBLISHED
 createdAt: 2024-02-02T17:41:24.979Z

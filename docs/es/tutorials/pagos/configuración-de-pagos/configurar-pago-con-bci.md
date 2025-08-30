@@ -3,8 +3,8 @@ title: 'Configurar pago con BCI'
 id: 2NKGrIdRBiFev1446eWbzF
 status: PUBLISHED
 createdAt: 2024-12-10T20:34:33.999Z
-updatedAt: 2024-12-10T20:43:28.887Z
-publishedAt: 2024-12-10T20:43:28.887Z
+updatedAt: 2025-08-26T18:25:33.817Z
+publishedAt: 2025-08-26T18:25:33.817Z
 firstPublishedAt: 2024-12-10T20:43:28.887Z
 contentType: tutorial
 productTeam: Financial
@@ -28,9 +28,7 @@ Para configurar BCI, siga los pasos a continuación:
 5. Si desea modificar el nombre de identificación que se mostrará para el proveedor BCI en la pantalla VTEX Admin, ingrese la información en el campo **Nombre** en **Información general**.
 6. En **Control de pago**, seleccione si desea activar el proveedor en un entorno de prueba haciendo clic en **Activar modo de prueba**.
 7. En **Liquidación automática**, seleccione una de las siguientes opciones:
-<br>
 <ul>
-<br>
     	<li>**Utiliza comportamiento recomendado por el procesador de pagos**: a captura no es automática, sino programada de acuerdo con el plazo especificado por el adquirente que, además de indicar si el pago ha sido autorizado, puede especificar o recomendar un número de días para la captura en el momento de la respuesta a la autorización de pago (este es el comportamiento predeterminado de la plataforma).</li>
     	<li>**Liquidación automática inmediatamente después de la autorización del pago**: la captura es automática y se produce inmediatamente después de la autorización, incluso si la transacción tiene un análisis antifraude.</li>
     	<li>**Liquidación automática inmediatamente después del análisis antifraude**: la captura es automática y se realiza inmediatamente después de la autorización y el análisis antifraude (si seleccionas este comportamiento y no tienes análisis antifraude, la captura de pago se realizará de la misma manera que en el comportamiento "Liquidación automática inmediatamente después de la autorización del pago").</li>

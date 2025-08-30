@@ -1,5 +1,6 @@
 {
-  "name": "diciembre",
-  "slug": "diciembre",
-  "order": 0
+  "id": "2020-december",
+  "name": "Diciembre",
+  "slug": "2020-diciembre",
+  "order": 1
 }

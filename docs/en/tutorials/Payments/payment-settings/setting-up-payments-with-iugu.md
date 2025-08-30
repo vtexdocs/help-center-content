@@ -3,8 +3,8 @@ title: 'Setting up payments with iugu'
 id: 2c1nAo5iR6jG1UySzRB89t
 status: PUBLISHED
 createdAt: 2022-03-31T18:58:08.146Z
-updatedAt: 2024-03-13T11:53:59.094Z
-publishedAt: 2024-03-13T11:53:59.094Z
+updatedAt: 2025-08-15T14:01:20.485Z
+publishedAt: 2025-08-15T14:01:20.485Z
 firstPublishedAt: 2022-03-31T19:22:31.835Z
 contentType: tutorial
 productTeam: Financial
@@ -25,8 +25,10 @@ To add iugu to your store, follow the steps below:
 4. In the __App key__ and __App token__ fields, enter the information provided by iugu ([Account ID and API Key](https://dev.iugu.com/docs/configurando-conector-iugu-na-vtex#localizando-id-da-conta-e-chave-api-no-painel-da-iugu)).
 5. If you wish to modify the identification name to be displayed for the iugu provider on the VTEX Admin screen, enter the information in the __Name__ field in __Basic Information__.
 6. In __Payment Control__, select whether you want to activate the provider in a test environment by clicking __Enable test mode__.
-7. If you wish to use the bank slip as a payment method, in __Provider fields__, fill in the field __Prazo de vencimento do boleto (em dias)__ with the same value configured in your customer area on the iugu portal.
-8. Click `Save`.
+7. If you want to use [payment split](https://help.vtex.com/en/tutorial/split-payment--6k5JidhYRUxileNolY2VLx) in your store, select the option __Enable payout split and send payment recipients__ and indicate the __Accountable for payment processing charges__ and __Accountable for chargebacks__ (marketplace, sellers or marketplaces and sellers).
+8. If you wish to use the bank slip as a payment method, in __Provider fields__, fill in the field __Prazo de vencimento do boleto (em dias)__ with the same value configured in your customer area on the iugu portal.
+9. In __Tempo limite de validade do Pix (minutos)__, select the period available for the customer to make the payment through Pix.
+10. Click `Save`.
 
 ## Setting up payment conditions
 

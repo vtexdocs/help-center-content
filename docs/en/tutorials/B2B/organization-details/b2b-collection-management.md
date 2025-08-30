@@ -1,5 +1,5 @@
 ---
-title: 'B2B collection management '
+title: 'B2B collection management'
 id: 7aOduycwN3BeDqNo2kNDJk
 status: PUBLISHED
 createdAt: 2024-08-06T16:19:05.159Z

@@ -1,5 +1,5 @@
 ---
-title: 'Shopping Feed Integration '
+title: 'Shopping Feed Integration'
 id: 1DK5fzpuJTpAC8MzCgwgJ8
 status: PUBLISHED
 createdAt: 2024-11-05T14:04:46.232Z

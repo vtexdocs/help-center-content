@@ -1,5 +1,5 @@
 ---
-title: 'Promoções Data Pipeline '
+title: 'Promoções Data Pipeline'
 id: 3WZ1syNucDFdvVhfKtA6Qd
 status: PUBLISHED
 createdAt: 2024-02-02T18:02:01.395Z

@@ -3,8 +3,8 @@ title: 'Central de promociones Mercado Libre'
 id: 1LDJfpPipZ5t1RS6QowZtU
 status: PUBLISHED
 createdAt: 2024-10-17T16:50:33.863Z
-updatedAt: 2025-06-24T18:36:31.202Z
-publishedAt: 2025-06-24T18:36:31.202Z
+updatedAt: 2025-08-26T17:54:43.432Z
+publishedAt: 2025-08-26T17:54:43.432Z
 firstPublishedAt: 2024-10-17T20:42:14.714Z
 contentType: tutorial
 productTeam: Channels
