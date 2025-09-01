@@ -3,8 +3,8 @@ title: 'Master Data'
 id: 4otjBnR27u4WUIciQsmkAw
 status: PUBLISHED
 createdAt: 2018-04-02T19:01:38.026Z
-updatedAt: 2025-05-06T14:07:44.336Z
-publishedAt: 2025-05-06T14:07:44.336Z
+updatedAt: 2025-08-29T14:19:54.707Z
+publishedAt: 2025-08-29T14:19:54.707Z
 firstPublishedAt: 2018-04-02T20:54:18.272Z
 contentType: tutorial
 productTeam: Master Data
@@ -31,133 +31,18 @@ Atualmente existem duas versões disponíveis e você pode escolher aquela que m
 
 Confira a tabela abaixo para saber mais sobre as funcionalidades de cada versão versões se diferem.
 
-<div style="overflow: auto;">
-   <table class="w-100 center mv7 bb b--gray" style="border-spacing: 0px; border-collapse: collapse;">
-      <thead class="bb b--muted-3 tl">
-         <tr>
-            <th class="t-body fw5 pa5" style="min-width: 10rem;">**Funcionalidade**</th>
-            <th class="t-body fw5 pa5" style="min-width: 10rem;">**v1**</th>
-            <th class="t-body fw5 pa5" style="min-width: 10rem;">**v2**</th>
-            <th class="t-body fw5 pa5" style="min-width: 10rem;">**Saiba mais**</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr class="bb b--muted-3">
-            <td class="t-body pa5" style="min-width: 10rem;">Interface gráfica</td>
-            <td class="t-body pa5" style="min-width: 10rem;">Sim</td>
-            <td class="t-body pa5" style="min-width: 10rem;">Não</td>
-            <td class="t-body pa5" style="min-width: 10rem;">-</td>
-         </tr>
-         <tr class="bb b--muted-3">
-            <td class="t-body pa5" style="min-width: 10rem;">API</td>
-            <td class="t-body pa5" style="min-width: 10rem;">Sim</td>
-            <td class="t-body pa5" style="min-width: 10rem;">Sim</td>
-            <td class="t-body pa5" style="min-width: 10rem;">
-               <ul style="padding-inline-start: 0px;">
-                  <li>[Master Data API v1](https://developers.vtex.com/docs/api-reference/masterdata-api)</li>
-                  <li>[Master Data API v2](https://developers.vtex.com/docs/api-reference/master-data-api-v2#overview)</li>
-               </ul>
-            </td>
-         </tr>
-         <tr class="bb b--muted-3">
-            <td class="t-body pa5" style="min-width: 10rem;">Importação e exportação de planilhas</td>
-            <td class="t-body pa5" style="min-width: 10rem;">Sim</td>
-            <td class="t-body pa5" style="min-width: 10rem;">Não</td>
-            <td class="t-body pa5" style="min-width: 10rem;">
-               <ul style="padding-inline-start: 0px;">
-                  <li>[Importar dados para o Master Data v1](https://help.vtex.com/pt/tutorial/importando-dados-no-master-data--tutorials_1135)</li>
-                  <li>[Exportar dados do Master Data v1](https://help.vtex.com/pt/tutorial/exportando-dados--tutorials_1125)</li>
-               </ul>
-            </td>
-         </tr>
-         <tr class="bb b--muted-3">
-            <td class="t-body pa5" style="min-width: 10rem;">Anexos (imagens)</td>
-            <td class="t-body pa5" style="min-width: 10rem;">Sim</td>
-            <td class="t-body pa5" style="min-width: 10rem;">Não</td>
-            <td class="t-body pa5" style="min-width: 10rem;">-</td>
-         </tr>
-         <tr class="bb b--muted-3">
-            <td class="t-body pa5" style="min-width: 10rem;">Triggers</td>
-            <td class="t-body pa5" style="min-width: 10rem;">Sim</td>
-            <td class="t-body pa5" style="min-width: 10rem;">Sim</td>
-            <td class="t-body pa5" style="min-width: 10rem;">
-               <ul style="padding-inline-start: 0px;">
-                  <li>[Triggers](#triggers)</li>
-                  <li>[Criando triggers com Master Data v1](https://help.vtex.com/en/tutorial/creating-trigger-in-master-data--tutorials_1270#)</li>
-                  <li>[Criando triggers com Master Data v2](https://developers.vtex.com/docs/guides/setting-up-triggers-in-master-data-v2)</li>
-               </ul>
-            </td>
-         </tr>
-         <tr class="bb b--muted-3">
-            <td class="t-body pa5" style="min-width: 10rem;">JSON Schemas</td>
-            <td class="t-body pa5" style="min-width: 10rem;">Não</td>
-            <td class="t-body pa5" style="min-width: 10rem;">Sim</td>
-            <td class="t-body pa5" style="min-width: 10rem;">
-               <ul style="padding-inline-start: 0px;">
-                  <li>[JSON Schemas](http://json-schema.org/)</li>
-                  <li>[Entendendo JSON schemas](https://json-schema.org/understanding-json-schema)</li>
-                  <li><a href="https://developers.vtex.com/docs/guides/starting-to-work-on-master-data-with-json-schema"
-                        class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word"
-                        target="_blank" rel="noopener noreferrer">Começando a trabalhar com JSON schemas no Master Data
-                        v2</a></li>
-                  <li>[Ciclo de vida do schema no Master Data v2](https://developers.vtex.com/docs/guides/master-data-schema-lifecycle)</li>
-               </ul>
-            </td>
-         </tr>
-         <tr class="bb b--muted-3">
-            <td class="t-body pa5" style="min-width: 10rem;">Propriedades aninhadas</td>
-            <td class="t-body pa5" style="min-width: 10rem;">Não</td>
-            <td class="t-body pa5" style="min-width: 10rem;">Sim</td>
-            <td class="t-body pa5" style="min-width: 10rem;">
-               <ul style="padding-inline-start: 0px;">
-                  <li>[Propriedades aninhadas](#propriedades-aninhadas)</li>
-               </ul>
-            </td>
-         </tr>
-         <tr class="bb b--muted-3">
-            <td class="t-body pa5" style="min-width: 10rem;">Entidades de dados</td>
-            <td class="t-body pa5" style="min-width: 10rem;">Referenciadas por acrônimos compostos de duas letras
-               maiúsculas. Por exemplo, a entidade 'CL' armazena dados de clientes da loja e 'AD' de endereços. Não
-               podem ser criadas por API.</td>
-            <td class="t-body pa5" style="min-width: 10rem;">Referenciadas por seus nomes. Por exemplo, 'Notification'. Só podem ser criadas por API.</td>
-            <td class="t-body pa5" style="min-width: 10rem;">
-               <ul style="padding-inline-start: 0px;">
-                  <li>[Entidades de dados](#entidades-de-dados)</li>
-                  <li>[Entidades de dados no Master Data v1](https://help.vtex.com/pt/tutorial/criando-entidade-de-dados--tutorials_1265)</li>
-                  <li><a href="https://developers.vtex.com/docs/guides/creating-relationships-between-data-entities-using-api"
-                        class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word"
-                        target="_blank" rel="noopener noreferrer">Criando relações entre entidades de dados do Master
-                        Data v2</a></li>
-               </ul>
-            </td>
-         </tr>
-         <tr class="bb b--muted-3">
-            <td class="t-body pa5" style="min-width: 10rem;">Campos</td>
-            <td class="t-body pa5" style="min-width: 10rem;">Devem ser preenchidos no formato específico configurado na
-               entidade de dados.</td>
-            <td class="t-body pa5" style="min-width: 10rem;">A princípio, não há restrição de campos e formatos. A validação do formato acontece por meio de JSON schemas.</td>
-            <td class="t-body pa5" style="min-width: 10rem;">
-               <ul style="padding-inline-start: 0px;">
-                  <li>[Tipos de campos no Master Data v1](https://help.vtex.com/pt/tutorial/criando-entidade-de-dados--tutorials_1265#entendendo-os-tipos)</li>
-                  <li>[JSON schemas](#v2-schemas)</li>
-               </ul>
-            </td>
-         </tr>
-         <tr class="bb b--muted-3">
-            <td class="t-body pa5" style="min-width: 10rem;">Índices</td>
-            <td class="t-body pa5" style="min-width: 10rem;">Sim</td>
-            <td class="t-body pa5" style="min-width: 10rem;">Sim</td>
-            <td class="t-body pa5" style="min-width: 10rem;">
-               <ul style="padding-inline-start: 0px;">
-                  <li>[Configurar índices no Master Data v1](https://help.vtex.com/pt/tutorial/setting-up-an-index-on-master-data--tutorials_785)</li>
-                  <li>[Configurar índices com a API do Master Data v2](https://developers.vtex.com/docs/api-reference/master-data-api-v2#put-/api/dataentities/-dataEntityName-/indices)
-                  </li>
-               </ul>
-            </td>
-         </tr>
-      </tbody>
-   </table>
-</div>
+| **Funcionalidade**              | **v1**                                                                                                                                 | **v2**                                                                                                                                              | **Saiba mais**                                                                                                                                                                                                                                                                                                                                                                      |
+|---------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Interface gráfica                | Sim                                                                                                                                    | Não                                                                                                                                                | -                                                                                                                                                                                                                                                                                                                                                                                    |
+| API                              | Sim                                                                                                                                    | Sim                                                                                                                                                | - [Master Data API v1](https://developers.vtex.com/docs/api-reference/masterdata-api)<br>- [Master Data API v2](https://developers.vtex.com/docs/api-reference/master-data-api-v2#overview)                                                                                                                                                                                          |
+| Importação e exportação de planilhas | Sim                                                                                                                                    | Não                                                                                                                                                | - [Importar dados para o Master Data v1](https://help.vtex.com/pt/tutorial/importando-dados-no-master-data--tutorials_1135)<br>- [Exportar dados do Master Data v1](https://help.vtex.com/pt/tutorial/exportando-dados--tutorials_1125)                                                                                                                                               |
+| Anexos (imagens)                 | Sim                                                                                                                                    | Não                                                                                                                                                | -                                                                                                                                                                                                                                                                                                                                                                                    |
+| Triggers                         | Sim                                                                                                                                    | Sim                                                                                                                                                | - [Triggers](#triggers)<br>- [Criando triggers com Master Data v1](https://help.vtex.com/en/tutorial/creating-trigger-in-master-data--tutorials_1270#)<br>- [Criando triggers com Master Data v2](https://developers.vtex.com/docs/guides/setting-up-triggers-in-master-data-v2)                                                                                                      |
+| JSON Schemas                     | Não                                                                                                                                    | Sim                                                                                                                                                | - [JSON Schemas](http://json-schema.org/)<br>- [Entendendo JSON schemas](https://json-schema.org/understanding-json-schema)<br>- [Começando a trabalhar com JSON schemas no Master Data v2](https://developers.vtex.com/docs/guides/starting-to-work-on-master-data-with-json-schema)<br>- [Ciclo de vida do schema no Master Data v2](https://developers.vtex.com/docs/guides/master-data-schema-lifecycle) |
+| Propriedades aninhadas           | Não                                                                                                                                    | Sim                                                                                                                                                | - [Propriedades aninhadas](#propriedades-aninhadas)                                                                                                                                                                                                                                                                                                                                  |
+| Entidades de dados               | Referenciadas por acrônimos compostos de duas letras maiúsculas. Por exemplo, a entidade 'CL' armazena dados de clientes da loja e 'AD' de endereços. Não podem ser criadas por API. | Referenciadas por seus nomes. Por exemplo, 'Notification'. Só podem ser criadas por API.                                                           | - [Entidades de dados](#entidades-de-dados)<br>- [Entidades de dados no Master Data v1](https://help.vtex.com/pt/tutorial/criando-entidade-de-dados--tutorials_1265)<br>- [Criando relações entre entidades de dados do Master Data v2](https://developers.vtex.com/docs/guides/creating-relationships-between-data-entities-using-api)                                                  |
+| Campos                           | Devem ser preenchidos no formato específico configurado na entidade de dados.                                                          | A princípio, não há restrição de campos e formatos. A validação do formato acontece por meio de JSON schemas.                                      | - [Tipos de campos no Master Data v1](https://help.vtex.com/pt/tutorial/criando-entidade-de-dados--tutorials_1265#entendendo-os-tipos)<br>- [JSON schemas](#v2-schemas)                                                                                                                                                                                                               |
+| Índices                          | Sim                                                                                                                                    | Sim                                                                                                                                                | - [Configurar índices no Master Data v1](https://help.vtex.com/pt/tutorial/setting-up-an-index-on-master-data--tutorials_785)<br>- [Configurar índices com a API do Master Data v2](https://developers.vtex.com/docs/api-reference/master-data-api-v2#put-/api/dataentities/-dataEntityName-/indices)                                                                                  |
 
 > ❗ Note que as entidades de dados das duas versões são independentes, mesmo que algumas possam ser análogas. Isso significa que um dado criado em uma entidade da v1 não pode ser consultado nem editado usando recursos da v2 e vice versa.
 

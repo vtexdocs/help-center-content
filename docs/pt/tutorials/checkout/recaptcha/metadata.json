@@ -1,0 +1,6 @@
+{
+  "id": "recaptcha",
+  "name": "reCAPTCHA",
+  "slug": "recaptcha",
+  "order": 2
+}

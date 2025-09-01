@@ -3,8 +3,8 @@ title: 'Integrating with Zoom'
 id: 2OoQjigCVOIEWWkgOqwCK6
 status: PUBLISHED
 createdAt: 2017-05-19T17:47:11.266Z
-updatedAt: 2023-03-29T15:43:30.463Z
-publishedAt: 2023-03-29T15:43:30.463Z
+updatedAt: 2025-08-26T17:51:12.618Z
+publishedAt: 2025-08-26T17:51:12.618Z
 firstPublishedAt: 2017-05-19T18:04:32.420Z
 contentType: tutorial
 productTeam: Channels

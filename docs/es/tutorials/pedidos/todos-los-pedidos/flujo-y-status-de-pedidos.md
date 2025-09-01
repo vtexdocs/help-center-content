@@ -3,8 +3,8 @@ title: 'Flujo y status de pedidos'
 id: tutorials_196
 status: PUBLISHED
 createdAt: 2017-04-27T22:14:33.518Z
-updatedAt: 2025-08-14T19:15:35.892Z
-publishedAt: 2025-08-14T19:15:35.892Z
+updatedAt: 2025-08-15T14:14:28.169Z
+publishedAt: 2025-08-15T14:14:28.169Z
 firstPublishedAt: 2017-04-27T23:02:47.616Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -170,18 +170,21 @@ A continuación se muestra la tabla con los status de los pedidos. La informaci�
   <tr>
     <td class="tg-zr06"><span style="font-weight:400">-</span></td>
     <td class="tg-zr06"><span style="font-weight:400">null</span></td>
+    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
     <td class="tg-zr06"><span style="font-weight:400">Marketplace, seller, flujo completo y cadena</span></td>
     <td class="tg-zr06"><span style="font-weight:400">Pedidos creados e incompletos. El flujo puede ser iniciado por el sistema o el status del pedido aparece como</span> <span style="font-weight:400;color:#3F3F40;background-color:#E3E4E6">CancellationData</span><span style="font-weight:400">, lo que indica que se ha producido una falla al intentar completarlo.</span></td>
   </tr>
   <tr>
     <td class="tg-zr06"><span style="font-weight:400">-</span></td>
     <td class="tg-zr06"><span style="font-weight:400">order-created*</span></td>
+    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
     <td class="tg-zr06"><span style="font-weight:400">Marketplace, flujo completo y cadena</span></td>
     <td class="tg-zr06"><span style="font-weight:400">Pedido creado. Se inicia el procesamiento de los datos del pedido. Este es el primer status de un pedido y significa que el sistema ha reunido la información básica para procesarlo.</span></td>
   </tr>
   <tr>
     <td class="tg-zr06"><span style="font-weight:400">Pedido aceptado</span></td>
     <td class="tg-zr06"><span style="font-weight:400">order-accepted</span></td>
+    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
     <td class="tg-zr06"><span style="font-weight:400">Seller</span></td>
     <td class="tg-zr06"><span style="font-weight:400">El</span> <span style="font-style:italic">seller</span> <span style="font-weight:400">recibe el pedido.</span></td>
   </tr>
@@ -189,167 +192,181 @@ A continuación se muestra la tabla con los status de los pedidos. La informaci�
     <td class="tg-zr06"><span style="font-weight:400">Cancelando</span></td>
     <td class="tg-zr06"><span style="font-weight:400">canceling*</span></td>
      <td class="tg-zr06"><span style="font-weight:400">-</span></td>
-    <td class="tg-1547"><span style="font-style:italic">Marketplace</span><span style="font-weight:400">,</span> <span style="font-style:italic">seller</span><span style="font-weight:400">, flujo completo y cadena</span></td>
+    <td class="tg-1547"><span style="font-weight:400">Marketplace, seller, flujo completo y cadena</span></td>
     <td class="tg-zr06"><span style="font-weight:400">Punto en que el pedido pasa a ser cancelado. En esta etapa, se notifica la cancelación al módulo</span> [<span style="font-weight:400;color:#F71963;background-color:transparent">Pagos</span>](https://help.vtex.com/es/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG)<span style="font-weight:400">. El pedido permanecerá en este status hasta que el módulo Pagos complete el proceso de cancelación.</span></td>
   </tr>
   <tr>
     <td class="tg-zr06"><span style="font-weight:400">-</span></td>
     <td class="tg-zr06"><span style="font-weight:400">on-order-completed</span></td>
-    <td class="tg-1547"><span style="font-style:italic">Marketplace</span><span style="font-weight:400">, flujo completo y cadena</span></td>
+    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
+    <td class="tg-1547"><span style="font-weight:400">Marketplace, flujo completo y cadena</span></td>
     <td class="tg-zr06"><span style="font-weight:400">La compra ha sido procesada en el</span> <span style="font-style:italic">checkout</span><span style="font-weight:400">. Los datos del pedido están completos.</span></td>
   </tr>
   <tr>
     <td class="tg-zr06"><span style="font-weight:400">-</span></td>
     <td class="tg-zr06"><span style="font-weight:400">on-order-completed-ffm</span></td>
-    <td class="tg-1547"><span style="font-style:italic">Seller</span></td>
+    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
+    <td class="tg-1547"><span style="font-weight:400">Seller</span></td>
     <td class="tg-zr06"><span style="font-weight:400">La compra ha sido procesada en el</span> <span style="font-style:italic">checkout</span><span style="font-weight:400">. Los datos del pedido están completos.</span></td>
   </tr>
   <tr>
     <td class="tg-zr06"><span style="font-weight:400">Pago rechazado</span></td>
     <td class="tg-zr06"><span style="font-weight:400">-</span></td>
     <td class="tg-zr06"><span style="font-weight:400">Cancelado</span></td>
-    <td class="tg-1547"><span style="font-style:italic">Marketplace</span><span style="font-weight:400">, flujo completo y cadena</span></td>
+    <td class="tg-1547"><span style="font-weight:400">Marketplace, flujo completo y cadena</span></td>
     <td class="tg-zr06"><span style="font-weight:400">El pago del pedido fue denegado.</span></td>
   </tr>
   <tr>
     <td class="tg-zr06"><span style="font-weight:400">Pago aprobado</span></td>
     <td class="tg-zr06"><span style="font-weight:400">payment-approved</span></td>
      <td class="tg-zr06"><span style="font-weight:400">Pago aprobado</span></td>
-    <td class="tg-1547"><span style="font-style:italic">Marketplace</span><span style="font-weight:400">, flujo completo y cadena</span></td>
+    <td class="tg-1547"><span style="font-weight:400">Marketplace, flujo completo y cadena</span></td>
     <td class="tg-zr06"><span style="font-weight:400">El pago del pedido ha sido aprobado.</span></td>
   </tr>
   <tr>
     <td class="tg-zr06"><span style="font-weight:400">Pago pendiente</span></td>
     <td class="tg-zr06"><span style="font-weight:400">payment-pending</span></td>
     <td class="tg-zr06"><span style="font-weight:400">Aprobando pago</span></td>
-    <td class="tg-1547"><span style="font-style:italic">Marketplace</span><span style="font-weight:400">, flujo completo y cadena</span></td>
+    <td class="tg-1547"><span style="font-weight:400">Marketplace, flujo completo y cadena</span></td>
     <td class="tg-zr06"><span style="font-weight:400">Status de espera para la confirmación del pago en el módulo</span> [<span style="font-weight:400;color:#F71963;background-color:transparent">Pagos</span>](https://help.vtex.com/es/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG)<span style="font-weight:400">. Independientemente de si el pago ha sido confirmado, este paso es obligatorio.</span></td>
   </tr>
   <tr>
     <td class="tg-zr06"><span style="font-weight:400">Cancelación solicitada</span></td>
     <td class="tg-zr06"><span style="font-weight:400">request-cancel</span></td>
-    <td class="tg-1547"><span style="font-style:italic">Marketplace</span> <span style="font-weight:400">y flujo completo</span></td>
+    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
+    <td class="tg-1547"><span style="font-weight:400">Marketplace y flujo completo</span></td>
     <td class="tg-9p9e">[<span style="font-weight:400;color:#F71963;background-color:transparent">El cliente solicita la cancelación del pedido</span>](https://help.vtex.com/es/tutorial/cancelamento-de-pedido-por-parte-do-cliente--3wEI6DUNtecooG2Ki4Akqo)<span style="font-weight:400">.</span></td>
   </tr>
   <tr>
     <td class="tg-zr06"><span style="font-weight:400">Cancelado</span></td>
     <td class="tg-zr06"><span style="font-weight:400">canceled</span></td>
     <td class="tg-zr06"><span style="font-weight:400">Cancelado</span></td>
-    <td class="tg-1547"><span style="font-style:italic">Marketplace</span><span style="font-weight:400">,</span> <span style="font-style:italic">seller</span> <span style="font-weight:400">y flujo completo</span></td>
+    <td class="tg-1547"><span style="font-weight:400">Marketplace, seller y flujo completo</span></td>
     <td class="tg-zr06"><span style="font-weight:400">El pedido se finaliza sin éxito. La transacción de pago en el módulo</span> [<span style="font-weight:400;color:#F71963;background-color:transparent">Pagos</span>](https://help.vtex.com/es/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG) <span style="font-weight:400">se cancela en el momento.</span></td>
   </tr>
   <tr>
     <td class="tg-zr06"><span style="font-weight:400">Ventana para cambiar el pago</span></td>
     <td class="tg-zr06"><span style="font-weight:400">window-to-change-payment</span></td>
-    <td class="tg-1547"><span style="font-style:italic">Marketplace</span></td>
+    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
+    <td class="tg-1547"><span style="font-weight:400">Marketplace</span></td>
     <td class="tg-zr06"><span style="font-weight:400">Plazo para realizar cambios de pago.</span></td>
   </tr>
   <tr>
     <td class="tg-zr06"><span style="font-weight:400">Ventana para cambiar el seller</span></td>
     <td class="tg-zr06"><span style="font-weight:400">window-to-change-seller</span></td>
-    <td class="tg-1547"><span style="font-style:italic">Marketplace</span></td>
+    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
+    <td class="tg-1547"><span style="font-weight:400">Marketplace</span></td>
     <td class="tg-zr06"><span style="font-weight:400">Plazo para realizar un</span> [<span style="font-weight:400;color:#F71963;background-color:transparent">cambio de seller</span>](https://help.vtex.com/es/tutorial/veja-como-utilizar-o-change-seller--5TBAwO2kOAMw44uyaaQMQO)<span style="font-weight:400">.</span></td>
   </tr>
   <tr>
     <td class="tg-zr06"><span style="font-weight:400">Esperando confirmación del seller</span></td>
     <td class="tg-zr06"><span style="font-weight:400">waiting-for-authorization</span></td>
     <td class="tg-zr06"><span style="font-weight:400">Pedido confirmado</span></td>
-    <td class="tg-1547"><span style="font-style:italic">Marketplace</span><span style="font-weight:400">, flujo completo y cadena</span></td>
+    <td class="tg-1547"><span style="font-weight:400">Marketplace, flujo completo y cadena</span></td>
     <td class="tg-zr06"><span style="font-weight:400">En espera de la liberación del seller para continuar con el flujo del pedido.</span></td>
   </tr>
    <tr>
     <td class="tg-zr06"><span style="font-weight:400">-</span></td>
     <td class="tg-zr06"><span style="font-weight:400">waiting-for-fulfillment</span></td>
+     <td class="tg-zr06"><span style="font-weight:400">-</span></td>
     <td class="tg-zr06"><span style="font-weight:400">Seller</span></td>
     <td class="tg-zr06"><span style="font-weight:400">En espera por el fulfillment del pedido. Status exclusivo para tiendas que utilizan un Warehouse Management System (WMS).</span></td>
   </tr>
   <tr>
     <td class="tg-zr06"><span style="font-weight:400">-</span></td>
     <td class="tg-zr06"><span style="font-weight:400">waiting-ffmt-authorization</span></td>
-    <td class="tg-1547"><span style="font-style:italic">Seller</span></td>
+    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
+    <td class="tg-1547"><span style="font-weight:400">Seller</span></td>
     <td class="tg-zr06"><span style="font-weight:400">En espera de la autorización del</span> <span style="font-style:italic">marketplace</span><span style="font-weight:400">.</span></td>
   </tr>
   <tr>
     <td class="tg-zr06"><span style="font-weight:400">Esperando autorización para fufillment</span></td>
     <td class="tg-zr06"><span style="font-weight:400">waiting-for-manual-authorization</span></td>
-    <td class="tg-1547"><span style="font-style:italic">Seller</span></td>
+    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
+    <td class="tg-1547"><span style="font-weight:400">Seller</span></td>
     <td class="tg-zr06"><span style="font-weight:400">Es un status de espera en el que el seller espera a que el</span> <span style="font-style:italic">marketplace</span> <span style="font-weight:400">autorice continuar con los procesos del pedido.</span></td>
   </tr>
   <tr>
     <td class="tg-zr06"><span style="font-weight:400">Autorizar fulfillment</span></td>
     <td class="tg-zr06"><span style="font-weight:400">authorize-fulfillment</span></td>
-    <td class="tg-1547"><span style="font-style:italic">Seller</span><span style="font-weight:400">, flujo completo</span></td>
+    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
+    <td class="tg-1547"><span style="font-weight:400">Seller, flujo completo</span></td>
     <td class="tg-zr06"><span style="font-weight:400">Proceso interno de liberación a preparación. Aquí se realiza la</span> [<span style="font-weight:400;color:#F71963;background-color:transparent">confirmación de la reserva</span>](https://help.vtex.com/es/tutorial/como-a-reserva-funciona--tutorials_92#reserva-confirmada)<span style="font-weight:400">. Cuando el marketplace no autoriza al seller el fulfillment del pedido dentro de 30 días, la plataforma cancela el pedido automáticamente.</span></td>
   </tr>
   <tr>
     <td class="tg-zr06"><span style="font-weight:400">Periodo de cancelación</span></td>
     <td class="tg-zr06"><span style="font-weight:400">window-to-cancel</span></td>
     <td class="tg-zr06"><span style="font-weight:400">Preparando pedido</span></td>
-    <td class="tg-1547"><span style="font-style:italic">Seller</span> <span style="font-weight:400">y flujo completo</span></td>
+    <td class="tg-1547"><span style="font-weight:400">Seller y flujo completo</span></td>
     <td class="tg-zr06"><span style="font-weight:400">Status de plazo de cancelación del cliente. Después de la aprobación del pago, el cliente tiene 30 minutos (estándar en la</span> [<span style="font-weight:400;color:#F71963;background-color:transparent">Configuración</span>](https://help.vtex.com/es/tutorial/configuracoes-gerais/) <span style="font-weight:400">del módulo</span> <span style="font-weight:700">Gestión de pedidos</span><span style="font-weight:400">) para cancelar. En este periodo, el reembolso del pedido se realiza automáticamente.</span></td>
   </tr>
   <tr>
     <td class="tg-zr06"><span style="font-weight:400">-</span></td>
     <td class="tg-zr06"><span style="font-weight:400">ready-for-invoicing</span></td>
-    <td class="tg-1547"><span style="font-style:italic">Marketplace</span><span style="font-weight:400"> y flujo completo</span></td>
+    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
+    <td class="tg-1547"><span style="font-weight:400">Marketplace y flujo completo</span></td>
     <td class="tg-zr06"><span style="font-weight:400">El pedido está listo para ser facturado en las tiendas que tienen picking y packinge en el proceso de fulfillment.</span></td>
   </tr>
   <tr>
     <td class="tg-zr06"><span style="font-weight:400">Verificando factura</span></td>
     <td class="tg-zr06"><span style="font-weight:400">invoice*</span></td>
     <td class="tg-zr06"><span style="font-weight:400">Preparando pedido</span></td>
-    <td class="tg-1547"><span style="font-style:italic">Marketplace</span><span style="font-weight:400">, cadena y flujo completo</span></td>
+    <td class="tg-1547"><span style="font-weight:400">Marketplace, cadena y flujo completo</span></td>
     <td class="tg-zr06"><span style="font-weight:400">La plataforma está verificando la factura incluida. Si el flujo se queda en este status, puede haber problemas en la liquidación del pago o inclusión de la factura. Obtén más información en</span> [<span style="font-weight:400;color:#F71963;background-color:transparent">¿Por qué el status del pedido es «Verificando factura»?</span>](https://help.vtex.com/es/tutorial/por-que-o-pedido-esta-no-status-verificando-fatura--5VJjxRjeH6SimiG0Wkk2gm)<span style="font-weight:400">.</span></td>
   </tr>
   <tr>
     <td class="tg-zr06"><span style="font-weight:400">Facturado</span></td>
     <td class="tg-zr06"><span style="font-weight:400">invoiced</span></td>
     <td class="tg-zr06"><span style="font-weight:400">Entregando pedido a la transportadora</span></td>
-    <td class="tg-1547"><span style="font-style:italic">Marketplace</span><span style="font-weight:400">,</span> <span style="font-style:italic">seller</span> <span style="font-weight:400">y flujo completo</span></td>
+    <td class="tg-1547"><span style="font-weight:400">Marketplace, seller y flujo completo</span></td>
     <td class="tg-zr06"><span style="font-weight:400">El flujo se completó con éxito y el pedido se entregó a la transportadora. Si la transacción se realizó con tarjeta de crédito, la liquidación del valor se realiza en este momento.</span></td>
   </tr>
   <tr>
     <td class="tg-zr06"><span style="font-weight:400">Facturado</span></td>
     <td class="tg-zr06"><span style="font-weight:400">invoiced (después de usar el endpoint [Update order tracking](https://developers.vtex.com/docs/api-reference/orders-api#put-/api/oms/pvt/orders/-orderId-/invoice/-invoiceNumber-/tracking))</span></td>
     <td class="tg-zr06"><span style="font-weight:400">Enviando pedido</span></td>
-    <td class="tg-1547"><span style="font-style:italic">Marketplace</span><span style="font-weight:400">,</span> <span style="font-style:italic">seller</span> <span style="font-weight:400">y flujo completo</span></td>
+    <td class="tg-1547"><span style="font-weight:400">Marketplace, seller y flujo completo</span></td>
     <td class="tg-zr06"><span style="font-weight:400">El flujo se completó con éxito y el pedido se encuentra en proceso de envío. Si la transacción se realizó con tarjeta de crédito, la liquidación del valor se realiza en este momento.</span></td>
   </tr>
   <tr>
     <td class="tg-zr06"><span style="font-weight:400">Facturado</span></td>
     <td class="tg-zr06"><span style="font-weight:400">invoiced (después de enviar `true` en el  campo `isDelivered` del endpoint [Update order tracking](https://developers.vtex.com/docs/api-reference/orders-api#put-/api/oms/pvt/orders/-orderId-/invoice/-invoiceNumber-/tracking))</span></td>
     <td class="tg-zr06"><span style="font-weight:400">Pedido enviado</span></td>
-    <td class="tg-1547"><span style="font-style:italic">Marketplace</span><span style="font-weight:400">,</span> <span style="font-style:italic">seller</span> <span style="font-weight:400">y flujo completo</span></td>
+    <td class="tg-1547"><span style="font-weight:400">Marketplace, seller y flujo completo</span></td>
     <td class="tg-zr06"><span style="font-weight:400">El flujo se completó con éxito y el pedido se encuentra en proceso de envío. Si la transacción se realizó con tarjeta de crédito, la liquidación del valor se realiza en este momento.</span></td>
   </tr>
   <tr>
     <td class="tg-zr06"><span style="font-weight:400">Listo para preparación</span></td>
     <td class="tg-zr06"><span style="font-weight:400">ready-for-handling</span></td>
     <td class="tg-zr06"><span style="font-weight:400">Preparando pedido</span></td>
-    <td class="tg-1547"><span style="font-style:italic">Seller</span></td>
+    <td class="tg-1547"><span style="font-weight:400">Seller</span></td>
     <td class="tg-zr06"><span style="font-weight:400">Status que indica que hay que iniciar la preparación del envío, preparar la factura y hacer el seguimiento del pedido. En este status se realiza la confirmación de la</span> [<span style="font-weight:400;color:#F71963;background-color:transparent">reserva</span>](https://help.vtex.com/es/tutorial/como-a-reserva-funciona--tutorials_92) <span style="font-weight:400">del ítem. En general, esta acción se realiza mediante una</span> [<span style="font-weight:400;color:#F71963;background-color:transparent">integración de ERP</span>](https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide#send-order-cancelations)<span style="font-weight:400">, pero se puede completar manualmente a través de «Gestión de pedidos». El pedido solo continuará el flujo después de la confirmación.</span></td>
   </tr>
   <tr>
     <td class="tg-zr06"><span style="font-weight:400">Iniciar preparación</span></td>
     <td class="tg-zr06"><span style="font-weight:400">start-handling*</span></td>
-    <td class="tg-1547"><span style="font-style:italic">Seller</span><span style="font-weight:400">, flujo completo</span></td>
+    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
+    <td class="tg-1547"><span style="font-weight:400">Seller y flujo completo</span></td>
     <td class="tg-zr06"><span style="font-weight:400">Status de autorización para que el flujo de preparación continúe. Se utiliza cuando la autorización se hace manualmente. Si hay integración con el ERP, este status espera la confirmación del ERP para que el flujo del pedido continúe.</span></td>
   </tr>
   <tr>
     <td class="tg-zr06"><span style="font-weight:400">Cancelación solicitada</span></td>
     <td class="tg-zr06"><span style="font-weight:400">cancellation-requested</span></td>
-    <td class="tg-1547"><span style="font-style:italic">Seller</span></td>
+    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
+    <td class="tg-1547"><span style="font-weight:400">Seller</span></td>
     <td class="tg-zr06"><span style="font-weight:400">Cancelación solicitada</span></td>
   </tr>
   <tr>
     <td class="tg-zr06"><span style="font-weight:400">-</span></td>
     <td class="tg-zr06"><span style="font-weight:400">waiting-for-mkt-authorization</span></td>
+    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
     <td class="tg-zr06"><span style="font-weight:400">Cadena</span></td>
     <td class="tg-zr06"><span style="font-weight:400">Se espera la autorización del</span> <span style="font-style:italic">marketplace</span> <span style="font-weight:400">para enviar la autorización al seller.</span></td>
   </tr>
   <tr>
     <td class="tg-zr06"><span style="font-weight:400">-</span></td>
     <td class="tg-zr06"><span style="font-weight:400">waiting-seller-handling</span></td>
+    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
     <td class="tg-zr06"><span style="font-weight:400">Marketplace</span></td>
     <td class="tg-zr06"><span style="font-weight:400">Marketplace de la cuenta principal esperando que inicie el proceso de manejo, cuando se trata de un pedido de Multilevel Omnichannel Inventory. Para el seller white label, aparece el status authorize-fulfillment.</td>
   </tr>
@@ -357,25 +374,28 @@ A continuación se muestra la tabla con los status de los pedidos. La informaci�
     <td class="tg-zr06"><span style="font-weight:400">Preparando envío</span></td>
     <td class="tg-zr06"><span style="font-weight:400">handling</span></td>
     <td class="tg-zr06"><span style="font-weight:400">Preparando pedido</span></td>
-    <td class="tg-1547"><span style="font-style:italic">Seller</span><span style="font-weight:400">, flujo completo</span></td>
+    <td class="tg-1547"><span style="font-weight:400">Seller y flujo completo</span></td>
     <td class="tg-zr06"><span style="font-weight:400">Status en que se</span> [<span style="font-weight:400;color:#F71963;background-color:transparent">reservan</span>](https://help.vtex.com/es/tutorial/como-a-reserva-funciona--tutorials_92) <span style="font-weight:400">los ítems del pedido. El pedido permanece en preparación en espera de notificaciones de factura, generalmente procedentes del ERP.</span></td>
   </tr>
   <tr>
     <td class="tg-zr06"><span style="font-weight:400">Aprobar pago</span></td>
     <td class="tg-zr06"><span style="font-weight:400">-</span></td>
-    <td class="tg-1547"><span style="font-style:italic">Marketplace</span> <span style="font-weight:400">y flujo completo</span></td>
+    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
+    <td class="tg-1547"><span style="font-weight:400">Marketplace y flujo completo</span></td>
     <td class="tg-zr06"><span style="font-weight:400">Acción del sistema. El flujo no se detiene en este status a menos que haya un error.</span></td>
   </tr>
   <tr>
     <td class="tg-zr06"><span style="font-weight:400">Esperando decisión del</span> <span style="font-style:italic">seller</span></td>
     <td class="tg-zr06"><span style="font-weight:400">-</span></td>
-    <td class="tg-1547"><span style="font-style:italic">Marketplace</span> <span style="font-weight:400">y flujo completo</span></td>
+    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
+    <td class="tg-1547"><span style="font-weight:400">Marketplace y flujo completo</span></td>
     <td class="tg-zr06"><span style="font-weight:400">El pedido está en espera de la confirmación de cancelación.</span></td>
   </tr>
   <tr>
     <td class="tg-zr06"><span style="font-weight:400">Solicitar cancelación</span></td>
     <td class="tg-zr06"><span style="font-weight:400">-</span></td>
-    <td class="tg-1547"><span style="font-style:italic">Marketplace</span> <span style="font-weight:400">y flujo completo</span></td>
+    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
+    <td class="tg-1547"><span style="font-weight:400">Marketplace y flujo completo</span></td>
     <td class="tg-zr06"><span style="font-weight:400">Status que inicia el flujo de cancelación. Hay dos tipos de cancelación: por la</span> [<span style="font-weight:400;color:#F71963;background-color:transparent">tienda</span>](https://help.vtex.com/es/tutorial/como-cancelar-pedido--tutorials_186) <span style="font-weight:400">y por el</span> [<span style="font-weight:400;color:#F71963;background-color:transparent">cliente</span>](https://help.vtex.com/es/tutorial/cancelamento-de-pedido-por-parte-do-cliente--3wEI6DUNtecooG2Ki4Akqo)<span style="font-weight:400">.</span></td>
   </tr>
 </tbody>

@@ -3,8 +3,8 @@ title: 'Habilitar login por autenticação de dois fatores'
 id: 4Ae1fcQi12g8u4SkQKCqWQ
 status: PUBLISHED
 createdAt: 2017-11-09T00:46:29.023Z
-updatedAt: 2024-11-14T18:38:58.853Z
-publishedAt: 2024-11-14T18:38:58.853Z
+updatedAt: 2025-08-26T16:31:38.221Z
+publishedAt: 2025-08-26T16:31:38.221Z
 firstPublishedAt: 2017-11-09T13:09:54.237Z
 contentType: tutorial
 productTeam: Identity
@@ -21,7 +21,7 @@ Isto porque, no momento do login, além de exigir o e-mail e a senha, o sistema 
 
 Como essa chave é gerada no momento do login e tem prazo de validade curto, torna-se quase impossível que alguém entre em sua loja usando seus dados sem autorização. Sem o 2FA, basta que alguém saiba seu e-mail e sua senha para ter amplo acesso à conta da sua loja.
 
-> ❗ A autenticação de dois fatores (2FA) é **obrigatória** no Admin da VTEX<br><br>Sem 2FA, não é possível fazer login usando email e senha.<br><br>O 2FA não é obrigatório para outros métodos de login (Google, Facebook ou código de acesso).
+> ❗ A autenticação de dois fatores (2FA) é **obrigatória** no Admin da VTEX.<br><br>Sem 2FA, não é possível fazer login usando email e senha.<br><br>O 2FA não é obrigatório para outros métodos de login (Google, Facebook ou código de acesso).
 
 > ℹ️ Em algumas empresas, operadores de televendas não podem usar telefone celular. Por isso, usuários que tiverem apenas o [perfil de acesso de televendas](https://help.vtex.com/pt/tutorial/perfis-de-acesso-predefinidos--jGDurZKJHvHJS13LnO7Dy#call-center-operator) não são obrigados a habilitar autenticação de dois fatores.
 
@@ -49,7 +49,7 @@ Para usar uma chave gerada por aplicativo de autenticação, siga os passos abai
 3. Insira o código exibido no aplicativo para concluir seu login. O código do app é atualizado periodicamente. Consulte-o sempre que necessário.
   ![2FA - App Insert Code - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/autentica%C3%A7%C3%A3o/autentica%C3%A7%C3%A3o-de-dois-fatores/habilitar-login-por-autenticacao-de-2-fatores_4.png)
 
-> ℹ️ Se você fizer login usando email e senha no mesmo computador, a chave de acesso será solicitada **a cada 3 dias**. Quando isso acontecer, consulte o código no aplicativo.
+> ℹ️ Se você fizer login usando email e senha no mesmo navegador, a chave de acesso será solicitada **a cada 10 dias**. Quando isso acontecer, consulte o código no aplicativo.
 
 ### Habilitar o 2FA por SMS
 

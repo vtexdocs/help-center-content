@@ -3,8 +3,8 @@ title: 'Configurar pagamento com Culqi'
 id: 6LUOpYBpg48XSL8X0Le6e3
 status: PUBLISHED
 createdAt: 2023-11-16T13:31:38.132Z
-updatedAt: 2024-01-25T19:01:02.616Z
-publishedAt: 2024-01-25T19:01:02.616Z
+updatedAt: 2025-08-26T18:27:28.927Z
+publishedAt: 2025-08-26T18:27:28.927Z
 firstPublishedAt: 2023-11-16T14:54:41.647Z
 contentType: tutorial
 productTeam: Financial
@@ -24,9 +24,7 @@ Para configurar Culqi, siga os passos abaixo:
 3. Digite o nome __Culqi__ na barra de busca e clique sobre o nome do provedor.
 4. Nos campos __Application Key__, __Application Token__ e __Public Key__, insira as informações que foram fornecidas pela Culqi.
 5. No campo __Captura automática de pagamento__, selecione uma das seguintes opções:
-<br>
 <ul>
-<br>
     	<li>**Use o comportamento recomendado pelo processador de pagamentos**: a captura não é automática, mas agendada de acordo com o prazo especificado pela adquirente que, além de indicar se o pagamento foi autorizado, pode especificar ou recomendar um número de dias para a captura no momento da resposta à autorização do pagamento (este é o comportamento padrão da plataforma).</li>
     	<li>**Imediatamente: captura automática ao autorizar o pagamento**: a captura é automática e acontece logo após a autorização, mesmo que a transação possua uma análise antifraude.</li>
    		<li>**Imediatamente: captura automática ao passar a análise de risco de fraude**: a captura é automática e acontece logo após a autorização e análise antifraude (Caso você selecione este comportamento e não possua análise antifraude, a captura do pagamento acontecerá da mesma forma que no comportamento "Imediatamente: Captura Automática Ao Autorizar O Pagamento").</li>

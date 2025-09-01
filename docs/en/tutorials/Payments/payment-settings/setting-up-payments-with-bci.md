@@ -3,8 +3,8 @@ title: 'Setting up payments with BCI'
 id: 2NKGrIdRBiFev1446eWbzF
 status: PUBLISHED
 createdAt: 2024-12-10T20:34:33.999Z
-updatedAt: 2024-12-10T20:43:28.887Z
-publishedAt: 2024-12-10T20:43:28.887Z
+updatedAt: 2025-08-26T18:25:33.817Z
+publishedAt: 2025-08-26T18:25:33.817Z
 firstPublishedAt: 2024-12-10T20:43:28.887Z
 contentType: tutorial
 productTeam: Financial
@@ -28,9 +28,7 @@ To configure BCI, follow the steps below:
 5. If you wish to modify the identification name to be displayed for the BCI provider on the VTEX Admin screen, enter the information in the **Name** field in **Basic Information**.
 6. In **Payment Control**, select whether you want to activate the provider in a test environment by clicking **Enable test mode**.
 7. In the **Automatic settlement** field, select one of the following option:
-<br>
 <ul>
-<br>
     	<li>**Use behavior recommended by the payment processor**: Capture is not automatic; it is scheduled according to the period specified by the acquirer. The acquirer indicates whether the payment has been authorized and can determine or recommend a number of days for the capture upon payment authorization. (This is the platform`s default behavior).</li>
     	<li>**Automatic capture immediately after payment authorization**: Capture is automatically performed right after payment authorization, even if the transaction includes an anti-fraud analysis.</li>
     	<li>**Automatic capture immediately after anti-fraud analysis**: Capture is automatically performed right after payment authorization and anti-fraud analysis. If you select this behavior and do not have anti-fraud analysis, the system will perform the payment capture as in "Automatic capture immediately after payment authorization".</li>

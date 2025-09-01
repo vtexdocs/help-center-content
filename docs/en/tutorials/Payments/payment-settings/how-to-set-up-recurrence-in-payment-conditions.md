@@ -1,5 +1,5 @@
 ---
-title: 'How to set up recurrence in payment conditions '
+title: 'How to set up recurrence in payment conditions'
 id: 6EGuoAytLqU2CqUuaI2GUW
 status: PUBLISHED
 createdAt: 2017-06-29T20:56:04.718Z

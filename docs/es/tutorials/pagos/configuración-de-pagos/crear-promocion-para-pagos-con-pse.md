@@ -1,5 +1,5 @@
 ---
-title: 'Crear promoción para pagos con PSE '
+title: 'Crear promoción para pagos con PSE'
 id: 6YIp1fJ76gq667PQWjuj5T
 status: PUBLISHED
 createdAt: 2024-09-30T13:01:24.631Z

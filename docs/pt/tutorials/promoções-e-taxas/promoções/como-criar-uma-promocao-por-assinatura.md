@@ -1,5 +1,5 @@
 ---
-title: ' Criar uma promoção por assinatura'
+title: 'Criar uma promoção por assinatura'
 id: 3ROT13HYNeUIv0plDqgNed
 status: PUBLISHED
 createdAt: 2019-10-31T14:21:23.412Z

@@ -1,5 +1,5 @@
 ---
-title: 'Crear XML con precio promocional por tabla de precios '
+title: 'Crear XML con precio promocional por tabla de precios'
 id: tutorials_312
 status: PUBLISHED
 createdAt: 2017-04-27T22:09:13.953Z

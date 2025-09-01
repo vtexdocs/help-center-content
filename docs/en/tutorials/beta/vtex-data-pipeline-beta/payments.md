@@ -1,5 +1,5 @@
 ---
-title: 'Payments Data Pipeline '
+title: 'Payments Data Pipeline'
 id: 7LWkFaA1jPabzc5JAt1rGs
 status: PUBLISHED
 createdAt: 2024-02-02T17:53:35.949Z

@@ -3,8 +3,8 @@ title: 'VTEX Sales App: FAQ'
 id: 3CRKQHzflSW0DXenEHUpP5
 status: PUBLISHED
 createdAt: 2025-02-06T21:18:46.773Z
-updatedAt: 2025-07-09T17:32:18.950Z
-publishedAt: 2025-07-09T17:32:18.950Z
+updatedAt: 2025-08-26T16:58:45.240Z
+publishedAt: 2025-08-26T16:58:45.240Z
 firstPublishedAt: 2025-02-07T18:17:39.626Z
 contentType: tutorial
 productTeam: Shopping
@@ -172,7 +172,7 @@ With [acquirer](https://help.vtex.com/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbw
 * [Adyen](https://help.vtex.com/en/tutorial/configurar-pagamento-com-adyenv3--7xAz67E2Eg63LWCQNjVdwv) (doesn't support [payout split](https://help.vtex.com/pt/tutorial/split-de-pagamento--6k5JidhYRUxileNolY2VLx))
 * [Mercado Pago](https://help.vtex.com/en/tutorial/configurar-pagamento-com-mercado-pago-no-vtex-sales-app--51fgSydGGOnlBdtwTfE8BE) (accepts an exclusive contract for **VTEX Sales App** and doesn't support payout split)
 * [Cielo](https://help.vtex.com/en/tutorial/configurar-pagamento-com-cielo-no-vtex-sales-app--2p8rALKTNojgEl8zKn5BtG) (accepts an exclusive contract for **VTEX Sales App** and doesn't support payout split)
-* PagarMe (accepts payout split but is temporarily unavailable for new contracts)
+* PagarMe (accepts payout split)
 
 ### 16. Can the physical store have different payment connectors from the online store with VTEX Sales App?
 

@@ -3,8 +3,8 @@ title: 'VTEX Sales App: FAQ'
 id: 3CRKQHzflSW0DXenEHUpP5
 status: PUBLISHED
 createdAt: 2025-02-06T21:18:46.773Z
-updatedAt: 2025-07-09T17:32:18.950Z
-publishedAt: 2025-07-09T17:32:18.950Z
+updatedAt: 2025-08-26T16:58:45.240Z
+publishedAt: 2025-08-26T16:58:45.240Z
 firstPublishedAt: 2025-02-07T18:17:39.626Z
 contentType: tutorial
 productTeam: Shopping
@@ -172,7 +172,7 @@ O **VTEX Sales App** admite os seguintes conectores de pagamento:
 * [Adyen](https://help.vtex.com/pt/tutorial/configurar-pagamento-com-adyenv3--7xAz67E2Eg63LWCQNjVdwv) (não permite [split de recebíveis](https://help.vtex.com/pt/tutorial/split-de-pagamento--6k5JidhYRUxileNolY2VLx))
 * [Mercado Pago](https://help.vtex.com/pt/tutorial/configurar-pagamento-com-mercado-pago-no-vtex-sales-app--51fgSydGGOnlBdtwTfE8BE) (aceita contratação exclusiva para o **VTEX Sales App** e não permite split de recebíveis)
 * [Cielo](https://help.vtex.com/pt/tutorial/configurar-pagamento-com-cielo-no-vtex-sales-app--2p8rALKTNojgEl8zKn5BtG) (aceita contratação exclusiva para o **VTEX Sales App** e não permite split de recebíveis)
-* PagarMe (aceita split de recebíveis, mas está temporariamente indisponível para contratações)
+* PagarMe (aceita split de recebíveis)
 
 ### 16. Com o VTEX Sales App a loja física pode ter conectores de pagamento diferentes do ecommerce?
 

@@ -3,8 +3,8 @@ title: 'Central de Promoções Mercado Livre'
 id: 1LDJfpPipZ5t1RS6QowZtU
 status: PUBLISHED
 createdAt: 2024-10-17T16:50:33.863Z
-updatedAt: 2025-06-24T18:36:31.202Z
-publishedAt: 2025-06-24T18:36:31.202Z
+updatedAt: 2025-08-26T17:54:43.432Z
+publishedAt: 2025-08-26T17:54:43.432Z
 firstPublishedAt: 2024-10-17T20:42:14.714Z
 contentType: tutorial
 productTeam: Channels
@@ -51,7 +51,7 @@ Nesta seção, o seller fará a seleção dos anúncios que deseja incluir na pr
 
 1. Na seção **Candidatos** selecione a checkbox <a class="far fa-check-square" aria-hidden="true"></a> dos anúncios que deseja incluir na campanha promocional.  
 2. No topo da tela clique no botão `Incluir na promoção`.  
-3. Preencha os campos ** Desconto** e **Desconto Meli+ (opcional).**  
+3. Preencha os campos **Desconto** e **Desconto Meli+ (opcional).**  
 4. Clique no botão `Confirmar`.  
 
 Caso a campanha promocional tenha o status **Iniciada,** os anúncios selecionados e configurados na seção **Candidatos** serão enviados para a seção **Participando** e os descontos ativos no Mercado Livre, caso a campanha tenha o status **Disponível,** os anúncios são enviados para a seção **Programados.**  

@@ -3,8 +3,8 @@ title: 'Integrar con YOP'
 id: tutorials_4206
 status: PUBLISHED
 createdAt: 2017-04-27T21:51:42.320Z
-updatedAt: 2023-03-29T16:28:29.290Z
-publishedAt: 2023-03-29T16:28:29.290Z
+updatedAt: 2025-08-26T17:46:58.501Z
+publishedAt: 2025-08-26T17:46:58.501Z
 firstPublishedAt: 2017-04-27T23:11:14.915Z
 contentType: tutorial
 productTeam: Channels
@@ -30,7 +30,7 @@ Algunos pasos son esenciales para que empecemos las configuraciones de la integr
 2. Haga clic en la pestaña **Usuarios**;
 3. Haga clic en el botón **Nuevo usuario**;
 4. Complete el **email** y **nombre completo**;
-5. Busque y seleccione los perfiles de acceso **IntegrationProfile-Fulfillment\_Oms **(para adicionar las nuevas órdenes);
+5. Busque y seleccione los perfiles de acceso **IntegrationProfile-Fulfillment\_Oms** (para adicionar las nuevas órdenes);
 6. Haga clic en el botón **Añadir;**
 7. Haga clic en el botón **Guardar**.
 

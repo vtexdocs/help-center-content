@@ -3,8 +3,8 @@ title: 'VTEX Sales App: preguntas frecuentes'
 id: 3CRKQHzflSW0DXenEHUpP5
 status: PUBLISHED
 createdAt: 2025-02-06T21:18:46.773Z
-updatedAt: 2025-07-09T17:32:18.950Z
-publishedAt: 2025-07-09T17:32:18.950Z
+updatedAt: 2025-08-26T16:58:45.240Z
+publishedAt: 2025-08-26T16:58:45.240Z
 firstPublishedAt: 2025-02-07T18:17:39.626Z
 contentType: tutorial
 productTeam: Shopping
@@ -174,7 +174,7 @@ Con el servicio de [adquirentes](https://help.vtex.com/es/tracks/pagamentos--6GA
 * [Adyen](https://help.vtex.com/es/tutorial/configurar-pagamento-com-adyenv3--7xAz67E2Eg63LWCQNjVdwv) (no permite [split de cobros](https://help.vtex.com/es/tutorial/split-de-pagamento--6k5JidhYRUxileNolY2VLx)).
 * [Mercado Pago](https://help.vtex.com/es/tutorial/configurar-pagamento-com-mercado-pago-no-vtex-sales-app--51fgSydGGOnlBdtwTfE8BE) (puede contratarse exclusivamente para **VTEX Sales App** y no permite split de cobros).
 * [Cielo](https://help.vtex.com/es/tutorial/configurar-pagamento-com-cielo-no-vtex-sales-app--2p8rALKTNojgEl8zKn5BtG) (puede contratarse exclusivamente para **VTEX Sales App** y no permite split de cobros).
-* PagarMe (acepta split de cobros, pero está temporalmente indisponible para contrataciones).
+* PagarMe (acepta split de cobros).
 
 ### 16. ¿Con VTEX Sales App la tienda física puede tener conectores de pago distintos a los de la tienda de ecommerce?
 

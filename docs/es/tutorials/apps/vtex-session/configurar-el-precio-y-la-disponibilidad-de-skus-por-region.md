@@ -1,5 +1,5 @@
 ---
-title: ' Configurar el precio y la disponibilidad de SKUs por Region'
+title: 'Configurar el precio y la disponibilidad de SKUs por Region'
 id: 12ne58BmvYsYuGsimmugoc
 status: PUBLISHED
 createdAt: 2018-09-10T15:30:53.237Z

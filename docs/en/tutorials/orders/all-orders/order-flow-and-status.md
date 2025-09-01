@@ -3,8 +3,8 @@ title: 'Order flow and status'
 id: tutorials_196
 status: PUBLISHED
 createdAt: 2017-04-27T22:14:33.518Z
-updatedAt: 2025-08-14T19:15:35.892Z
-publishedAt: 2025-08-14T19:15:35.892Z
+updatedAt: 2025-08-15T14:14:28.169Z
+publishedAt: 2025-08-15T14:14:28.169Z
 firstPublishedAt: 2017-04-27T23:02:47.616Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -168,18 +168,21 @@ Here is a table with more details about each order status. The table is divided 
   <tr>
     <td class="tg-zr06"><span style="font-weight:400">-</span></td>
     <td class="tg-zr06"><span style="font-weight:400">null</span></td>
+    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
     <td class="tg-zr06"><span style="font-weight:400">Marketplace, seller, chain and complete flow</span></td>
     <td class="tg-zr06"><span style="font-weight:400">Incomplete orders. The system can still launch the flow, or the order status is</span> <span style="font-weight:400;color:#3F3F40;background-color:#E3E4E6">CancellationData</span><span style="font-weight:400">, which means an error occurred.</span></td>
   </tr>
   <tr>
     <td class="tg-zr06"><span style="font-weight:400">-</span></td>
     <td class="tg-zr06"><span style="font-weight:400">order-created*</span></td>
+    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
     <td class="tg-zr06"><span style="font-weight:400">Marketplace, chain and complete flow</span></td>
     <td class="tg-zr06"><span style="font-weight:400">Order created. The order data is being processed. This is the first status of an order, and indicates that the system has the necessary information to process it.</span></td>
   </tr>
   <tr>
     <td class="tg-zr06"><span style="font-weight:400">Order accepted</span></td>
     <td class="tg-zr06"><span style="font-weight:400">order-accepted</span></td>
+    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
     <td class="tg-zr06"><span style="font-weight:400">Seller</span></td>
     <td class="tg-zr06"><span style="font-weight:400">The seller received the order.</span></td>
   </tr>
@@ -193,12 +196,14 @@ Here is a table with more details about each order status. The table is divided 
   <tr>
     <td class="tg-zr06"><span style="font-weight:400">-</span></td>
     <td class="tg-zr06"><span style="font-weight:400">on-order-completed</span></td>
+    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
     <td class="tg-zr06"><span style="font-weight:400">Marketplace, chain and complete flow</span></td>
     <td class="tg-zr06"><span style="font-weight:400">The purchase has been processed at checkout. The order data is complete.</span></td>
   </tr>
   <tr>
     <td class="tg-zr06"><span style="font-weight:400">-</span></td>
     <td class="tg-zr06"><span style="font-weight:400">on-order-completed-ffm</span></td>
+    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
     <td class="tg-zr06"><span style="font-weight:400">Seller</span></td>
     <td class="tg-zr06"><span style="font-weight:400">The purchase has been processed at checkout. The order data is complete.</span></td>
   </tr>
@@ -226,6 +231,7 @@ Here is a table with more details about each order status. The table is divided 
   <tr>
     <td class="tg-zr06"><span style="font-weight:400">Cancellation requested</span></td>
     <td class="tg-zr06"><span style="font-weight:400">request-cancel</span></td>
+    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
     <td class="tg-zr06"><span style="font-weight:400">Marketplace and complete flow</span></td>
     <td class="tg-9p9e">[<span style="font-weight:400;color:#F71963;background-color:transparent">The customer requested the order cancellation</span>](https://help.vtex.com/en/tutorial/cancelamento-de-pedido-por-parte-do-cliente--3wEI6DUNtecooG2Ki4Akqo)<span style="font-weight:400">.</span></td>
   </tr>
@@ -239,12 +245,14 @@ Here is a table with more details about each order status. The table is divided 
   <tr>
     <td class="tg-zr06"><span style="font-weight:400">Window to change payment</span></td>
     <td class="tg-zr06"><span style="font-weight:400">window-to-change-payment</span></td>
+    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
     <td class="tg-zr06"><span style="font-weight:400">Marketplace</span></td>
     <td class="tg-zr06"><span style="font-weight:400">Time period the payment can be changed.</span></td>
   </tr>
   <tr>
     <td class="tg-zr06"><span style="font-weight:400">Window to change seller</span></td>
     <td class="tg-zr06"><span style="font-weight:400">window-to-change-seller</span></td>
+    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
     <td class="tg-zr06"><span style="font-weight:400">Marketplace</span></td>
     <td class="tg-zr06"><span style="font-weight:400">Time period the</span> [<span style="font-weight:400;color:#F71963;background-color:transparent">seller can be changed</span>](https://help.vtex.com/en/tutorial/veja-como-utilizar-o-change-seller--5TBAwO2kOAMw44uyaaQMQO)<span style="font-weight:400">.</span></td>
   </tr>
@@ -258,24 +266,28 @@ Here is a table with more details about each order status. The table is divided 
    <tr>
     <td class="tg-zr06"><span style="font-weight:400">-</span></td>
     <td class="tg-zr06"><span style="font-weight:400">waiting-for-fulfillment</span></td>
+     <td class="tg-zr06"><span style="font-weight:400">-</span></td>
     <td class="tg-zr06"><span style="font-weight:400">Seller</span></td>
     <td class="tg-zr06"><span style="font-weight:400">Waits for order's fulfillment. Status exclusive for stores that have a Warehouse Management System (WMS). When the marketplace does not authorize the seller to fulfill the order within 30 days, this order is automatically canceled by the platform.</span></td>
   </tr>
   <tr>
     <td class="tg-zr06"><span style="font-weight:400">-</span></td>
     <td class="tg-zr06"><span style="font-weight:400">waiting-ffmt-authorization</span></td>
+    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
     <td class="tg-zr06"><span style="font-weight:400">Seller</span></td>
     <td class="tg-zr06"><span style="font-weight:400">Awaiting the marketplace authorization.</span></td>
   </tr>
   <tr>
     <td class="tg-zr06"><span style="font-weight:400">Waiting for fulfillment authorization</span></td>
     <td class="tg-zr06"><span style="font-weight:400">waiting-for-manual-authorization</span></td>
+    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
     <td class="tg-zr06"><span style="font-weight:400">Seller</span></td>
     <td class="tg-zr06"><span style="font-weight:400">It is a waiting status, in which the seller waits for the marketplace to authorize the order flow to continue.</span></td>
   </tr>
   <tr>
     <td class="tg-zr06"><span style="font-weight:400">Authorize fulfillment</span></td>
     <td class="tg-zr06"><span style="font-weight:400">authorize-fulfillment</span></td>
+    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
     <td class="tg-zr06"><span style="font-weight:400">Seller and complete flow</span></td>
     <td class="tg-zr06"><span style="font-weight:400">Internal process for approving the order handling. In this status, the platform confirms the</span> [<span style="font-weight:400;color:#F71963;background-color:transparent">item reservation</span>](https://help.vtex.com/en/tutorial/como-a-reserva-funciona--tutorials_92#reserva-confirmada)<span style="font-weight:400">. When the marketplace does not authorize the seller to fulfill the order within 30 days, this order is automatically canceled by the platform.</span></td>
   </tr>
@@ -289,6 +301,7 @@ Here is a table with more details about each order status. The table is divided 
   <tr>
     <td class="tg-zr06"><span style="font-weight:400">-</span></td>
     <td class="tg-zr06"><span style="font-weight:400">ready-for-invoicing</span></td>
+    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
     <td class="tg-zr06"><span style="font-weight:400">Marketplace and complete flow</span></td>
     <td class="tg-zr06"><span style="font-weight:400">The order is ready to be invoiced only for stores that have picking and packing in the fulfillment process.</span></td>
   </tr>
@@ -330,24 +343,28 @@ Here is a table with more details about each order status. The table is divided 
   <tr>
     <td class="tg-zr06"><span style="font-weight:400">Start handling</span></td>
     <td class="tg-zr06"><span style="font-weight:400">start-handling*</span></td>
+    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
     <td class="tg-zr06"><span style="font-weight:400">Seller and complete flow</span></td>
     <td class="tg-zr06"><span style="font-weight:400">Authorization status to continue the order handling flow. It is used when authorized manually. If there is</span> [<span style="font-weight:400;color:#F71963;background-color:transparent">ERP integration</span>](https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide#send-order-cancelations)<span style="font-weight:400">, this status waits for the ERP confirmation for the order flow to continue.</span></td>
   </tr>
   <tr>
     <td class="tg-zr06"><span style="font-weight:400">Cancellation requested</span></td>
     <td class="tg-zr06"><span style="font-weight:400">cancellation-requested</span></td>
+    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
     <td class="tg-zr06"><span style="font-weight:400">Seller</span></td>
     <td class="tg-zr06"><span style="font-weight:400">Cancellation requested</span></td>
   </tr>
   <tr>
     <td class="tg-zr06"><span style="font-weight:400">-</span></td>
     <td class="tg-zr06"><span style="font-weight:400">waiting-for-mkt-authorization</span></td>
+    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
     <td class="tg-zr06"><span style="font-weight:400">Chain</span></td>
     <td class="tg-zr06"><span style="font-weight:400">Waiting for the marketplace authorization to send the authorization to the seller.</span></td>
   </tr>
   <tr>
     <td class="tg-zr06"><span style="font-weight:400">-</span></td>
     <td class="tg-zr06"><span style="font-weight:400">waiting-seller-handling</span></td>
+    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
     <td class="tg-zr06"><span style="font-weight:400">Marketplace</span></td>
     <td class="tg-zr06"><span style="font-weight:400">Marketplace from the main account waiting for the handling process to start, when it comes to a Multilevel Omnichannel Inventory operation. For the white label seller, the status that appears is authorize-fulfillment.</span></td>
   </tr>
@@ -361,17 +378,20 @@ Here is a table with more details about each order status. The table is divided 
   <tr>
     <td class="tg-zr06"><span style="font-weight:400">Approve payment</span></td>
     <td class="tg-zr06"><span style="font-weight:400">-</span></td>
+    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
     <td class="tg-zr06"><span style="font-weight:400">Marketplace and complete flow</span></td>
     <td class="tg-zr06"><span style="font-weight:400">Indicated by the system. The flow does not stop at this status unless there is an error.</span></td>
   </tr>
   <tr>
     <td class="tg-zr06"><span style="font-weight:400">Waiting for the seller decision</span></td>
     <td class="tg-zr06"><span style="font-weight:400">-</span></td>
+    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
     <td class="tg-zr06"><span style="font-weight:400">Marketplace and complete flow</span></td>
     <td class="tg-zr06"><span style="font-weight:400">Waiting for the seller to decide if the order will be canceled.</span></td>
   </tr>
   <tr>
     <td class="tg-cly1">Request cancellation</td>
+    <td class="tg-cly1">-</td>
     <td class="tg-cly1">-</td>
     <td class="tg-cly1">Marketplace and complete flow</td>
     <td class="tg-cly1">Status initiating cancellation flow. There are two types of possible cancellatoins: by the </span> [<span style="font-weight:400;color:#F71963;background-color:transparent">store</span>](https://help.vtex.com/en/tutorial/como-cancelar-pedido--tutorials_186) <span style="font-weight:400"> and by the </span> [<span style="font-weight:400;color:#F71963;background-color:transparent">customer</span>](https://help.vtex.com/en/tutorial/cancelamento-de-pedido-por-parte-do-cliente--3wEI6DUNtecooG2Ki4Akqo)<span style="font-weight:400">.</span></td>
