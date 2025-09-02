@@ -1,17 +1,17 @@
-const fetchEntries = require("../../help-center-content/contentful-fetcher/fetch/entries");
+const fetchEntries = require("./fetch/entries");
 const minimist = require("minimist");
 const {
   generateTrackMarkdown,
   generateTutorialMarkdown,
   generateAnnouncementMarkdown,
   generateFaqMarkdown,
-} = require("../../help-center-content/contentful-fetcher/writers/markdownGenerator");
-const { writeMarkdown } = require("../../help-center-content/contentful-fetcher/writers/fileWriter");
-const { fetchLinkedEntry } = require("../../help-center-content/contentful-fetcher/fetch/linkedEntry");
-const { isArchived } = require("../../help-center-content/contentful-fetcher/utils/entryStatus");
-const { normalizeFolderName } = require("../../help-center-content/contentful-fetcher/utils/normalize");
-const { convertInlineHtmlToMarkdown } = require("../../help-center-content/contentful-fetcher/utils/markdownUtils");
-const { updateImages } = require("../../help-center-content/contentful-fetcher/utils/updateImages");
+} = require("./writers/markdownGenerator");
+const { writeMarkdown } = require("./writers/fileWriter");
+const { fetchLinkedEntry } = require("./fetch/linkedEntry");
+const { isArchived } = require("./utils/entryStatus");
+const { normalizeFolderName } = require("./utils/normalize");
+const { convertInlineHtmlToMarkdown } = require("./utils/markdownUtils");
+const { updateImages } = require("./utils/updateImages");
 const { isDraft } = require("contentful-management");
 const fs = require("fs");
 const path = require("path");
