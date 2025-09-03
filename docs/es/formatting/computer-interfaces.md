@@ -13,7 +13,7 @@ trackId: 5PxyAgZrtiYlaYZBTlhJ2A
 trackSlugES: interfaces-de-computadora
 ---
 
-> ⚠️ El siguiente contenido explica cómo referenciar elementos de la interfaz de usuario en tutoriales y guías. Para escribir textos de interfaz, consulta la sección [Interface copy](https://contentguide.vtex.com/docs/user-interfaces).
+> ⚠️ El siguiente contenido explica cómo referenciar elementos de la interfaz de usuario en tutoriales y guías. Para escribir textos de interfaz, consulta la sección [Interface copy](https://contentguide.vtex.com/docs/interface-copy).
 
 ## Marcadores de posición (placeholders)
 
@@ -29,7 +29,7 @@ Cuando menciones un marcador de posición dentro de un texto fluido, escribe el 
 
 | ✅ Correcto | ❌ Incorrecto |
 | :--- | :--- |
-| El `nombredelacuenta` debe reemplazarse con el nombre de la cuenta de tu tienda. | El <code>{nombredelacuenta}</code> debe reemplazarse con el nombre de la cuenta de tu tienda. |
+| El `nombredelacuenta` debe reemplazarse con el nombre de la cuenta de tu tienda. | El <code>\{nombredelacuenta\}</code> debe reemplazarse con el nombre de la cuenta de tu tienda. |
 
 ## Etiquetas de acción
 

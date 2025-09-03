@@ -13,7 +13,7 @@ trackId: 5PxyAgZrtiYlaYZBTlhJ2A
 trackSlugPT: interfaces-de-computador
 ---
 
-> ⚠️ O conteúdo a seguir explica como citar interfaces em tutoriais e guias. Para escrever textos para interfaces, consulte a seção [Interface copy](https://contentguide.vtex.com/docs/user-interfaces) do portal Content Style Guide.
+> ⚠️ O conteúdo a seguir explica como citar interfaces em tutoriais e guias. Para escrever textos para interfaces, consulte a seção [Interface copy](https://contentguide.vtex.com/docs/interface-copy) do portal Content Style Guide.
 
 ## Placeholders
 
