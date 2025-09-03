@@ -1,5 +1,5 @@
 ---
-title: '¿Cómo funcionan las transacciones de verificación de cuenta? '
+title: '¿Cómo funcionan las transacciones de verificación de cuenta?'
 id: 6O51eUDbChBEFPw9oInUtm
 status: PUBLISHED
 createdAt: 2025-05-30T11:53:10.874Z

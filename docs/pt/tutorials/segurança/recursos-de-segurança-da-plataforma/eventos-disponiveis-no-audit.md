@@ -3,8 +3,8 @@ title: 'Eventos disponíveis no Audit'
 id: 6r1Mzcu5NmkmmDLJlz9CCZ
 status: PUBLISHED
 createdAt: 2022-06-22T16:05:16.214Z
-updatedAt: 2025-06-12T15:42:48.235Z
-publishedAt: 2025-06-12T15:42:48.235Z
+updatedAt: 2025-08-25T18:20:54.585Z
+publishedAt: 2025-08-25T18:20:54.585Z
 firstPublishedAt: 2022-06-22T16:28:52.801Z
 contentType: tutorial
 productTeam: Master Data
@@ -39,6 +39,7 @@ Confira a seguir a lista dos possíveis eventos disponíveis no [Audit](https://
 * [Site Editor](#site-editor)
 * [Ad Network](#ad-network)
 * [Tokens de cartão](#tokens-de-cartao)
+* [Unidades organizacionais](#unidades-organizacionais)
 
 > ℹ️ Caso você visualize no Audit algum evento que não esteja listado aqui, por favor nos informe usando a [página de feedback de documentação](https://docs.google.com/forms/d/e/1FAIpQLSfmnotPvPjw-SjiE7lt2Nt3RQgNUe10ixXZmuO2v9enOJReoQ/viewform).
 
@@ -120,6 +121,8 @@ Confira a seguir a lista dos possíveis eventos disponíveis no [Audit](https://
 | Seller Creation | Criação de seller. | ID do seller. |
 | SKU Seller Binding Activation | Ativação de vínculo de SKU. | ID do SKU no seller e ID do seller. |
 | SKU Seller Binding Inactivation | Inativação de vínculo de SKU. | ID do SKU no seller e ID do seller. |
+| GiftCard Create | Criação de um vale-presente nativo. | ID do vale-presente e ID do autor da ação. |
+| GiftCard List All Paged |  Consulta da listagem de vale-presentes. | ID do autor da ação e os IDs dos vale-presentes. |
 
 ## Preços
 
@@ -178,6 +181,7 @@ Confira a seguir a lista dos possíveis eventos disponíveis no [Audit](https://
 | EXPORT_GIFT_CARD | Exportação de vale-presente. | export-gift-card |
 | EDIT_GIFT_CARD | Edição de valor de vale-presente. | add-gift-card-value |
 | CREATE_GIFT_CARD | Criação de vale-presente. | create-multiple-gift-cards |
+| LIST_CARDS_FROM_API | Busca por vale-presentes nativos. | list-gift-card-api |
 
 ## Checkout
 
@@ -295,3 +299,18 @@ Na coluna **Ação**, todos os eventos do Headless CMS também apresentam as seg
 | GetToken | Leitura de um token de cartão. | ID do token de cartão, perfil do cliente associado ao token e ação realizada. |
 | UpdateToken | Atualização de um token de cartão. | ID do token de cartão, perfil do cliente associado ao token e ação realizada. |
 | DeleteToken | Exclusão de um token de cartão. | ID do token de cartão, perfil do cliente associado ao token e ação realizada. |
+
+## Unidades organizacionais
+
+| Ação | Descrição do evento | Detalhes do evento |
+|---|---|---|
+| RemoveValueFromScope | Remoção de valores de um escopo de uma unidade organizacional. | ID do escopo. |
+| DeleteOrganizationScope | Exclusão de um escopo de uma unidade organizacional. | ID do escopo e ID da unidade organizacional. |
+| DeleteOrganizationScopes | Exclusão de todos os escopos de uma unidade organizacional. | ID da unidade organizacional. |
+| SaveOrganizationUnitScope | Criação de escopo para uma unidade organizacional. | ID do escopo criado e ID da unidade organizacional. |
+| UpdateOrganizationUnitScope | Atualização de um escopo de uma unidade organizacional. | ID do escopo criado e ID da unidade organizacional. |
+| DeleteOrganizationUnit | Exclusão de uma unidade organizacional. | ID da unidade organizacional. |
+| SaveOrganizationUnit | Criação de uma unidade organizacional. | ID da unidade organizacional. |
+| UpdateOrganizationUnit | Atualização do nome de uma unidade organizacional. | ID da unidade organizacional. |
+| MoveOrganizationUnit | Criação de hierarquia entre unidades organizacionais. | ID da unidade organizacional de nível superior e ID da unidade organizacional de nível inferior. |
+

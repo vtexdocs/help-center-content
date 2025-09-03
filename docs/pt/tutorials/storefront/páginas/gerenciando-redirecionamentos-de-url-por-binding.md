@@ -1,5 +1,5 @@
 ---
-title: 'Gerenciando redirecionamentos de URL por binding '
+title: 'Gerenciando redirecionamentos de URL por binding'
 id: 67GAK2TCQgjvmtPXxAqREb
 status: PUBLISHED
 createdAt: 2021-04-20T15:03:54.330Z

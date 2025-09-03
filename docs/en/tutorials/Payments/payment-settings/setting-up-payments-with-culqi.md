@@ -3,8 +3,8 @@ title: 'Setting up payments with Culqi'
 id: 6LUOpYBpg48XSL8X0Le6e3
 status: PUBLISHED
 createdAt: 2023-11-16T13:31:38.132Z
-updatedAt: 2024-01-25T19:01:02.616Z
-publishedAt: 2024-01-25T19:01:02.616Z
+updatedAt: 2025-08-26T18:27:28.927Z
+publishedAt: 2025-08-26T18:27:28.927Z
 firstPublishedAt: 2023-11-16T14:54:41.647Z
 contentType: tutorial
 productTeam: Financial
@@ -24,9 +24,7 @@ To configure Culqi, follow the steps below:
 3. Type the name __Culqi__ in the search bar and click on the name of the provider.
 4. Fill in the __Application Key__, __Application Token__ and __Public Key__ fields with the data provided by Culqi.
 5. In the __Payment settlement__ field, select one of the following option:
-<br>
 <ul>
-<br>
     	<li>**Use Behavior Recommended By The Payment Processor**: Capture is not automatic; it is scheduled according to the period specified by the acquirer. The acquirer indicates whether the payment has been authorized and can determine or recommend a number of days for the capture upon payment authorization. (This is the platform's default behavior).</li>
     	<li>**Automatic Capture Immediately After Payment Authorization**: Capture is automatically performed right after payment authorization, even if the transaction includes an anti-fraud analysis.</li>
    		<li>**Automatic Capture Immediately After Anti-fraud Analysis**: Capture is automatically performed right after payment authorization and anti-fraud analysis. If you select this behavior and do not have anti-fraud analysis, the system will perform the payment capture as in "Automatic Capture Immediately After Payment Authorization".</li>

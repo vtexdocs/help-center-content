@@ -1,5 +1,5 @@
 ---
-title: 'Change seller for affiliations that support native split: FAQ '
+title: 'Change seller for affiliations that support native split: FAQ'
 id: 2TcTp83SYrZ5GK9jOUwTam
 status: PUBLISHED
 createdAt: 2021-02-04T17:15:55.230Z

@@ -1,5 +1,5 @@
 ---
-title: 'Gerenciamento de Coleções no B2B '
+title: 'Gerenciamento de Coleções no B2B'
 id: 7aOduycwN3BeDqNo2kNDJk
 status: PUBLISHED
 createdAt: 2024-08-06T16:19:05.159Z

@@ -3,8 +3,8 @@ title: 'Setting up payments with Nuvei'
 id: 67DjdrpIaZZmhXv9Iwa6Ev
 status: PUBLISHED
 createdAt: 2024-03-27T12:55:27.016Z
-updatedAt: 2024-09-13T17:39:52.427Z
-publishedAt: 2024-09-13T17:39:52.427Z
+updatedAt: 2025-08-18T14:50:12.265Z
+publishedAt: 2025-08-18T14:50:12.265Z
 firstPublishedAt: 2024-09-13T17:39:52.427Z
 contentType: tutorial
 productTeam: Financial
@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-At VTEX, it is possible to integrate with Nuvei. Through this provider, your store can make sales with credit and debit cards.
+At VTEX, it is possible to integrate with Nuvei. Through this provider, your store can make sales with credit, debit cards, OXXO, PSE, notes payable, among others.
 
 To use Nuvei, follow the steps below:
 

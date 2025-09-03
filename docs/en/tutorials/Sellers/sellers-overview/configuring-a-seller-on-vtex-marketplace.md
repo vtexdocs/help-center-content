@@ -1,5 +1,5 @@
 ---
-title: 'Configuring a seller on VTEX marketplace '
+title: 'Configuring a seller on VTEX marketplace'
 id: 6g045OkRSjNpqhkExbQRlP
 status: PUBLISHED
 createdAt: 2022-05-11T16:49:11.747Z

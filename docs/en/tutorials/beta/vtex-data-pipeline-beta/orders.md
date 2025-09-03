@@ -1,5 +1,5 @@
 ---
-title: 'Orders Data Pipeline '
+title: 'Orders Data Pipeline'
 id: 2f3GlRJ5L5IRGVIxOmzrFv
 status: PUBLISHED
 createdAt: 2024-02-02T17:58:53.962Z

@@ -3,8 +3,8 @@ title: 'Mercado Libre Promotions Center'
 id: 1LDJfpPipZ5t1RS6QowZtU
 status: PUBLISHED
 createdAt: 2024-10-17T16:50:33.863Z
-updatedAt: 2025-06-24T18:36:31.202Z
-publishedAt: 2025-06-24T18:36:31.202Z
+updatedAt: 2025-08-26T17:54:43.432Z
+publishedAt: 2025-08-26T17:54:43.432Z
 firstPublishedAt: 2024-10-17T20:42:14.714Z
 contentType: tutorial
 productTeam: Channels
@@ -71,18 +71,15 @@ To remove a product from the campaign, follow the steps below:
 1. Select the checkbox <a class="far fa-check-square" aria-hidden="true"></a> next to the **Offer** you want to remove from the campaign.  
 2. Click the <i class="far fa-trash-alt" aria-hidden="true"></i> icon.  
 3. In the confirmation pop-up, click the `Confirm` button.  
-<div class=”alert alert-info”>
-Offers removed from the campaign will be listed in the **Candidates** section and can be included again.
-</div>
+
+> ℹ️ Offers removed from the campaign will be listed in the **Candidates** section and can be included again.
 
 ### Co-funded
 
 In this type of campaign, Mercado Libre covers a percentage of the discount offered on the platform. The marketplace offers X% off, and the seller offers Y%. So customers receive a total discount of X+Y%.  
 Mercado Libre defines the discount percentage that each party should provide for a product. The seller can choose whether to include the product in the promotion.
 
-<div class="alert-info">
-The discount percentage can't be changed.
-</div>  
+> ℹ️ The discount percentage can't be changed.
 
 When you click a **Co-funded** campaign, three sections are displayed:  
 
@@ -207,9 +204,7 @@ When the campaign status changes to **Started,** all the offers listed in this s
 
 In the **Participating** section, the offers configured to participate in a campaign with the **Started** status will be listed.
 
-<div class=”alert alert-info”>
-In this type of campaign, offers can't be removed.
-</div>
+> ℹ️ In this type of campaign, offers can't be removed.
 
 ### Lightning deals
 
@@ -235,9 +230,7 @@ When the campaign status changes to **Started,** all the offers listed in this s
 
 In the **Participating** section, the offers configured to participate in a campaign with the **Started** status will be listed.  
 
-<div class=”alert alert-info”>
-In this type of campaign, offers with the **Started** status can't be removed.
-</div>
+> ℹ️ In this type of campaign, offers with the **Started** status can't be removed.
 
 ### Automated co-participation
 
@@ -332,9 +325,7 @@ To remove a product from the campaign, follow the steps below:
 2. Click the <i class="far fa-trash-alt" aria-hidden="true"></i> icon.  
 3. In the confirmation pop-up, click the `Confirm` button.  
 
-<div class=”alert alert-info”>
-In this type of campaign, if an offer is removed, it can't be included again.
-</div>
+> ℹ️ In this type of campaign, if an offer is removed, it can't be included again.
 
 ### Seller campaigns
 

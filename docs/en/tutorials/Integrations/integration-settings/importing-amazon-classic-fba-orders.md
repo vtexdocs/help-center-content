@@ -1,5 +1,5 @@
 ---
-title: ' Importing Amazon FBA Classic orders'
+title: 'Importing Amazon FBA Classic orders'
 id: 2MJZgBen3hpK4xkXqcv8TO
 status: PUBLISHED
 createdAt: 2022-10-07T21:33:29.864Z

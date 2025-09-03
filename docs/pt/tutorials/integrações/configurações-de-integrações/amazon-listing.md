@@ -1,5 +1,5 @@
 ---
-title: 'Amazon Listing '
+title: 'Amazon Listing'
 id: 5HIhbnYzJWkl2yM0o72WrL
 status: PUBLISHED
 createdAt: 2025-01-31T15:04:46.985Z

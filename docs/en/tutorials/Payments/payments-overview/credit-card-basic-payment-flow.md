@@ -1,5 +1,5 @@
 ---
-title: 'Credit Card - Basic payment flow '
+title: 'Credit Card - Basic payment flow'
 id: 1L1Y66GgcAUgkIqwgccCUK
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:42.505Z

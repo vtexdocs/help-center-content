@@ -3,8 +3,8 @@ title: 'Cómo funciona la promoción Descuento progresivo'
 id: tutorials_324
 status: PUBLISHED
 createdAt: 2017-04-27T22:08:26.447Z
-updatedAt: 2025-03-26T17:23:28.085Z
-publishedAt: 2025-03-26T17:23:28.085Z
+updatedAt: 2025-08-22T14:57:47.483Z
+publishedAt: 2025-08-22T14:57:47.483Z
 firstPublishedAt: 2017-04-27T23:03:15.195Z
 contentType: tutorial
 productTeam: Marketing & Merchandising

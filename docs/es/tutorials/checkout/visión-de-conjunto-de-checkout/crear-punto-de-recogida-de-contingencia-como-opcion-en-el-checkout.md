@@ -1,5 +1,5 @@
 ---
-title: 'Crear un punto de recogida de contingencia para garantizarlo como opción en el checkout  '
+title: 'Crear un punto de recogida de contingencia para garantizarlo como opción en el checkout'
 id: 3mowqWEfjyM2g6WoWgE0Ao
 status: PUBLISHED
 createdAt: 2018-04-01T16:02:02.437Z

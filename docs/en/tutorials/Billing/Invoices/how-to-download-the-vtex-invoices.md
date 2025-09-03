@@ -1,5 +1,5 @@
 ---
-title: 'How to download the VTEX invoices '
+title: 'How to download the VTEX invoices'
 id: tutorials_653
 status: PUBLISHED
 createdAt: 2017-04-27T21:59:30.802Z

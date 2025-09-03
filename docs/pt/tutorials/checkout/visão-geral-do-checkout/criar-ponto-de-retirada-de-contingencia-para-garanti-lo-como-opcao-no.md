@@ -1,5 +1,5 @@
 ---
-title: 'Criar ponto de retirada de contingência para garanti-lo como opção no checkout '
+title: 'Criar ponto de retirada de contingência para garanti-lo como opção no checkout'
 id: 3mowqWEfjyM2g6WoWgE0Ao
 status: PUBLISHED
 createdAt: 2018-04-01T16:02:02.437Z

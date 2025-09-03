@@ -3,8 +3,8 @@ title: 'Configurar pagamento com Payway'
 id: wHkvX7olfPPsAdeFq7obp
 status: PUBLISHED
 createdAt: 2024-03-07T17:04:59.563Z
-updatedAt: 2025-01-09T20:38:09.107Z
-publishedAt: 2025-01-09T20:38:09.107Z
+updatedAt: 2025-08-18T13:51:32.185Z
+publishedAt: 2025-08-18T13:51:32.185Z
 firstPublishedAt: 2024-03-07T19:10:55.092Z
 contentType: tutorial
 productTeam: Financial
@@ -25,7 +25,7 @@ Para configurar o Payway, siga os passos abaixo:
 4. Em __Autorização do provedor__, preencha os campos __Chave de aplicação__ e __Token de aplicação__ com as informações da sua conta Payway.
 5. Caso deseje modificar o nome de identificação a ser exibido para o provedor Payway na tela do Admin VTEX, insira a informação no campo __Nome__ em __Informações básicas__.
 6. Em __Controle de pagamento__, selecione se deseja ativar o provedor em ambiente de teste clicando em __Ativar modo de teste__.
-7. Em __Campos do provedor__, selecione ou preencha os campos __Site ID__, __Api Key Public__, __Api Key Private__, __Payment type__, __Do you use Cybersource?__, __Plan Gobierno__, __Plan Z__, __Límite Superior de Captura Permitido (%)__ e __Límite Inferior de Captura Permitido (%)__ conforme as instruções do provedor.
+7. Em __Campos do provedor__, selecione ou preencha os campos __Site ID__, __Api Key Public__, __Api Key Private__, __Payment type__, __Do you use Cybersource?__, __Cuotas MiPyme__, __Plan Z__, __Límite Superior de Captura Permitido (%)__ e __Límite Inferior de Captura Permitido (%)__ conforme as instruções do provedor.
 8. Clique em `Salvar`.
 
 Para configurar os métodos de pagamento a serem processados pela Payway, acesse [Condições de Pagamento](https://help.vtex.com/pt/tutorial/condicoes-de-pagamento). 

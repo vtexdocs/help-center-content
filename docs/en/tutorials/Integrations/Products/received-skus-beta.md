@@ -143,9 +143,7 @@ Creates a new product in the catalog by associating all the selected SKUs. We re
 4. Complete the Category and Brand fields for each product. If the mapping was previously completed, the fields will be filled automatically.  
 5. Click on `Approve`.  
 
-<div class=”alert alert-info”>
-This action can be applied in the offer tabs **Issues**
-</div>
+> ℹ️ This action can be applied in the offer tabs **Issues**
 
 #### Create new product  
 

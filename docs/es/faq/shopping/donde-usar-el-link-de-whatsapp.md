@@ -1,5 +1,5 @@
 ---
-title: '  Dónde usar el link de WhatsApp'
+title: 'Dónde usar el link de WhatsApp'
 id: 6VbyH573udBQJ3j7kfsWeJ
 status: PUBLISHED
 createdAt: 2022-08-30T17:17:43.877Z

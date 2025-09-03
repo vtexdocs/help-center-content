@@ -3,9 +3,22 @@
     "version": "1.0.0",
     "description": "Content for VTEX Help Center",
     "main": "index.js",
-    "repository": "https://github.com/vtexdocs/dev-portal-content",
+    "repository": "https://github.com/vtexdocs/help-center-content",
     "author": "Júlia Rabello <julia.rabello@vtex.com.br>",
     "license": "MIT",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "release": "standard-version",
+        "release:minor": "standard-version --release-as minor",
+        "release:patch": "standard-version --release-as patch",
+        "release:major": "standard-version --release-as major"
+    },
+    "devDependencies": {
+        "@commitlint/cli": "^19.8.0",
+        "@commitlint/config-conventional": "^19.8.0",
+        "commitlint-plugin-function-rules": "^4.0.1",
+        "standard-version": "^9.5.0"
+    },
     "dependencies": {
         "contentful-management": "^10.35.1",
         "csv-parser": "^3.0.0",

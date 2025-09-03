@@ -1,5 +1,5 @@
 ---
-title: 'Navigation Data Pipeline '
+title: 'Navigation Data Pipeline'
 id: 4X4hK0zdIHN0Xn5x2MLYYd
 status: PUBLISHED
 createdAt: 2024-02-02T17:48:16.639Z

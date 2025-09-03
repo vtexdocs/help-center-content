@@ -3,8 +3,8 @@ title: 'Como funciona a regra de disponibilidade mínima'
 id: tutorials_394
 status: PUBLISHED
 createdAt: 2017-04-27T22:07:07.997Z
-updatedAt: 2019-12-31T15:21:58.911Z
-publishedAt: 2019-12-31T15:21:58.911Z
+updatedAt: 2025-08-26T15:30:31.865Z
+publishedAt: 2025-08-26T15:30:31.865Z
 firstPublishedAt: 2017-04-27T23:03:22.711Z
 contentType: tutorial
 productTeam: Channels
@@ -39,7 +39,7 @@ Essa alteração **não** será notificada.
 **Após a atualização:** 23 itens
 Essa alteração será notificada.
 
-** Antes da atualização:** 15 itens
+**Antes da atualização:** 15 itens
 **Após a atualização:** 2 itens
 Essa alteração será notificada.
 

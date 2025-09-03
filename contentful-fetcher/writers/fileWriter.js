@@ -29,4 +29,17 @@ async function writeMarkdown({
   console.log(`✅ Written: ${path.relative(process.cwd(), fullPath)}`);
 }
 
-module.exports = { writeMarkdown };
+async function writeJSON(filePath, data) {
+  try {
+    await fs.writeFile(filePath, JSON.stringify(data, null, 2), "utf8");
+    console.log(`📝  ${path.relative(process.cwd(), filePath)}`);
+  } catch (err) {
+    if (err.code === "ENOENT") {
+      console.error(`❌ Pasta não existe: ${path.dirname(filePath)}`);
+    } else {
+      throw err; 
+    }
+  }
+}
+
+module.exports = { writeMarkdown, writeJSON };

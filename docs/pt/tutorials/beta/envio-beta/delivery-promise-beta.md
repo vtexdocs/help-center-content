@@ -3,8 +3,8 @@ title: 'Delivery Promise (Beta)'
 id: p9EJH9GgxL0JceA6dBswd
 status: PUBLISHED
 createdAt: 2024-08-22T15:58:58.240Z
-updatedAt: 2025-08-07T15:12:10.078Z
-publishedAt: 2025-08-07T15:12:10.078Z
+updatedAt: 2025-08-29T20:07:18.463Z
+publishedAt: 2025-08-29T20:07:18.463Z
 firstPublishedAt: 2024-08-22T18:57:59.895Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -30,7 +30,6 @@ Este artigo está organizado nas seguintes seções:
 * [Funcionalidades disponíveis](#funcionalidades-disponiveis)
 * [Benefícios](#beneficios)
 * [Requisitos e restrições](#requisitos-e-restricoes)
-* [Perguntas frequentes](#perguntas-frequentes)
 
 ## Funcionalidades disponíveis
 

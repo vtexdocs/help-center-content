@@ -3,8 +3,8 @@ title: 'Eventos disponibles en Audit'
 id: 6r1Mzcu5NmkmmDLJlz9CCZ
 status: PUBLISHED
 createdAt: 2022-06-22T16:05:16.214Z
-updatedAt: 2025-06-12T15:42:48.235Z
-publishedAt: 2025-06-12T15:42:48.235Z
+updatedAt: 2025-08-25T18:20:54.585Z
+publishedAt: 2025-08-25T18:20:54.585Z
 firstPublishedAt: 2022-06-22T16:28:52.801Z
 contentType: tutorial
 productTeam: Master Data
@@ -39,6 +39,7 @@ A continuación, verás la lista de posibles eventos disponibles en [Audit] (htt
 * [Site Editor](#site-editor)
 * [Ad Network](#ad-network)
 * [Tokens de tarjeta](#tokens-de-tarjeta)
+* [Unidades organizativas](#unidades-organizativas)
 
 > ℹ️ Si, en Audit, ves algún evento no incluido en esta lista, por favor, envíanos más información a través de la [página de feedback sobre documentación](https://docs.google.com/forms/d/e/1FAIpQLSfmnotPvPjw-SjiE7lt2Nt3RQgNUe10ixXZmuO2v9enOJReoQ/viewform).
 
@@ -120,6 +121,8 @@ A continuación, verás la lista de posibles eventos disponibles en [Audit] (htt
 | Seller Creation | Creación de seller. | ID del seller. |
 | SKU Seller Binding Activation | Activación de vinculación de SKU. | ID del SKU en seller y ID del seller. |
 | SKU Seller Binding Inactivation | Inactivación de vinculación de SKU. |  ID del SKU en seller y ID del seller. |
+| GiftCard Create | Creación de una tarjeta de regalo nativa. | ID de la tarjeta de regalo e ID del autor de la acción. |
+| GiftCard List All Paged | Consulta del listado de tarjetas de regalo. | ID del autor de la acción y los IDs de las tarjetas de regalo. |
 
 ## Precios
 
@@ -178,6 +181,7 @@ A continuación, verás la lista de posibles eventos disponibles en [Audit] (htt
 | EXPORT_GIFT_CARD | Exportación de tarjetas de regalo. | export-gift-card |
 | EDIT_GIFT_CARD | Edición del valor de la tarjeta de regalo. | add-gift-card-value |
 | CREATE_GIFT_CARD | Creación de tarjeta de regalo. | create-multiple-gift-cards |
+| LIST_CARDS_FROM_API | Búsqueda de tarjetas de regalo nativas. | list-gift-card-api |
 
 ## Checkout
 
@@ -295,3 +299,18 @@ En la columna **Acción**, todos los eventos de Headless CMS también muestran l
 | GetToken | Lectura de un token de tarjeta. | ID del token de tarjeta, perfil del cliente asociado al token y acción realizada. |
 | UpdateToken | Actualización de un token de tarjeta. | ID del token de tarjeta, perfil del cliente asociado al token y acción realizada. |
 | DeleteToken | Eliminación de un token de tarjeta. | ID del token de tarjeta, perfil del cliente asociado al token y acción realizada. |
+
+## Unidades organizativas
+
+| Acción | Descripción del evento | Detalles del evento |
+|---|---|---|
+| RemoveValueFromScope | Eliminación de valores de un alcance de una unidad organizacional. | ID del alcance. |
+| DeleteOrganizationScope | Eliminación de un alcance de una unidad organizacional. | ID del alcance e ID de la unidad organizacional. |
+| DeleteOrganizationScopes | Eliminación de todos los alcances de una unidad organizacional. | ID de la unidad organizacional. |
+| SaveOrganizationUnitScope | Creación de un alcance para una unidad organizacional. | ID del alcance creado e ID de la unidad organizacional. |
+| UpdateOrganizationUnitScope | Actualización de un alcance de una unidad organizacional. | ID del alcance actualizado e ID de la unidad organizacional. |
+| DeleteOrganizationUnit | Eliminación de una unidad organizacional. | ID de la unidad organizacional. |
+| SaveOrganizationUnit | Creación de una unidad organizacional. | ID de la unidad organizacional. |
+| UpdateOrganizationUnit | Actualización del nombre de una unidad organizacional. | ID de la unidad organizacional. |
+| MoveOrganizationUnit | Creación de una jerarquía entre unidades organizacionales. | ID de la unidad organizacional superior e ID de la unidad organizacional inferior. |
+

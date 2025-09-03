@@ -1,5 +1,5 @@
 ---
-title: 'Gerenciamento de tabelas de preços em organizações B2B '
+title: 'Gerenciamento de tabelas de preços em organizações B2B'
 id: 1iNpulqvLT2KJ2fnznpN4L
 status: PUBLISHED
 createdAt: 2024-06-25T18:44:58.230Z

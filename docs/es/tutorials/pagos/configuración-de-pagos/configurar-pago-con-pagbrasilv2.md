@@ -3,8 +3,8 @@ title: 'Configurar pago con PagBrasilV2'
 id: 5ONHAWmRbZpNIDPXCkNJXD
 status: PUBLISHED
 createdAt: 2024-03-13T16:31:07.244Z
-updatedAt: 2024-03-13T22:24:02.876Z
-publishedAt: 2024-03-13T22:24:02.876Z
+updatedAt: 2025-08-25T14:20:54.686Z
+publishedAt: 2025-08-25T14:20:54.686Z
 firstPublishedAt: 2024-03-13T22:21:24.967Z
 contentType: tutorial
 productTeam: Financial
@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-En VTEX es posible la integración con el proveedor de pagos PagBrasilV2. A través de este proveedor, su tienda puede realizar ventas utilizando tarjetas de débito y crédito, boleto, pagarés y PIX.
+En VTEX es posible la integración con el proveedor de pagos PagBrasilV2. A través de este proveedor, su tienda puede realizar ventas utilizando tarjetas de débito y crédito, boleto, carteras digitales, pagarés y PIX.
 
 Para configurar PagBrasilV2, siga los pasos a continuación:
 
@@ -25,13 +25,9 @@ Para configurar PagBrasilV2, siga los pasos a continuación:
 4. En __Autorización del proveedor__, complete los campos __Clave de aplicación__ y __Token de aplicación__ con la información de su cuenta PagBrasilV2.
 5. Si desea modificar el nombre de identificación que se mostrará para el proveedor PagBrasilV2 en la pantalla VTEX Admin, ingrese la información en el campo __Nombre__ en __Información Básica__.
 6. En __External Service Url__ (URL de servicio externo), ingrese la URL externa que se asociará con `/pvt/paids?an={AccountName}`.
-7. En __Implements Installments Service__ (Implementa el servicio de cuotas), seleccione si desea utilizar servicios de cuotas externos o lo que está configurado en el portal. Si elige la opción __Sim__, el sistema utilizará la URL configurada en el campo __Url del servicio de cuotas__ (URL del servicio de cuotas).
-8. En __External Cancellation Service__ (Servicio de cancelación externo), seleccione si se debe utilizar un servicio de cancelación externo. Si elige la opción __Sim__, el sistema accederá a la URL configurada en el campo __External Service Url__ (URL de servicio externo).
-9. En __Installments Service Url__ (URL del servicio de cuotas), ingrese la URL externa que se asociará con `/options`.
-10. En __SoftDescriptor__ (Descripción de la transacción), indica qué información debe aparecer para identificar la transacción realizada en tu tienda.
-11. En __Captura antecipada__, elija durante cuánto tiempo desea que se realice la captura (después de la aprobación de la transacción y el análisis antifraude). Esta función también se puede desactivar.
-12. En __Tem um antifraude contratado com essa afiliação?__ (¿Tiene contratado un agente antifraude con esta afiliación?), indique si desea utilizar un agente antifraude.
-13. Haga clic en __Guardar__.
+7. En __SoftDescriptor__ (Descripción de la transacción), indica qué información debe aparecer para identificar la transacción realizada en tu tienda.
+8. En __Captura antecipada__, elija durante cuánto tiempo desea que se realice la captura (después de la aprobación de la transacción y el análisis antifraude). Esta función también se puede desactivar.
+9. Haga clic en __Guardar__.
 
 Para configurar los métodos de pago a procesar por PagBrasilV2, acceda al [Configurar condiciones de pago](https://help.vtex.com/es/tutorial/condiciones-de-pago--tutorials_455#).
 

@@ -3,8 +3,8 @@ title: 'Setting up payments with PagBankV3'
 id: 5Noi1mUbBQ6CyqdeDQtWfw
 status: PUBLISHED
 createdAt: 2021-12-02T12:14:58.698Z
-updatedAt: 2025-07-16T22:10:10.719Z
-publishedAt: 2025-07-16T22:10:10.719Z
+updatedAt: 2025-08-18T13:11:08.593Z
+publishedAt: 2025-08-18T13:11:08.593Z
 firstPublishedAt: 2021-12-02T19:18:21.251Z
 contentType: tutorial
 productTeam: Financial
@@ -36,7 +36,7 @@ To configure PagBankV3, follow the steps below:
 </ul>
 8. If you want to use [payment split](https://help.vtex.com/en/tutorial/split-payment--6k5JidhYRUxileNolY2VLx) in your store, select the option __Enable payout split and send payment recipients__ and indicate the __Accountable for payment processing charges__ and __Accountable for chargebacks__ (marketplace, sellers or marketplaces and sellers).
 9. In __Provider Fields__, configure the fields __Prazo para captura do pagamento
-__, __Gostaria de ativar o repasse do liable das transações para o seller com maior valor a receber?__, and __Prazo de expiração do QR Code PIX__ according to the provider's instructions.
+__, __Gostaria de ativar o repasse do liable das transações para o seller com maior valor a receber?__, __Prazo de expiração do QR Code PIX__, and __Ativar 3DS__ according to the provider's instructions.
 10. Click __Save__.
 
 > ⚠️ PagBank also offers the option of scheduled automatic capture for up to 5 days. If you wish to use it in your store, follow the steps indicated in this [documentation](https://help.vtex.com/en/known-issues/scheduled-automatic-capture-does-not-appear--1cuvGbgUvd1ATeHEG6Il98).

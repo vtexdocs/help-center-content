@@ -1,5 +1,5 @@
 ---
-title: 'Gerenciamento de Sellers '
+title: 'Gerenciamento de Sellers'
 id: 6eEiOISwxuAWJ8w6MtK7iv
 status: PUBLISHED
 createdAt: 2022-02-01T21:36:48.023Z

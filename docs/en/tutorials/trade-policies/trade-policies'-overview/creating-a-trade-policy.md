@@ -3,12 +3,12 @@ title: 'Creating a trade policy'
 id: 563tbcL0TYKEKeOY4IAgAE
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:49.369Z
-updatedAt: 2024-04-15T21:21:00.376Z
-publishedAt: 2024-04-15T21:21:00.376Z
+updatedAt: 2025-08-27T17:00:49.320Z
+publishedAt: 2025-08-27T17:00:49.320Z
 firstPublishedAt: 2019-01-24T22:14:00.848Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
-author: authors_84
+author: 2p7evLfTcDrhc5qtrzbLWD
 slugEN: creating-a-trade-policy
 legacySlug: what-is-a-sales-policy
 locale: en
@@ -32,7 +32,7 @@ To use the same catalog in more than one trade policy, access the
 
 To [request additional trade policies](https://help.vtex.com/en/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X), contact our Growth Operations team through [VTEX Support](https://help.vtex.com/en/support) by selecting **Commercial** and `Create a trade policy`. When requesting the creation of a trade policy via ticket, consider a response time of up to three business days.
 
-> ℹ️ For the use of additional trade policy to integrate with [native connectors](https://help.vtex.com/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrating-with-a-native-connector-vtex), [certified connectors (partners)](https://help.vtex.com/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrating-with-a-certified-connector-partner), or other VTEX stores to be exempt from fees, orders must be associated with it.
+> ℹ️ A monthly fee is charged for each additional trade policy, whether used for integration with certified, partner, external, or VTEX marketplaces.
 
 ## Learn more
 
