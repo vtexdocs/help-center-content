@@ -13,7 +13,7 @@ trackId: 5PxyAgZrtiYlaYZBTlhJ2A
 trackSlugEN: computer-interfaces
 ---
 
-> ⚠️ The following content explains how to reference interfaces in tutorials and guides. To write copy for interfaces, see the [Interface copy](https://contentguide.vtex.com/docs/user-interfaces) section.
+> ⚠️ The following content explains how to reference interfaces in tutorials and guides. To write copy for interfaces, see the [Interface copy](https://contentguide.vtex.com/docs/interface-copy) section.
 
 ## Placeholders
 Placeholders indicate where dynamic or user-provided information should be added. They help ensure clarity and consistency when referring to variables, parameters, or customizable fields. When documenting placeholders, follow specific formatting rules to ensure readability and consistency.
