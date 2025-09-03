@@ -1,0 +1,102 @@
+---
+title: 'Best practices for opening a ticket to VTEX Support'
+id: 6u4ehk6F0ksuDgYuCbFDRX
+status: PUBLISHED
+createdAt: 2023-03-23T22:00:24.560Z
+updatedAt: 2025-02-27T12:14:39.320Z
+publishedAt: 2025-02-27T12:14:39.320Z
+firstPublishedAt: 2023-03-23T22:57:50.828Z
+contentType: tutorial
+productTeam: Others
+author: 46G4yHIZerH7B9Jo0Iw5KI
+slugEN: writing-an-effective-ticket-to-vtex-support
+legacySlug: writing-an-effective-ticket-to-vtex-support
+locale: en
+subcategoryId: 1yB08KlKzqJOdc0bn38HaY
+---
+
+All clients and partners have access to support provided by the [VTEX support](https://help.vtex.com/en/faq/como-funciona-o-suporte-da-vtex--3kACEfni4m8Yxa1vnf2ebe)  team of experts. To contact them, you need to open a ticket.
+
+Our specialists are qualified to provide the best possible Our experts are trained to provide the best experience possible to solve tickets. However, there are some guidelines you should follow when opening a ticket to ensure a faster and more streamlined process.
+
+Keep in mind that the more context you provide our specialists with, the quicker they'll be able to find a solution to your problem.
+
+This article guides VTEX clients and partners to open tickets with relevant information to speed up the investigation process and reach a faster solution to their problems. It's divided into two sections:
+
+- [Before opening a ticket](#Before-opening-a-ticket)
+- [Completing a ticket](#Completing-a-ticket)
+
+To learn how to open a ticket to VTEX Support, see [Opening tickets to VTEX support](https://help.vtex.com/en/tutorial/opening-chamados-para-o-tickets-to-vtex-support).
+
+## Before opening a ticket
+
+Before opening a ticket, check whether the problem is related to the store's customizations. If the source of the problem is a customization, you'll need to contact your customization team. 
+
+### Cart, Checkout and CMS Stores
+
+It is important to validate whether the scenario occurs without customizing the store. To run this test, disable customizations (JS and CSS) and try to reproduce the error. Learn more about this in the article[Blocking customizations to troubleshoot frontend issues](https://help.vtex.com/en/faq/como-bloquear-customizacoes-para-investigar-problemas-no-front-end-da-loja--5c1a4bvVK8rAvKLczhkCnY).
+
+### Store Framework
+To check if the problem is associated with IO, follow the steps below:
+
+1.	Open the command prompt and log in to your store using the [VTEX IO CLI](https://developers.vtex.com/docs/guides/vtex-io-documentation-vtex-io-cli-installation-and-command-reference).
+2. Access a development workspace by running the following command:
+    ```
+    vtex use {workspace}
+    ```
+3.	If your store has a Store Framework theme installed, uninstall it using the command below:
+    ```
+    vtex uninstall {theme}
+    ```
+
+    > ℹ️ You can check for any installed themes using the `vtex list` command, which lists all the applications installed in the store.
+
+4.	Clone the default Store Framework theme on your computer.
+5.	At the command prompt, access the default theme folder.
+6.	Run the command:
+    ```
+    vtex link
+    ```
+    > ⚠️ If your store doesn't have the Reviews and Ratings app installed, you may receive an error when trying to create the link. To avoid this, remove this app from the `peer dependencies` list in the `manifest.json` file of the default theme.
+
+7.	Access your workspace's storefront using the URL:
+    ```
+    https://{workspace}--{accountName}.myvtex.com
+    ```
+8.	Try to reproduce the error.
+
+If the error does not occur after blocking the files or in the default Store Framework theme, it means that the error is related to the site's customizations. To solve it, you should contact the team responsible for your store's frontend.
+
+## Completing a ticket
+
+If, after following all the troubleshooting steps outlined above, the issue persists, open a ticket with [VTEX Support]((https://help.vtex.com/support?/cultureInfo=pt-br)) following the guidelines in the table below:
+
+| Information | Guidelines |
+| ----------- | ----------- |
+| Subject and problem description |  - Briefly describe the problem or question. Fill in the **Request subject** field concisely and objectively. This helps the specialist team quickly understand the scenario.  - Fill in the **Request subject** field with a complete description of what you noticed, including what the problem is, how it's happening, and where it's occurring. This will help our specialist team investigate and rebuild the scenario. Don't forget to inform them if the steps for reproducing the scenario require any atypical action that needs to be taken or any restricted access permission.   |
+| Evidence | Add any source material that can provide evidence of the problem whenever possible. For example, screenshots or recordings, [HAR files](https://help.vtex.com/en/tutorial/gerar-arquivo-har-para-debugar-problemas-na-loja--15xVlw8nuakk2k6Cao4k2Q), logs generated by the platform, server responses, and the text or ID of the displayed error. |
+| Expected scenario | Provide details of the expected scenario compared to what is happening. |
+| Tests and validations | If you have already tried to solve the problem, detail the actions taken, the documentation consulted, and the results. |
+| Ticket scope |  - Do not address more than one problem in the same ticket.   - Do not create more than one ticket for the same problem.  |
+| Priority | Check the proper priority according to the nature of the problem to apply the correct SLA. |
+
+### Key information per scenario
+
+You can open a ticket due to many scenarios. This section lists the most common ones, along with the basic information required to open a ticket for each.
+
+You can adapt this information to your specific scenario and use it to guide your investigation before opening a ticket.
+
+| Scenario | Information |
+| ----------- | ----------- |
+| Orders |  - Order ID or ` orderForm `.   - The order URL in ** Order Management ** or ** Bridge ** (for orders from marketplaces with native integrations).  |
+| Checkout |  - The shopping cart URL generated by [Cartman](https://help.vtex.com/en/tutorial/configurar-o-cartman--1ACMTStZYkMqB0lTgwg451).   - SKU IDs and postal code for reproducing the cart.   - <a href= "https://help.vtex.com/pt/tutorial/generating-a-har-file--15xVlw8nuakk2k6Cao4k2Q"> HAR </a> for reproducing information about the error.
+| Logistics |  - Seller ID.   - URL of the seller's inventory, loading dock, or carrier.   - Information to simulate delivery, such as SKU IDs and postal codes.  |
+| Payments |  - Transaction ID.   - Transaction link available in your VTEX Admin under * Payments > Transactions. * 
+| VTEX IO |  - The app name and version used.   - Workspace used.   - ZIP file with the [store-theme](https://developers.vtex.com/docs/guides/vtex-io-documentation-3-settingyourstoretheme) if the theme is linked but not installed.  |
+| Promotions |  - Promotion name.   - Promotion URL.   - Product and postal code applicable to the promotion for testing.  |
+| Integrations (applicable to integration partners) |  - Product description and its role at VTEX.   - Your objective before the problem occurred.   - If any VTEX API calls failed: which endpoint was used, the request body, and the response body.   - Affiliate ID and URL (if the problem lies in the integration with an external marketplace). 
+
+#### Learn more
+
+- [Opening tickets to VTEX support](https://help.vtex.com/en/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM)
+- [How does VTEX support work?](https://help.vtex.com/en/faq/como-funciona-o-suporte-da-vtex--3kACEfni4m8Yxa1vnf2ebe)
