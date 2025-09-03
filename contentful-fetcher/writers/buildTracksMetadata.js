@@ -5,7 +5,9 @@ const fs = require("fs");
 const { normalizeFolderName } = require("../utils/normalize");
 const { writeJSON } = require("../writers/fileWriter");
 
-function s(v, fb = "") { return typeof v === "string" ? v.trim() : fb; }
+function s(v, fb = "") {
+  return typeof v === "string" ? v.trim() : fb;
+}
 
 function makeMetadata({ titleEN, titleLO, slugEN, slugLO, order }) {
   return {
@@ -40,9 +42,17 @@ async function buildTracksMetadata(locales) {
       const topicTitleEN = s(topic.fields?.name?.en, "Untitled");
       const topicTitleLO = s(topic.fields?.name?.[locale], topicTitleEN);
       const topicSlugEN = normalizeFolderName(topicTitleEN);
-      const topicSlugLO = normalizeFolderName(topicTitleLO);
+      const topicSlugLO = normalizeFolderName(topicTitleLO, locale);
 
-      const topicFolder = path.join(__dirname, "..", "..", "docs", locale, "tracks", topicSlugLO);
+      const topicFolder = path.join(
+        __dirname,
+        "..",
+        "..",
+        "docs",
+        locale,
+        "tracks",
+        topicSlugLO
+      );
       const topicMeta = makeMetadata({
         titleEN: topicTitleEN,
         titleLO: topicTitleLO,
@@ -60,18 +70,25 @@ async function buildTracksMetadata(locales) {
         const trackEntry = await fetchLinkedEntry(trackId);
         if (!trackEntry) continue;
 
-        const titleEN = s(trackEntry.fields?.title?.en, s(trackEntry.fields?.name?.en, "Untitled"));
-        const titleLO = s(trackEntry.fields?.title?.[locale], s(trackEntry.fields?.name?.[locale], titleEN));
+        const titleEN = s(
+          trackEntry.fields?.title?.en,
+          s(trackEntry.fields?.name?.en, "Untitled")
+        );
+        const titleLO = s(
+          trackEntry.fields?.title?.[locale],
+          s(trackEntry.fields?.name?.[locale], titleEN)
+        );
 
         const slugEN = normalizeFolderName(
           s(trackEntry.fields?.trackSlug?.en) ||
-          s(trackEntry.fields?.slug?.en) ||
-          titleEN
+            s(trackEntry.fields?.slug?.en) ||
+            titleEN
         );
         const slugLO = normalizeFolderName(
           s(trackEntry.fields?.trackSlug?.[locale]) ||
-          s(trackEntry.fields?.slug?.[locale]) ||
-          titleLO
+            s(trackEntry.fields?.slug?.[locale]) ||
+            titleLO,
+          locale
         );
 
         const perTrackOrder =
@@ -79,7 +96,7 @@ async function buildTracksMetadata(locales) {
           Number(trackEntry.fields?.position) ||
           null;
 
-        const order = Number.isFinite(perTrackOrder) ? perTrackOrder : (j + 1);
+        const order = Number.isFinite(perTrackOrder) ? perTrackOrder : j + 1;
 
         const trackMeta = makeMetadata({
           titleEN,

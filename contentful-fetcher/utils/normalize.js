@@ -8,8 +8,16 @@ function normalizeFileName(str) {
     .toLowerCase();
 }
 
-function normalizeFolderName(name) {
-  return name.trim().toLowerCase().replace(/\s+/g, "-").replace(":", "").replace("(", "").replace(")", "");
+function normalizeFolderName(name, locale = "en") {
+  const and = locale === "pt" ? "e" : locale === "es" ? "y" : "and";
+  return name
+    .trim()
+    .toLowerCase()
+    .replace(/\s+/g, "-")
+    .replace(":", "")
+    .replace("(", "")
+    .replace(")", "")
+    .replace(/&/g, and);
 }
 
 function yamlSafeString(value) {

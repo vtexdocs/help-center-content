@@ -59,7 +59,7 @@ async function buildTutorialsMetadata(locales) {
       const catTitleLO = safeStr(cat.fields?.title?.[locale], catTitleEN);
 
       const catSlugEN = normalizeFolderName(catTitleEN);
-      const catSlugLO = normalizeFolderName(catTitleLO);
+      const catSlugLO = normalizeFolderName(catTitleLO, locale);
 
       const catMeta = makeMetadata({
         titleEN: catTitleEN,
@@ -101,7 +101,7 @@ async function buildTutorialsMetadata(locales) {
         const subTitleLO = safeStr(sub.fields?.title?.[locale], subTitleEN);
 
         const subSlugEN = normalizeFolderName(subTitleEN);
-        const subSlugLO = normalizeFolderName(subTitleLO);
+        const subSlugLO = normalizeFolderName(subTitleLO, locale);
 
         const subMeta = makeMetadata({
           titleEN: subTitleEN,
@@ -154,7 +154,7 @@ async function buildTroubleshootingMetadata(locales = ["en", "pt", "es"]) {
 
   for (const locale of locales) {
     const catTitleLO = safeStr(troubleCat.fields?.title?.[locale], catTitleEN);
-    const catSlugLO = normalizeFolderName(catTitleLO);
+    const catSlugLO = normalizeFolderName(catTitleLO, locale);
 
     // pasta raiz de troubleshooting nesse locale
     const baseFolder = path.join(
@@ -195,7 +195,7 @@ async function buildTroubleshootingMetadata(locales = ["en", "pt", "es"]) {
       const subTitleLO = safeStr(sub.fields?.title?.[locale], subTitleEN);
 
       const subSlugEN = normalizeFolderName(subTitleEN);
-      const subSlugLO = normalizeFolderName(subTitleLO);
+      const subSlugLO = normalizeFolderName(subTitleLO, locale);
 
       const subMeta = makeMetadata({
         titleEN: subTitleEN,
@@ -328,7 +328,7 @@ async function buildAnnouncementsMetadata(locales = ["en", "pt", "es"]) {
       monthsDesc.forEach((m, mIdx) => {
         const nameLO = localizedMonthName(year, m, locale);
         const idEN = `${year}-${monthIdEN(year, m)}`;
-        const slugLO = normalizeFolderName(nameLO);
+        const slugLO = normalizeFolderName(nameLO, locale);
 
         writeJSON(
           path.join(__dirname, "..", "docs", locale, "announcements", year, slugLO, "metadata.json"),
