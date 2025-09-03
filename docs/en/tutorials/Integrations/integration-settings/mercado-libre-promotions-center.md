@@ -21,7 +21,7 @@ By clicking a promotion from the list, the seller can use the search bar to find
 
 To access the **Promotions** page in the VTEX Admin, go to **Marketplace > Mercado Libre > Promotions.**  
 
-![Central de Promoções Mercado Livre](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/integration-settings/mercado-libre-promotions-center_1.gif)
+![Central de Promoções Mercado Livre](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/integrations/integration-settings/mercado-libre-promotions-center_1.gif)
 
 ## Promotion types
 
@@ -71,15 +71,18 @@ To remove a product from the campaign, follow the steps below:
 1. Select the checkbox <a class="far fa-check-square" aria-hidden="true"></a> next to the **Offer** you want to remove from the campaign.  
 2. Click the <i class="far fa-trash-alt" aria-hidden="true"></i> icon.  
 3. In the confirmation pop-up, click the `Confirm` button.  
-
-> ℹ️ Offers removed from the campaign will be listed in the **Candidates** section and can be included again.
+<div class=”alert alert-info”>
+Offers removed from the campaign will be listed in the **Candidates** section and can be included again.
+</div>
 
 ### Co-funded
 
 In this type of campaign, Mercado Libre covers a percentage of the discount offered on the platform. The marketplace offers X% off, and the seller offers Y%. So customers receive a total discount of X+Y%.  
 Mercado Libre defines the discount percentage that each party should provide for a product. The seller can choose whether to include the product in the promotion.
 
-> ℹ️ The discount percentage can't be changed.
+<div class="alert-info">
+The discount percentage can't be changed.
+</div>  
 
 When you click a **Co-funded** campaign, three sections are displayed:  
 
@@ -204,7 +207,9 @@ When the campaign status changes to **Started,** all the offers listed in this s
 
 In the **Participating** section, the offers configured to participate in a campaign with the **Started** status will be listed.
 
-> ℹ️ In this type of campaign, offers can't be removed.
+<div class=”alert alert-info”>
+In this type of campaign, offers can't be removed.
+</div>
 
 ### Lightning deals
 
@@ -230,7 +235,9 @@ When the campaign status changes to **Started,** all the offers listed in this s
 
 In the **Participating** section, the offers configured to participate in a campaign with the **Started** status will be listed.  
 
-> ℹ️ In this type of campaign, offers with the **Started** status can't be removed.
+<div class=”alert alert-info”>
+In this type of campaign, offers with the **Started** status can't be removed.
+</div>
 
 ### Automated co-participation
 
@@ -325,7 +332,9 @@ To remove a product from the campaign, follow the steps below:
 2. Click the <i class="far fa-trash-alt" aria-hidden="true"></i> icon.  
 3. In the confirmation pop-up, click the `Confirm` button.  
 
-> ℹ️ In this type of campaign, if an offer is removed, it can't be included again.
+<div class=”alert alert-info”>
+In this type of campaign, if an offer is removed, it can't be included again.
+</div>
 
 ### Seller campaigns
 

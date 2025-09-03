@@ -21,7 +21,7 @@ Detecting and resolving these errors is crucial to ensuring a smooth user experi
 
 The Rendering Error page automatically attempts to reconnect every 10 seconds without user intervention, increasing the chances of resolving issues quickly.
 
-![Tela erro - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Operational/vtex-admin/visualization-of-vtex-admin-rendering-errors_1.png)
+![Tela erro - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/operational/vtex-admin/visualization-of-vtex-admin-rendering-errors_1.png)
 
 ## How to view rendering error details
 
@@ -32,4 +32,4 @@ Technical details of rendering errors are available in the browser console, simp
 3. Go to the **Console** tab to view the log messages and errors recorded by the browser.
 4. In the Console, look for lines highlighted in red. These indicate error messages and components or pages that were not loaded or processed correctly.
 
-![devtools - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Operational/vtex-admin/visualization-of-vtex-admin-rendering-errors_2.gif)
+![devtools - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/operational/vtex-admin/visualization-of-vtex-admin-rendering-errors_2.gif)

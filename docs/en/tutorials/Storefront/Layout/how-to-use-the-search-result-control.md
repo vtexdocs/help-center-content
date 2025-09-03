@@ -44,14 +44,14 @@ See below the list of all attributes of the Search Result control:
 
 The code rendered by the Search Result control has the following structure by default:
 
-![searchResult1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Storefront/Layout/how-to-use-the-search-result-control_1.jpg) 
+![searchResult1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/layout/how-to-use-the-search-result-control_1.jpg) 
 
 And the corresponding elements that are rendered by the control in its non-customized version follow the pattern below:
 
-![searchResult2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Storefront/Layout/how-to-use-the-search-result-control_2.jpg) 
+![searchResult2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/layout/how-to-use-the-search-result-control_2.jpg) 
 
-![searchResult3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Storefront/Layout/how-to-use-the-search-result-control_3.jpg) 
+![searchResult3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/layout/how-to-use-the-search-result-control_3.jpg) 
 
-![searchResult4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Storefront/Layout/how-to-use-the-search-result-control_4.jpg) 
+![searchResult4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/layout/how-to-use-the-search-result-control_4.jpg) 
 
-![searchResult5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Storefront/Layout/how-to-use-the-search-result-control_5.jpg)
+![searchResult5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/layout/how-to-use-the-search-result-control_5.jpg)

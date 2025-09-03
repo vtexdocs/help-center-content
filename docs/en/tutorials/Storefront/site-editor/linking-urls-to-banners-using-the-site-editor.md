@@ -19,7 +19,7 @@ You can configure one of your store’s banners to redirect users to a page of y
 
 ## Internal URLs
 
-![internal-url](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Storefront/site-editor/linking-urls-to-banners-using-the-site-editor_1.png)
+![internal-url](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/site-editor/linking-urls-to-banners-using-the-site-editor_1.png)
 
 1. In the VTEX Admin, access **Storefront > Site Editor**.
 2. Select a __Carousel__ block and choose the banner whose content you want to edit.
@@ -33,7 +33,7 @@ The *Banner target page* and *Params* fields have been deprecated. Therefore, th
 
 ## External URLs
 
-![external-url](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Storefront/site-editor/linking-urls-to-banners-using-the-site-editor_2.png)
+![external-url](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/site-editor/linking-urls-to-banners-using-the-site-editor_2.png)
 
 1. In the VTEX Admin, access **Storefront > Site Editor**.
 2. Select a __Carousel__ block and choose the banner whose content you want to edit.

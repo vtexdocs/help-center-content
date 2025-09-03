@@ -3,8 +3,8 @@ title: 'Como configurar Assinaturas na sua loja'
 id: 1FA9dfE7vJqxBna9Nft5Sj
 status: PUBLISHED
 createdAt: 2019-01-31T16:00:03.228Z
-updatedAt: 2025-04-14T19:50:59.696Z
-publishedAt: 2025-04-14T19:50:59.696Z
+updatedAt: 2025-09-02T18:16:03.375Z
+publishedAt: 2025-09-02T18:16:03.375Z
 firstPublishedAt: 2019-01-31T16:01:57.927Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -34,7 +34,7 @@ Para ativar a funcionalidade será necessário:
 
 Para instalar o módulo de Assinaturas, você precisar abrir uma solicitação com o [nosso suporte](https://support.vtex.com/hc/pt-br/), indicando o nome da conta VTEX e selecionando a opção **Técnico**.
 
-A previsão de resposta da solicitação é de até 24 horas, seguindo [nosso SLA de atendimento] (https://help.vtex.com/pt/tutorial/suporte-vtex-brasil--bxOl9e62rq0ZZMsGodchd).
+A previsão de resposta da solicitação é de até 24 horas, seguindo [nosso SLA de atendimento](https://help.vtex.com/pt/tutorial/suporte-vtex-brasil--bxOl9e62rq0ZZMsGodchd).
 
 ## 2. Configurar meios de pagamento
 

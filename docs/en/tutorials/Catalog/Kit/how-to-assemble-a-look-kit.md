@@ -33,13 +33,13 @@ Differences between kit and kit look:
 
 This term is widely known in the Fashion Segment. A Kit Look is a way through which you can buy several products viewing only one product screen. 
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/Kit/how-to-assemble-a-look-kit_1.gif)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/kit/how-to-assemble-a-look-kit_1.gif)
 
 In the layout above, it is possible to choose the kit items the customer would like to buy and then click on “Comprar Produtos Selecionados”.
 
 Alternatively, if you prefer, you may buy the complete kit, with all selected items.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/Kit/how-to-assemble-a-look-kit_2.gif)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/kit/how-to-assemble-a-look-kit_2.gif)
 
 In this layout, for each item there is a button “Comprar Separadamente”.
 

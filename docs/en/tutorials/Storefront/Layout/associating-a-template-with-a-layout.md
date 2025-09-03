@@ -35,4 +35,4 @@ This association is made in the layout properties setting. To get there, follow 
 6. Select the template you want to associate with this layout.
 7. Type `yes` to confirm the change (this step is necessary because this is a critical change for the site, as the page's front-end will be replaced).
 
-![CMS 4 1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Storefront/Layout/associating-a-template-with-a-layout_1.png)
+![CMS 4 1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/layout/associating-a-template-with-a-layout_1.png)

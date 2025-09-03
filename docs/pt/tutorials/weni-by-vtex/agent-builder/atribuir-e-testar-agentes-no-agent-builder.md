@@ -3,8 +3,8 @@ title: 'Atribuir e testar agentes no Agent Builder'
 id: 41beBpRcBouxMywt6dUW2z
 status: PUBLISHED
 createdAt: 2025-07-09T18:14:18.864Z
-updatedAt: 2025-07-29T18:31:07.158Z
-publishedAt: 2025-07-29T18:31:07.158Z
+updatedAt: 2025-09-03T20:22:14.746Z
+publishedAt: 2025-09-03T20:22:14.746Z
 firstPublishedAt: 2025-07-29T16:38:35.307Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -19,7 +19,7 @@ A seção **Agentes** permite que o usuário atribua agentes ao time e teste-os.
 
 Alguns agentes oficiais pedem credenciais. Veja a lista completa no artigo [Agentes oficiais da Weni by VTEX](https://help.vtex.com/pt/tutorial/agentes-oficiais-da-weni-by-vtex--7E8wlD3T41CiOexDVH1SIy).
 
-> ℹ️ Para criar agentes customizados, use o CLI da Weni by VTEX. Confira a <a href=”https://weni-ai.github.io/weni-cli/getting-started/installation/”>documentação</a> para criar seu próprio agente.
+> ℹ️ Para criar agentes customizados, use o CLI da Weni by VTEX. Confira a [documentação](https://weni-ai.github.io/weni-cli/getting-started/installation/) para criar seu próprio agente.
 
 Este artigo está dividido em duas partes:
 

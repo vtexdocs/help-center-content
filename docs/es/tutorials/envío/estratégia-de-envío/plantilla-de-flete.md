@@ -3,8 +3,8 @@ title: 'Plantilla de flete'
 id: tutorials_127
 status: PUBLISHED
 createdAt: 2019-02-22T19:36:18.509Z
-updatedAt: 2024-11-13T19:09:02.477Z
-publishedAt: 2024-11-13T19:09:02.477Z
+updatedAt: 2025-09-03T20:19:15.421Z
+publishedAt: 2025-09-03T20:19:15.421Z
 firstPublishedAt: 2019-02-22T19:36:22.375Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -41,137 +41,20 @@ En general, debe completar las columnas teniendo en cuenta que para cada lugar h
 
 Vea la siguiente tabla para entender cada campo en detalle.
 
-<table class="w-100 center mv7 bb b--gray" style="border-spacing: 0px; border-collapse: collapse;">
-    <thead class="w-100 center mv7 bb b--gray" style="border-spacing: 0px; border-collapse: collapse;">
-        <tr class="t-body fw5 c-muted-1 bb bw1 pa2 pb3 b--muted-3 tl">
-            <th class="t-body fw5 c-muted-1 bb bw1 pa2 pb3 b--muted-3 tl">
-                <em class="i">**Columna**</b>
-            </th>
-            <th class="t-body fw5 c-muted-1 bb bw1 pa2 pb3 b--muted-3 tl">
-                <em class="i">Descripción</b>
-            </th>
-            <th class="t-body fw5 c-muted-1 bb bw1 pa2 pb3 b--muted-3 tl">
-                <em class="i">Observaciones</b>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr class="bb b--muted-3">
-            <td class="t-body pa5" style="min-width: 15rem;">
-                <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">ZipCodeStart</span>
-            </td>
-            <td class="t-body pa5" style="min-width: 15rem;">Inicio del rango de código postal (ZIP). 
-            </td>
-            <td rowspan="2" class="t-body pa5" style="min-width: 15rem;">Solo se debe completar los rangos de código si el campo **PolygonName** no está rellenado, ya que son datos de función equivalentes.
-            
-            Los campos deben contener hasta 8 dígitos. No se debe utilizar caracteres especiales, solo números y letras. Es necesario completar los campos según las reglas a continuación:
-                <body>
-                  <ul>
-                    <li>Para intervalos numéricos, los valores aceptados van de <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">0000000<span> a <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">99999999</span>.
-                    <li>Para intervalos alfabéticos, los valores aceptados van de <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">AAAAAAAA</span> a <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">ZZZZZZZZZ</span>.
-                    <li>Para intervalos alfanuméricos, el valor máximo es 
-<span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">ZZZZZZZZ</span>.</li>
-                  </ul>
-                </body>  
-            </td>
-        </tr>
-        <tr class="bb b--muted-3">
-            <td class="t-body pa5" style="min-width: 15rem;">
-                <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">ZipCodeEnd</span>
-            </td>
-            <td class="t-body pa5" style="min-width: 15rem;">Fin del rango del código postal (ZIP).
-            </td>
-        </tr>
-        <tr class="bb b--muted-3">
-            <td class="t-body pa5" style="min-width: 15rem;">
-                <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">PolygonName</span>
-            </td>
-            <td class="t-body pa5" style="min-width: 15rem;">Identificación del polígono definido en la función de [geolocalización.](https://help.vtex.com/es/tutorial/gerenciar-geolocalizacao/)
-            </td>
-            <td class="t-body pa5" style="min-width: 15rem;">Para utilizar geolocalización, después de rellenar la columna **PolygonName** con los valores deseados, rellene las columnas **ZipCodeStart** y **ZipCodeEnd** con el valor `0`.Este campo solo se tiene que completar si los campos **ZipCodeStart** y **ZipCodeEnd** no están rellenados, ya que son datos de función equivalentes.
-            </td>
-        </tr>
-    <tr class="bb b--muted-3">
-            <td class="t-body pa5" style="min-width: 15rem;">
-                <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">WeightStart</span>
-            </td>
-            <td class="t-body pa5" style="min-width: 15rem;">Límite de inicio del rango de peso aceptado, expresado en número decimal.
-            </td>
-            <td rowspan="2" class="t-body pa5" style="min-width: 15rem;"> Tenga en cuenta que la unidad de peso es la misma que se utiliza para rellenar los campos de registro de SKU. Por ejemplo, si utilizó gramos al [ registrar los SKU](https://help.vtex.com/es/tutorial/campos-de-cadastro-de-sku--21DDItuEQc6mseiW8EakcY), ese será el estándar que se debe utilizar en **WeightStart** y **WeightEnd**. 
-            </td>
-        </tr>
-        <tr class="bb b--muted-3">
-            <td class="t-body pa5" style="min-width: 15rem;">
-                <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">WeightEnd</span>
-            </td>
-            <td class="t-body pa5" style="min-width: 15rem;">Límite de fin del rango de peso aceptado, expresado en número decimal.
-            </td>
-        </tr>
-  <tr class="bb b--muted-3">
-            <td class="t-body pa5" style="min-width: 15rem;">
-                <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">AbsoluteMoneyCost</span>
-            </td>
-            <td class="t-body pa5" style="min-width: 15rem;">Valor fijo de flete que se deberá cobrar, expresado en número decimal.
-            </td>
-            <td class="t-body pa5" style="min-width: 15rem;">En caso de que haya valores adicionales, el precio final que se cobre será el valor fijo sumado al valor adicional. 
-            </td>
-        </tr>
-  <tr class="bb b--muted-3">
-            <td class="t-body pa5" style="min-width: 15rem;">
-                <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">PricePercent</span>
-            </td>
-            <td class="t-body pa5" style="min-width: 15rem;"> [ Adicional de precio](https://help.vtex.com/es/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV), calculado según el precio de los productos en el carrito y expresado en número decimal. Para rellenar la tabla, utilice el valor en porcentaje. Por ejemplo, para un 10% adicional, complete la tabla con el número 10.
-            </td>
-            <td class="t-body pa5" style="min-width: 15rem;"> Utilice este campo en los casos en que haya un costo adicional en el precio de la entrega. Los [ adicionales de flete ](https://help.vtex.com/es/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV) se suman al valor fijo.
-            </td>
-        </tr>
-  <tr class="bb b--muted-3">
-            <td class="t-body pa5" style="min-width: 15rem;">
-                <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">PriceByExtraWeight</span>
-            </td>
-            <td class="t-body pa5" style="min-width: 15rem;">[Adicional por peso](https://help.vtex.com/es/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV), calculado según el peso del carrito, expresado en número decimal. 
-            </td>
-            <td class="t-body pa5" style="min-width: 15rem;"> Utilice este campo en los casos en que haya un costo adicional en el precio de la entrega. Los [ adicionales de flete](https://help.vtex.com/es/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV) se suman al valor fijo. Tenga en cuenta que la unidad de peso es la misma que se utiliza para rellenar los campos de [registro de SKU ](https://help.vtex.com/es/tutorial/campos-de-cadastro-de-sku--21DDItuEQc6mseiW8EakcY) (por ejemplo: gramo, kilogramo y oz).
-            </td>
-        </tr>
-  <tr class="bb b--muted-3">
-            <td class="t-body pa5" style="min-width: 15rem;">
-                <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">MaxVolume</span>
-            </td>
-            <td class="t-body pa5" style="min-width: 15rem;">Volumen máximo aceptado, expresado en número decimal.
-            </td>
-            <td class="t-body pa5" style="min-width: 15rem;"> Tenga en cuenta que la unidad de volumen está relacionada con las dimensiones registradas en [ rellenar los campos de registro de SKU](https://help.vtex.com/en/tutorial/campos-de-cadastro-de-sku--21DDItuEQc6mseiW8EakcY). Por ejemplo, si las aristas (altura, anchura y longitud) están en centímetros, el campo **MaxVolume** debe estar en cm³.
-            </td>
-        </tr>
-  <tr class="bb b--muted-3">
-            <td class="t-body pa5" style="min-width: 15rem;">
-                <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">TimeCost</span>
-            </td>
-            <td class="t-body pa5" style="min-width: 15rem;">Tiempo de entrega del pedido que emplea la transportadora, en formato **DD.HH:MM:SS**.
-            </td>
-            <td class="t-body pa5" style="min-width: 15rem;"> Por ejemplo: si el tiempo para realizar la entrega es de 4 días y medio, el campo se debe completar de la siguiente forma: 04.12:00:00.
-            </td>
-        </tr>
-  <tr class="bb b--muted-3">
-            <td class="t-body pa5" style="min-width: 15rem;">
-                <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">Country</span>
-            </td>
-            <td class="t-body pa5" style="min-width: 15rem;">País donde se realizará la entrega, se completa con el código ISO de 3 dígitos.
-            </td>
-            <td class="t-body pa5" style="min-width: 15rem;"> Para consultar el código ISO del país, acceda a [Country Codes](https://countrycode.org/). Codes.
-            </td>
-        </tr>
-  <tr class="bb b--muted-3">
-            <td class="t-body pa5" style="min-width: 15rem;">
-                <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">MinimumValueInsurance</span>
-            </td>
-            <td class="t-body pa5" style="min-width: 15rem;">[ Valor adicional de seguro](https://help.vtex.com/es/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV), configurado con un valor absoluto, expresado en número decimal.
-            </td>
-            <td class="t-body pa5" style="min-width: 15rem;"> El valor registrado en el campo se añade al valor del flete. Sin embargo, solo se añadirá cuando el [Adicional de precio](https://help.vtex.com/es/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV) sea menor que el campo  **MinimumValueInsurance**. Vea [ ¿Para qué sirve el campo Minimum Value Insurance?](https://help.vtex.com/en/faq/para-que-serve-o-campo-na-tabela-de-frete-minimum-value-insurance).
-            </td>
-        </tr>
-</tbody>
-</table>
+| **Columna**            | **Descripción**                                                                                                                                                  | **Observaciones**                                                                                                                                                                                                                                                                                                                                                           |
+|-------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `ZipCodeStart`          | Inicio del rango de código postal (ZIP).                                                                                                                         | Solo se debe completar los rangos de código si el campo **PolygonName** no está rellenado, ya que son datos de función equivalentes.<br>Los campos deben contener hasta 8 dígitos. No se debe utilizar caracteres especiales, solo números y letras.<br>Es necesario completar los campos según las reglas a continuación:<br>- Para intervalos numéricos, los valores aceptados van de `0000000` a `99999999`.<br>- Para intervalos alfabéticos, los valores aceptados van de `AAAAAAAA` a `ZZZZZZZZZ`.<br>- Para intervalos alfanuméricos, el valor máximo es `ZZZZZZZZ`. |
+| `ZipCodeEnd`            | Fin del rango del código postal (ZIP).                                                                                                                           | (Ver observaciones de **ZipCodeStart**)                                                                                                                                                                                                                                                                                                                                    |
+| `PolygonName`           | Identificación del polígono definido en la función de [geolocalización](https://help.vtex.com/es/tutorial/gerenciar-geolocalizacao/).                            | Para utilizar geolocalización, después de rellenar la columna **PolygonName** con los valores deseados, rellene las columnas **ZipCodeStart** y **ZipCodeEnd** con el valor `0`.<br>Este campo solo se tiene que completar si los campos **ZipCodeStart** y **ZipCodeEnd** no están rellenados, ya que son datos de función equivalentes.                                |
+| `WeightStart`           | Límite de inicio del rango de peso aceptado, expresado en número decimal.                                                                                        | Tenga en cuenta que la unidad de peso es la misma que se utiliza para rellenar los campos de registro de SKU. Por ejemplo, si utilizó gramos al [registrar los SKU](https://help.vtex.com/es/tutorial/campos-de-cadastro-de-sku--21DDItuEQc6mseiW8EakcY), ese será el estándar que se debe utilizar en **WeightStart** y **WeightEnd**.                                   |
+| `WeightEnd`             | Límite de fin del rango de peso aceptado, expresado en número decimal.                                                                                           | (Ver observaciones de **WeightStart**)                                                                                                                                                                                                                                                                                                                                    |
+| `AbsoluteMoneyCost`     | Valor fijo de flete que se deberá cobrar, expresado en número decimal.                                                                                           | En caso de que haya valores adicionales, el precio final que se cobre será el valor fijo sumado al valor adicional.                                                                                                                                                                                                                                                       |
+| `PricePercent`          | [Adicional de precio](https://help.vtex.com/es/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV), calculado según el precio de los productos en el carrito y expresado en número decimal. Para rellenar la tabla, utilice el valor en porcentaje. Por ejemplo, para un 10% adicional, complete la tabla con el número 10. | Utilice este campo en los casos en que haya un costo adicional en el precio de la entrega. Los [adicionales de flete](https://help.vtex.com/es/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV) se suman al valor fijo.                                                                                                                                               |
+| `PriceByExtraWeight`    | [Adicional por peso](https://help.vtex.com/es/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV), calculado según el peso del carrito, expresado en número decimal. | Utilice este campo en los casos en que haya un costo adicional en el precio de la entrega. Los [adicionales de flete](https://help.vtex.com/es/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV) se suman al valor fijo.<br>Tenga en cuenta que la unidad de peso es la misma que se utiliza para rellenar los campos de [registro de SKU](https://help.vtex.com/es/tutorial/campos-de-cadastro-de-sku--21DDItuEQc6mseiW8EakcY). |
+| `MaxVolume`             | Volumen máximo aceptado, expresado en número decimal.                                                                                                            | Tenga en cuenta que la unidad de volumen está relacionada con las dimensiones registradas en [registro de SKU](https://help.vtex.com/en/tutorial/campos-de-cadastro-de-sku--21DDItuEQc6mseiW8EakcY).<br>Por ejemplo, si las aristas (altura, anchura y longitud) están en centímetros, el campo **MaxVolume** debe estar en cm³.                                         |
+| `TimeCost`              | Tiempo de entrega del pedido que emplea la transportadora, en formato **DD.HH:MM:SS**.                                                                           | Por ejemplo: si el tiempo para realizar la entrega es de 4 días y medio, el campo se debe completar de la siguiente forma: `04.12:00:00`.                                                                                                                                                                                                                                |
+| `Country`               | País donde se realizará la entrega, se completa con el código ISO de 3 dígitos.                                                                                   | Para consultar el código ISO del país, acceda a [Country Codes](https://countrycode.org/).                                                                                                                                                                                                                                                                                 |
+| `MinimumValueInsurance` | [Valor adicional de seguro](https://help.vtex.com/es/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV), configurado con un valor absoluto, expresado en número decimal. | El valor registrado en el campo se añade al valor del flete. Sin embargo, solo se añadirá cuando el [Adicional de precio](https://help.vtex.com/es/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV) sea menor que el campo **MinimumValueInsurance**.<br>Vea [¿Para qué sirve el campo Minimum Value Insurance?](https://help.vtex.com/en/faq/para-que-serve-o-campo-na-tabela-de-frete-minimum-value-insurance). |
 
 > ℹ️ Para facilitar el uso de los términos en nuestra documentación utilizamos «peso» en vez de «masa».  
 

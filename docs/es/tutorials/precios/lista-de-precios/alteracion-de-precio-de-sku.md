@@ -3,8 +3,8 @@ title: 'Alterar precio de SKU'
 id: tutorials_95
 status: PUBLISHED
 createdAt: 2017-04-27T22:19:48.759Z
-updatedAt: 2024-01-05T17:59:41.793Z
-publishedAt: 2024-01-05T17:59:41.793Z
+updatedAt: 2025-09-02T16:03:25.468Z
+publishedAt: 2025-09-02T16:03:25.468Z
 firstPublishedAt: 2017-04-27T23:00:42.506Z
 contentType: tutorial
 productTeam: Marketing & Merchandising

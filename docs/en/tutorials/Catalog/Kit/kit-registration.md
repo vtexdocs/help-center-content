@@ -26,7 +26,7 @@ A kit may or may not allow for its components to be sold separately. See the dif
 
 To set up the kit, all its products – that is, its components – must have already been created. See the example below:
 
-![01-components EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/Kit/kit-registration_1.png)
+![01-components EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/kit/kit-registration_1.png)
 
 After creating all component products, we can move on to defining the kit’s settings.
 
@@ -37,7 +37,7 @@ After creating all component products, we can move on to defining the kit’s se
 5. If you would like a look kit, click on the option __Bundle with SKUs sold separately__.
 6. Click on `Save`.
 
-![02-kit EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/Kit/kit-registration_2.png)
+![02-kit EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/kit/kit-registration_2.png)
 
 ## Associating components
 
@@ -52,9 +52,9 @@ After the kit product has been created, you must associate the components, accor
 7. Enter the SKU unit price inside the kit.
 6. Click on `Save`.
 
-![03-add component to kit EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/Kit/kit-registration_3.gif)
+![03-add component to kit EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/kit/kit-registration_3.gif)
 
-![04-kit in cart ALL](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/Kit/kit-registration_4.png)
+![04-kit in cart ALL](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/kit/kit-registration_4.png)
 
 ## Kit Weight
 
@@ -81,7 +81,7 @@ You may only change the final price of the kit by directly accessing the pricing
 Please note that any change in any component will generate a new final price, updating what had been previously registered. 
 
 Merely changing the final price will not update the price of the components.
-![06-price list EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/Kit/kit-registration_5.png)
+![06-price list EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/kit/kit-registration_5.png)
 
 ### Learn more
 

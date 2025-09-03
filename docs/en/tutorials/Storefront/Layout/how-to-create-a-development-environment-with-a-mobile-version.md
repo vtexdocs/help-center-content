@@ -38,7 +38,7 @@ To develop a mobile version for a new website, you must proceed as follows:
 
 Storefront > Layout > CMS folder > Sites and Channels > New Website
 
-![cms-new-website](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Storefront/Layout/how-to-create-a-development-environment-with-a-mobile-version_1.png)
+![cms-new-website](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/layout/how-to-create-a-development-environment-with-a-mobile-version_1.png)
 
 3. Create a folder structure for the Mobile website: at this stage, you will have to create the default system folders to be used in the mobile version (search, department, category, brand, product etc.)
 

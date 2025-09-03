@@ -25,9 +25,9 @@ To do this, in the VTEX Admin, access **Storefront > Layout > CMS** and click on
 
 The button is in the upper right corner, as shown in the image below.
 
-!![copiar layout](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Storefront/Layout/copying-a-layout-from-one-web-site-to-another_1.png)
+!![copiar layout](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/layout/copying-a-layout-from-one-web-site-to-another_1.png)
 The system will ask you which web site you want to copy the layout to.
 
 Select the web site and click __Copy Layout__.
 
-![copyLayout2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Storefront/Layout/copying-a-layout-from-one-web-site-to-another_2.png)
+![copyLayout2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/layout/copying-a-layout-from-one-web-site-to-another_2.png)

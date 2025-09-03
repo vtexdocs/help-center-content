@@ -19,7 +19,7 @@ The **Invoices** feature allows sellers to [filter](#filters) and export invoice
 
 To access the page, go to the **VTEX Admin > Marketplace > Amazon > Invoices** or type **Invoices** in the search bar. The following page will open:  
 
-![Overview Invoices Amazon](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/integration-settings/fba-order-invoices_1.jpg)
+![Overview Invoices Amazon](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/integrations/integration-settings/fba-order-invoices_1.jpg)
 
 ## Filters
 
@@ -36,11 +36,11 @@ If **Operation type** or **Invoice type** is selected, additional filtering opti
 
 - If **Operation type** is selected, the options displayed include **Shipment, Excess shipment, Removal, Sales, Customer return, Found stock,** and **Lost stock,** as shown in the image below.  
 
-![Operation type NFe](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/integration-settings/fba-order-invoices_2.jpg)
+![Operation type NFe](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/integrations/integration-settings/fba-order-invoices_2.jpg)
 
 - If **Invoice type** is selected, the options displayed include **Shipment, Adjustment shipment, Return, Adjustment return** and **Customer sale,** as shown in the image below.  
 
-![NFe type](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Integrations/integration-settings/fba-order-invoices_3.jpg)
+![NFe type](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/integrations/integration-settings/fba-order-invoices_3.jpg)
 
 > ℹ️ If you don't select a type filter, the system returns invoices of all types by default.
 

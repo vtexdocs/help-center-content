@@ -42,7 +42,7 @@ Additionally, PNG images are optimized with [pngquant](https://pngquant.org/), w
 
 Finally, VTEX delivers the smallest file between the lossless WebP and the optimized PNG, as illustrated in the diagram below.
 
-![png-image-compression](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Storefront/Layout/image-compression_1.PNG)
+![png-image-compression](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/layout/image-compression_1.PNG)
 
 ## JPG / JPEG
 
@@ -50,7 +50,7 @@ For images in the **JPG/JPEG** formats, which are ideal for photos, the conversi
 
 VTEX delivers the image with the smallest file size to the customer, choosing between the original and the one converted to lossless WebP, as illustrated in the diagram below.
 
-![webp-image-compression](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Storefront/Layout/image-compression_2.PNG)
+![webp-image-compression](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/layout/image-compression_2.PNG)
 
 ## Related articles
 

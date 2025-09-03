@@ -23,7 +23,7 @@ Here's how the basic flow of a registered ticket payment works. The flow is divi
  
 ## Ticket Issue
 
-![processo-boleto-registrado-en ex 2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/payments-overview/registered-ticket-flow_1.png)
+![processo-boleto-registrado-en ex 2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payments-overview/registered-ticket-flow_1.png)
 
 1. Your __e-commerce__ informs the __Gateway__ that an order will be paid via registered ticket.
 2. The gateway contacts the __Bank__ to register the ticket.
@@ -35,7 +35,7 @@ At this time, the ticket has not yet been paid by the customer.
 
 ## Ticket Payment and Bank Reconciliation
 
-![processo-boleto-registrado-en ex 1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/payments-overview/registered-ticket-flow_2.png)
+![processo-boleto-registrado-en ex 1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payments-overview/registered-ticket-flow_2.png)
 
 1. the __Client__ pays the ticket directly to the __Bank__.
 2. The bank sends the [bank reconciliation](/en/tutorial/bank-reconciliations) files to the __Gateway__ with information on the tickets payment status.

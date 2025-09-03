@@ -30,7 +30,7 @@ On the right side there's a box containing the total value of the order, the cus
 
 The ID refers to the transaction on VTEX gateway, and it's part of the URL.
 
-![pci](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Transactions/how-to-view-the-orders-details_1.png)
+![pci](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/transactions/how-to-view-the-orders-details_1.png)
 
 Above this box is a link to the order in the **Orders** module.
 
@@ -49,19 +49,19 @@ The following are examples of how to view the most common scenarios that require
 
 ### Approval event
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Transactions/how-to-view-the-orders-details_2.jpg)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/transactions/how-to-view-the-orders-details_2.jpg)
 
 In this example, we see a payment approval. That is, we see that the operator authorized the closing of the purchase with this payment data.
 
 ### Anti-fraud approval event
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Transactions/how-to-view-the-orders-details_3.jpg)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/transactions/how-to-view-the-orders-details_3.jpg)
 
 Here we see the return of the antifraud receiving the transaction and then the return with the risk analysis that was performed, and which approved the transaction. In case of failure, the log will display the information `RiskRejected`.
 
 ### Invoice event
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Transactions/how-to-view-the-orders-details_4.jpg)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/transactions/how-to-view-the-orders-details_4.jpg)
 
 In this example, the carrier returns the value settlement event, that is, it informs that it made the order invoice.
 
@@ -69,7 +69,7 @@ In this example, the carrier returns the value settlement event, that is, it inf
 
 The example below shows a credit card transaction that generated an error while being processed by the Redecard acquirer. Affiliates usually return a code (`ConnectorCode`) next to a message. For detailed error information, we recommend refering to the purchaser's documentation. Through a quick Google search you can find the list of codes and messages of each affiliate.
 
-![2017-01-26 20_23_37-634883 _ VTEX PCI Gateway](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Transactions/how-to-view-the-orders-details_5.png)
+![2017-01-26 20_23_37-634883 _ VTEX PCI Gateway](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/transactions/how-to-view-the-orders-details_5.png)
 
 ## Scheduled automatic settlement
 
@@ -79,7 +79,7 @@ If the order is canceled, the chargeback will occur normally.
 
 Here's how to view the automatic settlement schedule date:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Transactions/how-to-view-the-orders-details_6.jpg)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/transactions/how-to-view-the-orders-details_6.jpg)
 
 ## Payment TID
 
@@ -89,22 +89,22 @@ This information is important whenever you need to confirm something with the op
 
 To find this code in the transaction, see the illustration below.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Transactions/how-to-view-the-orders-details_7.jpg)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/transactions/how-to-view-the-orders-details_7.jpg)
 
 ## Client's IP
 
 The client's IP is collected at the time of the purchase and can be seen in the upper field of the transaction screen, as shown below.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Transactions/how-to-view-the-orders-details_8.jpg)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/transactions/how-to-view-the-orders-details_8.jpg)
 
 ## Antifraud ID
 
 This is the transaction ID for the antifraud. For antifraud searches, you should check this value on the PCI Gateway.
 
-![IDAntifraude](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Transactions/how-to-view-the-orders-details_9.gif)
+![IDAntifraude](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/transactions/how-to-view-the-orders-details_9.gif)
 
 ## More information
 
 In addition to the above information, there are other data taken from interactions with the carrier, with the gateway and/or the anti-fraud that are identified and made available more clearly in the box **+ information**. Check its location in the image below:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Transactions/how-to-view-the-orders-details_10.jpg)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/transactions/how-to-view-the-orders-details_10.jpg)

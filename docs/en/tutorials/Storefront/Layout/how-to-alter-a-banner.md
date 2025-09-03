@@ -22,14 +22,14 @@ We will use a banner on the Home Page as an example, but these step-by-step inst
 3. Click the **Sites and Channels** folder.
 4. Click the **name of your store**.
 5. Click the **"/" folder**.
-![CMS instrução - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Storefront/Layout/how-to-alter-a-banner_1.png)
+![CMS instrução - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/layout/how-to-alter-a-banner_1.png)
 6. Click on the **Home** file.
 7. Click on the **Settings** tab.
 8. Click on the “pencil” for editing.
-![cms-home-settings EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Storefront/Layout/how-to-alter-a-banner_2.png)
+![cms-home-settings EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/layout/how-to-alter-a-banner_2.png)
 9. The banner window will open.
 10. Click on the pencil that appears on the screen.
-![cms_home_settings_lapis EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Storefront/Layout/how-to-alter-a-banner_3.png)
+![cms_home_settings_lapis EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/layout/how-to-alter-a-banner_3.png)
 11. This will open the banner form.
 
 **Change the content of the form:**

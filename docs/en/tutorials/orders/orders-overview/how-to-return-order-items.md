@@ -3,8 +3,8 @@ title: 'How to return items from an order'
 id: 2bSNWwD0g8fcUmuupLao9i
 status: PUBLISHED
 createdAt: 2020-12-28T21:23:42.045Z
-updatedAt: 2024-06-10T23:02:44.957Z
-publishedAt: 2024-06-10T23:02:44.957Z
+updatedAt: 2025-09-02T17:22:21.189Z
+publishedAt: 2025-09-02T17:22:21.189Z
 firstPublishedAt: 2020-12-28T21:27:16.332Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -38,4 +38,4 @@ On the Order Details page, you can orchestrate this operation by completing the 
 
 After the refund is processed in the system, your returned items and information will be displayed in the **Returned items** section.
 
-> ℹ️ You can change orders via API using the endpoint [Create order change](https://developers.vtex.com/docs/api-reference/orders-api#patch-/api/order-system/orders/-changeOrderId-/changes), and issue invoices after changes using the endpoint [Order invoice notification](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/invoice).
+> ℹ️ You can change orders via API using the endpoint [Create order modifications](https://developers.vtex.com/docs/api-reference/orders-api#patch-/api/order-system/orders/-changeOrderId-/changes), and issue invoices after changes using the endpoint [Order invoice notification](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/invoice).

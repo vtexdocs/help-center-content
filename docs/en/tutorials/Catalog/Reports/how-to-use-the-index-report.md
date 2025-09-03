@@ -17,7 +17,7 @@ subcategoryId: 5yDQmr18K4GgQAeGwq8USa
 
 The **Index Report** shows the indexing status of all products of the store. 
 
-![Indexingreport](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/Reports/how-to-use-the-index-report_1.png)
+![Indexingreport](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/reports/how-to-use-the-index-report_1.png)
 
 > ℹ️ **Notice:** For more information, access [Understanding the operation of the indexation.](/en/tutorial/understanding-how-indexation-works)
 

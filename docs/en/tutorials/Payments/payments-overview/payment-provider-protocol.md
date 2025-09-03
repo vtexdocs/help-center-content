@@ -93,7 +93,7 @@ In some cases, connectors can be built for a specific solution. The references b
 
 After getting access information and implementing the backend, the provider has to install the Payment Provider Test Suite app to access the testing tool. The installation is done through the VTEX App Store.
 
-![ppp-vtex-store-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/payments-overview/payment-provider-protocol_1.png)
+![ppp-vtex-store-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payments-overview/payment-provider-protocol_1.png)
 
 > ⚠️ To pass the homologation process, you need to implement specific logic to handle the test requirements. When sending requests to Test Suite, use the extra header `X-VTEX-API-Is-TestSuite = true` to identify them and mask any required case.<br><br>All communication with servers, whether during the homologation process or in production, must be via HTTPS, which by default uses port 443. Note that all HTTPS communication must be exclusively over TLS 1.2.  
 
@@ -110,7 +110,7 @@ Then, you will find a form with three sections: Service information, Payment met
 
 > ℹ️ The gateway saves the store credentials configured in the affiliation and sends them in the X-VTEX-API-AppKey and X-VTEX-API-AppToken headers. The exceptions are integrations developed using VTEX IO, for which the headers will be sent as x-provider-api-appKey and x-provider-api-appToken. If you are developing using the [Payment Provider Framework (IO)](https://developers.vtex.com/docs/guides/payments-integration-payment-provider-framework), this is configured by the usesProviderHeadersName option. See the available settings [here](https://developers.vtex.com/docs/guides/payments-integration-payment-provider-framework#available-configurable-options). 
 
-![Payment Provider Test Suite 0](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/payments-overview/payment-provider-protocol_2.jpg)
+![Payment Provider Test Suite 0](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payments-overview/payment-provider-protocol_2.jpg)
 
 #### Payment method
 
@@ -120,7 +120,7 @@ After completing the Service URL field, Test Suite will validate the[ Manifest e
 
 In this section, you need to select the cases you want to test. If you are testing a credit card method, your integration must pass the Approved, Denied, Cancellation, Async Approved, and Async Denied cases. Only the Redirect flow is required for a payment method with [redirect](https://developers.vtex.com/docs/guides/payments-integration-purchase-flows#redirect).
 
-![ppp-config-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/payments-overview/payment-provider-protocol_3.png)
+![ppp-config-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payments-overview/payment-provider-protocol_3.png)
 
 ### 4. Testing
 
@@ -149,18 +149,18 @@ Use the following numbers to identify how to correctly respond to each credit ca
 
 After running the tests, the system will display the Test Report, where you can see the detailed results of each test case. This way, you can have more visibility into what should be adjusted if an error occurs.
 
-![Payment Provider Test Suite 2_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/payments-overview/payment-provider-protocol_4.JPG)
+![Payment Provider Test Suite 2_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payments-overview/payment-provider-protocol_4.JPG)
 
 To see the messages exchanged between Test Suite and the payment provider implementation, click the Inspect Log button for the test case you want. A modal will open showing the message list and the payload of each request and response. The button in the upper right corner allows you to copy the code to the clipboard.
 
-![Payment Provider Test Suite Logs_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/payments-overview/payment-provider-protocol_5.JPG)
+![Payment Provider Test Suite Logs_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payments-overview/payment-provider-protocol_5.JPG)
 
 ## Payment protocol flow
 Here we explain the integrated payment stream in detail. The image below illustrates the entire flow, showing VTEX Payments and the responsibilities of your supplier.
 
 It all starts with requesting a new payment after the creation of a new order. VTEX creates a new payment representation and proceeds to the payments processing.
 
-![fluxo-atualizado-ppp](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/payments-overview/payment-provider-protocol_6.png)
+![fluxo-atualizado-ppp](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payments-overview/payment-provider-protocol_6.png)
 
 > ℹ️ The default period of 7 days for asynchronous payment retries is only applied when the user does not specify a value in the `delayToCancel` field of the [Create Payment](https://developers.vtex.com/docs/api-reference/payment-provider-protocol#post-/payments) endpoint or when sending the callbackURL.
 
@@ -179,7 +179,7 @@ In any case, once the processing is completed and the provider has a final statu
 
 The complete flow with __undefined__ status and use of notification can be seen below:
 
-![Payment authorization callback notification flow](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/payments-overview/payment-provider-protocol_7.png)
+![Payment authorization callback notification flow](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payments-overview/payment-provider-protocol_7.png)
 
 1. The payment authorization is initiated when the gateway calls the Create Payment (__/payment__) endpoint for the provider. The `callbackUrl` field is submitted in the body of the request and contains the URL to send the notification.
 2. The payment occurs asynchronously (it does not generate the final status when the transaction is initiated). The gateway then receives the response with __undefined__ status and waits for the payment processing to be completed. Finally, once the processing is completed, the final status (__approved__ or __denied__) is updated.
@@ -188,7 +188,7 @@ The complete flow with __undefined__ status and use of notification can be seen 
 
 The complete flow with __undefined__ status and use of __retry__ can be seen below:
 
-![Payment authorization callback retry flow](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/payments-overview/payment-provider-protocol_8.png)
+![Payment authorization callback retry flow](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payments-overview/payment-provider-protocol_8.png)
 
 1. The payment authorization is initiated when the gateway calls the Create Payment (__/payment__) endpoint for the provider. The `callbackUrl` field is submitted in the body of the request and contains the URL of the retry endpoint.
 2. The payment occurs asynchronously (it does not generate the final status when the transaction is initiated). The gateway then receives the response with __undefined__ status and waits for the payment processing to be completed. Finally, once the processing is completed, the final status (__approved__ or __denied__) is updated.

@@ -61,7 +61,7 @@ The store owner decides if a list will be related to an event. Once the type of 
 
 When **Have an event** is selected, the form offers other configuration options for the event, including all the deadlines for creating this type of list, as shown below.
 
-![eventos.en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/list-types/creating-a-type-of-list_1.png)
+![eventos.en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/list-types/creating-a-type-of-list_1.png)
 
 The events area must determine whether a list has a fixed date for the event. Wish lists and purchases lists do not require a fixed date. On the other hand, wedding lists or baby showers must take the date of the event into account, with all the products purchased being delivered in advance.
 
@@ -79,7 +79,7 @@ The following options are available:
 
 After creating the type of list, you will be directed to the screen showing the types of list already registered in the store. This screen provides the following information and functions:
 
-![listagem.en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/list-types/creating-a-type-of-list_2.png)
+![listagem.en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/list-types/creating-a-type-of-list_2.png)
 
 - **Export to Excel**: Allows data for list types to be exported to Excel;
 - **Version**: Identifies lists created in a previous version, with limited functions. The latest version is the “V2”;

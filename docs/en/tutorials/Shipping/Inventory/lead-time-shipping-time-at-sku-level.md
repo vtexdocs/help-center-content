@@ -33,7 +33,7 @@ This article covers the following:
 
 When configured, the lead time is an additional time comprising the shipping time for the order displayed to the customer at checkout. The image below shows how the total time is calculated:
 
-![lead_time_image_total_time_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Shipping/Inventory/lead-time-shipping-time-at-sku-level_1.png)
+![lead_time_image_total_time_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/inventory/lead-time-shipping-time-at-sku-level_1.png)
 
 - **Lead time:** The amount of time that can be configured for a warehouse SKU. For example, this period could correspond to the item's handling or manufacturing time. This configuration is optional and, by default, is set as zero days
 - [Warehouse time:](https://help.vtex.com/en/tutorial/gerenciar-estoque--tutorials_137) Time the SKU takes to leave a warehouse and arrive at a [loading dock](https://help.vtex.com/en/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj). This configuration is required, but you can set the time to zero.
@@ -78,7 +78,7 @@ To configure the lead time for a SKU, follow the steps below:
 1. In the VTEX Admin, go to **Catalog > Inventory > Inventory Management**, or type **Inventory Management** in the search bar at the top of the page.
 2. Select the SKU you want to configure. You can use the search bar and filters.
 3. In the SKU row and the **Lead time (days)** column, enter the days you want.
-  ![lead_time_inventory_management_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Shipping/Inventory/lead-time-shipping-time-at-sku-level_2.png)
+  ![lead_time_inventory_management_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/inventory/lead-time-shipping-time-at-sku-level_2.png)
 4. Click `Save` at the bottom of the page.
 
 > ℹ️ In the VTEX Admin, lead time is always configured in days, but you can configure it in hours, minutes, and seconds using the endpoints [Update inventory by SKU and warehouse](https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/inventory/skus/-skuId-/warehouses/-warehouseId-) and [Update inventory lead time by SKU and warehouse](https://developers.vtex.com/docs/api-reference/logistics-api#patch-/api/logistics/pvt/inventory/skus/-skuId-/warehouses/-warehouseId-/lead-time).

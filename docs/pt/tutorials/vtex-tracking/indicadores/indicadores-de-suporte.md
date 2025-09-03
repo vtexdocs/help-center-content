@@ -3,8 +3,8 @@ title: 'Indicadores de Suporte'
 id: 7K5r16D5K7RHhry2SQQlKD
 status: PUBLISHED
 createdAt: 2021-05-14T15:48:27.357Z
-updatedAt: 2021-05-14T16:36:44.730Z
-publishedAt: 2021-05-14T16:36:44.730Z
+updatedAt: 2025-09-03T20:21:18.645Z
+publishedAt: 2025-09-03T20:21:18.645Z
 firstPublishedAt: 2021-05-14T15:51:29.000Z
 contentType: tutorial
 productTeam: Others
@@ -24,7 +24,7 @@ Dentro de `Indicadores`, ao entrar na aba de `Suporte` você terá acesso ao nú
 *   **Total de Suportes Efetuados:** todos os suportes efetuados.
 *   **Suportes Dentro do Prazo:** suportes realizados no prazo estipulado.
 *   **Suporte Fora do Prazo:** suportes realizados fora do prazo estipulado.
-*   **Tempo Médio de Suporte: ** tempo médio de duração do suporte.
+*   **Tempo Médio de Suporte:** tempo médio de duração do suporte.
 
 Abaixo dos números de acesso rápido, você terá três gráficos (veja abaixo). Cada gráfico mostrado tem  sua respectiva planilha de dados disponível para download (.csv). Para realizar o download, clique na seta no canto superior à direita de cada gráfico. 
 

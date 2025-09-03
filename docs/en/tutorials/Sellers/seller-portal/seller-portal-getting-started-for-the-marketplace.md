@@ -3,8 +3,8 @@ title: 'Seller Portal: Getting started for the marketplace'
 id: 6ccErY3mCcfoW0qGXf167
 status: PUBLISHED
 createdAt: 2022-03-17T14:20:18.188Z
-updatedAt: 2023-03-31T05:30:44.087Z
-publishedAt: 2023-03-31T05:30:44.087Z
+updatedAt: 2025-09-03T20:02:38.795Z
+publishedAt: 2025-09-03T20:02:38.795Z
 firstPublishedAt: 2022-03-17T15:53:14.973Z
 contentType: tutorial
 productTeam: Channels
@@ -27,13 +27,13 @@ The Seller Portal enables marketplaces to:
 - Decrease sales conversion time with self-service onboarding of new sellers, which is now faster and frictionless.  
 - Easily share product assortment with the seller and quickly manage shared product offers.  
 
-![Seller Portal gif 2022 launch](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Sellers/seller-portal/seller-portal-getting-started-for-the-marketplace_1.gif)
+![Seller Portal gif 2022 launch](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/sellers/seller-portal/seller-portal-getting-started-for-the-marketplace_1.gif)
 
 ## Seller and marketplace interaction in the Seller Portal
 
 Using the Seller Portal depends on the actions of the marketplace and the seller, as shown in the following image:
 
-<img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Sellers/seller-portal/seller-portal-getting-started-for-the-marketplace_2.png"/>
+![Seller Portal - First Steps](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/sellers/seller-portal/seller-portal-getting-started-for-the-marketplace_2.png)
 
 The steps shown in the image above are:
 

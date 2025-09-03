@@ -3,8 +3,8 @@ title: 'Seller portal: crear una promoción'
 id: kzNPEaiJE8EWkDzO9dbBI
 status: PUBLISHED
 createdAt: 2023-09-01T15:28:13.875Z
-updatedAt: 2023-11-16T18:06:30.499Z
-publishedAt: 2023-11-16T18:06:30.499Z
+updatedAt: 2025-09-02T17:56:58.391Z
+publishedAt: 2025-09-02T17:56:58.391Z
 firstPublishedAt: 2023-09-01T16:58:54.457Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -97,4 +97,4 @@ La acción de la promoción estará limitada por el siguiente criterio:
 
 ![seller-portal-promo-restricoes-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/sellers/seller-portal/seller-portal-crear-una-promocion_6.png)
 
-* **Limitar el número de ítems elegibles por carrito: **define el número máximo de ítems del carrito a los que puede aplicarse la promoción. Si el carrito contiene más ítems que los estipulados en el límite, el descuento solo se aplicará a la cantidad configurada en este campo.
+* **Limitar el número de ítems elegibles por carrito:** define el número máximo de ítems del carrito a los que puede aplicarse la promoción. Si el carrito contiene más ítems que los estipulados en el límite, el descuento solo se aplicará a la cantidad configurada en este campo.

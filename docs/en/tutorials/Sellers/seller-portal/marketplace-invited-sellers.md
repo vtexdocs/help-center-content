@@ -3,8 +3,8 @@ title: 'Marketplace: Seller Invite'
 id: 6rb2FkcslmDueJ689Ulb9A
 status: PUBLISHED
 createdAt: 2021-08-12T12:36:37.703Z
-updatedAt: 2023-03-31T14:52:27.801Z
-publishedAt: 2023-03-31T14:52:27.801Z
+updatedAt: 2025-09-02T16:57:13.864Z
+publishedAt: 2025-09-02T16:57:13.864Z
 firstPublishedAt: 2021-08-12T15:49:50.572Z
 contentType: tutorial
 productTeam: Channels
@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 4hisB47iAVZk4r3SEmMoG
 ---
 
-The **Invited Sellers** page in the _Marketplace_ module is where marketplace operators can invite sellers to connect to their marketplace. To access this page, in your Admin, go to _MARKETPLACE > Seller Invite_. The page allows you to invite: 
+The **Invited Sellers** page in the _Marketplace_ module is where marketplace operators can invite sellers to connect to their marketplace. To access this page, in your Admin, go to **Marketplace > Seller Invite.** The page allows you to invite: 
 
 - **Online stores hosted on VTEX:** connects their VTEX account as a new seller on the marketplace.  
 - **Online stores that are not hosted on VTEX:** includes instructions for creating an account on the VTEX Seller Portal.
@@ -27,13 +27,13 @@ In addition to sending invitations, the page also displays a list of sellers to 
 
 For new sellers to integrate with your marketplace, you must perform the following actions on the VTEX platform: [Invite](#inviting-sellers) and [Connect](#connecting-sellers).
 
-![EN seller invite](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Sellers/seller-portal/marketplace-invited-sellers_1.jpg)
+![EN seller invite](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/sellers/seller-portal/marketplace-invited-sellers_1.jpg)
 
 ## Inviting sellers
 
 You can invite sellers by sending them a link by email with all the necessary information for integrating with the marketplace. To invite a new seller, follow the steps below:
 
-1. In the _MARKETPLACE_ section, access the **Seller Invite** page.     
+1. In the _Marketplace_ section, access the **Seller Invite** page.     
 3. Click on `Invite seller`.    
 4. Fill in the seller’s **General data**:
     - **Seller name:** name of the seller's sales rep, who will orchestrate the connection on the seller’s side. This person must have an [OMS user role](https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#oms-full-access).     
@@ -47,7 +47,7 @@ You can invite sellers by sending them a link by email with all the necessary in
 
 The seller will receive an invitation by email to sell on your marketplace. 
 
-> ℹ️ The link sent to the seller by email is valid for seven days. Once the link is opened, the seller has six hours to complete the registration form, without interruption. If the registration cannot be completed within six hours, the marketplace needs to send the invitation again. To resend the invitation, access MARKETPLACE > Invite sellers. Select the seller in the list and click on the  <i class="fas fa-paper-plane"></i> Resend invitation button.
+> ℹ️ The link sent to the seller by email is valid for seven days. Once the link is opened, the seller has six hours to complete the registration form, without interruption. If the registration cannot be completed within six hours, the marketplace needs to send the invitation again. To resend the invitation, access Marketplace > Invite sellers. Select the seller in the list and click on the  <i class="fas fa-paper-plane"></i> Resend invitation button.
 
 ## Connecting sellers
 

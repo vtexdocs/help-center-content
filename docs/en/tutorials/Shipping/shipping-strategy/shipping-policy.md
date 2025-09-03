@@ -23,7 +23,7 @@ subcategoryId: 7fTH6bP0C4IaM8qWi0kkQC
 
 The image below shows how these concepts relate to each other:
 
-![shipping_strategy_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Shipping/shipping-strategy/shipping-policy_1.png)
+![shipping_strategy_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/shipping-strategy/shipping-policy_1.png)
 
 **Shipping policy** is a set of rules and settings that specify the shipping options that will be displayed to customers at checkout. When calculating the [shipping time for an order](https://help.vtex.com/en/tutorial/como-funciona-o-calculo-de-envio--tutorials_116), the VTEX platform takes into account several settings from the shipping policy, including:
 

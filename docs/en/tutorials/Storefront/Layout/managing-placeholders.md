@@ -35,14 +35,14 @@ It creates a configurable element in the part of the code where it is inserted.
 
 It is important to enter an `id` value. It will be the identifier of that placeholder in the system.
 
-![6 1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Storefront/Layout/managing-placeholders_1.png)
+![6 1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/layout/managing-placeholders_1.png)
 
 ### Configuring the placeholder
 
 Once the placeholder control has been inserted into the template, you can configure it in the settings of the layout that uses this template.
 
 1. Open the layout and then click on the **Settings** tab. The new placeholder should appear there, with the name equal to the id value defined in the control. For now, this placeholder is empty, meaning there are no objects inside it.
-![6 2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Storefront/Layout/managing-placeholders_2.png)
+![6 2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/layout/managing-placeholders_2.png)
 2. To insert an object, click on **add object**.
 3. Then choose the object type and click on the **Add** button.
 4. Finally, click on the **Save Settings** button.
@@ -51,7 +51,7 @@ You can now edit the object inserted in the placeholder.
 
 To do this, click on the pencil icon inside the object, and then click on **add content**.
 
-![6 3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Storefront/Layout/managing-placeholders_3.png)
+![6 3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/layout/managing-placeholders_3.png)
 
 You can now name this object, upload images to it and configure the conditions under which it will be rendered.
 

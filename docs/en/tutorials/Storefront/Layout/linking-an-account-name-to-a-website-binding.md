@@ -21,9 +21,9 @@ One of the first things you have to do in your web site is to link it to a store
 1. In the VTEX Admin, access **Storefront > Layout**.
 2. Click the __CMS__ folder.
 3. Click the __Sites and channels__ folder.
-4. Click on the desired Website.![websites](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Storefront/Layout/linking-an-account-name-to-a-website-binding_1.png)
+4. Click on the desired Website.![websites](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/layout/linking-an-account-name-to-a-website-binding_1.png)
 5. Click on __Save Website__.
-6. Click __Add__.![addBinding](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Storefront/Layout/linking-an-account-name-to-a-website-binding_2.png)
-7. Select the store name.![chooseBinding](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Storefront/Layout/linking-an-account-name-to-a-website-binding_3.png)
-8. Check the trade policy or trade policies that will be tied to this store.![bindingSalesPolicy](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Storefront/Layout/linking-an-account-name-to-a-website-binding_4.png)
+6. Click __Add__.![addBinding](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/layout/linking-an-account-name-to-a-website-binding_2.png)
+7. Select the store name.![chooseBinding](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/layout/linking-an-account-name-to-a-website-binding_3.png)
+8. Check the trade policy or trade policies that will be tied to this store.![bindingSalesPolicy](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/layout/linking-an-account-name-to-a-website-binding_4.png)
 9. Click __Save Binding__.

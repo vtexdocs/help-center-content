@@ -3,8 +3,8 @@ title: 'Cómo configurar Suscripciones en su tienda'
 id: 1FA9dfE7vJqxBna9Nft5Sj
 status: PUBLISHED
 createdAt: 2019-01-31T16:00:03.228Z
-updatedAt: 2025-04-14T19:50:59.696Z
-publishedAt: 2025-04-14T19:50:59.696Z
+updatedAt: 2025-09-02T18:16:03.375Z
+publishedAt: 2025-09-02T18:16:03.375Z
 firstPublishedAt: 2019-01-31T16:01:57.927Z
 contentType: tutorial
 productTeam: Post-purchase

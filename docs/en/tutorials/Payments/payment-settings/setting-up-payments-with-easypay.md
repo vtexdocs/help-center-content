@@ -48,7 +48,7 @@ Configuration is divided in four sections:
 - [easypay checkout customization (required)](#easypay-checkout-customization)
 - [Sandbox mode](#sandbox-mode)
 
-![easypay_pt_1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/payment-settings/setting-up-payments-with-easypay_1.png)
+![easypay_pt_1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payment-settings/setting-up-payments-with-easypay_1.png)
 
 > ⚠️ You must set up the following configurations in the [easypay environment](https://backoffice.easypay.pt/). easypay controls these settings, therefore, VTEX does not guarantee that the steps below will be permanently updated. Use this document as a reference and check your [easypay environment](https://backoffice.easypay.pt/) for up-to-date information.
 
@@ -60,25 +60,25 @@ __Key ID e Key Value__: easypay key value and ID.
 
 <blockquote><ui>1. In the [easypay environment](https://backoffice.easypay.pt/), click the easypay logo in the top left corner of the screen and the arrow of the desired account.</ui>
 
-![easypay_pt_2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/payment-settings/setting-up-payments-with-easypay_2.PNG)
+![easypay_pt_2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payment-settings/setting-up-payments-with-easypay_2.PNG)
 
 <blockquote><ui>2. Go to **Web Services > Configuration API 2.0 > Keys**.</ui>
 
-![easypay_en_3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/payment-settings/setting-up-payments-with-easypay_3.png)
+![easypay_en_3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payment-settings/setting-up-payments-with-easypay_3.png)
 
 <blockquote><ui>3. Copy and save the **ID** and **Key** information.</ui>
 
-![easypay_en_4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/payment-settings/setting-up-payments-with-easypay_4.png)
+![easypay_en_4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payment-settings/setting-up-payments-with-easypay_4.png)
 
 __Merchant account UID__: identification of the merchant account where purchase amounts from store sales will be deposited. If there is no separate merchant account, you can use the "Account UID" of the payment account.
 
 <blockquote><ui>1. In the [easypay environment](https://backoffice.easypay.pt/), click the easypay logo in the top left corner of the screen, then click the arrow on the "MERCHANT 1" account.</ui>
 
-![easypay_pt_5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/payment-settings/setting-up-payments-with-easypay_5.PNG)
+![easypay_pt_5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payment-settings/setting-up-payments-with-easypay_5.PNG)
 
 <blockquote><ui>2. Copy and save the **Account UID** information.</ui>
 
-![easypay_en_6](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/payment-settings/setting-up-payments-with-easypay_6.png)
+![easypay_en_6](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payment-settings/setting-up-payments-with-easypay_6.png)
 
 __Margin account UID__: identification of the margin account. 
 
@@ -90,7 +90,7 @@ __Refund account ID and Refund account key__: If there is no specific refund acc
 
 In this section, you must indicate whether your store will use asynchronous and/or synchronous payments. See the easypay documentation to check the available [payment methods](https://docs.quality-utility.aws.easypay.pt/concepts/payment-methods) and their identification [acronyms](https://docs.quality-utility.aws.easypay.pt/checkout/reference).
 
-![easypay_en_7](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/payment-settings/setting-up-payments-with-easypay_7.png)
+![easypay_en_7](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payment-settings/setting-up-payments-with-easypay_7.png)
 
 __Accepted asynchronous payment types__: asynchronous payment methods available to the customer. Only enter the acronyms of the asynchronous payment types, separated by commas without periods or spaces.
 
@@ -122,7 +122,7 @@ Example:
 
 easypay has a native checkout layout configured in the app. See below:
 
-![easypay_en_8](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/payment-settings/setting-up-payments-with-easypay_8.png)
+![easypay_en_8](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payment-settings/setting-up-payments-with-easypay_8.png)
 
 If you want to customize easypay's native checkout, complete one or more fields in this section:
 
@@ -174,7 +174,7 @@ To configure the easypay webhook, follow the steps below:
 
 <blockquote><ui>1. In the [easypay environment](https://backoffice.easypay.pt/), click the easypay logo in the top left corner of the screen, then click the arrow of the desired account.</ui>
 
-![easypay_pt_2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/payment-settings/setting-up-payments-with-easypay_9.PNG)
+![easypay_pt_2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payment-settings/setting-up-payments-with-easypay_9.PNG)
 
 <blockquote><ui>2. Go to **Web Services > URL Configuration**.</ui>
 
@@ -182,7 +182,7 @@ To configure the easypay webhook, follow the steps below:
 
 `https://{your-account-name}.myvtex.com/_v/easypaypartnerpt.payment-provider-easypay/webhook`
 
-![easypay_en_9](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/payment-settings/setting-up-payments-with-easypay_10.png)
+![easypay_en_9](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payment-settings/setting-up-payments-with-easypay_10.png)
 
 <blockquote><ui>4. Click **Submit**.</ui>
 

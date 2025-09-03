@@ -42,7 +42,7 @@ Once the order is placed, the [reservation of the products is authorized](https:
 
 > ℹ️ Please note that the shipping process depends on the configuration made on the platform. Here, we present the scenarios for each type of shipping (delivery and pickup), but there are other possible flows in the shipping process. For example, when the customer chooses pickup and the selected pickup point is the warehouse, there is no need to transport the packages.
 
-![Envio EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Shipping/logistics-overview/fulfillment-logistics-vtex_1.svg)
+![Envio EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/logistics-overview/fulfillment-logistics-vtex_1.svg)
 
 ## Configuring the logistics process
 
