@@ -23,6 +23,7 @@ const path = require("path");
 
 async function main() {
   const args = minimist(process.argv.slice(2));
+  const cleanDocs = !!args.cleanDocs;
   let contentTypes = args.contentType?.split(",") ?? [
     "trackArticle",
     "tutorial",
@@ -47,6 +48,14 @@ async function main() {
   }
 
   const locales = ["en", "pt", "es"];
+
+  // Optionally clean docs folder before fetching content
+  const docsPath = path.join(__dirname, "..", "docs");
+  if (cleanDocs && fs.existsSync(docsPath)) {
+    console.log("🧹 Cleaning docs folder...");
+    fs.rmSync(docsPath, { recursive: true, force: true });
+    console.log("✅ Docs folder cleaned successfully.");
+  }
 
   const troubleshootingMode = contentTypes.includes("troubleshooting");
 
