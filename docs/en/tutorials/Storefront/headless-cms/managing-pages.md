@@ -19,7 +19,7 @@ In **Headless CMS**, you can manage all the URL routes and page templates for yo
 
 ## Overview
 
-![New pages](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Storefront/headless-cms/managing-pages_1.png)
+![New pages](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/headless-cms/managing-pages_1.png)
 
 | Option         | Description                                           |
 | -------------- | ----------------------------------------------------- |
@@ -40,7 +40,7 @@ To create and manage a page, follow these steps:
 3. Under `Untitled`, name the page.
 
 4. Click on `Sections` and select the desired section.
-![Gif - Pages](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Storefront/headless-cms/managing-pages_2.gif)
+![Gif - Pages](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/headless-cms/managing-pages_2.gif)
 5. Add more sections if needed and fill them out.
 
 6. Click `Publish`. 

@@ -19,7 +19,7 @@ The **Styles** page allows you to define the typography and color palette of you
 
 To access it, log in to VTEX Admin, access **Storefront > Styles**, and check out the main tools available in the interface.
 
-![Styles - Overview](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Storefront/Styles/styles-overview_1.png)
+![Styles - Overview](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/styles/styles-overview_1.png)
 
 <div style="background-color:#FFF3CD; border-left: 2px solid #F0AD4E; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px">
   To apply and preview the changes in your store's styles, make sure to use a workspace that supports production traffic, i.e., [production workspaces](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-workspace)). 

@@ -23,7 +23,7 @@ The design is the same for accesses made from desktops, smartphones, tablets or 
 
 The design of the mobile version, as well as its whole programming, are only intended for mobile devices, being a second application. In other words, there is one application for usual browsers, and another one for mobile browsers. Upon accessing the store, the device will be identified and the specific programming will be redirected.
 
-![Main mobile and desktop screen resolutions currently used](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Storefront/Layout/responsive-vs-mobile-version_1.jpg)
+![Main mobile and desktop screen resolutions currently used](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/layout/responsive-vs-mobile-version_1.jpg)
 
 Main mobile and desktop screen resolutions currently in use (there can be variations according to the device used):
 
@@ -55,7 +55,7 @@ Main mobile and desktop screen resolutions currently in use (there can be variat
 
 #### Main visual elements seen in mobile devices
 
-![menu_mobile_version en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Storefront/Layout/responsive-vs-mobile-version_2.png)
+![menu_mobile_version en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/layout/responsive-vs-mobile-version_2.png)
 
 #### Quality is the same regardless of the size!
 

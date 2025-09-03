@@ -56,7 +56,7 @@ You can also schedule prices by importing a fixed price template. To do this, pl
 
 1. In the VTEX Admin, go to **Prices > Price list**, or type **Price list** in the search bar at the top of the page.
 2. Click on the 📥 icon to export the template to be filled in.
-![Agendar preços - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Prices/price-list/scheduling-prices_1.png)
+![Agendar preços - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/prices/price-list/scheduling-prices_1.png)
 3. Select only the **Fixed prices table** option.
 4. Click on `Export 1 table`.
 
@@ -72,7 +72,7 @@ The template will be sent to your email and you can download it. After downloadi
 
 > ℹ️ The **Date From** and **Date To** fields follow the [RFC3339](https://www.ietf.org/rfc/rfc3339.txt) format, which includes the time zone. For example, if a promotion starts or ends at 10:00 PM on December 30, 2024, in Argentina (time zone GMT-3), the value to be entered will be: `2024-12-30T22:00:00-03:00`. If the time zone is not specified, the system will assume UTC. To indicate a price valid from midnight (00:00) UTC on the same day, the field should contain: `2024-12-30T00:00:00Z`.
 
-![Agendar preço fixo planilha PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Prices/price-list/scheduling-prices_2.png)
+![Agendar preço fixo planilha PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/prices/price-list/scheduling-prices_2.png)
 
 Once you have finished filling in the template, you must import it into the store. Please follow the steps below:
 

@@ -19,7 +19,7 @@ Cargo splitting is the configuration that allows a purchase to be divided into m
 
 This configuration is very important because, if cargo splitting is not allowed, the closing of a purchase may preclude. So, use it if the total weight of all products in the shopping cart is bigger than the maximum weight registered in shipping policies.
 
-![divisao-carga-desenho en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Shipping/inventory-and-shipping-settings/configuring-cargo-splitting_1.png)
+![divisao-carga-desenho en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/inventory-and-shipping-settings/configuring-cargo-splitting_1.png)
 
 ### How to configure
 

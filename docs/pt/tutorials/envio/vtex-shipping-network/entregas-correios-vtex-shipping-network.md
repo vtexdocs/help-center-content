@@ -1,9 +1,9 @@
 ---
 title: 'VTEX Shipping Network: Entregas Correios'
 id: 5CZRA0lq60EecmwZpsjvfq
-status: PUBLISHED
+status: CHANGED
 createdAt: 2022-03-04T13:12:38.617Z
-updatedAt: 2024-03-04T21:51:37.046Z
+updatedAt: 2025-09-02T17:39:01.524Z
 publishedAt: 2024-03-04T21:51:37.046Z
 firstPublishedAt: 2022-03-04T13:17:13.380Z
 contentType: tutorial
@@ -119,7 +119,7 @@ No Admin VTEX, em **Envio > Entregas Correios**, a página **Informações dos P
  </tbody>
 </table>
 
-Ainda na página **Informações dos Pedidos,** você pode:
+Ainda na página **Informações dos Pedidos**, você pode:
 
 * [Buscar](#busca) na lista por um pacote específico.
 * [Exportar](#exportacao) em formato CSV as **Informações de Pedidos** dos pacotes filtrados na busca.

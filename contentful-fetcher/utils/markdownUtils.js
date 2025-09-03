@@ -12,7 +12,7 @@ function convertCalloutToMarkdown(markdownContent) {
   };
 
   return markdownContent.replace(
-    /<div\s+[^>]*class\s*=\s*"alert alert-(info|warning|danger)"[^>]*>([\s\S]*?)<\/div>/gi,
+    /<div\s+[^>]*class\s*=\s*["'“”„](alert alert-(info|warning|danger))["'“”„][^>]*>([\s\S]*?)<\/div>/gi,
     (_, type, inner) => {
       const emoji = calloutMap[type] || "";
       const collapsed = inner.trim().replace(/\s*\n\s*/g, " ");

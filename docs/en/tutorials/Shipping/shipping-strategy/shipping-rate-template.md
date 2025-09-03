@@ -3,8 +3,8 @@ title: 'Shipping rate template'
 id: tutorials_127
 status: PUBLISHED
 createdAt: 2019-02-22T19:36:18.509Z
-updatedAt: 2024-11-13T19:09:02.477Z
-publishedAt: 2024-11-13T19:09:02.477Z
+updatedAt: 2025-09-03T20:19:15.421Z
+publishedAt: 2025-09-03T20:19:15.421Z
 firstPublishedAt: 2019-02-22T19:36:22.375Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -40,142 +40,27 @@ Fill in the columns considering that for each location there are:
 * Maximum shipment volume
 
 See below the spreadsheet columns content to understand each field in detail.
-<table class="w-100 center mv7 bb b--gray" style="border-spacing: 0px; border-collapse: collapse;">
-    <thead class="w-100 center mv7 bb b--gray" style="border-spacing: 0px; border-collapse: collapse;">
-        <tr class="t-body fw5 c-muted-1 bb bw1 pa2 pb3 b--muted-3 tl">
-            <th class="t-body fw5 c-muted-1 bb bw1 pa2 pb3 b--muted-3 tl">
-                <em class="i">**Colum**
-            </th>
-            <th class="t-body fw5 c-muted-1 bb bw1 pa2 pb3 b--muted-3 tl">
-                <em class="i">**Description**
-            </th>
-            <th class="t-body fw5 c-muted-1 bb bw1 pa2 pb3 b--muted-3 tl">
-                <em class="i">**Details**
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr class="bb b--muted-3">
-            <td class="t-body pa5" style="min-width: 15rem;">
-                <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">ZipCodeStart</span>
-            </td>
-            <td class="t-body pa5" style="min-width: 15rem;">The first part of the ZIP code range. 
-            </td>
-            <td rowspan="2" class="t-body pa5" style="min-width: 15rem;"> You should add code ranges only if the **PolygonName** field is empty, as they contain equivalent function data.
-            
-            **ZipCode** fields must contain up to 8 digits. Do not use special characters, only numbers and letters. 
-            You must fill in the fields according to the following rules:
-                <body>
-                  <ul>
-                    <li>For numerical ranges, the accepted values are from <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">0000000</span> to <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">99999999</span>. </li>
-                    <li>For alphabetical ranges, the accepted values are from <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">AAAAAAAA</span> to <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">ZZZZZZZZZ</span>.
-                    <li>For alphanumerical ranges, the maximum value is <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">ZZZZZZZZ</span>.</li>
-                  </ul>
-                </body>  
-            </td>
-        </tr>
-        <tr class="bb b--muted-3">
-            <td class="t-body pa5" style="min-width: 15rem;">
-                <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">ZipCodeEnd</span>
-            </td>
-            <td class="t-body pa5" style="min-width: 15rem;">The second and last part of the ZIP code range.
-            </td>
-        </tr>
-        <tr class="bb b--muted-3">
-            <td class="t-body pa5" style="min-width: 15rem;">
-                <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">PolygonName</span>
-            </td>
-            <td class="t-body pa5" style="min-width: 15rem;">The polygon identification defined in the [ geolocation](https://help.vtex.com/en/tutorial/gerenciar-geolocalizacao/) function.
-            </td>
-            <td class="t-body pa5" style="min-width: 15rem;">To use geolocation, after filling in the **PolygonName** column with the desired values, fill in the **ZipCodeStart** and **ZipCodeEnd** columns with the value `0`.You should fill in this field only if the **ZipCodeStart** and **ZipCodeEnd** fields are used, as they contain equivalent function data.
-            </td>
-        </tr>
-    <tr class="bb b--muted-3">
-            <td class="t-body pa5" style="min-width: 15rem;">
-                <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">WeightStart</span>
-            </td>
-            <td class="t-body pa5" style="min-width: 15rem;">The minimum weight allowed, in decimal number.
-            </td>
-            <td rowspan="2" class="t-body pa5" style="min-width: 15rem;">Consider the same weight unit informed when adding a SKU. For example, if you [ added SKUs](https://help.vtex.com/en/tutorial/campos-de-cadastro-de-sku--21DDItuEQc6mseiW8EakcY) using grams, this will be the default unit for **WeightStart** and **WeightEnd**.
-            </td>
-        </tr>
-        <tr class="bb b--muted-3">
-            <td class="t-body pa5" style="min-width: 15rem;">
-                <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">WeightEnd</span>
-            </td>
-            <td class="t-body pa5" style="min-width: 15rem;">The maximum weight allowed, in decimal number.
-            </td>
-        </tr>
-  <tr class="bb b--muted-3">
-            <td class="t-body pa5" style="min-width: 15rem;">
-                <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">AbsoluteMoneyCost</span>
-            </td>
-            <td class="t-body pa5" style="min-width: 15rem;">The fixed shipping cost to be charged, in decimal number.
-            </td>
-            <td class="t-body pa5" style="min-width: 15rem;">If there are additional charges, the total cost will be composed of the fixed cost plus additional costs.
-            </td>
-        </tr>
-  <tr class="bb b--muted-3">
-            <td class="t-body pa5" style="min-width: 15rem;">
-                <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">PricePercent</span>
-            </td>
-            <td class="t-body pa5" style="min-width: 15rem;"> [ Price-based additional shipping charge](https://help.vtex.com/en/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV) calculated in decimal number based on the total price of the products in the shopping cart. You must fill in this field with a percentage value. For example, for an additional charge of 10%, fill in the table with 10.
-            </td>
-            <td class="t-body pa5" style="min-width: 15rem;"> [Additional shipping costs](https://help.vtex.com/en/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV) will be added to the fixed cost.
-            </td>
-        </tr>
-  <tr class="bb b--muted-3">
-            <td class="t-body pa5" style="min-width: 15rem;">
-                <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">PriceByExtraWeight</span>
-            </td>
-            <td class="t-body pa5" style="min-width: 15rem;">[Weight-based additional shipping charge](https://help.vtex.com/en/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV), calculated based on the total weight of the order, in decimal number.
-            </td>
-            <td class="t-body pa5" style="min-width: 15rem;"> [Additional shipping costs](https://help.vtex.com/en/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV) will be added to the fixed cost. Consider the exact weight unit informed when [adding a SKU](https://help.vtex.com/en/tutorial/campos-de-cadastro-de-sku--21DDItuEQc6mseiW8EakcY) (examples: gram, kilogram, or ounce).
-            </td>
-        </tr>
-  <tr class="bb b--muted-3">
-            <td class="t-body pa5" style="min-width: 15rem;">
-                <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">MaxVolume</span>
-            </td>
-            <td class="t-body pa5" style="min-width: 15rem;">Maximum volume allowed, in decimal number.
-            </td>
-            <td class="t-body pa5" style="min-width: 15rem;">Consider the same unit of volume informed when [ adding a SKU](https://help.vtex.com/en/tutorial/campos-de-cadastro-de-sku--21DDItuEQc6mseiW8EakcY). For example, if centimeter is the unit of measurement for height, width, and length, the **MaxVolume** field must be in cm³.
-            </td>
-        </tr>
-  <tr class="bb b--muted-3">
-            <td class="t-body pa5" style="min-width: 15rem;">
-                <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">TimeCost</span>
-            </td>
-            <td class="t-body pa5" style="min-width: 15rem;">The delivery time frame informed by the carrier, in the format **DD.HH:MM:SS**.
-            </td>
-            <td class="t-body pa5" style="min-width: 15rem;">For example, if the delivery time frame is 4.5 days, fill in the field as follows: 04.12:00:00.
-            </td>
-        </tr>
-  <tr class="bb b--muted-3">
-            <td class="t-body pa5" style="min-width: 15rem;">
-                <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">Country</span>
-            </td>
-            <td class="t-body pa5" style="min-width: 15rem;">Country where the delivery will take place. Fill it in with a three-letter ISO country code.
-            </td>
-            <td class="t-body pa5" style="min-width: 15rem;">You can check the ISO country code at [Country Codes](https://countrycode.org/).
-            </td>
-        </tr>
-  <tr class="bb b--muted-3">
-            <td class="t-body pa5" style="min-width: 15rem;">
-                <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">MinimumValueInsurance</span>
-            </td>
-            <td class="t-body pa5" style="min-width: 15rem;">[Additional insurance charge,](https://help.vtex.com/en/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV) in absolute value and decimal number.
-            </td>
-            <td class="t-body pa5" style="min-width: 15rem;"> This value will be added to the shipping cost. However, it only applies when the [ price-based additional shipping charge](https://help.vtex.com/en/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV) is lower than the **MinimumValueInsurance**. For more details, see the article [What is the Minimum Value Insurance field?](https://help.vtex.com/en/faq/para-que-serve-o-campo-na-tabela-de-frete-minimum-value-insurance).
-            </td>
-        </tr>
-</tbody>
-</table>
+
+| Colum                 | Description                                                                                                                                                                                                                                                                                      | Details                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+|------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `ZipCodeStart`         | The first part of the ZIP code range.                                                                                                                                                                                                                                                            | You should add code ranges only if the **PolygonName** field is empty, as they contain equivalent function data.<br><br>**ZipCode** fields must contain up to 8 digits. Do not use special characters, only numbers and letters.<br><br>You must fill in the fields according to the following rules:<br>- For numerical ranges, the accepted values are from `0000000` to `99999999`.<br>- For alphabetical ranges, the accepted values are from `AAAAAAAA` to `ZZZZZZZZZ`.<br>- For alphanumerical ranges, the maximum value is `ZZZZZZZZ`. |
+| `ZipCodeEnd`           | The second and last part of the ZIP code range.                                                                                                                                                                                                                                                  |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| `PolygonName`          | The polygon identification defined in the [geolocation](https://help.vtex.com/en/tutorial/gerenciar-geolocalizacao/) function.                                                                                                                                                                  | To use geolocation, after filling in the **PolygonName** column with the desired values, fill in the **ZipCodeStart** and **ZipCodeEnd** columns with the value `0`.<br>You should fill in this field only if the **ZipCodeStart** and **ZipCodeEnd** fields are used, as they contain equivalent function data.                                                                                                                                                                                                                          |
+| `WeightStart`          | The minimum weight allowed, in decimal number.                                                                                                                                                                                                                                                   | Consider the same weight unit informed when adding a SKU. For example, if you [added SKUs](https://help.vtex.com/en/tutorial/campos-de-cadastro-de-sku--21DDItuEQc6mseiW8EakcY) using grams, this will be the default unit for **WeightStart** and **WeightEnd**.                                                                                                                                                                                                                                                                             |
+| `WeightEnd`            | The maximum weight allowed, in decimal number.                                                                                                                                                                                                                                                   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| `AbsoluteMoneyCost`    | The fixed shipping cost to be charged, in decimal number.                                                                                                                                                                                                                                        | If there are additional charges, the total cost will be composed of the fixed cost plus additional costs.                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| `PricePercent`         | [Price-based additional shipping charge](https://help.vtex.com/en/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV) calculated in decimal number based on the total price of the products in the shopping cart. You must fill in this field with a percentage value. For example, for an additional charge of 10%, fill in the table with 10. | [Additional shipping costs](https://help.vtex.com/en/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV) will be added to the fixed cost.                                                                                                                                                                                                                                                                                                                                                                                                |
+| `PriceByExtraWeight`   | [Weight-based additional shipping charge](https://help.vtex.com/en/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV), calculated based on the total weight of the order, in decimal number.                                                                                                   | [Additional shipping costs](https://help.vtex.com/en/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV) will be added to the fixed cost. Consider the exact weight unit informed when [adding a SKU](https://help.vtex.com/en/tutorial/campos-de-cadastro-de-sku--21DDItuEQc6mseiW8EakcY) (examples: gram, kilogram, or ounce).                                                                                                                                                                                                       |
+| `MaxVolume`            | Maximum volume allowed, in decimal number.                                                                                                                                                                                                                                                       | Consider the same unit of volume informed when [adding a SKU](https://help.vtex.com/en/tutorial/campos-de-cadastro-de-sku--21DDItuEQc6mseiW8EakcY). For example, if centimeter is the unit of measurement for height, width, and length, the **MaxVolume** field must be in cm³.                                                                                                                                                                                                                                                             |
+| `TimeCost`             | The delivery time frame informed by the carrier, in the format **DD.HH:MM:SS**.                                                                                                                                                                                                                   | For example, if the delivery time frame is 4.5 days, fill in the field as follows: 04.12:00:00.                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| `Country`              | Country where the delivery will take place. Fill it in with a three-letter ISO country code.                                                                                                                                                                                                     | You can check the ISO country code at [Country Codes](https://countrycode.org/).                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| `MinimumValueInsurance`| [Additional insurance charge](https://help.vtex.com/en/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV), in absolute value and decimal number.                                                                                                                                                 | This value will be added to the shipping cost. However, it only applies when the [price-based additional shipping charge](https://help.vtex.com/en/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV) is lower than the **MinimumValueInsurance**.<br>For more details, see the article [What is the Minimum Value Insurance field?](https://help.vtex.com/en/faq/para-que-serve-o-campo-na-tabela-de-frete-minimum-value-insurance).                                                                                                           |
 
 > ℹ️ We used the term "weight" when referring to "mass" in this documentation for readability.
 
 Here is an example of how to fill in the fields in the spreadsheet.
-![modelo_planilhanumerica](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Shipping/shipping-strategy/shipping-rate-template_1.png)
+
+![modelo_planilhanumerica](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/shipping-strategy/shipping-rate-template_1.png)
 
 ## Upload the spreadsheet in VTEX Admin
 
@@ -188,7 +73,7 @@ Follow the steps below:
 4. In both cases, download the spreadsheet and [complete its fields](#fill-in-the-fields-in-the-spreadsheet). Then, upload the file in the **Upload shipping rates** section, as illustrated in the image below.
 5. After completing these steps, click on `Save changes`.
 
-![upload tarifas envioEN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Shipping/shipping-strategy/shipping-rate-template_2.png)
+![upload tarifas envioEN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/shipping-strategy/shipping-rate-template_2.png)
 
 > ⚠️ For **new** shipping policies, other steps are required. Check out the article [Shipping policy](https://help.vtex.com/en/tutorial/politica-de-envio--tutorials_140) for more information.
 

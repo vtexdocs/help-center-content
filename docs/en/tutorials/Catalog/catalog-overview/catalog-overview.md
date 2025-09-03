@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 6jaCCq5pVL7VxL0WNWV0cF
 ---
 
-![Catalog overview (header)](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/catalog-overview/catalog-overview_1.jpg)
+![Catalog overview (header)](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/catalog-overview/catalog-overview_1.jpg)
 
 **Catalog** is the VTEX Admin module for configuring the features related to your ecommerce products. To make products available for customers on your website, you need to add them to this module. 
 
@@ -27,7 +27,7 @@ Category is the second categorization level of your store, under [Departments](h
 
 The **Categories** page allows you to view and manage your store's category trees, as illustrated below.
 
-![Catalog structure](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/catalog-overview/catalog-overview_2.png)
+![Catalog structure](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/catalog-overview/catalog-overview_2.png)
 
 Learn how to add a category in the tutorial [Registering a category](https://help.vtex.com/en/tutorial/registering-a-category--tutorials_206). If you want to change or disable a category, follow the steps in the tutorial [Deactivating and reorganizing categories](https://help.vtex.com/en/tutorial/deactivating-and-reorganizing-categories--tutorials_264).
 

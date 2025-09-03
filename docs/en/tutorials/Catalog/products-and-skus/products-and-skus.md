@@ -17,7 +17,7 @@ subcategoryId: pwxWmUu7T222QyuGogs68
 
 The **Products and SKUs** page allows you to view and manage the list of all products in your store, including information about SKUs, last update, and status. To access it, go to **Catalog > Products and SKUs**.
 
-![products_and_skus_listing_page_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/products-and-skus/products-and-skus_1.png)
+![products_and_skus_listing_page_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/products-and-skus/products-and-skus_1.png)
 
 This page allows you to: 
 
@@ -99,7 +99,7 @@ The availability icons for the product also apply to SKUs, as shown in the follo
 
 When you click the arrow <i class="fas fa-chevron-right"></i> in the product row, the platform displays a list with all the SKUs of that product, as shown in the image below: 
 
-![products_and_skus_sku_icons_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/products-and-skus/products-and-skus_2.gif)
+![products_and_skus_sku_icons_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/products-and-skus/products-and-skus_2.gif)
 
 In the SKU list, you'll find the following information:
 
@@ -138,7 +138,7 @@ By clicking the menu icon <i class="fas fa-ellipsis-v"></i> in a product, you ca
 
 The **Products and SKUs** page lets you track the product and SKU [indexing](https://help.vtex.com/en/tutorial/entendendo-o-funcionamento-da-indexacao--tutorials_256) logs. To do this, find the desired product row, click the <i class="fas fa-ellipsis-v" aria-hidden="true"></i> [action menu](#accessing-the-action-menu), and select `View indexing information`. This will open the Indexing Log modal, as shown in the image below:
 
-![products_and_skus_indexing_modal_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/products-and-skus/products-and-skus_3.png)
+![products_and_skus_indexing_modal_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/products-and-skus/products-and-skus_3.png)
 
 In the top right corner of the modal, you can copy the content to the clipboard by clicking <i class="far fa-clone" aria-hidden="true"></i> `Copy`. To close the modal, click the <i class="far fa-times-circle" aria-hidden="true"></i> icon or anywhere outside the modal.
 

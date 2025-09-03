@@ -29,7 +29,7 @@ On the cart area, the delivery options are separated by shipping type, not by ca
 
 The following picture shows how the shipping options would be displayed on the checkout according to the example mentioned before: 
 
-![Transportadoras Checkout EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Shipping/shipping-strategy/how-does-the-type-of-delivery-work_1.png)
+![Transportadoras Checkout EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/shipping-strategy/how-does-the-type-of-delivery-work_1.png)
 
 Notice that, even though five carriers are registered (in the **Regular** and **Express** categories), only two freight options are displayed to the customer. This is not because the other carriers do not fulfill the cart requirement, but because, within the same type of freight, only the carrier with the lowest price or the shortest delivery time will be displayed.
 

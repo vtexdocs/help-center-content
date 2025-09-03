@@ -85,23 +85,23 @@ Selecting products through the VTEX Admin can be made using the product list, se
 
 There are many filters that can be selected to reduce the number of products displayed on the list.
 
-![Collections-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/Collection/creating-collections-beta_1.png)
+![Collections-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/collection/creating-collections-beta_1.png)
 
 You can create new filters based on other criteria not covered by the predetermined filters. The images below show a few examples of these options:
 
-![Novo filtro - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/Collection/creating-collections-beta_2.PNG)
+![Novo filtro - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/collection/creating-collections-beta_2.PNG)
 
-![Filtro Colecao detalhes - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/Collection/creating-collections-beta_3.png)
+![Filtro Colecao detalhes - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/collection/creating-collections-beta_3.png)
 
 To add a product to a collection, click on the icon <i class="fas fa-plus-circle" title = "check circle"></i> related to the product, thereby saving it in the collection automatically.
 
 For more information about the item, click on the icon <i class="fas fa-external-link-alt" title = "external link"></i> to open the product page or click on the image to enlarge it.
 
-![EN-colecao-adicionar](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/Collection/creating-collections-beta_4.gif)
+![EN-colecao-adicionar](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/collection/creating-collections-beta_4.gif)
 
 If you want to add in bulk, apply one of the filters and click on the `Add All` button. It is worth noting that the product must have at least one existing SKU to be included in a collection.
 
-![EN-colecao-adicionar-todos](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/Collection/creating-collections-beta_5.png)
+![EN-colecao-adicionar-todos](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/collection/creating-collections-beta_5.png)
 
 > ❗  Do not bulk add more than 150,000 products. This may affect the indexing of the Catalog and the operation of your store.
 
@@ -114,7 +114,7 @@ You can also add items to a collection using a spreadsheet by following the step
   1. In your collection's dashboard, click on the `Import` button.
   2. Click on the **Include products in collection** option.
   3. Click on the `Import` button.
-  4. Click on `Download Template` to have the correct spreadsheet template as the example below: ![colecao-planilha-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/Collection/creating-collections-beta_6.png)
+  4. Click on `Download Template` to have the correct spreadsheet template as the example below: ![colecao-planilha-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/collection/creating-collections-beta_6.png)
   5. Fill in the spreadsheet with the Product IDs, RefIDs, or SKUs. Add a single ID on each line. Regardless of which ID you fill in, all SKUs for the selected product will be added to the collection after import.
   6. After filling out the spreadsheet, save the changes, and import the document into the VTEX Admin. You can drop the file in the indicated area or click on **Choose a file**. Files in CSV or XML format are accepted.
   7. To finish, click on `Import`.
@@ -129,11 +129,11 @@ Products can be removed either by selecting items from the __Collections__ modul
 
 To remove an item from the collection, simply click on the product's <i class="fas fa-check-circle" title="check circle"></i>.
 
-![EN-coleao-remover](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/Collection/creating-collections-beta_7.gif)
+![EN-coleao-remover](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/collection/creating-collections-beta_7.gif)
 
 If you wish to remove in bulk, apply one of the filters and click on the `Remove All` button.
 
-![EN-colecao-remover-todos](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/Collection/creating-collections-beta_8.png)
+![EN-colecao-remover-todos](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/collection/creating-collections-beta_8.png)
 
 You can also click on the button <i class="far fa-check-circle" title = "check in circle"></i> (**Products in this collection**) in the top bar and then click `Remove All`.
 
@@ -162,7 +162,7 @@ To change your collection's order, follow the steps below:
 
   b. Select the box of products you wish to change and click on `Move to Position`. Enter the number of the new position and click on `Move` to complete the change. These options allows you to rearrange items in bulk.
 
-![EN-mover-colecao](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/Collection/creating-collections-beta_9.png)
+![EN-mover-colecao](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/collection/creating-collections-beta_9.png)
 
 ### Export collection spreadsheet
 

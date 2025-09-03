@@ -46,7 +46,7 @@ To download your invoice, follow the steps below:
 
 The invoice will then be appear in another tab.
 
-![baixar faturas en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Billing/Invoices/how-to-download-the-vtex-invoices_1.gif)
+![baixar faturas en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/billing/invoices/how-to-download-the-vtex-invoices_1.gif)
 
 ## Brazil 
 
@@ -66,7 +66,7 @@ To download your "boleto", follow the steps below:
 
 > ℹ️ In Brazil, a purple invoice can indicate that it is overdue but that a new "boleto" with an upcoming due date has already been issued. In such cases, the invoice will continue as overdue until it's paid. If no payment is made, the invoice color will switch to red again.
 
-![baixar boletos en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Billing/Invoices/how-to-download-the-vtex-invoices_2.gif)
+![baixar boletos en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/billing/invoices/how-to-download-the-vtex-invoices_2.gif)
 
 ### Download "Nota Fiscal"
 
@@ -83,7 +83,7 @@ The Nota Fiscal will be opened in another tab on your browser. Click on **Print 
 1. In the Save as option, select **Save as PDF**.
 2. To conclude, click on **Save**.
 
-![baixar notafiscal en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Billing/Invoices/how-to-download-the-vtex-invoices_3.gif)
+![baixar notafiscal en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/billing/invoices/how-to-download-the-vtex-invoices_3.gif)
 
 If you have questions about the amount charged on the invoice, read the article on [understanding the value of approved revenues](https://help.vtex.com/tutorial/understanding-the-value-of-approved-revenues--tutorials_4322).
 

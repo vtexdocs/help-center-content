@@ -3,8 +3,8 @@ title: 'Seller Portal: Primeiros passos para o marketplace'
 id: 6ccErY3mCcfoW0qGXf167
 status: PUBLISHED
 createdAt: 2022-03-17T14:20:18.188Z
-updatedAt: 2023-03-31T05:30:44.087Z
-publishedAt: 2023-03-31T05:30:44.087Z
+updatedAt: 2025-09-03T20:02:38.795Z
+publishedAt: 2025-09-03T20:02:38.795Z
 firstPublishedAt: 2022-03-17T15:53:14.973Z
 contentType: tutorial
 productTeam: Channels
@@ -33,7 +33,7 @@ Por meio do Seller Portal, marketplaces conseguem:
 
 A utilização do Seller Portal depende de ações do marketplace e do seller, conforme a imagem a seguir:
 
-<img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/sellers/seller-portal/seller-portal-primeiros-passos-para-o-marketplace_2.png"/>
+![Seller Portal - Primeiros Passos](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/sellers/seller-portal/seller-portal-primeiros-passos-para-o-marketplace_2.png)
 
 Os passos representados na imagem anterior são:
 

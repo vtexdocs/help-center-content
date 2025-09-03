@@ -25,7 +25,7 @@ To find a SKU ID, follow the steps below:
 
 In the example below, the product "Corebiz t-shirt" is associated with the SKU "corebiz t-shirt black", whose ID is `310119261`:
 
-![finding_sku_id_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/products-and-skus/finding-a-sku-id_1.png)
+![finding_sku_id_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/products-and-skus/finding-a-sku-id_1.png)
 
 ## Identifying a SKU ID via URL
 

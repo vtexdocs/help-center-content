@@ -13483,7 +13483,7 @@
               "children": [
                 {
                   "name": {
-                    "en": "API keys (Beta)",
+                    "en": "API keys",
                     "es": "Claves de API",
                     "pt": "Chaves de API"
                   },
@@ -13528,7 +13528,7 @@
                 },
                 {
                   "name": {
-                    "en": "External keys (Beta)",
+                    "en": "External keys",
                     "es": "Claves externas",
                     "pt": "Chaves externas"
                   },
@@ -13543,7 +13543,7 @@
                 },
                 {
                   "name": {
-                    "en": "Generated keys (Beta)",
+                    "en": "Generated keys",
                     "es": "Claves generadas",
                     "pt": "Chaves geradas"
                   },
@@ -13558,7 +13558,7 @@
                 },
                 {
                   "name": {
-                    "en": "Renewing API tokens (Beta)",
+                    "en": "Renewing API tokens",
                     "es": "Renovar token de API",
                     "pt": "Renovar token de API"
                   },
@@ -13566,37 +13566,6 @@
                     "en": "renewing-api-tokens",
                     "es": "renovar-token-de-api",
                     "pt": "renovar-token-de-api"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Application Keys",
-                "es": "Application Keys",
-                "pt": "Application Keys"
-              },
-              "slug": {
-                "en": "application-keys-category",
-                "es": "application-keys",
-                "pt": "application-keys"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Application Keys",
-                    "es": "Application Keys",
-                    "pt": "Application Keys"
-                  },
-                  "slug": {
-                    "en": "application-keys",
-                    "es": "",
-                    "pt": ""
                   },
                   "origin": "",
                   "type": "markdown",
@@ -14769,37 +14738,6 @@
           "origin": "",
           "type": "category",
           "children": [
-            {
-              "name": {
-                "en": "API keys BETA",
-                "es": "API keys BETA",
-                "pt": "API keys BETA"
-              },
-              "slug": {
-                "en": "api-keys-beta",
-                "es": "api-keys-beta",
-                "pt": "api-keys-beta"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Configuring the duration of API keys (Beta)",
-                    "es": "Configuring the duration of API keys (Beta)",
-                    "pt": "Configuring the duration of API keys (Beta)"
-                  },
-                  "slug": {
-                    "en": "configuring-the-duration-of-api-keys",
-                    "es": "",
-                    "pt": ""
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
             {
               "name": {
                 "en": "Catalog Beta",
@@ -16827,37 +16765,6 @@
                     "en": "what-is-the-difference-between-product-and-sku",
                     "es": "cual-es-la-diferencia-entre-producto-y-sku",
                     "pt": "qual-a-diferenca-entre-produto-e-sku"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Produtos e SKUs",
-                "es": "Produtos e SKUs",
-                "pt": "Produtos e SKUs"
-              },
-              "slug": {
-                "en": "produtos-e-skus",
-                "es": "produtos-e-skus",
-                "pt": "produtos-e-skus"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "pt": "Como criar um novo SKU",
-                    "en": "Como criar um novo SKU",
-                    "es": "Como criar um novo SKU"
-                  },
-                  "slug": {
-                    "pt": "como-criar-um-novo-sku",
-                    "en": "",
-                    "es": ""
                   },
                   "origin": "",
                   "type": "markdown",
@@ -20416,21 +20323,6 @@
                     "en": "data-entity",
                     "es": "entidade-de-datos",
                     "pt": "entidade-de-dados"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Master Data",
-                    "es": "Master Data",
-                    "pt": "Master Data"
-                  },
-                  "slug": {
-                    "en": "master-data",
-                    "es": "master-data",
-                    "pt": "master-data"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -27490,21 +27382,6 @@
                 },
                 {
                   "name": {
-                    "en": "Best practices for using application keys",
-                    "es": "Best practices for using application keys",
-                    "pt": "Best practices for using application keys"
-                  },
-                  "slug": {
-                    "en": "best-practices-application-keys",
-                    "es": "",
-                    "pt": ""
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Best practices to avoid scams using the VTEX brand",
                     "es": "Buenas prácticas de prevención de fraudes que utilizan la marca VTEX",
                     "pt": "Boas práticas para evitar golpes que utilizam a marca da VTEX"
@@ -27861,9 +27738,9 @@
                     "pt": "Seller Portal: Marcas"
                   },
                   "slug": {
-                    "en": "brands",
-                    "es": "marcas",
-                    "pt": "marcas"
+                    "en": "seller-portal-brands",
+                    "es": "seller-portal-marcas",
+                    "pt": "seller-portal-marcas"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -27876,9 +27753,9 @@
                     "pt": "Seller Portal: Categorias"
                   },
                   "slug": {
-                    "en": "categories",
-                    "es": "categorias",
-                    "pt": "categorias"
+                    "en": "seller-portal-categories",
+                    "es": "seller-portal-categorias",
+                    "pt": "seller-portal-categorias"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -29258,21 +29135,6 @@
                     "en": "vtex-shipping-network-dashboard",
                     "es": "panel-vtex-shipping-network",
                     "pt": "painel-vtex-shipping-network"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "VTEX Shipping Network: Deliveries progress",
-                    "es": "VTEX Shipping Network: Progreso de las entregas",
-                    "pt": "VTEX Shipping Network: Entregas Correios"
-                  },
-                  "slug": {
-                    "en": "deliveries-progress-vtex-shipping-network",
-                    "es": "progreso-de-las-entregas-vtex-shipping-network",
-                    "pt": "entregas-correios-vtex-shipping-network"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -31471,21 +31333,6 @@
                     "en": "billing-module-overview",
                     "es": "vision-general-facturacion",
                     "pt": "visao-geral-faturas"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Configuring iDEAL payment method in Adyen integration",
-                    "es": "Configurar el medio de pago iDEAL en la integración con Adyen",
-                    "pt": "Configurar o método de pagamento iDeal na integração com a Adyen"
-                  },
-                  "slug": {
-                    "en": "configuring-ideal-payment-method-in-adyen-integration",
-                    "es": "configurar-el-medio-de-pago-ideal-en-la-integracion-con-adyen",
-                    "pt": "configurar-o-metodo-de-pagamento-ideal-na-integracao-com-a-adyen"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -35657,6 +35504,21 @@
                 "en": "product-unavailable-even-with-franchised-stock",
                 "es": "producto-no-disponible-incluso-con-el-stock-de-la-franquicia",
                 "pt": "produto-indisponivel-mesmo-com-estoque-na-franquia"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Products are not updated after trade policies are created/updated",
+                "es": "Los productos no se actualizan tras la creación/actualización de las políticas comerciales",
+                "pt": "Os produtos não são atualizados depois que as políticas comerciais são criadas/atualizadas"
+              },
+              "slug": {
+                "en": "products-are-not-updated-after-trade-policies-are-createdupdated",
+                "es": "los-productos-no-se-actualizan-tras-la-creacionactualizacion-de-las-politicas-comerciales",
+                "pt": "os-produtos-nao-sao-atualizados-depois-que-as-politicas-comerciais-sao-criadasatualizadas"
               },
               "origin": "",
               "type": "markdown",

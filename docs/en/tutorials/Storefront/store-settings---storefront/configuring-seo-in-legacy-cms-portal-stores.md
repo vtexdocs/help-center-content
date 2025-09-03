@@ -32,4 +32,4 @@ The title tag helps define the subject of the page for search engines and direct
   - **Robots.txt:** Specify how search engines should crawl and index a specific page. The default values are `index, follow`. For additional values compatible with Google, see the [list of valid rules](https://developers.google.com/search/docs/crawling-indexing/robots-meta-tag#directives).
 4. Click `Save`.
 
-![seo-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Storefront/store-settings---storefront/configuring-seo-in-legacy-cms-portal-stores_1.png)
+![seo-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/store-settings---storefront/configuring-seo-in-legacy-cms-portal-stores_1.png)

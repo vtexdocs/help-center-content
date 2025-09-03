@@ -3,8 +3,8 @@ title: 'Como devolver itens do pedido'
 id: 2bSNWwD0g8fcUmuupLao9i
 status: PUBLISHED
 createdAt: 2020-12-28T21:23:42.045Z
-updatedAt: 2024-06-10T23:02:44.957Z
-publishedAt: 2024-06-10T23:02:44.957Z
+updatedAt: 2025-09-02T17:22:21.189Z
+publishedAt: 2025-09-02T17:22:21.189Z
 firstPublishedAt: 2020-12-28T21:27:16.332Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -40,4 +40,4 @@ A página de **Detalhes do Pedido** permite orquestrar essa operação, seguindo
 
 Após o reembolso ser processado pelo sistema, os itens devolvidos e suas informações aparecerão na seção **Itens Devolvidos**.
 
-> ℹ️ A alteração de pedidos via API é feita pelo endpoint [Create order change](https://developers.vtex.com/docs/api-reference/orders-api#patch-/api/order-system/orders/-changeOrderId-/changes) e a emissão de faturas após alterações é feita pelo endpoint [Order invoice notification](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/invoice).
+> ℹ️ A alteração de pedidos via API é feita pelo endpoint [Create order modifications](https://developers.vtex.com/docs/api-reference/orders-api#patch-/api/order-system/orders/-changeOrderId-/changes) e a emissão de faturas após alterações é feita pelo endpoint [Order invoice notification](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/invoice).

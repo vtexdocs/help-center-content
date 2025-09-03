@@ -21,7 +21,7 @@ On the main interface, you can find all transactions listed, from the most rece
 
 This listing indicates the current status, the start (date and time) of the transaction, the customer's name, the order's ID, the payment method used to close the order and the value transacted.
 
-![payment_en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Transactions/how-to-view-transactions-on-pci-gateway_1.jpg)
+![payment_en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/transactions/how-to-view-transactions-on-pci-gateway_1.jpg)
 
 Each order registration will its data restricted to the payment conditions used for its closure. Authorization, transaction and NSU codes, among others, [are available within each record.](http://help.vtex.com/tutorial/como-visualizar-detalhes-do-pedido/ "are available within each record.")
 

@@ -3,8 +3,8 @@ title: 'Alterar preço de SKU'
 id: tutorials_95
 status: PUBLISHED
 createdAt: 2017-04-27T22:19:48.759Z
-updatedAt: 2024-01-05T17:59:41.793Z
-publishedAt: 2024-01-05T17:59:41.793Z
+updatedAt: 2025-09-02T16:03:25.468Z
+publishedAt: 2025-09-02T16:03:25.468Z
 firstPublishedAt: 2017-04-27T23:00:42.506Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -77,17 +77,17 @@ Depois que o e-mail chegar e fizer o download, altere somente aqueles SKUs que r
 Essas são as colunas da planilha que chega no e-mail do usuário, quando faz a exportação conforme mencionado no passo a passo acima. Abaixo está escrito exatamente como está na planilha. A obrigatoriedade de preenchimento de cada coluna, segue o mesmo padrão dos campos do formulário descrito no referido tópico acima.
 
 - **StockKeepingUnitId:** ID do SKU.
-- **Source: **utm\_source.
+- **Source:** utm\_source.
 - **Price:** preço de venda do produto.
 - **Id:** ID do preço. Não altere esse valor, caso contrário o sistema criará uma nova linha na tabela de preço e ficarão dois preços cadastrados para o SKU.
 - **StoreId:** ID da política comercial onde o preço será aplicado. Caso tenha dúvida de qual é o código de identificação de alguma política, acesse o módulo Catalog > Marketplace > Política Comercial. Verifique o número que aparece na coluna **Id - Nome**. Esse é o código que deverá ser usado aqui.
 - **Medium (Desconsiderar):** Campo descontinuado.
 - **Campaign:** utm\_campaign.
 - **InternalCampaign:** utmi\_cp.
-- **DateFrom: **data do início da vigência do preço. Preencher no formato dd/mm/aaaa.
-- **DateTo: **data do fim da vigência do preço. Preencher no formato dd/mm/aaaa.
-- **ListPrice: **preço de, também conhecido como preço de lista. É aquele que aparece tachado (ex: `De: R$ 10,00`) no site.
-- **RefId (Não alterável): **código de referência de produto, conforme cadastro do produto. Não alterar esse valor.
+- **DateFrom:** data do início da vigência do preço. Preencher no formato dd/mm/aaaa.
+- **DateTo:** data do fim da vigência do preço. Preencher no formato dd/mm/aaaa.
+- **ListPrice:** preço de, também conhecido como preço de lista. É aquele que aparece tachado (ex: `De: R$ 10,00`) no site.
+- **RefId (Não alterável):** código de referência de produto, conforme cadastro do produto. Não alterar esse valor.
 - **Ean13Default (Não alterável):** EAN do produto, conforme cadastro do produto. Não alterar esse valor.
 - **BrandName (Não alterável):** marca do produto, conforme cadastro do produto. Não alterar esse valor.
 - **StockKeepingUnitName (Não alterável):** nome do SKU, conforme cadastro do produto. Não alterar esse valor.

@@ -35,13 +35,13 @@ To return to the original list of transactions, just delete the value previously
 
 In the Orders Management, if you click on a given order, you'll see a page with its main information. There you'll find the link _See transaction details_. Click on it to know more about the order:
 
-![Link transação OMS (EN)](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Transactions/searching-for-transactions-on-payments_1.png)
+![Link transação OMS (EN)](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/transactions/searching-for-transactions-on-payments_1.png)
 
 ## Payment TID and Payment ID
 
 The search using these codes must necessarily contain all digits, or your search will return empty. Here's how to find them:
 
-![Códigos EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Payments/Transactions/searching-for-transactions-on-payments_2.png)
+![Códigos EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/transactions/searching-for-transactions-on-payments_2.png)
 
 These values, within the transaction detail, represent the communication with the respective connector. At [transaction events](/en/tutorial/how-to-view-the-orders-details), it is possible to validate each contact made.
 

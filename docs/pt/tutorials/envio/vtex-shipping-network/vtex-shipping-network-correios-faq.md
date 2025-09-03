@@ -3,8 +3,8 @@ title: 'VTEX Shipping Network Correios: FAQ'
 id: 2Wavf7Wie5GEUAEHKtn5oC
 status: PUBLISHED
 createdAt: 2023-06-01T13:24:23.895Z
-updatedAt: 2023-08-25T15:32:25.418Z
-publishedAt: 2023-08-25T15:32:25.418Z
+updatedAt: 2025-09-02T17:37:37.771Z
+publishedAt: 2025-09-02T17:37:37.771Z
 firstPublishedAt: 2023-06-01T14:47:24.289Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -81,7 +81,7 @@ As principais vantagens da solução são as seguintes:
 * **Integração com os Correios pelo Admin VTEX:** você integra sua operação aos Correios e recebe no seu ambiente da VTEX tanto a URL de rastreio quanto as informações para acompanhamento do rastreio de envio dos Correios.
 * **Atualização automática de tabelas:** você não precisa atualizar ou gerenciar as tabelas dos Correios, pois o _VTEX Shipping Network Correios_ realiza isso automaticamente quando os Correios modificam os valores das tabelas.
 
-Além disso, você dispõe das seguintes funcionalidades no seu Admin VTEX**:**
+Além disso, você dispõe das seguintes funcionalidades no seu Admin VTEX:
 
 * [Acompanhar as entregas](https://help.vtex.com/pt/tutorial/entregas-correios-vtex-shipping-network--5CZRA0lq60EecmwZpsjvfq) feitas pelos Correios.
 * [Solicitar Pedidos de Informação](https://help.vtex.com/pt/tutorial/entregas-correios-vtex-shipping-network--5CZRA0lq60EecmwZpsjvfq#solicitar-informacoes-do-pedido-aos-correios) aos Correios.
@@ -160,7 +160,7 @@ Para encontrar o Painel, no Admin VTEX, acesse **Envio > VTEX Shipping Network**
 
 ## 13. Preciso escolher uma nova agência dos Correios ou posso manter a agência que já tenho de um contrato direto com os Correios?
 
-Caso você já tenha uma operação com os Correios, após contratar o **VTEX Shipping Network Correios **o seu processo permanecerá o mesmo.
+Caso você já tenha uma operação com os Correios, após contratar o **VTEX Shipping Network Correios** o seu processo permanecerá o mesmo.
 
 Caso você ainda não tenha uma operação com uma agência, acesse o [site dos Correios](https://mais.correios.com.br/app/index.php) para encontrar a agência mais próxima e entre em contato para combinar a coleta e o envio de pacotes.
 

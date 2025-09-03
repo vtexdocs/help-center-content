@@ -24,7 +24,7 @@ You can move a SKU associated with one product to another by following the steps
 3. On the [edit product](https://help.vtex.com/en/tutorial/adicionar-ou-editar-produto--29IkdEu6GofCFlltsZh2H8) page or the [edit SKU](https://help.vtex.com/en/tutorial/adicionar-ou-editar-sku--4ryZ6J45kwn3jDiQBxGiiN) page, click the **SKUs** tab.
 4. Click the vertical ellipsis menu > `Move to another product`.
 
-    ![move_sku_product_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Catalog/products-and-skus/moving-a-sku-to-another-product_1.png)
+    ![move_sku_product_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/products-and-skus/moving-a-sku-to-another-product_1.png)
 
 5. Click the product you want or use the search bar by entering the product name or reference code.
 6. Click `Move SKU`.

@@ -3,8 +3,8 @@ title: 'Support indicators'
 id: 7K5r16D5K7RHhry2SQQlKD
 status: PUBLISHED
 createdAt: 2021-05-14T15:48:27.357Z
-updatedAt: 2021-05-14T16:36:44.730Z
-publishedAt: 2021-05-14T16:36:44.730Z
+updatedAt: 2025-09-03T20:21:18.645Z
+publishedAt: 2025-09-03T20:21:18.645Z
 firstPublishedAt: 2021-05-14T15:51:29.000Z
 contentType: tutorial
 productTeam: Others

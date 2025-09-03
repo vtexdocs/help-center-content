@@ -66,7 +66,7 @@ Para crear un lanzamiento, sigue las instrucciones paso a paso a continuación:
 
 8. Haz clic en `Crear`.
 
-![print_cms_beta_es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/beta/lanzamientos-(beta)/modulo-de-lanzamientos-beta_1.png)
+![print_cms_beta_es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/beta/lanzamientos-beta/modulo-de-lanzamientos-beta_1.png)
 
 ### Crear lanzamiento a través del módulo Lanzamientos
 
@@ -84,7 +84,7 @@ Para crear un lanzamiento, sigue las instrucciones paso a paso a continuación:
 
 Todos los lanzamientos creados aparecen en una lista en el Admin VTEX en **Configuración de la tienda > Lanzamientos**. La página muestra dos pestañas, `PROGRAMADOS` y `NO PROGRAMADOS`, dependiendo de si el lanzamiento se creó con una fecha de publicación o no. 
 
-![print_releases_es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/beta/lanzamientos-(beta)/modulo-de-lanzamientos-beta_2.png)
+![print_releases_es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/beta/lanzamientos-beta/modulo-de-lanzamientos-beta_2.png)
 
 En la pestaña `PROGRAMADOS`, la descripción de cada columna es la siguiente:
 

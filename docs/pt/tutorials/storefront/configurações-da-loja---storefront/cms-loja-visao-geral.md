@@ -3,8 +3,8 @@ title: 'Loja - Visão geral'
 id: 3Eat287G6wUi6Mly5rW5Fs
 status: PUBLISHED
 createdAt: 2022-01-06T13:45:16.048Z
-updatedAt: 2023-03-24T19:00:42.910Z
-publishedAt: 2023-03-24T19:00:42.910Z
+updatedAt: 2025-09-02T18:14:11.909Z
+publishedAt: 2025-09-02T18:14:11.909Z
 firstPublishedAt: 2022-01-06T14:09:01.062Z
 contentType: tutorial
 productTeam: VTEX IO
@@ -17,7 +17,7 @@ subcategoryId: 7ogirQ8NClawO2X6xdgCKc
 
 A página **Loja** permite que você realize configurações de SEO, habilite flags de otimização de desempenho e edite as configurações de PWA da sua loja.
 
-No Admin VTEX, acesse **Configurações da loja > Storefront > Loja*** e descubra as principais ferramentas disponíveis na interface.
+No Admin VTEX, acesse **Configurações da loja > Storefront > Loja** e descubra as principais ferramentas disponíveis na interface.
 
 ![CMS Loja](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/configura%C3%A7%C3%B5es-da-loja---storefront/cms-loja-visao-geral_1.png)
 

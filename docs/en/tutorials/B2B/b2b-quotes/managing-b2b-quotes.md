@@ -77,7 +77,7 @@ The list of quotes and saved carts displays the following information:
 
 Users can click any row or the <i class="fas fa-ellipsis-v" aria-hidden="true"></i> and then click Details to view and edit the information of a quote, depending on their permissions.
 
-![My quotes - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/B2B/b2b-quotes/managing-b2b-quotes_1.png)
+![My quotes - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/b2b/b2b-quotes/managing-b2b-quotes_1.png)
 
 ## Creating quotes or saving carts
 To create a quote or saved cart, you must have the [Create Quotes and Carts permission](#create-quotes-and-Carts-permission). After adding products to the cart, use the cart content to create a saved cart or request a quote. Follow the instructions below:
@@ -132,7 +132,7 @@ To create a quote or saved cart, you must have the [Create Quotes and Carts perm
 
 A quote is essentially a saved cart with the original quantities and prices of the items in the user's shopping cart.
 
-![Create Quote - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/B2B/b2b-quotes/managing-b2b-quotes_2.png)
+![Create Quote - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/b2b/b2b-quotes/managing-b2b-quotes_2.png)
 
 ## Quote details
 The Quote Details page displays all the information about a quote or saved cart, as well as the actions available based on the status and [user permissions](#access-permissions). To access this page, go to **My Account > Quotes and Saved Carts**.
@@ -155,7 +155,7 @@ On this page, you will see the following information:
 - **Update History:** Includes a history of all events related to the quote, such as its creation and discounts given, including notes, if any.
 - **Add Note:** Optional field for writing comments or notes. Notes added here will be visible as part of the Update History of the quote or saved cart. For example, if a user wants to ask for a specific discount from the sales associate, they can enter this request as a note.
 
-![Quotes Details - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/B2B/b2b-quotes/managing-b2b-quotes_3.png)
+![Quotes Details - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/b2b/b2b-quotes/managing-b2b-quotes_3.png)
 
 ## Editing quotes
 Users with [editing permissions](#access-permissions), usually associated with sales or store administrator roles, can edit quotes on the Quote Details page as follows:

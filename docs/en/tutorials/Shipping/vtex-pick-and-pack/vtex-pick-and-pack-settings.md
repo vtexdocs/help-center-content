@@ -32,7 +32,7 @@ subcategoryId: 7Kllu6CmeLNV3tYXlCFvOt
 
 In this tab, you'll find the settings related to the picking of order items. Here, you can set actions the picker can take during the picking process, including notifying you that an order item is unavailable and suggesting replacements.
 
-![pick-and-pack-separacao-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Shipping/vtex-pick-and-pack/vtex-pick-and-pack-settings_1.png)
+![pick-and-pack-separacao-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-settings_1.png)
 
 ### Picking Strategy
 
@@ -89,7 +89,7 @@ Click `Save` to save the changes.
 
 On this tab, you can configure the order of the categories in which the orders will be picked. This enables the picker to manage the order picking process efficiently.
 
-![pick-pack-categorias-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Shipping/vtex-pick-and-pack/vtex-pick-and-pack-settings_2.png)
+![pick-pack-categorias-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-settings_2.png)
 
 * **Fast configuration**: Applies the settings to all facilities. You can enable <i class="fas fa-toggle-on"></i> or disable <i class="fas fa-toggle-off"></i> this option.
 * **Facility**: Determines the facility to which the category settings will be applied.
@@ -101,7 +101,7 @@ You can import a CSV file or export the already configured list.
 ## Packing
 In this tab, you will find the packing settings for order items.
 
-![pick-pack-empacotamento-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Shipping/vtex-pick-and-pack/vtex-pick-and-pack-settings_3.png)
+![pick-pack-empacotamento-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-settings_3.png)
 * **Allow package reports**: Enables the visualization of the package report, which will be displayed on the Orders screen. You can enable <i class="fas fa-toggle-on"></i> or disable <i class="fas fa-toggle-off"></i> this option.
 * **Allow automatic packing**: Allows automatic packaging of orders. You can enable <i class="fas fa-toggle-on"></i> or disable <i class="fas fa-toggle-off"></i> this option.
 
@@ -168,7 +168,7 @@ Click `Save` to save the changes.
 
 In this tab, you will find settings for orders processed by VTEX Pick and Pack.
 
-![pick-pack-config-pedidos-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Shipping/vtex-pick-and-pack/vtex-pick-and-pack-settings_4.png)
+![pick-pack-config-pedidos-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-settings_4.png)
 
 * **Download Orders From OMS**: Allows exporting orders from the OMS.
 * **Payment methods**: Payment methods used in the orders being exported.
@@ -182,7 +182,7 @@ Click `Save` to save the changes.
 
 In this tab, you will find the automation settings for VTEX Pick and Pack processes.
 
-![pick-pack-automacao-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Shipping/vtex-pick-and-pack/vtex-pick-and-pack-settings_5.png)
+![pick-pack-automacao-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-settings_5.png)
 
 To create a new automation, follow the steps below:
 
@@ -194,7 +194,7 @@ To create a new automation, follow the steps below:
 
 In this tab, you can manage users, admins, and pickers from your VTEX Pick and Pack operation. Users with Admin permission will have access to the VTEX Admin and be able to make changes within the tool. Users with Picker permission can only access the VTEX Pick and Pack app.
 
-![pick-pack-usuarios-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Shipping/vtex-pick-and-pack/vtex-pick-and-pack-settings_6.png)
+![pick-pack-usuarios-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-settings_6.png)
 
 To create a new user, follow the steps below:
 
@@ -204,7 +204,7 @@ To create a new user, follow the steps below:
   * __Admin__ permission
     1. Select the listed user you want to add as __Admin__.
     2. Click `Create`.
-    ![pick-pack-usuarios-2-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Shipping/vtex-pick-and-pack/vtex-pick-and-pack-settings_7.png)
+    ![pick-pack-usuarios-2-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-settings_7.png)
   * __Picker__ permission
     1. Complete the form with the following information:
        * User name
@@ -215,13 +215,13 @@ To create a new user, follow the steps below:
        * Allow shipping packages
        * Categories
     2. Click `Create`.
-    ![pick-pack-usuarios-3-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Shipping/vtex-pick-and-pack/vtex-pick-and-pack-settings_8.png)
+    ![pick-pack-usuarios-3-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-settings_8.png)
 
 ## Catalog
 
 In this tab, you can access information about items in orders that are currently in the shipping stage.
 
-![pick-pack-catalogo-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Shipping/vtex-pick-and-pack/vtex-pick-and-pack-settings_9.png)
+![pick-pack-catalogo-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-settings_9.png)
 
 The page displays the following information in a table:
 
@@ -252,7 +252,7 @@ You can also index the catalog to update the product list. To do this, click `In
 
 In this tab, you will be able to add and view your store's facilities.
 
-![pick-pack-instalacoes-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/Shipping/vtex-pick-and-pack/vtex-pick-and-pack-settings_10.png)
+![pick-pack-instalacoes-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-settings_10.png)
 
 To create a new facility, follow these steps:
 

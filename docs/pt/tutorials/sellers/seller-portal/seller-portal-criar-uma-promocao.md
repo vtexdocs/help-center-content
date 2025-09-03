@@ -3,8 +3,8 @@ title: 'Seller Portal: Criar uma promoção'
 id: kzNPEaiJE8EWkDzO9dbBI
 status: PUBLISHED
 createdAt: 2023-09-01T15:28:13.875Z
-updatedAt: 2023-11-16T18:06:30.499Z
-publishedAt: 2023-11-16T18:06:30.499Z
+updatedAt: 2025-09-02T17:56:58.391Z
+publishedAt: 2025-09-02T17:56:58.391Z
 firstPublishedAt: 2023-09-01T16:58:54.457Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -17,8 +17,8 @@ subcategoryId: 4hisB47iAVZk4r3SEmMoG
 
 Para criar uma nova promoção como seller no Seller Portal, siga o passo a passo abaixo.
 
-1. No Admin VTEX, acesse **Produtos > Promoções > Promoções **ou digite **Promoções **na barra de busca no topo da página.
-2. Clique em `Criar promoção.`
+1. No Admin VTEX, acesse **Produtos > Promoções > Promoções** ou digite **Promoções** na barra de busca no topo da página.
+2. Clique em `Criar promoção`.
 3. Preencha as informações descritas em [Campos de cadastro da promoção](#campos-de-cadastro-da-promocao).
 4. Clique em `Salvar.`
 5. Revise as configurações da sua promoção antes de publicá-la.
@@ -38,7 +38,7 @@ Nesta seção, você deve configurar as informações gerais da sua promoção.
 ![seller-portal-promo-geral-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/sellers/seller-portal/seller-portal-criar-uma-promocao_2.png)
 
 * **Nome:** nome da promoção.
-* **Status: **opção que define se a promoção está ativa <i class="fas-toggle-on"></i> ou inativa <i class="fas-toggle-off"></i>.
+* **Status:** opção que define se a promoção está ativa <i class="fas-toggle-on"></i> ou inativa <i class="fas-toggle-off"></i>.
 * **Descrição:** descrição interna da promoção. O objetivo desse campo é que seja usado para comunicação interna na sua loja, a fim de deixar claro se a promoção é devido à alguma campanha, queima de estoque, etc.
 * **Data de início:** data de início da promoção. Pode ser usada uma data futura para que a promoção comece a ser aplicada no site. Caso seja configurada dessa forma, a promoção terá o status de **agendada** até que a data seja atingida. 
 * **Data de término:** data de término da promoção. Enquanto a data de término estiver válida, a promoção terá o status de ativa, e ao término da data definida o desconto será inativado automaticamente.
