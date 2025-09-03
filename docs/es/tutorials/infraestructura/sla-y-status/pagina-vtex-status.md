@@ -19,7 +19,7 @@ La página [VTEX Status](https://status.vtex.com/) te permite monitorear la esta
 
 Nuestro equipo informa los eventos cada vez que nuestro sistema de monitoreo automático identifica una inestabilidad en los módulos de la plataforma. Cualquier mantenimiento programado también se comunica en detalle.
 
-![statuspage-1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/infraestructura/sla-&-status/pagina-vtex-status_1.png)
+![statuspage-1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/infraestructura/sla-y-status/pagina-vtex-status_1.png)
 
 En este artículo, se describen los elementos de la página de status de la plataforma VTEX, desarrollada con la herramienta [incident.io](https://incident.io/):
 
@@ -41,7 +41,7 @@ El botón `Subscribe to updates` en la parte superior derecha de la página te d
 
 La opción de inscripción por email te permite decidir los componentes específicos para los que deseas recibir notificaciones. Solo tienes que marcar la opción **Subscribe to specific components** y, luego, los componentes que deseas monitorear.
 
-![statuspage-2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/infraestructura/sla-&-status/pagina-vtex-status_2.png)
+![statuspage-2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/infraestructura/sla-y-status/pagina-vtex-status_2.png)
 
 ## Status general
 
@@ -49,23 +49,23 @@ Esta sección te permite ver el status general de la plataforma: fully operation
 
 Cuando algún problema o mantenimiento está afectando un componente, se indica dicho componente y se incluye una explicación del evento.  A continuación se muestran algunos ejemplos.
 
-![statuspage-3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/infraestructura/sla-&-status/pagina-vtex-status_3.png)
+![statuspage-3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/infraestructura/sla-y-status/pagina-vtex-status_3.png)
 
-![statuspage-4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/infraestructura/sla-&-status/pagina-vtex-status_4.png)
+![statuspage-4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/infraestructura/sla-y-status/pagina-vtex-status_4.png)
 
-![statuspage-5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/infraestructura/sla-&-status/pagina-vtex-status_5.png)
+![statuspage-5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/infraestructura/sla-y-status/pagina-vtex-status_5.png)
 
 ## Status de los sistemas
 
 Esta sección te permite verificar en tiempo real el status de cada sistema de la plataforma y de sus componentes.
 
-![statuspage-6](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/infraestructura/sla-&-status/pagina-vtex-status_6.png)
+![statuspage-6](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/infraestructura/sla-y-status/pagina-vtex-status_6.png)
 
 Al hacer clic en la flecha <i class="fas fa-chevron-down"></i> al lado del número de componentes, verás el status de los componentes específicos de cada sistema.
 
 Si se trata de un mantenimiento programado para una fecha futura, también verás el botón `Upcoming maintenance scheduled`, como se ilustra a continuación. Al pasar el mouse sobre el botón, se mostrará el evento de mantenimiento programado. Puedes hacer clic en el evento para ver su registro.
 
-![statuspage-7](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/infraestructura/sla-&-status/pagina-vtex-status_7.png)
+![statuspage-7](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/infraestructura/sla-y-status/pagina-vtex-status_7.png)
 
 Los posibles status para cada componente son:
 
@@ -123,7 +123,7 @@ Para navegar a meses anteriores, haz clic en la flecha `<`.
 
 Para ver los eventos ocurridos en un día específico, pasa el mouse sobre la fecha. Para acceder a la página que contiene el registro completo del evento, haz clic en el incidente o el mantenimiento indicado en la fecha.
 
-![statuspage-8](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/infraestructura/sla-&-status/pagina-vtex-status_8.png)
+![statuspage-8](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/infraestructura/sla-y-status/pagina-vtex-status_8.png)
 
 > ⚠️ Si un mantenimiento programado dura más de un día, solo se marcará la fecha de inicio en el calendario. Debes abrir el [registro de mantenimiento](#registro-de-mantenimiento-programado) para ver la fecha de inicio y la fecha de fin.
 
@@ -133,7 +133,7 @@ A continueación, describimos la información disponible en el registro del inci
 
 La página de detalles del incidente contiene la siguiente información:
 
-![status-page-9-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/infraestructura/sla-&-status/pagina-vtex-status_9.png)
+![status-page-9-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/infraestructura/sla-y-status/pagina-vtex-status_9.png)
 
 * **Título:** título que describe el incidente.
 * **Status:** cada incidente tiene un ciclo definido en que nuestro equipo trabaja para identificar y solucionar los problemas. Las etapas del ciclo son:
@@ -162,6 +162,6 @@ El registro de mantenimiento programado muestra la misma información que el reg
 
 A continuación, se muestran ejemplos del status y la línea de tiempo de un mantenimiento programado.
 
-![statuspage-10](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/infraestructura/sla-&-status/pagina-vtex-status_10.png)
+![statuspage-10](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/infraestructura/sla-y-status/pagina-vtex-status_10.png)
 
-![statuspage-11](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/infraestructura/sla-&-status/pagina-vtex-status_11.png)
+![statuspage-11](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/infraestructura/sla-y-status/pagina-vtex-status_11.png)

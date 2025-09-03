@@ -29,6 +29,7 @@ async function main() {
     "tutorial",
   ];
   const skipImages = args.skipImages;
+  const skipWrite = args.skipWrite;
 
   const allowedTypes = [
     "trackArticle",
@@ -47,7 +48,19 @@ async function main() {
     return;
   }
 
-  const locales = ["en", "pt", "es"];
+  const supportedLocales = ["en", "pt", "es"];
+  let locales = supportedLocales;
+
+  if (args.locale) {
+    if (!supportedLocales.includes(args.locale)) {
+      console.error(
+        `⛔ Invalid locale: ${args.locale}\n` +
+          `✅ Allowed locales are: ${supportedLocales.join(", ")}`
+      );
+      return;
+    }
+    locales = [args.locale];
+  }
 
   // Optionally clean docs folder before fetching content
   const docsPath = path.join(__dirname, "..", "docs");
@@ -77,7 +90,8 @@ async function main() {
     trackTopics.forEach(async (trackTopic, i) => {
       for (const locale of locales) {
         const folderName = normalizeFolderName(
-          trackTopic.fields.name?.[locale]
+          trackTopic.fields.name?.[locale],
+          locale
         );
         const folderPath = path.join(
           __dirname,
@@ -111,130 +125,131 @@ async function main() {
   console.log(`📄 Found ${entries.length} entries to process.`);
 
   //CREATE FILES
-  for (const entry of entries) {
-    if (isArchived(entry) || isDraft(entry)) {
-      console.log(`⏭️ Skipping archived/draft entry ${entry.sys.id}`);
-      continue;
-    }
+  if (!skipWrite) {
+    for (const entry of entries) {
+      if (isArchived(entry) || isDraft(entry)) {
+        console.log(`⏭️ Skipping archived/draft entry ${entry.sys.id}`);
+        continue;
+      }
 
-    const type = entry.sys.contentType.sys.id;
+      const type = entry.sys.contentType.sys.id;
 
-    for (const locale of locales) {
-      if (type === "trackArticle") {
-        const trackId = entry.fields.trackId?.pt?.sys?.id;
+      for (const locale of locales) {
+        if (type === "trackArticle") {
+          const trackId = entry.fields.trackId?.pt?.sys?.id;
 
-        const stepIds = trackStepsMap?.[trackId] || [];
-        const idx = stepIds.indexOf(entry.sys.id);
-        const order = idx !== -1 ? idx + 1 : "undefined";
-        const { content, slug, trackSlug } = generateTrackMarkdown(
-          entry,
-          locale,
-          order
-        );
-        const trackCategory = getTrackCategoryByTrackId(
-          trackTopicMap,
-          locale,
-          trackId
-        );
-        const folder = trackCategory ? `tracks/${trackCategory}` : "tracks";
-        const fixedContent = convertInlineHtmlToMarkdown(content);
+          const stepIds = trackStepsMap?.[trackId] || [];
+          const idx = stepIds.indexOf(entry.sys.id);
+          const order = idx !== -1 ? idx + 1 : "undefined";
+          const { content, slug, trackSlug } = generateTrackMarkdown(
+            entry,
+            locale,
+            order
+          );
+          const trackCategory = getTrackCategoryByTrackId(
+            trackTopicMap,
+            locale,
+            trackId
+          );
+          const folder = trackCategory ? `tracks/${trackCategory}` : "tracks";
+          const fixedContent = convertInlineHtmlToMarkdown(content);
 
-        await writeMarkdown({
-          content: fixedContent,
-          slug,
-          locale,
-          folder: folder,
-          subfolder: normalizeFolderName(trackSlug),
-        });
-      } else if (type === "tutorial") {
-        const subcatRef = entry.fields.subcategory?.pt?.sys?.id;
+          await writeMarkdown({
+            content: fixedContent,
+            slug,
+            locale,
+            folder: folder,
+            subfolder: normalizeFolderName(trackSlug, locale),
+          });
+        } else if (type === "tutorial") {
+          const subcatRef = entry.fields.subcategory?.pt?.sys?.id;
 
-        let categoryTitle = "uncategorized";
-        let subcategoryTitle = "unknown-subcategory";
+          let categoryTitle = "uncategorized";
+          let subcategoryTitle = "unknown-subcategory";
 
-        if (subcatRef) {
-          const subcategoryEntry = await fetchLinkedEntry(subcatRef);
-          subcategoryTitle =
-            subcategoryEntry?.fields?.title?.[locale] ||
-            subcategoryEntry?.fields?.title?.en ||
-            subcategoryTitle;
-          //subcategoryTitle = subcategoryEntry?.fields?.title?.en || subcategoryTitle; //subcategoryFolder sempre em inglês
+          if (subcatRef) {
+            const subcategoryEntry = await fetchLinkedEntry(subcatRef);
+            subcategoryTitle =
+              subcategoryEntry?.fields?.title?.[locale] ||
+              subcategoryEntry?.fields?.title?.en ||
+              subcategoryTitle;
+            //subcategoryTitle = subcategoryEntry?.fields?.title?.en || subcategoryTitle; //subcategoryFolder sempre em inglês
 
-          const catRef = subcategoryEntry?.fields?.category?.pt?.sys?.id;
-          if (catRef) {
-            const categoryEntry = await fetchLinkedEntry(catRef);
-            categoryTitle =
-              categoryEntry?.fields?.title?.[locale] ||
-              categoryEntry?.fields?.title?.en ||
-              categoryTitle;
-            //categoryTitle = categoryEntry?.fields?.title?.en || categoryTitle; //subfolder sempre em inglês
+            const catRef = subcategoryEntry?.fields?.category?.pt?.sys?.id;
+            if (catRef) {
+              const categoryEntry = await fetchLinkedEntry(catRef);
+              categoryTitle =
+                categoryEntry?.fields?.title?.[locale] ||
+                categoryEntry?.fields?.title?.en ||
+                categoryTitle;
+              //categoryTitle = categoryEntry?.fields?.title?.en || categoryTitle; //subfolder sempre em inglês
+            }
           }
+
+          const isTroubleshooting =
+            categoryTitle.toLowerCase() === "troubleshooting";
+          if (troubleshootingMode && !isTroubleshooting) continue;
+
+          if (!troubleshootingMode && isTroubleshooting) continue;
+
+          const { content, slug } = generateTutorialMarkdown(
+            entry,
+            locale,
+            categoryTitle,
+            subcategoryTitle,
+            isTroubleshooting
+          );
+
+          const fixedContent = convertInlineHtmlToMarkdown(content);
+          await writeMarkdown({
+            content: fixedContent,
+            slug,
+            locale,
+            folder: isTroubleshooting ? "troubleshooting" : "tutorials",
+            subcategoryFolder: isTroubleshooting ? "" : subcategoryTitle,
+            subfolder: isTroubleshooting
+              ? normalizeFolderName(subcategoryTitle, locale)
+              : normalizeFolderName(categoryTitle, locale),
+            subcategoryFolder: isTroubleshooting
+              ? ""
+              : normalizeFolderName(subcategoryTitle, locale),
+          });
+        } else if (type === "updates") {
+          const { content, slug } = generateAnnouncementMarkdown(entry, locale);
+
+          const fixedContent = convertInlineHtmlToMarkdown(content);
+          const { year, monthName } = getYearAndMonthName(
+            entry.sys.createdAt,
+            locale
+          );
+
+          await writeMarkdown({
+            content: fixedContent,
+            slug,
+            locale,
+            folder: "announcements",
+            subfolder: path.join(year, monthName),
+          });
+        } else if (type === "frequentlyAskedQuestion") {
+          const { content, slug, productTeam } = generateFaqMarkdown(
+            entry,
+            locale
+          );
+
+          const fixedContent = convertInlineHtmlToMarkdown(content);
+
+          await writeMarkdown({
+            content: fixedContent,
+            slug,
+            locale,
+            folder: "faq",
+            subfolder: normalizeFolderName(productTeam, locale),
+          });
         }
-
-        const isTroubleshooting =
-          categoryTitle.toLowerCase() === "troubleshooting";
-        if (troubleshootingMode && !isTroubleshooting) continue;
-
-        if (!troubleshootingMode && isTroubleshooting) continue;
-
-        const { content, slug } = generateTutorialMarkdown(
-          entry,
-          locale,
-          categoryTitle,
-          subcategoryTitle,
-          isTroubleshooting
-        );
-
-        const fixedContent = convertInlineHtmlToMarkdown(content);
-        await writeMarkdown({
-          content: fixedContent,
-          slug,
-          locale,
-          folder: isTroubleshooting ? "troubleshooting" : "tutorials",
-          subcategoryFolder: isTroubleshooting ? "" : subcategoryTitle,
-          subfolder: isTroubleshooting
-            ? normalizeFolderName(subcategoryTitle)
-            : normalizeFolderName(categoryTitle),
-          subcategoryFolder: isTroubleshooting
-            ? ""
-            : normalizeFolderName(subcategoryTitle),
-        });
-      } else if (type === "updates") {
-        const { content, slug } = generateAnnouncementMarkdown(entry, locale);
-
-        const fixedContent = convertInlineHtmlToMarkdown(content);
-        const { year, monthName } = getYearAndMonthName(
-          entry.sys.createdAt,
-          locale
-        );
-
-        await writeMarkdown({
-          content: fixedContent,
-          slug,
-          locale,
-          folder: "announcements",
-          subfolder: path.join(year, monthName),
-        });
-      } else if (type === "frequentlyAskedQuestion") {
-        const { content, slug, productTeam } = generateFaqMarkdown(
-          entry,
-          locale
-        );
-
-        const fixedContent = convertInlineHtmlToMarkdown(content);
-
-        await writeMarkdown({
-          content: fixedContent,
-          slug,
-          locale,
-          folder: "faq",
-          subfolder: normalizeFolderName(productTeam),
-        });
       }
     }
+    console.log("🚀 Markdown files generation completed.");
   }
-  console.log("🚀 Markdown files generation completed.");
-
   //FETCH AND UPDATE IMAGES
   if (!skipImages) {
     const folderMap = {
