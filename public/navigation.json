@@ -33384,21 +33384,6 @@
             },
             {
               "name": {
-                "en": "'Product Specification' filter on Collection Module assuming incorrect values",
-                "es": "El filtro 'Especificación del producto' del módulo de recogida asume valores incorrectos.",
-                "pt": "Filtro 'Product Specification' no Collection Module assumindo valores incorretos"
-              },
-              "slug": {
-                "en": "product-specification-filter-on-collection-module-assuming-incorrect-values",
-                "es": "el-filtro-especificacion-del-producto-del-modulo-de-recogida-asume-valores-incorrectos",
-                "pt": "filtro-product-specification-no-collection-module-assumindo-valores-incorretos"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "'Url Logo' Field in the Update Seller Request not Updating",
                 "es": "El campo 'Url Logo' en la solicitud de actualización del vendedor no se actualiza",
                 "pt": "Campo 'Url Logo' no campo 'Update Seller Request not Updating'."
@@ -34502,6 +34487,21 @@
                 "en": "dimension-text-fields-being-unselected-during-sku-creation",
                 "es": "campos-de-texto-de-dimension-no-seleccionados-durante-la-creacion-de-sku",
                 "pt": "campos-de-texto-de-dimensao-nao-sendo-selecionados-durante-a-criacao-da-sku"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "es": "El filtro \"Especificación del producto\" del módulo de recogida asume valores incorrectos.",
+                "pt": "Filtro \"Product Specification\" no Collection Module assumindo valores incorretos",
+                "en": "El filtro \"Especificación del producto\" del módulo de recogida asume valores incorrectos."
+              },
+              "slug": {
+                "es": "el-filtro-especificacion-del-producto-del-modulo-de-recogida-asume-valores-incorrectos",
+                "pt": "filtro-product-specification-no-collection-module-assumindo-valores-incorretos",
+                "en": ""
               },
               "origin": "",
               "type": "markdown",
@@ -41512,6 +41512,21 @@
                 "en": "amazon-orders-stock-reservation",
                 "es": "reserva-de-existencias-de-amazon-orders",
                 "pt": "reserva-de-estoque-de-pedidos-da-amazon"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Amazon SKUs for the same product weren't grouped on Amazon.",
+                "es": "Los SKU del mismo producto no se agrupaban en Amazon.",
+                "pt": "Amazon Os SKUs do mesmo produto não foram agrupados na Amazon."
+              },
+              "slug": {
+                "en": "amazon-skus-for-the-same-product-werent-grouped-on-amazon",
+                "es": "los-sku-del-mismo-producto-no-se-agrupaban-en-amazon",
+                "pt": "amazon-os-skus-do-mesmo-produto-nao-foram-agrupados-na-amazon"
               },
               "origin": "",
               "type": "markdown",
@@ -50389,6 +50404,21 @@
                 "en": "gift-card-view-only-role-not-available",
                 "es": "tarjeta-regalo-ver-solo-papel-no-disponible",
                 "pt": "funcao-somente-de-visualizacao-de-cartaopresente-nao-disponivel"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Giftcard Hub call receives 500 error",
+                "es": "La llamada al Giftcard Hub recibe un error 500",
+                "pt": "Chamada do Giftcard Hub recebe erro 500"
+              },
+              "slug": {
+                "en": "giftcard-hub-call-receives-500-error",
+                "es": "la-llamada-al-giftcard-hub-recibe-un-error-500",
+                "pt": "chamada-do-giftcard-hub-recebe-erro-500"
               },
               "origin": "",
               "type": "markdown",
