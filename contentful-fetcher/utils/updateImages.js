@@ -65,22 +65,18 @@ async function processDirectory(dirPath, contentTypeFolder) {
  * Main function to update images inside docs/{locale}/{contentTypeFolder}/
  * @param {string|null} contentTypeFolder - e.g. 'tutorials', 'tracks', 'faq'
  */
-async function updateImages(contentTypeFolder = null, locale) {
-  let LOCALE_DIRS;
+async function updateImages(
+  contentTypeFolder = null,
+  locales = ["en", "pt", "es"]
+) {
+  const mapLocaleToDir = {
+    en: docsDirEN,
+    pt: docsDirPT,
+    es: docsDirES,
+  };
 
-  if (locale) {
-    const mapLocaleToDir = {
-      en: docsDirEN,
-      pt: docsDirPT,
-      es: docsDirES,
-    };
-
-    LOCALE_DIRS = [mapLocaleToDir[locale]]; 
-  } else {
-    LOCALE_DIRS = [docsDirEN, docsDirPT, docsDirES];
-  }
-
-  for (const localeDir of LOCALE_DIRS) {
+  for (const locale of locales) {
+    const localeDir = mapLocaleToDir[locale];
     const targetDir = contentTypeFolder
       ? path.join(localeDir, contentTypeFolder)
       : localeDir;

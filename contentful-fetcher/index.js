@@ -78,54 +78,54 @@ async function main() {
     );
   }
 
-  console.log(
-    `📚 Fetching entries for content types: ${contentTypes.join(", ")}`
-  );
-
-  const trackTopicMap = [];
-  let trackStepsMap = [];
-  if (contentTypes.includes("trackArticle")) {
-    const trackTopics = await fetchEntries({ contentTypes: ["trackTopic"] });
-    console.log(`📄 Found ${trackTopics.length} tracks.`);
-    trackTopics.forEach(async (trackTopic, i) => {
-      for (const locale of locales) {
-        const folderName = normalizeFolderName(
-          trackTopic.fields.name?.[locale],
-          locale
-        );
-        const folderPath = path.join(
-          __dirname,
-          "..",
-          "docs",
-          locale,
-          "tracks",
-          folderName
-        );
-
-        if (!fs.existsSync(folderPath)) {
-          fs.mkdirSync(folderPath, { recursive: true });
-        }
-
-        const trackIds =
-          trackTopics[i].fields.tracks?.pt?.map((t) => t.sys.id) || [];
-        if (!trackTopicMap[locale]) {
-          trackTopicMap[locale] = {};
-        }
-
-        trackTopicMap[locale][folderName] = trackIds;
-
-        //console.log(locale, folderName, trackIds);
-      }
-    });
-    trackStepsMap = await getTrackSteps();
-  }
-  //console.log(trackStepsMap);
-
-  const entries = await fetchEntries({ contentTypes });
-  console.log(`📄 Found ${entries.length} entries to process.`);
-
-  //CREATE FILES
   if (!skipWrite) {
+    console.log(
+      `📚 Fetching entries for content types: ${contentTypes.join(", ")}`
+    );
+
+    const trackTopicMap = [];
+    let trackStepsMap = [];
+    if (contentTypes.includes("trackArticle")) {
+      const trackTopics = await fetchEntries({ contentTypes: ["trackTopic"] });
+      console.log(`📄 Found ${trackTopics.length} tracks.`);
+      trackTopics.forEach(async (trackTopic, i) => {
+        for (const locale of locales) {
+          const folderName = normalizeFolderName(
+            trackTopic.fields.name?.[locale],
+            locale
+          );
+          const folderPath = path.join(
+            __dirname,
+            "..",
+            "docs",
+            locale,
+            "tracks",
+            folderName
+          );
+
+          if (!fs.existsSync(folderPath)) {
+            fs.mkdirSync(folderPath, { recursive: true });
+          }
+
+          const trackIds =
+            trackTopics[i].fields.tracks?.pt?.map((t) => t.sys.id) || [];
+          if (!trackTopicMap[locale]) {
+            trackTopicMap[locale] = {};
+          }
+
+          trackTopicMap[locale][folderName] = trackIds;
+
+          //console.log(locale, folderName, trackIds);
+        }
+      });
+      trackStepsMap = await getTrackSteps();
+    }
+    //console.log(trackStepsMap);
+
+    const entries = await fetchEntries({ contentTypes });
+    console.log(`📄 Found ${entries.length} entries to process.`);
+
+    //CREATE FILES
     for (const entry of entries) {
       if (isArchived(entry) || isDraft(entry)) {
         console.log(`⏭️ Skipping archived/draft entry ${entry.sys.id}`);
@@ -243,7 +243,7 @@ async function main() {
             slug,
             locale,
             folder: "faq",
-            subfolder: normalizeFolderName(productTeam, locale),
+            subfolder: normalizeFolderName(productTeam),
           });
         }
       }
@@ -267,7 +267,7 @@ async function main() {
 
     for (const folder of foldersToUpdate) {
       console.log(`🖼️ Starting image update process for ${folder}`);
-      await updateImages(folder);
+      await updateImages(folder, locales); // currently only process one locale for images
     }
   }
 }

@@ -3,8 +3,8 @@ title: 'Novos campos obrigatórios para emissão de notas fiscais'
 id: 5jDozNwc272jtq92dvKQkq
 status: PUBLISHED
 createdAt: 2025-08-29T23:29:00.226Z
-updatedAt: 2025-08-29T23:46:47.127Z
-publishedAt: 2025-08-29T23:46:47.127Z
+updatedAt: 2025-09-03T19:34:42.268Z
+publishedAt: 2025-09-03T19:34:42.268Z
 contentType: updates
 productTeam: Channels
 author: 2p7evLfTcDrhc5qtrzbLWD
@@ -39,12 +39,14 @@ Acompanhe na tabela abaixo o status de cada integração:
 
 | Marketplace        | API disponibilizada | Data disponível VTEX | Status |
 |--------------------|---------------------|----------------------|--------|
-| Amazon             | 28/08/2025 (FBAOS) e 01/09/2025  (MFN) | 01/09/2025 | Em desenvolvimento (fase de publicação) |
-| Mercado Livre      | 01/09/2025 | Sem data definida | Aguardando marketplace |
-| Shopee             | 27/08/2025 | 29/08/2025 | Em desenvolvimento |
-| Dafiti             | Cartão: 26/08/2025 / PIX: não disponível | Cartão: 28/08/2025 / PIX: TBD | Cartão: disponível / PIX: aguardando marketplace |
-| Magalu             | 15/09/2025 (nova API) | 15/09/2025 | Aguardando marketplace |
-| Netshoes           | Previsão 01/09/2025 | Sem data definida | Aguardando marketplace |
+| Amazon FBAOS       | 28/08/2025 | 29/08/2025 | Disponível |
+| Amazon MFN         | 01/09/2025 | 01/09/2025 | Disponível|
+| Mercado Livre      | 01/09/2025 |29/08/2025 | Disponível |
+| Shopee             | 27/08/2025 | 29/08/2025 | Disponível |
+| Dafiti Cartão      | 26/08/2025 | 28/08/2025 | Disponível |
+| Dafiti Pix         | Não disponível | Sem data definida | Aguardando marketplace |
+| Magalu             | 02/09/2025 | 03/09/2025 | Disponível |
+| Netshoes           | 01/09/2025 | 04/09/2025 | Em desenvolvimento |
 | Centauro           | Não disponível | Sem data definida | Aguardando marketplace |
 | Grupo CasasBahia   | Não disponível | Sem data definida | Aguardando marketplace |
 | Carrefour          | Não disponível | Sem data definida | Aguardando marketplace |
@@ -54,9 +56,7 @@ Acompanhe na tabela abaixo o status de cada integração:
 | Posthaus           | Não disponível | Sem data definida | Aguardando marketplace |
 | Kabum              | Não disponível | Sem data definida | Aguardando marketplace |  
 
-<div class=”alert alert-warning”>
-Os marketplaces que não estão listados acima não têm suas integrações controladas pela VTEX. Nesses casos, é necessário contatar diretamente o integrador responsável.  
-</div>
+> ⚠️ Os marketplaces que não estão listados acima não têm suas integrações controladas pela VTEX. Nesses casos, é necessário contatar diretamente o integrador responsável.
 
 ## O que precisa ser feito?  
 Verifique com seu integrador ou marketplace se os campos exigidos pela NT 2025.001 estão sendo enviados. Confirme que as integrações com seus ERPs ou emissores fiscais já conseguem consumir os novos `customApps`.  
