@@ -7288,21 +7288,6 @@
             },
             {
               "name": {
-                "en": "Why is the product not visible on the website?",
-                "es": "¿Por qué el producto no aparece en el sitio web?",
-                "pt": "Por que o produto não aparece no site?"
-              },
-              "slug": {
-                "en": "why-is-the-product-not-visible-on-the-website",
-                "es": "por-que-el-producto-no-aparece-en-el-sitio-web",
-                "pt": "por-que-o-produto-nao-aparece-no-site"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Why isn't the price table displayed to the customer?",
                 "es": "¿Por qué la tabla de precios no aparece para el cliente?",
                 "pt": "Por que a tabela de preços não aparece para o cliente?"
@@ -16454,8 +16439,8 @@
                     "pt": "Pedidos Data Pipeline"
                   },
                   "slug": {
-                    "en": "orders",
-                    "es": "pedidos",
+                    "en": "orders-data-pipeline-beta",
+                    "es": "pedidos-data-pipeline-beta",
                     "pt": "pedidos-data-pipeline-beta"
                   },
                   "origin": "",
@@ -21308,6 +21293,21 @@
               "origin": "",
               "type": "category",
               "children": [
+                {
+                  "name": {
+                    "en": "Creating synonyms",
+                    "es": "Crear sinónimos",
+                    "pt": "Criar sinônimos"
+                  },
+                  "slug": {
+                    "en": "creating-synonyms",
+                    "es": "crear-sinonimos",
+                    "pt": "criar-sinonimos"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
                 {
                   "name": {
                     "en": "Intelligent Synonyms",
@@ -28857,6 +28857,21 @@
                     "en": "adding-a-seller",
                     "es": "agregar-seller",
                     "pt": "adicionar-seller"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Configuring a marketplace between VTEX stores",
+                    "es": "Configurando marketplace entre tiendas VTEX",
+                    "pt": "Configurando marketplace entre lojas VTEX"
+                  },
+                  "slug": {
+                    "en": "configuring-the-marketplace-between-vtex-stores",
+                    "es": "configurando-marketplace-entre-tiendas-vtex",
+                    "pt": "configurando-marketplace-entre-lojas-vtex"
                   },
                   "origin": "",
                   "type": "markdown",

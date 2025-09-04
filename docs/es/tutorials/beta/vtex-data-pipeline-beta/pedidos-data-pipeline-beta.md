@@ -3,13 +3,13 @@ title: 'Pedidos Data Pipeline (Beta)'
 id: 2f3GlRJ5L5IRGVIxOmzrFv
 status: PUBLISHED
 createdAt: 2024-02-02T17:58:53.962Z
-updatedAt: 2025-07-31T21:50:11.564Z
-publishedAt: 2025-07-31T21:50:11.564Z
+updatedAt: 2025-09-04T16:18:29.713Z
+publishedAt: 2025-09-04T16:18:29.713Z
 firstPublishedAt: 2024-05-27T19:26:59.238Z
 contentType: tutorial
 productTeam: Others
 author: 2p7evLfTcDrhc5qtrzbLWD
-slugEN: orders
+slugEN: orders-data-pipeline-beta
 legacySlug: pedidos
 locale: es
 subcategoryId: oMrzcOMVbBpH0reeMFHFg

@@ -1,10 +1,10 @@
 ---
 title: 'Creating synonyms'
 id: 5IfjhvjxNAvJGEWNn0AhOA
-status: CHANGED
+status: PUBLISHED
 createdAt: 2024-06-27T16:36:30.904Z
-updatedAt: 2025-08-26T17:42:15.506Z
-publishedAt: 2024-06-27T16:39:00.981Z
+updatedAt: 2025-09-04T14:11:28.043Z
+publishedAt: 2025-09-04T14:11:28.043Z
 firstPublishedAt: 2024-06-27T16:37:25.800Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -56,7 +56,7 @@ To import the file, follow the steps below:
 
 ### Synonyms spreadsheet template
 
-The file must contain the following format, according to the [types of synonyms](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV#types-of-synonyms) chosen:
+Each row in the spreadsheet is a synonym. Rows should follow the format that corresponds to the selected [synonym type](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV#types-of-synonyms):
 
  - __Unidirectional:__ `{terms separated by comma};{equivalent term};{status}`
 
@@ -71,6 +71,21 @@ The file must contain the following format, according to the [types of synonyms]
 
     - `tv,television,television set;true`: When searching for any of these terms, the products containing any of them will be returned.
     - `monitor,screen,display;true`: When searching for any of these terms, the products containing any of them will be returned.
+
+Below are some value examples for completing the spreadsheet, including different synonym types and the import result in the VTEX Admin. Each row in the example represents a row in the spreadsheet.
+
+Spreadsheet example:
+
+```
+flower;blossom;true
+little,mini;small;true
+dog;animal;false
+beauty,blush,powder;true
+```
+
+Result in the VTEX Admin:
+
+![sinonimos-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/intelligent-search/synonyms/creating-synonyms_1.png)
 
 #### Multilanguage stores (Beta)
 

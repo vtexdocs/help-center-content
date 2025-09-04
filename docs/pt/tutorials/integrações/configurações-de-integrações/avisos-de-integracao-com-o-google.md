@@ -3,8 +3,8 @@ title: 'Avisos de integração com o Google'
 id: 4BC0Epit2hACKbkBSqDR2A
 status: PUBLISHED
 createdAt: 2024-07-01T15:16:46.324Z
-updatedAt: 2025-09-03T22:36:44.199Z
-publishedAt: 2025-09-03T22:36:44.199Z
+updatedAt: 2025-09-04T18:55:19.225Z
+publishedAt: 2025-09-04T18:55:19.225Z
 firstPublishedAt: 2024-07-01T16:13:33.089Z
 contentType: tutorial
 productTeam: Channels

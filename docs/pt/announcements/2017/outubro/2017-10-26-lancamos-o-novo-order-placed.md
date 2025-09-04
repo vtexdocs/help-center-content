@@ -3,8 +3,8 @@ title: 'Lançamos o novo Order Placed'
 id: 4tAmWn79M44eCqwgeyMM68
 status: PUBLISHED
 createdAt: 2017-10-26T17:24:24.087Z
-updatedAt: 2019-12-31T15:13:09.159Z
-publishedAt: 2019-12-31T15:13:09.159Z
+updatedAt: 2025-09-04T15:13:28.224Z
+publishedAt: 2025-09-04T15:13:28.224Z
 contentType: updates
 productTeam: Post-purchase
 author: authors_24

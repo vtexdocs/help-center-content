@@ -3,8 +3,8 @@ title: 'Compatibilidad con navegadores en el panel administrativo de VTEX'
 id: tutorials_547
 status: PUBLISHED
 createdAt: 2017-04-27T22:01:25.561Z
-updatedAt: 2020-06-24T16:05:32.247Z
-publishedAt: 2020-06-24T16:05:32.247Z
+updatedAt: 2025-09-03T22:40:12.428Z
+publishedAt: 2025-09-03T22:40:12.428Z
 firstPublishedAt: 2017-04-27T23:03:37.818Z
 contentType: tutorial
 productTeam: Others

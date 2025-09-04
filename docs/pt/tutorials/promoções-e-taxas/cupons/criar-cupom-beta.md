@@ -3,8 +3,8 @@ title: 'Criar cupom'
 id: 7lMk3MmhNp2IEccyGApxU
 status: PUBLISHED
 createdAt: 2022-04-28T20:25:24.998Z
-updatedAt: 2024-08-14T17:40:13.842Z
-publishedAt: 2024-08-14T17:40:13.842Z
+updatedAt: 2025-09-04T19:03:32.007Z
+publishedAt: 2025-09-04T19:03:32.007Z
 firstPublishedAt: 2022-04-28T20:42:45.525Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -52,11 +52,11 @@ Ao clicar em qualquer uma dessas informações no painel, você tem acesso ao mo
 
     Caso o cupom seja único, esta seção apresenta a lista de pedidos em que o cupom foi utilizado e permite buscar pelo número de um pedido. Ao clicar no número de um pedido, você será conduzido para a página de detalhes do pedido no **Gerenciamento de pedidos**.
 
-  ![ver-detalhes-de-uso](//images.ctfassets.net/alneenqid6w5/1bFOCXCpWwoXzJToacK3BM/bcd304169c9f0763693e8d85f54e3e01/ver-detalhes-de-uso.png "Detalhes de uso de um cupom único")
+  ![ver-detalhes-de-uso](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promo%C3%A7%C3%B5es-e-taxas/cupons/criar-cupom-beta_2.png)
 
     Caso seja um grupo de cupons, esta seção apresenta a lista de códigos do grupo de cupons e permite buscar por um código específico. Ao clicar em um código, você tem acesso à lista de pedidos em que o código foi utilizado e pode buscar pelo número de um pedido. Clicando no número de um pedido, você será conduzido para a página de detalhes do pedido no **Gerenciamento de pedidos**.
 
-  ![selecione-o-codigo-grupo-cupons](//images.ctfassets.net/alneenqid6w5/25yE4tmkHYDm4MISaz9upH/87b9f4e806c8d2c0b4399d64524658b4/Group_2__4_.png "Detalhes de uso de um grupo de cupons")
+  ![selecione-o-codigo-grupo-cupons](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promo%C3%A7%C3%B5es-e-taxas/cupons/criar-cupom-beta_3.png)
 
 ### Geral
 
@@ -88,7 +88,7 @@ Após salvar o novo cupom, se você tiver criado um [grupo de cupons](https://he
 * <i class="far fa-clone"></i> **Copiar tudo:** permite copiar os códigos gerados para a sua área de transferência. Posteriormente, se desejar, você pode colá-los em um editor de planilhas como o Excel ou o Google Sheets. Também é possível copiar cada código clicando sobre ele.
 * **Exportar:** permite exportar os códigos gerados para um arquivo CSV. O arquivo exportado contém uma coluna, com um código por linha.
 
-![cupons-gerados-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promo%C3%A7%C3%B5es-e-taxas/cupons/criar-cupom-beta_2.gif)
+![cupons-gerados-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promo%C3%A7%C3%B5es-e-taxas/cupons/criar-cupom-beta_4.gif)
 
 ### Gerar cupons em massa
 A [criação de cupons](#criar-cupons) para promoções deve ser feita a partir do módulo Promoções e Taxas. No entanto, podem ocorrer casos em que é necessário criar múltiplos cupons de uma vez, devido a alguma campanha ou ação de marketing.

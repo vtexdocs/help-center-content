@@ -1,10 +1,10 @@
 ---
 title: 'Configuring a marketplace between VTEX stores'
 id: tutorials_6520
-status: CHANGED
+status: PUBLISHED
 createdAt: 2017-04-27T21:48:44.692Z
-updatedAt: 2022-09-12T20:11:02.084Z
-publishedAt: 2022-03-14T15:57:05.056Z
+updatedAt: 2025-09-04T15:23:15.845Z
+publishedAt: 2025-09-04T15:23:15.845Z
 firstPublishedAt: 2017-04-27T23:11:18.934Z
 contentType: tutorial
 productTeam: Channels

@@ -3,8 +3,8 @@ title: 'Compatibility with browsers in VTEX Admin'
 id: tutorials_547
 status: PUBLISHED
 createdAt: 2017-04-27T22:01:25.561Z
-updatedAt: 2020-06-24T16:05:32.247Z
-publishedAt: 2020-06-24T16:05:32.247Z
+updatedAt: 2025-09-03T22:40:12.428Z
+publishedAt: 2025-09-03T22:40:12.428Z
 firstPublishedAt: 2017-04-27T23:03:37.818Z
 contentType: tutorial
 productTeam: Others
@@ -26,4 +26,4 @@ Support is offered to the two latest versions of these browsers. For example, if
 
 So, if your team is using our platform in previous versions &#8211; such as Internet Explorer 8 or 9 -, you must update the browser to a more recent version. If this is not be possible, adopt the strategy to use a second browser, such as [Google Chrome](http://www.google.com/chrome/), to access our systems.
 
-_This policy has been effective as from **March 10, 2014, **being only valid for systems that manage our Admin. Store pages and SmartCheckout checkout pages are still compatible with former browsers, ensuring the closing of purchases._
+_This policy has been effective as from **March 10, 2014**, being only valid for systems that manage our Admin. Store pages and SmartCheckout checkout pages are still compatible with former browsers, ensuring the closing of purchases._

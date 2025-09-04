@@ -1,10 +1,10 @@
 ---
 title: 'Why is the product not visible on the website?'
 id: frequentlyAskedQuestions_382
-status: PUBLISHED
+status: CHANGED
 createdAt: 2017-04-27T22:36:11.456Z
-updatedAt: 2025-07-31T18:32:45.709Z
-publishedAt: 2025-07-31T18:32:45.709Z
+updatedAt: 2025-09-04T18:05:50.517Z
+publishedAt: 2025-09-04T18:05:35.252Z
 firstPublishedAt: 2017-04-27T23:01:46.278Z
 contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
@@ -45,7 +45,7 @@ We recommend beginning the investigation with **Catalog**. To check the **Catalo
 1. Access the VTEX Admin and go to **Products > Catalog > Products and SKUs** to check the products listed in your store.
 2. Find the product you want to display in the list, as illustrated below.
 
-    ![01-produto-en](//images.ctfassets.net/alneenqid6w5/75SkVRup4MW0URypUVayEh/8b6bbeb3f736a6e16c77b4b9889c6026/01-produto-en.PNG)
+    ![01-produto-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/marketing-and-merchandising/why-is-the-product-not-visible-on-the-website_1.PNG)
 
 3. Follow the instructions described in the next sections to check this information:
     * [Product](#product)
@@ -71,11 +71,11 @@ To check the product settings, you must follow the steps below.
     * If the product contains specifications, check the **Specifications** tab to see if they are filled in.
 3. After each change, click `Save`.
 
-![02-campos-produto-en](https://images.ctfassets.net/alneenqid6w5/nGAGYNdVtTFdAPjW1mi5f/080a8fbd5815fe8059b449a23c01b944/02-campos-produto-en.png)
+![02-campos-produto-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/marketing-and-merchandising/why-is-the-product-not-visible-on-the-website_2.png)
 
 <p align="center">*Fields you must check on the product information page.*
 
-![03-aba-especificacoes-en](https://images.ctfassets.net/alneenqid6w5/6UXDapFfF9bvtnCSoHQBwZC/4870d3860fc73faed98f2237aa85cca9/03-aba-especificacoes-en.png)
+![03-aba-especificacoes-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/marketing-and-merchandising/why-is-the-product-not-visible-on-the-website_3.png)
 
 ### SKUs
 
@@ -87,16 +87,16 @@ On the SKUs page, in **Products > Catalog > Products and SKUs**, follow the inst
 
     |Button | Description |
     |-|-|
-    | ![04-botao-precos](//images.ctfassets.net/alneenqid6w5/7f0NyYsrdO9dRgW2OQb0ND/1343af5f40a6f0a64cdd8378385977c0/04-botao-precos.png) | Allows you to access the __Price list__ to check if the desired trade policy has a valid price associated with the product SKUs. For more information, check the [Prices](#prices) section. |
-    | ![05-botao-logistica](//images.ctfassets.net/alneenqid6w5/4Y2GdsvjxHYkVSBfElhVr9/17742a7ce2632fa9d800d942bb016283/05-botao-logistica.png) | Allows you to access the __Inventory management__ page to check if the SKU is available in stock.  For more information, check the [Logistics](#logistics) section. |
-    | ![06-botao-indexed-info](//images.ctfassets.net/alneenqid6w5/5G3dZgdVZDiPqADnodmHc7/e31e69a2333d82a74ca980303e93b690/06-botao-indexed-info.png) | Allows you to view each **Seller ** selling the SKU, the trade policy (**Policy**), the price (**Value**) and the SKU quantity in inventory (**Quantity**). |
+    | ![04-botao-precos](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/marketing-and-merchandising/why-is-the-product-not-visible-on-the-website_4.png) | Allows you to access the __Price list__ to check if the desired trade policy has a valid price associated with the product SKUs. For more information, check the [Prices](#prices) section. |
+    | ![05-botao-logistica](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/marketing-and-merchandising/why-is-the-product-not-visible-on-the-website_5.png) | Allows you to access the __Inventory management__ page to check if the SKU is available in stock.  For more information, check the [Logistics](#logistics) section. |
+    | ![06-botao-indexed-info](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/marketing-and-merchandising/why-is-the-product-not-visible-on-the-website_6.png) | Allows you to view each **Seller ** selling the SKU, the trade policy (**Policy**), the price (**Value**) and the SKU quantity in inventory (**Quantity**). |
 
 2. On the row displaying the product with the SKU you want to verify, click the down arrow <i class="fas fa-caret-down"></i>, next to the `Update` button.
 3. Click the **SKU** option to access the SKUs detailed list.
 4. In the **Status** column, check if the indicated situation is `Active`. If the SKUs are active, go to step 7.
 5. If a SKU appears as `Inactive`, click `Update` to view the SKU detailed information.
 
-    ![07-catalogo-skus-en](//images.ctfassets.net/alneenqid6w5/6hs2pWjN8Mze7A274XRAm3/038a679284d7261a44ace5814e67ee34/07-catalogo-skus-en.png)
+    ![07-catalogo-skus-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/marketing-and-merchandising/why-is-the-product-not-visible-on-the-website_7.png)
 
 6. On the SKU information page, continue checking the items listed below.
     * **Activate SKU if possible:** Check if this option is selected. Otherwise, the SKU will not be displayed. When you activate this option, you determine that the SKU will be activated if it meets the necessary requirements:
@@ -109,11 +109,11 @@ On the SKUs page, in **Products > Catalog > Products and SKUs**, follow the inst
 8. Check if the SKU contains at least one image. If it does not, the SKU will not be activated — follow the next step to correct this problem.
 9. Click `Insert` to upload a new image. If you prefer, click `Associate existing images`  to include an image already used for another SKU.
 
-![08-aba-imagens-en](https://images.ctfassets.net/alneenqid6w5/3StXGBCMW8ZExshcEhfF9m/ebc572e69e7dc83a5de491a83c4233ac/08-aba-imagens-en.png)
+![08-aba-imagens-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/marketing-and-merchandising/why-is-the-product-not-visible-on-the-website_8.png)
 
 <p align="center">***Images** tab*
 
-![09-sku-imagens-en](//images.ctfassets.net/alneenqid6w5/1JJflflW0ACgVn05sRv29x/f58814d66052faf18d3bc44e68eb83cc/09-sku-imagens-en.PNG)
+![09-sku-imagens-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/marketing-and-merchandising/why-is-the-product-not-visible-on-the-website_9.PNG)
 
 ### Indexed Info
 
@@ -127,13 +127,13 @@ The indexing list displays each product SKU status. If any issue is detected, th
 
 In the example below, you can conclude that the SKU is unavailable because there are no items in stock:
 
-![10-indexed-info-code](//images.ctfassets.net/alneenqid6w5/3J8ZK4CikAYOwYh8GAzbWa/f1e1650c980fd7042649f6bd8ae3e9a4/Group_1__7_.png)
+![10-indexed-info-code](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/marketing-and-merchandising/why-is-the-product-not-visible-on-the-website_10.png)
 
 Based on this information, you can take action to correct the issue. In this example, you should adjust the item quantity in stock in the [Logistics](#logistics) system.
 
 An active SKU without errors will appear in the index, similar to the one illustrated below:
 
-![11-indexed-info-code-active](//images.ctfassets.net/alneenqid6w5/3Sd3Ta5gzKo0LY9dMHmCqp/9e9c99cc4c9408c6dfbaddd4feaaaa84/11-indexed-info-code-active.png)
+![11-indexed-info-code-active](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/marketing-and-merchandising/why-is-the-product-not-visible-on-the-website_11.png)
 
 > ℹ️ If no reason is given for the product’s unavailability and if you do not find any issues in the product/SKUs, reindexing the product may solve the problem. To do this, you can edit one of the fields within the product or SKUs information page and save the changes. This will force a reindexing.
 
@@ -148,7 +148,7 @@ In the **Prices** module, it's important to verify if your product SKU contains 
 
 In the example illustrated below, there are two SKUs without a base price. This is why there is no calculated price in the trade policy column — only the information _No price yet_ is displayed.
 
-![12-precos-en](//images.ctfassets.net/alneenqid6w5/3XrEvLWMmU3LlsxF75v9NN/fe4b6781deb81831cd88cef790af7aee/12-precos-en.PNG)
+![12-precos-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/marketing-and-merchandising/why-is-the-product-not-visible-on-the-website_12.PNG)
 
 ### Creating a base price
 
@@ -234,7 +234,7 @@ Follow the steps below to check the template your page is using.
 
     In the example below, the default template is `vtex.curbside-pickup@0.x:store.curbside-pickup` and there is no conditional template.
 
-    ![16-templates-cms-en](//images.ctfassets.net/alneenqid6w5/5EMFVK2j0O7l6im1ZJIQQI/13b66c83e437aa4e2a3bd0d9f722553b/16-templates-cms-en.PNG)
+    ![16-templates-cms-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/marketing-and-merchandising/why-is-the-product-not-visible-on-the-website_13.PNG)
 
 4. Next, you must check the blocks declared in the used template, as described in [Templates](#templates).
 
