@@ -33034,6 +33034,21 @@
             },
             {
               "name": {
+                "en": "SKU quantity miscount in checkout when More for Less promotion is applied in B2B Quotes",
+                "es": "Error en el recuento de la cantidad de SKU en la caja cuando se aplica la promoción Más por Menos en Cotizaciones B2B.",
+                "pt": "Erro na contagem da quantidade de SKU no checkout quando a promoção Mais por Menos é aplicada em Cotações B2B"
+              },
+              "slug": {
+                "en": "sku-quantity-miscount-in-checkout-when-more-for-less-promotion-is-applied-in-b2b-quotes",
+                "es": "error-en-el-recuento-de-la-cantidad-de-sku-en-la-caja-cuando-se-aplica-la-promocion-mas-por-menos-en-cotizaciones-b2b",
+                "pt": "erro-na-contagem-da-quantidade-de-sku-no-checkout-quando-a-promocao-mais-por-menos-e-aplicada-em-cotacoes-b2b"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "State Registration is not filled after approving the Organization Request",
                 "es": "El registro estatal no se completa tras aprobar la solicitud de organización",
                 "pt": "O registro estadual não é preenchido após a aprovação da solicitação da organização"
@@ -33178,21 +33193,6 @@
                 "en": "nao-e-possivel-inativar-este-produto-porque-ele-possui-um-ou-mais-skus-ativos-does-not-automatically-translate-on-the-product-admin",
                 "es": "no-puede-desactivar-este-producto-porque-tiene-uno-o-mas-skus-activos-no-se-traduce-automaticamente-en-el-product-admin",
                 "pt": "nao-e-possivel-inativar-este-produto-porque-ele-possui-um-ou-mais-skus-ativos-does-not-automatically-translate-on-the-product-admin"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "'Product Specification' filter on Collection Module assuming incorrect values",
-                "es": "El filtro 'Especificación del producto' del módulo de recogida asume valores incorrectos.",
-                "pt": "Filtro 'Product Specification' no Collection Module assumindo valores incorretos"
-              },
-              "slug": {
-                "en": "product-specification-filter-on-collection-module-assuming-incorrect-values",
-                "es": "el-filtro-especificacion-del-producto-del-modulo-de-recogida-asume-valores-incorrectos",
-                "pt": "filtro-product-specification-no-collection-module-assumindo-valores-incorretos"
               },
               "origin": "",
               "type": "markdown",
@@ -34303,6 +34303,21 @@
                 "en": "dimension-text-fields-being-unselected-during-sku-creation",
                 "es": "campos-de-texto-de-dimension-no-seleccionados-durante-la-creacion-de-sku",
                 "pt": "campos-de-texto-de-dimensao-nao-sendo-selecionados-durante-a-criacao-da-sku"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "es": "El filtro \"Especificación del producto\" del módulo de recogida asume valores incorrectos.",
+                "pt": "Filtro \"Product Specification\" no Collection Module assumindo valores incorretos",
+                "en": "El filtro \"Especificación del producto\" del módulo de recogida asume valores incorrectos."
+              },
+              "slug": {
+                "es": "el-filtro-especificacion-del-producto-del-modulo-de-recogida-asume-valores-incorrectos",
+                "pt": "filtro-product-specification-no-collection-module-assumindo-valores-incorretos",
+                "en": ""
               },
               "origin": "",
               "type": "markdown",
@@ -35465,6 +35480,21 @@
             },
             {
               "name": {
+                "en": "Products are not updated after trade policies are created/updated",
+                "es": "Los productos no se actualizan tras la creación/actualización de las políticas comerciales",
+                "pt": "Os produtos não são atualizados depois que as políticas comerciais são criadas/atualizadas"
+              },
+              "slug": {
+                "en": "products-are-not-updated-after-trade-policies-are-createdupdated",
+                "es": "los-productos-no-se-actualizan-tras-la-creacionactualizacion-de-las-politicas-comerciales",
+                "pt": "os-produtos-nao-sao-atualizados-depois-que-as-politicas-comerciais-sao-criadasatualizadas"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Products with sku variations approved on Received Skus are being created with duplicated skus on the Catalog.",
                 "es": "Los productos con variaciones de sku aprobadas en Skus Recibidos se están creando con skus duplicados en el Catálogo.",
                 "pt": "Produtos com variações de sku aprovadas em Skus Recebidos estão sendo criados com skus duplicados no Catálogo."
@@ -36223,6 +36253,21 @@
                 "en": "xml-installment-currency-does-not-apply",
                 "es": "xml-no-se-aplica-la-moneda-a-plazos",
                 "pt": "xml-a-moeda-da-prestacao-nao-se-aplica"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "XML \"Check installment settings\"",
+                "es": "XML \"Comprobar ajustes de instalación\"",
+                "pt": "XML \"Verificar configurações de parcelamento\""
+              },
+              "slug": {
+                "en": "xml-check-installment-settings",
+                "es": "xml-comprobar-ajustes-de-instalacion",
+                "pt": "xml-verificar-configuracoes-de-parcelamento"
               },
               "origin": "",
               "type": "markdown",
@@ -40269,6 +40314,21 @@
             },
             {
               "name": {
+                "en": "MessagessV2 flag requires content to be saved on the original language",
+                "es": "La bandera MessagessV2 requiere que el contenido se guarde en el idioma original",
+                "pt": "O sinalizador MessagessV2 exige que o conteúdo seja salvo no idioma original"
+              },
+              "slug": {
+                "en": "messagessv2-flag-requires-content-to-be-saved-on-the-original-language",
+                "es": "la-bandera-messagessv2-requiere-que-el-contenido-se-guarde-en-el-idioma-original",
+                "pt": "o-sinalizador-messagessv2-exige-que-o-conteudo-seja-salvo-no-idioma-original"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Not possible to upload new media/document in a development workspace when entity has more than 10k documents",
                 "es": "No es posible cargar nuevos medios/documentos en un espacio de trabajo de desarrollo cuando la entidad tiene más de 10k documentos.",
                 "pt": "Não é possível fazer upload de novas mídias/documentos em um espaço de trabalho de desenvolvimento quando a entidade tem mais de 10 mil documentos"
@@ -41290,6 +41350,21 @@
             },
             {
               "name": {
+                "en": "Amazon SKUs for the same product weren't grouped on Amazon.",
+                "es": "Los SKU del mismo producto no se agrupaban en Amazon.",
+                "pt": "Amazon Os SKUs do mesmo produto não foram agrupados na Amazon."
+              },
+              "slug": {
+                "en": "amazon-skus-for-the-same-product-werent-grouped-on-amazon",
+                "es": "los-sku-del-mismo-producto-no-se-agrupaban-en-amazon",
+                "pt": "amazon-os-skus-do-mesmo-produto-nao-foram-agrupados-na-amazon"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Attribute meli_shipping_mode not being updated in MELI integration",
                 "es": "El atributo meli_shipping_mode no se actualiza en la integración MELI",
                 "pt": "O atributo meli_shipping_mode não está sendo atualizado na integração MELI"
@@ -42048,6 +42123,21 @@
                 "en": "shopee-catalog-sync-blocked-due-to-excess-variation-attributes",
                 "es": "shopee-sincronizacion-de-catalogo-bloqueada-por-exceso-de-atributos-de-variacion",
                 "pt": "shopee-sincronizacao-de-catalogo-bloqueada-devido-ao-excesso-de-atributos-de-variacao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Shopee Error Item tier-variation level not same when updating migrated products",
+                "es": "Shopee Error El nivel de variación del artículo no es el mismo al actualizar productos migrados",
+                "pt": "Shopee Error Item tier-variation level not same when updating migrated products"
+              },
+              "slug": {
+                "en": "shopee-error-item-tiervariation-level-not-same-when-updating-migrated-products",
+                "es": "shopee-error-el-nivel-de-variacion-del-articulo-no-es-el-mismo-al-actualizar-productos-migrados",
+                "pt": ""
               },
               "origin": "",
               "type": "markdown",
@@ -44633,6 +44723,21 @@
                 "en": "no-delivery-window-can-be-created-due-to-inconsistence-in-estimatedate-and-lastdeliveryday-for-high-timecost",
                 "es": "no-se-puede-crear-ninguna-ventana-de-entrega-debido-a-la-incoherencia-en-estimatedate-y-lastdeliveryday-para-timecost-alto",
                 "pt": "nenhuma-janela-de-entrega-pode-ser-criada-devido-a-inconsistencia-em-estimatedate-e-lastdeliveryday-para-timecost-alto"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Pick-up points do not work in the delivery simulator in countries that do not use our postal code API",
+                "es": "Los puntos de recogida no funcionan en el simulador de entrega en los países que no utilizan nuestra API de código postal",
+                "pt": "Os pontos de coleta não funcionam no simulador de entrega em países que não usam nossa API de código postal"
+              },
+              "slug": {
+                "en": "pickup-points-do-not-work-in-the-delivery-simulator-in-countries-that-do-not-use-our-postal-code-api",
+                "es": "los-puntos-de-recogida-no-funcionan-en-el-simulador-de-entrega-en-los-paises-que-no-utilizan-nuestra-api-de-codigo-postal",
+                "pt": "os-pontos-de-coleta-nao-funcionam-no-simulador-de-entrega-em-paises-que-nao-usam-nossa-api-de-codigo-postal"
               },
               "origin": "",
               "type": "markdown",
@@ -50137,6 +50242,21 @@
             },
             {
               "name": {
+                "en": "Giftcard Hub call receives 500 error",
+                "es": "La llamada al Giftcard Hub recibe un error 500",
+                "pt": "Chamada do Giftcard Hub recebe erro 500"
+              },
+              "slug": {
+                "en": "giftcard-hub-call-receives-500-error",
+                "es": "la-llamada-al-giftcard-hub-recibe-un-error-500",
+                "pt": "chamada-do-giftcard-hub-recebe-erro-500"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Giftcard HUB setting 'R$' as the automatic currency on the UI",
                 "es": "El HUB de tarjetas de regalo establece 'R$' como moneda automática en la interfaz de usuario",
                 "pt": "HUB Giftcard definindo 'R$' como a moeda automática na IU"
@@ -50145,6 +50265,21 @@
                 "en": "giftcard-hub-setting-r-as-the-automatic-currency-on-the-ui",
                 "es": "el-hub-de-tarjetas-de-regalo-establece-r-como-moneda-automatica-en-la-interfaz-de-usuario",
                 "pt": "hub-giftcard-definindo-r-como-a-moeda-automatica-na-iu"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Giftcard not getting refund after transaction cancellation",
+                "es": "No se reembolsa la tarjeta regalo tras cancelar la transacción",
+                "pt": "O Giftcard não está sendo reembolsado após o cancelamento da transação"
+              },
+              "slug": {
+                "en": "giftcard-not-getting-refund-after-transaction-cancellation",
+                "es": "no-se-reembolsa-la-tarjeta-regalo-tras-cancelar-la-transaccion",
+                "pt": "o-giftcard-nao-esta-sendo-reembolsado-apos-o-cancelamento-da-transacao"
               },
               "origin": "",
               "type": "markdown",
@@ -50520,21 +50655,6 @@
                 "en": "konduto-af-cannot-complete-a-request-when-the-accountid-is-missing",
                 "es": "konduto-af-no-puede-completar-una-solicitud-cuando-falta-el-accountid",
                 "pt": "o-konduto-af-nao-pode-concluir-uma-solicitacao-quando-o-accountid-esta-ausente"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "es": "La tarjeta de regalo no se reembolsa después de la cancelación de la transacción",
-                "pt": "Giftcard não recebendo reembolso após o cancelamento da transação",
-                "en": "La tarjeta de regalo no se reembolsa después de la cancelación de la transacción"
-              },
-              "slug": {
-                "es": "la-tarjeta-de-regalo-no-se-reembolsa-despues-de-la-cancelacion-de-la-transaccion",
-                "pt": "giftcard-nao-recebendo-reembolso-apos-o-cancelamento-da-transacao",
-                "en": ""
               },
               "origin": "",
               "type": "markdown",
@@ -51120,6 +51240,21 @@
                 "en": "regex-conflict-causes-us-to-misidentify-the-cards-brand",
                 "es": "el-conflicto-de-regex-hace-que-identifiquemos-mal-la-marca-de-las-tarjetas",
                 "pt": "conflito-de-interesses-nos-leva-a-identificar-erroneamente-a-marca-cards"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Risk analysis canceled earlier than expected due to fixed retry limit",
+                "es": "El análisis de riesgos se cancela antes de lo previsto debido al límite fijo de reintentos",
+                "pt": "Análise de risco cancelada antes do esperado devido ao limite fixo de tentativas"
+              },
+              "slug": {
+                "en": "risk-analysis-canceled-earlier-than-expected-due-to-fixed-retry-limit",
+                "es": "el-analisis-de-riesgos-se-cancela-antes-de-lo-previsto-debido-al-limite-fijo-de-reintentos",
+                "pt": "analise-de-risco-cancelada-antes-do-esperado-devido-ao-limite-fixo-de-tentativas"
               },
               "origin": "",
               "type": "markdown",
@@ -51887,6 +52022,21 @@
                 "en": "error-get-items-and-fulfillments-when-attempting-to-assign-orders-in-pick-and-pack-due-to-canceled-orders-associated-with-a-picker",
                 "es": "",
                 "pt": ""
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Absence of Feedback for Order Change Failures in Pick and Pack (Communication with OMS)",
+                "es": "Ausencia de retroalimentación por fallos en el cambio de pedido en Pick and Pack (comunicación con OMS)",
+                "pt": "Ausência de feedback para falhas na alteração de pedidos no Pick and Pack (comunicação com o OMS)"
+              },
+              "slug": {
+                "en": "absence-of-feedback-for-order-change-failures-in-pick-and-pack-communication-with-oms",
+                "es": "ausencia-de-retroalimentacion-por-fallos-en-el-cambio-de-pedido-en-pick-and-pack-comunicacion-con-oms",
+                "pt": "ausencia-de-feedback-para-falhas-na-alteracao-de-pedidos-no-pick-and-pack-comunicacao-com-o-oms"
               },
               "origin": "",
               "type": "markdown",
