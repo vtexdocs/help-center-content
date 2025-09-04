@@ -3,8 +3,8 @@ title: 'Setting up Nethone antifraud'
 id: 7wyoUovwCkoT998uXkOis8
 status: PUBLISHED
 createdAt: 2021-06-16T17:00:06.641Z
-updatedAt: 2021-07-02T17:27:48.202Z
-publishedAt: 2021-07-02T17:27:48.202Z
+updatedAt: 2025-09-04T20:09:26.219Z
+publishedAt: 2025-09-04T20:09:26.219Z
 firstPublishedAt: 2021-06-16T17:19:21.268Z
 contentType: tutorial
 productTeam: Financial
@@ -12,7 +12,7 @@ author: 13Ue4MX9WNiX9f3SVCUZZW
 slugEN: setting-up-nethone-antifraud
 legacySlug: setting-up-nethone-antifraud
 locale: en
-subcategoryId: 
+subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
 Nethone is an anti-fraud solution that identifies specific aspects of user behavior and minimizes the risk of fraud in your store's transactions by using artificial intelligence and machine learning.

@@ -1,9 +1,9 @@
 ---
 title: 'Como desabilitar o proxy no Cloudflare'
 id: 75QqsXAqR7NdkRc1GZPiXb
-status: PUBLISHED
+status: CHANGED
 createdAt: 2021-11-19T18:31:43.174Z
-updatedAt: 2022-01-11T16:58:58.183Z
+updatedAt: 2025-09-04T20:06:38.481Z
 publishedAt: 2022-01-11T16:58:58.183Z
 firstPublishedAt: 2021-11-22T15:19:34.246Z
 contentType: tutorial
@@ -12,7 +12,7 @@ author: 4SqDPmUJIIz2KMMKgiyqKl
 slugEN: disable-cloudflare-proxy
 legacySlug: desabilitar-proxy-cloudflare
 locale: pt
-subcategoryId: 
+subcategoryId: 2Za4fjGfxYOo6oqykukgyy
 ---
 
 Quando o serviço da Cloudfare é utilizado, seu proxy vem habilitado por padrão. Esse proxy pode interferir com o nosso serviço de borda (CDN), que já é responsável pelo fornecimento do site da sua loja de uma forma otimizada. A interferência ocorre porque o proxy da Cloudflare faz com que o domínio seja apontado para a Cloudflare em vez da VTEX. Isso impossibilita a renovação dos certificados, pois esse processo requer que o domínio esteja necessariamente apontado para a VTEX. 
@@ -23,7 +23,7 @@ Para desligar o proxy do CloudFlare (e consequentemente, desativar os serviços 
 
 Observe que, se o proxy estiver ligado, o ícone estará em laranja com o texto __*Proxied*__. Caso contrário, o ícone estará em cinza com o texto __*DNS Only*__.
 
-![Configuração do proxy da Cloudflare](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/uncategorized/unknown-subcategory/desabilitar-proxy-cloudflare_1.png)
+![Configuração do proxy da Cloudflare](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/infraestrutura/cdn-service/desabilitar-proxy-cloudflare_1.png)
 
 É importante notar que o resultado da desabilitação do proxy da CloudFlare pode demorar um pouco para ser observado, pois é necessário que o cache seja renovado.
 

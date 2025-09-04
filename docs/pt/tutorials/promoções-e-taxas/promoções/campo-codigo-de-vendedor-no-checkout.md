@@ -1,10 +1,10 @@
 ---
-title: 'Campo Código de Vendedor no Checkout'
+title: 'Campo código de vendedor no Checkout'
 id: 6hiRCXt5Cz250o7hBnN2Tp
 status: PUBLISHED
 createdAt: 2023-06-20T12:18:18.542Z
-updatedAt: 2023-06-20T21:50:57.120Z
-publishedAt: 2023-06-20T21:50:57.120Z
+updatedAt: 2025-09-04T20:11:34.659Z
+publishedAt: 2025-09-04T20:11:34.659Z
 firstPublishedAt: 2023-06-20T15:04:21.346Z
 contentType: tutorial
 productTeam: Shopping
@@ -12,7 +12,7 @@ author: 6DODK49lJPk3yvcoe6GB6g
 slugEN: sales-associate-code-field-at-checkout
 legacySlug: campo-codigo-de-vendedor-no-checkout
 locale: pt
-subcategoryId: 
+subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
 Na VTEX, você pode criar um campo para registrar o código de vendedor no Checkout. Por meio dele, é possível:
@@ -57,7 +57,7 @@ Após a criação da entidade *codigovendedor*, é necessário associá-la a uma
 
 <blockquote><ui>3. Em **Quais as condições para a promoção ser válida?**, clique na opção **utm_campaign** e digite no campo *codigovendedor*.</ui>
 
-![utm campaign codigovendedor](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/uncategorized/unknown-subcategory/campo-codigo-de-vendedor-no-checkout_1.PNG)
+![utm campaign codigovendedor](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promo%C3%A7%C3%B5es-e-taxas/promo%C3%A7%C3%B5es/campo-codigo-de-vendedor-no-checkout_1.PNG)
 
 <blockquote><ui>4. Em **Restrições e limitações de uso**, adicione as demais restrições disponíveis, caso desejar. Selecione a opção **Permitir acumular promoções**.</ui>
 
@@ -85,4 +85,4 @@ Adicionalmente, os seguintes passos devem ser realizados:
 
 Após executar todas as etapas acima descritas, o campo **Código do Vendedor** estará disponível na tela do Checkout.
 
-![Código do vendedor](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/uncategorized/unknown-subcategory/campo-codigo-de-vendedor-no-checkout_2.png)
+![Código do vendedor](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promo%C3%A7%C3%B5es-e-taxas/promo%C3%A7%C3%B5es/campo-codigo-de-vendedor-no-checkout_2.png)
