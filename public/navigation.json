@@ -5540,9 +5540,9 @@
         },
         {
           "name": {
-            "en": "Marketing & Merchandising",
-            "es": "Marketing & Merchandising",
-            "pt": "Marketing & Merchandising"
+            "en": "Marketing & merchandising",
+            "es": "Marketing & merchandising",
+            "pt": "Marketing & merchandising"
           },
           "slug": {
             "en": "marketing-and-merchandising",
@@ -6022,9 +6022,9 @@
         },
         {
           "name": {
-            "en": "POST Purchase",
-            "es": "POST Purchase",
-            "pt": "POST Purchase"
+            "en": "POST purchase",
+            "es": "POST purchase",
+            "pt": "POST purchase"
           },
           "slug": {
             "en": "post-purchase",
@@ -6711,9 +6711,9 @@
       "categories": [
         {
           "name": {
-            "en": "Conversational Commerce",
-            "es": "Conversational Commerce",
-            "pt": "Conversational Commerce"
+            "en": "Conversational commerce",
+            "es": "Conversational commerce",
+            "pt": "Conversational commerce"
           },
           "slug": {
             "en": "conversational-commerce",
@@ -6750,8 +6750,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 1
+                  "children": []
                 },
                 {
                   "name": {
@@ -6766,8 +6765,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 2
+                  "children": []
                 },
                 {
                   "name": {
@@ -6782,8 +6780,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 3
+                  "children": []
                 },
                 {
                   "name": {
@@ -6798,8 +6795,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 4
+                  "children": []
                 },
                 {
                   "name": {
@@ -6814,8 +6810,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 5
+                  "children": []
                 },
                 {
                   "name": {
@@ -6830,8 +6825,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 6
+                  "children": []
                 }
               ]
             }
@@ -6878,8 +6872,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 1
+                  "children": []
                 },
                 {
                   "name": {
@@ -6894,8 +6887,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 2
+                  "children": []
                 },
                 {
                   "name": {
@@ -6910,8 +6902,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 3
+                  "children": []
                 },
                 {
                   "name": {
@@ -6926,8 +6917,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 4
+                  "children": []
                 },
                 {
                   "name": {
@@ -6942,8 +6932,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 5
+                  "children": []
                 }
               ]
             }
@@ -6965,9 +6954,9 @@
           "children": [
             {
               "name": {
-                "en": "Amazon Integration",
-                "es": "Integracion De Amazon",
-                "pt": "Integracao Com A Amazon"
+                "en": "Amazon integration",
+                "es": "Integracion de amazon",
+                "pt": "Integracao com a amazon"
               },
               "slug": {
                 "en": "amazon-integration",
@@ -6990,8 +6979,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 1
+                  "children": []
                 },
                 {
                   "name": {
@@ -7006,8 +6994,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 2
+                  "children": []
                 },
                 {
                   "name": {
@@ -7022,8 +7009,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 4
+                  "children": []
                 },
                 {
                   "name": {
@@ -7038,8 +7024,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 6
+                  "children": []
                 },
                 {
                   "name": {
@@ -7054,16 +7039,15 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 7
+                  "children": []
                 }
               ]
             },
             {
               "name": {
-                "en": "Amazon Integration Setup",
-                "es": "Configurar La Integracion De Amazon",
-                "pt": "Configurar Integracao Com A Amazon"
+                "en": "Amazon integration setup",
+                "es": "Configurar la integracion de amazon",
+                "pt": "Configurar integracao com a amazon"
               },
               "slug": {
                 "en": "amazon-integration-setup",
@@ -7086,16 +7070,15 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 5
+                  "children": []
                 }
               ]
             },
             {
               "name": {
-                "en": "B2w Integration Set Up",
-                "es": "Configurar Integracion B2w",
-                "pt": "Configurar Integracao Da B2w"
+                "en": "B2w integration set up",
+                "es": "Configurar integracion b2w",
+                "pt": "Configurar integracao da b2w"
               },
               "slug": {
                 "en": "b2w-integration-set-up",
@@ -7118,8 +7101,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 1
+                  "children": []
                 },
                 {
                   "name": {
@@ -7134,8 +7116,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 3
+                  "children": []
                 },
                 {
                   "name": {
@@ -7150,8 +7131,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 4
+                  "children": []
                 },
                 {
                   "name": {
@@ -7166,8 +7146,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 5
+                  "children": []
                 },
                 {
                   "name": {
@@ -7182,8 +7161,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 6
+                  "children": []
                 },
                 {
                   "name": {
@@ -7198,16 +7176,15 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 7
+                  "children": []
                 }
               ]
             },
             {
               "name": {
-                "en": "Carrefour Integration Set Up",
-                "es": "Configurar Integracion Carrefour",
-                "pt": "Configurar Integracao Com O Carrefour"
+                "en": "Carrefour integration set up",
+                "es": "Configurar integracion carrefour",
+                "pt": "Configurar integracao com o carrefour"
               },
               "slug": {
                 "en": "carrefour-integration-set-up",
@@ -7230,8 +7207,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 1
+                  "children": []
                 },
                 {
                   "name": {
@@ -7246,8 +7222,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 2
+                  "children": []
                 },
                 {
                   "name": {
@@ -7262,8 +7237,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 3
+                  "children": []
                 },
                 {
                   "name": {
@@ -7278,8 +7252,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 4
+                  "children": []
                 },
                 {
                   "name": {
@@ -7294,8 +7267,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 5
+                  "children": []
                 },
                 {
                   "name": {
@@ -7310,8 +7282,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 6
+                  "children": []
                 },
                 {
                   "name": {
@@ -7326,16 +7297,15 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 7
+                  "children": []
                 }
               ]
             },
             {
               "name": {
-                "en": "Casas Bahia Marketplace Integration",
-                "es": "Integracion De Casas Bahia Marketplace",
-                "pt": "Integracao Com A Casas Bahia Marketplace"
+                "en": "Casas bahia marketplace integration",
+                "es": "Integracion de casas bahia marketplace",
+                "pt": "Integracao com a casas bahia marketplace"
               },
               "slug": {
                 "en": "casas-bahia-marketplace-integration",
@@ -7358,8 +7328,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 1
+                  "children": []
                 },
                 {
                   "name": {
@@ -7374,8 +7343,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 2
+                  "children": []
                 },
                 {
                   "name": {
@@ -7390,8 +7358,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 3
+                  "children": []
                 },
                 {
                   "name": {
@@ -7406,8 +7373,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 4
+                  "children": []
                 },
                 {
                   "name": {
@@ -7422,8 +7388,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 5
+                  "children": []
                 },
                 {
                   "name": {
@@ -7438,8 +7403,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 6
+                  "children": []
                 },
                 {
                   "name": {
@@ -7454,8 +7418,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 7
+                  "children": []
                 },
                 {
                   "name": {
@@ -7470,16 +7433,15 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 8
+                  "children": []
                 }
               ]
             },
             {
               "name": {
-                "en": "Centauro Integration",
-                "es": "Integracion Con Centauro",
-                "pt": "Integracao Com A Centauro"
+                "en": "Centauro integration",
+                "es": "Integracion con centauro",
+                "pt": "Integracao com a centauro"
               },
               "slug": {
                 "en": "centauro-integration",
@@ -7502,8 +7464,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 1
+                  "children": []
                 },
                 {
                   "name": {
@@ -7518,8 +7479,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 2
+                  "children": []
                 },
                 {
                   "name": {
@@ -7534,16 +7494,15 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 3
+                  "children": []
                 }
               ]
             },
             {
               "name": {
-                "en": "Dafiti Integration Setup",
-                "es": "Configurar La Integracion De Dafiti",
-                "pt": "Configurar Integracao Da Dafiti"
+                "en": "Dafiti integration setup",
+                "es": "Configurar la integracion de dafiti",
+                "pt": "Configurar integracao da dafiti"
               },
               "slug": {
                 "en": "dafiti-integration-setup",
@@ -7566,8 +7525,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 1
+                  "children": []
                 },
                 {
                   "name": {
@@ -7582,8 +7540,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 2
+                  "children": []
                 },
                 {
                   "name": {
@@ -7598,8 +7555,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 3
+                  "children": []
                 },
                 {
                   "name": {
@@ -7614,8 +7570,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 4
+                  "children": []
                 },
                 {
                   "name": {
@@ -7630,8 +7585,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 5
+                  "children": []
                 },
                 {
                   "name": {
@@ -7646,16 +7600,15 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 6
+                  "children": []
                 }
               ]
             },
             {
               "name": {
-                "en": "Facebook Integration",
-                "es": "Integracion De Facebook",
-                "pt": "Integracao Com O Facebook"
+                "en": "Facebook integration",
+                "es": "Integracion de facebook",
+                "pt": "Integracao com o facebook"
               },
               "slug": {
                 "en": "facebook-integration",
@@ -7678,8 +7631,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 1
+                  "children": []
                 },
                 {
                   "name": {
@@ -7694,8 +7646,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 2
+                  "children": []
                 },
                 {
                   "name": {
@@ -7710,8 +7661,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 3
+                  "children": []
                 },
                 {
                   "name": {
@@ -7726,8 +7676,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 4
+                  "children": []
                 },
                 {
                   "name": {
@@ -7742,16 +7691,15 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 5
+                  "children": []
                 }
               ]
             },
             {
               "name": {
-                "en": "How To Campaign Through Google ADS",
-                "es": "Como Hacer Campanas A Traves De Google ADS",
-                "pt": "Como Fazer Campanhas Atraves Do Google ADS"
+                "en": "How to campaign through google ADS",
+                "es": "Como hacer campanas a traves de google ADS",
+                "pt": "Como fazer campanhas atraves do google ADS"
               },
               "slug": {
                 "en": "how-to-campaign-through-google-ads",
@@ -7774,8 +7722,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 1
+                  "children": []
                 },
                 {
                   "name": {
@@ -7790,8 +7737,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 3
+                  "children": []
                 },
                 {
                   "name": {
@@ -7806,16 +7752,15 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 4
+                  "children": []
                 }
               ]
             },
             {
               "name": {
-                "en": "Integrating With Google Shopping",
-                "es": "Integracion Con Google Shopping",
-                "pt": "Configurar Integracao Com O Google Shopping"
+                "en": "Integrating with google shopping",
+                "es": "Integracion con google shopping",
+                "pt": "Configurar integracao com o google shopping"
               },
               "slug": {
                 "en": "integrating-with-google-shopping",
@@ -7838,8 +7783,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 1
+                  "children": []
                 },
                 {
                   "name": {
@@ -7854,8 +7798,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 2
+                  "children": []
                 },
                 {
                   "name": {
@@ -7870,8 +7813,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 3
+                  "children": []
                 },
                 {
                   "name": {
@@ -7886,8 +7828,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 4
+                  "children": []
                 },
                 {
                   "name": {
@@ -7902,8 +7843,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 5
+                  "children": []
                 },
                 {
                   "name": {
@@ -7918,8 +7858,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 6
+                  "children": []
                 },
                 {
                   "name": {
@@ -7934,8 +7873,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 7
+                  "children": []
                 },
                 {
                   "name": {
@@ -7950,16 +7888,15 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 8
+                  "children": []
                 }
               ]
             },
             {
               "name": {
-                "en": "Integration With Facebook Business Extension",
-                "es": "Integracion Con Facebook Business Extension",
-                "pt": "Integracao Com O Facebook Business Extension"
+                "en": "Integration with facebook business extension",
+                "es": "Integracion con facebook business extension",
+                "pt": "Integracao com o facebook business extension"
               },
               "slug": {
                 "en": "integration-with-facebook-business-extension",
@@ -7982,8 +7919,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 1
+                  "children": []
                 },
                 {
                   "name": {
@@ -7998,8 +7934,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 2
+                  "children": []
                 },
                 {
                   "name": {
@@ -8014,8 +7949,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 3
+                  "children": []
                 },
                 {
                   "name": {
@@ -8030,8 +7964,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 4
+                  "children": []
                 },
                 {
                   "name": {
@@ -8046,16 +7979,15 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 5
+                  "children": []
                 }
               ]
             },
             {
               "name": {
-                "en": "Lengow Integration",
-                "es": "Integracion De Lengow",
-                "pt": "Integracao Com A Lengow"
+                "en": "Lengow integration",
+                "es": "Integracion de lengow",
+                "pt": "Integracao com a lengow"
               },
               "slug": {
                 "en": "lengow-integration",
@@ -8078,8 +8010,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 1
+                  "children": []
                 },
                 {
                   "name": {
@@ -8094,8 +8025,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 6
+                  "children": []
                 },
                 {
                   "name": {
@@ -8110,16 +8040,15 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 7
+                  "children": []
                 }
               ]
             },
             {
               "name": {
-                "en": "Livelo Integration",
-                "es": "Integracion De Livelo",
-                "pt": "Integracao Livelo"
+                "en": "Livelo integration",
+                "es": "Integracion de livelo",
+                "pt": "Integracao livelo"
               },
               "slug": {
                 "en": "livelo-integration",
@@ -8142,8 +8071,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 1
+                  "children": []
                 },
                 {
                   "name": {
@@ -8158,8 +8086,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 2
+                  "children": []
                 },
                 {
                   "name": {
@@ -8174,8 +8101,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 3
+                  "children": []
                 },
                 {
                   "name": {
@@ -8190,8 +8116,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 4
+                  "children": []
                 },
                 {
                   "name": {
@@ -8206,16 +8131,15 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 5
+                  "children": []
                 }
               ]
             },
             {
               "name": {
-                "en": "Magazine Luiza Integration Set Up",
-                "es": "Configurar La Integracion De Magazine Luiza",
-                "pt": "Configurar Integracao Com O Magazine Luiza"
+                "en": "Magazine luiza integration set up",
+                "es": "Configurar la integracion de magazine luiza",
+                "pt": "Configurar integracao com o magazine luiza"
               },
               "slug": {
                 "en": "magazine-luiza-integration-set-up",
@@ -8238,8 +8162,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 1
+                  "children": []
                 },
                 {
                   "name": {
@@ -8254,8 +8177,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 2
+                  "children": []
                 },
                 {
                   "name": {
@@ -8270,8 +8192,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 4
+                  "children": []
                 },
                 {
                   "name": {
@@ -8286,8 +8207,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 5
+                  "children": []
                 },
                 {
                   "name": {
@@ -8302,8 +8222,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 6
+                  "children": []
                 },
                 {
                   "name": {
@@ -8318,8 +8237,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 7
+                  "children": []
                 },
                 {
                   "name": {
@@ -8340,9 +8258,9 @@
             },
             {
               "name": {
-                "en": "Mapping Centauro Categories Variations AND Attributes",
-                "es": "Mapeo De Categorias Variaciones Y Atributos De Centauro",
-                "pt": "Mapeamento De Categorias E Atributos Da Centauro"
+                "en": "Mapping centauro categories variations AND attributes",
+                "es": "Mapeo de categorias variaciones y atributos de centauro",
+                "pt": "Mapeamento de categorias e atributos da centauro"
               },
               "slug": {
                 "en": "mapping-centauro-categories-variations-and-attributes-category",
@@ -8365,16 +8283,15 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 5
+                  "children": []
                 }
               ]
             },
             {
               "name": {
-                "en": "Mercado Libre Integration Set Up",
-                "es": "Configurar Integracion Con Mercado Libre",
-                "pt": "Configurar Integracao Do Mercado Livre"
+                "en": "Mercado libre integration set up",
+                "es": "Configurar integracion con mercado libre",
+                "pt": "Configurar integracao do mercado livre"
               },
               "slug": {
                 "en": "mercado-libre-integration-set-up",
@@ -8397,8 +8314,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 1
+                  "children": []
                 },
                 {
                   "name": {
@@ -8413,8 +8329,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 2
+                  "children": []
                 },
                 {
                   "name": {
@@ -8429,8 +8344,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 3
+                  "children": []
                 },
                 {
                   "name": {
@@ -8445,8 +8359,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 4
+                  "children": []
                 },
                 {
                   "name": {
@@ -8461,8 +8374,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 5
+                  "children": []
                 },
                 {
                   "name": {
@@ -8477,8 +8389,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 6
+                  "children": []
                 },
                 {
                   "name": {
@@ -8493,8 +8404,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 7
+                  "children": []
                 },
                 {
                   "name": {
@@ -8509,8 +8419,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 8
+                  "children": []
                 },
                 {
                   "name": {
@@ -8525,16 +8434,15 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 9
+                  "children": []
                 }
               ]
             },
             {
               "name": {
-                "en": "Netshoes Integration Set Up",
-                "es": "Configurar Integracion Netshoes",
-                "pt": "Configurar Integracao Da Netshoes"
+                "en": "Netshoes integration set up",
+                "es": "Configurar integracion netshoes",
+                "pt": "Configurar integracao da netshoes"
               },
               "slug": {
                 "en": "netshoes-integration-set-up",
@@ -8557,8 +8465,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 1
+                  "children": []
                 },
                 {
                   "name": {
@@ -8573,8 +8480,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 2
+                  "children": []
                 },
                 {
                   "name": {
@@ -8589,8 +8495,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 3
+                  "children": []
                 },
                 {
                   "name": {
@@ -8605,8 +8510,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 4
+                  "children": []
                 },
                 {
                   "name": {
@@ -8621,8 +8525,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 5
+                  "children": []
                 },
                 {
                   "name": {
@@ -8637,8 +8540,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 6
+                  "children": []
                 },
                 {
                   "name": {
@@ -8653,8 +8555,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 7
+                  "children": []
                 },
                 {
                   "name": {
@@ -8675,9 +8576,9 @@
             },
             {
               "name": {
-                "en": "Netshoes Integration Set Up Magazine Luiza",
-                "es": "Configurar Integracion Netshoes Magazine Luiza",
-                "pt": "Configurar Integracao Com O Magazine Luiza"
+                "en": "Netshoes integration set up magazine luiza",
+                "es": "Configurar integracion netshoes magazine luiza",
+                "pt": "Configurar integracao com o magazine luiza"
               },
               "slug": {
                 "en": "netshoes-integration-set-up-magazine-luiza",
@@ -8700,16 +8601,15 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 3
+                  "children": []
                 }
               ]
             },
             {
               "name": {
-                "en": "Posthaus Integration",
-                "es": "Integracion Posthaus",
-                "pt": "Integracao Posthaus"
+                "en": "Posthaus integration",
+                "es": "Integracion posthaus",
+                "pt": "Integracao posthaus"
               },
               "slug": {
                 "en": "posthaus-integration",
@@ -8732,8 +8632,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 1
+                  "children": []
                 },
                 {
                   "name": {
@@ -8748,8 +8647,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 2
+                  "children": []
                 },
                 {
                   "name": {
@@ -8764,8 +8662,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 3
+                  "children": []
                 },
                 {
                   "name": {
@@ -8780,8 +8677,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 4
+                  "children": []
                 },
                 {
                   "name": {
@@ -8796,16 +8692,15 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 5
+                  "children": []
                 }
               ]
             },
             {
               "name": {
-                "en": "Product Integration Errors With Amazon",
-                "es": "Errores De Integracion De Productos Amazon",
-                "pt": "Erros De Integracao De Produtos Amazon"
+                "en": "Product integration errors with amazon",
+                "es": "Errores de integracion de productos amazon",
+                "pt": "Erros de integracao de produtos amazon"
               },
               "slug": {
                 "en": "product-integration-errors-with-amazon-category",
@@ -8828,16 +8723,15 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 8
+                  "children": []
                 }
               ]
             },
             {
               "name": {
-                "en": "Registering The Centauro Integration",
-                "es": "Registro De La Integracion De Centauro",
-                "pt": "Cadastro Da Integracao Da Centauro"
+                "en": "Registering the centauro integration",
+                "es": "Registro de la integracion de centauro",
+                "pt": "Cadastro da integracao da centauro"
               },
               "slug": {
                 "en": "registering-the-centauro-integration-category",
@@ -8860,16 +8754,15 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 4
+                  "children": []
                 }
               ]
             },
             {
               "name": {
-                "en": "Skyhub B2w Integration Set Up",
-                "es": "Configurar Integracion Skyhub B2w",
-                "pt": "Configurar Integracao Da Skyhub B2w"
+                "en": "Skyhub b2w integration set up",
+                "es": "Configurar integracion skyhub b2w",
+                "pt": "Configurar integracao da skyhub b2w"
               },
               "slug": {
                 "en": "skyhub-b2w-integration-set-up",
@@ -8892,16 +8785,15 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 2
+                  "children": []
                 }
               ]
             },
             {
               "name": {
-                "en": "Tiktok Integration",
-                "es": "Integracion De Tiktok",
-                "pt": "Integracao Com O Tiktok"
+                "en": "Tiktok integration",
+                "es": "Integracion de tiktok",
+                "pt": "Integracao com o tiktok"
               },
               "slug": {
                 "en": "tiktok-integration",
@@ -8924,8 +8816,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 1
+                  "children": []
                 },
                 {
                   "name": {
@@ -8940,8 +8831,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 2
+                  "children": []
                 },
                 {
                   "name": {
@@ -8956,8 +8846,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 3
+                  "children": []
                 },
                 {
                   "name": {
@@ -8972,8 +8861,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 4
+                  "children": []
                 },
                 {
                   "name": {
@@ -8988,16 +8876,15 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 5
+                  "children": []
                 }
               ]
             },
             {
               "name": {
-                "en": "What Features Does The Integration Offer",
-                "es": "Que Funcionalidades Ofrece La Integracion",
-                "pt": "Quais Sao As Funcionalidades Que A Integracao Oferece"
+                "en": "What features does the integration offer",
+                "es": "Que funcionalidades ofrece la integracion",
+                "pt": "Quais sao as funcionalidades que a integracao oferece"
               },
               "slug": {
                 "en": "what-features-does-the-integration-offer-category",
@@ -9020,16 +8907,15 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 11
+                  "children": []
                 }
               ]
             },
             {
               "name": {
-                "en": "Wish Integration",
-                "es": "Integracion Con Wish",
-                "pt": "Integracao Com A Wish"
+                "en": "Wish integration",
+                "es": "Integracion con wish",
+                "pt": "Integracao com a wish"
               },
               "slug": {
                 "en": "wish-integration",
@@ -9052,8 +8938,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 1
+                  "children": []
                 },
                 {
                   "name": {
@@ -9068,8 +8953,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 2
+                  "children": []
                 },
                 {
                   "name": {
@@ -9084,8 +8968,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 3
+                  "children": []
                 },
                 {
                   "name": {
@@ -9100,8 +8983,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 4
+                  "children": []
                 }
               ]
             }
@@ -9123,9 +9005,9 @@
           "children": [
             {
               "name": {
-                "en": "Creating Franchise Accounts",
-                "es": "Crear Cuentas Franquicia",
-                "pt": "Criar Contas Franquias"
+                "en": "Creating franchise accounts",
+                "es": "Crear cuentas franquicia",
+                "pt": "Criar contas franquias"
               },
               "slug": {
                 "en": "creating-franchise-accounts-category",
@@ -9148,16 +9030,15 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 3
+                  "children": []
                 }
               ]
             },
             {
               "name": {
-                "en": "Instore First Steps AND Configurations",
-                "es": "Instore Primeros Pasos Y Configuracion",
-                "pt": "Instore Primeiros Passos E Configuracoes"
+                "en": "Instore first steps AND configurations",
+                "es": "Instore primeros pasos y configuracion",
+                "pt": "Instore primeiros passos e configuracoes"
               },
               "slug": {
                 "en": "instore-first-steps-and-configurations",
@@ -9180,8 +9061,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 4
+                  "children": []
                 },
                 {
                   "name": {
@@ -9196,8 +9076,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 5
+                  "children": []
                 },
                 {
                   "name": {
@@ -9212,16 +9091,15 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 6
+                  "children": []
                 }
               ]
             },
             {
               "name": {
-                "en": "Instore Getting Started AND Setting Up",
-                "es": "Instore Primeros Pasos Y Configuracion",
-                "pt": "Instore Primeiros Passos E Configuracoes"
+                "en": "Instore getting started AND setting up",
+                "es": "Instore primeros pasos y configuracion",
+                "pt": "Instore primeiros passos e configuracoes"
               },
               "slug": {
                 "en": "instore-getting-started-and-setting-up",
@@ -9244,8 +9122,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 2
+                  "children": []
                 },
                 {
                   "name": {
@@ -9260,16 +9137,15 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 8
+                  "children": []
                 }
               ]
             },
             {
               "name": {
-                "en": "Instore Payments",
-                "es": "Instore Pagos",
-                "pt": "Instore Pagamentos"
+                "en": "Instore payments",
+                "es": "Instore pagos",
+                "pt": "Instore pagamentos"
               },
               "slug": {
                 "en": "instore-payments",
@@ -9292,8 +9168,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 1
+                  "children": []
                 },
                 {
                   "name": {
@@ -9308,8 +9183,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 2
+                  "children": []
                 },
                 {
                   "name": {
@@ -9324,8 +9198,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 3
+                  "children": []
                 },
                 {
                   "name": {
@@ -9340,8 +9213,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 4
+                  "children": []
                 },
                 {
                   "name": {
@@ -9356,8 +9228,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 5
+                  "children": []
                 },
                 {
                   "name": {
@@ -9372,16 +9243,15 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 6
+                  "children": []
                 }
               ]
             },
             {
               "name": {
-                "en": "Instore Product Overview",
-                "es": "Instore   Descripción Del Producto",
-                "pt": "Instore Visao Geral Do Produto"
+                "en": "Instore product overview",
+                "es": "Instore descripción del producto",
+                "pt": "Instore visao geral do produto"
               },
               "slug": {
                 "en": "instore-product-overview",
@@ -9404,16 +9274,15 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 1
+                  "children": []
                 }
               ]
             },
             {
               "name": {
-                "en": "Instore Using App",
-                "es": "Instore Utilizando La Aplicación",
-                "pt": "Instore Usando O App"
+                "en": "Instore using app",
+                "es": "Instore utilizando la aplicación",
+                "pt": "Instore usando o app"
               },
               "slug": {
                 "en": "instore-using-app",
@@ -9436,16 +9305,15 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 17
+                  "children": []
                 }
               ]
             },
             {
               "name": {
-                "en": "Instore Using The App",
-                "es": "Instore Usando El App",
-                "pt": "Instore Usando O App"
+                "en": "Instore using the app",
+                "es": "Instore usando el app",
+                "pt": "Instore usando o app"
               },
               "slug": {
                 "en": "instore-using-the-app",
@@ -9468,8 +9336,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 2
+                  "children": []
                 },
                 {
                   "name": {
@@ -9484,8 +9351,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 3
+                  "children": []
                 },
                 {
                   "name": {
@@ -9500,8 +9366,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 4
+                  "children": []
                 },
                 {
                   "name": {
@@ -9516,8 +9381,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 5
+                  "children": []
                 },
                 {
                   "name": {
@@ -9532,8 +9396,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 6
+                  "children": []
                 },
                 {
                   "name": {
@@ -9548,8 +9411,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 7
+                  "children": []
                 },
                 {
                   "name": {
@@ -9564,8 +9426,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 8
+                  "children": []
                 },
                 {
                   "name": {
@@ -9580,8 +9441,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 9
+                  "children": []
                 },
                 {
                   "name": {
@@ -9596,8 +9456,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 10
+                  "children": []
                 },
                 {
                   "name": {
@@ -9612,8 +9471,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 11
+                  "children": []
                 },
                 {
                   "name": {
@@ -9628,8 +9486,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 12
+                  "children": []
                 },
                 {
                   "name": {
@@ -9644,8 +9501,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 13
+                  "children": []
                 },
                 {
                   "name": {
@@ -9660,8 +9516,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 14
+                  "children": []
                 },
                 {
                   "name": {
@@ -9676,8 +9531,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 15
+                  "children": []
                 },
                 {
                   "name": {
@@ -9692,8 +9546,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 16
+                  "children": []
                 },
                 {
                   "name": {
@@ -9708,16 +9561,15 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 18
+                  "children": []
                 }
               ]
             },
             {
               "name": {
-                "en": "Register The Barcode Of The Skus For The Instore",
-                "es": "Registrar El Codigo De Barras De Los Skus Para El Instore",
-                "pt": "Cadastrar O Codigo De Barras Dos Skus Para Instore"
+                "en": "Register the barcode of the skus for the instore",
+                "es": "Registrar el codigo de barras de los skus para el instore",
+                "pt": "Cadastrar o codigo de barras dos skus para instore"
               },
               "slug": {
                 "en": "register-the-barcode-of-the-skus-for-the-instore",
@@ -9740,16 +9592,15 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 7
+                  "children": []
                 }
               ]
             },
             {
               "name": {
-                "en": "Unified Commerce Strategies",
-                "es": "Estrategias De Comercio Unificado",
-                "pt": "Estrategias De Comercio Unificado"
+                "en": "Unified commerce strategies",
+                "es": "Estrategias de comercio unificado",
+                "pt": "Estrategias de comercio unificado"
               },
               "slug": {
                 "en": "unified-commerce-strategies",
@@ -9772,8 +9623,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 1
+                  "children": []
                 },
                 {
                   "name": {
@@ -9788,8 +9638,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 2
+                  "children": []
                 },
                 {
                   "name": {
@@ -9804,8 +9653,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 3
+                  "children": []
                 },
                 {
                   "name": {
@@ -9820,8 +9668,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 4
+                  "children": []
                 },
                 {
                   "name": {
@@ -9836,16 +9683,15 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 5
+                  "children": []
                 }
               ]
             },
             {
               "name": {
-                "en": "VTEX Live Shopping Getting Started",
-                "es": "VTEX Live Shopping Primeros Pasos",
-                "pt": "VTEX Live Shopping Primeiros Passos"
+                "en": "VTEX live shopping getting started",
+                "es": "VTEX live shopping primeros pasos",
+                "pt": "VTEX live shopping primeiros passos"
               },
               "slug": {
                 "en": "vtex-live-shopping-getting-started",
@@ -9868,8 +9714,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 1
+                  "children": []
                 },
                 {
                   "name": {
@@ -9884,8 +9729,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 2
+                  "children": []
                 },
                 {
                   "name": {
@@ -9900,8 +9744,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 3
+                  "children": []
                 },
                 {
                   "name": {
@@ -9916,8 +9759,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 4
+                  "children": []
                 },
                 {
                   "name": {
@@ -9932,8 +9774,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 5
+                  "children": []
                 },
                 {
                   "name": {
@@ -9948,8 +9789,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 6
+                  "children": []
                 },
                 {
                   "name": {
@@ -9964,8 +9804,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 7
+                  "children": []
                 },
                 {
                   "name": {
@@ -9980,8 +9819,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 8
+                  "children": []
                 },
                 {
                   "name": {
@@ -9996,8 +9834,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 9
+                  "children": []
                 },
                 {
                   "name": {
@@ -10012,8 +9849,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 10
+                  "children": []
                 },
                 {
                   "name": {
@@ -10028,8 +9864,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 11
+                  "children": []
                 },
                 {
                   "name": {
@@ -10044,16 +9879,15 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 12
+                  "children": []
                 }
               ]
             },
             {
               "name": {
-                "en": "What Is Instore",
-                "es": "Que ES Instore",
-                "pt": "O Que E O Instore"
+                "en": "What is instore",
+                "es": "Que ES instore",
+                "pt": "O que e o instore"
               },
               "slug": {
                 "en": "what-is-instore-category",
@@ -10076,8 +9910,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 1
+                  "children": []
                 }
               ]
             }
@@ -10085,9 +9918,9 @@
         },
         {
           "name": {
-            "en": "Onboarding Guide",
-            "es": "Guía De Onboarding",
-            "pt": "Guia De Onboarding"
+            "en": "Onboarding guide",
+            "es": "Guía de onboarding",
+            "pt": "Guia de onboarding"
           },
           "slug": {
             "en": "onboarding-guide",
@@ -10099,122 +9932,9 @@
           "children": [
             {
               "name": {
-                "en": "VTEX Store Overview",
-                "es": "Serie De La Tienda VTEX",
-                "pt": "Trilha Da Loja VTEX"
-              },
-              "slug": {
-                "en": "vtex-store-overview",
-                "es": "serie-de-la-tienda-vtex",
-                "pt": "trilha-da-loja-vtex"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "1. Introduction to VTEX",
-                    "es": "1. Introducción a VTEX",
-                    "pt": "1. Introdução à VTEX"
-                  },
-                  "slug": {
-                    "en": "introduction-to-vtex",
-                    "es": "introduccion-a-vtex",
-                    "pt": "introducao-a-vtex"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": [],
-                  "order": 1
-                },
-                {
-                  "name": {
-                    "en": "2. Initial setup",
-                    "es": "2. Configuración inicial",
-                    "pt": "2. Configurações iniciais"
-                  },
-                  "slug": {
-                    "en": "initial-setup",
-                    "es": "configuracion-inicial",
-                    "pt": "configuracoes-iniciais"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": [],
-                  "order": 3
-                },
-                {
-                  "name": {
-                    "en": "3. Backend integrations",
-                    "es": "3. Integraciones de backend",
-                    "pt": "3. Integrações de backend"
-                  },
-                  "slug": {
-                    "en": "backend-integrations",
-                    "es": "integraciones-de-backend",
-                    "pt": "integracoes-de-backend"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": [],
-                  "order": 4
-                },
-                {
-                  "name": {
-                    "en": "4. VTEX modules I",
-                    "es": "4. Módulos de VTEX I",
-                    "pt": "4. Módulos da VTEX I"
-                  },
-                  "slug": {
-                    "en": "vtex-modules-i",
-                    "es": "modulos-de-vtex-i",
-                    "pt": "modulos-da-vtex-i"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": [],
-                  "order": 5
-                },
-                {
-                  "name": {
-                    "en": "5. Frontend implementation",
-                    "es": "5. Implementación del frontend",
-                    "pt": "5. Implementação de frontend"
-                  },
-                  "slug": {
-                    "en": "frontend-implementation",
-                    "es": "implementacion-del-frontend",
-                    "pt": "implementacao-de-frontend"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": [],
-                  "order": 7
-                },
-                {
-                  "name": {
-                    "en": "6. Planning the go-live",
-                    "es": "6. Planificación del go live",
-                    "pt": "6. Planejamento do go-live"
-                  },
-                  "slug": {
-                    "en": "planning-the-go-live",
-                    "es": "planificacion-del-go-live",
-                    "pt": "planejamento-do-go-live"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": [],
-                  "order": 8
-                }
-              ],
-              "order": 1
-            },
-            {
-              "name": {
-                "en": "Next Steps After The Go Live",
-                "es": "Proximos Pasos Tras El Go Live",
-                "pt": "Proximos Passos Apos O Go Live"
+                "en": "Next steps after the go live",
+                "es": "Proximos pasos tras el go live",
+                "pt": "Proximos passos apos o go live"
               },
               "slug": {
                 "en": "next-steps-after-the-go-live",
@@ -10237,8 +9957,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 1
+                  "children": []
                 },
                 {
                   "name": {
@@ -10253,8 +9972,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 2
+                  "children": []
                 },
                 {
                   "name": {
@@ -10269,8 +9987,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 3
+                  "children": []
                 },
                 {
                   "name": {
@@ -10285,17 +10002,15 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 4
+                  "children": []
                 }
-              ],
-              "order": 2
+              ]
             },
             {
               "name": {
-                "en": "Support At VTEX",
+                "en": "Support at VTEX",
                 "es": "Soporte EN VTEX",
-                "pt": "Suporte Na VTEX"
+                "pt": "Suporte na VTEX"
               },
               "slug": {
                 "en": "support-at-vtex",
@@ -10318,8 +10033,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 1
+                  "children": []
                 },
                 {
                   "name": {
@@ -10334,8 +10048,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 2
+                  "children": []
                 },
                 {
                   "name": {
@@ -10350,8 +10063,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 3
+                  "children": []
                 },
                 {
                   "name": {
@@ -10366,8 +10078,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 4
+                  "children": []
                 },
                 {
                   "name": {
@@ -10382,8 +10093,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 5
+                  "children": []
                 },
                 {
                   "name": {
@@ -10398,8 +10108,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 6
+                  "children": []
                 },
                 {
                   "name": {
@@ -10414,19 +10123,123 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 7
+                  "children": []
                 }
-              ],
-              "order": 3
+              ]
+            },
+            {
+              "name": {
+                "en": "VTEX store overview",
+                "es": "Serie de la tienda VTEX",
+                "pt": "Trilha da loja VTEX"
+              },
+              "slug": {
+                "en": "vtex-store-overview",
+                "es": "serie-de-la-tienda-vtex",
+                "pt": "trilha-da-loja-vtex"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "1. Introduction to VTEX",
+                    "es": "1. Introducción a VTEX",
+                    "pt": "1. Introdução à VTEX"
+                  },
+                  "slug": {
+                    "en": "introduction-to-vtex",
+                    "es": "introduccion-a-vtex",
+                    "pt": "introducao-a-vtex"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "2. Initial setup",
+                    "es": "2. Configuración inicial",
+                    "pt": "2. Configurações iniciais"
+                  },
+                  "slug": {
+                    "en": "initial-setup",
+                    "es": "configuracion-inicial",
+                    "pt": "configuracoes-iniciais"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "3. Backend integrations",
+                    "es": "3. Integraciones de backend",
+                    "pt": "3. Integrações de backend"
+                  },
+                  "slug": {
+                    "en": "backend-integrations",
+                    "es": "integraciones-de-backend",
+                    "pt": "integracoes-de-backend"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "4. VTEX modules I",
+                    "es": "4. Módulos de VTEX I",
+                    "pt": "4. Módulos da VTEX I"
+                  },
+                  "slug": {
+                    "en": "vtex-modules-i",
+                    "es": "modulos-de-vtex-i",
+                    "pt": "modulos-da-vtex-i"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "5. Frontend implementation",
+                    "es": "5. Implementación del frontend",
+                    "pt": "5. Implementação de frontend"
+                  },
+                  "slug": {
+                    "en": "frontend-implementation",
+                    "es": "implementacion-del-frontend",
+                    "pt": "implementacao-de-frontend"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "6. Planning the go-live",
+                    "es": "6. Planificación del go live",
+                    "pt": "6. Planejamento do go-live"
+                  },
+                  "slug": {
+                    "en": "planning-the-go-live",
+                    "es": "planificacion-del-go-live",
+                    "pt": "planejamento-do-go-live"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
             }
           ]
         },
         {
           "name": {
-            "en": "Payment Solutions",
-            "es": "Soluciones De Pago",
-            "pt": "Soluções De Pagamento"
+            "en": "Payment solutions",
+            "es": "Soluciones de pago",
+            "pt": "Soluções de pagamento"
           },
           "slug": {
             "en": "payment-solutions",
@@ -10438,9 +10251,9 @@
           "children": [
             {
               "name": {
-                "en": "Clustered Payment Conditions",
-                "es": "Condiciones De Pago Clusterizadas",
-                "pt": "Condicoes De Pagamento Clusterizadas"
+                "en": "Clustered payment conditions",
+                "es": "Condiciones de pago clusterizadas",
+                "pt": "Condicoes de pagamento clusterizadas"
               },
               "slug": {
                 "en": "clustered-payment-conditions",
@@ -10463,8 +10276,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 1
+                  "children": []
                 },
                 {
                   "name": {
@@ -10479,8 +10291,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 2
+                  "children": []
                 },
                 {
                   "name": {
@@ -10495,8 +10306,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 3
+                  "children": []
                 },
                 {
                   "name": {
@@ -10511,8 +10321,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 4
+                  "children": []
                 },
                 {
                   "name": {
@@ -10527,16 +10336,15 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 5
+                  "children": []
                 }
               ]
             },
             {
               "name": {
-                "en": "Customer Credit Getting Started",
-                "es": "Customer Credit Como Empezar",
-                "pt": "Customer Credit Como Comecar"
+                "en": "Customer credit getting started",
+                "es": "Customer credit como empezar",
+                "pt": "Customer credit como comecar"
               },
               "slug": {
                 "en": "customer-credit-getting-started",
@@ -10559,8 +10367,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 1
+                  "children": []
                 },
                 {
                   "name": {
@@ -10575,8 +10382,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 2
+                  "children": []
                 },
                 {
                   "name": {
@@ -10591,8 +10397,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 3
+                  "children": []
                 },
                 {
                   "name": {
@@ -10607,8 +10412,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 4
+                  "children": []
                 },
                 {
                   "name": {
@@ -10623,16 +10427,15 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 5
+                  "children": []
                 }
               ]
             },
             {
               "name": {
-                "en": "Digital Wallet E Wallet",
-                "es": "Cartera Digital E Wallet",
-                "pt": "Carteira Digital E Wallet"
+                "en": "Digital wallet e wallet",
+                "es": "Cartera digital e wallet",
+                "pt": "Carteira digital e wallet"
               },
               "slug": {
                 "en": "digital-wallet-e-wallet-category",
@@ -10655,8 +10458,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 1
+                  "children": []
                 },
                 {
                   "name": {
@@ -10671,8 +10473,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 2
+                  "children": []
                 },
                 {
                   "name": {
@@ -10687,8 +10488,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 3
+                  "children": []
                 }
               ]
             }
@@ -10696,9 +10496,9 @@
         },
         {
           "name": {
-            "en": "Rappi Integration",
-            "es": "Integracion De Rappi",
-            "pt": "Integracao Rappi"
+            "en": "Rappi integration",
+            "es": "Integracion de rappi",
+            "pt": "Integracao rappi"
           },
           "slug": {
             "en": "rappi-integration",
@@ -10721,8 +10521,7 @@
               },
               "origin": "",
               "type": "markdown",
-              "children": [],
-              "order": 1
+              "children": []
             },
             {
               "name": {
@@ -10737,8 +10536,7 @@
               },
               "origin": "",
               "type": "markdown",
-              "children": [],
-              "order": 2
+              "children": []
             },
             {
               "name": {
@@ -10753,8 +10551,7 @@
               },
               "origin": "",
               "type": "markdown",
-              "children": [],
-              "order": 3
+              "children": []
             },
             {
               "name": {
@@ -10769,8 +10566,7 @@
               },
               "origin": "",
               "type": "markdown",
-              "children": [],
-              "order": 4
+              "children": []
             },
             {
               "name": {
@@ -10785,16 +10581,15 @@
               },
               "origin": "",
               "type": "markdown",
-              "children": [],
-              "order": 5
+              "children": []
             }
           ]
         },
         {
           "name": {
-            "en": "Retail Media",
-            "es": "Retail Media",
-            "pt": "Retail Media"
+            "en": "Retail media",
+            "es": "Retail media",
+            "pt": "Retail media"
           },
           "slug": {
             "en": "retail-media",
@@ -10831,8 +10626,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 1
+                  "children": []
                 },
                 {
                   "name": {
@@ -10847,8 +10641,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 2
+                  "children": []
                 },
                 {
                   "name": {
@@ -10863,8 +10656,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 3
+                  "children": []
                 },
                 {
                   "name": {
@@ -10879,8 +10671,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 4
+                  "children": []
                 },
                 {
                   "name": {
@@ -10895,8 +10686,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 5
+                  "children": []
                 }
               ]
             }
@@ -10904,9 +10694,9 @@
         },
         {
           "name": {
-            "en": "Shopee Integration",
-            "es": "Integracion Con Shopee",
-            "pt": "Integracao Shopee"
+            "en": "Shopee integration",
+            "es": "Integracion con shopee",
+            "pt": "Integracao shopee"
           },
           "slug": {
             "en": "shopee-integration",
@@ -10929,8 +10719,7 @@
               },
               "origin": "",
               "type": "markdown",
-              "children": [],
-              "order": 1
+              "children": []
             },
             {
               "name": {
@@ -10945,8 +10734,7 @@
               },
               "origin": "",
               "type": "markdown",
-              "children": [],
-              "order": 2
+              "children": []
             },
             {
               "name": {
@@ -10961,8 +10749,7 @@
               },
               "origin": "",
               "type": "markdown",
-              "children": [],
-              "order": 3
+              "children": []
             },
             {
               "name": {
@@ -10977,8 +10764,7 @@
               },
               "origin": "",
               "type": "markdown",
-              "children": [],
-              "order": 4
+              "children": []
             },
             {
               "name": {
@@ -10993,8 +10779,7 @@
               },
               "origin": "",
               "type": "markdown",
-              "children": [],
-              "order": 5
+              "children": []
             }
           ]
         },
@@ -11015,8 +10800,8 @@
             {
               "name": {
                 "en": "Extensions HUB",
-                "es": "HUB De Extensiones",
-                "pt": "HUB De Extensoes"
+                "es": "HUB de extensiones",
+                "pt": "HUB de extensoes"
               },
               "slug": {
                 "en": "extensions-hub",
@@ -11039,8 +10824,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 1
+                  "children": []
                 },
                 {
                   "name": {
@@ -11055,8 +10839,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 2
+                  "children": []
                 },
                 {
                   "name": {
@@ -11071,16 +10854,15 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 3
+                  "children": []
                 }
               ]
             },
             {
               "name": {
-                "en": "VTEX Intelligent Search",
-                "es": "VTEX Intelligent Search",
-                "pt": "VTEX Intelligent Search"
+                "en": "VTEX intelligent search",
+                "es": "VTEX intelligent search",
+                "pt": "VTEX intelligent search"
               },
               "slug": {
                 "en": "vtex-intelligent-search",
@@ -11103,8 +10885,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 1
+                  "children": []
                 },
                 {
                   "name": {
@@ -11119,8 +10900,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 2
+                  "children": []
                 },
                 {
                   "name": {
@@ -11135,8 +10915,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 3
+                  "children": []
                 },
                 {
                   "name": {
@@ -11151,8 +10930,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 4
+                  "children": []
                 },
                 {
                   "name": {
@@ -11167,8 +10945,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 5
+                  "children": []
                 }
               ]
             }
@@ -11176,9 +10953,9 @@
         },
         {
           "name": {
-            "en": "VTEX Modules Getting Started",
-            "es": "Módulos VTEX Primeros Pasos",
-            "pt": "Módulos VTEX Primeiros Passos"
+            "en": "VTEX modules getting started",
+            "es": "Módulos VTEX primeros pasos",
+            "pt": "Módulos VTEX primeiros passos"
           },
           "slug": {
             "en": "vtex-modules-getting-started",
@@ -11190,9 +10967,9 @@
           "children": [
             {
               "name": {
-                "en": "Accounts AND Permissions",
-                "es": "Cuentas Y Permisos",
-                "pt": "Contas E Permissoes"
+                "en": "Accounts AND permissions",
+                "es": "Cuentas y permisos",
+                "pt": "Contas e permissoes"
               },
               "slug": {
                 "en": "accounts-and-permissions",
@@ -11215,8 +10992,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 3
+                  "children": []
                 }
               ]
             },
@@ -11247,8 +11023,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 1
+                  "children": []
                 },
                 {
                   "name": {
@@ -11263,8 +11038,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 2
+                  "children": []
                 },
                 {
                   "name": {
@@ -11279,8 +11053,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 3
+                  "children": []
                 },
                 {
                   "name": {
@@ -11295,8 +11068,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 4
+                  "children": []
                 },
                 {
                   "name": {
@@ -11311,8 +11083,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 5
+                  "children": []
                 },
                 {
                   "name": {
@@ -11327,8 +11098,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 6
+                  "children": []
                 },
                 {
                   "name": {
@@ -11343,8 +11113,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 7
+                  "children": []
                 },
                 {
                   "name": {
@@ -11359,8 +11128,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 8
+                  "children": []
                 },
                 {
                   "name": {
@@ -11375,8 +11143,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 9
+                  "children": []
                 },
                 {
                   "name": {
@@ -11391,8 +11158,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 10
+                  "children": []
                 },
                 {
                   "name": {
@@ -11407,8 +11173,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 11
+                  "children": []
                 },
                 {
                   "name": {
@@ -11423,8 +11188,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 12
+                  "children": []
                 },
                 {
                   "name": {
@@ -11439,8 +11203,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 13
+                  "children": []
                 }
               ]
             },
@@ -11471,8 +11234,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 1
+                  "children": []
                 },
                 {
                   "name": {
@@ -11487,8 +11249,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 2
+                  "children": []
                 },
                 {
                   "name": {
@@ -11503,8 +11264,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 3
+                  "children": []
                 },
                 {
                   "name": {
@@ -11519,8 +11279,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 4
+                  "children": []
                 },
                 {
                   "name": {
@@ -11535,16 +11294,15 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 5
+                  "children": []
                 }
               ]
             },
             {
               "name": {
-                "en": "Contas E Permissoes",
-                "es": "Contas E Permissoes",
-                "pt": "Contas E Permissoes"
+                "en": "Contas e permissoes",
+                "es": "Contas e permissoes",
+                "pt": "Contas e permissoes"
               },
               "slug": {
                 "en": "contas-e-permissoes",
@@ -11567,8 +11325,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 1
+                  "children": []
                 },
                 {
                   "name": {
@@ -11583,8 +11340,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 2
+                  "children": []
                 },
                 {
                   "name": {
@@ -11599,8 +11355,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 4
+                  "children": []
                 },
                 {
                   "name": {
@@ -11615,8 +11370,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 5
+                  "children": []
                 },
                 {
                   "name": {
@@ -11631,8 +11385,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 6
+                  "children": []
                 },
                 {
                   "name": {
@@ -11647,8 +11400,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 8
+                  "children": []
                 },
                 {
                   "name": {
@@ -11663,8 +11415,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 9
+                  "children": []
                 },
                 {
                   "name": {
@@ -11679,16 +11430,15 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 10
+                  "children": []
                 }
               ]
             },
             {
               "name": {
-                "en": "Data AND Privacy",
-                "es": "Datos Y Privacidad",
-                "pt": "Dados E Privacidade"
+                "en": "Data AND privacy",
+                "es": "Datos y privacidad",
+                "pt": "Dados e privacidade"
               },
               "slug": {
                 "en": "data-and-privacy",
@@ -11711,8 +11461,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 1
+                  "children": []
                 },
                 {
                   "name": {
@@ -11727,8 +11476,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 2
+                  "children": []
                 },
                 {
                   "name": {
@@ -11743,8 +11491,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 3
+                  "children": []
                 },
                 {
                   "name": {
@@ -11759,16 +11506,15 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 4
+                  "children": []
                 }
               ]
             },
             {
               "name": {
-                "en": "Go Live",
-                "es": "Go Live",
-                "pt": "Go Live"
+                "en": "Go live",
+                "es": "Go live",
+                "pt": "Go live"
               },
               "slug": {
                 "en": "go-live-category",
@@ -11791,8 +11537,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 2
+                  "children": []
                 },
                 {
                   "name": {
@@ -11807,8 +11552,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 3
+                  "children": []
                 },
                 {
                   "name": {
@@ -11823,8 +11567,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 4
+                  "children": []
                 },
                 {
                   "name": {
@@ -11839,8 +11582,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 5
+                  "children": []
                 }
               ]
             },
@@ -11871,8 +11613,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 1
+                  "children": []
                 },
                 {
                   "name": {
@@ -11887,8 +11628,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 2
+                  "children": []
                 },
                 {
                   "name": {
@@ -11903,8 +11643,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 3
+                  "children": []
                 },
                 {
                   "name": {
@@ -11919,8 +11658,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 4
+                  "children": []
                 },
                 {
                   "name": {
@@ -11935,8 +11673,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 5
+                  "children": []
                 }
               ]
             },
@@ -11967,8 +11704,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 1
+                  "children": []
                 },
                 {
                   "name": {
@@ -11983,8 +11719,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 2
+                  "children": []
                 },
                 {
                   "name": {
@@ -11999,8 +11734,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 4
+                  "children": []
                 },
                 {
                   "name": {
@@ -12015,8 +11749,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 5
+                  "children": []
                 },
                 {
                   "name": {
@@ -12031,8 +11764,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 6
+                  "children": []
                 },
                 {
                   "name": {
@@ -12047,8 +11779,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 7
+                  "children": []
                 },
                 {
                   "name": {
@@ -12063,8 +11794,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 8
+                  "children": []
                 },
                 {
                   "name": {
@@ -12079,8 +11809,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 9
+                  "children": []
                 },
                 {
                   "name": {
@@ -12095,8 +11824,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 10
+                  "children": []
                 },
                 {
                   "name": {
@@ -12111,8 +11839,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 11
+                  "children": []
                 }
               ]
             },
@@ -12143,8 +11870,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 1
+                  "children": []
                 },
                 {
                   "name": {
@@ -12159,8 +11885,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 2
+                  "children": []
                 },
                 {
                   "name": {
@@ -12175,8 +11900,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 3
+                  "children": []
                 },
                 {
                   "name": {
@@ -12191,8 +11915,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 4
+                  "children": []
                 },
                 {
                   "name": {
@@ -12207,8 +11930,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 5
+                  "children": []
                 },
                 {
                   "name": {
@@ -12223,8 +11945,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 6
+                  "children": []
                 },
                 {
                   "name": {
@@ -12239,8 +11960,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 7
+                  "children": []
                 }
               ]
             },
@@ -12271,8 +11991,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 1
+                  "children": []
                 },
                 {
                   "name": {
@@ -12287,8 +12006,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 2
+                  "children": []
                 },
                 {
                   "name": {
@@ -12303,8 +12021,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 3
+                  "children": []
                 },
                 {
                   "name": {
@@ -12319,8 +12036,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 4
+                  "children": []
                 },
                 {
                   "name": {
@@ -12335,8 +12051,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 5
+                  "children": []
                 },
                 {
                   "name": {
@@ -12351,8 +12066,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 6
+                  "children": []
                 },
                 {
                   "name": {
@@ -12367,8 +12081,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 7
+                  "children": []
                 },
                 {
                   "name": {
@@ -12383,8 +12096,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 8
+                  "children": []
                 },
                 {
                   "name": {
@@ -12399,8 +12111,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 9
+                  "children": []
                 },
                 {
                   "name": {
@@ -12415,8 +12126,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 11
+                  "children": []
                 },
                 {
                   "name": {
@@ -12431,8 +12141,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 12
+                  "children": []
                 },
                 {
                   "name": {
@@ -12447,8 +12156,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 13
+                  "children": []
                 },
                 {
                   "name": {
@@ -12463,8 +12171,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 14
+                  "children": []
                 },
                 {
                   "name": {
@@ -12479,8 +12186,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 15
+                  "children": []
                 }
               ]
             },
@@ -12511,8 +12217,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 1
+                  "children": []
                 },
                 {
                   "name": {
@@ -12527,8 +12232,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 2
+                  "children": []
                 },
                 {
                   "name": {
@@ -12543,8 +12247,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 4
+                  "children": []
                 },
                 {
                   "name": {
@@ -12559,16 +12262,15 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 5
+                  "children": []
                 }
               ]
             },
             {
               "name": {
-                "en": "Store Development",
-                "es": "Desarrollo De La Tienda",
-                "pt": "Desenvolvimento De Loja"
+                "en": "Store development",
+                "es": "Desarrollo de la tienda",
+                "pt": "Desenvolvimento de loja"
               },
               "slug": {
                 "en": "store-development-category",
@@ -12591,8 +12293,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 1
+                  "children": []
                 },
                 {
                   "name": {
@@ -12607,8 +12308,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 2
+                  "children": []
                 },
                 {
                   "name": {
@@ -12623,8 +12323,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 3
+                  "children": []
                 },
                 {
                   "name": {
@@ -12639,8 +12338,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 4
+                  "children": []
                 },
                 {
                   "name": {
@@ -12655,16 +12353,15 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 5
+                  "children": []
                 }
               ]
             },
             {
               "name": {
-                "en": "Transactional Emails",
-                "es": "E Mails Transaccionales",
-                "pt": "E Mails Transacionais"
+                "en": "Transactional emails",
+                "es": "E mails transaccionales",
+                "pt": "E mails transacionais"
               },
               "slug": {
                 "en": "transactional-emails",
@@ -12687,8 +12384,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 2
+                  "children": []
                 },
                 {
                   "name": {
@@ -12703,8 +12399,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 3
+                  "children": []
                 },
                 {
                   "name": {
@@ -12719,8 +12414,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 4
+                  "children": []
                 },
                 {
                   "name": {
@@ -12735,8 +12429,7 @@
                   },
                   "origin": "",
                   "type": "markdown",
-                  "children": [],
-                  "order": 5
+                  "children": []
                 }
               ]
             }
@@ -12846,9 +12539,9 @@
         },
         {
           "name": {
-            "en": "Store Operations",
-            "es": "Operaciones De La Tienda",
-            "pt": "Operações Da Loja"
+            "en": "Store operations",
+            "es": "Operaciones de la tienda",
+            "pt": "Operações da loja"
           },
           "slug": {
             "en": "store-operations",
@@ -13278,9 +12971,9 @@
       "categories": [
         {
           "name": {
-            "en": "About The Admin",
-            "es": "Acerca De Admin",
-            "pt": "Sobre O Admin"
+            "en": "About the admin",
+            "es": "Acerca de admin",
+            "pt": "Sobre o admin"
           },
           "slug": {
             "en": "about-the-admin",
@@ -13292,9 +12985,9 @@
           "children": [
             {
               "name": {
-                "en": "Admin Overview",
-                "es": "Visión General Del Admin",
-                "pt": "Visão Do Geral Do Admin"
+                "en": "Admin overview",
+                "es": "Visión general del admin",
+                "pt": "Visão do geral do admin"
               },
               "slug": {
                 "en": "admin-overview",
@@ -13340,9 +13033,9 @@
         },
         {
           "name": {
-            "en": "Account Management",
-            "es": "Gestión De La Cuenta",
-            "pt": "Gerenciamento Da Conta"
+            "en": "Account management",
+            "es": "Gestión de la cuenta",
+            "pt": "Gerenciamento da conta"
           },
           "slug": {
             "en": "account-management",
@@ -13354,9 +13047,9 @@
           "children": [
             {
               "name": {
-                "en": "Access Control",
-                "es": "Control De Acceso",
-                "pt": "Controle De Acesso"
+                "en": "Access control",
+                "es": "Control de acceso",
+                "pt": "Controle de acesso"
               },
               "slug": {
                 "en": "access-control",
@@ -13445,9 +13138,9 @@
             },
             {
               "name": {
-                "en": "Account Settings",
-                "es": "Configuraciones De La Cuenta",
-                "pt": "Configurações Da Conta"
+                "en": "Account settings",
+                "es": "Configuraciones de la cuenta",
+                "pt": "Configurações da conta"
               },
               "slug": {
                 "en": "account-settings",
@@ -13597,9 +13290,9 @@
             },
             {
               "name": {
-                "en": "API Keys",
-                "es": "Claves De API",
-                "pt": "Chaves De API"
+                "en": "API keys",
+                "es": "Claves de API",
+                "pt": "Chaves de API"
               },
               "slug": {
                 "en": "api-keys-category",
@@ -13703,9 +13396,9 @@
             },
             {
               "name": {
-                "en": "Application Keys",
-                "es": "Application Keys",
-                "pt": "Application Keys"
+                "en": "Application keys",
+                "es": "Application keys",
+                "pt": "Application keys"
               },
               "slug": {
                 "en": "application-keys-category",
@@ -13901,9 +13594,9 @@
           "children": [
             {
               "name": {
-                "en": "Affiliates Program App",
-                "es": "Aplicación Affiliates Program",
-                "pt": "Aplicativo Affiliates Program"
+                "en": "Affiliates program app",
+                "es": "Aplicación affiliates program",
+                "pt": "Aplicativo affiliates program"
               },
               "slug": {
                 "en": "affiliates-program-app-category",
@@ -13932,9 +13625,9 @@
             },
             {
               "name": {
-                "en": "Amazon MCF App",
-                "es": "Aplicación Amazon MCF",
-                "pt": "Aplicativo Amazon MCF"
+                "en": "Amazon MCF app",
+                "es": "Aplicación amazon MCF",
+                "pt": "Aplicativo amazon MCF"
               },
               "slug": {
                 "en": "amazon-mcf-app",
@@ -13963,9 +13656,9 @@
             },
             {
               "name": {
-                "en": "Apps Overview",
-                "es": "Visión De Conjunto De Apps",
-                "pt": "Visão Geral De Apps"
+                "en": "Apps overview",
+                "es": "Visión de conjunto de apps",
+                "pt": "Visão geral de apps"
               },
               "slug": {
                 "en": "apps-overview",
@@ -13994,9 +13687,9 @@
             },
             {
               "name": {
-                "en": "Assembly Options",
-                "es": "Assembly Options",
-                "pt": "Assembly Options"
+                "en": "Assembly options",
+                "es": "Assembly options",
+                "pt": "Assembly options"
               },
               "slug": {
                 "en": "assembly-options",
@@ -14025,9 +13718,9 @@
             },
             {
               "name": {
-                "en": "Customer Credit",
-                "es": "Customer Credit",
-                "pt": "Customer Credit"
+                "en": "Customer credit",
+                "es": "Customer credit",
+                "pt": "Customer credit"
               },
               "slug": {
                 "en": "customer-credit",
@@ -14056,9 +13749,9 @@
             },
             {
               "name": {
-                "en": "Live Shopping",
-                "es": "Live Shopping",
-                "pt": "Live Shopping"
+                "en": "Live shopping",
+                "es": "Live shopping",
+                "pt": "Live shopping"
               },
               "slug": {
                 "en": "live-shopping-category",
@@ -14117,9 +13810,9 @@
             },
             {
               "name": {
-                "en": "My Account",
-                "es": "My Account",
-                "pt": "My Account"
+                "en": "My account",
+                "es": "My account",
+                "pt": "My account"
               },
               "slug": {
                 "en": "my-account",
@@ -14163,9 +13856,9 @@
             },
             {
               "name": {
-                "en": "Personal Shopper",
-                "es": "Personal Shopper",
-                "pt": "Personal Shopper"
+                "en": "Personal shopper",
+                "es": "Personal shopper",
+                "pt": "Personal shopper"
               },
               "slug": {
                 "en": "personal-shopper",
@@ -14194,9 +13887,9 @@
             },
             {
               "name": {
-                "en": "VTEX Session",
-                "es": "VTEX Session",
-                "pt": "VTEX Session"
+                "en": "VTEX session",
+                "es": "VTEX session",
+                "pt": "VTEX session"
               },
               "slug": {
                 "en": "vtex-session",
@@ -14241,9 +13934,9 @@
           "children": [
             {
               "name": {
-                "en": "Authentication Basics",
-                "es": "Conceptos Básicos De Autenticación",
-                "pt": "Conceitos Básicos De Autenticação"
+                "en": "Authentication basics",
+                "es": "Conceptos básicos de autenticación",
+                "pt": "Conceitos básicos de autenticação"
               },
               "slug": {
                 "en": "authentication-basics",
@@ -14332,9 +14025,9 @@
             },
             {
               "name": {
-                "en": "Authentication Settings",
-                "es": "Configuración De Autenticación",
-                "pt": "Configurações De Autenticação"
+                "en": "Authentication settings",
+                "es": "Configuración de autenticación",
+                "pt": "Configurações de autenticação"
               },
               "slug": {
                 "en": "authentication-settings",
@@ -14363,9 +14056,9 @@
             },
             {
               "name": {
-                "en": "Two Factor Authentication",
-                "es": "Autenticación De Dos Factores",
-                "pt": "Autenticação De Dois Fatores"
+                "en": "Two factor authentication",
+                "es": "Autenticación de dos factores",
+                "pt": "Autenticação de dois fatores"
               },
               "slug": {
                 "en": "two-factor-authentication",
@@ -14425,9 +14118,9 @@
           "children": [
             {
               "name": {
-                "en": "B2B Checkout Settings",
-                "es": "B2B Checkout Settings",
-                "pt": "Configurações De Checkout B2B"
+                "en": "B2B checkout settings",
+                "es": "B2B checkout settings",
+                "pt": "Configurações de checkout B2B"
               },
               "slug": {
                 "en": "b2b-checkout-settings-category",
@@ -14456,9 +14149,9 @@
             },
             {
               "name": {
-                "en": "B2B Orders History",
-                "es": "B2B Orders History",
-                "pt": "Histórico De Pedidos B2B"
+                "en": "B2B orders history",
+                "es": "B2B orders history",
+                "pt": "Histórico de pedidos B2B"
               },
               "slug": {
                 "en": "b2b-orders-history",
@@ -14487,7 +14180,7 @@
             },
             {
               "name": {
-                "en": "B2B Organizations",
+                "en": "B2B organizations",
                 "es": "Organizaciones B2B",
                 "pt": "Organizações B2B"
               },
@@ -14563,7 +14256,7 @@
             },
             {
               "name": {
-                "en": "B2B Quotes",
+                "en": "B2B quotes",
                 "es": "Cotizaciones B2B",
                 "pt": "Cotações B2B"
               },
@@ -14594,9 +14287,9 @@
             },
             {
               "name": {
-                "en": "Organization Details",
-                "es": "Detalles De La Organización",
-                "pt": "Detalhes Da Organização"
+                "en": "Organization details",
+                "es": "Detalles de la organización",
+                "pt": "Detalhes da organização"
               },
               "slug": {
                 "en": "organization-details",
@@ -14746,8 +14439,8 @@
             {
               "name": {
                 "en": "Overview",
-                "es": "Visión General",
-                "pt": "Visão Geral"
+                "es": "Visión general",
+                "pt": "Visão geral"
               },
               "slug": {
                 "en": "overview",
@@ -14791,9 +14484,9 @@
             },
             {
               "name": {
-                "en": "Practical Guides",
-                "es": "Guías Práticas",
-                "pt": "Guias Práticos"
+                "en": "Practical guides",
+                "es": "Guías práticas",
+                "pt": "Guias práticos"
               },
               "slug": {
                 "en": "practical-guides",
@@ -14837,9 +14530,9 @@
             },
             {
               "name": {
-                "en": "Storefront Permissions",
-                "es": "Permisos Del Storefront",
-                "pt": "Permissões Da Loja"
+                "en": "Storefront permissions",
+                "es": "Permisos del storefront",
+                "pt": "Permissões da loja"
               },
               "slug": {
                 "en": "storefront-permissions",
@@ -14884,9 +14577,9 @@
           "children": [
             {
               "name": {
-                "en": "API Keys BETA",
-                "es": "API Keys BETA",
-                "pt": "API Keys BETA"
+                "en": "API keys BETA",
+                "es": "API keys BETA",
+                "pt": "API keys BETA"
               },
               "slug": {
                 "en": "api-keys-beta",
@@ -14977,9 +14670,9 @@
             },
             {
               "name": {
-                "en": "Intelligent Search BETA",
-                "es": "Intelligent Search BETA",
-                "pt": "Intelligent Search BETA"
+                "en": "Intelligent search BETA",
+                "es": "Intelligent search BETA",
+                "pt": "Intelligent search BETA"
               },
               "slug": {
                 "en": "intelligent-search-beta",
@@ -15038,9 +14731,9 @@
             },
             {
               "name": {
-                "en": "Product Recommendations BETA",
-                "es": "Recomendaciones De Productos BETA",
-                "pt": "Recomendações De Produtos BETA"
+                "en": "Product recommendations BETA",
+                "es": "Recomendaciones de productos BETA",
+                "pt": "Recomendações de produtos BETA"
               },
               "slug": {
                 "en": "product-recommendations-beta-category",
@@ -15267,9 +14960,9 @@
             },
             {
               "name": {
-                "en": "VTEX Data Pipeline BETA",
-                "es": "VTEX Data Pipeline BETA",
-                "pt": "VTEX Data Pipeline BETA"
+                "en": "VTEX data pipeline BETA",
+                "es": "VTEX data pipeline BETA",
+                "pt": "VTEX data pipeline BETA"
               },
               "slug": {
                 "en": "vtex-data-pipeline-beta",
@@ -15448,9 +15141,9 @@
             },
             {
               "name": {
-                "en": "VTEX Sales App BETA",
-                "es": "VTEX Sales App BETA",
-                "pt": "VTEX Sales App BETA"
+                "en": "VTEX sales app BETA",
+                "es": "VTEX sales app BETA",
+                "pt": "VTEX sales app BETA"
               },
               "slug": {
                 "en": "vtex-sales-app-beta",
@@ -15767,9 +15460,9 @@
             },
             {
               "name": {
-                "en": "Registration Data",
-                "es": "Datos De Registro",
-                "pt": "Dados Cadastrais"
+                "en": "Registration data",
+                "es": "Datos de registro",
+                "pt": "Dados cadastrais"
               },
               "slug": {
                 "en": "registration-data",
@@ -15875,9 +15568,9 @@
             },
             {
               "name": {
-                "en": "Catalog Overview",
-                "es": "Catálogo Visión General",
-                "pt": "Catálogo Visão Geral"
+                "en": "Catalog overview",
+                "es": "Catálogo visión general",
+                "pt": "Catálogo visão geral"
               },
               "slug": {
                 "en": "catalog-overview",
@@ -16148,9 +15841,9 @@
             },
             {
               "name": {
-                "en": "Commercial Conditions",
-                "es": "Condiciones Comerciales",
-                "pt": "Condições Comerciais"
+                "en": "Commercial conditions",
+                "es": "Condiciones comerciales",
+                "pt": "Condições comerciais"
               },
               "slug": {
                 "en": "commercial-conditions",
@@ -16179,9 +15872,9 @@
             },
             {
               "name": {
-                "en": "Custom Product Attributes",
-                "es": "Campos Personalizados",
-                "pt": "Campos Personalizados"
+                "en": "Custom product attributes",
+                "es": "Campos personalizados",
+                "pt": "Campos personalizados"
               },
               "slug": {
                 "en": "custom-product-attributes",
@@ -16285,9 +15978,9 @@
             },
             {
               "name": {
-                "en": "Import AND Export",
-                "es": "Importación Y Exportación",
-                "pt": "Importação E Exportação"
+                "en": "Import AND export",
+                "es": "Importación y exportación",
+                "pt": "Importação e exportação"
               },
               "slug": {
                 "en": "import-and-export",
@@ -16452,9 +16145,9 @@
             },
             {
               "name": {
-                "en": "List Types",
-                "es": "Tipos De Lista",
-                "pt": "Tipos De Lista"
+                "en": "List types",
+                "es": "Tipos de lista",
+                "pt": "Tipos de lista"
               },
               "slug": {
                 "en": "list-types",
@@ -16513,9 +16206,9 @@
             },
             {
               "name": {
-                "en": "Products AND Skus",
-                "es": "Productos Y Skus",
-                "pt": "Produtos E Skus"
+                "en": "Products AND skus",
+                "es": "Productos y skus",
+                "pt": "Produtos e skus"
               },
               "slug": {
                 "en": "products-and-skus-category",
@@ -17056,7 +16749,7 @@
             },
             {
               "name": {
-                "en": "XML Integration",
+                "en": "XML integration",
                 "es": "Integraciones XML",
                 "pt": "Integração XML"
               },
@@ -17148,9 +16841,9 @@
           "children": [
             {
               "name": {
-                "en": "Checkout Overview",
-                "es": "Visión De Conjunto De Checkout",
-                "pt": "Visão Geral Do Checkout"
+                "en": "Checkout overview",
+                "es": "Visión de conjunto de checkout",
+                "pt": "Visão geral do checkout"
               },
               "slug": {
                 "en": "checkout-overview",
@@ -17254,9 +16947,9 @@
             },
             {
               "name": {
-                "en": "Checkout Settings",
-                "es": "Configuración De Checkout",
-                "pt": "Configurações Do Checkout"
+                "en": "Checkout settings",
+                "es": "Configuración de checkout",
+                "pt": "Configurações do checkout"
               },
               "slug": {
                 "en": "checkout-settings",
@@ -17618,9 +17311,9 @@
         },
         {
           "name": {
-            "en": "Conversational Commerce",
-            "es": "Conversational Commerce",
-            "pt": "Conversational Commerce"
+            "en": "Conversational commerce",
+            "es": "Conversational commerce",
+            "pt": "Conversational commerce"
           },
           "slug": {
             "en": "conversational-commerce",
@@ -17632,9 +17325,9 @@
           "children": [
             {
               "name": {
-                "en": "VTEX Assisted Sales (suiteshare)",
-                "es": "VTEX Assisted Sales (suiteshare)",
-                "pt": "VTEX Assisted Sales (suiteshare)"
+                "en": "VTEX assisted sales (suiteshare)",
+                "es": "VTEX assisted sales (suiteshare)",
+                "pt": "VTEX assisted sales (suiteshare)"
               },
               "slug": {
                 "en": "vtex-assisted-sales-suiteshare",
@@ -18219,9 +17912,9 @@
           "children": [
             {
               "name": {
-                "en": "Dashboards In The VTEX Admin",
-                "es": "Dashboards EN El Admin VTEX",
-                "pt": "Dashboards No Admin VTEX"
+                "en": "Dashboards in the VTEX admin",
+                "es": "Dashboards EN el admin VTEX",
+                "pt": "Dashboards no admin VTEX"
               },
               "slug": {
                 "en": "dashboards-in-the-vtex-admin",
@@ -18311,9 +18004,9 @@
           "children": [
             {
               "name": {
-                "en": "CDN Service",
-                "es": "CDN Service",
-                "pt": "CDN Service"
+                "en": "CDN service",
+                "es": "CDN service",
+                "pt": "CDN service"
               },
               "slug": {
                 "en": "cdn-service",
@@ -18432,9 +18125,9 @@
             },
             {
               "name": {
-                "en": "SLA & Status",
-                "es": "SLA & Status",
-                "pt": "SLA & Status"
+                "en": "SLA & status",
+                "es": "SLA & status",
+                "pt": "SLA & status"
               },
               "slug": {
                 "en": "sla-and-status",
@@ -18509,9 +18202,9 @@
           "children": [
             {
               "name": {
-                "en": "Integration Settings",
-                "es": "Configuración De Las Integraciones",
-                "pt": "Configurações De Integrações"
+                "en": "Integration settings",
+                "es": "Configuración de las integraciones",
+                "pt": "Configurações de integrações"
               },
               "slug": {
                 "en": "integration-settings",
@@ -19005,9 +18698,9 @@
             },
             {
               "name": {
-                "en": "Integrations Overview",
-                "es": "Visión De Conjunto De Integraciones",
-                "pt": "Visão Geral De Integrações"
+                "en": "Integrations overview",
+                "es": "Visión de conjunto de integraciones",
+                "pt": "Visão geral de integrações"
               },
               "slug": {
                 "en": "integrations-overview",
@@ -19397,9 +19090,9 @@
             },
             {
               "name": {
-                "en": "Offer Management",
-                "es": "Gestión De Anuncios",
-                "pt": "Gerenciamento De Anúncios"
+                "en": "Offer management",
+                "es": "Gestión de anuncios",
+                "pt": "Gerenciamento de anúncios"
               },
               "slug": {
                 "en": "offer-management",
@@ -19778,9 +19471,9 @@
         },
         {
           "name": {
-            "en": "Intelligent Search",
-            "es": "Intelligent Search",
-            "pt": "Intelligent Search"
+            "en": "Intelligent search",
+            "es": "Intelligent search",
+            "pt": "Intelligent search"
           },
           "slug": {
             "en": "intelligent-search",
@@ -19838,9 +19531,9 @@
             },
             {
               "name": {
-                "en": "Intelligent Search Behavior",
-                "es": "Comportamiento Del Intelligent Search",
-                "pt": "Comportamento Do Intelligent Search"
+                "en": "Intelligent search behavior",
+                "es": "Comportamiento del intelligent search",
+                "pt": "Comportamento do intelligent search"
               },
               "slug": {
                 "en": "intelligent-search-behavior",
@@ -19959,9 +19652,9 @@
             },
             {
               "name": {
-                "en": "Intelligent Search Overview",
-                "es": "Intelligent Search   Visión General",
-                "pt": "Intelligent Search   Visão Geral"
+                "en": "Intelligent search overview",
+                "es": "Intelligent search visión general",
+                "pt": "Intelligent search visão geral"
               },
               "slug": {
                 "en": "intelligent-search-overview-category",
@@ -20035,9 +19728,9 @@
             },
             {
               "name": {
-                "en": "Intelligent Search Settings",
-                "es": "Configuración Del Intelligent Search",
-                "pt": "Configurações Do Intelligent Search"
+                "en": "Intelligent search settings",
+                "es": "Configuración del intelligent search",
+                "pt": "Configurações do intelligent search"
               },
               "slug": {
                 "en": "intelligent-search-settings",
@@ -20281,9 +19974,9 @@
         },
         {
           "name": {
-            "en": "Master Data",
-            "es": "Master Data",
-            "pt": "Master Data"
+            "en": "Master data",
+            "es": "Master data",
+            "pt": "Master data"
           },
           "slug": {
             "en": "master-data",
@@ -20295,9 +19988,9 @@
           "children": [
             {
               "name": {
-                "en": "Customer Relations Management",
-                "es": "Gestión De Clientes",
-                "pt": "Gestão De Clientes"
+                "en": "Customer relations management",
+                "es": "Gestión de clientes",
+                "pt": "Gestão de clientes"
               },
               "slug": {
                 "en": "customer-relations-management",
@@ -20431,9 +20124,9 @@
             },
             {
               "name": {
-                "en": "Master Data Basics",
-                "es": "Conceptos Básicos De Master Data",
-                "pt": "Conceitos Básicos Do Master Data"
+                "en": "Master data basics",
+                "es": "Conceptos básicos de master data",
+                "pt": "Conceitos básicos do master data"
               },
               "slug": {
                 "en": "master-data-basics",
@@ -20477,9 +20170,9 @@
             },
             {
               "name": {
-                "en": "Master Data Settings",
-                "es": "Configuración De Master Data",
-                "pt": "Configurações De Master Data"
+                "en": "Master data settings",
+                "es": "Configuración de master data",
+                "pt": "Configurações de master data"
               },
               "slug": {
                 "en": "master-data-settings",
@@ -20508,9 +20201,9 @@
             },
             {
               "name": {
-                "en": "Master Data V1 Applications",
-                "es": "Aplicaciones De Master Data V1",
-                "pt": "Aplicações No Master Data V1"
+                "en": "Master data v1 applications",
+                "es": "Aplicaciones de master data v1",
+                "pt": "Aplicações no master data v1"
               },
               "slug": {
                 "en": "master-data-v1-applications",
@@ -20599,9 +20292,9 @@
             },
             {
               "name": {
-                "en": "Master Data V1 Settings",
-                "es": "Configuración De Master Data V1",
-                "pt": "Configurações Do Master Data V1"
+                "en": "Master data v1 settings",
+                "es": "Configuración de master data v1",
+                "pt": "Configurações do master data v1"
               },
               "slug": {
                 "en": "master-data-v1-settings",
@@ -20750,9 +20443,9 @@
             },
             {
               "name": {
-                "en": "Master Data V1 Triggers",
-                "es": "Triggers De Master Data V1",
-                "pt": "Triggers No Master Data V1"
+                "en": "Master data v1 triggers",
+                "es": "Triggers de master data v1",
+                "pt": "Triggers no master data v1"
               },
               "slug": {
                 "en": "master-data-v1-triggers",
@@ -20813,9 +20506,9 @@
         },
         {
           "name": {
-            "en": "Message Center",
-            "es": "Centro De Mensajes",
-            "pt": "Central De Mensagens"
+            "en": "Message center",
+            "es": "Centro de mensajes",
+            "pt": "Central de mensagens"
           },
           "slug": {
             "en": "message-center",
@@ -20980,9 +20673,9 @@
           "children": [
             {
               "name": {
-                "en": "Omnichannel Overview",
-                "es": "Visión General De Omnichannel",
-                "pt": "Visão Geral De Omnichannel"
+                "en": "Omnichannel overview",
+                "es": "Visión general de omnichannel",
+                "pt": "Visão geral de omnichannel"
               },
               "slug": {
                 "en": "omnichannel-overview",
@@ -21041,9 +20734,9 @@
             },
             {
               "name": {
-                "en": "Omnichannel Settings",
-                "es": "Configuración De Omnichannel",
-                "pt": "Configurações De Omnichannel"
+                "en": "Omnichannel settings",
+                "es": "Configuración de omnichannel",
+                "pt": "Configurações de omnichannel"
               },
               "slug": {
                 "en": "omnichannel-settings",
@@ -21255,7 +20948,7 @@
             },
             {
               "name": {
-                "en": "VTEX Admin",
+                "en": "VTEX admin",
                 "es": "Admin VTEX",
                 "pt": "Admin VTEX"
               },
@@ -21317,9 +21010,9 @@
           "children": [
             {
               "name": {
-                "en": "All Orders",
-                "es": "Todos Los Pedidos",
-                "pt": "Todos Os Pedidos"
+                "en": "All orders",
+                "es": "Todos los pedidos",
+                "pt": "Todos os pedidos"
               },
               "slug": {
                 "en": "all-orders",
@@ -21768,7 +21461,7 @@
             },
             {
               "name": {
-                "en": "B2B Orders",
+                "en": "B2B orders",
                 "es": "Pedidos B2B",
                 "pt": "Pedidos B2B"
               },
@@ -21799,9 +21492,9 @@
             },
             {
               "name": {
-                "en": "Orders Management Settings",
-                "es": "Configuración De Gestión De Pedidos",
-                "pt": "Configurações De Gerenciamento De Pedidos"
+                "en": "Orders management settings",
+                "es": "Configuración de gestión de pedidos",
+                "pt": "Configurações de gerenciamento de pedidos"
               },
               "slug": {
                 "en": "orders-management-settings",
@@ -21995,9 +21688,9 @@
             },
             {
               "name": {
-                "en": "Orders Overview",
-                "es": "Visión De Conjunto De Pedidos",
-                "pt": "Visão Geral De Pedidos"
+                "en": "Orders overview",
+                "es": "Visión de conjunto de pedidos",
+                "pt": "Visão geral de pedidos"
               },
               "slug": {
                 "en": "orders-overview-category",
@@ -22161,9 +21854,9 @@
             },
             {
               "name": {
-                "en": "Telesales AND Customer Service",
-                "es": "Televentas Y Servicio Al Cliente",
-                "pt": "Televendas E Atendimento Ao Cliente"
+                "en": "Telesales AND customer service",
+                "es": "Televentas y servicio al cliente",
+                "pt": "Televendas e atendimento ao cliente"
               },
               "slug": {
                 "en": "telesales-and-customer-service",
@@ -22238,9 +21931,9 @@
           "children": [
             {
               "name": {
-                "en": "Foresight Commerce Academy",
-                "es": "Foresight Commerce Academy",
-                "pt": "Foresight Commerce Academy"
+                "en": "Foresight commerce academy",
+                "es": "Foresight commerce academy",
+                "pt": "Foresight commerce academy"
               },
               "slug": {
                 "en": "foresight-commerce-academy",
@@ -22269,8 +21962,8 @@
             },
             {
               "name": {
-                "en": "Scheduling Features",
-                "es": "Programación De Funcionalidades",
+                "en": "Scheduling features",
+                "es": "Programación de funcionalidades",
                 "pt": "Agendamento"
               },
               "slug": {
@@ -22301,8 +21994,8 @@
             {
               "name": {
                 "en": "Uncategorized",
-                "es": "No Categorizado",
-                "pt": "Não Categorizado"
+                "es": "No categorizado",
+                "pt": "Não categorizado"
               },
               "slug": {
                 "en": "uncategorized",
@@ -22362,9 +22055,9 @@
           "children": [
             {
               "name": {
-                "en": "Bank Conciliation",
-                "es": "Conciliaciones Bancarias",
-                "pt": "Conciliação Bancária"
+                "en": "Bank conciliation",
+                "es": "Conciliaciones bancarias",
+                "pt": "Conciliação bancária"
               },
               "slug": {
                 "en": "bank-conciliation",
@@ -22408,9 +22101,9 @@
             },
             {
               "name": {
-                "en": "Gift Card",
-                "es": "Tarjeta De Regalo",
-                "pt": "Vale Compra"
+                "en": "Gift card",
+                "es": "Tarjeta de regalo",
+                "pt": "Vale compra"
               },
               "slug": {
                 "en": "gift-card-category",
@@ -22439,9 +22132,9 @@
             },
             {
               "name": {
-                "en": "Payment Settings",
-                "es": "Configuración De Pagos",
-                "pt": "Configurações De Pagamentos"
+                "en": "Payment settings",
+                "es": "Configuración de pagos",
+                "pt": "Configurações de pagamentos"
               },
               "slug": {
                 "en": "payment-settings",
@@ -25230,9 +24923,9 @@
             },
             {
               "name": {
-                "en": "Payments Overview",
-                "es": "Visión De Conjunto De Pagos",
-                "pt": "Visão Geral De Pagamentos"
+                "en": "Payments overview",
+                "es": "Visión de conjunto de pagos",
+                "pt": "Visão geral de pagamentos"
               },
               "slug": {
                 "en": "payments-overview",
@@ -25924,9 +25617,9 @@
             },
             {
               "name": {
-                "en": "Price List",
-                "es": "Lista De Precios",
-                "pt": "Lista De Preços"
+                "en": "Price list",
+                "es": "Lista de precios",
+                "pt": "Lista de preços"
               },
               "slug": {
                 "en": "price-list",
@@ -26075,9 +25768,9 @@
             },
             {
               "name": {
-                "en": "Price Rules",
-                "es": "Reglas De Precio",
-                "pt": "Regras De Preço"
+                "en": "Price rules",
+                "es": "Reglas de precio",
+                "pt": "Regras de preço"
               },
               "slug": {
                 "en": "price-rules",
@@ -26106,9 +25799,9 @@
             },
             {
               "name": {
-                "en": "Price Settings",
-                "es": "Configuración De Precios",
-                "pt": "Configurações De Preços"
+                "en": "Price settings",
+                "es": "Configuración de precios",
+                "pt": "Configurações de preços"
               },
               "slug": {
                 "en": "price-settings",
@@ -26152,9 +25845,9 @@
             },
             {
               "name": {
-                "en": "Rounding Rules",
-                "es": "Redondeo De Precios",
-                "pt": "Arredondamento De Preços"
+                "en": "Rounding rules",
+                "es": "Redondeo de precios",
+                "pt": "Arredondamento de preços"
               },
               "slug": {
                 "en": "rounding-rules-category",
@@ -26185,9 +25878,9 @@
         },
         {
           "name": {
-            "en": "Projects & Integrations",
-            "es": "Proyectos & Integraciones",
-            "pt": "Projetos & Integrações"
+            "en": "Projects & integrations",
+            "es": "Proyectos & integraciones",
+            "pt": "Projetos & integrações"
           },
           "slug": {
             "en": "projects-and-integrations",
@@ -26199,9 +25892,9 @@
           "children": [
             {
               "name": {
-                "en": "Integration With Monitoring Tools",
-                "es": "Integración Con Herramientas De Monitoreo",
-                "pt": "Integração Com Ferramentas De Monitoramento"
+                "en": "Integration with monitoring tools",
+                "es": "Integración con herramientas de monitoreo",
+                "pt": "Integração com ferramentas de monitoramento"
               },
               "slug": {
                 "en": "integration-with-monitoring-tools",
@@ -26442,9 +26135,9 @@
         },
         {
           "name": {
-            "en": "Promotions & Taxes",
-            "es": "Tasas Y Promociones",
-            "pt": "Promoções E Taxas"
+            "en": "Promotions & taxes",
+            "es": "Tasas y promociones",
+            "pt": "Promoções e taxas"
           },
           "slug": {
             "en": "promotions-and-taxes",
@@ -26456,9 +26149,9 @@
           "children": [
             {
               "name": {
-                "en": "Campaign Audiences",
-                "es": "Audiencia De Las Campañas",
-                "pt": "Audiência De Campanhas"
+                "en": "Campaign audiences",
+                "es": "Audiencia de las campañas",
+                "pt": "Audiência de campanhas"
               },
               "slug": {
                 "en": "campaign-audiences-category",
@@ -27121,9 +26814,9 @@
           "children": [
             {
               "name": {
-                "en": "Information Security Compliance",
-                "es": "Cumplimiento De Seguridad De La Información",
-                "pt": "Compliance De Segurança Da Informação"
+                "en": "Information security compliance",
+                "es": "Cumplimiento de seguridad de la información",
+                "pt": "Compliance de segurança da informação"
               },
               "slug": {
                 "en": "information-security-compliance",
@@ -27212,9 +26905,9 @@
             },
             {
               "name": {
-                "en": "Platform Security Resources",
-                "es": "Recursos De Seguridad De La Plataforma",
-                "pt": "Recursos De Segurança Da Plataforma"
+                "en": "Platform security resources",
+                "es": "Recursos de seguridad de la plataforma",
+                "pt": "Recursos de segurança da plataforma"
               },
               "slug": {
                 "en": "platform-security-resources",
@@ -27288,9 +26981,9 @@
             },
             {
               "name": {
-                "en": "Store Security",
-                "es": "Seguridad Para Comerciantes",
-                "pt": "Segurança Para Lojistas"
+                "en": "Store security",
+                "es": "Seguridad para comerciantes",
+                "pt": "Segurança para lojistas"
               },
               "slug": {
                 "en": "store-security",
@@ -27454,9 +27147,9 @@
             },
             {
               "name": {
-                "en": "VTEX Shield",
-                "es": "VTEX Shield",
-                "pt": "VTEX Shield"
+                "en": "VTEX shield",
+                "es": "VTEX shield",
+                "pt": "VTEX shield"
               },
               "slug": {
                 "en": "vtex-shield-category",
@@ -27561,9 +27254,9 @@
           "children": [
             {
               "name": {
-                "en": "Categories AND Brands",
-                "es": "Categorías Y Marcas",
-                "pt": "Categorias E Marcas"
+                "en": "Categories AND brands",
+                "es": "Categorías y marcas",
+                "pt": "Categorias e marcas"
               },
               "slug": {
                 "en": "categories-and-brands",
@@ -27653,9 +27346,9 @@
             },
             {
               "name": {
-                "en": "Received Skus",
-                "es": "Skus Recibidos",
-                "pt": "Skus Recebidos"
+                "en": "Received skus",
+                "es": "Skus recibidos",
+                "pt": "Skus recebidos"
               },
               "slug": {
                 "en": "received-skus",
@@ -27684,9 +27377,9 @@
             },
             {
               "name": {
-                "en": "Seller Portal",
-                "es": "Seller Portal",
-                "pt": "Seller Portal"
+                "en": "Seller portal",
+                "es": "Seller portal",
+                "pt": "Seller portal"
               },
               "slug": {
                 "en": "seller-portal",
@@ -27910,9 +27603,9 @@
             },
             {
               "name": {
-                "en": "Sellers Overview",
-                "es": "Visión De Conjunto De Sellers",
-                "pt": "Visão Geral De Sellers"
+                "en": "Sellers overview",
+                "es": "Visión de conjunto de sellers",
+                "pt": "Visão geral de sellers"
               },
               "slug": {
                 "en": "sellers-overview",
@@ -28046,9 +27739,9 @@
             },
             {
               "name": {
-                "en": "SKU Binding",
-                "es": "Vínculos De SKU",
-                "pt": "Vínculos De SKU"
+                "en": "SKU binding",
+                "es": "Vínculos de SKU",
+                "pt": "Vínculos de SKU"
               },
               "slug": {
                 "en": "sku-binding",
@@ -28108,9 +27801,9 @@
           "children": [
             {
               "name": {
-                "en": "Geolocation Shipping",
-                "es": "Envío Por Geolocalización",
-                "pt": "Envio Por Geolocalização"
+                "en": "Geolocation shipping",
+                "es": "Envío por geolocalización",
+                "pt": "Envio por geolocalização"
               },
               "slug": {
                 "en": "geolocation-shipping",
@@ -28261,9 +27954,9 @@
             },
             {
               "name": {
-                "en": "Inventory AND Shipping Settings",
-                "es": "Configuración De Inventario Y Envío",
-                "pt": "Configurações De Estoque E Entrega"
+                "en": "Inventory AND shipping settings",
+                "es": "Configuración de inventario y envío",
+                "pt": "Configurações de estoque e entrega"
               },
               "slug": {
                 "en": "inventory-and-shipping-settings",
@@ -28352,9 +28045,9 @@
             },
             {
               "name": {
-                "en": "Logistics Overview",
-                "es": "Visión General De La Logística",
-                "pt": "Visão Geral Da Logística"
+                "en": "Logistics overview",
+                "es": "Visión general de la logística",
+                "pt": "Visão geral da logística"
               },
               "slug": {
                 "en": "logistics-overview",
@@ -28413,9 +28106,9 @@
             },
             {
               "name": {
-                "en": "Pickup Points",
-                "es": "Puntos De Recogida",
-                "pt": "Pontos De Retirada"
+                "en": "Pickup points",
+                "es": "Puntos de recogida",
+                "pt": "Pontos de retirada"
               },
               "slug": {
                 "en": "pickup-points-category",
@@ -28459,9 +28152,9 @@
             },
             {
               "name": {
-                "en": "Shipping Rates",
-                "es": "Tarifas De Envío",
-                "pt": "Tarifas De Envio"
+                "en": "Shipping rates",
+                "es": "Tarifas de envío",
+                "pt": "Tarifas de envio"
               },
               "slug": {
                 "en": "shipping-rates",
@@ -28505,9 +28198,9 @@
             },
             {
               "name": {
-                "en": "Shipping Simulator",
-                "es": "Simulador De Envío",
-                "pt": "Simulador De Envio"
+                "en": "Shipping simulator",
+                "es": "Simulador de envío",
+                "pt": "Simulador de envio"
               },
               "slug": {
                 "en": "shipping-simulator",
@@ -28551,9 +28244,9 @@
             },
             {
               "name": {
-                "en": "Shipping Strategy",
-                "es": "Estratégia De Envío",
-                "pt": "Estratégia De Envio"
+                "en": "Shipping strategy",
+                "es": "Estratégia de envío",
+                "pt": "Estratégia de envio"
               },
               "slug": {
                 "en": "shipping-strategy-category",
@@ -28912,9 +28605,9 @@
             },
             {
               "name": {
-                "en": "VTEX Pick AND Pack",
-                "es": "VTEX Pick AND Pack",
-                "pt": "VTEX Pick AND Pack"
+                "en": "VTEX pick AND pack",
+                "es": "VTEX pick AND pack",
+                "pt": "VTEX pick AND pack"
               },
               "slug": {
                 "en": "vtex-pick-and-pack-category",
@@ -29063,9 +28756,9 @@
             },
             {
               "name": {
-                "en": "VTEX Shipping Network",
-                "es": "VTEX Shipping Network",
-                "pt": "VTEX Shipping Network"
+                "en": "VTEX shipping network",
+                "es": "VTEX shipping network",
+                "pt": "VTEX shipping network"
               },
               "slug": {
                 "en": "vtex-shipping-network",
@@ -29156,9 +28849,9 @@
         },
         {
           "name": {
-            "en": "Store Settings",
-            "es": "Configuraciones De La Tienda",
-            "pt": "Configurações Da Loja"
+            "en": "Store settings",
+            "es": "Configuraciones de la tienda",
+            "pt": "Configurações da loja"
           },
           "slug": {
             "en": "store-settings",
@@ -29170,9 +28863,9 @@
           "children": [
             {
               "name": {
-                "en": "Best Practices For The Success Of Your VTEX Store",
-                "es": "Mejores Prácticas Para El Éxito De Tu Tienda VTEX",
-                "pt": "Boas Práticas Para O Sucesso Da Sua Loja VTEX"
+                "en": "Best practices for the success of your VTEX store",
+                "es": "Mejores prácticas para el éxito de tu tienda VTEX",
+                "pt": "Boas práticas para o sucesso da sua loja VTEX"
               },
               "slug": {
                 "en": "best-practices-for-the-success-of-your-vtex-store-category",
@@ -29201,9 +28894,9 @@
             },
             {
               "name": {
-                "en": "Store Settings Overview",
-                "es": "Visión General De Configuraciones De La Tienda",
-                "pt": "Visão Geral De Configurações Da Loja"
+                "en": "Store settings overview",
+                "es": "Visión general de configuraciones de la tienda",
+                "pt": "Visão geral de configurações da loja"
               },
               "slug": {
                 "en": "store-settings-overview-category",
@@ -30406,9 +30099,9 @@
             },
             {
               "name": {
-                "en": "Site Editor",
-                "es": "Site Editor",
-                "pt": "Site Editor"
+                "en": "Site editor",
+                "es": "Site editor",
+                "pt": "Site editor"
               },
               "slug": {
                 "en": "site-editor",
@@ -30542,9 +30235,9 @@
             },
             {
               "name": {
-                "en": "Store Settings   Storefront",
-                "es": "Configuración De La Tienda   Storefront",
-                "pt": "Configurações Da Loja   Storefront"
+                "en": "Store settings storefront",
+                "es": "Configuración de la tienda storefront",
+                "pt": "Configurações da loja storefront"
               },
               "slug": {
                 "en": "store-settings-storefront",
@@ -30738,9 +30431,9 @@
             },
             {
               "name": {
-                "en": "Storefront Overview",
-                "es": "Visión General Storefront",
-                "pt": "Visão Geral Storefront"
+                "en": "Storefront overview",
+                "es": "Visión general storefront",
+                "pt": "Visão geral storefront"
               },
               "slug": {
                 "en": "storefront-overview-category",
@@ -30831,9 +30524,9 @@
           "children": [
             {
               "name": {
-                "en": "Subscription Guides",
-                "es": "Guía De Suscripciones",
-                "pt": "Guias De Assinatura"
+                "en": "Subscription guides",
+                "es": "Guía de suscripciones",
+                "pt": "Guias de assinatura"
               },
               "slug": {
                 "en": "subscription-guides",
@@ -31045,8 +30738,8 @@
             {
               "name": {
                 "en": "Processing",
-                "es": "EN Procesamiento",
-                "pt": "Em Processamento"
+                "es": "EN procesamiento",
+                "pt": "Em processamento"
               },
               "slug": {
                 "en": "processing",
@@ -31124,9 +30817,9 @@
         },
         {
           "name": {
-            "en": "Trade Policies",
-            "es": "Políticas Comerciales",
-            "pt": "Políticas Comerciais"
+            "en": "Trade policies",
+            "es": "Políticas comerciales",
+            "pt": "Políticas comerciais"
           },
           "slug": {
             "en": "trade-policies",
@@ -31138,9 +30831,9 @@
           "children": [
             {
               "name": {
-                "en": "Trade Policies Settings",
-                "es": "Configuración De Políticas Comerciales",
-                "pt": "Configurações De Políticas Comerciais"
+                "en": "Trade policies settings",
+                "es": "Configuración de políticas comerciales",
+                "pt": "Configurações de políticas comerciais"
               },
               "slug": {
                 "en": "trade-policies-settings",
@@ -31184,9 +30877,9 @@
             },
             {
               "name": {
-                "en": "Trade Policies' Overview",
-                "es": "Visión De Conjunto De Políticas Comerciales",
-                "pt": "Visão Geral De Políticas Comerciais"
+                "en": "Trade policies' overview",
+                "es": "Visión de conjunto de políticas comerciales",
+                "pt": "Visão geral de políticas comerciais"
               },
               "slug": {
                 "en": "trade-policies-overview",
@@ -31291,9 +30984,9 @@
           "children": [
             {
               "name": {
-                "en": "Unknown Subcategory",
-                "es": "Unknown Subcategory",
-                "pt": "Unknown Subcategory"
+                "en": "Unknown subcategory",
+                "es": "Unknown subcategory",
+                "pt": "Unknown subcategory"
               },
               "slug": {
                 "en": "unknown-subcategory",
@@ -31594,9 +31287,9 @@
         },
         {
           "name": {
-            "en": "Unified Commerce",
-            "es": "Comercio Unificado",
-            "pt": "Comércio Unificado"
+            "en": "Unified commerce",
+            "es": "Comercio unificado",
+            "pt": "Comércio unificado"
           },
           "slug": {
             "en": "unified-commerce",
@@ -31608,9 +31301,9 @@
           "children": [
             {
               "name": {
-                "en": "VTEX Sales App",
-                "es": "VTEX Sales App",
-                "pt": "VTEX Sales App"
+                "en": "VTEX sales app",
+                "es": "VTEX sales app",
+                "pt": "VTEX sales app"
               },
               "slug": {
                 "en": "vtex-sales-app",
@@ -31761,9 +31454,9 @@
         },
         {
           "name": {
-            "en": "VTEX Tracking",
-            "es": "VTEX Tracking",
-            "pt": "VTEX Tracking"
+            "en": "VTEX tracking",
+            "es": "VTEX tracking",
+            "pt": "VTEX tracking"
           },
           "slug": {
             "en": "vtex-tracking",
@@ -31836,9 +31529,9 @@
             },
             {
               "name": {
-                "en": "Mobile App",
-                "es": "Aplicación Móvil",
-                "pt": "Aplicativo Móvel"
+                "en": "Mobile app",
+                "es": "Aplicación móvil",
+                "pt": "Aplicativo móvel"
               },
               "slug": {
                 "en": "mobile-app",
@@ -31867,9 +31560,9 @@
             },
             {
               "name": {
-                "en": "Overview VTEX Tracking",
-                "es": "Visión General VTEX Tracking",
-                "pt": "Visão Geral VTEX Tracking"
+                "en": "Overview VTEX tracking",
+                "es": "Visión general VTEX tracking",
+                "pt": "Visão geral VTEX tracking"
               },
               "slug": {
                 "en": "overview-vtex-tracking",
@@ -32126,9 +31819,9 @@
             },
             {
               "name": {
-                "en": "VTEX Tracking   All Articles",
-                "es": "VTEX Tracking   Todos Los Artículos",
-                "pt": "VTEX Tracking   Todos Os Artigos"
+                "en": "VTEX tracking all articles",
+                "es": "VTEX tracking todos los artículos",
+                "pt": "VTEX tracking todos os artigos"
               },
               "slug": {
                 "en": "vtex-tracking-all-articles",
@@ -32324,9 +32017,9 @@
         },
         {
           "name": {
-            "en": "Weni By VTEX",
-            "es": "Weni By VTEX",
-            "pt": "Weni By VTEX"
+            "en": "Weni by VTEX",
+            "es": "Weni by VTEX",
+            "pt": "Weni by VTEX"
           },
           "slug": {
             "en": "weni-by-vtex",
@@ -32338,9 +32031,9 @@
           "children": [
             {
               "name": {
-                "en": "Agent Builder",
-                "es": "Agent Builder",
-                "pt": "Agent Builder"
+                "en": "Agent builder",
+                "es": "Agent builder",
+                "pt": "Agent builder"
               },
               "slug": {
                 "en": "agent-builder",
@@ -32609,9 +32302,9 @@
         },
         {
           "name": {
-            "en": "App Platform",
-            "es": "App Platform",
-            "pt": "App Platform"
+            "en": "App platform",
+            "es": "App platform",
+            "pt": "App platform"
           },
           "slug": {
             "en": "app-platform",
@@ -33240,6 +32933,21 @@
             },
             {
               "name": {
+                "en": "SKU quantity miscount in checkout when More for Less promotion is applied in B2B Quotes",
+                "es": "Error en el recuento de la cantidad de SKU en la caja cuando se aplica la promoción Más por Menos en Cotizaciones B2B.",
+                "pt": "Erro na contagem da quantidade de SKU no checkout quando a promoção Mais por Menos é aplicada em Cotações B2B"
+              },
+              "slug": {
+                "en": "sku-quantity-miscount-in-checkout-when-more-for-less-promotion-is-applied-in-b2b-quotes",
+                "es": "error-en-el-recuento-de-la-cantidad-de-sku-en-la-caja-cuando-se-aplica-la-promocion-mas-por-menos-en-cotizaciones-b2b",
+                "pt": "erro-na-contagem-da-quantidade-de-sku-no-checkout-quando-a-promocao-mais-por-menos-e-aplicada-em-cotacoes-b2b"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "State Registration is not filled after approving the Organization Request",
                 "es": "El registro estatal no se completa tras aprobar la solicitud de organización",
                 "pt": "O registro estadual não é preenchido após a aprovação da solicitação da organização"
@@ -33384,21 +33092,6 @@
                 "en": "nao-e-possivel-inativar-este-produto-porque-ele-possui-um-ou-mais-skus-ativos-does-not-automatically-translate-on-the-product-admin",
                 "es": "no-puede-desactivar-este-producto-porque-tiene-uno-o-mas-skus-activos-no-se-traduce-automaticamente-en-el-product-admin",
                 "pt": "nao-e-possivel-inativar-este-produto-porque-ele-possui-um-ou-mais-skus-ativos-does-not-automatically-translate-on-the-product-admin"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "'Product Specification' filter on Collection Module assuming incorrect values",
-                "es": "El filtro 'Especificación del producto' del módulo de recogida asume valores incorrectos.",
-                "pt": "Filtro 'Product Specification' no Collection Module assumindo valores incorretos"
-              },
-              "slug": {
-                "en": "product-specification-filter-on-collection-module-assuming-incorrect-values",
-                "es": "el-filtro-especificacion-del-producto-del-modulo-de-recogida-asume-valores-incorrectos",
-                "pt": "filtro-product-specification-no-collection-module-assumindo-valores-incorretos"
               },
               "origin": "",
               "type": "markdown",
@@ -34509,6 +34202,21 @@
                 "en": "dimension-text-fields-being-unselected-during-sku-creation",
                 "es": "campos-de-texto-de-dimension-no-seleccionados-durante-la-creacion-de-sku",
                 "pt": "campos-de-texto-de-dimensao-nao-sendo-selecionados-durante-a-criacao-da-sku"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "es": "El filtro \"Especificación del producto\" del módulo de recogida asume valores incorrectos.",
+                "pt": "Filtro \"Product Specification\" no Collection Module assumindo valores incorretos",
+                "en": "El filtro \"Especificación del producto\" del módulo de recogida asume valores incorrectos."
+              },
+              "slug": {
+                "es": "el-filtro-especificacion-del-producto-del-modulo-de-recogida-asume-valores-incorrectos",
+                "pt": "filtro-product-specification-no-collection-module-assumindo-valores-incorretos",
+                "en": ""
               },
               "origin": "",
               "type": "markdown",
@@ -35671,6 +35379,21 @@
             },
             {
               "name": {
+                "en": "Products are not updated after trade policies are created/updated",
+                "es": "Los productos no se actualizan tras la creación/actualización de las políticas comerciales",
+                "pt": "Os produtos não são atualizados depois que as políticas comerciais são criadas/atualizadas"
+              },
+              "slug": {
+                "en": "products-are-not-updated-after-trade-policies-are-createdupdated",
+                "es": "los-productos-no-se-actualizan-tras-la-creacionactualizacion-de-las-politicas-comerciales",
+                "pt": "os-produtos-nao-sao-atualizados-depois-que-as-politicas-comerciais-sao-criadasatualizadas"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Products with sku variations approved on Received Skus are being created with duplicated skus on the Catalog.",
                 "es": "Los productos con variaciones de sku aprobadas en Skus Recibidos se están creando con skus duplicados en el Catálogo.",
                 "pt": "Produtos com variações de sku aprovadas em Skus Recebidos estão sendo criados com skus duplicados no Catálogo."
@@ -36429,6 +36152,21 @@
                 "en": "xml-installment-currency-does-not-apply",
                 "es": "xml-no-se-aplica-la-moneda-a-plazos",
                 "pt": "xml-a-moeda-da-prestacao-nao-se-aplica"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "XML \"Check installment settings\"",
+                "es": "XML \"Comprobar ajustes de instalación\"",
+                "pt": "XML \"Verificar configurações de parcelamento\""
+              },
+              "slug": {
+                "en": "xml-check-installment-settings",
+                "es": "xml-comprobar-ajustes-de-instalacion",
+                "pt": "xml-verificar-configuracoes-de-parcelamento"
               },
               "origin": "",
               "type": "markdown",
@@ -40175,9 +39913,9 @@
         },
         {
           "name": {
-            "en": "Cloud Services",
-            "es": "Cloud Services",
-            "pt": "Cloud Services"
+            "en": "Cloud services",
+            "es": "Cloud services",
+            "pt": "Cloud services"
           },
           "slug": {
             "en": "cloud-services",
@@ -40468,6 +40206,21 @@
                 "en": "it-is-not-possible-to-create-a-path-using-content-type-via-ui",
                 "es": "no-es-posible-crear-una-ruta-utilizando-el-tipo-de-contenido-a-traves-de-ui",
                 "pt": "nao-e-possivel-criar-um-caminho-usando-o-tipo-de-conteudo-por-meio-da-interface-do-usuario"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "MessagessV2 flag requires content to be saved on the original language",
+                "es": "La bandera MessagessV2 requiere que el contenido se guarde en el idioma original",
+                "pt": "O sinalizador MessagessV2 exige que o conteúdo seja salvo no idioma original"
+              },
+              "slug": {
+                "en": "messagessv2-flag-requires-content-to-be-saved-on-the-original-language",
+                "es": "la-bandera-messagessv2-requiere-que-el-contenido-se-guarde-en-el-idioma-original",
+                "pt": "o-sinalizador-messagessv2-exige-que-o-conteudo-seja-salvo-no-idioma-original"
               },
               "origin": "",
               "type": "markdown",
@@ -41496,6 +41249,21 @@
             },
             {
               "name": {
+                "en": "Amazon SKUs for the same product weren't grouped on Amazon.",
+                "es": "Los SKU del mismo producto no se agrupaban en Amazon.",
+                "pt": "Amazon Os SKUs do mesmo produto não foram agrupados na Amazon."
+              },
+              "slug": {
+                "en": "amazon-skus-for-the-same-product-werent-grouped-on-amazon",
+                "es": "los-sku-del-mismo-producto-no-se-agrupaban-en-amazon",
+                "pt": "amazon-os-skus-do-mesmo-produto-nao-foram-agrupados-na-amazon"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Attribute meli_shipping_mode not being updated in MELI integration",
                 "es": "El atributo meli_shipping_mode no se actualiza en la integración MELI",
                 "pt": "O atributo meli_shipping_mode não está sendo atualizado na integração MELI"
@@ -42254,6 +42022,21 @@
                 "en": "shopee-catalog-sync-blocked-due-to-excess-variation-attributes",
                 "es": "shopee-sincronizacion-de-catalogo-bloqueada-por-exceso-de-atributos-de-variacion",
                 "pt": "shopee-sincronizacao-de-catalogo-bloqueada-devido-ao-excesso-de-atributos-de-variacao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Shopee Error Item tier-variation level not same when updating migrated products",
+                "es": "Shopee Error El nivel de variación del artículo no es el mismo al actualizar productos migrados",
+                "pt": "Shopee Error Item tier-variation level not same when updating migrated products"
+              },
+              "slug": {
+                "en": "shopee-error-item-tiervariation-level-not-same-when-updating-migrated-products",
+                "es": "shopee-error-el-nivel-de-variacion-del-articulo-no-es-el-mismo-al-actualizar-productos-migrados",
+                "pt": ""
               },
               "origin": "",
               "type": "markdown",
@@ -43151,9 +42934,9 @@
         },
         {
           "name": {
-            "en": "Intelligent Search",
-            "es": "Intelligent Search",
-            "pt": "Intelligent Search"
+            "en": "Intelligent search",
+            "es": "Intelligent search",
+            "pt": "Intelligent search"
           },
           "slug": {
             "en": "intelligent-search",
@@ -44846,6 +44629,21 @@
             },
             {
               "name": {
+                "en": "Pick-up points do not work in the delivery simulator in countries that do not use our postal code API",
+                "es": "Los puntos de recogida no funcionan en el simulador de entrega en los países que no utilizan nuestra API de código postal",
+                "pt": "Os pontos de coleta não funcionam no simulador de entrega em países que não usam nossa API de código postal"
+              },
+              "slug": {
+                "en": "pickup-points-do-not-work-in-the-delivery-simulator-in-countries-that-do-not-use-our-postal-code-api",
+                "es": "los-puntos-de-recogida-no-funcionan-en-el-simulador-de-entrega-en-los-paises-que-no-utilizan-nuestra-api-de-codigo-postal",
+                "pt": "os-pontos-de-coleta-nao-funcionam-no-simulador-de-entrega-em-paises-que-nao-usam-nossa-api-de-codigo-postal"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Pickup point tags continue to be displayed in the shipping policy after deletion.",
                 "es": "Las etiquetas de punto de recogida se siguen mostrando en la política de envíos tras la eliminación.",
                 "pt": "As tags de ponto de coleta continuam a ser exibidas na política de remessa após a exclusão."
@@ -45133,9 +44931,9 @@
         },
         {
           "name": {
-            "en": "Marketing & Merchandising",
-            "es": "Marketing & Merchandising",
-            "pt": "Marketing & Merchandising"
+            "en": "Marketing & merchandising",
+            "es": "Marketing & merchandising",
+            "pt": "Marketing & merchandising"
           },
           "slug": {
             "en": "marketing-and-merchandising",
@@ -47400,9 +47198,9 @@
         },
         {
           "name": {
-            "en": "Master Data",
-            "es": "Master Data",
-            "pt": "Master Data"
+            "en": "Master data",
+            "es": "Master data",
+            "pt": "Master data"
           },
           "slug": {
             "en": "master-data",
@@ -47716,9 +47514,9 @@
         },
         {
           "name": {
-            "en": "Order Management",
-            "es": "Order Management",
-            "pt": "Order Management"
+            "en": "Order management",
+            "es": "Order management",
+            "pt": "Order management"
           },
           "slug": {
             "en": "order-management",
@@ -50343,6 +50141,21 @@
             },
             {
               "name": {
+                "en": "Giftcard Hub call receives 500 error",
+                "es": "La llamada al Giftcard Hub recibe un error 500",
+                "pt": "Chamada do Giftcard Hub recebe erro 500"
+              },
+              "slug": {
+                "en": "giftcard-hub-call-receives-500-error",
+                "es": "la-llamada-al-giftcard-hub-recibe-un-error-500",
+                "pt": "chamada-do-giftcard-hub-recebe-erro-500"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Giftcard HUB setting 'R$' as the automatic currency on the UI",
                 "es": "El HUB de tarjetas de regalo establece 'R$' como moneda automática en la interfaz de usuario",
                 "pt": "HUB Giftcard definindo 'R$' como a moeda automática na IU"
@@ -50351,6 +50164,21 @@
                 "en": "giftcard-hub-setting-r-as-the-automatic-currency-on-the-ui",
                 "es": "el-hub-de-tarjetas-de-regalo-establece-r-como-moneda-automatica-en-la-interfaz-de-usuario",
                 "pt": "hub-giftcard-definindo-r-como-a-moeda-automatica-na-iu"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Giftcard not getting refund after transaction cancellation",
+                "es": "No se reembolsa la tarjeta regalo tras cancelar la transacción",
+                "pt": "O Giftcard não está sendo reembolsado após o cancelamento da transação"
+              },
+              "slug": {
+                "en": "giftcard-not-getting-refund-after-transaction-cancellation",
+                "es": "no-se-reembolsa-la-tarjeta-regalo-tras-cancelar-la-transaccion",
+                "pt": "o-giftcard-nao-esta-sendo-reembolsado-apos-o-cancelamento-da-transacao"
               },
               "origin": "",
               "type": "markdown",
@@ -50726,21 +50554,6 @@
                 "en": "konduto-af-cannot-complete-a-request-when-the-accountid-is-missing",
                 "es": "konduto-af-no-puede-completar-una-solicitud-cuando-falta-el-accountid",
                 "pt": "o-konduto-af-nao-pode-concluir-uma-solicitacao-quando-o-accountid-esta-ausente"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "es": "La tarjeta de regalo no se reembolsa después de la cancelación de la transacción",
-                "pt": "Giftcard não recebendo reembolso após o cancelamento da transação",
-                "en": "La tarjeta de regalo no se reembolsa después de la cancelación de la transacción"
-              },
-              "slug": {
-                "es": "la-tarjeta-de-regalo-no-se-reembolsa-despues-de-la-cancelacion-de-la-transaccion",
-                "pt": "giftcard-nao-recebendo-reembolso-apos-o-cancelamento-da-transacao",
-                "en": ""
               },
               "origin": "",
               "type": "markdown",
@@ -51326,6 +51139,21 @@
                 "en": "regex-conflict-causes-us-to-misidentify-the-cards-brand",
                 "es": "el-conflicto-de-regex-hace-que-identifiquemos-mal-la-marca-de-las-tarjetas",
                 "pt": "conflito-de-interesses-nos-leva-a-identificar-erroneamente-a-marca-cards"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Risk analysis canceled earlier than expected due to fixed retry limit",
+                "es": "El análisis de riesgos se cancela antes de lo previsto debido al límite fijo de reintentos",
+                "pt": "Análise de risco cancelada antes do esperado devido ao limite fixo de tentativas"
+              },
+              "slug": {
+                "en": "risk-analysis-canceled-earlier-than-expected-due-to-fixed-retry-limit",
+                "es": "el-analisis-de-riesgos-se-cancela-antes-de-lo-previsto-debido-al-limite-fijo-de-reintentos",
+                "pt": "analise-de-risco-cancelada-antes-do-esperado-devido-ao-limite-fixo-de-tentativas"
               },
               "origin": "",
               "type": "markdown",
@@ -52040,9 +51868,9 @@
         },
         {
           "name": {
-            "en": "Physical Stores",
-            "es": "Physical Stores",
-            "pt": "Physical Stores"
+            "en": "Physical stores",
+            "es": "Physical stores",
+            "pt": "Physical stores"
           },
           "slug": {
             "en": "physical-stores",
@@ -52071,9 +51899,9 @@
         },
         {
           "name": {
-            "en": "Pick AND Pack",
-            "es": "Pick AND Pack",
-            "pt": "Pick AND Pack"
+            "en": "Pick AND pack",
+            "es": "Pick AND pack",
+            "pt": "Pick AND pack"
           },
           "slug": {
             "en": "pick-and-pack",
@@ -52093,6 +51921,21 @@
                 "en": "error-get-items-and-fulfillments-when-attempting-to-assign-orders-in-pick-and-pack-due-to-canceled-orders-associated-with-a-picker",
                 "es": "",
                 "pt": ""
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Absence of Feedback for Order Change Failures in Pick and Pack (Communication with OMS)",
+                "es": "Ausencia de retroalimentación por fallos en el cambio de pedido en Pick and Pack (comunicación con OMS)",
+                "pt": "Ausência de feedback para falhas na alteração de pedidos no Pick and Pack (comunicação com o OMS)"
+              },
+              "slug": {
+                "en": "absence-of-feedback-for-order-change-failures-in-pick-and-pack-communication-with-oms",
+                "es": "ausencia-de-retroalimentacion-por-fallos-en-el-cambio-de-pedido-en-pick-and-pack-comunicacion-con-oms",
+                "pt": "ausencia-de-feedback-para-falhas-na-alteracao-de-pedidos-no-pick-and-pack-comunicacao-com-o-oms"
               },
               "origin": "",
               "type": "markdown",
@@ -52928,9 +52771,9 @@
         },
         {
           "name": {
-            "en": "POST Purchase",
-            "es": "POST Purchase",
-            "pt": "POST Purchase"
+            "en": "POST purchase",
+            "es": "POST purchase",
+            "pt": "POST purchase"
           },
           "slug": {
             "en": "post-purchase",
@@ -53409,9 +53252,9 @@
         },
         {
           "name": {
-            "en": "Pricing & Promotions",
-            "es": "Pricing & Promotions",
-            "pt": "Pricing & Promotions"
+            "en": "Pricing & promotions",
+            "es": "Pricing & promotions",
+            "pt": "Pricing & promotions"
           },
           "slug": {
             "en": "pricing-and-promotions",
@@ -55123,9 +54966,9 @@
         },
         {
           "name": {
-            "en": "Store Framework",
-            "es": "Store Framework",
-            "pt": "Store Framework"
+            "en": "Store framework",
+            "es": "Store framework",
+            "pt": "Store framework"
           },
           "slug": {
             "en": "store-framework",
@@ -56564,9 +56407,9 @@
         },
         {
           "name": {
-            "en": "VTEX Log",
-            "es": "VTEX Log",
-            "pt": "VTEX Log"
+            "en": "VTEX log",
+            "es": "VTEX log",
+            "pt": "VTEX log"
           },
           "slug": {
             "en": "vtex-log",
@@ -56595,9 +56438,9 @@
         },
         {
           "name": {
-            "en": "VTEX Shipping Network (vtex Log)",
-            "es": "VTEX Shipping Network (vtex Log)",
-            "pt": "VTEX Shipping Network (vtex Log)"
+            "en": "VTEX shipping network (vtex log)",
+            "es": "VTEX shipping network (vtex log)",
+            "pt": "VTEX shipping network (vtex log)"
           },
           "slug": {
             "en": "vtex-shipping-network-vtex-log",
