@@ -1,10 +1,10 @@
 ---
 title: 'Criar sinônimos'
 id: 5IfjhvjxNAvJGEWNn0AhOA
-status: CHANGED
+status: PUBLISHED
 createdAt: 2024-06-27T16:36:30.904Z
-updatedAt: 2025-08-26T17:42:15.506Z
-publishedAt: 2024-06-27T16:39:00.981Z
+updatedAt: 2025-09-04T14:11:28.043Z
+publishedAt: 2025-09-04T14:11:28.043Z
 firstPublishedAt: 2024-06-27T16:37:25.800Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -56,7 +56,7 @@ Para importar sinônimos por planilha, siga os passos abaixo:
 
 ### Template da planilha de sinônimos
 
-Cada linha na planilha corresponde a um sinônimo. OA linha deve conter o seguinte formato, de acordo com o [tipo de sinônimo](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV#tipos-de-sinonimos) escolhido:
+Cada linha na planilha corresponde a um sinônimo. A linha deve conter o seguinte formato, de acordo com o [tipo de sinônimo](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV#tipos-de-sinonimos) escolhido:
 
  - **Unidirecional**: `{termos separados por vírgula};{termo equivalente};{status}`
 
@@ -84,6 +84,8 @@ beleza,blush,pó;true
 ```
 
 Resultado no Admin VTEX:
+
+![sinonimos-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/intelligent-search/sin%C3%B4nimos/criar-sinonimos_1.png)
 
 #### Lojas Multi-idioma (Beta)
 

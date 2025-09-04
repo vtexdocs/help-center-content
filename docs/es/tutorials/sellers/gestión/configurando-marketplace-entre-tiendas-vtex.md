@@ -1,10 +1,10 @@
 ---
 title: 'Configurando marketplace entre tiendas VTEX'
 id: tutorials_6520
-status: CHANGED
+status: PUBLISHED
 createdAt: 2017-04-27T21:48:44.692Z
-updatedAt: 2022-09-12T20:11:02.084Z
-publishedAt: 2022-03-14T15:57:05.056Z
+updatedAt: 2025-09-04T15:23:15.845Z
+publishedAt: 2025-09-04T15:23:15.845Z
 firstPublishedAt: 2017-04-27T23:11:18.934Z
 contentType: tutorial
 productTeam: Channels
@@ -36,7 +36,7 @@ Después de las configuraciones, es necesario realizar la indexación de todos l
 1. Con el [usuario titular](https://help.vtex.com/es/tracks/contas-e-permissoes--5PxyAgZrtiYlaYZBTlhJ2A/56Bd0KpwbvAji1aFs94xdA), acceda al link `{nombredelatienda}.vtexcommercestable.com.br/admin/Site/FullCleanUp.aspx`.
 2. Haga clic en el botón __Reindexar Base__.
 
-[![ReindexarBase](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/sellers/gesti%C3%B3n/configurando-marketplace-entre-tiendas-vtex_1.png)](//images.contentful.com/alneenqid6w5/7Eg8CAclRSSqaSS8cqI66S/44944a80535a465fc449c44b8066b557/ReindexarBase.png "![ReindexarBase](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/sellers/gesti%C3%B3n/configurando-marketplace-entre-tiendas-vtex_2.png)")
+![ReindexarBase](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/sellers/gesti%C3%B3n/configurando-marketplace-entre-tiendas-vtex_1.png)
 
 Tenga en cuenta que, en la URL, debe cambiar el término `{nombredelatienda}` por el nombre de su tienda.
 

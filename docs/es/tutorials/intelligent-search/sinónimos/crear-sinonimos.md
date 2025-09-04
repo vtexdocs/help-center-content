@@ -1,10 +1,10 @@
 ---
 title: 'Crear sinónimos'
 id: 5IfjhvjxNAvJGEWNn0AhOA
-status: CHANGED
+status: PUBLISHED
 createdAt: 2024-06-27T16:36:30.904Z
-updatedAt: 2025-08-26T17:42:15.506Z
-publishedAt: 2024-06-27T16:39:00.981Z
+updatedAt: 2025-09-04T14:11:28.043Z
+publishedAt: 2025-09-04T14:11:28.043Z
 firstPublishedAt: 2024-06-27T16:37:25.800Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -56,7 +56,7 @@ Para importar la hoja de cálculo, siga los pasos que se indican a continuación
 
 ## Plantilla de sinónimos
 
-El fichero debe contener el siguiente formato, según los [tipos de sinónimos](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV#tipos-de-sinonimos) elegidos:
+Cada fila de la plantilla corresponde a un sinónimo. Las filas deben tener el siguiente formato, según el [tipo de sinónimo](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV#tipos-de-sinonimos) elegido:
 
 - __Unidireccional:__ `{términos separados por una coma};{término equivalente};{status}`
 
@@ -71,6 +71,19 @@ El fichero debe contener el siguiente formato, según los [tipos de sinónimos](
 
     - `tv,televisión,televisor;true`: al buscar por cualquiera de los términos, el producto que contenga uno de estos será devuelto.
     - `monitor,pantalla,display;true`: al buscar por cualquiera de los términos, el producto que contenga uno de estos será devuelto.
+
+Consulta a continuación un ejemplo de cómo llenar la plantilla con diferentes tipos de sinónimos y el resultado de la importación en el Admin VTEX. Cada fila del ejemplo corresponde a una fila en la plantilla:
+
+```
+flor;floral;true
+pequeño,mini;compacto;true
+perro;animal;false
+belleza,blush,polvo;true
+```
+
+Resultado en el Admin VTEX:
+
+![sinonimos-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/intelligent-search/sin%C3%B3nimos/crear-sinonimos_1.png)
 
 #### Tiendas multidioma (Beta)
 

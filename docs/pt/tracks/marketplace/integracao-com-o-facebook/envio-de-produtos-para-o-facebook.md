@@ -3,8 +3,8 @@ title: 'Envio de produtos para o Facebook'
 id: 41qzoa7TWIYTyIhABHdgzI
 status: PUBLISHED
 createdAt: 2021-02-08T19:45:07.202Z
-updatedAt: 2025-04-30T16:59:50.365Z
-publishedAt: 2025-04-30T16:59:50.365Z
+updatedAt: 2025-09-04T15:36:46.974Z
+publishedAt: 2025-09-04T15:36:46.974Z
 firstPublishedAt: 2021-02-08T20:10:14.152Z
 contentType: trackArticle
 productTeam: Channels
@@ -121,7 +121,5 @@ Após criar o novo campo de especificação é necessário associar as labels à
 4. Preencha o campo `facebook-labels` com valores desejados, separando-os por ponto e vírgula`;`.
 5. Clique em `Salvar`.
 
-<div class=”alert alert-warning”>
-Cada oferta pode ter no máximo cinco labels associadas. 
-</div>
+> ⚠️ Cada oferta pode ter no máximo cinco labels associadas.
 
