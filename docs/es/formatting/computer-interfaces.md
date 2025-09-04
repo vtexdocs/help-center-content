@@ -1,5 +1,5 @@
 ---
-title: 'Interfaces de computadora'
+title: 'Interfaz de usuario'
 id: formatting0003-es
 status: PUBLISHED
 createdAt: 2025-09-03T15:00:00.388Z
@@ -7,10 +7,10 @@ publishedAt: 2025-09-03T15:00:00.388Z
 firstPublishedAt: 2025-09-03T15:00:00.388Z
 contentType: trackArticle
 productTeam: Education
-slugES: interfaces-de-computadora
+slugES: interfaz-de-usuario
 locale: es
 trackId: 5PxyAgZrtiYlaYZBTlhJ2A
-trackSlugES: interfaces-de-computadora
+trackSlugES: interfaz-de-usuario
 ---
 
 > ⚠️ El siguiente contenido explica cómo referenciar elementos de la interfaz de usuario en tutoriales y guías. Para escribir textos de interfaz, consulta la sección [Interface copy](https://contentguide.vtex.com/docs/interface-copy).

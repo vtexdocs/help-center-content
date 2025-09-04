@@ -1,5 +1,5 @@
 ---
-title: 'Capitalización'
+title: 'Mayúsculas'
 id: grammar0001-es
 status: PUBLISHED
 createdAt: 2025-08-27T19:24:22.388Z
@@ -8,10 +8,10 @@ publishedAt: 2025-08-27T19:24:22.388Z
 firstPublishedAt: 2025-08-27T19:24:22.388Z
 contentType: trackArticle
 productTeam: Localization
-slugES: capitalizacion
+slugES: mayusculas
 locale: es
 trackId: 5PxyAgZrtiYlaYZBTlhJ2A
-trackSlugES: capitalizacion
+trackSlugES: mayusculas
 ---
 
 ## General

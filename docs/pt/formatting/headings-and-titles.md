@@ -1,5 +1,5 @@
 ---
-title: 'Cabeçalhos e títulos'
+title: 'Títulos e cabeçalhos'
 id: formatting0001-pt
 status: PUBLISHED
 createdAt: 2025-08-28T15:00:00.388Z
@@ -7,10 +7,10 @@ publishedAt: 2025-08-28T15:00:00.388Z
 firstPublishedAt: 2025-08-28T15:00:00.388Z
 contentType: trackArticle
 productTeam: Education
-slugPT: cabecalhos-e-titulos
+slugPT: titulos-e-cabecalhos
 locale: pt
 trackId: 5PxyAgZrtiYlaYZBTlhJ2A
-trackSlugPT: cabecalhos-e-titulos
+trackSlugPT: titulos-e-cabecalhos
 ---
 
 Os títulos e cabeçalhos devem ser descritivos, curtos e, em geral, transmitir apenas uma ação principal.

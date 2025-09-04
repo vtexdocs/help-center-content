@@ -1,5 +1,5 @@
 ---
-title: 'Interfaces de computador'
+title: 'Interfaces de usuário'
 id: formatting0003-pt
 status: PUBLISHED
 createdAt: 2025-09-03T15:00:00.388Z
@@ -7,10 +7,10 @@ publishedAt: 2025-09-03T15:00:00.388Z
 firstPublishedAt: 2025-09-03T15:00:00.388Z
 contentType: trackArticle
 productTeam: Education
-slugPT: interfaces-de-computador
+slugPT: interfaces-de-usuário
 locale: pt
 trackId: 5PxyAgZrtiYlaYZBTlhJ2A
-trackSlugPT: interfaces-de-computador
+trackSlugPT: interfaces-de-usuário
 ---
 
 > ⚠️ O conteúdo a seguir explica como citar interfaces em tutoriais e guias. Para escrever textos para interfaces, consulte a seção [Interface copy](https://contentguide.vtex.com/docs/interface-copy) do portal Content Style Guide.

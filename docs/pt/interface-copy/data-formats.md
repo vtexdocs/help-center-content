@@ -1,5 +1,5 @@
 ---
-title: 'Formatos de dados'
+title: 'Formatação de dados'
 id: ui0009-pt
 status: PUBLISHED
 createdAt: 2025-08-28T19:24:22.388Z
@@ -8,10 +8,10 @@ publishedAt: 2025-08-28T19:24:22.388Z
 firstPublishedAt: 2025-08-28T19:24:22.388Z
 contentType: trackArticle
 productTeam: Localization
-slugPT: formatos-de-dados
+slugPT: formatação-de-dados
 locale: pt
 trackId: 5PxyAgZrtiYlaYZBTlhJ2A
-trackSlugPT: formatos-de-dados
+trackSlugPT: formatação-de-dados
 ---
 
 Formatar os dados de maneira consistente proporciona ao cliente uma experiência clara, organizada e acessível.
