@@ -1,6 +1,5 @@
 const path = require("path");
 const minimist = require("minimist");
-const { getYearAndMonthName } = require("./utils/monthFolder");
 const { buildTracksMetadata } = require("./writers/buildTracksMetadata");
 const { normalizeFolderName } = require("./utils/normalize");
 const { writeJSON } = require("./writers/fileWriter");

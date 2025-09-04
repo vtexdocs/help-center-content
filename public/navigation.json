@@ -6004,21 +6004,6 @@
             },
             {
               "name": {
-                "en": "Why isn’t my product indexed?",
-                "es": "¿Por qué el producto no indexa?",
-                "pt": "Por que o produto não indexa?"
-              },
-              "slug": {
-                "en": "why-isnt-my-product-indexed",
-                "es": "por-que-el-producto-no-indexa",
-                "pt": "por-que-o-produto-nao-indexa"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Why isn't the price table displayed to the customer?",
                 "es": "¿Por qué la tabla de precios no aparece para el cliente?",
                 "pt": "Por que a tabela de preços não aparece para o cliente?"
@@ -8936,37 +8921,6 @@
             },
             {
               "name": {
-                "en": "VTEX Sales App - Usando o app",
-                "es": "VTEX Sales App - Usando o app",
-                "pt": "VTEX Sales App - Usando o app"
-              },
-              "slug": {
-                "en": "vtex-sales-app-usando-o-app",
-                "es": "vtex-sales-app-usando-o-app",
-                "pt": "vtex-sales-app-usando-o-app"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "1. Printing an order summary",
-                    "es": "1. Impresión del resumen del pedido",
-                    "pt": "1. Impressão de resumo do pedido"
-                  },
-                  "slug": {
-                    "en": "printing-an-order-summary",
-                    "es": "impresion-del-resumen-del-pedido",
-                    "pt": "impressao-de-resumo-do-pedido"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
                 "en": "VTEX Sales App - Using the app",
                 "es": "VTEX Sales App - Usando el app",
                 "pt": "VTEX Sales App - Usando o app"
@@ -9206,9 +9160,24 @@
                 },
                 {
                   "name": {
-                    "en": "16. Cancel and refund an order on VTEX Sales App",
-                    "es": "16. Cancelar y reembolsar un pedido en VTEX Sales App",
-                    "pt": "16. Cancelar e estornar um pedido no VTEX Sales App"
+                    "en": "16. Printing an order summary",
+                    "es": "16. Impresión del resumen del pedido",
+                    "pt": "16. Impressão de resumo do pedido"
+                  },
+                  "slug": {
+                    "en": "printing-an-order-summary",
+                    "es": "impresion-del-resumen-del-pedido",
+                    "pt": "impressao-de-resumo-do-pedido"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "17. Cancel and refund an order on VTEX Sales App",
+                    "es": "17. Cancelar y reembolsar un pedido en VTEX Sales App",
+                    "pt": "17. Cancelar e estornar um pedido no VTEX Sales App"
                   },
                   "slug": {
                     "en": "cancel-and-refund-an-order-on-instore",
