@@ -3,8 +3,8 @@ title: 'Visión General Facturación'
 id: 6UxfCl4fw4GmyQwoUuIcQs
 status: PUBLISHED
 createdAt: 2018-05-17T20:22:30.358Z
-updatedAt: 2024-10-22T19:06:23.649Z
-publishedAt: 2024-10-22T19:06:23.649Z
+updatedAt: 2025-09-04T20:02:13.442Z
+publishedAt: 2025-09-04T20:02:13.442Z
 firstPublishedAt: 2018-05-17T20:24:17.809Z
 contentType: tutorial
 productTeam: Billing
@@ -12,7 +12,7 @@ author: 0QBQws7rk0t5Mnu8fgfUv
 slugEN: billing-module-overview
 legacySlug: vision-general-del-modulo-facturas
 locale: es
-subcategoryId: 
+subcategoryId: 31ICVopiWZfSTdr9jZMShb
 ---
 
 **Facturación** es la página en la que gestionas todos los aspectos financieros de tu cuenta VTEX. Solo está disponible para usuarios con un [rol Financiero](https://help.vtex.com/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc). Para ver, editar o realizar cualquier acción en esta página, solicita permiso al propietario de la tienda. 
@@ -21,7 +21,7 @@ Para acceder a esta sección, haz clic en tu **avatar de perfil**, que se puede 
 
 > ℹ️ Solo los usuarios con perfil de acceso [Finance](https://help.vtex.com/es/tutorial/predefined-roles--jGDurZKJHvHJS13LnO7Dy#finance), [Finance Full Access](https://help.vtex.com/es/tutorial/predefined-roles--jGDurZKJHvHJS13LnO7Dy#finance-full-access) o con recursos de [Billing](https://help.vtex.com/es/tutorial/recursos-do-license-manager-billing--13qKy6rwf9chc8ta90rDcy) vinculadas a su Perfil de acceso tendrán acceso a esta sección del VTEX Admin.            
 
-![Admin v4 Faturas menu ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/uncategorized/unknown-subcategory/vision-general-facturacion_1.jpg)
+![Admin v4 Faturas menu ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/facturas/facturaci%C3%B3n-visi%C3%B3n-general/vision-general-facturacion_1.jpg)
 
 A continuación encontrarás más detalles sobre las diferentes secciones y páginas de esta funcionalidad.
 

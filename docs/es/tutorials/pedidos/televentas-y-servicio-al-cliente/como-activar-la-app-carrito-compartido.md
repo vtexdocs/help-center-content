@@ -3,8 +3,8 @@ title: 'Cómo activar la app Carrito Compartido (Social Selling)'
 id: 1lS3fQdXpOoC0BTeVhydfg
 status: PUBLISHED
 createdAt: 2020-05-01T23:27:25.719Z
-updatedAt: 2023-03-29T15:34:32.868Z
-publishedAt: 2023-03-29T15:34:32.868Z
+updatedAt: 2025-09-04T20:08:14.558Z
+publishedAt: 2025-09-04T20:08:14.558Z
 firstPublishedAt: 2020-05-01T23:33:47.947Z
 contentType: tutorial
 productTeam: Apps
@@ -12,12 +12,12 @@ author: 56yU9Wz6mLwmzo82TjgAHy
 slugEN: how-to-activate-the-shareable-cart-app
 legacySlug: como-activar-la-app-carrito-compartible
 locale: es
-subcategoryId: 
+subcategoryId: 6SEjoixhY5LlA7G15W6oZS
 ---
 
 La app [Carrito Compartido](https://apps.vtex.com/vtex-social-selling/p) permite a los vendedores seleccionar productos para sus clientes y compartir el carrito lleno por canales como WhatsApp, Facebook Messenger y correo electrónico.
 
-![Shareable Cart Demo](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/uncategorized/unknown-subcategory/como-activar-la-app-carrito-compartido_1.gif)
+![Shareable Cart Demo](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pedidos/televentas-y-servicio-al-cliente/como-activar-la-app-carrito-compartido_1.gif)
 
 Este artículo explica cómo instalar la app y configurar la funcionalidad en su tienda. Una vez completados los pasos de activación, sus vendedores podrán seguir las [instrucciones de uso](https://help.vtex.com/es/tutorial/como-usar-o-app-carrinho-compartilhavel--3ePPpkmeZ96GXbeIoGZbTN) para comenzar sus estrategias de Social Selling.
 
@@ -84,7 +84,7 @@ Si desea personalizar los colores de los botones de la interfaz de carrito compa
 
 En la siguiente imagen, la opción A muestra los colores originales y la opción B una posible personalización.
 
-![shareable-cart-ui-customization](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/uncategorized/unknown-subcategory/como-activar-la-app-carrito-compartido_2.png)
+![shareable-cart-ui-customization](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pedidos/televentas-y-servicio-al-cliente/como-activar-la-app-carrito-compartido_2.png)
 
 El código que figura a continuación debe añadirse al final del archivo `checkout5-custom.css` o `checkout6-custom.css`, disponible para su personalización en *Configuración de la tienda > Checkout > Código*. El archivo que debe editarse depende de la versión de Checkout utilizada por su tienda.
 

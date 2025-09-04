@@ -3,8 +3,8 @@ title: 'Criar cupom'
 id: 7lMk3MmhNp2IEccyGApxU
 status: PUBLISHED
 createdAt: 2022-04-28T20:25:24.998Z
-updatedAt: 2025-09-04T19:03:32.007Z
-publishedAt: 2025-09-04T19:03:32.007Z
+updatedAt: 2025-09-04T19:47:20.177Z
+publishedAt: 2025-09-04T19:47:20.177Z
 firstPublishedAt: 2022-04-28T20:42:45.525Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -79,7 +79,7 @@ Nesta seção do formulário, você pode configurar as seguintes restrições de
 
   Ao manter essa opção desativada, o cupom pode ser utilizado por uma quantidade ilimitada de vezes.
 
-  > ⚠️ Caso ocorra o cancelamento de um pedido com cupom de uso limitado, o limite será recalculado. Isso significa que pedidos com status **Cancelado **não contam no limite de vezes que o cupom poderá ser utilizado.
+  > ⚠️ Caso ocorra o cancelamento de um pedido com cupom de uso limitado, o limite será recalculado. Isso significa que pedidos com status **Cancelado** não contam no limite de vezes que o cupom poderá ser utilizado.
 
 ## Cupons gerados
 

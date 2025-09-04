@@ -3,8 +3,8 @@ title: 'Creating a coupon'
 id: 7lMk3MmhNp2IEccyGApxU
 status: PUBLISHED
 createdAt: 2022-04-28T20:25:24.998Z
-updatedAt: 2024-08-14T17:40:13.842Z
-publishedAt: 2024-08-14T17:40:13.842Z
+updatedAt: 2025-09-04T19:47:20.177Z
+publishedAt: 2025-09-04T19:47:20.177Z
 firstPublishedAt: 2022-04-28T20:42:45.525Z
 contentType: tutorial
 productTeam: Marketing & Merchandising

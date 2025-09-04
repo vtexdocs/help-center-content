@@ -3,8 +3,8 @@ title: 'Sales associate code field at Checkout'
 id: 6hiRCXt5Cz250o7hBnN2Tp
 status: PUBLISHED
 createdAt: 2023-06-20T12:18:18.542Z
-updatedAt: 2023-06-20T21:50:57.120Z
-publishedAt: 2023-06-20T21:50:57.120Z
+updatedAt: 2025-09-04T20:11:34.659Z
+publishedAt: 2025-09-04T20:11:34.659Z
 firstPublishedAt: 2023-06-20T15:04:21.346Z
 contentType: tutorial
 productTeam: Shopping
@@ -12,7 +12,7 @@ author: 6DODK49lJPk3yvcoe6GB6g
 slugEN: sales-associate-code-field-at-checkout
 legacySlug: sales-associate-code-field-at-checkout
 locale: en
-subcategoryId: 
+subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
 On VTEX, you can create a field to add the sales associate code at Checkout. It allows you to:
@@ -57,7 +57,7 @@ After creating the salesassociatecode entity, you need to link it to a promotion
 
 <blockquote><ui>3. In **To which items will this promotion apply?**, click the **utm_campaign** option and type *salesassociatecode*.</ui>
 
-![utm campaign codigovendedor](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/uncategorized/unknown-subcategory/sales-associate-code-field-at-checkout_1.PNG)
+![utm campaign codigovendedor](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/sales-associate-code-field-at-checkout_1.PNG)
 
 <blockquote><ui>4. In **Restrictions and limitations of use**, add the other available restrictions if desired. Select the **Apply with other promotions** option.</ui>
 
@@ -85,4 +85,4 @@ Additionally, you need to complete the following steps:
 
 After completing all the above steps, the **Sales associate code** field will be available on the Checkout page.
 
-![Sales associate code](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/uncategorized/unknown-subcategory/sales-associate-code-field-at-checkout_2.png)  
+![Sales associate code](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/sales-associate-code-field-at-checkout_2.png)  

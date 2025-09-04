@@ -3,8 +3,8 @@ title: 'Visão Geral Faturas'
 id: 6UxfCl4fw4GmyQwoUuIcQs
 status: PUBLISHED
 createdAt: 2018-05-17T20:22:30.358Z
-updatedAt: 2024-10-22T19:06:23.649Z
-publishedAt: 2024-10-22T19:06:23.649Z
+updatedAt: 2025-09-04T20:02:13.442Z
+publishedAt: 2025-09-04T20:02:13.442Z
 firstPublishedAt: 2018-05-17T20:24:17.809Z
 contentType: tutorial
 productTeam: Billing
@@ -12,7 +12,7 @@ author: 0QBQws7rk0t5Mnu8fgfUv
 slugEN: billing-module-overview
 legacySlug: visao-geral-do-modulo-faturas
 locale: pt
-subcategoryId: 
+subcategoryId: 31ICVopiWZfSTdr9jZMShb
 ---
 
 **Faturas** é a página onde você administra todos os aspectos financeiros da sua conta VTEX. Ela só está disponível para usuários com um [perfil de acesso Financeiro](https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc). Para visualizar, editar ou executar qualquer ação nessa página, solicite a permissão do proprietário da sua loja.
@@ -21,7 +21,7 @@ Para acessar essa página, clique no seu **avatar**, que pode ser identificado p
 
 > ℹ️ Somente usuários com o perfil de acesso [Finance](https://help.vtex.com/pt/tutorial/predefined-roles--jGDurZKJHvHJS13LnO7Dy#finance), [Finance Full Access](https://help.vtex.com/pt/tutorial/predefined-roles--jGDurZKJHvHJS13LnO7Dy#finance-full-access) ou com recursos de [Billing](https://help.vtex.com/pt/tutorial/recursos-do-license-manager-billing--13qKy6rwf9chc8ta90rDcy) vinculados ao seu perfil de acesso terão acesso a essa seção do Admin VTEX.
 
-![Admin v4 Faturas menu PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/uncategorized/unknown-subcategory/visao-geral-faturas_1.jpg)
+![Admin v4 Faturas menu PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/faturas/faturas-vis%C3%A3o-geral/visao-geral-faturas_1.jpg)
 
 Veja abaixo mais detalhes sobre as diferentes seções e páginas deste recurso.
 

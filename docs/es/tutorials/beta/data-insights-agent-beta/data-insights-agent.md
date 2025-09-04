@@ -3,8 +3,8 @@ title: 'Data Insights Agent'
 id: 25tcSptm6eY5G0jecv2Zow
 status: PUBLISHED
 createdAt: 2025-08-01T18:41:29.478Z
-updatedAt: 2025-08-29T18:06:33.983Z
-publishedAt: 2025-08-29T18:06:33.983Z
+updatedAt: 2025-09-04T20:13:16.564Z
+publishedAt: 2025-09-04T20:13:16.564Z
 firstPublishedAt: 2025-08-04T11:30:23.218Z
 contentType: tutorial
 productTeam: Channels
@@ -12,7 +12,7 @@ author: 2p7evLfTcDrhc5qtrzbLWD
 slugEN: data-insights-agent
 legacySlug: data-insights-assistant
 locale: es
-subcategoryId: 
+subcategoryId: 6Hwvt2WIqemZXRG5fQDZwG
 ---
 
 > ℹ️ Esta funcionalidad se encuentra en fase beta, lo que significa que estamos trabajando para mejorarla. Si tienes alguna pregunta, ponte en contacto con nuestro <a href = "https://support.vtex.com/hc/pt-br/requests">Soporte</a>.  
@@ -31,7 +31,7 @@ Las conversaciones no se guardan.
 
 Para interactuar con el agente e iniciar el análisis de los datos de tu tienda, en el Admin de VTEX accede a **Dashboards > Data Insights Agent** o escribe **Data Insights Agent** en la barra de búsqueda. En la página se muestra una ventana de conversaciones y sugerencias de preguntas para iniciar un análisis con el asistente.    
 
-![Data Insights](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/uncategorized/unknown-subcategory/data-insights-agent_1.jpg)
+![Data Insights](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/beta/data-insights-agent-beta/data-insights-agent_1.jpg)
 
 Al hacer clic en una de las preguntas sugeridas, el asistente inicia el análisis del dato requerido.  
 

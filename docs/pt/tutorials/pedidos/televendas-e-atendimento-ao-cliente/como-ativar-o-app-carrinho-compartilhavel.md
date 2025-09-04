@@ -3,8 +3,8 @@ title: 'Como ativar o app Carrinho Compartilhável (Social Selling)'
 id: 1lS3fQdXpOoC0BTeVhydfg
 status: PUBLISHED
 createdAt: 2020-05-01T23:27:25.719Z
-updatedAt: 2023-03-29T15:34:32.868Z
-publishedAt: 2023-03-29T15:34:32.868Z
+updatedAt: 2025-09-04T20:08:14.558Z
+publishedAt: 2025-09-04T20:08:14.558Z
 firstPublishedAt: 2020-05-01T23:33:47.947Z
 contentType: tutorial
 productTeam: Apps
@@ -12,12 +12,12 @@ author: 56yU9Wz6mLwmzo82TjgAHy
 slugEN: how-to-activate-the-shareable-cart-app
 legacySlug: como-ativar-o-app-carrinho-compartilhavel
 locale: pt
-subcategoryId: 
+subcategoryId: 6SEjoixhY5LlA7G15W6oZS
 ---
 
 O app [Carrinho Compartilhável](https://apps.vtex.com/vtex-social-selling/p) permite que vendedores selecionem produtos para seus clientes e compartilhem o carrinho preenchido por canais como WhatsApp, Facebook Messenger e e-mail.
 
-![Shareable Cart Demo](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/uncategorized/unknown-subcategory/como-ativar-o-app-carrinho-compartilhavel_1.gif)
+![Shareable Cart Demo](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pedidos/televendas-e-atendimento-ao-cliente/como-ativar-o-app-carrinho-compartilhavel_1.gif)
 
 Este artigo explica como instalar o app e configurar a funcionalidade na sua loja. Ao concluir os passos de ativação, seus vendedores poderão seguir as [instruções de uso](https://help.vtex.com/pt/tutorial/como-usar-o-app-carrinho-compartilhavel--3ePPpkmeZ96GXbeIoGZbTN) para iniciar suas estratégias de Social Selling.
 
@@ -83,7 +83,7 @@ Caso você queira customizar as cores dos botões da interface de compartilhamen
 
 Na imagem a seguir, a opção A apresenta as cores originais e a opção B uma customização possível.
 
-![shareable-cart-ui-customization](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/uncategorized/unknown-subcategory/como-ativar-o-app-carrinho-compartilhavel_2.png)
+![shareable-cart-ui-customization](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pedidos/televendas-e-atendimento-ao-cliente/como-ativar-o-app-carrinho-compartilhavel_2.png)
 
 O código abaixo deve ser adicionado no fim do arquivo `checkout5-custom.css` ou `checkout6-custom.css`, disponível para customização em *Configurações da Loja > Checkout > Código*. A escolha de qual deve ser editado depende da versão do Checkout utilizada pela sua loja.
 
