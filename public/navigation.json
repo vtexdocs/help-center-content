@@ -16010,6 +16010,37 @@
             },
             {
               "name": {
+                "en": "Data Insights Agent Beta",
+                "es": "Data Insights Agent Beta",
+                "pt": "Data Insights Agent Beta"
+              },
+              "slug": {
+                "en": "data-insights-agent-beta",
+                "es": "data-insights-agent-beta",
+                "pt": "data-insights-agent-beta"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Data Insights Agent",
+                    "es": "Data Insights Agent",
+                    "pt": "Data Insights Agent"
+                  },
+                  "slug": {
+                    "en": "data-insights-agent",
+                    "es": "data-insights-agent",
+                    "pt": "data-insights-agent"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "Intelligent Search Beta",
                 "es": "Intelligent Search Beta",
                 "pt": "Intelligent Search Beta"
@@ -16569,37 +16600,6 @@
                   "children": []
                 }
               ]
-            },
-            {
-              "name": {
-                "en": "Data insights agent BETA",
-                "es": "Data insights agent BETA",
-                "pt": "Data insights agent BETA"
-              },
-              "slug": {
-                "en": "data-insights-agent-beta",
-                "es": "data-insights-agent-beta",
-                "pt": "data-insights-agent-beta"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Data Insights Agent",
-                    "es": "Data Insights Agent",
-                    "pt": "Data Insights Agent"
-                  },
-                  "slug": {
-                    "en": "data-insights-agent",
-                    "es": "data-insights-agent",
-                    "pt": "data-insights-agent"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
             }
           ]
         },
@@ -16617,6 +16617,37 @@
           "origin": "",
           "type": "category",
           "children": [
+            {
+              "name": {
+                "en": "Billing Overview",
+                "es": "Facturación: visión general",
+                "pt": "Faturas: visão geral"
+              },
+              "slug": {
+                "en": "billing-overview",
+                "es": "facturacion-vision-general",
+                "pt": "faturas-visao-geral"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Billing Overview",
+                    "es": "Visión General Facturación",
+                    "pt": "Visão Geral Faturas"
+                  },
+                  "slug": {
+                    "en": "billing-module-overview",
+                    "es": "vision-general-facturacion",
+                    "pt": "visao-geral-faturas"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
             {
               "name": {
                 "en": "Contracts",
@@ -16883,37 +16914,6 @@
                     "en": "changing-the-stores-registration-details",
                     "es": "modificar-los-datos-de-registro-de-la-tienda",
                     "pt": "alterar-os-dados-cadastrais-da-loja"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Billing overview",
-                "es": "Facturación visión general",
-                "pt": "Faturas visão geral"
-              },
-              "slug": {
-                "en": "billing-overview",
-                "es": "facturacion-vision-general",
-                "pt": "faturas-visao-geral"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Billing Overview",
-                    "es": "Visión General Facturación",
-                    "pt": "Visão Geral Faturas"
-                  },
-                  "slug": {
-                    "en": "billing-module-overview",
-                    "es": "vision-general-facturacion",
-                    "pt": "visao-geral-faturas"
                   },
                   "origin": "",
                   "type": "markdown",
