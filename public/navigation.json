@@ -7321,13 +7321,13 @@
         {
           "name": {
             "en": "Others",
-            "es": "Others",
-            "pt": "Others"
+            "es": "Otros",
+            "pt": "Outros"
           },
           "slug": {
             "en": "others",
-            "es": "others",
-            "pt": "others"
+            "es": "otros",
+            "pt": "outros"
           },
           "origin": "",
           "type": "category",
@@ -15947,6 +15947,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Adding products (Beta)",
+                    "es": "Agregar producto (Beta)",
+                    "pt": "Criar um produto (Beta)"
+                  },
+                  "slug": {
+                    "en": "criar-um-produto-beta",
+                    "es": "criar-um-produto-beta",
+                    "pt": "criar-um-produto-beta"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Creating or editing categories, attributes, and variations (Beta)",
                     "es": "Crear o editar categorías, atributos y variaciones (Beta)",
                     "pt": "Criar ou editar categorias, atributos e variações (Beta)"
@@ -16554,6 +16569,37 @@
                   "children": []
                 }
               ]
+            },
+            {
+              "name": {
+                "en": "Data insights agent BETA",
+                "es": "Data insights agent BETA",
+                "pt": "Data insights agent BETA"
+              },
+              "slug": {
+                "en": "data-insights-agent-beta",
+                "es": "data-insights-agent-beta",
+                "pt": "data-insights-agent-beta"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Data Insights Agent",
+                    "es": "Data Insights Agent",
+                    "pt": "Data Insights Agent"
+                  },
+                  "slug": {
+                    "en": "data-insights-agent",
+                    "es": "data-insights-agent",
+                    "pt": "data-insights-agent"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
             }
           ]
         },
@@ -16837,6 +16883,37 @@
                     "en": "changing-the-stores-registration-details",
                     "es": "modificar-los-datos-de-registro-de-la-tienda",
                     "pt": "alterar-os-dados-cadastrais-da-loja"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Billing overview",
+                "es": "Facturación visión general",
+                "pt": "Faturas visão geral"
+              },
+              "slug": {
+                "en": "billing-overview",
+                "es": "facturacion-vision-general",
+                "pt": "faturas-visao-geral"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Billing Overview",
+                    "es": "Visión General Facturación",
+                    "pt": "Visão Geral Faturas"
+                  },
+                  "slug": {
+                    "en": "billing-module-overview",
+                    "es": "vision-general-facturacion",
+                    "pt": "visao-geral-faturas"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -23283,6 +23360,21 @@
                 },
                 {
                   "name": {
+                    "en": "How to activate the Shareable Cart app (Social Selling)",
+                    "es": "Cómo activar la app Carrito Compartido (Social Selling)",
+                    "pt": "Como ativar o app Carrinho Compartilhável (Social Selling)"
+                  },
+                  "slug": {
+                    "en": "how-to-activate-the-shareable-cart-app",
+                    "es": "como-activar-la-app-carrito-compartido",
+                    "pt": "como-ativar-o-app-carrinho-compartilhavel"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Telesales features",
                     "es": "Funcionalidades de televentas",
                     "pt": "Funcionalidades de televendas"
@@ -23306,130 +23398,6 @@
                     "en": "telesales-toolbar",
                     "es": "barra-de-herramientas-de-televentas",
                     "pt": "toolbar-de-televendas"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": {
-            "en": "Other",
-            "es": "Otros",
-            "pt": "Outros"
-          },
-          "slug": {
-            "en": "other",
-            "es": "otros",
-            "pt": "outros"
-          },
-          "origin": "",
-          "type": "category",
-          "children": [
-            {
-              "name": {
-                "en": "Foresight Commerce Academy",
-                "es": "Foresight Commerce Academy",
-                "pt": "Foresight Commerce Academy"
-              },
-              "slug": {
-                "en": "foresight-commerce-academy",
-                "es": "foresight-commerce-academy",
-                "pt": "foresight-commerce-academy"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Foresight Commerce Academy - Overview",
-                    "es": "Foresight Commerce Academy - Visión Geral",
-                    "pt": "Foresight Commerce Academy - Visão Geral"
-                  },
-                  "slug": {
-                    "en": "foresight-commerce-academy-overview",
-                    "es": "foresight-commerce-academy-vision-geral",
-                    "pt": "foresight-commerce-academy-visao-geral"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Scheduling features",
-                "es": "Programación de funcionalidades",
-                "pt": "Agendamento"
-              },
-              "slug": {
-                "en": "scheduling-features",
-                "es": "programacion-de-funcionalidades",
-                "pt": "agendamento"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Scheduling features for special events",
-                    "es": "Programación de funcionalidades para eventos especiales",
-                    "pt": "Agendamento para eventos especiais"
-                  },
-                  "slug": {
-                    "en": "scheduling-features-for-special-events",
-                    "es": "programacion-de-funcionalidades-para-eventos-especiales",
-                    "pt": "agendamento-para-eventos-especiais"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Uncategorized",
-                "es": "No categorizado",
-                "pt": "Não categorizado"
-              },
-              "slug": {
-                "en": "uncategorized",
-                "es": "no-categorizado",
-                "pt": "nao-categorizado"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Partner Program - Intranet and VTEX Store Manual",
-                    "es": "Programa Partner - Manual de Intranet y VTEX Store",
-                    "pt": "Programa Partner - Manual da Intranet e VTEX Store"
-                  },
-                  "slug": {
-                    "en": "partner-program-intranet-and-vtex-store-manual",
-                    "es": "programa-partner-manual-de-intranet-y-vtex-store",
-                    "pt": "programa-partner-manual-da-intranet-e-vtex-store"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "VTEX Network",
-                    "es": "VTEX Network",
-                    "pt": "VTEX Network"
-                  },
-                  "slug": {
-                    "en": "connecting-to-retailers-and-marketplaces-using-vtex-network",
-                    "es": "conectandose-a-comerciantes-y-marketplaces-por-el-vtex-network",
-                    "pt": "vtex-network"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -24229,6 +24197,21 @@
                     "en": "setting-up-mercado-pago-offline-and-wallet-as-payment-methods",
                     "es": "configurar-mercado-pago-offline-y-wallet-como-metodos-de-pago",
                     "pt": "configurar-mercado-pago-offline-e-wallet-como-metodos-de-pagamentos"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up Nethone antifraud",
+                    "es": "Configurar el antifraude Nethone",
+                    "pt": "Configurar o antifraude Nethone"
+                  },
+                  "slug": {
+                    "en": "setting-up-nethone-antifraud",
+                    "es": "configurar-antifraude-nethone",
+                    "pt": "configurar-o-antifraude-nethone"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -28263,6 +28246,21 @@
                     "en": "regular-promotion-with-reward-value",
                     "es": "promocion-regular-con-valor-de-fidelidad",
                     "pt": "promocao-regular-com-valor-fidelidade"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Sales associate code field at Checkout",
+                    "es": "Campo código de vendedor en el Checkout",
+                    "pt": "Campo código de vendedor no Checkout"
+                  },
+                  "slug": {
+                    "en": "sales-associate-code-field-at-checkout",
+                    "es": "campo-codigo-de-vendedor-en-el-checkout",
+                    "pt": "campo-codigo-de-vendedor-no-checkout"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -33312,42 +33310,104 @@
         },
         {
           "name": {
-            "en": "Uncategorized",
-            "es": "Uncategorized",
-            "pt": "Uncategorized"
+            "en": "Other",
+            "es": "Otros",
+            "pt": "Outros"
           },
           "slug": {
-            "en": "uncategorized",
-            "es": "uncategorized",
-            "pt": "uncategorized"
+            "en": "other",
+            "es": "otros",
+            "pt": "outros"
           },
           "origin": "",
           "type": "category",
           "children": [
             {
               "name": {
-                "en": "Unknown subcategory",
-                "es": "Unknown subcategory",
-                "pt": "Unknown subcategory"
+                "en": "Foresight Commerce Academy",
+                "es": "Foresight Commerce Academy",
+                "pt": "Foresight Commerce Academy"
               },
               "slug": {
-                "en": "unknown-subcategory",
-                "es": "unknown-subcategory",
-                "pt": "unknown-subcategory"
+                "en": "foresight-commerce-academy",
+                "es": "foresight-commerce-academy",
+                "pt": "foresight-commerce-academy"
               },
               "origin": "",
               "type": "category",
               "children": [
                 {
                   "name": {
-                    "en": "Adding products (Beta)",
-                    "es": "Agregar producto (Beta)",
-                    "pt": "Criar um produto (Beta)"
+                    "en": "Foresight Commerce Academy - Overview",
+                    "es": "Foresight Commerce Academy - Visión Geral",
+                    "pt": "Foresight Commerce Academy - Visão Geral"
                   },
                   "slug": {
-                    "en": "criar-um-produto-beta",
-                    "es": "criar-um-produto-beta",
-                    "pt": "criar-um-produto-beta"
+                    "en": "foresight-commerce-academy-overview",
+                    "es": "foresight-commerce-academy-vision-geral",
+                    "pt": "foresight-commerce-academy-visao-geral"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Scheduling features",
+                "es": "Programación de funcionalidades",
+                "pt": "Agendamento"
+              },
+              "slug": {
+                "en": "scheduling-features",
+                "es": "programacion-de-funcionalidades",
+                "pt": "agendamento"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Scheduling features for special events",
+                    "es": "Programación de funcionalidades para eventos especiales",
+                    "pt": "Agendamento para eventos especiais"
+                  },
+                  "slug": {
+                    "en": "scheduling-features-for-special-events",
+                    "es": "programacion-de-funcionalidades-para-eventos-especiales",
+                    "pt": "agendamento-para-eventos-especiais"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Uncategorized",
+                "es": "No categorizado",
+                "pt": "Não categorizado"
+              },
+              "slug": {
+                "en": "uncategorized",
+                "es": "no-categorizado",
+                "pt": "nao-categorizado"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Partner Program - Intranet and VTEX Store Manual",
+                    "es": "Programa Partner - Manual de Intranet y VTEX Store",
+                    "pt": "Programa Partner - Manual da Intranet e VTEX Store"
+                  },
+                  "slug": {
+                    "en": "partner-program-intranet-and-vtex-store-manual",
+                    "es": "programa-partner-manual-de-intranet-y-vtex-store",
+                    "pt": "programa-partner-manual-da-intranet-e-vtex-store"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -33355,89 +33415,14 @@
                 },
                 {
                   "name": {
-                    "en": "Billing Overview",
-                    "es": "Visión General Facturación",
-                    "pt": "Visão Geral Faturas"
+                    "en": "VTEX Network",
+                    "es": "VTEX Network",
+                    "pt": "VTEX Network"
                   },
                   "slug": {
-                    "en": "billing-module-overview",
-                    "es": "vision-general-facturacion",
-                    "pt": "visao-geral-faturas"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Data Insights Agent",
-                    "es": "Data Insights Agent",
-                    "pt": "Data Insights Agent"
-                  },
-                  "slug": {
-                    "en": "data-insights-agent",
-                    "es": "data-insights-agent",
-                    "pt": "data-insights-agent"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How to activate the Shareable Cart app (Social Selling)",
-                    "es": "Cómo activar la app Carrito Compartido (Social Selling)",
-                    "pt": "Como ativar o app Carrinho Compartilhável (Social Selling)"
-                  },
-                  "slug": {
-                    "en": "how-to-activate-the-shareable-cart-app",
-                    "es": "como-activar-la-app-carrito-compartido",
-                    "pt": "como-ativar-o-app-carrinho-compartilhavel"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How to disable Cloudflare proxy",
-                    "es": "Cómo deshabilitar el proxy de Cloudflare",
-                    "pt": "Como desabilitar o proxy no Cloudflare"
-                  },
-                  "slug": {
-                    "en": "disable-cloudflare-proxy",
-                    "es": "deshabilitar-proxy-cloudflare",
-                    "pt": "desabilitar-proxy-cloudflare"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Sales associate code field at Checkout",
-                    "es": "Campo Código de vendedor en el Checkout",
-                    "pt": "Campo Código de Vendedor no Checkout"
-                  },
-                  "slug": {
-                    "en": "sales-associate-code-field-at-checkout",
-                    "es": "campo-codigo-de-vendedor-en-el-checkout",
-                    "pt": "campo-codigo-de-vendedor-no-checkout"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Setting up Nethone antifraud",
-                    "es": "Configurar el antifraude Nethone",
-                    "pt": "Configurar o antifraude Nethone"
-                  },
-                  "slug": {
-                    "en": "setting-up-nethone-antifraud",
-                    "es": "configurar-antifraude-nethone",
-                    "pt": "configurar-o-antifraude-nethone"
+                    "en": "connecting-to-retailers-and-marketplaces-using-vtex-network",
+                    "es": "conectandose-a-comerciantes-y-marketplaces-por-el-vtex-network",
+                    "pt": "vtex-network"
                   },
                   "origin": "",
                   "type": "markdown",
