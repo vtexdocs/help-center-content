@@ -3,8 +3,8 @@ title: 'Cómo devolver ítems del pedido'
 id: 2bSNWwD0g8fcUmuupLao9i
 status: PUBLISHED
 createdAt: 2020-12-28T21:23:42.045Z
-updatedAt: 2025-09-02T17:22:21.189Z
-publishedAt: 2025-09-02T17:22:21.189Z
+updatedAt: 2025-09-05T14:06:46.984Z
+publishedAt: 2025-09-05T14:06:46.984Z
 firstPublishedAt: 2020-12-28T21:27:16.332Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -17,7 +17,9 @@ subcategoryId: 3VNOhxDrvYxJThhuJClrYZ
 
 La página **Detalles del pedido** permite que los administradores de la tienda acompañen el ciclo de vida de pedidos específicos, analizando todas sus interacciones, datos y contextos. Aprenda más sobre cómo funciona la nueva página de [Detalles del pedido](https://help.vtex.com/es/tutorial/pagina-de-detalles-del-pedido-interface--2Y75n54Cc9VizrlG1N6ZNl). 
 
-Es posible devolver algunos ítems o todos los ítems que ya fueron facturados, en caso de que el cliente de su tienda lo solicite, con la condición de que los ítems estén contenidos en la factura. Un escenario común para esa acción es cuando el cliente de una tienda del sector moda desea devolver una prenda de vestir de su pedido, para cambiarla por una de talla diferente, por ejemplo. 
+Es posible devolver algunos ítems o todos los ítems que ya fueron facturados, en caso de que el cliente de su tienda lo solicite, con la condición de que los ítems estén contenidos en la factura. Un escenario común para esa acción es cuando el cliente de una tienda del sector moda desea devolver una prenda de vestir de su pedido, para cambiarla por una de talla diferente, por ejemplo.
+
+> ⚠️ La devolución de ítems a través de API debe ser realizada por el endpoint [Order invoice notification](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/invoice), que genera el reembolso correspondiente. No hay necesidad de realizar solicitudes adicionales.
 
 La página de Detalles del pedido permite orquestar esa operación realizando los siguientes pasos.
 
@@ -35,5 +37,3 @@ La página de Detalles del pedido permite orquestar esa operación realizando lo
 10. Haz clic en `Solicitar reembolso`.
 
 Después de que el reembolso sea procesado por el sistema, los ítems devueltos y su información aparecerán en la sección *Ítems devueltos*.
-
-> ℹ️ El cambio de pedidos se realiza a través de API por el endpoint [Create order modifications](https://developers.vtex.com/docs/api-reference/orders-api#patch-/api/order-system/orders/-changeOrderId-/changes) y la emisión de facturas actualizadas por el endpoint [Order invoice notification](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/invoice).
