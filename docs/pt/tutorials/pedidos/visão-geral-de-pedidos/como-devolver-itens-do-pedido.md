@@ -3,8 +3,8 @@ title: 'Como devolver itens do pedido'
 id: 2bSNWwD0g8fcUmuupLao9i
 status: PUBLISHED
 createdAt: 2020-12-28T21:23:42.045Z
-updatedAt: 2025-09-02T17:22:21.189Z
-publishedAt: 2025-09-02T17:22:21.189Z
+updatedAt: 2025-09-05T14:06:46.984Z
+publishedAt: 2025-09-05T14:06:46.984Z
 firstPublishedAt: 2020-12-28T21:27:16.332Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -17,7 +17,9 @@ subcategoryId: 3VNOhxDrvYxJThhuJClrYZ
 
 A página de **Detalhes do Pedido** permite que lojistas acompanhem o ciclo de vida de pedidos específicos, analisando todas as suas interações, dados e contextos. Saiba mais sobre como funciona a nova página de [Detalhes do Pedido](https://help.vtex.com/pt/tutorial/pagina-de-detalhes-do-pedido-interface--2Y75n54Cc9VizrlG1N6ZNl). 
 
-É possível devolver total ou parcialmente itens já faturados, caso o cliente solicite, desde que os itens estejam contidos na fatura. Um cenário comum para essa ação é quando um cliente de uma loja do segmento de moda deseja devolver uma peça de roupa do seu pedido, para trocá-la por um tamanho diferente, por exemplo. 
+É possível devolver total ou parcialmente itens já faturados, caso o cliente solicite, desde que os itens estejam contidos na fatura. Um cenário comum para essa ação é quando um cliente de uma loja do segmento de moda deseja devolver uma peça de roupa do seu pedido, para trocá-la por um tamanho diferente, por exemplo.
+
+> ⚠️ A devolução de pedidos via API deve ser feita pelo endpoint [Order invoice notification](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/invoice), que gera o reembolso correspondente. Não há necessidade de realizar requisições adicionais.
 
 A página de **Detalhes do Pedido** permite orquestrar essa operação, seguindo os passos abaixo:
 
@@ -39,5 +41,3 @@ A página de **Detalhes do Pedido** permite orquestrar essa operação, seguindo
 10. Clique em `Solicitar Reembolso`.  
 
 Após o reembolso ser processado pelo sistema, os itens devolvidos e suas informações aparecerão na seção **Itens Devolvidos**.
-
-> ℹ️ A alteração de pedidos via API é feita pelo endpoint [Create order modifications](https://developers.vtex.com/docs/api-reference/orders-api#patch-/api/order-system/orders/-changeOrderId-/changes) e a emissão de faturas após alterações é feita pelo endpoint [Order invoice notification](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/invoice).

@@ -1,10 +1,10 @@
 ---
 title: 'Cómo deshabilitar el proxy de Cloudflare'
 id: 75QqsXAqR7NdkRc1GZPiXb
-status: CHANGED
+status: PUBLISHED
 createdAt: 2021-11-19T18:31:43.174Z
-updatedAt: 2025-09-04T20:06:38.481Z
-publishedAt: 2022-01-11T16:58:58.183Z
+updatedAt: 2025-09-04T21:15:31.227Z
+publishedAt: 2025-09-04T21:15:31.227Z
 firstPublishedAt: 2021-11-22T15:19:34.246Z
 contentType: tutorial
 productTeam: Reliability

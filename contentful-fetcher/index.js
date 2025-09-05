@@ -30,6 +30,7 @@ async function main() {
   ];
   const skipImages = args.skipImages;
   const skipWrite = args.skipWrite;
+  const updatedAfter = args.updatedAfter;
 
   const allowedTypes = [
     "trackArticle",
@@ -120,9 +121,12 @@ async function main() {
       });
       trackStepsMap = await getTrackSteps();
     }
-    //console.log(trackStepsMap);
-
-    const entries = await fetchEntries({ contentTypes });
+    const updatedAfterDate = updatedAfter ? new Date(updatedAfter) : "";
+    //const entries = await fetchEntries({ contentTypes });
+    const entries = await fetchEntries({
+      contentTypes,
+      updatedAfterDate,
+    });
     console.log(`📄 Found ${entries.length} entries to process.`);
 
     //CREATE FILES

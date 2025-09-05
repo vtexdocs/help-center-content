@@ -1,9 +1,9 @@
 ---
 title: 'Agent Builder overview'
 id: 6t9oYS7E2AJH9c2AYReUrs
-status: PUBLISHED
+status: CHANGED
 createdAt: 2025-07-23T12:24:11.906Z
-updatedAt: 2025-07-29T16:54:26.827Z
+updatedAt: 2025-09-05T16:52:23.558Z
 publishedAt: 2025-07-29T16:54:26.827Z
 firstPublishedAt: 2025-07-29T16:45:36.827Z
 contentType: tutorial

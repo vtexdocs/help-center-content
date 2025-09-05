@@ -3,8 +3,8 @@ title: 'How to return items from an order'
 id: 2bSNWwD0g8fcUmuupLao9i
 status: PUBLISHED
 createdAt: 2020-12-28T21:23:42.045Z
-updatedAt: 2025-09-02T17:22:21.189Z
-publishedAt: 2025-09-02T17:22:21.189Z
+updatedAt: 2025-09-05T14:06:46.984Z
+publishedAt: 2025-09-05T14:06:46.984Z
 firstPublishedAt: 2020-12-28T21:27:16.332Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -17,7 +17,9 @@ subcategoryId: 3VNOhxDrvYxJThhuJClrYZ
 
 On the **Order Details** page, retailers can track specific products’ life-cycle by analyzing their interactions, data, and context. Learn more about the new [Order Details](https://help.vtex.com/en/tutorial/order-details-page-interface--2Y75n54Cc9VizrlG1N6ZNl) page. 
 
-You can return some items or all of them even when they were invoiced if your customer requests it, as long as the items are inserted in the invoice. A typical scenario for this action is when a customer in the fashion segment wants to return a clothing item and exchange it for one with a different size, for example. 
+You can return some items or all of them even when they were invoiced if your customer requests it, as long as the items are inserted in the invoice. A typical scenario for this action is when a customer in the fashion segment wants to return a clothing item and exchange it for one with a different size, for example.
+
+> ⚠️ Returning items via API must be done using the endpoint [Order invoice notification](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/invoice), which generates the corresponding refund. There is no need for additional requests.
 
 On the Order Details page, you can orchestrate this operation by completing the following steps: 
 
@@ -37,5 +39,3 @@ On the Order Details page, you can orchestrate this operation by completing the 
 10. Click `Request chargeback`.
 
 After the refund is processed in the system, your returned items and information will be displayed in the **Returned items** section.
-
-> ℹ️ You can change orders via API using the endpoint [Create order modifications](https://developers.vtex.com/docs/api-reference/orders-api#patch-/api/order-system/orders/-changeOrderId-/changes), and issue invoices after changes using the endpoint [Order invoice notification](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/invoice).
