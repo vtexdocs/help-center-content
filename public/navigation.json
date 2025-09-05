@@ -15974,6 +15974,21 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
+                },
+                {
+                  "name": {
+                    "en": "Import and export of products and SKUs via spreadsheet (Beta)",
+                    "es": "Importación y exportación de productos y SKUs mediante plantilla (Beta)",
+                    "pt": "Importação e exportação de produtos e SKUs via planilha (Beta)"
+                  },
+                  "slug": {
+                    "en": "import-and-export-of-products-and-skus-via-spreadsheet-beta",
+                    "es": "importacion-y-exportacion-de-productos-y-skus-mediante-plantilla-beta",
+                    "pt": "importacao-e-exportacao-de-produtos-e-skus-via-planilha-beta"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
                 }
               ]
             },
@@ -19533,6 +19548,21 @@
                     "en": "understanding-how-the-cache-works",
                     "es": "entendendo-o-funcionamento-do-cache",
                     "pt": "entendendo-o-funcionamento-do-cache"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "How to disable Cloudflare proxy",
+                    "es": "Cómo deshabilitar el proxy de Cloudflare",
+                    "pt": "Como desabilitar o proxy no Cloudflare"
+                  },
+                  "slug": {
+                    "en": "disable-cloudflare-proxy",
+                    "es": "deshabilitar-proxy-cloudflare",
+                    "pt": "desabilitar-proxy-cloudflare"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -33261,21 +33291,6 @@
               "children": [
                 {
                   "name": {
-                    "en": "Agent Builder overview",
-                    "es": "Visión de conjunto del Agent Builder",
-                    "pt": "Visão geral Agent Builder"
-                  },
-                  "slug": {
-                    "en": "agent-builder-overview",
-                    "es": "vision-de-conjunto-del-agent-builder",
-                    "pt": "visao-geral-agent-builder"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Attribute and test agents on Agent Builder",
                     "es": "Asignar y testar agentes en el Agent Builder",
                     "pt": "Atribuir e testar agentes no Agent Builder"
@@ -33284,6 +33299,21 @@
                     "en": "attribute-and-test-agents-on-agent-builder",
                     "es": "asignar-y-testar-agentes-en-el-agent-builder",
                     "pt": "atribuir-e-testar-agentes-no-agent-builder"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "es": "Visión de conjunto del Agent Builder",
+                    "pt": "Visão geral Agent Builder",
+                    "en": "Visión de conjunto del Agent Builder"
+                  },
+                  "slug": {
+                    "es": "vision-de-conjunto-del-agent-builder",
+                    "pt": "visao-geral-agent-builder",
+                    "en": ""
                   },
                   "origin": "",
                   "type": "markdown",
@@ -33423,6 +33453,53 @@
                     "en": "connecting-to-retailers-and-marketplaces-using-vtex-network",
                     "es": "conectandose-a-comerciantes-y-marketplaces-por-el-vtex-network",
                     "pt": "vtex-network"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": {
+            "en": "Indeva by VTEX",
+            "es": "Indeva by VTEX",
+            "pt": "Indeva by VTEX"
+          },
+          "slug": {
+            "en": "indeva-by-vtex",
+            "es": "indeva-by-vtex",
+            "pt": "indeva-by-vtex"
+          },
+          "origin": "",
+          "type": "category",
+          "children": [
+            {
+              "name": {
+                "en": "User account",
+                "es": "Cuenta de usuario",
+                "pt": "Conta do usuário"
+              },
+              "slug": {
+                "en": "user-account",
+                "es": "cuenta-de-usuario",
+                "pt": "conta-do-usuario"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Create or reset password to access the Indeva platform",
+                    "es": "Crear o restablecer la contraseña para acceder a la plataforma Indeva",
+                    "pt": "Cadastrar ou redefinir senha para acesso à plataforma Indeva"
+                  },
+                  "slug": {
+                    "en": "create-or-reset-password-to-access-the-indeva-platform",
+                    "es": "crear-o-restablecer-la-contrasena-para-acceder-a-la-plataforma-indeva",
+                    "pt": "cadastrar-ou-redefinir-senha-para-acesso-a-plataforma-indeva"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -43234,6 +43311,21 @@
             },
             {
               "name": {
+                "en": "Mercado Livre Main Image not respected",
+                "es": "Mercado Livre Imagen principal no respetada",
+                "pt": "Mercado Livre Imagem principal não respeitada"
+              },
+              "slug": {
+                "en": "mercado-livre-main-image-not-respected",
+                "es": "mercado-livre-imagen-principal-no-respetada",
+                "pt": "mercado-livre-imagem-principal-nao-respeitada"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Mercado Livre Mapper attribute Size",
                 "es": "Tamaño del atributo Mercado Livre Mapper",
                 "pt": "Tamanho do atributo do Mercado Livre Mapper"
@@ -49618,6 +49710,21 @@
             },
             {
               "name": {
+                "en": "Order stuck in Payment Pending status due to missing payment approved notification",
+                "es": "Pedido bloqueado en estado Pendiente de pago por falta de notificación de pago aprobado",
+                "pt": "Pedido preso no status Pendente de pagamento devido à falta de notificação de pagamento aprovado"
+              },
+              "slug": {
+                "en": "order-stuck-in-payment-pending-status-due-to-missing-payment-approved-notification",
+                "es": "pedido-bloqueado-en-estado-pendiente-de-pago-por-falta-de-notificacion-de-pago-aprobado",
+                "pt": "pedido-preso-no-status-pendente-de-pagamento-devido-a-falta-de-notificacao-de-pagamento-aprovado"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Order with change itens cannot be invoiced referencing the items",
                 "es": "Los pedidos con itens de modificación no pueden facturarse haciendo referencia a los artículos",
                 "pt": "Pedidos com itens de modificação não podem ser faturados com referência aos itens"
@@ -52194,21 +52301,6 @@
                 "en": "order-report-inconsistency-when-tid-field-is-duplicated-in-the-connectorresponses-field-from-get-payment-details-api",
                 "es": "incoherencia-en-el-informe-de-pedido-cuando-el-campo-tid-esta-duplicado-en-el-campo-connectorresponses-de-la-api-de-detalles-de-pago-get",
                 "pt": "inconsistencia-no-relatorio-de-pedidos-quando-o-campo-tid-e-duplicado-no-campo-connectorresponses-da-api-de-detalhes-de-pagamento-get"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Order stuck in Payment Pending status due to missing payment approved notification",
-                "es": "Pedido bloqueado en estado Pendiente de pago por falta de notificación de pago aprobado",
-                "pt": "Pedido preso no status Pendente de pagamento devido à falta de notificação de pagamento aprovado"
-              },
-              "slug": {
-                "en": "order-stuck-in-payment-pending-status-due-to-missing-payment-approved-notification",
-                "es": "pedido-bloqueado-en-estado-pendiente-de-pago-por-falta-de-notificacion-de-pago-aprobado",
-                "pt": "pedido-preso-no-status-pendente-de-pagamento-devido-a-falta-de-notificacao-de-pagamento-aprovado"
               },
               "origin": "",
               "type": "markdown",
