@@ -3,8 +3,8 @@ title: 'Envio de produtos para o Google Shopping'
 id: 5L5LnccDCj5lJk8H95GQ82
 status: PUBLISHED
 createdAt: 2021-04-15T14:10:45.645Z
-updatedAt: 2025-04-30T18:26:28.314Z
-publishedAt: 2025-04-30T18:26:28.314Z
+updatedAt: 2025-09-08T17:53:08.339Z
+publishedAt: 2025-09-08T17:53:08.339Z
 firstPublishedAt: 2021-04-15T17:41:23.772Z
 contentType: trackArticle
 productTeam: Channels
@@ -27,17 +27,23 @@ Para reindexar a base, copie o endereço abaixo no seu navegador, substituindo `
 
 `{nomedaloja}.vtexcommercestable.com.br/admin/Site/FullCleanUp.aspx`
 
-Ao acessar o endereço, clique no botão `Reindexar Base`. O processo pode ser acompanhado pelo Admin VTEX, em **PRODUTOS > Catálogo > Relatórios**.
+Ao acessar o endereço, clique no botão `Reindexar Base`. O processo pode ser acompanhado pelo Admin VTEX, em **Catálogo > Relatórios**.
 
 ### Checar indexação
 
 É possível conferir se um SKU específico foi corretamente indexado à política comercial da integração. Para isso, siga os passos abaixo:
 
-1. No Admin VTEX, acesse **PRODUTOS > Produtos e SKUs**.
-2. Clique na <i class="fas fa-angle-down"></i> seta para baixo, ao lado do botão **ALTERAR**.
-3. Selecione a opção `Indexed Info`.
-4. Verifique se nas informações do SKU aparece o número da política comercial usada na integração com o marketplace.
+1. No Admin VTEX, acesse **Catálogo > Produtos e SKUs**.
+2. Clique no botão menu <i class="fas fa-ellipsis-v" aria-hidden="true"></i>.
+3. Clique na opção **Ver informações de indexação.**  
+4. Verifique o status de cada SKU. 
 
+Veja abaixo as mensagens para cada status de indexação:
+
+| **Status** | **Tipo de mensagem** |
+|---|---|
+| SKUs indexados | Sku: 70 - variação amarela tênis Sales Channel: 1 Sku: 70 Price: 1740.00 Stock: 1 Quantity Sold last month SalesChannel: 1, Sales: 0 |
+| SKUs não indexados | Sku: 112 - variação azul tênis Sales Channel: 1 Sku: 112 Sku is UNAVAILABLE - check price and stock, Checkout Info: Code: withoutStock \| Status:error \| Message: O item Tênis Action - Masculino - Marinho/prata variação amarela tênis não tem estoque Quantity Sold last month SalesChannel: 1, Sales: -1 |
 ## Aprovação de produtos
 
 A aprovação dos seus produtos pelo Google vai torná-los ativos, e isso imediatamente fará com que eles figurem como anúncios no Google Shopping.
@@ -88,9 +94,9 @@ Ao criar o novo campo de especificação de produto preencha-os com os seguintes
 
 Após criar o novo campo de especificação é necessário associar as labels à ofertas. Para esta etapa, siga as instruções abaixo:
 
-1. No Admin VTEX, acesse **Catálogo > Todos os produtos** ou digite **Todos os produtos** na barra de busca no topo da página.  
-2. Na linha do produto, clique em `Alterar`.  
-3. Acesse a aba **Especificações.**  
+1. No Admin VTEX, acesse **Catálogo > Produtos e SKUs** ou digite **Produtos e SKUs** na barra de busca no topo da página.  
+2. Na linha do produto, clique no botão menu <i class="fas fa-ellipsis-v" aria-hidden="true"></i> .  
+3. Clique em **Editar produto.**  
 4. Preencha o campo `googleshopping-labels` com valores desejados, separando-os por ponto e vírgula`;`.  
 5. Clique em `Salvar`.  
 

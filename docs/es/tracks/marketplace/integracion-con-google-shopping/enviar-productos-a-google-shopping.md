@@ -3,8 +3,8 @@ title: 'Enviar productos a Google Shopping'
 id: 5L5LnccDCj5lJk8H95GQ82
 status: PUBLISHED
 createdAt: 2021-04-15T14:10:45.645Z
-updatedAt: 2025-04-30T18:26:28.314Z
-publishedAt: 2025-04-30T18:26:28.314Z
+updatedAt: 2025-09-08T17:53:08.339Z
+publishedAt: 2025-09-08T17:53:08.339Z
 firstPublishedAt: 2021-04-15T17:41:23.772Z
 contentType: trackArticle
 productTeam: Channels
@@ -23,26 +23,33 @@ Después de configurar la integración y autenticar su cuenta, el envío de prod
 
 > ℹ️ Solo el [usuario titular (owner)](https://help.vtex.com/es/tracks/contas-e-permissoes--5PxyAgZrtiYlaYZBTlhJ2A/56Bd0KpwbvAji1aFs94xdA) tiene permiso para reindexar la base de una tienda VTEX. Durante el periodo de reindexación, que es variable, los productos ingresan en una fila para que se actualicen los datos, pero siguen disponibles para la venta en el sitio web de la tienda.
 
-Para reindexar la base, copia en tu navegador la dirección a continuación y reemplaza «{nomedaloja}» con el nombre de tu tienda:
+Para reindexar la base, copia en tu navegador la dirección a continuación y reemplaza {nombredelatienda} por el nombre de tu tienda:  
+`{nombredelatienda}.vtexcommercestable.com.br/admin/Site/FullCleanUp.aspx`
 
-`{nomedaloja}.vtexcommercestable.com.br/admin/Site/FullCleanUp.aspx`
+Cuando accedas a esta dirección, haz clic en el botón Reindexar base. Puedes seguir el proceso a través del Admin VTEX, en **Catálogo > Informes.**
 
-Al acceder a la dirección, haz clic en el botón «Reindexar base». Puedes seguir el proceso desde el Admin VTEX, en **PRODUCTOS > Catálogo > Informes**.
+### Comprobar la indexación
 
-### Verificar indexación
+Puedes verificar si un SKU específico se ha indexado correctamente en la política comercial de la integración. Para definir un límite sigue los pasos a continuación:  
 
-Es posible verificar si un SKU específico se indexó correctamente a la política comercial de la integración. Para hacerlo, sigue los pasos a continuación:
+1. En el Admin VTEX, accede a Catálogo > Productos y SKUs.  
+2. En la fila del producto, haz clic en el botón menú <i class="fas fa-ellipsis-v" aria-hidden="true"></i>.  
+3. Selecciona la opción `Ver detalles de indexación`.  
+4. Comprueba el status de cada SKU.  
 
-1. En el Admin VTEX, accede a **PRODUCTOS > Productos y SKU**.
-3. Haz clic en la <i class="fas fa-angle-down"></i> flecha hacia abajo, al lado del botón **MODIFICAR**.
-4. Selecciona la opción `Indexed info`.
-5. Verifica si el número de la política comercial que se usó en la integración con el _marketplace_ aparece en la información del SKU.
+Consulta a continuación los mensajes de cada status de indexación:  
+
+| **Status** | **Tipo de mensaje** |
+|---|---|
+| SKU indexados | Sku: 70 - tenis amarillos variación Sales Channel: 1 Sku: 70 Price: 1740.00 Stock: 1 Quantity Sold last month SalesChannel: 1, Sales: 0 |
+| SKU no indexados | Sku: 112 - tenis azules variación Sales Channel: 1 Sku: 112 Sku is UNAVAILABLE - check price and stock, Checkout Info: Code: withoutStock \| Status:error \| Message: el ítem Tenis Action - Masculino - Marino/plateado tenis amarillos variación sin stock Quantity Sold last month SalesChannel: 1, Sales: -1 |
 
 ## Aprobación de productos
 
-os productos cambian a estado activo una vez Google los aprueba, e inmediatamente aparecen en los anuncios de Google Shopping.
+Cuando Google aprueba tus productos, estos se activan automáticamente y comenzarán a aparecer en los anuncios de Google Shopping.
 
-Algún producto podrá mostrar el error Insertion error: Ineligible SKU. Este mensaje significa que el producto no es elegible para la integración. Los productos pueden no ser elegibles por las siguientes razones:
+Algún producto podrá mostrar el error Insertion error: Ineligible SKU. Este mensaje significa que el producto no es elegible para la integración. Los productos pueden no ser elegibles por las siguientes razones:  
+
 - El producto no tiene precio.
 - El producto no tiene imagen.
 - El producto no tiene _stock_ y se configuró para que se excluya cuando no tenga _stock_.
@@ -64,6 +71,39 @@ En Google Shopping, los productos caducan automáticamente si no se actualizan e
 Sin embargo, no es algo que le deba preocupar ya que en la integración con la plataforma VTEX, **el sistema actualiza los productos automáticamente cada 29 días.**
 
 > ℹ️ Puede haber un retraso de hasta 30 minutos entre que se procesa el cambio de los datos de un producto y la actualización en el _feed_.
+
+## Uso de etiquetas personalizadas
+
+Además de la información básica del producto, puedes enviar etiquetas personalizadas a Google Shopping. Este recurso se llama *etiquetas personalizadas* y permite clasificar ofertas basadas en criterios definidos por ti, como campañas promocionales, estacionalidad, márgenes o público objetivo.  
+
+Las *etiquetas* son útiles para:  
+
+- Organizar campañas de Google Ads.  
+- Crear filtros personalizados para informes.  
+- Optimizar la segmentación y el desempeño de los anuncios.  
+
+### Configurar etiquetas personalizadas 
+
+Debes crear las *etiquetas personalizadas* en Google Merchant Center. Después de crearlas, sigue el tutorial [Registrar especificaciones o campos de producto](https://help.vtex.com/es/tutorial/cadastrar-especificacoes-ou-campos-de-produto--tutorials_106) para asociarlas a una oferta específica utilizando **especificaciones de productos.**  
+
+Al crear un nuevo campo de especificación, completa los valores de la siguiente manera:  
+
+| **Campo** | **Valor** |
+|:---: | :---: |
+| Nombre del campo de la especificación | `googleshopping-labels`|
+|Tipo de campo | Radio |
+
+Después de crear el nuevo campo de especificación, el siguiente paso es asociar las etiquetas personalizadas a las ofertas correspondientes siguiendo los pasos a continuación:  
+
+1. En el Admin VTEX, accede a **Catálogo > Productos y SKUs** o ingresa **Productos y SKUs** en la barra de búsqueda en la parte superior de la página.  
+2. En la fila del producto, haz clic en el botón menú <i class="fas fa-ellipsis-v" aria-hidden="true"></i> .  
+3. Haz clic en **Editar producto.**  
+4. Llena el campo `googleshopping-labels` con los valores deseados, separándolos con punto y coma `;`.  
+5. Haz clic en `Guardar`.  
+
+<div class=”alert alert-warning”>
+Cada oferta puede tener un máximo de cinco etiquetas asociadas. 
+</div>  
 
 ## Modificar la categorización automática
 

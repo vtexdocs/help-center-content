@@ -3,8 +3,8 @@ title: 'Sending products to Google Shopping'
 id: 5L5LnccDCj5lJk8H95GQ82
 status: PUBLISHED
 createdAt: 2021-04-15T14:10:45.645Z
-updatedAt: 2025-04-30T18:26:28.314Z
-publishedAt: 2025-04-30T18:26:28.314Z
+updatedAt: 2025-09-08T17:53:08.339Z
+publishedAt: 2025-09-08T17:53:08.339Z
 firstPublishedAt: 2021-04-15T17:41:23.772Z
 contentType: trackArticle
 productTeam: Channels
@@ -15,7 +15,7 @@ trackSlugEN: integrating-with-google-shopping
 order: 7
 ---
 
-Only catalogs can be integrated with Google Shopping. Unlike other integrations, **you do not have to map products using a spreadsheet.**
+In Google Shopping, only catalogs can be integrated with Google Shopping. Unlike other integrations, **you do not have to map products using a spreadsheet.**
 
 ## Reindexing the database
 
@@ -27,25 +27,33 @@ To reindex the database, paste the link below in your browser, replacing the `{s
 
 `{storename}.vtexcommercestable.com.br/admin/Site/FullCleanUp.aspx`
 
-Access the link and click the `Reindex database` button. You can track the process in the VTEX Admin, through **PRODUCTS > Catalog > Reports**.
+Access the link and click the `Reindex database` button. You can track the process in the VTEX Admin, through **Catalog > Reports**.
 
-### Checking the index
+### Checking index
 
 You can verify if a specific SKU has been indexed correctly to the integration trade policy. Follow the steps below:
 
-1. In the VTEX Admin, access **PRODUCTS > Products and SKUs**.
-2. Click the <i class="fas fa-angle-down"></i> down arrow, next to the **CHANGE** button.
-3. Select the `Indexed Info` option.
-4. Check if the number of the trade policy used in the integration with the marketplace appears in the SKU information.
+1. In the VTEX Admin, access **Catalog > Products and SKUs**.
+2. Click the menu button <i class="fas fa-angle-down"></i> .  
+3. Select the `View indexed info` option.
+4. Check the status of each SKU. 
 
-## Approving products
+See below the messages for each indexing status:  
+
+| **Status** | **Message examples** |
+|---|---|
+| Indexed SKUs | Sku: 70 - yellow sneakers variation Sales Channel: 1 Sku: 70 Price: 1740.00 Stock: 1 Quantity Sold last month SalesChannel: 1, Sales: 0 |
+| Unindexed SKUs	 | Sku: 112 - blue sneakers variation Sales Channel: 1 Sku: 112 Sku is UNAVAILABLE - check price and stock, Checkout Info: Code: withoutStock \| Status:error \| Message: The item Sneakers – Male – Navy/silver yellow sneaker variation is out of stock Quantity Sold last month SalesChannel: 1, Sales: -1 |
+
+## Product approval
 
 Once your items are approved by Google, they will become active and will be immediately displayed as ads on Google Shopping.
 
-A product may eventually report the Insertion error: `Ineligible SKU`. This means that the product was considered ineligible for integration. Products may be ineligible for the following reasons:
-- The product has no price.
-- The product has no image.
-- The product is out of stock, and it has been configured to be deleted in this scenario.
+A product may eventually report the Insertion error: `Ineligible SKU`. This means that the product was considered ineligible for integration. Products may be ineligible for the following reasons:  
+
+- The product has no price.  
+- The product has no image.  
+- The product is out of stock, and it has been configured to be deleted in this scenario.  
 
 **If a product is disapproved, you will have to review its data and submit it again**. You can track the status of your products on Google Merchant Center.
 
@@ -64,6 +72,39 @@ On Google Shopping, products automatically expire if they are not updated within
 However, you do not have to worry about that. Once the integration with the VTEX Platform connector is completed, **the system will automatically update products every 29 days.**
 
 > ℹ️ There may be a delay of up to 30 minutes between processing a product's data change and updating it in the feed.
+
+## Using custom labels
+
+In addition to basic product information, you can upload custom labels to Google Shopping. This feature is called *custom labels* and allows you to classify offers based on criteria you define, such as promotional campaigns, seasonality, margins, or target audience.  
+
+*Custom labels* are useful for:  
+
+- Organizing Google Ads campaigns  
+- Creating custom filters for reports  
+- Optimizing ad targeting and performance  
+
+### How to configure it
+
+You need to create *custom labels* in the Google Merchant Center. After creating the *custom labels* in the Google Merchant Center, follow the tutorial [Adding product specifications or fields](https://help.vtex.com/en/tutorial/cadastrar-especificacoes-ou-campos-de-produto--tutorials_106) to associate them with a specific offer using **product specifications.**  
+
+When creating the new product specification field, complete it with the following values:  
+
+| **Field** | **Value** |
+|:---: | :---: |
+| Specification field name | `googleshopping-labels`|
+| Field type | Radio |
+
+After creating the new specification field, you must associate the labels with the offers. For this step, follow the steps below:  
+
+1. In the VTEX Admin, go to **Catalog > Products and SKUs** or type **Products and SKUs** in the search bar at the top of the page.  
+2. On the product row, click the menu button <i class="fas fa-ellipsis-v" aria-hidden="true"></i>.  
+3. Click **Edit product**.  
+4. Complete the `googleshopping-labels` field with the desired values, separating them with a semicolon`;`.  
+5. Click `Save`.  
+
+<div class=”alert alert-warning”>
+Each offer can have a maximum of five associated labels. 
+</div>
 
 ## Modifying the automatic categorization
 
