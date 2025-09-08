@@ -50,7 +50,7 @@ In the <i class="fas fa-search" aria-hidden="true"></i>`Search` field, you can s
 
 At the top of the page, you'll find interaction dates. You can click a date to change the time range and filter the results.
 
-![Imagem Supervisor [EN]](//images.ctfassets.net/alneenqid6w5/5Uqo1q2IiTHirEU2NN3QJl/146bae3fd26be1b0339010d95fe5eed5/Screenshot_2025-09-08_at_12.09.48.png)
+![Imagem Supervisor](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/agent-builder/agent-builder-overview_1.png)
 
 ## Profile
 

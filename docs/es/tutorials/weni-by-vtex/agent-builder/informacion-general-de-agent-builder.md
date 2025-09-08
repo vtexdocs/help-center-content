@@ -50,7 +50,7 @@ En el campo <i class="fas fa-search" aria-hidden="true"></i>`Buscar`, puedes bus
 
 En la parte superior se encuentran las fechas de las interacciones. Puedes hacer clic en la fecha para cambiar el periodo de tiempo y filtrar los resultados que aparecen.
 
-![Imagem Supervisor [ES]](//images.ctfassets.net/alneenqid6w5/5Uqo1q2IiTHirEU2NN3QJl/b03b2fdd958b0989ef059246414cf921/Screenshot_2025-09-08_at_12.04.28.png)
+![Imagem Supervisor](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/agent-builder/informacion-general-de-agent-builder_1.png)
 
 ## Perfil
 
