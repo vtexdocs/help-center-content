@@ -3,8 +3,8 @@ title: 'Installing Live Shopping'
 id: 5r4DSCZCdQUErgJzLGtiMD
 status: PUBLISHED
 createdAt: 2025-07-23T17:40:02.306Z
-updatedAt: 2025-07-28T15:07:26.166Z
-publishedAt: 2025-07-28T15:07:26.166Z
+updatedAt: 2025-09-06T18:28:42.388Z
+publishedAt: 2025-09-06T18:28:42.388Z
 firstPublishedAt: 2025-07-28T15:07:26.166Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -28,16 +28,15 @@ Except for external stores, all other frontend solutions must have [VTEX IO CLI]
 
 ## Getting the Live Shopping app
 
-Unless you are an external stores, you must follow the steps below:
+Unless you are an external store, you must follow the steps below:
 
-1. Access [VTEX Live Shopping](https://apps.vtex.com/vtexventures-livestreaming/p) on VTEX App Store.
-2. Click `Get app` to install the app. Log in to your VTEX account, if necessary.
+1. Access [VTEX Live Shopping](https://apps.vtex.com/vtexventures-livestreaming/p) on VTEX App Store. You can also access it via the VTEX Admin through **Apps > App Store > VTEX Live Shopping**.
+2. Click `Get app` to install the app. Log in to your VTEX account if necessary.
 3. Click `Place order`.
 4. Click `Go to install page`.
 5. Click `Install`.
-6. Agree to the terms of service by clicking `Install`.
+6. Agree to the Terms of Service by clicking `Install`.
 
 ## Installation steps for VTEX IO
 
-Since **VTEX Live Shopping** impacts your storefront by displaying the component when the event begins, your technical team must implement it according to the instructions provided in our [documentation for developers](https://developers.vtex.com/docs/apps/vtexventures.livestreaming#for-vtex-io).
-
+Since **VTEX Live Shopping** impacts your storefront by displaying a component when the event begins, your technical team must implement it following the instructions provided in our [developer documentation](https://developers.vtex.com/docs/apps/vtexventures.livestreaming#for-vtex-io).

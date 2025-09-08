@@ -10552,12 +10552,12 @@
                 {
                   "name": {
                     "en": "3. Validating installation",
-                    "es": "3. Validar instalación",
+                    "es": "3. Validar la instalación",
                     "pt": "3. Validar instalação"
                   },
                   "slug": {
                     "en": "validating-installation",
-                    "es": "validar-a-instalacao",
+                    "es": "validar-la-instalacion",
                     "pt": "validar-instalacao"
                   },
                   "origin": "",
@@ -10581,9 +10581,24 @@
                 },
                 {
                   "name": {
-                    "en": "5. Creating event",
-                    "es": "5. Crear evento",
-                    "pt": "5. Criar evento"
+                    "en": "5. Placing the Live Shopping component",
+                    "es": "5. Insertar componente de Live Shopping",
+                    "pt": "5. Adicionar componente do Live Shopping"
+                  },
+                  "slug": {
+                    "en": "placing-the-live-shopping-component",
+                    "es": "insertar-componente-de-live-shopping",
+                    "pt": "adicionar-componente-do-live-shopping"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "6. Creating an event",
+                    "es": "6. Crear un evento",
+                    "pt": "6. Criar evento"
                   },
                   "slug": {
                     "en": "creating-event",
@@ -10596,9 +10611,9 @@
                 },
                 {
                   "name": {
-                    "en": "6. Turning on event",
-                    "es": "6. Iniciar evento",
-                    "pt": "6. Iniciar evento"
+                    "en": "7. Turning on an event",
+                    "es": "7. Iniciar un evento",
+                    "pt": "7. Iniciar evento"
                   },
                   "slug": {
                     "en": "turning-on-event",
@@ -10611,9 +10626,9 @@
                 },
                 {
                   "name": {
-                    "en": "7. Configuring event",
-                    "es": "7. Configurar evento",
-                    "pt": "7. Configurar evento"
+                    "en": "8. Configuring the event",
+                    "es": "8. Configurar el evento",
+                    "pt": "8. Configurar evento"
                   },
                   "slug": {
                     "en": "configuring-event",
@@ -10626,9 +10641,9 @@
                 },
                 {
                   "name": {
-                    "en": "8. Using Bundle studio",
-                    "es": "8. Usar studio Bundle",
-                    "pt": "8. Usar studio Bundle"
+                    "en": "9. Using Bundle studio",
+                    "es": "9. Utilizar el estudio Bundle",
+                    "pt": "9. Usar studio Bundle"
                   },
                   "slug": {
                     "en": "using-bundle-studio",
@@ -10641,9 +10656,9 @@
                 },
                 {
                   "name": {
-                    "en": "9. (Optional) Using external studios",
-                    "es": "9. (Opcional) Usar studio externo",
-                    "pt": "9. (Opcional) Usar studio externo"
+                    "en": "10. (Optional) Using external studios",
+                    "es": "10. (Opcional) Usar studio externo",
+                    "pt": "10. (Opcional) Usar studio externo"
                   },
                   "slug": {
                     "en": "optional-using-external-studios",
@@ -10656,9 +10671,9 @@
                 },
                 {
                   "name": {
-                    "en": "10. Transmitting event from Bundle",
-                    "es": "10. Transmitir evento desde Bundle",
-                    "pt": "10. Transmitir evento a partir do Bundle"
+                    "en": "11. Transmitting event from Bundle",
+                    "es": "11. Transmitir evento desde Bundle",
+                    "pt": "11. Transmitir evento a partir do Bundle"
                   },
                   "slug": {
                     "en": "transmitting-event-from-bundle",
@@ -10671,9 +10686,9 @@
                 },
                 {
                   "name": {
-                    "en": "11. Hiding or removing Live Shopping component",
-                    "es": "11. Ocultar o eliminar componente de Live Shopping",
-                    "pt": "11. Ocultar ou remover componente do Live Shopping"
+                    "en": "12. Hiding or removing Live Shopping component",
+                    "es": "12. Ocultar o eliminar componente de Live Shopping",
+                    "pt": "12. Ocultar ou remover componente do Live Shopping"
                   },
                   "slug": {
                     "en": "hiding-or-removing-live-shopping-component",
@@ -10686,9 +10701,9 @@
                 },
                 {
                   "name": {
-                    "en": "12. Getting event recording",
-                    "es": "12. Obtener la grabación del evento",
-                    "pt": "12. Obter gravação do evento"
+                    "en": "13. Getting event recording",
+                    "es": "13. Obtener la grabación del evento",
+                    "pt": "13. Obter gravação do evento"
                   },
                   "slug": {
                     "en": "getting-event-recording",
@@ -33490,6 +33505,21 @@
               "origin": "",
               "type": "category",
               "children": [
+                {
+                  "name": {
+                    "en": "Add a store",
+                    "es": "Agregar una tienda",
+                    "pt": "Adicionar uma loja"
+                  },
+                  "slug": {
+                    "en": "add-a-store",
+                    "es": "agregar-una-tienda",
+                    "pt": "adicionar-uma-loja"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
                 {
                   "name": {
                     "en": "Create or reset password to access the Indeva platform",
