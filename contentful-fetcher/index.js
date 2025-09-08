@@ -264,7 +264,7 @@ async function main() {
       frequentlyAskedQuestion: "faq",
     };
 
-    const requestedTypes = args.contentType?.split(",") ?? [];
+    const requestedTypes = args.contentType?.split(",") ?? allowedTypes;
     const foldersToUpdate = requestedTypes
       .map((type) => folderMap[type])
       .filter(Boolean);

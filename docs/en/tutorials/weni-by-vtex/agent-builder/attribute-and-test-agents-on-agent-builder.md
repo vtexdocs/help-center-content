@@ -1,10 +1,10 @@
 ---
-title: 'Attribute and test agents on Agent Builder'
+title: 'Assigning and testing agents'
 id: 41beBpRcBouxMywt6dUW2z
 status: PUBLISHED
 createdAt: 2025-07-09T18:14:18.864Z
-updatedAt: 2025-09-03T20:22:14.746Z
-publishedAt: 2025-09-03T20:22:14.746Z
+updatedAt: 2025-09-08T16:16:49.705Z
+publishedAt: 2025-09-08T16:16:49.705Z
 firstPublishedAt: 2025-07-29T16:38:35.307Z
 contentType: tutorial
 productTeam: Post-purchase

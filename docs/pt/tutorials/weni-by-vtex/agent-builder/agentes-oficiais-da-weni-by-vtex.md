@@ -3,8 +3,8 @@ title: 'Agentes oficiais da Weni by VTEX'
 id: 7E8wlD3T41CiOexDVH1SIy
 status: PUBLISHED
 createdAt: 2025-07-18T17:25:54.700Z
-updatedAt: 2025-07-29T16:33:54.447Z
-publishedAt: 2025-07-29T16:33:54.447Z
+updatedAt: 2025-09-08T16:20:48.306Z
+publishedAt: 2025-09-08T16:20:48.306Z
 firstPublishedAt: 2025-07-29T16:33:54.447Z
 contentType: tutorial
 productTeam: Post-purchase
