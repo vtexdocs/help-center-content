@@ -33306,8 +33306,23 @@
               "children": [
                 {
                   "name": {
-                    "en": "Attribute and test agents on Agent Builder",
-                    "es": "Asignar y testar agentes en el Agent Builder",
+                    "en": "Agent Builder overview",
+                    "es": "Visión de conjunto del Agent Builder",
+                    "pt": "Visão geral Agent Builder"
+                  },
+                  "slug": {
+                    "en": "agent-builder-overview",
+                    "es": "vision-de-conjunto-del-agent-builder",
+                    "pt": "visao-geral-agent-builder"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Assigning and testing agents",
+                    "es": "Cómo asignar y probar un agente",
                     "pt": "Atribuir e testar agentes no Agent Builder"
                   },
                   "slug": {
@@ -33321,22 +33336,7 @@
                 },
                 {
                   "name": {
-                    "es": "Visión de conjunto del Agent Builder",
-                    "pt": "Visão geral Agent Builder",
-                    "en": "Visión de conjunto del Agent Builder"
-                  },
-                  "slug": {
-                    "es": "vision-de-conjunto-del-agent-builder",
-                    "pt": "visao-geral-agent-builder",
-                    "en": ""
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Weni by VTEX's official Agents",
+                    "en": "Official Weni by VTEX agents",
                     "es": "Agentes oficiales de Weni by VTEX",
                     "pt": "Agentes oficiais da Weni by VTEX"
                   },
@@ -33493,6 +33493,37 @@
           "children": [
             {
               "name": {
+                "en": "Overview",
+                "es": "Visión general",
+                "pt": "Visão geral"
+              },
+              "slug": {
+                "en": "overview",
+                "es": "vision-general",
+                "pt": "visao-geral"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Overview Panel",
+                    "es": "Panel general",
+                    "pt": "Painel Visão Geral"
+                  },
+                  "slug": {
+                    "en": "overview-panel-indeva",
+                    "es": "panel-general-indeva",
+                    "pt": "painel-visao-geral-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "User account",
                 "es": "Cuenta de usuario",
                 "pt": "Conta do usuário"
@@ -33505,6 +33536,36 @@
               "origin": "",
               "type": "category",
               "children": [
+                {
+                  "name": {
+                    "en": "Access the financial area",
+                    "es": "Acceder al área financiera",
+                    "pt": "Acessar a área financeira"
+                  },
+                  "slug": {
+                    "en": "access-the-financial-area-indeva",
+                    "es": "acceder-al-area-financiera-indeva",
+                    "pt": "acessar-a-area-financeira-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Add a store",
+                    "es": "Agregar una tienda",
+                    "pt": "Adicionar uma loja"
+                  },
+                  "slug": {
+                    "en": "add-a-store-indeva",
+                    "es": "agregar-una-tienda-indeva",
+                    "pt": "adicionar-uma-loja-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
                 {
                   "name": {
                     "en": "Add a store",
@@ -33522,6 +33583,21 @@
                 },
                 {
                   "name": {
+                    "en": "Cancel a subscription",
+                    "es": "Cancelar una suscripción",
+                    "pt": "Cancelar uma assinatura"
+                  },
+                  "slug": {
+                    "en": "cancel-a-subscription-indeva",
+                    "es": "cancelar-una-suscripcion-indeva",
+                    "pt": "cancelar-uma-assinatura-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Create or reset password to access the Indeva platform",
                     "es": "Crear o restablecer la contraseña para acceder a la plataforma Indeva",
                     "pt": "Cadastrar ou redefinir senha para acesso à plataforma Indeva"
@@ -33530,6 +33606,36 @@
                     "en": "create-or-reset-password-to-access-the-indeva-platform",
                     "es": "crear-o-restablecer-la-contrasena-para-acceder-a-la-plataforma-indeva",
                     "pt": "cadastrar-ou-redefinir-senha-para-acesso-a-plataforma-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Navigate the financial area",
+                    "es": "Navegar en el área financiera",
+                    "pt": "Navegar na área financeira"
+                  },
+                  "slug": {
+                    "en": "navigate-the-financial-area-indeva",
+                    "es": "navegar-en-el-area-financiera-indeva",
+                    "pt": "navegar-na-area-financeira-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Update user account information",
+                    "es": "Actualizar la información de la cuenta de usuario",
+                    "pt": "Atualizar dados da conta do usuário"
+                  },
+                  "slug": {
+                    "en": "update-user-account-information-indeva",
+                    "es": "actualizar-la-informacion-de-la-cuenta-de-usuario-indeva",
+                    "pt": "atualizar-dados-da-conta-do-usuario-indeva"
                   },
                   "origin": "",
                   "type": "markdown",
