@@ -25,6 +25,67 @@
           "children": [
             {
               "name": {
+                "en": "September",
+                "es": "Septiembre",
+                "pt": "Setembro"
+              },
+              "slug": {
+                "en": "september",
+                "es": "septiembre",
+                "pt": "setembro"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Checkout: New reCAPTCHA validation",
+                    "es": "Checkout: nueva validación de reCAPTCHA",
+                    "pt": "Checkout: nova validação do reCAPTCHA"
+                  },
+                  "slug": {
+                    "en": "2025-09-01-checkout-new-recaptcha-validation",
+                    "es": "2025-09-01-checkout-nueva-validacion-de-recaptcha",
+                    "pt": "2025-09-01-checkout-nova-validacao-do-recaptcha"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "New Campaign Promotion form",
+                    "es": "Nuevo formulario de promoción Campaña",
+                    "pt": "Novo formulário de Promoção de Campanha"
+                  },
+                  "slug": {
+                    "en": "2025-09-08-new-campaign-promotion-form",
+                    "es": "2025-09-08-nuevo-formulario-de-promocion-campana",
+                    "pt": "2025-09-08-novo-formulario-de-promocao-de-campanha"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Shopping Season: Get your store ready with our best practices guide",
+                    "es": "Temporada de Compras: Prepare su tienda con nuestra guía de buenas prácticas",
+                    "pt": "Black Friday: Prepare sua loja com a nossa cartilha de boas práticas"
+                  },
+                  "slug": {
+                    "en": "2025-09-05-2025-shopping-season-get-your-store-ready-with-our-best-practices-guide",
+                    "es": "2025-09-05-2025-temporada-de-compras-prepare-su-tienda-con-nuestra-guia-de-buenas-practicas",
+                    "pt": "2025-09-05-2025-black-friday-prepare-sua-loja-com-a-nossa-cartilha-de-boas-praticas"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "August",
                 "es": "Agosto",
                 "pt": "Agosto"
@@ -579,37 +640,6 @@
                     "en": "2025-01-21-optimize-logistics-with-operational-capacity-beta",
                     "es": "2025-01-21-optimiza-logistica-con-capacidad-operativa-beta",
                     "pt": "2025-01-21-otimize-logistica-com-capacidade-operacional-beta"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "September",
-                "es": "Septiembre",
-                "pt": "Setembro"
-              },
-              "slug": {
-                "en": "september",
-                "es": "septiembre",
-                "pt": "setembro"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Shopping Season: Get your store ready with our best practices guide",
-                    "es": "Temporada de Compras: Prepare su tienda con nuestra guía de buenas prácticas",
-                    "pt": "Black Friday: Prepare sua loja com a nossa cartilha de boas práticas"
-                  },
-                  "slug": {
-                    "en": "2025-09-05-2025-shopping-season-get-your-store-ready-with-our-best-practices-guide",
-                    "es": "2025-09-05-2025-temporada-de-compras-prepare-su-tienda-con-nuestra-guia-de-buenas-practicas",
-                    "pt": "2025-09-05-2025-black-friday-prepare-sua-loja-com-a-nossa-cartilha-de-boas-praticas"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -10688,8 +10718,8 @@
                 {
                   "name": {
                     "en": "10. (Optional) Using external studios",
-                    "es": "10. (Opcional) Usar studio externo",
-                    "pt": "10. (Opcional) Usar studio externo"
+                    "es": "10. (Opcional) Utilizar estudios externos",
+                    "pt": "10. (Opcional) Usar studios externos"
                   },
                   "slug": {
                     "en": "optional-using-external-studios",
@@ -10702,9 +10732,9 @@
                 },
                 {
                   "name": {
-                    "en": "11. Transmitting event from Bundle",
-                    "es": "11. Transmitir evento desde Bundle",
-                    "pt": "11. Transmitir evento a partir do Bundle"
+                    "en": "11. Transmitting events from Bundle",
+                    "es": "11. Transmitir eventos en Bundle",
+                    "pt": "11. Transmitir eventos no Bundle"
                   },
                   "slug": {
                     "en": "transmitting-event-from-bundle",
