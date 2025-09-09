@@ -3,8 +3,8 @@ title: 'New mandatory fields for invoice issuance'
 id: 5jDozNwc272jtq92dvKQkq
 status: PUBLISHED
 createdAt: 2025-08-29T23:29:00.226Z
-updatedAt: 2025-09-03T19:34:42.268Z
-publishedAt: 2025-09-03T19:34:42.268Z
+updatedAt: 2025-09-09T13:48:45.545Z
+publishedAt: 2025-09-09T13:48:45.545Z
 contentType: updates
 productTeam: Channels
 author: 2p7evLfTcDrhc5qtrzbLWD

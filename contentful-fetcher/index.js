@@ -22,16 +22,6 @@ const fs = require("fs");
 const path = require("path");
 
 async function main() {
-  const args = minimist(process.argv.slice(2));
-  const cleanDocs = !!args.cleanDocs;
-  let contentTypes = args.contentType?.split(",") ?? [
-    "trackArticle",
-    "tutorial",
-  ];
-  const skipImages = args.skipImages;
-  const skipWrite = args.skipWrite;
-  const updatedAfter = args.updatedAfter;
-
   const allowedTypes = [
     "trackArticle",
     "tutorial",
@@ -39,6 +29,14 @@ async function main() {
     "frequentlyAskedQuestion",
     "troubleshooting",
   ];
+
+  const args = minimist(process.argv.slice(2));
+  const cleanDocs = !!args.cleanDocs;
+  let contentTypes = args.contentType?.split(",") ?? allowedTypes;
+  const skipImages = args.skipImages;
+  const skipWrite = args.skipWrite;
+  const updatedAfter = args.updatedAfter;
+
   const invalidTypes = contentTypes.filter((t) => !allowedTypes.includes(t));
 
   if (invalidTypes.length > 0) {
