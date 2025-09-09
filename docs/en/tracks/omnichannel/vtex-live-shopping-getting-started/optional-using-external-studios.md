@@ -3,8 +3,8 @@ title: '(Optional) Using external studios'
 id: Dw0QdKI0aGjmyD5Z6z5JC
 status: PUBLISHED
 createdAt: 2025-07-23T18:10:11.675Z
-updatedAt: 2025-07-28T16:13:12.740Z
-publishedAt: 2025-07-28T16:13:12.740Z
+updatedAt: 2025-09-08T22:09:33.139Z
+publishedAt: 2025-09-08T22:09:33.139Z
 firstPublishedAt: 2025-07-28T15:08:28.675Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -15,47 +15,46 @@ trackSlugEN: vtex-live-shopping-getting-started
 order: 9
 ---
 
-> ⚠️ This article is exclusive for accounts broadcasting events from other studios than Bundle.
+> ⚠️ This article only applies to accounts broadcasting events from studios different from Bundle.
 
-Besides the Bundle studio, **Live Shopping** events can be transmitted by other studios while keeping the same functionalities, for example:
+In addition to the Bundle studio, **Live Shopping** events can be transmitted from external studios with the same functionalities. Some examples are:
 
 * StreamYard
 * OBS
 * Streamlabs
 * vMix
 
-## Connecting external studio
+## Connecting an external studio
 
 To configure external studio solutions, follow these steps:
 
-1. In your VTEX Admin, [create](https://help.vtex.com/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv) the event.
+1. In the VTEX Admin, [create](https://help.vtex.com/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv) the event.
 2. In the **Events** page, click the event arrow button to go to the **Event Information** page.
 3. [Turn on](https://help.vtex.com/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/6NrWRLAJEHijcd6tLIWoqq) the event.
 4. In the [Details](https://help.vtex.com/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/6NrWRLAJEHijcd6tLIWoqq#event-details) section, copy the **Inbound server** and **Server key** information.
-5. In the stream settings of the external studio, fill the fields as shown below:
-    * **Server:** Insert the Inbound server value.
-    * **Server Key:** Insert the Server key value.
+5. In the stream settings of the external studio, complete the fields as shown below:
+    * **Server:** Enter the Inbound server value.
+    * **Server Key:** Enter the Server key value.
 
-> ℹ️ Before the **Go Live**, we recommend you to have an image as a placeholder before starting presenting the event, in order to validate the transmission. The reason is that you might need to adjust final configurations, and then the audience will view this image.
+> ℹ️ Before clicking **Go Live**, we recommend using an image as a placeholder before starting to present to validate the transmission. This allows you to make final adjustments and avoids showing a black screen to the audience.
 
-## Setting quality transmission
+## Setting up a quality transmission
 
-For a high quality transmission, including streaming to devices with limited internet signal, you must configure the fields below with certain values:
+For a high-quality transmission, including streaming to devices with limited internet signal, you must configure the fields below with certain values:
 
-* **Output > IngestVideoBitrate:** Around 2.400.528 bits / 2400.528 kbps / 2.4 Mb/s.
-* **Output > IngestAudioBitrate:** Around 150.000 bits / 150 kbps.
-* **Video > IngestFramerate:** Around 30 fps.
-* **Output > KeyframeInterval:** Around 2 seconds.
+* **Output > IngestVideoBitrate:** Around 2.400.528 bits/2400.528 kbps/2.4 Mb/s
+* **Output > IngestAudioBitrate:** Around 150.000 bits/150 kbps
+* **Video > IngestFramerate:** Around 30 fps
+* **Output > KeyframeInterval:** Around 2 seconds
 
-## Transmitting event from external studio
+## Transmitting the event from an external studio
 
-After [configuring where to display the Live Shopping component](https://help.vtex.com/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/4r5uk6XHxdYlOGMr11GFWR), and checking with the preview if everything is working properly, you can start transmitting the event. Since the step by step for that will vary according to each studio, we recommend looking for the studio official documentation.
+After [configuring the placement of the Live Shopping component](https://help.vtex.com/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/4r5uk6XHxdYlOGMr11GFWR) and using the preview to make sure everything is working properly, you can start transmitting the event. Since the steps vary for each studio, we recommend checking the official documentation of that particular studio. 
 
 > ❗ When using external studios, don't try to duplicate the transmission via Bundle. Live Shopping allows one transmission per studio, and the platform will recognize only the first studio transmitting the event.
 
-## After live-streaming from external studio
+## After live streaming from an external studio
 
-When the transmission has ended and the event [status](https://help.vtex.com/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv#event-status) is `Completed`, you must hide the **Live Shopping** component or remove the script, depending on your frontend solution. While you don’t take this action, the audience will continue to see the black display in your site or landing page.
+When the transmission has ended and the event [status](https://help.vtex.com/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv#event-status) is `Completed`, you must hide the **Live Shopping** component or remove the script, depending on your frontend solution.The audience will continue to see the black screen on your site or landing page until you complete this step.
 
-For the complete step by step, check [Hiding or removing Live Shopping component](https://help.vtex.com/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/7e3bP6LjFgxXC210jSpl59).
-
+For the complete instructions, check [Hiding or removing the Live Shopping component](https://help.vtex.com/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/7e3bP6LjFgxXC210jSpl59).
