@@ -585,6 +585,37 @@
                   "children": []
                 }
               ]
+            },
+            {
+              "name": {
+                "en": "September",
+                "es": "Septiembre",
+                "pt": "Setembro"
+              },
+              "slug": {
+                "en": "september",
+                "es": "septiembre",
+                "pt": "setembro"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Shopping Season: Get your store ready with our best practices guide",
+                    "es": "Temporada de Compras: Prepare su tienda con nuestra guía de buenas prácticas",
+                    "pt": "Black Friday: Prepare sua loja com a nossa cartilha de boas práticas"
+                  },
+                  "slug": {
+                    "en": "2025-09-05-2025-shopping-season-get-your-store-ready-with-our-best-practices-guide",
+                    "es": "2025-09-05-2025-temporada-de-compras-prepare-su-tienda-con-nuestra-guia-de-buenas-practicas",
+                    "pt": "2025-09-05-2025-black-friday-prepare-sua-loja-com-a-nossa-cartilha-de-boas-praticas"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
             }
           ]
         },
@@ -35702,6 +35733,21 @@
             },
             {
               "name": {
+                "en": "DefaultValue property doesn't update on specification API",
+                "es": "La propiedad DefaultValue no se actualiza en la API de especificación",
+                "pt": "A propriedade DefaultValue não é atualizada na API de especificação"
+              },
+              "slug": {
+                "en": "defaultvalue-property-doesnt-update-on-specification-api",
+                "es": "la-propiedad-defaultvalue-no-se-actualiza-en-la-api-de-especificacion",
+                "pt": "a-propriedade-defaultvalue-nao-e-atualizada-na-api-de-especificacao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Deleting Collections on the New Admin is not Reindexing the Products",
                 "es": "La eliminación de colecciones en el nuevo administrador no reincide en los productos",
                 "pt": "A eliminação de cobranças na nova administração não está reindexando os produtos"
@@ -37375,6 +37421,21 @@
                 "en": "something-went-wrong-error-is-displayed-in-the-catalog-admin",
                 "es": "aparece-un-error-en-la-administracion-del-catalogo",
                 "pt": "o-erro-something-went-wrong-e-exibido-no-administrador-do-catalogo"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Special characters might break on portal results for field values",
+                "es": "Los caracteres especiales podrían romperse en los resultados del portal para los valores de campo",
+                "pt": "Caracteres especiais podem ser quebrados nos resultados do portal para valores de campo"
+              },
+              "slug": {
+                "en": "special-characters-might-break-on-portal-results-for-field-values",
+                "es": "los-caracteres-especiales-podrian-romperse-en-los-resultados-del-portal-para-los-valores-de-campo",
+                "pt": "caracteres-especiais-podem-ser-quebrados-nos-resultados-do-portal-para-valores-de-campo"
               },
               "origin": "",
               "type": "markdown",
@@ -43620,6 +43681,21 @@
                 "en": "shopee-error-when-updating-commercial-policy-in-the-integration-card-setup",
                 "es": "shopee-error-al-actualizar-la-politica-comercial-en-la-configuracion-de-la-tarjeta-de-integracion",
                 "pt": "shopee-erro-ao-atualizar-a-politica-comercial-na-configuracao-do-cartao-de-integracao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Shopee The level of tier-variation not change",
+                "es": "Shopee El nivel de tier-variación no cambia",
+                "pt": "Shopee O nível de variação de nível não muda"
+              },
+              "slug": {
+                "en": "shopee-the-level-of-tiervariation-not-change",
+                "es": "shopee-el-nivel-de-tiervariacion-no-cambia",
+                "pt": "shopee-o-nivel-de-variacao-de-nivel-nao-muda"
               },
               "origin": "",
               "type": "markdown",
