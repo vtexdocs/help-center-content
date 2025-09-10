@@ -15,8 +15,8 @@ Welcome to the [VTEX Help Center](https://help.vtex.com/) content repository!
   - [Settings for specific content](#settings-for-specific-content)
 - [GitHub Actions](#github-actions)
   - [Navigation Generation](#navigation-generation)
-  - [Help Center Batch Files Scraper](#help-center-batch-files-scraper)
-  - [Help Center Changed Files Scraper](#help-center-changed-files-scraper)
+  - [Broken Page Finder](#broken-page-finder)
+  - [Changelog Generation](#changelog-generation)
   - [Retrieve Docs from Contentful](#retrieve-docs-from-contentful)
 
 ## In this repository
@@ -192,7 +192,7 @@ Track articles' titles must contain the reference numbers in the navigation side
 
 ## GitHub Actions
 
-This repository uses GitHub Actions for automating various tasks related to content management and search indexing. Below are details about each workflow.
+This repository uses GitHub Actions for automating various tasks related to content management, navigation generation, and documentation maintenance. Below are details about each workflow.
 
 ### Navigation Generation
 
@@ -254,44 +254,68 @@ This repository uses GitHub Actions for automating various tasks related to cont
 - Workflow includes comprehensive logging for debugging and monitoring
 - Safe for concurrent execution with other workflows due to branch-specific concurrency controls
 
-### Help Center Batch Files Scraper
+### Broken Page Finder
 
-**Source**: `.github/workflows/docsearch-scraper-batch.yml`
+**Source**: `.github/workflows/broken-page-finder.yml`
 
-**Summary**: This workflow processes markdown files in batches for search indexing. It gets all markdown files from a given directory and it's subfolders. It can handle large numbers of files by splitting them into manageable batches to avoid rate limits and timeout issues.
+**Summary**: This workflow leverages the `vtexdocs/devportal-docsearch-action` to scrape files from the Help Center. Instead of indexing them, it logs errors to identify broken or problematic pages. It uses a specific branch version of the docsearch action that has been stripped down to only log errors.
 
 **Trigger Conditions**:
 - Manual trigger (workflow_dispatch)
 - Configurable inputs:
   - directory (default: 'docs')
-  - batch_size (default: 300)
-  - sleep_time (default: 300)
-  - files (optional comma-separated list)
+  - batch_size (default: 500)
+  - sleep_time (default: 0)
+  - files (optional comma-separated list of specific files to process)
 
-> If `directory` is empty, `files` is mandatory and vice-versa.
+**Process Overview**:
+1. **File Discovery**: Finds all markdown files in the specified directory and subdirectories
+2. **Batch Processing**: Splits files into manageable batches to avoid rate limits
+3. **Error Detection**: Uses the specialized docsearch action to identify broken pages
+4. **Error Logging**: Records errors to a spreadsheet for analysis
+
+**Key Features**:
+- **Batch Processing**: Handles large numbers of files by processing them in configurable batches
+- **Flexible Input**: Can process all files in a directory or specific files via comma-separated list
+- **Rate Limit Management**: Configurable sleep time between batches
+- **Error Focus**: Specifically designed to identify and log problematic pages
 
 **Dependencies**:
 - actions/checkout@v4
   - Function: Checks out the repository code
-- vtexdocs/devportal-docsearch-action@PedroAntunesCosta-spider-1
-  - Function: Processes documentation files and updates the search index
+- vtexdocs/devportal-docsearch-action@broken-page-finder
+  - Function: Specialized version that logs errors instead of indexing content
 
-### Help Center Changed Files Scraper
+### Changelog Generation
 
-**Source**: `.github/workflows/docsearch-scraper-changes.yml`
+**Source**: `.github/workflows/changelog.yml`
 
-**Summary**: This workflow monitors changes to markdown files and updates the search index accordingly when pull requests are merged.
+**Summary**: This workflow automatically generates changelogs and manages version tags for the repository. It uses standard-version to create semantic versioning and generates changelog entries based on commit messages.
 
 **Trigger Conditions**:
-- Pull request closed on main branch
+- Push to main branch
+- Pull request closed on main branch (only when merged)
+
+**Process Overview**:
+1. **Version Detection**: Finds the next available version tag and bumps if needed
+2. **Changelog Generation**: Uses standard-version to generate changelog entries
+3. **Tag Creation**: Creates and pushes version tags
+4. **Cleanup**: Handles tag cleanup on failure
+
+**Key Features**:
+- **Automatic Versioning**: Automatically determines and increments version numbers
+- **Semantic Versioning**: Follows semantic versioning principles
+- **Changelog Generation**: Creates comprehensive changelog entries
+- **Failure Recovery**: Cleans up tags if the process fails
+- **Git Integration**: Automatically commits and pushes changes
 
 **Dependencies**:
 - actions/checkout@v4
-  - Function: Checks out the repository code
-- tj-actions/changed-files@v43
-  - Function: Detects which files were changed in the pull request
-- vtexdocs/devportal-docsearch-action@main
-  - Function: Updates the search index with changed files
+  - Function: Checks out the repository with full history
+- actions/setup-node@v4
+  - Function: Sets up Node.js environment (version 20)
+- standard-version (npm package)
+  - Function: Generates changelogs and manages versioning
 
 ### Retrieve Docs from Contentful
 
