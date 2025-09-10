@@ -69,6 +69,21 @@
                 },
                 {
                   "name": {
+                    "en": "New feature: Promotion budgets",
+                    "es": "Nueva funcionalidad: definir límite de presupuesto por promoción",
+                    "pt": "Nova funcionalidade: definir limite de orçamento por promoção"
+                  },
+                  "slug": {
+                    "en": "2025-09-10-new-feature-promotion-budgets",
+                    "es": "2025-09-10-nueva-funcionalidad-definir-limite-de-presupuesto-por-promocion",
+                    "pt": "2025-09-10-nova-funcionalidade-definir-limite-de-orcamento-por-promocao"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Shopping Season: Get your store ready with our best practices guide",
                     "es": "Temporada de Compras: Prepare su tienda con nuestra guía de buenas prácticas",
                     "pt": "Black Friday: Prepare sua loja com a nossa cartilha de boas práticas"
@@ -34879,13 +34894,13 @@
             {
               "name": {
                 "en": "APIs Who Saw Also Saw, Who Saw Also Bought, Who Bought Also Bought not always working as expected",
-                "es": "Las API 'Quién vio también vio', 'Quién vio también compró' y 'Quién compró también compró' no siempre funcionan como se esperaba.",
-                "pt": "APIs Que Viram Também Viram, Quem Viram Também Compraram, Quem Compraram Também Compraram Nem sempre funcionando como esperado"
+                "es": "Las API \"Quién vio también vio\", \"Quién vio también compró\" y \"Quién compró también compró\" no siempre funcionan como se esperaba.",
+                "pt": "As APIs Who Saw Also Saw, Who Saw Also Bought, Who Bought Also Bought nem sempre funcionam como esperado"
               },
               "slug": {
                 "en": "apis-who-saw-also-saw-who-saw-also-bought-who-bought-also-bought-not-always-working-as-expected",
                 "es": "las-api-quien-vio-tambien-vio-quien-vio-tambien-compro-y-quien-compro-tambien-compro-no-siempre-funcionan-como-se-esperaba",
-                "pt": "apis-que-viram-tambem-viram-quem-viram-tambem-compraram-quem-compraram-tambem-compraram-nem-sempre-funcionando-como-esperado"
+                "pt": "as-apis-who-saw-also-saw-who-saw-also-bought-who-bought-also-bought-nem-sempre-funcionam-como-esperado"
               },
               "origin": "",
               "type": "markdown",
@@ -36994,12 +37009,12 @@
             {
               "name": {
                 "en": "Product unavailable even with franchised stock",
-                "es": "Producto no disponible incluso con el stock de la franquicia",
+                "es": "Producto no disponible incluso con stock franquiciado",
                 "pt": "Produto indisponível mesmo com estoque na franquia"
               },
               "slug": {
                 "en": "product-unavailable-even-with-franchised-stock",
-                "es": "producto-no-disponible-incluso-con-el-stock-de-la-franquicia",
+                "es": "producto-no-disponible-incluso-con-stock-franquiciado",
                 "pt": "produto-indisponivel-mesmo-com-estoque-na-franquia"
               },
               "origin": "",
@@ -50590,6 +50605,21 @@
                 "en": "the-order-management-filter-does-not-find-results-for-criteria-that-have-double-spaces-in-the-name",
                 "es": "el-filtro-de-gestion-de-pedidos-no-encuentra-resultados-para-los-criterios-que-tienen-espacios-dobles-en-el-nombre",
                 "pt": "o-filtro-de-gestao-de-pedidos-nao-encontra-resultados-para-criterios-que-possuem-espacos-duplos-no-nome"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "The promotion usage counter is not working as expected involving order splits and incomplete orders.",
+                "es": "El contador de uso de promociones no funciona como se esperaba en el caso de las divisiones de pedidos y los pedidos incompletos.",
+                "pt": "O contador de uso da promoção não está funcionando como esperado, envolvendo divisões de pedidos e pedidos incompletos."
+              },
+              "slug": {
+                "en": "the-promotion-usage-counter-is-not-working-as-expected-involving-order-splits-and-incomplete-orders",
+                "es": "el-contador-de-uso-de-promociones-no-funciona-como-se-esperaba-en-el-caso-de-las-divisiones-de-pedidos-y-los-pedidos-incompletos",
+                "pt": "o-contador-de-uso-da-promocao-nao-esta-funcionando-como-esperado-envolvendo-divisoes-de-pedidos-e-pedidos-incompletos"
               },
               "origin": "",
               "type": "markdown",
