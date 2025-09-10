@@ -36994,12 +36994,12 @@
             {
               "name": {
                 "en": "Product unavailable even with franchised stock",
-                "es": "Producto no disponible incluso con el stock de la franquicia",
+                "es": "Producto no disponible incluso con stock franquiciado",
                 "pt": "Produto indisponível mesmo com estoque na franquia"
               },
               "slug": {
                 "en": "product-unavailable-even-with-franchised-stock",
-                "es": "producto-no-disponible-incluso-con-el-stock-de-la-franquicia",
+                "es": "producto-no-disponible-incluso-con-stock-franquiciado",
                 "pt": "produto-indisponivel-mesmo-com-estoque-na-franquia"
               },
               "origin": "",
@@ -50590,6 +50590,21 @@
                 "en": "the-order-management-filter-does-not-find-results-for-criteria-that-have-double-spaces-in-the-name",
                 "es": "el-filtro-de-gestion-de-pedidos-no-encuentra-resultados-para-los-criterios-que-tienen-espacios-dobles-en-el-nombre",
                 "pt": "o-filtro-de-gestao-de-pedidos-nao-encontra-resultados-para-criterios-que-possuem-espacos-duplos-no-nome"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "The promotion usage counter is not working as expected involving order splits and incomplete orders.",
+                "es": "El contador de uso de promociones no funciona como se esperaba en el caso de las divisiones de pedidos y los pedidos incompletos.",
+                "pt": "O contador de uso da promoção não está funcionando como esperado, envolvendo divisões de pedidos e pedidos incompletos."
+              },
+              "slug": {
+                "en": "the-promotion-usage-counter-is-not-working-as-expected-involving-order-splits-and-incomplete-orders",
+                "es": "el-contador-de-uso-de-promociones-no-funciona-como-se-esperaba-en-el-caso-de-las-divisiones-de-pedidos-y-los-pedidos-incompletos",
+                "pt": "o-contador-de-uso-da-promocao-nao-esta-funcionando-como-esperado-envolvendo-divisoes-de-pedidos-e-pedidos-incompletos"
               },
               "origin": "",
               "type": "markdown",
