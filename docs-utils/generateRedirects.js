@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 const matter = require('gray-matter');
 const csv = require('csv-parser');
-const csvFilePath = path.join(__dirname, '../redirects-vtexhelp-20241024.csv'); // exported from https://vtexhelp.myvtex.com/admin/cms/redirects
+const csvFilePath = path.join(__dirname, '../redirects.csv'); // exported from https://vtexhelp.myvtex.com/admin/cms/redirects
 
 // Set to keep track of unique redirects
 const redirectsSet = new Set();
