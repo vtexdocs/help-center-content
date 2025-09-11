@@ -133,8 +133,8 @@ async function main() {
     try {
         await processCsvFile(csvFilePath);
         console.log('CSV file has been processed.');
-        await iterateDocsDirectory(path.join('./docs'));
-        console.log('Docs directory has been processed.');
+        // await iterateDocsDirectory(path.join('./docs'));
+        // console.log('Docs directory has been processed.');
 
         // Convert the Set to a string and append to netlifyTomlContent
         netlifyTomlContent += Array.from(redirectsSet).join('');
