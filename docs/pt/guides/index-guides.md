@@ -12,7 +12,6 @@ locale: pt
 
 ## General
 
-- [Tone of voice](https://contentguide.vtex.com/docs/guides/tone-of-voice)
-- [Product and feature naming](https://contentguide.vtex.com/docs/guides/product-and-feature-naming)
-- [US English standard](https://contentguide.vtex.com/docs/guides/us-english-standard)
-- [Inclusive language](https://contentguide.vtex.com/docs/guides/inclusive-language)
+- [Diretrizes de nomenclatura de produtos e funcionalidades](https://contentguide.vtex.com/docs/guides/product-and-feature-naming)
+- [Linguagem neutra e inclusiva](https://contentguide.vtex.com/docs/guides/inclusive-language)
+- [Tom e voz](https://contentguide.vtex.com/docs/guides/tone-of-voice)
