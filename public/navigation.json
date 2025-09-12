@@ -54,6 +54,21 @@
                 },
                 {
                   "name": {
+                    "en": "Coupon usage limit changed",
+                    "es": "Cambios en el límite de uso de cupones",
+                    "pt": "Mudança no limite de uso de cupons"
+                  },
+                  "slug": {
+                    "en": "2025-09-12-coupon-usage-limit-changed",
+                    "es": "2025-09-12-cambios-en-el-limite-de-uso-de-cupones",
+                    "pt": "2025-09-12-mudanca-no-limite-de-uso-de-cupons"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "New Campaign Promotion form",
                     "es": "Nuevo formulario de promoción Campaña",
                     "pt": "Novo formulário de Promoção de Campanha"
