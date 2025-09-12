@@ -54,6 +54,21 @@
                 },
                 {
                   "name": {
+                    "en": "Coupon usage limit changed",
+                    "es": "Cambios en el límite de uso de cupones",
+                    "pt": "Mudança no limite de uso de cupons"
+                  },
+                  "slug": {
+                    "en": "2025-09-12-coupon-usage-limit-changed",
+                    "es": "2025-09-12-cambios-en-el-limite-de-uso-de-cupones",
+                    "pt": "2025-09-12-mudanca-no-limite-de-uso-de-cupons"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "New Campaign Promotion form",
                     "es": "Nuevo formulario de promoción Campaña",
                     "pt": "Novo formulário de Promoção de Campanha"
@@ -50635,6 +50650,21 @@
                 "en": "the-user-cannot-make-a-daily-subscription-directly-from-the-mysubscriptions-area",
                 "es": "el-usuario-no-puede-realizar-una-suscripcion-diaria-directamente-desde-el-area-de-mis-suscripciones",
                 "pt": "o-usuario-nao-pode-fazer-uma-assinatura-diaria-diretamente-da-area-mysubscriptions"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "The vtexcommerce-order-changed-v2 template cannot send the reason field, as in version 1 of changeOrders.",
+                "es": "La plantilla vtexcommerce-order-changed-v2 no puede enviar el campo reason, como en la versión 1 de changeOrders.",
+                "pt": "O modelo vtexcommerce-order-changed-v2 não pode enviar o campo reason, como na versão 1 de changeOrders."
+              },
+              "slug": {
+                "en": "the-vtexcommerceorderchangedv2-template-cannot-send-the-reason-field-as-in-version-1-of-changeorders",
+                "es": "la-plantilla-vtexcommerceorderchangedv2-no-puede-enviar-el-campo-reason-como-en-la-version-1-de-changeorders",
+                "pt": "o-modelo-vtexcommerceorderchangedv2-nao-pode-enviar-o-campo-reason-como-na-versao-1-de-changeorders"
               },
               "origin": "",
               "type": "markdown",
