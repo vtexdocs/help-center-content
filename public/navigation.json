@@ -50642,6 +50642,21 @@
             },
             {
               "name": {
+                "en": "The vtexcommerce-order-changed-v2 template cannot send the reason field, as in version 1 of changeOrders.",
+                "es": "La plantilla vtexcommerce-order-changed-v2 no puede enviar el campo reason, como en la versión 1 de changeOrders.",
+                "pt": "O modelo vtexcommerce-order-changed-v2 não pode enviar o campo reason, como na versão 1 de changeOrders."
+              },
+              "slug": {
+                "en": "the-vtexcommerceorderchangedv2-template-cannot-send-the-reason-field-as-in-version-1-of-changeorders",
+                "es": "la-plantilla-vtexcommerceorderchangedv2-no-puede-enviar-el-campo-reason-como-en-la-version-1-de-changeorders",
+                "pt": "o-modelo-vtexcommerceorderchangedv2-nao-pode-enviar-o-campo-reason-como-na-versao-1-de-changeorders"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Two different workflows for the same order resulting in status: detail.state.null",
                 "es": "Two different workflows for the same order resulting in status: detail.state.null",
                 "pt": "Two different workflows for the same order resulting in status: detail.state.null"
