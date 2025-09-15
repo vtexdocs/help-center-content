@@ -3,8 +3,8 @@ title: 'VTEX Live Shopping'
 id: 17HV0OAaCIB46tW9O1rVEJ
 status: PUBLISHED
 createdAt: 2025-07-23T17:25:26.276Z
-updatedAt: 2025-09-06T18:12:41.458Z
-publishedAt: 2025-09-06T18:12:41.458Z
+updatedAt: 2025-09-15T22:39:39.657Z
+publishedAt: 2025-09-15T22:39:39.657Z
 firstPublishedAt: 2025-07-28T15:07:19.474Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -33,7 +33,7 @@ In a **Live Shopping** event, you have the following features:
 
 You can see the features below as they would appear in a real **Live Shopping** event:
 
-![article_1_overview_v2_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/vtex-live-shopping-getting-started/vtex-live-shopping_1.png)
+![article_1_overview_v3_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/vtex-live-shopping-getting-started/vtex-live-shopping_1.png)
 
 > ℹ️ [Live Shopping](https://help.vtex.com/en/tutorial/live-shopping--1cYWPIbjNMyr072sksHSVL) is a paid app with different subscription plans. For more information, check [VTEX App Store](https://apps.vtex.com/liveshopping/p).
 
