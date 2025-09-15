@@ -10657,24 +10657,9 @@
                 },
                 {
                   "name": {
-                    "en": "4. Placing Live Shopping component",
-                    "es": "4. Inserir componente de Live Shopping",
-                    "pt": "4. Inserir componente do Live Shopping"
-                  },
-                  "slug": {
-                    "en": "placing-live-shopping-component",
-                    "es": "inserir-componente-de-live-shopping",
-                    "pt": "inserir-componente-do-live-shopping"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "5. Placing the Live Shopping component",
-                    "es": "5. Insertar componente de Live Shopping",
-                    "pt": "5. Adicionar componente do Live Shopping"
+                    "en": "4. Placing the Live Shopping component",
+                    "es": "4. Insertar componente de Live Shopping",
+                    "pt": "4. Adicionar componente do Live Shopping"
                   },
                   "slug": {
                     "en": "placing-the-live-shopping-component",
@@ -10687,9 +10672,9 @@
                 },
                 {
                   "name": {
-                    "en": "6. Creating an event",
-                    "es": "6. Crear un evento",
-                    "pt": "6. Criar evento"
+                    "en": "5. Creating an event",
+                    "es": "5. Crear un evento",
+                    "pt": "5. Criar evento"
                   },
                   "slug": {
                     "en": "creating-event",
@@ -10702,9 +10687,9 @@
                 },
                 {
                   "name": {
-                    "en": "7. Turning on an event",
-                    "es": "7. Iniciar un evento",
-                    "pt": "7. Iniciar evento"
+                    "en": "6. Turning on an event",
+                    "es": "6. Iniciar un evento",
+                    "pt": "6. Iniciar evento"
                   },
                   "slug": {
                     "en": "turning-on-event",
@@ -10717,9 +10702,9 @@
                 },
                 {
                   "name": {
-                    "en": "8. Configuring the event",
-                    "es": "8. Configurar el evento",
-                    "pt": "8. Configurar evento"
+                    "en": "7. Configuring the event",
+                    "es": "7. Configurar el evento",
+                    "pt": "7. Configurar evento"
                   },
                   "slug": {
                     "en": "configuring-event",
@@ -10732,9 +10717,9 @@
                 },
                 {
                   "name": {
-                    "en": "9. Using Bundle studio",
-                    "es": "9. Utilizar el estudio Bundle",
-                    "pt": "9. Usar studio Bundle"
+                    "en": "8. Using Bundle studio",
+                    "es": "8. Utilizar el estudio Bundle",
+                    "pt": "8. Usar studio Bundle"
                   },
                   "slug": {
                     "en": "using-bundle-studio",
@@ -10747,9 +10732,9 @@
                 },
                 {
                   "name": {
-                    "en": "10. (Optional) Using external studios",
-                    "es": "10. (Opcional) Utilizar estudios externos",
-                    "pt": "10. (Opcional) Usar studios externos"
+                    "en": "9. (Optional) Using external studios",
+                    "es": "9. (Opcional) Utilizar estudios externos",
+                    "pt": "9. (Opcional) Usar studios externos"
                   },
                   "slug": {
                     "en": "optional-using-external-studios",
@@ -10762,9 +10747,9 @@
                 },
                 {
                   "name": {
-                    "en": "11. Transmitting events from Bundle",
-                    "es": "11. Transmitir eventos en Bundle",
-                    "pt": "11. Transmitir eventos no Bundle"
+                    "en": "10. Transmitting events from Bundle",
+                    "es": "10. Transmitir eventos en Bundle",
+                    "pt": "10. Transmitir eventos no Bundle"
                   },
                   "slug": {
                     "en": "transmitting-event-from-bundle",
@@ -10777,9 +10762,9 @@
                 },
                 {
                   "name": {
-                    "en": "12. Hiding or removing the Live Shopping component",
-                    "es": "12. Ocultar o remover componente de Live Shopping",
-                    "pt": "12. Ocultar ou remover componente do Live Shopping"
+                    "en": "11. Hiding or removing the Live Shopping component",
+                    "es": "11. Ocultar o remover componente de Live Shopping",
+                    "pt": "11. Ocultar ou remover componente do Live Shopping"
                   },
                   "slug": {
                     "en": "hiding-or-removing-live-shopping-component",
@@ -10792,9 +10777,9 @@
                 },
                 {
                   "name": {
-                    "en": "13. Getting the event recording",
-                    "es": "13. Obtener la grabación del evento",
-                    "pt": "13. Obter gravação do evento"
+                    "en": "12. Getting the event recording",
+                    "es": "12. Obtener la grabación del evento",
+                    "pt": "12. Obter gravação do evento"
                   },
                   "slug": {
                     "en": "getting-event-recording",
@@ -33398,12 +33383,12 @@
                 {
                   "name": {
                     "en": "Agent Builder overview",
-                    "es": "Visión de conjunto del Agent Builder",
+                    "es": "Información general de Agent Builder",
                     "pt": "Visão geral Agent Builder"
                   },
                   "slug": {
                     "en": "agent-builder-overview",
-                    "es": "vision-de-conjunto-del-agent-builder",
+                    "es": "informacion-general-de-agent-builder",
                     "pt": "visao-geral-agent-builder"
                   },
                   "origin": "",
@@ -33652,21 +33637,6 @@
                     "en": "add-a-store-indeva",
                     "es": "agregar-una-tienda-indeva",
                     "pt": "adicionar-uma-loja-indeva"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Add a store",
-                    "es": "Agregar una tienda",
-                    "pt": "Adicionar uma loja"
-                  },
-                  "slug": {
-                    "en": "add-a-store",
-                    "es": "agregar-una-tienda",
-                    "pt": "adicionar-uma-loja"
                   },
                   "origin": "",
                   "type": "markdown",
