@@ -1,10 +1,10 @@
 ---
 title: 'Transmitting events from Bundle'
 id: 69PX90vv4oDWQ34nnBkiQt
-status: CHANGED
+status: PUBLISHED
 createdAt: 2025-07-23T18:12:38.825Z
-updatedAt: 2025-09-15T21:53:55.918Z
-publishedAt: 2025-09-08T23:02:43.213Z
+updatedAt: 2025-09-15T21:58:40.949Z
+publishedAt: 2025-09-15T21:58:40.949Z
 firstPublishedAt: 2025-07-28T15:08:36.589Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising

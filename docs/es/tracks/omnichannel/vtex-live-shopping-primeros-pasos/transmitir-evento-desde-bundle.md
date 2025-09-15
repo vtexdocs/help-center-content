@@ -1,10 +1,10 @@
 ---
 title: 'Transmitir eventos en Bundle'
 id: 69PX90vv4oDWQ34nnBkiQt
-status: CHANGED
+status: PUBLISHED
 createdAt: 2025-07-23T18:12:38.825Z
-updatedAt: 2025-09-15T21:53:55.918Z
-publishedAt: 2025-09-08T23:02:43.213Z
+updatedAt: 2025-09-15T21:58:40.949Z
+publishedAt: 2025-09-15T21:58:40.949Z
 firstPublishedAt: 2025-07-28T15:08:36.589Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -31,7 +31,7 @@ Este proceso abarca las siguientes etapas:
 
 Para iniciar la transmisión, tu evento debe estar activado y el [status](https://help.vtex.com/es/tracks/vtex-live-shopping-primeros-pasos--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv#status-del-evento) debe ser `En vivo`, ya que solo los eventos activados tienen todas las opciones de configuración habilitadas. 
 
-Para más información, consulta el artículo [Iniciar el evento](https://help.vtex.com/es/tracks/vtex-live-shopping-primeros-pasos--3eCHNCIx8XhZOSmX0sQT3U/6NrWRLAJEHijcd6tLIWoqq).
+Para más información, consulta el artículo [Iniciar un evento](https://help.vtex.com/es/tracks/vtex-live-shopping-primeros-pasos--3eCHNCIx8XhZOSmX0sQT3U/6NrWRLAJEHijcd6tLIWoqq).
 
 ## Iniciar la transmisión
 
@@ -52,8 +52,8 @@ Como administrador, puedes finalizar la transmisión del evento para todos o sal
 
 Los principales escenarios para cada opción son los siguientes:
 
-* [Salir del estudio Bundle sin interrumpir](#salir-del-estudio-bundle-sin-interrumpir) la transmisión: cuando otra persona sea el anfitrión del evento y deseas salir del estudio. Esta acción mantendrá el status del evento como `En vivo`. 
-* [Finalizar la transmisión para todos](##finalizar-la-transmision-para-todos): cuando el evento haya terminado y deseas detener la transmisión por completo. Esto cambiará el status del evento a `Finalizado`.
+* [Salir del estudio Bundle sin interrumpir la transmisión](#salir-del-estudio-bundle-sin-interrumpir-la-transmision): cuando otra persona sea el anfitrión del evento y deseas salir del estudio. Esta acción mantendrá el status del evento como `En vivo`. 
+* [Finalizar la transmisión para todos](#finalizar-la-transmision-para-todos): cuando el evento haya terminado y deseas detener la transmisión por completo. Esto cambiará el status del evento a `Finalizado`.
 
 > ⚠️ Cuando el evento presenta el [status](https://help.vtex.com/es/tracks/vtex-live-shopping-primeros-pasos--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv#status-del-evento) `Finalizado`, ya no será posible transmitir en vivo a tu audiencia, y solo se podrá mostrar la grabación o iniciar un nuevo evento.
 
@@ -78,4 +78,4 @@ Otra forma de finalizar la transmisión desde Bundle es hacer clic en el botón 
 
 Observa que seleccionar la opción `Leave Meeting` es equivalente a salir del estudio sin interrumpir la transmisión en vivo.
 
-> ❗ Para evitar que tu audiencia vea una pantalla negra al finalizar la transmisión, puedes mostrar una imagen de cierre, como se indica a continuación:<ol><li>Antes de finalizar la transmisión, muestra la imagen de cierre en Bundle o en un estudio externo.</li><li>Oculta el componente **Live Shopping** o remueve el código de la tienda (consulta [Ocultar o remover el componente de Live Shopping](https://help.vtex.com/es/tracks/vtex-live-shopping-primeros-pasos--3eCHNCIx8XhZOSmX0sQT3U/7e3bP6LjFgxXC210jSpl59)).</a>).</li><li>Espera aproximadamente 10 minutos después de mostrar la imagen de cierre para permitir que la caché se actualice.</li><li>Finaliza el evento.</li></ol>
+> ❗ Para evitar que tu audiencia vea una pantalla negra al finalizar la transmisión, puedes mostrar una imagen de cierre, como se indica a continuación:<ol><li>Antes de finalizar la transmisión, muestra la imagen de cierre en Bundle o en un estudio externo.</li><li>Oculta el componente **Live Shopping** o remueve el código de la tienda (consulta [Ocultar o remover el componente de Live Shopping](https://help.vtex.com/es/tracks/vtex-live-shopping-primeros-pasos--3eCHNCIx8XhZOSmX0sQT3U/7e3bP6LjFgxXC210jSpl59)).</li><li>Espera aproximadamente 10 minutos después de mostrar la imagen de cierre para permitir que la caché se actualice.</li><li>Finaliza el evento.</li></ol>
