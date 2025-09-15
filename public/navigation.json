@@ -10777,8 +10777,8 @@
                 },
                 {
                   "name": {
-                    "en": "12. Hiding or removing Live Shopping component",
-                    "es": "12. Ocultar o eliminar componente de Live Shopping",
+                    "en": "12. Hiding or removing the Live Shopping component",
+                    "es": "12. Ocultar o remover componente de Live Shopping",
                     "pt": "12. Ocultar ou remover componente do Live Shopping"
                   },
                   "slug": {
@@ -10792,7 +10792,7 @@
                 },
                 {
                   "name": {
-                    "en": "13. Getting event recording",
+                    "en": "13. Getting the event recording",
                     "es": "13. Obtener la grabación del evento",
                     "pt": "13. Obter gravação do evento"
                   },
@@ -43711,6 +43711,21 @@
                 "en": "shopee-catalog-sync-blocked-due-to-excess-variation-attributes",
                 "es": "shopee-sincronizacion-de-catalogo-bloqueada-por-exceso-de-atributos-de-variacion",
                 "pt": "shopee-sincronizacao-de-catalogo-bloqueada-devido-ao-excesso-de-atributos-de-variacao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Shopee Error “The model_id is wrong or not related to this item”",
+                "es": "Shopee Error \"El model_id es incorrecto o no está relacionado con este artículo\"",
+                "pt": "Shopee Erro \"O model_id está errado ou não está relacionado a este item\""
+              },
+              "slug": {
+                "en": "shopee-error-the-modelid-is-wrong-or-not-related-to-this-item",
+                "es": "shopee-error-el-modelid-es-incorrecto-o-no-esta-relacionado-con-este-articulo",
+                "pt": "shopee-erro-o-modelid-esta-errado-ou-nao-esta-relacionado-a-este-item"
               },
               "origin": "",
               "type": "markdown",

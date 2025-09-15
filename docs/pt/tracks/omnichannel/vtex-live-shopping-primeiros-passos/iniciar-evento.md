@@ -3,8 +3,8 @@ title: 'Iniciar evento'
 id: 6NrWRLAJEHijcd6tLIWoqq
 status: PUBLISHED
 createdAt: 2025-07-23T17:59:44.751Z
-updatedAt: 2025-09-07T15:04:39.803Z
-publishedAt: 2025-09-07T15:04:39.803Z
+updatedAt: 2025-09-15T21:02:14.669Z
+publishedAt: 2025-09-15T21:02:14.669Z
 firstPublishedAt: 2025-07-28T15:08:02.736Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -44,7 +44,7 @@ Quando o evento estiver ativado, todas as configurações ficam disponíveis par
 | Servidor de entrada | Código do servidor usado para conectar o evento entre diferentes lojas VTEX ou outras plataformas, como Facebook e YouTube. |
 | Chave do servidor | Identificação da chave do servidor usada para conectar o evento entre diferentes lojas VTEX ou outras plataformas, como Facebook e YouTube. |
 
-Nesta seção, você pode monitorar o status do evento, como mostrado na imagem abaixo:
+Nesta seção, você pode monitorar o [status do evento](https://help.vtex.com/pt/tracks/vtex-live-shopping-primeiros-passos--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv#status-do-evento), como mostrado na imagem abaixo:
 
 ![article_6_turning_on_event_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/vtex-live-shopping-primeiros-passos/iniciar-evento_1.png)
 

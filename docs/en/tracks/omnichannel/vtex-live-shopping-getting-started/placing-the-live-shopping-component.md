@@ -3,8 +3,8 @@ title: 'Placing the Live Shopping component'
 id: 4r5uk6XHxdYlOGMr11GFWR
 status: PUBLISHED
 createdAt: 2025-07-23T17:54:26.773Z
-updatedAt: 2025-09-06T19:36:04.789Z
-publishedAt: 2025-09-06T19:36:04.789Z
+updatedAt: 2025-09-15T20:53:57.710Z
+publishedAt: 2025-09-15T20:53:57.710Z
 firstPublishedAt: 2025-07-28T15:07:46.555Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -15,7 +15,7 @@ trackSlugEN: vtex-live-shopping-getting-started
 order: 4
 ---
 
-Once your event is [configured on Bundle](https://help.vtex.com/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/3GKzrP9nkyRwpUyyeYUaeX) or an external studio and before transmitting it, you have to place the **Live Shopping** component on your site, whether on the store homepage or a [landing page](https://help.vtex.com/tutorial/live-shopping-configuring-a-landing-page-for-live-shopping-events--4iBDPEpXyKSfoIqUdwHGFE). The configuration steps vary depending on your store frontend solution:
+Once your event is [configured on Bundle](https://help.vtex.com/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/3GKzrP9nkyRwpUyyeYUaeX) or an external studio and before transmitting it, you have to place the **Live Shopping** component on your site, whether on the store homepage or a [landing page](https://help.vtex.com/en/tutorial/live-shopping-configuring-a-landing-page-for-live-shopping-events--4iBDPEpXyKSfoIqUdwHGFE). The configuration steps vary depending on your store frontend solution:
 
 * [Store Framework (VTEX IO)](#store-framework-vtex-io)
 * [Legacy CMS Portal](#legacy-cms-portal)
@@ -30,9 +30,6 @@ For stores using [Store Framework](https://help.vtex.com/en/tracks/vtex-store-ov
 1. In the VTEX Admin, go to **Storefront > Site Editor**, or type **Site Editor** in the search bar at the top of the page.
 2. On the **Blocks** list on the right side of the page, select the **Live Shopping** block.
 3. Activate the <i class="fas fa-toggle-on" aria-hidden="true"></i> `Show component` option.
-
-  ![article_4_store_framework_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/vtex-live-shopping-getting-started/placing-the-live-shopping-component_1.png)
-
 4. Click the **Events (Live)** dropdown and select the desired event. The options displayed only include events with `Live` [status](https://help.vtex.com/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv#event-status).
 5. Click `Save`.
 
@@ -45,7 +42,7 @@ For stores using [Legacy CMS Portal](https://help.vtex.com/en/tracks/cms--2YcpgI
 3. In **Script for template**, select `CMS template`.
 4. Copy the code in **Script for template**.
 
-  ![article_4_legacy_cms_portal_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/vtex-live-shopping-getting-started/placing-the-live-shopping-component_2.png)
+  ![article_4_legacy_cms_portal_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/vtex-live-shopping-getting-started/placing-the-live-shopping-component_1.png)
 
 5. Go to **Storefront > Layout**, or type **Layout** in the search bar at the top of the page.
 6. Click **CMS > HTML Templates**.
@@ -60,7 +57,7 @@ For stores using [Headless CMS](https://help.vtex.com/en/tutorial/headless-cms-o
 3. In **Script for template**, select `External template`.
 4. Copy the code in **Script for template**.
 
-  ![article_4_headless_cms_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/vtex-live-shopping-getting-started/placing-the-live-shopping-component_3.png)
+  ![article_4_headless_cms_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/vtex-live-shopping-getting-started/placing-the-live-shopping-component_2.png)
 
 5. Paste the code in the desired HTML file.
 

@@ -3,8 +3,8 @@ title: 'Turning on an event'
 id: 6NrWRLAJEHijcd6tLIWoqq
 status: PUBLISHED
 createdAt: 2025-07-23T17:59:44.751Z
-updatedAt: 2025-09-07T15:04:39.803Z
-publishedAt: 2025-09-07T15:04:39.803Z
+updatedAt: 2025-09-15T21:02:14.669Z
+publishedAt: 2025-09-15T21:02:14.669Z
 firstPublishedAt: 2025-07-28T15:08:02.736Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -48,4 +48,4 @@ In this section, you can monitor the [event status](https://help.vtex.com/en/tra
 
 ![article_6_turning_on_event_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/vtex-live-shopping-getting-started/turning-on-event_1.png)
 
-> ℹ️ After turning on the event, if you don't transmit or interact with it for more than 90 minutes, the event status will change to `Completed`, meaning the event is finished and can no longer be broadcast.
+> ⚠️ After turning on the event, if you don't transmit or interact with it for more than 90 minutes, the event status will change to `Completed`, meaning the event is finished and can no longer be broadcast.

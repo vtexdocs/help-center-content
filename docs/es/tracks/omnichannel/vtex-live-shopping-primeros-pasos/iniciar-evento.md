@@ -3,8 +3,8 @@ title: 'Iniciar un evento'
 id: 6NrWRLAJEHijcd6tLIWoqq
 status: PUBLISHED
 createdAt: 2025-07-23T17:59:44.751Z
-updatedAt: 2025-09-07T15:04:39.803Z
-publishedAt: 2025-09-07T15:04:39.803Z
+updatedAt: 2025-09-15T21:02:14.669Z
+publishedAt: 2025-09-15T21:02:14.669Z
 firstPublishedAt: 2025-07-28T15:08:02.736Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -17,7 +17,7 @@ order: 6
 
 El primer paso para transmitir un evento en vivo es iniciarlo. Esta acción no activará la transmisión del evento, pero te permitirá realizar todas las configuraciones necesarias.
 
-> ❗ Antes de tu primer evento en vivo, recomendamos realizar un [evento de prueba](https://help.vtex.com/es/tracks/vtex-live-shopping-primeros-pasos--3eCHNCIx8XhZOSmX0sQT3U/1le8tz3fyBdb7kR4UdxTjZ#probar-la-herramienta) para validar la configuración del producto, la calidad de la transmisión y la interactividad.
+> ⚠️ Antes de tu primer evento en vivo, recomendamos realizar un [evento de prueba](https://help.vtex.com/es/tracks/vtex-live-shopping-primeros-pasos--3eCHNCIx8XhZOSmX0sQT3U/1le8tz3fyBdb7kR4UdxTjZ#probar-la-herramienta) para validar la configuración del producto, la calidad de la transmisión y la interactividad.
 
 Para iniciar un evento sigue los pasos a continuación:
 
@@ -25,11 +25,11 @@ Para iniciar un evento sigue los pasos a continuación:
 2. En la fila del evento que quieres activar, haz clic en el botón de flecha en la columna **Acciones**.
 3. En la página **Información del evento**, en la parte superior derecha, haz clic en el <i class="fas fa-toggle-on" aria-hidden="true"></i> botón de alternancia `Iniciar` para activar el evento. 
 
-> ⚠️ Después de hacer clic en **Iniciar**, espera unos tres a cinco minutos para que el proceso de activación del evento se complete.
+> ❗ Después de hacer clic en **Iniciar**, espera unos tres a cinco minutos para que el proceso de activación del evento se complete.
 
 Una vez activado el botón de alternancia **Iniciar** puedes cerrar la página. Observa que el evento terminará automáticamente después de 1h30 min. Este conteo regresivo se restablece automáticamente cuando comienzas a transmitir.
 
-Por ejemplo, mientras el evento esté en curso, no se cerrará automáticamente al llegar a 1h30 min. Sin embargo, una vez que detengas la transmisión, si no inicias un nuevo evento dentro de la siguiente 1h30 min, el evento se finalizará automáticamente.
+> Por ejemplo, mientras el evento esté en curso, no se cerrará automáticamente al llegar a 1h30 min. Sin embargo, una vez que detengas la transmisión, si no inicias un nuevo evento dentro de la siguiente 1h30 min, el evento se finalizará automáticamente.
 
 ## Detalles del evento
 
@@ -39,7 +39,7 @@ Una vez que el evento está activado, toda la configuración estará disponible 
 | :---: | :--- |
 | ID | ID del evento, identificador único del evento. |
 | Nombre del evento | Nombre del evento. |
-| Fuente UTM | [Fuente de parámetro UTM](https://help.vtex.com/es/tutorial/what-are-utm-source-utm-campaign-and-utm-medium--2wTz7QJ8KUG6skGAoAQuii) configurada para monitorear datos del evento. |
+| Fuente UTM | [Fuente de parámetro UTM](https://help.vtex.com/es/tutorial/que-son-utm-source-utm-campaign-y-utm-medium--2wTz7QJ8KUG6skGAoAQuii) configurada para monitorear datos del evento. |
 | Minutos utilizados | Minutos de transmisión transcurridos, contados en tiempo real. El contaje comienza cuando empieza la transmisión del evento. |
 | Servidor inbound | Código del servidor utilizado para conectar el evento entre las diferentes tiendas VTEX u otras plataformas, como Facebook y YouTube. |
 | Clave del servidor | Clave del servidor utilizada para conectar el evento entre las diferentes tiendas VTEX u otras plataformas, como Facebook y YouTube. |

@@ -3,8 +3,8 @@ title: 'Utilizar el estudio Bundle'
 id: 3GKzrP9nkyRwpUyyeYUaeX
 status: PUBLISHED
 createdAt: 2025-07-23T18:06:49.325Z
-updatedAt: 2025-09-08T00:24:31.652Z
-publishedAt: 2025-09-08T00:24:31.652Z
+updatedAt: 2025-09-15T21:35:12.589Z
+publishedAt: 2025-09-15T21:35:12.589Z
 firstPublishedAt: 2025-07-28T15:08:19.382Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -50,7 +50,7 @@ El menú de navegación a la izquierda tiene las siguientes secciones (solo admi
 * [Chat private](#chat-private)
 * [Settings](#settings)  
 
-En la opción de menú **My studio**, los números del 1 al 5 indican los ajustes que tanto administradores e invitados pueden utilizar, mientras que los números del 6 al 10 son ajustes reservados solo para administradores:
+En la opción de menú **My studio**, los números del 1 al 5 indican los ajustes que tanto administradores e invitados pueden utilizar, mientras que los números del 6 al 9 son ajustes reservados solo para administradores:
 
 ![article_8_my_studio_woman_streaming_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/omnichannel/vtex-live-shopping-primeros-pasos/usar-studio-bundle_3.png)
 

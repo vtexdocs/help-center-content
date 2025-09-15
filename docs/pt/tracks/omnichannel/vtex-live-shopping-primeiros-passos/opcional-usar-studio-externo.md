@@ -3,8 +3,8 @@ title: '(Opcional) Usar studios externos'
 id: Dw0QdKI0aGjmyD5Z6z5JC
 status: PUBLISHED
 createdAt: 2025-07-23T18:10:11.675Z
-updatedAt: 2025-09-08T22:09:33.139Z
-publishedAt: 2025-09-08T22:09:33.139Z
+updatedAt: 2025-09-15T21:42:49.757Z
+publishedAt: 2025-09-15T21:42:49.757Z
 firstPublishedAt: 2025-07-28T15:08:28.675Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -49,7 +49,7 @@ Para realizar uma transmissão de alta qualidade, mesmo em dispositivos com sina
 
 ## Transmitir o evento por um estúdio externo
 
-Depois de [configurar o posicionamento do componente Live Shopping](https://help.vtex.com/pt/tracks/vtex-live-shopping-primeiros-passos--3eCHNCIx8XhZOSmX0sQT3U/4r5uk6XHxdYlOGMr11GFWR) e usar a pré-visualização para garantir que tudo está funcionando corretamente, você pode começar a transmitir o evento. Como as etapas variam de acordo com cada estúdio, recomendamos consultar a documentação oficial do estúdio que estiver usando.
+Depois de [adicionar o componente do Live Shopping](https://help.vtex.com/pt/tracks/vtex-live-shopping-primeiros-passos--3eCHNCIx8XhZOSmX0sQT3U/4r5uk6XHxdYlOGMr11GFWR) e usar a pré-visualização para garantir que tudo está funcionando corretamente, você pode começar a transmitir o evento. Como as etapas variam de acordo com cada estúdio, recomendamos consultar a documentação oficial do estúdio que estiver usando.
 
 > ❗ Ao usar estúdios externos, não tente duplicar a transmissão via Bundle. O Live Shopping permite apenas uma transmissão por estúdio, e a plataforma reconhecerá somente o primeiro estúdio que iniciar o evento.
 
@@ -57,4 +57,4 @@ Depois de [configurar o posicionamento do componente Live Shopping](https://help
 
 Quando a transmissão terminar e o [status](https://help.vtex.com/pt/tracks/vtex-live-shopping-primeiros-passos--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv#status-do-evento) do evento for `Finalizado`, você deve ocultar o componente **Live Shopping** ou remover o script, dependendo da sua solução de frontend. O público continuará vendo a tela preta no seu site ou landing page até que você preencha esta etapa.
 
-Para o passo a passo completo, veja [Como ocultar ou remover o componente Live Shopping](https://help.vtex.com/pt/tracks/vtex-live-shopping-primeiros-passos--3eCHNCIx8XhZOSmX0sQT3U/7e3bP6LjFgxXC210jSpl59).
+Para o passo a passo completo, veja [Como ocultar ou remover componente do Live Shopping](https://help.vtex.com/pt/tracks/vtex-live-shopping-primeiros-passos--3eCHNCIx8XhZOSmX0sQT3U/7e3bP6LjFgxXC210jSpl59).

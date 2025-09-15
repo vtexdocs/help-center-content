@@ -3,8 +3,8 @@ title: 'Usar studio Bundle'
 id: 3GKzrP9nkyRwpUyyeYUaeX
 status: PUBLISHED
 createdAt: 2025-07-23T18:06:49.325Z
-updatedAt: 2025-09-08T00:24:31.652Z
-publishedAt: 2025-09-08T00:24:31.652Z
+updatedAt: 2025-09-15T21:35:12.589Z
+publishedAt: 2025-09-15T21:35:12.589Z
 firstPublishedAt: 2025-07-28T15:08:19.382Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -40,9 +40,7 @@ Na página **Device settings** (Configurações do dispositivo), ao clicar em `E
 
 ![article_8_my_studio_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/vtex-live-shopping-primeiros-passos/usar-studio-bundle_2.png)
 
-> ⚠️ Before transmitting from Bundle, you must select the  you want for the screen, because once in the **My Studio** page, this event layout cannot be altered anymore. To change afterwards, it would be necessary to create a new event.
-
-Antes de iniciar a transmissão pelo Bundle, selecione o [tipo de layout](https://help.vtex.com/pt/tracks/vtex-live-shopping-primeiros-passos--3eCHNCIx8XhZOSmX0sQT3U/125yr6jAfwiiz84JP4ppfO#tipo-de-layout-configuracao-do-estilo) desejado para a tela. Após entrar na página **My Studio** (Meu estúdio), não será mais possível alterar o layout do evento. Para alterá-lo, será necessário criar um novo evento.
+> ⚠️ Antes de iniciar a transmissão pelo Bundle, selecione o [tipo de layout](https://help.vtex.com/pt/tracks/vtex-live-shopping-primeiros-passos--3eCHNCIx8XhZOSmX0sQT3U/125yr6jAfwiiz84JP4ppfO#tipo-de-layout-configuracao-do-estilo) desejado para a tela. Após entrar na página **My Studio** (Meu estúdio), não será mais possível alterar o layout do evento. Para alterá-lo, será necessário criar um novo evento.
 
 O menu de navegação à esquerda tem as seguintes seções (apenas para administradores, exceto pelo Chat privado):
 
@@ -52,7 +50,7 @@ O menu de navegação à esquerda tem as seguintes seções (apenas para adminis
 * [Chat private (Chat privado)](#chat-private-chat-privado)
 * [Settings (Configurações)](#settings-configuracoes)
 
-Na opção **My Studio** (Meu estúdio) do menu, as configurações numeradas de 1 a 5 estão disponíveis para convidados e administradores, enquanto as configurações de 6 a 10 são exclusivas para administradores.
+Na opção **My Studio** (Meu estúdio) do menu, as configurações numeradas de 1 a 5 estão disponíveis para convidados e administradores, enquanto as configurações de 6 a 9 são exclusivas para administradores.
 
 ![article_8_my_studio_woman_streaming_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/vtex-live-shopping-primeiros-passos/usar-studio-bundle_3.png)
 
@@ -144,7 +142,7 @@ Para conectar contas diferentes da VTEX e transmitir o mesmo evento, cada conta 
 
 1. [Crie](https://help.vtex.com/pt/tracks/vtex-live-shopping-primeiros-passos--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv) um evento.
 2. Na página **Eventos**, clique na seta do evento para acessar a página de **Informações do evento**.
-3. [Inicie](http://link) o evento.
+3. [Inicie](https://help.vtex.com/pt/tracks/vtex-live-shopping-primeiros-passos--3eCHNCIx8XhZOSmX0sQT3U/6NrWRLAJEHijcd6tLIWoqq) o evento.
 4. Na seção [Estúdio de streaming](#estudio-de-streaming), clique em `Acessar`.
 5. Faça login no estúdio Bundle.
 6. Clique em `Enter the studio` (Entrar no estúdio).
@@ -182,7 +180,7 @@ Quando você iniciar a transmissão ao vivo, todo o conteúdo exibido no Bundle 
 
 ### Conectar ao Facebook
 
-Para transmitir seu evento no Facebook, siga praticamente os mesmos passos usados para [conectar ao YouTube](#conectar-ao-youTube). A diferença é que, ao criar o destino, você deve fornecer [novas chaves](https://www.facebook.com/business/help/184100780068012) de [evento do Facebook](https://www.facebook.com/business/help/184100780068012) e selecionar `Facebook` como a plataforma ao criar o destino. 
+Para transmitir seu evento no Facebook, siga praticamente os mesmos passos usados para [conectar ao YouTube](#conectar-ao-youTube). A diferença é que, ao criar o destino, você deve fornecer [novas chaves de evento do Facebook](https://www.facebook.com/business/help/184100780068012) e selecionar `Facebook` como a plataforma ao criar o destino. 
 
 Após adicionar o destino do Facebook e iniciar a transmissão ao vivo, todo o conteúdo exibido no Bundle será automaticamente transmitido no Facebook.
 

@@ -3,8 +3,8 @@ title: 'Using Bundle studio'
 id: 3GKzrP9nkyRwpUyyeYUaeX
 status: PUBLISHED
 createdAt: 2025-07-23T18:06:49.325Z
-updatedAt: 2025-09-08T00:24:31.652Z
-publishedAt: 2025-09-08T00:24:31.652Z
+updatedAt: 2025-09-15T21:35:12.589Z
+publishedAt: 2025-09-15T21:35:12.589Z
 firstPublishedAt: 2025-07-28T15:08:19.382Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -40,7 +40,7 @@ On the **Device settings** page, when you click `Enter the studio`, you’re red
 
 ![article_8_my_studio_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/vtex-live-shopping-getting-started/using-bundle-studio_2.png)
 
-> ⚠️ Before transmitting from Bundle, you must select the [layout type](https://help.vtex.com/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/125yr6jAfwiiz84JP4ppfO#layout-type-configuring-style) you want for the screen. Once you are in the **My Studio** page, you can't change the event layout anymore. To change it, you would need to create a new event.
+> ⚠️ Before transmitting from Bundle, you must select the [layout type](https://help.vtex.com/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/125yr6jAfwiiz84JP4ppfO#layout-type-configuring-the-style) you want for the screen. Once you are in the **My Studio** page, you can't change the event layout anymore. To change it, you would need to create a new event.
 
 The left navigation menu has the following sections (administrators only, except for Chat private):
 
@@ -50,7 +50,7 @@ The left navigation menu has the following sections (administrators only, except
 * [Chat private](#chat-private)
 * [Settings](#settings)
 
-In the **My Studio** menu option, numbers 1 through 5 indicate the settings that can be used by guests and administrators, while numbers 6 through 10 are reserved for administrators only:
+In the **My Studio** menu option, numbers 1 through 5 indicate the settings that can be used by guests and administrators, while numbers 6 through 9 are reserved for administrators only:
 
 ![article_8_my_studio_woman_streaming_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/vtex-live-shopping-getting-started/using-bundle-studio_3.png)
 
@@ -98,7 +98,7 @@ The name will show in white letters against a dark background and can’t be cha
 
 ### Asset dimensions
 
-The table below describes the format and limit for each type of asset on Bundle studio, depending on the [layout](https://help.vtex.com/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/125yr6jAfwiiz84JP4ppfO#layout-type-configuring-style) settings:
+The table below describes the format and limit for each type of asset on Bundle studio, depending on the [layout](https://help.vtex.com/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/125yr6jAfwiiz84JP4ppfO#layout-type-configuring-the-style) settings:
 
 | **Asset type** | **General information** | **Landscape view - Horizontal (16:9)** | **Portrait view - Vertical (9:16)** |
 | :---: | :--- | :---: | :---: |
@@ -149,7 +149,7 @@ To connect different VTEX accounts for the same event transmission, each account
 7. In the **My destinations** menu option, click `Create destination`.
 8. In the **Create destinations** window, complete the fields as shown below:
     * **Server:** Enter the **Inbound server** value given by Account B.
-    * **Server Key: **Enter the** Server key value given by Account B.
+    * **Server Key:** Enter the **Server key** value given by Account B.
     * **Platform:** Select `VTEX`.
 9. Click `Add destination`.
 

@@ -3,8 +3,8 @@ title: 'Configuring the event'
 id: 125yr6jAfwiiz84JP4ppfO
 status: PUBLISHED
 createdAt: 2025-07-23T18:02:12.430Z
-updatedAt: 2025-09-07T15:57:22.478Z
-publishedAt: 2025-09-07T15:57:22.478Z
+updatedAt: 2025-09-15T21:13:33.647Z
+publishedAt: 2025-09-15T21:13:33.647Z
 firstPublishedAt: 2025-07-28T15:08:11.624Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -18,7 +18,7 @@ order: 7
 In the VTEX Admin, when you go to **Apps > Live Shopping** and click the arrow icon of a [created event](https://help.vtex.com/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv), you access its **Event Information** page, where you can set it up as explained in the following sections:
 
 * [Layout type - Configuring the style](#layout-type-configuring-the-style)
-* [Live chat - Configuring the administrator name](#live-chat-configuring-the-administrator-name)
+* [Chat - Configuring the administrator name](#chat-configuring-the-administrator-name)
 * [Settings - Configuring features](#settings-configuring-features)
 * [CMS Configuration - Configuring content presentation](#cms-configuration-configuring-content-presentation)
 

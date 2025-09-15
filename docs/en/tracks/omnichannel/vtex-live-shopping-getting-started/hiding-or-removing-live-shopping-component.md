@@ -1,10 +1,10 @@
 ---
-title: 'Hiding or removing Live Shopping component'
+title: 'Hiding or removing the Live Shopping component'
 id: 7e3bP6LjFgxXC210jSpl59
 status: PUBLISHED
 createdAt: 2025-07-23T18:14:54.073Z
-updatedAt: 2025-07-28T16:21:15.534Z
-publishedAt: 2025-07-28T16:21:15.534Z
+updatedAt: 2025-09-15T18:23:16.624Z
+publishedAt: 2025-09-15T18:23:16.624Z
 firstPublishedAt: 2025-07-28T15:08:44.289Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -15,40 +15,36 @@ trackSlugEN: vtex-live-shopping-getting-started
 order: 11
 ---
 
-When the [transmission has ended](https://help.vtex.com/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/69PX90vv4oDWQ34nnBkiQt#ending-the-transmission) in Bundle or another studio, and the event [status](https://help.vtex.com/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv#event-status) is `Completed`, you must hide the **Live Shopping** component or remove the code, depending on your frontend solution. While you don’t take this action, the audience will continue to see the black display in your site or landing page.
+After [ending the transmission](https://help.vtex.com/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/69PX90vv4oDWQ34nnBkiQt#ending-the-transmission) in Bundle or an external studio and the [event status](https://help.vtex.com/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv#event-status) is `Completed`, you must hide the **Live Shopping** component or remove the code, depending on your frontend solution. The audience will continue to see a black screen on your site or landing page until you complete this action.
 
-Check the step by step according to your frontend solution:
+Check the instructions that correspond to your frontend solution:
 
 * [Store Framework (VTEX IO)](#store-framework-vtex-io)
 * [Legacy CMS Portal](#legacy-cms-portal)
 * [Headless CMS](#headless-cms)
 
-> ❗ When you end an event, the audience sees a black screen. To avoid this, we recommend displaying an image that represents the end of the transmission. The correct way to do it is the following:<ol><li>Before ending the transmission, display the ending image in Bundle on an external studio.</li><li>Hide the **Live Shopping** component or remove the code from the store (as shown in the next sections).</li><li>Wait about 10 minutes after displaying the ending image for the cache to update.</li><li>End the event.
+> ❗ If you don't want your audience to view a black screen at the end of the transmission, you can display an end-of-transmission image, as explained below:<ol><li>Before ending the transmission, display the ending image in Bundle or an external studio.</li><li>Hide the **Live Shopping** component or remove the code from the store (as shown in the next sections).</li><li>Wait about 10 minutes after displaying the ending image for the cache to update.</li><li>End the event.
 
 ## Store Framework (VTEX IO)
 
-For stores using [Store Framework](https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ#store-framework), you can simply hide the **Live Shopping** component in the [Site Editor](https://help.vtex.com/en/tutorial/managing-page-and-template-content--3tMbx6HXy4Fy5r9EhboG37), by following the steps below: 
+For stores using [Store Framework](https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ#store-framework), you can hide the **Live Shopping** component in [Site Editor](https://help.vtex.com/en/tutorial/managing-page-and-template-content--3tMbx6HXy4Fy5r9EhboG37) by following the steps below:
 
 1. In the VTEX Admin, go to **Storefront > Site Editor**, or type **Site Editor** in the search bar at the top of the page.
-2. On the list **Blocks** on the right corner of the page, select the **Live Shopping** block.
+2. On the **Blocks** list on the right side of the page, select the **Live Shopping** block.
 3. Deactivate the <i class="fas fa-toggle-off" aria-hidden="true"></i> `Show component` option.
-
-  ![article_4_store_framework_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/vtex-live-shopping-getting-started/hiding-or-removing-live-shopping-component_1.png)
-
 4. Click `Save`.
 
-> ℹ️ After configuring the **Live Shopping** component in the **Site Editor**, it may take from five to ten minutes for the changes to reflect on the storefront. While the page is being updated, a good practice is having an image placeholder finalizing the event.
+> ℹ️ After saving the **Live Shopping** component configuration in **Site Editor**, it may take five to ten minutes for the changes to be reflected on the storefront. While the page is being updated, it's good practice to have an image placeholder at the end of the event.
 
 ## Legacy CMS Portal
 
-For stores using [Legacy CMS Portal](https://help.vtex.com/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj), it is necessary to remove the **Live Shopping** script, by following the steps below: 
+For stores using [Legacy CMS Portal](https://help.vtex.com/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj), you need to remove the **Live Shopping** script by following the steps below: 
 
 1. In the VTEX Admin, go to **Storefront > Layout**, or type **Layout** in the search bar at the top of the page.
 2. Click **CMS > HTML Templates**.
-3. Delete the **Live Shopping** script on the HTML file where [you’ve placed it](https://help.vtex.com/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/4r5uk6XHxdYlOGMr11GFWR#legacy-cms-portal).
+3. Delete the **Live Shopping** script from the HTML file where [you added it](https://help.vtex.com/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/4r5uk6XHxdYlOGMr11GFWR#legacy-cms-portal).
 4. Click `Save template` on the top right of the template.
 
 ## Headless CMS
 
-For stores using [Headless CMS](https://help.vtex.com/en/tutorial/headless-cms-overview--3U5gvhHdQL0jczYH8gjX09), it is necessary to remove the **Live Shopping** script on the HTML file where [you’ve placed it](https://help.vtex.com/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/4r5uk6XHxdYlOGMr11GFWR#headless-cms).
-
+For stores using [Headless CMS](https://help.vtex.com/en/tutorial/headless-cms-overview--3U5gvhHdQL0jczYH8gjX09), you need to remove the **Live Shopping** script from the HTML file where [you added it](https://help.vtex.com/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/4r5uk6XHxdYlOGMr11GFWR#headless-cms).

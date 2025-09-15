@@ -3,8 +3,8 @@ title: '(Opcional) Utilizar estudios externos'
 id: Dw0QdKI0aGjmyD5Z6z5JC
 status: PUBLISHED
 createdAt: 2025-07-23T18:10:11.675Z
-updatedAt: 2025-09-08T22:09:33.139Z
-publishedAt: 2025-09-08T22:09:33.139Z
+updatedAt: 2025-09-15T21:42:49.757Z
+publishedAt: 2025-09-15T21:42:49.757Z
 firstPublishedAt: 2025-07-28T15:08:28.675Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -49,7 +49,7 @@ Una transmisión de alta calidad, incluyendo la transmisión a dispositivos con 
 
 ## Transmitir el evento desde un estudio externo
 
-Después de [configurar la ubicación del componente de Live Shopping](https://help.vtex.com/es/tracks/vtex-live-shopping-primeros-pasos--3eCHNCIx8XhZOSmX0sQT3U/4r5uk6XHxdYlOGMr11GFWR) y utilizar la vista previa para asegurarte de que todo esté funcionando correctamente, puedes comenzar a transmitir el evento. Como los pasos varían para cada estudio, te recomendamos revisar la documentación oficial del estudio que estés utilizando. 
+Después de [insertar el componente de Live Shopping](https://help.vtex.com/es/tracks/vtex-live-shopping-primeros-pasos--3eCHNCIx8XhZOSmX0sQT3U/4r5uk6XHxdYlOGMr11GFWR) y utilizar la vista previa para asegurarte de que todo esté funcionando correctamente, puedes comenzar a transmitir el evento. Como los pasos varían para cada estudio, te recomendamos revisar la documentación oficial del estudio que estés utilizando. 
 
 > ❗ Cuando utilices estudios externos, no intentes duplicar la transmisión a través de Bundle. Live Shopping permite una transmisión por estudio, y la plataforma reconocerá solo el primer estudio que transmita el evento.
 

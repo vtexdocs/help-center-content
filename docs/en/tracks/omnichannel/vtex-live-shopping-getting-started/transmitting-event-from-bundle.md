@@ -3,8 +3,8 @@ title: 'Transmitting events from Bundle'
 id: 69PX90vv4oDWQ34nnBkiQt
 status: PUBLISHED
 createdAt: 2025-07-23T18:12:38.825Z
-updatedAt: 2025-09-08T23:02:43.213Z
-publishedAt: 2025-09-08T23:02:43.213Z
+updatedAt: 2025-09-15T21:58:40.949Z
+publishedAt: 2025-09-15T21:58:40.949Z
 firstPublishedAt: 2025-07-28T15:08:36.589Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -53,7 +53,7 @@ As an administrator, you can either end the event transmission for everyone or l
 The main scenarios for each option are the following:
 
 * [Leave Bundle studio while keeping the transmission](#leave-bundle-studio-while-keeping-the-transmission): When someone else hosts the event, and you want to leave the studio. This action will keep the event status as `Live`. 
-* [End transmission for everyone](#end-transmission-for-everyone): When the event is over, and you want to stop the transmission completely. This will change the event status to `Completed`.
+* [End transmission for everyone](#end-the-transmission-for-everyone): When the event is over, and you want to stop the transmission completely. This will change the event status to `Completed`.
 
 > ⚠️ Once the event reaches the `Completed` [status](https://help.vtex.com/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv#event-status), it's no longer possible to transmit it live to your audience. You can only display the recording or start a new event.
 
