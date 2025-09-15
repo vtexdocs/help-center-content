@@ -3,8 +3,8 @@ title: '(Optional) Using external studios'
 id: Dw0QdKI0aGjmyD5Z6z5JC
 status: PUBLISHED
 createdAt: 2025-07-23T18:10:11.675Z
-updatedAt: 2025-09-08T22:09:33.139Z
-publishedAt: 2025-09-08T22:09:33.139Z
+updatedAt: 2025-09-15T21:42:49.757Z
+publishedAt: 2025-09-15T21:42:49.757Z
 firstPublishedAt: 2025-07-28T15:08:28.675Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -49,7 +49,7 @@ For a high-quality transmission, including streaming to devices with limited int
 
 ## Transmitting the event from an external studio
 
-After [configuring the placement of the Live Shopping component](https://help.vtex.com/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/4r5uk6XHxdYlOGMr11GFWR) and using the preview to make sure everything is working properly, you can start transmitting the event. Since the steps vary for each studio, we recommend checking the official documentation of that particular studio. 
+After [placing the Live Shopping component](https://help.vtex.com/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/4r5uk6XHxdYlOGMr11GFWR) and using the preview to make sure everything is working properly, you can start transmitting the event. Since the steps vary for each studio, we recommend checking the official documentation of that particular studio. 
 
 > ❗ When using external studios, don't try to duplicate the transmission via Bundle. Live Shopping allows one transmission per studio, and the platform will recognize only the first studio transmitting the event.
 

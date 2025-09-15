@@ -3,8 +3,8 @@ title: 'Configurar evento'
 id: 125yr6jAfwiiz84JP4ppfO
 status: PUBLISHED
 createdAt: 2025-07-23T18:02:12.430Z
-updatedAt: 2025-09-07T15:57:22.478Z
-publishedAt: 2025-09-07T15:57:22.478Z
+updatedAt: 2025-09-15T21:13:33.647Z
+publishedAt: 2025-09-15T21:13:33.647Z
 firstPublishedAt: 2025-07-28T15:08:11.624Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -15,16 +15,14 @@ trackSlugEN: vtex-live-shopping-primeiros-passos
 order: 7
 ---
 
-No Admin VTEX, acesse **Aplicativos > Live Shopping** e clique no ícone de seta de um [evento criado](https://help.vtex.com/en/tracks/vtex-live-shopping-primeiros-passos--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv) para abrir a página de **Informações do evento**. Isso permitirá configurá-lo, conforme explicado nas próximas seções:
+No Admin VTEX, acesse **Aplicativos > Live Shopping** e clique no ícone de seta de um [evento criado](https://help.vtex.com/pt/tracks/vtex-live-shopping-primeiros-passos--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv) para abrir a página de **Informações do evento**. Isso permitirá configurá-lo, conforme explicado nas próximas seções:
 
 - [Tipo de layout - Configuração do estilo](#tipo-de-layout-configuracao-do-estilo)
 - [Chat - Configuração do nome do administrador](#chat-configuracao-do-nome-do-administrador)
 - [Configurações - Configuração de funcionalidades](#configuracoes-configuracao-de-funcionalidades)
 - [Configuração do CMS - Configuração da apresentação do conteúdo](#configuracao-do-cms-configuracao-da-apresentacao-do-conteudo)
 
-> ⚠️ This article presents the main configurations for an event, so it doesn't cover all sections of the **Event Information** page. For more information, check the [Live Shopping: Events article](https://help.vtex.com/pt/tutorial/live-shopping-events--6aGLiqoKG1UoS30f3FFWch).
-
-Este artigo descreve as principais configurações para um evento, mas não cobre todas as seções da página **Informações do evento**. Para mais informações, acesse [Live Shopping: Eventos](https://help.vtex.com/pt/tutorial/live-shopping-events--6aGLiqoKG1UoS30f3FFWch).
+> ⚠️ Este artigo descreve as principais configurações para um evento, mas não cobre todas as seções da página **Informações do evento**. Para mais informações, acesse [Live Shopping: Eventos](https://help.vtex.com/pt/tutorial/live-shopping-eventos--6aGLiqoKG1UoS30f3FFWch).
 
 ## Tipo de layout - Configuração do estilo
 
@@ -59,7 +57,7 @@ Por padrão, um evento apresenta um estilo visual neutro, adequado para lojas e 
 - Título do chat
 - Botão de enviar mensagem
 
-> ℹ️ As customizações acima são feitas clicando no botão **Personalize a aparência** e preenchendo a página Aparência para alinhar com suas preferências. Para seguir o passo a passo, acesse [Live Shopping: Eventos](https://help.vtex.com/pt/tutorial/live-shopping-events--6aGLiqoKG1UoS30f3FFWch).
+> ℹ️ As customizações acima são feitas clicando no botão **Personalize a aparência** e preenchendo a página Aparência para alinhar com suas preferências. Para seguir o passo a passo, acesse [Live Shopping: Eventos](https://help.vtex.com/pt/tutorial/live-shopping-eventos--6aGLiqoKG1UoS30f3FFWch).
 
 ## Chat - Configuração do nome do administrador
 
@@ -69,7 +67,7 @@ A seção **Chat** é onde você gerencia o chat durante o evento. Se você quis
 2. Na janela **Informações da loja**, informe o nome do administrador desejado.
 3. Clique em `Confirmar`.
 
-> ℹ️ Para saber mais como fixar mensagens, bloquear usuários, excluir mensagens, e realizar outras ações no chat do evento, acesse [Live Shopping: Eventos](https://help.vtex.com/pt/tutorial/live-shopping-events--6aGLiqoKG1UoS30f3FFWch).
+> ℹ️ Para saber mais como fixar mensagens, bloquear usuários, excluir mensagens, e realizar outras ações no chat do evento, acesse [Live Shopping: Eventos](https://help.vtex.com/pt/tutorial/live-shopping-eventos--6aGLiqoKG1UoS30f3FFWch).
 
 ## Configurações - Configuração de funcionalidades
 

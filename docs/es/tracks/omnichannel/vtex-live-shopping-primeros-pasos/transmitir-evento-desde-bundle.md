@@ -1,9 +1,9 @@
 ---
 title: 'Transmitir eventos en Bundle'
 id: 69PX90vv4oDWQ34nnBkiQt
-status: PUBLISHED
+status: CHANGED
 createdAt: 2025-07-23T18:12:38.825Z
-updatedAt: 2025-09-08T23:02:43.213Z
+updatedAt: 2025-09-15T21:53:55.918Z
 publishedAt: 2025-09-08T23:02:43.213Z
 firstPublishedAt: 2025-07-28T15:08:36.589Z
 contentType: trackArticle
@@ -17,12 +17,12 @@ order: 10
 
 Este artículo describe las etapas para transmitir tu evento desde el estudio Bundle.
 
-> ❗ Si utilizas otro estudio, consulta [Transmitir un evento desde un estudio externo](https://help.vtex.com/es/tracks/vtex-live-shopping-primeros-pasos--3eCHNCIx8XhZOSmX0sQT3U/Dw0QdKI0aGjmyD5Z6z5JC) y no dupliques la transmisión del evento en Bundle. **Live Shopping** permite solo una transmisión por estudio, y la plataforma reconocerá únicamente el primer estudio que transmita el evento.
+> ❗ Si utilizas otro estudio, consulta [Utilizar estudios externos](https://help.vtex.com/es/tracks/vtex-live-shopping-primeros-pasos--3eCHNCIx8XhZOSmX0sQT3U/Dw0QdKI0aGjmyD5Z6z5JC) y no dupliques la transmisión del evento en Bundle. **Live Shopping** permite solo una transmisión por estudio, y la plataforma reconocerá únicamente el primer estudio que transmita el evento.
 
 Este proceso abarca las siguientes etapas:
 
-1. [Iniciar un evento](#iniciar-un-evento)
-2. [Iniciar la transmisión en vivo](#iniciar-la-transmision-en-vivo)
+1. [Iniciar el evento](#iniciar-el-evento)
+2. [Iniciar la transmisión](#iniciar-la-transmision)
 3. [Finalizar la transmisión](#finalizar-la-transmision)
 
 > ⚠️ Durante la transmisión, pueden ajustarse algunas configuraciones, mientras que otras no están disponibles:<ul><li>✅ Puedes configurar el chat.</li><li>✅ Puedes realizar cambios en las colecciones de productos.</li><li>✅ Puedes configurar recursos visuales.</li><li>✅ Puedes ajustar la configuración de audio y video  (solo estudios externos).</li><li>❌ No puedes cambiar el layout.</li></ul>

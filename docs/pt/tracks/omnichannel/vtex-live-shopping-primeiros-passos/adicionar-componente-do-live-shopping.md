@@ -3,8 +3,8 @@ title: 'Adicionar componente do Live Shopping'
 id: 4r5uk6XHxdYlOGMr11GFWR
 status: PUBLISHED
 createdAt: 2025-07-23T17:54:26.773Z
-updatedAt: 2025-09-06T19:36:04.789Z
-publishedAt: 2025-09-06T19:36:04.789Z
+updatedAt: 2025-09-15T20:53:57.710Z
+publishedAt: 2025-09-15T20:53:57.710Z
 firstPublishedAt: 2025-07-28T15:07:46.555Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -15,7 +15,7 @@ trackSlugEN: vtex-live-shopping-primeiros-passos
 order: 4
 ---
 
-Depois que seu evento estiver [configurado no Bundle](https://help.vtex.com/pt/tracks/vtex-live-shopping-primeiros-passos--3eCHNCIx8XhZOSmX0sQT3U/3GKzrP9nkyRwpUyyeYUaeX) ou em um estúdio externo e antes de transmiti-lo, adicione o componente **Live Shopping** ao seu site, seja na página inicial da loja ou em uma [landing page](https://help.vtex.com/tutorial/live-shopping-configuring-a-landing-page-for-live-shopping-events--4iBDPEpXyKSfoIqUdwHGFE). As etapas de configuração variam de acordo com a solução de frontend da sua loja:
+Depois que seu evento estiver [configurado no Bundle](https://help.vtex.com/pt/tracks/vtex-live-shopping-primeiros-passos--3eCHNCIx8XhZOSmX0sQT3U/3GKzrP9nkyRwpUyyeYUaeX) ou em um estúdio externo e antes de transmiti-lo, adicione o componente **Live Shopping** ao seu site, seja na página inicial da loja ou em uma [landing page](https://help.vtex.com/pt/tutorial/live-shopping-configurar-landing-page-para-transmissoes-ao-vivo--4iBDPEpXyKSfoIqUdwHGFE). As etapas de configuração variam de acordo com a solução de frontend da sua loja:
 
 * [Store Framework (VTEX IO)](#store-framework-vtex-io)
 * [CMS - Portal Legado](#cms-portal-legado)
@@ -25,14 +25,11 @@ Depois que seu evento estiver [configurado no Bundle](https://help.vtex.com/pt/t
 
 ## Store Framework (VTEX IO)
 
-Para lojas que usam [Store Framework](https://help.vtex.com/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ#store-framework), siga as etapas abaixo para adicionar o componente **Live Shopping** através do [Site Editor](https://help.vtex.com/pt/tutorial/managing-page-and-template-content--3tMbx6HXy4Fy5r9EhboG37):
+Para lojas que usam [Store Framework](https://help.vtex.com/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ#store-framework), siga as etapas abaixo para adicionar o componente **Live Shopping** através do [Site Editor](https://help.vtex.com/pt/tutorial/gerenciando-conteudo-de-pagina-e-template--3tMbx6HXy4Fy5r9EhboG37):
 
 1. No Admin VTEX, acesse **Storefront > Site Editor**, ou digite **Site Editor** na barra de busca no topo da página.
 2. Na lista **Blocos**, no lado direito da página, selecione o bloco **Live Shopping** .
 3. Ative a opção <i class="fas fa-toggle-on" aria-hidden="true"></i> `Mostrar componente`.
-
-  ![article_4_store_framework_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/vtex-live-shopping-primeiros-passos/adicionar-componente-do-live-shopping_1.png)
-
 4. Clique no menu suspenso **Eventos (ao vivo)** e selecione o evento desejado. As opções exibidas incluem apenas eventos com o [status](https://help.vtex.com/pt/tracks/vtex-live-shopping-primeiros-passos--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv#status-do-evento) `Ao vivo`.
 5. Clique em `Salvar`.
 
@@ -41,11 +38,11 @@ Para lojas que usam [Store Framework](https://help.vtex.com/pt/tracks/trilha-da-
 Para lojas que usam [CMS - Portal Legado](https://help.vtex.com/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj), siga as etapas abaixo para adicionar o componente **Live Shopping**:
 
 1. Na página **Informações do evento** do [evento criado](https://help.vtex.com/pt/tracks/vtex-live-shopping-primeiros-passos--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv), clique no ícone de seta.
-2. Após [ativar o evento](https://help.vtex.com/pt/tracks/tracks/vtex-live-shopping-primeiros-passos--3eCHNCIx8XhZOSmX0sQT3U/6NrWRLAJEHijcd6tLIWoqq), acesse a seção **Configuração do CMS**.
+2. Após [ativar o evento](https://help.vtex.com/pt/tracks/vtex-live-shopping-primeiros-passos--3eCHNCIx8XhZOSmX0sQT3U/6NrWRLAJEHijcd6tLIWoqq), acesse a seção **Configuração do CMS**.
 3. Em **Script para o template**, selecione `Template CMS`.
 4. Copie o código em **Script para o template**.
 
-  ![article_4_legacy_cms_portal_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/vtex-live-shopping-primeiros-passos/adicionar-componente-do-live-shopping_2.png)
+  ![article_4_legacy_cms_portal_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/vtex-live-shopping-primeiros-passos/adicionar-componente-do-live-shopping_1.png)
 
 5. Acesse **Storefront > Layout**, ou digite **Layout** na barra de busca no topo da página.
 6. Clique em **CMS > Templates HTML**.
@@ -53,15 +50,15 @@ Para lojas que usam [CMS - Portal Legado](https://help.vtex.com/pt/tracks/cms--2
 
 ## Headless CMS
 
-Para lojas que usam [Headless CMS](https://help.vtex.com/pt/tutorial/vtex-live-shopping-primeiros-passos--3U5gvhHdQL0jczYH8gjX09), siga as etapas abaixo para adicionar o componente **Live Shopping**: 
+Para lojas que usam [Headless CMS](https://help.vtex.com/pt/tutorial/headless-cms-visao-geral--3U5gvhHdQL0jczYH8gjX09), siga as etapas abaixo para adicionar o componente **Live Shopping**: 
 
 1. Na página **Informações do evento** do [evento criado](https://help.vtex.com/pt/tracks/vtex-live-shopping-primeiros-passos--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv), clique no ícone de seta.
 2. Acesse a sessão de **Configuração do CMS**.
 3. Em **Script para o template**, selecione `Template externo`.
 4. Copie o código em **Script para o template**.
 
-  ![article_4_headless_cms_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/vtex-live-shopping-primeiros-passos/adicionar-componente-do-live-shopping_3.png)
+  ![article_4_headless_cms_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/vtex-live-shopping-primeiros-passos/adicionar-componente-do-live-shopping_2.png)
 
 5. Cole o código no arquivo HTML desejado.
 
-> ❗ Após configurar o evento, é possível visualizá-lo clicando no botão [Pré-visualização](https://help.vtex.com/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/125yr6jAfwiiz84JP4ppfO#preview). No entanto, como essa visualização exibe somente determinados componentes do **Live Shopping**, recomendamos fazer verificações adicionais em todo o site para garantir que tudo esteja funcionando corretamente.
+> ❗ Após configurar o evento, é possível visualizá-lo clicando no botão [Pré-visualização](https://help.vtex.com/pt/tracks/vtex-live-shopping-primeiros-passos--3eCHNCIx8XhZOSmX0sQT3U/125yr6jAfwiiz84JP4ppfO#pre-visualizacao). No entanto, como essa visualização exibe somente determinados componentes do **Live Shopping**, recomendamos fazer verificações adicionais em todo o site para garantir que tudo esteja funcionando corretamente.

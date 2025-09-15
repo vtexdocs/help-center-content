@@ -3,8 +3,8 @@ title: 'Installing Live Shopping'
 id: 5r4DSCZCdQUErgJzLGtiMD
 status: PUBLISHED
 createdAt: 2025-07-23T17:40:02.306Z
-updatedAt: 2025-09-06T18:28:42.388Z
-publishedAt: 2025-09-06T18:28:42.388Z
+updatedAt: 2025-09-15T20:37:48.025Z
+publishedAt: 2025-09-15T20:37:48.025Z
 firstPublishedAt: 2025-07-28T15:07:26.166Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
