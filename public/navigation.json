@@ -10762,9 +10762,24 @@
                 },
                 {
                   "name": {
-                    "en": "11. Hiding or removing the Live Shopping component",
-                    "es": "11. Ocultar o remover componente de Live Shopping",
-                    "pt": "11. Ocultar ou remover componente do Live Shopping"
+                    "en": "11. Transmitting events from Bundle",
+                    "es": "11. Transmitir eventos en Bundle",
+                    "pt": "11. Transmitir eventos no Bundle"
+                  },
+                  "slug": {
+                    "en": "transmitting-event-from-bundle",
+                    "es": "transmitir-evento-desde-bundle",
+                    "pt": "transmitir-evento-a-partir-do-bundle"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "12. Hiding or removing the Live Shopping component",
+                    "es": "12. Ocultar o remover componente de Live Shopping",
+                    "pt": "12. Ocultar ou remover componente do Live Shopping"
                   },
                   "slug": {
                     "en": "hiding-or-removing-live-shopping-component",
@@ -10777,9 +10792,9 @@
                 },
                 {
                   "name": {
-                    "en": "12. Getting the event recording",
-                    "es": "12. Obtener la grabación del evento",
-                    "pt": "12. Obter gravação do evento"
+                    "en": "13. Getting the event recording",
+                    "es": "13. Obtener la grabación del evento",
+                    "pt": "13. Obter gravação do evento"
                   },
                   "slug": {
                     "en": "getting-event-recording",
