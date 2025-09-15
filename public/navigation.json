@@ -10762,24 +10762,9 @@
                 },
                 {
                   "name": {
-                    "en": "11. Transmitting events from Bundle",
-                    "es": "11. Transmitir eventos en Bundle",
-                    "pt": "11. Transmitir eventos no Bundle"
-                  },
-                  "slug": {
-                    "en": "transmitting-event-from-bundle",
-                    "es": "transmitir-evento-desde-bundle",
-                    "pt": "transmitir-evento-a-partir-do-bundle"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "12. Hiding or removing Live Shopping component",
-                    "es": "12. Ocultar o eliminar componente de Live Shopping",
-                    "pt": "12. Ocultar ou remover componente do Live Shopping"
+                    "en": "11. Hiding or removing the Live Shopping component",
+                    "es": "11. Ocultar o remover componente de Live Shopping",
+                    "pt": "11. Ocultar ou remover componente do Live Shopping"
                   },
                   "slug": {
                     "en": "hiding-or-removing-live-shopping-component",
@@ -10792,9 +10777,9 @@
                 },
                 {
                   "name": {
-                    "en": "13. Getting event recording",
-                    "es": "13. Obtener la grabación del evento",
-                    "pt": "13. Obter gravação do evento"
+                    "en": "12. Getting the event recording",
+                    "es": "12. Obtener la grabación del evento",
+                    "pt": "12. Obter gravação do evento"
                   },
                   "slug": {
                     "en": "getting-event-recording",
@@ -43711,6 +43696,21 @@
                 "en": "shopee-catalog-sync-blocked-due-to-excess-variation-attributes",
                 "es": "shopee-sincronizacion-de-catalogo-bloqueada-por-exceso-de-atributos-de-variacion",
                 "pt": "shopee-sincronizacao-de-catalogo-bloqueada-devido-ao-excesso-de-atributos-de-variacao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Shopee Error “The model_id is wrong or not related to this item”",
+                "es": "Shopee Error \"El model_id es incorrecto o no está relacionado con este artículo\"",
+                "pt": "Shopee Erro \"O model_id está errado ou não está relacionado a este item\""
+              },
+              "slug": {
+                "en": "shopee-error-the-modelid-is-wrong-or-not-related-to-this-item",
+                "es": "shopee-error-el-modelid-es-incorrecto-o-no-esta-relacionado-con-este-articulo",
+                "pt": "shopee-erro-o-modelid-esta-errado-ou-nao-esta-relacionado-a-este-item"
               },
               "origin": "",
               "type": "markdown",
