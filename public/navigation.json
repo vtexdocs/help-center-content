@@ -19543,6 +19543,159 @@
         },
         {
           "name": {
+            "en": "Indeva by VTEX",
+            "es": "Indeva by VTEX",
+            "pt": "Indeva by VTEX"
+          },
+          "slug": {
+            "en": "indeva-by-vtex",
+            "es": "indeva-by-vtex",
+            "pt": "indeva-by-vtex"
+          },
+          "origin": "",
+          "type": "category",
+          "children": [
+            {
+              "name": {
+                "en": "Overview",
+                "es": "Visión general",
+                "pt": "Visão Geral"
+              },
+              "slug": {
+                "en": "overview",
+                "es": "vision-general",
+                "pt": "visao-geral"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Overview Panel",
+                    "es": "Panel general",
+                    "pt": "Painel Visão Geral"
+                  },
+                  "slug": {
+                    "en": "overview-panel-indeva",
+                    "es": "panel-general-indeva",
+                    "pt": "painel-visao-geral-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "User account",
+                "es": "Cuenta de usuario",
+                "pt": "Conta do usuário"
+              },
+              "slug": {
+                "en": "user-account",
+                "es": "cuenta-de-usuario",
+                "pt": "conta-do-usuario"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Access the financial area",
+                    "es": "Acceder al área financiera",
+                    "pt": "Acessar a área financeira"
+                  },
+                  "slug": {
+                    "en": "access-the-financial-area-indeva",
+                    "es": "acceder-al-area-financiera-indeva",
+                    "pt": "acessar-a-area-financeira-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Add a store",
+                    "es": "Agregar una tienda",
+                    "pt": "Adicionar uma loja"
+                  },
+                  "slug": {
+                    "en": "add-a-store-indeva",
+                    "es": "agregar-una-tienda-indeva",
+                    "pt": "adicionar-uma-loja-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Cancel a subscription",
+                    "es": "Cancelar una suscripción",
+                    "pt": "Cancelar uma assinatura"
+                  },
+                  "slug": {
+                    "en": "cancel-a-subscription-indeva",
+                    "es": "cancelar-una-suscripcion-indeva",
+                    "pt": "cancelar-uma-assinatura-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Create or reset password to access the Indeva platform",
+                    "es": "Crear o restablecer la contraseña para acceder a la plataforma Indeva",
+                    "pt": "Cadastrar ou redefinir senha para acesso à plataforma Indeva"
+                  },
+                  "slug": {
+                    "en": "create-or-reset-password-to-access-the-indeva-platform",
+                    "es": "crear-o-restablecer-la-contrasena-para-acceder-a-la-plataforma-indeva",
+                    "pt": "cadastrar-ou-redefinir-senha-para-acesso-a-plataforma-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Navigate the financial area",
+                    "es": "Navegar en el área financiera",
+                    "pt": "Navegar na área financeira"
+                  },
+                  "slug": {
+                    "en": "navigate-the-financial-area-indeva",
+                    "es": "navegar-en-el-area-financiera-indeva",
+                    "pt": "navegar-na-area-financeira-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Update user account information",
+                    "es": "Actualizar la información de la cuenta de usuario",
+                    "pt": "Atualizar dados da conta do usuário"
+                  },
+                  "slug": {
+                    "en": "update-user-account-information-indeva",
+                    "es": "actualizar-la-informacion-de-la-cuenta-de-usuario-indeva",
+                    "pt": "atualizar-dados-da-conta-do-usuario-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": {
             "en": "Infrastructure",
             "es": "Infraestructura",
             "pt": "Infraestrutura"
@@ -27788,82 +27941,6 @@
           "children": [
             {
               "name": {
-                "en": "Campaign Audiences",
-                "es": "Audiencia de las Campañas",
-                "pt": "Audiência de campanhas"
-              },
-              "slug": {
-                "en": "campaign-audiences-category",
-                "es": "audiencia-de-las-campanas",
-                "pt": "audiencia-de-campanhas"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Campaign audiences",
-                    "es": "​​Audiencias de campañas",
-                    "pt": "Audiências de campanhas"
-                  },
-                  "slug": {
-                    "en": "campaign-audiences",
-                    "es": "audiencias-de-campanas",
-                    "pt": "audiencias-de-campanhas"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Campaign audiences list",
-                    "es": "Lista de audiencias de campañas",
-                    "pt": "Lista de Audiências de campanhas"
-                  },
-                  "slug": {
-                    "en": "campaign-audiences-list",
-                    "es": "lista-de-audiencias-de-campanas",
-                    "pt": "lista-de-audiencias-de-campanhas"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Creating a campaign audience",
-                    "es": "Crear audiencias de campaña",
-                    "pt": "Criar Audiência de campanha"
-                  },
-                  "slug": {
-                    "en": "creating-a-campaign-audience",
-                    "es": "crear-audiencias-de-campana",
-                    "pt": "criar-audiencia-de-campanha"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Creating a campaign promotion",
-                    "es": "Crear una promoción de campaña",
-                    "pt": "Criar promoção de campanha"
-                  },
-                  "slug": {
-                    "en": "campaign-promotion",
-                    "es": "promocion-de-campana",
-                    "pt": "promocao-de-campanha"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
                 "en": "Coupons",
                 "es": "Cupones",
                 "pt": "Cupons"
@@ -28397,6 +28474,82 @@
                     "en": "what-does-it-mean-to-activate-a-gift-multiplier-on-a-promotion",
                     "es": "que-significa-activar-el-multiplicador-de-regalo-en-una-promocion",
                     "pt": "o-que-significa-ativar-o-multiplicador-de-brinde-em-uma-promocao"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Campaign Audiences",
+                "es": "Audiencia de las Campañas",
+                "pt": "Audiência de campanhas"
+              },
+              "slug": {
+                "en": "campaign-audiences-category",
+                "es": "audiencia-de-las-campanas",
+                "pt": "audiencia-de-campanhas"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Campaign audiences",
+                    "es": "​​Audiencias de campañas",
+                    "pt": "Audiências de campanhas"
+                  },
+                  "slug": {
+                    "en": "campaign-audiences",
+                    "es": "audiencias-de-campanas",
+                    "pt": "audiencias-de-campanhas"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Campaign audiences list",
+                    "es": "Lista de audiencias de campañas",
+                    "pt": "Lista de Audiências de campanhas"
+                  },
+                  "slug": {
+                    "en": "campaign-audiences-list",
+                    "es": "lista-de-audiencias-de-campanas",
+                    "pt": "lista-de-audiencias-de-campanhas"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Creating a campaign audience",
+                    "es": "Crear audiencias de campaña",
+                    "pt": "Criar Audiência de campanha"
+                  },
+                  "slug": {
+                    "en": "creating-a-campaign-audience",
+                    "es": "crear-audiencias-de-campana",
+                    "pt": "criar-audiencia-de-campanha"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Creating a campaign promotion",
+                    "es": "Crear una promoción de campaña",
+                    "pt": "Criar promoção de campanha"
+                  },
+                  "slug": {
+                    "en": "campaign-promotion",
+                    "es": "promocion-de-campana",
+                    "pt": "promocao-de-campanha"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -33544,159 +33697,6 @@
                     "en": "connecting-to-retailers-and-marketplaces-using-vtex-network",
                     "es": "conectandose-a-comerciantes-y-marketplaces-por-el-vtex-network",
                     "pt": "vtex-network"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": {
-            "en": "Indeva by VTEX",
-            "es": "Indeva by VTEX",
-            "pt": "Indeva by VTEX"
-          },
-          "slug": {
-            "en": "indeva-by-vtex",
-            "es": "indeva-by-vtex",
-            "pt": "indeva-by-vtex"
-          },
-          "origin": "",
-          "type": "category",
-          "children": [
-            {
-              "name": {
-                "en": "Overview",
-                "es": "Visión general",
-                "pt": "Visão geral"
-              },
-              "slug": {
-                "en": "overview",
-                "es": "vision-general",
-                "pt": "visao-geral"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Overview Panel",
-                    "es": "Panel general",
-                    "pt": "Painel Visão Geral"
-                  },
-                  "slug": {
-                    "en": "overview-panel-indeva",
-                    "es": "panel-general-indeva",
-                    "pt": "painel-visao-geral-indeva"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "User account",
-                "es": "Cuenta de usuario",
-                "pt": "Conta do usuário"
-              },
-              "slug": {
-                "en": "user-account",
-                "es": "cuenta-de-usuario",
-                "pt": "conta-do-usuario"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Access the financial area",
-                    "es": "Acceder al área financiera",
-                    "pt": "Acessar a área financeira"
-                  },
-                  "slug": {
-                    "en": "access-the-financial-area-indeva",
-                    "es": "acceder-al-area-financiera-indeva",
-                    "pt": "acessar-a-area-financeira-indeva"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Add a store",
-                    "es": "Agregar una tienda",
-                    "pt": "Adicionar uma loja"
-                  },
-                  "slug": {
-                    "en": "add-a-store-indeva",
-                    "es": "agregar-una-tienda-indeva",
-                    "pt": "adicionar-uma-loja-indeva"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Cancel a subscription",
-                    "es": "Cancelar una suscripción",
-                    "pt": "Cancelar uma assinatura"
-                  },
-                  "slug": {
-                    "en": "cancel-a-subscription-indeva",
-                    "es": "cancelar-una-suscripcion-indeva",
-                    "pt": "cancelar-uma-assinatura-indeva"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Create or reset password to access the Indeva platform",
-                    "es": "Crear o restablecer la contraseña para acceder a la plataforma Indeva",
-                    "pt": "Cadastrar ou redefinir senha para acesso à plataforma Indeva"
-                  },
-                  "slug": {
-                    "en": "create-or-reset-password-to-access-the-indeva-platform",
-                    "es": "crear-o-restablecer-la-contrasena-para-acceder-a-la-plataforma-indeva",
-                    "pt": "cadastrar-ou-redefinir-senha-para-acesso-a-plataforma-indeva"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Navigate the financial area",
-                    "es": "Navegar en el área financiera",
-                    "pt": "Navegar na área financeira"
-                  },
-                  "slug": {
-                    "en": "navigate-the-financial-area-indeva",
-                    "es": "navegar-en-el-area-financiera-indeva",
-                    "pt": "navegar-na-area-financeira-indeva"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Update user account information",
-                    "es": "Actualizar la información de la cuenta de usuario",
-                    "pt": "Atualizar dados da conta do usuário"
-                  },
-                  "slug": {
-                    "en": "update-user-account-information-indeva",
-                    "es": "actualizar-la-informacion-de-la-cuenta-de-usuario-indeva",
-                    "pt": "atualizar-dados-da-conta-do-usuario-indeva"
                   },
                   "origin": "",
                   "type": "markdown",

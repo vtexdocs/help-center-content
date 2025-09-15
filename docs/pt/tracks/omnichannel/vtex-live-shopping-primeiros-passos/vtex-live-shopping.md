@@ -3,8 +3,8 @@ title: 'VTEX Live Shopping'
 id: 17HV0OAaCIB46tW9O1rVEJ
 status: PUBLISHED
 createdAt: 2025-07-23T17:25:26.276Z
-updatedAt: 2025-09-06T18:12:41.458Z
-publishedAt: 2025-09-06T18:12:41.458Z
+updatedAt: 2025-09-15T22:39:39.657Z
+publishedAt: 2025-09-15T22:39:39.657Z
 firstPublishedAt: 2025-07-28T15:07:19.474Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -33,7 +33,7 @@ Em um evento de **Live Shopping**, os seguintes recursos estão disponíveis:
 
 Veja abaixo como os recursos apareceriam em um evento real de **Live Shopping**:
 
-![article_1_overview_v2_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/vtex-live-shopping-primeiros-passos/vtex-live-shopping_1.png)
+![article_1_overview_v3_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/vtex-live-shopping-primeiros-passos/vtex-live-shopping_1.png)
 
 > ℹ️ O [Live Shopping](https://help.vtex.com/en/tutorial/live-shopping--1cYWPIbjNMyr072sksHSVL) é um aplicativo pago com diferentes planos de assinatura. Para mais informações, acesse a [VTEX App Store](https://apps.vtex.com/liveshopping/p).
 
