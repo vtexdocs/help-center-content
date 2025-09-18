@@ -17,6 +17,7 @@ const { isArchived } = require("./utils/entryStatus");
 const { normalizeFolderName } = require("./utils/normalize");
 const { convertInlineHtmlToMarkdown } = require("./utils/markdownUtils");
 const { updateImages } = require("./utils/updateImages");
+const { runLinkConversion } = require("./utils/linkConverter");
 const { isDraft } = require("contentful-management");
 const fs = require("fs");
 const path = require("path");
@@ -36,6 +37,11 @@ async function main() {
   const skipImages = args.skipImages;
   const skipWrite = args.skipWrite;
   const updatedAfter = args.updatedAfter;
+  const skipLinkConversion = !!args.skipLinkConversion;
+  const convertLinksOnly = !!args.convertLinksOnly;
+  const dryRun = !!args.dryRun;
+  const backup = !!args.backup;
+  const verbose = !!args.verbose;
 
   const invalidTypes = contentTypes.filter((t) => !allowedTypes.includes(t));
 
@@ -59,6 +65,25 @@ async function main() {
       return;
     }
     locales = [args.locale];
+  }
+
+  // Handle convertLinksOnly mode
+  if (convertLinksOnly) {
+    console.log("🔗 Running link conversion only...");
+    try {
+      const results = await runLinkConversion({
+        docsPath: path.join(__dirname, "..", "docs"),
+        locales,
+        dryRun,
+        backup,
+        verbose
+      });
+      console.log("✅ Link conversion completed successfully.");
+      return;
+    } catch (error) {
+      console.error("❌ Link conversion failed:", error.message);
+      process.exit(1);
+    }
   }
 
   // Optionally clean docs folder before fetching content
@@ -271,6 +296,26 @@ async function main() {
       console.log(`🖼️ Starting image update process for ${folder}`);
       await updateImages(folder, locales); // currently only process one locale for images
     }
+  }
+
+  // LINK CONVERSION - Run after ALL content migration is complete
+  if (!skipLinkConversion) {
+    console.log("🔗 Starting link conversion process...");
+    try {
+      const results = await runLinkConversion({
+        docsPath: path.join(__dirname, "..", "docs"),
+        locales,
+        dryRun,
+        backup,
+        verbose
+      });
+      console.log("✅ Link conversion completed successfully.");
+    } catch (error) {
+      console.error("❌ Link conversion failed:", error.message);
+      process.exit(1);
+    }
+  } else {
+    console.log("⏭️ Skipping link conversion (--skipLinkConversion flag set)");
   }
 }
 
