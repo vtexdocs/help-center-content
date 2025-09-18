@@ -39,6 +39,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Carrier selection field will be discontinued in promotions with shipping method",
+                    "es": "Descontinuación del campo de selección de transportadora en promociones con método de envío",
+                    "pt": "Campo de seleção de transportadora será descontinuado em promoções com método de envio"
+                  },
+                  "slug": {
+                    "en": "2025-09-17-carrier-selection-field-will-be-discontinued-in-promotions-with-shipping",
+                    "es": "2025-09-17-descontinuacion-del-campo-de-seleccion-de-transportadora-en-promociones-con",
+                    "pt": "2025-09-17-campo-de-selecao-de-transportadora-sera-descontinuado-em-promocoes-com"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Checkout: New reCAPTCHA validation",
                     "es": "Checkout: nueva validación de reCAPTCHA",
                     "pt": "Checkout: nova validação do reCAPTCHA"
@@ -36303,6 +36318,21 @@
             },
             {
               "name": {
+                "en": "Inserting multiple specification values not working on legacy catalog",
+                "es": "La inserción de múltiples valores de especificación no funciona en el catálogo heredado",
+                "pt": "A inserção de vários valores de especificação não está funcionando no catálogo legado"
+              },
+              "slug": {
+                "en": "inserting-multiple-specification-values-not-working-on-legacy-catalog",
+                "es": "la-insercion-de-multiples-valores-de-especificacion-no-funciona-en-el-catalogo-heredado",
+                "pt": "a-insercao-de-varios-valores-de-especificacao-nao-esta-funcionando-no-catalogo-legado"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Installment options not updating automatically on PDP/PLP",
                 "es": "Las opciones de pago a plazos no se actualizan automáticamente en PDP/PLP",
                 "pt": "As opções de parcelamento não são atualizadas automaticamente no PDP/PLP"
@@ -36761,6 +36791,36 @@
                 "en": "notifyme-report-generates-a-corrupted-file-when-there-are-no-skus-found",
                 "es": "el-informe-notificame-genera-un-archivo-danado-cuando-no-se-encuentran-skus",
                 "pt": "o-relatorio-notifyme-gera-um-arquivo-corrompido-quando-nao-ha-skus-encontrados"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Number-type product specifications allow importing array of values",
+                "es": "Las especificaciones de producto de tipo numérico permiten importar matrices de valores",
+                "pt": "As especificações de produto do tipo número permitem a importação de uma matriz de valores"
+              },
+              "slug": {
+                "en": "numbertype-product-specifications-allow-importing-array-of-values",
+                "es": "las-especificaciones-de-producto-de-tipo-numerico-permiten-importar-matrices-de-valores",
+                "pt": "as-especificacoes-de-produto-do-tipo-numero-permitem-a-importacao-de-uma-matriz-de-valores"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Number-type product specifications allow importing decimal values",
+                "es": "Las especificaciones de producto de tipo numérico permiten importar valores decimales",
+                "pt": "As especificações de produtos do tipo número permitem a importação de valores decimais"
+              },
+              "slug": {
+                "en": "numbertype-product-specifications-allow-importing-decimal-values",
+                "es": "las-especificaciones-de-producto-de-tipo-numerico-permiten-importar-valores-decimales",
+                "pt": "as-especificacoes-de-produtos-do-tipo-numero-permitem-a-importacao-de-valores-decimais"
               },
               "origin": "",
               "type": "markdown",
