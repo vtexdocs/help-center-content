@@ -27,7 +27,7 @@ Every B2B store preparing to go into production and configure a final domain sho
 
 ## Prerequisite
 
-If you already have a B2C (Business to Consumer) store on VTEX, before following the steps described below, you need to create a multistore for your B2B operation. Check out the article [Create multistore / multidomain](https://help.vtex.com/en/tutorial/creating-multi-store-multi-domain--tutorials_510) for more information.
+If you already have a B2C (Business to Consumer) store on VTEX, before following the steps described below, you need to create a multistore for your B2B operation. Check out the article [Create multistore / multidomain](/en/tutorial/creating-multi-store-multi-domain--tutorials_510) for more information.
 
 ## 1. Include a conditional rule in the B2B Commercial Policy
 
@@ -61,7 +61,7 @@ Browsing by non-approved users (when attempting to access any page, they will be
 
 Users not registered on the website need an interface for pre-registration. The pre-registration is a form with basic information about the user. Although basic, such information must be sufficient for the store owner to approve and release the user’s browsing on the website.
 
-Accordingly, all pre-registration fields must be defined. B2B usually uses client information (name, email, phone etc.) and their address (street, district, city etc.) for purposes of pre-registration. Check our article [Import customer data - Brazil](https://help.vtex.com/en/tutorial/importando-dados-de-clientes-brasil--2zWYVOyj0sISYQmeUwCsI0 "Importar dados de clientes - Brasil") for more information about the required data.
+Accordingly, all pre-registration fields must be defined. B2B usually uses client information (name, email, phone etc.) and their address (street, district, city etc.) for purposes of pre-registration. Check our article [Import customer data - Brazil](/en/tutorial/importando-dados-de-clientes-brasil--2zWYVOyj0sISYQmeUwCsI0 "Importar dados de clientes - Brasil") for more information about the required data.
 
 > ⚠️ The field used as conditional rule in the commercial policy should not be included in this form, since users cannot approve themselves, this being under the responsibility of the store.
 

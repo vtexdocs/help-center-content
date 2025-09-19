@@ -19,7 +19,7 @@ The [Shareable Cart](https://apps.vtex.com/vtex-social-selling/p) app allows sal
 
 ![Shareable Cart Demo](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/orders/telesales-and-customer-service/how-to-activate-the-shareable-cart-app_1.gif)
 
-This article explains how to install the app and configure this functionality in your store. After completing the activation steps, your sales assistants will be able to [follow the instructions](https://help.vtex.com/en/tutorial/como-usar-o-app-carrinho-compartilhavel--3ePPpkmeZ96GXbeIoGZbTN) to start your Social Selling strategies.
+This article explains how to install the app and configure this functionality in your store. After completing the activation steps, your sales assistants will be able to [follow the instructions](/en/tutorial/como-usar-o-app-carrinho-compartilhavel--3ePPpkmeZ96GXbeIoGZbTN) to start your Social Selling strategies.
 
 ## Installation 
 
@@ -63,7 +63,7 @@ The field in which the salesperson code will be inserted depends on the store ne
 
 If both options are selected, the sales assistant needs to indicate which field he is filling in the cart sharing interface.
 
-> ℹ️ The added information can be found on the **Promotions and Partnerships card** in the [orders details](https://help.vtex.com/en/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/204AjAQseJe8RLUi8GAhiC?locale=pt) or within the `marketingData` object returned when obtaining the order information using the [Orders API](https://developers.vtex.com/reference/orders#getorder).
+> ℹ️ The added information can be found on the **Promotions and Partnerships card** in the [orders details](/en/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/204AjAQseJe8RLUi8GAhiC?locale=pt) or within the `marketingData` object returned when obtaining the order information using the [Orders API](https://developers.vtex.com/reference/orders#getorder).
 
 ### Channels
 
@@ -80,7 +80,7 @@ This setting allows you to activate the desired sharing channels in the cart sha
 
 ## Customization (optional)
 
-You can change the button colors on your store's cart sharing interface through [Checkout customization](https://help.vtex.com/en/tutorial/configurar-template-no-smartcheckout--frequentlyAskedQuestions_599). 
+You can change the button colors on your store's cart sharing interface through [Checkout customization](/en/tutorial/configurar-template-no-smartcheckout--frequentlyAskedQuestions_599). 
 
 In the image below, option A shows the original colors and option B shows one possible customization.
 
@@ -183,7 +183,7 @@ Then change the properties in the CSS code according to your needs.
 
 ### How is this functionality technically possible?
 
-The app uses VTEX's [shared cart](https://help.vtex.com/en/tutorial/o-que-e-o-carrinho-compartilhado--3oKJZfoAoUm8g0ukCIGsUu?locale=pt) functionality, which allows more than one customer to add, remove or update items and information from the same cart.
+The app uses VTEX's [shared cart](/en/tutorial/o-que-e-o-carrinho-compartilhado--3oKJZfoAoUm8g0ukCIGsUu?locale=pt) functionality, which allows more than one customer to add, remove or update items and information from the same cart.
 
 ### How to identify sales assistants and promotions?
 
@@ -230,7 +230,7 @@ See some possibilities in the table below. We recommend that the store's technic
   </tbody>
 </table>
 
-> ℹ️ In Scenario 4 it is necessary to [generate coupons in bulk](https://help.vtex.com/en/tutorial/how-to-generate-massive-coupons--frequentlyAskedQuestions_348), so that each sales assistant has their own coupon for identification and discount activation.
+> ℹ️ In Scenario 4 it is necessary to [generate coupons in bulk](/en/tutorial/how-to-generate-massive-coupons--frequentlyAskedQuestions_348), so that each sales assistant has their own coupon for identification and discount activation.
 
 ### Who fills in personal details and addresses, sales assistants or customers?
 

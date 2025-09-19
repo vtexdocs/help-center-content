@@ -33,5 +33,5 @@ Para configurar a janela de tempo, siga os passos abaixo:
 
 ### Artigos relacionados
 
-- [Cancelamento de pedido solicitado pelo cliente](https://help.vtex.com/pt/tutorial/como-funciona-o-cancelamento-de-pedido-por-parte-do-cliente--3wEI6DUNtecooG2Ki4Akqo)
-- [Por que meu pedido foi cancelado?](https://help.vtex.com/pt/faq/por-que-meu-pedido-foi-cancelado--frequentlyAskedQuestions_493)
+- [Cancelamento de pedido solicitado pelo cliente](/pt/tutorial/como-funciona-o-cancelamento-de-pedido-por-parte-do-cliente--3wEI6DUNtecooG2Ki4Akqo)
+- [Por que meu pedido foi cancelado?](/pt/faq/por-que-meu-pedido-foi-cancelado--frequentlyAskedQuestions_493)

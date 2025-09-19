@@ -38,8 +38,8 @@ Para configurar Bamboo-Payments, siga los pasos a continuación:
 9. En __Habilitar autorización y captura__, __País de operación__, __Límite Superior de Captura Permitido (%)__ y __Límite Inferior de Captura Permitido (%)__ seleccione las opciones deseadas.
 10. Haga clic en __Guardar__.
 
-Para configurar los métodos de pago a procesar por Bamboo-Payments, acceda al [Configurar Condiciones de Pago](https://help.vtex.com/es/tutorial/condiciones-de-pago--tutorials_455#).
+Para configurar los métodos de pago a procesar por Bamboo-Payments, acceda al [Configurar Condiciones de Pago](/es/tutorial/condiciones-de-pago--tutorials_455#).
 
-Para establecer condiciones especiales en los métodos de pago, acceda al [Configurar condiciones especiales de Pago](https://help.vtex.com/es/tutorial/condiciones-especiales--tutorials_456#).
+Para establecer condiciones especiales en los métodos de pago, acceda al [Configurar condiciones especiales de Pago](/es/tutorial/condiciones-especiales--tutorials_456#).
 
 Después de seguir los pasos indicados, Bamboo-Payments puede tardar hasta 10 minutos en aparecer en el checkout de tu tienda como una opción de pago.

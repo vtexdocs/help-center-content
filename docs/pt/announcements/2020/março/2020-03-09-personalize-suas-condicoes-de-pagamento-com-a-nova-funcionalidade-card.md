@@ -37,4 +37,4 @@ A principal diferença é que, depois de selecionar o país e o banco emissor, o
 
 ![comousarcardlevel](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2020/mar%C3%A7o/2020-03-09-personalize-suas-condicoes-de-pagamento-com-a-nova-funcionalidade-card_1.gif)
 
-Para saber em detalhes como configurar essa feature, veja nosso [artigo sobre Configuração de Condições Especiais de Pagamento](https://help.vtex.com/pt/tutorial/special-conditions--tutorials_456).
+Para saber em detalhes como configurar essa feature, veja nosso [artigo sobre Configuração de Condições Especiais de Pagamento](/pt/tutorial/special-conditions--tutorials_456).

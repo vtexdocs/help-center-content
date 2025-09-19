@@ -32,4 +32,4 @@ Para acceder a Estilos, inicia sesión en el Admin VTEX, accede a **Storefront >
 | New (Nuevo)      | Crea una nueva plantilla de estilo para el sitio web de tu tienda. |
 
 ## Próximos pasos
-- [Personalizar la tipografía de tu tienda](https://help.vtex.com/es/tutorial/personalizar-la-tipografia-de-tu-tienda--2R0ByIjvJtuz99RK3OL5WP)
+- [Personalizar la tipografía de tu tienda](/es/tutorial/personalizar-la-tipografia-de-tu-tienda--2R0ByIjvJtuz99RK3OL5WP)

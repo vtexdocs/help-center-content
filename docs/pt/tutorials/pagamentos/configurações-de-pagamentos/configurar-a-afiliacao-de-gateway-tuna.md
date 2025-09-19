@@ -44,4 +44,4 @@ Para mais detalhes sobre esta configuração, acesse a [documentação](https://
 
 Ao concluir as etapas indicadas, a Tuna estará configurada na sua loja. Assim, quando você for cadastrar uma condição de pagamento, ela vai estar disponível no campo __Processar com a afiliação__ (desde que o meio de pagamento seja compatível com a Tuna). 
 
-Para saber como definir condições de pagamento, acesse o artigo [Configurar condições de pagamento](https://help.vtex.com/pt/tutorial/condicoes-de-pagamento).
+Para saber como definir condições de pagamento, acesse o artigo [Configurar condições de pagamento](/pt/tutorial/condicoes-de-pagamento).

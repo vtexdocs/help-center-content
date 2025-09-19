@@ -21,15 +21,15 @@ No segmento B2B, muitas vezes os carrinhos de compra são maiores, com valores m
 
 A VTEX é uma plataforma cada vez mais preparada para atender a cenários como esses. E, para auxiliar nossos lojistas a navegarem com mais facilidade pelas configurações que atendem a esses cenários, preparamos uma série de artigos com documentação focada no modelo B2B de negócio.
 
-- [Como adicionar e manipular informações customizadas no pedido](https://help.vtex.com/pt/tutorial/como-adicionar-e-manipular-informacoes-customizadas-no-pedido--7tDi1jQQ51ufARcRm8NUnC)
-- [Como adicionar um segundo endereço ao pedido destinado à faturação](https://help.vtex.com/pt/tutorial/como-adicionar-um-segundo-endereco-ao-pedido-destinado-a-faturacao--6Mow9ibQPDOcEggNnujuA)
-- [Como estruturar entidades do Master Data para armazenar dados de venda B2B](https://help.vtex.com/pt/tutorial/como-estruturar-entidades-do-master-data-para-armazenar-dados-de-venda-b2b--7vHtMxXLc9oYnEfajjtTqL)
-- [Gestão de crédito por meio do Customer Credit](https://help.vtex.com/pt/tutorial/gestao-de-credito-por-meio-do-customer-credit--5lihi3WBsV5mSIDqNvnoK0)
+- [Como adicionar e manipular informações customizadas no pedido](/pt/tutorial/como-adicionar-e-manipular-informacoes-customizadas-no-pedido--7tDi1jQQ51ufARcRm8NUnC)
+- [Como adicionar um segundo endereço ao pedido destinado à faturação](/pt/tutorial/como-adicionar-um-segundo-endereco-ao-pedido-destinado-a-faturacao--6Mow9ibQPDOcEggNnujuA)
+- [Como estruturar entidades do Master Data para armazenar dados de venda B2B](/pt/tutorial/como-estruturar-entidades-do-master-data-para-armazenar-dados-de-venda-b2b--7vHtMxXLc9oYnEfajjtTqL)
+- [Gestão de crédito por meio do Customer Credit](/pt/tutorial/gestao-de-credito-por-meio-do-customer-credit--5lihi3WBsV5mSIDqNvnoK0)
 - [Como adicionar e-mail de televendas personificado via Session Manager
-](https://help.vtex.com/pt/tutorial/como-adicionar-e-mail-de-televendas-personificado-via-session-manager--4tT90hWRChUy84UClF8pC)
-- [Inserir taxas no carrinho](https://help.vtex.com/pt/tutorial/inserir-taxas-no-carrinho--2wY5ePTTRz17EBhO3F7XBQ)
-- [As promoções mais comuns em B2B](https://help.vtex.com/pt/tutorial/as-promocoes-mais-comuns-em-b2b--XoM951AzUIvfaH71UdANf)
-- [Como configurar valor mínimo de pedido e quantidade máxima de itens por SKU](https://help.vtex.com/pt/tutorial/como-configurar-valor-minimo-de-pedido-e-quantidade-maxima-de-itens-por-sku--7JqipPUBxtKz0m4OlAyKs9)
+](/pt/tutorial/como-adicionar-e-mail-de-televendas-personificado-via-session-manager--4tT90hWRChUy84UClF8pC)
+- [Inserir taxas no carrinho](/pt/tutorial/inserir-taxas-no-carrinho--2wY5ePTTRz17EBhO3F7XBQ)
+- [As promoções mais comuns em B2B](/pt/tutorial/as-promocoes-mais-comuns-em-b2b--XoM951AzUIvfaH71UdANf)
+- [Como configurar valor mínimo de pedido e quantidade máxima de itens por SKU](/pt/tutorial/como-configurar-valor-minimo-de-pedido-e-quantidade-maxima-de-itens-por-sku--7JqipPUBxtKz0m4OlAyKs9)
 
 Traga sua loja B2B para a VTEX! Para mais informações, entre em contato com o seu Customer Success Manager.
 

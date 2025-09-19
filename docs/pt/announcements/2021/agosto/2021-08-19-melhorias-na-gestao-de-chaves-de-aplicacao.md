@@ -23,11 +23,11 @@ Chaves de aplicação (também conhecidas como _app keys_) são o tipo mais comu
 
 ### Nova interface de usuário para gestão de Chaves de Aplicativo
 
-Antes, o gerenciamento de [Chaves de Aplicação](https://help.vtex.com/pt/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet) exigia a navegação por várias telas. Agora você pode gerar, adicionar/remover, ativar/desativar, exportar e editar permissões para seus pares appKey e appToken em um único lugar.
+Antes, o gerenciamento de [Chaves de Aplicação](/pt/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet) exigia a navegação por várias telas. Agora você pode gerar, adicionar/remover, ativar/desativar, exportar e editar permissões para seus pares appKey e appToken em um único lugar.
 
 ### Permissões para criar Chaves de Aplicativo agora são baseadas em recursos
 
-Antes, apenas o [usuário Titular](https://help.vtex.com/pt/tutorial/o-que-e-o-usuario-master--3oPr7YuIkEYqUGmEqIMSEy) podia criar e gerenciar Chaves de Aplicativo. Agora, qualquer usuário com o recurso `License Manager / Services access control / Save user` configurado nos seus [perfis de acesso](https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) pode criar essas credenciais e compartilhar as mesmas permissões com outros usuários, permitindo que o usuário Titular delegue essa responsabilidade conforme necessário.
+Antes, apenas o [usuário Titular](/pt/tutorial/o-que-e-o-usuario-master--3oPr7YuIkEYqUGmEqIMSEy) podia criar e gerenciar Chaves de Aplicativo. Agora, qualquer usuário com o recurso `License Manager / Services access control / Save user` configurado nos seus [perfis de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) pode criar essas credenciais e compartilhar as mesmas permissões com outros usuários, permitindo que o usuário Titular delegue essa responsabilidade conforme necessário.
 
 ## Por que fizemos essas mudanças?
 
@@ -35,4 +35,4 @@ Ao simplificar o gerenciamento de credenciais de autenticação, ajudamos nossos
 
 ## O que precisa ser feito?
 
-Confira o artigo [Chaves de Aplicação](https://help.vtex.com/pt/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet) para mais informações.
+Confira o artigo [Chaves de Aplicação](/pt/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet) para mais informações.

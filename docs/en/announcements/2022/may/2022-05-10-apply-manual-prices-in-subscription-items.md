@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisEN: 'Now, you can enable Manual Price for Subscriptions in your store.'
 ---
 
-When using [Subscriptions](https://help.vtex.com/en/tutorial/how-subscriptions-work--frequentlyAskedQuestions_4453) — the app developed by VTEX to facilitate recurring sales — merchants might need to configure a manual price for each item to provide better deals to recurrent shoppers. 
+When using [Subscriptions](/en/tutorial/how-subscriptions-work--frequentlyAskedQuestions_4453) — the app developed by VTEX to facilitate recurring sales — merchants might need to configure a manual price for each item to provide better deals to recurrent shoppers. 
 
 With this in mind, now you can enable the Manual Price feature for Subscriptions v3 in your store, which allows you to:
 

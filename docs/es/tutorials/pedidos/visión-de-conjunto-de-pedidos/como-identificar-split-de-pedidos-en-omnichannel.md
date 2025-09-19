@@ -15,9 +15,9 @@ locale: es
 subcategoryId: 3VNOhxDrvYxJThhuJClrYZ
 ---
 
-Las tiendas que operan con estrategias de [Comercio unificado](https://help.vtex.com/es/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv) y arquitectura _omnichannel_ deben gerenciar los pedidos junto con su conciliación financiera. El módulo **Pedidos** y la solución [Split de pagos](https://help.vtex.com/es/tutorial/split-de-pagamento--6k5JidhYRUxileNolY2VLx) permiten dividir el pedido de una tienda entre múltiples _sellers_, a lo que se le conoce como _split_ de pedidos.
+Las tiendas que operan con estrategias de [Comercio unificado](/es/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv) y arquitectura _omnichannel_ deben gerenciar los pedidos junto con su conciliación financiera. El módulo **Pedidos** y la solución [Split de pagos](/es/tutorial/split-de-pagamento--6k5JidhYRUxileNolY2VLx) permiten dividir el pedido de una tienda entre múltiples _sellers_, a lo que se le conoce como _split_ de pedidos.
 
-Se puede saber si hubo un _split_ de pedido mediante el código identificador del pedido. Hay dos formatos de código para tiendas que operan como [marketplace](https://help.vtex.com/es/tutorial/configurar-marketplace-vtex--7splyp5MqIyt2Iyz5jsNzb):
+Se puede saber si hubo un _split_ de pedido mediante el código identificador del pedido. Hay dos formatos de código para tiendas que operan como [marketplace](/es/tutorial/configurar-marketplace-vtex--7splyp5MqIyt2Iyz5jsNzb):
 
 - Secuencia numérica compuesta de 12 dígitos. Ejemplo: `527103869572`.
 - Secuencia alfanumérica, de forma predeterminada, compuesta por la letra "v", seguida de seis números y cuatro letras. Ejemplo: `v527103anml`.
@@ -28,7 +28,7 @@ Cuando hay un _split_ de pedido, se añade un sufijo al código, tal como `-01` 
 
 > ℹ️ El pedido realizado en el marketplace tiene un código identificador en el entorno de los sellers. Cada seller tiene acceso restringido a su parte del pedido y no tiene ningún acceso a los pedidos de otros sellers.
 
-El código identificador del pedido en el entorno del seller tiene como base la misma secuencia utilizada en el marketplace, más el prefijo adicional correspondiente al [ID de afiliado](https://help.vtex.com/es/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0), el código de tres consonantes que identifica al seller en el marketplace.
+El código identificador del pedido en el entorno del seller tiene como base la misma secuencia utilizada en el marketplace, más el prefijo adicional correspondiente al [ID de afiliado](/es/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0), el código de tres consonantes que identifica al seller en el marketplace.
 
 > Ejemplo: si el código del pedido en el marketplace es `v527103anml-01`, en el entorno del seller corresponderá a `SLR-v527103anml-01`.
 
@@ -36,4 +36,4 @@ Puede que algunas tiendas que tengan [integraciones de ERP](https://developers.v
 
 ## Más información
 
-- [Cuidados al definir la numeración de pedido](https://help.vtex.com/es/tutorial/cuidados-ao-definir-a-numeracao-de-pedido--VAKKptfcaOxFxM8gfPobu)
+- [Cuidados al definir la numeración de pedido](/es/tutorial/cuidados-ao-definir-a-numeracao-de-pedido--VAKKptfcaOxFxM8gfPobu)

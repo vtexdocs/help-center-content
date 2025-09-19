@@ -15,7 +15,7 @@ trackSlugEN: vtex-live-shopping-primeiros-passos
 order: 12
 ---
 
-Assim que a transmissão terminar e o evento tiver o [status](https://help.vtex.com/pt/tracks/vtex-live-shopping-primeiros-passos--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv#status-do-evento) `Finalizado`, você poderá acessar a gravação do evento seguindo os passos abaixo:
+Assim que a transmissão terminar e o evento tiver o [status](/pt/tracks/vtex-live-shopping-primeiros-passos--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv#status-do-evento) `Finalizado`, você poderá acessar a gravação do evento seguindo os passos abaixo:
 
 1. No Admin VTEX, acesse **Aplicativos > Live Shopping > Eventos > Informações do evento**.
 2. Na seção **Gravação do evento**, você pode selecionar duas opções:

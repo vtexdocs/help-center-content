@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 1rA9wuuskW3PpjvMrhatAM
 ---
 
-Para que los planes de **Suscripción** estén disponibles, primero debe instalar la aplicación Suscripciones y configurar los ajustes necesarios. Lea el artículo [Cómo configurar Suscripciones en su tienda](https://help.vtex.com/es/tutorial/como-configurar-assinaturas--1FA9dfE7vJqxBna9Nft5Sj) para más información sobre este proceso.
+Para que los planes de **Suscripción** estén disponibles, primero debe instalar la aplicación Suscripciones y configurar los ajustes necesarios. Lea el artículo [Cómo configurar Suscripciones en su tienda](/es/tutorial/como-configurar-assinaturas--1FA9dfE7vJqxBna9Nft5Sj) para más información sobre este proceso.
 
 Después de configurar los ajustes, debe crear planes de suscripción para ponerlos a disposición de sus clientes y asociar los productos a los planes. Los planes sirven para indicar que la funcionalidad Suscripciones está activa para determinados productos y mostrar las frecuencias de suscripción disponibles.
 
@@ -100,8 +100,8 @@ Para navegar entre las páginas de ambas listas, utilice las flechas <i class="f
 
 La creación de un anexo SKU es un modo **alterno** que tiene una función equivalente al plan de suscripción. El anexo indica que la funcionalidad de suscripción está activa para un determinado SKU, y también qué frecuencias tiene disponibles.
 
-Recomendamos utilizar el método descrito anteriormente para crear un plan directamente en el módulo **Suscripciones**. Sin embargo, si desea utilizar el anexo de SKU, siga los pasos indicados en el artículo [Cómo crear un anexo de suscripción](https://help.vtex.com/es/tutorial/como-crear-un-anexo-de-suscripcion--2bUuKyPflA8cOGLv8OvaKK).
+Recomendamos utilizar el método descrito anteriormente para crear un plan directamente en el módulo **Suscripciones**. Sin embargo, si desea utilizar el anexo de SKU, siga los pasos indicados en el artículo [Cómo crear un anexo de suscripción](/es/tutorial/como-crear-un-anexo-de-suscripcion--2bUuKyPflA8cOGLv8OvaKK).
 
 ## Más información
 
-* [Planes de suscripción (Beta)](https://help.vtex.com/es/tutorial/planos-de-assinatura-beta--5kczKRqHEsrs1tYtRcY8wR)
+* [Planes de suscripción (Beta)](/es/tutorial/planos-de-assinatura-beta--5kczKRqHEsrs1tYtRcY8wR)

@@ -40,7 +40,7 @@ A página **Promoções** apresenta as seguintes informações em uma tabela:
 
 ## Criar nova promoção
 
-Para cadastrar uma nova promoção, clique no botão `Criar promoção`. Para mais informações, leia o guia [Seller Portal: Como criar uma promoção](https://help.vtex.com/pt/tutorial/seller-portal-criar-uma-promocao--kzNPEaiJE8EWkDzO9dbBI).
+Para cadastrar uma nova promoção, clique no botão `Criar promoção`. Para mais informações, leia o guia [Seller Portal: Como criar uma promoção](/pt/tutorial/seller-portal-criar-uma-promocao--kzNPEaiJE8EWkDzO9dbBI).
 
 ## Buscar promoções
 

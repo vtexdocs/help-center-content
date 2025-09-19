@@ -25,11 +25,11 @@ Check out the menu’s different sections and pages below.
 
 In this section you will be able to create promotions, campaign audience, gift cards, and taxes.  This section includes the following page already in the new design:
 
-- [Promotions](https://help.vtex.com/en/v4/docs/lista-de-promocoes--5LtzPm5kQdRVI06KXHE0Td): discounts offered to customers based on specific criteria.   
+- [Promotions](/en/v4/docs/lista-de-promocoes--5LtzPm5kQdRVI06KXHE0Td): discounts offered to customers based on specific criteria.   
 
 Soon to be included in the redesigned Admin:
 
-- [Campaign audience](https://help.vtex.com/en/tutorial/creating-campaign-audiences--6cnuDZJzIkIeocewAQQK4K): definitions of target audience that can be used as a promotion criterion.   
-- [Gift cards](https://help.vtex.com/en/tutorial/gift-card--tutorials_995): considered a payment method on the VTEX platform.   
-- [Tax](https://help.vtex.com/en/tutorial/creating-surchargestaxes--tutorials_321): an additional percentage added to the price of the product, aiming to increase the value.  
+- [Campaign audience](/en/tutorial/creating-campaign-audiences--6cnuDZJzIkIeocewAQQK4K): definitions of target audience that can be used as a promotion criterion.   
+- [Gift cards](/en/tutorial/gift-card--tutorials_995): considered a payment method on the VTEX platform.   
+- [Tax](/en/tutorial/creating-surchargestaxes--tutorials_321): an additional percentage added to the price of the product, aiming to increase the value.  
 

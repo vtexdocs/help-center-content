@@ -15,6 +15,6 @@ announcementImageID: 'undefined'
 announcementSynopsisES: 'Novedad sobre cómo configurar proveedores de inicio de sesión para su tienda'
 ---
 
-La pantalla para configuración de proveedores de inicio de sesión tiene una nueva interfaz en el Admin de su tienda. A partir del 21 de octubre, usted podrá acceder a la nueva interfaz en **Configuración de la cuenta** > **Autenticación** en su menú administrativo. Para obtener más información, puede consultar [este artículo](https://help.vtex.com/es/tutorial/integracao-google-e-facebook-para-login--tutorials_513#"Configurar login con Facebook y Google").
+La pantalla para configuración de proveedores de inicio de sesión tiene una nueva interfaz en el Admin de su tienda. A partir del 21 de octubre, usted podrá acceder a la nueva interfaz en **Configuración de la cuenta** > **Autenticación** en su menú administrativo. Para obtener más información, puede consultar [este artículo](/es/tutorial/integracao-google-e-facebook-para-login--tutorials_513#"Configurar login con Facebook y Google").
 
 Aunque se ha mejorado el diseño de la pantalla, el contenido de los campos de configuración no se han cambiado. Los mismos “Client ID” y “Client Secret” se seguirán utilizando en la configuración. Toda la información sobre los proveedores de inicio de sesión contenida anteriormente en el panel “Autenticación” se ha mantenido igual.

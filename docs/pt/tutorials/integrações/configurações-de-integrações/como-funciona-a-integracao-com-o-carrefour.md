@@ -26,7 +26,7 @@ Este artigo tem o objetivo de descrever o fluxo da integração do __Carrefour__
 ## 1. Produtos
 
 ### Envio de produtos
-O envio de produtos é feito de forma automática, em torno de 8 horas depois de a [configuração da integração](https://help.vtex.com/pt/tracks/configurar-integracao-com-o-carrefour--2wYlj07cNuA8k8mmwY86K2) ter sido realizada com sucesso. Para isso, ela se baseia na política comercial cadastrada e envia a primeira carga de produtos. 
+O envio de produtos é feito de forma automática, em torno de 8 horas depois de a [configuração da integração](/pt/tracks/configurar-integracao-com-o-carrefour--2wYlj07cNuA8k8mmwY86K2) ter sido realizada com sucesso. Para isso, ela se baseia na política comercial cadastrada e envia a primeira carga de produtos. 
 
 Os campos de produto e SKU são enviados juntos, em um lote separado do lote de ofertas (que reúne informações de preço e estoque dos SKUs). Os dois lotes podem subir ao mesmo tempo e o sistema do Carrefour faz a validação.
 
@@ -110,7 +110,7 @@ A integração da VTEX com o Carrefour só aplica as promoções que conseguem s
 Os detalhes do pedido são influenciados diretamente por fatores como entrega, preço e disponibilidade.
 
 #### Frete
-O Carrefour consulta, no momento do pedido, a tabela de frete cadastrada na VTEX. Nossa plataforma retorna para eles as opções de frete disponíveis, de acordo com o mapeamento preenchido na configuração da integração. É importante ter em mente que a consulta só é possível se a [API de Frete](https://help.vtex.com/pt/tracks/configurar-integracao-com-o-carrefour--2wYlj07cNuA8k8mmwY86K2/6FacWWJszKw0Um42uYcQai) for cadastrada no painel do Carrefour.
+O Carrefour consulta, no momento do pedido, a tabela de frete cadastrada na VTEX. Nossa plataforma retorna para eles as opções de frete disponíveis, de acordo com o mapeamento preenchido na configuração da integração. É importante ter em mente que a consulta só é possível se a [API de Frete](/pt/tracks/configurar-integracao-com-o-carrefour--2wYlj07cNuA8k8mmwY86K2/6FacWWJszKw0Um42uYcQai) for cadastrada no painel do Carrefour.
 
 > ⚠️ OBS: caso nenhum dos campos do mapeamento seja preenchido corretamente, não será possível simular o frete na VTEX. Consequentemente, os pedidos feitos no Carrefour não serão integrados.
 

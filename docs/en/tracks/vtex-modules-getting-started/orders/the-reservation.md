@@ -27,7 +27,7 @@ The reservation connects the logistics module to the orders module. It prevents 
 
 This is the reservation flow at VTEX:
 
- 1. At the moment the customer completes the purchase, the purchased items go to the status `Reservation Authorized` in inventory. Here it's indicated that these items will not be sold more than once, but they are not yet taken out of stock: this reservation will fall if payment is not approved within the reservation's expiration date. Understand how this deadline is defined in the article [How Reservation Works](https://help.vtex.com/en/tutorial/como-a-reserva-funciona).    
+ 1. At the moment the customer completes the purchase, the purchased items go to the status `Reservation Authorized` in inventory. Here it's indicated that these items will not be sold more than once, but they are not yet taken out of stock: this reservation will fall if payment is not approved within the reservation's expiration date. Understand how this deadline is defined in the article [How Reservation Works](/en/tutorial/como-a-reserva-funciona).    
 
  2. After payment is confirmed, the status of the items changes to `Reservation Confirmed`. Now the reservation no longer has an expiration date. But the order can still be canceled and items can still become available again.  
  

@@ -17,7 +17,7 @@ order: 6
 
 O primeiro passo para transmitir um evento ao vivo é iniciá-lo. Esta ação não irá transmitir o evento, mas permitirá que você faça todas as configurações necessárias.
 
-> ⚠️ Antes do seu primeiro evento ao vivo, recomendamos fazer um [evento de teste](https://help.vtex.com/pt/tracks/vtex-live-shopping-primeiros-passos--3eCHNCIx8XhZOSmX0sQT3U/1le8tz3fyBdb7kR4UdxTjZ#teste-da-ferramenta) para validar a configuração do produto, a qualidade da transmissão e a interatividade.
+> ⚠️ Antes do seu primeiro evento ao vivo, recomendamos fazer um [evento de teste](/pt/tracks/vtex-live-shopping-primeiros-passos--3eCHNCIx8XhZOSmX0sQT3U/1le8tz3fyBdb7kR4UdxTjZ#teste-da-ferramenta) para validar a configuração do produto, a qualidade da transmissão e a interatividade.
 
 Para iniciar um evento, siga os passos abaixo:
 
@@ -39,12 +39,12 @@ Quando o evento estiver ativado, todas as configurações ficam disponíveis par
 | :---: | :--- |
 | ID | ID do evento, identificador único do evento. |
 | Nome do evento | Nome do evento. |
-| UTM source | [UTM source](https://help.vtex.com/pt/tutorial/what-are-utm-source-utm-campaign-and-utm-medium--2wTz7QJ8KUG6skGAoAQuii) configurada para rastrear dados do evento. |
+| UTM source | [UTM source](/pt/tutorial/what-are-utm-source-utm-campaign-and-utm-medium--2wTz7QJ8KUG6skGAoAQuii) configurada para rastrear dados do evento. |
 | Minutos usados | Minutos de transmissão já decorridos, contados em tempo real. Os minutos só passam a ser contados a partir do início da transmissão do evento. |
 | Servidor de entrada | Código do servidor usado para conectar o evento entre diferentes lojas VTEX ou outras plataformas, como Facebook e YouTube. |
 | Chave do servidor | Identificação da chave do servidor usada para conectar o evento entre diferentes lojas VTEX ou outras plataformas, como Facebook e YouTube. |
 
-Nesta seção, você pode monitorar o [status do evento](https://help.vtex.com/pt/tracks/vtex-live-shopping-primeiros-passos--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv#status-do-evento), como mostrado na imagem abaixo:
+Nesta seção, você pode monitorar o [status do evento](/pt/tracks/vtex-live-shopping-primeiros-passos--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv#status-do-evento), como mostrado na imagem abaixo:
 
 ![article_6_turning_on_event_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/vtex-live-shopping-primeiros-passos/iniciar-evento_1.png)
 

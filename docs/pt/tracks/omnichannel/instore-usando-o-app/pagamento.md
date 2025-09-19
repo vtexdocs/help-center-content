@@ -15,7 +15,7 @@ trackSlugEN: instore-usando-o-app
 order: 15
 ---
 
-Na etapa de pagamento do VTEX Sales App, aparecerão as [opções de pagamento que foram configuradas](https://help.vtex.com/pt/tracks/instore-payments--43B4Nr7uZva5UdwWEt3PEy) na sua loja.
+Na etapa de pagamento do VTEX Sales App, aparecerão as [opções de pagamento que foram configuradas](/pt/tracks/instore-payments--43B4Nr7uZva5UdwWEt3PEy) na sua loja.
 
 ![instore-payment-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/instore-usando-o-app/pagamento_1.jpg)
 
@@ -40,7 +40,7 @@ Durante a configuração do VTEX Sales App, é possível adicionar os seguintes 
 * [Cartão de crédito](#cartao-de-credito)
 * [Cartão de débito](#cartao-de-debito)
 
-Para configurar um método de pagamento, siga as instruções da track [VTEX Sales App - Pagamentos](https://help.vtex.com/pt/tracks/instore-pagamentos--43B4Nr7uZva5UdwWEt3PEy).
+Para configurar um método de pagamento, siga as instruções da track [VTEX Sales App - Pagamentos](/pt/tracks/instore-pagamentos--43B4Nr7uZva5UdwWEt3PEy).
 
 ### Dinheiro
 
@@ -48,7 +48,7 @@ O cliente deve selecionar a opção **Dinheiro** e clicar em `Finalizar venda`.
 
 ![instore-dinheiro-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/instore-usando-o-app/pagamento_2.jpg)
 
-Após isso, o cliente deve realizar a transação com o vendedor. A aprovação da venda pode ser [manual ou automática](https://help.vtex.com/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/2WgQrlHTyVo4hLjhUs1LMT), dependendo da configuração da loja.
+Após isso, o cliente deve realizar a transação com o vendedor. A aprovação da venda pode ser [manual ou automática](/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/2WgQrlHTyVo4hLjhUs1LMT), dependendo da configuração da loja.
 
 ### Pix
 

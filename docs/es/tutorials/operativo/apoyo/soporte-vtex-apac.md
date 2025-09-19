@@ -15,4 +15,4 @@ locale: es
 subcategoryId: 1yB08KlKzqJOdc0bn38HaY
 ---
 
-Este contenido está disponible solo en inglés. [Haga clic aquí](https://help.vtex.com/es/faq/como-funciona-el-soporte-de-vtex--3kACEfni4m8Yxa1vnf2ebe#support-plans) para acceder.
+Este contenido está disponible solo en inglés. [Haga clic aquí](/es/faq/como-funciona-el-soporte-de-vtex--3kACEfni4m8Yxa1vnf2ebe#support-plans) para acceder.

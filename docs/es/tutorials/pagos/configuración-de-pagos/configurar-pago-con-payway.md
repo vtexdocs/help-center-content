@@ -28,8 +28,8 @@ Para configurar Payway siga los pasos a continuación:
 7. En __Campos del proveedor__, seleccione o complete los campos __Site ID__, __Api Key Public__, __Api Key Private__, __Payment type__, __Do you use Cybersource?__, __Cuotas MiPyme__, __Plan Z__, __Límite Superior de Captura Permitido (%)__ y __Límite Inferior de Captura Permitido (%)__ según las instrucciones del proveedor.
 8. Haga clic en `Guardar`.
 
-Para configurar los métodos de pago a procesar por Payway, acceda al [Configurar Condiciones de Pago](https://help.vtex.com/es/tutorial/condiciones-de-pago--tutorials_455#).
+Para configurar los métodos de pago a procesar por Payway, acceda al [Configurar Condiciones de Pago](/es/tutorial/condiciones-de-pago--tutorials_455#).
 
-Para establecer condiciones especiales en los métodos de pago, acceda al [Configurar condiciones especiales de Pago](https://help.vtex.com/es/tutorial/condiciones-especiales--tutorials_456#).
+Para establecer condiciones especiales en los métodos de pago, acceda al [Configurar condiciones especiales de Pago](/es/tutorial/condiciones-especiales--tutorials_456#).
 
 Después de seguir los pasos indicados, Payway puede tardar hasta 10 minutos en aparecer en el checkout de tu tienda como una opción de pago.

@@ -25,8 +25,8 @@ On VTEX, it is not necessary to create an account or log in to make a purchase. 
 
 Before setting up our Google and Facebook login integrations, you need to create OAuth 2.0 credentials (the protocol used for integration) in these services. To do this, follow the instructions in the articles below:
 
-- [Facebook](https://help.vtex.com/en/tutorial/adding-a-client-id-and-a-client-secret-to-log-in-with-facebook)
-- [Google](https://help.vtex.com/en/tutorial/registering-a-client-id-and-a-client-secret-for-login-with-google)
+- [Facebook](/en/tutorial/adding-a-client-id-and-a-client-secret-to-log-in-with-facebook)
+- [Google](/en/tutorial/registering-a-client-id-and-a-client-secret-for-login-with-google)
 
 ## Configuring login with providers
 

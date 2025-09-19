@@ -84,7 +84,7 @@ Follow the instructions below to create a trigger in Master Data v1:
 2. Click the **Trigger** tab.
 3. Click the `Add` button.
 4. Enter the **Name** of the trigger.
-5. Select the [data entity](https://help.vtex.com/en/tutorial/data-entity--tutorials_1265 "data entity") that will fire the trigger.
+5. Select the [data entity](/en/tutorial/data-entity--tutorials_1265 "data entity") that will fire the trigger.
 6. After selecting the data entity, the other configuration fields will be displayed.
 7. Select a status for the trigger, which can be **Enabled** or **Disabled**.
 8. Configure each of the tabs based on the sections:
@@ -164,4 +164,4 @@ Events will be triggered when the record does not meet the trigger additional fi
 
 ## Examples
 
-- [Configuring abandoned carts](https://help.vtex.com/en/tutorial/configuring-abandoned-carts--tutorials_740)
+- [Configuring abandoned carts](/en/tutorial/configuring-abandoned-carts--tutorials_740)

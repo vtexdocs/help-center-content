@@ -22,7 +22,7 @@ TYo use easypay affiliation in your marketplace, you need to:
 - [Install the easypay Seller Account app](#installing-the-easypay-seller-account-app)
 - [Configure the easypay Seller Account app](#configuring-the-easypay-seller-account-app)
 
-> ⚠️ If you want to configure easypay for a non-seller context, read [Setting up payments with easypay](https://help.vtex.com/pt/tutorial/configurar-pagamento-com-easypay--3xJQqjMIn0ARDI1HcwK88J) or [Setting up payments with easypay marketplace](https://help.vtex.com/en/tutorial/setting-up-payments-with-easypay-marketplace--3YllWiITcPEOpteuToEdO7).
+> ⚠️ If you want to configure easypay for a non-seller context, read [Setting up payments with easypay](/pt/tutorial/configurar-pagamento-com-easypay--3xJQqjMIn0ARDI1HcwK88J) or [Setting up payments with easypay marketplace](/en/tutorial/setting-up-payments-with-easypay-marketplace--3YllWiITcPEOpteuToEdO7).
 
 ## Installing the easypay Seller Account app
 

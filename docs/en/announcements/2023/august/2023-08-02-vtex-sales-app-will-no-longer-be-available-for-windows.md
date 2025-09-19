@@ -31,7 +31,7 @@ https://{accountname}.myvtex.com/assisted-sales/sales-app
 
 To learn more about VTEX Sales App, see our documentation:
 
-* [VTEX Sales App - Getting started and setting up](https://help.vtex.com/en/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc#)
-* [VTEX Sales App - Payments](https://help.vtex.com/en/tracks/instore-pagamentos--43B4Nr7uZva5UdwWEt3PEy#)
-* [VTEX Sales App - Using the app](https://help.vtex.com/en/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr#)
-* [Unified Commerce Strategies](https://help.vtex.com/en/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv)
+* [VTEX Sales App - Getting started and setting up](/en/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc#)
+* [VTEX Sales App - Payments](/en/tracks/instore-pagamentos--43B4Nr7uZva5UdwWEt3PEy#)
+* [VTEX Sales App - Using the app](/en/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr#)
+* [Unified Commerce Strategies](/en/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv)

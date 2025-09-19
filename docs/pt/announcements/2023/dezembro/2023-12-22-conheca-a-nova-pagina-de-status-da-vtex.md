@@ -25,7 +25,7 @@ Agora, apresentamos 18 componentes mais específicos agrupados em quatro categor
 
 ![status-page-vtex](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2023/dezembro/2023-12-22-conheca-a-nova-pagina-de-status-da-vtex_1.png)
 
-Confira o artigo [Página de status da VTEX](https://help.vtex.com/pt/tutorial/pagina-de-status-da-vtex--gPhqDn9IQ3c67wbJEX3JJ) para mais informações sobre cada componente.
+Confira o artigo [Página de status da VTEX](/pt/tutorial/pagina-de-status-da-vtex--gPhqDn9IQ3c67wbJEX3JJ) para mais informações sobre cada componente.
 
 ## Por que fizemos essa mudança?
 
@@ -33,4 +33,4 @@ Atualizamos a página de status da plataforma para proporcionar uma experiência
 
 ## O que precisa ser feito?
 
-Acesse a nova página em [status.vtex.com](https://status.vtex.com/) e leia o guia [Página de status da VTEX](https://help.vtex.com/pt/tutorial/pagina-de-status-da-vtex--gPhqDn9IQ3c67wbJEX3JJ) para mais detalhes.
+Acesse a nova página em [status.vtex.com](https://status.vtex.com/) e leia o guia [Página de status da VTEX](/pt/tutorial/pagina-de-status-da-vtex--gPhqDn9IQ3c67wbJEX3JJ) para mais detalhes.

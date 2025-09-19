@@ -25,5 +25,5 @@ Desenvolvemos essa funcionalidade para permitir que os vendedores ofereçam opç
 
 ## O que precisa ser feito?
 Nenhuma ação é necessária. A funcionalidade já está disponível no VTEX Sales App.
-Para mais detalhes sobre o uso dessa funcionalidade, acesse o artigo [Assembly Options no VTEX Sales App](https://help.vtex.com/pt/tutorial/assembly-options-no-vtex-sales-app--4fTfqOMcXyhAhWXkl935lr).
+Para mais detalhes sobre o uso dessa funcionalidade, acesse o artigo [Assembly Options no VTEX Sales App](/pt/tutorial/assembly-options-no-vtex-sales-app--4fTfqOMcXyhAhWXkl935lr).
 

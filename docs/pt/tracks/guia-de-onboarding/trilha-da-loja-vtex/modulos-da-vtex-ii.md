@@ -15,7 +15,7 @@ trackSlugEN: trilha-da-loja-vtex
 order: 6
 ---
 
-Além dos módulos abordados no artigo anterior, como [Catálogo](https://help.vtex.com/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#catalogo), [Preços](https://help.vtex.com/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#precos), [Promoções](https://help.vtex.com/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#promocoes) e [Logística](https://help.vtex.com/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#logistica), a plataforma VTEX possui outros módulos necessários à operação da loja. Este artigo apresenta uma visão geral e as principais configurações dos seguintes módulos:
+Além dos módulos abordados no artigo anterior, como [Catálogo](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#catalogo), [Preços](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#precos), [Promoções](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#promocoes) e [Logística](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#logistica), a plataforma VTEX possui outros módulos necessários à operação da loja. Este artigo apresenta uma visão geral e as principais configurações dos seguintes módulos:
 
 - [Pagamentos](#pagamentos)
 - [Pedidos](#pedidos)
@@ -23,15 +23,15 @@ Além dos módulos abordados no artigo anterior, como [Catálogo](https://help.v
 
 ## Pagamentos
 
-O módulo de [Pagamentos](https://help.vtex.com/pt/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/kdPbEIWf8Xq8tESQvViMB) na VTEX é responsável por coordenar todas as operações financeiras realizadas em uma loja. Por meio dele, é possível determinar quais provedores, meios e condições de pagamento serão oferecidos aos clientes no checkout, bem como verificar informações a respeito das transações de pagamento efetuadas em cada pedido.
+O módulo de [Pagamentos](/pt/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/kdPbEIWf8Xq8tESQvViMB) na VTEX é responsável por coordenar todas as operações financeiras realizadas em uma loja. Por meio dele, é possível determinar quais provedores, meios e condições de pagamento serão oferecidos aos clientes no checkout, bem como verificar informações a respeito das transações de pagamento efetuadas em cada pedido.
 
 ### Antes de começar em Pagamentos
 
-Para processar e receber os pagamentos das compras realizadas em uma loja VTEX, é preciso contratar os serviços de um ou mais provedores de pagamento. Este contrato é realizado diretamente entre o lojista e o respectivo provedor, não havendo mediação ou participação da VTEX. Para verificar quais provedores estão disponíveis na VTEX em cada país, basta acessar a [Lista de provedores de pagamento](https://help.vtex.com/pt/tutorial/lista-de-provedores-de-pagamento-por-pais--2im3BEGXxSAcRuxEaIHPvp).
+Para processar e receber os pagamentos das compras realizadas em uma loja VTEX, é preciso contratar os serviços de um ou mais provedores de pagamento. Este contrato é realizado diretamente entre o lojista e o respectivo provedor, não havendo mediação ou participação da VTEX. Para verificar quais provedores estão disponíveis na VTEX em cada país, basta acessar a [Lista de provedores de pagamento](/pt/tutorial/lista-de-provedores-de-pagamento-por-pais--2im3BEGXxSAcRuxEaIHPvp).
 
 > ⚠️ É recomendável utilizar mais de um provedor de pagamento na loja para prover uma boa experiência ao cliente por meio diversos tipos de meios e condições de pagamento, e ao mesmo tempo, operar com diferentes taxas e custos, melhorando o desempenho do negócio.
 
-As configurações de pagamento descritas nesta trilha podem ser realizadas a qualquer momento durante o processo de onboarding. Entretanto, para que a loja possa realizar qualquer tipo de transação de pagamento, é necessário que os módulos de [Catálogo](https://help.vtex.com/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#catalogo), [Preços](https://help.vtex.com/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#precos) e [Logística](https://help.vtex.com/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#logistica) tenham sido previamente configurados.
+As configurações de pagamento descritas nesta trilha podem ser realizadas a qualquer momento durante o processo de onboarding. Entretanto, para que a loja possa realizar qualquer tipo de transação de pagamento, é necessário que os módulos de [Catálogo](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#catalogo), [Preços](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#precos) e [Logística](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#logistica) tenham sido previamente configurados.
 
 ### Como funciona o módulo Pagamentos
 
@@ -46,7 +46,7 @@ A tabela a seguir apresenta os principais agentes e termos utilizados no context
 | **Banco emissor** | Instituição financeira responsável por realizar a autorização de um meio de pagamento, como boleto bancário, cartão de crédito ou débito. |
 | **Provedor de pagamento** | Empresa que oferece suporte para transações eletrônicas em diversos meios de pagamento. |
 | **Provedor de antifraude** | Empresa responsável por realizar análises de risco em transações de cartão de crédito e débito. |
-| **Payment Provider Protocol** | Protocolo de comunicação de um provedor de pagamento utilizado para transmissão de dados de pagamento. Saiba mais sobre como provedores de pagamento são integrados na VTEX em [Payment Provider Protocol](https://help.vtex.com/pt/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m). |
+| **Payment Provider Protocol** | Protocolo de comunicação de um provedor de pagamento utilizado para transmissão de dados de pagamento. Saiba mais sobre como provedores de pagamento são integrados na VTEX em [Payment Provider Protocol](/pt/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m). |
 | **Anti-fraud Provider Protocol** | Protocolo de comunicação de um provedor de antifraude utilizado para transmissão de dados de análises de pagamento. Saiba mais sobre como provedores de antifraude são integrados na VTEX em [Anti-fraud Provider Protocol](https://developers.vtex.com/docs/guides/how-the-integration-protocol-between-vtex-and-antifraud-companies-works). |
 | **Meio de pagamento** | Métodos disponibilizados pelo cliente para realizar o pagamento de uma compra, tais como, cartões de crédito, débito, carteiras digitais. |
 | **Condição de pagamento** | Regras estabelecidas para um determinado meio de pagamento, por exemplo, número máximo de parcelas permitidas e juros aplicados. |
@@ -61,7 +61,7 @@ Conforme as informações vão sendo transmitidas entre os agentes responsáveis
 
 ![payments-flow-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/guia-de-onboarding/trilha-da-loja-vtex/modulos-da-vtex-ii_2.JPG)
 
-Mais informações sobre cada etapa podem ser encontradas no artigo [Fluxo da transação no Pagamentos](https://help.vtex.com/pt/tutorial/transaction-flow-in-payments--Er2oWmqPIWWyeIy4IoEoQ). Para saber como acessar mais informações sobre as transações no Admin VTEX, bas conferir o artigo [Ver detalhes da transação](https://help.vtex.com/pt/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/3Nt40DMEWkvhlpaL5PlBy).
+Mais informações sobre cada etapa podem ser encontradas no artigo [Fluxo da transação no Pagamentos](/pt/tutorial/transaction-flow-in-payments--Er2oWmqPIWWyeIy4IoEoQ). Para saber como acessar mais informações sobre as transações no Admin VTEX, bas conferir o artigo [Ver detalhes da transação](/pt/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/3Nt40DMEWkvhlpaL5PlBy).
 
 ### Configurando pagamentos na loja
 
@@ -71,11 +71,11 @@ Após estabelecer contrato com um provedor de pagamento, é necessário configur
 
 Os provedores de pagamento precisam ser habilitados em uma loja de modo que transmitam e recebam as informações necessárias para a conclusão de uma transação de pagamento. Os passos abaixo devem ser seguidos para cada provedores a ser habilitado:
 
-1. Acessar a [Lista de provedores de pagamento](https://help.vtex.com/pt/tutorial/lista-de-provedores-de-pagamento-por-pais--2im3BEGXxSAcRuxEaIHPvp).
+1. Acessar a [Lista de provedores de pagamento](/pt/tutorial/lista-de-provedores-de-pagamento-por-pais--2im3BEGXxSAcRuxEaIHPvp).
 2. Selecionar o provedor desejado, clicando no respectivo link da tabela.
 3. Acessar o Admin VTEX para configurar o provedor conforme as instruções descritas no respectivo artigo de configuração.
 
-> ℹ️ Os artigos de configuração de provedores também podem ser acessados ao digitar o nome do provedor desejado na barra de busca do [Help Center](https://help.vtex.com/pt/).
+> ℹ️ Os artigos de configuração de provedores também podem ser acessados ao digitar o nome do provedor desejado na barra de busca do [Help Center](/pt/).
 
 #### Definindo meios e condições de pagamento
 
@@ -88,7 +88,7 @@ Para configurar os meios e condições de pagamento, os passos abaixo devem ser 
 5. Ativar a opção **Status**.
 6. Em **Processar com a afiliação:** o nome do provedor de pagamento deve ser selecionado.
 7. Se desejar utilizar um sistema antifraude, a opção **Usar solução antifraude** deve ser selecionada. Saiba mais em [Configurando provedor de antifraude (opcional)](#configurando-provedor-de-antifraude).
-8. Caso o meio de pagamento escolhido permita a configuração de pagamentos parcelados, selecionar a opção **Parcelado** em **A vista ou parcelado?** e inserir as informações desejadas. Saiba mais em [Configurar condições de pagamento](https://help.vtex.com/pt/tutorial/condicoes-de-pagamento--tutorials_455).
+8. Caso o meio de pagamento escolhido permita a configuração de pagamentos parcelados, selecionar a opção **Parcelado** em **A vista ou parcelado?** e inserir as informações desejadas. Saiba mais em [Configurar condições de pagamento](/pt/tutorial/condicoes-de-pagamento--tutorials_455).
 9. Se desejar, também é possível configurar condições especiais de pagamento. Saiba mais em [Adicionando condições especiais de pagamento](#adicionando-condicoes-especiais-de-pagamento).
 10. Clicar em `Salvar`.
 
@@ -107,23 +107,23 @@ De acordo com o perfil de operação da loja, também é possível realizar as s
 
 Condições especiais de pagamento permitem que sejam definidas regras específicas para um determinado meio de pagamento, tais como data de vencimento, banco emissor, política comercial, condição comercial e nome da conta. 
 
-Para conhecer mais detalhes sobre cada tipo de condição especial de pagamento, basta consultar o artigo [Configurar condições especiais de pagamento](https://help.vtex.com/pt/tutorial/condicoes-especiais--tutorials_456).
+Para conhecer mais detalhes sobre cada tipo de condição especial de pagamento, basta consultar o artigo [Configurar condições especiais de pagamento](/pt/tutorial/condicoes-especiais--tutorials_456).
 
 #### Configurando meios de pagamento customizados
 
 Na VTEX, é possível configurar os seguintes de meios de pagamento customizados:
 
-- **Promissórias**: compromisso de pagamento entre o lojista e o cliente referente ao valor de uma compra. É necessária a aprovação manual do lojista para aprovar a transação de compra. Mais informações em [Configurar pagamentos com Promissória](https://help.vtex.com/pt/tutorial/configurar-pagamentos-com-promissoria--5pW7avTwtyQcMu4uiW8quQ).
+- **Promissórias**: compromisso de pagamento entre o lojista e o cliente referente ao valor de uma compra. É necessária a aprovação manual do lojista para aprovar a transação de compra. Mais informações em [Configurar pagamentos com Promissória](/pt/tutorial/configurar-pagamentos-com-promissoria--5pW7avTwtyQcMu4uiW8quQ).
 
-- **Cartões de loja (bandeira própria)**: cartão de crédito ou débito, emitido em parceria entre uma empresa e uma bandeira de cartões (Visa, Mastercard, entre outros). Pode ser utilizado somente para compras em estabelecimentos que operem com a marca da bandeira emissora do cartão. Mais informações em [Configurar pagamentos com Cartões de Loja (bandeira própria)](https://help.vtex.com/pt/tutorial/configurar-pagamentos-com-cartoes-de-loja-bandeira-propria--428FgVdSGQUeAOoogkaIw4).
+- **Cartões de loja (bandeira própria)**: cartão de crédito ou débito, emitido em parceria entre uma empresa e uma bandeira de cartões (Visa, Mastercard, entre outros). Pode ser utilizado somente para compras em estabelecimentos que operem com a marca da bandeira emissora do cartão. Mais informações em [Configurar pagamentos com Cartões de Loja (bandeira própria)](/pt/tutorial/configurar-pagamentos-com-cartoes-de-loja-bandeira-propria--428FgVdSGQUeAOoogkaIw4).
 
-- **Cartões de loja (co-branded)**: cartão de crédito ou débito de marca própria, emitido para uso exclusivo em compras realizadas na empresa emissora do cartão. Mais informações em [Configurar pagamentos com Cartões de Loja (co-branded)](https://help.vtex.com/pt/tutorial/configurar-pagamentos-com-cartoes-de-loja-cobranded--jrkLK41IjuquUmyKUi86Q).
+- **Cartões de loja (co-branded)**: cartão de crédito ou débito de marca própria, emitido para uso exclusivo em compras realizadas na empresa emissora do cartão. Mais informações em [Configurar pagamentos com Cartões de Loja (co-branded)](/pt/tutorial/configurar-pagamentos-com-cartoes-de-loja-cobranded--jrkLK41IjuquUmyKUi86Q).
 
 #### Configurando provedor de antifraude
 
 Provedores de antifraude também podem ser configurados na loja para realizar análises de pagamentos de cartão de crédito e débito, desde que haja um contrato entre o lojista e o provedor. A sua utilização é recomendada, porém, opcional.
 
-Para verificar os provedores de antifraude atualmente integrados na VTEX, é necessário digitar na barra de busca do [Help Center](https://help.vtex.com/pt/) o nome do provedor desejado ou acessar o Admin VTEX, conforme o artigo [Configurar o antifraude](https://help.vtex.com/pt/tutorial/como-configurar-antifraude--tutorials_446).
+Para verificar os provedores de antifraude atualmente integrados na VTEX, é necessário digitar na barra de busca do [Help Center](/pt/) o nome do provedor desejado ou acessar o Admin VTEX, conforme o artigo [Configurar o antifraude](/pt/tutorial/como-configurar-antifraude--tutorials_446).
 
 #### Criando vales-presente
 
@@ -131,58 +131,58 @@ Os vales-presente, também conhecidos como, gift cards ou vouchers, podem ser ut
 
 A VTEX possui o seu próprio provedor de vales-presente, permitindo que vales sejam criados e gerenciados por meio do Admin VTEX ou da API do Gift Card. Saiba mais sobre as características de criação pelos dois métodos em [GiftCard API](https://developers.vtex.com/docs/api-reference/giftcard-api).
 
-Além disso, também é possível oferecer gift cards de provedores externos por meio da [GiftCard Hub API](https://developers.vtex.com/docs/api-reference/giftcard-hub-api). Para utilizar um provedor externo de gift card, é necessário possuir um contrato com o provedor e verificar se já está integrado na VTEX. Mais informações nos artigos [Configurar Vale-presente](https://help.vtex.com/pt/tutorial/gift-card--tutorials_995) e [Gift Card system architecture](https://developers.vtex.com/docs/guides/gift-card-integration-guide-system-architecture).
+Além disso, também é possível oferecer gift cards de provedores externos por meio da [GiftCard Hub API](https://developers.vtex.com/docs/api-reference/giftcard-hub-api). Para utilizar um provedor externo de gift card, é necessário possuir um contrato com o provedor e verificar se já está integrado na VTEX. Mais informações nos artigos [Configurar Vale-presente](/pt/tutorial/gift-card--tutorials_995) e [Gift Card system architecture](https://developers.vtex.com/docs/guides/gift-card-integration-guide-system-architecture).
 
 #### Habilitando carteiras digitais
 
 Carteiras digitais são ambientes seguros onde dados bancários e de cartão de crédito podem ser armazenados de forma criptografada e que podem ser acessadas pelo cliente no momento de realizar uma compra. A segurança deste meio de pagamento consiste em não ser necessário preencher todos os dados no checkout a cada compra, sendo somente solicitado ao realizar a autenticação dentro do próprio ambiente de carteira digital.
 
-Na VTEX, é possível oferecer carteiras digitais nativas, como o [Google Pay](https://help.vtex.com/pt/tracks/carteira-digital-e-wallet--6X8YyZBoVJpz5R8oXciTyu/61JMBvM5Vanqj6RaJsP8CT), ou carteiras digitais integradas, tais como [Apple Pay](https://help.vtex.com/en/tracks/digital-wallet-e-wallet--6X8YyZBoVJpz5R8oXciTyu/STKWiXJSR9ImPt5EEC2aL), [Samsung Pay](https://help.vtex.com/pt/tutorial/configurar-samsung-pay-como-meio-de-pagamento--5Yj9rgzOCVYuGmAumQlfpP) e [PayPal](https://help.vtex.com/pt/tutorial/configurar-paypal--4p3sD9u1moq2Aya2oc684w). Mais informações em [Carteira digital (ewallet)](https://help.vtex.com/pt/tracks/digital-wallet-e-wallet--6X8YyZBoVJpz5R8oXciTyu/7jLbdfch9Oe2yYbQa9zwE1).
+Na VTEX, é possível oferecer carteiras digitais nativas, como o [Google Pay](/pt/tracks/carteira-digital-e-wallet--6X8YyZBoVJpz5R8oXciTyu/61JMBvM5Vanqj6RaJsP8CT), ou carteiras digitais integradas, tais como [Apple Pay](/en/tracks/digital-wallet-e-wallet--6X8YyZBoVJpz5R8oXciTyu/STKWiXJSR9ImPt5EEC2aL), [Samsung Pay](/pt/tutorial/configurar-samsung-pay-como-meio-de-pagamento--5Yj9rgzOCVYuGmAumQlfpP) e [PayPal](/pt/tutorial/configurar-paypal--4p3sD9u1moq2Aya2oc684w). Mais informações em [Carteira digital (ewallet)](/pt/tracks/digital-wallet-e-wallet--6X8YyZBoVJpz5R8oXciTyu/7jLbdfch9Oe2yYbQa9zwE1).
 
 #### Customer Credit
 
 Customer credit é a solução da VTEX para permitir que crédito seja oferecido a clientes específicos, possibilitando um prazo maior para o pagamento de suas compras. Por meio deste app, é possível ter acesso a gerenciamento de clientes, configuração de prazos e parcelamentos, definição de crédito e acompanhamento de status de títulos de cobrança emitidos, entre outras funcionalidades.
 
-Para mais informações, acesse [Customer Credit - Visão Geral](https://help.vtex.com/pt/tutorial/customer-credit-visao-geral--1uIqTjWxIIIEW0COMg4uE0) e [Customer Credit - Como Começar](https://help.vtex.com/pt/tracks/customer-credit-como-comecar--1hCRg21lXYy2seOKgqQ2CC/36grlQ69NK6OCuioeekyCs).
+Para mais informações, acesse [Customer Credit - Visão Geral](/pt/tutorial/customer-credit-visao-geral--1uIqTjWxIIIEW0COMg4uE0) e [Customer Credit - Como Começar](/pt/tracks/customer-credit-como-comecar--1hCRg21lXYy2seOKgqQ2CC/36grlQ69NK6OCuioeekyCs).
 
 ## Pedidos
 
-A partir do momento em que o cliente conclui a compra, é gerado um [pedido](https://help.vtex.com/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa) na VTEX. O gerenciamento de pedidos pode ser feito pelo Admin VTEX, em **Pedidos > [Todos os pedidos](https://help.vtex.com/pt/tutorial/lista-de-pedidos-interface--2QTduKHAJMFIZ3BAsi6Pi)**, acessando-se uma [página de detalhes](https://help.vtex.com/pt/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl) da compra, ou via API. Uma visão geral de conteúdo para desenvolvedor sobre a [Orders API](https://developers.vtex.com/docs/api-reference/orders-api#overview) pode ser encontrada no guia [Orders](https://developers.vtex.com/docs/guides/orders-overview).
+A partir do momento em que o cliente conclui a compra, é gerado um [pedido](/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa) na VTEX. O gerenciamento de pedidos pode ser feito pelo Admin VTEX, em **Pedidos > [Todos os pedidos](/pt/tutorial/lista-de-pedidos-interface--2QTduKHAJMFIZ3BAsi6Pi)**, acessando-se uma [página de detalhes](/pt/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl) da compra, ou via API. Uma visão geral de conteúdo para desenvolvedor sobre a [Orders API](https://developers.vtex.com/docs/api-reference/orders-api#overview) pode ser encontrada no guia [Orders](https://developers.vtex.com/docs/guides/orders-overview).
 
 ### Antes de começar em Pedidos
 
 Para a loja ser capaz de gerenciar seus pedidos, a plataforma VTEX não exige configurações obrigatórias, e oferece diversas [configurações opcionais](#configuracoes-opcionais-em-pedidos) que podem ser estratégicas para diferentes modelos de negócio.
 
-No entanto, para o cliente ser capaz de realizar a compra e gerar um pedido, a loja precisa ter produtos cadastrados e precificados, oferecer [meios de pagamento](https://help.vtex.com/pt/tutorial/diferenca-entre-meios-de-pagamento-e-condicoes-de-pagamento--3azJenhGFyUy2gsocms42Q) e garantir o envio do pedido. Para isso, é necessário realizar as configurações obrigatórias dos seguintes módulos:
+No entanto, para o cliente ser capaz de realizar a compra e gerar um pedido, a loja precisa ter produtos cadastrados e precificados, oferecer [meios de pagamento](/pt/tutorial/diferenca-entre-meios-de-pagamento-e-condicoes-de-pagamento--3azJenhGFyUy2gsocms42Q) e garantir o envio do pedido. Para isso, é necessário realizar as configurações obrigatórias dos seguintes módulos:
 
-- [Catálogo](https://help.vtex.com/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#catalogo)
-- [Preços](https://help.vtex.com/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#precos)
-- [Logística](https://help.vtex.com/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#logistica)
+- [Catálogo](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#catalogo)
+- [Preços](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#precos)
+- [Logística](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#logistica)
 - [Pagamentos](#pagamentos)
 
 ### Integração de pedidos
 
-Com grande frequência, as lojas desejam [integrar seus pedidos](https://developers.vtex.com/docs/guides/erp-integration-guide) a sistemas como ERP (_Enterprise Resource Planning_) e WMS (_Warehouse Management System_). A [implementação de backend](https://help.vtex.com/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu) permite à loja automatizar algumas ações no processamento do pedido, tais como:
+Com grande frequência, as lojas desejam [integrar seus pedidos](https://developers.vtex.com/docs/guides/erp-integration-guide) a sistemas como ERP (_Enterprise Resource Planning_) e WMS (_Warehouse Management System_). A [implementação de backend](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu) permite à loja automatizar algumas ações no processamento do pedido, tais como:
 
-- Receber notificações do andamento de pedidos e do seu status no [fluxo do pedido](https://help.vtex.com/pt/tutorial/fluxo-e-status-de-pedidos--tutorials_196).
+- Receber notificações do andamento de pedidos e do seu status no [fluxo do pedido](/pt/tutorial/fluxo-e-status-de-pedidos--tutorials_196).
 - Obter informações de pedidos que precisam ser separados e embalados.
-- Enviar a [fatura](https://help.vtex.com/pt/tutorial/como-faturar-um-pedido--7p1h852V5t54KyscpgxE2v) para a plataforma VTEX, que vai encaminhá-la ao cliente.
-- Realizar a [alteração de itens](https://help.vtex.com/pt/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190) do pedido.
+- Enviar a [fatura](/pt/tutorial/como-faturar-um-pedido--7p1h852V5t54KyscpgxE2v) para a plataforma VTEX, que vai encaminhá-la ao cliente.
+- Realizar a [alteração de itens](/pt/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190) do pedido.
 
-Existem duas maneiras diferentes de acompanhar a mudança de status de pedido, o [Feed](https://developers.vtex.com/docs/guides/orders-feed) ou [Hook](https://developers.vtex.com/docs/guides/orders-feed#hook). Mais informações sobre integração de pedidos podem ser encontradas no artigo [Integrações de backend](https://help.vtex.com/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu).
+Existem duas maneiras diferentes de acompanhar a mudança de status de pedido, o [Feed](https://developers.vtex.com/docs/guides/orders-feed) ou [Hook](https://developers.vtex.com/docs/guides/orders-feed#hook). Mais informações sobre integração de pedidos podem ser encontradas no artigo [Integrações de backend](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu).
 
 ### Gerenciar pedidos
 
-No Admin VTEX, em **Pedidos > [Todos os pedidos](https://help.vtex.com/pt/tutorial/lista-de-pedidos-interface--2QTduKHAJMFIZ3BAsi6Pi)**, é possível realizar as seguintes ações:
+No Admin VTEX, em **Pedidos > [Todos os pedidos](/pt/tutorial/lista-de-pedidos-interface--2QTduKHAJMFIZ3BAsi6Pi)**, é possível realizar as seguintes ações:
 
 - Visualizar uma listagem com todos os pedidos da loja.
-- Acessar informações da compra na [página de  detalhes](https://help.vtex.com/pt/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl), clicando sobre o pedido.
+- Acessar informações da compra na [página de  detalhes](/pt/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl), clicando sobre o pedido.
 
-Na página de detalhes do pedido, também é possível acompanhar a evolução do [fluxo do pedido](https://help.vtex.com/pt/tutorial/fluxo-e-status-de-pedidos--tutorials_196). A imagem a seguir é um exemplo de fluxo quando a loja atua simultaneamente como marketplace e seller:
+Na página de detalhes do pedido, também é possível acompanhar a evolução do [fluxo do pedido](/pt/tutorial/fluxo-e-status-de-pedidos--tutorials_196). A imagem a seguir é um exemplo de fluxo quando a loja atua simultaneamente como marketplace e seller:
 
 ![order-flow-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/guia-de-onboarding/trilha-da-loja-vtex/modulos-da-vtex-ii_3.png)
 
-Para localizar o registro de uma compra no Admin VTEX, além de poder [filtrar pedidos](https://help.vtex.com/pt/tutorial/filtrar-todos-pedidos--tutorials_192) na página **Todos os pedidos**, existe a opção de pesquisar pela barra de busca global, que aparece em todas as páginas do Admin VTEX. Para realizar a pesquisa, basta selecionar a opção `Pedidos`, no canto direito da barra de busca, e utilizar algum dos seguintes valores:
+Para localizar o registro de uma compra no Admin VTEX, além de poder [filtrar pedidos](/pt/tutorial/filtrar-todos-pedidos--tutorials_192) na página **Todos os pedidos**, existe a opção de pesquisar pela barra de busca global, que aparece em todas as páginas do Admin VTEX. Para realizar a pesquisa, basta selecionar a opção `Pedidos`, no canto direito da barra de busca, e utilizar algum dos seguintes valores:
 
 - ID do pedido
 - Nome do cliente
@@ -193,16 +193,16 @@ Para localizar o registro de uma compra no Admin VTEX, além de poder [filtrar p
 
 #### Emails transacionais
 
-A VTEX oferece de forma nativa o envio de [emails transacionais](https://help.vtex.com/pt/tutorial/understanding-the-message-center--tutorials_84), para a loja ser capaz de disparar emails automáticos para o cliente informando sobre as atualizações do pedido. Ou seja, conforme o pedido avança no fluxo de processamento, o cliente pode receber um email de notificação para acompanhar, por exemplo, a aprovação do pagamento da compra e o envio do pedido.
+A VTEX oferece de forma nativa o envio de [emails transacionais](/pt/tutorial/understanding-the-message-center--tutorials_84), para a loja ser capaz de disparar emails automáticos para o cliente informando sobre as atualizações do pedido. Ou seja, conforme o pedido avança no fluxo de processamento, o cliente pode receber um email de notificação para acompanhar, por exemplo, a aprovação do pagamento da compra e o envio do pedido.
 
-A plataforma oferece uma série de [templates de emails transacionais](https://help.vtex.com/pt/tutorial/templates-de-emails-transacionais--3g2S2kqBOoSGcCaqMYK2my), mas também é possível personalizar a comunicação. A lista abaixo apresenta as principais informações sobre essas configurações opcionais, que são independentes entre si:
+A plataforma oferece uma série de [templates de emails transacionais](/pt/tutorial/templates-de-emails-transacionais--3g2S2kqBOoSGcCaqMYK2my), mas também é possível personalizar a comunicação. A lista abaixo apresenta as principais informações sobre essas configurações opcionais, que são independentes entre si:
 
-- **Alias:** email alternativo gerado automaticamente pela plataforma VTEX para [mascarar](https://help.vtex.com/pt/tutorial/configuracoes-gerais--tutorials_194#tipo-de-mascara-de-conversa) o email do cliente nos emails transacionais da loja. Esse [tipo de máscara de conversa](https://help.vtex.com/pt/tutorial/configuracoes-gerais--tutorials_194#tipo-de-mascara-de-conversa) representa mais proteção para os dados dos clientes, pois o email alternativo é criado de forma não legível para sistemas externos.
-- **Availability Notify ou Avise-me**: configuração do botão [Avise-me](https://help.vtex.com/pt/tutorial/configurar-a-opcao-avise-me--2VqVifQuf6Co2KG048Yu6e) na página do produto que o cliente visualizou no site da loja. O botão se torna visível quando aquele produto está indisponível e o cliente pode escolher inserir o seu email no campo informado para ser notificado quando o produto estiver novamente disponível para compra.
+- **Alias:** email alternativo gerado automaticamente pela plataforma VTEX para [mascarar](/pt/tutorial/configuracoes-gerais--tutorials_194#tipo-de-mascara-de-conversa) o email do cliente nos emails transacionais da loja. Esse [tipo de máscara de conversa](/pt/tutorial/configuracoes-gerais--tutorials_194#tipo-de-mascara-de-conversa) representa mais proteção para os dados dos clientes, pois o email alternativo é criado de forma não legível para sistemas externos.
+- **Availability Notify ou Avise-me**: configuração do botão [Avise-me](/pt/tutorial/configurar-a-opcao-avise-me--2VqVifQuf6Co2KG048Yu6e) na página do produto que o cliente visualizou no site da loja. O botão se torna visível quando aquele produto está indisponível e o cliente pode escolher inserir o seu email no campo informado para ser notificado quando o produto estiver novamente disponível para compra.
 
 #### Funcionalidade Minha conta
 
-[Minha Conta](https://help.vtex.com/pt/tutorial/como-funciona-a-minha-conta--2BQ3GiqhqGJTXsWVuio3Xh) é a solução que garante aos clientes da loja terem autonomia no acompanhamento dos seus pedidos e na atualização de seus dados pessoais. Trata-se de ambiente único para cada cliente, que o acessa com senha e usuário.
+[Minha Conta](/pt/tutorial/como-funciona-a-minha-conta--2BQ3GiqhqGJTXsWVuio3Xh) é a solução que garante aos clientes da loja terem autonomia no acompanhamento dos seus pedidos e na atualização de seus dados pessoais. Trata-se de ambiente único para cada cliente, que o acessa com senha e usuário.
 
 Uma das vantagens da **Minha Conta** é que a funcionalidade torna mais direta a comunicação entre o cliente e a loja, além de permitir ao cliente ações como pedir novamente ou cancelar o pedido. A comunicação mais eficiente tende a diminuir a necessidade de serviços de atendimento ao cliente o que, por sua vez, representa uma redução de custos para a loja.
 
@@ -212,15 +212,15 @@ A tabela a seguir apresenta algumas configurações opcionais do módulo Pedidos
 
 | **Funcionalidade** | **Descrição** |
 | :---: | :--- |
-| Assinaturas | [Assinaturas](https://help.vtex.com/pt/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453) é um agendador automático de pedidos para facilitar aos clientes da loja fazerem compras recorrentes. O cliente indica quais itens deseja comprar e a frequência com que os pedidos automáticos devem ser feitos.<br><br>[Configurar Assinaturas](https://help.vtex.com/pt/tutorial/como-configurar-assinaturas--1FA9dfE7vJqxBna9Nft5Sj) é especialmente interessante para modelos de negócio como supermercados e vendas para pets, nos quais os clientes consomem os mesmo produtos com certa periodicidade. |
-| Televendas | A solução [televendas](https://help.vtex.com/pt/tutorial/funcionalidades-de-televendas--UqhiccIRIK2KD0OqkzJaS) permite mais autonomia para a equipe de serviço de atendimento da loja no apoio aos clientes. Ao [configurar as funcionalidades de televendas](https://help.vtex.com/pt/tutorial/como-configurar-as-funcionalidades-de-televendas--76FNgQP2Glc4umMJ5Yr50R), os operadores da loja se tornam habilitados a realizar tarefas como:<br><br>- Comprar em nome de um cliente.<br>- Ajustar manualmente o preço de itens de um carrinho de compras.<br>- Alterar pedidos existentes.<br>- Gerenciar informações de perfil de um cliente no [Minha Conta](#funcionalidade-minha-conta). |
-| Divergência de valores | Nas [estratégias de marketplace](https://help.vtex.com/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402) da loja no ecossistema VTEX, pode acontecer do preço definido pelo seller ser diferente do preço oferecido pelo marketplace. Cenários com promoções no marketplace, por exemplo, podem interferir no preço que o seller definiu para a venda do seu produto.<br><br>Para evitar erros de processamento de pedidos, o seller VTEX pode [configurar regras de Divergência de valores](https://help.vtex.com/pt/tutorial/configuracao-da-regra-de-divergencia-de-valores--awAKP0sS5J8jgLs2g7pPe) e estabelecer parâmetros para autorização automática de pedidos com essa diferença de preço entre seller e marketplace. Ao criar regras automáticas para aprovar ou recusar pedidos com diferença de preço, a loja evita ter que fazer o processamento manual de cada item e a operação ganha em eficiência. |
+| Assinaturas | [Assinaturas](/pt/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453) é um agendador automático de pedidos para facilitar aos clientes da loja fazerem compras recorrentes. O cliente indica quais itens deseja comprar e a frequência com que os pedidos automáticos devem ser feitos.<br><br>[Configurar Assinaturas](/pt/tutorial/como-configurar-assinaturas--1FA9dfE7vJqxBna9Nft5Sj) é especialmente interessante para modelos de negócio como supermercados e vendas para pets, nos quais os clientes consomem os mesmo produtos com certa periodicidade. |
+| Televendas | A solução [televendas](/pt/tutorial/funcionalidades-de-televendas--UqhiccIRIK2KD0OqkzJaS) permite mais autonomia para a equipe de serviço de atendimento da loja no apoio aos clientes. Ao [configurar as funcionalidades de televendas](/pt/tutorial/como-configurar-as-funcionalidades-de-televendas--76FNgQP2Glc4umMJ5Yr50R), os operadores da loja se tornam habilitados a realizar tarefas como:<br><br>- Comprar em nome de um cliente.<br>- Ajustar manualmente o preço de itens de um carrinho de compras.<br>- Alterar pedidos existentes.<br>- Gerenciar informações de perfil de um cliente no [Minha Conta](#funcionalidade-minha-conta). |
+| Divergência de valores | Nas [estratégias de marketplace](/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402) da loja no ecossistema VTEX, pode acontecer do preço definido pelo seller ser diferente do preço oferecido pelo marketplace. Cenários com promoções no marketplace, por exemplo, podem interferir no preço que o seller definiu para a venda do seu produto.<br><br>Para evitar erros de processamento de pedidos, o seller VTEX pode [configurar regras de Divergência de valores](/pt/tutorial/configuracao-da-regra-de-divergencia-de-valores--awAKP0sS5J8jgLs2g7pPe) e estabelecer parâmetros para autorização automática de pedidos com essa diferença de preço entre seller e marketplace. Ao criar regras automáticas para aprovar ou recusar pedidos com diferença de preço, a loja evita ter que fazer o processamento manual de cada item e a operação ganha em eficiência. |
 
-Mais informações em [Configurações Gerais dos pedidos](https://help.vtex.com/pt/tutorial/configuracoes-gerais--tutorials_194).
+Mais informações em [Configurações Gerais dos pedidos](/pt/tutorial/configuracoes-gerais--tutorials_194).
 
 ## Checkout
 
-O checkout é a etapa final no processo de compras online e contribui de maneira expressiva para uma boa taxa de conversão de vendas. No contexto da plataforma VTEX, o módulo [Checkout](https://help.vtex.com/pt/tutorial/checkout-vtex-visao-geral--7wcprkM7yZUflOqbzAN5SI) desempenha algumas funções essenciais:
+O checkout é a etapa final no processo de compras online e contribui de maneira expressiva para uma boa taxa de conversão de vendas. No contexto da plataforma VTEX, o módulo [Checkout](/pt/tutorial/checkout-vtex-visao-geral--7wcprkM7yZUflOqbzAN5SI) desempenha algumas funções essenciais:
 
 - Fornecimento de informações sobre o preço e a disponibilidade dos produtos na vitrine da loja.
 - Adiciona itens e processa o carrinho de compras.
@@ -228,7 +228,7 @@ O checkout é a etapa final no processo de compras online e contribui de maneira
 
 ### Antes de começar no Checkout
 
-Para assegurar o correto funcionamento do checkout, é necessário que os seguintes módulos estejam devidamente configurados pela loja: [Catálogo](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3rA2tTpIoEXdv2nzC27zxR), [Logística](https://help.vtex.com/pt/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx), [Preços](https://help.vtex.com/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP#), [Promoções](https://help.vtex.com/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/2a2D0K85Ahvs4hLnL3Ag7N#), [Pagamentos](https://help.vtex.com/pt/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/kdPbEIWf8Xq8tESQvViMB#) e [Pedidos](https://help.vtex.com/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/2sl6hj2eqwgqbDgTF6y5qE).
+Para assegurar o correto funcionamento do checkout, é necessário que os seguintes módulos estejam devidamente configurados pela loja: [Catálogo](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3rA2tTpIoEXdv2nzC27zxR), [Logística](/pt/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx), [Preços](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP#), [Promoções](/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/2a2D0K85Ahvs4hLnL3Ag7N#), [Pagamentos](/pt/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/kdPbEIWf8Xq8tESQvViMB#) e [Pedidos](/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/2sl6hj2eqwgqbDgTF6y5qE).
 
 ![checkout-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/guia-de-onboarding/trilha-da-loja-vtex/modulos-da-vtex-ii_4.jpg)
 
@@ -249,7 +249,7 @@ As customizações descritas abaixo são opcionais e tem o objetivo de produzir 
 
 Solução que permite acionar uma combinação de informações cadastradas para exibir ao cliente qual é a opção mais rápida e a mais barata para realizar a entrega dos produtos selecionados no carrinho. As outras opções (de maior custo ou maior prazo), não são exibidas no Checkout, melhorando a experiência do cliente.
 
-Mais informações em [Otimização das opções de entrega no Checkout](https://help.vtex.com/pt/tutorial/otimizacao-das-opcoes-de-entrega-no-checkout--6DeGO9eBSFWe4XkoS0SxAB).
+Mais informações em [Otimização das opções de entrega no Checkout](/pt/tutorial/otimizacao-das-opcoes-de-entrega-no-checkout--6DeGO9eBSFWe4XkoS0SxAB).
 
 ### Carrinho abandonado 
 
@@ -257,15 +257,15 @@ Funcionalidade que permite envio de e-mails aos clientes para recordá-los sobre
 
 > ℹ️ Configurar o carrinho abandonado durante o Onboarding, permitirá que todos os carrinhos que ainda serão criados, possam ser encaminhados para avaliação do cliente ou finalizados.
 
-Mais informações em [Configurar carrinho abandonado](https://help.vtex.com/pt/tutorial/configurar-carrinho-abandonado--tutorials_740).
+Mais informações em [Configurar carrinho abandonado](/pt/tutorial/configurar-carrinho-abandonado--tutorials_740).
 
 ### Modificar o preço de um item no carrinho de compras
 
 Na plataforma VTEX, as lojas têm a possibilidade de ajustar manualmente o preço de um item (SKU) presente no carrinho do Checkout. Esta funcionalidade pode ser usada para aplicar descontos especiais, corrigir erros de preço, criar ofertas personalizadas, resolver reclamações relacionadas a preços ou ajustar custos de envio.
 
-> ⚠️ Apenas usuários com [perfis de acesso](https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) e permissões devidamente registrados no Admin VTEX podem realizar esta modificação.
+> ⚠️ Apenas usuários com [perfis de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) e permissões devidamente registrados no Admin VTEX podem realizar esta modificação.
 
-Mais informações em [Modificar o preço de um item no carrinho de compras](https://help.vtex.com/pt/tutorial/modificar-o-preco-de-um-item-no-carrinho-de-compras--7Cd37aCAmtL1qmoZJJvjNf).
+Mais informações em [Modificar o preço de um item no carrinho de compras](/pt/tutorial/modificar-o-preco-de-um-item-no-carrinho-de-compras--7Cd37aCAmtL1qmoZJJvjNf).
 
 ### Valor mínimo de pedido e quantidade máxima de itens por SKU
 
@@ -273,7 +273,7 @@ Nas operações de ecommerce, o custo logístico associado à entrega dos produt
 
 A implementação de um valor mínimo de pedido pode melhorar a eficiência para sellers que realizam entregas em lotes, evitando pedidos com valor baixo ou poucos itens, que podem ser economicamente inviáveis.
 
-Mais informações em [Como configurar valor mínimo de pedido e quantidade máxima de itens por SKU](https://help.vtex.com/pt/tutorial/como-configurar-valor-minimo-de-pedido-e-quantidade-maxima-de-itens-por-sku--7JqipPUBxtKz0m4OlAyKs9).
+Mais informações em [Como configurar valor mínimo de pedido e quantidade máxima de itens por SKU](/pt/tutorial/como-configurar-valor-minimo-de-pedido-e-quantidade-maxima-de-itens-por-sku--7JqipPUBxtKz0m4OlAyKs9).
 
 ### Geolocalização no Checkout 
 
@@ -281,7 +281,7 @@ A solução de geolocalização possibilita ao cliente utilizar o Google Maps na
 
 Além de calcular automaticamente o custo do frete, se a loja oferece a opção de retirada na loja física, a geolocalização pode ajudar os clientes a encontrar a loja mais próxima com base em sua localização atual.
 
-Mais informações em [Configurar geolocalização no checkout](https://help.vtex.com/pt/tutorial/geolocalizacao-no-checkout--tutorials_4345).
+Mais informações em [Configurar geolocalização no checkout](/pt/tutorial/geolocalizacao-no-checkout--tutorials_4345).
 
 ### Checkout UI Custom app
 

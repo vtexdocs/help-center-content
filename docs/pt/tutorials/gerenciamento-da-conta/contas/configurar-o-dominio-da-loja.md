@@ -54,7 +54,7 @@ Confira exemplos de host abaixo e observe quais podem ser utilizados como host p
 | Exemplo de host | Pode ser utilizado como host (✔️) ou não (❌) | Explicação |
 |---|---|---|
 | `www.minhaloja.com` | ✔️ | Contém o subdomínio `www`. |
-| `minhaloja.com` | ❌ | Não contém subdomínio. Para configurar o acesso por esse endereço, é necessário configurar um host com subdomínio como `www.minhaloja.com` e, em seguida, criar um redirecionamento. Leia [Melhores práticas para acessar a loja sem www](https://help.vtex.com/pt/tutorial/configuring-access-without-www--tutorials_4278) para mais detalhes. |
+| `minhaloja.com` | ❌ | Não contém subdomínio. Para configurar o acesso por esse endereço, é necessário configurar um host com subdomínio como `www.minhaloja.com` e, em seguida, criar um redirecionamento. Leia [Melhores práticas para acessar a loja sem www](/pt/tutorial/configuring-access-without-www--tutorials_4278) para mais detalhes. |
 | `loja.minhamarca.com` | ✔️ | Contém o subdomínio `loja`. |
 | `www.loja.minhamarca.com` | ✔️ | Contém dois subdomínios: `www` e `loja`. |
 
@@ -62,8 +62,8 @@ Confira exemplos de host abaixo e observe quais podem ser utilizados como host p
 
 Para garantir que sua loja seja acessível por meio de diferentes URLs, tais como `www.minhaloja.com` e `minhaloja.com`, deve-se [configurar um único host principal](#cadastrar-um-novo-host) e redirecionar os endereços adicionais para o endereço principal. Saiba mais sobre redirecionamentos:
 
-* [Redirecionamento de outros endereços](https://help.vtex.com/pt/tutorial/redirecionamento-de-outros-enderecos--3Xi2AeLUx2QpJQu8DTX8KQ)
-* [Melhores práticas para acessar a loja sem www](https://help.vtex.com/pt/tutorial/configurando-acesso-sem-www--tutorials_4278)
+* [Redirecionamento de outros endereços](/pt/tutorial/redirecionamento-de-outros-enderecos--3Xi2AeLUx2QpJQu8DTX8KQ)
+* [Melhores práticas para acessar a loja sem www](/pt/tutorial/configurando-acesso-sem-www--tutorials_4278)
 
 Note que é recomendável implementar um único host na sua loja.
 
@@ -80,12 +80,12 @@ Para cadastrar um novo host, ele deve estar de acordo com as práticas apresenta
 7. Clique no botão `Adicionar`.
 8. Clique no botão `Salvar`.
 
-Após essas etapas, será possível [configurar o apontamento de DNS para a VTEX](https://help.vtex.com/pt/tutorial/configurando-o-apontamento-de-dns-para-a-vtex--tutorials_4280).
+Após essas etapas, será possível [configurar o apontamento de DNS para a VTEX](/pt/tutorial/configurando-o-apontamento-de-dns-para-a-vtex--tutorials_4280).
 
 > ⚠️ Lojas [FastStore](https://www.faststore.dev/) também precisam configurar um endereço com o subdomínio `secure`. Acesse o guia [Configuring external DNS for a custom domain](https://www.faststore.dev/docs/go-live/2-configuring-external-dns) para mais detalhes.
 
-> ❗ Caso a sua operação possua mais de uma conta VTEX ou [subcontas](https://help.vtex.com/pt/tutorial/como-criar-multiloja-multidominio--tutorials_510), não troque o host de uma conta para outra. Isso provocará falhas em diversos aspectos da sua loja.
+> ❗ Caso a sua operação possua mais de uma conta VTEX ou [subcontas](/pt/tutorial/como-criar-multiloja-multidominio--tutorials_510), não troque o host de uma conta para outra. Isso provocará falhas em diversos aspectos da sua loja.
 
 ## Mudar o host
 
-A plataforma VTEX é preparada para suportar mudanças de host sem impactos negativos. Caso seja necessário alterar o host da loja, siga o passo a passo descrito em [Alterar o domínio da loja](https://help.vtex.com/pt/tutorial/alterar-o-dominio-da-loja--frequentlyAskedQuestions_626/).
+A plataforma VTEX é preparada para suportar mudanças de host sem impactos negativos. Caso seja necessário alterar o host da loja, siga o passo a passo descrito em [Alterar o domínio da loja](/pt/tutorial/alterar-o-dominio-da-loja--frequentlyAskedQuestions_626/).

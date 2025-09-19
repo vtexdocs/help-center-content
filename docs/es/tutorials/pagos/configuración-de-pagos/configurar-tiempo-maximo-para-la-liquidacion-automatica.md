@@ -20,7 +20,7 @@ En primer lugar, es importante comprender la diferencia entre tres conceptos sim
 > ⚠️ La siguiente información es válida para los pagos con tarjeta de crédito.
 
 ## liquidación por facturación
-La liquidación por facturación es una de las etapas del [flujo de la transacción](https://help.vtex.com/es/tutorial/flujo-de-la-transaccion-en-pagos--Er2oWmqPIWWyeIy4IoEoQ), el proceso interno de VTEX que ocurre después de que un cliente realiza el pago de un pedido.
+La liquidación por facturación es una de las etapas del [flujo de la transacción](/es/tutorial/flujo-de-la-transaccion-en-pagos--Er2oWmqPIWWyeIy4IoEoQ), el proceso interno de VTEX que ocurre después de que un cliente realiza el pago de un pedido.
 
 Cuando se factura el pedido, momento en el que los productos están listos para ser enviados a la transportadora, el gateway de pagos realiza la liquidación. Esto sucede porque la facturación del pedido indica que el pago fue realizado correctamente.
 

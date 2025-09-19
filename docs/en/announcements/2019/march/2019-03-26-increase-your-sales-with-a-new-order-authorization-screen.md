@@ -33,5 +33,5 @@ It is important to mention that the store will not lose the previous rules, whic
 - Create rules to approve or deny orders with prices changed manually, according to the store's business scenario.
 - Have more independence on negotiations and add specific people to authorize orders that have had their prices modified manually.
 
-Check out the [tutorial](https://help.vtex.com/en/tutorial/saiba-como-criar-fluxos-para-a-liberacao-ou-aprovacao-de-pedidos-dos-canais?locale=en "tutorial") and see how to use the new function. 
+Check out the [tutorial](/en/tutorial/saiba-como-criar-fluxos-para-a-liberacao-ou-aprovacao-de-pedidos-dos-canais?locale=en "tutorial") and see how to use the new function. 
 

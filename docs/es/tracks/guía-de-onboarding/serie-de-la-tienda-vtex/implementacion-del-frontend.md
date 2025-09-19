@@ -25,7 +25,7 @@ El propósito de este artículo es brindar orientación en la elección de la te
 
 La implementación del frontend es una etapa centrada en la definición de las tecnologías a implementar, en función de las necesidades del negocio relacionadas con el storefront.
 
-> ℹ️ El frontend puede ser implementado tanto por el equipo de desarrollo interno de la empresa como por nuestros [partners de implementación](https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#partners-de-implementacion). [Los usuarios](https://help.vtex.com/es/tutorial/gestionar-usuarios--tutorials_512) con acceso al Admin VTEX pueden consultar la lista de nuestros partners a través del [Partner Portal](https://partnerportal.vtex.com/) (exclusivo Brasil).
+> ℹ️ El frontend puede ser implementado tanto por el equipo de desarrollo interno de la empresa como por nuestros [partners de implementación](/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#partners-de-implementacion). [Los usuarios](/es/tutorial/gestionar-usuarios--tutorials_512) con acceso al Admin VTEX pueden consultar la lista de nuestros partners a través del [Partner Portal](https://partnerportal.vtex.com/) (exclusivo Brasil).
 
 ## Antes de empezar
 
@@ -33,18 +33,18 @@ Antes de empezar a implementar el frontend, se recomienda que la tienda complete
 
 | Fase | Descripción |
 |---|---|
-| Definición de la arquitectura de la tienda y la estrategia de ventas | El equipo define la arquitectura de la tienda VTEX en función de las estrategias y necesidades de tu modelo de negocio.<br><br>Más información en el artículo [Cuentas y arquitectura](https://help.vtex.com/en/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl). |
-| Configuración de roles | El equipo configura los roles de acceso necesarios de cada [usuario](https://help.vtex.com/es/tutorial/gestionar-usuarios--tutorials_512) para la utilización de la plataforma VTEX. <br><br>Más información en el artículo [Roles](https://help.vtex.com/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc). |
-| Configuración del catálogo | El equipo configura el [catálogo](https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#catalogo) con los productos, el árbol de categorías y la información relacionada, como descripciones, imágenes y precios, para completar y probar la tienda, incluyendo recursos como las páginas de lista de productos (PLP), funcionalidad de búsqueda, las páginas de detalles de producto (PDP) y checkout.<br><br>La falta de catálogo puede resultar en pruebas incompletas y problemas en la integración de datos, lo que retrasa la implementación.<br><br>Más información en el artículo [Módulos de VTEX I](https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7). |
+| Definición de la arquitectura de la tienda y la estrategia de ventas | El equipo define la arquitectura de la tienda VTEX en función de las estrategias y necesidades de tu modelo de negocio.<br><br>Más información en el artículo [Cuentas y arquitectura](/en/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl). |
+| Configuración de roles | El equipo configura los roles de acceso necesarios de cada [usuario](/es/tutorial/gestionar-usuarios--tutorials_512) para la utilización de la plataforma VTEX. <br><br>Más información en el artículo [Roles](/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc). |
+| Configuración del catálogo | El equipo configura el [catálogo](/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#catalogo) con los productos, el árbol de categorías y la información relacionada, como descripciones, imágenes y precios, para completar y probar la tienda, incluyendo recursos como las páginas de lista de productos (PLP), funcionalidad de búsqueda, las páginas de detalles de producto (PDP) y checkout.<br><br>La falta de catálogo puede resultar en pruebas incompletas y problemas en la integración de datos, lo que retrasa la implementación.<br><br>Más información en el artículo [Módulos de VTEX I](/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7). |
 | Definición de las aplicaciones necesarias para la operación de la tienda | El equipo define las aplicaciones, tanto nativas como de terceros, necesarias para la operación de la tienda.<br><br>Hay una lista de aplicaciones nativas y de terceros para tiendas que se construyan usando [Store Framework](#store-framework).<br><br>Más información en el artículo [VTEX IO Apps](https://developers.vtex.com/docs/vtex-io-apps). |
 
-> ℹ️ La [fase de desarrollo](#fases-de-desarrollo) puede llevarse a cabo simultáneamente con otras fases de las [integraciones de backend](https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu) y [configuración de módulos](https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7), como por ejemplo, la configuración de medios de pago y ajustes logísticos. Esto va a depender del tipo de [arquitectura y planificación](https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl) elegida para la tienda VTEX y deberá ir acompañado de la [agencia implementadora](https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6ylpartners-de-implementacion) o del [soporte VTEX](https://help.vtex.com/es/tracks/soporte-en-vtex--4AXsGdGHqExp9ZkiNq9eMy/7w7cUmbrdPEKpTMItjXEB8).
+> ℹ️ La [fase de desarrollo](#fases-de-desarrollo) puede llevarse a cabo simultáneamente con otras fases de las [integraciones de backend](/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu) y [configuración de módulos](/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7), como por ejemplo, la configuración de medios de pago y ajustes logísticos. Esto va a depender del tipo de [arquitectura y planificación](/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl) elegida para la tienda VTEX y deberá ir acompañado de la [agencia implementadora](/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6ylpartners-de-implementacion) o del [soporte VTEX](/es/tracks/soporte-en-vtex--4AXsGdGHqExp9ZkiNq9eMy/7w7cUmbrdPEKpTMItjXEB8).
 
 ## Tecnologías de desarrollo de frontend de VTEX
 
-VTEX cuenta con tres diferentes tecnologías para el desarrollo del storefront: [FastStore](#faststore), [Store Framework](#store-framework) y [CMS Portal Legado](https://help.vtex.com/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj). CMS Portal Legado fue la primera tecnología de VTEX para la construcción de storefronts. Este sistema, basado en HTML, CSS y JavaScript, centraliza todo el proceso de desarrollo y edición de código a través del Admin VTEX.
+VTEX cuenta con tres diferentes tecnologías para el desarrollo del storefront: [FastStore](#faststore), [Store Framework](#store-framework) y [CMS Portal Legado](/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj). CMS Portal Legado fue la primera tecnología de VTEX para la construcción de storefronts. Este sistema, basado en HTML, CSS y JavaScript, centraliza todo el proceso de desarrollo y edición de código a través del Admin VTEX.
 
-> ⚠️ Aunque algunas tiendas aún lo utilizan, [CMS Portal Legado](https://help.vtex.com/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj) es una tecnología heredada y ya no está disponible para tiendas que inician su trayectoria con VTEX.
+> ⚠️ Aunque algunas tiendas aún lo utilizan, [CMS Portal Legado](/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj) es una tecnología heredada y ya no está disponible para tiendas que inician su trayectoria con VTEX.
 
 Las siguientes secciones tratan sobre las principales características y funcionalidades de FastStore y Store Framework.
 
@@ -100,12 +100,12 @@ La siguiente tabla muestra algunas de las principales funcionalidades de Store F
 | [Componentes preconstruidos](https://developers.vtex.com/docs/vtex-io-apps) | Componentes nativos basados en React. |
 | Arquitectura modular | Personalización y reutilización del código de elementos de la interfaz para lanzar y replicar tiendas rápidamente. |
 | [Workspaces y entornos de prueba](https://developers.vtex.com/docs/guides/vtex-io-documentation-workspace) | Permite crear distintas versiones de la tienda y probarlas antes para hacer cambios con seguridad. |
-| [Site Editor](https://help.vtex.com/es/tutorial/site-editor-vision-general--299Dbeb9mFczUTyNQ9xPe1) | Sistema de gestión de contenido (CMS) para editar plantillas y crear nuevas páginas en el sitio web de la tienda. |
+| [Site Editor](/es/tutorial/site-editor-vision-general--299Dbeb9mFczUTyNQ9xPe1) | Sistema de gestión de contenido (CMS) para editar plantillas y crear nuevas páginas en el sitio web de la tienda. |
 | [Pruebas A/B nativas](https://developers.vtex.com/docs/guides/ab-tests) | Permite probar y validar la versión de la tienda que tiene las tasas de conversión más altas. |
-| Integración con [Intelligent Search](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG) | Funcionalidad de autocompletar en la barra de búsqueda, junto con sugerencias de búsqueda y productos basados en tus preferencias. |
-| [Progressive Web App (PWA)](https://help.vtex.com/es/tutorial/habilitar-las-notificaciones-pwa-de-la-tienda--1be3ZPhbsgZSbE7h5H46pG) | Permite experiencias similares a las de una aplicación nativa en cualquier dispositivo con tecnología preparada para PWA. |
-| [Cross-border](https://help.vtex.com/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/5qgXy9Erm7FDP3UB5Ox8Bs) | Posibilita que una [multitienda](http://link-warm-up-multiloja) VTEX opere en diferentes países, adaptando su estrategia de manera individualizada para cada uno de ellos. |
-| Integración con Checkout, [My Account](https://help.vtex.com/es/tutorial/como-funciona-mi-cuenta--2BQ3GiqhqGJTXsWVuio3Xh) y Login | Integración con otras fases de la jornada de compra del cliente. |
+| Integración con [Intelligent Search](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG) | Funcionalidad de autocompletar en la barra de búsqueda, junto con sugerencias de búsqueda y productos basados en tus preferencias. |
+| [Progressive Web App (PWA)](/es/tutorial/habilitar-las-notificaciones-pwa-de-la-tienda--1be3ZPhbsgZSbE7h5H46pG) | Permite experiencias similares a las de una aplicación nativa en cualquier dispositivo con tecnología preparada para PWA. |
+| [Cross-border](/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/5qgXy9Erm7FDP3UB5Ox8Bs) | Posibilita que una [multitienda](http://link-warm-up-multiloja) VTEX opere en diferentes países, adaptando su estrategia de manera individualizada para cada uno de ellos. |
+| Integración con Checkout, [My Account](/es/tutorial/como-funciona-mi-cuenta--2BQ3GiqhqGJTXsWVuio3Xh) y Login | Integración con otras fases de la jornada de compra del cliente. |
 
 ## Elegir la tecnología frontend
 
@@ -115,7 +115,7 @@ Store Framework es una opción más madura, que ofrece una estructura flexible a
 
 FastStore es una alternativa más reciente en proceso de evolución, enfocada en el desempeño de la tienda. Esta solución ofrece una experiencia de carga rápida, que es esencial para mantener el interés de los visitantes de la tienda y reducir las tasas de abandono de carrito. FastStore es la tecnología más recomendada para casos de uso más simples enfocados en desempeño.
 
-> ℹ️ El equipo de [soporte de VTEX](https://help.vtex.com/es/tracks/soporte-en-vtex--4AXsGdGHqExp9ZkiNq9eMy/7w7cUmbrdPEKpTMItjXEB8) puede ayudarte a elegir una de las tecnologías de storefront disponibles.
+> ℹ️ El equipo de [soporte de VTEX](/es/tracks/soporte-en-vtex--4AXsGdGHqExp9ZkiNq9eMy/7w7cUmbrdPEKpTMItjXEB8) puede ayudarte a elegir una de las tecnologías de storefront disponibles.
 
 En la siguiente tabla se comparan las dos tecnologías según sus principales funcionalidades:
 
@@ -196,19 +196,19 @@ En la siguiente tabla se comparan las dos tecnologías según sus principales fu
     </tr>
     <tr>
         <td>Sistema de gestión de contenido (CMS)</td>
-        <td>Compatible con [Site Editor](https://help.vtex.com/es/tutorial/site-editor-vision-general--299Dbeb9mFczUTyNQ9xPe1).</td>
+        <td>Compatible con [Site Editor](/es/tutorial/site-editor-vision-general--299Dbeb9mFczUTyNQ9xPe1).</td>
         <td>Compatible con [Headless CMS](https://www.faststore.dev/docs/headless-cms-overview).</td>
     </tr>
 </table>
 
 ## Fases de desarrollo
 
-Antes de lanzar la tienda en producción, y antes del [go-live](https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/6xYnNxDHUcY6FyChgziCoH), enumera los ajustes esenciales y las características que deben incluirse en el storefront. Estas definiciones ayudan a establecer el Producto Mínimo Viable (PMV) para el storefront. En los siguientes temas se describen:
+Antes de lanzar la tienda en producción, y antes del [go-live](/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/6xYnNxDHUcY6FyChgziCoH), enumera los ajustes esenciales y las características que deben incluirse en el storefront. Estas definiciones ayudan a establecer el Producto Mínimo Viable (PMV) para el storefront. En los siguientes temas se describen:
 
 - [Requisitos para un PMV de FastStore](#requisitos-para-un-pmv-de-faststore)
 - [Requisitos para un PMV de Store Framework](#requisitos-para-un-pmv-de-store-framework).
 
-> ℹ️ Las recomendaciones a continuación abordan configuraciones básicas de storefront. Dependiendo de la [arquitectura elegida](https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl) para la operación de la tienda, pueden ser necesarias otras configuraciones.
+> ℹ️ Las recomendaciones a continuación abordan configuraciones básicas de storefront. Dependiendo de la [arquitectura elegida](/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl) para la operación de la tienda, pueden ser necesarias otras configuraciones.
 
 ### Desarrollo con FastStore
 
@@ -226,12 +226,12 @@ El equipo de desarrollo debe iniciar un nuevo proyecto con FastStore a través d
 A continuación se presentan los requisitos de cada tema:
 
 - Catálogo
-  - [Registrar productos y SKU](https://help.vtex.com/es/tutorial/registrar-productos--tutorials_2567)
-  - [Construir un árbol de categorías](https://help.vtex.com/es/tutorial/registrar-categoria--tutorials_206) ([departamentos](https://help.vtex.com/es/tutorial/que-es-un-departamento--22rKjmYWVmmKAK8CWa8yKw), [categorías](https://help.vtex.com/es/tutorial/que-es-una-categoria--6HV4Q3E2FauUoOQoiCCgCg) y [subcategorías](https://help.vtex.com/es/tutorial/que-es-una-subcategoria--2cb0aRkG3i6AeiAMM24iwY))
-  - [Definir filtros y tipos de especificaciones por categoría](https://help.vtex.com/es/tutorial/crear-grupo-de-especificaciones-en-una-categoria--tutorials_246)
-  - [Registrar imágenes de los SKU](https://help.vtex.com/es/tutorial/campos-de-registro-de-sku--21DDItuEQc6mseiW8EakcY#imagenes)
-  - [Registrar precios de los SKU](https://help.vtex.com/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/P99EjtrlRHk92Q8qDPq29)
-  - [Gestión del stock](https://help.vtex.com/es/tutorial/gestionar-items-en-inventario--tutorials_139)
+  - [Registrar productos y SKU](/es/tutorial/registrar-productos--tutorials_2567)
+  - [Construir un árbol de categorías](/es/tutorial/registrar-categoria--tutorials_206) ([departamentos](/es/tutorial/que-es-un-departamento--22rKjmYWVmmKAK8CWa8yKw), [categorías](/es/tutorial/que-es-una-categoria--6HV4Q3E2FauUoOQoiCCgCg) y [subcategorías](/es/tutorial/que-es-una-subcategoria--2cb0aRkG3i6AeiAMM24iwY))
+  - [Definir filtros y tipos de especificaciones por categoría](/es/tutorial/crear-grupo-de-especificaciones-en-una-categoria--tutorials_246)
+  - [Registrar imágenes de los SKU](/es/tutorial/campos-de-registro-de-sku--21DDItuEQc6mseiW8EakcY#imagenes)
+  - [Registrar precios de los SKU](/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/P99EjtrlRHk92Q8qDPq29)
+  - [Gestión del stock](/es/tutorial/gestionar-items-en-inventario--tutorials_139)
 - VTEX Intelligent Search
   - [Integrar la aplicación de Intelligent Search con la cuenta](https://www.faststore.dev/docs/getting-started-requirements#enable-the-vtex-intelligent-search-app-in-your-account)
 - Integración con Headless CMS
@@ -253,12 +253,12 @@ A continuación se presentan los requisitos de cada tema:
   - Integrar con [VTEX Checkout](https://www.faststore.dev/docs/go-live/4-integrating-the-vtex-checkout)
   - Integrar con [VTEX Order Placed y My Account](https://www.faststore.dev/docs/go-live/5-integrating-the-vtex-order-placed-and-my-account)
 - Logística
-  - [Registrar muelle](https://help.vtex.com/es/tutorial/gestionar-el-muelle--7K3FultD8I2cuuA6iyGEiW)
-  - [Registrar estrategia de envío](https://help.vtex.com/es/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3)
-  - [Relacionar la estrategia de envío y almacén con el muelle](https://help.vtex.com/es/tutorial/gestionar-el-muelle--7K3FultD8I2cuuA6iyGEiW)
+  - [Registrar muelle](/es/tutorial/gestionar-el-muelle--7K3FultD8I2cuuA6iyGEiW)
+  - [Registrar estrategia de envío](/es/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3)
+  - [Relacionar la estrategia de envío y almacén con el muelle](/es/tutorial/gestionar-el-muelle--7K3FultD8I2cuuA6iyGEiW)
 - Pagos
-  - [Configurar el proveedor Pagarés](https://help.vtex.com/es/tutorial/configurar-conector-pagares--7Gy0SJRVS0Qi2CuWMAqQc0)
-  - [Registrar proveedores de gateway](https://help.vtex.com/es/tutorial/afiliaciones-de-gateway--tutorials_444)
+  - [Configurar el proveedor Pagarés](/es/tutorial/configurar-conector-pagares--7Gy0SJRVS0Qi2CuWMAqQc0)
+  - [Registrar proveedores de gateway](/es/tutorial/afiliaciones-de-gateway--tutorials_444)
 - Desempeño y SEO
   - Optimizar el desempeño del sitio web de la tienda utilizando herramientas [tecnológicas](https://v1.faststore.dev/how-to-guides/performance)
 - Métricas
@@ -279,12 +279,12 @@ El equipo de desarrollo debe iniciar un nuevo proyecto con Store Framework clona
 A continuación se presentan los requisitos para cada tema:
 
 - Catálogo
-  - [Registrar productos y SKU](https://help.vtex.com/es/tutorial/registrar-productos--tutorials_2567)
-  - [Construir un árbol de categorías](https://help.vtex.com/es/tutorial/registrar-categoria--tutorials_206) ([departamentos](https://help.vtex.com/es/tutorial/que-es-un-departamento--22rKjmYWVmmKAK8CWa8yKw), [categorías](https://help.vtex.com/es/tutorial/que-es-una-categoria--6HV4Q3E2FauUoOQoiCCgCg) y [subcategorías](https://help.vtex.com/es/tutorial/que-es-una-subcategoria--2cb0aRkG3i6AeiAMM24iwY))
-  - [Definir filtros y tipos de especificaciones por categoría](https://help.vtex.com/es/tutorial/crear-grupo-de-especificaciones-en-una-categoria--tutorials_246)
-  - [Registrar imágenes de los SKU](https://help.vtex.com/es/tutorial/campos-de-registro-de-sku--21DDItuEQc6mseiW8EakcY#imagenes)
-  - [Registrar precios de los SKU](https://help.vtex.com/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/P99EjtrlRHk92Q8qDPq29)
-  - [Gestión del stock](https://help.vtex.com/es/tutorial/gestionar-items-en-inventario--tutorials_139)
+  - [Registrar productos y SKU](/es/tutorial/registrar-productos--tutorials_2567)
+  - [Construir un árbol de categorías](/es/tutorial/registrar-categoria--tutorials_206) ([departamentos](/es/tutorial/que-es-un-departamento--22rKjmYWVmmKAK8CWa8yKw), [categorías](/es/tutorial/que-es-una-categoria--6HV4Q3E2FauUoOQoiCCgCg) y [subcategorías](/es/tutorial/que-es-una-subcategoria--2cb0aRkG3i6AeiAMM24iwY))
+  - [Definir filtros y tipos de especificaciones por categoría](/es/tutorial/crear-grupo-de-especificaciones-en-una-categoria--tutorials_246)
+  - [Registrar imágenes de los SKU](/es/tutorial/campos-de-registro-de-sku--21DDItuEQc6mseiW8EakcY#imagenes)
+  - [Registrar precios de los SKU](/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/P99EjtrlRHk92Q8qDPq29)
+  - [Gestión del stock](/es/tutorial/gestionar-items-en-inventario--tutorials_139)
 - VTEX Intelligent Search
   - [Integrar la aplicación de Intelligent Search con la cuenta](https://www.faststore.dev/docs/getting-started-requirements#enable-the-vtex-intelligent-search-app-in-your-account)
 - Página de inicio
@@ -299,12 +299,12 @@ A continuación se presentan los requisitos para cada tema:
 - Configuración de minicart
   - Editar los componentes y estilos ya presentados en [Starter](https://storetheme.vtex.com/)
 - Logística
-  - [Registrar muelle](https://help.vtex.com/es/tutorial/gestionar-el-muelle--7K3FultD8I2cuuA6iyGEiW)
-  - [Registrar estrategia de envío](https://help.vtex.com/es/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3)
-  - [Relacionar la estrategia de envío y almacén con el muelle](https://help.vtex.com/es/tutorial/gestionar-el-muelle--7K3FultD8I2cuuA6iyGEiW)
+  - [Registrar muelle](/es/tutorial/gestionar-el-muelle--7K3FultD8I2cuuA6iyGEiW)
+  - [Registrar estrategia de envío](/es/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3)
+  - [Relacionar la estrategia de envío y almacén con el muelle](/es/tutorial/gestionar-el-muelle--7K3FultD8I2cuuA6iyGEiW)
 - Pagos
-  - [Configurar el proveedor Pagarés](https://help.vtex.com/es/tutorial/configurar-conector-pagares--7Gy0SJRVS0Qi2CuWMAqQc0)
-  - [Registrar proveedores de gateway](https://help.vtex.com/es/tutorial/afiliaciones-de-gateway--tutorials_444)
+  - [Configurar el proveedor Pagarés](/es/tutorial/configurar-conector-pagares--7Gy0SJRVS0Qi2CuWMAqQc0)
+  - [Registrar proveedores de gateway](/es/tutorial/afiliaciones-de-gateway--tutorials_444)
 - Desempeño y SEO
   - Optimizar el desempeño del sitio web de la tienda utilizando herramientas [tecnológicas](https://developers.vtex.com/docs/guides/vtex-io-documentation-best-practices-for-optimizing-performance)
 - Métricas

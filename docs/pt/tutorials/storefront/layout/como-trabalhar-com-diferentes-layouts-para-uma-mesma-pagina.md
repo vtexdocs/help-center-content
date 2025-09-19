@@ -21,7 +21,7 @@ Na página __Storefront__ > __Layout__, um layout padrão é aplicado para todas
 
 Existe a possibilidade, entretanto, de aplicar diferentes layouts para uma mesma página por meio de determinadas condições (grupo de produtos, categorias, marcas). Por exemplo, é possível configurar dois produtos com layouts diferentes ou uma categoria específica com um layout especial.
 
-Para isso, primeiramente é necessário inserir no módulo de CMS um novo template, seja [de página](https://help.vtex.com/pt/faq/como-criar-um-template-de-pagina) ou de [prateleira](https://help.vtex.com/pt/faq/como-criar-um-template-de-prateleira). Após a criação do template, você deve acessar a pasta que deseja aplicar o novo layout conforme os passos abaixo:
+Para isso, primeiramente é necessário inserir no módulo de CMS um novo template, seja [de página](/pt/faq/como-criar-um-template-de-pagina) ou de [prateleira](/pt/faq/como-criar-um-template-de-prateleira). Após a criação do template, você deve acessar a pasta que deseja aplicar o novo layout conforme os passos abaixo:
 
 1. Em __Storefront__, acesse __Layout__;
 2. Clique na pasta __CMS__;
@@ -39,7 +39,7 @@ Após isso, uma nova seção será disponibilizada e você poderá definir atrav
 
 Após preencher todos os campos, não se esqueça de salvar as mudanças feitas clicando em __Save Layout__.
 
-Note que esses critérios se baseiam no ["contexto de busca"](https://help.vtex.com/pt/tutorial/como-funciona-o-contexto-de-busca) da página em que o usuário se encontra, que estão diretamente ligados aos [parâmetros de busca](https://help.vtex.com/pt/tutorial/parametros-de-busca), mas que não necessariamente são definidos manualmente pelo administrador da loja - toda página se enquadra em um contexto de conteúdo automaticamente.
+Note que esses critérios se baseiam no ["contexto de busca"](/pt/tutorial/como-funciona-o-contexto-de-busca) da página em que o usuário se encontra, que estão diretamente ligados aos [parâmetros de busca](/pt/tutorial/parametros-de-busca), mas que não necessariamente são definidos manualmente pelo administrador da loja - toda página se enquadra em um contexto de conteúdo automaticamente.
 
 Ocorre que as condições ofertadas não estarão presentes em qualquer página:
 

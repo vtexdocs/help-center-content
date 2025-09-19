@@ -29,14 +29,14 @@ Similarly, if you filter for __Glass Cups__ in the __Jars__ category, you will n
 
 To configure a similar category at product level, follow the steps below:
 
-1. In the VTEX Admin, go to **Catalog > Products and SKUs**, or type [Products and SKUs](https://help.vtex.com/en/tutorial/products-and-skus--2ig7TmROlirWirZjFWZ3By) in the search bar at the top of the page.
-2. Click on the desired product line, or click on the product three-dot menu > `Edit product`. If you are creating the product, check out the article [Adding or editing products](https://help.vtex.com/en/tutorial/adding-or-editing-products--29IkdEu6GofCFlltsZh2H8).
+1. In the VTEX Admin, go to **Catalog > Products and SKUs**, or type [Products and SKUs](/en/tutorial/products-and-skus--2ig7TmROlirWirZjFWZ3By) in the search bar at the top of the page.
+2. Click on the desired product line, or click on the product three-dot menu > `Edit product`. If you are creating the product, check out the article [Adding or editing products](/en/tutorial/adding-or-editing-products--29IkdEu6GofCFlltsZh2H8).
 3. In the **Storefront** section, add the desired categories in the **Similar Categories** field.
 4. Click `Save`.
 
 ## Configuring similar category within a category
 
-> ⚠️ This setting is only compatible with stores using [Legacy CMS Portal](https://help.vtex.com/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj).
+> ⚠️ This setting is only compatible with stores using [Legacy CMS Portal](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj).
 
 When editing a category, you can set up its like category. When you complete this kind of configuration at category level, the navigation menu will display a link to the similar category at the original category level.
 

@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 1hoOi2R0Rm6ky0yCwOUoiy
 ---
 
-El servicio de SKU es una funcionalidad de VTEX que te permite añadir un ítem, de forma opcional y con un coste, para acompañar a un producto. Para más información, lee nuestro artículo [¿Qué es un servicio?](https://help.vtex.com/es/tutorial/que-es-un-servicio--46Ha8CEEQoC6Y40i6akG0y).
+El servicio de SKU es una funcionalidad de VTEX que te permite añadir un ítem, de forma opcional y con un coste, para acompañar a un producto. Para más información, lee nuestro artículo [¿Qué es un servicio?](/es/tutorial/que-es-un-servicio--46Ha8CEEQoC6Y40i6akG0y).
 
 En este artículo trataremos los siguientes temas:
 
@@ -43,7 +43,7 @@ En esta sección debes registrar un nombre para tu tipo de servicio y configurar
 - **Tarjeta de regalo:** opción para mostrar el tipo de servicio en la tarjeta de regalo.
 - **Servicio obligatorio:** opción que hace que el tipo de servicio sea obligatorio.
 - **Status:** opción que activa o desactiva el tipo de servicio.
-- **Anexos:** selección de los anexos que se añadirán al tipo de servicio. El anexo se utiliza para añadir una información personalizada al servicio. Para saber más, lee nuestro artículo [¿Qué es un Anexo?](https://help.vtex.com/es/tutorial/que-es-un-anexo--aGICk0RVbqKg6GYmQcWUm).
+- **Anexos:** selección de los anexos que se añadirán al tipo de servicio. El anexo se utiliza para añadir una información personalizada al servicio. Para saber más, lee nuestro artículo [¿Qué es un Anexo?](/es/tutorial/que-es-un-anexo--aGICk0RVbqKg6GYmQcWUm).
 
 ## Crear un valor de servicio y asociarlo a un tipo de servicio
 Después de registrar el tipo de servicio, debes asignarle un valor. Para registrar el valor de un tipo de servicio, sigue los pasos a continuación:

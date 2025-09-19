@@ -15,23 +15,23 @@ locale: es
 subcategoryId: 7uJcyu0VawEm8ggqKu404u
 ---
 
-Los adicionales de flete son importes que se añaden al costo de envío mediante las [políticas de envío](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140). Así, al configurar un valor de costo para la entrega de los ítems de su tienda, puede establecer una tarifa fija e incluir valores adicionales. El costo de envío fijo más los adicionales constituyen el costo de la [tarifa de envío](https://help.vtex.com/pt/tutorial/gerenciar-valores-de-frete--tutorials_141).
+Los adicionales de flete son importes que se añaden al costo de envío mediante las [políticas de envío](/pt/tutorial/politica-de-envio--tutorials_140). Así, al configurar un valor de costo para la entrega de los ítems de su tienda, puede establecer una tarifa fija e incluir valores adicionales. El costo de envío fijo más los adicionales constituyen el costo de la [tarifa de envío](/pt/tutorial/gerenciar-valores-de-frete--tutorials_141).
 
 ![Tarifa envio ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/tarifas-de-env%C3%ADo/adicionales-de-flete_1.svg)
 
 Los valores adicionales pueden configurarse según:
 
-* El peso del producto: [adicional de peso](https://help.vtex.com/es/tutorial/adicionales-de-flete--2vqGwMn0LabkOHY6zSHYNV#adicional-de-peso).
+* El peso del producto: [adicional de peso](/es/tutorial/adicionales-de-flete--2vqGwMn0LabkOHY6zSHYNV#adicional-de-peso).
 * El precio del producto:
-[adicional de precio](https://help.vtex.com/es/tutorial/adicionales-de-flete--2vqGwMn0LabkOHY6zSHYNV#adicional-de-precio).
+[adicional de precio](/es/tutorial/adicionales-de-flete--2vqGwMn0LabkOHY6zSHYNV#adicional-de-precio).
 * El seguro del producto: 
-[adicional de seguro](https://help.vtex.com/es/tutorial/adicionales-de-flete--2vqGwMn0LabkOHY6zSHYNV#adicional-de-seguro).
+[adicional de seguro](/es/tutorial/adicionales-de-flete--2vqGwMn0LabkOHY6zSHYNV#adicional-de-seguro).
 * El costo de envío: 
-[adicional de flete](https://help.vtex.com/es/tutorial/adicionales-de-flete--2vqGwMn0LabkOHY6zSHYNV#adicional-de-flete).
+[adicional de flete](/es/tutorial/adicionales-de-flete--2vqGwMn0LabkOHY6zSHYNV#adicional-de-flete).
 
 ![adicionais frete ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/tarifas-de-env%C3%ADo/adicionales-de-flete_2.svg)
 
-> ❗ Es posible tener todos los adicionales configurados al mismo tiempo para una única tarifa de envío. El cálculo final de la [tarifa de envío](https://help.vtex.com/es/tutorial/tarifas-de-envio--1Balpg3rv0854udEPedvMM) es la suma de todos los adicionales registrados más la tarifa fija del flete. La tarifa de envío no es el costo final de envío.
+> ❗ Es posible tener todos los adicionales configurados al mismo tiempo para una única tarifa de envío. El cálculo final de la [tarifa de envío](/es/tutorial/tarifas-de-envio--1Balpg3rv0854udEPedvMM) es la suma de todos los adicionales registrados más la tarifa fija del flete. La tarifa de envío no es el costo final de envío.
 
 ## Adicional de peso
 
@@ -65,8 +65,8 @@ Tarifa de envío: ($10+$8,70)=$18,70
 
 Hay dos formas de configurar el adicional de peso. Para saber más, acceda a los tutoriales.
 
-* Por [Plantilla de flete](https://help.vtex.com/es/tutorial/planilha-de-frete--tutorials_127), utilizando el campo de la columna _PriceByExtraWeight_.
-* Y en la página de [Tarifas de Envío](https://help.vtex.com/en/tutorial/gerenciar-valores-de-frete--tutorials_141), en el campo _valor adicional por peso_.
+* Por [Plantilla de flete](/es/tutorial/planilha-de-frete--tutorials_127), utilizando el campo de la columna _PriceByExtraWeight_.
+* Y en la página de [Tarifas de Envío](/en/tutorial/gerenciar-valores-de-frete--tutorials_141), en el campo _valor adicional por peso_.
 
 ## Adicional de precio
 
@@ -95,8 +95,8 @@ Tarifa de envío: ($10+$16,4)=$26,4
 
 Hay dos maneras de configurar el adicional de precio. Para saber más, acceda a los tutoriales.
 
-* Por [Plantilla de flete](https://help.vtex.com/en/tutorial/planilha-de-frete--tutorials_127), utilizando el campo de la columna _PricePercent_.
-* Y en la página de [Tarifas de Envío](https://help.vtex.com/en/tutorial/gerenciar-valores-de-frete--tutorials_141), en el campo _valor adicional_.
+* Por [Plantilla de flete](/en/tutorial/planilha-de-frete--tutorials_127), utilizando el campo de la columna _PricePercent_.
+* Y en la página de [Tarifas de Envío](/en/tutorial/gerenciar-valores-de-frete--tutorials_141), en el campo _valor adicional_.
 
 ## Adicional de seguro
 
@@ -104,7 +104,7 @@ Este es el costo adicional por el seguro de entrega. Al registrar esta tarifa, s
 
 ### Ejemplo
 
-Durante el registro de los costos de la [política de envío](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140) mediante la [plantilla de flete](https://help.vtex.com/pt/tutorial/planilha-de-frete--tutorials_127), para los códigos postales o polígonos seleccionados, si hay un **adicional de seguro** configurado de $3,00, se añadirá este valor para cada envío en esa ubicación.
+Durante el registro de los costos de la [política de envío](/pt/tutorial/politica-de-envio--tutorials_140) mediante la [plantilla de flete](/pt/tutorial/planilha-de-frete--tutorials_127), para los códigos postales o polígonos seleccionados, si hay un **adicional de seguro** configurado de $3,00, se añadirá este valor para cada envío en esa ubicación.
 
 Considerando un paquete con las siguientes características:
 
@@ -121,7 +121,7 @@ Tarifa de envío: ($15+$10,3)=$25,3
 
 ### Configuración 
 
-El adicional de seguro se configura en la [plantilla de flete](https://help.vtex.com/en/tutorial/planilha-de-frete--tutorials_127), en el campo _MinimumValueInsurance_.
+El adicional de seguro se configura en la [plantilla de flete](/en/tutorial/planilha-de-frete--tutorials_127), en el campo _MinimumValueInsurance_.
 
 > ❗ Si el adicional de precio es inferior al adicional de seguro, el adicional de precio no se tiene en cuenta en el cálculo final de la tarifa de envío.
 

@@ -57,7 +57,7 @@ Once you have this, follow the steps below to configure your XML:
 11. Choose whether or not to display the unavailable SKUs on the marketplace site, in other words, whether the product will be displayed for purchase, even if it is not available for immediate delivery.
 12. Select whether you want the product displayed with the default SKU information.
 13. Thereafter, you have to enter the tags in accordance with the what has been defined by the system you will be sending the XML to. You must check the selection box in the __Show content__ column, for the tags which have a name entered. The tags with this option checked, and which you cannot deselect, are mandatory.
-14. The URL used to access the XML is generated automatically, according to the [domain registered in the Web Site dictionary](https://help.vtex.com/en/tutorial/configuring-an-xml-domain--2RkGK4vHS0c6sYuUw0cUWC), in the __CMS__.
+14. The URL used to access the XML is generated automatically, according to the [domain registered in the Web Site dictionary](/en/tutorial/configuring-an-xml-domain--2RkGK4vHS0c6sYuUw0cUWC), in the __CMS__.
 
 > ⚠️ In case the trade policy has restricted access, the XML will not be generated.
 
@@ -65,16 +65,16 @@ Once you have this, follow the steps below to configure your XML:
 
 Instead of integrating with a marketplace using an XML file, it is possible to do it with a native connector developed by VTEX. Whenever possible, a native connector should be your standard choice, as it provides more efficiency. The current native connectors available are the following:
 
-- [Amazon](https://help.vtex.com/en/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP)
-- [B2W](https://help.vtex.com/en/tracks/configurar-integracao-da-b2w--6w07SJBVqE020KIOOS8ygk)
-- [Mercado Livre](https://help.vtex.com/en/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq)
-- [Magazine Luiza](https://help.vtex.com/en/tracks/configurar-integracao-com-o-magazine-luiza--5Yx5IrNa7Y48c6aSC8wu2Y)
-- [Carrefour](https://help.vtex.com/en/tracks/configurar-integracao-com-o-carrefour--2wYlj07cNuA8k8mmwY86K2)
-- [Centauro](https://help.vtex.com/en/tracks/integracao-com-a-centauro--D8Qnjbr5lfLkUfMRhsfbj)
-- [Wish](https://help.vtex.com/en/tracks/integracao-com-a-wish--50hbG4bzhSIhjz1lzqI1g4)
-- [Facebook](https://help.vtex.com/en/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc)
-- [Google Shopping](https://help.vtex.com/en/tracks/configurar-integracao-com-o-google-shopping--25Sl7iOqq58PGfVfTAo8Xw)
-- [Google Shopping Ads](https://help.vtex.com/en/tracks/como-fazer-campanhas-atraves-do-google-ads--47kz5PRQPK0IEaqGqiIuA)
-- [Via Varejo](https://help.vtex.com/en/tracks/configurar-integracao-da-via-varejo--3E9XylGaJ2wqwISGyw4GuY)
-- [Dafiti](https://help.vtex.com/en/tracks/configurar-integracao-da-dafiti--4wF4RBx9ygEkimW6SsKw8i)
-- [Netshoes](https://help.vtex.com/en/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm)
+- [Amazon](/en/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP)
+- [B2W](/en/tracks/configurar-integracao-da-b2w--6w07SJBVqE020KIOOS8ygk)
+- [Mercado Livre](/en/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq)
+- [Magazine Luiza](/en/tracks/configurar-integracao-com-o-magazine-luiza--5Yx5IrNa7Y48c6aSC8wu2Y)
+- [Carrefour](/en/tracks/configurar-integracao-com-o-carrefour--2wYlj07cNuA8k8mmwY86K2)
+- [Centauro](/en/tracks/integracao-com-a-centauro--D8Qnjbr5lfLkUfMRhsfbj)
+- [Wish](/en/tracks/integracao-com-a-wish--50hbG4bzhSIhjz1lzqI1g4)
+- [Facebook](/en/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc)
+- [Google Shopping](/en/tracks/configurar-integracao-com-o-google-shopping--25Sl7iOqq58PGfVfTAo8Xw)
+- [Google Shopping Ads](/en/tracks/como-fazer-campanhas-atraves-do-google-ads--47kz5PRQPK0IEaqGqiIuA)
+- [Via Varejo](/en/tracks/configurar-integracao-da-via-varejo--3E9XylGaJ2wqwISGyw4GuY)
+- [Dafiti](/en/tracks/configurar-integracao-da-dafiti--4wF4RBx9ygEkimW6SsKw8i)
+- [Netshoes](/en/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm)

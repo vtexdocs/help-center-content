@@ -39,6 +39,6 @@ Le permite usar una tarjeta de crédito de la tienda con una de las siguientes b
 
 ![PT Pagamento Customizado](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/m%C3%B3dulos-vtex-primeros-pasos/pagos/configurar-pagos-personalizados_1.gif)
 
-Después de esta configuración, deberá crear la [Condición de pago](https://help.vtex.com/pt/tutorial/condicoes-de-pagamento/).  
+Después de esta configuración, deberá crear la [Condición de pago](/pt/tutorial/condicoes-de-pagamento/).  
 
 > _Recomendamos el **uso de la aprobación automática** apenas en los casos en que el pago se realice en el **momento de la entrega** o al **recoger en la tienda**. Esta opción autoriza el pago del pedido; es decir, el pedido pasa automáticamente al status de Preparando Entrega, sin la verificación del pago._

@@ -26,8 +26,8 @@ El dominio principal de la tienda debe contar con un subdominio, como `www` u ot
 
 Recomendamos leer las siguientes guías para entender cómo funcionan los dominios y la configuración de DNS en VTEX:
 
-* [Configurar dominio de la tienda](https://help.vtex.com/es/tutorial/configurar-dominio-de-la-tienda--tutorials_2450)
-* [Cómo funciona la configuración de DNS en VTEX](https://help.vtex.com/es/tutorial/como-funciona-la-configuracion-de-dns-en-vtex--2P5k3oMYOj7TgSK4Mrxmgy)
+* [Configurar dominio de la tienda](/es/tutorial/configurar-dominio-de-la-tienda--tutorials_2450)
+* [Cómo funciona la configuración de DNS en VTEX](/es/tutorial/como-funciona-la-configuracion-de-dns-en-vtex--2P5k3oMYOj7TgSK4Mrxmgy)
 
 ## Limitaciones en la configuración de DNS para dominios puros
 
@@ -54,7 +54,7 @@ Dadas las restricciones en la configuración de DNS para dominios puros, esta se
 
 ### Solución recomendada: redirección
 
-Al [configurar el dominio principal](https://help.vtex.com/es/tutorial/configurando-dominios-no-gerenciamento-da-conta--tutorials_2450) de la tienda, VTEX recomienda utilizar siempre `www` u otro subdominio, para integrar la necesidad de utilizar CNAME junto a otras configuraciones. En este escenario, se recomienda utilizar redirecciones para acceder a la dirección web sin `www` u otros subdominios. Para saber cómo configurar redirecciones, consulta [Redirección de otras direcciones](https://help.vtex.com/es/tutorial/redirecionamento-de-outros-enderecos--3Xi2AeLUx2QpJQu8DTX8KQ).
+Al [configurar el dominio principal](/es/tutorial/configurando-dominios-no-gerenciamento-da-conta--tutorials_2450) de la tienda, VTEX recomienda utilizar siempre `www` u otro subdominio, para integrar la necesidad de utilizar CNAME junto a otras configuraciones. En este escenario, se recomienda utilizar redirecciones para acceder a la dirección web sin `www` u otros subdominios. Para saber cómo configurar redirecciones, consulta [Redirección de otras direcciones](/es/tutorial/redirecionamento-de-outros-enderecos--3Xi2AeLUx2QpJQu8DTX8KQ).
 
 Si bien algunos proveedores de DNS soportan registros CNAME en el dominio puro ([CNAME Flattening](#solucion-alternativa-cname-flattening)), es posible que no todos ofrezcan esta opción, por lo que recomendamos el uso obligatorio de un subdominio para garantizar la coexistencia de todas las funcionalidades necesarias.
 
@@ -68,4 +68,4 @@ Algunos proveedores de DNS, como [Cloudflare](https://www.cloudflare.com/pt-br/)
 
 Por lo tanto, si deseas utilizar un dominio puro con una CDN en una configuración específica, la primera etapa es comprobar si tu proveedor de DNS soporta CNAME Flattening. En caso afirmativo, puedes configurar el dominio puro de esa manera.
 
-> ⚠️ Cuando se utiliza la solución DNS Flattening, se comportará de la misma forma que un [proxy inverso](https://help.vtex.com/es/tutorial/por-que-nao-recomendamos-inserir-um-proxy-reverso-em-frente-aos-servicos-da--4PFWsfRAKviNVPf1bYdiir). En este caso, se debe configurar una entrada de verificación TXT.
+> ⚠️ Cuando se utiliza la solución DNS Flattening, se comportará de la misma forma que un [proxy inverso](/es/tutorial/por-que-nao-recomendamos-inserir-um-proxy-reverso-em-frente-aos-servicos-da--4PFWsfRAKviNVPf1bYdiir). En este caso, se debe configurar una entrada de verificación TXT.

@@ -71,6 +71,6 @@ Você pode alterar informações de cada categoria clicando no botão <i class="
 
 ### Saiba mais
 
-* [Lista de produtos (Beta)](https://help.vtex.com/pt/tutorial/lista-de-produtos-beta--49vxWqoaWRZC4atwLz6cMg)
-* [Como criar um produto (Beta)](https://help.vtex.com/pt/tutorial/como-criar-um-produto-beta--671zAWe0B9eCikzDu7kB1G)
+* [Lista de produtos (Beta)](/pt/tutorial/lista-de-produtos-beta--49vxWqoaWRZC4atwLz6cMg)
+* [Como criar um produto (Beta)](/pt/tutorial/como-criar-um-produto-beta--671zAWe0B9eCikzDu7kB1G)
 

@@ -15,13 +15,13 @@ locale: pt
 subcategoryId: 5tSNDlvmik8gGuKw2goW4q
 ---
 
-Por meio do [Master Data](https://help.vtex.com/pt/tutorial/what-is-master-data--4otjBnR27u4WUIciQsmkAw) - o módulo da VTEX que permite a criação de arquiteturas de bancos de dados - é possível colher, armazenar e disponibilizar dados nos mais diversos formatos para os clientes e usuários administrativos de uma loja. Trata-se de um módulo da plataforma VTEX que pode ser configurado de duas maneiras:
+Por meio do [Master Data](/pt/tutorial/what-is-master-data--4otjBnR27u4WUIciQsmkAw) - o módulo da VTEX que permite a criação de arquiteturas de bancos de dados - é possível colher, armazenar e disponibilizar dados nos mais diversos formatos para os clientes e usuários administrativos de uma loja. Trata-se de um módulo da plataforma VTEX que pode ser configurado de duas maneiras:
 - Utilizando-se um Sistema de Gestão de Conteúdo (CMS) interno ao painel administrativo da loja.
 - Por meio do envio de requisições à [API do Master Data](https://developers.vtex.com/reference/master-data-api-v2-overview).
 
-Os dados armazenados são descritos por [Entidades de Dados](https://help.vtex.com/pt/tutorial/creating-data-entities--tutorials_1265), que são modelos representativos que permitem ao Master Data validar as informações recebidas e criar formulários. O sistema permite que se criem [conexões entre os dados](https://help.vtex.com/pt/tutorial/creating-relationships-between-data-entities--6TdIa6Q2IgWYUu2wsYIG48) de diferentes entidades, além de fornecer uma série de possibilidades de automação. 
+Os dados armazenados são descritos por [Entidades de Dados](/pt/tutorial/creating-data-entities--tutorials_1265), que são modelos representativos que permitem ao Master Data validar as informações recebidas e criar formulários. O sistema permite que se criem [conexões entre os dados](/pt/tutorial/creating-relationships-between-data-entities--6TdIa6Q2IgWYUu2wsYIG48) de diferentes entidades, além de fornecer uma série de possibilidades de automação. 
 
-Um exemplo são os [Triggers](https://help.vtex.com/pt/tutorial/criando-trigger-no-master-data--tutorials_1270) que podem ser acionados por mudanças em dados armazenados e podem gerar efeitos como envio de e-mails e outras alterações nesses dados. Entenda mais sobre todas as diferentes configurações possíveis desse módulo na [documentação oficial do Master Data](https://help.vtex.com/pt/subcategory/configuracoes-de-master-data--5tSNDlvmik8gGuKw2goW4q).
+Um exemplo são os [Triggers](/pt/tutorial/criando-trigger-no-master-data--tutorials_1270) que podem ser acionados por mudanças em dados armazenados e podem gerar efeitos como envio de e-mails e outras alterações nesses dados. Entenda mais sobre todas as diferentes configurações possíveis desse módulo na [documentação oficial do Master Data](/pt/subcategory/configuracoes-de-master-data--5tSNDlvmik8gGuKw2goW4q).
 
 ## Modelando estruturas de vendas e metas
 
@@ -51,7 +51,7 @@ Alguns campos importantes em tabelas com esse objetivo são:
 
 ### Clientes
 
-Toda loja tem uma Entidades de Dados que configura a tabela de clientes. É possível adicionar campos a essa entidade seguindo os passos do artigo [Criar um campo no Master Data](https://help.vtex.com/pt/tutorial/how-can-i-create-field-in-master-data--frequentlyAskedQuestions_1829). Dessa forma, quando um cliente visita uma loja, o front-end tem acesso a informações relevantes quanto à sua posição na estrutura de vendas e pode apresentar uma experiência personalizada. Além disso, é possível limitar o acesso à loja apenas para clientes aprovados, como explicado no artigo [Configurar B2B na VTEX](https://help.vtex.com/pt/tutorial/configurando-b2b-na-vtex).
+Toda loja tem uma Entidades de Dados que configura a tabela de clientes. É possível adicionar campos a essa entidade seguindo os passos do artigo [Criar um campo no Master Data](/pt/tutorial/how-can-i-create-field-in-master-data--frequentlyAskedQuestions_1829). Dessa forma, quando um cliente visita uma loja, o front-end tem acesso a informações relevantes quanto à sua posição na estrutura de vendas e pode apresentar uma experiência personalizada. Além disso, é possível limitar o acesso à loja apenas para clientes aprovados, como explicado no artigo [Configurar B2B na VTEX](/pt/tutorial/configurando-b2b-na-vtex).
 
 Alguns campos importantes que podem ser adicionados à tabela de Clientes são:
 - ID do representante/RCA
@@ -86,32 +86,32 @@ Além de apresentar uma poderosa ferramenta de modelagem de estruturas de dados,
 
 ### Formulários
 
-O CMS do Master Data permite que se configurem formulários para o preenchimento das tabelas modeladas. É útil para informações que serão inseridas e editadas por usuários administrativos, já que é possível limitar o uso utilizando [perfis de acesso](https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc). 
+O CMS do Master Data permite que se configurem formulários para o preenchimento das tabelas modeladas. É útil para informações que serão inseridas e editadas por usuários administrativos, já que é possível limitar o uso utilizando [perfis de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc). 
 
-Você pode aprender a configurar estes formulários acessando o artigo [Criar formulário no Master Data](https://help.vtex.com/pt/tutorial/creating-form-in-master-data--tutorials_1047). Também é possível criar uma Aplicação, que é um agrupador de formulários, seguindo os passos do artigo [Criar aplicação no Master Data](https://help.vtex.com/pt/tutorial/creating-an-application-in-master-data--tutorials_1115).
+Você pode aprender a configurar estes formulários acessando o artigo [Criar formulário no Master Data](/pt/tutorial/creating-form-in-master-data--tutorials_1047). Também é possível criar uma Aplicação, que é um agrupador de formulários, seguindo os passos do artigo [Criar aplicação no Master Data](/pt/tutorial/creating-an-application-in-master-data--tutorials_1115).
 
 ### Front-end ou API
 
-Formulários também podem ser apresentados via front-end para o preenchimento dos clientes, como descrito no artigo [Criar formulário de Fale Conosco usando o Master Data](https://help.vtex.com/pt/tutorial/criar-formulario-de-fale-conosco-usando-master-data--frequentlyAskedQuestions_614). Outra forma de acessar os dados no front-end ou em integrações diversas é por meio da [API do Master Data](https://developers.vtex.com/reference/master-data-api-v1-overview). 
+Formulários também podem ser apresentados via front-end para o preenchimento dos clientes, como descrito no artigo [Criar formulário de Fale Conosco usando o Master Data](/pt/tutorial/criar-formulario-de-fale-conosco-usando-master-data--frequentlyAskedQuestions_614). Outra forma de acessar os dados no front-end ou em integrações diversas é por meio da [API do Master Data](https://developers.vtex.com/reference/master-data-api-v1-overview). 
 
 ### Triggers
 
-Eventos em uma entidade de dados do Master Data podem disparar alterações nos dados. Entenda melhor acessando o artigo [Criar trigger no Master Data v1](https://help.vtex.com/pt/tutorial/criando-trigger-no-master-data--tutorials_1270).
+Eventos em uma entidade de dados do Master Data podem disparar alterações nos dados. Entenda melhor acessando o artigo [Criar trigger no Master Data v1](/pt/tutorial/criando-trigger-no-master-data--tutorials_1270).
 
 ### Envio em massa
 
-Também é possível preencher tabelas de forma massiva enviando planilhas, como explicado no artigo [Importar dados no Master Data](https://help.vtex.com/pt/tutorial/importing-data-into-master-data--tutorials_1135).
+Também é possível preencher tabelas de forma massiva enviando planilhas, como explicado no artigo [Importar dados no Master Data](/pt/tutorial/importing-data-into-master-data--tutorials_1135).
 
 ## Saiba mais
 
-- [O que é o Master Data](https://help.vtex.com/pt/tutorial/what-is-master-data--4otjBnR27u4WUIciQsmkAw)
+- [O que é o Master Data](/pt/tutorial/what-is-master-data--4otjBnR27u4WUIciQsmkAw)
 - [API do Master Data](https://developers.vtex.com/reference/master-data-api-v2-overview)
-- [Criar entidades de dados](https://help.vtex.com/pt/tutorial/creating-data-entities--tutorials_1265)
-- [Criar relacionamentos entre entidades de dados](https://help.vtex.com/pt/tutorial/creating-relationships-between-data-entities--6TdIa6Q2IgWYUu2wsYIG48)
-- [Como criar um trigger no Master Data](https://help.vtex.com/pt/tutorial/criando-trigger-no-master-data--tutorials_1270)
-- [Criar um campo no Master Data](https://help.vtex.com/pt/tutorial/how-can-i-create-field-in-master-data--frequentlyAskedQuestions_1829)
-- [Configurar B2B na VTEX](https://help.vtex.com/pt/tutorial/configurando-b2b-na-vtex)
-- [Criar formulário no Master Data](https://help.vtex.com/pt/tutorial/creating-form-in-master-data--tutorials_1047)
-- [Criar aplicação no Master Data](https://help.vtex.com/pt/tutorial/creating-an-application-in-master-data--tutorials_1115)
-- [Criar formulário de Fale Conosco usando Master Data](https://help.vtex.com/pt/tutorial/criar-formulario-de-fale-conosco-usando-master-data--frequentlyAskedQuestions_614)
-- [Importar dados no Master Data](https://help.vtex.com/pt/tutorial/importing-data-into-master-data--tutorials_1135)
+- [Criar entidades de dados](/pt/tutorial/creating-data-entities--tutorials_1265)
+- [Criar relacionamentos entre entidades de dados](/pt/tutorial/creating-relationships-between-data-entities--6TdIa6Q2IgWYUu2wsYIG48)
+- [Como criar um trigger no Master Data](/pt/tutorial/criando-trigger-no-master-data--tutorials_1270)
+- [Criar um campo no Master Data](/pt/tutorial/how-can-i-create-field-in-master-data--frequentlyAskedQuestions_1829)
+- [Configurar B2B na VTEX](/pt/tutorial/configurando-b2b-na-vtex)
+- [Criar formulário no Master Data](/pt/tutorial/creating-form-in-master-data--tutorials_1047)
+- [Criar aplicação no Master Data](/pt/tutorial/creating-an-application-in-master-data--tutorials_1115)
+- [Criar formulário de Fale Conosco usando Master Data](/pt/tutorial/criar-formulario-de-fale-conosco-usando-master-data--frequentlyAskedQuestions_614)
+- [Importar dados no Master Data](/pt/tutorial/importing-data-into-master-data--tutorials_1135)

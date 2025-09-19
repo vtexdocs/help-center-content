@@ -36,13 +36,13 @@ La invitación se realiza mediante un enlace enviado al seller por email que con
 1. En _Marketplace_, acceda a la página de **Invitación de Sellers**.  
 3. Haga clic en `Invitar seller`.  
 4. Rellene los **Datos generales** del seller:  
-    - **Nombre del seller:** nombre del representante comercial del seller, que orquestará la conexión junto con él. Esta persona debe [tener un perfil de acceso al OMS](https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#oms-full-access).
+    - **Nombre del seller:** nombre del representante comercial del seller, que orquestará la conexión junto con él. Esta persona debe [tener un perfil de acceso al OMS](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#oms-full-access).
     - **Email:** email del representante comercial del seller, que recibirá la invitación para crear una cuenta o conectar una cuenta existente.  
 5. Seleccione el tipo de seller entre las opciones `Común` y `Whitelabel`.    
 6. Si desea que el seller importe sus productos y árbol de categorías, active el botón **Compartir catálogo del marketplace**.     
 7.  Si ha activado el botón en el paso anterior, determine cómo compartirá su catálogo con el seller:
-    - **Canal de ventas:** definiendo una [política comercial](https://help.vtex.com/es/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) asociada a los productos y árbol de categorías que quieras compartir con el seller.
-    - **Colección:** definiendo una [colección](https://help.vtex.com/es/tutorial/tipos-de-colecao--5tKnhh8tMGIrVL7Fqirq7n) con los productos y el árbol de categorías para compartir con el seller. 
+    - **Canal de ventas:** definiendo una [política comercial](/es/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) asociada a los productos y árbol de categorías que quieras compartir con el seller.
+    - **Colección:** definiendo una [colección](/es/tutorial/tipos-de-colecao--5tKnhh8tMGIrVL7Fqirq7n) con los productos y el árbol de categorías para compartir con el seller. 
 8. Haga clic en `Enviar invitación`.   
 
 El seller recibirá por email una invitación para vender en su marketplace. 

@@ -39,7 +39,7 @@ To remove the error message and allow the page or feature to be accessed again, 
 
 On the page where the message "__Request headers must contain only ASCII characters__" is displayed, follow the steps below to identify which cookie contains special characters:
 
-1. Access [DevTools](https://help.vtex.com/pt/tutorial/products-and-skus-beta--2ig7TmROlirWirZjFWZ3By) in your browser by pressing **F12** or by right-clicking and choosing the **Inspect** option.
+1. Access [DevTools](/pt/tutorial/products-and-skus-beta--2ig7TmROlirWirZjFWZ3By) in your browser by pressing **F12** or by right-clicking and choosing the **Inspect** option.
 
   2. In the top bar of the screen, go to the **Network** tab and sort the requests by clicking **Status**. The **400** information in the status indicates that a request has not been processed correctly, and there may be incorrect cookies among the possible errors. 
 
@@ -63,7 +63,7 @@ On the page where the message "__Request headers must contain only ASCII charact
 
 Once cookies containing special characters have been identified, their origin must be verified so that they can be removed from the page. The most common sources of incorrect cookies are:
 
-- [UTMs](https://help.vtex.com/pt/tutorial/o-que-sao-as-utms-internas-utmi-cp-utmi-pc-e-utmi-p--5Pvo8ufYWs00AUeCCEY68a) created in your store or in advertising campaigns on Google, Meta, or others with special characters. Example of UTM used on a holiday date in Spanish: `www.site.com?utm_source=mothers-day`.
+- [UTMs](/pt/tutorial/o-que-sao-as-utms-internas-utmi-cp-utmi-pc-e-utmi-p--5Pvo8ufYWs00AUeCCEY68a) created in your store or in advertising campaigns on Google, Meta, or others with special characters. Example of UTM used on a holiday date in Spanish: `www.site.com?utm_source=mothers-day`.
 - Custom Javascript, where frontend implementations are used to store data or other types of functions, may contain special characters.
 - Scripts from partner clients that create cookies with special characters.
 

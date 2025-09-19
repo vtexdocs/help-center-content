@@ -40,7 +40,7 @@ El primer paso de configuración será la creación del pago personalizado  __ta
 ## Configurar condición de pago
 Después de configurar la tarjeta, deberá configurar la condición de pago.
 
-> ⚠️ Si el conector para ser elegido (en el **Paso 8.**)no está registrado en su tienda, se mostrará el mensage "(Configurar)" después del nombre del conector. En esta situación, elija otro conector disponible o regístrelo. Para obtener más información, acceda [Registrar afiliaciones de gateway](https://help.vtex.com/es/tutorial/afiliacoes-de-gateway--tutorials_444?&utm_source=autocomplete#).
+> ⚠️ Si el conector para ser elegido (en el **Paso 8.**)no está registrado en su tienda, se mostrará el mensage "(Configurar)" después del nombre del conector. En esta situación, elija otro conector disponible o regístrelo. Para obtener más información, acceda [Registrar afiliaciones de gateway](/es/tutorial/afiliacoes-de-gateway--tutorials_444?&utm_source=autocomplete#).
 
 1. En el Admin VTEX, accede a **Configuración de la tienda** > **Pago** > **Configuración**, o escribe **Configuración** en la barra de búsqueda en la parte superior de la página.
 2. En la pestaña __Condiciones de pago__, haga clic en el botón __“+”__.

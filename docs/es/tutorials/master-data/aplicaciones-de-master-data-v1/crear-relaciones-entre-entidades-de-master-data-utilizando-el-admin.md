@@ -23,7 +23,7 @@ Por ejemplo, tu tienda tiene una entidad **Cliente** y otra **Lista de compras**
 
 ## Crear relación entre entidades de datos
 
-Para crear una relación se necesitan dos entidades de datos. Si solo hubiera una, puedes crear otra siguiendo las instrucciones a continuación. Para más información sobre entidades de datos, consulta la guía [Entidad de datos](https://help.vtex.com/es/tutorial/entidad-de-datos--tutorials_1265).
+Para crear una relación se necesitan dos entidades de datos. Si solo hubiera una, puedes crear otra siguiendo las instrucciones a continuación. Para más información sobre entidades de datos, consulta la guía [Entidad de datos](/es/tutorial/entidad-de-datos--tutorials_1265).
 
 Retomando el ejemplo mencionado en la introducción: se debe crear una entidad llamada **Lista de compras** para relacionarla con **Cliente**. Esta relación permitiría a un cliente tener varias listas de la compra; sin embargo, una lista de compras solo puede pertenecer a un único cliente.
 
@@ -37,11 +37,11 @@ Ilustramos a continuación los pasos a seguir con este mismo ejemplo:
 
    Si deseas crear una relación en una entidad existente, selecciónala haciendo clic en el botón de editar <i class="fas fa-edit"></i> y procede al paso 7.  
 
-6. Configura la nueva entidad rellenando los campos **Acrónimo** y **Nombre** y añadiendo los campos deseados. Aprende más sobre campos en la guía [Crear un campo en Master Data](https://help.vtex.com/es/tutorial/como-crear-un-campo-en-master-data--frequentlyAskedQuestions_1829).
+6. Configura la nueva entidad rellenando los campos **Acrónimo** y **Nombre** y añadiendo los campos deseados. Aprende más sobre campos en la guía [Crear un campo en Master Data](/es/tutorial/como-crear-un-campo-en-master-data--frequentlyAskedQuestions_1829).
 
    En este ejemplo, la entidad utilizará el nombre `Lista de compras`, el acrónimo `LC` e, inicialmente, el campo `compras` de tipo `Varchar 750`.
 
-   Para más información sobre cómo rellenar los campos, consulta la guía [Entidad de datos](https://help.vtex.com/es/tutorial/entidad-de-datos--tutorials_1265). 
+   Para más información sobre cómo rellenar los campos, consulta la guía [Entidad de datos](/es/tutorial/entidad-de-datos--tutorials_1265). 
 7. Agrega un campo de tipo **Relationship** y define su nombre. En este ejemplo, se llamará `Cliente`.
 8. Haz clic en el ícono de engranaje <i class="fas fa-cog"></i> situado al lado del campo **Relationship** para configurarlo.
 9. En **Configuración de campo personalizado**, selecciona la entidad a la que deseas hacer referencia y el campo que se mostrará en la relación. En este ejemplo, la relación se realizará con la entidad **Cliente** y se mostrará el campo **email**.
@@ -54,7 +54,7 @@ Ilustramos a continuación los pasos a seguir con este mismo ejemplo:
 
 ## Crear relación entre documentos
 
-Las relaciones también pueden aplicarse a documentos, siempre que exista una [relación entre entidades de datos](#crear-relacion-entre-entidades-de-datos). Para proceder, es necesario modificar el [formulario](https://help.vtex.com/es/tutorial/creando-formulario-en-master-data--tutorials_1047) de una entidad de datos, como se ilustra a continuación:
+Las relaciones también pueden aplicarse a documentos, siempre que exista una [relación entre entidades de datos](#crear-relacion-entre-entidades-de-datos). Para proceder, es necesario modificar el [formulario](/es/tutorial/creando-formulario-en-master-data--tutorials_1047) de una entidad de datos, como se ilustra a continuación:
 
 1. En el Admin VTEX, accede a **Configuración de la tienda** > **Storefront** > **Master Data**.
 2. Haz clic en el ícono de engranaje <i class="fas fa-cog"></i> junto al nombre de la aplicación.
@@ -89,7 +89,7 @@ Para hacerlo, es necesario agregar al formulario de la entidad el valor `{acroni
 
 ## Agregar filtros a los campos de relación
 
-Las relaciones se mantienen a través de los ID de los documentos. Así, cuando intentemos ingresar el valor del campo de relación como filtro en el formulario, solamente obtendremos los valores de los ID de los documentos referidos, y no los valores del campo seleccionado para cada documento. La imágen siguiente ilustra este resultado. Aprende más en el artículo [Filtrar datos en Master Data](https://help.vtex.com/es/tutorial/filtrar-datos-en-el-master-data--tutorials_778).
+Las relaciones se mantienen a través de los ID de los documentos. Así, cuando intentemos ingresar el valor del campo de relación como filtro en el formulario, solamente obtendremos los valores de los ID de los documentos referidos, y no los valores del campo seleccionado para cada documento. La imágen siguiente ilustra este resultado. Aprende más en el artículo [Filtrar datos en Master Data](/es/tutorial/filtrar-datos-en-el-master-data--tutorials_778).
 
 ![Filtro relacionamento ID](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/master-data/aplicaciones-de-master-data-v1/crear-relaciones-entre-entidades-de-master-data-utilizando-el-admin_2.png)
 

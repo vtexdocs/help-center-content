@@ -15,18 +15,18 @@ locale: es
 subcategoryId: 1rA9wuuskW3PpjvMrhatAM
 ---
 
-> ℹ️ Si utilizas el módulo **Suscripciones** en el Admin VTEX, recomendamos crear un plan de suscripción en este mismo módulo. Para más información, consulta el artículo [Cómo crear un plan de suscripción](https://help.vtex.com/es/tutorial/como-criar-um-plano-de-assinatura-beta--1qGRoFczm98Wgt81f9mUqC).
+> ℹ️ Si utilizas el módulo **Suscripciones** en el Admin VTEX, recomendamos crear un plan de suscripción en este mismo módulo. Para más información, consulta el artículo [Cómo crear un plan de suscripción](/es/tutorial/como-criar-um-plano-de-assinatura-beta--1qGRoFczm98Wgt81f9mUqC).
 
-[Suscripciones](https://help.vtex.com/es/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453) es una solución VTEX que permite a los retailers vender de forma recurrente y automática a clientes suscriptores, según la frecuencia establecida.
+[Suscripciones](/es/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453) es una solución VTEX que permite a los retailers vender de forma recurrente y automática a clientes suscriptores, según la frecuencia establecida.
 
 Hay dos formas de adquirir productos de tu tienda mediante suscripción:
 
-* Creación de [planes de suscripción](https://help.vtex.com/es/tutorial/como-criar-um-plano-de-assinatura-beta--1qGRoFczm98Wgt81f9mUqC) en el módulo **Suscripciones**.
+* Creación de [planes de suscripción](/es/tutorial/como-criar-um-plano-de-assinatura-beta--1qGRoFczm98Wgt81f9mUqC) en el módulo **Suscripciones**.
 * Creación de anexos de suscripción en el módulo **Catálogo**.
 
 Este artículo explica cómo crear anexos de suscripción a través del módulo **Catálogo**, lo recomendado cuando tu tienda no utiliza el módulo **Suscripciones (Beta).**
 
-> ⚠️ Es importante entender el uso del término anexo en el contexto de las suscripciones:<ul><li>[Anexo:](https://help.vtex.com/es/tutorial/o-que-e-um-anexo--aGICk0RVbqKg6GYmQcWUm) es una personalización opcional y gratuita del SKU que permite al retailer agregar información extra a un ítem.</li><li>**Anexo de suscripción:** es un tipo específico de anexo que permite crear suscripciones para un SKU. Los clientes pueden crear suscripciones para comprar el SKU periódicamente cuando se haya asociado a un anexo de suscripción. </li><li>**Suscripción de SKU con anexo:** cuando un cliente crea una suscripción a partir de un pedido que contiene un SKU con anexo, el retailer debe realizar una configuración en la tienda para que el anexo del pedido original se mantenga en los pedidos futuros de la suscripción. Esto se hace a través de la API utilizando el endpoint [Edit subscriptions settings](https://developers.vtex.com/docs/api-reference/subscriptions-api-v3#post-/api/rns/settings). Aprende más en [How to keep attachments from original orders in subscriptions](https://developers.vtex.com/docs/guides/how-to-keep-attachments-from-original-orders-in-subscriptions).</li></ul>
+> ⚠️ Es importante entender el uso del término anexo en el contexto de las suscripciones:<ul><li>[Anexo:](/es/tutorial/o-que-e-um-anexo--aGICk0RVbqKg6GYmQcWUm) es una personalización opcional y gratuita del SKU que permite al retailer agregar información extra a un ítem.</li><li>**Anexo de suscripción:** es un tipo específico de anexo que permite crear suscripciones para un SKU. Los clientes pueden crear suscripciones para comprar el SKU periódicamente cuando se haya asociado a un anexo de suscripción. </li><li>**Suscripción de SKU con anexo:** cuando un cliente crea una suscripción a partir de un pedido que contiene un SKU con anexo, el retailer debe realizar una configuración en la tienda para que el anexo del pedido original se mantenga en los pedidos futuros de la suscripción. Esto se hace a través de la API utilizando el endpoint [Edit subscriptions settings](https://developers.vtex.com/docs/api-reference/subscriptions-api-v3#post-/api/rns/settings). Aprende más en [How to keep attachments from original orders in subscriptions](https://developers.vtex.com/docs/guides/how-to-keep-attachments-from-original-orders-in-subscriptions).</li></ul>
 
 ## Anexo de suscripción en el módulo Catálogo
 
@@ -104,7 +104,7 @@ Ahora los clientes podrán crear suscripciones en tu tienda para comprar de form
 
 ## Más información
 
-* [Cómo funciona Suscripciones](https://help.vtex.com/es/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453)
-* [Cómo configurar Suscripciones en tu tienda](https://help.vtex.com/es/tutorial/como-configurar-assinaturas--1FA9dfE7vJqxBna9Nft5Sj)
+* [Cómo funciona Suscripciones](/es/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453)
+* [Cómo configurar Suscripciones en tu tienda](/es/tutorial/como-configurar-assinaturas--1FA9dfE7vJqxBna9Nft5Sj)
 * [How to keep attachments from original orders in subscriptions](https://developers.vtex.com/docs/guides/how-to-keep-attachments-from-original-orders-in-subscriptions)
 

@@ -47,6 +47,6 @@ To check if the anti-fraud solutions configured in your store allow changing the
 
 > ⚠️ If the **Cardholder document field** option is not available on the configuration screen of your anti-fraud solution provider, the **Cardholder document** field will still be displayed at Checkout in your store, and the customer will be required to fill it out.
 
-For more information about how to configure the visibility of this field on your store’s Checkout, see [Cardholder Document Configuration (Help Center)](https://help.vtex.com/en/tutorial/antifraud-provider--4aZtmdpgFikcsQomWyqAOq#cardholder-document-configuration).
+For more information about how to configure the visibility of this field on your store’s Checkout, see [Cardholder Document Configuration (Help Center)](/en/tutorial/antifraud-provider--4aZtmdpgFikcsQomWyqAOq#cardholder-document-configuration).
 
 For more information about the configuration set up internally by the anti-fraud solution, see [Cardholder Document Configuration (Developer Portal)](https://developers.vtex.com/vtex-rest-api/docs/cardholder-document-configuration).

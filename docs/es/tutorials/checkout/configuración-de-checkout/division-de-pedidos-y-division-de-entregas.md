@@ -38,7 +38,7 @@ Cuando se necesita más de un _seller_ para atender el pedido.
 
 * **División entre _Sellers White Label:_** el cliente realiza las compras, pero la plataforma elige quién entrega el pedido. La elección del _seller_ que entregará los ítems se basará en criterios de prioridad. En este caso, el cliente no elige a propósito ítems de diferentes _sellers_, ni tiene información sobre qué _sellers_ le entregarán el pedido. 
 
-    Cuando esto ocurre, al final de la compra el administrador de la tienda ve el pedido dividido — _división del pedido y de la entrega._ La elección de los _sellers_ se hace automáticamente. Si quieres saber cómo se hace, consulta el artículo [Algoritmo de selección de Sellers White Label](https://help.vtex.com/pt/tutorial/algoritmo-de-selecao-de-white-label-sellers--3MemNQ4pKkWCpMdzI27AHa).
+    Cuando esto ocurre, al final de la compra el administrador de la tienda ve el pedido dividido — _división del pedido y de la entrega._ La elección de los _sellers_ se hace automáticamente. Si quieres saber cómo se hace, consulta el artículo [Algoritmo de selección de Sellers White Label](/pt/tutorial/algoritmo-de-selecao-de-white-label-sellers--3MemNQ4pKkWCpMdzI27AHa).
 
 ## División de paquetes (entregas)
 

@@ -15,9 +15,9 @@ locale: es
 subcategoryId: jrgbOxKaOW0kdZs7rdgvS
 ---
 
-> ℹ️  Esta funcionalidad es parte del producto [VTEX Shield](https://help.vtex.com/es/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh). Si ya eres cliente de VTEX y deseas adoptar VTEX Shield en tu empresa, ponte en contacto con nuestro [Soporte Comercial](https://help.vtex.com/support?/cultureInfo=es-mx). Pueden aplicarse cargos adicionales. Si aún no eres cliente VTEX, pero te interesa esta solución, llena el [formulario de contacto](https://vtex.com/br-pt/contato/). 
+> ℹ️  Esta funcionalidad es parte del producto [VTEX Shield](/es/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh). Si ya eres cliente de VTEX y deseas adoptar VTEX Shield en tu empresa, ponte en contacto con nuestro [Soporte Comercial](/support?/cultureInfo=es-mx). Pueden aplicarse cargos adicionales. Si aún no eres cliente VTEX, pero te interesa esta solución, llena el [formulario de contacto](https://vtex.com/br-pt/contato/). 
 
-En las integraciones entre sistemas, especialmente cuando se intercambia información sensible o se gestionan operaciones críticas del negocio, es fundamental garantizar la confiabilidad de ambos extremos de la comunicación. mTLS es una funcionalidad de [VTEX Shield](https://help.vtex.com/es/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh) que agrega un nivel avanzado de seguridad a las integraciones entre sistemas externos y VTEX.
+En las integraciones entre sistemas, especialmente cuando se intercambia información sensible o se gestionan operaciones críticas del negocio, es fundamental garantizar la confiabilidad de ambos extremos de la comunicación. mTLS es una funcionalidad de [VTEX Shield](/es/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh) que agrega un nivel avanzado de seguridad a las integraciones entre sistemas externos y VTEX.
 
 ## Conceptos clave
 
@@ -95,7 +95,7 @@ Para utilizar mTLS, la tienda debe cumplir con al menos uno de los siguientes re
 
 * Operar en un modelo headless, donde todas las interacciones con VTEX se realicen mediante integraciones basadas en API.
 
-  > ⚠️  El uso de mTLS no se aplica a implementaciones con storefront nativo, como [Store Framework](https://help.vtex.com/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2) y [Portal CMS Legado](https://help.vtex.com/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj). 
+  > ⚠️  El uso de mTLS no se aplica a implementaciones con storefront nativo, como [Store Framework](/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2) y [Portal CMS Legado](/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj). 
 
 * Tener una o más integraciones vía API con servicios externos (ERP, WMS, sellers externos, etc.).
 
@@ -122,7 +122,7 @@ mTLS puede implementarse en todos los sistemas o solo en integraciones específi
 
 ## Más información
 
-* [VTEX Shield](https://help.vtex.com/es/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh)
+* [VTEX Shield](/es/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh)
 * [mTLS API](https://developers.vtex.com/docs/api-reference/mtls-api#overview)
 * [Implementing Mutual Transport Layer Security (mTLS)](https://developers.vtex.com/docs/guides/implementing-mtls)
 * [Revoking SSL private certificates when using Mutual Transport Layer Security (mTLS)](https://developers.vtex.com/docs/guides/revoking-ssl-private-certificates-when-using-mtls)

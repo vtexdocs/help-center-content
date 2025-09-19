@@ -15,10 +15,10 @@ announcementImageID: 'undefined'
 announcementSynopsisPT: 'A funcionalidade do VTEX Sales App destaca promoções nos resultados de busca da Página de Listagem de Produtos.'
 ---
 
-Estamos disponibilizando uma nova funcionalidade para o [VTEX Sales App](https://help.vtex.com/pt/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr/6cq4E1JCmA6vCvBCCtAgIM): as promoções na página de busca, que permitem que lojistas destaquem ofertas especiais diretamente nos resultados de busca da Página de Listagem de Produtos (PLP).
+Estamos disponibilizando uma nova funcionalidade para o [VTEX Sales App](/pt/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr/6cq4E1JCmA6vCvBCCtAgIM): as promoções na página de busca, que permitem que lojistas destaquem ofertas especiais diretamente nos resultados de busca da Página de Listagem de Produtos (PLP).
 
 ## Por que fizemos essa mudança?
 Desenvolvemos essa funcionalidade para que os lojistas possam destacar ofertas especiais diretamente nos resultados de busca da Página de Listagem de Produtos (PLP). Nosso objetivo é promover maior interação entre a sua loja com os clientes e aumentar a visibilidade dos produtos que possuem múltiplas promoções.
 
 ## O que precisa ser feito?
-Nenhuma ação é necessária, a funcionalidade será aplicada automaticamente em todas as lojas que utilizam o VTEX Sales App. Para mais informações, acesse Promoção na página de busca do [Sales App](https://help.vtex.com/tutorial/promocao-na-pagina-de-busca-do-sales-app--2g9JmTLKYASz8jxme2pyc9)
+Nenhuma ação é necessária, a funcionalidade será aplicada automaticamente em todas as lojas que utilizam o VTEX Sales App. Para mais informações, acesse Promoção na página de busca do [Sales App](/tutorial/promocao-na-pagina-de-busca-do-sales-app--2g9JmTLKYASz8jxme2pyc9)

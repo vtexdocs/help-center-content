@@ -20,7 +20,7 @@ Subscription promotions are a practical and intuitive way to attract customers a
 This feature allows you to create subscription promotions with frequency intervals that can be days, weeks, months, or years.
 
 ## What has changed?
-Before, when [creating a subscription promotion](https://help.vtex.com/en/tutorial/creating-a-subscription-promotion--3ROT13HYNeUIv0plDqgNed), clients could choose between **weekly**, **monthly**, or **annual** frequency options.
+Before, when [creating a subscription promotion](/en/tutorial/creating-a-subscription-promotion--3ROT13HYNeUIv0plDqgNed), clients could choose between **weekly**, **monthly**, or **annual** frequency options.
 With the new feature, you can choose between **days**, **weeks**, **months**, or **years** and set a numeric value for the interval.
 
 ## Why did we make this change?

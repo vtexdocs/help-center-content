@@ -58,7 +58,7 @@ Define si la promoción se aplicará a todos tus sellers o solo a sellers espec�
 - **Diferentes de:** selecciona esta opción para eliminar sellers específicos de la promoción. Después de escoger "Diferentes de", tendrás la opción de seleccionar los sellers que no deseas incluir en la campaña. Se incluirán todos los demás sellers.
 
 ### Seleccionar políticas comerciales para aplicar el descuento
-Selecciona las políticas comerciales en las que se aplicará el descuento. Puedes ofrecer descuentos para políticas comerciales en las que [tu tienda opera como marketplace](https://help.vtex.com/es/faq/o-que-e-um-marketplace) (mi tienda) o como seller (tiendas de terceros - fulfillment).
+Selecciona las políticas comerciales en las que se aplicará el descuento. Puedes ofrecer descuentos para políticas comerciales en las que [tu tienda opera como marketplace](/es/faq/o-que-e-um-marketplace) (mi tienda) o como seller (tiendas de terceros - fulfillment).
 
 Puedes elegir entre las siguientes opciones:
 
@@ -75,7 +75,7 @@ En esta sección se establecen las reglas de la promoción indicando cuántos pr
 
 - **SKUs:** agrega los SKUs específicos que formarán parte de la promoción, introduciendo los identificadores de producto directamente en el campo. El límite para crear una promoción de compra más, paga menos condicionada por SKUs es de 100 SKUs.
 
-- **Colecciones:** seleccione una [colección](https://help.vtex.com/es/tutorial/criando-colecao-de-produtos--tutorials_244) de productos. Esta opción simplifica la gestión de promociones para grupos de ítems con características similares.
+- **Colecciones:** seleccione una [colección](/es/tutorial/criando-colecao-de-produtos--tutorials_244) de productos. Esta opción simplifica la gestión de promociones para grupos de ítems con características similares.
 
 - **El cliente se lleva [Y] de los [X] productos con descuento:** define cuántos productos con descuento puede llevarse el cliente cuando alcanza la cantidad mínima configurada. Ingresa el número en el campo correspondiente. Por ejemplo, en una promoción "Compra 3 por el precio de 2", configura la regla para que el cliente se lleve 2 productos con descuento.
 
@@ -118,14 +118,14 @@ Para agregar una condición a la promoción sigue las instrucciones a continuaci
   - **Todos los siguientes:** la promoción se aplicará solo si se cumplen todos los criterios del clúster.
   - **Al menos uno de los siguientes:** la promoción se aplicará si se cumple al menos uno de los criterios del clúster.
 
-- **Parámetro UTM:** permite configurar la promoción para que se aplique cuando se acceda al sitio web mediante una URL con [parámetros UTM](https://help.vtex.com/es/tutorial/o-que-sao-as-utms-internas-utmi-cp-utmi-pc-e-utmi-p--5Pvo8ufYWs00AUeCCEY68a) o cuando se utilice un cupón asociado a esos parámetros. Define los parámetros UTM siguiendo las reglas de formato, utilizando solo letras, números, guiones y guiones bajos. Define los siguientes parámetros si es necesario:
+- **Parámetro UTM:** permite configurar la promoción para que se aplique cuando se acceda al sitio web mediante una URL con [parámetros UTM](/es/tutorial/o-que-sao-as-utms-internas-utmi-cp-utmi-pc-e-utmi-p--5Pvo8ufYWs00AUeCCEY68a) o cuando se utilice un cupón asociado a esos parámetros. Define los parámetros UTM siguiendo las reglas de formato, utilizando solo letras, números, guiones y guiones bajos. Define los siguientes parámetros si es necesario:
   - **Fuente UTM:** el descuento se aplica al navegar utilizando el parámetro utm_source configurado.
   - **Campaña UTM:** el descuento se aplica al navegar utilizando el parámetro utm_campaign configurado.
   - **Crear cupón a partir de los parámetros UTM anteriores:** permite generar un cupón con los parámetros UTM ingresados en los campos `Fuente UTM` y `Campaña UTM`.
   - **Ver cupones vinculados:** permite ver los cupones que ya se vincularon a los parámetros UTM definidos.
 
 - **Precio de lista:** permite restringir la promoción en función de la presencia o ausencia de un precio de lista en los productos seleccionados. Selecciona una de las siguientes opciones:
-  - **No tiene un precio de lista definido:** aplica la promoción solamente a ítems en los que los valores "de" y "por" son iguales, lo que indica que no hay un [precio de lista](https://help.vtex.com/es/tutorial/precos-v2) establecido.
+  - **No tiene un precio de lista definido:** aplica la promoción solamente a ítems en los que los valores "de" y "por" son iguales, lo que indica que no hay un [precio de lista](/es/tutorial/precos-v2) establecido.
   - **Tiene un precio de lista definido:** aplica la promoción solamente a ítems en los que los valores "de" y "por" son diferentes, lo que indica la existencia de un precio de lista.
 
 ## Configurar restricciones de uso de la promoción
@@ -152,7 +152,7 @@ Consulta en esta sección cómo destacar la promoción en la página de producto
 
 - **Destacar promociones en los productos:** marca esta opción para mostrar la promoción directamente en las páginas de producto.
 
-> ⚠️ Recuerda [configurar la visualización en el módulo CMS](https://help.vtex.com/es/tutorial/configurando-promocao-com-destaque-flag--tutorials_2295).
+> ⚠️ Recuerda [configurar la visualización en el módulo CMS](/es/tutorial/configurando-promocao-com-destaque-flag--tutorials_2295).
 
 - **Información adicional:** haz clic en `Crear` para agregar campos personalizados con nombre y valor, que puedes utilizar para personalizar la tienda.
 

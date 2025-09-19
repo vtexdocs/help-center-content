@@ -17,21 +17,21 @@ subcategoryId: 7lxg0kyL3TYIsrlSQlf1zP
 
 When an order placed on a marketplace is not integrated with VTEX, an error message indicates the type of problem that has occurred. You can view the integration status of the order in your Admin, in **MARKETPLACE > Connections > Orders**. To view the error message, click on the order.
 
-Error messages often refer to out-of-stock items. One of the simplest ways to check if a SKU is available is to perform a [shipping simulation](https://help.vtex.com/en/tutorial/simulacao-de-frete). The Shipping Simulator tool allows you to check the delivery conditions of the product without actually creating an order.
+Error messages often refer to out-of-stock items. One of the simplest ways to check if a SKU is available is to perform a [shipping simulation](/en/tutorial/simulacao-de-frete). The Shipping Simulator tool allows you to check the delivery conditions of the product without actually creating an order.
 
 Out-of-stock errors can occur for different reasons. Here are the most common:
 
-- **Items unavailable**: one or more SKUs in the order are unavailable, you must [update the number of SKUs in stock](https://help.vtex.com/en/tutorial/como-atualizar-estoque--2MDwYV1COA6YuoiY22AyGo).
+- **Items unavailable**: one or more SKUs in the order are unavailable, you must [update the number of SKUs in stock](/en/tutorial/como-atualizar-estoque--2MDwYV1COA6YuoiY22AyGo).
 - **Inactive SKU:** the SKU is not active, which prevents it from being integrated. Check the status of the item in your Admin, in _Catalog > Products and SKUs._
-- **Negative inventory:** a [negative inventory balance](https://help.vtex.com/en/tutorial/atualizar-quantidade-de-skus-em-estoque--IKMWjOjMcMqKusSGko8c0#why-is-my-inventory-negative) occurs when there are more reserved items than the total quantity in stock.
-- **Item not in collection or trade policy:** check if the SKU is marked correctly in the collection or trade policy defined for the marketplace. Learn more in the article [Associating SKUs with a trade policy](https://help.vtex.com/en/tutorial/associacao-de-sku-a-politica-comercial--1qFAiybogHCStRO65sy4vb).
+- **Negative inventory:** a [negative inventory balance](/en/tutorial/atualizar-quantidade-de-skus-em-estoque--IKMWjOjMcMqKusSGko8c0#why-is-my-inventory-negative) occurs when there are more reserved items than the total quantity in stock.
+- **Item not in collection or trade policy:** check if the SKU is marked correctly in the collection or trade policy defined for the marketplace. Learn more in the article [Associating SKUs with a trade policy](/en/tutorial/associacao-de-sku-a-politica-comercial--1qFAiybogHCStRO65sy4vb).
 
 After resolving the error, the order must be manually reprocessed. In your Admin, go to **MARKETPLACE > Connections > Orders** and click on the order with the error. Click on the **Actions** button and choose the **Reprocess** option.
 
-> ℹ️ If the error persists, please open a [VTEX support ticket](https://help.vtex.com/en/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM).
+> ℹ️ If the error persists, please open a [VTEX support ticket](/en/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM).
 
 ### Learn more
 
-- [Minimum stock control for integrations](https://help.vtex.com/en/tutorial/controle-de-estoque-minimo-para-integracoes--5hvUNIiSeJ5QCaZQYpYf1D)
-- [Setting up the Alert Low Inventory](https://help.vtex.com/en/tutorial/configurar-o-alerta-de-estoque-critico--6FD0GHeQPCsKIMgkQ88SGu)
-- [Setting up Future Inventory](https://help.vtex.com/en/tutorial/configurar-estoque-futuro--UMSGjooqRfkRbeoh94kS4)
+- [Minimum stock control for integrations](/en/tutorial/controle-de-estoque-minimo-para-integracoes--5hvUNIiSeJ5QCaZQYpYf1D)
+- [Setting up the Alert Low Inventory](/en/tutorial/configurar-o-alerta-de-estoque-critico--6FD0GHeQPCsKIMgkQ88SGu)
+- [Setting up Future Inventory](/en/tutorial/configurar-estoque-futuro--UMSGjooqRfkRbeoh94kS4)

@@ -47,7 +47,7 @@ Para a Nethone realizar a análise antifraude, é preciso associá-la às condi�
 1. Acesse o __Admin__ VTEX.
 2. Acesse o módulo __Pagamentos__.
 3. Clique em __Configurações__.
-4. Em __Condições de pagamento__, clique na condição desejada, ou siga o tutorial [Configurar uma condição de pagamento](https://help.vtex.com/pt/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/6bzGxlz4inf8sKmvZ1c7i3?&utm_source=autocomplete) para criar uma nova condição.
+4. Em __Condições de pagamento__, clique na condição desejada, ou siga o tutorial [Configurar uma condição de pagamento](/pt/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/6bzGxlz4inf8sKmvZ1c7i3?&utm_source=autocomplete) para criar uma nova condição.
 5. Certifique-se de que a condição de pagamento esteja __Ativada__.
 6. Após selecionar ou criar uma nova condição, habilite a opção __Usar Antifraude__.
 7. Selecione a opção __Nethone__.

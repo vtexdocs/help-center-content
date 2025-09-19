@@ -15,13 +15,13 @@ trackSlugEN: configurar-integracao-com-o-google-shopping
 order: 7
 ---
 
-No Google Shopping somente [catálogos](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3rA2tTpIoEXdv2nzC27zxR) são integrados. Ao contrário de outras integrações, **não é necessário mapear os produtos através de planilha**.
+No Google Shopping somente [catálogos](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3rA2tTpIoEXdv2nzC27zxR) são integrados. Ao contrário de outras integrações, **não é necessário mapear os produtos através de planilha**.
 
 ## Reindexar base
 
-Após a configuração da integração e autenticação da sua conta, o envio de produtos para o marketplace não é automático, é necessário [reindexar a base](https://help.vtex.com/pt/tutorial/entendendo-o-funcionamento-da-indexacao). Esse processo prepara os dados dos SKUs e produtos e envia para o marketplace informações gerais sobre catálogo, preço e estoque. 
+Após a configuração da integração e autenticação da sua conta, o envio de produtos para o marketplace não é automático, é necessário [reindexar a base](/pt/tutorial/entendendo-o-funcionamento-da-indexacao). Esse processo prepara os dados dos SKUs e produtos e envia para o marketplace informações gerais sobre catálogo, preço e estoque. 
 
-> ℹ️ Somente o [usuário Titular (owner)](https://help.vtex.com/pt/tracks/contas-e-permissoes--5PxyAgZrtiYlaYZBTlhJ2A/56Bd0KpwbvAji1aFs94xdA) tem permissão para reindexar a base de uma loja VTEX. Durante o período de reindexação, que é variável, os produtos entram numa fila para atualização de dados, mas seguem disponíveis para venda no site da loja.
+> ℹ️ Somente o [usuário Titular (owner)](/pt/tracks/contas-e-permissoes--5PxyAgZrtiYlaYZBTlhJ2A/56Bd0KpwbvAji1aFs94xdA) tem permissão para reindexar a base de uma loja VTEX. Durante o período de reindexação, que é variável, os produtos entram numa fila para atualização de dados, mas seguem disponíveis para venda no site da loja.
 
 Para reindexar a base, copie o endereço abaixo no seu navegador, substituindo `{nomedaloja}` pelo nome da sua loja:
 
@@ -83,7 +83,7 @@ Essas *labels* são úteis para:
 
 ### Como configurar 
 
-É necessário criar as *custom labels* no Google Merchant Center. Após criar as *custom labels* no Google Merchant Center, siga o tutorial [Cadastrar especificações ou campos de produto](https://help.vtex.com/pt/tutorial/cadastrar-especificacoes-ou-campos-de-produto--tutorials_106) para associá-las a uma oferta específica utilizando **especificações de produtos.**
+É necessário criar as *custom labels* no Google Merchant Center. Após criar as *custom labels* no Google Merchant Center, siga o tutorial [Cadastrar especificações ou campos de produto](/pt/tutorial/cadastrar-especificacoes-ou-campos-de-produto--tutorials_106) para associá-las a uma oferta específica utilizando **especificações de produtos.**
 
 Ao criar o novo campo de especificação de produto preencha-os com os seguintes valores:
 

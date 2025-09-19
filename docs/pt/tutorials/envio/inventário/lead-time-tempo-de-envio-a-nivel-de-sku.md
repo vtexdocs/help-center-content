@@ -15,9 +15,9 @@ locale: pt
 subcategoryId: 3PQwnyOcNyYgawy06oe6gE
 ---
 
-Lead time é a configuração opcional do tempo de envio a nível de SKU. Isso significa que você pode definir um período de envio para o SKU de um [estoque](https://help.vtex.com/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb) e este tempo será adicionado ao prazo total de envio do pedido.
+Lead time é a configuração opcional do tempo de envio a nível de SKU. Isso significa que você pode definir um período de envio para o SKU de um [estoque](/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb) e este tempo será adicionado ao prazo total de envio do pedido.
 
-A configuração do lead time é feita no contexto da [gestão do seu inventário](https://help.vtex.com/pt/tutorial/gerenciar-inventario--tutorials_139), pois se relaciona a itens em estoque e disponíveis para venda.
+A configuração do lead time é feita no contexto da [gestão do seu inventário](/pt/tutorial/gerenciar-inventario--tutorials_139), pois se relaciona a itens em estoque e disponíveis para venda.
 
 Este artigo aborda os seguintes aspectos:
 
@@ -36,10 +36,10 @@ Quando configurado, o lead time é um tempo adicional que compõe o prazo de env
 ![lead_time_image_total_time_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/invent%C3%A1rio/lead-time-tempo-de-envio-a-nivel-de-sku_1.png)
 
 * **Lead time:** quantidade de tempo configurável para o SKU de um estoque. Este período pode corresponder ao tempo de manipulação ou fabricação do item, por exemplo. Essa configuração é opcional e, por padrão, está definida como zero dias.
-* [Tempo de estoque:](https://help.vtex.com/pt/tutorial/gerenciar-estoque--tutorials_137) tempo que o SKU leva para sair de um estoque para uma [doca](https://help.vtex.com/pt/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj). Essa configuração é obrigatória, mas você pode definir o tempo igual a zero.
-* [Tempo de doca:](https://help.vtex.com/pt/tutorial/gerenciar-doca--7K3FultD8I2cuuA6iyGEiW) tempo que o SKU leva para sair da doca, ponto intermediário entre o estoque e a [transportadora](https://help.vtex.com/pt/tutorial/transportadoras-na-vtex--7u9duMD5UQa2QQwukAWMcE), para ser enviado para o cliente. Essa configuração é obrigatória, mas você pode definir o tempo igual a zero.
-* [Política de envio:](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140) agrupa as regras e condições apresentadas aos clientes no checkout, incluindo:
-    * [Taxas de envio](https://help.vtex.com/pt/tutorial/planilha-de-frete--tutorials_127)
+* [Tempo de estoque:](/pt/tutorial/gerenciar-estoque--tutorials_137) tempo que o SKU leva para sair de um estoque para uma [doca](/pt/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj). Essa configuração é obrigatória, mas você pode definir o tempo igual a zero.
+* [Tempo de doca:](/pt/tutorial/gerenciar-doca--7K3FultD8I2cuuA6iyGEiW) tempo que o SKU leva para sair da doca, ponto intermediário entre o estoque e a [transportadora](/pt/tutorial/transportadoras-na-vtex--7u9duMD5UQa2QQwukAWMcE), para ser enviado para o cliente. Essa configuração é obrigatória, mas você pode definir o tempo igual a zero.
+* [Política de envio:](/pt/tutorial/politica-de-envio--tutorials_140) agrupa as regras e condições apresentadas aos clientes no checkout, incluindo:
+    * [Taxas de envio](/pt/tutorial/planilha-de-frete--tutorials_127)
     * Horário de funcionamento da transportadora
     * Janelas de entrega
     * Capacidade de entrega
@@ -71,7 +71,7 @@ A plataforma VTEX vai apresentar comportamentos diferentes a depender da disponi
 
 ## Configurar lead time
 
-O lead time vem configurado como zero dias, e o seu limite máximo é de 365 dias. Por padrão, a contagem é feita em dias úteis, considerando feriados e demais condições da sua [política de envio](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140), mas você pode [configurar a contagem para ser em dias corridos](#configurar-a-contagem-do-lead-time-em-dias-do-calendario-opcional).
+O lead time vem configurado como zero dias, e o seu limite máximo é de 365 dias. Por padrão, a contagem é feita em dias úteis, considerando feriados e demais condições da sua [política de envio](/pt/tutorial/politica-de-envio--tutorials_140), mas você pode [configurar a contagem para ser em dias corridos](#configurar-a-contagem-do-lead-time-em-dias-do-calendario-opcional).
 
 Para configurar o lead time de um SKU, siga os passos abaixo:
 
@@ -91,7 +91,7 @@ Se você deseja que o tempo do lead time seja contado em dias corridos, siga os 
 
 1. No Admin VTEX, acesse **Envio > Estratégia de envio > Políticas de envio**, ou digite **Políticas de envio** na barra de busca no topo da página.
 2. Encontre a política de envio desejada. Você pode utilizar a barra de pesquisa e os filtros.
-    > Para criar uma nova política de envio, veja o artigo [Política de Envio](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140).
+    > Para criar uma nova política de envio, veja o artigo [Política de Envio](/pt/tutorial/politica-de-envio--tutorials_140).
 3. Na linha da política de envio, clique no ícone menu <i class="fas fa-ellipsis-v"></i> e selecione `Editar`.
 4. Na seção **Fins de Semana e feriados**, ative os toggles desejados:
     * <i class="fas fa-toggle-on"></i> **Entrega aos sábados**

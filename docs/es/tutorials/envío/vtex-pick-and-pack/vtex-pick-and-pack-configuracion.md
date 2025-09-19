@@ -44,7 +44,7 @@ En esta sección puedes definir el tipo de estrategia de alistamiento que deseas
 
 En esta sección puedes definir acciones relativas a cambios en el pedido, como por ejemplo, debido a ítems fuera de stock.
 
-* **Enviar cambios al OMS:** permite enviar los cambios realizados por el alistador al [OMS de VTEX](https://help.vtex.com/es/tutorial/gerenciamento-de-pedidos-visao-geral--tutorials_201). Puedes activar <i class="fas fa-toggle-on"></i> o desactivar <i class="fas fa-toggle-off"></i> esta opción.
+* **Enviar cambios al OMS:** permite enviar los cambios realizados por el alistador al [OMS de VTEX](/es/tutorial/gerenciamento-de-pedidos-visao-geral--tutorials_201). Puedes activar <i class="fas fa-toggle-on"></i> o desactivar <i class="fas fa-toggle-off"></i> esta opción.
 * **Permitir cambiar el precio de los ítems:** permite que el alistador cambie los precios de los ítems de un pedido. Puedes activar <i class="fas fa-toggle-on"></i> o desactivar <i class="fas fa-toggle-off"></i> esta opción.
 * **Permitir reemplazo de ítems:** permite que el alistador sustituya los ítems del pedido que no estaban disponibles. Puedes activar <i class="fas fa-toggle-on"></i> o desactivar <i class="fas fa-toggle-off"></i> esta opción.
 * **Permitir rechazar ítems:** permite que el alistador rechace los ítems del pedido que no estén disponibles. Puedes activar <i class="fas fa-toggle-on"></i> o desactivar <i class="fas fa-toggle-off"></i> esta opción.
@@ -157,7 +157,7 @@ En esta sección debes registrar los tipos de empaque que utilizará tu tienda p
    * **Tipo:** tipo de empaque. Las opciones son **Caja, Bolsa, Paquete, Cinta, Papel, Otros**.
    * **Descripción:** descripción del empaque para uso interno.
    * **Código:** código identificador del empaque.
-   * **Peso cúbico:** [peso cúbico](https://help.vtex.com/es/tutorial/como-o-peso-cubado-e-calculado--tutorials_128) del empaque. 
+   * **Peso cúbico:** [peso cúbico](/es/tutorial/como-o-peso-cubado-e-calculado--tutorials_128) del empaque. 
    * **Altura:** altura del empaque en milímetros. 
    * **Longitud:** longitud del empaque en milímetros.
    * **Peso:** peso del empaque en milímetros.

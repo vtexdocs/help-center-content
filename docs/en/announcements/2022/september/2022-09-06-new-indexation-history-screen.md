@@ -23,7 +23,7 @@ To improve the catalog indexing monitoring experience, we redesigned the **Index
 
 ## What has changed?
 
-Previously, VTEX featured two different types of indexing: one for the [Catalog](https://help.vtex.com/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ), and one for [Intelligent Search](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb). Now, the process is unified in the **Indexing History** page.
+Previously, VTEX featured two different types of indexing: one for the [Catalog](/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ), and one for [Intelligent Search](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb). Now, the process is unified in the **Indexing History** page.
 
 The **Indexing History** page has been completely redesigned. Check out the main changes:
 
@@ -40,6 +40,6 @@ We redesigned the **Indexing History** screen to provide a holistic view of the 
 
 ## What needs to be done?
 
-The **Indexing Status** page of Intelligent Search will be disabled and replaced by **Indexing History**. No action is required. All stores will be automatically updated. For more information on how to leverage the interface, please refer to the article [Indexing History](https://help.vtex.com/en/tutorial/indexing-history-beta--6v2FVuXVpyEO8hnMqPi6Xd).
+The **Indexing Status** page of Intelligent Search will be disabled and replaced by **Indexing History**. No action is required. All stores will be automatically updated. For more information on how to leverage the interface, please refer to the article [Indexing History](/en/tutorial/indexing-history-beta--6v2FVuXVpyEO8hnMqPi6Xd).
 
-This page follows the new VTEX design system, with a cleaner, more modern, and user-friendly look. To get access to more pages in the new experience, plus an enhanced Admin with actionable data,[join](https://content.vtex.com/join-new-admin-beta-program-en/?utm_source=announcement&utm_medium=help_center&utm_campaign=sku_bindings) the [New VTEX Admin](https://help.vtex.com/en/announcements/welcome-to-the-redesigned-vtex-admin--5tLPBodp6Xu03vYdyBTGTa) Beta program. 
+This page follows the new VTEX design system, with a cleaner, more modern, and user-friendly look. To get access to more pages in the new experience, plus an enhanced Admin with actionable data,[join](https://content.vtex.com/join-new-admin-beta-program-en/?utm_source=announcement&utm_medium=help_center&utm_campaign=sku_bindings) the [New VTEX Admin](/en/announcements/welcome-to-the-redesigned-vtex-admin--5tLPBodp6Xu03vYdyBTGTa) Beta program. 

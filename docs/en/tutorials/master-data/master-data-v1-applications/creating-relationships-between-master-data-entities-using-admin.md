@@ -23,7 +23,7 @@ For example, assume your store has a **Customer** entity and a **Wishlist** enti
 
 ## Creating a relationship between data entities
 
-To create a relationship, there must be two data entities. If there is only one entity, you may create another following the instructions below. To learn more about data entities, see [Data entities](https://help.vtex.com/en/tutorial/data-entity--tutorials_1265).
+To create a relationship, there must be two data entities. If there is only one entity, you may create another following the instructions below. To learn more about data entities, see [Data entities](/en/tutorial/data-entity--tutorials_1265).
 
 In the example above, you need to create a data entity called **Wishlist** which will have a relationship with the **Customer** entity. This relationship will allow a customer to have multiple wishlists, but a wish list can only belong to one customer.
 
@@ -37,11 +37,11 @@ Check out the instructions below for the aforementioned example.
 
    If you want to create a relationship in an existing entity, find it and click the edit button <i class="fas fa-edit"></i>, then go to step 7. 
 
-6. Configure the entity that will be created by completing the **Acronym** and **Name** fields and adding the desired fields. Learn more about fields in [Creating a field in Master Data](https://help.vtex.com/en/tutorial/como-crio-um-campo-no-master-data--frequentlyAskedQuestions_1829).
+6. Configure the entity that will be created by completing the **Acronym** and **Name** fields and adding the desired fields. Learn more about fields in [Creating a field in Master Data](/en/tutorial/como-crio-um-campo-no-master-data--frequentlyAskedQuestions_1829).
 
    In this example, the entity will use the name `Wishlist`, the acronym `WL`, and the field `wishlist` of type `Varchar 750`.
 
-   For more details on how to complete these fields, see [Data entity](https://help.vtex.com/en/tutorial/data-entity--tutorials_1265). 
+   For more details on how to complete these fields, see [Data entity](/en/tutorial/data-entity--tutorials_1265). 
 
 7. Add a field of type **Relationship** and define its name. In this example, it will be called `Customer`.
 8. Click the gear icon <i class="fas fa-cog"></i> next to the **Relationship** field to configure it.
@@ -55,7 +55,7 @@ Check out the instructions below for the aforementioned example.
 
 ## Creating a relationship between documents
 
-You can also create a relationship between documents once there is a [relationship between data entities](#creating-a-relationship-between-data-entities). To do this, you will need to edit the [form](https://help.vtex.com/en/tutorial/creating-form-in-master-data--tutorials_1047) of a data entity.
+You can also create a relationship between documents once there is a [relationship between data entities](#creating-a-relationship-between-data-entities). To do this, you will need to edit the [form](/en/tutorial/creating-form-in-master-data--tutorials_1047) of a data entity.
 
 Follow the steps below:
 
@@ -92,6 +92,6 @@ To do this, you need to add the value `{relationship_entity_acronym}.{relationsh
 
 ## Adding filters to relationship fields
 
-Relationships are kept through document IDs. Trying to insert the relationship's field value as a filter in the form will return only the IDs of the referred documents, and not each document's value for the chosen field. The image below shows this result. For more information, see [How to filter data in Master Data](https://help.vtex.com/en/tutorial/filtering-data-on-master-data--tutorials_778).
+Relationships are kept through document IDs. Trying to insert the relationship's field value as a filter in the form will return only the IDs of the referred documents, and not each document's value for the chosen field. The image below shows this result. For more information, see [How to filter data in Master Data](/en/tutorial/filtering-data-on-master-data--tutorials_778).
 
 ![Filter relationship ID](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/master-data/master-data-v1-applications/creating-relationships-between-master-data-entities-using-admin_2.png)

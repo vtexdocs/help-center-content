@@ -17,7 +17,7 @@ announcementSynopsisES: 'Descubre el modelo de anuncios que permite ofrecer dife
 
 El nuevo modelo de anuncios de **Mercado Libre** permite a los sellers configurar diferentes condiciones de venta para cada SKU de un producto. El seller puede personalizar el precio de cada variación.    
 
-La [integración con Mercado Libre](https://help.vtex.com/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq) está disponible para los siguientes países: Argentina, Brasil, Chile, Colombia, Ecuador, México, Perú, Uruguay y Venezuela.  
+La [integración con Mercado Libre](/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq) está disponible para los siguientes países: Argentina, Brasil, Chile, Colombia, Ecuador, México, Perú, Uruguay y Venezuela.  
 
 ## ¿Por qué realizamos este cambio?
 

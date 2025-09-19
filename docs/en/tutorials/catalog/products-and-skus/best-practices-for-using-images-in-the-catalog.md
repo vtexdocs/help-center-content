@@ -41,7 +41,7 @@ In order to get good results with your images and solve possible import problems
 
 ## Learn more
 
-- [Adding Products](https://help.vtex.com/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/1ROhz3Y7mfSMmCO1I1GxEL)
-- [Adding SKUs](https://help.vtex.com/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ)
-- [Importing images from a spreadsheet](https://help.vtex.com/en/tutorial/importing-images-from-a-spreadsheet--tutorials_262)
+- [Adding Products](/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/1ROhz3Y7mfSMmCO1I1GxEL)
+- [Adding SKUs](/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ)
+- [Importing images from a spreadsheet](/en/tutorial/importing-images-from-a-spreadsheet--tutorials_262)
 

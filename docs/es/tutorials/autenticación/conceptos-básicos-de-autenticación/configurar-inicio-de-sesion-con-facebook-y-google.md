@@ -27,8 +27,8 @@ El comportamiento nativo de la plataforma es ofrecer opciones de inicio de sesi�
 
 Antes de configurar nuestra integración de inicio de sesión con Google y Facebook, se deben crear credenciales de OAuth 2.0 (protocolo para la integración) en esos servicios. Para obtenerlas, sigue las instrucciones en los artículos a continuación:
 
-- [Facebook](https://help.vtex.com/es/tutorial/cadastrar-client-id-e-client-secret-para-login-com-facebook)
-- [Google](https://help.vtex.com/es/tutorial/cadastrar-client-id-e-client-secret-para-login-com-google)
+- [Facebook](/es/tutorial/cadastrar-client-id-e-client-secret-para-login-com-facebook)
+- [Google](/es/tutorial/cadastrar-client-id-e-client-secret-para-login-com-google)
 
 ## Configurar inicio de sesión con los proveedores
 

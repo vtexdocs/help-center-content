@@ -29,7 +29,7 @@ Los pedidos presentan errores de integración por dos motivos: **ID de tienda of
 Considera las siguientes opciones para corregir los errores de integración en los pedidos de Mercado Libre: [verificar el ID de la tienda oficial en Mercado Libre](#comprobar-id-de-la-tienda-oficial-en-mercado-libre) y [verificar la correspondencia de categorías](#comprobar-correspondencia-de-categorías) para errores de integración de pedidos.
 
 ### Verificar el ID de la tienda oficial en Mercado Libre 
-Si tu tienda tiene el status de [Tienda Oficial](https://www.mercadolibre.com.mx/tiendas-oficiales/catalogo) en Mercado Libre, debes introducir el ID proporcionado por Mercado Libre en el [registro del conector](https://help.vtex.com/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/4YvYdgICMosaEgISOYogsi).
+Si tu tienda tiene el status de [Tienda Oficial](https://www.mercadolibre.com.mx/tiendas-oficiales/catalogo) en Mercado Libre, debes introducir el ID proporcionado por Mercado Libre en el [registro del conector](/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/4YvYdgICMosaEgISOYogsi).
 
 Para validar si el ID ingresado es correcto, ve a **Marketplace > Conexiones > Marketplaces e integraciones**  y sigue los pasos que se indican a continuación:
 
@@ -41,7 +41,7 @@ Para validar si el ID ingresado es correcto, ve a **Marketplace > Conexiones > M
 
 ### Verificar correspondencias de categorías
 
-Al realizar el [mapeo de categorías y atributos](https://help.vtex.com/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/5XNeiye4rS4oao2MueSUeA) con Mercado Libre, es necesario que los atributos de cada categoría registrada en VTEX correspondan con los atributos de las categorías existentes en Mercado Libre. 
+Al realizar el [mapeo de categorías y atributos](/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/5XNeiye4rS4oao2MueSUeA) con Mercado Libre, es necesario que los atributos de cada categoría registrada en VTEX correspondan con los atributos de las categorías existentes en Mercado Libre. 
 Si alguno de los atributos se rellena incorrectamente, la integración devolverá un error con el siguiente formato:
 `La categoría seleccionada en el atributo category_meli no existe en Mercado Libre.`
 

@@ -15,9 +15,9 @@ locale: en
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
-Before activating your promotional price table, you must have a already created a price table. See our tutorial for more info on **[creating price tables](https://help.vtex.com/en/tutorial/criar-tabelas-de-precos?locale=en).** Complete this step first and then move onto the next steps.
+Before activating your promotional price table, you must have a already created a price table. See our tutorial for more info on **[creating price tables](/en/tutorial/criar-tabelas-de-precos?locale=en).** Complete this step first and then move onto the next steps.
 
-After choosing a price table that you wish to use, you can create a promotional price table, using the two types of discount highlighted below. Check which fields to fill out here:  **[regular benefits](https://help.vtex.com/en/tutorial/promocao-regular?locale=en) or [campaign audience benefits](https://help.vtex.com/en/tutorial/promocao-de-campanha?locale=en)**
+After choosing a price table that you wish to use, you can create a promotional price table, using the two types of discount highlighted below. Check which fields to fill out here:  **[regular benefits](/en/tutorial/promocao-regular?locale=en) or [campaign audience benefits](/en/tutorial/promocao-de-campanha?locale=en)**
 
 The steps above must be successfully completed prior to attempting to create a promotional price table. Afterwards, follow the steps below:
 

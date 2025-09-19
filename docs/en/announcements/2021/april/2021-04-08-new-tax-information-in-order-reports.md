@@ -17,11 +17,11 @@ announcementSynopsisEN: 'The Taxes column in the order report has been modified 
 
 You can use order reports to analyze the performance of promotions or as packing slips, to facilitate store logistics.
 
-The **Taxes** column in the [order report](https://help.vtex.com/en/tutorial/orders-worksheet--31m1ewsmsEe0WS4So2aGMY) has been modified to make it easier for retailers to view the total amount of taxes applied to each order.
+The **Taxes** column in the [order report](/en/tutorial/orders-worksheet--31m1ewsmsEe0WS4So2aGMY) has been modified to make it easier for retailers to view the total amount of taxes applied to each order.
 
 ## What has changed?
 
-Previously, the **Taxes** column listed only taxes [added at **Checkout**](https://help.vtex.com/en/tutorial/inserting-taxes-in-the-cart--2wY5ePTTRz17EBhO3F7XBQ) (values identified as `Tax`). The report did not account for custom taxes[ created in the Admin's **Promotions & Taxes** module](https://help.vtex.com/en/tutorial/creating-surchargestaxes--tutorials_321), which means it didn’t include values specified as `CustomTax`.
+Previously, the **Taxes** column listed only taxes [added at **Checkout**](/en/tutorial/inserting-taxes-in-the-cart--2wY5ePTTRz17EBhO3F7XBQ) (values identified as `Tax`). The report did not account for custom taxes[ created in the Admin's **Promotions & Taxes** module](/en/tutorial/creating-surchargestaxes--tutorials_321), which means it didn’t include values specified as `CustomTax`.
 
 The **Taxes** column now displays the sum of the taxes added at Checkout (`Tax`) and the taxes created in **Promotions & Taxes** (`CustomTax`).
 
@@ -37,4 +37,4 @@ With the change, the total amount of taxes applied to each order is now shown in
 
 No action is needed. The change will be implemented automatically in all VTEX stores. From now on, all order reports will be generated in the new format.
 
-Learn how to export orders in our tutorial [Export orders in Orders management](https://help.vtex.com/en/tutorial/exporting-orders-in-orders-managment--tutorials_6417) and learn more about the report structure in our article [Order report](https://help.vtex.com/en/tutorial/orders-worksheet--31m1ewsmsEe0WS4So2aGMY).
+Learn how to export orders in our tutorial [Export orders in Orders management](/en/tutorial/exporting-orders-in-orders-managment--tutorials_6417) and learn more about the report structure in our article [Order report](/en/tutorial/orders-worksheet--31m1ewsmsEe0WS4So2aGMY).

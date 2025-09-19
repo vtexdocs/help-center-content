@@ -31,4 +31,4 @@ Es decir, puede conocer los detalles de cada paso del progreso del pedido. Un pe
 - Política comercial aplicada a la compra
 - Responsable de la venta (Marketplace) y del fulfillment (Seller)
 
-Estas y otras informaciones son esenciales para administrar los pedidos de la tienda. Pueden ser consumidos por API o en la página de [detalles del pedido](https://help.vtex.com/es/tutorial/order-details-page-interface--2Y75n54Cc9VizrlG1N6ZNl), que veremos más adelante.
+Estas y otras informaciones son esenciales para administrar los pedidos de la tienda. Pueden ser consumidos por API o en la página de [detalles del pedido](/es/tutorial/order-details-page-interface--2Y75n54Cc9VizrlG1N6ZNl), que veremos más adelante.

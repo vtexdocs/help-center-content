@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 ---
 
-On the **Promotions,** page in the Mercado Libre menu in the VTEX Admin, [sellers](https://help.vtex.com/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#sendo-seller-vtex) can view a list of all promotional campaigns offered by Mercado Libre. The page displays the **campaign name, type, ID, deadline to include offers, duration,**  and **status.**  
+On the **Promotions,** page in the Mercado Libre menu in the VTEX Admin, [sellers](/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#sendo-seller-vtex) can view a list of all promotional campaigns offered by Mercado Libre. The page displays the **campaign name, type, ID, deadline to include offers, duration,**  and **status.**  
 
 By clicking a promotion from the list, the seller can use the search bar to find listed offers using the **MercadoLibre-ID** or the **Name** of each one.  
 

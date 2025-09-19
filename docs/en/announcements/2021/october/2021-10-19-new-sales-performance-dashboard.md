@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisEN: 'Analyze data from your sales channels and extract business intelligence with the new Sales Performance dashboard.'
 ---
 
-With an ever-increasing volume of data available for ecommerce operations to evaluate the results of their sales channels, it becomes essential to provide relevant information so that decisions can be made with greater assertiveness. This is why we created the new [Sales Performance](https://help.vtex.com/en/tutorial/sales-performance--3DMube0sEsK9vPcRYGas72) dashboard, a flexible, complete dashboard designed for unified commerce.
+With an ever-increasing volume of data available for ecommerce operations to evaluate the results of their sales channels, it becomes essential to provide relevant information so that decisions can be made with greater assertiveness. This is why we created the new [Sales Performance](/en/tutorial/sales-performance--3DMube0sEsK9vPcRYGas72) dashboard, a flexible, complete dashboard designed for unified commerce.
 
 The dashboard allows users to analyze data from all sales channels of the store and its sellers, including metrics on revenue, orders, average ticket, and more. It also includes charts and tables so you can compare results from different periods, and introduces eleven filter options to provide unified insights into your entire operation.
 
@@ -33,5 +33,5 @@ Before we included the Sales Performance page, retailers needed access to differ
 - Find opportunities to improve the results of your store and your sellers.    
 
 ## What needs to be done?
-The Sales Performance page is automatically available in your VTEX Admin. To access it, go to the side menu and click on **Analytics > Sales Performance**. In some versions of the VTEX Admin, you will find this page under __Apps > Installed Apps__.  Find out how to get the most out of the dashboard in our article about [Sales Performance](https://help.vtex.com/en/tutorial/sales-performance--3DMube0sEsK9vPcRYGas72).
+The Sales Performance page is automatically available in your VTEX Admin. To access it, go to the side menu and click on **Analytics > Sales Performance**. In some versions of the VTEX Admin, you will find this page under __Apps > Installed Apps__.  Find out how to get the most out of the dashboard in our article about [Sales Performance](/en/tutorial/sales-performance--3DMube0sEsK9vPcRYGas72).
 

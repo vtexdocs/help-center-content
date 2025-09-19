@@ -48,7 +48,7 @@ Para entender melhor o significado de cada campo do cadastro de categoria, veja 
 - __Ativo:__ ao selecionar esse item, a categoria ou o departamento fica ativado ou desativado na sua loja.
 - __Menu com link ativo:__ ao selecionar esse item, a categoria ou departamento fica ativa e clicável no site para que o cliente navegue através dele.
 - __Filtro de marca:__ ao selecionar esse item, a categoria ou o departamento passa a ter um filtro para marca na página.
-- __Score (usado para ordenação de busca):__ valor utilizado para definir a prioridade na página de resultado de busca. Para entender mais sobre Score, acesse o nosso artigo [Como funciona o campo score](https://help.vtex.com/pt/tutorial/como-funciona-o-campo-score--1BUZC0mBYEEIUgeQYAKcae).
+- __Score (usado para ordenação de busca):__ valor utilizado para definir a prioridade na página de resultado de busca. Para entender mais sobre Score, acesse o nosso artigo [Como funciona o campo score](/pt/tutorial/como-funciona-o-campo-score--1BUZC0mBYEEIUgeQYAKcae).
 - __Modo de exibição dos produtos:__ define como os SKUs serão exibidos na página do produto. Veja abaixo as opções de preenchimento deste campo:
   - __Lista de SKUs:__ todos os SKUs do departamento ou categoria em questão serão exibidos no formato de lista. Cada um com seu botão Comprar do lado.
   ![1Lista.pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/cat%C3%A1logo/categorias/cadastrar-uma-categoria_1.png)
@@ -59,10 +59,10 @@ Para entender melhor o significado de cada campo do cadastro de categoria, veja 
 
 ### Saiba mais
 
-- [O que é uma Categoria?](https://help.vtex.com/pt/tutorial/o-que-e-uma-categoria--6HV4Q3E2FauUoOQoiCCgCg)
-- [O que é um Departamento?](https://help.vtex.com/pt/tutorial/o-que-e-um-departamento--22rKjmYWVmmKAK8CWa8yKw)
-- [O que é uma Subcategoria?](https://help.vtex.com/pt/tutorial/o-que-e-uma-subcategoria--2cb0aRkG3i6AeiAMM24iwY)
+- [O que é uma Categoria?](/pt/tutorial/o-que-e-uma-categoria--6HV4Q3E2FauUoOQoiCCgCg)
+- [O que é um Departamento?](/pt/tutorial/o-que-e-um-departamento--22rKjmYWVmmKAK8CWa8yKw)
+- [O que é uma Subcategoria?](/pt/tutorial/o-que-e-uma-subcategoria--2cb0aRkG3i6AeiAMM24iwY)
 - [Excluir uma Categoria](/pt/tutorial/entendendo-a-manutencao-da-base-de-dados)
 - [Cadastrar um Produto](/pt/tutorial/cadastrando-produto)
-- [Cadastrar um SKU](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ?&utm_source=autocomplete)
+- [Cadastrar um SKU](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ?&utm_source=autocomplete)
 

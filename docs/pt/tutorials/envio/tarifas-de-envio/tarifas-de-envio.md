@@ -15,17 +15,17 @@ locale: pt
 subcategoryId: 7uJcyu0VawEm8ggqKu404u
 ---
 
-As tarifas de envio são os custos de frete que sua loja oferece aos clientes, e estão relacionadas às [Políticas de envio](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140) da sua loja. Dessa forma, os preços acordados entre sua loja e os responsáveis pelas entregas (como transportadoras, pontos de retirada, prestadores de serviços) devem ser configurados como **Tarifas de envio.**  
+As tarifas de envio são os custos de frete que sua loja oferece aos clientes, e estão relacionadas às [Políticas de envio](/pt/tutorial/politica-de-envio--tutorials_140) da sua loja. Dessa forma, os preços acordados entre sua loja e os responsáveis pelas entregas (como transportadoras, pontos de retirada, prestadores de serviços) devem ser configurados como **Tarifas de envio.**  
 
-> ⚠️ O [custo final do envio](https://help.vtex.com/pt/tutorial/custo-final-do-envio--5bwhIO108VA5Y2YOpef9lV) para o cliente inclui tarifa de envio, [adicionais de frete](https://help.vtex.com/pt/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV) e custo de doca com estoque.
+> ⚠️ O [custo final do envio](/pt/tutorial/custo-final-do-envio--5bwhIO108VA5Y2YOpef9lV) para o cliente inclui tarifa de envio, [adicionais de frete](/pt/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV) e custo de doca com estoque.
 
 ![Tarifa envio PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/tarifas-de-envio/tarifas-de-envio_1.svg)
 
 Pelo Admin VTEX, há duas maneiras de cadastrar as tarifas de envio:
 
-* Na página `Estratégia de envio`: ao adicionar uma nova `Política de envio` ou atualizar uma já cadastrada, você deve fazer o _upload_ da [planilha de frete](https://help.vtex.com/pt/tutorial/como-montar-a-planilha-de-frete--tutorials_127). Essa maneira de cadastro de tarifas de envio é indicada quando há muitos códigos postais para serem adicionados com sua precificação de entrega. 
-* Na página `Tarifas de envio`: para casos em que se deseja atualizar tarifas já cadastradas ou adicionar poucas tarifas. É possível editar e inserir novos preços de envio sem a manipulação da planilha de frete. Para saber mais, acesse o [tutorial de gerenciamento de tarifas](https://help.vtex.com/pt/tutorial/gerenciar-valores-de-frete--tutorials_141).
+* Na página `Estratégia de envio`: ao adicionar uma nova `Política de envio` ou atualizar uma já cadastrada, você deve fazer o _upload_ da [planilha de frete](/pt/tutorial/como-montar-a-planilha-de-frete--tutorials_127). Essa maneira de cadastro de tarifas de envio é indicada quando há muitos códigos postais para serem adicionados com sua precificação de entrega. 
+* Na página `Tarifas de envio`: para casos em que se deseja atualizar tarifas já cadastradas ou adicionar poucas tarifas. É possível editar e inserir novos preços de envio sem a manipulação da planilha de frete. Para saber mais, acesse o [tutorial de gerenciamento de tarifas](/pt/tutorial/gerenciar-valores-de-frete--tutorials_141).
 
-> ⚠️ Você pode configurar a localização por polígono, o **custo de seguro** e o **adicional de frete** apenas pela **[planilha de frete](https://help.vtex.com/pt/tutorial/planilha-de-frete--tutorials_127) **.
+> ⚠️ Você pode configurar a localização por polígono, o **custo de seguro** e o **adicional de frete** apenas pela **[planilha de frete](/pt/tutorial/planilha-de-frete--tutorials_127) **.
 
-> ℹ️ Para casos em que há vários preços de envio para serem atualizados ou cadastrados, recomendamos utilizar a [Planilha de frete](https://help.vtex.com/pt/tutorial/planilha-de-frete--tutorials_127) em vez do módulo **Tarifas de envio**. Caso queira conferir como as tarifas de envio cadastradas serão apresentadas ao cliente final, utilize o módulo **[Simulador de envio](https://help.vtex.com/pt/tutorial/simulacao-de-frete--tutorials_144)**.
+> ℹ️ Para casos em que há vários preços de envio para serem atualizados ou cadastrados, recomendamos utilizar a [Planilha de frete](/pt/tutorial/planilha-de-frete--tutorials_127) em vez do módulo **Tarifas de envio**. Caso queira conferir como as tarifas de envio cadastradas serão apresentadas ao cliente final, utilize o módulo **[Simulador de envio](/pt/tutorial/simulacao-de-frete--tutorials_144)**.

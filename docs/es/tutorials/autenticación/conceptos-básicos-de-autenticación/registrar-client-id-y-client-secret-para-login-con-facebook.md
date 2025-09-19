@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 14V5ezEX0cewOMg0o0cYM6
 ---
 
-Para activar el inicio de sesión por OAuth2 a través de Facebook, accede al Admin VTEX > **Configuración de cuenta > Autenticación** y completa los campos **Client ID** y **Secreto del cliente**, tal como se describe en el artículo [Configurar inicio de sesión con Facebook y Google](https://help.vtex.com/es/tutorial/configurar-inicio-de-sesion-con-facebook-y-google--tutorials_513).
+Para activar el inicio de sesión por OAuth2 a través de Facebook, accede al Admin VTEX > **Configuración de cuenta > Autenticación** y completa los campos **Client ID** y **Secreto del cliente**, tal como se describe en el artículo [Configurar inicio de sesión con Facebook y Google](/es/tutorial/configurar-inicio-de-sesion-con-facebook-y-google--tutorials_513).
 
 ![Facebook OAuth ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/autenticaci%C3%B3n/conceptos-b%C3%A1sicos-de-autenticaci%C3%B3n/registrar-client-id-y-client-secret-para-login-con-facebook_1.PNG)
 
@@ -76,12 +76,12 @@ Por último, debes rellenar algunos datos sobre la aplicación para completar el
 
    ![7-login-fb-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/autenticaci%C3%B3n/conceptos-b%C3%A1sicos-de-autenticaci%C3%B3n/registrar-client-id-y-client-secret-para-login-con-facebook_7.png)
 
-2. Copia el valor del campo **Identificador de la aplicación**. Debes ingresar este valor en el campo **Client ID** al [configurar el Inicio de sesión con Facebook en el Admin VTEX](https://help.vtex.com/es/tutorial/configurar-inicio-de-sesion-con-facebook-y-google--tutorials_513).
-3. En **Clave secreta de aplicación**, haz clic en el botón **Mostrar** y, a continuación, copia el valor del campo. Debes ingresar este valor en el campo **Secreto del cliente** al [configurar el inicio de sesión con Facebook en el Admin VTEX](https://help.vtex.com/es/tutorial/configurar-inicio-de-sesion-con-facebook-y-google--tutorials_513).
+2. Copia el valor del campo **Identificador de la aplicación**. Debes ingresar este valor en el campo **Client ID** al [configurar el Inicio de sesión con Facebook en el Admin VTEX](/es/tutorial/configurar-inicio-de-sesion-con-facebook-y-google--tutorials_513).
+3. En **Clave secreta de aplicación**, haz clic en el botón **Mostrar** y, a continuación, copia el valor del campo. Debes ingresar este valor en el campo **Secreto del cliente** al [configurar el inicio de sesión con Facebook en el Admin VTEX](/es/tutorial/configurar-inicio-de-sesion-con-facebook-y-google--tutorials_513).
 4. En el campo **URL de la política de privacidad**, ingresa el link a la política de privacidad de tu tienda.
 5. En **Icono de la aplicación (1024 x 1024)**, inserta un ícono de exactamente 1024x1024 píxeles y fondo transparente.
 6. Selecciona una **Categoría**. Para tiendas, te sugerimos seleccionar **Compras**.
 7. Después, ingresa la **información de contacto del delegado de protección de datos** con los datos de la empresa responsable de la tienda.
 8. Haz clic en `Guardar cambios` en la parte inferior de la página.
 
-Después de completar todas estas etapas ya puedes utilizar el **Client ID** y el **Secreto del cliente** obtenidos para configurar el Inicio de sesión con Facebook en tu tienda, tal como se describe en el artículo [Configurar inicio de sesión con Facebook y Google](https://help.vtex.com/es/tutorial/configurar-inicio-de-sesion-con-facebook-y-google--tutorials_513).
+Después de completar todas estas etapas ya puedes utilizar el **Client ID** y el **Secreto del cliente** obtenidos para configurar el Inicio de sesión con Facebook en tu tienda, tal como se describe en el artículo [Configurar inicio de sesión con Facebook y Google](/es/tutorial/configurar-inicio-de-sesion-con-facebook-y-google--tutorials_513).

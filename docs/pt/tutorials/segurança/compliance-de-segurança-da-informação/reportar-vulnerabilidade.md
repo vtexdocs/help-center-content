@@ -19,7 +19,7 @@ Nossos clientes são encorajados a reportar, de modo responsável, quaisquer vul
 
 Aqueles que desejarem reportar uma vulnerabilidade devem antes trabalhar com suas próprias equipes de segurança e desenvolvimento para realizar uma avaliação de segurança e eliminar  falsos positivos ou problemas oriundos de configurações personalizadas. Somente casos compatíveis com a [definição de vulnerabilidade](#definicao-de-vulnerabilidade) serão verificados.
 
-> ⚠️ Consulte o documento [Práticas de Segurança da VTEX](https://vtex.com/br-pt/security/security-practices/) e nossa [FAQ de Segurança](https://help.vtex.com/pt/tutorial/the-risk-assessment-process--4K97IpqkpCpDYsZOSxtfkX#risk-assessment-na-vtex) antes de reportar qualquer vulnerabilidade. Estes documentos esclarecem nossos processos e ajudam a eliminar falsos positivos.
+> ⚠️ Consulte o documento [Práticas de Segurança da VTEX](https://vtex.com/br-pt/security/security-practices/) e nossa [FAQ de Segurança](/pt/tutorial/the-risk-assessment-process--4K97IpqkpCpDYsZOSxtfkX#risk-assessment-na-vtex) antes de reportar qualquer vulnerabilidade. Estes documentos esclarecem nossos processos e ajudam a eliminar falsos positivos.
 
 Após esse procedimento, caso haja uma vulnerabilidade, siga estes passos:
 
@@ -30,7 +30,7 @@ Após esse procedimento, caso haja uma vulnerabilidade, siga estes passos:
 
   > ⚠️ Todas as informações devem ser preenchidas e são importantes para a avaliação. Comunicações de vulnerabilidade fora do padrão estabelecido não serão endereçadas pelo time de Segurança da VTEX.
 
-3. Abra uma solicitação para o nosso [Suporte](https://help.vtex.com/pt/support) para registrar o aviso de vulnerabilidade de segurança. Não esqueça de anexar o modelo de comunicação de vulnerabilidades preenchido neste chamado.
+3. Abra uma solicitação para o nosso [Suporte](/pt/support) para registrar o aviso de vulnerabilidade de segurança. Não esqueça de anexar o modelo de comunicação de vulnerabilidades preenchido neste chamado.
 4. Salve o número do seu chamado, pois você poderá precisar dele em futuras comunicações.
 
 ### Definição de vulnerabilidade
@@ -51,6 +51,6 @@ Não consideramos como uma vulnerabilidade os seguintes casos:
 
 A VTEX não se compromete a responder a relatórios em massa gerados por verificadores automatizados. Caso sua análise se baseie em um processo automatizado de identificação de vulnerabilidades, recomendamos que os relatórios sejam analisados por um profissional de segurança para garantir a validade do que foi encontrado antes de comunicar as vulnerabilidades à VTEX.
 
-A VTEX se compromete a responder os avisos recebidos pelo [Suporte](https://help.vtex.com/pt/support) o mais breve possível, notificar sobre a correção de vulnerabilidades ou fornecer motivos coerentes pelos quais análises ou correções eventualmente não possam ser realizadas.
+A VTEX se compromete a responder os avisos recebidos pelo [Suporte](/pt/support) o mais breve possível, notificar sobre a correção de vulnerabilidades ou fornecer motivos coerentes pelos quais análises ou correções eventualmente não possam ser realizadas.
 
 A VTEX está dedicada a analisar, verificar e solucionar quaisquer vulnerabilidades que nos sejam relatadas e possam comprometer a sua segurança.

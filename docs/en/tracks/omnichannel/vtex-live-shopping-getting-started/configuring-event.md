@@ -15,14 +15,14 @@ trackSlugEN: vtex-live-shopping-getting-started
 order: 7
 ---
 
-In the VTEX Admin, when you go to **Apps > Live Shopping** and click the arrow icon of a [created event](https://help.vtex.com/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv), you access its **Event Information** page, where you can set it up as explained in the following sections:
+In the VTEX Admin, when you go to **Apps > Live Shopping** and click the arrow icon of a [created event](/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv), you access its **Event Information** page, where you can set it up as explained in the following sections:
 
 * [Layout type - Configuring the style](#layout-type-configuring-the-style)
 * [Chat - Configuring the administrator name](#chat-configuring-the-administrator-name)
 * [Settings - Configuring features](#settings-configuring-features)
 * [CMS Configuration - Configuring content presentation](#cms-configuration-configuring-content-presentation)
 
-> ⚠️ This article describes the main settings for an event. It doesn't cover all sections of the **Event Information** page. For more information, check [Live Shopping: Events article](https://help.vtex.com/en/tutorial/live-shopping-events--6aGLiqoKG1UoS30f3FFWch).
+> ⚠️ This article describes the main settings for an event. It doesn't cover all sections of the **Event Information** page. For more information, check [Live Shopping: Events article](/en/tutorial/live-shopping-events--6aGLiqoKG1UoS30f3FFWch).
 
 ## Layout type - Configuring the style
 
@@ -57,7 +57,7 @@ By default, an event has a neutral visual style that is suitable for stores and 
 * Chat title
 * Send message button
 
-> ℹ️ The customizations above are made by clicking the **Customize the look and feel** button and completing the Look and Feel page to align with your preferences. For complete instructions, check [Live Shopping: Events](https://help.vtex.com/en/tutorial/live-shopping-events--6aGLiqoKG1UoS30f3FFWch).
+> ℹ️ The customizations above are made by clicking the **Customize the look and feel** button and completing the Look and Feel page to align with your preferences. For complete instructions, check [Live Shopping: Events](/en/tutorial/live-shopping-events--6aGLiqoKG1UoS30f3FFWch).
 
 ## Chat - Configuring the administrator name
 
@@ -67,7 +67,7 @@ The **Chat** section is where you manage the live chat during your event. If you
 2. In the **Store Information** window, enter the desired administrator name in the box.
 3. Click `Confirm`.
 
-> ℹ️ To learn how to pin messages, block users, delete messages, and perform other actions in the event chat, check [Live Shopping: Events](https://help.vtex.com/en/tutorial/live-shopping-events--6aGLiqoKG1UoS30f3FFWch).
+> ℹ️ To learn how to pin messages, block users, delete messages, and perform other actions in the event chat, check [Live Shopping: Events](/en/tutorial/live-shopping-events--6aGLiqoKG1UoS30f3FFWch).
 
 ## Settings - Configuring features
 

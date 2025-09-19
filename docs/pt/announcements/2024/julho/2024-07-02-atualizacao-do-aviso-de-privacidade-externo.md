@@ -36,4 +36,4 @@ Atualizamos o Aviso de Privacidade em alinhamento com legislações e com nossas
 
 ## O que precisa ser feito?
 
-Nenhuma ação é necessária. O documento já está disponível em todos os idiomas no site da VTEX. Para mais informações, você pode acessar o novo aviso em [Aviso de Privacidade Externo](https://vtex.com/br-pt/privacy-and-agreements/external-notice/) e o guia de primeiros passos [Dados e privacidade](https://help.vtex.com/pt/tracks/dados-e-privacidade--4Lc0i0an0DgnEtB0AUwlcq).
+Nenhuma ação é necessária. O documento já está disponível em todos os idiomas no site da VTEX. Para mais informações, você pode acessar o novo aviso em [Aviso de Privacidade Externo](https://vtex.com/br-pt/privacy-and-agreements/external-notice/) e o guia de primeiros passos [Dados e privacidade](/pt/tracks/dados-e-privacidade--4Lc0i0an0DgnEtB0AUwlcq).

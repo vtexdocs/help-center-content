@@ -17,7 +17,7 @@ subcategoryId: pwxWmUu7T222QyuGogs68
 
 La URL de un producto es la dirección electrónica que permite acceder a la página del producto en internet. Es importante crear una URL amigable y optimizada para que sea fácilmente localizable por los motores de búsqueda y facilite la experiencia de tu cliente en tu sitio de ecommerce.
 
-En VTEX, la URL de un producto se compone del dominio de la tienda agregado al valor del campo obligatorio **textLink** cuando se [registra un producto](https://help.vtex.com/es/tutorial/registrar-productos--tutorials_2567), más `/p`, que significa «producto». Ejemplo: en una tienda cuyo dominio es `storename.com`, al rellenar el campo textLink de un producto con `camisa-polo`, la estructura final de la URL del producto será `storename.com/camisa-polo/p`.
+En VTEX, la URL de un producto se compone del dominio de la tienda agregado al valor del campo obligatorio **textLink** cuando se [registra un producto](/es/tutorial/registrar-productos--tutorials_2567), más `/p`, que significa «producto». Ejemplo: en una tienda cuyo dominio es `storename.com`, al rellenar el campo textLink de un producto con `camisa-polo`, la estructura final de la URL del producto será `storename.com/camisa-polo/p`.
 
 Puedes cambiar el campo **textLink** de un producto existente en cualquier momento en el Admin VTEX, en **Catálogo > Todos los productos > Cambiar**. Recomendamos rellenar el **textLink** con el nombre de tu producto, utilizando solo las principales palabras clave relacionadas con él.
 
@@ -42,5 +42,5 @@ Al rellenar el campo **textLink**, deben respetarse las siguientes reglas:
 
 ## Más información
 
-- [Registrar productos](https://help.vtex.com/es/tutorial/registrar-productos--tutorials_2567)
-- [Llenar los campos de registro de producto](https://help.vtex.com/es/tutorial/campos-de-registro-de-producto--4dYXWIK3zyS8IceKkQseke)
+- [Registrar productos](/es/tutorial/registrar-productos--tutorials_2567)
+- [Llenar los campos de registro de producto](/es/tutorial/campos-de-registro-de-producto--4dYXWIK3zyS8IceKkQseke)

@@ -15,12 +15,12 @@ locale: es
 subcategoryId: pwxWmUu7T222QyuGogs68
 ---
 
-En VTEX, un SKU (Stock Keeping Unit) corresponde a una unidad física de stock de un producto y al nivel más específico de sus variaciones. Por ejemplo, para un producto camisa, el SKU puede ser una camisa blanca tamaño P. Con el ID del SKU puedes [editar el SKU](https://help.vtex.com/es/tutorial/adicionar-ou-editar-sku--4ryZ6J45kwn3jDiQBxGiiN), entre otras acciones.
+En VTEX, un SKU (Stock Keeping Unit) corresponde a una unidad física de stock de un producto y al nivel más específico de sus variaciones. Por ejemplo, para un producto camisa, el SKU puede ser una camisa blanca tamaño P. Con el ID del SKU puedes [editar el SKU](/es/tutorial/adicionar-ou-editar-sku--4ryZ6J45kwn3jDiQBxGiiN), entre otras acciones.
 
 Para identificar el ID de un SKU sigue los pasos a continuación:
 
-1. En el Admin VTEX, accede a **Catálogo > Productos y SKUs** o ingresa [Productos y SKUs](https://help.vtex.com/es/tutorial/products-and-skus--2ig7TmROlirWirZjFWZ3By) en la barra de búsqueda en la parte superior de la página.
-2. Para mostrar los [SKUs de un producto](https://help.vtex.com/es/tutorial/adicionar-ou-editar-sku--4ryZ6J45kwn3jDiQBxGiiN), haz clic en la flecha al lado del nombre del producto.
+1. En el Admin VTEX, accede a **Catálogo > Productos y SKUs** o ingresa [Productos y SKUs](/es/tutorial/products-and-skus--2ig7TmROlirWirZjFWZ3By) en la barra de búsqueda en la parte superior de la página.
+2. Para mostrar los [SKUs de un producto](/es/tutorial/adicionar-ou-editar-sku--4ryZ6J45kwn3jDiQBxGiiN), haz clic en la flecha al lado del nombre del producto.
 3. Busca la secuencia numérica que precede al nombre del SKU. Ese es el ID del SKU.
 
 En el siguiente ejemplo, el producto “Corebiz camiseta” está asociado al SKU “corebiz camiseta negra” y el ID del SKU es `310119261`:
@@ -29,7 +29,7 @@ En el siguiente ejemplo, el producto “Corebiz camiseta” está asociado al SK
 
 ## Identificar el ID del SKU por la URL
 
-Cuando haces clic en un SKU y accedes a su [página de edición](https://help.vtex.com/es/tutorial/adicionar-ou-editar-sku--4ryZ6J45kwn3jDiQBxGiiN), la URL del navegador tiene el siguiente formato:
+Cuando haces clic en un SKU y accedes a su [página de edición](/es/tutorial/adicionar-ou-editar-sku--4ryZ6J45kwn3jDiQBxGiiN), la URL del navegador tiene el siguiente formato:
 
 `https://{nombreDeCuenta}.myvtex.com/catalog-products/product/{IDproducto}/sku/{IDsku}`
 

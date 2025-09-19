@@ -21,14 +21,14 @@ tags:
 
 No Admin VTEX, em **Marketplace > Conexões > Pedidos**, são informados os status dos pedidos fechados por marketplaces certificados. Pedidos fechados com o preço errado apresentam status **Processado com erro**. 
 
-> ℹ️ Para evitar que o pedido seja fechado com o preço errado, você pode criar [Regras de Divergência de Valores](https://help.vtex.com/pt/tutorial/regra-de-divergencia-de-valores--6RlFLhD1rIRRshl83KnCjW).
+> ℹ️ Para evitar que o pedido seja fechado com o preço errado, você pode criar [Regras de Divergência de Valores](/pt/tutorial/regra-de-divergencia-de-valores--6RlFLhD1rIRRshl83KnCjW).
 
 Existem três possíveis causas para um pedido ser fechado com o preço errado:
 - [Preço do produto assumido pelo marketplace](#preço-do-produto-assumido-pelo-marketplace)
 - [Frete calculado no marketplace](#frete-calculado-no-marketplace)
 - [Preço do SKU alterado antes da integração do pedido](#preço-do-SKU-alterado-antes-da-integração-do-pedido)
 
-> ℹ️ Consulte outros erros de integração de pedidos de marketplace [nesse artigo](https://help.vtex.com/pt/tutorial/porque-os-pedidos-do-marketplace-nao-integram-com-minha-loja--275YvF8dyry5KmfY9epoET).
+> ℹ️ Consulte outros erros de integração de pedidos de marketplace [nesse artigo](/pt/tutorial/porque-os-pedidos-do-marketplace-nao-integram-com-minha-loja--275YvF8dyry5KmfY9epoET).
 
 ## Preço do produto assumido pelo marketplace
 

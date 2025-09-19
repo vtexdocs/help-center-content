@@ -21,8 +21,8 @@ To provide a more approachable and simplified [inStore Setup](https://apps.vtex.
 
 Previously, users had to contact VTEX support to activate some inStore settings. In the new version, we improved the following:
 
-* [Intelligent Search](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG) installation is now provided by default, allowing filters and boosting search performance.
-* [Social Selling](https://help.vtex.com/en/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr/6deiffo22iKkY27PkfstXy) installation is also provided by default, allowing sellers using inStore to sell through the ecommerce store checkout.
+* [Intelligent Search](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG) installation is now provided by default, allowing filters and boosting search performance.
+* [Social Selling](/en/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr/6deiffo22iKkY27PkfstXy) installation is also provided by default, allowing sellers using inStore to sell through the ecommerce store checkout.
 * Payment methods Pix (Brazil) and PagarMe (Brazil) are now automatically configured.
 
 ## Why did we make this change?
@@ -37,7 +37,7 @@ If you want to implement these features in an existing store, please contact [ou
 
 For more information about inStore, see our documentation:
 
-* [inStore - First steps and configuration](https://help.vtex.com/en/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc#)
-* [inStore - Payments](https://help.vtex.com/en/tracks/instore-pagamentos--43B4Nr7uZva5UdwWEt3PEy#)
-* [inStore - Using the app](https://help.vtex.com/en/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr#)
-* [Unified commerce strategies](https://help.vtex.com/en/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv#)
+* [inStore - First steps and configuration](/en/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc#)
+* [inStore - Payments](/en/tracks/instore-pagamentos--43B4Nr7uZva5UdwWEt3PEy#)
+* [inStore - Using the app](/en/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr#)
+* [Unified commerce strategies](/en/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv#)

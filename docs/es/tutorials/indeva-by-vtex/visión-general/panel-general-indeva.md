@@ -15,4 +15,4 @@ locale: es
 subcategoryId: 1iNFZ3jKoIo5aOZtK4C1pO
 ---
 
-> ℹ️ Este contenido está disponible solo en [portugués](https://help.vtex.com/tutorial/painel-visao-geral-indeva--33ouhc7hiMiYevviUfm6wV). Haga clic aquí para acceder.
+> ℹ️ Este contenido está disponible solo en [portugués](/tutorial/painel-visao-geral-indeva--33ouhc7hiMiYevviUfm6wV). Haga clic aquí para acceder.

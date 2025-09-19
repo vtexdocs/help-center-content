@@ -25,4 +25,4 @@ This option will be chosen if you want to configure the marketplace to use the s
 
 As the marketplace does not demand a special term or price, it also does not need a new logistics configuration.
 
-So, just [link the sales policy already in use to the new marketplace](https://help.vtex.com/en/tutorial/configuring-a-marketplace-sales-policy/).
+So, just [link the sales policy already in use to the new marketplace](/en/tutorial/configuring-a-marketplace-sales-policy/).

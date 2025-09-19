@@ -20,7 +20,7 @@ To register a brand, follow these steps:
 1. In the VTEX Admin, go to __Catalog__, or type __Catalog__ in the search bar at the top of the page.
 2. Click on __Brands__.
 3. Click on `New Brand`.
-4. Fill in the [Brand registration fields](https://help.vtex.com/en/tutorial/brand-registration-fields--37Ky7lTbEkiWIAYA80EMyI).
+4. Fill in the [Brand registration fields](/en/tutorial/brand-registration-fields--37Ky7lTbEkiWIAYA80EMyI).
 5. Click on `Save`.
 
 ![ENcadastrarmarcas3.PNG?h=250](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/brands/registering-brands_1.png)

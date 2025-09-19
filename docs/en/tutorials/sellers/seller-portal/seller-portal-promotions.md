@@ -40,7 +40,7 @@ The **Promotions** page displays the following information in a table:
 
 ## Creating a new promotion
 
-To create a new promotion, click the `Create Promotion` button. For more information, read the guide [Seller Portal: Creating a promotion](https://help.vtex.com/en/tutorial/seller-portal-creating-a-promotion--kzNPEaiJE8EWkDzO9dbBI).
+To create a new promotion, click the `Create Promotion` button. For more information, read the guide [Seller Portal: Creating a promotion](/en/tutorial/seller-portal-creating-a-promotion--kzNPEaiJE8EWkDzO9dbBI).
 
 ## Searching for promotions
 

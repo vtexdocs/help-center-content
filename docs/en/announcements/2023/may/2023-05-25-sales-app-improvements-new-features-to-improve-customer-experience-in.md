@@ -22,7 +22,7 @@ We have developed new features for [Sales App](https://apps.vtex.com/vtex-instor
 Aiming to improve customers' shopping experience in physical stores, we have introduced new features for Sales App. Check out the main improvements:
 
 * **HTML in product description:** Now product descriptions can contain HTML, which provides a more flexible and dynamic way to present information.
-* **Local stock sale:** Allows sellers to complete a purchase using Sales App, without having to go through the checkout process. Furthermore, Sales App allows sellers to group in a single transaction products for delivery with others that can be picked up immediately. Learn more in [Enabling Local stock sale in VTEX Sales App](https://help.vtex.com/en/tutorial/enabling-on-hands-in-vtex-sales-app--54eQN4rOH5yBYPGG2w8v9q).
+* **Local stock sale:** Allows sellers to complete a purchase using Sales App, without having to go through the checkout process. Furthermore, Sales App allows sellers to group in a single transaction products for delivery with others that can be picked up immediately. Learn more in [Enabling Local stock sale in VTEX Sales App](/en/tutorial/enabling-on-hands-in-vtex-sales-app--54eQN4rOH5yBYPGG2w8v9q).
 * **Similar product suggestions:** Displays similar products on the product page, offering a wider variety of products and diversifying the range of available options.
 * **Other offers**: Displays the best price available on the product page, including prices from both the online store and other physical stores.
 
@@ -30,14 +30,14 @@ Aiming to improve customers' shopping experience in physical stores, we have int
 
 The **HTML features in the product description** and **Other offers** will be automatically applied to all VTEX stores that use Sales App.
 
-To implement **Similar product suggestions**, follow the steps in the article [Configuring similar products, suggestions, accessories, and generics](https://help.vtex.com/en/tutorial/configurando-produto-similar-sugestoes-acessorios-e-genericos--tutorials_280).
+To implement **Similar product suggestions**, follow the steps in the article [Configuring similar products, suggestions, accessories, and generics](/en/tutorial/configurando-produto-similar-sugestoes-acessorios-e-genericos--tutorials_280).
 
-To set up **Local stock sale** in your store, please refer to the article [Enabling Local stock sale in VTEX Sales App](https://help.vtex.com/en/tutorial/enabling-on-hands-in-vtex-sales-app--54eQN4rOH5yBYPGG2w8v9q).
+To set up **Local stock sale** in your store, please refer to the article [Enabling Local stock sale in VTEX Sales App](/en/tutorial/enabling-on-hands-in-vtex-sales-app--54eQN4rOH5yBYPGG2w8v9q).
 
 For more information about Sales App, see the following documentation:
 
-* [Sales App - First steps and setting up](https://help.vtex.com/en/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc)
-* [Sales App - Payments](https://help.vtex.com/en/tracks/instore-pagamentos--43B4Nr7uZva5UdwWEt3PEy)
-* [Sales App - Using the app](https://help.vtex.com/en/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr)
-* [Unified Commerce Strategies](https://help.vtex.com/en/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv)
+* [Sales App - First steps and setting up](/en/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc)
+* [Sales App - Payments](/en/tracks/instore-pagamentos--43B4Nr7uZva5UdwWEt3PEy)
+* [Sales App - Using the app](/en/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr)
+* [Unified Commerce Strategies](/en/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv)
 

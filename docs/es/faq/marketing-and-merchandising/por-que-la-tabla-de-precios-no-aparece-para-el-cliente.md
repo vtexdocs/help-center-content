@@ -35,4 +35,4 @@ Finalmente, regrese al panel inicial.
 5. Busque el __SKU__ deseado.
 6. Confirme que la __Price Table__ tiene el precio registrado.
 
-Para saber más sobre este tema, leia o artigo [Configuración de Tablas de Precios para usuarios específicos](https://help.vtex.com/es/tutorial/configuracion-de-tablas-de-precios-para-usuarios-especificos-con-session--5S9oDOMHNmY4K0kAewAiWY).
+Para saber más sobre este tema, leia o artigo [Configuración de Tablas de Precios para usuarios específicos](/es/tutorial/configuracion-de-tablas-de-precios-para-usuarios-especificos-con-session--5S9oDOMHNmY4K0kAewAiWY).

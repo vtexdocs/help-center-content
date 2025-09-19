@@ -24,7 +24,7 @@ To use the easypay affiliation in your marketplace, you need to:
 - [Configure the easypay webhook](#configure-the-easypay-webhook)
 - [Configure the easypay affiliation](#configure-the-easypay-affiliation)  
 
-> ⚠️ If your store is not a marketplace, read [Setting up payment with easypay](https://help.vtex.com/en/tutorial/setting-up-payments-with-easypay--3xJQqjMIn0ARDI1HcwK88J) or [Setting up payments with easypay seller](https://help.vtex.com/en/tutorial/setting-up-payments-with-easypay-seller--5mYMCM1tiRiZO6PozuUncE).
+> ⚠️ If your store is not a marketplace, read [Setting up payment with easypay](/en/tutorial/setting-up-payments-with-easypay--3xJQqjMIn0ARDI1HcwK88J) or [Setting up payments with easypay seller](/en/tutorial/setting-up-payments-with-easypay-seller--5mYMCM1tiRiZO6PozuUncE).
 
 ## Install the easypay app
 
@@ -225,9 +225,9 @@ To configure the easypay affiliation, follow the steps below:
 6. In __Enable payout split and sending payment recipients?__, select __Yes__.
 7. Click `Save`.
 
-To configure the payment methods that easypay will process, read the [Configuring payment conditions](https://help.vtex.com/en/tutorial/how-to-configure-payment-conditions) article.
+To configure the payment methods that easypay will process, read the [Configuring payment conditions](/en/tutorial/how-to-configure-payment-conditions) article.
 
-To set special conditions for payment methods, read [Configuring payment special conditions](https://help.vtex.com/en/tutorial/special-conditions--tutorials_456).
+To set special conditions for payment methods, read [Configuring payment special conditions](/en/tutorial/special-conditions--tutorials_456).
 
 After following the instructions, it can take up to 10 minutes for the easypay connector to be displayed as a payment option at your store checkout.  
 (https://help.vtex.com/pt/tutorial/condicoes-especiais--tutorials_456#).

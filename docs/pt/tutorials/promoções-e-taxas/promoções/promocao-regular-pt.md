@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
-A VTEX permite a [criação de diferentes tipos de promoção](https://help.vtex.com/pt/tutorial/como-criar-promocoes--tutorials_320#como-criar-promocoes) para atender a variados cenários comerciais, sendo a **Promoção Regular** a mais comum. Esse tipo de promoção oferece uma forma estruturada de conceder descontos, permitindo a combinação de múltiplas condições, restrições de uso e benefícios.
+A VTEX permite a [criação de diferentes tipos de promoção](/pt/tutorial/como-criar-promocoes--tutorials_320#como-criar-promocoes) para atender a variados cenários comerciais, sendo a **Promoção Regular** a mais comum. Esse tipo de promoção oferece uma forma estruturada de conceder descontos, permitindo a combinação de múltiplas condições, restrições de uso e benefícios.
 
 Para configurar a Promoção Regular, siga os passos abaixo:
 
@@ -115,9 +115,9 @@ Nesta seção, você define os critérios que precisam ser atendidos para que a 
 - **Preço do item**: aplique a promoção apenas a itens com valor unitário dentro do intervalo configurado.  
 - **Preço de lista**: considere o valor original do produto (sem descontos) para validar a aplicação da promoção.  
 - **Número do BIN do cartão:** aplique a promoção apenas quando o cartão utilizado pertencer a uma bandeira, banco ou categoria identificada por um número BIN específico. Importe um arquivo `.txt` ou `.csv` com a lista de BINs, informando um número por linha.  
-- **Tags de marketing**: aplique a promoção quando a compra for realizada por meio do [módulo de assinaturas](https://help.vtex.com/pt/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453) da VTEX.  
-- **Afiliados**: selecione os afiliados marketplaces ou parceiros elegíveis para a promoção. Para mais informações acesse [O que é afiliado](https://help.vtex.com/pt/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0).  
-- **Cluster de clientes:** selecione um [cluster de clientes](https://help.vtex.com/pt/tutorial/desconto-progressivo--tutorials_324) já criado no Master Data, seguindo o formato `field=value` ou `field contains value`. Escolha uma das seguintes opções:  
+- **Tags de marketing**: aplique a promoção quando a compra for realizada por meio do [módulo de assinaturas](/pt/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453) da VTEX.  
+- **Afiliados**: selecione os afiliados marketplaces ou parceiros elegíveis para a promoção. Para mais informações acesse [O que é afiliado](/pt/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0).  
+- **Cluster de clientes:** selecione um [cluster de clientes](/pt/tutorial/desconto-progressivo--tutorials_324) já criado no Master Data, seguindo o formato `field=value` ou `field contains value`. Escolha uma das seguintes opções:  
   - **Todos os seguintes**: aplique a promoção apenas se todos os critérios do cluster forem atendidos.  
   - **Pelo menos um dos seguintes:** aplique a promoção se pelo menos um dos critérios do cluster for atendido.  
 - **Local de entrega:** aplica a promoção com base no endereço de entrega associado ao pedido. As condições podem ser configuradas utilizando os seguintes critérios:  
@@ -134,14 +134,14 @@ Nesta seção, você define os critérios que precisam ser atendidos para que a 
 
 > ℹ️ Essa condição não se aplica a pagamentos via boleto, vale-presente ou pedidos com mais de um meio de pagamento.
 
-- **UTM:** aplique a promoção quando o acesso à loja for feito por uma URL com parâmetros UTM ou quando o cliente usar um cupom vinculado a esses parâmetros. Use apenas letras, números, hífens e *underscores* ao definir os valores dos campos UTM. Para mais detalhes, consulte o artigo [Rastreamento de campanhas com parâmetros UTM](https://help.vtex.com/pt/tutorial/o-que-sao-utm_source-utm_campaign-e-utm_medium).
+- **UTM:** aplique a promoção quando o acesso à loja for feito por uma URL com parâmetros UTM ou quando o cliente usar um cupom vinculado a esses parâmetros. Use apenas letras, números, hífens e *underscores* ao definir os valores dos campos UTM. Para mais detalhes, consulte o artigo [Rastreamento de campanhas com parâmetros UTM](/pt/tutorial/o-que-sao-utm_source-utm_campaign-e-utm_medium).
 
 **Defina os parâmetros abaixo, se necessário:**
 
 - **Utm_source:** permite o desconto quando a navegação for realizada com a utm_source configurada.  
 - **Utm_campaign:** permite o desconto quando a navegação for realizada com o parâmetro utm_campaign configurado.  
 - **Criar cupom a partir dos parâmetros UTM acima:** gere um cupom com base nos parâmetros UTM inseridos nos campos `UTM_source` e `UTM_campaign`.  
-- **Utmi_cp:** o desconto será aplicado apenas se a navegação incluir o parâmetro `utmi_cp` com o valor cadastrado. Para mais detalhes, consulte o artigo [O que são as UTMs internas utmi_cp, utmi_pc e utmi_p](https://help.vtex.com/pt/tutorial/what-are-the-internal-utms).  
+- **Utmi_cp:** o desconto será aplicado apenas se a navegação incluir o parâmetro `utmi_cp` com o valor cadastrado. Para mais detalhes, consulte o artigo [O que são as UTMs internas utmi_cp, utmi_pc e utmi_p](/pt/tutorial/what-are-the-internal-utms).  
 - **Ver cupons vinculados:** permite visualizar os cupons que já foram associados aos parâmetros UTM definidos.
 
 ## Configurar restrições para o uso da promoção
@@ -158,13 +158,13 @@ Use esta seção para limitar quantas vezes a promoção pode ser aplicada na lo
 
 Defina se a promoção pode ser aplicada junto com outras promoções ou com preços ajustados manualmente. Essas configurações controlam como a promoção se comporta em cenários combinados.
 
-- **Permitir acumular com outras promoções:** permite combinar esta promoção com outras que estejam ativas no mesmo pedido. Por padrão, a promoção já acumula descontos de frete e brindes. Para mais detalhes, consulte o artigo [Como funciona a concorrência de promoções](https://help.vtex.com/pt/tutorial/entendendo-a-concorrencia-de-promocoes--tutorials_2270).  
+- **Permitir acumular com outras promoções:** permite combinar esta promoção com outras que estejam ativas no mesmo pedido. Por padrão, a promoção já acumula descontos de frete e brindes. Para mais detalhes, consulte o artigo [Como funciona a concorrência de promoções](/pt/tutorial/entendendo-a-concorrencia-de-promocoes--tutorials_2270).  
 - **Permitir acumular com preços manuais**: permite que a promoção seja aplicada mesmo quando o produto já possui um preço definido manualmente.
 
 ## Destacar a promoção na página de produto
 
 Use esta seção para destacar a promoção visualmente nos produtos exibidos na vitrine da loja.
 
-- **Destacar promoção nos produtos:** ative esta opção para exibir um selo promocional nos produtos afetados pela promoção. Para que o destaque funcione corretamente, é necessário [configurar a exibição no módulo CMS da loja](https://help.vtex.com/pt/tutorial/configurando-promocao-com-destaque-flag--tutorials_2295).  
+- **Destacar promoção nos produtos:** ative esta opção para exibir um selo promocional nos produtos afetados pela promoção. Para que o destaque funcione corretamente, é necessário [configurar a exibição no módulo CMS da loja](/pt/tutorial/configurando-promocao-com-destaque-flag--tutorials_2295).  
 - **Informações adicionais:** clique em `Criar` para adicionar campos personalizados com nome e valor, que podem ser usados para customizações na loja.
 

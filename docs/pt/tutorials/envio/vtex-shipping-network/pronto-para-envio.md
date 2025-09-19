@@ -17,9 +17,9 @@ subcategoryId: 5n5MnINzWTQUX1I2EZl4Ib
 
 > ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Caso tenha interesse em adotar essa funcionalidade no seu negócio, acesse o site [VTEX Shipping Network](https://vtex.com/br-pt/shipping-network/).
 
-> ⚠️ O [VTEX Shipping Network Correios](https://help.vtex.com/pt/tutorial/vtex-shipping-network-correios-faq--2Wavf7Wie5GEUAEHKtn5oC) integra sua operação com os serviços PAC e SEDEX do contrato VTEX junto aos Correios, e o [VTEX Shipping Network](https://vtex.com/br-pt/shipping-network/) integra a sua operação com os Correios e outras transportadoras. Com ambas as soluções você pode usar as funcionalidades:<ul><li>[Painel VTEX Shipping Network](https://help.vtex.com/pt/tutorial/painel-vtex-shipping-network--51e8tx1IehiN4ZtURRWU92)</li><li>[Entregas Correios](https://help.vtex.com/pt/tutorial/entregas-correios-vtex-shipping-network--5CZRA0lq60EecmwZpsjvfq)</li><li>Pronto para envio</li></ul>
+> ⚠️ O [VTEX Shipping Network Correios](/pt/tutorial/vtex-shipping-network-correios-faq--2Wavf7Wie5GEUAEHKtn5oC) integra sua operação com os serviços PAC e SEDEX do contrato VTEX junto aos Correios, e o [VTEX Shipping Network](https://vtex.com/br-pt/shipping-network/) integra a sua operação com os Correios e outras transportadoras. Com ambas as soluções você pode usar as funcionalidades:<ul><li>[Painel VTEX Shipping Network](/pt/tutorial/painel-vtex-shipping-network--51e8tx1IehiN4ZtURRWU92)</li><li>[Entregas Correios](/pt/tutorial/entregas-correios-vtex-shipping-network--5CZRA0lq60EecmwZpsjvfq)</li><li>Pronto para envio</li></ul>
 
-Quando um pedido está pronto para o envio e com a nota fiscal inserida na plataforma ([faturado](https://help.vtex.com/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/2WgQrlHTyVo4hLjhUs1LMT)), a loja providencia a etiqueta de envio e notifica a transportadora que o envio deve ser feito.
+Quando um pedido está pronto para o envio e com a nota fiscal inserida na plataforma ([faturado](/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/2WgQrlHTyVo4hLjhUs1LMT)), a loja providencia a etiqueta de envio e notifica a transportadora que o envio deve ser feito.
 
 Para gerar etiquetas padronizadas e notificar as transportadoras do envio automaticamente, o [VTEX Shipping Network](https://vtex.com/br-pt/shipping-network/) tem a funcionalidade **Pronto para envio**.
 
@@ -34,7 +34,7 @@ Para emitir etiquetas pelo seu Admin VTEX, acesse **Envio > Pronto para envio**,
 * Imprimir uma nova etiqueta de envio, na aba [Pronto para etiquetar](#pronto-para-etiquetar).
 * Acessar etiquetas impressas previamente, na aba [Pacotes enviados](#pacotes-enviados).
 
-> ℹ️ O pedido só aparecerá em **Pronto para envio** após o [status](https://help.vtex.com/pt/tutorial/fluxo-e-status-de-pedidos--tutorials_196#tabela-de-status-de-pedidos) *faturado*. Não é possível gerar a etiqueta de um pedido não faturado.
+> ℹ️ O pedido só aparecerá em **Pronto para envio** após o [status](/pt/tutorial/fluxo-e-status-de-pedidos--tutorials_196#tabela-de-status-de-pedidos) *faturado*. Não é possível gerar a etiqueta de um pedido não faturado.
 
 ## Aba Pronto para etiquetar 
 
@@ -46,7 +46,7 @@ Para buscar por pedidos específicos, você pode:
 * Utilizar os seguintes filtros:
     * **Data:** data em que a fatura foi inserida no pedido.
     * **Origem:** seller relacionado ao pedido.
-    * **Transportadora:** a [transportadora](https://help.vtex.com/pt/tutorial/transportadoras-na-vtex--7u9duMD5UQa2QQwukAWMcE), ou seja, a empresa responsável pelo envio dos pacotes do pedido.
+    * **Transportadora:** a [transportadora](/pt/tutorial/transportadoras-na-vtex--7u9duMD5UQa2QQwukAWMcE), ou seja, a empresa responsável pelo envio dos pacotes do pedido.
 
 A busca exibe apenas os pacotes que ainda não foram enviados, e eles estão organizados por:
 
@@ -63,7 +63,7 @@ Você pode organizar a lista de pacotes de duas formas, clicando nas opções ao
 * `Data da criação`: ordena pela data em que os pedidos foram criados.
 * `Data da fatura`: ordena pela data em que as notas fiscais foram criadas.
 
-> ⚠️ O **Pronto para envio** emite etiquetas para todos os [pedidos faturados](https://help.vtex.com/pt/tutorial/faturar-um-pedido-manualmente--7p1h852V5t54KyscpgxE2v) no Admin VTEX cujos itens foram referenciados na nota fiscal, seja via API no ERP ou manualmente. No entanto, apenas as etiquetas de transportadoras vinculadas ao **VTEX Shipping Network** possuem layout e rastreabilidade válidos via API.
+> ⚠️ O **Pronto para envio** emite etiquetas para todos os [pedidos faturados](/pt/tutorial/faturar-um-pedido-manualmente--7p1h852V5t54KyscpgxE2v) no Admin VTEX cujos itens foram referenciados na nota fiscal, seja via API no ERP ou manualmente. No entanto, apenas as etiquetas de transportadoras vinculadas ao **VTEX Shipping Network** possuem layout e rastreabilidade válidos via API.
 
 ### Impressão de etiquetas
 
@@ -112,7 +112,7 @@ Na aba `Pacotes enviados`, para buscar por pedidos na lista de pacotes com etiqu
 * Utilizar os seguintes filtros:
     * **Data:** data em que a fatura foi inserida no pedido.
     * **Origem:** seller relacionado ao pedido.
-    * **Transportadora:** a [transportadora](https://help.vtex.com/pt/tutorial/transportadoras-na-vtex--7u9duMD5UQa2QQwukAWMcE), ou seja, a empresa responsável pelo envio dos pacotes do pedido.
+    * **Transportadora:** a [transportadora](/pt/tutorial/transportadoras-na-vtex--7u9duMD5UQa2QQwukAWMcE), ou seja, a empresa responsável pelo envio dos pacotes do pedido.
 
 A lista tem as seguintes colunas:
 
@@ -141,6 +141,6 @@ Para baixar novamente as etiquetas e notfis, realize os passos abaixo:
 
 ## Saiba mais
 
-* [VTEX Shipping Network: Entregas Correios](https://help.vtex.com/pt/tutorial/entregas-correios-vtex-shipping-network--5CZRA0lq60EecmwZpsjvfq)
-* [VTEX Shipping Network: Painel](https://help.vtex.com/pt/tutorial/painel-vtex-shipping-network--51e8tx1IehiN4ZtURRWU92)
-* [VTEX Shipping Network Correios: FAQ](https://help.vtex.com/pt/tutorial/vtex-shipping-network-correios-faq--2Wavf7Wie5GEUAEHKtn5oC)
+* [VTEX Shipping Network: Entregas Correios](/pt/tutorial/entregas-correios-vtex-shipping-network--5CZRA0lq60EecmwZpsjvfq)
+* [VTEX Shipping Network: Painel](/pt/tutorial/painel-vtex-shipping-network--51e8tx1IehiN4ZtURRWU92)
+* [VTEX Shipping Network Correios: FAQ](/pt/tutorial/vtex-shipping-network-correios-faq--2Wavf7Wie5GEUAEHKtn5oC)

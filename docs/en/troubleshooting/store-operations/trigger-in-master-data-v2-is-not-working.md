@@ -40,7 +40,7 @@ Follow the instructions in the guide [Setting up triggers in Master Data v2](htt
 * If the trigger is associated with a specific entity or operation, make sure these conditions are met.  
 * Verify that the data entity exists and is properly configured in Master Data v2. Data entities in Master Data v1 and v2 are independent, so documents created in Master Data v1 cannot be accessed or edited using Master Data v2 resources, and vice versa.  
 
-  To test triggers with Master Data v1 entities, follow the [instructions for setting up triggers in Master Data v1](https://help.vtex.com/en/tutorial/criando-trigger-no-master-data--tutorials_1270).
+  To test triggers with Master Data v1 entities, follow the [instructions for setting up triggers in Master Data v1](/en/tutorial/criando-trigger-no-master-data--tutorials_1270).
 
 ### Test the endpoint independently
 
@@ -51,7 +51,7 @@ Manually send a request to the endpoint using a tool like **Postman**. This will
 
 ### Check permissions and authentication
 
-* Make sure your [credentials](https://help.vtex.com/en/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet) have the appropriate [permissions](https://help.vtex.com/en/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) to send requests to the specified endpoint.  
+* Make sure your [credentials](/en/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet) have the appropriate [permissions](/en/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) to send requests to the specified endpoint.  
 * If the trigger makes a request to an external endpoint, check if no additional authentication or security headers are required for the target endpoint.
 
-If none of these solutions resolve the issue, please contact our [Support](https://help.vtex.com/en/faq/como-funciona-o-suporte-da-vtex--3kACEfni4m8Yxa1vnf2ebe).
+If none of these solutions resolve the issue, please contact our [Support](/en/faq/como-funciona-o-suporte-da-vtex--3kACEfni4m8Yxa1vnf2ebe).

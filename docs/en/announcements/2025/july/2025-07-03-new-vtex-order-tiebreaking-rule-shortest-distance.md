@@ -15,16 +15,16 @@ announcementImageID: 'undefined'
 announcementSynopsisEN: 'A new tie-breaking rule on VTEX prioritizes sellers with closer delivery to buyers.'
 ---
 
-To enhance buyer experience, we've implemented a new rule for the last tie-breaker criterion in [VTEX order allocation](https://help.vtex.com/en/tutorial/white-label-sellers-selection--3MemNQ4pKkWCpMdzI27AHa). Starting July 7, 2025, instead of selecting a seller randomly, the system will prioritize the shortest distance between seller and buyer.
+To enhance buyer experience, we've implemented a new rule for the last tie-breaker criterion in [VTEX order allocation](/en/tutorial/white-label-sellers-selection--3MemNQ4pKkWCpMdzI27AHa). Starting July 7, 2025, instead of selecting a seller randomly, the system will prioritize the shortest distance between seller and buyer.
 
 ## What has changed?
 
 The current order allocation flow follows these steps:
 
-1. Sellers who don't serve the [order location](https://help.vtex.com/en/tutorial/configure-seller-regionalization--32t6wLpQCEnumoh8TjT5fw) or lack sufficient stock for at least one item in the cart are removed.
+1. Sellers who don't serve the [order location](/en/tutorial/configure-seller-regionalization--32t6wLpQCEnumoh8TjT5fw) or lack sufficient stock for at least one item in the cart are removed.
 2. The number of sellers is reduced to 12 based on:
-    * **For delivery**: Lowest shipping cost (from the [shipping table](https://help.vtex.com/en/tutorial/shipping-rate-template--tutorials_127)) and shortest delivery time.
-    * **For pickup**: Lowest shipping cost (from the [shipping table](https://help.vtex.com/en/tutorial/shipping-rate-template--tutorials_127)), delivery time, and shortest distance from the shopper to the pickup point.
+    * **For delivery**: Lowest shipping cost (from the [shipping table](/en/tutorial/shipping-rate-template--tutorials_127)) and shortest delivery time.
+    * **For pickup**: Lowest shipping cost (from the [shipping table](/en/tutorial/shipping-rate-template--tutorials_127)), delivery time, and shortest distance from the shopper to the pickup point.
     * Stock quantity as a tie-breaking criterion.
 3. Among the up to 12 selected sellers, prioritization is based on:
     * Lowest item total and highest cart availability.

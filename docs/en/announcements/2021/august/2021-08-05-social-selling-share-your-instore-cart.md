@@ -23,7 +23,7 @@ By using inStore Social Selling, you can create activation actions for a specifi
 
 ## What has changed?
 
-Previously, cart sharing wasn’t possible on inStore, [only through ecommerce](https://help.vtex.com/en/tutorial/how-to-use-the-shareable-cart-app--3ePPpkmeZ96GXbeIoGZbTN).
+Previously, cart sharing wasn’t possible on inStore, [only through ecommerce](/en/tutorial/how-to-use-the-shareable-cart-app--3ePPpkmeZ96GXbeIoGZbTN).
 
 With inStore Social Selling, your physical store sales reps can select products and generate a link to share the **Cart Suggestion** with one or more customers via WhatsApp, as shown below. It is also possible to copy the link and share it on other social media.
 
@@ -45,4 +45,4 @@ The goal of this feature is to empower physical store sales reps and enable sale
 
 To use inStore Social Selling, you need to [contact the VTEX support team](https://support.vtex.com/hc/pt-br/requests) and request the installation.
 
-Check out the article [Sharing Cart using inStore Social Selling](https://help.vtex.com/en/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr/6deiffo22iKkY27PkfstXy) for more information.
+Check out the article [Sharing Cart using inStore Social Selling](/en/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr/6deiffo22iKkY27PkfstXy) for more information.

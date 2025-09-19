@@ -19,7 +19,7 @@ A página **Configuração da busca** compreende os ajustes globais do VTEX Inte
 
 ## Configurações gerais
 
-As configurações gerais apresentam as opções a seguir, relacionadas a [especificações de produtos e de SKUs](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP):
+As configurações gerais apresentam as opções a seguir, relacionadas a [especificações de produtos e de SKUs](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP):
 
 * **Use as especificações de SKU para exibir produtos individuais nos resultados da pesquisa**: define quais especificações vão separar os SKUs no resultado de busca.
 
@@ -27,7 +27,7 @@ As configurações gerais apresentam as opções a seguir, relacionadas a [espec
 
     Para adicionar uma especificação, clique na barra da funcionalidade e selecione a especificação desejada.
 
-    Confira o guia [Separar SKUs por especificação](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5uVxuWxTA8VvLX3G8UCcUE) para mais detalhes sobre o comportamento dessa configuração. 
+    Confira o guia [Separar SKUs por especificação](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5uVxuWxTA8VvLX3G8UCcUE) para mais detalhes sobre o comportamento dessa configuração. 
 
 * **Especificações pesquisáveis:** determina quais especificações terão valores pesquisáveis na busca.
 

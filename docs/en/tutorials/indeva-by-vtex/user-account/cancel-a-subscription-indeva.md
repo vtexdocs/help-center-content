@@ -15,4 +15,4 @@ locale: en
 subcategoryId: 1kLZWFCmluavm21LygmQA0
 ---
 
-> ℹ️ This content is only available in Portuguese. [Click here](https://help.vtex.com/pt/tutorial/cancelar-uma-assinatura-indeva--4IGrnDRLpzWNiE0PPgWJVk) to access it.
+> ℹ️ This content is only available in Portuguese. [Click here](/pt/tutorial/cancelar-uma-assinatura-indeva--4IGrnDRLpzWNiE0PPgWJVk) to access it.

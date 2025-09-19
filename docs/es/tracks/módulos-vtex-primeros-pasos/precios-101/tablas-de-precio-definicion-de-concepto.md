@@ -19,13 +19,13 @@ order: 3
 
 Una tabla de precios es un conjunto de precios de SKUs que se aplican a un contexto específico. Esta tabla almacena la información de los precios, haciéndolos visibles en la tienda.
 
-Podemos considerar una tabla de precios como una entidad que proporciona los [precios calculados](https://help.vtex.com/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/7GptzvlPDVM11ojEjywIQx#preco-computado) de los SKUs.
+Podemos considerar una tabla de precios como una entidad que proporciona los [precios calculados](/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/7GptzvlPDVM11ojEjywIQx#preco-computado) de los SKUs.
 
 ## Relación entre Tablas de Precios y Políticas Comerciales
 
-Las tablas de precios y las [políticas comerciales](https://help.vtex.com/es/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) tienen finalidades distintas. Las tablas de precios contienen los precios específicos de los SKUs y determinan cuánto cuesta cada ítem en un contexto. Las políticas comerciales definen el contexto de venta, indicando quién verá el precio y dónde se mostrará.
+Las tablas de precios y las [políticas comerciales](/es/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) tienen finalidades distintas. Las tablas de precios contienen los precios específicos de los SKUs y determinan cuánto cuesta cada ítem en un contexto. Las políticas comerciales definen el contexto de venta, indicando quién verá el precio y dónde se mostrará.
 
-Cuando no están vinculadas a políticas comerciales, estas tablas pueden aplicarse en contextos como [promociones](https://help.vtex.com/es/tutorial/criar-promocoes--tutorials_320) y [clúster de clientes](https://help.vtex.com/es/tutorial/criando-promocao-para-um-cluster-de-clientes--tutorials_342). Sin embargo, si se crean para atender una política comercial, deben asociarse exclusivamente a la política correspondiente. 
+Cuando no están vinculadas a políticas comerciales, estas tablas pueden aplicarse en contextos como [promociones](/es/tutorial/criar-promocoes--tutorials_320) y [clúster de clientes](/es/tutorial/criando-promocao-para-um-cluster-de-clientes--tutorials_342). Sin embargo, si se crean para atender una política comercial, deben asociarse exclusivamente a la política correspondiente. 
 
 > ℹ️ Una tabla vinculada a una política comercial define el precio de los SKUs para ese contexto de venta específico y no puede utilizarse en otros contextos.
 

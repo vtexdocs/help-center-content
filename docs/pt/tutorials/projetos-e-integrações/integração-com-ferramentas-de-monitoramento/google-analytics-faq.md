@@ -19,7 +19,7 @@ Confira abaixo algumas das dúvidas mais frequentes acerca de Google Analytics p
 
 ## Como instalar o Google Analytics na sua loja?
 
-A instalação é feita através do [Google Tag Manager](https://help.vtex.com/tutorial/integracao-com-o-google-tag-manager#), como descrita no artigo [Configurar Google Analytics em loja VTEX](https://help.vtex.com/pt/tutorial/how-to-setup-google-analytics-in-vtex-store--G2P0rmSrEiqCcmUMyUUwG#).
+A instalação é feita através do [Google Tag Manager](/tutorial/integracao-com-o-google-tag-manager#), como descrita no artigo [Configurar Google Analytics em loja VTEX](/pt/tutorial/how-to-setup-google-analytics-in-vtex-store--G2P0rmSrEiqCcmUMyUUwG#).
 
 ## De onde vêm os dados exibidos no Google Analytics? O que são tags do Google?
 
@@ -56,7 +56,7 @@ Além disso, integrações podem ser construídas de modo que acabem não dispar
 
 ### Atribuição de vendas
 
-É normal que existam diferenças entre a atribuição nas visualizações de dados da plataforma VTEX e no Google Analytics, pois são ferramentas diferentes com [modelos de atribuição](https://help.vtex.com/pt/tutorial/google-analytics-faq--2VRtB07muo3vwO6KEmMVn0#o-que-sao-modelos-de-atribuicao) diferentes e que captam informações através de cookies diferentes.
+É normal que existam diferenças entre a atribuição nas visualizações de dados da plataforma VTEX e no Google Analytics, pois são ferramentas diferentes com [modelos de atribuição](/pt/tutorial/google-analytics-faq--2VRtB07muo3vwO6KEmMVn0#o-que-sao-modelos-de-atribuicao) diferentes e que captam informações através de cookies diferentes.
 
 As informações de UTM reconhecidas pela VTEX podem ser verificadas no painel de ferramentas de desenvolvedor do seu navegador, no objeto `marketingData` do [OrderForm](https://developers.vtex.com/docs/guides/orderform-fields). Saiba mais neste artigo sobre [UTMs de marketing no Checkout](https://developers.vtex.com/docs/guides/check-marketing-utms-used-at-checkout).
 
@@ -85,7 +85,7 @@ Já o Google Analytics disponibiliza um funil de vendas gerado automaticamente, 
 
 Por serem baseados em informações diferentes, essas visualizações de funil podem apresentar divergências.
 
-Você pode configurar um outro funil de vendas no Google Analytics, que possibilita uma visão customizada e melhor controle da jornada de compra. Confira este artigo sobre como [implementar este funil de vendas no Google Analytics](https://help.vtex.com/en/tutorial/configurar-funil-de-vendas-no-google-analytics#).
+Você pode configurar um outro funil de vendas no Google Analytics, que possibilita uma visão customizada e melhor controle da jornada de compra. Confira este artigo sobre como [implementar este funil de vendas no Google Analytics](/en/tutorial/configurar-funil-de-vendas-no-google-analytics#).
 
 ## O que é o funil de vendas do Google Analytics?
 

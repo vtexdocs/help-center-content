@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
-In this article, you will find the step-by-step instructions to create subscription promotions in [regular promotions](https://help.vtex.com/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI). 
+In this article, you will find the step-by-step instructions to create subscription promotions in [regular promotions](/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI). 
 
 1. Access the **Promotions & Taxes** module.
 2. Click on **Promotions**.
@@ -45,6 +45,6 @@ Configure the frequency and cycle correctly to ensure that the promotion is appl
 > ℹ️  You cannot configure UTM promotions and subscription promotions using coupons on recurring orders. Coupons can only be applied to first orders.
 
 <ol start="6">
-<li> Fill in the [fields of this promotion](https://help.vtex.com/en/tutorial/regular-promotion--tutorials_327).</li><br>
+<li> Fill in the [fields of this promotion](/en/tutorial/regular-promotion--tutorials_327).</li><br>
 <li>Click on <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">Save</span> to finish.</li>
 </ol>

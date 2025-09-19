@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 2t00bBkcAwIkgSCGKsMOwY
 ---
 
-Whenever an order is not listed on the [All Orders](https://help.vtex.com/en/tutorial/todos-os-pedidos--2QTduKHAJMFIZ3BAsi6Pi) page with no filter, it may be incomplete.
+Whenever an order is not listed on the [All Orders](/en/tutorial/todos-os-pedidos--2QTduKHAJMFIZ3BAsi6Pi) page with no filter, it may be incomplete.
 
 The incomplete status arises when all the information about the order has not been completed for finalization on the platform.
 
@@ -45,4 +45,4 @@ Customer desists from finalizing the purchase after clicking on the finalize pur
 
 ## How to identify these orders?
 
-On the **All Orders** page, the [filters](https://help.vtex.com/pt/tutorial/filtrar-todos-pedidos--tutorials_192) include the tab **Status**, with the **Completed Status** options. If you mark the option `Incomplete`, all orders in this situation will be displayed.
+On the **All Orders** page, the [filters](/pt/tutorial/filtrar-todos-pedidos--tutorials_192) include the tab **Status**, with the **Completed Status** options. If you mark the option `Incomplete`, all orders in this situation will be displayed.

@@ -25,7 +25,7 @@ Na dashboard em **Integrações”**, clique em **Ver todas as integrações*
 
 Selecione o Bitrix24 sales e clique em **Integrar**.
 
-Selecione o [formulário de captura](https://help.vtex.com/pt/tutorial/formulario-de-captura--6NJ6JyS3x5P2iWEZGadHAo) que deseja conectar.
+Selecione o [formulário de captura](/pt/tutorial/formulario-de-captura--6NJ6JyS3x5P2iWEZGadHAo) que deseja conectar.
 
 ![Bitrix24_2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/bitrix24_2.png)
 

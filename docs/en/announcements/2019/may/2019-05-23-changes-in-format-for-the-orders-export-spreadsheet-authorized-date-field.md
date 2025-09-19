@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisEN: 'New `Authorized Date` field format ensures an easier and clearer understanding of the date when the order was authorized'
 ---
 
-Starting June 12<sup>th<sup>, 2019, we will change the format of the `Authorized Date` field, found in the [orders report](https://help.vtex.com/en/tutorial/exportando-pedidos-no-gerenciamento-de-pedidos--tutorials_6417) which is exported from the Order Management module.
+Starting June 12<sup>th<sup>, 2019, we will change the format of the `Authorized Date` field, found in the [orders report](/en/tutorial/exportando-pedidos-no-gerenciamento-de-pedidos--tutorials_6417) which is exported from the Order Management module.
 
 ## Key Advantages 
 

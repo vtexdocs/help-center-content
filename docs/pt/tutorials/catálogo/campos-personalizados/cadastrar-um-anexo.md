@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 1hoOi2R0Rm6ky0yCwOUoiy
 ---
 
-O objetivo de um anexo é [complementar o produto com uma informação personalizada](https://help.vtex.com/pt/tutorial/o-que-e-um-anexo--aGICk0RVbqKg6GYmQcWUm). Para cadastrar um anexo, você precisa seguir o passo a passo abaixo no Admin VTEX.
+O objetivo de um anexo é [complementar o produto com uma informação personalizada](/pt/tutorial/o-que-e-um-anexo--aGICk0RVbqKg6GYmQcWUm). Para cadastrar um anexo, você precisa seguir o passo a passo abaixo no Admin VTEX.
 
 1. No Admin VTEX, acesse **Catálogo**, ou digite **Catálogo** na barra de busca no topo da página.
 2. Clique em **Campos personalizados**.

@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisEN: 'We have improved blocks with the native option to upload images in Site Editor through an image repository.'
 ---
 
-We have improved the way you manage your images in [Site Editor](https://help.vtex.com/en/subcategory/site-editor--9Arh3cJIOYlfSD1MUC2h3) through an Image Widget, a centralized image repository that allows you to upload and reuse your store’s images. 
+We have improved the way you manage your images in [Site Editor](/en/subcategory/site-editor--9Arh3cJIOYlfSD1MUC2h3) through an Image Widget, a centralized image repository that allows you to upload and reuse your store’s images. 
 
 ![gif-image-widget-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2021/august/2021-08-03-reusing-images-in-site-editor_1.gif)
 
@@ -35,5 +35,5 @@ The improvement aims to help VTEX clients manage their images in Site Editor and
 
 ## What needs to be done?
 No action is required. Image Widget is now available for blocks with the native image upload option.
-For more information, check out our [Image Widget documentation](https://help.vtex.com/en/tutorial/image-widget--7pRSVI2xXpQUzjUZj0m4ov).
+For more information, check out our [Image Widget documentation](/en/tutorial/image-widget--7pRSVI2xXpQUzjUZj0m4ov).
 

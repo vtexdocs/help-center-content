@@ -21,7 +21,7 @@ VTEX Intelligent Search ahora cuenta con la funcionalidad de Redireccionamientos
 
 VTEX Intelligent Search es una aplicación de búsqueda inteligente para comercio electrónico. Es una alternativa a la búsqueda nativa de la plataforma, pues ayuda al cliente en su jornada de compra. Así, presenta resultados desde la primera interacción con la barra de búsqueda.
 
-Para más información sobre la herramienta, acceda a la [documentación de VTEX Intelligent Search](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb).
+Para más información sobre la herramienta, acceda a la [documentación de VTEX Intelligent Search](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb).
 
 ### ¿Qué se necesita hacer para utilizar esta funcionalidad?
 
@@ -29,5 +29,5 @@ VTEX Intelligent Search es una funcionalidad gratuita para las tiendas que utili
 
 Si su tienda aún no utiliza la tecnología de VTEX IO, visite [nuestro sitio web y conozca las ventajas](https://vtex.com/br-pt/store-framework/).
 
-Si usted ya utiliza VTEX Intelligent Search, para configurar esta funcionalidad, basta con acceder al módulo y luego a la pestaña Redireccionamientos. En caso de duda, acceda a [nuestro artículo sobre Redireccionamientos](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/7x52Q9iHzGmFDLyyVOIcz6).
+Si usted ya utiliza VTEX Intelligent Search, para configurar esta funcionalidad, basta con acceder al módulo y luego a la pestaña Redireccionamientos. En caso de duda, acceda a [nuestro artículo sobre Redireccionamientos](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/7x52Q9iHzGmFDLyyVOIcz6).
 

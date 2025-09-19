@@ -25,4 +25,4 @@ In addition to determining the total number of eligible items in the cart, you c
 
 ## What needs to be done?
 
-After configuring the percentage discount type in a Regular Promotion, check the Restrictions section to access the new functionality. For more details on each scenario type, access [our article on promotions for specific scenarios](https://help.vtex.com/en/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/jOu9b69mKbrTDfSJYAawy#restricting-promotional-products-in-cart).
+After configuring the percentage discount type in a Regular Promotion, check the Restrictions section to access the new functionality. For more details on each scenario type, access [our article on promotions for specific scenarios](/en/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/jOu9b69mKbrTDfSJYAawy#restricting-promotional-products-in-cart).

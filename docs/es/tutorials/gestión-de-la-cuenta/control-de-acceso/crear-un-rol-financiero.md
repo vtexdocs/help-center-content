@@ -15,9 +15,9 @@ locale: es
 subcategoryId: 1HSqkejwuYcQSMC400uY84
 ---
 
-Para [acceder a las facturas](https://help.vtex.com/es/tutorial/como-acessar-o-valor-da-receita-aprovada--tutorials_4322#relatorio-financeiro) y demás información financiera de su cuenta, debe asociar un rol financiero con todos los usuarios autorizados para visualizar esta información.
+Para [acceder a las facturas](/es/tutorial/como-acessar-o-valor-da-receita-aprovada--tutorials_4322#relatorio-financeiro) y demás información financiera de su cuenta, debe asociar un rol financiero con todos los usuarios autorizados para visualizar esta información.
 
-Existen dos [roles](https://help.vtex.com/es/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) financiero predefinidos: [Finance](https://help.vtex.com/es/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#finance) y [Finance Full Access](https://help.vtex.com/es/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#finance-full-access). Utilizaremos Finance como referencia para este artículo, pero los pasos a continuación son los mismos para ambos roles.
+Existen dos [roles](/es/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) financiero predefinidos: [Finance](/es/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#finance) y [Finance Full Access](/es/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#finance-full-access). Utilizaremos Finance como referencia para este artículo, pero los pasos a continuación son los mismos para ambos roles.
 
 ## Cómo crear un perfil de acceso financiero
 

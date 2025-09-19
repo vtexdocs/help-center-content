@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 ---
 
-Na página **Promoções,** no menu do Mercado Livre no Admin VTEX, os [sellers](https://help.vtex.com/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#sendo-seller-vtex) tem acesso a uma lista com todas as campanhas promocionais disponibilizadas pelo Mercado Livre. Nesta página, o seller pode consultar o **nome das campanhas, o tipo da campanha, ID da campanha, o prazo de incluir anúncios, o período de vigência** e seus **status.**  
+Na página **Promoções,** no menu do Mercado Livre no Admin VTEX, os [sellers](/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#sendo-seller-vtex) tem acesso a uma lista com todas as campanhas promocionais disponibilizadas pelo Mercado Livre. Nesta página, o seller pode consultar o **nome das campanhas, o tipo da campanha, ID da campanha, o prazo de incluir anúncios, o período de vigência** e seus **status.**  
 
 Ao clicar em uma promoção da lista, o seller utiliza a barra de busca para encontrar anúncios cadastrados através do **ID-MercadoLivre** ou pelo **Nome** de cada um.  
 

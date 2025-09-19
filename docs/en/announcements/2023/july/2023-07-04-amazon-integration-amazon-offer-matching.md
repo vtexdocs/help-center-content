@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisEN: 'Amazon offer matching is now manual. Learn more about the new page.'
 ---
 
-The [integration](https://help.vtex.com/en/tracks/configurar-integracao-com-a-amazon) between VTEX stores and Amazon allows sellers to send their product catalog to the marketplace, which expands their sales channels. To increase the quality of offers shown on Amazon, we created a new page for VTEX sellers to do the product matching.
+The [integration](/en/tracks/configurar-integracao-com-a-amazon) between VTEX stores and Amazon allows sellers to send their product catalog to the marketplace, which expands their sales channels. To increase the quality of offers shown on Amazon, we created a new page for VTEX sellers to do the product matching.
 
 ## What has changed?
 
@@ -31,5 +31,5 @@ The process will now be completely manual. This change aims to reduce compatibil
 
 You can find the Amazon Offer Matching page in Marketplace > __Amazon Offer Matching__ or through the search bar. The page will be available for all VTEX accounts as of July 03, 2023. No action is required to activate it.
 
-For more information about how the page works, check the [documentation Amazon Offer Matching](https://help.vtex.com/en/tutorial/match-de-anuncios-amazon--7fRfoP69kYgg8znImMhyQ0).
+For more information about how the page works, check the [documentation Amazon Offer Matching](/en/tutorial/match-de-anuncios-amazon--7fRfoP69kYgg8znImMhyQ0).
 

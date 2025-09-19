@@ -15,14 +15,14 @@ announcementImageID: 'undefined'
 announcementSynopsisEN: 'Change in Admin permissions to edit promotions with shipping and payment methods.'
 ---
 
-To strengthen platform security and ensure proper role management, we’ve updated the permissions required to edit certain promotion conditions. From now on, specific actions in the promotions form require [additional License Manager resources](https://help.vtex.com/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3).
+To strengthen platform security and ensure proper role management, we’ve updated the permissions required to edit certain promotion conditions. From now on, specific actions in the promotions form require [additional License Manager resources](/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3).
 
 ## What has changed?
 
 Now, users need specific permissions to **add or edit promotion conditions** related to **shipping methods** and **payment methods**. See the requirements below:
 
-- **Shipping methods**: Requires a [role](https://help.vtex.com/en/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) with the [resource](https://help.vtex.com/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) **LogisticsInternal**, related to the **Logistics** product.
-- **Payment Methods**: Requires a [role](https://help.vtex.com/en/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) with the [resource](https://help.vtex.com/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) **View Payment Data,** related to the **PCI Gateway** product.
+- **Shipping methods**: Requires a [role](/en/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) with the [resource](/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) **LogisticsInternal**, related to the **Logistics** product.
+- **Payment Methods**: Requires a [role](/en/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) with the [resource](/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) **View Payment Data,** related to the **PCI Gateway** product.
 
 > ⚠️ These resources and those used to edit promotion conditions are now required.
 
@@ -36,6 +36,6 @@ Without these permissions, users won’t be able to edit the shipping method and
 
 For more information on permission management, go to:
 
-- [License Manager resources](https://help.vtex.com/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3)
-- [Roles](https://help.vtex.com/en/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc)
+- [License Manager resources](/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3)
+- [Roles](/en/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc)
 

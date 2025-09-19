@@ -19,7 +19,7 @@ Para facilitar el acceso a informaciones importantes sobre su operación, el inf
 
 ## ¿Qué cambió?
 
-La nueva columna en el informe permite la visualización de las facturas de sus pedidos a través de la interfaz del [módulo de Gestión de Pedidos](https://help.vtex.com/es/tutorial/estructura-de-la-pagina-del-oms--2dDZmUUFXWeyQ4s2gqiY0A), antes solo visualizadas a través de la [API de Get Order](https://developers.vtex.com/reference/orders#getorder).
+La nueva columna en el informe permite la visualización de las facturas de sus pedidos a través de la interfaz del [módulo de Gestión de Pedidos](/es/tutorial/estructura-de-la-pagina-del-oms--2dDZmUUFXWeyQ4s2gqiY0A), antes solo visualizadas a través de la [API de Get Order](https://developers.vtex.com/reference/orders#getorder).
 
 ## Principales ventajas
 
@@ -29,4 +29,4 @@ Esto significa que el campo `Invoice Number` mostrará siempre todas las factura
 
 ## ¿Qué necesita hacer?
 
-La nueva columna del informe ya está habilitada para todas las cuentas VTEX y no se requiere ninguna acción. Para entender mejor cómo funciona el informe de pedidos, acceda a nuestro artículo sobre [exportar pedidos en el módulo Gestión de Pedidos](https://help.vtex.com/es/tutorial/exportacion-de-pedidos-en-gestion-de-pedidos--tutorials_6417).
+La nueva columna del informe ya está habilitada para todas las cuentas VTEX y no se requiere ninguna acción. Para entender mejor cómo funciona el informe de pedidos, acceda a nuestro artículo sobre [exportar pedidos en el módulo Gestión de Pedidos](/es/tutorial/exportacion-de-pedidos-en-gestion-de-pedidos--tutorials_6417).

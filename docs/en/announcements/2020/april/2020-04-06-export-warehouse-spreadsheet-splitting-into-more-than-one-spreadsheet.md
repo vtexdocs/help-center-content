@@ -29,4 +29,4 @@ Now, the files containing too many items will be broken into more than one sprea
 ## Will this affect my store?
 This change will only impact stores with inventories that are too big. For the rest of the stores nothing will change, your warehouse spreadsheet exportation will still be done in a single file. 
 
-To know more about this funcitonality, check out our [documentation](https://help.vtex.com/en/tutorial/importando-e-exportando-planilha-de-estoque--tutorials_2034).
+To know more about this funcitonality, check out our [documentation](/en/tutorial/importando-e-exportando-planilha-de-estoque--tutorials_2034).

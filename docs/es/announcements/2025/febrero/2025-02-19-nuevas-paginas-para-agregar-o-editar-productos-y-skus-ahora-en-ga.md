@@ -15,9 +15,9 @@ announcementImageID: 'undefined'
 announcementSynopsisES: 'La página Productos y SKUs y las páginas para agregar o editar un producto o sku están ahora en GA.'
 ---
 
-Las páginas para crear y editar [productos y SKUs](https://help.vtex.com/es/tutorial/productos-y-skus--2ig7TmROlirWirZjFWZ3By), anteriormente en beta, ahora están en disponibilidad general (GA), y esto aplica a tiendas VTEX de todas las regiones. 
+Las páginas para crear y editar [productos y SKUs](/es/tutorial/productos-y-skus--2ig7TmROlirWirZjFWZ3By), anteriormente en beta, ahora están en disponibilidad general (GA), y esto aplica a tiendas VTEX de todas las regiones. 
 
-Consulta las optimizaciones realizadas desde el lanzamiento de la [versión beta](https://help.vtex.com/es/announcements/new-page-for-adding-products-and-skus--5eKaFgMwrbuhUmuQzT4Q0Y).
+Consulta las optimizaciones realizadas desde el lanzamiento de la [versión beta](/es/announcements/new-page-for-adding-products-and-skus--5eKaFgMwrbuhUmuQzT4Q0Y).
 
 ## ¿Qué cambió?
 
@@ -25,7 +25,7 @@ Los cambios se detallan a continuación, clasificados según la página a la que
 
 ### Producto
 
-La siguiente tabla ilustra las novedades de la página [agregar o editar producto](https://help.vtex.com/es/tutorial/agregar-o-editar-productos--29IkdEu6GofCFlltsZh2H8):
+La siguiente tabla ilustra las novedades de la página [agregar o editar producto](/es/tutorial/agregar-o-editar-productos--29IkdEu6GofCFlltsZh2H8):
 
 | **Mejora** | **Descripción** |
 | :--- | :--- |
@@ -37,12 +37,12 @@ La siguiente tabla ilustra las novedades de la página [agregar o editar product
 
 ### SKU
 
-La siguiente tabla ilustra las novedades de la página [agregar o editar SKU](https://help.vtex.com/es/tutorial/agregar-o-editar-skus--4ryZ6J45kwn3jDiQBxGiiN):
+La siguiente tabla ilustra las novedades de la página [agregar o editar SKU](/es/tutorial/agregar-o-editar-skus--4ryZ6J45kwn3jDiQBxGiiN):
 
 | **Mejora** | **Descripción** |
 | :--- | :--- |
 | Nuevas acciones para **Obtener SKUs existentes** o **Mover a otro producto** | Importa o envía un SKU de un producto a otro. |
-| Nueva acción **Crear kit** | Transforma el SKU en un [kit](https://help.vtex.com/es/tutorial/o-que-e-um-kit--5ov5s3eHM4AqAAgqWwoc28).  |
+| Nueva acción **Crear kit** | Transforma el SKU en un [kit](/es/tutorial/o-que-e-um-kit--5ov5s3eHM4AqAAgqWwoc28).  |
 | Nueva acción **Duplicar** (SKU existente) | Crea un SKU a partir de un SKU existente. Esta acción crea el nuevo SKU con la misma configuración. |
 | Nuevo campo **Valor de fidelidad** | Configura un valor para que el cliente de la tienda lo reciba como beneficio en futuras compras. |
 | Nuevo campo **Fecha de preventa** | Define la previsión de llegada del SKU a la tienda y cuándo estará disponible para la venta. |
@@ -55,5 +55,5 @@ La siguiente tabla ilustra las novedades de la página [agregar o editar SKU](ht
 
 No es necesaria ninguna acción; las tiendas VTEX de todas las regiones ya han sido migradas a la versión GA.
 
-> ℹ️ Para más información, consulta los siguientes artículos:<ul><li>[Productos y SKUs](https://help.vtex.com/es/tutorial/productos-y-skus--2ig7TmROlirWirZjFWZ3By)</li><li>[Agregar o editar productos](https://help.vtex.com/es/tutorial/agregar-o-editar-productos--29IkdEu6GofCFlltsZh2H8)</li><li>[Agregar o editar SKUs](https://help.vtex.com/es/tutorial/agregar-o-editar-skus--4ryZ6J45kwn3jDiQBxGiiN)</li></ul>
+> ℹ️ Para más información, consulta los siguientes artículos:<ul><li>[Productos y SKUs](/es/tutorial/productos-y-skus--2ig7TmROlirWirZjFWZ3By)</li><li>[Agregar o editar productos](/es/tutorial/agregar-o-editar-productos--29IkdEu6GofCFlltsZh2H8)</li><li>[Agregar o editar SKUs](/es/tutorial/agregar-o-editar-skus--4ryZ6J45kwn3jDiQBxGiiN)</li></ul>
 

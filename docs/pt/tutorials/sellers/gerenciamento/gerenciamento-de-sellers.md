@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 2xWRgEIlR2ookieEmm4KQu
 ---
 
-__Gerenciamento de Sellers__ é a página onde operadores de marketplace [adicionam sellers](https://help.vtex.com/pt/tutorial/adicionar-seller--tutorials_392), registram suas informações e administram seus status. A página inclui métricas de andamento da operação de marketplace. Também é possível aplicar filtros nos resultados da lista de sellers e agrupar sellers por meio da opção Grupos que permite filtrar resultados mais facilmente.  
+__Gerenciamento de Sellers__ é a página onde operadores de marketplace [adicionam sellers](/pt/tutorial/adicionar-seller--tutorials_392), registram suas informações e administram seus status. A página inclui métricas de andamento da operação de marketplace. Também é possível aplicar filtros nos resultados da lista de sellers e agrupar sellers por meio da opção Grupos que permite filtrar resultados mais facilmente.  
 
 ![Seller management gif 2022 launch](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/sellers/gerenciamento/gerenciamento-de-sellers_1.gif)
 
@@ -25,7 +25,7 @@ A página apresenta métricas gerais dos sellers:
 - __Total de sellers:__ todos os sellers integrados ao marketplace, incluindo ativos e pausados.  
 - __Sellers ativos:__ sellers que estão recebendo pedidos no ecommerce do marketplace. Ao clicar na métrica, você filtra a lista por sellers ativos. É possível ativar um seller clicando em seu Status na lista, e alterando a opção marcada para ativo.   
 - __Sellers pausados:__ sellers que não recebem pedidos. Ao clicar na métrica, você filtra a lista por sellers pausados. É possível pausar um seller clicando em seu status na lista, e alterando a opção marcada para pausado.   
-- __Anúncios pendentes:__ anúncios enviados por sellers externos, que ainda estão aguardando aprovação do marketplace. Essa métrica não inclui anúncios de sellers white label, nem conta franquia. Ao clicar na métrica, você será redirecionado para a página [SKUs Recebidos](https://help.vtex.com/pt/tutorial/sugerindo-e-aprovando-skus--tutorials_396).  
+- __Anúncios pendentes:__ anúncios enviados por sellers externos, que ainda estão aguardando aprovação do marketplace. Essa métrica não inclui anúncios de sellers white label, nem conta franquia. Ao clicar na métrica, você será redirecionado para a página [SKUs Recebidos](/pt/tutorial/sugerindo-e-aprovando-skus--tutorials_396).  
 
 ## Filtros
 
@@ -33,8 +33,8 @@ A página apresenta métricas gerais dos sellers:
 
 - **Status:** se o seller está ativo ou pausado.     
 - **Integração:** o tipo de integração feita para cada seller, entre seller VTEX e integradores externos, outras plataformas ou não configurado (quando nem todos os campos foram preenchidos ao Adicionar Seller).  
-- **Visibilidade:** se a loja do seller está _visível_ no storefront do seu marketplace, ou se é um _[seller white label](https://help.vtex.com/pt/tutorial/definicoes-de-conta-franquia-e-seller-white-label--5orlGHyDHGAYciQ64oEgKa#o-que-e-um-seller-white-label)_, cuja loja não aparece na experiência de compra.    
-- **Grupo:** permite agrupar sellers com características semelhantes. As opções desse filtro incluem os grupos criados ao [Adicionar um seller](https://help.vtex.com/pt/tutorial/adicionar-seller--tutorials_392) ou em [Gerenciar grupos](gerenciar-grupos).  
+- **Visibilidade:** se a loja do seller está _visível_ no storefront do seu marketplace, ou se é um _[seller white label](/pt/tutorial/definicoes-de-conta-franquia-e-seller-white-label--5orlGHyDHGAYciQ64oEgKa#o-que-e-um-seller-white-label)_, cuja loja não aparece na experiência de compra.    
+- **Grupo:** permite agrupar sellers com características semelhantes. As opções desse filtro incluem os grupos criados ao [Adicionar um seller](/pt/tutorial/adicionar-seller--tutorials_392) ou em [Gerenciar grupos](gerenciar-grupos).  
 
 ## Grupos
 Grupos ajudam sua operação a gerenciar múltiplos sellers de uma forma mais eficiente e escalável. Sellers podem ser agrupados em um ou mais grupos de acordo com a sua necessidade, utilizando um nome de sua escolha. Grupos são criados manualmente ao Adicionar Seller. 
@@ -94,9 +94,9 @@ Clicando no botão <i class="fas fa-ellipsis-v"></i> na linha do seller, as segu
 O ícone de _etiqueta_  <i class="fas fa-tag"></i> ao lado do nome do seller indica a visibilidade que essa loja tem durante a experiência de compra em seu marketplace. Sellers podem ter dois tipos de visibilidade:
 
 * **Seller identificável:** o seller é visível no storefront do seu marketplace e escolhido pelo consumidor durante a experiência de compra no buy box. O ícone de etiqueta preenchido significa que o seller é identificável.  
-* **Seller não identificável (white label):** [sellers white label](https://help.vtex.com/pt/tutorial/definicoes-de-conta-franquia-e-seller-white-label) são contas franquia na VTEX, ocultos na experiência de compra e selecionados automaticamente pelo sistema do checkout para o fulfillment do pedido. O ícone de etiqueta transparente significa que o seller não é identificável.  
+* **Seller não identificável (white label):** [sellers white label](/pt/tutorial/definicoes-de-conta-franquia-e-seller-white-label) são contas franquia na VTEX, ocultos na experiência de compra e selecionados automaticamente pelo sistema do checkout para o fulfillment do pedido. O ícone de etiqueta transparente significa que o seller não é identificável.  
 
-Para adicionar um seller não identificável (white label), é necessário ter esse modelo previsto no contrato com a VTEX. Uma vez ajustado o contrato com o representante comercial da VTEX responsável por seu marketplace, solicite a [adição de uma conta franquia](https://help.vtex.com/pt/tutorial/o-que-e-conta-franquia--kWQC6RkFSCUFGgY5gSjdl) por meio do nosso Suporte. Toda conta franquia é criada como seller white label e não é possível mudar o tipo de seller após a sua criação. 
+Para adicionar um seller não identificável (white label), é necessário ter esse modelo previsto no contrato com a VTEX. Uma vez ajustado o contrato com o representante comercial da VTEX responsável por seu marketplace, solicite a [adição de uma conta franquia](/pt/tutorial/o-que-e-conta-franquia--kWQC6RkFSCUFGgY5gSjdl) por meio do nosso Suporte. Toda conta franquia é criada como seller white label e não é possível mudar o tipo de seller após a sua criação. 
 
 ### Ações em massa
 É possível realizar ações em massa selecionando múltiplos sellers ao clicar na _caixa de seleção_ à esquerda da lista. Uma vez selecionados, uma _caixa de ações_ aparecerá na tela, permitindo **pausar** e **ativar** sellers, e **adicionar em um grupo**. 
@@ -104,6 +104,6 @@ Para adicionar um seller não identificável (white label), é necessário ter e
 Pausando sellers, é possível catalogar seus anúncios e fazer todos os testes necessários antes de disponibilizá-lo no seu storefront para que receba pedidos, por exemplo.
 
 ## Saiba Mais
-- [Adicionar seller](https://help.vtex.com/pt/tutorial/adicionar-seller--tutorials_392)
-- [Configurar marketplace VTEX](https://help.vtex.com/pt/tutorial/configurar-marketplace-vtex--7splyp5MqIyt2Iyz5jsNzb)
-- [Ações para a operação de marketplaces VTEX](https://help.vtex.com/pt/tutorial/acoes-para-a-operacao-de-marketplaces-vtex--2SdIflvwywiOqCpczKCfev)
+- [Adicionar seller](/pt/tutorial/adicionar-seller--tutorials_392)
+- [Configurar marketplace VTEX](/pt/tutorial/configurar-marketplace-vtex--7splyp5MqIyt2Iyz5jsNzb)
+- [Ações para a operação de marketplaces VTEX](/pt/tutorial/acoes-para-a-operacao-de-marketplaces-vtex--2SdIflvwywiOqCpczKCfev)

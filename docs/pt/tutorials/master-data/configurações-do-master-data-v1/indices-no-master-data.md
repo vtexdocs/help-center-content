@@ -41,7 +41,7 @@ Saiba mais sobre os principais cenários de uso de índices no Master Data nas s
 
 ### Consultas de até mil documentos
 
-O uso de índices é recomendado para buscas com resultados de até mil documentos. Se as buscas por um índice frequentemente retornarem mais de mil documentos, você pode obter uma performance melhor na busca ao indexar o campo, isto é, [configurá-lo como um filtro na entidade de dados](https://help.vtex.com/pt/tutorial/filtrando-dados-no-master-data--tutorials_778).
+O uso de índices é recomendado para buscas com resultados de até mil documentos. Se as buscas por um índice frequentemente retornarem mais de mil documentos, você pode obter uma performance melhor na busca ao indexar o campo, isto é, [configurá-lo como um filtro na entidade de dados](/pt/tutorial/filtrando-dados-no-master-data--tutorials_778).
 
 ### Restrição de valores por documento (chave alternativa)
 

@@ -19,7 +19,7 @@ Você já conseguiu o mais difícil, fazer com que seus clientes entrem em conta
 
 ![Como distribuir o atendimento no WhatsApp para mais de um número 1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/conversational-commerce/suiteshare/como-distribuir-o-atendimento-no-whatsapp-para-mais-de-um-numero_1.png)
 
-Para começar, você precisa criar um link para cada número que irá atender na sua empresa. Se você ainda não criou ou não sabe como criar, [leia mais sobre links](https://help.vtex.com/pt/tutorial/links--7h7YXPFovF2k5z6ZSZs5WB). Mas, se você já possui todos os links criados vamos começar a organizar o nosso time. 
+Para começar, você precisa criar um link para cada número que irá atender na sua empresa. Se você ainda não criou ou não sabe como criar, [leia mais sobre links](/pt/tutorial/links--7h7YXPFovF2k5z6ZSZs5WB). Mas, se você já possui todos os links criados vamos começar a organizar o nosso time. 
 
 **IMPORTANTE** : Se você for criar opções como, por exemplo: “Suporte” ou “vendas” e dentro das opções existir múltiplos atendentes, é necessário criar um link âncora para os setores. 
 
@@ -35,4 +35,4 @@ No modo **Seletivo**, cada cliente que clicar nesse link será direcionado para
 
 Agora que entendemos um pouco sobre cada opção, vamos criar nosso **chat**. Lembrando que dentro de um seletivo podemos inserir um sequencial ou Geolocalizado. Gostou? 
 
-Então escolha a opção que iremos configurar: [Sequencial](https://help.vtex.com/pt/tutorial/sequencial--212r1PKHPGdpbbRlpf2gY3), [Geolocalizado](https://help.vtex.com/pt/tutorial/geolocalizado--6XIfgaqXaPe5exQa9oVp6D), [Seletivo](https://help.vtex.com/pt/tutorial/seletivo--7zjQVFhGbwYZ7NW8yKRSKX).
+Então escolha a opção que iremos configurar: [Sequencial](/pt/tutorial/sequencial--212r1PKHPGdpbbRlpf2gY3), [Geolocalizado](/pt/tutorial/geolocalizado--6XIfgaqXaPe5exQa9oVp6D), [Seletivo](/pt/tutorial/seletivo--7zjQVFhGbwYZ7NW8yKRSKX).

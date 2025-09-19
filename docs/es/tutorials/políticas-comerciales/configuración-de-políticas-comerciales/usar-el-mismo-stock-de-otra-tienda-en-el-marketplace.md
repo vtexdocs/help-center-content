@@ -25,4 +25,4 @@ Se utilizará este escenario si se quiere configurar el marketplace usando la mi
 
 Al no necesitar plazos o precios especiales, el marketplace también no necesita una nueva configuración de logística. 
 
-Luego, basta [asociar la política comercial ya en uso al nuevo marketplace](https://help.vtex.com/es/tutorial/configurar-politica-comercial-para-marketplace/).
+Luego, basta [asociar la política comercial ya en uso al nuevo marketplace](/es/tutorial/configurar-politica-comercial-para-marketplace/).

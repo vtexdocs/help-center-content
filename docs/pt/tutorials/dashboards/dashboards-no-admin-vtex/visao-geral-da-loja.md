@@ -19,7 +19,7 @@ Na página Visão Geral, os proprietários de lojas VTEX têm acesso às princip
 
 ![Store overview gif PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/dashboards/dashboards-no-admin-vtex/visao-geral-da-loja_1.gif)
 
-A página de Visão Geral traz um resumo do seu negócio com a VTEX. Para consultar análises mais profundas das métricas da sua loja, acesse [Performance de Vendas](https://help.vtex.com/pt/v4/docs/performance-de-vendas--6gx46RGRzWO8qgaVck7PRp).
+A página de Visão Geral traz um resumo do seu negócio com a VTEX. Para consultar análises mais profundas das métricas da sua loja, acesse [Performance de Vendas](/pt/v4/docs/performance-de-vendas--6gx46RGRzWO8qgaVck7PRp).
 
 ## Dados
 
@@ -68,7 +68,7 @@ A tabela abaixo descreve as principais métricas disponíveis no painel da pági
 Pedidos cancelados                               | Número total de pedidos cancelados no período selecionado.                                                                                                                                                                                                                     |
 | Produtos populares sem estoque        | Produtos muito vendidos que estão com baixo nível de estoque. Ao clicar nessa métrica, você verá uma janela com a lista de produtos sem estoque. Se você clicar em um item, você será redirecionado para a página de Gerenciamento de Estoque desse produto, onde poderá atualizar o estoque. |
 | Pedidos com pagamentos em autorização | Pedidos que não foram realizados devido a problemas de autorização de pagamento. Ao clicar nessa métrica, você será redirecionado para a página Transações para revisar as autorizações de pagamento pendentes.                                                                               |
-| Pedidos na última hora                | Pedidos feitos na sua loja na última hora. Ao clicar nessa métrica, você será redirecionado para a página [Todos os pedidos](https://help.vtex.com/pt/v4/docs/todos-os-pedidos--6JHeydzIft46VY7JTEpbJT).                                                                                                                                                                   |
+| Pedidos na última hora                | Pedidos feitos na sua loja na última hora. Ao clicar nessa métrica, você será redirecionado para a página [Todos os pedidos](/pt/v4/docs/todos-os-pedidos--6JHeydzIft46VY7JTEpbJT).                                                                                                                                                                   |
 
 ## Produtos com maior receita / Produtos com mais unidades vendidas
 ![Store overview Growing products PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/dashboards/dashboards-no-admin-vtex/visao-geral-da-loja_3.jpg)

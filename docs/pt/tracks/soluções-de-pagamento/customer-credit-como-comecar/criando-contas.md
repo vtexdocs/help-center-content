@@ -21,7 +21,7 @@ O próximo passo é criar contas para os clientes que você deseja oferecer cré
 - [Múltiplas contas em massa (Admin VTEX)](#criar-multiplas-contas-importacao-em-massa)
 - [Conta individual (Customer Credit API)](#criar-conta-via-api)
 
-> ℹ️ As contas criadas na app do Customer Credit não tem relação ou compartilham dados com a base de clientes cadastrada nas [entidades do Master Data](https://help.vtex.com/pt/tutorial/master-data--4otjBnR27u4WUIciQsmkAw#entidades-de-dados) da loja. Para que um cliente possa utilizar o Customer Credit como meio de pagamento, a sua conta deve ser cadastrada pelo lojista na app mesmo que o cliente já possua uma conta na loja.
+> ℹ️ As contas criadas na app do Customer Credit não tem relação ou compartilham dados com a base de clientes cadastrada nas [entidades do Master Data](/pt/tutorial/master-data--4otjBnR27u4WUIciQsmkAw#entidades-de-dados) da loja. Para que um cliente possa utilizar o Customer Credit como meio de pagamento, a sua conta deve ser cadastrada pelo lojista na app mesmo que o cliente já possua uma conta na loja.
 
 ## Criar contas individualmente
 
@@ -33,7 +33,7 @@ Para cadastrar um novo cliente no Customer Credit, siga os passos abaixo:
 4. Em __Crédito__, insira em os valores de __Limite de crédito (BRL)__ e da __Tolerância__ que deseja disponibilizar ao cliente.
 5. Clique em `Confirmar`.
 
-> ⚠️ O preenchimento do campo **Email** é obrigatório, pois a plataforma VTEX utiliza essa informação apra realizar a autenticação de acesso do cliente aos limites de crédito da sua conta. Para mais informações sobre proteção de dados, acesse [Segurança do SmartCheckout](https://help.vtex.com/pt/tutorial/seguranca-do-smartcheckout--3SrJuuhrqwePUg1rp1exfB).
+> ⚠️ O preenchimento do campo **Email** é obrigatório, pois a plataforma VTEX utiliza essa informação apra realizar a autenticação de acesso do cliente aos limites de crédito da sua conta. Para mais informações sobre proteção de dados, acesse [Segurança do SmartCheckout](/pt/tutorial/seguranca-do-smartcheckout--3SrJuuhrqwePUg1rp1exfB).
 
 A partir deste momento, a nova conta criada será exibida na tela de __Contas__.
 

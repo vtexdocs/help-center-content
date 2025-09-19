@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 4sY1T2qdFehvVmC0tL5xW3
 ---
 
-Se você já [habilitou login por autenticação de dois fatores](https://help.vtex.com/pt/tutorial/enabling-2-factor-authentication-login--4Ae1fcQi12g8u4SkQKCqWQ), mas cometeu algum erro durante a configuração ou perdeu acesso ao seu aplicativo de autenticação de dois fatores, pode ser que você não consiga acessar a sua conta VTEX.
+Se você já [habilitou login por autenticação de dois fatores](/pt/tutorial/enabling-2-factor-authentication-login--4Ae1fcQi12g8u4SkQKCqWQ), mas cometeu algum erro durante a configuração ou perdeu acesso ao seu aplicativo de autenticação de dois fatores, pode ser que você não consiga acessar a sua conta VTEX.
 
 ## Retomar acesso ao Admin VTEX
 

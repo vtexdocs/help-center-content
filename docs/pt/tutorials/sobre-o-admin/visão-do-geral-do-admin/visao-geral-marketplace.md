@@ -17,14 +17,14 @@ subcategoryId: Se4oi5LroIII2Ei0uGAoE
 
 Um marketplace é uma plataforma virtual por meio da qual diferentes vendedores anunciam seus produtos. O marketplace é a vitrine onde os produtos estarão expostos e também é onde o pedido será realizado. Os vendedores que anunciam ali são chamados de sellers, que além de serem os donos dos produtos, são também os responsáveis pela entrega do produto ao comprador. O conjunto de operações e atividades desempenhados pelo seller, desde o recebimento do pedido até o momento da entrega do produto, é denominado “fulfillment”.
 
-[A VTEX promove a colaboração digital](https://vtex.com/br-pt/marketplace/) em diferentes cenários. Você pode vender seus produtos em marketplaces, e também vender produtos de outros sellers no seu ambiente, tornando-se um marketplace. Saiba mais sobre as diferentes [Estratégias de marketplace na VTEX](https://help.vtex.com/en/tutorial/marketplace-strategies-at-vtex--tutorials_402).
+[A VTEX promove a colaboração digital](https://vtex.com/br-pt/marketplace/) em diferentes cenários. Você pode vender seus produtos em marketplaces, e também vender produtos de outros sellers no seu ambiente, tornando-se um marketplace. Saiba mais sobre as diferentes [Estratégias de marketplace na VTEX](/en/tutorial/marketplace-strategies-at-vtex--tutorials_402).
 
 Agrupamos todas as funcionalidades relacionadas a essas operações no menu __Marketplace__, do seu Admin repaginado. 
 
 Confira abaixo mais detalhes sobre as diferentes seções e páginas deste menu.
 
 ## Sellers
-A arquitetura da VTEX permite que as lojas hospedadas em sua plataforma possam anunciar produtos de outras lojas, sejam elas VTEX, ou não. Quando uma loja VTEX passa a vender produtos de sellers, ela se torna um [marketplace VTEX](https://help.vtex.com/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#atuar-como-marketplace). A seção Sellers do seu Admin reúne as funcionalidades necessárias para que isso aconteça.
+A arquitetura da VTEX permite que as lojas hospedadas em sua plataforma possam anunciar produtos de outras lojas, sejam elas VTEX, ou não. Quando uma loja VTEX passa a vender produtos de sellers, ela se torna um [marketplace VTEX](/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#atuar-como-marketplace). A seção Sellers do seu Admin reúne as funcionalidades necessárias para que isso aconteça.
 
 Esta seção inclui as seguintes páginas, em breve no design do Admin atualizado:
 

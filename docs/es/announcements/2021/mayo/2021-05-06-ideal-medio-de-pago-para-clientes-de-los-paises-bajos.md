@@ -27,7 +27,7 @@ En la práctica, cuando un consumidor realiza una compra y paga con iDEAL, entra
 
 ## ¿Qué se necesita hacer?
 
-Para utilizar iDEAL como método de pago, es necesario configurarlo en el Admin de VTEX. Consulte el paso a paso completo en la documentación [Configurar el método de pago iDEAL en la integración con Adyen](https://help.vtex.com/es/tutorial/configurar-o-metodo-de-pagamento-ideal-na-integracao-com-a-adyen--6EY1uvOVcomIFgMv81FAub).
+Para utilizar iDEAL como método de pago, es necesario configurarlo en el Admin de VTEX. Consulte el paso a paso completo en la documentación [Configurar el método de pago iDEAL en la integración con Adyen](/es/tutorial/configurar-o-metodo-de-pagamento-ideal-na-integracao-com-a-adyen--6EY1uvOVcomIFgMv81FAub).
 
 Para más detalles sobre el proceso de pago a través de iDEAL, consulte [esta página](https://www.adyen.com/payment-methods/ideal) de Adyen.
 

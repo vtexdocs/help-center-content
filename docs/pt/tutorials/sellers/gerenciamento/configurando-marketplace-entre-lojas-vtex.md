@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 2xWRgEIlR2ookieEmm4KQu
 ---
 
-Toda loja VTEX já vem preparada para ser [tanto marketplace quanto seller](https://help.vtex.com/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402) de outras lojas VTEX, assim como de nossos marketplaces integrados. 
+Toda loja VTEX já vem preparada para ser [tanto marketplace quanto seller](/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402) de outras lojas VTEX, assim como de nossos marketplaces integrados. 
 
 A integração entre lojas VTEX dispensa alguns passos necessários nas demais integrações. Abaixo estão as instruções para cada configuração.
 
@@ -35,11 +35,11 @@ Ser um seller significa que sua loja vai enviar e vender produtos por meio de ou
 
 Depois de realizar as configurações, é necessário fazer a indexação de todos os produtos da base, para que a integração ocorra.
 
-1. Com o [usuário titular](https://help.vtex.com/pt/tracks/contas-e-permissoes--5PxyAgZrtiYlaYZBTlhJ2A/56Bd0KpwbvAji1aFs94xdA?locale=pt), acesse o link `{nomedaloja}.vtexcommercestable.com.br/admin/Site/FullCleanUp.aspx`.
+1. Com o [usuário titular](/pt/tracks/contas-e-permissoes--5PxyAgZrtiYlaYZBTlhJ2A/56Bd0KpwbvAji1aFs94xdA?locale=pt), acesse o link `{nomedaloja}.vtexcommercestable.com.br/admin/Site/FullCleanUp.aspx`.
 2. Clique no botão __Reindexar Base__.
 
 ![ReindexarBase](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/sellers/gerenciamento/configurando-marketplace-entre-lojas-vtex_1.png)
 
 Perceba que, na URL, é preciso alterar o termo `{nomedaloja}` para o nome de sua loja.
 
-Com essas configurações feitas, os produtos começarão a ser enviados para o marketplace. Então, o marketplace deve realizar o [mapeamento de categorias, marcas e especificações](https://help.vtex.com/pt/tutorial/mapeando-categorias-e-marcas-para-marketplace), além de aceitar os produtos enviados.
+Com essas configurações feitas, os produtos começarão a ser enviados para o marketplace. Então, o marketplace deve realizar o [mapeamento de categorias, marcas e especificações](/pt/tutorial/mapeando-categorias-e-marcas-para-marketplace), além de aceitar os produtos enviados.

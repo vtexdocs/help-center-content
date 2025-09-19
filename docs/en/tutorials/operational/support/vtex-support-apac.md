@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 1yB08KlKzqJOdc0bn38HaY
 ---
 
-This article presents the availability, SLA, and additional support resources available to customers served by our offices in **Asia-Pacific Region.** For a broader perspective of our global support resources, see: [How does VTEX support work?](https://help.vtex.com/en/faq/how-does-vtex-support-work--3kACEfni4m8Yxa1vnf2ebe)
+This article presents the availability, SLA, and additional support resources available to customers served by our offices in **Asia-Pacific Region.** For a broader perspective of our global support resources, see: [How does VTEX support work?](/en/faq/how-does-vtex-support-work--3kACEfni4m8Yxa1vnf2ebe)
 
 ## Availability
 Our regular support hours are Monday through Friday, from 9am GMT+8 to 7pm GMT+8. Our average first response time varies according to ticket urgency, as seen in the table below.
@@ -29,7 +29,7 @@ Our regular support hours are Monday through Friday, from 9am GMT+8 to 7pm GMT+8
 
 Keep in mind that our first response time calculation is based on working hours. The criteria for ticket urgency are defined in the section below.  
 
-> ⚠️ Emergency support will be available **exclusively** for Urgent requests and provided via [Zendesk tickets](https://help.vtex.com/en/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM). Urgent requests are defined as problems that directly prevent sales or the store’s operation, as described in [Ticket Urgency](#ticket-urgency).
+> ⚠️ Emergency support will be available **exclusively** for Urgent requests and provided via [Zendesk tickets](/en/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM). Urgent requests are defined as problems that directly prevent sales or the store’s operation, as described in [Ticket Urgency](#ticket-urgency).
 
 ## Ticket urgency
 

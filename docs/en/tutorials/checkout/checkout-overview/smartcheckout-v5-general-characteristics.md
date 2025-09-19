@@ -19,7 +19,7 @@ SmartCheckout™ V5 allows purchase without VTEX login and password (one-click-b
 
 ### Iframe for the card payments
 
-Payment with credit card, debit card and private label (type of card issued by the retailer and only accepted within your network of stores) is now isolated inside an iframe, which makes it impossible to customize JavaScript, increasing the security of your store. For more information about data protection, visit [SmartCheckout Security](https://help.vtex.com/en/tutorial/seguranca-do-smartcheckout--3SrJuuhrqwePUg1rp1exfB#).
+Payment with credit card, debit card and private label (type of card issued by the retailer and only accepted within your network of stores) is now isolated inside an iframe, which makes it impossible to customize JavaScript, increasing the security of your store. For more information about data protection, visit [SmartCheckout Security](/en/tutorial/seguranca-do-smartcheckout--3SrJuuhrqwePUg1rp1exfB#).
 
 Note that, besides the fact of being inside an iframe, it's still possible to apply CSS on the field. But you must pay attention to the CSS selector you're using: It needs to start with elements that are inside `#app-container .App` and without i.e. `#payment-data` or `.payment-group`, that are outside the iframe.
 

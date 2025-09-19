@@ -24,7 +24,7 @@ Dos marketplaces disponibilizados, temos a opção de marketplace VTEX e marketp
 | **VTEX** | São os perfis de clientes VTEX que optaram abrir o seu ambiente para que sellers divulguem seus produtos para venda. |
 | **Externo** | São aqueles marketplaces que não são clientes VTEX e desenvolveram a integração, seja ela certificada ou parceira. |
 
-> ℹ️ Note que a **Marketplaces e Integrações** é uma ferramenta que promove o contato entre potenciais parceiros, mas não é uma etapa obrigatória para tornar-se marketplace na VTEX. Se você deseja atuar como um marketplace VTEX, leia a documentação [Estratégias de marketplace na VTEX](https://help.vtex.com/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#sendo-seller-vtex).  
+> ℹ️ Note que a **Marketplaces e Integrações** é uma ferramenta que promove o contato entre potenciais parceiros, mas não é uma etapa obrigatória para tornar-se marketplace na VTEX. Se você deseja atuar como um marketplace VTEX, leia a documentação [Estratégias de marketplace na VTEX](/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#sendo-seller-vtex).  
 
 ## Encontrando marketplaces  
 
@@ -64,7 +64,7 @@ Para se conectar a um marketplace externo, o seller precisará seguir os passos 
 
 ### Conectar a marketplace VTEX  
 
-Para se conectar a um dos marketplaces VTEX, é necessário iniciar um contato para negociação da parceria e aguardar o retorno do marketplace, é também mandatório um [Perfil de seller](https://help.vtex.com/pt/tutorial/encontre-marketplaces-e-sellers-no-ecossistema-vtex--2bzC7tXlVgLEEjxo4ixcAM#perfil-da-loja) ativo.  
+Para se conectar a um dos marketplaces VTEX, é necessário iniciar um contato para negociação da parceria e aguardar o retorno do marketplace, é também mandatório um [Perfil de seller](/pt/tutorial/encontre-marketplaces-e-sellers-no-ecossistema-vtex--2bzC7tXlVgLEEjxo4ixcAM#perfil-da-loja) ativo.  
 
 Ao enviar uma mensagem, considere todas as informações que aquele marketplace precisa saber para conectar-se ao seu negócio. Sugerimos também já adiantar as dúvidas, ou pontos a serem levantados em uma reunião futura, por exemplo.
 
@@ -93,28 +93,28 @@ Após estar conectado a um marketplace é possível editar essa conexão, para i
 
 Veja a lista de tutoriais disponíveis para a integração com os marketplaces:  
 
-- [Amazon](https://help.vtex.com/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP)  
-- [Mercado Livre](https://help.vtex.com/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq)  
-- [Magazine Luiza](https://help.vtex.com/pt/tracks/configurar-integracao-com-o-magazine-luiza--5Yx5IrNa7Y48c6aSC8wu2Y)  
-- [Carrefour](https://help.vtex.com/pt/tracks/configurar-integracao-com-o-carrefour--2wYlj07cNuA8k8mmwY86K2)  
-- [Centauro](https://help.vtex.com/pt/tracks/integracao-com-a-centauro--D8Qnjbr5lfLkUfMRhsfbj)  
-- [Facebook](https://help.vtex.com/pt/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc)  
-- [Google Shopping](https://help.vtex.com/pt/tracks/configurar-integracao-com-o-google-shopping--25Sl7iOqq58PGfVfTAo8Xw)  
-- [Google Shopping Ads](https://help.vtex.com/pt/tracks/como-fazer-campanhas-atraves-do-google-ads--47kz5PRQPK0IEaqGqiIuA)  
-- [Dafiti](https://help.vtex.com/pt/tracks/configurar-integracao-da-dafiti--4wF4RBx9ygEkimW6SsKw8i)  
-- [Netshoes](https://help.vtex.com/pt/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm)  
-- [Tik Tok](https://help.vtex.com/pt/tracks/integracao-com-o-tiktok--1r0yJSO11nrer1YVu3WTFd)  
-- [Zoom](https://help.vtex.com/pt/tutorial/integrando-com-zoom--2OoQjigCVOIEWWkgOqwCK6?&utm_source=autocomplete)  
-- [CSU (Opte+)](https://help.vtex.com/pt/tutorial/integrando-com-csu-opte-2--tutorials_4258)  
-- [Kabum](https://help.vtex.com/pt/tutorial/integracao-com-o-kabum--DM0uQeFIXOk7CY9oAPrf0)  
-- [MadeiraMadeira](https://help.vtex.com/pt/tutorial/integracao-com-madeiramadeira--J4QCENKiz4urYNfaMuE0i)  
-- [Riachuelo](https://help.vtex.com/pt/tutorial/integracao-com-riachuelo--kpfxAgwEcANihHLT4iW81)  
-- [Camicado](https://help.vtex.com/pt/tutorial/integracao-com-renner-e-camicado--5qf2wloosKlmIB8o2AitnT)  
-- [Renner](https://help.vtex.com/pt/tutorial/integracao-com-renner-e-camicado--5qf2wloosKlmIB8o2AitnT)  
-- [Loopi](https://help.vtex.com/pt/tutorial/integracao-com-loopi--2wmap3hWksLxJ0IYe7nYFP)  
-- [Via Varejo](https://help.vtex.com/pt/tutorial/como-funciona-a-integracao-da-cnova-via-varejo--1vFbUZUL80SQ0SoySGO8E6)  
-- [SkyHub/B2W](https://help.vtex.com/pt/tutorial/como-funciona-a-integracao-da-skyhub--UJfYlTdmw0so2OKSie2M8)  
-- [Enjoei](https://help.vtex.com/pt/tutorial/integracao-com-enjoei--3mV9uhw1AdqFol8K2tfwly)  
-- [Farmácias App](https://help.vtex.com/pt/tutorial/integrando-com-farmacias-app--tutorials_6271)   
-- [Shopee](https://help.vtex.com/pt/tutorial/integracao-com-a-shopee-beta--5OV9idUY6fHu3P8grnCnqj)  
-- [Wish ](https://help.vtex.com/pt/tracks/integracao-com-a-wish--50hbG4bzhSIhjz1lzqI1g4) 
+- [Amazon](/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP)  
+- [Mercado Livre](/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq)  
+- [Magazine Luiza](/pt/tracks/configurar-integracao-com-o-magazine-luiza--5Yx5IrNa7Y48c6aSC8wu2Y)  
+- [Carrefour](/pt/tracks/configurar-integracao-com-o-carrefour--2wYlj07cNuA8k8mmwY86K2)  
+- [Centauro](/pt/tracks/integracao-com-a-centauro--D8Qnjbr5lfLkUfMRhsfbj)  
+- [Facebook](/pt/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc)  
+- [Google Shopping](/pt/tracks/configurar-integracao-com-o-google-shopping--25Sl7iOqq58PGfVfTAo8Xw)  
+- [Google Shopping Ads](/pt/tracks/como-fazer-campanhas-atraves-do-google-ads--47kz5PRQPK0IEaqGqiIuA)  
+- [Dafiti](/pt/tracks/configurar-integracao-da-dafiti--4wF4RBx9ygEkimW6SsKw8i)  
+- [Netshoes](/pt/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm)  
+- [Tik Tok](/pt/tracks/integracao-com-o-tiktok--1r0yJSO11nrer1YVu3WTFd)  
+- [Zoom](/pt/tutorial/integrando-com-zoom--2OoQjigCVOIEWWkgOqwCK6?&utm_source=autocomplete)  
+- [CSU (Opte+)](/pt/tutorial/integrando-com-csu-opte-2--tutorials_4258)  
+- [Kabum](/pt/tutorial/integracao-com-o-kabum--DM0uQeFIXOk7CY9oAPrf0)  
+- [MadeiraMadeira](/pt/tutorial/integracao-com-madeiramadeira--J4QCENKiz4urYNfaMuE0i)  
+- [Riachuelo](/pt/tutorial/integracao-com-riachuelo--kpfxAgwEcANihHLT4iW81)  
+- [Camicado](/pt/tutorial/integracao-com-renner-e-camicado--5qf2wloosKlmIB8o2AitnT)  
+- [Renner](/pt/tutorial/integracao-com-renner-e-camicado--5qf2wloosKlmIB8o2AitnT)  
+- [Loopi](/pt/tutorial/integracao-com-loopi--2wmap3hWksLxJ0IYe7nYFP)  
+- [Via Varejo](/pt/tutorial/como-funciona-a-integracao-da-cnova-via-varejo--1vFbUZUL80SQ0SoySGO8E6)  
+- [SkyHub/B2W](/pt/tutorial/como-funciona-a-integracao-da-skyhub--UJfYlTdmw0so2OKSie2M8)  
+- [Enjoei](/pt/tutorial/integracao-com-enjoei--3mV9uhw1AdqFol8K2tfwly)  
+- [Farmácias App](/pt/tutorial/integrando-com-farmacias-app--tutorials_6271)   
+- [Shopee](/pt/tutorial/integracao-com-a-shopee-beta--5OV9idUY6fHu3P8grnCnqj)  
+- [Wish ](/pt/tracks/integracao-com-a-wish--50hbG4bzhSIhjz1lzqI1g4) 

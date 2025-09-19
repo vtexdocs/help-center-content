@@ -17,7 +17,7 @@ subcategoryId: 9Arh3cJIOYlfSD1MUC2h3
 
 > ⚠️  La actualización programada puede tardar hasta 30 minutos en surtir efecto y aparecer en su página.
 
-Después de [crear una nueva versión de contenido](https://help.vtex.com/es/tutorial/gerenciando-versoes-de-conteudo--4loXo98CZncY0NnjKrScbG?&utm_source=autocomplete), puedes programar su publicación en tu tienda a través del recurso **Visibilidad**.
+Después de [crear una nueva versión de contenido](/es/tutorial/gerenciando-versoes-de-conteudo--4loXo98CZncY0NnjKrScbG?&utm_source=autocomplete), puedes programar su publicación en tu tienda a través del recurso **Visibilidad**.
 
 El recurso Visibilidad te permite activar inmediatamente la nueva versión del contenido en tu tienda, programar cuándo publicar el contenido o cuándo desactivar la nueva versión. También puedes elegir dónde quieres aplicar la nueva versión: en una ruta (**esta URL**) o en rutas que comparten la misma plantilla (**esta plantilla**).
 

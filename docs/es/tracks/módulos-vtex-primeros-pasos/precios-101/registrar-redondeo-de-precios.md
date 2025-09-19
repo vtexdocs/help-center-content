@@ -26,6 +26,6 @@ Siga el procedimiento a continuación para registrar el redondeo de precios de s
 2. Haga clic en el botón **Nueva regla**.
 3. En la sección **´¿En cuál intervalo de precios se aplicará esta regla?**, establezca un intervalo de precio en el cual se aplicará la regla de precio psicológico en **De** y **Hasta**.
 4. En la sección **¿Cuántos dígitos se redondearán?**, escoja en el dropdown cuántos dígitos se redondearán por la regla.
-5. En la sección **¿Cuál método de redondeo se aplicará?**, seleccione el [método deseado](https://help.vtex.com/es/tracks/pricing-101--6f8pwCns3PJHqMvQSugNfP/1tUIUvF6BUkDgMsknGaMkF).
+5. En la sección **¿Cuál método de redondeo se aplicará?**, seleccione el [método deseado](/es/tracks/pricing-101--6f8pwCns3PJHqMvQSugNfP/1tUIUvF6BUkDgMsknGaMkF).
 6. Haga clic en **Pruebe sus precios** e ingrese un precio para verificar si la regla creada está funcionando como lo desea.
 7. Haga clic en **Guardar**.

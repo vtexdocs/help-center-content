@@ -20,7 +20,7 @@ Neste caso, ao tentar aprovar o pagamento em **Pedidos**, você verá um erro pa
 
 ![error authorize fulfillment](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/post-purchase/ao-tentar-aprovar-pagamento-gerenciamento-de-pedidos-retorna-erro_1.png)
 
-Para confirmar se o problema é este, na página de [detalhes do pedido](https://help.vtex.com/pt/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl), clique em `Ver interações` para ver os detalhes do pedido.
+Para confirmar se o problema é este, na página de [detalhes do pedido](/pt/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl), clique em `Ver interações` para ver os detalhes do pedido.
 
 Caso haja um erro como "A reserva solicitada *00-abc* não pôde ser garantida para o pedido *00-xyz*", é porque algum dos SKUs incluídos no carrinho não tem estoque disponível, o que inviabiliza que a compra seja aprovada. Neste caso, corrigir o estoque deve permitir que o pedido siga seu fluxo.
 

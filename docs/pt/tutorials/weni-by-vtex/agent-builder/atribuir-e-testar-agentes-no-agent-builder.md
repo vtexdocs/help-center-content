@@ -17,7 +17,7 @@ subcategoryId: 3TASbcSqDuDZwmgDLc0O5I
 
 A seção **Agentes** permite que o usuário atribua agentes ao time e teste-os.
 
-Alguns agentes oficiais pedem credenciais. Veja a lista completa no artigo [Agentes oficiais da Weni by VTEX](https://help.vtex.com/pt/tutorial/agentes-oficiais-da-weni-by-vtex--7E8wlD3T41CiOexDVH1SIy).
+Alguns agentes oficiais pedem credenciais. Veja a lista completa no artigo [Agentes oficiais da Weni by VTEX](/pt/tutorial/agentes-oficiais-da-weni-by-vtex--7E8wlD3T41CiOexDVH1SIy).
 
 > ℹ️ Para criar agentes customizados, use o CLI da Weni by VTEX. Confira a [documentação](https://weni-ai.github.io/weni-cli/getting-started/installation/) para criar seu próprio agente.
 

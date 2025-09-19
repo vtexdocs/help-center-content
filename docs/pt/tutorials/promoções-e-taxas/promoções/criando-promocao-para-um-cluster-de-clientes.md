@@ -19,12 +19,12 @@ Uma promoção para um cluster de clientes é uma promoção válida apenas para
 
 Configurar clusters de clientes permite criar uma variedade de promoções personalizadas para públicos segmentados.
 
-Antes de criar uma promoção, é preciso definir a propriedade que determina se um cliente faz parte ou não do cluster. Para isso, é possível utilizar campos já existentes no perfil do cliente (por exemplo: `email`) ou [criar um cluster de clientes no módulo Master Data](https://help.vtex.com/pt/faq/como-criar-um-cluster-de-clientes/).
+Antes de criar uma promoção, é preciso definir a propriedade que determina se um cliente faz parte ou não do cluster. Para isso, é possível utilizar campos já existentes no perfil do cliente (por exemplo: `email`) ou [criar um cluster de clientes no módulo Master Data](/pt/faq/como-criar-um-cluster-de-clientes/).
 
 Com a propriedade definida, siga as instruções abaixo.
 
 1. No Admin VTEX, acesse *Promoções > Promoções*, ou digite *Promoções* na barra de busca no topo da página.
-2. Busque pela promoção em que deseja realizar essa configuração ou [crie uma nova promoção](https://help.vtex.com/pt/tutorial/como-criar-promocoes/).
+2. Busque pela promoção em que deseja realizar essa configuração ou [crie uma nova promoção](/pt/tutorial/como-criar-promocoes/).
 3. Navegue para a área **Quais as condições para a promoção ser válida?**
 4. Selecione a opção **Cluster de clientes**.
 5. Selecione a configuração de critérios que desejar:
@@ -44,13 +44,13 @@ Existem dois critérios possíveis para a seleção de um cluster para a promoç
 
 Perceba que, em ambas opções, `{nomedapropriedade}` deve ser alterado pelo nome do campo na entidade de dados e `{"valor"}` deve ser substituído pelo valor definido no Master Data.
 
-> ℹ️  O uso das aspas duplas varia [de acordo com o tipo de campo](https://help.vtex.com/pt/tutorial/criando-entidade-de-dados--tutorials_1265#entendendo-os-tipos) criado no Master Data. 
+> ℹ️  O uso das aspas duplas varia [de acordo com o tipo de campo](/pt/tutorial/criando-entidade-de-dados--tutorials_1265#entendendo-os-tipos) criado no Master Data. 
 
 ### Função de igualdade
 
 A expressão `{nomedapropriedade}={"valor"}` deve ser utilizada caso a informação contida no perfil do cliente referente à propriedade em questão deva ser **exatamente igual** ao valor preenchido na expressão.
 
-Na configuração abaixo, por exemplo, apenas registros `funcionario` com o valor `true` (utilizado em um campo do tipo **[Boolean](https://help.vtex.com/pt/tutorial/criando-entidade-de-dados--tutorials_1265#entendendo-os-tipos)**, em que os valores são sempre verdadeiro ou falso) receberão a promoção. 
+Na configuração abaixo, por exemplo, apenas registros `funcionario` com o valor `true` (utilizado em um campo do tipo **[Boolean](/pt/tutorial/criando-entidade-de-dados--tutorials_1265#entendendo-os-tipos)**, em que os valores são sempre verdadeiro ou falso) receberão a promoção. 
 
 Dessa forma, você poderia configurar também `funcionario=false`, em que apenas registros `funcionario` com valor `false` no campo receberiam a promoção.
 
@@ -58,7 +58,7 @@ Dessa forma, você poderia configurar também `funcionario=false`, em que apenas
 
 ![Cluster de clientes PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promo%C3%A7%C3%B5es-e-taxas/promo%C3%A7%C3%B5es/criando-promocao-para-um-cluster-de-clientes_2.png)
 
-Considerando um campo do tipo **[Varchar](https://help.vtex.com/pt/tutorial/criando-entidade-de-dados--tutorials_1265#entendendo-os-tipos)**, poderíamos configurar `funcionario="sim"` para que apenas clientes com valor `"sim"` no campo recebessem a promoção.
+Considerando um campo do tipo **[Varchar](/pt/tutorial/criando-entidade-de-dados--tutorials_1265#entendendo-os-tipos)**, poderíamos configurar `funcionario="sim"` para que apenas clientes com valor `"sim"` no campo recebessem a promoção.
 
 > ⚠️  Para campos do tipo **Varchar**, o valor informado na seção **Cluster de clientes **da promoção diferencia caracteres minúsculos e maiúsculos. Isso quer dizer que, ao preencher a opção **Cluster de clientes** de forma diferente daquela definida para o campo no Master Data, a promoção não será aplicada. 
 

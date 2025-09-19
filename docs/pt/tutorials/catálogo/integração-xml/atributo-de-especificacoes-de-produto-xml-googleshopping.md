@@ -94,4 +94,4 @@ Basta salvar e os valores virão listados.
 
 Feito isso, basta definir no XML do Google Shopping os atributos seguindo o acima estruturado.
 
-Confira o artigo [Como Configurar XML do Google Shopping](https://help.vtex.com/pt/tutorial/como-configurar-xml-do-google-shopping--frequentlyAskedQuestions_372) para detalhes sobre a configuração do XML.
+Confira o artigo [Como Configurar XML do Google Shopping](/pt/tutorial/como-configurar-xml-do-google-shopping--frequentlyAskedQuestions_372) para detalhes sobre a configuração do XML.

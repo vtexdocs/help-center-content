@@ -52,7 +52,7 @@ Após configurar a aprovação de organizações, personalize a barra superior e
 Após realizar qualquer alteração nas seções acima, clique em `Salvar` no canto superior direito da página para que as mudanças sejam aplicadas corretamente.
 
 ## Associar políticas comerciais à loja
-Esta seção permite associar a loja a [políticas comerciais](https://help.vtex.com/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) específicas.
+Esta seção permite associar a loja a [políticas comerciais](/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) específicas.
 
 Veja como fazer essa associação:
 

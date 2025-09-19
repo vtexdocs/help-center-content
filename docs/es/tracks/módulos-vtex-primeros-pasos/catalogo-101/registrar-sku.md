@@ -21,11 +21,11 @@ Hay diferentes formas de registrar SKUs:
 - Importación de plantilla
 - API
 
-> ℹ️ Si deseas importar SKUs mediante [integraciones backend](https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu) con un ERP, consulta la guía [Back office integration guide (ERP/PIM/WMS)](https://developers.vtex.com/docs/guides/erp-integration-guide).
+> ℹ️ Si deseas importar SKUs mediante [integraciones backend](/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu) con un ERP, consulta la guía [Back office integration guide (ERP/PIM/WMS)](https://developers.vtex.com/docs/guides/erp-integration-guide).
 
 ## Admin VTEX
 
-Para saber cómo registrar un nuevo producto al catálogo de la tienda, consulta el artículo [Agregar o editar SKUs](https://help.vtex.com/es/tutorial/agregar-o-editar-skus--4ryZ6J45kwn3jDiQBxGiiN).
+Para saber cómo registrar un nuevo producto al catálogo de la tienda, consulta el artículo [Agregar o editar SKUs](/es/tutorial/agregar-o-editar-skus--4ryZ6J45kwn3jDiQBxGiiN).
 
 ## Plantilla
 
@@ -39,7 +39,7 @@ Para esto, realice el siguiente procedimiento:
 2. Haga clic en **Importación y exportación**.
 3. En la primera pestaña __Todos los productos__, haga clic en **Exportación / Importación**.
 4. En __Exportar__, en el recuadro verde, agregue el e-mail deseado para enviar la plantilla. A continuación, haga clic en el rectángulo azul **Exportar a Excel**
-5. Al recibir la plantilla, rellene las líneas con los datos del SKU. Para entender mejor el significado de cada campo, acceda a nuestro artículo sobre [rellenar campos de la plantilla de importación de productos y SKUs](https://help.vtex.com/es/tutorial/rellenar-campos-de-la-plantilla-de-importación--4nYhx63Q5yokQWaMguaIgI).
+5. Al recibir la plantilla, rellene las líneas con los datos del SKU. Para entender mejor el significado de cada campo, acceda a nuestro artículo sobre [rellenar campos de la plantilla de importación de productos y SKUs](/es/tutorial/rellenar-campos-de-la-plantilla-de-importación--4nYhx63Q5yokQWaMguaIgI).
 
 ### Importar plantilla
 
@@ -60,7 +60,7 @@ Después del registro de los SKUs es necesario agregar las imágenes para que se
 2. Haga clic en **Importación y exportación**.
 3. Haga clic en la pestaña **Importación de imágenes**.
 4. Haga clic en **aquí** para descargar la plantilla modelo. La plantilla estará en el formato que el sistema acepta, evitando problemas en la importación.
-5. Al recibir la plantilla por e-mail, rellene los campos. Para entender mejor el significado de cada campo, acceda a nuestro artículo sobre [importar imágenes por plantilla](https://help.vtex.com/es/tutorial/importando-imagenes-por-plantilla--tutorials_262).
+5. Al recibir la plantilla por e-mail, rellene los campos. Para entender mejor el significado de cada campo, acceda a nuestro artículo sobre [importar imágenes por plantilla](/es/tutorial/importando-imagenes-por-plantilla--tutorials_262).
 6. Después de rellenar la plantilla, haga clic en **Seleccionar archivo**.
 7. Seleccione el archivo deseado y haga clic en __Abrir__.
 8. Haga clic en **Importar**.

@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 2t00bBkcAwIkgSCGKsMOwY
 ---
 
-Na [página de detalhes do pedido](https://help.vtex.com/pt/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl), a seção **Histórico do pedido** ilustra todo o processo de transição dos status de um pedido, incluindo o meio pagamento utilizado, emails transacionados com o cliente e comentários com terceiros.
+Na [página de detalhes do pedido](/pt/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl), a seção **Histórico do pedido** ilustra todo o processo de transição dos status de um pedido, incluindo o meio pagamento utilizado, emails transacionados com o cliente e comentários com terceiros.
 
 Seu principal objetivo é facilitar a identificação dos dados de um pedido e de desvios do comportamento padrão e, principalmente, solicitações de cancelamento.
 

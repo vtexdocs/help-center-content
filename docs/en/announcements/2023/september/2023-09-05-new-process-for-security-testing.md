@@ -23,12 +23,12 @@ If necessary, you can run a penetration test on your own — provided you are au
 
 In summary, the new process for running penetration tests consists of:
 
-1. Submit a request to schedule a test through [VTEX Support](https://help.vtex.com/en/support).
+1. Submit a request to schedule a test through [VTEX Support](/en/support).
 2. Review and sign the [confidentiality agreement](https://assets.ctfassets.net/alneenqid6w5/5iw8rN7CdSn7PHKvMMcO19/ab46ae4025d506e052dcef5974f9007f/Pentest_NDA_.zip) before running any tests.
 3. Once the test is complete, share the results with the VTEX Security team.
 
-For more detailed information on this procedure, see the [Penetration tests and vulnerability notifications](https://help.vtex.com/en/tutorial/penetration-testing-and-vulnerability-notice--6jodF6s1I50Fg84ZwutOCb) guide.
+For more detailed information on this procedure, see the [Penetration tests and vulnerability notifications](/en/tutorial/penetration-testing-and-vulnerability-notice--6jodF6s1I50Fg84ZwutOCb) guide.
 
 ## Why did we make this change?
 
-We have updated the penetration testing procedure to ensure the platform is secure and checks are run securely, preventing [unauthorized procedures](https://help.vtex.com/en/tutorial/penetration-testing-and-vulnerability-notice--6jodF6s1I50Fg84ZwutOCb#unauthorized-procedures) and actions that could harm our customers.
+We have updated the penetration testing procedure to ensure the platform is secure and checks are run securely, preventing [unauthorized procedures](/en/tutorial/penetration-testing-and-vulnerability-notice--6jodF6s1I50Fg84ZwutOCb#unauthorized-procedures) and actions that could harm our customers.

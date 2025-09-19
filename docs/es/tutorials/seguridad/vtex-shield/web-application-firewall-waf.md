@@ -15,7 +15,7 @@ locale: es
 subcategoryId: jrgbOxKaOW0kdZs7rdgvS
 ---
 
-> ℹ️ Esta funcionalidad es parte de [VTEX Shield](https://help.vtex.com/es/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh).  Si ya es cliente de VTEX y desea adoptar VTEX Shield para su negocio, por favor, póngase en contacto con el [Soporte Comercial](https://help.vtex.com/es/tracks/soporte-en-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ). Pueden aplicarse tarifas adicionales. Si aún no es cliente pero está interesado en esta solución, por favor, complete el [formulario de contacto](https://vtex.com/co-es/contacto/).
+> ℹ️ Esta funcionalidad es parte de [VTEX Shield](/es/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh).  Si ya es cliente de VTEX y desea adoptar VTEX Shield para su negocio, por favor, póngase en contacto con el [Soporte Comercial](/es/tracks/soporte-en-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ). Pueden aplicarse tarifas adicionales. Si aún no es cliente pero está interesado en esta solución, por favor, complete el [formulario de contacto](https://vtex.com/co-es/contacto/).
 
 Web Application Firewall (WAF) es una capa de seguridad diseñada para proteger aplicaciones web mediante monitoreo y filtrado del tráfico de internet.
 
@@ -43,7 +43,7 @@ Las tiendas que utilizan VTEX Shield y deciden usar WAF cuentan con las siguient
 
 ## Solicitar activación de WAF
 
-Para solicitar la activación de WAF en tu tienda, ponte en contacto con el[ soporte VTEX](https://help.vtex.com/es/support). Incluya la siguiente información en el ticket:
+Para solicitar la activación de WAF en tu tienda, ponte en contacto con el[ soporte VTEX](/es/support). Incluya la siguiente información en el ticket:
 
 * URL que se añadirán a WAF.
 * Nombre y datos de contacto de la persona que será el punto de contacto con el equipo de seguridad de VTEX durante el proceso de activación.
@@ -53,4 +53,4 @@ Después de la solicitud, el plazo de activación de WAF en las URL de la tienda
 
 ## Más información
 
-* [VTEX Shield](https://help.vtex.com/es/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh)
+* [VTEX Shield](/es/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh)

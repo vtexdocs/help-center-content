@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisPT: 'Nova interface do formulário de Promoção de Campanha da VTEX facilita usabilidade e segmentação de ofertas.'
 ---
 
-A partir de 08/09/2025, o módulo **Promoções** da VTEX contará com uma nova interface para o **formulário de Promoção de Campanha**, que foi aprimorada para melhorar a usabilidade e facilitar a configuração das promoções, permitindo criar ofertas direcionadas a audiências previamente definidas no módulo [Audiências de Campanha](https://help.vtex.com/pt/tutorial/criar-audiencia-de-campanhas--6cnuDZJzIkIeocewAQQK4K).
+A partir de 08/09/2025, o módulo **Promoções** da VTEX contará com uma nova interface para o **formulário de Promoção de Campanha**, que foi aprimorada para melhorar a usabilidade e facilitar a configuração das promoções, permitindo criar ofertas direcionadas a audiências previamente definidas no módulo [Audiências de Campanha](/pt/tutorial/criar-audiencia-de-campanhas--6cnuDZJzIkIeocewAQQK4K).
 
 ## O que mudou?
 A interface do formulário de Promoção de Campanha foi otimizada para facilitar a visualização e o preenchimento das configurações. As funcionalidades permanecem as mesmas da versão anterior:
@@ -29,5 +29,5 @@ A interface do formulário de Promoção de Campanha foi otimizada para facilita
 ## O que precisa ser feito?
 Nenhuma ação por parte das lojas é necessária. O novo formulário será disponibilizado em todas as contas VTEX a partir de 08/09/2025.
 
-Para mais informações, acesse [Criar promoção de campanha](https://help.vtex.com/pt/tutorial/promocao-de-campanha--1ChYXhK2AQGuS6wAqS8Ume#campos-da-promocao-de-campanha ).
+Para mais informações, acesse [Criar promoção de campanha](/pt/tutorial/promocao-de-campanha--1ChYXhK2AQGuS6wAqS8Ume#campos-da-promocao-de-campanha ).
 

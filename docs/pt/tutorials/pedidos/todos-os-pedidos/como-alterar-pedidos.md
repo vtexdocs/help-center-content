@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 2t00bBkcAwIkgSCGKsMOwY
 ---
 
-A funcionalidade [Alterar pedido](https://help.vtex.com/pt/tutorial/como-funciona-a-alterar-pedido-beta--56TO0bOFXsfmpc7YZ3wIUZ) permite que você edite um pedido de diversas formas, seja a mudança motivada pela vontade do cliente, indisponibilidade de produtos ou outros motivos. 
+A funcionalidade [Alterar pedido](/pt/tutorial/como-funciona-a-alterar-pedido-beta--56TO0bOFXsfmpc7YZ3wIUZ) permite que você edite um pedido de diversas formas, seja a mudança motivada pela vontade do cliente, indisponibilidade de produtos ou outros motivos. 
 
 Este artigo apresenta de quais maneiras o pedido pode ser alterado e como realizar essas ações. As seções apresentadas neste artigo são as seguintes:
 
@@ -24,7 +24,7 @@ Este artigo apresenta de quais maneiras o pedido pode ser alterado e como realiz
 - [Aspectos comuns](#aspectos-comuns)
 - [Erros de processamento](#erros-de-processamento)
 
-> ⚠️ Para saber sobre as [características gerais](https://help.vtex.com/pt/tutorial/how-change-order-works-beta--56TO0bOFXsfmpc7YZ3wIUZ#caracteristicas-gerais) em cenários de alteração de pedidos, incluindo reserva, atualização de inventário e contas franquia, ou para entender questões de [preço, pagamento e fatura](https://help.vtex.com/pt/tutorial/how-change-order-works-beta--56TO0bOFXsfmpc7YZ3wIUZ#mudancas-de-preco), veja o artigo [Como funciona a Alterar pedido](https://help.vtex.com/pt/tutorial/how-change-order-works-beta--56TO0bOFXsfmpc7YZ3wIUZ).
+> ⚠️ Para saber sobre as [características gerais](/pt/tutorial/how-change-order-works-beta--56TO0bOFXsfmpc7YZ3wIUZ#caracteristicas-gerais) em cenários de alteração de pedidos, incluindo reserva, atualização de inventário e contas franquia, ou para entender questões de [preço, pagamento e fatura](/pt/tutorial/how-change-order-works-beta--56TO0bOFXsfmpc7YZ3wIUZ#mudancas-de-preco), veja o artigo [Como funciona a Alterar pedido](/pt/tutorial/how-change-order-works-beta--56TO0bOFXsfmpc7YZ3wIUZ).
 
 ## Requisitos
 
@@ -32,11 +32,11 @@ Existem algumas condições para a alteração de pedidos relacionadas ao status
 
 ### Status do pedido a ser alterado
 
-Durante o [fluxo do pedido](https://help.vtex.com/pt/tutorial/fluxo-e-status-de-pedidos--tutorials_196), o único status no qual a **Alterar pedido** é válida pelo Admin VTEX é em `preparando entrega`. Para informações sobre alterações por API, veja o artigo [Como funciona a Alterar pedido](https://help.vtex.com/pt/tutorial/how-change-order-works-beta--56TO0bOFXsfmpc7YZ3wIUZ).
+Durante o [fluxo do pedido](/pt/tutorial/fluxo-e-status-de-pedidos--tutorials_196), o único status no qual a **Alterar pedido** é válida pelo Admin VTEX é em `preparando entrega`. Para informações sobre alterações por API, veja o artigo [Como funciona a Alterar pedido](/pt/tutorial/how-change-order-works-beta--56TO0bOFXsfmpc7YZ3wIUZ).
 
 ### Permissão no License Manager
 
-Para um usuário ser capaz de alterar pedidos, o seu [perfil de acesso](https://help.vtex.com/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) precisa estar associado a pelo menos um dos seguintes [recursos do License Manager](https://help.vtex.com/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3):
+Para um usuário ser capaz de alterar pedidos, o seu [perfil de acesso](/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) precisa estar associado a pelo menos um dos seguintes [recursos do License Manager](/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3):
 
 * `Orders Full Access`
 * `Change order`
@@ -49,13 +49,13 @@ As principais alterações de pedidos que podem ser realizados pelo Admin VTEX s
 * **Remover:** uma quantidade parcial ou total de itens.
 * **Alterar peso:** os itens podem passar a ter um peso maior ou menor.
 * **Substituir itens:** trocar itens por outros, incluindo itens precificados por peso.
-* **Alterar preço:** [mudar valor total do pedido](https://help.vtex.com/pt/tutorial/alterar-valor-total-do-pedido--2asq4BmxvSD8Tw9xpfZuMo).
+* **Alterar preço:** [mudar valor total do pedido](/pt/tutorial/alterar-valor-total-do-pedido--2asq4BmxvSD8Tw9xpfZuMo).
 
-Todas estas ações são realizadas pela [página de detalhes](https://help.vtex.com/pt/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl) do pedido, que você acessar de duas formas, descritas a seguir.
+Todas estas ações são realizadas pela [página de detalhes](/pt/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl) do pedido, que você acessar de duas formas, descritas a seguir.
 
 ### Acessar pedido pela página Todos os pedidos
 
-No Admin VTEX, acesse **Pedidos >** [Todos os pedidos](https://help.vtex.com/pt/tutorial/lista-de-pedidos-interface--2QTduKHAJMFIZ3BAsi6Pi) e clique no pedido desejado, ou digite **Todos os pedidos** na barra de busca no topo da página. Em seguida, clique no pedido desejado. Se necessário, você pode utilizar [filtros](https://help.vtex.com/pt/tutorial/filtrar-todos-pedidos--tutorials_192) para refinar sua busca.
+No Admin VTEX, acesse **Pedidos >** [Todos os pedidos](/pt/tutorial/lista-de-pedidos-interface--2QTduKHAJMFIZ3BAsi6Pi) e clique no pedido desejado, ou digite **Todos os pedidos** na barra de busca no topo da página. Em seguida, clique no pedido desejado. Se necessário, você pode utilizar [filtros](/pt/tutorial/filtrar-todos-pedidos--tutorials_192) para refinar sua busca.
 
 ### Acessar pedido usando a barra de busca global
 
@@ -75,7 +75,7 @@ Uma vez na página de detalhes do pedido, você pode realizar as seguintes alter
 * [Substituir itens](#substituir-itens)
 * [Alterar peso](#alterar-peso)
 
-> ℹ️ É possível realizar uma única alteração no pedido ou combinar várias de uma só vez. Não existe um limite para quantas vezes um pedido pode ser alterado. Para mais informações, veja o artigo [Como funciona a Alterar pedido](https://help.vtex.com/pt/tutorial/como-funciona-a-alterar-pedido-beta--56TO0bOFXsfmpc7YZ3wIUZ).
+> ℹ️ É possível realizar uma única alteração no pedido ou combinar várias de uma só vez. Não existe um limite para quantas vezes um pedido pode ser alterado. Para mais informações, veja o artigo [Como funciona a Alterar pedido](/pt/tutorial/como-funciona-a-alterar-pedido-beta--56TO0bOFXsfmpc7YZ3wIUZ).
 
 ### Adicionar itens
 
@@ -202,8 +202,8 @@ Na página **Gerenciar itens do pedido**, se você se arrepender de alguma alter
 
 Em qualquer tipo de [alteração de pedido](#tipos-de-alteracao-de-pedidos), na página **Gerenciar itens do pedido**, ao clicar em `Revisar e aplicar`, pode ser que a alteração não seja aprovada, o que te faz ser redirecionado de volta para a página de detalhes do pedido. Alguns dos motivos para alterações serem negadas são:
 
-* **Item indisponível:** o SKU pode [não aparecer no site da loja](https://help.vtex.com/pt/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382) ou estar indisponível devido a erro ou falta de configurações de catálogo, preço ou logística. 
-* **Inventário insuficiente:** a quantidade de itens adicionados ou substituídos na alteração pode ser maior do que a quantidade de itens disponíveis para venda no seu [inventário](https://help.vtex.com/pt/tutorial/gerenciar-itens-em-estoque--tutorials_139).
+* **Item indisponível:** o SKU pode [não aparecer no site da loja](/pt/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382) ou estar indisponível devido a erro ou falta de configurações de catálogo, preço ou logística. 
+* **Inventário insuficiente:** a quantidade de itens adicionados ou substituídos na alteração pode ser maior do que a quantidade de itens disponíveis para venda no seu [inventário](/pt/tutorial/gerenciar-itens-em-estoque--tutorials_139).
 
 Se as configurações de **Catálogo** e inventário estiverem corretas e ainda assim as tentativas de alteração de pedidos resultarem em erro, pode ser um problema de processamento da plataforma. Neste caso, recomendamos entrar em contato com [nosso suporte](https://support.vtex.com/hc/pt-br/requests).
 

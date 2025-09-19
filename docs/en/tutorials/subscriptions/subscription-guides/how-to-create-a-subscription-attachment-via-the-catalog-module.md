@@ -15,18 +15,18 @@ locale: en
 subcategoryId: 1rA9wuuskW3PpjvMrhatAM
 ---
 
-> ℹ️ If you use the **Subscriptions** module in the VTEX Admin, we recommend creating a subscription plan through this module. For more information, see the article [Creating a subscription plan](https://help.vtex.com/en/tutorial/creating-a-subscription-plan--1qGRoFczm98Wgt81f9mUqC).
+> ℹ️ If you use the **Subscriptions** module in the VTEX Admin, we recommend creating a subscription plan through this module. For more information, see the article [Creating a subscription plan](/en/tutorial/creating-a-subscription-plan--1qGRoFczm98Wgt81f9mUqC).
 
-[Subscriptions](https://help.vtex.com/en/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453) is the VTEX solution that allows merchants to sell to subscribing customers on a recurring, automatic basis based on a specified frequency.
+[Subscriptions](/en/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453) is the VTEX solution that allows merchants to sell to subscribing customers on a recurring, automatic basis based on a specified frequency.
 
 There are two ways your store's products can be purchased via subscription:
 
-* Creating [subscription plans](https://help.vtex.com/en/tutorial/como-criar-um-plano-de-assinatura-beta--1qGRoFczm98Wgt81f9mUqC) via the **Subscriptions** module.
+* Creating [subscription plans](/en/tutorial/como-criar-um-plano-de-assinatura-beta--1qGRoFczm98Wgt81f9mUqC) via the **Subscriptions** module.
 * Creating subscription attachments via the **Catalog** module.
 
 This article explains how to create subscription attachments via the **Catalog**, which is recommended when your store does not use the **Subscriptions (Beta)** module.
 
-> ⚠️ It's important to understand the use of the term attachment in the context of subscriptions:<ul><li>[Attachment](https://help.vtex.com/en/tutorial/o-que-e-um-anexo--aGICk0RVbqKg6GYmQcWUm): An optional, no-cost customization of the SKU that allows the merchant to add additional information to an item.</li><li>**Subscription attachment:** A specific type of attachment that allows creating subscriptions for an SKU. Customers can subscribe to receive the SKU periodically when it is associated with a subscription attachment.</li><li>**SKU subscription with attachment:** When a customer creates a subscription from an order containing a SKU with an attachment, the attachment from the original order will only be kept in future subscription orders if the merchant enables this setting. This can be done only via API using the [Edit subscriptions settings](https://developers.vtex.com/docs/api-reference/subscriptions-api-v3#post-/api/rns/settings) endpoint. Learn more in [How to keep attachments from original orders in subscriptions](https://developers.vtex.com/docs/guides/how-to-keep-attachments-from-original-orders-in-subscriptions).</li></ul>
+> ⚠️ It's important to understand the use of the term attachment in the context of subscriptions:<ul><li>[Attachment](/en/tutorial/o-que-e-um-anexo--aGICk0RVbqKg6GYmQcWUm): An optional, no-cost customization of the SKU that allows the merchant to add additional information to an item.</li><li>**Subscription attachment:** A specific type of attachment that allows creating subscriptions for an SKU. Customers can subscribe to receive the SKU periodically when it is associated with a subscription attachment.</li><li>**SKU subscription with attachment:** When a customer creates a subscription from an order containing a SKU with an attachment, the attachment from the original order will only be kept in future subscription orders if the merchant enables this setting. This can be done only via API using the [Edit subscriptions settings](https://developers.vtex.com/docs/api-reference/subscriptions-api-v3#post-/api/rns/settings) endpoint. Learn more in [How to keep attachments from original orders in subscriptions](https://developers.vtex.com/docs/guides/how-to-keep-attachments-from-original-orders-in-subscriptions).</li></ul>
 
 ## Catalog subscription attachment
 
@@ -104,6 +104,6 @@ After that, customers will be able to create subscriptions in your store to auto
 
 ## Learn more
 
-* [How subscriptions work](https://help.vtex.com/en/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453)
-* [How to configure subscriptions in your store](https://help.vtex.com/en/tutorial/como-configurar-assinaturas--1FA9dfE7vJqxBna9Nft5Sj)
+* [How subscriptions work](/en/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453)
+* [How to configure subscriptions in your store](/en/tutorial/como-configurar-assinaturas--1FA9dfE7vJqxBna9Nft5Sj)
 * [How to keep attachments from original orders in subscriptions](https://developers.vtex.com/docs/guides/how-to-keep-attachments-from-original-orders-in-subscriptions)

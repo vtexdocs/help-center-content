@@ -21,7 +21,7 @@ When attempting to cancel an order at the **Orders** module, sometimes the syste
 
 ### How to identify the error
 
-As explained in the article [Checking error details in the orders](https://help.vtex.com/en/tutorial/como-verificar-detalhes-de-erros-nos-pedidos--frequentlyAskedQuestions_6718), you access the order, as shown below:
+As explained in the article [Checking error details in the orders](/en/tutorial/como-verificar-detalhes-de-erros-nos-pedidos--frequentlyAskedQuestions_6718), you access the order, as shown below:
 
 1. In the VTEX Admin, go to **Orders > All Orders**, or type **All Orders** in the search bar at the top of the page.
 2. Click the desired order.

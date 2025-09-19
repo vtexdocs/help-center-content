@@ -37,13 +37,13 @@ O destaque de promoção pode ser aplicado em diferentes tipos de promoções e 
 
 Os seguintes tipos de descontos são elegíveis para a aplicação de um destaque:
 
-- [Desconto percentual](https://help.vtex.com/pt/tutorial/configurar-promocao-de-desconto-percentual-para-um-sku-especifico--3rbh8ELSLu2IGCeQ6SImU0): oferece uma redução percentual no valor do produto.
-- [Frete percentual](https://help.vtex.com/pt/tutorial/configurar-promocao-de-desconto-percentual-para-um-sku-especifico--3rbh8ELSLu2IGCeQ6SImU0): aplica um desconto em parte do valor do frete, permitindo que os clientes paguem menos pelo envio e incentivando a decisão de compra.
-- [Frete máximo](https://help.vtex.com/pt/tutorial/configurar-promocoes-de-frete--6Lo5BR61KMiUFAAHGCdgfW): estabelece um valor máximo para o frete, independentemente de fatores como distância ou peso do pedido.
-- [Frete grátis](https://help.vtex.com/pt/tutorial/configurar-promocoes-de-frete--6Lo5BR61KMiUFAAHGCdgfW): elimina totalmente o custo de envio. 
+- [Desconto percentual](/pt/tutorial/configurar-promocao-de-desconto-percentual-para-um-sku-especifico--3rbh8ELSLu2IGCeQ6SImU0): oferece uma redução percentual no valor do produto.
+- [Frete percentual](/pt/tutorial/configurar-promocao-de-desconto-percentual-para-um-sku-especifico--3rbh8ELSLu2IGCeQ6SImU0): aplica um desconto em parte do valor do frete, permitindo que os clientes paguem menos pelo envio e incentivando a decisão de compra.
+- [Frete máximo](/pt/tutorial/configurar-promocoes-de-frete--6Lo5BR61KMiUFAAHGCdgfW): estabelece um valor máximo para o frete, independentemente de fatores como distância ou peso do pedido.
+- [Frete grátis](/pt/tutorial/configurar-promocoes-de-frete--6Lo5BR61KMiUFAAHGCdgfW): elimina totalmente o custo de envio. 
 - **Brinde**: oferece um produto extra sem custo ao cliente, ao comprar um determinado item ou atingir um valor mínimo de compra.
 
-Para mais informações, acesse os artigos da seção [Promoções](https://help.vtex.com/pt/subcategory/promocoes--1yTYB5p4b6iwMsUg8uieyq).
+Para mais informações, acesse os artigos da seção [Promoções](/pt/subcategory/promocoes--1yTYB5p4b6iwMsUg8uieyq).
 
 ## Restrições
 

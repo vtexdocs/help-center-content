@@ -27,8 +27,8 @@ No entanto, você pode preferir que essa loja funcione como ponto de retirada __
 
 Para implementar um ponto de retirada de contingência, é necessário configurar os seguintes passos:
 
-1. No Admin VTEX, [cadastre um novo ponto de retirada](https://help.vtex.com/pt/tutorial/cadastro-de-pontos-de-retirada--2R5ClQiwe4KoSQgsuiOw4E) na loja, que possua o estoque de onde sairão os produtos, para abastecer esse ponto de retirada.
-2. [Crie uma nova política de envio](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140#cadastrar-uma-politica-de-envio), cujo o tipo de envio tenha o mesmo nome do tipo de envio já configurado na polítca utilizado na loja física, onde os produtos serão retirados.
+1. No Admin VTEX, [cadastre um novo ponto de retirada](/pt/tutorial/cadastro-de-pontos-de-retirada--2R5ClQiwe4KoSQgsuiOw4E) na loja, que possua o estoque de onde sairão os produtos, para abastecer esse ponto de retirada.
+2. [Crie uma nova política de envio](/pt/tutorial/politica-de-envio--tutorials_140#cadastrar-uma-politica-de-envio), cujo o tipo de envio tenha o mesmo nome do tipo de envio já configurado na polítca utilizado na loja física, onde os produtos serão retirados.
 3. Associe esta nova política ao ponto de retirada recém-criado.
 
 Dessa forma, você terá duas rotas de logística de entrega: uma logística com o estoque da loja física, e uma logística diferente com o estoque de outra loja.

@@ -15,11 +15,11 @@ locale: es
 subcategoryId: 31ICVopiWZfSTdr9jZMShb
 ---
 
-**Facturación** es la página en la que gestionas todos los aspectos financieros de tu cuenta VTEX. Solo está disponible para usuarios con un [rol Financiero](https://help.vtex.com/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc). Para ver, editar o realizar cualquier acción en esta página, solicita permiso al propietario de la tienda. 
+**Facturación** es la página en la que gestionas todos los aspectos financieros de tu cuenta VTEX. Solo está disponible para usuarios con un [rol Financiero](/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc). Para ver, editar o realizar cualquier acción en esta página, solicita permiso al propietario de la tienda. 
 
 Para acceder a esta sección, haz clic en tu **avatar de perfil**, que se puede identificar por la primera letra de tu dirección de email, y luego haz clic en **Facturación**. Selecciona la pestaña que deseas visitar, como **Contratos, Facturas, Datos de registro y Contactos de facturación**.
 
-> ℹ️ Solo los usuarios con perfil de acceso [Finance](https://help.vtex.com/es/tutorial/predefined-roles--jGDurZKJHvHJS13LnO7Dy#finance), [Finance Full Access](https://help.vtex.com/es/tutorial/predefined-roles--jGDurZKJHvHJS13LnO7Dy#finance-full-access) o con recursos de [Billing](https://help.vtex.com/es/tutorial/recursos-do-license-manager-billing--13qKy6rwf9chc8ta90rDcy) vinculadas a su Perfil de acceso tendrán acceso a esta sección del VTEX Admin.            
+> ℹ️ Solo los usuarios con perfil de acceso [Finance](/es/tutorial/predefined-roles--jGDurZKJHvHJS13LnO7Dy#finance), [Finance Full Access](/es/tutorial/predefined-roles--jGDurZKJHvHJS13LnO7Dy#finance-full-access) o con recursos de [Billing](/es/tutorial/recursos-do-license-manager-billing--13qKy6rwf9chc8ta90rDcy) vinculadas a su Perfil de acceso tendrán acceso a esta sección del VTEX Admin.            
 
 ![Admin v4 Faturas menu ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/facturas/facturaci%C3%B3n-visi%C3%B3n-general/vision-general-facturacion_1.jpg)
 

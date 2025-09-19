@@ -15,13 +15,13 @@ locale: en
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
-The Promotions module defines which promotion will be applied to a purchase. Similarly, the [Checkout](https://help.vtex.com/pt/tutorial/checkout-vtex-visao-geral--7wcprkM7yZUflOqbzAN5SI) module selects which seller will fulfill an order. This logic is called promotion competition.  
+The Promotions module defines which promotion will be applied to a purchase. Similarly, the [Checkout](/pt/tutorial/checkout-vtex-visao-geral--7wcprkM7yZUflOqbzAN5SI) module selects which seller will fulfill an order. This logic is called promotion competition.  
 
 Promotion competition occurs when:  
 
 - The applied promotions have the same type of discount.  
 - More than one promotion is applied to the same item.  
-- These promotions aren't [configured](https://help.vtex.com/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI#4-restricoes-e-limitacoes-de-uso) to allow combination.
+- These promotions aren't [configured](/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI#4-restricoes-e-limitacoes-de-uso) to allow combination.
 
 Learn more about some concepts of the Promotions module to understand how the promotion selection that will be applied works.  
 
@@ -33,10 +33,10 @@ Learn more about some concepts of the Promotions module to understand how the pr
 ## Promotion effects
 
 Promotion effects are related to the benefits the promotion offers, which can be of four types:  
-   - **Price discount**: Promotions that apply a percentage or nominal discount to the product price. This includes multiple discounts, such as [regular promotions](https://help.vtex.com/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI) and other mechanisms affecting the item price.  
-- **Shipping discount**: [Promotions with a discount applied to the shipping cost](https://help.vtex.com/pt/tutorial/configurar-promocoes-de-frete--6Lo5BR61KMiUFAAHGCdgfW).  
+   - **Price discount**: Promotions that apply a percentage or nominal discount to the product price. This includes multiple discounts, such as [regular promotions](/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI) and other mechanisms affecting the item price.  
+- **Shipping discount**: [Promotions with a discount applied to the shipping cost](/pt/tutorial/configurar-promocoes-de-frete--6Lo5BR61KMiUFAAHGCdgfW).  
 - **Gift**: Promotions that offer customers one or more gifts.  
-- **Formula**: Promotions with nominal discount based on [formula](https://help.vtex.com/pt/tutorial/promocao-regular-com-desconto-nominal-baseado-em-formula--2Pwrq6THyGViNedQG381jV), which is one of the options of a regular promotion.
+- **Formula**: Promotions with nominal discount based on [formula](/pt/tutorial/promocao-regular-com-desconto-nominal-baseado-em-formula--2Pwrq6THyGViNedQG381jV), which is one of the options of a regular promotion.
 
 ## Promotion sorting rule
 
@@ -89,7 +89,7 @@ Priority is given to the promotion that gives the greatest discount. For example
 
 ## Combined promotions
 
-When promotions are [configured](https://help.vtex.com/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI#4-restricoes-e-limitacoes-de-uso) to allow combination, they're always applied if their conditions are met.  
+When promotions are [configured](/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI#4-restricoes-e-limitacoes-de-uso) to allow combination, they're always applied if their conditions are met.  
 
 They're applied to the amount already discounted by the promotion that won among non-combinable promotions. The promotion application order follows the type and value sorting criteria described.  
 
@@ -100,7 +100,7 @@ The application sequence is:
 <div style="background-color: #fff8e1; border-left: 4px solid #ffecb3; padding: 12px 16px; margin: 16px 0; font-family: sans-serif; overflow: auto;">
   <p style="margin: 0;">
     Orders originating from 
-    <a href="https://help.vtex.com/pt/tutorial/configurar-promocao-para-marketplace--tutorials_406" target="_blank" style="color: #1976d2; text-decoration: underline;">
+    <a href="/pt/tutorial/configurar-promocao-para-marketplace--tutorials_406" target="_blank" style="color: #1976d2; text-decoration: underline;">
       Marketplace
     </a> 
     or Fulfillment don't support combined promotions, as the use of promotions on VTEX or external marketplaces is restricted to specific types.
@@ -123,7 +123,7 @@ There are two competition strategies:
 <div style="background-color: #e3f2fd; border-left: 4px solid #2196f3; padding: 12px 16px; margin: 16px 0; font-family: sans-serif; overflow: auto;">
   <p style="margin: 0;">
     By default, all accounts follow the competition by scenario strategy. If the item-based competition strategy better suits your business needs, 
-    <a href="https://help.vtex.com/en/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM" target="_blank" style="color: #1976d2; text-decoration: underline;">
+    <a href="/en/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM" target="_blank" style="color: #1976d2; text-decoration: underline;">
       please open a ticket with our Support team
     </a> 
     and request the change.
@@ -287,7 +287,7 @@ VTEX applies the strategy that gives the greatest discount. Since the final orde
 
 ### Competition by item
 
-The Promotions module can be configured to apply the greatest discount on each item in the cart, rather than combining promotions at the cart level. Stores can choose this configuration based on their business strategy. If you want to use this model and it's not enabled yet, [open a ticket](https://help.vtex.com/pt/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM) with the Support team to request the change.  
+The Promotions module can be configured to apply the greatest discount on each item in the cart, rather than combining promotions at the cart level. Stores can choose this configuration based on their business strategy. If you want to use this model and it's not enabled yet, [open a ticket](/pt/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM) with the Support team to request the change.  
 
 Competition by item works like this:  
 

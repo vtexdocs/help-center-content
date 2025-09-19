@@ -14,7 +14,7 @@ locale: en
 legacySlug: why-i-do-not-receive-my-abandoned-cart-emails
 ---
 
-In some cases, the [Trigger settings](https://help.vtex.com/en/tutorial/how-to-create-a-trigger-in-Master-Data--tutorials_1270 "Trigger") for [Cart abandonment](https://help.vtex.com/en/tutorial/setting-up-abandoned-carts--tutorials_740#) may not work properly. This occurs because of improper configuration settings. These errors may however easily be corrected through [Master Data](https://help.vtex.com/en/tutorial/--4otjBnR27u4WUIciQsmkAw).
+In some cases, the [Trigger settings](/en/tutorial/how-to-create-a-trigger-in-Master-Data--tutorials_1270 "Trigger") for [Cart abandonment](/en/tutorial/setting-up-abandoned-carts--tutorials_740#) may not work properly. This occurs because of improper configuration settings. These errors may however easily be corrected through [Master Data](/en/tutorial/--4otjBnR27u4WUIciQsmkAw).
 
 Follow the step-by-step below in order to access the settings page:
 

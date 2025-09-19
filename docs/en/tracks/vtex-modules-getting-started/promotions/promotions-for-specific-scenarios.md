@@ -40,7 +40,7 @@ You can define a discount value for each of these lists. If, for example, list 1
 
 Two examples of this type of promotion would be "Buy a pair of pants and get 10% off when buying a belt" and "Buy a pair of sneakers + a pair of socks and get a 15% off".
 
-To understand the Buy Together promotion in more detail, read our article on [Creating a Buy Together Promotion](https://help.vtex.com/en/tutorial/buy-together--tutorials_323).
+To understand the Buy Together promotion in more detail, read our article on [Creating a Buy Together Promotion](/en/tutorial/buy-together--tutorials_323).
 
 ### More for Less
 
@@ -54,7 +54,7 @@ For example:
 - For every `3` products, the customer will get `1` `free` product.
 - For every `5` products, the customer will get `2` products with a `30%` `discount`.
 
-To understand the More for Less promotion in more detail, read the article [Creating More for Less promotion](https://help.vtex.com/en/tutorial/creating-more-for-less-promotion--tutorials_325).
+To understand the More for Less promotion in more detail, read the article [Creating More for Less promotion](/en/tutorial/creating-more-for-less-promotion--tutorials_325).
 
 ### Progressive Discount
 
@@ -68,7 +68,7 @@ To add more details to the progressive discount promotion, click on the "+" butt
 
 ![Desconto progressivo - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-modules-getting-started/promotions/promotions-for-specific-scenarios_3.png)
 
-To understand the Progressive Discount promotion in more detail, read our article on [How progressive discount works](https://help.vtex.com/en/tutorial/progressive-discount--tutorials_324).
+To understand the Progressive Discount promotion in more detail, read our article on [How progressive discount works](/en/tutorial/progressive-discount--tutorials_324).
 
 ### Buy One Get One
 
@@ -78,7 +78,7 @@ The applied discount (free shipping or freebie) must be defined in the promotion
 
 ![Compre um e leve outro - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-modules-getting-started/promotions/promotions-for-specific-scenarios_4.png)
 
-To understand the Buy One Get One promotion in more detail, read our article on [How the Buy and Win promotion works](https://help.vtex.com/en/tutorial/buy-and-win--tutorials_322).
+To understand the Buy One Get One promotion in more detail, read our article on [How the Buy and Win promotion works](/en/tutorial/buy-and-win--tutorials_322).
 
 ### Restricting promotional products in cart
 
@@ -86,7 +86,7 @@ This setting determines how many items in the cart will be affected by a promoti
 
 > ⚠️ It is important to note that such restrictions are only **valid for regular promotions with percentage discounts**.
 
-After filling in all the [regular promotion fields](https://help.vtex.com/en/tutorial/regular-promotion--tutorials_327) with the percentage discount, you can __set a maximum number of items affected per cart__ by checking the box for this option, found in the __restrictions__ section.
+After filling in all the [regular promotion fields](/en/tutorial/regular-promotion--tutorials_327) with the percentage discount, you can __set a maximum number of items affected per cart__ by checking the box for this option, found in the __restrictions__ section.
 
 ![Limite itens - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-modules-getting-started/promotions/promotions-for-specific-scenarios_5.png)
 

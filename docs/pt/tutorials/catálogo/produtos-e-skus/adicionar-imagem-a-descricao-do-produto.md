@@ -20,6 +20,6 @@ subcategoryId: pwxWmUu7T222QyuGogs68
 1. No Admin VTEX, acesse __Catálogo__, ou digite __Catálogo__ na barra de busca no topo da página.
 2. Clique em __Todos os produtos__.
 3. Vá até o produto desejado e clique em `Alterar`.
-4. No campo __Descrição do produto__, insira a tag HTML com a [URL de referência da imagem](https://help.vtex.com/pt/tutorial/como-definir-a-url-de-um-produto--frequentlyAskedQuestions_368).
+4. No campo __Descrição do produto__, insira a tag HTML com a [URL de referência da imagem](/pt/tutorial/como-definir-a-url-de-um-produto--frequentlyAskedQuestions_368).
 5. Clique em `Salvar`.
 

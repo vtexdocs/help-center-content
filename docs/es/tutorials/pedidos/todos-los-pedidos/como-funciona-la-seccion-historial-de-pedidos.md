@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 2t00bBkcAwIkgSCGKsMOwY
 ---
 
-En la [página de detalles del pedido](https://help.vtex.com/es/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl), el **Historial de pedidos** es la sección que trae cada pedido en su detalle, ilustra todo el proceso de transición de los status, medio de pago utilizado, emails intercambiados con el cliente y la posibilidad de incluirse comentarios. 
+En la [página de detalles del pedido](/es/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl), el **Historial de pedidos** es la sección que trae cada pedido en su detalle, ilustra todo el proceso de transición de los status, medio de pago utilizado, emails intercambiados con el cliente y la posibilidad de incluirse comentarios. 
 
 Su propósito principal es ilustrar todo el flujo que ocurrió con el pedido, a fin de identificar fácilmente las desviaciones del comportamiento estándar o identificar fácilmente la información del pedido.
 
@@ -35,7 +35,7 @@ Será posible interactuar en ésta para validar informaciones como el Afiliado u
 
 ## Emails intercambiados con el cliente
 
-El **Historial de pedidos** está directamente relacionado al [Conversation Tracker](https://help.vtex.com/es/tutorial/conversation-tracker), que es utilizado para unificar toda la comunicación hecha con un cliente durante el flujo de un pedido. Esta comunicación también incluye los mensajes enviados por cualquier otro sistema integrado.
+El **Historial de pedidos** está directamente relacionado al [Conversation Tracker](/es/tutorial/conversation-tracker), que es utilizado para unificar toda la comunicación hecha con un cliente durante el flujo de un pedido. Esta comunicación también incluye los mensajes enviados por cualquier otro sistema integrado.
 
 Esto es, en toda interacción como pago aprobado, preparando entrega, facturación, despacho y entrega será comunicado junto al cliente por email. Estos emails se inscribirán en el **Historial de pedidos** del pedido en cuestión.
 

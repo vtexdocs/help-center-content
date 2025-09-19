@@ -62,8 +62,8 @@ Consulta los siguientes ejemplos y observa los que se pueden utilizar como host 
 
 Para garantizar el acceso a tu tienda a través de diferentes URL, tales como `www.mitienda.com` y `mitienda.com` debes configurar un único host principal y redirigir las direcciones adicionales a la dirección principal. Para más información sobre redirecciones, consulta:
 
-* [Redirección de otras direcciones](https://help.vtex.com/es/tutorial/redirecionamento-de-outros-enderecos--3Xi2AeLUx2QpJQu8DTX8KQ)
-* [Mejores prácticas para acceder a tienda sin www](https://help.vtex.com/es/tutorial/configurando-acesso-sem-www--tutorials_4278)
+* [Redirección de otras direcciones](/es/tutorial/redirecionamento-de-outros-enderecos--3Xi2AeLUx2QpJQu8DTX8KQ)
+* [Mejores prácticas para acceder a tienda sin www](/es/tutorial/configurando-acesso-sem-www--tutorials_4278)
 
 Ten en cuenta que lo recomendado es implementar un único host en tu tienda.
 
@@ -80,12 +80,12 @@ Para registrar un nuevo host, el mismo debe cumplir con las prácticas descritas
 7. Haz clic en el botón `Agregar`.
 8. Haz clic en el botón `Guardar`.
 
-Después de estos pasos, puedes [configurar el apuntamiento de DNS a VTEX](https://help.vtex.com/es/tutorial/configurando-o-apontamento-de-dns-para-a-vtex--tutorials_4280).
+Después de estos pasos, puedes [configurar el apuntamiento de DNS a VTEX](/es/tutorial/configurando-o-apontamento-de-dns-para-a-vtex--tutorials_4280).
 
 > ⚠️ Para las tiendas[ FastStore](https://www.faststore.dev/), también es necesario configurar una dirección con el subdominio `secure`. Para más información, consulta la guía [Configuring external DNS for a custom domain](https://www.faststore.dev/docs/go-live/2-configuring-external-dns).
 
-> ❗ Si tu operación tiene más de una cuenta VTEX o [subcuentas](https://help.vtex.com/es/tutorial/crear-subconta-multitienda-multidominio--tutorials_510), no cambies el host de una cuenta a otra. Esto causará fallas en varias partes de tu tienda.
+> ❗ Si tu operación tiene más de una cuenta VTEX o [subcuentas](/es/tutorial/crear-subconta-multitienda-multidominio--tutorials_510), no cambies el host de una cuenta a otra. Esto causará fallas en varias partes de tu tienda.
 
 ## Cambiar host
 
-La plataforma VTEX admite cambios de host sin efectos adversos. Si necesitas cambiar el host de la tienda, sigue los pasos en [Cambiar el dominio de la tienda](https://help.vtex.com/es/tutorial/cambiar-el-dominio-de-la-tienda--frequentlyAskedQuestions_626/).
+La plataforma VTEX admite cambios de host sin efectos adversos. Si necesitas cambiar el host de la tienda, sigue los pasos en [Cambiar el dominio de la tienda](/es/tutorial/cambiar-el-dominio-de-la-tienda--frequentlyAskedQuestions_626/).

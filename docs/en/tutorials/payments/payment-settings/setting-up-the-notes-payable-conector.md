@@ -28,4 +28,4 @@ To set it up, follow the steps below:
 6. Click `Save`.
 
 ## Setting up the payment condition
-After following the steps indicated above, the Notes Payable connector will be configured in your store. Thus, when registering a note payable (on Payments'  __Custom Payments__ tab), it will be available in the __Process with affiliation__ field. To learn how to register custom payments, access [How to configure a custom payment](https://help.vtex.com/en/tutorial/how-to-configure-a-custom-payment).
+After following the steps indicated above, the Notes Payable connector will be configured in your store. Thus, when registering a note payable (on Payments'  __Custom Payments__ tab), it will be available in the __Process with affiliation__ field. To learn how to register custom payments, access [How to configure a custom payment](/en/tutorial/how-to-configure-a-custom-payment).

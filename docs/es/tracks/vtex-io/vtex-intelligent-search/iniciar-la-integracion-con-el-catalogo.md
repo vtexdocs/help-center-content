@@ -27,4 +27,4 @@ Comenzará el proceso de indexación. Una vez completado, se mostrará la pantal
 
 ![integracoes-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/vtex-io/vtex-intelligent-search/iniciar-la-integracion-con-el-catalogo_1.PNG)
 
-No es necesario repetir este proceso. Después de que comience la integración, puedes seguir el status de indexación en la página [Historial de indexación](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4flMwTaQL8FRKl1YT58ezH).
+No es necesario repetir este proceso. Después de que comience la integración, puedes seguir el status de indexación en la página [Historial de indexación](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4flMwTaQL8FRKl1YT58ezH).

@@ -24,7 +24,7 @@ De este modo, el precio fijo se sobrepone al __precio base__, incluso en los cas
 
 Esto significa que el precio fijo tiene una prioridad sobre el precio base y la regla de precio definida para una tabla.
 
-> ⚠️ Solo los [precios fijos](https://help.vtex.com/es/tracks/precios-101--6f8pwCns3PJHqMvQSugNfP/3g39iXkQza4AW7C7L814mj) se utilizan en nuestras integraciones nativas con marketplaces. Los otros escenarios previstos en la [arquitectura del sistema de precios](https://help.vtex.com/es/tracks/precios-101--6f8pwCns3PJHqMvQSugNfP/7GptzvlPDVM11ojEjywIQx) solo están disponibles para marketplaces VTEX-VTEX.
+> ⚠️ Solo los [precios fijos](/es/tracks/precios-101--6f8pwCns3PJHqMvQSugNfP/3g39iXkQza4AW7C7L814mj) se utilizan en nuestras integraciones nativas con marketplaces. Los otros escenarios previstos en la [arquitectura del sistema de precios](/es/tracks/precios-101--6f8pwCns3PJHqMvQSugNfP/7GptzvlPDVM11ojEjywIQx) solo están disponibles para marketplaces VTEX-VTEX.
 
 ## Funcionalidades 
 

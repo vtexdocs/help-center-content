@@ -40,5 +40,5 @@ Por añadir nuevos elementos visuales,  __el nuevo My Account demanda la revisi�
 
 > ❗ **VTEX migrará masivamente el nuevo My Account en el día 3 de julio de 2019.** Por lo tanto, es importante revisar las personalizaciones de la página desde ahora.
 
-Para saber más sobre el nuevo My Account, acceda a nuestros artículos sobre su __[configuración](https://help.vtex.com/es/tutorial/configuración-de-my-account--23Ayv5D6b86UBnYfoXqZL1)__ y __[funcionamiento](https://help.vtex.com/es/tutorial/como-funciona-el-my-account--2BQ3GiqhqGJTXsWVuio3Xh)__.
+Para saber más sobre el nuevo My Account, acceda a nuestros artículos sobre su __[configuración](/es/tutorial/configuración-de-my-account--23Ayv5D6b86UBnYfoXqZL1)__ y __[funcionamiento](/es/tutorial/como-funciona-el-my-account--2BQ3GiqhqGJTXsWVuio3Xh)__.
 

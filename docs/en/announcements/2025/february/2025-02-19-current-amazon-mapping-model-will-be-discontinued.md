@@ -27,5 +27,5 @@ Aiming to minimize errors when adding and sending products to Amazon, VTEX is de
 
 The **Amazon Listing** module will be available on all VTEX accounts as of March 17, 2025. We suggest using the trial period to get used to the new format and adapt your operation.
 
-If you have any questions or need support using **Amazon Listing,** please contact our [Support team](https://help.vtex.com/support).
+If you have any questions or need support using **Amazon Listing,** please contact our [Support team](/support).
 

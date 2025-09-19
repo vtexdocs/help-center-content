@@ -15,9 +15,9 @@ locale: pt
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-Na VTEX, é possível realizar a integração com o provedor de pagamento Cielo. Por meio deste conector, sua loja pode oferecer transações de pagamento em lojas físicas (VTEX Sales App), utilizando pontos de vendas (POS). Para mais informações, acesse [O que é o VTEX Sales App?](https://help.vtex.com/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf).
+Na VTEX, é possível realizar a integração com o provedor de pagamento Cielo. Por meio deste conector, sua loja pode oferecer transações de pagamento em lojas físicas (VTEX Sales App), utilizando pontos de vendas (POS). Para mais informações, acesse [O que é o VTEX Sales App?](/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf).
 
-> ℹ️ Para utilizar o provedor Cielo em sua loja por outros canais de venda online (exceto VTEX Sales App), acesse [Configurar pagamento com CieloEcommerce](https://help.vtex.com/pt/tutorial/configurar-pagamento-com-cieloecommerce--6zuELBqEo0QzApbU4l7L4).
+> ℹ️ Para utilizar o provedor Cielo em sua loja por outros canais de venda online (exceto VTEX Sales App), acesse [Configurar pagamento com CieloEcommerce](/pt/tutorial/configurar-pagamento-com-cieloecommerce--6zuELBqEo0QzApbU4l7L4).
 
 Para utilizar o provedor Cielo no VTEX Sales App, é necessário:
 
@@ -99,7 +99,7 @@ Os passos a seguir descrevem as configurações mínimas a serem realizadas para
 4. Em **Processar com o provedor**, selecione o conector configurado anteriormente.
 5. Ative a condição no campo **Status**.
 6. Se desejar utilizar um sistema antifraude, selecione a opção **Usar solução antifraude**.
-7. Se desejar, você também pode [configurar condições especiais de pagamento](https://help.vtex.com/pt/tutorial/condiciones-especiales--tutorials_456).
+7. Se desejar, você também pode [configurar condições especiais de pagamento](/pt/tutorial/condiciones-especiales--tutorials_456).
 8. Clique em `Salvar`.
 
 Depois de seguir os passos indicados, o provedor Cielo pode demorar até 10 minutos para aparecer como opção de pagamento no VTEX Sales App de sua loja.

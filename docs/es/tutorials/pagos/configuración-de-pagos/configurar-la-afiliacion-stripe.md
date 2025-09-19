@@ -60,7 +60,7 @@ Después de realizar la configuración en el ambiente VTEX, también debes confi
 
 Cuando hayas completado los pasos indicados, Stripe estará configurado en tu tienda. Así que cuando registres una condición de pago, esta estará disponible en el campo __Proceso con la afiliación__ (siempre y cuando el método de pago sea compatible con Stripe).
 
-Para configurar condiciones de pago, accede al artículo [Configurar condiciones de pago](https://help.vtex.com/es/tutorial/condiciones-de-pago--tutorials_455).
+Para configurar condiciones de pago, accede al artículo [Configurar condiciones de pago](/es/tutorial/condiciones-de-pago--tutorials_455).
 
 ## Configurar Google Pay
 
@@ -88,7 +88,7 @@ Con el conector Stripe configurado, puedes añadir Apple Pay siguiendo los pasos
 3. Haga clic en __Apple Pay > Configurar__ y luego en __Agregar a nuevo dominio__.
 4. Introduce el dominio público del sitio web de tu tienda.
 5. Haga clic en __Descargar archivo de verificación__ para guardarlo en su dispositivo.
-6. Crear las credenciales [appkey e apptoken](https://help.vtex.com/es/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet#).
+6. Crear las credenciales [appkey e apptoken](/es/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet#).
 7. Realice una llamada al endpoint para enviar el archivo de verificación previamente descargado, agregando las credenciales creadas y su dirección de dominio público en el encabezado (https://{{dominioPublicodoSite}}/well-known/raw/apple-developer-merchantid-domain-association).
 8. Haga clic en __Add__.
 9. Acceda al __Admin VTEX__.
@@ -101,7 +101,7 @@ Con el conector Stripe configurado, puedes añadir Apple Pay siguiendo los pasos
 16. En el campo __Procesar con afiliación__, selecciona la opción Stripe.
 17. Si tiene un antifraude configurado en su tienda, puede habilitarlo para esa condicione de pago marcando la casilla __Utilizar antifraude__.
 18. Elige si los pagos será con o sin cuotas.
-19. Si desea, puede [configurar condiciones especiales de pago](https://help.vtex.com/es/tutorial/condicoes-especiais).
+19. Si desea, puede [configurar condiciones especiales de pago](/es/tutorial/condicoes-especiais).
 20. Haga clic en __Guardar__.
 
 Cuando hayas realizado estos pasos, Apple Pay figurará en el checkout de la tienda como uno de los métodos de pago disponibles.

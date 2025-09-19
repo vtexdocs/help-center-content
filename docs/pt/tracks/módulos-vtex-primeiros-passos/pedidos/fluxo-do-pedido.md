@@ -15,13 +15,13 @@ trackSlugEN: pedidos
 order: 2
 ---
 
-O [fluxo do pedido](https://help.vtex.com/pt/tutorial/order-flow-and-status--tutorials_196) é o caminho percorrido por um pedido na plataforma VTEX, desde o momento em que o cliente clica no botão de Finalizar Compra até o momento em que o pedido é faturado ou cancelado.
+O [fluxo do pedido](/pt/tutorial/order-flow-and-status--tutorials_196) é o caminho percorrido por um pedido na plataforma VTEX, desde o momento em que o cliente clica no botão de Finalizar Compra até o momento em que o pedido é faturado ou cancelado.
 
 Alterações no pedido - sejam elas causadas pelo cliente, pela loja ou por sistemas externos - geram mudanças no __status do pedido__. E com, isso, o pedido se movimenta dentro do fluxo.
 
 ## Marketplaces e Sellers
 
-Os conceitos de [Marketplace e Seller](https://help.vtex.com/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402) são fundamentais para o entendimento do fluxo de um pedido na VTEX. Vamos entender por quê:
+Os conceitos de [Marketplace e Seller](/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402) são fundamentais para o entendimento do fluxo de um pedido na VTEX. Vamos entender por quê:
 
 - __Marketplace__ é o ambiente onde é realizado o fechamento do pedido, ou seja, onde o cliente realiza o processo de checkout. 
 - __Seller__ é o dono do SKU. É, portanto, o responsável pelo fulfilment - ou seja, por fazer a entrega do produto ao cliente. 
@@ -72,4 +72,4 @@ Ou seja, neste caso tanto as etapas de pagamento quanto de entrega são responsa
 
 > ℹ️ Todo pedido é finalizado em apenas um destes dois status possíveis:<br> <ul> <li>Faturado</li> <li>Cancelado</li> </ul>
 
-> ℹ️ Para entender em mais detalhes cada status dos pedidos, veja uma tabela com todos os status em [Entendendo os status](https://help.vtex.com/pt/tutorial/fluxo-de-pedido--tutorials_196#entendendo-os-status).
+> ℹ️ Para entender em mais detalhes cada status dos pedidos, veja uma tabela com todos os status em [Entendendo os status](/pt/tutorial/fluxo-de-pedido--tutorials_196#entendendo-os-status).

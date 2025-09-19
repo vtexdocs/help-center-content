@@ -17,7 +17,7 @@ order: 2
 
 O caminho que o dinheiro percorre ao ser trocado por um produto ou serviço é o que chamamos de __transação__.
 
-Em uma loja VTEX, uma transação se inicia toda vez que um usuário escolhe uma [condição de pagamento](https://help.vtex.com/pt/tutorial/diferenca-entre-meios-de-pagamento-e-condicoes-de-pagamento--3azJenhGFyUy2gsocms42Q) e fecha seu pedido. A partir daí, os dados da compra são enviados para a validação de cada um dos integrantes do processo.
+Em uma loja VTEX, uma transação se inicia toda vez que um usuário escolhe uma [condição de pagamento](/pt/tutorial/diferenca-entre-meios-de-pagamento-e-condicoes-de-pagamento--3azJenhGFyUy2gsocms42Q) e fecha seu pedido. A partir daí, os dados da compra são enviados para a validação de cada um dos integrantes do processo.
 
 As transações realizadas pelo módulo de pagamentos da VTEX passam por diversos status, desde o início do processo de autorização, passando pela liquidação do valor e chegando até a finalização da transação.
 
@@ -33,4 +33,4 @@ Veja abaixo um exemplo de linha do tempo com os status da transação.
 6. __Settlement of $__ (Liquidação do valor): Este status indica que o processo de __liquidação__ de um valor específico será iniciado. É importante ressaltar que, neste estágio, o valor __ainda não foi liquidado__. O que existe é apenas um aviso de que o processo de liquidação desse valor será realizado nos próximos status.
 7. __Settling__ (Liquidando): Neste status, inicia-se efetivamente a tentativa de __liquidação__ do valor. Os sistemas responsáveis iniciam o processo para que o valor da transação seja liquidado.
 8. __Settled__ (Liquidado): Quando a transação chegar neste status, isso indica que o valor foi __liquidado com sucesso__. A partir daqui, o fluxo passa a ser de inteira responsabilidade do __conector__. Cabe ao lojista acompanhar se o valor do pagamento será devidamente depositado na sua conta.
-9. __Finished__ (Finalizado): A transação chega ao status de __finished__ quando a nota fiscal com o valor do pagamento é emitida e vinculada ao pedido no OMS. É importante ter atenção a este status, pois mesmo após a liquidação bem-sucedida do valor, [é necessário incluir a nota fiscal no pedido](https://help.vtex.com/pt/faq/por-que-uma-transacao-foi-capturada-com-sucesso-mas-nao-foi-finalizada-no-pci?locale=pt).
+9. __Finished__ (Finalizado): A transação chega ao status de __finished__ quando a nota fiscal com o valor do pagamento é emitida e vinculada ao pedido no OMS. É importante ter atenção a este status, pois mesmo após a liquidação bem-sucedida do valor, [é necessário incluir a nota fiscal no pedido](/pt/faq/por-que-uma-transacao-foi-capturada-com-sucesso-mas-nao-foi-finalizada-no-pci?locale=pt).

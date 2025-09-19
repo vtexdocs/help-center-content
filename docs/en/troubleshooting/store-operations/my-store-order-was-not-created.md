@@ -21,11 +21,11 @@ tags:
   - Stock
 ---
 
-When a customer tries to buy a product and an error occurs in creating the order, it can be due to different reasons, such as payment problems, logistics issues, or [backend integrations](https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu) with ERPs (Enterprise Resource Planning).
+When a customer tries to buy a product and an error occurs in creating the order, it can be due to different reasons, such as payment problems, logistics issues, or [backend integrations](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu) with ERPs (Enterprise Resource Planning).
 
 Before considering complex causes for errors with orders that were not created, try the troubleshooting processes presented in this article. Some of the most common error scenarios are:
 
-* The item was not available in the [inventory](https://help.vtex.com/en/tutorial/inventory-management--tutorials_139), and the store was not configured to sell _out-of-stock_ products.
+* The item was not available in the [inventory](/en/tutorial/inventory-management--tutorials_139), and the store was not configured to sell _out-of-stock_ products.
 * The XML integration was not configured to send information about _out-of-stock_ products.
 
 ## Solutions
@@ -37,21 +37,21 @@ Consider the following troubleshooting processes for order creation errors:
 
 ### Manage inventory
 
-There are two ways to manage your [inventory](https://help.vtex.com/en/tutorial/inventory-management--tutorials_139):
+There are two ways to manage your [inventory](/en/tutorial/inventory-management--tutorials_139):
 
 * **Via API:** Using the endpoint [Update inventory by SKU and warehouse](https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/inventory/skus/-skuId-/warehouses/-warehouseId-).
 * **Via VTEX Admin:** Accessing _Catalog > Inventory > Inventory Management_.
 
 The following solutions focus on inventory management via VTEX Admin:
 
-* **Update inventory count:** In the line that corresponds to the desired SKU and warehouse, on the _Update Count_ column, type the number of items available for sales, and click `Save`. This number cannot be negative, otherwise you will have a [negative inventory](https://help.vtex.com/en/faq/why-is-my-stock-negative--frequentlyAskedQuestions_159).
+* **Update inventory count:** In the line that corresponds to the desired SKU and warehouse, on the _Update Count_ column, type the number of items available for sales, and click `Save`. This number cannot be negative, otherwise you will have a [negative inventory](/en/faq/why-is-my-stock-negative--frequentlyAskedQuestions_159).
 * **Configure unlimited inventory:** In the line that corresponds to the desired SKU and warehouse, on the _Unlimited inventory_ column, turn on the switch, and click `Save`. When this configuration is activated, the item is considered always available for sales and the store never runs _out-of-stock_ for it.
 
 > ℹ️ To configure *out-of-stock* products to be displayed in your storefront, in your VTEX Admin access **Catalog > All Products**, and in the product configuration page, in the **Product** tab, select the checkbox **Yes** for *Show when out of stock*.
 
 ### Review XML integration
 
-XML is a markup language that defines and stores data in a shareable manner. When your [store’s XML integration](https://help.vtex.com/en/tutorial/configurando-xml--tutorials_242) is not set for certain configurations, it might not be able to export a product information.
+XML is a markup language that defines and stores data in a shareable manner. When your [store’s XML integration](/en/tutorial/configurando-xml--tutorials_242) is not set for certain configurations, it might not be able to export a product information.
 
 An error with product missing information can happen when the product has no inventory and the integration is not set for sending _out-of-stock_ products. To activate the configuration, follow the steps below:
 

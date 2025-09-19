@@ -31,4 +31,4 @@ En general, la descontinuación de estos status no debería impactar a ninguna i
 
 Sin embargo, recomendamos que revise su integración para confirmar que estos status no se están utilizando realmente.
 
-> ℹ️ La acción de sacar el workflow del camino crítico del cierre de compra para pedidos de origen Fulfillment ya se realizó. Acceda a nuestro artículo para saber más sobre esta [ retirada del workflow en los pedidos de origen Fulfillment.](https://help.vtex.com/es/announcements/descontinuacao-dos-status-dos-pedidos-de-fulfillment-order-completed-order--4AJyu9fJNSKNpL4g4dfgcp)
+> ℹ️ La acción de sacar el workflow del camino crítico del cierre de compra para pedidos de origen Fulfillment ya se realizó. Acceda a nuestro artículo para saber más sobre esta [ retirada del workflow en los pedidos de origen Fulfillment.](/es/announcements/descontinuacao-dos-status-dos-pedidos-de-fulfillment-order-completed-order--4AJyu9fJNSKNpL4g4dfgcp)

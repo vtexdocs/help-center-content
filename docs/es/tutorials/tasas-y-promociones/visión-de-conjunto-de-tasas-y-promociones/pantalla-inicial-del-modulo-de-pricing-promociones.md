@@ -25,7 +25,7 @@ Hay tres departamentos dentro del módulo que son responsables de la configuraci
 
 La audiencia de campañas es una forma de definir el público objetivo al que una promoción puede ser aplicada. Es decir, usted puede crear segmentos de clientes basados en la definición de algunos criterios que serán elegibles para una determinada audiencia de campaña y consecuentemente a una o más promociones. Una audiencia de campaña puede asociarse a una o más [promociones de audiencias de campañas](https:///tutorial/promocao-de-campanha?locale=es "Crear promoción de campaña").
 
-[Aprenda cómo crear audiencias de campañas.](https://help.vtex.com/es/tutorial/como-criar-campanhas--6cnuDZJzIkIeocewAQQK4K "Crear campañas") 
+[Aprenda cómo crear audiencias de campañas.](/es/tutorial/como-criar-campanhas--6cnuDZJzIkIeocewAQQK4K "Crear campañas") 
 
 ## Promociones
 

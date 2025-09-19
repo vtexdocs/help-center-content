@@ -37,13 +37,13 @@ Para esto, el administrador de la tienda debe tener cuidado de no hacer promocio
 
 Hacer promociones es una buena manera de rotar el inventario almacenado. Mantener un inventario antiguo durante mucho tiempo es suficiente para perder ventas con nuevos productos.
 
-El administrador de la tienda puede aplicar descuentos por cantidad de productos dentro de una compra, fomentando así un mayor consumo de ese ítem. Un ejemplo de promoción en este contexto es el [Descuento Progresivo](https://help.vtex.com/es/tutorial/desconto-progressivo--tutorials_324).
+El administrador de la tienda puede aplicar descuentos por cantidad de productos dentro de una compra, fomentando así un mayor consumo de ese ítem. Un ejemplo de promoción en este contexto es el [Descuento Progresivo](/es/tutorial/desconto-progressivo--tutorials_324).
 
 Otra opción es llevar a cabo promociones en la venta de lotes. De esta manera, es una garantía de que el inventario antiguo de un determinado producto se venderá.
 
 Primero debe determinar los límites de aging considerando las características de su producto y segmento. A veces, los productos que causan más perjuicio debido a su conservación deben venderse a precio de costo o incluso por debajo del mismo.
 
-En este escenario, una [Promoción regular](https://help.vtex.com/es/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI) debería ayudar a la operación a quemar el inventario. Puede seleccionar productos o categorías específicas con exceso de stock y aplicar descuentos porcentuales (ej.: 20%) o nominales (ej.: $ 100) de forma masiva. El objetivo aquí es recuperar el crédito para volverlo a poner en operación.
+En este escenario, una [Promoción regular](/es/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI) debería ayudar a la operación a quemar el inventario. Puede seleccionar productos o categorías específicas con exceso de stock y aplicar descuentos porcentuales (ej.: 20%) o nominales (ej.: $ 100) de forma masiva. El objetivo aquí es recuperar el crédito para volverlo a poner en operación.
 
 Para calibrar la extensión de la promoción, puede usar las restricciones y el área de limitaciones de uso para definir, por ejemplo, si la promoción se aplicará ilimitadamente o si habrá un número máximo de usos.
 
@@ -65,14 +65,14 @@ A partir de esto, imagine un notebook que tiene un alto volumen de ventas y un b
 
 Aquí, el objetivo es ofrecer los ítems juntos de forma promocional. De esta manera, se garantiza que el cliente compre productos relacionados que aporten un margen agregado superior al administrador de la tienda. Esto se hace mediante promociones de venta cruzada.
 
-Promociones [Compre y Gane](https://help.vtex.com/es/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/jOu9b69mKbrTDfSJYAawy#compre-e-ganhe) y organización de [Kits](https://help.vtex.com/es/tutorial/o-que-e-um-kit--5ov5s3eHM4AqAAgqWwoc28) son las principales estrategias para este escenario.
+Promociones [Compre y Gane](/es/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/jOu9b69mKbrTDfSJYAawy#compre-e-ganhe) y organización de [Kits](/es/tutorial/o-que-e-um-kit--5ov5s3eHM4AqAAgqWwoc28) son las principales estrategias para este escenario.
 
 ## Segmentación de clientes
 Pensar en los perfiles de los clientes es una forma importante de aplicar promociones de manera eficiente. Es esencial agrupar a los clientes por segmento y región, considerando los impuestos e intereses como el núcleo de atractivos descuentos y promociones.
 
 En caso de que el administrador de la tienda tenga un rebate de algún fabricante, es interesante centrarse en la segmentación que consume este producto. De este modo, es otra forma de delimitar las categorías que recibirán descuentos previstos.
 
-Consulte el artículo de [promoción para un clúster de clientes](https://help.vtex.com/es/tutorial/criando-promocao-para-um-cluster-de-clientes--tutorials_342) para saber cómo implementar este método.
+Consulte el artículo de [promoción para un clúster de clientes](/es/tutorial/criando-promocao-para-um-cluster-de-clientes--tutorials_342) para saber cómo implementar este método.
 
 ## Flete gratis
 
@@ -80,4 +80,4 @@ Otra forma de atraer el interés de los clientes es una promoción que ofrece en
 
 Esta estrategia puede combinarse con otras mencionadas anteriormente. Puede ofrecer flete gratis por la compra de un gran volumen de un producto antiguo. También puede utilizar el flete gratis como un descuento en un pago al contado.
 
-Para más información sobre cómo hacer una promoción de flete gratis, vea el artículo [Crear Promoción Regular](https://help.vtex.com/es/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI).
+Para más información sobre cómo hacer una promoción de flete gratis, vea el artículo [Crear Promoción Regular](/es/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI).

@@ -23,7 +23,7 @@ Como essa chave é gerada no momento do login e tem prazo de validade curto, tor
 
 > ❗ A autenticação de dois fatores (2FA) é **obrigatória** no Admin da VTEX.<br><br>Sem 2FA, não é possível fazer login usando email e senha.<br><br>O 2FA não é obrigatório para outros métodos de login (Google, Facebook ou código de acesso).
 
-> ℹ️ Em algumas empresas, operadores de televendas não podem usar telefone celular. Por isso, usuários que tiverem apenas o [perfil de acesso de televendas](https://help.vtex.com/pt/tutorial/perfis-de-acesso-predefinidos--jGDurZKJHvHJS13LnO7Dy#call-center-operator) não são obrigados a habilitar autenticação de dois fatores.
+> ℹ️ Em algumas empresas, operadores de televendas não podem usar telefone celular. Por isso, usuários que tiverem apenas o [perfil de acesso de televendas](/pt/tutorial/perfis-de-acesso-predefinidos--jGDurZKJHvHJS13LnO7Dy#call-center-operator) não são obrigados a habilitar autenticação de dois fatores.
 
 ## Habilitar o 2FA
 
@@ -75,7 +75,7 @@ Para modificar as configurações de verificação em duas etapas, siga os passo
 
 ## Recuperar acesso ao Admin VTEX
 
-Se você perder o acesso ao método de autenticação escolhido e não estiver conseguindo fazer login, tente outro método de login ou siga os passos do artigo [Redefinir senha de acesso ao Admin VTEX](https://help.vtex.com/pt/tutorial/redefinir-senha-de-acesso-ao-admin-vtex--frequentlyAskedQuestions_531).
+Se você perder o acesso ao método de autenticação escolhido e não estiver conseguindo fazer login, tente outro método de login ou siga os passos do artigo [Redefinir senha de acesso ao Admin VTEX](/pt/tutorial/redefinir-senha-de-acesso-ao-admin-vtex--frequentlyAskedQuestions_531).
 
 Uma vez que tiver informado o código de acesso e redefinido a senha, você poderá alterar o método de autenticação de dois fatores conforme as instruções deste guia.
 

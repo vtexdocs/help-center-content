@@ -29,7 +29,7 @@ Aqui, explicaremos como configurar uma condição especial de pagamento a partir
 
 Em seguida, do lado direito da tela, clique no botão verde “+” e busque pela opção “Customer Credit”. Ela estará na seção “Outro”.
 
-Você será direcionado para a página de configuração da nova condição de pagamento. Explicamos como preencher os campos no artigo de [como configurar uma condição de pagamento](https://help.vtex.com/pt/tracks/customer-credit-como-comecar--1hCRg21lXYy2seOKgqQ2CC/21ok0GBwmcIeaY2IukYMOg#condicoes-de-pagamento "como configurar uma condição de pagamento") da track do Customer Credit.
+Você será direcionado para a página de configuração da nova condição de pagamento. Explicamos como preencher os campos no artigo de [como configurar uma condição de pagamento](/pt/tracks/customer-credit-como-comecar--1hCRg21lXYy2seOKgqQ2CC/21ok0GBwmcIeaY2IukYMOg#condicoes-de-pagamento "como configurar uma condição de pagamento") da track do Customer Credit.
 
 Ao finalizar a configuração das regras de prazo e parcelamento, prossiga para a clusterização:
 

@@ -17,7 +17,7 @@ announcementSynopsisEN: 'To improve data privacy, search-resolver no longer disp
 
 We have updated the [`search-resolver@0.x`](https://github.com/vtex-apps/search-resolver) API, an application necessary for the operation of the store search, to hide sensitive data related to the store's inventory. As of 3/20/22, the number of products in stock will no longer be displayed by [VTEX Search GraphQL](https://github.com/vtex-apps/search-graphql).
 
-Stores using [VTEX Intelligent Search](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG) will not be affected.
+Stores using [VTEX Intelligent Search](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG) will not be affected.
 
 ## What has changed?
 

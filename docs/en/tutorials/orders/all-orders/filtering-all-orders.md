@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 2t00bBkcAwIkgSCGKsMOwY
 ---
 
-> ℹ️ You can only access information from orders created in the last two years, and that same period is valid for customers through [My Account](https://help.vtex.com/en/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh).
+> ℹ️ You can only access information from orders created in the last two years, and that same period is valid for customers through [My Account](/en/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh).
 
 In the **Orders** module, the **All Orders** page allows you to access your store's orders, search and filter them, as shown in the image below:
 
@@ -47,9 +47,9 @@ To search using the search bar, type in the desired term and press the `enter` k
 - Order ID
 - Sequence
 
-[Sequence](https://help.vtex.com/en/tutorial/cuidados-ao-definir-a-numeracao-de-pedido--VAKKptfcaOxFxM8gfPobu) is a six-digit string displayed in your VTEX Admin right after the order ID. For example, in order `1268540501456-01 (501456)`, the order ID is `1268540501456`, the `-01` indicates that a seller will handle fulfillment, and the sequence is `501456`. 
+[Sequence](/en/tutorial/cuidados-ao-definir-a-numeracao-de-pedido--VAKKptfcaOxFxM8gfPobu) is a six-digit string displayed in your VTEX Admin right after the order ID. For example, in order `1268540501456-01 (501456)`, the order ID is `1268540501456`, the `-01` indicates that a seller will handle fulfillment, and the sequence is `501456`. 
 
-> ℹ️ In addition to the list above, it is possible to activate other search criteria, as you will see in the [Other](https://help.vtex.com/en/tutorial/filtrar-todos-pedidos--tutorials_192#filters-other) section.
+> ℹ️ In addition to the list above, it is possible to activate other search criteria, as you will see in the [Other](/en/tutorial/filtrar-todos-pedidos--tutorials_192#filters-other) section.
 
 By default, the **All orders** page has the orders created **Today** filter activated. To search by other dates, use the filters available under [Filters: Date](#filters-date) or [Created](#created).
 
@@ -135,25 +135,25 @@ You can use the filters under **Channel** to sort by sales channels and other as
 
 You can find the desired filter option by using the search bar or by clicking the dropdown <i class="fas fa-angle-down"></i> next to the following options:
 
-* **Seller:** Displays the [seller ID](https://help.vtex.com/en/tutorial/adicionar-seller--tutorials_392) in your store and filters by the seller fulfilling the order. 
-* **Trade policy:** Displays your store's [trade policies](https://help.vtex.com/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) and filters by the one used in the order.
-* **Campaign:** Displays your store's [campaign target audiences](https://help.vtex.com/en/tutorial/audiencias-de-campanhas--3o7lhpNseXY2WmjZO0gQ6m) and filters by a promotion's target audience.
-* **Call center operator:** Displays your store's [call center](https://help.vtex.com/en/tutorial/funcionalidades-de-televendas--UqhiccIRIK2KD0OqkzJaS) operators.
-* **UTM source:** Displays [UTM source](https://help.vtex.com/en/tutorial/o-que-sao-utm-source-utm-campaign-e-utm-medium--2wTz7QJ8KUG6skGAoAQuii) options configured in your store. UTM (Urchin Tracking Modules) are URL parameters commonly used in marketing and promotional contexts to track traffic to a website.
+* **Seller:** Displays the [seller ID](/en/tutorial/adicionar-seller--tutorials_392) in your store and filters by the seller fulfilling the order. 
+* **Trade policy:** Displays your store's [trade policies](/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) and filters by the one used in the order.
+* **Campaign:** Displays your store's [campaign target audiences](/en/tutorial/audiencias-de-campanhas--3o7lhpNseXY2WmjZO0gQ6m) and filters by a promotion's target audience.
+* **Call center operator:** Displays your store's [call center](/en/tutorial/funcionalidades-de-televendas--UqhiccIRIK2KD0OqkzJaS) operators.
+* **UTM source:** Displays [UTM source](/en/tutorial/o-que-sao-utm-source-utm-campaign-e-utm-medium--2wTz7QJ8KUG6skGAoAQuii) options configured in your store. UTM (Urchin Tracking Modules) are URL parameters commonly used in marketing and promotional contexts to track traffic to a website.
 
 After selecting the desired filters, click `Apply`.
 
 ### Filters: Status
 
-You can use the filters under **Status** to sort by order status at the time of the search related to the [order flow](https://help.vtex.com/en/tutorial/fluxo-e-status-de-pedidos--tutorials_196) or errors. Click `Filters` to use them and select **Status**. You can find the desired option using the search bar or by clicking the dropdown <i class="fas fa-angle-down"></i> next to the options below: 
+You can use the filters under **Status** to sort by order status at the time of the search related to the [order flow](/en/tutorial/fluxo-e-status-de-pedidos--tutorials_196) or errors. Click `Filters` to use them and select **Status**. You can find the desired option using the search bar or by clicking the dropdown <i class="fas fa-angle-down"></i> next to the options below: 
 
-* **Order status:** Order step in the [order flow](https://help.vtex.com/en/tutorial/fluxo-e-status-de-pedidos--tutorials_196). The options that appear correspond to the status of orders in your store. For example, if there are no canceled orders among your orders, this option will not be visible. These are some examples of order status filters: 
+* **Order status:** Order step in the [order flow](/en/tutorial/fluxo-e-status-de-pedidos--tutorials_196). The options that appear correspond to the status of orders in your store. For example, if there are no canceled orders among your orders, this option will not be visible. These are some examples of order status filters: 
     * Payment approved
     * Payment pending
     * Awaiting fulfillment
     * Ready for handling
     * Waiting for seller change
-* **Completed status:** Whether an order has all the necessary information to be completed on the platform or if it is [incomplete](https://help.vtex.com/en/tutorial/entendendo-os-pedidos-incompletos--tutorials_294):
+* **Completed status:** Whether an order has all the necessary information to be completed on the platform or if it is [incomplete](/en/tutorial/entendendo-os-pedidos-incompletos--tutorials_294):
     * Incomplete
 * **Error status:** Displays the errors:
     * Permanent error
@@ -176,13 +176,13 @@ Click `Filters` to use these filters and select **Other**. You can find the opti
     * PCI connector transaction ID (TID)
     * Payment ID (PID)
     * Connector NSU (Brazil)
-* **Payment type:** Displays the [payment methods](https://help.vtex.com/en/tutorial/diferenca-entre-meios-de-pagamento-e-condicoes-de-pagamento--3azJenhGFyUy2gsocms42Q) configured in your store. 
+* **Payment type:** Displays the [payment methods](/en/tutorial/diferenca-entre-meios-de-pagamento-e-condicoes-de-pagamento--3azJenhGFyUy2gsocms42Q) configured in your store. 
 * **Promotions:** Displays the promotions added to your store.
-* **Currency:** Displays the currencies configured in the [trade policy](https://help.vtex.com/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) and that have been used in orders. 
-* **Hostname:** Displays your [account name](https://help.vtex.com/en/tutorial/o-que-e-account-name--i0mIGLcg3QyEy8OCicEoC), which is your company ID in the VTEX system. 
-* **B2B:** Select `true` to filter by orders from [B2B](https://help.vtex.com/en/tutorial/b2b-visao-geral--5vb9SNXhX2bZnkpAh7ADdC) stores or `false` for orders from other business models. 
-* **inStore:** Select `true` to filter by orders made using [inStore](https://help.vtex.com/en/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf) or `false` for non-inStore orders. 
-* **Delivery channel:** Displays the type of order delivery, whether it will be delivered or picked up at a [pickup point](https://help.vtex.com/en/tutorial/pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R). The pickup option appears only for stores that have configured this feature.
+* **Currency:** Displays the currencies configured in the [trade policy](/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) and that have been used in orders. 
+* **Hostname:** Displays your [account name](/en/tutorial/o-que-e-account-name--i0mIGLcg3QyEy8OCicEoC), which is your company ID in the VTEX system. 
+* **B2B:** Select `true` to filter by orders from [B2B](/en/tutorial/b2b-visao-geral--5vb9SNXhX2bZnkpAh7ADdC) stores or `false` for orders from other business models. 
+* **inStore:** Select `true` to filter by orders made using [inStore](/en/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf) or `false` for non-inStore orders. 
+* **Delivery channel:** Displays the type of order delivery, whether it will be delivered or picked up at a [pickup point](/en/tutorial/pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R). The pickup option appears only for stores that have configured this feature.
 * **Country:** Displays the country where the order was made.
 * **Has return invoice:** Identifies whether the orders have a return invoice - `true` - or not - `false`.
 * **Has invoice:** Identifies whether the orders are invoiced - `true` - or not - `false`.
@@ -193,9 +193,9 @@ On the **Orders > All Orders** page, there is the `Filter by Status` <i class="f
 
 ![search_bar_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/orders/all-orders/filtering-all-orders_4.png)
 
-When clicking `Filter by Status` <i class="fas fa-angle-down"></i>, your store's [order status](https://help.vtex.com/en/tutorial/fluxo-e-status-de-pedidos--tutorials_196) options are displayed. For example, if among all your orders, there are no canceled ones, this option will not be visible. 
+When clicking `Filter by Status` <i class="fas fa-angle-down"></i>, your store's [order status](/en/tutorial/fluxo-e-status-de-pedidos--tutorials_196) options are displayed. For example, if among all your orders, there are no canceled ones, this option will not be visible. 
 
-> ℹ️ For more status filter options, go to the section [Filters: Status](https://help.vtex.com/en/tutorial/filtrar-todos-pedidos--tutorials_192#filters-status). If you want to check all existing order status, read the article [Order flow and status](https://help.vtex.com/en/tutorial/fluxo-e-status-de-pedidos--tutorials_196).
+> ℹ️ For more status filter options, go to the section [Filters: Status](/en/tutorial/filtrar-todos-pedidos--tutorials_192#filters-status). If you want to check all existing order status, read the article [Order flow and status](/en/tutorial/fluxo-e-status-de-pedidos--tutorials_196).
 
 ## Created
 

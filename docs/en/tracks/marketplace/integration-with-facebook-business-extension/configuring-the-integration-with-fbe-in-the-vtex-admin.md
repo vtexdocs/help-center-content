@@ -26,7 +26,7 @@ To start configuring the integration, please follow the steps below:
   > ℹ️ Regardless of whether you have installed the <a href= "https://apps.vtex.com/vtex-facebook-pixel/p">Facebook Pixel app</a>, the recommendation is that the **Enable Pixel configuration** option remains enabled. The exception is when you already use the Google Tag Manager. More information on <a href= "https://help.vtex.com/en/tracks/integration-with-facebook-business-extension--2hS3ANSZ7vlHCcba4h7k8D/434Z1iWnaa0zbOMDyr6oi#facebook-pixel">Facebook Pixel</a>.
 
 4. Click on `CONTINUE WITH FACEBOOK`.
-5. The next screen asks for your Facebook account. Fill in your information and click on `Log in`. If you have the [Facebook integration](https://help.vtex.com/en/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc) configured, your data will already be saved.
+5. The next screen asks for your Facebook account. Fill in your information and click on `Log in`. If you have the [Facebook integration](/en/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc) configured, your data will already be saved.
 6. Grant the necessary permissions for the integration by clicking `Continue`.
 7. Determine which settings will be used in the integration.
 8. Click on `Continue`.

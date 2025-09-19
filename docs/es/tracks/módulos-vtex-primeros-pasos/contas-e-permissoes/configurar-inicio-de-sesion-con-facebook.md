@@ -20,7 +20,7 @@ Para esto, se ofrecen algunas alternativas, entre estas **Facebook**.
 
 ## Registrar Client Id y Client Secret para iniciar sesión con Facebook  
 
-Antes de la configuración en VTEX, es necesario configurar el registro en Facebook. Para esto, siga nuestras instrucciones en el [artículo sobre registro de client id y client secret para iniciar sesión en Facebook](https://help.vtex.com/es/tutorial/registrar-client-id-y-client-secret-para-login-con-facebook?locale=es). 
+Antes de la configuración en VTEX, es necesario configurar el registro en Facebook. Para esto, siga nuestras instrucciones en el [artículo sobre registro de client id y client secret para iniciar sesión en Facebook](/es/tutorial/registrar-client-id-y-client-secret-para-login-con-facebook?locale=es). 
 
 ## Configurar inicio de sesión en VTEX
 

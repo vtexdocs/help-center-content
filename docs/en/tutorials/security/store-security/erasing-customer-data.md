@@ -21,7 +21,7 @@ Under data protection regulations such as the [EU's General Data Protection Regu
 
 Before [requesting customer data deletion via Copilot](#requesting-customer-data-deletion-via-copilot), follow these steps:
 
-1. **Identify where the data is stored:** Check the [Master Data](https://help.vtex.com/en/tutorial/master-data--4otjBnR27u4WUIciQsmkAw) entities that store customer data in your operation.
+1. **Identify where the data is stored:** Check the [Master Data](/en/tutorial/master-data--4otjBnR27u4WUIciQsmkAw) entities that store customer data in your operation.
 2. **Delete custom entities manually:** If your store keeps customer data in custom entities, delete it manually before requesting data deletion via Copilot. For instructions, see the [Custom data entities](#custom-data-entities) section. Follow this process only for custom entities. Don't delete the Master Data [native entities](#master-data-native-entities) CL and AD.
 
 ### Master Data native entities
@@ -39,7 +39,7 @@ If your store keeps customer data in custom data entities (CL and AD), you must 
 
 ## 2. Configuring the GDPR role
 
-To request data deletion, create a [custom role](https://help.vtex.com/en/tutorial/criar-perfil-de-acesso) named **General Data Protection Law** with the following resources from [License Manager](https://help.vtex.com/en/tutorial/license-manager-resources):
+To request data deletion, create a [custom role](/en/tutorial/criar-perfil-de-acesso) named **General Data Protection Law** with the following resources from [License Manager](/en/tutorial/license-manager-resources):
 
 - **Write user rights requests** (from the **User Rights** product)
 - **Open Support Ticket** (from the **VTEX Support** product)

@@ -37,8 +37,8 @@ To configure Fiserv MX, follow the steps below:
 9. In __Activar protocolo 3D-Secure__ and __Habilitar autorización y captura en 2 pasos__ select the desired options.
 10. Click `Save`.
 
-To configure the payment methods to be processed by Fiserv MX, access [Configuring Payment Conditions](https://help.vtex.com/en/tutorial/how-to-configure-payment-conditions--tutorials_455#).
+To configure the payment methods to be processed by Fiserv MX, access [Configuring Payment Conditions](/en/tutorial/how-to-configure-payment-conditions--tutorials_455#).
 
-To set special conditions on payment methods, go to [Configuring payment special conditions](https://help.vtex.com/en/tutorial/special-conditions--tutorials_456#).
+To set special conditions on payment methods, go to [Configuring payment special conditions](/en/tutorial/special-conditions--tutorials_456#).
 
 After following the indicated steps, Fiserv MX may take up to 10 minutes to appear at your store's checkout as a payment option.

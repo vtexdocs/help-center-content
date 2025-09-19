@@ -15,13 +15,13 @@ locale: en
 subcategoryId: 1yB08KlKzqJOdc0bn38HaY
 ---
 
-All clients have access to [VTEX Support's](https://help.vtex.com/en/faq/como-funciona-o-suporte-da-vtex--3kACEfni4m8Yxa1vnf2ebe) team of experts, who are prepared to provide the best possible experience for resolving your tickets. To contact them, you need to open a ticket via the ticketing system.
+All clients have access to [VTEX Support's](/en/faq/como-funciona-o-suporte-da-vtex--3kACEfni4m8Yxa1vnf2ebe) team of experts, who are prepared to provide the best possible experience for resolving your tickets. To contact them, you need to open a ticket via the ticketing system.
 
-You must [enable support permission](https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) in [License Manager](https://help.vtex.com/en/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3) for the user to access VTEX Support. This setting is only valid for accounts in Brazil.
+You must [enable support permission](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) in [License Manager](/en/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3) for the user to access VTEX Support. This setting is only valid for accounts in Brazil.
 
 This article explains how to open tickets with VTEX Support and track their status. For more information about availability, estimated response time (SLA), and resources available to customers in Brazil, see the article VTEX Support - Brazil.
 
-This article explains how to open tickets with VTEX Support and track their status. For more information about availability, estimated response time (SLA), and resources available to customers in Brazil, see the article [VTEX Support - Brazil](https://help.vtex.com/en/faq/suporte-vtex-brasil--5q861sTw1n7H2BENOu7ls9).
+This article explains how to open tickets with VTEX Support and track their status. For more information about availability, estimated response time (SLA), and resources available to customers in Brazil, see the article [VTEX Support - Brazil](/en/faq/suporte-vtex-brasil--5q861sTw1n7H2BENOu7ls9).
 
 Check out the steps described in this article:
 
@@ -48,7 +48,7 @@ Technical support offers guidance for resolving issues or clarifying questions a
 To request technical support, follow the steps below and provide the required information:
 
 ### 1. Log in to your account 
-In the initial step, authenticate your access to the [VTEX Admin](https://help.vtex.com/pt/tutorial/admin-vtex-comece-aqui--531cHtUCUi3puRXNDmKziw) to manage your store's digital commerce operations.
+In the initial step, authenticate your access to the [VTEX Admin](/pt/tutorial/admin-vtex-comece-aqui--531cHtUCUi3puRXNDmKziw) to manage your store's digital commerce operations.
 
 ### 2. Access Copilot
 Copilot is a tool integrated into the platform that enables technical support.  You can use it to ask questions and solve problems. To access Copilot and start interacting with support, follow the steps below:
@@ -123,12 +123,12 @@ To request financial or commercial support, follow the steps below and provide t
 ### 1.  Log in to VTEX Support
 In this initial step, you must authenticate your access to VTEX Support. Follow the steps below:
 
-1. Go to [VTEX Support](https://help.vtex.com/pt/support).
+1. Go to [VTEX Support](/pt/support).
 2. Choose one of the following authentication methods for your account:
 
    - Access by token, where a token will be sent to the email address registered with your store.
    - Sign in with Google.
-   - Log in using email and password, which requires [two-factor authentication](https://help.vtex.com/en/tutorial/habilitar-login-por-autenticacao-de-2-fatores) via app or SMS.
+   - Log in using email and password, which requires [two-factor authentication](/en/tutorial/habilitar-login-por-autenticacao-de-2-fatores) via app or SMS.
 
 Once authenticated, you'll be directed to the next step.
 
@@ -163,7 +163,7 @@ To request financial support, follow these steps:
 4. Click `Send`.
 
 #### Commercial support
-Commercial support assists the user with requests related to [trade policies](https://help.vtex.com/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV),  [additional environments](https://help.vtex.com/en/tutorial/contratar-novo-ambiente--tutorials_2542), [white-label sellers](https://help.vtex.com/en/tutorial/seller-white-label--5orlGHyDHGAYciQ64oEgKa) or [user changes](https://help.vtex.com/en/tutorial/gerenciando-usuarios--tutorials_512) with the Sponsor user profile (Master Admin user).
+Commercial support assists the user with requests related to [trade policies](/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV),  [additional environments](/en/tutorial/contratar-novo-ambiente--tutorials_2542), [white-label sellers](/en/tutorial/seller-white-label--5orlGHyDHGAYciQ64oEgKa) or [user changes](/en/tutorial/gerenciando-usuarios--tutorials_512) with the Sponsor user profile (Master Admin user).
 
 To request this type of support, follow the steps below:
 
@@ -188,5 +188,5 @@ Possible ticket statuses are:
   - **Solved:** The ticket has been solved by the support agent or the user. The user has 27 working hours to reopen the ticket by replying to the support email or accessing the **Request History**. Otherwise, the ticket will be closed.
   - **Closed:** The ticket has been solved and marked as closed automatically after 27 working hours without further interaction. Closed tickets cannot be reopened.
 
-Once the ticket is solved, the support team will email you a link to a [satisfaction survey](https://help.vtex.com/pt/announcements/avalie-o-atendimento-da-vtex-pelo-seu-admin--7rSJLgGbtRw2GhjTJezkJf). This survey allows you to evaluate the service without leaving the VTEX environment and contribute to continuous support improvement.
+Once the ticket is solved, the support team will email you a link to a [satisfaction survey](/pt/announcements/avalie-o-atendimento-da-vtex-pelo-seu-admin--7rSJLgGbtRw2GhjTJezkJf). This survey allows you to evaluate the service without leaving the VTEX environment and contribute to continuous support improvement.
 

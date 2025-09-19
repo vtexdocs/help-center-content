@@ -32,12 +32,12 @@ Este artigo apresenta a solução **Pagamento com cartão via Sales App** e est�
 O **Pagamento com cartão via Sales App** tem as seguintes características:
 
 - ✅ Permite pagamentos pelas mesmas bandeiras de cartão de crédito do ecommerce.
-- ✅ Inclui as mesmas [condições de pagamento](https://help.vtex.com/pt/tutorial/diferenca-entre-meios-de-pagamento-e-condicoes-de-pagamento--3azJenhGFyUy2gsocms42Q) e parcelamentos disponíveis no ecommerce.
-- ✅ É [PCI compliant](https://help.vtex.com/pt/tutorial/o-que-e-o-pci-ssc), ou seja, protege os dados dos clientes e não armazena informações sensíveis.
+- ✅ Inclui as mesmas [condições de pagamento](/pt/tutorial/diferenca-entre-meios-de-pagamento-e-condicoes-de-pagamento--3azJenhGFyUy2gsocms42Q) e parcelamentos disponíveis no ecommerce.
+- ✅ É [PCI compliant](/pt/tutorial/o-que-e-o-pci-ssc), ou seja, protege os dados dos clientes e não armazena informações sensíveis.
 
 No entanto, a funcionalidade tem restrições:
 
-- ❌ Não oferece suporte a [Cartões de Loja](https://help.vtex.com/pt/tutorial/configurar-pagamentos-com-cartoes-de-loja-bandeira-propria--428FgVdSGQUeAOoogkaIw4) de terceiros.
+- ❌ Não oferece suporte a [Cartões de Loja](/pt/tutorial/configurar-pagamentos-com-cartoes-de-loja-bandeira-propria--428FgVdSGQUeAOoogkaIw4) de terceiros.
 - ❌ Não permite o uso de múltiplos cartões para uma mesma compra.
 
 ## Benefícios
@@ -49,16 +49,16 @@ A tabela a seguir apresenta as principais vantagens de usar o **Pagamento com ca
 | **Rapidez e praticidade** | O escaneamento do cartão do cliente e a possibilidade de preenchimento automático (ou manual) aceleram e simplificam o fechamento da compra. |
 | **Experiência integrada e sem fricções** | A realização da compra e confirmação do pagamento ocorrem no **VTEX Sales App**, o que elimina a necessidade de múltiplos ambientes para a conclusão da venda e promove uma experiência contínua. |
 | **Compras seguras** | Durante a compra, o cliente acompanha o escaneamento do cartão e o preenchimento (automático ou manual) dos dados, que permanecem mascarados e não são armazenados após a conclusão da compra. |
-| **Suporte a cartões virtuais** | O **Pagamento com cartão via Sales App** suporta cartões físicos numerados ([código BIN](https://help.vtex.com/pt/tutorial/cadastrar-informacoes-de-bins--7xvo4JJ53WM7aLzufdC4au)) e cartões virtuais, expandindo as opções de pagamento para os clientes. |
-| **Starter kit de pagamento** | Além da opção [carrinho compartilhado (Social Selling)](https://help.vtex.com/pt/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr/6deiffo22iKkY27PkfstXy), com o Pagamento com cartão via Sales App os lojistas que estão começando a usar o VTEX Sales App podem integrar a solução sem depender da contratação de um adquirente adicional. |
+| **Suporte a cartões virtuais** | O **Pagamento com cartão via Sales App** suporta cartões físicos numerados ([código BIN](/pt/tutorial/cadastrar-informacoes-de-bins--7xvo4JJ53WM7aLzufdC4au)) e cartões virtuais, expandindo as opções de pagamento para os clientes. |
+| **Starter kit de pagamento** | Além da opção [carrinho compartilhado (Social Selling)](/pt/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr/6deiffo22iKkY27PkfstXy), com o Pagamento com cartão via Sales App os lojistas que estão começando a usar o VTEX Sales App podem integrar a solução sem depender da contratação de um adquirente adicional. |
 
 ## Casos de uso
 
-Ao utilizar o **Pagamento com cartão via Sales App** em vendas de [Prateleira Infinita](https://help.vtex.com/pt/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv/40KMlmGI5tN0r0KPCDWgGn) com entrega padrão (acima de 24h), o processamento da compra ocorre pelo mesmo fluxo de checkout do ecommerce e é considerado um caso de cartão não presente, termo técnico para quando o pagamento não é considerado como tendo sido realizado com um cartão físico.
+Ao utilizar o **Pagamento com cartão via Sales App** em vendas de [Prateleira Infinita](/pt/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv/40KMlmGI5tN0r0KPCDWgGn) com entrega padrão (acima de 24h), o processamento da compra ocorre pelo mesmo fluxo de checkout do ecommerce e é considerado um caso de cartão não presente, termo técnico para quando o pagamento não é considerado como tendo sido realizado com um cartão físico.
 
 > ❗ As transações realizadas pela funcionalidade estão sujeitas às regras de antifraude e, quando a autorização da compra passa pelo fluxo de antifraude, sua aprovação pode demorar até 24h. Por este motivo, não é recomendado utilizar o **Pagamento com cartão via Sales App** nos seguintes cenários<ul><li>Vendas com entrega expressa</li><li>Vendas de estoque local (On Hands)</li></ul>
 
-Caso a loja tenha uma [política comercial](https://help.vtex.com/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) para o **VTEX Sales App** separada do ecommerce, com uma revisão de regras do antifraude exclusiva, é possível usar o **Pagamento com cartão via Sales App** para vendas com estoque local (On Hands) ou entrega expressa.
+Caso a loja tenha uma [política comercial](/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) para o **VTEX Sales App** separada do ecommerce, com uma revisão de regras do antifraude exclusiva, é possível usar o **Pagamento com cartão via Sales App** para vendas com estoque local (On Hands) ou entrega expressa.
 
 ## Configurações
 
@@ -68,7 +68,7 @@ As configurações necessárias para ativar a funcionalidade são diferentes par
 
 ### Lojas começando a usar o VTEX Sales App
 
-Ao [configurar o VTEX Sales App](https://help.vtex.com/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/4L5SoLxE8O3YkxF7FKymrO), na etapa de habilitação de meios de pagamento, mantenha ativada a opção <i class="fas fa-toggle-on" aria-hidden="true"></i> **Pagamento com cartão via Sales App.**
+Ao [configurar o VTEX Sales App](/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/4L5SoLxE8O3YkxF7FKymrO), na etapa de habilitação de meios de pagamento, mantenha ativada a opção <i class="fas fa-toggle-on" aria-hidden="true"></i> **Pagamento com cartão via Sales App.**
 
 ### Lojas que usam o VTEX Sales App
 
@@ -90,7 +90,7 @@ Os IDs das bandeiras de cartão de crédito devem estar habilitados para pagamen
 
 1. No Admin VTEX, acesse **Configurações da loja > Pagamentos > Configurações**, ou digite **Configurações** na barra de busca no topo da página.
 2. Confirme se os IDs das bandeiras de cartão de crédito estão com situação `Ativa`. Caso não estejam, prossiga para o passo seguinte.
-3. Configure uma [condição de pagamento](https://help.vtex.com/pt/tutorial/condicoes-de-pagamento--tutorials_455) de cartão de crédito para a sua loja.
+3. Configure uma [condição de pagamento](/pt/tutorial/condicoes-de-pagamento--tutorials_455) de cartão de crédito para a sua loja.
 
 ## Usando a solução
 
@@ -113,6 +113,6 @@ Realize os passos abaixo para vender usando o **Pagamento com cartão via Sales 
 
 ## Saiba mais
 
-- [VTEX Sales App: FAQ](https://help.vtex.com/pt/tutorial/vtex-sales-app-faq--3CRKQHzflSW0DXenEHUpP5)
-- [Compartilhar carrinho utilizando o VTEX Sales App Social Selling](https://help.vtex.com/pt/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr/6deiffo22iKkY27PkfstXy)
-- [Pré-requisitos para usar o VTEX Sales App](https://help.vtex.com/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/1wtAanSRA3g2316dw7bw8u)
+- [VTEX Sales App: FAQ](/pt/tutorial/vtex-sales-app-faq--3CRKQHzflSW0DXenEHUpP5)
+- [Compartilhar carrinho utilizando o VTEX Sales App Social Selling](/pt/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr/6deiffo22iKkY27PkfstXy)
+- [Pré-requisitos para usar o VTEX Sales App](/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/1wtAanSRA3g2316dw7bw8u)

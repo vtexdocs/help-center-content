@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 5tlIjp0ZkAU4EIk4OgyEmm
 ---
 
-Selling on marketplaces is a collaborative commerce model that offers mutual advantages to sellers and marketplaces. The VTEX architecture allows stores to act both as a seller and as a marketplace. Learn more at [Marketplace strategies at VTEX](https://help.vtex.com/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402).
+Selling on marketplaces is a collaborative commerce model that offers mutual advantages to sellers and marketplaces. The VTEX architecture allows stores to act both as a seller and as a marketplace. Learn more at [Marketplace strategies at VTEX](/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402).
 
 In order to collaborate, a marketplace hosted on the VTEX platform and a seller, whether it is a VTEX seller or an external one, need to exchange information. This article describes the main information being shared and is divided into the following sections:
 
@@ -23,7 +23,7 @@ In order to collaborate, a marketplace hosted on the VTEX platform and a seller,
 - [Connected marketplace and seller](#connected-marketplace-and-seller)
 - [Sharing customer emails](#sharing-customer-emails)
 
-> ℹ️ If you want to start selling your products on other marketplaces, use [Marketplaces and Integrations](https://help.vtex.com/en/tutorial/encontre-marketplaces-e-sellers-no-ecossistema-vtex--2bzC7tXlVgLEEjxo4ixcAM). This feature allows marketplaces and sellers operating in the VTEX ecosystem to identify and contact each another.
+> ℹ️ If you want to start selling your products on other marketplaces, use [Marketplaces and Integrations](/en/tutorial/encontre-marketplaces-e-sellers-no-ecossistema-vtex--2bzC7tXlVgLEEjxo4ixcAM). This feature allows marketplaces and sellers operating in the VTEX ecosystem to identify and contact each another.
 
 ## Connecting a marketplace and a seller 
 
@@ -34,24 +34,24 @@ If a marketplace wants to connect to a seller, whether it is a VTEX seller or an
 - **Privacy and security policy:** the security policy applicable to the seller products on the marketplace.
 - **Commissions:** the sales value percentage made on the marketplace, which the seller will pass on to the marketplace. There are two types of commissions, _Product commissions_ and _Shipping commissions_.
 
-Also, to [add the seller](https://help.vtex.com/en/tutorial/configurando-seller) to its operations, the marketplace will need more information, which will depend on the type of seller it will connect to: 
+Also, to [add the seller](/en/tutorial/configurando-seller) to its operations, the marketplace will need more information, which will depend on the type of seller it will connect to: 
 
 - [Connecting a VTEX marketplace to a VTEX seller](#connecting-a-vtex-marketplace-to-a-vtex-seller)
 - [Connecting a VTEX marketplace to an external seller](#connecting-a-vtex-marketplace-to-an-external-seller)
 
 You can integrate a VTEX marketplace with a VTEX seller or with an external seller either through the VTEX Admin or through API. In either case, the information shared between the marketplace and the seller will be the same.
 
-> ℹ️ For more information on how to connect a VTEX marketplace to a VTEX seller using the VTEX Admin, please check out the article [Adding a seller](https://help.vtex.com/en/tutorial/configurando-seller). For integration via API use the call [Configure Seller Account](https://developers.vtex.com/docs/api-reference/marketplace-apis#post-/seller-register/pvt/sellers). For external sellers, check out the [External Seller Integration Guide](https://developers.vtex.com/vtex-rest-api/docs/external-seller-integration-guide).
+> ℹ️ For more information on how to connect a VTEX marketplace to a VTEX seller using the VTEX Admin, please check out the article [Adding a seller](/en/tutorial/configurando-seller). For integration via API use the call [Configure Seller Account](https://developers.vtex.com/docs/api-reference/marketplace-apis#post-/seller-register/pvt/sellers). For external sellers, check out the [External Seller Integration Guide](https://developers.vtex.com/vtex-rest-api/docs/external-seller-integration-guide).
 
 ### Connecting a VTEX marketplace to a VTEX seller
 
 In order for a VTEX marketplace to connect to a VTEX seller, it will need access to the following information:
 
-- **Seller ID (Account Name):** [account name](https://help.vtex.com/en/tutorial/o-que-e-account-name--i0mIGLcg3QyEy8OCicEoC) is the seller identification code on VTEX.
+- **Seller ID (Account Name):** [account name](/en/tutorial/o-que-e-account-name--i0mIGLcg3QyEy8OCicEoC) is the seller identification code on VTEX.
 - **Admin email:** email of the admin responsible for the seller.
-- **Seller affiliate ID:** three digit identification code which identifies the [affiliate](https://help.vtex.com/en/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0) created by the seller in their own VTEX Admin.
-- **Description:** text describing the seller with a business tone. You can display this text in the marketplace window display when [customizing the CMS](https://help.vtex.com/en/tutorial/list-of-controls-for-templates--tutorials_563).
-- **Trade policy:** identification code of the [trade policy](https://help.vtex.com/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) the seller wants to use when selling on the marketplace.
+- **Seller affiliate ID:** three digit identification code which identifies the [affiliate](/en/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0) created by the seller in their own VTEX Admin.
+- **Description:** text describing the seller with a business tone. You can display this text in the marketplace window display when [customizing the CMS](/en/tutorial/list-of-controls-for-templates--tutorials_563).
+- **Trade policy:** identification code of the [trade policy](/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) the seller wants to use when selling on the marketplace.
 - **Fulfillment SellerId:** identification code of the seller responsible for fulfilling the order. This information is optional, only required when the seller sells SKUs from another seller. It must not be filled in when the seller sells their own SKUs.
 - **Catalog EndPoint:** endpoint URLfor the seller's catalog.
 - **TaxCode:** seller's company registration number (CNPJ in Brazil) or corresponding code for other countries.
@@ -60,7 +60,7 @@ In order for a VTEX marketplace to connect to a VTEX seller, it will need access
 
 An external seller not hosted on the VTEX environment will have to provide the VTEX marketplace with the following information:
 
-- **Description**: text describing the seller with a business tone. You can display this text in the marketplace window display when [customizing the CMS](https://help.vtex.com/en/tutorial/list-of-controls-for-templates--tutorials_563).
+- **Description**: text describing the seller with a business tone. You can display this text in the marketplace window display when [customizing the CMS](/en/tutorial/list-of-controls-for-templates--tutorials_563).
 - **Admin email:** email of the admin responsible for the seller.
 - **Fulfillment EndPoint:** Endpoint URL for the seller's order fulfillment that the marketplace will use to communicate with the seller.
 - **TaxCode:** seller's company registration number (CNPJ in Brazil) or corresponding code for other countries.
@@ -84,6 +84,6 @@ The marketplace can give the seller partial access to the email addresses of its
 
 ## Learn more
 
-- [Marketplace strategies at VTEX](https://help.vtex.com/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402)
-- [Actions for a VTEX marketplace operation](https://help.vtex.com/en/tutorial/acoes-para-a-operacao-de-marketplaces-vtex--2SdIflvwywiOqCpczKCfev)
-- [Adding a seller](https://help.vtex.com/en/tutorial/configurando-seller)
+- [Marketplace strategies at VTEX](/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402)
+- [Actions for a VTEX marketplace operation](/en/tutorial/acoes-para-a-operacao-de-marketplaces-vtex--2SdIflvwywiOqCpczKCfev)
+- [Adding a seller](/en/tutorial/configurando-seller)

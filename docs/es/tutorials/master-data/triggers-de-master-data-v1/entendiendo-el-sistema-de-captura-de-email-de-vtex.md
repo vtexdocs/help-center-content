@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 2nx7hMJmisofwqwy2P9l2i
 ---
 
-El propósito de este artículo es mostrar cómo se recibe el correo electrónico de un usuario en el [Master Data CRM](https://help.vtex.com/es/tutorial/master-data--4otjBnR27u4WUIciQsmkAw). Para ello, se demostrará cómo **Checkout**, **RC.JS** y **Master Data** trabajan en conjunto para capturar la información de correo electrónico de un nuevo usuario.
+El propósito de este artículo es mostrar cómo se recibe el correo electrónico de un usuario en el [Master Data CRM](/es/tutorial/master-data--4otjBnR27u4WUIciQsmkAw). Para ello, se demostrará cómo **Checkout**, **RC.JS** y **Master Data** trabajan en conjunto para capturar la información de correo electrónico de un nuevo usuario.
 
 Para una mejor comprensión, presentaremos un escenario (dividido en 3 pasos), donde el usuario completa con éxito su compra y el pedido se reenvía a OMS, mientras que su correo electrónico se transmite de forma segura a Master Data. En este contexto, las acciones del usuario y el flujo de la plataforma ocurren en el siguiente orden:
 
@@ -39,7 +39,7 @@ Para una mejor comprensión, presentaremos un escenario (dividido en 3 pasos), d
 |------------------|------------------|
 | Haga clic en `Ir para la Entrega`. | Checkout solicita a RC.JS que transfiera la dirección de correo electrónico y la información del carrito a Master Data (a través del Profile System). |
 
-> ⚠️ Para que se pueda utilizar la función [carrito abandonado](https://help.vtex.com/es/tutorial/acesse-o-carrinho-abandonado-dos-clientes--4bbXy1TlzJaiCr41xKDN4e#), es necesario que el usuario haya rellenado los siguientes datos: e-mail, nombre, apellidos y CPF. La falta de alguno de estos datos, imposibilita la utilización del carrito abandonado.
+> ⚠️ Para que se pueda utilizar la función [carrito abandonado](/es/tutorial/acesse-o-carrinho-abandonado-dos-clientes--4bbXy1TlzJaiCr41xKDN4e#), es necesario que el usuario haya rellenado los siguientes datos: e-mail, nombre, apellidos y CPF. La falta de alguno de estos datos, imposibilita la utilización del carrito abandonado.
 
 | __Usuario__ | __Plataforma VTEX__ |
 |------------------|------------------|

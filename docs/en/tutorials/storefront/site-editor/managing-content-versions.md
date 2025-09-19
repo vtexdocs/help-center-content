@@ -55,7 +55,7 @@ After [creating a new content version in Site Editor](#creating-a-new-content-ve
 
 After [creating a new content version in Site Editor](#creating-a-new-content-version), you can schedule the publication of the new version in your store by using the **Visibility** feature.
 
-Please refer to the documentation [Scheduling content updates](https://help.vtex.com/en/tutorial/agendando-atualizacoes-de-conteudo--5L93gED3wgSRoWpFJlJ2ns) to learn how to use the **Visibility** feature.
+Please refer to the documentation [Scheduling content updates](/en/tutorial/agendando-atualizacoes-de-conteudo--5L93gED3wgSRoWpFJlJ2ns) to learn how to use the **Visibility** feature.
 
 ## Deleting versions
 

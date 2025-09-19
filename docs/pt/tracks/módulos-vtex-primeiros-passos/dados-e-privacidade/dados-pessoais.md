@@ -33,7 +33,7 @@ A VTEX trata dados pessoais de compradores somente quando necessário, em confor
 * Número de identidade (quando exigido pelo país em que a loja opera)
 * Histórico do cartão-presente
 * Carrinho não utilizado
-* Conversas do [Conversation Tracker](https://help.vtex.com/pt/tutorial/conversation-tracker--tutorials_195)
+* Conversas do [Conversation Tracker](/pt/tutorial/conversation-tracker--tutorials_195)
 * Senhas de sessões (criptografadas)
 * Tokens gerados
 

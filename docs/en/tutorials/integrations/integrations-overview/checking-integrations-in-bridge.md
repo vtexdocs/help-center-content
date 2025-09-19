@@ -40,7 +40,7 @@ You can access the **Orders** page by going to **VTEX Admin > Marketplace > Conn
 - **Status:** Can be **Processed with success** or **Processed with error.**  
 - **Processing date:** Last time the VTEX platform processed the order.  
 
-To view more details, click the order. If there's an error, the platform will display a detailed log of the issues. To solve it, go to the [Troubleshooting](https://help.vtex.com/en/subcategory/integracoes--2LcLWCYaEm5qPmOuYUiKIS) section of the Help Center and follow the solution tutorial based on the marketplace where the order was placed.  
+To view more details, click the order. If there's an error, the platform will display a detailed log of the issues. To solve it, go to the [Troubleshooting](/en/subcategory/integracoes--2LcLWCYaEm5qPmOuYUiKIS) section of the Help Center and follow the solution tutorial based on the marketplace where the order was placed.  
 
 ### Products  
 

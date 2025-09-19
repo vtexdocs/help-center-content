@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 3Gdgj9qfu8mO0c0S4Ukmsu
 ---
 
-Siempre que un cliente agrega una nueva tarjeta de crédito a su página [Mi cuenta (My Account)](https://help.vtex.com/es/tutorial/como-funciona-mi-cuenta--2BQ3GiqhqGJTXsWVuio3Xh), la institución financiera o el emisor de la tarjeta crea una transacción de prueba para validar el uso de la tarjeta en esa tienda.
+Siempre que un cliente agrega una nueva tarjeta de crédito a su página [Mi cuenta (My Account)](/es/tutorial/como-funciona-mi-cuenta--2BQ3GiqhqGJTXsWVuio3Xh), la institución financiera o el emisor de la tarjeta crea una transacción de prueba para validar el uso de la tarjeta en esa tienda.
 
 Esta transacción se realiza por $1.50 y se puede identificar por la presencia de la sigla __AV__ (Account Verification), seguida de un número.
 

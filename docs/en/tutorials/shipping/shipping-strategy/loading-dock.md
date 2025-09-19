@@ -18,11 +18,11 @@ subcategoryId: 7fTH6bP0C4IaM8qWi0kkQC
 
 The loading dock is part of the logistics system and usually acts as an intermediate point between the warehouse and the carriers, who pick up items at the loading dock to deliver them to the recipients. 
 
-On VTEX, the loading dock is an intermediary between storing items and delivering orders. The loading dock integrates the necessary parts for your store’s logistics system: [Warehouse](https://help.vtex.com/en/tutorial/warehouse--6oIxvsVDTtGpO7y6zwhGpb), [Trade policy](https://help.vtex.com/en/tutorial/how-trade-policies-work--6Xef8PZiFm40kg2STrMkMV) and [Shipping policy](https://help.vtex.com/en/tutorial/politica-de-envio--tutorials_140).
+On VTEX, the loading dock is an intermediary between storing items and delivering orders. The loading dock integrates the necessary parts for your store’s logistics system: [Warehouse](/en/tutorial/warehouse--6oIxvsVDTtGpO7y6zwhGpb), [Trade policy](/en/tutorial/how-trade-policies-work--6Xef8PZiFm40kg2STrMkMV) and [Shipping policy](/en/tutorial/politica-de-envio--tutorials_140).
 
 ![Doca EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/shipping-strategy/loading-dock_1.svg)
 
-> ℹ️ The Warehouse is the physical storage for the goods sold by the store; the Trade policy is the configuration of the store's sales strategies; and the Shipping policy is a set of rules that define the shipping options and conditions. For the logistics system to work as expected, we suggest that you configure it in the following order: <ul><li>[Shipping policy](https://help.vtex.com/en/tutorial/politica-de-envio--tutorials_140)</li><li>Loading dock</li><li>[Warehouse](https://help.vtex.com/en/tutorial/warehouse--6oIxvsVDTtGpO7y6zwhGpb)</li></ul>
+> ℹ️ The Warehouse is the physical storage for the goods sold by the store; the Trade policy is the configuration of the store's sales strategies; and the Shipping policy is a set of rules that define the shipping options and conditions. For the logistics system to work as expected, we suggest that you configure it in the following order: <ul><li>[Shipping policy](/en/tutorial/politica-de-envio--tutorials_140)</li><li>Loading dock</li><li>[Warehouse](/en/tutorial/warehouse--6oIxvsVDTtGpO7y6zwhGpb)</li></ul>
 
 ## Use cases
 
@@ -40,5 +40,5 @@ The main use cases for loading docks are:
 * When a loading dock has no physical location and the concept is used only to delimit the times of items withdrawal from the warehouse by the carrier. Even in this case, it is necessary to add the loading dock on the VTEX platform, as delivery routes are only possible if the loading docks are configured.
 * When you need to calculate the cost of handling items from the warehouse to the carrier.
 
-To learn how to manage a loading dock in the VTEX Admin, check out the article [Manage Loading Dock](https://help.vtex.com/en/tutorial/managing-loading-docks--7K3FultD8I2cuuA6iyGEiW).
+To learn how to manage a loading dock in the VTEX Admin, check out the article [Manage Loading Dock](/en/tutorial/managing-loading-docks--7K3FultD8I2cuuA6iyGEiW).
 

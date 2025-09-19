@@ -27,7 +27,7 @@ Para realizar a integração, utilize uma das duas formas abaixo:
 
 ![Active Campaign_1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/active-campaign-suiteshare_2.png)
 
-Selecione o [Formulário de captura](https://help.vtex.com/pt/tutorial/formulario-de-captura--6NJ6JyS3x5P2iWEZGadHAo) que deseja conectar.
+Selecione o [Formulário de captura](/pt/tutorial/formulario-de-captura--6NJ6JyS3x5P2iWEZGadHAo) que deseja conectar.
 
 ![Active Campaign_2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/active-campaign-suiteshare_3.png)
 

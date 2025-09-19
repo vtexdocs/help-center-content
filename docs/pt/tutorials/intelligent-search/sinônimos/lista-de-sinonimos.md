@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: BBzMtJan1UTxC9QZODnlN
 ---
 
-A página de **Sinônimos** possibilita visualizar e gerenciar todos os [sinônimos](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV) do Intelligent Search cadastrados na sua loja. Para acessá-la no Admin VTEX, clique em **Storefront > Intelligent Search > Sinônimos**.
+A página de **Sinônimos** possibilita visualizar e gerenciar todos os [sinônimos](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV) do Intelligent Search cadastrados na sua loja. Para acessá-la no Admin VTEX, clique em **Storefront > Intelligent Search > Sinônimos**.
 
 ![lista-sinonimos-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/intelligent-search/sin%C3%B4nimos/lista-de-sinonimos_1.PNG)
 
@@ -38,7 +38,7 @@ A página apresenta as seguintes informações em uma tabela:
           <li><i class="fas fa-long-arrow-alt-right"></i> Unidirecional</li>
         </ul>
         Saiba mais sobre cada um em
-        [Tipos de sinônimos](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV#tipos-de-sinonimos).
+        [Tipos de sinônimos](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV#tipos-de-sinonimos).
       </td>
     </tr>
     <tr class="bb b--muted-3">
@@ -69,11 +69,11 @@ Esta página permite que você realize as seguintes ações:
 
 ## Criar um sinônimo
 
-Você pode criar sinônimos individualmente a partir do botão `Criar sinônimo`. Siga as instruções descritas em [Configurar Sinônimos](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3ExbC3QKNF4zH7Gs8jD1cL#criar-sinonimos-individualmente).
+Você pode criar sinônimos individualmente a partir do botão `Criar sinônimo`. Siga as instruções descritas em [Configurar Sinônimos](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3ExbC3QKNF4zH7Gs8jD1cL#criar-sinonimos-individualmente).
 
 ## Importar sinônimos
 
-É possível criar sinônimos em massa pela importação de um arquivo CSV, a partir do botão `Importar`. Confira as instruções descritas em [Configurar Sinônimos](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3ExbC3QKNF4zH7Gs8jD1cL#importar-csv) para entender o template da planilha e como fazer upload dela.
+É possível criar sinônimos em massa pela importação de um arquivo CSV, a partir do botão `Importar`. Confira as instruções descritas em [Configurar Sinônimos](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3ExbC3QKNF4zH7Gs8jD1cL#importar-csv) para entender o template da planilha e como fazer upload dela.
 
 ## Buscar sinônimos
 
@@ -97,7 +97,7 @@ Você pode filtrar a listagem de sinônimos a partir das seguintes opções:
 
 ## Editar sinônimo
 
-Para editar um sinônimo cadastrado, clique na linha correspondente a ele na listagem de sinônimos. Saiba mais sobre os campos editáveis em [Configurar sinônimos](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3ExbC3QKNF4zH7Gs8jD1cL#criar-sinonimos-individualmente).
+Para editar um sinônimo cadastrado, clique na linha correspondente a ele na listagem de sinônimos. Saiba mais sobre os campos editáveis em [Configurar sinônimos](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3ExbC3QKNF4zH7Gs8jD1cL#criar-sinonimos-individualmente).
 
 ## Deletar sinônimo
 

@@ -39,7 +39,7 @@ In order to have a specific selection of products, manual collections can be con
 
 In the Collections module (Beta), there are more flexible options and more control in collection ordering. You can refine products via search or filters. Thus, the management of which products will be included in the collection is more precise and optimized.
 
-To learn how to add manual collections, read our article [Create Beta Collections](https://help.vtex.com/tutorial/cadastrar-colecoes-beta--yJBHqNMViOAnnnq4fyOye).
+To learn how to add manual collections, read our article [Create Beta Collections](/tutorial/cadastrar-colecoes-beta--yJBHqNMViOAnnnq4fyOye).
 
 ## Automatic collections   
 
@@ -49,7 +49,7 @@ Automatic collections are updated according to the configured filters. You canno
 
 You create a collection from a filter within the T-shirt category. When you add a new product to this category, it will be automatically added to the collection.
 
-To configure automatic collections, read our article [Add Collections via CMS](https://help.vtex.com/en/tutorial/cadastro-de-colecoes-cms--2YBy6P6X0NFRpkD2ZBxF6L).
+To configure automatic collections, read our article [Add Collections via CMS](/en/tutorial/cadastro-de-colecoes-cms--2YBy6P6X0NFRpkD2ZBxF6L).
 
 ## Hybrid collections
 
@@ -57,4 +57,4 @@ Hybrid collections have manual and automatic characteristics. The advantage of t
 
 You can add products manually and configure automatic filters. These collections can be created and edited both in the CMS and in the Collections module (Beta).
 
-To configure hybrid collections, read the articles [Add Collections via CMS](https://help.vtex.com/en/tutorial/cadastro-de-colecoes-cms--2YBy6P6X0NFRpkD2ZBxF6L) and [Create Beta Collections](https://help.vtex.com/en/tutorial/creating-beta-collections--yJBHqNMViOAnnnq4fyOye).  
+To configure hybrid collections, read the articles [Add Collections via CMS](/en/tutorial/cadastro-de-colecoes-cms--2YBy6P6X0NFRpkD2ZBxF6L) and [Create Beta Collections](/en/tutorial/creating-beta-collections--yJBHqNMViOAnnnq4fyOye).  

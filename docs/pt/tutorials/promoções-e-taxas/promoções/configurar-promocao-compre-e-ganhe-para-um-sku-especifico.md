@@ -21,7 +21,7 @@ A configuração dessa promoção é feita por meio do tipo __Compre e ganhe__, 
 2. Clique no botão `Criar promoção`.
 3. Clique na opção `Compre e Ganhe`.
 4. Preencha os campos conforme o artigo [Como funciona a promoção Compre e ganhe
-](https://help.vtex.com/pt/tutorial/compre-e-ganhe--tutorials_322).
+](/pt/tutorial/compre-e-ganhe--tutorials_322).
 5. No campo __Qual o tipo e valor do desconto__, selecione a opção __Brinde__ e preencha o campo selecionando o SKU que deseja conceder a promoção com brinde.
 7. Existe a possibilidade de **Ativar o multiplicador de brindes** para definir se será um brinde pela compra total ou se será um brinde por cada SKU comprado. Para entender o que isso significa, leia o artigo [O que significa ativar o multiplicar o brinde de uma promoção?](/pt/faq/o-que-significa-ativar-o-multiplicador-de-brinde-em-uma-promocao).
 8. Clique no botão `Salvar`.

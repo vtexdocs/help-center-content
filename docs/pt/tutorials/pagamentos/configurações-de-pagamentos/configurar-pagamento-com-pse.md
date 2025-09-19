@@ -21,7 +21,7 @@ Para habilitar o PSE em sua loja são necessárias as seguintes ações:
 - [Instalar e configurar o aplicativo Banks for PSE](#instalando-o-banks-for-pse-app).
 - [Configurar o PSE como condição de pagamento](#configurando-a-condição-de-pagamento-pse).
 
-> ⚠️ Para configurar o PSE app em sua loja, você deve ter permissão para acessar o módulo de Pagamentos. Caso ainda não tenha este acesso, solicite-o através do [VTEX Support](https://help.vtex.com/support).
+> ⚠️ Para configurar o PSE app em sua loja, você deve ter permissão para acessar o módulo de Pagamentos. Caso ainda não tenha este acesso, solicite-o através do [VTEX Support](/support).
 
 ## Instalando o Banks for PSE App
 
@@ -54,8 +54,8 @@ Para habilitar o PSE em sua loja são necessárias as seguintes ações:
 6. Preencha o campo **Nome da regra** com um nome de sua preferência para identificação.
 7. Ative a condição de pagamento no campo **Status**.
 8. Em **Processar com a afiliação**, escolha o conector que irá processar os pagamentos com o PSE. Somente estarão disponíveis para seleção os conectores que suportem este meio de pagamento.
-9. Se desejar, você também pode configurar [condições especiais de pagamento](https://help.vtex.com/pt/tutorial/condicoes-especiais--tutorials_456#).
+9. Se desejar, você também pode configurar [condições especiais de pagamento](/pt/tutorial/condicoes-especiais--tutorials_456#).
 10. Clique em `Salvar`.
 
-> ℹ️ Você também pode criar uma promoção regular que pode ser aplicada especificamente a pagamentos realizados por meio do PSE. Saiba mais em [Criar promoção para pagamentos com o PSE](https://help.vtex.com/pt/tutorial/criar-promocao-para-pagamentos-com-o-pse--6YIp1fJ76gq667PQWjuj5T).
+> ℹ️ Você também pode criar uma promoção regular que pode ser aplicada especificamente a pagamentos realizados por meio do PSE. Saiba mais em [Criar promoção para pagamentos com o PSE](/pt/tutorial/criar-promocao-para-pagamentos-com-o-pse--6YIp1fJ76gq667PQWjuj5T).
 

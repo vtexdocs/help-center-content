@@ -15,13 +15,13 @@ locale: pt
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
-Ao criar uma [promoção regular](https://help.vtex.com/pt/tutorial/promocao-regular--tutorials_327) em **Promoções** > **Promoções** > **Criar Promoção** > **Promoção Regular**, uma das opções disponíveis no momento de escolher o tipo e o valor do desconto é o __Desconto nominal baseado em fórmula__.
+Ao criar uma [promoção regular](/pt/tutorial/promocao-regular--tutorials_327) em **Promoções** > **Promoções** > **Criar Promoção** > **Promoção Regular**, uma das opções disponíveis no momento de escolher o tipo e o valor do desconto é o __Desconto nominal baseado em fórmula__.
 
 Selecionando esse tipo de desconto, você precisa criar uma fórmula para definir qual será o cálculo do desconto aplicado. Neste artigo, explicamos como construir uma fórmula para atender aos objetivos da sua promoção.
 
 ![tipo-desconto-formula](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promo%C3%A7%C3%B5es-e-taxas/promo%C3%A7%C3%B5es/promocao-regular-com-desconto-nominal-baseado-em-formula_1.png)
 
-Para construir sua fórmula, você pode utilizar [variáveis](https://help.vtex.com/pt/tutorial/regular-promotion-with-nominal-discount-based-on-formula--2Pwrq6THyGViNedQG381jV#variaveis), como total, freight e quantity, realizar [operações](https://help.vtex.com/pt/tutorial/regular-promotion-with-nominal-discount-based-on-formula--2Pwrq6THyGViNedQG381jV#operacoes) (soma, subtração, multiplicação e divisão) e aplicar [funções](https://help.vtex.com/pt/tutorial/regular-promotion-with-nominal-discount-based-on-formula--2Pwrq6THyGViNedQG381jV#funcoes), como `min` , `max` e `floor`.
+Para construir sua fórmula, você pode utilizar [variáveis](/pt/tutorial/regular-promotion-with-nominal-discount-based-on-formula--2Pwrq6THyGViNedQG381jV#variaveis), como total, freight e quantity, realizar [operações](/pt/tutorial/regular-promotion-with-nominal-discount-based-on-formula--2Pwrq6THyGViNedQG381jV#operacoes) (soma, subtração, multiplicação e divisão) e aplicar [funções](/pt/tutorial/regular-promotion-with-nominal-discount-based-on-formula--2Pwrq6THyGViNedQG381jV#funcoes), como `min` , `max` e `floor`.
 
 ## Variáveis
 
@@ -52,7 +52,7 @@ Para priorizar um cálculo antes de outro, escreva o cálculo que deve ser reali
 
 ## Funções
 
-Se desejar, você pode usar a função `min` para [limitar o valor do desconto](https://help.vtex.com/pt/tutorial/regular-promotion-with-nominal-discount-based-on-formula--2Pwrq6THyGViNedQG381jV#limitar-o-valor-do-desconto) ou a função `max` para [priorizar o maior desconto possível](https://help.vtex.com/pt/tutorial/regular-promotion-with-nominal-discount-based-on-formula--2Pwrq6THyGViNedQG381jV#priorizar-o-maior-desconto-possivel). A função `floor` permite obter a parte inteira de um valor, descartando a parte decimal. Veja mais detalhes sobre como aplicar essas funções a seguir.
+Se desejar, você pode usar a função `min` para [limitar o valor do desconto](/pt/tutorial/regular-promotion-with-nominal-discount-based-on-formula--2Pwrq6THyGViNedQG381jV#limitar-o-valor-do-desconto) ou a função `max` para [priorizar o maior desconto possível](/pt/tutorial/regular-promotion-with-nominal-discount-based-on-formula--2Pwrq6THyGViNedQG381jV#priorizar-o-maior-desconto-possivel). A função `floor` permite obter a parte inteira de um valor, descartando a parte decimal. Veja mais detalhes sobre como aplicar essas funções a seguir.
 
 > ℹ️ Ao utilizar funções, é necessário incluir um espaço entre a função e os parênteses de abertura. Exemplo: `min (total * 0.2, 10)`.
 

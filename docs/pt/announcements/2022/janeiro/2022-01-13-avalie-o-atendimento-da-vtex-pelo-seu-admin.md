@@ -25,7 +25,7 @@ Antes, só era possível avaliar o atendimento da VTEX por meio da pesquisa que 
 
 - Avaliar o atendimento do suporte da VTEX por meio de nossa *Pesquisa de Satisfação*, após a resolução de cada chamado.  
 - Visualizar a lista de chamados resolvidos que foram abertos por você em nome da sua loja.   
-- Acessar nosso [Help Center](https://help.vtex.com/pt), [Comunidade VTEX](https://community.vtex.com/) e [Developer Portal](https://developers.vtex.com/).  
+- Acessar nosso [Help Center](/pt), [Comunidade VTEX](https://community.vtex.com/) e [Developer Portal](https://developers.vtex.com/).  
 
 Por enquanto, a página só disponibiliza os chamados de suporte já resolvidos.
 
@@ -39,4 +39,4 @@ A nova página *Pesquisa de Satisfação* já está instalada no seu Admin VTEX 
 
 Nós também enviamos um convite por email para que você acesse a página e faça a sua avaliação.  
 
-Saiba mais sobre [Como funciona o suporte da VTEX](https://help.vtex.com/pt/faq/como-funciona-o-suporte-da-vtex--3kACEfni4m8Yxa1vnf2ebe) e como [Abrir chamados para o suporte VTEX](https://help.vtex.com/pt/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM).
+Saiba mais sobre [Como funciona o suporte da VTEX](/pt/faq/como-funciona-o-suporte-da-vtex--3kACEfni4m8Yxa1vnf2ebe) e como [Abrir chamados para o suporte VTEX](/pt/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM).

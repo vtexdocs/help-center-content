@@ -58,7 +58,7 @@ Com isso em mãos, siga os passos abaixo para configurar o seu XML:
 11. Escolha se exibirá no site do marketplace os SKUs indisponíveis ou não, ou seja, se o produto será exibido para compra, ainda que não esteja disponível para pronta entrega.
 12. Selecione se quer que o produto seja exibido com as informações do SKU padrão.
 13. A partir daqui, preencha as *tags* conforme definido pelo sistema para o qual enviará o XML. Marque a caixa de seleção da coluna __Mostrar conteúdo__, nas tags que tiver preenchido o nome. As tags que já estiverem com essa opção marcada e cuja seleção não for possível desfazer são de preenchimento obrigatório.
-14. A URL usada para acessar o XML é gerada automaticamente, conforme o [domínio cadastrado no dicionário do Web Site](https://help.vtex.com/pt/tutorial/configurar-dominio-do-xml--2RkGK4vHS0c6sYuUw0cUWC), no __CMS__.
+14. A URL usada para acessar o XML é gerada automaticamente, conforme o [domínio cadastrado no dicionário do Web Site](/pt/tutorial/configurar-dominio-do-xml--2RkGK4vHS0c6sYuUw0cUWC), no __CMS__.
 
 > ⚠️ Se a política comercial possuir restrição de acesso, o XML não será gerado.
 
@@ -66,16 +66,16 @@ Com isso em mãos, siga os passos abaixo para configurar o seu XML:
 
 Ao invés de integrar por XML, existe a possibilidade de integrar com marketplaces usando conectores nativos desenvolvidos pela VTEX. A escolha por conector nativo é a recomendação padrão e representa mais eficiência. Os conectores nativos disponíveis são:
 
-- [Amazon](https://help.vtex.com/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP)
-- [B2W](https://help.vtex.com/pt/tracks/configurar-integracao-da-b2w--6w07SJBVqE020KIOOS8ygk)
-- [Mercado Livre](https://help.vtex.com/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq)
-- [Magazine Luiza](https://help.vtex.com/pt/tracks/configurar-integracao-com-o-magazine-luiza--5Yx5IrNa7Y48c6aSC8wu2Y)
-- [Carrefour](https://help.vtex.com/pt/tracks/configurar-integracao-com-o-carrefour--2wYlj07cNuA8k8mmwY86K2)
-- [Centauro](https://help.vtex.com/pt/tracks/integracao-com-a-centauro--D8Qnjbr5lfLkUfMRhsfbj)
-- [Wish](https://help.vtex.com/pt/tracks/integracao-com-a-wish--50hbG4bzhSIhjz1lzqI1g4)
-- [Facebook](https://help.vtex.com/pt/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc)
-- [Google Shopping](https://help.vtex.com/pt/tracks/configurar-integracao-com-o-google-shopping--25Sl7iOqq58PGfVfTAo8Xw)
-- [Google Shopping Ads](https://help.vtex.com/pt/tracks/como-fazer-campanhas-atraves-do-google-ads--47kz5PRQPK0IEaqGqiIuA)
-- [Via Varejo](https://help.vtex.com/pt/tracks/configurar-integracao-da-via-varejo--3E9XylGaJ2wqwISGyw4GuY)
-- [Dafiti](https://help.vtex.com/pt/tracks/configurar-integracao-da-dafiti--4wF4RBx9ygEkimW6SsKw8i)
-- [Netshoes](https://help.vtex.com/pt/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm)
+- [Amazon](/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP)
+- [B2W](/pt/tracks/configurar-integracao-da-b2w--6w07SJBVqE020KIOOS8ygk)
+- [Mercado Livre](/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq)
+- [Magazine Luiza](/pt/tracks/configurar-integracao-com-o-magazine-luiza--5Yx5IrNa7Y48c6aSC8wu2Y)
+- [Carrefour](/pt/tracks/configurar-integracao-com-o-carrefour--2wYlj07cNuA8k8mmwY86K2)
+- [Centauro](/pt/tracks/integracao-com-a-centauro--D8Qnjbr5lfLkUfMRhsfbj)
+- [Wish](/pt/tracks/integracao-com-a-wish--50hbG4bzhSIhjz1lzqI1g4)
+- [Facebook](/pt/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc)
+- [Google Shopping](/pt/tracks/configurar-integracao-com-o-google-shopping--25Sl7iOqq58PGfVfTAo8Xw)
+- [Google Shopping Ads](/pt/tracks/como-fazer-campanhas-atraves-do-google-ads--47kz5PRQPK0IEaqGqiIuA)
+- [Via Varejo](/pt/tracks/configurar-integracao-da-via-varejo--3E9XylGaJ2wqwISGyw4GuY)
+- [Dafiti](/pt/tracks/configurar-integracao-da-dafiti--4wF4RBx9ygEkimW6SsKw8i)
+- [Netshoes](/pt/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm)

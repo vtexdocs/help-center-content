@@ -79,7 +79,7 @@ Este proceso es recomendado cuando la integración está teniendo algún problem
 1. En el menú del Admin, haga clic en **Integraciones**.
 2. Haga clic en **Configuración**.
 3. En la tarjeta de Facebook, haga clic en **Integrar**.
-4. Complete los campos que se muestran en la pantalla (vea el [detalle de los campos](https://help.vtex.com/es/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc/747gwmk5oMkyb6FtwLo17B)).
+4. Complete los campos que se muestran en la pantalla (vea el [detalle de los campos](/es/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc/747gwmk5oMkyb6FtwLo17B)).
 
 Después de volver a realizar la configuración, es muy importante que los permisos solicitados por la APP sean otorgados, sin excepciones, en la etapa de autenticación con Facebook.
 
@@ -92,8 +92,8 @@ De forma nativa, la plataforma ofrece opciones de inicio de sesión con email y 
 #### Realice el registro con sus proveedores
 Antes de configurar nuestra integración de inicio de sesión con Google y Facebook, se debe crear credenciales OAuth 2.0 (protocolo utilizado para la integración) en estos servicios. Para eso, realice los pasos detallados en los siguientes artículos:
 
-- [Facebook](https://help.vtex.com/es/tutorial/cadastrar-client-id-e-client-secret-para-login-com-facebook)
-- [Google](https://help.vtex.com/es/tutorial/cadastrar-client-id-e-client-secret-para-login-com-google)
+- [Facebook](/es/tutorial/cadastrar-client-id-e-client-secret-para-login-com-facebook)
+- [Google](/es/tutorial/cadastrar-client-id-e-client-secret-para-login-com-google)
 
 #### Configure en su tienda
 Después de realizar la configuración en Facebook y/o Google, debe configurar la opción de iniciar sesión a través de estos proveedores en su tienda. En ambos casos, deberá tener a mano el `Client ID` y `Client Secret` que se registraron.

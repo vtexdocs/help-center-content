@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 1hoOi2R0Rm6ky0yCwOUoiy
 ---
 
-Serviço de SKU é uma funcionalidade da VTEX que permite adicionar um item, opcional e com custo, para acompanhar um produto. Para mais informações, leia nosso artigo [O que é um Serviço?](https://help.vtex.com/pt/tutorial/o-que-e-um-servico--46Ha8CEEQoC6Y40i6akG0y).
+Serviço de SKU é uma funcionalidade da VTEX que permite adicionar um item, opcional e com custo, para acompanhar um produto. Para mais informações, leia nosso artigo [O que é um Serviço?](/pt/tutorial/o-que-e-um-servico--46Ha8CEEQoC6Y40i6akG0y).
 
 Neste artigo iremos abordar os seguintes tópicos:
 
@@ -43,7 +43,7 @@ Nesta seção, você deve cadastrar um nome para seu tipo de serviço e configur
 - **Cartão Presente:** opção que exibe o tipo de serviço no cartão presente.
 - **Serviço Obrigatório:** opção que torna o tipo de serviço obrigatório.
 - **Status:** opção que ativa ou desativa o tipo de serviço.
-- **Anexos:** seleção de anexos que serão adicionados no tipo de serviço. O anexo é utilizado para adicionar a informação personalizada do serviço. Para saber mais sobre anexos, leia nosso artigo [O que é um Anexo?](https://help.vtex.com/pt/tutorial/o-que-e-um-anexo--aGICk0RVbqKg6GYmQcWUm?&utm_source=autocomplete).
+- **Anexos:** seleção de anexos que serão adicionados no tipo de serviço. O anexo é utilizado para adicionar a informação personalizada do serviço. Para saber mais sobre anexos, leia nosso artigo [O que é um Anexo?](/pt/tutorial/o-que-e-um-anexo--aGICk0RVbqKg6GYmQcWUm?&utm_source=autocomplete).
 
 ## Criar um valor de serviço e associar a um tipo de serviço
 Após cadastrar o tipo de serviço, é necessário atribuir um valor a ele. Para cadastrar o valor de um tipo de serviço, siga os passos abaixo:

@@ -34,14 +34,14 @@ Para configurar o PagBankV3, siga os passos abaixo:
    		<li>**Liquidação automática imediatamente após a análise antifraude**: a captura é automática e acontece logo após a autorização e análise antifraude (Caso você selecione este comportamento e não possua análise antifraude, a captura do pagamento acontecerá da mesma forma que no comportamento "Liquidação automática imediatamente após a autorização do pagamento").</li>      
    		<li>**Desativado**: a captura acontece somente quando o pedido for faturado. Caso escolha esse comportamento de captura, é importante atentar-se quanto ao tempo do faturamento. Isso porque o faturamento pode ultrapassar o tempo de captura acordado com o provedor de pagamentos e levar à perda da transação.</li>
 </ul>
-8. Caso deseje utilizar o [split de pagamento](https://help.vtex.com/pt/tutorial/split-de-pagamento--6k5JidhYRUxileNolY2VLx) em sua loja, selecione a opção __Ativar split de recebíveis e enviar recebedores de pagamento__ e indique o __Responsável pelas tarifas de processamento de pagamentos__ e __Responsável pelos estornos__ (marketplace, sellers ou marketplaces e sellers).
+8. Caso deseje utilizar o [split de pagamento](/pt/tutorial/split-de-pagamento--6k5JidhYRUxileNolY2VLx) em sua loja, selecione a opção __Ativar split de recebíveis e enviar recebedores de pagamento__ e indique o __Responsável pelas tarifas de processamento de pagamentos__ e __Responsável pelos estornos__ (marketplace, sellers ou marketplaces e sellers).
 9. Em __Campos do provedor__, selecione os campos __Prazo para captura do pagamento__, __Gostaria de ativar o repasse do liable das transações para o seller com maior valor a receber?__, __Prazo de expiração do QR Code PIX__ e __Ativar 3DS__ conforme as instruções do provedor.  
 10. Clique em __Salvar__.
 
-> ⚠️ O PagBank também oferece a opção de captura automática programada para até 5 dias. Caso deseje utilizá-la em sua loja, siga os passos indicados nesta [documentação](https://help.vtex.com/pt/known-issues/a-captura-automatica-programada-nao-e-exibida--1cuvGbgUvd1ATeHEG6Il98).
+> ⚠️ O PagBank também oferece a opção de captura automática programada para até 5 dias. Caso deseje utilizá-la em sua loja, siga os passos indicados nesta [documentação](/pt/known-issues/a-captura-automatica-programada-nao-e-exibida--1cuvGbgUvd1ATeHEG6Il98).
 
-Para configurar os métodos de pagamento a serem processados pela PagBankV3, acesse [Condições de Pagamento](https://help.vtex.com/pt/tutorial/condicoes-de-pagamento). 
+Para configurar os métodos de pagamento a serem processados pela PagBankV3, acesse [Condições de Pagamento](/pt/tutorial/condicoes-de-pagamento). 
 
-Para definir condições especiais sobre os métodos de pagamento, acesse [Configurar condições especiais de Pagamento](https://help.vtex.com/pt/tutorial/condicoes-especiais--tutorials_456#).
+Para definir condições especiais sobre os métodos de pagamento, acesse [Configurar condições especiais de Pagamento](/pt/tutorial/condicoes-especiais--tutorials_456#).
 
 Depois de seguir os passos indicados, PagBankV3 pode demorar até 10 minutos para aparecer no checkout da sua loja como opção de pagamento. 

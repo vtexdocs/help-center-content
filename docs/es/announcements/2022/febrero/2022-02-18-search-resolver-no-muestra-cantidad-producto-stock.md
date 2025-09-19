@@ -17,7 +17,7 @@ announcementSynopsisES: 'Para mejorar la privacidad de los datos, el search-reso
 
 Hemos actualizado la API de [`search-resolver@0.x`](https://github.com/vtex-apps/search-resolver), una aplicación necesaria para el funcionamiento de la búsqueda en la tienda, para que oculte datos sensibles relacionados con el _stock_ de los productos de la tienda. A partir del 20/03/22, la cantidad de productos disponibles en el _stock_ de la tienda ya no se mostrará por [VTEX Search GraphQL](https://github.com/vtex-apps/search-graphql).
 
-Las tiendas que utilizan [VTEX Intelligent Search](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG) no se verán afectadas.
+Las tiendas que utilizan [VTEX Intelligent Search](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG) no se verán afectadas.
 
 ## ¿Qué cambió?
 

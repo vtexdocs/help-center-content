@@ -31,4 +31,4 @@ Generally speaking, the discontinuation of these statuses should not affect any 
 
 In any case, we recommend you revise your integration in order to confirm that these statuses are in fact not in use.
 
-> ℹ️ The workflow removal from the purchase closing critical path for Fulfillment orders has already been done. Read the following article for more on [fulfillment orders workflow removal.](https://help.vtex.com/en/announcements/discontinuation-of-order-completed-order-create-error-and-order-creation--4AJyu9fJNSKNpL4g4dfgcp)
+> ℹ️ The workflow removal from the purchase closing critical path for Fulfillment orders has already been done. Read the following article for more on [fulfillment orders workflow removal.](/en/announcements/discontinuation-of-order-completed-order-create-error-and-order-creation--4AJyu9fJNSKNpL4g4dfgcp)

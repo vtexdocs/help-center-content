@@ -15,7 +15,7 @@ trackSlugEN: instore-using-the-app
 order: 12
 ---
 
-VTEX Sales App allows you to [enable the cart transfer functionality](https://help.vtex.com/en/tracks/instore-customizations--1z9kBm12oBPyVNDo1ivVc2/1PqUW2NuQzaVxTJp0lBK0r). This functionality allows a purchase initiated on one device to be completed on any other device present in the purchase flow, without the need to re-beep the products.
+VTEX Sales App allows you to [enable the cart transfer functionality](/en/tracks/instore-customizations--1z9kBm12oBPyVNDo1ivVc2/1PqUW2NuQzaVxTJp0lBK0r). This functionality allows a purchase initiated on one device to be completed on any other device present in the purchase flow, without the need to re-beep the products.
 
 ## Cart transfer
 

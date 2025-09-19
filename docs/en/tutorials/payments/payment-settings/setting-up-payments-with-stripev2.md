@@ -102,7 +102,7 @@ To configure a payment condition for StripeV2 on VTEX, follow the steps below:
 4. On the configuration page, activate the condition by clicking __Status__.
 5. In __Process with provider__, select the __StripeV2NativeCheckout__ option.
 6. If you want to use an anti-fraud system, check the __Use anti-fraud solution__ option.
-7. If necessary, you can also [configure special payment conditions](https://help.vtex.com/pt/tutorial/special-conditions--tutorials_456).
+7. If necessary, you can also [configure special payment conditions](/pt/tutorial/special-conditions--tutorials_456).
 8. Click `Save`.
 
 If you need more information on how to install the __VTEX Native Checkout Experience__, see the [Stripe documentation available on Vinneren](https://sites.google.com/vinneren.com.mx/documentacion-publica#h.nmryiar6zrqq).
@@ -165,7 +165,7 @@ To configure a payment condition for StripeV2 on VTEX, follow the steps below:
 4. On the configuration page, activate the condition by clicking __Status__.
 5. In __Process with provider__, select the __StripeV2Elements__ option.
 6. If you want to use an anti-fraud system, check the __Use anti-fraud solution__ option.
-7. If necessary, you can also [configure special payment conditions](https://help.vtex.com/en/tutorial/special-conditions--tutorials_456).
+7. If necessary, you can also [configure special payment conditions](/en/tutorial/special-conditions--tutorials_456).
 8. Click `Save`.
 
 If you need more information on how to install __VTEX with Stripe Payment Element Experience__, see the [Stripe documentation available on Vinneren](https://sites.google.com/vinneren.com.mx/documentacion-publica#h.nmryiar6zrqq).
@@ -247,7 +247,7 @@ The StripeV2 provider allows you to process payments with Apple Pay. To configur
 27. In __Process with provider__, select the __StripeV2__ option.
 28. If you want to use an anti-fraud system, check the __Use anti-fraud solution__ option.
 29. Indicate whether you want to process payments in full or in installments.
-30. If necessary, you can also [configure special payment conditions](https://help.vtex.com/en/tutorial/special-conditions--tutorials_456).
+30. If necessary, you can also [configure special payment conditions](/en/tutorial/special-conditions--tutorials_456).
 31. Click `Save`.
 
 After completing these steps, Apple Pay will display at the store's checkout as one of the available payment methods.
@@ -263,7 +263,7 @@ __MSI__ can be configured for both __VTEX Native Checkout experience__ and __VTE
 1. Create a [Stripe](https://stripe.com/) account based in Mexico configured with the MXN currency.
 2. In the VTEX Admin, go to __Store Settings > Payment > Settings__, or type __Settings__ in the search bar at the top of the page.
 3. Click one of the available payment methods that process payments with __MSI__ (Visa, Amex, and Mastercard cards).
-4. On the payment method page, [configure the MSI conditions](https://help.vtex.com/en/tutorial/how-to-configure-payment-conditions--tutorials_455#installments-without-interest) as desired.
+4. On the payment method page, [configure the MSI conditions](/en/tutorial/how-to-configure-payment-conditions--tutorials_455#installments-without-interest) as desired.
 5. In your Stripe dashboard, [configure the MSI conditions](https://support.stripe.com/questions/c%C3%B3mo-configurar-meses-sin-intereses-%28msi%29-en-tu-cuenta-stripe?locale=es-419) using the same information as in the VTEX configuration (Step 4).
 
 > ⚠️ If the information entered in steps 4 and 5 differs, the MSI condition may not work correctly.  

@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 5ZfsNR4ioEsIyu6wkyce0M
 ---
 
-In this article, you will find possible reasons why your payment has not been confirmed according to which [VTEX branch](https://help.vtex.com/en/tutorial/nomes-das-filiais-vtex-pelo-mundo--zg05n6OIOZOEmLW7dcq9z?locale=en) the customer is invoiced by. 
+In this article, you will find possible reasons why your payment has not been confirmed according to which [VTEX branch](/en/tutorial/nomes-das-filiais-vtex-pelo-mundo--zg05n6OIOZOEmLW7dcq9z?locale=en) the customer is invoiced by. 
 
 The payment must be identified within 48 working hours, and in case it has not been found, you must open a [ticket](https://support.vtex.com/hc/pt-br/requests) with the necessary receipts and select the option **Submit payment receipt**.  
 

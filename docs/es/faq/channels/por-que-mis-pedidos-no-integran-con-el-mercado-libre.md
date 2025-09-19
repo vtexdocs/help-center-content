@@ -39,7 +39,7 @@ Hecho esto, espere otros 15 minutos. Ahora comienza la etapa más importante del
 
 11. Acceda al __panel__ de Mercado Libre 
 12. Haga el __login__ con la cuenta que desea integrar
-13. Rehaga el __[proceso de autorización](https://help.vtex.com/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/4leBEAd22Icm46kGeiGgak "processo de autorização")__
+13. Rehaga el __[proceso de autorización](/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/4leBEAd22Icm46kGeiGgak "processo de autorização")__
 14. __Guarde__ las configuraciones.
 
 ¡Listo! De este modo, su integración volverá a funcionar con normalidad dentro de unos pocos minutos.

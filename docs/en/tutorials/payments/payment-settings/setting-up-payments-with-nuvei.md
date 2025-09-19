@@ -58,8 +58,8 @@ To configure DMN Url information on Nuvei, follow the steps below:
 
 `https://master--{account-name}.myvtex.com/_v/api/nuvei-payment-provider/v0/dmn` 
 
-To configure the payment methods to be processed by Nuvei, access [Configuring Payment Conditions](https://help.vtex.com/en/tutorial/how-to-configure-payment-conditions--tutorials_455#).
+To configure the payment methods to be processed by Nuvei, access [Configuring Payment Conditions](/en/tutorial/how-to-configure-payment-conditions--tutorials_455#).
 
-To set special conditions on payment methods, go to [Configuring payment special conditions](https://help.vtex.com/en/tutorial/special-conditions--tutorials_456#).
+To set special conditions on payment methods, go to [Configuring payment special conditions](/en/tutorial/special-conditions--tutorials_456#).
 
 After following the indicated steps, Nuvei provider may take up to 10 minutes to appear at your store's checkout as a payment option.

@@ -17,7 +17,7 @@ order: 2
 
 Esta guía explica cómo realizar la integración con Facebook utilizando el conector desarrollado por VTEX. La integración a través de conectores nativos debe ser su selección predeterminada, ya que implica más eficiencia y seguridad.
 
-> ❗ Se puede [configurar la integración por archivo XML](https://help.vtex.com/es/tutorial/configurando-xml--tutorials_242). Sin embargo, no es aconsejable realizar la integración simultáneamente por archivo XML y conector nativo, ya que esto genera conflictos y divergencia en la información.
+> ❗ Se puede [configurar la integración por archivo XML](/es/tutorial/configurando-xml--tutorials_242). Sin embargo, no es aconsejable realizar la integración simultáneamente por archivo XML y conector nativo, ya que esto genera conflictos y divergencia en la información.
 
 Antes de realizar la integración, tiene que haber creado:
 
@@ -28,12 +28,12 @@ El Administrador Comercial, también conocido como Business Manager, es una herr
 
 Los siguientes pasos para integrar su tienda VTEX con Facebook son:
 
-1. [Definir la política comercial](https://help.vtex.com/es/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc/747gwmk5oMkyb6FtwLo17B).
-2. [Configurar el conector](https://help.vtex.com/es/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc/5OP69kHWKca01wLH0w10jX).
-3. [Autentificar la cuenta](https://help.vtex.com/es/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc/41qzoa7TWIYTyIhABHdgzI).
+1. [Definir la política comercial](/es/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc/747gwmk5oMkyb6FtwLo17B).
+2. [Configurar el conector](/es/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc/5OP69kHWKca01wLH0w10jX).
+3. [Autentificar la cuenta](/es/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc/41qzoa7TWIYTyIhABHdgzI).
 
 Después de realizar estos pasos, la integración estará finalizada. Sin embargo, los atributos del producto no habrán sido enviados.
 
 > ℹ️ Si desea enviar los atributos de sus productos a Facebook, es necesario que realice un mapeo por plantilla de las categorías y los atributos. Este mapeo es opcional. Sin embargo, si opta por realizarlo, debe hacerlo siguiendo todos las etapas descritas. De lo contrario, se pueden producir errores en la integración.
 
-Los pasos necesarios para realizar el mapeo de categorías y atributos se describen con más detalle en el artículo [Envío de productos a Facebook](https://help.vtex.com/es/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc/41qzoa7TWIYTyIhABHdgzI).
+Los pasos necesarios para realizar el mapeo de categorías y atributos se describen con más detalle en el artículo [Envío de productos a Facebook](/es/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc/41qzoa7TWIYTyIhABHdgzI).

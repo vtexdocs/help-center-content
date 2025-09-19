@@ -19,7 +19,7 @@ subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
   This functionality is available for stores using the Legacy Portal technology.
 </div>
 
-The [Layout](https://help.vtex.com/en/subcategory/layout--2g6LxtasS4iSeGEqeYUuGW) section allows you to create your storefront with HTML and CSS. 
+The [Layout](/en/subcategory/layout--2g6LxtasS4iSeGEqeYUuGW) section allows you to create your storefront with HTML and CSS. 
 
 ## Sites and channels
 
@@ -70,24 +70,24 @@ In this section you can build friendlier URLs, making the pages of your Web Site
 To manage the files of your Web Site, you may access this directory. In it, you can add, delete and modify CSS, JavaScript, XML and image file
 
 ### References
-- [Layout](https://help.vtex.com/en/subcategory/layout--2g6LxtasS4iSeGEqeYUuGW)
-- [Settings](https://help.vtex.com/en/subcategory/cms-settings--6kovkwzMRyeOOc2iEC4suM)
-- [Layout folder structure](https://help.vtex.com/en/tutorial/cms-folder-structure--2RdMaJSv4AK4EyscmQuocu?&utm_source=autocomplete)
-- [List of template controls](https://help.vtex.com/en/tutorial/list-of-controls-for-templates--tutorials_563)
-- [What are templates?](https://help.vtex.com/en/tutorial/o-que-sao-templates--4l7BQBYO9ycumsqua2CU88?&utm_source=autocomplete)
-- [What is a website?](https://help.vtex.com/en/tutorial/o-que-e-um-web-site--5sPUdFEv9C02i0MMqqSo0U?&utm_source=autocomplete)
-- [What are controls?](https://help.vtex.com/en/tutorial/o-que-sao-controles--6e2qsk9zu8IQuyEysKweag?&utm_source=autocomplete)
-- [What are layouts?](https://help.vtex.com/en/tutorial/o-que-sao-layouts--CckPh00rZIcIUG60y8Gse?&utm_source=autocomplete)
-- [What are shelves?](https://help.vtex.com/en/tutorial/o-que-sao-prateleiras--28D8d6GFfuAsuAoeWC8eq0?&utm_source=autocomplete)
-- [What is binding?](https://help.vtex.com/en/tutorial/o-que-e-binding--4NcN3NJd0IeYccgWCI8O2W?&utm_source=autocomplete)
+- [Layout](/en/subcategory/layout--2g6LxtasS4iSeGEqeYUuGW)
+- [Settings](/en/subcategory/cms-settings--6kovkwzMRyeOOc2iEC4suM)
+- [Layout folder structure](/en/tutorial/cms-folder-structure--2RdMaJSv4AK4EyscmQuocu?&utm_source=autocomplete)
+- [List of template controls](/en/tutorial/list-of-controls-for-templates--tutorials_563)
+- [What are templates?](/en/tutorial/o-que-sao-templates--4l7BQBYO9ycumsqua2CU88?&utm_source=autocomplete)
+- [What is a website?](/en/tutorial/o-que-e-um-web-site--5sPUdFEv9C02i0MMqqSo0U?&utm_source=autocomplete)
+- [What are controls?](/en/tutorial/o-que-sao-controles--6e2qsk9zu8IQuyEysKweag?&utm_source=autocomplete)
+- [What are layouts?](/en/tutorial/o-que-sao-layouts--CckPh00rZIcIUG60y8Gse?&utm_source=autocomplete)
+- [What are shelves?](/en/tutorial/o-que-sao-prateleiras--28D8d6GFfuAsuAoeWC8eq0?&utm_source=autocomplete)
+- [What is binding?](/en/tutorial/o-que-e-binding--4NcN3NJd0IeYccgWCI8O2W?&utm_source=autocomplete)
 
 ### Guides
-- [Creating and editing a page template](https://help.vtex.com/en/tutorial/como-criar-um-template-de-pagina--frequentlyAskedQuestions_1850): Learn how to create a page template. A page template is a model designed to define an HTML structure for displaying page content.
+- [Creating and editing a page template](/en/tutorial/como-criar-um-template-de-pagina--frequentlyAskedQuestions_1850): Learn how to create a page template. A page template is a model designed to define an HTML structure for displaying page content.
 
-- [Associating a template with a layout](https://help.vtex.com/en/tutorial/associando-um-template-a-um-layout--7CkgOHRj7DVbsRxyR8YQrK?&utm_source=autocomplete): Associate a template with a layout using the Sites and Channels folder.
+- [Associating a template with a layout](/en/tutorial/associando-um-template-a-um-layout--7CkgOHRj7DVbsRxyR8YQrK?&utm_source=autocomplete): Associate a template with a layout using the Sites and Channels folder.
 
-- [Managing placeholders](https://help.vtex.com/es/tutorial/gerenciandoplaceholders--29Y7r9JqcWIqmGipReGLQI): A placeholder is a configurable snippet of code that meets conditions defined by the store. Learn how to insert and configure a placeholder, for example, a banner on your store’s homepage.
+- [Managing placeholders](/es/tutorial/gerenciandoplaceholders--29Y7r9JqcWIqmGipReGLQI): A placeholder is a configurable snippet of code that meets conditions defined by the store. Learn how to insert and configure a placeholder, for example, a banner on your store’s homepage.
 
-- [Using VTEX's native controls](https://help.vtex.com/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/7mGkGmo8l6wf4fXJCkWwPi?&utm_source=autocomplete): Controls are snippets of codes that you can use in your website's templates to perform specific actions. For example, you can use a control on a product page to display the product name.
+- [Using VTEX's native controls](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/7mGkGmo8l6wf4fXJCkWwPi?&utm_source=autocomplete): Controls are snippets of codes that you can use in your website's templates to perform specific actions. For example, you can use a control on a product page to display the product name.
 
-- [What is the purpose of the Customized Control?](https://help.vtex.com/en/tutorial/what-is-the-purpose-of-the-customized-control--frequentlyAskedQuestions_627): In addition to VTEX's native controls, you can create your own controls.
+- [What is the purpose of the Customized Control?](/en/tutorial/what-is-the-purpose-of-the-customized-control--frequentlyAskedQuestions_627): In addition to VTEX's native controls, you can create your own controls.

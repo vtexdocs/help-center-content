@@ -52,10 +52,10 @@ This flag activates or inactivates the possibility for customers to change their
 ### Preview mode
 
 - **Separate view by hostname in the Admin:** separate orders by hostname in the order list. If the option is checked, only requests related to the host will be shown in their respective account. If the option is unchecked, all orders registered in the store's domains will be shown in all accounts.
-- **Separate view by hostname in MyAccount:** separate orders by hostname in the buyer's account - [MyAccount](https://help.vtex.com/en/tutorial/como-funciona-a-minha-conta--2BQ3GiqhqGJTXsWVuio3Xh).
+- **Separate view by hostname in MyAccount:** separate orders by hostname in the buyer's account - [MyAccount](/en/tutorial/como-funciona-a-minha-conta--2BQ3GiqhqGJTXsWVuio3Xh).
 
 ### Conversation mask type
 
 This setting allows you to define the Conversation Tracker configuration. It changes your customers' emails view between the **Soft** and **Hard** modes.The modes change the way the email is delivered in the order flow, adding a mask.
 - **Hard:** creates an alias (alternative email) in an unreadable way, thus avoiding the identification of the email by external systems.
-- **Soft:** creates a less complex alias for the buyer's email, so the email remains readable in the OMS UI and when viewed in the order's JSON. To learn more, read our article on [how communication with the customer is made during the order flow](https://help.vtex.com/en/tutorial/understanding-the-conversation-tracker--tutorials_195).
+- **Soft:** creates a less complex alias for the buyer's email, so the email remains readable in the OMS UI and when viewed in the order's JSON. To learn more, read our article on [how communication with the customer is made during the order flow](/en/tutorial/understanding-the-conversation-tracker--tutorials_195).

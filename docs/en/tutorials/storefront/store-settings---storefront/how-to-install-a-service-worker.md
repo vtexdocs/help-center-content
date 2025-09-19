@@ -34,4 +34,4 @@ For more information, see Google Developers [Web Fundamentals](https://developer
 
 ### Related articles
 
-- [How to turn my store into a PWA](https://help.vtex.com/en/tutorial/how-to-turn-my-store-website-into-a-pwa--3i8VmYeToAUGKgo2kKK6I2)
+- [How to turn my store into a PWA](/en/tutorial/how-to-turn-my-store-website-into-a-pwa--3i8VmYeToAUGKgo2kKK6I2)

@@ -42,7 +42,7 @@ A integração envia produtos, estoque e preços em entidades separadas. Uma vez
 
 **Em asterisco os campos obrigatórios.*
 
-*¹ Algumas especificações são obrigatórias. Para saber mais, [clique aqui](https://help.vtex.com/pt/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm/1UpQGBTJQw4wimCeYSe8yc#outras-especificacoes).*
+*¹ Algumas especificações são obrigatórias. Para saber mais, [clique aqui](/pt/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm/1UpQGBTJQw4wimCeYSe8yc#outras-especificacoes).*
 
 As especificações são enviadas se estiverem de acordo com os valores esperados pela Netshoes. Ou seja, ao enviar um produto, a integração varre suas especificações e, se encontrar alguma que coincida com o valor esperado pela categoria do produto na Netshoes, ela manda a especificação. Se a especificação não tiver o valor esperado, a integração não manda a especificação.
 
@@ -64,11 +64,11 @@ Lá eles ficam agrupados por um produto que possui diversas variações/skus.
 
 _`Ex:` Camisa Azul (produto) | P, M, G (variações/skus)_
 
-A categoria é enviada de acordo com o Departamento preenchido na [planilha de mapeamento](https://help.vtex.com/pt/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm/1UpQGBTJQw4wimCeYSe8yc?locale=pt#preenchendo-a-planilha-de-mapeamento).
+A categoria é enviada de acordo com o Departamento preenchido na [planilha de mapeamento](/pt/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm/1UpQGBTJQw4wimCeYSe8yc?locale=pt#preenchendo-a-planilha-de-mapeamento).
 
 ## Estoque
 
-A Netshoes só aceita receber os estoques para produtos que já foram enviados com sucesso, antes disto, os envios de estoque são rejeitados. Uma vez que o processo de catalogação é finalizado na Netshoes, a integração envia automaticamente os estoques dos produtos, desde que a __API de Notificação de Produtos Aprovados__ esteja configurada ([saiba mais aqui](https://help.vtex.com/pt/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm/4XEVWU4XIQimY4swYuaOoE#api-de-notificacao-de-produtos-aprovados)).
+A Netshoes só aceita receber os estoques para produtos que já foram enviados com sucesso, antes disto, os envios de estoque são rejeitados. Uma vez que o processo de catalogação é finalizado na Netshoes, a integração envia automaticamente os estoques dos produtos, desde que a __API de Notificação de Produtos Aprovados__ esteja configurada ([saiba mais aqui](/pt/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm/4XEVWU4XIQimY4swYuaOoE#api-de-notificacao-de-produtos-aprovados)).
 
 Depois que os produtos recebem a primeira carga de estoque, a atualização é feita SKU por SKU sempre que ocorre alguma alteração de estoque na VTEX.
 
@@ -117,7 +117,7 @@ Nesta integração existem dois pontos que influenciarão na entrega: __Cálculo
 
 - __Frete__
 
-No momento do pedido, por padrão, a Netshoes consulta a tabela de frete cadastrada na VTEX e nós retornamos as opções de frete para eles. Vale destacar que, para que seja possível realizar a consulta, é necessário cadastrar a [API de Frete](https://help.vtex.com/pt/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm/4XEVWU4XIQimY4swYuaOoE#api-de-frete) no painel da Netshoes.
+No momento do pedido, por padrão, a Netshoes consulta a tabela de frete cadastrada na VTEX e nós retornamos as opções de frete para eles. Vale destacar que, para que seja possível realizar a consulta, é necessário cadastrar a [API de Frete](/pt/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm/4XEVWU4XIQimY4swYuaOoE#api-de-frete) no painel da Netshoes.
 
 O lojista tem também a possibilidade de cadastrar na Netshoes uma __tabela de contingência__. Dessa forma, se por algum acaso a integração não conseguir consultar o frete na VTEX ou a API de Frete não esteja cadastrada no painel deles, a Netshoes usa as informações desta tabela. Neste caso, a Netshoes nos passa o pedido e a integração tenta fazer um *match* do frete calculado com a transportadora que mais se adequa dentro da VTEX (usamos o __tipo__ de transportadora como parâmetro). Caso a integração não consiga encontrar um tipo de transportadora igual, nós integramos o pedido usando a transportadora mais barata disponível.
 
@@ -135,7 +135,7 @@ No momento do pedido, a Netshoes não consulta o preço do produto e nem se ele 
 
 ### Integrando o pedido
 
-Os pedidos na Netshoes dispõem dos próprios status. Segue uma explicação deles comparando com os status dentro da VTEX. [Entenda mais sobre os status dos pedidos da VTEX aqui.](https://help.vtex.com/pt/tutorial/fluxo-de-pedido#fluxo-do-pedido-do-seller)
+Os pedidos na Netshoes dispõem dos próprios status. Segue uma explicação deles comparando com os status dentro da VTEX. [Entenda mais sobre os status dos pedidos da VTEX aqui.](/pt/tutorial/fluxo-de-pedido#fluxo-do-pedido-do-seller)
 <br />
 
 | Status VTEX     | Status Netshoes     | Descrição Status Netshoes |
@@ -149,7 +149,7 @@ Os pedidos na Netshoes dispõem dos próprios status. Segue uma explicação del
 
 <br />
 
-A Netshoes notifica a VTEX através da [__API de Importação de Pedidos__](https://help.vtex.com/pt/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm/4XEVWU4XIQimY4swYuaOoE#api-de-importacao-de-pedidos) toda vez que um pedido é feito na plataforma deles, e então nós tentamos integrá-lo. Mesmo que API não esteja cadastrada, a VTEX lê um feed de pedidos na Netshoes para garantir que não haja pedidos perdidos! Mas ainda sim, sugerimos que a API seja cadastrada, pois garante muito mais rapidez para integrar os pedidos, reduzindo chances de ruptura no estoque.
+A Netshoes notifica a VTEX através da [__API de Importação de Pedidos__](/pt/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm/4XEVWU4XIQimY4swYuaOoE#api-de-importacao-de-pedidos) toda vez que um pedido é feito na plataforma deles, e então nós tentamos integrá-lo. Mesmo que API não esteja cadastrada, a VTEX lê um feed de pedidos na Netshoes para garantir que não haja pedidos perdidos! Mas ainda sim, sugerimos que a API seja cadastrada, pois garante muito mais rapidez para integrar os pedidos, reduzindo chances de ruptura no estoque.
 
 Integramos apenas aqueles que estão nos status __Created__ e __Approved__ (seja ele um pedido normal ou pedido de troca). Qualquer pedido que já tenha passado deste status não será integrado e nem aparecerá nos logs de integração de pedidos.
 
@@ -157,7 +157,7 @@ Os pedidos são integrados com o mesmo ID usado na Netshoes. Pedidos de troca, t
 
 _`Ex:` pedido original - 6704259 | pedido de troca - 6704259T_
 
-Caso um pedido não integre na primeira tentativa, existe um retry automático para erros não conhecidos pela integração ou temporários (throttling, serviços indisponíveis 503, entre outros). Se for um erro mapeado, como divergência no valor do pedido, erros de SLA, etc, a integração não faz retry. Para que pedidos com estes erros sejam integrados, será necessário fazer alguma ação ([veja mais sobre erros conhecidos da Netshoes aqui](https://help.vtex.com/pt/faq/erros-de-pedidos-no-bridge-como-resolver#netshoes)).
+Caso um pedido não integre na primeira tentativa, existe um retry automático para erros não conhecidos pela integração ou temporários (throttling, serviços indisponíveis 503, entre outros). Se for um erro mapeado, como divergência no valor do pedido, erros de SLA, etc, a integração não faz retry. Para que pedidos com estes erros sejam integrados, será necessário fazer alguma ação ([veja mais sobre erros conhecidos da Netshoes aqui](/pt/faq/erros-de-pedidos-no-bridge-como-resolver#netshoes)).
 
 ### Interações no pedido
 
@@ -181,4 +181,4 @@ Ao faturar o pedido na VTEX, a integração atualiza o status na Netshoes para _
   - `trackingNumber`, `trackingUrl` e `courier`
 
 - Para alterar o status para __delivered__ será necessário:
-  - `courierStatus`: este é um campo que pode ser populado automaticamente [via atualizações de rastreio das próprias transportadoras](https://help.vtex.com/pt/tutorial/quais-transportadoras-disponibilizam-o-rastreio-de-frete) ou manualmente (via API ou interface do OMS).
+  - `courierStatus`: este é um campo que pode ser populado automaticamente [via atualizações de rastreio das próprias transportadoras](/pt/tutorial/quais-transportadoras-disponibilizam-o-rastreio-de-frete) ou manualmente (via API ou interface do OMS).

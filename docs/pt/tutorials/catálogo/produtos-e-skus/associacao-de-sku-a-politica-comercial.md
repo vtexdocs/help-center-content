@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: pwxWmUu7T222QyuGogs68
 ---
 
-> ⚠️ O tutorial a seguir é válido para associar SKUs **já existentes** a uma determinada [Política Comercial](https://help.vtex.com/pt/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE). Para cadastrar um novo SKU, leia o tutorial [Cadastrar SKU](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ).
+> ⚠️ O tutorial a seguir é válido para associar SKUs **já existentes** a uma determinada [Política Comercial](/pt/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE). Para cadastrar um novo SKU, leia o tutorial [Cadastrar SKU](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ).
 
 Na página de configuração de cada SKU existe a opção de associar apenas aquele item a uma ou mais políticas comerciais. 
 
@@ -29,4 +29,4 @@ Na página de configuração de cada SKU existe a opção de associar apenas aqu
 
 > ⚠️ Se nenhuma política comercial específica for selecionada na configuração do SKU, todas as políticas comerciais terão acesso ao SKU.
 
-Toda alteração realizada em um SKU leva um tempo até ser totalmente processada, inclusive associações a Políticas Comerciais. Confira mais detalhes no artigo [Como funciona a indexação](https://help.vtex.com/pt/tutorial/entendendo-o-funcionamento-da-indexacao--tutorials_256).
+Toda alteração realizada em um SKU leva um tempo até ser totalmente processada, inclusive associações a Políticas Comerciais. Confira mais detalhes no artigo [Como funciona a indexação](/pt/tutorial/entendendo-o-funcionamento-da-indexacao--tutorials_256).

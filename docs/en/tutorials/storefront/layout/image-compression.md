@@ -54,8 +54,8 @@ VTEX delivers the image with the smallest file size to the customer, choosing be
 
 ## Related articles
 
-* [Best practices for using images in the Catalog](https://help.vtex.com/en/tutorial/best-practices-for-using-images-in-the-catalog--738K2yfq5U86kUI2k4AQIk)
-* [Add image to product description](https://help.vtex.com/en/tutorial/add-image-to-product-description--2hQGTAAiyUSoISGSyOK8Y4)
-* [Importing images from a spreadsheet](https://help.vtex.com/en/tutorial/importing-images-from-a-spreadsheet--tutorials_262)
-* [Updating the image of an SKU](https://help.vtex.com/en/tutorial/how-to-update-the-image-of-an-sku--5PMb54FnvUuWOq2qGyAosu)
-* [Reusing images with Image Widget](https://help.vtex.com/en/tutorial/image-widget--7pRSVI2xXpQUzjUZj0m4ov)
+* [Best practices for using images in the Catalog](/en/tutorial/best-practices-for-using-images-in-the-catalog--738K2yfq5U86kUI2k4AQIk)
+* [Add image to product description](/en/tutorial/add-image-to-product-description--2hQGTAAiyUSoISGSyOK8Y4)
+* [Importing images from a spreadsheet](/en/tutorial/importing-images-from-a-spreadsheet--tutorials_262)
+* [Updating the image of an SKU](/en/tutorial/how-to-update-the-image-of-an-sku--5PMb54FnvUuWOq2qGyAosu)
+* [Reusing images with Image Widget](/en/tutorial/image-widget--7pRSVI2xXpQUzjUZj0m4ov)

@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 63DHe3VQEEE6Uuua8gIs2M
 ---
 
-This article explains how to register a user with the telesales [role](https://help.vtex.com/en/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc). For more information on roles and how to configure them, please read the article [Roles](https://help.vtex.com/en/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc).
+This article explains how to register a user with the telesales [role](/en/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc). For more information on roles and how to configure them, please read the article [Roles](/en/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc).
 
 ## Telesales roles
 
@@ -43,5 +43,5 @@ To create a user with the telesales role, follow the steps below.
 
 ![Animated GIF showing how to create call center operator ](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/account-management/users/how-can-i-create-callcenter-user_1.gif)
 
-> ⚠️ When creating a  [role](https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#), avoid including call center [resources](https://help.vtex.com/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3#) with other resources. Otherwise, the role might not work as expected.
+> ⚠️ When creating a  [role](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#), avoid including call center [resources](/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3#) with other resources. Otherwise, the role might not work as expected.
 

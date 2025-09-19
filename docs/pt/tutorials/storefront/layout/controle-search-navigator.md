@@ -50,7 +50,7 @@ Essa flag fica na tela de cadastro da categoria.
 
 ![searchNavigator1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/controle-search-navigator_2.jpg)
 
-> ℹ️ **Importante**: O controle `&lt;vtex.cmc:searchNavigator/&gt;` exibe, por padrão, apenas a categoria raiz (primeiro nível) e a subcategoria mais específica (último nível) dentro do contexto atual. Desdobramentos intermediários da árvore de categorias são omitidos. Além disso, o controle só funciona nos três primeiros níveis, que são tradicionalmente Departamento, Categoria e Subcategoria. Caso sua [arquitetura de catálogo](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/7kz4uWVq6NoaOdUpiJv4PR) contenha subdivisões além do 3º nível, estas não serão exibidas usando o controle nativo.
+> ℹ️ **Importante**: O controle `&lt;vtex.cmc:searchNavigator/&gt;` exibe, por padrão, apenas a categoria raiz (primeiro nível) e a subcategoria mais específica (último nível) dentro do contexto atual. Desdobramentos intermediários da árvore de categorias são omitidos. Além disso, o controle só funciona nos três primeiros níveis, que são tradicionalmente Departamento, Categoria e Subcategoria. Caso sua [arquitetura de catálogo](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/7kz4uWVq6NoaOdUpiJv4PR) contenha subdivisões além do 3º nível, estas não serão exibidas usando o controle nativo.
 
 ## Marcas
 

@@ -25,7 +25,7 @@ To identify the special conditions applicable to each payment method, in the VTE
 
 Allows you to set a payment rule for each SKU group, but for it to work properly, it is necessary to first create different system default business conditions and secondly, the SKUs that comply with this rule must be properly linked to the commercial condition.
 
-To learn how to add a new commercial condition, and link it to a SKU, read the document [Registering a commercial condition](https://help.vtex.com/en/tutorial/registering-a-commercial-condition--tutorials_445).
+To learn how to add a new commercial condition, and link it to a SKU, read the document [Registering a commercial condition](/en/tutorial/registering-a-commercial-condition--tutorials_445).
 
 ## How to configure a commercial condition on the payment condition
 

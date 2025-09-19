@@ -50,7 +50,7 @@ Para ativar o Cartman manualmente, siga os passos abaixo:
 
 Ao acessar o **Simulador de Promoções**, você pode visualizar as promoções criadas na sua loja que foram aplicadas no carrinho de compras e os motivos para sua ativação. Também é possível testar a aplicação de promoções antes de ativá-las, incluindo promoções agendadas e inativas.
 
-Para saber usar essa ferramenta, leia o guia [Simulador de Promoções](https://help.vtex.com/pt/tutorial/simulador-de-promocoes-beta--4zc8SNqjqeIJ0ZRMhjlnvy).
+Para saber usar essa ferramenta, leia o guia [Simulador de Promoções](/pt/tutorial/simulador-de-promocoes-beta--4zc8SNqjqeIJ0ZRMhjlnvy).
 
 ### Obter as informações dos items no carrinho
 
@@ -94,7 +94,7 @@ Na opção **Definir dados de marketing**, é possível aplicar cupons de descon
 
 ![Definir dados de marketing](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/checkout/configura%C3%A7%C3%B5es-do-checkout/configurar-o-cartman_4.PNG)
 
-Para saber mais sobre UTMs e UTMIs , acesse [O que são utm_source, utm_campaign e utm_medium](https://help.vtex.com/pt/tutorial/what-are-utm-source-utm-campaign-and-utm-medium--2wTz7QJ8KUG6skGAoAQuii#) e [O que são as UTMs internas utmi_cp, utmi_pc e utmi_p](https://help.vtex.com/pt/tutorial/o-que-sao-as-utms-internas-utmi_cp-utmi_pc-e-utmi_p#).
+Para saber mais sobre UTMs e UTMIs , acesse [O que são utm_source, utm_campaign e utm_medium](/pt/tutorial/what-are-utm-source-utm-campaign-and-utm-medium--2wTz7QJ8KUG6skGAoAQuii#) e [O que são as UTMs internas utmi_cp, utmi_pc e utmi_p](/pt/tutorial/o-que-sao-as-utms-internas-utmi_cp-utmi_pc-e-utmi_p#).
 
 ## Desativar o Cartman ##
 

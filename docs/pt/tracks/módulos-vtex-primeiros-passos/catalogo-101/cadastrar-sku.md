@@ -21,11 +21,11 @@ Há diferentes formas de cadastrar SKUs:
 - Importação de planilha
 - API
 
-> ℹ️ Se você deseja importar SKUs via [integrações de backend](https://help.vtex.com/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu) com ERP, confira o guia [Back office integration guide (ERP/PIM/WMS)](https://developers.vtex.com/docs/guides/erp-integration-guide).
+> ℹ️ Se você deseja importar SKUs via [integrações de backend](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu) com ERP, confira o guia [Back office integration guide (ERP/PIM/WMS)](https://developers.vtex.com/docs/guides/erp-integration-guide).
 
 ## Admin VTEX
 
-Para saber como cadastrar novos SKUs ao seu catálogo pelo Admin VTEX, confira o artigo [Adicionar ou editar SKU](https://help.vtex.com/pt/tutorial/adicionar-ou-editar-sku--4ryZ6J45kwn3jDiQBxGiiN).
+Para saber como cadastrar novos SKUs ao seu catálogo pelo Admin VTEX, confira o artigo [Adicionar ou editar SKU](/pt/tutorial/adicionar-ou-editar-sku--4ryZ6J45kwn3jDiQBxGiiN).
 
 ## Planilha
 
@@ -39,7 +39,7 @@ Para fazer isso, siga o passo a passo abaixo:
 2. Clique em **Importação e exportação**.
 3. Na aba __Todos os produtos__, clique em **Exportação / Importação**.
 4. Em __Exportar__, na caixa verde, adicione o email desejado para o envio da planilha. Em seguida,  clique em `Exportar para Excel`.
-5. Ao receber a planilha, preencha as linhas com os dados do SKU. Para entender melhor o significado de cada campo, acesse nosso artigo sobre [preencher campos da planilha de importação de produtos e SKUs](https://help.vtex.com/pt/tutorial/preencher-campos-da-planilha-de-importacao--4nYhx63Q5yokQWaMguaIgI).
+5. Ao receber a planilha, preencha as linhas com os dados do SKU. Para entender melhor o significado de cada campo, acesse nosso artigo sobre [preencher campos da planilha de importação de produtos e SKUs](/pt/tutorial/preencher-campos-da-planilha-de-importacao--4nYhx63Q5yokQWaMguaIgI).
 
 ### Importar planilha
 
@@ -60,7 +60,7 @@ Após o cadastro dos SKUs é necessário adicionar as imagens para torná-los at
 2. Clique em **Importação e exportação**.
 3. Clique na aba **Importar imagens**.
 4. Clique na palavra **aqui** para baixar a planilha modelo. A planilha estará no formato que o sistema aceita, evitando problemas na importação.
-5. Ao receber a planilha por email, preencha os campos. Para entender melhor o significado de cada campo, acesse nosso artigo [sobre importar imagens por planilha](https://help.vtex.com/pt/tutorial/importando-imagens-por-planilha--tutorials_262).
+5. Ao receber a planilha por email, preencha os campos. Para entender melhor o significado de cada campo, acesse nosso artigo [sobre importar imagens por planilha](/pt/tutorial/importando-imagens-por-planilha--tutorials_262).
 6. Após preencher a planilha, clique em **Selecionar arquivo**.
 7. Selecione o arquivo desejado e clique em **Abrir**.
 8. Clique em **Importar**.

@@ -23,5 +23,5 @@ VTEX has a new **More for Less** form, which allows you to configure discounts t
 The new form has been developed to simplify promotion setup and ensure greater precision when giving discounts.
 
 ## What needs to be done?
-No action is required to access the new form. This update will be automatically applied to all VTEX stores. For more information, access [Creating a More for Less promotion](https://help.vtex.com/en/tutorial/leve-mais-por-menos--tutorials_325).
+No action is required to access the new form. This update will be automatically applied to all VTEX stores. For more information, access [Creating a More for Less promotion](/en/tutorial/leve-mais-por-menos--tutorials_325).
 

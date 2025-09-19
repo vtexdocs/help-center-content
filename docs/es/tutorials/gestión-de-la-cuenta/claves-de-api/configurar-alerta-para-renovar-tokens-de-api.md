@@ -17,7 +17,7 @@ subcategoryId: 3OlaStejO5MSzvDSU3VCH3
 
 La página **Claves de API** permite configurar alertas para recomendar la renovación de tokens de API para claves generadas internamente.
 
-[Renovar los tokens](https://help.vtex.com/es/tutorial/renovar-token-de-api--7r4AzptYjXErGHadg9LnJ3%5D) periódicamente es importante para garantizar la seguridad, limitar la exposición a riesgos y controlar el acceso a los recursos, lo que minimiza el impacto de claves comprometidas.
+[Renovar los tokens](/es/tutorial/renovar-token-de-api--7r4AzptYjXErGHadg9LnJ3%5D) periódicamente es importante para garantizar la seguridad, limitar la exposición a riesgos y controlar el acceso a los recursos, lo que minimiza el impacto de claves comprometidas.
 
 ![token-renewal-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/gesti%C3%B3n-de-la-cuenta/claves-de-api/configurar-alerta-para-renovar-tokens-de-api_1.png)
 
@@ -33,7 +33,7 @@ La alerta de renovación se muestra a los 3 meses de forma predeterminada, a men
 
 La periodicidad de la alerta se aplicará a todas las claves, tanto nuevas como existentes, tomando la fecha de creación de cada clave como referencia para calcular su plazo de validez.
 
-> ℹ️ El token no vence después del plazo definido. La configuración solamente determina cuándo la interfaz recomendará la renovación sin desactivar la utilización del token. La alerta es un recordatorio para [renovar el token manualmente](https://help.vtex.com/es/tutorial/renovar-token-de-api--7r4AzptYjXErGHadg9LnJ3).
+> ℹ️ El token no vence después del plazo definido. La configuración solamente determina cuándo la interfaz recomendará la renovación sin desactivar la utilización del token. La alerta es un recordatorio para [renovar el token manualmente](/es/tutorial/renovar-token-de-api--7r4AzptYjXErGHadg9LnJ3).
 
 ## Visibilidad de la alerta
 
@@ -47,10 +47,10 @@ La alerta naranja indica que el token superó el plazo de uso recomendado por un
 
 La alerta roja indica que el plazo de uso recomendado se superó hace 3 meses o más.
 
-Cuando veas una clave con alerta, [renueva el token](https://help.vtex.com/es/tutorial/renovar-token-de-api--7r4AzptYjXErGHadg9LnJ3) tan pronto como sea posible. Después de renovarlo, la alerta se mostrará nuevamente una vez que haya pasado el periodo seleccionado (3 o 6 meses) desde la fecha de renovación más reciente.
+Cuando veas una clave con alerta, [renueva el token](/es/tutorial/renovar-token-de-api--7r4AzptYjXErGHadg9LnJ3) tan pronto como sea posible. Después de renovarlo, la alerta se mostrará nuevamente una vez que haya pasado el periodo seleccionado (3 o 6 meses) desde la fecha de renovación más reciente.
 
 ## Más información
 
-* [Claves de API](https://help.vtex.com/es/tutorial/claves-de-api--4bFEmcHXgpNksoePchZyy6)
-* [Claves generadas](https://help.vtex.com/es/tutorial/claves-generadas--7fnU4iZdvZKbxCaT3Ymdjc)
-* [Renovar token de API](https://help.vtex.com/es/tutorial/renovar-token-de-api--7r4AzptYjXErGHadg9LnJ3)
+* [Claves de API](/es/tutorial/claves-de-api--4bFEmcHXgpNksoePchZyy6)
+* [Claves generadas](/es/tutorial/claves-generadas--7fnU4iZdvZKbxCaT3Ymdjc)
+* [Renovar token de API](/es/tutorial/renovar-token-de-api--7r4AzptYjXErGHadg9LnJ3)

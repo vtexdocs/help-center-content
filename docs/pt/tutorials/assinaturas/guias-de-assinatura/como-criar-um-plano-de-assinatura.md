@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 1rA9wuuskW3PpjvMrhatAM
 ---
 
-Para disponibilizar planos de **Assinaturas**, você precisa antes instalar o aplicativo de Assinaturas e realizar as configurações necessárias. Leia o artigo [Como configurar Assinaturas na sua loja](https://help.vtex.com/pt/tutorial/como-configurar-assinaturas--1FA9dfE7vJqxBna9Nft5Sj) para mais informações sobre esse processo.
+Para disponibilizar planos de **Assinaturas**, você precisa antes instalar o aplicativo de Assinaturas e realizar as configurações necessárias. Leia o artigo [Como configurar Assinaturas na sua loja](/pt/tutorial/como-configurar-assinaturas--1FA9dfE7vJqxBna9Nft5Sj) para mais informações sobre esse processo.
 
 Após realizar as configurações, é necessário criar planos de assinatura para disponibilizar para seus clientes e associar produtos a esses planos. Os planos servem para indicar que a funcionalidade de Assinaturas está ativa para determinados produtos e apresentar as frequências de assinaturas disponíveis.
 
@@ -100,8 +100,8 @@ Para navegar entre páginas de ambas as listas, utilize as setas <i class="fas f
 
 Criar um anexo de SKU é um caminho alternativo que tem função equivalente ao plano de assinatura. O anexo é responsável por indicar que a funcionalidade de Assinatura está ativa para determinado SKU, e também quais são as frequências disponíveis.
 
-Recomendamos utilizar o caminho descrito anteriormente para criar um plano diretamente no módulo de **Assinaturas**. Porém, caso você deseje utilizar o Anexo de SKU, siga as etapas listadas no artigo [Como criar um anexo de assinatura](https://help.vtex.com/pt/tutorial/como-criar-um-anexo-de-assinatura--2bUuKyPflA8cOGLv8OvaKK).
+Recomendamos utilizar o caminho descrito anteriormente para criar um plano diretamente no módulo de **Assinaturas**. Porém, caso você deseje utilizar o Anexo de SKU, siga as etapas listadas no artigo [Como criar um anexo de assinatura](/pt/tutorial/como-criar-um-anexo-de-assinatura--2bUuKyPflA8cOGLv8OvaKK).
 
 ## Saiba mais
 
-* [Planos de assinatura](https://help.vtex.com/pt/tutorial/planos-de-assinatura-beta--5kczKRqHEsrs1tYtRcY8wR)
+* [Planos de assinatura](/pt/tutorial/planos-de-assinatura-beta--5kczKRqHEsrs1tYtRcY8wR)

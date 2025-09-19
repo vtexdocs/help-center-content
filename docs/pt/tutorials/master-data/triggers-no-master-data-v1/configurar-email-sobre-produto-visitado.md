@@ -82,7 +82,7 @@ O controle responsável por exibir o produto visitado é o `ProductQueryStringRe
 * **5**: Sugestões
 * **6**: Acessórios
 
-As três primeiras prateleiras são montadas automaticamente pelo sistema e as três últimas são configuradas [manualmente no cadastro de produtos](https://help.vtex.com/pt/tutorial/configurando-produto-similar-sugestoes-acessorios-e-genericos/).
+As três primeiras prateleiras são montadas automaticamente pelo sistema e as três últimas são configuradas [manualmente no cadastro de produtos](/pt/tutorial/configurando-produto-similar-sugestoes-acessorios-e-genericos/).
 
 ## Criar a estrutura de pastas
 

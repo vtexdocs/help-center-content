@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
-Al crear una [promoción regular](https://help.vtex.com/es/tutorial/registro-promocion-regular--tutorials_327) en **Promociones** > **Promociones** > `Nueva Promoción` > `Promoción Regular`, una de las opciones disponibles al momento de elegir el tipo y el valor del descuento es el __Descuento nominal basado en la fórmula__.
+Al crear una [promoción regular](/es/tutorial/registro-promocion-regular--tutorials_327) en **Promociones** > **Promociones** > `Nueva Promoción` > `Promoción Regular`, una de las opciones disponibles al momento de elegir el tipo y el valor del descuento es el __Descuento nominal basado en la fórmula__.
 
 Al seleccionar este tipo de descuento, deberás crear una fórmula para definir cuál será el cálculo del descuento que se aplicará. En este artículo, explicaremos cómo crear una fórmula que cumpla con los objetivos de tu promoción.
 

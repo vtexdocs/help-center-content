@@ -19,7 +19,7 @@ Para facilitar o acesso a informações importantes da sua operação, o relató
 
  ## O que mudou
 
-A nova coluna no relatório permite a visualização das faturas dos seus pedidos pela interface do [módulo de Gerenciamento de pedidos](https://help.vtex.com/pt/tutorial/estrutura-da-pagina-do-oms--2dDZmUUFXWeyQ4s2gqiY0A), antes só visualizadas através da [API de Get Order](https://developers.vtex.com/reference/orders#getorder).
+A nova coluna no relatório permite a visualização das faturas dos seus pedidos pela interface do [módulo de Gerenciamento de pedidos](/pt/tutorial/estrutura-da-pagina-do-oms--2dDZmUUFXWeyQ4s2gqiY0A), antes só visualizadas através da [API de Get Order](https://developers.vtex.com/reference/orders#getorder).
 
  ## Principais vantagens 
 
@@ -29,4 +29,4 @@ Isso quer dizer que o campo `Invoice Number` sempre vai mostrar todas as faturas
 
  ## O que você precisa fazer
 
-A nova coluna do relatório já está habilitada para todas as contas VTEX, não sendo necessária nenhuma ação. Para entender melhor sobre como funciona a exportação de um relatório de pedidos, acesse o nosso artigo sobre [exportar pedidos no módulo de Gerenciamento de pedidos](https://help.vtex.com/pt/tutorial/exportando-pedidos-no-gerenciamento-de-pedidos--tutorials_6417). 
+A nova coluna do relatório já está habilitada para todas as contas VTEX, não sendo necessária nenhuma ação. Para entender melhor sobre como funciona a exportação de um relatório de pedidos, acesse o nosso artigo sobre [exportar pedidos no módulo de Gerenciamento de pedidos](/pt/tutorial/exportando-pedidos-no-gerenciamento-de-pedidos--tutorials_6417). 

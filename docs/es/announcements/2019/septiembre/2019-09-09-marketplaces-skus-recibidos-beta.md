@@ -59,7 +59,7 @@ Al ingresar en la beta abierta, nuestro equipo está 100% enfocado en validar y 
 
 A largo plazo, el siguiente paso es mirar al otro lado de una operación de marketplace: el Seller. En los próximos meses, estaremos ocupados en un rediseño para mejorar la forma en que los sellers envían nuevos SKUs y gestionan las interacciones con los marketplaces. Esto abre la posibilidad de nuevas características y mejoras, como actualizaciones más completas de status y log, mapeo de atributos y categorías, etc.
 
-¿Quiere saber más sobre cómo usar el nuevo panel de SKUs Recibidos? Consulte los [Artículos de Ayuda](https://help.vtex.com/es/tutorial/sugerindo-e-aprovando-skus--tutorials_396) actualizados.
+¿Quiere saber más sobre cómo usar el nuevo panel de SKUs Recibidos? Consulte los [Artículos de Ayuda](/es/tutorial/sugerindo-e-aprovando-skus--tutorials_396) actualizados.
 
 ¡Buenas ventas!
 

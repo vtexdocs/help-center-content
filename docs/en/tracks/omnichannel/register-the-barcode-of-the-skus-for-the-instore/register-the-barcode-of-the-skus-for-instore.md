@@ -21,7 +21,7 @@ To use the VTEX Sales App, products from the physical store must be added to the
 
 Among the information entered during the registration of a product in the Catalog, is the __EAN__. The EAN corresponds to the __barcode__ of the SKU. It's this code that allows the sales associate to easily add the product to the VTEX Sales App cart by reading the product's barcode. VTEX Sales App also allows the barcode to be entered in the search field.
 
-The VTEX Sales App catalog is typically inherited from the e-commerce catalog. This is how your VTEX Sales App will be configured after the [Basic Setup](https://help.vtex.com/en/tracks/instore-setting-up--zav76TFEZlAjnyBVL5tRc). In this scenario, the products will already be added. You only need to ensure that the bar codes are correctly entered in the EAN field of each SKU.
+The VTEX Sales App catalog is typically inherited from the e-commerce catalog. This is how your VTEX Sales App will be configured after the [Basic Setup](/en/tracks/instore-setting-up--zav76TFEZlAjnyBVL5tRc). In this scenario, the products will already be added. You only need to ensure that the bar codes are correctly entered in the EAN field of each SKU.
 
 ## Adding the EAN to your SKUs
 
@@ -32,6 +32,6 @@ To add the SKU's EAN, follow the steps below:
 3. In the __EAN__ field, fill in the barcode value.
 4. Click __Save__.
 
-Alternatively, the EAN field, as well as other SKU fields, can be filled out in bulk using a spreadsheet or your ERP. Check out the [Adding SKUs article](https://help.vtex.com/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ) for detailed information.
+Alternatively, the EAN field, as well as other SKU fields, can be filled out in bulk using a spreadsheet or your ERP. Check out the [Adding SKUs article](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ) for detailed information.
 
 > ℹ️ EAN information can take up to 10 minutes to update. After this procedure, it will be possible to add the SKU to the VTEX Sales App cart through the barcode reader machine.

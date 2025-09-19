@@ -22,7 +22,7 @@ tags:
 
 Al utilizar el Admin, algunos usuarios pueden experimentar problemas como el Error 403 \- Lo sentimos, no tienes acceso a esta página, o que una página no termine de cargar.
 
-Estos problemas suelen producirse por conflictos entre [roles](https://help.vtex.com/es/tutorialroles--7HKK5Uau2H6wxE1rH5oRbc) de usuarios administrativos o configuraciones específicas del navegador.  
+Estos problemas suelen producirse por conflictos entre [roles](/es/tutorialroles--7HKK5Uau2H6wxE1rH5oRbc) de usuarios administrativos o configuraciones específicas del navegador.  
 
 ## Solución
 
@@ -41,7 +41,7 @@ Sigue los pasos a continuación para solucionar el problema:
 
    * Si el rol no es compatible con la página a la que el usuario está intentando acceder, el comportamiento esperado es Error 403.
    * Si hay una combinación del rol **Call center operator** o **OMS- Full access** con el rol **Owner (Admin Super)**, puede haber un conflicto en el acceso a algunas páginas.
-4. Remueve los roles conflictivos y concede únicamente los necesarios para las operaciones que el usuario realiza en la tienda, siguiendo las instrucciones para [Gestionar usuarios](https://help.vtex.com/es/tutorial/gestionar-usuarios--tutorials_512#editar-usuarios).
+4. Remueve los roles conflictivos y concede únicamente los necesarios para las operaciones que el usuario realiza en la tienda, siguiendo las instrucciones para [Gestionar usuarios](/es/tutorial/gestionar-usuarios--tutorials_512#editar-usuarios).
 
 > ⚠️ Solamente el **Owner (Admin Super)** de la cuenta o usuarios con el rol **User Administrator - RESTRICTED** tienen los permisos necesarios para realizar esta etapa.
 

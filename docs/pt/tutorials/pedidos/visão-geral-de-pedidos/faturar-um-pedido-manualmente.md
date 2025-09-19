@@ -15,28 +15,28 @@ locale: pt
 subcategoryId: 3VNOhxDrvYxJThhuJClrYZ
 ---
 
-A página de [Detalhes do Pedido](https://help.vtex.com/pt/tutorial/pagina-de-detalhes-do-pedido-interface--2Y75n54Cc9VizrlG1N6ZNl) permite que o lojista acompanhe o fluxo detalhado dos pedidos. A página reúne os dados de um determinado pedido e é por ela que a loja inclui e consulta a [fatura](https://help.vtex.com/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/2WgQrlHTyVo4hLjhUs1LMT) daquele pedido de forma manual.
+A página de [Detalhes do Pedido](/pt/tutorial/pagina-de-detalhes-do-pedido-interface--2Y75n54Cc9VizrlG1N6ZNl) permite que o lojista acompanhe o fluxo detalhado dos pedidos. A página reúne os dados de um determinado pedido e é por ela que a loja inclui e consulta a [fatura](/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/2WgQrlHTyVo4hLjhUs1LMT) daquele pedido de forma manual.
 
-Faturar o pedido na plataforma VTEX significa inserir a nota fiscal dos itens no módulo **Pedidos**. Também é possível enviar uma [fatura parcial](https://help.vtex.com/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe), quando o pedido sofre alterações em seu valor, itens, ou em casos de devolução de itens.
+Faturar o pedido na plataforma VTEX significa inserir a nota fiscal dos itens no módulo **Pedidos**. Também é possível enviar uma [fatura parcial](/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe), quando o pedido sofre alterações em seu valor, itens, ou em casos de devolução de itens.
 
-É preciso faturar o pedido para que a nota fiscal fique disponível para o cliente e o [fluxo do pedido](https://help.vtex.com/pt/tutorial/fluxo-de-pedido--tutorials_196) chegue ao fim. O envio da fatura pode ser feito:
+É preciso faturar o pedido para que a nota fiscal fique disponível para o cliente e o [fluxo do pedido](/pt/tutorial/fluxo-de-pedido--tutorials_196) chegue ao fim. O envio da fatura pode ser feito:
 
 * Via [API](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/invoice) de envio de fatura.
 * Via Admin VTEX.
 
-> ℹ️ No momento de faturar um pedido, é possível alterar a [transportadora](https://help.vtex.com/pt/tutorial/transportadoras-na-vtex--7u9duMD5UQa2QQwukAWMcE) associada ao pedido. Para isso na etapa de preenchimento do **Rastreamento do pedido**, clique em *Transportadora* e selecione a opção desejada.
+> ℹ️ No momento de faturar um pedido, é possível alterar a [transportadora](/pt/tutorial/transportadoras-na-vtex--7u9duMD5UQa2QQwukAWMcE) associada ao pedido. Para isso na etapa de preenchimento do **Rastreamento do pedido**, clique em *Transportadora* e selecione a opção desejada.
 
 Para enviar a fatura pelo Admin VTEX, realize os seguintes passos:
 
 1. No Admin VTEX, acesse **Pedidos > Todos os pedidos**, ou digite **Todos os pedidos** na barra de busca no topo da página.    
-2. Busque o pedido pela barra de busca ou [utilizando os filtros](https://help.vtex.com/pt/tutorial/como-filtrar-pedidos--tutorials_192).  
+2. Busque o pedido pela barra de busca ou [utilizando os filtros](/pt/tutorial/como-filtrar-pedidos--tutorials_192).  
 3. Clique no pedido desejado.     
 4. Na seção **Itens para faturar,** clique no ícone de seta <i class="fas fa-chevron-right"></i> para expandir.
 ![Itens faturar](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pedidos/vis%C3%A3o-geral-de-pedidos/faturar-um-pedido-manualmente_1.png)
 5. Clique no botão `Faturar`.   
 6. Clique na opção de faturamento desejada:    
     * **Enviar fatura referenciando itens:** para faturar o pedido referenciando os itens do pacote.    
-    * **Enviar fatura avulsa:** para faturar itens específicos do pacote. Caso sejam feitas [alterações no pedido](https://help.vtex.com/pt/tutorial/how-to-change-order-items--7jekq618QxgbsOxKkXBjE8), é necessário inserir [faturas parciais](https://help.vtex.com/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe).  
+    * **Enviar fatura avulsa:** para faturar itens específicos do pacote. Caso sejam feitas [alterações no pedido](/pt/tutorial/how-to-change-order-items--7jekq618QxgbsOxKkXBjE8), é necessário inserir [faturas parciais](/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe).  
     * **Notificar fatura** permite notificar o ERP da sua loja, para gerar nota fiscal.        
 7. Preencha os campos do formulário correspondente:
     * Dados do formulário **Enviar fatura referenciando itens**
@@ -64,6 +64,6 @@ Depois do pedido `Faturado`, confira as notas fiscais inseridas na seção **Fat
 
 ![Fatura](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pedidos/vis%C3%A3o-geral-de-pedidos/faturar-um-pedido-manualmente_2.png)
 
-Em casos de envios de [faturas parciais](https://help.vtex.com/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe), ao [alterar ou remover itens](https://help.vtex.com/pt/tutorial/how-to-change-order-items--7jekq618QxgbsOxKkXBjE8) de um pedido, o valor total do pedido será atualizado após o faturamento, e corresponde ao que é captado pelo gateway de pagamentos da VTEX.
+Em casos de envios de [faturas parciais](/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe), ao [alterar ou remover itens](/pt/tutorial/how-to-change-order-items--7jekq618QxgbsOxKkXBjE8) de um pedido, o valor total do pedido será atualizado após o faturamento, e corresponde ao que é captado pelo gateway de pagamentos da VTEX.
 
-Não é possível [cancelar pedidos](https://help.vtex.com/pt/tutorial/como-cancelar-pedido--tutorials_186) que já tenham sido [faturados parcialmente](https://help.vtex.com/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe). Caso o cliente deseje substituir ou remover itens do pedido, é possível [alterar o pedido](https://help.vtex.com/pt/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190).
+Não é possível [cancelar pedidos](/pt/tutorial/como-cancelar-pedido--tutorials_186) que já tenham sido [faturados parcialmente](/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe). Caso o cliente deseje substituir ou remover itens do pedido, é possível [alterar o pedido](/pt/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190).

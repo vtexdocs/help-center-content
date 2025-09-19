@@ -39,4 +39,4 @@ For more details about the benefits Stripe can bring to your business, check out
 
 To process your payments with Stripe, you need to configure it in the VTEX Admin. 
 
-Check out the step-by-step instructions in the documentation [Configuring Stripe gateway affiliation](https://help.vtex.com/en/tutorial/configuring-stripe-gateway-affiliation--fwF2wk2FQKrODrWWkvSLO).
+Check out the step-by-step instructions in the documentation [Configuring Stripe gateway affiliation](/en/tutorial/configuring-stripe-gateway-affiliation--fwF2wk2FQKrODrWWkvSLO).

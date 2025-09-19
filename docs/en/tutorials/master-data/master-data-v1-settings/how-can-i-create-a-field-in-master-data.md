@@ -15,7 +15,7 @@ locale: en
 subcategoryId: WpbGhubuRZaNZilJSXnqu
 ---
 
-Fields are attributes of a document. Before you configure them, you must understand the [concepts of data entities in our guide](https://help.vtex.com/en/tutorial/creating-data-entities--tutorials_1265 "data entities").
+Fields are attributes of a document. Before you configure them, you must understand the [concepts of data entities in our guide](/en/tutorial/creating-data-entities--tutorials_1265 "data entities").
 
 The process is done in two modules, Dynamic Storage and CRM, described below. Dynamic Storage is an environment in which fields are created, while CRM is where this information is viewed.
 
@@ -42,7 +42,7 @@ Follow the step-by-step below:
 11. If required, fill out the __Description__ field.
 12. Click on __Save.__
 
-> ℹ️ More information about **General Settings** and **Search and Filter Configurations** can be found in our article on [Creating a data entity](https://help.vtex.com/en/tutorial/criando-entidade-de-dados--tutorials_1265#como-configurar), subsection **How to set up**.
+> ℹ️ More information about **General Settings** and **Search and Filter Configurations** can be found in our article on [Creating a data entity](/en/tutorial/criando-entidade-de-dados--tutorials_1265#como-configurar), subsection **How to set up**.
 
 ![criar campo master data ds](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/master-data/master-data-v1-settings/how-can-i-create-a-field-in-master-data_1.gif)
 

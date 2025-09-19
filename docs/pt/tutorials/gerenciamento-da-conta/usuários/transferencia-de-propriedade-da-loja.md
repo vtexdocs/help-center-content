@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 63DHe3VQEEE6Uuua8gIs2M
 ---
 
-Cada conta VTEX tem apenas um [usuário Titular](https://help.vtex.com/pt/tutorial/o-que-e-o-usuario-titular) – o único a quem é dado acesso total a todas as seções do Admin, incluindo ações importantes de manutenção e autorização. Por padrão, este perfil de acesso é atribuído a um usuário especificado em contrato, geralmente a pessoa que supervisiona as operações de comércio digital no dia a dia.
+Cada conta VTEX tem apenas um [usuário Titular](/pt/tutorial/o-que-e-o-usuario-titular) – o único a quem é dado acesso total a todas as seções do Admin, incluindo ações importantes de manutenção e autorização. Por padrão, este perfil de acesso é atribuído a um usuário especificado em contrato, geralmente a pessoa que supervisiona as operações de comércio digital no dia a dia.
 
 O usuário Titular atual pode transferir esta responsabilidade para quem desejar através da página de [Gerenciamento de titulares](#gerenciamento-de-titulares), seguindo as [etapas do fluxo de transferência de propriedade](#transferir-a-propriedade-da-conta).
 
@@ -29,7 +29,7 @@ A página de **Configurações da conta** permite identificar o usuário titular
 
 ### Transferir a propriedade da conta
 
-Antes de começar, certifique-se de que o usuário a quem será concedido o perfil de acesso de Titular já tem acesso à conta. Se ele não tiver, você deve [criar um novo usuário](https://help.vtex.com/en/tutorial/managing-users--tutorials_512#creating-a-new-user) para ele antes de prosseguir.
+Antes de começar, certifique-se de que o usuário a quem será concedido o perfil de acesso de Titular já tem acesso à conta. Se ele não tiver, você deve [criar um novo usuário](/en/tutorial/managing-users--tutorials_512#creating-a-new-user) para ele antes de prosseguir.
 
 Para transferir a propriedade da loja, siga estes passos:
 
@@ -60,7 +60,7 @@ O usuário Titular é responsável por ações importantes de manutenção e aut
 
 Todos os eventos relacionados à transferência de propriedade da conta são registrados no histórico de atividades com a data em que ocorreram e o usuário associado ao evento.
 
-> ℹ️ Você também pode auditar diversas ações dos usuários da sua conta com o módulo [Audit](https://help.vtex.com/pt/tutorial/como-encontrar-eventos-no-audit--5RXf9WJ5YLFBcS8q8KcxTA).
+> ℹ️ Você também pode auditar diversas ações dos usuários da sua conta com o módulo [Audit](/pt/tutorial/como-encontrar-eventos-no-audit--5RXf9WJ5YLFBcS8q8KcxTA).
 
 ## Circunstâncias excepcionais
 
@@ -68,7 +68,7 @@ Se o usuário Titular não estiver disponível para realizar a transferência de
 
 ### Brasil
 
-Para mudar o usuário Titular, entre em contato com o nosso time de Growth Operations pelo [Suporte](https://help.vtex.com/pt/support) selecionando a opção **Comercial** e o tipo de solicitação `Mudança de Usuário Titular`. Será necessário preencher os campos previstos e enviar uma cópia do contrato social.
+Para mudar o usuário Titular, entre em contato com o nosso time de Growth Operations pelo [Suporte](/pt/support) selecionando a opção **Comercial** e o tipo de solicitação `Mudança de Usuário Titular`. Será necessário preencher os campos previstos e enviar uma cópia do contrato social.
 
 Caso o representante informado no formulário não esteja presente no contrato social, deve ser encaminhada uma procuração registrada em cartório, informando que o representante no formulário tem autorização para assinar.
 
@@ -76,7 +76,7 @@ Com estas informações, o time de Growth Operations irá realizar um aditivo em
 
 ### Outros países
 
-Para mudar o usuário Titular, entre em contato com o nosso time de Growth Operations pelo [Suporte](https://help.vtex.com/pt/support) selecionando a opção **Comercial** e o tipo de solicitação `Mudança de Usuário Titular`. Será necessário preencher os campos previstos e enviar uma cópia do contrato social.
+Para mudar o usuário Titular, entre em contato com o nosso time de Growth Operations pelo [Suporte](/pt/support) selecionando a opção **Comercial** e o tipo de solicitação `Mudança de Usuário Titular`. Será necessário preencher os campos previstos e enviar uma cópia do contrato social.
 
 Caso o representante informado no formulário não esteja presente no contrato social, deve ser encaminhada uma cópia do contrato social.
 

@@ -39,7 +39,7 @@ Para remover a mensagem de erro e permitir que a página ou funcionalidade possa
 
 Na página em que a mensagem "__Request headers must contain only ASCII characters__" foi exibida, siga os passos abaixo para identificar qual cookie contém caracteres especiais:
 
-1. Acesse o [DevTools](https://help.vtex.com/pt/tutorial/products-and-skus-beta--2ig7TmROlirWirZjFWZ3By) em seu navegador pressionando a tecla **F12** ou clicando com o botão direito, e escolhendo a opção **Inspecionar**.
+1. Acesse o [DevTools](/pt/tutorial/products-and-skus-beta--2ig7TmROlirWirZjFWZ3By) em seu navegador pressionando a tecla **F12** ou clicando com o botão direito, e escolhendo a opção **Inspecionar**.
 
 2. Na barra superior da tela, acesse a aba **Rede** e ordene as requisições clicando em **Status**. A informação **400** no status indica que uma requisição não foi processada corretamente e, dentre os erros possíveis, pode haver cookies incorretos.  
 
@@ -63,7 +63,7 @@ Na página em que a mensagem "__Request headers must contain only ASCII characte
 
 Uma vez identificados os cookies contendo caracteres especiais, é necessário verificar a sua origem para que sejam removidos da página. As fontes mais comuns de cookies incorretos são:
 
-- [UTMs](https://help.vtex.com/pt/tutorial/o-que-sao-as-utms-internas-utmi-cp-utmi-pc-e-utmi-p--5Pvo8ufYWs00AUeCCEY68a) criados em sua loja ou em campanhas de publicidade do Google, Facebook, entre outros, que possuam caracteres acentuados. Exemplo de UTM utilizado em data comemorativa: `www.site.com?utm_source=dia-das-mães`.
+- [UTMs](/pt/tutorial/o-que-sao-as-utms-internas-utmi-cp-utmi-pc-e-utmi-p--5Pvo8ufYWs00AUeCCEY68a) criados em sua loja ou em campanhas de publicidade do Google, Facebook, entre outros, que possuam caracteres acentuados. Exemplo de UTM utilizado em data comemorativa: `www.site.com?utm_source=dia-das-mães`.
 - Javascripts customizados, onde implementações de front-end utilizadas para armazenar dados ou outro tipo de função podem conter caracteres especiais.
 - Scripts de clientes parceiros que criam cookies com caracteres especiais.
 

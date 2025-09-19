@@ -24,10 +24,10 @@ In the DNS zone of your domain, you should create a CNAME-type entry in the desi
 {domain}.cdn.vtex.com
 ```
 
-Note that the `{domain}` indicated above has to be the same as the one you [registered on VTEX](https://help.vtex.com/en/tracks/como-realizar-el-go-live-de-tu-tienda--4Ns5FxIiksmjsdX2yOTduM/7sM5IMx02zaHvAFTm0OxiJ#registering-the-domain-on-vtex).
+Note that the `{domain}` indicated above has to be the same as the one you [registered on VTEX](/en/tracks/como-realizar-el-go-live-de-tu-tienda--4Ns5FxIiksmjsdX2yOTduM/7sM5IMx02zaHvAFTm0OxiJ#registering-the-domain-on-vtex).
 
 <div class="alert-warning">
-If you use Cloudflare as your DNS zone, you may need to disable the DNS proxy and thus disable Cloudflare's CDN and WAF services. Learn more in the [How to disable the proxy in Cloudflare](https://help.vtex.com/en/tutorial/disable-cloudflare-proxy--75QqsXAqR7NdkRc1GZPiXb) article.
+If you use Cloudflare as your DNS zone, you may need to disable the DNS proxy and thus disable Cloudflare's CDN and WAF services. Learn more in the [How to disable the proxy in Cloudflare](/en/tutorial/disable-cloudflare-proxy--75QqsXAqR7NdkRc1GZPiXb) article.
 </div>
 
 See some examples:
@@ -83,7 +83,7 @@ Once you have done the DNS pointing, you need to notify the VTEX platform by fol
 
 Once the notification is sent, the store will be available, but still awaiting the issuance of the SSL certificate, which should happen within 10 minutes.
 
-In case of a failure to generate the certificate, either due to delay in the propagation of the domain or some type of error, when you access the site you will see a message informing that the SSL certificate is being generated. If it remains for more than thirty minutes after the pointing notification, open a ticket with [VTEX support](https://help.vtex.com/en/support) with urgent priority.
+In case of a failure to generate the certificate, either due to delay in the propagation of the domain or some type of error, when you access the site you will see a message informing that the SSL certificate is being generated. If it remains for more than thirty minutes after the pointing notification, open a ticket with [VTEX support](/en/support) with urgent priority.
 
 The certificate is generated through [Let's Encrypt](https://letsencrypt.org/) and is valid for 90 days. However, it is automatically renewed within five days before expiration, as long as the domain is correctly pointed to VTEX.
 

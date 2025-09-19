@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 2t00bBkcAwIkgSCGKsMOwY
 ---
 
-Siempre que un pedido no esté listado en [Todos los pedidos](https://help.vtex.com/es/tutorial/todos-os-pedidos--2QTduKHAJMFIZ3BAsi6Pi) sin ningún filtro, él puede estar como incompleto.
+Siempre que un pedido no esté listado en [Todos los pedidos](/es/tutorial/todos-os-pedidos--2QTduKHAJMFIZ3BAsi6Pi) sin ningún filtro, él puede estar como incompleto.
 
 El estado de incompleto es cuando el pedido no está con todas informaciones completas para su finalización en la plataforma.
 
@@ -45,5 +45,5 @@ La desistencia de la finalización de compra por el cliente después de hacer cl
 
 ## ¿Cómo identificar esos pedidos?
 
-En los [filtros](https://help.vtex.com/es/tutorial/filtrar-todos-pedidos--tutorials_192) de la página **Todos los pedidos**, en la pestaña **Status**, existe la opción **Status completado**. Basta señalar la opción `Incompleto` para que se listen todos los pedidos en esa situación.
+En los [filtros](/es/tutorial/filtrar-todos-pedidos--tutorials_192) de la página **Todos los pedidos**, en la pestaña **Status**, existe la opción **Status completado**. Basta señalar la opción `Incompleto` para que se listen todos los pedidos en esa situación.
 

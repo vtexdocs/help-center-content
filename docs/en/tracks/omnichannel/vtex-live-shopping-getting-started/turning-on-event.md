@@ -17,7 +17,7 @@ order: 6
 
 The first step to live-streaming an event is to turn it on. This action won’t start the event transmission, but it will allow you to make all the necessary configurations.
 
-> ⚠️ Before your store's first live event, we strongly recommend running a [test event](https://help.vtex.com/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/1le8tz3fyBdb7kR4UdxTjZ#testing-the-tool) to validate product setup, stream quality, and interactivity.
+> ⚠️ Before your store's first live event, we strongly recommend running a [test event](/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/1le8tz3fyBdb7kR4UdxTjZ#testing-the-tool) to validate product setup, stream quality, and interactivity.
 
 To turn an event on, follow the steps below:
 
@@ -39,12 +39,12 @@ Once the event is turned on, all configurations become available for setup. In t
 | :---: | :--- |
 | ID | Event ID, its unique identifier. |
 | Event name | Name of the event. |
-| UTM source | [UTM source](https://help.vtex.com/en/tutorial/what-are-utm-source-utm-campaign-and-utm-medium--2wTz7QJ8KUG6skGAoAQuii) configured to track event data. |
+| UTM source | [UTM source](/en/tutorial/what-are-utm-source-utm-campaign-and-utm-medium--2wTz7QJ8KUG6skGAoAQuii) configured to track event data. |
 | Minutes used | Transmission minutes elapsed, counted in real time. It only starts counting when the event broadcast begins. |
 | Inbound server | Server code used to connect the event between different VTEX stores or other platforms, such as Facebook and YouTube. |
 | Server key | Server key identification used to connect the event between different VTEX stores or other platforms, such as Facebook and YouTube. |
 
-In this section, you can monitor the [event status](https://help.vtex.com/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv#event-status), as shown in the image below:
+In this section, you can monitor the [event status](/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv#event-status), as shown in the image below:
 
 ![article_6_turning_on_event_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/vtex-live-shopping-getting-started/turning-on-event_1.png)
 

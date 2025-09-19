@@ -80,7 +80,7 @@ Define whether the promotion will apply to all sellers or only to selected ones.
 
 ### Trade policies
 
-Select the trade policies that will offer the discount. You can offer discounts for trade policies where [your store acts as a marketplace](https://help.vtex.com/tutorial/o-que-e-um-marketplace) (My Store) or a [seller](https://help.vtex.com/pt/faq/o-que-e-um-seller) (Third Party Stores - Fulfillment).
+Select the trade policies that will offer the discount. You can offer discounts for trade policies where [your store acts as a marketplace](/tutorial/o-que-e-um-marketplace) (My Store) or a [seller](/pt/faq/o-que-e-um-seller) (Third Party Stores - Fulfillment).
 
 Choose from the following options:
 
@@ -117,7 +117,7 @@ Define the conditions that will apply to the promotion. Conditions allow the pro
 
 - **Card BIN:** Apply this promotion when using cards from specific networks, banks, or categories identified by their BIN codes. Import a list of BINs saved in a .txt or .csv file, with each BIN on a separate row.
 
-- **Customer cluster:** Select an already created [customer cluster](https://help.vtex.com/pt/tutorial/como-criar-um-cluster-de-clientes) in Master Data, following the `field=value` or `field contains value` format. Then, choose one of the following options:
+- **Customer cluster:** Select an already created [customer cluster](/pt/tutorial/como-criar-um-cluster-de-clientes) in Master Data, following the `field=value` or `field contains value` format. Then, choose one of the following options:
 
   - **All of the following:** Apply the promotion only if all cluster criteria are met.
   - **At least one of the following:** Apply the promotion if at least one of the cluster criteria is met.
@@ -139,7 +139,7 @@ In this section, determine whether the promotion can be combined with other prom
 
 In this section, you can highlight the promotion on the product listing page and add custom data for in-store customizations.
 
-- **Highlight promotion on products:** Check this option to display the promotion directly on the product listing pages. Remember to [configure this view in the CMS module](https://help.vtex.com/en/tutorial/configurando-promocao-com-destaque-flag--tutorials_2295).
+- **Highlight promotion on products:** Check this option to display the promotion directly on the product listing pages. Remember to [configure this view in the CMS module](/en/tutorial/configurando-promocao-com-destaque-flag--tutorials_2295).
 - **Additional information:** Click Create to add custom fields with name and value, which can be used for store customizations.
 
 See the Buy Together creation form below:

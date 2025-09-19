@@ -21,7 +21,7 @@ Al inicio del funcionamiento de una tienda VTEX, muchas veces es necesario proba
 
 En esta página, usted puede limpiar el catálogo y reiniciar el indexador, retirando todos los productos de su tienda.
 
-Por razones de seguridad, apenas el [usuario Titular](https://help.vtex.com/es/tutorial/que-es-el-usuario-master--3oPr7YuIkEYqUGmEqIMSEy) de la cuenta tiene acceso al Mantenimiento de Base de Datos. En caso de que otro usuario, que no sea Titular, intente acceder a este módulo, se mostrará un mensaje indicando el correo electrónico del responsable de la cuenta y todos botones estarán inactivos.
+Por razones de seguridad, apenas el [usuario Titular](/es/tutorial/que-es-el-usuario-master--3oPr7YuIkEYqUGmEqIMSEy) de la cuenta tiene acceso al Mantenimiento de Base de Datos. En caso de que otro usuario, que no sea Titular, intente acceder a este módulo, se mostrará un mensaje indicando el correo electrónico del responsable de la cuenta y todos botones estarán inactivos.
 
 Estas son las operaciones disponibles:
 
@@ -29,7 +29,7 @@ Estas son las operaciones disponibles:
 
 -  __Eliminar Productos del Indexador:__ al eliminar productos del indexador, ya no habrá productos que visualizar en su tienda.
 
-  > ⚠️  Las siguientes reglas se aplican al botón **Eliminar productos del indexador**: <ul> <li>Solamente las tiendas que tengan menos de 10 mil productos pueden realizar esta acción. Las tiendas que tengan un catálogo mayor deben [abrir un ticket con el equipo de soporte VTEX](https://help.vtex.com/es/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM) para realizar la limpieza del indexador y la reindexación de la base de datos.</li> <li>Cuando un usuario elimina productos del indexador, se bloquea la cuenta para que no se pueda realizar esta acción por 24 horas.</li> <li>Hay una fila para procesar las solicitudes generadas por el botón *Eliminar productos del indexador*. Después de hacer clic en el botón, el tiempo de espera estimado aparece en un registro en la parte inferior de la página. La fila es global y se aplica a todos los usuarios para garantizar la seguridad de la plataforma VTEX.</li></ul> 
+  > ⚠️  Las siguientes reglas se aplican al botón **Eliminar productos del indexador**: <ul> <li>Solamente las tiendas que tengan menos de 10 mil productos pueden realizar esta acción. Las tiendas que tengan un catálogo mayor deben [abrir un ticket con el equipo de soporte VTEX](/es/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM) para realizar la limpieza del indexador y la reindexación de la base de datos.</li> <li>Cuando un usuario elimina productos del indexador, se bloquea la cuenta para que no se pueda realizar esta acción por 24 horas.</li> <li>Hay una fila para procesar las solicitudes generadas por el botón *Eliminar productos del indexador*. Después de hacer clic en el botón, el tiempo de espera estimado aparece en un registro en la parte inferior de la página. La fila es global y se aplica a todos los usuarios para garantizar la seguridad de la plataforma VTEX.</li></ul> 
 
 - __Eliminar Productos/SKU e ítems relacionados:__ al borrar productos y SKU, además de sus ítems relacionados, se eliminarán de forma definitiva de su tienda.
 

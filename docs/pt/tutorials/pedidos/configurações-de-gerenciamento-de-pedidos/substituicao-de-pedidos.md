@@ -17,7 +17,7 @@ subcategoryId: 1qvm3kIrt6KA6IeGc4EQ6k
 
 **Substituição de pedidos** é a funcionalidade que permite que um cliente altere dados de um pedido sem precisar entrar em contato com o suporte ou realizar um novo pedido. 
 
-A [Alteração de itens](https://help.vtex.com/pt/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190) é diferente da substituição de pedidos. Na substituição de pedido o cliente solicita as mudanças no pedido, e na alteração de itens a loja modifica o pedido.
+A [Alteração de itens](/pt/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190) é diferente da substituição de pedidos. Na substituição de pedido o cliente solicita as mudanças no pedido, e na alteração de itens a loja modifica o pedido.
 
 > ❗ A funcionalidade está disponível para todas as lojas, no entanto, é preciso ativá-la para que seus clientes possam utilizá-la.
 
@@ -29,7 +29,7 @@ Neste artigo é possível consultar:
 
 ## Ativação da funcionalidade
 
-> ❗ Se a Substituição de pedidos for ativada em lojas que têm customização na página Meus Pedidos, é preciso recriar a customização. A funcionalidade substitui a versão antiga da página (que está customizada) por uma página nova não customizada. Para esses casos, recomendamos que, antes de ativar a funcionalidade na sua loja, utilize um [ambiente beta](https://help.vtex.com/pt/tutorial/acessar-o-ambiente-beta-pelo-dominio-myvtex-com--3BHM289568gcSwk2O80Asu) e valide a ativação com customização.
+> ❗ Se a Substituição de pedidos for ativada em lojas que têm customização na página Meus Pedidos, é preciso recriar a customização. A funcionalidade substitui a versão antiga da página (que está customizada) por uma página nova não customizada. Para esses casos, recomendamos que, antes de ativar a funcionalidade na sua loja, utilize um [ambiente beta](/pt/tutorial/acessar-o-ambiente-beta-pelo-dominio-myvtex-com--3BHM289568gcSwk2O80Asu) e valide a ativação com customização.
 
 Para ativar a funcionalidade, siga os passos abaixo:
 
@@ -48,15 +48,15 @@ Os clientes podem alterar um pedido até que ele seja faturado, diferentemente d
 Os dados que podem ser alterados com a substituição de pedidos são:
 
 * Endereço de entrega;
-* [Tipo de entrega](https://help.vtex.com/pt/tutorial/como-funciona-o-tipo-de-entrega--tutorials_126);
+* [Tipo de entrega](/pt/tutorial/como-funciona-o-tipo-de-entrega--tutorials_126);
 * Forma de pagamento;
-* [SKU](https://help.vtex.com/pt/tutorial/o-que-e-um-sku--1K75s4RXAQyOuGUYKMM68u);
+* [SKU](/pt/tutorial/o-que-e-um-sku--1K75s4RXAQyOuGUYKMM68u);
 
 ### Restrições para as condições
 
 Não é possível realizar substituição de pedidos nos casos de:
 
-* [Pedidos incompletos](https://help.vtex.com/pt/tutorial/entendendo-os-pedidos-incompletos--tutorials_294): quando o pedido não está com todas as informações completas para ser finalizado na plataforma.
+* [Pedidos incompletos](/pt/tutorial/entendendo-os-pedidos-incompletos--tutorials_294): quando o pedido não está com todas as informações completas para ser finalizado na plataforma.
 * Transação compartilhada: pedidos com um seller ou mais e pagamento realizado para o marketplace.
 * Pedidos já modificados pela loja.
 * Pedidos com os seguintes status:

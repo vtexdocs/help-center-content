@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 7lxg0kyL3TYIsrlSQlf1zP
 ---
 
-Nos marketplaces para os quais a VTEX desenvolveu um [conector nativo](https://help.vtex.com/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-a-conector-nativo-vtex), por vezes ocorrem erros de integração de estoque. Este artigo reúne os erros mais comuns de integração de estoque com o Carrefour e orienta sobre como solucioná-los.
+Nos marketplaces para os quais a VTEX desenvolveu um [conector nativo](/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-a-conector-nativo-vtex), por vezes ocorrem erros de integração de estoque. Este artigo reúne os erros mais comuns de integração de estoque com o Carrefour e orienta sobre como solucioná-los.
 
 Existem mensagens que identificam quais são os erros. Você pode visualizá-las no Admin VTEX, em **MARKETPLACE > Conexões > Estoque**, clicando sobre a mensagem de processo com erro.
 
@@ -35,11 +35,11 @@ ____
 
 `"status":401,"message":"Unauthorized"`
 
-Este erro indica a perda da autorização da sua integração com o Carrefour, ou seja, trata-se de um problema relacionado ao _token_, também chamado de _ShopKey_. Para o Carrefour, problemas de _token_ podem ocorrer por diferentes motivos, como prazo de validade expirado, ou suspeita de ameaça à segurança, por exemplo. Neste caso, é necessário entrar em contato com o Carrefour para validar o _token_, por meio do [Portal Fornecedor](https://portalfornecedorcarrefour.qa.aevee.com.br/login). Após essa validação, corrija as configurações do [cadastro do conector da integração](https://help.vtex.com/pt/tracks/configurar-integracao-com-o-carrefour--2wYlj07cNuA8k8mmwY86K2/2AhqcmRN1mseCsGuGIe6GK). No seu Admin VTEX, vá em **MARKETPLACE > Conexões > Integrações**. No _card_ do Carrefour, clique sobre o ícone <i class="fas fa-cog"></i> engrenagem, e escolha a opção **Editar configuração**. Preencha o campo _ShopKey_ com o novo _token_ e clique em **Salvar configuração**.
+Este erro indica a perda da autorização da sua integração com o Carrefour, ou seja, trata-se de um problema relacionado ao _token_, também chamado de _ShopKey_. Para o Carrefour, problemas de _token_ podem ocorrer por diferentes motivos, como prazo de validade expirado, ou suspeita de ameaça à segurança, por exemplo. Neste caso, é necessário entrar em contato com o Carrefour para validar o _token_, por meio do [Portal Fornecedor](https://portalfornecedorcarrefour.qa.aevee.com.br/login). Após essa validação, corrija as configurações do [cadastro do conector da integração](/pt/tracks/configurar-integracao-com-o-carrefour--2wYlj07cNuA8k8mmwY86K2/2AhqcmRN1mseCsGuGIe6GK). No seu Admin VTEX, vá em **MARKETPLACE > Conexões > Integrações**. No _card_ do Carrefour, clique sobre o ícone <i class="fas fa-cog"></i> engrenagem, e escolha a opção **Editar configuração**. Preencha o campo _ShopKey_ com o novo _token_ e clique em **Salvar configuração**.
 
 <br></br>
 ### Saiba mais
 
-- [Integração com o Carrefour](https://help.vtex.com/pt/tracks/configurar-integracao-com-o-carrefour--2wYlj07cNuA8k8mmwY86K2)
-- [Controle de estoque mínimo para integrações](https://help.vtex.com/pt/tutorial/controle-de-estoque-minimo-para-integracoes--5hvUNIiSeJ5QCaZQYpYf1D)
-- [Configurar o Alerta de Estoque Crítico](https://help.vtex.com/pt/tutorial/configurar-o-alerta-de-estoque-critico--6FD0GHeQPCsKIMgkQ88SGu)
+- [Integração com o Carrefour](/pt/tracks/configurar-integracao-com-o-carrefour--2wYlj07cNuA8k8mmwY86K2)
+- [Controle de estoque mínimo para integrações](/pt/tutorial/controle-de-estoque-minimo-para-integracoes--5hvUNIiSeJ5QCaZQYpYf1D)
+- [Configurar o Alerta de Estoque Crítico](/pt/tutorial/configurar-o-alerta-de-estoque-critico--6FD0GHeQPCsKIMgkQ88SGu)

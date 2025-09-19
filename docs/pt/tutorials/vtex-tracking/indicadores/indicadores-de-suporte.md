@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 2A1RNDhwU4kqCN3XimtaD2
 ---
 
-> ℹ️ Esse artigo está relacionado com a funcionalidade de **Relatório de Indicadores**. Caso queira saber mais, acesse[  Relatório de Indicadores](https://help.vtex.com/pt/tutorial/relatorio-de-indicadores--7lbICsrCArXDxUYeeHJ2c5).
+> ℹ️ Esse artigo está relacionado com a funcionalidade de **Relatório de Indicadores**. Caso queira saber mais, acesse[  Relatório de Indicadores](/pt/tutorial/relatorio-de-indicadores--7lbICsrCArXDxUYeeHJ2c5).
 
 ## Suporte
 

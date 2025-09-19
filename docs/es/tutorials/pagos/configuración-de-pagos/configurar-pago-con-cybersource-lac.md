@@ -28,8 +28,8 @@ Para configurar Cybersource LAC siga los pasos a continuación:
 7. En __Campos del proveedor__, seleccione o complete los campos __Merchant ID__, __Secret Key__, __Shared Secret Key__, __SOAP Key__, __Domain (URL)__, __Merchant Category Code (MCC)__, __Company Name__, __Company Tax Id__, __Capture Setting__, __Acquiring Banks (Mexico)__, __Plan Type__, __Payer Authentication__, __Service Authentication__, __Auth Card Brands__, __Bank Slip Expiration Days (BR)__, __Has Network Token?__ y __Sandbox Mode__ según las instrucciones del proveedor.
 8. Haga clic en `Guardar`.
 
-Para configurar los métodos de pago a procesar por Cybersource LAC, acceda al [Configurar Condiciones de Pago](https://help.vtex.com/es/tutorial/condiciones-de-pago--tutorials_455#).
+Para configurar los métodos de pago a procesar por Cybersource LAC, acceda al [Configurar Condiciones de Pago](/es/tutorial/condiciones-de-pago--tutorials_455#).
 
-Para establecer condiciones especiales en los métodos de pago, acceda al [Configurar condiciones especiales de Pago](https://help.vtex.com/es/tutorial/condiciones-especiales--tutorials_456#).
+Para establecer condiciones especiales en los métodos de pago, acceda al [Configurar condiciones especiales de Pago](/es/tutorial/condiciones-especiales--tutorials_456#).
 
 Después de seguir los pasos indicados, Cybersource LAC puede tardar hasta 10 minutos en aparecer en el checkout de tu tienda como una opción de pago.

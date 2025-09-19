@@ -40,7 +40,7 @@ Puedes acceder a la página **Pedidos** a través de **Admin VTEX > Marketplace 
 - **Status:** **procesado con éxito** o **procesado con error.**  
 - **Fecha de procesamiento:** última vez que la plataforma VTEX procesó el pedido.  
 
-Para ver más detalles del pedido, haz clic en el pedido. En caso de error, la plataforma muestra un log detallado sobre las causas del error del pedido. Para solucionar los errores, accede a la sección [resolución de problemas](https://help.vtex.com/es/subcategory/integracoes--2LcLWCYaEm5qPmOuYUiKIS) en el Help Center y consulta el tutorial del marketplace en que se realizó el pedido.  
+Para ver más detalles del pedido, haz clic en el pedido. En caso de error, la plataforma muestra un log detallado sobre las causas del error del pedido. Para solucionar los errores, accede a la sección [resolución de problemas](/es/subcategory/integracoes--2LcLWCYaEm5qPmOuYUiKIS) en el Help Center y consulta el tutorial del marketplace en que se realizó el pedido.  
 
 ### Productos  
 

@@ -15,14 +15,14 @@ locale: pt
 subcategoryId: 3vhg10rO4MSmy06KeIYMIa
 ---
 
-A arquitetura de uma loja VTEX permite que ela atue tanto como [marketplace](https://help.vtex.com/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402), quanto como seller. O marketplace é o ambiente onde o produto é vendido, também chamado de vitrine, e o seller é o dono do estoque e o responsável pelo envio do pedido.
+A arquitetura de uma loja VTEX permite que ela atue tanto como [marketplace](/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402), quanto como seller. O marketplace é o ambiente onde o produto é vendido, também chamado de vitrine, e o seller é o dono do estoque e o responsável pelo envio do pedido.
 
 Existem dois tipos de sellers na VTEX:
 
 - **Seller comum:** o seller é visível na vitrine do marketplace e pode ser escolhido pelo consumidor durante sua experiência de compra.
-- **[Seller white label](https://help.vtex.com/pt/tutorial/definicoes-de-conta-franquia-e-seller-white-label--5orlGHyDHGAYciQ64oEgKa):** o seller permanece oculto na experiência de compra do consumidor e é selecionado de forma automática pela plataforma VTEX para realizar o envio do pedido.
+- **[Seller white label](/pt/tutorial/definicoes-de-conta-franquia-e-seller-white-label--5orlGHyDHGAYciQ64oEgKa):** o seller permanece oculto na experiência de compra do consumidor e é selecionado de forma automática pela plataforma VTEX para realizar o envio do pedido.
 
-> ℹ️ Na VTEX, a conta franquia é um tipo de conta criada associada a uma conta principal e tem a característica de ser um seller white label da conta principal. Esse modelo de negócio é estratégico para lojistas que desejam conectar lojas físicas ao seu canal digital de venda, saiba mais em [O que é conta franquia](https://help.vtex.com/pt/tutorial/what-is-a-franchise-account--kWQC6RkFSCUFGgY5gSjdl).
+> ℹ️ Na VTEX, a conta franquia é um tipo de conta criada associada a uma conta principal e tem a característica de ser um seller white label da conta principal. Esse modelo de negócio é estratégico para lojistas que desejam conectar lojas físicas ao seu canal digital de venda, saiba mais em [O que é conta franquia](/pt/tutorial/what-is-a-franchise-account--kWQC6RkFSCUFGgY5gSjdl).
 
 Quando o consumidor navega no marketplace, seja na etapa da vitrine ou no carrinho, as informações sobre disponibilidade dos itens e opções de envio dos sellers apresentadas ao consumidor podem variar, a depender do marketplace saber ou não a localização desse comprador. Diante disso, este artigo se divide em:
 
@@ -41,11 +41,11 @@ Quando os clientes navegam pelo marketplace, sua expectativa é visualizar produ
 
 ### Vitrine sem localização do cliente
 
-Quando um cliente está navegando no marketplace e sua localização não é conhecida, os produtos apresentados são apenas aqueles do estoque do seller principal, também chamado de Seller 1, e dos [sellers abrangentes](https://help.vtex.com/pt/tutorial/seller-abrangente--5Qn4O2GpjUIzWTPpvLUfkI). Um seller deve ser configurado como abrangente quando for capaz de enviar pedidos para todas as regiões atendidas pela operação do marketplace. Em casos de mais de um seller abrangente cadastrado, o checkout seleciona aquele que tem maior saldo em estoque para o item em questão, dentre todos os sellers abrangentes.
+Quando um cliente está navegando no marketplace e sua localização não é conhecida, os produtos apresentados são apenas aqueles do estoque do seller principal, também chamado de Seller 1, e dos [sellers abrangentes](/pt/tutorial/seller-abrangente--5Qn4O2GpjUIzWTPpvLUfkI). Um seller deve ser configurado como abrangente quando for capaz de enviar pedidos para todas as regiões atendidas pela operação do marketplace. Em casos de mais de um seller abrangente cadastrado, o checkout seleciona aquele que tem maior saldo em estoque para o item em questão, dentre todos os sellers abrangentes.
 
 ### Vitrine com localização do cliente
 
-Seja por meio de geocoordenadas capturadas ou por dados fornecidos pelo cliente, quando o marketplace dispõe da localização do cliente, a plataforma VTEX consegue consultar todos os sellers que atendem àquela região para exibir preço e disponibilidade de produtos na vitrine e seleciona o seller que oferece o menor preço. Saiba mais em [Configurar preço e disponibilidade de SKUs por Region](https://help.vtex.com/pt/tutorial/configurar-preco-e-disponibilidade-de-skus-por-region--12ne58BmvYsYuGsimmugoc).
+Seja por meio de geocoordenadas capturadas ou por dados fornecidos pelo cliente, quando o marketplace dispõe da localização do cliente, a plataforma VTEX consegue consultar todos os sellers que atendem àquela região para exibir preço e disponibilidade de produtos na vitrine e seleciona o seller que oferece o menor preço. Saiba mais em [Configurar preço e disponibilidade de SKUs por Region](/pt/tutorial/configurar-preco-e-disponibilidade-de-skus-por-region--12ne58BmvYsYuGsimmugoc).
 
 > ⚠️ Quando a localização do cliente é conhecida, a consulta a todos os sellers é o comportamento padrão da plataforma VTEX, conforme a funcionalidade [Region v2](https://developers.vtex.com/vtex-developer-docs/changelog/region-v2-release). No entanto, é possível que algumas lojas VTEX ainda operem com o Region v1, que possui limitações na seleção de sellers para a vitrine.
 
@@ -58,7 +58,7 @@ Quando o cliente adiciona itens ao carrinho, é possível que o marketplace disp
 
 ### Carrinho sem endereço do cliente
 
-Enquanto o marketplace ainda não sabe a localização do cliente, a disponibilidade e o preço dos produtos são apenas aqueles oferecidos pelo seller principal e [sellers abrangentes](https://help.vtex.com/pt/tutorial/seller-abrangente--5Qn4O2GpjUIzWTPpvLUfkI). Um seller é configurado como abrangente quando é capaz de enviar pedidos para todas as regiões atendidas pela operação do marketplace. Em casos de mais de um seller abrangente cadastrado, o checkout seleciona aquele que tem maior saldo em estoque para o item em questão, dentre todos os sellers abrangentes.
+Enquanto o marketplace ainda não sabe a localização do cliente, a disponibilidade e o preço dos produtos são apenas aqueles oferecidos pelo seller principal e [sellers abrangentes](/pt/tutorial/seller-abrangente--5Qn4O2GpjUIzWTPpvLUfkI). Um seller é configurado como abrangente quando é capaz de enviar pedidos para todas as regiões atendidas pela operação do marketplace. Em casos de mais de um seller abrangente cadastrado, o checkout seleciona aquele que tem maior saldo em estoque para o item em questão, dentre todos os sellers abrangentes.
 
 ### Carrinho com endereço do cliente
 
@@ -66,14 +66,14 @@ Quando o cliente insere seu endereço no carrinho, a plataforma da VTEX realiza 
 
 Os primeiros critérios para a seleção de sellers white label são:
 
-- Menor custo na [planilha de frete](https://help.vtex.com/pt/tutorial/planilha-de-frete--tutorials_127) da [política de envio](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140) do seller.
+- Menor custo na [planilha de frete](/pt/tutorial/planilha-de-frete--tutorials_127) da [política de envio](/pt/tutorial/politica-de-envio--tutorials_140) do seller.
 - Menor tempo na planilha de frete da política de envio do seller.
-- Ter [inventário](https://help.vtex.com/pt/tutorial/gerenciar-itens-em-estoque) disponível.
+- Ter [inventário](/pt/tutorial/gerenciar-itens-em-estoque) disponível.
 
 Após filtrar todos os sellers com base nos critérios apresentados, é feita uma seleção de até seis sellers para cada tipo de envio:
 
 - [Entrega](#tipo-de-envio-entrega): o cliente recebe o pedido no seu endereço.
-- [Retirada](#tipo-de-envio-retirada): o cliente retira o pedido em um [ponto de retirada](https://help.vtex.com/pt/tutorial/pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R).
+- [Retirada](#tipo-de-envio-retirada): o cliente retira o pedido em um [ponto de retirada](/pt/tutorial/pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R).
 
 > ℹ️ Por padrão, do total de até doze sellers, até seis realizam a entrega e até seis a retirada. No entanto, se menos de seis sellers atenderem aos critérios de um tipo de envio, é possível que a lista de sellers do outro tipo seja maior que seis. Por exemplo, se somente cinco sellers entregam o pedido, a lista de retirada pode ser composta de sete sellers, de forma a totalizar doze sellers.
 
@@ -82,7 +82,7 @@ Após filtrar todos os sellers com base nos critérios apresentados, é feita um
 A seleção de até seis sellers white label para envio do tipo entrega é feita da seguinte forma:
 
 1. A plataforma VTEX considera uma lista com todos os SKUs que o cliente adicionou ao carrinho.
-2. É feita uma seleção de sellers que entregam na região do cliente pelo menos um SKU da lista. Sellers que não possuem no seu [inventário](https://help.vtex.com/pt/tutorial/gerenciar-itens-em-estoque--tutorials_139) todas as unidades de pelo menos um SKU são desconsiderados.
+2. É feita uma seleção de sellers que entregam na região do cliente pelo menos um SKU da lista. Sellers que não possuem no seu [inventário](/pt/tutorial/gerenciar-itens-em-estoque--tutorials_139) todas as unidades de pelo menos um SKU são desconsiderados.
   > Exemplo: em um pedido com cinco blusas vermelhas e três blusas brancas, o seller precisa ser capaz de entregar no mínimo as cinco blusas vermelhas ou as três blusas brancas.
 3. A plataforma VTEX seleciona o seller que atende mais SKUs da lista. 
 4. É realizada uma nova etapa de seleção, na qual são desconsiderados os SKUs entregues pelo seller já escolhido.
@@ -96,7 +96,7 @@ Se existir um empate entre sellers nos critérios de melhor custo ou prazo, o cr
 
 #### Exemplo 1 para envio tipo entrega
 
-Um cliente adicionou ao carrinho cinco SKUs. Dentre os sellers que entregam na sua região, os sellers A, B, C e D, cada um possui no [inventário](https://help.vtex.com/pt/tutorial/gerenciar-itens-em-estoque--tutorials_139) apenas parte dos itens, conforme a imagem a seguir:
+Um cliente adicionou ao carrinho cinco SKUs. Dentre os sellers que entregam na sua região, os sellers A, B, C e D, cada um possui no [inventário](/pt/tutorial/gerenciar-itens-em-estoque--tutorials_139) apenas parte dos itens, conforme a imagem a seguir:
 
 ![print_selecao_seller_white_label_1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/omnichannel/vis%C3%A3o-geral-de-omnichannel/selecao-de-sellers-white-label_1.png)
 
@@ -112,7 +112,7 @@ O resultado da seleção para entrega é uma combinação dos sellers A, B e C.
 
 #### Exemplo 2 para envio tipo entrega
 
-Um cliente adicionou cinco SKUs ao carrinho e existem quatro sellers que entregam na sua região, os sellers A, B, C e D. Nenhum deles tem no [inventário](https://help.vtex.com/pt/tutorial/gerenciar-itens-em-estoque--tutorials_139) todos os itens, conforme imagem a seguir:
+Um cliente adicionou cinco SKUs ao carrinho e existem quatro sellers que entregam na sua região, os sellers A, B, C e D. Nenhum deles tem no [inventário](/pt/tutorial/gerenciar-itens-em-estoque--tutorials_139) todos os itens, conforme imagem a seguir:
 
 ![print_selecao_seller_white_label_3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/omnichannel/vis%C3%A3o-geral-de-omnichannel/selecao-de-sellers-white-label_3.png)
 
@@ -141,7 +141,7 @@ O resultado da seleção de sellers para envio do tipo entrega são os sellers D
 
 Por padrão, a seleção da lista de sellers para envio do tipo retirada é feita sem incluir os sellers escolhidos para o tipo entrega. O objetivo é que as duas análises não concorram entre si.
 
-A seleção de até seis sellers para envio do tipo retirada é planejada para o cliente obter todos os itens do carrinho em um único [ponto de retirada](https://help.vtex.com/pt/tutorial/pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R), e ocorre da seguinte forma:
+A seleção de até seis sellers para envio do tipo retirada é planejada para o cliente obter todos os itens do carrinho em um único [ponto de retirada](/pt/tutorial/pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R), e ocorre da seguinte forma:
 
 1. A plataforma VTEX considera uma lista com todos os SKUs que o cliente adicionou ao carrinho.
 2. É feita uma seleção de sellers que entregam na região do cliente pelo menos um SKU da lista. Sellers que não possuem no seu inventário todas as unidades de pelo menos um SKU são desconsiderados.
@@ -239,7 +239,7 @@ A partir da seleção de doze sellers, a plataforma VTEX calcula opções de ent
 No checkout, o cliente pode:
 
 - Definir o tipo de envio: entrega, retirada ou uma combinação de ambos.
-- Escolher um [ponto de retirada](https://help.vtex.com/pt/tutorial/pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R), se optar por retirar o pedido.
+- Escolher um [ponto de retirada](/pt/tutorial/pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R), se optar por retirar o pedido.
 - Avaliar e selecionar condições de custo e prazo do envio do pedido.
 
 Por se tratar da seleção de sellers white label, o cliente não é capaz de identificar quem são os sellers responsáveis pelo envio do pedido. O que vai aparecer na experiência de compra do consumidor são as opções de envio, do tipo normal, econômica ou expressa, por exemplo.

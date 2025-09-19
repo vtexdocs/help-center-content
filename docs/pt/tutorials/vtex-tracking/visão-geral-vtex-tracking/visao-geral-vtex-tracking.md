@@ -21,24 +21,24 @@ VTEX Tracking é uma solução da VTEX voltada ao monitoramento de entregas. Ela
 - **Aplicativo Móvel**: de uso exclusivo do portador, ou motorista, que realiza as entregas.  
 - **Last Mile**: interface voltada à comunicação com o destinatário. 
 
-> ℹ️ Confira como instalar e configurar a integração entre uma loja VTEX e a app VTEX Tracking no artigo [Como instalar e configurar a app VTEX Tracking](https://help.vtex.com/pt/tutorial/como-instalar-e-configurar-a-app-vtex-tracking-no-seu-admin-vtex--3ejuFsJ1m0r08cT6afpIPf).
+> ℹ️ Confira como instalar e configurar a integração entre uma loja VTEX e a app VTEX Tracking no artigo [Como instalar e configurar a app VTEX Tracking](/pt/tutorial/como-instalar-e-configurar-a-app-vtex-tracking-no-seu-admin-vtex--3ejuFsJ1m0r08cT6afpIPf).
 
 ## Plataforma web
 Através da plataforma web, os clientes VTEX Tracking realizam toda a gestão e monitoramento de suas entregas. Ela conta com as seguintes funcionalidades:
 
 - **Configuração de conta:** é na plataforma web onde toda a configuração da sua operação é realizada. Para que seu negócio opere com a solução VTEX Tracking, é preciso configurar:
 
-  - [Agências](https://help.vtex.com/pt/tutorial/agencias-vtex-tracking--2PMohRiNdNpHPA2g2HyYH7?locale=pt)  
-  - [Clientes](https://help.vtex.com/pt/tutorial/clientes-vtex-tracking--277Z0epDNArIGJIbqtPMA9)  
-  - [Feriados](https://help.vtex.com/pt/tutorial/feriados-vtex-tracking--4cj0oJNmF89e0pAJMBj1sP)  
-  - [Filiais](https://help.vtex.com/pt/tutorial/filial-vtex-tracking--6mD8L390WPORidxGp9TKfp)  
-  - [Justificativa de Status](https://help.vtex.com/pt/tutorial/justificativa-de-status-vtex-tracking--4shboc7h5XPUpA8TQzXPRG)  
-  - [Ocorrências de Chat](https://help.vtex.com/pt/tutorial/ocorrencias-de-chat-vtex-tracking--2YY7ixoHRmHOt3Fd3LzdPe)  
-  - [Parceiros](https://help.vtex.com/pt/tutorial/parceiros-vtex-tracking--2xEHQ98hoMzgkrdhkpOedQ)  
-  - [Portadores](https://help.vtex.com/pt/tutorial/portadores-vtex-tracking--5tVSpunaXVT6gQDSl9jTow)  
-  - [Transportadoras](https://help.vtex.com/pt/tutorial/transportadoras-vtex-tracking--2HVE5D2fheT4cDPjiApL1Y?locale=pt)  
-  - [Usuários](https://help.vtex.com/pt/tutorial/usuarios-vtex-tracking--1zn5nrvkoWtx0pcabbRhSZ)
-  - [Veículos](https://help.vtex.com/pt/tutorial/veiculos-vtex-tracking--47OD2KOOMcHghBTJK0Vlwc)  
+  - [Agências](/pt/tutorial/agencias-vtex-tracking--2PMohRiNdNpHPA2g2HyYH7?locale=pt)  
+  - [Clientes](/pt/tutorial/clientes-vtex-tracking--277Z0epDNArIGJIbqtPMA9)  
+  - [Feriados](/pt/tutorial/feriados-vtex-tracking--4cj0oJNmF89e0pAJMBj1sP)  
+  - [Filiais](/pt/tutorial/filial-vtex-tracking--6mD8L390WPORidxGp9TKfp)  
+  - [Justificativa de Status](/pt/tutorial/justificativa-de-status-vtex-tracking--4shboc7h5XPUpA8TQzXPRG)  
+  - [Ocorrências de Chat](/pt/tutorial/ocorrencias-de-chat-vtex-tracking--2YY7ixoHRmHOt3Fd3LzdPe)  
+  - [Parceiros](/pt/tutorial/parceiros-vtex-tracking--2xEHQ98hoMzgkrdhkpOedQ)  
+  - [Portadores](/pt/tutorial/portadores-vtex-tracking--5tVSpunaXVT6gQDSl9jTow)  
+  - [Transportadoras](/pt/tutorial/transportadoras-vtex-tracking--2HVE5D2fheT4cDPjiApL1Y?locale=pt)  
+  - [Usuários](/pt/tutorial/usuarios-vtex-tracking--1zn5nrvkoWtx0pcabbRhSZ)
+  - [Veículos](/pt/tutorial/veiculos-vtex-tracking--47OD2KOOMcHghBTJK0Vlwc)  
 
 - **Serviços:** no contexto VTEX Tracking, Serviços são as coletas, atendimentos ou entregas realizadas pelo seu negócio. Na plataforma web é possível cadastrar e gerenciar todos os serviços da sua operação.  
 
@@ -52,7 +52,7 @@ Através da plataforma web, os clientes VTEX Tracking realizam toda a gestão e 
 
 ## Aplicativo móvel
 
-O [aplicativo móvel VTEX Tracking](https://help.vtex.com/pt/tutorial/tutorial-aplicativo-movel-vtex-tracking--5qYuqbMVlQBfpdCzC0X6jv) é de uso exclusivo dos portadores, ou motoristas, que realizam as entregas. Ele conta com as funcionalidades descritas a seguir. 
+O [aplicativo móvel VTEX Tracking](/pt/tutorial/tutorial-aplicativo-movel-vtex-tracking--5qYuqbMVlQBfpdCzC0X6jv) é de uso exclusivo dos portadores, ou motoristas, que realizam as entregas. Ele conta com as funcionalidades descritas a seguir. 
 
 - **Chat:** o aplicativo conta com um canal de comunicação para que o portador entre em contato com o suporte do seu negócio, ou de terceiros. Através do chat, sua operação recebe alertas sobre imprevistos e atrasos, por exemplo. 
 

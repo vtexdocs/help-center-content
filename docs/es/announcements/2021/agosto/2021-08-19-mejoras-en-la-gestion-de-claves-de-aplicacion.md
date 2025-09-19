@@ -23,11 +23,11 @@ Las claves de aplicación (también conocidas como _app keys_) son el tipo más 
 
 ### Nueva interfaz de usuário para gestión de Claves de Aplicación
 
-Anteriormente, la gestión de las  [Claves de Aplicación](https://help.vtex.com/es/tutorial/claves-de-aplicacion--2iffYzlvvz4BDMr6WGUtet) requería la navegación por múltiples pantallas. Ahora puede generar, agregar/eliminar, habilitar/deshabilitar, exportar y editar permisos para sus pares app key y token en un solo lugar.
+Anteriormente, la gestión de las  [Claves de Aplicación](/es/tutorial/claves-de-aplicacion--2iffYzlvvz4BDMr6WGUtet) requería la navegación por múltiples pantallas. Ahora puede generar, agregar/eliminar, habilitar/deshabilitar, exportar y editar permisos para sus pares app key y token en un solo lugar.
 
 ### La autorización para crear claves de aplicación ahora se basan en recursos
 
-Anteriormente, solo el [usuario Titular](https://help.vtex.com/es/tutorial/que-es-el-usuario-master--3oPr7YuIkEYqUGmEqIMSEy) podía crear y administrar claves de aplicación. Ahora, cualquier usuario con el recurso `License Manager / Services access control / Save user` configurado en sus [perfiles de acceso](https://help.vtex.com/es/tutorial/perfiles-de-acceso--7HKK5Uau2H6wxE1rH5oRbc) puede crear estas credenciales y compartir los mismos permisos con otros usuarios, lo que permite al usuario propietario delegar esta responsabilidad según sea necesario.
+Anteriormente, solo el [usuario Titular](/es/tutorial/que-es-el-usuario-master--3oPr7YuIkEYqUGmEqIMSEy) podía crear y administrar claves de aplicación. Ahora, cualquier usuario con el recurso `License Manager / Services access control / Save user` configurado en sus [perfiles de acceso](/es/tutorial/perfiles-de-acceso--7HKK5Uau2H6wxE1rH5oRbc) puede crear estas credenciales y compartir los mismos permisos con otros usuarios, lo que permite al usuario propietario delegar esta responsabilidad según sea necesario.
 
 ## ¿Por qué realizamos estos cambios?
 
@@ -35,4 +35,4 @@ Al simplificar la administración de credenciales de autenticación, ayudamos a 
 
 ## ¿Qué se necesita hacer?
 
-Consulte el artículo [Claves de aplicación](https://help.vtex.com/es/tutorial/claves-de-aplicacion--2iffYzlvvz4BDMr6WGUtet) para obtener más informaciónes.
+Consulte el artículo [Claves de aplicación](/es/tutorial/claves-de-aplicacion--2iffYzlvvz4BDMr6WGUtet) para obtener más informaciónes.

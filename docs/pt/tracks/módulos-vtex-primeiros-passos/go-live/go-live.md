@@ -24,9 +24,9 @@ Na zona de DNS do seu domínio, você deve criar uma entrada do tipo CNAME no su
 {domínio}.cdn.vtex.com
 ```
 
-Note que o `{domínio}` indicado acima deve ser o mesmo que você [cadastrou na VTEX](https://help.vtex.com/pt/tracks/como-realizar-el-go-live-de-tu-tienda--4Ns5FxIiksmjsdX2yOTduM/7sM5IMx02zaHvAFTm0OxiJ#cadastrar-dominio-na-vtex).
+Note que o `{domínio}` indicado acima deve ser o mesmo que você [cadastrou na VTEX](/pt/tracks/como-realizar-el-go-live-de-tu-tienda--4Ns5FxIiksmjsdX2yOTduM/7sM5IMx02zaHvAFTm0OxiJ#cadastrar-dominio-na-vtex).
 
-> ⚠️ Caso você utilize a Cloudflare como zona de DNS, pode ser necessário desabilitar o proxy de DNS e, consequentemente, desativar os serviços de CDN e WAF da Cloudflare. Mais informações podem ser encontradas no artigo [Como desabilitar o proxy no Cloudflare](https://help.vtex.com/pt/tutorial/disable-cloudflare-proxy--75QqsXAqR7NdkRc1GZPiXb).
+> ⚠️ Caso você utilize a Cloudflare como zona de DNS, pode ser necessário desabilitar o proxy de DNS e, consequentemente, desativar os serviços de CDN e WAF da Cloudflare. Mais informações podem ser encontradas no artigo [Como desabilitar o proxy no Cloudflare](/pt/tutorial/disable-cloudflare-proxy--75QqsXAqR7NdkRc1GZPiXb).
 
 Alguns exemplos:
 
@@ -81,7 +81,7 @@ Uma vez que você realizou o apontamento de DNS, notifique à plataforma VTEX se
 
 Assim que for feita a notificação, a loja já estará disponível, mas ainda aguardando a emissão do certificado SSL, o que deve acontecer em até dez minutos.
 
-Caso ocorra alguma falha ao gerar o certificado, seja por atraso na propagação do domíno ou algum tipo de erro, ao acessar o site você verá uma mensagem de que o certificado SSL está sendo gerado. Se isto permanecer por mais de trinta minutos após a notificação de apontamento, abra um ticket com o [suporte VTEX](https://help.vtex.com/pt/support) com prioridade urgente.
+Caso ocorra alguma falha ao gerar o certificado, seja por atraso na propagação do domíno ou algum tipo de erro, ao acessar o site você verá uma mensagem de que o certificado SSL está sendo gerado. Se isto permanecer por mais de trinta minutos após a notificação de apontamento, abra um ticket com o [suporte VTEX](/pt/support) com prioridade urgente.
 
 O certificado é gerado por meio da [Let's Encrypt](https://letsencrypt.org/) e tem validade de 90 dias. Sua renovação é feita automaticamente até cinco dias antes do vencimento, bastando que o domínio esteja apontado corretamente para a VTEX.
 

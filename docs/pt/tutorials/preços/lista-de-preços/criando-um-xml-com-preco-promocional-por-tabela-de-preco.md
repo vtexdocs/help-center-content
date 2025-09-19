@@ -15,11 +15,11 @@ locale: pt
 subcategoryId: 4id9W3RDyw02CasOm2C2iy
 ---
 
-Entenda melhor a funcionalidade do XML na VTEX no artigo [Como funciona a atualização do XML](https://help.vtex.com/pt/tutorial/entendendo-a-atualizacao-do-xml--tutorials_297).
+Entenda melhor a funcionalidade do XML na VTEX no artigo [Como funciona a atualização do XML](/pt/tutorial/entendendo-a-atualizacao-do-xml--tutorials_297).
 Com o fim de aplicar um preço diferenciado a produtos pelo XML, é preciso associar uma tabela de preços de SKU. Para isso siga os passos a seguir:
 
   1. No Admin VTEX, acesse *Configurações da loja > Canais > Integração XML*, ou digite *Integração XML* na barra de busca no topo da página.
-  2. Clique em `Alterar` no arquivo XML que deseja editar. Caso deseje criar um novo, leia nosso artigo [Configurar XML](https://help.vtex.com/pt/tutorial/configurando-xml--tutorials_242).
+  2. Clique em `Alterar` no arquivo XML que deseja editar. Caso deseje criar um novo, leia nosso artigo [Configurar XML](/pt/tutorial/configurando-xml--tutorials_242).
   3. Aqui, você deve checar se os campos relacionados ao preço do SKU (Menor Preço do Produto, Maior Preço do Produto, Preço Original do SKU, Preço Atual do SKU e Preço Atual do SKU + Taxas) estão preenchidos. Pelo menos um dos campos deve ser preenchido para a operação funcionar corretamente.
   4. Preencha o campo **Tabelas de Preços** com o nome da tabela de preços desejada. Em seguida, clique na caixa de seleção referente à tag na coluna **Exibe Conteúdo**. É necessário que a tabela de preços selecionada tenha preços fixos cadastrados. Caso contrário, a configuração não será realizada.
 ![PT-tabela de precos](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pre%C3%A7os/lista-de-pre%C3%A7os/criando-um-xml-com-preco-promocional-por-tabela-de-preco_1.png)

@@ -37,13 +37,13 @@ O lojista B2B deve tomar cuidados para não criar promoções que prejudiquem su
 
 Fazer promoções é uma boa maneira de girar o estoque parado. Manter um estoque antigo por muito tempo leva à perda de vendas de novos produtos.
 
-O lojista pode aplicar descontos a partir de certa quantidade de produtos dentro de um carrinho, incentivando um consumo maior daquele item. Um exemplo de promoção nesse contexto é o [Desconto Progressivo](https://help.vtex.com/pt/tutorial/desconto-progressivo--tutorials_324).
+O lojista pode aplicar descontos a partir de certa quantidade de produtos dentro de um carrinho, incentivando um consumo maior daquele item. Um exemplo de promoção nesse contexto é o [Desconto Progressivo](/pt/tutorial/desconto-progressivo--tutorials_324).
 
 Outra opção é efetuar promoções na venda de lotes. Essa é uma forma de garantir que o estoque antigo de determinado produto será vendido.
 
 Primeiro é preciso determinar quais os limites de aging, considerando as características do seu produto e segmento. Por vezes, produtos cuja manutenção está dando prejuízo precisam ser vendidos pelo valor de custo ou mesmo abaixo do custo.
 
-Nesse cenário, uma [Promoção Regular](https://help.vtex.com/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI) abrangente deve ajudar a operação a queimar estoque. Você pode selecionar produtos específicos ou categorias com estoque excedente e aplicar de forma massiva descontos percentuais (ex: 20%) ou nominais (ex: R$ 100). O objetivo aqui é recuperar crédito para colocar novamente na operação.
+Nesse cenário, uma [Promoção Regular](/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI) abrangente deve ajudar a operação a queimar estoque. Você pode selecionar produtos específicos ou categorias com estoque excedente e aplicar de forma massiva descontos percentuais (ex: 20%) ou nominais (ex: R$ 100). O objetivo aqui é recuperar crédito para colocar novamente na operação.
 
 Para calibrar a extensão da promoção, você pode usar a área de restrições e limitações de uso para definir, por exemplo, se a promoção será aplicada ilimitadas vezes ou se haverá um número máximo de usos.
 
@@ -65,7 +65,7 @@ A partir disso, imagine um notebook que tem um alto volume de vendas e baixa mar
 
 Aqui, o objetivo é oferecer os itens juntos de forma promocional. Dessa maneira, é garantido que o cliente compre produtos relacionados que trazem uma margem agregada superior ao lojista. Isso é feito por __promoções de venda cruzada__.
 
-Promoções [Compre Ganhe](https://help.vtex.com/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/jOu9b69mKbrTDfSJYAawy#compre-e-ganhe) e organização de [Kits](https://help.vtex.com/pt/tutorial/o-que-e-um-kit--5ov5s3eHM4AqAAgqWwoc28) são as principais estratégias para esse cenário.
+Promoções [Compre Ganhe](/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/jOu9b69mKbrTDfSJYAawy#compre-e-ganhe) e organização de [Kits](/pt/tutorial/o-que-e-um-kit--5ov5s3eHM4AqAAgqWwoc28) são as principais estratégias para esse cenário.
 
 ## Segmentação de clientes
 
@@ -73,7 +73,7 @@ Pensar nos perfis de clientes é uma maneira importante de aplicar promoções c
 
 Caso o lojista tenha um rebate de algum fabricante, é interessante focar na segmentação que consome esse produto. Essa é outra forma de delimitar as categorias que receberão descontos planejados.
 
-Confira o artigo de [Promoção para um cluster de clientes](https://help.vtex.com/pt/tutorial/criando-promocao-para-um-cluster-de-clientes--tutorials_342) para saber como implementar esse método.
+Confira o artigo de [Promoção para um cluster de clientes](/pt/tutorial/criando-promocao-para-um-cluster-de-clientes--tutorials_342) para saber como implementar esse método.
 
 ## Frete grátis
 
@@ -81,4 +81,4 @@ Outra forma de atrair o interesse dos clientes é uma promoção que ofereça fr
 
 Essa estratégia pode ser combinada com outras citadas anteriormente. A loja pode oferecer frete grátis na compra de um grande volume de um produto já antigo. Também é possível utilizar o frete grátis como desconto em um pagamento à vista.
 
-Para mais informações sobre como fazer uma promoção percentual de frete grátis, leia o artigo [Criar Promoção Regular](https://help.vtex.com/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI).
+Para mais informações sobre como fazer uma promoção percentual de frete grátis, leia o artigo [Criar Promoção Regular](/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI).

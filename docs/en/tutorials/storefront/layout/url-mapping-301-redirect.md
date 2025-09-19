@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
-> ⚠️ This tutorial is for stores using Legacy CMS Portal. For other stores, the configuration is made in [Pages](https://help.vtex.com/en/tutorial/paginas-visao-geral--5iBUUJbK5NqG6OxlDrGNzc). Please refer to [Managing URL redirects](https://help.vtex.com/en/tutorial/gerenciando-redirecionamentos-de-url--3UJuFrU8imSVWg134mkvJV) for more information.
+> ⚠️ This tutorial is for stores using Legacy CMS Portal. For other stores, the configuration is made in [Pages](/en/tutorial/paginas-visao-geral--5iBUUJbK5NqG6OxlDrGNzc). Please refer to [Managing URL redirects](/en/tutorial/gerenciando-redirecionamentos-de-url--3UJuFrU8imSVWg134mkvJV) for more information.
 
 URL mapping is used to redirect specific URLs to other URLs. This feature is useful when a store already has URLs indexed in search engines and wants to redirect them to more attractive ones without changing the SEO and avoiding indexing errors.
 

@@ -23,5 +23,5 @@ A VTEX disponibiliza o novo formulário o **Leve Mais por Menos**, que permite c
 O novo formulário foi desenvolvido para simplificar a configuração de promoções e garantir maior precisão na aplicação de descontos.
 
 ## O que precisa ser feito?
-Nenhuma ação é necessária para acessar o novo formulário. A atualização será aplicada automaticamente em todas as lojas VTEX. Para mais informações, acesse [Criar promoção Leve Mais por Menos](https://help.vtex.com/pt/tutorial/leve-mais-por-menos--tutorials_325).
+Nenhuma ação é necessária para acessar o novo formulário. A atualização será aplicada automaticamente em todas as lojas VTEX. Para mais informações, acesse [Criar promoção Leve Mais por Menos](/pt/tutorial/leve-mais-por-menos--tutorials_325).
 

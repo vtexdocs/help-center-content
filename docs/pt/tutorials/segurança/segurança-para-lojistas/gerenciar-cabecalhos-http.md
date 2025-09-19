@@ -28,7 +28,7 @@ Neste guia, você aprenderá a gerenciar os cabeçalhos de resposta de seguranç
 
 ## Cabeçalhos de resposta de segurança
 
-Nas lojas do Store Framework, se você precisar adicionar ou alterar o valor de um cabeçalho de resposta de segurança, abra um ticket para o [Suporte da VTEX](https://help.vtex.com/pt/support).
+Nas lojas do Store Framework, se você precisar adicionar ou alterar o valor de um cabeçalho de resposta de segurança, abra um ticket para o [Suporte da VTEX](/pt/support).
 
 Veja abaixo os cabeçalhos que aceitam edição:
 

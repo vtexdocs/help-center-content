@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 2t00bBkcAwIkgSCGKsMOwY
 ---
 
-> ℹ️ Solo puedes acceder a la información de los pedidos creados en los últimos años. Este periodo también se aplica a los pedidos de los clientes a través de [Mi Cuenta](https://help.vtex.com/es/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh).
+> ℹ️ Solo puedes acceder a la información de los pedidos creados en los últimos años. Este periodo también se aplica a los pedidos de los clientes a través de [Mi Cuenta](/es/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh).
 
 En el módulo **Pedidos**, la página **Todos los pedidos** permite acceder a todos los pedidos de la tienda y buscar utilizando la barra de búsqueda y filtros según se muestra en la imagen a continuación:
 
@@ -47,9 +47,9 @@ Para realizar una búsqueda en la barra de búsqueda, ingresa el término desead
 - ID del pedido
 - Sequence
 
-El [sequence](https://help.vtex.com/es/tutorial/cuidados-ao-definir-a-numeracao-de-pedido--VAKKptfcaOxFxM8gfPobu) es una secuencia de seis dígitos que aparece en el Admin VTEX justo después del ID del pedido. Por ejemplo, en el pedido `1268540501456-01 (501456)`, el ID del pedido es `1268540501456`, el `-01` indica que el cumplimiento será realizado por un seller y el sequence es `501456`.
+El [sequence](/es/tutorial/cuidados-ao-definir-a-numeracao-de-pedido--VAKKptfcaOxFxM8gfPobu) es una secuencia de seis dígitos que aparece en el Admin VTEX justo después del ID del pedido. Por ejemplo, en el pedido `1268540501456-01 (501456)`, el ID del pedido es `1268540501456`, el `-01` indica que el cumplimiento será realizado por un seller y el sequence es `501456`.
 
-> ℹ️ Además de los criterios enumerados anteriormente, es posible activar otros criterios de búsqueda, como se verá en la sección [Otros](https://help.vtex.com/es/tutorial/filtrar-todos-pedidos--tutorials_192#filtros-otros).
+> ℹ️ Además de los criterios enumerados anteriormente, es posible activar otros criterios de búsqueda, como se verá en la sección [Otros](/es/tutorial/filtrar-todos-pedidos--tutorials_192#filtros-otros).
 
 De forma predeterminada, la página **Todos los pedidos** se muestra con el filtro de pedidos creados **Hoy** activado. Para buscar otras fechas, utiliza los filtros descritos en [Filtros: Fechas](#filtros-fechas) y [Creado](#creado).
 
@@ -135,25 +135,25 @@ Los filtros de **Canales** realizan la selección por canales de venta y otros a
 
 Puedes buscar la opción de filtro deseada utilizando la barra de búsqueda o haciendo clic en el menú desplegable <i class="fas fa-angle-down"></i> al lado de las siguientes opciones:
 
-- **Seller:** muestra el [ID de los sellers](https://help.vtex.com/es/tutorial/adicionar-seller--tutorials_392) de tu tienda y filtra por seller encargado de realizar el fulfillment del pedido.
-- **Política comercial:** muestra las[ políticas comerciales](https://help.vtex.com/es/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) de tu tienda y filtra por la política comercial utilizada en el pedido.
-- **Campaña:** muestra los[ públicos de campaña](https://help.vtex.com/es/tutorial/audiencias-de-campanhas--3o7lhpNseXY2WmjZO0gQ6m) de tu tienda y filtra por el público objetivo de una promoción.
-- **Operador de televentas:** muestra los operadores de [televentas](https://help.vtex.com/es/tutorial/funcionalidades-de-televendas--UqhiccIRIK2KD0OqkzJaS) de tu tienda.
-- **Fuente UTM:** muestra las opciones de[ fuente UTM](https://help.vtex.com/es/tutorial/o-que-sao-utm-source-utm-campaign-e-utm-medium--2wTz7QJ8KUG6skGAoAQuii) configuradas en tu tienda. Los UTM (Urchin Tracking Modules) son parámetros de URL comúnmente utilizados en contextos de marketing y promociones para rastrear el tráfico de accesos a un sitio web.
+- **Seller:** muestra el [ID de los sellers](/es/tutorial/adicionar-seller--tutorials_392) de tu tienda y filtra por seller encargado de realizar el fulfillment del pedido.
+- **Política comercial:** muestra las[ políticas comerciales](/es/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) de tu tienda y filtra por la política comercial utilizada en el pedido.
+- **Campaña:** muestra los[ públicos de campaña](/es/tutorial/audiencias-de-campanhas--3o7lhpNseXY2WmjZO0gQ6m) de tu tienda y filtra por el público objetivo de una promoción.
+- **Operador de televentas:** muestra los operadores de [televentas](/es/tutorial/funcionalidades-de-televendas--UqhiccIRIK2KD0OqkzJaS) de tu tienda.
+- **Fuente UTM:** muestra las opciones de[ fuente UTM](/es/tutorial/o-que-sao-utm-source-utm-campaign-e-utm-medium--2wTz7QJ8KUG6skGAoAQuii) configuradas en tu tienda. Los UTM (Urchin Tracking Modules) son parámetros de URL comúnmente utilizados en contextos de marketing y promociones para rastrear el tráfico de accesos a un sitio web.
 
 Después de seleccionar los filtros deseados, haz clic en `Aplicar`.
 
 ### Filtros: Status
 
-Los filtros de **Status** se refieren al status del pedido al momento de búsqueda en relación con el [flujo del pedido](https://help.vtex.com/es/tutorial/fluxo-e-status-de-pedidos--tutorials_196) o errores. Para utilizarlos, haz clic en `Filtros` y selecciona **Status**. Puedes buscar la opción deseada utilizando la barra de búsqueda o haciendo clic en el menú desplegable <i class="fas fa-angle-down"></i> al lado de las opciones:
+Los filtros de **Status** se refieren al status del pedido al momento de búsqueda en relación con el [flujo del pedido](/es/tutorial/fluxo-e-status-de-pedidos--tutorials_196) o errores. Para utilizarlos, haz clic en `Filtros` y selecciona **Status**. Puedes buscar la opción deseada utilizando la barra de búsqueda o haciendo clic en el menú desplegable <i class="fas fa-angle-down"></i> al lado de las opciones:
 
-- **Status del pedido:** estado del pedido en el [flujo del pedido](https://help.vtex.com/es/tutorial/fluxo-e-status-de-pedidos--tutorials_196). Las opciones que aparecen corresponden a los status de pedidos que hay en tu tienda. Por ejemplo, si no hay pedidos cancelados entre tus pedidos, esta opción no estará visible. Algunos de los filtros de status de pedido son:
+- **Status del pedido:** estado del pedido en el [flujo del pedido](/es/tutorial/fluxo-e-status-de-pedidos--tutorials_196). Las opciones que aparecen corresponden a los status de pedidos que hay en tu tienda. Por ejemplo, si no hay pedidos cancelados entre tus pedidos, esta opción no estará visible. Algunos de los filtros de status de pedido son:
     - Pago aprobado
     - Pago pendiente
     - Preparando envío
     - Listo para preparación
     - Esperando para cambiar el seller
-- **Status completado:** si un pedido tiene la información completa para ser finalizado en la plataforma o si es un [pedido incompleto](https://help.vtex.com/es/tutorial/entendendo-os-pedidos-incompletos--tutorials_294):
+- **Status completado:** si un pedido tiene la información completa para ser finalizado en la plataforma o si es un [pedido incompleto](/es/tutorial/entendendo-os-pedidos-incompletos--tutorials_294):
     - Incompleto
 - **Status de error:** muestra los tipos de error:
     - Error permanente
@@ -176,13 +176,13 @@ Para utilizar estos filtros, haz `Filtros` y selecciona **Otros**. Puedes buscar
     - ID de la transacción (TID) del conector PCI
     - ID de pago (PID)
     - NSU del conector (Brasil)
-- **Tipo de pago:** muestra los [medios de pago](https://help.vtex.com/es/tutorial/diferenca-entre-meios-de-pagamento-e-condicoes-de-pagamento--3azJenhGFyUy2gsocms42Q) configurados en tu tienda.
+- **Tipo de pago:** muestra los [medios de pago](/es/tutorial/diferenca-entre-meios-de-pagamento-e-condicoes-de-pagamento--3azJenhGFyUy2gsocms42Q) configurados en tu tienda.
 - **Promociones:** muestra las promociones registradas en tu tienda.
-- **Moneda:** muestra las monedas registradas en la [política comercial](https://help.vtex.com/es/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) y que fueron utilizadas en los pedidos.
-- **Nombre del host:** muestra tu[ nombre de cuenta](https://help.vtex.com/es/tutorial/o-que-e-account-name--i0mIGLcg3QyEy8OCicEoC), que es la identificación de tu empresa en el sistema VTEX.
-- **B2B:** selecciona `true` para filtrar por pedidos realizados en tiendas[ B2B](https://help.vtex.com/es/tutorial/b2b-visao-geral--5vb9SNXhX2bZnkpAh7ADdC) o `false` para filtrar por pedidos realizados en otro modelo de negocio.
-- **VTEX Sales App:** selecciona `true` para filtrar por pedidos realizados utilizando[ VTEX Sales App](https://help.vtex.com/es/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf) o `false` para filtrar por pedidos que no utilizaron VTEX Sales App.
-- **Canal de entrega:** muestra el tipo de envío del pedido, si es entrega o recogida en un[ punto de recogida](https://help.vtex.com/es/tutorial/pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R). La opción de recogida solo aparece en las tiendas que hayan configurado esta funcionalidad.
+- **Moneda:** muestra las monedas registradas en la [política comercial](/es/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) y que fueron utilizadas en los pedidos.
+- **Nombre del host:** muestra tu[ nombre de cuenta](/es/tutorial/o-que-e-account-name--i0mIGLcg3QyEy8OCicEoC), que es la identificación de tu empresa en el sistema VTEX.
+- **B2B:** selecciona `true` para filtrar por pedidos realizados en tiendas[ B2B](/es/tutorial/b2b-visao-geral--5vb9SNXhX2bZnkpAh7ADdC) o `false` para filtrar por pedidos realizados en otro modelo de negocio.
+- **VTEX Sales App:** selecciona `true` para filtrar por pedidos realizados utilizando[ VTEX Sales App](/es/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf) o `false` para filtrar por pedidos que no utilizaron VTEX Sales App.
+- **Canal de entrega:** muestra el tipo de envío del pedido, si es entrega o recogida en un[ punto de recogida](/es/tutorial/pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R). La opción de recogida solo aparece en las tiendas que hayan configurado esta funcionalidad.
 - **País:** muestra el país en que se realizó el pedido.
 - **Tiene factura de devolución:** identifica si los pedidos tienen una factura de devolución mediante los valores `true` (sí) o `false` (no).
 - **Tiene factura:** identifica si los pedidos tienen factura mediante los valores `true` (sí) o `false` (no).
@@ -193,9 +193,9 @@ La página **Pedidos > Todos los pedidos** tiene la opción `Filtrar por status`
 
 ![search_bar_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pedidos/todos-los-pedidos/filtrar-todos-los-pedidos_4.png)
 
-Al hacer clic en `Filtrar por status` <i class="fas fa-angle-down"></i>, se muestran las opciones de [status de pedidos](https://help.vtex.com/es/tutorial/fluxo-e-status-de-pedidos--tutorials_196) de tu tienda. Por ejemplo, si no hay pedidos cancelados entre todos tus pedidos, esta opción no estará visible.
+Al hacer clic en `Filtrar por status` <i class="fas fa-angle-down"></i>, se muestran las opciones de [status de pedidos](/es/tutorial/fluxo-e-status-de-pedidos--tutorials_196) de tu tienda. Por ejemplo, si no hay pedidos cancelados entre todos tus pedidos, esta opción no estará visible.
 
-> ℹ️ Para más opciones de filtros de status, consulta la sección [Filtros: Status](https://help.vtex.com/es/tutorial/filtrar-todos-pedidos--tutorials_192#filtros-status). Si deseas ver todos los status de pedidos que hay, consulta el artículo [Flujo y status de pedidos](https://help.vtex.com/es/tutorial/fluxo-e-status-de-pedidos--tutorials_196).
+> ℹ️ Para más opciones de filtros de status, consulta la sección [Filtros: Status](/es/tutorial/filtrar-todos-pedidos--tutorials_192#filtros-status). Si deseas ver todos los status de pedidos que hay, consulta el artículo [Flujo y status de pedidos](/es/tutorial/fluxo-e-status-de-pedidos--tutorials_196).
 
 ## Creado
 

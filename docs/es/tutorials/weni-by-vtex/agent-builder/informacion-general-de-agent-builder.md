@@ -19,7 +19,7 @@ subcategoryId: 3TASbcSqDuDZwmgDLc0O5I
 
 La funcionalidad se centra en un agente orquestador, que es el punto de contacto con el cliente y asume el control del chat. Este agente orquestador activa agentes colaboradores que devuelven datos e información según las necesidades del usuario.
 
-> ℹ️ Para saber más sobre agentes colaboradores, lee el artículo [Agentes oficiales de Weni by VTEX](https://help.vtex.com/es/tutorial/agentes-oficiais-da-weni-by-vtex--7E8wlD3T41CiOexDVH1SIy).
+> ℹ️ Para saber más sobre agentes colaboradores, lee el artículo [Agentes oficiales de Weni by VTEX](/es/tutorial/agentes-oficiais-da-weni-by-vtex--7E8wlD3T41CiOexDVH1SIy).
 
 Además de asignar y probar estos agentes, también puedes crear agentes propios que atiendan necesidades específicas de tu empresa.
 
@@ -90,7 +90,7 @@ Para guardar las características de tu agente, haz clic en el botón `Guardar c
 
 En esta página puedes asignar y probar agentes para tu tienda.
 
-Para saber más, consulta [Cómo asignar y probar un agente](https://help.vtex.com/es/tutorial/atribuir-e-testar-agentes-no-agent-builder--41beBpRcBouxMywt6dUW2z).
+Para saber más, consulta [Cómo asignar y probar un agente](/es/tutorial/atribuir-e-testar-agentes-no-agent-builder--41beBpRcBouxMywt6dUW2z).
 
 ## Conocimientos
 
@@ -158,7 +158,7 @@ En la caja de texto **¿Cuándo debe el agente transferir la conversación a una
 
 En esta sección puedes ver las credenciales utilizadas por los agentes oficiales y por los agentes personalizados.
 
-> ℹ️ Aprende más en [Agentes oficiales de Weni by VTEX y sus credenciales](https://help.vtex.com/es/tutorial/agentes-oficiais-da-weni-by-vtex--7E8wlD3T41CiOexDVH1SIy).
+> ℹ️ Aprende más en [Agentes oficiales de Weni by VTEX y sus credenciales](/es/tutorial/agentes-oficiais-da-weni-by-vtex--7E8wlD3T41CiOexDVH1SIy).
 
 ### Historial de cambios
 

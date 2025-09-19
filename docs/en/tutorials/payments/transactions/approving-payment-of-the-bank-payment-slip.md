@@ -33,5 +33,5 @@ This approval can be done manually through the Orders Management module as shown
 
 To approve payments through API, check the [documentation about the payment notification request](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/payments/-paymentId-/payment-notification).
 
-> ⚠️ Since [ERP integrations](https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide) are governed by the [orders flow](https://help.vtex.com/en/tutorial/fluxo-e-status-de-pedidos--tutorials_196#), manually approving a payment will continue the integration of this order with the store’s back office as usual. Therefore, caution is recommended when approving payments manually, in order to ensure that every order that is processed and shipped is received.
+> ⚠️ Since [ERP integrations](https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide) are governed by the [orders flow](/en/tutorial/fluxo-e-status-de-pedidos--tutorials_196#), manually approving a payment will continue the integration of this order with the store’s back office as usual. Therefore, caution is recommended when approving payments manually, in order to ensure that every order that is processed and shipped is received.
 

@@ -17,7 +17,7 @@ announcementSynopsisEN: 'Integrate with Google Shopping without losing the relev
 
 We have developed the **Google catalog migration** feature to map and match sellers' products in the VTEX catalog with their ads on Google Shopping.
 
-This feature is designed for sellers who previously integrated their store's products with Google via an external platform and are now using the [Google Shopping connector](https://help.vtex.com/en/tracks/configurar-integracao-com-o-google-shopping--25Sl7iOqq58PGfVfTAo8Xw) on VTEX.
+This feature is designed for sellers who previously integrated their store's products with Google via an external platform and are now using the [Google Shopping connector](/en/tracks/configurar-integracao-com-o-google-shopping--25Sl7iOqq58PGfVfTAo8Xw) on VTEX.
 
 ## Why did we develop this feature?
 
@@ -29,7 +29,7 @@ Catalog migration maps and matches products in the VTEX catalog with the existin
 
 ## What needs to be done?
 
-To proceed with the migration, contact [VTEX Support](https://help.vtex.com/pt/support). However, you must first complete the following two requirements:
+To proceed with the migration, contact [VTEX Support](/pt/support). However, you must first complete the following two requirements:
 
 1. Create a new trade policy without any associated products.
 2. Set up the integration with Google Shopping using the trade policy created in the previous step.

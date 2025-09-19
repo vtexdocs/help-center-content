@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisEN: 'Link your offers to Mercado Libre catalog opportunities to boost product relevance.'
 ---
 
-When setting up the Mercado Libre [integration](https://help.vtex.com/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq), sellers sends their catalog to the marketplace. Once the products are submitted and the offers are created, Mercado Libre shows **catalog** match opportunities to the seller, which can be highlighted in the marketplace. To analyze an opportunity, sellers need to access the VTEX Admin and go to **Marketplace > Mercado Libre > Offer Match**  or type **Offer Match** in the search bar.  
+When setting up the Mercado Libre [integration](/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq), sellers sends their catalog to the marketplace. Once the products are submitted and the offers are created, Mercado Libre shows **catalog** match opportunities to the seller, which can be highlighted in the marketplace. To analyze an opportunity, sellers need to access the VTEX Admin and go to **Marketplace > Mercado Libre > Offer Match**  or type **Offer Match** in the search bar.  
 
 ## What are the advantages of this feature?
 
@@ -30,5 +30,5 @@ The main advantages of this feature are:
 
 The **Offer Match** feature can be accessed through the VTEX Admin in **Marketplace > Mercado Libre > Offer March** or by typing Offer Match in the search bar. Offer Match is available for all VTEX accounts.  
 
-To learn more about using this feature, check [Mercado Libre offer match](https://help.vtex.com/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/43uD4LPU5PLUWe11IaWwyR).
+To learn more about using this feature, check [Mercado Libre offer match](/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/43uD4LPU5PLUWe11IaWwyR).
 

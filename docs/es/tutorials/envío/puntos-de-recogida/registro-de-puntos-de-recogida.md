@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 1c5Btie9ou2Gg2iUo0ggqM
 ---
 
-Los puntos de recogida son lugares físicos donde los clientes pueden recoger los pedidos realizados en tu sitio web de ecommerce. Se trata de una etapa opcional en la[ estrategia de envío](https://help.vtex.com/es/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3) de tu tienda. 
+Los puntos de recogida son lugares físicos donde los clientes pueden recoger los pedidos realizados en tu sitio web de ecommerce. Se trata de una etapa opcional en la[ estrategia de envío](/es/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3) de tu tienda. 
 
 Puedes registrar los puntos de recogida mediante la solicitud de API [Create/Update Pickup Point](https://developers.vtex.com/vtex-rest-api/reference/pickup-points-1#createupdate) o a través del Admin VTEX. Este artículo explica cómo realizar el segundo proceso.
 
@@ -24,7 +24,7 @@ Hay dos maneras de registrar los puntos de recogida a través de Admin:
 * [Registro individual](#registro-individual);
 * [Registro por plantilla](#registro-por-plantilla);
 
-> ⚠️ El registro de los puntos de recogida es uno de los pasos necesarios para el correcto funcionamiento de la funcionalidad. Consulta el artículo [Puntos de recogida](https://help.vtex.com/es/tutorial/puntos-de-recogida--2fljn6wLjn8M4lJHA6HP3R) y descubre la configuración necesaria para que los puntos de recogida estén disponibles para tus clientes.
+> ⚠️ El registro de los puntos de recogida es uno de los pasos necesarios para el correcto funcionamiento de la funcionalidad. Consulta el artículo [Puntos de recogida](/es/tutorial/puntos-de-recogida--2fljn6wLjn8M4lJHA6HP3R) y descubre la configuración necesaria para que los puntos de recogida estén disponibles para tus clientes.
 
 ## Registro individual
 
@@ -57,7 +57,7 @@ Selecciona <i class="fas fa-toggle-on"></i> para activar el punto de recogida.
 #### Información adicional
 
 * **Instrucciones de recogida:** introduce indicaciones para ayudar a tu cliente a recoger sus paquetes en el punto de recogida. Por ejemplo, en qué puerta se recogen los ítems o qué documentos debe presentar el cliente al recoger los pedidos. Estas instrucciones se mostrarán en el _checkout_, al elegir el punto de recogida. 
-* **Tags:** añade etiquetas para agrupar los puntos de recogida. Estas etiquetas son útiles a la hora de relacionar las [políticas de envío](https://help.vtex.com/es/tutorial/politica-de-envio--tutorials_140) con los puntos de recogida.  
+* **Tags:** añade etiquetas para agrupar los puntos de recogida. Estas etiquetas son útiles a la hora de relacionar las [políticas de envío](/es/tutorial/politica-de-envio--tutorials_140) con los puntos de recogida.  
 
 #### Horas laborables
 
@@ -69,7 +69,7 @@ Selecciona <i class="fas fa-toggle-on"></i> para activar el punto de recogida.
     2. Rellena el **día** y la **hora**;
     3. Haz clic en `Agregar`.
 
-> ⚠️ La hora laborable registrada en el punto de recogida solo tiene carácter informativo y no se utiliza en el cálculo del SLA. Para cambiar la configuración que influye en el plazo de entrega, es necesario establecer el horario de funcionamiento en la [política de envío](https://help.vtex.com/es/tutorial/politica-de-envio--tutorials_140) relacionada con el punto de recogida. En el caso del registro de feriados, la configuración debe realizarse en el módulo de [feriados](https://help.vtex.com/es/tutorial/registrar-feriados--2ItOthSEAoyAmcwsuiO6Yk) para que influya en el cálculo del plazo.
+> ⚠️ La hora laborable registrada en el punto de recogida solo tiene carácter informativo y no se utiliza en el cálculo del SLA. Para cambiar la configuración que influye en el plazo de entrega, es necesario establecer el horario de funcionamiento en la [política de envío](/es/tutorial/politica-de-envio--tutorials_140) relacionada con el punto de recogida. En el caso del registro de feriados, la configuración debe realizarse en el módulo de [feriados](/es/tutorial/registrar-feriados--2ItOthSEAoyAmcwsuiO6Yk) para que influya en el cálculo del plazo.
 
 ## Registro por plantilla
 
@@ -272,7 +272,7 @@ Rellena la plantilla de acuerdo con la información de la siguiente tabla:
 <li>Los horarios deben seguir el estándar de 24 horas y registrarse en el formato hh:mm, donde hh representa la hora y mm los minutos.</li> 
 </ul>
 </body>
-Este campo no se utiliza en el cálculo del SLA.  Para cambiar la configuración que influye en el plazo de entrega, es necesario establecer el horario de funcionamiento en la [política de envío](https://help.vtex.com/es/tutorial/politica-de-envio--tutorials_140) relacionada con el punto de recogida. En el caso del registro de feriados, la configuración debe realizarse en el módulo de [feriados](https://help.vtex.com/es/tutorial/registrar-feriados--2ItOthSEAoyAmcwsuiO6Yk) para que influya en el cálculo del plazo.
+Este campo no se utiliza en el cálculo del SLA.  Para cambiar la configuración que influye en el plazo de entrega, es necesario establecer el horario de funcionamiento en la [política de envío](/es/tutorial/politica-de-envio--tutorials_140) relacionada con el punto de recogida. En el caso del registro de feriados, la configuración debe realizarse en el módulo de [feriados](/es/tutorial/registrar-feriados--2ItOthSEAoyAmcwsuiO6Yk) para que influya en el cálculo del plazo.
    </td>
    <td><center>No</center>
    </td>

@@ -78,7 +78,7 @@ En la lista de anuncios se muestran columnas con la siguiente información:
 | **Nombre** | Muestra la imagen del SKU, el título del anuncio en el canal de ventas y el ID del SKU en VTEX. |
 | **Marketplace** | Canal de ventas al que se envió el anuncio. |
 | **Precio** | Precio del SKU del anuncio. |
-| **Stock** | Cantidad de items en  [stock](https://help.vtex.com/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb) para el SKU del anuncio. |
+| **Stock** | Cantidad de items en  [stock](/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb) para el SKU del anuncio. |
 | **Actualización** | Estado del proceso de la actualización, pudiendo ser Actualizados <i class="far fa-check-circle"></i> o Error al actualizar<div class="error-icon"></div>. |
 
 Para ordenar los anuncios en orden ascendente o descendente haz clic en los nombres de las columnas. Por ejemplo, al hacer clic en la columna **Precio**, la lista se organiza por el precio del anuncio, ya sea de menor a mayor o de mayor a menor.
@@ -153,7 +153,7 @@ En la pestaña **Problemas** puedes ver la lista de anuncios junto con la siguie
 | **Nombre** | Muestra la imagen del SKU, el título del anuncio en el canal de ventas y el ID del SKU en VTEX. |
 | **Marketplace** | Canal de ventas al que se envió el anuncio. |
 | **Precio** | Precio del SKU del anuncio. |
-| **Stock** | Cantidad de items en  [stock](https://help.vtex.com/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb) para el SKU del anuncio. |
+| **Stock** | Cantidad de items en  [stock](/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb) para el SKU del anuncio. |
 | **Problemas** | Número de problemas identificados en el anuncio. |
 | **Enviados** | Fecha en la que el anuncio se envió al marketplace.|
 

@@ -15,9 +15,9 @@ locale: es
 subcategoryId: jrgbOxKaOW0kdZs7rdgvS
 ---
 
-> ℹ️ Esta funcionalidad es parte de [VTEX Shield](https://help.vtex.com/es/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh). Si ya es cliente de VTEX y desea adoptar VTEX Shield para su negocio, por favor, póngase en contacto con el [Soporte Comercial](https://help.vtex.com/es/tracks/soporte-en-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ). Pueden aplicarse tarifas adicionales. Si aún no es cliente pero está interesado en esta solución, por favor, complete el [formulario de contacto](https://vtex.com/co-es/contacto/).
+> ℹ️ Esta funcionalidad es parte de [VTEX Shield](/es/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh). Si ya es cliente de VTEX y desea adoptar VTEX Shield para su negocio, por favor, póngase en contacto con el [Soporte Comercial](/es/tracks/soporte-en-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ). Pueden aplicarse tarifas adicionales. Si aún no es cliente pero está interesado en esta solución, por favor, complete el [formulario de contacto](https://vtex.com/co-es/contacto/).
 
-De forma predeterminada, VTEX utiliza [certificados SSL](https://help.vtex.com/es/tutorial/certificado-de-seguranca-ssl--tutorials_1308) emitidos por [Let's](https://letsencrypt.org/) [Encrypt](https://letsencrypt.org/), que es una solución de código abierto ampliamente adoptada en el mercado. Esto garantiza la seguridad, confiabilidad y compatibilidad con la mayoría de los navegadores.
+De forma predeterminada, VTEX utiliza [certificados SSL](/es/tutorial/certificado-de-seguranca-ssl--tutorials_1308) emitidos por [Let's](https://letsencrypt.org/) [Encrypt](https://letsencrypt.org/), que es una solución de código abierto ampliamente adoptada en el mercado. Esto garantiza la seguridad, confiabilidad y compatibilidad con la mayoría de los navegadores.
 
 Sin embargo, algunas tiendas requieren el uso de certificados SSL personalizados por cuestiones de compliance específicas, requisitos de seguridad internos o por preferir entidades de certificación que ofrecen garantías adicionales.
 
@@ -27,7 +27,7 @@ La página presenta la siguiente información en forma de tabla:
 
 | Columnas | Descripción |
 | :---- | :---- |
-| **Dominio** | Dirección de la tienda (host), compuesto por subdominio, dominio y dominio de nivel superior. Por ejemplo, `www.mystore.com`. Para saber más sobre la estructura de la dirección, consulta [Configurar dominio de la tienda](https://help.vtex.com/es/tutorial/configurar-o-dominio-da-loja--tutorials_2450#estrutura-do-endereco-da-loja). |
+| **Dominio** | Dirección de la tienda (host), compuesto por subdominio, dominio y dominio de nivel superior. Por ejemplo, `www.mystore.com`. Para saber más sobre la estructura de la dirección, consulta [Configurar dominio de la tienda](/es/tutorial/configurar-o-dominio-da-loja--tutorials_2450#estrutura-do-endereco-da-loja). |
 | **AC** | Autoridad de certificación. |
 | **Fecha de instalación** | Fecha de instalación del certificado. |
 | **Fecha de vencimiento** | Fecha de vencimiento del certificado. |
@@ -37,7 +37,7 @@ La página presenta la siguiente información en forma de tabla:
 
 Antes de instalar un certificado personalizado, debes cumplir con los requisitos a continuación:
 
-* Ser un usuario asociado a un [rol](https://help.vtex.com/es/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) con los siguientes [recursos de License Manager](https://help.vtex.com/es/tutorial/recursos-de-license-manager--3q6ztrC8YynQf6rdc6euk3) para ver y gestionar la información de la página:
+* Ser un usuario asociado a un [rol](/es/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) con los siguientes [recursos de License Manager](/es/tutorial/recursos-de-license-manager--3q6ztrC8YynQf6rdc6euk3) para ver y gestionar la información de la página:
 
   * **Producto:** *CDN API*  
   * **Categoría:** *Certificate management*  
@@ -61,11 +61,11 @@ Si la configuración tiene éxito, se te redirigirá a la página de lista de ce
 
 La instalación puede tomar 7 días para completarse y durante este periodo el status de los hosts será **Instalando**. Una vez finalizada la instalación, el status de los hosts cambiará a **Activo**.
 
-> ℹ️ Para saber cómo solucionar errores de instalación, consulta la guía de resolución de problemas [Error al instalar certificado SSL personalizado](https://help.vtex.com/es/tutorial/error-al-instalar-el-certificado-ssl-personalizado--6hgFzbcc96mcrqXZMmHCTr).
+> ℹ️ Para saber cómo solucionar errores de instalación, consulta la guía de resolución de problemas [Error al instalar certificado SSL personalizado](/es/tutorial/error-al-instalar-el-certificado-ssl-personalizado--6hgFzbcc96mcrqXZMmHCTr).
 
 Más información
 
-* [VTEX Shield](https://help.vtex.com/es/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh)  
-* [Configurar dominio de la tienda](https://help.vtex.com/es/tutorial/configurar-o-dominio-da-loja--tutorials_2450)  
-* [Go-live](https://help.vtex.com/es/tracks/realizando-o-go-live-da-sua-loja--4Ns5FxIiksmjsdX2yOTduM/12bQlMbJ68Ot0LIaO6Btkj#realizar-apontamento-de-dns)
-* [Error al instalar certificado SSL personalizado](https://help.vtex.com/es/tutorial/error-al-instalar-el-certificado-ssl-personalizado--6hgFzbcc96mcrqXZMmHCTr)
+* [VTEX Shield](/es/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh)  
+* [Configurar dominio de la tienda](/es/tutorial/configurar-o-dominio-da-loja--tutorials_2450)  
+* [Go-live](/es/tracks/realizando-o-go-live-da-sua-loja--4Ns5FxIiksmjsdX2yOTduM/12bQlMbJ68Ot0LIaO6Btkj#realizar-apontamento-de-dns)
+* [Error al instalar certificado SSL personalizado](/es/tutorial/error-al-instalar-el-certificado-ssl-personalizado--6hgFzbcc96mcrqXZMmHCTr)

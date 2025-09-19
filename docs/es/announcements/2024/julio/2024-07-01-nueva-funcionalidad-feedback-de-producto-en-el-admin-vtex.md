@@ -22,4 +22,4 @@ Accede al botón Dar feedback para compartir tu experiencia en nuestra plataform
 El botón Dar feedback permite al equipo de desarrollo de VTEX recibir información de manera eficiente, mejorando la comunicación con nuestros usuarios y permitiéndonos optimizar continuamente nuestros productos y servicios para satisfacer las necesidades de nuestros clientes.
 
 ## ¿Qué se necesita hacer?
-No se requiere ninguna acción; la funcionalidad ya está disponible en todas las tiendas. Para más información, consulta el artículo [Admin VTEX: comienza aquí](https://help.vtex.com/es/tutorial/admin-vtex-comece-aqui--531cHtUCUi3puRXNDmKziw).
+No se requiere ninguna acción; la funcionalidad ya está disponible en todas las tiendas. Para más información, consulta el artículo [Admin VTEX: comienza aquí](/es/tutorial/admin-vtex-comece-aqui--531cHtUCUi3puRXNDmKziw).

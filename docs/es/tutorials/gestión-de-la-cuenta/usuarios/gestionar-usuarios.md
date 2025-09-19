@@ -15,13 +15,13 @@ locale: es
 subcategoryId: 63DHe3VQEEE6Uuua8gIs2M
 ---
 
-La gestión de los usuarios con acceso al ambiente administrativo de su tienda VTEX se realiza a través de la [Configuración de la cuenta](https://help.vtex.com/es/tutorial/vision-general-configuraciones-de-la-cuenta--6USYxLuzNt4uAkvjdPF7I8), en la página de **Usuarios**. Para acceder a esta sección, en la barra superior de VTEX Admin, haz clic en el **avatar de tu perfil**, marcado con la inicial de tu correo electrónico, y luego en **Configuración de la cuenta** > **Cuenta**.
+La gestión de los usuarios con acceso al ambiente administrativo de su tienda VTEX se realiza a través de la [Configuración de la cuenta](/es/tutorial/vision-general-configuraciones-de-la-cuenta--6USYxLuzNt4uAkvjdPF7I8), en la página de **Usuarios**. Para acceder a esta sección, en la barra superior de VTEX Admin, haz clic en el **avatar de tu perfil**, marcado con la inicial de tu correo electrónico, y luego en **Configuración de la cuenta** > **Cuenta**.
 
 En esta sección, se mostrará la lista de usuarios con sus respectivos __Nombre__, __Email__ y configuración de __MFA__. También pueden verse las presentes opciones de búsqueda, exportación y creación de nuevos usuarios, así como editar y eliminar usuarios.
 
 ![Lista Usuários User Management ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/gesti%C3%B3n-de-la-cuenta/usuarios/gestionar-usuarios_1.png)
 
-> ⚠️ Cualquier usuario que desee gestionar usuarios o claves de aplicación debe tener un perfil que contenga el [recurso](https://help.vtex.com/es/tutorial/recursos-del-license-manager--3q6ztrC8YynQf6rdc6euk3) **Save User**. Puedes utilizar, por ejemplo, el perfil predeterminado [User Administrator - RESTRICTED](https://help.vtex.com/es/tutorial/roles-de-usuario-predefinidos--jGDurZKJHvHJS13LnO7Dy#user-administrator-restricted).
+> ⚠️ Cualquier usuario que desee gestionar usuarios o claves de aplicación debe tener un perfil que contenga el [recurso](/es/tutorial/recursos-del-license-manager--3q6ztrC8YynQf6rdc6euk3) **Save User**. Puedes utilizar, por ejemplo, el perfil predeterminado [User Administrator - RESTRICTED](/es/tutorial/roles-de-usuario-predefinidos--jGDurZKJHvHJS13LnO7Dy#user-administrator-restricted).
 
 ## Creando un nuevo usuario
 
@@ -30,7 +30,7 @@ En esta sección, se mostrará la lista de usuarios con sus respectivos __Nombre
 3. Rellene el campo **Email**.  
   ![Cadastro Novo usuário User Management ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/gesti%C3%B3n-de-la-cuenta/usuarios/gestionar-usuarios_2.png)
 4. Haga clic en `+ Agregar roles`.
-5. Seleccione los [roles](https://help.vtex.com/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) deseados, como se muestra en la imagen: 
+5. Seleccione los [roles](/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) deseados, como se muestra en la imagen: 
   ![Selecionar perfis User Management ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/gesti%C3%B3n-de-la-cuenta/usuarios/gestionar-usuarios_3.PNG)
 6. Haga clic en `Agregar rol` para confirmar la selección.
 7. Haga clic en `Guardar`.  
@@ -45,12 +45,12 @@ La contraseña debe tener al menos 8 caracteres, incluyendo un número, una letr
 2. Para editar un usuario ya registrado, haga clic en su nombre. Esto también es posible haciendo clic en los tres puntos al lado derecho del usuario en la lista y luego en la opción **Editar**.
   ![Botão Editar Usuário User Management ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/gesti%C3%B3n-de-la-cuenta/usuarios/gestionar-usuarios_4.png)
   > ⚠️ El email no puede ser cambiado. Si desea hacer esto, se deberá realizar un nuevo registro.
-3. En la pantalla de edición, se pueden agregar o eliminar los [roles](https://help.vtex.com/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) de los usuarios.  
+3. En la pantalla de edición, se pueden agregar o eliminar los [roles](/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) de los usuarios.  
   ![Selecionar perfis User Management ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/gesti%C3%B3n-de-la-cuenta/usuarios/gestionar-usuarios_5.PNG)
 4. Haga clic en `Agregar rol` para confirmar la selección.
 5. Haga clic en `Guardar`.
 
-> ℹ️ Aparecerá una alerta al agregar nuevos roles para un usuario que no utiliza autenticación de múltiples factores (MFA). El artículo [Habilitar login por autenticación de 2 factores](https://help.vtex.com/es/tutorial/habilitar-login-por-autenticacao-de-2-fatores--4Ae1fcQi12g8u4SkQKCqWQ) muestra como habilitar esta configuración.
+> ℹ️ Aparecerá una alerta al agregar nuevos roles para un usuario que no utiliza autenticación de múltiples factores (MFA). El artículo [Habilitar login por autenticación de 2 factores](/es/tutorial/habilitar-login-por-autenticacao-de-2-fatores--4Ae1fcQi12g8u4SkQKCqWQ) muestra como habilitar esta configuración.
 
 > ⚠️ Si se remueven todos los roles del usuario, el mismo no podrá más acceder al Admin.
 

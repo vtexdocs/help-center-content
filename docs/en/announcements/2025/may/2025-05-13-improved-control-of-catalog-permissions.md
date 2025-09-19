@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisEN: 'New resources in the Catalog License Manager, now more intuitive and with unified access via VTEX Admin or API.'
 ---
 
-We've updated the [License Manager resources](https://help.vtex.com/en/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3) associated with Catalog to enhance permission management. See the main changes below:
+We've updated the [License Manager resources](/en/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3) associated with Catalog to enhance permission management. See the main changes below:
 
 - Simpler and more intuitive resources related to actions in Catalog.
 - Unified access control for tasks carried out in the VTEX Admin or via API.
@@ -48,14 +48,14 @@ These resources give you access to specific tasks on the platform, regardless of
 
 ## What needs to be done?
 
-The new resources are already active, have been documented in this [License Manager article](https://help.vtex.com/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3), and were automatically assigned to all access profiles that used the Catalog product. However, it is necessary for stores to review their access permissions until July 1, 2025. After this date, any attempt to access without the mentioned resources will be blocked.
+The new resources are already active, have been documented in this [License Manager article](/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3), and were automatically assigned to all access profiles that used the Catalog product. However, it is necessary for stores to review their access permissions until July 1, 2025. After this date, any attempt to access without the mentioned resources will be blocked.
 
 However, we recommend taking this opportunity to review store permissions and keeping only the necessary permissions for each user.
 
 To learn more about managing user permissions and application keys, check out the following articles:
 
-- [Roles](https://help.vtex.com/en/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc)
-- [How to manage users](https://help.vtex.com/en/tutorial/gerenciando-usuarios--tutorials_512)
-- [Create application keys](https://help.vtex.com/en/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet)
-- [License Manager resources](https://help.vtex.com/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3)
+- [Roles](/en/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc)
+- [How to manage users](/en/tutorial/gerenciando-usuarios--tutorials_512)
+- [Create application keys](/en/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet)
+- [License Manager resources](/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3)
 

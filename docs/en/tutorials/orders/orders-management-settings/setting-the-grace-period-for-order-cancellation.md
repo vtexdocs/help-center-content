@@ -33,5 +33,5 @@ To configure this time window, follow the steps below:
 
 ### Related articles
 
-- [Setting the grace period for order cancellation](https://help.vtex.com/en/tutorial/how-does-cancellation-work-when-requested-by-the-customer--3wEI6DUNtecooG2Ki4Akqo)
-- [Why was my order cancelled?](https://help.vtex.com/en/faq/por-que-meu-pedido-foi-cancelado--frequentlyAskedQuestions_493)
+- [Setting the grace period for order cancellation](/en/tutorial/how-does-cancellation-work-when-requested-by-the-customer--3wEI6DUNtecooG2Ki4Akqo)
+- [Why was my order cancelled?](/en/faq/por-que-meu-pedido-foi-cancelado--frequentlyAskedQuestions_493)

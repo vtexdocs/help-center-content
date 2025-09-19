@@ -25,4 +25,4 @@ The guide is available to all our clients and partners and may be accessed throu
 https://{accountName}.myvtex.com/admin/shopping-season
 ```
 
-Simply replace `{accountName}` with your store's [account name](https://help.vtex.com/en/tutorial/o-que-e-account-name--i0mIGLcg3QyEy8OCicEoC#).
+Simply replace `{accountName}` with your store's [account name](/en/tutorial/o-que-e-account-name--i0mIGLcg3QyEy8OCicEoC#).

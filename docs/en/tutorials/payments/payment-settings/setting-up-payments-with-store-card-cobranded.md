@@ -40,7 +40,7 @@ you can enter a range of BINs (by entering the first and last code in the sequen
 ## Set up payment condition
 After configuring the card, you will need to configure the payment condition.
 
-> ⚠️ If the connector to be chosen (in **Step.8**)is not registered in your store, the message "(Configure)" will be displayed after the connector name. In this situation, choose another available connector or register it. For more information, see [Registering gateway affiliations](https://help.vtex.com/en/tutorial/afiliacoes-de-gateway--tutorials_444?&utm_source=autocomplete#).
+> ⚠️ If the connector to be chosen (in **Step.8**)is not registered in your store, the message "(Configure)" will be displayed after the connector name. In this situation, choose another available connector or register it. For more information, see [Registering gateway affiliations](/en/tutorial/afiliacoes-de-gateway--tutorials_444?&utm_source=autocomplete#).
 
 1. In the VTEX Admin, go to **Store Settings** > **Payment** > **Settings**, or type **Settings** in the search bar at the top of the page.
 2. In the Gateway affiliations tab, click on the __"+"__ button.

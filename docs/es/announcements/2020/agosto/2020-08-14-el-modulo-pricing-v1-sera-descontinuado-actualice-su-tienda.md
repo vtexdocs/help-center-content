@@ -74,7 +74,7 @@ Para un mejor rendimiento y estabilidad de la tienda, VTEX recomienda que sus cl
 
 Sin embargo, para la migración de Pricing V1, este cambio es opcional. Puede encontrar las rutas actualizadas de la API  en [nuestra documentación](https://developers.vtex.com/docs/api-reference/pricing-api).
 
-Sepa más sobre las nuevas funcionalidades de la versión actualizada del módulo Precios accediendo a [nuestro track de precios](https://help.vtex.com/es/tracks/prices-101--6f8pwCns3PJHqMvQSugNfP). 
+Sepa más sobre las nuevas funcionalidades de la versión actualizada del módulo Precios accediendo a [nuestro track de precios](/es/tracks/prices-101--6f8pwCns3PJHqMvQSugNfP). 
 
 Si tiene alguna pregunta, póngase en contacto con el Account Manager o el Customer Success de su cuenta, o abra un ticket en [nuestro Soporte](https://support.vtex.com/hc/en-us/signin?return_to=https%3A%2F%2Fsupport.vtex.com%2Fhc%2Fen-us%2Frequests).
 

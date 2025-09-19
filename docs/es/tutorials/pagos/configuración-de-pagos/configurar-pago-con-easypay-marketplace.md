@@ -24,7 +24,7 @@ Para utilizar la afiliación easypay, debes:
 - [Configurar el webhook de easypay](#configurar-el-webhook-de-easypay)
 - [Configurar la afiliación de easypay](#configurar-la-afiliacion-de-easypay) 
 
-> ⚠️ Si tu tienda no es un marketplace, consulta los artículos [Configurar pago con easypay ](https://help.vtex.com/es/tutorial/configurar-pago-con-easypay--3xJQqjMIn0ARDI1HcwK88J) o [Configurar pago con easypay seller account](https://help.vtex.com/es/tutorial/configurar-pago-con-easypay-seller--5mYMCM1tiRiZO6PozuUncE).
+> ⚠️ Si tu tienda no es un marketplace, consulta los artículos [Configurar pago con easypay ](/es/tutorial/configurar-pago-con-easypay--3xJQqjMIn0ARDI1HcwK88J) o [Configurar pago con easypay seller account](/es/tutorial/configurar-pago-con-easypay-seller--5mYMCM1tiRiZO6PozuUncE).
 
 ## Instalar la aplicación easypay
 
@@ -226,8 +226,8 @@ Para configurar la afiliación easypay, sigue los pasos a continuación:
 6. En __¿Activar split y enviar receptores?__, selecciona la opción __Sí__.
 7. Haz clic en `Guardar`.
 
-Para configurar los medios de pago que easypay procesará, accede a [Configurar condiciones de pago](https://help.vtex.com/es/tutorial/condiciones-de-pago).
+Para configurar los medios de pago que easypay procesará, accede a [Configurar condiciones de pago](/es/tutorial/condiciones-de-pago).
 
-Para establecer condiciones especiales en los medios de pago, accede a [Configurar condiciones especiales de pago](https://help.vtex.com/es/tutorial/condiciones-especiales--tutorials_456).
+Para establecer condiciones especiales en los medios de pago, accede a [Configurar condiciones especiales de pago](/es/tutorial/condiciones-especiales--tutorials_456).
 
 as seguir los pasos indicados, el conector easypay puede demorar hasta 10 minutos en aparecer en el checkout de tu tienda como medio de pago.

@@ -50,7 +50,7 @@ You need to create the user by associating the key, and then associate it with a
 3. Select the user found and associate it with the role `IntegrationProfile-Fulfillment_Gateway_GetOrder`.
 4. Click `Save`.
 
-After this procedure, the integration with the CSU is configured, and the Seller's [sponsor user](https://help.vtex.com/en/tutorial/what-is-the-sponsor-user--3oPr7YuIkEYqUGmEqIMSEy) must request a reindexation of his catalog to accelerate the sending of the SKUs to CSU.
+After this procedure, the integration with the CSU is configured, and the Seller's [sponsor user](/en/tutorial/what-is-the-sponsor-user--3oPr7YuIkEYqUGmEqIMSEy) must request a reindexation of his catalog to accelerate the sending of the SKUs to CSU.
 
 You must have sponsor user permission to perform this step: access your admin (http://_nomedaloja_/admin/site/fullcleanup.aspx) and click the **Reindex Base** button (this procedure should be done very carefully and should not be repeated every time as it may affect the performance of the site).
 
@@ -58,4 +58,4 @@ You are about to be an Opte + partner. Get in touch with CSU so they can check t
 
 ### Learn more
 
-- [Marketplace strategies at VTEX](https://help.vtex.com/en/tutorial/marketplace-strategies-at-vtex--tutorials_402).
+- [Marketplace strategies at VTEX](/en/tutorial/marketplace-strategies-at-vtex--tutorials_402).

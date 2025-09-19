@@ -29,6 +29,6 @@ The screen for adding a new provider, editing settings, and searching for provid
 
 The new payment and anti-fraud provider management page is now automatically available for all VTEX accounts. To leverage the new experience in the VTEX Admin, go to __Store Settings > Payment > Providers__.
 
-Learn more about the new interface features in [Register payment and anti-fraud providers](https://help.vtex.com/en/tutorial/registering-gateway-affiliations--tutorials_444).
+Learn more about the new interface features in [Register payment and anti-fraud providers](/en/tutorial/registering-gateway-affiliations--tutorials_444).
 
 > ⚠️ The previous version of the affiliations management interface, available at **Store Settings > Payment > Settings > Gateway Affiliations**, will still be accessible until January 14, 2024.

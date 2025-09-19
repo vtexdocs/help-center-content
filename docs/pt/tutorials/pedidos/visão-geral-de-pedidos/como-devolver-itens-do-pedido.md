@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 3VNOhxDrvYxJThhuJClrYZ
 ---
 
-A página de **Detalhes do Pedido** permite que lojistas acompanhem o ciclo de vida de pedidos específicos, analisando todas as suas interações, dados e contextos. Saiba mais sobre como funciona a nova página de [Detalhes do Pedido](https://help.vtex.com/pt/tutorial/pagina-de-detalhes-do-pedido-interface--2Y75n54Cc9VizrlG1N6ZNl). 
+A página de **Detalhes do Pedido** permite que lojistas acompanhem o ciclo de vida de pedidos específicos, analisando todas as suas interações, dados e contextos. Saiba mais sobre como funciona a nova página de [Detalhes do Pedido](/pt/tutorial/pagina-de-detalhes-do-pedido-interface--2Y75n54Cc9VizrlG1N6ZNl). 
 
 É possível devolver total ou parcialmente itens já faturados, caso o cliente solicite, desde que os itens estejam contidos na fatura. Um cenário comum para essa ação é quando um cliente de uma loja do segmento de moda deseja devolver uma peça de roupa do seu pedido, para trocá-la por um tamanho diferente, por exemplo.
 

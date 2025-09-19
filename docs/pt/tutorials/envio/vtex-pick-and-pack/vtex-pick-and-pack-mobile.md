@@ -15,9 +15,9 @@ locale: pt
 subcategoryId: 7Kllu6CmeLNV3tYXlCFvOt
 ---
 
-> ℹ️ Se já é cliente da VTEX e deseja adotar essa funcionalidade em seu negócio, entre em contato com o [Suporte Comercial](https://help.vtex.com/pt/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ). É possível que taxas adicionais se apliquem. Se ainda não é cliente, mas tem interesse nesta solução, preencha o [formulário de contato](https://vtex.com/br-pt/contato/).
+> ℹ️ Se já é cliente da VTEX e deseja adotar essa funcionalidade em seu negócio, entre em contato com o [Suporte Comercial](/pt/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ). É possível que taxas adicionais se apliquem. Se ainda não é cliente, mas tem interesse nesta solução, preencha o [formulário de contato](https://vtex.com/br-pt/contato/).
 
-O aplicativo móvel do [VTEX Pick and Pack](https://help.vtex.com/pt/tutorial/vtex-pick-and-pack-fulfillment--1zGUEItEEVsal6cuBEBNcA) auxilia o separador - profissional responsável por selecionar e empacotar itens na instalação - no manuseio de pedidos, abrangendo desde a separação dos itens até o envio. Assim, o fluxo de separação e entrega dos pedidos da loja torna-se mais organizado e fluido.
+O aplicativo móvel do [VTEX Pick and Pack](/pt/tutorial/vtex-pick-and-pack-fulfillment--1zGUEItEEVsal6cuBEBNcA) auxilia o separador - profissional responsável por selecionar e empacotar itens na instalação - no manuseio de pedidos, abrangendo desde a separação dos itens até o envio. Assim, o fluxo de separação e entrega dos pedidos da loja torna-se mais organizado e fluido.
 
 ![pickpack-mobile-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-mobile_1.png)
 
@@ -175,7 +175,7 @@ Para recusar todos os produtos da ordem de serviço de uma única vez, siga este
 
 ## Substituir itens
 
-Os separadores também podem substituir um item por outro, dependendo das [configurações da loja](https://help.vtex.com/pt/tutorial/vtex-pick-and-pack-settings--16cs3e7hWk7c4cSZqe10O9#picking) e da disponibilidade do item. Esta funcionalidade ajuda a garantir que os clientes recebam os seus pedidos a tempo, mesmo que determinados itens não estejam disponíveis. 
+Os separadores também podem substituir um item por outro, dependendo das [configurações da loja](/pt/tutorial/vtex-pick-and-pack-settings--16cs3e7hWk7c4cSZqe10O9#picking) e da disponibilidade do item. Esta funcionalidade ajuda a garantir que os clientes recebam os seus pedidos a tempo, mesmo que determinados itens não estejam disponíveis. 
 
 > ⚠️ A opção de substituir itens pode não estar disponível. Em caso de dúvida, consulte a administração da loja.
 
@@ -186,7 +186,7 @@ Para substituir itens da ordem de serviço, siga os passos abaixo:
 3. Escaneie o código de barras do produto ou procure-o manualmente usando a barra de busca.
 4. Selecione a quantidade desejada em unidades ou informe o peso.
 5. Clique em **Continuar**.
-6. Selecione o motivo da substituição do item. Os motivos listados podem ser configurados na página [Configurações](https://help.vtex.com/pt/tutorial/vtex-pick-and-pack-configuracoes--16cs3e7hWk7c4cSZqe10O9).
+6. Selecione o motivo da substituição do item. Os motivos listados podem ser configurados na página [Configurações](/pt/tutorial/vtex-pick-and-pack-configuracoes--16cs3e7hWk7c4cSZqe10O9).
 7. Clique em **Confirmar e separar substituto**.
 
 ## Concluir separação

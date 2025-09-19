@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisEN: 'Authentication token for asynchronous payment authorizations'
 ---
 
-To enhance payment operations on the platform, VTEX is implementing the `X-VTEX-signature` authentication token. Payment providers and partners must use this token to report the status of asynchronous payment transactions via a [callback URL](https://help.vtex.com/pt/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m#callback-url).  
+To enhance payment operations on the platform, VTEX is implementing the `X-VTEX-signature` authentication token. Payment providers and partners must use this token to report the status of asynchronous payment transactions via a [callback URL](/pt/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m#callback-url).  
 
 As of May 27, 2024,  the VTEX gateway will automatically include the callback URL information and the respective authentication token with each payment transaction.
 
@@ -29,4 +29,4 @@ Starting June 26, 2024, all payment providers and partners must report the statu
 
 After this date, any transaction status updates sent only via callback URL (without the authentication token) will be blocked, and the respective payment transactions will be canceled.
 
-For more information about the callback URL, see [Payment Provider Protocol](https://help.vtex.com/pt/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m#callback-url) and [Create Payment endpoint](https://developers.vtex.com/docs/api-reference/payment-provider-protocol#post-/payments).
+For more information about the callback URL, see [Payment Provider Protocol](/pt/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m#callback-url) and [Create Payment endpoint](https://developers.vtex.com/docs/api-reference/payment-provider-protocol#post-/payments).

@@ -15,7 +15,7 @@ locale: es
 subcategoryId: pwxWmUu7T222QyuGogs68
 ---
 
-> ⚠️ El siguiente tutorial es válido para asociar los SKU **ya existentes** a una determinada [Política Comercial](https://help.vtex.com/es/tutorial/crear-una-politica-comercial--563tbcL0TYKEKeOY4IAgAE). Para registrar un nuevo SKU, consulte el tutorial [Registrar SKU](https://help.vtex.com/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ).
+> ⚠️ El siguiente tutorial es válido para asociar los SKU **ya existentes** a una determinada [Política Comercial](/es/tutorial/crear-una-politica-comercial--563tbcL0TYKEKeOY4IAgAE). Para registrar un nuevo SKU, consulte el tutorial [Registrar SKU](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ).
 
 En la página de configuración de cada SKU, existe la opción de asociar solo aquel artículo con una o varias Políticas Comerciales.
 
@@ -29,4 +29,4 @@ En la página de configuración de cada SKU, existe la opción de asociar solo a
 
 > ⚠️ Si no se selecciona una política comercial específica en la configuración del SKU, todas las políticas comerciales tendrán acceso al SKU.
 
-Cada cambio realizado en un SKU necesita tiempo para procesarse completamente, incluidas las asociaciones a las Políticas Comerciales. Usted puede conocer más detalles en el artículo [Cómo funciona la indexación](https://help.vtex.com/es/tutorial/entendiendo-el-funcionamento-de-la-indexacion--tutorials_256).
+Cada cambio realizado en un SKU necesita tiempo para procesarse completamente, incluidas las asociaciones a las Políticas Comerciales. Usted puede conocer más detalles en el artículo [Cómo funciona la indexación](/es/tutorial/entendiendo-el-funcionamento-de-la-indexacion--tutorials_256).

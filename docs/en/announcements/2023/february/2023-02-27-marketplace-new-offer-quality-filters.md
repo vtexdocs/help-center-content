@@ -15,9 +15,9 @@ announcementImageID: 'undefined'
 announcementSynopsisEN: 'We have launched a new configuration page so marketplaces can create requirements for approving offers.'
 ---
 
-A [marketplace](https://help.vtex.com/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#being-a-vtex-marketplace) is responsible for receiving offers from its sellers and reviewing and approving them so they can be added to the catalog, which is done through the Received SKUs page in the VTEX Admin. 
+A [marketplace](/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#being-a-vtex-marketplace) is responsible for receiving offers from its sellers and reviewing and approving them so they can be added to the catalog, which is done through the Received SKUs page in the VTEX Admin. 
 
-To give marketplaces more control over the approval criteria for an offer, we created the **[Offer Quality Filters](https://help.vtex.com/en/tutorial/filtros-de-qualidade-dos-anuncios--4xm0gi8leCyxHj8YdgHSJH)** configuration, in which marketplaces create the mandatory and optional requirements for their approval. 
+To give marketplaces more control over the approval criteria for an offer, we created the **[Offer Quality Filters](/en/tutorial/filtros-de-qualidade-dos-anuncios--4xm0gi8leCyxHj8YdgHSJH)** configuration, in which marketplaces create the mandatory and optional requirements for their approval. 
 
 Thus, the SKUs that are sent to the marketplace meet the requirements relevant to catalog curation. 
 
@@ -41,13 +41,13 @@ The configuration page provides many tools for operating the marketplace, includ
 * Enables the marketplace catalog team to review each offer individually to see why it did not meet the requirements.
 * Allows you to identify which sellers and offer types do not meet the requirements, speeding up corrections.
 
-Learn more about the [advantages](https://help.vtex.com/tutorial/filtros-de-qualidade-dos-anuncios--4xm0gi8leCyxHj8YdgHSJH#advantages-of-using-this-feature) of using this feature.
+Learn more about the [advantages](/tutorial/filtros-de-qualidade-dos-anuncios--4xm0gi8leCyxHj8YdgHSJH#advantages-of-using-this-feature) of using this feature.
 
 ## What needs to be done?
 
-The configuration page is now automatically available for all VTEX accounts using the [Received SKUs](https://help.vtex.com/en/tutorial/sugerindo-e-aprovando-skus--tutorials_396) page. No action is required to get the feature.
+The configuration page is now automatically available for all VTEX accounts using the [Received SKUs](/en/tutorial/sugerindo-e-aprovando-skus--tutorials_396) page. No action is required to get the feature.
 
-To access the page where you configure your offer quality filters, in the VTEX Admin, go to _Marketplace > Received SKUs > **[Offer Quality](https://help.vtex.com/en/tutorial/filtros-de-qualidade-dos-anuncios--4xm0gi8leCyxHj8YdgHSJH)**_.
+To access the page where you configure your offer quality filters, in the VTEX Admin, go to _Marketplace > Received SKUs > **[Offer Quality](/en/tutorial/filtros-de-qualidade-dos-anuncios--4xm0gi8leCyxHj8YdgHSJH)**_.
 
-This page follows VTEX's new Design System, which has a cleaner, more modern, user-friendly look and feel. To access more pages with this experience and have an improved Admin with actionable data, [join](https://content.vtex.com/join-new-admin-beta-program-en/) the [New VTEX Admin](https://help.vtex.com/en/v4) Beta program.
+This page follows VTEX's new Design System, which has a cleaner, more modern, user-friendly look and feel. To access more pages with this experience and have an improved Admin with actionable data, [join](https://content.vtex.com/join-new-admin-beta-program-en/) the [New VTEX Admin](/en/v4) Beta program.
 

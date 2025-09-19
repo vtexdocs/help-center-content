@@ -21,7 +21,7 @@ Firstly, it is important to understand the difference between three similar conc
 
 ## Settlement after payment confirmation
 
-Settlement after payment confirmation is a VTEX internal [transaction flow](https://help.vtex.com/en/tutorial/transaction-flow-in-payments--Er2oWmqPIWWyeIy4IoEoQ) stage that occurs after a customer has paid for an order, without direct customer involvement.
+Settlement after payment confirmation is a VTEX internal [transaction flow](/en/tutorial/transaction-flow-in-payments--Er2oWmqPIWWyeIy4IoEoQ) stage that occurs after a customer has paid for an order, without direct customer involvement.
 
 When an order is billed and its products are pending picking by the carrier, the gateway system triggers a settlement. This settlement happens because the order status is updated to show that payment has been successfully processed.
 

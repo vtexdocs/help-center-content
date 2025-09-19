@@ -15,9 +15,9 @@ locale: es
 subcategoryId: 7Kllu6CmeLNV3tYXlCFvOt
 ---
 
-> ℹ️ Si ya es cliente de VTEX y desea adoptar esta funcionalidad para su negocio, por favor, póngase en contacto con el [Soporte Comercial](https://help.vtex.com/es/tracks/soporte-en-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ). Pueden aplicarse tarifas adicionales. Si aún no es cliente pero está interesado en esta solución, por favor, complete el [formulario de contacto](https://vtex.com/co-es/contacto/).
+> ℹ️ Si ya es cliente de VTEX y desea adoptar esta funcionalidad para su negocio, por favor, póngase en contacto con el [Soporte Comercial](/es/tracks/soporte-en-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ). Pueden aplicarse tarifas adicionales. Si aún no es cliente pero está interesado en esta solución, por favor, complete el [formulario de contacto](https://vtex.com/co-es/contacto/).
 
-La aplicación móvil de [VTEX Pick and Pack](https://help.vtex.com/es/tutorial/vtex-pick-and-pack-fulfillment--1zGUEItEEVsal6cuBEBNcA) ayuda al alistador (profesional responsable de seleccionar y empacar los ítems en la instalación) en la preparación de los pedidos, desde el alistamiento de los ítems hasta el envío. Esto hace que el flujo de alistamiento y envío de los pedidos de la tienda sea más organizado y fluido.
+La aplicación móvil de [VTEX Pick and Pack](/es/tutorial/vtex-pick-and-pack-fulfillment--1zGUEItEEVsal6cuBEBNcA) ayuda al alistador (profesional responsable de seleccionar y empacar los ítems en la instalación) en la preparación de los pedidos, desde el alistamiento de los ítems hasta el envío. Esto hace que el flujo de alistamiento y envío de los pedidos de la tienda sea más organizado y fluido.
 
 ![pickpack-mobile-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/vtex-pick-and-pack/vtex-pick-and-pack-mobile_1.png)
 
@@ -173,7 +173,7 @@ Para descartar todos los productos de la hoja de trabajo de una sola vez, sigue 
 
 ## Sustituir ítems
 
-Los alistadores también pueden sustituir un ítem por otro, dependiendo de la [configuración de la tienda](https://help.vtex.com/es/tutorial/vtex-pick-and-pack-settings--16cs3e7hWk7c4cSZqe10O9#picking) y la disponibilidad del mismo. Esta funcionalidad ayuda a garantizar que los clientes reciban sus pedidos a tiempo, incluso si algunos ítems no están disponibles.
+Los alistadores también pueden sustituir un ítem por otro, dependiendo de la [configuración de la tienda](/es/tutorial/vtex-pick-and-pack-settings--16cs3e7hWk7c4cSZqe10O9#picking) y la disponibilidad del mismo. Esta funcionalidad ayuda a garantizar que los clientes reciban sus pedidos a tiempo, incluso si algunos ítems no están disponibles.
 
 > ⚠️ La opción Rechazar ítems puede no estar disponible. En caso de duda, ponte en contacto con la gerencia de la tienda.
 
@@ -184,7 +184,7 @@ Para reemplazar ítems de la hoja de trabajo sigue los pasos que se indican a co
 3. Escanea el código de barras del producto o búscalo manualmente utilizando la barra de búsqueda.
 4. Selecciona la cantidad deseada en unidades o agrega el valor del peso.
 5. Haz clic en **Continuar**.
-6. Selecciona el motivo de la sustitución. Los motivos listados son configurables en la página de [configuración](https://help.vtex.com/es/tutorial/vtex-pick-and-pack-settings--16cs3e7hWk7c4cSZqe10O9#order-changes).
+6. Selecciona el motivo de la sustitución. Los motivos listados son configurables en la página de [configuración](/es/tutorial/vtex-pick-and-pack-settings--16cs3e7hWk7c4cSZqe10O9#order-changes).
 7. Haz clic en **Confirmar y alistar sustituto**.
 
 ## Finalizar alistamiento

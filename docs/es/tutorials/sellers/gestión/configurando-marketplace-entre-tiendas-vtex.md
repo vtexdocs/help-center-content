@@ -33,11 +33,11 @@ Ser un seller significa que su tienda va a enviar y vender productos a través d
 
 Después de las configuraciones, es necesario realizar la indexación de todos los productos de la base, para que la integración ocurra.
 
-1. Con el [usuario titular](https://help.vtex.com/es/tracks/contas-e-permissoes--5PxyAgZrtiYlaYZBTlhJ2A/56Bd0KpwbvAji1aFs94xdA), acceda al link `{nombredelatienda}.vtexcommercestable.com.br/admin/Site/FullCleanUp.aspx`.
+1. Con el [usuario titular](/es/tracks/contas-e-permissoes--5PxyAgZrtiYlaYZBTlhJ2A/56Bd0KpwbvAji1aFs94xdA), acceda al link `{nombredelatienda}.vtexcommercestable.com.br/admin/Site/FullCleanUp.aspx`.
 2. Haga clic en el botón __Reindexar Base__.
 
 ![ReindexarBase](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/sellers/gesti%C3%B3n/configurando-marketplace-entre-tiendas-vtex_1.png)
 
 Tenga en cuenta que, en la URL, debe cambiar el término `{nombredelatienda}` por el nombre de su tienda.
 
-Despúes de esas configuraciones, los productos comenzarán a ser enviados para el marketplace. Luego, el marketplace deberá realizar el [mapeo de categorías, marcas y especificaciones](https://help.vtex.com/es/tutorial/mapeando-categorias-e-marcas-para-marketplace), además de aceptar los productos enviados.
+Despúes de esas configuraciones, los productos comenzarán a ser enviados para el marketplace. Luego, el marketplace deberá realizar el [mapeo de categorías, marcas y especificaciones](/es/tutorial/mapeando-categorias-e-marcas-para-marketplace), además de aceptar los productos enviados.

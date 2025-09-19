@@ -45,7 +45,7 @@ A segunda etapa de preenchimento da planilha de mapeamento é fazer a correspond
 
 | Campo | Definição  | Exemplo |
 | ---------- | ---------- | ---------- |
-| Loja Atributo Nome | É o nome do [campo de SKU](https://help.vtex.com/pt/tutorial/criando-campo-de-sku) usado na sua loja na VTEX. | Tamanho, Cor |
+| Loja Atributo Nome | É o nome do [campo de SKU](/pt/tutorial/criando-campo-de-sku) usado na sua loja na VTEX. | Tamanho, Cor |
 | Centauro Atributo | É o nome da especificação, mapeado na Centauro, que corresponde ao campo de SKU que você usou no campo `Loja Atributo Nome`. | Se você usou `Cores` na coluna `Loja Atributo Nome`, então o nome correspondente na Centauro seria `COR`. |
 | Loja Atributo Valor | Nome do valor usado no campo de SKU na VTEX. | Para uma especificação de "Cor", os valores desse campo seriam as próprias cores usadas na loja, como "Vermelho", "Preto", "Branco" etc. |
 | Centauro Atributo Valor | Essa coluna você deve preencher valores aceitos pela Centauro, correspondentes aos valores usados no campo `Loja Atributo Valor`. Na Planilha de Variações da Centauro, busque pelos valores aceitos para cada especificação que você preencheu na coluna `Loja Atributo Valor`. | Se você preencheu o `Loja Atributo Nome` com Cores e o `Loja Atributo Valor` com "Preto", verá que o valor aceito pela Centauro é "02”. |

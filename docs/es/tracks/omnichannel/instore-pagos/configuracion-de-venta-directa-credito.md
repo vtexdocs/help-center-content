@@ -22,9 +22,9 @@ Si desea recibir pagos con tarjeta de crédito, siga los pasos a continuación:
 3. Haga clic en el método de pago __Venta Directa crédito__.
 4. Haga clic en el botón `Status` para activar esta condición de pago.
 5. Puede elegir configurar el pago en efectivo o en cuotas.
-6. Opcionalmente, puede establecer condiciones especiales de pago haciendo clic en `+ Condición Especial`. Lea el artículo [Configurar condiciones especiales de pago](https://help.vtex.com/es/tutorial/condicoes-especiais--tutorials_456) para obtener más información.
+6. Opcionalmente, puede establecer condiciones especiales de pago haciendo clic en `+ Condición Especial`. Lea el artículo [Configurar condiciones especiales de pago](/es/tutorial/condicoes-especiais--tutorials_456) para obtener más información.
 7. Haga clic en `Guardar`.
 
 <div class="alert-info">
-Además de los ajustes anteriores, debes seguir la guía **[Definir los métodos de pago mostrados en VTEX Sales App](https://help.vtex.com/es/tracks/instore-pagamentos--43B4Nr7uZva5UdwWEt3PEy/jHQQcyX3WKeUFidwSjmY1)** para que las opciones de pago se muestren correctamente en la app.
+Además de los ajustes anteriores, debes seguir la guía **[Definir los métodos de pago mostrados en VTEX Sales App](/es/tracks/instore-pagamentos--43B4Nr7uZva5UdwWEt3PEy/jHQQcyX3WKeUFidwSjmY1)** para que las opciones de pago se muestren correctamente en la app.
 </div>

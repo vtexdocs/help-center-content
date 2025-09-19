@@ -47,5 +47,5 @@ A partir deste momento, sempre que a organização realizar uma busca na platafo
 
 > ⚠️ Organizações compradoras que não criem atribuições de sellers poderão acessar informações e realizar compras de todos os sellers disponíveis no marketplace.
 
-Para mais informações sobre como integrar um novo seller, acesse [Adicionar seller](https://help.vtex.com/pt/tutorial/adicionar-seller--tutorials_392).
+Para mais informações sobre como integrar um novo seller, acesse [Adicionar seller](/pt/tutorial/adicionar-seller--tutorials_392).
 

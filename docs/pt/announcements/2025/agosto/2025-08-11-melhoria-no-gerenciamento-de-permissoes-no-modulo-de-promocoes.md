@@ -15,14 +15,14 @@ announcementImageID: 'undefined'
 announcementSynopsisPT: 'Mudança nas permissões do Admin para editar promoções com métodos de envio e pagamento.'
 ---
 
-Para reforçar a segurança da plataforma e garantir uma gestão adequada de acessos, fizemos mudanças nas permissões necessárias para editar determinadas condições de promoções. A partir de agora, determinadas ações no formulário de promoções exigem [recursos adicionais no License Manager](https://help.vtex.com/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3).
+Para reforçar a segurança da plataforma e garantir uma gestão adequada de acessos, fizemos mudanças nas permissões necessárias para editar determinadas condições de promoções. A partir de agora, determinadas ações no formulário de promoções exigem [recursos adicionais no License Manager](/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3).
 
 ## O que mudou?
 
 Usuários agora precisam de permissões específicas para **adicionar ou editar condições de promoções** relacionadas a **métodos de envio** e **meios de pagamento**. Veja abaixo os requisitos:
 
-- **Métodos de Envio**: exige um [perfil de acesso](https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) com o [recurso](https://help.vtex.com/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) **LogisticsInternal,** referente ao produto **Logistics.**
-- **Meios de Pagamento**: exige um [perfil de acesso](https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) com o [recurso](https://help.vtex.com/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) **View Payment Data,** referente ao produto **PCI Gateway.**
+- **Métodos de Envio**: exige um [perfil de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) com o [recurso](/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) **LogisticsInternal,** referente ao produto **Logistics.**
+- **Meios de Pagamento**: exige um [perfil de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) com o [recurso](/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) **View Payment Data,** referente ao produto **PCI Gateway.**
 
 > ⚠️ Estes recursos são novos requisitos, em adição aos recursos necessários para editar condições de promoções anteriormente.
 
@@ -36,6 +36,6 @@ A ausência dessas permissões impedirá que o usuário altere as condições de
 
 Para mais detalhes sobre gerenciamento de permissões, acesse:
 
-- [Recursos do License Manager](https://help.vtex.com/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3)
-- [Perfis de acesso](https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc)
+- [Recursos do License Manager](/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3)
+- [Perfis de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc)
 

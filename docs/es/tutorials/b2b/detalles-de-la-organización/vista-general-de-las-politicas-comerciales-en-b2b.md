@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 3b0iTwoSQZq9m3Z2ezbWLd
 ---
 
-Asociar una [política comercial](https://help.vtex.com/es/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) a una organización es imprescindible para una operación B2B. Esto permite aplicar reglas específicas de precios, descuentos y condiciones de pago, facilitando así la gestión personalizada de relaciones comerciales.
+Asociar una [política comercial](/es/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) a una organización es imprescindible para una operación B2B. Esto permite aplicar reglas específicas de precios, descuentos y condiciones de pago, facilitando así la gestión personalizada de relaciones comerciales.
 
 El objetivo principal de las políticas comerciales en B2B es garantizar que todas las transacciones sigan las condiciones comerciales definidas por la empresa con el fin de brindar una experiencia de compra consistente y adaptada a las estrategias de negocio, incluyendo:
 - Establecer precios específicos para productos o grupos de productos, ajustándolos según sea necesario para diferentes clientes o sectores del mercado.

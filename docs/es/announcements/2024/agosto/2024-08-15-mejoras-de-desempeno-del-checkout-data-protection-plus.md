@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisES: 'Mejoramos el desempeño del checkout para cuentas Data Protection Plus con una disminución de latencia de 55 %.'
 ---
 
-Para mejorar la experiencia de los retailers, implementamos mejoras significativas en la resiliencia del checkout y redujimos la latencia (el tiempo necesario para transferir datos de un punto a otro) en las cuentas que utilizan [Data Protection Plus](https://developers.vtex.com/docs/guides/data-protection-plus) de [VTEX Shield](https://help.vtex.com/es/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh), disponible en ciertas regiones. El objetivo de estas mejoras de desempeño es aumentar la tasa de conversión de ventas.
+Para mejorar la experiencia de los retailers, implementamos mejoras significativas en la resiliencia del checkout y redujimos la latencia (el tiempo necesario para transferir datos de un punto a otro) en las cuentas que utilizan [Data Protection Plus](https://developers.vtex.com/docs/guides/data-protection-plus) de [VTEX Shield](/es/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh), disponible en ciertas regiones. El objetivo de estas mejoras de desempeño es aumentar la tasa de conversión de ventas.
 
 ## ¿Qué cambió?
 

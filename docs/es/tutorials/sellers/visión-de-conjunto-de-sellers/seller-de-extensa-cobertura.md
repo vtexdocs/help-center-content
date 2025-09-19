@@ -47,7 +47,7 @@ Esto ocurre tanto durante la navegación como en el carrito, con el objetivo de 
 
 > ℹ️ Aunque durante la navegación la información sobre la ubicación del cliente se haya capturado y almacenado en el campo `regionId` de la API de Sesión, la ubicación no se utiliza en el carrito. Solo los productos del seller principal y de los sellers de extensa cobertura estarán disponibles para el cliente en el carrito. Los productos de otros sellers solo estarán disponibles después de que el cliente indique el código postal de entrega en el checkout.
 
-En los casos de más de un *seller* de extensa cobertura registrado, el *checkout* selecciona el que tiene mayor saldo en stock para el artículo en cuestión, entre todos los *seller* de extensa cobertura. Aprende más en [Selección de sellers white label](https://help.vtex.com/es/tutorial/algoritmo-de-selecao-de-sellers-white-label--3MemNQ4pKkWCpMdzI27AHa).
+En los casos de más de un *seller* de extensa cobertura registrado, el *checkout* selecciona el que tiene mayor saldo en stock para el artículo en cuestión, entre todos los *seller* de extensa cobertura. Aprende más en [Selección de sellers white label](/es/tutorial/algoritmo-de-selecao-de-sellers-white-label--3MemNQ4pKkWCpMdzI27AHa).
 
 ## Cómo habilitar un _seller_ de extensa cobertura
 

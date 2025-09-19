@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
-The [Regular Promotion](https://help.vtex.com/en/tutorial/regular-promotion--tutorials_327) offers discounts in a flexible way, combining multiple conditions, restrictions and benefits. One of the possibilities of this type of promotion is to provide a reward value to your customers, i.e. a credit that acts as cashback to be used in future store purchases. The purpose of this type of discount is to generate loyalty through recurrence of purchases, i.e. to offer an incentive for customers to return to shop in the store.
+The [Regular Promotion](/en/tutorial/regular-promotion--tutorials_327) offers discounts in a flexible way, combining multiple conditions, restrictions and benefits. One of the possibilities of this type of promotion is to provide a reward value to your customers, i.e. a credit that acts as cashback to be used in future store purchases. The purpose of this type of discount is to generate loyalty through recurrence of purchases, i.e. to offer an incentive for customers to return to shop in the store.
 
 In this article, we explain:
 - [Types of reward values](#types-of-reward-values)
@@ -24,14 +24,14 @@ In this article, we explain:
 
 ## Types of reward values
 
-You can create a [regular promotion](https://help.vtex.com/en/tutorial/regular-promotion--tutorials_327) in **Promotions & Taxes > Promotions > New Promotion > Regular Promotion**. When choosing the type and value of the discount, there are two options available for offering a reward value:
+You can create a [regular promotion](/en/tutorial/regular-promotion--tutorials_327) in **Promotions & Taxes > Promotions > New Promotion > Regular Promotion**. When choosing the type and value of the discount, there are two options available for offering a reward value:
 
 - [Nominal reward value](#nominal-reward-value)
 - [Percentage reward value](#percentage-reward-value)
 
 ### Nominal reward value
 
-The **nominal reward value** adds a fixed credit amount to the user's account in your store. To set up this type of reward value, you must fill in the following fields on the [regular promotion form](https://help.vtex.com/en/tutorial/regular-promotion--tutorials_327#1-promotion-overview):
+The **nominal reward value** adds a fixed credit amount to the user's account in your store. To set up this type of reward value, you must fill in the following fields on the [regular promotion form](/en/tutorial/regular-promotion--tutorials_327#1-promotion-overview):
 
 * **Nominal value for rewards program:** Credit amount that will be added to the customer's account in your store.
 * **Apply reward credit when the order status changes to:** Field to define from which order status the credit will be made available. The options are **Invoiced** or **Payment Approved**.
@@ -42,7 +42,7 @@ In the following example, the customers will earn R$10,00 in store credit when t
 
 ### Percentage reward value
 
-The **percentage reward value** adds a percentage credit amount based on the price of the product purchased. To set up this type of reward value, you must fill in the following fields on the [regular promotion form](https://help.vtex.com/en/tutorial/regular-promotion--tutorials_327#1-promotion-overview):
+The **percentage reward value** adds a percentage credit amount based on the price of the product purchased. To set up this type of reward value, you must fill in the following fields on the [regular promotion form](/en/tutorial/regular-promotion--tutorials_327#1-promotion-overview):
 
 * **Percentage value for rewards program:** Percentage of the value of the order that will be added as credit to the customer's account in your store.
 * **Apply reward credit when the order status changes to:** Field to define from which order status the credit will be made available. The options are **Invoiced** or **Payment Approved**.
@@ -62,7 +62,7 @@ The following are some examples of configurable restrictions so that regular pro
 * Delivery addresses that are part of a given range of Postal Codes.
 * One purchase per customer.
 
-You can make these settings in **Promotions & Taxes > Promotions > New Promotion > Regular Promotion**. To do so, follow the instructions described in the article [Regular Promotion](https://help.vtex.com/en/tutorial/regular-promotion--tutorials_327).
+You can make these settings in **Promotions & Taxes > Promotions > New Promotion > Regular Promotion**. To do so, follow the instructions described in the article [Regular Promotion](/en/tutorial/regular-promotion--tutorials_327).
 
 ## How reward values work
 
@@ -95,7 +95,7 @@ In the **Order flow** section, you can check the reward value applied:
 
 ![fluxo-oms-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/regular-promotion-with-reward-value_3.png)
 
-If you use the new [Order details (Beta)](https://help.vtex.com/en/tutorial/order-details-page-beta--2Y75n54Cc9VizrlG1N6ZNl) interface, go to `See interactions` to check the applied value:
+If you use the new [Order details (Beta)](/en/tutorial/order-details-page-beta--2Y75n54Cc9VizrlG1N6ZNl) interface, go to `See interactions` to check the applied value:
 
 ![interacoes-neworders-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/regular-promotion-with-reward-value_4.png)
 
@@ -115,4 +115,4 @@ Note that the value will be discounted from the other method of payment selected
 
 ## Learn more
 
-* [Regular Promotion](https://help.vtex.com/en/tutorial/regular-promotion--tutorials_327)
+* [Regular Promotion](/en/tutorial/regular-promotion--tutorials_327)

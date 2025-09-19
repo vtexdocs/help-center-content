@@ -17,13 +17,13 @@ announcementSynopsisES: 'VTEX ha desarrollado una nueva aplicación para que int
 
 Facebook te permite anunciar tus productos y tener una presencia estratégica en redes sociales como el propio Facebook e Instagram, garantizando una mayor visibilidad para tu marca. Ahora existe una plataforma de Facebook que integra servicios y nuevas funcionalidades para empresas, Facebook Business Extension (FBE).
 
-VTEX ha desarrollado la aplicación _Facebook Business Extension y Conversions API_ para que la integración de las tiendas VTEX con FBE sea un proceso sencillo. La integración garantiza la instalación automática de algunas de las funcionalidades clave de Facebook, como la [API de Conversiones](https://help.vtex.com/es/tracks/integracao-com-o-facebook-business-extension--2hS3ANSZ7vlHCcba4h7k8D#api-de-conversiones) y el [Píxel de Facebook](https://help.vtex.com/es/tracks/integracao-com-o-facebook-business-extension--2hS3ANSZ7vlHCcba4h7k8D#pixel-de-facebook).
+VTEX ha desarrollado la aplicación _Facebook Business Extension y Conversions API_ para que la integración de las tiendas VTEX con FBE sea un proceso sencillo. La integración garantiza la instalación automática de algunas de las funcionalidades clave de Facebook, como la [API de Conversiones](/es/tracks/integracao-com-o-facebook-business-extension--2hS3ANSZ7vlHCcba4h7k8D#api-de-conversiones) y el [Píxel de Facebook](/es/tracks/integracao-com-o-facebook-business-extension--2hS3ANSZ7vlHCcba4h7k8D#pixel-de-facebook).
 
 La aplicación _Facebook Business Extension y Conversions API_ está disponible en todo el mundo, para todas las tiendas que quieran integrarse con FBE.
 
 ## ¿Qué cambió?
 
-VTEX contaba con una solución nativa de [integración con Facebook](https://help.vtex.com/es/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc) que te permitía integrar tu catálogo y utilizar los servicios y funcionalidades de Facebook. 
+VTEX contaba con una solución nativa de [integración con Facebook](/es/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc) que te permitía integrar tu catálogo y utilizar los servicios y funcionalidades de Facebook. 
 
 La nueva integración con Facebook Business Extension, además de tener la misma capacidad, ofrece nuevas funcionalidades y servicios, de forma más sencilla y completa. 
 
@@ -31,8 +31,8 @@ Tras integrar tu tienda con la aplicación _Facebook Business Extension y Conver
 
 Además, la integración con la aplicación _Facebook Business Extension y Conversions API_ configura automáticamente las siguientes funcionalidades:
 
-- [API de Conversiones](https://help.vtex.com/es/tracks/integracao-com-o-facebook-business-extension--2hS3ANSZ7vlHCcba4h7k8D#api-de-conversiones)
-- [Píxel de Facebook](https://help.vtex.com/es/tracks/integracao-com-o-facebook-business-extension--2hS3ANSZ7vlHCcba4h7k8D#pixel-de-facebook)
+- [API de Conversiones](/es/tracks/integracao-com-o-facebook-business-extension--2hS3ANSZ7vlHCcba4h7k8D#api-de-conversiones)
+- [Píxel de Facebook](/es/tracks/integracao-com-o-facebook-business-extension--2hS3ANSZ7vlHCcba4h7k8D#pixel-de-facebook)
 - [Catálogo](https://developers.facebook.com/docs/marketing-api/catalog?locale=es_LA)
 - Botón “Comprar ahora" de Facebook
 - Botón "Comprar ahora" de Instagram
@@ -60,7 +60,7 @@ Las funcionalidades que se instalan automáticamente con la integración de la a
 
 ## ¿Qué se necesita hacer?
 
-Para integrar tu tienda VTEX con FBE, sigue los pasos de la [guía de Integración con Facebook Business Extension](https://help.vtex.com/es/tracks/integracao-com-o-facebook-business-extension--2hS3ANSZ7vlHCcba4h7k8D).
+Para integrar tu tienda VTEX con FBE, sigue los pasos de la [guía de Integración con Facebook Business Extension](/es/tracks/integracao-com-o-facebook-business-extension--2hS3ANSZ7vlHCcba4h7k8D).
 
 > ⚠️ Incluso si ya has configurado la <a href= "https://help.vtex.com/es/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc">integración con Facebook</a>, se recomienda que realices la integración con la aplicación *Facebook Business Extension y Conversions API*. Esto te permitirá disponer de servicios mejorados y nuevas funcionalidades.
 

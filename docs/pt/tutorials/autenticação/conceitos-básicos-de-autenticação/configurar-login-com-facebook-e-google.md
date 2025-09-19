@@ -27,8 +27,8 @@ Nativamente, a plataforma oferece opções de login com email e senha e login co
 
 Antes de configurar nossa integração de login com o Google e Facebook, é necessário criar credenciais de OAuth 2.0 (protocolo utilizado para integração) nesses serviços. Para fazer isso, siga as instruções nos artigos indicados abaixo:
 
-- [Facebook](https://help.vtex.com/pt/tutorial/cadastrar-client-id-e-client-secret-para-login-com-facebook--3R7rzXWG1GswWOIkYyy8SO)
-- [Google](https://help.vtex.com/pt/tutorial/cadastrar-client-id-e-client-secret-para-login-com-google--1lBgDmetUM4goie6mYEOK6)
+- [Facebook](/pt/tutorial/cadastrar-client-id-e-client-secret-para-login-com-facebook--3R7rzXWG1GswWOIkYyy8SO)
+- [Google](/pt/tutorial/cadastrar-client-id-e-client-secret-para-login-com-google--1lBgDmetUM4goie6mYEOK6)
 
 ## Configurar login com provedores
 

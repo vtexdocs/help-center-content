@@ -25,7 +25,7 @@ To use easypay, you need to:
 - [Configure the easypay affiliation](#configure-the-easypay-affiliation)
 - [Configure payment with Apple Pay on easypay (optional)](#configure-payment-with-apple-pay-on-easypay-optional)     
 
-> ⚠️ If you are a marketplace or seller, read [Configuring payment with easypay in a marketplace](https://help.vtex.com/en/tutorial/setting-up-payments-with-easypay-marketplace--3YllWiITcPEOpteuToEdO7) or [Configuring payment with easypay seller](https://help.vtex.com/en/tutorial/setting-up-payments-with-easypay-seller--5mYMCM1tiRiZO6PozuUncE).
+> ⚠️ If you are a marketplace or seller, read [Configuring payment with easypay in a marketplace](/en/tutorial/setting-up-payments-with-easypay-marketplace--3YllWiITcPEOpteuToEdO7) or [Configuring payment with easypay seller](/en/tutorial/setting-up-payments-with-easypay-seller--5mYMCM1tiRiZO6PozuUncE).
 
 ## Install the easypay app
 
@@ -82,7 +82,7 @@ __Merchant account UID__: identification of the merchant account where purchase 
 
 __Margin account UID__: identification of the margin account. 
 
-> ℹ️ This field should only be completed if the store is a marketplace and splits payments. Learn more in the [Configuring payment with easypay in a marketplace](https://help.vtex.com/en/tutorial/setting-up-payments-with-easypay-marketplace--3YllWiITcPEOpteuToEdO7) article.
+> ℹ️ This field should only be completed if the store is a marketplace and splits payments. Learn more in the [Configuring payment with easypay in a marketplace](/en/tutorial/setting-up-payments-with-easypay-marketplace--3YllWiITcPEOpteuToEdO7) article.
 
 __Refund account ID and Refund account key__: If there is no specific refund account, the __Key ID__ value must be entered in the __Refund account ID__ field, and the __Key value__ in the __Refund account key__.
 
@@ -202,9 +202,9 @@ To configure the easypay affiliation, follow the steps below:
 
 To process payments with Apple Pay on easypay, you must first perform configurations to enable your store in the Apple Pay environment. Learn more at [Setting up Merchant ID in Apple Pay](https://developers.vtex.com/docs/guides/setting-up-merchant-id-in-apple-pay).    
 
-To configure other payment methods that easypay will process, read the [Configuring payment conditions](https://help.vtex.com/en/tutorial/how-to-configure-payment-conditions) article.
+To configure other payment methods that easypay will process, read the [Configuring payment conditions](/en/tutorial/how-to-configure-payment-conditions) article.
 
-To set special conditions for payment methods, read [Configuring payment special conditions](https://help.vtex.com/en/tutorial/special-conditions--tutorials_456).
+To set special conditions for payment methods, read [Configuring payment special conditions](/en/tutorial/special-conditions--tutorials_456).
 
 After following the instructions, it can take up to 10 minutes for the easypay connector to be displayed as a payment option at your store checkout.  
 

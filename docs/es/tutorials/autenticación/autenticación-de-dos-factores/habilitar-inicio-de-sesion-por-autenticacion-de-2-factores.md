@@ -23,7 +23,7 @@ Esta clave se genera cuando inicias sesión y tiene un corto período de validez
 
 > ❗ La autenticación de dos factores es **obligatoria** en el Admin VTEX.<br><br>Sin esta verificación, no es posible iniciar sesión utilizando email y contraseña.<br><br> La 2FA no es obligatoria para otros métodos de inicio de sesión (Google, Facebook o código de acceso).
 
-> ℹ️ En algunas empresas, los operadores de televentas no pueden utilizar teléfonos celulares. Por lo tanto, los usuarios que tienen únicamente el [rol de televentas (call center operator)](https://help.vtex.com/es/tutorial/perfis-de-acesso-predefinidos--jGDurZKJHvHJS13LnO7Dy#call-center-operator) no están obligados a activar la autenticación de dos factores.
+> ℹ️ En algunas empresas, los operadores de televentas no pueden utilizar teléfonos celulares. Por lo tanto, los usuarios que tienen únicamente el [rol de televentas (call center operator)](/es/tutorial/perfis-de-acesso-predefinidos--jGDurZKJHvHJS13LnO7Dy#call-center-operator) no están obligados a activar la autenticación de dos factores.
 
 ## Activar 2FA
 
@@ -75,6 +75,6 @@ Para cambiar la configuración de la verificación en dos pasos sigue las instru
 
 ## Recuperar el acceso al Admin VTEX
 
-Si pierdes el acceso al método de autenticación elegido y no puede iniciar sesión, prueba con otro método de inicio de sesión o sigue los pasos del artículo [Restablecer contraseña de acceso al Admin VTEX](https://help.vtex.com/es/tutorial/redefinir-senha-de-acesso-ao-admin-vtex--frequentlyAskedQuestions_531).
+Si pierdes el acceso al método de autenticación elegido y no puede iniciar sesión, prueba con otro método de inicio de sesión o sigue los pasos del artículo [Restablecer contraseña de acceso al Admin VTEX](/es/tutorial/redefinir-senha-de-acesso-ao-admin-vtex--frequentlyAskedQuestions_531).
 
 Después de ingresar el código de acceso y redefinir tu contraseña, podrás cambiar el método de autenticación en dos pasos siguiendo las instrucciones de esta guía.

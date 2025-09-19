@@ -55,5 +55,5 @@ Después de llenar los campos requeridos, aparecerán las fichas disponibles par
 
    Estos trés pasos pueden ser repetidos hasta que se tenga el formulario en el formato que se desea. Es posible registrar varios campos en la misma columna así cómo es posible crear varias secciones. 
 
-- **Consultas:** Sirve solamente para exhibir las [consultas creadas en la lista](https://help.vtex.com/es/tutorial/creando-una-cconsulta-customizada-en-el-vtex-master-data--tutorials_799).
+- **Consultas:** Sirve solamente para exhibir las [consultas creadas en la lista](/es/tutorial/creando-una-cconsulta-customizada-en-el-vtex-master-data--tutorials_799).
 - **Hoja de estilo:** La sección para registrar los estilos (CSS) para la edición del frontend del formulario.

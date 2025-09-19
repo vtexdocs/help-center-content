@@ -39,7 +39,7 @@ Você deve acionar a equipe responsável pelo desenvolvimento do seu site para s
 
 Para acessar o ambiente Beta, siga os procedimentos abaixo de acordo com a versão do Admin (V3 ou V4) utilizada em sua loja:
 
-- **Admin V3**: [Acessar o ambiente beta pelo domínio myvtex.com](https://help.vtex.com/pt/tutorial/acessar-o-ambiente-beta-pelo-dominio-myvtex-com--3BHM289568gcSwk2O80Asu)
+- **Admin V3**: [Acessar o ambiente beta pelo domínio myvtex.com](/pt/tutorial/acessar-o-ambiente-beta-pelo-dominio-myvtex-com--3BHM289568gcSwk2O80Asu)
 
 - **Admin V4**: habilite temporariamente o cookie `vtex-commerce-env` da seguinte forma:
 

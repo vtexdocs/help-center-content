@@ -51,7 +51,7 @@ Se debe realizar esta configuración nada más si usted desea recibir la clave d
 
 Aquí, usted debe configurar la aplicación que proporcionará la clave de autenticación.
 
-Vea en detalle cómo configurar la aplicación en el artículo [Habilitar inicio de sesión por autenticación de 2 factores](https://help.vtex.com/es/tutorial/habilitar-login-por-autenticacao-de-2-fatores).
+Vea en detalle cómo configurar la aplicación en el artículo [Habilitar inicio de sesión por autenticación de 2 factores](/es/tutorial/habilitar-login-por-autenticacao-de-2-fatores).
 
 ![Configuração Verificação em 2 passos User Management ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/gesti%C3%B3n-de-la-cuenta/usuarios/configurar-datos-personales-en-la-pantalla-de-usuario_6.png)
 

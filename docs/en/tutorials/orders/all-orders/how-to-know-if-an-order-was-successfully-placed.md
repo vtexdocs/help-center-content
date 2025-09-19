@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 2t00bBkcAwIkgSCGKsMOwY
 ---
 
-One of the ways to find out if an order was successfully placed is to check whether its corresponding [transactional emails](https://help.vtex.com/en/tracks/e-mails-transacionais--6IkJwttMw5T84mlY9RifRP/5uvq01BDu6nnDEJpseR1aH) have been sent to the customer. To do so, follow these steps:
+One of the ways to find out if an order was successfully placed is to check whether its corresponding [transactional emails](/en/tracks/e-mails-transacionais--6IkJwttMw5T84mlY9RifRP/5uvq01BDu6nnDEJpseR1aH) have been sent to the customer. To do so, follow these steps:
 
 1. In the VTEX Admin, go to **Orders > All Orders**, or type **All Orders** in the search bar at the top of the page.
 2. Select the desired order.

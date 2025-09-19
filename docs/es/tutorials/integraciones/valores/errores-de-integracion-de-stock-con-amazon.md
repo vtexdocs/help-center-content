@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 7lxg0kyL3TYIsrlSQlf1zP
 ---
 
-A veces se producen errores de integración de _stock_ en los _marketplaces_ para los que VTEX ha desarrollado un [conector nativo](https://help.vtex.com/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-con-un-conector-nativo-vtex). Este artículo reúne los errores más frecuentes de integración de _stock_ con Amazon y explica cómo resolverlos.
+A veces se producen errores de integración de _stock_ en los _marketplaces_ para los que VTEX ha desarrollado un [conector nativo](/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-con-un-conector-nativo-vtex). Este artículo reúne los errores más frecuentes de integración de _stock_ con Amazon y explica cómo resolverlos.
 
 Hay mensajes que identifican cuáles son los errores. Puedes verlos en el Admin VTEX, en **MARKETPLACE > Conexiones > Stock**, haciendo clic en el mensaje de proceso con error.
 
@@ -39,7 +39,7 @@ ____
 
 **Mensaje traducido:** Este SKU no está en el catálogo de Amazon. Si recibes este mensaje después de enviar un fichero de inventario de varios marketplaces y el marketplace indicado en este error es diferente del _marketplace_ al que enviaste tu fichero, este error es una indicación de que la página de detalles de este ítem no existe en el marketplace indicado. Amazon está intentando crear la página de detalles para este ítem en tu nombre. Si tiene éxito, tu _listing_ se creará en el marketplace indicado en un plazo de 48 horas.
 
-Este mensaje indica una falla al exportar el SKU al catálogo de Amazon, probablemente porque la plantilla de mapeo no se ha rellenado correctamente para ese SKU. Esto imposibilita la integración del _stock_ con Amazon. Primero tienes que volver a exportar la categoría a la que pertenece el SKU. Para ello, consulta el artículo [Envío de productos a Amazon](https://help.vtex.com/es/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD). A continuación, [actualiza tu stock](https://help.vtex.com/es/tutorial/como-atualizar-estoque--2MDwYV1COA6YuoiY22AyGo). Esto se reflejará automáticamente en Amazon, por lo que no es necesario volver a procesar manualmente el error.
+Este mensaje indica una falla al exportar el SKU al catálogo de Amazon, probablemente porque la plantilla de mapeo no se ha rellenado correctamente para ese SKU. Esto imposibilita la integración del _stock_ con Amazon. Primero tienes que volver a exportar la categoría a la que pertenece el SKU. Para ello, consulta el artículo [Envío de productos a Amazon](/es/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD). A continuación, [actualiza tu stock](/es/tutorial/como-atualizar-estoque--2MDwYV1COA6YuoiY22AyGo). Esto se reflejará automáticamente en Amazon, por lo que no es necesario volver a procesar manualmente el error.
 
 ____
 
@@ -96,6 +96,6 @@ Estos errores se deben a problemas con _tokens_. Amazon puede considerar que un 
 <br></br>
 ### Sepa más
 
-- [Integración de Amazon](https://help.vtex.com/es/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP)
-- [Control de stock mínimo para integraciones](https://help.vtex.com/es/tutorial/controle-de-estoque-minimo-para-integracoes--5hvUNIiSeJ5QCaZQYpYf1D)
-- [Configurar la Alerta de Stock Crítico](https://help.vtex.com/es/tutorial/configurar-o-alerta-de-estoque-critico--6FD0GHeQPCsKIMgkQ88SGu)
+- [Integración de Amazon](/es/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP)
+- [Control de stock mínimo para integraciones](/es/tutorial/controle-de-estoque-minimo-para-integracoes--5hvUNIiSeJ5QCaZQYpYf1D)
+- [Configurar la Alerta de Stock Crítico](/es/tutorial/configurar-o-alerta-de-estoque-critico--6FD0GHeQPCsKIMgkQ88SGu)

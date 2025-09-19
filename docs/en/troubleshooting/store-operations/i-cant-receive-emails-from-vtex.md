@@ -20,7 +20,7 @@ tags:
   - Authentication token
 ---
 
-Through the [Message Center](https://help.vtex.com/en/tutorial/understanding-the-message-center--tutorials_84), VTEX allows merchants to customize email templates to be sent to users. These emails can be used to convey the following information:
+Through the [Message Center](/en/tutorial/understanding-the-message-center--tutorials_84), VTEX allows merchants to customize email templates to be sent to users. These emails can be used to convey the following information:
 - In-store authentication token
 -	Notification for creating and paying orders
 - Data export confirmation
@@ -48,7 +48,7 @@ If your store has a customized sender in addition to the standard __VTEX-DEFAULT
 
 ### Configuring a mail server
 
-On VTEX, you can use the native mail server or [configure an external SMTP server](https://help.vtex.com/en/tutorial/customizing-the-vtex-smtp--tutorials_2733). If you are using an external SMTP server, see the scenarios below.
+On VTEX, you can use the native mail server or [configure an external SMTP server](/en/tutorial/customizing-the-vtex-smtp--tutorials_2733). If you are using an external SMTP server, see the scenarios below.
 
 #### Configuring SMTP in the VTEX Admin
 
@@ -63,7 +63,7 @@ After the test, if the message from VTEX has not been sent to the email address 
 
 #### Configuring SPF (Sender Policy Framework)
 
-Check if the external SMTP server is configured according to the [SPF system](https://help.vtex.com/en/tutorial/best-practices-on-spf--42t0lkl2VyC6Yewc4wA6wI), which prevents unauthorized servers from sending emails on behalf of a specific domain. You can configure [SPF](https://developers.vtex.com/docs/guides/setting-up-the-spf) and [DKIM](https://developers.vtex.com/docs/guides/setting-up-dkim-for-transactional-emails) (DomainKeys Identified Mail) on the server if necessary.
+Check if the external SMTP server is configured according to the [SPF system](/en/tutorial/best-practices-on-spf--42t0lkl2VyC6Yewc4wA6wI), which prevents unauthorized servers from sending emails on behalf of a specific domain. You can configure [SPF](https://developers.vtex.com/docs/guides/setting-up-the-spf) and [DKIM](https://developers.vtex.com/docs/guides/setting-up-dkim-for-transactional-emails) (DomainKeys Identified Mail) on the server if necessary.
 
 > ⚠️ Check your spam folder to ensure that VTEX emails are not being sent there. This may be due to internal mail server rules.
 

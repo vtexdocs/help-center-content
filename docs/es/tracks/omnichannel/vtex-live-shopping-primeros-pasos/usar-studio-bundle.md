@@ -15,7 +15,7 @@ trackSlugEN: vtex-live-shopping-primeros-pasos
 order: 8
 ---
 
-> ℹ️ Si deseas utilizar un estudio que no sea Bundle, consulta [Utilizar estudio externo de transmisión](https://help.vtex.com/es/tracks/vtex-live-shopping-primeros-pasos--3eCHNCIx8XhZOSmX0sQT3U/3GKzrP9nkyRwpUyyeYUaeX)
+> ℹ️ Si deseas utilizar un estudio que no sea Bundle, consulta [Utilizar estudio externo de transmisión](/es/tracks/vtex-live-shopping-primeros-pasos--3eCHNCIx8XhZOSmX0sQT3U/3GKzrP9nkyRwpUyyeYUaeX)
 
 El estudio de transmisión de VTEX se llama **Bundle**. En este artículo aprenderás a configurar todos los ajustes necesarios en nuestra solución de estudio nativa.
 
@@ -25,7 +25,7 @@ Para acceder al estudio en el Admin VTEX y comenzar a transmitir en vivo, accede
 
 ![article_8_streaming_studio_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/omnichannel/vtex-live-shopping-primeros-pasos/usar-studio-bundle_1.png)
 
-> ℹ️ Para activar los campos, el evento tiene que estar [iniciado](https://help.vtex.com/es/tracks/vtex-live-shopping-primeros-pasos--3eCHNCIx8XhZOSmX0sQT3U/6NrWRLAJEHijcd6tLIWoqq) para cambiarlo a status `En vivo`.
+> ℹ️ Para activar los campos, el evento tiene que estar [iniciado](/es/tracks/vtex-live-shopping-primeros-pasos--3eCHNCIx8XhZOSmX0sQT3U/6NrWRLAJEHijcd6tLIWoqq) para cambiarlo a status `En vivo`.
 
 Los ajustes de esta sección permiten las siguientes acciones:
 
@@ -36,11 +36,11 @@ Tanto los anfitriones que usen el link generado con el botón `Copiar invitació
 
 ## My studio
 
-En la página de **Device settings**, cuando haces clic en `Enter the studio`, se te redirige a la página de **My studio**, como se muestra en el ejemplo a continuación en el [layout](https://help.vtex.com/es/tracks/vtex-live-shopping-primeros-pasos--3eCHNCIx8XhZOSmX0sQT3U/125yr6jAfwiiz84JP4ppfO#tipo-de-layout-configurar-el-estilo) vertical:
+En la página de **Device settings**, cuando haces clic en `Enter the studio`, se te redirige a la página de **My studio**, como se muestra en el ejemplo a continuación en el [layout](/es/tracks/vtex-live-shopping-primeros-pasos--3eCHNCIx8XhZOSmX0sQT3U/125yr6jAfwiiz84JP4ppfO#tipo-de-layout-configurar-el-estilo) vertical:
 
 ![article_8_my_studio_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/omnichannel/vtex-live-shopping-primeros-pasos/usar-studio-bundle_2.png)
 
-> ⚠️ Antes de transmitir desde Bundle, debes seleccionar el [tipo de layout](https://help.vtex.com/es/tracks/vtex-live-shopping-primeros-pasos--3eCHNCIx8XhZOSmX0sQT3U/125yr6jAfwiiz84JP4ppfO#tipo-de-layout-configurar-el-estilo) deseado para la pantalla. Después de entrar a la página de **My Studio**, no puedes cambiar el layout del evento. Para cambiarlo, tendrías que crear un nuevo evento.
+> ⚠️ Antes de transmitir desde Bundle, debes seleccionar el [tipo de layout](/es/tracks/vtex-live-shopping-primeros-pasos--3eCHNCIx8XhZOSmX0sQT3U/125yr6jAfwiiz84JP4ppfO#tipo-de-layout-configurar-el-estilo) deseado para la pantalla. Después de entrar a la página de **My Studio**, no puedes cambiar el layout del evento. Para cambiarlo, tendrías que crear un nuevo evento.
 
 El menú de navegación a la izquierda tiene las siguientes secciones (solo administradores, excepto Chat private):
 
@@ -60,7 +60,7 @@ En la opción de menú **My studio**, los números del 1 al 5 indican los ajuste
 * **2. Activar/desactivar micrófono:** controla tu configuración de micrófono.
 * **3. Activar/desactivar cámara:** enciende y apaga tu cámara.
 * **4. Compartir pantalla:** permite al anfitrión (incluyendo invitados/influenciadores) compartir su pantalla y elegir la ventana o pantalla que desea mostrar.
-* **5. Finalizar reunión:** abre dos opciones para finalizar la transmisión: una que finaliza el evento para todos y remueve a todos los participantes del estudio, y otra donde solo el usuario sale de la reunión. Consulta más detalles en la sección [Finalizar la transmisión](https://help.vtex.com/es/tracks/vtex-live-shopping-primeros-pasos--3eCHNCIx8XhZOSmX0sQT3U/69PX90vv4oDWQ34nnBkiQt#finalizar-la-transmision).
+* **5. Finalizar reunión:** abre dos opciones para finalizar la transmisión: una que finaliza el evento para todos y remueve a todos los participantes del estudio, y otra donde solo el usuario sale de la reunión. Consulta más detalles en la sección [Finalizar la transmisión](/es/tracks/vtex-live-shopping-primeros-pasos--3eCHNCIx8XhZOSmX0sQT3U/69PX90vv4oDWQ34nnBkiQt#finalizar-la-transmision).
 
 ### Ajustes restringidos a administradores
 
@@ -98,7 +98,7 @@ El nombre se mostrará en letras blancas sobre un fondo oscuro y no se puede cam
 
 ### Dimensiones del recurso
 
-La tabla a continuación describe el formato y límite para cada tipo de recurso en el estudio Bundle, según la configuración del [layout](https://help.vtex.com/es/tracks/vtex-live-shopping-primeros-pasos--3eCHNCIx8XhZOSmX0sQT3U/125yr6jAfwiiz84JP4ppfO#tipo-de-layout-configurar-el-estilo):
+La tabla a continuación describe el formato y límite para cada tipo de recurso en el estudio Bundle, según la configuración del [layout](/es/tracks/vtex-live-shopping-primeros-pasos--3eCHNCIx8XhZOSmX0sQT3U/125yr6jAfwiiz84JP4ppfO#tipo-de-layout-configurar-el-estilo):
 
 | **Tipo de recurso** | **Información general** | **Vista horizontal (16:9)** | **Vista vertical (9:16)** |
 | :---: | :--- | :---: | :---: |
@@ -140,9 +140,9 @@ Para conectar diferentes cuentas VTEX a la misma transmisión de evento, cada cu
 
 **Cuenta A:**
 
-1. [Crea](https://help.vtex.com/es/tracks/vtex-live-shopping-primeros-pasos--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv) un evento.
+1. [Crea](/es/tracks/vtex-live-shopping-primeros-pasos--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv) un evento.
 2. En la página **Eventos**, haz clic en el botón de flecha del evento para acceder a la página **Información del evento**.
-3. [Inicia](https://help.vtex.com/es/tracks/vtex-live-shopping-primeros-pasos--3eCHNCIx8XhZOSmX0sQT3U/6NrWRLAJEHijcd6tLIWoqq) el evento.
+3. [Inicia](/es/tracks/vtex-live-shopping-primeros-pasos--3eCHNCIx8XhZOSmX0sQT3U/6NrWRLAJEHijcd6tLIWoqq) el evento.
 4. En la sección [Estudio de streaming](#estudio-de-streaming), haz clic en `Acceder`.
 5. Inicia sesión en el estudio Bundle.
 6. Haz clic en `Enter the studio`.
@@ -157,7 +157,7 @@ Se mostrará el siguiente mensaje de confirmación, *"A new destination has been
 
 **Cuenta B:**
 
-1. [Crea](https://help.vtex.com/es/tracks/vtex-live-shopping-primeros-pasos--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv) el evento.
+1. [Crea](/es/tracks/vtex-live-shopping-primeros-pasos--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv) el evento.
 2. En la página **Eventos**, haz clic en el botón de flecha del evento para acceder a la página **Información del evento**.
 3. [Inicia](http://link) el evento.
 4. En la sección de [Detalles](https://docs.google.com/document/d/11OTXsKkgP-DVt_YzVNpxOL8T9nXURYe48u_7UPL--0E/edit#link), copia la información de **Servidor inbound** y **Clave del servidor** y compártela con la cuenta a la que deseas conectarte, que en este caso es la Cuenta A.

@@ -22,7 +22,7 @@ Para acessar a página do Audit no Admin VTEX, acesse **Apps > Apps instalados >
 * [Buscar eventos no Audit](#buscar-eventos-no-audit)
 * [Verificar últimas buscas realizadas no Audit](#verificar-ultimas-buscas-realizadas-no-audit)
 
-> ℹ️ Para visualizar os eventos do Audit, é necessário ter um [perfil de acesso](https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) associado ao [recurso](https://help.vtex.com/pt/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3) *Insights Metrics*.
+> ℹ️ Para visualizar os eventos do Audit, é necessário ter um [perfil de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) associado ao [recurso](/pt/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3) *Insights Metrics*.
 
 ![audit-ui-pt 1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/seguran%C3%A7a/recursos-de-seguran%C3%A7a-da-plataforma/audit_1.png)
 
@@ -40,7 +40,7 @@ Confira o passo a passo para buscar por um evento utilizando os filtros disponí
 
    > ℹ️ Apenas registros dos últimos três meses são armazenados.
 
-4. Se desejar, inclua um filtro por Ação. Para isso, no campo ao lado de `Ação deve ser`, digite o nome da ação e tecle `Enter`. Você pode inserir mais de um valor teclando `Enter` após cada seleção. Confira o nome de cada ação em [Eventos disponíveis no Audit](https://help.vtex.com/pt/tutorial/events-available-in-audit--6r1Mzcu5NmkmmDLJlz9CCZ).
+4. Se desejar, inclua um filtro por Ação. Para isso, no campo ao lado de `Ação deve ser`, digite o nome da ação e tecle `Enter`. Você pode inserir mais de um valor teclando `Enter` após cada seleção. Confira o nome de cada ação em [Eventos disponíveis no Audit](/pt/tutorial/events-available-in-audit--6r1Mzcu5NmkmmDLJlz9CCZ).
 5. Se necessário, você pode adicionar filtros mais específicos para realizar a busca por eventos com mais precisão. Para isso, clique no botão `Adicionar Filtro`.
 6. Selecione o parâmetro de filtragem (_Autor_ ou _Detalhe do evento_) e informe a qual valor o parâmetro deve ser comparado. Você pode inserir mais de um valor teclando `Enter` após cada seleção.
 
@@ -66,8 +66,8 @@ A seção **Resultados** lista cada evento encontrado na busca e exibe as inform
 |---|---|
 | __Copiar__ | Botão para copiar as informações do evento exibidas na tabela para a área de transferência. |
 | __Hora do evento__ | Data e horário em que o evento ocorreu, no fuso horário do navegador ou do sistema operacional. |
-| __Ação__ | Ação realizada na aplicação selecionada para a busca. Confira as ações possíveis na [lista de eventos disponíveis no Audit](https://help.vtex.com/pt/tutorial/eventos-disponiveis-no-audit--6r1Mzcu5NmkmmDLJlz9CCZ). |
-| __Detalhe do evento__ | Informações complementares sobre o evento. Confira os detalhes exibidos para cada evento na [lista de eventos disponíveis no Audit](https://help.vtex.com/pt/tutorial/eventos-disponiveis-no-audit--6r1Mzcu5NmkmmDLJlz9CCZ). |
+| __Ação__ | Ação realizada na aplicação selecionada para a busca. Confira as ações possíveis na [lista de eventos disponíveis no Audit](/pt/tutorial/eventos-disponiveis-no-audit--6r1Mzcu5NmkmmDLJlz9CCZ). |
+| __Detalhe do evento__ | Informações complementares sobre o evento. Confira os detalhes exibidos para cada evento na [lista de eventos disponíveis no Audit](/pt/tutorial/eventos-disponiveis-no-audit--6r1Mzcu5NmkmmDLJlz9CCZ). |
 | __Autor__ | Email, ID ou token do usuário que realizou o evento. |
 | __Mais detalhes__ | Botão que abre um modal com mais informações sobre o evento, quando aplicável. Os detalhes exibidos podem incluir: <ul><li class="t-body mb5 lh-copy">**Nome da entidade:** ID da entidade modificada.</li><li class="t-body mb5 lh-copy">**Entidade antes da ação:** dados da entidade antes do evento, em formato [JSON](http://www.json.org/).</li><li class="t-body mb5 lh-copy">**Entidade após a ação:** dados da entidade após o evento, em formato [JSON](http://www.json.org/).</li></ul>A depender do evento, nem todas as informações citadas acima são exibidas. Por exemplo, um evento de exclusão de uma informação mostra apenas a entidade antes da ação. Por outro lado, um evento de criação de uma informação apresenta apenas a entidade após a ação. <br /><br /> Alguns eventos não apresentam nenhuma informação complementar. Nesses casos, o modal aparece vazio. |
 

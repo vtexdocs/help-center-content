@@ -15,7 +15,7 @@ locale: en
 subcategoryId: BBzMtJan1UTxC9QZODnlN
 ---
 
-> ℹ️ We recommend using [Synonyms](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV) instead of [Substitute Words](https://help.vtex.com/en/tutorial/otimizar-as-buscas-com-palavras-substitutas--32FqSsl5VuQyiIMEc02Uwu?&utm_source=autocomplete) to associate words with products, as synonyms allow you to manage terms per product in a more scalable way. Contact our [Support team](https://support.vtex.com/hc/pt-br/requests) for more information.
+> ℹ️ We recommend using [Synonyms](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV) instead of [Substitute Words](/en/tutorial/otimizar-as-buscas-com-palavras-substitutas--32FqSsl5VuQyiIMEc02Uwu?&utm_source=autocomplete) to associate words with products, as synonyms allow you to manage terms per product in a more scalable way. Contact our [Support team](https://support.vtex.com/hc/pt-br/requests) for more information.
 
 There are two ways to set up synonyms in VTEX Admin: [individually](#creating-synonyms-individually) or by [importing a spreadsheet in CSV format](#importing-csv-spreadsheet). If you need to register synonyms in bulk, we recommend using the spreadsheet. See the instructions for each configuration form in the following sections.
 
@@ -31,15 +31,15 @@ Follow the step-by-step procedure to configure synonyms individually in the VTEX
 2. Under **Intelligent Search**, click **Synonyms**. 
 3. Click on `Create Synonym`.
 4. Fill in the fields that correspond to the synonym:
-   - __Type:__ defines the type of synonym. Check [Types of synonyms](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV#types-of-synonyms) for more information.
+   - __Type:__ defines the type of synonym. Check [Types of synonyms](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV#types-of-synonyms) for more information.
    - __Terms:__ words or expressions to be defined as synonyms. You must press `Enter` after each term to insert another term.
-   - **Locales:** Languages to which the synonym will apply. The field is only available for stores using [Multilanguage settings (Beta)](https://help.vtex.com/en/tutorial/vtex-intelligent-search-configuracoes-multi-idioma-beta--2WahlTESLXIJ9XBdQMdTYO).
+   - **Locales:** Languages to which the synonym will apply. The field is only available for stores using [Multilanguage settings (Beta)](/en/tutorial/vtex-intelligent-search-configuracoes-multi-idioma-beta--2WahlTESLXIJ9XBdQMdTYO).
    - __Status:__ defines whether the synonym will be active or inactive.
 5. To finish, click on `Save`.
 
 Changes can take up to two hours to take effect.
 
-> ℹ️  This feature is available on VTEX Intelligent Search Multilanguage. Read our article [VTEX Intelligent Search: Multilanguage settings (Beta)](https://help.vtex.com/en/tutorial/vtex-intelligent-search-multilanguage-settings-beta--2WahlTESLXIJ9XBdQMdTYO#synonyms)to learn more.
+> ℹ️  This feature is available on VTEX Intelligent Search Multilanguage. Read our article [VTEX Intelligent Search: Multilanguage settings (Beta)](/en/tutorial/vtex-intelligent-search-multilanguage-settings-beta--2WahlTESLXIJ9XBdQMdTYO#synonyms)to learn more.
 
 ## Importing CSV spreadsheet
 
@@ -56,7 +56,7 @@ To import the file, follow the steps below:
 
 ### Synonyms spreadsheet template
 
-Each row in the spreadsheet is a synonym. Rows should follow the format that corresponds to the selected [synonym type](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV#types-of-synonyms):
+Each row in the spreadsheet is a synonym. Rows should follow the format that corresponds to the selected [synonym type](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV#types-of-synonyms):
 
  - __Unidirectional:__ `{terms separated by comma};{equivalent term};{status}`
 
@@ -89,7 +89,7 @@ Result in the VTEX Admin:
 
 #### Multilanguage stores (Beta)
 
-Stores using  [Multilanguage settings (Beta)](https://help.vtex.com/en/tutorial/vtex-intelligent-search-configuracoes-multi-idioma-beta--2WahlTESLXIJ9XBdQMdTYO) must follow the template below to import synonyms for specific locales.
+Stores using  [Multilanguage settings (Beta)](/en/tutorial/vtex-intelligent-search-configuracoes-multi-idioma-beta--2WahlTESLXIJ9XBdQMdTYO) must follow the template below to import synonyms for specific locales.
 
 - __Unidirectional__: `{terms separated by comma};{equivalent term};{status};{locales separated by comma}`
 

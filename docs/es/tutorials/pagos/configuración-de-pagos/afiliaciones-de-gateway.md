@@ -35,13 +35,13 @@ Para agregar un nuevo proveedor de pago o antifraude a tu tienda, sigue los paso
 5. Si aparece un mensaje de alerta que diga que se debe instalar la aplicación, haz clic en el botón __Instalar aplicación__ y sigue las instrucciones de instalación. El mensaje solo se muestra en algunos tipos de proveedores de gateway.
 6. Haz clic en `Guardar`.
 
-> ℹ️ Si hay otros campos que rellenar además de Clave de aplicación y Token de aplicación (paso 6), la configuración del proveedor de gateway se debe llevar a cabo siguiendo el tutorial correspondiente. Para más información, consulta la subsección [Configuración de Pagos](https://help.vtex.com/es/subcategory/configuracion-de-pagos--3tDGibM2tqMyqIyukqmmMw).
+> ℹ️ Si hay otros campos que rellenar además de Clave de aplicación y Token de aplicación (paso 6), la configuración del proveedor de gateway se debe llevar a cabo siguiendo el tutorial correspondiente. Para más información, consulta la subsección [Configuración de Pagos](/es/subcategory/configuracion-de-pagos--3tDGibM2tqMyqIyukqmmMw).
 
-> ❗ Las credenciales utilizadas para rellenar los campos Clave de aplicación y Token de aplicación las debe informar el proveedor de pago para identificar la tienda. No se deben utilizar las credenciales [generadas en el Admin](https://help.vtex.com/es/tutorial/claves-de-aplicacion--2iffYzlvvz4BDMr6WGUtet), que empiezan por `vtexappkey-`.
+> ❗ Las credenciales utilizadas para rellenar los campos Clave de aplicación y Token de aplicación las debe informar el proveedor de pago para identificar la tienda. No se deben utilizar las credenciales [generadas en el Admin](/es/tutorial/claves-de-aplicacion--2iffYzlvvz4BDMr6WGUtet), que empiezan por `vtexappkey-`.
 
-Para configurar los medios de pago que el proveedor escogido procesará, accede a [Configurar condiciones de pago](https://help.vtex.com/es/tutorial/condiciones-de-pago--tutorials_455). 
+Para configurar los medios de pago que el proveedor escogido procesará, accede a [Configurar condiciones de pago](/es/tutorial/condiciones-de-pago--tutorials_455). 
 
-Para definir condiciones especiales para los medios de pago, accede a [Configurar condiciones especiales de Pago](https://help.vtex.com/es/tutorial/condiciones-especiales--tutorials_456).
+Para definir condiciones especiales para los medios de pago, accede a [Configurar condiciones especiales de Pago](/es/tutorial/condiciones-especiales--tutorials_456).
 
 ![interface_provedor_ES_2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/configuraci%C3%B3n-de-pagos/afiliaciones-de-gateway_2.JPG)
 

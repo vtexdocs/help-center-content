@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisEN: "VTEX Shield now offers custom SSL certificates and mTLS, expanding the platform's set of advanced security features."
 ---
 
-[VTEX Shield](https://help.vtex.com/en/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh) is an add-on product that provides customizable security layers for your store in addition to the security standards guaranteed by existing [certifications and security practices](https://vtex.com/us-en/security/security-practices/) on VTEX.
+[VTEX Shield](/en/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh) is an add-on product that provides customizable security layers for your store in addition to the security standards guaranteed by existing [certifications and security practices](https://vtex.com/us-en/security/security-practices/) on VTEX.
 
 We've enhanced the advanced security features offered by VTEX Shield. Now, you can request two new features:
 
@@ -27,23 +27,23 @@ These new features increase control over system communication, meeting security 
 
 ## What has changed?
 
-VTEX Shield already offered [Web Application Firewall (WAF)](https://help.vtex.com/en/tutorial/web-application-firewall-waf--6BZYLlU03ws72iqIFF6jdn), [Security Monitor](https://help.vtex.com/en/tutorial/security-monitor--5LOVNLrrtmgSj99pM1NS4x), and [Data Protection Plus](https://help.vtex.com/en/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh#data-protection-plus) as additional security layers. Now, you can also select custom SSL certificates and the mTLS protocol, as described below.
+VTEX Shield already offered [Web Application Firewall (WAF)](/en/tutorial/web-application-firewall-waf--6BZYLlU03ws72iqIFF6jdn), [Security Monitor](/en/tutorial/security-monitor--5LOVNLrrtmgSj99pM1NS4x), and [Data Protection Plus](/en/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh#data-protection-plus) as additional security layers. Now, you can also select custom SSL certificates and the mTLS protocol, as described below.
 
 ### Custom SSL certificates
 
-By default, VTEX uses [SSL certificates](https://help.vtex.com/pt/tutorial/security-certificate-ssl--tutorials_1308) from the [Let's Encrypt](https://letsencrypt.org/) certificate authority. However, some stores need to maintain direct control over digital certificates to meet specific compliance or security requirements.
+By default, VTEX uses [SSL certificates](/pt/tutorial/security-certificate-ssl--tutorials_1308) from the [Let's Encrypt](https://letsencrypt.org/) certificate authority. However, some stores need to maintain direct control over digital certificates to meet specific compliance or security requirements.
 
 With custom SSL certificates, stores with specific security or compliance needs can install and manage their own custom certificates directly through the VTEX Admin.
 
-Learn more in [Custom SSL certificates](https://help.vtex.com/pt/tutorial/custom-ssl-certificates--1hoaDEbU50PDZSe6AYep9q).
+Learn more in [Custom SSL certificates](/pt/tutorial/custom-ssl-certificates--1hoaDEbU50PDZSe6AYep9q).
 
 ### Mutual Transport Layer Security (mTLS)
 
 The mTLS protocol offers enhanced protection in integrations between VTEX and external systems, such as ERPs, WMSs, or headless stores.
 
-Unlike the traditional TLS protocol, where only the server proves its identity, mTLS ensures mutual authentication by requiring [both the client and the server to present valid certificates](https://help.vtex.com/en/tutorial/mutual-transport-layer-security-mtls--6YR3SoynJMfeEKGlY1Cqlo#client-server-architecture) before exchanging information. This practice reduces the risk of malicious or unauthorized connections.
+Unlike the traditional TLS protocol, where only the server proves its identity, mTLS ensures mutual authentication by requiring [both the client and the server to present valid certificates](/en/tutorial/mutual-transport-layer-security-mtls--6YR3SoynJMfeEKGlY1Cqlo#client-server-architecture) before exchanging information. This practice reduces the risk of malicious or unauthorized connections.
 
-Learn more in [Mutual Transport Layer Security (mTLS)](https://help.vtex.com/en/tutorial/mutual-transport-layer-security-mtls--6YR3SoynJMfeEKGlY1Cqlo).
+Learn more in [Mutual Transport Layer Security (mTLS)](/en/tutorial/mutual-transport-layer-security-mtls--6YR3SoynJMfeEKGlY1Cqlo).
 
 ## Why did we make this change?
 
@@ -59,6 +59,6 @@ These features align VTEX Shield with the most advanced market practices and add
 
 ## What needs to be done?
 
-If you're already a VTEX client and want to enable custom SSL certificates, mTLS, or other VTEX Shield features in your store, contact [Commercial Support](https://help.vtex.com/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ) to request activation and complete the necessary configuration. Additional fees may apply.
+If you're already a VTEX client and want to enable custom SSL certificates, mTLS, or other VTEX Shield features in your store, contact [Commercial Support](/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ) to request activation and complete the necessary configuration. Additional fees may apply.
 
 If you're not a VTEX client but are interested in these features, please complete our [contact form](https://vtex.com/us-en/contact/).

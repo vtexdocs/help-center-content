@@ -32,7 +32,7 @@ This section includes the following information:
 
 |**Characteristic**|**Description**|
 | - | - |
-|**Data source**|The data in this set comes from the [VTEX Payments module](https://help.vtex.com/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/kdPbEIWf8Xq8tESQvViMB). It can be collected and organized to reflect the transactions and payments completed on the platform.|
+|**Data source**|The data in this set comes from the [VTEX Payments module](/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/kdPbEIWf8Xq8tESQvViMB). It can be collected and organized to reflect the transactions and payments completed on the platform.|
 |**Availability**|Navigation data can only be accessed through the VTEX Admin.|
 |**History**|The data is retained for two years, from 2023 for clients who already use the VTEX platform. The data in the `transaction_interactions` table only has history since May 2024 and the data in `authorizations_consolidated` only since June 2023.|
 |**Minimum update interval**|One hour.|
@@ -193,16 +193,16 @@ The payment dataset can be used for the following analyses:
 
 The payment data of the VTEX platform has correlations with other datasets which give more insight into the purchase cycle:  
 
-- **Interaction with [order](https://help.vtex.com/tutorial/pedidos-data-pipeline-beta--2f3GlRJ5L5IRGVIxOmzrFv) data:** Analyzing payment data alongside orders offers insights into how payment methods influence order conversions and reveal trends in customer purchasing behavior.    
+- **Interaction with [order](/tutorial/pedidos-data-pipeline-beta--2f3GlRJ5L5IRGVIxOmzrFv) data:** Analyzing payment data alongside orders offers insights into how payment methods influence order conversions and reveal trends in customer purchasing behavior.    
 - **Financial and accounting analyses:** Integrating payment data with financial analyses contributes to more efficient cash flow management and enables more accurate financial forecasts, helping improve the company's financial health. 
 
 ### Discover other datasets
 
-- [Catalog](https://help.vtex.com/tutorial/catalogo-data-pipeline--7ARDELPaugrBu5dZT7Vx2b)
-- [Inventory](https://help.vtex.com/tutorial/inventario-data-pipeline-beta--2IvKMZV9SNrE6ipBRQr8h2)
-- [Navigation](https://help.vtex.com/tutorial/navegacao-data-pipeline-beta--4X4hK0zdIHN0Xn5x2MLYYd) 
-- [Orders](https://help.vtex.com/tutorial/pedidos-data-pipeline-beta--2f3GlRJ5L5IRGVIxOmzrFv)  
-- [Prices](https://help.vtex.com/tutorial/precos-data-pipeline-beta--3NMGJ8dtv73Bwvo9PSz1fz)  
-- [Promotion](https://help.vtex.com/tutorial/promocoes-data-pipeline-beta--3WZ1syNucDFdvVhfKtA6Qd)  
-- [Gift cards](https://help.vtex.com/pt/tutorial/vale-presente-data-pipeline--4XAnyc4scy3OG6RdnD7OEf)
-- [Bridge logs](https://help.vtex.com/tutorial/logs-do-bridge-data-pipeline--2RFVJZL19nsWBSB4IXA0Z)
+- [Catalog](/tutorial/catalogo-data-pipeline--7ARDELPaugrBu5dZT7Vx2b)
+- [Inventory](/tutorial/inventario-data-pipeline-beta--2IvKMZV9SNrE6ipBRQr8h2)
+- [Navigation](/tutorial/navegacao-data-pipeline-beta--4X4hK0zdIHN0Xn5x2MLYYd) 
+- [Orders](/tutorial/pedidos-data-pipeline-beta--2f3GlRJ5L5IRGVIxOmzrFv)  
+- [Prices](/tutorial/precos-data-pipeline-beta--3NMGJ8dtv73Bwvo9PSz1fz)  
+- [Promotion](/tutorial/promocoes-data-pipeline-beta--3WZ1syNucDFdvVhfKtA6Qd)  
+- [Gift cards](/pt/tutorial/vale-presente-data-pipeline--4XAnyc4scy3OG6RdnD7OEf)
+- [Bridge logs](/tutorial/logs-do-bridge-data-pipeline--2RFVJZL19nsWBSB4IXA0Z)

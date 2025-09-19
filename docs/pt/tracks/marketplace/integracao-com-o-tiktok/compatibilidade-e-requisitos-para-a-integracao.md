@@ -19,7 +19,7 @@ Para configurar e começar a usar a integração entre o TikTok e a VTEX, é ess
 
 ## Compatibilidade
 
-O TikTok for Business tem compatibilidade total com lojas que utilizam [VTEX IO](https://help.vtex.com/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2) e compatibilidade parcial com lojas que utilizam o [CMS Legado](https://help.vtex.com/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj) ou [Headless](https://faststore.dev/tutorials/cms/0#vtex-headless-cms).
+O TikTok for Business tem compatibilidade total com lojas que utilizam [VTEX IO](/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2) e compatibilidade parcial com lojas que utilizam o [CMS Legado](/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj) ou [Headless](https://faststore.dev/tutorials/cms/0#vtex-headless-cms).
 
 A única diferença é que, em lojas VTEX IO, instalar e configurar o TikTok for Business faz com que o Pixel do TikTok seja inserido automaticamente. Por outro lado, lojas que utilizam o CMS Legado ou Headless precisam [configurar o Pixel do TikTok de forma manual](https://developers.vtex.com/vtex-developer-docs/docs/vtexbr-tiktok-tbp#manual-tiktok-pixel-configuration), seguindo a [documentação do TikTok](https://ads.tiktok.com/help/article?aid=10000357) para inserir o código no Google Tag Manager.
 

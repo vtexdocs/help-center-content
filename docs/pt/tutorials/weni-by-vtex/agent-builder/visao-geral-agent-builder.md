@@ -19,7 +19,7 @@ O **Agent Builder** é uma ferramenta de conversação com o cliente baseada em 
 
 A funcionalidade se concentra em um agente orquestrador, que é o ponto de contato com o cliente e assume o controle do chat. Esse orquestrador aciona agentes colaboradores que retornam dados e informações conforme as necessidades do usuário.
 
-> ℹ️ Para saber mais sobre os agentes colaboradores, leia o artigo [Agentes oficiais da Weni by VTEX](https://help.vtex.com/pt/tutorial/agentes-oficiais-da-weni-by-vtex--7E8wlD3T41CiOexDVH1SIy).
+> ℹ️ Para saber mais sobre os agentes colaboradores, leia o artigo [Agentes oficiais da Weni by VTEX](/pt/tutorial/agentes-oficiais-da-weni-by-vtex--7E8wlD3T41CiOexDVH1SIy).
 
 Além de atribuir e testar esses agentes, você também pode criar agentes próprios que atendam a necessidades específicas da sua empresa.
 
@@ -90,7 +90,7 @@ Ao final, para salvar as características do seu agente, clique no botão `Salva
 
 Nessa página, você pode atribuir e testar agentes para a sua loja.
 
-Para entender como fazer isso, leia o artigo [Como atribuir e testar um agente](https://help.vtex.com/pt/tutorial/atribuir-e-testar-agentes-no-agent-builder--41beBpRcBouxMywt6dUW2z).
+Para entender como fazer isso, leia o artigo [Como atribuir e testar um agente](/pt/tutorial/atribuir-e-testar-agentes-no-agent-builder--41beBpRcBouxMywt6dUW2z).
 
 ### Conhecimento
 
@@ -158,7 +158,7 @@ Na caixa de texto **Quando o agente deve transferir a conversa para um humano?**
 
 Nessa seção, você pode visualizar as credenciais utilizadas pelos agentes oficiais e personalizados.
 
-> ℹ️ Leia mais sobre o assunto no artigo [Agentes oficiais da Weni by VTEX](https://help.vtex.com/pt/tutorial/agentes-oficiais-da-weni-by-vtex--7E8wlD3T41CiOexDVH1SIy).
+> ℹ️ Leia mais sobre o assunto no artigo [Agentes oficiais da Weni by VTEX](/pt/tutorial/agentes-oficiais-da-weni-by-vtex--7E8wlD3T41CiOexDVH1SIy).
 
 #### Histórico de alterações
 

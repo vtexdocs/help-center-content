@@ -30,7 +30,7 @@ This  Conversation Tracker offers several other advantages, mainly in terms of s
 
 - Emails sent by any other system are encrypted, preventing direct access to your customer's email address.
 - Any communication using encrypted emails is recorded in the corresponding order's details.
-- This email address is valid until the end of the [order flow](https://help.vtex.com/en/tutorial/fluxo-e-status-de-pedidos--tutorials_196), when the order is invoiced or canceled. Therefore, it must not be used to trigger newsletters or email marketing. This validity is an additional security measure since, if the information is stolen, its validity is confined to this period.
+- This email address is valid until the end of the [order flow](/en/tutorial/fluxo-e-status-de-pedidos--tutorials_196), when the order is invoiced or canceled. Therefore, it must not be used to trigger newsletters or email marketing. This validity is an additional security measure since, if the information is stolen, its validity is confined to this period.
 
 To gain access to your customers’ email addresses for marketing purposes, use the **Master Data** module.
 

@@ -25,11 +25,11 @@ Confira abaixo mais detalhes sobre as diferentes seções e páginas deste menu.
 Nesta seção será possível criar promoções, audiência de campanhas, vale-compras e taxas.  
 
 A seção inclui a seguinte página, já no novo design:
-- [Promoções](https://help.vtex.com/pt/v4/docs/lista-de-promocoes--5LtzPm5kQdRVI06KXHE0Td): descontos oferecidos aos clientes a partir de critérios específicos.   
+- [Promoções](/pt/v4/docs/lista-de-promocoes--5LtzPm5kQdRVI06KXHE0Td): descontos oferecidos aos clientes a partir de critérios específicos.   
 
 Em breve no novo design:
 
-- [Audiência de campanhas](https://help.vtex.com/pt/tutorial/criar-audiencia-de-campanhas--6cnuDZJzIkIeocewAQQK4K): definições de público-alvo que podem ser utilizados como um critério de promoção.   
-- [Vale-presentes](https://help.vtex.com/pt/tutorial/gift-card--tutorials_995): considerado uma forma de pagamento na plataforma VTEX.   
-- [Taxa](https://help.vtex.com/pt/tutorial/como-criar-taxaimposto--tutorials_321): um adicional percentual inserido no preço do produto, visando aumentar o valor.  
+- [Audiência de campanhas](/pt/tutorial/criar-audiencia-de-campanhas--6cnuDZJzIkIeocewAQQK4K): definições de público-alvo que podem ser utilizados como um critério de promoção.   
+- [Vale-presentes](/pt/tutorial/gift-card--tutorials_995): considerado uma forma de pagamento na plataforma VTEX.   
+- [Taxa](/pt/tutorial/como-criar-taxaimposto--tutorials_321): um adicional percentual inserido no preço do produto, visando aumentar o valor.  
 

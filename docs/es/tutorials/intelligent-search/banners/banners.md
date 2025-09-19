@@ -47,7 +47,7 @@ La página contiene la siguiente información:
 
 ## Crear banner
 
-Para configurar un banner, haga clic en `Nuevo`. Más información sobre toda la información necesaria para crear un Banner en [Configurar Banners](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4ViKEivLJtJsvpaW0aqIQ5).
+Para configurar un banner, haga clic en `Nuevo`. Más información sobre toda la información necesaria para crear un Banner en [Configurar Banners](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4ViKEivLJtJsvpaW0aqIQ5).
 
 ## Buscar banner
 

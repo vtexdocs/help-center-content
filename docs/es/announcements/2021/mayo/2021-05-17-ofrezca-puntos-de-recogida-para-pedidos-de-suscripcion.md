@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisES: 'Ahora se puede elegir los puntos de recogida para pedidos de suscripción.'
 ---
 
-Ahora puede habilitar puntos de recogida para los pedidos de suscripción. Esta forma de entrega se puede elegir al crear suscripciones [durante el checkout en la tienda](https://help.vtex.com/es/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453?&utm_source=autocomplete#adicionar-produtos-para-assinatura-durante-o-checkout) o por medio de la [API de Subscriptions](https://developers.vtex.com/vtex-rest-api/reference/subscriptions-1#post_api-rns-pub-subscriptions).
+Ahora puede habilitar puntos de recogida para los pedidos de suscripción. Esta forma de entrega se puede elegir al crear suscripciones [durante el checkout en la tienda](/es/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453?&utm_source=autocomplete#adicionar-produtos-para-assinatura-durante-o-checkout) o por medio de la [API de Subscriptions](https://developers.vtex.com/vtex-rest-api/reference/subscriptions-1#post_api-rns-pub-subscriptions).
 
 La funcionalidad de puntos de recogida del módulo Suscripciones solo está disponible para las cuentas que ya tienen acceso a **Checkout V6**.
 
@@ -33,4 +33,4 @@ Ofrecer más opciones de entrega para los pedidos de suscripción permite que el
 
 ## ¿Qué se necesita hacer?
 
-Para proporcionar puntos de recogida para pedidos de suscripción, debe cumplir los requisitos logísticos indicados en el artículo [Puntos de recogida para pedidos de suscripción (Beta)](https://help.vtex.com/es/tutorial/puntos-de-recogida-para-pedidos-de-suscripcion-beta--csIqB6iBh4QNIFdEj0nVv).
+Para proporcionar puntos de recogida para pedidos de suscripción, debe cumplir los requisitos logísticos indicados en el artículo [Puntos de recogida para pedidos de suscripción (Beta)](/es/tutorial/puntos-de-recogida-para-pedidos-de-suscripcion-beta--csIqB6iBh4QNIFdEj0nVv).

@@ -15,9 +15,9 @@ locale: es
 subcategoryId: 1rA9wuuskW3PpjvMrhatAM
 ---
 
-La página de **Planes** del módulo de **Suscripciones** muestra la lista de todos los planes de suscripción configurados en su tienda, tanto los creados desde la [página de Nuevo plan](https://help.vtex.com/es/tutorial/como-criar-um-plano-de-assinatura-beta--1qGRoFczm98Wgt81f9mUqC) como [los anexos de SKU](https://help.vtex.com/es/tutorial/como-criar-um-anexo-de-assinatura--2bUuKyPflA8cOGLv8OvaKK). 
+La página de **Planes** del módulo de **Suscripciones** muestra la lista de todos los planes de suscripción configurados en su tienda, tanto los creados desde la [página de Nuevo plan](/es/tutorial/como-criar-um-plano-de-assinatura-beta--1qGRoFczm98Wgt81f9mUqC) como [los anexos de SKU](/es/tutorial/como-criar-um-anexo-de-assinatura--2bUuKyPflA8cOGLv8OvaKK). 
 
-Para que los planes de suscripción estén disponibles, primero debe instalar la aplicación Suscripciones y configurar todos los ajustes necesarios. Lea el artículo [Cómo configurar Suscripciones en su tienda](https://help.vtex.com/es/tutorial/como-configurar-assinaturas--1FA9dfE7vJqxBna9Nft5Sj) para más información.
+Para que los planes de suscripción estén disponibles, primero debe instalar la aplicación Suscripciones y configurar todos los ajustes necesarios. Lea el artículo [Cómo configurar Suscripciones en su tienda](/es/tutorial/como-configurar-assinaturas--1FA9dfE7vJqxBna9Nft5Sj) para más información.
 
 En la página de **Planes**, puede ver y gestionar los planes de suscripción disponibles para los clientes de su tienda, según se ilustra a continuación.
 
@@ -34,7 +34,7 @@ Las principales funcionalidades de esta página son:
 
 ## Crear un nuevo plan
 
-Al hacer clic en el botón `Nuevo plan`, se le dirigirá a la página de registro de un nuevo plan de suscripción. Vea el artículo [Crear un plan de suscripción (Beta)](https://help.vtex.com/es/tutorial/como-criar-um-plano-de-assinatura-beta--1qGRoFczm98Wgt81f9mUqC) para obtener más detalles sobre este proceso.
+Al hacer clic en el botón `Nuevo plan`, se le dirigirá a la página de registro de un nuevo plan de suscripción. Vea el artículo [Crear un plan de suscripción (Beta)](/es/tutorial/como-criar-um-plano-de-assinatura-beta--1qGRoFczm98Wgt81f9mUqC) para obtener más detalles sobre este proceso.
 
 ## Buscar
 
@@ -57,7 +57,7 @@ Para saber más sobre el significado de los status, consulte la sección [Inform
 Cada columna de la lista de planes de suscripción muestra información sobre el plan. A continuación se describe la información que se muestra y las acciones que se pueden realizar en la lista.
 
 * **Nombre:** muestra el nombre del plan de suscripción configurado al crear el plan. Después de guardar el nuevo plan, no puede cambiar el nombre posteriormente.
-* **Id:** muestra el identificador del plan de suscripción, que sigue el formato `vtex.subscription.{nombre}`. El ID se genera automáticamente al rellenar el nombre del plan en la [página de creación de planes de suscripción](https://help.vtex.com/es/tutorial/como-criar-um-plano-de-assinatura-beta--1qGRoFczm98Wgt81f9mUqC) y equivale al nombre del anexo de suscripción [cuando se configura manualmente](https://help.vtex.com/es/tutorial/como-criar-um-anexo-de-assinatura--2bUuKyPflA8cOGLv8OvaKK). Este campo no se puede modificar.
+* **Id:** muestra el identificador del plan de suscripción, que sigue el formato `vtex.subscription.{nombre}`. El ID se genera automáticamente al rellenar el nombre del plan en la [página de creación de planes de suscripción](/es/tutorial/como-criar-um-plano-de-assinatura-beta--1qGRoFczm98Wgt81f9mUqC) y equivale al nombre del anexo de suscripción [cuando se configura manualmente](/es/tutorial/como-criar-um-anexo-de-assinatura--2bUuKyPflA8cOGLv8OvaKK). Este campo no se puede modificar.
 * **Productos:** muestra la cantidad de productos asociados al plan de suscripción, es decir, el número de productos de su catálogo que ofrecen la opción de suscripción en el momento en que el cliente de la tienda pasa a finalizar la compra o crea una suscripción a través de __Mi Cuenta__, independientemente de la cantidad de SKU de cada producto.
 * **Status:** muestra el status actual del plan de suscripción y un botón <i class="fa-toggle-on"></i> para cambiar de un status a otro. Los status posibles son:
     * **Activo:** significa que el plan está disponible para que los clientes lo utilicen al crear nuevas suscripciones con los productos asociados.
@@ -81,4 +81,4 @@ Para navegar entre las páginas de la lista de planes de suscripción, utilice l
 
 ## Más información
 
-* [Cómo crear un plan de suscripción (Beta)](https://help.vtex.com/es/tutorial/como-criar-um-plano-de-assinatura-beta--1qGRoFczm98Wgt81f9mUqC)
+* [Cómo crear un plan de suscripción (Beta)](/es/tutorial/como-criar-um-plano-de-assinatura-beta--1qGRoFczm98Wgt81f9mUqC)

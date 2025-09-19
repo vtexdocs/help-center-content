@@ -27,9 +27,9 @@ Concluída a etapa de autenticação da sua conta, o envio de produtos para o Fa
 - Condição do Produto
 - Disponibilidade
 
-A atualização é automática, realizada sempre que há modificação em algum dos dados. Vale ressaltar que o valor _moeda_ é definido na política comercial, e que _disponibilidade_ se refere apenas se há produtos disponíveis ou não, pois não há controle de estoque. Para mais informações, veja [Como funciona a disponibilidade de estoque na página de produto](https://help.vtex.com/pt/tutorial/como-funciona-a-disponibilidade-de-estoque-na-pagina-de-produto--gyVfuG5dTyUyGA02iiU0y).
+A atualização é automática, realizada sempre que há modificação em algum dos dados. Vale ressaltar que o valor _moeda_ é definido na política comercial, e que _disponibilidade_ se refere apenas se há produtos disponíveis ou não, pois não há controle de estoque. Para mais informações, veja [Como funciona a disponibilidade de estoque na página de produto](/pt/tutorial/como-funciona-a-disponibilidade-de-estoque-na-pagina-de-produto--gyVfuG5dTyUyGA02iiU0y).
 
-Caso você queira enviar atributos de produtos para o Facebook, existe uma etapa adicional a ser realizada. Atributos são [especificações](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP) de produto, ou seja, propriedades que podem tanto estar cadastradas para produto, quanto para SKU.
+Caso você queira enviar atributos de produtos para o Facebook, existe uma etapa adicional a ser realizada. Atributos são [especificações](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP) de produto, ou seja, propriedades que podem tanto estar cadastradas para produto, quanto para SKU.
 
 A etapa adicional é a realização de um mapeamento das especificações dos produtos. O mapeamento é o que faz a correspondência entre os atributos cadastrados na sua loja VTEX e os padrões adotados pelo Facebook.
 
@@ -104,7 +104,7 @@ Essas *labels* são úteis para:
 
 ### Como configurar 
 
-É necessário criar as *custom labels* no Facebook Business Manager. Após criar as *custom labels*, siga o tutorial [Cadastrar especificações ou campos de produto](https://help.vtex.com/pt/tutorial/cadastrar-especificacoes-ou-campos-de-produto--tutorials_106) para associá-las a uma oferta específica utilizando **especificações de produtos.**  
+É necessário criar as *custom labels* no Facebook Business Manager. Após criar as *custom labels*, siga o tutorial [Cadastrar especificações ou campos de produto](/pt/tutorial/cadastrar-especificacoes-ou-campos-de-produto--tutorials_106) para associá-las a uma oferta específica utilizando **especificações de produtos.**  
 
 Ao criar o novo campo de especificação de produto preencha-os com os seguintes valores:
 

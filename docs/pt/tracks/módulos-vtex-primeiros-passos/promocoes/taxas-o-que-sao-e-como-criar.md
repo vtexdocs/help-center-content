@@ -24,5 +24,5 @@ Para criar uma taxa, siga os passos abaixo:
   1. Acesse o módulo Taxas & Promoções;
   2. Clique na aba __Taxas__;
   3. Clique no botão __Nova Taxa__;
-  4. Preencha os dados gerais da taxa, informe os itens aos quais ela será aplicada e escolha as condições de aplicação. Para saber em detalhes a função de cada campo da tela de configuração de taxas, leia o artigo [Criar taxa/imposto](https://help.vtex.com/pt/tutorial/como-criar-taxaimposto--tutorials_321);
+  4. Preencha os dados gerais da taxa, informe os itens aos quais ela será aplicada e escolha as condições de aplicação. Para saber em detalhes a função de cada campo da tela de configuração de taxas, leia o artigo [Criar taxa/imposto](/pt/tutorial/como-criar-taxaimposto--tutorials_321);
   5. Clique em __Salvar__.

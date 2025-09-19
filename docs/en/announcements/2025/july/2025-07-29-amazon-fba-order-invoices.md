@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisEN: 'Exportation of FBA order invoices is now available in the VTEX Admin.'
 ---
 
-We've created this feature to access and export FBA order invoices easily, allowing you to customize searches with more precision. The feature is available for all VTEX clients who operate as sellers through the [integration with Amazon](https://help.vtex.com/en/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5sYA9MlRo92jJIxKF1MTXb) and have FBA orders.  
+We've created this feature to access and export FBA order invoices easily, allowing you to customize searches with more precision. The feature is available for all VTEX clients who operate as sellers through the [integration with Amazon](/en/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5sYA9MlRo92jJIxKF1MTXb) and have FBA orders.  
 
 ## What has changed?
 
@@ -30,5 +30,5 @@ We've developed this new feature to streamline seller processes and centralize t
 
 ## What needs to be done?
 
-This feature is available to all VTEX accounts integrated with Amazon. To start using it, see the instructions in the tutorial [FBA order invoices](https://help.vtex.com/en/tutorial/notas-fiscais-de-pedidos-fba--5ok71vWueJ22JhXo1egx2y).
+This feature is available to all VTEX accounts integrated with Amazon. To start using it, see the instructions in the tutorial [FBA order invoices](/en/tutorial/notas-fiscais-de-pedidos-fba--5ok71vWueJ22JhXo1egx2y).
 

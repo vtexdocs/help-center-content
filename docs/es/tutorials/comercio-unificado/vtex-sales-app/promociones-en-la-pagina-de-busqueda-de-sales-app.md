@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 4T6qfa6gNO6g4sAUIa6s2G
 ---
 
-La funcionalidad de [promociones](https://help.vtex.com/es/tutorial/lista-de-promocoes-beta--4yB7nNdliiFxBTXE19GCIi#criar-promocoes) en la página de búsqueda de [Sales App](https://help.vtex.com/es/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr/6cq4E1JCmA6vCvBCCtAgIM) ha sido creada para retailers que quieran destacar ofertas especiales directamente en los resultados de búsqueda de la Página de Listado de Productos (PLP). Esto proporciona una mejor experiencia de compra, fomenta la interacción con los clientes y aumenta la visibilidad de los productos que contienen múltiples promociones.
+La funcionalidad de [promociones](/es/tutorial/lista-de-promocoes-beta--4yB7nNdliiFxBTXE19GCIi#criar-promocoes) en la página de búsqueda de [Sales App](/es/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr/6cq4E1JCmA6vCvBCCtAgIM) ha sido creada para retailers que quieran destacar ofertas especiales directamente en los resultados de búsqueda de la Página de Listado de Productos (PLP). Esto proporciona una mejor experiencia de compra, fomenta la interacción con los clientes y aumenta la visibilidad de los productos que contienen múltiples promociones.
 
 Para que una promoción se refleje correctamente en Sales App es necesario:
 
@@ -23,7 +23,7 @@ Para que una promoción se refleje correctamente en Sales App es necesario:
 - Insertar un campo llamado `salesAppHighlight` con el valor `true` en la sección de **información adicional** para destacar la promoción en la imagen del producto.
 - Insertar un campo en la sección de **información adicional** con el nombre `salesAppDisplayName` y como valor, agrega el texto que sobrescribirá el nombre predeterminado de la promoción mostrada en la página de búsqueda. Por ejemplo, "Envío gratis".
 
-> ℹ️ Si deseas que la promoción sea exclusiva para la aplicación Sales App, es necesario configurar la [política comercial](https://help.vtex.com/es/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) específica para Sales App.
+> ℹ️ Si deseas que la promoción sea exclusiva para la aplicación Sales App, es necesario configurar la [política comercial](/es/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) específica para Sales App.
 
 Cuando un producto tiene múltiples promociones asociadas, el vendedor de una tienda física puede ver todas las opciones haciendo clic en la tag de la promoción mostrada en los resultados de búsqueda.
 

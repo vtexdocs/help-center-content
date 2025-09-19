@@ -43,7 +43,7 @@ To configure Ecart Pay, follow the steps below:
 3. Click **Ecart Pay**.
 4. Activate the condition in the **Status** field.
 5. If you want to use an anti-fraud system, select the option **Use anti-fraud solution**.
-6. If you wish, you can also configure [payment special conditions](https://help.vtex.com/en/tutorial/special-conditions--tutorials_456).
+6. If you wish, you can also configure [payment special conditions](/en/tutorial/special-conditions--tutorials_456).
 7. Click `Save`.
 
 After following the indicated steps, Ecart Pay may take up to 10 minutes to appear at your store`s checkout as a payment option.

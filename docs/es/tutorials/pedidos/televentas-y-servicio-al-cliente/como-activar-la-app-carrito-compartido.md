@@ -19,7 +19,7 @@ La app [Carrito Compartido](https://apps.vtex.com/vtex-social-selling/p) permite
 
 ![Shareable Cart Demo](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pedidos/televentas-y-servicio-al-cliente/como-activar-la-app-carrito-compartido_1.gif)
 
-Este artículo explica cómo instalar la app y configurar la funcionalidad en su tienda. Una vez completados los pasos de activación, sus vendedores podrán seguir las [instrucciones de uso](https://help.vtex.com/es/tutorial/como-usar-o-app-carrinho-compartilhavel--3ePPpkmeZ96GXbeIoGZbTN) para comenzar sus estrategias de Social Selling.
+Este artículo explica cómo instalar la app y configurar la funcionalidad en su tienda. Una vez completados los pasos de activación, sus vendedores podrán seguir las [instrucciones de uso](/es/tutorial/como-usar-o-app-carrinho-compartilhavel--3ePPpkmeZ96GXbeIoGZbTN) para comenzar sus estrategias de Social Selling.
 
 ## Instalación
 
@@ -63,7 +63,7 @@ La elección del campo en el que se ingresará el código del vendedor depende d
 
 Si se seleccionan ambas alternativas, el vendedor debe indicar qué campo está rellenando en la interfaz de carrito compartible.
 
-> ℹ️ La información registrada puede encontrarse en el card **Promociones y Marketing** en los [detalles del pedido](https://help.vtex.com/es/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/204AjAQseJe8RLUi8GAhiC?locale=pt) o en el objeto `marketingData` devuelto al obtener la información del pedido mediante [Orders API](https://developers.vtex.com/reference/orders#getorder).
+> ℹ️ La información registrada puede encontrarse en el card **Promociones y Marketing** en los [detalles del pedido](/es/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/204AjAQseJe8RLUi8GAhiC?locale=pt) o en el objeto `marketingData` devuelto al obtener la información del pedido mediante [Orders API](https://developers.vtex.com/reference/orders#getorder).
 
 ### Canales
 
@@ -80,7 +80,7 @@ Esta configuración le permite activar los canales que desea utilizar en la inte
 
 ## Personalización (opcional)
 
-Si desea personalizar los colores de los botones de la interfaz de carrito compartible de su tienda, esto es posible a través de la [personalización del Checkout](https://help.vtex.com/es/tutorial/configurar-template-no-smartcheckout--frequentlyAskedQuestions_599).
+Si desea personalizar los colores de los botones de la interfaz de carrito compartible de su tienda, esto es posible a través de la [personalización del Checkout](/es/tutorial/configurar-template-no-smartcheckout--frequentlyAskedQuestions_599).
 
 En la siguiente imagen, la opción A muestra los colores originales y la opción B una posible personalización.
 
@@ -183,7 +183,7 @@ Luego, basta con cambiar las propiedades en el código CSS según sea necesario.
 
 ### ¿Cómo esta funcionalidad es técnicamente posible?
 
-La app utiliza la funcionalidad de [carrito compartido](https://help.vtex.com/es/tutorial/o-que-e-o-carrinho-compartilhado--3oKJZfoAoUm8g0ukCIGsUu?locale=pt) de VTEX, que permite que más de un cliente añada, elimine o actualice ítems e información de un mismo carrito.
+La app utiliza la funcionalidad de [carrito compartido](/es/tutorial/o-que-e-o-carrinho-compartilhado--3oKJZfoAoUm8g0ukCIGsUu?locale=pt) de VTEX, que permite que más de un cliente añada, elimine o actualice ítems e información de un mismo carrito.
 
 ### ¿Cómo identificar al vendedor y a la promoción?
 
@@ -230,7 +230,7 @@ Presentamos algunas posibilidades en la tabla de abajo. Recomendamos que el equi
   </tbody>
 </table>
 
-> ℹ️ En el escenario 4 es necesario [generar cupones masivamente](https://help.vtex.com/es/tutorial/consigo-gerar-um-cupom-em-massa--frequentlyAskedQuestions_348?locale=pt), para que cada vendedor tenga su propio cupón para la identificación y la activación del descuento.
+> ℹ️ En el escenario 4 es necesario [generar cupones masivamente](/es/tutorial/consigo-gerar-um-cupom-em-massa--frequentlyAskedQuestions_348?locale=pt), para que cada vendedor tenga su propio cupón para la identificación y la activación del descuento.
 
 ### ¿Quién rellena los datos personales y la dirección: el vendedor o el cliente?
 

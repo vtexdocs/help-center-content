@@ -31,7 +31,7 @@ To configure CieloEcommerce, follow the steps below:
 
 <blockquote><ui>6. In **Payment Control**, select whether you want to activate the provider in a test environment by clicking **Enable test mode**.</ui>
 
-<blockquote><ui>7. If you want to use [Payment split](https://help.vtex.com/en/tutorial/split-payment--6k5JidhYRUxileNolY2VLx) in your store, select the option **Enable payout split and send payment recipients** and indicate the **Accountable for payment processing charges** and **Accountable for chargebacks** (marketplace, sellers or marketplaces and sellers).</ui>
+<blockquote><ui>7. If you want to use [Payment split](/en/tutorial/split-payment--6k5JidhYRUxileNolY2VLx) in your store, select the option **Enable payout split and send payment recipients** and indicate the **Accountable for payment processing charges** and **Accountable for chargebacks** (marketplace, sellers or marketplaces and sellers).</ui>
 
 <blockquote><ui>8. In **Integration**, select whether the connector will be used as **Adquirencia** or **Gateway**.
 
@@ -55,7 +55,7 @@ To configure CieloEcommerce, follow the steps below:
 
 <blockquote><ui>18. In **AntifraudProvider**, select the antifraud provider you want to use with CieloEcommerce.</ui>
 
-<blockquote>> ⚠️ Check with Cielo whether the anti-fraud options in CieloEcommerce are already available for use. If still under development, both fields described in step 15 must be left blank. For more information about using anti-fraud options in your store, visit [Configuring the anti-fraud](https://help.vtex.com/en/tutorial/how-to-configure-the-anti-fraud).</blockquote>
+<blockquote>> ⚠️ Check with Cielo whether the anti-fraud options in CieloEcommerce are already available for use. If still under development, both fields described in step 15 must be left blank. For more information about using anti-fraud options in your store, visit [Configuring the anti-fraud](/en/tutorial/how-to-configure-the-anti-fraud).</blockquote>
 <br>  
 <blockquote><ui>19. In **Antifraud** and **AntifraudSequenceCriteria**, select the options according to information from CieloEcommerce antifraud.</ui>
 
@@ -71,8 +71,8 @@ To configure CieloEcommerce, follow the steps below:
 
 <blockquote><ui>25. Click **Save**.</ui>
 
-To configure the payment methods to be processed by CieloEcommerce, access [Configuring Payment Conditions](https://help.vtex.com/en/tutorial/how-to-configure-payment-conditions--tutorials_455#).
+To configure the payment methods to be processed by CieloEcommerce, access [Configuring Payment Conditions](/en/tutorial/how-to-configure-payment-conditions--tutorials_455#).
 
-To set special conditions on payment methods, go to [Configuring payment special conditions](https://help.vtex.com/en/tutorial/special-conditions--tutorials_456#).
+To set special conditions on payment methods, go to [Configuring payment special conditions](/en/tutorial/special-conditions--tutorials_456#).
 
 After following the indicated steps, CieloEcommerce connector may take up to 10 minutes to appear at your store's checkout as a payment option.

@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 1rA9wuuskW3PpjvMrhatAM
 ---
 
-> ℹ️ You can only access information from orders created in the last two years, and that same period is valid for customers through [My Account](https://help.vtex.com/en/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh).
+> ℹ️ You can only access information from orders created in the last two years, and that same period is valid for customers through [My Account](/en/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh).
 
 You can identify and manage errors in subscription orders in the Admin, in **Subscriptions** > **Dashboards** > **Subscription Orders**.
 
@@ -77,7 +77,7 @@ To analyze payment errors, follow the steps below:
 4. Identify the order you want to analyze and click on its ID, as illustrated in the image below. You will be redirected to the order details page in the **All Orders** module.
   ![EN Log Erro de pagamento](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/subscriptions/subscription-guides/troubleshooting-errors-in-subscription-orders_3.png)
 5. Then, click on **View transaction details** under the **Payment** card. You will be redirected to the **Transactions** page in the **Payments** module.
-6. On the **Transactions** page, you can view and analyze the order transaction events. Read the article [Viewing the order's details in Payments](https://help.vtex.com/en/tutorial/como-visualizar-detalhes-do-pedido) for more information.
+6. On the **Transactions** page, you can view and analyze the order transaction events. Read the article [Viewing the order's details in Payments](/en/tutorial/como-visualizar-detalhes-do-pedido) for more information.
 
 Orders with payment errors go through 5 automatic retries within a period of up to 12 hours, according to the payment gateway flow. You cannot retry placing orders manually to correct payment errors in the Admin.
 
@@ -85,4 +85,4 @@ Your store customers can edit their subscriptions and perform other actions on t
 
 #### **Learn more**
 
-* [How to manage Subscriptions](https://help.vtex.com/en/tutorial/como-gerenciar-assinaturas--6Jk50FPbv6iuz1OsFypv8x)
+* [How to manage Subscriptions](/en/tutorial/como-gerenciar-assinaturas--6Jk50FPbv6iuz1OsFypv8x)

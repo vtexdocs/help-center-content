@@ -33,4 +33,4 @@ However, the Card Level adds an extra level of customization to the above-mentio
 
 The configuration is similar to other special payment configurations, with the main difference being that after choosing the country and issuing bank, the retailer can select between Card Level options made available by the chosen financial institution.
 
-For more details on how to configure this feature, read on article on [setting up Special Payment Conditions](https://help.vtex.com/en/tutorial/special-conditions--tutorials_456).
+For more details on how to configure this feature, read on article on [setting up Special Payment Conditions](/en/tutorial/special-conditions--tutorials_456).

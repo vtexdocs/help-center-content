@@ -26,4 +26,4 @@ Ou seja, caso o cliente finalize a compra apenas com o e-mail e o CVV do cartão
 
 Essa medida visa à segurança dos dados dos clientes contra ataques e tentativas de fraudes.
 
-Para saber mais sobre proteção de dados, acesse [Segurança do SmartCheckout](https://help.vtex.com/pt/tutorial/seguranca-do-smartcheckout--3SrJuuhrqwePUg1rp1exfB#).
+Para saber mais sobre proteção de dados, acesse [Segurança do SmartCheckout](/pt/tutorial/seguranca-do-smartcheckout--3SrJuuhrqwePUg1rp1exfB#).

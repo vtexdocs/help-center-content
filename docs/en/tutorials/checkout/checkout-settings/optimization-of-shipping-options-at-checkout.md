@@ -16,14 +16,14 @@ subcategoryId: 6XAvmMxp7yyY06ewYMuggs
 ---
 
 When the customer places an order, the cart may contain products that are in one of the following configurations:
-- Storage in multiple locations ([warehouse](https://help.vtex.com/en/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb#) or [loading docks](https://help.vtex.com/en/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj#)).
-- Specific sellers for each selected product, including [sellers white label](https://help.vtex.com/en/tutorial/white-label-seller--5orlGHyDHGAYciQ64oEgKa#).
-- Shippings made by different [carriers](https://help.vtex.com/en/tutorial/transportadoras-na-vtex--7u9duMD5UQa2QQwukAWMcE#).
+- Storage in multiple locations ([warehouse](/en/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb#) or [loading docks](/en/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj#)).
+- Specific sellers for each selected product, including [sellers white label](/en/tutorial/white-label-seller--5orlGHyDHGAYciQ64oEgKa#).
+- Shippings made by different [carriers](/en/tutorial/transportadoras-na-vtex--7u9duMD5UQa2QQwukAWMcE#).
 
 In this context, VTEX Checkout v6 allows you to process different shipping options and combine selected products into packages. This optimization of shipping options (also known as **Lean Shipping**), improves the customer's shopping experience through the following actions:
 - **Reduction of information at Checkout**:
   - More expensive and longer shipping options are not shown to the customer.
-  - Products with different shipping options are automatically organized int [multiple packages](https://help.vtex.com/en/tutorial/divisao-de-pedidos-e-divisao-de-entregas--jQvzA6QgSd51e2p6bthoV), without the need for customer review.   
+  - Products with different shipping options are automatically organized int [multiple packages](/en/tutorial/divisao-de-pedidos-e-divisao-de-entregas--jQvzA6QgSd51e2p6bthoV), without the need for customer review.   
 
 - **Faster Checkout**: internal processing of available shipping options, reducing the number of options that have similar costs and shipping times.
 
@@ -40,7 +40,7 @@ VTEX's Checkout v6 combines information such as the customer's zip code, product
 
 The **Optimized Shipping Options** functionality is enabled by default in Checkout v6. However, in some regions, there may be scenarios that contribute to this function not being used. In countries such as Spain or the United States, where the available shipping options are similar, consumers prefer to choose a carrier based on their level of trust in the company.
 
-> ⚠️ By disabling this function in Admin VTEX, all available shipping options will be displayed in the Checkout process. However, if the [Multiple Deliveries](https://help.vtex.com/en/tutorial/divisao-de-pedidos-e-divisao-de-entregas--jQvzA6QgSd51e2p6bthoV#) functionality is enabled in the store and there are different delivery options between the selected items in the cart, the **Optimized Delivery Options** will continue to be displayed. That is, delivery optimization will be needed to handle multiple packages (items with different delivery options).
+> ⚠️ By disabling this function in Admin VTEX, all available shipping options will be displayed in the Checkout process. However, if the [Multiple Deliveries](/en/tutorial/divisao-de-pedidos-e-divisao-de-entregas--jQvzA6QgSd51e2p6bthoV#) functionality is enabled in the store and there are different delivery options between the selected items in the cart, the **Optimized Delivery Options** will continue to be displayed. That is, delivery optimization will be needed to handle multiple packages (items with different delivery options).
 
 To disable the __Optimized Shipping Options__ function, follow the steps below:
 

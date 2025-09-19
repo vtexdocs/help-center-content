@@ -41,4 +41,4 @@ Para las tiendas que ya utilizan Social Selling en inStore, la actualización es
 
 Para empezar a utilizar inStore Social Selling, es necesario [contactar con el equipo de soporte de VTEX](https://support.vtex.com/hc/es-es/requests) y solicitar la instalación.
 
-Para más información, consulta el artículo [Compartir el carrito utilizando inStore Social Selling](https://help.vtex.com/es/tracks/instore-usando-el-app--4BYzQIwyOHvnmnCYQgLzdr/6deiffo22iKkY27PkfstXy).
+Para más información, consulta el artículo [Compartir el carrito utilizando inStore Social Selling](/es/tracks/instore-usando-el-app--4BYzQIwyOHvnmnCYQgLzdr/6deiffo22iKkY27PkfstXy).

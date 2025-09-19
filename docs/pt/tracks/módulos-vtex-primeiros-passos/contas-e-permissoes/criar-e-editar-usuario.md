@@ -24,7 +24,7 @@ Também é possível cadastrar e gerenciar __usuários__ por meio do módulo Ger
 1.  No módulo Gerenciamento da conta, clique na aba **Usuários**.  
 2.  Clique no botão **Novo usuário**.  
 3.  Preencha o **Email** e o **Nome Completo**.  
-4.  Adicione ou crie os [perfis de acesso](https://help.vtex.com/pt/tutorial/gerenciando-usuarios--tutorials_512) desejados.  
+4.  Adicione ou crie os [perfis de acesso](/pt/tutorial/gerenciando-usuarios--tutorials_512) desejados.  
 5.  Clique no botão **Salvar**.
 
 O usuário irá receber um e-mail confirmando o cadastro, com um link para cadastrar a senha de acesso.

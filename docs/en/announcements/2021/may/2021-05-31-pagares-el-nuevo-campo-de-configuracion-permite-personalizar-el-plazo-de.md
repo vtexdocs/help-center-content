@@ -17,7 +17,7 @@ announcementSynopsisEN: 'Have more flexibility with the new automatic invoicing 
 
 Often used to enable cash payment, a promissory is a “promise to pay” that requires manual approval from the retailer for the transaction to be completed.
 
-On VTEX, among several payment options available, you can also offer payment with [promissory](https://help.vtex.com/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/1wWt35dRwEboRs1nrSx7G0#promissory-notes).
+On VTEX, among several payment options available, you can also offer payment with [promissory](/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/1wWt35dRwEboRs1nrSx7G0#promissory-notes).
 
 ## What has changed?
 
@@ -35,5 +35,5 @@ We understand that each business has different strategies and needs, so adding t
 
 ## What needs to be done?
 
-By default, the new field value will be set to 15 days. If you want to change it, check out our documentation on [Setting up payments with Promissory](https://help.vtex.com/en/tutorial/configurar-pagamentos-com-promissoria--5pW7avTwtyQcMu4uiW8quQ?&utm_source=autocomplete).
+By default, the new field value will be set to 15 days. If you want to change it, check out our documentation on [Setting up payments with Promissory](/en/tutorial/configurar-pagamentos-com-promissoria--5pW7avTwtyQcMu4uiW8quQ?&utm_source=autocomplete).
 

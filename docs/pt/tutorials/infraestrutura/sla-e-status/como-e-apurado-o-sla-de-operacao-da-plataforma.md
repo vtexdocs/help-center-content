@@ -34,4 +34,4 @@ Para facilitar a identificação de cenários de instabilidade, recomendamos ver
 
 ## Saiba mais
 
-- [Página de status da VTEX](https://help.vtex.com/pt/tutorial/pagina-de-status-da-vtex--gPhqDn9IQ3c67wbJEX3JJ)
+- [Página de status da VTEX](/pt/tutorial/pagina-de-status-da-vtex--gPhqDn9IQ3c67wbJEX3JJ)

@@ -14,9 +14,9 @@ locale: pt
 legacySlug: sku-com-unidades-positivas-no-inventario-mas-indisponivel-para-venda
 ---
 
-Quando dois ou mais estoques utilizam a mesma [política comercial](https://help.vtex.com/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) e há uma quantidade negativa de unidades em um desses estoques, o SKU fica indisponível para venda, mesmo que exista uma quantidade disponível em um dos estoques no [inventário](https://help.vtex.com/pt/tutorial/gerenciar-itens-em-estoque--tutorials_139).
+Quando dois ou mais estoques utilizam a mesma [política comercial](/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) e há uma quantidade negativa de unidades em um desses estoques, o SKU fica indisponível para venda, mesmo que exista uma quantidade disponível em um dos estoques no [inventário](/pt/tutorial/gerenciar-itens-em-estoque--tutorials_139).
 
 Isso ocorre porque a plataforma VTEX soma as unidades negativas de SKU de determinado estoque às unidades positivas de outro estoque. Se a soma dessas quantidades é zero, o SKU fica indisponível para vendas na loja.
 
-Saiba mais sobre estoque negativo no artigo [Como atualizar itens no inventário.](https://help.vtex.com/pt/tutorial/gerenciar-itens-em-estoque--tutorials_139#atualizar-estoque)
+Saiba mais sobre estoque negativo no artigo [Como atualizar itens no inventário.](/pt/tutorial/gerenciar-itens-em-estoque--tutorials_139#atualizar-estoque)
 

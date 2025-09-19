@@ -19,7 +19,7 @@ The __Portal__ is used to render __Checkout__ (cart, personal data, address, pay
 
 The __Checkout__ module in the Admin, displays the sites that are registered for your account. Through it, it is also possible to create a new website, edit and configure information about existing websites.
 
-> ℹ️ Each registered site corresponds to a multidomain (if the account has contracted multidomains). For accounts that do not use multidomains, it is not necessary to register more than one site in this module. Learn more at [Create a multistore/multidomain](https://help.vtex.com/en/tutorial/como-criar-multiloja-multidominio--tutorials_510#).
+> ℹ️ Each registered site corresponds to a multidomain (if the account has contracted multidomains). For accounts that do not use multidomains, it is not necessary to register more than one site in this module. Learn more at [Create a multistore/multidomain](/en/tutorial/como-criar-multiloja-multidominio--tutorials_510#).
 
 ## Creating a new website
 
@@ -67,7 +67,7 @@ We'll now have a more in-depth look at the following options menu settings: __Co
 
 ## Configuring Checkout
 
-> ⚠️ Users need to have the [License Manager resource](https://help.vtex.com/en/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3) **Manage portal** assigned to their role to be able to configure store Checkout settings. In turn, the user that creates the new role needs to have **Owner (Admin Super)** access.
+> ⚠️ Users need to have the [License Manager resource](/en/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3) **Manage portal** assigned to their role to be able to configure store Checkout settings. In turn, the user that creates the new role needs to have **Owner (Admin Super)** access.
 
 1. In the VTEX Admin, go to __Store Settings > Storefront > Checkout__, or type __Checkout__ in the search bar at the top of the page.
 2. Click on the <i class="fas fa-cog" alt="engrenagem azul"></i> icon of the desired website.
@@ -100,7 +100,7 @@ The HTML code filled in the template corresponds to what will appear on the __ch
 
 Of the available templates, the only ones that cannot be changed are __vtex-checkout__ and __vtex-orderPlaced__. These correspond to the native functioning of the platform, rendering the main content of the __checkout__ and __order placed__ pages.
 
-> ⚠️ Javascripts included directly in any Portal templates will be ignored by the platform. The reason behind this is that only scripts that originated in Google Tag Manager are accepted by [SmartCheckout](https://help.vtex.com/en/tutorial/smartcheckout-preenchimento-automatico-de-dados-do-cliente--2Nuu3xAFzdhIzJIldAdtan#). aTherefore, whenever you need to customize something (or even to insert specific tags) using javascript, do this through [Google Tag Manager](https://help.vtex.com/en/tutorial/integration-with-google-tag-manager--frequentlyAskedQuestions_616#).
+> ⚠️ Javascripts included directly in any Portal templates will be ignored by the platform. The reason behind this is that only scripts that originated in Google Tag Manager are accepted by [SmartCheckout](/en/tutorial/smartcheckout-preenchimento-automatico-de-dados-do-cliente--2Nuu3xAFzdhIzJIldAdtan#). aTherefore, whenever you need to customize something (or even to insert specific tags) using javascript, do this through [Google Tag Manager](/en/tutorial/integration-with-google-tag-manager--frequentlyAskedQuestions_616#).
 
 ### Examples of how to fill out templates
 

@@ -27,24 +27,24 @@ La importancia de utilizar la puntuación se evidencia claramente en eventos esp
 
 ## Puntuación en el buscador de VTEX
 
-Si la tienda utiliza el [buscador de VTEX](https://help.vtex.com/es/tutorial/como-funciona-a-busca-da-vtex--tutorials_542), pueden utilizarse los siguientes parámetros para implementar la ordenación por puntuación:
+Si la tienda utiliza el [buscador de VTEX](/es/tutorial/como-funciona-a-busca-da-vtex--tutorials_542), pueden utilizarse los siguientes parámetros para implementar la ordenación por puntuación:
 
 * **Orden ascendente** (productos con puntuación más baja aparecen en primer lugar): `?O=OrderByScoreASC`
 * **Orden descendente** (productos con puntuación más alta aparecen en primer lugar): `?O=OrderByScoreDESC`
 
 ## Puntuación en VTEX Intelligent Search
 
-Los parámetros `OrderByScoreASC` y `OrderByScoreDESC` no son compatibles con [VTEX Intelligent Search](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb), sino únicamente con el [buscador VTEX](https://help.vtex.com/es/tutorial/como-funciona-a-busca-da-vtex--tutorials_542).
+Los parámetros `OrderByScoreASC` y `OrderByScoreDESC` no son compatibles con [VTEX Intelligent Search](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb), sino únicamente con el [buscador VTEX](/es/tutorial/como-funciona-a-busca-da-vtex--tutorials_542).
 
-La ordenación directa de productos por la puntuación definida en el campo **Puntuación** no es posible en [VTEX Intelligent Search](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb). Al utilizar uno de los parámetros antes referidos en VTEX Intelligent Search, se genera una ordenación predeterminada, que es por [relevancia](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1qlObWIib6KqgrfX1FCOXS).
+La ordenación directa de productos por la puntuación definida en el campo **Puntuación** no es posible en [VTEX Intelligent Search](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb). Al utilizar uno de los parámetros antes referidos en VTEX Intelligent Search, se genera una ordenación predeterminada, que es por [relevancia](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1qlObWIib6KqgrfX1FCOXS).
 
-Por otro lado, la puntuación del Catálogo consigue componer la [relevancia](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1qlObWIib6KqgrfX1FCOXS) en Intelligent Search frente a otros criterios, brindando la posibilidad de asignarle mayor peso e incluso prioridad. A efectos de componer la relevancia, a mayor puntuación, mayor peso; es decir, el comportamiento es decreciente: se priorizan los productos con una puntuación más alta.
+Por otro lado, la puntuación del Catálogo consigue componer la [relevancia](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1qlObWIib6KqgrfX1FCOXS) en Intelligent Search frente a otros criterios, brindando la posibilidad de asignarle mayor peso e incluso prioridad. A efectos de componer la relevancia, a mayor puntuación, mayor peso; es decir, el comportamiento es decreciente: se priorizan los productos con una puntuación más alta.
 
 Sin tener en cuenta la influencia de otros criterios, o incluso considerando el uso de la ordenación prioritaria, en VTEX Intelligent Search los productos sin ninguna puntuación registrada aparecen después de los productos con puntuación registrada en los resultados de la búsqueda.
 
 Es necesario ponderar si esta práctica sería adecuada para tu caso de uso en relación con otros criterios calculados automáticamente por el sistema, como popularidad y ventas. Al priorizar un criterio, este prevalece sobre todos los demás, incluso alcanzando el mismo objetivo que `OrderByScore`, desestimando los demás ajustes de relevancia.
 
-Para ordenar manualmente los ítems de forma aislada, se recomienda utilizar [Reglas de merchandising](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5tBSYXb9EIdePa0MWTnFd0), evitando efectos no deseados y respetando la configuración de relevancia.
+Para ordenar manualmente los ítems de forma aislada, se recomienda utilizar [Reglas de merchandising](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5tBSYXb9EIdePa0MWTnFd0), evitando efectos no deseados y respetando la configuración de relevancia.
 
 ## Editar la puntuación de un producto
 

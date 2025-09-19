@@ -72,22 +72,22 @@ Once the new email template has been created or the data from the default templa
 
 ### SPF Release
 
-The SPF release is essential to avoid problems with email deliverability and must be performed according to this article on [SPF configuration](https://help.vtex.com/en/tutorial/configuracao-de-spf--42t0lkl2VyC6Yewc4wA6wI#).
+The SPF release is essential to avoid problems with email deliverability and must be performed according to this article on [SPF configuration](/en/tutorial/configuracao-de-spf--42t0lkl2VyC6Yewc4wA6wI#).
 
 As a good practice for configuring DNS for a generic domain (not mandatory), follow the example below:
 
 ![Hostnames - SPF](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/checkout/checkout-settings/setting-up-abandoned-carts_4.PNG)
 
-Learn more at [Setting up DNS pointing to VTEX](https://help.vtex.com/en/tutorial/configurando-o-apontamento-de-dns-para-a-vtex--tutorials_4280#).
+Learn more at [Setting up DNS pointing to VTEX](/en/tutorial/configurando-o-apontamento-de-dns-para-a-vtex--tutorials_4280#).
 
 ### Configuring trigger
 
-In this step, you must create a [trigger in Master Data](https://help.vtex.com/en/tutorial/criando-trigger-no-master-data--tutorials_1270 "trigger no Master Data"), which involves completing some values to determine the trigger and defining some filters:
+In this step, you must create a [trigger in Master Data](/en/tutorial/criando-trigger-no-master-data--tutorials_1270 "trigger no Master Data"), which involves completing some values to determine the trigger and defining some filters:
 
 - __Checkout:__ The trigger will be enabled if the checkout is not completed and is different from null, i.e., if the customer does not place the order.
 - __Cart:__ Refers to the last products the customer added to the shopping cart. The trigger will be enabled if the value is different from null.
 - __Last cart:__ Records the date and time the cart was created. The trigger will be enabled if the value is different from null.
-- __Receives newsletter?:__ Ensures compliance with the [rights of data subjects](https://help.vtex.com/pt/tutorial/data-subject-rights--6imchxTx09icupKMbzHVIM), since only customers subscribed to the newsletter will receive abandoned cart emails. Subscription to your store's newsletter can be managed at checkout or in the [My Account](https://help.vtex.com/pt/tutorial/como-funciona-a-minha-conta--2BQ3GiqhqGJTXsWVuio3Xh#perfil) section of your store. The trigger will be enabled if the value is true.
+- __Receives newsletter?:__ Ensures compliance with the [rights of data subjects](/pt/tutorial/data-subject-rights--6imchxTx09icupKMbzHVIM), since only customers subscribed to the newsletter will receive abandoned cart emails. Subscription to your store's newsletter can be managed at checkout or in the [My Account](/pt/tutorial/como-funciona-a-minha-conta--2BQ3GiqhqGJTXsWVuio3Xh#perfil) section of your store. The trigger will be enabled if the value is true.
 
 For the trigger to be successfully activated, the filters must be completed following the instructions below:
 

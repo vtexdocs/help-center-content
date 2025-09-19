@@ -99,7 +99,7 @@ With the video added, you can choose what to do with the video by clicking on th
 Integrating multimedia content, such as videos, into your Headless CMS can enhance the user experience of your website. Follow the steps below to add videos to your store.
 
 1. In the VTEX Admin, go to **Storefront > Headless CMS**.
-2. Select the [Project](https://help.vtex.com/en/tutorial/managing-projects--42IpDFqTVTESH8DCypJMPM) where you want to add the video.
+2. Select the [Project](/en/tutorial/managing-projects--42IpDFqTVTESH8DCypJMPM) where you want to add the video.
 3. Choose a page to add the video, e.g. **Home**.
 4. With the **Home** page open, in the **Sections** tab, add (`+`) a section that has the `media-gallery` Widget, e.g. Hero.
 5. In the Hero fill the following fields:

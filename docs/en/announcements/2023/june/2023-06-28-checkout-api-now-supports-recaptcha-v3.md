@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisEN: 'This user validation solution to prevent fake users can be used in native mobile apps and other similar integrations'
 ---
 
-[reCAPTCHA](https://help.vtex.com/en/tutorial/recaptcha-no-checkout--18Te3oDd7f4qcjKu9jhNzP) is a user validation solution that VTEX provides for all stores. It foresees scenarios where malware is used for fraud and prevents access by fake users.
+[reCAPTCHA](/en/tutorial/recaptcha-no-checkout--18Te3oDd7f4qcjKu9jhNzP) is a user validation solution that VTEX provides for all stores. It foresees scenarios where malware is used for fraud and prevents access by fake users.
 
 Besides the native storefront functionality of the VTEX platform, stores implementing their own storefronts can [integrate reCAPTCHA](https://developers.vtex.com/docs/guides/recaptcha) via the Checkout API to improve security.
 
@@ -23,7 +23,7 @@ Besides the native storefront functionality of the VTEX platform, stores impleme
 
 Now, the Checkout API also supports score-based reCAPTCHA reCAPTCHA validation (equivalent to v3), which is suitable for native mobile apps.
 
-> ℹ️ VTEX is integrated with reCAPTCHA enterprise, which offers two validation approaches: checkbox (equivalent to reCAPTCHA v2) and score-based (equivalent to reCATPCHA v3). See this article on [reCAPTCHA at VTEX Checkout](https://help.vtex.com/en/tutorial/recaptcha-no-checkout--18Te3oDd7f4qcjKu9jhNzP#recaptcha-versions) to learn what version you should use depending on your storefront characteristics. You can also learn more each method: [reCAPTCHA v2](https://developers.google.com/recaptcha/docs/display) or [reCAPTCHA v3](https://developers.google.com/recaptcha/docs/v3) with the documentation provided by Google.
+> ℹ️ VTEX is integrated with reCAPTCHA enterprise, which offers two validation approaches: checkbox (equivalent to reCAPTCHA v2) and score-based (equivalent to reCATPCHA v3). See this article on [reCAPTCHA at VTEX Checkout](/en/tutorial/recaptcha-no-checkout--18Te3oDd7f4qcjKu9jhNzP#recaptcha-versions) to learn what version you should use depending on your storefront characteristics. You can also learn more each method: [reCAPTCHA v2](https://developers.google.com/recaptcha/docs/display) or [reCAPTCHA v3](https://developers.google.com/recaptcha/docs/v3) with the documentation provided by Google.
 
 However, the reCAPTCHA checkbox (equivalent to v2) integration option is still available and is the recommended option if you want to implement a [reCAPTCHA integration](https://developers.vtex.com/docs/guides/recaptcha) other than in a native mobile app.
 

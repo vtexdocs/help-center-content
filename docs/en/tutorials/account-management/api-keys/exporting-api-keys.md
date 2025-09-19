@@ -15,11 +15,11 @@ locale: en
 subcategoryId: 3OlaStejO5MSzvDSU3VCH3
 ---
 
-The [API Keys](https://help.vtex.com/en/tutorial/api-keys--4bFEmcHXgpNksoePchZyy6) page allows you to export information for all generated and external keys associated with the account to an `XLSX` file.  
+The [API Keys](/en/tutorial/api-keys--4bFEmcHXgpNksoePchZyy6) page allows you to export information for all generated and external keys associated with the account to an `XLSX` file.  
 
 ## Before you begin
 
-To export, you must have the [User Administrator - RESTRICTED](https://help.vtex.com/en/tutorial/predefined-roles--jGDurZKJHvHJS13LnO7Dy#user-administrator-restricted) role or a [custom](https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#creating-a-role) role with the *View API Keys* resource.
+To export, you must have the [User Administrator - RESTRICTED](/en/tutorial/predefined-roles--jGDurZKJHvHJS13LnO7Dy#user-administrator-restricted) role or a [custom](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#creating-a-role) role with the *View API Keys* resource.
 
 ## Instructions
 
@@ -57,7 +57,7 @@ See the information available in the spreadsheet below.
 
 ## Learn more
 
-- [API keys](https://help.vtex.com/en/tutorial/api-keys--4bFEmcHXgpNksoePchZyy6)  
-- [Configuring alerts to renew API tokens](https://help.vtex.com/en/tutorial/configurar-a-duracao-de-chaves-de-api--kcGIFysFt02FDuhsfjQwZ)  
-- [Generated keys](https://help.vtex.com/en/tutorial/generated-keys--7fnU4iZdvZKbxCaT3Ymdjc)  
-- [External keys](https://help.vtex.com/en/tutorial/external-keys--1isU0HfKkeg0atlxRha14Q)  
+- [API keys](/en/tutorial/api-keys--4bFEmcHXgpNksoePchZyy6)  
+- [Configuring alerts to renew API tokens](/en/tutorial/configurar-a-duracao-de-chaves-de-api--kcGIFysFt02FDuhsfjQwZ)  
+- [Generated keys](/en/tutorial/generated-keys--7fnU4iZdvZKbxCaT3Ymdjc)  
+- [External keys](/en/tutorial/external-keys--1isU0HfKkeg0atlxRha14Q)  

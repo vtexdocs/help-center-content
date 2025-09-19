@@ -31,7 +31,7 @@ Para configurar CieloEcommerce, siga los siguientes pasos:
 
 <blockquote><ui>6. En **Control de pago**, seleccione si desea activar el proveedor en un entorno de prueba haciendo clic en **Activar modo de prueba**.</ui>
 
-<blockquote><ui>7. Si desea utilizar [Split de pagos](https://help.vtex.com/es/tutorial/split-de-pagos--6k5JidhYRUxileNolY2VLx) en su tienda, seleccione la opción **Activar split de cobros y enviar destinatarios de pago** e indique el **Responsable de cargos de procesamiento de pagos** y el **Responsable de contracargos** (marketplace, sellers o marketplace y sellers).</ui>
+<blockquote><ui>7. Si desea utilizar [Split de pagos](/es/tutorial/split-de-pagos--6k5JidhYRUxileNolY2VLx) en su tienda, seleccione la opción **Activar split de cobros y enviar destinatarios de pago** e indique el **Responsable de cargos de procesamiento de pagos** y el **Responsable de contracargos** (marketplace, sellers o marketplace y sellers).</ui>
 
 <blockquote><ui>8. En **Integration**, seleccione si el conector se utilizará como **Adquirencia** o **Gateway**.</ui>
 
@@ -55,7 +55,7 @@ Para configurar CieloEcommerce, siga los siguientes pasos:
 
 <blockquote><ui>18. En **AntifraudProvider**, seleccione el proveedor antifraude que desea utilizar con CieloEcommerce.</ui>
 
-<blockquote>> ⚠️ Consulte con Cielo si las opciones antifraude en CieloEcommerce ya están disponibles para su uso. Si aún está en desarrollo, ambos campos descritos en el paso 15 deben dejarse en blanco. Para obtener más información sobre el uso de opciones antifraude en su tienda, visite [Configurar el antifraude](https://help.vtex.com/es/tutorial/como-configurar-antifraude).</blockquote>
+<blockquote>> ⚠️ Consulte con Cielo si las opciones antifraude en CieloEcommerce ya están disponibles para su uso. Si aún está en desarrollo, ambos campos descritos en el paso 15 deben dejarse en blanco. Para obtener más información sobre el uso de opciones antifraude en su tienda, visite [Configurar el antifraude](/es/tutorial/como-configurar-antifraude).</blockquote>
 <br>
 
 <blockquote><ui>19. En **Antifraud** y **AntifraudSequenceCriteria**, seleccione las opciones según información de CieloEcommerce antifraude. Consulta con CieloEcommerce si el antifraude ya está disponible para su uso, si aún está en desarrollo debes dejar ambos campos en blanco.</ui>
@@ -72,8 +72,8 @@ Para configurar CieloEcommerce, siga los siguientes pasos:
 
 <blockquote><ui>25. Haga clic en **Guardar**.</ui>
 
-Para configurar los métodos de pago a procesar por CieloEcommerce, acceda al [Configurar Condiciones de Pago](https://help.vtex.com/es/tutorial/condiciones-de-pago--tutorials_455#).
+Para configurar los métodos de pago a procesar por CieloEcommerce, acceda al [Configurar Condiciones de Pago](/es/tutorial/condiciones-de-pago--tutorials_455#).
 
-Para establecer condiciones especiales en los métodos de pago, acceda al [Configurar condiciones especiales de Pago](https://help.vtex.com/es/tutorial/condiciones-especiales--tutorials_456#).
+Para establecer condiciones especiales en los métodos de pago, acceda al [Configurar condiciones especiales de Pago](/es/tutorial/condiciones-especiales--tutorials_456#).
 
 Después de seguir los pasos indicados, CieloEcommerce puede tardar hasta 10 minutos en aparecer en el checkout de tu tienda como una opción de pago.

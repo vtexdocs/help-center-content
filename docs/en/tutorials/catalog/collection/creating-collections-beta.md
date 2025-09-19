@@ -31,7 +31,7 @@ This article explains how to:
 
 ## Prerequisite
 
-To create a collection, you must have the _Owner (Admin Super)_ [role](https://help.vtex.com/en/tutorial/access-profiles--7HKK5Uau2H6wxE1rH5oRbc?locale=en) or create another role with the **Write Collections** feature enabled in the **Collections** section of the **Catalog** profiles. Find out more on our documentation about [Creating a role](https://help.vtex.com/en/tutorial/access-profiles--7HKK5Uau2H6wxE1rH5oRbc?locale=pt#creating-a-role).
+To create a collection, you must have the _Owner (Admin Super)_ [role](/en/tutorial/access-profiles--7HKK5Uau2H6wxE1rH5oRbc?locale=en) or create another role with the **Write Collections** feature enabled in the **Collections** section of the **Catalog** profiles. Find out more on our documentation about [Creating a role](/en/tutorial/access-profiles--7HKK5Uau2H6wxE1rH5oRbc?locale=pt#creating-a-role).
 
 ## Create a collection
 
@@ -40,9 +40,9 @@ Follow the step by step below to add a new collection:
 1. In the VTEX Admin, go to **Catalog**, or type **Catalog** in the search bar at the top of the page.
 2. Click on **Collections**.
 3. Click on the `Create Collection` button.
-4. Fill in the [Collection fields](https://help.vtex.com/en/tutorial/cadastrar-colecoes-beta--yJBHqNMViOAnnnq4fyOye#collection-data-fields).
+4. Fill in the [Collection fields](/en/tutorial/cadastrar-colecoes-beta--yJBHqNMViOAnnnq4fyOye#collection-data-fields).
 5. Click on `Create` to update the information filled in the form.
-6. Then, [select the products](https://help.vtex.com/en/tutorial/cadastrar-colecoes-beta--yJBHqNMViOAnnnq4fyOye#products-selection) that will be part of the collection.
+6. Then, [select the products](/en/tutorial/cadastrar-colecoes-beta--yJBHqNMViOAnnnq4fyOye#products-selection) that will be part of the collection.
 
 > ℹ️ Note that the collections created in this module are not automatically changed. Automatic collections - made by applying filters - cannot be configured in the module.
 

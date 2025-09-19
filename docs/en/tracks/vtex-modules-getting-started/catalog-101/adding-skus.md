@@ -21,11 +21,11 @@ There are different ways to add SKUs:
 - Importing spreadsheet
 - API
 
-> ℹ️ If you want to import SKUs via [backend integrations](https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu) with an ERP, check out the [Back office integration guide (ERP/PIM/WMS)](https://developers.vtex.com/docs/guides/erp-integration-guide).
+> ℹ️ If you want to import SKUs via [backend integrations](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu) with an ERP, check out the [Back office integration guide (ERP/PIM/WMS)](https://developers.vtex.com/docs/guides/erp-integration-guide).
 
 ## VTEX Admin
 
-To add a new SKU to the store catalog, check the article [Adding or editing SKUs](https://help.vtex.com/en/tutorial/adding-or-editing-skus--4ryZ6J45kwn3jDiQBxGiiN).
+To add a new SKU to the store catalog, check the article [Adding or editing SKUs](/en/tutorial/adding-or-editing-skus--4ryZ6J45kwn3jDiQBxGiiN).
 
 ## Spreadsheet
 
@@ -39,7 +39,7 @@ You can do this by following the steps below:
 2.	Click on **Import and Export**.
 3.	In the first tab, called **All products**, click on **Export / Import**.
 4.	In __Export__, in the green box, add the emails to which to export the spreadsheet. Next, click on the blue `Export to Excel` button. 
-5. After receiving the spreadsheet, fill it in with the SKU data. For more, access our article on [how to fill out the SKU and product spreadsheet](https://help.vtex.com/en/tutorial/fill-in-import-spreadsheet-fields--4nYhx63Q5yokQWaMguaIgI).
+5. After receiving the spreadsheet, fill it in with the SKU data. For more, access our article on [how to fill out the SKU and product spreadsheet](/en/tutorial/fill-in-import-spreadsheet-fields--4nYhx63Q5yokQWaMguaIgI).
 
 ### Import spreadsheet
 
@@ -60,7 +60,7 @@ After adding a SKU you need to also link an image to it in order to activate it.
 2.	Click on **Import and Export**
 3.	Click on the **Import Images** tab
 4.	Click on the word **here** to download the default import spreadsheet.
-5.	Open the spreadsheet that you’ve received by email and fill it out. For more on each field and how to fill them out, read our article on [importing images through a spreadsheet](https://help.vtex.com/en/tutorial/importing-images-through-spreadsheet--tutorials_262). 
+5.	Open the spreadsheet that you’ve received by email and fill it out. For more on each field and how to fill them out, read our article on [importing images through a spreadsheet](/en/tutorial/importing-images-through-spreadsheet--tutorials_262). 
 6.	After filling out the spreadsheet, click on **Select file**.
 7.	Select the file you wish to upload and click on open.
 8.	Click on **Import**.

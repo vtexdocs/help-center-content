@@ -23,13 +23,13 @@ VTEX uses **Cloudfront** as CDN provider in the stores. Your store's domain must
 
 So, if you have the store domain registered on the **Cloudfront** platform, delete it before pointing the DNS to VTEX.
 
-> ⚠️ If you are unable to delete your store's domain registration on the **Cloudfront** platform, please contact [VTEX support](https://help.vtex.com/en/support) to explain the situation. VTEX will help you ensure your store is running smoothly at go-live.
+> ⚠️ If you are unable to delete your store's domain registration on the **Cloudfront** platform, please contact [VTEX support](/en/support) to explain the situation. VTEX will help you ensure your store is running smoothly at go-live.
 
 ## Configuring CAA records
 
 > ⚠️ You will only need to configure CAA records, as described in this section if there is a CAA record in your DNS server. Otherwise, proceed to the next section of this guide.
 
-CAA records indicate which certificate authorities (CAs) are entitled to generate and renew certificates to confirm your domain identity. Proper configuration of these records is necessary to generate [SSL certificates](https://help.vtex.com/en/tutorial/certificado-de-seguranca-ssl-a-que-se-refere-e-como-contratar--tutorials_1308) and use the VTEX CDN.
+CAA records indicate which certificate authorities (CAs) are entitled to generate and renew certificates to confirm your domain identity. Proper configuration of these records is necessary to generate [SSL certificates](/en/tutorial/certificado-de-seguranca-ssl-a-que-se-refere-e-como-contratar--tutorials_1308) and use the VTEX CDN.
 
 The CAA records must contain the following entry:
 

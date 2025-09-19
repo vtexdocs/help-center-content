@@ -14,7 +14,7 @@ locale: es
 legacySlug: por-que-al-entrar-en-el-panel-administrativo-soy-redirigido-a-mi-tienda
 ---
 
-Este escenario ocurre cuando el email utilizado para entrar en el panel administrativo tiene acceso a algún recurso de Televentas, configuración realizada a través de [perfiles de acceso](https://help.vtex.com/es/tutorial/access-profiles--7HKK5Uau2H6wxE1rH5oRbc), en __Gestión de la cuenta__.
+Este escenario ocurre cuando el email utilizado para entrar en el panel administrativo tiene acceso a algún recurso de Televentas, configuración realizada a través de [perfiles de acceso](/es/tutorial/access-profiles--7HKK5Uau2H6wxE1rH5oRbc), en __Gestión de la cuenta__.
 
 Los perfiles de televenta bloquean el acceso al __Catálogo__, es decir, el usuario no puede acceder al registro de productos, por ejemplo. Si es necesario acceder a este módulo, el usuario debe trabajar con dos logins diferentes.
 

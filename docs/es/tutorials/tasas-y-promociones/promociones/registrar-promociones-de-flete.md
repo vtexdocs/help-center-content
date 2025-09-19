@@ -15,11 +15,11 @@ locale: es
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
-En la plataforma VTEX, usted puede crear diversas modalidades de [descuentos](https://help.vtex.com/es/tutorial/como-criar-promocoes?locale=pt "descontos") para su tienda. Con las promociones de flete, el comprador recibe un descuento en el valor cobrado para la entrega de su pedido.
+En la plataforma VTEX, usted puede crear diversas modalidades de [descuentos](/es/tutorial/como-criar-promocoes?locale=pt "descontos") para su tienda. Con las promociones de flete, el comprador recibe un descuento en el valor cobrado para la entrega de su pedido.
 
-El paso a paso para crear una promoción de flete es el mismo de las [demás promociones regulares](https://help.vtex.com/es/tutorial/registro-promocion-regular--tutorials_327). Sin embargo, hay algunas especificidades que se deben tener en cuenta al configurar este tipo de promociones.
+El paso a paso para crear una promoción de flete es el mismo de las [demás promociones regulares](/es/tutorial/registro-promocion-regular--tutorials_327). Sin embargo, hay algunas especificidades que se deben tener en cuenta al configurar este tipo de promociones.
 
-Antes de configurar cualquier promoción de coste de envío, debe entender cuáles son las formas de ofrecer el descuento a los compradores. En VTEX, hay cuatro opciones de promoción de flete, que se pueden seleccionar en el campo **¿Qué tipo e importe de descuento?** [durante la creación de la Promoción regular](https://help.vtex.com/es/tutorial/registro-promocion-regular--tutorials_327). Vea las opciones a continuación.
+Antes de configurar cualquier promoción de coste de envío, debe entender cuáles son las formas de ofrecer el descuento a los compradores. En VTEX, hay cuatro opciones de promoción de flete, que se pueden seleccionar en el campo **¿Qué tipo e importe de descuento?** [durante la creación de la Promoción regular](/es/tutorial/registro-promocion-regular--tutorials_327). Vea las opciones a continuación.
 
 - **Carga nominal:** descuento específico para el valor del flete. Ejemplo: Descuento de USD 20 para cualquier flete en la región Nordeste.
 - **Carga porcentual:** descuento de un porcentaje del valor de envío. Ejemplo: 50% de descuento en el valor de envío para los productos del departamento infantil.
@@ -78,4 +78,4 @@ En resumen, la casilla **Aplique el descuento solo cuando el cliente seleccione 
 
 Durante la configuración en el módulo **Tasas y Promociones**, usted puede habilitar más de una transportadora para la misma promoción. Sin embargo, su cliente solo podrá seleccionar una transportadora al finalizar la compra.
 
-Otra posibilidad es configurar una promoción de flete creando una promoción de campaña. Para conocer las especificidades de flete en esta modalidad de descuento, [lea nuestro artículo](https://help.vtex.com/es/tutorial/crear-promocion-de-campana--1ChYXhK2AQGuS6wAqS8Ume#).
+Otra posibilidad es configurar una promoción de flete creando una promoción de campaña. Para conocer las especificidades de flete en esta modalidad de descuento, [lea nuestro artículo](/es/tutorial/crear-promocion-de-campana--1ChYXhK2AQGuS6wAqS8Ume#).

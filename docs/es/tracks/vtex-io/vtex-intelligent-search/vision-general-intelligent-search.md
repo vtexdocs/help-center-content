@@ -21,7 +21,7 @@ De manera simple e intuitiva, presenta resultados relevantes desde la primera in
 
 En esta serie de artículos, presentamos los pasos necesarios para configurar y comenzar a utilizar Intelligent Search en tu tienda VTEX.
 
-> ℹ️ Descubre todas las funcionalidades disponibles y aprende más sobre el comportamiento de la herramienta en [Intelligent Search - Visión general](https://help.vtex.com/es/tutorial//tutorial/intelligent-search-vision-geral--5o8ixTpYIxx3uJD0B1xp3z).
+> ℹ️ Descubre todas las funcionalidades disponibles y aprende más sobre el comportamiento de la herramienta en [Intelligent Search - Visión general](/es/tutorial//tutorial/intelligent-search-vision-geral--5o8ixTpYIxx3uJD0B1xp3z).
 
 ## Requisitos
 
@@ -31,4 +31,4 @@ Antes de empezar a utilizar Intelligent Search, comprueba si tu tienda cumple lo
 
   > ℹ️ Este requisito no aplica a escenarios de implementación headless, donde la tecnología frontend no es proporcionada por VTEX. En estos casos, es necesario implementar el envío de los eventos de búsqueda. Para más información, consulta [VTEX Intelligent Search Events API - Headless](https://developers.vtex.com/docs/api-reference/intelligent-search-events-api-headless).
 
-* La tienda debe tener [productos y SKUs registrados en el catálogo](https://help.vtex.com/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1ROhz3Y7mfSMmCO1I1GxEL) y activos.
+* La tienda debe tener [productos y SKUs registrados en el catálogo](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1ROhz3Y7mfSMmCO1I1GxEL) y activos.

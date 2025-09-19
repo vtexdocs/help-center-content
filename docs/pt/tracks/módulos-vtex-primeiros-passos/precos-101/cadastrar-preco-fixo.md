@@ -18,7 +18,7 @@ order: 10
 Há três formas de cadastrar um preço fixo:
 
 - [Pelo módulo de Preços no Admin](#admin)
-- [Pela planilha de preços fixos](https://help.vtex.com/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/5lV5s54lQ69zPXxngbpI5D)
+- [Pela planilha de preços fixos](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/5lV5s54lQ69zPXxngbpI5D)
 - [Pela Pricing API](#pricing-api)
 
 ## Admin
@@ -70,4 +70,4 @@ Para cadastrar um preço fixo por API, use o endpoint [Create or update base or 
 
 ### Saiba mais
 
-* [Agendar preço](https://help.vtex.com/pt/tutorial/agendar-preco--4vVha6TGzYkguWuMOqCcCk)
+* [Agendar preço](/pt/tutorial/agendar-preco--4vVha6TGzYkguWuMOqCcCk)

@@ -80,4 +80,4 @@ El flujo en Customer Credit es similar al de las tarjetas de crédito en relaci�
 
 ## Instalacion y configuracion
 
-Para instalar y configurar Customer Credit en su tienda, acceda a Track [Customer Credit - Cómo Empezar](https://help.vtex.com/es/tracks/customer-credit-como-empezar--1hCRg21lXYy2seOKgqQ2CC/36grlQ69NK6OCuioeekyCs).
+Para instalar y configurar Customer Credit en su tienda, acceda a Track [Customer Credit - Cómo Empezar](/es/tracks/customer-credit-como-empezar--1hCRg21lXYy2seOKgqQ2CC/36grlQ69NK6OCuioeekyCs).

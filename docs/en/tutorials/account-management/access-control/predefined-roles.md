@@ -15,11 +15,11 @@ locale: en
 subcategoryId: 1HSqkejwuYcQSMC400uY84
 ---
 
-[Roles](https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#) group [License Manager resources](https://help.vtex.com/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3#), with each resource representing a permission in the VTEX platform.
+[Roles](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#) group [License Manager resources](/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3#), with each resource representing a permission in the VTEX platform.
 
 In this document, are listed the roles that are predefined for new VTEX stores and their respective resources. To access them directly, use the list below.
 
-> ℹ️ Learn more about each resource listed in the roles below in [License Manager Resources](https://help.vtex.com/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3#).
+> ℹ️ Learn more about each resource listed in the roles below in [License Manager Resources](/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3#).
 
 * [Admin - Start page only](#admin-start-page-only)
 * [Checkout Admin](#checkout-admin)
@@ -66,13 +66,13 @@ Resource table:
 
 ## Call center operator
 
-This is a role dedicated to telesales operators, as it grants access to VTEX's [telesales features](https://help.vtex.com/en/tutorial/telesales-features--UqhiccIRIK2KD0OqkzJaS) and allows you to view orders.
+This is a role dedicated to telesales operators, as it grants access to VTEX's [telesales features](/en/tutorial/telesales-features--UqhiccIRIK2KD0OqkzJaS) and allows you to view orders.
 
 The Assisted Sales resource causes the user to be automatically redirected to the store's telesales page, which will leave the user logging into an account with this role without access to important features of the administrative menu.
 
 We therefore recommend using two separate accounts (with different emails) for telesales users: one account for the __Call center operator__ role (with the *Assisted Sales* and *View order* resources) and another account for carrying out operations in Admin, if necessary.
 
-> ⚠️ When creating a [role](https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#), avoid including call center [resources](https://help.vtex.com/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3#) with other resources. Otherwise, the role might not work as expected.
+> ⚠️ When creating a [role](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#), avoid including call center [resources](/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3#) with other resources. Otherwise, the role might not work as expected.
 
 Resource table:
 

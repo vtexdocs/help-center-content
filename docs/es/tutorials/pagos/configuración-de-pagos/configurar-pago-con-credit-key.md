@@ -33,7 +33,7 @@ Para configurar la afiliación Credit Key, siga los pasos a continuación:
 3. Haga clic en el método de pago __Credit Key__.
 4. Active la condición en el campo __Status__.
 5. Si desea utilizar un sistema antifraude, seleccione la opción __Utilizar antifraude__.
-6. Si lo desea, también puede configurar [condiciones especiales de pago](https://help.vtex.com/es/tutorial/condiciones-especiales--tutorials_456).
+6. Si lo desea, también puede configurar [condiciones especiales de pago](/es/tutorial/condiciones-especiales--tutorials_456).
 7. Haga clic en `Guardar`.
 
 Después de seguir los pasos indicados, Credit Key puede tardar hasta 10 minutos en aparecer en el checkout de tu tienda como una opción de pago.

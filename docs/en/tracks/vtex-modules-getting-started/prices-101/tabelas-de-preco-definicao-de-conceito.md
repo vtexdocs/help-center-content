@@ -19,13 +19,13 @@ order: 3
 
 A price list is a set of SKU prices for a specific context. This table stores the price information that will be visible in the store.
 
-A price table can be considered an entity that calculates and provides the [computed prices](https://help.vtex.com/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/7GptzvlPDVM11ojEjywIQx) for its SKUs.
+A price table can be considered an entity that calculates and provides the [computed prices](/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/7GptzvlPDVM11ojEjywIQx) for its SKUs.
 
 ## Relationship between price tables and trade policies
 
-Price tables and [trade policies](https://help.vtex.com/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) serve distinct purposes. Price tables contain the SKU prices, determining how much each item costs in a particular context. Trade policies define the sales context, specifying who will see the price and where it will be displayed.
+Price tables and [trade policies](/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) serve distinct purposes. Price tables contain the SKU prices, determining how much each item costs in a particular context. Trade policies define the sales context, specifying who will see the price and where it will be displayed.
 
-When not linked to trade policies, price tables can be applied in contexts such as [promotions](https://help.vtex.com/en/tutorial/lista-de-promocoes-beta--4yB7nNdliiFxBTXE19GCIi) and [customer clusters](https://help.vtex.com/en/tutorial/criando-promocao-para-um-cluster-de-clientes--tutorials_342). However, if a table is created to support a trade policy, it must be exclusively associated with that policy. 
+When not linked to trade policies, price tables can be applied in contexts such as [promotions](/en/tutorial/lista-de-promocoes-beta--4yB7nNdliiFxBTXE19GCIi) and [customer clusters](/en/tutorial/criando-promocao-para-um-cluster-de-clientes--tutorials_342). However, if a table is created to support a trade policy, it must be exclusively associated with that policy. 
 
 > ℹ️ A table linked to a trade policy defines the SKU prices for that specific sales context and cannot be used in other contexts.
 

@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisES: 'Ahora puedes habilitar precios manuales para las suscripciones en tu tienda.'
 ---
 
-Al utilizar [Suscripciones](https://help.vtex.com/es/tutorial/como-funciona-suscripciones--frequentlyAskedQuestions_4453), la aplicación desarrollada por VTEX para facilitar las ventas recurrentes, es posible que los comerciantes necesiten configurar un precio manual para cada ítem para ofrecer mejores ofertas a los compradores recurrentes. 
+Al utilizar [Suscripciones](/es/tutorial/como-funciona-suscripciones--frequentlyAskedQuestions_4453), la aplicación desarrollada por VTEX para facilitar las ventas recurrentes, es posible que los comerciantes necesiten configurar un precio manual para cada ítem para ofrecer mejores ofertas a los compradores recurrentes. 
 
 Con esto en mente, ahora puedes activar la funcionalidad Precio Manual para Suscripciones v3 en tu tienda, lo que te permite:
 

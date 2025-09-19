@@ -17,7 +17,7 @@ subcategoryId: 42hDtnYXHw5ExG6l19RP1l
 
 Na VTEX, uma promoção ou desconto pode ser aplicado a um grupo de clientes. Este grupo pode ser definido pelas propriedades que os clientes têm em comum.
 
-> ⚠️ Este artigo diz respeito ao funcionamento do Master Data v1. É importante avaliar qual versão do Master Data atende as necessidades ou está em uso na sua operação. Saiba mais: <ul> <li> [ Características das versões do Master Data ](https://help.vtex.com/tutorial/master-data--4otjBnR27u4WUIciQsmkAw#versions-available) </li> <li> [ Master Data v2 ](https://developers.vtex.com/vtex-rest-api/docs/getting-started-1) </li> </ul>
+> ⚠️ Este artigo diz respeito ao funcionamento do Master Data v1. É importante avaliar qual versão do Master Data atende as necessidades ou está em uso na sua operação. Saiba mais: <ul> <li> [ Características das versões do Master Data ](/tutorial/master-data--4otjBnR27u4WUIciQsmkAw#versions-available) </li> <li> [ Master Data v2 ](https://developers.vtex.com/vtex-rest-api/docs/getting-started-1) </li> </ul>
 
 Este artigo mostra como configurar uma promoção para colaboradores. Considera-se que os colaboradores são um grupo de clientes, portanto são identificados usando clusters do Master Data.
 
@@ -26,21 +26,21 @@ Como os dados do cliente são armazenados como documentos da entidade de dados C
 ## O que é um cluster?
 No Master Data, um cluster é um campo com um valor determinado para uma entidade de dados. Um ou mais clusters definem esse grupo de clientes com propriedades comuns na entidade de dados CL.
 
-Aqui, a propriedade comum dos clientes é que eles também são funcionários da loja. Mais informações sobre clusters de clientes podem ser encontradas no artigo [Criar um cluster de clientes](https://help.vtex.com/pt/tutorial/como-criar-um-cluster-de-clientes--frequentlyAskedQuestions_1724).
+Aqui, a propriedade comum dos clientes é que eles também são funcionários da loja. Mais informações sobre clusters de clientes podem ser encontradas no artigo [Criar um cluster de clientes](/pt/tutorial/como-criar-um-cluster-de-clientes--frequentlyAskedQuestions_1724).
 
 Este artigo assume que os colaboradores estão devidamente registrados com um campo booleano `é funcionário` definido como verdadeiro em seus respectivos documentos para a entidade de dados CL, como demonstrado na figura abaixo. 
 
-Caso contrário, verifique o artigo [Criando um campo no Master Data](https://help.vtex.com/pt/tutorial/como-crio-um-campo-no-master-data--frequentlyAskedQuestions_1829) para criar um campo que identifique os funcionários e configure-o adequadamente para cada documento correspondente aos funcionários.
+Caso contrário, verifique o artigo [Criando um campo no Master Data](/pt/tutorial/como-crio-um-campo-no-master-data--frequentlyAskedQuestions_1829) para criar um campo que identifique os funcionários e configure-o adequadamente para cada documento correspondente aos funcionários.
 ![Campo do colaborador](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/master-data/gest%C3%A3o-de-clientes/configurar-beneficios-para-funcionarios-usando-master-data-clusters_1.png)
 
-<div class="alert-info" role="alert">São muitos os detalhes para configurar uma promoção. Se você precisar de informações adicionais sobre este assunto, consulte o artigo [Criar promoções](https://help.vtex.com/pt/tutorial/como-criar-promocoes--tutorials_320).</div>
+<div class="alert-info" role="alert">São muitos os detalhes para configurar uma promoção. Se você precisar de informações adicionais sobre este assunto, consulte o artigo [Criar promoções](/pt/tutorial/como-criar-promocoes--tutorials_320).</div>
 
 Com o campo configurado, a promoção pode ser criada seguindo os passos abaixo:
 
 1. No painel esquerdo do Admin, acesse **Promoções** > **Promoções**.
 2. Com o menu **Promoções** aberto, clique no botão **Nova promoção** no canto superior direito.
 3. Escolha o tipo de promoção desejado a partir das opções disponíveis
-4. Preencha os campos necessários para estabelecer a promoção. Há muitos campos (por exemplo: Nome, data de vencimento, tipo e valor do desconto, etc.) e alguns deles são específicos para o tipo de promoção selecionado. Mais informações sobre a configuração das promoções podem ser encontradas no artigo [Criar promoções](https://help.vtex.com/pt/tutorial/como-criar-promocoes--tutorials_320).
+4. Preencha os campos necessários para estabelecer a promoção. Há muitos campos (por exemplo: Nome, data de vencimento, tipo e valor do desconto, etc.) e alguns deles são específicos para o tipo de promoção selecionado. Mais informações sobre a configuração das promoções podem ser encontradas no artigo [Criar promoções](/pt/tutorial/como-criar-promocoes--tutorials_320).
 5. Para aplicar a promoção somente aos funcionários, dentro da seção 3 (Quais são as **condições** para a promoção ser válida?), selecione a opção **Cluster de clientes**.
 6. No campo vazio abaixo da opção **Cluster de clientes**, escreva o cluster que identifica os clientes que são empregados (um par `{campo}={valor}`). Neste caso, é utilizado `isEmployee=true`.
 7. No final da página, clique no botão **Salvar***.

@@ -15,14 +15,14 @@ locale: en
 subcategoryId: 7uJcyu0VawEm8ggqKu404u
 ---
 
-Your store's [shipping rates](https://help.vtex.com/en/tutorial/tarifas-de-envio--1Balpg3rv0854udEPedvMM) are the shipping cost options that will be offered to your customers. In the Admin, the **Shipping rates** module allows you to manage shipping rates individually using postal codes. In this module, you can:
+Your store's [shipping rates](/en/tutorial/tarifas-de-envio--1Balpg3rv0854udEPedvMM) are the shipping cost options that will be offered to your customers. In the Admin, the **Shipping rates** module allows you to manage shipping rates individually using postal codes. In this module, you can:
 
 * [Add shipping rates](#adding-shipping-rates).
 * [Search for existing shipping rates](#searching-for-existing-shipping-rates).
 * [Edit shipping rates](#editing-shipping-rates).
 * [Delete shipping rates](#deleting-shipping-rates).
 
-> ℹ️ If you need to update or add multiple shipping rates, we recommend using the shipping rate template instead of the **Shipping rates** module. If you want to check out how shipping rates are added and displayed to the end customer, use the [Shipping simulator](https://help.vtex.com/en/tutorial/simulacao-de-frete--tutorials_144) module.
+> ℹ️ If you need to update or add multiple shipping rates, we recommend using the shipping rate template instead of the **Shipping rates** module. If you want to check out how shipping rates are added and displayed to the end customer, use the [Shipping simulator](/en/tutorial/simulacao-de-frete--tutorials_144) module.
 
 ## Adding shipping rates
 
@@ -31,7 +31,7 @@ To add a new shipping rate, follow the steps below:
 1. In the VTEX Admin, go to **Shipping > Shipping rates**, or type *Shipping rates* in the search bar at the top of the page.   
 2. Click on the `New shipping rate` button.
 3. Fill in the fields.
-    * **Shipping policy**: select the [shipping policy](https://help.vtex.com/en/tutorial/politica-de-envio--tutorials_140) to which the new rate will apply.
+    * **Shipping policy**: select the [shipping policy](/en/tutorial/politica-de-envio--tutorials_140) to which the new rate will apply.
     * **Country**: country in which the carrier will make the delivery.
     * **Postal code range: **the postal code interval to which the new rate will apply. This field must be filled in only with numbers and/or letters.
     * **Weight range**: minimum and maximum shipment weight limits accepted by the carrier (considering the shipping rate and postal code specified). This field must be filled in with a decimal number. The weight unit (grams, kilograms, etc.) must be the same used when adding items (SKUs) to the catalog. 
@@ -51,7 +51,7 @@ To check your existing shipping rates, follow the steps below:
 3. Select a **Shipping policy**.
 4. Click on `Search`.
 
-A list of search requirements will be available. The list contains the rates added both using the [shipping rate template](https://help.vtex.com/en/tutorial/planilha-de-frete--tutorials_127) and the [Shipping rate](https://help.vtex.com/en/tutorial/tarifas-de-envio--1Balpg3rv0854udEPedvMM) module, and you can edit or delete a shipping rate.
+A list of search requirements will be available. The list contains the rates added both using the [shipping rate template](/en/tutorial/planilha-de-frete--tutorials_127) and the [Shipping rate](/en/tutorial/tarifas-de-envio--1Balpg3rv0854udEPedvMM) module, and you can edit or delete a shipping rate.
 
 ## Editing shipping rates
 

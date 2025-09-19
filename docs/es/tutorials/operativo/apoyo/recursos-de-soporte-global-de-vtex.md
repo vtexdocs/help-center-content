@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 1yB08KlKzqJOdc0bn38HaY
 ---
 
-Este documento detalla la disponibilidad, el SLA de servicio y los recursos de soporte adicionales que VTEX ofrece a sus clientes. Para saber más sobre cómo funciona el soporte de VTEX, accede a [¿Cómo funciona el soporte de VTEX?](https://help.vtex.com/es/tutorial/como-funciona-o-suporte-da-vtex--2eAT5EyOvaLoHdIWDVaxC3)
+Este documento detalla la disponibilidad, el SLA de servicio y los recursos de soporte adicionales que VTEX ofrece a sus clientes. Para saber más sobre cómo funciona el soporte de VTEX, accede a [¿Cómo funciona el soporte de VTEX?](/es/tutorial/como-funciona-o-suporte-da-vtex--2eAT5EyOvaLoHdIWDVaxC3)
 
 ## Disponibilidad y SLA del servicio de soporte
 
@@ -66,7 +66,7 @@ Los tickets urgentes reportan problemas críticos con impacto directo en las ven
 | Imposibilidad de atender pedidos | Los status de pedidos no se están actualizando El feed o hook de pedidos no está funcionando |
 | Usabilidad de la tienda no disponible | No se pueden agregar ítems al carrito No es posible registrarse en el sitio web La búsqueda interna no devuelve respuesta |
 
-> ⚠️ Los tickets urgentes contarán con asistencia prioritaria, disponible exclusivamente a través de [tickets en Zendesk](https://help.vtex.com/en/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM).
+> ⚠️ Los tickets urgentes contarán con asistencia prioritaria, disponible exclusivamente a través de [tickets en Zendesk](/en/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM).
 
 ## Clasificación de la prioridad de los tickets
 

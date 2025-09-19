@@ -110,7 +110,7 @@ To configure Itaú Rede, follow the steps below:
 4. Activate the condition in the __Status__ field.
 5. In __Process with provider__, select the __ItauRede__ option.
 6. If you want to use an anti-fraud system, select the option __Use anti-fraud solution__.
-7. If you want, you can also [configure special payment conditions](https://help.vtex.com/en/tutorial/special-conditions--tutorials_456).
+7. If you want, you can also [configure special payment conditions](/en/tutorial/special-conditions--tutorials_456).
 8. Click `Save`.
 
 After following the indicated steps, Itaú Rede may take up to 10 minutes to appear at your store's checkout as a payment option.

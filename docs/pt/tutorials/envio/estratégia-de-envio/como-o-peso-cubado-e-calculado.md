@@ -51,7 +51,7 @@ Porém, o cálculo acima é apenas ilustrativo. Na transportadora, o valor cadas
 
 Ou seja, caso o valor oferecido pela sua transportadora `6.000`, é necessário primeiro realizar o cálculo onde este valor dividirá 1.000: Exemplo: `1000g/6000 cm³ = 0,167`.
 
-Ao realizar o cadastro da sua transportadora, esse é o valor que você deve preencher no campo **Fator de peso cúbico** na sua [política de envio](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140).
+Ao realizar o cadastro da sua transportadora, esse é o valor que você deve preencher no campo **Fator de peso cúbico** na sua [política de envio](/pt/tutorial/politica-de-envio--tutorials_140).
 
 ![cubic_weight_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/estrat%C3%A9gia-de-envio/como-o-peso-cubado-e-calculado_2.png)
 

@@ -36,5 +36,5 @@ A través del nuevo diseño, la interfaz de Gestión del inventario ahora muestr
 
 Si bien actualizamos el diseño de la pestaña, los campos de configuración no se alteraron. Toda la información sobre el stock de su tienda que estaba en la pestaña *Inventario* sigue siendo la misma. No se necesita realizar ninguna configuración o adaptación. 
 
-Vea la documentación sobre nuestra nueva página [Gestión del inventario](https://help.vtex.com/es/tutorial/gerenciar-itens-em-estoque) para saber más. 
+Vea la documentación sobre nuestra nueva página [Gestión del inventario](/es/tutorial/gerenciar-itens-em-estoque) para saber más. 
 

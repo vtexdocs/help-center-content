@@ -34,7 +34,7 @@ Para ativar a funcionalidade será necessário:
 
 Para instalar o módulo de Assinaturas, você precisar abrir uma solicitação com o [nosso suporte](https://support.vtex.com/hc/pt-br/), indicando o nome da conta VTEX e selecionando a opção **Técnico**.
 
-A previsão de resposta da solicitação é de até 24 horas, seguindo [nosso SLA de atendimento](https://help.vtex.com/pt/tutorial/suporte-vtex-brasil--bxOl9e62rq0ZZMsGodchd).
+A previsão de resposta da solicitação é de até 24 horas, seguindo [nosso SLA de atendimento](/pt/tutorial/suporte-vtex-brasil--bxOl9e62rq0ZZMsGodchd).
 
 ## 2. Configurar meios de pagamento
 
@@ -51,17 +51,17 @@ Atualmente, os seguintes meios de pagamento estão habilitados para pedidos de a
 
 > ℹ️ Para disponibilizar a opção de pagamento **Cartão de Crédito**, entre em contato com o adquirente da sua loja e certifique-se que ele aceita transações de compras recorrentes oriundas de cartões tokenizados (sem CVV). O sistema de **Assinaturas** utilizará os mesmos dados do cartão da primeira compra para realizar os pedidos seguintes da assinatura, garantindo a segurança de todo o processo.
 
-Para habilitar esse tipo de transação no conector, o gestor da loja deverá solicitar ao adquirente a liberação para transacionar pagamentos recorrentes. Confira o nosso artigo sobre [Cadastrar afiliações de gateway](https://help.vtex.com/pt/tutorial/afiliacoes-de-gateway--tutorials_444).
+Para habilitar esse tipo de transação no conector, o gestor da loja deverá solicitar ao adquirente a liberação para transacionar pagamentos recorrentes. Confira o nosso artigo sobre [Cadastrar afiliações de gateway](/pt/tutorial/afiliacoes-de-gateway--tutorials_444).
 
 ## 3. Criar um plano de assinatura
 
-No módulo de __Assinaturas__, você precisa criar planos de assinatura para disponibilizar para seus clientes e associar produtos a esses planos. Os planos servem para indicar que a funcionalidade de Assinaturas está ativa para determinados produtos e apresentar as frequências de assinaturas disponíveis. Confira o artigo [Como criar um plano de assinatura](https://help.vtex.com/pt/tutorial/como-criar-um-plano-de-assinatura-beta--1qGRoFczm98Wgt81f9mUqC) para saber mais sobre esse processo.
+No módulo de __Assinaturas__, você precisa criar planos de assinatura para disponibilizar para seus clientes e associar produtos a esses planos. Os planos servem para indicar que a funcionalidade de Assinaturas está ativa para determinados produtos e apresentar as frequências de assinaturas disponíveis. Confira o artigo [Como criar um plano de assinatura](/pt/tutorial/como-criar-um-plano-de-assinatura-beta--1qGRoFczm98Wgt81f9mUqC) para saber mais sobre esse processo.
 
-Existe uma outra opção para criar um plano de assinatura, que consiste em criar manualmente um anexo de SKU no __Catálogo__. O **Anexo de SKU** é responsável por indicar que a funcionalidade de Assinatura está ativa para esse SKU, e também quais são as frequências disponíveis. Confira o artigo [Como criar um anexo de assinatura](https://help.vtex.com/pt/tutorial/como-criar-um-anexo-de-assinatura--2bUuKyPflA8cOGLv8OvaKK) para saber mais sobre esse processo.
+Existe uma outra opção para criar um plano de assinatura, que consiste em criar manualmente um anexo de SKU no __Catálogo__. O **Anexo de SKU** é responsável por indicar que a funcionalidade de Assinatura está ativa para esse SKU, e também quais são as frequências disponíveis. Confira o artigo [Como criar um anexo de assinatura](/pt/tutorial/como-criar-um-anexo-de-assinatura--2bUuKyPflA8cOGLv8OvaKK) para saber mais sobre esse processo.
 
 ## 4. Configurar Perfis de acesso para Assinaturas
 
-Existe uma série de recursos relacionados a assinaturas, disponíveis no módulo de **Perfis de Acesso** da sua loja. São esses recursos que permitem o acesso dos usuários do seu Admin VTEX a determinadas funcionalidades, para operarem o módulo de Assinaturas. Para saber mais sobre perfis de acesso, confira o nosso [artigo](https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#criando-um-perfil-de-acesso).
+Existe uma série de recursos relacionados a assinaturas, disponíveis no módulo de **Perfis de Acesso** da sua loja. São esses recursos que permitem o acesso dos usuários do seu Admin VTEX a determinadas funcionalidades, para operarem o módulo de Assinaturas. Para saber mais sobre perfis de acesso, confira o nosso [artigo](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#criando-um-perfil-de-acesso).
 
 > ⚠️ Se o usuário não tiver as permissões necessárias para acessar os dados das telas de **Assinaturas**, o sistema exibe um alerta informando que ele não tem essas permissões, e o usuário não consegue ver os dados.
 
@@ -83,7 +83,7 @@ Para configurar os Perfis de acesso de Assinatura, siga as instruções abaixo.
 5. Marque as caixas dos recursos que deseja adicionar.
 6. Clique em `Salvar`. 
 
-Agora que as Assinaturas já estão configuradas em sua loja, acesse nosso artigo para conferir como [gerenciar assinaturas](https://help.vtex.com/pt/tutorial/como-gerenciar-assinaturas--6Jk50FPbv6iuz1OsFypv8x).
+Agora que as Assinaturas já estão configuradas em sua loja, acesse nosso artigo para conferir como [gerenciar assinaturas](/pt/tutorial/como-gerenciar-assinaturas--6Jk50FPbv6iuz1OsFypv8x).
 
-É possível testar o fluxo de compra de uma Assinatura na perspectiva do seu cliente. Para checar como o cliente da sua loja gera um pedido com Assinatura, confira nosso artigo sobre [Como funciona a Assinatura](https://help.vtex.com/pt/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453).
+É possível testar o fluxo de compra de uma Assinatura na perspectiva do seu cliente. Para checar como o cliente da sua loja gera um pedido com Assinatura, confira nosso artigo sobre [Como funciona a Assinatura](/pt/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453).
 

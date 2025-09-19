@@ -54,8 +54,8 @@ No se requiere ninguna acción. Las optimizaciones se aplican automáticamente e
 
 Para más información, consulta los siguientes artículos:
 
-- [Comprar juntos](https://help.vtex.com/es/tutorial/compre-junto--tutorials_323)
-- [Compra uno y lleva uno gratis](https://help.vtex.com/es/tutorial/compre-e-ganhe--tutorials_322)
-- [Descuento progresivo](https://help.vtex.com/es/tutorial/desconto-progressivo--tutorials_324)
-- [Más por menos](https://help.vtex.com/es/tutorial/leve-mais-por-menos--tutorials_325)
+- [Comprar juntos](/es/tutorial/compre-junto--tutorials_323)
+- [Compra uno y lleva uno gratis](/es/tutorial/compre-e-ganhe--tutorials_322)
+- [Descuento progresivo](/es/tutorial/desconto-progressivo--tutorials_324)
+- [Más por menos](/es/tutorial/leve-mais-por-menos--tutorials_325)
 

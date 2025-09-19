@@ -23,7 +23,7 @@ Desse modo, o preço fixo se sobrepõe ao __preço base__, mesmo em casos que um
 
 Isso significa que o preço fixo tem uma prioridade sobre o preço base e a regra de preço definida para uma tabela.
 
-> ⚠️ Apenas [preços fixos](https://help.vtex.com/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3g39iXkQza4AW7C7L814mj) são utilizados nas nossas integrações nativas com marketplaces. Outros cenários previstos na [arquitetura do sistema de preços](https://help.vtex.com/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/7GptzvlPDVM11ojEjywIQx) estão disponíveis apenas para marketplace VTEX-VTEX.
+> ⚠️ Apenas [preços fixos](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3g39iXkQza4AW7C7L814mj) são utilizados nas nossas integrações nativas com marketplaces. Outros cenários previstos na [arquitetura do sistema de preços](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/7GptzvlPDVM11ojEjywIQx) estão disponíveis apenas para marketplace VTEX-VTEX.
 
 ## Funcionalidades 
 

@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisEN: 'The Marketplace Network has been improved and added to all stores that act as sellers or marketplaces.'
 ---
 
-A big challenge for marketplaces and sellers in our ecosystem is connecting with new partners to expand their offerings and reach. The [Marketplace Network](https://help.vtex.com/en/tutorial/encontre-marketplaces-e-sellers-no-ecossistema-vtex--2bzC7tXlVgLEEjxo4ixcAM) module facilitates this connection by acting as a catalog of marketplaces and sellers interested in partnerships. It allows them to register, consult and contact potential partners.
+A big challenge for marketplaces and sellers in our ecosystem is connecting with new partners to expand their offerings and reach. The [Marketplace Network](/en/tutorial/encontre-marketplaces-e-sellers-no-ecossistema-vtex--2bzC7tXlVgLEEjxo4ixcAM) module facilitates this connection by acting as a catalog of marketplaces and sellers interested in partnerships. It allows them to register, consult and contact potential partners.
 
 The Marketplace Network has been revamped to improve your experience. In addition, it is no longer necessary to download the app from our App Store, as the feature has been automatically added to all stores that act as sellers or marketplaces.
 
@@ -42,4 +42,4 @@ To use the Marketplace Network, you need to create a profile for your business, 
 
 Once you've registered, simply navigate the *Find Sellers* and *Find Marketplaces* tabs to find and contact potential partners. 
 
-Learn more in our documentation on the [Marketplace Network](https://help.vtex.com/en/tutorial/encontre-marketplaces-e-sellers-no-ecossistema-vtex--2bzC7tXlVgLEEjxo4ixcAM). 
+Learn more in our documentation on the [Marketplace Network](/en/tutorial/encontre-marketplaces-e-sellers-no-ecossistema-vtex--2bzC7tXlVgLEEjxo4ixcAM). 

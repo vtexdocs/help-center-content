@@ -26,13 +26,13 @@ Para configurar Stark Bank, siga os passos abaixo:
 5. No ambiente do Stark Bank, insira os seus dados de login e senha da conta Stark Bank. Siga as instruções indicadas para concluir a vinculação da conta Stark Bank com a VTEX.
 6. Ao retornar ao Admin VTEX, caso deseje modificar o nome de identificação a ser exibido para o provedor Stark Bank, insira a informação no campo __Nome__ em __Informações básicas__.
 7. Em __Controle de pagamento__, selecione se deseja ativar o provedor em ambiente de teste clicando em __Ativar modo de teste__.
-8. Caso deseje utilizar o [split de pagamento](https://help.vtex.com/pt/tutorial/split-de-pagamento--6k5JidhYRUxileNolY2VLx) em sua loja, selecione a opção __Ativar split de recebíveis e enviar recebedores de pagamento__ e indique o __Responsável pelas tarifas de processamento de pagamentos__ e __Responsável pelos estornos__ (marketplace, sellers ou marketplaces e sellers).
+8. Caso deseje utilizar o [split de pagamento](/pt/tutorial/split-de-pagamento--6k5JidhYRUxileNolY2VLx) em sua loja, selecione a opção __Ativar split de recebíveis e enviar recebedores de pagamento__ e indique o __Responsável pelas tarifas de processamento de pagamentos__ e __Responsável pelos estornos__ (marketplace, sellers ou marketplaces e sellers).
 9. Em __Campos do provedor__, selecione a opção desejada em __Habilitar consulta de boleto 1 hora após a emissão?__.
 10. Caso necessário, preencha o último campo do formulário com as tags de identificação das operações de recebimento.
 11. Clique em `Salvar`.
 
-Para configurar os métodos de pagamento a serem processados pela Stark Bank, acesse [Condições de Pagamento](https://help.vtex.com/pt/tutorial/condicoes-de-pagamento). 
+Para configurar os métodos de pagamento a serem processados pela Stark Bank, acesse [Condições de Pagamento](/pt/tutorial/condicoes-de-pagamento). 
 
-Para definir condições especiais sobre os métodos de pagamento, acesse [Configurar condições especiais de Pagamento](https://help.vtex.com/pt/tutorial/condicoes-especiais--tutorials_456#).
+Para definir condições especiais sobre os métodos de pagamento, acesse [Configurar condições especiais de Pagamento](/pt/tutorial/condicoes-especiais--tutorials_456#).
 
 Depois de seguir os passos indicados, o conector Stark Bank pode demorar até 10 minutos para aparecer no checkout da sua loja como uma opção de pagamento. 

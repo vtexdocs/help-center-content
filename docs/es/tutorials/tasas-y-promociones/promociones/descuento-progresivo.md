@@ -57,7 +57,7 @@ Selecciona una de las siguientes opciones para aplicar la promoción.
 - **Diferentes de:** en esta opción se definen los sellers a los que no se aplicará esta promoción. Después de escoger "Diferentes de", tendrás la opción de seleccionar los sellers que no deseas incluir en la campaña. Se incluirán todos los demás sellers.
 
 ### Seleccionar políticas comerciales 
-En la esquina derecha de la página, en la sección **Políticas comerciales**, selecciona las políticas comerciales válidas para el descuento. Puedes ofrecer descuentos para políticas comerciales en las que [tu tienda opera como marketplace](https://help.vtex.com/es/tutorial/o-que-e-um-marketplace) (**Mi tienda**) o como seller (**Tiendas de terceros - Fulfillment**).
+En la esquina derecha de la página, en la sección **Políticas comerciales**, selecciona las políticas comerciales válidas para el descuento. Puedes ofrecer descuentos para políticas comerciales en las que [tu tienda opera como marketplace](/es/tutorial/o-que-e-um-marketplace) (**Mi tienda**) o como seller (**Tiendas de terceros - Fulfillment**).
 
 Puedes elegir entre las siguientes opciones:
 
@@ -71,7 +71,7 @@ Puedes elegir entre las siguientes opciones:
 Determina las condiciones y los porcentajes de descuento que deben aplicarse. Consulta a continuación las condiciones disponibles:
 
 - **SKUs:** selecciona los SKUs a los que se aplicará el descuento progresivo. Esta opción restringe la promoción a los productos asociados a los SKUs elegidos.
-- **Colecciones:** selecciona las [colecciones](https://help.vtex.com/es/tutorial/criando-colecao-de-produtos--tutorials_244) de productos donde se aplicará el descuento progresivo. Esta opción permite aplicar la promoción a un grupo de productos predefinidos.
+- **Colecciones:** selecciona las [colecciones](/es/tutorial/criando-colecao-de-produtos--tutorials_244) de productos donde se aplicará el descuento progresivo. Esta opción permite aplicar la promoción a un grupo de productos predefinidos.
 - **Debe ser el mismo ítem:** esta opción aplica el descuento solo a productos idénticos. Por ejemplo, si agregas diferentes SKUs pertenecientes a la misma colección, la promoción no se aplicará. La regla considera únicamente la cantidad de unidades de un mismo SKU en el carrito.
 - **Descuento:** esta opción permite configurar el porcentaje de descuento que se aplica cuando se alcanza la cantidad mínima de ítems especificada. Puedes crear hasta 10 rangos de descuento progresivo. 
 - **Agregar rango:** en esta opción puedes configurar niveles de descuento progresivo adicionales. Por ejemplo, puedes configurar que al alcanzar 10 unidades, el descuento sea del 5 %, y que al llegar a 20 unidades, aumente al 10 %. El número máximo de rangos configurables es 10.
@@ -82,7 +82,7 @@ Determina las condiciones y los porcentajes de descuento que deben aplicarse. Co
 Las condiciones permiten activar la promoción en circunstancias específicas según los criterios seleccionados. Para agregar una condición, sigue las instrucciones a continuación:
 
 - **Número BIN de la tarjeta:** la promoción solo se aplicará cuando se utilicen tarjetas de redes, bancos o categorías específicas identificadas por su número BIN. Importa una lista de BIN con un archivo de texto (.txt) o un archivo CSV (.csv) que describa cada BIN en una fila diferente.
-- **Clúster de clientes:** selecciona un [clúster de clientes](https://help.vtex.com/es/tutorial/como-criar-um-cluster-de-clientes) previamente creado en Master Data, siguiendo el formato `field=value` o `field contains value`. Selecciona una de las siguientes opciones:
+- **Clúster de clientes:** selecciona un [clúster de clientes](/es/tutorial/como-criar-um-cluster-de-clientes) previamente creado en Master Data, siguiendo el formato `field=value` o `field contains value`. Selecciona una de las siguientes opciones:
 
     - **Todos los siguientes:** la promoción se aplicará solo si se cumplen todos los criterios del clúster.
     - **Al menos uno de los siguientes:** la promoción se aplicará si se cumple al menos uno de los criterios del clúster.
@@ -129,7 +129,7 @@ Destaca la promoción en la página de producto y agrega datos personalizados pa
 
 - **Destacar promociones en los productos:** marca esta opción para mostrar la promoción directamente en las páginas de producto. 
 
-> ⚠️ Recuerda [configurar la visualización en el módulo CMS](https://help.vtex.com/es/tutorial/configurando-promocao-com-destaque-flag--tutorials_2295).
+> ⚠️ Recuerda [configurar la visualización en el módulo CMS](/es/tutorial/configurando-promocao-com-destaque-flag--tutorials_2295).
 
 - **Información adicional:** haz clic en `Crear` para agregar campos personalizados con nombre y valor, que puedes utilizar para personalizar la tienda.
 

@@ -18,7 +18,7 @@ subcategoryId: BBzMtJan1UTxC9QZODnlN
 
 > ℹ️ This feature is available for accounts that have at least 100,000 monthly searches so that the artificial intelligence model can be trained. To check the number of monthly searches in your store, in the VTEX Admin, go to *Storefront > Intelligent Search > Analytics* and filter by the last 30 days. If you’re interested in implementing Intelligent Synonyms, please contact [our support](https://support.vtex.com/hc/pt-br/requests). Additional fees may apply in the future.
 
-The [Synonyms](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV) feature of [VTEX Intelligent Search](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG) allows you to add words, or similar sentences, as synonyms for customer search terms, increasing the chance of successful searches.
+The [Synonyms](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV) feature of [VTEX Intelligent Search](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG) allows you to add words, or similar sentences, as synonyms for customer search terms, increasing the chance of successful searches.
 
 With the Intelligent Synonyms feature, the **Synonyms** page in the VTEX Admin provides intelligent recommendations of terms, as well as manual configuration of synonyms. The platform leverages artificial intelligence to suggest synonyms based on customer search behavior in your store.
 
@@ -51,7 +51,7 @@ Follow these instructions to view the synonym suggestions and choose whether to 
 5. To review each suggestion, choose one of the following actions:
     * <i class="fas fa-bookmark"></i> **Save for Later:** Removes the suggestion from the **New suggestions** count and stores it in the **Saved suggestions** box. To review the saved suggestions later, click `Review`.
     * <i class="fas fa-times-circle"></i> **Decline**: Rejects the proposed suggestion.
-    * <i class="fas fa-pencil-alt"></i> **Edit**: Changes the suggested synonym configuration fields. After editing, you need to click <i class="fas fa-check-circle"></i> to save. To learn more about the available fields, read the[ Configuring Synonyms](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3ExbC3QKNF4zH7Gs8jD1cL) article.
+    * <i class="fas fa-pencil-alt"></i> **Edit**: Changes the suggested synonym configuration fields. After editing, you need to click <i class="fas fa-check-circle"></i> to save. To learn more about the available fields, read the[ Configuring Synonyms](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3ExbC3QKNF4zH7Gs8jD1cL) article.
     * <i class="fas fa-check-circle"></i> **Approve**: Applies and saves the proposed suggestion.
 6. After reviewing all suggestions, close the modal to access the list of synonyms configured in your store.
 
@@ -59,6 +59,6 @@ Follow these instructions to view the synonym suggestions and choose whether to 
 
 ## Learn more
 
-* [Synonyms](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV)
-* [Configuring Synonyms](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3ExbC3QKNF4zH7Gs8jD1cL)
-* [VTEX Intelligent Search](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG)
+* [Synonyms](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV)
+* [Configuring Synonyms](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3ExbC3QKNF4zH7Gs8jD1cL)
+* [VTEX Intelligent Search](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG)

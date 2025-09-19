@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-VTEX offers the possibility of several [payment providers](https://help.vtex.com/en/tutorial/afiliacoes-de-gateway--tutorials_444) for your business in many countries.
+VTEX offers the possibility of several [payment providers](/en/tutorial/afiliacoes-de-gateway--tutorials_444) for your business in many countries.
 
 To identify the available options, enter the name of the country name, payment provider or Split Payout availability (Yes/No) in the **Search** field from the list below. You can also choose to display 10, 25, 50 or 100 results per page by selecting the **Show Entries** field.
 

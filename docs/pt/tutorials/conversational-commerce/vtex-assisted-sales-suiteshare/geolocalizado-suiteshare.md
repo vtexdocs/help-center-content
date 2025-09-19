@@ -25,7 +25,7 @@ Uma empresa que possui lojas em vários cidades (Ex: São Paulo, Rio de Janeiro,
 
  O link é o mesmo, mas a central irá distribuir de acordo com a localização do cliente e da loja.
 
-Para começar você deve ter [criado os links](https://help.vtex.com/pt/tutorial/links--7h7YXPFovF2k5z6ZSZs5WB)  que serão utilizados no seu atendimento e um link âncora.  Depois de ter criado os links no painel do VTEX Assisted Sales (SuiteShare), acesse a opção _**Organizar > Geolocalização.**_
+Para começar você deve ter [criado os links](/pt/tutorial/links--7h7YXPFovF2k5z6ZSZs5WB)  que serão utilizados no seu atendimento e um link âncora.  Depois de ter criado os links no painel do VTEX Assisted Sales (SuiteShare), acesse a opção _**Organizar > Geolocalização.**_
 
 ![Geolocalizado 1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/geolocalizado-suiteshare_1.png)
 
@@ -57,6 +57,6 @@ Em Links Geolocalizados,selecione os vendedores ou números,  que irão partici
 
 Clique no botão _**“Finalizar”**_.
 
-Você pode definir os horários de atendimento, para saber mais [**clique aqui**.](https://help.vtex.com/pt/tutorial/horario-de-atendimento-suiteshare--4T1kEGSCdiIorFkcMj6F8e)
+Você pode definir os horários de atendimento, para saber mais [**clique aqui**.](/pt/tutorial/horario-de-atendimento-suiteshare--4T1kEGSCdiIorFkcMj6F8e)
 
 Pronto! Seu link está 100% configurado. Todos clientes que clicarem nele e forem de Porto Alegre serão direcionados para uma conversa com o número de WhatsApp do link /lojapoa e quem for do Rio de Janeiro irá ser direcionado para o WhatsApp da filial /lojario. Como definimos apenas essas 2 cidades, quem não pertencer a nenhuma delas será direcionado para uma conversa com o número cadastrado no link principal /minhacentral (matriz).

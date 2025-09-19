@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisPT: 'Novos recursos do License Manager de Catálogo, agora mais intuitivos e que unificam acessos via Admin VTEX ou API.'
 ---
 
-Atualizamos os [recursos do License Manager](https://help.vtex.com/pt/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3) relacionados ao Catálogo para aprimorar o gerenciamento de permissões. Veja a seguir as principais mudanças: 
+Atualizamos os [recursos do License Manager](/pt/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3) relacionados ao Catálogo para aprimorar o gerenciamento de permissões. Veja a seguir as principais mudanças: 
 
 - Recursos mais simples e intuitivos relacionados a ações no Catálogo.
 - Controle unificado de acessos para tarefas realizadas no Admin VTEX ou via API.
@@ -48,13 +48,13 @@ Esses recursos dão acesso a determinadas tarefas da plataforma, independentemen
 
 ## O que precisa ser feito?
 
-Os novos recursos já estão ativos, foram documentados neste [artigo do License Manager](https://help.vtex.com/pt/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3) e foram automaticamente designados para todos os perfis de acesso que utilizavam o produto **Catálogo**. Porém, é necessário que as lojas realizem uma revisão das suas permissões de acesso até 1 de julho de 2025. A partir desta data, qualquer tentativa de acesso sem os recursos mencionados será bloqueada.
+Os novos recursos já estão ativos, foram documentados neste [artigo do License Manager](/pt/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3) e foram automaticamente designados para todos os perfis de acesso que utilizavam o produto **Catálogo**. Porém, é necessário que as lojas realizem uma revisão das suas permissões de acesso até 1 de julho de 2025. A partir desta data, qualquer tentativa de acesso sem os recursos mencionados será bloqueada.
 
 Recomendamos que aproveite esta ocasião para revisar as permissões da sua loja, mantendo apenas as permissões necessárias para cada usuário.
 
 Para saber mais sobre como gerenciar permissões de usuários e chaves de aplicação, confira os artigos a seguir:
 
-- [Perfis de acesso](https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc)
-- [Gerenciar usuários](https://help.vtex.com/pt/tutorial/gerenciando-usuarios--tutorials_512)
-- [Gerenciar chaves de aplicação](https://help.vtex.com/pt/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet#gerenciar-chaves-de-aplicacao)
-- [Recursos do License Manager](https://help.vtex.com/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3)
+- [Perfis de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc)
+- [Gerenciar usuários](/pt/tutorial/gerenciando-usuarios--tutorials_512)
+- [Gerenciar chaves de aplicação](/pt/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet#gerenciar-chaves-de-aplicacao)
+- [Recursos do License Manager](/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3)

@@ -17,7 +17,7 @@ subcategoryId: 7fTH6bP0C4IaM8qWi0kkQC
 
 Loading docks are one of the logistical stages of your store. A loading dock represents an intermediate point between the warehouse and the carrier. It is the location where products will be shipped from. Loading docks receive items coming from warehouses or distribution centers and deliver them to carriers, which will deliver them to the final recipient. 
 
-> ℹ️ To learn more about loading docks in the VTEX system, see [Loading docks](https://help.vtex.com/en/tutorial/loading-dock--5DY8xHEjOLYDVL41Urd5qj).
+> ℹ️ To learn more about loading docks in the VTEX system, see [Loading docks](/en/tutorial/loading-dock--5DY8xHEjOLYDVL41Urd5qj).
 
 This article describes how to:
 
@@ -26,9 +26,9 @@ This article describes how to:
 * [Edit an existing loading dock](#editing-a-loading-dock).
 * [Delete a loading dock](#delete-a-loading-dock).
 
-To configure a loading dock correctly, you need to: create the loading dock, fill in the fields for adding it (which include working hours and priority), and associate the loading dock with a [trade policy](https://help.vtex.com/en/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE), a warehouse, and a [shipping policy](https://help.vtex.com/en/tutorial/politica-de-envio--tutorials_140?&utm_source=autocomplete). 
+To configure a loading dock correctly, you need to: create the loading dock, fill in the fields for adding it (which include working hours and priority), and associate the loading dock with a [trade policy](/en/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE), a warehouse, and a [shipping policy](/en/tutorial/politica-de-envio--tutorials_140?&utm_source=autocomplete). 
 
-> ⚠️ For the logistics system to work as expected, we suggest that you configure it in the following order: <ul><li>[Shipping policy](https://help.vtex.com/en/tutorial/politica-de-envio--tutorials_140)</li><li>[Loading dock](https://help.vtex.com/en/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj)</li><li>[Warehouse](https://help.vtex.com/en/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb)</li></ul>
+> ⚠️ For the logistics system to work as expected, we suggest that you configure it in the following order: <ul><li>[Shipping policy](/en/tutorial/politica-de-envio--tutorials_140)</li><li>[Loading dock](/en/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj)</li><li>[Warehouse](/en/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb)</li></ul>
 
 ## Adding a loading dock
 
@@ -44,7 +44,7 @@ Here are the fields you need to fill to add a new loading dock:
 
 * **Name:** the name of the loading dock.
 * **ID:** the loading dock identifier. If this field is left blank, an ID will be created automatically.
-* **[Shipping Policies](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140) and [Trade Policies:](https://help.vtex.com/pt/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE)** select the shipping policy and the trade policy you want to associate with the loading dock. Please note that both policies must have been previously created.
+* **[Shipping Policies](/pt/tutorial/politica-de-envio--tutorials_140) and [Trade Policies:](/pt/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE)** select the shipping policy and the trade policy you want to associate with the loading dock. Please note that both policies must have been previously created.
 * **Time and Priority: **
     * **Processing time:** time that will be considered when calculating delivery time. It is the time it takes for the product to arrive at the loading dock. Fill in the number of days, hours, and minutes.
     * **Time overhead:** the time that will be used to choose a loading dock when two or more loading docks have the same processing time. It is not considered when calculating delivery time. Fill in the number of days, hours, and minutes.

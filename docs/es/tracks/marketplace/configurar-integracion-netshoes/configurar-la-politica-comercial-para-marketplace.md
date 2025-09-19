@@ -29,7 +29,7 @@ En otras palabras, si no es necesario definir un catálogo o un tipo de logísti
 
 ![carrefour.3es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/marketplace/configurar-integracion-netshoes/configurar-la-politica-comercial-para-marketplace_3.png)
 
-Luego de entender esto, evalúe si es necesario configurar una nueva política comercial en su tienda. Si la respuesta es sí, siga las instrucciones de [este artículo](https://help.vtex.com/es/faq/como-contratar-nueva-politica-comercial--frequentlyAskedQuestions_700) antes de pasar a la siguiente etapa de configuración. Si su política comercial ya cumple las condiciones que necesita para la integración con el marketplace, siga las próximas instrucciones.
+Luego de entender esto, evalúe si es necesario configurar una nueva política comercial en su tienda. Si la respuesta es sí, siga las instrucciones de [este artículo](/es/faq/como-contratar-nueva-politica-comercial--frequentlyAskedQuestions_700) antes de pasar a la siguiente etapa de configuración. Si su política comercial ya cumple las condiciones que necesita para la integración con el marketplace, siga las próximas instrucciones.
 
 ## Definición de catálogo de productos
 

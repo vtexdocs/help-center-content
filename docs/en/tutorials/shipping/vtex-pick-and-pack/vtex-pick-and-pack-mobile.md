@@ -15,9 +15,9 @@ locale: en
 subcategoryId: 7Kllu6CmeLNV3tYXlCFvOt
 ---
 
-> ℹ️ If you are already a VTEX customer and wish to adopt this functionality for your business, please contact [Commercial Support](https://help.vtex.com/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ). Additional fees may apply. If you are not yet a customer but are interested in this solution, please fill out the [contact form](https://vtex.com/us-en/contact/).
+> ℹ️ If you are already a VTEX customer and wish to adopt this functionality for your business, please contact [Commercial Support](/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ). Additional fees may apply. If you are not yet a customer but are interested in this solution, please fill out the [contact form](https://vtex.com/us-en/contact/).
 
-The [VTEX Pick and Pack](https://help.vtex.com/en/tutorial/vtex-pick-and-pack-fulfillment--1zGUEItEEVsal6cuBEBNcA) mobile app helps the picker — the person who picks and packs items in the facility — handle orders, from picking to shipping. This makes the store's order picking and delivery flow smoother and more efficient.
+The [VTEX Pick and Pack](/en/tutorial/vtex-pick-and-pack-fulfillment--1zGUEItEEVsal6cuBEBNcA) mobile app helps the picker — the person who picks and packs items in the facility — handle orders, from picking to shipping. This makes the store's order picking and delivery flow smoother and more efficient.
 
 ![pickpack-mobile-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-mobile_1.png)
 
@@ -174,7 +174,7 @@ To reject all the products from the worksheet at once, follow these steps:
 
 ## Replacing items
 
-Pickers can also replace the item with another one, depending on the [store's settings](https://help.vtex.com/en/tutorial/vtex-pick-and-pack-settings--16cs3e7hWk7c4cSZqe10O9#picking) and the item's availability. This feature helps ensure that customers still receive their orders on time, even if specific items are unavailable.
+Pickers can also replace the item with another one, depending on the [store's settings](/en/tutorial/vtex-pick-and-pack-settings--16cs3e7hWk7c4cSZqe10O9#picking) and the item's availability. This feature helps ensure that customers still receive their orders on time, even if specific items are unavailable.
 
 > ⚠️ The option to replace items may not be available. If you have any questions, please contact the store admin.
 
@@ -185,7 +185,7 @@ To replace worksheet items, follow the steps below:
 3. Scan the product barcode or search for it manually using the search bar.
 4. Select the desired quantity in units or add the weight value.
 5. Click **Continue**.
-6. Select the reason for the item replacement. The reasons listed are configurable in the [Settings](https://help.vtex.com/en/tutorial/vtex-pick-and-pack-settings--16cs3e7hWk7c4cSZqe10O9#order-changes) page.
+6. Select the reason for the item replacement. The reasons listed are configurable in the [Settings](/en/tutorial/vtex-pick-and-pack-settings--16cs3e7hWk7c4cSZqe10O9#order-changes) page.
 7. Click **Confirm and pick replacement**.
 
 ## Completing the picking process
@@ -239,7 +239,7 @@ To ship packages using the Pick and Pack app, follow the steps below:
 
 1. In the initial screen, click the <i class="fas fa-ellipsis-v"></i> menu.
 2. Click the **To ship** option.
-3. Select the package you want to ship. You need to select an order with the `Preparing shipment` [status](https://help.vtex.com/en/tutorial/order-flow-and-status--tutorials_196).
+3. Select the package you want to ship. You need to select an order with the `Preparing shipment` [status](/en/tutorial/order-flow-and-status--tutorials_196).
 4. Complete all shipping information:
     - **Expected pickup date**
     - **Expected delivery date**

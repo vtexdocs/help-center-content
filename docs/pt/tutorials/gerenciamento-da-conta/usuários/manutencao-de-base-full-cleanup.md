@@ -21,7 +21,7 @@ No início da operação de uma loja VTEX, muitas vezes é necessário testar as
 
 Nesta página, é possível limpar o catálogo e reiniciar o indexador, retirando todos os produtos da sua loja.
 
-Por questões de segurança, somente o [Usuário Titular](https://help.vtex.com/pt/tutorial/o-que-e-o-usuario-master--3oPr7YuIkEYqUGmEqIMSEy) da conta possui acesso à Manutenção de Base. Caso outro usuário tente acessar esta página, uma mensagem informando o e-mail do responsável da conta será exibida e todos os botões estarão inativos.
+Por questões de segurança, somente o [Usuário Titular](/pt/tutorial/o-que-e-o-usuario-master--3oPr7YuIkEYqUGmEqIMSEy) da conta possui acesso à Manutenção de Base. Caso outro usuário tente acessar esta página, uma mensagem informando o e-mail do responsável da conta será exibida e todos os botões estarão inativos.
 
 Estas são as operações disponíveis:
 
@@ -29,7 +29,7 @@ Estas são as operações disponíveis:
 
 - __Apagar Produtos do Indexador:__ ao apagar produtos do indexador, sua loja ficará sem produtos para serem visualizados.
 
-  > ⚠️ As regras a seguir se aplicam ao botão **Apagar Produtos do Indexador**: <ul> <li>Apenas lojas com menos de 10 mil produtos podem realizar essa ação. Lojas com um catálogo maior devem [abrir um chamado para o suporte VTEX](https://help.vtex.com/pt/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM) para realizar a limpeza do indexador e reindexação da base de dados.</li> <li>Quando um usuário apaga produtos do indexador, a conta é bloqueada de executar essa ação por 24 horas.</li> <li>Existe uma fila para processar as solicitações geradas pelo botão *Apagar Produtos do Indexador*. Após clicar no botão, o tempo estimado de espera aparece em um log no final da página. A fila é global e se aplica a todos os usuários, para garantir a segurança da plataforma VTEX.</li></ul>
+  > ⚠️ As regras a seguir se aplicam ao botão **Apagar Produtos do Indexador**: <ul> <li>Apenas lojas com menos de 10 mil produtos podem realizar essa ação. Lojas com um catálogo maior devem [abrir um chamado para o suporte VTEX](/pt/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM) para realizar a limpeza do indexador e reindexação da base de dados.</li> <li>Quando um usuário apaga produtos do indexador, a conta é bloqueada de executar essa ação por 24 horas.</li> <li>Existe uma fila para processar as solicitações geradas pelo botão *Apagar Produtos do Indexador*. Após clicar no botão, o tempo estimado de espera aparece em um log no final da página. A fila é global e se aplica a todos os usuários, para garantir a segurança da plataforma VTEX.</li></ul>
 
 - __Apagar Produtos/Skus e itens relacionados:__ ao apagar esses elementos, seus produtos e SKUs, além dos seus itens relacionados, serão removidos de forma definitiva da sua loja.
 

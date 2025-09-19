@@ -25,8 +25,8 @@ Se o seu item comprado for uma Camisa da Seleção Brasileira, o nome do seu Ane
 - Número: em que permite a inclusão do número escolhido pelo cliente nos valores 5,7,9,10 e 11, na parte de trás da camisa.
 
 ### Artigos relacionados
-- [Cadastrar um Anexo](https://help.vtex.com/pt/tutorial/cadastrar-um-anexo)
-- [O que é um Serviço?](https://help.vtex.com/pt/tutorial/o-que-e-um-servico)
-- [Cadastrar um Serviço](https://help.vtex.com/pt/tutorial/criando-servico-para-um-sku)
+- [Cadastrar um Anexo](/pt/tutorial/cadastrar-um-anexo)
+- [O que é um Serviço?](/pt/tutorial/o-que-e-um-servico)
+- [Cadastrar um Serviço](/pt/tutorial/criando-servico-para-um-sku)
 
 

@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisES: 'Site Editor: actualización de almacenamiento para mejor desempeño y confiabilidad.'
 ---
 
-El 12 de junio, se actualizó el almacenamiento de contenido del [Site Editor](https://help.vtex.com/es/tutorial/site-editor-overview--299Dbeb9mFczUTyNQ9xPe1) para todas las cuentas que lo utilizan para solucionar el problema de la [pérdida intermitente de contenido de Site Editor](https://help.vtex.com/es/known-issues/intermitent-site-editor-content-loss--3a5MlAoD2Z7Gu6HDS8wihD). Esta actualización optimiza el desempeño y la confiabilidad del almacenamiento, además de reducir el espacio que ocupa el contenido almacenado.
+El 12 de junio, se actualizó el almacenamiento de contenido del [Site Editor](/es/tutorial/site-editor-overview--299Dbeb9mFczUTyNQ9xPe1) para todas las cuentas que lo utilizan para solucionar el problema de la [pérdida intermitente de contenido de Site Editor](/es/known-issues/intermitent-site-editor-content-loss--3a5MlAoD2Z7Gu6HDS8wihD). Esta actualización optimiza el desempeño y la confiabilidad del almacenamiento, además de reducir el espacio que ocupa el contenido almacenado.
 
 ## ¿Qué cambió?
 Anteriormente, los frecuentes cambios en el contenido de Site Editor podían resultar en que el archivo `content.json` se volviera excesivamente grande, lo que causaba la pérdida de contenido [al promover un workspace de producción a master](https://developers.vtex.com/docs/guides/vtex-io-documentation-workspaces-best-practices#deployment-and-workspace-promotion) o al instalar una nueva versión en un workspace de prueba.
@@ -25,5 +25,5 @@ Por este motivo, mejoramos la arquitectura de almacenamiento y la solución de p
 ## ¿Qué se necesita hacer?
 No es necesaria ninguna acción. La actualización se implementó automáticamente en todas las tiendas VTEX que utilicen Site Editor.
 
-Si después del 12 de junio la pérdida de contenido continúa, abre un ticket para el equipo de [soporte VTEX](https://help.vtex.com/es/support).
+Si después del 12 de junio la pérdida de contenido continúa, abre un ticket para el equipo de [soporte VTEX](/es/support).
 

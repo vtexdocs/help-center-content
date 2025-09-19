@@ -15,20 +15,20 @@ locale: en
 subcategoryId: 7uJcyu0VawEm8ggqKu404u
 ---
 
-Additional shipping costs are extra charges added to the shipping rate as established in [shipping policies](https://help.vtex.com/en/tutorial/politica-de-envio--tutorials_140). So, when configuring costs for shipping items, you can set a fixed rate and include additional charges. Together, these values will compose the [shipping rate](https://help.vtex.com/en/tutorial/gerenciar-valores-de-frete--tutorials_141). 
+Additional shipping costs are extra charges added to the shipping rate as established in [shipping policies](/en/tutorial/politica-de-envio--tutorials_140). So, when configuring costs for shipping items, you can set a fixed rate and include additional charges. Together, these values will compose the [shipping rate](/en/tutorial/gerenciar-valores-de-frete--tutorials_141). 
 
 ![Tarifa envio EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/shipping-rates/additional-shipping-costs_1.svg)
 
 You can configure the following additional costs:
 
-* [Weight-based shipping charge](https://help.vtex.com/en/tutorial/additional-shipping-costs--2vqGwMn0LabkOHY6zSHYNV#weight-based-additional-shipping-charge);
-* [Price-based shipping charge](https://help.vtex.com/en/tutorial/additional-shipping-costs--2vqGwMn0LabkOHY6zSHYNV#price-based-additional-charge);
-* [Insurance charge](https://help.vtex.com/en/tutorial/additional-shipping-costs--2vqGwMn0LabkOHY6zSHYNV#additional-insurance-charge);
-* [Extra shipping charge](https://help.vtex.com/en/tutorial/additional-shipping-costs--2vqGwMn0LabkOHY6zSHYNV#additional-shipping-charge).
+* [Weight-based shipping charge](/en/tutorial/additional-shipping-costs--2vqGwMn0LabkOHY6zSHYNV#weight-based-additional-shipping-charge);
+* [Price-based shipping charge](/en/tutorial/additional-shipping-costs--2vqGwMn0LabkOHY6zSHYNV#price-based-additional-charge);
+* [Insurance charge](/en/tutorial/additional-shipping-costs--2vqGwMn0LabkOHY6zSHYNV#additional-insurance-charge);
+* [Extra shipping charge](/en/tutorial/additional-shipping-costs--2vqGwMn0LabkOHY6zSHYNV#additional-shipping-charge).
 
 ![adicionais frete EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/shipping-rates/additional-shipping-costs_2.svg)
 
-> ❗ Note that all of them can be simultaneously considered for composing the shipping rate. The final calculation of the [shipping rate](https://help.vtex.com/en/tutorial/tarifas-de-envio--1Balpg3rv0854udEPedvMM) is the sum of all additional charges plus the flat rate. The shipping rate is not the total shipping cost.
+> ❗ Note that all of them can be simultaneously considered for composing the shipping rate. The final calculation of the [shipping rate](/en/tutorial/tarifas-de-envio--1Balpg3rv0854udEPedvMM) is the sum of all additional charges plus the flat rate. The shipping rate is not the total shipping cost.
 
 ## Weight-based additional shipping charge
 
@@ -61,8 +61,8 @@ Shipping rate: ($10 + $8.70) = $ 18.70
 
 There are two ways to configure the weight-based additional charge:
 
-* Using the [shipping rate template](https://help.vtex.com/en/tutorial/planilha-de-frete--tutorials_127): in the _PriceByExtraWeight_ column.
-* In the [Shipping rates](https://help.vtex.com/en/tutorial/gerenciar-tarifas-de-envio--tutorials_141) page: in the _Additional value per weight_ field.
+* Using the [shipping rate template](/en/tutorial/planilha-de-frete--tutorials_127): in the _PriceByExtraWeight_ column.
+* In the [Shipping rates](/en/tutorial/gerenciar-tarifas-de-envio--tutorials_141) page: in the _Additional value per weight_ field.
 
 To learn more, access their tutorials.
 
@@ -96,8 +96,8 @@ Shipping rate: ($10+$16,4)=$26,4
 
 There are two ways to configure the price-based additional charge:
 
-* Using the [shipping rate template](https://help.vtex.com/en/tutorial/planilha-de-frete--tutorials_127): in the _PricePercent_ column.
-* In the [Shipping rates](https://help.vtex.com/en/tutorial/gerenciar-tarifas-de-envio--tutorials_141) page: in the _Additional value_ field.
+* Using the [shipping rate template](/en/tutorial/planilha-de-frete--tutorials_127): in the _PricePercent_ column.
+* In the [Shipping rates](/en/tutorial/gerenciar-tarifas-de-envio--tutorials_141) page: in the _Additional value_ field.
 
 To learn more, access their tutorials.
 
@@ -107,7 +107,7 @@ This is the extra cost for shipping insurance. If you include it in your shippin
 
 ### Example
 
-When you enter [shipping policy](https://help.vtex.com/en/tutorial/politica-de-envio--tutorials_140) costs for selected zip codes or polygons in the [shipping rate template](https://help.vtex.com/en/tutorial/planilha-de-frete--tutorials_127), if there is an **insurance charge** set to US$ 3.00, an amount of US$ 3.00 will be added to all deliveries to those locations.
+When you enter [shipping policy](/en/tutorial/politica-de-envio--tutorials_140) costs for selected zip codes or polygons in the [shipping rate template](/en/tutorial/planilha-de-frete--tutorials_127), if there is an **insurance charge** set to US$ 3.00, an amount of US$ 3.00 will be added to all deliveries to those locations.
 
 Consider a package with the following characteristics:
 
@@ -125,7 +125,7 @@ Shipping rate: ($15 + $10.3) = $25.3
 
 ### Configuration instructions 
 
-You can only configure the additional insurance charge via the [shipping rate template](https://help.vtex.com/en/tutorial/planilha-de-frete--tutorials_127) in the _MinimumValueInsurance_ field.
+You can only configure the additional insurance charge via the [shipping rate template](/en/tutorial/planilha-de-frete--tutorials_127) in the _MinimumValueInsurance_ field.
 
 > ❗ If the price-based charge is lower than the insurance charge, it will not be considered for the total shipping cost.
 

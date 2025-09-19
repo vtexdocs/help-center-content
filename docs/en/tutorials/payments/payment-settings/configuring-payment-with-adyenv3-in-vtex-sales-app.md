@@ -15,9 +15,9 @@ locale: en
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-At VTEX, it is possible to integrate with the payment provider Adyen. Through this connector, your store can offer payment transactions in physical stores (VTEX Sales App), using points of sale (POS). For more information access [What is VTEX Sales App?](https://help.vtex.com/en/tracks/instore-getting-started-and-setting-up--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf).
+At VTEX, it is possible to integrate with the payment provider Adyen. Through this connector, your store can offer payment transactions in physical stores (VTEX Sales App), using points of sale (POS). For more information access [What is VTEX Sales App?](/en/tracks/instore-getting-started-and-setting-up--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf).
 
-> ℹ️ To use the AdyenV3 affiliation in your store through other online sales channels (except VTEX Sales App), visit [Configuring payment with AdyenV3](https://help.vtex.com/en/tutorial/configuring-payment-with-adyenv3--7xAz67E2Eg63LWCQNjVdwv).
+> ℹ️ To use the AdyenV3 affiliation in your store through other online sales channels (except VTEX Sales App), visit [Configuring payment with AdyenV3](/en/tutorial/configuring-payment-with-adyenv3--7xAz67E2Eg63LWCQNjVdwv).
 
 To use the AdyenV3 affiliation in the VTEX Sales App, you need to:
 
@@ -33,7 +33,7 @@ To use the AdyenV3 affiliation in the VTEX Sales App, you need to:
 The first step is to configure your Adyen and VTEX accounts to allow point-of-sale (POS) payment transactions. To perform these settings, access the following documentation:
 
 - [Adyen - Terminal API go-live checklist](https://docs.adyen.com/point-of-sale/get-started/go-live-tapi)
-- [VTEX - VTEX Sales App Basic settings](https://help.vtex.com/en/tracks/instore-getting-started-and-setting-up--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf)
+- [VTEX - VTEX Sales App Basic settings](/en/tracks/instore-getting-started-and-setting-up--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf)
 
 ## Configuring your Adyen environment
 
@@ -122,7 +122,7 @@ Follow the steps below to configure a webhook:
 4. Under **Process with affiliation**, select the previously configured connector.
 5. Activate the condition in the **Status** field.
 6. If you want to use an anti-fraud system, select the option **Use anti-fraud solution**.
-7. If you want, you can also [configure special payment conditions](https://help.vtex.com/en/tutorial/special-conditions--tutorials_456).
+7. If you want, you can also [configure special payment conditions](/en/tutorial/special-conditions--tutorials_456).
 8. Click `Save`.
 
 After completing these steps, the AdyenV3 Connector may take up to 10 minutes to appear as a payment option in your store's VTEX Sales App.

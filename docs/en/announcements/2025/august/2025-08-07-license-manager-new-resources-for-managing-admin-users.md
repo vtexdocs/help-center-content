@@ -15,18 +15,18 @@ announcementImageID: 'undefined'
 announcementSynopsisEN: 'We’ve simplified user management with new features in License Manager.'
 ---
 
-We created two new [resources in License Manager](https://help.vtex.com/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) to simplify and standardize access control, grouping actions related to administrative user management in the VTEX Admin more intuitively.
+We created two new [resources in License Manager](/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) to simplify and standardize access control, grouping actions related to administrative user management in the VTEX Admin more intuitively.
 
 ## What has changed?
 
-We consolidated legacy reading and writing resources for [user](https://help.vtex.com/en/tutorial/managing-users--tutorials_512) information and [roles](https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) into two new *License Manager* resources:
+We consolidated legacy reading and writing resources for [user](/en/tutorial/managing-users--tutorials_512) information and [roles](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) into two new *License Manager* resources:
 
 | New resource name | New resource key (`resource_key`) | Description |
 | ----- | ----- | ----- |
 | Edit Admin Users | `EditAdminUsers` | Allows creating, editing, and removing admin users. |
 | View Admin Users | `ViewAdminUsers` | Allows viewing user and role information. |
 
-These new resources replace the legacy resources for [managing users](https://help.vtex.com/en/tutorial/managing-users--tutorials_512) in the VTEX Admin:
+These new resources replace the legacy resources for [managing users](/en/tutorial/managing-users--tutorials_512) in the VTEX Admin:
 
 | Legacy resource name | Legacy resource key (`resource_key`) | Legacy resource description | New resource name | New resource key (`resource_key`) |
 | ----- | ----- | ----- | ----- | ----- |
@@ -48,5 +48,5 @@ No action is needed. We analyzed existing roles and automatically updated their 
 - No previous permissions were removed.  
 - Legacy resources weren't deprecated.
 
-We recommend reviewing the existing roles on your account to understand how the new resources were applied. If you have any questions, see the [License Manager documentation](https://help.vtex.com/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3).
+We recommend reviewing the existing roles on your account to understand how the new resources were applied. If you have any questions, see the [License Manager documentation](/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3).
 

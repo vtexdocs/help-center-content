@@ -28,9 +28,9 @@ Para configurar PayPalCheckout, siga os passos abaixo:
 7. Em **Campos do provedor**, selecione ou preencha os campos **FraudNet - Source Web Id**, **Enable STC**, **High Risk Transaction**, **STC Merchant Id**, **Vertical**, **Locale**, **Sandbox**, **Force login (ACDC)**, **Display Powered by PayPal Logo (ACDC)**, **Language**, **AutoClick (Checkout & BCDC)**, **Installments rules**, **T&C Checkbox identifier**, **Invoice ID**, **Account type** e **Groceries or Subscriptions** conforme orientações do provedor.
 8. Clique em `Salvar`.
 
-Para configurar os métodos de pagamento a serem processados pela PayPalCheckout, acesse [Condições de Pagamento](https://help.vtex.com/pt/tutorial/condicoes-de-pagamento).
+Para configurar os métodos de pagamento a serem processados pela PayPalCheckout, acesse [Condições de Pagamento](/pt/tutorial/condicoes-de-pagamento).
 
-Para definir condições especiais sobre os métodos de pagamento, acesse [Configurar condições especiais de Pagamento](https://help.vtex.com/pt/tutorial/condicoes-especiais--tutorials_456#).
+Para definir condições especiais sobre os métodos de pagamento, acesse [Configurar condições especiais de Pagamento](/pt/tutorial/condicoes-especiais--tutorials_456#).
 
 Depois de seguir os passos indicados, o provedor PayPalCheckout pode demorar até 10 minutos para aparecer no checkout da sua loja como uma opção de pagamento.
 

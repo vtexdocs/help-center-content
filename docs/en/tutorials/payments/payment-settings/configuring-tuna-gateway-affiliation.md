@@ -44,4 +44,4 @@ For more details about this configuration, see Tuna’s [documentation](https://
 
 Once you have completed the steps above, Tuna will be ready to be used in your store. It will be available in the __Process with affiliation__ field — provided that the payment method is compatible with Tuna — when creating a payment condition. 
 
-Learn more in the article [Configuring payment conditions](https://help.vtex.com/en/tutorial/condicoes-de-pagamento).
+Learn more in the article [Configuring payment conditions](/en/tutorial/condicoes-de-pagamento).

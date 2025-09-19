@@ -45,4 +45,4 @@ Na maioria dos casos, quando a loja não possui muita customização de front-en
 
 Em outras situações, se não houver a revisão e eventual adaptação, a experiência do usuário poderá ficar comprometida, fazendo com que algumas ações não funcionem conforme esperado e, em casos extremos, impedindo até a visualização dos pedidos e de outras informações.
 
-Para mais informações, confira nossa documentação sobre o [My Account](https://help.vtex.com/pt/tutorial/como-funciona-o-my-account--2BQ3GiqhqGJTXsWVuio3Xh?locale=pt). Em caso de dúvidas, entre em contato conosco.
+Para mais informações, confira nossa documentação sobre o [My Account](/pt/tutorial/como-funciona-o-my-account--2BQ3GiqhqGJTXsWVuio3Xh?locale=pt). Em caso de dúvidas, entre em contato conosco.

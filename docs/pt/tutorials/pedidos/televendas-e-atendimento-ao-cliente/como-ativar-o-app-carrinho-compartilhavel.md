@@ -19,7 +19,7 @@ O app [Carrinho Compartilhável](https://apps.vtex.com/vtex-social-selling/p) pe
 
 ![Shareable Cart Demo](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pedidos/televendas-e-atendimento-ao-cliente/como-ativar-o-app-carrinho-compartilhavel_1.gif)
 
-Este artigo explica como instalar o app e configurar a funcionalidade na sua loja. Ao concluir os passos de ativação, seus vendedores poderão seguir as [instruções de uso](https://help.vtex.com/pt/tutorial/como-usar-o-app-carrinho-compartilhavel--3ePPpkmeZ96GXbeIoGZbTN) para iniciar suas estratégias de Social Selling.
+Este artigo explica como instalar o app e configurar a funcionalidade na sua loja. Ao concluir os passos de ativação, seus vendedores poderão seguir as [instruções de uso](/pt/tutorial/como-usar-o-app-carrinho-compartilhavel--3ePPpkmeZ96GXbeIoGZbTN) para iniciar suas estratégias de Social Selling.
 
 ## Instalação
 
@@ -62,7 +62,7 @@ A escolha do campo em que o código do vendedor será inserido depende das neces
 
 Se ambas opções estiverem selecionadas, o vendedor precisará indicar qual campo está preenchendo na interface de compartilhamento de carrinho.
 
-> ℹ️ As informações registradas poderão ser encontradas no card **Promoções e Parcerias** nos [detalhes do pedido](https://help.vtex.com/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/204AjAQseJe8RLUi8GAhiC?locale=pt) ou dentro do objeto `marketingData` retornado ao obter as informações do pedido usando a [Orders API](https://developers.vtex.com/reference/orders#getorder).
+> ℹ️ As informações registradas poderão ser encontradas no card **Promoções e Parcerias** nos [detalhes do pedido](/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/204AjAQseJe8RLUi8GAhiC?locale=pt) ou dentro do objeto `marketingData` retornado ao obter as informações do pedido usando a [Orders API](https://developers.vtex.com/reference/orders#getorder).
 
 ### Canais 
 
@@ -79,7 +79,7 @@ Esta configuração permite ativar os canais de compartilhamento desejados na in
 
 ## Customização (opcional)
 
-Caso você queira customizar as cores dos botões da interface de compartilhamento de carrinho da sua loja, isto é possível através de uma [customização do Checkout](https://help.vtex.com/pt/tutorial/configurar-template-no-smartcheckout--frequentlyAskedQuestions_599). 
+Caso você queira customizar as cores dos botões da interface de compartilhamento de carrinho da sua loja, isto é possível através de uma [customização do Checkout](/pt/tutorial/configurar-template-no-smartcheckout--frequentlyAskedQuestions_599). 
 
 Na imagem a seguir, a opção A apresenta as cores originais e a opção B uma customização possível.
 
@@ -182,7 +182,7 @@ Em seguida, basta alterar as propriedades no código CSS conforme a necessidade.
 
 ### Como essa funcionalidade é possível tecnicamente?
 
-O app utiliza a funcionalidade de [carrinho compartilhado](https://help.vtex.com/pt/tutorial/o-que-e-o-carrinho-compartilhado--3oKJZfoAoUm8g0ukCIGsUu?locale=pt) da VTEX, que permite que mais de um cliente adicione, retire ou atualize itens e informações de um mesmo carrinho.
+O app utiliza a funcionalidade de [carrinho compartilhado](/pt/tutorial/o-que-e-o-carrinho-compartilhado--3oKJZfoAoUm8g0ukCIGsUu?locale=pt) da VTEX, que permite que mais de um cliente adicione, retire ou atualize itens e informações de um mesmo carrinho.
 
 ### De que forma identificar vendedor e promoção?
 
@@ -229,7 +229,7 @@ Apresentamos algumas possibilidades na tabela abaixo. Recomendamos que o time t�
   </tbody>
 </table>
 
-> ℹ️ No Cenário 4 é necessário [gerar cupons em massa](https://help.vtex.com/pt/tutorial/consigo-gerar-um-cupom-em-massa--frequentlyAskedQuestions_348?locale=pt), para que cada vendedor tenha seu próprio cupom para identificação e ativação de desconto.
+> ℹ️ No Cenário 4 é necessário [gerar cupons em massa](/pt/tutorial/consigo-gerar-um-cupom-em-massa--frequentlyAskedQuestions_348?locale=pt), para que cada vendedor tenha seu próprio cupom para identificação e ativação de desconto.
 
 ### Quem preenche os dados pessoais e o endereço: vendedor ou cliente?
 

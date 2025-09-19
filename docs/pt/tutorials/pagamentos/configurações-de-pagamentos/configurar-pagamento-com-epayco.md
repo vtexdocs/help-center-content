@@ -40,9 +40,9 @@ Para configurar ePayco, siga os passos abaixo:
 8. Em **Campos do provedor**, preencha os campos **PUBLIC_KEY** e **PRIVATE_KEY** conforme orientações do provedor.
 9. Clique em `Salvar`.
 
-Para configurar os métodos de pagamento a serem processados pela ePayco, acesse [Condições de Pagamento](https://help.vtex.com/pt/tutorial/condicoes-de-pagamento).
+Para configurar os métodos de pagamento a serem processados pela ePayco, acesse [Condições de Pagamento](/pt/tutorial/condicoes-de-pagamento).
 
-Para definir condições especiais sobre os métodos de pagamento, acesse [Configurar condições especiais de Pagamento](https://help.vtex.com/pt/tutorial/condicoes-especiais--tutorials_456#).
+Para definir condições especiais sobre os métodos de pagamento, acesse [Configurar condições especiais de Pagamento](/pt/tutorial/condicoes-especiais--tutorials_456#).
 
 Depois de seguir os passos indicados, o provedor ePayco pode demorar até 10 minutos para aparecer no checkout da sua loja como uma opção de pagamento.
 

@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisPT: 'Disponibilize seus produtos mais rapidamente na Via Varejo fazendo o mapeamento de categorias, variações e atributos.'
 ---
 
-O fluxo de integração de produtos no Via Varejo Marketplace foi [modificado na sua API V4](https://desenvolvedores.viavarejo.com.br/api-portal/content/integracao) para aumentar a qualidade das informações dos produtos anunciados. Para nos adaptarmos a essa evolução, incluímos um passo adicional na Integração com a Via Varejo - o [mapeamento de categorias, variações e atributos](https://help.vtex.com/pt/tracks/configurar-integracao-da-via-varejo--3E9XylGaJ2wqwISGyw4GuY/5QVZFYNfuRIQKdq34MbTxz).
+O fluxo de integração de produtos no Via Varejo Marketplace foi [modificado na sua API V4](https://desenvolvedores.viavarejo.com.br/api-portal/content/integracao) para aumentar a qualidade das informações dos produtos anunciados. Para nos adaptarmos a essa evolução, incluímos um passo adicional na Integração com a Via Varejo - o [mapeamento de categorias, variações e atributos](/pt/tracks/configurar-integracao-da-via-varejo--3E9XylGaJ2wqwISGyw4GuY/5QVZFYNfuRIQKdq34MbTxz).
 
 ## O que mudou?
 
@@ -34,6 +34,6 @@ Para garantir o melhor posicionamento e experiência dos nossos clientes nos mar
 
 ## O que precisa ser feito?
 
-O mapeamento das categorias, variações e atributos seguindo a nossa [documentação](https://help.vtex.com/pt/tracks/configurar-integracao-da-via-varejo--3E9XylGaJ2wqwISGyw4GuY/5QVZFYNfuRIQKdq34MbTxz).
+O mapeamento das categorias, variações e atributos seguindo a nossa [documentação](/pt/tracks/configurar-integracao-da-via-varejo--3E9XylGaJ2wqwISGyw4GuY/5QVZFYNfuRIQKdq34MbTxz).
 
 > ℹ️ Este processo pode ser feito gradualmente conforme a necessidade e só precisa ser feito uma vez por categoria. Depois que uma categoria é mapeada com suas variações/atributos, todos produtos que fazem parte daquela categoria serão integrados normalmente sem ação adicional.

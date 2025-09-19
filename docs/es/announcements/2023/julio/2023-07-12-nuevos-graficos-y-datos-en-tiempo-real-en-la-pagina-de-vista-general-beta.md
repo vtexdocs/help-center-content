@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisES: 'La página Vista General de tu Admin VTEX ha sido rediseñada y ahora ofrece nuevos gráficos, en tiempo real.'
 ---
 
-La página de [Vista general (Beta)](https://help.vtex.com/es/tutorial/visao-geral-da-loja-beta--7i8wNsQQgbbFhYMYbQ5X46) de tu Admin VTEX ha sido rediseñada y ahora ofrece nuevos gráficos, métricas y vistas. Estas nuevas funcionalidades proporcionan un seguimiento en tiempo real de tu operación, ofreciendo visibilidad con relación a los indicadores para que tu equipo y tú tengan un rápido feedback sobre las acciones realizadas en la tienda y puedan actuar con prontitud para implementar mejoras. 
+La página de [Vista general (Beta)](/es/tutorial/visao-geral-da-loja-beta--7i8wNsQQgbbFhYMYbQ5X46) de tu Admin VTEX ha sido rediseñada y ahora ofrece nuevos gráficos, métricas y vistas. Estas nuevas funcionalidades proporcionan un seguimiento en tiempo real de tu operación, ofreciendo visibilidad con relación a los indicadores para que tu equipo y tú tengan un rápido feedback sobre las acciones realizadas en la tienda y puedan actuar con prontitud para implementar mejoras. 
 
 ![ES Visão geral beta](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2023/julio/2023-07-12-nuevos-graficos-y-datos-en-tiempo-real-en-la-pagina-de-vista-general-beta_1.png)
 
@@ -36,9 +36,9 @@ Los datos en tiempo real ayudan a tu equipo a analizar los resultados de las cam
 
 ## ¿Qué se necesita hacer?
 
-La versión actualizada de la página [Vista general (Beta)](https://help.vtex.com/pt/tutorial/visao-geral-da-loja-beta--7i8wNsQQgbbFhYMYbQ5X46) ya está disponible en el Admin VTEX desde el día 17 de agosto. Para acceder a la página, en el Admin VTEX, haz clic en **Dashboard > Vista general (Beta)**, o escribe _Vista general (Beta)_ en la barra de búsqueda de la parte superior de la página.
+La versión actualizada de la página [Vista general (Beta)](/pt/tutorial/visao-geral-da-loja-beta--7i8wNsQQgbbFhYMYbQ5X46) ya está disponible en el Admin VTEX desde el día 17 de agosto. Para acceder a la página, en el Admin VTEX, haz clic en **Dashboard > Vista general (Beta)**, o escribe _Vista general (Beta)_ en la barra de búsqueda de la parte superior de la página.
 
 El acceso a la página será gratuito durante su periodo en beta, o hasta que VTEX lo decida; sin embargo, es importante tener en cuenta que en el futuro podrían aplicarse tarifas adicionales. 
 
-La página Vista general, actualmente presente en el Admin seguirá estando disponible para su uso y se podrá acceder a ella desde el menú [Dashboards](https://help.vtex.com/es/tutorial/dashboards-overview--1yn2nZUoXtDO3teTEJsCNl) de tu Admin. 
+La página Vista general, actualmente presente en el Admin seguirá estando disponible para su uso y se podrá acceder a ella desde el menú [Dashboards](/es/tutorial/dashboards-overview--1yn2nZUoXtDO3teTEJsCNl) de tu Admin. 
 

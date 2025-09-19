@@ -23,7 +23,7 @@ Actualmente, la solicitud de eliminación de datos personales de clientes se rea
 
 ## ¿Qué se necesita hacer?
 
-Solo los retailers autorizados podrán solicitar la eliminación de datos de clientes a través de Copilot. Para otorgar esta autorización, será necessario crear un [rol personalizado](https://help.vtex.com/es/tutorial/criar-perfil-de-acesso) llamado **Ley General de Protección de Datos** con los siguientes recursos de [License Manager](https://help.vtex.com/es/tutorial/license-manager-resources):
+Solo los retailers autorizados podrán solicitar la eliminación de datos de clientes a través de Copilot. Para otorgar esta autorización, será necessario crear un [rol personalizado](/es/tutorial/criar-perfil-de-acesso) llamado **Ley General de Protección de Datos** con los siguientes recursos de [License Manager](/es/tutorial/license-manager-resources):
 - **Write user rights requests** (del producto **User Rights**).
 - **Open Support Ticket** (del producto **VTEX Support**).
 
@@ -31,5 +31,5 @@ Solo los retailers autorizados podrán solicitar la eliminación de datos de cli
 
 Luego, asigna este rol al retailer que será responsable de la solicitud de eliminación de datos de clientes.
 
-Más detalles estarán disponibles en la documentación actualizada [Eliminación de los datos de clientes](https://help.vtex.com/es/tutorial/erasing-customer-data--1R9Fn7A06Ifj4R9YD4JTKU) el 9 de abril.
+Más detalles estarán disponibles en la documentación actualizada [Eliminación de los datos de clientes](/es/tutorial/erasing-customer-data--1R9Fn7A06Ifj4R9YD4JTKU) el 9 de abril.
 

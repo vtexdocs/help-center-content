@@ -21,4 +21,4 @@ Al hacer clic en los detalles de un producto que aparece en los resultados de b�
 
 Esta pantalla muestra el nombre del producto, su galería de fotos, variaciones, descripción y disponibilidad. El vendedor puede, en esta pantalla, agregar el producto al carrito.
 
-Tenga en cuenta que si usted configuró su tienda para [forzar disponibilidad de stock](https://help.vtex.com/es/tracks/instore-customizations--1z9kBm12oBPyVNDo1ivVc2/2SgRUekV8FO4lg2aO6YTmh), el vendedor podrá agregar el producto al carrito, incluso si no está disponible en ningun almacén.
+Tenga en cuenta que si usted configuró su tienda para [forzar disponibilidad de stock](/es/tracks/instore-customizations--1z9kBm12oBPyVNDo1ivVc2/2SgRUekV8FO4lg2aO6YTmh), el vendedor podrá agregar el producto al carrito, incluso si no está disponible en ningun almacén.

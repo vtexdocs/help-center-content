@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisEN: 'Now you can select custom dates and use new filters in Sales Performance.'
 ---
 
-The [Sales Performance](https://help.vtex.com/en/v4/docs/sales-performance--6gx46RGRzWO8qgaVck7PRp) page is constantly evolving to allow retailers to extract more business intelligence from VTEX. 
+The [Sales Performance](/en/v4/docs/sales-performance--6gx46RGRzWO8qgaVck7PRp) page is constantly evolving to allow retailers to extract more business intelligence from VTEX. 
 
 We understand the importance of bringing more control to your analyses, allowing you to compare different aspects of your operation. This is why we have launched more filter options and a new date selection feature on the Sales Performance page. 
 
@@ -25,11 +25,11 @@ We have updated the interface of the Sales Performance page so that it contains 
 
 ### New period selection experience
 
-Before, the page only allowed retailers to select fixed periods, such as "Last week". You can now [select periods](https://help.vtex.com/en/v4/docs/sales-performance--6gx46RGRzWO8qgaVck7PRp#period) by choosing the desired start and end dates in the calendar within the last 90 days. 
+Before, the page only allowed retailers to select fixed periods, such as "Last week". You can now [select periods](/en/v4/docs/sales-performance--6gx46RGRzWO8qgaVck7PRp#period) by choosing the desired start and end dates in the calendar within the last 90 days. 
 
 ### New filter dimensions
 
-We have included the following [filter dimensions](https://help.vtex.com/en/v4/docs/sales-performance--6gx46RGRzWO8qgaVck7PRp#filter-dimensions-and-data-grouping), connecting more VTEX systems to your Sales Performance dashboard:
+We have included the following [filter dimensions](/en/v4/docs/sales-performance--6gx46RGRzWO8qgaVck7PRp#filter-dimensions-and-data-grouping), connecting more VTEX systems to your Sales Performance dashboard:
 
 * Trade policy
 * Promotions
@@ -44,8 +44,8 @@ The goal of the new filter dimensions is to refine your data exploration, offeri
 
 ## What needs to be done?
 
-This update is only available to stores operating with the [New VTEX Admin](https://help.vtex.com/en/announcements/welcome-to-the-redesigned-vtex-admin--5tLPBodp6Xu03vYdyBTGTa). 
+This update is only available to stores operating with the [New VTEX Admin](/en/announcements/welcome-to-the-redesigned-vtex-admin--5tLPBodp6Xu03vYdyBTGTa). 
 
-No action is required. The page has been automatically updated in your VTEX Admin under the **Dashboards** menu. Learn more in [Sales Performance](https://help.vtex.com/en/v4/docs/sales-performance--6gx46RGRzWO8qgaVck7PRp).
+No action is required. The page has been automatically updated in your VTEX Admin under the **Dashboards** menu. Learn more in [Sales Performance](/en/v4/docs/sales-performance--6gx46RGRzWO8qgaVck7PRp).
 
 To access this page and be part of the new experience, join the New VTEX Admin [Beta program](https://content.vtex.com/participe-do-programa-beta-en/?utm_source=landing_page&utm_medium=help_center&utm_campaign=new_admin_beta).

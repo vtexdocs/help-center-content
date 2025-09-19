@@ -20,7 +20,7 @@ Para essa configuração, é preciso configurar uma promoção do tipo Leve mais
 1. No Admin VTEX, acesse *Promoções > Promoções*, ou digite *Promoções* na barra de busca no topo da página.
 2. Clique no botão **Criar promoção**.
 3. Clique na opção **Leve Mais Por Menos**.
-4. Preencha os campos conforme [documentação da promoção](https://help.vtex.com/pt/tutorial/leve-mais-por-menos--tutorials_325).
+4. Preencha os campos conforme [documentação da promoção](/pt/tutorial/leve-mais-por-menos--tutorials_325).
 5. No campo **SKUs**, preencha com o SKU que deseja dar a promoção.
 6. No campo **A cada _ produto(s)**, preencha com o valor **1**.
 7. No campo **O cliente levará _ produtos**, preencha com o valor **1**.

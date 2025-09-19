@@ -15,11 +15,11 @@ locale: pt
 subcategoryId: 31ICVopiWZfSTdr9jZMShb
 ---
 
-**Faturas** é a página onde você administra todos os aspectos financeiros da sua conta VTEX. Ela só está disponível para usuários com um [perfil de acesso Financeiro](https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc). Para visualizar, editar ou executar qualquer ação nessa página, solicite a permissão do proprietário da sua loja.
+**Faturas** é a página onde você administra todos os aspectos financeiros da sua conta VTEX. Ela só está disponível para usuários com um [perfil de acesso Financeiro](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc). Para visualizar, editar ou executar qualquer ação nessa página, solicite a permissão do proprietário da sua loja.
 
 Para acessar essa página, clique no seu **avatar**, que pode ser identificado pela inicial do seu email, e clique no botão **Faturas**. Selecione a aba que você deseja visitar, como **Contratos, Títulos, Dados de registro e Contatos de faturamento**.
 
-> ℹ️ Somente usuários com o perfil de acesso [Finance](https://help.vtex.com/pt/tutorial/predefined-roles--jGDurZKJHvHJS13LnO7Dy#finance), [Finance Full Access](https://help.vtex.com/pt/tutorial/predefined-roles--jGDurZKJHvHJS13LnO7Dy#finance-full-access) ou com recursos de [Billing](https://help.vtex.com/pt/tutorial/recursos-do-license-manager-billing--13qKy6rwf9chc8ta90rDcy) vinculados ao seu perfil de acesso terão acesso a essa seção do Admin VTEX.
+> ℹ️ Somente usuários com o perfil de acesso [Finance](/pt/tutorial/predefined-roles--jGDurZKJHvHJS13LnO7Dy#finance), [Finance Full Access](/pt/tutorial/predefined-roles--jGDurZKJHvHJS13LnO7Dy#finance-full-access) ou com recursos de [Billing](/pt/tutorial/recursos-do-license-manager-billing--13qKy6rwf9chc8ta90rDcy) vinculados ao seu perfil de acesso terão acesso a essa seção do Admin VTEX.
 
 ![Admin v4 Faturas menu PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/faturas/faturas-vis%C3%A3o-geral/visao-geral-faturas_1.jpg)
 

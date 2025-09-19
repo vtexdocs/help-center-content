@@ -33,7 +33,7 @@ To configure Izipay, follow the steps below:
     	<li>**Disabled**: Capture takes place only when the order is invoiced. If you select this behavior, it is important to pay attention to the invoicing time, as invoicing can exceed the capture time agreed with the payment provider and lead to the cancellation of the transaction.</li>
 </ul>
 
-8. If you want to use [payment split](https://help.vtex.com/en/tutorial/split-payment--6k5JidhYRUxileNolY2VLx) in your store, select the option __Enable payout split and send payment recipients__ and indicate the __Accountable for payment processing charges__ and __Accountable for chargebacks__ (marketplace, sellers or marketplaces and sellers).
+8. If you want to use [payment split](/en/tutorial/split-payment--6k5JidhYRUxileNolY2VLx) in your store, select the option __Enable payout split and send payment recipients__ and indicate the __Accountable for payment processing charges__ and __Accountable for chargebacks__ (marketplace, sellers or marketplaces and sellers).
 9. In __Provider Fields__, configure the fields __pay.method__, __url.notification__, __language__, __appearance.logo__,  __appearance.customTheme.colors.backgroundColor__, __appearance.customTheme.colors.textColor__ and __modalidad__ according to the provider's instructions.
 10. Click `Save`.
 
@@ -44,7 +44,7 @@ To configure Izipay, follow the steps below:
 3. Click on __izipay__.
 4. Activate the condition in the __Status__ field.
 5. If you want to use an anti-fraud system, select the option __Use anti-fraud solution__.
-6. If you want, you can also [configure special payment conditions](https://help.vtex.com/en/tutorial/condiciones-especiales--tutorials_456?&utm_source=autocomplete#).
+6. If you want, you can also [configure special payment conditions](/en/tutorial/condiciones-especiales--tutorials_456?&utm_source=autocomplete#).
 7. Click `Save`.
 
 After following the indicated steps, Izipay may take up to 10 minutes to appear at your store's checkout as a payment option.

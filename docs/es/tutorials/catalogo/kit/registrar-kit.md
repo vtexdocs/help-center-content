@@ -31,8 +31,8 @@ Para configurar el Kit es necesario que los productos que harán parte de este �
 Luego de crear los productos componentes, podemos continuar con la configuración del Kit.
 
 1. Cree el producto que se convertirá en el Kit. Vea [Registrar Producto
-](https://help.vtex.com/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1ROhz3Y7mfSMmCO1I1GxEL) para más información.
-2. Inicie las configuraciones del SKU que se convertirá en el Kit. Vea [Registrar SKU](https://help.vtex.com/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ) para más información.
+](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1ROhz3Y7mfSMmCO1I1GxEL) para más información.
+2. Inicie las configuraciones del SKU que se convertirá en el Kit. Vea [Registrar SKU](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ) para más información.
 3. Haga clic en la pestaña __Configuraciones Avanzadas__.
 4. Haga clic en la opción `Activar Kit`.
 5. Si quiere un Kit Look, haga clic en la opción __Kit con ítems vendidos por separado__.
@@ -63,7 +63,7 @@ El peso del Kit estará conformado por la suma del peso de sus componentes. Edit
 
 ## Stock
 
-El [stock](https://help.vtex.com/es/tutorial/inventory-management--tutorials_139) del Kit siempre será el inventario de sus componentes. Es decir, no es posible ingresar stock apenas en el Kit, es necesario que se ingrese stock en cada uno de sus componentes independientes, a fin de actualizar el stock del Kit. Esa información es visualizada en tu Admin VTEX en **Catálogo > Stock > Gestión del stock**.
+El [stock](/es/tutorial/inventory-management--tutorials_139) del Kit siempre será el inventario de sus componentes. Es decir, no es posible ingresar stock apenas en el Kit, es necesario que se ingrese stock en cada uno de sus componentes independientes, a fin de actualizar el stock del Kit. Esa información es visualizada en tu Admin VTEX en **Catálogo > Stock > Gestión del stock**.
 
 Como todos los SKUs componentes del Kit solo pueden venderse juntos, el stock será igual al SKU con menos ítems en stock. Esto porque no puede comprarse el Kit cuando uno de los componentes ya no tiene stock.  
 
@@ -86,4 +86,4 @@ Alterar solo el precio final no actualiza el precio de los componentes.
 
 ### Más información
 
-- [Ordenar los productos del kit look](https://help.vtex.com/es/tutorial/como-ordenar-los-productos-del-kitlook--frequentlyAskedQuestions_621)
+- [Ordenar los productos del kit look](/es/tutorial/como-ordenar-los-productos-del-kitlook--frequentlyAskedQuestions_621)

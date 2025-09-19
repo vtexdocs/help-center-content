@@ -19,7 +19,7 @@ order: 10
 
 The goal is to help them correct errors without having to manually place a new order or contact your support, which facilitates the operation of your store and reduces costs.
 
-> ⚠️ Orders with [partial invoices](https://help.vtex.com/en/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe) cannot be [canceled](https://help.vtex.com/en/tutorial/como-cancelar-pedido--tutorials_186). If the customer wants to replace or remove items from the order, it is possible to [change the order](https://help.vtex.com/en/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190).
+> ⚠️ Orders with [partial invoices](/en/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe) cannot be [canceled](/en/tutorial/como-cancelar-pedido--tutorials_186). If the customer wants to replace or remove items from the order, it is possible to [change the order](/en/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190).
 
 ## Enabling order replacement
 
@@ -31,4 +31,4 @@ This feature is available to all stores. To enable it, follow the steps below:
 
 Within 15 minutes, after automatic cache refresh, the feature should be available.
 
-> ℹ️ For more information about the feature and cases that do not allow replacement, see the article [Order replacement](https://help.vtex.com/en/tutorial/substituicao-de-pedidos--2IK9mwQjBKseQmE8K8saO8).
+> ℹ️ For more information about the feature and cases that do not allow replacement, see the article [Order replacement](/en/tutorial/substituicao-de-pedidos--2IK9mwQjBKseQmE8K8saO8).

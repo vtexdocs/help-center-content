@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisEN: 'Improvements to the Product Detail Page (PDP) of VTEX Sales App: Optimized navigation, promotions, and customization.'
 ---
 
-We've updated the Product Detail Page (PDP) of [VTEX Sales App](https://help.vtex.com/en/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr/6cq4E1JCmA6vCvBCCtAgIM) to improve the browsing experience, simplify the information display, and optimize features.
+We've updated the Product Detail Page (PDP) of [VTEX Sales App](/en/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr/6cq4E1JCmA6vCvBCCtAgIM) to improve the browsing experience, simplify the information display, and optimize features.
 
 ## What has changed?
 
@@ -27,7 +27,7 @@ Now, we've integrated new features and improvements, such as:
 - **Customization and attachments:** Allows you to customize products and add relevant attachments directly on the PDP.
 - **Buy together:** Displays combinations of the most relevant offers to encourage customers to make additional purchases.
 - **Other offers:** Displays the available alternatives to the main product.
-- **Delivery and pickup:** Displays clear shipping and pickup details based on the customer's postal code, allowing you to sort [pickup points](https://help.vtex.com/en/tutorial/como-funcionam-pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R) by the closest, cheapest, or fastest option.
+- **Delivery and pickup:** Displays clear shipping and pickup details based on the customer's postal code, allowing you to sort [pickup points](/en/tutorial/como-funcionam-pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R) by the closest, cheapest, or fastest option.
 - **Performance and interface:** Reduces loading times and renews the design for smoother navigation.
 - **Inventory display adjustments:** Corrects inventory information for products available for delivery or pickup, including immediate pickup (*On Hands*).
 

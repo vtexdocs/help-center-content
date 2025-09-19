@@ -21,7 +21,7 @@ To enable PSE in your store, the following actions are required:
 - [Install and configure the Banks for PSE App](#installing-banks-for-pse-app).
 - [Setting up the PSE payment method](#setting-up-the-pse-payment-method).
 
-> ⚠️ To configure the PSE app in your store, you must have permission to access the Payments module. If you still do not have this access, request it through the [VTEX Support](https://help.vtex.com/support).
+> ⚠️ To configure the PSE app in your store, you must have permission to access the Payments module. If you still do not have this access, request it through the [VTEX Support](/support).
 
 ## Installing Banks for PSE App
 
@@ -54,8 +54,8 @@ To enable PSE in your store, the following actions are required:
 6. Fill the **Rule Name** field with a name of your choice for identification.
 7. Activate the condition in the **Status** field.
 8. In the **Process with affiliation** field, choose the connector that will process payments with PSE. Only connectors that support this payment method will be available for selection.
-9. If you wish, you can also [configure payment special conditions](https://help.vtex.com/en/tutorial/special-conditions--tutorials_456#).
+9. If you wish, you can also [configure payment special conditions](/en/tutorial/special-conditions--tutorials_456#).
 10. Click `Save`.
 
-> ℹ️ You can also create a regular promotion that can be applied specifically to payments made through PSE. Find out more at [Creating promotions for PSE payments](https://help.vtex.com/en/tutorial/creating-promotions-for-pse-payments--6YIp1fJ76gq667PQWjuj5T).
+> ℹ️ You can also create a regular promotion that can be applied specifically to payments made through PSE. Find out more at [Creating promotions for PSE payments](/en/tutorial/creating-promotions-for-pse-payments--6YIp1fJ76gq667PQWjuj5T).
 

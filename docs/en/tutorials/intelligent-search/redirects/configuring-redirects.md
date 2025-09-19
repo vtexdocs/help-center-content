@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 1wvyJwJhKgewxGeAGCVmM6
 ---
 
-To configure a [redirect](https://help.vtex.com/en/tutorial/redirects--3okF84cImJwKzcc8hxmZ2r) on Intelligent Search, follow the steps below.
+To configure a [redirect](/en/tutorial/redirects--3okF84cImJwKzcc8hxmZ2r) on Intelligent Search, follow the steps below.
 
 1. In the VTEX Admin, go to  **Storefront**, or type  **Storefront** in the search bar at the top of the page.
 2. In **Intelligent Search**, click **Redirects**.
@@ -35,7 +35,7 @@ This section provides the following general information:
 
 - **Name:** name of the rule set for the redirect you created.
 - **Redirect URL**: URL to which the client will be forwarded. You must enter the full URL. Example: `https://www.store.com/_secure/account/#/orders` instead of `_secure/account/#/orders`.
-- **Locales:** Languages to which the redirect will apply. The field is only available for stores using [Multilanguage settings (Beta)](https://help.vtex.com/en/tutorial/vtex-intelligent-search-configuracoes-multi-idioma-beta--2WahlTESLXIJ9XBdQMdTYO).
+- **Locales:** Languages to which the redirect will apply. The field is only available for stores using [Multilanguage settings (Beta)](/en/tutorial/vtex-intelligent-search-configuracoes-multi-idioma-beta--2WahlTESLXIJ9XBdQMdTYO).
 
 ### Trigger rules
 

@@ -37,4 +37,4 @@ Esta funcionalidad será válida para los siguientes tipos de beneficios:
 ## ¿Qué se necesita hacer?
 No se requiere ninguna acción por parte de las tiendas. La nueva funcionalidad estará disponible automáticamente en todas las cuentas VTEX a partir del 9 de septiembre de 2025.
 
-Para más información, consulta [Configurar presupuestos para promociones](https://help.vtex.com/es/tutorial/configurando-orcamentos-para-promocoes--3ZCbnELZdMNykXhqBYdFOa).
+Para más información, consulta [Configurar presupuestos para promociones](/es/tutorial/configurando-orcamentos-para-promocoes--3ZCbnELZdMNykXhqBYdFOa).

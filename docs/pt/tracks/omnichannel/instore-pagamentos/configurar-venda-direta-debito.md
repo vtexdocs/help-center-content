@@ -21,7 +21,7 @@ Se você deseja receber seus pagamentos via cartão de débito no VTEX Sales App
 2. Clique no botão __+__.
 3. Clique no método de pagamento __Venda Direta Débito__.
 4. Clique no botão `Status` para ativar essa condição de pagamento.
-5. Opcionalmente, você pode configurar condições especiais de pagamento clicando em `Adicionar condição especial`. Leia o artigo [Configurar condições especiais de pagamento](https://help.vtex.com/pt/tutorial/condicoes-especiais--tutorials_456) para mais informações.
+5. Opcionalmente, você pode configurar condições especiais de pagamento clicando em `Adicionar condição especial`. Leia o artigo [Configurar condições especiais de pagamento](/pt/tutorial/condicoes-especiais--tutorials_456) para mais informações.
 6. Clique em `Salvar`.
 
-> ℹ️ Além das configurações acima, é necessário seguir o guia **[Definir meios de pagamento exibidos no VTEX Sales App](https://help.vtex.com/pt/tracks/instore-pagamentos--43B4Nr7uZva5UdwWEt3PEy/jHQQcyX3WKeUFidwSjmY1)** para que as opções de pagamento sejam exibidas corretamente no aplicativo.
+> ℹ️ Além das configurações acima, é necessário seguir o guia **[Definir meios de pagamento exibidos no VTEX Sales App](/pt/tracks/instore-pagamentos--43B4Nr7uZva5UdwWEt3PEy/jHQQcyX3WKeUFidwSjmY1)** para que as opções de pagamento sejam exibidas corretamente no aplicativo.

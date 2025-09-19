@@ -17,15 +17,15 @@ announcementSynopsisEN: 'Notice of deprecation date for the old order UI and the
 
 The VTEX Admin **All Orders** module was redesigned for a more intuitive and complete experience and was in beta. Therefore, you could switch back to the previous interface version.
 
-As of February 1st, 2023, the new **All Orders** module interface will be made official for all VTEX stores globally. For those still using the old experience, please read the [FAQ](https://help.vtex.com/en/tutorial/perguntas-frequentes-nova-interface-modulo-pedidos--1mgSrqT2X3lxIkccEv8bLW) article, which covers some of the main questions that may arise. 
+As of February 1st, 2023, the new **All Orders** module interface will be made official for all VTEX stores globally. For those still using the old experience, please read the [FAQ](/en/tutorial/perguntas-frequentes-nova-interface-modulo-pedidos--1mgSrqT2X3lxIkccEv8bLW) article, which covers some of the main questions that may arise. 
 
-Along with this change, the official version of the interface comes with new features, such as the [no-date limit order search](https://help.vtex.com/en/tutorial/filtrar-todos-pedidos--tutorials_192), which allows you to search all orders, regardless of their creation date. Seeing the order diagram is also possible now. 
+Along with this change, the official version of the interface comes with new features, such as the [no-date limit order search](/en/tutorial/filtrar-todos-pedidos--tutorials_192), which allows you to search all orders, regardless of their creation date. Seeing the order diagram is also possible now. 
 
 ## What has changed?
 
 The new interface, which will be official as of February 1st, has two main new features compared to the beta version:
 
-* **No-date limit order search:** You can search for orders without setting a date limit, which returns all orders related to the criteria used, regardless of the order creation date. This search cannot be combined with other filters. However, you can select a custom search period of up to 6 months and then combine it with the filters. Learn more in the article [Filter orders on All orders](https://help.vtex.com/en/tutorial/filtrar-todos-pedidos--tutorials_192).
+* **No-date limit order search:** You can search for orders without setting a date limit, which returns all orders related to the criteria used, regardless of the order creation date. This search cannot be combined with other filters. However, you can select a custom search period of up to 6 months and then combine it with the filters. Learn more in the article [Filter orders on All orders](/en/tutorial/filtrar-todos-pedidos--tutorials_192).
 
   ![busca_sem_limite_data_all_en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2022/december/2022-12-08-new-orders-module-interface-official_1.png)
 
@@ -47,6 +47,6 @@ The official version's new features enhance the order management experience by a
 
 As of February 1st, 2023, all VTEX stores globally will be automatically updated with the new **All Orders** module interface, and no action is required. 
 
-As of this date, you will not be able to switch back to the old interface version. For those not using the beta version yet, some of the main questions you may have about the transition have been covered in the [FAQ about the new orders module interface](https://help.vtex.com/en/tutorial/perguntas-frequentes-nova-interface-modulo-pedidos--1mgSrqT2X3lxIkccEv8bLW). 
+As of this date, you will not be able to switch back to the old interface version. For those not using the beta version yet, some of the main questions you may have about the transition have been covered in the [FAQ about the new orders module interface](/en/tutorial/perguntas-frequentes-nova-interface-modulo-pedidos--1mgSrqT2X3lxIkccEv8bLW). 
 
-This page follows VTEX's new Design System, which has a cleaner, more modern, user-friendly look and feel. To access more pages with this experience and have an improved Admin with actionable data, [join](https://content.vtex.com/join-new-admin-beta-program-en/) the [New VTEX Admin](https://help.vtex.com/en/v4) Beta program.
+This page follows VTEX's new Design System, which has a cleaner, more modern, user-friendly look and feel. To access more pages with this experience and have an improved Admin with actionable data, [join](https://content.vtex.com/join-new-admin-beta-program-en/) the [New VTEX Admin](/en/v4) Beta program.

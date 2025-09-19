@@ -15,9 +15,9 @@ locale: es
 subcategoryId: 1RWR7qSyaREbD5RfgCjdYG
 ---
 
-> ℹ️ En [Mi Cuenta](https://help.vtex.com/es/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh), los clientes solo pueden acceder a los pedidos de los últimos dos años.
+> ℹ️ En [Mi Cuenta](/es/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh), los clientes solo pueden acceder a los pedidos de los últimos dos años.
 
-El nuevo [My Account](https://help.vtex.com/es/tutorial/como-funciona-el-my-account--2BQ3GiqhqGJTXsWVuio3Xh) ya está instalado en todas las cuentas VTEX en un **ambiente de prueba**, permitiendo ajustes en la nueva página sin impactos en la experiencia de usuario.
+El nuevo [My Account](/es/tutorial/como-funciona-el-my-account--2BQ3GiqhqGJTXsWVuio3Xh) ya está instalado en todas las cuentas VTEX en un **ambiente de prueba**, permitiendo ajustes en la nueva página sin impactos en la experiencia de usuario.
 
 Esto quiere decir que My Account ya está disponible para que su tienda realice las personalizaciones necesarias, antes de la migración masiva del aplicativo para producción, a través del siguiente link:
 

@@ -34,7 +34,7 @@ Para configurar Sistecredito, siga los pasos a continuación:
 3. Haga clic en **SisteCredito**.
 4. Active la condición en el campo **Status**.
 5. Si desea utilizar un sistema antifraude, seleccione la opción **Utilizar antifraude**.
-6. Si desea, puede [configurar condiciones especiales de pago](https://help.vtex.com/es/tutorial/condiciones-especiales--tutorials_456?&utm_source=autocomplete#).
+6. Si desea, puede [configurar condiciones especiales de pago](/es/tutorial/condiciones-especiales--tutorials_456?&utm_source=autocomplete#).
 7. Haga clic en `Guardar`.
 
 Después de seguir los pasos indicados, Sistecredito puede tardar hasta 10 minutos en aparecer en el checkout de tu tienda como una opción de pago.

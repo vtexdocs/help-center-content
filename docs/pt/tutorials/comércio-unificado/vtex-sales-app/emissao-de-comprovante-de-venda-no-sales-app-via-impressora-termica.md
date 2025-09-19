@@ -17,7 +17,7 @@ subcategoryId: 4T6qfa6gNO6g4sAUIa6s2G
 
 > ℹ️ Esta funcionalidade está disponível apenas para Android e é compatível com impressoras térmicas específicas, conforme descrito na seção [Requisitos](#requisitos).
 
-O [VTEX Sales App](https://help.vtex.com/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc) permite que os vendedores imprimam os comprovantes de vendas utilizando uma impressora térmica. A ação é realizada a partir de um celular e utiliza conexão Bluetooth.
+O [VTEX Sales App](/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc) permite que os vendedores imprimam os comprovantes de vendas utilizando uma impressora térmica. A ação é realizada a partir de um celular e utiliza conexão Bluetooth.
 
 Esta funcionalidade dispensa o vendedor da necessidade de se deslocar ao caixa para gerar o comprovante da venda, que é rapidamente emitido pelo celular e está disponível no fluxo da venda no **Sales App**. O resultado é mais agilidade no atendimento e uma melhor experiência de compra para os clientes.
 
@@ -47,7 +47,7 @@ Para realizar a impressão do comprovante de venda pelo **Sales App**, siga os p
 
 3. No aplicativo do **Sales App**, na tela final do pedido ou após selecionar um pedido na área **Pedidos**, clique em `Imprimir pedido`.
 
-  > ❗ No primeiro uso da funcionalidade, ocorre um erro nesta etapa. Feche o aplicativo e realize o passo a passo desde o início. Caso o erro persista, entre em contato com o nosso [Suporte](https://help.vtex.com/pt/support).
+  > ❗ No primeiro uso da funcionalidade, ocorre um erro nesta etapa. Feche o aplicativo e realize o passo a passo desde o início. Caso o erro persista, entre em contato com o nosso [Suporte](/pt/support).
 
 4. Selecione a impressora térmica desejada e a impressão será feita imediatamente.
 

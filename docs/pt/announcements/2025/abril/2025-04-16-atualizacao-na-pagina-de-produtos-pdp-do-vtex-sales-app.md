@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisPT: 'Melhorias na Página de Produtos (PDP) do VTEX Sales App: navegação otimizada, promoções e personalização.'
 ---
 
-Atualizamos a Página de Produto (PDP) do [VTEX Sales App](https://help.vtex.com/pt/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr/6cq4E1JCmA6vCvBCCtAgIM) para melhorar a experiência de navegação, facilitar a exibição de informações e otimizar funcionalidades.
+Atualizamos a Página de Produto (PDP) do [VTEX Sales App](/pt/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr/6cq4E1JCmA6vCvBCCtAgIM) para melhorar a experiência de navegação, facilitar a exibição de informações e otimizar funcionalidades.
 
 ## O que mudou?
 
@@ -27,7 +27,7 @@ Agora, integramos novos recursos e melhorias, tais como:
 * **Personalização e anexos:** permite personalizar produtos e adicionar anexos relevantes diretamente na PDP.
 * **Compre junto:** exibe combinações de ofertas mais relevantes para incentivar compras adicionais aos clientes.
 * **Outras ofertas:** melhora a exibição de alternativas disponíveis ao produto principal.
-* **Entrega e retirada:** exibe detalhes claros de envio e retirada com base no CEP do cliente, permitindo ordenar os [pontos de retirada](https://help.vtex.com/pt/tutorial/como-funcionam-pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R) pelo mais próximo, mais barato ou mais rápido.
+* **Entrega e retirada:** exibe detalhes claros de envio e retirada com base no CEP do cliente, permitindo ordenar os [pontos de retirada](/pt/tutorial/como-funcionam-pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R) pelo mais próximo, mais barato ou mais rápido.
 * **Performance e interface:** reduz o tempo de carregamento e renova o design para uma navegação mais fluida.
 * **Ajustes na exibição de estoque:** corrige informações de estoque para produtos disponíveis para entrega ou retirada, incluindo retirada imediata (*On Hands*).
 

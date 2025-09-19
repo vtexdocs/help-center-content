@@ -21,7 +21,7 @@ tags:
   - Rewriter
 ---
 
-When the user searches in a VTEX store using [Intelligent Search](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG), the desired product may not be found, even if the search term is included in the item's information.
+When the user searches in a VTEX store using [Intelligent Search](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG), the desired product may not be found, even if the search term is included in the item's information.
 
 Example scenario: When searching the store's website for products containing the term "Pendleton," the search results return 6 products. However, when we access the VTEX Admin (__Storefront > Intelligent Search > Explained Search__) and enter the same term, 9 products are displayed.
 
@@ -33,7 +33,7 @@ This behavior can occur due to the following reasons:
 
 1. Incorrect product registration in the Catalog.
 
-2. The term used is not in one of the product's searchable fields. Learn more about [Search behavior configuration](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/23mytRDsEduqLO0Lo7yufy#standard-search-behavior) and [Search configuration](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5t75L6lYNwix93l41s1Yrx).
+2. The term used is not in one of the product's searchable fields. Learn more about [Search behavior configuration](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/23mytRDsEduqLO0Lo7yufy#standard-search-behavior) and [Search configuration](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5t75L6lYNwix93l41s1Yrx).
 
 3. Internal route redirecting the search result to a brand page.
 
@@ -47,15 +47,15 @@ To enable the searched products to be displayed correctly in the site's search r
 
 ### Verifying product registration fields
 
-A missing product in a search result may come from incomplete fields during the [product registration](https://help.vtex.com/en/tutorial/product-registration-fields--4dYXWIK3zyS8IceKkQseke). Follow the steps below to check the __Brand, Show on site__, and __Show when out of stock__ fields:
+A missing product in a search result may come from incomplete fields during the [product registration](/en/tutorial/product-registration-fields--4dYXWIK3zyS8IceKkQseke). Follow the steps below to check the __Brand, Show on site__, and __Show when out of stock__ fields:
 
 1. In the Admin VTEX, go to **Catalog > All Products**.
 
-> ⚠️ Stores using the **Products and SKUS (Beta)** page should check the product registration fields by going to **Catalog > Products and SKUs** in the VTEX Admin. Learn more about [Produtos and SKUS (Beta)](https://help.vtex.com/en/tutorial/products-and-skus-beta--2ig7TmROlirWirZjFWZ3By).
+> ⚠️ Stores using the **Products and SKUS (Beta)** page should check the product registration fields by going to **Catalog > Products and SKUs** in the VTEX Admin. Learn more about [Produtos and SKUS (Beta)](/en/tutorial/products-and-skus-beta--2ig7TmROlirWirZjFWZ3By).
 
 2. Find the product you want and click **Edit product**.
 
-3. In the **Brand** field, confirm if the information is correct. If necessary, add the brand corresponding to the product. You can only add brands that have already been [created in the store](https://help.vtex.com/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/7lEGOSpAlQJCs5eUc5XFmR).
+3. In the **Brand** field, confirm if the information is correct. If necessary, add the brand corresponding to the product. You can only add brands that have already been [created in the store](/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/7lEGOSpAlQJCs5eUc5XFmR).
 
 4. Confirm if the **Show on site** option is checked.
 
@@ -71,13 +71,13 @@ A missing product in a search result may come from incomplete fields during the 
 
 Another reason a product may not be displayed in search results is the [Rewriter](https://developers.vtex.com/docs/apps/vtex.rewriter) app's default behavior when displaying products.
 
-If a term is listed in Rewriter as a brand, [Intelligent Search](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4uSFqyJVCMVMIvVrtz3lxZ) will understand that it should only be displayed when it is included in a brand name.
+If a term is listed in Rewriter as a brand, [Intelligent Search](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4uSFqyJVCMVMIvVrtz3lxZ) will understand that it should only be displayed when it is included in a brand name.
 
 To remove the restriction on searching by *brand* and allow products to be found also by terms in the name or description (*full text*), follow the steps below:
 
 1. In the VTEX Admin, go to **Storefront > Intelligent Search > Explained Search** enter the desired term, and see how many products are returned in the search.
 
-2. Configure the [Rewriter](https://developers.vtex.com/docs/apps/vtex.rewriter) app. If this app is not installed in your store, go to the [App Store](https://help.vtex.com/en/tracks/extensions-hub--AW7klkYMh557y5IUOgzco/2LDRvGujYsumxi7IlE7CEJ) and install it.
+2. Configure the [Rewriter](https://developers.vtex.com/docs/apps/vtex.rewriter) app. If this app is not installed in your store, go to the [App Store](/en/tracks/extensions-hub--AW7klkYMh557y5IUOgzco/2LDRvGujYsumxi7IlE7CEJ) and install it.
 
 3. Access the [GraphQL IDE](https://developers.vtex.com/docs/guides/graphql-ide#graphql-basics) in **Store Settings > Storefront > GraphQL IDE**.
 

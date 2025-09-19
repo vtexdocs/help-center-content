@@ -32,4 +32,4 @@ O Alelo também está disponível no nosso protocolo de Payment Provider, o que 
 
 Para integrá-lo a sua loja, basta entrar em contato com o nosso time de Partner.
 
-Para saber mais detalhes, veja o tutorial que ensina a [configurar o vale-alimentação Alelo](https://help.vtex.com/pt/tutorial/configurar-meio-de-pagamento-alelo-para-cielo-v3--4fpnddmyMOAD6F5ixtdmY8 "configurar o vale-alimentação Alelo") como meio de pagamento. 
+Para saber mais detalhes, veja o tutorial que ensina a [configurar o vale-alimentação Alelo](/pt/tutorial/configurar-meio-de-pagamento-alelo-para-cielo-v3--4fpnddmyMOAD6F5ixtdmY8 "configurar o vale-alimentação Alelo") como meio de pagamento. 

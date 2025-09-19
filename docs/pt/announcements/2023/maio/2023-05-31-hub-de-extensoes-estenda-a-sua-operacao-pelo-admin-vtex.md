@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisPT: 'A nova seção do Admin VTEX para encontrar parceiros, adicionar funcionalidades e gerenciar extensões'
 ---
 
-Hub de Extensões é a nova seção do Admin VTEX que reúne desenvolvedores parceiros e merchants que querem estender as funcionalidades da sua operação. Pelo Hub de Extensões, parceiros podem publicar suas extensões e merchants podem visualizar, comprar, instalar e gerenciar extensões. O Hub de Extensões estará disponível globalmente em todas as lojas VTEX durante o terceiro trimestre (Q3) de 2023. Caso você queira habilitar o Hub de Extensões na sua loja imediatamente, você pode fazer o pedido [abrindo um ticket para o nosso suporte](https://help.vtex.com/pt/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM).
+Hub de Extensões é a nova seção do Admin VTEX que reúne desenvolvedores parceiros e merchants que querem estender as funcionalidades da sua operação. Pelo Hub de Extensões, parceiros podem publicar suas extensões e merchants podem visualizar, comprar, instalar e gerenciar extensões. O Hub de Extensões estará disponível globalmente em todas as lojas VTEX durante o terceiro trimestre (Q3) de 2023. Caso você queira habilitar o Hub de Extensões na sua loja imediatamente, você pode fazer o pedido [abrindo um ticket para o nosso suporte](/pt/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM).
 
 ![Extensions Hub GIF](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2023/maio/2023-05-31-hub-de-extensoes-estenda-a-sua-operacao-pelo-admin-vtex_1.gif)
 
@@ -29,7 +29,7 @@ O Hub de Extensões é uma nova seção do Admin VTEX onde agrupamos três pági
 
 Com o Hub de Extensões, toda a experiência de navegação e compra de apps acontece dentro do Admin VTEX sem fricção. Você pode encontrar, adquirir e instalar apps com poucos cliques sem sair do Admin VTEX.
 
-Os preços na **App Store** aparecem em reais (BRL) para lojas no Brasil e em dólares (USD) para lojas em outros países. Os pagamentos pela aquisição, assinatura e utilização de apps são processados automaticamente e os valores correspondentes são adicionados à sua [fatura VTEX](https://help.vtex.com/pt/tutorial/visao-geral-faturas--6UxfCl4fw4GmyQwoUuIcQs) na sua moeda local, eliminando a necessidade de pagamento por cartão de crédito. Caso a sua operação não esteja localizada no Brasil e a sua fatura esteja em uma moeda diferente de USD, faremos a conversão do valor em USD para a sua moeda local.
+Os preços na **App Store** aparecem em reais (BRL) para lojas no Brasil e em dólares (USD) para lojas em outros países. Os pagamentos pela aquisição, assinatura e utilização de apps são processados automaticamente e os valores correspondentes são adicionados à sua [fatura VTEX](/pt/tutorial/visao-geral-faturas--6UxfCl4fw4GmyQwoUuIcQs) na sua moeda local, eliminando a necessidade de pagamento por cartão de crédito. Caso a sua operação não esteja localizada no Brasil e a sua fatura esteja em uma moeda diferente de USD, faremos a conversão do valor em USD para a sua moeda local.
 
 > ℹ️ O [site da App Store](http://apps.vtex.com/) continuará existindo apenas para visualização de apps de forma pública. Não será mais possível fazer a compra de apps pelo site. As compras podem ser feitas apenas no Admin VTEX.
 
@@ -41,11 +41,11 @@ O [site Portal de Parceiros](https://partnerportal.vtex.com/) continuará existi
 
 ### Gerenciamento de Aplicativos
 
-**Gerenciamento de Aplicativos** é o novo nome para a página **Meus Aplicativos**. Ele continua com as mesmas funcionalidades: instalar, desinstalar, remover e configurar apps. A página foi movida para o Hub de Extensões para unificar as experiências de compra e de gerenciamento dos aplicativos. Além disso, atualizamos a interface da página seguindo o padrão de design do [novo Admin VTEX](https://help.vtex.com/pt/announcements/de-as-boas-vindas-ao-novo-admin-vtex--428AanFpOiQgRkaLvDHVO9).
+**Gerenciamento de Aplicativos** é o novo nome para a página **Meus Aplicativos**. Ele continua com as mesmas funcionalidades: instalar, desinstalar, remover e configurar apps. A página foi movida para o Hub de Extensões para unificar as experiências de compra e de gerenciamento dos aplicativos. Além disso, atualizamos a interface da página seguindo o padrão de design do [novo Admin VTEX](/pt/announcements/de-as-boas-vindas-ao-novo-admin-vtex--428AanFpOiQgRkaLvDHVO9).
 
 ## O que precisa ser feito?
 
-O Hub de Extensões estará disponível para todas as lojas a partir do terceiro trimestre (Q3) de 2023. Caso você queira habilitar o Hub de Extensões na sua loja imediatamente, você pode fazer o pedido [abrindo um ticket para o nosso suporte](https://help.vtex.com/pt/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM). Em seguida, para começar a utilizar o Hub de Extensões, basta acessá-lo no Admin da sua loja. No painel lateral esquerdo do Admin VTEX, clique no ícone **Extensões** e o Hub de Extensões estará visível na parte superior do menu.
+O Hub de Extensões estará disponível para todas as lojas a partir do terceiro trimestre (Q3) de 2023. Caso você queira habilitar o Hub de Extensões na sua loja imediatamente, você pode fazer o pedido [abrindo um ticket para o nosso suporte](/pt/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM). Em seguida, para começar a utilizar o Hub de Extensões, basta acessá-lo no Admin da sua loja. No painel lateral esquerdo do Admin VTEX, clique no ícone **Extensões** e o Hub de Extensões estará visível na parte superior do menu.
 
 ![Extensions Hub painel](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2023/maio/2023-05-31-hub-de-extensoes-estenda-a-sua-operacao-pelo-admin-vtex_2.png)
 
@@ -57,6 +57,6 @@ Além disso, renovamos a experiência de compra de apps na **App Store**. Com po
 
 Por fim, nosso objetivo é estreitar o relacionamento entre os lojistas e parceiros VTEX. Assim, lojistas que desejam implementar soluções únicas para suas lojas, agora podem encontrar e contatar diretamente parceiros e desenvolvedores pelo **Parceiros** no Admin VTEX.
 
-Para mais informações, veja a nossa [documentação do Extensions Hub](https://help.vtex.com/pt/tracks/hub-de-extensoes--AW7klkYMh557y5IUOgzco).
+Para mais informações, veja a nossa [documentação do Extensions Hub](/pt/tracks/hub-de-extensoes--AW7klkYMh557y5IUOgzco).
 
 _\*Edição em 02/08/2023: A página **Parceiros** será disponibilizada futuramente. Ainda não há uma previsão de quando esta página estará disponível._

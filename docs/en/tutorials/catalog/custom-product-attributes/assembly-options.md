@@ -17,13 +17,13 @@ subcategoryId: 1hoOi2R0Rm6ky0yCwOUoiy
 
 > ⚠️ This feature is only available for stores developed using [VTEX IO](https://vtex.com/us-en/store-framework/). Before proceeding, you need to [install and configure Product Customizer](https://developers.vtex.com/vtex-developer-docs/docs/vtex-product-customizer) in your store. 
 
-An assembly option is an [attachment](https://help.vtex.com/en/tutorial/what-is-an-attachment--aGICk0RVbqKg6GYmQcWUm) for complex scenarios, such as product customization, in which you need to manage different product combinations, quantity, additional items, costs, and product inventory management.
+An assembly option is an [attachment](/en/tutorial/what-is-an-attachment--aGICk0RVbqKg6GYmQcWUm) for complex scenarios, such as product customization, in which you need to manage different product combinations, quantity, additional items, costs, and product inventory management.
 
 In the example below, a store offers multiple assembly options for the Custom Bell product. These options are shown on the product page, where the customer can select the desired options. Depending on the choices, there may be an additional cost for the SKU.
 
 ![assembly-option-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/custom-product-attributes/assembly-options_1.png)
 
-You can combine [SKUs](https://help.vtex.com/en/tutorial/what-is-an-sku--1K75s4RXAQyOuGUYKMM68u) to provide assembly options, such as the Bells add-ons Roman or the Bells add-ons 1-3 lines in the example above. If an item is out of stock, it will be shown as unavailable.
+You can combine [SKUs](/en/tutorial/what-is-an-sku--1K75s4RXAQyOuGUYKMM68u) to provide assembly options, such as the Bells add-ons Roman or the Bells add-ons 1-3 lines in the example above. If an item is out of stock, it will be shown as unavailable.
 
 This article will explain how to start using Assembly Options in your store.
 
@@ -31,11 +31,11 @@ This article will explain how to start using Assembly Options in your store.
 
 There are two ways to implement Assembly Options: using the [Assembly Options app](#app-assembly-options) or the native Catalog [Custom Product Attributes](#custom-product-attributes) interface.
 
-> ⚠️ If you implement Assembly Options in a [seller account](https://help.vtex.com/en/tutorial/what-is-a-seller--5FkLvhZ3Few4CWWIuYOK2w), the product customization options will be displayed to your customers at checkout. If you want the options to be displayed on the product page, you need to install the app in a [marketplace account](https://help.vtex.com/en/tutorial/what-is-a-marketplace--680lLJTnmEAmekcC0MIea8).
+> ⚠️ If you implement Assembly Options in a [seller account](/en/tutorial/what-is-a-seller--5FkLvhZ3Few4CWWIuYOK2w), the product customization options will be displayed to your customers at checkout. If you want the options to be displayed on the product page, you need to install the app in a [marketplace account](/en/tutorial/what-is-a-marketplace--680lLJTnmEAmekcC0MIea8).
 
 ### Assembly Options App
 
-The [Assembly Options](https://apps.vtex.com/vtex-admin-assembly-options/p) app, available for stores developed with [VTEX IO](https://vtex.com/us-en/store-framework/), provides an interface for configuring and managing custom options. In this case, the assembly option syntax and attachment are automatically generated. Please refer to the [Assembly Options App](https://help.vtex.com/en/tutorial/assembly-options-app--54mWg37mojrqOgCA79iqqk) user guide to learn more about the app.
+The [Assembly Options](https://apps.vtex.com/vtex-admin-assembly-options/p) app, available for stores developed with [VTEX IO](https://vtex.com/us-en/store-framework/), provides an interface for configuring and managing custom options. In this case, the assembly option syntax and attachment are automatically generated. Please refer to the [Assembly Options App](/en/tutorial/assembly-options-app--54mWg37mojrqOgCA79iqqk) user guide to learn more about the app.
 
 ### Custom Product Attributes
 
@@ -61,9 +61,9 @@ The first elements `[x-y]` are group rules, and between each `#` and `;` are SKU
 
 #### Attachment Settings
 
-To add an Assembly Option, you  need to have an attachment already created. Check the article [Adding an attachment](https://help.vtex.com/en/tutorial/adding-an-attachment--7zHMUpuoQE4cAskqEUWScU) to learn how to create one.
+To add an Assembly Option, you  need to have an attachment already created. Check the article [Adding an attachment](/en/tutorial/adding-an-attachment--7zHMUpuoQE4cAskqEUWScU) to learn how to create one.
 
-After adding an attachment and [associating it with an SKU](https://help.vtex.com/en/tutorial/adding-an-attachment--7zHMUpuoQE4cAskqEUWScU#associating-the-attachment-with-a-sku), follow the steps below to configure the Assembly Option.
+After adding an attachment and [associating it with an SKU](/en/tutorial/adding-an-attachment--7zHMUpuoQE4cAskqEUWScU#associating-the-attachment-with-a-sku), follow the steps below to configure the Assembly Option.
 
 1. In the VTEX Admin, go to __Catalog__, or type __Catalog__ in the search bar at the top of the page.
 2. Click **Custom Product Attributes**.

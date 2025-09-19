@@ -15,7 +15,7 @@ trackSlugEN: go-live
 order: 1
 ---
 
-Si has [configurado el funcionamiento de tu tienda](https://help.vtex.com/pt/tracks) y [desarrollado tu storefront](https://help.vtex.com/tracks/cms--2YcpgIljVaLVQYMzxQbc3z), ha llegado el momento de realizar el _go live_. Este proceso pone tu nueva tienda VTEX en producción, es decir, disponible para que los clientes puedan acceder a ella y realizar compras.
+Si has [configurado el funcionamiento de tu tienda](/pt/tracks) y [desarrollado tu storefront](/tracks/cms--2YcpgIljVaLVQYMzxQbc3z), ha llegado el momento de realizar el _go live_. Este proceso pone tu nueva tienda VTEX en producción, es decir, disponible para que los clientes puedan acceder a ella y realizar compras.
 
 En este tutorial, encontrarás una guía detallada paso a paso sobre cómo realizar el _go live_ de tu tienda.
 
@@ -34,12 +34,12 @@ Copia esta [Lista de verificación de tienda](//assets.ctfassets.net/alneenqid6w
 
 El proceso de _go live_ de tu tienda puede tener variaciones en función de algunas características de tu operación. Además, algunos pasos son sensibles al tiempo. Por estos motivos, te recomendamos que planifiques todo el proceso de _go live_ con al menos 15 días de antelación.
 
-> ℹ️ Si utilizas el CMS Portal Legado y quieres migrar a un storefront creado con [CMS IO](https://help.vtex.com/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2), sigue las instrucciones de la guía sobre cómo [migrar tu storefront de CMS Portal Legado a Store Framework](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-migrating-storefront-from-legacy-to-io).
+> ℹ️ Si utilizas el CMS Portal Legado y quieres migrar a un storefront creado con [CMS IO](/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2), sigue las instrucciones de la guía sobre cómo [migrar tu storefront de CMS Portal Legado a Store Framework](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-migrating-storefront-from-legacy-to-io).
 
 En aras de la organización y la comodidad, esta guía divide los pasos del _go live_ en cuatro etapas:
 
-1. [Configuración](https://help.vtex.com/tracks/go-live-your-store--4Ns5FxIiksmjsdX2yOTduM/7wFsbWgN4rnZsbjhv8IItX)
-2. [Antes del go live](https://help.vtex.com/tracks/go-live-your-store--4Ns5FxIiksmjsdX2yOTduM/7sM5IMx02zaHvAFTm0OxiJ)
-3. [Go live](https://help.vtex.com/tracks/go-live-your-store--4Ns5FxIiksmjsdX2yOTduM/12bQlMbJ68Ot0LIaO6Btkj#)
-4. [Después del go live](https://help.vtex.com/tracks/go-live-your-store--4Ns5FxIiksmjsdX2yOTduM/K8UQ6W7MhH1ovp91kJxBJ)
+1. [Configuración](/tracks/go-live-your-store--4Ns5FxIiksmjsdX2yOTduM/7wFsbWgN4rnZsbjhv8IItX)
+2. [Antes del go live](/tracks/go-live-your-store--4Ns5FxIiksmjsdX2yOTduM/7sM5IMx02zaHvAFTm0OxiJ)
+3. [Go live](/tracks/go-live-your-store--4Ns5FxIiksmjsdX2yOTduM/12bQlMbJ68Ot0LIaO6Btkj#)
+4. [Después del go live](/tracks/go-live-your-store--4Ns5FxIiksmjsdX2yOTduM/K8UQ6W7MhH1ovp91kJxBJ)
 

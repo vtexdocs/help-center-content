@@ -39,7 +39,7 @@ A primeira estapa de configuração será a de criação do pagamento customizad
 ## Configurar condição de pagamento
 Após configurar o cartão, será necessária a configuração da condição de pagamento.
 
-> ⚠️ Caso o conector a ser escolhido (no **Passo 8.**) ainda não estiver cadastrado em sua loja, será exibida a mensagem “(Configurar)” após o nome do conector. Nesta situação, escolha outro conector disponível ou realize o seu cadastro. Para saber mais, acesse [Cadastrar afiliações de gateway](https://help.vtex.com/pt/tutorial/afiliacoes-de-gateway--tutorials_444?&utm_source=autocomplete#).
+> ⚠️ Caso o conector a ser escolhido (no **Passo 8.**) ainda não estiver cadastrado em sua loja, será exibida a mensagem “(Configurar)” após o nome do conector. Nesta situação, escolha outro conector disponível ou realize o seu cadastro. Para saber mais, acesse [Cadastrar afiliações de gateway](/pt/tutorial/afiliacoes-de-gateway--tutorials_444?&utm_source=autocomplete#).
 
 1. No Admin VTEX, acesse **Configurações da loja** > **Pagamentos** > **Configurações**, ou digite **Configurações** na barra de busca no topo da página.
 2. Na aba __Condições de Pagamentos__, clique no botão __“+”__.

@@ -29,15 +29,15 @@ Dicho esto, podemos pasar a configurar el medio de pago en sí.
 
 ## Configuraciones generales
 
-Para configurar una condición de pago, primero debe registrar un proveedor de pago, como se describe en [Registrar proveedores de pago y antifraude](https://help.vtex.com/es/tutorial/afiliaciones-de-gateway--tutorials_444).
+Para configurar una condición de pago, primero debe registrar un proveedor de pago, como se describe en [Registrar proveedores de pago y antifraude](/es/tutorial/afiliaciones-de-gateway--tutorials_444).
 
 Independientemente de la condición de pago a elegir, siempre se deberán realizar las siguientes acciones:
 - Definir el nombre de la regla según lo que representa, para ayudar a identificarla;
 - Actívalo;
 - Definir qué proveedor de pago procesará esta condición;
-- Defina si utilizará o no [antifraude](https://help.vtex.com/es/tutorial/como-configurar-antifraude--tutorials_446).
+- Defina si utilizará o no [antifraude](/es/tutorial/como-configurar-antifraude--tutorials_446).
 
-Además, para algunas condiciones de pago puede ser necesario definir si el pago se realizará en efectivo o a plazos, con o sin intereses y [condiciones especiales](https://help.vtex.com/es/tutorial/condiciones-especiales--tutorials_456).
+Además, para algunas condiciones de pago puede ser necesario definir si el pago se realizará en efectivo o a plazos, con o sin intereses y [condiciones especiales](/es/tutorial/condiciones-especiales--tutorials_456).
 
 Como la __Tarjeta de Crédito__ es un método de pago que te permite aplicar todas estas características, mira a continuación cómo configurarla:
 
@@ -97,7 +97,7 @@ Si decide configurar un medio de pago que acepte cuotas con intereses, este camp
 
 ### Cuota Automática
 La opción Cuota Automática le permite configurar los detalles de las cuotas directamente en el proveedor de pago (fuera del entorno VTEX).
-Para habilitar esta opción, seleccione "Sí" en el campo **Utilizar pago en cuotas externo** durante el paso de [configuración de proveedor](https://help.vtex.com/es/tutorial/afiliacoes-de-gateway--tutorials_444).
+Para habilitar esta opción, seleccione "Sí" en el campo **Utilizar pago en cuotas externo** durante el paso de [configuración de proveedor](/es/tutorial/afiliacoes-de-gateway--tutorials_444).
 
 ![cuotaautomatica](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/m%C3%B3dulos-vtex-primeros-pasos/pagos/configurar-una-condicion-de-pago_1.JPG)
 

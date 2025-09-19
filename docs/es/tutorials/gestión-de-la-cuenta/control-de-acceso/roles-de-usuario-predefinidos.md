@@ -15,11 +15,11 @@ locale: es
 subcategoryId: 1HSqkejwuYcQSMC400uY84
 ---
 
-[Roles de usuario](https://help.vtex.com/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#) agrupan los [recursos del License Manager](https://help.vtex.com/es/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3#), siendo que cada recurso representa una permisión en la plataforma VTEX.
+[Roles de usuario](/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#) agrupan los [recursos del License Manager](/es/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3#), siendo que cada recurso representa una permisión en la plataforma VTEX.
 
 En este documento, se enumeran roles que están predefinidos para las nuevas tiendas VTEX y sus respectivos recursos. Para acceder a ellos directamente, utilice la lista a continuación.
 
-> ℹ️ Para obtener más información sobre cada recurso listado en los perfiles a continuación, consulte el artículo [Recursos del License Manager](https://help.vtex.com/es/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3).
+> ℹ️ Para obtener más información sobre cada recurso listado en los perfiles a continuación, consulte el artículo [Recursos del License Manager](/es/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3).
 
 * [Admin - Start page only](#admin-start-page-only)
 * [Checkout Admin](#checkout-admin)
@@ -73,7 +73,7 @@ El recurso __Assisted Sales__ hace que el usuario sea redirigido automáticament
 
 Por lo tanto, recomendamos utilizar dos cuentas separadas (con correos electrónicos separados) para los usuarios de televenta: una cuenta para el rol de __Call center operator__ (con los recursos *Assisted Sales* y *View order*) y otra cuenta para realizar operaciones en Admin, si es necesario.
 
-> ⚠️ Al crear un [rol](https://help.vtex.com/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#), evita incluir [recursos](https://help.vtex.com/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3#) de televentas junto con otros recursos. De lo contrario, puede que el rol no funcione de forma esperada.
+> ⚠️ Al crear un [rol](/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#), evita incluir [recursos](/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3#) de televentas junto con otros recursos. De lo contrario, puede que el rol no funcione de forma esperada.
 
 Tabla de recursos:
 

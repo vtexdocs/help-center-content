@@ -43,7 +43,7 @@ A VTEX já se encarrega de garantir uma experiência de compra fluida e simples 
 
 Para utilizar o Boleto Parcelado Lendico, é preciso contatá-los através do e-mail: bizdev@lendico.com.br e firmar uma parceria comercial. Somente a partir daí, será possível realizar as configurações necessárias no ambiente da VTEX.
 
-Todo o passo a passo detalhado está disponível no nosso Help Center, no artigo [Configurar boleto parcelado Lendico como meio de pagamento](https://help.vtex.com/pt/tutorial/configurar-boleto-parcelado-lendico-como-meio-de-pagamento--1pRpPlkppLDEc1TVXTgrcu?&utm_source=autocomplete).
+Todo o passo a passo detalhado está disponível no nosso Help Center, no artigo [Configurar boleto parcelado Lendico como meio de pagamento](/pt/tutorial/configurar-boleto-parcelado-lendico-como-meio-de-pagamento--1pRpPlkppLDEc1TVXTgrcu?&utm_source=autocomplete).
 
 Caso queira mais informações sobre a Lendico acesse: https://lendico.com.br/boleto-parcelado-varejista 
 

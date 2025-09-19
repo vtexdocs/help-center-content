@@ -78,7 +78,7 @@ The offer list contains columns with the following information:
 | **Name** | Displays the SKU image, the offer name on the sales channel, and the SKU ID on VTEX. |
 | **Marketplace** | Sales channel to where the offer was sent. |
 | **Price** | SKU offer price. |
-| **Inventory** | Number of items in [stock](https://help.vtex.com/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb) for the offer SKU. |
+| **Inventory** | Number of items in [stock](/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb) for the offer SKU. |
 | **Update** | Update processing status, which can be Updated <i class="far fa-check-circle"></i> or Error updating<div class="error-icon"></div>. |
 
 You can click the column names to sort the offers in ascending or descending order. For example, by clicking the **Price** column, you can sort offers by price, from the lowest to highest or vice versa.

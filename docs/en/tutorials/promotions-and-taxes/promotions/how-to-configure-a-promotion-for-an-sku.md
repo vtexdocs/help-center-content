@@ -25,7 +25,7 @@ For this configuration, you must set up a Take More for Less promotion, and sel
 2. Click on `Create Promotion`.
 3. Click on **More for Less**.
 4. Fill out the fields according to the documentation on [Creating a More for Less promotion
-](https://help.vtex.com/en/tutorial/creating-a-more-for-less-promotion--tutorials_325 "Creating a More for Less promotion").
+](/en/tutorial/creating-a-more-for-less-promotion--tutorials_325 "Creating a More for Less promotion").
 5. At **SKUs**, fill it out with the SKU to which the promotion will be applied.
 6. At **Every _ product (s)**, fill it out with the value **1**.
 7. At **The client will take _ products**, fill it out with the value **1**.

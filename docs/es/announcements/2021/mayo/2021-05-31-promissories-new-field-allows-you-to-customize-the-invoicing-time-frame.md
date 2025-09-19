@@ -17,13 +17,13 @@ announcementSynopsisES: 'Tenga más flexibilidad con el nuevo campo de facturaci
 
 Utilizado a menudo para permitir el pago a través de efectivo, el pagaré es una promesa de pago que necesita de aprobación manual del administrador de la tienda para completar la transacción.
 
-En VTEX, entre las diversas opciones de pago disponibles, también es posible ofrecer el pago mediante [Pagarés](https://help.vtex.com/es/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/1wWt35dRwEboRs1nrSx7G0#pagares).
+En VTEX, entre las diversas opciones de pago disponibles, también es posible ofrecer el pago mediante [Pagarés](/es/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/1wWt35dRwEboRs1nrSx7G0#pagares).
 
 ## ¿Qué cambió?
 
 En la configuración actual, por defecto, los pagarés se facturan automáticamente en el momento en que el pago es autorizado. Esto no necesariamente responde a las necesidades más específicas de su negocio. 
 
-Para algunos clientes, puede ser importante autorizar cambios en los pedidos ([change order](https://help.vtex.com/es/tutorial/como-fazer-a-alteracao-de-itens--tutorials_190)). En dicho caso, el campo *Change Margin* se debe completar cuando se realiza la configuración de los pagarés.
+Para algunos clientes, puede ser importante autorizar cambios en los pedidos ([change order](/es/tutorial/como-fazer-a-alteracao-de-itens--tutorials_190)). En dicho caso, el campo *Change Margin* se debe completar cuando se realiza la configuración de los pagarés.
 
 Cuando el campo *Change Margin* se completa con un valor superior a cero, la facturación se realiza 30 días después de la autorización. 
 
@@ -35,5 +35,5 @@ Tenemos presente que cada negocio tiene estrategias y necesidades diferentes. Po
 
 ## ¿Qué se necesita hacer?
 
-Por defecto, el número límite del campo será de 15 días. En caso de que desee alterarlo, solo tiene que acceder a la documentación [Configurar pagos con pagarés](https://help.vtex.com/es/tutorial/configurar-pagamentos-com-promissoria--5pW7avTwtyQcMu4uiW8quQ?&utm_source=autocomplete) y realizar el paso a paso.
+Por defecto, el número límite del campo será de 15 días. En caso de que desee alterarlo, solo tiene que acceder a la documentación [Configurar pagos con pagarés](/es/tutorial/configurar-pagamentos-com-promissoria--5pW7avTwtyQcMu4uiW8quQ?&utm_source=autocomplete) y realizar el paso a paso.
 

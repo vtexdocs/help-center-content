@@ -21,4 +21,4 @@ Esta funcionalidad permite que el usuario segmente el uso de una promoción para
 
 Hecho esto, las localidades se mostrarán en el módulo Promociones del Admin de su tienda.
 
-Para saber más detalles sobre Promociones, vea nuestro [track](https://help.vtex.com/es/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/2a2D0K85Ahvs4hLnL3Ag7N).
+Para saber más detalles sobre Promociones, vea nuestro [track](/es/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/2a2D0K85Ahvs4hLnL3Ag7N).

@@ -73,7 +73,7 @@ The single-access link can be copied for later access or shared with the person 
   </tr>
 </table>
 
-* **Pending token deletion**: We've added alerts to notify you when the deletion of an old token is pending after [renewal](https://help.vtex.com/en/tutorial/renewing-api-tokens--7r4AzptYjXErGHadg9LnJ3).
+* **Pending token deletion**: We've added alerts to notify you when the deletion of an old token is pending after [renewal](/en/tutorial/renewing-api-tokens--7r4AzptYjXErGHadg9LnJ3).
 
 <table style="border-collapse:collapse;border:none;margin:auto;">
   <tr>
@@ -118,10 +118,10 @@ No action is needed. This update will be automatically applied to all accounts.
 
 See the updated documentation to explore all features:
 
-* [API keys](https://help.vtex.com/en/tutorial/api-keys--4bFEmcHXgpNksoePchZyy6)  
-* [External keys](https://help.vtex.com/en/tutorial/external-keys--1isU0HfKkeg0atlxRha14Q)  
-* [Generated keys](https://help.vtex.com/en/tutorial/generated-keys--7fnU4iZdvZKbxCaT3Ymdjc)  
-* [Configuring alerts to renew API tokens](https://help.vtex.com/en/tutorial/configuring-alerts-to-renew-api-tokens--kcGIFysFt02FDuhsfjQwZ)  
-* [Exporting API keys](https://help.vtex.com/en/tutorial/exporting-api-keys--1p4eYJWD26gOdicUdiiGC5)  
-* [Renewing API tokens](https://help.vtex.com/en/tutorial/renewing-api-tokens--7r4AzptYjXErGHadg9LnJ3)  
+* [API keys](/en/tutorial/api-keys--4bFEmcHXgpNksoePchZyy6)  
+* [External keys](/en/tutorial/external-keys--1isU0HfKkeg0atlxRha14Q)  
+* [Generated keys](/en/tutorial/generated-keys--7fnU4iZdvZKbxCaT3Ymdjc)  
+* [Configuring alerts to renew API tokens](/en/tutorial/configuring-alerts-to-renew-api-tokens--kcGIFysFt02FDuhsfjQwZ)  
+* [Exporting API keys](/en/tutorial/exporting-api-keys--1p4eYJWD26gOdicUdiiGC5)  
+* [Renewing API tokens](/en/tutorial/renewing-api-tokens--7r4AzptYjXErGHadg9LnJ3)  
 

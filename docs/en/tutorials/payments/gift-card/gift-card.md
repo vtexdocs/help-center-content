@@ -20,7 +20,7 @@ The GiftCard or voucher is one of the features of the Payments module, and it wo
 - A payment method for purchases;
 - A loyalty program that the retailer can connect with the VTEX system.
 
-For more details on the second option, check our technical documentation on [integration with GiftCards](https://help.vtex.com/en/tutorial/how-to-integrate-with-a-gift-card--tutorials_450 "integration with Gift Card").
+For more details on the second option, check our technical documentation on [integration with GiftCards](/en/tutorial/how-to-integrate-with-a-gift-card--tutorials_450 "integration with Gift Card").
 
 ## How to create the GiftCard (manual)
 
@@ -46,7 +46,7 @@ To create a new gift card, follow the step by step:
 
 > ⚠️ **Warning**: The “Value” and the “Expiration Date” fields are **mandatory**. If you do not fill them, the purchase voucher will not be saved.
 
-> ❗ The feature that creates gift cards limited by product collections is not working. More details about this issue are provided in the article [Restricting the use of GiftCards to a collection of products does not work](https://help.vtex.com/en/known-issues/restricting-the-use-of-giftcards-to-a-collection-of-products-does-not-work--7kdbZUdscJLo1sGY6bo1jp).
+> ❗ The feature that creates gift cards limited by product collections is not working. More details about this issue are provided in the article [Restricting the use of GiftCards to a collection of products does not work](/en/known-issues/restricting-the-use-of-giftcards-to-a-collection-of-products-does-not-work--7kdbZUdscJLo1sGY6bo1jp).
 
 After filling in the fields correctly, the user can select up to three configuration options:
 <ul>
@@ -80,7 +80,7 @@ To create more than one new voucher at the same time (a batch), follow the step 
 <br>
 > ⚠️ **Warning**: The “Number of gift cards”, “Value” and the “Expiration Date” fields are **mandatory**. If you don’t fill them, the purchase vouchers will not be saved.
 <br>
-> ❗ The feature that creates gift cards limited by product collections is not working. More details about this issue are provided in the article [Restricting the use of GiftCards to a collection of products does not work](https://help.vtex.com/en/known-issues/restricting-the-use-of-giftcards-to-a-collection-of-products-does-not-work--7kdbZUdscJLo1sGY6bo1jp).
+> ❗ The feature that creates gift cards limited by product collections is not working. More details about this issue are provided in the article [Restricting the use of GiftCards to a collection of products does not work](/en/known-issues/restricting-the-use-of-giftcards-to-a-collection-of-products-does-not-work--7kdbZUdscJLo1sGY6bo1jp).
 <br>
   <li>**Reloadable**: while these vouchers are available, their balances can be changed;</li>
   <li>**Reusable**: it will be possible to make new purchases with these vouchers until their values are fully used.</li>
@@ -109,7 +109,7 @@ Follow the steps below to set up the Gift card:
 7. If you want to use an anti-fraud system, select the option __Use anti-fraud solution__.
 8. Click on `Save`.
 
-You can also add to the Gift Card special payment conditions. There is no limit on the conditions that can be applied to a payment method. We describe how to set each one of them [here](https://help.vtex.com/en/tutorial/condicoes-especiais--tutorials_456?locale=pt "here"). 
+You can also add to the Gift Card special payment conditions. There is no limit on the conditions that can be applied to a payment method. We describe how to set each one of them [here](/en/tutorial/condicoes-especiais--tutorials_456?locale=pt "here"). 
 
 To end, click on the blue __Save__ button.
 

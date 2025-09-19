@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 5RAUzLD6X9Wa1maenj1eGA
 ---
 
-__Multilevel omnichannel inventory__ es la configuración de VTEX que permite que una cuenta principal ofrezca el _stock_ de [sellers white label](https://help.vtex.com/es/tutorial/definicoes-de-conta-franquia-e-seller-white-label--5orlGHyDHGAYciQ64oEgKa) y de [cuentas franquicia](https://help.vtex.com/es/tutorial/what-are-franchise-account-and-seller-white-label--5orlGHyDHGAYciQ64oEgKa) para la venta en los _marketplaces_. Esta función solo está disponible para los mercados y vendedores de VTEX.
+__Multilevel omnichannel inventory__ es la configuración de VTEX que permite que una cuenta principal ofrezca el _stock_ de [sellers white label](/es/tutorial/definicoes-de-conta-franquia-e-seller-white-label--5orlGHyDHGAYciQ64oEgKa) y de [cuentas franquicia](/es/tutorial/what-are-franchise-account-and-seller-white-label--5orlGHyDHGAYciQ64oEgKa) para la venta en los _marketplaces_. Esta función solo está disponible para los mercados y vendedores de VTEX.
 
 Este artículo incluye la siguiente información sobre la funcionalidad:  
 
@@ -28,11 +28,11 @@ Este artículo incluye la siguiente información sobre la funcionalidad:
 
 ## Arquitectura de cuentas
 
-El [marketplace](https://help.vtex.com/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402) es el entorno donde se vende el producto, también llamado vitrina, y el [seller](https://help.vtex.com/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#selling-on-marketplaces) es el propietario del envío del producto.
+El [marketplace](/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402) es el entorno donde se vende el producto, también llamado vitrina, y el [seller](/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#selling-on-marketplaces) es el propietario del envío del producto.
 
 Cuando una tienda vende sus productos en un _marketplace_, tenemos una relación de dos niveles. Sin embargo, la arquitectura de VTEX permite que las tiendas actúen tanto como _marketplaces_ como _sellers_, ampliando el número de combinaciones posibles.
 
-Es posible que un _seller_ de una cuenta principal actúe como _marketplace_ para [sellers white label](https://help.vtex.com/es/tutorial/definicoes-de-conta-franquia-e-seller-white-label--5orlGHyDHGAYciQ64oEgKa). Este es el caso de las redes de tiendas configuradas como [cuentas franquicia](https://help.vtex.com/es/tutorial/what-are-franchise-account-and-seller-white-label--5orlGHyDHGAYciQ64oEgKa) y de las tiendas físicas, que son por definición _sellers_ en otra tienda VTEX.
+Es posible que un _seller_ de una cuenta principal actúe como _marketplace_ para [sellers white label](/es/tutorial/definicoes-de-conta-franquia-e-seller-white-label--5orlGHyDHGAYciQ64oEgKa). Este es el caso de las redes de tiendas configuradas como [cuentas franquicia](/es/tutorial/what-are-franchise-account-and-seller-white-label--5orlGHyDHGAYciQ64oEgKa) y de las tiendas físicas, que son por definición _sellers_ en otra tienda VTEX.
 
 También es posible que este _seller_ principal venda sus productos en un _marketplace_.
 
@@ -67,13 +67,13 @@ Algunas de las funcionalidades que forman parte del modelo tradicional de _marke
 
 ### Disponibilidad
 
-La funcionalidad Multilevel Omnichannel Inventory está disponible únicamente para [marketplaces VTEX](https://help.vtex.com/es/tutorial/marketplace-strategies-at-vtex--tutorials_402#ser-un-marketplace-vtex). Para utilizar la funcionalidad, el marketplace (nivel 1) debe realizar la configuración para cada seller directo (nivel 2) deseado. Puedes hacerlo al registrar nuevos sellers o al editar la configuración de sellers existentes en tu tienda. Consulta más información accediendo a [Configurar](#configuracion) y al [Developer portal](https://developers.vtex.com/vtex-rest-api/docs/multilevel-omnichannel-inventory).
+La funcionalidad Multilevel Omnichannel Inventory está disponible únicamente para [marketplaces VTEX](/es/tutorial/marketplace-strategies-at-vtex--tutorials_402#ser-un-marketplace-vtex). Para utilizar la funcionalidad, el marketplace (nivel 1) debe realizar la configuración para cada seller directo (nivel 2) deseado. Puedes hacerlo al registrar nuevos sellers o al editar la configuración de sellers existentes en tu tienda. Consulta más información accediendo a [Configurar](#configuracion) y al [Developer portal](https://developers.vtex.com/vtex-rest-api/docs/multilevel-omnichannel-inventory).
 
 ### Distribución de cuentas por cobrar
 
 No es posible distribuir las cuentas por cobrar en toda la cadena (_marketplace, seller directo y sellers white label_). Los pagos de los pedidos de _Multilevel Omnichannel Inventory_ solo pueden realizarse en el _marketplace._ La conciliación y la transferencia de valores a los _sellers_ de nivel 3 deben realizarse fuera de VTEX, ya que no hay soporte nativo para esta etapa.
 
-Puedes utilizar la solución de [split de pagos](https://help.vtex.com/es/tracks/split-de-pagamentos--1ouDg8q56Kuz1AgtJUY9nv/4EOhp8cdVXaHl68KykPG6) solo para dividir las cuentas por cobrar entre los niveles _marketplace_ y _seller directo_ (nivel 2). En este caso, se recomienda utilizar el [split de cobros](https://help.vtex.com/es/tutorial/split-payment#split-de-recebiveis).
+Puedes utilizar la solución de [split de pagos](/es/tracks/split-de-pagamentos--1ouDg8q56Kuz1AgtJUY9nv/4EOhp8cdVXaHl68KykPG6) solo para dividir las cuentas por cobrar entre los niveles _marketplace_ y _seller directo_ (nivel 2). En este caso, se recomienda utilizar el [split de cobros](/es/tutorial/split-payment#split-de-recebiveis).
 
 En estos casos, el _seller_ directo se convierte en receptor de los ítems de sus _sellers white label_ y de sus propios ítems, eliminando las comisiones establecidas en la relación con el _marketplace_.
 
@@ -85,11 +85,11 @@ Es importante destacar que cuando el _seller directo_ no es responsable de las c
 
 Una vez realizada la configuración, solo los medios de pago del _marketplace_ aparecerán como opción en el _checkout_. Los medios de pago de los _sellers_ directos (nivel 2) y de los _sellers white label_ (nivel 3) no se importan a la arquitectura de las cuentas. Por lo tanto, el _checkout_ solo muestra los medios de pago del _marketplace_, incluso si el afiliado del _seller_ directo está configurado para utilizar sus medios de pago. 
 
-> ⚠️ El [afiliado](https://help.vtex.com/es/tutorial/como-configurar-afiliado--tutorials_187) de la cuenta franquicia debe tener siempre desmarcada la opción de usar los medios de pago.
+> ⚠️ El [afiliado](/es/tutorial/como-configurar-afiliado--tutorials_187) de la cuenta franquicia debe tener siempre desmarcada la opción de usar los medios de pago.
 
 ### Cambio de seller
 
-Si un _seller white label_ (nivel 3) recibe un pedido y lo rechaza, este pedido no se asigna a otro _seller white label_. En consecuencia, el comprador deberá crear un nuevo pedido en el _storefront_ del _marketplace_. Obtén más información en [Change seller](https://help.vtex.com/es/tutorial/veja-como-utilizar-o-change-seller--5TBAwO2kOAMw44uyaaQMQO).
+Si un _seller white label_ (nivel 3) recibe un pedido y lo rechaza, este pedido no se asigna a otro _seller white label_. En consecuencia, el comprador deberá crear un nuevo pedido en el _storefront_ del _marketplace_. Obtén más información en [Change seller](/es/tutorial/veja-como-utilizar-o-change-seller--5TBAwO2kOAMw44uyaaQMQO).
 
 ### Modificación de los pedidos finalizados por la tienda
 
@@ -105,23 +105,23 @@ La funcionalidad _Manual price_ no se aplica al _Multilevel omnichannel inventor
 
 - [Integración con el ERP](https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide)  
 - [Pricing API REST](https://developers.vtex.com/vtex-rest-api/reference/createupdatepriceorfixedprice)  
-- [Página de precios en el Admin VTEX](https://help.vtex.com/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3N9xYhnampRQOrfaTAOxNu)
+- [Página de precios en el Admin VTEX](/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3N9xYhnampRQOrfaTAOxNu)
 
 ### Información de usuario
 
-Cuando un nuevo usuario realiza una compra, sus datos no se registran en el Profile system del _seller_ directo, que es la tienda que realizó la venta (nivel 2 en el diagrama anterior). Es decir, el _seller_ no tiene visibilidad de este usuario. Los datos del perfil del usuario solo se guardarán en el _marketplace_, que es responsable de toda la comunicación con él. Obtén más información en [Información compartida entre el marketplace y el seller en VTEX](https://help.vtex.com/es/tutorial/informacoes-compartilhadas-entre-marketplace-e-seller-na-vtex--3o7WGiBtfnKKZ3Ddug26k3).
+Cuando un nuevo usuario realiza una compra, sus datos no se registran en el Profile system del _seller_ directo, que es la tienda que realizó la venta (nivel 2 en el diagrama anterior). Es decir, el _seller_ no tiene visibilidad de este usuario. Los datos del perfil del usuario solo se guardarán en el _marketplace_, que es responsable de toda la comunicación con él. Obtén más información en [Información compartida entre el marketplace y el seller en VTEX](/es/tutorial/informacoes-compartilhadas-entre-marketplace-e-seller-na-vtex--3o7WGiBtfnKKZ3Ddug26k3).
 
 ### Regionalización
 
-Un _marketplace_ no puede configurar la exhibición de los precios y la disponibilidad de los productos para los _sellers white label_ (nivel 3) con la funcionalidad [Region.](https://help.vtex.com/es/tutorial/configurar-preco-e-disponibilidade-de-skus-por-region--12ne58BmvYsYuGsimmugoc)
+Un _marketplace_ no puede configurar la exhibición de los precios y la disponibilidad de los productos para los _sellers white label_ (nivel 3) con la funcionalidad [Region.](/es/tutorial/configurar-preco-e-disponibilidade-de-skus-por-region--12ne58BmvYsYuGsimmugoc)
 
 ### UTM, cupones y tarjetas de regalo
 
-La aplicación de [cupones](https://help.vtex.com/es/tutorial/cupons-beta--1aAEN3ADpz19ss5JCIEBdL),[tarjetas de regalo (vales)](https://help.vtex.com/es/tutorial/gift-card--tutorials_995) y beneficios vinculados a los [UTM](https://help.vtex.com/es/tutorial/what-are-utm-source-utm-campaign-and-utm-medium--2wTz7QJ8KUG6skGAoAQuii) está restringido a _marketplaces_ nivel 1. No se aplicarán los configurados en _sellers_ directos (nivel 2) ni en cuentas franquicia o _sellers white label_ (nivel 3).
+La aplicación de [cupones](/es/tutorial/cupons-beta--1aAEN3ADpz19ss5JCIEBdL),[tarjetas de regalo (vales)](/es/tutorial/gift-card--tutorials_995) y beneficios vinculados a los [UTM](/es/tutorial/what-are-utm-source-utm-campaign-and-utm-medium--2wTz7QJ8KUG6skGAoAQuii) está restringido a _marketplaces_ nivel 1. No se aplicarán los configurados en _sellers_ directos (nivel 2) ni en cuentas franquicia o _sellers white label_ (nivel 3).
 
 ### Tablas de precios
 
-No es posible crear tablas de precios mediante la funcionalidad [Tablas de precios](https://help.vtex.com/es/tutorial/criar-tabelas-de-precos--58YmY2Iwggyw4WeSCGg24S). Los precios deben registrarse vía integración con ERP o a través de plantillas.
+No es posible crear tablas de precios mediante la funcionalidad [Tablas de precios](/es/tutorial/criar-tabelas-de-precos--58YmY2Iwggyw4WeSCGg24S). Los precios deben registrarse vía integración con ERP o a través de plantillas.
 
 ## Configuracíon
 
@@ -140,14 +140,14 @@ Para configurarla en los _sellers_ que se han integrado previamente, el _marketp
 `https://{{sellerAccount}}.vtexcommercestable.com.br/api/checkout?affiliateid={{affiliateId}}&sc={{tradePolicyId}}`  
 5. Sustituye los campos que están entre llaves por los valores que se describen a continuación, eliminando las llaves:  
 
-    - **sellerAccount**: [el nombre de la cuenta](https://help.vtex.com/es/tutorial/o-que-e-account-name--i0mIGLcg3QyEy8OCicEoC) del seller en VTEX.  
-    - **affiliateId**: el código de tres dígitos correspondiente al[ afiliado](https://help.vtex.com/es/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0) creado por el _seller_. El _seller_ debe informar este valor al _marketplace_.  
-    - **tradePolicyId**: ID de la[ política comercial](https://help.vtex.com/es/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) creada por el _seller_ en su propio entorno VTEX para vender en su _marketplace_. El _seller_ debe informar este valor al _marketplace_.  
+    - **sellerAccount**: [el nombre de la cuenta](/es/tutorial/o-que-e-account-name--i0mIGLcg3QyEy8OCicEoC) del seller en VTEX.  
+    - **affiliateId**: el código de tres dígitos correspondiente al[ afiliado](/es/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0) creado por el _seller_. El _seller_ debe informar este valor al _marketplace_.  
+    - **tradePolicyId**: ID de la[ política comercial](/es/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) creada por el _seller_ en su propio entorno VTEX para vender en su _marketplace_. El _seller_ debe informar este valor al _marketplace_.  
 6. Haz clic en ` Guardar`.  
 
 ### Sellers integrados por primera vez
 
-Si el _marketplace_ desea agregar un nuevo _seller_ con _Multilevel omnichannel inventory_ configurado desde cero, debe seguir las instrucciones en [Agregar seller](https://help.vtex.com/es/tutorial/adicionar-seller--tutorials_392) y rellenar el campo `Fulfillment endpoint` siguiendo los paso 4 y 5 del tutorial en _Sellers_ ya integrados.
+Si el _marketplace_ desea agregar un nuevo _seller_ con _Multilevel omnichannel inventory_ configurado desde cero, debe seguir las instrucciones en [Agregar seller](/es/tutorial/adicionar-seller--tutorials_392) y rellenar el campo `Fulfillment endpoint` siguiendo los paso 4 y 5 del tutorial en _Sellers_ ya integrados.
 
 ### Ejemplo
 

@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
-La [promoción regular](https://help.vtex.com/es/tutorial/registro-promocion-regular--tutorials_327) ofrece descuentos flexibles, ya que combina varias condiciones, restricciones y beneficios. Una de las posibilidades de este tipo de promoción es brindar a los clientes algo de valor por su fidelidad, es decir, un crédito que funciona como _cashback_ para que lo utilicen en compras futuras en la tienda. El propósito de este tipo de descuento es generar fidelidad a través de compras recurrentes, es decir, ofrecer un incentivo para que los clientes vuelvan a comprar en la tienda.
+La [promoción regular](/es/tutorial/registro-promocion-regular--tutorials_327) ofrece descuentos flexibles, ya que combina varias condiciones, restricciones y beneficios. Una de las posibilidades de este tipo de promoción es brindar a los clientes algo de valor por su fidelidad, es decir, un crédito que funciona como _cashback_ para que lo utilicen en compras futuras en la tienda. El propósito de este tipo de descuento es generar fidelidad a través de compras recurrentes, es decir, ofrecer un incentivo para que los clientes vuelvan a comprar en la tienda.
 
 En este artículo, explicamos:
 - [Tipos de valores de fidelidad](#tipos-de-valores-de-fidelidad)
@@ -24,14 +24,14 @@ En este artículo, explicamos:
 
 ## Tipos de valores de fidelidad
 
-Puedes crear una [promoción regular](https://help.vtex.com/es/tutorial/registro-promocion-regular--tutorials_327) desde **Promociones y tasas > Promociones > Nueva promoción > Promoción regular**. Al momento de elegir el tipo de valor del descuento, verás dos opciones disponibles para el valor de fidelidad:
+Puedes crear una [promoción regular](/es/tutorial/registro-promocion-regular--tutorials_327) desde **Promociones y tasas > Promociones > Nueva promoción > Promoción regular**. Al momento de elegir el tipo de valor del descuento, verás dos opciones disponibles para el valor de fidelidad:
 
 - [Valor de fidelidad nominal](#valor-de-fidelidad-nominal)
 - [Valor de fidelidad porcentual](#valor-de-fidelidad-porcentual)
 
 ### Valor de fidelidad nominal
 
-El **valor de fidelidad nominal** agrega un valor fijo como crédito a la cuenta que el usuario tiene en tu tienda. Para configurar este tipo de valor de fidelidad, debes rellenar los campos a continuación que corresponden al [formulario de la promoción regular](https://help.vtex.com/es/tutorial/registro-promocion-regular--tutorials_327#1-cuales-son-los-datos-generales-de-la-promocion):
+El **valor de fidelidad nominal** agrega un valor fijo como crédito a la cuenta que el usuario tiene en tu tienda. Para configurar este tipo de valor de fidelidad, debes rellenar los campos a continuación que corresponden al [formulario de la promoción regular](/es/tutorial/registro-promocion-regular--tutorials_327#1-cuales-son-los-datos-generales-de-la-promocion):
 
 * **Valor nominal para programa de fidelidad:** monto del crédito que se agregará a la cuenta que el cliente tiene en tu tienda.
 * **Aplicar crédito de fidelidad cuando el status del pedido cambie a:** campo donde se define el status del pedido a partir del cual estará disponible el crédito. Las opciones son **Facturado** o **Pago aprobado**.
@@ -42,7 +42,7 @@ En el ejemplo que se muestra a continuación, los clientes obtendrán un crédit
 
 ### Valor de fidelidad porcentual
 
-El **valor de fidelidad porcentual** agrega un valor porcentual como crédito de acuerdo con el precio del producto adquirido. Para configurar este tipo de valor de fidelidad, debes rellenar los campos a continuación que corresponden al [formulario de la promoción regular](https://help.vtex.com/es/tutorial/registro-promocion-regular--tutorials_327#1-cuales-son-los-datos-generales-de-la-promocion):
+El **valor de fidelidad porcentual** agrega un valor porcentual como crédito de acuerdo con el precio del producto adquirido. Para configurar este tipo de valor de fidelidad, debes rellenar los campos a continuación que corresponden al [formulario de la promoción regular](/es/tutorial/registro-promocion-regular--tutorials_327#1-cuales-son-los-datos-generales-de-la-promocion):
 
 * **Valor porcentual para el programa de fidelidad:** porcentaje del valor del pedido que se agregará como crédito a la cuenta que el cliente tiene en tu tienda.
 * **Aplicar crédito de fidelidad cuando el status del pedido cambie a:** campo donde se define el status del pedido a partir del cual estará disponible el crédito. Las opciones son **Facturado** o **Pago aprobado**.
@@ -62,7 +62,7 @@ A continuación, encontrarás algunos ejemplos de restricciones que puedes confi
 * Direcciones de entrega que forman parte de un determinado rango de códigos postales.
 * Una compra por cliente.
 
-Puedes aplicar estas configuraciones en **Promociones y tasas > Promociones > Nueva promoción > Promoción regular**. Para hacerlo, sigue las instrucciones del artículo [Promoción regular](https://help.vtex.com/es/tutorial/registro-promocion-regular--tutorials_327).
+Puedes aplicar estas configuraciones en **Promociones y tasas > Promociones > Nueva promoción > Promoción regular**. Para hacerlo, sigue las instrucciones del artículo [Promoción regular](/es/tutorial/registro-promocion-regular--tutorials_327).
 
 ## Funcionamiento del valor de fidelidad
 
@@ -93,7 +93,7 @@ En la sección **Flujo del pedido**, puedes verificar el valor de fidelidad otor
 
 ![fluxo-oms-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/tasas-y-promociones/promociones/promocion-regular-con-valor-de-fidelidad_3.png)
 
-Si utilizas la nueva interfaz de [Detalles del pedido (Beta)](https://help.vtex.com/es/tutorial/pagina-de-detalles-del-pedido-beta--2Y75n54Cc9VizrlG1N6ZNl), accede a `Ver interacciones` para verificar el valor otorgado:
+Si utilizas la nueva interfaz de [Detalles del pedido (Beta)](/es/tutorial/pagina-de-detalles-del-pedido-beta--2Y75n54Cc9VizrlG1N6ZNl), accede a `Ver interacciones` para verificar el valor otorgado:
 
 ![interacoes-neworders-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/tasas-y-promociones/promociones/promocion-regular-con-valor-de-fidelidad_4.png)
 
@@ -113,4 +113,4 @@ El valor se descontará de la otra forma de pago seleccionada. En el ejemplo a c
 
 ## Más información
 
-* [Promoción regular](https://help.vtex.com/es/tutorial/registro-promocion-regular--tutorials_327)
+* [Promoción regular](/es/tutorial/registro-promocion-regular--tutorials_327)

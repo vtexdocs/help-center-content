@@ -17,7 +17,7 @@ subcategoryId: 4hisB47iAVZk4r3SEmMoG
 
 ![Shared products product details PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/sellers/seller-portal/seller-portal-detalhes-do-produto_1.jpg)
 
-A página Detalhes do Produto na funcionalidade [Produtos Compartilhados](https://help.vtex.com/pt/tutorial/seller-portal-produtos-compartilhados--6vUGj2UmOuLzQTK9pj04lu) é onde todas as informações sobre um produto  específico são visualizadas. É a partir dela que o seller:  
+A página Detalhes do Produto na funcionalidade [Produtos Compartilhados](/pt/tutorial/seller-portal-produtos-compartilhados--6vUGj2UmOuLzQTK9pj04lu) é onde todas as informações sobre um produto  específico são visualizadas. É a partir dela que o seller:  
 
 - Visualiza as *Informações Gerais* cadastradas pelo marketplace para aquele produto, como seu ID, foto, marca, categoria e descrição.   
 - Visualiza as informações dos SKUs vinculados ao produto, ou seja, suas variações com características específicas que o diferenciam das outras opções ofertadas pela sua loja para aquele mesmo produto.  
@@ -39,12 +39,12 @@ Para acessar a página de Detalhes do Produto, acesse Produtos > Catálogo > Pro
 *Você será direcionado para a página de Inventário para concluir a configuração.*       
   5. Marque a opção **Ativar produto**.    
 
-Uma vez concluídas as configurações de Preço e Estoque, seu produto automaticamente se tornará um Anúncio no marketplace. Para saber mais sobre como vender produtos compartilhados no marketplace, confira nosso artigo sobre [Anúncios](https://help.vtex.com/pt/tutorial/anuncios-y-envio-de-productos-al-marketplace--3RwSj7AyBoPtFbXkS7REiu). 
+Uma vez concluídas as configurações de Preço e Estoque, seu produto automaticamente se tornará um Anúncio no marketplace. Para saber mais sobre como vender produtos compartilhados no marketplace, confira nosso artigo sobre [Anúncios](/pt/tutorial/anuncios-y-envio-de-productos-al-marketplace--3RwSj7AyBoPtFbXkS7REiu). 
 
 ## Artigos Relacionados
 
-- [Seller Portal: Como Funciona o Catálogo](https://help.vtex.com/pt/tutorial/seller-portal-como-funciona-o-catalogo--7pMB6YOt6YQDQQbzFB4Pxp)      
-- [Seller Portal: Produtos Compartilhados](https://help.vtex.com/pt/tutorial/seller-portal-produtos-compartilhados--6vUGj2UmOuLzQTK9pj04lu)          
-- [Seller Portal: Primeiros Passos](https://help.vtex.com/pt/tutorial/seller-portal-primeiros-passos--6w1vBdRH2uuBGmUqgNQjwK)    
-[Seller Portal: Anúncios e o Envio de Produtos para o Marketplace](https://help.vtex.com/pt/tutorial/anuncios-y-envio-de-productos-al-marketplace--3RwSj7AyBoPtFbXkS7REiu) 
+- [Seller Portal: Como Funciona o Catálogo](/pt/tutorial/seller-portal-como-funciona-o-catalogo--7pMB6YOt6YQDQQbzFB4Pxp)      
+- [Seller Portal: Produtos Compartilhados](/pt/tutorial/seller-portal-produtos-compartilhados--6vUGj2UmOuLzQTK9pj04lu)          
+- [Seller Portal: Primeiros Passos](/pt/tutorial/seller-portal-primeiros-passos--6w1vBdRH2uuBGmUqgNQjwK)    
+[Seller Portal: Anúncios e o Envio de Produtos para o Marketplace](/pt/tutorial/anuncios-y-envio-de-productos-al-marketplace--3RwSj7AyBoPtFbXkS7REiu) 
 

@@ -21,7 +21,7 @@ De acuerdo con normativas de protección de datos como [RGPD (Reglamento General
 
 Antes de [solicitar la eliminación de datos de clientes vía Copilot](#solicitar-eliminacion-de-dados-del-cliente-via-copilot), sigue los pasos a continuación:
 
-1. **Identifica dónde están almacenados los datos:** verifica las entidades de datos de [Master Data](https://help.vtex.com/es/tutorial/master-data--4otjBnR27u4WUIciQsmkAw) que almacenan datos de clientes en tu operación.
+1. **Identifica dónde están almacenados los datos:** verifica las entidades de datos de [Master Data](/es/tutorial/master-data--4otjBnR27u4WUIciQsmkAw) que almacenan datos de clientes en tu operación.
 2. **Elimina las entidades personalizadas manualmente:** si tu tienda almacena datos de clientes en entidades personalizadas, elimínalos manualmente antes de abrir un ticket para solicitar la eliminación mediante Copilot. Para más información, consulta la sección [Entidades de datos personalizadas](#entidades-de-datos-personalizadas). Sigue este proceso solo para entidades personalizadas. No elimines las [entidades nativas](#entidades-nativas-de-master-data) CL y AD de Master Data.
 
 ### Entidades nativas de Master Data
@@ -39,7 +39,7 @@ Si tu tienda almacena información de clientes en entidades de datos personaliza
 
 ## 2. Configurar rol RGPD
 
-Para solicitar la eliminación de datos, crea un [rol personalizado](https://help.vtex.com/es/tutorial/criar-perfil-de-acesso) llamado **Ley General de Protección de Datos** con los siguientes recursos de [License Manager](https://help.vtex.com/es/tutorial/license-manager-resources):
+Para solicitar la eliminación de datos, crea un [rol personalizado](/es/tutorial/criar-perfil-de-acesso) llamado **Ley General de Protección de Datos** con los siguientes recursos de [License Manager](/es/tutorial/license-manager-resources):
 
 - **Write user rights requests** (del producto **User Rights**).
 - **Open Support Ticket** (del producto **VTEX Support**).

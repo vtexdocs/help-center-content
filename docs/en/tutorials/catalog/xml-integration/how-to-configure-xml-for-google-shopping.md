@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 2OCA7SVfWoMSiAi0GEGwKo
 ---
 
-> ℹ️ We have developed a new type of integration with Google Shopping via API, which allows real-time tracking. Learn more at [Integrating with Google Shopping](https://help.vtex.com/en/tracks/integrating-with-google-shopping--25Sl7iOqq58PGfVfTAo8Xw/2kGKxwD9HKJvTLDTikQ4zG).
+> ℹ️ We have developed a new type of integration with Google Shopping via API, which allows real-time tracking. Learn more at [Integrating with Google Shopping](/en/tracks/integrating-with-google-shopping--25Sl7iOqq58PGfVfTAo8Xw/2kGKxwD9HKJvTLDTikQ4zG).
 
 > ⚠️ This article refers to the May 22, 2013 Google Shopping spec template. Google modifies and updates this template without previous warning. Always check if our explanation remains up-to-date according to the [Google Shopping documentation](https://support.google.com/merchants/answer/188494?hl=en-US).
 

@@ -19,7 +19,7 @@ Apágina **Encontrar sellers** disponibiliza e facilita o encontro e a comunica�
 
 Para utilizar a página,você precisa criar um **Perfil da loja,** saiba como acessando a documentação.
 
-> ℹ️ Note que a **Encontra sellers** é uma ferramenta que promove o contato entre potenciais parceiros,mas não é uma etapa obrigatória para atuar como Marketplace e seller na VTEX. Se você deseja atuar como marketplace e seller simultaneamente,leia a documentação [Estratégias de marketplace na VTEX](https://help.vtex.com/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#atuar-como-marketplace).
+> ℹ️ Note que a **Encontra sellers** é uma ferramenta que promove o contato entre potenciais parceiros,mas não é uma etapa obrigatória para atuar como Marketplace e seller na VTEX. Se você deseja atuar como marketplace e seller simultaneamente,leia a documentação [Estratégias de marketplace na VTEX](/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#atuar-como-marketplace).
 
 Para acessar a listagem de sellers cadastrados navegue em **Marketplace > Encontrar Sellers** ou digite **Encontrar Sellers** na barra de busca.
 

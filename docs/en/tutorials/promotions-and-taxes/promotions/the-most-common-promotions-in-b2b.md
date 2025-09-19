@@ -37,13 +37,13 @@ Retailers must be careful not to carry out promotions that can harm their busine
 
 Promotions can help move your inventory. Keeping an old inventory for a long time can make you lose sales of new products.
 
-The retailer can apply discounts from a certain amount of products within a purchase, encouraging greater consumption of that item. An example of this type of promotion is the [Progressive Discount](https://help.vtex.com/en/tutorial/desconto-progressivo--tutorials_324).
+The retailer can apply discounts from a certain amount of products within a purchase, encouraging greater consumption of that item. An example of this type of promotion is the [Progressive Discount](/en/tutorial/desconto-progressivo--tutorials_324).
 
 Another option is to make promotions for batches of products. It is a way to guarantee that a certain product’s old inventory will be sold.
 
 First, you need to determine what the aging limits are, considering your product and segment features. Sometimes products whose maintenance has been causing loss need to be sold at cost or even below cost.
 
-In this scenario, a comprehensive [Regular Promotion](https://help.vtex.com/en/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI) should help the operation to burn inventory. You can select specific products or categories with surplus stock and apply percentage (e.g.: 20%) or nominal (e.g.: $ 100) discounts in bulk. The goal here is to recover credit to put it back into the operation.
+In this scenario, a comprehensive [Regular Promotion](/en/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI) should help the operation to burn inventory. You can select specific products or categories with surplus stock and apply percentage (e.g.: 20%) or nominal (e.g.: $ 100) discounts in bulk. The goal here is to recover credit to put it back into the operation.
 
 To calibrate the extension of the promotion, you can use the restrictions and usage limitations area to define, for example, if the promotion will be applied unlimited times or if there will be a maximum number of uses.
 
@@ -65,14 +65,14 @@ As an example, imagine a notebook that has a high sales volume and a low margin 
 
 The idea here is to offer both items together as a promotion. This way, the retailer guarantees that the customer will buy related products that will bring a higher aggregate margin. This is done through cross-selling promotions.
 
-[Buy One Get One](https://help.vtex.com/en/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/jOu9b69mKbrTDfSJYAawy#compre-e-ganhe) promotions and offering [bundles](https://help.vtex.com/en/tutorial/o-que-e-um-kit--5ov5s3eHM4AqAAgqWwoc28) are the main strategies for this scenario.
+[Buy One Get One](/en/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/jOu9b69mKbrTDfSJYAawy#compre-e-ganhe) promotions and offering [bundles](/en/tutorial/o-que-e-um-kit--5ov5s3eHM4AqAAgqWwoc28) are the main strategies for this scenario.
 
 ## Customer segmentation
 Thinking about customer profiles is a good way to apply promotions efficiently. It is important to group customers by segment and region, considering taxes and interests as a basis for discounts and promotions.
 
 If the retailer has a rebate from a manufacturer, it is worth focusing on the segment that consumes that product. It is another way of delimiting the categories that will receive planned discounts.
 
-Check out our article on [how to create a benefit for a cluster of customers](https://help.vtex.com/en/tutorial/criando-promocao-para-um-cluster-de-clientes--tutorials_342) to learn more on how to implement this method.
+Check out our article on [how to create a benefit for a cluster of customers](/en/tutorial/criando-promocao-para-um-cluster-de-clientes--tutorials_342) to learn more on how to implement this method.
 
 ## Free shipping
 
@@ -80,4 +80,4 @@ Another way to attract customer interest is with a promotion that offers free sh
 
 This strategy can be combined with other previously mentioned ones. You can offer free shipping when the customer buys a large volume of a product that has been in your inventory for a long time, for example. It is also possible to use free shipping as a discount for prepayment in full.
 
-For more information on how to make a free shipping percentage promotion, see the article [Creating a Regular Promotion](https://help.vtex.com/en/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI).
+For more information on how to make a free shipping percentage promotion, see the article [Creating a Regular Promotion](/en/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI).

@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 1rA9wuuskW3PpjvMrhatAM
 ---
 
-> ℹ️ Solo puedes acceder a la información de los pedidos creados en los últimos años. Este periodo también se aplica a los pedidos de los clientes a través de [Mi Cuenta](https://help.vtex.com/es/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh).
+> ℹ️ Solo puedes acceder a la información de los pedidos creados en los últimos años. Este periodo también se aplica a los pedidos de los clientes a través de [Mi Cuenta](/es/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh).
 
 Es posible identificar y gestionar errores en pedidos de suscripción a través del módulo **Suscripciones** > **Dashboards** > **Pedidos de suscripción** en el Admin.
 
@@ -76,12 +76,12 @@ Para analizar errores de pago, realice el siguiente procedimiento.
 3. En la sección de **Pedidos de suscripción**, haga clic en la pestaña **Error de pago**.
 4. Identifique el pedido deseado y haga clic en el ID del pedido. Será dirigido a la página de detalles del pedido en el módulo de **Todos los pedidos**. 
 5. Una vez en la página de detalles del pedido, haga clic en **Ver detalles de la transacción**, en la opción **Pago**. Será dirigido a la página de Transacciones en el módulo **Pagos**. 
-6. En la página de **Transacciones**, puede visualizar y analizar los eventos de transacción del pedido. Lea el artículo [Ver detalles de la transacción en Pagos](https://help.vtex.com/es/tutorial/como-visualizar-detalhes-do-pedido) para obtener más información.
+6. En la página de **Transacciones**, puede visualizar y analizar los eventos de transacción del pedido. Lea el artículo [Ver detalles de la transacción en Pagos](/es/tutorial/como-visualizar-detalhes-do-pedido) para obtener más información.
 
 Los pedidos con errores de pago pasan por 5 reintentos automáticos en un periodo de 12 horas, de acuerdo con  el flujo del gateway. No es posible realizar reintentos manuales para corregir errores de pago en el Admin. 
 
-Los clientes de su tienda pueden editar sus suscripciones y realizar otras acciones a través de la página [Mi cuenta](https://help.vtex.com/es/tutorial/como-funciona-o-my-account--2BQ3GiqhqGJTXsWVuio3Xh). Esto permite que algunos errores de pago sean resueltos por sus propios clientes, incluso después del período de reintentos automáticos, alterando la forma de pago.
+Los clientes de su tienda pueden editar sus suscripciones y realizar otras acciones a través de la página [Mi cuenta](/es/tutorial/como-funciona-o-my-account--2BQ3GiqhqGJTXsWVuio3Xh). Esto permite que algunos errores de pago sean resueltos por sus propios clientes, incluso después del período de reintentos automáticos, alterando la forma de pago.
 
 #### **Más información**
 
-* [Cómo gestionar Suscripciones](https://help.vtex.com/es/tutorial/como-gerenciar-assinaturas--6Jk50FPbv6iuz1OsFypv8x)
+* [Cómo gestionar Suscripciones](/es/tutorial/como-gerenciar-assinaturas--6Jk50FPbv6iuz1OsFypv8x)

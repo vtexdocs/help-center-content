@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 4D5LrWwlHGmOWMomOaaGee
 ---
 
-En VTEX, el usuario tiene la posibilidad de automatizar el disparo de correos electrónicos a sus clientes en el módulo [Central de mensajes](https://help.vtex.com/es/tutorial/--tutorials_84 "Centro de mensajes "). Ya existen algunas plantillas preconfiguradas en la plataforma en que, algunos, pueden ser personalizados de acuerdo a las preferencias del cliente.
+En VTEX, el usuario tiene la posibilidad de automatizar el disparo de correos electrónicos a sus clientes en el módulo [Central de mensajes](/es/tutorial/--tutorials_84 "Centro de mensajes "). Ya existen algunas plantillas preconfiguradas en la plataforma en que, algunos, pueden ser personalizados de acuerdo a las preferencias del cliente.
 
 Sin embargo, esta funcionalidad no es obligatoria. Puede deshabilitar el envío de estos mensajes si no es ventajoso para la tienda.
 

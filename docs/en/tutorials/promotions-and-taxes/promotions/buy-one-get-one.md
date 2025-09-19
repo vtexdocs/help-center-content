@@ -100,7 +100,7 @@ In this section, we will detail the conditions for a promotion to be valid.
 
 - **Payment method:** The promotion applies when a specified payment method is selected and the cart has only one payment method.
 - **Card BIN:** The promotion can only apply when using cards from specific networks, banks, or categories identified by their BIN codes. You can import a list of BINs, which must be saved in a text file (.txt) or (.csv) with each BIN listed on a different row.
-- **Customer cluster:** Select an already created [customer cluster](https://help.vtex.com/pt/tutorial/como-criar-um-cluster-de-clientes) in Master Data, following the `field=value` or `field contains value` format.
+- **Customer cluster:** Select an already created [customer cluster](/pt/tutorial/como-criar-um-cluster-de-clientes) in Master Data, following the `field=value` or `field contains value` format.
 - **Shipping method:** Allows you to specify one or more shipping types to which the promotion will apply.
 - **Shipping location:** The promotion will only be applied if the delivery address of the order meets the following definitions:
     - **Countries:** Allows you to select the countries where the promotion will be valid. Only orders with shipping addresses in selected countries can benefit from the promotion.

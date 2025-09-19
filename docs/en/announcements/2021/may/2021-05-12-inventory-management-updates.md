@@ -39,5 +39,5 @@ No action is needed. The update is being rolled out since October 2020 to all ac
 
 The accounts that are already using the new Inventory management and the ones eligible for the update will no longer have access to the previous Inventory. Only accounts that do not have the updated version of the VTEX Admin will continue using the previous Inventory.
 
-Learn more in our documentation on the new[ Inventory management](https://help.vtex.com/en/tutorial/gerenciar-itens-em-estoque) page.
+Learn more in our documentation on the new[ Inventory management](/en/tutorial/gerenciar-itens-em-estoque) page.
 

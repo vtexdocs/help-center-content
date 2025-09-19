@@ -71,6 +71,6 @@ Esta es la información que se muestra en los cards de los remitentes:
 - Botón para ejecutar una prueba de envío de mensajes.  
 - Ícono indicando si el remitente pasó o no la prueba de envío (no se muestra si no se realizó una prueba reciente). Muestra un check verde si pasó y una "x" roja si no pasó.
 
-Cabe destacar que es imprescindible personalizar el remitente. Esto permitirá a sus clientes recibir mensajes con el nombre y la dirección de correo electrónico de su empresa. Para obtener más información sobre este asunto, consulte el [artículo sobre cómo editar el servidor de correos electrónicos de VTEX](https://help.vtex.com/es/tutorial/personalizando-o-smtp-da-vtex).
+Cabe destacar que es imprescindible personalizar el remitente. Esto permitirá a sus clientes recibir mensajes con el nombre y la dirección de correo electrónico de su empresa. Para obtener más información sobre este asunto, consulte el [artículo sobre cómo editar el servidor de correos electrónicos de VTEX](/es/tutorial/personalizando-o-smtp-da-vtex).
 
 Hasta que su tienda realice esta configuración, los correos electrónicos se enviarán con el remitente predeterminado “noreply@vtexcommerce.com.br”.

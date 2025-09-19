@@ -17,7 +17,7 @@ subcategoryId: 4T6qfa6gNO6g4sAUIa6s2G
 
 > ℹ️ This feature is only available for Android and is compatible with specific thermal printers, as described in the [Requirements](#requirements) section.
 
-[VTEX Sales App](https://help.vtex.com/en/tracks/instore-getting-started-and-setting-up--zav76TFEZlAjnyBVL5tRc) allows sales associates to print sales receipts using a thermal printer directly from a mobile device via a Bluetooth connection.
+[VTEX Sales App](/en/tracks/instore-getting-started-and-setting-up--zav76TFEZlAjnyBVL5tRc) allows sales associates to print sales receipts using a thermal printer directly from a mobile device via a Bluetooth connection.
 
 This feature eliminates the need for the sales associate to go to the cash register to generate a receipt, allowing it to be issued quickly within the **Sales App** sales flow. The result is a faster service and a better shopping experience for customers.
 
@@ -47,7 +47,7 @@ To print the sales receipt using the **Sales App**, follow the steps below:
 
 3. In **Sales App**, on the final order screen or after selecting an order in the **Orders** section, click `Print order`.
 
-  > ❗ The first time you use this feature, an error may occur at this step. Close the app and follow the instructions from the beginning. If the error persists, contact our [Support team](https://help.vtex.com/en/support).
+  > ❗ The first time you use this feature, an error may occur at this step. Close the app and follow the instructions from the beginning. If the error persists, contact our [Support team](/en/support).
 
 4. Select the desired thermal printer, and the printing will start immediately.
 

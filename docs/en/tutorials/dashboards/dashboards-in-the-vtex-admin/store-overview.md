@@ -19,7 +19,7 @@ VTEX Admin’s Overview page is where store owners can get a quick overview of k
 
 ![Store Overview gif EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/dashboards/dashboards-in-the-vtex-admin/store-overview_1.gif)
 
- The Overview page provides a summary of your business with VTEX. For deeper analysis of your store's metrics, visit [Sales Performance](https://help.vtex.com/en/v4/docs/performance-de-vendas--6gx46RGRzWO8qgaVck7PRp).
+ The Overview page provides a summary of your business with VTEX. For deeper analysis of your store's metrics, visit [Sales Performance](/en/v4/docs/performance-de-vendas--6gx46RGRzWO8qgaVck7PRp).
 
 ## Data
 

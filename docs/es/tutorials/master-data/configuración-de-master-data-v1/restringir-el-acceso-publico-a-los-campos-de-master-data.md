@@ -15,7 +15,7 @@ locale: es
 subcategoryId: WpbGhubuRZaNZilJSXnqu
 ---
 
-En [Master Data v1](https://help.vtex.com/es/tutorial/master-data--4otjBnR27u4WUIciQsmkAw), puedes [crear entidades de datos](https://help.vtex.com/es/tutorial/entidade-de-datos--tutorials_1265#crear-entidad-de-datos) con diferentes restricciones de acceso para cada campo:
+En [Master Data v1](/es/tutorial/master-data--4otjBnR27u4WUIciQsmkAw), puedes [crear entidades de datos](/es/tutorial/entidade-de-datos--tutorials_1265#crear-entidad-de-datos) con diferentes restricciones de acceso para cada campo:
 
 * Permitir la lectura sin credenciales
 * Permitir editar sin credenciales
@@ -51,7 +51,7 @@ Dependiendo de los datos almacenados, el acceso público sin autenticación pued
 
 ## Permisos necesarios
 
-Después de seguir las instrucciones anteriores, es obligatorio disponer de un [rol](https://help.vtex.com/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) con los [permisos](https://help.vtex.com/es/tutorial/recursos-del-license-manager--3q6ztrC8YynQf6rdc6euk3) necesarios para acceder a la información:
+Después de seguir las instrucciones anteriores, es obligatorio disponer de un [rol](/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) con los [permisos](/es/tutorial/recursos-del-license-manager--3q6ztrC8YynQf6rdc6euk3) necesarios para acceder a la información:
 
 * Al menos un recurso de la categoría **Generic resources** en el producto **Master Data**: **READONLY_USER_CRM**, **POWER_USER_CRM**, **NOREMOVE_USER_CRM** o **ADMIN_CRM**.
 * Al menos un recurso de la categoría **Dynamic storage generic resources** en el producto **Dynamic Storage**:** READONLY_USER_DS**, **NOREMOVE_USER_DS**, **POWER_USER_DS** o **ADMIN_DS**.

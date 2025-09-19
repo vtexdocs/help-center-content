@@ -21,7 +21,7 @@ La configuración de esta promoción se hace por el tipo __Comprar y Obtener__, 
 2. Haga clic en el botón `Crear Promoción`.
 3. Haga clic en la opción `Comprar y Obtener`.
 4. Rellene los campos de conformidad con el artículo [Cómo funciona la promoción Compre y gane
-](https://help.vtex.com/es/tutorial/como-funciona-la-promocion-compre-y-gane--tutorials_322).
+](/es/tutorial/como-funciona-la-promocion-compre-y-gane--tutorials_322).
 5. En el campo **Qué tipo y importe de descuento?**, seleccione la opción **Regalo** y rellene en campo seleccionando el SKU que desea conceder la promoción con regalo.
 7. Existe la posibilidad de **Activar multiplicador de regalo** para definir si será un regalo por la compra total o si será un regalo por cada SKU comprado. 
 8. Haga clic en el botón `Salvar`.

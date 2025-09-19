@@ -32,7 +32,7 @@ Con la nueva aplicación TikTok for Business para tiendas VTEX, puedes:
 * Instalar el [Píxel de TikTok](https://ads.tiktok.com/help/article?aid=9663) en tu tienda VTEX.
 * Gestionar los anuncios de TikTok desde el Admin VTEX.
 
-Para más detalles sobre los recursos disponibles, consulta la guía [Integración de TikTok](https://help.vtex.com/es/tracks/integracion-de-tiktok--1r0yJSO11nrer1YVu3WTFd).
+Para más detalles sobre los recursos disponibles, consulta la guía [Integración de TikTok](/es/tracks/integracion-de-tiktok--1r0yJSO11nrer1YVu3WTFd).
 
 ## ¿Cuáles son las ventajas de utilizar la aplicación?
 
@@ -42,9 +42,9 @@ El objetivo es que, con la integración, puedas crear campañas en TikTok Ads Ma
 
 ## ¿Cómo empezar a utilizarla?
 
-La aplicación es totalmente compatible con las tiendas que utilizan [VTEX IO](https://help.vtex.com/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2) y parcialmente compatible con las tiendas que utilizan [CMS Heredado](https://help.vtex.com/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj) o [CMS Headless](https://faststore.dev/tutorials/cms/0#vtex-headless-cms).
+La aplicación es totalmente compatible con las tiendas que utilizan [VTEX IO](/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2) y parcialmente compatible con las tiendas que utilizan [CMS Heredado](/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj) o [CMS Headless](https://faststore.dev/tutorials/cms/0#vtex-headless-cms).
 
-Para instalar la aplicación e integrar tu tienda VTEX con TikTok, sigue las instrucciones de la guía [Integración de TikTok](https://help.vtex.com/es/tracks/integracion-de-tiktok--1r0yJSO11nrer1YVu3WTFd).
+Para instalar la aplicación e integrar tu tienda VTEX con TikTok, sigue las instrucciones de la guía [Integración de TikTok](/es/tracks/integracion-de-tiktok--1r0yJSO11nrer1YVu3WTFd).
 
 Consulta también la guía para desarrolladores [TikTok for Business](https://developers.vtex.com/vtex-developer-docs/docs/vtexbr-tiktok-tbp).
 

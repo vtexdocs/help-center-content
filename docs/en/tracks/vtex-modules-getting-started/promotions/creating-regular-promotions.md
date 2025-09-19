@@ -15,7 +15,7 @@ trackSlugEN: promotions
 order: 4
 ---
 
-On VTEX, you can [create different types of promotions](https://help.vtex.com/en/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI) for a range of scenarios, but the most commonly used is the regular promotion. This promotion type allows you to offer flexible discounts, combining multiple conditions, restrictions, and benefits.
+On VTEX, you can [create different types of promotions](/en/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI) for a range of scenarios, but the most commonly used is the regular promotion. This promotion type allows you to offer flexible discounts, combining multiple conditions, restrictions, and benefits.
 In this article, we'll explain the steps required to set up a regular promotion:
 
 1. [Promotion overview](#promotion-overview)
@@ -25,7 +25,7 @@ In this article, we'll explain the steps required to set up a regular promotion:
 3. [Conditions for the promotion to be valid](#conditions-for-the-promotion-to-be-valid)
 4. [Restrictions and limitations of use](#restrictions-and-limitations-of-use)
 
-Read our article [Promotion examples](https://help.vtex.com/en/tutorial/promotion-examples--5A8UTc7knvAscxo7e7rMFD?&utm_source=autocomplete) for more information.
+Read our article [Promotion examples](/en/tutorial/promotion-examples--5A8UTc7knvAscxo7e7rMFD?&utm_source=autocomplete) for more information.
 
 ## Creating a promotion
 
@@ -60,9 +60,9 @@ In this section, you need to configure your promotion's general information. The
   - **Gift:** Full discount on the product amount set as a gift. By selecting this option, you can indicate the SKU (by name or ID) that will be considered a gift, choose if you want to activate the gift multiplier, and the maximum number of products that can be used as gifts in the promotion.
 > ℹ️ The gift product must have a price associated with it, even though it is given to the customer for free.
 
-  - **Nominal discount based on formula:** Discount calculated based on a formula you can create using the product total amount, shipping, and the number of items as variables. Please note that the shipping cost considered by the formula will be the lowest available for the order, regardless of the customer's selection. The decimal separator must always be a period. For example: If the discount is 30% of the product's total amount + shipping cost, the formula should be (total + freight) * 0.3. For more information about the formula, check out our [documentation](https://help.vtex.com/en/tutorial/promocao-regular-com-desconto-nominal-baseado-em-formula--2Pwrq6THyGViNedQG381jV).
-  - **Nominal reward value:** Credit that will be added to the store's reward program. For more information, check out the [Regular promotion with reward value](https://help.vtex.com/en/tutorial/promocao-regular-com-valor-fidelidade--3FCip23ZtvG0sDt0rVGVmR) article.
-  - **Percentage reward value:** Percentage credit that will be added to the store's reward program. For more information, check out the [Regular promotion with reward value](https://help.vtex.com/en/tutorial/promocao-regular-com-valor-fidelidade--3FCip23ZtvG0sDt0rVGVmR) article.
+  - **Nominal discount based on formula:** Discount calculated based on a formula you can create using the product total amount, shipping, and the number of items as variables. Please note that the shipping cost considered by the formula will be the lowest available for the order, regardless of the customer's selection. The decimal separator must always be a period. For example: If the discount is 30% of the product's total amount + shipping cost, the formula should be (total + freight) * 0.3. For more information about the formula, check out our [documentation](/en/tutorial/promocao-regular-com-desconto-nominal-baseado-em-formula--2Pwrq6THyGViNedQG381jV).
+  - **Nominal reward value:** Credit that will be added to the store's reward program. For more information, check out the [Regular promotion with reward value](/en/tutorial/promocao-regular-com-valor-fidelidade--3FCip23ZtvG0sDt0rVGVmR) article.
+  - **Percentage reward value:** Percentage credit that will be added to the store's reward program. For more information, check out the [Regular promotion with reward value](/en/tutorial/promocao-regular-com-valor-fidelidade--3FCip23ZtvG0sDt0rVGVmR) article.
   - **Promotional price table:** Price tables can be used as promotions. The promotional price of each SKU will be its corresponding price in the selected price table.
   - **Additional information (optional):** Allows you to add a name and value to the promotion.
   - **Promotion is highlighted:** Adds a tag with the promotion name to the window display and the product page. This tag will only be added if you use the right promotion display control in the template `<vtex.cmc:discountHightLight/>`.
@@ -142,7 +142,7 @@ The order must meet the conditions specified in this section for the promotion t
   - **First orders:** Orders that generate subscriptions but are not part of subscription cycles yet.
   - **Recurring orders:** Orders from subscription cycles.
   - **Filter by:** Allows you to filter the subscription requests valid for the promotion.
-  - **Frequency:** Select the frequency of subscription orders — weekly, monthly, and annually. For more information, see [Configuring the frequency and date of the subscription cycle](https://help.vtex.com/en/tutorial/como-criar-um-anexo-de-assinatura--2bUuKyPflA8cOGLv8OvaKK).
+  - **Frequency:** Select the frequency of subscription orders — weekly, monthly, and annually. For more information, see [Configuring the frequency and date of the subscription cycle](/en/tutorial/como-criar-um-anexo-de-assinatura--2bUuKyPflA8cOGLv8OvaKK).
   - **Cycle number:** Allows you to select the subscription cycles valid for the promotion. This option is only unlocked if the **Recurring orders** option is selected.
 
 # 4. Restrictions and limitations of use
@@ -151,7 +151,7 @@ In this section, you will find important information about the promotion conditi
 
 - **How many times will this promotion be applied in your store:** Limits the number of times the promotion will be applied. If you uncheck the unlimited field, the **times** field becomes available to enter the maximum number of times the promotion can be used. This only applies for orders created after the condition has been set up. It will not affect orders placed previously.
 - **How many times per customer will this promotion be applied in your store:** This field's value determines the maximum number of times each customer can benefit from the promotion. For example, if you set a limit of three uses and the promotion is applied three times on a single order, this will be considered a single use in relation to the total limit. This way, the customer can still use the promotion on two different orders. Note that this calculation is done regardless of how many times the promotion has been used on each individual order.
-- **Set maximum number of eligible items for each cart:** Defines the maximum number of items in the cart that will be affected by the promotion. Check out [Restricting promotional products in cart](https://help.vtex.com/en/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/jOu9b69mKbrTDfSJYAawy#restricting-promotional-products-in-cart) to learn how to configure this field.
-- **Apply with other promotions:** If selected, more than one promotion can be applied simultaneously, regardless of the discount type. Learn more in the [How promotion competition works](https://help.vtex.com/en/tutorial/entendendo-a-concorrencia-de-promocoes--tutorials_2270) article.
+- **Set maximum number of eligible items for each cart:** Defines the maximum number of items in the cart that will be affected by the promotion. Check out [Restricting promotional products in cart](/en/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/jOu9b69mKbrTDfSJYAawy#restricting-promotional-products-in-cart) to learn how to configure this field.
+- **Apply with other promotions:** If selected, more than one promotion can be applied simultaneously, regardless of the discount type. Learn more in the [How promotion competition works](/en/tutorial/entendendo-a-concorrencia-de-promocoes--tutorials_2270) article.
 - **Apply with manual prices:** Allows the promotion to apply to products whose prices were manually added via telesales. To enable the manual pricing feature, use the [Update orderForm configuration endpoint](https://developers.vtex.com/docs/api-reference/checkout-api#post-/api/checkout/pvt/configuration/orderForm).
 

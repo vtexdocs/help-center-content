@@ -25,4 +25,4 @@ Si un _marketplace_ externo no está interesado en convertirse en _partner_, per
 
 | **SEPA MÁS** |
 | ---------- |
-|Si desea ver más información sobre oportunidades de crecimiento, consulte el artículo [Estrategias de marketplace en VTEX](https://help.vtex.com/es/tutorial/integrando-com-marketplace--tutorials_402?&utm_source=autocomplete).|
+|Si desea ver más información sobre oportunidades de crecimiento, consulte el artículo [Estrategias de marketplace en VTEX](/es/tutorial/integrando-com-marketplace--tutorials_402?&utm_source=autocomplete).|

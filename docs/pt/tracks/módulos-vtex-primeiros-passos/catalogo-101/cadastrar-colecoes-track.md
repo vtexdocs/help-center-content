@@ -22,6 +22,6 @@ Siga o passo a passo abaixo para cadastrar uma nova coleção:
 1. No Admin, clique no **Catálogo**.
 2. Clique em **Coleções**.
 3. Clique no botão `Criar Coleção`.
-4. Preencha os [campos do formulário de Coleção](https://help.vtex.com/pt/tutorial/cadastrar-colecoes-beta--yJBHqNMViOAnnnq4fyOye#campos-de-cadastro-de-colecao).
+4. Preencha os [campos do formulário de Coleção](/pt/tutorial/cadastrar-colecoes-beta--yJBHqNMViOAnnnq4fyOye#campos-de-cadastro-de-colecao).
 5. Clique em `Criar` para atualizar as informações preenchidas no formulário.
-6. Em seguida, [selecione os produtos](https://help.vtex.com/pt/tutorial/cadastrar-colecoes-beta--yJBHqNMViOAnnnq4fyOye#selecao-de-produtos) que farão parte da coleção.
+6. Em seguida, [selecione os produtos](/pt/tutorial/cadastrar-colecoes-beta--yJBHqNMViOAnnnq4fyOye#selecao-de-produtos) que farão parte da coleção.

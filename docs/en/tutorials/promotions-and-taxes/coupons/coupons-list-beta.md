@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 1TXh7VjDSIGA2eSI0CmUsi
 ---
 
-On the **Coupons** page, you can see all the [coupons](https://help.vtex.com/en/tutorial/coupons-beta--1aAEN3ADpz19ss5JCIEBdL) created in your store, manage their details and analyze how many times and in which orders they were used.
+On the **Coupons** page, you can see all the [coupons](/en/tutorial/coupons-beta--1aAEN3ADpz19ss5JCIEBdL) created in your store, manage their details and analyze how many times and in which orders they were used.
 
 On this page, you can:
 
@@ -41,7 +41,7 @@ The top bar of the **Coupons** page contains a search field as well as filters a
 
 ### Searching for coupons
 
-To find a specific coupon, use the search field. You can search by coupon code, by [UTM source](https://help.vtex.com/en/tutorial/what-are-utm-source-utm-campaign-and-utm-medium--2wTz7QJ8KUG6skGAoAQuii) or by [UTM campaign](https://help.vtex.com/en/tutorial/what-are-utm-source-utm-campaign-and-utm-medium--2wTz7QJ8KUG6skGAoAQuii).
+To find a specific coupon, use the search field. You can search by coupon code, by [UTM source](/en/tutorial/what-are-utm-source-utm-campaign-and-utm-medium--2wTz7QJ8KUG6skGAoAQuii) or by [UTM campaign](/en/tutorial/what-are-utm-source-utm-campaign-and-utm-medium--2wTz7QJ8KUG6skGAoAQuii).
 
 ### Filtering coupons
 
@@ -50,7 +50,7 @@ Use the filters to view only coupons corresponding to certain criteria. To apply
 1. In the VTEX Admin, go to *Promotions > Coupons*, or type *Coupons* in the search bar at the top of the page.
 2. Select the filter you want to use:
    * **Last modified:** Indicates the last time a coupon was modified.
-   * **Coupon type:** Indicates if it is a single coupon or a coupon batch. For a better understanding of different coupon types, please read [Coupons](https://help.vtex.com/en/tutorial/coupons-beta--1aAEN3ADpz19ss5JCIEBdL).
+   * **Coupon type:** Indicates if it is a single coupon or a coupon batch. For a better understanding of different coupon types, please read [Coupons](/en/tutorial/coupons-beta--1aAEN3ADpz19ss5JCIEBdL).
 3. Check the desired option.
 4. Click `Apply`.
 5. Repeat the process if you want to apply a different filter.
@@ -71,7 +71,7 @@ The generated file contains the information described below.
 | Column | Description |
 |---|---|
 | `code` | Coupon code. For a coupon batch, the generated code prefix is indicated. |
-| `type` | Indicates whether it is a `single` coupon or a coupon `batch`. For more information on each coupon type, please refer to [Coupons](https://help.vtex.com/en/tutorial/coupons-beta--1aAEN3ADpz19ss5JCIEBdL). To learn how to export the codes generated in a coupon batch, please read [Exporting coupon batch codes](#exporting-coupon-batch-codes). |
+| `type` | Indicates whether it is a `single` coupon or a coupon `batch`. For more information on each coupon type, please refer to [Coupons](/en/tutorial/coupons-beta--1aAEN3ADpz19ss5JCIEBdL). To learn how to export the codes generated in a coupon batch, please read [Exporting coupon batch codes](#exporting-coupon-batch-codes). |
 | `quantity` | The number of coupon codes. For single coupons, the value is always `1`. For coupon batches, the number of codes for a specific coupon batch is indicated. |
 | `archived` | Indicates if the coupon is archived (`true`) or active (`false`). |
 | `utmSource` | Indicates the UTM source linked to the coupon, if any. |
@@ -119,26 +119,26 @@ To access the archived coupon list, follow the steps below:
 
 The archived coupon list presents the same information described in the [Coupon list](#coupon-list), except for the options available in the <i class="fas fa-ellipsis-v"></i> menu of each coupon row. The available options for archived coupons are:
 
-* <i class="fas fa-search"></i> **View:** Allows viewing the details of an archived coupon in a non-editable version of the [create and edit coupon form](https://help.vtex.com/en/tutorial/creating-a-coupon-beta--7lMk3MmhNp2IEccyGApxU).
+* <i class="fas fa-search"></i> **View:** Allows viewing the details of an archived coupon in a non-editable version of the [create and edit coupon form](/en/tutorial/creating-a-coupon-beta--7lMk3MmhNp2IEccyGApxU).
 * <i class="fas fa-archive"></i> **Unarchive:** Allows accessing a coupon for usage and editing.
 
 ## Creating a coupon
 
-The `Create coupon` button in the top right corner of the page allows you to access the form for creating a coupon. For more information on this procedure, please read [Creating a cupon](https://help.vtex.com/en/tutorial/creating-a-coupon-beta--7lMk3MmhNp2IEccyGApxU).
+The `Create coupon` button in the top right corner of the page allows you to access the form for creating a coupon. For more information on this procedure, please read [Creating a cupon](/en/tutorial/creating-a-coupon-beta--7lMk3MmhNp2IEccyGApxU).
 
 ## Coupon list
 
-The coupon list presents all the active coupons in your store, starting with the most recent one. By clicking on a coupon from the list, you will be redirected to the [edit coupon page](https://help.vtex.com/en/tutorial/creating-a-coupon-beta--7lMk3MmhNp2IEccyGApxU).
+The coupon list presents all the active coupons in your store, starting with the most recent one. By clicking on a coupon from the list, you will be redirected to the [edit coupon page](/en/tutorial/creating-a-coupon-beta--7lMk3MmhNp2IEccyGApxU).
 
 See below for more details on each column of the list:
 
 * **Code:** Displays the coupon code.
-* **Coupon type:** Indicates if it is a [single coupon or a coupon batch](https://help.vtex.com/en/tutorial/coupons-beta--1aAEN3ADpz19ss5JCIEBdL).
-* **UTM source:** Indicates the [UTM source](https://help.vtex.com/en/tutorial/what-are-utm-source-utm-campaign-and-utm-medium--2wTz7QJ8KUG6skGAoAQuii) linked to the coupon, if any.
-* **UTM campaign:** Indicates the [UTM campaign](https://help.vtex.com/en/tutorial/what-are-utm-source-utm-campaign-and-utm-medium--2wTz7QJ8KUG6skGAoAQuii) linked to the coupon, if any.
+* **Coupon type:** Indicates if it is a [single coupon or a coupon batch](/en/tutorial/coupons-beta--1aAEN3ADpz19ss5JCIEBdL).
+* **UTM source:** Indicates the [UTM source](/en/tutorial/what-are-utm-source-utm-campaign-and-utm-medium--2wTz7QJ8KUG6skGAoAQuii) linked to the coupon, if any.
+* **UTM campaign:** Indicates the [UTM campaign](/en/tutorial/what-are-utm-source-utm-campaign-and-utm-medium--2wTz7QJ8KUG6skGAoAQuii) linked to the coupon, if any.
 * **Last edit:** Displays the date the coupon was last modified.
 * **Button** <i class="fas fa-ellipsis-v"></i>: Displays a menu with several options, as described below:
-   * <i class="fas fa-pencil"></i> **Edit:** Allows accessing the form for editing coupons to view or modify their details. Please read [Creating a coupon](https://help.vtex.com/en/tutorial/creating-a-coupon-beta--7lMk3MmhNp2IEccyGApxU) for more details on the form. Option available only for active coupons.
+   * <i class="fas fa-pencil"></i> **Edit:** Allows accessing the form for editing coupons to view or modify their details. Please read [Creating a coupon](/en/tutorial/creating-a-coupon-beta--7lMk3MmhNp2IEccyGApxU) for more details on the form. Option available only for active coupons.
    * <i class="fas fa-archive"></i> **Archive:** Allows archiving the coupon, i.e., deactivate it from being used in the store. Option available only for active coupons.
    * <i class="fas fa-download"></i> **Export:** Opens a modal containing coupon batch codes. You can copy them or export them to a CSV file.  Option available only for coupon batches.
    * <i class="far fa-signal-alt-3"></i> **View usage details:** Opens a modal containing coupon usage information. For more details, please read the [View usage details](#view-usage-details) section. Option available only for active coupons.
@@ -149,7 +149,7 @@ The **View usage details** modal presents information on how each coupon was use
 
 * **Linked promotions:** Displays the name of the promotion associated with the coupon, if any. By clicking on the promotion name, you will be redirected to the promotion editing page.
 
-    The coupon becomes valid when associated with at least one promotion. To associate it, you must use the same [utm_source or utm_campaign](https://help.vtex.com/en/tutorial/what-are-utm-source-utm-campaign-and-utm-medium--2wTz7QJ8KUG6skGAoAQuii) both in the coupon and the promotion fields. Please read [Associating a coupon with a promotion](https://help.vtex.com/en/tutorial/creating-a-coupon-beta--7lMk3MmhNp2IEccyGApxU#associating-a-coupon-with-a-promotion) to learn more about this configuration.
+    The coupon becomes valid when associated with at least one promotion. To associate it, you must use the same [utm_source or utm_campaign](/en/tutorial/what-are-utm-source-utm-campaign-and-utm-medium--2wTz7QJ8KUG6skGAoAQuii) both in the coupon and the promotion fields. Please read [Associating a coupon with a promotion](/en/tutorial/creating-a-coupon-beta--7lMk3MmhNp2IEccyGApxU#associating-a-coupon-with-a-promotion) to learn more about this configuration.
 
 * **Usage** (single coupons): Displays the number of times the coupon can be used and the number of remaining uses, if you have set a usage limit.
 
@@ -164,6 +164,6 @@ The **View usage details** modal presents information on how each coupon was use
 ![select-the-code-coupon-batch](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/coupons/coupons-list-beta_6.PNG)
 
 ## Learn more
-* [Coupons](https://help.vtex.com/en/tutorial/coupons-beta--1aAEN3ADpz19ss5JCIEBdL)
-* [Creating a coupon](https://help.vtex.com/en/tutorial/creating-a-coupon-beta--7lMk3MmhNp2IEccyGApxU)
+* [Coupons](/en/tutorial/coupons-beta--1aAEN3ADpz19ss5JCIEBdL)
+* [Creating a coupon](/en/tutorial/creating-a-coupon-beta--7lMk3MmhNp2IEccyGApxU)
 
