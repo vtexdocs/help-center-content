@@ -11,7 +11,10 @@
         "release": "standard-version",
         "release:minor": "standard-version --release-as minor",
         "release:patch": "standard-version --release-as patch",
-        "release:major": "standard-version --release-as major"
+        "release:major": "standard-version --release-as major",
+        "convert-links": "node index.js --convertLinksOnly",
+        "convert-links:dry-run": "node index.js --convertLinksOnly --dry-run",
+        "convert-links:backup": "node index.js --convertLinksOnly --backup --verbose"
     },
     "devDependencies": {
         "@commitlint/cli": "^19.8.0",

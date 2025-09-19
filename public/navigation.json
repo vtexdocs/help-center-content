@@ -45627,6 +45627,21 @@
             },
             {
               "name": {
+                "en": "Regionalization or trade policies aren't considered while filtering or sorting items by price or discount",
+                "es": "La regionalización o las políticas comerciales no se tienen en cuenta al filtrar u ordenar los artículos por precio o descuento.",
+                "pt": "A regionalização ou as políticas comerciais não são consideradas ao filtrar ou classificar itens por preço ou desconto"
+              },
+              "slug": {
+                "en": "regionalization-or-trade-policies-arent-considered-while-filtering-or-sorting-items-by-price-or-discount",
+                "es": "la-regionalizacion-o-las-politicas-comerciales-no-se-tienen-en-cuenta-al-filtrar-u-ordenar-los-articulos-por-precio-o-descuento",
+                "pt": "a-regionalizacao-ou-as-politicas-comerciais-nao-sao-consideradas-ao-filtrar-ou-classificar-itens-por-preco-ou-desconto"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Save button disabled when modifying imported search synonyms",
                 "es": "Botón de guardar desactivado al modificar los sinónimos de búsqueda importados",
                 "pt": "Botão Salvar desativado ao modificar sinônimos de pesquisa importados"
@@ -55420,21 +55435,6 @@
             },
             {
               "name": {
-                "en": "Free shipping promotion fails to apply due to minimum or maximum amount being based on unit price instead of total item value",
-                "es": "La promoción de envío gratuito no se aplica debido a que el importe mínimo o máximo se basa en el precio unitario en lugar del valor total del artículo.",
-                "pt": "A promoção de frete grátis não se aplica devido ao fato de o valor mínimo ou máximo ser baseado no preço unitário em vez do valor total do item"
-              },
-              "slug": {
-                "en": "free-shipping-promotion-fails-to-apply-due-to-minimum-or-maximum-amount-being-based-on-unit-price-instead-of-total-item-value",
-                "es": "la-promocion-de-envio-gratuito-no-se-aplica-debido-a-que-el-importe-minimo-o-maximo-se-basa-en-el-precio-unitario-en-lugar-del-valor-total-del-arti",
-                "pt": "a-promocao-de-frete-gratis-nao-se-aplica-devido-ao-fato-de-o-valor-minimo-ou-maximo-ser-baseado-no-preco-unitario-em-vez-do-valor-total-do-item"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "GET Coupon Usage API doesn't list multiple orders for the same coupon",
                 "es": "La API de uso de cupones GET no muestra varios pedidos del mismo cupón.",
                 "pt": "A API GET Coupon Usage não lista vários pedidos para o mesmo cupom"
@@ -55503,6 +55503,21 @@
                 "en": "incorrect-price-update-when-a-promotion-doesnt-apply-the-discount-to-all-the-same-items-in-a-cart",
                 "es": "actualizacion-incorrecta-del-precio-cuando-una-promocion-no-aplica-el-descuento-a-todos-los-mismos-articulos-de-un-carrito",
                 "pt": "atualizacao-incorreta-do-preco-quando-uma-promocao-nao-aplica-o-desconto-a-todos-os-mesmos-itens-em-um-carrinho"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "es": "La promoción de envío gratuito no se aplica debido a que el importe mínimo o máximo se basa en el precio unitario en lugar del valor total del artículo.",
+                "en": "La promoción de envío gratuito no se aplica debido a que el importe mínimo o máximo se basa en el precio unitario en lugar del valor total del artículo.",
+                "pt": "La promoción de envío gratuito no se aplica debido a que el importe mínimo o máximo se basa en el precio unitario en lugar del valor total del artículo."
+              },
+              "slug": {
+                "es": "la-promocion-de-envio-gratuito-no-se-aplica-debido-a-que-el-importe-minimo-o-maximo-se-basa-en-el-precio-unitario-en-lugar-del-valor-total-del-arti",
+                "en": "",
+                "pt": ""
               },
               "origin": "",
               "type": "markdown",
@@ -55758,6 +55773,21 @@
                 "en": "promotion-usage-counter-not-working-as-expected",
                 "es": "el-contador-de-uso-de-promociones-no-funciona-como-se-esperaba",
                 "pt": "o-contador-de-uso-da-promocao-nao-esta-funcionando-como-esperado"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Promotion validation uses unit price instead of total item price",
+                "es": "La validación de la promoción utiliza el precio unitario en lugar del precio total del artículo",
+                "pt": "A validação da promoção usa o preço unitário em vez do preço total do item"
+              },
+              "slug": {
+                "en": "promotion-validation-uses-unit-price-instead-of-total-item-price",
+                "es": "la-validacion-de-la-promocion-utiliza-el-precio-unitario-en-lugar-del-precio-total-del-articulo",
+                "pt": "a-validacao-da-promocao-usa-o-preco-unitario-em-vez-do-preco-total-do-item"
               },
               "origin": "",
               "type": "markdown",
