@@ -28,7 +28,7 @@ Para criar e configurar o site da sua loja Store Framework usando o CMS, você u
 
 ## Site Editor
 
-O **[Site Editor](https://help.vtex.com/pt/tutorial/site-editor-overview--299Dbeb9mFczUTyNQ9xPe1)** é uma interface gráfica para o gerenciamento do conteúdo do storefront (frente de loja). Ele permite criar, editar, publicar e agendar mudanças nos seus componentes e no comportamento do storefront.
+O **[Site Editor](/pt/tutorial/site-editor-overview--299Dbeb9mFczUTyNQ9xPe1)** é uma interface gráfica para o gerenciamento do conteúdo do storefront (frente de loja). Ele permite criar, editar, publicar e agendar mudanças nos seus componentes e no comportamento do storefront.
 
 Por meio de uma interface intuitiva diretamente no Admin VTEX, o Site Editor reflete os blocos definidos no [Store Theme](https://developers.vtex.com/docs/guides/vtex-io-documentation-store-theme), possibilitando que qualquer pessoa altere o conteúdo e o layout da loja sem precisar editar o código.
 
@@ -36,9 +36,9 @@ Por meio de uma interface intuitiva diretamente no Admin VTEX, o Site Editor ref
 
 ## Layout - Sites and Channels
 
-Lojas desenvolvidas com Store Framework também devem configurar o [binding da loja](https://help.vtex.com/en/tutorial/what-is-cms-layout--EmO8u2WBj2W4MUQCS8262#binding), através da pasta **[Sites and channels](https://help.vtex.com/pt/tutorial/o-que-e-o-cms-layout--EmO8u2WBj2W4MUQCS8262#sites-and-channels)** na seção **Layout** do Admin VTEX.
+Lojas desenvolvidas com Store Framework também devem configurar o [binding da loja](/en/tutorial/what-is-cms-layout--EmO8u2WBj2W4MUQCS8262#binding), através da pasta **[Sites and channels](/pt/tutorial/o-que-e-o-cms-layout--EmO8u2WBj2W4MUQCS8262#sites-and-channels)** na seção **Layout** do Admin VTEX.
 
-Binding é o processo utilizado para vincular o seu site a uma loja. Para mais detalhes, consulte o artigo [Vincular uma loja a uma estrutura de pastas do CMS (binding)](https://help.vtex.com/pt/tutorial/vincular-um-account-name-a-um-website-binding).
+Binding é o processo utilizado para vincular o seu site a uma loja. Para mais detalhes, consulte o artigo [Vincular uma loja a uma estrutura de pastas do CMS (binding)](/pt/tutorial/vincular-um-account-name-a-um-website-binding).
 
 ![layout-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/m%C3%B3dulos-vtex-primeiros-passos/cms/cms-vtex-io_2.png)
 
@@ -48,7 +48,7 @@ Binding é o processo utilizado para vincular o seu site a uma loja. Para mais d
 
 Banners é a funcionalidade responsável por exibir banners, como ações promocionais, na página de resultado de busca do cliente. Isso é feito por meio da associação entre as palavras e filtros selecionados na busca e da configuração de banners na sua loja.
 
-Para saber como utilizar esse módulo, acesse o tutorial de [Banners](https://help.vtex.com/pt/v4/docs/banners--51nNoJABZ5NtvJQCucCXCy ).
+Para saber como utilizar esse módulo, acesse o tutorial de [Banners](/pt/v4/docs/banners--51nNoJABZ5NtvJQCucCXCy ).
 
 ## Páginas
 
@@ -60,7 +60,7 @@ Essa seção também contém a página **Redirecionamentos**, que permite config
 
 ![cms-store-framework-redirecionamentos-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/m%C3%B3dulos-vtex-primeiros-passos/cms/cms-vtex-io_4.png)
 
-Para saber mais sobre este módulo, acesse o tutorial de [Páginas](https://help.vtex.com/pt/tutorial/paginas-visao-geral--5iBUUJbK5NqG6OxlDrGNzc).
+Para saber mais sobre este módulo, acesse o tutorial de [Páginas](/pt/tutorial/paginas-visao-geral--5iBUUJbK5NqG6OxlDrGNzc).
 
 ## Estilos
 
@@ -68,7 +68,7 @@ Esta funcionalidade permite que você defina a tipografia e a paleta de cores do
 
 > ⚠️ Esse recurso só funciona em [workspaces de produção](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-creating-a-production-workspace).
 
-Para saber como utilizar esse módulo, acesse o tutorial de [Estilos](https://help.vtex.com/pt/tutorial/estilos-visao-geral--v0Db5ohEKSFIkTzSwCjVi).
+Para saber como utilizar esse módulo, acesse o tutorial de [Estilos](/pt/tutorial/estilos-visao-geral--v0Db5ohEKSFIkTzSwCjVi).
 
 ## Mídia
 
@@ -76,10 +76,10 @@ Mídia é o módulo responsável por gerenciar os arquivos de mídia de sua loja
 
 ![cms-store-framework-media-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/m%C3%B3dulos-vtex-primeiros-passos/cms/cms-vtex-io_5.png)
 
-Para saber mais sobre este módulo, acesse [Mídia- Visão geral](https://help.vtex.com/pt/tutorial/midia-visao-geral--31fhjHTt4TBoo50AmGQ9b2).
+Para saber mais sobre este módulo, acesse [Mídia- Visão geral](/pt/tutorial/midia-visao-geral--31fhjHTt4TBoo50AmGQ9b2).
 
 ## Saiba mais
 
-- **[Gerenciando conteúdo de página e template](https://help.vtex.com/pt/tutorial/gerenciando-conteudo-de-pagina-e-template--3tMbx6HXy4Fy5r9EhboG37):** Construa a frente de sua loja de acordo com as necessidades de seu negócio, usando uma interface amigável a seu favor.
+- **[Gerenciando conteúdo de página e template](/pt/tutorial/gerenciando-conteudo-de-pagina-e-template--3tMbx6HXy4Fy5r9EhboG37):** Construa a frente de sua loja de acordo com as necessidades de seu negócio, usando uma interface amigável a seu favor.
 
-- **[Gerenciando conteúdo por binding](https://help.vtex.com/pt/tutorial/gerenciando-conteudo-por-binding--5CZjZPMqi0ZNpuqzF6AUOn):** Personalize estrategicamente a aparência da sua loja de acordo com a localização dos usuários para aumentar o acesso e as taxas de vendas.
+- **[Gerenciando conteúdo por binding](/pt/tutorial/gerenciando-conteudo-por-binding--5CZjZPMqi0ZNpuqzF6AUOn):** Personalize estrategicamente a aparência da sua loja de acordo com a localização dos usuários para aumentar o acesso e as taxas de vendas.

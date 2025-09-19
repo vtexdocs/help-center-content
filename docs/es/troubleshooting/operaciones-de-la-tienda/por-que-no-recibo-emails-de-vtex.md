@@ -20,7 +20,7 @@ tags:
   - Token de autenticación
 ---
 
-A través del [Centro de mensajes](https://help.vtex.com/es/tutorial/como-funciona-el-message-center--tutorials_84), VTEX ofrece a los retailers la opción de personalizar las plantillas para enviar emails a los usuarios. Estos emails pueden utilizarse para transmitir la siguiente información:
+A través del [Centro de mensajes](/es/tutorial/como-funciona-el-message-center--tutorials_84), VTEX ofrece a los retailers la opción de personalizar las plantillas para enviar emails a los usuarios. Estos emails pueden utilizarse para transmitir la siguiente información:
 - Token de autenticación en la tienda
 -	Notificaciones de creación y pago de pedidos
 - Confirmación de exportación de datos
@@ -48,7 +48,7 @@ Si tu tienda posee un remitente personalizado, además del remitente predetermin
 
 ### Configurar servidor de correo
 
-En VTEX puede utilizarse el servidor de correo nativo o [configurar un servidor SMTP externo](https://help.vtex.com/es/tutorial/personalizando-o-smtp-da-vtex--tutorials_2733). Si utilizas un servidor SMTP externo, comprueba los escenarios que se indican a continuación.
+En VTEX puede utilizarse el servidor de correo nativo o [configurar un servidor SMTP externo](/es/tutorial/personalizando-o-smtp-da-vtex--tutorials_2733). Si utilizas un servidor SMTP externo, comprueba los escenarios que se indican a continuación.
 
 #### Configurar SMTP en el Admin VTEX
 
@@ -63,7 +63,7 @@ Después de la prueba, si el usuario que inició sesión en el Admin no recibió
 
 #### Configurar SPF (Sender Policy Framework)
 
-Comprueba que el servidor SMTP externo está correctamente configurado según el [sistema SPF](https://help.vtex.com/es/tutorial/configurar-spf--42t0lkl2VyC6Yewc4wA6wI), que se encarga de impedir que servidores no autorizados envíen emails en nombre de un dominio concreto. Si es necesario, puedes realizar la [configuración del SPF (Sender Policy Framework)](https://developers.vtex.com/docs/guides/setting-up-the-spf) y el [DKIM](https://developers.vtex.com/docs/guides/setting-up-dkim-for-transactional-emails) (DomainKeys Identified Mail) en el servidor.
+Comprueba que el servidor SMTP externo está correctamente configurado según el [sistema SPF](/es/tutorial/configurar-spf--42t0lkl2VyC6Yewc4wA6wI), que se encarga de impedir que servidores no autorizados envíen emails en nombre de un dominio concreto. Si es necesario, puedes realizar la [configuración del SPF (Sender Policy Framework)](https://developers.vtex.com/docs/guides/setting-up-the-spf) y el [DKIM](https://developers.vtex.com/docs/guides/setting-up-dkim-for-transactional-emails) (DomainKeys Identified Mail) en el servidor.
 
 > ⚠️ Comprueba que los emails no estén en la carpeta de spam. A veces caen en esta carpeta debido a reglas internas de los servidores de correo.
 

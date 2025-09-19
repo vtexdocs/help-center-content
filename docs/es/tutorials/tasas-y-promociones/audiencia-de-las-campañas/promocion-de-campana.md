@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 2cI57eZ3ZiWSeaQs26Gwys
 ---
 
-La promoción de campaña siempre está vinculada a una audiencia de campaña, es decir, a un público objetivo específico. Este tipo de promoción engloba todas las posibilidades presentes en la [Promoción Regular](https://help.vtex.com/es/tutorial/registro-promocion-regular--tutorials_327) y las siguientes opciones adicionales:
+La promoción de campaña siempre está vinculada a una audiencia de campaña, es decir, a un público objetivo específico. Este tipo de promoción engloba todas las posibilidades presentes en la [Promoción Regular](/es/tutorial/registro-promocion-regular--tutorials_327) y las siguientes opciones adicionales:
 
 - Público objetivo específico
 - Flete gratis para todos los fletes disponibles
@@ -24,11 +24,11 @@ La promoción de campaña siempre está vinculada a una audiencia de campaña, e
 
 Antes de crear una campaña de promoción, debe crear un público de campaña para definir el público objetivo de su promoción. Así, puede seleccionar los segmentos de clientes elegibles en la promoción, que funcionan como activadores, a partir de los criterios que configure.
 
-Ejemplo: si configura una [audiencia de campaña](https://help.vtex.com/es/tutorial/Crear-audiencia-de-campanas--6cnuDZJzIkIeocewAQQK4K) cuyo público objetivo son los clientes que ponen el «producto A» en el carrito, en la promoción de la campaña puede configurar que este público reciba un descuento en el «producto B».
+Ejemplo: si configura una [audiencia de campaña](/es/tutorial/Crear-audiencia-de-campanas--6cnuDZJzIkIeocewAQQK4K) cuyo público objetivo son los clientes que ponen el «producto A» en el carrito, en la promoción de la campaña puede configurar que este público reciba un descuento en el «producto B».
 
 > ℹ️ Los públicos de las campañas y sus promociones solo son válidos para la cuenta principal de la tienda. Las cuentas de *sellers* no tienen esta opción. Si se crean en una cuenta de *seller*, el público de campaña o la promoción de campaña no se activarán.
 
-Después de definir la [audiencia de la campaña](https://help.vtex.com/es/tutorial/Crear-audiencia-de-campanas--6cnuDZJzIkIeocewAQQK4K), acceda al Admin y siga los pasos a continuación para crear una promoción de campaña.
+Después de definir la [audiencia de la campaña](/es/tutorial/Crear-audiencia-de-campanas--6cnuDZJzIkIeocewAQQK4K), acceda al Admin y siga los pasos a continuación para crear una promoción de campaña.
 
 1. En el Admin VTEX, accede a *Promociones > Promociones*, o escribe *Promociones* en la barra de búsqueda en la parte superior de la página.
 2. Haga clic en el botón `Crear promoción`.
@@ -61,7 +61,7 @@ A continuación se describen todos los campos que debe rellenar para crear una p
   - **Horario del día:**
     - **Todo el día:** al seleccionar esta opción, la promoción será válida durante todo el día.
     - **Horarios específicos:** al seleccionar esta opción, puede elegir la «hora de inicio» y la «hora de término» del periodo en el que la promoción será válida.
-- **Audiencia de las campañas:** le permite seleccionar los públicos de la campaña que tendrán acceso a esta promoción. Para más información, lea el artículo [Crear audiencia de campañas](https://help.vtex.com/pt/tutorial/como-criar-campanhas).
+- **Audiencia de las campañas:** le permite seleccionar los públicos de la campaña que tendrán acceso a esta promoción. Para más información, lea el artículo [Crear audiencia de campañas](/pt/tutorial/como-criar-campanhas).
 - **Qué tipo e importe de descuento:** esta selección define el tipo y el valor del descuento que se aplicará a la promoción. Vea las siguientes opciones:
   - **Nominal:** es el descuento que se concederá al total del carrito.
   - **Carga nominal:** es el descuento que se concederá al valor del flete.
@@ -70,24 +70,24 @@ A continuación se describen todos los campos que debe rellenar para crear una p
   - **Carga porcentual:** es el porcentaje de descuento que se concederá al valor del flete. 
   - **Envío máximo:** es el valor máximo establecido para el flete. 
   - **Flete gratis:** es el descuento total sobre el valor del flete.
-  - **Regalo:** es el descuento total sobre el valor del producto definido como regalo. Puede seleccionar uno o más SKU como regalos, o más de una unidad para el mismo SKU. Para definir más de un regalo, escoja la opción **Activar multiplicador de regalo** y defina la cantidad deseada. Lea más sobre esta opción en este [artículo](https://help.vtex.com/es/tutorial/que-significa-activar-el-multiplicador-de-regalo-en-una-promocion--1gydgkmjEWcoo2CskUwuYK).
+  - **Regalo:** es el descuento total sobre el valor del producto definido como regalo. Puede seleccionar uno o más SKU como regalos, o más de una unidad para el mismo SKU. Para definir más de un regalo, escoja la opción **Activar multiplicador de regalo** y defina la cantidad deseada. Lea más sobre esta opción en este [artículo](/es/tutorial/que-significa-activar-el-multiplicador-de-regalo-en-una-promocion--1gydgkmjEWcoo2CskUwuYK).
 
   > ℹ️ El producto de **Regalo** también debe tener un precio registrado aunque se dé al cliente de forma gratuita.
 
   - **Descuento nominal basado en la fórmula:** el descuento se calcula sumando los precios de los productos (total), el flete (*freight*) y el porcentaje de descuento deseado. Es importante destacar que el valor del flete que se incluirá en la fórmula será el valor menor que esté disponible para el pedido, independientemente de la selección del cliente. El separador decimal debe ser siempre el punto. Ejemplo: el descuento será del 30 % del valor del producto + el valor del flete. Entonces, la fórmula debe rellenarse así: ((total + freight) * 0.3).
   - **Valor de fidelidad nominal:** es el crédito que será añadido al programa de fidelidad de la tienda. 
   - **Valor de fidelidad porcentual:** es el porcentaje de crédito que se añadirá al programa de fidelidad de la tienda. 
-  - **Tabla de precios promocionales:** permite utilizar una lista de precios como promoción. El precio promocional de cada SKU será el correspondiente a la lista de precios seleccionada. Puede configurar un máximo de cinco promociones de campaña simultáneas utilizando listas de precios promocionales en su tienda. El precio de la lista de precios se aplicará solo si su valor es inferior al precio configurado en la política comercial utilizada en la promoción. Además, las promociones de la lista de precios compiten con todas las demás promociones relacionadas con los precios, es decir, si hay más de una promoción de precios activa y aplicable a los productos en cuestión, se aplicará el precio más bajo. Vea más información sobre la competencia de promociones en nuestro artículo [Cómo funciona la competencia de promociones](https://help.vtex.com/es/tutorial/entendiendo-la-competencia-de-las-promociones-2--tutorials_2270).
+  - **Tabla de precios promocionales:** permite utilizar una lista de precios como promoción. El precio promocional de cada SKU será el correspondiente a la lista de precios seleccionada. Puede configurar un máximo de cinco promociones de campaña simultáneas utilizando listas de precios promocionales en su tienda. El precio de la lista de precios se aplicará solo si su valor es inferior al precio configurado en la política comercial utilizada en la promoción. Además, las promociones de la lista de precios compiten con todas las demás promociones relacionadas con los precios, es decir, si hay más de una promoción de precios activa y aplicable a los productos en cuestión, se aplicará el precio más bajo. Vea más información sobre la competencia de promociones en nuestro artículo [Cómo funciona la competencia de promociones](/es/tutorial/entendiendo-la-competencia-de-las-promociones-2--tutorials_2270).
 
 Si elige un tipo de descuento relacionado con el flete («Carga porcentual», «Carga nominal», «Envío máximo» o «Flete gratis») al crear la promoción de campaña, también tendrá acceso a las configuraciones que se indican a continuación.
 
 - **Tipo de carga:** es el descuento que se concederá si el tipo de flete elegido por el cliente es el mismo que el registrado en la promoción. Este criterio solo se tendrá en cuenta si el tipo de la promoción está relacionado con el valor del flete, es decir, solo si es uno de los siguientes tipos:  «Carga porcentual», «Carga nominal», «Envío máximo» o «Flete gratis».
-- **Aplicar el descuento solamente con el flete más barato:** si habilita esta opción, el descuento del flete se aplicará solamente al valor menor calculado por el flete. Esta opción está habilitada de forma predeterminada, pero puede inhabilitarla si desea aplicar el descuento a otros tipos de flete. Para más información, lea el artículo [Registrar promociones de envío](https://help.vtex.com/es/tutorial/registrar-promociones-de-flete--6Lo5BR61KMiUFAAHGCdgfW#). Este criterio solo se tendrá en cuenta si el efecto de la promoción está relacionado con el valor del flete, es decir, solo si es uno de los siguientes efectos: «Carga porcentual», «Carga nominal», «Envío máximo» o Flete gratis».
+- **Aplicar el descuento solamente con el flete más barato:** si habilita esta opción, el descuento del flete se aplicará solamente al valor menor calculado por el flete. Esta opción está habilitada de forma predeterminada, pero puede inhabilitarla si desea aplicar el descuento a otros tipos de flete. Para más información, lea el artículo [Registrar promociones de envío](/es/tutorial/registrar-promociones-de-flete--6Lo5BR61KMiUFAAHGCdgfW#). Este criterio solo se tendrá en cuenta si el efecto de la promoción está relacionado con el valor del flete, es decir, solo si es uno de los siguientes efectos: «Carga porcentual», «Carga nominal», «Envío máximo» o Flete gratis».
 - **Aplicar el descuento solo cuando el cliente seleccione uno de los transportistas anteriores:** la promoción se aplicará solo después de que el cliente seleccione la forma de entrega en cuestión. Mientras no se seleccione, no tendrá descuento. Este criterio solo se tendrá en cuenta si el efecto de la promoción está relacionado con el valor del flete, es decir, solo si es uno de los siguientes efectos: «Carga porcentual», «Carga nominal», «Envío máximo» o Flete gratis».
 - **Aplicar a todos los buques (fletes) disponibles:** si activa esta opción, el descuento se aplicará a todos los métodos de entrega disponibles.
 - **Apareció en el producto (Destacar en los productos):** permite definir si su tienda mostrará una franja para anunciar la promoción. Verifique las siguientes opciones:
   - **No destacado:** cuando selecciona esta opción, la promoción no se muestra en la vitrina ni en la página de productos contemplados para la promoción.
-  - **Destacado:** cuando selecciona esta opción, se habilita la inserción de una franja con el nombre de la promoción en la vitrina y en la página de productos contemplados. Para que la franja se inserte correctamente, debe utilizar el control de visualización de la promoción en la plantilla de la tienda: `<vtex.cmc:discountHightLight/>`. Para más información, consulte nuestro artículo [Lista de controles para plantillas](https://help.vtex.com/es/tutorial/lista-de-controles-para-plantillas--tutorials_563).
+  - **Destacado:** cuando selecciona esta opción, se habilita la inserción de una franja con el nombre de la promoción en la vitrina y en la página de productos contemplados. Para que la franja se inserte correctamente, debe utilizar el control de visualización de la promoción en la plantilla de la tienda: `<vtex.cmc:discountHightLight/>`. Para más información, consulte nuestro artículo [Lista de controles para plantillas](/es/tutorial/lista-de-controles-para-plantillas--tutorials_563).
 
 #### Restringir la promoción a los productos de los sellers
 
@@ -139,10 +139,10 @@ Para ser válidos en la promoción, los productos deben cumplir todas las condic
 - **Cuántas veces se aplicará la promoción a su tienda por cliente:** limita la cantidad de veces que cada cliente puede utilizar la promoción. Cuando desactiva la opción **ilimitado**, se habilita un campo para registrar la cantidad de veces a la que estará limitada.
 - **Definir la cantidad máxima de ítems afectados por carrito:** limita la cantidad de ítems del carrito a los que se le puede aplicar la promoción. Cuando desactiva la opción **ilimitado**, se habilita un campo para registrar la cantidad de veces a la que estará limitada. Ejemplo: si configura la cantidad límite como 5 ítems, aunque el cliente coloque 10 ítems elegibles para la promoción en el carrito, solo 5 se beneficiarán.
 - **Permitir la acumulación de promociones:** permite que más de una promoción con el mismo tipo de descuento se aplique al mismo tiempo.
-- **Permitir acumular con precios manuales:** permite aplicar la promoción a los productos cuyos precios fueron introducidos manualmente por el agente de televentas. Para utilizar esta opción, debe permitir la [inserción manual de precios](https://help.vtex.com/es/tutorial/funcionalidades-de-televendas--UqhiccIRIK2KD0OqkzJaS#ingresar-precio-manual) en su tienda.
+- **Permitir acumular con precios manuales:** permite aplicar la promoción a los productos cuyos precios fueron introducidos manualmente por el agente de televentas. Para utilizar esta opción, debe permitir la [inserción manual de precios](/es/tutorial/funcionalidades-de-televendas--UqhiccIRIK2KD0OqkzJaS#ingresar-precio-manual) en su tienda.
 
 #### **SEPA MÁS**
 
- * [Crear promociones](https://help.vtex.com/es/tutorial/como-crear-promociones--tutorials_320)
- * [Crear audiencia de campañas](https://help.vtex.com/es/tutorial/Crear-audiencia-de-campanas--6cnuDZJzIkIeocewAQQK4K)
+ * [Crear promociones](/es/tutorial/como-crear-promociones--tutorials_320)
+ * [Crear audiencia de campañas](/es/tutorial/Crear-audiencia-de-campanas--6cnuDZJzIkIeocewAQQK4K)
 

@@ -18,7 +18,7 @@ order: 6
 There are three ways to add a base price:
 
 - through Admin
-- [by using a spreadsheet](https://help.vtex.com/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/5lV5s54lQ69zPXxngbpI5D)
+- [by using a spreadsheet](/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/5lV5s54lQ69zPXxngbpI5D)
 - through an API REST
 
 Follow the steps below to add a base price to your SKUs:

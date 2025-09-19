@@ -82,7 +82,7 @@ El control encargado de mostrar el producto visitado es `ProductQueryStringRefer
 * **5**: Sugerencias
 * **6**: Accesorios
 
-Las tres primeras estanterías las compone automáticamente el sistema y las tres últimas se configuran [manualmente en el registro de productos](https://help.vtex.com/es/tutorial/configurando-produto-similar-sugestoes-acessorios-e-genericos/).
+Las tres primeras estanterías las compone automáticamente el sistema y las tres últimas se configuran [manualmente en el registro de productos](/es/tutorial/configurando-produto-similar-sugestoes-acessorios-e-genericos/).
 
 ## Crear la estructura de carpetas
 

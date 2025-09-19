@@ -24,7 +24,7 @@ Cada projeto tem suas configurações, conteúdo e marca personalizados de acord
 Neste guia, você aprenderá como gerenciar cada projeto de frontend da sua loja.
 
 ## Antes de começar
-Certifique-se de que os [recursos](https://help.vtex.com/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) `See CMS menu on the top-bar`, `Settings` e `CMS GraphQL API` estão associados ao seu [Perfil de acesso](https://help.vtex.com/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc?&utm_source=autocomplete). Caso contrário, [crie um perfil de acesso](https://help.vtex.com/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#criando-um-perfil-de-acesso) e adicione esses recursos a eles ou adicione esses recursos a um perfil de acesso existente.
+Certifique-se de que os [recursos](/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) `See CMS menu on the top-bar`, `Settings` e `CMS GraphQL API` estão associados ao seu [Perfil de acesso](/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc?&utm_source=autocomplete). Caso contrário, [crie um perfil de acesso](/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#criando-um-perfil-de-acesso) e adicione esses recursos a eles ou adicione esses recursos a um perfil de acesso existente.
 
 ## Visão geral
 Para acessar a página de **Projetos**, entre no VTEX Admin e clique em **Storefront > Headless CMS**.
@@ -51,7 +51,7 @@ O webhook é um endpoint HTTP que permite a comunicação automatizada entre o V
 
 Depois de criar um novo projeto, você poderá criar páginas para ele com todas as rotas de URL e modelos de página compatíveis com a sua loja, como páginas iniciais, de produtos e de login.
 
-Para criar uma nova página, siga os passos em [Gerenciando páginas no Headless CMS](https://help.vtex.com/tutorial/managing-pages--3DO6rBhZ1p3zndnFu5BgRt)
+Para criar uma nova página, siga os passos em [Gerenciando páginas no Headless CMS](/tutorial/managing-pages--3DO6rBhZ1p3zndnFu5BgRt)
 
 ## Configurações do projeto
 As configurações do projeto permitem que você o configure de acordo com três categorias principais:
@@ -91,7 +91,7 @@ Escolha um storefront da sua conta (por exemplo, FastStore). Os campos de [Build
 | ---------- | ---------- | ---------- |
 | URL das seções | URL do webhook para receber e salvar as seções criadas no código-fonte no Headless CMS.      | `https://infra.io.vtex.com/vbase/v0/{nomedaconta}/master/buckets/vtex.admin-cms-graphql-rc/store/files/{builderId}/sections`       |
 | URL dos tipos de conteúdo      | URL do webhook para receber e salvar os tipos de conteúdo criados no código-fonte no Headless CMS.       | `https://infra.io.vtex.com/vbase/v0/{nomedaconta}/master/buckets/vtex.admin-cms-graphql-rc/store/files/{builderId}/content-types`       |
-| URL de build do webhook       | URL do webhook para iniciar um novo build no Headless CMS quando uma página ou conteúdo é adicionado ou editado.</br>[Problema conhecido - O Headless CMS não está simulando dados entre espaços de trabalho](https://help.vtex.com/pt/known-issues/o-headless-cms-nao-esta-simulando-dados-entre-espacos-de-trabalho--iDUOWMDKXPb6ZjO19kmO7) Devido a um problema de simulação de dados, rascunhos criados em qualquer workspace atualmente aparecem no ambiente master. Isso significa que alterações que deveriam ficar isoladas em workspaces individuais estão visíveis no workspace master | `https://app.io.vtex.com/vtex.cms-builder-sf-jamstack/v1/{nomedaconta}/master/build-releases`       |
+| URL de build do webhook       | URL do webhook para iniciar um novo build no Headless CMS quando uma página ou conteúdo é adicionado ou editado.</br>[Problema conhecido - O Headless CMS não está simulando dados entre espaços de trabalho](/pt/known-issues/o-headless-cms-nao-esta-simulando-dados-entre-espacos-de-trabalho--iDUOWMDKXPb6ZjO19kmO7) Devido a um problema de simulação de dados, rascunhos criados em qualquer workspace atualmente aparecem no ambiente master. Isso significa que alterações que deveriam ficar isoladas em workspaces individuais estão visíveis no workspace master | `https://app.io.vtex.com/vtex.cms-builder-sf-jamstack/v1/{nomedaconta}/master/build-releases`       |
 | Salvar URL do webhook       | URL do webhook para permitir pré-visualizações do projeto em tempo real, enviando uma notificação para que você atualize a página para refletir as alterações mais recentes no Headless CMS.       |  -       |
 | URL de pré-visualização       | URL do webhook que permite a pré-visualização de páginas no Headless CMS.       | `https://{nomedaconta}.vtex.app/api/preview`       |
 

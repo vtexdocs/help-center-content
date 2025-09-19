@@ -33,4 +33,4 @@ Um pedido carrega uma série de informações, tais como:
 - Política Comercial aplicada na compra
 - Responsável pela venda (marketplace) e pelo fulfillment (seller)
 
-Estas e outras informações são essenciais para a gestão dos pedidos da loja. Elas podem ser consumidas por API ou na página de [detalhes do pedido](https://help.vtex.com/pt/tutorial/order-details-page-interface--2Y75n54Cc9VizrlG1N6ZNl), que veremos adiante.
+Estas e outras informações são essenciais para a gestão dos pedidos da loja. Elas podem ser consumidas por API ou na página de [detalhes do pedido](/pt/tutorial/order-details-page-interface--2Y75n54Cc9VizrlG1N6ZNl), que veremos adiante.

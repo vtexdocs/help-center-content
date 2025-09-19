@@ -17,11 +17,11 @@ subcategoryId: 1znnjA17XqaUNdNFr42PW5
 
 Las redirecciones son una herramienta para reenviar tanto a los usuarios como a los motores de búsqueda a una URL activa más relevante o similar diferente de la que solicitaron inicialmente.
 
-Las tiendas que tienen varios dominios suelen solicitar gestionar la redirección según el [*binding*](https://help.vtex.com/en/tutorial/what-is-binding--4NcN3NJd0IeYccgWCI8O2W) debido a la complejidad que presentan las varias URL disponibles. 
+Las tiendas que tienen varios dominios suelen solicitar gestionar la redirección según el [*binding*](/en/tutorial/what-is-binding--4NcN3NJd0IeYccgWCI8O2W) debido a la complejidad que presentan las varias URL disponibles. 
 
 Con esto en mente, VTEX le permite gestionar sus redirecciones de URL de acuerdo con el *binding* de la tienda a través de la interfaz del Admin.
 
-> ⚠️ Para crear, editar o eliminar redirecciones, el usuario del Admin VTEX debe tener un rol de acceso con el [recurso de License Manager](https://help.vtex.com/es/tutorial/recursos-del-license-manager--3q6ztrC8YynQf6rdc6euk3) **CMS Settings**. Puedes asignar al usuario un rol de acceso con el recurso siguiendo las instrucciones del artículo [Gestionar usuarios](https://help.vtex.com/es/tutorial/gestionar-usuarios--tutorials_512#editando-usuarios), o crear un nuevo rol de acceso que incluya dicho recurso consultando las instrucciones del artículo [Roles](https://help.vtex.com/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#creando-un-rol).
+> ⚠️ Para crear, editar o eliminar redirecciones, el usuario del Admin VTEX debe tener un rol de acceso con el [recurso de License Manager](/es/tutorial/recursos-del-license-manager--3q6ztrC8YynQf6rdc6euk3) **CMS Settings**. Puedes asignar al usuario un rol de acceso con el recurso siguiendo las instrucciones del artículo [Gestionar usuarios](/es/tutorial/gestionar-usuarios--tutorials_512#editando-usuarios), o crear un nuevo rol de acceso que incluya dicho recurso consultando las instrucciones del artículo [Roles](/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#creando-un-rol).
 
 En el Admin VTEX:
 

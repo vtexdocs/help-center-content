@@ -23,17 +23,17 @@ Para evitar esses riscos, siga estas boas práticas para gerenciamento de acesso
 
 ## Restrinja o uso do perfil de acesso Super Admin
 
-O [perfil de acesso Super Admin](https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) permite alterações críticas na loja. Por isso, limite o uso desse perfil ao menor número possível de usuários. É importante restringir o número de usuários que podem conceder ou retirar autorizações.
+O [perfil de acesso Super Admin](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) permite alterações críticas na loja. Por isso, limite o uso desse perfil ao menor número possível de usuários. É importante restringir o número de usuários que podem conceder ou retirar autorizações.
 
 ## Revise com frequência as permissões de usuários e chaves de API
 
-Revise pelo menos uma vez ao ano os [perfis de acesso](https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) de usuários administrativos da sua loja e chaves de API. Esse procedimento garante que apenas os usuários e chaves necessárias mantenham permissões de acesso.
+Revise pelo menos uma vez ao ano os [perfis de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) de usuários administrativos da sua loja e chaves de API. Esse procedimento garante que apenas os usuários e chaves necessárias mantenham permissões de acesso.
 
 Adote o **princípio do menor privilégio**, que consiste em conceder a cada um apenas as permissões estritamente necessárias para executar suas funções. Isso reduz o risco de acessos indevidos e minimiza os impactos de erros operacionais ou ações mal-intencionadas. 
 
 A segregação de funções contribui para um ambiente mais seguro, permitindo que cada usuário ou chave tenha permissões compatíveis com seu papel na organização.
 
-Para isso, crie diferentes perfis, com acessos compatíveis com as permissões necessárias para cada função. Saiba como criar perfis de acesso customizados em [Criar perfil de acesso](https://help.vtex.com/pt/tutorial/criar-perfil-de-acesso--qGtNQpKSSAduX94l2WZBW#criar-perfil-de-acesso-personalizado).
+Para isso, crie diferentes perfis, com acessos compatíveis com as permissões necessárias para cada função. Saiba como criar perfis de acesso customizados em [Criar perfil de acesso](/pt/tutorial/criar-perfil-de-acesso--qGtNQpKSSAduX94l2WZBW#criar-perfil-de-acesso-personalizado).
 
 ## Utilize login corporativo (SSO)
 
@@ -47,19 +47,19 @@ Não cadastre emails pessoais de domínios genéricos no Admin (`@gmail` ou `@ho
 
 Evite o uso de contas compartilhadas, como um email genérico cujas credenciais são compartilhadas entre vários usuários. Por exemplo, não utilize `admin@empresa.com`, prefira `joana@empresa.com`, um email cujo acesso é exclusivo para cada funcionário. Cada usuário deve ter uma conta no Admin, com permissões configuradas conforme seu nível de acesso.
 
-Contas compartilhadas dificultam a utilização de autenticação multifator (MFA), uma camada extra de segurança altamente recomendada. O MFA exige uma confirmação por parte do usuário, pois a conta fica associada a uma pessoa ou dispositivo. Utilizando contas e perfis de acesso segregadas, o MFA pode ser ativado para cada usuário e o acesso não fica impedido. Saiba mais sobre como ativar MFA em [Habilitando autenticação em dois fatores (2FA)](https://help.vtex.com/pt/tutorial/habilitar-login-por-autenticacao-de-2-fatores--4Ae1fcQi12g8u4SkQKCqWQ).
+Contas compartilhadas dificultam a utilização de autenticação multifator (MFA), uma camada extra de segurança altamente recomendada. O MFA exige uma confirmação por parte do usuário, pois a conta fica associada a uma pessoa ou dispositivo. Utilizando contas e perfis de acesso segregadas, o MFA pode ser ativado para cada usuário e o acesso não fica impedido. Saiba mais sobre como ativar MFA em [Habilitando autenticação em dois fatores (2FA)](/pt/tutorial/habilitar-login-por-autenticacao-de-2-fatores--4Ae1fcQi12g8u4SkQKCqWQ).
 
 ## Defina um usuário titular responsável pela segurança da conta
 
-Atribua o [usuário titular](https://help.vtex.com/pt/tutorial/o-que-e-o-usuario-titular--3oPr7YuIkEYqUGmEqIMSEy) somente a alguém com responsabilidade real pela gestão de acessos, ou seja, verificar constantemente a criação e alteração de usuários. Ele(a) deve revisar regularmente as permissões e garantir que apenas usuários autorizados mantenham acessos.
+Atribua o [usuário titular](/pt/tutorial/o-que-e-o-usuario-titular--3oPr7YuIkEYqUGmEqIMSEy) somente a alguém com responsabilidade real pela gestão de acessos, ou seja, verificar constantemente a criação e alteração de usuários. Ele(a) deve revisar regularmente as permissões e garantir que apenas usuários autorizados mantenham acessos.
 
 ## Exija autenticação de dois fatores (2FA) para login pelo Google
 
-Se a loja permitir login via Google, exija a autenticação de dois fatores (2FA). Essa camada extra de segurança reduz significativamente os riscos de acessos não autorizados. Consulte [Habilitando autenticação de dois fatores (2FA)](https://help.vtex.com/pt/tutorial/habilitar-login-por-autenticacao-de-2-fatores--4Ae1fcQi12g8u4SkQKCqWQ) para saber como ativar esse recurso.
+Se a loja permitir login via Google, exija a autenticação de dois fatores (2FA). Essa camada extra de segurança reduz significativamente os riscos de acessos não autorizados. Consulte [Habilitando autenticação de dois fatores (2FA)](/pt/tutorial/habilitar-login-por-autenticacao-de-2-fatores--4Ae1fcQi12g8u4SkQKCqWQ) para saber como ativar esse recurso.
 
 ## Saiba mais
 
-* [Controle de acesso](https://help.vtex.com/pt/subcategory/controle-de-acesso--1HSqkejwuYcQSMC400uY84)  
-* [Perfis de acesso](https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#criando-um-perfil-de-acesso)  
+* [Controle de acesso](/pt/subcategory/controle-de-acesso--1HSqkejwuYcQSMC400uY84)  
+* [Perfis de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#criando-um-perfil-de-acesso)  
 * [Login (SSO)](https://developers.vtex.com/docs/guides/login-integration-guide)   
-* [Habilitar login por autenticação de dois fatores](https://help.vtex.com/pt/tutorial/habilitar-login-por-autenticacao-de-2-fatores--4Ae1fcQi12g8u4SkQKCqWQ)
+* [Habilitar login por autenticação de dois fatores](/pt/tutorial/habilitar-login-por-autenticacao-de-2-fatores--4Ae1fcQi12g8u4SkQKCqWQ)

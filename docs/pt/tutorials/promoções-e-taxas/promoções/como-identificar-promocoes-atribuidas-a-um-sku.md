@@ -31,5 +31,5 @@ Para descobrir quais promoções estão sendo atribuídas a um SKU, devemos anal
 
 ## Saiba mais
 
-- [Como funcionam as promoções](https://help.vtex.com/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/2a2D0K85Ahvs4hLnL3Ag7N)
-- [Como identificar promoções aplicadas no carrinho](https://help.vtex.com/pt/tutorial/como-identificar-as-promocoes-no-carrinho--frequentlyAskedQuestions_345)
+- [Como funcionam as promoções](/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/2a2D0K85Ahvs4hLnL3Ag7N)
+- [Como identificar promoções aplicadas no carrinho](/pt/tutorial/como-identificar-as-promocoes-no-carrinho--frequentlyAskedQuestions_345)

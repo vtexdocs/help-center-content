@@ -81,10 +81,10 @@ Below, we detail the components displayed on the page.
 
 Problems navigating the storefront.
 
-* **Portal/CMS:** Instabilities observed in stores developed with [Legacy CMS Portal](https://help.vtex.com/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj) storefront technology.
+* **Portal/CMS:** Instabilities observed in stores developed with [Legacy CMS Portal](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj) storefront technology.
 * **Store Framework:** Instabilities observed in stores developed using [Store Framework](https://developers.vtex.com/docs/guides/vtex-io-documentation-what-is-vtex-store-framework) storefront technology.
 * **FastStore:** Instabilities observed in stores developed using [FastStore](https://www.faststore.dev/) storefront technology.
-* **Sales App:** Instabilities observed in [Sales App](https://help.vtex.com/en/tracks/instore-getting-started-and-setting-up--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf), a VTEX solution for assisted sales in physical stores.
+* **Sales App:** Instabilities observed in [Sales App](/en/tracks/instore-getting-started-and-setting-up--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf), a VTEX solution for assisted sales in physical stores.
 * **3rd Party Apps**: Instabilities observed in extensions maintained by third parties.
 
 ### Checkout

@@ -25,7 +25,7 @@ Para essa configuração, é preciso configurar uma promoção do tipo Leve mais
 2. Clique no botão `Criar Promoção`.
 3. Clique na opção **Leve Mais Por Menos**.
 4. Preencha os campos conforme o tutorial [Criar promoção Leve Mais por Menos
-](https://help.vtex.com/pt/tutorial/leve-mais-por-menos--tutorials_325 "Criar promoção Leve Mais por Menos").
+](/pt/tutorial/leve-mais-por-menos--tutorials_325 "Criar promoção Leve Mais por Menos").
 5. No campo **SKUs**, preencha com o SKU que deseja dar a promoção.
 6. No campo **A cada _ produto(s)**, preencha com o valor **1**.
 7. No campo **O cliente levará _ produtos**, preencha com o valor **1**.
@@ -42,7 +42,7 @@ A configuração dessa promoção é feita pelo tipo compre e ganhe, onde é pos
 2. Clique no botão `Criar Promoção`.
 3. Clique na opção **Compre e Ganhe**.
 4. Preencha os campos conforme o artigo [Como funciona a promoção Compre e ganhe
-](https://help.vtex.com/pt/tutorial/compre-e-ganhe--tutorials_322 "Como funciona a promoção Compre e ganhe").
+](/pt/tutorial/compre-e-ganhe--tutorials_322 "Como funciona a promoção Compre e ganhe").
 5. No campo **Qual o tipo e valor do desconto**, selecione a opção **Brinde** e preencha com o ID do SKU que deseja dar como brinde.
 6. No campo **SKUs**, selecione o SKU que deseja conceder a promoção com brinde.
 7. Clique no botão `Salvar`.

@@ -25,4 +25,4 @@ Además de determinar el número total de ítems elegibles en el carrito, es pos
 
 ## ¿Qué se necesita hacer?
 
-Después de configurar el tipo de descuento porcentual en una Promoción Regular, consulte la sección de Restricciones para acceder a la nueva funcionalidad. Para más detalles sobre cada tipo de escenario, consulte [el artículo de escenarios específicos de promoción](https://help.vtex.com/es/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/jOu9b69mKbrTDfSJYAawy#limite-de-items-con-promocion-en-el-carrito).
+Después de configurar el tipo de descuento porcentual en una Promoción Regular, consulte la sección de Restricciones para acceder a la nueva funcionalidad. Para más detalles sobre cada tipo de escenario, consulte [el artículo de escenarios específicos de promoción](/es/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/jOu9b69mKbrTDfSJYAawy#limite-de-items-con-promocion-en-el-carrito).

@@ -15,7 +15,7 @@ locale: en
 subcategoryId: jrgbOxKaOW0kdZs7rdgvS
 ---
 
-> ℹ️ This feature is part of [VTEX Shield](https://help.vtex.com/en/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh). If you are already a VTEX customer and want to adopt VTEX Shield for your business, please contact [Commercial Support](https://help.vtex.com/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ). Additional fees may apply. If you are not yet a customer but are interested in this solution, please complete our [contact form](https://vtex.com/br-pt/contato/).
+> ℹ️ This feature is part of [VTEX Shield](/en/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh). If you are already a VTEX customer and want to adopt VTEX Shield for your business, please contact [Commercial Support](/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ). Additional fees may apply. If you are not yet a customer but are interested in this solution, please complete our [contact form](https://vtex.com/br-pt/contato/).
 
 Security Monitor is a dashboard that helps merchants identify and manage potential risks in their environment in real time. The tool identifies configuration risks and the behavior of admin users, then notifies merchants via email, enabling them to take preventive action against security vulnerabilities.
 
@@ -54,7 +54,7 @@ The tab displays the full list of open findings in a table, from the most recent
 | Column fields | Description |
 | --- | --- |
 | Finding | User email or API key related to the finding. |
-| Type | Type of finding detected:<br/><ul><li>**Old app keys:** [API keys](https://help.vtex.com/en/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet) that were created more than 6 months ago.</li><li>**Excessive Super Admins:** Users or API keys with the **Owner (Admin Super)**  [role](https://help.vtex.com/en/tutorial/role--7HKK5Uau2H6wxE1rH5oRbc).</li><li>**Leaked App Keys:** [API keys](https://help.vtex.com/en/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet) that have been leaked on the web and identified by the VTEX Security team.</li><li>**Inactive Users:** Users who have not accessed the Admin in the last 30 days.</li><li>**Excessive Permissions:** Users or API keys with access to resources they did not use in the last 30 days.</li></ul> |
+| Type | Type of finding detected:<br/><ul><li>**Old app keys:** [API keys](/en/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet) that were created more than 6 months ago.</li><li>**Excessive Super Admins:** Users or API keys with the **Owner (Admin Super)**  [role](/en/tutorial/role--7HKK5Uau2H6wxE1rH5oRbc).</li><li>**Leaked App Keys:** [API keys](/en/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet) that have been leaked on the web and identified by the VTEX Security team.</li><li>**Inactive Users:** Users who have not accessed the Admin in the last 30 days.</li><li>**Excessive Permissions:** Users or API keys with access to resources they did not use in the last 30 days.</li></ul> |
 | Detected | Date the finding was detected. |
 | Sensor | Sensor that detected the threat: <br/><ul><li>**VTEX Identity**</li></ul> |
 | Severity| Level of threat severity, determined by the impact or potential risk associated with the threat: <br /><ul><li>**High**</li><li>**Medium**</li><li>**Low**</li></ul> |
@@ -93,7 +93,7 @@ The **Closed** tab displays a list of findings that have been managed and are th
 | Column fields | Description |
 | --- | --- |
 | Finding | User email or API key related to the finding. |
-| Type | Type of finding detected:<br/><ul><li>**Old app keys:** [API keys](https://help.vtex.com/en/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet) that were created more than 6 months ago.</li><li>**Excessive Super Admins:** Users or API keys with the **Owner (Admin Super)**  [role](https://help.vtex.com/en/tutorial/role--7HKK5Uau2H6wxE1rH5oRbc).</li><li>**Leaked App Keys:** [API keys](https://help.vtex.com/en/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet) that have been leaked on the web and identified by the VTEX Security team.</li><li>**Inactive Users:** Users who have not accessed the Admin in the last 30 days.</li></ul> |
+| Type | Type of finding detected:<br/><ul><li>**Old app keys:** [API keys](/en/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet) that were created more than 6 months ago.</li><li>**Excessive Super Admins:** Users or API keys with the **Owner (Admin Super)**  [role](/en/tutorial/role--7HKK5Uau2H6wxE1rH5oRbc).</li><li>**Leaked App Keys:** [API keys](/en/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet) that have been leaked on the web and identified by the VTEX Security team.</li><li>**Inactive Users:** Users who have not accessed the Admin in the last 30 days.</li></ul> |
 | Detected | Date the finding was detected. |
 | Closed | Date the finding was closed. |
 | Closed By | Indicates that the finding was automatically closed after being managed by an admin user. |
@@ -155,7 +155,7 @@ To edit the admin users who will be notified about the findings, follow the step
 
 ## Learn more
 
-* [VTEX Shield](https://help.vtex.com/en/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh)
-* [Roles](https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc)
-* [Users](https://help.vtex.com/en/tutorial/managing-users--tutorials_512)
-* [API keys](https://help.vtex.com/en/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet)
+* [VTEX Shield](/en/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh)
+* [Roles](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc)
+* [Users](/en/tutorial/managing-users--tutorials_512)
+* [API keys](/en/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet)

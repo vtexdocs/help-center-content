@@ -25,7 +25,7 @@ Durante a busca, o Intelligent Search recebe o termo pesquisado pelo cliente e v
 
 Assim, mesmo que o cliente não busque pela palavra cadastrada no produto, ainda pode obter resultados relevantes. Isso aumenta as chances de sucesso na busca e reduz a possibilidade de obter resultados vazios.
 
-O uso de sinônimos também complementa os [relatórios](https://help.vtex.com/pt/tutorial/analytics--6qRMAHDL9hvv3oE0bh8mA1) de buscas sem resultados. A partir dessa análise, o lojista pode identificar buscas sem sucesso e tomar ações sobre quais termos precisam de sinônimos cadastrados.
+O uso de sinônimos também complementa os [relatórios](/pt/tutorial/analytics--6qRMAHDL9hvv3oE0bh8mA1) de buscas sem resultados. A partir dessa análise, o lojista pode identificar buscas sem sucesso e tomar ações sobre quais termos precisam de sinônimos cadastrados.
 
 ## Tipos de sinônimos
 
@@ -36,17 +36,17 @@ O uso de sinônimos também complementa os [relatórios](https://help.vtex.com/p
 | Unidirecional | Duas ou mais palavras possuem sentidos semelhantes, mas não são consideradas equivalentes em todos os contextos.<br>Essa configuração permite que, por decisão estratégica, a correspondência funcione apenas em uma direção. | `smartphone → iphone`<br>Ao realizar uma busca com o termo "smartphone", os resultados incluirão produtos rotulados como "iphone". No entanto, a busca por "iphone" não exibirá resultados para "smartphone". |
 | Bidirecional | Duas ou mais palavras possuem sentidos e significados equivalentes, permitindo que a correspondência funcione em ambas as direções. <br><br>Essa configuração facilita a busca por produtos que podem ter nomes diferentes em cada região de um país. | `diet ⇄ zero ⇄ sem açúcar`<br>Uma busca por produtos "diet" incluirá produtos definidos como "zero" e "sem açúcar". Da mesma forma, ao pesquisar por "zero", os resultados incluirão produtos "diet" e "sem açúcar". Os resultados para "sem açúcar" também incluirão produtos “zero” e “diet”.<br><br>`tangerina ⇄ mexerica ⇄ bergamota`<br>No Brasil, os termos "mexerica", "bergamota" e "tangerina" significam a mesma fruta. Com sinônimos bidirecionais para cada termo, não será necessário replicar cada palavra na descrição do produto, pois todos os resultados serão exibidos. |
 
-Saiba mais sobre o cadastro de sinônimos em [Criar sinônimos](https://help.vtex.com/pt/tutorial/criar-sinonimos--5IfjhvjxNAvJGEWNn0AhOA).
+Saiba mais sobre o cadastro de sinônimos em [Criar sinônimos](/pt/tutorial/criar-sinonimos--5IfjhvjxNAvJGEWNn0AhOA).
 
 > ⚠️ Após o cadastro ou alteração, um sinônimo pode levar até duas horas para refletir na loja.
 
 ## Boas práticas
 
-> ❗ Não utilize as [Palavras Substitutas](https://help.vtex.com/pt/tutorial/otimizar-as-buscas-com-palavras-substitutas--32FqSsl5VuQyiIMEc02Uwu) do cadastro de produtos e SKUs no Catálogo com o Intelligent Search. Utilize apenas a funcionalidade de sinônimos, pois ela possibilita uma gestão mais escalável de termos por produto.
+> ❗ Não utilize as [Palavras Substitutas](/pt/tutorial/otimizar-as-buscas-com-palavras-substitutas--32FqSsl5VuQyiIMEc02Uwu) do cadastro de produtos e SKUs no Catálogo com o Intelligent Search. Utilize apenas a funcionalidade de sinônimos, pois ela possibilita uma gestão mais escalável de termos por produto.
 
 ### Ordenação dos resultados
 
-Ao criar um sinônimo bidirecional, não existe uma diferenciação entre os dois termos na ordenação dos resultados de busca. Por exemplo, se houver um sinônimo bidirecional `tylenol ⇄ paracetamol`, em uma busca por `tylenol`, os resultados para `tylenol `não necessariamente aparecem antes de resultados para `paracetamol`. Para determinar a ordenação, é necessário utilizar uma [Regra de merchandising](https://help.vtex.com/pt/tutorial/regras-de-merchandising--2UEbxllrr98twbGIVhSPvi).
+Ao criar um sinônimo bidirecional, não existe uma diferenciação entre os dois termos na ordenação dos resultados de busca. Por exemplo, se houver um sinônimo bidirecional `tylenol ⇄ paracetamol`, em uma busca por `tylenol`, os resultados para `tylenol `não necessariamente aparecem antes de resultados para `paracetamol`. Para determinar a ordenação, é necessário utilizar uma [Regra de merchandising](/pt/tutorial/regras-de-merchandising--2UEbxllrr98twbGIVhSPvi).
 
 ### Palavras adicionadas individualmente
 
@@ -58,7 +58,7 @@ Sinônimos são recursivos, ou seja, os resultados são cumulativos. Por exemplo
 
 ### Autocorreção do Intelligent Search
 
-Sinônimos não devem ser utilizados para resolver erros de grafia, variações de singular e plural, pronomes, artigos ou preposições nos termos de busca. Nesses casos, o Intelligent Search é capaz de interpretar, aprender e corrigir automaticamente através da [Autocorreção](https://help.vtex.com/pt/tutorial/comportamento-da-busca--B9o3JbV6utAinBJ1ETujs#autocorrecao).
+Sinônimos não devem ser utilizados para resolver erros de grafia, variações de singular e plural, pronomes, artigos ou preposições nos termos de busca. Nesses casos, o Intelligent Search é capaz de interpretar, aprender e corrigir automaticamente através da [Autocorreção](/pt/tutorial/comportamento-da-busca--B9o3JbV6utAinBJ1ETujs#autocorrecao).
 
 Veja a seguir alguns exemplos de configurações de sinônimos:
 
@@ -70,9 +70,9 @@ Veja a seguir alguns exemplos de configurações de sinônimos:
 | `calça ⇄ calças` | Bidirecional | ❌ Configuração redundante. O Intelligent Search corrige automaticamente casos como esse. |
 | `calça de jeans ⇄ calça jeans` | Bidirecional | ❌ Configuração redundante. O Intelligent Search corrige automaticamente casos como esse. |
 
-> ℹ️ A funcionalidade de [Sinônimos Inteligentes](https://help.vtex.com/pt/tutorial/sinonimos-inteligentes--1rR47Kk96UgFYwh8dkDG7i) gera recomendações de termos para cadastro de sinônimos, além da configuração manual. Caso tenha interesse em implementá-la, entre em contato com nosso [Suporte](https://support.vtex.com/hc/pt-br/requests). É possível que taxas extras se apliquem futuramente.
+> ℹ️ A funcionalidade de [Sinônimos Inteligentes](/pt/tutorial/sinonimos-inteligentes--1rR47Kk96UgFYwh8dkDG7i) gera recomendações de termos para cadastro de sinônimos, além da configuração manual. Caso tenha interesse em implementá-la, entre em contato com nosso [Suporte](https://support.vtex.com/hc/pt-br/requests). É possível que taxas extras se apliquem futuramente.
 
 ## Saiba mais
 
-* [Criar sinônimos](https://help.vtex.com/pt/tutorial/criar-sinonimos--5IfjhvjxNAvJGEWNn0AhOA)
-* [Lista de sinônimos](https://help.vtex.com/pt/tutorial/lista-de-sinonimos--3E1fi0C6tVrR0klMFXAaU8)
+* [Criar sinônimos](/pt/tutorial/criar-sinonimos--5IfjhvjxNAvJGEWNn0AhOA)
+* [Lista de sinônimos](/pt/tutorial/lista-de-sinonimos--3E1fi0C6tVrR0klMFXAaU8)

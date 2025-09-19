@@ -31,7 +31,7 @@ Cada `session` permanece ativa até que não ocorra uma nova `pageview` por um p
 | **Característica** | **Descrição** |
 |:---:|:---:|
 | Origem do dado | O conjunto de dados se origina via *script* executado no *frontend* da loja, é ele quem registra as informações das sessões e atividades dos usuários. |
-| Disponibilidade | Os dados de navegação podem ser acessados no [dashboard Visão Geral](https://help.vtex.com/pt/tutorial/visao-geral-da-loja--P8ahguoRs0U3PzmXg2wuQ#dados) no Admin da VTEX, concentrando-se no total de sessões e no funil de conversão, ou por meio de ferramentas terceiras, como Google Analytics. |
+| Disponibilidade | Os dados de navegação podem ser acessados no [dashboard Visão Geral](/pt/tutorial/visao-geral-da-loja--P8ahguoRs0U3PzmXg2wuQ#dados) no Admin da VTEX, concentrando-se no total de sessões e no funil de conversão, ou por meio de ferramentas terceiras, como Google Analytics. |
 | Histórico | Os dados são mantidos por dois anos, a partir de 2022 para clientes que já utilizam a plataforma VTEX. |
 | Menor intervalo de atualização possível | Uma hora. |  
 
@@ -196,11 +196,11 @@ Nos dados de navegação da VTEX, observamos interações significativas com out
 
 ### Conheça outros Conjuntos de dados
 
-- [Catálogo](https://help.vtex.com/tutorial/catalogo-data-pipeline--7ARDELPaugrBu5dZT7Vx2b)
-- [Inventário](https://help.vtex.com/tutorial/inventario-data-pipeline-beta--2IvKMZV9SNrE6ipBRQr8h2)   
-- [Pagamentos](https://help.vtex.com/tutorial/pagamentos-data-pipeline-beta--7LWkFaA1jPabzc5JAt1rGs)  
-- [Pedidos](https://help.vtex.com/tutorial/pedidos-data-pipeline-beta--2f3GlRJ5L5IRGVIxOmzrFv) 
-- [Preços](https://help.vtex.com/tutorial/precos-data-pipeline-beta--3NMGJ8dtv73Bwvo9PSz1fz)  
-- [Promoção](https://help.vtex.com/tutorial/promocoes-data-pipeline-beta--3WZ1syNucDFdvVhfKtA6Qd)
-- [Vale-presente](https://help.vtex.com/pt/tutorial/vale-presente-data-pipeline--4XAnyc4scy3OG6RdnD7OEf)
-- [Logs do Bridge](https://help.vtex.com/tutorial/logs-do-bridge-data-pipeline--2RFVJZL19nsWBSB4IXA0Z)
+- [Catálogo](/tutorial/catalogo-data-pipeline--7ARDELPaugrBu5dZT7Vx2b)
+- [Inventário](/tutorial/inventario-data-pipeline-beta--2IvKMZV9SNrE6ipBRQr8h2)   
+- [Pagamentos](/tutorial/pagamentos-data-pipeline-beta--7LWkFaA1jPabzc5JAt1rGs)  
+- [Pedidos](/tutorial/pedidos-data-pipeline-beta--2f3GlRJ5L5IRGVIxOmzrFv) 
+- [Preços](/tutorial/precos-data-pipeline-beta--3NMGJ8dtv73Bwvo9PSz1fz)  
+- [Promoção](/tutorial/promocoes-data-pipeline-beta--3WZ1syNucDFdvVhfKtA6Qd)
+- [Vale-presente](/pt/tutorial/vale-presente-data-pipeline--4XAnyc4scy3OG6RdnD7OEf)
+- [Logs do Bridge](/tutorial/logs-do-bridge-data-pipeline--2RFVJZL19nsWBSB4IXA0Z)

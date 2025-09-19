@@ -22,7 +22,7 @@ tags:
 
 Ao utilizar o Admin, alguns usuários podem ter problemas como o *Erro 403 - Desculpe, você não tem acesso a essa página* ou o carregamento contínuo de uma página.
 
-Esses problemas geralmente ocorrem devido a conflitos entre [perfis de acesso](https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) dos usuários administrativos ou configurações específicas do navegador.  
+Esses problemas geralmente ocorrem devido a conflitos entre [perfis de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) dos usuários administrativos ou configurações específicas do navegador.  
 
 ## Solução
 
@@ -41,7 +41,7 @@ Siga os passos abaixo para solucionar o problema:
 
    * Se o perfil de acesso não for compatível com a página que o usuário está tentando acessar, o comportamento esperado é o *Erro 403*.
    * Se houver uma combinação do perfil **Call center operator** ou **OMS- Full access** com o perfil **Owner (Admin Super)**, é possível que ocorra um conflito no acesso a algumas páginas.
-4. Remova perfis de acesso conflitantes e conceda somente os perfis necessários para as operações que o usuário realiza na loja, seguindo as instruções para [Gerenciar usuários](https://help.vtex.com/pt/tutorial/gerenciando-usuarios--tutorials_512#editar-usuarios).
+4. Remova perfis de acesso conflitantes e conceda somente os perfis necessários para as operações que o usuário realiza na loja, seguindo as instruções para [Gerenciar usuários](/pt/tutorial/gerenciando-usuarios--tutorials_512#editar-usuarios).
 
 > ⚠️ Somente o **Owner (Admin Super)** da conta ou um usuário com o perfil **User Administrator - RESTRICTED** possuem as permissões necessárias para realizar esta etapa.
 

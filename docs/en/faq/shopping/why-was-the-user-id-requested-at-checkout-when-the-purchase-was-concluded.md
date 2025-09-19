@@ -26,4 +26,4 @@ In other words, if the customer concludes the purchase using only the email and 
 
 This measure is aimed at the security of customer data against counter-attacks and attempts at fraud.
 
-For more information about data protection, visit [SmartCheckout Security](https://help.vtex.com/en/tutorial/seguranca-do-smartcheckout--3SrJuuhrqwePUg1rp1exfB#).
+For more information about data protection, visit [SmartCheckout Security](/en/tutorial/seguranca-do-smartcheckout--3SrJuuhrqwePUg1rp1exfB#).

@@ -15,9 +15,9 @@ trackSlugEN: instore-primeros-pasos-y-configuracion
 order: 4
 ---
 
-VTEX Sales App es uno de los principales productos de VTEX para las operaciones de [comercio unificado](https://help.vtex.com/es/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv). Esta aplicación te permite ofrecer una experiencia omnichannel real en tu tienda, integrando los canales online y físicos y poniendo a tus clientes en el centro de tu negocio.
+VTEX Sales App es uno de los principales productos de VTEX para las operaciones de [comercio unificado](/es/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv). Esta aplicación te permite ofrecer una experiencia omnichannel real en tu tienda, integrando los canales online y físicos y poniendo a tus clientes en el centro de tu negocio.
 
-> ℹ️ Antes de comenzar, verifica que tu tienda cumpla con todos los prerrequisitos para utilizar VTEX Sales App [requisitos para utilizar VTEX Sales App](https://help.vtex.com/es/tracks/instore-primeiros-passos--6N0QlieWqboSVU2ehgAVAb/1wtAanSRA3g2316dw7bw8u).
+> ℹ️ Antes de comenzar, verifica que tu tienda cumpla con todos los prerrequisitos para utilizar VTEX Sales App [requisitos para utilizar VTEX Sales App](/es/tracks/instore-primeiros-passos--6N0QlieWqboSVU2ehgAVAb/1wtAanSRA3g2316dw7bw8u).
 
 Para utilizar VTEX Sales App, debes seguir los pasos descritos a continuación en tu cuenta principal.
 
@@ -53,7 +53,7 @@ Después de la instalación, relaiza la configuración básica de la aplicación
 
 En la pantalla **Registro tienda**, ingresa el nombre de la primera tienda física donde se utilizará VTEX Sales App y su dirección completa. Después de rellenar todos los campos, haz clic en `Continuar`.
 
-Después puedes [agregar otras tiendas](https://help.vtex.com/es/tracks/instore-setting-up--zav76TFEZlAjnyBVL5tRc/5PSjRstg7UU4lOm0s8aqKN) si lo deseas.
+Después puedes [agregar otras tiendas](/es/tracks/instore-setting-up--zav76TFEZlAjnyBVL5tRc/5PSjRstg7UU4lOm0s8aqKN) si lo deseas.
 
 ### Registrar el vendedor
 
@@ -61,7 +61,7 @@ En esta sección, debes definir un email y un nombre que se utilizarán como cre
 
 > ⚠️ El email registrado en esta página no puede ser un email que ya esté en uso en el Admin de la plataforma VTEX. Utiliza emails de vendedores que no tengan acceso al Admin.
 
-En esta etapa, debes registrar solo a uno de tus vendedores. Después de realizar la configuración básica, puedes [añadir otros vendedores](https://help.vtex.com/es/tracks/instore-setting-up--zav76TFEZlAjnyBVL5tRc/5PSjRstg7UU4lOm0s8aqKN).
+En esta etapa, debes registrar solo a uno de tus vendedores. Después de realizar la configuración básica, puedes [añadir otros vendedores](/es/tracks/instore-setting-up--zav76TFEZlAjnyBVL5tRc/5PSjRstg7UU4lOm0s8aqKN).
 
 ### Configurar los medios de pago
 
@@ -70,17 +70,17 @@ El siguiente paso es configurar los medios de pago que aceptarás en VTEX Sales 
 Hay dos opciones:
 
 * **Efectivo**: activa esta opción si deseas aceptar pagos en efectivo.
-* **Social selling:** activa esta opción para que todos los medios de pago configurados en el checkout de tu tienda online sean válidos en VTEX Sales App al utilizar el [carrito compartido (Social Selling)](https://help.vtex.com/es/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr/6deiffo22iKkY27PkfstXy).
+* **Social selling:** activa esta opción para que todos los medios de pago configurados en el checkout de tu tienda online sean válidos en VTEX Sales App al utilizar el [carrito compartido (Social Selling)](/es/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr/6deiffo22iKkY27PkfstXy).
 
 Después de seleccionar las opciones deseadas, haz clic en `Continuar`.
 
 ## Configurar condiciones de pago
 
-Después de realizar la configuración básica descrita en los pasos anteriores, debes configurar las condiciones de pago para VTEX Sales App en el módulo de **Pagos**. Para configurarlas, consulta la guía [Configuración de métodos de pago VTEX Sales App](https://help.vtex.com/es/tracks/instore-pagamentos--43B4Nr7uZva5UdwWEt3PEy).
+Después de realizar la configuración básica descrita en los pasos anteriores, debes configurar las condiciones de pago para VTEX Sales App en el módulo de **Pagos**. Para configurarlas, consulta la guía [Configuración de métodos de pago VTEX Sales App](/es/tracks/instore-pagamentos--43B4Nr7uZva5UdwWEt3PEy).
 
 ## Vincular el catálogo de productos a una vitrina de tienda
 
-Para que el catálogo de la tienda física se refleje en VTEX Sales App, debes configurar el [binding](https://help.vtex.com/es/tutorial/o-que-e-binding--4NcN3NJd0IeYccgWCI8O2W) en el CMS (Layout - [CMS Legado](https://help.vtex.com/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj)). Esta configuración vincula la [política comercial](https://help.vtex.com/es/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) al storefront correspondiente, garantizando que los productos se muestren correctamente en la vitrina.
+Para que el catálogo de la tienda física se refleje en VTEX Sales App, debes configurar el [binding](/es/tutorial/o-que-e-binding--4NcN3NJd0IeYccgWCI8O2W) en el CMS (Layout - [CMS Legado](/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj)). Esta configuración vincula la [política comercial](/es/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) al storefront correspondiente, garantizando que los productos se muestren correctamente en la vitrina.
 
 Para configurar el binding y garantizar que el catálogo de la tienda se muestre en VTEX Sales App, sigue los pasos a continuación:
 
@@ -95,4 +95,4 @@ Para configurar el binding y garantizar que el catálogo de la tienda se muestre
 
 ## Configurar logística
 
-Para empezar a utilizar VTEX Sales App, también debes realizar las configuraciones de __Logística__ según las estrategias que quieres aplicar. Para más información, lee las guías sobre [Comercio unificado](https://help.vtex.com/es/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv) y [Logística](https://help.vtex.com/es/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx).
+Para empezar a utilizar VTEX Sales App, también debes realizar las configuraciones de __Logística__ según las estrategias que quieres aplicar. Para más información, lee las guías sobre [Comercio unificado](/es/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv) y [Logística](/es/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx).

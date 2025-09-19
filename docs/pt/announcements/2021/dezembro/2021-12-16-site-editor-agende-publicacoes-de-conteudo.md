@@ -28,5 +28,5 @@ Agora, você pode criar uma versão desativada e ativá-la quando desejar. Além
 Para facilitar a publicação de conteúdo utilizando o Site Editor, melhoramos a experiência de criação de versões de blocos de loja.
 
 ## O que precisa ser feito?
-O recurso **Versões** já está ativo no Site Editor e você já pode começar a utilizá-lo. Para mais informações, confira as documentações [Gerenciando versões de conteúdo](https://help.vtex.com/pt/tutorial/gerenciando-versoes-de-conteudo--4loXo98CZncY0NnjKrScbG) e [Agendando atualizações de conteúdo](https://help.vtex.com/pt/tutorial/agendando-atualizacoes-de-conteudo--5L93gED3wgSRoWpFJlJ2ns).
+O recurso **Versões** já está ativo no Site Editor e você já pode começar a utilizá-lo. Para mais informações, confira as documentações [Gerenciando versões de conteúdo](/pt/tutorial/gerenciando-versoes-de-conteudo--4loXo98CZncY0NnjKrScbG) e [Agendando atualizações de conteúdo](/pt/tutorial/agendando-atualizacoes-de-conteudo--5L93gED3wgSRoWpFJlJ2ns).
 

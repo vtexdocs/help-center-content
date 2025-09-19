@@ -15,11 +15,11 @@ locale: es
 subcategoryId: 1yB08KlKzqJOdc0bn38HaY
 ---
 
-Todos los usuarios tienen acceso al servicio prestado por el equipo de especialistas del [Soporte VTEX](https://help.vtex.com/es/faq/como-funciona-o-suporte-da-vtex--3kACEfni4m8Yxa1vnf2ebe). Nuestros especialistas están capacitados para brindar la mejor experiencia posible en la resolución de tickets. Para ponerte en contacto con ellos, debes abrir un ticket a través del sistema de tickets.
+Todos los usuarios tienen acceso al servicio prestado por el equipo de especialistas del [Soporte VTEX](/es/faq/como-funciona-o-suporte-da-vtex--3kACEfni4m8Yxa1vnf2ebe). Nuestros especialistas están capacitados para brindar la mejor experiencia posible en la resolución de tickets. Para ponerte en contacto con ellos, debes abrir un ticket a través del sistema de tickets.
 
-Para que los usuario tengan acceso al Soporte VTEX es necesario [activar la autorización de soporte](https://help.vtex.com/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) en [License Manager](https://help.vtex.com/es/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3). Esta configuración solo es válida para cuentas de Brasil.
+Para que los usuario tengan acceso al Soporte VTEX es necesario [activar la autorización de soporte](/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) en [License Manager](/es/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3). Esta configuración solo es válida para cuentas de Brasil.
 
-Este artículo describe el proceso de apertura de tickets con el Soporte VTEX y hacer un seguimiento de su status. Para más información sobre disponibilidad, tiempo de respuesta estimado (SLA) y recursos disponibles para clientes en Brasil, consulta [Soporte VTEX - Brasil](https://help.vtex.com/es/faq/suporte-vtex-brasil--5q861sTw1n7H2BENOu7ls9).
+Este artículo describe el proceso de apertura de tickets con el Soporte VTEX y hacer un seguimiento de su status. Para más información sobre disponibilidad, tiempo de respuesta estimado (SLA) y recursos disponibles para clientes en Brasil, consulta [Soporte VTEX - Brasil](/es/faq/suporte-vtex-brasil--5q861sTw1n7H2BENOu7ls9).
 
 A continuación se detallan las etapas incluidas en este artículo:
 
@@ -47,7 +47,7 @@ El soporte técnico ofrece orientación para resolver problemas o aclarar dudas 
 Para solicitar soporte técnico, sigue los pasos a continuación y rellena la información necesaria:
 
 ### 1. Inicia sesión en la cuenta
-En esta primera etapa, autentifica tu acceso al [Admin VTEX](https://help.vtex.com/es/tutorial/admin-vtex-comece-aqui--531cHtUCUi3puRXNDmKziw) para gestionar las operaciones de comercio digital de tu tienda.
+En esta primera etapa, autentifica tu acceso al [Admin VTEX](/es/tutorial/admin-vtex-comece-aqui--531cHtUCUi3puRXNDmKziw) para gestionar las operaciones de comercio digital de tu tienda.
 
 ### 2. Accede a Copilot
 **Copilot** es una herramienta integrada en la plataforma que brinda soporte técnico. Puedes utilizarla para preguntarle dudas y solucionar problemas. Sigue los pasos a continuación para acceder a Copilot y empezar a interactuar con el soporte:
@@ -121,12 +121,12 @@ Para solicitar soporte financiero o comercial, sigue los pasos a continuación y
 ### 1. Inicia sesión en Soporte VTEX
 La primera etapa es autenticar tu acceso al Soporte VTEX, siguiendo los pasos a continuación:
 
-1. Accede al [Soporte VTEX](https://help.vtex.com/es/support).
+1. Accede al [Soporte VTEX](/es/support).
 2. Selecciona una de las tres opciones disponibles para autenticación:
 
    - Acceso mediante token, enviado al email registrado en tu tienda.
    - Iniciar sesión con Google.
-   - Iniciar sesión con email y contraseña, que requiere [autenticación de 2 factores](https://help.vtex.com/es/tutorial/habilitar-login-por-autenticacao-de-2-fatores) mediante aplicación o SMS.
+   - Iniciar sesión con email y contraseña, que requiere [autenticación de 2 factores](/es/tutorial/habilitar-login-por-autenticacao-de-2-fatores) mediante aplicación o SMS.
 
 Después de autenticarte, se te dirigirá al siguiente paso.
 
@@ -164,7 +164,7 @@ Para solicitar este tipo de soporte sigue los pasos a continuación:
 
 #### Comercial
 
-El soporte comercial asiste al usuario en tickets relacionados con [políticas comerciales](https://help.vtex.com/es/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV),  [entornos adicionales](https://help.vtex.com/es/tutorial/contratar-novo-ambiente--tutorials_2542), [sellers white label](https://help.vtex.com/es/tutorial/seller-white-label--5orlGHyDHGAYciQ64oEgKa) o [cambio de usuario](https://help.vtex.com/es/gerenciando-usuarios--tutorials_512) con rol de Sponsor user (Master Admin user).
+El soporte comercial asiste al usuario en tickets relacionados con [políticas comerciales](/es/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV),  [entornos adicionales](/es/tutorial/contratar-novo-ambiente--tutorials_2542), [sellers white label](/es/tutorial/seller-white-label--5orlGHyDHGAYciQ64oEgKa) o [cambio de usuario](/es/gerenciando-usuarios--tutorials_512) con rol de Sponsor user (Master Admin user).
 
 Para solicitar este tipo de soporte sigue los pasos a continuación:
 
@@ -190,5 +190,5 @@ Los status posibles son:
 - **Resuelto:** ticket resuelto por el agente de soporte o por el usuario. El usuario dispone de 27 horas laborables para reabrir el ticket respondiendo el email de soporte o accediendo al Historial de solicitudes. En caso contrario, se cerrará el ticket.
 - **Cerrado:** ticket marcado como resuelto y cerrado automáticamente tras 27 horas laborables sin interacción. Los tickets cerrados no pueden reabrirse.
 
-Una vez resuelto el ticket, el equipo de soporte enviará un email con un link a la [encuesta de satisfacción](https://help.vtex.com/es/announcements/avalie-o-atendimento-da-vtex-pelo-seu-admin--7rSJLgGbtRw2GhjTJezkJf). A través de esta encuesta puedes calificar el servicio sin salir del entorno VTEX y contribuir a la mejora continua del soporte.
+Una vez resuelto el ticket, el equipo de soporte enviará un email con un link a la [encuesta de satisfacción](/es/announcements/avalie-o-atendimento-da-vtex-pelo-seu-admin--7rSJLgGbtRw2GhjTJezkJf). A través de esta encuesta puedes calificar el servicio sin salir del entorno VTEX y contribuir a la mejora continua del soporte.
 

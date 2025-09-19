@@ -15,18 +15,18 @@ announcementImageID: 'undefined'
 announcementSynopsisPT: 'Simplificamos a gestão de usuários com novos recursos no License Manager.'
 ---
 
-Criamos dois novos [recursos no License Manager](https://help.vtex.com/pt/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3) para simplificar e padronizar o controle de acesso, agrupando ações relacionadas à gestão de usuários administrativos no Admin VTEX de forma mais intuitiva.
+Criamos dois novos [recursos no License Manager](/pt/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3) para simplificar e padronizar o controle de acesso, agrupando ações relacionadas à gestão de usuários administrativos no Admin VTEX de forma mais intuitiva.
 
 ## O que mudou?
 
-Consolidamos recursos legados de leitura e escrita de informações de [usuários](https://help.vtex.com/pt/tutorial/gerenciando-usuarios--tutorials_512) e [perfis de acesso](https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) em dois novos recursos do produto *License Manager*:
+Consolidamos recursos legados de leitura e escrita de informações de [usuários](/pt/tutorial/gerenciando-usuarios--tutorials_512) e [perfis de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) em dois novos recursos do produto *License Manager*:
 
 | Nome do novo recurso | Chave do novo recurso (`resource_key`) | Descrição |
 | ----- | ----- | ----- |
 | Edit Admin Users | `EditAdminUsers` | Permite criar, editar e remover usuários administrativos. |
 | View Admin Users | `ViewAdminUsers` | Permite visualizar informações de usuários e perfis de acesso. |
 
-Esses novos recursos substituem os recursos legados listados abaixo no [gerenciamento de usuários](https://help.vtex.com/pt/tutorial/gerenciando-usuarios--tutorials_512) no Admin VTEX:
+Esses novos recursos substituem os recursos legados listados abaixo no [gerenciamento de usuários](/pt/tutorial/gerenciando-usuarios--tutorials_512) no Admin VTEX:
 
 | Nome do recurso legado | Chave do recurso legado (`resource_key`) | Descrição do recurso legado | Nome do novo recurso | Chave do novo recurso (`resource_key`) |
 | ----- | ----- | ----- | ----- | ----- |
@@ -48,4 +48,4 @@ Nenhuma ação imediata é necessária. Analisamos os perfis de acesso existente
 * Nenhuma permissão anterior foi removida.  
 * Os recursos legados não foram deprecados.
 
-Recomendamos revisar os perfis de acesso existentes na sua conta para entender como os novos recursos foram aplicados. Em caso de dúvidas, consulte a [documentação do License Manager](https://help.vtex.com/pt/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3).
+Recomendamos revisar os perfis de acesso existentes na sua conta para entender como os novos recursos foram aplicados. Em caso de dúvidas, consulte a [documentação do License Manager](/pt/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3).

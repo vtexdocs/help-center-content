@@ -25,7 +25,7 @@ To set up a banner, follow the steps below:
 
 After configuring the banner, you have to add it to a page on your store. To do that, follow the steps described in the [Banner](https://developers.vtex.com/vtex-developer-docs/docs/vtex-search-banner) guide.
 
-> ℹ️  This feature is available on VTEX Intelligent Search Multilanguage. For more information, please refer to our article [VTEX Intelligent Search: Multilanguage settings (Beta)](https://help.vtex.com/en/tutorial/vtex-intelligent-search-multilanguage-settings-beta--2WahlTESLXIJ9XBdQMdTYO#banners).
+> ℹ️  This feature is available on VTEX Intelligent Search Multilanguage. For more information, please refer to our article [VTEX Intelligent Search: Multilanguage settings (Beta)](/en/tutorial/vtex-intelligent-search-multilanguage-settings-beta--2WahlTESLXIJ9XBdQMdTYO#banners).
 
 ![banner-form-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/intelligent-search/banners/configuring-banners_1.png)
 
@@ -50,7 +50,7 @@ To add a banner, the following fields need to be completed:
 * **Start time**: Time when the banner will start being available.
 * **End date**: Date when the banner will stop being available. This allows the administrator to schedule future campaigns, which makes them easier to control.
 * **End time**: Time when the banner will stop being available.
-* **Locales:** Languages to which the banner will apply. The field is only available for stores using [Multilanguage settings (Beta)](https://help.vtex.com/en/tutorial/vtex-intelligent-search-configuracoes-multi-idioma-beta--2WahlTESLXIJ9XBdQMdTYO).
+* **Locales:** Languages to which the banner will apply. The field is only available for stores using [Multilanguage settings (Beta)](/en/tutorial/vtex-intelligent-search-configuracoes-multi-idioma-beta--2WahlTESLXIJ9XBdQMdTYO).
 
 ### Trigger Rules
 

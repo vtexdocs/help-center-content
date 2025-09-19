@@ -64,7 +64,7 @@ Sigue las instrucciones para eliminar manualmente un token antiguo tras la renov
 
 ## Deshacer renovación de token
 
-> ⚠️ Este procedimiento solo es posible mientras el token antiguo no haya sido [eliminado](#eliminar-token-antiguo). Si se eliminó el token antiguo, será necesario renovar el token de nuevo o [eliminar la clave de API](https://help.vtex.com/es/tutorial/clave-generada--7fnU4iZdvZKbxCaT3Ymdjc#eliminar-clave).
+> ⚠️ Este procedimiento solo es posible mientras el token antiguo no haya sido [eliminado](#eliminar-token-antiguo). Si se eliminó el token antiguo, será necesario renovar el token de nuevo o [eliminar la clave de API](/es/tutorial/clave-generada--7fnU4iZdvZKbxCaT3Ymdjc#eliminar-clave).
 
 Si renovaste el token por error u olvidaste copiar el nuevo token generado, sigue los pasos a continuación para deshacer la renovación.
 
@@ -75,6 +75,6 @@ Si renovaste el token por error u olvidaste copiar el nuevo token generado, sigu
 
 ## Más información
 
-* [Claves de API](https://help.vtex.com/es/tutorial/claves-de-api--4bFEmcHXgpNksoePchZyy6)
-* [Configurar alerta para renovar tokens de API](https://help.vtex.com/es/tutorial/configurar-la-duracion-de-las-claves-de-api--kcGIFysFt02FDuhsfjQwZ)
-* [Claves generadas](https://help.vtex.com/es/tutorial/claves-generadas--7fnU4iZdvZKbxCaT3Ymdjc)
+* [Claves de API](/es/tutorial/claves-de-api--4bFEmcHXgpNksoePchZyy6)
+* [Configurar alerta para renovar tokens de API](/es/tutorial/configurar-la-duracion-de-las-claves-de-api--kcGIFysFt02FDuhsfjQwZ)
+* [Claves generadas](/es/tutorial/claves-generadas--7fnU4iZdvZKbxCaT3Ymdjc)

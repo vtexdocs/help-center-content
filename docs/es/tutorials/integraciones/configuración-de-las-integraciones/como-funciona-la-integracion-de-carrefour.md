@@ -26,7 +26,7 @@ Este artículo tiene el objetivo de describir el flujo de la integración del __
 ## 1. Productos
 
 ### Envío de productos
-El envío de productos se realiza de forma automática, aproximadamente 8 horas después de que se haya realizado con éxito la [configuración de la integración](https://help.vtex.com/es/tracks/configurar-integracao-com-o-carrefour--2wYlj07cNuA8k8mmwY86K2). Para ello, se basa en la política comercial registrada y envía la primera carga de productos.
+El envío de productos se realiza de forma automática, aproximadamente 8 horas después de que se haya realizado con éxito la [configuración de la integración](/es/tracks/configurar-integracao-com-o-carrefour--2wYlj07cNuA8k8mmwY86K2). Para ello, se basa en la política comercial registrada y envía la primera carga de productos.
 
 Los campos de producto y SKU se envían juntos, en un lote separado del lote de ofertas (que reúne información de precio y inventario de los SKUs). Los dos lotes pueden subir al mismo tiempo y el sistema de Carrefour hace la validación.
 

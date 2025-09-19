@@ -20,7 +20,7 @@ A kit is a set of products that are sold together, that is, a product made up of
 A kit may or may not allow for its components to be sold separately. See the differences below:
 
 - **Kit**: The products included in a kit may only be sold as a kit, rather than separately. If the components were configured to display on the site, these would be presented normally in the category, brand, and search results page, as well as on any other aisle. 
-- **Kit Look**: In a look kit, all products can be found on the website and sold separately from the kit, which means that even on the page of the look kit product, you can purchase the items separately or together. See [How to assemble a Kit Look](https://help.vtex.com/en/tutorial/how-to-assemble-a-look-kit--tutorials_266) for more information on how to set up this type of kit.
+- **Kit Look**: In a look kit, all products can be found on the website and sold separately from the kit, which means that even on the page of the look kit product, you can purchase the items separately or together. See [How to assemble a Kit Look](/en/tutorial/how-to-assemble-a-look-kit--tutorials_266) for more information on how to set up this type of kit.
 
 ## Creating products
 
@@ -30,8 +30,8 @@ To set up the kit, all its products – that is, its components – must have al
 
 After creating all component products, we can move on to defining the kit’s settings.
 
-1. Create the product that will become the kit. See how to create a product in [Adding products](https://help.vtex.com/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/1ROhz3Y7mfSMmCO1I1GxEL).
-2. Access the settings of the SKU that will become the kit. See how to create the SKU in [Adding SKUs](https://help.vtex.com/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ).
+1. Create the product that will become the kit. See how to create a product in [Adding products](/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/1ROhz3Y7mfSMmCO1I1GxEL).
+2. Access the settings of the SKU that will become the kit. See how to create the SKU in [Adding SKUs](/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ).
 3. Click on the __Advanced Settings__ tab.
 4. Click on `Activate Bundle`.
 5. If you would like a look kit, click on the option __Bundle with SKUs sold separately__.
@@ -62,7 +62,7 @@ The weight of the kit will be made up by the sum of the weight of its components
 
 ## Inventory
 
-The kit’s [inventory](https://help.vtex.com/en/tutorial/inventory-management--tutorials_139) will always be the inventory of its components. In other words, it is not possible to enter inventory merely in the kit, but rather in each and every independent component, in order to update the kit’s inventory. You can access this information in your VTEX Admin in **Catalog > Inventory > Inventory Management**.
+The kit’s [inventory](/en/tutorial/inventory-management--tutorials_139) will always be the inventory of its components. In other words, it is not possible to enter inventory merely in the kit, but rather in each and every independent component, in order to update the kit’s inventory. You can access this information in your VTEX Admin in **Catalog > Inventory > Inventory Management**.
 
 Since the SKUs that make up the kit must be sold together, the kit overall inventory will be equal to the SKU which has less inventory items. This is as such due to the fact that when a component is out of stock, the kit cannot be purchased.
 
@@ -85,4 +85,4 @@ Merely changing the final price will not update the price of the components.
 
 ### Learn more
 
-- [Defining the order of kit look products](https://help.vtex.com/en/tutorial/how-to-define-the-order-of-lookkit--frequentlyAskedQuestions_621)
+- [Defining the order of kit look products](/en/tutorial/how-to-define-the-order-of-lookkit--frequentlyAskedQuestions_621)

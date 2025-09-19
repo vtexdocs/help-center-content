@@ -29,7 +29,7 @@ Al hacer clic en el nombre de la cuenta deseada, el nombre y el correo electrón
 
 Entre las acciones que sólo el usuario Titular puede tomar, están:
 - Reindexar el catálogo.
-- Eliminar categorías, productos, SKUs y marcas a través del [fullcleanup](https://help.vtex.com/es/tutorial/limpiar-base-de-datos-de-la-tienda).
+- Eliminar categorías, productos, SKUs y marcas a través del [fullcleanup](/es/tutorial/limpiar-base-de-datos-de-la-tienda).
 - Autorizar integraciones con algunos marketplaces, como Mercado Libre.
 
 Además, cuando VTEX necesita comunicar informaciones sensibles a la tienda, como cambios en los perfiles de acceso, esta comunicación se realiza directa y exclusivamente con el usuario Titular.

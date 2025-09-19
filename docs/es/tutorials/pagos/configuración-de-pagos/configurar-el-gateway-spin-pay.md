@@ -34,7 +34,7 @@ Posteriormente, Spin Pay estará listo para procesar pagos en su tienda. Realice
 
 ### Configurar condición de pago
 
-Cuando el gateway está instalado en su tienda, debe configurar la [condición de pago](https://help.vtex.com/es/tutorial/condicoes-de-pagamento--tutorials_455?&utm_source=autocomplete) para que los pagos se procesen correctamente. 
+Cuando el gateway está instalado en su tienda, debe configurar la [condición de pago](/es/tutorial/condicoes-de-pagamento--tutorials_455?&utm_source=autocomplete) para que los pagos se procesen correctamente. 
 
 1. Acceda al __Admin__ VTEX.
 2. Acceda al módulo __Pagos__.

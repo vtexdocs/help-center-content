@@ -43,6 +43,6 @@ VTEX is already in charge of ensuring a smooth and fluid shopping experience unt
 
 To use Lendico’s boleto installment, you’ll need to contact them by e-mail: bizdev@lendico.com.br and sign a business partnership. Then it will be possible to make the necessary configurations in the VTEX environment.
 
-You can check the article with all steps in our Help Center Setting up Lendico ["boleto" in installments as a payment method](https://help.vtex.com/en/tutorial/configurar-boleto-parcelado-lendico-como-meio-de-pagamento--1pRpPlkppLDEc1TVXTgrcu?&utm_source=autocomplete).
+You can check the article with all steps in our Help Center Setting up Lendico ["boleto" in installments as a payment method](/en/tutorial/configurar-boleto-parcelado-lendico-como-meio-de-pagamento--1pRpPlkppLDEc1TVXTgrcu?&utm_source=autocomplete).
 
 For more information about Lendico, please visit: https://lendico.com.br/boleto-parcelado-varejista 

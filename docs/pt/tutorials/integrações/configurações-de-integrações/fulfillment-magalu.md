@@ -15,13 +15,13 @@ locale: pt
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 ---
 
-Ao finalizar a [integração](https://help.vtex.com/pt/tracks/configurar-integracao-com-o-magazine-luiza--5Yx5IrNa7Y48c6aSC8wu2Y/3tZ4qVuMDDsC2jx2DCmjdA) de uma loja VTEX com o Magalu, um seller poderá compartilhar produtos, gerenciar os pedidos realizados no marketplace, as atualizações de preços e produtos, pontos de retirada e o inventário dos produtos em um só lugar.
+Ao finalizar a [integração](/pt/tracks/configurar-integracao-com-o-magazine-luiza--5Yx5IrNa7Y48c6aSC8wu2Y/3tZ4qVuMDDsC2jx2DCmjdA) de uma loja VTEX com o Magalu, um seller poderá compartilhar produtos, gerenciar os pedidos realizados no marketplace, as atualizações de preços e produtos, pontos de retirada e o inventário dos produtos em um só lugar.
 
 Além da integração básica, lojistas VTEX podem integrar com o [**Fulfillment Magalu**](https://unimagalu.com.br/full/), que é um serviço disponível a lojistas que já vendem no Magalu Marketplace. Este serviço disponibiliza a operação de armazenamento e entrega do Magalu para seus produtos mais vendidos no marketplace.  
 
 > ⚠️ Somente os produtos mais vendidos de uma loja, podem ser configurados com a opção de venda pelo Fulfillment Magalu.
 
-Todos os pedidos do tipo __Fulfillment Magalu__ podem ser acompanhados na tela de [Pedidos](https://help.vtex.com/pt/tutorial/todos-os-pedidos--2QTduKHAJMFIZ3BAsi6Pi) do Admin VTEX. O status desses pedidos são atualizados pelo Magalu Marketplace.
+Todos os pedidos do tipo __Fulfillment Magalu__ podem ser acompanhados na tela de [Pedidos](/pt/tutorial/todos-os-pedidos--2QTduKHAJMFIZ3BAsi6Pi) do Admin VTEX. O status desses pedidos são atualizados pelo Magalu Marketplace.
 
 A integração do __Fulfillment Magalu__ é realizada em duas etapas. A primeira no [Portal do Magalu Marketplace](https://id-b2b.magazineluiza.com.br/auth/realms/B2B/protocol/openid-connect/auth?client_id=IntegraCommerceSellerAdmin&redirect_uri=https%3A%2F%2Fmarketplace.integracommerce.com.br%2Fsignin-oidc&response_type=code&scope=openid%20profile&code_challenge=LErEEj7Fo5Co8kOL4VDcRAeUVe2_hBSAf6XWp8Yi73Q&code_challenge_method=S256&response_mode=form_post&nonce=638370459880846758.NmY3MDExZTktZjNkYS00MzdkLWJhYTgtYzQ5NTkwODFmMWMzZTQwYTkzZmEtNmIwYS00YzY0LWI3OGUtMjU0N2UwZjY1ZjBm&state=CfDJ8DRkmEyrufZLvRHl0B2Huu7ARClKg-kKgAsabRC2I3CtY-Lj13FW-3H6S_acQCTyqkPti4gubm7t1KrgKRP1sXinoXungxBiDW13Zm6pVwAy4omo7a4HHmnptzufXd1mfk5_Srcu7MuRUNCjWBFuHadXUitLTldPanEbhMIHXgOBVjVdlvaZx8e7z2nomNUOGYLwbkNrLA2LeVDyvuEA9_8bGoMBgyyom4758NUzlG6Mx2CuQA3ZXnu83jDjikNyJXcGWHCLG6K8xqfptz9mIjoQeDzCDNxLolol3H0CikIh1O1rPxVHRNxL8-xT_3GhGtpL8w2ZjhwiPbn8frTZgaGvgyzGJq-dI9u49Uksbye6QLvesWt_uBXy9b-77BHbf7wlEDkG8dwtkkE3mzV_Ubc&x-client-SKU=ID_NETSTANDARD2_0&x-client-ver=6.8.0.0) e a segunda no Admin VTEX. Veja abaixo as etapas.
 
@@ -47,20 +47,20 @@ Com a funcionalidade Fulfillment Magalu configurada no Portal do Magalu Marketpl
 
 Configure a loja conforme os passos abaixo:
 
-__1. Cadastre Política de Envio:__ a nova [Política de Envio](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140) deve cumprir os seguintes requisitos:
+__1. Cadastre Política de Envio:__ a nova [Política de Envio](/pt/tutorial/politica-de-envio--tutorials_140) deve cumprir os seguintes requisitos:
 
 - Ser exclusiva para o Fulfillment Magalu.  
 - Abranger todos os CEPs do país.  
 - Ser aplicável a todos os dias da semana.  
 
-Siga o tutorial para [Cadastrar uma Política de Envio](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140#cadastrar-uma-politica-de-envio).  
+Siga o tutorial para [Cadastrar uma Política de Envio](/pt/tutorial/politica-de-envio--tutorials_140#cadastrar-uma-politica-de-envio).  
 
-__2. Cadastre uma Doca:__ para cadastrar nova Doca, siga o tutorial [Gerenciar Doca](https://help.vtex.com/pt/tutorial/managing-loading-docks--7K3FultD8I2cuuA6iyGEiW#cadastrar).  
-__3. Cadastre um Estoque:__ o estoque dos produtos disponibilizados com a opção Fulfillment Magalu é gerenciado pela Magalu, mas o gerenciamento de inventário é realizado pelo seller. Siga o tutorial [Gerenciar Estoque](https://help.vtex.com/pt/tutorial/gerenciar-estoque--tutorials_137#cadastrar-estoque) para cadastrar um novo.  
+__2. Cadastre uma Doca:__ para cadastrar nova Doca, siga o tutorial [Gerenciar Doca](/pt/tutorial/managing-loading-docks--7K3FultD8I2cuuA6iyGEiW#cadastrar).  
+__3. Cadastre um Estoque:__ o estoque dos produtos disponibilizados com a opção Fulfillment Magalu é gerenciado pela Magalu, mas o gerenciamento de inventário é realizado pelo seller. Siga o tutorial [Gerenciar Estoque](/pt/tutorial/gerenciar-estoque--tutorials_137#cadastrar-estoque) para cadastrar um novo.  
 
 ### Configuração dos SKUs
 
-Para disponibilizar produtos com Fulfillment Magalu, você deve aplicar uma especificação de produto. Siga o tutorial [Cadastrar especificações ou campos de produto](https://help.vtex.com/pt/tutorial/cadastrar-especificacoes-ou-campos-de-produto--tutorials_106#tipos-de-campo-de-produto) e preencha as informações conforme a tabela abaixo.
+Para disponibilizar produtos com Fulfillment Magalu, você deve aplicar uma especificação de produto. Siga o tutorial [Cadastrar especificações ou campos de produto](/pt/tutorial/cadastrar-especificacoes-ou-campos-de-produto--tutorials_106#tipos-de-campo-de-produto) e preencha as informações conforme a tabela abaixo.
 
 | **Campo** | **Como preencher** |
 |:---:|:---:|

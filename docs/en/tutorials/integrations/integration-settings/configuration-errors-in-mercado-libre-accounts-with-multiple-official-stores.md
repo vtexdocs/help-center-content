@@ -17,7 +17,7 @@ subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 
 > ℹ️ If you have official stores in Mercado Libre, this documentation may be relevant. Mercado Libre has its own parameters to certify sellers as official stores. For more information, please contact your Mercado Libre consultant.
 
-When a [seller](https://help.vtex.com/en/tutorial/o-que-e-um-seller--5FkLvhZ3Few4CWWIuYOK2w) integrates their [subaccounts](https://help.vtex.com/en/tutorial/o-que-e-store-name--3gh9mTNeMgs6Qe44e8IqQK?&utm_source=autocomplete) with a Mercado Libre user’s official stores, it may cause an error in product import.
+When a [seller](/en/tutorial/o-que-e-um-seller--5FkLvhZ3Few4CWWIuYOK2w) integrates their [subaccounts](/en/tutorial/o-que-e-store-name--3gh9mTNeMgs6Qe44e8IqQK?&utm_source=autocomplete) with a Mercado Libre user’s official stores, it may cause an error in product import.
 
 This article aims to help users solve this problem. 
 

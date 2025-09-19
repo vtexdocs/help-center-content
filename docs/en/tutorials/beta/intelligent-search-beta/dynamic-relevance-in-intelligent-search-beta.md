@@ -37,7 +37,7 @@ Manual relevance is configured by distributing the weights on the **Relevance Ru
 ![relevancia-manual-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/intelligent-search-beta/dynamic-relevance-in-intelligent-search-beta_1.png)
 3. Click `Save`.
 
-To configure manual relevance, see the [Relevance](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1qlObWIib6KqgrfX1FCOXS) article.
+To configure manual relevance, see the [Relevance](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1qlObWIib6KqgrfX1FCOXS) article.
 
 ## Dynamic relevance
 

@@ -54,8 +54,8 @@ No action is required. The improvements are automatically applied to the new for
 
 For more information, check the following articles:
 
-- [Buy Together](https://help.vtex.com/en/tutorial/compre-junto--tutorials_323)
-- [Buy One Get One](https://help.vtex.com/en/tutorial/compre-e-ganhe--tutorials_322)
-- [Progressive discount](https://help.vtex.com/en/tutorial/desconto-progressivo--tutorials_324)
-- [More for Less](https://help.vtex.com/en/tutorial/leve-mais-por-menos--tutorials_325)
+- [Buy Together](/en/tutorial/compre-junto--tutorials_323)
+- [Buy One Get One](/en/tutorial/compre-e-ganhe--tutorials_322)
+- [Progressive discount](/en/tutorial/desconto-progressivo--tutorials_324)
+- [More for Less](/en/tutorial/leve-mais-por-menos--tutorials_325)
 

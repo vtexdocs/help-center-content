@@ -31,4 +31,4 @@ Ampliamos o limite de pedidos exportados para atender melhor a lojistas que nece
 
 Nenhuma ação é necessária, a alteração será implementada automaticamente em todas as lojas VTEX.
 
-Para saber como funciona a exportação de pedidos, leia o artigo [Exportação de pedidos no Gerenciamento de pedidos](https://help.vtex.com/tutorial/exportando-pedidos-no-gerenciamento-de-pedidos--tutorials_6417).
+Para saber como funciona a exportação de pedidos, leia o artigo [Exportação de pedidos no Gerenciamento de pedidos](/tutorial/exportando-pedidos-no-gerenciamento-de-pedidos--tutorials_6417).

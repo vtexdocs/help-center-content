@@ -44,7 +44,7 @@ Nesta seção, você pode definir o tipo de estratégia de separação que desej
 
 Nesta seção, você pode definir ações sobre a alteração de um pedido, por falta de itens, por exemplo.
 
-* **Enviar alterações para o OMS:** permite enviar as alterações feitas pelo separador para o [OMS](https://help.vtex.com/pt/tutorial/gerenciamento-de-pedidos-visao-geral--tutorials_201#) da VTEX. Você pode ativar <i class="fas fa-toggle-on"></i> ou desativar <i class="fas fa-toggle-off"></i> a opção.
+* **Enviar alterações para o OMS:** permite enviar as alterações feitas pelo separador para o [OMS](/pt/tutorial/gerenciamento-de-pedidos-visao-geral--tutorials_201#) da VTEX. Você pode ativar <i class="fas fa-toggle-on"></i> ou desativar <i class="fas fa-toggle-off"></i> a opção.
 * **Permitir alterar os preços dos itens:** permite o separador alterar os preços dos itens de um pedido. Você pode ativar <i class="fas fa-toggle-on"></i> ou desativar <i class="fas fa-toggle-off"></i> a opção.
 * **Permitir substituição de itens:** permite o separador substituir itens do pedido que estavam indisponíveis. Você pode ativar <i class="fas fa-toggle-on"></i> ou desativar <i class="fas fa-toggle-off"></i> a opção.
 * **Permitir recusar itens:** permite o separador a recusar itens do pedido que estejam indisponíveis. Você pode ativar <i class="fas fa-toggle-on"></i> ou desativar <i class="fas fa-toggle-off"></i> a opção.
@@ -157,7 +157,7 @@ Nesta seção, você deve cadastrar os tipos de envelopes que serão utilizados 
    * **Tipo:** tipo do envelope. Os tipos possíveis de envelopes são **Caixa, Sacola, Envelopes, Fita, Papel, Outros**.
    * **Descrição:** descrição do envelope para uso interno.
    * **Código:** código identificador do envelope.
-   * **Peso cúbico:** [peso cúbico](https://help.vtex.com/pt/tutorial/como-o-peso-cubado-e-calculado--tutorials_128) do envelope. 
+   * **Peso cúbico:** [peso cúbico](/pt/tutorial/como-o-peso-cubado-e-calculado--tutorials_128) do envelope. 
    * **Altura:** altura do envelope em milímetros. 
    * **Comprimento:** comprimento do envelope em milímetros.
    * **Peso:** peso do envelope em milímetros.

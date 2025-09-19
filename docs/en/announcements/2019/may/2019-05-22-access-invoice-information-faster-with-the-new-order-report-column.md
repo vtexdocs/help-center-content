@@ -19,7 +19,7 @@ In order to facilitate your access to important information related to your oper
 
  ## What has changed
 
-The new report column let’s you view order invoices through the [order management module](https://help.vtex.com/en/tutorial/oms-page-structure--2dDZmUUFXWeyQ4s2gqiY0A) interface, which was previously only possible through the [Get Order API](https://developers.vtex.com/reference/orders#getorder).
+The new report column let’s you view order invoices through the [order management module](/en/tutorial/oms-page-structure--2dDZmUUFXWeyQ4s2gqiY0A) interface, which was previously only possible through the [Get Order API](https://developers.vtex.com/reference/orders#getorder).
 
  ## Main advantages 
 
@@ -29,5 +29,5 @@ This means that the `Invoice Number` field will always display all existing invo
 
  ## What I need to do
 
-The new report column is already enabled in all VTEX accounts, no further action being warranted. For more on how the orders report works, access our article on [exporting orders in the Order Management module](https://help.vtex.com/en/tutorial/exporting-orders-in-orders-managment--tutorials_6417).
+The new report column is already enabled in all VTEX accounts, no further action being warranted. For more on how the orders report works, access our article on [exporting orders in the Order Management module](/en/tutorial/exporting-orders-in-orders-managment--tutorials_6417).
 

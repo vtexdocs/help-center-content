@@ -15,13 +15,13 @@ trackSlugEN: configurar-integracion-con-mercado-libre
 order: 10
 ---
 
-Al realizar la [integración con Mercado Libre](https://help.vtex.com/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq), el seller envía al marketplace los anuncios que desea vender en la plataforma. De este modo, Mercado Libre ofrece al seller oportunidades de match con anuncios de tipo **catálogo**, que pueden ocupar un espacio resaltado en el marketplace.
+Al realizar la [integración con Mercado Libre](/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq), el seller envía al marketplace los anuncios que desea vender en la plataforma. De este modo, Mercado Libre ofrece al seller oportunidades de match con anuncios de tipo **catálogo**, que pueden ocupar un espacio resaltado en el marketplace.
 
 Antes de continuar, es importante familiarizarse con las definiciones específicas de la funcionalidad **Match de anuncios de Mercado Libre** descritas a continuación:  
 
 | **Término** | **Significado** |
 |:---:|:---:|
-| **Anuncios** | Un anuncio es un [SKU](https://help.vtex.com/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3mJbIqMlz6oKDmyZ2bKJoA) de un seller enviado al marketplace con precio y stock configurados. |
+| **Anuncios** | Un anuncio es un [SKU](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3mJbIqMlz6oKDmyZ2bKJoA) de un seller enviado al marketplace con precio y stock configurados. |
 | **Catálogo Mercado Libre** | Anuncio preexistente en Mercado Libre que permite al seller vincular su producto y mejorar su visibilidad. |
 | **Oportunidades** | Una **oportunidad** es un producto del seller que se puede vincular a un producto del catálogo de Mercado Libre. El objetivo de la oportunidad es proporcionar al seller una herramienta que pueda realizar la asociación entre los productos. |
 

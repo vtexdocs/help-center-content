@@ -33,5 +33,5 @@ Essa aprovação pode ser feita manualmente no módulo Pedidos, conforme abaixo.
 
 Para aprovar o pagamento por API, veja a [documentação da chamada de notificação de pagamento](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/payments/-paymentId-/payment-notification).
 
-> ⚠️ Como [integrações com ERPs](https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide) são regidas pelo [fluxo de pedidos](https://help.vtex.com/pt/tutorial/fluxo-e-status-de-pedidos--tutorials_196#), a aprovação manual de um pagamento dará continuidade à integração deste pedido com o back office da loja normalmente. Portanto recomenda-se cautela ao aprovar pagamentos manualmente, de modo a garantir o recebimento por cada pedido que é processado e enviado.
+> ⚠️ Como [integrações com ERPs](https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide) são regidas pelo [fluxo de pedidos](/pt/tutorial/fluxo-e-status-de-pedidos--tutorials_196#), a aprovação manual de um pagamento dará continuidade à integração deste pedido com o back office da loja normalmente. Portanto recomenda-se cautela ao aprovar pagamentos manualmente, de modo a garantir o recebimento por cada pedido que é processado e enviado.
 

@@ -19,9 +19,9 @@ Nosso suporte a clientes VTEX agora inclui um bot que utiliza inteligência arti
 
 ### O que mudou?
 
-Ao abrir um [chamado de atendimento](https://help.vtex.com/pt/support) do tipo Técnico, você terá acesso a uma nova tela de conversação em tempo real com o bot VTEX, onde poderá tirar as suas dúvidas sobre a plataforma. O bot oferece **suporte para múltiplos idiomas**, e foi treinado com a base de conhecimento disponível pela VTEX, como nosso [Help Center](https://help.vtex.com/).
+Ao abrir um [chamado de atendimento](/pt/support) do tipo Técnico, você terá acesso a uma nova tela de conversação em tempo real com o bot VTEX, onde poderá tirar as suas dúvidas sobre a plataforma. O bot oferece **suporte para múltiplos idiomas**, e foi treinado com a base de conhecimento disponível pela VTEX, como nosso [Help Center](https://newhelp.vtex.com/).
 
-Mesmo com essa novidade, ainda é possível **continuar o atendimento com nosso time de especialistas do Suporte**, seguindo os SLAs definidos na [política de atendimento de sua região](https://help.vtex.com/pt/faq/como-funciona-o-suporte-da-vtex--3kACEfni4m8Yxa1vnf2ebe#planos-de-suporte).
+Mesmo com essa novidade, ainda é possível **continuar o atendimento com nosso time de especialistas do Suporte**, seguindo os SLAs definidos na [política de atendimento de sua região](/pt/faq/como-funciona-o-suporte-da-vtex--3kACEfni4m8Yxa1vnf2ebe#planos-de-suporte).
 
 ### Disponibilidade limitada em versão beta
 

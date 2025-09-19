@@ -22,11 +22,11 @@ Os anúncios enviados aos marketplaces não serão afetados e ainda é possível
 ## O que mudou?
 
 Removemos do módulo de Gerenciamento de anúncios a possibilidade de acompanhar o status e a sincronização dos anúncios enviados a um marketplace.
-Permanece disponível as funcionalidades de [Moderação](https://help.vtex.com/pt/tutorial/gerenciamento-de-anuncios-moderacao-e-qualidade-dos-anuncios-do-mercado--xSbPzA41jiWPAorlBCEA4?&utm_source=autocomplete#moderacao), [Qualidade de anúncios](https://help.vtex.com/pt/tutorial/gerenciamento-de-anuncios-moderacao-e-qualidade-dos-anuncios-do-mercado--xSbPzA41jiWPAorlBCEA4?&utm_source=autocomplete#qualidade) e [Oportunidades de Catálogo MeLi](https://help.vtex.com/pt/tutorial/anuncios-enviados-oportunidades-de-buybox--1hO9eI1th47EGxQoTzGewC) até a data de 15 de dezembro de 2023, apenas para anúncios vinculados à [integração do Mercado Livre](https://help.vtex.com/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/51oWBHvVxSs8eAwLQhSbSd), acessando **Marketplace > Mercado Livre > Gerenciamento de anúncios.**
+Permanece disponível as funcionalidades de [Moderação](/pt/tutorial/gerenciamento-de-anuncios-moderacao-e-qualidade-dos-anuncios-do-mercado--xSbPzA41jiWPAorlBCEA4?&utm_source=autocomplete#moderacao), [Qualidade de anúncios](/pt/tutorial/gerenciamento-de-anuncios-moderacao-e-qualidade-dos-anuncios-do-mercado--xSbPzA41jiWPAorlBCEA4?&utm_source=autocomplete#qualidade) e [Oportunidades de Catálogo MeLi](/pt/tutorial/anuncios-enviados-oportunidades-de-buybox--1hO9eI1th47EGxQoTzGewC) até a data de 15 de dezembro de 2023, apenas para anúncios vinculados à [integração do Mercado Livre](/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/51oWBHvVxSs8eAwLQhSbSd), acessando **Marketplace > Mercado Livre > Gerenciamento de anúncios.**
 
 ## O que precisa ser feito?
 
 Essa atualização é automática, não é necessário realizar nenhuma ação. A partir da data indicada acima o módulo será completamente descontinuado de todos os Admin VTEX.
 
-> ℹ️ Em breve teremos um módulo substituto para o Gerenciador de anúncios, acompanhe as novidades no [Developer portal na página de release notes](https://developers.vtex.com/updates/release-notes) e [VTEX Help Center na página de novidades](https://help.vtex.com/pt/en/announcements).
+> ℹ️ Em breve teremos um módulo substituto para o Gerenciador de anúncios, acompanhe as novidades no [Developer portal na página de release notes](https://developers.vtex.com/updates/release-notes) e [VTEX Help Center na página de novidades](/pt/en/announcements).
 

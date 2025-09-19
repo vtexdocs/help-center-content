@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 2Za4fjGfxYOo6oqykukgyy
 ---
 
-An online store must have a single main address [pointing to VTEX's servers](https://help.vtex.com/en/tracks/go-live-your-store--4Ns5FxIiksmjsdX2yOTduM/7sM5IMx02zaHvAFTm0OxiJ) before the store is officially launched. Read the [Configuring the store domain](https://help.vtex.com/en/tutorial/configure-the-store-domain--tutorials_2450) article to understand the rules the address must comply with and the process for adding it.
+An online store must have a single main address [pointing to VTEX's servers](/en/tracks/go-live-your-store--4Ns5FxIiksmjsdX2yOTduM/7sM5IMx02zaHvAFTm0OxiJ) before the store is officially launched. Read the [Configuring the store domain](/en/tutorial/configure-the-store-domain--tutorials_2450) article to understand the rules the address must comply with and the process for adding it.
 
 To allow access to the store through other addresses and versions without a subdomain, you need to configure these addresses to redirect to the store's main address, which is listed in **Account settings > Account > Stores** in the VTEX Admin. See examples below:
 
@@ -49,7 +49,7 @@ To visit your store from an address without subdomains, such as `www`, you need 
   |---|---|---|
   | Host Record: redirect | Type: CNAME | To: www.mysite.com.redirect.center |
 
-Learn more about such situations in [Best practices for accessing the store without www](https://help.vtex.com/en/tutorial/best-practices-for-accessing-the-store-without-www--tutorials_4278).
+Learn more about such situations in [Best practices for accessing the store without www](/en/tutorial/best-practices-for-accessing-the-store-without-www--tutorials_4278).
 
 Depending on the DNS provider, redirect propagation may take a few minutes to complete.
 
@@ -75,5 +75,5 @@ In [Redirect Center](http://redirect.center/), you cannot install an SSL certifi
 
 To deal with this limitation, consider the following aspects:
 
-1. If the source domain does not have a subdomain, such as `site.com`, point it to a server managed by the store itself, i.e., a physical or virtual server managed by the user or company itself. This server must have an **SSL certificate installed for the source domain**, enabling secure access via HTTPS. Read the[ Security certificate (SSL)](https://help.vtex.com/en/tutorial/hiring-the-security-certificate-sll--tutorials_1308) article for more information.
+1. If the source domain does not have a subdomain, such as `site.com`, point it to a server managed by the store itself, i.e., a physical or virtual server managed by the user or company itself. This server must have an **SSL certificate installed for the source domain**, enabling secure access via HTTPS. Read the[ Security certificate (SSL)](/en/tutorial/hiring-the-security-certificate-sll--tutorials_1308) article for more information.
 2. Define a **redirect rule**. To use a self-managed server to redirect HTTPS traffic, you must define a redirect rule on the server, which can vary depending on the type of server used (Apache, ASP, nginx). Therefore, to configure this rule, you must know which server type is being used and apply the corresponding settings.

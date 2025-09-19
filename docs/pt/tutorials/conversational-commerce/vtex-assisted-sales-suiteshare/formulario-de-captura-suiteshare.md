@@ -19,7 +19,7 @@ Com o Formulário de Captura, todos os clientes que iniciam uma conversa via Wha
 
 E o melhor de tudo, é que esses mesmos dados podem ser integrados com ferramentas de CRM ou automação de email marketing.
 
-Para criar um formulário de Captura é preciso ter o link criado, se você não criou ainda [acesse nosso artigo sobre links](https://help.vtex.com/pt/tutorial/links--7h7YXPFovF2k5z6ZSZs5WB). 
+Para criar um formulário de Captura é preciso ter o link criado, se você não criou ainda [acesse nosso artigo sobre links](/pt/tutorial/links--7h7YXPFovF2k5z6ZSZs5WB). 
 
 Acesse o painel do **VTEX Assisted Sales (SuiteShare)** e clique em _**“Capturar”**_.
 

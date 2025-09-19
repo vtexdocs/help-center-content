@@ -27,5 +27,5 @@ Ej.: los 3 primeros ciclos son gratuitos y el cliente solo paga a partir del cua
 - Campaña de renovación de suscripción;
 - Renovación de compras.
 
-[Vea cómo utilizar la promoción de suscripción. ](https://help.vtex.com/es/tutorial/como-utilizar-la-promocion-por-suscripcion)
+[Vea cómo utilizar la promoción de suscripción. ](/es/tutorial/como-utilizar-la-promocion-por-suscripcion)
 

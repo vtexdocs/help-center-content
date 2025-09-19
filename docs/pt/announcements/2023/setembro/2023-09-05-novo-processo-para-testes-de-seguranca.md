@@ -23,12 +23,12 @@ Se necessário, você pode realizar um teste de penetração por conta própria 
 
 De maneira resumida, o novo processo para realizar testes de penetração consiste em:
 
-1. Solicitar o agendamento de um teste pelo [Suporte](https://help.vtex.com/pt/support) da VTEX.
+1. Solicitar o agendamento de um teste pelo [Suporte](/pt/support) da VTEX.
 2. Revisar e assinar o [acordo de confidencialidade](https://assets.ctfassets.net/alneenqid6w5/5iw8rN7CdSn7PHKvMMcO19/ab46ae4025d506e052dcef5974f9007f/Pentest_NDA_.zip) antes de executar qualquer teste.
 3. Após a conclusão do teste, compartilhar os resultados com a equipe de segurança da VTEX.
 
-Confira informações detalhadas sobre esse procedimento no guia [Testes de penetração e avisos de vulnerabilidade](https://help.vtex.com/pt/tutorial/testes-de-penetracao-e-aviso-de-vulnerabilidade--6jodF6s1I50Fg84ZwutOCb).
+Confira informações detalhadas sobre esse procedimento no guia [Testes de penetração e avisos de vulnerabilidade](/pt/tutorial/testes-de-penetracao-e-aviso-de-vulnerabilidade--6jodF6s1I50Fg84ZwutOCb).
 
 ## Por que fizemos essa mudança?
 
-Atualizamos o procedimento de testes de penetração para garantir a segurança da plataforma e a realização de verificações de forma segura, impedindo [procedimentos não permitidos](https://help.vtex.com/pt/tutorial/testes-de-penetracao-e-aviso-de-vulnerabilidade--6jodF6s1I50Fg84ZwutOCb#procedimentos-nao-permitidos) e ações que possam prejudicar nossos clientes.
+Atualizamos o procedimento de testes de penetração para garantir a segurança da plataforma e a realização de verificações de forma segura, impedindo [procedimentos não permitidos](/pt/tutorial/testes-de-penetracao-e-aviso-de-vulnerabilidade--6jodF6s1I50Fg84ZwutOCb#procedimentos-nao-permitidos) e ações que possam prejudicar nossos clientes.

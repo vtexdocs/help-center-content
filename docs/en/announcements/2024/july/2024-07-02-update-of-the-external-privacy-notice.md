@@ -36,4 +36,4 @@ We updated the Privacy Notice to align with legislation and our global privacy c
 
 ## What needs to be done?
 
-No action is required. The document is now available in all languages on the VTEX website. For more information, you can access the new [External Privacy Notice](https://vtex.com/us-en/privacy-and-agreements/external-notice/) and the getting started guide [Data and privacy](https://help.vtex.com/en/tracks/data-and-privacy--4Lc0i0an0DgnEtB0AUwlcq).
+No action is required. The document is now available in all languages on the VTEX website. For more information, you can access the new [External Privacy Notice](https://vtex.com/us-en/privacy-and-agreements/external-notice/) and the getting started guide [Data and privacy](/en/tracks/data-and-privacy--4Lc0i0an0DgnEtB0AUwlcq).

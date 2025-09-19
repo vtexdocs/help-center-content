@@ -22,7 +22,7 @@ To access the Audit page in the VTEX Admin, go to **Apps > Installed Apps > Audi
 * [Query events in Audit](#querying-events-in-audit)
 * [View the last queries in Audit](#viewing-the-last-queries-in-audit)
 
-> ℹ️ To view Audit events, you must have a [role](https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) associated with the *Insights Metrics*  [resource](https://help.vtex.com/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3).
+> ℹ️ To view Audit events, you must have a [role](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) associated with the *Insights Metrics*  [resource](/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3).
 
 ![audit-ui-en (1)](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/security/platform-security-resources/audit_1.png)
 
@@ -40,7 +40,7 @@ Follow the instructions to search for an event using the filters available in Au
 
    > ℹ️ Only records from the last 3 months are stored.
 
-4. If you wish, add a filter by Action. To do this, in the field next to `Action` **must be**, type the name of the action and press `Enter`. You can enter more than one value by pressing `Enter` after each selection. Check the name of each action in [Events available in Audit](https://help.vtex.com/en/tutorial/events-available-in-audit--6r1Mzcu5NmkmmDLJlz9CCZ).
+4. If you wish, add a filter by Action. To do this, in the field next to `Action` **must be**, type the name of the action and press `Enter`. You can enter more than one value by pressing `Enter` after each selection. Check the name of each action in [Events available in Audit](/en/tutorial/events-available-in-audit--6r1Mzcu5NmkmmDLJlz9CCZ).
 5. If necessary, you can add specific filters to search for events more accurately. To do this, click the `Add Filter` button.
 5. Select the filter parameter (_Author_ or _Event Details_) and enter the value to which the parameter should be compared.
 
@@ -66,8 +66,8 @@ The **Results** section lists all events found in the query and displays informa
 |---|---|
 | __Copy__ | Button to copy the event information displayed in the table to the clipboard. |
 | __Event Time__ | Date and time of the event, displayed in the browser or operating system timezone. |
-| __Action__ | Action performed in the selected application for the query. Check the possible actions in the [list of events available in Audit](https://help.vtex.com/en/tutorial/events-available-in-audit--6r1Mzcu5NmkmmDLJlz9CCZ). |
-| __Event Details__ | Additional information about the event. Check the details displayed for each event in the [list of events available in Audit](https://help.vtex.com/en/tutorial/events-available-in-audit--6r1Mzcu5NmkmmDLJlz9CCZ). |
+| __Action__ | Action performed in the selected application for the query. Check the possible actions in the [list of events available in Audit](/en/tutorial/events-available-in-audit--6r1Mzcu5NmkmmDLJlz9CCZ). |
+| __Event Details__ | Additional information about the event. Check the details displayed for each event in the [list of events available in Audit](/en/tutorial/events-available-in-audit--6r1Mzcu5NmkmmDLJlz9CCZ). |
 | __Author__ | Email, ID, or token of the user who performed the event. |
 | __More Details__ | Button that opens a modal with more information about the event, when applicable. The details displayed may include: <ul><li class="t-body mb5 lh-copy">**Entity name:** The ID of the entity that was changed.</li><li class="t-body mb5 lh-copy">**Entity before action:** dInformation about the entity before the event, in [JSON](http://www.json.org/) format.</li><li class="t-body mb5 lh-copy">**Entity after action:** Information about the entity after the event, in [JSON](http://www.json.org/) format.</li></ul>Depending on the event, not all the information above is displayed. For example, an event that deleted information only displays the entity before the action. In contrast, an event that added information only displays the entity after the action. <br /><br /> Some events have no additional information. In such cases, the modal is left blank. |
 

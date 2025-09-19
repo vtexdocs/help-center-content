@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 1TIJqw8kV2Yok4iQe4SAkq
 ---
 
-Este guia tem como objetivo responder as perguntas mais frequentes sobre como utilizar os [dashboards do Admin VTEX](https://help.vtex.com/pt/subcategory/visao-geral-do-insights--1TIJqw8kV2Yok4iQe4SAkq) durante a Black Week.
+Este guia tem como objetivo responder as perguntas mais frequentes sobre como utilizar os [dashboards do Admin VTEX](/pt/subcategory/visao-geral-do-insights--1TIJqw8kV2Yok4iQe4SAkq) durante a Black Week.
 
 - [Qual a melhor forma de acompanhar meu ecommerce durante a Black Week no Admin VTEX?](#qual-a-melhor-forma-de-acompanhar-meu-ecommerce-durante-a-black-week-no-admin-vtex)
 - [Como acompanhar meus dados de ecommerce além do dia de hoje?](#como-acompanhar-meus-dados-de-ecommerce-alem-do-dia-de-hoje)
@@ -74,7 +74,7 @@ Para visualizar os produtos mais vendidos, no quadro de **Métricas,** clique no
 
 ## Como acompanhar meus dados de ecommerce além do dia de hoje?
 
-Para um acompanhamento diário da operação do seu ecommerce, o [dashboard de Performance de vendas da VTEX](https://help.vtex.com/pt/tutorial/performance-de-vendas--3DMube0sEsK9vPcRYGas72) é a ferramenta indicada. Sua taxa de atualização é de cerca de 90 minutos e ele fornece um histórico de dados mais extenso. Veja nos pontos abaixo como maximizar seu uso.  
+Para um acompanhamento diário da operação do seu ecommerce, o [dashboard de Performance de vendas da VTEX](/pt/tutorial/performance-de-vendas--3DMube0sEsK9vPcRYGas72) é a ferramenta indicada. Sua taxa de atualização é de cerca de 90 minutos e ele fornece um histórico de dados mais extenso. Veja nos pontos abaixo como maximizar seu uso.  
 
 ### Filtros
 - **Data**  
@@ -174,7 +174,7 @@ Como resultado, se você opera com mais de uma moeda, é importante somar o tota
 
 ## Por que o número de pedidos da análise de funil de vendas não bate com o da parte de Monitoramento?
 
-Para entender essa diferença, é essencial saber que as métricas de monitoramento na Visão geral em tempo real são geradas a partir de dados do nosso [Sistema de Gerenciamento de Pedidos (OMS)](https://help.vtex.com/pt/subcategory/visao-geral-de-pedidos--3VNOhxDrvYxJThhuJClrYZ). O OMS contém informações sobre todos os diferentes tipos de pedidos da loja, incluindo vendas de marketplaces, vendas diretas, aplicativos, entre outros.  
+Para entender essa diferença, é essencial saber que as métricas de monitoramento na Visão geral em tempo real são geradas a partir de dados do nosso [Sistema de Gerenciamento de Pedidos (OMS)](/pt/subcategory/visao-geral-de-pedidos--3VNOhxDrvYxJThhuJClrYZ). O OMS contém informações sobre todos os diferentes tipos de pedidos da loja, incluindo vendas de marketplaces, vendas diretas, aplicativos, entre outros.  
 
 Por outro lado, os dados do funil de vendas são coletados da base de navegação do site, que captura exclusivamente os dados de vendas realizadas dentro da loja online do cliente. Isso significa que vendas realizadas em marketplaces ou em outras lojas que não utilizam o storefront da VTEX não são contabilizadas neste funil.  
 

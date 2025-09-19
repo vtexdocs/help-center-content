@@ -17,7 +17,7 @@ announcementSynopsisPT: 'Os filtros de busca do VTEX Intelligent Search agora es
 
 O inStore é um dos principais produtos da VTEX para operações de Comércio Unificado. Ele é um aplicativo que permite à sua loja oferecer uma experiência omnichannel real, integrando seus canais online e físicos e colocando seus clientes no centro do negócio.
 
-Agora, os vendedores da sua loja física podem utilizar filtros durante a busca por produtos no inStore, caso tenham o [VTEX Intelligent Search](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG) habilitado. Com esse recurso, a busca na Prateleira Infinita do inStore se torna mais dinâmica e precisa, agilizando as vendas.
+Agora, os vendedores da sua loja física podem utilizar filtros durante a busca por produtos no inStore, caso tenham o [VTEX Intelligent Search](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG) habilitado. Com esse recurso, a busca na Prateleira Infinita do inStore se torna mais dinâmica e precisa, agilizando as vendas.
 
 ## O que mudou?
 
@@ -33,12 +33,12 @@ O objetivo dessa funcionalidade é aprimorar a experiência de busca na Pratelei
 
 ## O que precisa ser feito?
 
-Para utilizar os filtros de busca na Prateleira Infinita do inStore, é necessário instalar e configurar o [VTEX Intelligent Search](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG), o aplicativo de busca inteligente da VTEX. Nesse contexto, observe alguns pontos de atenção:
+Para utilizar os filtros de busca na Prateleira Infinita do inStore, é necessário instalar e configurar o [VTEX Intelligent Search](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG), o aplicativo de busca inteligente da VTEX. Nesse contexto, observe alguns pontos de atenção:
 
-* É fundamental configurar os filtros que serão exibidos, conforme o artigo [Configuração da busca](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5t75L6lYNwix93l41s1Yrx), caso contrário todas as informações do produto serão atributos filtráveis no inStore.
+* É fundamental configurar os filtros que serão exibidos, conforme o artigo [Configuração da busca](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5t75L6lYNwix93l41s1Yrx), caso contrário todas as informações do produto serão atributos filtráveis no inStore.
 * A opção **Autocomplete** não se aplica à busca no inStore, portanto pode ser deixada em branco.
 * Qualquer alteração realizada na configuração de busca também vai se aplicar ao ecommerce caso a ferramenta utilizada seja o VTEX Intelligent Search.
 
 Além das configurações do VTEX Intelligent Search, é preciso [entrar em contato com o time de suporte da VTEX](https://support.vtex.com/hc/pt-br/requests) para habilitar a funcionalidade de filtros no inStore.
 
-Para mais informações sobre a busca no inStore, leia o artigo [Busca unificada](https://help.vtex.com/pt/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr/9sXeVwoD60qYYgRJ11r5F).
+Para mais informações sobre a busca no inStore, leia o artigo [Busca unificada](/pt/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr/9sXeVwoD60qYYgRJ11r5F).

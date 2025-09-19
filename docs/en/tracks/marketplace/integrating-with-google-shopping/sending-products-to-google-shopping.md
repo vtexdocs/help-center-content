@@ -19,9 +19,9 @@ In Google Shopping, only catalogs can be integrated with Google Shopping. Unlike
 
 ## Reindexing the database
 
-After integrating and authenticating your account, the marketplace does not automatically receive the products after integrating with the seller. First, the seller must [reindex the database](https://help.vtex.com/en/tutorial/entendendo-o-funcionamento-da-indexacao). This process prepares the SKU information and products and sends catalog, price, and stock general information to the marketplace.  
+After integrating and authenticating your account, the marketplace does not automatically receive the products after integrating with the seller. First, the seller must [reindex the database](/en/tutorial/entendendo-o-funcionamento-da-indexacao). This process prepares the SKU information and products and sends catalog, price, and stock general information to the marketplace.  
 
-> ℹ️ Please note that only the [sponsor user (owner)](https://help.vtex.com/en/tracks/contas-e-permissoes--5PxyAgZrtiYlaYZBTlhJ2A/56Bd0KpwbvAji1aFs94xdA) has permission to reindex a VTEX store database. During reindexing, which may vary in terms of time, the products are queued for updating the information, while still remaining available for sale on the store site.
+> ℹ️ Please note that only the [sponsor user (owner)](/en/tracks/contas-e-permissoes--5PxyAgZrtiYlaYZBTlhJ2A/56Bd0KpwbvAji1aFs94xdA) has permission to reindex a VTEX store database. During reindexing, which may vary in terms of time, the products are queued for updating the information, while still remaining available for sale on the store site.
 
 To reindex the database, paste the link below in your browser, replacing the `{storename}` with the name of your store:
 
@@ -85,7 +85,7 @@ In addition to basic product information, you can upload custom labels to Google
 
 ### How to configure it
 
-You need to create *custom labels* in the Google Merchant Center. After creating the *custom labels* in the Google Merchant Center, follow the tutorial [Adding product specifications or fields](https://help.vtex.com/en/tutorial/cadastrar-especificacoes-ou-campos-de-produto--tutorials_106) to associate them with a specific offer using **product specifications.**  
+You need to create *custom labels* in the Google Merchant Center. After creating the *custom labels* in the Google Merchant Center, follow the tutorial [Adding product specifications or fields](/en/tutorial/cadastrar-especificacoes-ou-campos-de-produto--tutorials_106) to associate them with a specific offer using **product specifications.**  
 
 When creating the new product specification field, complete it with the following values:  
 

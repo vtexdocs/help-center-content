@@ -34,7 +34,7 @@ Follow the guidelines below to implement the reverse proxy:
 
 To correctly direct your domain to the VTEX CDN, create a TXT record in the format `_{hostname}` with the value `{hostname}.cdn.vtex.com` in your domain's DNS zone.
 
-Replace `{hostname}` with your store's [subdomain, domain, and top-level domain](https://help.vtex.com/pt/tutorial/configurar-o-dominio-da-loja--tutorials_2450). Example: `www.mystore.com`. Make sure to include the underscore (`_`) before the hostname.
+Replace `{hostname}` with your store's [subdomain, domain, and top-level domain](/pt/tutorial/configurar-o-dominio-da-loja--tutorials_2450). Example: `www.mystore.com`. Make sure to include the underscore (`_`) before the hostname.
 
 Format:
 

@@ -30,12 +30,12 @@ Se pueden utilizar tres tipos de parámetros UTM para monitorear el tráfico:
 - **utm_medium:** especifica el medio de divulgación, como banner, CPC (costo por clic) o newsletter.
 - **utm_campaign:** define el nombre de la campaña, indicando el contexto de marketing, como Navidad, lanzamiento o promoción.
 
-> ℹ️ En la pantalla de gestión de pedidos, solo el parámetro `utm_source` está [disponible para filtrar pedidos](https://help.vtex.com/es/tutorial/como-filtrar-pedidos).
+> ℹ️ En la pantalla de gestión de pedidos, solo el parámetro `utm_source` está [disponible para filtrar pedidos](/es/tutorial/como-filtrar-pedidos).
 
 > ❗ No utilices caracteres especiales en los valores de parámetros UTM, por ejemplo, `utm_source=#fb`. Solo se aceptan caracteres alfanuméricos, guiones y guiones bajos.
 
 Para saber más sobre problemas relacionados con la aplicación de parámetros UTM en el carrito, consulta el artículo [Why are the UTMs not being applied to the cart?](https://developers.vtex.com/vtex-rest-api/docs/check-marketing-utms-used-at-checkout#why-are-the-utms-not-being-applied-to-the-cart).
 
 ### Artículos relacionados
-- [Qué son las UTMs internas utmi_cp, utmi_pc y utmi_p](https://help.vtex.com/es/faq/o-que-sao-as-utms-internas-utmi_cp-utmi_pc-e-utmi_p)
+- [Qué son las UTMs internas utmi_cp, utmi_pc y utmi_p](/es/faq/o-que-sao-as-utms-internas-utmi_cp-utmi_pc-e-utmi_p)
 

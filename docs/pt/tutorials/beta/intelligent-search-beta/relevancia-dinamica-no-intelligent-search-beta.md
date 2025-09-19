@@ -39,7 +39,7 @@ A relevância manual é configurada pela distribuição dos pesos realizada na p
 ![relevancia-manual-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/intelligent-search-beta/relevancia-dinamica-no-intelligent-search-beta_1.png)
 3. Clique em `Salvar`.
 
-Para configurar a relevância manual, confira o artigo [Relevância](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1qlObWIib6KqgrfX1FCOXS).
+Para configurar a relevância manual, confira o artigo [Relevância](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1qlObWIib6KqgrfX1FCOXS).
 
 ## Dinâmica
 

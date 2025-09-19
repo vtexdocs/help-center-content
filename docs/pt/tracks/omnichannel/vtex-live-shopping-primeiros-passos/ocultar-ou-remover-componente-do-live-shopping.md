@@ -15,7 +15,7 @@ trackSlugEN: vtex-live-shopping-primeiros-passos
 order: 11
 ---
 
-Após [finalizar a transmissão no Bundle](https://help.vtex.com/pt/tracks/vtex-live-shopping-primeiros-passos--3eCHNCIx8XhZOSmX0sQT3U/69PX90vv4oDWQ34nnBkiQt#finalizar-a-transmissao) ou em um estúdio externo e quando seu [status](https://help.vtex.com/pt/tracks/vtex-live-shopping-primeiros-passos--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv#status-do-evento) estiver como `Finalizado`, oculte o componente **Live Shopping** ou remova o código, de acordo com a solução de frontend da sua loja. Enquanto essa ação não for realizada, o público continuará vendo uma tela preta no site ou na landing page.
+Após [finalizar a transmissão no Bundle](/pt/tracks/vtex-live-shopping-primeiros-passos--3eCHNCIx8XhZOSmX0sQT3U/69PX90vv4oDWQ34nnBkiQt#finalizar-a-transmissao) ou em um estúdio externo e quando seu [status](/pt/tracks/vtex-live-shopping-primeiros-passos--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv#status-do-evento) estiver como `Finalizado`, oculte o componente **Live Shopping** ou remova o código, de acordo com a solução de frontend da sua loja. Enquanto essa ação não for realizada, o público continuará vendo uma tela preta no site ou na landing page.
 
 Verifique as instruções específicas para a sua solução frontend:
 
@@ -27,7 +27,7 @@ Verifique as instruções específicas para a sua solução frontend:
 
 ## Store Framework (VTEX IO)
 
-Para lojas que usam [Store Framework](https://help.vtex.com/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ#store-framework), você pode ocultar o componente **Live Shopping** no [Site Editor](https://help.vtex.com/pt/tutorial/gerenciando-conteudo-de-pagina-e-template--3tMbx6HXy4Fy5r9EhboG37) seguindo os passos abaixo:
+Para lojas que usam [Store Framework](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ#store-framework), você pode ocultar o componente **Live Shopping** no [Site Editor](/pt/tutorial/gerenciando-conteudo-de-pagina-e-template--3tMbx6HXy4Fy5r9EhboG37) seguindo os passos abaixo:
 
 1. No Admin VTEX, acesse **Storefront > Site Editor**, ou digite **Site Editor** na barra de busca no topo da página.
 2. Na lista **Blocos**, no lado direito da página, selecione o bloco do **Live Shopping** .
@@ -38,14 +38,14 @@ Para lojas que usam [Store Framework](https://help.vtex.com/pt/tracks/trilha-da-
 
 ## CMS - Portal Legado
 
-Para lojas que usam o [CMS - Portal Legado](https://help.vtex.com/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj), é necessário remover o script do **Live Shopping** seguindo os passos abaixo: 
+Para lojas que usam o [CMS - Portal Legado](/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj), é necessário remover o script do **Live Shopping** seguindo os passos abaixo: 
 
 1. No Admin VTEX, acesse **Storefront > Layout**, ou digite **Layout** na barra de busca no topo da página.
 2. Clique em **CMS > Templates HTML**.
-3. Exclua o script do **Live Shopping** do arquivo HTML em que foi [adicionado](https://help.vtex.com/pt/tracks/vtex-live-shopping-primeiros-passos--3eCHNCIx8XhZOSmX0sQT3U/4r5uk6XHxdYlOGMr11GFWR#cms-portal-legado).
+3. Exclua o script do **Live Shopping** do arquivo HTML em que foi [adicionado](/pt/tracks/vtex-live-shopping-primeiros-passos--3eCHNCIx8XhZOSmX0sQT3U/4r5uk6XHxdYlOGMr11GFWR#cms-portal-legado).
 4. Clique em `Salvar template` no canto superior direito do template.
 
 ## Headless CMS
 
-Para lojas que usam [Headless CMS](https://help.vtex.com/pt/tutorial/headless-cms-visao-geral--3U5gvhHdQL0jczYH8gjX09), é necessário remover o script do **Live Shopping** do arquivo HTML em que foi [adicionado](https://help.vtex.com/pt/tracks/vtex-live-shopping-primeiros-passos--3eCHNCIx8XhZOSmX0sQT3U/4r5uk6XHxdYlOGMr11GFWR#headless-cms).
+Para lojas que usam [Headless CMS](/pt/tutorial/headless-cms-visao-geral--3U5gvhHdQL0jczYH8gjX09), é necessário remover o script do **Live Shopping** do arquivo HTML em que foi [adicionado](/pt/tracks/vtex-live-shopping-primeiros-passos--3eCHNCIx8XhZOSmX0sQT3U/4r5uk6XHxdYlOGMr11GFWR#headless-cms).
 

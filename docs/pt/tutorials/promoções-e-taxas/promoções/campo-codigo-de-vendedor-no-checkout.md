@@ -30,10 +30,10 @@ Para criar o campo e inseri-lo na tela do Checkout de sua loja, três etapas sã
 
 ## Criar nova entidade de dados
 
-O campo **Código de Vendedor** deve ser registrado no [Master Data](https://help.vtex.com/pt/tutorial/master-data--4otjBnR27u4WUIciQsmkAw) como uma nova entidade. Para criar a entidade de dados, siga os passos abaixo:
+O campo **Código de Vendedor** deve ser registrado no [Master Data](/pt/tutorial/master-data--4otjBnR27u4WUIciQsmkAw) como uma nova entidade. Para criar a entidade de dados, siga os passos abaixo:
 
 1. No Admin VTEX, acesse **Configurações da loja > Storefront > Master Data**, ou digite **Master Data** na barra de busca no topo da página.
-2. Crie uma nova [entidade de dados](https://help.vtex.com/pt/tutorial/criando-entidade-de-dados--tutorials_1265#como-configurar) chamada *codigovendedor*.
+2. Crie uma nova [entidade de dados](/pt/tutorial/criando-entidade-de-dados--tutorials_1265#como-configurar) chamada *codigovendedor*.
 3. Dentro da nova entidade de dados, crie os seguintes campos:
     - **Código do vendedor**: com valor máximo de 10 caracteres (tipo Varchar10).
     - **Email**: endereço de email do vendedor (tipo Email).
@@ -44,14 +44,14 @@ O campo **Código de Vendedor** deve ser registrado no [Master Data](https://hel
 
 <blockquote><ui>4. Cadastre as informações de cada vendedor nos campos criados no passo anterior.</ui>
 
-<blockquote><ui>5. Crie um [formulário](https://help.vtex.com/pt/tutorial/criando-formulario-no-master-data) para ter acesso às informações da nova entidade *codigovendedor* por meio da interface do Master Data.</ui>
+<blockquote><ui>5. Crie um [formulário](/pt/tutorial/criando-formulario-no-master-data) para ter acesso às informações da nova entidade *codigovendedor* por meio da interface do Master Data.</ui>
 
 ## Criar promoção Código do Vendedor
 
 Após a criação da entidade *codigovendedor*, é necessário associá-la a uma promoção. Para criar uma nova promoção, siga os passos abaixo:
 
 1. No Admin VTEX, acesse **Promoções > Promoções**, ou digite **Promoções** na barra de busca no topo da página.
-2. Crie uma nova [promoção regular](https://help.vtex.com/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI). Preencha as informações de **Dados gerais de promoção** e **A quais itens esta promoção será aplicada?** conforme desejado.
+2. Crie uma nova [promoção regular](/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI). Preencha as informações de **Dados gerais de promoção** e **A quais itens esta promoção será aplicada?** conforme desejado.
 
 > ℹ️ Caso deseje utilizar o campo código de vendedor para oferecer desconto no valor da compra, preencha as informações em **Tipo e valor de de desconto?**.
 

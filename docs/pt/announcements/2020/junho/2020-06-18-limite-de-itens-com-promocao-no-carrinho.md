@@ -25,4 +25,4 @@ Além de determinar o número total de itens elegíveis no carrinho, é possíve
 
 ## O que precisa ser feito?
 
-Após configurar o tipo de desconto Percentual em uma Promoção Regular, consulte a seção de Restrições para ter acesso à nova funcionalidade. Para mais detalhes sobre cada tipo de cenário, acesse [o artigo de cenários específicos de promoção](https://help.vtex.com/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/jOu9b69mKbrTDfSJYAawy#limite-de-itens-com-promocao-no-carrinho).
+Após configurar o tipo de desconto Percentual em uma Promoção Regular, consulte a seção de Restrições para ter acesso à nova funcionalidade. Para mais detalhes sobre cada tipo de cenário, acesse [o artigo de cenários específicos de promoção](/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/jOu9b69mKbrTDfSJYAawy#limite-de-itens-com-promocao-no-carrinho).

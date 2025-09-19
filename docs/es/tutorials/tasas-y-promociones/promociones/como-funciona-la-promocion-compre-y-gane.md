@@ -102,7 +102,7 @@ En esta sección se proporciona información detallada sobre las condiciones que
 
 - **Medio de pago:** la promoción se aplicará cuando se seleccione uno de los medios de pago especificados y el carrito tenga solo un medio de pago.
 - **Número BIN de la tarjeta:** la promoción solo se aplicará cuando se utilicen tarjetas de redes, bancos o categorías específicas, identificadas por su número BIN. Puedes importar una lista de BIN en un archivo de texto (**.txt**) o CSV (**.csv**) con cada BIN descrito en una fila diferente.
-- **Clúster de clientes:** selecciona un [clúster de clientes](https://help.vtex.com/es/tutorial/como-criar-um-cluster-de-clientes) previamente creado en Master Data, siguiendo el formato `field=value` o `field contains value`.
+- **Clúster de clientes:** selecciona un [clúster de clientes](/es/tutorial/como-criar-um-cluster-de-clientes) previamente creado en Master Data, siguiendo el formato `field=value` o `field contains value`.
 - **Tipo de envío:** permite establecer que la promoción se aplique en uno o más tipos de envíos seleccionados.
 - **Ubicación del envío:** la promoción solo se aplicará si la dirección de envío del pedido cumple las siguientes condiciones:
     - **Países:** permite seleccionar los países en que la promoción será válida. Solo los pedidos cuya dirección de envío esté ubicada en los países seleccionados pueden beneficiarse de la promoción.

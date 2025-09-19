@@ -21,4 +21,4 @@ Puedes realizar varias actualizaciones en los datos de registro de la tienda, ta
 - Modificación de CPF a CNPJ
 - Modificación de CNPJ
 
-Para ello, es necesario que abra un [ticket](https://support.vtex.com/hc/es-419/requests/new) comunicando su decisión al equipo Financiera y seleccione la opción correspondiente a la que desea modificar. Por ejemplo, ["Cambio de CNPJ - Transferencia de Responsabilidad contractual"](https://help.vtex.com/es/tutorial/como-fazer-a-alteracao-do-meu-cnpj-novo).
+Para ello, es necesario que abra un [ticket](https://support.vtex.com/hc/es-419/requests/new) comunicando su decisión al equipo Financiera y seleccione la opción correspondiente a la que desea modificar. Por ejemplo, ["Cambio de CNPJ - Transferencia de Responsabilidad contractual"](/es/tutorial/como-fazer-a-alteracao-do-meu-cnpj-novo).

@@ -57,7 +57,7 @@ Selecione uma das opções para a aplicação da promoção.
 - **Diferentes de:** nesta opção você define quais sellers não serão afetados por essa promoção. Após escolher "Diferentes de", você poderá selecionar os sellers que não deseja incluir na campanha. Todos os demais sellers estarão incluídos.
 
 ### Selecionar políticas comerciais 
-No canto direito da página, na seção **Políticas Comerciais**, selecione as políticas comerciais válidas para o desconto. Você pode oferecer descontos para políticas comerciais onde [sua loja atua como marketplace](https://help.vtex.com/pt/faq/o-que-e-um-marketplace) (**Minha loja**) ou como seller (**Lojas de terceiros - Fulfillment**).
+No canto direito da página, na seção **Políticas Comerciais**, selecione as políticas comerciais válidas para o desconto. Você pode oferecer descontos para políticas comerciais onde [sua loja atua como marketplace](/pt/faq/o-que-e-um-marketplace) (**Minha loja**) ou como seller (**Lojas de terceiros - Fulfillment**).
 
 Você pode escolher entre as seguintes opções:
 
@@ -71,7 +71,7 @@ Você pode escolher entre as seguintes opções:
 Determine as condições e os percentuais de desconto a serem aplicados. Veja a seguir quais condições estão disponíveis:
 
 - **SKUs:** selecione os SKUs para os quais o desconto progressivo será aplicado. Essa opção restringe a promoção apenas aos produtos associados aos SKUs escolhidos.
-- **Coleções:** selecione as [coleções](https://help.vtex.com/pt/tutorial/criando-colecao-de-produtos--tutorials_244) de produtos onde o desconto progressivo será aplicado. Esta opção permite aplicar a promoção a um grupo de produtos pré-definidos.
+- **Coleções:** selecione as [coleções](/pt/tutorial/criando-colecao-de-produtos--tutorials_244) de produtos onde o desconto progressivo será aplicado. Esta opção permite aplicar a promoção a um grupo de produtos pré-definidos.
 - **Considerar somente itens iguais:** essa opção restringe o desconto a produtos idênticos. Por exemplo, se você adicionar diferentes SKUs pertencentes à mesma coleção, a promoção não será aplicada. A regra se baseia apenas na quantidade de um mesmo SKU presente no carrinho.
 - **Desconto:** essa opção permite configurar o percentual de desconto aplicado ao atingir a quantidade mínima de itens definida. É possível criar até 10 intervalos de desconto progressivo.
 - **Adicionar intervalo:** nesta opção é possível configurar níveis adicionais de desconto progressivo. Por exemplo, você pode definir que ao atingir 10 unidades o desconto será de 5%, e ao atingir 20 unidades, o desconto aumentará para 10%. O limite máximo de intervalos configuráveis é 10.
@@ -126,6 +126,6 @@ Defina como a promoção será combinada com outras condições comerciais aplic
 Destaque a promoção na página de produto e adicione dados personalizados para customizações da loja nesta seção.
 - **Destacar nos produtos:** marque esta opção para exibir a promoção diretamente nas páginas de produtos. 
 
-> ⚠️ Lembre-se [configurar essa exibição no módulo CMS](https://help.vtex.com/pt/tutorial/configurando-promocao-com-destaque-flag--tutorials_2295).
+> ⚠️ Lembre-se [configurar essa exibição no módulo CMS](/pt/tutorial/configurando-promocao-com-destaque-flag--tutorials_2295).
 
 - **Informações adicionais:** clique em `Criar` para adicionar campos personalizados com nome e valor, que podem ser usados para customizações na loja.

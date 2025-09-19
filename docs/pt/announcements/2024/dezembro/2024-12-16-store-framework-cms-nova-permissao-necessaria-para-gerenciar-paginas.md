@@ -15,13 +15,13 @@ announcementImageID: 'undefined'
 announcementSynopsisPT: 'Gerenciar páginas no Store Framework CMS exige acesso ao recurso "CMS Settings".'
 ---
 
-[Páginas](https://help.vtex.com/pt/tutorial/paginas-visao-geral--5iBUUJbK5NqG6OxlDrGNzc) é uma funcionalidade do Store Framework CMS que gerencia todas as rotas de URL e os modelos de página correspondentes do site da sua loja, como a página inicial, de produto e de login. Por motivos de segurança, estamos exigindo que usuários do Admin possuam uma permissão específica para gerenciar as rotas e páginas de template dessa funcionalidade.
+[Páginas](/pt/tutorial/paginas-visao-geral--5iBUUJbK5NqG6OxlDrGNzc) é uma funcionalidade do Store Framework CMS que gerencia todas as rotas de URL e os modelos de página correspondentes do site da sua loja, como a página inicial, de produto e de login. Por motivos de segurança, estamos exigindo que usuários do Admin possuam uma permissão específica para gerenciar as rotas e páginas de template dessa funcionalidade.
 
-> ⚠️ Conforme [anunciado anteriormente](https://help.vtex.com/pt/announcements/store-framework-cms-nova-permissao-para-gerenciar-redirecionamentos--1GcT48ML2w6TZQxQyGbD6W), o recurso `CMS Settings` já era necessário para gerenciar redirecionamentos no Store Framework CMS.
+> ⚠️ Conforme [anunciado anteriormente](/pt/announcements/store-framework-cms-nova-permissao-para-gerenciar-redirecionamentos--1GcT48ML2w6TZQxQyGbD6W), o recurso `CMS Settings` já era necessário para gerenciar redirecionamentos no Store Framework CMS.
 
 ## O que mudou?
 
-Para que usuários do Admin possam criar, editar e remover rotas de URL e os modelos de página correspondentes, agora é necessário possuir um perfil de acesso com o [recurso do License Manager](https://help.vtex.com/pt/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3) **CMS Settings**.
+Para que usuários do Admin possam criar, editar e remover rotas de URL e os modelos de página correspondentes, agora é necessário possuir um perfil de acesso com o [recurso do License Manager](/pt/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3) **CMS Settings**.
 
 ## Por que fizemos essa mudança?
 
@@ -29,7 +29,7 @@ Adicionamos esse requisito de permissão por motivos de segurança. Dessa forma,
 
 ## O que precisa ser feito?
 
-Para que um usuário existente do Admin possa gerenciar rotas de URL e páginas no Store Framework CMS, é necessário atribuir ao usuário um perfil de acesso que inclua o recurso **CMS Settings**. Verifique as instruções para editar os perfis de acesso de um usuário no artigo [Gerenciando Usuários](https://help.vtex.com/pt/tutorial/gerenciando-usuarios--tutorials_512#editar-usuarios).
+Para que um usuário existente do Admin possa gerenciar rotas de URL e páginas no Store Framework CMS, é necessário atribuir ao usuário um perfil de acesso que inclua o recurso **CMS Settings**. Verifique as instruções para editar os perfis de acesso de um usuário no artigo [Gerenciando Usuários](/pt/tutorial/gerenciando-usuarios--tutorials_512#editar-usuarios).
 
-Caso você queira utilizar um perfil de acesso personalizado, você pode criar um novo perfil de acesso ou editar um já existente para incluir o recurso **CMS Settings**. Verifique as instruções para criar e editar perfis de acesso no artigo [Perfis de Acesso](https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#criando-um-perfil-de-acesso).
+Caso você queira utilizar um perfil de acesso personalizado, você pode criar um novo perfil de acesso ou editar um já existente para incluir o recurso **CMS Settings**. Verifique as instruções para criar e editar perfis de acesso no artigo [Perfis de Acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#criando-um-perfil-de-acesso).
 

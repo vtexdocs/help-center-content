@@ -25,7 +25,7 @@ A página apresenta as informações a seguir em uma tabela:
 
 | Coluna | Descrição |
 | ---- | ---- |
-| **Chave/Nome** | Chave de API, seguida pelo nome definido durante a criação da chave. Se o token tiver passado do período de renovação recomendado (3 meses, por padrão), ao lado da chave aparece um ícone de alerta para renovação. Saiba mais em [Configurar alerta para renovar tokens de API](https://help.vtex.com/en/tutorial/configurar-a-duracao-de-chaves-de-api--kcGIFysFt02FDuhsfjQwZ). |
+| **Chave/Nome** | Chave de API, seguida pelo nome definido durante a criação da chave. Se o token tiver passado do período de renovação recomendado (3 meses, por padrão), ao lado da chave aparece um ícone de alerta para renovação. Saiba mais em [Configurar alerta para renovar tokens de API](/en/tutorial/configurar-a-duracao-de-chaves-de-api--kcGIFysFt02FDuhsfjQwZ). |
 | **Perfil de acesso** | Perfis de acesso associados à chave de API. |
 | **Data de criação** | Data de criação da chave de API. |
 | **Status** | Status da chave de API, que pode ser **Ativo** ou **Inativo**. |
@@ -46,7 +46,7 @@ Siga as instruções abaixo para criar uma nova chave de API:
 2. Certifique-se de que você está na aba **Geradas**.  
 3. Clique em `+ Gerar chave`.  
 4. Preencha o campo **Identificação da chave** com o nome para identificar a chave de API. Este campo é obrigatório.  
-5. Selecione os [perfis de acesso](https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) que serão associados à chave. Por padrão, nenhum perfil de acesso é pré-selecionado.
+5. Selecione os [perfis de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) que serão associados à chave. Por padrão, nenhum perfil de acesso é pré-selecionado.
 
    <div class="alert alert-error">
      Marque apenas os perfis de acesso necessários para a integração que utilizará a chave de API. O uso irrestrito de perfis de acesso muito permissivos aumenta o risco de ataques nas lojas por vazamento de credenciais de login.
@@ -97,7 +97,7 @@ Siga o passo a passo abaixo para inativar ou ativar uma chave de API:
 
 ## Renovar token
 
-Renovar o token de API com frequência é crucial para manter a segurança da sua loja. Para garantir a proteção contínua, faça a renovação antes mesmo de receber o [alerta](https://help.vtex.com/pt/tutorial/configurar-a-duracao-de-chaves-de-api--kcGIFysFt02FDuhsfjQwZ) para isso. Siga as instruções descritas em [Renovar token de API](https://help.vtex.com/pt/tutorial/renovar-token-de-api--7r4AzptYjXErGHadg9LnJ3).
+Renovar o token de API com frequência é crucial para manter a segurança da sua loja. Para garantir a proteção contínua, faça a renovação antes mesmo de receber o [alerta](/pt/tutorial/configurar-a-duracao-de-chaves-de-api--kcGIFysFt02FDuhsfjQwZ) para isso. Siga as instruções descritas em [Renovar token de API](/pt/tutorial/renovar-token-de-api--7r4AzptYjXErGHadg9LnJ3).
 
 ## Excluir chave
 
@@ -115,7 +115,7 @@ Para excluir uma chave de API de forma definitiva, siga os passos abaixo:
 
 ## Saiba mais
 
-* [Chaves de API](https://help.vtex.com/pt/tutorial/chaves-de-api--4bFEmcHXgpNksoePchZyy6)  
-* [Renovar token de API](https://help.vtex.com/pt/tutorial/renovar-token-de-api--7r4AzptYjXErGHadg9LnJ3)
-* [Configurar alerta para renovar tokens de API](https://help.vtex.com/pt/tutorial/configurar-a-duracao-de-chaves-de-api--kcGIFysFt02FDuhsfjQwZ)  
-* [Chaves externas](https://help.vtex.com/pt/tutorial/chaves-externas--1isU0HfKkeg0atlxRha14Q)
+* [Chaves de API](/pt/tutorial/chaves-de-api--4bFEmcHXgpNksoePchZyy6)  
+* [Renovar token de API](/pt/tutorial/renovar-token-de-api--7r4AzptYjXErGHadg9LnJ3)
+* [Configurar alerta para renovar tokens de API](/pt/tutorial/configurar-a-duracao-de-chaves-de-api--kcGIFysFt02FDuhsfjQwZ)  
+* [Chaves externas](/pt/tutorial/chaves-externas--1isU0HfKkeg0atlxRha14Q)

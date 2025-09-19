@@ -21,7 +21,7 @@ O SmartCheckout permite que os dados do cliente possam ser preenchidos no Checko
 
 ## Dados de cadastro do cliente
 
-Os dados do cliente utilizados no Checkout têm origem nas informações cadastradas no [Master Data](https://help.vtex.com/pt/tutorial/entendendo-o-funcionamento-das-consultas-no-master-data--tutorials_4629#). A lista abaixo apresenta uma relação padrão destes dados. Entrentanto, podem ocorrer variações de um país para outro:
+Os dados do cliente utilizados no Checkout têm origem nas informações cadastradas no [Master Data](/pt/tutorial/entendendo-o-funcionamento-das-consultas-no-master-data--tutorials_4629#). A lista abaixo apresenta uma relação padrão destes dados. Entrentanto, podem ocorrer variações de um país para outro:
 
 - Cliente (CL)
    - email
@@ -51,17 +51,17 @@ O fluxo de preenchimento automático de dados do cliente no Checkout ocorre da s
 3. O Checkout verifica se o email inserido pertence a algum cliente cadastrado na loja. 
 4. Caso seja localizado o email, o checkout preenche automaticamente os campos de identificação do cliente com os dados recebidos do Master Data.
 
-> ⚠️ Para a proteção dos dados do cliente, as informações de identificação serão exibidas apenas parcialmente na tela do Checkout (parte dos dados são mascarados conforme padrão [PCI-DSS](https://help.vtex.com/pt/tutorial/what-is-the-pci-ssc--4jo3Vkox3amSO2w4qIWa0E) de segurança em pagamentos). Este procedimento permite que o cliente possa identificar se os seus dados atuais estão corretos e também selecionar diferentes endereços cadastrados para a entrega, caso necessário.
+> ⚠️ Para a proteção dos dados do cliente, as informações de identificação serão exibidas apenas parcialmente na tela do Checkout (parte dos dados são mascarados conforme padrão [PCI-DSS](/pt/tutorial/what-is-the-pci-ssc--4jo3Vkox3amSO2w4qIWa0E) de segurança em pagamentos). Este procedimento permite que o cliente possa identificar se os seus dados atuais estão corretos e também selecionar diferentes endereços cadastrados para a entrega, caso necessário.
 <ul>
 5. O cliente seleciona os meios de entrega e pagamento, e conclui o pedido de compra.
 </ul>
 > ⚠️ Caso o cartão de crédito ou débito seja selecionado como meio de pagamento, os seguintes critérios adicionais de segurança são adotados: <ul> <li>Solicitação do CVV (Card Verification Value) para a validação final e conclusão do pedido de compra.</li> <li>Impossibilidade de realizar compras com cartões utilizando um endereço diferente daquele cadastrado no perfil do cliente.</li> </ul>
 
-Qualquer tipo de alteração nos dados cadastrados, como endereço e telefone, será permitida somente após o cliente realizar a sua [autenticação na loja](https://help.vtex.com/pt/tutorial/como-meu-cliente-pode-fazer-login-na-minha-loja--3FCNpwbpZe0U4auiI4CC0C#). 
+Qualquer tipo de alteração nos dados cadastrados, como endereço e telefone, será permitida somente após o cliente realizar a sua [autenticação na loja](/pt/tutorial/como-meu-cliente-pode-fazer-login-na-minha-loja--3FCNpwbpZe0U4auiI4CC0C#). 
 
-Para maiores informações sobre proteção de dados, acesse [Segurança do SmartCheckout](https://help.vtex.com/en/tutorial/seguranca-do-smartcheckout--3SrJuuhrqwePUg1rp1exfB#).
+Para maiores informações sobre proteção de dados, acesse [Segurança do SmartCheckout](/en/tutorial/seguranca-do-smartcheckout--3SrJuuhrqwePUg1rp1exfB#).
 
 ### Saiba mais
 
- * [Importar dados de clientes](https://help.vtex.com/pt/tutorial/importando-dados-de-clientes--2zWYVOyj0sISYQmeUwCsI0)
+ * [Importar dados de clientes](/pt/tutorial/importando-dados-de-clientes--2zWYVOyj0sISYQmeUwCsI0)
  * [`orderForm` fields](https://developers.vtex.com/docs/guides/orderform-fields#clientprofiledata)

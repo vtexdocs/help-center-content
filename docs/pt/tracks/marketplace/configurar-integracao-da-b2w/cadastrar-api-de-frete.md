@@ -17,7 +17,7 @@ order: 6
 
 A B2W exige o cadastro de um endpoint de API que permita a consulta de valores de frete, preço e prazo em tempo real, de acordo com o CEP. Esse cadastro é feito no [portal de atendimento](https://americanasmarketplace.com.br/login) do marketplace. 
 
-Utilize a seguinte rota API REST, que permite a operação `POST`, substituindo `{AccountName}` pelo [nome da sua loja](https://help.vtex.com/pt/tutorial/o-que-e-account-name--i0mIGLcg3QyEy8OCicEoC) na plataforma VTEX.
+Utilize a seguinte rota API REST, que permite a operação `POST`, substituindo `{AccountName}` pelo [nome da sua loja](/pt/tutorial/o-que-e-account-name--i0mIGLcg3QyEy8OCicEoC) na plataforma VTEX.
 
 `http://simulation.vtexcommercestable.com.br/api/skyhubintegration/freight?an={accountName}`
 

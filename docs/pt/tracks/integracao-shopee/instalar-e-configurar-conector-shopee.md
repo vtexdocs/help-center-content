@@ -21,7 +21,7 @@ Acesse a [VTEX App Store](https://apps.vtex.com/).
 Procure pelo app Shopee.
 Clique no botão `Obter App`.
 Clique no botão `Confirmar`.
-Faça login na VTEX App Store com o seu [account name](https://help.vtex.com/pt/tutorial/o-que-e-account-name--i0mIGLcg3QyEy8OCicEoC) na VTEX.
+Faça login na VTEX App Store com o seu [account name](/pt/tutorial/o-que-e-account-name--i0mIGLcg3QyEy8OCicEoC) na VTEX.
 Clique no botão `Fechar pedido`.
 Feito o download do app da Shopee, é necessário fazer a instalação do app na sua loja VTEX, clique no botão `Vá para a página de Instalação`.
 Clique no botão `Instalar`.
@@ -48,7 +48,7 @@ Preencha os campos que aparecerão na tela. Veja na tabela a seguir quais são o
 <tbody>
   <tr>
     <td class="tg-n6bu">Integração Logística do Vendedor do Shopee<br></td>
-    <td class="tg-2fdn">Caso você queira utilizar o sistema de logística próprio, é necessário [autenticar essa integração](https://help.vtex.com/tracks/--4CaZCzU9ZO1CByH0haZ9hA/70xqC5uNOggv51Lb3su45w?__bindingAddress=vtexhelp.myvtex.com/#cadastrando-logistica-do-vendedor-na-shopee) com a Shopee por meio de login.</td>
+    <td class="tg-2fdn">Caso você queira utilizar o sistema de logística próprio, é necessário [autenticar essa integração](/tracks/--4CaZCzU9ZO1CByH0haZ9hA/70xqC5uNOggv51Lb3su45w?__bindingAddress=vtexhelp.myvtex.com/#cadastrando-logistica-do-vendedor-na-shopee) com a Shopee por meio de login.</td>
   </tr>
   <tr>
     <td class="tg-n6bu">ID de afiliado</td>

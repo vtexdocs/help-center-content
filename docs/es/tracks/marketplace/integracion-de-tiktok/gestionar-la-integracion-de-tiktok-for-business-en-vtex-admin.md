@@ -62,7 +62,7 @@ Consulta a continuación la descripción de las funcionalidades disponibles para
     * **Manage:** te redirecciona a TikTok Catalog Manager para gestionar el catálogo en TikTok.
 * **Products pending:** indica cuántos productos de tu catálogo se están procesando en TikTok. Este status es transitorio y significa que TikTok está analizando la información.
     * **Manage:** te redirecciona a TikTok Catalog Manager para gestionar el catálogo en TikTok.
-* **Products need additional details:** indica cuántos productos de tu catálogo carecen de [información](https://help.vtex.com/es/tracks/integracion-de-tiktok--1r0yJSO11nrer1YVu3WTFd/4AEUg7pEdX1beOaQhFf0wC#envio-de-datos-de-productos-a-tiktok) para ser sincronizados con TikTok.
+* **Products need additional details:** indica cuántos productos de tu catálogo carecen de [información](/es/tracks/integracion-de-tiktok--1r0yJSO11nrer1YVu3WTFd/4AEUg7pEdX1beOaQhFf0wC#envio-de-datos-de-productos-a-tiktok) para ser sincronizados con TikTok.
     * **Manage:** te redirecciona a TikTok Catalog Manager para gestionar el catálogo en TikTok.
 
 ## Desconectar TikTok de tu tienda
@@ -77,4 +77,4 @@ Por otro lado, VTEX no elimina los productos existentes en TikTok, es decir, sig
 
 > ⚠️ Si aparece un mensaje de error al desconectar TikTok de tu tienda VTEX, sigue los pasos a continuación para asegurarte de que la integración se desactive correctamente. <ol><li>Accede a la página [Autorizaciones](https://ads.tiktok.com/ac/page/authorizations) en TikTok Ads Manager.</li> <li>Busca la opción **VTEX**.</li> <li>Haz clic en `Remover`.</li></ol>
 
-Después de la desconexión, puedes volver a conectar la integración en cualquier momento volviendo a realizar los pasos descritos en el link [Configuración de la integración con TikTok for Business](https://help.vtex.com/es/tracks/integracion-de-tiktok--1r0yJSO11nrer1YVu3WTFd/4AEUg7pEdX1beOaQhFf0wC).
+Después de la desconexión, puedes volver a conectar la integración en cualquier momento volviendo a realizar los pasos descritos en el link [Configuración de la integración con TikTok for Business](/es/tracks/integracion-de-tiktok--1r0yJSO11nrer1YVu3WTFd/4AEUg7pEdX1beOaQhFf0wC).

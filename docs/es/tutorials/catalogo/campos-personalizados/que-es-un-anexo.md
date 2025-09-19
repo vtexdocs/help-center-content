@@ -25,6 +25,6 @@ Si su artículo comprado es una Camisa de la Selección Brasileña, el nombre de
 - Número: que permite la inclusión del número elegido por el cliente dentro de los valores 5, 7, 9, 10 y 11, en la parte trasera de la camisa.
 
 ### Artículos relacionados
-- [Registrar un anexo](https://help.vtex.com/es/tutorial/registrar-un-anexo)
-- [¿Qué es un servicio?](https://help.vtex.com/es/tutorial/que-es-un-servicio)
-- [Crear servicio para un SKU](https://help.vtex.com/es/tutorial/criando-servico-para-um-sku)
+- [Registrar un anexo](/es/tutorial/registrar-un-anexo)
+- [¿Qué es un servicio?](/es/tutorial/que-es-un-servicio)
+- [Crear servicio para un SKU](/es/tutorial/criando-servico-para-um-sku)

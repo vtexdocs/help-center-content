@@ -28,7 +28,7 @@ Com condições de repasse justas, taxas adequadas, funcionamento intuitivo e re
 Além de oferecer uma integração simplificada com os principais meios de pagamento do mercado, a Stripe traz uma gama de facilidades e vantagens que certamente contribuem para a otimização diária dos pagamentos do seu ecommerce, como por exemplo:
 
 - **Checkout transparente:** seus clientes permanecerão no ambiente da sua loja durante todo o processo de compra.
-- **Segurança:** Stripe é um serviço compatível com [PCI](https://help.vtex.com/pt/tutorial/o-que-e-o-pci-ssc--4jo3Vkox3amSO2w4qIWa0E) Nível 1, que é o mais alto nível de certificação de segurança.
+- **Segurança:** Stripe é um serviço compatível com [PCI](/pt/tutorial/o-que-e-o-pci-ssc--4jo3Vkox3amSO2w4qIWa0E) Nível 1, que é o mais alto nível de certificação de segurança.
 - **Integração global:** A integração da VTEX e do Stripe funcionará em todos os países onde ambas as empresas operam, incluindo aquisições locais nos Estados Unidos, Brasil, México, Reino Unido, Itália, Espanha, Romênia e Cingapura, bem como aquisições internacionais em mais de 135 moedas.
 - **Solução antifraude:** Por meio do plug-in Stripe, os clientes VTEX poderão aproveitar os produtos Stripe, incluindo a ferramenta antifraude Stripe Radar. A Stripe Radar ajuda a detectar e bloquear fraudes com tecnologia machine learning.
 - **Diversidade de pagamentos:** A parceria VTEX + Stripe também permite transações usando o Google Pay, Apple Pay e métodos de pagamentos locais, como OXXO no México e boleto no Brasil.
@@ -39,4 +39,4 @@ E se quiser ainda mais detalhes sobre as vantagens que a Stripe pode trazer para
 
 Para processar seus pagamentos com a Stripe, é preciso configurá-la no Admin VTEX. 
 
-Confira o passo a passo completo na documentação [Configurar a afiliação de gateway Stripe](https://help.vtex.com/pt/tutorial/configurar-a-afiliacao-de-gateway-stripe--fwF2wk2FQKrODrWWkvSLO).
+Confira o passo a passo completo na documentação [Configurar a afiliação de gateway Stripe](/pt/tutorial/configurar-a-afiliacao-de-gateway-stripe--fwF2wk2FQKrODrWWkvSLO).

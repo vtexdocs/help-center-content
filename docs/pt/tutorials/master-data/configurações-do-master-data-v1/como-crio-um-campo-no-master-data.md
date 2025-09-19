@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: WpbGhubuRZaNZilJSXnqu
 ---
 
-Os campos são atributos de um documento. Para criá-los, é necessário acessar uma [entidade de dados](https://help.vtex.com/pt/tutorial/criando-entidade-de-dados--tutorials_1265 "entidade de dados") específica e editá-la.
+Os campos são atributos de um documento. Para criá-los, é necessário acessar uma [entidade de dados](/pt/tutorial/criando-entidade-de-dados--tutorials_1265 "entidade de dados") específica e editá-la.
 
 Esse processo é feito em duas áreas do módulo. O Dynamic Storage é o ambiente em que se criam os campos. Já o CRM, em que se visualizam essas informações.
 
@@ -43,7 +43,7 @@ Confira o passo a passo:
 12. Clique no botão vermelho __Ok.__
 13. Clique no botão cinza __Ok.__
 
-> ℹ️ Mais informações sobre **Configurações gerais** e **Configurações de busca e de filtro** podem ser encontradas na sessão **Como configurar** do artigo [Criar entidade de dados](https://help.vtex.com/pt/tutorial/criando-entidade-de-dados--tutorials_1265#como-configurar).
+> ℹ️ Mais informações sobre **Configurações gerais** e **Configurações de busca e de filtro** podem ser encontradas na sessão **Como configurar** do artigo [Criar entidade de dados](/pt/tutorial/criando-entidade-de-dados--tutorials_1265#como-configurar).
 
 ![criar campo master data ds](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/master-data/configura%C3%A7%C3%B5es-do-master-data-v1/como-crio-um-campo-no-master-data_1.gif)
 

@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 3b0iTwoSQZq9m3Z2ezbWLd
 ---
 
-Associating a [trade policy](https://help.vtex.com/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) with the organization is key to a B2B operation. It allows you to apply specific rules on prices, discounts, and payment conditions, providing customized management of commercial relationships.
+Associating a [trade policy](/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) with the organization is key to a B2B operation. It allows you to apply specific rules on prices, discounts, and payment conditions, providing customized management of commercial relationships.
 
 The main objective of trade policies in B2B is to ensure that all transactions follow the trade policies the company has set, providing a consistent shopping experience aligned with business strategies. This includes:
 - Setting specific prices for products or groups of products, adapting them for different customers or market segments.

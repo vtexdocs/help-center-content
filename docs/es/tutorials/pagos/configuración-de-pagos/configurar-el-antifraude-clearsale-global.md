@@ -17,7 +17,7 @@ subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 
 ClearSale Global es una solución antifraude, disponible exclusivamente para el mercado internacional. Mediante el análisis del comportamiento de los clientes, la solución identifica las vulnerabilidades y previene posibles fraudes en las transacciones de su tienda.
 
-> ℹ️ Si está en Brasil y quiere usar ClearSale, VTEX ofrece integración con ClearSale V3, exclusiva para clientes brasileños. Acceda al tutorial [Configurar antifraude ClearSale v3](https://help.vtex.com/es/tutorial/configurar-antifraude-clearsale-v3--2pPORygesIqQOa6cIG6agg?&utm_source=autocomplete) para realizar la configuración.
+> ℹ️ Si está en Brasil y quiere usar ClearSale, VTEX ofrece integración con ClearSale V3, exclusiva para clientes brasileños. Acceda al tutorial [Configurar antifraude ClearSale v3](/es/tutorial/configurar-antifraude-clearsale-v3--2pPORygesIqQOa6cIG6agg?&utm_source=autocomplete) para realizar la configuración.
 
 Para configurar ClearSale Global, deberá:
 
@@ -87,7 +87,7 @@ ClearSale Global realizará un análisis antifraude de las transacciones si est�
 1. Inicie sesión en el __Admin__ VTEX.
 2. Acceda al módulo de __Pagos__.
 3. Haga clic en __Configuración__.
-4. En __Planes de pago__, haga clic en la condición deseada, o siga el tutorial [Configurar una condición de pago](https://help.vtex.com/es/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/6bzGxlz4inf8sKmvZ1c7i3?&utm_source=autocomplete) para crear una nueva condición.
+4. En __Planes de pago__, haga clic en la condición deseada, o siga el tutorial [Configurar una condición de pago](/es/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/6bzGxlz4inf8sKmvZ1c7i3?&utm_source=autocomplete) para crear una nueva condición.
 5. Asegúrese de que la condición de pago está __Activada__.
 6. Después de seleccionar o crear una nueva condición, active la opción __Usar Antifraude__.
 7. Seleccione la opción __ClearSale Global__.

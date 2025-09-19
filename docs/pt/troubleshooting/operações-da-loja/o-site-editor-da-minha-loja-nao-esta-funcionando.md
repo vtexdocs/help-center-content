@@ -45,7 +45,7 @@ Para solucionar esse erro, veja as instruções a seguir:
 
 ### Verificar a integração de busca
 
-Esse problema pode estar relacionado ao fato de a busca do [Intelligent Search](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG) não estar integrada ao catálogo de sua loja. Siga os passos abaixo para integrá-la à sua loja:
+Esse problema pode estar relacionado ao fato de a busca do [Intelligent Search](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG) não estar integrada ao catálogo de sua loja. Siga os passos abaixo para integrá-la à sua loja:
 
 1. No VTEX Admin, acesse **Configurações da loja > Intelligent Search > Integrações**.
 2. Na página **Integrações**, todos os status devem estar ticados, como na imagem a seguir. 
@@ -55,7 +55,7 @@ Esse problema pode estar relacionado ao fato de a busca do [Intelligent Search](
 3. Se todos os status estiverem ticados e ainda não for possível abrir o Site Editor, consulte a seção [Verificar a configuração do tenant](#verificar-a-configuracao-do-tenant-apenas-novas-contas). Caso contrário, prossiga para o próximo passo.
 4. Se a página Integrações estiver diferente da imagem acima, veja a seguir os possíveis motivos e como solucioná-los:
   - **O status `Ativar busca` não está ticado**: você não iniciou a integração. Clique em `Iniciar integração`.
-  - **Um dos status falhou e não está ticado**: se você já tentou iniciar a integração, mas ela ainda falhou, abra um ticket para o [Suporte VTEX](https://help.vtex.com/pt/support) para relatar o erro.
+  - **Um dos status falhou e não está ticado**: se você já tentou iniciar a integração, mas ela ainda falhou, abra um ticket para o [Suporte VTEX](/pt/support) para relatar o erro.
 
 ### Verificar a configuração do tenant (apenas novas contas)
 
@@ -63,7 +63,7 @@ Se você já tem a [busca integrada](#verificar-a-integracao-de-busca) e ainda v
 
 A VTEX usa uma abordagem de arquitetura [SaaS multi-tenancy](https://developers.vtex.com/docs/guides/cloud-infrastructure#saas-multi-tenancy), em que cada conta é um tenant (locatário) que precisa estar conectado (vinculado) à arquitetura da VTEX para sincronização de dados e informações.
 
-Para configurar o tenant em sua loja, abra um ticket para o time de [Suporte VTEX](https://help.vtex.com/pt/support) com essa solicitação. Após receber uma resposta do Suporte confirmando que o tenant foi configurado, acesse o VTEX Admin e clique em **Storefront > Site Editor** para verificar se ele abre corretamente. Se a tela continuar em branco, atualize o ticket aberto para que o time de Suporte VTEX possa investigar melhor.
+Para configurar o tenant em sua loja, abra um ticket para o time de [Suporte VTEX](/pt/support) com essa solicitação. Após receber uma resposta do Suporte confirmando que o tenant foi configurado, acesse o VTEX Admin e clique em **Storefront > Site Editor** para verificar se ele abre corretamente. Se a tela continuar em branco, atualize o ticket aberto para que o time de Suporte VTEX possa investigar melhor.
 
 ## Não consigo gerenciar o conteúdo da minha loja no Site Editor
 
@@ -81,9 +81,9 @@ Para solucionar esse erro, veja as instruções a seguir:
 
 ### Verificar se o perfil de acesso do usuário tem as permissões necessárias
 
-Um possível motivo para esse problema pode estar relacionado à falta do [recurso](https://help.vtex.com/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) `CMS GraphQL API` do License Manager em um [perfil de acesso](https://help.vtex.com/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) para gerenciamento de conteúdo. 
+Um possível motivo para esse problema pode estar relacionado à falta do [recurso](/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) `CMS GraphQL API` do License Manager em um [perfil de acesso](/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) para gerenciamento de conteúdo. 
 
-Certifique-se de que os usuários tenham o recurso `CMS GraphQL API` associado a seus perfis de acesso, seja [criando um novo perfil](https://help.vtex.com/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#creating-a-role) ou editando um existente.
+Certifique-se de que os usuários tenham o recurso `CMS GraphQL API` associado a seus perfis de acesso, seja [criando um novo perfil](/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#creating-a-role) ou editando um existente.
 
 Se ainda não for possível gerenciar o conteúdo mesmo depois de adicionar o recurso `CMS GraphQL API` à função do usuário, veja a próxima seção: [Verificar o locale principal do domínio ](#verificando-o-locale-principal-do-dominio).
 
@@ -121,19 +121,19 @@ Outro possível motivo para esse erro está relacionado à localidade configurad
     - A localidade está em letras minúsculas. Como essa configuração diferencia maiúsculas de minúsculas, a localidade deve aparecer como `pt-BR` ao invés vez de `pt-br`.
     - A localidade configurada na política comercial é diferente do `defaultLocale` identificado.
 
-8. Em todos os casos, abra um ticket para o [Suporte VTEX](https://help.vtex.com/pt/support) para solicitar a alteração da localidade configurada na política comercial. Lembre-se de incluir evidências do erro, como capturas de tela, logs de mensagens e detalhes da sua investigação prévia.
+8. Em todos os casos, abra um ticket para o [Suporte VTEX](/pt/support) para solicitar a alteração da localidade configurada na política comercial. Lembre-se de incluir evidências do erro, como capturas de tela, logs de mensagens e detalhes da sua investigação prévia.
 
 ## Perdi o conteúdo armazenado no Site Editor
 
-Abra um ticket para o time de [Suporte VTEX](https://help.vtex.com/pt/support) para investigar o problema mais a fundo.
+Abra um ticket para o time de [Suporte VTEX](/pt/support) para investigar o problema mais a fundo.
 
 Para evitar a perda de conteúdo armazenado no Site Editor ao alterar as dependências de pares do aplicativo Store Theme, siga os passos no guia [Migrating CMS settings after a major theme update](https://developers.vtex.com/docs/guides/vtex-io-documentation-migrating-cms-settings-after-major-update). 
 
-> ⚠️  Nos casos em que o conteúdo armazenado no Site Editor for perdido,a restauração é possível apenas se a perda estiver relacionada ao problema conhecido de [Perda intermitente de conteúdo do Site Editor](https://help.vtex.com/pt/known-issues/perda-intermitente-de-conteudo-do-site-editor--3a5MlAoD2Z7Gu6HDS8wihD). Nessa situação, abra um ticket para o [Suporte VTEX](https://help.vtex.com/pt/support) com a prioridade `urgente`. 
+> ⚠️  Nos casos em que o conteúdo armazenado no Site Editor for perdido,a restauração é possível apenas se a perda estiver relacionada ao problema conhecido de [Perda intermitente de conteúdo do Site Editor](/pt/known-issues/perda-intermitente-de-conteudo-do-site-editor--3a5MlAoD2Z7Gu6HDS8wihD). Nessa situação, abra um ticket para o [Suporte VTEX](/pt/support) com a prioridade `urgente`. 
 
 ## Continuo tendo problemas com o Site Editor 
 
-Se você já tentou as soluções mencionadas acima e ainda enfrenta problemas com o Site Editor, abra um ticket para o [Suporte VTEX](https://help.vtex.com/pt/support), incluindo evidências dos problemas encontrados:
+Se você já tentou as soluções mencionadas acima e ainda enfrenta problemas com o Site Editor, abra um ticket para o [Suporte VTEX](/pt/support), incluindo evidências dos problemas encontrados:
 
 - Mensagens de erro.
 - [Mensagens de log do console](https://developer.chrome.com/docs/devtools/console/understand-messages) (se houver alguma).

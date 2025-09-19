@@ -25,7 +25,7 @@ In addition, the new checkout allows selling products with personalized informat
 2. They can also include a special message in a gift package, adding a personal and emotional touch to the purchase.
 3. Serial numbers can be informed when selling jewelry, ensuring authenticity, and providing essential records for insurance or resale purposes.
 
-You can fully configure this customization per SKU by [adding attachments](https://help.vtex.com/en/tutorial/adding-an-attachment--7zHMUpuoQE4cAskqEUWScU), giving you increased flexibility and adaptability to meet specific product requirements.
+You can fully configure this customization per SKU by [adding attachments](/en/tutorial/adding-an-attachment--7zHMUpuoQE4cAskqEUWScU), giving you increased flexibility and adaptability to meet specific product requirements.
 
 ## Why did we make this change?
 We made this change to the Sales App with the aim of better meeting your needs and expectations. Reflecting market trends, we recognized the importance of offering an improved, faster, and more efficient shopping experience.
@@ -34,8 +34,8 @@ We made this change to the Sales App with the aim of better meeting your needs a
 No action is required, as the update will be automatically applied to all VTEX stores using Sales App. 
 
 For more information about Sales App, see the following documentation:
-- [Sales App - First steps and setting up](https://help.vtex.com/en/tracks/instore-getting-started-and-setting-up--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf)
-- [Sales App - Payments](https://help.vtex.com/en/tracks/instore-payments--43B4Nr7uZva5UdwWEt3PEy/2liigRors32hzqBNs2M1Oa)
-- [Sales App - Using the app](https://help.vtex.com/en/tracks/instore-using-the-app--4BYzQIwyOHvnmnCYQgLzdr/6cq4E1JCmA6vCvBCCtAgIM)
-- [Unified commerce strategies](https://help.vtex.com/en/tracks/unified-commerce-strategies--3WGDRRhc3vf1MJb9zGncnv/2LGAiUnHES1enjHsfi8fI3)
+- [Sales App - First steps and setting up](/en/tracks/instore-getting-started-and-setting-up--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf)
+- [Sales App - Payments](/en/tracks/instore-payments--43B4Nr7uZva5UdwWEt3PEy/2liigRors32hzqBNs2M1Oa)
+- [Sales App - Using the app](/en/tracks/instore-using-the-app--4BYzQIwyOHvnmnCYQgLzdr/6cq4E1JCmA6vCvBCCtAgIM)
+- [Unified commerce strategies](/en/tracks/unified-commerce-strategies--3WGDRRhc3vf1MJb9zGncnv/2LGAiUnHES1enjHsfi8fI3)
 

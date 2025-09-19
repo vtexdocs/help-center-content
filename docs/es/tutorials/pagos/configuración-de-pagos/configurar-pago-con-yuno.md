@@ -37,8 +37,8 @@ Para configurar Yuno, siga los pasos a continuación:
 8. En **Campos del Proveedor**, seleccione o complete los campos **Affiliation Name**, **Account ID**, **Public API Key**, **Private Secret Key**, **Main Account Name**, **Main Account App key** y **Main Account App token** según las instrucciones del proveedor.
 9. Haga clic en `Guardar`.
 
-Para configurar los métodos de pago a procesar por Yuno, acceda al [Configurar Condiciones de Pago](https://help.vtex.com/es/tutorial/condiciones-de-pago--tutorials_455#).
+Para configurar los métodos de pago a procesar por Yuno, acceda al [Configurar Condiciones de Pago](/es/tutorial/condiciones-de-pago--tutorials_455#).
 
-Para establecer condiciones especiales en los métodos de pago, acceda al [Configurar condiciones especiales de Pago](https://help.vtex.com/es/tutorial/condiciones-especiales--tutorials_456#).
+Para establecer condiciones especiales en los métodos de pago, acceda al [Configurar condiciones especiales de Pago](/es/tutorial/condiciones-especiales--tutorials_456#).
 
 Después de seguir los pasos indicados, Yuno puede tardar hasta 10 minutos en aparecer en el checkout de tu tienda como una opción de pago.

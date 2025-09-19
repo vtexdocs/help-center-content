@@ -17,13 +17,13 @@ announcementSynopsisPT: 'Tenha mais flexibilidade com o novo campo de faturament
 
 Frequentemente utilizada para disponibilizar pagamento através de dinheiro, promissória é uma promessa de pagamento que precisa de aprovação manual do lojista para concluir a transação.
 
-Na VTEX, dentre diversas opções de pagamento disponíveis, também é possível oferecer pagamento por [Promissórias](https://help.vtex.com/pt/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/1wWt35dRwEboRs1nrSx7G0#promissorias).
+Na VTEX, dentre diversas opções de pagamento disponíveis, também é possível oferecer pagamento por [Promissórias](/pt/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/1wWt35dRwEboRs1nrSx7G0#promissorias).
 
 ## O que mudou?
 
 Nas configurações atuais, por padrão, as promissórias são faturadas automaticamente no momento em que o pagamento é autorizado, o que pode não atender a necessidades de negócio mais específicas.
 
-Para alguns clientes, pode ser importante autorizar mudanças nos pedidos ([change order](https://help.vtex.com/pt/tutorial/change-mudanca-em-pedidos--3d1XLIgPQcwaKGyMiWaYog?&utm_source=autocomplete)). Nesse caso, o campo *Change Margin* deve ser preenchido no momento da configuração das Promissórias.
+Para alguns clientes, pode ser importante autorizar mudanças nos pedidos ([change order](/pt/tutorial/change-mudanca-em-pedidos--3d1XLIgPQcwaKGyMiWaYog?&utm_source=autocomplete)). Nesse caso, o campo *Change Margin* deve ser preenchido no momento da configuração das Promissórias.
 
 Quando o campo *Change Margin* é preenchido com um valor superior a zero, o faturamento passa a acontecer 30 dias após a autorização. 
 
@@ -35,4 +35,4 @@ Entendemos que cada negócio possui estratégias e necessidades diferentes, por 
 
 ## O que precisa ser feito?
 
-Por padrão, o número limite do novo campo já virá como 15 dias. Caso você queira alterar, basta acessar a documentação [Configurar pagamentos com Promissória](https://help.vtex.com/pt/tutorial/configurar-pagamentos-com-promissoria--5pW7avTwtyQcMu4uiW8quQ?&utm_source=autocomplete) e seguir o passo a passo.
+Por padrão, o número limite do novo campo já virá como 15 dias. Caso você queira alterar, basta acessar a documentação [Configurar pagamentos com Promissória](/pt/tutorial/configurar-pagamentos-com-promissoria--5pW7avTwtyQcMu4uiW8quQ?&utm_source=autocomplete) e seguir o passo a passo.

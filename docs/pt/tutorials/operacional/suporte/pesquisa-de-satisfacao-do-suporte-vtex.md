@@ -17,7 +17,7 @@ subcategoryId: 1yB08KlKzqJOdc0bn38HaY
 
 Após a resolução de um chamado, a equipe de suporte envia um email ao usuário com um link para a **Pesquisa de Satisfação**, para que ele avalie o atendimento recebido. A avaliação é realizada no ambiente VTEX.
 
-As Pesquisas de Satisfação estão disponíveis no Admin VTEX, em **Aplicativos > Apps instalados > Pesquisa de satisfação.** A página exibe um campo de busca para localizar a pesquisa de satisfação pelo ID do ticket ou assunto, e também oferece acesso ao [Help Center](https://help.vtex.com/pt) e [Developer Portal](https://developers.vtex.com/).
+As Pesquisas de Satisfação estão disponíveis no Admin VTEX, em **Aplicativos > Apps instalados > Pesquisa de satisfação.** A página exibe um campo de busca para localizar a pesquisa de satisfação pelo ID do ticket ou assunto, e também oferece acesso ao [Help Center](/pt) e [Developer Portal](https://developers.vtex.com/).
 
 As pesquisas de satisfação relacionadas aos tickets estão organizadas em três categorias:
 

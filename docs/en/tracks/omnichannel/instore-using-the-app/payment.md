@@ -15,7 +15,7 @@ trackSlugEN: instore-using-the-app
 order: 15
 ---
 
-In the VTEX Sales App payment step, the sales associate will see the [payment options that have been configured](https://help.vtex.com/en/tracks/instore-payments--43B4Nr7uZva5UdwWEt3PEy) for your store.
+In the VTEX Sales App payment step, the sales associate will see the [payment options that have been configured](/en/tracks/instore-payments--43B4Nr7uZva5UdwWEt3PEy) for your store.
 
 ![instore-payment-en](//images.ctfassets.net/alneenqid6w5/1Kka7eQvf03YXWR5DA2NEJ/37e9029b397ce3f04d2b6a87462c8666/Screenshot_2022-10-21_at_14-57-36_VTEX_VTEX Sales App_Checkout.png)
 
@@ -40,7 +40,7 @@ During VTEX Sales App configuration, you can add the following payment methods:
 * [Credit card](#credit-card)
 * [Debit card](#debit-card)
 
-To configure a payment method, follow the [VTEX Sales App - Payments](https://help.vtex.com/en/tracks/instore-pagamentos--43B4Nr7uZva5UdwWEt3PEy) track instructions. 
+To configure a payment method, follow the [VTEX Sales App - Payments](/en/tracks/instore-pagamentos--43B4Nr7uZva5UdwWEt3PEy) track instructions. 
 
 ### Cash
 
@@ -48,7 +48,7 @@ The customer must select the **Cash** option and click `Complete Sale`.
 
 ![instore-dinheiro-en](//images.ctfassets.net/alneenqid6w5/1Tz1XMpd6ObLZbyBcluOti/868ca0e64245ec78ed6794e0e4e5726f/Screenshot_2022-10-21_at_14-57-55_VTEX_VTEX Sales App_Checkout.png)
 
-Then, you must complete the transaction with the sales associate. Depending on the store's configuration, it can be either [manual or automatic](https://help.vtex.com/en/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/2WgQrlHTyVo4hLjhUs1LMT). 
+Then, you must complete the transaction with the sales associate. Depending on the store's configuration, it can be either [manual or automatic](/en/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/2WgQrlHTyVo4hLjhUs1LMT). 
 
 ### Pix (Brazil)
 

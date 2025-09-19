@@ -26,9 +26,9 @@ Users may experience difficulties when configuring promotions for marketplaces d
 To solve the problem of promotions not being applied to marketplaces, review the [trade policy](#selecting-trade-policies) and the [affiliate selection](#selecting-affiliates).
 
 ### Selecting trade policies
-[Trade policies](https://help.vtex.com/en/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE) define rules and conditions for applying promotions in marketplaces. You should select the right trade policy to ensure the promotion will apply as expected. Below are the steps for configuring a trade policy promotion.
+[Trade policies](/en/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE) define rules and conditions for applying promotions in marketplaces. You should select the right trade policy to ensure the promotion will apply as expected. Below are the steps for configuring a trade policy promotion.
 
-1. Create a [regular promotion](https://help.vtex.com/en/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI).
+1. Create a [regular promotion](/en/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI).
 2. In the **Trade policy** section, select the `Equal to` and **Delivered by me (other stores)** options.
 3. Choose the desired trade policies associated with the marketplaces.
 4. Click `Save`.
@@ -38,7 +38,7 @@ To solve the problem of promotions not being applied to marketplaces, review the
 ### Selecting affiliates
 To ensure a promotion is applied correctly in a marketplace, select the desired affiliat The affiliate is the partner associated with the marketplace that makes the promotional products available. Below are the steps for correctly selecting an affiliate when configuring a promotion.
 
-1. Create a [regular promotion](https://help.vtex.com/en/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI).  
+1. Create a [regular promotion](/en/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI).  
 2. Complete the **Affiliates** field with the name of the affiliate associated with the desired marketplace.  
 
    ![condições para promoção - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/troubleshooting/store-operations/promotion-not-applied-to-the-marketplace_2.png)
@@ -48,4 +48,4 @@ To ensure a promotion is applied correctly in a marketplace, select the desired 
 
 > ℹ️ Make sure you haven't created any additional promotion filters, such as payment methods, cluster filters, or cart limitations.
 
-Learn more in [Configuring promotions for marketplaces](https://help.vtex.com/en/tutorial/configurando-promocao-para-marketplace/).
+Learn more in [Configuring promotions for marketplaces](/en/tutorial/configurando-promocao-para-marketplace/).

@@ -19,13 +19,13 @@ Conceder crédito para terceiros é uma estratégia utilizada em diversos modelo
 
 Mas, antes de vermos mais a fundo a aplicação dessa estratégia, vamos fazer uma definição mais precisa do termo “crédito”. Toda empresa que aceita receber pagamentos parcelados precisa estabelecer um valor máximo por mês para arcar com essas pequenas “dívidas”. Esse valor é o __limite de crédito__.
 
-Na VTEX, o lojista conta com o [Customer Credit](https://help.vtex.com/pt/tutorial/customer-credit-visao-geral--1uIqTjWxIIIEW0COMg4uE0) para auxiliar na gestão desse tema. Trata-se de uma app que permite ao usuário conceder crédito para clientes - sejam pessoas físicas ou lojas parceiras - que podem usar esse crédito como meio de pagamento.
+Na VTEX, o lojista conta com o [Customer Credit](/pt/tutorial/customer-credit-visao-geral--1uIqTjWxIIIEW0COMg4uE0) para auxiliar na gestão desse tema. Trata-se de uma app que permite ao usuário conceder crédito para clientes - sejam pessoas físicas ou lojas parceiras - que podem usar esse crédito como meio de pagamento.
 
 Neste artigo abordamos uma sugestão de fluxo de implementação do Customer Credit em estratégias B2B.
 
 ## Selecione seus clientes
 
-Antes de qualquer coisa, é necessário fazer o download do Customer Credit na [VTEX App Store](https://apps.vtex.com/) e [configurá-lo](https://help.vtex.com/pt/tracks/customer-credit-como-comecar--1hCRg21lXYy2seOKgqQ2CC/21ok0GBwmcIeaY2IukYMOg) na sua loja.
+Antes de qualquer coisa, é necessário fazer o download do Customer Credit na [VTEX App Store](https://apps.vtex.com/) e [configurá-lo](/pt/tracks/customer-credit-como-comecar--1hCRg21lXYy2seOKgqQ2CC/21ok0GBwmcIeaY2IukYMOg) na sua loja.
 
 Como o intuito da sua estratégia é conceder crédito a algum parceiro, o próximo passo é selecionar os clientes a quem você deseja oferecer esse crédito. 
 
@@ -52,7 +52,7 @@ Este processo pode ser realizado tanto por um departamento de crédito quanto po
 
 ## Cadastre contas na app
 
-Agora que os clientes foram selecionados, é possível [criar as respectivas contas no Customer Credit](https://help.vtex.com/pt/tracks/customer-credit-como-comecar--1hCRg21lXYy2seOKgqQ2CC/7FHLd0cmxqqGeEUuc8uioU).
+Agora que os clientes foram selecionados, é possível [criar as respectivas contas no Customer Credit](/pt/tracks/customer-credit-como-comecar--1hCRg21lXYy2seOKgqQ2CC/7FHLd0cmxqqGeEUuc8uioU).
 
 Atualmente, contamos com três formas de o lojista realizar essa operação:
 - Cadastro da base por meio da [API do Customer Credit](https://developers.vtex.com/reference/customer-credit-api-overview).
@@ -81,6 +81,6 @@ Nos casos em que a loja trabalha com gestão externa de crédito em seu ERP, rec
 
 Outro diferencial da API é que a operação cadastra a conta e ao mesmo tempo concede limite para ela.
 
-Você pode conferir o tutorial de como cadastrar uma conta por cada um desses métodos na [trilha de introdução ao Customer Credit](https://help.vtex.com/pt/tracks/customer-credit-como-comecar--1hCRg21lXYy2seOKgqQ2CC/7FHLd0cmxqqGeEUuc8uioU).
+Você pode conferir o tutorial de como cadastrar uma conta por cada um desses métodos na [trilha de introdução ao Customer Credit](/pt/tracks/customer-credit-como-comecar--1hCRg21lXYy2seOKgqQ2CC/7FHLd0cmxqqGeEUuc8uioU).
 
-Após a configuração inicial, o passo seguinte é o [gerenciamento das contas](https://help.vtex.com/pt/tracks/customer-credit-como-comecar--1hCRg21lXYy2seOKgqQ2CC/4eknoeqaj6EGC20amsm6Gc), com o objetivo de garantir um fluxo de crédito saudável.
+Após a configuração inicial, o passo seguinte é o [gerenciamento das contas](/pt/tracks/customer-credit-como-comecar--1hCRg21lXYy2seOKgqQ2CC/4eknoeqaj6EGC20amsm6Gc), com o objetivo de garantir um fluxo de crédito saudável.

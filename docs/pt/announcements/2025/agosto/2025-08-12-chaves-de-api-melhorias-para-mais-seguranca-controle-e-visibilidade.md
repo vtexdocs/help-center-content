@@ -73,7 +73,7 @@ O link de acesso único pode ser copiado para acesso posterior ou compartilhado 
   </tr>
 </table>
 
-* **Exclusão de token pendente**: adicionamos alertas para notificar quando a exclusão de um token antigo estiver pendente, após a [renovação](https://help.vtex.com/pt/tutorial/renovar-token-de-api--7r4AzptYjXErGHadg9LnJ3).
+* **Exclusão de token pendente**: adicionamos alertas para notificar quando a exclusão de um token antigo estiver pendente, após a [renovação](/pt/tutorial/renovar-token-de-api--7r4AzptYjXErGHadg9LnJ3).
 
 <table style="border-collapse:collapse;border:none;margin:auto;">
   <tr>
@@ -118,9 +118,9 @@ Nenhuma ação é necessária. A atualização é automática para todas as cont
 
 Confira a documentação atualizada para explorar todas as funcionalidades:
 
-* [Chaves de API](https://help.vtex.com/pt/tutorial/chaves-de-api--4bFEmcHXgpNksoePchZyy6)  
-* [Chaves externas](https://help.vtex.com/pt/tutorial/chaves-terceiras--1isU0HfKkeg0atlxRha14Q) 
-* [Chaves geradas](https://help.vtex.com/pt/tutorial/chaves-geradas--7fnU4iZdvZKbxCaT3Ymdjc)  
-* [Configurar alerta para renovar tokens de API](https://help.vtex.com/pt/tutorial/configurar-a-duracao-de-chaves-de-api--kcGIFysFt02FDuhsfjQwZ)  
-* [Exportar chaves de API](https://help.vtex.com/pt/tutorial/exportar-chaves-de-api--1p4eYJWD26gOdicUdiiGC5)  
-* [Renovar token de API](https://help.vtex.com/pt/tutorial/renovar-token-de-api--7r4AzptYjXErGHadg9LnJ3)
+* [Chaves de API](/pt/tutorial/chaves-de-api--4bFEmcHXgpNksoePchZyy6)  
+* [Chaves externas](/pt/tutorial/chaves-terceiras--1isU0HfKkeg0atlxRha14Q) 
+* [Chaves geradas](/pt/tutorial/chaves-geradas--7fnU4iZdvZKbxCaT3Ymdjc)  
+* [Configurar alerta para renovar tokens de API](/pt/tutorial/configurar-a-duracao-de-chaves-de-api--kcGIFysFt02FDuhsfjQwZ)  
+* [Exportar chaves de API](/pt/tutorial/exportar-chaves-de-api--1p4eYJWD26gOdicUdiiGC5)  
+* [Renovar token de API](/pt/tutorial/renovar-token-de-api--7r4AzptYjXErGHadg9LnJ3)

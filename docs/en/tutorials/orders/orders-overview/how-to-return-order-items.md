@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 3VNOhxDrvYxJThhuJClrYZ
 ---
 
-On the **Order Details** page, retailers can track specific products’ life-cycle by analyzing their interactions, data, and context. Learn more about the new [Order Details](https://help.vtex.com/en/tutorial/order-details-page-interface--2Y75n54Cc9VizrlG1N6ZNl) page. 
+On the **Order Details** page, retailers can track specific products’ life-cycle by analyzing their interactions, data, and context. Learn more about the new [Order Details](/en/tutorial/order-details-page-interface--2Y75n54Cc9VizrlG1N6ZNl) page. 
 
 You can return some items or all of them even when they were invoiced if your customer requests it, as long as the items are inserted in the invoice. A typical scenario for this action is when a customer in the fashion segment wants to return a clothing item and exchange it for one with a different size, for example.
 

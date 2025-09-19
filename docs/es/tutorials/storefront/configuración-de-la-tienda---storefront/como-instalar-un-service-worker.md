@@ -34,4 +34,4 @@ Para más información, consulte el [Web Fundamentals](https://developers.google
 
 ### Artículos relacionados
 
-- [Cómo transformar mi tienda en un PWA](https://help.vtex.com/es/tutorial/como-transformar-el-sitio-de-mi-tienda-en-un-pwa--3i8VmYeToAUGKgo2kKK6I2)
+- [Cómo transformar mi tienda en un PWA](/es/tutorial/como-transformar-el-sitio-de-mi-tienda-en-un-pwa--3i8VmYeToAUGKgo2kKK6I2)

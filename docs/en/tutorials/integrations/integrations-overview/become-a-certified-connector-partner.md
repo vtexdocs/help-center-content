@@ -25,4 +25,4 @@ For external marketplaces with no interest in becoming a VTEX partner but that w
 
 | **LEARN MORE** |
 | ---------- |
-|For more information about growth opportunities, check out [Marketplace strategies in VTEX](https://help.vtex.com/en/tutorial/integrando-com-marketplace--tutorials_402?&utm_source=autocomplete).|
+|For more information about growth opportunities, check out [Marketplace strategies in VTEX](/en/tutorial/integrando-com-marketplace--tutorials_402?&utm_source=autocomplete).|

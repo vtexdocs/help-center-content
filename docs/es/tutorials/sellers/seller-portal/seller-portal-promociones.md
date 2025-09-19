@@ -40,7 +40,7 @@ En la siguiente tabla puedes consultar la información de la página **Promocion
 
 ## Crear nueva promoción
 
-Para registrar una nueva promoción, haz clic en el botón `Crear promoción`. Para más información, consulta el tutorial [Seller Portal: crear una promoción](https://help.vtex.com/es/tutorial/seller-portal-crear-una-promocion--kzNPEaiJE8EWkDzO9dbBI).
+Para registrar una nueva promoción, haz clic en el botón `Crear promoción`. Para más información, consulta el tutorial [Seller Portal: crear una promoción](/es/tutorial/seller-portal-crear-una-promocion--kzNPEaiJE8EWkDzO9dbBI).
 
 ## Buscar promociones
 

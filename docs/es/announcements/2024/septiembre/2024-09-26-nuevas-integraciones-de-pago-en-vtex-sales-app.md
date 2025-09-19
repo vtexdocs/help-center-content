@@ -18,13 +18,13 @@ announcementSynopsisES: 'Descubra las dos nuevas integraciones de pago disponibl
 Con el fin de optimizar las operaciones de VTEX Sales App en tu tienda, VTEX disponibiliza dos nuevas opciones de integración de pago: __Cielo__ y __Mercado Pago__.
 
 ## ¿Qué cambió?
-A partir de ahora, además de la integración con [Adyen](https://help.vtex.com/es/tutorial/configurar-pagos-con-adyenv3-en-vtex-sales-app--24yO6KloBn6DN6CbprHtgt), también puedes utilizar __Cielo__ y __Mercado Pago__ para procesar transacciones de pago con VTEX Sales App, permitiendo una mayor flexibilidad a la hora de definir el proveedor de servicios de pago que es el más adecuado para satisfacer las necesidades de tu negocio.
+A partir de ahora, además de la integración con [Adyen](/es/tutorial/configurar-pagos-con-adyenv3-en-vtex-sales-app--24yO6KloBn6DN6CbprHtgt), también puedes utilizar __Cielo__ y __Mercado Pago__ para procesar transacciones de pago con VTEX Sales App, permitiendo una mayor flexibilidad a la hora de definir el proveedor de servicios de pago que es el más adecuado para satisfacer las necesidades de tu negocio.
 
-> ℹ️ En VTEX, estamos continuamente desarrollando nuevas opciones de integración de pagos para VTEX Sales App. Siempre que lo desees, accede a la [Lista de Proveedores de Pago por País](https://help.vtex.com/es/tutorial/lista-de-proveedores-de-pago-por-pais--2im3BEGXxSAcRuxEaIHPvp) y filtra la búsqueda por "Sales App" para consultar la disponibilidad actual de proveedores.
+> ℹ️ En VTEX, estamos continuamente desarrollando nuevas opciones de integración de pagos para VTEX Sales App. Siempre que lo desees, accede a la [Lista de Proveedores de Pago por País](/es/tutorial/lista-de-proveedores-de-pago-por-pais--2im3BEGXxSAcRuxEaIHPvp) y filtra la búsqueda por "Sales App" para consultar la disponibilidad actual de proveedores.
 
 ## ¿Qué se necesita hacer?
 Para configurar las nuevas integraciones de pago de VTEX Sales App en tu tienda, consulta los siguientes artículos:
-- [Cielo](https://help.vtex.com/es/tutorial/configurar-pagos-con-cielo-en-vtex-sales-app--2p8rALKTNojgEl8zKn5BtG)
-- [Mercado Pago](https://help.vtex.com/es/tutorial/configurar-pagos-con-mercado-pago-en-vtex-sales-app--51fgSydGGOnlBdtwTfE8BE)
+- [Cielo](/es/tutorial/configurar-pagos-con-cielo-en-vtex-sales-app--2p8rALKTNojgEl8zKn5BtG)
+- [Mercado Pago](/es/tutorial/configurar-pagos-con-mercado-pago-en-vtex-sales-app--51fgSydGGOnlBdtwTfE8BE)
 
 > ℹ️ Si deseas obtener más información sobre cómo funcionan las integraciones de pago en VTEX Sales App, accede a [Payment Provider Protocol for Point of Sale (POS) - VTEX Sales App](https://developers.vtex.com/docs/guides/payments-integration-ppp-applied-to-pos).

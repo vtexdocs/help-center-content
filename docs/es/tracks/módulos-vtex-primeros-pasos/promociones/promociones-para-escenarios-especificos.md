@@ -41,7 +41,7 @@ Puede, entonces, definir un valor de descuento para cada una de estas listas. Si
 
 Dos ejemplos de este tipo de promoción serían "Compre un pantalón y gane 10% de descuento en la compra de un cinturón" y "Compre un par de zapatos + un par de calcetines y gane 15% de descuento".
 
-Para entender la promoción Comprar Juntos con más detalle, consulte el artículo [Crear la promoción Comprar Juntos](https://help.vtex.com/es/tutorial/comprar-juntos--tutorials_323).
+Para entender la promoción Comprar Juntos con más detalle, consulte el artículo [Crear la promoción Comprar Juntos](/es/tutorial/comprar-juntos--tutorials_323).
 
 ### Más por Menos
 
@@ -56,7 +56,7 @@ Por ejemplo:
 - Por cada `3` productos, el cliente llevará `1` producto `gratis`.
 - Por cada `5` productos, el cliente llevará `2` productos `con descuento` del `30%`.
 
-Para comprender la promoción Más por Menos con más detalle, consulte el artículo [Crear promoción Más por Menos](https://help.vtex.com/es/tutorial/crear-promocion-mas-por-menos--tutorials_325).
+Para comprender la promoción Más por Menos con más detalle, consulte el artículo [Crear promoción Más por Menos](/es/tutorial/crear-promocion-mas-por-menos--tutorials_325).
 
 ### Descuento Progresivo
 
@@ -70,7 +70,7 @@ Para continuar la progresión del descuento, haga clic en el botón "+". Se agre
 
 ![Desconto progressivo - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/m%C3%B3dulos-vtex-primeros-pasos/promociones/promociones-para-escenarios-especificos_3.png)
 
-Para entender la promoción del Descuento Progresivo con más detalle, vea el artículo [Cómo el Descuento Progresivo funciona](https://help.vtex.com/es/tutorial/descuento-progresivo--tutorials_324).
+Para entender la promoción del Descuento Progresivo con más detalle, vea el artículo [Cómo el Descuento Progresivo funciona](/es/tutorial/descuento-progresivo--tutorials_324).
 
 ### Compre y Gane
 
@@ -80,7 +80,7 @@ El descuento aplicado (flete gratis o regalo) debe definirse en los datos genera
 
 ![Compre e Ganhe - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/m%C3%B3dulos-vtex-primeros-pasos/promociones/promociones-para-escenarios-especificos_4.png)
 
-Para entender la promoción Compre y Gane con más detalle, vea el artículo  [Cómo funciona la promoción Compre y Gane](https://help.vtex.com/es/tutorial/compre-y-gane--tutorials_322).
+Para entender la promoción Compre y Gane con más detalle, vea el artículo  [Cómo funciona la promoción Compre y Gane](/es/tutorial/compre-y-gane--tutorials_322).
 
 ### Límite de ítems con promoción en el carrito  
 
@@ -88,7 +88,7 @@ Esta configuración define cuántos ítems del carrito serán objeto de la promo
 
 > ⚠️ Es importante señalar que esta posibilidad es **válida apenas para una promoción regular con descuento porcentual.**
 
-Después de rellenar todos [los campos de una promoción regular](https://help.vtex.com/es/tutorial/regular-promotion--tutorials_327) con descuento porcentual, puede seleccionar la opción __Definir la cantidad máxima de ítems afectados por carrito__ en la sección __Restricciones y limitaciones de uso__.
+Después de rellenar todos [los campos de una promoción regular](/es/tutorial/regular-promotion--tutorials_327) con descuento porcentual, puede seleccionar la opción __Definir la cantidad máxima de ítems afectados por carrito__ en la sección __Restricciones y limitaciones de uso__.
 
 ![Limite itens - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/m%C3%B3dulos-vtex-primeros-pasos/promociones/promociones-para-escenarios-especificos_5.png)
 

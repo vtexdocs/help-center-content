@@ -21,7 +21,7 @@ tags:
   - Rewriter
 ---
 
-Cuando el usuario realiza una búsqueda en una tienda VTEX utilizando [Intelligent Search](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG), es posible que no se muestre el producto deseado, aunque el término utilizado en la búsqueda esté presente en la información registrada del ítem.
+Cuando el usuario realiza una búsqueda en una tienda VTEX utilizando [Intelligent Search](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG), es posible que no se muestre el producto deseado, aunque el término utilizado en la búsqueda esté presente en la información registrada del ítem.
 
 Ejemplo: al buscar en el sitio web de la tienda productos que contengan el término "Pendleton", los resultados de la búsqueda muestran 6 productos. Sin embargo, cuando accedemos al Admin VTEX (__Storefront > Intelligent Search > Explicación de la búsqueda__) e ingresamos el mismo término, se muestran 9 productos.
 
@@ -33,7 +33,7 @@ Este comportamiento puede ocurrir debido a los siguientes escenarios:
 
 1. Registro incorrecto del producto en el catálogo.
 
-2. El término utilizado no está presente en uno de los campos buscables del producto. Más información en [Configuración del comportamiento de la búsqueda](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/23mytRDsEduqLO0Lo7yufy#configuracion-del-comportamiento-de-la-busqueda) y [Configuración de la búsqueda](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5t75L6lYNwix93l41s1Yrx).
+2. El término utilizado no está presente en uno de los campos buscables del producto. Más información en [Configuración del comportamiento de la búsqueda](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/23mytRDsEduqLO0Lo7yufy#configuracion-del-comportamiento-de-la-busqueda) y [Configuración de la búsqueda](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5t75L6lYNwix93l41s1Yrx).
 
 3. Rota interna redirecionando o resultado da pesquisa para uma página de marca (brand).
 
@@ -47,15 +47,15 @@ Para que los productos buscados se muestren correctamente en los resultados de b
 
 ### Verificar campos de registro del producto
 
-La ausencia del producto en un resultado de búsqueda puede atribuirse a que algunos campos se rellenaron incorrectamente durante el proceso de [registro del producto](https://help.vtex.com/es/tutorial/campos-de-registro-de-producto--4dYXWIK3zyS8IceKkQseke). Sigue los pasos a continuación para comprobar los campos __Marca__, __Mostrar en el sitio web__ y __Mostrar cuando no tenga stock__:
+La ausencia del producto en un resultado de búsqueda puede atribuirse a que algunos campos se rellenaron incorrectamente durante el proceso de [registro del producto](/es/tutorial/campos-de-registro-de-producto--4dYXWIK3zyS8IceKkQseke). Sigue los pasos a continuación para comprobar los campos __Marca__, __Mostrar en el sitio web__ y __Mostrar cuando no tenga stock__:
 
 1. En el Admin VTEX, accede a **Catálogo > Todos los productos**.
 
-> ⚠️ Las tiendas que utilizan la página **Productos y SKUs (beta)** deben verificar los campos de registro de productos accediendo a **Catálogo >  Productos y SKUs** en el Admin VTEX. Más información en [Productos y SKUs (beta)](https://help.vtex.com/es/tutorial/productos-y-skus-beta--2ig7TmROlirWirZjFWZ3By).
+> ⚠️ Las tiendas que utilizan la página **Productos y SKUs (beta)** deben verificar los campos de registro de productos accediendo a **Catálogo >  Productos y SKUs** en el Admin VTEX. Más información en [Productos y SKUs (beta)](/es/tutorial/productos-y-skus-beta--2ig7TmROlirWirZjFWZ3By).
 
 2. Haz clic en sobre el producto que deseas **EDITAR**.
 
-3. Comprueba que la información contenida en el campo **Marca** es correcta. Si es necesario, agrega la marca del producto. Solo se pueden agregar marcas que hayan sido previamente [registradas en la tienda](https://help.vtex.com/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/7lEGOSpAlQJCs5eUc5XFmR).
+3. Comprueba que la información contenida en el campo **Marca** es correcta. Si es necesario, agrega la marca del producto. Solo se pueden agregar marcas que hayan sido previamente [registradas en la tienda](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/7lEGOSpAlQJCs5eUc5XFmR).
 
 4. Confirma que la casilla correspondiente a la opción **Mostrar en el sitio web** está seleccionada.
 
@@ -71,13 +71,13 @@ La ausencia del producto en un resultado de búsqueda puede atribuirse a que alg
 
 Otro factor que puede contribuir a que un producto no se muestre en un resultado de búsqueda es el comportamiento predeterminado que la aplicación [Rewriter](https://developers.vtex.com/docs/apps/vtex.rewriter) presenta al mostrar productos.
 
-Si un término está registrado en Rewriter como marca, [Intelligent Search](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4uSFqyJVCMVMIvVrtz3lxZ) recibirá la información de que dicho término solo debe mostrarse cuando esté asociado a una marca específica.
+Si un término está registrado en Rewriter como marca, [Intelligent Search](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4uSFqyJVCMVMIvVrtz3lxZ) recibirá la información de que dicho término solo debe mostrarse cuando esté asociado a una marca específica.
 
 Para remover la restricción de búsqueda por marca (brand) y permitir que los productos también se muestren en los resultados de la búsqueda si contienen términos presentes en el nombre o la descripción (full text), sigue los pasos que se indican a continuación:
 
 1. En el Admin VTEX, accede a **Storefront > Intelligent Search > Explicación de la búsqueda** e ingresa el término deseado para comprobar cuántos productos esta búsqueda devuelve.
 
-2. Configure la aplicación [Rewriter](https://developers.vtex.com/docs/apps/vtex.rewriter). Si la aplicación aún no está instalada en tu tienda, accede a [App Store](https://help.vtex.com/es/tracks/hub-de-extensiones--AW7klkYMh557y5IUOgzco/2LDRvGujYsumxi7IlE7CEJ) para instalarla.
+2. Configure la aplicación [Rewriter](https://developers.vtex.com/docs/apps/vtex.rewriter). Si la aplicación aún no está instalada en tu tienda, accede a [App Store](/es/tracks/hub-de-extensiones--AW7klkYMh557y5IUOgzco/2LDRvGujYsumxi7IlE7CEJ) para instalarla.
 
 3. En **Configuración de la tienda > Storefront**, accede a [GraphQL IDE](https://developers.vtex.com/docs/guides/graphql-ide#graphql-basics).
 

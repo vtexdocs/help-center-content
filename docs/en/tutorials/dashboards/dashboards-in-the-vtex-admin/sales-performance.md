@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 1TIJqw8kV2Yok4iQe4SAkq
 ---
 
-The Sales Performance page is a dashboard for unified commerce that helps stores grow their business and make decisions more accurately. The dashboard allows users to analyze order data from their stores and sellers, in the case of stores that [operate as marketplaces](https://help.vtex.com/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#acting-as-a-marketplace). On this page, users can:
+The Sales Performance page is a dashboard for unified commerce that helps stores grow their business and make decisions more accurately. The dashboard allows users to analyze order data from their stores and sellers, in the case of stores that [operate as marketplaces](/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#acting-as-a-marketplace). On this page, users can:
 
 - Monitor the health of their business  
 - Assess the impact of high-demand events, such as Black Friday and Cyber Monday, on their sales  
@@ -30,7 +30,7 @@ You can customize the view of chart and list data by filtering by period, dimens
 
 ## Data 
 
-The data on the page comes from the [VTEX Order Management System](https://help.vtex.com/en/tracks/orders--2xkTisx4SXOWXQel8Jg8sa). Sales Performance is an analytical solution, which calculates metrics using heuristics and formulas created based on our experience taking our ecommerce clients to the next level. The page must not be used as a substitute for the data from the OMS, but as a tool for analysis and business insights.
+The data on the page comes from the [VTEX Order Management System](/en/tracks/orders--2xkTisx4SXOWXQel8Jg8sa). Sales Performance is an analytical solution, which calculates metrics using heuristics and formulas created based on our experience taking our ecommerce clients to the next level. The page must not be used as a substitute for the data from the OMS, but as a tool for analysis and business insights.
 
 To ensure that you have access to the latest updated data as well as to all of your history for conducting analysis without affecting performance, internally, the Sales Performance dashboard divides this data in separate groups.
 
@@ -85,10 +85,10 @@ Dimensions are the options available for filtering, grouping, and comparing data
 | 1P / 3P | 1P, or first-party, determines the metrics of the store itself. 3P, or third party, determines the metrics of third parties. For example, by selecting the Orders metric and filtering by 3P, you'll see orders from third parties, i.e., your sellers, in the list and in the chart. |
 | Campaign | Name of the campaigns created in the VTEX Admin. |
 | Coupon | Name of the coupons created in the VTEX Admin. |
-| Trade policy | Name of the [trade policies](https://help.vtex.com/en/tutorial/how-trade-policies-work--6Xef8PZiFm40kg2STrMkMV) in your store. The filter will apply each policy’s strategy and sales channels. |
-| Promotions | Name of the [promotions](https://help.vtex.com/en/tutorial/promotion-examples--5A8UTc7knvAscxo7e7rMFD) created in the VTEX Admin. |
-| UTM Campaign | Name of the [UTM](https://help.vtex.com/en/tutorial/what-are-utm-source-utm-campaign-and-utm-medium--2wTz7QJ8KUG6skGAoAQuii) Campaigns for your campaigns. |
-| UTM Source | Name of the [UTM](https://help.vtex.com/en/tutorial/what-are-utm-source-utm-campaign-and-utm-medium--2wTz7QJ8KUG6skGAoAQuii) Sources to track the traffic source on your ecommerce store. |
+| Trade policy | Name of the [trade policies](/en/tutorial/how-trade-policies-work--6Xef8PZiFm40kg2STrMkMV) in your store. The filter will apply each policy’s strategy and sales channels. |
+| Promotions | Name of the [promotions](/en/tutorial/promotion-examples--5A8UTc7knvAscxo7e7rMFD) created in the VTEX Admin. |
+| UTM Campaign | Name of the [UTM](/en/tutorial/what-are-utm-source-utm-campaign-and-utm-medium--2wTz7QJ8KUG6skGAoAQuii) Campaigns for your campaigns. |
+| UTM Source | Name of the [UTM](/en/tutorial/what-are-utm-source-utm-campaign-and-utm-medium--2wTz7QJ8KUG6skGAoAQuii) Sources to track the traffic source on your ecommerce store. |
 
 ## Metrics
 Both the chart and the list display the metrics of your store based on data from the Order Management (OMS) module. The metrics are divided into:

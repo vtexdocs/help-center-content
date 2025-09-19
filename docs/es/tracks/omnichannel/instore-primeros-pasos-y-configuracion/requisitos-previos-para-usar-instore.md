@@ -44,7 +44,7 @@ VTEX Sales App también funciona en computadores con sistema operativo **Windows
 * 4 GB de memoria RAM (o superior)
 * 120GB de HD/SSD (o superior)
 
-Para saber cómo instalar la aplicación VTEX Sales App, accede a nuestra guía de [instalación](https://help.vtex.com/es/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr/2rPSJ8519UCCZo5uEBkqxh).
+Para saber cómo instalar la aplicación VTEX Sales App, accede a nuestra guía de [instalación](/es/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr/2rPSJ8519UCCZo5uEBkqxh).
 
 ### Internet
 
@@ -64,7 +64,7 @@ Recomendaciones adicionales:
 
 Con VTEX Sales App, puedes escanear el código de barras de tus productos utilizando la cámara de tu _tablet _o _smartphone_, aunque no funcionen tan bien como los dispositivos especializados en esta función.
 
-Es esencial que registres el código de barras de cada ítem en su Catálogo, siguiendo los pasos de la guía [Registro de códigos de barras de los SKU para VTEX Sales App](https://help.vtex.com/es/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/4eooWH0d8Aiwzparyi4Hg).
+Es esencial que registres el código de barras de cada ítem en su Catálogo, siguiendo los pasos de la guía [Registro de códigos de barras de los SKU para VTEX Sales App](/es/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/4eooWH0d8Aiwzparyi4Hg).
 
 Te recomendamos que utilices un lector de código de barras específico si tu tienda suele recibir pedidos de varios ítems y si es importante tener más velocidad y precisión en el momento de finalización de la compra. Puedes elegir cualquier lector de código de barras para escanear los productos en VTEX Sales App. Un ejemplo de lector de código de barras es el Honeywell Solaris MK7820.
 
@@ -89,11 +89,11 @@ VTEX tiene un contrato estándar con estos _partners_ para facilitar la implemen
 
 ### Pagos
 
-Para configurar el adquiriente que procesará los pagos de su tienda, vaya a [Configuración de métodos de pago para VTEX Sales App](https://help.vtex.com/es/tracks/instore-pagamentos--43B4Nr7uZva5UdwWEt3PEy).
+Para configurar el adquiriente que procesará los pagos de su tienda, vaya a [Configuración de métodos de pago para VTEX Sales App](/es/tracks/instore-pagamentos--43B4Nr7uZva5UdwWEt3PEy).
 
 ### Facturación
 
-Para emitir la factura al consumidor, VTEX dispone de integraciones con ERP y otros sistemas responsables de esta parte del proceso. Puedes entender mejor esta funcionalidad consultando la [Guía de integración con la factura electrónica](https://help.vtex.com/es/tutorial/guia-de-integracao-do-gerenciamento-de-pedidos-com-cf-e-para-o-vtex-instore--51xsyWzGiQ08KMO2EaaGAa).
+Para emitir la factura al consumidor, VTEX dispone de integraciones con ERP y otros sistemas responsables de esta parte del proceso. Puedes entender mejor esta funcionalidad consultando la [Guía de integración con la factura electrónica](/es/tutorial/guia-de-integracao-do-gerenciamento-de-pedidos-com-cf-e-para-o-vtex-instore--51xsyWzGiQ08KMO2EaaGAa).
 
 Recomendamos los siguientes _partners_ de facturación:
 
@@ -104,27 +104,27 @@ Puedes ponerte en contacto con el [equipo de soporte de VTEX](https://support.vt
 
 ## Casos de uso
 
-A continuación se describen los requisitos previos y las recomendaciones para los principales casos de uso de VTEX Sales App en tu estrategia de [comercio unificado](https://help.vtex.com/es/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv/2LGAiUnHES1enjHsfi8fI3).
+A continuación se describen los requisitos previos y las recomendaciones para los principales casos de uso de VTEX Sales App en tu estrategia de [comercio unificado](/es/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv/2LGAiUnHES1enjHsfi8fI3).
 
 ### Pasillo infinito
 
-El [pasillo infinito](https://help.vtex.com/es/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv/40KMlmGI5tN0r0KPCDWgGn) es el recurso que permite a tus clientes acceder a todo tu inventario, integrado en todos los canales. Así, si un cliente está en una tienda física, puede comprar un producto del _stock_ de otras tiendas o incluso de tu ecommerce.
+El [pasillo infinito](/es/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv/40KMlmGI5tN0r0KPCDWgGn) es el recurso que permite a tus clientes acceder a todo tu inventario, integrado en todos los canales. Así, si un cliente está en una tienda física, puede comprar un producto del _stock_ de otras tiendas o incluso de tu ecommerce.
 
-Para más información, consulta nuestra guía sobre el [Pasillo infinito](https://help.vtex.com/es/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv/40KMlmGI5tN0r0KPCDWgGn).
+Para más información, consulta nuestra guía sobre el [Pasillo infinito](/es/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv/40KMlmGI5tN0r0KPCDWgGn).
 
 Los requisitos previos para implementar el pasillo infinito en tu tienda son todos los elementos descritos anteriormente.
 
 ### Envío desde la tienda y Puntos de recogida
 
-El [Envío desde la tienda](https://help.vtex.com/es/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv/50GAmxxFsJoLWqcnMysWdl) transforma tus tiendas físicas en pequeños centros de distribución. Con este recurso, puedes enviar productos desde el _stock_ de una tienda aunque no se hayan comprado allí.
+El [Envío desde la tienda](/es/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv/50GAmxxFsJoLWqcnMysWdl) transforma tus tiendas físicas en pequeños centros de distribución. Con este recurso, puedes enviar productos desde el _stock_ de una tienda aunque no se hayan comprado allí.
 
-Los [Puntos de recogida](https://help.vtex.com/es/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv/4hXfgqXxS1lwAfnxgja3xW) son lugares donde los clientes tienen la opción de recoger ellos mismos sus pedidos. Las tiendas físicas de tu cadena, por ejemplo, pueden funcionar como puntos de recogida.
+Los [Puntos de recogida](/es/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv/4hXfgqXxS1lwAfnxgja3xW) son lugares donde los clientes tienen la opción de recoger ellos mismos sus pedidos. Las tiendas físicas de tu cadena, por ejemplo, pueden funcionar como puntos de recogida.
 
 Los requisitos previos para implementar estas estrategias son todos los elementos descritos anteriormente.
 
 Recomendaciones adicionales:
 
-* Activar el módulo **Checkout v6**. Lee el artículo [Cómo activar el Checkout v6](https://help.vtex.com/es/tutorial/ativar-o-checkout-v6--7qVqv3ptRvpVVplrvg8ruH) para más información.
+* Activar el módulo **Checkout v6**. Lee el artículo [Cómo activar el Checkout v6](/es/tutorial/ativar-o-checkout-v6--7qVqv3ptRvpVVplrvg8ruH) para más información.
 * Precios: recomendamos que tus tiendas físicas hereden los precios del ecommerce. Sin embargo, si decides tener precios diferentes, ten en cuenta los requisitos y las observaciones a continuación.
     * Es necesario involucrar a una agencia aliada para regionalizar el catálogo.
     * Esto puede afectar a las herramientas de comparación de precios, ya que solo reciben un valor.
@@ -133,7 +133,7 @@ Recomendaciones adicionales:
 
 ### VTEX Sales App integrado con el PDV
 
-Esta es la función que te permite utilizar VTEX Sales App [integrado con los puntos de venta](https://help.vtex.com/es/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv/5XWo7q35jkDDq3PxUs1EVi) de tus tiendas físicas.
+Esta es la función que te permite utilizar VTEX Sales App [integrado con los puntos de venta](/es/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv/5XWo7q35jkDDq3PxUs1EVi) de tus tiendas físicas.
 
 Requisitos previos para implementar la integración entre VTEX Sales App y el PDV:
 

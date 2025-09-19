@@ -23,13 +23,13 @@ A VTEX usa o provedor de CDN **Cloudfront** nas lojas. É importante que o domí
 
 Portanto, se você tem o domínio da loja registrado na plataforma da **Cloudfront**, remova este registro antes de realizar o apontamento de DNS para a VTEX.
 
-> ⚠️ Se não for possível remover o registro do domínio da sua loja na plataforma **Cloudfront**, entre em contato com o [suporte VTEX](https://help.vtex.com/pt/support) explicando a situação. Dessa forma, o time da VTEX irá te auxiliar para garantir o bom funcionamento da loja no go-live.
+> ⚠️ Se não for possível remover o registro do domínio da sua loja na plataforma **Cloudfront**, entre em contato com o [suporte VTEX](/pt/support) explicando a situação. Dessa forma, o time da VTEX irá te auxiliar para garantir o bom funcionamento da loja no go-live.
 
 ## Configurar registro CAA
 
 > ⚠️ A configuração de registros de CAA como descrita nesta seção só é necessária caso haja registro de CAA no seu servidor de DNS. Caso contrário, siga para o próximo tópico deste guia.
 
-Registros CAA indicam quais autoridades certificadoras (CAs) estão autorizadas a gerar e renovar certificados que atestam a identidade do seu domínio. A configuração adequada desses registros é necessária para que seja possível gerar os [certificados SSL](https://help.vtex.com/pt/tutorial/certificado-de-seguranca-ssl-a-que-se-refere-e-como-contratar--tutorials_1308) e usar a CDN da VTEX.
+Registros CAA indicam quais autoridades certificadoras (CAs) estão autorizadas a gerar e renovar certificados que atestam a identidade do seu domínio. A configuração adequada desses registros é necessária para que seja possível gerar os [certificados SSL](/pt/tutorial/certificado-de-seguranca-ssl-a-que-se-refere-e-como-contratar--tutorials_1308) e usar a CDN da VTEX.
 
 Você deve garantir que os registros CAA contém a seguinte entrada:
 

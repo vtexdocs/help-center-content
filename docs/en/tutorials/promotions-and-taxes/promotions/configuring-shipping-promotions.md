@@ -15,11 +15,11 @@ locale: en
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
-You can create several types of [discount](https://help.vtex.com/pt/tutorial/como-criar-promocoes--tutorials_320#) in your VTEX store. Shipping promotions provide the buyer with a discount on the amount charged for the delivery of their order.
+You can create several types of [discount](/pt/tutorial/como-criar-promocoes--tutorials_320#) in your VTEX store. Shipping promotions provide the buyer with a discount on the amount charged for the delivery of their order.
 
-The step-by-step instructions for creating a shipping promotion are the same as for [other regular promotions](https://help.vtex.com/en/tutorial/regular-promotion--tutorials_327"). However, some specifics must be taken into account when configuring these discounts.
+The step-by-step instructions for creating a shipping promotion are the same as for [other regular promotions](/en/tutorial/regular-promotion--tutorials_327"). However, some specifics must be taken into account when configuring these discounts.
 
-Before setting up a shipping promotion, you should understand how discounts can be offered to your buyers. On VTEX, there are four types of shipping promotions, which you can choose in the field **What is the type and amount of the discount?** when creating a [Regular Promotion](https://help.vtex.com/en/tutorial/regular-promotion--tutorials_327). Here are the shipping promotion types:
+Before setting up a shipping promotion, you should understand how discounts can be offered to your buyers. On VTEX, there are four types of shipping promotions, which you can choose in the field **What is the type and amount of the discount?** when creating a [Regular Promotion](/en/tutorial/regular-promotion--tutorials_327). Here are the shipping promotion types:
 
 - **Nominal:** a specific discount on the shipping cost. For example,  a $20 discount for deliveries to the West Coast.
 
@@ -81,4 +81,4 @@ In summary, the purpose of the option **Apply discount only when one of the abov
 
 When configuring the **Promotions & Taxes** module, you can enable more than one carrier for the same promotion. However, your customer will only be able to select one carrier at checkout.
 
-Another possibility is to configure a shipping promotion by creating a campaign promotion. For more information, [read this article](https://help.vtex.com/en/tutorial/creating-a-campaign-benefit--1ChYXhK2AQGuS6wAqS8Ume).
+Another possibility is to configure a shipping promotion by creating a campaign promotion. For more information, [read this article](/en/tutorial/creating-a-campaign-benefit--1ChYXhK2AQGuS6wAqS8Ume).

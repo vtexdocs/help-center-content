@@ -18,7 +18,7 @@ order: 10
 There are three ways to create a fixed price:
 (#admin)
 - [Via the Pricing module in the Admin](#admin)
-- [Via the fixed price template](https://help.vtex.com/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/5lV5s54lQ69zPXxngbpI5D)
+- [Via the fixed price template](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/5lV5s54lQ69zPXxngbpI5D)
 - [Via Pricing API](#pricing-api)
 
 ## Admin
@@ -72,4 +72,4 @@ To create a fixed price via API, use the [Create or update price or fixed price]
 
 ### Learn more
 
-* [Scheduling prices](https://help.vtex.com/en/tutorial/scheduling-prices--4vVha6TGzYkguWuMOqCcCk)
+* [Scheduling prices](/en/tutorial/scheduling-prices--4vVha6TGzYkguWuMOqCcCk)

@@ -23,7 +23,7 @@ Para ilustrarlo, imaginemos un sistema de control de bibliotecas. Este sistema c
 
 Estos conceptos permiten configurar los más diversos escenarios de control de datos en Master Data. De forma predeterminada, se ingresan las siguientes entidades de datos: Cliente, Dirección, Tiendas, etc. Puedes crear todas las entidades de datos que desees para personalizar el entorno de acuerdo con las necesidades de cada tienda.
 
-> ⚠️ Este artículo describe el funcionamiento de Master Data v1. Es importante evaluar la versión de Master Data que satisface las necesidades de tu operación o que ya está en uso. Más información: <ul> <li>[Características de las versiones de Master Data](https://help.vtex.com/es/tutorial/master-data--4otjBnR27u4WUIciQsmkAw#versiones-disponibles)</li> <li>[Master Data v2](https://developers.vtex.com/docs/guides/master-data-v2-basics)</li> </ul>
+> ⚠️ Este artículo describe el funcionamiento de Master Data v1. Es importante evaluar la versión de Master Data que satisface las necesidades de tu operación o que ya está en uso. Más información: <ul> <li>[Características de las versiones de Master Data](/es/tutorial/master-data--4otjBnR27u4WUIciQsmkAw#versiones-disponibles)</li> <li>[Master Data v2](https://developers.vtex.com/docs/guides/master-data-v2-basics)</li> </ul>
 
 ## Tipos de datos
 
@@ -100,4 +100,4 @@ Sigue los pasos a continuación para configurar una nueva entidad de datos.
 21. Haz clic en la pestaña **Aplicaciones** para volver a la página de inicio de Master Data.  
 22.	Haz clic en `Volver a cargar aplicaciones`.
 
-> ℹ️ Después de crear la entidad de datos, debes [crear el formulario para agregar, editar y mostrar los datos en Master Data](https://help.vtex.com/es/tutorial/creando-formulario-en-master-data--tutorials_1047).
+> ℹ️ Después de crear la entidad de datos, debes [crear el formulario para agregar, editar y mostrar los datos en Master Data](/es/tutorial/creando-formulario-en-master-data--tutorials_1047).

@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 2u48reCb68K48EAcm86ccM
 ---
 
-Después de definir el árbol de categorías y registrar las [especificaciones de los productos y de los SKU](https://help.vtex.com/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP) en su tienda, debe rellenar los valores de las especificaciones que ha creado. En VTEX Admin, este proceso puede realizarse mediante una plantilla o manualmente en el registro de [producto](https://help.vtex.com/es/tutorial/registrar-especificaciones-o-campos-de-producto--tutorials_106#registro-de-producto) y en el [registro del SKU](https://help.vtex.com/es/tutorial/registrar-especificaciones-o-campos-de-sku--tutorials_119#registro-del-sku).
+Después de definir el árbol de categorías y registrar las [especificaciones de los productos y de los SKU](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP) en su tienda, debe rellenar los valores de las especificaciones que ha creado. En VTEX Admin, este proceso puede realizarse mediante una plantilla o manualmente en el registro de [producto](/es/tutorial/registrar-especificaciones-o-campos-de-producto--tutorials_106#registro-de-producto) y en el [registro del SKU](/es/tutorial/registrar-especificaciones-o-campos-de-sku--tutorials_119#registro-del-sku).
 
 En este artículo, explicamos cómo funciona la exportación e importación de plantillas con especificaciones de productos y de SKU en VTEX Admin.
 
@@ -58,6 +58,6 @@ Siga los pasos a continuación para importar la plantilla:
 ![skuexport3.es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/importaci%C3%B3n-y-exportaci%C3%B3n/exportar-y-importar-especificaciones-de-producto-y-sku_3.png)
 
 ## Más información
-- [Especificaciones de producto e de SKU](https://help.vtex.com/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP)
-- [Registrar especificaciones o campos de producto](https://help.vtex.com/es/tutorial/registrar-especificaciones-o-campos-de-producto--tutorials_106)
-- [Registrar especificaciones o campos de SKU](https://help.vtex.com/es/tutorial/registrar-especificaciones-o-campos-de-sku--tutorials_119)
+- [Especificaciones de producto e de SKU](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP)
+- [Registrar especificaciones o campos de producto](/es/tutorial/registrar-especificaciones-o-campos-de-producto--tutorials_106)
+- [Registrar especificaciones o campos de SKU](/es/tutorial/registrar-especificaciones-o-campos-de-sku--tutorials_119)

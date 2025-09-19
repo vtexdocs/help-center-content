@@ -16,9 +16,9 @@ legacySlug: change-seller-for-affiliations-that-support-native-split-faq
 
 During the purchase process in a marketplace, it may be necessary to change the seller that will deliver the product to the final customer. One of the most common reasons is a stockout, which may lead to order cancellations.
 
-The new __Change seller__ feature for marketplaces with affiliations that support split payments allows you to [change the seller](https://help.vtex.com/en/tutorial/veja-como-utilizar-o-change-seller--5TBAwO2kOAMw44uyaaQMQO?&utm_source=autocomplete) and ensure that the sale is completed, avoiding refunds and unnecessary transactions.
+The new __Change seller__ feature for marketplaces with affiliations that support split payments allows you to [change the seller](/en/tutorial/veja-como-utilizar-o-change-seller--5TBAwO2kOAMw44uyaaQMQO?&utm_source=autocomplete) and ensure that the sale is completed, avoiding refunds and unnecessary transactions.
 
-For more details about the solution, access the article [Affiliations with native split payment and seller change](https://help.vtex.com/en/announcements/afiliacoes-com-split-nativo-e-alteracao-de-seller?utm_source=newsletter-pt&utm_medium=email-text&utm_campaign=jan-2021%0A%0Aletter-pt&utm_medium=email-text&utm_campaign=jan-2021%0A%0A). If you want to know how to use it, check out our tutorial [How to use the Change Seller feature](https://help.vtex.com/en/tutorial/veja-como-utilizar-o-change-seller--5TBAwO2kOAMw44uyaaQMQO?&utm_source=autocomplete).
+For more details about the solution, access the article [Affiliations with native split payment and seller change](/en/announcements/afiliacoes-com-split-nativo-e-alteracao-de-seller?utm_source=newsletter-pt&utm_medium=email-text&utm_campaign=jan-2021%0A%0Aletter-pt&utm_medium=email-text&utm_campaign=jan-2021%0A%0A). If you want to know how to use it, check out our tutorial [How to use the Change Seller feature](/en/tutorial/veja-como-utilizar-o-change-seller--5TBAwO2kOAMw44uyaaQMQO?&utm_source=autocomplete).
 
 We have compiled below the main questions that may arise regarding seller changes:
 
@@ -108,9 +108,9 @@ Even though the price advertised by the seller Japacoin was BRL 0.04, the amount
 
 ### How can I see the price differences?
 
-During the change seller process, the marketplace can use the [API](https://help.vtex.com/en/tutorial/veja-como-utilizar-o-change-seller--5TBAwO2kOAMw44uyaaQMQO?&utm_source=autocomplete) for shopping cart simulation. 
+During the change seller process, the marketplace can use the [API](/en/tutorial/veja-como-utilizar-o-change-seller--5TBAwO2kOAMw44uyaaQMQO?&utm_source=autocomplete) for shopping cart simulation. 
 
-With the sellers’ information in hand, you can simulate shopping carts to verify product availability. For more information, please check this tutorial on our Help Center: [How to use the Change Seller feature](https://help.vtex.com/en/tutorial/veja-como-utilizar-o-change-seller--5TBAwO2kOAMw44uyaaQMQO?&utm_source=autocomplete).
+With the sellers’ information in hand, you can simulate shopping carts to verify product availability. For more information, please check this tutorial on our Help Center: [How to use the Change Seller feature](/en/tutorial/veja-como-utilizar-o-change-seller--5TBAwO2kOAMw44uyaaQMQO?&utm_source=autocomplete).
 
 During the simulation step, you can check the price of the new seller’s products and shipping and then decide if you want to change sellers.
 

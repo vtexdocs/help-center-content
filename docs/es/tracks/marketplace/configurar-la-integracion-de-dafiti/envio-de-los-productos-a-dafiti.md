@@ -24,7 +24,7 @@ Sigue estos pasos para realizar el mapeo:
 3. [Rellenar la plantilla de mapeo](#3-rellenar-la-plantilla-de-mapeo)
 4. [Cargar la plantilla de mapeo](#4-cargar-la-plantilla-de-mapeo)
 
-> ⚠️ Para registrar un producto en VTEX, es obligatorio vincular el producto a una marca. Sin embargo, para evitar problemas con el envío de los productos, debes [ rellenar los nombres de las marcas aceptadas por Dafiti](https://help.vtex.com/es/tutorial/campos-de-cadastro-de-produto--4dYXWIK3zyS8IceKkQseke) en el campo **Marca** del producto que enviarás. Consulta el [glosario de marcas](https://www.dafiti.com.co/marcas/) de Dafiti para conocer las marcas aceptadas.
+> ⚠️ Para registrar un producto en VTEX, es obligatorio vincular el producto a una marca. Sin embargo, para evitar problemas con el envío de los productos, debes [ rellenar los nombres de las marcas aceptadas por Dafiti](/es/tutorial/campos-de-cadastro-de-produto--4dYXWIK3zyS8IceKkQseke) en el campo **Marca** del producto que enviarás. Consulta el [glosario de marcas](https://www.dafiti.com.co/marcas/) de Dafiti para conocer las marcas aceptadas.
 
 ## 1. Descargar la plantilla de consulta de Dafiti
 
@@ -73,7 +73,7 @@ La pestaña *attributenames* de la plantilla de mapeo tiene tres columnas para r
 - **DafitiAttributeName:**  nombre de la variación/atributo en Dafiti.
     Para más información, revisa la plantilla de consulta de Dafiti. Los atributos *Variation*, *Gender*, *Origin*, *ColorFamily*, *Color* y *Origincountry* son obligatorios, teniendo en cuenta que:
     - Al rellenar el atributo **ColorFamily** de un producto que tenga más de un color, se recomienda usar el color predominante.
-    - Los atributos **Color** y **ColorFamily** son diferentes; por lo tanto, es necesario [registrar dos especificaciones diferentes](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/4fcdmJzQ6QYA9zWf3bLWin) de produto *Color* del producto para que este se mapee correctamente. Por ejemplo: Color e Color2.
+    - Los atributos **Color** y **ColorFamily** son diferentes; por lo tanto, es necesario [registrar dos especificaciones diferentes](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/4fcdmJzQ6QYA9zWf3bLWin) de produto *Color* del producto para que este se mapee correctamente. Por ejemplo: Color e Color2.
 - **HasValueMapping:** indica si es necesario hacer una conversión de los valores de los atributos en *VTEXAttributeValue*. Cuando los valores de las especificaciones de tu producto en VTEX sean distintos a los que usa Dafiti, deberás informarle al sistema que harás una conversión entre ellos. Rellena esa columna con una `Y` (Yes) en caso de que quieras indicar que se debe hacer una conversión de valores, o con una `N` (No) en caso de que no haya ninguna conversión.
 
 ### Attributevalues

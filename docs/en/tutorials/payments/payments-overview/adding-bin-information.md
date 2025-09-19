@@ -19,13 +19,13 @@ The Bank Identification Number (BIN) consists of the first six or eight digits o
 
 ![BIN_image_digits_EN_2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payments-overview/adding-bin-information_1.png)
 
-When a banking institution wants to create new card profiles or issue new cards for an existing model, new BINs are required. This also applies when a card [brand](https://help.vtex.com/en/tutorial/what-is-a-credit-card-brand--4bNba5QYuIwKEmac88KwyI) is acquired by another.
+When a banking institution wants to create new card profiles or issue new cards for an existing model, new BINs are required. This also applies when a card [brand](/en/tutorial/what-is-a-credit-card-brand--4bNba5QYuIwKEmac88KwyI) is acquired by another.
 
 In such cases, VTEX must be notified to ensure that the new cards are correctly validated during the payment process for purchases made on the platform.
 
 ## Submitting an add BIN request
 
-To add a new BIN or update an existing one on VTEX, please open a ticket with [VTEX Support](https://help.vtex.com/en/support).
+To add a new BIN or update an existing one on VTEX, please open a ticket with [VTEX Support](/en/support).
 
 > ⚠️ To ensure the security and legitimacy of the requested changes, it is mandatory to provide formal proof from the financial institution confirming ownership of the informed BINs. Requests without this validation cannot be processed.
 

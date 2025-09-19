@@ -17,7 +17,7 @@ order: 4
 
 VTEX operates in different countries and has the necessary tools to meet the privacy demands of each location. For this reason, VTEX always takes the necessary measures to ensure its platform is secure and complies with data protection laws.
 
-The tools we provide on the platform are designed to ensure that stores comply with privacy laws. However, merchants must also implement additional measures to comply with personal data processing laws. To understand these requirements, see [Data protection roles](https://help.vtex.com/en/tracks/data-and-privacy--4Lc0i0an0DgnEtB0AUwlcq/5f8hTEw3xOALgqzus9VXKd). Note that these are general guidelines and that specific regulations may impose other obligations.
+The tools we provide on the platform are designed to ensure that stores comply with privacy laws. However, merchants must also implement additional measures to comply with personal data processing laws. To understand these requirements, see [Data protection roles](/en/tracks/data-and-privacy--4Lc0i0an0DgnEtB0AUwlcq/5f8hTEw3xOALgqzus9VXKd). Note that these are general guidelines and that specific regulations may impose other obligations.
 
 ## Security
 

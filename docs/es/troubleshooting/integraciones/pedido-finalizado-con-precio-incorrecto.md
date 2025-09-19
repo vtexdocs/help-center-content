@@ -21,14 +21,14 @@ tags:
 
 El status de los pedidos finalizados por marketplaces certificados se muestra en la sección **Marketplace > Conexiones > Pedidos** del Admin VTEX. Los pedidos finalizados con precio incorrecto tienen el status **Procesado con error**. 
 
-> ℹ️ Para evitar que el pedido se finalice con el precio incorrecto, puedes crear [Reglas de divergencia de precios](https://help.vtex.com/es/tutorial/regra-de-divergencia-de-valores--6RlFLhD1rIRRshl83KnCjW).
+> ℹ️ Para evitar que el pedido se finalice con el precio incorrecto, puedes crear [Reglas de divergencia de precios](/es/tutorial/regra-de-divergencia-de-valores--6RlFLhD1rIRRshl83KnCjW).
 
 Hay tres posibles causas por las que se finaliza un pedido con precio incorrecto:
 - [Precio del producto asumido por el marketplace](#precio-del-producto-asumido-por-el-marketplace)
 - [Envío calculado en el marketplace](#envio-calculado-en-el-marketplace)
 - [Precio del SKU modificado antes de la integración del pedido](#precio-del-SKU-modificado-antes-de-la-integracion-del-pedido)
 
-> ℹ️ Consulta otros errores de integración de pedidos de marketplace en [¿Por qué los pedidos del marketplace no se integran con mi tienda?](https://help.vtex.com/es/tutorial/porque-os-pedidos-do-marketplace-nao-integram-com-minha-loja--275YvF8dyry5KmfY9epoET).
+> ℹ️ Consulta otros errores de integración de pedidos de marketplace en [¿Por qué los pedidos del marketplace no se integran con mi tienda?](/es/tutorial/porque-os-pedidos-do-marketplace-nao-integram-com-minha-loja--275YvF8dyry5KmfY9epoET).
 
 ## Precio del producto asumido por el marketplace
 

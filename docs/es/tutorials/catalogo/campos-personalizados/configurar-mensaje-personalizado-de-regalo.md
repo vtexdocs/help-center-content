@@ -17,7 +17,7 @@ subcategoryId: 1hoOi2R0Rm6ky0yCwOUoiy
 
 La tarjeta de regalo con mensaje personalizado es muy usada principalmente en tiendas que disponen listas de regalos, casamientos, etc.
 
-Para hacer disponible este producto a su cliente es necesario configurar en el _Admin_ un nuevo Servicio de SKU. Para saber cómo crear servicios, lea [Crear servicio para un SKU](https://help.vtex.com/es/tutorial/crear-servicio-para-un-sku--tutorials_252).
+Para hacer disponible este producto a su cliente es necesario configurar en el _Admin_ un nuevo Servicio de SKU. Para saber cómo crear servicios, lea [Crear servicio para un SKU](/es/tutorial/crear-servicio-para-un-sku--tutorials_252).
 
 Después de haber creado el Servicio y agregar un Valor a este servicio, registre un tipo de servicio para los SKUs y luego, vincule este servicio al SKU. Siga los pasos abajo para realizar esa tarea:
 
@@ -33,7 +33,7 @@ Después de haber creado el Servicio y agregar un Valor a este servicio, registr
 10. En la flechita al lado del botón `Alterar`, haga clic en __Servicio__.
 11. Cree un Nuevo Servicio. En la pantalla de creación, seleccione el tipo de servicio creado y la tabla de valores.
 
-Para más información sobre creación de servicios y vincular valores, vea el artículo [Crear servicio para un SKU](https://help.vtex.com/es/tutorial/crear-servicio-para-un-sku--tutorials_252).
+Para más información sobre creación de servicios y vincular valores, vea el artículo [Crear servicio para un SKU](/es/tutorial/crear-servicio-para-un-sku--tutorials_252).
 
 ## Validar la configuración
 

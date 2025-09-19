@@ -28,10 +28,10 @@ Além do Bundle, eventos de **Live Shopping** podem ser transmitidos por estúdi
 
 Para configurar soluções de externos, siga os passos abaixo:
 
-1. No Admin VTEX, [crie](https://help.vtex.com/pt/tracks/vtex-live-shopping-primeiros-passos--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv) o evento.
+1. No Admin VTEX, [crie](/pt/tracks/vtex-live-shopping-primeiros-passos--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv) o evento.
 2. Na página **Eventos**, clique na seta do evento para acessar a página **Informações do evento**.
-3. Clique em [Iniciar](https://help.vtex.com/pt/tracks/vtex-live-shopping-primeiros-passos--3eCHNCIx8XhZOSmX0sQT3U/6NrWRLAJEHijcd6tLIWoqq) evento.
-4. Em [Detalhes](https://help.vtex.com/pt/tracks/vtex-live-shopping-primeiros-passos--3eCHNCIx8XhZOSmX0sQT3U/6NrWRLAJEHijcd6tLIWoqq#detalhes-do-evento), copie o **servidor de entrada** e as **informações da chave do servidor**.
+3. Clique em [Iniciar](/pt/tracks/vtex-live-shopping-primeiros-passos--3eCHNCIx8XhZOSmX0sQT3U/6NrWRLAJEHijcd6tLIWoqq) evento.
+4. Em [Detalhes](/pt/tracks/vtex-live-shopping-primeiros-passos--3eCHNCIx8XhZOSmX0sQT3U/6NrWRLAJEHijcd6tLIWoqq#detalhes-do-evento), copie o **servidor de entrada** e as **informações da chave do servidor**.
 5. Nas configurações de transmissão do estúdio externo, preencha os campos conforme indicado abaixo:
     - **Servidor:** informe o valor do servidor de entrada.
     - **Chave do servidor:** informe o valor da chave do servidor.
@@ -49,12 +49,12 @@ Para realizar uma transmissão de alta qualidade, mesmo em dispositivos com sina
 
 ## Transmitir o evento por um estúdio externo
 
-Depois de [adicionar o componente do Live Shopping](https://help.vtex.com/pt/tracks/vtex-live-shopping-primeiros-passos--3eCHNCIx8XhZOSmX0sQT3U/4r5uk6XHxdYlOGMr11GFWR) e usar a pré-visualização para garantir que tudo está funcionando corretamente, você pode começar a transmitir o evento. Como as etapas variam de acordo com cada estúdio, recomendamos consultar a documentação oficial do estúdio que estiver usando.
+Depois de [adicionar o componente do Live Shopping](/pt/tracks/vtex-live-shopping-primeiros-passos--3eCHNCIx8XhZOSmX0sQT3U/4r5uk6XHxdYlOGMr11GFWR) e usar a pré-visualização para garantir que tudo está funcionando corretamente, você pode começar a transmitir o evento. Como as etapas variam de acordo com cada estúdio, recomendamos consultar a documentação oficial do estúdio que estiver usando.
 
 > ❗ Ao usar estúdios externos, não tente duplicar a transmissão via Bundle. O Live Shopping permite apenas uma transmissão por estúdio, e a plataforma reconhecerá somente o primeiro estúdio que iniciar o evento.
 
 ## Após a transmissão ao vivo por um estúdio externo
 
-Quando a transmissão terminar e o [status](https://help.vtex.com/pt/tracks/vtex-live-shopping-primeiros-passos--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv#status-do-evento) do evento for `Finalizado`, você deve ocultar o componente **Live Shopping** ou remover o script, dependendo da sua solução de frontend. O público continuará vendo a tela preta no seu site ou landing page até que você preencha esta etapa.
+Quando a transmissão terminar e o [status](/pt/tracks/vtex-live-shopping-primeiros-passos--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv#status-do-evento) do evento for `Finalizado`, você deve ocultar o componente **Live Shopping** ou remover o script, dependendo da sua solução de frontend. O público continuará vendo a tela preta no seu site ou landing page até que você preencha esta etapa.
 
-Para o passo a passo completo, veja [Como ocultar ou remover componente do Live Shopping](https://help.vtex.com/pt/tracks/vtex-live-shopping-primeiros-passos--3eCHNCIx8XhZOSmX0sQT3U/7e3bP6LjFgxXC210jSpl59).
+Para o passo a passo completo, veja [Como ocultar ou remover componente do Live Shopping](/pt/tracks/vtex-live-shopping-primeiros-passos--3eCHNCIx8XhZOSmX0sQT3U/7e3bP6LjFgxXC210jSpl59).

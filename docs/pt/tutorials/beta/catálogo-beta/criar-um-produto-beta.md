@@ -33,7 +33,7 @@ Caso você queira criar um produto no modo inativo, clique no botão <i class="f
 
 Feito isso, o produto será ativado e estará disponível na sua loja.
 
-> ℹ️ Se o seu produto não aparecer no site da sua loja após o cadastro, confira o artigo  [Por que o produto não aparece no site?](https://help.vtex.com/pt/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382) para entender como resolver esse problema.
+> ℹ️ Se o seu produto não aparecer no site da sua loja após o cadastro, confira o artigo  [Por que o produto não aparece no site?](/pt/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382) para entender como resolver esse problema.
 
 # Produto
 Nesta aba, você vai realizar o cadastro do produto preenchendo os campos descritos abaixo com as características do item.
@@ -93,16 +93,16 @@ Veja quais são os recursos disponíveis a partir da barra de ferramentas:
 ![image4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/cat%C3%A1logo-beta/criar-um-produto-beta_5.png)
 
 - **Mostrar no site**: ative ou desative a visibilidade do produto na sua loja. Caso o produto seja um brinde que não pode ser comprado, por exemplo, é importante desativar esta opção.
-- **Mostrar quando fora de estoque**: ative ou desative a opção de mostrar o produto na loja mesmo quando não houver quantidade em estoque. Se ativada, o produto esgotado aparece na sua loja no formato de [Avise-me](https://help.vtex.com/pt/tutorial/configurar-a-opcao-avise-me--2VqVifQuf6Co2KG048Yu6e) — campo em que o cliente informa seu email para ser avisado quando o produto estiver novamente disponível. Se essa opção for desativada, o produto não vai aparecer na loja quando estiver esgotado.
-- **Prioridade na ordenação de busca**: informe um valor numérico para definir a prioridade na página de resultado de busca. Para mais detalhes sobre este campo, leia [Como funciona o campo Score?](https://help.vtex.com/pt/tutorial/como-funciona-o-campo-score--1BUZC0mBYEEIUgeQYAKcae). Caso sua loja utilize o VTEX Intelligent Search, leia [Como o VTEX Intelligent Search funciona?](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/23mytRDsEduqLO0Lo7yufy).
+- **Mostrar quando fora de estoque**: ative ou desative a opção de mostrar o produto na loja mesmo quando não houver quantidade em estoque. Se ativada, o produto esgotado aparece na sua loja no formato de [Avise-me](/pt/tutorial/configurar-a-opcao-avise-me--2VqVifQuf6Co2KG048Yu6e) — campo em que o cliente informa seu email para ser avisado quando o produto estiver novamente disponível. Se essa opção for desativada, o produto não vai aparecer na loja quando estiver esgotado.
+- **Prioridade na ordenação de busca**: informe um valor numérico para definir a prioridade na página de resultado de busca. Para mais detalhes sobre este campo, leia [Como funciona o campo Score?](/pt/tutorial/como-funciona-o-campo-score--1BUZC0mBYEEIUgeQYAKcae). Caso sua loja utilize o VTEX Intelligent Search, leia [Como o VTEX Intelligent Search funciona?](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/23mytRDsEduqLO0Lo7yufy).
 
 ## Atributos
 
 Dependendo da categoria do produto criado, podem aparecer campos para você preencher na aba Atributos. Esses campos são especificações que você pode adicionar aos seus SKUs para atribuir características aos produtos da sua loja.
 
-Se você tiver criado algum campo de produto obrigatório, o produto só poderá ser ativado após o preenchimento desta [especificação](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP).
+Se você tiver criado algum campo de produto obrigatório, o produto só poderá ser ativado após o preenchimento desta [especificação](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP).
 
-Em Atributos, será exibido os [grupos de especificações](https://help.vtex.com/pt/tutorial/criando-grupo-de-especificacoes-em-uma-categoria--tutorials_246) com as especificações cadastradas abaixo. Na imagem a seguir, o grupo de especificação é **Características** e as especificações cadastradas nele são **Vídeo** e **Veja Mais**.
+Em Atributos, será exibido os [grupos de especificações](/pt/tutorial/criando-grupo-de-especificacoes-em-uma-categoria--tutorials_246) com as especificações cadastradas abaixo. Na imagem a seguir, o grupo de especificação é **Características** e as especificações cadastradas nele são **Vídeo** e **Veja Mais**.
 
 ![image3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/cat%C3%A1logo-beta/criar-um-produto-beta_6.png)
 
@@ -122,7 +122,7 @@ Aqui serão exibidas as especificações criadas anteriormente para os SKUs. Se 
 - **Código de referência**: código que será utilizado internamente pela loja para identificar o SKU. Campo obrigatório caso o SKU não tenha EAN/UPC preenchido.
 - **EAN/UPC**: campo que deve conter a informação do código de barras. Campo obrigatório caso o SKU não tenha o Código de referência preenchido.
 - **Código do fabricante**: fornecido pelo fabricante para identificar seu produto. Caso algum produto tenha um código específico, esse campo deve se preenchido.
-- **Condição comercial**: utilizado para definir promoções ou regras de parcelamento específicas para SKUs. Caso não exista uma condição específica, usar o valor padrão. Saiba mais no artigo [Cadastrar condição comercial](https://help.vtex.com/pt/tutorial/como-cadastrar-condicao-comercial--tutorials_445).  
+- **Condição comercial**: utilizado para definir promoções ou regras de parcelamento específicas para SKUs. Caso não exista uma condição específica, usar o valor padrão. Saiba mais no artigo [Cadastrar condição comercial](/pt/tutorial/como-cadastrar-condicao-comercial--tutorials_445).  
 - **Modal**: campo que realciona um produto não usual (carne, vidro, colchão) a uma transportadora especializada na entrega desse tipo de produto. Saiba mais no artigo Como funciona o modal.
 
 ## Imagens
@@ -168,5 +168,5 @@ Também é possível deletar uma imagem clicando no botão <i class="fas fa-elli
 
 - **Ativar kit**: determina se os SKUs que compõem um kit só podem ser vendidos juntos. Você pode fazer com que o SKU faça parte de um kit <i class="fas fa-toggle-on"></i> ou não <i class="fas fa-toggle-off"></i>.
 
-- **Gerar crédito em valores**: determina se o cliente receberá [crédito](https://help.vtex.com/pt/tutorial/gift-card--tutorials_995) que o cliente recebe ao concluir uma compra de uma unidade de um determinado SKU. Você pode ativar <i class="fas fa-toggle-on"></i> ou desativar <i class="fas fa-toggle-off"></i> esta opção.
+- **Gerar crédito em valores**: determina se o cliente receberá [crédito](/pt/tutorial/gift-card--tutorials_995) que o cliente recebe ao concluir uma compra de uma unidade de um determinado SKU. Você pode ativar <i class="fas fa-toggle-on"></i> ou desativar <i class="fas fa-toggle-off"></i> esta opção.
 

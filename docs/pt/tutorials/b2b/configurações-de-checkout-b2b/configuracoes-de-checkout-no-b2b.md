@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 6sgdAY3pCuZ7qNws6gnzDX
 ---
 
-O aplicativo Configurações de Checkout no B2B faz parte da solução [B2B Suite](https://help.vtex.com/pt/tutorial/b2b-suite-visao-geral--5eG6UfveWrai7looK0kVG3) da VTEX, uma coleção de aplicativos que permitem às lojas gerenciar organizações, papéis e permissões de storefront, além das configurações de checkout para relações comerciais B2B.
+O aplicativo Configurações de Checkout no B2B faz parte da solução [B2B Suite](/pt/tutorial/b2b-suite-visao-geral--5eG6UfveWrai7looK0kVG3) da VTEX, uma coleção de aplicativos que permitem às lojas gerenciar organizações, papéis e permissões de storefront, além das configurações de checkout para relações comerciais B2B.
 
 As transações B2B (business-to-business) são mais complexas do que as transações B2C (business-to-consumer). Empresas B2B lidam frequentemente com:
 
@@ -31,15 +31,15 @@ No comércio B2B, é necessário fornecer opções personalizadas durante o chec
 - Adicionar um campo para inserção do número de pedido de compra.
 - Oferecer a opção de criar uma cotação de pedido antes de fazer uma compra real.
 
-O aplicativo Configurações de Checkout no B2B funciona em conjunto com outros aplicativos da [B2B Suite](https://help.vtex.com/pt/tutorial/b2b-suite-visao-geral--5eG6UfveWrai7looK0kVG3) para estender a experiência de checkout para usuários que são membros de uma organização.
+O aplicativo Configurações de Checkout no B2B funciona em conjunto com outros aplicativos da [B2B Suite](/pt/tutorial/b2b-suite-visao-geral--5eG6UfveWrai7looK0kVG3) para estender a experiência de checkout para usuários que são membros de uma organização.
 
 ## Perfis de acesso ao Checkout
-Este aplicativo verifica automaticamente os perfis dos usuários que fazem parte da organização e se comunica com o aplicativo [Organizações B2B](https://help.vtex.com/pt/tutorial/b2b-suite-overview--5eG6UfveWrai7looK0kVG3#aplicativo-organizacoes-b2b). Ele também confirma se os usuários possuem as [permissões](https://help.vtex.com/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) necessárias para acessar o checkout ao interagir com o aplicativo [*Storefront Permissions*](https://help.vtex.com/pt/tutorial/gerenciamento-de-permissoes-no-b2b-suite--2PLR7mIFxgbmsGq84paLeA).
+Este aplicativo verifica automaticamente os perfis dos usuários que fazem parte da organização e se comunica com o aplicativo [Organizações B2B](/pt/tutorial/b2b-suite-overview--5eG6UfveWrai7looK0kVG3#aplicativo-organizacoes-b2b). Ele também confirma se os usuários possuem as [permissões](/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) necessárias para acessar o checkout ao interagir com o aplicativo [*Storefront Permissions*](/pt/tutorial/gerenciamento-de-permissoes-no-b2b-suite--2PLR7mIFxgbmsGq84paLeA).
 
 Por padrão, qualquer usuário com perfil que permite acesso ao storefront pode acessar o checkout, exceto aqueles com o perfil de Comprador da Organização. Se um usuário tentar prosseguir para o checkout sem a permissão necessária, ele receberá uma notificação com a mensagem: *Você não tem acesso ao checkout*.
 
 ## Endereços do centro de custos
-O aplicativo Configurações de Checkout no B2B se comunica com o aplicativo [Organizações B2B](https://help.vtex.com/pt/tutorial/b2b-suite-visao-geral--5eG6UfveWrai7looK0kVG3#aplicativo-organizacoes-b2b) e lista automaticamente os endereços do centro de custos associados ao usuário durante a etapa do checkout.
+O aplicativo Configurações de Checkout no B2B se comunica com o aplicativo [Organizações B2B](/pt/tutorial/b2b-suite-visao-geral--5eG6UfveWrai7looK0kVG3#aplicativo-organizacoes-b2b) e lista automaticamente os endereços do centro de custos associados ao usuário durante a etapa do checkout.
 
 ## Campo de número de ordem de compra
 Uma ordem de compra (PO) é um acordo comercial entre uma empresa compradora e uma loja B2B autorizando o pagamento por produtos ou serviços a serem entregues no futuro, dentro de um prazo específico.

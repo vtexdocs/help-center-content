@@ -22,7 +22,7 @@ El término *headless* se refiere a la independencia existente entre la interfaz
 Para acceder a Headless CMS, inicia sesión en el Admin VTEX > **Storefront > Headless CMS**. 
 
 <div style="background-color:#FCF8F2; border-left: 2px solid #F0AD4E; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px; margin-bottom: 10px">
-  Para gestionar el Headless CMS, asegúrese de que los [recursos](https://help.vtex.com/es/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) *See CMS menu on the top-bar*, *Settings*, and *CMS GraphQL API* estén asociados con su [rol de usuario ](https://help.vtex.com/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc). De lo contrario, [cree un rol de usuario](https://help.vtex.com/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#creando-un-rol) y agregue estos recursos o añádalos a un rol de usuario existente.
+  Para gestionar el Headless CMS, asegúrese de que los [recursos](/es/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) *See CMS menu on the top-bar*, *Settings*, and *CMS GraphQL API* estén asociados con su [rol de usuario ](/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc). De lo contrario, [cree un rol de usuario](/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#creando-un-rol) y agregue estos recursos o añádalos a un rol de usuario existente.
 </div>
 
 Con Headless CMS puedes:
@@ -33,21 +33,21 @@ Con Headless CMS puedes:
 
 ## Gestionar proyectos
 
-[Proyectos](https://help.vtex.com/es/tutorial/managing-projects--42IpDFqTVTESH8DCypJMPM) es una funcionalidad de Headless CMS que permite crear y gestionar varios proyectos frontend, como aplicaciones móviles, sitios web e email marketing desde un único panel de control. 
+[Proyectos](/es/tutorial/managing-projects--42IpDFqTVTESH8DCypJMPM) es una funcionalidad de Headless CMS que permite crear y gestionar varios proyectos frontend, como aplicaciones móviles, sitios web e email marketing desde un único panel de control. 
 
 ![Projects pages](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/headless-cms/headless-cms-vision-general_1.gif)
 
 Para más información, consulta Gestionar Proyectos. 
 
 ## Gestionar páginas
-En cada proyecto, también puedes gestionar todas las rutas de URL y modelos de página para el sitio web de tu tienda, incluyendo la página de inicio, la de producto (PDP) y otras. Para más información, consulta [Gestión de páginas en Headless CMS](https://help.vtex.com/es/tutorial/managing-pages--3DO6rBhZ1p3zndnFu5BgRt).
+En cada proyecto, también puedes gestionar todas las rutas de URL y modelos de página para el sitio web de tu tienda, incluyendo la página de inicio, la de producto (PDP) y otras. Para más información, consulta [Gestión de páginas en Headless CMS](/es/tutorial/managing-pages--3DO6rBhZ1p3zndnFu5BgRt).
 
 ## Gestionar content types de tipo Singleton
-Singleton es un tipo de contenido que simplifica la gestión de contenido mediante la creación y gestión de una única página, garantizando la existencia de una única versión de este tipo de contenido en Headless CMS. Este método mejora la fiabilidad del contenido y simplifica la creación y mantenimiento del mismo en un entorno Headless CMS.  Para más información, consulta [Cómo gestionar content types Singleton](https://help.vtex.com/es/tutorial/managing-singleton-content-types--VBibMN1BqV2OFmavUFCdo).
+Singleton es un tipo de contenido que simplifica la gestión de contenido mediante la creación y gestión de una única página, garantizando la existencia de una única versión de este tipo de contenido en Headless CMS. Este método mejora la fiabilidad del contenido y simplifica la creación y mantenimiento del mismo en un entorno Headless CMS.  Para más información, consulta [Cómo gestionar content types Singleton](/es/tutorial/managing-singleton-content-types--VBibMN1BqV2OFmavUFCdo).
 
 ## Próximos pasos
 Consulta los siguientes tutoriales para empezar a gestionar el contenido de tu storefront:
 
-- [Gestionar Proyectos](https://help.vtex.com/es/tutorial/managing-projects--42IpDFqTVTESH8DCypJMPM) 
-- [Gestión de páginas en Headless CMS](https://help.vtex.com/es/tutorial/managing-pages--3DO6rBhZ1p3zndnFu5BgRt)
-- [Gestión de content types de tipo Singleton](https://help.vtex.com/en/tutorial/managing-singleton-content-types--VBibMN1BqV2OFmavUFCdo)
+- [Gestionar Proyectos](/es/tutorial/managing-projects--42IpDFqTVTESH8DCypJMPM) 
+- [Gestión de páginas en Headless CMS](/es/tutorial/managing-pages--3DO6rBhZ1p3zndnFu5BgRt)
+- [Gestión de content types de tipo Singleton](/en/tutorial/managing-singleton-content-types--VBibMN1BqV2OFmavUFCdo)

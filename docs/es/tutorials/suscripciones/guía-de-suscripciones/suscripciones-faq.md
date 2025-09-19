@@ -21,7 +21,7 @@ Esta guía tiene el objetivo de responder a las preguntas más frecuentes sobre 
 El número de suscripciones es ilimitado, tanto para su tienda como para su cliente. Esto significa que no hay un número máximo de suscripciones que puedan ser vendidas por su tienda o compradas por su cliente. Sin embargo, es importante conocer las condiciones que se aplican en las suscripciones.
 
 ### ¿Puede mi cliente comprar por suscripción y retirar en las tiendas o en puntos de recogida?
-Sí, lea el artículo [Puntos de recogida para pedidos de suscripción (Beta)](https://help.vtex.com/es/tutorial/puntos-de-recogida-para-pedidos-de-suscripcion-beta--csIqB6iBh4QNIFdEj0nVv) para más información.
+Sí, lea el artículo [Puntos de recogida para pedidos de suscripción (Beta)](/es/tutorial/puntos-de-recogida-para-pedidos-de-suscripcion-beta--csIqB6iBh4QNIFdEj0nVv) para más información.
 
 ### ¿Puede mi cliente registrar más de una dirección en su suscripción?
 No es posible registrar más de una dirección en la misma suscripción.
@@ -58,7 +58,7 @@ De forma predeterminada, la creación de pedidos de suscripción se realiza entr
 Sin embargo, puedes establecer otra hora mediante API utilizando el request [Edit subscriptions settings](https://developers.vtex.com/docs/api-reference/subscriptions-api-v3#post-/api/rns/settings). Envía la hora nueva en el campo `executionHourInUtc`.
 
 ### ¿La funcionalidad Suscripciones funciona con el Seller Portal?
-No, Suscripciones no funciona con el [Seller Portal](https://help.vtex.com/es/tutorial/how-to-set-up-your-store-on-seller-portal).
+No, Suscripciones no funciona con el [Seller Portal](/es/tutorial/how-to-set-up-your-store-on-seller-portal).
 
 ### ¿Cómo crear suscripciones a partir de pedidos originales que tienen SKUs con anexos?
-De forma predeterminada, las tiendas no crean pedidos de suscripción incorporando [anexos](https://help.vtex.com/es/tutorial/o-que-e-um-anexo--aGICk0RVbqKg6GYmQcWUm) de SKUs del pedido original, es decir, los anexos no se consideran en pedidos recurrentes. Esta configuración se puede cambiar, pero solo a través de API utilizando el endpoint [Edit subscriptions settings](https://developers.vtex.com/docs/api-reference/subscriptions-api-v3#post-/api/rns/settings). Más información en [How to keep attachments from original orders in subscriptions](https://developers.vtex.com/docs/guides/how-to-keep-attachments-from-original-orders-in-subscriptions).
+De forma predeterminada, las tiendas no crean pedidos de suscripción incorporando [anexos](/es/tutorial/o-que-e-um-anexo--aGICk0RVbqKg6GYmQcWUm) de SKUs del pedido original, es decir, los anexos no se consideran en pedidos recurrentes. Esta configuración se puede cambiar, pero solo a través de API utilizando el endpoint [Edit subscriptions settings](https://developers.vtex.com/docs/api-reference/subscriptions-api-v3#post-/api/rns/settings). Más información en [How to keep attachments from original orders in subscriptions](https://developers.vtex.com/docs/guides/how-to-keep-attachments-from-original-orders-in-subscriptions).

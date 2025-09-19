@@ -26,4 +26,4 @@ O sea, en el caso de que el cliente finalice la compra tan sólo con el email y 
 
 Esa medida tiene por objeto la seguridad de los datos de los clientes contra ataques e intentos de fraude.
 
-Para obtener más información sobre la protección de datos, visite [Seguridad de SmartCheckout](https://help.vtex.com/es/tutorial/seguranca-do-smartcheckout--3SrJuuhrqwePUg1rp1exfB#).
+Para obtener más información sobre la protección de datos, visite [Seguridad de SmartCheckout](/es/tutorial/seguranca-do-smartcheckout--3SrJuuhrqwePUg1rp1exfB#).

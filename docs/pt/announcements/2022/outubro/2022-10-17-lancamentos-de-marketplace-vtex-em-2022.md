@@ -17,9 +17,9 @@ announcementSynopsisPT: 'Lançamos quatro novas funcionalidades para acelerar su
 
 Em 2022, a VTEX vem investindo em soluções que ajudam nossos clientes a maximizar a rentabilidade do seu ecommerce e atender as expectativas dos consumidores no cenário pós pandemia. 
 
-Ao adotar uma [arquitetura de marketplace](https://help.vtex.com/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402), lojistas podem adaptar seu negócio às tendências recentes de consumo, diminuindo custos ao expandir o sortimento de produtos e impulsionando o aumento de receita incremental.
+Ao adotar uma [arquitetura de marketplace](/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402), lojistas podem adaptar seu negócio às tendências recentes de consumo, diminuindo custos ao expandir o sortimento de produtos e impulsionando o aumento de receita incremental.
 
-Para possibilitar essa estratégia, estamos disponibilizando novas funcionalidades que permitem aos lojistas lançar e gerenciar operações de marketplace de forma escalável: [Seller Portal](https://help.vtex.com/pt/subcategory/seller-portal--4hisB47iAVZk4r3SEmMoG), [Gestão de Sellers](https://help.vtex.com/pt/tutorial/gerenciamento-de-sellers-beta--6eEiOISwxuAWJ8w6MtK7iv), [Convite de Sellers](https://help.vtex.com/pt/tutorial/marketplace-convite-de-sellers-beta--6rb2FkcslmDueJ689Ulb9A) e [Gerenciamento de Anúncios](https://help.vtex.com/pt/tutorial/gestao-de-anuncios--7MRb9S78aBdZjFGpbuffpE).
+Para possibilitar essa estratégia, estamos disponibilizando novas funcionalidades que permitem aos lojistas lançar e gerenciar operações de marketplace de forma escalável: [Seller Portal](/pt/subcategory/seller-portal--4hisB47iAVZk4r3SEmMoG), [Gestão de Sellers](/pt/tutorial/gerenciamento-de-sellers-beta--6eEiOISwxuAWJ8w6MtK7iv), [Convite de Sellers](/pt/tutorial/marketplace-convite-de-sellers-beta--6rb2FkcslmDueJ689Ulb9A) e [Gerenciamento de Anúncios](/pt/tutorial/gestao-de-anuncios--7MRb9S78aBdZjFGpbuffpE).
 
 Com nossas novas funcionalidades, marketplaces podem:
 
@@ -80,7 +80,7 @@ Saiba mais sobre cada funcionalidade a seguir.
 
 ![Seller Portal gif 2022 launch](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2022/outubro/2022-10-17-lancamentos-de-marketplace-vtex-em-2022_2.gif)
 
-O Seller Portal é uma edição da plataforma VTEX voltada para [sellers](https://help.vtex.com/pt/tutorial/marketplace-strategies-at-vtex--tutorials_402#vender-em-marketplace) se conectarem e venderem seus produtos em marketplaces hospedados na VTEX. Com o portal, sellers acessam todas as funcionalidades essenciais para a operação de ecommerce em grandes vitrines, trazendo visibilidade e conversão de vendas.
+O Seller Portal é uma edição da plataforma VTEX voltada para [sellers](/pt/tutorial/marketplace-strategies-at-vtex--tutorials_402#vender-em-marketplace) se conectarem e venderem seus produtos em marketplaces hospedados na VTEX. Com o portal, sellers acessam todas as funcionalidades essenciais para a operação de ecommerce em grandes vitrines, trazendo visibilidade e conversão de vendas.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
@@ -102,8 +102,8 @@ O Seller Portal é uma edição da plataforma VTEX voltada para [sellers](https:
 </thead>
 <tbody>
   <tr>
-    <td><ul> <li>Conectar-se de forma rápida e sem atrito ao marketplace que os convidou.</li>Acessar a interface renovada do [<span style="font-weight:400;color:#F71963;background-color:transparent">Catálogo Seller Portal</span>](https://help.vtex.com/pt/tutorial/seller-portal-como-funciona-o-catalogo--7pMB6YOt6YQDQQbzFB4Pxp), para ativar e vender produtos imediatamente.</li> <li>Cadastrar, consultar e editar informações do Catálogo utilizando a [<span style="font-weight:400;color:#F71963;background-color:transparent">Catalog API - Seller Portal</span>](https://developers.vtex.com/docs/api-reference/catalog-api-seller-portal).</li> <li>Gerenciar [<span style="font-weight:400;color:#F71963;background-color:transparent">produtos compartilhados</span>](https://help.vtex.com/pt/tutorial/seller-portal-produtos-compartilhados--6vUGj2UmOuLzQTK9pj04lu), que já existem no catálogo do marketplace, diminuindo a complexidade de vender produtos que o marketplace tem disponível.</li> <li>Atualizar estoque e preço de produtos.</li> <li>Gerenciar e faturar todos os seus pedidos no marketplace, podendo processar pagamentos.</li> <li>Construir sua estratégia de envio de pedidos para seus clientes, adicionando opções de entrega e pontos de retirada.</li> </ul></td>
-    <td><ul><li>Expandir com facilidade a base de sellers.</li> <li>Diminuir o tempo de conversão das vendas, com o onboarding self-service de novos sellers, agora mais rápido.</li> <li>Compartilhar o sortimento de produtos com o seller de forma simples e gerenciar com agilidade anúncios de produtos compartilhados.</li> <li>Ter a flexibilidade de construir e providenciar funcionalidades específicas, de acordo com seus diferentes casos de uso.</li> <li>[<span style="font-weight:400;color:#F71963;background-color:transparent">Adicionar apps VTEX de forma massiva</span>](https://developers.vtex.com/vtex-developer-docs/docs/seller-portal-edition-app), que atendem as particularidades de sua operação para todos os seus sellers.</li> <li>Avaliar métricas de sellers filtrando por "Sellers 3P" na página [<span style="font-weight:400;color:#F71963;background-color:transparent">Performance de Vendas</span>](https://help.vtex.com/pt/tutorial/performance-de-vendas--3DMube0sEsK9vPcRYGas72) </li> </ul>.</td>
+    <td><ul> <li>Conectar-se de forma rápida e sem atrito ao marketplace que os convidou.</li>Acessar a interface renovada do [<span style="font-weight:400;color:#F71963;background-color:transparent">Catálogo Seller Portal</span>](/pt/tutorial/seller-portal-como-funciona-o-catalogo--7pMB6YOt6YQDQQbzFB4Pxp), para ativar e vender produtos imediatamente.</li> <li>Cadastrar, consultar e editar informações do Catálogo utilizando a [<span style="font-weight:400;color:#F71963;background-color:transparent">Catalog API - Seller Portal</span>](https://developers.vtex.com/docs/api-reference/catalog-api-seller-portal).</li> <li>Gerenciar [<span style="font-weight:400;color:#F71963;background-color:transparent">produtos compartilhados</span>](/pt/tutorial/seller-portal-produtos-compartilhados--6vUGj2UmOuLzQTK9pj04lu), que já existem no catálogo do marketplace, diminuindo a complexidade de vender produtos que o marketplace tem disponível.</li> <li>Atualizar estoque e preço de produtos.</li> <li>Gerenciar e faturar todos os seus pedidos no marketplace, podendo processar pagamentos.</li> <li>Construir sua estratégia de envio de pedidos para seus clientes, adicionando opções de entrega e pontos de retirada.</li> </ul></td>
+    <td><ul><li>Expandir com facilidade a base de sellers.</li> <li>Diminuir o tempo de conversão das vendas, com o onboarding self-service de novos sellers, agora mais rápido.</li> <li>Compartilhar o sortimento de produtos com o seller de forma simples e gerenciar com agilidade anúncios de produtos compartilhados.</li> <li>Ter a flexibilidade de construir e providenciar funcionalidades específicas, de acordo com seus diferentes casos de uso.</li> <li>[<span style="font-weight:400;color:#F71963;background-color:transparent">Adicionar apps VTEX de forma massiva</span>](https://developers.vtex.com/vtex-developer-docs/docs/seller-portal-edition-app), que atendem as particularidades de sua operação para todos os seus sellers.</li> <li>Avaliar métricas de sellers filtrando por "Sellers 3P" na página [<span style="font-weight:400;color:#F71963;background-color:transparent">Performance de Vendas</span>](/pt/tutorial/performance-de-vendas--3DMube0sEsK9vPcRYGas72) </li> </ul>.</td>
   </tr>
 </tbody>
 </table>
@@ -119,7 +119,7 @@ Disponibilizamos a [Catalog API - Seller Portal](https://developers.vtex.com/doc
 
 #### Convite de sellers
 
-Para facilitar a entrada de novos sellers no Seller Portal, lançamos também a página [Sellers Convidados](https://help.vtex.com/pt/tutorial/marketplace-convite-de-sellers-beta--6rb2FkcslmDueJ689Ulb9A), onde operadores de marketplace convidam sellers para se integrarem ao seu marketplace. A página permite convidar dois tipos de lojas:
+Para facilitar a entrada de novos sellers no Seller Portal, lançamos também a página [Sellers Convidados](/pt/tutorial/marketplace-convite-de-sellers-beta--6rb2FkcslmDueJ689Ulb9A), onde operadores de marketplace convidam sellers para se integrarem ao seu marketplace. A página permite convidar dois tipos de lojas:
 
 * **Lojas já hospedadas na VTEX:** podem conectar sua conta VTEX como novo seller do marketplace.
 * **Lojas que ainda não possuem conta na VTEX:** sellers que já estavam hospedados em outras plataformas ou que ainda não estão inseridos em nenhuma plataforma de comércio digital podem criar uma conta no Seller Portal da VTEX.
@@ -128,7 +128,7 @@ Para facilitar a entrada de novos sellers no Seller Portal, lançamos também a 
 
 ![Seller management gif 2022 launch](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2022/outubro/2022-10-17-lancamentos-de-marketplace-vtex-em-2022_3.gif)
 
-Lançamos a experiência renovada da página [Gestão de Sellers](https://help.vtex.com/pt/tutorial/gerenciamento-de-sellers-beta--6eEiOISwxuAWJ8w6MtK7iv), onde operadores de marketplace [adicionam sellers](https://help.vtex.com/pt/tutorial/adicionar-seller-beta--6q4G4RNqVENr5YMJyindwL), registram suas respectivas informações e administram o status de cada seller. 
+Lançamos a experiência renovada da página [Gestão de Sellers](/pt/tutorial/gerenciamento-de-sellers-beta--6eEiOISwxuAWJ8w6MtK7iv), onde operadores de marketplace [adicionam sellers](/pt/tutorial/adicionar-seller-beta--6q4G4RNqVENr5YMJyindwL), registram suas respectivas informações e administram o status de cada seller. 
 
 A página inclui:
 
@@ -137,17 +137,17 @@ A página inclui:
 * Métricas sobre anúncios pendentes dos sellers.
 * Opção de adicionar sellers a grupos criados pelo próprio marketplace, facilitando o gerenciamento de múltiplos sellers de uma forma mais eficiente e escalável.
 
-_Esta página segue o novo Design System da VTEX, com um visual mais limpo, moderno e fácil de usar. Para acessar mais páginas com essa experiência, além de um Admin aprimorado com dados acionáveis, [faça parte](https://content.vtex.com/join-new-admin-beta-program-pt/) do programa Beta do [Novo Admin VTEX](https://help.vtex.com/pt/v4)._
+_Esta página segue o novo Design System da VTEX, com um visual mais limpo, moderno e fácil de usar. Para acessar mais páginas com essa experiência, além de um Admin aprimorado com dados acionáveis, [faça parte](https://content.vtex.com/join-new-admin-beta-program-pt/) do programa Beta do [Novo Admin VTEX](/pt/v4)._
 
 ### Gerenciamento de anúncios
 
 ![Offer Management gif](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2022/outubro/2022-10-17-lancamentos-de-marketplace-vtex-em-2022_4.gif)
 
-A eficiência e atuação estratégica de um seller depende da sua visibilidade sobre o envio dos anúncios ao marketplace, além da identificação e correção de erros durante o envio. Para facilitar esse processo, lançamos a funcionalidade [Gerenciamento de anúncios](https://help.vtex.com/pt/tutorial/gestao-de-anuncios--7MRb9S78aBdZjFGpbuffpE).
+A eficiência e atuação estratégica de um seller depende da sua visibilidade sobre o envio dos anúncios ao marketplace, além da identificação e correção de erros durante o envio. Para facilitar esse processo, lançamos a funcionalidade [Gerenciamento de anúncios](/pt/tutorial/gestao-de-anuncios--7MRb9S78aBdZjFGpbuffpE).
 
 Até então, para os sellers obterem informações sobre anúncios em marketplaces, era necessário recorrer a três páginas diferentes do Admin VTEX: _Produto, Preço_ e _Estoque_, em _Marketplace > Integrações._ Além disso, identificar e corrigir erros no envio de anúncios era pouco intuitivo.
 
-A nova funcionalidade permite ao seller acompanhar seus anúncios de forma simples e facilmente resolver erros de envio e sincronização de produtos. Ela está disponível para produtos enviados ao [Mercado Livre](https://help.vtex.com/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq) (Classic e Premium), [Netshoes](https://help.vtex.com/pt/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm) e marketplaces VTEX.
+A nova funcionalidade permite ao seller acompanhar seus anúncios de forma simples e facilmente resolver erros de envio e sincronização de produtos. Ela está disponível para produtos enviados ao [Mercado Livre](/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq) (Classic e Premium), [Netshoes](/pt/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm) e marketplaces VTEX.
 
  Agora, em uma página só, sellers podem:
 
@@ -155,7 +155,7 @@ A nova funcionalidade permite ao seller acompanhar seus anúncios de forma simpl
 * Identificar e resolver erros no envio e sincronização de anúncios de forma rápida.
 * Realizar buscas com diversos filtros.
 * Exportar planilhas com listas de anúncios.
-* Investigar de forma granular as [interações](https://help.vtex.com/pt/tutorial/detalhes-da-interacao--5qC6XPkyUsYPd0dqKHQNlf) dos anúncios com cada sistema envolvido.
+* Investigar de forma granular as [interações](/pt/tutorial/detalhes-da-interacao--5qC6XPkyUsYPd0dqKHQNlf) dos anúncios com cada sistema envolvido.
 
 A funcionalidade **Gerenciamento de anúncios** é voltada apenas para o uso de sellers, mas também traz benefícios para o operador de marketplace, que passa a oferecer uma experiência melhor para seus sellers e garante um envio de produtos mais rápido.
 
@@ -190,11 +190,11 @@ Confira nas tabelas abaixo o que deve ser feito para marketplaces e sellers come
   </tr>
   <tr>
     <td>Seller Portal</td>
-    <td>Para possibilitar que sellers acessem o portal, siga o passo a passo: <br> <ol> <li>Envie um convite para cada seller que deseja adicionar ao Seller Portal por meio da página [<span style="font-weight:400;color:#F71963;background-color:transparent">Convite de Sellers</span>](https://help.vtex.com/pt/tutorial/marketplace-convite-de-sellers-beta--6rb2FkcslmDueJ689Ulb9A).</li> <li>Compartilhe o artigo de ajuda [<span style="font-weight:400;color:#F71963;background-color:transparent">Seller: criar conta no Seller Portal</span>](https://help.vtex.com/pt/tutorial/seller-criar-conta-no-seller-portal-beta--3gn2Q5rMhgu0jjX7AiiHcs) com seus sellers, para aprenderem a configurar sua conta.</li> <li> [<span style="font-weight:400;color:#F71963;background-color:transparent">Ative o seller</span>](https://help.vtex.com/pt/tutorial/seller-portal-primeiros-passos-para-o-marketplace--6ccErY3mCcfoW0qGXf167#ativar-seller) para que ele possa enviar produtos ao seu marketplace.</li> </ol> Saiba mais sobre o processo completo conferindo o artigo [<span style="font-weight:400;color:#F71963;background-color:transparent">Seller Portal: primeiros passos para o marketplace</span>](https://help.vtex.com/pt/tutorial/seller-portal-primeiros-passos-para-o-marketplace--6ccErY3mCcfoW0qGXf167).</td>
+    <td>Para possibilitar que sellers acessem o portal, siga o passo a passo: <br> <ol> <li>Envie um convite para cada seller que deseja adicionar ao Seller Portal por meio da página [<span style="font-weight:400;color:#F71963;background-color:transparent">Convite de Sellers</span>](/pt/tutorial/marketplace-convite-de-sellers-beta--6rb2FkcslmDueJ689Ulb9A).</li> <li>Compartilhe o artigo de ajuda [<span style="font-weight:400;color:#F71963;background-color:transparent">Seller: criar conta no Seller Portal</span>](/pt/tutorial/seller-criar-conta-no-seller-portal-beta--3gn2Q5rMhgu0jjX7AiiHcs) com seus sellers, para aprenderem a configurar sua conta.</li> <li> [<span style="font-weight:400;color:#F71963;background-color:transparent">Ative o seller</span>](/pt/tutorial/seller-portal-primeiros-passos-para-o-marketplace--6ccErY3mCcfoW0qGXf167#ativar-seller) para que ele possa enviar produtos ao seu marketplace.</li> </ol> Saiba mais sobre o processo completo conferindo o artigo [<span style="font-weight:400;color:#F71963;background-color:transparent">Seller Portal: primeiros passos para o marketplace</span>](/pt/tutorial/seller-portal-primeiros-passos-para-o-marketplace--6ccErY3mCcfoW0qGXf167).</td>
   </tr>
   <tr>
     <td>Gerenciamento de sellers</td>
-    <td>A página já está disponível em seu Admin em Marketplace > Sellers > Gerenciamento de Sellers no menu lateral. Com o lançamento, a página anterior será substituída pela experiência nova, e não haverá a opção de voltar para a anterior. <br> Saiba como operar a página e aprimorar seu acompanhamento de sellers conferindo o artigo [<span style="font-weight:400;color:#F71963;background-color:transparent">Gerenciamento de Sellers</span>](https://help.vtex.com/pt/tutorial/gerenciamento-de-sellers-beta--6eEiOISwxuAWJ8w6MtK7iv).</td>
+    <td>A página já está disponível em seu Admin em Marketplace > Sellers > Gerenciamento de Sellers no menu lateral. Com o lançamento, a página anterior será substituída pela experiência nova, e não haverá a opção de voltar para a anterior. <br> Saiba como operar a página e aprimorar seu acompanhamento de sellers conferindo o artigo [<span style="font-weight:400;color:#F71963;background-color:transparent">Gerenciamento de Sellers</span>](/pt/tutorial/gerenciamento-de-sellers-beta--6eEiOISwxuAWJ8w6MtK7iv).</td>
   </tr>
 </tbody>
 </table>
@@ -222,11 +222,11 @@ Confira nas tabelas abaixo o que deve ser feito para marketplaces e sellers come
 <tbody>
   <tr>
     <td>Gestão de anúncios</td>
-    <td>A página já está disponível no Admin de sellers que vendem produtos no [<span style="font-weight:400;color:#F71963;background-color:transparent">Mercado Livre</span>](https://help.vtex.com/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq) (Classic e Premium), [<span style="font-weight:400;color:#F71963;background-color:transparent">Netshoes</span>](https://help.vtex.com/pt/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm) e em qualquer marketplace VTEX. Para os outros marketplaces, ainda será preciso utilizar as páginas de Produto, Preço e Estoque em Marketplace &gt; Integrações.<br>Para acessar a página no Admin VTEX, vá em Marketplace &gt; Integrações &gt; Gestão de anúncios. Se sua loja usa o [<span style="font-weight:400;color:#F71963;background-color:transparent">Novo Admin VTEX</span>](https://content.vtex.com/join-new-admin-beta-program-pt/), acesse Marketplace > Conexões > Gestão de anúncios.<br>Saiba como operar a página conferindo o artigo [<span style="font-weight:400;color:#F71963;background-color:transparent">Módulo Gestão de anúncios</span>](https://help.vtex.com/pt/tutorial/gestao-de-anuncios--7MRb9S78aBdZjFGpbuffpE).</td>
+    <td>A página já está disponível no Admin de sellers que vendem produtos no [<span style="font-weight:400;color:#F71963;background-color:transparent">Mercado Livre</span>](/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq) (Classic e Premium), [<span style="font-weight:400;color:#F71963;background-color:transparent">Netshoes</span>](/pt/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm) e em qualquer marketplace VTEX. Para os outros marketplaces, ainda será preciso utilizar as páginas de Produto, Preço e Estoque em Marketplace &gt; Integrações.<br>Para acessar a página no Admin VTEX, vá em Marketplace &gt; Integrações &gt; Gestão de anúncios. Se sua loja usa o [<span style="font-weight:400;color:#F71963;background-color:transparent">Novo Admin VTEX</span>](https://content.vtex.com/join-new-admin-beta-program-pt/), acesse Marketplace > Conexões > Gestão de anúncios.<br>Saiba como operar a página conferindo o artigo [<span style="font-weight:400;color:#F71963;background-color:transparent">Módulo Gestão de anúncios</span>](/pt/tutorial/gestao-de-anuncios--7MRb9S78aBdZjFGpbuffpE).</td>
   </tr>
   <tr>
     <td>Seller Portal</td>
-    <td>Após o marketplace enviar um convite, o seller convidado receberá por e-mail o link para a criação de sua conta no Seller Portal.<br> <ol> <li>[<span style="font-weight:400;color:#F71963;background-color:transparent">Crie uma conta no Seller Portal</span>](https://help.vtex.com/pt/tutorial/seller-criar-conta-no-seller-portal-beta--3gn2Q5rMhgu0jjX7AiiHcs). </li> <li>Configure sua loja seguindo as instruções do artigo [<span style="font-weight:400;color:#F71963;background-color:transparent">Seller Portal: Primeiros Passos do seller</span>](https://help.vtex.com/pt/tutorial/seller-portal-primeiros-passos--6w1vBdRH2uuBGmUqgNQjwK). </li> </ol></td>
+    <td>Após o marketplace enviar um convite, o seller convidado receberá por e-mail o link para a criação de sua conta no Seller Portal.<br> <ol> <li>[<span style="font-weight:400;color:#F71963;background-color:transparent">Crie uma conta no Seller Portal</span>](/pt/tutorial/seller-criar-conta-no-seller-portal-beta--3gn2Q5rMhgu0jjX7AiiHcs). </li> <li>Configure sua loja seguindo as instruções do artigo [<span style="font-weight:400;color:#F71963;background-color:transparent">Seller Portal: Primeiros Passos do seller</span>](/pt/tutorial/seller-portal-primeiros-passos--6w1vBdRH2uuBGmUqgNQjwK). </li> </ol></td>
   </tr>
   <tr>
     <td>Catalog API</td>
@@ -237,7 +237,7 @@ Confira nas tabelas abaixo o que deve ser feito para marketplaces e sellers come
 
 ## Saiba mais
 
-- [Seller Portal](https://help.vtex.com/pt/subcategory/seller-portal--4hisB47iAVZk4r3SEmMoG)
-- [Gerenciamento de anúncios](https://help.vtex.com/pt/subcategory/gerenciamento-de-anuncios--2zVauFUkYn8vgS0y0MfWeK)
-- [Gerenciamento de sellers](https://help.vtex.com/pt/tutorial/gerenciamento-de-sellers--6eEiOISwxuAWJ8w6MtK7iv)
+- [Seller Portal](/pt/subcategory/seller-portal--4hisB47iAVZk4r3SEmMoG)
+- [Gerenciamento de anúncios](/pt/subcategory/gerenciamento-de-anuncios--2zVauFUkYn8vgS0y0MfWeK)
+- [Gerenciamento de sellers](/pt/tutorial/gerenciamento-de-sellers--6eEiOISwxuAWJ8w6MtK7iv)
 

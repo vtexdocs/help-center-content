@@ -25,4 +25,4 @@ Também é possível configurar o limite por cliente, ao invés de limite por pr
 
 ## Saiba mais
 
-- [Entenda mais sobre cada tipo de promoção](https://help.vtex.com/pt/tutorial/como-criar-promocoes--tutorials_320).
+- [Entenda mais sobre cada tipo de promoção](/pt/tutorial/como-criar-promocoes--tutorials_320).

@@ -25,7 +25,7 @@ Para esa configuración, es necesario configurar una promoción del tipo Lleve m
 2. Haga clic en el botón `Crear Promoción`.
 3. Haga clic en la opción **Más Por Menos**.
 4. Rellene los campos conforme el tutorial [Crear promoción Más por Menos
-](https://help.vtex.com/es/tutorial/creating-a-more-for-less-promotion--tutorials_325 "Crear promoción Más por Menos").
+](/es/tutorial/creating-a-more-for-less-promotion--tutorials_325 "Crear promoción Más por Menos").
 5. En el campo **SKUs**, rellene con el SKU al que desea dar la promoción.
 6. En el campo **Cada _ producto(s)**, rellene con el valor **1**.
 7. En el campo **El cliente llevará __ producto(s)**, rellene con el valor **1**.
@@ -42,7 +42,7 @@ La configuración de esta promoción se hace por el tipo compre y gane, en el qu
 2. Haga clic en el botón `Crear Promoción`.
 3. Haga clic en la opción **Compre y gane**.
 4. Rellene los campos conforme el tutorial [Cómo funciona la promoción Compre y gane
-](https://help.vtex.com/es/tutorial/como-funciona-la-promocion-compre-y-gane--tutorials_322 "Cómo funciona la promoción Compre y gane").
+](/es/tutorial/como-funciona-la-promocion-compre-y-gane--tutorials_322 "Cómo funciona la promoción Compre y gane").
 5. En el campo **¿Qué tipo y importe de descuento?**, seleccione la opción **Regalo** y rellene con el ID del SKU que desea dar como regalo.
 6. En el campo **SKUs**, seleccione el SKU que desea conceder la promoción con regalo.
 7. Haga clic en el botón `Guardar`.

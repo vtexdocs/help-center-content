@@ -25,7 +25,7 @@ Considere este ejemplo: un cliente que se encuentra en su casa hace un pedido en
 
 ## Prerrequisitos
 
-En primer lugar, consideremos los requisitos previos que su tienda necesita para asegurarse de comenzar a implementar una estrategia de Ship From Store. Consulte nuestro artículo sobre [Requisitos previos para utilizar VTEX Sales App](https://help.vtex.com/es/tracks/instore-primeros-pasos-y-configuracion--zav76TFEZlAjnyBVL5tRc/1wtAanSRA3g2316dw7bw8u "Requisitos previos para utilizar VTEX Sales App").
+En primer lugar, consideremos los requisitos previos que su tienda necesita para asegurarse de comenzar a implementar una estrategia de Ship From Store. Consulte nuestro artículo sobre [Requisitos previos para utilizar VTEX Sales App](/es/tracks/instore-primeros-pasos-y-configuracion--zav76TFEZlAjnyBVL5tRc/1wtAanSRA3g2316dw7bw8u "Requisitos previos para utilizar VTEX Sales App").
 
 ## Cómo implementar el Ship From Store
 
@@ -38,7 +38,7 @@ Estos son los pasos para implementar el __Ship From Store__:
 
 ### Crear cuentas franquicia
 
-Recomendamos utilizar la función [cuentas franquicias](https://help.vtex.com/es/tracks/instore-primeros-pasos-y-configuracion--zav76TFEZlAjnyBVL5tRc/eujH0id9Y4WJjjmdazUKd) para implementar el Ship From Store. Con ellas, cada una de sus tiendas físicas tendrá un ambiente separado, con su propia logística, pero todas heredarán el catálogo del ambiente principal.
+Recomendamos utilizar la función [cuentas franquicias](/es/tracks/instore-primeros-pasos-y-configuracion--zav76TFEZlAjnyBVL5tRc/eujH0id9Y4WJjjmdazUKd) para implementar el Ship From Store. Con ellas, cada una de sus tiendas físicas tendrá un ambiente separado, con su propia logística, pero todas heredarán el catálogo del ambiente principal.
 
 ### Configurar la logística
 
@@ -50,11 +50,11 @@ Crearemos un transportista para entregar desde el stock local de una de sus tien
 
 1. En el Admin VTEX de la cuenta franquicia deseada, accede a **Envío** > __Estrategia de envío__, o escribe __Estrategia de envío__ en la barra de búsqueda en la parte superior de la página.
 2. Haga clic en el botón `Crear política de envío`.
-3. Complete los datos del transportista de acuerdo con el artículo [Registrar transportista](https://help.vtex.com/es/tutorial/cadastrar-transportadora--tutorials_140).
+3. Complete los datos del transportista de acuerdo con el artículo [Registrar transportista](/es/tutorial/cadastrar-transportadora--tutorials_140).
 
 #### Conecte los transportistas al inventario de la tienda física
 
 Ahora es necesario informar al sistema VTEX cuál es el almacén del que los productos se irán para ser entregados por el transportista registrado en el paso anterior.
 
-1. Cree un muelle, como se describe [en este artículo](https://help.vtex.com/es/tutorial/como-cadastrar-doca--7K3FultD8I2cuuA6iyGEiW). En el campo __Políticas de envío asociadas__, añada el transportista que creó en la sección anterior de esta guía.
-2. Cree un almacén, siguiendo los pasos del artículo [Registrar inventario](https://help.vtex.com/es/tutorial/gerenciar-estoque--tutorials_137). En el campo __Origen__, añada el muelle que creó en el paso anterior.
+1. Cree un muelle, como se describe [en este artículo](/es/tutorial/como-cadastrar-doca--7K3FultD8I2cuuA6iyGEiW). En el campo __Políticas de envío asociadas__, añada el transportista que creó en la sección anterior de esta guía.
+2. Cree un almacén, siguiendo los pasos del artículo [Registrar inventario](/es/tutorial/gerenciar-estoque--tutorials_137). En el campo __Origen__, añada el muelle que creó en el paso anterior.

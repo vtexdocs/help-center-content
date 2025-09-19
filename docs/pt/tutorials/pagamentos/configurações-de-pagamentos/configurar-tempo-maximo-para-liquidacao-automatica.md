@@ -20,7 +20,7 @@ Primeiramente, é importante compreender a diferença entre três conceitos simi
 > ⚠️ As informações a seguir são válidas para pagamentos realizados com cartão de crédito
 
 ## Liquidação por faturamento
-A liquidação por faturamento é uma das etapas do [fluxo da transação](https://help.vtex.com/pt/tutorial/fluxo-da-transacao-no-pagamentos--Er2oWmqPIWWyeIy4IoEoQ), sendo o processo interno da VTEX que ocorre depois que um cliente realiza o pagamento de um pedido.
+A liquidação por faturamento é uma das etapas do [fluxo da transação](/pt/tutorial/fluxo-da-transacao-no-pagamentos--Er2oWmqPIWWyeIy4IoEoQ), sendo o processo interno da VTEX que ocorre depois que um cliente realiza o pagamento de um pedido.
 
 Quando o pedido é faturado, momento em que os produtos estão prontos para serem enviados para a transportadora, o gateway de pagamentos realiza a liquidação. Isso acontece porque o faturamento do pedido indica que o pagamento foi realizado da forma correta.
 

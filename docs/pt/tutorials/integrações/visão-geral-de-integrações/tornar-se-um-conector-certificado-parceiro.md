@@ -25,4 +25,4 @@ Se um marketplace externo não tem interesse em se tornar um parceiro, mas gosta
 
 | **SAIBA MAIS** |
 | ---------- |
-|Caso você queira mais informações sobre oportunidades de crescimento, confira o artigo [Estratégias de marketplace na VTEX](https://help.vtex.com/pt/tutorial/integrando-com-marketplace--tutorials_402?&utm_source=autocomplete).|
+|Caso você queira mais informações sobre oportunidades de crescimento, confira o artigo [Estratégias de marketplace na VTEX](/pt/tutorial/integrando-com-marketplace--tutorials_402?&utm_source=autocomplete).|

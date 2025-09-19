@@ -17,7 +17,7 @@ subcategoryId: 2vuGumwWQ432unGlyOOXXc
 
 O **Personal Shopper** é um aplicativo que permite às empresas realizarem sessões de compras ao vivo na loja, possibilitando a interação em tempo real com os clientes. Durante essas sessões, o personal shopper pode mostrar produtos, responder a perguntas e adicionar produtos ao carrinho do cliente. Essa experiência de compra interativa foi desenvolvida para aumentar as vendas, engajar os clientes e fidelizá-los à marca.
 
-> ⚠️ O Personal Shopper foi desenvolvido para sellers que desejam apresentar novas coleções para clientes de alto valor ou clientes B2B. Essas sessões ao vivo personalizadas têm o objetivo de proporcionar uma experiência de compra mais personalizada do que as sessões públicas do [Live Shopping](https://help.vtex.com/pt/tutorial/live-shopping--1cYWPIbjNMyr072sksHSVL).
+> ⚠️ O Personal Shopper foi desenvolvido para sellers que desejam apresentar novas coleções para clientes de alto valor ou clientes B2B. Essas sessões ao vivo personalizadas têm o objetivo de proporcionar uma experiência de compra mais personalizada do que as sessões públicas do [Live Shopping](/pt/tutorial/live-shopping--1cYWPIbjNMyr072sksHSVL).
 
 | ![mobile-personalshopper](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/apps/personal-shopper/visao-geral-do-personal-shopper_1.gif)     | ![desktop-personalshopper](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/apps/personal-shopper/visao-geral-do-personal-shopper_2.gif)     |
 | ---------- | ---------- |
@@ -99,7 +99,7 @@ Para configurar suas preferências do Personal Shopper, siga estas etapas:
 1. No Admin VTEX, acesse **Aplicativos > Personal Shopper > Configurações**.
 2. Clique na aba `Configurações do personal shopper`.
 3. Na seção **Conta geral**, preencha os seguintes campos com base nas instruções abaixo:
-    * **URL do cliente**: insira a URL da página que você criou na seção [Criar uma landing page do Personal Shopper](https://help.vtex.com/pt/tutorial/visao-geral-do-personal-shopper--12dC0UMD0C6x6kw43LF8MH#criar-uma-landing-page-do-personal-shopper). Por exemplo, `https://www.minhaloja.com.br/personal-shopper`.
+    * **URL do cliente**: insira a URL da página que você criou na seção [Criar uma landing page do Personal Shopper](/pt/tutorial/visao-geral-do-personal-shopper--12dC0UMD0C6x6kw43LF8MH#criar-uma-landing-page-do-personal-shopper). Por exemplo, `https://www.minhaloja.com.br/personal-shopper`.
     * **Nome da loja**: insira o nome da sua loja. Esse nome será usado nos emails enviados a clientes e personal shoppers.
 4. Na seção **Política de Privacidade e Termos e Condições**, configure os links e o texto apropriados para solicitar o consentimento do usuário em relação à política de privacidade e aos termos e condições de tratamento de dados.
 5. Na seção **Mensagens e notificações**, personalize as seguintes mensagens:
@@ -197,9 +197,9 @@ Ao estar cadastrado como personal shopper, você pode criar videochamadas com se
 
 ![calls-personalshopper](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/apps/personal-shopper/visao-geral-do-personal-shopper_3.png)
 
-Se você optar por uma chamada instantânea, clique em `Iniciar uma videochamada` para iniciar a chamada com o cliente. Isso permite que vocês interajam em tempo real, fornecendo a ele assistência personalizada. Para obter mais informações sobre como conduzir uma videochamada, veja a seção [Fazer uma videochamada](https://help.vtex.com/pt/tutorial/visao-geral-do-personal-shopper--12dC0UMD0C6x6kw43LF8MH#criar-uma-videochamada). Nesse caso, certifique-se de conceder ao seu navegador as permissões necessárias para o acesso ao microfone e à câmera para evitar problemas durante a videochamada.
+Se você optar por uma chamada instantânea, clique em `Iniciar uma videochamada` para iniciar a chamada com o cliente. Isso permite que vocês interajam em tempo real, fornecendo a ele assistência personalizada. Para obter mais informações sobre como conduzir uma videochamada, veja a seção [Fazer uma videochamada](/pt/tutorial/visao-geral-do-personal-shopper--12dC0UMD0C6x6kw43LF8MH#criar-uma-videochamada). Nesse caso, certifique-se de conceder ao seu navegador as permissões necessárias para o acesso ao microfone e à câmera para evitar problemas durante a videochamada.
 
-Se optar por agendar uma chamada de vídeo para depois, você receberá o link dela para compartilhar com os participantes. Para obter mais informações, veja a seção [Participar de um evento agendado](https://help.vtex.com/pt/tutorial/visao-geral-do-personal-shopper--12dC0UMD0C6x6kw43LF8MH#participar-de-um-evento-agendado).
+Se optar por agendar uma chamada de vídeo para depois, você receberá o link dela para compartilhar com os participantes. Para obter mais informações, veja a seção [Participar de um evento agendado](/pt/tutorial/visao-geral-do-personal-shopper--12dC0UMD0C6x6kw43LF8MH#participar-de-um-evento-agendado).
 
 ### Gerenciar disponibilidade
 
@@ -221,7 +221,7 @@ Para participar de um evento solicitado por um cliente ou de um evento que você
 4. Clique em `Participar` para entrar na videochamada com o cliente.
 5. Clique em `Iniciar uma videochamada`.
 
-Para obter mais informações sobre como conduzir uma videochamada após entrar, veja a seção [Fazer uma videochamada](https://help.vtex.com/pt/tutorial/visao-geral-do-personal-shopper--12dC0UMD0C6x6kw43LF8MH#fazer-uma-videochamada).
+Para obter mais informações sobre como conduzir uma videochamada após entrar, veja a seção [Fazer uma videochamada](/pt/tutorial/visao-geral-do-personal-shopper--12dC0UMD0C6x6kw43LF8MH#fazer-uma-videochamada).
 
 Certifique-se de conceder ao seu navegador as permissões necessárias para o acesso ao microfone e à câmera para evitar problemas durante a videochamada.
 

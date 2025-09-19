@@ -20,29 +20,29 @@ The **Inventory & shipping** module is where you set up the logistics of your VT
 
 This article is the first in a series of five articles for getting started with logistics in your store. The series contains essential information to help you understand logistics in VTEX stores and how settings are structured on the platform.
 
-> ❗ Before setting up your store logistics, please configure the following: <body> <ol> <li>[Trade policy</li>](https://help.vtex.com/en/tutorial/criar-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE) <li>[Catalog</li>](https://help.vtex.com/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3rA2tTpIoEXdv2nzC27zxR) <li>[Prices</li>](https://help.vtex.com/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3N9xYhnampRQOrfaTAOxNu) </ol> </body>
+> ❗ Before setting up your store logistics, please configure the following: <body> <ol> <li>[Trade policy</li>](/en/tutorial/criar-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE) <li>[Catalog</li>](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3rA2tTpIoEXdv2nzC27zxR) <li>[Prices</li>](/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3N9xYhnampRQOrfaTAOxNu) </ol> </body>
 
 This walkthrough brings together the following articles:
 
-* [Getting started with logistics](https://help.vtex.com/en/tracks/logistics-101--13TFDwDttPl9ki9OXQhyjx/6Y8C1JuPtO5E61Ew91tq1a): Summary of how the **Inventory & shipping** module is organized.
-* [Shipping strategies](https://help.vtex.com/en/tracks/logistics-101--13TFDwDttPl9ki9OXQhyjx/4IPeNztIXsZI4oA5TyES9N): Contains the basic and necessary settings for your VTEX store to offer shipping options to customers. In this article, you can get an overview of how the platform processes loading docks, warehouses, and shipping policies, and the suggested order for adding them to the platform.
-* [Inventory](https://help.vtex.com/en/tracks/logistics-101--13TFDwDttPl9ki9OXQhyjx/2XyUVa0UKMyHTmwqyA5Bx6): Contains information on managing items in stock and explains the features of this section.
-* [Shipping costs and simulation](https://help.vtex.com/en/tracks/logistics-101--13TFDwDttPl9ki9OXQhyjx/3by48jFhzpZEseYFpH9uVt): Explains how to set up shipping costs and use the shipping rate simulation tool.
-* [Scheduled deliveries and delivery capacity](https://help.vtex.com/en/tracks/logistics-101--13TFDwDttPl9ki9OXQhyjx/5TuyqHRCCwYMaDv4r8rZdo): Explains how to make scheduled deliveries available to customers and manage the delivery capacity of such deliveries. 
+* [Getting started with logistics](/en/tracks/logistics-101--13TFDwDttPl9ki9OXQhyjx/6Y8C1JuPtO5E61Ew91tq1a): Summary of how the **Inventory & shipping** module is organized.
+* [Shipping strategies](/en/tracks/logistics-101--13TFDwDttPl9ki9OXQhyjx/4IPeNztIXsZI4oA5TyES9N): Contains the basic and necessary settings for your VTEX store to offer shipping options to customers. In this article, you can get an overview of how the platform processes loading docks, warehouses, and shipping policies, and the suggested order for adding them to the platform.
+* [Inventory](/en/tracks/logistics-101--13TFDwDttPl9ki9OXQhyjx/2XyUVa0UKMyHTmwqyA5Bx6): Contains information on managing items in stock and explains the features of this section.
+* [Shipping costs and simulation](/en/tracks/logistics-101--13TFDwDttPl9ki9OXQhyjx/3by48jFhzpZEseYFpH9uVt): Explains how to set up shipping costs and use the shipping rate simulation tool.
+* [Scheduled deliveries and delivery capacity](/en/tracks/logistics-101--13TFDwDttPl9ki9OXQhyjx/5TuyqHRCCwYMaDv4r8rZdo): Explains how to make scheduled deliveries available to customers and manage the delivery capacity of such deliveries. 
 
-> ℹ️ If you have already made the first steps in the **Inventory & shipping** module, check out this complementary content: The article [Logistics](https://help.vtex.com/en/tutorial/logistics--53udnvI5eBy8DKo8FOjMoP), for quick access to information on the **Inventory & shipping** sections. Our [Logistics Glossary](https://help.vtex.com/en/tutorial/logistics-glossary--16DSSiXn548rsidi0A8Hby), in which you can find the definitions of logistics terms used at VTEX. The logistics settings available via [API](https://developers.vtex.com/vtex-rest-api/reference/logistics-api-overview).
+> ℹ️ If you have already made the first steps in the **Inventory & shipping** module, check out this complementary content: The article [Logistics](/en/tutorial/logistics--53udnvI5eBy8DKo8FOjMoP), for quick access to information on the **Inventory & shipping** sections. Our [Logistics Glossary](/en/tutorial/logistics-glossary--16DSSiXn548rsidi0A8Hby), in which you can find the definitions of logistics terms used at VTEX. The logistics settings available via [API](https://developers.vtex.com/vtex-rest-api/reference/logistics-api-overview).
 
 Basically, the **Inventory & shipping** module is divided into the following sections:
 
-* **[Shipping strategy](https://help.vtex.com/en/tutorial/shipping-strategy--58vLBDbjYVQzJ6rRc5QNz3)**: Basic settings for the store's shipping structure.  
-* **[Delivery capacity](https://help.vtex.com/en/tutorial/managing-delivery-capacity--2y217FQZCjD0I1n62yxVcz)**: For tracking the capacity of scheduled deliveries.
-* **[Inventory management:](https://help.vtex.com/en/tutorial/managing-stock-items--tutorials_139)** To check the availability of items and track stock reservation and sold items.
-* **[Shipping rates:](https://help.vtex.com/en/tutorial/shipping-rates--1Balpg3rv0854udEPedvMM)</span>** For adding and checking the shipping rates offered to customers.
-* **[Shipping simulator](https://help.vtex.com/en/tutorial/shipping-simulation--tutorials_144)**: Delivery simulation tool that allows retailers to validate the delivery scenarios available for each region and product.
-* **[Geolocation shipping](https://help.vtex.com/en/tutorial/registering-geolocation--tutorials_138)**: Feature to add delivery locations without using postal codes.
-* **[Holidays:](https://help.vtex.com/en/tutorial/registering-holidays--2ItOthSEAoyAmcwsuiO6Yk)** For registering holidays that affect your store's delivery operations. 
+* **[Shipping strategy](/en/tutorial/shipping-strategy--58vLBDbjYVQzJ6rRc5QNz3)**: Basic settings for the store's shipping structure.  
+* **[Delivery capacity](/en/tutorial/managing-delivery-capacity--2y217FQZCjD0I1n62yxVcz)**: For tracking the capacity of scheduled deliveries.
+* **[Inventory management:](/en/tutorial/managing-stock-items--tutorials_139)** To check the availability of items and track stock reservation and sold items.
+* **[Shipping rates:](/en/tutorial/shipping-rates--1Balpg3rv0854udEPedvMM)</span>** For adding and checking the shipping rates offered to customers.
+* **[Shipping simulator](/en/tutorial/shipping-simulation--tutorials_144)**: Delivery simulation tool that allows retailers to validate the delivery scenarios available for each region and product.
+* **[Geolocation shipping](/en/tutorial/registering-geolocation--tutorials_138)**: Feature to add delivery locations without using postal codes.
+* **[Holidays:](/en/tutorial/registering-holidays--2ItOthSEAoyAmcwsuiO6Yk)** For registering holidays that affect your store's delivery operations. 
 * **Settings**: General logistics settings, such as enabling critical stock notification.
-* **[Pickup points](https://help.vtex.com/en/tutorial/pickup-points--2fljn6wLjn8M4lJHA6HP3R)**: For listing physical locations where customers can pick up their orders.
+* **[Pickup points](/en/tutorial/pickup-points--2fljn6wLjn8M4lJHA6HP3R)**: For listing physical locations where customers can pick up their orders.
 
 ![estoque e entregaEN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-modules-getting-started/logistics-101/getting-started-with-logistics_1.png)
 

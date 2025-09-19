@@ -15,4 +15,4 @@ locale: en
 subcategoryId: 1kLZWFCmluavm21LygmQA0
 ---
 
-> ℹ️ This content is only available in Portuguese. [Click here](https://help.vtex.com/pt/tutorial/acessar-a-area-financeira-indeva--3Oicnu7sNklQx8Neg6nHRM) to access it.
+> ℹ️ This content is only available in Portuguese. [Click here](/pt/tutorial/acessar-a-area-financeira-indeva--3Oicnu7sNklQx8Neg6nHRM) to access it.

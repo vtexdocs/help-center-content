@@ -35,5 +35,5 @@ With the new design of the Inventory management interface, all items in stock ar
 
 The tab’s design has been improved, but the configuration fields have not changed. All the information previously contained in your *Inventory* tab remains the same. No configuration is required.
 
-For more information, check out the documentation on the new [Inventory management](https://help.vtex.com/en/tutorial/gerenciar-itens-em-estoque) page.  
+For more information, check out the documentation on the new [Inventory management](/en/tutorial/gerenciar-itens-em-estoque) page.  
 

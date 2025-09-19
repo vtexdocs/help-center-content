@@ -26,7 +26,7 @@ Realice el siguiente procedimiento para registrar sus departamentos, categorías
 3. Haga clic en la categoría en la que desea agregar categorías hijas.
 4. Un pequeño rectángulo azul aparecerá en la pantalla. Haga clic en `Acciones`.
 5. Haga clic en `Crear`.
-6. Rellene los campos del formulario de categoría. Para entender mejor el significado de cada campo, acceda a nuestro artículo sobre [cómo rellenar los campos de registro de categoría](https://help.vtex.com/es/tutorial/campos-de-cadastro-de-categoria--5Z7RrvW41yumyQCmk2iqoG). 
+6. Rellene los campos del formulario de categoría. Para entender mejor el significado de cada campo, acceda a nuestro artículo sobre [cómo rellenar los campos de registro de categoría](/es/tutorial/campos-de-cadastro-de-categoria--5Z7RrvW41yumyQCmk2iqoG). 
 7. Haga clic en `Guardar`.
 
 ## API

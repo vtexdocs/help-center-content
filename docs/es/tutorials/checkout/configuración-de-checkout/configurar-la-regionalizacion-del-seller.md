@@ -15,15 +15,15 @@ locale: es
 subcategoryId: 6XAvmMxp7yyY06ewYMuggs
 ---
 
-**Region** es la funcionalidad responsable de buscar los [sellers white labels](https://help.vtex.com/es/tutorial/seller-white-label--5orlGHyDHGAYciQ64oEgKa#) de un marketplace según las regiones de entrega y definir cuáles de ellos pueden cumplir con el pedido del cliente según su ubicación. Además, a través de ella también es posible filtrar los precios y la disponibilidad de artículos en stock a nivel regional.
+**Region** es la funcionalidad responsable de buscar los [sellers white labels](/es/tutorial/seller-white-label--5orlGHyDHGAYciQ64oEgKa#) de un marketplace según las regiones de entrega y definir cuáles de ellos pueden cumplir con el pedido del cliente según su ubicación. Además, a través de ella también es posible filtrar los precios y la disponibilidad de artículos en stock a nivel regional.
 
-Cuando el cliente accede a las páginas de la tienda, su ubicación es registrada por la [Sesión VTEX](https://help.vtex.com/es/tutorial/vtex-session-visao-geral-do-sistema-de-sessoes--6C4Edou6bYqqEAOCAg2MQQ#). Estos datos se reenvían a Checkout, que a su vez genera una lista de sellers habilitados para esa región de entrega, llamada **regionId**.
+Cuando el cliente accede a las páginas de la tienda, su ubicación es registrada por la [Sesión VTEX](/es/tutorial/vtex-session-visao-geral-do-sistema-de-sessoes--6C4Edou6bYqqEAOCAg2MQQ#). Estos datos se reenvían a Checkout, que a su vez genera una lista de sellers habilitados para esa región de entrega, llamada **regionId**.
 
 Para verificar qué sellers se han considerado para una región en particular en su tienda, vaya al endpoint [Get sellers by region](https://developers.vtex.com/vtex-rest-api/reference/getsellersbyregion).
 
 ## Diferencias entre disponibilidad y precio
 
-Los artículos y precios que se muestran en las vitrinas de una tienda se basan en el registro del [catálogo](https://help.vtex.com/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3rA2tTpIoEXdv2nzC27zxR#) realizado por el administrador de la tienda. Durante el proceso de compra pueden darse situaciones en las que uno o varios artículos presenten diferencias en disponibilidad de entrega y precios (incluidas promociones) entre la vitrina y el carrito en Checkout.
+Los artículos y precios que se muestran en las vitrinas de una tienda se basan en el registro del [catálogo](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3rA2tTpIoEXdv2nzC27zxR#) realizado por el administrador de la tienda. Durante el proceso de compra pueden darse situaciones en las que uno o varios artículos presenten diferencias en disponibilidad de entrega y precios (incluidas promociones) entre la vitrina y el carrito en Checkout.
 
 Una divergencia de disponibilidad de entrega (artículo disponible en la vitrina, pero indicado como "Agotado" en el carrito), ocurre cuando:
 
@@ -40,7 +40,7 @@ Con el uso de **Region**, si el cliente inicia sesión en la tienda durante el p
 
 Para activar **Region** en tu tienda, debes realizar los siguientes pasos:
 
-1. [Configurar el precio y la disponibilidad de SKUs por Region](https://help.vtex.com/es/tutorial/configurar-el-precio-y-la-disponibilidad-de-skus-por-region--12ne58BmvYsYuGsimmugoc#)
+1. [Configurar el precio y la disponibilidad de SKUs por Region](/es/tutorial/configurar-el-precio-y-la-disponibilidad-de-skus-por-region--12ne58BmvYsYuGsimmugoc#)
 2. [Habilitar la funcionalidad Region](https://developers.vtex.com/docs/guides/enable-the-region-for-skus)
 
 > ℹ️ Actualmente, el **Region** está disponible para su uso en todas las tiendas VTEX en v2. Obtenga más información en <a href="https://developers.vtex.com/vtex-developer-docs/changelog/region-v2-release">Region v2<a/>.

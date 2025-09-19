@@ -50,7 +50,7 @@ Portanto, o **subadquirente** pode ser entendido como uma espécie de intermedia
 
 Exemplos de subadquirente: Paypal e PagSeguro.
 
-Para saber mais sobre as [vantagens e desvantagens de se incluir um subadquirente no seu fluxo](https://help.vtex.com/pt/tutorial/diferenca-entre-adquirentes-subadquirentes-e-gateways-no-brasil?locale=pt "Atores financeiros"), confira nosso artigo.   
+Para saber mais sobre as [vantagens e desvantagens de se incluir um subadquirente no seu fluxo](/pt/tutorial/diferenca-entre-adquirentes-subadquirentes-e-gateways-no-brasil?locale=pt "Atores financeiros"), confira nosso artigo.   
 
 ## Bandeira de Cartão
 Bandeiras são empresas responsáveis por definir as regras de negócio para compras realizadas com cartão de crédito, como a quantidade de parcelas em que você pode dividir o pagamento e o número de estabelecimentos em que ele é aceito, nacional e internacionalmente.
@@ -82,6 +82,6 @@ Exemplos de antifraudes:  ClearSale e a Konduto.
 ## Certificação PCI SSC
 O PCI Security Standards Council é um fórum global aberto para o contínuo desenvolvimento, aprimoramento, armazenamento, disseminação e implementação de padrões de segurança para a proteção de dados. 
 
-[A plataforma VTEX possui um gateway próprio com **certificação PCI**](https://help.vtex.com/pt/tutorial/o-que-e-o-pci-ssc--4jo3Vkox3amSO2w4qIWa0E "PCI SSC"), o que significa que os dados de todos os pagamentos realizados na sua loja estão protegidos de acordo com os mais altos padrões de segurança. 
+[A plataforma VTEX possui um gateway próprio com **certificação PCI**](/pt/tutorial/o-que-e-o-pci-ssc--4jo3Vkox3amSO2w4qIWa0E "PCI SSC"), o que significa que os dados de todos os pagamentos realizados na sua loja estão protegidos de acordo com os mais altos padrões de segurança. 
 
-Se quiser aprofundar os conceitos de gateway, adquirente, subadquirente, bandeira, banco emissor e antifraude, confira nosso [artigo sobre agentes financeiros no Brasil](https://help.vtex.com/pt/tutorial/diferenca-entre-adquirentes-subadquirentes-e-gateways-no-brasil?locale=pt "Agentes financeiros ").
+Se quiser aprofundar os conceitos de gateway, adquirente, subadquirente, bandeira, banco emissor e antifraude, confira nosso [artigo sobre agentes financeiros no Brasil](/pt/tutorial/diferenca-entre-adquirentes-subadquirentes-e-gateways-no-brasil?locale=pt "Agentes financeiros ").

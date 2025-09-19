@@ -34,7 +34,7 @@ To configure Pay4Fun, follow the steps below:
 3. Click on __PIX__.
 4. Activate the condition in the __Status__ field. 
 5. In __Process with affiliation__, select the __p4fpartnerbr-pay4fun-v0__ option.
-6. If you want, you can also [configure special payment conditions](https://help.vtex.com/en/tutorial/condiciones-especiales--tutorials_456?&utm_source=autocomplete#).
+6. If you want, you can also [configure special payment conditions](/en/tutorial/condiciones-especiales--tutorials_456?&utm_source=autocomplete#).
 7. Click `Save`.
 
 After following the indicated steps, Pay4Fun may take up to 10 minutes to appear at your store's checkout as a payment option.

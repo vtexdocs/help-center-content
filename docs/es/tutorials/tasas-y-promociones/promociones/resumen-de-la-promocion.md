@@ -30,7 +30,7 @@ El resumen de la promoción muestra:
 Después de revisar la promoción, haz clic en `Guardar` para activarla. Si deseas editar algún campo, haz clic en `Cancelar` y cambia la información deseada.
 
 ## Datos generales
-En esta sección puedes revisar la información que se ha configurado en la sección [¿Cuáles son los datos generales de la promoción?](https://help.vtex.com/es/tutorial/registro-promocion-regular--tutorials_327#1-cuales-son-los-datos-generales-de-la-promocion) del formulario de la promoción.
+En esta sección puedes revisar la información que se ha configurado en la sección [¿Cuáles son los datos generales de la promoción?](/es/tutorial/registro-promocion-regular--tutorials_327#1-cuales-son-los-datos-generales-de-la-promocion) del formulario de la promoción.
 
 - **Nombre:** el nombre de la promoción.
 - **Duración:** período de validez de la promoción.
@@ -39,22 +39,22 @@ En esta sección puedes revisar la información que se ha configurado en la secc
 - **Destacado:** franja con el nombre de la promoción, que se muestra en la vitrina y en la página de producto.
 
 ## Ítems
-Aquí se muestran los ítems que se han seleccionado en la sección [¿A qué ítems se aplicará esta promoción?](https://help.vtex.com/es/tutorial/registro-promocion-regular--tutorials_327#2-a-que-items-se-aplicara-esta-promocion) al configurar la promoción.
+Aquí se muestran los ítems que se han seleccionado en la sección [¿A qué ítems se aplicará esta promoción?](/es/tutorial/registro-promocion-regular--tutorials_327#2-a-que-items-se-aplicara-esta-promocion) al configurar la promoción.
 
 - **Ítems incluidos:** categorías, marcas, colecciones, productos o SKU a los que se aplicará el descuento de la promoción.
 - **Ítems excluidos:** categorías, marcas, colecciones, productos o SKU que serán excluidos de la promoción, lo que la hace válida para el resto del catálogo.
 
 ## Condiciones
-En esta sección se muestran las condiciones configuradas en el apartado [¿Qué condiciones para la promoción sea válida?](https://help.vtex.com/es/tutorial/registro-promocion-regular--tutorials_327#3-que-condiciones-para-la-promocion-sea-valida) El pedido del cliente debe cumplir las condiciones registradas en esta sección para ser válido en la promoción.
+En esta sección se muestran las condiciones configuradas en el apartado [¿Qué condiciones para la promoción sea válida?](/es/tutorial/registro-promocion-regular--tutorials_327#3-que-condiciones-para-la-promocion-sea-valida) El pedido del cliente debe cumplir las condiciones registradas en esta sección para ser válido en la promoción.
 
 ## Restricciones
-Esta sección presenta las [Restricciones y limitaciones de uso](https://help.vtex.com/es/tutorial/registro-promocion-regular--tutorials_327#4-restricciones-y-limitaciones-de-uso) configuradas en la promoción.
+Esta sección presenta las [Restricciones y limitaciones de uso](/es/tutorial/registro-promocion-regular--tutorials_327#4-restricciones-y-limitaciones-de-uso) configuradas en la promoción.
 
 ## Sellers
-Esta sección muestra los sellers que se incluirán o excluirán de la promoción, según se haya definido en la opción [Restringir esta promoción a los productos dos sellers](https://help.vtex.com/es/tutorial/registro-promocion-regular--tutorials_327#restringir-esta-promocion-a-productos-dos-sellers) durante la configuración de la promoción.
+Esta sección muestra los sellers que se incluirán o excluirán de la promoción, según se haya definido en la opción [Restringir esta promoción a los productos dos sellers](/es/tutorial/registro-promocion-regular--tutorials_327#restringir-esta-promocion-a-productos-dos-sellers) durante la configuración de la promoción.
 
 ## Política comercial
-Esta sección recoge las políticas comerciales válidas para la promoción, según se haya definido en el apartado [Política Comercial](https://help.vtex.com/es/tutorial/registro-promocion-regular--tutorials_327#politica-comercial) del formulario de la promoción.
+Esta sección recoge las políticas comerciales válidas para la promoción, según se haya definido en el apartado [Política Comercial](/es/tutorial/registro-promocion-regular--tutorials_327#politica-comercial) del formulario de la promoción.
 
 ## Tipos de alertas
 El resumen de la promoción puede mostrar tres tipos diferentes de alertas. Mira las siguientes descripciones para entenderlas:

@@ -29,13 +29,13 @@ Una suscripción para VTEX consiste en una lista de SKUs vinculada a cierta conf
 
 ## Cómo el cliente de su tienda genera un pedido con Suscripciones 
 
-Cuando termine la [configuración de la funcionalidad Suscripciones V2](https://help.vtex.com/es/tutorial/como-configurar-suscripciones-v2--1FA9dfE7vJqxBna9Nft5Sj), ya estará habilitada para que el cliente de su tienda genere un pedido con Suscripciones. Hay dos maneras en que su cliente puede crear una suscripción: 
+Cuando termine la [configuración de la funcionalidad Suscripciones V2](/es/tutorial/como-configurar-suscripciones-v2--1FA9dfE7vJqxBna9Nft5Sj), ya estará habilitada para que el cliente de su tienda genere un pedido con Suscripciones. Hay dos maneras en que su cliente puede crear una suscripción: 
 
 ### Añadir productos para suscripción durante el checkout
 
 Al añadir un *producto habilitado para Suscripción*, durante el checkout, se mostrará un selector desplegable para cada producto con las opciones de suscripción asociadas a ese SKU. Su cliente deberá seleccionar la opción «Suscripción» y seleccionar la frecuencia de la suscripción. Tenga en cuenta que este flujo puede ser personalizado en algunos casos, dependiendo de la necesidad del negocio. 
 
-Después de seleccionar los detalles de la suscripción, el cliente procederá con el flujo normal de compra. Deberá ingresar la dirección de entrega y utilizar uno de los [**métodos de pago habilitados para el Sistema de Suscripción**](https://help.vtex.com/es/tutorial/como-configurar-suscripciones-v2--1FA9dfE7vJqxBna9Nft5Sj). La suscripción se activará después de la aprobación del pago.
+Después de seleccionar los detalles de la suscripción, el cliente procederá con el flujo normal de compra. Deberá ingresar la dirección de entrega y utilizar uno de los [**métodos de pago habilitados para el Sistema de Suscripción**](/es/tutorial/como-configurar-suscripciones-v2--1FA9dfE7vJqxBna9Nft5Sj). La suscripción se activará después de la aprobación del pago.
 
 ### Crear una nueva suscripción en la página «Mi cuenta»
 
@@ -45,11 +45,11 @@ Para ello, solo hay que entrar a la página **Mi cuenta** en el sitio web de su 
 
 ## Cómo el cliente de su tienda visualiza las Suscripciones
 
-> ℹ️ En [Mi Cuenta](https://help.vtex.com/es/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh), los clientes solo pueden acceder a los pedidos de los últimos dos años.
+> ℹ️ En [Mi Cuenta](/es/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh), los clientes solo pueden acceder a los pedidos de los últimos dos años.
 
 Después de finalizar el pedido con Suscripción, su cliente visualiza en la página **Mi cuenta** la sección **Suscripciones**. En esta sección, el cliente también puede encontrar la lista de suscripciones realizadas con los detalles y el estado individual. Su cliente también recibirá por *email* una confirmación de la suscripción y del pedido generado.
 
-La comunicación con su cliente acerca de la suscripción se llevará a cabo por el módulo **Centro de mensajes**. Consulte nuestro artículo [Correos Electrónicos Transaccionales para Pedidos de Suscripción](https://help.vtex.com/es/tutorial/e-mails-transacionais-para-pedidos-de-assinatura--2NYHqHMRqZ43Cn6s84ZCB5). 
+La comunicación con su cliente acerca de la suscripción se llevará a cabo por el módulo **Centro de mensajes**. Consulte nuestro artículo [Correos Electrónicos Transaccionales para Pedidos de Suscripción](/es/tutorial/e-mails-transacionais-para-pedidos-de-assinatura--2NYHqHMRqZ43Cn6s84ZCB5). 
 
 ## Detalles de suscripción
 

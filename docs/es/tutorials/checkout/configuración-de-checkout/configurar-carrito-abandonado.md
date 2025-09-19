@@ -71,22 +71,22 @@ Una vez que se haya creado el nuevo template de email o se hayan utilizado los d
 
 ### Liberación del SPF
 
-La liberación del SPF es fundamental para evitar problemas de entregabilidad del e-mail, y debe ser realizada conforme al artículo [Configuraçión del SPF](https://help.vtex.com/es/tutorial/configuracao-de-spf--42t0lkl2VyC6Yewc4wA6wI#).
+La liberación del SPF es fundamental para evitar problemas de entregabilidad del e-mail, y debe ser realizada conforme al artículo [Configuraçión del SPF](/es/tutorial/configuracao-de-spf--42t0lkl2VyC6Yewc4wA6wI#).
 
 Como buena práctica para configurar DNS para un dominio genérico (no obligatorio), siga el siguiente ejemplo:
 
 ![Hostnames - SPF](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/checkout/configuraci%C3%B3n-de-checkout/configurar-carrito-abandonado_4.PNG)
 
-Para obtener más información sobre este asunto, consulte [Configurar el apuntamiento del DNS para VTEX](https://help.vtex.com/es/tutorial/configurando-o-apontamento-de-dns-para-a-vtex--tutorials_4280#).
+Para obtener más información sobre este asunto, consulte [Configurar el apuntamiento del DNS para VTEX](/es/tutorial/configurando-o-apontamento-de-dns-para-a-vtex--tutorials_4280#).
 
 ### Configurar trigger
 
-En esta etapa, es necesario configurar un [trigger en Master Data](https://help.vtex.com/es/tutorial/criando-trigger-no-master-data--tutorials_1270). El proceso consiste en rellenar algunos valores que determinarán la activación del trigger, algunos de los cuales son filtros:
+En esta etapa, es necesario configurar un [trigger en Master Data](/es/tutorial/criando-trigger-no-master-data--tutorials_1270). El proceso consiste en rellenar algunos valores que determinarán la activación del trigger, algunos de los cuales son filtros:
 
 - __Checkout:__ el trigger se activará si no se completa el checkout y es diferente de nulo, es decir, si el cliente no finaliza la compra.
 - Carrito:__ relacionado con los últimos productos que el cliente agregó al carrito. El trigger se activa si el valor es diferente de nulo.
 - __Último carrito:__ registra la fecha y hora de creación del carrito. El trigger se activa si el valor es diferente de nulo.
-- __¿Recibe newsletter?:__ garantiza el cumplimiento de los [derechos de titulares de datos](https://help.vtex.com/pt/tutorial/data-subject-rights--6imchxTx09icupKMbzHVIM), ya que solo los clientes suscritos al newsletter recibirán emails de carrito abandonado. La suscripción al newsletter se puede gestionar desde el checkout o en la sección [Mi cuenta](https://help.vtex.com/pt/tutorial/como-funciona-a-minha-conta--2BQ3GiqhqGJTXsWVuio3Xh#perfil) de la tienda. El trigger se activa si el valor es verdadero.
+- __¿Recibe newsletter?:__ garantiza el cumplimiento de los [derechos de titulares de datos](/pt/tutorial/data-subject-rights--6imchxTx09icupKMbzHVIM), ya que solo los clientes suscritos al newsletter recibirán emails de carrito abandonado. La suscripción al newsletter se puede gestionar desde el checkout o en la sección [Mi cuenta](/pt/tutorial/como-funciona-a-minha-conta--2BQ3GiqhqGJTXsWVuio3Xh#perfil) de la tienda. El trigger se activa si el valor es verdadero.
 
 Para que la activación del trigger sea posible, es necesario que los filtros estén rellenados según las instrucciones a continuación:
 

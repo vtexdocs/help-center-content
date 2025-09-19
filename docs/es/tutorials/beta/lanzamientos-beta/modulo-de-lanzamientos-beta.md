@@ -19,7 +19,7 @@ subcategoryId: 3vXj7HrnYK8V5riTOwUuYv
 
 La gestión de una operación de _ecommerce_ exige que el _retailer_ haga una serie de actualizaciones y cambios en su tienda que, muchas veces, suelen relacionarse entre sí; por ejemplo, una campaña publicitaria en la cual se deben configurar distintos elementos del _storefront_.
 
-Con el módulo **Lanzamientos**, el _retailer_ puede administrar grupos de cambios relacionados a fin de coordinar la planificación, la creación, la programación y la publicación de los cambios en la tienda. En la versión Beta, los cambios que se pueden agrupar deben estar relacionados con el [CMS](https://help.vtex.com/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2). Aún no se incluyeron otros módulos de la plataforma VTEX.
+Con el módulo **Lanzamientos**, el _retailer_ puede administrar grupos de cambios relacionados a fin de coordinar la planificación, la creación, la programación y la publicación de los cambios en la tienda. En la versión Beta, los cambios que se pueden agrupar deben estar relacionados con el [CMS](/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2). Aún no se incluyeron otros módulos de la plataforma VTEX.
 
 Los principales beneficios para el módulo son:
 
@@ -62,7 +62,7 @@ Para crear un lanzamiento, sigue las instrucciones paso a paso a continuación:
 6. Haz clic en `Crear lanzamiento`.
 7. Rellena el campo _Nombre_ con un nombre para el lanzamiento.
 
-  > ℹ️ En esta etapa, no es obligatorio rellenar los campos **Día de publicación** y **Hora**. Esto puede determinarse más adelante, tal como veremos en [Programar lanzamientos](https://help.vtex.com/es/tutorial/modulo-lancamentos-beta--n2tN0WX5I6MJMbrJrS0Kb#programar-lanzamientos).
+  > ℹ️ En esta etapa, no es obligatorio rellenar los campos **Día de publicación** y **Hora**. Esto puede determinarse más adelante, tal como veremos en [Programar lanzamientos](/es/tutorial/modulo-lancamentos-beta--n2tN0WX5I6MJMbrJrS0Kb#programar-lanzamientos).
 
 8. Haz clic en `Crear`.
 
@@ -119,7 +119,7 @@ Al crear un lanzamiento, se puede definir o no la fecha de publicación. Existen
 - **Desprogramar:** cancelar la fecha de publicación, lo cual hace que el lanzamiento pase al status `No programado`.
 - **Reprogramar:** definir una fecha nueva para un lanzamiento que ya tenía una fecha determinada.
 
-> ℹ️ Al programar o reprogramar la publicación de un lanzamiento es posible seleccionar la opción **Agregar fecha de finalización** para definir un plazo en el que se quitará la publicación del lanzamiento. La fecha de finalización no significa que se [eliminará el lanzamiento](https://help.vtex.com/es/tutorial/modulo-lancamentos-beta--n2tN0WX5I6MJMbrJrS0Kb#e#eliminar-lanzamientos), sino que se archivará y podrá publicarse nuevamente en cualquier momento.
+> ℹ️ Al programar o reprogramar la publicación de un lanzamiento es posible seleccionar la opción **Agregar fecha de finalización** para definir un plazo en el que se quitará la publicación del lanzamiento. La fecha de finalización no significa que se [eliminará el lanzamiento](/es/tutorial/modulo-lancamentos-beta--n2tN0WX5I6MJMbrJrS0Kb#e#eliminar-lanzamientos), sino que se archivará y podrá publicarse nuevamente en cualquier momento.
 
 ### Programar
 

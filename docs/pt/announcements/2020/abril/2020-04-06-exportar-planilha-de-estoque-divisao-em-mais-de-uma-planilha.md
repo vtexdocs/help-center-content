@@ -30,4 +30,4 @@ Agora, arquivos contendo muitos itens serão quebrados em mais de uma planilha e
 ## Isso vai afetar minha loja?
 Essa mudança só ocorrerá para lojas com estoques muito grandes. Para as demais lojas nada mudará, sua exportação de planilha de estoque ainda será feita em um só arquivo.
 
-Para saber mais sobre essa funcionalidade, confira nossa [documentação](https://help.vtex.com/pt/tutorial/importando-e-exportando-planilha-de-estoque--tutorials_2034).
+Para saber mais sobre essa funcionalidade, confira nossa [documentação](/pt/tutorial/importando-e-exportando-planilha-de-estoque--tutorials_2034).

@@ -15,11 +15,11 @@ locale: pt
 subcategoryId: 1HSqkejwuYcQSMC400uY84
 ---
 
-[Perfis de acesso](https://help.vtex.com/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#) agrupam [recursos do License Manager](https://help.vtex.com/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3#), sendo que cada recurso representa uma permissão na plataforma VTEX.
+[Perfis de acesso](/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#) agrupam [recursos do License Manager](/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3#), sendo que cada recurso representa uma permissão na plataforma VTEX.
 
 Neste documento estão listados os perfis de acesso que estão predefinidos para novas lojas VTEX e respectivos recursos. Para acessá-los diretamente, use a lista abaixo.
 
-> ℹ️ Para saber mais sobre cada recurso listado nos perfis, veja o artigo [Recursos do License Manager](https://help.vtex.com/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3#).
+> ℹ️ Para saber mais sobre cada recurso listado nos perfis, veja o artigo [Recursos do License Manager](/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3#).
 
 * [Admin - Start page only](#admin-start-page-only)
 * [Checkout Admin](#checkout-admin)
@@ -66,13 +66,13 @@ Tabela de recursos:
 
 ## Call center operator
 
-Este é um perfil dedicado a operadores de televendas, pois concede acesso às [funcionalidades de televendas](https://help.vtex.com/pt/tutorial/funcionalidades-de-televendas--UqhiccIRIK2KD0OqkzJaS) da VTEX e permite visualizar pedidos.
+Este é um perfil dedicado a operadores de televendas, pois concede acesso às [funcionalidades de televendas](/pt/tutorial/funcionalidades-de-televendas--UqhiccIRIK2KD0OqkzJaS) da VTEX e permite visualizar pedidos.
 
 O recurso **Assisted Sales** causa o redirecionamento automático do usuário para a página de televendas da loja, o que deixará o usuário que fizer login numa conta com esse perfil sem acesso a recursos importantes do menu administrativo.
 
 Portanto, recomendamos a utilização de duas contas separadas (com emails distintos) para usuários de televendas: uma conta para o perfil __Call center operator__ (com os recursos *Assisted Sales* e *View order*) e outra conta para realizar operações no Admin, se necessário.
 
-> ⚠️ Ao criar um [perfil de acesso](https://help.vtex.com/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#), evite incluir [recursos](https://help.vtex.com/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3#) de televendas junto com outros recursos. Do contrário, o perfil pode não funcionar como esperado.
+> ⚠️ Ao criar um [perfil de acesso](/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#), evite incluir [recursos](/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3#) de televendas junto com outros recursos. Do contrário, o perfil pode não funcionar como esperado.
 
 Tabela de recursos:
 

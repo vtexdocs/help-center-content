@@ -43,7 +43,7 @@ Para configurar Lyra, siga os passos abaixo:
 3. Clique sobre a opção __Lyra__.
 4. Na tela de configuração, ative a condição clicando em __Status__.
 5. Se desejar utilizar um sistema antifraude, selecione a opção __Usar solução antifraude__.
-6. Caso necessário, você também pode [configurar condições especiais de pagamento](https://help.vtex.com/pt/tutorial/condiciones-especiales--tutorials_456).
+6. Caso necessário, você também pode [configurar condições especiais de pagamento](/pt/tutorial/condiciones-especiales--tutorials_456).
 7. Clique em `Salvar`.
 
 Depois de seguir os passos indicados, Lyra pode demorar até 10 minutos para aparecer no checkout da sua loja como uma opção de pagamento. 

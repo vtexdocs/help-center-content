@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 2t00bBkcAwIkgSCGKsMOwY
 ---
 
-Para evolucionar las modificaciones de pedidos en la plataforma VTEX, estamos lanzando [Modificar pedido](https://help.vtex.com/es/tutorial/como-funciona-a-alterar-pedido-beta--56TO0bOFXsfmpc7YZ3wIUZ), una solución mucho más completa, versátil y que proporciona una [nueva experiencia en el Admin VTEX](https://help.vtex.com/es/tutorial/como-alterar-pedidos-beta--7btlG91rb6sHpW1dkd2kBw).
+Para evolucionar las modificaciones de pedidos en la plataforma VTEX, estamos lanzando [Modificar pedido](/es/tutorial/como-funciona-a-alterar-pedido-beta--56TO0bOFXsfmpc7YZ3wIUZ), una solución mucho más completa, versátil y que proporciona una [nueva experiencia en el Admin VTEX](/es/tutorial/como-alterar-pedidos-beta--7btlG91rb6sHpW1dkd2kBw).
 
 Después de las interacciones entre nuestro equipo de ingenieros y los clientes y partners, hemos creado este contenido que incluye buenas prácticas de implementación y dudas frecuentes. Nuestro objetivo es que los próximos clientes y partners que comiencen a utilizar **Modificar pedido** tengan este material de apoyo a su disposición.
 
@@ -32,21 +32,21 @@ Las siguientes secciones presentan los principales casos de uso de **Modificar p
 
 ### Comunicación con el cliente por email transaccional
 
-**Modificar pedido** utiliza nuevas plantillas para los [emails transaccionales](https://help.vtex.com/es/tutorial/templates-de-emails-transacionais--3g2S2kqBOoSGcCaqMYK2my) (Message Center) que se ajustan a las funcionalidades innovadoras de la solución.
+**Modificar pedido** utiliza nuevas plantillas para los [emails transaccionales](/es/tutorial/templates-de-emails-transacionais--3g2S2kqBOoSGcCaqMYK2my) (Message Center) que se ajustan a las funcionalidades innovadoras de la solución.
 
-Para personalizar una plantilla de email en el Admin VTEX, copia y pega el siguiente link en tu navegador sustituyendo `{nombreDeCuenta}` por el [nombre de cuenta](https://help.vtex.com/es/tutorial/o-que-e-account-name--i0mIGLcg3QyEy8OCicEoC) de tu tienda, y luego pulsa `Enter`:
+Para personalizar una plantilla de email en el Admin VTEX, copia y pega el siguiente link en tu navegador sustituyendo `{nombreDeCuenta}` por el [nombre de cuenta](/es/tutorial/o-que-e-account-name--i0mIGLcg3QyEy8OCicEoC) de tu tienda, y luego pulsa `Enter`:
 
 `https://{nombreDeCuenta}.myvtex.com/admin/message-center/#/templates/vtexcommerce-order-changed-v2`
 
 ### Gestión de la modificación de pedidos en el Admin VTEX
 
-Las tiendas que utilizan la versión actual de la funcionalidad de modificación de pedidos tendrán acceso inmediato a las interfaces actualizadas de **Modificar pedido** en el Admin VTEX una vez que el equipo de VTEX instale la nueva solución. Esto incluye una nueva gestión y comunicación de [Mi cuenta](https://help.vtex.com/es/tutorial/como-funciona-a-minha-conta--2BQ3GiqhqGJTXsWVuio3Xh#pedidos) y de [plantillas de emails transaccionales](https://help.vtex.com/es/tutorial/templates-de-emails-transacionais--3g2S2kqBOoSGcCaqMYK2my).
+Las tiendas que utilizan la versión actual de la funcionalidad de modificación de pedidos tendrán acceso inmediato a las interfaces actualizadas de **Modificar pedido** en el Admin VTEX una vez que el equipo de VTEX instale la nueva solución. Esto incluye una nueva gestión y comunicación de [Mi cuenta](/es/tutorial/como-funciona-a-minha-conta--2BQ3GiqhqGJTXsWVuio3Xh#pedidos) y de [plantillas de emails transaccionales](/es/tutorial/templates-de-emails-transacionais--3g2S2kqBOoSGcCaqMYK2my).
 
 ### Gestión de la modificación de pedidos vía API
 
 Las tiendas que utilizan nuestras API deben asegurarse de que la implementación en la integración siga la nueva arquitectura de la funcionalidad.
 
-En **Modificar pedido**, el endpoint [Create order modifications](https://developers.vtex.com/docs/api-reference/orders-api#patch-/api/order-system/orders/-changeOrderId-/changes) funciona de forma asíncrona y el [usuario](https://help.vtex.com/es/tutorial/gerenciando-usuarios--tutorials_512) o integración que realiza el request recibe un `requestId` de la plataforma, que se trata de un identificador único para dar seguimiento a la operación de modificación del pedido. Este identificador luego se utilizará en determinados endpoints. Todos los endpoints de **Modificar pedido** son:
+En **Modificar pedido**, el endpoint [Create order modifications](https://developers.vtex.com/docs/api-reference/orders-api#patch-/api/order-system/orders/-changeOrderId-/changes) funciona de forma asíncrona y el [usuario](/es/tutorial/gerenciando-usuarios--tutorials_512) o integración que realiza el request recibe un `requestId` de la plataforma, que se trata de un identificador único para dar seguimiento a la operación de modificación del pedido. Este identificador luego se utilizará en determinados endpoints. Todos los endpoints de **Modificar pedido** son:
 
 * [Create order modifications](https://developers.vtex.com/docs/api-reference/orders-api#patch-/api/order-system/orders/-changeOrderId-/changes)
 * [Preview order modifications](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/order-system/orders/-changeOrderId-/changes/preview)
@@ -303,5 +303,5 @@ La recomendación general es investigar el origen del error y comprobar el cuerp
 
 | **Help Center** | **Developer Portal** |
 | :--- | :--- |
-| Modificar pedidos en el Admin VTEX:<ul><li>[Cómo funciona Modificar pedido](https://help.vtex.com/es/tutorial/como-funciona-a-alterar-pedido-beta--56TO0bOFXsfmpc7YZ3wIUZ)</li><li>[Cómo modificar pedidos](https://help.vtex.com/es/tutorial/como-alterar-pedidos-beta--7btlG91rb6sHpW1dkd2kBw)</li></ul> | Modificar pedidos vía API:<ul><li>[Create order modifications](https://developers.vtex.com/docs/api-reference/orders-api#patch-/api/order-system/orders/-changeOrderId-/changes)</li><li>[Preview order modifications](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/order-system/orders/-changeOrderId-/changes/preview)</li><li>[Get order modifications details](https://developers.vtex.com/docs/api-reference/orders-api#get-/api/order-system/orders/-changeOrderId-/changes/-changeRequestId-)</li><li>[Get order modifications history](https://developers.vtex.com/docs/api-reference/orders-api#get-/api/order-system/orders/-changeOrderId-/changes)</li><li>[Retry modifications change](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/order-system/orders/-changeOrderId-/changes/-changeRequestId-/retry)</li><li>[Cancel modifications change](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/order-system/orders/-changeOrderId-/changes/-changeRequestId-/cancel)</li></ul> |
+| Modificar pedidos en el Admin VTEX:<ul><li>[Cómo funciona Modificar pedido](/es/tutorial/como-funciona-a-alterar-pedido-beta--56TO0bOFXsfmpc7YZ3wIUZ)</li><li>[Cómo modificar pedidos](/es/tutorial/como-alterar-pedidos-beta--7btlG91rb6sHpW1dkd2kBw)</li></ul> | Modificar pedidos vía API:<ul><li>[Create order modifications](https://developers.vtex.com/docs/api-reference/orders-api#patch-/api/order-system/orders/-changeOrderId-/changes)</li><li>[Preview order modifications](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/order-system/orders/-changeOrderId-/changes/preview)</li><li>[Get order modifications details](https://developers.vtex.com/docs/api-reference/orders-api#get-/api/order-system/orders/-changeOrderId-/changes/-changeRequestId-)</li><li>[Get order modifications history](https://developers.vtex.com/docs/api-reference/orders-api#get-/api/order-system/orders/-changeOrderId-/changes)</li><li>[Retry modifications change](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/order-system/orders/-changeOrderId-/changes/-changeRequestId-/retry)</li><li>[Cancel modifications change](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/order-system/orders/-changeOrderId-/changes/-changeRequestId-/cancel)</li></ul> |
 

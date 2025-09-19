@@ -15,14 +15,14 @@ trackSlugEN: vtex-live-shopping-primeros-pasos
 order: 7
 ---
 
-En el Admin VTEX, al acceder a **Apps > Live Shopping** y hacer clic el ícono de flecha de un [evento creado](https://help.vtex.com/es/tracks/vtex-live-shopping-primeros-pasos--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv) se abre la página de **Información del evento**, que te permite configurarlo mediante las siguientes secciones:
+En el Admin VTEX, al acceder a **Apps > Live Shopping** y hacer clic el ícono de flecha de un [evento creado](/es/tracks/vtex-live-shopping-primeros-pasos--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv) se abre la página de **Información del evento**, que te permite configurarlo mediante las siguientes secciones:
 
 - [Tipo de layout - Configurar el estilo](#tipo-de-layout-configurar-el-estilo)
 - [Chat - Configurar el nombre del administrador](#chat-configurar-el-nombre-del-administrador)
 - [Configuración - Configurar funcionalidades](#configuracion-configurar-funcionalidades)
 - [Configuración CMS - Configurar la presentación del contenido](#configuracion-cms-configurar-la-presentacion-del-contenido)
 
-> ⚠️ Este artículo describe los ajustes principales para un evento. No explica todas las secciones de la página **Información del evento**. Para más información, consulta [Live Shopping: Eventos](https://help.vtex.com/es/tutorial/live-shopping-events--6aGLiqoKG1UoS30f3FFWch).
+> ⚠️ Este artículo describe los ajustes principales para un evento. No explica todas las secciones de la página **Información del evento**. Para más información, consulta [Live Shopping: Eventos](/es/tutorial/live-shopping-events--6aGLiqoKG1UoS30f3FFWch).
 
 ## Tipo de layout - Configurar el estilo
 
@@ -57,7 +57,7 @@ De forma predeterminada, los eventos tienen un estilo visual neutral apto para t
 * Título del chat
 * Botón de enviar mensaje
 
-> ℹ️ Estas personalizaciones se realizan haciendo clic en el botón **Personalizar apariencia** y ajustando las opciones de la página Look and Feel a tus preferencias. Para instrucciones detalladas, consulta [Live Shopping: Eventos](https://help.vtex.com/es/tutorial/live-shopping-events--6aGLiqoKG1UoS30f3FFWch).
+> ℹ️ Estas personalizaciones se realizan haciendo clic en el botón **Personalizar apariencia** y ajustando las opciones de la página Look and Feel a tus preferencias. Para instrucciones detalladas, consulta [Live Shopping: Eventos](/es/tutorial/live-shopping-events--6aGLiqoKG1UoS30f3FFWch).
 
 ## Chat - Configurar el nombre del administrador
 
@@ -67,7 +67,7 @@ La sección **Chat** es donde gestionas el chat en vivo durante tu evento. Si de
 2. En la ventana **Información de la tienda**, ingresa el nombre del administrador en el campo.
 3. Haz clic en `Confirmar`.
 
-> ℹ️ Para aprender a fijar mensajes, bloquear usuarios, eliminar mensajes y realizar otras acciones en el chat del evento, consulta [Live Shopping: Eventos](https://help.vtex.com/es/tutorial/live-shopping-events--6aGLiqoKG1UoS30f3FFWch). 
+> ℹ️ Para aprender a fijar mensajes, bloquear usuarios, eliminar mensajes y realizar otras acciones en el chat del evento, consulta [Live Shopping: Eventos](/es/tutorial/live-shopping-events--6aGLiqoKG1UoS30f3FFWch). 
 
 ## Configuración - Configurar funcionalidades
 

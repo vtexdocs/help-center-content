@@ -51,7 +51,7 @@ Sin embargo, el cálculo anterior es sólo ilustrativo. En el transportista, el 
 
 O sea, si el valor ofrecido por su compañía es `6.000`, es necesario realizar el cálculo donde este valor dividirá 1.000: Ejemplo: `1000g/6000 cm³ = 0,167`.
 
-Ese es el valor que usted debe llenar en el campo Factor de peso volumétrico en su [política de envío](https://help.vtex.com/es/tutorial/politica-de-envio--tutorials_140).
+Ese es el valor que usted debe llenar en el campo Factor de peso volumétrico en su [política de envío](/es/tutorial/politica-de-envio--tutorials_140).
 
 ![cubic_weight_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/estrat%C3%A9gia-de-env%C3%ADo/como-se-calcula-el-peso-cubico_2.png)
 

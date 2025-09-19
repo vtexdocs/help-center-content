@@ -63,4 +63,4 @@ Seus links irão para a lista de links. 
 
 ![Links 9](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/links-suiteshare_9.png)
 
-[Quer saber onde utilizar os links criados? Criamos um artigo que vai te explicar tudo.](https://help.vtex.com/pt/faq/onde-utilizar-o-link-de-whatsapp--6VbyH573udBQJ3j7kfsWeJ)
+[Quer saber onde utilizar os links criados? Criamos um artigo que vai te explicar tudo.](/pt/faq/onde-utilizar-o-link-de-whatsapp--6VbyH573udBQJ3j7kfsWeJ)

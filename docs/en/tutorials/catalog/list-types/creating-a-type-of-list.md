@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 6aeeWirCBUwwCmeIWOgIWs
 ---
 
-> ⚠️ The [List](https://help.vtex.com/en/tutorial/what-is-a-list--4b4NsVFwA8kwqS8S82w4Go) feature is exclusive to stores that use Legacy CMS Portal.
+> ⚠️ The [List](/en/tutorial/what-is-a-list--4b4NsVFwA8kwqS8S82w4Go) feature is exclusive to stores that use Legacy CMS Portal.
 
 Creating a type of list is configuring the lists to appear on the site. For example: Lista de Casamento and Lista de Aniversário. Each of these is a different type of list, with specific configurations. The purpose of this article is to show you how to create a type of list.
 

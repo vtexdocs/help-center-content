@@ -23,7 +23,7 @@ No VTEX Assisted Sales (SuiteShare) você conseguirá unir a tecnologia dos QRCO
 
 Se na sua empresa, você utiliza materiais impressos, esses códigos são a melhor opção para levar os clientes do offline para o online.
 
-> ⚠️ Antes de começar, você já deverá ter criado um link para cada número de WhatsApp. Se ainda não fez isso, é só [acessar esse link](https://help.vtex.com/pt/tutorial/links--7h7YXPFovF2k5z6ZSZs5WB).
+> ⚠️ Antes de começar, você já deverá ter criado um link para cada número de WhatsApp. Se ainda não fez isso, é só [acessar esse link](/pt/tutorial/links--7h7YXPFovF2k5z6ZSZs5WB).
 
 No painel do VTEX Assisted Sales (SuiteShare), acesse a opção _**Atrair > Links**_.
 

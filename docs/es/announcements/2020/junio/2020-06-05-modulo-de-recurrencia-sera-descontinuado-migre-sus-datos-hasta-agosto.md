@@ -27,7 +27,7 @@ A continuación, vea los pasos que debe realizar para que pueda migrar sus datos
 
 Hoy, tenemos el módulo de Suscripciones como una solución avanzada para los pedidos recurrentes. Tiene más funcionalidades que el módulo de Recurrencia, y está en constante evolución. Queremos incentivar a las tiendas para que utilicen nuestra solución completa para las Suscripciones, aprovechando todos los beneficios de las funcionalidades para hacer crecer su negocio.  
 
-Para saber más sobre cómo funciona el módulo de Suscripciones, haga clic [aquí](https://help.vtex.com/es/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453).
+Para saber más sobre cómo funciona el módulo de Suscripciones, haga clic [aquí](/es/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453).
 
 ## ¿Por qué migrar al módulo de Suscripciones?
 
@@ -36,7 +36,7 @@ Para saber más sobre cómo funciona el módulo de Suscripciones, haga clic [aqu
 -**Visibilidad**: el módulo de Suscripciones cuenta con un nuevo y remodelado panel administrativo, donde se puede hacer un seguimiento del estado de sus suscripciones, y actuar con la mayor rapidez posible si el suscriptor ha modificado algún dato personal (como su dirección y tarjeta) que necesite una intervención para no perder la venta.
 - **Inteligencia con datos**: proporcionamos una serie de informes, para que extraiga los datos de las suscripciones realizadas y las futuras, teniendo una visión completa de cómo las suscripciones contribuyen a su negocio.
 - **Más personalizado**: mejoramos la pestaña de configuración, para personalizar las suscripciones de su tienda de acuerdo con la realidad de su negocio.
-Para obtener más información sobre cómo el módulo gestiona las suscripciones de su tienda, haga clic [aquí](https://help.vtex.com/es/tutorial/como-gerenciar-assinaturas--6Jk50FPbv6iuz1OsFypv8x).
+Para obtener más información sobre cómo el módulo gestiona las suscripciones de su tienda, haga clic [aquí](/es/tutorial/como-gerenciar-assinaturas--6Jk50FPbv6iuz1OsFypv8x).
 
 ## ¿Cuál es el impacto en mi tienda?
 
@@ -46,5 +46,5 @@ Por lo tanto, la migración del módulo de Recurrencia al módulo de Suscripcion
 
 ## ¿Qué debo hacer?
 
-Para que no se pierda ningún dato, debe **migrar la información del módulo de Recurrencia al de Suscripciones antes del 03 de agosto**. Consulte el procedimiento de la migración completa [aquí](https://help.vtex.com/es/tutorial/como-migrar-da-recorrencia-v1-para-assinaturas-v2--3nJ4pbsRHEyKmvoN0foYRi). VTEX ofrecerá asistencia para que la migración se realice de la mejor manera posible. 
+Para que no se pierda ningún dato, debe **migrar la información del módulo de Recurrencia al de Suscripciones antes del 03 de agosto**. Consulte el procedimiento de la migración completa [aquí](/es/tutorial/como-migrar-da-recorrencia-v1-para-assinaturas-v2--3nJ4pbsRHEyKmvoN0foYRi). VTEX ofrecerá asistencia para que la migración se realice de la mejor manera posible. 
 

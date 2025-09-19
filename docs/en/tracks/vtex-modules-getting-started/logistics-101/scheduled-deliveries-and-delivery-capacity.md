@@ -17,13 +17,13 @@ order: 5
 
 A VTEX store can offer scheduled deliveries to its customers. With this option, customers can choose a specific day to receive their orders at a given address. 
 
-To offer [scheduled deliveries](https://help.vtex.com/en/tutorial/scheduled-delivery--22g3HAVCGLFiU7xugShOBi), you must add delivery windows to the [shipping policy](https://help.vtex.com/en/tutorial/shipping-policy--tutorials_140) of the [carrier](https://help.vtex.com/en/tutorial/carries-on-vtex--7u9duMD5UQa2QQwukAWMcE) in question. Once this is done, the periods and days available for this type of delivery will be displayed at your store's checkout. 
+To offer [scheduled deliveries](/en/tutorial/scheduled-delivery--22g3HAVCGLFiU7xugShOBi), you must add delivery windows to the [shipping policy](/en/tutorial/shipping-policy--tutorials_140) of the [carrier](/en/tutorial/carries-on-vtex--7u9duMD5UQa2QQwukAWMcE) in question. Once this is done, the periods and days available for this type of delivery will be displayed at your store's checkout. 
 
-> ⚠️ For [Scheduled delivery](https://help.vtex.com/en/tutorial/scheduled-delivery--22g3HAVCGLFiU7xugShOBi) and [Delivery capacity](https://help.vtex.com/en/tutorial/managing-delivery-capacity--2y217FQZCjD0I1n62yxVcz) to perform correctly, you must follow the rules below:<ul><li>The result from {[account name](https://help.vtex.com/en/tutorial/what-is-an-account-name--i0mIGLcg3QyEy8OCicEoC)} + {shipping policy ID} cannot exceed 60 characters.</li><li>Do not use spaces in [shipping policy IDs](https://help.vtex.com/en/tutorial/criar-uma-politica-de-envio--66rJO4LKBdyMJOH6Z3dsaT).</li></ul>
+> ⚠️ For [Scheduled delivery](/en/tutorial/scheduled-delivery--22g3HAVCGLFiU7xugShOBi) and [Delivery capacity](/en/tutorial/managing-delivery-capacity--2y217FQZCjD0I1n62yxVcz) to perform correctly, you must follow the rules below:<ul><li>The result from {[account name](/en/tutorial/what-is-an-account-name--i0mIGLcg3QyEy8OCicEoC)} + {shipping policy ID} cannot exceed 60 characters.</li><li>Do not use spaces in [shipping policy IDs](/en/tutorial/criar-uma-politica-de-envio--66rJO4LKBdyMJOH6Z3dsaT).</li></ul>
 
-Please note that the availability of scheduled deliveries depends on the services offered by the contracted carrier to your store, as defined in the shipping policy. You can track the availability of delivery windows and the number of items/orders that can still be placed in each delivery window on the [Delivery capacity](https://help.vtex.com/en/tutorial/managing-delivery-capacity--2y217FQZCjD0I1n62yxVcz) page.
+Please note that the availability of scheduled deliveries depends on the services offered by the contracted carrier to your store, as defined in the shipping policy. You can track the availability of delivery windows and the number of items/orders that can still be placed in each delivery window on the [Delivery capacity](/en/tutorial/managing-delivery-capacity--2y217FQZCjD0I1n62yxVcz) page.
 
 ### Configuration
 
-You can configure scheduled deliveries when creating or updating a [shipping policy](https://help.vtex.com/en/tutorial/shipping-policy--tutorials_140). 
+You can configure scheduled deliveries when creating or updating a [shipping policy](/en/tutorial/shipping-policy--tutorials_140). 
 

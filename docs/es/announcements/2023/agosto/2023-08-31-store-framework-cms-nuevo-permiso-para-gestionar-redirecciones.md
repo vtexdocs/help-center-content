@@ -19,7 +19,7 @@ announcementSynopsisES: 'Para realizar redirecciones en Store Framework CMS es n
 
 ## ¿Qué cambió?
 
-Para que los usuarios del Admin puedan crear, editar y eliminar redirecciones en el CMS, ahora es necesario que tengan un rol de acceso con el [recurso del License Manager](https://help.vtex.com/es/tutorial/recursos-del-license-manager--3q6ztrC8YynQf6rdc6euk3) **CMS Settings**.
+Para que los usuarios del Admin puedan crear, editar y eliminar redirecciones en el CMS, ahora es necesario que tengan un rol de acceso con el [recurso del License Manager](/es/tutorial/recursos-del-license-manager--3q6ztrC8YynQf6rdc6euk3) **CMS Settings**.
 
 ## ¿Por qué realizamos este cambio?
 
@@ -27,8 +27,8 @@ Agregamos este requisito de permiso por motivos de seguridad. Así, solo los usu
 
 ## ¿Qué se necesita hacer?
 
-Para que un usuario del Admin pueda gestionar redirecciones en Store Framework CMS, se le debe asignar un rol de acceso específico que incluya el recurso **CMS Settings**. Consulta las instrucciones para editar los roles de acceso de un usuario en el artículo [Gestionar usuarios](https://help.vtex.com/es/tutorial/gestionar-usuarios--tutorials_512#editando-usuarios).
+Para que un usuario del Admin pueda gestionar redirecciones en Store Framework CMS, se le debe asignar un rol de acceso específico que incluya el recurso **CMS Settings**. Consulta las instrucciones para editar los roles de acceso de un usuario en el artículo [Gestionar usuarios](/es/tutorial/gestionar-usuarios--tutorials_512#editando-usuarios).
 
-Si deseas utilizar un rol de acceso personalizado, puedes crear un nuevo rol de acceso o editar uno existente para incluir el recurso **CMS Settings**. Consulta las instrucciones para crear y editar roles de acceso en el artículo [Roles](https://help.vtex.com/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#creando-un-rol).
+Si deseas utilizar un rol de acceso personalizado, puedes crear un nuevo rol de acceso o editar uno existente para incluir el recurso **CMS Settings**. Consulta las instrucciones para crear y editar roles de acceso en el artículo [Roles](/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#creando-un-rol).
 
-Para más información sobre redirecciones, consulta el artículo [Gestión de redirecciones de URL](https://help.vtex.com/es/tutorial/gestion-de-redirecciones-de-url--3UJuFrU8imSVWg134mkvJV).
+Para más información sobre redirecciones, consulta el artículo [Gestión de redirecciones de URL](/es/tutorial/gestion-de-redirecciones-de-url--3UJuFrU8imSVWg134mkvJV).

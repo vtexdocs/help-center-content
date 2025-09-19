@@ -36,7 +36,7 @@ Para identificar o motivo do cancelamento:
 
 No Admin VTEX, em **Pedidos > Transações**, é onde ficam registradas todas as interações do pagamento, tanto com a operadora/gateway de pagamento quanto com o anti fraude. Esses agentes são responsáveis pela maioria dos cancelamentos realizados.
 
-Quando ocorre um cancelamento, o agente responsável registra nos eventos da transação do pedido uma mensagem identificando o motivo da ação. Para saber como consultar esses eventos, veja [Visualizar detalhes da transação em Pedidos](https://help.vtex.com/pt/tutorial/como-visualizar-detalhes-do-pedido/).
+Quando ocorre um cancelamento, o agente responsável registra nos eventos da transação do pedido uma mensagem identificando o motivo da ação. Para saber como consultar esses eventos, veja [Visualizar detalhes da transação em Pedidos](/pt/tutorial/como-visualizar-detalhes-do-pedido/).
 
 ### Verifique as interações do pedido
 
@@ -46,7 +46,7 @@ Para ver as interações de um pedido, siga os passos abaixo:
 
 1. No Admin VTEX, acesse **Pedidos > Todos os pedidos**, ou digite **Todos os pedidos** na barra de busca no topo da página.
 2. Busque pelo pedido utilizando a barra de busca e filtros disponíveis em **Todos os pedidos**. 
-3. Clique no pedido desejado, acessando a [Página de detalhes do pedido](https://help.vtex.com/pt/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl).
+3. Clique no pedido desejado, acessando a [Página de detalhes do pedido](/pt/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl).
 4. Na seção **Histórico do pedido**, clique em `Ver interações`.
 
 #### Cancelamento pelo marketplace
@@ -61,6 +61,6 @@ No módulo **Pedidos** do Admin VTEX, os pedidos podem ser cancelados manualment
 
 Além disso, o cliente pode solicitar o cancelamento do pedido para a loja enquanto o mesmo estiver no status `Carência para Cancelamento`. Neste caso, primeiro o pedido fica com status `Cancelamento Solicitado` e, após aprovação, o status passa para `Cancelado`.
 
-Todas as alterações no pedido podem ser visualizadas na [Página de detalhes do pedido](https://help.vtex.com/pt/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl).
+Todas as alterações no pedido podem ser visualizadas na [Página de detalhes do pedido](/pt/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl).
 
 > ⚠️  Para pedidos com origem em um marketplace, mas que foram cancelados pela loja, a integração não notifica automaticamente o marketplace sobre o cancelamento. Nesses casos, **é necessário cancelar manualmente o pedido diretamente na interface do marketplace**.

@@ -18,19 +18,19 @@ At VTEX, authentications of [APIs](https://developers.vtex.com/vtex-developer-do
 
 ## AppKey and AppToken association
 
-Configuring a [role](https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) having different access levels on the platform is possible when accessing __Roles__, within the [Account settings]( https://help.vtex.com/en/tutorial/visao-geral-configuracoes-da-conta--6USYxLuzNt4uAkvjdPF7I8) menu.
+Configuring a [role](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) having different access levels on the platform is possible when accessing __Roles__, within the [Account settings]( https://help.vtex.com/en/tutorial/visao-geral-configuracoes-da-conta--6USYxLuzNt4uAkvjdPF7I8) menu.
 
 When created, no pair of appKey and appToken is linked to a role. It's necessary to __link both keys to a desired role__.
 
 One of the reasons for integration errors can be a lack of association of the created keys with the role. Another possible error is the link of the appKey and appToken to a profile that, although being registered, does not have enough access to perform that specific task on the platform.
 
-> ℹ️ Only the [Sponsor user](https://help.vtex.com/tutorial/what-is-the-master-user--3oPr7YuIkEYqUGmEqIMSEy) has the necessary permission to edit the keys, meaning to create the appKey and appToken used in integrations with a store.
+> ℹ️ Only the [Sponsor user](/tutorial/what-is-the-master-user--3oPr7YuIkEYqUGmEqIMSEy) has the necessary permission to edit the keys, meaning to create the appKey and appToken used in integrations with a store.
 
 ## Mistyping
 
 Both keys should be filled out in their respective fields, without spacing and by respecting the __case sensitivity__. One small error while typing can impede the well-functioning of an integration.
 
-Check for possible errors by accessing __Account Management__ and __[Users](https://help.vtex.com/en/tutorial/managing-users--tutorials_512)__.
+Check for possible errors by accessing __Account Management__ and __[Users](/en/tutorial/managing-users--tutorials_512)__.
 
 > ℹ️ The appToken cannot be recovered, once it has been created and displayed to the user.
 

@@ -21,7 +21,7 @@ El envío de esta información se realiza cargando la plantilla de mapeo, que co
 
 > ℹ️ Usted debe realizar el mapeo de categoría para que Wish pueda diferenciar sus SKUs correctamente. Ejemplo: imagine que hay dos SKUs de un mismo producto con diferentes colores y tamaños iguales en VTEX, si no se realiza el mapeo de categoría, Wish reconocerá ambos SKUs como uno solo.
 
-> ⚠️ Los productos sin un color o tamaño mapeado no se enviarán a Wish. Si alguna categoría no tiene estos campos en VTEX, será necesario [crear un campo de SKU](https://help.vtex.com/es/tutorial/criando-campo-de-sku--tutorials_119) en el Catálogo y complete los valores apropiados antes de realizar la asignación de color y tamaño.
+> ⚠️ Los productos sin un color o tamaño mapeado no se enviarán a Wish. Si alguna categoría no tiene estos campos en VTEX, será necesario [crear un campo de SKU](/es/tutorial/criando-campo-de-sku--tutorials_119) en el Catálogo y complete los valores apropiados antes de realizar la asignación de color y tamaño.
 
   - [Descargue aquí](https://drive.google.com/uc?export=download&id=1yJCgahkDhc4Gbvtxpe9kID1CwWsijdOf) la Plantilla de Mapeo de Wish en el  formato .xlsx.
 
@@ -33,7 +33,7 @@ Siga el procedimiento, rellenando los campos de la plantilla de mapeo de la sigu
 
 Dada esta información, continúe completando la plantilla siguiendo las siguientes orientaciones:
 
-  2. **VTEXField**: es el nombre del [campo de SKU](https://help.vtex.com/pt/tutorial/criando-campo-de-sku) utilizado en su tienda en  VTEX.
+  2. **VTEXField**: es el nombre del [campo de SKU](/pt/tutorial/criando-campo-de-sku) utilizado en su tienda en  VTEX.
 _Ej.: campos como "Tamaño", "Color"._
 
   3. **WishField**: es el nombre de la especificación en Wish, que corresponde al  campo de SKU que usted utilizó en el campo VTEXField.

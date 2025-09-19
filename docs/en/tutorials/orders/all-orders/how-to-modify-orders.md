@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 2t00bBkcAwIkgSCGKsMOwY
 ---
 
-The [Order modifications](https://help.vtex.com/en/tutorial/como-funciona-a-alterar-pedido-beta--56TO0bOFXsfmpc7YZ3wIUZ) feature allows you to edit an order in different ways, either due to customer requests, product unavailability, or other reasons.
+The [Order modifications](/en/tutorial/como-funciona-a-alterar-pedido-beta--56TO0bOFXsfmpc7YZ3wIUZ) feature allows you to edit an order in different ways, either due to customer requests, product unavailability, or other reasons.
 
 This article explains how an order can be modified and how to do so. It comprises the following sections:
 
@@ -24,7 +24,7 @@ This article explains how an order can be modified and how to do so. It comprise
 - [Common aspects](#common-aspects)
 - [Processing errors](#processing-errors)
 
-> ⚠️ To learn about the [general characteristics](https://help.vtex.com/en/tutorial/how-change-order-works-beta--56TO0bOFXsfmpc7YZ3wIUZ#general-characteristics) of order modifications scenarios, including aspects like reservation, inventory update, and franchise accounts, or to understand details related to [pricing, payment, and invoicing](https://help.vtex.com/en/tutorial/how-change-order-works-beta--56TO0bOFXsfmpc7YZ3wIUZ#price-changes), read the [How Order modifications works](https://help.vtex.com/en/tutorial/how-change-order-works-beta--56TO0bOFXsfmpc7YZ3wIUZ) article.
+> ⚠️ To learn about the [general characteristics](/en/tutorial/how-change-order-works-beta--56TO0bOFXsfmpc7YZ3wIUZ#general-characteristics) of order modifications scenarios, including aspects like reservation, inventory update, and franchise accounts, or to understand details related to [pricing, payment, and invoicing](/en/tutorial/how-change-order-works-beta--56TO0bOFXsfmpc7YZ3wIUZ#price-changes), read the [How Order modifications works](/en/tutorial/how-change-order-works-beta--56TO0bOFXsfmpc7YZ3wIUZ) article.
 
 ## Conditions
 
@@ -32,11 +32,11 @@ There are some conditions for modifying orders related to the order status. See 
 
 ### Status of the order to be modified
 
-In the [order flow](https://help.vtex.com/en/tutorial/fluxo-e-status-de-pedidos--tutorials_196), `Handling shipping` is the only status valid for **Order modifications** in the VTEX Admin. Read the [How Order modifications works](https://help.vtex.com/en/tutorial/how-change-order-works-beta--56TO0bOFXsfmpc7YZ3wIUZ) article to learn more about API modifications.
+In the [order flow](/en/tutorial/fluxo-e-status-de-pedidos--tutorials_196), `Handling shipping` is the only status valid for **Order modifications** in the VTEX Admin. Read the [How Order modifications works](/en/tutorial/how-change-order-works-beta--56TO0bOFXsfmpc7YZ3wIUZ) article to learn more about API modifications.
 
 ### License Manager permission
 
-For a user to be able to modify orders, their [role](https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) must be associated with at least one of the following [Licence Manager resources](https://help.vtex.com/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3):
+For a user to be able to modify orders, their [role](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) must be associated with at least one of the following [Licence Manager resources](/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3):
 
 - `Orders Full Access`
 - `Change order`
@@ -49,13 +49,13 @@ These are the main order modifications that can be made through the VTEX Admin:
 - **Remove:** Remove the partial or total number of items.
 - **Weight change:** Adjust the weight assigned to items.
 - **Replace items:** Replace items, including those priced by weight.
-- **Price change:** [Change the order total amount](https://help.vtex.com/en/tutorial/alterar-valor-total-do-pedido--2asq4BmxvSD8Tw9xpfZuMo).
+- **Price change:** [Change the order total amount](/en/tutorial/alterar-valor-total-do-pedido--2asq4BmxvSD8Tw9xpfZuMo).
 
-All these actions are done on the [order details](https://help.vtex.com/en/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl) page, which you can access in two ways, as described below.
+All these actions are done on the [order details](/en/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl) page, which you can access in two ways, as described below.
 
 ### Viewing orders on the All orders page
 
-In the VTEX Admin, go to **Orders >** [All Orders](https://help.vtex.com/en/tutorial/lista-de-pedidos-interface--2QTduKHAJMFIZ3BAsi6Pi) and click the desired order, or type **All Orders** in the search bar at the top of the page. Then click the order you want to view. If necessary, you can use [filters](https://help.vtex.com/en/tutorial/filtrar-todos-pedidos--tutorials_192) to narrow your search.
+In the VTEX Admin, go to **Orders >** [All Orders](/en/tutorial/lista-de-pedidos-interface--2QTduKHAJMFIZ3BAsi6Pi) and click the desired order, or type **All Orders** in the search bar at the top of the page. Then click the order you want to view. If necessary, you can use [filters](/en/tutorial/filtrar-todos-pedidos--tutorials_192) to narrow your search.
 
 ### Viewing orders using the global search bar
 
@@ -75,7 +75,7 @@ On the order details page, you can do the following:
 - [Replace items](#replacing-items)
 - [Change weight](#changing-weight)
 
-> ℹ️ You can make a single modification to the order or combine several at once. There is no limit to how many times an order can be modified. Read the [How Order modifications works](https://help.vtex.com/en/tutorial/how-change-order-works-beta--56TO0bOFXsfmpc7YZ3wIUZ) article to learn more.
+> ℹ️ You can make a single modification to the order or combine several at once. There is no limit to how many times an order can be modified. Read the [How Order modifications works](/en/tutorial/how-change-order-works-beta--56TO0bOFXsfmpc7YZ3wIUZ) article to learn more.
 
 ### Adding items
 
@@ -202,8 +202,8 @@ On the **Manage order items** page, you can undo a modification if you want. To 
 
 In any [type of order modification](#types-of-order-modifications) on the **Manage order items** page, when you click `Review and Apply,` the modification may not be approved, which redirects you back to the order details page. Some of the reasons for modifications being rejected are:
 
-- **Unavailable item:** The SKU may [not be displayed on the store's website](https://help.vtex.com/en/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382) or may be unavailable due to an error or missing catalog, price, or logistics settings.
-- **Insufficient inventory:** The number of items added or replaced in the modification may be greater than the number of items available for sale in your [inventory](https://help.vtex.com/en/tutorial/gerenciar-itens-em-estoque--tutorials_139).
+- **Unavailable item:** The SKU may [not be displayed on the store's website](/en/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382) or may be unavailable due to an error or missing catalog, price, or logistics settings.
+- **Insufficient inventory:** The number of items added or replaced in the modification may be greater than the number of items available for sale in your [inventory](/en/tutorial/gerenciar-itens-em-estoque--tutorials_139).
 
-If the Catalog and inventory settings are correct and modifications to orders return errors, this might indicate a problem with the platform's processing. In this case, we recommend contacting our [support team](https://help.vtex.com/en/support).
+If the Catalog and inventory settings are correct and modifications to orders return errors, this might indicate a problem with the platform's processing. In this case, we recommend contacting our [support team](/en/support).
 

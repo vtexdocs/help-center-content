@@ -67,6 +67,6 @@ The information contained in the sender's cards is as follows:
 - Button to perform a message sending test.
 - Icon indicating whether or not the sender passed the submit test (not displayed if no recent test was performed). Shows a green check mark if it has passed and a red "x" if it has not passed.
 
-Remember that it is essential to customize the sender. This will allow your customers to receive messages with your company name and email address. For more on this, read our article on [editing VTEX's mail server](https://help.vtex.com/en/tutorial/customizing-the-vtex-smtp--tutorials_2733).
+Remember that it is essential to customize the sender. This will allow your customers to receive messages with your company name and email address. For more on this, read our article on [editing VTEX's mail server](/en/tutorial/customizing-the-vtex-smtp--tutorials_2733).
 
 Until you configure this, your store's emails will be sent with the default sender “noreply@vtexcommerce.com.br”.

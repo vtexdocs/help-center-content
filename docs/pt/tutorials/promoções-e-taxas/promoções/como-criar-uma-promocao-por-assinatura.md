@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
-Neste artigo, você encontrará o passo a passo para criar promoções de assinatura em [Promoção Regular](https://help.vtex.com/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI). 
+Neste artigo, você encontrará o passo a passo para criar promoções de assinatura em [Promoção Regular](/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI). 
 
 1. Acesse o módulo **Promoções e Taxas**.
 2. Clique em **Promoções**.
@@ -43,6 +43,6 @@ Configure corretamente a frequência e o ciclo para garantir que a promoção se
 > ℹ️ Não é possível configurar promoções por UTM e promoções de assinatura usando cupom em pedidos recorrentes, o cupom será aplicado apenas a pedidos originais.
 
 <ol start="6">
-<li>Preencha [os campos restantes da promoção](https://help.vtex.com/pt/tutorial/promocao-regular--tutorials_327).</li><br>
+<li>Preencha [os campos restantes da promoção](/pt/tutorial/promocao-regular--tutorials_327).</li><br>
 <li>Clique em <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">Salvar</span> para finalizar.</li>
 </ol>

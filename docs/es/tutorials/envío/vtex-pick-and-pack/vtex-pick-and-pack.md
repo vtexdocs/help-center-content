@@ -17,7 +17,7 @@ subcategoryId: 7Kllu6CmeLNV3tYXlCFvOt
 
 > ℹ️ Si tienes interés en implementarla en tu negocio, rellena nuestro [formulario](https://vtex.com/co-es/contacto/) indicando en el campo `Comentarios` el nombre del producto deseado.
 
-**VTEX Pick and Pack** es la solución que permite a los comerciantes gestionar la recolección, el empaquetado y la entrega de pedidos desde tiendas físicas y almacenes a las direcciones de los clientes o [puntos de recogida](https://help.vtex.com/es/tutorial/pickup-points--2fljn6wLjn8M4lJHA6HP3R). Toda la gestión se realiza en un único lugar, lo que proporciona visibilidad y control a los comerciantes durante todo el proceso de fulfillment.
+**VTEX Pick and Pack** es la solución que permite a los comerciantes gestionar la recolección, el empaquetado y la entrega de pedidos desde tiendas físicas y almacenes a las direcciones de los clientes o [puntos de recogida](/es/tutorial/pickup-points--2fljn6wLjn8M4lJHA6HP3R). Toda la gestión se realiza en un único lugar, lo que proporciona visibilidad y control a los comerciantes durante todo el proceso de fulfillment.
 
 ## Funcionalidades
 
@@ -36,8 +36,8 @@ Con **VTEX Pick and Pack**, los comerciantes también pueden obtener datos y an�
 
 **VTEX Pick and Pack** es una solución compuesta por:
 
-- **[Fulfillment](https://help.vtex.com/es/tutorial/vtex-pick-and-pack-fulfillment--1zGUEItEEVsal6cuBEBNcA):** aplicación del Admin que permite la comunicación entre el entregador y el operador de la tienda. Los entregadores pueden escanear ítems con sus dispositivos móviles y, si los operarios de las tiendas lo permiten, pueden gestionar cambios en los pedidos, como reemplazar, eliminar y agregar ítems. Los entregadores pueden obtener permiso para comunicarse con los clientes a través de sus propios dispositivos, sin acceso al Admin de la tienda.
-- **[Last Mile](https://help.vtex.com/en/tutorial/vtex-pick-and-pack-last-mile--HN7WKV0xoq2ssVjsJlfzr):** aplicación del Admin que permite al operador de la tienda dar instrucciones a los entregadores sobre la recogida y entrega de pedidos en la dirección de los clientes o en los puntos de recogida. Incluye la optimización de rutas y la prueba de recogida y entrega, lo que significa que el entregador puede cargar una firma del cliente, una foto o un comentario que confirme que se ha realizado la entrega.
+- **[Fulfillment](/es/tutorial/vtex-pick-and-pack-fulfillment--1zGUEItEEVsal6cuBEBNcA):** aplicación del Admin que permite la comunicación entre el entregador y el operador de la tienda. Los entregadores pueden escanear ítems con sus dispositivos móviles y, si los operarios de las tiendas lo permiten, pueden gestionar cambios en los pedidos, como reemplazar, eliminar y agregar ítems. Los entregadores pueden obtener permiso para comunicarse con los clientes a través de sus propios dispositivos, sin acceso al Admin de la tienda.
+- **[Last Mile](/en/tutorial/vtex-pick-and-pack-last-mile--HN7WKV0xoq2ssVjsJlfzr):** aplicación del Admin que permite al operador de la tienda dar instrucciones a los entregadores sobre la recogida y entrega de pedidos en la dirección de los clientes o en los puntos de recogida. Incluye la optimización de rutas y la prueba de recogida y entrega, lo que significa que el entregador puede cargar una firma del cliente, una foto o un comentario que confirme que se ha realizado la entrega.
 - **Aplicaciones móviles:** aplicaciones para dispositivos móviles destinadas exclusivamente a los entregadores, para que puedan realizar sus actividades sin necesidad de acceder al Admin de la tienda.
 
 > ℹ️ Las aplicaciones **Fufillment** y **Last Mile** para entregadores solo están disponibles para dispositivos Android.

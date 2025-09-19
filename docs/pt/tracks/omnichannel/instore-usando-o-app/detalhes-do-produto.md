@@ -21,5 +21,5 @@ Ao clicar nos detalhes de um produto que aparece nos resultados da busca do VTEX
 
 Essa tela mostra o nome do produto, sua galeria de fotos, variações, descrição e disponibilidade. O vendedor pode, nessa tela, adicionar o produto ao carrinho.
 
-Note que, se você configurou sua loja para [forçar disponibilidade de estoque](https://help.vtex.com/pt/tracks/instore-customizations--1z9kBm12oBPyVNDo1ivVc2/2SgRUekV8FO4lg2aO6YTmh), mesmo que o produto esteja indisponível em todos os canais, o vendedor poderá adicioná-lo ao carrinho.
+Note que, se você configurou sua loja para [forçar disponibilidade de estoque](/pt/tracks/instore-customizations--1z9kBm12oBPyVNDo1ivVc2/2SgRUekV8FO4lg2aO6YTmh), mesmo que o produto esteja indisponível em todos os canais, o vendedor poderá adicioná-lo ao carrinho.
 

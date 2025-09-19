@@ -15,11 +15,11 @@ locale: es
 subcategoryId: 3OlaStejO5MSzvDSU3VCH3
 ---
 
-La página [Claves de API](https://help.vtex.com/es/tutorial/chaves-de-api--4bFEmcHXgpNksoePchZyy6) permite exportar información de todas las claves generadas y las claves externas relacionadas con la cuenta a un archivo \`XLSX`` ` ``.
+La página [Claves de API](/es/tutorial/chaves-de-api--4bFEmcHXgpNksoePchZyy6) permite exportar información de todas las claves generadas y las claves externas relacionadas con la cuenta a un archivo \`XLSX`` ` ``.
 
 ## Antes de empezar
 
-Para exportar debes tener el rol [User Administrator \- RESTRICTED](https://help.vtex.com/es/tutorial/perfis-de-acesso-predefinidos--jGDurZKJHvHJS13LnO7Dy#user-administrator-restricted) o un rol [personalizado](https://help.vtex.com/es/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#criando-um-perfil-de-acesso) con el recurso *View API Keys*.
+Para exportar debes tener el rol [User Administrator \- RESTRICTED](/es/tutorial/perfis-de-acesso-predefinidos--jGDurZKJHvHJS13LnO7Dy#user-administrator-restricted) o un rol [personalizado](/es/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#criando-um-perfil-de-acesso) con el recurso *View API Keys*.
 
 ## Instrucciones
 
@@ -57,7 +57,7 @@ A continuación se describen los datos disponibles en la plantilla.
 
 ## Más información
 
-* [Claves de API](https://help.vtex.com/es/tutorial/chaves-de-api--4bFEmcHXgpNksoePchZyy6)  
-* [Configurar la duración de las claves de API](https://help.vtex.com/es/tutorial/configurar-a-duracao-de-chaves-de-api--kcGIFysFt02FDuhsfjQwZ)  
-* [Claves generadas](https://help.vtex.com/es/tutorial/chaves-geradas--7fnU4iZdvZKbxCaT3Ymdjc) 
-* [Claves externas](https://help.vtex.com/es/tutorial/chaves-terceiras--1isU0HfKkeg0atlxRha14Q)
+* [Claves de API](/es/tutorial/chaves-de-api--4bFEmcHXgpNksoePchZyy6)  
+* [Configurar la duración de las claves de API](/es/tutorial/configurar-a-duracao-de-chaves-de-api--kcGIFysFt02FDuhsfjQwZ)  
+* [Claves generadas](/es/tutorial/chaves-geradas--7fnU4iZdvZKbxCaT3Ymdjc) 
+* [Claves externas](/es/tutorial/chaves-terceiras--1isU0HfKkeg0atlxRha14Q)

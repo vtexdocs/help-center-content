@@ -15,7 +15,7 @@ trackSlugEN: vtex-live-shopping-getting-started
 order: 8
 ---
 
-> ℹ️ If you want to use a studio other than Bundle, check [Using external studio](https://help.vtex.com/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/Dw0QdKI0aGjmyD5Z6z5JC).
+> ℹ️ If you want to use a studio other than Bundle, check [Using external studio](/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/Dw0QdKI0aGjmyD5Z6z5JC).
 
 The VTEX broadcast studio is called **Bundle**. In this article, you’ll learn how to configure all the necessary settings in our native studio solution.
 
@@ -25,7 +25,7 @@ To access the studio in the VTEX Admin and start transmitting a live stream, go 
 
 ![article_8_streaming_studio_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/vtex-live-shopping-getting-started/using-bundle-studio_1.png)
 
- > ℹ️ To enable the fields, the event has to be [turned on](https://help.vtex.com/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/6NrWRLAJEHijcd6tLIWoqq) to change it to `Live` status.
+ > ℹ️ To enable the fields, the event has to be [turned on](/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/6NrWRLAJEHijcd6tLIWoqq) to change it to `Live` status.
 
 The settings in this section do the following:
 
@@ -36,11 +36,11 @@ Both hosts using the link generated with the `Copy invitation` button and admini
 
 ## My Studio
 
-On the **Device settings** page, when you click `Enter the studio`, you’re redirected to the **My Studio** page, as shown in the example below in portrait [layout type](https://help.vtex.com/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/125yr6jAfwiiz84JP4ppfO#layout-type-configuring-the-style):
+On the **Device settings** page, when you click `Enter the studio`, you’re redirected to the **My Studio** page, as shown in the example below in portrait [layout type](/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/125yr6jAfwiiz84JP4ppfO#layout-type-configuring-the-style):
 
 ![article_8_my_studio_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/vtex-live-shopping-getting-started/using-bundle-studio_2.png)
 
-> ⚠️ Before transmitting from Bundle, you must select the [layout type](https://help.vtex.com/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/125yr6jAfwiiz84JP4ppfO#layout-type-configuring-the-style) you want for the screen. Once you are in the **My Studio** page, you can't change the event layout anymore. To change it, you would need to create a new event.
+> ⚠️ Before transmitting from Bundle, you must select the [layout type](/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/125yr6jAfwiiz84JP4ppfO#layout-type-configuring-the-style) you want for the screen. Once you are in the **My Studio** page, you can't change the event layout anymore. To change it, you would need to create a new event.
 
 The left navigation menu has the following sections (administrators only, except for Chat private):
 
@@ -60,7 +60,7 @@ In the **My Studio** menu option, numbers 1 through 5 indicate the settings that
 * **2. Activate/deactivate microphone:** Controls your own microphone settings.
 * **3. Activate/deactivate camera:** Turns your own camera on and off.
 * **4. Share screen:** Allows the host (including guests/influencers) to share their screen and choose the window or screen they want to display.
-* **5. End meeting:** Opens two options to end the broadcast —  one that ends the event for everyone and removes all participants from the studio, and another where only the user leaves the meeting. Learn more in the [Ending the transmission](https://help.vtex.com/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/69PX90vv4oDWQ34nnBkiQt#ending-the-transmission) section.
+* **5. End meeting:** Opens two options to end the broadcast —  one that ends the event for everyone and removes all participants from the studio, and another where only the user leaves the meeting. Learn more in the [Ending the transmission](/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/69PX90vv4oDWQ34nnBkiQt#ending-the-transmission) section.
 
 ### Administrator-only settings
 
@@ -98,7 +98,7 @@ The name will show in white letters against a dark background and can’t be cha
 
 ### Asset dimensions
 
-The table below describes the format and limit for each type of asset on Bundle studio, depending on the [layout](https://help.vtex.com/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/125yr6jAfwiiz84JP4ppfO#layout-type-configuring-the-style) settings:
+The table below describes the format and limit for each type of asset on Bundle studio, depending on the [layout](/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/125yr6jAfwiiz84JP4ppfO#layout-type-configuring-the-style) settings:
 
 | **Asset type** | **General information** | **Landscape view - Horizontal (16:9)** | **Portrait view - Vertical (9:16)** |
 | :---: | :--- | :---: | :---: |
@@ -140,9 +140,9 @@ To connect different VTEX accounts for the same event transmission, each account
 
 **Account A:**
 
-1. [Create](https://help.vtex.com/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv) an event.
+1. [Create](/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv) an event.
 2. On the **Events** page, click the event arrow button to go to the **Event Information** page.
-3. [Turn on](https://help.vtex.com/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/6NrWRLAJEHijcd6tLIWoqq) the event.
+3. [Turn on](/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/6NrWRLAJEHijcd6tLIWoqq) the event.
 4. In the [Streaming Studio](#streaming-studio) section, click `Access`.
 5. Log in to Bundle studio.
 6. Click `Enter the studio`.
@@ -157,10 +157,10 @@ The following confirmation message will be displayed, *"A new destination has be
 
 **Account B:**
 
-1. [Create](https://help.vtex.com/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv) the event.
+1. [Create](/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv) the event.
 2. On the **Events** page, click the event arrow button to go to the **Event Information** page.
-3. [Turn on](https://help.vtex.com/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/6NrWRLAJEHijcd6tLIWoqq) the event.
-4. In the [Details](https://help.vtex.com/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/6NrWRLAJEHijcd6tLIWoqq#event-details) section, copy the **Inbound server** and **Server key** information and give them to the account you want to connect to, which is Account A in this case. 
+3. [Turn on](/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/6NrWRLAJEHijcd6tLIWoqq) the event.
+4. In the [Details](/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/6NrWRLAJEHijcd6tLIWoqq#event-details) section, copy the **Inbound server** and **Server key** information and give them to the account you want to connect to, which is Account A in this case. 
 
 ### Connecting to YouTube
 

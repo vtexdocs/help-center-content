@@ -27,6 +27,6 @@ To configure PayU India, follow the steps below:
 6. In __Have an anti-fraud deal with this affiliation?__, select whether your store will use an anti-fraud deal with this connector.
 7. Click `Save`.
 
-To set up payment conditions, access [Configure special payment conditions](https://help.vtex.com/en/tutorial/condicoes-de-pagamento).
+To set up payment conditions, access [Configure special payment conditions](/en/tutorial/condicoes-de-pagamento).
 
 After following the indicated steps, PayU India may take up to 10 minutes to appear at your store's checkout as a payment option.

@@ -17,7 +17,7 @@ subcategoryId: 5n5MnINzWTQUX1I2EZl4Ib
 
 > ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Caso tenha interesse em adotar essa funcionalidade no seu negócio, acesse o site [VTEX Shipping Network](https://vtex.com/br-pt/shipping-network/).
 
-> ⚠️ O [VTEX Shipping Network Correios](https://help.vtex.com/pt/tutorial/vtex-shipping-network-correios-faq--2Wavf7Wie5GEUAEHKtn5oC) integra sua operação com os serviços PAC e SEDEX do contrato VTEX junto aos Correios, e o [VTEX Shipping Network](https://vtex.com/br-pt/shipping-network/) integra a sua operação com os Correios e outras transportadoras. Com ambas as soluções você pode usar as funcionalidades:<ul><li>[Pronto para envio](https://help.vtex.com/pt/tutorial/pronto-para-envio--5YOZV7Aotv3pap0fGNESDs)</li><li>[Painel VTEX Shipping Network](https://help.vtex.com/pt/tutorial/painel-vtex-shipping-network--51e8tx1IehiN4ZtURRWU92)</li><li>Entregas Correios</li></ul>
+> ⚠️ O [VTEX Shipping Network Correios](/pt/tutorial/vtex-shipping-network-correios-faq--2Wavf7Wie5GEUAEHKtn5oC) integra sua operação com os serviços PAC e SEDEX do contrato VTEX junto aos Correios, e o [VTEX Shipping Network](https://vtex.com/br-pt/shipping-network/) integra a sua operação com os Correios e outras transportadoras. Com ambas as soluções você pode usar as funcionalidades:<ul><li>[Pronto para envio](/pt/tutorial/pronto-para-envio--5YOZV7Aotv3pap0fGNESDs)</li><li>[Painel VTEX Shipping Network](/pt/tutorial/painel-vtex-shipping-network--51e8tx1IehiN4ZtURRWU92)</li><li>Entregas Correios</li></ul>
 
 **Entregas Correios** é a funcionalidade do [VTEX Shipping Network](https://vtex.com/br-pt/log/) que permite ao lojista acompanhar as informações e o andamento de pacotes postados nos [Correios](https://www.correios.com.br/). A solução permite solicitar um Pedido de Informação (PI) para entregas que estão atrasadas, extraviadas ou foram feitas indevidamente.
 
@@ -36,7 +36,7 @@ Além disso, ao final do artigo você vai encontrar informações sobre:
 * Conexão com agências dos Correios
 * Serviço de Logística Reversa dos Correios
 
-> ℹ️ Para imprimir etiquetas dos pacotes no Admin VTEX, utilize a ferramenta [**Pronto para envio**](https://help.vtex.com/pt/tutorial/pronto-para-envio--5YOZV7Aotv3pap0fGNESDs). Você também pode fazer isso por API. Saiba  mais na nossa documentação para desenvolvedores [VTEX Shipping Network Labels Integration](https://developers.vtex.com/docs/guides/vtex-shipping-network-labels-integration).
+> ℹ️ Para imprimir etiquetas dos pacotes no Admin VTEX, utilize a ferramenta [**Pronto para envio**](/pt/tutorial/pronto-para-envio--5YOZV7Aotv3pap0fGNESDs). Você também pode fazer isso por API. Saiba  mais na nossa documentação para desenvolvedores [VTEX Shipping Network Labels Integration](https://developers.vtex.com/docs/guides/vtex-shipping-network-labels-integration).
 
 ## Informações dos Pedidos
 
@@ -196,6 +196,6 @@ Ao contratar o **VTEX Shipping Network Correios**, você pode utilizar o serviç
 
 ## Saiba mais
 
-* [VTEX Shipping Network: Pronto para envio](https://help.vtex.com/pt/tutorial/pronto-para-envio--5YOZV7Aotv3pap0fGNESDs)
-* [VTEX Shipping Network: Painel](https://help.vtex.com/pt/tutorial/painel-vtex-shipping-network--51e8tx1IehiN4ZtURRWU92)
-* [VTEX Shipping Network Correios: FAQ](https://help.vtex.com/pt/tutorial/vtex-shipping-network-correios-faq--2Wavf7Wie5GEUAEHKtn5oC)
+* [VTEX Shipping Network: Pronto para envio](/pt/tutorial/pronto-para-envio--5YOZV7Aotv3pap0fGNESDs)
+* [VTEX Shipping Network: Painel](/pt/tutorial/painel-vtex-shipping-network--51e8tx1IehiN4ZtURRWU92)
+* [VTEX Shipping Network Correios: FAQ](/pt/tutorial/vtex-shipping-network-correios-faq--2Wavf7Wie5GEUAEHKtn5oC)

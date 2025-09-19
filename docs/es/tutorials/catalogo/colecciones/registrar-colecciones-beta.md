@@ -31,7 +31,7 @@ Este artículo explica cómo:
 
 ## Requisito previo
 
-Para crear una colección, debe tener el [perfil de acceso](https://help.vtex.com/en/tutorial/access-profiles--7HKK5Uau2H6wxE1rH5oRbc?locale=es) _Owner (Admin Super)_ o crear otro perfil con el recurso **Write Collections**, en la sección **Collection** de los perfiles de **Catalog**. Vea aquí [cómo crear un perfil de acceso](https://help.vtex.com/es/tutorial/access-profiles--7HKK5Uau2H6wxE1rH5oRbc#creando-un-perfil-de-acceso).
+Para crear una colección, debe tener el [perfil de acceso](/en/tutorial/access-profiles--7HKK5Uau2H6wxE1rH5oRbc?locale=es) _Owner (Admin Super)_ o crear otro perfil con el recurso **Write Collections**, en la sección **Collection** de los perfiles de **Catalog**. Vea aquí [cómo crear un perfil de acceso](/es/tutorial/access-profiles--7HKK5Uau2H6wxE1rH5oRbc#creando-un-perfil-de-acceso).
 
 > ℹ️ Es importante destacar que las colecciones creadas en este módulo no se alteran automáticamente. Las colecciones automáticas — realizadas mediante la selección de filtros — no se pueden configurar en el módulo.
 
@@ -42,9 +42,9 @@ Realice el siguiente paso a paso para registrar una nueva colección:
 1. En el Admin VTEX, accede a **Catálogo**, o escribe **Catálogo** en la barra de búsqueda en la parte superior de la página.
 2. Haga clic en **Colecciones**.
 3. Haga clic en el botón `Crear Colección`.
-4. Complete los [campos del formulario de la nueva colección](https://help.vtex.com/es/tutorial/cadastrar-colecoes-beta--yJBHqNMViOAnnnq4fyOye#campos-de-registro-de-la-coleccion).
+4. Complete los [campos del formulario de la nueva colección](/es/tutorial/cadastrar-colecoes-beta--yJBHqNMViOAnnnq4fyOye#campos-de-registro-de-la-coleccion).
 5. Haga clic en `Crear` para guardar la información ingresada en el formulario.
-6. Luego, [seleccione los productos](https://help.vtex.com/es/tutorial/cadastrar-colecoes-beta--yJBHqNMViOAnnnq4fyOye#seleccion-de-productos) que formarán parte de la colección.
+6. Luego, [seleccione los productos](/es/tutorial/cadastrar-colecoes-beta--yJBHqNMViOAnnnq4fyOye#seleccion-de-productos) que formarán parte de la colección.
 
 ### Campos de registro de la colección
 

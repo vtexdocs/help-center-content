@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisPT: 'A VTEX irá deprecar a entidade de pedidos do Master Data v2 em outubro de 2023. Adapte as integrações da sua loja.'
 ---
 
-O [Master Data v2](https://help.vtex.com/en/tutorial/master-data--4otjBnR27u4WUIciQsmkAw) é uma solução da plataforma VTEX para banco de dados, que é altamente customizável. Uma de suas entidades de dados nativas armazena informações de pedidos e alguns desenvolvedores a utilizam para realizar integrações de pedidos com serviços externos como sistemas de gerenciamento de estoque ou recursos.
+O [Master Data v2](/en/tutorial/master-data--4otjBnR27u4WUIciQsmkAw) é uma solução da plataforma VTEX para banco de dados, que é altamente customizável. Uma de suas entidades de dados nativas armazena informações de pedidos e alguns desenvolvedores a utilizam para realizar integrações de pedidos com serviços externos como sistemas de gerenciamento de estoque ou recursos.
 
 Entretanto, a VTEX já disponibiliza o [feed e hook de pedidos](https://developers.vtex.com/vtex-rest-api/docs/orders-feed), uma solução mais adequada ao desenvolvimento deste tipo de integração.
 

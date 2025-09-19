@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 6aeeWirCBUwwCmeIWOgIWs
 ---
 
-> ⚠️ La funcionalidad [Lista](https://help.vtex.com/es/tutorial/que-es-una-lista--4b4NsVFwA8kwqS8S82w4Go) es exclusiva para las tiendas que utilizan CMS Portal Legado.
+> ⚠️ La funcionalidad [Lista](/es/tutorial/que-es-una-lista--4b4NsVFwA8kwqS8S82w4Go) es exclusiva para las tiendas que utilizan CMS Portal Legado.
 
 En este artículo se abordarán las particularidades de la creación de un tipo de Lista Vale, que es un tipo especial de Lista. [Vea nuestra documentación completa de Tipo de Lista haciendo clic aquí.](/es/tutorial/criando-tipo-de-lista/)
 

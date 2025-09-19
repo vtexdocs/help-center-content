@@ -21,7 +21,7 @@ No Admin, você pode criar landing pages personalizadas, como páginas para ofer
 
 1. No Admin VTEX, acesse **Storefront > Páginas**.
 
-> ⚠️  Se sua loja tem múltiplas políticas comerciais ou é uma loja internacional, selecione o [binding](https://help.vtex.com/en/tutorial/o-que-e-binding--4NcN3NJd0IeYccgWCI8O2W) correspondente à loja à qual você deseja adicionar uma nova landing page usando o menu suspenso no canto superior direito. 
+> ⚠️  Se sua loja tem múltiplas políticas comerciais ou é uma loja internacional, selecione o [binding](/en/tutorial/o-que-e-binding--4NcN3NJd0IeYccgWCI8O2W) correspondente à loja à qual você deseja adicionar uma nova landing page usando o menu suspenso no canto superior direito. 
 
 2.Clique em **CRIAR PÁGINA**.
 

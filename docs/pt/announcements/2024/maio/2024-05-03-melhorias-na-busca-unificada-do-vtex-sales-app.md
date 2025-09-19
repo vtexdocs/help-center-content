@@ -40,4 +40,4 @@ Desenvolvemos esta melhoria principalmente para os vendedores de lojas físicas,
 
 ## O que precisa ser feito?
 
-Nenhuma ação é necessária. A funcionalidade será aplicada automaticamente em todas as lojas VTEX que utilizam o VTEX Sales App. Para mais informações, acesse o artigo [Busca unificada no VTEX Sales App](https://help.vtex.com/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr/9sXeVwoD60qYYgRJ11r5F). 
+Nenhuma ação é necessária. A funcionalidade será aplicada automaticamente em todas as lojas VTEX que utilizam o VTEX Sales App. Para mais informações, acesse o artigo [Busca unificada no VTEX Sales App](/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr/9sXeVwoD60qYYgRJ11r5F). 

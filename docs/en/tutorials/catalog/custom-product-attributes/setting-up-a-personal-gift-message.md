@@ -17,7 +17,7 @@ subcategoryId: 1hoOi2R0Rm6ky0yCwOUoiy
 
 Gift cards with personal messages are very used specially by stores that deal with gift lists, marriage lists etc.
 
-In order to make this product available for clients, you must set up a new SKU Service on Admin. To learn how to create SKU Services, read [Creating service for a SKU](https://help.vtex.com/en/tutorial/creating-service-for-a-sku--tutorials_252u).
+In order to make this product available for clients, you must set up a new SKU Service on Admin. To learn how to create SKU Services, read [Creating service for a SKU](/en/tutorial/creating-service-for-a-sku--tutorials_252u).
 
 After creating the Service and defining its Value, register a type of service for the SKU and, then, link this service to the SKU. Follow the steps below:
 
@@ -33,7 +33,7 @@ After creating the Service and defining its Value, register a type of service fo
 10. On the arrow next to the `Edit` button, click on __Service__.
 11. Create a new service. On the creation screen, select the type of service created and the table of values.
 
-For further information about the creation of services and how to link values, see the article [Creating an SKU service](https://help.vtex.com/en/tutorial/creating-service-for-a-sku--tutorials_252u).).
+For further information about the creation of services and how to link values, see the article [Creating an SKU service](/en/tutorial/creating-service-for-a-sku--tutorials_252u).).
 
 ## Validating the configuration
 

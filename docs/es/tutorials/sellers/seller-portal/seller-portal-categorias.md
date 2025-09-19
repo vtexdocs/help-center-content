@@ -64,6 +64,6 @@ Puedes cambiar la información de cada categoría haciendo clic en el botón <i 
 - **Desactivar:** opción que desactiva automáticamente la categoría.
 
 ### Más información
-* [Lista de productos (Beta)](https://help.vtex.com/es/tutorial/lista-de-productos-beta--49vxWqoaWRZC4atwLz6cMg)
-* [Cómo crear un producto (Beta)](https://help.vtex.com/es/tutorial/como-crear-un-producto-beta--671zAWe0B9eCikzDu7kB1G)
+* [Lista de productos (Beta)](/es/tutorial/lista-de-productos-beta--49vxWqoaWRZC4atwLz6cMg)
+* [Cómo crear un producto (Beta)](/es/tutorial/como-crear-un-producto-beta--671zAWe0B9eCikzDu7kB1G)
 

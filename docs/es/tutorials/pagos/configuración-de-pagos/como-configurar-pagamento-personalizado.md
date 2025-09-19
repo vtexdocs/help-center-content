@@ -21,16 +21,16 @@ Esos medios de pago son separados en tres categorías. Cada categoría permite c
 
 ## Pagarés
 
-Pagaré es una promesa de venta que necesita de aprobación manual del tendero para aprobar la transacción. Es utilizada a menudo para poner a disposición el pago a través de dinero. Para configurar Pagarés, acceda a la documentación [Configurar pagos con Pagaré](https://help.vtex.com/es/tutorial/configurar-pagos-con-pagare).
+Pagaré es una promesa de venta que necesita de aprobación manual del tendero para aprobar la transacción. Es utilizada a menudo para poner a disposición el pago a través de dinero. Para configurar Pagarés, acceda a la documentación [Configurar pagos con Pagaré](/es/tutorial/configurar-pagos-con-pagare).
 
 ## Tarjetas de la Tienda (Own Brand)
 
-Permite que usted utilice una tarjeta de crédito con bandera propia de la Tienda. Para configurar este método de pago acceda a la documentación [Configurar pagos con Private Label (bandera propia)](https://help.vtex.com/es/tutorial/configurar-pagos-con-private-label).
+Permite que usted utilice una tarjeta de crédito con bandera propia de la Tienda. Para configurar este método de pago acceda a la documentación [Configurar pagos con Private Label (bandera propia)](/es/tutorial/configurar-pagos-con-private-label).
 
 ## Tarjetas de la Tienda (Co-Branded)
 
-Permite que usted utilice una tarjeta de crédito de la Tienda con una de las siguientes banderas: Mastercard, Visa, Amex y Diners. Para configurar este método de pago acceda a la documentación [Configurar pagos con Tarjeta de Tienda (cobranded)](https://help.vtex.com/es/tutorial/configurar-pagos-con-tarjeta-de-tienda-cobranded).
+Permite que usted utilice una tarjeta de crédito de la Tienda con una de las siguientes banderas: Mastercard, Visa, Amex y Diners. Para configurar este método de pago acceda a la documentación [Configurar pagos con Tarjeta de Tienda (cobranded)](/es/tutorial/configurar-pagos-con-tarjeta-de-tienda-cobranded).
 
-Después de esta configuración, será necesaria la creación de la [Condición de Pago](https://help.vtex.com/es/tutorial/condiciones-de-pago--tutorials).
+Después de esta configuración, será necesaria la creación de la [Condición de Pago](/es/tutorial/condiciones-de-pago--tutorials).
 
 > ⚠️ Cuando señale para autorizar automáticamente, el pedido sigue directamente para el status “Preparando Entrega”, o sea, no queda parado en el status “Pago pendiente” aguardando la aprobación, como ocurre caso la flag no esté señalada.

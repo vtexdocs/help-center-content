@@ -29,7 +29,7 @@ Para configurar Wabi, siga os passos abaixo:
 
 ## Configurar condição de pagamento Promissória
 
-Caso ainda não tenha configurado a promissória como método de pagamento em outros conectores de sua loja, acesse [Configurar pagamentos com Promissória](https://help.vtex.com/pt/tutorial/configurar-pagamentos-com-promissoria--5pW7avTwtyQcMu4uiW8quQ).
+Caso ainda não tenha configurado a promissória como método de pagamento em outros conectores de sua loja, acesse [Configurar pagamentos com Promissória](/pt/tutorial/configurar-pagamentos-com-promissoria--5pW7avTwtyQcMu4uiW8quQ).
 
 Depois, siga os passos abaixo:
 
@@ -38,7 +38,7 @@ Depois, siga os passos abaixo:
 3. Em **Pagamento Customizado**, clique no botão correspondente ao nome utilizado para o método de pagamento por promissória (configurado na seção anterior).
 4. Ative a condição no campo **Status**.
 5. Em **Processar com o provedor**, selecione **wabipartnerbo-wabi-v0**.
-6. Se desejar, você também pode configurar [condições especiais de pagamento](https://help.vtex.com/pt/tutorial/condicoes-especiais--tutorials_456#).
+6. Se desejar, você também pode configurar [condições especiais de pagamento](/pt/tutorial/condicoes-especiais--tutorials_456#).
 7. Clique em `Salvar`.
 
 Depois de seguir os passos indicados, o provedor Wabi pode demorar até 10 minutos para aparecer no checkout da sua loja como uma opção de pagamento.

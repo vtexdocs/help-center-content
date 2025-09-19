@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 2cI57eZ3ZiWSeaQs26Gwys
 ---
 
-A promoção de campanha é sempre atrelada a uma audiência de campanha, ou seja, um público alvo específico. Esse tipo de promoção engloba todas as possibilidades presentes na [Promoção Regular](https://help.vtex.com/pt/tutorial/promocao-regular--tutorials_327) e algumas opções a mais, que são:
+A promoção de campanha é sempre atrelada a uma audiência de campanha, ou seja, um público alvo específico. Esse tipo de promoção engloba todas as possibilidades presentes na [Promoção Regular](/pt/tutorial/promocao-regular--tutorials_327) e algumas opções a mais, que são:
 
 - Público alvo específico
 - Frete grátis para todos os fretes disponíveis
@@ -24,11 +24,11 @@ A promoção de campanha é sempre atrelada a uma audiência de campanha, ou sej
 
 Antes de criar uma promoção de campanha, você precisa criar uma audiência de campanha para definir o público alvo da sua promoção. Assim, você seleciona segmentos de clientes elegíveis na promoção, que funcionam como gatilho, a partir de critérios de sua escolha.
 
-Exemplo: se você configurar uma [audiência de campanha](https://help.vtex.com/pt/tutorial/criar-audiencia-de-campanhas--6cnuDZJzIkIeocewAQQK4K) cujo público alvo é de clientes que colocam o produto A no carrinho, na promoção de campanha você pode configurar que esse público vai receber um desconto sobre o produto B.
+Exemplo: se você configurar uma [audiência de campanha](/pt/tutorial/criar-audiencia-de-campanhas--6cnuDZJzIkIeocewAQQK4K) cujo público alvo é de clientes que colocam o produto A no carrinho, na promoção de campanha você pode configurar que esse público vai receber um desconto sobre o produto B.
 
 > ℹ️ Audiências de campanha e suas promoções são válidas apenas para a conta principal da loja. Contas de sellers não apresentam essa opção. Caso sejam criadas em uma conta de sellers, a audiência de campanha ou a promoção de campanha não serão ativadas.
 
-Uma vez definida a [audiência de campanha](https://help.vtex.com/pt/tutorial/criar-audiencia-de-campanhas--6cnuDZJzIkIeocewAQQK4K), acesse o Admin e siga os passos abaixo para criar uma promoção de campanha.
+Uma vez definida a [audiência de campanha](/pt/tutorial/criar-audiencia-de-campanhas--6cnuDZJzIkIeocewAQQK4K), acesse o Admin e siga os passos abaixo para criar uma promoção de campanha.
 
 1. No Admin VTEX, acesse *Promoções > Promoções*, ou digite *Promoções* na barra de busca no topo da página.
 2. Clique no botão `Criar Promoção`.
@@ -61,7 +61,7 @@ Veja abaixo a descrição de todos os campos que você precisa preencher para cr
   - **Hora do dia:**
     - **O dia todo:** ao selecionar esta opção, a promoção será válida durante o dia inteiro.
     - **Horários específicos:** ao selecionar esta opção, você pode escolher a hora de início e a hora de fim do período em que a promoção será válida.
-- **Audiência de campanhas:** permite selecionar as audiências de campanhas que terão acesso a esta promoção. Para mais informações, leia o artigo [Audiência de campanhas](https://help.vtex.com/pt/tutorial/como-criar-campanhas).
+- **Audiência de campanhas:** permite selecionar as audiências de campanhas que terão acesso a esta promoção. Para mais informações, leia o artigo [Audiência de campanhas](/pt/tutorial/como-criar-campanhas).
 - **Qual o tipo e valor do desconto?:** seleção que define o tipo e valor do desconto que será aplicado na promoção. Veja as opções de desconto a seguir:
   - **Nominal**: desconto que será concedido ao total do carrinho.
   - **Frete nominal**: desconto que será concedido ao valor do frete.
@@ -70,25 +70,25 @@ Veja abaixo a descrição de todos os campos que você precisa preencher para cr
   - **Frete percentual**: percentual de desconto que será concedido ao valor do frete. 
   - **Frete máximo**: valor máximo que o frete poderá assumir. 
   - **Frete grátis**: desconto total sobre o valor do frete.
-  - **Brinde**: desconto total sobre o valor do produto definido como brinde. Você pode selecionar um ou mais SKUs como brinde ou mais de uma unidade do mesmo SKU. Para definir mais de um brinde, selecione a opção **Ativar multiplicador de brindes** e defina a quantidade desejada. Saiba mais sobre essa opção neste [artigo](https://help.vtex.com/pt/tutorial/o-que-significa-ativar-o-multiplicador-de-brinde-em-uma-promocao--1gydgkmjEWcoo2CskUwuYK#).
+  - **Brinde**: desconto total sobre o valor do produto definido como brinde. Você pode selecionar um ou mais SKUs como brinde ou mais de uma unidade do mesmo SKU. Para definir mais de um brinde, selecione a opção **Ativar multiplicador de brindes** e defina a quantidade desejada. Saiba mais sobre essa opção neste [artigo](/pt/tutorial/o-que-significa-ativar-o-multiplicador-de-brinde-em-uma-promocao--1gydgkmjEWcoo2CskUwuYK#).
 
   > ℹ️ O produto **Brinde** também precisa ter um preço cadastrado, mesmo sendo dado de graça ao cliente.
 
   - **Desconto nominal baseado em fórmula**: desconto é calculado com a soma dos preços de produtos (total), com o frete (freight) e com o percentual de desconto desejado. É importante destacar que o frete implementado na fórmula será o menor disponível para o pedido, independente da seleção do cliente. O separador decimal deve ser sempre o ponto. Exemplo: o desconto será de 30% do valor do produto + valor do frete. Logo, a fórmula deve ser preenchida da seguinte maneira: `((total + freight) * 0.3)`.
   - **Valor fidelidade nominal**: crédito que será adicionado no programa de fidelidade da loja. 
   - **Valor fidelidade percentual**: crédito percentual que será adicionado no programa de fidelidade da loja. 
-  - **Tabela de preços promocionais**: permite selecionar uma tabela de preços para ser utilizada como promoção. O preço promocional de cada SKU será o preço correspondente na tabela de preços selecionada. Você pode configurar no máximo cinco promoções de campanha simultâneas utilizando tabelas de preços promocionais na sua loja. O preço da tabela de preços será aplicado apenas se seu valor for menor que o preço configurado na política comercial utilizada na promoção. Além disso, as promoções de tabelas de preço concorrem com todas as outras promoções relativas ao preço, ou seja, caso exista mais de uma promoção de preço ativa e aplicável aos produtos em questão, o menor preço será aplicado. Saiba mais sobre concorrência de promoções no nosso artigo [Como funciona a concorrência de promoções](https://help.vtex.com/pt/tutorial/entendendo-a-concorrencia-de-promocoes--tutorials_2270).
+  - **Tabela de preços promocionais**: permite selecionar uma tabela de preços para ser utilizada como promoção. O preço promocional de cada SKU será o preço correspondente na tabela de preços selecionada. Você pode configurar no máximo cinco promoções de campanha simultâneas utilizando tabelas de preços promocionais na sua loja. O preço da tabela de preços será aplicado apenas se seu valor for menor que o preço configurado na política comercial utilizada na promoção. Além disso, as promoções de tabelas de preço concorrem com todas as outras promoções relativas ao preço, ou seja, caso exista mais de uma promoção de preço ativa e aplicável aos produtos em questão, o menor preço será aplicado. Saiba mais sobre concorrência de promoções no nosso artigo [Como funciona a concorrência de promoções](/pt/tutorial/entendendo-a-concorrencia-de-promocoes--tutorials_2270).
 
 Se você optar por um tipo de desconto referente ao frete (Frete percentual, Frete nominal, Frete máximo ou Frete grátis) ao criar a promoção de campanha, você também terá acesso às configurações abaixo.
 
 - **Tipo de frete:** o desconto será concedido caso o tipo de frete escolhido pelo cliente seja o mesmo que o cadastrado na promoção. Esse critério somente será considerado se o tipo da promoção for relativo ao valor de frete, ou seja, somente se for um dos seguintes tipos: Frete percentual, Frete nominal, Frete máximo ou Frete grátis.
-- **Aplicar o desconto somente no frete mais barato:** caso você habilite esta opção, o desconto do frete será aplicado somente no menor valor estimado para o frete. Esta opção já aparece habilitada por padrão, mas você pode desabilitá-la se desejar aplicar o desconto a outros tipos de frete. Leia o artigo [Configurar promoções de frete](https://help.vtex.com/pt/tutorial/configurar-promocoes-de-frete--6Lo5BR61KMiUFAAHGCdgfW) para mais informações. Esse critério somente será considerado se o efeito da promoção for relativo ao valor de frete, ou seja, somente se for um dos seguintes efeitos: Frete percentual, Frete nominal, Frete máximo ou Frete grátis.
+- **Aplicar o desconto somente no frete mais barato:** caso você habilite esta opção, o desconto do frete será aplicado somente no menor valor estimado para o frete. Esta opção já aparece habilitada por padrão, mas você pode desabilitá-la se desejar aplicar o desconto a outros tipos de frete. Leia o artigo [Configurar promoções de frete](/pt/tutorial/configurar-promocoes-de-frete--6Lo5BR61KMiUFAAHGCdgfW) para mais informações. Esse critério somente será considerado se o efeito da promoção for relativo ao valor de frete, ou seja, somente se for um dos seguintes efeitos: Frete percentual, Frete nominal, Frete máximo ou Frete grátis.
 - **Aplicar o desconto somente quando uma das transportadoras acima for selecionada pelo cliente:** a promoção será aplicada somente após o cliente efetivamente selecionar a forma de entrega em questão. Enquanto não for selecionada, ela ficará sem o desconto. Esse critério somente será considerado se o efeito da promoção for relativo ao valor de frete, ou seja, somente se for um dos seguintes efeitos: Frete percentual, Frete nominal, Frete máximo ou Frete grátis.
 - **Aplicar para todos os fretes disponíveis:** caso você habilite esta opção, o desconto será aplicado a todas as formas de entregas disponíveis.
 
 - **Destaque nos produtos**: permite definir se a sua loja vai exibir uma faixa de destaque informando sobre a promoção. Veja as opções a seguir:
   - **Sem destaque:** quando selecionada, esta opção não exibe a promoção na vitrine nem na página dos produtos contemplados pela promoção.
-  - **Com destaque:** quando selecionada, esta opção habilita a inserção de uma faixa de destaque com o nome da promoção na vitrine e na página dos produtos contemplados. Para que a faixa seja inserida corretamente, é necessário utilizar o controle de exibição de promoção no template da loja: `<vtex.cmc:discountHightLight/>`. Para mais informações, acesse o nosso artigo [Controles de template](https://help.vtex.com/pt/tutorial/lista-de-controles-para-templates--tutorials_563).
+  - **Com destaque:** quando selecionada, esta opção habilita a inserção de uma faixa de destaque com o nome da promoção na vitrine e na página dos produtos contemplados. Para que a faixa seja inserida corretamente, é necessário utilizar o controle de exibição de promoção no template da loja: `<vtex.cmc:discountHightLight/>`. Para mais informações, acesse o nosso artigo [Controles de template](/pt/tutorial/lista-de-controles-para-templates--tutorials_563).
 
 #### Restringir esta promoção a produtos dos sellers
 
@@ -140,10 +140,10 @@ Para serem válidos na promoção, os produtos precisam atender a todas as condi
 - **Quantas vezes essa promoção será aplicada em sua loja por cliente:** limita a quantidade de vezes em que cada cliente poderá utilizar a promoção. Quando você desmarca a opção **ilimitado**, você precisa incluir a quantidade limite desejada.
 - **Definir quantidade máxima de itens afetados por carrinho:** limita a quantos itens do carrinho a promoção pode ser aplicada. Quando você desmarca a opção **ilimitado**, você precisa incluir a quantidade limite desejada. Exemplo: se você configurar a quantidade limite de 5 itens, mesmo que o seu cliente coloque 10 itens elegíveis para a promoção no carrinho, apenas 5 itens serão beneficiados.
 - **Permitir acumular promoções:** permite que mais de uma promoção com o mesmo tipo de desconto seja concedida ao mesmo tempo.
-- **Permitir acumular com preços manuais:** permite que a promoção seja aplicada a produtos cujos preços foram manualmente inseridos pelo televendas. Para utilizar esta opção, você precisa permitir a [inserção de preços manuais](https://help.vtex.com/pt/tutorial/funcionalidades-de-televendas--UqhiccIRIK2KD0OqkzJaS#inserir-preco-manual) na sua loja.
+- **Permitir acumular com preços manuais:** permite que a promoção seja aplicada a produtos cujos preços foram manualmente inseridos pelo televendas. Para utilizar esta opção, você precisa permitir a [inserção de preços manuais](/pt/tutorial/funcionalidades-de-televendas--UqhiccIRIK2KD0OqkzJaS#inserir-preco-manual) na sua loja.
 
 #### **SAIBA MAIS**
 
- * [Como criar Promoções](https://help.vtex.com/pt/tutorial/como-criar-promocoes)
- * [Como criar Audiências de campanhas](https://help.vtex.com/pt/tutorial/como-criar-campanhas)
+ * [Como criar Promoções](/pt/tutorial/como-criar-promocoes)
+ * [Como criar Audiências de campanhas](/pt/tutorial/como-criar-campanhas)
 

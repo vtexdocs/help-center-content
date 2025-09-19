@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-Para añadir soporte para [3DS](https://help.vtex.com/es/tutorial/what-is-3d-secure--1eWPdop8mECuaEomQgkAIa) (solución de seguridad que permite la autenticación del comprador con el banco emisor) en la integración de Adyen, primero tiene que configurar el conector. Para configurarlo, siga las instrucciones a continuación:
+Para añadir soporte para [3DS](/es/tutorial/what-is-3d-secure--1eWPdop8mECuaEomQgkAIa) (solución de seguridad que permite la autenticación del comprador con el banco emisor) en la integración de Adyen, primero tiene que configurar el conector. Para configurarlo, siga las instrucciones a continuación:
 
 1. En el Admin VTEX, accede a **Configuración de la tienda** > **Pago** > **Configuración**, o escribe **Configuración** en la barra de búsqueda en la parte superior de la página.
 2. Acceda a la pestaña __Afiliaciones__.
@@ -23,7 +23,7 @@ Para añadir soporte para [3DS](https://help.vtex.com/es/tutorial/what-is-3d-sec
 4. Vaya a Live __Endpoint URL Prefix__ y siga este [tutorial](https://help.adyen.com/es_ES/knowledge/ecommerce-integrations/integrations-basics/how-can-i-find-the-endpoint-url-for-my-live-account) de Adyen para obtener la información.
 5. Seleccione la opción __Sí__ en el campo __¿Activar 3D Secure?__.
 6. Elija el modo de 3DS (3DS, 3DS2 o 3DS2 Data only) acordado cuando se creó la asociación comercial con Adyen.
-7. Termine de rellenar los otros campos siguiendo [este tutorial](https://help.vtex.com/es/tutorial/configurar-pagos-con-adyenv3--7xAz67E2Eg63LWCQNjVdwv).
+7. Termine de rellenar los otros campos siguiendo [este tutorial](/es/tutorial/configurar-pagos-con-adyenv3--7xAz67E2Eg63LWCQNjVdwv).
 8. Haga clic en __Salvar__ para guardar los cambios.
 
 ### Habilitar las respuestas de 3DS

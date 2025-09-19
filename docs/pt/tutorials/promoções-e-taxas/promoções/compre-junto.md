@@ -80,7 +80,7 @@ Defina se a promoção será aplicada a todos os sellers ou apenas a sellers esp
 
 ### Selecionar políticas comerciais para aplicar o desconto
 
-Selecione as políticas comerciais que oferecerão o desconto. Você pode oferecer descontos para políticas comerciais onde [sua loja atua como marketplace](https://help.vtex.com/pt/faq/o-que-e-um-marketplace) (Minha loja) ou como seller (Lojas de terceiros - Fulfillment).
+Selecione as políticas comerciais que oferecerão o desconto. Você pode oferecer descontos para políticas comerciais onde [sua loja atua como marketplace](/pt/faq/o-que-e-um-marketplace) (Minha loja) ou como seller (Lojas de terceiros - Fulfillment).
 
 Você pode escolher entre as seguintes opções:
 
@@ -117,7 +117,7 @@ Defina as restrições que serão aplicadas à promoção. As condições permit
 
 - **Número do BIN  do cartão:** aplique a promoção apenas quando forem utilizados cartões de bandeiras, bancos ou categorias específicas identificadas por seus códigos BIN. Importe uma lista de BINs salva em um arquivo de texto (.txt) ou (.csv), com cada BIN descrito em uma linha diferente.
 
-- **Cluster de clientes:** selecione um [cluster de clientes](https://help.vtex.com/pt/tutorial/como-criar-um-cluster-de-clientes) já criado no Master Data, seguindo o formato `field=value` ou `field contains value`. Em seguida escolha uma das seguintes opções:
+- **Cluster de clientes:** selecione um [cluster de clientes](/pt/tutorial/como-criar-um-cluster-de-clientes) já criado no Master Data, seguindo o formato `field=value` ou `field contains value`. Em seguida escolha uma das seguintes opções:
   - **Todos os seguintes:** aplique a promoção apenas se todos os critérios do cluster forem atendidos.
   - **Pelo menos um dos seguintes:** aplique a promoção se pelo menos um dos critérios do cluster for atendido.
 
@@ -139,7 +139,7 @@ Nesta seção, defina se a promoção poderá ser combinada com outras promoçõ
 
 Destaque a promoção na página de produto e adicione dados personalizados para customizações da loja nesta seção.
 
-- **Destacar nos produtos:** marque esta opção para exibir a promoção diretamente nas páginas de produtos. Lembre-se de [configurar essa exibição no módulo CMS](https://help.vtex.com/pt/tutorial/configurando-promocao-com-destaque-flag--tutorials_2295).
+- **Destacar nos produtos:** marque esta opção para exibir a promoção diretamente nas páginas de produtos. Lembre-se de [configurar essa exibição no módulo CMS](/pt/tutorial/configurando-promocao-com-destaque-flag--tutorials_2295).
 - **Informações adicionais:** clique em **Criar** para adicionar campos personalizados com nome e valor, que podem ser usados para customizações na loja.
 
 Veja abaixo o formulário de criar promoções Compre Junto:

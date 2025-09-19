@@ -110,7 +110,7 @@ Para configurar o Itaú Rede, siga os passos abaixo:
 4. Ative a condição no campo __Status__.
 5. Em __Processar com provedor__, selecione a opção __ItauRede__.  
 6. Se desejar utilizar um sistema antifraude, selecione a opção __Usar solução antifraude__.
-7. Se desejar, você também pode [configurar condições especiais de pagamento](https://help.vtex.com/pt/tutorial/condicoes-especiais--tutorials_456).
+7. Se desejar, você também pode [configurar condições especiais de pagamento](/pt/tutorial/condicoes-especiais--tutorials_456).
 8. Clique em `Salvar`.
 
 Depois de seguir os passos indicados, o provedor Itaú Rede pode demorar até 10 minutos para aparecer no Checkout da sua loja como uma opção de pagamento. 

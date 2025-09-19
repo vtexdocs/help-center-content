@@ -19,7 +19,7 @@ Consulta a continuación las respuestas a algunas de las preguntas más frecuent
 
 ## ¿Cómo instalar Google Analytics en tu tienda?
 
-La instalación se realiza a través de [Google Tag Manager](https://help.vtex.com/es/tutorial/integracao-com-o-google-tag-manager#), como se describe en el artículo [Configuración de Google Analytics en tiendas VTEX](https://help.vtex.com/es/tutorial/how-to-setup-google-analytics-in-vtex-store--G2P0rmSrEiqCcmUMyUUwG#).
+La instalación se realiza a través de [Google Tag Manager](/es/tutorial/integracao-com-o-google-tag-manager#), como se describe en el artículo [Configuración de Google Analytics en tiendas VTEX](/es/tutorial/how-to-setup-google-analytics-in-vtex-store--G2P0rmSrEiqCcmUMyUUwG#).
 
 ## ¿De dónde provienen los datos mostrados en Google Analytics? ¿Qué son las etiquetas de Google?
 
@@ -85,7 +85,7 @@ Por su parte, Google Analytics proporciona un embudo de ventas que se genera aut
 
 Las visualizaciones del embudo, por estar basadas en información diferente, pueden presentar divergencias.
 
-Puedes configurar otro embudo de ventas en Google Analytics, que permite una vista personalizada y un mejor control de la jornada de compra. Consulta este artículo sobre cómo [implementar el embudo de ventas en Google Analytics](https://help.vtex.com/es/tutorial/configurar-funil-de-vendas-no-google-analytics).
+Puedes configurar otro embudo de ventas en Google Analytics, que permite una vista personalizada y un mejor control de la jornada de compra. Consulta este artículo sobre cómo [implementar el embudo de ventas en Google Analytics](/es/tutorial/configurar-funil-de-vendas-no-google-analytics).
 
 ## Qué es el funil de ventas de Google Analytics?
 

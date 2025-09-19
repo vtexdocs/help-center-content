@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisES: 'CMS GraphQL API es obligatorio para la gestión de contenido. Actualiza los roles según corresponda.'
 ---
 
-A partir del 15 de febrero, será obligatorio que todos los [usuarios](https://developers.vtex.com/docs/guides/api-authentication-using-user-tokens) y [claves de aplicación](https://developers.vtex.com/docs/guides/api-authentication-using-application-keys) que necesiten acceder a Headless CMS tengan los [recursos](https://help.vtex.com/es/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) de License Manager `See CMS menu on the top-bar` y `Settings` agregados a sus [roles](https://help.vtex.com/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc). Para la gestión de contenido en el Headless CMS, también es necesario contar con el [recurso](https://help.vtex.com/es/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) `CMS GraphQL API`. Este requisito se aplica a la API de Headless CMS y al Admin VTEX.
+A partir del 15 de febrero, será obligatorio que todos los [usuarios](https://developers.vtex.com/docs/guides/api-authentication-using-user-tokens) y [claves de aplicación](https://developers.vtex.com/docs/guides/api-authentication-using-application-keys) que necesiten acceder a Headless CMS tengan los [recursos](/es/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) de License Manager `See CMS menu on the top-bar` y `Settings` agregados a sus [roles](/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc). Para la gestión de contenido en el Headless CMS, también es necesario contar con el [recurso](/es/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) `CMS GraphQL API`. Este requisito se aplica a la API de Headless CMS y al Admin VTEX.
 
 ## ¿Qué cambió?
 Anteriormente, los usuarios y las claves de aplicación podían gestionar el contenido de la tienda en Headless CMS
@@ -31,7 +31,7 @@ Este cambio tiene como objetivo mejorar la seguridad y simplificar el acceso del
 Asegúrate de que los usuarios de Headless CMS tienen sus roles asociados a los recursos `CMS GraphQL API`, `See CMS menu on the top-bar` y `Settings`, ya sea [creando un nuevo rol](#crear-un-nuevo-rol) o [editando uno existente](#editar-rol).
 
 <div style="background-color:#FFF3CD; border-left: 2px solid #F0AD4E; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px; margin-bottom: 35px">
-  Para gestionar usuarios y roles, tu rol de usuario debe estar asociado al recurso `Save access profile` del producto **License Manager** Por ejemplo, [User Administrator - RESTRICTED](https://help.vtex.com/pt/tutorial/predefined-roles--jGDurZKJHvHJS13LnO7Dy#user-administrator-restricted) es un rol predefinido que tiene asociado el recurso `Save access profile`.
+  Para gestionar usuarios y roles, tu rol de usuario debe estar asociado al recurso `Save access profile` del producto **License Manager** Por ejemplo, [User Administrator - RESTRICTED](/pt/tutorial/predefined-roles--jGDurZKJHvHJS13LnO7Dy#user-administrator-restricted) es un rol predefinido que tiene asociado el recurso `Save access profile`.
 
 </div>
 

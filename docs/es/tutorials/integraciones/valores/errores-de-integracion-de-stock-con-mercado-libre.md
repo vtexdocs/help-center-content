@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 7lxg0kyL3TYIsrlSQlf1zP
 ---
 
-A veces se producen errores de integración de _stock_ en los _marketplaces_ para los que VTEX ha desarrollado un [conector nativo](https://help.vtex.com/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-con-un-conector-nativo-vtex). Este artículo reúne los errores más frecuentes de integración de _stock_ con Mercado Libre y explica cómo resolverlos.
+A veces se producen errores de integración de _stock_ en los _marketplaces_ para los que VTEX ha desarrollado un [conector nativo](/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-con-un-conector-nativo-vtex). Este artículo reúne los errores más frecuentes de integración de _stock_ con Mercado Libre y explica cómo resolverlos.
 
 Hay mensajes que identifican cuáles son los errores. Puedes verlos en el Admin VTEX, en **MARKETPLACE > Conexiones > Stock**, haciendo clic en el mensaje de proceso con error.
 
@@ -29,7 +29,7 @@ A continuación se muestran los principales mensajes de error de integración de
 
 **Mensaje traducido:** Mensaje de error no mapeado por la integración. Ponte en contacto con VTEX informando de lo sucedido para que se pueda realizar el mapeo. Mensaje en Mercado Libre: Error de validación. No se puede activar un ítem sin stock.
 
-La causa más común del error es la falta de _stock_, y en Mercado Libre no se puede activar un ítem sin _stock_. Por lo tanto, se debe [actualizar la cantidad de los SKU en stock](https://help.vtex.com/es/tutorial/como-atualizar-estoque--2MDwYV1COA6YuoiY22AyGo) y volver a procesar el error. Si el error persiste tras volver a procesarlo de forma manual, otra posible causa es que el SKU esté inactivo. Verifica el _status_ del SKU en tu Admin, en **Catálogo > Productos y SKU**. Una tercera posibilidad es que el ítem no esté correctamente marcado en la colección o en la política comercial definida para Mercado Libre. Si es necesario, consulta el artículo [Asociación de SKU a una política comercial](https://help.vtex.com/es/tutorial/associacao-de-sku-a-politica-comercial--1qFAiybogHCStRO65sy4vb).
+La causa más común del error es la falta de _stock_, y en Mercado Libre no se puede activar un ítem sin _stock_. Por lo tanto, se debe [actualizar la cantidad de los SKU en stock](/es/tutorial/como-atualizar-estoque--2MDwYV1COA6YuoiY22AyGo) y volver a procesar el error. Si el error persiste tras volver a procesarlo de forma manual, otra posible causa es que el SKU esté inactivo. Verifica el _status_ del SKU en tu Admin, en **Catálogo > Productos y SKU**. Una tercera posibilidad es que el ítem no esté correctamente marcado en la colección o en la política comercial definida para Mercado Libre. Si es necesario, consulta el artículo [Asociación de SKU a una política comercial](/es/tutorial/associacao-de-sku-a-politica-comercial--1qFAiybogHCStRO65sy4vb).
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 **Mensaje traducido:** Mensaje de error no mapeado por la integración. Ponte en contacto con VTEX informando de lo sucedido para que se pueda realizar el mapeo. Mensaje en Mercado Libre: ProductId no encontrado.
 
-Para que un ítem se integre a Mercado Libre, al [rellenar los campos de registro de este producto](https://help.vtex.com/es/tutorial/campos-de-cadastro-de-produto--4dYXWIK3zyS8IceKkQseke) es necesario que las opciones **Mostrar en la tienda** y **Mostrar producto agotado** estén activadas. De lo contrario, los SKU de este producto no se integrarán a Mercado Libre.
+Para que un ítem se integre a Mercado Libre, al [rellenar los campos de registro de este producto](/es/tutorial/campos-de-cadastro-de-produto--4dYXWIK3zyS8IceKkQseke) es necesario que las opciones **Mostrar en la tienda** y **Mostrar producto agotado** estén activadas. De lo contrario, los SKU de este producto no se integrarán a Mercado Libre.
 
 ____
 
@@ -83,7 +83,7 @@ ____
 
 `La cantidad disponible no es modificable en items con logistica Fulfillment`
 
-Cuando el _seller_ elige el servicio [Mercado Envíos Full](https://help.vtex.com/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/4551ZlEQI8qmiSWieigoKy#mercado-envios-full), Mercado Libre es el responsable del _fulfillment_ del pedido. En otras palabras, la logística de la entrega del producto al consumidor final es responsabilidad del propio _marketplace_. En este caso, Mercado Libre controla el _stock_, y VTEX no puede actualizar el _stock_ para anuncios de este tipo.
+Cuando el _seller_ elige el servicio [Mercado Envíos Full](/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/4551ZlEQI8qmiSWieigoKy#mercado-envios-full), Mercado Libre es el responsable del _fulfillment_ del pedido. En otras palabras, la logística de la entrega del producto al consumidor final es responsabilidad del propio _marketplace_. En este caso, Mercado Libre controla el _stock_, y VTEX no puede actualizar el _stock_ para anuncios de este tipo.
 
 ____
 
@@ -93,7 +93,7 @@ ____
 
 **Mensaje traducido:** Los atributos GTIN son obligatorios para la categoría. Verifica si el atributo está presente en la lista de atributos o en todas las variaciones attributes_combination o attributes.
 
-También llamado EAN en VTEX, el GTIN es el código de identificación único de un SKU. Se trata del código de barras [rellenado en el registro de SKU](https://help.vtex.com/es/tutorial/campos-de-cadastro-de-sku--21DDItuEQc6mseiW8EakcY), y el mensaje indica que el GTIN es obligatorio para la categoría a la que pertenece el SKU. Si el código se ha rellenado incorrectamente o no es válido, el SKU no se integrará a Mercado Libre. Proporcionar el GTIN correcto de un producto es responsabilidad de los proveedores y fabricantes. VTEX no genera códigos de barras para suplir este escenario.
+También llamado EAN en VTEX, el GTIN es el código de identificación único de un SKU. Se trata del código de barras [rellenado en el registro de SKU](/es/tutorial/campos-de-cadastro-de-sku--21DDItuEQc6mseiW8EakcY), y el mensaje indica que el GTIN es obligatorio para la categoría a la que pertenece el SKU. Si el código se ha rellenado incorrectamente o no es válido, el SKU no se integrará a Mercado Libre. Proporcionar el GTIN correcto de un producto es responsabilidad de los proveedores y fabricantes. VTEX no genera códigos de barras para suplir este escenario.
 
 ____
 
@@ -107,7 +107,7 @@ ____
 
 **Mensaje traducido:** Error al convertir el _token_ de acceso.
 
-Los mensajes indican que hay un problema con tu _token_. Mercado Libre puede considerar que un _token_ no es válido por diferentes razones, como un periodo de caducidad expirado o una sospecha de amenaza a la seguridad, por ejemplo. Los asuntos relacionados con _tokens_ deben tratarse directamente con Mercado Libre. Una vez resuelto el error, es necesario [volver a autorizar la integración](https://help.vtex.com/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/4leBEAd22Icm46kGeiGgak) con Mercado Libre en el Admin VTEX. Si el error persiste, puede que sea necesario volver a [configurar el registro del conector](https://help.vtex.com/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/4YvYdgICMosaEgISOYogsi) en el Admin VTEX y luego autorizar la integración otra vez.
+Los mensajes indican que hay un problema con tu _token_. Mercado Libre puede considerar que un _token_ no es válido por diferentes razones, como un periodo de caducidad expirado o una sospecha de amenaza a la seguridad, por ejemplo. Los asuntos relacionados con _tokens_ deben tratarse directamente con Mercado Libre. Una vez resuelto el error, es necesario [volver a autorizar la integración](/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/4leBEAd22Icm46kGeiGgak) con Mercado Libre en el Admin VTEX. Si el error persiste, puede que sea necesario volver a [configurar el registro del conector](/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/4YvYdgICMosaEgISOYogsi) en el Admin VTEX y luego autorizar la integración otra vez.
 
 ____
 
@@ -122,6 +122,6 @@ Un usuario puede ser desactivado en Mercado Libre por diversos motivos, desde ha
 <br></br>
 ### Sepa más
 
-- [Integración con Mercado Libre](https://help.vtex.com/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq)
-- [Control de stock mínimo para integraciones](https://help.vtex.com/es/tutorial/controle-de-estoque-minimo-para-integracoes--5hvUNIiSeJ5QCaZQYpYf1D)
-- [Configurar la Alerta de Stock Crítico](https://help.vtex.com/es/tutorial/configurar-o-alerta-de-estoque-critico--6FD0GHeQPCsKIMgkQ88SGu)
+- [Integración con Mercado Libre](/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq)
+- [Control de stock mínimo para integraciones](/es/tutorial/controle-de-estoque-minimo-para-integracoes--5hvUNIiSeJ5QCaZQYpYf1D)
+- [Configurar la Alerta de Stock Crítico](/es/tutorial/configurar-o-alerta-de-estoque-critico--6FD0GHeQPCsKIMgkQ88SGu)

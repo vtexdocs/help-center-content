@@ -41,7 +41,7 @@ To add a new user to the organization, follow these steps:
             <li>**Email:** User email.</li>
             <li>**Organization:** Name of the organization.</li>
             <li>**Cost Center:** Cost center with which the user will be associated.</li>
-            <li>**Role:** Role that the user will have in the store. See more details on the available roles in the [Permissions management in B2B Suite documentation](https://help.vtex.com/en/tutorial/gerenciamento-de-permissoes-no-b2b-suite--2PLR7mIFxgbmsGq84paLeA).</li>
+            <li>**Role:** Role that the user will have in the store. See more details on the available roles in the [Permissions management in B2B Suite documentation](/en/tutorial/gerenciamento-de-permissoes-no-b2b-suite--2PLR7mIFxgbmsGq84paLeA).</li>
         </ul>
     </li>
     <li>Click `Save`.</li>

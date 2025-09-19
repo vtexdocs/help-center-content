@@ -19,4 +19,4 @@ We constantly receive requests and feedbacks about the need to export more order
 
 We are working to raise that limit even further. Soon, it will be possible to export up to 50 thousand orders at a time. The change is being implemented in phases to ensure product safety and stability.
 
-To understand more deeply how orders export work in your VTEX store, read the article [Exporting orders in Orders managment](https://help.vtex.com/en/tutorial/exportando-pedidos-no-gerenciamento-de-pedidos--tutorials_6417).
+To understand more deeply how orders export work in your VTEX store, read the article [Exporting orders in Orders managment](/en/tutorial/exportando-pedidos-no-gerenciamento-de-pedidos--tutorials_6417).

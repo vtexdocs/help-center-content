@@ -15,16 +15,16 @@ announcementImageID: 'undefined'
 announcementSynopsisES: 'Nueva regla de desempate en VTEX da prioridad a sellers con entregas a menor distancia del comprador.'
 ---
 
-Con el objetivo de mejorar la experiencia del comprador, hemos implementado una nueva regla para el último criterio de desempate en la [asignación de pedidos en VTEX](https://help.vtex.com/es/tutorial/seleccion-de-sellers-white-label--3MemNQ4pKkWCpMdzI27AHa). A partir del 7 de julio de 2025, en lugar de una elección aleatoria, el desempate se basará en la menor distancia entre el seller y el comprador.
+Con el objetivo de mejorar la experiencia del comprador, hemos implementado una nueva regla para el último criterio de desempate en la [asignación de pedidos en VTEX](/es/tutorial/seleccion-de-sellers-white-label--3MemNQ4pKkWCpMdzI27AHa). A partir del 7 de julio de 2025, en lugar de una elección aleatoria, el desempate se basará en la menor distancia entre el seller y el comprador.
 
 ## ¿Qué cambió?
 
 El flujo actual de asignación de pedidos sigue los pasos que se indican a continuación:
 
-1. Eliminación de sellers que no atienden la [región del pedido](https://help.vtex.com/es/tutorial/configurar-la-regionalizacion-del-seller--32t6wLpQCEnumoh8TjT5fw) o no tienen suficiente stock para al menos un ítem del carrito.
+1. Eliminación de sellers que no atienden la [región del pedido](/es/tutorial/configurar-la-regionalizacion-del-seller--32t6wLpQCEnumoh8TjT5fw) o no tienen suficiente stock para al menos un ítem del carrito.
 2. Reducción del conjunto de sellers a un máximo de doce, considerando:
-    * **Para la entrega**, el menor costo de envío (registrado en la [tabla de envío](https://help.vtex.com/es/tutorial/plantilla-de-flete--tutorials_127)) y el plazo.
-    * **Para la recogida**: el menor costo de envío (registrado en la [tabla de envío](https://help.vtex.com/es/tutorial/plantilla-de-flete--tutorials_127)), plazo y menor distancia entre el comprador y el punto de recogida .
+    * **Para la entrega**, el menor costo de envío (registrado en la [tabla de envío](/es/tutorial/plantilla-de-flete--tutorials_127)) y el plazo.
+    * **Para la recogida**: el menor costo de envío (registrado en la [tabla de envío](/es/tutorial/plantilla-de-flete--tutorials_127)), plazo y menor distancia entre el comprador y el punto de recogida .
     * Cantidad de stock como criterio de desempate.
 3. Dentro de ese máximo de doce sellers previamente seleccionados, la priorización se lleva a cabo considerando:
     * Menor precio total de los ítems y mayor disponibilidad de productos en el carrito.

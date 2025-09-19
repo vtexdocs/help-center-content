@@ -71,6 +71,6 @@ Estas são as informações apresentadas nos cards dos remetentes:
 - Botão para executar um teste de envio de mensagem.
 - Ícone indicando se o remetente passou ou não no teste de envio (não exibido se nenhum teste recente foi realizado). Mostra um check verde se passou e um "x" vermelho se não passou.
 
-Vale ressaltar que é imprescindível personalizar o remetente. Assim, seus clientes  receberão as mensagens com o nome e o endereço de e-mail da sua empresa. Para saber mais sobre esse assunto, confira o [artigo sobre como editar o servidor de e-mails VTEX](https://help.vtex.com/pt/tutorial/personalizando-o-smtp-da-vtex).
+Vale ressaltar que é imprescindível personalizar o remetente. Assim, seus clientes  receberão as mensagens com o nome e o endereço de e-mail da sua empresa. Para saber mais sobre esse assunto, confira o [artigo sobre como editar o servidor de e-mails VTEX](/pt/tutorial/personalizando-o-smtp-da-vtex).
 
 Até que sua loja faça essa configuração, os e-mails serão enviados com o remetente padrão “noreply@vtexcommerce.com.br”.

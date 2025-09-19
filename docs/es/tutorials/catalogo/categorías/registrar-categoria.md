@@ -48,7 +48,7 @@ Para entender mejor el significado de cada campo del registro de categoría, vea
 - __Ativo:__ al seleccionar ese ítem, la categoría o el departamento se activa o desactiva en su tienda.
 - __Menu con enlace activo:__ al seleccionar ese ítem, la categoría o departamento queda activa y clicable en el sitio para que el cliente navegue a través de ella.
 - __Filtro de marca:__ al seleccionar ese ítem, la categoría o el departamento pasa a tener un filtro para marca en la página.
-- __Score (utilizado para ordenación de búsqueda):__ valor utilizado para definir la prioridad en la página de resultados de búsqueda. Para entender más sobre Score, accede a nuestro artículo [¿Cómo funciona el campo Score?](https://help.vtex.com/es/tutorial/como-funciona-el-campo-score--1BUZC0mBYEEIUgeQYAKcae).
+- __Score (utilizado para ordenación de búsqueda):__ valor utilizado para definir la prioridad en la página de resultados de búsqueda. Para entender más sobre Score, accede a nuestro artículo [¿Cómo funciona el campo Score?](/es/tutorial/como-funciona-el-campo-score--1BUZC0mBYEEIUgeQYAKcae).
 - __Modo de visualización de los productos:__ define cómo se mostrarán los SKUs en la página del producto. Vea abajo las opciones de relleno de este campo:
   - __Lista de SKUs:__ todos los SKUs del departamento o categoría en cuestión se mostrarán en el formato de lista. Cada uno con su botón de Comprar al lado.
   ![1Lista.es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/categor%C3%ADas/registrar-categoria_1.png)
@@ -59,9 +59,9 @@ Para entender mejor el significado de cada campo del registro de categoría, vea
 
 ## Más información
 
-- [¿Qué es una Categoría?](https://help.vtex.com/es/tutorial/que-es-una-categoria--6HV4Q3E2FauUoOQoiCCgCg)
-- [¿Qué es un Departamento?](https://help.vtex.com/es/tutorial/que-es-un-departamento--22rKjmYWVmmKAK8CWa8yKw)
-- [¿Qué es una Subcategoría?](https://help.vtex.com/es/tutorial/que-es-una-subcategoria--2cb0aRkG3i6AeiAMM24iwY)
+- [¿Qué es una Categoría?](/es/tutorial/que-es-una-categoria--6HV4Q3E2FauUoOQoiCCgCg)
+- [¿Qué es un Departamento?](/es/tutorial/que-es-un-departamento--22rKjmYWVmmKAK8CWa8yKw)
+- [¿Qué es una Subcategoría?](/es/tutorial/que-es-una-subcategoria--2cb0aRkG3i6AeiAMM24iwY)
 - [Limpiar base de datos de la tienda](/es/tutorial/limpiar-base-de-datos-de-la-tienda)
-- [Registrar un producto](https://help.vtex.com/es/tutorial/cadastrando-produtos--tutorials_2567)
-- [Registrar un SKU](https://help.vtex.com/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ)
+- [Registrar un producto](/es/tutorial/cadastrando-produtos--tutorials_2567)
+- [Registrar un SKU](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ)

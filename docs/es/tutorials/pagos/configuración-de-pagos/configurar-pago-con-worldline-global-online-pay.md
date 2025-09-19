@@ -36,8 +36,8 @@ Para configurar Worldline Global Online Pay, siga los pasos a continuación:
 8. En **Campos del Proveedor**, seleccione o complete los campos **Environment, Merchant ID, Webhooks Key, Webhooks Secret, Payment action, Automatic capture, Enable 3-D secure authentication, Request authentication exemption for low-value baskets, Enforce strong customer authentication for every payment, Enable group cards, Template file name, Oney3x4x payment option, Session Timeout, Direct Debit Recurrence Type, Direct Debit Signature Type, Bank transfer by Worldline Instant payment only** según las instrucciones del proveedor.
 9. Haga clic en `Guardar`.
 
-Para configurar los métodos de pago a procesar por Worldline Global Online Pay, acceda al [Configurar Condiciones de Pago](https://help.vtex.com/es/tutorial/condiciones-de-pago--tutorials_455#).
+Para configurar los métodos de pago a procesar por Worldline Global Online Pay, acceda al [Configurar Condiciones de Pago](/es/tutorial/condiciones-de-pago--tutorials_455#).
 
-Para establecer condiciones especiales en los métodos de pago, acceda al [Configurar condiciones especiales de Pago](https://help.vtex.com/es/tutorial/condiciones-especiales--tutorials_456#).
+Para establecer condiciones especiales en los métodos de pago, acceda al [Configurar condiciones especiales de Pago](/es/tutorial/condiciones-especiales--tutorials_456#).
 
 Después de seguir los pasos indicados, Worldline Global Online Pay puede tardar hasta 10 minutos en aparecer en el checkout de tu tienda como una opción de pago.

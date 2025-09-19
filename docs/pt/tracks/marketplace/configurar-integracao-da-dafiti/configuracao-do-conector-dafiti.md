@@ -25,7 +25,7 @@ A configuração do conector é feita no Admin. Para realizá-la, siga as instru
 
 - **Ambiente*:** escolha a opção _Produção_ para utilizar o ambiente real de vendas da Dafiti. Esta é a configuração sugerida. Caso você queira realizar algum teste na integração, marque _QA_. O _token_ e o acesso ao ambiente teste são disponibilizados pela Dafiti.
 
-- **ID do afiliado*:** código identificador para criação de um [afiliado](https://help.vtex.com/pt/tutorial/o-que-e-afiliado) que ainda não esteja cadastrado no seu sistema. O código deve ser composto de três consoantes, sejam elas repetidas ou não, vogais não são aceitas. Sugestão: DFT. A configuração do conector cria automaticamente o afiliado.
+- **ID do afiliado*:** código identificador para criação de um [afiliado](/pt/tutorial/o-que-e-afiliado) que ainda não esteja cadastrado no seu sistema. O código deve ser composto de três consoantes, sejam elas repetidas ou não, vogais não são aceitas. Sugestão: DFT. A configuração do conector cria automaticamente o afiliado.
 
 - **Política comercial*:** ID da política comercial que será utilizada para a integração com a Dafiti. Todos os produtos vinculados a esta política comercial serão enviados para o marketplace.
 
@@ -39,9 +39,9 @@ A configuração do conector é feita no Admin. Para realizá-la, siga as instru
 
 - **Permitir HTML na descrição do produto*:** determina se a descrição dos produtos será enviada com tags em HTML para a Dafiti. Marcando _Sim_, será enviada a descrição exatamente como cadastrada na plataforma VTEX, mantendo a estilização de texto em bold ou itálico, por exemplo. Marcando _Não_, a integração vai remover as tags HTML da descrição dos seus produtos.
 
-- **FOB*:** tipo de frete, chamado _free on board_, no qual o tipo de entrega do produto, sua cobrança e emissão da etiqueta são definidos e realizados pelo marketplace. Ao marcar _Sim_, a Dafiti se torna a responsável pelo frete. Ao escolher _Não_, o frete é definido de acordo com sua [estratégia de envio](https://help.vtex.com/pt/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/55MezrFTw2limlgT7KUg6l) na VTEX. Para mais informações, veja [Como funciona o frete quando a entrega é feita pelo marketplace](https://help.vtex.com/pt/tutorial/como-funciona-o-frete-quando-o-marketplace-faz-a-entrega--EY1l6tYW3IUquwwwcQqwQ).
+- **FOB*:** tipo de frete, chamado _free on board_, no qual o tipo de entrega do produto, sua cobrança e emissão da etiqueta são definidos e realizados pelo marketplace. Ao marcar _Sim_, a Dafiti se torna a responsável pelo frete. Ao escolher _Não_, o frete é definido de acordo com sua [estratégia de envio](/pt/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/55MezrFTw2limlgT7KUg6l) na VTEX. Para mais informações, veja [Como funciona o frete quando a entrega é feita pelo marketplace](/pt/tutorial/como-funciona-o-frete-quando-o-marketplace-faz-a-entrega--EY1l6tYW3IUquwwwcQqwQ).
 
-- **Enviar KIT*:** ao escolher _Não_, SKUs [cadastrados como kit](https://help.vtex.com/pt/tutorial/cadastrando-kit--tutorials_215) não são enviados para a Dafiti. Ao habilitar _Sim_, todos os itens da sua política comercial são enviados para o marketplace, sem filtrar SKUs cadastrados como kit. Mudanças na configuração do conector podem ser feitas a qualquer momento, sendo que isso não afeta SKUs que já tenham sido enviados. Por exemplo, se você mudasse sua configuração de _Sim_ para _Não_, SKUs enviados anteriormente para a Dafiti não seriam removidos ou sofreriam qualquer alteração.
+- **Enviar KIT*:** ao escolher _Não_, SKUs [cadastrados como kit](/pt/tutorial/cadastrando-kit--tutorials_215) não são enviados para a Dafiti. Ao habilitar _Sim_, todos os itens da sua política comercial são enviados para o marketplace, sem filtrar SKUs cadastrados como kit. Mudanças na configuração do conector podem ser feitas a qualquer momento, sendo que isso não afeta SKUs que já tenham sido enviados. Por exemplo, se você mudasse sua configuração de _Sim_ para _Não_, SKUs enviados anteriormente para a Dafiti não seriam removidos ou sofreriam qualquer alteração.
 
   > ℹ️ Com a opção *Não* ativada, tentativas de envio para a Dafiti de SKUs cadastrados como kit resultarão no seguinte aviso: *O conector está configurado para não enviar SKUs do tipo Kit*. Esta mensagem pode ser visualizada no Admin, no módulo **Marketplace> Conexões> Produtos,** ao se clicar sobre o SKU.
 
@@ -54,7 +54,7 @@ A configuração do conector é feita no Admin. Para realizá-la, siga as instru
 - **NCM:** é a Nomenclatura Comum do Mercosul (NCM), que define a alíquota de impostos comum ao bloco. Para determinados produtos, é necessário informar neste campo o nome único da especificação do produto ou SKU responsável, que contém a informação do NCM no catálogo.
 - **Client Id:** código único atribuído a um seller para acessar a integração.
 - **Client Secret:** código único utilizado para autenticação da integração.
-- **Mapeamento de Campos Customizados (Nome e descrição):**  Para utilizar esse mapeamento é necessário criar um campo customizado. Para saber como criar campos customizados, acesse a documentação [Cadastrar especificações ou campos de produto](https://help.vtex.com/pt/tutorial/criando-um-campo-de-produto--tutorials_106).  
+- **Mapeamento de Campos Customizados (Nome e descrição):**  Para utilizar esse mapeamento é necessário criar um campo customizado. Para saber como criar campos customizados, acesse a documentação [Cadastrar especificações ou campos de produto](/pt/tutorial/criando-um-campo-de-produto--tutorials_106).  
 
 > ℹ️ O mapeamento de campos customizáveis está disponível apenas para **nome do produto** e **descrição do produto**. **Exemplo de nome para o novo campo:** `DFT_ProductName` para nome do produto e `DFT_ProductDescription` para descrição do produto.  
 

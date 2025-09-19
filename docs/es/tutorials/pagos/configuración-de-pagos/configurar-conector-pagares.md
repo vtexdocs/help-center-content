@@ -28,4 +28,4 @@ Para configurarlo, siga los pasos a continuación:
 6. Haga clic en `Guardar`.
 
 ## Configurar la condición de pago
-Después de seguir los pasos indicados arriba, el conector Pagarés estará configurado en su tienda. Por lo tanto, cuando se registre un Pagaré (en la pestaña __Pagos personalizados__ de la página de __Configuración__ de Pagos), estará disponible en el campo __Procesar con la afiliación__. Para saber cómo registrar pagos personalizados, acceda a [Configurar pago personalizado](https://help.vtex.com/es/tutorial/como-configurar-pagamento-personalizado).
+Después de seguir los pasos indicados arriba, el conector Pagarés estará configurado en su tienda. Por lo tanto, cuando se registre un Pagaré (en la pestaña __Pagos personalizados__ de la página de __Configuración__ de Pagos), estará disponible en el campo __Procesar con la afiliación__. Para saber cómo registrar pagos personalizados, acceda a [Configurar pago personalizado](/es/tutorial/como-configurar-pagamento-personalizado).

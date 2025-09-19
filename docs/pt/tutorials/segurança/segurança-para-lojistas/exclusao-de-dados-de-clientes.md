@@ -21,7 +21,7 @@ De acordo com regulações de proteção de dados, como a [LGPD e a GDPR](https:
 
 Antes de [solicitar a exclusão de dados de clientes via Copilot](#solicitar-exclusao-de-dados-do-cliente-via-copilot), siga estas etapas:
 
-1. **Identifique onde os dados estão armazenados:** Verifique quais entidades de dados do [Master Data](https://help.vtex.com/pt/tutorial/master-data--4otjBnR27u4WUIciQsmkAw) armazenam dados de clientes na sua operação.
+1. **Identifique onde os dados estão armazenados:** Verifique quais entidades de dados do [Master Data](/pt/tutorial/master-data--4otjBnR27u4WUIciQsmkAw) armazenam dados de clientes na sua operação.
 2. **Exclua entidades personalizadas manualmente:** Se sua loja armazena dados de clientes em entidades personalizadas, você deverá excluí-las manualmente antes de solicitar a remoção via Copilot. Para instruções, consulte a seção [Entidades de dados personalizadas](#entidades-de-dados-personalizadas). Siga este processo apenas para entidades personalizadas. Não exclua as [entidades nativas](#entidades-nativas-do-master-data) CL e AD do Master Data.
 
 ### Entidades nativas do Master Data
@@ -40,7 +40,7 @@ Se sua loja armazena informações de clientes em entidades de dados personaliza
 
 ## 2. Configurar perfil de acesso
 
-Para solicitar a exclusão de dados, crie um [perfil de acesso customizado](https://help.vtex.com/pt/tutorial/criar-perfil-de-acesso) chamado **Lei Geral de Proteção de Dados** com os seguintes recursos do [License Manager](https://help.vtex.com/pt/tutorial/license-manager-resources):
+Para solicitar a exclusão de dados, crie um [perfil de acesso customizado](/pt/tutorial/criar-perfil-de-acesso) chamado **Lei Geral de Proteção de Dados** com os seguintes recursos do [License Manager](/pt/tutorial/license-manager-resources):
 
 - **Write user rights requests** (do produto **User Rights**);
 - **Open Support Ticket** (do produto **VTEX Support**).

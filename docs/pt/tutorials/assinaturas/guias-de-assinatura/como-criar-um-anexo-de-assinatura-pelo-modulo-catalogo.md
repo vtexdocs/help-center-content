@@ -15,18 +15,18 @@ locale: pt
 subcategoryId: 1rA9wuuskW3PpjvMrhatAM
 ---
 
-> ℹ️ Caso você utilize o módulo de **Assinaturas** no Admin VTEX, recomendamos criar um plano de assinatura por esse módulo. Para mais informações, veja o artigo [Como criar um plano de assinatura](https://help.vtex.com/pt/tutorial/como-criar-um-plano-de-assinatura-beta--1qGRoFczm98Wgt81f9mUqC).
+> ℹ️ Caso você utilize o módulo de **Assinaturas** no Admin VTEX, recomendamos criar um plano de assinatura por esse módulo. Para mais informações, veja o artigo [Como criar um plano de assinatura](/pt/tutorial/como-criar-um-plano-de-assinatura-beta--1qGRoFczm98Wgt81f9mUqC).
 
-[Assinaturas](https://help.vtex.com/pt/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453) é a solução da VTEX que permite aos lojistas venderem de forma recorrente e automática para os clientes assinantes, de acordo com determinada frequência.
+[Assinaturas](/pt/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453) é a solução da VTEX que permite aos lojistas venderem de forma recorrente e automática para os clientes assinantes, de acordo com determinada frequência.
 
 Existem duas formas pelas quais os produtos da sua loja podem ser adquiridos via assinatura:
 
-* Criação de [planos de assinatura](https://help.vtex.com/pt/tutorial/como-criar-um-plano-de-assinatura-beta--1qGRoFczm98Wgt81f9mUqC) pelo módulo **Assinatura**.
+* Criação de [planos de assinatura](/pt/tutorial/como-criar-um-plano-de-assinatura-beta--1qGRoFczm98Wgt81f9mUqC) pelo módulo **Assinatura**.
 * Criação de anexos de assinatura pelo módulo **Catálogo**.
 
 Este artigo explica como criar anexos de assinatura pelo **Catálogo**, o que é recomendado quando a loja não utiliza o módulo **Assinaturas (Beta)**.
 
-> ⚠️ É importante compreender a utilização do termo anexo no contexto de assinaturas:<ul><li>[Anexo](https://help.vtex.com/pt/tutorial/o-que-e-um-anexo--aGICk0RVbqKg6GYmQcWUm): é uma customização do SKU opcional e sem custos, uma forma do lojista adicionar informação a um item.</li><li>**Anexo de assinatura:** é um tipo específico de anexo que possibilita a criação de assinaturas para um SKU. Os clientes podem criar assinaturas para obter o SKU periodicamente quando ele foi associado a um anexo de assinatura.</li><li>**Assinatura de SKU com anexo:** quando o cliente cria uma assinatura a partir de um pedido com um SKU que possui anexo, para que o anexo do pedido original seja mantido nos pedidos da assinatura, o lojista precisa habilitar essa configuração na loja. Isso é feito somente por API usando o endpoint [Edit subscriptions settings](https://developers.vtex.com/docs/api-reference/subscriptions-api-v3#post-/api/rns/settings). Saiba mais em [How to keep attachments from original orders in subscriptions](https://developers.vtex.com/docs/guides/how-to-keep-attachments-from-original-orders-in-subscriptions).</li></ul>
+> ⚠️ É importante compreender a utilização do termo anexo no contexto de assinaturas:<ul><li>[Anexo](/pt/tutorial/o-que-e-um-anexo--aGICk0RVbqKg6GYmQcWUm): é uma customização do SKU opcional e sem custos, uma forma do lojista adicionar informação a um item.</li><li>**Anexo de assinatura:** é um tipo específico de anexo que possibilita a criação de assinaturas para um SKU. Os clientes podem criar assinaturas para obter o SKU periodicamente quando ele foi associado a um anexo de assinatura.</li><li>**Assinatura de SKU com anexo:** quando o cliente cria uma assinatura a partir de um pedido com um SKU que possui anexo, para que o anexo do pedido original seja mantido nos pedidos da assinatura, o lojista precisa habilitar essa configuração na loja. Isso é feito somente por API usando o endpoint [Edit subscriptions settings](https://developers.vtex.com/docs/api-reference/subscriptions-api-v3#post-/api/rns/settings). Saiba mais em [How to keep attachments from original orders in subscriptions](https://developers.vtex.com/docs/guides/how-to-keep-attachments-from-original-orders-in-subscriptions).</li></ul>
 
 ## Anexo de assinatura do Catálogo
 
@@ -104,6 +104,6 @@ Feito isso, os clientes poderão criar assinaturas na sua loja para adquirir de 
 
 ### Saiba mais
 
-* [Como funciona a assinatura](https://help.vtex.com/pt/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453)
-* [Como configurar Assinaturas na sua loja](https://help.vtex.com/pt/tutorial/como-configurar-assinaturas--1FA9dfE7vJqxBna9Nft5Sj)
+* [Como funciona a assinatura](/pt/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453)
+* [Como configurar Assinaturas na sua loja](/pt/tutorial/como-configurar-assinaturas--1FA9dfE7vJqxBna9Nft5Sj)
 * [How to keep attachments from original orders in subscriptions](https://developers.vtex.com/docs/guides/how-to-keep-attachments-from-original-orders-in-subscriptions)

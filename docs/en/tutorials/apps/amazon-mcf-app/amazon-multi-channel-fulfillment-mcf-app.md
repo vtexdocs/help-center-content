@@ -30,7 +30,7 @@ This tutorial contains the necessary information to install and configure the ap
 
 Before installing the app:
 
-- Make sure you have an [Amazon seller](https://sell.amazon.com/) account. Please refer to the article [Amazon account configuration](https://help.vtex.com/en/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/43L0dpbjLBz6tcim1BbTzf) to learn more about required account settings.
+- Make sure you have an [Amazon seller](https://sell.amazon.com/) account. Please refer to the article [Amazon account configuration](/en/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/43L0dpbjLBz6tcim1BbTzf) to learn more about required account settings.
 - Verify if the products in your store meet [Amazon's restriction policies](https://sellercentral.amazon.com/gp/help/external/200164330)
 - Ensure that your store is located in one of the countries where MCF is available. Amazon MCF is available in some countries, such as the United States, Australia, Mexico, Germany and Canada. Check out the updated list of countries where MCF is available on [Amazon's page](https://sell.amazon.com/fulfillment-by-amazon/fba-multi-channel).
 
@@ -73,7 +73,7 @@ To configure this, please go to Admin and follow the steps below:
 
 In both steps 8 and 10, the key to be filled in is the Google geolocation key. To generate a key, [please refer to Google's developer guide on how to generate a key](https://developers.google.com/maps/documentation/geocoding/overview).
 
-> ℹ️ If you have questions about Google geolocation key, please read in detail how the VTEX platform uses this configuration in the articles [Setting up geolocation at checkout](https://help.vtex.com/en/tutorial/geolocation-at-checkout--tutorials_4345) and [Registering geolocation](https://help.vtex.com/en/tutorial/registering-geolocation--tutorials_138).
+> ℹ️ If you have questions about Google geolocation key, please read in detail how the VTEX platform uses this configuration in the articles [Setting up geolocation at checkout](/en/tutorial/geolocation-at-checkout--tutorials_4345) and [Registering geolocation](/en/tutorial/registering-geolocation--tutorials_138).
 
 ### Installing the app
 
@@ -103,7 +103,7 @@ To install the app, go to the VTEX App Store:
 
 For items registered in one platform to be available in both, it is necessary to integrate the catalogs via marketplace.
 
-To integrate the platforms, please refer to and follow the steps in the tutorial [Configuring the Amazon integration](https://help.vtex.com/en/tracks/amazon-integration-setup--6sgd4Pagy3wNsWKBvmIFrP/5J9CWPIbYQdAegJJWGsxan).
+To integrate the platforms, please refer to and follow the steps in the tutorial [Configuring the Amazon integration](/en/tracks/amazon-integration-setup--6sgd4Pagy3wNsWKBvmIFrP/5J9CWPIbYQdAegJJWGsxan).
 
 ### Authorizing the integration
 

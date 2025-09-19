@@ -18,9 +18,9 @@ subcategoryId: 4y4ylvqceE6vVqEF8IWZix
 > ❗ Funcionalidade disponível apenas para os planos Business e Enterprise.
 
 Além de organizar e distribuir os atendimentos, você pode definir horários de atendimento ou os turnos que sua equipe está atendendo. Quando o horário de atendimento estiver desabilitado ou fora do horário, será possível realizar as seguintes opções de configurações:  
-- [**Seletiva**](https://help.vtex.com/pt/tutorial/seletivo--7zjQVFhGbwYZ7NW8yKRSKX): o atendente/setor não aparecerão na listagem.
-- [**Sequencial**](https://help.vtex.com/pt/tutorial/sequencial--212r1PKHPGdpbbRlpf2gY3): o atendente não receberá clientes durante o período.  
-- [**Geolocalizado**](https://help.vtex.com/pt/tutorial/geolocalizado--6XIfgaqXaPe5exQa9oVp6D): o atendente ou loja não receberão clientes durante o período. 
+- [**Seletiva**](/pt/tutorial/seletivo--7zjQVFhGbwYZ7NW8yKRSKX): o atendente/setor não aparecerão na listagem.
+- [**Sequencial**](/pt/tutorial/sequencial--212r1PKHPGdpbbRlpf2gY3): o atendente não receberá clientes durante o período.  
+- [**Geolocalizado**](/pt/tutorial/geolocalizado--6XIfgaqXaPe5exQa9oVp6D): o atendente ou loja não receberão clientes durante o período. 
 
 ![horario_suitshare_1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/horario-de-atendimento-suiteshare_1.png)
 

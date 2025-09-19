@@ -26,10 +26,10 @@ La arquitectura del Catálogo del Seller Portal se basa en algunos conceptos fun
 - **Categorías:** formas de organizar sus productos. Usted no puede agregar sus propias Categorías, ya que el marketplace define cuáles estarán disponibles para categorizar sus productos. Es obligatorio que cada producto esté relacionado con una de las categorías que fueron creadas por el marketplace.   
 - **Marcas:**  parte de los atributos que caracterizan a los Productos de su tienda. Permite que sus clientes puedan encontrar lo que buscan de forma más específica.   
 - **Productos:** ítems a la venta que se muestran en la vitrina del marketplace.  Podemos entenderlos como una definición más genérica de los ítems que se venden en su tienda.  
-- **Productos Compartidos:** productos en común entre su catálogo y lo que se ofrece en el marketplace. Usted no necesita registrar estos productos, puede solo definir su precio y stock en el módulo de Productos Compartidos. El panel de este módulo le informa automáticamente todos los productos que el marketplace habilitó específicamente para su tienda como seller. Vea [cómo gestionar productos compartidos](https://help.vtex.com/es/tutorial/seller-portal-produtos-compartilhados--6vUGj2UmOuLzQTK9pj04lu).   
+- **Productos Compartidos:** productos en común entre su catálogo y lo que se ofrece en el marketplace. Usted no necesita registrar estos productos, puede solo definir su precio y stock en el módulo de Productos Compartidos. El panel de este módulo le informa automáticamente todos los productos que el marketplace habilitó específicamente para su tienda como seller. Vea [cómo gestionar productos compartidos](/es/tutorial/seller-portal-produtos-compartilhados--6vUGj2UmOuLzQTK9pj04lu).   
 - **Especificaciones:** propiedades adicionales que se pueden aplicar a los productos de su tienda. La especificación de producto generalmente se utiliza para crear filtros de navegación en el marketplace o para mostrar información adicional en la pantalla del producto.   
 - **Variaciones:** características que definen un tipo de producto específico y lo diferencian de las otras opciones ofrecidas por su tienda. Son los ítems que los consumidores realmente compran y que están efectivamente disponibles en su stock.  
-- **Anuncios:** nombre que le damos a un producto o variación de un seller que posee condiciones propias de precio y stock, y que ha sido enviado a un canal, el marketplace. Vea más sobre [anuncios](https://help.vtex.com/es/tutorial/anuncios-y-envio-de-productos-al-marketplace--3RwSj7AyBoPtFbXkS7REiu).  
+- **Anuncios:** nombre que le damos a un producto o variación de un seller que posee condiciones propias de precio y stock, y que ha sido enviado a un canal, el marketplace. Vea más sobre [anuncios](/es/tutorial/anuncios-y-envio-de-productos-al-marketplace--3RwSj7AyBoPtFbXkS7REiu).  
 
 ## Ejemplos de categoría, producto y variaciones
 
@@ -53,7 +53,7 @@ Sin embargo, hay varios tipos diferentes de microondas. De este modo, usted pued
 
 ## Artículos Relacionados
 
-- [Seller Portal: Productos Compartidos](https://help.vtex.com/es/tutorial/seller-portal-produtos-compartilhados--6vUGj2UmOuLzQTK9pj04lu)      
-- [Seller Portal: Detalles del Producto](https://help.vtex.com/es/tutorial/seller-portal-detalhes-do-produto--K0WWsERWj7aQtmZinhYoP)      
-- [Seller Portal: Primeros Pasos](https://help.vtex.com/es/tutorial/seller-portal-primeiros-passos--6w1vBdRH2uuBGmUqgNQjwK)    
+- [Seller Portal: Productos Compartidos](/es/tutorial/seller-portal-produtos-compartilhados--6vUGj2UmOuLzQTK9pj04lu)      
+- [Seller Portal: Detalles del Producto](/es/tutorial/seller-portal-detalhes-do-produto--K0WWsERWj7aQtmZinhYoP)      
+- [Seller Portal: Primeros Pasos](/es/tutorial/seller-portal-primeiros-passos--6w1vBdRH2uuBGmUqgNQjwK)    
 

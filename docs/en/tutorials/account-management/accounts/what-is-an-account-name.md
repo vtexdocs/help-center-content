@@ -19,7 +19,7 @@ An __account name__ is your business identification on the VTEX system.
 
 Just like the business name (which is how your customers know your brand), the __account name__ is how the system recognizes your business and processes your information, settings, and stores that are linked to it.
 
-In other words, the __account name__ identifies your account in VTEX and allows you to set up your stores. To do this, you must first define the [__store names__](/en/tutorial/what-is-the-store-name) action which is performed in the [Account management](https://help.vtex.com/en/tutorial/account-details-page--2vhUVOKfCaswqLguT2F9xq) page.
+In other words, the __account name__ identifies your account in VTEX and allows you to set up your stores. To do this, you must first define the [__store names__](/en/tutorial/what-is-the-store-name) action which is performed in the [Account management](/en/tutorial/account-details-page--2vhUVOKfCaswqLguT2F9xq) page.
 
 With your account name setted and at least one store name created (each account name can have multiple store names linked to it), you may already put your store live. 
 

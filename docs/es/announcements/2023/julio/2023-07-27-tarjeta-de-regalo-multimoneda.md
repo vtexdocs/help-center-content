@@ -41,6 +41,6 @@ Para crear una tarjeta de regalo en una moneda concreta, sigue los pasos que se 
 
 ![Tarjeta de regalo multimoneda](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2023/julio/2023-07-27-tarjeta-de-regalo-multimoneda_1.PNG)
 
-Las monedas disponibles serán las mismas que las registradas en las [políticas comerciales](https://help.vtex.com/es/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) de cada tienda.
+Las monedas disponibles serán las mismas que las registradas en las [políticas comerciales](/es/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) de cada tienda.
 
 > ⚠️ La elección de la moneda debe hacerse durante la creación de cada tarjeta de regalo o de un lote de tarjetas de regalo. No es posible cambiar la moneda asignada a una tarjeta de regalo una vez creada.

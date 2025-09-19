@@ -40,7 +40,7 @@ Sigue las instrucciones de la guía [Setting up triggers in Master Data v2](http
 * Si el trigger está asociado a una entidad u operación concreta, comprueba que se cumplen estas condiciones.  
 * Comprueba que la entidad de datos existe y está correctamente configurada en Master Data v2. Las entidades de datos de las dos versiones son independientes, es decir, un documento creado en una entidad en Master Data v1 no puede consultarse ni editarse utilizando recursos de Master Data v2 y viceversa.  
 
-  Para poder probar triggers con entidades de Master Data v1, es necesario seguir los [pasos para crear triggers en Master Data v1](https://help.vtex.com/es/tutorial/criando-trigger-no-master-data--tutorials_1270).
+  Para poder probar triggers con entidades de Master Data v1, es necesario seguir los [pasos para crear triggers en Master Data v1](/es/tutorial/criando-trigger-no-master-data--tutorials_1270).
 
 ### Probar el endpoint de forma independiente
 
@@ -51,7 +51,7 @@ Intenta enviar un request manualmente al endpoint utilizando una herramienta com
 
 ### Comprobar permisos y autenticación
 
-* Asegúrate de que tus [credenciales](https://help.vtex.com/es/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet) tienen los [permisos](https://help.vtex.com/es/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) necesarios para enviar requests al endpoint especificado.  
+* Asegúrate de que tus [credenciales](/es/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet) tienen los [permisos](/es/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) necesarios para enviar requests al endpoint especificado.  
 * Si el trigger realiza un request a un endpoint externo, comprueba si se requieren autenticación adicional o encabezados de seguridad que deban configurarse para dicho endpoint.
 
-Si las soluciones anteriores no resuelven el problema, ponte en contacto con nuestro [soporte](https://help.vtex.com/es/faq/como-funciona-o-suporte-da-vtex--3kACEfni4m8Yxa1vnf2ebe).
+Si las soluciones anteriores no resuelven el problema, ponte en contacto con nuestro [soporte](/es/faq/como-funciona-o-suporte-da-vtex--3kACEfni4m8Yxa1vnf2ebe).

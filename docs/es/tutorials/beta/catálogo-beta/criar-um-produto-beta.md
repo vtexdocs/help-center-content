@@ -17,7 +17,7 @@ subcategoryId: 6XPsLadoT3moZ7eTduCg3c
 
 > ℹ️ Esta funcionalidad se encuentra en fase beta, lo que significa que estamos trabajando para optimizarla. Si tienes alguna duda ponte en contacto con [nuestro equipo de soporte](https://support.vtex.com/hc/es/requests).
 
-La página **Agregar producto(Beta)** permite crear y editar [productos](https://help.vtex.com/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1wmX3QvQVxbKVmalhIE5Ru) y sus correspondientes SKU en el Admin VTEX. Para agregar un nuevo producto sigue los pasos a continuación: 
+La página **Agregar producto(Beta)** permite crear y editar [productos](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1wmX3QvQVxbKVmalhIE5Ru) y sus correspondientes SKU en el Admin VTEX. Para agregar un nuevo producto sigue los pasos a continuación: 
 
 1. En el Admin VTEX, accede a **Catálogo**>**Productos y SKUs** o ingresa Productos y SKUs en la barra de búsqueda en la parte superior de la página.
 2. Haz clic en `+ Agregar producto`.
@@ -32,7 +32,7 @@ La página **Agregar producto(Beta)** permite crear y editar [productos](https:/
 
 Una vez hecho esto, el producto se activará y estará disponible en tu tienda.
 
-> ℹ️ Si tras crear el producto no se muestra en el sitio web de tu tienda, consulta el artículo [¿Por qué el producto no aparece en el sitio web?](https://help.vtex.com/es/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382), para saber cómo solucionar este problema.
+> ℹ️ Si tras crear el producto no se muestra en el sitio web de tu tienda, consulta el artículo [¿Por qué el producto no aparece en el sitio web?](/es/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382), para saber cómo solucionar este problema.
 
 ## Producto
 
@@ -91,7 +91,7 @@ Ultralight.
 - **Metadescripción**: ingresa el título de la página del producto. Para optimizar la posición de tu producto en los resultados de búsqueda, es recomendable no exceder los 60 caracteres. Campo obligatorio. Ejemplo: Te presentamos el calzado deportivo Ultralight de SportXtreme, perfecto para atletas que buscan ligereza y máxima resistencia durante la actividad física.
 ## Operaciones y logística
 ![image7](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/beta/cat%C3%A1logo-beta/criar-um-produto-beta_4.png)
-- **Políticas comerciales**: selecciona una o más [políticas comerciales](https://help.vtex.com/es/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) para relacionarlas con el producto y determinar en qué marketplaces estará disponible. 
+- **Políticas comerciales**: selecciona una o más [políticas comerciales](/es/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) para relacionarlas con el producto y determinar en qué marketplaces estará disponible. 
 Si no seleccionas ninguna política comercial, el producto se vinculará a todas ellas de manera predeterminada. Ejemplo: B2C.
 - **Proveedor**: selecciona un proveedor ya registrado en tu tienda para relacionarlo con el producto.
 
@@ -100,13 +100,13 @@ Si no seleccionas ninguna política comercial, el producto se vinculará a todas
 ## Visibilidad
 ![image4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/beta/cat%C3%A1logo-beta/criar-um-produto-beta_5.png)- **Mostrar en el sitio web**: activa o desactiva la visibilidad del producto en tu tienda. Si, por ejemplo, el producto es un regalo que no está disponible para la compra, es importante desactivar esta opción.
 
-- **Mostrar cuando no tenga stock**: activa o desactiva la opción de mostrar el producto en la tienda incluso si está fuera de stock. Si está activada, el producto agotado se mostrará en tu tienda en el formato [Avísame](https://help.vtex.com/es/tutorial/configurar-a-opcao-avise-me--2VqVifQuf6Co2KG048Yu6e), campo en que el cliente informa su email para ser avisado cuando el producto vuelva a estar disponible.
+- **Mostrar cuando no tenga stock**: activa o desactiva la opción de mostrar el producto en la tienda incluso si está fuera de stock. Si está activada, el producto agotado se mostrará en tu tienda en el formato [Avísame](/es/tutorial/configurar-a-opcao-avise-me--2VqVifQuf6Co2KG048Yu6e), campo en que el cliente informa su email para ser avisado cuando el producto vuelva a estar disponible.
  Si la opción está desactivada, el producto no se mostrará en la tienda cuando esté agotado.
-- **Prioridad en el orden de búsqueda**: ingresa un valor numérico para definir la prioridad en la página de resultados de búsqueda. Consulta el artículo [¿Cómo funciona el campo Score?](https://help.vtex.com/es/tutorial/como-funciona-o-campo-score--1BUZC0mBYEEIUgeQYAKcae), para saber más sobre este campo. Si tu tienda utiliza VTEX Intelligent Search, consulta [¿Cómo funciona VTEX Intelligent Search?](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/23mytRDsEduqLO0Lo7yufy)
+- **Prioridad en el orden de búsqueda**: ingresa un valor numérico para definir la prioridad en la página de resultados de búsqueda. Consulta el artículo [¿Cómo funciona el campo Score?](/es/tutorial/como-funciona-o-campo-score--1BUZC0mBYEEIUgeQYAKcae), para saber más sobre este campo. Si tu tienda utiliza VTEX Intelligent Search, consulta [¿Cómo funciona VTEX Intelligent Search?](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/23mytRDsEduqLO0Lo7yufy)
 
 ## Atributos
 
-Dependiendo de la categoría a la que pertenece el producto que creaste, en la pestaña **Atributos** pueden aparecer campos para rellenar. Estos campos son [especificaciones](https://help.vtex.com/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP) que puedes añadir a tus SKU para atribuir características a los productos de tu tienda.
+Dependiendo de la categoría a la que pertenece el producto que creaste, en la pestaña **Atributos** pueden aparecer campos para rellenar. Estos campos son [especificaciones](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP) que puedes añadir a tus SKU para atribuir características a los productos de tu tienda.
 
 Si creaste algún campo de producto que sea obligatorio, el producto solo podrá activarse una vez que se haya rellenado la especificación.
 
@@ -114,7 +114,7 @@ En la pestaña Atributos se mostrarán los grupos de especificaciones con las es
 ![image3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/beta/cat%C3%A1logo-beta/criar-um-produto-beta_6.png)
 ## SKUs
 
-En esta pestaña, registrarás los [SKUs](https://help.vtex.com/es/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/3mJbIqMlz6oKDmyZ2bKJoA#) que estarán vinculados al producto que creaste anteriormente. 
+En esta pestaña, registrarás los [SKUs](/es/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/3mJbIqMlz6oKDmyZ2bKJoA#) que estarán vinculados al producto que creaste anteriormente. 
 
 > ℹ️ El producto debe tener al menos un SKU activo para estar disponible en tu tienda. Es necesario adjuntar una imagen al SKU para activarlo.
 

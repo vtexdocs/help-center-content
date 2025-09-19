@@ -19,7 +19,7 @@ La página **Configuración de la búsqueda** comprende la configuración global
 
 ## Configuración general
 
-La configuración general presenta las siguientes opciones relativas a [las especificaciones de productos y SKU](https://help.vtex.com/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP):
+La configuración general presenta las siguientes opciones relativas a [las especificaciones de productos y SKU](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP):
 
 * **Utiliza las especificaciones de SKU para mostrar productos individuales en los resultados de búsqueda**: establece las características que determinarán el orden de los SKU en los resultados de búsqueda.
 
@@ -27,7 +27,7 @@ La configuración general presenta las siguientes opciones relativas a [las espe
 
     Para agregar una especificación, haz clic en la barra del menú desplegable y selecciona la especificación deseada.
 
-    Consulta la guía [Separar SKUs por especificación](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5uVxuWxTA8VvLX3G8UCcUE) para obtener más detalles sobre esta configuración. 
+    Consulta la guía [Separar SKUs por especificación](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5uVxuWxTA8VvLX3G8UCcUE) para obtener más detalles sobre esta configuración. 
 
 * **Especificaciones buscables:** determina las especificaciones de producto que pueden ser buscadas por el motor de búsqueda.
 
@@ -35,7 +35,7 @@ La configuración general presenta las siguientes opciones relativas a [las espe
 
 ## Configuración de filtros
 
-La configuración de facetas presenta ajustes relacionados con las [facetas](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/50Dh4mpv0Sax0XpbvsjAtP) mostradas a los clientes de tu tienda durante la búsqueda:
+La configuración de facetas presenta ajustes relacionados con las [facetas](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/50Dh4mpv0Sax0XpbvsjAtP) mostradas a los clientes de tu tienda durante la búsqueda:
 
 ![Configuracion del filtro](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/intelligent-search/configuraci%C3%B3n-del-intelligent-search/configuracion-de-la-busqueda_1.png)
 

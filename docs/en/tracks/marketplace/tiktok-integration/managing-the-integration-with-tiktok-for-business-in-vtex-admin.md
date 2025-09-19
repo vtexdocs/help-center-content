@@ -61,7 +61,7 @@ See below for a description of the features available to manage the integration 
     * **Manage:** redirects you to TikTok Catalog Manager to manage the catalog on TikTok.
 * **Products pending:** indicates the quantity of products in your catalog that are being processed on TikTok. This status is transitory and it means that TikTok is analyzing the information.
     * **Manage:** redirects you to TikTok Catalog Manager to manage the catalog on TikTok.
-* **Products need additional details:** indicates the number of products in your catalog that are missing some [information](https://help.vtex.com/en/tracks/tiktok-integration--1r0yJSO11nrer1YVu3WTFd/4AEUg7pEdX1beOaQhFf0wC#sending-product-data-to-tiktok) in order to be synced with TikTok.
+* **Products need additional details:** indicates the number of products in your catalog that are missing some [information](/en/tracks/tiktok-integration--1r0yJSO11nrer1YVu3WTFd/4AEUg7pEdX1beOaQhFf0wC#sending-product-data-to-tiktok) in order to be synced with TikTok.
     * **Manage:** redirects you to TikTok Catalog Manager to manage the catalog on TikTok.
 
 ## Disconnecting TikTok from your store
@@ -76,4 +76,4 @@ However, VTEX does not delete existing products from TikTok, which means they wi
 
 > ⚠️ If an error message appears when disconnecting TikTok from your VTEX store, follow the steps below to ensure that the integration has been correctly disabled. <ol><li>Go to the [Authorizations](https://ads.tiktok.com/ac/page/authorizations) page in TikTok Ads Manager.</li> <li>Find the **VTEX** option.</li> <li>Click `Remove`.</li></ol>
 
-After disconnecting, it is possible to reactivate the integration at any time by repeating the steps described in [Configuring the integration with TikTok for Business](https://help.vtex.com/en/tracks/tiktok-integration--1r0yJSO11nrer1YVu3WTFd/4AEUg7pEdX1beOaQhFf0wC).
+After disconnecting, it is possible to reactivate the integration at any time by repeating the steps described in [Configuring the integration with TikTok for Business](/en/tracks/tiktok-integration--1r0yJSO11nrer1YVu3WTFd/4AEUg7pEdX1beOaQhFf0wC).

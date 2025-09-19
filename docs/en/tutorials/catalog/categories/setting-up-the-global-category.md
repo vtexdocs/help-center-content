@@ -27,7 +27,7 @@ We have adopted this taxonomy because it's widely applicable to any context, and
 
 It is used, for example, as a reference for the integration of products with Amazon, Buscapé and marketplaces.
 
-> ℹ️ The default behavior of our integration with Google Shopping is **not to send** this information. Thus, most stores rely on Google's own automatic categorization. If you prefer manual categorization, [contact support](https://help.vtex.com/en/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM).
+> ℹ️ The default behavior of our integration with Google Shopping is **not to send** this information. Thus, most stores rely on Google's own automatic categorization. If you prefer manual categorization, [contact support](/en/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM).
 
 ### When is it applied?
 
@@ -45,7 +45,7 @@ __Example__: If your store has a "Motherboard" category, you should choose the g
 
 ### How to configure a global category?
 
-In the [VTEX catalog](https://help.vtex.com/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ), global categories are based on the [list of all Google product categories](https://support.google.com/merchants/answer/6324436?hl=en). We use this standard because it applies to multiple contexts, which facilitates categorizing products from different segments in a single and comprehensive structure.
+In the [VTEX catalog](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ), global categories are based on the [list of all Google product categories](https://support.google.com/merchants/answer/6324436?hl=en). We use this standard because it applies to multiple contexts, which facilitates categorizing products from different segments in a single and comprehensive structure.
 
 Defining a global category is mandatory. **You can use it to integrate a store with external sales channels.** Currently, VTEX uses the global category only for the Amazon integration connector. 
 
@@ -68,4 +68,4 @@ You must configure the global category in the Admin. Please follow the steps bel
 7. Type the name of the category you want to find and click on the <i class="fas fa-search"></i> button.
 8. Select a category and then click on the `Save` button.
 
-> ℹ️ You can also configure the global category via [XML](https://help.vtex.com/en/tutorial/configuring-xml--tutorials_242) file.
+> ℹ️ You can also configure the global category via [XML](/en/tutorial/configuring-xml--tutorials_242) file.

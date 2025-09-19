@@ -37,8 +37,8 @@ Para configurar RedsysEXP, siga los pasos a continuación:
 9. En __Terminal__, __Currency__, __Language__, __3DS Enabled__, __Sanbox__ y __Permite Tokenizar__ seleccione las opciones deseadas.
 10. Haga clic en `Guardar`.
 
-Para configurar los métodos de pago a procesar por RedsysEXP, acceda al [Configurar Condiciones de Pago](https://help.vtex.com/es/tutorial/condiciones-de-pago--tutorials_455#).
+Para configurar los métodos de pago a procesar por RedsysEXP, acceda al [Configurar Condiciones de Pago](/es/tutorial/condiciones-de-pago--tutorials_455#).
 
-Para establecer condiciones especiales en los métodos de pago, acceda al [Configurar condiciones especiales de Pago](https://help.vtex.com/es/tutorial/condiciones-especiales--tutorials_456#).
+Para establecer condiciones especiales en los métodos de pago, acceda al [Configurar condiciones especiales de Pago](/es/tutorial/condiciones-especiales--tutorials_456#).
 
 Después de seguir los pasos indicados, RedsysEXP puede tardar hasta 10 minutos en aparecer en el checkout de tu tienda como una opción de pago.

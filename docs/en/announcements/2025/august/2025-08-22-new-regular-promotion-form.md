@@ -35,4 +35,4 @@ The form update aims to make creating and managing promotions more intuitive, gi
 ## What needs to be done?
 No action is required. The new form will be available in all VTEX accounts starting on 22/08/2025.
 
-For more information, see [Regular Promotion](https://help.vtex.com/en/tutorial/promocao-regular-pt--tutorials_327).
+For more information, see [Regular Promotion](/en/tutorial/promocao-regular-pt--tutorials_327).

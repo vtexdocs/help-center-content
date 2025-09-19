@@ -15,9 +15,9 @@ locale: es
 subcategoryId: 7fTH6bP0C4IaM8qWi0kkQC
 ---
 
-En VTEX, es posible determinar los horarios de atención de las [transportadoras](https://help.vtex.com/es/tutorial/transportadoras-na-vtex--7u9duMD5UQa2QQwukAWMcE) de tu tienda a través de configuraciones de la [política de envío](https://help.vtex.com/es/tutorial/politica-de-envio--tutorials_140), en la que defines los períodos laborales para que la transportadora recolecte y envíe los pedidos.
+En VTEX, es posible determinar los horarios de atención de las [transportadoras](/es/tutorial/transportadoras-na-vtex--7u9duMD5UQa2QQwukAWMcE) de tu tienda a través de configuraciones de la [política de envío](/es/tutorial/politica-de-envio--tutorials_140), en la que defines los períodos laborales para que la transportadora recolecte y envíe los pedidos.
 
-Para configurar el horario laboral, an el Admin VTEX acceda a **Envío > Estrategia de envío** y cree una [nueva política de envío](https://help.vtex.com/es/tutorial/criar-uma-politica-de-envio--66rJO4LKBdyMJOH6Z3dsaT) o [edite](https://help.vtex.com/es/tutorial/gerenciar-politicas-de-envio--30nynylgbWieimhaMtGTIE) una existente.
+Para configurar el horario laboral, an el Admin VTEX acceda a **Envío > Estrategia de envío** y cree una [nueva política de envío](/es/tutorial/criar-uma-politica-de-envio--66rJO4LKBdyMJOH6Z3dsaT) o [edite](/es/tutorial/gerenciar-politicas-de-envio--30nynylgbWieimhaMtGTIE) una existente.
 
 La configuración del horario laboral influye en el cálculo del tiempo de entrega y se encuentra en la parte inferior de la página de detalles de la política de envío seleccionada, cuenta con las siguientes opciones:
 
@@ -26,12 +26,12 @@ La configuración del horario laboral influye en el cálculo del tiempo de entre
 
 ## Ventana de envío
 
-1. En la [política de envío](https://help.vtex.com/es/tutorial/politica-de-envio--tutorials_140), en la seción **Horario laboral**, haga clic en `Ventana de envío`.
+1. En la [política de envío](/es/tutorial/politica-de-envio--tutorials_140), en la seción **Horario laboral**, haga clic en `Ventana de envío`.
 2. Si quieres activar la opción `Aceptar compras fuera del horario laboral`, activa el interruptor. De lo contrario, déjelo desactivado.
 
   > ❗ Para autorizar la transportadora a recibir pedidos los fines de semana, este interruptor debe estar marcado como `Activo`. Incluso si los sábados y domingos están configurados como ventanas válidas, activar el interruptor es obligatorio para autorizar al transportista a recibir pedidos fuera del horario laboral.
 
-  > ℹ️ Cuando esta opción está habilitada, el [cálculo del envío](https://help.vtex.com/es/tutorial/how-shipping-calculation-works--tutorials_116) del pedido se ve influenciado y al tiempo total de envío se suma el tiempo desde que se realiza el pedido hasta la hora de apertura del transportista.
+  > ℹ️ Cuando esta opción está habilitada, el [cálculo del envío](/es/tutorial/how-shipping-calculation-works--tutorials_116) del pedido se ve influenciado y al tiempo total de envío se suma el tiempo desde que se realiza el pedido hasta la hora de apertura del transportista.
 
 3. Seleccione el `Día de la semana`, así como la `Hora de inicio` y `Hora de fin` del periodo de envío, considerando que:
     * **Día de la semana:** los días de la semana en que la transportadora realiza entregas.
@@ -42,7 +42,7 @@ La configuración del horario laboral influye en el cálculo del tiempo de entre
 
 ## Hora de recogida
 
-1. En la [política de envío](https://help.vtex.com/es/tutorial/politica-de-envio--tutorials_140), en la seción **Horario laboral**, haga clic en la ventana `Hora de recogida`.
+1. En la [política de envío](/es/tutorial/politica-de-envio--tutorials_140), en la seción **Horario laboral**, haga clic en la ventana `Hora de recogida`.
 2. Seleccione el `Día de la semana`.
 3. Seleccione la `Hora de recogida`. 
 4. Para añadir un nuevo horario, haga clic en `Agregar hora de recogida`.

@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisES: 'Servicio al cliente humano es una configuración de que permite la atención al cliente a través de WhatsApp.'
 ---
 
-Para aumentar la satisfacción del cliente, necesita una experiencia de soporte conveniente y continua, VTEX desarrollado o [Servicio al cliente humano](https://help.vtex.com/es/tracks/conversational-commerce-vtex--5UZ9BdvwwtZm2t9QTXcbZs/1woBo299K5gvDG7MSa8HYL).
+Para aumentar la satisfacción del cliente, necesita una experiencia de soporte conveniente y continua, VTEX desarrollado o [Servicio al cliente humano](/es/tracks/conversational-commerce-vtex--5UZ9BdvwwtZm2t9QTXcbZs/1woBo299K5gvDG7MSa8HYL).
 
 Servicio al cliente humano es una configuración de comercio conversacional que permite la atención al cliente a través de WhatsApp. Esta funcionalidad está disponible apenas para BR y LATAM.
 
@@ -30,5 +30,5 @@ Con esta configuración, puede brindar soporte 24/7 a sus clientes, incluso cuan
 
 ## ¿Qué se necesita hacer?
 
-Para comenzar, debe activar [Servicio al cliente humano](https://help.vtex.com/es/tracks/conversational-commerce-vtex--5UZ9BdvwwtZm2t9QTXcbZs/1woBo299K5gvDG7MSa8HYL) en su tienda y comunicarse con nuestro soporte para la [integración de Zenvia y Zendesk](https://help.vtex.com/es/tracks/conversational-commerce-vtex--5UZ9BdvwwtZm2t9QTXcbZs/SxhYiiqUJYiQX4CIWxmVE).
+Para comenzar, debe activar [Servicio al cliente humano](/es/tracks/conversational-commerce-vtex--5UZ9BdvwwtZm2t9QTXcbZs/1woBo299K5gvDG7MSa8HYL) en su tienda y comunicarse con nuestro soporte para la [integración de Zenvia y Zendesk](/es/tracks/conversational-commerce-vtex--5UZ9BdvwwtZm2t9QTXcbZs/SxhYiiqUJYiQX4CIWxmVE).
 

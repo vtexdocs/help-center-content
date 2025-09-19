@@ -23,4 +23,4 @@ Dessa forma, esse estoque pode ser o mesmo adotado pela loja principal ou um esp
 
 Este cenário será utilizado caso queira configurar o marketplace para usar a mesma logística configurada para a loja principal ou outro marketplace. 
 
-Por não precisar de prazos ou preços especiais, o Marketplace também não precisa de uma nova configuração de logística. Logo, basta [associar a política comercial já em uso ao novo marketplace](https://help.vtex.com/pt/tutorial/configurando-a-politica-comercial-para-marketplace/).
+Por não precisar de prazos ou preços especiais, o Marketplace também não precisa de uma nova configuração de logística. Logo, basta [associar a política comercial já em uso ao novo marketplace](/pt/tutorial/configurando-a-politica-comercial-para-marketplace/).

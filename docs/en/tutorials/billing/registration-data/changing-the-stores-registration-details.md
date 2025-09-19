@@ -21,4 +21,4 @@ You can change several of the store’s registration details, such as:
 - Change of CPF to CNPJ
 - Change of CNPJ
 
-To do this, you need to open a [ticket](https://support.vtex.com/hc/en-us/requests/new) communicating your decision to the Financial team and select the option corresponding to the one that you want to change. For example, ["Amendment of CNPJ - Transfer of Contractual Liability"](https://help.vtex.com/en/tutorial/como-fazer-a-alteracao-do-meu-cnpj-novo).
+To do this, you need to open a [ticket](https://support.vtex.com/hc/en-us/requests/new) communicating your decision to the Financial team and select the option corresponding to the one that you want to change. For example, ["Amendment of CNPJ - Transfer of Contractual Liability"](/en/tutorial/como-fazer-a-alteracao-do-meu-cnpj-novo).

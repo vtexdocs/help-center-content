@@ -21,5 +21,5 @@ Também é comum que lojistas desejem realizar esse tipo de avaliação nas suas
 
 ## O que precisa ser feito?
 
-Para realizar testes de segurança na sua loja, você deve fazer uma solicitação detalhada e depois reportar à VTEX quaisquer vulnerabilidades que sejam encontradas. Veja este artigo para saber como [solicitar avaliação de segurança e reportar vulnerabilidades](https://help.vtex.com/pt/tutorial/avaliacoes-de-seguranca-e-relatorios-de-vulnerabilidade--6jodF6s1I50Fg84ZwutOCb).
+Para realizar testes de segurança na sua loja, você deve fazer uma solicitação detalhada e depois reportar à VTEX quaisquer vulnerabilidades que sejam encontradas. Veja este artigo para saber como [solicitar avaliação de segurança e reportar vulnerabilidades](/pt/tutorial/avaliacoes-de-seguranca-e-relatorios-de-vulnerabilidade--6jodF6s1I50Fg84ZwutOCb).
 

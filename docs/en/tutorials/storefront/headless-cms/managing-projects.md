@@ -24,7 +24,7 @@ Each project is customized with its own settings, content, and branding accordin
 In this guide, you will learn how to manage each frontend project of your store.
 
 ## Before you begin
-For the Headless CMS management, make sure the [resources](https://help.vtex.com/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) `See CMS menu on the top-bar`, `Settings*`, and `CMS GraphQL API` are associated with your [user role](https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc). Otherwise, [create a custom user role](https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#creating-a-role) and add these resources to it or add these resources to an existing user role.
+For the Headless CMS management, make sure the [resources](/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) `See CMS menu on the top-bar`, `Settings*`, and `CMS GraphQL API` are associated with your [user role](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc). Otherwise, [create a custom user role](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#creating-a-role) and add these resources to it or add these resources to an existing user role.
 
 ## Overview
 To access **Projects**, go to the VTEX Admin and access **Storefront > Headless CMS**.
@@ -49,7 +49,7 @@ A webhook is an HTTP endpoint that enables automated communication between the V
 
 Once you have created a new project, you can create pages for it with all the URL routes and corresponding page templates of your store’s website, such as home, product, and login pages. 
 
-To create a new page, follow the steps in [Managing Pages in the Headless CMS](https://help.vtex.com/tutorial/managing-pages--3DO6rBhZ1p3zndnFu5BgRt)
+To create a new page, follow the steps in [Managing Pages in the Headless CMS](/tutorial/managing-pages--3DO6rBhZ1p3zndnFu5BgRt)
 
 ## Project settings
 The Project settings allow you to configure your project according to three main categories:
@@ -89,7 +89,7 @@ Choose a storefront from your account (e.g., FastStore). [Build](#build) automat
 | ---------- | ---------- | ---------- |
 | Sections URL      | Webhook URL for receiving and saving the sections created in the source code in the Headless CMS.       | `https://infra.io.vtex.com/vbase/v0/{accountName}/master/buckets/vtex.admin-cms-graphql-rc/store/files/{builderId}/sections`      |
 | Content types URL       | Webhook URL for receiving and saving the content types created in the source code in the Headless CMS.       | `https://infra.io.vtex.com/vbase/v0/{accountName}/master/buckets/vtex.admin-cms-graphql-rc/store/files/{builderId}/content-types`       |
-| Build Webhook URL      | Webhook URL for starting a new build in the Headless CMS when a page or content is added or edited.</br>[Known Issue – Headless CMS Data Mocking Between Workspaces](https://help.vtex.com/en/known-issues/headless-cms-is-not-mocking-data-between-workspaces--iDUOWMDKXPb6ZjO19kmO7): Due to a data-mocking issue, drafts created in any workspace currently appear in the master environment. This means changes that should be isolated to individual workspaces are visible in the master workspace. | `https://app.io.vtex.com/vtex.cms-builder-sf-jamstack/v1/{accountName}/master/build-releases` |
+| Build Webhook URL      | Webhook URL for starting a new build in the Headless CMS when a page or content is added or edited.</br>[Known Issue – Headless CMS Data Mocking Between Workspaces](/en/known-issues/headless-cms-is-not-mocking-data-between-workspaces--iDUOWMDKXPb6ZjO19kmO7): Due to a data-mocking issue, drafts created in any workspace currently appear in the master environment. This means changes that should be isolated to individual workspaces are visible in the master workspace. | `https://app.io.vtex.com/vtex.cms-builder-sf-jamstack/v1/{accountName}/master/build-releases` |
 | Save Webhook* URL       | Webhook URL for enabling real-time previews of the project by notifying you to refresh the page to reflect the latest changes in the Headless CMS.      | -      |
 | Preview URL      | Webhook URL that provides the preview for pages in the Headless CMS.       | `https://{accountName}.vtex.app/api/preview`      |
 

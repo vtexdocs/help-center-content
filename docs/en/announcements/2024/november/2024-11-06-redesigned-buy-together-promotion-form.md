@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisEN: 'New VTEX promotion form design has a modern interface and is easy to use.'
 ---
 
-VTEX provides a revamped form for creating [Buy Together](https://help.vtex.com/en/tutorial/compre-junto--tutorials_323) promotions. A modern and intuitive design makes the new interface simple and easy to use.
+VTEX provides a revamped form for creating [Buy Together](/en/tutorial/compre-junto--tutorials_323) promotions. A modern and intuitive design makes the new interface simple and easy to use.
 
 ## What has changed?
 The new promotion form replaces the previous interface, providing a clearer layout. The update simplifies the workflow for creating promotions thanks to modern components and well-organized information.

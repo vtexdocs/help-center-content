@@ -70,12 +70,12 @@ Consulta a continuación los campos que componen la tabla.
 | **user_id** | character varying(16383) | Identificador único del comprador, mapeado por la cookie VtexRCMacIdv7. |
 | **pageviews_count** | integer | Recuento de páginas vistas en esta sesión. |
 | **views_home** | integer | Recuento de páginas de inicio vistas en esta sesión. |
-| **views_category** | integer | Recuento de vistas de páginas de [categoría](https://help.vtex.com/es/tutorial/o-que-e-uma-categoria--6HV4Q3E2FauUoOQoiCCgCg) en esta sesión. |
-| **views_department** | integer | Recuento de páginas de [departamento](https://help.vtex.com/es/tutorial/o-que-e-um-departamento--22rKjmYWVmmKAK8CWa8yKw) vistas en esta sesión. |
+| **views_category** | integer | Recuento de vistas de páginas de [categoría](/es/tutorial/o-que-e-uma-categoria--6HV4Q3E2FauUoOQoiCCgCg) en esta sesión. |
+| **views_department** | integer | Recuento de páginas de [departamento](/es/tutorial/o-que-e-um-departamento--22rKjmYWVmmKAK8CWa8yKw) vistas en esta sesión. |
 | **views_search** | integer | Recuento de páginas de búsqueda vistas en esta sesión. |
 | **views_product** | integer | Recuento de páginas de producto vistas en esta sesión. |
 | **views_checkout** | integer | Recuento de páginas de checkout vistas en esta sesión. |
-| **views_other** | integer | Recuento de páginas vistas que no sean de [producto](https://help.vtex.com/es/tutorial/o-que-e-um-produto--2zrB2gFCHyQokCKKE8kuAw), búsqueda, [categoría](https://help.vtex.com/es/tutorial/o-que-e-uma-categoria--6HV4Q3E2FauUoOQoiCCgCg), [departamento](https://help.vtex.com/es/tutorial/o-que-e-um-departamento--22rKjmYWVmmKAK8CWa8yKw) o checkout en esta sesión. |
+| **views_other** | integer | Recuento de páginas vistas que no sean de [producto](/es/tutorial/o-que-e-um-produto--2zrB2gFCHyQokCKKE8kuAw), búsqueda, [categoría](/es/tutorial/o-que-e-uma-categoria--6HV4Q3E2FauUoOQoiCCgCg), [departamento](/es/tutorial/o-que-e-um-departamento--22rKjmYWVmmKAK8CWa8yKw) o checkout en esta sesión. |
 | **views_checkout_cart** | integer | Recuento de páginas de checkout vistas en la fase de carrito. |
 | **views_checkout_payment** | integer | Recuento de páginas de checkout vistas en la fase de pago. |
 | **views_checkout_shipping** | integer | Recuento de páginas de checkout vistas en la fase de envío. |
@@ -198,11 +198,11 @@ En los datos de navegación de VTEX observamos importantes interacciones con otr
 
 ### Descubra otros conjuntos de datos
 
-- [Catálogo](https://help.vtex.com/tutorial/catalogo-data-pipeline--7ARDELPaugrBu5dZT7Vx2b)
-- [Stock](https://help.vtex.com/tutorial/inventario-data-pipeline-beta--2IvKMZV9SNrE6ipBRQr8h2) 
-- [Pagos](https://help.vtex.com/tutorial/pagamentos-data-pipeline-beta--7LWkFaA1jPabzc5JAt1rGs) 
-- [Pedidos](https://help.vtex.com/tutorial/pedidos-data-pipeline-beta--2f3GlRJ5L5IRGVIxOmzrFv) 
-- [Precios](https://help.vtex.com/tutorial/precos-data-pipeline-beta--3NMGJ8dtv73Bwvo9PSz1fz)  
-- [Promociones](https://help.vtex.com/tutorial/promocoes-data-pipeline-beta--3WZ1syNucDFdvVhfKtA6Qd)
-- [Tarjeta de regalo](https://help.vtex.com/pt/tutorial/vale-presente-data-pipeline--4XAnyc4scy3OG6RdnD7OEf)
-- [Registro del Bridge](https://help.vtex.com/tutorial/logs-do-bridge-data-pipeline--2RFVJZL19nsWBSB4IXA0Z)
+- [Catálogo](/tutorial/catalogo-data-pipeline--7ARDELPaugrBu5dZT7Vx2b)
+- [Stock](/tutorial/inventario-data-pipeline-beta--2IvKMZV9SNrE6ipBRQr8h2) 
+- [Pagos](/tutorial/pagamentos-data-pipeline-beta--7LWkFaA1jPabzc5JAt1rGs) 
+- [Pedidos](/tutorial/pedidos-data-pipeline-beta--2f3GlRJ5L5IRGVIxOmzrFv) 
+- [Precios](/tutorial/precos-data-pipeline-beta--3NMGJ8dtv73Bwvo9PSz1fz)  
+- [Promociones](/tutorial/promocoes-data-pipeline-beta--3WZ1syNucDFdvVhfKtA6Qd)
+- [Tarjeta de regalo](/pt/tutorial/vale-presente-data-pipeline--4XAnyc4scy3OG6RdnD7OEf)
+- [Registro del Bridge](/tutorial/logs-do-bridge-data-pipeline--2RFVJZL19nsWBSB4IXA0Z)

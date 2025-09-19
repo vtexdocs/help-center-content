@@ -44,7 +44,7 @@ O VTEX Sales App é um aplicativo da VTEX que permite que os vendedores de suas 
 
 Ele é uma ferramenta importante em sua estratégia de Comércio Unificado porque interage com a base de dados unificada da sua conta VTEX e com o nosso Sistema de Gerenciamento de Pedidos. Ou seja, todas as vendas feitas com o VTEX Sales App dão ao vendedor os dados do cliente, ainda que ele nunca tenha comprado nessa loja, e permitem a criação de pedidos em que o fulfillment é realizado a partir de outros canais e estoques.
 
-Se quiser mais detalhes, veja nossa [documentação sobre o VTEX Sales App](https://help.vtex.com/pt/tracks/instore-getting-started-and-setting-up--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf).
+Se quiser mais detalhes, veja nossa [documentação sobre o VTEX Sales App](/pt/tracks/instore-getting-started-and-setting-up--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf).
 
 ## Saiba mais
 

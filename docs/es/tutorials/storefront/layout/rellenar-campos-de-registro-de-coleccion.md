@@ -23,7 +23,7 @@ Para entender mejor el significado de los campos de registro de una colección d
 
 - __Name__: nombre para la identificación de la colección de productos. Este campo es obligatorio y debe contener apenas letras, números y guion.  El guion no debe usarse al inicio o al final del nombre deseado.
 
-- __Highlight?__: esta opción debe marcarse para que la colección esté en destaque en su tienda, a través del control `$product.HightLight`. Para entender mejor sobre el uso de este control, acceda a nuestro artículo [Controles del template de estante](https://help.vtex.com/es/tutorial/controles-do-template-de-prateleira--tutorials_550).
+- __Highlight?__: esta opción debe marcarse para que la colección esté en destaque en su tienda, a través del control `$product.HightLight`. Para entender mejor sobre el uso de este control, acceda a nuestro artículo [Controles del template de estante](/es/tutorial/controles-do-template-de-prateleira--tutorials_550).
 
 - __Searchable?__: esta opción debe marcarse para que la colección pueda ser devuelta en la [API de Búsqueda de VTEX](https://developers.vtex.com/docs/api-reference/search-api#get-/api/catalog_system/pub/products/search/-search-?endpoint=get-/api/catalog_system/pub/products/search/-search-). 
 

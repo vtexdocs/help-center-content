@@ -28,4 +28,4 @@ Usted puede introducir el número de seguimiento de entrega en pedidos ya factur
 
 ### Sepa más
 
-- [Registrar código de rastreo en la Factura](https://help.vtex.com/es/tutorial/cadastrar-rastreo-en-la-nota-fiscal--5acsOh2bssscYgmEKc8wK8)
+- [Registrar código de rastreo en la Factura](/es/tutorial/cadastrar-rastreo-en-la-nota-fiscal--5acsOh2bssscYgmEKc8wK8)

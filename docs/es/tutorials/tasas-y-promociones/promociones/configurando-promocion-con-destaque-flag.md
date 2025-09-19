@@ -34,13 +34,13 @@ El destaque de promoción puede aplicarse a diferentes tipos de promociones y de
 
 Los siguientes tipos de descuentos son elegibles para la aplicación de un destaque:
 
-- [Descuento porcentual](https://help.vtex.com/es/tutorial/configurar-promocao-de-desconto-percentual-para-um-sku-especifico--3rbh8ELSLu2IGCeQ6SImU0): ofrece una reducción porcentual en el valor del producto.
-- [Descuento porcentual en el envío](https://help.vtex.com/es/tutorial/configurar-promocao-de-desconto-percentual-para-um-sku-especifico--3rbh8ELSLu2IGCeQ6SImU0): aplica un descuento en parte del costo de envío, permitiendo que los clientes paguen menos por el envío e incentivando la decisión de compra.
-- [Envío máximo](https://help.vtex.com/es/tutorial/configurar-promocoes-de-frete--6Lo5BR61KMiUFAAHGCdgfW): establece un valor máximo para el costo de envío, independientemente de factores como la distancia o el peso del pedido.
-- [Envío gratuito](https://help.vtex.com/es/tutorial/configurar-promocoes-de-frete--6Lo5BR61KMiUFAAHGCdgfW): elimina completamente el costo de envío.
+- [Descuento porcentual](/es/tutorial/configurar-promocao-de-desconto-percentual-para-um-sku-especifico--3rbh8ELSLu2IGCeQ6SImU0): ofrece una reducción porcentual en el valor del producto.
+- [Descuento porcentual en el envío](/es/tutorial/configurar-promocao-de-desconto-percentual-para-um-sku-especifico--3rbh8ELSLu2IGCeQ6SImU0): aplica un descuento en parte del costo de envío, permitiendo que los clientes paguen menos por el envío e incentivando la decisión de compra.
+- [Envío máximo](/es/tutorial/configurar-promocoes-de-frete--6Lo5BR61KMiUFAAHGCdgfW): establece un valor máximo para el costo de envío, independientemente de factores como la distancia o el peso del pedido.
+- [Envío gratuito](/es/tutorial/configurar-promocoes-de-frete--6Lo5BR61KMiUFAAHGCdgfW): elimina completamente el costo de envío.
 - **Regalo**: ofrece un producto adicional sin costo al cliente al comprar un determinado artículo o alcanzar un valor mínimo de compra.
 
-Para más información, consulta [Promociones](https://help.vtex.com/es/subcategory/promocoes--1yTYB5p4b6iwMsUg8uieyq).
+Para más información, consulta [Promociones](/es/subcategory/promocoes--1yTYB5p4b6iwMsUg8uieyq).
 
 ## Restricciones
 

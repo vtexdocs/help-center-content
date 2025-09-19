@@ -15,9 +15,9 @@ announcementImageID: 'undefined'
 announcementSynopsisEN: 'The Products and SKUs page, along with the pages for adding or editing a product or SKU, are now in GA.'
 ---
 
-The pages for creating or editing [products and SKUs](https://help.vtex.com/en/tutorial/products-and-skus--2ig7TmROlirWirZjFWZ3By), previously in beta, are now in general availability (GA) for VTEX stores in all regions.
+The pages for creating or editing [products and SKUs](/en/tutorial/products-and-skus--2ig7TmROlirWirZjFWZ3By), previously in beta, are now in general availability (GA) for VTEX stores in all regions.
 
-See the improvements made since the [beta version](https://help.vtex.com/en/announcements/new-page-for-adding-products-and-skus--5eKaFgMwrbuhUmuQzT4Q0Y).
+See the improvements made since the [beta version](/en/announcements/new-page-for-adding-products-and-skus--5eKaFgMwrbuhUmuQzT4Q0Y).
 
 ## What has changed?
 
@@ -25,7 +25,7 @@ The changes are listed below, divided based on the page to which they refer.
 
 ### Product
 
-The table below highlights the new features available on the page for [adding or editing products](https://help.vtex.com/en/tutorial/adding-or-editing-products--29IkdEu6GofCFlltsZh2H8):
+The table below highlights the new features available on the page for [adding or editing products](/en/tutorial/adding-or-editing-products--29IkdEu6GofCFlltsZh2H8):
 
 | **Improvement** | **Description** |
 | :--- | :--- |
@@ -37,12 +37,12 @@ The table below highlights the new features available on the page for [adding or
 
 ### SKU
 
-The table below highlights the new features on the page for [adding or editing SKUs](https://help.vtex.com/en/tutorial/adding-or-editing-skus--4ryZ6J45kwn3jDiQBxGiiN):
+The table below highlights the new features on the page for [adding or editing SKUs](/en/tutorial/adding-or-editing-skus--4ryZ6J45kwn3jDiQBxGiiN):
 
 | **Improvement** | **Description** |
 | :--- | :--- |
 | New actions: **Get existing SKUs** or **Move to another product** | Import or send a SKU from one product to another. |
-| New action: **Create bundle** | Convert the SKU into a [bundle](https://help.vtex.com/en/tutorial/o-que-e-um-kit--5ov5s3eHM4AqAAgqWwoc28). |
+| New action: **Create bundle** | Convert the SKU into a [bundle](/en/tutorial/o-que-e-um-kit--5ov5s3eHM4AqAAgqWwoc28). |
 | New action: **Duplicate** (existing SKU) | Create a new SKU from an existing one. This action creates a new SKU with the same settings. |
 | New field: **Loyalty amount** | Set an amount for customers to receive as a benefit for future purchases. |
 | New field: **Presale date** | Define the expected arrival date of the SKU at the store and its availability for sale. |
@@ -55,5 +55,5 @@ The table below highlights the new features on the page for [adding or editing S
 
 No action is required, as VTEX stores in all regions have already been migrated to the GA version.
 
-> ℹ️ For more information, see the following articles:<ul><li>[Products and SKUs](https://help.vtex.com/en/tutorial/products-and-skus--2ig7TmROlirWirZjFWZ3By)</li><li>[Adding or editing products](https://help.vtex.com/en/tutorial/adding-or-editing-products--29IkdEu6GofCFlltsZh2H8)</li><li>[Adding or editing SKUs](https://help.vtex.com/en/tutorial/adding-or-editing-skus--4ryZ6J45kwn3jDiQBxGiiN)</li></ul>
+> ℹ️ For more information, see the following articles:<ul><li>[Products and SKUs](/en/tutorial/products-and-skus--2ig7TmROlirWirZjFWZ3By)</li><li>[Adding or editing products](/en/tutorial/adding-or-editing-products--29IkdEu6GofCFlltsZh2H8)</li><li>[Adding or editing SKUs](/en/tutorial/adding-or-editing-skus--4ryZ6J45kwn3jDiQBxGiiN)</li></ul>
 

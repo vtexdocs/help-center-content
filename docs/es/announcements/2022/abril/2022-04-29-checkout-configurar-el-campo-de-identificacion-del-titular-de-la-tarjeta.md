@@ -47,6 +47,6 @@ Para comprobar si los proveedores antifraude configurados en tu tienda permiten 
 
 > ⚠️ Si la opción **Campo de documento del titular de la tarjeta** no está disponible en la pantalla de configuración de tu proveedor antifraude, el campo **Identificación del titular de la tarjeta** seguirá apareciendo en la pantalla del Checkout de la tienda y será obligatorio que el cliente lo rellene.
 
-Para más información sobre cómo configurar la visualización del campo en el Checkout de tu tienda, accede a [Campo de documento del titular de la tarjeta](https://help.vtex.com/es/tutorial/antifraud-provider--4aZtmdpgFikcsQomWyqAOq#configuracion-del-documento-del-titular-de-la-tarjeta).
+Para más información sobre cómo configurar la visualización del campo en el Checkout de tu tienda, accede a [Campo de documento del titular de la tarjeta](/es/tutorial/antifraud-provider--4aZtmdpgFikcsQomWyqAOq#configuracion-del-documento-del-titular-de-la-tarjeta).
 
 Para más información sobre la configuración realizada internamente por el proveedor antifraude, accede a [Cardholder Document Configuration](https://developers.vtex.com/vtex-rest-api/docs/cardholder-document-configuration).

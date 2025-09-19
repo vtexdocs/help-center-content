@@ -15,9 +15,9 @@ locale: es
 subcategoryId: 2cI57eZ3ZiWSeaQs26Gwys
 ---
 
-La audiencia de campaña es una funcionalidad que permite definir el [público objetivo](#publico-objetivo) para una promoción. Para saber cómo configurar este recurso, consulta el artículo [Crear audiencia de campaña](https://help.vtex.com/es/tutorial/crear-audiencia-de-campanas--6cnuDZJzIkIeocewAQQK4K).
+La audiencia de campaña es una funcionalidad que permite definir el [público objetivo](#publico-objetivo) para una promoción. Para saber cómo configurar este recurso, consulta el artículo [Crear audiencia de campaña](/es/tutorial/crear-audiencia-de-campanas--6cnuDZJzIkIeocewAQQK4K).
 
-La funcionalidad consiste en crear criterios de segmentación de clientes. A partir de estos criterios, la plataforma VTEX comprueba automáticamente si los clientes son elegibles para una determinada audiencia de campaña y, en consecuencia, para las [promociones de campaña](https://help.vtex.com/es/tutorial/promocion-de-campana--1ChYXhK2AQGuS6wAqS8Ume) asociadas.
+La funcionalidad consiste en crear criterios de segmentación de clientes. A partir de estos criterios, la plataforma VTEX comprueba automáticamente si los clientes son elegibles para una determinada audiencia de campaña y, en consecuencia, para las [promociones de campaña](/es/tutorial/promocion-de-campana--1ChYXhK2AQGuS6wAqS8Ume) asociadas.
 
 Para ser aplicada, una audiencia de campaña debe estar asociada a una o más promociones de campaña. Este tipo de promoción permite al administrador de la tienda crear reglas para ofrecer descuentos en el sitio web, teniendo en cuenta criterios como la compra de determinados ítems o categorías, las listas de clientes, los rangos de códigos postales o los valores mínimos del carrito, entre otros.
 
@@ -29,10 +29,10 @@ El público objetivo segmenta los usuarios y las condiciones elegibles de la aud
 
 ![campanha-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/tasas-y-promociones/audiencia-de-las-campa%C3%B1as/audiencias-de-campanas_1.png)
 
-Cuando la campaña está activada, es elegible para el contexto de compra y se cumplen todas sus restricciones, no significa necesariamente que se aplicarán todas las promociones de audiencia de la campaña asociadas a ella. Para ello, también deben cumplirse las restricciones definidas en [promoción de campaña](https://help.vtex.com/es/tutorial/promocion-de-campana--1ChYXhK2AQGuS6wAqS8Ume).
+Cuando la campaña está activada, es elegible para el contexto de compra y se cumplen todas sus restricciones, no significa necesariamente que se aplicarán todas las promociones de audiencia de la campaña asociadas a ella. Para ello, también deben cumplirse las restricciones definidas en [promoción de campaña](/es/tutorial/promocion-de-campana--1ChYXhK2AQGuS6wAqS8Ume).
 
 ## Más información
 
-- [Crear promoción de campaña](https://help.vtex.com/es/tutorial/promocion-de-campana--1ChYXhK2AQGuS6wAqS8Ume)
-- [Lista de audiencias de campañas](https://help.vtex.com/es/tutorial/lista-de-audiencias-de-campanas--2aW3JH34Zsm4keR5wtXZbT)
-- [Crear audiencia de campaña](https://help.vtex.com/es/tutorial/crear-audiencia-de-campanas--6cnuDZJzIkIeocewAQQK4K)
+- [Crear promoción de campaña](/es/tutorial/promocion-de-campana--1ChYXhK2AQGuS6wAqS8Ume)
+- [Lista de audiencias de campañas](/es/tutorial/lista-de-audiencias-de-campanas--2aW3JH34Zsm4keR5wtXZbT)
+- [Crear audiencia de campaña](/es/tutorial/crear-audiencia-de-campanas--6cnuDZJzIkIeocewAQQK4K)

@@ -30,7 +30,7 @@ Para instalar la aplicación de Order Configuration en su Admin, acceda a [nuest
 
 Una vez instalada, la configuración de uso de Order Configuration se establece en la [API Price Simulations](https://developers.vtex.com/reference/price-simulations-api-overview).
 
-Por API, usted debe asociar una [tabla de precios](https://help.vtex.com/es/tracks/prices-101--6f8pwCns3PJHqMvQSugNfP/1wAm5m3IUfIj6maBdaRJt8) con cada escenario, creando una correlación entre ambos. De esta manera, cuando el usuario configure sus condiciones de compra, recibirá los precios que se refieren a esa regla.
+Por API, usted debe asociar una [tabla de precios](/es/tracks/prices-101--6f8pwCns3PJHqMvQSugNfP/1wAm5m3IUfIj6maBdaRJt8) con cada escenario, creando una correlación entre ambos. De esta manera, cuando el usuario configure sus condiciones de compra, recibirá los precios que se refieren a esa regla.
 
 Si el usuario configura un escenario que no tiene asociada ninguna tabla de precios, se utilizará una tabla de precios predeterminada.
 > ℹ️ Es importante tener en cuenta que el usuario necesita estar conectado para utilizar Order Configuration y poder ver los diferentes precios basados en su configuración

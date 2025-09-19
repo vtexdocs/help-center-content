@@ -24,7 +24,7 @@ Para fazer o mapeamento, siga os passos abaixo:
 3. [Preencher a planilha de mapeamento](#3-preencher-a-planilha-de-mapeamento)
 4. [Fazer upload da planilha de mapeamento](#4-fazer-upload-da-planilha-de-mapeamento)
 
-> ⚠️ Para cadastrar um produto na VTEX, é obrigatório que você vincule o produto a uma marca. Entretanto, para evitar problemas com o envio de produtos, você deve [preencher](https://help.vtex.com/pt/tutorial/campos-de-cadastro-de-produto--4dYXWIK3zyS8IceKkQseke) o campo **Marca** do produto que será enviado com os nomes das marcas aceitas na Dafiti. Consulte o [glossário de marcas](https://www.dafiti.com.br/marcas/) da Dafiti para verificar as marcas aceitas.
+> ⚠️ Para cadastrar um produto na VTEX, é obrigatório que você vincule o produto a uma marca. Entretanto, para evitar problemas com o envio de produtos, você deve [preencher](/pt/tutorial/campos-de-cadastro-de-produto--4dYXWIK3zyS8IceKkQseke) o campo **Marca** do produto que será enviado com os nomes das marcas aceitas na Dafiti. Consulte o [glossário de marcas](https://www.dafiti.com.br/marcas/) da Dafiti para verificar as marcas aceitas.
 
 ## 1. Fazer download da planilha de consulta da Dafiti
 
@@ -72,9 +72,9 @@ A aba __attributenames__ da planilha de mapeamento possui três colunas para ser
 - **VTEXAttributeName:** nome do campo de especificação na VTEX.
 - **DafitiAttributeName:** nome da variação / atributo na Dafiti.
     Para obter essas informações, verifique a planilha de consulta da Dafiti. Os atributos *Variation*, *Gender*, *Origin*, *ColorFamily*, *Color* e *Origincountry* são obrigatórios, considerando que:
-    - Clientes do Brasil precisam [cadastrar](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/4fcdmJzQ6QYA9zWf3bLWin) em *Admin > Catálogo > Categorias*, a especificação **País de origem** nos produtos que serão mapeados, para posteriormente preencher nas planilhas de mapeamento o novo atributo obrigatório **Origincountry**.
+    - Clientes do Brasil precisam [cadastrar](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/4fcdmJzQ6QYA9zWf3bLWin) em *Admin > Catálogo > Categorias*, a especificação **País de origem** nos produtos que serão mapeados, para posteriormente preencher nas planilhas de mapeamento o novo atributo obrigatório **Origincountry**.
     - Quando preencher o atributo **ColorFamily** para um produto que possua mais de uma cor, recomendamos utilizar a cor predominante.
-    - Os atributos **Color** e **ColorFamily** são distintos, sendo necessário o [cadastro de duas especificações](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/4fcdmJzQ6QYA9zWf3bLWin) de produto *Cor* diferentes para o mapeamento correto dos produtos. Exemplo: Cor e Cor2.
+    - Os atributos **Color** e **ColorFamily** são distintos, sendo necessário o [cadastro de duas especificações](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/4fcdmJzQ6QYA9zWf3bLWin) de produto *Cor* diferentes para o mapeamento correto dos produtos. Exemplo: Cor e Cor2.
 - **HasValueMapping:** indica se é necessário fazer uma conversão dos valores do atributo na aba *VTEXAttributeValue*. Quando os valores das especificações do seu produto na VTEX forem diferentes dos utilizados pela Dafiti, será preciso informar ao sistema que será feita uma conversão entre eles. Preencha essa coluna com `Y` (Yes), caso queira indicar que há uma conversão de valores para ser feita, ou com `N` (No) caso não tenha conversão.
 
 ### Attributevalues

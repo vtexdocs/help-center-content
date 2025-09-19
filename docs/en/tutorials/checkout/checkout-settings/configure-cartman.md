@@ -50,7 +50,7 @@ To activate Cartman manually, follow the steps below:
 
 Under **Promotion Simulator**, you can view any promotions created in your store that were applied to the cart, as well as what triggered those promotions. You can also test applying promotions before activating them, including scheduled and inactive promotions.
 
-To learn more about this tool, check the [Promotion Simulator](https://help.vtex.com/en/tutorial/promotion-simulator-beta--4zc8SNqjqeIJ0ZRMhjlnvy) guide.
+To learn more about this tool, check the [Promotion Simulator](/en/tutorial/promotion-simulator-beta--4zc8SNqjqeIJ0ZRMhjlnvy) guide.
 
 ### Get information about items in cart
 
@@ -94,7 +94,7 @@ In the **Set marketing data option**, you can apply discount coupons to specific
 
 ![Set marketing data](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/checkout/checkout-settings/configure-cartman_4.PNG)
 
-To learn more about UTMs and UTMIs, go to [What are utm_source, utm_campaign, and utm_medium](https://help.vtex.com/en/tutorial/what-are-utm-source-utm-campaign-and-utm-medium--2wTz7QJ8KUG6skGAoAQuii#) and [What are the internal UTMs utmi_cp, utmi_pc and utmi_p](https://help.vtex.com/en/tutorial/o-que-sao-as-utms-internas-utmi_cp-utmi_pc-e-utmi_p#).
+To learn more about UTMs and UTMIs, go to [What are utm_source, utm_campaign, and utm_medium](/en/tutorial/what-are-utm-source-utm-campaign-and-utm-medium--2wTz7QJ8KUG6skGAoAQuii#) and [What are the internal UTMs utmi_cp, utmi_pc and utmi_p](/en/tutorial/o-que-sao-as-utms-internas-utmi_cp-utmi_pc-e-utmi_p#).
 
 ## Disable Cartman ##
 

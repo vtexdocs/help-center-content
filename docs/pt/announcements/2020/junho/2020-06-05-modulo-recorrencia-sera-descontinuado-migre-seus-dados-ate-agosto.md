@@ -25,7 +25,7 @@ Preparamos um passo a passo para que você realize a migração dos seus dados d
 
 Hoje, temos o módulo de Assinaturas como solução avançada para pedidos recorrentes. Ele possui mais funcionalidades que o módulo Recorrência, e está  em constante evolução. Queremos incentivar que as lojas utilizem nossa solução completa para Assinaturas, aproveitando todos os benefícios das funcionalidades para crescer seu negócio.  
 
-Para saber mais sobre como funciona o módulo Assinaturas, clique [aqui](https://help.vtex.com/pt/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453).
+Para saber mais sobre como funciona o módulo Assinaturas, clique [aqui](/pt/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453).
 
 ## Por que migrar para o módulo Assinaturas?
 
@@ -35,7 +35,7 @@ Para saber mais sobre como funciona o módulo Assinaturas, clique [aqui](https:/
 - **Inteligência com dados**:  fornecemos uma série de relatórios, para você extrair os dados das assinaturas realizadas e as que estão por vir, tendo total visão de como as assinaturas estão contribuindo para o seu negócio.
 - **Mais personalizado**: aprimoramos a aba de configurações, para customizar as assinaturas da sua loja conforme a realidade do seu negócio.
 
-Para saber mais sobre como o módulo gerencia as assinaturas da sua loja, clique [aqui](https://help.vtex.com/pt/tutorial/como-gerenciar-assinaturas--6Jk50FPbv6iuz1OsFypv8x).
+Para saber mais sobre como o módulo gerencia as assinaturas da sua loja, clique [aqui](/pt/tutorial/como-gerenciar-assinaturas--6Jk50FPbv6iuz1OsFypv8x).
 
 ## Qual o impacto na minha loja?
 
@@ -45,5 +45,5 @@ Dessa forma, a migração do módulo Recorrência para o módulo Assinaturas dev
 
 ## O que devo fazer?
 
-Para que nenhum dado seja perdido, você deve **migrar as informações do  módulo Recorrência para Assinaturas antes do dia 03 de agosto**. Confira o passo a passo completo para a migração [aqui](https://help.vtex.com/pt/tutorial/como-migrar-da-recorrencia-v1-para-assinaturas-v2--3nJ4pbsRHEyKmvoN0foYRi). A VTEX oferecerá assistência para que a migração ocorra da melhor forma possível. 
+Para que nenhum dado seja perdido, você deve **migrar as informações do  módulo Recorrência para Assinaturas antes do dia 03 de agosto**. Confira o passo a passo completo para a migração [aqui](/pt/tutorial/como-migrar-da-recorrencia-v1-para-assinaturas-v2--3nJ4pbsRHEyKmvoN0foYRi). A VTEX oferecerá assistência para que a migração ocorra da melhor forma possível. 
 

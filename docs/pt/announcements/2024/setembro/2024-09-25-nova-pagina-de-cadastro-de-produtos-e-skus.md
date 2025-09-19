@@ -33,10 +33,10 @@ Além disso, ficou mais fácil selecionar categorias e marcas.
 
 ![Nova página de cadastro de produtos e SKUs 4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2024/setembro/2024-09-25-nova-pagina-de-cadastro-de-produtos-e-skus_4.gif)
 
-> ℹ️ Saiba mais sobre as novas páginas de [produto](https://help.vtex.com/pt/tutorial/adding-products-beta--29IkdEu6GofCFlltsZh2H8) e [SKU](https://help.vtex.com/pt/tutorial/cadastro-de-skus-beta--4ryZ6J45kwn3jDiQBxGiiN) respectivamente.
+> ℹ️ Saiba mais sobre as novas páginas de [produto](/pt/tutorial/adding-products-beta--29IkdEu6GofCFlltsZh2H8) e [SKU](/pt/tutorial/cadastro-de-skus-beta--4ryZ6J45kwn3jDiQBxGiiN) respectivamente.
 
 ## O que precisa ser feito?
 
 Nenhuma ação é necessária. Todas as lojas VTEX serão gradualmente migradas para a nova experiência nos próximos meses.
 
-Se a sua loja ainda não foi migrada mas você deseja aderir à nova experiência, abra uma solicitação via [suporte VTEX](https://help.vtex.com/pt/support).
+Se a sua loja ainda não foi migrada mas você deseja aderir à nova experiência, abra uma solicitação via [suporte VTEX](/pt/support).

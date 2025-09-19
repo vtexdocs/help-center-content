@@ -15,9 +15,9 @@ locale: es
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-En VTEX, es posible integrarse con el proveedor de pago Cielo. A través de este conector, su tienda puede ofrecer transacciones de pago en tiendas físicas (VTEX Sales App), utilizando puntos de venta (POS). Para más información acceda [¿Qué es VTEX Sales App?](https://help.vtex.com/es/tracks/instore-primeros-pasos-y-configuracion--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf).
+En VTEX, es posible integrarse con el proveedor de pago Cielo. A través de este conector, su tienda puede ofrecer transacciones de pago en tiendas físicas (VTEX Sales App), utilizando puntos de venta (POS). Para más información acceda [¿Qué es VTEX Sales App?](/es/tracks/instore-primeros-pasos-y-configuracion--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf).
 
-> ℹ️ Para utilizar el proveedor Cielo en su tienda a través de otros canales de venta en línea (excepto VTEX Sales App), visite [Configurar pago con CieloEcommerce](https://help.vtex.com/es/tutorial/configurar-pago-con-cieloecommerce--6zuELBqEo0QzApbU4l7L4).
+> ℹ️ Para utilizar el proveedor Cielo en su tienda a través de otros canales de venta en línea (excepto VTEX Sales App), visite [Configurar pago con CieloEcommerce](/es/tutorial/configurar-pago-con-cieloecommerce--6zuELBqEo0QzApbU4l7L4).
 
 Para utilizar el proveedor Cielo en la VTEX Sales App, es necesario:
 
@@ -100,7 +100,7 @@ o accediendo **Suporte > Cielo Lio > Envie sua pergunta > Token de integração 
 4. En **Procesar con proveedor**, seleccione el conector previamente configurado.
 5. Active la condición en el campo **Status**.
 6. Si desea utilizar un sistema antifraude, seleccione la opción **Utilizar antifraude**.
-7. Si desea, puede [configurar condiciones especiales de pago](https://help.vtex.com/es/tutorial/condiciones-especiales--tutorials_456).
+7. Si desea, puede [configurar condiciones especiales de pago](/es/tutorial/condiciones-especiales--tutorials_456).
 8. Haga clic en `Guardar`.
 
 Tras seguir los pasos indicados, el proveedor Cielo puede tardar hasta 10 minutos para aparecer como opción de pago en la App Ventas VTEX de su tienda.

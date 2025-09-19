@@ -17,7 +17,7 @@ subcategoryId: 2t00bBkcAwIkgSCGKsMOwY
 
 El status `Listo para preparar` es la advertencia al ERP de que debe descender el pedido para que se produzca la baja en la reserva. Después de que el ERP notificó a VTEX que integró el pedido y que el stock de los artículos ya se actualizó, el status se cambia a `Preparar la entrega`.
 
-La baja en la reserva no ocurre automáticamente, esto debe ser controlado por su ERP. Para entender más detalles de cómo funciona la reserva, vea nuestra documentación [Cómo se maneja la reserva](https://help.vtex.com/es/tutorial/como-se-maneja-la-reserva--tutorials_92).
+La baja en la reserva no ocurre automáticamente, esto debe ser controlado por su ERP. Para entender más detalles de cómo funciona la reserva, vea nuestra documentación [Cómo se maneja la reserva](/es/tutorial/como-se-maneja-la-reserva--tutorials_92).
 
 A continuación se indican las posibles maneras de actualizar este status.
 

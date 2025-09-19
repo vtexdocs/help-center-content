@@ -30,7 +30,7 @@ This section includes the following information:
 
 | **Characteristic** | **Description** |
 |:---:|:---:|
-| **Data source** | Obtained from information in the [Audit](https://help.vtex.com/pt/tutorial/searching-for-events-on-audit--5RXf9WJ5YLFBcS8q8KcxTA). |
+| **Data source** | Obtained from information in the [Audit](/pt/tutorial/searching-for-events-on-audit--5RXf9WJ5YLFBcS8q8KcxTA). |
 | **Availability** | VTEX Admin. |
 | **History** | Data is maintained for two years, starting in 2024 for customers already using the VTEX platform. |
 | **Minimum update interval** | One hour. |
@@ -63,16 +63,16 @@ Here are some analyses you can perform with the gift cards table:
 
 Gift card data is related to order data, providing a comprehensive analysis of purchases and sales. Here are some examples:  
 
-- **Most Used Gift Cards:** Combining this data model with [order](https://help.vtex.com/pt/tutorial/precos-data-pipeline-beta--3NMGJ8dtv73Bwvo9PSz1fz) data, you can understand how gift cards are being utilized and monitor their usage.  
-- **Impact on Sales:** Similarly, combining with [order](https://help.vtex.com/pt/tutorial/precos-data-pipeline-beta--3NMGJ8dtv73Bwvo9PSz1fz) data allows you to assess how gift cards influence sales.  
+- **Most Used Gift Cards:** Combining this data model with [order](/pt/tutorial/precos-data-pipeline-beta--3NMGJ8dtv73Bwvo9PSz1fz) data, you can understand how gift cards are being utilized and monitor their usage.  
+- **Impact on Sales:** Similarly, combining with [order](/pt/tutorial/precos-data-pipeline-beta--3NMGJ8dtv73Bwvo9PSz1fz) data allows you to assess how gift cards influence sales.  
 
 ### Discover other Datasets
 
-- [Catalog](https://help.vtex.com/tutorial/catalogo-data-pipeline--7ARDELPaugrBu5dZT7Vx2b)
-- [Inventory](https://help.vtex.com/tutorial/inventario-data-pipeline-beta--2IvKMZV9SNrE6ipBRQr8h2)
-- [Navigation](https://help.vtex.com/tutorial/navegacao-data-pipeline-beta--4X4hK0zdIHN0Xn5x2MLYYd)
-- [Payments](https://help.vtex.com/tutorial/pagamentos-data-pipeline-beta--7LWkFaA1jPabzc5JAt1rGs)
-- [Orders](https://help.vtex.com/tutorial/pedidos-data-pipeline-beta--2f3GlRJ5L5IRGVIxOmzrFv)
-- [Promotions](https://help.vtex.com/tutorial/promocoes-data-pipeline-beta--3WZ1syNucDFdvVhfKtA6Qd)
-- [Bridge logs](https://help.vtex.com/tutorial/logs-do-bridge-data-pipeline--2RFVJZL19nsWBSB4IXA0Z)
+- [Catalog](/tutorial/catalogo-data-pipeline--7ARDELPaugrBu5dZT7Vx2b)
+- [Inventory](/tutorial/inventario-data-pipeline-beta--2IvKMZV9SNrE6ipBRQr8h2)
+- [Navigation](/tutorial/navegacao-data-pipeline-beta--4X4hK0zdIHN0Xn5x2MLYYd)
+- [Payments](/tutorial/pagamentos-data-pipeline-beta--7LWkFaA1jPabzc5JAt1rGs)
+- [Orders](/tutorial/pedidos-data-pipeline-beta--2f3GlRJ5L5IRGVIxOmzrFv)
+- [Promotions](/tutorial/promocoes-data-pipeline-beta--3WZ1syNucDFdvVhfKtA6Qd)
+- [Bridge logs](/tutorial/logs-do-bridge-data-pipeline--2RFVJZL19nsWBSB4IXA0Z)
 

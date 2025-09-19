@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 2t00bBkcAwIkgSCGKsMOwY
 ---
 
-One of the ways of finding out details of errors in orders is using the **Show interactions** link available on the [order details page](https://help.vtex.com/en/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl), that can be found as shown below:
+One of the ways of finding out details of errors in orders is using the **Show interactions** link available on the [order details page](/en/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl), that can be found as shown below:
 
 1. In the VTEX Admin, go to **Orders > All Orders**, or type **All Orders** in the search bar at the top of the page.
 2. Select the desired order.

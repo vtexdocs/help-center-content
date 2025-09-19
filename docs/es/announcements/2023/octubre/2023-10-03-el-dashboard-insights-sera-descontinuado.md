@@ -17,18 +17,18 @@ announcementSynopsisES: 'A partir del 15 de octubre de 2023, no se podrá accede
 
 **Insights** es un dashboard que permite dar seguimiento a la evolución de las ventas mediante una vista detallada del embudo de conversión y de las principales métricas que impactan los ingresos de tu tienda.
 
-Actualmente, solo se puede acceder al [dashboard Insights](https://help.vtex.com/es/tutorial/acompanhando-a-evolucao-das-suas-vendas--5QtyTR0jFy9gDnr4EYCjdq) a través de la dirección:
+Actualmente, solo se puede acceder al [dashboard Insights](/es/tutorial/acompanhando-a-evolucao-das-suas-vendas--5QtyTR0jFy9gDnr4EYCjdq) a través de la dirección:
 ```
 https://{nombreDeLaCuenta}.myvtex.com/admin/insights
 ```
 
-A partir del 15 de octubre de 2023, no se podrá acceder al [dashboard Insights](https://help.vtex.com/es/tutorial/acompanhando-a-evolucao-das-suas-vendas--5QtyTR0jFy9gDnr4EYCjdq) debido a su descontinuación.
+A partir del 15 de octubre de 2023, no se podrá acceder al [dashboard Insights](/es/tutorial/acompanhando-a-evolucao-das-suas-vendas--5QtyTR0jFy9gDnr4EYCjdq) debido a su descontinuación.
 
 ## ¿Por qué realizamos este cambio?
 
 La información de **Insights** también se muestra en otros dashboards:
-- [Vista general de la tienda](https://help.vtex.com/es/tutorial/visao-geral-da-loja--P8ahguoRs0U3PzmXg2wuQ)
-- [Vista general de la tienda (beta)](https://help.vtex.com/es/tutorial/visao-geral-da-loja-beta--7i8wNsQQgbbFhYMYbQ5X46)
+- [Vista general de la tienda](/es/tutorial/visao-geral-da-loja--P8ahguoRs0U3PzmXg2wuQ)
+- [Vista general de la tienda (beta)](/es/tutorial/visao-geral-da-loja-beta--7i8wNsQQgbbFhYMYbQ5X46)
 
 Por lo tanto, la descontinuación de este dashboard reducirá la redundancia de la plataforma y nos permitirá enfocarnos en mantener y mejorar una experiencia unificada. Los dashboards **Vista general** de la tienda proporcionan la misma información que **Insights** y contienen datos más precisos.
 
@@ -36,4 +36,4 @@ Por lo tanto, la descontinuación de este dashboard reducirá la redundancia de 
 
 A partir del 15 de octubre, el cambio se implementará automáticamente en todas las tiendas VTEX y no se requerirá ninguna acción de tu parte.
 
-Si deseas dar seguimiento a las métricas de ventas de tu tienda, consulta el dashboard [Vista general de la tienda](https://help.vtex.com/es/tutorial/visao-geral-da-loja--P8ahguoRs0U3PzmXg2wuQ) o la [nueva versión de Vista general](https://help.vtex.com/pt/tutorial/visao-geral-da-loja-beta--7i8wNsQQgbbFhYMYbQ5X46) (beta), que contiene la misma información que **Insights** con datos más precisos y mejor visualización.
+Si deseas dar seguimiento a las métricas de ventas de tu tienda, consulta el dashboard [Vista general de la tienda](/es/tutorial/visao-geral-da-loja--P8ahguoRs0U3PzmXg2wuQ) o la [nueva versión de Vista general](/pt/tutorial/visao-geral-da-loja-beta--7i8wNsQQgbbFhYMYbQ5X46) (beta), que contiene la misma información que **Insights** con datos más precisos y mejor visualización.

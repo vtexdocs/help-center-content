@@ -15,13 +15,13 @@ locale: pt
 subcategoryId: 22TaEgFhwE6a6CG2KASYkC
 ---
 
-Para contratar um novo ambiente VTEX entre em contato pelo [Suporte](https://help.vtex.com/pt/support) selecionando a opção Comercial e o tipo de solicitação `Criação de Ambiente Adicional`. Saiba mais a respeito lendo o artigo [Abrir chamados no Suporte VTEX](https://help.vtex.com/pt/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM).
+Para contratar um novo ambiente VTEX entre em contato pelo [Suporte](/pt/support) selecionando a opção Comercial e o tipo de solicitação `Criação de Ambiente Adicional`. Saiba mais a respeito lendo o artigo [Abrir chamados no Suporte VTEX](/pt/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM).
 
 A criação de um novo ambiente pode gerar custos adicionais, conforme estipulado em seu contrato. Caso esse custo não esteja previsto, informe isso na sua solicitação para que seja feita a inclusão de um aditivo contratual.
 
 A VTEX provisiona novos ambientes sem configurações ou conteúdo replicado do ambiente principal. Após a criação, você precisa configurar e personalizar o ambiente, adicionando layout, produtos, políticas comerciais e integrações para atender às suas necessidades.
 
-Para cadastrar um ecommerce independente do existente e associar o mesmo catálogo a um domínio de URL diferente, configure uma [multiloja](https://help.vtex.com/pt/tutorial/como-criar-multiloja-multidominio--tutorials_510). Essa opção não gera custo adicional.
+Para cadastrar um ecommerce independente do existente e associar o mesmo catálogo a um domínio de URL diferente, configure uma [multiloja](/pt/tutorial/como-criar-multiloja-multidominio--tutorials_510). Essa opção não gera custo adicional.
 
 ## Informações necessárias para a solicitação
 Ao solicitar um novo ambiente, inclua as seguintes informações:

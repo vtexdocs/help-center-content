@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisES: 'Con el nuevo módulo Colecciones Beta usted puede crear colecciones con mayor facilidad.'
 ---
 
-Desarrollamos el [nuevo módulo Colecciones Beta](https://help.vtex.com/es/tutorial/registrar-colecciones-beta--yJBHqNMViOAnnnq4fyOye#) como una alternativa renovada de la configuración realizada a través del CMS. Ahora tenemos un módulo dedicado a las Colecciones que cuenta con funcionalidades inéditas y está disponible en versión Beta. Este módulo le permite:
+Desarrollamos el [nuevo módulo Colecciones Beta](/es/tutorial/registrar-colecciones-beta--yJBHqNMViOAnnnq4fyOye#) como una alternativa renovada de la configuración realizada a través del CMS. Ahora tenemos un módulo dedicado a las Colecciones que cuenta con funcionalidades inéditas y está disponible en versión Beta. Este módulo le permite:
 
 - Agregar productos a su colección por plantilla.
 - Exportar su colección como una plantilla.

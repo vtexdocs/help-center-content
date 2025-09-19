@@ -19,7 +19,7 @@ Para que você tenha um serviço - entrega, atendimento ou coleta - disponível 
 
 * Plataforma web
 * [API](https://developers.vtex.com/docs/api-reference/tracking)
-* [Aplicativo VTEX Tracking](https://help.vtex.com/pt/tutorial/como-instalar-e-configurar-a-app-vtex-tracking-no-seu-admin-vtex--3ejuFsJ1m0r08cT6afpIPf)
+* [Aplicativo VTEX Tracking](/pt/tutorial/como-instalar-e-configurar-a-app-vtex-tracking-no-seu-admin-vtex--3ejuFsJ1m0r08cT6afpIPf)
 
 Este artigo explica como importar serviços pela plataforma web a partir de uma planilha modelo.
 
@@ -60,19 +60,19 @@ Depois de baixar o modelo é preciso preencher os campos com as informações do
 * **Série:** para evitar duplicidade de notas insira o campo série, caso haja.
 * **Número do Pedido (se houver):** identificação do pedido do pacote/serviço. O preenchimento é alfanumérico e livre para o controle interno do serviço.
 * **Descrição:** informações pertinentes ao portador. Esse campo aparecerá no aplicativo do portador e também será utilizado para visualização de informações via plataforma web. Utilize, por exemplo, para descrever a quantidade de pacotes e notas fiscais que há na entrega. _(Esse campo é obrigatório)_.
-* **ID do cliente:** Identificação do cliente. Essa identificação é criada pela plataforma web em [Configurações de conta > Clientes.](https://help.vtex.com/pt/tutorial/clientes-vtex-tracking--277Z0epDNArIGJIbqtPMA9) O uso desse campo substitui o preenchimento do nome do cliente, CPF e os dados referentes ao endereço do cliente.
-* **ID do parceiro:** Identificação do parceiro. Essa identificação é criada pela plataforma web em [Configurações de conta > Parceiros.](https://help.vtex.com/pt/tutorial/parceiros-vtex-tracking--2xEHQ98hoMzgkrdhkpOedQ) Utilize para facilitar o acesso do parceiro às informações do serviço.
+* **ID do cliente:** Identificação do cliente. Essa identificação é criada pela plataforma web em [Configurações de conta > Clientes.](/pt/tutorial/clientes-vtex-tracking--277Z0epDNArIGJIbqtPMA9) O uso desse campo substitui o preenchimento do nome do cliente, CPF e os dados referentes ao endereço do cliente.
+* **ID do parceiro:** Identificação do parceiro. Essa identificação é criada pela plataforma web em [Configurações de conta > Parceiros.](/pt/tutorial/parceiros-vtex-tracking--2xEHQ98hoMzgkrdhkpOedQ) Utilize para facilitar o acesso do parceiro às informações do serviço.
 * **Tempo de serviço:** tempo estimado do serviço. Insira o tempo que o portador irá permanecer no local da entrega, assim o sistema calcula as previsões da entrega e notifica ao cliente. O formato de preenchimento deverá ser em  em minutos.
 * **Portador:** o usuário criado para o portador - motorista - utilizar do aplicativo. O campo deve ser preenchido com o usuário que é utilizado pelo portador para o seu acesso no aplicativo VTEX Tracking. Há dois casos de uso desse campo:
     * Se preenchido: o serviço que está sendo cadastrado ficará disponível no aplicativo do portador. O portador receberá o endereço do serviço na data de início cadastrada, e caso haja mais serviços para a mesma data, os serviços ficarão todos disponíveis obedecendo a ordem que foram inseridos.
-    * Se não preenchido: o serviço será cadastrado sem portador atribuído, então utilize o[ cadastro de rota](https://help.vtex.com/pt/tutorial/nova-rota--58zHktlupty2jfvSYsQE5h) para definir um portador e para otimizar a rota criada. 
+    * Se não preenchido: o serviço será cadastrado sem portador atribuído, então utilize o[ cadastro de rota](/pt/tutorial/nova-rota--58zHktlupty2jfvSYsQE5h) para definir um portador e para otimizar a rota criada. 
 * **ID do frete:** ID relativo a todos os fretes com destino em determinada faixa de CEP. Você pode criar regras de frete por faixa de CEP no Admin Tracking: pelo menu esquerdo em **Configurações de conta > Fretes > Criar novo**.
 * **Valor a receber:** Recomendamos não utilizar esse campo pois a plataforma está em atualização e esse campo será deprecado.
 * **Placa:** Inserir placa do veículo que irá realizar a entrega.
 * **Data Início:** data para qual a entrega foi programada. Se a entrega for programada para o mesmo dia da importação, este campo pode ficar em branco e o sistema ajustará automaticamente. Lembre-se que a data de início preenchida aqui será a data que o serviço ficará disponível no aplicativo do portador. O preenchimento deve seguir o modelo dd/mm/aaaa. _(Se durante a criação do serviço um portador for atribuído a rota, esse campo se torna obrigatório)._
 * **Data fim:** data final do serviço. Utilize para os casos de rotas itinerantes. Preencha com uma data posterior a data de início, seguindo o modelo de dd/mm/aaaa.
 * **Data agendamento:** data de entrega agendada pelo cliente. O modelo de preenchimento é dd/mm/aaaa.
-* **Romaneio:** número do romaneio ou nome para a rota estruturada. Este campo será relevante caso a funcionalidade de romaneio esteja ativada pelo embarcador. É importante ressaltar que se essa funcionalidade estiver ativada, é possível criar rotas com datas futuras, sendo possível atribuir o portador no momento da criação. Também é possível atribuir a rota a um portador posteriormente. Para ativar essa funcionalidade entre em contato com o [suporte](https://help.vtex.com/pt/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM). 
+* **Romaneio:** número do romaneio ou nome para a rota estruturada. Este campo será relevante caso a funcionalidade de romaneio esteja ativada pelo embarcador. É importante ressaltar que se essa funcionalidade estiver ativada, é possível criar rotas com datas futuras, sendo possível atribuir o portador no momento da criação. Também é possível atribuir a rota a um portador posteriormente. Para ativar essa funcionalidade entre em contato com o [suporte](/pt/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM). 
 * **Peso:** peso do pacote. Utilize quilogramas (Kg) como unidade de medida.
 
 > ❗ Cuidados com o preenchimento da planilha: <body> <ul> <li>Se algum campo não for utilizado deixe-o em branco.</li> <li>Não altere os rótulos das colunas da planilha modelo.</li> <li>Caso os campos estejam preenchidos de forma errada o serviço não será criado.</li> </ul> </body>

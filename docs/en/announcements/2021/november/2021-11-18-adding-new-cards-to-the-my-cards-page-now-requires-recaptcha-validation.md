@@ -15,17 +15,17 @@ announcementImageID: 'undefined'
 announcementSynopsisEN: 'reCAPTCHA validation will be required whenever a customer manually adds a new card to your store’s My Cards page.'
 ---
 
-Starting November 18, 2021, [reCAPTCHA](https://developers.google.com/recaptcha/docs/display) validation will be required whenever a customer manually adds a new card to your store’s [My Cards page](https://help.vtex.com/en/tutorial/como-funciona-a-minha-conta--2BQ3GiqhqGJTXsWVuio3Xh#cartoes).
+Starting November 18, 2021, [reCAPTCHA](https://developers.google.com/recaptcha/docs/display) validation will be required whenever a customer manually adds a new card to your store’s [My Cards page](/en/tutorial/como-funciona-a-minha-conta--2BQ3GiqhqGJTXsWVuio3Xh#cartoes).
 
 This also means that there are [improvements to the My Cards API endpoint](https://developers.vtex.com/vtex-developer-docs/changelog/improvements-my-cards-api-endpoint).
 
-This change is important because it dramatically reduces the likelihood of  attacks on the [My Cards](https://help.vtex.com/en/tutorial/como-funciona-a-minha-conta--2BQ3GiqhqGJTXsWVuio3Xh#cartoes) flow. However, this has no impact on your customers’ shopping experience, since it does not affect the Checkout flow in any way.
+This change is important because it dramatically reduces the likelihood of  attacks on the [My Cards](/en/tutorial/como-funciona-a-minha-conta--2BQ3GiqhqGJTXsWVuio3Xh#cartoes) flow. However, this has no impact on your customers’ shopping experience, since it does not affect the Checkout flow in any way.
 
 ## What needs to be done?
 
-If your store uses our native UI on the [My Cards page](https://help.vtex.com/en/tutorial/como-funciona-a-minha-conta--2BQ3GiqhqGJTXsWVuio3Xh#cartoes), the change should happen automatically. In this case, we expect no action will be required, but we recommend that you review the page layout, to make sure it works properly.
+If your store uses our native UI on the [My Cards page](/en/tutorial/como-funciona-a-minha-conta--2BQ3GiqhqGJTXsWVuio3Xh#cartoes), the change should happen automatically. In this case, we expect no action will be required, but we recommend that you review the page layout, to make sure it works properly.
 
 Note that in order to test this validation on your store, you must access it from the public address (without the `myvtex` environment), using a common user profile, without store administrator or developer privileges.
 
-If your store contains any UI implementation that communicates directly with this [API endpoint](https://developers.vtex.com/vtex-developer-docs/changelog/improvements-my-cards-api-endpoint), please get in touch with our [support team](https://help.vtex.com/en/support) to update your implementation accordingly.
+If your store contains any UI implementation that communicates directly with this [API endpoint](https://developers.vtex.com/vtex-developer-docs/changelog/improvements-my-cards-api-endpoint), please get in touch with our [support team](/en/support) to update your implementation accordingly.
 

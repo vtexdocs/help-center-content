@@ -15,7 +15,7 @@ locale: en
 subcategoryId: WpbGhubuRZaNZilJSXnqu
 ---
 
-In [Master Data v1](https://help.vtex.com/en/tutorial/master-data--4otjBnR27u4WUIciQsmkAw), it is possible to [create data entities](https://help.vtex.com/en/tutorial/data-entity--tutorials_1265#creating-data-entities) with different access restrictions for each field:
+In [Master Data v1](/en/tutorial/master-data--4otjBnR27u4WUIciQsmkAw), it is possible to [create data entities](/en/tutorial/data-entity--tutorials_1265#creating-data-entities) with different access restrictions for each field:
 
 * Make readable without credentials
 * Allow editing without credentials
@@ -51,7 +51,7 @@ Depending on the data stored, public access without authentication can pose a ri
 
 ## Required permissions
 
-After following the previous instructions, it is mandatory to have a [role](https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) with the necessary [permissions](https://help.vtex.com/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) to access the following information:
+After following the previous instructions, it is mandatory to have a [role](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) with the necessary [permissions](/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) to access the following information:
 
 * At least one resource from the **Generic resources** category in the **Master Data** product: **READONLY_USER_CRM**, **POWER_USER_CRM**, **NOREMOVE_USER_CRM**, or **ADMIN_CRM**.
 * At least one resource from the **Dynamic storage generic resources** category in the **Dynamic Storage** product:** READONLY_USER_DS**, **NOREMOVE_USER_DS**, **POWER_USER_DS**, or **ADMIN_DS**.

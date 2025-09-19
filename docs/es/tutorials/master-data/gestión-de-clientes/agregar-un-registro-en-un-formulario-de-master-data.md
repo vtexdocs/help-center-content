@@ -18,9 +18,9 @@ subcategoryId: 42hDtnYXHw5ExG6l19RP1l
 
 Para agregar un registro en un formulario de Master Data, debes acceder a Master Data y seleccionar la aplicación que deseas ver siguiendo las instrucciones que se detallan en las secciones a continuación.
 
-Los campos pueden configurarse como editables o no editables directamente en la entidad de datos. Más información en [Entidad de datos](https://help.vtex.com/es/tutorial/entidade-de-dados--tutorials_1265).
+Los campos pueden configurarse como editables o no editables directamente en la entidad de datos. Más información en [Entidad de datos](/es/tutorial/entidade-de-dados--tutorials_1265).
 
-> ⚠️ Este artículo describe el funcionamiento de Master Data v1. Es importante evaluar la versión de Master Data que es más adecuada para tu operación o verificar la que esté en uso. Más información: <ul> <li> [ Características de las versiones de Master Data ](https://help.vtex.com/tutorial/master-data--4otjBnR27u4WUIciQsmkAw#versions-available) </li> <li> [ Master Data v2 ](https://developers.vtex.com/vtex-rest-api/docs/getting-started-1) </li> </ul>
+> ⚠️ Este artículo describe el funcionamiento de Master Data v1. Es importante evaluar la versión de Master Data que es más adecuada para tu operación o verificar la que esté en uso. Más información: <ul> <li> [ Características de las versiones de Master Data ](/tutorial/master-data--4otjBnR27u4WUIciQsmkAw#versions-available) </li> <li> [ Master Data v2 ](https://developers.vtex.com/vtex-rest-api/docs/getting-started-1) </li> </ul>
 
 ## Agregar un registro
 

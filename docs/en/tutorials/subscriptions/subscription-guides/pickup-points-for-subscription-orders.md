@@ -17,22 +17,22 @@ subcategoryId: 1rA9wuuskW3PpjvMrhatAM
 
 A pickup point is a physical location where customers can pick up their orders, instead of having them delivered to their homes. A common usage scenario for this feature is the in-store pickup, for example.
 
-In addition to regular orders, you can provide pickup points for subscription orders if you use the [Subscriptions module](https://help.vtex.com/en/tutorial/como-configurar-assinatura-v2--1FA9dfE7vJqxBna9Nft5Sj).
+In addition to regular orders, you can provide pickup points for subscription orders if you use the [Subscriptions module](/en/tutorial/como-configurar-assinatura-v2--1FA9dfE7vJqxBna9Nft5Sj).
 
 Check out how to enable this feature:
 
 - [Requirements](#requirements)
 - [Choosing pickup points](#choosing-pickup-points)
 
-> ℹ️ The pickup points feature is available only for accounts using the [Checkout V6](https://help.vtex.com/en/tutorial/ativar-o-checkout-v6--7qVqv3ptRvpVVplrvg8ruH).
+> ℹ️ The pickup points feature is available only for accounts using the [Checkout V6](/en/tutorial/ativar-o-checkout-v6--7qVqv3ptRvpVVplrvg8ruH).
 
 ## Requirements
 
 To offer pickup points for subscription orders, you must fulfill the logistical requirements listed below.
 
-*    You must have the [Subscriptions module](https://help.vtex.com/en/tutorial/como-configurar-assinatura-v2--1FA9dfE7vJqxBna9Nft5Sj) installed and the pickup points option enabled. To do that, please contact [our Support](https://support.vtex.com/hc/pt-br/requests).
-*    You need to configure pickup points for your store. You can only use pickup points from the main store or franchises (white label sellers) for subscription orders. Learn how to configure pickup points in our article [Adding pickup points](https://help.vtex.com/en/tutorial/adding-pickup-points--2R5ClQiwe4KoSQgsuiOw4E).
-*    Carriers associated with pickup points for subscription orders **cannot** have any [delivery windows](https://help.vtex.com/en/tutorial/entrega-agendada--22g3HAVCGLFiU7xugShOBi) configured.
+*    You must have the [Subscriptions module](/en/tutorial/como-configurar-assinatura-v2--1FA9dfE7vJqxBna9Nft5Sj) installed and the pickup points option enabled. To do that, please contact [our Support](https://support.vtex.com/hc/pt-br/requests).
+*    You need to configure pickup points for your store. You can only use pickup points from the main store or franchises (white label sellers) for subscription orders. Learn how to configure pickup points in our article [Adding pickup points](/en/tutorial/adding-pickup-points--2R5ClQiwe4KoSQgsuiOw4E).
+*    Carriers associated with pickup points for subscription orders **cannot** have any [delivery windows](/en/tutorial/entrega-agendada--22g3HAVCGLFiU7xugShOBi) configured.
 *   Make sure that you have the items in stock at the subscription cycle date (the moment when recurring orders are created).
 
 ## Choosing pickup points
@@ -47,6 +47,6 @@ To find out available pickup points near specific ZIP codes or geographic coordi
 
 ## Related articles
 
-- [How to configure subscriptions in your store](https://help.vtex.com/en/tutorial/como-configurar-assinatura-v2--1FA9dfE7vJqxBna9Nft5Sj)
-- [Adding pickup points](https://help.vtex.com/en/tutorial/configurar-pontos-de-retirada-pickup-points--2R5ClQiwe4KoSQgsuiOw4E)
-- [Setting up a white label seller as a pickup point](https://help.vtex.com/en/tutorial/setting-up-seller-white-label-as-a-pickup-point--6fSUE2O0taaoKieAaiuc4e)
+- [How to configure subscriptions in your store](/en/tutorial/como-configurar-assinatura-v2--1FA9dfE7vJqxBna9Nft5Sj)
+- [Adding pickup points](/en/tutorial/configurar-pontos-de-retirada-pickup-points--2R5ClQiwe4KoSQgsuiOw4E)
+- [Setting up a white label seller as a pickup point](/en/tutorial/setting-up-seller-white-label-as-a-pickup-point--6fSUE2O0taaoKieAaiuc4e)

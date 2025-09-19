@@ -20,7 +20,7 @@ tags:
   - Master Data
 ---
 
-Puedes configurar una [promoción personalizada](https://help.vtex.com/es/tutorial/criando-promocao-para-um-cluster-de-clientes) para aplicarla a un grupo específico de usuarios de tu tienda, lo que se denomina como un [clúster de clientes](https://help.vtex.com/es/tutorial/como-criar-um-cluster-de-clientes--frequentlyAskedQuestions_1724). Sin embargo, en algunos casos la promoción no se muestra correctamente a ese subconjunto de clientes. Las principales causas son:
+Puedes configurar una [promoción personalizada](/es/tutorial/criando-promocao-para-um-cluster-de-clientes) para aplicarla a un grupo específico de usuarios de tu tienda, lo que se denomina como un [clúster de clientes](/es/tutorial/como-criar-um-cluster-de-clientes--frequentlyAskedQuestions_1724). Sin embargo, en algunos casos la promoción no se muestra correctamente a ese subconjunto de clientes. Las principales causas son:
 
 - Ausencia o registro incorrecto del valor del clúster durante la configuración de la promoción.
 - Diferencia entre los valores registrados en la promoción y los valores asignados en los perfiles de los clientes.
@@ -37,7 +37,7 @@ Para comprobar si un clúster de clientes está asociado a una promoción, sigue
 
 2. Haz clic en la promoción que deseas verificar.
 
-3. En la sección **“¿Cuáles son las condiciones para que la promoción sea válida?”**, verifica que la opción **Clúster de clientes** esté marcada y si el campo tiene el [valor correcto del clúster deseado](https://help.vtex.com/es/tutorial/creando-promociones-cluster-clientes--tutorials_342#como-completar-el-campo-cluster-de-clientes).
+3. En la sección **“¿Cuáles son las condiciones para que la promoción sea válida?”**, verifica que la opción **Clúster de clientes** esté marcada y si el campo tiene el [valor correcto del clúster deseado](/es/tutorial/creando-promociones-cluster-clientes--tutorials_342#como-completar-el-campo-cluster-de-clientes).
 
 ![Cluster_es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/troubleshooting/operaciones-de-la-tienda/la-promocion-no-se-aplico-al-cluster-de-clientes_1.png)
 
@@ -59,6 +59,6 @@ Para resolver esta situación, puedes realizar una de las siguientes acciones:
 
 - Cambiar la opción __Clúster de clientes__ a la condición __Al menos uno de los siguientes__, lo que permite acceso a la promoción tanto a los clientes identificados como __empleado__ como a los que tienen el código __platinum__.
 
-- Mantener la opción __Clúster de clientes__ con la condición __Todos los siguientes__ y actualizar los registros de los clientes deseados en [Master Data](https://help.vtex.com/es/tutorial/master-data--4otjBnR27u4WUIciQsmkAw) para que incluyan ambos criterios: ser __empleado__ y ser de la categoría __platinum__.
+- Mantener la opción __Clúster de clientes__ con la condición __Todos los siguientes__ y actualizar los registros de los clientes deseados en [Master Data](/es/tutorial/master-data--4otjBnR27u4WUIciQsmkAw) para que incluyan ambos criterios: ser __empleado__ y ser de la categoría __platinum__.
 
 - Mantener la opción __Clúster de clientes__ con la condición __Todos los siguientes__ y utilizar otros valores que sean comunes a los clientes a los que deseas mostrar la promoción.

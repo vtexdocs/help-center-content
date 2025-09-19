@@ -17,7 +17,7 @@ subcategoryId: 5ZfsNR4ioEsIyu6wkyce0M
 
 In this article, you will find information on how to access your invoices or "boletos" (popular Brazilian off-line payment method), as they are widely known in Brazil. The way to access your invoices and more information about your account is the same, irrespective of the country where you are.
 
-To access them you need to link a [financial role](https://help.vtex.com/tutorial/como-criar-um-perfil-de-acesso-financeiro--717qPtxW3Cy9n5KrReHeVv) with all users who are authorized to have access to this information.
+To access them you need to link a [financial role](/tutorial/como-criar-um-perfil-de-acesso-financeiro--717qPtxW3Cy9n5KrReHeVv) with all users who are authorized to have access to this information.
 
 With an authorized financial role set, access the option *Account Setting > Billing > Invoices* to take invoices-related actions. On the next screen the available invoices will appear listed by month and color.
 
@@ -85,7 +85,7 @@ The Nota Fiscal will be opened in another tab on your browser. Click on **Print 
 
 ![baixar notafiscal en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/billing/invoices/how-to-download-the-vtex-invoices_3.gif)
 
-If you have questions about the amount charged on the invoice, read the article on [understanding the value of approved revenues](https://help.vtex.com/tutorial/understanding-the-value-of-approved-revenues--tutorials_4322).
+If you have questions about the amount charged on the invoice, read the article on [understanding the value of approved revenues](/tutorial/understanding-the-value-of-approved-revenues--tutorials_4322).
 
 
 

@@ -29,7 +29,7 @@ Para configurar Wabi, siga los pasos a continuación:
 
 ## Configurar la condición de pago Pagaré
 
-Si aún no has configurado los pagarés como método de pago en otros conectores de tu tienda, accede a [Configurar pagos con Pagaré](https://help.vtex.com/es/tutorial/configurar-pagos-con-pagare--5pW7avTwtyQcMu4uiW8quQ).
+Si aún no has configurado los pagarés como método de pago en otros conectores de tu tienda, accede a [Configurar pagos con Pagaré](/es/tutorial/configurar-pagos-con-pagare--5pW7avTwtyQcMu4uiW8quQ).
 
 Luego siga los pasos a continuación:
 
@@ -38,7 +38,7 @@ Luego siga los pasos a continuación:
 3. En **Pago personalizado**, haga clic en el botón correspondiente al nombre utilizado para el método de pago del pagaré (configurado en la sección anterior).
 4. Active la condición en el campo **Status**.
 5. En **Procesar con proveedor**, seleccione **wabipartnerbo-wabi-v0**.
-6. Si lo desea, también puede configurar [condiciones especiales de pago](https://help.vtex.com/es/tutorial/condiciones-especiales--tutorials_456).
+6. Si lo desea, también puede configurar [condiciones especiales de pago](/es/tutorial/condiciones-especiales--tutorials_456).
 7. Haga clic en `Guardar`.
 
 Después de seguir los pasos indicados, Wabi puede tardar hasta 10 minutos en aparecer en el checkout de tu tienda como una opción de pago.

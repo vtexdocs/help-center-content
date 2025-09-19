@@ -36,8 +36,8 @@ Agora você já tem uma regra de preço configurada para uma política comercial
 
 ## Saiba mais
 
-- [Estratégias de marketplace na VTEX](https://help.vtex.com/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402?&utm_source=autocomplete)
-- [Como funciona uma Política Comercial](https://help.vtex.com/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV)
-- [Criar uma política comercial](https://help.vtex.com/pt/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE)
-- [Configurar política comercial para marketplace](https://help.vtex.com/pt/tutorial/configurando-a-politica-comercial-para-marketplace--tutorials_404)
-- [Cadastrar o preço base de um produto](https://help.vtex.com/pt/tutorial/cadastrar-o-preco-base-de-um-produto--4S9SbPWlVmOAAWO6yq8wE6)
+- [Estratégias de marketplace na VTEX](/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402?&utm_source=autocomplete)
+- [Como funciona uma Política Comercial](/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV)
+- [Criar uma política comercial](/pt/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE)
+- [Configurar política comercial para marketplace](/pt/tutorial/configurando-a-politica-comercial-para-marketplace--tutorials_404)
+- [Cadastrar o preço base de um produto](/pt/tutorial/cadastrar-o-preco-base-de-um-produto--4S9SbPWlVmOAAWO6yq8wE6)

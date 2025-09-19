@@ -15,9 +15,9 @@ announcementImageID: 'undefined'
 announcementSynopsisPT: 'Em 2024, a VTEX descontinuará os conectores legados de pagamentos, que não utilizam o Payment Provider Protocol.'
 ---
 
-Para integrar meios de pagamentos à plataforma VTEX, provedores de pagamentos podem criar conectores de pagamentos utilizando o [Payment Provider Protocol](https://help.vtex.com/pt/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m) (PPP). Entretanto, há diversos conectores legados utilizando versões anteriores da nossa arquitetura de integração de pagamentos, que são menos estáveis e menos performáticas.
+Para integrar meios de pagamentos à plataforma VTEX, provedores de pagamentos podem criar conectores de pagamentos utilizando o [Payment Provider Protocol](/pt/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m) (PPP). Entretanto, há diversos conectores legados utilizando versões anteriores da nossa arquitetura de integração de pagamentos, que são menos estáveis e menos performáticas.
 
-> ⚠️ **Atualização (15/03/2024): **[Lista de conectores disponíveis para migração](https://help.vtex.com/pt/announcements/descontinuidade-de-conectores-legados-de-pagamento--11SHyRwcAr4fs46K7PccOr).
+> ⚠️ **Atualização (15/03/2024): **[Lista de conectores disponíveis para migração](/pt/announcements/descontinuidade-de-conectores-legados-de-pagamento--11SHyRwcAr4fs46K7PccOr).
 
 ## O que está mudando?
 
@@ -26,8 +26,8 @@ Para integrar meios de pagamentos à plataforma VTEX, provedores de pagamentos p
 A VTEX está iniciando a descontinuação destes conectores legados, que acontecerá em etapas:
 
 - **31 de janeiro de 2024** - Bloqueio da criação de novas afiliações de gateway usando conectores legados de pagamento. A partir desta data, lojas VTEX não poderão mais configurar conexões com os conectores que serão descontinuados. Todas as regras de pagamento já configuradas continuarão funcionando normalmente, sem impacto nas transações.
-- **10 de fevereiro de 2024** - Data limite sugerida para submeter novos conectores para homologação. Caso empresas parceiras desejem desenvolver novos conectores usando o [PPP](https://help.vtex.com/pt/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m), para substituir os conectores legados, é necessário que submetam para homologação até esta data. Caso contrário, a VTEX não garante a homologação de novos conectores em tempo hábil para que as lojas façam a configuração com o novo conector. Saiba mais sobre o [processo de homologação de novos conectores de pagamento](https://developers.vtex.com/docs/guides/payments-integration-payment-provider-homologation).
-- **31 de março de 2024** - Descontinuação definitiva de conectores que não usam o [PPP](https://help.vtex.com/pt/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m). A partir desta data a VTEX bloqueará todas as transações de conectores legados de pagamentos.
+- **10 de fevereiro de 2024** - Data limite sugerida para submeter novos conectores para homologação. Caso empresas parceiras desejem desenvolver novos conectores usando o [PPP](/pt/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m), para substituir os conectores legados, é necessário que submetam para homologação até esta data. Caso contrário, a VTEX não garante a homologação de novos conectores em tempo hábil para que as lojas façam a configuração com o novo conector. Saiba mais sobre o [processo de homologação de novos conectores de pagamento](https://developers.vtex.com/docs/guides/payments-integration-payment-provider-homologation).
+- **31 de março de 2024** - Descontinuação definitiva de conectores que não usam o [PPP](/pt/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m). A partir desta data a VTEX bloqueará todas as transações de conectores legados de pagamentos.
 
 ### Lista dos conectores legados de pagamentos
 
@@ -95,9 +95,9 @@ Confira a lista de todos os conectores que serão descontinuados:
 
 ## Por que estamos fazendo essa mudança?
 
-Os conectores que utilizam o [PPP](https://help.vtex.com/pt/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m) possuem taxas de autorização maiores do que os conectores legados. Portanto, migrar para novos conectores tende a aumentar as vendas das lojas VTEX.
+Os conectores que utilizam o [PPP](/pt/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m) possuem taxas de autorização maiores do que os conectores legados. Portanto, migrar para novos conectores tende a aumentar as vendas das lojas VTEX.
 
-Além disso, muitos conectores legados estão desatualizados em termos de tecnologia. A migração para conectores que utilizam o [PPP](https://help.vtex.com/pt/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m) garante que as lojas VTEX utilizarão tecnologias mais modernas e estáveis oferecidas pela VTEX.
+Além disso, muitos conectores legados estão desatualizados em termos de tecnologia. A migração para conectores que utilizam o [PPP](/pt/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m) garante que as lojas VTEX utilizarão tecnologias mais modernas e estáveis oferecidas pela VTEX.
 
 ## O que precisa ser feito?
 
@@ -105,7 +105,7 @@ As ações necessárias a partir desta mudança dependem do seu contexto no ecos
 
 ### Responsáveis por conectores legados de pagamentos
 
-Se você é um provedor de pagamentos responsável por um ou mais [conectores que serão descontinuados](#lista-dos-conectores-legados-de-pagamentos), você deve desenvolver um novo conector utilizando o [Payment Provider Protocol](https://help.vtex.com/pt/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m). Caso contrário, não poderá processar transações a partir da data de descontinuação mencionada acima.
+Se você é um provedor de pagamentos responsável por um ou mais [conectores que serão descontinuados](#lista-dos-conectores-legados-de-pagamentos), você deve desenvolver um novo conector utilizando o [Payment Provider Protocol](/pt/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m). Caso contrário, não poderá processar transações a partir da data de descontinuação mencionada acima.
 
 Neste caso, recomendamos que submeta seu novo conector para homologação até 10 de fevereiro de 2024, para que as lojas tenham tempo hábil para reconfigurar suas conexões de pagamentos antes da descontinuação. Saiba mais sobre o [processo de homologação de novos conectores de pagamento](https://developers.vtex.com/docs/guides/payments-integration-payment-provider-homologation).
 

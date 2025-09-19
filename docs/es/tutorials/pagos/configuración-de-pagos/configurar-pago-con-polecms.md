@@ -44,7 +44,7 @@ Para configurar PoleCMS, siga los pasos a continuación:
 4. Active la condición en el campo __Status__.
 5. En **Proceso con proveedor**, seleccione la opción **PoleCMS**.
 6. Si desea utilizar un sistema antifraude, seleccione la opción __Utilizar antifraude__.
-7. Si desea, puede [configurar condiciones especiales de pago](https://help.vtex.com/es/tutorial/condiciones-especiales--tutorials_456?&utm_source=autocomplete#).
+7. Si desea, puede [configurar condiciones especiales de pago](/es/tutorial/condiciones-especiales--tutorials_456?&utm_source=autocomplete#).
 8. Haga clic en `Guardar`.
 
 Después de seguir los pasos indicados, PoleCMS puede tardar hasta 10 minutos en aparecer en el checkout de tu tienda como una opción de pago.

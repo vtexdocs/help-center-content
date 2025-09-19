@@ -15,20 +15,20 @@ locale: en
 subcategoryId: 7fTH6bP0C4IaM8qWi0kkQC
 ---
 
-Warehouses are physical storage facilities for the ecommerce business. On the VTEX platform, you can add items to the warehouses you have configured in your store. Then you will be able to track items, their availability and manage their shipping through [loading docks](https://help.vtex.com/en/tutorial/gerenciar-doca--7K3FultD8I2cuuA6iyGEiW) and [shipping policies](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140). 
+Warehouses are physical storage facilities for the ecommerce business. On the VTEX platform, you can add items to the warehouses you have configured in your store. Then you will be able to track items, their availability and manage their shipping through [loading docks](/en/tutorial/gerenciar-doca--7K3FultD8I2cuuA6iyGEiW) and [shipping policies](/pt/tutorial/politica-de-envio--tutorials_140). 
 
-> ℹ️ To better understand how the VTEX platform interprets and defines warehouse operations, check out our article [Warehouse](https://help.vtex.com/en/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb).
+> ℹ️ To better understand how the VTEX platform interprets and defines warehouse operations, check out our article [Warehouse](/en/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb).
 
 In addition, you can add warehouses, the loading docks where products will be sent to, the processing time for transporting products from a warehouse to a loading dock, and the amount charged for handling them.
 
 This article describes how to:
 
-* [Add a warehouse](https://help.vtex.com/en/tutorial/managing-warehouses--tutorials_137#adding-a-warehouse).  
-* [Fill in warehouse fields](https://help.vtex.com/en/tutorial/managing-warehouses--tutorials_137#filling-in-warehouse-fields).  
-* [Edit a warehouse](https://help.vtex.com/en/tutorial/managing-warehouses--tutorials_137#editing-a-warehouse).  
-* [Delete a warehouse](https://help.vtex.com/en/tutorial/managing-warehouses--tutorials_137#editing-a-warehouse).
+* [Add a warehouse](/en/tutorial/managing-warehouses--tutorials_137#adding-a-warehouse).  
+* [Fill in warehouse fields](/en/tutorial/managing-warehouses--tutorials_137#filling-in-warehouse-fields).  
+* [Edit a warehouse](/en/tutorial/managing-warehouses--tutorials_137#editing-a-warehouse).  
+* [Delete a warehouse](/en/tutorial/managing-warehouses--tutorials_137#editing-a-warehouse).
 
-> ⚠️ For the logistics system to work as expected, we suggest that you configure it in the following order: <body> <ol> <li>[Shipping policy](https://help.vtex.com/en/tutorial/politica-de-envio--tutorials_140)</li> <li>[Loading dock](https://help.vtex.com/pt/tutorial/gerenciar-doca--7K3FultD8I2cuuA6iyGEiW)</li> <li>[Warehouse](https://help.vtex.com/en/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb)</li> </ol> </body>
+> ⚠️ For the logistics system to work as expected, we suggest that you configure it in the following order: <body> <ol> <li>[Shipping policy](/en/tutorial/politica-de-envio--tutorials_140)</li> <li>[Loading dock](/pt/tutorial/gerenciar-doca--7K3FultD8I2cuuA6iyGEiW)</li> <li>[Warehouse](/en/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb)</li> </ol> </body>
 
 ## Adding a warehouse
 
@@ -44,14 +44,14 @@ This article describes how to:
 
 * **Name**: the name of the warehouse.
 * **ID** (optional): the warehouse identifier. If this field is left empty, an ID will be created automatically.
-* **Origin**: associates the warehouse with a loading dock. Select a [loading dock](https://help.vtex.com/en/tutorial/gerenciar-doca--7K3FultD8I2cuuA6iyGEiW). 
+* **Origin**: associates the warehouse with a loading dock. Select a [loading dock](/en/tutorial/gerenciar-doca--7K3FultD8I2cuuA6iyGEiW). 
     * Click on `Add loading dock`.
     * Select one or more loading docks using <i class="fas fa-check-square"></i>.
     * Click on `Save changes`.
     * Once loading docks are selected, fill in the **Processing days and hours** field. Configure the time (in days and hours) for handling and transporting orders from the warehouse to the loading dock. Select the number of days by clicking <i class="fas fa-minus"></i> and <i class="fas fa-plus"></i> and the minutes or hours in the <i class="far fa-clock"></i> field.
     * Fill in the **Extra fee** field if you want to charge any additional costs of handling orders from the warehouse to the loading dock.
     * Click on `Save changes`.
-* **VTEX Sales App warehouse**: toggle the <i class="fas fa-toggle-on"></i> button to `Active` to associate a warehouse with a VTEX Sales App physical store. To associate [pickup points](https://help.vtex.com/en/tutorial/configurar-pontos-de-retirada-pickup-points--2R5ClQiwe4KoSQgsuiOw4E), they already must be listed in your store. Learn more about how to use this feature in the article [Physical stores as pickup points](https://help.vtex.com/en/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv/4hXfgqXxS1lwAfnxgja3xW). To learn more about how to use this feature, check out the article [Unified commerce strategies](https://help.vtex.com/en/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv/4hXfgqXxS1lwAfnxgja3xW).  
+* **VTEX Sales App warehouse**: toggle the <i class="fas fa-toggle-on"></i> button to `Active` to associate a warehouse with a VTEX Sales App physical store. To associate [pickup points](/en/tutorial/configurar-pontos-de-retirada-pickup-points--2R5ClQiwe4KoSQgsuiOw4E), they already must be listed in your store. Learn more about how to use this feature in the article [Physical stores as pickup points](/en/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv/4hXfgqXxS1lwAfnxgja3xW). To learn more about how to use this feature, check out the article [Unified commerce strategies](/en/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv/4hXfgqXxS1lwAfnxgja3xW).  
 
 ## Editing a warehouse
 
@@ -70,4 +70,4 @@ This article describes how to:
 3. On the card of the warehouse you want to delete, select <i class="fas fa-ellipsis-v"></i>.
 4. Click on `Delete`.
 
-> ⚠️ To add items to a warehouse, first, they must be listed in your catalog. Once you have listed them in your [catalog](https://help.vtex.com/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/7kz4uWVq6NoaOdUpiJv4PR) and added a warehouse, you must associate items with the warehouse on the [Inventory management page](https://help.vtex.com/en/tutorial/gerenciar-itens-em-estoque--tutorials_139).
+> ⚠️ To add items to a warehouse, first, they must be listed in your catalog. Once you have listed them in your [catalog](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/7kz4uWVq6NoaOdUpiJv4PR) and added a warehouse, you must associate items with the warehouse on the [Inventory management page](/en/tutorial/gerenciar-itens-em-estoque--tutorials_139).

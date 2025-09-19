@@ -43,11 +43,11 @@ Para obter acesso a informações de identificação de carrinhos, confira a [Ch
 
 Todas as informações (pessoais, entrega e pagamento) estão protegidas, sendo somente visualizadas pelo usuário cadastrado na plataforma (após realizar o login). Os dados aparecem mascarados para as demais pessoas que acessam o carrinho.
 
-Para saber mais sobre proteção de dados, acesse [Segurança do SmartCheckout](https://help.vtex.com/pt/tutorial/seguranca-do-smartcheckout--3SrJuuhrqwePUg1rp1exfB).
+Para saber mais sobre proteção de dados, acesse [Segurança do SmartCheckout](/pt/tutorial/seguranca-do-smartcheckout--3SrJuuhrqwePUg1rp1exfB).
 
 ## Rastreamento de páginas
 
 Quando novos parâmetros são inseridos em uma URL, como por exemplo a `querystring`, o rastreamento de páginas pode ser alterado, impactando avaliações realizadas por sistemas como o funil de conversão do Google Analytics. Para utilizar serviço de rastreamento de páginas com parâmetros adicionais, veja as regras atualizadas em 
-[como configurar funil de vendas no Google Analytics](https://help.vtex.com/pt/faq/configurar-funil-de-vendas-no-google-analytics).
+[como configurar funil de vendas no Google Analytics](/pt/faq/configurar-funil-de-vendas-no-google-analytics).
 
 > ℹ️ Caso utilize outro sistema de rastreamento de página em sua loja, verifique a documentação interna deste sistema.

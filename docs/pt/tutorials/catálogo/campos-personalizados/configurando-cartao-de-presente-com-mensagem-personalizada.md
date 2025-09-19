@@ -18,7 +18,7 @@ subcategoryId: 1hoOi2R0Rm6ky0yCwOUoiy
 O cartão presente com mensagem personalizada é muito utilizado principalmente em lojas que possuem listas de presentes, casamento etc.
 
 Para disponibilizar este produto para seu cliente é necessário configurar no Admin um novo Serviço de SKU. Para saber como criar Serviços de SKU, leia o artigo [Criar serviço para um SKU
-](https://help.vtex.com/pt/tutorial/criando-servico-para-um-sku--tutorials_252).
+](/pt/tutorial/criando-servico-para-um-sku--tutorials_252).
 
 Após criar o Serviço e adicionar um Valor a este serviço, cadastre um tipo de serviço para os SKUs e em seguida, atrele este serviço no SKU. Siga os passos abaixo para executar essa tarefa:
 
@@ -34,7 +34,7 @@ Após criar o Serviço e adicionar um Valor a este serviço, cadastre um tipo de
 10. Clique na seta ao lado do botão `Alterar` e, em seguida, clique em __Serviço__.
 11. Crie um novo serviço. Na tela de criação, selecione o tipo de serviço criado e a tabela de valores.
 
-Para mais informações sobre criação de serviçoes e como vincular valores veja o artigo [Criar serviço para um SKU](https://help.vtex.com/pt/tutorial/criando-servico-para-um-sku--tutorials_252).
+Para mais informações sobre criação de serviçoes e como vincular valores veja o artigo [Criar serviço para um SKU](/pt/tutorial/criando-servico-para-um-sku--tutorials_252).
 
 ## Validar configuração
 

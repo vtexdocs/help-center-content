@@ -17,7 +17,7 @@ announcementSynopsisEN: 'We have updated the process of exporting prices via spr
 
 In digital commerce, retailers frequently update prices to keep a product competitive. The faster prices change, the greater the chance of converting sales.
 
-On VTEX, you can change the price many times a day according to your store's strategy. In the Prices module, you can add or change the [base](https://help.vtex.com/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3XcXp0r5WrJvogB8KIX4Kx) or [fixed prices](https://help.vtex.com/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3XcXp0r5WrJvogB8KIX4Kx) using:
+On VTEX, you can change the price many times a day according to your store's strategy. In the Prices module, you can add or change the [base](/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3XcXp0r5WrJvogB8KIX4Kx) or [fixed prices](/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3XcXp0r5WrJvogB8KIX4Kx) using:
 
 - VTEX Admin
 - Price spreadsheet
@@ -48,4 +48,4 @@ The changes were made to:
 
 The new price export experience is available for all VTEX customers. To access it, go to the VTEX Admin under *Catalog > Prices > Price List* and click the <i class="fas fa-download"></i> icon to export prices.
 
-For more information, read the article [Exporting and importing via a price spreadsheet](https://help.vtex.com/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/5lV5s54lQ69zPXxngbpI5D).
+For more information, read the article [Exporting and importing via a price spreadsheet](/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/5lV5s54lQ69zPXxngbpI5D).

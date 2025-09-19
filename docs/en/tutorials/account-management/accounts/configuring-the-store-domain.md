@@ -54,7 +54,7 @@ Check out the host examples below and see which ones can be used as the main hos
 | Host example | Can be used as a host: yes (✔️) or not (❌) | Description |
 |---|---|---|
 | `www.mystore.com` | ✔️ | Contains the www subdomain. |
-| `mystore.com` | ❌ | Does not contain a subdomain. To configure access via this address, you must set up a host with a subdomain such as `www.mystore.com` and then create a redirect. Read [Best practices for accessing the store without www](https://help.vtex.com/en/tutorial/configuring-access-without-www--tutorials_4278) for more details. |
+| `mystore.com` | ❌ | Does not contain a subdomain. To configure access via this address, you must set up a host with a subdomain such as `www.mystore.com` and then create a redirect. Read [Best practices for accessing the store without www](/en/tutorial/configuring-access-without-www--tutorials_4278) for more details. |
 | `store.mybrand.com` | ✔️ | Contains the store subdomain. |
 | `www.store.mybrand.com` | ✔️ | Contains two subdomains: `www` and `store`. |
 
@@ -62,8 +62,8 @@ Check out the host examples below and see which ones can be used as the main hos
 
 To ensure your store is accessible via different URLs, such as `www.mystore.com` and `mystore.com`, you should register a single main host and redirect the additional addresses to the main one. Learn more about redirects:
 
-* [Redirection from other addresses](https://help.vtex.com/en/tutorial/redirecionamento-de-outros-enderecos--3Xi2AeLUx2QpJQu8DTX8KQ)
-* [Best practices for accessing the store without www](https://help.vtex.com/en/tutorial/configuring-access-without-www--tutorials_4278)
+* [Redirection from other addresses](/en/tutorial/redirecionamento-de-outros-enderecos--3Xi2AeLUx2QpJQu8DTX8KQ)
+* [Best practices for accessing the store without www](/en/tutorial/configuring-access-without-www--tutorials_4278)
 
 We recommend implementing a single host in your store.
 
@@ -80,12 +80,12 @@ To register a new host, they must comply with the guidelines specified in the [R
 7. Click `Add`.
 8. Click `Save`.
 
-After completing these steps, you can [configure DNS pointing to VTEX](https://help.vtex.com/en/tutorial/configurando-o-apontamento-de-dns-para-a-vtex--tutorials_4280).
+After completing these steps, you can [configure DNS pointing to VTEX](/en/tutorial/configurando-o-apontamento-de-dns-para-a-vtex--tutorials_4280).
 
 > ⚠️ [FastStore](https://www.faststore.dev/) stores also need to configure an address with the `secure` subdomain. Refer to the[ Configuring external DNS for a custom domain](https://www.faststore.dev/docs/go-live/2-configuring-external-dns) guide for more details.
 
-> ❗ If your operation has more than one VTEX account or [sub-account](https://help.vtex.com/en/tutorial/como-criar-multiloja-multidominio--tutorials_510), don't change hosts from one account to another. This will cause failures in many aspects of your store.
+> ❗ If your operation has more than one VTEX account or [sub-account](/en/tutorial/como-criar-multiloja-multidominio--tutorials_510), don't change hosts from one account to another. This will cause failures in many aspects of your store.
 
 ## Changing host
 
-The VTEX platform is designed to support host changes without adverse impacts. If you need to change your store's host, follow the steps described in [Changing the store domain](https://help.vtex.com/en/tutorial/change-the-store-domain--frequentlyAskedQuestions_626/).
+The VTEX platform is designed to support host changes without adverse impacts. If you need to change your store's host, follow the steps described in [Changing the store domain](/en/tutorial/change-the-store-domain--frequentlyAskedQuestions_626/).

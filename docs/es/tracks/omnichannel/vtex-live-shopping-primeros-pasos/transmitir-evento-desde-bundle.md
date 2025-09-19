@@ -17,7 +17,7 @@ order: 10
 
 Este artículo describe las etapas para transmitir tu evento desde el estudio Bundle.
 
-> ❗ Si utilizas otro estudio, consulta [Utilizar estudios externos](https://help.vtex.com/es/tracks/vtex-live-shopping-primeros-pasos--3eCHNCIx8XhZOSmX0sQT3U/Dw0QdKI0aGjmyD5Z6z5JC) y no dupliques la transmisión del evento en Bundle. **Live Shopping** permite solo una transmisión por estudio, y la plataforma reconocerá únicamente el primer estudio que transmita el evento.
+> ❗ Si utilizas otro estudio, consulta [Utilizar estudios externos](/es/tracks/vtex-live-shopping-primeros-pasos--3eCHNCIx8XhZOSmX0sQT3U/Dw0QdKI0aGjmyD5Z6z5JC) y no dupliques la transmisión del evento en Bundle. **Live Shopping** permite solo una transmisión por estudio, y la plataforma reconocerá únicamente el primer estudio que transmita el evento.
 
 Este proceso abarca las siguientes etapas:
 
@@ -29,9 +29,9 @@ Este proceso abarca las siguientes etapas:
 
 ## Iniciar el evento
 
-Para iniciar la transmisión, tu evento debe estar activado y el [status](https://help.vtex.com/es/tracks/vtex-live-shopping-primeros-pasos--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv#status-del-evento) debe ser `En vivo`, ya que solo los eventos activados tienen todas las opciones de configuración habilitadas. 
+Para iniciar la transmisión, tu evento debe estar activado y el [status](/es/tracks/vtex-live-shopping-primeros-pasos--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv#status-del-evento) debe ser `En vivo`, ya que solo los eventos activados tienen todas las opciones de configuración habilitadas. 
 
-Para más información, consulta el artículo [Iniciar un evento](https://help.vtex.com/es/tracks/vtex-live-shopping-primeros-pasos--3eCHNCIx8XhZOSmX0sQT3U/6NrWRLAJEHijcd6tLIWoqq).
+Para más información, consulta el artículo [Iniciar un evento](/es/tracks/vtex-live-shopping-primeros-pasos--3eCHNCIx8XhZOSmX0sQT3U/6NrWRLAJEHijcd6tLIWoqq).
 
 ## Iniciar la transmisión
 
@@ -40,8 +40,8 @@ Para iniciar la transmisión en vivo sigue los pasos a continuación.
 > ℹ️ Recomendamos tener una imagen de relleno antes de iniciar el evento para ajustar las últimas configuraciones. De esta forma, tu audiencia verá la imagen elegida.
 
 1. En el Admin VTEX, accede a la página **Apps > Live Shopping > Eventos > Información del evento**.
-2. En la sección **Estudio de streaming**, haz clic en `Acceder` para ir al estudio [Bundle](https://help.vtex.com/es/tracks/vtex-live-shopping-primeros-pasos--3eCHNCIx8XhZOSmX0sQT3U/3GKzrP9nkyRwpUyyeYUaeX).
-3. Después de iniciar sesión en la página [My Studio](https://help.vtex.com/es/tracks/vtex-live-shopping-primeros-pasos--3eCHNCIx8XhZOSmX0sQT3U/3GKzrP9nkyRwpUyyeYUaeX#my-studio) en Bundle, haz clic en `Go Live` en la esquina superior derecha de la página. Si observas el mensaje `Loading`, espera unos segundos para que se muestre el botón de inicio de la transmisión.
+2. En la sección **Estudio de streaming**, haz clic en `Acceder` para ir al estudio [Bundle](/es/tracks/vtex-live-shopping-primeros-pasos--3eCHNCIx8XhZOSmX0sQT3U/3GKzrP9nkyRwpUyyeYUaeX).
+3. Después de iniciar sesión en la página [My Studio](/es/tracks/vtex-live-shopping-primeros-pasos--3eCHNCIx8XhZOSmX0sQT3U/3GKzrP9nkyRwpUyyeYUaeX#my-studio) en Bundle, haz clic en `Go Live` en la esquina superior derecha de la página. Si observas el mensaje `Loading`, espera unos segundos para que se muestre el botón de inicio de la transmisión.
 4. En la ventana de confirmación, haz clic en `Yes`.
 
 Después de la cuenta regresiva de cinco segundos en el reproductor, la transmisión comenzará y el contenido en vivo se mostrará a tu audiencia.
@@ -55,7 +55,7 @@ Los principales escenarios para cada opción son los siguientes:
 * [Salir del estudio Bundle sin interrumpir la transmisión](#salir-del-estudio-bundle-sin-interrumpir-la-transmision): cuando otra persona sea el anfitrión del evento y deseas salir del estudio. Esta acción mantendrá el status del evento como `En vivo`. 
 * [Finalizar la transmisión para todos](#finalizar-la-transmision-para-todos): cuando el evento haya terminado y deseas detener la transmisión por completo. Esto cambiará el status del evento a `Finalizado`.
 
-> ⚠️ Cuando el evento presenta el [status](https://help.vtex.com/es/tracks/vtex-live-shopping-primeros-pasos--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv#status-del-evento) `Finalizado`, ya no será posible transmitir en vivo a tu audiencia, y solo se podrá mostrar la grabación o iniciar un nuevo evento.
+> ⚠️ Cuando el evento presenta el [status](/es/tracks/vtex-live-shopping-primeros-pasos--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv#status-del-evento) `Finalizado`, ya no será posible transmitir en vivo a tu audiencia, y solo se podrá mostrar la grabación o iniciar un nuevo evento.
 
 ### Salir del estudio Bundle sin interrumpir la transmisión
 
@@ -70,7 +70,7 @@ Como administrador, puedes salir del estudio Bundle sin interferir en la transmi
 
 Para terminar completamente la transmisión en vivo sigue los pasos a continuación (solo para administradores):
 
-1. En [My Studio](https://help.vtex.com/es/tracks/vtex-live-shopping-primeros-pasos--3eCHNCIx8XhZOSmX0sQT3U/3GKzrP9nkyRwpUyyeYUaeX#my-studio) (Bundle), haz clic en `End live` en la esquina superior derecha de la página.
+1. En [My Studio](/es/tracks/vtex-live-shopping-primeros-pasos--3eCHNCIx8XhZOSmX0sQT3U/3GKzrP9nkyRwpUyyeYUaeX#my-studio) (Bundle), haz clic en `End live` en la esquina superior derecha de la página.
 2. En la ventana, haz clic en `Yes`. Esta acción finaliza la transmisión en Bundle, pero todavía puedes transmitir el evento desde otro estudio.
 3. En la ventana de confirmación, haz clic en `Yes`. Esta acción finaliza el evento en Admin VTEX, y ya no podrás reanudar el evento, ni siquiera desde otros estudios.
 
@@ -78,4 +78,4 @@ Otra forma de finalizar la transmisión desde Bundle es hacer clic en el botón 
 
 Observa que seleccionar la opción `Leave Meeting` es equivalente a salir del estudio sin interrumpir la transmisión en vivo.
 
-> ❗ Para evitar que tu audiencia vea una pantalla negra al finalizar la transmisión, puedes mostrar una imagen de cierre, como se indica a continuación:<ol><li>Antes de finalizar la transmisión, muestra la imagen de cierre en Bundle o en un estudio externo.</li><li>Oculta el componente **Live Shopping** o remueve el código de la tienda (consulta [Ocultar o remover el componente de Live Shopping](https://help.vtex.com/es/tracks/vtex-live-shopping-primeros-pasos--3eCHNCIx8XhZOSmX0sQT3U/7e3bP6LjFgxXC210jSpl59)).</li><li>Espera aproximadamente 10 minutos después de mostrar la imagen de cierre para permitir que la caché se actualice.</li><li>Finaliza el evento.</li></ol>
+> ❗ Para evitar que tu audiencia vea una pantalla negra al finalizar la transmisión, puedes mostrar una imagen de cierre, como se indica a continuación:<ol><li>Antes de finalizar la transmisión, muestra la imagen de cierre en Bundle o en un estudio externo.</li><li>Oculta el componente **Live Shopping** o remueve el código de la tienda (consulta [Ocultar o remover el componente de Live Shopping](/es/tracks/vtex-live-shopping-primeros-pasos--3eCHNCIx8XhZOSmX0sQT3U/7e3bP6LjFgxXC210jSpl59)).</li><li>Espera aproximadamente 10 minutos después de mostrar la imagen de cierre para permitir que la caché se actualice.</li><li>Finaliza el evento.</li></ol>

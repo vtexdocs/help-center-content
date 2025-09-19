@@ -18,7 +18,7 @@ order: 6
 Há três formas de cadastrar um preço base:
 
 - pelo Admin
-- [por planilha](https://help.vtex.com/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/5lV5s54lQ69zPXxngbpI5D) 
+- [por planilha](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/5lV5s54lQ69zPXxngbpI5D) 
 - por API REST
 
 Siga o passo a passo abaixo para cadastrar os preços base de seus SKUs: 

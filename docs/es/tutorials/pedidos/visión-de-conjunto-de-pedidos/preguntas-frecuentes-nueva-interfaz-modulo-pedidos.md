@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 3VNOhxDrvYxJThhuJClrYZ
 ---
 
-Hemos transformado el módulo **Todos los pedidos** del Admin VTEX para ofrecer una experiencia más intuitiva y completa. Una de las últimas mejoras es que ahora puedes [buscar pedidos sin límite de fecha](https://help.vtex.com/es/tutorial/como-filtrar-pedidos--tutorials_192) sin la restricción de solamente en los últimos seis meses.
+Hemos transformado el módulo **Todos los pedidos** del Admin VTEX para ofrecer una experiencia más intuitiva y completa. Una de las últimas mejoras es que ahora puedes [buscar pedidos sin límite de fecha](/es/tutorial/como-filtrar-pedidos--tutorials_192) sin la restricción de solamente en los últimos seis meses.
 
 A partir del 17 de enero de 2023, la nueva interfaz será el estándar de todas las tiendas VTEX y no se podrá revertir a la versión anterior. Para facilitar la transición, creamos este documento que responde a las siguientes preguntas:
 
@@ -30,7 +30,7 @@ En la imagen a continuación, puedes ver la correspondencia de secciones y campo
 
 ## ¿Qué pasó con el filtro de búsqueda de seis meses?
 
-El filtro de seis meses fue sustituido por la búsqueda sin límite de fecha que devuelve los pedidos relacionados con el criterio utilizado, independientemente de la fecha de creación del pedido. Por ejemplo, puedes acceder al historial de compras completo de un cliente utilizando su nombre, email o documento. Aprende más en el artículo [Filtrar pedidos en Todos los pedidos](https://help.vtex.com/es/tutorial/como-filtrar-pedidos--tutorials_192).
+El filtro de seis meses fue sustituido por la búsqueda sin límite de fecha que devuelve los pedidos relacionados con el criterio utilizado, independientemente de la fecha de creación del pedido. Por ejemplo, puedes acceder al historial de compras completo de un cliente utilizando su nombre, email o documento. Aprende más en el artículo [Filtrar pedidos en Todos los pedidos](/es/tutorial/como-filtrar-pedidos--tutorials_192).
 
 > ℹ️ La búsqueda en todos los pedidos no puede asociarse a otros filtros, por lo que al remover el límite de fechas de búsqueda, los demás filtros se inactivan. Sin embargo, puedes combinar filtros y seleccionar el periodo personalizado de seis meses.
 

@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 2cI57eZ3ZiWSeaQs26Gwys
 ---
 
-O recurso de Audiências de campanha permite segmentar as promoções da sua loja a partir da definição de [públicos-alvo](https://help.vtex.com/pt/tutorial/audiencias-de-campanhas--3o7lhpNseXY2WmjZO0gQ6m#publico-alvo) que atendem a critérios específicos. Para mais informações sobre essa funcionalidade, confira [Audiências de campanhas](https://help.vtex.com/pt/tutorial/audiencias-de-campanhas--3o7lhpNseXY2WmjZO0gQ6m).
+O recurso de Audiências de campanha permite segmentar as promoções da sua loja a partir da definição de [públicos-alvo](/pt/tutorial/audiencias-de-campanhas--3o7lhpNseXY2WmjZO0gQ6m#publico-alvo) que atendem a critérios específicos. Para mais informações sobre essa funcionalidade, confira [Audiências de campanhas](/pt/tutorial/audiencias-de-campanhas--3o7lhpNseXY2WmjZO0gQ6m).
 
 Siga os passos abaixo para criar uma nova audiência de campanha:
 
@@ -26,7 +26,7 @@ Siga os passos abaixo para criar uma nova audiência de campanha:
 5. Preencha os campos descritos na seção [Criar novo público-alvo](#criar-novo-publico-alvo).
 6. Clique em `Salvar`.
 
-> ⚠️ Após criar uma audiência de campanha, é preciso associá-la a uma promoção de campanha para ter efeito. Siga os passos indicados no guia [Criar promoção de campanha](https://help.vtex.com/pt/tutorial/promocao-de-campanha--1ChYXhK2AQGuS6wAqS8Ume).
+> ⚠️ Após criar uma audiência de campanha, é preciso associá-la a uma promoção de campanha para ter efeito. Siga os passos indicados no guia [Criar promoção de campanha](/pt/tutorial/promocao-de-campanha--1ChYXhK2AQGuS6wAqS8Ume).
 
 ## Dados gerais
 
@@ -47,7 +47,7 @@ Ao criar uma nova audiência de campanha, em **Quais os dados gerais desta audi�
 
 ## Criar novo público-alvo
 
-A configuração de público-alvo possibilita segmentar os usuários a partir de determinadas condições. Para mais informações sobre público alvo para audiências de campanha, leia [Audiências de campanhas](https://help.vtex.com/pt/tutorial/audiencias-de-campanhas--3o7lhpNseXY2WmjZO0gQ6m).
+A configuração de público-alvo possibilita segmentar os usuários a partir de determinadas condições. Para mais informações sobre público alvo para audiências de campanha, leia [Audiências de campanhas](/pt/tutorial/audiencias-de-campanhas--3o7lhpNseXY2WmjZO0gQ6m).
 
 Após clicar em `Criar novo público-alvo`, você precisa seguir as instruções abaixo:
 
@@ -88,20 +88,20 @@ Exemplo: participam do público-alvo os itens cuja marca é __Nike__, conforme i
 * **Valor máximo do pedido:** valor máximo que o total de itens no carrinho do cliente pode ter. Este total considera a soma dos preços dos produtos no carrinho que atendem aos critérios da audiência de campanha.
 * **Valor do item entre __ e __:** preço mínimo e máximo que cada item no carrinho pode ter. A audiência de campanha será ativada se o valor do item atender ao intervalo de valores preenchidos.
 * **Restrição de Promoção por BIN:** a audiência de campanha será ativada caso o _Bank Identification Number_ (BIN) do cartão de crédito esteja entre os caracteres preenchidos. O BIN corresponde aos 6 ou 8 números iniciais de um cartão e serve para identificar o banco e a bandeira do cartão.
-* **Marketing Tags:** campo utilizado para restringir a ativação da audiência de campanha caso a compra seja realizada pelo [módulo de Assinaturas da VTEX](https://help.vtex.com/pt/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453#).
+* **Marketing Tags:** campo utilizado para restringir a ativação da audiência de campanha caso a compra seja realizada pelo [módulo de Assinaturas da VTEX](/pt/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453#).
 * **Cluster de clientes:** o cliente fará parte do público-alvo caso esteja cadastrado no cluster selecionado. É importante destacar que o nome do cluster deve ser exatamente como cadastrado, qualquer erro de grafia impedirá o funcionamento correto da configuração.
 * **Número máximo de parcelas:** a audiência de campanha será ativada se o número de parcelas selecionado pelo cliente for menor ou igual ao número máximo cadastrado.
 * **Apenas na primeira compra:** a audiência de campanha só será ativada caso seja a primeira compra do cliente na sua loja.
 * **Aplicar o desconto mesmo se o usuário não estiver logado?: **este campo é disponibilizado quando o campo** Apenas na primeira compra é selecionado**. Se o campo atual for marcado, o cliente fará parte do público-alvo mesmo que não tenha inserido email e senha. Quando o campo for desmarcado, o cliente só fará parte do público-alvo se tiver acessado a loja com email e senha previamente cadastrados.
-* **Preço "de" e "por" são iguais** ou **Preço "de" e "por" são diferentes:** diz respeito aos valores do [preço de lista](https://help.vtex.com/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3XcXp0r5WrJvogB8KIX4Kx#preco-de-lista) no cadastro do produto. Somente uma das duas opções pode ser selecionada.
+* **Preço "de" e "por" são iguais** ou **Preço "de" e "por" são diferentes:** diz respeito aos valores do [preço de lista](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3XcXp0r5WrJvogB8KIX4Kx#preco-de-lista) no cadastro do produto. Somente uma das duas opções pode ser selecionada.
 * **O CEP de entrega deve Incluir / Excluir de __ até __:** permite incluir ou excluir intervalos de CEPs para envio de pedidos. A audiência de campanha será ativada caso o CEP atenda à regra configurada no público-alvo.
-* **Afiliados:** permite selecionar [afiliados](https://help.vtex.com/pt/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0) a partir de uma lista. A audiência de campanha será ativada se a compra for realizada em um marketplace dos afiliados selecionados.
+* **Afiliados:** permite selecionar [afiliados](/pt/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0) a partir de uma lista. A audiência de campanha será ativada se a compra for realizada em um marketplace dos afiliados selecionados.
 
   > ⚠️ A opção **Afiliados** se aplica somente se o afiliado for uma loja VTEX.
 * **Sellers:** permite definir se a campanha deve considerar sellers que sejam iguais ou diferentes dos selecionados, com base nos sellers cadastrados na sua conta.
-* **utm_source:** permite selecionar a [utm_source](https://help.vtex.com/pt/tutorial/o-que-sao-utm_source-utm_campaign-e-utm_medium--2wTz7QJ8KUG6skGAoAQuii) desejada ou criar uma nova para vincular à audiência de campanha. A audiência de campanha será ativada caso a navegação do cliente seja realizada com a utm_source correspondente a qualquer um dos valores cadastrados. É importante destacar que o cliente pode inserir apenas uma utm_source no checkout.
-* **utm_campaign:** permite selecionar a [utm_campaign](https://help.vtex.com/pt/tutorial/o-que-sao-utm_source-utm_campaign-e-utm_medium--2wTz7QJ8KUG6skGAoAQuii) desejada ou criar uma nova para vincular à audiência de campanha. O desconto será concedido caso a navegação seja realizada com a utm_campaign com o valor cadastrado.
-* **Tipo de frete:** permite selecionar os [tipos de entrega](https://help.vtex.com/pt/tutorial/como-funciona-o-tipo-de-entrega--tutorials_126) que serão incluídos no público-alvo. Exemplos: normal ou expressa. A audiência de campanha será ativada se um dos tipos de entrega definidos for selecionado pelo cliente ao fechar um pedido.
+* **utm_source:** permite selecionar a [utm_source](/pt/tutorial/o-que-sao-utm_source-utm_campaign-e-utm_medium--2wTz7QJ8KUG6skGAoAQuii) desejada ou criar uma nova para vincular à audiência de campanha. A audiência de campanha será ativada caso a navegação do cliente seja realizada com a utm_source correspondente a qualquer um dos valores cadastrados. É importante destacar que o cliente pode inserir apenas uma utm_source no checkout.
+* **utm_campaign:** permite selecionar a [utm_campaign](/pt/tutorial/o-que-sao-utm_source-utm_campaign-e-utm_medium--2wTz7QJ8KUG6skGAoAQuii) desejada ou criar uma nova para vincular à audiência de campanha. O desconto será concedido caso a navegação seja realizada com a utm_campaign com o valor cadastrado.
+* **Tipo de frete:** permite selecionar os [tipos de entrega](/pt/tutorial/como-funciona-o-tipo-de-entrega--tutorials_126) que serão incluídos no público-alvo. Exemplos: normal ou expressa. A audiência de campanha será ativada se um dos tipos de entrega definidos for selecionado pelo cliente ao fechar um pedido.
 * **Aplicar o desconto somente quando uma das transportadoras acima for selecionada pelo cliente:** a audiência de campanha será ativada somente após o cliente selecionar a forma de envio do pedido.
 * **Meio de pagamento:** permite selecionar os meios de pagamento que serão incluídos no público-alvo. A audiência de campanha será ativada se a forma de pagamento escolhida pelo cliente for a mesma cadastrada. 
 
@@ -109,6 +109,6 @@ Exemplo: participam do público-alvo os itens cuja marca é __Nike__, conforme i
 
 ## Saiba mais
 
-* [Audiências de campanhas](https://help.vtex.com/pt/tutorial/audiencias-de-campanhas--3o7lhpNseXY2WmjZO0gQ6m)
-* [Criar promoção de campanha](https://help.vtex.com/pt/tutorial/promocao-de-campanha--1ChYXhK2AQGuS6wAqS8Ume)
-* [Lista de Audiências de campanhas](https://help.vtex.com/pt/tutorial/lista-de-audiencias-de-campanhas--2aW3JH34Zsm4keR5wtXZbT)
+* [Audiências de campanhas](/pt/tutorial/audiencias-de-campanhas--3o7lhpNseXY2WmjZO0gQ6m)
+* [Criar promoção de campanha](/pt/tutorial/promocao-de-campanha--1ChYXhK2AQGuS6wAqS8Ume)
+* [Lista de Audiências de campanhas](/pt/tutorial/lista-de-audiencias-de-campanhas--2aW3JH34Zsm4keR5wtXZbT)

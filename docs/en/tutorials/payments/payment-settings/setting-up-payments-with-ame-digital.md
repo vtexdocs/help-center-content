@@ -34,7 +34,7 @@ To configure Ame Digital, follow the steps below:
 5. Activate the condition in the __Status__ field.
 6. If you want to use an anti-fraud system, select the option __Use anti-fraud__.
 7. Choose whether payments will be full or in installments.
-8. If you want, you can also [configure special payment conditions](https://help.vtex.com/en/tutorial/condiciones-especiales--tutorials_456?&utm_source=autocomplete#).
+8. If you want, you can also [configure special payment conditions](/en/tutorial/condiciones-especiales--tutorials_456?&utm_source=autocomplete#).
 9. Click on __Save__.
 
 After following the indicated steps, Ame Digital connector may take up to 10 minutes to appear at your store's checkout as a payment option.

@@ -58,7 +58,7 @@ Después de [crear una nueva versión de contenido](#crear-una-nueva-version-de-
 
 Después de [crear una nueva versión de contenido](#crear-una-nueva-version-de-contenido), puedes programar la publicación de la nueva versión en tu tienda mediante el recurso **Visibilidad**.
 
-Consulta la documentación [Programación de actualizaciones de contenido](https://help.vtex.com/es/tutorial/agendando-atualizacoes-de-conteudo--5L93gED3wgSRoWpFJlJ2ns) y aprende a utilizar el recurso **Visibilidad**.
+Consulta la documentación [Programación de actualizaciones de contenido](/es/tutorial/agendando-atualizacoes-de-conteudo--5L93gED3wgSRoWpFJlJ2ns) y aprende a utilizar el recurso **Visibilidad**.
 
 ## Eliminar versiones
 

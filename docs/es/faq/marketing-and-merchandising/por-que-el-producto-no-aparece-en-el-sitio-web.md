@@ -16,14 +16,14 @@ legacySlug: por-que-o-produto-nao-aparece-no-site
 
 Para que un producto se muestre en la vitrina de la tienda es necesario que esté disponible para la venta mediante las siguientes configuraciones:
 
-* El [producto](https://help.vtex.com/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1ROhz3Y7mfSMmCO1I1GxEL) y sus [SKUs](https://help.vtex.com/es/tutorial/o-que-e-um-sku--1K75s4RXAQyOuGUYKMM68u) están registrados en el catálogo.
-* El producto tiene [precio](https://help.vtex.com/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3N9xYhnampRQOrfaTAOxNu).
-* La configuración de [logística](#logistica) permite el envío del producto al cliente, incluyendo [almacén](https://help.vtex.com/es/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb), [muelle](https://help.vtex.com/es/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj), [política de envío](https://help.vtex.com/es/tutorial/politica-de-envio--tutorials_140), entre otros ajustes.
-* La configuración de [stock](https://help.vtex.com/es/tutorial/gerenciar-inventario--tutorials_139) es una de las siguientes:
-    * El producto tiene stock disponible para la venta (los ítems [reservados](https://help.vtex.com/es/tutorial/como-a-reserva-funciona--tutorials_92) no cuentan como disponibles).
+* El [producto](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1ROhz3Y7mfSMmCO1I1GxEL) y sus [SKUs](/es/tutorial/o-que-e-um-sku--1K75s4RXAQyOuGUYKMM68u) están registrados en el catálogo.
+* El producto tiene [precio](/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3N9xYhnampRQOrfaTAOxNu).
+* La configuración de [logística](#logistica) permite el envío del producto al cliente, incluyendo [almacén](/es/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb), [muelle](/es/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj), [política de envío](/es/tutorial/politica-de-envio--tutorials_140), entre otros ajustes.
+* La configuración de [stock](/es/tutorial/gerenciar-inventario--tutorials_139) es una de las siguientes:
+    * El producto tiene stock disponible para la venta (los ítems [reservados](/es/tutorial/como-a-reserva-funciona--tutorials_92) no cuentan como disponibles).
     * El producto tiene stock ilimitado configurado.
     * La opción de mostrar el producto sin stock (agotado) está activada.
-* Las plantillas del [Content Management System (CMS)](https://help.vtex.com/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/6OCY6S9tqBXPD5mgpbBInC) de la tienda están configuradas.
+* Las plantillas del [Content Management System (CMS)](/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/6OCY6S9tqBXPD5mgpbBInC) de la tienda están configuradas.
 
 Cuando un producto no se muestra en la vitrina, deben ajustarse una o más de estas configuraciones.
 
@@ -34,9 +34,9 @@ Este artículo explica cómo investigar errores de indisponibilidad de productos
 * [Logística](#logistica)
 * [CMS](#cms)
 
-> ⚠️ Después de ajustar la información de producto y SKU o editar la configuración de logística, debes esperar a que se indexe el producto. Puedes dar seguimiento al status a través de la [cola de indexación](https://help.vtex.com/es/tutorial/entendendo-o-funcionamento-da-indexacao) del Admin VTEX, en **Catálogo > Informes > Productos indexados**. Después de la indexación, recomendamos acceder a la página del producto en el sitio web de la tienda con una pestaña anónima en el navegador para ver la versión actualizada y sin caché.
+> ⚠️ Después de ajustar la información de producto y SKU o editar la configuración de logística, debes esperar a que se indexe el producto. Puedes dar seguimiento al status a través de la [cola de indexación](/es/tutorial/entendendo-o-funcionamento-da-indexacao) del Admin VTEX, en **Catálogo > Informes > Productos indexados**. Después de la indexación, recomendamos acceder a la página del producto en el sitio web de la tienda con una pestaña anónima en el navegador para ver la versión actualizada y sin caché.
 
-Hay casos en que el producto aparece en la vitrina, pero se muestra indisponible cuando se agrega al carrito. Esto puede depender de varios ajustes de logística. Aprende más en el artículo [¿Qué ajustes de logística impactan la disponibilidad del producto en el carrito?](https://help.vtex.com/es/tutorial/que-ajustes-de-logistica-impactan-la-disponibilidad-del-producto-en-el-carrito--NAyBFToRdvlDyOzeeAeNw).
+Hay casos en que el producto aparece en la vitrina, pero se muestra indisponible cuando se agrega al carrito. Esto puede depender de varios ajustes de logística. Aprende más en el artículo [¿Qué ajustes de logística impactan la disponibilidad del producto en el carrito?](/es/tutorial/que-ajustes-de-logistica-impactan-la-disponibilidad-del-producto-en-el-carrito--NAyBFToRdvlDyOzeeAeNw).
 
 ## Catálogo
 
@@ -63,11 +63,11 @@ Para verificar la configuración del producto, es importante que sigas los pasos
 
    > ⚠️ Al crear un nuevo producto, debes asociarlo a una marca y a una categoría que estén activas para que se active por primera vez. Sin embargo, una vez que un producto ya existe y está activo, la desactivación de la categoría y la marca no lo desactivará por completo. Los productos con categorías y marcas inactivas se vuelven invisibles en la tienda, es decir, no aparecen en la búsqueda y no tienen su propia página. Para que no estén disponibles, debes restablecer su cantidad en stock a cero.
 
-    * **Políticas comerciales:** revisa que el producto esté asociado a una [política comercial](https://help.vtex.com/es/tutorial/como-funciona-una-politica-comercial--6Xef8PZiFm40kg2STrMkMV). Si no lo está, usa el recuadro de selección para marcar la política comercial en la que deseas incluirlo.
+    * **Políticas comerciales:** revisa que el producto esté asociado a una [política comercial](/es/tutorial/como-funciona-una-politica-comercial--6Xef8PZiFm40kg2STrMkMV). Si no lo está, usa el recuadro de selección para marcar la política comercial en la que deseas incluirlo.
     * **Fecha de lanzamiento en el mercado:** verifica que la fecha de lanzamiento al mercado sea correcta. Si es una fecha futura, el producto recién se mostrará en el sitio web en la fecha indicada.
     * **Mostrar en el sitio web:** verifica si la opción **Sí** está seleccionada. De lo contrario, el producto no se mostrará.
     * **Producto activo:** verifica si la opción **Sí** está seleccionada. De lo contrario, el producto no se mostrará.
-    * **Mostrar producto agotado:** verifica si la opción **Sí** está seleccionada. En ese caso, se espera que los productos sin stock aparezcan en la tienda con el botón [Avísame](https://help.vtex.com/es/tutorial/configurar-la-opcion-avisame--2VqVifQuf6Co2KG048Yu6e). Si la opción no está seleccionada, puede ser que el producto no aparezca en la tienda porque no tiene stock disponible.
+    * **Mostrar producto agotado:** verifica si la opción **Sí** está seleccionada. En ese caso, se espera que los productos sin stock aparezcan en la tienda con el botón [Avísame](/es/tutorial/configurar-la-opcion-avisame--2VqVifQuf6Co2KG048Yu6e). Si la opción no está seleccionada, puede ser que el producto no aparezca en la tienda porque no tiene stock disponible.
     * En caso de que el producto tenga especificaciones, navega hasta la pestaña **Especificaciones** y verifica que se hayan rellenado los campos correspondientes.
 3. Luego de cualquier modificación, haz clic en `Guardar`.
 
@@ -119,7 +119,7 @@ En la página de SKU, en **Productos > Catálogo > Gestión de productos y SKU**
 
 ### Información indexada
 
-Para que un producto aparezca en el sitio web, debe estar [indexado](https://help.vtex.com/es/tutorial/entendiendo-el-funcionamento-de-la-indexacion--tutorials_256). El indexador del **Catálogo** permite ver la información detallada de la indexación de cada producto y SKU, siguiendo los pasos a continuación.
+Para que un producto aparezca en el sitio web, debe estar [indexado](/es/tutorial/entendiendo-el-funcionamento-de-la-indexacion--tutorials_256). El indexador del **Catálogo** permite ver la información detallada de la indexación de cada producto y SKU, siguiendo los pasos a continuación.
 
 1. En **Productos > Catálogo > Gestión de productos y SKU**, encuentra en la lista el producto que desees revisar.
 2. En la línea correspondiente al producto que se verificará, haz clic en la flecha hacia abajo <i class="fa-solid fa-sort-down"></i> al lado del botón `Modificar`.
@@ -141,7 +141,7 @@ Un SKU activo y sin errores tendrá el registro en el indexador parecido al que 
 
 ## Precios
 
-En el módulo de **Precios**, es importante verificar que los SKU del producto tengan [precios base](https://help.vtex.com/es/tracks/precios-101--6f8pwCns3PJHqMvQSugNfP/3XcXp0r5WrJvogB8KIX4Kx) registrados.
+En el módulo de **Precios**, es importante verificar que los SKU del producto tengan [precios base](/es/tracks/precios-101--6f8pwCns3PJHqMvQSugNfP/3XcXp0r5WrJvogB8KIX4Kx) registrados.
 
 1. Accede a **Productos > Precios > Lista de precios**.
 2. Verifica la línea de cada SKU y la columna correspondiente al precio en la política comercial deseada.
@@ -164,48 +164,48 @@ Para crear un precio base en el Admin VTEX, sigue los pasos a continuación:
 
 4. Haz clic en la `X` o en el área fuera de la barra lateral para guardar el precio.
 
-También puedes crear precios base por plantilla o por la API Pricing. Para más información, sigue los pasos que se describen en el artículo [Registrar precio base](https://help.vtex.com/es/tracks/precios-101--6f8pwCns3PJHqMvQSugNfP/P99EjtrlRHk92Q8qDPq29).
+También puedes crear precios base por plantilla o por la API Pricing. Para más información, sigue los pasos que se describen en el artículo [Registrar precio base](/es/tracks/precios-101--6f8pwCns3PJHqMvQSugNfP/P99EjtrlRHk92Q8qDPq29).
 
 ## Logística
 
-Diferentes aspectos de [logística](https://help.vtex.com/es/tutorial/fulfillment-logistica-vtex--53udnvI5eBy8DKo8FOjMoP) pueden afectar la disponibilidad de un producto en la vitrina. El producto puede estar indisponible porque la [estrategia de envío](https://help.vtex.com/es/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3) de la tienda no permite enviar a la ubicación del cliente o porque el producto no tiene suficiente cantidad disponible para la venta en el [stock](https://help.vtex.com/es/tutorial/gerenciar-inventario--tutorials_139).
+Diferentes aspectos de [logística](/es/tutorial/fulfillment-logistica-vtex--53udnvI5eBy8DKo8FOjMoP) pueden afectar la disponibilidad de un producto en la vitrina. El producto puede estar indisponible porque la [estrategia de envío](/es/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3) de la tienda no permite enviar a la ubicación del cliente o porque el producto no tiene suficiente cantidad disponible para la venta en el [stock](/es/tutorial/gerenciar-inventario--tutorials_139).
 
-> ℹ️ Si el producto se muestra como disponible en la vitrina, pero indisponible al agregarlo al carrito, consulta el artículo [¿Qué ajustes de logística impactan la disponibilidad del producto en el carrito?](https://help.vtex.com/es/tutorial/que-ajustes-de-logistica-impactan-la-disponibilidad-del-producto-en-el-carrito--NAyBFToRdvlDyOzeeAeNw).
+> ℹ️ Si el producto se muestra como disponible en la vitrina, pero indisponible al agregarlo al carrito, consulta el artículo [¿Qué ajustes de logística impactan la disponibilidad del producto en el carrito?](/es/tutorial/que-ajustes-de-logistica-impactan-la-disponibilidad-del-producto-en-el-carrito--NAyBFToRdvlDyOzeeAeNw).
 
 ### Simulador de envío
 
 El **Simulador de envío** permite probar la existencia de rutas viables, validar la configuración de logística de la tienda y consultar el stock.
 
-Para simular el envío de un ítem a una ubicación, en el Admin VTEX, accede a **Envío > Simulador de envío**. Puedes consultar todos los pasos en el artículo [Simulador de envío](https://help.vtex.com/es/tutorial/simulador-de-envio--tutorials_144).
+Para simular el envío de un ítem a una ubicación, en el Admin VTEX, accede a **Envío > Simulador de envío**. Puedes consultar todos los pasos en el artículo [Simulador de envío](/es/tutorial/simulador-de-envio--tutorials_144).
 
-> ⚠️ Al probar la disponibilidad de un ítem mediante el **Simulador de envío**, recomendamos que todas tus [políticas de envío](https://help.vtex.com/es/tutorial/politica-de-envio--tutorials_140) den servicio a la dirección utilizada. Si el ítem no está disponible para esta ubicación, no estará disponible para ninguna. 
+> ⚠️ Al probar la disponibilidad de un ítem mediante el **Simulador de envío**, recomendamos que todas tus [políticas de envío](/es/tutorial/politica-de-envio--tutorials_140) den servicio a la dirección utilizada. Si el ítem no está disponible para esta ubicación, no estará disponible para ninguna. 
 
-Cuando los ajustes de logística relacionados con la [política de envío](https://help.vtex.com/es/tutorial/politica-de-envio--tutorials_140), [almacén](https://help.vtex.com/es/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb) y [muelle](https://help.vtex.com/es/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj) están configurados correctamente y la política de envío da servicio a la ubicación del cliente, la causa de que el ítem no se muestre en la vitrina puede ser el stock, según se explica a continuación.
+Cuando los ajustes de logística relacionados con la [política de envío](/es/tutorial/politica-de-envio--tutorials_140), [almacén](/es/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb) y [muelle](/es/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj) están configurados correctamente y la política de envío da servicio a la ubicación del cliente, la causa de que el ítem no se muestre en la vitrina puede ser el stock, según se explica a continuación.
 
 ### Stock
 
 Para mantener la disponibilidad del producto en la vitrina en lo que respecta al stock puedes adoptar cualquiera de las siguientes estrategias:
 
-* Garantizar suficiente cantidad de ítems para la venta (los ítems [reservados](https://help.vtex.com/es/tutorial/como-a-reserva-funciona--tutorials_92) no se consideran como disponibles).
+* Garantizar suficiente cantidad de ítems para la venta (los ítems [reservados](/es/tutorial/como-a-reserva-funciona--tutorials_92) no se consideran como disponibles).
     * En el Admin VTEX, accede a **Catálogo > Stock > Gestión del stock**, edita el valor en la columna *Actualizar recuento* en la fila del producto correspondiente y haz clic en `Guardar`.
-* Activar la opción [stock ilimitado](https://help.vtex.com/es/tutorial/gerenciar-inventario--tutorials_139) para el producto.
+* Activar la opción [stock ilimitado](/es/tutorial/gerenciar-inventario--tutorials_139) para el producto.
     * En el Admin VTEX, accede a **Catálogo > Stock > Gestión del stock**, activa el botón de alternancia de la columna *Stock ilimitado* en la fila del producto correspondiente y haz clic en `Guardar`.
 * Configurar el producto para que se muestre en la vitrina aunque esté sin stock.
     * En el Admin VTEX, accede a **Catálogo > Todos los productos** y haz clic en Modificar en el producto correspondiente. En la pestaña *Producto*, marca la opción `Sí` en el campo `Mostrar producto sin stock`.
 
 Si el SKU tiene el [stock futuro](https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/inventory/items/-skuId-/warehouses/-warehouseId-/supplyLots/-supplyLotId-) configurado, el suministro del ítem podría tardar más de lo esperado. Durante ese periodo, la indisponibilidad del producto en la vitrina puede deberse al stock.
 
-> ⚠️ Si tu tienda tiene [cuentas franquicia](https://help.vtex.com/es/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#tipos-de-conta-na-vtex), para que el stock de las cuentas esté disponible para la venta, los productos deben estar asociados a la misma [política comercial](https://help.vtex.com/es/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) de la vitrina. 
+> ⚠️ Si tu tienda tiene [cuentas franquicia](/es/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#tipos-de-conta-na-vtex), para que el stock de las cuentas esté disponible para la venta, los productos deben estar asociados a la misma [política comercial](/es/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) de la vitrina. 
 
 ## CMS
 
-Si tu producto no aparece en el sitio web incluso después de verificar todas las configuraciones en **Catálogo**, **Precios** y **Logística**, es importante revisar el [CMS](https://help.vtex.com/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/6OCY6S9tqBXPD5mgpbBInC) de tu tienda. Luego, revisa si el _[binding](https://help.vtex.com/es/tutorial/que-es-binding--4NcN3NJd0IeYccgWCI8O2W)_ de tu tienda es el correcto y también revisa la configuración específica de [CMS - Portal Legado](https://help.vtex.com/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj) y [VTEX IO](https://help.vtex.com/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2).
+Si tu producto no aparece en el sitio web incluso después de verificar todas las configuraciones en **Catálogo**, **Precios** y **Logística**, es importante revisar el [CMS](/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/6OCY6S9tqBXPD5mgpbBInC) de tu tienda. Luego, revisa si el _[binding](/es/tutorial/que-es-binding--4NcN3NJd0IeYccgWCI8O2W)_ de tu tienda es el correcto y también revisa la configuración específica de [CMS - Portal Legado](/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj) y [VTEX IO](/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2).
 
 > ⚠️ Para realizar la revisión que se describe a continuación en el CMS, debes pedirle ayuda al equipo de desarrolladores encargado de tu tienda.
 
 ### Binding
 
-Independientemente de qué CMS usa tu tienda, ya sea el Portal Legado o VTEX IO, es necesario confirmar si el _[binding](https://help.vtex.com/es/tutorial/que-es-binding--4NcN3NJd0IeYccgWCI8O2W)_ está configurado, es decir, si el sitio web y su estructura de carpetas están bien asociados a tu cuenta VTEX.
+Independientemente de qué CMS usa tu tienda, ya sea el Portal Legado o VTEX IO, es necesario confirmar si el _[binding](/es/tutorial/que-es-binding--4NcN3NJd0IeYccgWCI8O2W)_ está configurado, es decir, si el sitio web y su estructura de carpetas están bien asociados a tu cuenta VTEX.
 
 1. En el Admin VTEX, accede a **CMS > Layout**.
 2. Haz clic en la carpeta **CMS**.
@@ -214,15 +214,15 @@ Independientemente de qué CMS usa tu tienda, ya sea el Portal Legado o VTEX IO,
 
     Si el ícono está azul, significa que el _binding_ está correcto y no debes hacer nada.
 
-    Si el ícono está amarillo, hay un error en el _binding_. En ese caso, deberás seguir los pasos que se indican en el artículo [Sitio web con error: ¿cómo ajustarlo?](https://help.vtex.com/es/faq/website-com-erro-como-ajustar) para corregir el error.
+    Si el ícono está amarillo, hay un error en el _binding_. En ese caso, deberás seguir los pasos que se indican en el artículo [Sitio web con error: ¿cómo ajustarlo?](/es/faq/website-com-erro-como-ajustar) para corregir el error.
 
 ### CMS - Portal Legado
 
-Si tu tienda utiliza el [CMS - Portal Legado](https://help.vtex.com/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj), se recomienda que los desarrolladores de tu tienda verifiquen si el [control](https://help.vtex.com/es/tutorial/lista-de-controles-para-templates--tutorials_563#controles-para-paginas-de-departamento-categoria-y-busqueda) del resultado de la búsqueda de productos (`<vtex.cmc:searchResult/>`) se está usando en las [plantillas](https://help.vtex.com/es/tutorial/como-crear-un-template-de-pagina--frequentlyAskedQuestions_1850) de las páginas Departamento, Categoría y Búsqueda en **CMS > Layout**,  porque, de no ser así, los productos no se mostrarán.
+Si tu tienda utiliza el [CMS - Portal Legado](/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj), se recomienda que los desarrolladores de tu tienda verifiquen si el [control](/es/tutorial/lista-de-controles-para-templates--tutorials_563#controles-para-paginas-de-departamento-categoria-y-busqueda) del resultado de la búsqueda de productos (`<vtex.cmc:searchResult/>`) se está usando en las [plantillas](/es/tutorial/como-crear-un-template-de-pagina--frequentlyAskedQuestions_1850) de las páginas Departamento, Categoría y Búsqueda en **CMS > Layout**,  porque, de no ser así, los productos no se mostrarán.
 
 ### CMS - VTEX IO
 
-Si tu tienda se desarrolla en [VTEX IO](https://help.vtex.com/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2), los desarrolladores deben verificar la configuración de las **Páginas** y de los bloques incluidos en las plantillas de la tienda.
+Si tu tienda se desarrolla en [VTEX IO](/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2), los desarrolladores deben verificar la configuración de las **Páginas** y de los bloques incluidos en las plantillas de la tienda.
 
 #### Páginas
 
@@ -249,10 +249,10 @@ En los archivos del [tema de tu tienda](https://developers.vtex.com/vtex-develop
 
 ## Más información
 
-* [Catálogo - Definición de concepto](https://help.vtex.com/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3rA2tTpIoEXdv2nzC27zxR)
-* [¿Qué ajustes de logística impactan la disponibilidad del producto en el carrito?](https://help.vtex.com/es/tutorial/que-ajustes-de-logistica-impactan-la-disponibilidad-del-producto-en-el-carrito--NAyBFToRdvlDyOzeeAeNw)
-* [Cómo funciona la indexación](https://help.vtex.com/es/tutorial/entendiendo-el-funcionamento-de-la-indexacion--tutorials_256)
-* [Módulo de precios - Visión general](https://help.vtex.com/es/tracks/precios-101--6f8pwCns3PJHqMvQSugNfP/3N9xYhnampRQOrfaTAOxNu)
-* [Gestión del stock](https://help.vtex.com/es/tutorial/gestionar-items-en-inventario--tutorials_139)
-* [Simulador de envío](https://help.vtex.com/es/tutorial/simulador-de-envio--tutorials_144)
-* [CMS - Visión general](https://help.vtex.com/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/6OCY6S9tqBXPD5mgpbBInC)
+* [Catálogo - Definición de concepto](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3rA2tTpIoEXdv2nzC27zxR)
+* [¿Qué ajustes de logística impactan la disponibilidad del producto en el carrito?](/es/tutorial/que-ajustes-de-logistica-impactan-la-disponibilidad-del-producto-en-el-carrito--NAyBFToRdvlDyOzeeAeNw)
+* [Cómo funciona la indexación](/es/tutorial/entendiendo-el-funcionamento-de-la-indexacion--tutorials_256)
+* [Módulo de precios - Visión general](/es/tracks/precios-101--6f8pwCns3PJHqMvQSugNfP/3N9xYhnampRQOrfaTAOxNu)
+* [Gestión del stock](/es/tutorial/gestionar-items-en-inventario--tutorials_139)
+* [Simulador de envío](/es/tutorial/simulador-de-envio--tutorials_144)
+* [CMS - Visión general](/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/6OCY6S9tqBXPD5mgpbBInC)

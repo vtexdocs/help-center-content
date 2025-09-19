@@ -15,9 +15,9 @@ locale: en
 subcategoryId: 1RWR7qSyaREbD5RfgCjdYG
 ---
 
-> ℹ️ In [My Account](https://help.vtex.com/en/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh), customers can only access their orders from the last two years.
+> ℹ️ In [My Account](/en/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh), customers can only access their orders from the last two years.
 
-The new [My Account](https://help.vtex.com/en/tutorial/how-does-my-account-work--2BQ3GiqhqGJTXsWVuio3Xh) is already installed in all VTEX accounts pertaining to a **test environment**, allowing adjustments on the new page to be implemented without impacting user experience.
+The new [My Account](/en/tutorial/how-does-my-account-work--2BQ3GiqhqGJTXsWVuio3Xh) is already installed in all VTEX accounts pertaining to a **test environment**, allowing adjustments on the new page to be implemented without impacting user experience.
 
 This means that My Account already makes it possible for your store to customize when needed, before the app's bulk migration to production, through the link shown below:
 

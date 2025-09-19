@@ -17,7 +17,7 @@ order: 6
 
 El primer paso para transmitir un evento en vivo es iniciarlo. Esta acción no activará la transmisión del evento, pero te permitirá realizar todas las configuraciones necesarias.
 
-> ⚠️ Antes de tu primer evento en vivo, recomendamos realizar un [evento de prueba](https://help.vtex.com/es/tracks/vtex-live-shopping-primeros-pasos--3eCHNCIx8XhZOSmX0sQT3U/1le8tz3fyBdb7kR4UdxTjZ#probar-la-herramienta) para validar la configuración del producto, la calidad de la transmisión y la interactividad.
+> ⚠️ Antes de tu primer evento en vivo, recomendamos realizar un [evento de prueba](/es/tracks/vtex-live-shopping-primeros-pasos--3eCHNCIx8XhZOSmX0sQT3U/1le8tz3fyBdb7kR4UdxTjZ#probar-la-herramienta) para validar la configuración del producto, la calidad de la transmisión y la interactividad.
 
 Para iniciar un evento sigue los pasos a continuación:
 
@@ -39,12 +39,12 @@ Una vez que el evento está activado, toda la configuración estará disponible 
 | :---: | :--- |
 | ID | ID del evento, identificador único del evento. |
 | Nombre del evento | Nombre del evento. |
-| Fuente UTM | [Fuente de parámetro UTM](https://help.vtex.com/es/tutorial/que-son-utm-source-utm-campaign-y-utm-medium--2wTz7QJ8KUG6skGAoAQuii) configurada para monitorear datos del evento. |
+| Fuente UTM | [Fuente de parámetro UTM](/es/tutorial/que-son-utm-source-utm-campaign-y-utm-medium--2wTz7QJ8KUG6skGAoAQuii) configurada para monitorear datos del evento. |
 | Minutos utilizados | Minutos de transmisión transcurridos, contados en tiempo real. El contaje comienza cuando empieza la transmisión del evento. |
 | Servidor inbound | Código del servidor utilizado para conectar el evento entre las diferentes tiendas VTEX u otras plataformas, como Facebook y YouTube. |
 | Clave del servidor | Clave del servidor utilizada para conectar el evento entre las diferentes tiendas VTEX u otras plataformas, como Facebook y YouTube. |
 
-En esta sección puedes monitorear el [status del evento](https://help.vtex.com/es/tracks/vtex-live-shopping-primeros-pasos--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv#status-del-evento), como se muestra en la imagen a continuación:
+En esta sección puedes monitorear el [status del evento](/es/tracks/vtex-live-shopping-primeros-pasos--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv#status-del-evento), como se muestra en la imagen a continuación:
 
 ![article_6_turning_on_event_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/omnichannel/vtex-live-shopping-primeros-pasos/iniciar-evento_1.png)
 

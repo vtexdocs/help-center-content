@@ -37,5 +37,5 @@ This feature is valid for the following types of benefits:
 ## What needs to be done?
 No action is required. The new feature will be automatically available in all VTEX accounts from September 9, 2025.
 
-For more information, see [Configuring promotion budgets](https://help.vtex.com/tutorial/configurando-orcamentos-para-promocoes--3ZCbnELZdMNykXhqBYdFOa).
+For more information, see [Configuring promotion budgets](/tutorial/configurando-orcamentos-para-promocoes--3ZCbnELZdMNykXhqBYdFOa).
 

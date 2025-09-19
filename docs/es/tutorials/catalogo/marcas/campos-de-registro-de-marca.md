@@ -31,9 +31,9 @@ Para entender mejor el significado de los campos de registro de Marca, vea a con
 
 - __Lomadee Campaing Code__: código utilizado para las campañas de Buscapé. Rellenar este campo con el código permite el acompañamiento de métricas de remarketing asociadas a esa marca.
 
-- __Score (usado para el orden de la búsqueda)__: valor utilizado para definir la prioridad de la marca en la página de resultados de búsqueda. Para entender más sobre el campo y el orden de la búsqueda, acceda a nuestro artículo sobre [cómo funciona el campo Score](https://help.vtex.com/es/tutorial/--1BUZC0mBYEEIUgeQYAKcae)
+- __Score (usado para el orden de la búsqueda)__: valor utilizado para definir la prioridad de la marca en la página de resultados de búsqueda. Para entender más sobre el campo y el orden de la búsqueda, acceda a nuestro artículo sobre [cómo funciona el campo Score](/es/tutorial/--1BUZC0mBYEEIUgeQYAKcae)
 
-- __Exhibir en el menú del Home__: al seleccionar esta caja, la marca aparecerá en el menú de su tienda a través del control *Menú de Departamentos* (<vtex.cmc:departmentNavigator/>). Para entender más sobre el uso de controles, acceda a nuestro artículo con la [lista de controles](https://help.vtex.com/es/tutorial/--tutorials_563) para las páginas de su tienda.
+- __Exhibir en el menú del Home__: al seleccionar esta caja, la marca aparecerá en el menú de su tienda a través del control *Menú de Departamentos* (<vtex.cmc:departmentNavigator/>). Para entender más sobre el uso de controles, acceda a nuestro artículo con la [lista de controles](/es/tutorial/--tutorials_563) para las páginas de su tienda.
 
 - __Activar la marca__: al seleccionar esa caja, la marca queda visible y lista para el uso en los productos registrados.
 

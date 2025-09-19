@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-Mercado Pago Pro es una solución de pago de la [cartera digital](https://help.vtex.com/es/tutorial/que-es-una-cartera-digital--4v5wcOe4A0SiaimWM2cU60) Mercado Pago.
+Mercado Pago Pro es una solución de pago de la [cartera digital](/es/tutorial/que-es-una-cartera-digital--4v5wcOe4A0SiaimWM2cU60) Mercado Pago.
 
 Para ofrecerlo como medio de pago en SmartCheckout a sus consumidores, primero debe registrar una afiliación de Gateway y, posteriormente, configurar Mercado Pago Pro como un medio de pago.
 
@@ -23,8 +23,8 @@ Antes de configurar la condición de pago como tal, debe asegurarse de que los s
 
 Si es necesario, acceda a los enlaces a continuación para registrar a los subadquirentes:
 
-- [MercadoPagoV1](https://help.vtex.com/es/tutorial/configurar-el-subadquirente-mercadopagov1--6wTlR3UTJe6YMAsEuquO26)
-- [MercadoPagoV2](https://help.vtex.com/es/tutorial/configurar-el-subadquirente-mercadopagov2--1y6k8lCSzJYfPs2yObNFo4)
+- [MercadoPagoV1](/es/tutorial/configurar-el-subadquirente-mercadopagov1--6wTlR3UTJe6YMAsEuquO26)
+- [MercadoPagoV2](/es/tutorial/configurar-el-subadquirente-mercadopagov2--1y6k8lCSzJYfPs2yObNFo4)
 
 ## Configuración del medio de pago Mercado Pago Pro
 
@@ -41,7 +41,7 @@ Realice los siguientes pasos:
 7. En «Proceso con la afiliación», seleccione la opción __MercadoPagoV1__ o __MercadoPagoV2__.
 8. Si es necesario, haga clic en la casilla de selección __«Usando Antifraude»__.
 
-Al lado derecho de la pantalla, es posible configurar las [condiciones especiales de pago](https://help.vtex.com/es/tutorial/condiciones-especiales--tutorials_456).
+Al lado derecho de la pantalla, es posible configurar las [condiciones especiales de pago](/es/tutorial/condiciones-especiales--tutorials_456).
 
 Sin embargo, esa etapa es opcional. Usted puede hacer clic directamente en el __botón azul «Salvar»__ para finalizar la configuración del medio de pago.
 

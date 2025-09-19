@@ -27,8 +27,8 @@ Sin embargo, usted puede preferir que esa tienda funcione como un punto de recog
 
 Para implementar un punto de recogida de contingencia, es necesario configurar los siguientes pasos:
 
-1. En el Admin VTEX, [agrega un nuevo](https://help.vtex.com/es/tutorial/cadastro-de-pontos-de-retirada--2R5ClQiwe4KoSQgsuiOw4E) punto de recogida en la tienda, con stock para suministrar los ítems que abastecerán dicho punto de recogida.
-2. [Crea una nueva política de envío](https://help.vtex.com/es/tutorial/politica-de-envio--tutorials_140) cuya estrategia de envío coincida con la estrategia de envío previamente configurada en la política que utiliza la tienda física donde se recogerán los productos.
+1. En el Admin VTEX, [agrega un nuevo](/es/tutorial/cadastro-de-pontos-de-retirada--2R5ClQiwe4KoSQgsuiOw4E) punto de recogida en la tienda, con stock para suministrar los ítems que abastecerán dicho punto de recogida.
+2. [Crea una nueva política de envío](/es/tutorial/politica-de-envio--tutorials_140) cuya estrategia de envío coincida con la estrategia de envío previamente configurada en la política que utiliza la tienda física donde se recogerán los productos.
 3. Asocia esta nueva política al punto de recogida recién creado.
 
 De esta forma, tendrás dos rutas logísticas: una que utilizará el stock de la tienda física, y otra logística que utilizará el stock de una tienda diferente.

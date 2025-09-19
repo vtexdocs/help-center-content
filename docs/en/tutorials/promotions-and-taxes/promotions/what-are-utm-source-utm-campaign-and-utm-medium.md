@@ -30,11 +30,11 @@ You can use three types of UTM for traffic tracking:
 - **utm_medium:** Specifies the advertising medium, such as banner, CPC (cost per click), or newsletter.
 - **utm_campaign:** Defines the campaign name, indicating the marketing context, such as Christmas, release, or promotion.
 
-> ℹ️ On the Order Management page, only the `utm_source` parameter is [available for filtering](https://help.vtex.com/en/tutorial/como-filtrar-pedidos).
+> ℹ️ On the Order Management page, only the `utm_source` parameter is [available for filtering](/en/tutorial/como-filtrar-pedidos).
 
 > ❗ Don't use special characters in UTM values (example:`utm_source=#fb`). Only alphanumeric characters, hyphens, and underscores are supported.
 
 For more information about issues related to applying UTMs to carts, see [Why are the UTMs not being applied to the cart?](https://developers.vtex.com/vtex-rest-api/docs/check-marketing-utms-used-at-checkout#why-are-the-utms-not-being-applied-to-the-cart).
 
 ### Related articles
-- [What are the internal UTMs utmi_cp, utmi_pc and utmi_p](https://help.vtex.com/en/faq/o-que-sao-as-utms-internas-utmi_cp-utmi_pc-e-utmi_p)
+- [What are the internal UTMs utmi_cp, utmi_pc and utmi_p](/en/faq/o-que-sao-as-utms-internas-utmi_cp-utmi_pc-e-utmi_p)

@@ -17,13 +17,13 @@ subcategoryId: 1hoOi2R0Rm6ky0yCwOUoiy
 
 > ⚠️ Esta funcionalidad solo está disponible para las tiendas desarrolladas con [VTEX IO](https://vtex.com/es-es/store-framework/). Antes de seguir, debes [instalar y configurar el Product Customizer](https://developers.vtex.com/vtex-developer-docs/docs/vtex-product-customizer) en tu tienda.
 
-Una assembly option es un [anexo](https://help.vtex.com/es/tutorial/que-es-un-anexo--aGICk0RVbqKg6GYmQcWUm) para escenarios complejos, como la personalización de productos en las que es necesario controlar diferentes combinaciones de productos, la cantidad, ítems adicionales, costes y la gestión de stock.
+Una assembly option es un [anexo](/es/tutorial/que-es-un-anexo--aGICk0RVbqKg6GYmQcWUm) para escenarios complejos, como la personalización de productos en las que es necesario controlar diferentes combinaciones de productos, la cantidad, ítems adicionales, costes y la gestión de stock.
 
 En el siguiente ejemplo, una tienda ofrece múltiples assembly options para el producto _custom bell_ (campana personalizada). Estas opciones se muestran en la página de producto, donde el cliente puede seleccionar las opciones deseadas. Dependiendo de las opciones, puede haber un coste adicional para el SKU.
 
 ![assembly-option-ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/campos-personalizados/assembly-options_1.png)
 
-Puedes combinar distintos [SKU](https://help.vtex.com/es/tutorial/que-es-un-sku--1K75s4RXAQyOuGUYKMM68u) para ofrecer assembly options, como los _Bells add-ons Roman_ o los _Bells add-ons 1-3 lines_ en el ejemplo anterior. Si un ítem está agotado, se mostrará como no disponible.
+Puedes combinar distintos [SKU](/es/tutorial/que-es-un-sku--1K75s4RXAQyOuGUYKMM68u) para ofrecer assembly options, como los _Bells add-ons Roman_ o los _Bells add-ons 1-3 lines_ en el ejemplo anterior. Si un ítem está agotado, se mostrará como no disponible.
 
 En este artículo, explicamos cómo empezar a utilizar las opciones de ensamblaje (*Assembly Options*) en tu tienda.
 
@@ -31,11 +31,11 @@ En este artículo, explicamos cómo empezar a utilizar las opciones de ensamblaj
 
 Hay dos formas de implementar las opciones de ensamblaje: utilizando la [aplicación Assembly Options](#aplicacion-assembly-options) o la interfaz nativa de [Campos personalizados](#campos-personalizados) del __Catálogo__.
 
-> ⚠️ Al implementar las opciones de ensamblaje en una [cuenta de seller](https://help.vtex.com/es/tutorial/que-es-un-seller--5FkLvhZ3Few4CWWIuYOK2w), las opciones de personalización del producto se mostrarán a los clientes de tu tienda en el checkout. Para que las opciones se muestren en la página del producto, debes implementar la funcionalidad en una [cuenta de marketplace](https://help.vtex.com/es/tutorial/que-es-un-marketplace--680lLJTnmEAmekcC0MIea8).
+> ⚠️ Al implementar las opciones de ensamblaje en una [cuenta de seller](/es/tutorial/que-es-un-seller--5FkLvhZ3Few4CWWIuYOK2w), las opciones de personalización del producto se mostrarán a los clientes de tu tienda en el checkout. Para que las opciones se muestren en la página del producto, debes implementar la funcionalidad en una [cuenta de marketplace](/es/tutorial/que-es-un-marketplace--680lLJTnmEAmekcC0MIea8).
 
 ### Aplicación Assembly Options
 
-La aplicación [Assembly Options](https://apps.vtex.com/vtex-admin-assembly-options/p), disponible para las tiendas desarrolladas con [VTEX IO](https://vtex.com/br-pt/store-framework/), proporciona una interfaz para configurar y gestionar las opciones de personalización. En este caso, la sintaxis de las opciones de ensamblaje y el anexo se generan automáticamente. Para más información sobre esta aplicación, lee la [documentación sobre la Aplicación Assembly Options](https://help.vtex.com/es/tutorial/aplicacion-assembly-options--54mWg37mojrqOgCA79iqqk).
+La aplicación [Assembly Options](https://apps.vtex.com/vtex-admin-assembly-options/p), disponible para las tiendas desarrolladas con [VTEX IO](https://vtex.com/br-pt/store-framework/), proporciona una interfaz para configurar y gestionar las opciones de personalización. En este caso, la sintaxis de las opciones de ensamblaje y el anexo se generan automáticamente. Para más información sobre esta aplicación, lee la [documentación sobre la Aplicación Assembly Options](/es/tutorial/aplicacion-assembly-options--54mWg37mojrqOgCA79iqqk).
 
 ### Campos personalizados
 
@@ -61,9 +61,9 @@ El primer `[x-y]` corresponde a las reglas que se aplican al grupo, y entre cada
 
 #### Configuración del anexo
 
-Para agregar una assembly option, es necesario tener un adjunto ya creado. Consulta el artículo [Registrar un anexo](https://help.vtex.com/es/tutorial/registrar-un-anexo--7zHMUpuoQE4cAskqEUWScU) para aprender a crear uno.
+Para agregar una assembly option, es necesario tener un adjunto ya creado. Consulta el artículo [Registrar un anexo](/es/tutorial/registrar-un-anexo--7zHMUpuoQE4cAskqEUWScU) para aprender a crear uno.
 
-Después de añadir un anexo y [asociarlo a un SKU](https://help.vtex.com/es/tutorial/registrar-un-anexo--7zHMUpuoQE4cAskqEUWScU#asociar-el-anexo-a-un-sku), sigue los pasos que se indican a continuación para configurar la assembly option.
+Después de añadir un anexo y [asociarlo a un SKU](/es/tutorial/registrar-un-anexo--7zHMUpuoQE4cAskqEUWScU#asociar-el-anexo-a-un-sku), sigue los pasos que se indican a continuación para configurar la assembly option.
 
 1. En el Admin VTEX, accede a __Catálogo__, o escribe __Catálogo__ en la barra de búsqueda en la parte superior de la página.
 2. Haz clic en **Campos personalizados**.

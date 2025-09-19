@@ -25,7 +25,7 @@ Para configurar el surtido de productos, será necesario [asociar la política c
 
 Para configurar la logística, siga el paso a paso descrito en [este artículo](/es/tutorial/como-configurar-logistica-para-politica-comercial).
 
-Para saber más, consulte nuestro tutorial con más detalles sobre [cómo configurar una política comercial para marketplace](https://help.vtex.com/es/tutorial/configurando-a-politica-comercial-para-marketplace--tutorials_404).
+Para saber más, consulte nuestro tutorial con más detalles sobre [cómo configurar una política comercial para marketplace](/es/tutorial/configurando-a-politica-comercial-para-marketplace--tutorials_404).
 
 ## Seller
 
@@ -49,6 +49,6 @@ Después de crear un [afiliado](/es/tutorial/como-configurar-afiliado/), usted d
 
 #### **SEPA MÁS**
 
-- [Estrategias de marketplace en VTEX](https://help.vtex.com/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402?&utm_source=autocomplete)
-- [Como funciona una Política Comercial](https://help.vtex.com/es/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV)
-- [Crear una política comercial](https://help.vtex.com/es/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE)
+- [Estrategias de marketplace en VTEX](/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402?&utm_source=autocomplete)
+- [Como funciona una Política Comercial](/es/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV)
+- [Crear una política comercial](/es/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE)

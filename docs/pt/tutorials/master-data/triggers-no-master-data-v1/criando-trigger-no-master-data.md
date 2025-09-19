@@ -84,7 +84,7 @@ Siga as instruções a seguir para criar um trigger no Master Data v1:
 2. Clique na aba **Ativação**.
 3. Clique no botão `Adicionar`.
 4. Insira o **Nome** do trigger.
-5. Selecione a [entidade de dados](https://help.vtex.com/pt/tutorial/entidade-de-dados--tutorials_1265/ "entidade de dados") que irá disparar a ação do trigger.
+5. Selecione a [entidade de dados](/pt/tutorial/entidade-de-dados--tutorials_1265/ "entidade de dados") que irá disparar a ação do trigger.
 
    Após selecionar a entidade de dados, surgirão os demais campos de configuração.
 7. Selecione um status para o trigger, que pode ser **Ativo** ou **Desativado**.
@@ -165,5 +165,5 @@ Serão feitos os disparos de eventos para quando o registro não passar pelos fi
 
 ## Exemplos
 
-- [Configurar Carrinho Abandonado](https://help.vtex.com/pt/tutorial/configurando-carrinho-abandonado--tutorials_740)
+- [Configurar Carrinho Abandonado](/pt/tutorial/configurando-carrinho-abandonado--tutorials_740)
 

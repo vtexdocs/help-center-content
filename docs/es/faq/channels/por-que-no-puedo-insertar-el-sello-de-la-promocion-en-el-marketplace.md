@@ -24,4 +24,4 @@ La forma de configurar es directamente por el marketplace, caso exista alguna re
 
 ### Artículos relacionados
 
-[Configurar promoción para marketplace](https://help.vtex.com/es/tutorial/configurar-promocao-para-marketplace--tutorials_406)
+[Configurar promoción para marketplace](/es/tutorial/configurar-promocao-para-marketplace--tutorials_406)

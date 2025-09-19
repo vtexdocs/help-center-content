@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisPT: 'Adicionamos eventos do Headless CMS aos registros do Audit.'
 ---
 
-O [Audit](https://help.vtex.com/pt/tutorial/audit--5RXf9WJ5YLFBcS8q8KcxTA), módulo que registra eventos que acontecem na sua loja para auditoria futura, agora processa eventos do [Headless CMS](https://help.vtex.com/pt/tutorial/gerenciando-paginas--3DO6rBhZ1p3zndnFu5BgRt) – a solução da VTEX que permite gerenciar conteúdo na web com autonomia para criar, editar e publicar conteúdo por meio do VTEX Admin.
+O [Audit](/pt/tutorial/audit--5RXf9WJ5YLFBcS8q8KcxTA), módulo que registra eventos que acontecem na sua loja para auditoria futura, agora processa eventos do [Headless CMS](/pt/tutorial/gerenciando-paginas--3DO6rBhZ1p3zndnFu5BgRt) – a solução da VTEX que permite gerenciar conteúdo na web com autonomia para criar, editar e publicar conteúdo por meio do VTEX Admin.
 
 ## O que mudou?
 
@@ -38,7 +38,7 @@ Na coluna **Ação**, todos os eventos do Headless CMS também apresentam as seg
 * **VARIANT_ID:** código identificador único da versão do conteúdo.
 * **WORKSPACE:** workspace em que a alteração foi realizada.
 
-> ℹ️ Confira a [lista completa de eventos disponíveis no Audit](https://help.vtex.com/pt/tutorial/eventos-disponiveis-no-audit--6r1Mzcu5NmkmmDLJlz9CCZ).
+> ℹ️ Confira a [lista completa de eventos disponíveis no Audit](/pt/tutorial/eventos-disponiveis-no-audit--6r1Mzcu5NmkmmDLJlz9CCZ).
 
 ## O que precisa ser feito?
 

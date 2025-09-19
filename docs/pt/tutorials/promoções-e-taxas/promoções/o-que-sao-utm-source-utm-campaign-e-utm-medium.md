@@ -30,12 +30,12 @@ Também é possível associar promoções específicas a determinados valores de
 - **utm_medium:** especifica o meio de divulgação, como banner, CPC (custo por clique) ou newsletter.
 - **utm_campaign:** define o nome da campanha, indicando o contexto de marketing, como natal, lançamento ou promoção.
 
-> ℹ️ Na tela de Gerenciamento de Pedidos, apenas o parâmetro `utm_source` está [disponível para filtro](https://help.vtex.com/pt/tutorial/como-filtrar-pedidos).
+> ℹ️ Na tela de Gerenciamento de Pedidos, apenas o parâmetro `utm_source` está [disponível para filtro](/pt/tutorial/como-filtrar-pedidos).
 
 > ❗ Não utilize caracteres especiais nos valores de UTM, por exemplo, `utm_source=#fb`. Aceitam-se apenas caracteres alfanuméricos, hífens e underscores.
 
 Para mais informações sobre problemas relacionados à aplicação de UTMs no carrinho, consulte o artigo [Why are the UTMs not being applied to the cart?](https://developers.vtex.com/vtex-rest-api/docs/check-marketing-utms-used-at-checkout#why-are-the-utms-not-being-applied-to-the-cart).
 
 ### Artigos relacionados
-- [O que são as UTMs internas utmi_cp, utmi_pc e utmi_p](https://help.vtex.com/pt/faq/o-que-sao-as-utms-internas-utmi_cp-utmi_pc-e-utmi_p)
+- [O que são as UTMs internas utmi_cp, utmi_pc e utmi_p](/pt/faq/o-que-sao-as-utms-internas-utmi_cp-utmi_pc-e-utmi_p)
 

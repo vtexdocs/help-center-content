@@ -22,7 +22,7 @@ Para facilitar la gestión de estos permisos, License Manager se basa en [recurs
 
 ## Recursos
 
-Un **recurso** es una entidad asociada a una acción o información dentro de nuestra infraestructura. Por ejemplo, el recurso _Product management_ permite a un usuario acceder y editar el formulario de registro de productos en el Catálogo. Para obtener más detalles sobre cada recurso disponible consulta [Recursos de License Manager](https://help.vtex.com/es/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3).
+Un **recurso** es una entidad asociada a una acción o información dentro de nuestra infraestructura. Por ejemplo, el recurso _Product management_ permite a un usuario acceder y editar el formulario de registro de productos en el Catálogo. Para obtener más detalles sobre cada recurso disponible consulta [Recursos de License Manager](/es/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3).
 
 Cada request pasa por un análisis de seguridad para comprobar que el usuario dispone de los recursos necesarios, es decir, del permiso necesario para llevar a cabo esa acción. Sin los recursos necesarios, el request no podrá completarse.
 
@@ -34,27 +34,27 @@ Dado que al Admin suelen acceder múltiples colaboradores, es importante limitar
 
 Por ejemplo, un equipo de operadores de televentas solo necesita acceso a la información de los pedidos, por lo que no debería tener acceso a otros ajustes de la plataforma. En este caso, el rol solo debe contener recursos relacionados con la lectura de información de pedidos.
 
-Para gestionar los roles registrados en tu tienda y los usuarios asociados a ellos, accede a la [lista de roles](https://help.vtex.com/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc).
+Para gestionar los roles registrados en tu tienda y los usuarios asociados a ellos, accede a la [lista de roles](/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc).
 
 Consulta a continuación los diferentes tipos de roles que puedes registrar en la tienda.
 
 ### Tipos de rol
 
-Al [crear un nuevo rol](https://help.vtex.com/es/tutorial/crear-nuevo-rol--qGtNQpKSSAduX94l2WZBW), tienes la opción de utilizar uno de los predefinidos que proporciona VTEX o crear uno personalizado, seleccionando cada recurso necesario.
+Al [crear un nuevo rol](/es/tutorial/crear-nuevo-rol--qGtNQpKSSAduX94l2WZBW), tienes la opción de utilizar uno de los predefinidos que proporciona VTEX o crear uno personalizado, seleccionando cada recurso necesario.
 
-El administrador necesita tener un rol con el [recurso](https://help.vtex.com/es/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3) _Save access profile_ para crear roles en License Manager.
+El administrador necesita tener un rol con el [recurso](/es/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3) _Save access profile_ para crear roles en License Manager.
 
 #### Predefinidos
 
-Los roles predefinidos son conjuntos de recursos predeterminados por VTEX que cubren los casos de uso más comunes. Consulta la lista completa de [roles predefinidos](https://help.vtex.com/es/tutorial/perfis-de-acesso-predefinidos--jGDurZKJHvHJS13LnO7Dy) y sus permisos asociados.
+Los roles predefinidos son conjuntos de recursos predeterminados por VTEX que cubren los casos de uso más comunes. Consulta la lista completa de [roles predefinidos](/es/tutorial/perfis-de-acesso-predefinidos--jGDurZKJHvHJS13LnO7Dy) y sus permisos asociados.
 
 #### Personalizados
 
-Además de utilizar roles predefinidos, puedes [crear roles personalizados](https://help.vtex.com/pt/tutorial/crear-nuevo-rol--qGtNQpKSSAduX94l2WZBW#rol-personalizado) con los recursos necesarios para un grupo de usuarios administrativos de tu tienda.
+Además de utilizar roles predefinidos, puedes [crear roles personalizados](/pt/tutorial/crear-nuevo-rol--qGtNQpKSSAduX94l2WZBW#rol-personalizado) con los recursos necesarios para un grupo de usuarios administrativos de tu tienda.
 
 Por ejemplo, un equipo encargado de mantener actualizado el catálogo de la tienda generalmente lleva a cabo un conjunto de tareas bien definidas, como registrar y editar productos, categorías y marcas. En este caso, un administrador de cuenta puede crear un rol personalizado con todos los recursos necesarios para estos colaboradores.
 
-Consulta la lista completa de [recursos de License Manager](https://help.vtex.com/es/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3) que se pueden utilizar.
+Consulta la lista completa de [recursos de License Manager](/es/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3) que se pueden utilizar.
 
 ## Gestionar roles
 
@@ -70,13 +70,13 @@ En una cuenta recién creada, apenas el rol de *Owner (Admin Super)* se listará
 
 ## Crear roles
 
-En el caso de los usuarios que no deben tener acceso sin restricciones a la plataforma, es importante crear roles que limiten los recursos disponibles solo a los estrictamente necesarios para aquel tipo de usuario. Para ello, consulte la guía [Crear nuevo rol](https://help.vtex.com/es/tutorial/crear-nuevo-rol--qGtNQpKSSAduX94l2WZBW).
+En el caso de los usuarios que no deben tener acceso sin restricciones a la plataforma, es importante crear roles que limiten los recursos disponibles solo a los estrictamente necesarios para aquel tipo de usuario. Para ello, consulte la guía [Crear nuevo rol](/es/tutorial/crear-nuevo-rol--qGtNQpKSSAduX94l2WZBW).
 
-Puede crear un nuevo perfil basándose en los [roles predefinidos](https://help.vtex.com/es/tutorial/roles-de-usuario-predefinidos--jGDurZKJHvHJS13LnO7Dy) o de forma personalizada seleccionando los [recursos del License Manager](https://help.vtex.com/es/tutorial/recursos-del-license-manager--3q6ztrC8YynQf6rdc6euk3) necesarios.
+Puede crear un nuevo perfil basándose en los [roles predefinidos](/es/tutorial/roles-de-usuario-predefinidos--jGDurZKJHvHJS13LnO7Dy) o de forma personalizada seleccionando los [recursos del License Manager](/es/tutorial/recursos-del-license-manager--3q6ztrC8YynQf6rdc6euk3) necesarios.
 
 ## Más información
 
-* [Roles predefinidos](https://help.vtex.com/es/tutorial/perfis-de-acesso-predefinidos--jGDurZKJHvHJS13LnO7Dy)
-* [Crear nuevo rol](https://help.vtex.com/pt/tutorial/crear-nuevo-rol--qGtNQpKSSAduX94l2WZBW)
-* [Recursos del License Manager](https://help.vtex.com/es/tutorial/recursos-del-license-manager--3q6ztrC8YynQf6rdc6euk3).
+* [Roles predefinidos](/es/tutorial/perfis-de-acesso-predefinidos--jGDurZKJHvHJS13LnO7Dy)
+* [Crear nuevo rol](/pt/tutorial/crear-nuevo-rol--qGtNQpKSSAduX94l2WZBW)
+* [Recursos del License Manager](/es/tutorial/recursos-del-license-manager--3q6ztrC8YynQf6rdc6euk3).
 

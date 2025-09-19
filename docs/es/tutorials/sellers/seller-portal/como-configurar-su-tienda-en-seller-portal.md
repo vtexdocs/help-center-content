@@ -67,13 +67,13 @@ Para gestionar el Catálogo del Seller Portal mediante la API REST, consulte la 
 
 Conozca más leyendo los siguientes artículos:
 
-- [Seller Portal: Cómo funciona el Catálogo](https://help.vtex.com/es/tutorial/seller-portal-como-funciona-o-catalogo--7pMB6YOt6YQDQQbzFB4Pxp)      
-- [Lista de Productos](https://help.vtex.com/es/tutorial/lista-de-produtos-beta--49vxWqoaWRZC4atwLz6cMg)
-- [Cómo Crear un Producto](https://help.vtex.com/es/tutorial/como-criar-um-produto-beta--671zAWe0B9eCikzDu7kB1G)    
-- [Categorías](https://help.vtex.com/es/tutorial/categories-beta--798zOqqqbeec776xhcXSuV)    
-- [Marcas](https://help.vtex.com/es/tutorial/marcas-beta--3QvNtxO57U0QPNOGutv7Sy)
-- [Seller Portal: Productos Compartidos](https://help.vtex.com/es/tutorial/seller-portal-produtos-compartilhados--6vUGj2UmOuLzQTK9pj04lu)      
-- [Seller Portal: Detalles del Producto](https://help.vtex.com/es/tutorial/seller-portal-detalhes-do-produto--K0WWsERWj7aQtmZinhYoP)      
+- [Seller Portal: Cómo funciona el Catálogo](/es/tutorial/seller-portal-como-funciona-o-catalogo--7pMB6YOt6YQDQQbzFB4Pxp)      
+- [Lista de Productos](/es/tutorial/lista-de-produtos-beta--49vxWqoaWRZC4atwLz6cMg)
+- [Cómo Crear un Producto](/es/tutorial/como-criar-um-produto-beta--671zAWe0B9eCikzDu7kB1G)    
+- [Categorías](/es/tutorial/categories-beta--798zOqqqbeec776xhcXSuV)    
+- [Marcas](/es/tutorial/marcas-beta--3QvNtxO57U0QPNOGutv7Sy)
+- [Seller Portal: Productos Compartidos](/es/tutorial/seller-portal-produtos-compartilhados--6vUGj2UmOuLzQTK9pj04lu)      
+- [Seller Portal: Detalles del Producto](/es/tutorial/seller-portal-detalhes-do-produto--K0WWsERWj7aQtmZinhYoP)      
 
 ### 2. Precios
 
@@ -81,8 +81,8 @@ Para que se venda un producto, su cliente necesita saber cuánto cuesta cada ít
 
  Para aprender más, lea los siguientes artículos:
 
-- [Visión general del módulo de Precios](https://help.vtex.com/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP)  
-- [Registro de precios](https://help.vtex.com/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/P99EjtrlRHk92Q8qDPq29)  
+- [Visión general del módulo de Precios](/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP)  
+- [Registro de precios](/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/P99EjtrlRHk92Q8qDPq29)  
 
 ### 3. Logística
 
@@ -92,16 +92,16 @@ La ruta logística que compone una entrega comienza en el almacén, pasa por los
 
 Seller Portal ya trae algunas funcionalidades preconfiguradas para facilitar su interacción con la plataforma. Para acceder a los módulos de logística, navegue por la barra lateral haciendo clic en Envío > Tarifas de envío / Simulador de envío / Puntos de recogida / Estrategia de envío. Su cuenta ya tiene un almacén y un muelle estándar registrados, y no necesita cambiar esta configuración para que su tienda pueda vender en el marketplace. Sin embargo, es necesario finalizar la configuración logística registrando las siguientes funcionalidades:
 
-- [Transportadora](https://help.vtex.com/es/tutorial/politica-de-envio--tutorials_140)    
-- [Tarifas de envío](https://help.vtex.com/es/tutorial/gerenciar-valores-de-frete--tutorials_141)    
-- [Geolocalización](https://help.vtex.com/es/tutorial/gerenciar-geolocalizacao--tutorials_138)    
-- [Plantilla de flete](https://help.vtex.com/es/tutorial/planilha-de-frete--tutorials_127)    
+- [Transportadora](/es/tutorial/politica-de-envio--tutorials_140)    
+- [Tarifas de envío](/es/tutorial/gerenciar-valores-de-frete--tutorials_141)    
+- [Geolocalización](/es/tutorial/gerenciar-geolocalizacao--tutorials_138)    
+- [Plantilla de flete](/es/tutorial/planilha-de-frete--tutorials_127)    
 
 ### 4. Stock
 
 Para que sus productos se vendan en el marketplace, debe actualizar la cantidad de ítems disponibles en su stock. Seller Portal cuenta con la herramienta Gestionar ítems en inventario, con la cual usted puede actualizar la cantidad de ítems disponibles en un stock determinado, cuando sea necesario. Para acceder al stock, navegue por la barra lateral haciendo clic en Productos > Gestión del stock. Conozca más leyendo el siguiente artículo:    
 
-- [Gestionar inventario](https://help.vtex.com/es/tutorial/gerenciar-itens-em-estoque--tutorials_139)
+- [Gestionar inventario](/es/tutorial/gerenciar-itens-em-estoque--tutorials_139)
 
 ### 5. Pago
 
@@ -115,12 +115,12 @@ __Seller procesando el pago:__ si se designa al seller como procesador de pagos,
 
 Aprenda más leyendo los siguientes artículos:  
 
-- [Cómo funciona el módulo de Pagos](https://help.vtex.com/es/tracks/payments--6GAS7ZzGAm7AGoEAwDbwJG)    
-- [Cómo funciona el split de pagos entre los sellers y el marketplace](https://help.vtex.com/es/tracks/split-de-pagamentos--1ouDg8q56Kuz1AgtJUY9nv/ctgx6ulwy40P0BV07LW9y)     
-- [Configurar afiliados](https://help.vtex.com/es/tutorial/como-configurar-afiliado--tutorials_187)    
-- [Configurar un conector de pagos](https://help.vtex.com/es/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/7pAEMAo4iqNHwYOarZ3zgm)     
-- [ Configurar una condición de pago](https://help.vtex.com/es/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/6bzGxlz4inf8sKmvZ1c7i3)    
-- [Cómo configurar el antifraude](https://help.vtex.com/es/tutorial/como-configurar-antifraude--tutorials_446)  
+- [Cómo funciona el módulo de Pagos](/es/tracks/payments--6GAS7ZzGAm7AGoEAwDbwJG)    
+- [Cómo funciona el split de pagos entre los sellers y el marketplace](/es/tracks/split-de-pagamentos--1ouDg8q56Kuz1AgtJUY9nv/ctgx6ulwy40P0BV07LW9y)     
+- [Configurar afiliados](/es/tutorial/como-configurar-afiliado--tutorials_187)    
+- [Configurar un conector de pagos](/es/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/7pAEMAo4iqNHwYOarZ3zgm)     
+- [ Configurar una condición de pago](/es/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/6bzGxlz4inf8sKmvZ1c7i3)    
+- [Cómo configurar el antifraude](/es/tutorial/como-configurar-antifraude--tutorials_446)  
 
 ### 6. Vender productos
 
@@ -128,12 +128,12 @@ Cada vez que se crea un producto o una variación en Seller Portal, se envía au
 
 Anuncio es el nombre que le damos a un producto o variación de un seller, que ha sido enviado al marketplace y cuyas condiciones de precio y stock se configuraron. Cuando usted lleva a cabo estas configuraciones, el producto de su tienda se convierte, de hecho,  en un anuncio en la vitrina del marketplace. Conozca más leyendo nuestro artículo:  
 
-- [Seller Portal: Anuncios y Envío de Productos al Marketplace](https://help.vtex.com/es/tutorial/anuncios-y-envio-de-productos-al-marketplace--3RwSj7AyBoPtFbXkS7REiu)
+- [Seller Portal: Anuncios y Envío de Productos al Marketplace](/es/tutorial/anuncios-y-envio-de-productos-al-marketplace--3RwSj7AyBoPtFbXkS7REiu)
 
 ### 7. Pedidos
 En el momento en que el cliente final de la tienda presiona el botón *Pagar*, se genera un pedido en VTEX. Esto significa que ahora usted podrá realizar el seguimiento del flujo del pedido en el módulo de Gestión de pedidos dentro del panel de administración de su tienda. Es decir, puede conocer los detalles de cada paso del progreso del pedido. Para acceder al módulo de pedidos, navegue por la barra lateral haciendo clic en  Pedidos > Todos los pedidos / Transacciones. Conozca más leyendo nuestro artículo:
 
-- [Como funcionan pedidos en VTEX](https://help.vtex.com/es/tracks/orders--2xkTisx4SXOWXQel8Jg8sa/2sl6hj2eqwgqbDgTF6y5qE)  
+- [Como funcionan pedidos en VTEX](/es/tracks/orders--2xkTisx4SXOWXQel8Jg8sa/2sl6hj2eqwgqbDgTF6y5qE)  
 
 ### 8. Crear y gestionar promociones.
 
@@ -141,8 +141,8 @@ La página **Promociones** en el Seller Portal permite a los retaillers y market
 
 Para aprender más, lea los siguientes artículos:
 
-- [Seller Portal: Promociones](https://help.vtex.com/es/tutorial/seller-portal-promocoes--73LL7Ja0P4JbD77AH0jHwu)  
-- [Seller portal: crear una promoción](https://help.vtex.com/es/tutorial/seller-portal-criar-uma-promocao--kzNPEaiJE8EWkDzO9dbBI)  
+- [Seller Portal: Promociones](/es/tutorial/seller-portal-promocoes--73LL7Ja0P4JbD77AH0jHwu)  
+- [Seller portal: crear una promoción](/es/tutorial/seller-portal-criar-uma-promocao--kzNPEaiJE8EWkDzO9dbBI)  
 
 ### 9. Supervisar Gestión de anuncios
 
@@ -150,9 +150,9 @@ El módulo «Gestión de anuncios» permite a los sellers supervisar el envío d
 
 Para aprender más, lea los siguientes artículos:
 
-- [Módulo Gestión de anuncios](https://help.vtex.com/es/tutorial/listagem-de-anuncios--7MRb9S78aBdZjFGpbuffpE)  
-- [Gestión de anuncios: detalles del anuncio](https://help.vtex.com/es/tutorial/detalhes-do-anuncio--4FF9QYAewqAn610mDHwb0P)  
-- [Gestión de anuncios: detalles de la interacción](https://help.vtex.com/es/tutorial/detalhes-da-interacao--5qC6XPkyUsYPd0dqKHQNlf)
+- [Módulo Gestión de anuncios](/es/tutorial/listagem-de-anuncios--7MRb9S78aBdZjFGpbuffpE)  
+- [Gestión de anuncios: detalles del anuncio](/es/tutorial/detalhes-do-anuncio--4FF9QYAewqAn610mDHwb0P)  
+- [Gestión de anuncios: detalles de la interacción](/es/tutorial/detalhes-da-interacao--5qC6XPkyUsYPd0dqKHQNlf)
 
 ### 9. Dashboard Desempeño de Ventas
 
@@ -176,9 +176,9 @@ Estas configuraciones son las que se aplican a la cuenta de su tienda VTEX. Esto
 
 Si más personas en su operación necesitan acceder al Seller Portal, puede registrar nuevos usuarios. Los propietarios de cuentas pueden agregar nuevos usuarios, lo que permite que más personas accedan al Seller Portal. Para obtener más información, consulte los siguientes artículos:
 
-- [Gestión de cuentas](https://help.vtex.com/pt/tutorial/visao-geral-do-modulo-license-manager/)
-- [Administrar usuarios](https://help.vtex.com/pt/tutorial/gerenciando-usuarios--tutorials_512)
-- [Perfiles de acceso](https://help.vtex.com/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc)
+- [Gestión de cuentas](/pt/tutorial/visao-geral-do-modulo-license-manager/)
+- [Administrar usuarios](/pt/tutorial/gerenciando-usuarios--tutorials_512)
+- [Perfiles de acceso](/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc)
 
 **Configuración del usuario**
 Esta configuración se aplica a su perfil de usuario individual. Incluye datos personales y autenticación. Para acceder a esta funcionalidad, haga clic en el avatar de su perfil en la esquina superior derecha > Configuración del usuario.

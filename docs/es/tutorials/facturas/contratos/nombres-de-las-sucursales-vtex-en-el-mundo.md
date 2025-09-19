@@ -27,5 +27,5 @@ VTEX siente orgullo de tener oficinas en diversos países y varios clientes alre
 | México | Soluciones Cloud en Ecommerce S. de R.L. de C.V. |
 | Reino Unido | VTEX Ecommerce Platform Limited |
 
-Para saber en qué país usted es facturado, puede consultar su contrato o [descargar su factura](https://help.vtex.com/es/tutorial/como-fazer-download-faturas-da-VTEX--tutorials_653). Cuando abra su factura, encontrará en la esquina izquierda de la misma, debajo del logotipo VTEX, el nombre y la dirección de la empresa en la que se está facturando su tienda.
+Para saber en qué país usted es facturado, puede consultar su contrato o [descargar su factura](/es/tutorial/como-fazer-download-faturas-da-VTEX--tutorials_653). Cuando abra su factura, encontrará en la esquina izquierda de la misma, debajo del logotipo VTEX, el nombre y la dirección de la empresa en la que se está facturando su tienda.
 

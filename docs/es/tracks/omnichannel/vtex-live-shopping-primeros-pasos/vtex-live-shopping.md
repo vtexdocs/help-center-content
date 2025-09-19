@@ -15,7 +15,7 @@ trackSlugEN: vtex-live-shopping-primeros-pasos
 order: 1
 ---
 
-La aplicación [Live Shopping](https://help.vtex.com/es/tutorial/live-shopping--1cYWPIbjNMyr072sksHSVL) permite a las tiendas crear experiencias de compra inmersivas y en tiempo real directamente en el storefront. Los retailers pueden transmitir eventos en vivo en su sitio web para promover colecciones de productos, aumentar ventas y optimizar la experiencia de los usuarios mientras interactúan con ellos mediante el chat en vivo.
+La aplicación [Live Shopping](/es/tutorial/live-shopping--1cYWPIbjNMyr072sksHSVL) permite a las tiendas crear experiencias de compra inmersivas y en tiempo real directamente en el storefront. Los retailers pueden transmitir eventos en vivo en su sitio web para promover colecciones de productos, aumentar ventas y optimizar la experiencia de los usuarios mientras interactúan con ellos mediante el chat en vivo.
 
 Esta guía de onboarding técnico está diseñada para ayudar a los equipos de desarrollo y operaciones a implementar, configurar y optimizar **Live Shopping**. El objetivo es garantizar una configuración sin fricciones y permitir que las marcas creen eventos en vivo atractivos y orientados a la conversión.
 
@@ -35,7 +35,7 @@ Puedes ver las funcionalidades a continuación tal como aparecerían en un event
 
 ![article_1_overview_v3_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/omnichannel/vtex-live-shopping-primeros-pasos/vtex-live-shopping_1.png)
 
-> ℹ️ [Live Shopping](https://help.vtex.com/es/tutorial/live-shopping--1cYWPIbjNMyr072sksHSVL) es una aplicación de pago con diferentes planes de suscripción. Para más información, consulta [VTEX App Store](https://apps.vtex.com/liveshopping/p).
+> ℹ️ [Live Shopping](/es/tutorial/live-shopping--1cYWPIbjNMyr072sksHSVL) es una aplicación de pago con diferentes planes de suscripción. Para más información, consulta [VTEX App Store](https://apps.vtex.com/liveshopping/p).
 
 Si tienes preguntas, feedback o necesitas soporte para **Live Shopping**, ponte en contacto con nuestro [equipo de Soporte](https://docs.google.com/forms/d/e/1FAIpQLSf2PDBBWX2hXzw7Pa7VAn9l49CDUpI4Ug1U6yshDdas2d_Nkg/viewform).
 

@@ -27,4 +27,4 @@ Estructuralmente, primero se define la información del producto para luego crea
 
 ## Más información
 
-- [Registrar un producto](https://help.vtex.com/es/tutorial/registrar-productos--tutorials_2567)
+- [Registrar un producto](/es/tutorial/registrar-productos--tutorials_2567)

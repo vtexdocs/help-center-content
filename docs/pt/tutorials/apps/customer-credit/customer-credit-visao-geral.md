@@ -79,4 +79,4 @@ O fluxo no Customer Credit é similar ao de cartões de crédito em relação a 
 > ⚠️ Se for necessário alterar  uma ordem para diminuir o seu valor após o período de liquidação (emissão de títulos), o sistema irá atualizar os títulos para o novo valor. Caso o valor do pedido seja aumentado, o sistema criará novos títulos.
 
 ## Instalação e configuração
-Para instalar e configurar o Customer Credit em sua loja, acesse a Track [Customer Credit - Como começar](https://help.vtex.com/pt/tracks/customer-credit-como-comecar--1hCRg21lXYy2seOKgqQ2CC/36grlQ69NK6OCuioeekyCs).
+Para instalar e configurar o Customer Credit em sua loja, acesse a Track [Customer Credit - Como começar](/pt/tracks/customer-credit-como-comecar--1hCRg21lXYy2seOKgqQ2CC/36grlQ69NK6OCuioeekyCs).

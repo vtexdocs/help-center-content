@@ -77,7 +77,7 @@ This process is recommended for authentication issues concerning the Facebook in
 1. In the Admin menu, click on **Integrations**.
 2. Click **Settings**.
 3. In the Facebook card, click on **Integrate**.
-4. Fill in the fields in the modal window (see [field details](https://help.vtex.com/en/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc/747gwmk5oMkyb6FtwLo17B))
+4. Fill in the fields in the modal window (see [field details](/en/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc/747gwmk5oMkyb6FtwLo17B))
 5. Click **Save configuration**.
 
 When authenticating with Facebook, after reconfiguring the integration, it is important that the permissions requested by the APP are granted without exceptions.
@@ -92,8 +92,8 @@ The platform natively offers login options with email and password, and also log
 
 Before setting up our Google and Facebook login integrations, you need to create OAuth 2.0 credentials (the protocol used for integration) in these services. To do this, follow the instructions in the articles below:
 
-- [Facebook](https://help.vtex.com/en/tutorial/cadastrar-client-id-e-client-secret-para-login-com-facebook)
-- [Google](https://help.vtex.com/en/tutorial/cadastrar-client-id-e-client-secret-para-login-com-google)
+- [Facebook](/en/tutorial/cadastrar-client-id-e-client-secret-para-login-com-facebook)
+- [Google](/en/tutorial/cadastrar-client-id-e-client-secret-para-login-com-google)
 
 #### Setting up the integration in your store
 

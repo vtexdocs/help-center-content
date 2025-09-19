@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-Kushki is a [gateway](https://help.vtex.com/en/tutorial/what-is-a-payment-gateway--2KH9Wdi7F6swOU4amECSOk) with [PCI certification](https://help.vtex.com/tutorial/what-is-the-pci-ssc--4jo3Vkox3amSO2w4qIWa0E) focused on Latin America.
+Kushki is a [gateway](/en/tutorial/what-is-a-payment-gateway--2KH9Wdi7F6swOU4amECSOk) with [PCI certification](/tutorial/what-is-the-pci-ssc--4jo3Vkox3amSO2w4qIWa0E) focused on Latin America.
 
 To set up Kushki, follow the steps below:
 
@@ -27,8 +27,8 @@ To set up Kushki, follow the steps below:
 6.	In __Payment Control__, select whether you want to activate the provider in a test environment by clicking __Enable test mode__.
 7.	Click `Save`.
 
-To configure the payment methods to be processed by Kushki, access [Configuring Payment Conditions](https://help.vtex.com/en/tutorial/how-to-configure-payment-conditions--tutorials_455#).
+To configure the payment methods to be processed by Kushki, access [Configuring Payment Conditions](/en/tutorial/how-to-configure-payment-conditions--tutorials_455#).
 
-To set special conditions on payment methods, go to [Configuring payment special conditions](https://help.vtex.com/en/tutorial/special-conditions--tutorials_456#).
+To set special conditions on payment methods, go to [Configuring payment special conditions](/en/tutorial/special-conditions--tutorials_456#).
 
 After following the indicated steps, Kushki connector may take up to 10 minutes to appear at your store's checkout as a payment option.

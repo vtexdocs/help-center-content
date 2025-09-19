@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 23WdCYqmn2V2Z7SDlc14DF
 ---
 
-> ℹ️ Esta funcionalidad se encuentra en fase beta cerrada, lo que significa que por el momento solo tienen acceso a ella algunos clientes seleccionados. Si ya eres cliente VTEX y deseas adoptar esta funcionalidad en tu empresa, ponte en contacto con el equipo de [Soporte comercial](https://help.vtex.com/es/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ). Pueden aplicarse cargos adicionales. Si aún no eres cliente, pero te interesa esta solución, llena el [formulario de contacto](https://vtex.com/es-mx/contacto/).
+> ℹ️ Esta funcionalidad se encuentra en fase beta cerrada, lo que significa que por el momento solo tienen acceso a ella algunos clientes seleccionados. Si ya eres cliente VTEX y deseas adoptar esta funcionalidad en tu empresa, ponte en contacto con el equipo de [Soporte comercial](/es/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ). Pueden aplicarse cargos adicionales. Si aún no eres cliente, pero te interesa esta solución, llena el [formulario de contacto](https://vtex.com/es-mx/contacto/).
 
 La búsqueda híbrida de Intelligent Search combina la precisión de la búsqueda léxica con la inteligencia de los modelos semánticos de búsqueda para ofrecer una experiencia relevante, fluida y adaptada a la intención del usuario.
 

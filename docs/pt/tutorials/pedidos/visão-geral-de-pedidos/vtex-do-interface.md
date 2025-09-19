@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 3VNOhxDrvYxJThhuJClrYZ
 ---
 
-O VTEX DO é um gerenciador de tarefas criadas automaticamente pelo Admin VTEX, para que a equipe de ecommerce da sua loja as realize manualmente. Para acessá-lo, em seu Admin VTEX, vá em **Pedidos > [Todos os pedidos](https://help.vtex.com/pt/tutorial/lista-de-pedidos--2QTduKHAJMFIZ3BAsi6Pi)** e clique no ícone de caixa de entrada, localizado no canto inferior direito da página. Ao clicar no ícone, um modal se abrirá com a lista de tarefas relacionadas aos pedidos da loja. 
+O VTEX DO é um gerenciador de tarefas criadas automaticamente pelo Admin VTEX, para que a equipe de ecommerce da sua loja as realize manualmente. Para acessá-lo, em seu Admin VTEX, vá em **Pedidos > [Todos os pedidos](/pt/tutorial/lista-de-pedidos--2QTduKHAJMFIZ3BAsi6Pi)** e clique no ícone de caixa de entrada, localizado no canto inferior direito da página. Ao clicar no ícone, um modal se abrirá com a lista de tarefas relacionadas aos pedidos da loja. 
 
 ![VTEX Do overview PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pedidos/vis%C3%A3o-geral-de-pedidos/vtex-do-interface_1.gif)
 
@@ -81,7 +81,7 @@ As tarefas gerenciadas por meio do VTEX DO podem incluir mensagens de todos os s
   <tr>
    <td>Autorizar pedido com alçada
    </td>
-   <td>Pedido foi gerado com valor fora da [Regra de divergência de valores](https://help.vtex.com/pt/tutorial/regra-de-divergencia-de-valores--6RlFLhD1rIRRshl83KnCjW) configurada.
+   <td>Pedido foi gerado com valor fora da [Regra de divergência de valores](/pt/tutorial/regra-de-divergencia-de-valores--6RlFLhD1rIRRshl83KnCjW) configurada.
    </td>
    <td>Acesse os **Detalhes da tarefa** >  clique em **Ver detalhes** > autorize ou cancele o pedido na página de **Detalhes do pedido**.
    </td>
@@ -97,7 +97,7 @@ As tarefas gerenciadas por meio do VTEX DO podem incluir mensagens de todos os s
   <tr>
    <td>Ocorreu um erro na geração do pedido recorrente
    </td>
-   <td>Pedidos de [Assinatura](https://help.vtex.com/pt/tutorial/como-configurar-assinatura-v2--1FA9dfE7vJqxBna9Nft5Sj) costumam não serem autorizados por problemas no cartão de crédito do comprador. Sugerimos que a Central de Atendimento ao Consumidor da sua loja entre em contato com a pessoa para oferecer suporte.
+   <td>Pedidos de [Assinatura](/pt/tutorial/como-configurar-assinatura-v2--1FA9dfE7vJqxBna9Nft5Sj) costumam não serem autorizados por problemas no cartão de crédito do comprador. Sugerimos que a Central de Atendimento ao Consumidor da sua loja entre em contato com a pessoa para oferecer suporte.
    </td>
    <td>Acesse os **Detalhes da tarefa** >  clique em **Ver detalhes** > autorize ou cancele o pedido na página de **Detalhes do pedido**.
    </td>
@@ -105,7 +105,7 @@ As tarefas gerenciadas por meio do VTEX DO podem incluir mensagens de todos os s
   <tr>
    <td>Preço menor que markup mínimo
    </td>
-   <td>O valor da compra é menor do que o markup, ou a margem de lucro mínima do [preço base de um SKU](https://help.vtex.com/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/P99EjtrlRHk92Q8qDPq29).
+   <td>O valor da compra é menor do que o markup, ou a margem de lucro mínima do [preço base de um SKU](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/P99EjtrlRHk92Q8qDPq29).
    </td>
    <td>Acesse os **Detalhes da tarefa** >  clique em **Ver detalhes** > autorize ou cancele o pedido na página de **Detalhes do pedido**.
    </td>

@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 3b0iTwoSQZq9m3Z2ezbWLd
 ---
 
-En una operación B2B, las [condiciones de pago](https://help.vtex.com/es/tutorial/how-to-configure-payment-conditions--tutorials_455?&utm_source=autocomplete) se asignan a la organización compradora. Las elecciones que realices determinarán las opciones de pago disponibles para los usuarios de la organización durante el checkout.
+En una operación B2B, las [condiciones de pago](/es/tutorial/how-to-configure-payment-conditions--tutorials_455?&utm_source=autocomplete) se asignan a la organización compradora. Las elecciones que realices determinarán las opciones de pago disponibles para los usuarios de la organización durante el checkout.
 
 Los usuarios con rol de administrador de la organización pueden personalizar por centro de costos las opciones de pago disponibles.
 

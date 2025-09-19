@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 1TIJqw8kV2Yok4iQe4SAkq
 ---
 
-Esta guía tiene como objetivo responder las preguntas más frecuentes sobre cómo utilizar los [dashboards en el Admin VTEX](https://help.vtex.com/es/subcategory/visao-geral-do-insights--1TIJqw8kV2Yok4iQe4SAkq) durante la Black Week.  
+Esta guía tiene como objetivo responder las preguntas más frecuentes sobre cómo utilizar los [dashboards en el Admin VTEX](/es/subcategory/visao-geral-do-insights--1TIJqw8kV2Yok4iQe4SAkq) durante la Black Week.  
 
 - [¿Cuál es la mejor manera de hacer un seguimiento de mi tienda online durante la Black Week en el Admin VTEX?](#cual-es-la-mejor-manera-de-hacer-un-seguimiento-de-mi-tienda-online-durante-la-black-week-en-el-admin-vtex)
 - [¿Cómo puedo monitorear los datos de mi tienda online más allá del día de hoy?](#como-puedo-monitorear-los-datos-de-mi-tienda-online-mas-alla-del-dia-de-hoy)
@@ -74,7 +74,7 @@ Para consultar los productos más vendidos, en la sección **Métricas**  haz cl
 
 ## ¿Cómo puedo monitorear los datos de mi tienda online más allá del día de hoy?  
 
-Para un seguimiento efectivo de tu tienda online más allá del día actual, el [dashboard Desempeño de ventas de VTEX](https://help.vtex.com/es/tutorial/performance-de-vendas--3DMube0sEsK9vPcRYGas72) es la herramienta ideal. Su tasa de actualización es de, aproximadamente, 90 minutos, y ofrece un historial de datos más extenso. Aquí te explicamos cómo aprovecharlo al máximo:  
+Para un seguimiento efectivo de tu tienda online más allá del día actual, el [dashboard Desempeño de ventas de VTEX](/es/tutorial/performance-de-vendas--3DMube0sEsK9vPcRYGas72) es la herramienta ideal. Su tasa de actualización es de, aproximadamente, 90 minutos, y ofrece un historial de datos más extenso. Aquí te explicamos cómo aprovecharlo al máximo:  
 
 ### Filtros  
 

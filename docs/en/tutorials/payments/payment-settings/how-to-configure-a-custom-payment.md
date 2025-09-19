@@ -21,16 +21,16 @@ These payment methods are separated into three categories, and each category all
 
 ## Notes Payable
 
-A Note Payable is a promise of payment that needs manual approval of the seller to perform the transaction. It is often used to provide payment through money. To configure Notes Payable, access the documentation [Setting up payments with Notes Payable](https://help.vtex.com/en/tutorial/setting-up-payments-with-notes-payable).
+A Note Payable is a promise of payment that needs manual approval of the seller to perform the transaction. It is often used to provide payment through money. To configure Notes Payable, access the documentation [Setting up payments with Notes Payable](/en/tutorial/setting-up-payments-with-notes-payable).
 
 ## Store Cards (Own Brand)
 
-It allows the use of a store's credit card with its own brand. To configure this payment method, access the documentation [Setting up Private Label payments](https://help.vtex.com/en/tutorial/setting-up-private-label-payments).
+It allows the use of a store's credit card with its own brand. To configure this payment method, access the documentation [Setting up Private Label payments](/en/tutorial/setting-up-private-label-payments).
 
 ## Store Cards (Co-Branded)
 
-It allows the use of a store's credit card in partnership with one of the following networks: MasterCard, Visa, Amex and Diners. To configure this payment method, access the documentation [Setting up payments with Store Card (cobranded)](https://help.vtex.com/en/tutorial/setting-up-payments-with-store-card-cobranded).
+It allows the use of a store's credit card in partnership with one of the following networks: MasterCard, Visa, Amex and Diners. To configure this payment method, access the documentation [Setting up payments with Store Card (cobranded)](/en/tutorial/setting-up-payments-with-store-card-cobranded).
 
-After this configuration, the creation of a [Payment Condition](https://help.vtex.com/en/tutorial/how-to-configure-payment-conditions) is required.
+After this configuration, the creation of a [Payment Condition](/en/tutorial/how-to-configure-payment-conditions) is required.
 
 > ⚠️ We recommend using the automatic approval only in cases where the payment will be made upon delivery or pickup at the store. This option releases the payment of the order, meaning that the order automatically switches to the Preparing Delivery status, without payment verification.

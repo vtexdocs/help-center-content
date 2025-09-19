@@ -16,15 +16,15 @@ announcementSynopsisEN: 'Solve problems faster and autonomously with our redesig
 ---
 
 VTEX is constantly evolving to enhance the customer support experience and empower our clients to solve problems more efficiently and autonomously.
-To facilitate access to support, now you can use the Troubleshooting guides available in the [Help Center](https://help.vtex.com/subcategory/store-operations--2Q0IQjRcOqSgJTh6wRHVMB) and [Developer Portal](https://developers.vtex.com/docs/troubleshooting). These guides detail potential error scenarios in store operations and during store or app development, as well as provide instructions on how to proceed to restore expected performance for your store.
+To facilitate access to support, now you can use the Troubleshooting guides available in the [Help Center](/subcategory/store-operations--2Q0IQjRcOqSgJTh6wRHVMB) and [Developer Portal](https://developers.vtex.com/docs/troubleshooting). These guides detail potential error scenarios in store operations and during store or app development, as well as provide instructions on how to proceed to restore expected performance for your store.
 
 > ℹ️ Would you like to contribute to this initiative? Complete this [Feedback form](https://forms.gle/PdVNZmMDMjiDfJaf8).
 
 ## How are the Troubleshooting guides organized?
-The Troubleshooting guides are available in the [Help Center](https://help.vtex.com/subcategory/store-operations--2Q0IQjRcOqSgJTh6wRHVMB) and [Developer Portal](https://developers.vtex.com/docs/troubleshooting), organized into categories as follows:
+The Troubleshooting guides are available in the [Help Center](/subcategory/store-operations--2Q0IQjRcOqSgJTh6wRHVMB) and [Developer Portal](https://developers.vtex.com/docs/troubleshooting), organized into categories as follows:
 
-- [Help Center](https://help.vtex.com/category/troubleshooting--39pDkp8qxSll6mGj0tWViz):
-  - [Store operations](https://help.vtex.com/subcategory/store-operations--2Q0IQjRcOqSgJTh6wRHVMB): This section focuses on solving the difficulties with platform and ecommerce operations.
+- [Help Center](/category/troubleshooting--39pDkp8qxSll6mGj0tWViz):
+  - [Store operations](/subcategory/store-operations--2Q0IQjRcOqSgJTh6wRHVMB): This section focuses on solving the difficulties with platform and ecommerce operations.
 
 - [Developer Portal](https://developers.vtex.com/docs/troubleshooting)
   - **Development**: This section is designed to address errors related to storefront and app development.

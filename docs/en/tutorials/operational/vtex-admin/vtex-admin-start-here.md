@@ -20,7 +20,7 @@ VTEX Admin allows merchants to manage their entire digital commerce experience i
 ## Homepage
 ![Store Overview gif EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/operational/vtex-admin/vtex-admin-start-here_1.gif)
 
-The homepage provides a high-level overview of your store, like a cockpit for your digital commerce operations, and for this reason it’s called  [Overview](https://help.vtex.com/en/v4/docs/visao-geral-da-loja--6mcM4LPUqQxSiXY6uFtXZy).
+The homepage provides a high-level overview of your store, like a cockpit for your digital commerce operations, and for this reason it’s called  [Overview](/en/v4/docs/visao-geral-da-loja--6mcM4LPUqQxSiXY6uFtXZy).
 
 As soon as you log in to the Admin, you will see useful metrics and charts to monitor your store's performance, such as revenue and number of orders, sales funnel and conversion rate, and the 10 highest grossing products.
 
@@ -39,18 +39,18 @@ You can use the global search bar on the topbar to search for VTEX Admin pages o
 
 Check out our articles for an overview of each menu in your VTEX Admin to learn more about their features and the pages included in each section:
 
-- [Dashboards](https://help.vtex.com/en/v4/docs/visao-geral-dashboards--3FA56jDSTQjuSDwJRYQihm)   
-- [Orders](https://help.vtex.com/en/v4/docs/visao-geral-pedidos--wHTMvgtq5BuUJhZdYYExj)
-- [Products](https://help.vtex.com/en/v4/docs/visao-geral-produtos--5Aq3VcT9G9AeIAKFmHaf0u)   
-- [Promotions](https://help.vtex.com/en/v4/docs/visao-geral-promocoes--6ZSwEn2PJQ5qs0Az2EPbd3)  
-- [Storefront](https://help.vtex.com/en/v4/docs/visao-geral-storefront--6LK0TxoDqrJz2YnM90WvIk)  
-- [Shipping](https://help.vtex.com/en/v4/docs/visao-geral-envio--1hw1otLpTkIjQh4WiBTFYv)  
-- [Marketplace](https://help.vtex.com/en/v4/docs/visao-geral-marketplace--1MwABSIGjYSrFPUXhnUXiV)  
-- [Apps](https://help.vtex.com/en/v4/docs/apps-overview--Abz99oney4PUmrf7QcHc9)  
-- [Store Settings](https://help.vtex.com/en/tutorial/visao-geral-configuracoes-da-loja--6VtlMoid6iM9dP14X1CopT)  
-- [Account Settings](https://help.vtex.com/en/v4/docs/account-settings-overview--159BmXTQhaP44wLxtPff6r)  
-- [User Settings](https://help.vtex.com/en/v4/docs/visao-geral-configuracoes-usuario--1qYAvOTZBVYMosJ7tQm3Ry)  
-- [Billing](https://help.vtex.com/en/v4/docs/billing-overview--CcugO41lhNJzQKpazKYQC)  
+- [Dashboards](/en/v4/docs/visao-geral-dashboards--3FA56jDSTQjuSDwJRYQihm)   
+- [Orders](/en/v4/docs/visao-geral-pedidos--wHTMvgtq5BuUJhZdYYExj)
+- [Products](/en/v4/docs/visao-geral-produtos--5Aq3VcT9G9AeIAKFmHaf0u)   
+- [Promotions](/en/v4/docs/visao-geral-promocoes--6ZSwEn2PJQ5qs0Az2EPbd3)  
+- [Storefront](/en/v4/docs/visao-geral-storefront--6LK0TxoDqrJz2YnM90WvIk)  
+- [Shipping](/en/v4/docs/visao-geral-envio--1hw1otLpTkIjQh4WiBTFYv)  
+- [Marketplace](/en/v4/docs/visao-geral-marketplace--1MwABSIGjYSrFPUXhnUXiV)  
+- [Apps](/en/v4/docs/apps-overview--Abz99oney4PUmrf7QcHc9)  
+- [Store Settings](/en/tutorial/visao-geral-configuracoes-da-loja--6VtlMoid6iM9dP14X1CopT)  
+- [Account Settings](/en/v4/docs/account-settings-overview--159BmXTQhaP44wLxtPff6r)  
+- [User Settings](/en/v4/docs/visao-geral-configuracoes-usuario--1qYAvOTZBVYMosJ7tQm3Ry)  
+- [Billing](/en/v4/docs/billing-overview--CcugO41lhNJzQKpazKYQC)  
 
 > ℹ️ You can also use the search bar at the top of the VTEX Admin to find specific pages from the side menu.
 
@@ -58,7 +58,7 @@ Check out our articles for an overview of each menu in your VTEX Admin to learn 
 
 ![information center admin SEP2023](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/operational/vtex-admin/vtex-admin-start-here_3.gif)
 
-This is where you can find all the useful links regarding the VTEX ecosystem to help you make the most of our platform. By clicking the <i class='fa fa-question-circle-o'></i> button on the top bar, you can access [Help Center](https://help.vtex.com), [Developer Portal](https://developers.vtex.com/), [Plataform Status](https://status.vtex.com/), [blog](https://vtex.com/en/blog/) and support pages.
+This is where you can find all the useful links regarding the VTEX ecosystem to help you make the most of our platform. By clicking the <i class='fa fa-question-circle-o'></i> button on the top bar, you can access [Help Center](https://newhelp.vtex.com), [Developer Portal](https://developers.vtex.com/), [Plataform Status](https://status.vtex.com/), [blog](https://vtex.com/en/blog/) and support pages.
 
 ### Giving feedback through the VTEX Admin
 The Give Feedback button allows users to send feedback about their experience on the platform through the VTEX Admin. To access it, follow the steps below:
@@ -96,9 +96,9 @@ Feedback type (select one or more options):
 
 ![avatar settings admin SEP2023](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/operational/vtex-admin/vtex-admin-start-here_5.gif)
 
-Your profile avatar is a central hub for all your user and account settings. By clicking it, you can access your [User settings](https://help.vtex.com/en/v4/docs/user-settings-overview--1qYAvOTZBVYMosJ7tQm3Ry), [Account settings](https://help.vtex.com/v4/docs/account-settings-overview--159BmXTQhaP44wLxtPff6r), and [Billing](https://help.vtex.com/en/v4/docs/billing-overview--CcugO41lhNJzQKpazKYQC) information, as well as change the language of your Admin, and log out.
+Your profile avatar is a central hub for all your user and account settings. By clicking it, you can access your [User settings](/en/v4/docs/user-settings-overview--1qYAvOTZBVYMosJ7tQm3Ry), [Account settings](/v4/docs/account-settings-overview--159BmXTQhaP44wLxtPff6r), and [Billing](/en/v4/docs/billing-overview--CcugO41lhNJzQKpazKYQC) information, as well as change the language of your Admin, and log out.
 
-Your profile settings are separate from the store-related settings. This gives you greater control and visibility over the actions that affect your business and the ones that impact a user's profile, such as [roles](https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc).
+Your profile settings are separate from the store-related settings. This gives you greater control and visibility over the actions that affect your business and the ones that impact a user's profile, such as [roles](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc).
 The VTEX Admin offers a localized experience in the following language options:
 
 * Portuguese
@@ -114,7 +114,7 @@ The VTEX Admin offers a localized experience in the following language options:
 
 ### Store Settings
 
-We have grouped the settings of all the Admin sections in one specific menu: [Store Settings](https://help.vtex.com/en/v4/docs/visao-geral-configuracoes-da-loja--5e1Mj7oBDq2NEYJ7cpDdR4). With this improvement, you can easily access all the settings that affect each service in your operation.
+We have grouped the settings of all the Admin sections in one specific menu: [Store Settings](/en/v4/docs/visao-geral-configuracoes-da-loja--5e1Mj7oBDq2NEYJ7cpDdR4). With this improvement, you can easily access all the settings that affect each service in your operation.
 
 ## Performance and compatibility
 We recommend accessing the VTEX Admin on the latest versions of either Windows and Mac Operating Systems for optimal performance. The VTEX Admin supports all the most popular browsers, as listed below:

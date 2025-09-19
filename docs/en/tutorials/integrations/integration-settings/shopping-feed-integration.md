@@ -17,7 +17,7 @@ subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 
 The Shopping Feed platform allows global brands to centralize, optimize, and track the distribution of their product catalog across marketplaces, comparison sites, affiliate networks, and retargeting campaigns. Integrating a VTEX store with the Shopping Feed connector enables the store to use Shopping Feed's ecommerce feed management solution to increase the visibility and profitability of its products on Amazon, Google Shopping, Facebook, eBay, Criteo, Etsy, and [others](https://shoppingfeed.com/en/channels).  
 
-> ⚠️ To integrate with Shopping Feed, you must contact the [VTEX support team](https://help.vtex.com/support?/cultureInfo=en) before following this tutorial.  
+> ⚠️ To integrate with Shopping Feed, you must contact the [VTEX support team](/support?/cultureInfo=en) before following this tutorial.  
 
 ![Logo shopping feed](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/integrations/integration-settings/shopping-feed-integration_1.png)
 
@@ -48,13 +48,13 @@ To configure the connector, follow the steps below:
 
 After the app is installed in the store, a new menu option becomes available in the VTEX Admin under **Apps > Installed Apps > Shopping Feed.**  
 
-> ⚠️ Before starting the configurations, you must have your [Shopping Feed credentials](https://help.vtex.com/support?/cultureInfo=en).  
+> ⚠️ Before starting the configurations, you must have your [Shopping Feed credentials](/support?/cultureInfo=en).  
 
 Each sales channel on Shopping Feed that the seller wants to integrate needs to be configured in the connector. For this, the processes for **Configure Affiliate for ShoppingFeed** and **Create feed** must be repeated for each sales channel.  
 
 ## Configure Affiliate for ShoppingFeed  
 
-The affiliate ID will be used in the **Prefix for Imported Orders - Affiliate ID** field. To create a new affiliate, follow the tutorial [Configure Affiliate](https://help.vtex.com/en/tutorial/configuring-affiliates--tutorials_187#how-to-set-it-up).
+The affiliate ID will be used in the **Prefix for Imported Orders - Affiliate ID** field. To create a new affiliate, follow the tutorial [Configure Affiliate](/en/tutorial/configuring-affiliates--tutorials_187#how-to-set-it-up).
 
 > ⚠️ For each sales channel on Shopping Feed that the seller wants to integrate, the processes for **Configure Affiliate for Shopping Feed** and **Product Feed Creation** must be repeated.  
 
@@ -78,7 +78,7 @@ To create a feed, follow the steps below:
    - Enable **Include test orders** if you want test orders to be imported into VTEX as well.  
    - In the field `Date from which to import orders`, fill in the date of the first order import.   
    - In the field `Shipment by Channel Sales Policy`, fill in which shipping policy should be associated with the integration of the channel you are registering.    
-6. Click the `Add` button and fill in the **[VTEX Shipping Policy](https://help.vtex.com/en/tutorial/creating-a-shipping-policy--66rJO4LKBdyMJOH6Z3dsaT)** and **Shopping Feed Courier** fields.  
+6. Click the `Add` button and fill in the **[VTEX Shipping Policy](/en/tutorial/creating-a-shipping-policy--66rJO4LKBdyMJOH6Z3dsaT)** and **Shopping Feed Courier** fields.  
 7. Click the `Save` button.  
 
 ![config app shopping feed](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/integrations/integration-settings/shopping-feed-integration_3.png)

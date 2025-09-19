@@ -42,7 +42,7 @@ The integration sends product, inventory and prices in separate entities. Once t
 
 **Required fields are asterisked.**
 
-*¹ Some specifications are required. To learn more, [click here](https://help.vtex.com/en/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm/1UpQGBTJQw4wimCeYSe8yc#other-specifications).*
+*¹ Some specifications are required. To learn more, [click here](/en/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm/1UpQGBTJQw4wimCeYSe8yc#other-specifications).*
 
 Specifications are sent if they conform to Netshoes' expected values. That is, when you submit a product, the integration scans its specifications. If they find any that matches the expected value of the product category in Netshoes, it sends the specification. If the specification does not have the expected value, the integration doesn't send the specification.
 
@@ -64,13 +64,13 @@ There they are grouped by a product that has several variations/SKUs.
 
 _`Ex:` Blue shirt (product) | S, M, L (variations/SKUs)_
 
-The category is sent according to the Department filled in the [mapping worksheet](https://help.vtex.com/en/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm/1UpQGBTJQw4wimCeYSe8yc).
+The category is sent according to the Department filled in the [mapping worksheet](/en/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm/1UpQGBTJQw4wimCeYSe8yc).
 
 ## 2 - Inventory
 
 Netshoes only receives inventories for products that have already been successfully sent. Before this, stock sendings are rejected. 
 
-Once the cataloging process is finished in Netshoes, the integration automatically sends the products inventory, as long as the __Approved Products API Notification__ is configured ([learn more here](https://help.vtex.com/en/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm/4XEVWU4XIQimY4swYuaOoE#approved-products-notification-api).
+Once the cataloging process is finished in Netshoes, the integration automatically sends the products inventory, as long as the __Approved Products API Notification__ is configured ([learn more here](/en/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm/4XEVWU4XIQimY4swYuaOoE#approved-products-notification-api).
 
 After the products receive the first stock load, the update is made SKU by SKU whenever there's a stock change in VTEX.
 
@@ -121,7 +121,7 @@ In this integration there are two points that will influence the delivery: __Shi
 
 - __Shipping__
 
-At the time of ordering, by default, Netshoes queries the shipping table registered in VTEX and we send them back the shipping options. It is worth mentioning that, in order to be able to perform the query, you must register the [Shipping API](https://help.vtex.com/en/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm/4XEVWU4XIQimY4swYuaOoE#shipping-api) in the Netshoes panel.
+At the time of ordering, by default, Netshoes queries the shipping table registered in VTEX and we send them back the shipping options. It is worth mentioning that, in order to be able to perform the query, you must register the [Shipping API](/en/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm/4XEVWU4XIQimY4swYuaOoE#shipping-api) in the Netshoes panel.
 
 The store can also register a __contingency table__ in Netshoes. Thus, if by any chance the integration is unable to query the shipping in VTEX or if the Shipping API is not registered in their panel, Netshoes uses the information in this table. In this case, Netshoes sends us the order and the integration tries to make a shipping *match* calculated with the carrier that best fits within VTEX (we use the carrier __type__ as a parameter). If the integration can not find an equal carrier type, we integrate the order using the cheapest carrier available.
 
@@ -153,7 +153,7 @@ Netshoes orders have their own statuses. Here's an explanation of these statuses
 
 <br />
 
-Netshoes notifies VTEX via the __Order Import API__ [(set up this API now!)](https://help.vtex.com/en/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm/4XEVWU4XIQimY4swYuaOoE#orders-import-api) every time an order is made on their platform, and then we try to integrate it. 
+Netshoes notifies VTEX via the __Order Import API__ [(set up this API now!)](/en/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm/4XEVWU4XIQimY4swYuaOoE#orders-import-api) every time an order is made on their platform, and then we try to integrate it. 
 
 Even if the API is not registered, VTEX reads an order feed at Netshoes to ensure there are no lost orders! But still, we suggest that the API be registered, because it guarantees a much faster integration of orders, reducing chances of a stock break.
 
@@ -189,4 +189,4 @@ When you invoice the order in VTEX, the integration updates the status in Netsho
   - `trackingNumber`, `trackingUrl` and `courier`
 
 - To change the status to __delivered__ you will need:
-  - `courierStatus`: this is a field that can be automatically populated (via [carrier's tracking updates](https://help.vtex.com/en/tutorial/quais-transportadoras-disponibilizam-o-rastreio-de-frete)) or manually (via API or the OMS interface).
+  - `courierStatus`: this is a field that can be automatically populated (via [carrier's tracking updates](/en/tutorial/quais-transportadoras-disponibilizam-o-rastreio-de-frete)) or manually (via API or the OMS interface).

@@ -37,7 +37,7 @@ It includes information on:
 * Processor and controller roles.
 * Compliance with the rights of data subjects.
 * [Subprocessors](https://vtex.com/us-en/privacy-and-agreements/subprocessors/).
-* Our [technical and administrative](https://help.vtex.com/en/tracks/data-and-privacy--4Lc0i0an0DgnEtB0AUwlcq/7ANSqBP5DgOrVVyglo3Lbh) data security measures.
+* Our [technical and administrative](/en/tracks/data-and-privacy--4Lc0i0an0DgnEtB0AUwlcq/7ANSqBP5DgOrVVyglo3Lbh) data security measures.
 * Security incident management.
 * Limitations of liability:
     * Audit requests.
@@ -57,7 +57,7 @@ Both VTEX and merchants must ensure the security of personal data, each within a
 
 ## VTEX responsibilities
 
-VTEX, as the processor, can assist the merchant in complying with the data subject's rights, conducting privacy impact reports, and notifying the merchant of any incidents involving personal data of which it is aware. In addition, we are committed to complying with the [technical and administrative](https://help.vtex.com/en/tracks/data-and-privacy--4Lc0i0an0DgnEtB0AUwlcq/7ANSqBP5DgOrVVyglo3Lbh) security measures established in the [DPA](https://vtex.com/us-en/privacy-and-agreements/data-processing-addendum/).
+VTEX, as the processor, can assist the merchant in complying with the data subject's rights, conducting privacy impact reports, and notifying the merchant of any incidents involving personal data of which it is aware. In addition, we are committed to complying with the [technical and administrative](/en/tracks/data-and-privacy--4Lc0i0an0DgnEtB0AUwlcq/7ANSqBP5DgOrVVyglo3Lbh) security measures established in the [DPA](https://vtex.com/us-en/privacy-and-agreements/data-processing-addendum/).
 
 ## Merchant responsibilities
 
@@ -75,10 +75,10 @@ VTEX will support the merchant in some of these obligations under the [DPA](http
 
 ### Platform access
 
-Merchants play a crucial role in data security, as their decisions directly impact data protection. For example, by giving specific users or teams access to the platform or sharing [application keys](https://help.vtex.com/en/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet) (appKeys), the merchant affects the security of the data stored in that environment.
+Merchants play a crucial role in data security, as their decisions directly impact data protection. For example, by giving specific users or teams access to the platform or sharing [application keys](/en/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet) (appKeys), the merchant affects the security of the data stored in that environment.
 
 To understand how to manage access credentials and ensure data integrity properly, see the following articles:
 
-- [Roles](https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc)
--	[License Manager resources](https://help.vtex.com/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3)
-- [Application keys](https://help.vtex.com/en/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet)
+- [Roles](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc)
+-	[License Manager resources](/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3)
+- [Application keys](/en/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet)

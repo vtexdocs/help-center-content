@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisES: 'El proceso de matching de anuncios Amazon es ahora manual. Conoce la nueva página.'
 ---
 
-La [integración](https://help.vtex.com/es/tracks/configurar-integracao-com-a-amazon)  entre las tiendas VTEX y Amazon permite a los sellers enviar su catálogo de productos al marketplace, lo que amplía sus canales de venta. Con el objetivo de ofrecer mayor calidad a los anuncios que se muestran en Amazon, hemos desarrollado una nueva página para que los sellers de VTEX hagan el proceso de matching de productos.
+La [integración](/es/tracks/configurar-integracao-com-a-amazon)  entre las tiendas VTEX y Amazon permite a los sellers enviar su catálogo de productos al marketplace, lo que amplía sus canales de venta. Con el objetivo de ofrecer mayor calidad a los anuncios que se muestran en Amazon, hemos desarrollado una nueva página para que los sellers de VTEX hagan el proceso de matching de productos.
 
 ## ¿Qué cambió?
 
@@ -31,5 +31,5 @@ El proceso será ahora completamente manual. Este cambio tiene como objetivo red
 
 Puedes encontrar la página __Match de anuncios Amazon__ en *Marketplace* > __Match de anuncios Amazon__ o a través de la barra de búsqueda. La página estará disponible para todas las cuentas VTEX a partir del 03 de Julio de 2023. No se requiere ninguna acción para activarla.
 
-Para más información sobre el funcionamiento de la página, consulta la [documentación Match de anuncios Amazon](https://help.vtex.com/en/tutorial/match-de-anuncios-amazon--7fRfoP69kYgg8znImMhyQ0).
+Para más información sobre el funcionamiento de la página, consulta la [documentación Match de anuncios Amazon](/en/tutorial/match-de-anuncios-amazon--7fRfoP69kYgg8znImMhyQ0).
 

@@ -80,4 +80,4 @@ The flow in Customer Credit is similar to that of credit cards in regarding orde
 
 ## Installation and configuration
 
-To install and configure Customer Credit in your store, access Track [Customer Credit - How to get started](https://help.vtex.com/en/tracks/customer-credit-getting-started--1hCRg21lXYy2seOKgqQ2CC/36grlQ69NK6OCuioeekyCs).
+To install and configure Customer Credit in your store, access Track [Customer Credit - How to get started](/en/tracks/customer-credit-getting-started--1hCRg21lXYy2seOKgqQ2CC/36grlQ69NK6OCuioeekyCs).

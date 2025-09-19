@@ -17,7 +17,7 @@ subcategoryId: 9Arh3cJIOYlfSD1MUC2h3
 
 > ⚠️  The scheduled update can take up to 30 minutes to take effect and be shown on your page.
 
-After [creating a new content version in Site Editor](https://help.vtex.com/en/tutorial/gerenciando-versoes-de-conteudo--4loXo98CZncY0NnjKrScbG?&utm_source=autocomplete), you can schedule it to be published on your store by using the **Visibility** feature.
+After [creating a new content version in Site Editor](/en/tutorial/gerenciando-versoes-de-conteudo--4loXo98CZncY0NnjKrScbG?&utm_source=autocomplete), you can schedule it to be published on your store by using the **Visibility** feature.
 
 The Visibility feature allows you to immediately activate the new content version on your store, schedule when to publish the content or when to deactivate the new version.  You can also choose where you want to apply the new version: to one route (**this URL**) or to routes that share the same template (**this template**).
 

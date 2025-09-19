@@ -21,7 +21,7 @@ VTEX Intelligent Search just gained a redirect functionality which redirects sea
 
 VTEX Intelligent Search is an intelligent search application for ecommerce. It is an alternative to the platform’s native search functionality as it assists customers on their purchase journey by displaying results since the first interaction with the search bar.
 
-For more information on this tool, access the [VTEX Intelligent Search documentation](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb).
+For more information on this tool, access the [VTEX Intelligent Search documentation](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb).
 
 ### What do I need to do to use this fuctionality?
 
@@ -29,4 +29,4 @@ VTEX Intelligent Search is a free of charge functionality for stores that use VT
 
 If your store doesn't use VTEX IO, visit [our site to discover its benefits](https://vtex.com/br-pt/store-framework/).
 
-If you already use VTEX Intelligent Search, simply access the Redirects module to access this functionality. Should you have any questions, access [our article on Redirects](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/7x52Q9iHzGmFDLyyVOIcz6). 
+If you already use VTEX Intelligent Search, simply access the Redirects module to access this functionality. Should you have any questions, access [our article on Redirects](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/7x52Q9iHzGmFDLyyVOIcz6). 

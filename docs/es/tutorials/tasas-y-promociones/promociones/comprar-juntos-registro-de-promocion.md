@@ -80,7 +80,7 @@ Define los sellers a los que se aplicará la promoción, que pueden ser todos o 
 
 ### Políticas comerciales
 
-Selecciona las políticas comerciales que ofrecerán el descuento. Puedes ofrecer descuentos para políticas comerciales en las que [tu tienda opera como marketplace](https://help.vtex.com/es/faq/o-que-e-um-marketplace) (mi tienda) o como [seller](https://help.vtex.com/es/faq/o-que-e-um-seller) (tiendas de terceros - fulfillment).
+Selecciona las políticas comerciales que ofrecerán el descuento. Puedes ofrecer descuentos para políticas comerciales en las que [tu tienda opera como marketplace](/es/faq/o-que-e-um-marketplace) (mi tienda) o como [seller](/es/faq/o-que-e-um-seller) (tiendas de terceros - fulfillment).
 
 Puedes elegir entre las siguientes opciones:
 
@@ -117,7 +117,7 @@ Define las restricciones que se aplicarán a la promoción. Las condiciones perm
 
 - **Número BIN de la tarjeta:** la promoción solo se aplicará cuando se utilicen tarjetas de redes, bancos o categorías específicas identificadas por su número BIN. Importa una lista de BIN con un archivo de texto (.txt) o un archivo CSV (.csv) que describa cada BIN en una fila diferente.
 
-- **Clúster de clientes:** selecciona un [clúster de clientes](https://help.vtex.com/es/tutorial/como-criar-um-cluster-de-clientes) previamente creado en Master Data, siguiendo el formato `field=value` o `field contains value`. El clúster agrupa clientes con características específicas y que son elegibles para la promoción. Escoge una de las siguientes opciones:
+- **Clúster de clientes:** selecciona un [clúster de clientes](/es/tutorial/como-criar-um-cluster-de-clientes) previamente creado en Master Data, siguiendo el formato `field=value` o `field contains value`. El clúster agrupa clientes con características específicas y que son elegibles para la promoción. Escoge una de las siguientes opciones:
 
   - **Todos los siguientes:** la promoción se aplicará solo si se cumplen todos los criterios del clúster.
   - **Al menos uno de los siguientes:** la promoción se aplicará si se cumple al menos uno de los criterios del clúster.
@@ -139,7 +139,7 @@ En esta sección puedes definir la opción de combinar la promoción con otras p
 
 Destaca la promoción en la página de productos y agrega datos personalizados para personalizar esta sección de la tienda.
 
-- **Destacar promociones en los productos:** marca esta opción para mostrar la promoción directo en las páginas de producto. Recuerda [configurar la visualización en el módulo CMS](https://help.vtex.com/es/tutorial/configurando-promocao-com-destaque-flag--tutorials_2295).
+- **Destacar promociones en los productos:** marca esta opción para mostrar la promoción directo en las páginas de producto. Recuerda [configurar la visualización en el módulo CMS](/es/tutorial/configurando-promocao-com-destaque-flag--tutorials_2295).
 - **Información adicional:** haz clic en **Crear** para agregar campos personalizados con nombre y valor, que puedes utilizar para personalizar la tienda.
 
 Vea el formulario de Comprar Juntos a continuación:

@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 6XPsLadoT3moZ7eTduCg3c
 ---
 
-> ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com nosso [Suporte](https://help.vtex.com/pt/support).
+> ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com nosso [Suporte](/pt/support).
 
 No Admin VTEX, em **Catálogo > Categorias**, você encontra a página de gerenciamento da árvore de categorias da sua loja. Este artigo orienta sobre como criar e configurar suas categorias, [atributos e variações](#terminologia), e está dividido nas seguintes seções:
 
@@ -49,9 +49,9 @@ Na fase beta, utilizaremos uma nova nomenclatura para os seguintes termos:
 
 | **Nome atual** | **Nome no beta** |
 | :---: | :---: |
-| [Especificações de produto](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP#especificacao-de-produto) | Atributos |
-| [Especificações de SKU](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP#especificacao-de-sku) | Variações |
-| [Grupos (de especificações de produtos ou de SKUs)](https://help.vtex.com/pt/tutorial/criando-grupo-de-especificacoes-em-uma-categoria--tutorials_246) | Grupos (de atributos ou de variações) |
+| [Especificações de produto](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP#especificacao-de-produto) | Atributos |
+| [Especificações de SKU](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP#especificacao-de-sku) | Variações |
+| [Grupos (de especificações de produtos ou de SKUs)](/pt/tutorial/criando-grupo-de-especificacoes-em-uma-categoria--tutorials_246) | Grupos (de atributos ou de variações) |
 
 ## Apresentação da interface de categorias, atributos e variações
 
@@ -112,21 +112,21 @@ Para criar uma categoria, siga os passos abaixo:
 1. No canto esquerdo da página, ao lado da barra de busca, clique no ícone +, ou posicione o mouse em **Todos os produtos** e clique no + que aparece. Também é possível clicar no ícone + ao lado do nome de uma categoria.
 2. No modal que surge, preencha o nome da categoria. Este é o único campo obrigatório.
 
-  > ⚠️ O nome da categoria é importante para [SEO](https://help.vtex.com/pt/tutorial/melhorando-o-seo-das-paginas-de-lista-de-produtos--UrQtlKAMuSaLBP5wG9ftG) (Search Engine Optimization), por isso recomendamos:<ul><li>Usar palavras simples.</li><li>Evitar outros idiomas.</li><li>Evitar escrita complexa.</li><li>Utilizar até 150 caracteres.</li></ul>
+  > ⚠️ O nome da categoria é importante para [SEO](/pt/tutorial/melhorando-o-seo-das-paginas-de-lista-de-produtos--UrQtlKAMuSaLBP5wG9ftG) (Search Engine Optimization), por isso recomendamos:<ul><li>Usar palavras simples.</li><li>Evitar outros idiomas.</li><li>Evitar escrita complexa.</li><li>Utilizar até 150 caracteres.</li></ul>
 
 3. Se deseja ativar na loja a categoria sendo criada, marque a caixa de seleção **Ativo.** Para mantê-la desativada, deixe a opção desmarcada.
 4. Na seção **Informações básicas**, você pode preencher os seguintes campos:
     * **Categoria pai:** caso a categoria sendo criada seja uma subcategoria, ou seja, que esteja aninhada à outra categoria, preencha com o código numérico da categoria principal à qual ela pertence.
-    * **Categoria global VTEX:** a [categoria global](https://help.vtex.com/pt/tutorial/configurando-a-categoria-global--tutorials_188) é uma taxonomia criada pelo Google para o [Merchant Center](https://support.google.com/merchants/answer/6324436?hl=pt-BR), pré-definida como uma árvore única na plataforma VTEX.
+    * **Categoria global VTEX:** a [categoria global](/pt/tutorial/configurando-a-categoria-global--tutorials_188) é uma taxonomia criada pelo Google para o [Merchant Center](https://support.google.com/merchants/answer/6324436?hl=pt-BR), pré-definida como uma árvore única na plataforma VTEX.
 5. Na seção **Frente de loja e SEO**, você pode preencher os seguintes campos:
     * **Palavras similares:** sinônimos dos nomes da categoria. Este campo é importante para que as buscas sejam mais abrangentes. Você pode incluir diversas palavras, que devem ser separadas por vírgula, até o limite de 200 caracteres.
     * **Título da página:** texto que aparece na aba do navegador e corresponde ao título da página da categoria no site. Este campo é especialmente importante para SEO, não admite o uso de tags HTML e deve conter até 150 caracteres.
     * **Descrição:** breve resumo da categoria. Recomendamos usar até 200 caracteres, para que os mecanismos de busca apresentem corretamente a descrição nas páginas de resultados. O campo suporta apenas texto simples e não permite o uso de tags HTML.
-    * **Prioridade na busca da loja:** números inteiros utilizados para definir a prioridade da categoria nos resultados de buscas no site. O valor mais alto significa a prioridade mais alta nos resultados, e o valor 0 ou o campo deixado em branco significam nenhuma prioridade. Saiba mais no artigo [Como funciona o campo score](https://help.vtex.com/pt/tutorial/como-funciona-o-campo-score--1BUZC0mBYEEIUgeQYAKcae).
+    * **Prioridade na busca da loja:** números inteiros utilizados para definir a prioridade da categoria nos resultados de buscas no site. O valor mais alto significa a prioridade mais alta nos resultados, e o valor 0 ou o campo deixado em branco significam nenhuma prioridade. Saiba mais no artigo [Como funciona o campo score](/pt/tutorial/como-funciona-o-campo-score--1BUZC0mBYEEIUgeQYAKcae).
 6. Na seção **Frente de loja**, se desejar, você pode marcar as seguintes opções:
     * <a class="far fa-check-square" aria-hidden="true"></a> **Mostrar no menu:** torna a categoria ou departamento visível no menu superior e no menu lateral da loja.
     * <a class="far fa-check-square" aria-hidden="true"></a> **Menu com link ativo:** determina se a categoria visível na loja é do tipo clicável, que redireciona para uma página da categoria.
-    * <a class="far fa-check-square" aria-hidden="true"></a> **Filtro de marca:** define se a página da categoria ou departamento deve apresentar a opção filtrar por [marcas](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/7i3sB8fgkqUp5NoH5yJtfh).
+    * <a class="far fa-check-square" aria-hidden="true"></a> **Filtro de marca:** define se a página da categoria ou departamento deve apresentar a opção filtrar por [marcas](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/7i3sB8fgkqUp5NoH5yJtfh).
 7. Em **Modo de exibição dos produtos**, você determina como os SKUs dos produtos da categoria serão apresentados na vitrine da loja, sendo que existem as seguintes opções:
     * **Lista de SKUs:** itens organizados no formato de lista. Esta é a escolha padrão, caso você não selecione outra.
     * **Caixas de seleção (combo box):** itens selecionados a partir de caixas de seleção.
@@ -208,7 +208,7 @@ Na interface de **Atributos**, é possível identificar grupos e atributos herda
 
 ## Ações em atributos
 
-Na fase Beta, *atributos* é a terminologia para o que era chamado de [especificações de produto](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP#especificacao-de-produto), ou seja, as propriedades informativas que podem ser cadastradas em produtos. Em **Catálogo > Categorias**, a página **Atributos** permite realizar as seguintes ações:
+Na fase Beta, *atributos* é a terminologia para o que era chamado de [especificações de produto](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP#especificacao-de-produto), ou seja, as propriedades informativas que podem ser cadastradas em produtos. Em **Catálogo > Categorias**, a página **Atributos** permite realizar as seguintes ações:
 
 * [Adicionar atributo](#adicionar-atributo)
 * [Editar atributo](#editar-atributo)
@@ -284,7 +284,7 @@ Para isso, no topo direito da página **Atributos**, clique no ícone olho <i cl
 
 ## Ações em variações
 
-Na fase Beta, *variações* é a terminologia para o que era chamado de [especificações de SKU](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP#especificacao-de-sku), ou seja, as opções de SKUs nas quais os produtos podem ser comprados. Em **Catálogo > Categorias**, a página **Variações** permite realizar as seguintes ações:
+Na fase Beta, *variações* é a terminologia para o que era chamado de [especificações de SKU](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP#especificacao-de-sku), ou seja, as opções de SKUs nas quais os produtos podem ser comprados. Em **Catálogo > Categorias**, a página **Variações** permite realizar as seguintes ações:
 
 * [Adicionar variação](#adicionar-variacao)
 * [Editar variação](#editar-variacao)

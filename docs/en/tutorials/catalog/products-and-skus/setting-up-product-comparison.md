@@ -52,7 +52,7 @@ where `ShelfLayoutId` is the `Id` of the shelf template created in the previous 
 4. Create a default layout:
   - Open the folder created in the previous step.
   - Click **New layout**.
-  - In the `Template` field, link the page template created in step 2 to the folder. Learn more in [Associating a template with a layout](https://help.vtex.com/en/tutorial/associando-um-template-a-um-layout--7CkgOHRj7DVbsRxyR8YQrK).
+  - In the `Template` field, link the page template created in step 2 to the folder. Learn more in [Associating a template with a layout](/en/tutorial/associando-um-template-a-um-layout--7CkgOHRj7DVbsRxyR8YQrK).
   - Click `Save Layout` and then click `OK`.
 
        ![new-layout-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/products-and-skus/setting-up-product-comparison_2.gif)

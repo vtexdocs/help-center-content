@@ -19,7 +19,7 @@ Os passos a seguir deverão ser feitos dentro do app.
 
 ## Definindo política comercial
 
-1. No seletor, escolha a política comercial que será usada na Wish ([pré definida no passo 2](https://help.vtex.com/pt/tracks/configurar-integracao-da-wish--50hbG4bzhSIhjz1lzqI1g43OHGQIQmt1dKw9RwKruE7H#definindo-politica-comercial))
+1. No seletor, escolha a política comercial que será usada na Wish ([pré definida no passo 2](/pt/tracks/configurar-integracao-da-wish--50hbG4bzhSIhjz1lzqI1g43OHGQIQmt1dKw9RwKruE7H#definindo-politica-comercial))
 2. Após selecionar a política comercial, clique em "Continuar".
 
 ![PT - Configurar Wish](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/marketplace/integracao-com-a-wish/configuracoes-da-integracao_1.png)
@@ -67,7 +67,7 @@ _Ex: o preço de envio para Rio de Janeiro (região metropolitana) é de R$ 10,0
   
 Indique no setup se você usará Wish Express. Caso não use, pode pular para o passo seguinte.
 
-Vale destacar que o preço do envio será definido automaticamente com base nas [tabelas de frete do módulo de logística](https://help.vtex.com/pt/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/2Pj1gKR80QIuUhc0orMraD). Ou seja, ele será dinâmico e poderá variar em função de alguma mudança na tabela da transportadora ou, até mesmo, de acordo com a disponibilidade de um item.
+Vale destacar que o preço do envio será definido automaticamente com base nas [tabelas de frete do módulo de logística](/pt/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/2Pj1gKR80QIuUhc0orMraD). Ou seja, ele será dinâmico e poderá variar em função de alguma mudança na tabela da transportadora ou, até mesmo, de acordo com a disponibilidade de um item.
 
 _Ex: a transportadora X possui em sua tabela de frete o preço de R$ 7,00 para São Paulo (região metropolitana). Mas a tabela é atualizada para R$ 9,55. Numa próxima atualização de estoque, o valor de frete para esta região será atualizada em seus produtos na Wish._
 
@@ -76,7 +76,7 @@ _Ex: a transportadora X possui em sua tabela de frete o preço de R$ 7,00 para S
 Para indicar qual transportadora da sua loja corresponde às [transportadoras aceitas pela Wish](https://merchant.wish.com/documentation/shippingproviders), será necessário realizar um de/para na configuração.
 
   1. Indique no primeiro seletor (_dropdown_) qual a transportadora na Wish;
-  2. Indique no segundo dropdown qual o [tipo de transportadora](https://help.vtex.com/pt/tutorial/como-funciona-o-tipo-de-entrega) na VTEX corresponderá à transportadora selecionada no passo anterior;
+  2. Indique no segundo dropdown qual o [tipo de transportadora](/pt/tutorial/como-funciona-o-tipo-de-entrega) na VTEX corresponderá à transportadora selecionada no passo anterior;
 
   _Ex: Imagine que você usa o Correios (PAC) como transportadora e seu Tipo de Transportadora no painel logístico da VTEX se chama "Convencional". Então, você deve escrever no campo o nome "Convencional". Lembre-se que a palavra deve ser exatamente igual à cadastrada na logística._
 
@@ -90,13 +90,13 @@ Qualquer pedido que possua uma diferença entre o preço de venda do _marketplac
 
 Neste campo deve ser colocado o valor (em percentual) de até quanto o valor do pedido pode ser divergente do valor original.
 
-_Ex: a taxa definida é de 10%. O valor original do pedido deveria ser de R$ 100,00, mas ele veio da Wish como R$ 109,00, então, considerando a taxa definida, o pedido será integrado. Porém, se o pedido tivesse vindo com R$ 150,00, então ele teria sido barrado e exibido na [aba de pedidos (dentro da seção de integrações no Admin)](https://help.vtex.com/pt/tutorial/verificando-integracao-no-bridge)._
+_Ex: a taxa definida é de 10%. O valor original do pedido deveria ser de R$ 100,00, mas ele veio da Wish como R$ 109,00, então, considerando a taxa definida, o pedido será integrado. Porém, se o pedido tivesse vindo com R$ 150,00, então ele teria sido barrado e exibido na [aba de pedidos (dentro da seção de integrações no Admin)](/pt/tutorial/verificando-integracao-no-bridge)._
 
 ## Conversão de moeda
 
 **A Wish exige que os preços (de frete e do produto) sejam enviados em dólar (USD).** Tanto as tabelas de frete quanto o módulo de preços na VTEX inferem a moeda a partir da política comercial usada. 
 
-Como indicado no [passo 2.1](https://help.vtex.com/pt/tracks/integracao-com-a-wish--50hbG4bzhSIhjz1lzqI1g4/3OHGQIQmt1dKw9RwKruE7H#definindo-politica-comercial), estamos usando política comercial em reais (R$) e, por isso, deve-se seguir estes passos para realizar a conversão.
+Como indicado no [passo 2.1](/pt/tracks/integracao-com-a-wish--50hbG4bzhSIhjz1lzqI1g4/3OHGQIQmt1dKw9RwKruE7H#definindo-politica-comercial), estamos usando política comercial em reais (R$) e, por isso, deve-se seguir estes passos para realizar a conversão.
 
 No campo `"Cotação dólar (USD)"`, preencha o câmbio de reais (R$) para dólar (US$).
 

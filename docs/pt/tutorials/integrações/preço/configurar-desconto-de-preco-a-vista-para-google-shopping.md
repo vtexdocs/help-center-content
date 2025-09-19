@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 3pGCbMh80UueoeSqoAgSuS
 ---
 
-Antes de configurar o desconto de preço à vista para o Google Shopping e seguir com os passos deste artigo, é preciso seguir os passos do tutorial [Configurar desconto de preço à vista](https://help.vtex.com/pt/tutorial/configurar-desconto-de-preco-a-vista--7Lfcj9Wb5dpYfA2gKkACIt#).
+Antes de configurar o desconto de preço à vista para o Google Shopping e seguir com os passos deste artigo, é preciso seguir os passos do tutorial [Configurar desconto de preço à vista](/pt/tutorial/configurar-desconto-de-preco-a-vista--7Lfcj9Wb5dpYfA2gKkACIt#).
 
 Para configurar o desconto de preço à vista para o Google Shopping é preciso adicionar o ID do meio de pagamento à vista na página de produto do CMS. Siga os passos a seguir para realizar a configuração:
 

@@ -29,9 +29,9 @@ On this page, you can perform the following actions:
 
 ### Creating a campaign audience
 
-To create a Campaign audience, in *Promotions > Campaign audience*, you must click the `New Campaign Audience` button and follow the steps described in the article [Creating a Campaign Audience](https://help.vtex.com/en/tutorial/creating-campaign-audiences--6cnuDZJzIkIeocewAQQK4K).
+To create a Campaign audience, in *Promotions > Campaign audience*, you must click the `New Campaign Audience` button and follow the steps described in the article [Creating a Campaign Audience](/en/tutorial/creating-campaign-audiences--6cnuDZJzIkIeocewAQQK4K).
 
-> ⚠️ To activate the newly created campaign audience, you must associate it to a [Campaign promotion](https://help.vtex.com/en/tutorial/campaign-promotion--1ChYXhK2AQGuS6wAqS8Ume).
+> ⚠️ To activate the newly created campaign audience, you must associate it to a [Campaign promotion](/en/tutorial/campaign-promotion--1ChYXhK2AQGuS6wAqS8Ume).
 
 ### Viewing campaign audiences
 
@@ -44,7 +44,7 @@ The campaign audiences are displayed in _cards_ containing the following informa
 * **Status:** Current availability status of the campaign audience.
     * **Active:** The campaign audience is available to use in your store's promotion campaigns, i.e. it is not archived.
     * **Inactive:** The campaign audience is not available to use in your store's promotion campaigns. This status is not permanent — you can reactivate a campaign audience at any time.
-* **Target audience:** Name of the [target audience](https://help.vtex.com/en/tutorial/campaign-audiences--3o7lhpNseXY2WmjZO0gQ6m#target-audience) associated to the campaign audience.
+* **Target audience:** Name of the [target audience](/en/tutorial/campaign-audiences--3o7lhpNseXY2WmjZO0gQ6m#target-audience) associated to the campaign audience.
 
 To view the [archived](#archiving-a-campaign-audience) campaign audiences, next to the **Show** option, click **Archived**, as illustrated below:
 
@@ -78,6 +78,6 @@ To change any campaign settings, follow the steps below:
 
 ## Learn more
 
-- [Campaign audiences](https://help.vtex.com/en/tutorial/campaign-audiences--3o7lhpNseXY2WmjZO0gQ6m)
-- [Creating a campaign promotion](https://help.vtex.com/en/tutorial/campaign-promotion--1ChYXhK2AQGuS6wAqS8Ume)
-- [Creating a campaign audience](https://help.vtex.com/en/tutorial/creating-campaign-audiences--6cnuDZJzIkIeocewAQQK4K)
+- [Campaign audiences](/en/tutorial/campaign-audiences--3o7lhpNseXY2WmjZO0gQ6m)
+- [Creating a campaign promotion](/en/tutorial/campaign-promotion--1ChYXhK2AQGuS6wAqS8Ume)
+- [Creating a campaign audience](/en/tutorial/creating-campaign-audiences--6cnuDZJzIkIeocewAQQK4K)

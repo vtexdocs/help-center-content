@@ -64,7 +64,7 @@ A cada consulta realizada, o indexador pontua os produtos de acordo com o termo 
 
 A vitrine é montada com base nessa pontuação, em ordem decrescente, ou seja, o produto mais pontuado será o primeiro a ser exibido; e o menos pontuado, o último.
 
-> ℹ️ Para mais informações sobre pontuação, confira o artigo [Como funciona o campo Score?](https://help.vtex.com/pt/tutorial/como-funciona-o-campo-score--1BUZC0mBYEEIUgeQYAKcae).
+> ℹ️ Para mais informações sobre pontuação, confira o artigo [Como funciona o campo Score?](/pt/tutorial/como-funciona-o-campo-score--1BUZC0mBYEEIUgeQYAKcae).
 
 ## Como funciona a busca
 
@@ -121,5 +121,5 @@ Resultado:
 A utilização de __palavras substitutas__, apesar de ter um peso baixo para a pontuação do indexador, é um recurso extremamente importante. Com esse recurso é possível atingir usuários que realizam buscas por termos gramaticalmente errados mas com a mesma semântica.
 
 ## Saiba mais
- - [Como funciona o campo Score](https://help.vtex.com/pt/tutorial/como-funciona-o-campo-score--1BUZC0mBYEEIUgeQYAKcae) 
+ - [Como funciona o campo Score](/pt/tutorial/como-funciona-o-campo-score--1BUZC0mBYEEIUgeQYAKcae) 
 

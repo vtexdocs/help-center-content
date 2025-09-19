@@ -27,7 +27,7 @@ En este paso, se debe configurar qué tienda utilizará el app y para cuál URL 
 1. En la opción `Tienda`, seleccione el sub-account que deberá utilizarse para el app;
 2. En la opción `URL`, seleccione la URL correspondiente al sitio web de la cuenta que haya elegido en el paso anterior.
 
-> ⚠️ **OBS:</ strong> asegúrese de que la URL elegida es la correcta, ya que las opciones mostrarán cualquier URL que esté registrada en [sus dominios](https://help.vtex.com/es/tutorial/configurando-dominios-no-license-manager?locale=es). <strong>Generalmente la URL usada es que la tiene WWW**.
+> ⚠️ **OBS:</ strong> asegúrese de que la URL elegida es la correcta, ya que las opciones mostrarán cualquier URL que esté registrada en [sus dominios](/es/tutorial/configurando-dominios-no-license-manager?locale=es). <strong>Generalmente la URL usada es que la tiene WWW**.
 
 ## Definiendo la cuenta en Google Merchant Center
 

@@ -17,7 +17,7 @@ announcementSynopsisEN: 'Live Support is the Conversational Commerce configurati
 
 To increase customer satisfaction by providing a seamless and convenient support experience, VTEX developed Live Support. 
 
-[Live Support](https://help.vtex.com/en/tracks/conversational-commerce-vtex--5UZ9BdvwwtZm2t9QTXcbZs/1woBo299K5gvDG7MSa8HYL?&utm_source=autocomplete) is the Conversational Commerce configuration that enables customer  support via WhatsApp. This functionality is only available for BR and LATAM. 
+[Live Support](/en/tracks/conversational-commerce-vtex--5UZ9BdvwwtZm2t9QTXcbZs/1woBo299K5gvDG7MSa8HYL?&utm_source=autocomplete) is the Conversational Commerce configuration that enables customer  support via WhatsApp. This functionality is only available for BR and LATAM. 
 
 ## What has changed?
 
@@ -29,5 +29,5 @@ With this configuration, you can provide 24/7 support to your customers, even wh
 - Create exceptions, indicating the unavailability windows.
 
 ## What needs to be done?
-To get started, you must [activate Live Support](https://help.vtex.com/en/tracks/conversational-commerce-vtex--5UZ9BdvwwtZm2t9QTXcbZs/1woBo299K5gvDG7MSa8HYL?&utm_source=autocomplete) in your store and contact our [support](https://help.vtex.com/support) for [Zenvia and Zendesk integration](https://help.vtex.com/en/tracks/conversational-commerce-vtex--5UZ9BdvwwtZm2t9QTXcbZs/SxhYiiqUJYiQX4CIWxmVE).
+To get started, you must [activate Live Support](/en/tracks/conversational-commerce-vtex--5UZ9BdvwwtZm2t9QTXcbZs/1woBo299K5gvDG7MSa8HYL?&utm_source=autocomplete) in your store and contact our [support](/support) for [Zenvia and Zendesk integration](/en/tracks/conversational-commerce-vtex--5UZ9BdvwwtZm2t9QTXcbZs/SxhYiiqUJYiQX4CIWxmVE).
 

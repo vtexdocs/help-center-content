@@ -31,13 +31,13 @@ You need to configure which authentication method will be available in each cont
 |---|---|---|---|
 | Access code | A random numeric code is sent to the user's email, and they use this code to log in. | Can be enabled | Always enabled |
 | Password | The user creates a password and logs in using their email and password. Merchants can choose to [enforce password expiration](#enforcing-password-expiration) after a specific period. | Can be enabled. Password expiration can be enabled. | Always enabled. Password expiration can be enabled. |
-| Facebook | The user logs in using their Facebook account. Check out the [Configuring login with Facebook and Google](https://help.vtex.com/en/tutorial/configurar-login-com-facebook-e-google--tutorials_513) guide for more information. | Can be enabled | Not available |
-| Google | The user logs in using their Google account. Check out the [Configuring login with Facebook and Google](https://help.vtex.com/en/tutorial/configurar-login-com-facebook-e-google--tutorials_513) guide for more information. | Can be enabled | Can be enabled |
+| Facebook | The user logs in using their Facebook account. Check out the [Configuring login with Facebook and Google](/en/tutorial/configurar-login-com-facebook-e-google--tutorials_513) guide for more information. | Can be enabled | Not available |
+| Google | The user logs in using their Google account. Check out the [Configuring login with Facebook and Google](/en/tutorial/configurar-login-com-facebook-e-google--tutorials_513) guide for more information. | Can be enabled | Can be enabled |
 | Integration with other ID providers | The user logs in using their account from other external ID providers through an integration. Read the [Login (SSO)](https://developers.vtex.com/docs/guides/login-integration-guide) developer guide to learn more. | Can be enabled using the OAuth protocol.  Read the [Webstore (OAuth 2.0)](https://developers.vtex.com/docs/guides/login-integration-guide-webstore-oauth2) developer guide to learn more. | Can be enabled using the SAML protocol. Read the [Admin (SAML 2.0)](https://developers.vtex.com/docs/guides/login-integration-guide-admin-saml2) developer guide to learn more. |
 
 > ℹ️ At least one of the login methods in the table above must be enabled for the webstore.
 
-> ⚠️ You must have a valid admin [user](https://help.vtex.com/en/tutorial/managing-users--tutorials_512) to log in to the VTEX Admin. The [roles](https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) and permissions assigned to the user specify which[ resources](https://help.vtex.com/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) they can use in the Admin.
+> ⚠️ You must have a valid admin [user](/en/tutorial/managing-users--tutorials_512) to log in to the VTEX Admin. The [roles](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) and permissions assigned to the user specify which[ resources](/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) they can use in the Admin.
 
 ### Enabling login methods
 
@@ -74,8 +74,8 @@ Once the expiration period is reached, users will be required to reset their pas
 
 When developing integrations using VTEX [APIs](https://developers.vtex.com/docs/guides/getting-started), you must provide authentication parameters for the desired operations. See the available methods below:
 
-- **Application keys (appKeys):** [Application keys](https://help.vtex.com/en/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet) authenticate requests made to VTEX APIs. Store admins can create keys and associate them with [roles](https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc), allowing them to use certain platform[ resources](https://help.vtex.com/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3). Learn more in the [API authentication using application keys](https://developers.vtex.com/docs/guides/api-authentication-using-application-keys) developer guide.
--	**User tokens:** User tokens authenticate API requests, especially for[ frontend](https://help.vtex.com/en/tracks/store-development--3fHF3GIjK8UugnQKIakpl9/5DTcawNjc5MovtD7HNqURl) applications developed with VTEX IO. Learn how to use them in the [API authentication using user tokens](https://developers.vtex.com/docs/guides/api-authentication-using-user-tokens) developer guide.
+- **Application keys (appKeys):** [Application keys](/en/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet) authenticate requests made to VTEX APIs. Store admins can create keys and associate them with [roles](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc), allowing them to use certain platform[ resources](/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3). Learn more in the [API authentication using application keys](https://developers.vtex.com/docs/guides/api-authentication-using-application-keys) developer guide.
+-	**User tokens:** User tokens authenticate API requests, especially for[ frontend](/en/tracks/store-development--3fHF3GIjK8UugnQKIakpl9/5DTcawNjc5MovtD7HNqURl) applications developed with VTEX IO. Learn how to use them in the [API authentication using user tokens](https://developers.vtex.com/docs/guides/api-authentication-using-user-tokens) developer guide.
 
 ## Developing apps
 

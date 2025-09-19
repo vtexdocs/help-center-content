@@ -21,11 +21,11 @@ After completing this step, you will be ready to define your sales channels and 
 
 ## Create collection for Lengow
 
-To choose which products should become available to Lengow, you must [create a collection](https://help.vtex.com/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/3moFonW33dgOYDrU21Z1X0) in *Store Setup > CMS > Layout*. We recommend naming the collection `Lengow` and including all products in your Catalog.
+To choose which products should become available to Lengow, you must [create a collection](/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/3moFonW33dgOYDrU21Z1X0) in *Store Setup > CMS > Layout*. We recommend naming the collection `Lengow` and including all products in your Catalog.
 
 ## Configure XML feed for Lengow
 
-To make product updates available to Lengow, you must [configure an XML feed](https://help.vtex.com/en/tutorial/configuring-xml--tutorials_242) in *Products > Catalog > XML integration*. Since we are configuring a simple feed, most settings can be kept in their default values. These are the settings that need to be filled in or changed:
+To make product updates available to Lengow, you must [configure an XML feed](/en/tutorial/configuring-xml--tutorials_242) in *Products > Catalog > XML integration*. Since we are configuring a simple feed, most settings can be kept in their default values. These are the settings that need to be filled in or changed:
 
 - **File Name:** `lengow.xml`
 - **Collection:** `Lengow` (or another name you chose)

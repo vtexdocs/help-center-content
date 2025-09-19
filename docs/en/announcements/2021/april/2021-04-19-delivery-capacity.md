@@ -18,7 +18,7 @@ announcementSynopsisEN: 'Manage and limit the number of items or orders in your 
 
 Shipping policies are sets of rules that define the shipping options and conditions that will be shown to the customer at checkout.
 
-You can now configure the Delivery Capacity of your Shipping Policies to manage how many items or orders your store can deliver in each [Scheduled Delivery](https://help.vtex.com/en/tutorial/entrega-agendada--22g3HAVCGLFiU7xugShOBi) window.
+You can now configure the Delivery Capacity of your Shipping Policies to manage how many items or orders your store can deliver in each [Scheduled Delivery](/en/tutorial/entrega-agendada--22g3HAVCGLFiU7xugShOBi) window.
 
 ## What has changed?
 
@@ -38,7 +38,7 @@ This change aims to ensure that our customers can track and limit the availabili
 
 To use the delivery capacity feature, you need to set up a shipping policy to enable scheduled deliveries, and then configure the delivery capacity.
 
-To learn how to configure it for your scheduled deliveries, read the article [Delivery Capacity](https://help.vtex.com/en/tutorial/gerenciar-capacidade-de-entrega--2y217FQZCjD0I1n62yxVcz).
+To learn how to configure it for your scheduled deliveries, read the article [Delivery Capacity](/en/tutorial/gerenciar-capacidade-de-entrega--2y217FQZCjD0I1n62yxVcz).
 
 > ℹ️ This functionality is in Beta and is currently available only in v3 Admin environments.
 

@@ -15,7 +15,7 @@ trackSlugEN: vtex-live-shopping-getting-started
 order: 11
 ---
 
-After [ending the transmission](https://help.vtex.com/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/69PX90vv4oDWQ34nnBkiQt#ending-the-transmission) in Bundle or an external studio and the [event status](https://help.vtex.com/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv#event-status) is `Completed`, you must hide the **Live Shopping** component or remove the code, depending on your frontend solution. The audience will continue to see a black screen on your site or landing page until you complete this action.
+After [ending the transmission](/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/69PX90vv4oDWQ34nnBkiQt#ending-the-transmission) in Bundle or an external studio and the [event status](/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv#event-status) is `Completed`, you must hide the **Live Shopping** component or remove the code, depending on your frontend solution. The audience will continue to see a black screen on your site or landing page until you complete this action.
 
 Check the instructions that correspond to your frontend solution:
 
@@ -27,7 +27,7 @@ Check the instructions that correspond to your frontend solution:
 
 ## Store Framework (VTEX IO)
 
-For stores using [Store Framework](https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ#store-framework), you can hide the **Live Shopping** component in [Site Editor](https://help.vtex.com/en/tutorial/managing-page-and-template-content--3tMbx6HXy4Fy5r9EhboG37) by following the steps below:
+For stores using [Store Framework](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ#store-framework), you can hide the **Live Shopping** component in [Site Editor](/en/tutorial/managing-page-and-template-content--3tMbx6HXy4Fy5r9EhboG37) by following the steps below:
 
 1. In the VTEX Admin, go to **Storefront > Site Editor**, or type **Site Editor** in the search bar at the top of the page.
 2. On the **Blocks** list on the right side of the page, select the **Live Shopping** block.
@@ -38,13 +38,13 @@ For stores using [Store Framework](https://help.vtex.com/en/tracks/vtex-store-ov
 
 ## Legacy CMS Portal
 
-For stores using [Legacy CMS Portal](https://help.vtex.com/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj), you need to remove the **Live Shopping** script by following the steps below: 
+For stores using [Legacy CMS Portal](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj), you need to remove the **Live Shopping** script by following the steps below: 
 
 1. In the VTEX Admin, go to **Storefront > Layout**, or type **Layout** in the search bar at the top of the page.
 2. Click **CMS > HTML Templates**.
-3. Delete the **Live Shopping** script from the HTML file where [you added it](https://help.vtex.com/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/4r5uk6XHxdYlOGMr11GFWR#legacy-cms-portal).
+3. Delete the **Live Shopping** script from the HTML file where [you added it](/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/4r5uk6XHxdYlOGMr11GFWR#legacy-cms-portal).
 4. Click `Save template` on the top right of the template.
 
 ## Headless CMS
 
-For stores using [Headless CMS](https://help.vtex.com/en/tutorial/headless-cms-overview--3U5gvhHdQL0jczYH8gjX09), you need to remove the **Live Shopping** script from the HTML file where [you added it](https://help.vtex.com/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/4r5uk6XHxdYlOGMr11GFWR#headless-cms).
+For stores using [Headless CMS](/en/tutorial/headless-cms-overview--3U5gvhHdQL0jczYH8gjX09), you need to remove the **Live Shopping** script from the HTML file where [you added it](/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/4r5uk6XHxdYlOGMr11GFWR#headless-cms).

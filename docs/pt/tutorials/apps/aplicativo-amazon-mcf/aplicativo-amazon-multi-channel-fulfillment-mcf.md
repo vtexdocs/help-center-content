@@ -29,7 +29,7 @@ Este tutorial contém as informações necessárias para a instalação e config
 
 Antes de instalar, é preciso:
 
-* Ter uma conta de [Seller na Amazon](https://sell.amazon.com/). Consulte o artigo [Configurações de conta na Amazon](https://help.vtex.com/en/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/43L0dpbjLBz6tcim1BbTzf) para saber mais sobre as configurações de conta necessárias.
+* Ter uma conta de [Seller na Amazon](https://sell.amazon.com/). Consulte o artigo [Configurações de conta na Amazon](/en/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/43L0dpbjLBz6tcim1BbTzf) para saber mais sobre as configurações de conta necessárias.
 * Conferir se os produtos da sua loja atendem às [políticas de restrições da Amazon](https://sellercentral.amazon.com/gp/help/external/200164330).
 * Garantir que sua loja está localizada nos países onde o MCF está disponível. Países como Estados Unidos, Austrália, México, Alemanha e Canadá já possuem o MCF da Amazon. Confira a lista atualizada de países [nesta página da Amazon](https://sell.amazon.com/fulfillment-by-amazon/fba-multi-channel.html).
 
@@ -77,7 +77,7 @@ Para realizar essa configuração, acesse o Admin e siga os passos abaixo.
 
 Nos passos 8 e 10, a chave que deve ser preenchida é a chave de geolocalização Google. Confira [como gerar uma chave no guia de desenvolvedores do Google.](https://developers.google.com/maps/documentation/geocoding/overview) 
 
-> ℹ️ Se tiver dúvidas sobre a chave de geolocalização Google, confira detalhadamente como essa configuração é utilizada pela plataforma VTEX nos artigos [Configurar geolocalização no checkout](https://help.vtex.com/pt/tutorial/geolocalizacao-no-checkout--tutorials_4345) e [Cadastrar geolocalização](https://help.vtex.com/pt/tutorial/gerenciar-geolocalizacao--tutorials_138).
+> ℹ️ Se tiver dúvidas sobre a chave de geolocalização Google, confira detalhadamente como essa configuração é utilizada pela plataforma VTEX nos artigos [Configurar geolocalização no checkout](/pt/tutorial/geolocalizacao-no-checkout--tutorials_4345) e [Cadastrar geolocalização](/pt/tutorial/gerenciar-geolocalizacao--tutorials_138).
 
 ### Instalação do aplicativo
 
@@ -106,7 +106,7 @@ Para instalar o aplicativo, acesse a App Store VTEX:
 
 Para que os itens que estão cadastrados em uma das plataformas fiquem disponíveis em ambas, é preciso realizar uma integração entre catálogos via marketplace. 
 
-Para realizar a integração, consulte e siga os passos do tutorial [Cadastro da integração da Amazon](https://help.vtex.com/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5J9CWPIbYQdAegJJWGsxan).
+Para realizar a integração, consulte e siga os passos do tutorial [Cadastro da integração da Amazon](/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5J9CWPIbYQdAegJJWGsxan).
 
 ### Autorização entre contas
 

@@ -25,4 +25,4 @@ You can also set the limit per customer, rather than a general usage limit. To d
 
 ## Learn more
 
-- [Understand more about each type of promotion](https://help.vtex.com/en/tutorial/como-criar-promocoes--tutorials_320).
+- [Understand more about each type of promotion](/en/tutorial/como-criar-promocoes--tutorials_320).

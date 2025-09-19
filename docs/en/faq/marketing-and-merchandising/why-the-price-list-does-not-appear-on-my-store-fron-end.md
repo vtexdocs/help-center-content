@@ -14,7 +14,7 @@ locale: en
 legacySlug: untitled-entry-2019-03-25-at-08-41-57
 ---
 
-In some circumstances, the List Price may not appear in the front-end of the store. This happens due to configuration errors of the [Pricing](https://help.vtex.com/en/tutorial/--tutorials_4394 "Prices"). 
+In some circumstances, the List Price may not appear in the front-end of the store. This happens due to configuration errors of the [Pricing](/en/tutorial/--tutorials_4394 "Prices"). 
 
 The Price List is just one of the possible configurations when setting the price of a SKU. Generally, the first rules to be defined are the Base Price, the Cost Price and the Markup. 
 

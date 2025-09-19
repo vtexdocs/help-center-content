@@ -15,17 +15,17 @@ announcementImageID: 'undefined'
 announcementSynopsisES: 'La nueva interfaz para mapear categorías y atributos llega para sustituir a la plantilla de mapeo.'
 ---
 
-Continuando con las mejoras realizadas para la [certificación de Mercado Libre](https://help.vtex.com/es/announcements/vtex-agora-e-oficialmente-um-parceiro-certificado-do-mercado-livre-no-brasil--34D14K2Y6ogJs3OxKpQUrJ), estamos proporcionando oficialmente a todos los clientes de VTEX que operan como sellers en Mercado Libre la nueva interfaz para mapear categorías y atributos.
+Continuando con las mejoras realizadas para la [certificación de Mercado Libre](/es/announcements/vtex-agora-e-oficialmente-um-parceiro-certificado-do-mercado-livre-no-brasil--34D14K2Y6ogJs3OxKpQUrJ), estamos proporcionando oficialmente a todos los clientes de VTEX que operan como sellers en Mercado Libre la nueva interfaz para mapear categorías y atributos.
 
-Antes de la certificación, los sellers tenían que rellenar la [plantilla de mapeo](https://help.vtex.com/es/tutorial/mapeamento-de-categorias-variacoes-e-atributos-do-mercado-libre--4xNFUZZmboCSUVdLCFo6eA) con las categorías y los atributos de los productos que deseaban anunciar en Mercado Libre. La nueva interfaz para mapear categorías y atributos llega para sustituir a la plantilla de mapeo.
+Antes de la certificación, los sellers tenían que rellenar la [plantilla de mapeo](/es/tutorial/mapeamento-de-categorias-variacoes-e-atributos-do-mercado-libre--4xNFUZZmboCSUVdLCFo6eA) con las categorías y los atributos de los productos que deseaban anunciar en Mercado Libre. La nueva interfaz para mapear categorías y atributos llega para sustituir a la plantilla de mapeo.
 
 ![announcement mapperES2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2021/noviembre/2021-11-19-integracion-con-mercado-libre-nueva-interfaz-para-mapear-categorias-y_1.gif)
 
 ## ¿Qué cambió?
 
-Para mejorar la experiencia de todos nuestros clientes que utilizan la [integración de Mercado Libre](https://help.vtex.com/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq), hemos desarrollado una interfaz que simplifica el mapeo de categorías y atributos. 
+Para mejorar la experiencia de todos nuestros clientes que utilizan la [integración de Mercado Libre](/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq), hemos desarrollado una interfaz que simplifica el mapeo de categorías y atributos. 
 
-Ya no será necesario mapear los productos mediante la [plantilla de mapeo](https://help.vtex.com/es/tutorial/mapeamento-de-categorias-variacoes-e-atributos-do-mercado-libre--4xNFUZZmboCSUVdLCFo6eA) para enviar los productos de tu catálogo VTEX a Mercado Libre. La plantilla se descontinuará cuando la interfaz esté disponible para todos los clientes. 
+Ya no será necesario mapear los productos mediante la [plantilla de mapeo](/es/tutorial/mapeamento-de-categorias-variacoes-e-atributos-do-mercado-libre--4xNFUZZmboCSUVdLCFo6eA) para enviar los productos de tu catálogo VTEX a Mercado Libre. La plantilla se descontinuará cuando la interfaz esté disponible para todos los clientes. 
 
 ## ¿Por qué realizamos este cambio?
 
@@ -41,4 +41,4 @@ La nueva interfaz ya está disponible para toda nuestra base de clientes que uti
 
 Todos los clientes que utilizaban la plantilla de mapeo para enviar sus productos ya no tendrán que utilizarla, y la plantilla se descontinuará a finales de noviembre de 2021. Los productos que ya se han mapeado mediante la plantilla seguirán anunciándose en Mercado Libre. Solo los nuevos productos que se envíen tendrán que mapearse utilizando la nueva interfaz. 
 
-Para saber más sobre cómo utilizar la nueva interfaz, lee el artículo [Enviar productos a Mercado Libre](https://help.vtex.com/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/5XNeiye4rS4oao2MueSUeA).
+Para saber más sobre cómo utilizar la nueva interfaz, lee el artículo [Enviar productos a Mercado Libre](/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/5XNeiye4rS4oao2MueSUeA).

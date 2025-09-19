@@ -41,25 +41,25 @@ Por ejemplo, supongamos que tiene el SKU «Camiseta roja». Si completa el campo
 
 Por lo tanto, cuando el cliente seleccione dos unidades en el *checkout*, estará comprando 10 camisetas rojas, en lugar de dos.
 
-Para saber más detalles, lea el artículo sobre [cómo completar cada uno de los campos del registro de un nuevo SKU](https://help.vtex.com/es/tutorial/sku-registration-fields--21DDItuEQc6mseiW8EakcY "cómo completar cada uno de los campos del registro de un nuevo SKU").
+Para saber más detalles, lea el artículo sobre [cómo completar cada uno de los campos del registro de un nuevo SKU](/es/tutorial/sku-registration-fields--21DDItuEQc6mseiW8EakcY "cómo completar cada uno de los campos del registro de un nuevo SKU").
 
 ### Precio por cantidad
 
-En VTEX, el cliente puede definir el precio de un ítem de acuerdo con su cantidad. Al configurar el [precio fijo](https://help.vtex.com/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3HxF2u5VwidqnUGnFoKdDy "preço fixo") de un SKU, se puede definir la [cantidad mínima de ítems en el carrito para activar el precio fijo](https://help.vtex.com/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3HxF2u5VwidqnUGnFoKdDy#item-minimo-no-carrinho "cantidad mínima de ítems en el carrito para activar el precio fijo"). Es decir, en base al volumen que el consumidor añada al carrito, todos los productos adquieren un valor determinado.
+En VTEX, el cliente puede definir el precio de un ítem de acuerdo con su cantidad. Al configurar el [precio fijo](/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3HxF2u5VwidqnUGnFoKdDy "preço fixo") de un SKU, se puede definir la [cantidad mínima de ítems en el carrito para activar el precio fijo](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3HxF2u5VwidqnUGnFoKdDy#item-minimo-no-carrinho "cantidad mínima de ítems en el carrito para activar el precio fijo"). Es decir, en base al volumen que el consumidor añada al carrito, todos los productos adquieren un valor determinado.
 
 Tomemos como ejemplo un producto que tiene el valor unitario de USD 100 y que este precio se mantendrá hasta que se incluyen 10 unidades en el carrito. Sin embargo, si el consumidor quiere comprar 12 ítems de una sola vez, el precio unitario se reduce un poco, a USD 98.
 
-Este es un recurso que se adapta a las necesidades de los clientes mayoristas. Actualmente existen tres formas de establecer un precio fijo en VTEX. Acceda al artículo sobre [cómo registrar precios fijos](https://help.vtex.com/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3g39iXkQza4AW7C7L814mj "cómo registrar precios fijos") para conocer todas las formas de configuración.
+Este es un recurso que se adapta a las necesidades de los clientes mayoristas. Actualmente existen tres formas de establecer un precio fijo en VTEX. Acceda al artículo sobre [cómo registrar precios fijos](/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3g39iXkQza4AW7C7L814mj "cómo registrar precios fijos") para conocer todas las formas de configuración.
 
-> ℹ️ Antes de proceder con su lectura, lea el artículo sobre[ las promociones más usadas para el escenario B2B](https://help.vtex.com/es/tutorial/as-promocoes-mais-comuns-em-b2b--XoM951AzUIvfaH71UdANf?&utm_source=autocomplete).
+> ℹ️ Antes de proceder con su lectura, lea el artículo sobre[ las promociones más usadas para el escenario B2B](/es/tutorial/as-promocoes-mais-comuns-em-b2b--XoM951AzUIvfaH71UdANf?&utm_source=autocomplete).
 
 ### Kit de productos
 
-En VTEX, todas las tiendas cuentan con el recurso [kit de productos](https://help.vtex.com/pt/tutorial/kit-registration?locale=en "kit de produtos"), a través del cual se puede vender un conjunto de ítems por un precio determinado. 
+En VTEX, todas las tiendas cuentan con el recurso [kit de productos](/pt/tutorial/kit-registration?locale=en "kit de produtos"), a través del cual se puede vender un conjunto de ítems por un precio determinado. 
 
 > ℹ️ En el contexto B2B, el kit de productos, generalmente, se cita como "Bundle". Es decir, los términos "kit de productos" y "bundle" se refieren a la misma herramienta.
 
-Para registrar un [kit de productos](https://help.vtex.com/pt/tutorial/cadastrando-kit/ "kit de produtos"), vea la documentación en el Centro de Ayuda. 
+Para registrar un [kit de productos](/pt/tutorial/cadastrando-kit/ "kit de produtos"), vea la documentación en el Centro de Ayuda. 
 
 ### Product Assembly Options o Product Customizer
 
@@ -73,30 +73,30 @@ Esta etapa tiene una serie de particularidades que se pueden potenciar a través
 
 ### Gestión de pedidos
 
-Todas las tiendas VTEX cuentan con el módulo «Gestión de pedidos», el cual permite orquestar todos los [pedidos](https://help.vtex.com/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/2sl6hj2eqwgqbDgTF6y5qE "requests") que se realizan en una tienda. 
+Todas las tiendas VTEX cuentan con el módulo «Gestión de pedidos», el cual permite orquestar todos los [pedidos](/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/2sl6hj2eqwgqbDgTF6y5qE "requests") que se realizan en una tienda. 
 
 El sistema comprende:
 
 - Todos los detalles relacionados con cada uno de los pedidos registrados en la tienda, como los datos del comprador y método de pago. 
 
-- El [flujo de pedidos](https://help.vtex.com/es/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/4811ExCe3WrEiRMV3sy9n8 "flujo de pedidos"), una herramienta que monitorea el status de un pedido durante todo el periodo de posventa.
+- El [flujo de pedidos](/es/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/4811ExCe3WrEiRMV3sy9n8 "flujo de pedidos"), una herramienta que monitorea el status de un pedido durante todo el periodo de posventa.
 
 - Dispositivos para que el cliente actualice el status del pedido, como la facturación.
 
-Vea más detalles sobre la Gestión de pedidos, vea nuestro [FAQ sobre el módulo](https://help.vtex.com/es/tutorial/faq-vtex-gerenciamento-de-pedidos--4vddUgU784wyGYQ64cw6I8?&utm_source=autocomplete "FAQ sobre el módulo") en el Centro de Ayuda. 
+Vea más detalles sobre la Gestión de pedidos, vea nuestro [FAQ sobre el módulo](/es/tutorial/faq-vtex-gerenciamento-de-pedidos--4vddUgU784wyGYQ64cw6I8?&utm_source=autocomplete "FAQ sobre el módulo") en el Centro de Ayuda. 
 
 ### Pedir nuevamente
 
-VTEX cuenta con [My account](https://help.vtex.com/es/tutorial/como-funciona-o-my-account--2BQ3GiqhqGJTXsWVuio3Xh "My account"), una herramienta que está disponible en las tiendas de todos nuestros clientes. 
+VTEX cuenta con [My account](/es/tutorial/como-funciona-o-my-account--2BQ3GiqhqGJTXsWVuio3Xh "My account"), una herramienta que está disponible en las tiendas de todos nuestros clientes. 
 
 Esta herramienta permite al consumidor seguir el status de su pedido en el flujo de posventa, así como realizar algunas operaciones. Entre estas, «Pedir nuevamente» para volver a realizar un pedido que se efectuó anteriormente.  
 
 ![reorder ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/b2b/gu%C3%ADas-pr%C3%A1ticas/facilitar-la-operacion-de-una-tienda-b2b_1.png)
 
-Para saber más detalles de My Account, lea el tutorial sobre [cómo configurar esta funcionalidad](https://help.vtex.com/pt/tutorial/configurar-o-my-account--23Ayv5D6b86UBnYfoXqZL1 "cómo configurar esta funcionalidad").
+Para saber más detalles de My Account, lea el tutorial sobre [cómo configurar esta funcionalidad](/pt/tutorial/configurar-o-my-account--23Ayv5D6b86UBnYfoXqZL1 "cómo configurar esta funcionalidad").
 
 ### Substitución de pedidos
 
-Substitución de pedidos, o [Change Order](https://help.vtex.com/es/tutorial/change-making-changes-to-an-order--3d1XLIgPQcwaKGyMiWaYog "Change Order"), es una funcionalidad del módulo Gestión de pedidos del Admin de VTEX. Este recurso posibilita que el administrador de la tienda edite pedidos que ya fueron realizados sin tener que cancelarlos y sin ayuda del equipo de soporte. 
+Substitución de pedidos, o [Change Order](/es/tutorial/change-making-changes-to-an-order--3d1XLIgPQcwaKGyMiWaYog "Change Order"), es una funcionalidad del módulo Gestión de pedidos del Admin de VTEX. Este recurso posibilita que el administrador de la tienda edite pedidos que ya fueron realizados sin tener que cancelarlos y sin ayuda del equipo de soporte. 
 
-Para habilitar «Substitución de pedidos», consulte el [artículo sobre la funcionalidad en el Centro de Ayuda](https://help.vtex.com/es/tutorial/how-the-order-replacement-works--3aBxdbUPKgweug68YyK8oQ "artículo sobre la funcionalidad en el Centro de Ayuda").
+Para habilitar «Substitución de pedidos», consulte el [artículo sobre la funcionalidad en el Centro de Ayuda](/es/tutorial/how-the-order-replacement-works--3aBxdbUPKgweug68YyK8oQ "artículo sobre la funcionalidad en el Centro de Ayuda").

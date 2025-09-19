@@ -43,10 +43,10 @@ To gain access to cart identification information, access [Checkout API](https:/
 
 All information (personal, delivery and payment) is protected, being only viewed by the user registered on the platform (after logging in). The data appears masked to other people accessing the cart.
 
-To learn more about data protection, visit [SmartCheckout Security](https://help.vtex.com/en/tutorial/seguranca-do-smartcheckout--3SrJuuhrqwePUg1rp1exfB#).
+To learn more about data protection, visit [SmartCheckout Security](/en/tutorial/seguranca-do-smartcheckout--3SrJuuhrqwePUg1rp1exfB#).
 
 ## Page tracking
 
-When new parameters are inserted into a URL, such as a `querystring`, page tracking can change, impacting assessments performed by systems such as the Google Analytics conversion funnel. To use page tracking service with additional parameters, see updated rules at [Setting up the sales funnel on Google Analytics](https://help.vtex.com/tutorial/configurar-funil-de-vendas-no-google-analytics#).
+When new parameters are inserted into a URL, such as a `querystring`, page tracking can change, impacting assessments performed by systems such as the Google Analytics conversion funnel. To use page tracking service with additional parameters, see updated rules at [Setting up the sales funnel on Google Analytics](/tutorial/configurar-funil-de-vendas-no-google-analytics#).
 
 > ℹ️ If you use another page tracking system in your store, check the internal documentation for that system.

@@ -15,13 +15,13 @@ locale: es
 subcategoryId: 2t00bBkcAwIkgSCGKsMOwY
 ---
 
-La página [Todos los pedidos](https://help.vtex.com/es/tutorial/todos-os-pedidos--2QTduKHAJMFIZ3BAsi6Pi), permite hacer seguimiento de los pedidos de la tienda, y la página de [detalles del pedido](https://help.vtex.com/es/tutorial/order-details-page-interface--2Y75n54Cc9VizrlG1N6ZNl) permite ver toda la información sobre un pedido y gestionarlo en un solo lugar. Puedes comprobar en qué etapa se encuentra el pedido y sus interacciones; acceder a los datos del cliente, de la entrega y del pago; hacer un seguimiento de la entrega; y enviar [emails](https://help.vtex.com/es/tutorial/como-funciona-el-message-center--tutorials_84) al cliente.
+La página [Todos los pedidos](/es/tutorial/todos-os-pedidos--2QTduKHAJMFIZ3BAsi6Pi), permite hacer seguimiento de los pedidos de la tienda, y la página de [detalles del pedido](/es/tutorial/order-details-page-interface--2Y75n54Cc9VizrlG1N6ZNl) permite ver toda la información sobre un pedido y gestionarlo en un solo lugar. Puedes comprobar en qué etapa se encuentra el pedido y sus interacciones; acceder a los datos del cliente, de la entrega y del pago; hacer un seguimiento de la entrega; y enviar [emails](/es/tutorial/como-funciona-el-message-center--tutorials_84) al cliente.
 
-> ℹ️ Para saber más, consulta el artículo [Todos los pedidos](https://help.vtex.com/es/tutorial/todos-os-pedidos--2QTduKHAJMFIZ3BAsi6Pi). Para ver cuáles son los status del flujo de pedidos, consulta el artículo [Flujo y status de pedidos](https://help.vtex.com/es/tutorial/flujo-de-pedido-en-el-oms--tutorials_196).
+> ℹ️ Para saber más, consulta el artículo [Todos los pedidos](/es/tutorial/todos-os-pedidos--2QTduKHAJMFIZ3BAsi6Pi). Para ver cuáles son los status del flujo de pedidos, consulta el artículo [Flujo y status de pedidos](/es/tutorial/flujo-de-pedido-en-el-oms--tutorials_196).
 
 Para hacer el seguimiento de un pedido, sigue los pasos a continuación:
 
 1. En el Admin VTEX, accede a **Pedidos > Todos los pedidos**, o escribe **Todos los pedidos** en la barra de búsqueda en la parte superior de la página.
-2. Busque el pedido utilizando la barra de búsqueda o los [Filtros](https://help.vtex.com/pt/tutorial/como-filtrar-pedidos--tutorials_192).
-3. Selecciona el pedido deseado y acceda a la página de [detalles del pedido](https://help.vtex.com/pt/tutorial/order-details-page-interface--2Y75n54Cc9VizrlG1N6ZNl).
+2. Busque el pedido utilizando la barra de búsqueda o los [Filtros](/pt/tutorial/como-filtrar-pedidos--tutorials_192).
+3. Selecciona el pedido deseado y acceda a la página de [detalles del pedido](/pt/tutorial/order-details-page-interface--2Y75n54Cc9VizrlG1N6ZNl).
 4. Haz clic en `Ver interacciones` y consulta cambios de status, pago e [integración con el ERP](https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide), entre otros eventos del pedido.

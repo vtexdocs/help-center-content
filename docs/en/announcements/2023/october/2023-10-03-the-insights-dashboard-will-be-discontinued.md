@@ -17,18 +17,18 @@ announcementSynopsisEN: 'As of October 15, 2023, it will no longer be possible t
 
 **Insights** is a dashboard that allows you to monitor your sales with a detailed view of the conversion funnel and the main metrics that impact your store's revenue.
 
-Currently, the [Insights dashboard](https://help.vtex.com/en/tutorial/acompanhando-a-evolucao-das-suas-vendas--5QtyTR0jFy9gDnr4EYCjdq) is only available at:
+Currently, the [Insights dashboard](/en/tutorial/acompanhando-a-evolucao-das-suas-vendas--5QtyTR0jFy9gDnr4EYCjdq) is only available at:
 ```
 https://{accountname}.myvtex.com/admin/insights
 ```
 
-As of October 15, 2023, it will no longer be possible to access the [Insights dashboard](https://help.vtex.com/en/tutorial/acompanhando-a-evolucao-das-suas-vendas--5QtyTR0jFy9gDnr4EYCjdq), which will be discontinued.
+As of October 15, 2023, it will no longer be possible to access the [Insights dashboard](/en/tutorial/acompanhando-a-evolucao-das-suas-vendas--5QtyTR0jFy9gDnr4EYCjdq), which will be discontinued.
 
 ## Why we are making this change?
 
 The information available in the **Insights** dashboard can also be found in other dashboards, such as:
-- [Store Overview](https://help.vtex.com/en/tutorial/visao-geral-da-loja--P8ahguoRs0U3PzmXg2wuQ)
-- [Store Overview (beta)](https://help.vtex.com/en/tutorial/visao-geral-da-loja-beta--7i8wNsQQgbbFhYMYbQ5X46)
+- [Store Overview](/en/tutorial/visao-geral-da-loja--P8ahguoRs0U3PzmXg2wuQ)
+- [Store Overview (beta)](/en/tutorial/visao-geral-da-loja-beta--7i8wNsQQgbbFhYMYbQ5X46)
 
 Therefore, this discontinuation aims to reduce redundancy on the platform so that, in the future, we can focus on maintaining and improving a single experience. Currently, the **Store Overview** dashboards already display the same information as the **Insights** dashboard but with more accurate data and improved visualization.
 
@@ -36,4 +36,4 @@ Therefore, this discontinuation aims to reduce redundancy on the platform so tha
 
 As of October 15, 2023, this change will be automatically applied to all VTEX stores, and no action is required from you.
 
-If you want to monitor your store sales metrics, please go to the [Store Overview](https://help.vtex.com/en/tutorial/visao-geral-da-loja--P8ahguoRs0U3PzmXg2wuQ) or [Store Overview](https://help.vtex.com/en/tutorial/visao-geral-da-loja-beta--7i8wNsQQgbbFhYMYbQ5X46) (beta) dashboards, which have the same information as the **Insights** dashboard but with more accurate data and improved visualization.
+If you want to monitor your store sales metrics, please go to the [Store Overview](/en/tutorial/visao-geral-da-loja--P8ahguoRs0U3PzmXg2wuQ) or [Store Overview](/en/tutorial/visao-geral-da-loja-beta--7i8wNsQQgbbFhYMYbQ5X46) (beta) dashboards, which have the same information as the **Insights** dashboard but with more accurate data and improved visualization.

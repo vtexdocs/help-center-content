@@ -19,7 +19,7 @@ O módulo de promoções da VTEX permite a criação de diferentes tipos de prom
 
 ## Promoções disponíveis para marketplaces
 
-Apenas [promoções regulares](https://help.vtex.com/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI) dos seguintes tipos funcionam em marketplaces:
+Apenas [promoções regulares](/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI) dos seguintes tipos funcionam em marketplaces:
 
 - Promoção de frete grátis
 - Promoção de frete percentual
@@ -44,7 +44,7 @@ Para este tipo de promoção, é importante ter em mente as seguintes informaç�
 - O marketplace não recebe a promoção em si, somente uma notificação por API informando que o preço sofreu alterações. Cabe ao marketplace consultar o preço promocional.
 - Para a promoção ser aplicada ao valor do produto, o marketplace deve simular o preço do SKU usando o endpoint [Do OrderForm Simulation](https://developers.vtex.com/docs/api-reference/checkout-api#post-/api/checkout/pub/orderForms/simulation) da Checkout API.
 - A promoção não será aplicada ao valor do produto se o marketplace utilizar o endpoint [Get Price](https://developers.vtex.com/docs/api-reference/pricing-api#get-/prices/-itemId-) da Pricing API para consulta de preços. Este endpoint retorna apenas os preços cadastrados na VTEX, sem considerar os efeitos promocionais.
-- Os sellers determinam os limites da redução de preço que o marketplace pode aplicar sobre o valor total do pedido. Caso o valor de redução ultrapasse o limite estabelecido, o pedido não é realizado. Você pode alterar as configurações da sua loja na seção [Autorização de Pedidos](https://help.vtex.com/pt/tutorial/como-funciona-a-autorizacao-de-pedidos--3MBK6CmKHAuUjMBieDU0pn?&utm_source=autocomplete#divergencia-de-valores).
+- Os sellers determinam os limites da redução de preço que o marketplace pode aplicar sobre o valor total do pedido. Caso o valor de redução ultrapasse o limite estabelecido, o pedido não é realizado. Você pode alterar as configurações da sua loja na seção [Autorização de Pedidos](/pt/tutorial/como-funciona-a-autorizacao-de-pedidos--3MBK6CmKHAuUjMBieDU0pn?&utm_source=autocomplete#divergencia-de-valores).
 
 ### Configurações disponíveis
 
@@ -94,10 +94,10 @@ Veja abaixo as configurações que não estão disponíveis para marketplaces:
 
 | Nome | Descrição|
 | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Cluster de clientes                                                | Desconto concedido caso o cliente esteja cadastrado no [cluster](https://help.vtex.com/pt/tutorial/como-criar-um-cluster-de-clientes--frequentlyAskedQuestions_1724) selecionado.                                        |
-| Marketing tag                                                      | Utilizado para restringir a ativação da promoção caso a compra seja realizada pelo [módulo de Assinaturas da VTEX](https://help.vtex.com/pt/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453#).        |
-| UTMs                                                               | Desconto concedido a depender do valor de um dado [parâmetro UTM](https://help.vtex.com/pt/tutorial/o-que-sao-utm-source-utm-campaign-e-utm-medium--2wTz7QJ8KUG6skGAoAQuii).                                             |
-| Audiência de campanha                                              | Permite segmentar as promoções da sua loja a partir da definição de [públicos-alvo](https://help.vtex.com/pt/tutorial/audiencias-de-campanhas--3o7lhpNseXY2WmjZO0gQ6m#publico-alvo) que atendem a critérios específicos. |
+| Cluster de clientes                                                | Desconto concedido caso o cliente esteja cadastrado no [cluster](/pt/tutorial/como-criar-um-cluster-de-clientes--frequentlyAskedQuestions_1724) selecionado.                                        |
+| Marketing tag                                                      | Utilizado para restringir a ativação da promoção caso a compra seja realizada pelo [módulo de Assinaturas da VTEX](/pt/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453#).        |
+| UTMs                                                               | Desconto concedido a depender do valor de um dado [parâmetro UTM](/pt/tutorial/o-que-sao-utm-source-utm-campaign-e-utm-medium--2wTz7QJ8KUG6skGAoAQuii).                                             |
+| Audiência de campanha                                              | Permite segmentar as promoções da sua loja a partir da definição de [públicos-alvo](/pt/tutorial/audiencias-de-campanhas--3o7lhpNseXY2WmjZO0gQ6m#publico-alvo) que atendem a critérios específicos. |
 | Cupons                                                             | Código que permite aplicar promoções sobre o valor do carrinho.                                                                                                                                                          |
 | Valor mínimo ou máximo do carrinho                                 | Aplicada levando em conta o valor do carrinho sem considerar demais promoções ou frete.                                                                                                                                  |
 | Número de parcelas                                                 | Desconto concedido caso o número de parcelas selecionadas pelo cliente esteja no intervalo cadastrado.                                                                                                                   |
@@ -116,19 +116,19 @@ Veja abaixo as configurações que não estão disponíveis para marketplaces:
 
 Se necessário, é possível segmentar promoções para marketplaces específicos. Existem dois seletores que podem ser usados para obter este resultado:
 
-- [Política comercial](https://help.vtex.com/pt/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE): utilizado quando todos os marketplaces-alvo compartilham as mesmas configurações de canal de vendas (catálogo, preço e logística).
-- [Afiliado](https://help.vtex.com/pt/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0): utilizado para selecionar um ou mais marketplaces específicos, mesmo que não compartilhem as mesmas configurações de canal de vendas.
+- [Política comercial](/pt/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE): utilizado quando todos os marketplaces-alvo compartilham as mesmas configurações de canal de vendas (catálogo, preço e logística).
+- [Afiliado](/pt/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0): utilizado para selecionar um ou mais marketplaces específicos, mesmo que não compartilhem as mesmas configurações de canal de vendas.
 
 ### Seleção por política comercial
 
-1. Crie uma [promoção regular](https://help.vtex.com/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI#).
+1. Crie uma [promoção regular](/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI#).
 2. Na seção **Política Comercial**, selecione as opções **Iguais a** e **Entregue por mim (Lojas de terceiros)**.
 3. Em seguida, selecione as políticas comerciais desejadas.
 4. Clique em `Salvar`.
 
 ### Seleção por afiliado
 
-1. Crie uma [promoção regular](https://help.vtex.com/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI#).
+1. Crie uma [promoção regular](/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI#).
 2. Preencha o campo **Afiliados** com o nome do afiliado relacionado ao marketplace desejado.
 3. Na seção **Política Comercial**, selecione as opções **Iguais a** e **Entregue por mim (Lojas de terceiros)**.
 4. Clique em `Salvar`.

@@ -17,7 +17,7 @@ subcategoryId: 2zVauFUkYn8vgS0y0MfWeK
 
 > ℹ️ Este recurso solo está disponible para sellers VTEX que vendan productos de autos en Argentina, Brasil y México.  
 
-En el módulo [Gestión de anuncios](https://help.vtex.com/es/tutorial/gerenciamento-de-anuncios--7MRb9S78aBdZjFGpbuffpE), los sellers de tiendas VTEX pueden monitorear y gestionar los anuncios enviados a los canales de ventas [Mercado Libre](https://help.vtex.com/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq) (Classic y Premium), [Netshoes](https://help.vtex.com/es/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm) y otros marketplaces VTEX.  
+En el módulo [Gestión de anuncios](/es/tutorial/gerenciamento-de-anuncios--7MRb9S78aBdZjFGpbuffpE), los sellers de tiendas VTEX pueden monitorear y gestionar los anuncios enviados a los canales de ventas [Mercado Libre](/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq) (Classic y Premium), [Netshoes](/es/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm) y otros marketplaces VTEX.  
 
 La compatibilidad de autopartes permite a los sellers indicar los vehículos que son compatibles con el accesorio anunciado, lo que elimina la necesidad de crear varios anuncios para un mismo producto.  
 
@@ -46,8 +46,8 @@ Después de completar las instrucciones, tu anuncio estará listo para enviarlo 
 
 ### Artículos relacionados:  
 
-- [Mapear categorías y atributos de los productos para Mercado Libre](https://help.vtex.com/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/5XNeiye4rS4oao2MueSUeA)  
-- [Gestión de anuncios: detalles del anuncio](https://help.vtex.com/pt/tutorial/detalhes-do-anuncio--4FF9QYAewqAn610mDHwb0P)  
-- [Gestión de anuncios: detalles de la interacción](https://help.vtex.com/pt/tutorial/detalhes-da-interacao--5qC6XPkyUsYPd0dqKHQNlf)  
+- [Mapear categorías y atributos de los productos para Mercado Libre](/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/5XNeiye4rS4oao2MueSUeA)  
+- [Gestión de anuncios: detalles del anuncio](/pt/tutorial/detalhes-do-anuncio--4FF9QYAewqAn610mDHwb0P)  
+- [Gestión de anuncios: detalles de la interacción](/pt/tutorial/detalhes-da-interacao--5qC6XPkyUsYPd0dqKHQNlf)  
 - [Guía de integración de Gestión de anuncios](https://developers.vtex.com/docs/guides/sent-offers-integration-guide-connectors)  
 

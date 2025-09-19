@@ -19,9 +19,9 @@ Estamos emocionados de presentar la más reciente solución de atención al clie
 
 ### ¿Qué ha cambiado?
 
-Al abrir un [ticket de soporte](https://help.vtex.com/es/faq/como-funciona-o-suporte-da-vtex--3kACEfni4m8Yxa1vnf2ebe) de tipo Técnico, tendrás acceso a una nueva pantalla de conversación en tiempo real con el chatbot VTEX, donde podrás resolver todas tus dudas sobre la plataforma. El chatbot ofrece** soporte para varios idiomas **y ha sido **entrenado con toda la base de conocimientos** disponible por VTEX.
+Al abrir un [ticket de soporte](/es/faq/como-funciona-o-suporte-da-vtex--3kACEfni4m8Yxa1vnf2ebe) de tipo Técnico, tendrás acceso a una nueva pantalla de conversación en tiempo real con el chatbot VTEX, donde podrás resolver todas tus dudas sobre la plataforma. El chatbot ofrece** soporte para varios idiomas **y ha sido **entrenado con toda la base de conocimientos** disponible por VTEX.
 
-A pesar de esta novedad, siempre podrás optar por **continuar el soporte con nuestro equipo de especialistas de Soporte**, siguiendo los Acuerdos de Nivel de Servicio (SLAs) definidos en la [política de atención de tu región](https://help.vtex.com/es/faq/como-funciona-o-suporte-da-vtex--3kACEfni4m8Yxa1vnf2ebe).
+A pesar de esta novedad, siempre podrás optar por **continuar el soporte con nuestro equipo de especialistas de Soporte**, siguiendo los Acuerdos de Nivel de Servicio (SLAs) definidos en la [política de atención de tu región](/es/faq/como-funciona-o-suporte-da-vtex--3kACEfni4m8Yxa1vnf2ebe).
 
 ### Disponibilidad limitada en versión beta
 

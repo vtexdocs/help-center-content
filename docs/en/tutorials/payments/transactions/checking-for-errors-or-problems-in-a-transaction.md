@@ -21,11 +21,11 @@ The steps of a transaction are logged in a timeline, with the most recent intera
 
 VTEX gateway can communicate with acquirers, sub-acquirers, anti-frauds and other gateways. The __status changes in the transaction__ and the __partner's reply messages__ are displayed in boxes on the transaction details screen.
 
-> ℹ️ You can [click here](https://help.vtex.com/en/faq/credit-card-basic-payment-flow) to find out how the flow of a credit card transaction works. Also visit [our article](https://help.vtex.com/en/faq/registered-ticket-flow) with the basic scheme of a bank slip transaction.
+> ℹ️ You can [click here](/en/faq/credit-card-basic-payment-flow) to find out how the flow of a credit card transaction works. Also visit [our article](/en/faq/registered-ticket-flow) with the basic scheme of a bank slip transaction.
 
 ## Check the transaction status
 
-To check the __current status__ of a transaction, search the timeline for the *box at the top of the screen with a green circle on the left side*. [In this article](https://help.vtex.com/en/tutorial/fluxo-da-transacao-no-pagamentos--Er2oWmqPIWWyeIy4IoEoQ?locale=en "In this article"), there's an explanation of each status of a successful transaction. If the transaction has a problem, its final status will be __Cancelled__.
+To check the __current status__ of a transaction, search the timeline for the *box at the top of the screen with a green circle on the left side*. [In this article](/en/tutorial/fluxo-da-transacao-no-pagamentos--Er2oWmqPIWWyeIy4IoEoQ?locale=en "In this article"), there's an explanation of each status of a successful transaction. If the transaction has a problem, its final status will be __Cancelled__.
 
 ## Check the partner's reply messages
 

@@ -29,6 +29,6 @@ También hemos mejorado la experiencia de navegación de la pantalla que permite
 
 La nueva página de gestión de proveedores de pago y antifraude ya está disponible automáticamente para todas las cuentas VTEX. Para utilizar la nueva experiencia, en el Admin VTEX accede a __Configuración de la tienda > Pago > Proveedores__.
 
-Para más información sobre las funcionalidades de la nueva interfaz, accede a [Registrar proveedores de pagos y antifraude](https://help.vtex.com/es/tutorial/afiliaciones-de-gateway--tutorials_444).
+Para más información sobre las funcionalidades de la nueva interfaz, accede a [Registrar proveedores de pagos y antifraude](/es/tutorial/afiliaciones-de-gateway--tutorials_444).
 
 > ⚠️ La versión anterior de la interfaz de administración de afiliaciones, disponible en **Configuración de la tienda > Pago > Configuración > Afiliaciones de Gateway**, seguirá siendo accesible hasta el 14 de enero de 2024.

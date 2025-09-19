@@ -15,9 +15,9 @@ locale: es
 subcategoryId: 1qvm3kIrt6KA6IeGc4EQ6k
 ---
 
-> ⚠️ Este articulo explica cómo configurar la opción **Avísame** en las tiendas que usan [CMS Legado](https://help.vtex.com/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj). En las tiendas que usan [VTEX IO](https://developers.vtex.com/vtex-developer-docs/docs/what-is-vtex-io), la configuración se debe hacer siguiendo los pasos de la guía [Availability Notify](https://developers.vtex.com/vtex-developer-docs/docs/vtex-availability-notify).
+> ⚠️ Este articulo explica cómo configurar la opción **Avísame** en las tiendas que usan [CMS Legado](/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj). En las tiendas que usan [VTEX IO](https://developers.vtex.com/vtex-developer-docs/docs/what-is-vtex-io), la configuración se debe hacer siguiendo los pasos de la guía [Availability Notify](https://developers.vtex.com/vtex-developer-docs/docs/vtex-availability-notify).
 
-Cuando no hay [stock](https://help.vtex.com/es/tutorial/gestionar-items-en-inventario--tutorials_139) de un producto, el administrador de la tienda puede optar por ofrecer al cliente la opción **Avísame**. Esta funcionalidad permite que los clientes interesados en un producto reciban una notificación por email cuando el ítem vuelva a estar disponible.
+Cuando no hay [stock](/es/tutorial/gestionar-items-en-inventario--tutorials_139) de un producto, el administrador de la tienda puede optar por ofrecer al cliente la opción **Avísame**. Esta funcionalidad permite que los clientes interesados en un producto reciban una notificación por email cuando el ítem vuelva a estar disponible.
 
 A continuación, puedes ver un ejemplo de cómo se visualiza la opción **Avísame** en una tienda. Para recibir una notificación cuando el ítem esté disponible para la venta, el cliente debe ingresar su nombre e email en los campos resaltados y luego hacer clic en el botón `Enviar`.
 
@@ -68,6 +68,6 @@ Para configurar la plantilla del email de **Avísame** que recibirá el cliente,
 
 ## Más información
 
-* [Exportar los clientes registrados en la notificación de disponibilidad (Avísame)](https://help.vtex.com/es/tutorial/exportar-los-clientes-registrados-en-la-notificacion-de-disponibilidad--3Yr19DMQukGeIImUeCwIao)
-* [Insertar imágenes en el email de Avísame](https://help.vtex.com/es/tutorial/insertar-imagenes-en-el-email-de-avisame--3soCXGcE3XBPsnPhxJh2DY)
-* [Qué hacer cuando no aparece la opción Avísame](https://help.vtex.com/es/faq/que-hacer-cuando-no-aparece-la-opcion-avisame--oNb6JK1LPMOQwYsecKKCs)
+* [Exportar los clientes registrados en la notificación de disponibilidad (Avísame)](/es/tutorial/exportar-los-clientes-registrados-en-la-notificacion-de-disponibilidad--3Yr19DMQukGeIImUeCwIao)
+* [Insertar imágenes en el email de Avísame](/es/tutorial/insertar-imagenes-en-el-email-de-avisame--3soCXGcE3XBPsnPhxJh2DY)
+* [Qué hacer cuando no aparece la opción Avísame](/es/faq/que-hacer-cuando-no-aparece-la-opcion-avisame--oNb6JK1LPMOQwYsecKKCs)

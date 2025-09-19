@@ -64,7 +64,7 @@ Siga as instruções abaixo para excluir manualmente um token antigo, após a re
 
 ## Desfazer renovação de token
 
-> ℹ️ Este procedimento é possível apenas enquanto o token antigo não tiver sido [excluído](#excluir-token-antigo). Se o token antigo tiver sido excluído, será necessário renovar o token novamente ou [excluir a chave de API](https://help.vtex.com/pt/tutorial/chaves-geradas--7fnU4iZdvZKbxCaT3Ymdjc#excluir-chave).
+> ℹ️ Este procedimento é possível apenas enquanto o token antigo não tiver sido [excluído](#excluir-token-antigo). Se o token antigo tiver sido excluído, será necessário renovar o token novamente ou [excluir a chave de API](/pt/tutorial/chaves-geradas--7fnU4iZdvZKbxCaT3Ymdjc#excluir-chave).
 
 Se você renovou o token por engano ou esqueceu de copiar o novo token gerado, siga os passos abaixo para desfazer a renovação.
 
@@ -75,6 +75,6 @@ Se você renovou o token por engano ou esqueceu de copiar o novo token gerado, s
 
 ## Saiba mais
 
-* [Chaves de API](https://help.vtex.com/pt/tutorial/chaves-de-api--4bFEmcHXgpNksoePchZyy6)
-* [Configurar alerta para renovar tokens de API](https://help.vtex.com/pt/tutorial/configurar-a-duracao-de-chaves-de-api--kcGIFysFt02FDuhsfjQwZ)
-* [Chaves geradas](https://help.vtex.com/pt/tutorial/chaves-geradas--7fnU4iZdvZKbxCaT3Ymdjc)
+* [Chaves de API](/pt/tutorial/chaves-de-api--4bFEmcHXgpNksoePchZyy6)
+* [Configurar alerta para renovar tokens de API](/pt/tutorial/configurar-a-duracao-de-chaves-de-api--kcGIFysFt02FDuhsfjQwZ)
+* [Chaves geradas](/pt/tutorial/chaves-geradas--7fnU4iZdvZKbxCaT3Ymdjc)

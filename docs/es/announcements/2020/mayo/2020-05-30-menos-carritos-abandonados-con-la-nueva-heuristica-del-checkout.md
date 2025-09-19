@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisES: 'Cambiamos la lógica para el orden de sellers en las cuentas franquicia, reduciendo así los carritos abandonados.'
 ---
 
-VTEX hizo un cambio en la lógica que define el orden de selección de los sellers que se mostrarán en el checkout de las tiendas que utilizan el modelo de [cuenta franquicia](https://help.vtex.com/es/tutorial/what-are-franchise-account-and-seller-white-label--5orlGHyDHGAYciQ64oEgKa). Anteriormente, el checkout asumía que los sellers tenían inventario y seleccionaba a todos los que hacían entrega en la dirección del pedido. A partir de ahora, el checkout selecciona primero apenas a los sellers que pueden atender a esa dirección y luego filtra a los sellers con inventario de los productos en el carrito.
+VTEX hizo un cambio en la lógica que define el orden de selección de los sellers que se mostrarán en el checkout de las tiendas que utilizan el modelo de [cuenta franquicia](/es/tutorial/what-are-franchise-account-and-seller-white-label--5orlGHyDHGAYciQ64oEgKa). Anteriormente, el checkout asumía que los sellers tenían inventario y seleccionaba a todos los que hacían entrega en la dirección del pedido. A partir de ahora, el checkout selecciona primero apenas a los sellers que pueden atender a esa dirección y luego filtra a los sellers con inventario de los productos en el carrito.
 
 Este cambio impide que se seleccionen sellers que están disponibles para la entrega, pero que no cuentan con inventario. La consecuencia es un proceso más eficiente de selección de sellers para las tiendas que utilizan el modelo de cuenta franquicia, lo que reduce los casos de ruptura de carrito y contribuye a aumentar la rotación de inventario y la capilaridad de su tienda.
 
@@ -25,4 +25,4 @@ Hicimos este cambio en la heurística del checkout (la lógica que determina el 
 ## ¿Mi tienda necesita tomar alguna medida?
 No. Este cambio tiene un impacto en la eficiencia de la selección de los sellers por el checkout y, por consiguiente, en la tasa de conversión de las tiendas que utilizan el modelo de cuenta franquicia. Este es un cambio en la heurística, que no requiere ninguna acción por parte del administrador de la tienda.
 
-[Conozca más sobre cuentas franquicias en  VTEX →](https://help.vtex.com/es/tutorial/what-are-franchise-account-and-seller-white-label--5orlGHyDHGAYciQ64oEgKa).
+[Conozca más sobre cuentas franquicias en  VTEX →](/es/tutorial/what-are-franchise-account-and-seller-white-label--5orlGHyDHGAYciQ64oEgKa).

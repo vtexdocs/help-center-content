@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisPT: 'Adicionamos eventos de gift card aos registros do Audit.'
 ---
 
-O [Audit](https://help.vtex.com/pt/tutorial/audit--5RXf9WJ5YLFBcS8q8KcxTA) é um módulo que registra eventos que acontecem na sua loja VTEX, possibilitando uma auditoria futura. A VTEX realizou uma melhoria no Audit, adicionando três novos eventos relacionados a operações com gift cards (vale-presentes).
+O [Audit](/pt/tutorial/audit--5RXf9WJ5YLFBcS8q8KcxTA) é um módulo que registra eventos que acontecem na sua loja VTEX, possibilitando uma auditoria futura. A VTEX realizou uma melhoria no Audit, adicionando três novos eventos relacionados a operações com gift cards (vale-presentes).
 
 ## O que mudou?
 
@@ -24,7 +24,7 @@ Adicionamos os seguintes eventos de gift card nas aplicações de **Catálogo (A
 ### Catálogo (API)
 | Ação | Descrição | Detalhes do evento |
 |---|---|---|
-| GiftCard Create | Criação de um [gift card nativo](https://help.vtex.com/pt/tutorial/gift-card--tutorials_995) (GiftCard System). | ID do vale-presente criado e do usuário que realizou a ação. |
+| GiftCard Create | Criação de um [gift card nativo](/pt/tutorial/gift-card--tutorials_995) (GiftCard System). | ID do vale-presente criado e do usuário que realizou a ação. |
 | GiftCard List All Paged | Fluxo interno para exibição de vales-presente disponíveis. | ID dos vale-presentes retornados pela API e do usuário que realizou a busca. |
 
 ### Vale-presente
@@ -34,6 +34,6 @@ Adicionamos os seguintes eventos de gift card nas aplicações de **Catálogo (A
 
 ## O que precisa ser feito?
 
-Nenhuma ação é necessária. A mudança no [Audit](https://help.vtex.com/pt/tutorial/audit--5RXf9WJ5YLFBcS8q8KcxTA) já está ativa para todas as contas.
+Nenhuma ação é necessária. A mudança no [Audit](/pt/tutorial/audit--5RXf9WJ5YLFBcS8q8KcxTA) já está ativa para todas as contas.
 
-Saiba mais em [Eventos disponíveis no Audit](https://help.vtex.com/pt/tutorial/eventos-disponiveis-no-audit--6r1Mzcu5NmkmmDLJlz9CCZ).
+Saiba mais em [Eventos disponíveis no Audit](/pt/tutorial/eventos-disponiveis-no-audit--6r1Mzcu5NmkmmDLJlz9CCZ).

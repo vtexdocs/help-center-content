@@ -17,7 +17,7 @@ announcementSynopsisES: 'Los productos de la categoría Celulares y Smartphones 
 
 > ℹ️ Atributo necesario únicamente para los clientes integrados en Brasil.
 
-Cuando una tienda VTEX integrada con Mercado Libre quiere [enviar sus productos](https://help.vtex.com/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/5XNeiye4rS4oao2MueSUeA) al catálogo del marketplace, debe mapear las categorías y atributos de estos productos.
+Cuando una tienda VTEX integrada con Mercado Libre quiere [enviar sus productos](/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/5XNeiye4rS4oao2MueSUeA) al catálogo del marketplace, debe mapear las categorías y atributos de estos productos.
 
 Debido a una [determinación de Anatel](https://www.gov.br/anatel/pt-br/assuntos/noticias/anatel-alerta-marketplaces-sobre-venda-de-produtos-nao-homologados), la Agencia Nacional de Telecomunicaciones de Brasil, los productos de la categoría Celulares y Smartphones en Mercado Libre tendrán un nuevo atributo obligatorio llamado `ANATEL_HOMOLOGATION_NUMBER` para ser comercializados en los marketplaces.
 
@@ -33,6 +33,6 @@ Este cambio se realizó porque la [nueva determinación de Anatel](https://www.g
 
 ## ¿Qué se necesita hacer?
 
-En primer lugar, sigue los pasos del artículo [Registrar especificaciones de producto](https://help.vtex.com/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/4fcdmJzQ6QYA9zWf3bLWin) para crear, en la plataforma VTEX, la especificación de producto `ANATEL_HOMOLOGATION_NUMBER` para los productos de la categoría Celulares y Smartphones.
+En primer lugar, sigue los pasos del artículo [Registrar especificaciones de producto](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/4fcdmJzQ6QYA9zWf3bLWin) para crear, en la plataforma VTEX, la especificación de producto `ANATEL_HOMOLOGATION_NUMBER` para los productos de la categoría Celulares y Smartphones.
 
-Después de registrar el nuevo atributo, mapea la categoría y el atributo para enviar el producto a Mercado Libre. Para más información sobre este procedimiento, lee la guía [Enviar productos a Mercado Libre](https://help.vtex.com/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/5XNeiye4rS4oao2MueSUeA).
+Después de registrar el nuevo atributo, mapea la categoría y el atributo para enviar el producto a Mercado Libre. Para más información sobre este procedimiento, lee la guía [Enviar productos a Mercado Libre](/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/5XNeiye4rS4oao2MueSUeA).

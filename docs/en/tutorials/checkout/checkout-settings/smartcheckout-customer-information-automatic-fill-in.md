@@ -21,7 +21,7 @@ With SmartCheckout, the customer's information is automatically filled in at Che
 
 ## Customer information
 
-The information previously entered in the [Master Data](https://help.vtex.com/en/tutorial/entendendo-o-funcionamento-das-consultas-no-master-data--tutorials_4629#) is automatically filled in the customer data fields at checkout. The list below shows the default connection between these data. However, it may vary depending on the country:
+The information previously entered in the [Master Data](/en/tutorial/entendendo-o-funcionamento-das-consultas-no-master-data--tutorials_4629#) is automatically filled in the customer data fields at checkout. The list below shows the default connection between these data. However, it may vary depending on the country:
 
 - Customer (CL)
    - email
@@ -51,17 +51,17 @@ At checkout, the customer's information is automatically filled in as follows:
 3. SmartCheckout verifies whether the email address belongs to a store customer or not. 
 4. After the email is verified, the customer’s identification fields are automatically filled in with the data from the Master Data at Checkout.
 
-> ⚠️ To protect customer data, personal information will be shown only partially on the checkout page (part of the data is hidden using the [PCI-DSS](https://help.vtex.com/en/tutorial/what-is-the-pci-ssc--4jo3Vkox3amSO2w4qIWa0E#) payment security standard). This procedure allows the customers to identify whether their current data is correct and, if needed, to also select different addresses for delivery.
+> ⚠️ To protect customer data, personal information will be shown only partially on the checkout page (part of the data is hidden using the [PCI-DSS](/en/tutorial/what-is-the-pci-ssc--4jo3Vkox3amSO2w4qIWa0E#) payment security standard). This procedure allows the customers to identify whether their current data is correct and, if needed, to also select different addresses for delivery.
 <ul>
 5. The customer chooses the delivery and payment methods, and completes the purchase order.
 </ul>
 > ⚠️ If payment with a credit or debit card is chosen, the following additional security criteria will apply: <ul> <li>The CVV (Card Verification Value) will be requested for final validation and completion of the purchase order.</li> <li>The customer won't be able to pay with a debit or credit card if the address is different from the one stored on the profile.</li> </ul>
 
-Changes to the stored data, such as address or phone number, will only be allowed once the customer is [authenticated in the store](https://help.vtex.com/en/tutorial/como-meu-cliente-pode-fazer-login-na-minha-loja--3FCNpwbpZe0U4auiI4CC0C#). 
+Changes to the stored data, such as address or phone number, will only be allowed once the customer is [authenticated in the store](/en/tutorial/como-meu-cliente-pode-fazer-login-na-minha-loja--3FCNpwbpZe0U4auiI4CC0C#). 
 
-For more information on data protection, visit [SmartCheckout Security](https://help.vtex.com/en/tutorial/seguranca-do-smartcheckout--3SrJuuhrqwePUg1rp1exfB#).
+For more information on data protection, visit [SmartCheckout Security](/en/tutorial/seguranca-do-smartcheckout--3SrJuuhrqwePUg1rp1exfB#).
 
 ### Learn more
 
- * [Import customer data](https://help.vtex.com/en/tutorial/import-customer-data--2zWYVOyj0sISYQmeUwCsI0)
+ * [Import customer data](/en/tutorial/import-customer-data--2zWYVOyj0sISYQmeUwCsI0)
  * [`orderForm` fields](https://developers.vtex.com/docs/guides/orderform-fields#clientprofiledata)

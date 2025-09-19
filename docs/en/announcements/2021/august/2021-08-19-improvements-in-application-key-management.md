@@ -23,11 +23,11 @@ Application keys are the most common type of authentication credentials, but the
 
 ### New user interface to manage Application Keys
 
-Before, managing [Application Keys](https://help.vtex.com/en/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet) required navigating through multiple screens. Now you can generate, add/remove, activate/deactivate, export and edit permissions for your app key token pairs in a single place.
+Before, managing [Application Keys](/en/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet) required navigating through multiple screens. Now you can generate, add/remove, activate/deactivate, export and edit permissions for your app key token pairs in a single place.
 
 ### Permissions to create Application Keys are now resource based
 
-Before, only the [Sponsor user](https://help.vtex.com/en/tutorial/what-is-the-master-user--3oPr7YuIkEYqUGmEqIMSEy) could create and manage Application Keys. Now any user with the `License Manager / Services access control / Save user` resource included in their [roles](https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) can create these credentials and share the same permissions with other users, allowing the Sponsor user to delegate this responsibility as needed.
+Before, only the [Sponsor user](/en/tutorial/what-is-the-master-user--3oPr7YuIkEYqUGmEqIMSEy) could create and manage Application Keys. Now any user with the `License Manager / Services access control / Save user` resource included in their [roles](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) can create these credentials and share the same permissions with other users, allowing the Sponsor user to delegate this responsibility as needed.
 
 ## Why did we make these changes?
 
@@ -35,4 +35,4 @@ By simplifying the management of authentication credentials, we help our custome
 
 ## What needs to be done?
 
-Check out the documentation on [Application Keys](https://help.vtex.com/en/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet) for more information.
+Check out the documentation on [Application Keys](/en/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet) for more information.

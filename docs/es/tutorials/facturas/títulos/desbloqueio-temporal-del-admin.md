@@ -21,7 +21,7 @@ El bloqueo del Admin ocurre cuando hay un retraso en el pago de facturas. Mientr
 Para realizar este procedimiento debes tener uno de los siguientes roles de usuario:
 
 - Owner (Admin Super)
-- [Rol financiero](https://help.vtex.com/es/tutorial/criar-um-perfil-de-acesso-financeiro--717qPtxW3Cy9n5KrReHeVv)
+- [Rol financiero](/es/tutorial/criar-um-perfil-de-acesso-financeiro--717qPtxW3Cy9n5KrReHeVv)
 
 ## Solicitud de desbloqueo
 1. En la esquina superior derecha del Admin VTEX haz clic en el perfil de tu avatar, indicado por la letra inicial de tu dirección de email y accede a **Facturación > Facturas, o ingresa Facturas en la barra de búsqueda.**

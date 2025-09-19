@@ -17,7 +17,7 @@ subcategoryId: pwxWmUu7T222QyuGogs68
 
 An SKU specification is a mandatory field in the SKU form where you can insert specific characteristics for every product variation.
 
-At VTEX, a specification is always included in a [specification group](https://help.vtex.com/en/tutorial/creating-category-groups--tutorials_246), associated with a [category](https://help.vtex.com/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf). Therefore, to create an SKU specification (field), you must first create at least one category and one specification group.
+At VTEX, a specification is always included in a [specification group](/en/tutorial/creating-category-groups--tutorials_246), associated with a [category](/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf). Therefore, to create an SKU specification (field), you must first create at least one category and one specification group.
 
 Example: A fashion store which intends to sell a **Polo shirt** product in the S, M or L sizes. In the **T-shirts** category, the specification group can be named **Characteristics**. In this case, size is the characteristic which will distinguish one SKU from another. Therefore, the retailer must create an SKU field called **Size**, having **S**, **M** and **L** as value options.
 
@@ -47,7 +47,7 @@ Since this is an SKU specification, the information selected on that page will a
 
 ## Step-by-step instructions in the VTEX Admin
 
-To see the SKU specifications in the SKU registration page, besides having previously created a [specification group](https://help.vtex.com/en/tutorial/creating-category-groups--tutorials_246) associated with a [category](https://help.vtex.com/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf), you must also create the SKU fields and fill in their values. Then, you will be able to fill in the SKU specifications.
+To see the SKU specifications in the SKU registration page, besides having previously created a [specification group](/en/tutorial/creating-category-groups--tutorials_246) associated with a [category](/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf), you must also create the SKU fields and fill in their values. Then, you will be able to fill in the SKU specifications.
 
 See the step-by-step instructions below.
 
@@ -73,7 +73,7 @@ To create an SKU field, follow the instructions below:
     * **Name** *: Name of the SKU specification (field).
     * **Text** *: Field description.
     * **Type**: Field type, which may vary between **Combo **or **Radio**. For more information on each option, read the [Field types](#sku-field-types) section.
-    * **Group**: Name of the [specification group](https://help.vtex.com/en/tutorial/creating-category-groups--tutorials_246), in which the field will be included.
+    * **Group**: Name of the [specification group](/en/tutorial/creating-category-groups--tutorials_246), in which the field will be included.
     * **Filter**: Defines if the specification will be used as a filter when navigating the** website.**
     * **Required**: Defines if a value is mandatory when adding an SKU. In the field is mandatory, the SKU may only be activated after filling in this specification.
     * **Show Specification**: Defines if the field is displayed on the SKU details page, in the **Specifications** tab.
@@ -86,7 +86,7 @@ To create an SKU field, follow the instructions below:
 
 #### SKU Field types
 
-There are two SKU field types — **Combo** and **Radio**. The purpose of SKU specifications is to distinguish between variations of the same product, based on objective and preset characteristics for selection, such as size or color, among others. To display text fields and more complex HTML structures, such as descriptions or size charts, you must use the [product fields](https://help.vtex.com/en/tutorial/adding-specifications-or-product-fields--tutorials_106) feature.
+There are two SKU field types — **Combo** and **Radio**. The purpose of SKU specifications is to distinguish between variations of the same product, based on objective and preset characteristics for selection, such as size or color, among others. To display text fields and more complex HTML structures, such as descriptions or size charts, you must use the [product fields](/en/tutorial/adding-specifications-or-product-fields--tutorials_106) feature.
 
 See the table below for details on the SKU field types you can select in the **Type** option when [creating an SKU field](#creating-an-sku-field):
 
@@ -201,5 +201,5 @@ To fill in SKU specifications in bulk using a spreadsheet, first you must export
 ![sku-spec-4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/products-and-skus/adding-sku-specifications-or-fields_6.gif)
 
 ## Learn more
-- [Adding product specifications or fields](https://help.vtex.com/en/tutorial/adding-specifications-or-product-fields--tutorials_106)
-- [Product and SKU Specifications](https://help.vtex.com/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP)
+- [Adding product specifications or fields](/en/tutorial/adding-specifications-or-product-fields--tutorials_106)
+- [Product and SKU Specifications](/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP)

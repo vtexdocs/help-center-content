@@ -29,8 +29,8 @@ To configure PagBrasilV2, follow the steps below:
 8. In __Captura antecipada__ (Early capture), choose how long you want the capture to be carried out (after transaction approval and anti-fraud analysis). This function can also be deactivated.
 9. Click __Save__.
 
-To configure the payment methods to be processed by PagBrasilV2, access [Configuring payment vonditions](https://help.vtex.com/en/tutorial/how-to-configure-payment-conditions--tutorials_455#).
+To configure the payment methods to be processed by PagBrasilV2, access [Configuring payment vonditions](/en/tutorial/how-to-configure-payment-conditions--tutorials_455#).
 
-To set special conditions on payment methods, go to [Configuring payment special conditions](https://help.vtex.com/en/tutorial/special-conditions--tutorials_456#).
+To set special conditions on payment methods, go to [Configuring payment special conditions](/en/tutorial/special-conditions--tutorials_456#).
 
 After following the indicated steps, PagBrasilV2 may take up to 10 minutes to appear at your store's checkout as a payment option.

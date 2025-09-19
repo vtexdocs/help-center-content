@@ -36,7 +36,7 @@ To identify the reason for the cancellation, you need to:
 
 In the VTEX Admin, under **Orders > Transactions**, all payment interactions are recorded with the payment operator/gateway and with the anti-fraud solution, which are responsible for most cancellations.
 
-When a cancellation occurs, a message is recorded in the order transaction events identifying the reason. To learn how to view these events, see [Viewing the order's details in Orders](https://help.vtex.com/pt/tutorial/como-visualizar-detalhes-do-pedido/).
+When a cancellation occurs, a message is recorded in the order transaction events identifying the reason. To learn how to view these events, see [Viewing the order's details in Orders](/pt/tutorial/como-visualizar-detalhes-do-pedido/).
 
 ### Checking order interactions
 
@@ -46,7 +46,7 @@ To view the interactions of an order, follow the steps below:
 
 1. In the VTEX Admin, go to **Orders > All Orders**, or type **All Orders** in the search bar at the top of the page.
 2. Search for the order using the search bar and filters available in **All Orders**.
-3. Click the order you want by going to the [Order details page](https://help.vtex.com/en/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl).
+3. Click the order you want by going to the [Order details page](/en/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl).
 4. In the **Order History** section, click `View Interactions`.
 
 #### Cancellation by the marketplace
@@ -61,6 +61,6 @@ In the **Orders** module of the VTEX Admin, orders can be canceled manually or v
 
 Additionally, the customer can request the order cancellation to the merchant while it's in the status `Cancellation window`. In this case, the order first has the `Cancellation requested` status, and after approval, the status changes to `Canceled`.
 
-All order changes can be viewed on the [Order details page](https://help.vtex.com/en/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl).
+All order changes can be viewed on the [Order details page](/en/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl).
 
 > ⚠️  For orders originating from a marketplace but canceled by the store, the integration doesn't automatically notify the marketplace about the cancellation. In these cases, **you must manually cancel the order directly in the marketplace interface**.

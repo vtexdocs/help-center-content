@@ -18,7 +18,7 @@ order: 6
 Inserir a nota fiscal no pedido é um passo obrigatório para que seu status passe para `Faturado` - sinal de que o pedido foi finalizado com sucesso. Lembrando que uma vez que um pedido seja lido como faturado pelo sistema, esse status não pode ser alterado.
 
 A fatura de um pedido pode ser feita de duas formas: 
-- __Manualmente:__ pelo *Admin VTEX > Pedidos > Todos os Pedidos*, clicando no pedido e em seguida no botão `Faturar`. Saiba mais em [Faturar um pedido manualmente](https://help.vtex.com/pt/tutorial/faturar-um-pedido-manualmente--7p1h852V5t54KyscpgxE2v).
+- __Manualmente:__ pelo *Admin VTEX > Pedidos > Todos os Pedidos*, clicando no pedido e em seguida no botão `Faturar`. Saiba mais em [Faturar um pedido manualmente](/pt/tutorial/faturar-um-pedido-manualmente--7p1h852V5t54KyscpgxE2v).
 - __Via API:__ caso tenha integração com ERP utilizando a chamada [Order invoice notification](https://developers.vtex.com/vtex-rest-api/reference/invoice).
 
 ## Mudando o status para Faturado
@@ -28,8 +28,8 @@ Somente após atingir o valor total do pedido o status será alterado para `fatu
 Existem três cenários para o faturamento, dependendo da situação do pedido:
 
 - __Pedido sem alteração:__ é preciso inserir uma nota fiscal com valor equivalente ao total do pedido.
-- __Pedido com alteração > descontando o valor > seguido de fatura avulsa:__ é preciso inserir uma nota fiscal com o valor que resta depois da alteração. A nota pode ser [parcial](https://help.vtex.com/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe), ou completa, se nela constar todo o valor restante após a alteração.
-- __Pedido com fatura parcial > seguido de alteração com desconto:__ é preciso realizar uma [alteração](https://help.vtex.com/pt/tutorial/changing-items-from-a-complete-order--tutorials_190), descontando o valor restante. Para isso, calcule o valor total, menos o valor da fatura parcial.
+- __Pedido com alteração > descontando o valor > seguido de fatura avulsa:__ é preciso inserir uma nota fiscal com o valor que resta depois da alteração. A nota pode ser [parcial](/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe), ou completa, se nela constar todo o valor restante após a alteração.
+- __Pedido com fatura parcial > seguido de alteração com desconto:__ é preciso realizar uma [alteração](/pt/tutorial/changing-items-from-a-complete-order--tutorials_190), descontando o valor restante. Para isso, calcule o valor total, menos o valor da fatura parcial.
 
 ## Nota Fiscal
 

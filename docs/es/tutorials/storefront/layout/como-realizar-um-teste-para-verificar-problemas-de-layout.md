@@ -19,7 +19,7 @@ subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 
 Cuando nos encontramos con escenarios en los que haya algún comportamiento extraño en el sitio, podemos hacer algunos procedimientos para ver de dónde viene la duda.
 
-La primera prueba, es desconectar el JS en tools, si tiene dudas de cómo hacerlo [haga clic aquí y vea cómo deshabilitarlo.](https://help.vtex.com/es/tutorial/como-identificar-erros-de-layout-ocasionados-por-arquivos-javascript--frequentlyAskedQuestions_588)
+La primera prueba, es desconectar el JS en tools, si tiene dudas de cómo hacerlo [haga clic aquí y vea cómo deshabilitarlo.](/es/tutorial/como-identificar-erros-de-layout-ocasionados-por-arquivos-javascript--frequentlyAskedQuestions_588)
 
 Si, aun con el tools deshabilitado, todavía no está seguro si es algún JS colocado en la página, trate de tomar un template prácticamente limpio y haga la prueba usando el LID del template registrado.
 

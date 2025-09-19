@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 1E7tziZCkY4w8i4EmUuwec
 ---
 
-En la página **Catálogo > Categorías** del Admin VTEX, puedes realizar acciones relacionadas con las [categorías](https://help.vtex.com/pt/tutorial/cadastrando-categoria) configuradas en tu tienda. Consulta las secciones a continuación para saber cómo realizar cada acción.
+En la página **Catálogo > Categorías** del Admin VTEX, puedes realizar acciones relacionadas con las [categorías](/pt/tutorial/cadastrando-categoria) configuradas en tu tienda. Consulta las secciones a continuación para saber cómo realizar cada acción.
 
 - [Desactivar una categoría](#desactivar-una-categoria)
 - [Cambiar el orden de las subcategorías](#cambiar-el-orden-de-las-subcategorias)
@@ -45,7 +45,7 @@ En el árbol de categorías que se muestra en **Catálogo > Categorías** del Ad
 
 ## Editar el árbol de categorias
 
-> ⚠️ Mover las categorías directamente a través del árbol de categorías puede generar errores inesperados en tu catálogo. Por lo tanto, te recomendamos seguir las instrucciones a continuación para realizar cualquier cambio en los niveles de las categorías. Consulta el[ problema conocido](https://help.vtex.com/es/known-issues/mover-categorias-genera-comportamientos-inesperados-en-el-arbol-de--6JSa9nnYoAAUQO1zPtzfZD) relacionado con este escenario para obtener más información.
+> ⚠️ Mover las categorías directamente a través del árbol de categorías puede generar errores inesperados en tu catálogo. Por lo tanto, te recomendamos seguir las instrucciones a continuación para realizar cualquier cambio en los niveles de las categorías. Consulta el[ problema conocido](/es/known-issues/mover-categorias-genera-comportamientos-inesperados-en-el-arbol-de--6JSa9nnYoAAUQO1zPtzfZD) relacionado con este escenario para obtener más información.
 
 Hay escenarios en los que es necesario cambiar el nivel jerárquico de una categoría. Por ejemplo, imagina que una tienda tiene una categoría principal llamada **Accesorios** y una categoría secundaria (subcategoría) llamada **Zapatos**, pero quiere hacer de la subcategoría **Zapatos** una categoría principal independiente.
 
@@ -70,6 +70,6 @@ Para mover una categoría sin causar errores ni perder información, sigue las i
 
 ## Más información
 
-- [Categorías - Definición del concepto](https://help.vtex.com/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf)
-- [Registrar una categoría](https://help.vtex.com/es/tutorial/registrar-categoria--tutorials_206)
+- [Categorías - Definición del concepto](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf)
+- [Registrar una categoría](/es/tutorial/registrar-categoria--tutorials_206)
 

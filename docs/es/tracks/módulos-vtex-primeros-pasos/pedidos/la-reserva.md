@@ -27,7 +27,7 @@ La reserva conecta el módulo de logística al módulo de pedidos. Impide que el
 
 Este es el flujo de reserva en VTEX:  
 
- 1. En el momento en que el cliente completa la compra, los artículos comprados pasan al status `Reserva Autorizada` en stock. Aquí se indica que los artículos no se venderán más de una vez, pero aún no se han retirado del stock: esta reserva caerá si el pago no se aprueba dentro de la fecha de vencimiento de la reserva. Comprenda cómo se define este plazo en el artículo [Cómo funciona la reserva](https://help.vtex.com/es/tutorial/como-a-reserva-funciona).  
+ 1. En el momento en que el cliente completa la compra, los artículos comprados pasan al status `Reserva Autorizada` en stock. Aquí se indica que los artículos no se venderán más de una vez, pero aún no se han retirado del stock: esta reserva caerá si el pago no se aprueba dentro de la fecha de vencimiento de la reserva. Comprenda cómo se define este plazo en el artículo [Cómo funciona la reserva](/es/tutorial/como-a-reserva-funciona).  
 
  2. Una vez confirmado el pago, el status de los artículos cambia a "Reserva Confirmada". Ahora la reserva ya no tiene plazo de vencimiento. Pero la compra aún se puede cancelar y los artículos aún pueden volver al estado disponible.  
 

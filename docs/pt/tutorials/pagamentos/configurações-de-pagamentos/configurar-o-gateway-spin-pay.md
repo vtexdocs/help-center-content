@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-Na VTEX, agora é possível oferecer o gateway [Spin Pay](https://spinpay.com.br/) para processar os pagamentos na sua loja. Com essa solução, você poderá receber via [PIX](https://help.vtex.com/pt/tutorial/pix-faq--3lx7zCU2lQroTEBCYKYbo3) e principais carteiras digitais disponíveis hoje no mercado.
+Na VTEX, agora é possível oferecer o gateway [Spin Pay](https://spinpay.com.br/) para processar os pagamentos na sua loja. Com essa solução, você poderá receber via [PIX](/pt/tutorial/pix-faq--3lx7zCU2lQroTEBCYKYbo3) e principais carteiras digitais disponíveis hoje no mercado.
 
 > ⚠️ Para utilizar o Spin Pay, na VTEX, é preciso que você tenha uma **Application Key (App Key)** e uma **Application Token (App Token)**. Esses dados são obtidos somente após a aprovação do seu cadastro pela Spin Pay e assinatura do contrato ou aceite do termo de adesão. Caso seu cadastro já tenha sido aprovado e o contrato assinado, siga as etapas a seguir.
 
@@ -34,7 +34,7 @@ Feito isso, o Spin Pay estará pronto para processar os pagamentos em sua loja. 
 
 ### Configurar condição de pagamento
 
-Com o gateway instalado em sua loja, é preciso configurar a [condição de pagamento](https://help.vtex.com/pt/tutorial/condicoes-de-pagamento--tutorials_455?&utm_source=autocomplete) para que os pagamentos sejam processados de forma correta.
+Com o gateway instalado em sua loja, é preciso configurar a [condição de pagamento](/pt/tutorial/condicoes-de-pagamento--tutorials_455?&utm_source=autocomplete) para que os pagamentos sejam processados de forma correta.
 
 1. Acesse o __Admin__ VTEX.
 2. Acesse o módulo __Pagamentos__.

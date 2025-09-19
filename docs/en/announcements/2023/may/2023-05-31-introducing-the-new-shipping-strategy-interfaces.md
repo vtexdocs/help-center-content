@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisEN: 'The new shipping strategy interfaces beta release.'
 ---
 
-Starting from May 31st, we are launching for all VTEX stores the beta version of the new **Shipping Strategy** interfaces, which consist of the [Shipping Policies](https://help.vtex.com/en/tutorial/politica-de-envio--tutorials_140), [Loading Docks](https://help.vtex.com/en/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj), and [Warehouses](https://help.vtex.com/en/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb) pages.
+Starting from May 31st, we are launching for all VTEX stores the beta version of the new **Shipping Strategy** interfaces, which consist of the [Shipping Policies](/en/tutorial/politica-de-envio--tutorials_140), [Loading Docks](/en/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj), and [Warehouses](/en/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb) pages.
 
 The **Shipping Strategy** pages have been updated according to the new VTEX design system, as shown below:
 
@@ -25,7 +25,7 @@ The **Shipping Strategy** pages have been updated according to the new VTEX desi
 
 The new interfaces offer a more intuitive experience and have been updated for the VTEX Admin. Additionally, the following improvements have been made to the **Shipping Policies** page:
 
-* **New activation flow:** You can easily activate or deactivate your [shipping policies](https://help.vtex.com/en/tutorial/politica-de-envio--tutorials_140) by choosing the desired option in the menu <i class="fas fa-ellipsis-v"></i> in the shipping policy row.
+* **New activation flow:** You can easily activate or deactivate your [shipping policies](/en/tutorial/politica-de-envio--tutorials_140) by choosing the desired option in the menu <i class="fas fa-ellipsis-v"></i> in the shipping policy row.
 * **Easily track information:** You can easily track the relationship between your shipping policies and loading docks, having more visibility of your operation.
 
 ## Why did we make this change?

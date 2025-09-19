@@ -15,14 +15,14 @@ locale: pt
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
-> ⚠️ Existem duas formas de configurar coleções: por meio do Portal CMS Legado ou utilizando o módulo de [Coleções Beta](https://help.vtex.com/pt/tutorial/cadastrar-colecoes-beta--yJBHqNMViOAnnnq4fyOye). Este artigo refere-se à configuração de coleções por meio do Portal CMS Legado.
+> ⚠️ Existem duas formas de configurar coleções: por meio do Portal CMS Legado ou utilizando o módulo de [Coleções Beta](/pt/tutorial/cadastrar-colecoes-beta--yJBHqNMViOAnnnq4fyOye). Este artigo refere-se à configuração de coleções por meio do Portal CMS Legado.
 
 Siga o passo a passo abaixo para cadastrar uma nova coleção:
 
 1. No Admin VTEX, acesse **Storefront > Layout**.
 2. Dentro da pasta CMS, clique em __Product Clusters (Collections)__.
 3. Clique em __New Collection__.
-4. Preencha os campos do formulário de Coleção. Para entender melhor o significado de cada campo, acesse nosso artigo sobre [como preencher campos de cadastro de coleção](https://help.vtex.com/pt/tutorial/preencher-campos-de-cadastro-de-colecao--7eKL7CFRW3yGKlnDfQetbj).
+4. Preencha os campos do formulário de Coleção. Para entender melhor o significado de cada campo, acesse nosso artigo sobre [como preencher campos de cadastro de coleção](/pt/tutorial/preencher-campos-de-cadastro-de-colecao--7eKL7CFRW3yGKlnDfQetbj).
 5. Clique em __Save Product Cluster__.
 
 > ⚠️ Quando a quantidade de coleções criadas ultrapassar o limite de vinte, as coleções excedentes podem ser encontradas na interface através do campo de pesquisa. A busca nesse campo deve ser feita com base no nome da coleção desejada.
@@ -143,4 +143,4 @@ Para criar uma coleção de produtos que ainda não foram lançados na sua loja,
 
 A opção __Launches__ permite criar uma coleção de produtos recentemente lançados. Ao selecionar essa opção, o sistema considerará todos os produtos lançados dentro do intervalo de 30 dias anteriores ao vigente. A data de lançamento considerada é também aquela definida no campo _Data de lançamento no mercado_ no cadastro do produto. 
 
-> ℹ️ Se quiser entender como funciona a exclusão de uma coleção de produtos, acesse nosso artigo sobre [como deletar coleções](https://help.vtex.com/pt/tutorial/como-deletar-colecao--6C620yHzwsGoS8iaCocAM2).
+> ℹ️ Se quiser entender como funciona a exclusão de uma coleção de produtos, acesse nosso artigo sobre [como deletar coleções](/pt/tutorial/como-deletar-colecao--6C620yHzwsGoS8iaCocAM2).

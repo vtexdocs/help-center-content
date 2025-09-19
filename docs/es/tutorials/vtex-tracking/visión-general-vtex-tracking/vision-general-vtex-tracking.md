@@ -26,17 +26,17 @@ VTEX Tracking es una solución de VTEX enfocada en el monitoreo de entregas. Con
 A través de la plataforma web, los clientes de VTEX Tracking realizan toda la gestión y el monitoreo de sus entregas. Esta posee las siguientes funcionalidades:
 
 - **Configuración de cuenta:** toda la configuración de su operación se realiza en la plataforma web. Para que su negocio utilice la solución VTEX Tracking, es necesario configurar:  
-- [Usuarios](https://help.vtex.com/es/tutorial/usuarios-vtex-tracking--1zn5nrvkoWtx0pcabbRhSZ)  
-- [Agencias](https://help.vtex.com/es/tutorial/agencias-vtex-tracking--2PMohRiNdNpHPA2g2HyYH7?locale=pt)  
-- [Clientes](https://help.vtex.com/es/tutorial/clientes-vtex-tracking--277Z0epDNArIGJIbqtPMA9)  
-- [Feriados](https://help.vtex.com/es/tutorial/feriados-vtex-tracking--4cj0oJNmF89e0pAJMBj1sP)  
-- [Sucursales](https://help.vtex.com/es/tutorial/filial-vtex-tracking--6mD8L390WPORidxGp9TKfp)  
-- [Justificativa de Status](https://help.vtex.com/es/tutorial/justificativa-de-status-vtex-tracking--4shboc7h5XPUpA8TQzXPRG)  
-- [Incidencias de Chat](https://help.vtex.com/es/tutorial/ocorrencias-de-chat-vtex-tracking--2YY7ixoHRmHOt3Fd3LzdPe)  
-- [Partners](https://help.vtex.com/es/tutorial/parceiros-vtex-tracking--2xEHQ98hoMzgkrdhkpOedQ)  
-- [Portadores](https://help.vtex.com/es/tutorial/portadores-vtex-tracking--5tVSpunaXVT6gQDSl9jTow)  
-- [Transportadoras](https://help.vtex.com/es/tutorial/transportadoras-vtex-tracking--2HVE5D2fheT4cDPjiApL1Y?locale=pt)  
-- [Vehículos](https://help.vtex.com/es/tutorial/veiculos-vtex-tracking--47OD2KOOMcHghBTJK0Vlwc)  
+- [Usuarios](/es/tutorial/usuarios-vtex-tracking--1zn5nrvkoWtx0pcabbRhSZ)  
+- [Agencias](/es/tutorial/agencias-vtex-tracking--2PMohRiNdNpHPA2g2HyYH7?locale=pt)  
+- [Clientes](/es/tutorial/clientes-vtex-tracking--277Z0epDNArIGJIbqtPMA9)  
+- [Feriados](/es/tutorial/feriados-vtex-tracking--4cj0oJNmF89e0pAJMBj1sP)  
+- [Sucursales](/es/tutorial/filial-vtex-tracking--6mD8L390WPORidxGp9TKfp)  
+- [Justificativa de Status](/es/tutorial/justificativa-de-status-vtex-tracking--4shboc7h5XPUpA8TQzXPRG)  
+- [Incidencias de Chat](/es/tutorial/ocorrencias-de-chat-vtex-tracking--2YY7ixoHRmHOt3Fd3LzdPe)  
+- [Partners](/es/tutorial/parceiros-vtex-tracking--2xEHQ98hoMzgkrdhkpOedQ)  
+- [Portadores](/es/tutorial/portadores-vtex-tracking--5tVSpunaXVT6gQDSl9jTow)  
+- [Transportadoras](/es/tutorial/transportadoras-vtex-tracking--2HVE5D2fheT4cDPjiApL1Y?locale=pt)  
+- [Vehículos](/es/tutorial/veiculos-vtex-tracking--47OD2KOOMcHghBTJK0Vlwc)  
 
 - **Servicios:** en el contexto de VTEX Tracking, los servicios incluyen  recogida, atención al cliente o entrega realizada por su negocio. En la plataforma web se pueden registrar y gestionar todos los servicios de su operación.  
 

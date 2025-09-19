@@ -15,13 +15,13 @@ trackSlugEN: amazon-integration
 order: 7
 ---
 
-Once the initial integration settings have been configured, you must send your products to the Amazon catalog. To enable the product cataloging process and make them available for sale on Amazon, add products in the VTEX Admin using [Amazon Listing](https://help.vtex.com/en/tutorial/amazon-listing--5HIhbnYzJWkl2yM0o72WrL).
+Once the initial integration settings have been configured, you must send your products to the Amazon catalog. To enable the product cataloging process and make them available for sale on Amazon, add products in the VTEX Admin using [Amazon Listing](/en/tutorial/amazon-listing--5HIhbnYzJWkl2yM0o72WrL).
 
 <div class= "alert info">
-All products must have a [Warehouse](https://help.vtex.com/en/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb)  and a [Price](https://help.vtex.com/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP) configured before being sent to the marketplace.
+All products must have a [Warehouse](/en/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb)  and a [Price](/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP) configured before being sent to the marketplace.
 </div>
 
-To add your store products, you must configure the [EAN field](https://help.vtex.com/pt/tutorial/campos-de-cadastro-de-produto--4dYXWIK3zyS8IceKkQseke) for the products you want to send to Amazon.  
+To add your store products, you must configure the [EAN field](/pt/tutorial/campos-de-cadastro-de-produto--4dYXWIK3zyS8IceKkQseke) for the products you want to send to Amazon.  
 
 ## EAN
 

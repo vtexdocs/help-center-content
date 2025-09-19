@@ -15,7 +15,7 @@ trackSlugEN: configurar-integracion-con-mercado-libre
 order: 7
 ---
 
-El paso para habilitar su integración con Mercado Libre, es que el [usuario Titular](https://help.vtex.com/es/tutorial/o-que-e-o-usuario-master--3oPr7YuIkEYqUGmEqIMSEy?&utm_source=autocomplete) de VTEX realice la autorización. Para eso debe efectuar los siguientes pasos:
+El paso para habilitar su integración con Mercado Libre, es que el [usuario Titular](/es/tutorial/o-que-e-o-usuario-master--3oPr7YuIkEYqUGmEqIMSEy?&utm_source=autocomplete) de VTEX realice la autorización. Para eso debe efectuar los siguientes pasos:
 
 1. En el menú del Admin, 
 2. En el módulo MARKETPLACE, seleccione **Integraciones**.

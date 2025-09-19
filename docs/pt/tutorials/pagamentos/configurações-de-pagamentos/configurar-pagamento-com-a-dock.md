@@ -36,10 +36,10 @@ Para configurar Dock, siga os passos abaixo:
 
 ## Configurar condição de pagamento
 
-Para configurar o pagamento por cartões de crédito ou débito, acesse [Condições de Pagamento](https://help.vtex.com/pt/tutorial/condicoes-de-pagamento). 
+Para configurar o pagamento por cartões de crédito ou débito, acesse [Condições de Pagamento](/pt/tutorial/condicoes-de-pagamento). 
 
-Para configurar o pagamento por cartões private labels, acesse [Configurar pagamentos com Cartões de Loja](https://help.vtex.com/pt/tutorial/configurar-pagamentos-com-cartoes-de-loja-bandeira-propria--428FgVdSGQUeAOoogkaIw4#).
+Para configurar o pagamento por cartões private labels, acesse [Configurar pagamentos com Cartões de Loja](/pt/tutorial/configurar-pagamentos-com-cartoes-de-loja-bandeira-propria--428FgVdSGQUeAOoogkaIw4#).
 
-Para definir condições especiais sobre os métodos de pagamento, acesse [Configurar condições especiais de Pagamento](https://help.vtex.com/pt/tutorial/condiciones-especiales--tutorials_456?&utm_source=autocomplete).
+Para definir condições especiais sobre os métodos de pagamento, acesse [Configurar condições especiais de Pagamento](/pt/tutorial/condiciones-especiales--tutorials_456?&utm_source=autocomplete).
 
 Depois de seguir os passos indicados, o conector Dock pode demorar até 10 minutos para aparecer no checkout da sua loja como uma opção de pagamento. 

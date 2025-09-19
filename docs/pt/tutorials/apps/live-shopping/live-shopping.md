@@ -27,7 +27,7 @@ Depois de ter [instalado o aplicativo VTEX Live Shopping](https://developers.vte
 
 No Admin VTEX, acesse **Aplicativos** > **Live Shopping** > **Eventos**. Na página **Eventos**, você terá acesso às seguintes seções:
 
-* **Eventos**: esta seção permite criar, gerenciar e acessar informações detalhadas sobre os eventos. Nela, você poderá configurar novos eventos, acessar o estúdio de transmissão ao vivo e visualizar informações do evento. Para mais informações, consulte a seção [Criar e gerenciar eventos](https://help.vtex.com/pt/tutorial/live-shopping-eventos--6aGLiqoKG1UoS30f3FFWch).
+* **Eventos**: esta seção permite criar, gerenciar e acessar informações detalhadas sobre os eventos. Nela, você poderá configurar novos eventos, acessar o estúdio de transmissão ao vivo e visualizar informações do evento. Para mais informações, consulte a seção [Criar e gerenciar eventos](/pt/tutorial/live-shopping-eventos--6aGLiqoKG1UoS30f3FFWch).
   ![ls-event](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/apps/live-shopping/live-shopping_3.png)
 * **Uso**: esta seção permite que você acompanhe as informações de uso do seu plano. Você pode monitorar a quantidade de minutos de eventos ao vivo disponíveis, as gravações de vídeo baixadas e os eventos que excederam o limite de espectadores.
 
@@ -35,5 +35,5 @@ No Admin VTEX, acesse **Aplicativos** > **Live Shopping** > **Eventos**. Na pág
 
 > ⚠️ Os detalhes de uso dependem do plano escolhido: **Lite**, **Standard** ou **Pro**. Todos os detalhes de pagamento são fornecidos no momento da instalação.
 
-Você também pode acessar **Aplicativos** > **Live Shopping** > **Página global** para [configurar uma página global de eventos ao vivo](https://help.vtex.com/pt/tutorial/live-shopping-configurar-landing-page-para-transmissoes-ao-vivo--4iBDPEpXyKSfoIqUdwHGFE). Esta funcionalidade oferece uma visão abrangente dos eventos anteriores, ao vivo e futuros associados à sua conta, permitindo maior engajamento e oportunidades de venda mesmo após a conclusão dos eventos ou antes deles.
+Você também pode acessar **Aplicativos** > **Live Shopping** > **Página global** para [configurar uma página global de eventos ao vivo](/pt/tutorial/live-shopping-configurar-landing-page-para-transmissoes-ao-vivo--4iBDPEpXyKSfoIqUdwHGFE). Esta funcionalidade oferece uma visão abrangente dos eventos anteriores, ao vivo e futuros associados à sua conta, permitindo maior engajamento e oportunidades de venda mesmo após a conclusão dos eventos ou antes deles.
 

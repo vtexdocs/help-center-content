@@ -105,4 +105,4 @@ El flujo de integraciones referente al envío y procesamiento de pedidos se pued
 
 6) Enviar solicitud de cancelación.  
 
-[Acceda al procedimiento completo aquí](https://help.vtex.com/es/tutorial/integracao-entre-marketplace-nao-vtex-e-seller-vtex-acoes-referentes-ao--5AiW7dZ4nGMDI9TAg43zmf).
+[Acceda al procedimiento completo aquí](/es/tutorial/integracao-entre-marketplace-nao-vtex-e-seller-vtex-acoes-referentes-ao--5AiW7dZ4nGMDI9TAg43zmf).

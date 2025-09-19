@@ -15,13 +15,13 @@ announcementImageID: 'undefined'
 announcementSynopsisEN: 'New security layer in Checkout validates hosts via License Manager when using reCAPTCHA.'
 ---
 
-To improve security during checkout, we added a new layer of protection in the store [reCAPTCHA](https://help.vtex.com/en/tutorial/using-recaptcha-at-checkout--18Te3oDd7f4qcjKu9jhNzP) validation. Now, store [hosts](https://help.vtex.com/en/tutorial/configurar-dominio-de-la-tienda--tutorials_2450#store-address-structure) are validated through [License Manager](https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc), which is the systems that checks user permissions for completing actions in the platform.
+To improve security during checkout, we added a new layer of protection in the store [reCAPTCHA](/en/tutorial/using-recaptcha-at-checkout--18Te3oDd7f4qcjKu9jhNzP) validation. Now, store [hosts](/en/tutorial/configurar-dominio-de-la-tienda--tutorials_2450#store-address-structure) are validated through [License Manager](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc), which is the systems that checks user permissions for completing actions in the platform.
 
 ## What has changed?
 
 The Checkout system now checks if the host where the reCAPTCHA validation challenge is solved, such as `www.mystore.com`, exists in the License Manager module of that account. This helps prevent malicious access and fraud attempts. 
 
-To see the account hosts, use the [Get stores](https://developers.vtex.com/docs/api-reference/license-manager-api#get-/api/vlm/account/stores) endpoint. If you want to add a new host to your store, check [Configuring the store domain](https://help.vtex.com/en/tutorial/configurar-dominio-de-la-tienda--tutorials_2450#registering-a-new-host).
+To see the account hosts, use the [Get stores](https://developers.vtex.com/docs/api-reference/license-manager-api#get-/api/vlm/account/stores) endpoint. If you want to add a new host to your store, check [Configuring the store domain](/en/tutorial/configurar-dominio-de-la-tienda--tutorials_2450#registering-a-new-host).
 
 ## What needs to be done?
 

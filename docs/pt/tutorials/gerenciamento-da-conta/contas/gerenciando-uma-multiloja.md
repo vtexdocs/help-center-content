@@ -21,11 +21,11 @@ Neste guia, confira como criar, configurar e excluir uma multiloja.
 
 ## Criar uma multiloja
 
-A criação de multiloja é sem custos para o lojista. Porém, caso seja necessário [contratar uma política comercial adicional](https://help.vtex.com/pt/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X), custos extras serão aplicados.
+A criação de multiloja é sem custos para o lojista. Porém, caso seja necessário [contratar uma política comercial adicional](/pt/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X), custos extras serão aplicados.
 
-Para criar uma nova loja, siga as instruções da seção **Criar loja** do guia [Gerenciamento de conta](https://help.vtex.com/pt/tutorial/account-details-page--2vhUVOKfCaswqLguT2F9xq#criar-loja).
+Para criar uma nova loja, siga as instruções da seção **Criar loja** do guia [Gerenciamento de conta](/pt/tutorial/account-details-page--2vhUVOKfCaswqLguT2F9xq#criar-loja).
 
-É preciso especificar qual é o domínio da sua nova loja. Saiba mais com o guia [Configurando o domínio da sua loja](https://help.vtex.com/tutorial/configurando-dominios-no-gerenciamento-da-conta--tutorials_2450).
+É preciso especificar qual é o domínio da sua nova loja. Saiba mais com o guia [Configurando o domínio da sua loja](/tutorial/configurando-dominios-no-gerenciamento-da-conta--tutorials_2450).
 
 Após criada a multiloja, defina o layout para cada loja dependendo da tecnologia de frontend utilizada. Para mais detalhes, veja [Definir layouts para cada loja](#definir-layouts-para-cada-loja).
 
@@ -33,12 +33,12 @@ Após criada a multiloja, defina o layout para cada loja dependendo da tecnologi
 
 Em um ambiente multidomínio é possível definir layouts distintos para cada loja, variando de acordo com o domínio acessado. 
 
-- Para lojas CMS Portal Legado, veja [Layout](https://help.vtex.com/pt/subcategory/layout--2g6LxtasS4iSeGEqeYUuGW).
-- Para lojas desenvolvidas com Store Framework, veja [Gerenciando conteúdo de página e template](https://help.vtex.com/pt/tutorial/gerenciando-conteudo-de-pagina-e-template--3tMbx6HXy4Fy5r9EhboG37).
+- Para lojas CMS Portal Legado, veja [Layout](/pt/subcategory/layout--2g6LxtasS4iSeGEqeYUuGW).
+- Para lojas desenvolvidas com Store Framework, veja [Gerenciando conteúdo de página e template](/pt/tutorial/gerenciando-conteudo-de-pagina-e-template--3tMbx6HXy4Fy5r9EhboG37).
 
 ### Definir politícias comerciais
 
-Para diferenciar produtos e/ou preços em cada loja, é necessária a utilização de políticas comerciais. Para saber mais, veja [Como funciona uma Política Comercial](https://help.vtex.com/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) e [Criar uma política comercial](https://help.vtex.com/pt/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE).
+Para diferenciar produtos e/ou preços em cada loja, é necessária a utilização de políticas comerciais. Para saber mais, veja [Como funciona uma Política Comercial](/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) e [Criar uma política comercial](/pt/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE).
 
 ## Configurar website
 
@@ -60,20 +60,20 @@ Para que os clientes possam acessar a nova loja, siga as instruções abaixo par
 9. Preencha o campo **Store name from License Manager** com o valor da subconta criada anteriormente no módulo de [Gerenciamento de conta](#configurar-nova-loja).
 10. Preencha o campo **Available sales channel** selecionando as políticas comerciais que serão associadas a esta loja.
 
-    > ⚠️ Caso a loja utilize mais de uma 1 política comercial, atente-se para a ordenação dessas políticas em **Configurações da loja > Canais > Políticas comerciais**. Para saber mais, veja [Como funciona a relação entre websites e políticas comerciais](https://help.vtex.com/pt/tutorial/como-funciona-a-relacao-entre-websites-e-politicas-comerciais--1VuakBcyNOgg4AM4cUeeQg).
+    > ⚠️ Caso a loja utilize mais de uma 1 política comercial, atente-se para a ordenação dessas políticas em **Configurações da loja > Canais > Políticas comerciais**. Para saber mais, veja [Como funciona a relação entre websites e políticas comerciais](/pt/tutorial/como-funciona-a-relacao-entre-websites-e-politicas-comerciais--1VuakBcyNOgg4AM4cUeeQg).
 
 11. Clique em `Save Binding` e depois em `Save Website`.
 
 ### Configurar domínio do XML
 
-Para gerar o arquivo XML da nova loja automaticamente, siga as instruções do guia [Configurar domínio do XML](https://help.vtex.com/pt/tutorial/configurar-dominio-do-xml--2RkGK4vHS0c6sYuUw0cUWC).
+Para gerar o arquivo XML da nova loja automaticamente, siga as instruções do guia [Configurar domínio do XML](/pt/tutorial/configurar-dominio-do-xml--2RkGK4vHS0c6sYuUw0cUWC).
 
 ## Excluir multiloja
 
-Para excluir uma multiloja existente, siga as instruções da seção **Excluir loja** do guia [Gerenciamento de conta](https://help.vtex.com/pt/tutorial/account-details-page--2vhUVOKfCaswqLguT2F9xq#excluir-loja).
+Para excluir uma multiloja existente, siga as instruções da seção **Excluir loja** do guia [Gerenciamento de conta](/pt/tutorial/account-details-page--2vhUVOKfCaswqLguT2F9xq#excluir-loja).
 
 > ⚠️ O nome da subconta removida não poderá ser utilizado novamente.
 
 ## Saiba mais
 
-- [Escolhendo entre arquitetura multiloja ou ambiente adicional](https://help.vtex.com/pt/tutorial/escolhendo-entre-arquitetura-multi-loja-ou-ambiente-adicional--4HRNpa1OCKZ5YzP8yiilBL)
+- [Escolhendo entre arquitetura multiloja ou ambiente adicional](/pt/tutorial/escolhendo-entre-arquitetura-multi-loja-ou-ambiente-adicional--4HRNpa1OCKZ5YzP8yiilBL)

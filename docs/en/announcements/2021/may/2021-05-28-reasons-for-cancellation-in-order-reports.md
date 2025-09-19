@@ -35,4 +35,4 @@ We have included the reasons for cancellation in order reports to make it easier
 
 No action is needed. The change will be automatically implemented in all VTEX stores. From now on, all order reports will be generated in the new format.
 
-Learn how to export orders in our tutorial [Exporting orders in Orders management](https://help.vtex.com/en/tutorial/exporting-orders-in-orders-managment--tutorials_6417) and learn more about the report structure in our article[Order report](https://help.vtex.com/en/tutorial/order-report--31m1ewsmsEe0WS4So2aGMY).
+Learn how to export orders in our tutorial [Exporting orders in Orders management](/en/tutorial/exporting-orders-in-orders-managment--tutorials_6417) and learn more about the report structure in our article[Order report](/en/tutorial/order-report--31m1ewsmsEe0WS4So2aGMY).

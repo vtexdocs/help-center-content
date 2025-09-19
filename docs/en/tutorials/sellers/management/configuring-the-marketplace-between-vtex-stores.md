@@ -34,10 +34,10 @@ Being a seller means that your store will send and sell products through another
 
 After defining the settings, you must index all products of the base in order to make the integration.
 
-1. Using the [sponsor user](https://help.vtex.com/en/tracks/contas-e-permissoes--5PxyAgZrtiYlaYZBTlhJ2A/56Bd0KpwbvAji1aFs94xdA?locale=pt), access the link `{accountname}.vtexcommercestable.com.br/admin/Site/FullCleanUp.aspx`.
+1. Using the [sponsor user](/en/tracks/contas-e-permissoes--5PxyAgZrtiYlaYZBTlhJ2A/56Bd0KpwbvAji1aFs94xdA?locale=pt), access the link `{accountname}.vtexcommercestable.com.br/admin/Site/FullCleanUp.aspx`.
 2. Click on the __Reindex Base__ button.
 
 Please note that in the URL you must change the term `{accountname}` to the name of your store.
 
-After adjusting these settings, the products will start to be sent to the marketplace. Then, the marketplace must [map the categories, brands and specifications](https://help.vtex.com/en/tutorial/mapeando-categorias-e-marcas-para-marketplace), as well as accept the products sent.
+After adjusting these settings, the products will start to be sent to the marketplace. Then, the marketplace must [map the categories, brands and specifications](/en/tutorial/mapeando-categorias-e-marcas-para-marketplace), as well as accept the products sent.
 

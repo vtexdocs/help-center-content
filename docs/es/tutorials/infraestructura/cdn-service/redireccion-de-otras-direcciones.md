@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 2Za4fjGfxYOo6oqykukgyy
 ---
 
-Una tienda online debe tener una única dirección principal, que [apuntará a los servidores de VTEX](https://help.vtex.com/es/tracks/como-realizar-el-go-live-de-tu-tienda--4Ns5FxIiksmjsdX2yOTduM/7sM5IMx02zaHvAFTm0OxiJ) antes del lanzamiento oficial de la tienda. Consulta [Configuración del dominio de tu tienda](https://help.vtex.com/es/tutorial/configurar-dominio-de-la-tienda--tutorials_2450) para conocer las reglas que debe cumplir la dirección y obtener instrucciones sobre cómo registrarla.
+Una tienda online debe tener una única dirección principal, que [apuntará a los servidores de VTEX](/es/tracks/como-realizar-el-go-live-de-tu-tienda--4Ns5FxIiksmjsdX2yOTduM/7sM5IMx02zaHvAFTm0OxiJ) antes del lanzamiento oficial de la tienda. Consulta [Configuración del dominio de tu tienda](/es/tutorial/configurar-dominio-de-la-tienda--tutorials_2450) para conocer las reglas que debe cumplir la dirección y obtener instrucciones sobre cómo registrarla.
 
 Para posibilitar el acceso a la tienda desde otras direcciones y versiones sin subdominio, es necesario configurar la redirección de estas direcciones a la dirección principal de la tienda registrada en **Configuración de la cuenta > Cuenta > Tiendas** en el Admin VTEX. Observa los ejemplos a continuación:
 
@@ -49,7 +49,7 @@ Para acceder a tu tienda desde una dirección sin subdominios, como `www`, neces
   |---|---|---|
   | Host Record: redirect | Type: CNAME | To: www.misitioweb.com.redirect.center |
 
-Consulta más información sobre escenarios como este en [Mejores prácticas para acceder a la tienda sin www](https://help.vtex.com/es/tutorial/mejores-practicas-para-acceder-a-tienda-sin-www--tutorials_4278).
+Consulta más información sobre escenarios como este en [Mejores prácticas para acceder a la tienda sin www](/es/tutorial/mejores-practicas-para-acceder-a-tienda-sin-www--tutorials_4278).
 
 Dependiendo del proveedor de DNS, la propagación de la redirección puede tardar unos minutos en completarse.
 
@@ -75,5 +75,5 @@ En [Redirect Center](http://redirect.center/) no es posible instalar un certific
 
 Para superar esta limitación ten en cuenta los siguientes puntos:
 
-1. En el caso de que el dominio de origen no cuente con un subdominio, como `site.com`, dirígelo hacia un servidor gestionado directamente por la tienda, ya sea un servidor físico o virtual administrado por el propio usuario o empresa. Este servidor debe tener un **certificado SSL instalado para el dominio de origen**, lo que permite el acceso seguro a través de HTTPS. Consulta [Certificado de seguridad (SSL)](https://help.vtex.com/es/tutorial/certificado-de-seguridad-ssl--tutorials_1308) para más información.
+1. En el caso de que el dominio de origen no cuente con un subdominio, como `site.com`, dirígelo hacia un servidor gestionado directamente por la tienda, ya sea un servidor físico o virtual administrado por el propio usuario o empresa. Este servidor debe tener un **certificado SSL instalado para el dominio de origen**, lo que permite el acceso seguro a través de HTTPS. Consulta [Certificado de seguridad (SSL)](/es/tutorial/certificado-de-seguridad-ssl--tutorials_1308) para más información.
 2. Define una **regla de redirección**. Si desas utilizar un servidor de gestión propia para redirigir el acceso con HTTPS, debes definir una regla de redirección en el servidor, que puede variar en función del tipo de servidor utilizado (Apache, ASP, nginx). Por lo tanto, para configurar esta regla, debes saber qué tipo de servidor se está utilizando y aplicar la configuración correspondiente.

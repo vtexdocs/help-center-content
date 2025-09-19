@@ -15,5 +15,5 @@ locale: en
 subcategoryId: 1kLZWFCmluavm21LygmQA0
 ---
 
-> ℹ️ This content is only available in Portuguese. [Click here](https://help.vtex.com/pt/tutorial/cadastrar-ou-redefinir-senha-para-acesso-a-plataforma-indeva--6WpfWS9NBPTx346oF2BSgI) to access it.
+> ℹ️ This content is only available in Portuguese. [Click here](/pt/tutorial/cadastrar-ou-redefinir-senha-para-acesso-a-plataforma-indeva--6WpfWS9NBPTx346oF2BSgI) to access it.
 

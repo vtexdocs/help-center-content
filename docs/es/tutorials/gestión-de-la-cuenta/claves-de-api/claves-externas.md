@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 3OlaStejO5MSzvDSU3VCH3
 ---
 
-Las claves de API externas son credenciales generadas y administradas por otras cuentas VTEX. Al agregar [roles](https://help.vtex.com/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) a las claves de API (el equivalente a nombres de usuario) proporcionadas por terceros, puedes permitirles acceso a recursos específicos de tu cuenta.
+Las claves de API externas son credenciales generadas y administradas por otras cuentas VTEX. Al agregar [roles](/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) a las claves de API (el equivalente a nombres de usuario) proporcionadas por terceros, puedes permitirles acceso a recursos específicos de tu cuenta.
 
 La pestaña **Externas** enumera las claves de API externas agregadas a tu cuenta.
 
@@ -44,7 +44,7 @@ Para agregar una clave externa a tu cuenta sigue los pasos a continuación:
 2. Haz clic en la pestaña **Externas**.  
 3. Haz clic en `Agregar clave`.  
 4. Rellena el campo **Identificación de la clave externa** con el nombre para identificar la clave de API.   
-5. Selecciona los [roles](https://help.vtex.com/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) que se asociarán a la clave. De manera predeterminada, no se preselecciona ningún rol.  
+5. Selecciona los [roles](/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) que se asociarán a la clave. De manera predeterminada, no se preselecciona ningún rol.  
 
    > ❗ Marca solo los roles necesarios para la integración que utilizará la clave de API. El uso sin restricciones de roles muy permisivos aumenta el riesgo de ataques en las tiendas causados por la filtración de las credenciales de inicio de sesión.
 
@@ -71,6 +71,6 @@ Para remover una clave de API externa sigue las instrucciones a continuación:
 
 ## Más información
 
-* [Claves de API](https://help.vtex.com/es/tutorial/claves-de-api--4bFEmcHXgpNksoePchZyy6)
-* [Configurar alerta para renovar tokens de API](https://help.vtex.com/es/tutorial/configurar-la-duracion-de-las-claves-de-api--kcGIFysFt02FDuhsfjQwZ)
-* [Claves generadas](https://help.vtex.com/es/tutorial/claves-generadas--7fnU4iZdvZKbxCaT3Ymdjc)
+* [Claves de API](/es/tutorial/claves-de-api--4bFEmcHXgpNksoePchZyy6)
+* [Configurar alerta para renovar tokens de API](/es/tutorial/configurar-la-duracion-de-las-claves-de-api--kcGIFysFt02FDuhsfjQwZ)
+* [Claves generadas](/es/tutorial/claves-generadas--7fnU4iZdvZKbxCaT3Ymdjc)

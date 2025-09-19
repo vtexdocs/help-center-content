@@ -20,7 +20,7 @@ tags:
   - Admin VTEX
 ---
 
-Cuando la cantidad disponible de un producto se muestra negativa, es posible que haya más ítems [reservados](https://help.vtex.com/es/tutorial/como-a-reserva-funciona--tutorials_92) de la cantidad indicada para el total de stock. Generalmente, este problema ocurre al registrar (dar de baja) un ítem en un pedido que todavía no está reservado por el sistema.
+Cuando la cantidad disponible de un producto se muestra negativa, es posible que haya más ítems [reservados](/es/tutorial/como-a-reserva-funciona--tutorials_92) de la cantidad indicada para el total de stock. Generalmente, este problema ocurre al registrar (dar de baja) un ítem en un pedido que todavía no está reservado por el sistema.
 
 ## Solución
 
@@ -34,4 +34,4 @@ Para actualizar la cantidad correcta en el stock, sigue los pasos a continuació
 4. En la columna **Actualizar recuento**, ingresa la cantidad correcta de ítems físicos en el stock, considerando la suma de los ítems disponibles más los ítems reservados.
 5. Haz clic en **Guardar**.
 
-Cuando dos o más stocks utilizan la misma [política comercial](https://help.vtex.com/es/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) y uno de ellos presenta una cantidad negativa de unidades, el SKU no se mostrará como disponible para la venta, independientemente de que el otro stock tenga unidades disponibles en el [inventario](https://help.vtex.com/es/tutorial/gerenciar-itens-em-estoque--tutorials_139).
+Cuando dos o más stocks utilizan la misma [política comercial](/es/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) y uno de ellos presenta una cantidad negativa de unidades, el SKU no se mostrará como disponible para la venta, independientemente de que el otro stock tenga unidades disponibles en el [inventario](/es/tutorial/gerenciar-itens-em-estoque--tutorials_139).

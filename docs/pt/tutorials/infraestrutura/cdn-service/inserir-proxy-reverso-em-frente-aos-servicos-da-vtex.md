@@ -34,7 +34,7 @@ Siga as orientações abaixo para implementar o proxy reverso:
 
 Para garantir que seu domínio esteja corretamente direcionado para a CDN VTEX, crie um registro TXT no formato `_{hostname}` com o valor `{hostname}.cdn.vtex.com` na zona de DNS do seu domínio.
 
-Substitua `{hostname}` pela combinação de [subdomínio, domínio e domínio de nível superior](https://help.vtex.com/pt/tutorial/configurar-o-dominio-da-loja--tutorials_2450) da sua loja, por exemplo: `www.minhaloja.com`. Certifique-se de incluir o `_` antes do host.
+Substitua `{hostname}` pela combinação de [subdomínio, domínio e domínio de nível superior](/pt/tutorial/configurar-o-dominio-da-loja--tutorials_2450) da sua loja, por exemplo: `www.minhaloja.com`. Certifique-se de incluir o `_` antes do host.
 
 Formato:
 

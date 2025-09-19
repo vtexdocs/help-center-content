@@ -33,7 +33,7 @@ This section includes the following information:
 | Characteristic | Description |
 |:---:|:---:|
 | Data source | The data in this set comes from a script that runs on the store frontend and logs user session information and activity. |
-| Availability | Navigation data can be accessed through the [Overview dashboard](https://help.vtex.com/en/tutorial/visao-geral-da-loja--P8ahguoRs0U3PzmXg2wuQ#dados) in the VTEX Admin, with a focus on total sessions and the conversion funnel, or also through third-party tools such Google Analytics. |
+| Availability | Navigation data can be accessed through the [Overview dashboard](/en/tutorial/visao-geral-da-loja--P8ahguoRs0U3PzmXg2wuQ#dados) in the VTEX Admin, with a focus on total sessions and the conversion funnel, or also through third-party tools such Google Analytics. |
 | History | The data is retained for two years, starting 2022 for clients who already use the VTEX platform. |
 | Minimum update interval | One hour. |
 
@@ -69,12 +69,12 @@ This table only contains closed sessions, whether due to inactivity or because a
 | **user_id** | character varying(16383) | Unique identifier of the buyer, mapped by the VtexRCMacIdv7 cookie. |
 | **pageviews_count** | integer | Count of page views in this session. |
 | **views_home** | integer | Count of home page views in this session. |
-| **views_category** | integer | Count of [category](https://help.vtex.com/en/tutorial/o-que-e-uma-categoria--6HV4Q3E2FauUoOQoiCCgCg) page views in this session. |
-| **views_department** | integer | Count of [department](https://help.vtex.com/en/tutorial/o-que-e-um-departamento--22rKjmYWVmmKAK8CWa8yKw) page views in this session. |
+| **views_category** | integer | Count of [category](/en/tutorial/o-que-e-uma-categoria--6HV4Q3E2FauUoOQoiCCgCg) page views in this session. |
+| **views_department** | integer | Count of [department](/en/tutorial/o-que-e-um-departamento--22rKjmYWVmmKAK8CWa8yKw) page views in this session. |
 | **views_search** | integer | Count of search page views in this session. |
 | **views_product** | integer | Count of product page views in this session. |
 | **views_checkout** | integer | Count of checkout page views in this session. |
-| **views_other** | integer | Count of views for pages [other](https://help.vtex.com/en/tutorial/o-que-e-um-produto--2zrB2gFCHyQokCKKE8kuAw) than product, search, [category](https://help.vtex.com/en/tutorial/o-que-e-uma-categoria--6HV4Q3E2FauUoOQoiCCgCg), [department](https://help.vtex.com/en/tutorial/o-que-e-uma-categoria--6HV4Q3E2FauUoOQoiCCgCg), or checkout in this session. |
+| **views_other** | integer | Count of views for pages [other](/en/tutorial/o-que-e-um-produto--2zrB2gFCHyQokCKKE8kuAw) than product, search, [category](/en/tutorial/o-que-e-uma-categoria--6HV4Q3E2FauUoOQoiCCgCg), [department](/en/tutorial/o-que-e-uma-categoria--6HV4Q3E2FauUoOQoiCCgCg), or checkout in this session. |
 | **views_checkout_cart** | integer | Count of checkout page views at the cart stage. |
 | **views_checkout_payment** | integer | Count of checkout page views at the payment stage. |
 | **views_checkout_shipping** | integer | Count of checkout page views at the shipping stage. |
@@ -196,11 +196,11 @@ VTEX navigation data has significant interactions with other datasets that enric
 
 ### Discover other Datasets
 
-- [Catalog](https://help.vtex.com/tutorial/catalogo-data-pipeline--7ARDELPaugrBu5dZT7Vx2b)
-- [Inventory](https://help.vtex.com/tutorial/inventario-data-pipeline-beta--2IvKMZV9SNrE6ipBRQr8h2)   
-- [Payments](https://help.vtex.com/tutorial/pagamentos-data-pipeline-beta--7LWkFaA1jPabzc5JAt1rGs)  
-- [Orders](https://help.vtex.com/tutorial/pedidos-data-pipeline-beta--2f3GlRJ5L5IRGVIxOmzrFv) 
-- [Prices](https://help.vtex.com/tutorial/precos-data-pipeline-beta--3NMGJ8dtv73Bwvo9PSz1fz)  
-- [Promotions](https://help.vtex.com/tutorial/promocoes-data-pipeline-beta--3WZ1syNucDFdvVhfKtA6Qd)
-- [Gift cards](https://help.vtex.com/pt/tutorial/vale-presente-data-pipeline--4XAnyc4scy3OG6RdnD7OEf)
-- [Bridge logs](https://help.vtex.com/tutorial/logs-do-bridge-data-pipeline--2RFVJZL19nsWBSB4IXA0Z)
+- [Catalog](/tutorial/catalogo-data-pipeline--7ARDELPaugrBu5dZT7Vx2b)
+- [Inventory](/tutorial/inventario-data-pipeline-beta--2IvKMZV9SNrE6ipBRQr8h2)   
+- [Payments](/tutorial/pagamentos-data-pipeline-beta--7LWkFaA1jPabzc5JAt1rGs)  
+- [Orders](/tutorial/pedidos-data-pipeline-beta--2f3GlRJ5L5IRGVIxOmzrFv) 
+- [Prices](/tutorial/precos-data-pipeline-beta--3NMGJ8dtv73Bwvo9PSz1fz)  
+- [Promotions](/tutorial/promocoes-data-pipeline-beta--3WZ1syNucDFdvVhfKtA6Qd)
+- [Gift cards](/pt/tutorial/vale-presente-data-pipeline--4XAnyc4scy3OG6RdnD7OEf)
+- [Bridge logs](/tutorial/logs-do-bridge-data-pipeline--2RFVJZL19nsWBSB4IXA0Z)

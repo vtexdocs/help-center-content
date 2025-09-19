@@ -17,7 +17,7 @@ announcementSynopsisES: 'Realiza la integración con Google Shopping sin perder 
 
 Desarrollamos la funcionalidad **Migración del catálogo Google** para mapear y realizar match entre los productos del seller en el catálogo de VTEX y los anuncios del seller en Google Shopping.
 
-La funcionalidad está dirigida a sellers que anteriormente integraban los productos de su tienda con Google a través de una plataforma externa a VTEX y ahora realizan la integración a través del [conector Google Shopping](https://help.vtex.com/es/tracks/configurar-integracao-com -o-google-shopping--25Sl7iOqq58PGfVfTAo8Xw) en VTEX.
+La funcionalidad está dirigida a sellers que anteriormente integraban los productos de su tienda con Google a través de una plataforma externa a VTEX y ahora realizan la integración a través del [conector Google Shopping](/es/tracks/configurar-integracao-com -o-google-shopping--25Sl7iOqq58PGfVfTAo8Xw) en VTEX.
 
 ## ¿Por qué desarrollamos la funcionalidad?
 
@@ -27,7 +27,7 @@ El objetivo de esta funcionalidad es permitir al seller la migración de la rele
 
 ## ¿Qué se necesita hacer?
 
-Para realizar la migración es necesario enviar una solicitud al [soporte VTEX](https://help.vtex.com/es/support), pero antes deben cumplirse los dos requisitos siguientes:
+Para realizar la migración es necesario enviar una solicitud al [soporte VTEX](/es/support), pero antes deben cumplirse los dos requisitos siguientes:
 
 1. Crear una nueva política comercial, que no debe contener productos vinculados.
 2. Configurar la integración con Google Shopping, utilizando la nueva política comercial creada en el paso anterior.

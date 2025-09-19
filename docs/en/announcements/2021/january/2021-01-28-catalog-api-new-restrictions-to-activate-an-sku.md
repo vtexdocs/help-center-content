@@ -29,5 +29,5 @@ You can find more details about how this change affects the [Create SKU](https:/
 
 VTEX will automatically implement the update on March 11, 2021 and the new requirements will be mandatory. In case you do not follow the new settings, the SKU will not be created. We recommend that you implement this new standard in SKU creation immediately.
 
-For SKUs that were previously created in your store, you have to check whether they are activated and adequately connected to the products. If an SKU is not working, you have to adapt it according to the update and [add an image to it](https://help.vtex.com/en/tutorial/how-to-update-the-image-of-an-sku--5PMb54FnvUuWOq2qGyAosu).
+For SKUs that were previously created in your store, you have to check whether they are activated and adequately connected to the products. If an SKU is not working, you have to adapt it according to the update and [add an image to it](/en/tutorial/how-to-update-the-image-of-an-sku--5PMb54FnvUuWOq2qGyAosu).
 

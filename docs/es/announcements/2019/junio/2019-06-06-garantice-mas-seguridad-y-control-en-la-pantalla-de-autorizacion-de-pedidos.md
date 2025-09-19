@@ -17,7 +17,7 @@ announcementSynopsisES: 'Posibilidad de limitar perfiles de acceso a la pantalla
 
 > ⚠️ A partir del 25 de junio de 2019, el usuario que no tenga acceso vinculado al perfil con el producto `Order Authorization` no tendrá permiso para visualizar o editar la pantalla Autorización de Pedidos.
 
-Con el fin de garantizar una mayor seguridad, creamos la posibilidad de limitar perfiles de acceso a la pantalla de Autorización de Pedidos, permitiendo que solo algunos usuarios puedan visualizar o editar las informaciones. Para saber más sobre la Autorización de Pedidos, acceda a  nuestro [comunicado sobre el lanzamiento de la feature](https://help.vtex.com/es/announcements/aumente-sus-ventas-con-la-nueva-pantalla-autorizacion-de-pedidos--7EXIgaESHfI46lkaZw9jrQ) o el [tutorial que explica su funcionamiento](https://help.vtex.com/es/tutorial/como-funciona-la-autorizacion-de-pedidos--3MBK6CmKHAuUjMBieDU0pn).
+Con el fin de garantizar una mayor seguridad, creamos la posibilidad de limitar perfiles de acceso a la pantalla de Autorización de Pedidos, permitiendo que solo algunos usuarios puedan visualizar o editar las informaciones. Para saber más sobre la Autorización de Pedidos, acceda a  nuestro [comunicado sobre el lanzamiento de la feature](/es/announcements/aumente-sus-ventas-con-la-nueva-pantalla-autorizacion-de-pedidos--7EXIgaESHfI46lkaZw9jrQ) o el [tutorial que explica su funcionamiento](/es/tutorial/como-funciona-la-autorizacion-de-pedidos--3MBK6CmKHAuUjMBieDU0pn).
   
 ## Principales Ventajas 
 

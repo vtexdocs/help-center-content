@@ -37,7 +37,7 @@ Há duas opções de autenticação:
 
 > ⚠️ Recomendamos o uso de [aplicativo de autenticação](#habilitar-o-2fa-por-aplicativo), para que falhas na sua operadora de telefonia não inviabilizem seu login. Pelo aplicativo, a chave de acesso estará sempre disponível para uso.
 
-> ℹ️ Como algumas empresas restringem o uso de celular por operadores de televendas, usuários com o [perfil de acesso de televendas](https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#call-center-operator) não são obrigados a habilitar 2FA quando fazem login usando e-mail e senha.
+> ℹ️ Como algumas empresas restringem o uso de celular por operadores de televendas, usuários com o [perfil de acesso de televendas](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#call-center-operator) não são obrigados a habilitar 2FA quando fazem login usando e-mail e senha.
 
 ## Habilitar o 2FA por aplicativo
 

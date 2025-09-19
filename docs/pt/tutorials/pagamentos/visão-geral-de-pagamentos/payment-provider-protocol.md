@@ -84,7 +84,7 @@ Antes de configurar o ambiente VTEX, o provedor deve implementar o serviço back
 Há casos em que conectores podem ser construídos para atender alguma solução específica. Abaixo se encontram referências na nossa documentação para instruir sobre esses casos:
 
 - [Payment Provider Framework (PPF)](https://developers.vtex.com/docs/guides/payments-integration-payment-provider-framework): Solução para implementação de conectores através do VTEX IO a partir de um boilerplate. O boilerplate já vem com grande parte do trabalho feito, incluindo os endpoints do protocolo. A utilização do VTEX IO também acelera o processo de desenvolvimento e testes na loja.
-- [Payment Provider Protocol aplicado a pagamentos com POS](https://developers.vtex.com/docs/guides/payments-integration-ppp-applied-to-pos): Aplicação do PPP para pagamentos em lojas físicas utilizando um terminal de pagamento (POS). Pode ser utilizado com cartões de crédito e débito. O fluxo do pagamento se inicia com uma compra feita no [VTEX Sales App](https://help.vtex.com/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf) e então será feita a comunicação com o POS, onde o cliente irá inserir o cartão.
+- [Payment Provider Protocol aplicado a pagamentos com POS](https://developers.vtex.com/docs/guides/payments-integration-ppp-applied-to-pos): Aplicação do PPP para pagamentos em lojas físicas utilizando um terminal de pagamento (POS). Pode ser utilizado com cartões de crédito e débito. O fluxo do pagamento se inicia com uma compra feita no [VTEX Sales App](/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf) e então será feita a comunicação com o POS, onde o cliente irá inserir o cartão.
 
 ### 3. Homologação do Payment Provider
 Depois de receber os dados de acesso e implementar o back-end, o provedor deve instalar a app Payment Provider Test Suite para acessar a ferramenta de testes. A instalação é feita por meio de [VTEX App Store](https://apps.vtex.com/vtex-payment-provider-test-suite/p "VTEX App Store"). 
@@ -198,7 +198,7 @@ Esta URL tem alguns parâmetros de consulta, incluindo o `X-VTEX-signature`. Est
 https://gatewayqa.vtexpayments.com.br/api/pvt/payment-provider/transactions/8FB0F111111122222333344449984ACB/payments/A2A9A25B11111111222222333327883C/callback?accountName=teampaymentsintegrations&X-VTEX-signature=R123456789aBcDeFGHij1234567890tk
 ```
 
-Na [página de Transações do Admin](https://help.vtex.com/pt/tutorial/como-visualizar-detalhes-do-pedido--tutorials_452), o token de assinatura aparece mascarado por questões de segurança, como neste exemplo: `X-VTEX-signature=Rj******tk`. 
+Na [página de Transações do Admin](/pt/tutorial/como-visualizar-detalhes-do-pedido--tutorials_452), o token de assinatura aparece mascarado por questões de segurança, como neste exemplo: `X-VTEX-signature=Rj******tk`. 
 
 Veja abaixo, um exemplo de payload encaminhado junto ao callback URL:
 

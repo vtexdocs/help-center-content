@@ -19,7 +19,7 @@ Antes de iniciar a leitura do artigo, é importante a leitura da tabela abaixo p
 
 | **Termo**|**Significado** |
 |:-----:|:-----:|
-|**Anúncios**| Um anúncio é um [SKU](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3mJbIqMlz6oKDmyZ2bKJoA) de um seller que foi enviado para um marketplace e teve seu preço e estoque configurados.|
+|**Anúncios**| Um anúncio é um [SKU](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3mJbIqMlz6oKDmyZ2bKJoA) de um seller que foi enviado para um marketplace e teve seu preço e estoque configurados.|
 | **Catálogo Mercado Livre** | Oferta pré-existente no Mercado Livre, onde o seller tem espaço para vincular seu produto e melhorar a visibilidade de seus produtos.|
 |**Oportunidades**| Oportunidade é quando um produto do seller pode ser associado a um produto do catálogo Mercado Livre. O objetivo da oportunidade é fornecer ao seller uma ferramenta que possa fazer essa associação entre os produtos.|
 

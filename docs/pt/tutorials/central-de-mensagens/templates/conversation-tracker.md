@@ -30,7 +30,7 @@ O  Conversation Tracker oferece diversas outras vantagens, principalmente em que
 
 - O email enviado para qualquer outro sistema é criptografado, evitando acesso direto aos endereços de emails dos clientes.
 - Qualquer comunicação por meio dos emails criptografados é registrada no detalhe do pedido correspondente.
-- Este endereço de email é válido até o fim do [fluxo do pedido](https://help.vtex.com/pt/tutorial/fluxo-e-status-de-pedidos--tutorials_196), quando o pedido é faturado ou cancelado. Por isso, não deve ser utilizado para disparo de newsletter ou email marketing. Esta validade é uma medida adicional de segurança pois, caso haja roubo da informação, a mesma será válida somente neste período.
+- Este endereço de email é válido até o fim do [fluxo do pedido](/pt/tutorial/fluxo-e-status-de-pedidos--tutorials_196), quando o pedido é faturado ou cancelado. Por isso, não deve ser utilizado para disparo de newsletter ou email marketing. Esta validade é uma medida adicional de segurança pois, caso haja roubo da informação, a mesma será válida somente neste período.
 
 Para ter acesso aos emails de seus clientes para ações de marketing, utilize o módulo **Master Data**.
 

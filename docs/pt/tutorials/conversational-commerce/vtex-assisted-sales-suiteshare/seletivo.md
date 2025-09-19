@@ -21,7 +21,7 @@ Para criar um atendimento seletivo, acesse: _**Organizar > Seletivo**_ 
 
 ![Seletivo 1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/seletivo_1.png)
 
-**IMPORTANTE**:  Antes de começar, você já deverá ter criado um link para cada número de WhatsApp que deseja adicionar na central. Se ainda não fez isso, é só [acessar esse link.](https://help.vtex.com/pt/tutorial/links--7h7YXPFovF2k5z6ZSZs5WB)
+**IMPORTANTE**:  Antes de começar, você já deverá ter criado um link para cada número de WhatsApp que deseja adicionar na central. Se ainda não fez isso, é só [acessar esse link.](/pt/tutorial/links--7h7YXPFovF2k5z6ZSZs5WB)
 
 Clique em _**“Novo”.**_
 
@@ -59,8 +59,8 @@ Configure a aparência, você pode clicar no botão “_**Clique aqui**_” ou a
 
 Clique no botão _**“Finalizar”**_ para salvar seu atendimento seletivo. 
 
-Você pode definir os horários de atendimento, para saber mais **[clique aqui.](https://help.vtex.com/pt/tutorial/horario-de-atendimento-suiteshare--4T1kEGSCdiIorFkcMj6F8e)**. 
+Você pode definir os horários de atendimento, para saber mais **[clique aqui.](/pt/tutorial/horario-de-atendimento-suiteshare--4T1kEGSCdiIorFkcMj6F8e)**. 
 
 Pronto! Agora o link whts.co/minhacentral não irá direcionar apenas para o atendimento, mas abrirá uma tela com os dois setores para que o cliente escolha com quem deseja conversar.
 
-Quer definir atendimentos [sequenciais](https://help.vtex.com/pt/tutorial/sequencial--212r1PKHPGdpbbRlpf2gY3) ou [Geolocalizado](https://help.vtex.com/pt/tutorial/geolocalizado--6XIfgaqXaPe5exQa9oVp6D)? Basta clicar nos links.
+Quer definir atendimentos [sequenciais](/pt/tutorial/sequencial--212r1PKHPGdpbbRlpf2gY3) ou [Geolocalizado](/pt/tutorial/geolocalizado--6XIfgaqXaPe5exQa9oVp6D)? Basta clicar nos links.

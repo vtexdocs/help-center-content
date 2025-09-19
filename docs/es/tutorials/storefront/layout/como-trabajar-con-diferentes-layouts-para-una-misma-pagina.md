@@ -21,7 +21,7 @@ En la página __Storefront__ > __Layout__, se establece un layout estándar para
 
 Pero, existe la posibilidad de aplicar diferentes layouts para una misma página a través de algunas condiciones (grupo de productos, categorías, marcas). Serían dos productos con layouts distintos o una categoría específica con layout especial, por ejemplo.
 
-Para eso, basta insertar un nuevo template, ya sea de [página](https://help.vtex.com/es/faq/como-crear-un-template-de-pagina/child) o de [estante](https://help.vtex.com/es/faq/como-crear-un-template-de-estante). Después de crearlo, siga los pasos abajo para seleccionar la carpeta que desea agregar el nuevo layout:
+Para eso, basta insertar un nuevo template, ya sea de [página](/es/faq/como-crear-un-template-de-pagina/child) o de [estante](/es/faq/como-crear-un-template-de-estante). Después de crearlo, siga los pasos abajo para seleccionar la carpeta que desea agregar el nuevo layout:
 
 1. En __Storefront__, acceda __Layout__;
 2. Haga clic en la carpeta __CMS__;
@@ -40,7 +40,7 @@ Es posible limitar la disponibilidad del template a un período de tiempo predet
 
 Después de llenar todos los campos, asegúrese de guardar los cambios realizados haciendo clic en __Save Layout__.
 
-Tenga en cuenta que estos criterios se basan en [el contexto de búsqueda](https://help.vtex.com/es/tutorial/--q0p2UU6sBaYcEMsq24YSi) de la página en el que se encuentra el usuario, que está directamente vinculado a los [parámetros de búsqueda](https://help.vtex.com/es/tutorial/--tutorials_567), pero que no son necesariamente establecidos manualmente por el administrador de la tienda; toda la página encaja automáticamente en un contexto de contenido.
+Tenga en cuenta que estos criterios se basan en [el contexto de búsqueda](/es/tutorial/--q0p2UU6sBaYcEMsq24YSi) de la página en el que se encuentra el usuario, que está directamente vinculado a los [parámetros de búsqueda](/es/tutorial/--tutorials_567), pero que no son necesariamente establecidos manualmente por el administrador de la tienda; toda la página encaja automáticamente en un contexto de contenido.
 
 Sucede que las condiciones ofrecidas no están presentes en ninguna página:
 

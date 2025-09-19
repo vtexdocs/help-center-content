@@ -63,7 +63,7 @@ Follow the instructions below to manually delete an old token after renewal. Thi
 
 ## Undoing token renewal
 
-> ⚠️ This procedure is only possible if the old token has not been [deleted](#deleting-old-tokens). If the old token has been deleted, you will need to renew the token again or [delete the API key](https://help.vtex.com/en/tutorial/generated-key--7fnU4iZdvZKbxCaT3Ymdjc#delete-key).
+> ⚠️ This procedure is only possible if the old token has not been [deleted](#deleting-old-tokens). If the old token has been deleted, you will need to renew the token again or [delete the API key](/en/tutorial/generated-key--7fnU4iZdvZKbxCaT3Ymdjc#delete-key).
 
 If you renewed your token by mistake or forgot to copy the newly generated token, follow the steps below to undo the renewal.  
 
@@ -74,6 +74,6 @@ If you renewed your token by mistake or forgot to copy the newly generated token
 
 ## Learn more
 
-* [API Keys](https://help.vtex.com/en/tutorial/api-keys--4bFEmcHXgpNksoePchZyy6)
-* [Configuring API token renewal alert](https://help.vtex.com/en/tutorial/configuring-the-duration-of-api-keys--kcGIFysFt02FDuhsfjQwZ)
-* [Generated keys](https://help.vtex.com/en/tutorial/generated-keys--7fnU4iZdvZKbxCaT3Ymdjc)
+* [API Keys](/en/tutorial/api-keys--4bFEmcHXgpNksoePchZyy6)
+* [Configuring API token renewal alert](/en/tutorial/configuring-the-duration-of-api-keys--kcGIFysFt02FDuhsfjQwZ)
+* [Generated keys](/en/tutorial/generated-keys--7fnU4iZdvZKbxCaT3Ymdjc)

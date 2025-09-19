@@ -15,9 +15,9 @@ locale: pt
 subcategoryId: 30Kdgc6wJkMWgcXLB8mGr7
 ---
 
-A Regionalização é uma funcionalidade do [VTEX Intelligent Search](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG) que permite otimizar os resultados de busca de acordo com a disponibilidade de sellers na região do cliente. Para instalar e configurar o VTEX Intelligent Search na sua loja, leia o nosso artigo [Search](https://developers.vtex.com/vtex-developer-docs/docs/vtex-search).
+A Regionalização é uma funcionalidade do [VTEX Intelligent Search](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG) que permite otimizar os resultados de busca de acordo com a disponibilidade de sellers na região do cliente. Para instalar e configurar o VTEX Intelligent Search na sua loja, leia o nosso artigo [Search](https://developers.vtex.com/vtex-developer-docs/docs/vtex-search).
 
-A Regionalização  utiliza um comportamento do VTEX Intelligent Search — a [Disponibilidade](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/7LMQbWK5nElIkXo0NK8Kux). Ela busca os produtos disponíveis no estoque dos sellers que atendem a uma determinada região.
+A Regionalização  utiliza um comportamento do VTEX Intelligent Search — a [Disponibilidade](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/7LMQbWK5nElIkXo0NK8Kux). Ela busca os produtos disponíveis no estoque dos sellers que atendem a uma determinada região.
 
 Lojas que possuem mais de um Seller White Label cadastrado costumam ter um estoque específico dependendo de cada região. Esse é o caso de ecommerces que são supermercados, por exemplo.
 
@@ -36,18 +36,18 @@ Para começar a utilizar a Regionalização, você precisa seguir as etapas abai
 
 ## 1. Configuração de sellers 
 
-Primeiro, é preciso entender qual  cenário de [seller](https://help.vtex.com/pt/tutorial/o-que-e-um-seller--5FkLvhZ3Few4CWWIuYOK2w) se aplica à sua loja. Veja abaixo os cenários possíveis.
+Primeiro, é preciso entender qual  cenário de [seller](/pt/tutorial/o-que-e-um-seller--5FkLvhZ3Few4CWWIuYOK2w) se aplica à sua loja. Veja abaixo os cenários possíveis.
 
 ### Seller 1
 
-Por padrão, toda loja VTEX é criada com arquitetura para atuar como seller e [marketplace](https://help.vtex.com/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402) simultaneamente. Isso significa que sua loja VTEX será o seller com ID igual a 1, pois ela pode funcionar como um seller do seu próprio ambiente.
-Esse seller é criado automaticamente na conta da loja, representando o seu estoque próprio. Isso ocorre tanto para marketplaces que vendem produtos próprios quanto para lojas que não são marketplaces, mas reúnem o checkout e [fulfillment](https://help.vtex.com/pt/tutorial/o-que-sao-pedidos-com-origem-marketplace-e-origem-fulfillment--6eVYrmUAwMOeKICU2KuG06#fulfillment) em seu ecommerce.
+Por padrão, toda loja VTEX é criada com arquitetura para atuar como seller e [marketplace](/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402) simultaneamente. Isso significa que sua loja VTEX será o seller com ID igual a 1, pois ela pode funcionar como um seller do seu próprio ambiente.
+Esse seller é criado automaticamente na conta da loja, representando o seu estoque próprio. Isso ocorre tanto para marketplaces que vendem produtos próprios quanto para lojas que não são marketplaces, mas reúnem o checkout e [fulfillment](/pt/tutorial/o-que-sao-pedidos-com-origem-marketplace-e-origem-fulfillment--6eVYrmUAwMOeKICU2KuG06#fulfillment) em seu ecommerce.
 
 ### Seller White Label
 
-O [Seller White Label](https://help.vtex.com/pt/tutorial/definicoes-de-conta-franquia-e-seller-white-label--5orlGHyDHGAYciQ64oEgKa) é um seller que os clientes finais não escolhem, ou seja, clientes não têm visibilidade da existência dele em nenhum momento do processo de compra.
+O [Seller White Label](/pt/tutorial/definicoes-de-conta-franquia-e-seller-white-label--5orlGHyDHGAYciQ64oEgKa) é um seller que os clientes finais não escolhem, ou seja, clientes não têm visibilidade da existência dele em nenhum momento do processo de compra.
 
-Quando o consumidor adiciona produtos no carrinho e simula o frete na loja, o sistema seleciona automaticamente o Seller White Label que tem aquele produto em estoque e apresenta as formas de entrega dos sellers que oferecem as melhores condições. Para saber mais sobre o algoritmo de seleção de Sellers White Label, leia o nosso [artigo](https://help.vtex.com/pt/tutorial/algoritmo-de-selecao-de-sellers-white-label--3MemNQ4pKkWCpMdzI27AHa) sobre esse assunto.
+Quando o consumidor adiciona produtos no carrinho e simula o frete na loja, o sistema seleciona automaticamente o Seller White Label que tem aquele produto em estoque e apresenta as formas de entrega dos sellers que oferecem as melhores condições. Para saber mais sobre o algoritmo de seleção de Sellers White Label, leia o nosso [artigo](/pt/tutorial/algoritmo-de-selecao-de-sellers-white-label--3MemNQ4pKkWCpMdzI27AHa) sobre esse assunto.
 
 Você deve configurar um ou mais Sellers White Label na sua loja, porque o Intelligent Search checa a disponibilidade de estoque dos produtos nos Sellers White Label de cada região para definir quais produtos serão exibidos para o cliente.
 

@@ -15,7 +15,7 @@ trackSlugEN: cms
 order: 4
 ---
 
-Una tienda transfronteriza es un tipo de [multitienda](https://help.vtex.com/es/tutorial/creating-multi-store-multi-domain--tutorials_510?locale=en&_ga=2.139338803.1060780652.1642427010-1001456323.1619912759). En VTEX, esto significa una cuenta con varios [bindings](https://help.vtex.com/es/tutorial/what-is-binding--4NcN3NJd0IeYccgWCI8O2W?&utm_source=autocomplete) y distintos canales de venta para cada una de sus tiendas locales.
+Una tienda transfronteriza es un tipo de [multitienda](/es/tutorial/creating-multi-store-multi-domain--tutorials_510?locale=en&_ga=2.139338803.1060780652.1642427010-1001456323.1619912759). En VTEX, esto significa una cuenta con varios [bindings](/es/tutorial/what-is-binding--4NcN3NJd0IeYccgWCI8O2W?&utm_source=autocomplete) y distintos canales de venta para cada una de sus tiendas locales.
 
 Las tiendas transfronterizas pueden llegar a los compradores de todo el mundo porque ofrecen experiencias de compra localizadas para los clientes de tu tienda. 
 
@@ -49,9 +49,9 @@ Como una tienda transfronteriza puede tener varios bindings y llegar a comprador
 
 ## Artículos relacionados
 
-- [Crear multitienda / multidominio](https://help.vtex.com/es/tutorial/creating-multi-store-multi-domain--tutorials_510?locale=en&_ga=2.105681227.937537057.1646651653-1001456323.1619912759)
+- [Crear multitienda / multidominio](/es/tutorial/creating-multi-store-multi-domain--tutorials_510?locale=en&_ga=2.105681227.937537057.1646651653-1001456323.1619912759)
 
-- [¿Qué es binding?](https://help.vtex.com/es/tutorial/what-is-binding--4NcN3NJd0IeYccgWCI8O2W)
+- [¿Qué es binding?](/es/tutorial/what-is-binding--4NcN3NJd0IeYccgWCI8O2W)
 
-- [Cómo funciona una Política Comercial](https://help.vtex.com/es/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV)
+- [Cómo funciona una Política Comercial](/es/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV)
 

@@ -31,4 +31,4 @@ Al registrar su producto en múltiples categorías, aparecerá en más resultado
 
 Si todavía utiliza la plantilla antigua para realizar el mapeo, debe empezar a utilizar el nuevo modelo de la plantilla en la que es obligatorio registrar los productos con los siguientes atributos: Variation, Gender, Origin, ColorFamily, Origincountry (solo requerido para sellers de Dafiti Brasil).
 
-Para más información sobre cómo utilizar la plantilla, lea la documentación [Envío de productos a Dafiti](https://help.vtex.com/es/tracks/configurar-integracao-da-dafiti--4wF4RBx9ygEkimW6SsKw8i/3b8BZfB1BC8G8SCe0ao46m).
+Para más información sobre cómo utilizar la plantilla, lea la documentación [Envío de productos a Dafiti](/es/tracks/configurar-integracao-da-dafiti--4wF4RBx9ygEkimW6SsKw8i/3b8BZfB1BC8G8SCe0ao46m).

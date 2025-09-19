@@ -17,13 +17,13 @@ subcategoryId: 2t00bBkcAwIkgSCGKsMOwY
 
 > ⚠️ The **Orders** module was not designed as a Business Intelligence (BI) tool. It's usually through the ERP that the store has access to sales reports.
 
-While the **Orders** module primary goal is to manage the order flow, it is possible to manipulate data from the [order report](https://help.vtex.com/tutorial/planilha-de-pedidos) to extract information that may be useful to your business.
+While the **Orders** module primary goal is to manage the order flow, it is possible to manipulate data from the [order report](/tutorial/planilha-de-pedidos) to extract information that may be useful to your business.
 
 To get a list of SKUs sold in a certain period by order of top sellers, follow the steps below:
 
 1. In the VTEX Admin, go to **Orders > All Orders**, or type **All Orders** in the search bar at the top of the page.
-2. Using the [filters](https://help.vtex.com/en/tutorial/filtrar-todos-pedidos--tutorials_192), choose the period you want information about. 
-3. Click the `Export` button in order to [export orders](https://help.vtex.com/en/tutorial/exportacao-de-pedidos-gerenciamento-de-pedidos--tutorials_6417).
+2. Using the [filters](/en/tutorial/filtrar-todos-pedidos--tutorials_192), choose the period you want information about. 
+3. Click the `Export` button in order to [export orders](/en/tutorial/exportacao-de-pedidos-gerenciamento-de-pedidos--tutorials_6417).
 4. Open your email and download the link within 72 hours; the link will expire after that period.
 
 Each line corresponds to an SKU purchased in a particular order. In the `Quantity_SKU` column, you have the SKU quantity for that order. And in the `ID_SKU` column, you have the SKU ID.

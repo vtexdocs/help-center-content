@@ -19,7 +19,7 @@ A plataforma VTEX oferece suporte para sua loja receber pagamentos na moeda digi
 
 Para utilizar o Bitcoin em sua loja, você precisa ter cadastrado uma afiliação de gateway capaz de processar esse meio de pagamento e realizar a configuração descrita abaixo:
 
-> ⚠️ Caso o conector a ser escolhido (no **Passo 7.**) ainda não estiver cadastrado em sua loja, será exibida a mensagem “(Configurar)” após o nome do conector. Nesta situação, escolha outro conector disponível ou realize o seu cadastro. Para saber mais, acesse [Cadastrar afiliações de gateway](https://help.vtex.com/pt/tutorial/afiliacoes-de-gateway--tutorials_444?&utm_source=autocomplete#).
+> ⚠️ Caso o conector a ser escolhido (no **Passo 7.**) ainda não estiver cadastrado em sua loja, será exibida a mensagem “(Configurar)” após o nome do conector. Nesta situação, escolha outro conector disponível ou realize o seu cadastro. Para saber mais, acesse [Cadastrar afiliações de gateway](/pt/tutorial/afiliacoes-de-gateway--tutorials_444?&utm_source=autocomplete#).
 
 ## Configurar condição de pagamento bitcoin
 

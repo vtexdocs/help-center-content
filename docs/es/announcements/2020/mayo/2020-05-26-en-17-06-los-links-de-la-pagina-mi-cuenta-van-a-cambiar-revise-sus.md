@@ -43,4 +43,4 @@ En la mayoría de los casos, cuando la tienda no tiene mucha personalización fr
 
 En otras situaciones, si no hay una revisión y eventual adaptación, la experiencia del usuario puede verse comprometida, lo que provoca que algunas acciones no funcionen como se espera y, en casos extremos, incluso impide la visualización de pedidos y otras informaciones.
 
-Para más informaciones, acceda a nuestra documentación sobre [Mi Cuenta](https://help.vtex.com/es/tutorial/como-funciona-o-my-account--2BQ3GiqhqGJTXsWVuio3Xh?locale=pt). Si tiene alguna duda, contáctenos.
+Para más informaciones, acceda a nuestra documentación sobre [Mi Cuenta](/es/tutorial/como-funciona-o-my-account--2BQ3GiqhqGJTXsWVuio3Xh?locale=pt). Si tiene alguna duda, contáctenos.

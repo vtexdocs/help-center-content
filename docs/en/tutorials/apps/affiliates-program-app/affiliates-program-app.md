@@ -15,9 +15,9 @@ locale: en
 subcategoryId: 6GWaAkVqXQYN79ilMgUsPr
 ---
 
-> ℹ️ The **Affiliates Program** is an app that is only supported by [VTEX IO](https://help.vtex.com/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2) stores and is not available for stores that use [Legacy Portal CMS](https://help.vtex.com/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj) or [Headless CMS](https://www.faststore.dev/tutorials/cms/0#vtex-headless-cms). Please visit the Affiliates Program app developer guide to install and configure the app on your VTEX store.
+> ℹ️ The **Affiliates Program** is an app that is only supported by [VTEX IO](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2) stores and is not available for stores that use [Legacy Portal CMS](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj) or [Headless CMS](https://www.faststore.dev/tutorials/cms/0#vtex-headless-cms). Please visit the Affiliates Program app developer guide to install and configure the app on your VTEX store.
 
-In the **Affiliates Program** app, an affiliate is someone who partners with your VTEX store to promote sales in exchange for a commission. The term is, therefore, different from the [usual concept of an affiliate at VTEX](https://help.vtex.com/en/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0). 
+In the **Affiliates Program** app, an affiliate is someone who partners with your VTEX store to promote sales in exchange for a commission. The term is, therefore, different from the [usual concept of an affiliate at VTEX](/en/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0). 
 
 The **Affiliates Program** app generates a specific URL from your VTEX store to your [registered affiliates](#adding-an-affiliate). When the affiliate shares the URL with a customer who buys using the link, the affiliate gets a commission. 
 
@@ -82,7 +82,7 @@ Click the `Add Affiliate` button to create a new affiliate, fill in the fields d
 
 Enter any of the following information in the search bar to search for an affiliate: _Affiliate ID, Name, Store Name, Email_, or _Phone_.
 
-> ⚠️ In the **Affiliates Program app**, not only is the term affiliate different from the [usual VTEX affiliate concept](https://help.vtex.com/en/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0), but the `Affiliate ID` does not correspond to the default code. In the app, the `Affiliate ID` is an alphanumeric code automatically generated when you create a new affiliate.
+> ⚠️ In the **Affiliates Program app**, not only is the term affiliate different from the [usual VTEX affiliate concept](/en/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0), but the `Affiliate ID` does not correspond to the default code. In the app, the `Affiliate ID` is an alphanumeric code automatically generated when you create a new affiliate.
 
 ### Filtering affiliates
 
@@ -135,7 +135,7 @@ Type the `affiliate ID` related to the order into the search bar to find an orde
 
 You can filter the order search by the following criteria:
 
-- **Order status:** The default option is to show all orders. To choose a status, click **All Orders** <i class="fas fa-angle-down"></i> and select one of the options: _Created, Payment approved, Payment Pending, Invoiced_, or _Canceled_. Learn more in [Order Flow and Status](https://help.vtex.com/en/tutorial/fluxo-e-status-de-pedidos--tutorials_196).
+- **Order status:** The default option is to show all orders. To choose a status, click **All Orders** <i class="fas fa-angle-down"></i> and select one of the options: _Created, Payment approved, Payment Pending, Invoiced_, or _Canceled_. Learn more in [Order Flow and Status](/en/tutorial/fluxo-e-status-de-pedidos--tutorials_196).
 - **Order Date:** Filter from a range of days and hours when the orders were created. To do so, the `From` field sets a start date and the `To` field sets the end date.
 
 ### Exporting the order list
@@ -148,7 +148,7 @@ After configuration, click **Export** on the **Order Management** page to export
 
  > _The report is being generated and will be_ _sent to your email._
 
-The generated file will be sent to the email address of the [user](https://help.vtex.com/en/tutorial/gerenciando-usuarios--tutorials_512) who is currently logged in. The exported content refers to the total of orders in the list at the time of export. If a filter is active, only the selected offers will be exported. 
+The generated file will be sent to the email address of the [user](/en/tutorial/gerenciando-usuarios--tutorials_512) who is currently logged in. The exported content refers to the total of orders in the list at the time of export. If a filter is active, only the selected offers will be exported. 
 
 ### Viewing order details
 
@@ -168,7 +168,7 @@ The **Commission Management** page allows you to do the following:
 
 ### Searching for commissions
 
-To search for order commissions, in the search bar of the Commissions tab, type the `SKU ID` of the order, which is the [SKU identification number](https://help.vtex.com/en/tutorial/descobrir-o-id-de-um-sku--4VQZsYeb3igGK2YowuEYWW). 
+To search for order commissions, in the search bar of the Commissions tab, type the `SKU ID` of the order, which is the [SKU identification number](/en/tutorial/descobrir-o-id-de-um-sku--4VQZsYeb3igGK2YowuEYWW). 
 
 ### Editing commissions
 
@@ -189,7 +189,7 @@ To export a SKU commission spreadsheet with a CSV extension, at the top of the *
 
 > _The report is being generated and will be sent to your email._
 
-The file will be sent to the email address of the [user](https://help.vtex.com/en/tutorial/gerenciando-usuarios--tutorials_512) who is currently logged in.
+The file will be sent to the email address of the [user](/en/tutorial/gerenciando-usuarios--tutorials_512) who is currently logged in.
 
 > ℹ️ The exported content refers to the list SKU commissions at the time of export. Only the selected SKU commissions will be exported if a filter is active.
 

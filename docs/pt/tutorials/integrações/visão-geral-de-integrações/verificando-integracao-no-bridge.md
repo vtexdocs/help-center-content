@@ -40,7 +40,7 @@ A página **Pedidos** pode ser acessada em **Admin VTEX >  Marketplace > Conexõ
 - **Status:** pode ser **processado com sucesso** ou **processado com erro.**  
 - **Data de processamento:** última vez que a plataforma VTEX processou o pedido.  
 
-Para visualizar mais detalhes do pedido, clique no pedido. Em caso de erro, a plataforma exibirá um log detalhado sobre as causas do erro no pedido. Para solucionar esses erros, acesse a seção [Troubleshooting](https://help.vtex.com/pt/subcategory/integracoes--2LcLWCYaEm5qPmOuYUiKIS) no Help Center e veja o tutorial de solução baseado no marketplace em que o pedido foi realizado.  
+Para visualizar mais detalhes do pedido, clique no pedido. Em caso de erro, a plataforma exibirá um log detalhado sobre as causas do erro no pedido. Para solucionar esses erros, acesse a seção [Troubleshooting](/pt/subcategory/integracoes--2LcLWCYaEm5qPmOuYUiKIS) no Help Center e veja o tutorial de solução baseado no marketplace em que o pedido foi realizado.  
 
 ### Produtos  
 A página **Produtos** pode ser acessada em **Admin VTEX >  Marketplace > Conexões > Produtos.** Nesta página são exibidos os logs de envio dos produtos para os marketplaces com os quais sua loja está integrada. Esta página apresenta  seguintes informações:  

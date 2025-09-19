@@ -15,18 +15,18 @@ locale: en
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-Payment conditions are the methods of payment displayed on the website for checkout. Through this functionality it is possible to configure options such as: installments, interest, [payment special conditions](https://help.vtex.com/en/tutorial/condicoes-especiais--tutorials_456#).
+Payment conditions are the methods of payment displayed on the website for checkout. Through this functionality it is possible to configure options such as: installments, interest, [payment special conditions](/en/tutorial/condicoes-especiais--tutorials_456#).
 
 ## How to set up
 
-Before starting to set a payment condition, you need to register a [payment integration](https://help.vtex.com/en/tutorial/afiliacoes-de-gateway/). 
+Before starting to set a payment condition, you need to register a [payment integration](/en/tutorial/afiliacoes-de-gateway/). 
 
 Once you have defined your provider, for any of the payment conditions to be chosen, it will always be necessary:
 
 - Fill in the __Rule Name__ field with a name of your choice for identification.
 - Activate the condition in the __Status__ field.
 - Indicate in __Process with provider__, which provider will process this payment condition.
-- Define if you want to use an [anti-fraud system](https://help.vtex.com/en/tutorial/como-configurar-antifraude) in __Use anti-fraud solution__.
+- Define if you want to use an [anti-fraud system](/en/tutorial/como-configurar-antifraude) in __Use anti-fraud solution__.
 
 In addition, it's possible to define whether the payment will be in full or in installments, with or without interest and special conditions.
 

@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 9Arh3cJIOYlfSD1MUC2h3
 ---
 
-Image widget is a modal repository for blocks that allow image uploads in [Site Editor](https://help.vtex.com/subcategory/layout--2g6LxtasS4iSeGEqeYUuGW). With this modal repository, you can upload, store, and manage your store’s images and use them on different pages, such as Home, Product, or Newsletter.
+Image widget is a modal repository for blocks that allow image uploads in [Site Editor](/subcategory/layout--2g6LxtasS4iSeGEqeYUuGW). With this modal repository, you can upload, store, and manage your store’s images and use them on different pages, such as Home, Product, or Newsletter.
 
 For instance, you may want to add a new image to your store's __Carousel__ block. You can use the Image Widget to upload the image.
 

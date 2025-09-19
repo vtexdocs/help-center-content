@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
-> ⚠️ Este tutorial es para tiendas en el CMS legado. Para otras tiendas, esta configuración se realiza a través de [Páginas](https://help.vtex.com/es/tutorial/paginas-visao-geral--5iBUUJbK5NqG6OxlDrGNzc). Acceda a la documentación [Gestión de redirecciones de URL](https://help.vtex.com/es/tutorial/gerenciando-redirecionamentos-de-url--3UJuFrU8imSVWg134mkvJV) para obtener más información.
+> ⚠️ Este tutorial es para tiendas en el CMS legado. Para otras tiendas, esta configuración se realiza a través de [Páginas](/es/tutorial/paginas-visao-geral--5iBUUJbK5NqG6OxlDrGNzc). Acceda a la documentación [Gestión de redirecciones de URL](/es/tutorial/gerenciando-redirecionamentos-de-url--3UJuFrU8imSVWg134mkvJV) para obtener más información.
 
 Los mapeos de URL se utilizan para redirigir URL específicas a otras URL. Este recurso es muy útil cuando la tienda ya tiene URL indexadas en los buscadores y se quiere redirigirlas a otras más atractivas, manteniendo el SEO y evitando errores de indexación.
 

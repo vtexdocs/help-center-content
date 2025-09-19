@@ -32,7 +32,7 @@ El formulario de registro de nuevo producto tiene las siguientes secciones:
 *   [SEO](#seo)
 *   [Storefront](#storefront)
 
-> ℹ️ Antes de crear un producto, debe crear la [Categoría](https://help.vtex.com/es/tutorial/registrando-categoria--tutorials_206) correspondiente al producto si no se ha registrado anteriormente en su tienda.
+> ℹ️ Antes de crear un producto, debe crear la [Categoría](/es/tutorial/registrando-categoria--tutorials_206) correspondiente al producto si no se ha registrado anteriormente en su tienda.
 
 ## Informaciones básicas
 
@@ -126,7 +126,7 @@ Para editar un atributo, seleccione el atributo deseado de la lista. Para elimin
 
 ## Información de SKU
 
-Cada producto debe tener al menos un [SKU](https://help.vtex.com/es/tutorial/o-que-e-um-sku--1K75s4RXAQyOuGUYKMM68u) registrado. Si su producto no tiene variaciones y desea crear un solo SKU asociado, rellene la siguiente información directamente:
+Cada producto debe tener al menos un [SKU](/es/tutorial/o-que-e-um-sku--1K75s4RXAQyOuGUYKMM68u) registrado. Si su producto no tiene variaciones y desea crear un solo SKU asociado, rellene la siguiente información directamente:
 
 *   **Código de referencia de SKU:** código de referencia único creado para ayudar en la organización de la tienda. No es un campo obligatorio.
 *   **EAN/UPC:** código de identificación único del SKU (código de barras), acepta hasta 13 caracteres numéricos.

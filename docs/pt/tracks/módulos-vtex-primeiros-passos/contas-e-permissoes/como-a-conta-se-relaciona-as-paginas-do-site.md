@@ -19,7 +19,7 @@ Uma das primeiras ações que você precisa realizar em seu website é _vinculá
 
 O **website binding** é o que faz a ponte entre o CMS e as informações definidas no módulo de contas e permissões. Ou seja, é ele que define que um **account name** (configurado no módulo de contas) está atrelado à estrutura de pastas e arquivos de determinado **Website** (construída no CMS).
 
-Para vinculá-lo, basta conferir nosso [artigo sobre vincular um account name a um website.](https://help.vtex.com/pt/tutorial/vincular-um-account-name-a-um-website-binding?locale=pt)  
+Para vinculá-lo, basta conferir nosso [artigo sobre vincular um account name a um website.](/pt/tutorial/vincular-um-account-name-a-um-website-binding?locale=pt)  
 
 ![Binding](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/m%C3%B3dulos-vtex-primeiros-passos/contas-e-permissoes/como-a-conta-se-relaciona-as-paginas-do-site_1.png)
 
@@ -28,4 +28,4 @@ A configuração acima é realizada quando uma conta deseja ter mais de uma loja
 
 Esse recurso geralmente é utilizado quando a loja tem outras marcas mas existe uma similaridade de logística e métodos de pagamento ou quando a loja precisa de outro ambiente, por exemplo para vendas B2B.
 
-Para cada uma das lojas na opção **Multilojas**, é feito um **binding**. Confira nosso [artigo sobre multiloja e multidomínio](https://help.vtex.com/pt/tutorial/como-criar-multiloja-multidominio?locale=pt) para configurar essa opção.
+Para cada uma das lojas na opção **Multilojas**, é feito um **binding**. Confira nosso [artigo sobre multiloja e multidomínio](/pt/tutorial/como-criar-multiloja-multidominio?locale=pt) para configurar essa opção.

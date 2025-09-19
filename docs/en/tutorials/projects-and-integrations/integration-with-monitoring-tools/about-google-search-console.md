@@ -38,12 +38,12 @@ See below all information about Google Search Console for VTEX stores.
 
 Search Console provides a list of indexed URLs with tracking errors, main URL parameters, store traceability statistics, robot testing, and new URLs and sitemaps.
 
-- **Tracking errors**: A list of URLs with tracking errors, segmented by device and type of error. Learn more in [Google Search Console Tracking - Tracking Errors](https://help.vtex.com/en/tutorial/rastreamento-google-search-console-erros-de-rastreamento--tutorials_568).
+- **Tracking errors**: A list of URLs with tracking errors, segmented by device and type of error. Learn more in [Google Search Console Tracking - Tracking Errors](/en/tutorial/rastreamento-google-search-console-erros-de-rastreamento--tutorials_568).
 - **Tracking statistics**: Details information about Google’s crawler activity in all store contents, such as HTML, CSS, images and JS.
 - **Search with Google**: This feature allows you to simulate how Google searches and indexes your store.
-- **Robots.txt**: Validates the content and structure of your store’s robot.txt file. Learn more in [Google Search Console Tracking - robots.txt](https://help.vtex.com/en/tutorial/rastreamento-google-search-console-robots-txt--tutorials_574).
+- **Robots.txt**: Validates the content and structure of your store’s robot.txt file. Learn more in [Google Search Console Tracking - robots.txt](/en/tutorial/rastreamento-google-search-console-robots-txt--tutorials_574).
 - **Sitemaps**: Allows you to make your store’s sitemap available and generate a report with the rate of URLs sent vs. URLs indexed.
-- **URL Parameters**: Lists all parameters identified in your store’s URLs and allows you to define what action Google will apply for each parameter. Learn more in [Google Search Console Tracking - Sitemap](https://help.vtex.com/en/tutorial/rastreamento-google-search-console-sitemap--tutorials_575).
+- **URL Parameters**: Lists all parameters identified in your store’s URLs and allows you to define what action Google will apply for each parameter. Learn more in [Google Search Console Tracking - Sitemap](/en/tutorial/rastreamento-google-search-console-sitemap--tutorials_575).
 
 ## Google Index
 
@@ -78,8 +78,8 @@ The _snippet_ is a block of content related to your store's link displayed in th
 
 ### Learn more
 
-- [Checking the ownership of a VTEX store on Google Search Console](https://help.vtex.com/en/tutorial/como-verificar-propriedade-no-google-search-console-de-loja-vtex--frequentlyAskedQuestions_594)
-- [Structured data through Google Search Console Data Markers](https://help.vtex.com/en/tutorial/dados-estruturados-atraves-do-marcador-de-dados-do-google-search-console--tutorials_560)
- - [Google Search Console Tracking - robots.txt](https://help.vtex.com/en/tutorial/rastreamento-google-search-console-robots-txt--tutorials_574)
- - [Google Search Console Tracking - Sitemap](https://help.vtex.com/en/tutorial/rastreamento-google-search-console-sitemap--tutorials_575)
- - [Google Search Console Tracking – Tracking errors](https://help.vtex.com/en/tutorial/rastreamento-google-search-console-erros-de-rastreamento--tutorials_568)
+- [Checking the ownership of a VTEX store on Google Search Console](/en/tutorial/como-verificar-propriedade-no-google-search-console-de-loja-vtex--frequentlyAskedQuestions_594)
+- [Structured data through Google Search Console Data Markers](/en/tutorial/dados-estruturados-atraves-do-marcador-de-dados-do-google-search-console--tutorials_560)
+ - [Google Search Console Tracking - robots.txt](/en/tutorial/rastreamento-google-search-console-robots-txt--tutorials_574)
+ - [Google Search Console Tracking - Sitemap](/en/tutorial/rastreamento-google-search-console-sitemap--tutorials_575)
+ - [Google Search Console Tracking – Tracking errors](/en/tutorial/rastreamento-google-search-console-erros-de-rastreamento--tutorials_568)

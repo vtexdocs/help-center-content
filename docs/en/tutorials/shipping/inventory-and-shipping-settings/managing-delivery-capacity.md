@@ -17,9 +17,9 @@ subcategoryId: 1UL6Q7nUN6SkA2g2SUsECi
 
 You can track the availability of delivery windows and the number of items/orders that can still be placed in each delivery window on the **Delivery capacity** page. 
 
-To manage your **Delivery capacity**, you must previously configure your [shipping policies](https://help.vtex.com/en/tutorial/politica-de-envio--tutorials_140) and enable [scheduled deliveries](https://help.vtex.com/en/tutorial/entrega-agendada--22g3HAVCGLFiU7xugShOBi). 
+To manage your **Delivery capacity**, you must previously configure your [shipping policies](/en/tutorial/politica-de-envio--tutorials_140) and enable [scheduled deliveries](/en/tutorial/entrega-agendada--22g3HAVCGLFiU7xugShOBi). 
 
-> ⚠️ For [Scheduled delivery](https://help.vtex.com/en/tutorial/scheduled-delivery--22g3HAVCGLFiU7xugShOBi) and [Delivery capacity](https://help.vtex.com/en/tutorial/managing-delivery-capacity--2y217FQZCjD0I1n62yxVcz) to perform correctly, you must follow the rules below:<ul><li>The result from {[account name](https://help.vtex.com/en/tutorial/what-is-an-account-name--i0mIGLcg3QyEy8OCicEoC)} + {shipping policy ID} cannot exceed 60 characters.</li><li>Do not use spaces in [shipping policy IDs](https://help.vtex.com/en/tutorial/criar-uma-politica-de-envio--66rJO4LKBdyMJOH6Z3dsaT).</li></ul>
+> ⚠️ For [Scheduled delivery](/en/tutorial/scheduled-delivery--22g3HAVCGLFiU7xugShOBi) and [Delivery capacity](/en/tutorial/managing-delivery-capacity--2y217FQZCjD0I1n62yxVcz) to perform correctly, you must follow the rules below:<ul><li>The result from {[account name](/en/tutorial/what-is-an-account-name--i0mIGLcg3QyEy8OCicEoC)} + {shipping policy ID} cannot exceed 60 characters.</li><li>Do not use spaces in [shipping policy IDs](/en/tutorial/criar-uma-politica-de-envio--66rJO4LKBdyMJOH6Z3dsaT).</li></ul>
 
 In the VTEX Admin, go to **Shipping > Delivery capacity**, or type **Delivery capacity** in the search bar at the top of the page. The **Delivery capacity** displays a list of your store's delivery windows. The list is based on the shipping policy selected in the `Shipping policy` filter and the time frame specified in the `Date` filter.
 

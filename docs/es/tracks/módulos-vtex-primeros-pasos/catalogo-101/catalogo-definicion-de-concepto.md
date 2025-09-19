@@ -15,7 +15,7 @@ trackSlugEN: catalogo-101
 order: 1
 ---
 
-El menú [Catálogo](https://help.vtex.com/es/tutorial/catalogo-vision-general--77M8ItLhDXs6aBdQTqToVe) contiene las funcionalidades relativas al surtido de productos de tu tienda de *ecommerce*. Para que tu cliente pueda ver los productos en el sitio web, debes registrarlos primero en este menú de tu Admin VTEX.
+El menú [Catálogo](/es/tutorial/catalogo-vision-general--77M8ItLhDXs6aBdQTqToVe) contiene las funcionalidades relativas al surtido de productos de tu tienda de *ecommerce*. Para que tu cliente pueda ver los productos en el sitio web, debes registrarlos primero en este menú de tu Admin VTEX.
 
 El **Catálogo** actualizado reúne las páginas donde gestionas tu catálogo, los precios y el stock de tu *ecommerce*.
 
@@ -23,12 +23,12 @@ El **Catálogo** permite la configuración de funcionalidades relacionadas con e
 
 La sección incluye las siguientes páginas:
 
-- [Productos y SKUs](https://help.vtex.com/es/tutorial/productos-y-skus--2ig7TmROlirWirZjFWZ3By)    
-- [Categorías](https://help.vtex.com/es/tutorial/registrar-categoria--tutorials_206)
-- [Marcas](https://help.vtex.com/es/tutorial/registrando-marcas--tutorials_1414)    
-- [Colecciones](https://help.vtex.com/es/tutorial/registrar-colecciones-beta--yJBHqNMViOAnnnq4fyOye)  
-- [Tipos de listas](https://help.vtex.com/es/tutorial/criando-tipo-de-lista--tutorials_254)  
-- [Campos personalizados](https://help.vtex.com/es/tutorial/registrar-un-anexo--7zHMUpuoQE4cAskqEUWScU)  
-- [Importación y exportación](https://help.vtex.com/es/tutorial/rellenar-campos-de-la-planilla-de-importacion--4nYhx63Q5yokQWaMguaIgI)  
-- [Informes](https://help.vtex.com/es/tutorial/utilizando-el-informe-de-indexacion--4ikVpMhwByyS8sysaeOIm4)  
-- [Proveedores](https://help.vtex.com/es/tutorial/catalogo-vision-general--77M8ItLhDXs6aBdQTqToVe#proveedores)
+- [Productos y SKUs](/es/tutorial/productos-y-skus--2ig7TmROlirWirZjFWZ3By)    
+- [Categorías](/es/tutorial/registrar-categoria--tutorials_206)
+- [Marcas](/es/tutorial/registrando-marcas--tutorials_1414)    
+- [Colecciones](/es/tutorial/registrar-colecciones-beta--yJBHqNMViOAnnnq4fyOye)  
+- [Tipos de listas](/es/tutorial/criando-tipo-de-lista--tutorials_254)  
+- [Campos personalizados](/es/tutorial/registrar-un-anexo--7zHMUpuoQE4cAskqEUWScU)  
+- [Importación y exportación](/es/tutorial/rellenar-campos-de-la-planilla-de-importacion--4nYhx63Q5yokQWaMguaIgI)  
+- [Informes](/es/tutorial/utilizando-el-informe-de-indexacion--4ikVpMhwByyS8sysaeOIm4)  
+- [Proveedores](/es/tutorial/catalogo-vision-general--77M8ItLhDXs6aBdQTqToVe#proveedores)

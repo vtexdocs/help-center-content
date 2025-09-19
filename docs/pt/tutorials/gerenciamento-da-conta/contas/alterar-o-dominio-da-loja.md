@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: yMp6sKDiJEi66CGAIQ4ma
 ---
 
-Mudar o [domínio](https://help.vtex.com/pt/tutorial/configurar-o-dominio-da-loja--tutorials_2450) de uma loja após o go-live exige atenção cuidadosa para minimizar problemas de SEO e garantir uma transição transparente, sem impacto na experiência dos clientes.
+Mudar o [domínio](/pt/tutorial/configurar-o-dominio-da-loja--tutorials_2450) de uma loja após o go-live exige atenção cuidadosa para minimizar problemas de SEO e garantir uma transição transparente, sem impacto na experiência dos clientes.
 
 Saiba mais sobre o processo completo para mudar o domínio na VTEX nas seções a seguir:
 
@@ -35,19 +35,19 @@ Antes de começar, certifique-se de:
 
 Siga as etapas abaixo para realizar a mudança de domínio:
 
-1. Crie o novo host no Admin VTEX, seguindo o passo a passo descrito em [Cadastrar um novo host](https://help.vtex.com/pt/tutorial/configurar-o-dominio-da-loja--tutorials_2450#cadastrar-um-novo-host). Nesse momento, o DNS do novo domínio ainda não deve estar apontado para a VTEX.
+1. Crie o novo host no Admin VTEX, seguindo o passo a passo descrito em [Cadastrar um novo host](/pt/tutorial/configurar-o-dominio-da-loja--tutorials_2450#cadastrar-um-novo-host). Nesse momento, o DNS do novo domínio ainda não deve estar apontado para a VTEX.
 
-2. No Admin VTEX, verifique as configurações do Checkout em **Configurações da Loja > Storefront > Checkout**, conforme descrito em [Configurar template no SmartCheckout](https://help.vtex.com/pt/faq/configurar-template-no-smartcheckout/). 
+2. No Admin VTEX, verifique as configurações do Checkout em **Configurações da Loja > Storefront > Checkout**, conforme descrito em [Configurar template no SmartCheckout](/pt/faq/configurar-template-no-smartcheckout/). 
 
    Esse passo é fundamental para que o Checkout continue funcionando após a mudança.
 
-   É necessário conferir se os sites configurados estão relacionados à conta cadastrada em **Configurações da conta > Contas**. Confira [Gerenciamento da conta](https://help.vtex.com/pt/tutorial/gerenciamento-da-conta--2vhUVOKfCaswqLguT2F9xq) para mais detalhes.
+   É necessário conferir se os sites configurados estão relacionados à conta cadastrada em **Configurações da conta > Contas**. Confira [Gerenciamento da conta](/pt/tutorial/gerenciamento-da-conta--2vhUVOKfCaswqLguT2F9xq) para mais detalhes.
 
-3. Se a sua loja utiliza [VTEX IO \- Store Framework](https://developers.vtex.com/docs/guides/storefront-implementation) ou [FastStore](https://developers.vtex.com/docs/guides/faststore/docs-what-is-faststore), entre em contato com o [suporte VTEX](https://help.vtex.com/pt/support) e solicite apontamento interno, informando o novo domínio. Saiba mais sobre [apontamento interno](https://help.vtex.com/pt/tracks/realizando-o-go-live-da-sua-loja--4Ns5FxIiksmjsdX2yOTduM/7sM5IMx02zaHvAFTm0OxiJ#solicitar-apontamento-io).
+3. Se a sua loja utiliza [VTEX IO \- Store Framework](https://developers.vtex.com/docs/guides/storefront-implementation) ou [FastStore](https://developers.vtex.com/docs/guides/faststore/docs-what-is-faststore), entre em contato com o [suporte VTEX](/pt/support) e solicite apontamento interno, informando o novo domínio. Saiba mais sobre [apontamento interno](/pt/tracks/realizando-o-go-live-da-sua-loja--4Ns5FxIiksmjsdX2yOTduM/7sM5IMx02zaHvAFTm0OxiJ#solicitar-apontamento-io).
 
    Uma vez aberto o chamado, o time de suporte tem até três dias úteis para analisar as configurações e realizar o apontamento. 
 
-4. Realize o apontamento de DNS para a CDN da VTEX. Para isso, siga as instruções do guia [Go-live](https://help.vtex.com/pt/tracks/realizando-o-go-live-da-sua-loja--4Ns5FxIiksmjsdX2yOTduM/12bQlMbJ68Ot0LIaO6Btkj). 
+4. Realize o apontamento de DNS para a CDN da VTEX. Para isso, siga as instruções do guia [Go-live](/pt/tracks/realizando-o-go-live-da-sua-loja--4Ns5FxIiksmjsdX2yOTduM/12bQlMbJ68Ot0LIaO6Btkj). 
 
 ## Excluir o domínio antigo
 

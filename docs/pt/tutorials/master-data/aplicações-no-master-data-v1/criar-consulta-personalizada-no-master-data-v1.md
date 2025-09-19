@@ -19,7 +19,7 @@ Uma consulta personalizada no Master Data é um filtro ou combinação de filtro
 
 ## Pré-requisitos
 
-Antes de criar uma consulta, você precisa seguir os passos descritos em [Filtrar dados no Master Data](https://help.vtex.com/pt/tutorial/filtrando-dados-no-master-data--tutorials_778) para configurar um filtro na entidade de dados e no formulário.
+Antes de criar uma consulta, você precisa seguir os passos descritos em [Filtrar dados no Master Data](/pt/tutorial/filtrando-dados-no-master-data--tutorials_778) para configurar um filtro na entidade de dados e no formulário.
 
 ## Salvar uma consulta
 

@@ -15,9 +15,9 @@ locale: pt
 subcategoryId: 6GWaAkVqXQYN79ilMgUsPr
 ---
 
-> ℹ️ O **Affiliates Program** é um aplicativo compatível apenas com lojas [VTEX IO](https://help.vtex.com/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2), e não está disponível para lojas que utilizam [CMS Portal Legado](https://help.vtex.com/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj) ou [Headless CMS](https://faststore.dev/tutorials/cms/0#vtex-headless-cms). Para instalar e configurar o aplicativo na sua loja VTEX, acesse o guia para desenvolvedores Affiliates Program app.
+> ℹ️ O **Affiliates Program** é um aplicativo compatível apenas com lojas [VTEX IO](/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2), e não está disponível para lojas que utilizam [CMS Portal Legado](/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj) ou [Headless CMS](https://faststore.dev/tutorials/cms/0#vtex-headless-cms). Para instalar e configurar o aplicativo na sua loja VTEX, acesse o guia para desenvolvedores Affiliates Program app.
 
-No aplicativo **Affiliates Program**, um afiliado é alguém que se associa a sua loja VTEX para promover as vendas em troca de uma comissão. O termo é, portanto, diferente do [conceito usual de afiliado na VTEX](https://help.vtex.com/pt/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0).
+No aplicativo **Affiliates Program**, um afiliado é alguém que se associa a sua loja VTEX para promover as vendas em troca de uma comissão. O termo é, portanto, diferente do [conceito usual de afiliado na VTEX](/pt/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0).
 
 O aplicativo **Affiliates Program **cria uma URL específica da sua loja VTEX para os seus [afiliados cadastrados](#adicionar-afiliado). Quando o afiliado compartilha sua URL com um cliente e este realiza uma compra pelo link, o afiliado recebe uma comissão sobre a venda.
 
@@ -80,7 +80,7 @@ Para criar um novo afiliado, clique no botão `Adicionar afiliado`, preencha os 
 
 Para pesquisar um afiliado, digite na barra de busca por alguma das seguintes informações: _ID do afiliado, Nome, Nome da Loja, Email_ ou_ Telefone. _
 
-> ⚠️ No aplicativo **Affiliates Program**, além do termo afiliado ser diferente do [conceito usual de afiliado na VTEX](https://help.vtex.com/pt/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0), o `ID do Afiliado` também não corresponde ao código padrão. No aplicativo, o `ID do Afiliado` é um código alfanumérico gerado automaticamente quando você cria um novo afiliado.
+> ⚠️ No aplicativo **Affiliates Program**, além do termo afiliado ser diferente do [conceito usual de afiliado na VTEX](/pt/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0), o `ID do Afiliado` também não corresponde ao código padrão. No aplicativo, o `ID do Afiliado` é um código alfanumérico gerado automaticamente quando você cria um novo afiliado.
 
 ### Filtrar afiliados
 
@@ -133,7 +133,7 @@ Para pesquisar um pedido, digite na barra de busca o `ID do afiliado` relacionad
 
 É possível filtrar a busca de pedidos pelos seguintes critérios:
 
-- **Status do pedido:** a opção default é mostrar todos os pedidos. Para escolher um status, clique em **Todos os pedidos** <i class="fas fa-angle-down"></i> e selecione uma das opções sobre o pedido: _Criado, Pagamento aprovado, Pagamento pendente, Faturado ou Cancelado_. Saiba mais em [Fluxo e status de pedidos](https://help.vtex.com/pt/tutorial/fluxo-e-status-de-pedidos--tutorials_196).  
+- **Status do pedido:** a opção default é mostrar todos os pedidos. Para escolher um status, clique em **Todos os pedidos** <i class="fas fa-angle-down"></i> e selecione uma das opções sobre o pedido: _Criado, Pagamento aprovado, Pagamento pendente, Faturado ou Cancelado_. Saiba mais em [Fluxo e status de pedidos](/pt/tutorial/fluxo-e-status-de-pedidos--tutorials_196).  
 - **Período de criação do pedido:** filtre a partir de um intervalo de dias e horas durante o qual os pedidos foram criados. Para isso, no campo `De` determine uma data de início, e no campo `Até` coloque a data final.
 
 ### Exportar lista de pedidos
@@ -146,7 +146,7 @@ Após a configuração, para exportar a lista basta clicar em **Exportar**, na p
 
 > _O relatório está sendo gerado e será enviado para o seu email._
 
-O arquivo gerado será enviado para o email do [usuário](https://help.vtex.com/pt/tutorial/gerenciando-usuarios--tutorials_512) logado. O conteúdo exportado é referente ao total de pedidos da listagem no momento da exportação. Se algum filtro estiver ativo, somente os anúncios selecionados serão exportados.
+O arquivo gerado será enviado para o email do [usuário](/pt/tutorial/gerenciando-usuarios--tutorials_512) logado. O conteúdo exportado é referente ao total de pedidos da listagem no momento da exportação. Se algum filtro estiver ativo, somente os anúncios selecionados serão exportados.
 
 ### Visualizar detalhes do pedido
 
@@ -166,7 +166,7 @@ A página **Gerenciamento de comissões** permite realizar as seguintes ações:
 
 ### Pesquisar comissões
 
-Para pesquisar entre as comissões de pedidos, na barra de busca da aba **Comissões cadastradas**, digite o `ID do SKU` do pedido, ou seja, o número que [identifica o SKU](https://help.vtex.com/pt/tutorial/descobrir-o-id-de-um-sku--4VQZsYeb3igGK2YowuEYWW).
+Para pesquisar entre as comissões de pedidos, na barra de busca da aba **Comissões cadastradas**, digite o `ID do SKU` do pedido, ou seja, o número que [identifica o SKU](/pt/tutorial/descobrir-o-id-de-um-sku--4VQZsYeb3igGK2YowuEYWW).
 
 ### Editar comissões
 
@@ -187,7 +187,7 @@ Para exportar uma planilha de comissionamento por SKU com extensão CSV, no topo
 
 > _O relatório está sendo gerado e será enviado para o seu email._
 
-O arquivo será enviado para o email do [usuário](https://help.vtex.com/pt/tutorial/gerenciando-usuarios--tutorials_512) logado.
+O arquivo será enviado para o email do [usuário](/pt/tutorial/gerenciando-usuarios--tutorials_512) logado.
 
 > ℹ️ O conteúdo exportado é referente ao comissionamento dos SKUs da listagem no momento da exportação. Se algum filtro estiver ativo, somente as comissões de SKU selecionadas serão exportadas.
 

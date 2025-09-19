@@ -32,7 +32,7 @@ O formulário de cadastro de um novo produto contém as seguintes seções:
 *   [SEO](#seo)
 *   [Frente de loja](#frente-de-loja)
 
-> ℹ️ Antes de criar um produto, você precisa criar a [Categoria](https://help.vtex.com/pt/tutorial/cadastrando-categoria--tutorials_206?&utm_source=autocomplete) correspondente a esse produto, caso ela não tenha sido cadastrada anteriormente na sua loja.
+> ℹ️ Antes de criar um produto, você precisa criar a [Categoria](/pt/tutorial/cadastrando-categoria--tutorials_206?&utm_source=autocomplete) correspondente a esse produto, caso ela não tenha sido cadastrada anteriormente na sua loja.
 
 ## Informações Básicas
 
@@ -128,7 +128,7 @@ Para editar um atributo, selecione o atributo desejado na lista. Para deletar um
 
 ## Informações do SKU
 
-Todo produto precisa ter pelo menos um [SKU](https://help.vtex.com/pt/tutorial/o-que-e-um-sku--1K75s4RXAQyOuGUYKMM68u) cadastrado. Caso seu produto não possua variações e você deseje criar apenas um SKU associado a ele, preencha as informações abaixo diretamente:
+Todo produto precisa ter pelo menos um [SKU](/pt/tutorial/o-que-e-um-sku--1K75s4RXAQyOuGUYKMM68u) cadastrado. Caso seu produto não possua variações e você deseje criar apenas um SKU associado a ele, preencha as informações abaixo diretamente:
 
 *   **Código de referência**: código de referência único criado para ajudar na organização da loja. Não é um item obrigatório.
 *   **EAN/UPC**: código de identificação único do SKU (código de barras), aceita até 13 caracteres numéricos.

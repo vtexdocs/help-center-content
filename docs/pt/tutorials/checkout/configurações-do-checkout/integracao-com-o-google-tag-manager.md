@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 6XAvmMxp7yyY06ewYMuggs
 ---
 
-> ⚠️ Se sua loja é desenvolvida com base no [Store framework](https://help.vtex.com/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2), para fazer a integração funcionar em todas as páginas é necessário também instalar o aplicativo do pixel do Google Tag Manager. Veja como fazer isso na [documentação sobre a app](https://developers.vtex.com/vtex-developer-docs/docs/google-tag-manager).
+> ⚠️ Se sua loja é desenvolvida com base no [Store framework](/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2), para fazer a integração funcionar em todas as páginas é necessário também instalar o aplicativo do pixel do Google Tag Manager. Veja como fazer isso na [documentação sobre a app](https://developers.vtex.com/vtex-developer-docs/docs/google-tag-manager).
 
 O Google Tag Manager é um sistema de gerenciamento de tags criado pelo Google para gerenciar tags JavaScript e HTML usadas para tracking e analytics de sites da web.
 
@@ -31,7 +31,7 @@ Na VTEX, a integração com o Google Tag Manager é nativa, o que simplifica a c
 Antes de iniciar a configuração do Google Tag Manager, você precisa realizar os seguintes passos:
 
 - Criar uma conta no [Google Tag Manager](http://www.google.com/tagmanager).
-- Configurar Google Analytics 4, ou seja, realizar a primeira etapa descrita no guia [Configurar Google Analytics 4 em loja VTEX](https://help.vtex.com/pt/tutorial/como-configurar-google-analytics-em-loja-vtex).
+- Configurar Google Analytics 4, ou seja, realizar a primeira etapa descrita no guia [Configurar Google Analytics 4 em loja VTEX](/pt/tutorial/como-configurar-google-analytics-em-loja-vtex).
 
 ## Configurar tags no Google Tag Manager
 
@@ -39,7 +39,7 @@ Por meio das tags, o Google Analytics permite que você acesse dados importantes
 
 ## Editar configurações de Checkout
 
-> ⚠️ Para realizar as configurações do Checkout, os usuários precisam ter um perfil de acesso com o [recurso do License Manager](https://help.vtex.com/pt/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3) **Manage portal**. É necessário que o usuário que for criar o novo perfil de acesso tenha o perfil **Owner (Admin Super)**.
+> ⚠️ Para realizar as configurações do Checkout, os usuários precisam ter um perfil de acesso com o [recurso do License Manager](/pt/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3) **Manage portal**. É necessário que o usuário que for criar o novo perfil de acesso tenha o perfil **Owner (Admin Super)**.
 
 Depois, você deve configurar o código de identificação da loja no Tag Manager na VTEX seguindo os passos abaixo: 
 
@@ -57,7 +57,7 @@ Para verificar eventos (acionadores) e variáveis disponíveis nas páginas, que
 
 ## VTEX IO: instalar pixel app do Google Tag Manager
 
-Se a sua loja utiliza [VTEX IO - Store Framework](https://help.vtex.com/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2), além da configuração, será necessário instalar uma nova versão do app Google Tag Manager. Para mais informações, acesse [Installing Google Tag Manager](https://developers.vtex.com/docs/guides/vtex-io-documentation-installing-google-tag-manager).
+Se a sua loja utiliza [VTEX IO - Store Framework](/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2), além da configuração, será necessário instalar uma nova versão do app Google Tag Manager. Para mais informações, acesse [Installing Google Tag Manager](https://developers.vtex.com/docs/guides/vtex-io-documentation-installing-google-tag-manager).
 
-Esta etapa não é necessária para lojas que utilizam [CMS - Portal Legado](https://help.vtex.com/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj).
+Esta etapa não é necessária para lojas que utilizam [CMS - Portal Legado](/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj).
 

@@ -41,7 +41,7 @@ Además de poder comprar todos los productos vistos, los clientes tienen la opci
 * Fecha límite para recibir el producto.
 * Productos disponibles en tiendas cercanas al cliente.
 * Tipo de envío más rápido para el pedido.
-* [Punto de recogida](https://help.vtex.com/es/tutorial/pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R) donde el cliente desea retirar el pedido.
+* [Punto de recogida](/es/tutorial/pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R) donde el cliente desea retirar el pedido.
 
 En esta etapa, **Delivery Promise (Beta)** permite a los clientes de tu tienda aplicar los siguientes filtros a los productos mostrados en la navegación:
 
@@ -50,33 +50,33 @@ En esta etapa, **Delivery Promise (Beta)** permite a los clientes de tu tienda a
 * **Recogida en tiendas cercanas:** productos disponibles para recogida en puntos de recogida en un radio de 10 km alrededor de la dirección proporcionada.
 * **Recogida en {{nombre}}:** productos disponibles para recogida en un determinado punto de recogida.
 
-> ℹ️ Los filtros mencionados anteriormente son componentes nativos de Intelligent Search. Si deseas desarrollar componentes personalizados para tu tienda, ponte en contacto con tu equipo de desarrollo o con un [partner de implementación](https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#partners-de-implementacion).
+> ℹ️ Los filtros mencionados anteriormente son componentes nativos de Intelligent Search. Si deseas desarrollar componentes personalizados para tu tienda, ponte en contacto con tu equipo de desarrollo o con un [partner de implementación](/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#partners-de-implementacion).
 
 ## Beneficios
 
 **Delivery Promise (Beta)** está recomendada para todo tipo de operaciones, ya que la solución garantiza diversos beneficios para cualquier modelo de negocio. Consulta las condiciones de arquitectura de tienda para participar de la fase beta (en curso) en la sección [Requisitos y restricciones](#requisitos-y-restricciones).
 
-Para operaciones [omnichannel](https://help.vtex.com/es/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv), cuanto mayor sea la cobertura de la red logística y el número de sellers y [cuentas franquicia](https://help.vtex.com/es/tutorial/o-que-e-conta-franquia--kWQC6RkFSCUFGgY5gSjdl) asociados a la operación, mayores serán los beneficios obtenidos. Consultas los principales beneficios en la tabla a continuación:
+Para operaciones [omnichannel](/es/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv), cuanto mayor sea la cobertura de la red logística y el número de sellers y [cuentas franquicia](/es/tutorial/o-que-e-conta-franquia--kWQC6RkFSCUFGgY5gSjdl) asociados a la operación, mayores serán los beneficios obtenidos. Consultas los principales beneficios en la tabla a continuación:
 
 | **Beneficio** | **Detalles** |
 | :---: | :--- |
 | Menor abandono de carritos | Es común que los clientes abandonen la compra después de ingresar su ubicación en la etapa del carrito, tras descubrir que no es posible realizar el envío a su región o que el plazo de entrega no cumple con sus expectativas.Con **Delivery Promise (Beta)**, para cada producto que el cliente ve en la vitrina, se considera tanto la disponibilidad de stock como la viabilidad del envío a la ubicación del cliente. Además de esto, la información de envío se muestra desde el inicio de la jornada de compra del cliente. |
-| Mayor surtido de productos en la vitrina | Debido a limitaciones en funcionalidades como la [regionalización de sellers](https://help.vtex.com/es/tutorial/configurar-a-regionalizacao-de-sellers--32t6wLpQCEnumoh8TjT5fw), [sellers de extensa cobertura](https://help.vtex.com/es/tutorial/seller-abrangente--5Qn4O2GpjUIzWTPpvLUfkI) y el [algoritmo de selección de sellers](https://help.vtex.com/es/tutorial/algoritmo-de-selecao-de-sellers-white-label--3MemNQ4pKkWCpMdzI27AHa), sin **Delivery Promise (Beta)**, el surtido de productos que se muestra al cliente en la vitrina no refleja la totalidad de productos de los sellers.Con **Delivery Promise (Beta)**, el cliente puede ver el surtido completo de productos de todos los sellers, siempre que dichos productos:<ul><li>Estén correctamente configurados.</li><li>Tengan disponibilidad de stock.</li><li>Dispongan de un tipo de envío válido a la dirección ingresada por el cliente.</li></ul> |
+| Mayor surtido de productos en la vitrina | Debido a limitaciones en funcionalidades como la [regionalización de sellers](/es/tutorial/configurar-a-regionalizacao-de-sellers--32t6wLpQCEnumoh8TjT5fw), [sellers de extensa cobertura](/es/tutorial/seller-abrangente--5Qn4O2GpjUIzWTPpvLUfkI) y el [algoritmo de selección de sellers](/es/tutorial/algoritmo-de-selecao-de-sellers-white-label--3MemNQ4pKkWCpMdzI27AHa), sin **Delivery Promise (Beta)**, el surtido de productos que se muestra al cliente en la vitrina no refleja la totalidad de productos de los sellers.Con **Delivery Promise (Beta)**, el cliente puede ver el surtido completo de productos de todos los sellers, siempre que dichos productos:<ul><li>Estén correctamente configurados.</li><li>Tengan disponibilidad de stock.</li><li>Dispongan de un tipo de envío válido a la dirección ingresada por el cliente.</li></ul> |
 | Mejor experiencia de compra | **Delivery Promise (Beta)** promueve una mejor experiencia de compra para el cliente como un todo:<ul><li>Elimina la frustración de descubrir en el checkout que no se puede realizar la compra.</li><li>Permite al cliente visualizar un mayor número de productos.</li><li>Permite que el cliente navegue por la vitrina según sus objetivos, como priorizar el tipo de envío o comprar en una tienda física.</li></ul> |
 | Fomentar ventas en tiendas físicas  | **Delivery Promise (Beta)** garantiza que el cliente encuentre determinados productos en las tiendas físicas, lo que estimula la visita a dichas tiendas y aumenta las oportunidades de venta. |
 
 ## Requisitos y restricciones
 
-Para el correcto funcionamiento de **Delivery Promise (Beta)**, es necesario que el cliente proporcione su ubicación desde el inicio de la compra, de manera que la vitrina muestre únicamente productos con tipos de envío válidos. Esto requiere la instalación de [Intelligent Search](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG), que solicita la dirección del cliente. 
+Para el correcto funcionamiento de **Delivery Promise (Beta)**, es necesario que el cliente proporcione su ubicación desde el inicio de la compra, de manera que la vitrina muestre únicamente productos con tipos de envío válidos. Esto requiere la instalación de [Intelligent Search](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG), que solicita la dirección del cliente. 
 
 Para participar en la fase beta actual de **Delivery Promise (Beta)**, deben cumplirse las siguientes condiciones:
 
-* <i class="far fa-check-circle"></i> **Requisito:** usar [Intelligent Search](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG).
-* <i class="far fa-check-circle"></i> **Requisito:** tener la implementación del frontend de [Store Framework](https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ#store-framework).
+* <i class="far fa-check-circle"></i> **Requisito:** usar [Intelligent Search](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG).
+* <i class="far fa-check-circle"></i> **Requisito:** tener la implementación del frontend de [Store Framework](/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ#store-framework).
 
 ## Conoce más
 
-* [Delivery Promise: FAQ](https://help.vtex.com/es/tutorial/delivery-promise-faq--2frHHK5uPsQrLK5XbYHALN)
+* [Delivery Promise: FAQ](/es/tutorial/delivery-promise-faq--2frHHK5uPsQrLK5XbYHALN)
 * [Setting up Delivery Promise components (Beta)](https://developers.vtex.com/docs/guides/setting-up-delivery-promise-components)
 * [Delivery promise for headless stores (Beta)](https://developers.vtex.com/docs/guides/delivery-promise-for-headless-stores)
 * [Delivery Promise](https://developers.vtex.com/docs/guides/faststore/features-delivery-promise)

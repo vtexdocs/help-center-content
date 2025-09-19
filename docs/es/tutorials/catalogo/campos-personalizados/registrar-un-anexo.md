@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 1hoOi2R0Rm6ky0yCwOUoiy
 ---
 
-El objetivo de un anexo es [complementar el producto con una información personalizada](https://help.vtex.com/es/tutorial/o-que-e-um-anexo--aGICk0RVbqKg6GYmQcWUm). Para registrar un anexo, debe realizar el siguiente paso a paso en el Admin VTEX.
+El objetivo de un anexo es [complementar el producto con una información personalizada](/es/tutorial/o-que-e-um-anexo--aGICk0RVbqKg6GYmQcWUm). Para registrar un anexo, debe realizar el siguiente paso a paso en el Admin VTEX.
 
 1. En el Admin VTEX, accede a **Catálogo**, o escribe en la barra de búsqueda en la parte superior de la página.
 2. Haga clic en **Campos personalizados**.

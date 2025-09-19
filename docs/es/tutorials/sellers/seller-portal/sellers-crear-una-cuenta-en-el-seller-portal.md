@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 4hisB47iAVZk4r3SEmMoG
 ---
 
-El Seller Portal es una edición de la plataforma VTEX destinada a que los [sellers](https://help.vtex.com/es/tutorial/marketplace-strategies-at-vtex--tutorials_402#vender-en-un-marketplace) se conecten y vendan sus productos en los marketplaces.
+El Seller Portal es una edición de la plataforma VTEX destinada a que los [sellers](/es/tutorial/marketplace-strategies-at-vtex--tutorials_402#vender-en-un-marketplace) se conecten y vendan sus productos en los marketplaces.
  Con el portal, los sellers disponen de todas las funcionalidades esenciales para la operación del ecommerce en grandes vitrinas, aportando visibilidad y conversión de ventas.
 
 A través del Seller Portal, los sellers pueden:
@@ -30,7 +30,7 @@ A través del Seller Portal, los sellers pueden:
 
 ## Crear una cuenta en el Seller Portal
 
-El proceso de creación de una cuenta en el Seller Portal comienza con una [invitación enviada por el marketplace](https://help.vtex.com/es/tutorial/marketplace-convite-de-sellers-beta--6rb2FkcslmDueJ689Ulb9A). Una vez que hayas recibido la invitación por email, hay dos flujos posibles para la creación de la cuenta, que dependen de si tu tienda ya está hospedada en VTEX o no. Siga los pasos de la opción que se aplica a tu contexto:
+El proceso de creación de una cuenta en el Seller Portal comienza con una [invitación enviada por el marketplace](/es/tutorial/marketplace-convite-de-sellers-beta--6rb2FkcslmDueJ689Ulb9A). Una vez que hayas recibido la invitación por email, hay dos flujos posibles para la creación de la cuenta, que dependen de si tu tienda ya está hospedada en VTEX o no. Siga los pasos de la opción que se aplica a tu contexto:
 
 - [Crear una cuenta para_ sellers_ VTEX](#conectar-la-cuenta-vtex-con-el-marketplace): tienda hospedada en la plataforma VTEX.  
 - [Crear una cuenta para _sellers_ externos](#crear-una-cuenta-para-sellers-externos): tienda hospedada en otra plataforma de ecommerce o que aún no está hospedada en ninguna plataforma.  
@@ -71,5 +71,5 @@ La **URL del Seller Portal** indicada es el enlace que utilizarás para acceder 
 
 ___________________
 
-Una vez completados estos pasos, tienes que [configurar tu Seller Portal](https://help.vtex.com/es/tutorial/seller-portal-primeiros-passos--6w1vBdRH2uuBGmUqgNQjwK) y esperar a que el [marketplace active tu tienda](https://help.vtex.com/es/tutorial/marketplace-convite-de-sellers-beta--6rb2FkcslmDueJ689Ulb9A#conectar-seller).
+Una vez completados estos pasos, tienes que [configurar tu Seller Portal](/es/tutorial/seller-portal-primeiros-passos--6w1vBdRH2uuBGmUqgNQjwK) y esperar a que el [marketplace active tu tienda](/es/tutorial/marketplace-convite-de-sellers-beta--6rb2FkcslmDueJ689Ulb9A#conectar-seller).
 

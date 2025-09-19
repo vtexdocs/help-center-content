@@ -73,4 +73,4 @@ From this moment on, the customer and their dependent will be able to share the 
 
 If you wish to close the customer's account, in the __Others__ section, click on `CLOSE ACCOUNT`.
 
-> ⚠️ A closed Customer Credit account cannot be reopened again and invoice, statement and additional dependent data will be deleted. However, after completing the account closure, if you wish, you can [open a new account](https://help.vtex.com/en/tracks/customer-credit-como-comecar--1hCRg21lXYy2seOKgqQ2CC/7FHLd0cmxqqGeEUuc8uioU#creating-accounts-individually) for the customer using the same email as the closed account.
+> ⚠️ A closed Customer Credit account cannot be reopened again and invoice, statement and additional dependent data will be deleted. However, after completing the account closure, if you wish, you can [open a new account](/en/tracks/customer-credit-como-comecar--1hCRg21lXYy2seOKgqQ2CC/7FHLd0cmxqqGeEUuc8uioU#creating-accounts-individually) for the customer using the same email as the closed account.

@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 3VNOhxDrvYxJThhuJClrYZ
 ---
 
-> ℹ️ You can only access information from orders created in the last two years, and that same period is valid for customers through [My Account](https://help.vtex.com/en/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh).
+> ℹ️ You can only access information from orders created in the last two years, and that same period is valid for customers through [My Account](/en/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh).
 
 The **All Orders** page allows retailers to track their store's orders and extract information for intelligent business management. To access the page, go to your VTEX Admin menu and click **Orders > All Orders**. On this page, you can:
 
@@ -48,7 +48,7 @@ For order variation data, the colors indicate:
 
 The `Export` button is located in the upper right corner of the page. You can use it to export an order report via email. To export a report, on the **All Order** page, click the `Export` button. You will receive a file in `.csv` format for download by email. 
 
-The data in the file will be the content of the page at the time of export, including the filters applied. Learn more about each field in the report in [Order report](https://help.vtex.com/en/tutorial/planilha-de-pedidos--31m1ewsmsEe0WS4So2aGMY).
+The data in the file will be the content of the page at the time of export, including the filters applied. Learn more about each field in the report in [Order report](/en/tutorial/planilha-de-pedidos--31m1ewsmsEe0WS4So2aGMY).
 
 ### Total orders
 
@@ -91,7 +91,7 @@ Filters change the orders displayed in the list and the metrics displayed in the
 * Status and situation  
 * Other  
 
-To learn more about all the filter options, read the article [Filtering orders on All Orders](https://help.vtex.com/en/tutorial/como-filtrar-pedidos--tutorials_192).
+To learn more about all the filter options, read the article [Filtering orders on All Orders](/en/tutorial/como-filtrar-pedidos--tutorials_192).
 
 The filter selector allows you to apply more than one filter, with no limit to how many filters can be overlapped. When accumulating filters, you might reach a data set with no information, for example, if there are no incomplete orders with a delivery date in the next seven days. 
 
@@ -147,11 +147,11 @@ The retailer can track their sales in the order list. In the default view, all s
 * To change the sorting of all the data in the list, click on the name of the desired column.   
 * To change the sorting of data between ascending and descending, double click on the desired column.    
 
-By selecting an order from the list, you will be redirected to the [Order details](https://help.vtex.com/en/tutorial/order-details-page-interface--2Y75n54Cc9VizrlG1N6ZNl) page.    
+By selecting an order from the list, you will be redirected to the [Order details](/en/tutorial/order-details-page-interface--2Y75n54Cc9VizrlG1N6ZNl) page.    
 
 Learn more about each column.
 
-* **Status:** indicates in which phase of the flow the order is. To learn more, read the article [Order flow and status](https://help.vtex.com/en/tutorial/fluxo-e-status-de-pedidos--tutorials_196).  
+* **Status:** indicates in which phase of the flow the order is. To learn more, read the article [Order flow and status](/en/tutorial/fluxo-e-status-de-pedidos--tutorials_196).  
 * **Order number:** identification number that the customer receives on the order confirmation screen and in transactional emails. This code must be used in communications between store and buyer.  
 * **Date:** date and time when the order was placed by the customer.  
 * **Customer:** first and last name of the natural or legal person who made the purchase.  
@@ -166,7 +166,7 @@ Learn more about each column.
 
 ![VTEX Do overview EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/orders/orders-overview/all-orders_2.gif)
 
-[VTEX DO](https://help.vtex.com/en/tutorial/vtex-do-beta--7KMbRL4OslN8DTX9oiuCiu) manages tasks automatically created by the VTEX Admin that require manual action by the ecommerce team. 
+[VTEX DO](/en/tutorial/vtex-do-beta--7KMbRL4OslN8DTX9oiuCiu) manages tasks automatically created by the VTEX Admin that require manual action by the ecommerce team. 
 
 To access it, click on the inbox icon in the bottom right corner of the page. By clicking on the icon, a modal will display the list of tasks related to the store's orders. Tasks managed through VTEX DO can include actions from all VTEX systems, such as reviewing payments, authorizing orders, or changing loading docks addresses.
 

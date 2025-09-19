@@ -48,7 +48,7 @@ To better understand the meaning of each category registration field, see the fu
 - __Active:__ When selecting this item, the category or department is activated or deactivated in your store.
 - __Menu with active link:__ When selecting this item, the category or department is active and clickable on the site for the client to navigate through it.
 - __Brand Filter:__ When selecting this item, the category or department will have a brand filter on the page.
-- __Score (used for search ordering):__ value used to set the priority on the search result page. To understand more about Score, access our article: [How does the score field work?](https://help.vtex.com/en/tutorial/how-does-the-score-field-work--1BUZC0mBYEEIUgeQYAKcae).
+- __Score (used for search ordering):__ value used to set the priority on the search result page. To understand more about Score, access our article: [How does the score field work?](/en/tutorial/how-does-the-score-field-work--1BUZC0mBYEEIUgeQYAKcae).
 - __Product display mode:__ defines how SKUs will be displayed on the product page. See below the options for this field:
   - __List of SKUs:__ All SKUs in the department or category in question will be displayed in list format. Each one with its Buy button on the side.
   ![1Lista.en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/categories/registering-a-category_1.png)
@@ -59,9 +59,9 @@ To better understand the meaning of each category registration field, see the fu
 
 ## Learn more
 
-- [What is a Category?](https://help.vtex.com/en/tutorial/what-is-a-category--6HV4Q3E2FauUoOQoiCCgCg)
-- [What is a Department?](https://help.vtex.com/en/tutorial/what-is-a-department--22rKjmYWVmmKAK8CWa8yKw)
-- [What is a Subcategory?](https://help.vtex.com/en/tutorial/what-is-a-subcategory--2cb0aRkG3i6AeiAMM24iwY)
+- [What is a Category?](/en/tutorial/what-is-a-category--6HV4Q3E2FauUoOQoiCCgCg)
+- [What is a Department?](/en/tutorial/what-is-a-department--22rKjmYWVmmKAK8CWa8yKw)
+- [What is a Subcategory?](/en/tutorial/what-is-a-subcategory--2cb0aRkG3i6AeiAMM24iwY)
 - [Cleaning store's data base](/en/tutorial/understanding-how-to-maintain-a-database)
 - [Registering a product](/en/tutorial/registering-a-product)
-- [Registering an SKU](https://help.vtex.com/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ)
+- [Registering an SKU](/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ)

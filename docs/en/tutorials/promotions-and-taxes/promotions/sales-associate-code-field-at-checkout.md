@@ -30,10 +30,10 @@ To create the field and add it to the Checkout page of your store, you need to c
 
 ## Creating a new data entity
 
-The **sales associate code** field must be added to [Master Data](https://help.vtex.com/en/tutorial/master-data--4otjBnR27u4WUIciQsmkAw) as a new entity. To create the data entity, follow the steps below:
+The **sales associate code** field must be added to [Master Data](/en/tutorial/master-data--4otjBnR27u4WUIciQsmkAw) as a new entity. To create the data entity, follow the steps below:
 
 1. In VTEX Admin, go to **Store Settings > Storefront > Master Data**, or type **Master Data** in the search bar at the top of the page.
-2. Create a new [data entity](https://help.vtex.com/en/tutorial/creating-data-entity--tutorials_1265#how-to-set-up) called *salesassociatecode*.
+2. Create a new [data entity](/en/tutorial/creating-data-entity--tutorials_1265#how-to-set-up) called *salesassociatecode*.
 3. In the new data entity, create the following fields:
     - **Sales associate code**: with a maximum of 10 characters (Varchar10 type).
     - **Email**: sales associate email address (Email type).
@@ -44,14 +44,14 @@ The **sales associate code** field must be added to [Master Data](https://help.v
 
 <blockquote><ui>4. Add the information for each sales associate to the fields you created in the previous step.</ui>
 
-<blockquote><ui>5. Create a [form](https://help.vtex.com/en/tutorial/creating-form-in-master-data--tutorials_1047) to access the information of the new *salesassociatecode* entity through the Master Data interface.</ui>
+<blockquote><ui>5. Create a [form](/en/tutorial/creating-form-in-master-data--tutorials_1047) to access the information of the new *salesassociatecode* entity through the Master Data interface.</ui>
 
 ## Creating a sales associate code promotion
 
 After creating the salesassociatecode entity, you need to link it to a promotion. To create a new promotion, follow the steps below:
 
 1. In the VTEX Admin, go to **Promotions > Promotions**, or type **Promotions** in the search bar at the top of the page.
-2. Create a new [regular promotion](https://help.vtex.com/en/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/2a2D0K85Ahvs4hLnL3Ag7N). Complete the **Promotion overview** and the **To which items will this promotion apply?** fields.
+2. Create a new [regular promotion](/en/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/2a2D0K85Ahvs4hLnL3Ag7N). Complete the **Promotion overview** and the **To which items will this promotion apply?** fields.
 
 > ℹ️ Callout Information: If you want to use the sales associate code field to give a discount on the purchase amount, complete the information in the **What is the type and amount of discount?**.
 

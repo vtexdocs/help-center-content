@@ -19,7 +19,7 @@ SmartCheckout™ V5 permite la compra sin login y contraseña de VTEX (one-click
 
 ### Iframe para pagos con tarjeta
 
-Las formas de pago con tarjeta de crédito, débito y private label (tarjetas emitidas por su marca y aceptadas sólo dentro de su red de tiendas) ahora están aislados en un iframe. Esto hace que la personalización de JavaScript sea imposible, lo que aumenta la seguridad de su tienda. Para obtener más información sobre la protección de datos, visite [Seguridad de SmartCheckout](https://help.vtex.com/es/tutorial/seguranca-do-smartcheckout--3SrJuuhrqwePUg1rp1exfB#).
+Las formas de pago con tarjeta de crédito, débito y private label (tarjetas emitidas por su marca y aceptadas sólo dentro de su red de tiendas) ahora están aislados en un iframe. Esto hace que la personalización de JavaScript sea imposible, lo que aumenta la seguridad de su tienda. Para obtener más información sobre la protección de datos, visite [Seguridad de SmartCheckout](/es/tutorial/seguranca-do-smartcheckout--3SrJuuhrqwePUg1rp1exfB#).
 
 Tenga en cuenta que, a pesar de estar en un iframe, todavía es posible aplicar CSS normalmente en el campo. Pero es importante prestar atención al selector CSS utilizado porque, por ser un iframe, debe comenzar con elementos que estén dentro de `#app-container .App` sin, por ejemplo, `#payment-data` o `.payment-group` (que están fuera del iframe).
 

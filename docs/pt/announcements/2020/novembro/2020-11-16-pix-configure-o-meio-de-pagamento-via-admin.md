@@ -33,5 +33,5 @@ Em até 15 minutos, o Pix pode ser disponibilizado como um meio de pagamento par
 
 Certifique-se com o parceiro responsável pelo processamento dos seus pagamentos se a [integração](https://developers.vtex.com/vtex-developer-docs/docs/pix-instant-payments-in-brazil "integração") feita via [Payment Provider Protocol](https://developers.vtex.com/vtex-developer-docs/docs/payment-provider-protocol "Payment Provider Protocol") - protocolo de integração da VTEX - foi realizada corretamente. 
 
-Se a resposta for positiva, o Pix já pode ser configurado. O processo é semelhante aos demais meios de pagamento oferecidos e, para saber mais detalhes, confira nosso tutorial de [como configurar o Pix como meio de pagamento via Admin](https://help.vtex.com/pt/tutorial/configurar-pix-como-meio-de-pagamento--5sbNavMSJY4jyLmLKRHiOf?&utm_source=autocomplete "como configurar o Pix como meio de pagamento via Admin").
+Se a resposta for positiva, o Pix já pode ser configurado. O processo é semelhante aos demais meios de pagamento oferecidos e, para saber mais detalhes, confira nosso tutorial de [como configurar o Pix como meio de pagamento via Admin](/pt/tutorial/configurar-pix-como-meio-de-pagamento--5sbNavMSJY4jyLmLKRHiOf?&utm_source=autocomplete "como configurar o Pix como meio de pagamento via Admin").
 

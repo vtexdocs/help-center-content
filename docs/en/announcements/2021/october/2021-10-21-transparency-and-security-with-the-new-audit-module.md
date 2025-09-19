@@ -28,5 +28,5 @@ Because of this flexibility, Audit has a Guide tab showing more examples of poss
 
 ## **Learn more**
 
-* [Searching for events on Audit](https://help.vtex.com/en/tutorial/searching-for-events-on-audit)
-* [Events available in Audit](https://help.vtex.com/en/tutorial/eventos-disponiveis-no-audit--6r1Mzcu5NmkmmDLJlz9CCZ#)
+* [Searching for events on Audit](/en/tutorial/searching-for-events-on-audit)
+* [Events available in Audit](/en/tutorial/eventos-disponiveis-no-audit--6r1Mzcu5NmkmmDLJlz9CCZ#)

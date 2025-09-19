@@ -21,7 +21,7 @@ My Authentication é uma aba que aparece no painel do My Account dentro da loja 
 
 ## O que muda?
 
-Esta aba é um local onde os usuários serão capazes de gerenciar a sua senha. Na aba também é possível gerenciar as sessões de login, permitindo ao usuário encerrar outras sessões remotamente. Mais detalhes sobre o uso da aba podem ser encontrados na seção [Autenticação do artigo Configurar o My Account](https://help.vtex.com/pt/tutorial/como-funciona-a-minha-conta--2BQ3GiqhqGJTXsWVuio3Xh).
+Esta aba é um local onde os usuários serão capazes de gerenciar a sua senha. Na aba também é possível gerenciar as sessões de login, permitindo ao usuário encerrar outras sessões remotamente. Mais detalhes sobre o uso da aba podem ser encontrados na seção [Autenticação do artigo Configurar o My Account](/pt/tutorial/como-funciona-a-minha-conta--2BQ3GiqhqGJTXsWVuio3Xh).
 
 ![My Authentication app PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2021/julho/2021-07-26-aba-my-authentication-do-my-account_1.png)
 

@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-Na VTEX, é possível suas loja pode realizar vendar por meio do [Boleto Bancário](https://help.vtex.com/pt/tutorial/boleto-bancario-registrado-fluxo-basico-de-um-pagamento--1WlPkeueWQiykUwW8mcM4S). Para configurar o Boleto bancário, siga os passos abaixo:
+Na VTEX, é possível suas loja pode realizar vendar por meio do [Boleto Bancário](/pt/tutorial/boleto-bancario-registrado-fluxo-basico-de-um-pagamento--1WlPkeueWQiykUwW8mcM4S). Para configurar o Boleto bancário, siga os passos abaixo:
 
 1. No Admin VTEX, acesse __Configurações da loja > Pagamentos > Provedores__, ou digite __Provedores__ na barra de busca no topo da página.
 2. Na tela de provedores, clique no botão `Novo provedor`.
@@ -30,7 +30,7 @@ Na VTEX, é possível suas loja pode realizar vendar por meio do [Boleto Bancár
 3. Em __Boleto__, selecione a opção __Boleto Bancário__.
 4. Ative a condição no campo __Status__.
 5. Em __Processar com o provedor__, selecione o provedor configurado anteriormente.
-6. Se desejar, você também pode [Configurar condições especiais de pagamento](https://help.vtex.com/pt/tutorial/condicoes-especiais--tutorials_456).
+6. Se desejar, você também pode [Configurar condições especiais de pagamento](/pt/tutorial/condicoes-especiais--tutorials_456).
 7. Clique em `Salvar`.
 
 Depois de seguir os passos indicados, o Boleto Bancário pode demorar até 10 minutos para aparecer no checkout da sua loja como opção de pagamento.

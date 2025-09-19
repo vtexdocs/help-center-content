@@ -44,5 +44,5 @@ Para las tiendas desarrolladas con VTEX IO, esa funcionalidad está disponible d
 
 ## Artículos relacionados
 
-[Configurar descuento de precio al contado para Google Shopping](https://help.vtex.com/es/tutorial/configurar-descuento-de-precio-al-contado-para-google-shopping--40K3R5d4NogMvCzIWdWt3e#)
+[Configurar descuento de precio al contado para Google Shopping](/es/tutorial/configurar-descuento-de-precio-al-contado-para-google-shopping--40K3R5d4NogMvCzIWdWt3e#)
 

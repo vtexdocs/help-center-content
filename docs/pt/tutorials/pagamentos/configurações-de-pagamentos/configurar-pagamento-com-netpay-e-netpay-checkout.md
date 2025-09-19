@@ -26,8 +26,8 @@ Para configurar NetPay, siga os passos abaixo:
 5. Caso seja exibida uma mensagem de alerta indicando a necessidade de instalação do app, clique no botão `Instalar app` e siga as instruções de instalação.
 6. Clique em `Salvar`.
 
-Para configurar os métodos de pagamento a serem processados pela NetPay, acesse [Condições de Pagamento](https://help.vtex.com/pt/tutorial/condicoes-de-pagamento). 
+Para configurar os métodos de pagamento a serem processados pela NetPay, acesse [Condições de Pagamento](/pt/tutorial/condicoes-de-pagamento). 
 
-Para definir condições especiais sobre os métodos de pagamento, acesse [Configurar condições especiais de Pagamento](https://help.vtex.com/pt/tutorial/condicoes-especiais--tutorials_456#).
+Para definir condições especiais sobre os métodos de pagamento, acesse [Configurar condições especiais de Pagamento](/pt/tutorial/condicoes-especiais--tutorials_456#).
 
 Depois de seguir os passos indicados, NetPay pode demorar até 10 minutos para aparecer no checkout da sua loja como uma opção de pagamento. 

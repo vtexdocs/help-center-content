@@ -53,7 +53,7 @@ Nenhuma ação é necessária, as melhorias são aplicadas automaticamente aos n
 
 Para mais informações, acesse as seguintes documentações:
 
-- [Compre Junto](https://help.vtex.com/pt/tutorial/compre-junto--tutorials_323)
-- [Compre e Ganhe](https://help.vtex.com/pt/tutorial/compre-e-ganhe--tutorials_322)
-- [Desconto progressivo](https://help.vtex.com/pt/tutorial/desconto-progressivo--tutorials_324)
-- [Leve Mais por Menos](https://help.vtex.com/pt/tutorial/leve-mais-por-menos--tutorials_325)
+- [Compre Junto](/pt/tutorial/compre-junto--tutorials_323)
+- [Compre e Ganhe](/pt/tutorial/compre-e-ganhe--tutorials_322)
+- [Desconto progressivo](/pt/tutorial/desconto-progressivo--tutorials_324)
+- [Leve Mais por Menos](/pt/tutorial/leve-mais-por-menos--tutorials_325)

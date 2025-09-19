@@ -33,5 +33,5 @@ By displaying pickup points on the map, we help customers visually recognize the
 ## What you need to do
 Install the app from the[ VTEX App Store](https://apps.vtex.com/vtex-store-locator/p#overview) and follow the instructions in[ this documentation](https://developers.vtex.com/vtex-developer-docs/docs/vtex-store-locator) to set it up. Remember that, previously, you must add the pickup locations in your store.
 
-To learn more about pickup points, read our article on[ How to configure Pickup Points](https://help.vtex.com/en/tutorial/adding-pickup-points--2R5ClQiwe4KoSQgsuiOw4E).
+To learn more about pickup points, read our article on[ How to configure Pickup Points](/en/tutorial/adding-pickup-points--2R5ClQiwe4KoSQgsuiOw4E).
 

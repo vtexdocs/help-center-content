@@ -15,9 +15,9 @@ locale: es
 subcategoryId: 4HBbKdnwneGew2qGGykSM8
 ---
 
-La página SKUs recibidos permite al [marketplace](https://help.vtex.com/es/tutorial/visao-geral-marketplace--40Zd0z9h2RXsM9uMUp3kEb) ver, priorizar y catalogar los ítems enviados por sus sellers. Esto posibilita la creación de nuevos productos y su asociación con SKU o productos ya existentes para ponerlos a disposición para la venta. Accede a la página a través del Admin VTEX en **Marketplace > SKUs recibidos**  o ingresa **SKUs recibidos** en la barra de búsqueda del Admin.  
+La página SKUs recibidos permite al [marketplace](/es/tutorial/visao-geral-marketplace--40Zd0z9h2RXsM9uMUp3kEb) ver, priorizar y catalogar los ítems enviados por sus sellers. Esto posibilita la creación de nuevos productos y su asociación con SKU o productos ya existentes para ponerlos a disposición para la venta. Accede a la página a través del Admin VTEX en **Marketplace > SKUs recibidos**  o ingresa **SKUs recibidos** en la barra de búsqueda del Admin.  
 
-La catalogación puede realizarse de forma manual o automática, [mediante uno o varios matchers](https://help.vtex.com/es/tutorial/entendendo-a-pontuacao-do-vtex-matcher?locale=pt), y también mediante [autoApprove](https://developers.vtex.com/docs/api-reference/marketplace-apis-suggestions/#put-/suggestions/configuration/autoapproval/toggle). También existe la posibilidad de utilizar herramientas externas para realizar esta operación.  
+La catalogación puede realizarse de forma manual o automática, [mediante uno o varios matchers](/es/tutorial/entendendo-a-pontuacao-do-vtex-matcher?locale=pt), y también mediante [autoApprove](https://developers.vtex.com/docs/api-reference/marketplace-apis-suggestions/#put-/suggestions/configuration/autoapproval/toggle). También existe la posibilidad de utilizar herramientas externas para realizar esta operación.  
 
 En este artículo encontrarás una visión general sobre la [Estructura de la página](#estructura-de-la-pagina), [Priorizar la catalogación](#priorizar-la-catalogacion) y [Catalogación de ítems](#catalogacion-de-items).  
 
@@ -121,7 +121,7 @@ En este caso, los ítems se ordenarán de forma ascendente o descendente al hace
 
 ## Catalogación de ítems  
 
-Todos los SKU que se muestran en la lista ya están disponibles para catalogación. No obstante, se recomienda realizar el [mapeo de categorías y marcas](https://help.vtex.com/es/tutorial/mapeamento-de-categorias-e-marcas-para-marketplace-vtex-beta--6NU8LwR6i0tTb8nk30bnbE) antes de este paso para agilizar el proceso de catalogación.  
+Todos los SKU que se muestran en la lista ya están disponibles para catalogación. No obstante, se recomienda realizar el [mapeo de categorías y marcas](/es/tutorial/mapeamento-de-categorias-e-marcas-para-marketplace-vtex-beta--6NU8LwR6i0tTb8nk30bnbE) antes de este paso para agilizar el proceso de catalogación.  
 
 > ⚠️ Los anuncios de la pestaña Pendientes permanecen disponibles solamente durante 30 días. Pasado este periodo, expiran automáticamente y el seller tendrá que volver a enviarlos.  
 

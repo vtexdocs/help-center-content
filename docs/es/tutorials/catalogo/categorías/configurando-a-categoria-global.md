@@ -27,7 +27,7 @@ Adoptamos esa taxonomía porque es ampliamente aplicable a cualquier contexto, y
 
 Se utiliza, por ejemplo, como referencia para la integración de productos con Amazon, Buscapé y marketplaces.
 
-> ℹ️ El comportamiento predeterminado de nuestra integración con Google Shopping es **no enviar** esta información. Por lo tanto, la mayoría de las tiendas se basan en la propia categorización automática de Google. Si prefiere la categorización manual, [contacte nuestro soporte](https://help.vtex.com/es/tutorial/abrir-tikets-para-el-soporte-vtex--16yOEqpO32UQYygSmMSSAM).
+> ℹ️ El comportamiento predeterminado de nuestra integración con Google Shopping es **no enviar** esta información. Por lo tanto, la mayoría de las tiendas se basan en la propia categorización automática de Google. Si prefiere la categorización manual, [contacte nuestro soporte](/es/tutorial/abrir-tikets-para-el-soporte-vtex--16yOEqpO32UQYygSmMSSAM).
 
 ### ¿Cuándo se aplica?
 
@@ -45,7 +45,7 @@ __Ejemplo__: si su tienda tiene una categoría "Placas base", lo ideal es elegir
 
 ### Cómo configurar la categoría global?
 
-En el [Catálogo de VTEX](https://help.vtex.com/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ), la categoría global utilizada sigue [lista de todas las categorías de productos Google](https://support.google.com/merchants/answer/6324436?hl=es). Adoptamos este estándar porque se aplica a numerosos contextos, lo que facilita la categorización de productos de varios segmentos en una sola estructura.
+En el [Catálogo de VTEX](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ), la categoría global utilizada sigue [lista de todas las categorías de productos Google](https://support.google.com/merchants/answer/6324436?hl=es). Adoptamos este estándar porque se aplica a numerosos contextos, lo que facilita la categorización de productos de varios segmentos en una sola estructura.
 
 Es necesario definir una categoría global. **Se aplica principalmente en la integración de una tienda con canales de venta externos.** Actualmente, VTEX utiliza este tipo de categoría solo para el conector de integración con Amazon.
 
@@ -68,4 +68,4 @@ La configuración global de la categoría se realiza en el Admin y es obligatori
 7. Escriba el nombre de la categoría que desea encontrar y haga clic en el ícono <i class="fas fa-search"></i>. Puede utilizar el campo de búsqueda para encontrar la categoría deseada. 
 8. Haga clic en la categoría deseada para seleccionarla y, a continuación, haga clic en el botón `Guardar`. 
 
-> ℹ️ La categoría global también se puede configurar a través de [XML](https://help.vtex.com/es/tutorial/configuring-xml--tutorials_242).
+> ℹ️ La categoría global también se puede configurar a través de [XML](/es/tutorial/configuring-xml--tutorials_242).

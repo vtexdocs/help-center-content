@@ -30,7 +30,7 @@ Sempre que um produto tem mudança de status ou alteração de informações, é
 - Criação ou remoção de coleção
 - Mudança de preço ou na quantidade de estoque
 
-> ℹ️ Para mais detalhes sobre a indexação de um produto em lojas [legado](https://help.vtex.com/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj), acesse [Como funciona a indexação - CMS Portal Legado](https://help.vtex.com/pt/tutorial/entendendo-o-funcionamento-da-indexacao--tutorials_256). Se a sua loja utiliza o [Intelligent Search](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG), verifique o [Histórico da indexação - Intelligent Search](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4flMwTaQL8FRKl1YT58ezH).
+> ℹ️ Para mais detalhes sobre a indexação de um produto em lojas [legado](/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj), acesse [Como funciona a indexação - CMS Portal Legado](/pt/tutorial/entendendo-o-funcionamento-da-indexacao--tutorials_256). Se a sua loja utiliza o [Intelligent Search](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG), verifique o [Histórico da indexação - Intelligent Search](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4flMwTaQL8FRKl1YT58ezH).
 
 Em determinadas situações, a indexação é interrompida durante o processo e as informações mais atualizadas do produto não são exibidas no site da loja. Veja abaixo alguns cenários em que esta interrupção pode acontecer:
 
@@ -61,19 +61,19 @@ Erros no cadastro de um produto podem gerar inconsistências no momento de reali
 
 1. No Admin VTEX, acesse **Catálogo > Todos os produtos**.  
 
-   > ⚠️ Lojas que utilizam a página **Produtos e SKUS (Beta)** devem verificar os campos de cadastro do produto acessando **Catálogo > Produtos e SKUS** no Admin VTEX. Saiba mais em [Produtos e SKUS (Beta)](https://help.vtex.com/pt/tutorial/products-and-skus-beta--2ig7TmROlirWirZjFWZ3By).
+   > ⚠️ Lojas que utilizam a página **Produtos e SKUS (Beta)** devem verificar os campos de cadastro do produto acessando **Catálogo > Produtos e SKUS** no Admin VTEX. Saiba mais em [Produtos e SKUS (Beta)](/pt/tutorial/products-and-skus-beta--2ig7TmROlirWirZjFWZ3By).
 
 2. Localize o produto desejado e clique em **EDITAR**.  
 
-3. Verifique se as informações de todos os [campos de cadastro](https://help.vtex.com/pt/tutorial/campos-de-cadastro-de-produto--4dYXWIK3zyS8IceKkQseke) estão corretas. Se necessário, atualize as informações e clique em Salvar.  
+3. Verifique se as informações de todos os [campos de cadastro](/pt/tutorial/campos-de-cadastro-de-produto--4dYXWIK3zyS8IceKkQseke) estão corretas. Se necessário, atualize as informações e clique em Salvar.  
 
 4. Acesse o relatório de indexação em **Catálogo > Relatórios** e verifique se o produto está na fila de indexação ou já foi indexado.
 
 ### Verificação de informações de binding na conta
 
-Quando a conta possui [mais de uma loja](https://help.vtex.com/pt/tutorial/gerenciando-uma-multiloja--4S0lFVBPylRS5KpVgdyDhJ), é necessário realizar o processo de [binding](https://help.vtex.com/pt/tutorial/o-que-e-binding--4NcN3NJd0IeYccgWCI8O2W), que consiste em vincular o website e as políticas comerciais aplicáveis a cada uma das lojas. Se um produto estiver relacionado a uma política comercial que não está presente no binding da conta, podem ocorrer erros de indexação.
+Quando a conta possui [mais de uma loja](/pt/tutorial/gerenciando-uma-multiloja--4S0lFVBPylRS5KpVgdyDhJ), é necessário realizar o processo de [binding](/pt/tutorial/o-que-e-binding--4NcN3NJd0IeYccgWCI8O2W), que consiste em vincular o website e as políticas comerciais aplicáveis a cada uma das lojas. Se um produto estiver relacionado a uma política comercial que não está presente no binding da conta, podem ocorrer erros de indexação.
 
-Para identificar as políticas comerciais associadas a cada uma das lojas de sua conta, acesse [Vincular uma loja a uma estrutura de pastas do CMS (binding)](https://help.vtex.com/pt/tutorial/vincular-um-account-name-a-um-website-binding--PxjfleOw6suCSO2uGWMMs).
+Para identificar as políticas comerciais associadas a cada uma das lojas de sua conta, acesse [Vincular uma loja a uma estrutura de pastas do CMS (binding)](/pt/tutorial/vincular-um-account-name-a-um-website-binding--PxjfleOw6suCSO2uGWMMs).
 
 ### Modificação das políticas comerciais do produto
 
@@ -81,7 +81,7 @@ Quando um produto possui diversas políticas associadas a ele, as diversas itera
 
 Exemplo: se um produto possui 5 SKUs ativos em 5 políticas comerciais diferentes, serão necessárias 25 validações de disponibilidade de estoque, regras de preço e promoções. 
 
-Para evitar este cenário, verifique a possibilidade de utilizar uma mesma política comercial para marketplaces diferentes, como descrito em [Configurar política comercial para marketplace](https://help.vtex.com/pt/tutorial/configurando-a-politica-comercial-para-marketplace--tutorials_404).  
+Para evitar este cenário, verifique a possibilidade de utilizar uma mesma política comercial para marketplaces diferentes, como descrito em [Configurar política comercial para marketplace](/pt/tutorial/configurando-a-politica-comercial-para-marketplace--tutorials_404).  
 
 > ⚠️ Caso seja possível reduzir o número de políticas comerciais em sua loja, acesse novamente o cadastro do produto para modificar a política comercial e verificar o relatório de indexação, como descrito na seção **Verificação dos campos de cadastro do produto**.
 
@@ -95,9 +95,9 @@ Após reorganizar a quantidade de SKUs por produto, verifique o relatório de in
 
 ### Remoção do SKU de coleções  
 
-> ℹ️ Existem duas formas de remover o SKU de uma coleção: por meio do [Portal CMS Legado](https://help.vtex.com/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj) ou utilizando o módulo **Coleções (Beta)**. Esta seção demonstra como remover o SKU de uma coleção no **Portal CMS Legado**. Para mais informações sobre o procedimento no módulo **Coleções (Beta)**, acesse [Remoção de produtos](https://help.vtex.com/pt/tutorial/cadastrar-colecoes-beta--yJBHqNMViOAnnnq4fyOye#remocao-de-produtos).  
+> ℹ️ Existem duas formas de remover o SKU de uma coleção: por meio do [Portal CMS Legado](/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj) ou utilizando o módulo **Coleções (Beta)**. Esta seção demonstra como remover o SKU de uma coleção no **Portal CMS Legado**. Para mais informações sobre o procedimento no módulo **Coleções (Beta)**, acesse [Remoção de produtos](/pt/tutorial/cadastrar-colecoes-beta--yJBHqNMViOAnnnq4fyOye#remocao-de-produtos).  
 
-Caso algum dos SKUs do produto faça parte de uma [coleção](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/4hN41yU8IPeb8HKmmaXoca), também é possível que ocorra o tempo limite de espera para indexação. Para verificar se o SKU faz parte de uma ou mais coleções, siga os passos abaixo:  
+Caso algum dos SKUs do produto faça parte de uma [coleção](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/4hN41yU8IPeb8HKmmaXoca), também é possível que ocorra o tempo limite de espera para indexação. Para verificar se o SKU faz parte de uma ou mais coleções, siga os passos abaixo:  
 
 1. No Admin VTEX, acesse __Storefront > Layout__.
 2. Clique na pasta __CMS__ e em __Product Cluster (Collections)__.
@@ -110,11 +110,11 @@ Caso algum dos SKUs do produto faça parte de uma [coleção](https://help.vtex.
 
 A reindexação completa da base de produtos pode ser realizada para atualizar as informações de todos os produtos na loja ao mesmo tempo.
 
-Para lojas com menos de 100 mil produtos cadastrados no catálogo, o [usuário titular](https://help.vtex.com/pt/tutorial/o-que-e-o-usuario-master--3oPr7YuIkEYqUGmEqIMSEy) da conta pode utilizar a função __Agendar reindexação completa__ no Admin VTEX.
+Para lojas com menos de 100 mil produtos cadastrados no catálogo, o [usuário titular](/pt/tutorial/o-que-e-o-usuario-master--3oPr7YuIkEYqUGmEqIMSEy) da conta pode utilizar a função __Agendar reindexação completa__ no Admin VTEX.
 
-Contas com 100 mil produtos ou mais cadastrados devem entrar em contato com o [Suporte da VTEX](https://help.vtex.com/pt/faq/como-funciona-o-suporte-da-vtex--3kACEfni4m8Yxa1vnf2ebe) para realizar este tipo de operação.
+Contas com 100 mil produtos ou mais cadastrados devem entrar em contato com o [Suporte da VTEX](/pt/faq/como-funciona-o-suporte-da-vtex--3kACEfni4m8Yxa1vnf2ebe) para realizar este tipo de operação.
 
-Saiba mais em [Manutenção de base (full cleanup)](https://help.vtex.com/pt/tutorial/manutencao-de-base-full-cleanup--34P9LGs7BCIQK6acQom802).
+Saiba mais em [Manutenção de base (full cleanup)](/pt/tutorial/manutencao-de-base-full-cleanup--34P9LGs7BCIQK6acQom802).
 
 ![Agendar reindexação completa](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/troubleshooting/opera%C3%A7%C3%B5es-da-loja/nao-consigo-indexar-um-produto-do-catalogo_1.png)  
 

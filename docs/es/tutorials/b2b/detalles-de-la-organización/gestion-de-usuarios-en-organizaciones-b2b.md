@@ -41,7 +41,7 @@ Para agregar un nuevo usuario a la organización, sigue estos pasos:
             <li>**Email:** email del usuario.</li>
             <li>**Organización:** nombre de la organización.</li>
             <li>**Centro de costos:** centro de costo al que se asociará el usuario.</li>
-            <li>**Rol:** rol del usuario en la tienda virtual. Consulta más detalles sobre los roles disponibles en [Gestionar permisos en B2B Suite](https://help.vtex.com/es/tutorial/gerenciamento-de-permissoes-no-b2b-suite--2PLR7mIFxgbmsGq84paLeA).</li>
+            <li>**Rol:** rol del usuario en la tienda virtual. Consulta más detalles sobre los roles disponibles en [Gestionar permisos en B2B Suite](/es/tutorial/gerenciamento-de-permissoes-no-b2b-suite--2PLR7mIFxgbmsGq84paLeA).</li>
         </ul>
     </li>
     <li>Haz clic en `Guardar`.</li>

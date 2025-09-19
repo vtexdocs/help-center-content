@@ -19,7 +19,7 @@ En la página de Vista general del Admin VTEX los propietarios de las tiendas pu
 
 ![Store Overview gif ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/dashboards/dashboards-en-el-admin-vtex/vista-general-de-la-tienda_1.gif)
 
-La página Vista General proporciona un resumen de su negocio con VTEX. Para un análisis más profundo de las métricas de su tienda, visite [Desenpeño de ventas](https://help.vtex.com/es/v4/docs/performance-de-vendas--6gx46RGRzWO8qgaVck7PRp).
+La página Vista General proporciona un resumen de su negocio con VTEX. Para un análisis más profundo de las métricas de su tienda, visite [Desenpeño de ventas](/es/v4/docs/performance-de-vendas--6gx46RGRzWO8qgaVck7PRp).
 
 ## Datos
 

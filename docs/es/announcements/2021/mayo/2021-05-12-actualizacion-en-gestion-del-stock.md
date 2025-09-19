@@ -39,5 +39,5 @@ No se requiere ningún cambio para poder utilizar la actualización, y estará d
 
 El proceso de actualización está en marcha desde octubre de 2020, y las cuentas que ya utilizan esta nueva funcionalidad, así como las cuentas elegibles para la actualización, perderán el acceso al antiguo «Inventario» y solo tendrán acceso a «Gestión del stock». Únicamente las cuentas que no tengan el Admin VTEX actualizado seguirán teniendo acceso a la antigua pantalla de «Inventario».
 
-Consulte nuestra documentación sobre la nueva pantalla de «[Gestión del stock](https://help.vtex.com/es/tutorial/gerenciar-itens-em-estoque)» para obtener más información.
+Consulte nuestra documentación sobre la nueva pantalla de «[Gestión del stock](/es/tutorial/gerenciar-itens-em-estoque)» para obtener más información.
 

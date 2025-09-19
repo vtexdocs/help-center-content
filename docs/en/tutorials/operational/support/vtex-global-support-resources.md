@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 1yB08KlKzqJOdc0bn38HaY
 ---
 
-This document presents the availability, service SLAs, and additional support resources offered by VTEX. Learn more about VTEX Support in [How does VTEX Support work?](https://help.vtex.com/en/faq/como-funciona-o-suporte-da-vtex--3kACEfni4m8Yxa1vnf2ebe). 
+This document presents the availability, service SLAs, and additional support resources offered by VTEX. Learn more about VTEX Support in [How does VTEX Support work?](/en/faq/como-funciona-o-suporte-da-vtex--3kACEfni4m8Yxa1vnf2ebe). 
 
 ## SLA service availability
 
@@ -66,7 +66,7 @@ Urgent tickets report critical issues with direct impact on sales. The following
 | Unable to fulfill orders | Order status not being updated Order feed or hook not working |
 | Store usability unavailable | Users can't add items to the cart Users can't register on the site Internal search with no response |
 
-> ⚠️ Urgent tickets will receive emergency support exclusively via [Zendesk](https://help.vtex.com/en/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM).
+> ⚠️ Urgent tickets will receive emergency support exclusively via [Zendesk](/en/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM).
 
 ## Ticket priority classification
 

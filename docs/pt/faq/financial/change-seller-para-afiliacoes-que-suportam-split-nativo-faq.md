@@ -16,9 +16,9 @@ legacySlug: change-seller-para-afiliacoes-que-suportam-split-nativo-faq
 
 Durante o processo de compra em um Marketplace, pode ocorrer a necessidade de alteração de seller - quem entrega o produto ao consumidor final. Um dos motivos mais comuns é a falta de estoque, o que acaba acarretando no cancelamento da venda.
 
-Com a funcionalidade de __Change seller__ para marketplaces com afiliações que suportam split de pagamentos, é possível fazer a [alteração do seller](https://help.vtex.com/pt/tutorial/veja-como-utilizar-o-change-seller--5TBAwO2kOAMw44uyaaQMQO?&utm_source=autocomplete) e garantir que a venda seja efetivada, evitando reembolsos de pagamento e burocracias desnecessárias.
+Com a funcionalidade de __Change seller__ para marketplaces com afiliações que suportam split de pagamentos, é possível fazer a [alteração do seller](/pt/tutorial/veja-como-utilizar-o-change-seller--5TBAwO2kOAMw44uyaaQMQO?&utm_source=autocomplete) e garantir que a venda seja efetivada, evitando reembolsos de pagamento e burocracias desnecessárias.
 
-Acesse o artigo [Afiliações com split nativo e alteração de seller](https://help.vtex.com/pt/announcements/afiliacoes-com-split-nativo-e-alteracao-de-seller?utm_source=newsletter-pt&utm_medium=email-text&utm_campaign=jan-2021%0A%0A), para mais detalhes sobre o funcionamento da solução, e caso tenha interesse em saber como utilizá-la, confira o tutorial [Como usar o Change Seller](https://help.vtex.com/pt/tutorial/veja-como-utilizar-o-change-seller--5TBAwO2kOAMw44uyaaQMQO?&utm_source=autocomplete).
+Acesse o artigo [Afiliações com split nativo e alteração de seller](/pt/announcements/afiliacoes-com-split-nativo-e-alteracao-de-seller?utm_source=newsletter-pt&utm_medium=email-text&utm_campaign=jan-2021%0A%0A), para mais detalhes sobre o funcionamento da solução, e caso tenha interesse em saber como utilizá-la, confira o tutorial [Como usar o Change Seller](/pt/tutorial/veja-como-utilizar-o-change-seller--5TBAwO2kOAMw44uyaaQMQO?&utm_source=autocomplete).
 
 Abaixo compilamos as principais dúvidas que podem surgir quanto ao change seller.
 
@@ -115,7 +115,7 @@ Sendo assim, apesar do preço para o seller Japacoin ser de R$ 0,04, o valor div
 
 Durante o processo de change seller, o marketplace pode utilizar a API para simulação de carrinho. 
 
-Com a informação dos sellers em mãos, você pode simular carrinhos para verificar a disponibilidade dos produtos. Para mais informações, confira este tutorial do nosso Help Center - [Como usar o Change Seller](https://help.vtex.com/pt/tutorial/veja-como-utilizar-o-change-seller--5TBAwO2kOAMw44uyaaQMQO?&utm_source=autocomplete).
+Com a informação dos sellers em mãos, você pode simular carrinhos para verificar a disponibilidade dos produtos. Para mais informações, confira este tutorial do nosso Help Center - [Como usar o Change Seller](/pt/tutorial/veja-como-utilizar-o-change-seller--5TBAwO2kOAMw44uyaaQMQO?&utm_source=autocomplete).
 
 Durante a etapa de simulação você pode verificar o preço dos produtos e do frete no novo seller para decidir se quer optar pela troca de seller.
 

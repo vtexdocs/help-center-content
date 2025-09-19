@@ -17,7 +17,7 @@ subcategoryId: 3xpuy7xGlzKKg6vxqiExZ2
 
 > ⚠️ This app is only available for stores developed using[ VTEX IO](https://vtex.com/br-pt/store-framework/). Before proceeding, you need to [install and configure Product Customizer](https://developers.vtex.com/vtex-developer-docs/docs/vtex-product-customizer) in your store.
 
-Product customization options are available at VTEX when using [Assembly Options](https://help.vtex.com/en/tutorial/assembly-options--5x5FhNr4f5RUGDEGWzV1nH). This solution helps create [attachments](https://help.vtex.com/en/tutorial/what-is-an-attachment--aGICk0RVbqKg6GYmQcWUm) for complex scenarios in which you need to manage different product combinations, quantities, additional items and costs.
+Product customization options are available at VTEX when using [Assembly Options](/en/tutorial/assembly-options--5x5FhNr4f5RUGDEGWzV1nH). This solution helps create [attachments](/en/tutorial/what-is-an-attachment--aGICk0RVbqKg6GYmQcWUm) for complex scenarios in which you need to manage different product combinations, quantities, additional items and costs.
 
 As an alternative to implementing Assembly Options through Catalog attachments, the [Assembly Options app](https://apps.vtex.com/vtex-admin-assembly-options/p) provides an interface to configure and manage customization options in stores using [VTEX IO](https://vtex.com/br-pt/store-framework/).
 
@@ -25,7 +25,7 @@ As an alternative to implementing Assembly Options through Catalog attachments, 
 
 You can install the app for free from the [VTEX App Store](https://apps.vtex.com/vtex-admin-assembly-options/p) or via [VTEX IO CLI](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-vtex-io-cli-installation-and-command-reference) by following the steps in the [Assembly Options guide for developers](https://developers.vtex.com/vtex-developer-docs/docs/assembly-options-app).
 
-> ⚠️ If you install the Assembly Options app in a [seller account](https://help.vtex.com/en/tutorial/what-is-a-seller--5FkLvhZ3Few4CWWIuYOK2w), the product customization options will be displayed to your customers at checkout. If you want the options to be displayed in the product page, you need to install the app in a [marketplace account](https://help.vtex.com/en/tutorial/what-is-a-marketplace--680lLJTnmEAmekcC0MIea8).
+> ⚠️ If you install the Assembly Options app in a [seller account](/en/tutorial/what-is-a-seller--5FkLvhZ3Few4CWWIuYOK2w), the product customization options will be displayed to your customers at checkout. If you want the options to be displayed in the product page, you need to install the app in a [marketplace account](/en/tutorial/what-is-a-marketplace--680lLJTnmEAmekcC0MIea8).
 
 After installation, the **Catalog > Assembly Options** page will become available in the VTEX Admin. Below, you will find the app’s available features.
 
@@ -37,11 +37,11 @@ In the VTEX Admin, go to **Catalog > Assembly Options** to access a list with al
 
 Below, you will find the information displayed in the list:
 
-* **ID:** Shows the assembly option ID, which is the same as the [attachment](https://help.vtex.com/en/tutorial/what-is-an-attachment--aGICk0RVbqKg6GYmQcWUm) ID in the **Catalog**.
+* **ID:** Shows the assembly option ID, which is the same as the [attachment](/en/tutorial/what-is-an-attachment--aGICk0RVbqKg6GYmQcWUm) ID in the **Catalog**.
 * **Name:** Indicates the name of the assembly option's attachment.
 * **Required:** If it is marked with a <i class="far fa-check-circle"></i>, this column indicates that the assembly option attachment is required. If this field is empty, no action is needed.
 * **Status:** It indicates the assembly option status, which can be either:
-    * **Active**: It means that the customization options are active; therefore, they’ll appear in your store if they’re [associated with a SKU](https://help.vtex.com/en/tutorial/adding-an-attachment--7zHMUpuoQE4cAskqEUWScU#associating-the-attachment-with-a-sku).
+    * **Active**: It means that the customization options are active; therefore, they’ll appear in your store if they’re [associated with a SKU](/en/tutorial/adding-an-attachment--7zHMUpuoQE4cAskqEUWScU#associating-the-attachment-with-a-sku).
     * **Inactive**: The customization options are inactive; therefore, they cannot be chosen.
 * **Menu** <i class="fas fa-ellipsis-v"></i>: It shows the options available:
     * <i class="far fa-pencil"></i> **Edit**: Provides access to the edit page of the assembly option.
@@ -79,9 +79,9 @@ The **Products > Assembly Options > New Assembly Options** page contains a form 
 
 When you save an assembly option, an attachment is automatically created in **Catalog > Attachments** with the prefix `vtex.assembly-option.` added to the name of the assembly option created. For example: `vtex.assembly-option.Ingredients`.
 
-> ⚠️ For the customization options created in **Assembly Options** to appear in the storefront, you will need to associate the attachment created with a SKU in **Catalog > Products and SKUs > Advanced settings > Attachments**. To do so, follow the steps described in [Associating the attachment with a SKU](https://help.vtex.com/en/tutorial/adding-an-attachment--7zHMUpuoQE4cAskqEUWScU#associating-the-attachment-with-a-sku).
+> ⚠️ For the customization options created in **Assembly Options** to appear in the storefront, you will need to associate the attachment created with a SKU in **Catalog > Products and SKUs > Advanced settings > Attachments**. To do so, follow the steps described in [Associating the attachment with a SKU](/en/tutorial/adding-an-attachment--7zHMUpuoQE4cAskqEUWScU#associating-the-attachment-with-a-sku).
 
 ## Learn more
 
-* [Assembly Options](https://help.vtex.com/en/tutorial/assembly-options--5x5FhNr4f5RUGDEGWzV1nH)
-* [What is an Attachment?](https://help.vtex.com/en/tutorial/what-is-an-attachment--aGICk0RVbqKg6GYmQcWUm)
+* [Assembly Options](/en/tutorial/assembly-options--5x5FhNr4f5RUGDEGWzV1nH)
+* [What is an Attachment?](/en/tutorial/what-is-an-attachment--aGICk0RVbqKg6GYmQcWUm)

@@ -15,16 +15,16 @@ trackSlugEN: integracao-com-a-casas-bahia-marketplace
 order: 8
 ---
 
-O cadastro da garantia da Casas Bahia Marketplace é obrigatório para algumas [categorias do produto](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf) na plataforma VTEX. Estas categorias de produto são identificáveis na planilha de referência da Casas Bahia Marketplace pela presença do atributo `Garantia` na coluna **Nome do atributo**.
+O cadastro da garantia da Casas Bahia Marketplace é obrigatório para algumas [categorias do produto](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf) na plataforma VTEX. Estas categorias de produto são identificáveis na planilha de referência da Casas Bahia Marketplace pela presença do atributo `Garantia` na coluna **Nome do atributo**.
 
-O cadastro da garantia é feito através de uma [especificação de produto](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP#especificacao-de-produto) com o nome específico: `viavarejogarantia`. Não é necessário incluir o atributo Garantia na planilha de mapeamento da Casas Bahia Marketplace - a especificação `viavarejogarantia` é enviada diretamente para o marketplace.
+O cadastro da garantia é feito através de uma [especificação de produto](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP#especificacao-de-produto) com o nome específico: `viavarejogarantia`. Não é necessário incluir o atributo Garantia na planilha de mapeamento da Casas Bahia Marketplace - a especificação `viavarejogarantia` é enviada diretamente para o marketplace.
 
 Para cadastrar a garantia, siga os passos a seguir:
 
-1. [Criar um grupo de categoria](https://help.vtex.com/pt/tutorial/criando-grupo-de-categoria--tutorials_246) na categoria principal. 
+1. [Criar um grupo de categoria](/pt/tutorial/criando-grupo-de-categoria--tutorials_246) na categoria principal. 
     - Dessa forma, suas subcategorias poderão herdá-lo. Orientamos que preencha com o nome `Via Marketplace`.
 
-2. [Cadastrar uma especificação de produto](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/4fcdmJzQ6QYA9zWf3bLWin). 
+2. [Cadastrar uma especificação de produto](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/4fcdmJzQ6QYA9zWf3bLWin). 
      - Preencha os seguintes campos de acordo com suas respectivas orientações:
    * **Nome:** preencha com `viavarejogarantia`.
    * **Texto:** preencha com `Garantia Via Marketplace`.
@@ -32,6 +32,6 @@ Para cadastrar a garantia, siga os passos a seguir:
    * **Grupo:** sugerimos selecionar o grupo que foi criado chamado `Casas Bahia Marketplace`.
    * **Ativo:** Marque a caixinha.
 
-Com a especificação `viavarejogarantia` disponível para todos os produtos da categoria selecionada, será possível [vincular valores a essa especificação](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/4fcdmJzQ6QYA9zWf3bLWin#vincular-as-especificacoes-a-um-produto). Esse valor será o tempo de garantia em meses que serão oferecidos na Casas Bahia Marketplace, digite um valor numérico entre 1 e 60.
+Com a especificação `viavarejogarantia` disponível para todos os produtos da categoria selecionada, será possível [vincular valores a essa especificação](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/4fcdmJzQ6QYA9zWf3bLWin#vincular-as-especificacoes-a-um-produto). Esse valor será o tempo de garantia em meses que serão oferecidos na Casas Bahia Marketplace, digite um valor numérico entre 1 e 60.
 
 Feito isso, a garantia estará configurada em seus produtos e eles estarão disponíveis para venda no marketplace.

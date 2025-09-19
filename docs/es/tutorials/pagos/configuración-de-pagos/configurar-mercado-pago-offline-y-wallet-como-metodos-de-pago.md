@@ -16,12 +16,12 @@ subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
 Mercado Pago cuenta con algunos métodos de pago exclusivos, entre los que podemos destacar:
-- __Mercado Pago Offline__: permite el uso de [pagos offline disponibles en América Latina](https://help.vtex.com/es/tutorial/what-offline-payment-conditions-are-available-in-latin-america--2lXPwiH6KcsSMuWaoigueq#).
+- __Mercado Pago Offline__: permite el uso de [pagos offline disponibles en América Latina](/es/tutorial/what-offline-payment-conditions-are-available-in-latin-america--2lXPwiH6KcsSMuWaoigueq#).
 - __Mercado Pago Wallet__: cartera digital que te permite pagar con los créditos de tu cuenta de Mercado Pago.
 
 Para utilizar las soluciones de Mercado Pago, comuníquese con VTEX y solicite la instalación de la aplicación “Mercado Pago Payment APP”. Si la aplicación no está instalada, su cliente no ve la pantalla emergente para completar la compra al final de la transacción.
 
-Asimismo, asegúrese de que los subadquirentes [MercadoPagoV1](https://help.vtex.com/es/tutorial/configurar-o-subadquirente-mercadopagov1#) ou [MercadoPagoV2](https://help.vtex.com/es/tutorial/configurar-o-subadquirente-mercadopagov2) están registrados en su tienda.
+Asimismo, asegúrese de que los subadquirentes [MercadoPagoV1](/es/tutorial/configurar-o-subadquirente-mercadopagov1#) ou [MercadoPagoV2](/es/tutorial/configurar-o-subadquirente-mercadopagov2) están registrados en su tienda.
 
 ## Configurar el Mercado Pago Offline
 
@@ -45,7 +45,7 @@ Para configurar Mercado Pago Offline, siga estos pasos:
 <br>
   <li>Si opta por utilizar la función antifraude, habilite la opción **Usando Antifraude** y elija una de las opciones antifraude disponibles.</li>
   <br>
-  <li>También tiene la opción de [configurar condiciones especiales de pago](https://help.vtex.com/es/tutorial/condicoes-especiais).</li>
+  <li>También tiene la opción de [configurar condiciones especiales de pago](/es/tutorial/condicoes-especiais).</li>
   <br>
   <li>Haga clic en **Salva**.</li>
 </ol>
@@ -62,7 +62,7 @@ Para configurar Mercado Pago Wallet, siga estos pasos:
 5. Haga clic en el botón __Status__ para activar la regra.
 6. En __Processar con la afiliación__, seleccione una de las opções: _MercadoPagoV1_ ou _MercadoPagoV2_.
 7. Si opta por utilizar la función antifraude, habilite la opción __Usando Antifraude__ y elija una de las opciones antifraude disponibles.
-8. También tiene la opción de [configurar condiciones especiales de pago](https://help.vtex.com/es/tutorial/condicoes-especiais#).
+8. También tiene la opción de [configurar condiciones especiales de pago](/es/tutorial/condicoes-especiais#).
 9. Haga clic en __Salva__.
 
 Una vez que se completen todas las configuraciones, espere hasta 10 minutos para que aparezcan la opción  MercadoPagoWallet en el checkout.

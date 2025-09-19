@@ -50,7 +50,7 @@ Remember to save your changes before you search or change pages.
 The next step is to add the content by selecting **Add Content**.
 ![coleção8](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/layout/how-to-include-a-collection-of-products-in-the-shop-window_7.png)
 
-It is possible to define each content by using collections or search results, by using search parameters (further details [here](https://help.vtex.com/en/tutorial/como-funciona-a-busca-da-vtex--tutorials_542)).
+It is possible to define each content by using collections or search results, by using search parameters (further details [here](/en/tutorial/como-funciona-a-busca-da-vtex--tutorials_542)).
 
 The contents to be filled in **Content** are:
 _Content_: Name that will identify each set of items

@@ -77,5 +77,5 @@ Si activas esta opción y no seleccionas ninguna promoción, no podrás guardar 
 
 ## Más información
 
-- [Alertas de promociones](https://help.vtex.com/es/tutorial/alerta-de-promocoes-beta--3vDTjwoNtaxA1PUrkpEQLW)
-- [Cómo funcionan las promociones](https://help.vtex.com/es/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR)
+- [Alertas de promociones](/es/tutorial/alerta-de-promocoes-beta--3vDTjwoNtaxA1PUrkpEQLW)
+- [Cómo funcionan las promociones](/es/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR)

@@ -28,4 +28,4 @@ Você pode inserir o número de rastreio (tracking number) em pedidos já fatura
 
 ### Saiba mais
 
-- [Cadastrar rastreio na nota fiscal](https://help.vtex.com/pt/tutorial/cadastrar-rastreio-na-nota-fiscal--5acsOh2bssscYgmEKc8wK8)
+- [Cadastrar rastreio na nota fiscal](/pt/tutorial/cadastrar-rastreio-na-nota-fiscal--5acsOh2bssscYgmEKc8wK8)

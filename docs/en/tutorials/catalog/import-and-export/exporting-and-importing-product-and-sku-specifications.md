@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 2u48reCb68K48EAcm86ccM
 ---
 
-After defining the category tree and registering [product specifications and SKU specifications](https://help.vtex.com/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP) in your store, you need to fill in the values for the specifications you have created. In VTEX Admin, this process can be done using a spreadsheet or manually during [product registration](https://help.vtex.com/en/tutorial/adding-specifications-or-product-fields--tutorials_106#product-registration) and [SKU registration](https://help.vtex.com/en/tutorial/adding-sku-specifications-or-fields--tutorials_119#sku-registration).
+After defining the category tree and registering [product specifications and SKU specifications](/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP) in your store, you need to fill in the values for the specifications you have created. In VTEX Admin, this process can be done using a spreadsheet or manually during [product registration](/en/tutorial/adding-specifications-or-product-fields--tutorials_106#product-registration) and [SKU registration](/en/tutorial/adding-sku-specifications-or-fields--tutorials_119#sku-registration).
 
 In this article, we explain how to export and import spreadsheets with product and SKU specifications in VTEX Admin.
 
@@ -56,6 +56,6 @@ Follow the steps below to import the spreadsheet:
 ![skuexport3.en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/import-and-export/exporting-and-importing-product-and-sku-specifications_3.png)
 
 ## Learn more
-- [Product and SKU Specifications](https://help.vtex.com/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP)
-- [Adding product specifications or fields](https://help.vtex.com/en/tutorial/adding-specifications-or-product-fields--tutorials_106)
-- [Adding SKU specifications or fields](https://help.vtex.com/en/tutorial/adding-sku-specifications-or-fields--tutorials_119)
+- [Product and SKU Specifications](/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP)
+- [Adding product specifications or fields](/en/tutorial/adding-specifications-or-product-fields--tutorials_106)
+- [Adding SKU specifications or fields](/en/tutorial/adding-sku-specifications-or-fields--tutorials_119)

@@ -36,13 +36,13 @@ To add a new payment or antifraud provider to your store, follow the steps below
 5. If a warning message is displayed indicating that you need to install the app, click the __Install App__ button and follow the installation instructions. This message is only displayed for some gateway provider types. 
 6. Click `Save`.
 
-> ℹ️ If there are other fields to be completed besides App key and App token (Step 6), the gateway provider must be configured according to the specific tutorial. For more information, see the [Payment Settings](https://help.vtex.com/en/subcategory/payment-settings--3tDGibM2tqMyqIyukqmmMw) subsection.
+> ℹ️ If there are other fields to be completed besides App key and App token (Step 6), the gateway provider must be configured according to the specific tutorial. For more information, see the [Payment Settings](/en/subcategory/payment-settings--3tDGibM2tqMyqIyukqmmMw) subsection.
 
-> ❗ The credentials used to complete the App key and Appn token fields must be supplied by the payment provider to identify the store. [Credentials generated in the Admin](https://help.vtex.com/en/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet) starting with `vtexappkey-` should be used.
+> ❗ The credentials used to complete the App key and Appn token fields must be supplied by the payment provider to identify the store. [Credentials generated in the Admin](/en/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet) starting with `vtexappkey-` should be used.
 
-To configure the payment methods that will be processed by your chosen payment provider, read [Configuring Payment Conditions](https://help.vtex.com/en/tutorial/how-to-configure-payment-conditions--tutorials_455).
+To configure the payment methods that will be processed by your chosen payment provider, read [Configuring Payment Conditions](/en/tutorial/how-to-configure-payment-conditions--tutorials_455).
 
-To set special conditions for payment methods, read [Configuring payment special  conditions](https://help.vtex.com/en/tutorial/special-conditions--tutorials_456).
+To set special conditions for payment methods, read [Configuring payment special  conditions](/en/tutorial/special-conditions--tutorials_456).
 
 ![interface_provedor_EN_2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payment-settings/registering-gateway-affiliations_2.JPG)
 

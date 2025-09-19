@@ -29,7 +29,7 @@ La funcionalidad asegura una mayor flexibilidad a la hora de definir qué formas
 Por último, la funcionalidad no soporta actualmente la aplicación de intereses simples en los pagos realizados en una sola cuota.
 
 ## ¿Cómo funciona? 
-Para definir intereses en Customer Credit, debe seguir el flujo predeterminado para [configurar una condición de pago](https://help.vtex.com/es/tutorial/condicoes-de-pagamento--tutorials_455 "configurar una condición de pago").
+Para definir intereses en Customer Credit, debe seguir el flujo predeterminado para [configurar una condición de pago](/es/tutorial/condicoes-de-pagamento--tutorials_455 "configurar una condición de pago").
 
 El primer paso es asegurarse de que Customer Credit ya está registrado como una afiliación de Gateway en su tienda. Si no es así, debe crear una nueva afiliación. 
 
@@ -41,4 +41,4 @@ A continuación, usted definirá las reglas que se aplicarán a este medio de pa
 
 Finalice el proceso guardando las configuraciones. De este modo, los intereses se mostrarán en Customer Credit del SmartCheckout
 
-Para conocer más detalles sobre Customer Credit, consulte nuestra [guía introductoria sobre esa app](https://help.vtex.com/es/tutorial/customer-credit-visao-geral--1uIqTjWxIIIEW0COMg4uE0 "guía introductoria sobre esa app").
+Para conocer más detalles sobre Customer Credit, consulte nuestra [guía introductoria sobre esa app](/es/tutorial/customer-credit-visao-geral--1uIqTjWxIIIEW0COMg4uE0 "guía introductoria sobre esa app").

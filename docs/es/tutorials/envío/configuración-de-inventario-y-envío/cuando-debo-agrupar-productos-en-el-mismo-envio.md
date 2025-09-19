@@ -26,4 +26,4 @@ Esta es una práctica válida, por ejemplo, en el caso de transportistas como lo
 > ⚠️ Los grupos de envío son creados por la suma del tiempo de costo del inventario hasta el muelle y el tiempo de costo del muelle.
 
 ### Artículos relacionados
-- [Cómo se maneja el envío](https://help.vtex.com/es/tutorial/como-funciona-a-remessa?locale=es)
+- [Cómo se maneja el envío](/es/tutorial/como-funciona-a-remessa?locale=es)

@@ -19,7 +19,7 @@ Si un pedido se ha facturado con éxito en su ERP, pero sigue detenido en el sta
 Para comprobar si este es su caso, sigue los pasos a continuación: 
 
 1. En el Admin VTEX, accede a **Pedidos > Todos los pedidos**, o escribe **Todos los pedidos** en la barra de búsqueda en la parte superior de la página.
-2. Seleccione el pedido deseado para acceder a la página de [detalles del pedido](https://help.vtex.com/es/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl).
+2. Seleccione el pedido deseado para acceder a la página de [detalles del pedido](/es/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl).
 3. En la sección `Status del pedido`, haga clic en `Tentar nuevamente`.
 
 Compruebe si aparece algún mensaje, y si se describe el error.

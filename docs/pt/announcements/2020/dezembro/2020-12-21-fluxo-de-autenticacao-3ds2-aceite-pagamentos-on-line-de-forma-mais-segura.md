@@ -46,6 +46,6 @@ Desse modo, cada banco emissor decide por qual verificação enviará para o con
 
 Inicialmente, o fluxo 3DS2 estará disponível para os conectores CieloV3, Adyen e Redsýs, Logo, cabe a cada cliente VTEX entrar em contato com ambas as adquirentes para confirmar sua habilitação.
 
-Em seguida, o cliente deve [abrir um chamado para o time de suporte](https://help.vtex.com/pt/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM "abrir um chamado para o time de suporte") da VTEX solicitando a instalação da funcionalidade na sua conta. Além disso, nesse mesmo chamado, é preciso informar para quais conectores e adquirentes do fluxo 3DS2 deve ser habilitado.   
+Em seguida, o cliente deve [abrir um chamado para o time de suporte](/pt/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM "abrir um chamado para o time de suporte") da VTEX solicitando a instalação da funcionalidade na sua conta. Além disso, nesse mesmo chamado, é preciso informar para quais conectores e adquirentes do fluxo 3DS2 deve ser habilitado.   
 
-Para saber como habilitar o fluxo com a Adyen, leia esse [artigo](https://help.vtex.com/tutorial/adicionando-suporte-a-3ds-na-integracao-com-a-adyen--3DNZeC9qJaC2GMIw4mawYk?locale=pt "artigo"). Já para realizar o mesmo processo com a CieloV3, confira esse [tutorial](https://help.vtex.com/tutorial/configurar-adquirente-cielo--3avjZ7q65WcM02K8K0eeWu "tutorial").
+Para saber como habilitar o fluxo com a Adyen, leia esse [artigo](/tutorial/adicionando-suporte-a-3ds-na-integracao-com-a-adyen--3DNZeC9qJaC2GMIw4mawYk?locale=pt "artigo"). Já para realizar o mesmo processo com a CieloV3, confira esse [tutorial](/tutorial/configurar-adquirente-cielo--3avjZ7q65WcM02K8K0eeWu "tutorial").

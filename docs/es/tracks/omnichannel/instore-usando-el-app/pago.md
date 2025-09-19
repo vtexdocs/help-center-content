@@ -15,7 +15,7 @@ trackSlugEN: instore-usando-el-app
 order: 15
 ---
 
-En el paso de pago de VTEX Sales App, las [opciones de pago que se han configurado](https://help.vtex.com/es/tracks/instore-payments--43B4Nr7uZva5UdwWEt3PEy) aparecerán en su tienda.
+En el paso de pago de VTEX Sales App, las [opciones de pago que se han configurado](/es/tracks/instore-payments--43B4Nr7uZva5UdwWEt3PEy) aparecerán en su tienda.
 
 ![instore-payment-es](//images.ctfassets.net/alneenqid6w5/1Kka7eQvf03YXWR5DA2NEJ/b91142c0f767502f5e68f91830032fcb/Screenshot_2022-10-21_at_15-02-51_VTEX_VTEX Sales App_Checkout.png)
 
@@ -40,7 +40,7 @@ Durante la configuración de VTEX Sales App, se pueden agregar los siguientes me
 - [Tarjeta de crédito](#tarjeta-de-credito)
 - [Tarjeta de débito](#tarjeta-de-debito)
 
-Para configurar un medio de pago, sigue las instrucciones de la guía[ VTEX Sales App - Pagos](https://help.vtex.com/pt/tracks/instore-pagamentos--43B4Nr7uZva5UdwWEt3PEy).
+Para configurar un medio de pago, sigue las instrucciones de la guía[ VTEX Sales App - Pagos](/pt/tracks/instore-pagamentos--43B4Nr7uZva5UdwWEt3PEy).
 
 ### Efectivo
 
@@ -48,7 +48,7 @@ El cliente debe seleccionar la opción **Efectivo** y hacer clic en `Finalizar v
 
 ![instore-dinheiro-es](//images.ctfassets.net/alneenqid6w5/1Tz1XMpd6ObLZbyBcluOti/12ee090451235610a53ec937f8af2b69/Screenshot_2022-10-21_at_15-03-02_VTEX_VTEX Sales App_Checkout.png)
 
-Luego, el cliente debe realizar la transacción con el vendedor. La aprobación de la venta puede ser [manual o automática](https://help.vtex.com/es/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/2WgQrlHTyVo4hLjhUs1LMT), dependiendo de la configuración de la tienda.
+Luego, el cliente debe realizar la transacción con el vendedor. La aprobación de la venta puede ser [manual o automática](/es/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/2WgQrlHTyVo4hLjhUs1LMT), dependiendo de la configuración de la tienda.
 
 ### Pix (Brasil)
 

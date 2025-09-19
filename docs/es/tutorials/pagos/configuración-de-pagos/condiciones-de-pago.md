@@ -15,18 +15,18 @@ locale: es
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-Las condiciones de pago son las formas de pago que aparecen en el sitio para la finalización de la compra. A través de esta funcionalidad es posible configurar opciones como: cuotas, intereses, [condiciones especiales de pago](https://help.vtex.com/es/tutorial/condicoes-especiais--tutorials_456#).
+Las condiciones de pago son las formas de pago que aparecen en el sitio para la finalización de la compra. A través de esta funcionalidad es posible configurar opciones como: cuotas, intereses, [condiciones especiales de pago](/es/tutorial/condicoes-especiais--tutorials_456#).
 
 ## Cómo configurar
 
-Antes de comenzar a configurar un término de pago, es necesario registrar una [integración de pagos](https://help.vtex.com/es/tutorial/afiliacoes-de-gateway/). 
+Antes de comenzar a configurar un término de pago, es necesario registrar una [integración de pagos](/es/tutorial/afiliacoes-de-gateway/). 
 
 Una vez que hayas definido tu proveedor, para elegir cualquiera de las condiciones de pago, siempre necesitarás:
 
 - Rellene el campo __Nombre de la regla__ con un nombre de su elección para su identificación.
 - Activar la condición en el campo __Status__.
 - Indicar en __Procesar con proveedor__, qué proveedor tramitará esta condición de pago.
-- Defina si desea utilizar un [sistema antifraude](https://help.vtex.com/es/tutorial/como-configurar-antifraude) en __Utilizar antifraude__.
+- Defina si desea utilizar un [sistema antifraude](/es/tutorial/como-configurar-antifraude) en __Utilizar antifraude__.
 
 Además, hay la posibilidad de definir si el pago será al contado o en cuotas, con o sin intereses y las condiciones especiales.
 

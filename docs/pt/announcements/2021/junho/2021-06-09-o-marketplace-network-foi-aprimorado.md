@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisPT: 'O Marketplace Network foi aprimorado e adicionado em todas as lojas que atuam como sellers ou marketplaces.'
 ---
 
-Para marketplaces e sellers do nosso ecossistema, um dos maiores desafios é conectar-se a novos parceiros para ampliar suas ofertas e seu alcance. O módulo  [Marketplace Network](https://help.vtex.com/pt/tutorial/encontre-marketplaces-e-sellers-no-ecossistema-vtex--2bzC7tXlVgLEEjxo4ixcAM) facilita essa conexão, ao funcionar como um catálogo de interessados em parcerias, permitindo o cadastro, consulta e contato entre marketplaces e sellers.
+Para marketplaces e sellers do nosso ecossistema, um dos maiores desafios é conectar-se a novos parceiros para ampliar suas ofertas e seu alcance. O módulo  [Marketplace Network](/pt/tutorial/encontre-marketplaces-e-sellers-no-ecossistema-vtex--2bzC7tXlVgLEEjxo4ixcAM) facilita essa conexão, ao funcionar como um catálogo de interessados em parcerias, permitindo o cadastro, consulta e contato entre marketplaces e sellers.
 
 O Marketplace Network foi redesenhado para melhorar sua experiência. Além disso, não é mais preciso baixar a app em nossa App Store, a funcionalidade foi inserida em todas as lojas que atuam como sellers ou marketplaces automaticamente.
 
@@ -42,4 +42,4 @@ Para utilizar o Marketplace Network, é preciso criar um perfil para seu negóci
 
 Uma vez feito o cadastro, basta navegar pelas abas *Encontrar Sellers* e *Encontrar Marketplaces* para encontrar e entrar em contato com potenciais parceiros. 
 
-Saiba mais em nossa documentação completa sobre [Marketplace Network](https://help.vtex.com/pt/tutorial/encontre-marketplaces-e-sellers-no-ecossistema-vtex--2bzC7tXlVgLEEjxo4ixcAM). 
+Saiba mais em nossa documentação completa sobre [Marketplace Network](/pt/tutorial/encontre-marketplaces-e-sellers-no-ecossistema-vtex--2bzC7tXlVgLEEjxo4ixcAM). 

@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-En VTEX es posible integrarse con el [antifraude](https://help.vtex.com/es/tutorial/como-configurar-antifraude--tutorials_446) ClearSaleV4. A través de este sistema es posible aumentar el nivel de seguridad en las transacciones de pago realizadas en tu tienda mediante análisis de riesgos que identifican posibles fraudes.
+En VTEX es posible integrarse con el [antifraude](/es/tutorial/como-configurar-antifraude--tutorials_446) ClearSaleV4. A través de este sistema es posible aumentar el nivel de seguridad en las transacciones de pago realizadas en tu tienda mediante análisis de riesgos que identifican posibles fraudes.
 
 Para configurar ClearSaleV4 siga los pasos a continuación:
 

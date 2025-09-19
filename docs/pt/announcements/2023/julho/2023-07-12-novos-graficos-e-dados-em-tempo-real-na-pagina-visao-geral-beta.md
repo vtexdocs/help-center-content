@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisPT: 'Redesenhamos a página inicial do seu Admin, agora com novos gráficos e dados em tempo real.'
 ---
 
-A página [Visão Geral (Beta)](https://help.vtex.com/pt/tutorial/visao-geral-da-loja-beta--7i8wNsQQgbbFhYMYbQ5X46) em seu Admin VTEX foi redesenhada e agora oferece novos gráficos, métricas e visualizações. Estas novas funcionalidades permitem o acompanhamento em tempo real da sua operação, fornecendo visibilidade sobre indicadores para que você e sua equipe tenham um feedback rápido das ações realizadas na loja e possam atuar prontamente em melhorias. 
+A página [Visão Geral (Beta)](/pt/tutorial/visao-geral-da-loja-beta--7i8wNsQQgbbFhYMYbQ5X46) em seu Admin VTEX foi redesenhada e agora oferece novos gráficos, métricas e visualizações. Estas novas funcionalidades permitem o acompanhamento em tempo real da sua operação, fornecendo visibilidade sobre indicadores para que você e sua equipe tenham um feedback rápido das ações realizadas na loja e possam atuar prontamente em melhorias. 
 
 ![PT Visão geral Beta](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2023/julho/2023-07-12-novos-graficos-e-dados-em-tempo-real-na-pagina-visao-geral-beta_1.png)
 
@@ -36,9 +36,9 @@ Os dados em tempo real apoiam sua equipe a analisar resultados de campanhas e ve
 
 ## O que precisa ser feito?
 
-A versão atualizada da página [Visão Geral (Beta)](https://help.vtex.com/pt/tutorial/visao-geral-da-loja-beta--7i8wNsQQgbbFhYMYbQ5X46) já está disponível no Admin VTEX a partir do dia 17 de agosto. Para acessar a página, no Admin VTEX, vá para **Dashboards > Visão Geral (Beta)**, ou digite _Visão Geral (Beta)_ na barra de busca no topo da página.
+A versão atualizada da página [Visão Geral (Beta)](/pt/tutorial/visao-geral-da-loja-beta--7i8wNsQQgbbFhYMYbQ5X46) já está disponível no Admin VTEX a partir do dia 17 de agosto. Para acessar a página, no Admin VTEX, vá para **Dashboards > Visão Geral (Beta)**, ou digite _Visão Geral (Beta)_ na barra de busca no topo da página.
 
 O acesso à página será gratuito durante seu período em Beta, ou até decidido pela VTEX, porém é importante observar que podem ser aplicadas taxas extras no futuro. 
 
-A página Visão Geral atualmente presente no Admin VTEX continuará disponível para uso. Ambas as páginas poderão ser acessadas pelo menu [Dashboards](https://help.vtex.com/pt/tutorial/dashboards-overview--1yn2nZUoXtDO3teTEJsCNl) do seu Admin. 
+A página Visão Geral atualmente presente no Admin VTEX continuará disponível para uso. Ambas as páginas poderão ser acessadas pelo menu [Dashboards](/pt/tutorial/dashboards-overview--1yn2nZUoXtDO3teTEJsCNl) do seu Admin. 
 

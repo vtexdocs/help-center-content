@@ -30,5 +30,5 @@ Agora, apesar de o processo permanecer manual, a validação dos atributos cadas
 
 ## O que precisa ser feito?
 
-O novo módulo estará disponível para todas [as contas VTEX que atuam como seller](https://help.vtex.com/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#sendo-seller-vtex) a partir do dia 31 de março de 2025. Para conhecer o módulo e realizar o cadastro de novos produtos, acesse o tutorial [Amazon Listing](https://help.vtex.com/pt/tutorial/amazon-listing--5HIhbnYzJWkl2yM0o72WrL). 
+O novo módulo estará disponível para todas [as contas VTEX que atuam como seller](/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#sendo-seller-vtex) a partir do dia 31 de março de 2025. Para conhecer o módulo e realizar o cadastro de novos produtos, acesse o tutorial [Amazon Listing](/pt/tutorial/amazon-listing--5HIhbnYzJWkl2yM0o72WrL). 
 

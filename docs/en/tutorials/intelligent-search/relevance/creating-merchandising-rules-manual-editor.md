@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 32zXHBMygA2dB6TbCjQJej
 ---
 
-Follow the steps below to configure a [merchandising rule](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5tBSYXb9EIdePa0MWTnFd0) in the VTEX Intelligent Search Manual Editor.
+Follow the steps below to configure a [merchandising rule](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5tBSYXb9EIdePa0MWTnFd0) in the VTEX Intelligent Search Manual Editor.
 
 1. In the VTEX Admin, go to **Storefront**, or type **Storefront** in the search bar at the top of the page.
 2. Under **Intelligent Search**, click **Merchandising Rules**.
@@ -24,13 +24,13 @@ Follow the steps below to configure a [merchandising rule](https://help.vtex.com
    * **Rule name**: Name of the merchandising rule. Example: Promote product A when searching for a chocolate cookie.
    * **Start date (optional)**: Set a date from which the merchandising rule will apply. The date follows the UTC-0 time zone.
    * **End date (optional)**: Set a date on which the merchandising rule will no longer apply to store searches. The date follows the UTC-0 time zone.
-   * **Apply to locales:** Languages to which the merchandising rule will apply. The field is only available for stores using [Multilanguage settings (Beta)](https://help.vtex.com/en/tutorial/vtex-intelligent-search-configuracoes-multi-idioma-beta--2WahlTESLXIJ9XBdQMdTYO).
-5. Click on **Manual editor**. For more information on each editor, see [Types of editing](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5tBSYXb9EIdePa0MWTnFd0#types-of-editing).
+   * **Apply to locales:** Languages to which the merchandising rule will apply. The field is only available for stores using [Multilanguage settings (Beta)](/en/tutorial/vtex-intelligent-search-configuracoes-multi-idioma-beta--2WahlTESLXIJ9XBdQMdTYO).
+5. Click on **Manual editor**. For more information on each editor, see [Types of editing](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5tBSYXb9EIdePa0MWTnFd0#types-of-editing).
 6. Click `Next`.
 7. If necessary, you can change what you have already filled in about the new merchandising rule in the [General Information](#general-information) section.
 8. Define the [Trigger rules](#trigger-rules), the set of conditions that determine when the merchandising rule will be applied.
 9. Define the [Customization rules](#customization-rules), the set of conditions that control the search results that meet the trigger rules set in step 8.
-   Add one or more conditions to apply the desired customization effect in this step. To learn how to add a condition, see [Merchandising rule conditions](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3Dvava8LSVcFKeS2S6J7XW).
+   Add one or more conditions to apply the desired customization effect in this step. To learn how to add a condition, see [Merchandising rule conditions](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3Dvava8LSVcFKeS2S6J7XW).
 10. Click `Save`.
 
 > ℹ️ After saving, the changes to merchandising rules will take an average of two minutes to be updated.
@@ -62,9 +62,9 @@ Imagine the following example: You want to promote Beautyx products during the 4
 ### Trigger rules
 
 * **Global trigger**: If you activate this option, the merchandising rule will always be active and cover all search terms and filters, and you won't need to set conditions for trigger rules. This allows you to add, remove, promote, and demote products from all searches in the store.
-   However, if you choose to keep the Global trigger disabled, you need to add at least one condition to build the trigger rules. See [Merchandising rule conditions](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3Dvava8LSVcFKeS2S6J7XW) to learn more about adding a condition.
+   However, if you choose to keep the Global trigger disabled, you need to add at least one condition to build the trigger rules. See [Merchandising rule conditions](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3Dvava8LSVcFKeS2S6J7XW) to learn more about adding a condition.
 * <i class="fa-solid fa-link"></i> `Autofill from a URL`: Add the search page URL where the trigger rules will be applied. The URL must include `map` and `query` to work, using the following format: `https://{accountName}.myvtex.com/busca/{term}?map=ft&query={term}`. You need to replace `{accountName}` with the VTEX account name and `{term}` with the search term.
-* `Add Condition`: When creating a condition, the merchandising rule only applies to cases that meet the established set of conditions. To learn how to create conditions, see [Merchandising rule conditions](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3Dvava8LSVcFKeS2S6J7XW).
+* `Add Condition`: When creating a condition, the merchandising rule only applies to cases that meet the established set of conditions. To learn how to create conditions, see [Merchandising rule conditions](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3Dvava8LSVcFKeS2S6J7XW).
 
 ### Customization rules
 

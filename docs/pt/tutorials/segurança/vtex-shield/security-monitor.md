@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: jrgbOxKaOW0kdZs7rdgvS
 ---
 
-> ℹ️ Esta funcionalidade faz parte do produto [VTEX Shield](https://help.vtex.com/pt/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh). Se já é cliente da VTEX e deseja adotar o VTEX Shield no seu negócio, entre em contato com o [Suporte Comercial](https://help.vtex.com/pt/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ). É possível que taxas adicionais se apliquem. Se ainda não é cliente, mas tem interesse nesta solução, preencha o [formulário de contato](https://vtex.com/br-pt/contato/).
+> ℹ️ Esta funcionalidade faz parte do produto [VTEX Shield](/pt/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh). Se já é cliente da VTEX e deseja adotar o VTEX Shield no seu negócio, entre em contato com o [Suporte Comercial](/pt/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ). É possível que taxas adicionais se apliquem. Se ainda não é cliente, mas tem interesse nesta solução, preencha o [formulário de contato](https://vtex.com/br-pt/contato/).
 
 O Security Monitor é um dashboard que auxilia lojistas a identificarem e gerenciarem riscos potenciais em sua conta em tempo real. A ferramenta identifica e notifica lojistas por email sobre riscos relacionados a configurações e comportamento de usuários administrativos, possibilitando ações preventivas contra vulnerabilidades de segurança.
 
@@ -54,7 +54,7 @@ A aba apresenta a listagem completa de descobertas abertas em uma tabela, da mai
 | Colunas | Descrição |
 | --- | --- |
 | Descoberta | Email de usuário ou chave de API relacionada à descoberta. |
-| Tipo | Tipo de descoberta detectada:<br/><ul><li>**Chaves de App antigas:** [chaves de API](https://help.vtex.com/pt/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet) que foram criadas há mais de 6 meses.</li><li>**Super Admin Excessivos:** usuários ou chaves de API com o [perfil de acesso](https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) **Owner (Admin Super)**.</li><li>**Chaves de App Vazadas:** [chaves de API](https://help.vtex.com/pt/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet) que foram expostas na web, encontradas pelo time de Segurança da VTEX.</li><li>**Usuários Inativos:** usuário que não acessou o Admin nos últimos 30 dias.</li><li>**Permissões Excessivas:** usuários ou chaves de API com acesso a recursos que não utilizaram nos últimos 30 dias.</li></ul> |
+| Tipo | Tipo de descoberta detectada:<br/><ul><li>**Chaves de App antigas:** [chaves de API](/pt/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet) que foram criadas há mais de 6 meses.</li><li>**Super Admin Excessivos:** usuários ou chaves de API com o [perfil de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) **Owner (Admin Super)**.</li><li>**Chaves de App Vazadas:** [chaves de API](/pt/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet) que foram expostas na web, encontradas pelo time de Segurança da VTEX.</li><li>**Usuários Inativos:** usuário que não acessou o Admin nos últimos 30 dias.</li><li>**Permissões Excessivas:** usuários ou chaves de API com acesso a recursos que não utilizaram nos últimos 30 dias.</li></ul> |
 | Detectada | Data em que a descoberta foi detectada. |
 | Sensor | Sensor que detectou a ameaça: <br/><ul><li>**VTEX Identity**</li></ul> |
 | Severidade | Nível de severidade da ameaça, determinado pelo impacto ou potencial risco: <br/><ul><li>**Alta**</li> <li>**Média**</li><li>**Baixa**</li></ul> |
@@ -93,7 +93,7 @@ A aba **Fechadas** contém a listagem de descobertas que já foram gerenciadas, 
 | Colunas | Descrição |
 | --- | --- |
 | Descoberta | Email de usuário ou chave de API relacionada à descoberta. |
-| Tipo | Tipo de descoberta detectada:<br/><ul><li>**Chaves de App antigas:** [chaves de API](https://help.vtex.com/pt/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet) que foram criadas há mais de 6 meses.</li><li>**Super Admin Excessivos:** usuários ou chaves de API com o [perfil de acesso](https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) **Owner (Admin Super)**.</li><li>**Chaves de App Vazadas:** [chaves de API](https://help.vtex.com/pt/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet) que foram expostas na web, encontradas pelo time de Segurança da VTEX.</li><li>**Usuários Inativos:** usuário que não acessou o Admin nos últimos 30 dias.</li></ul> |
+| Tipo | Tipo de descoberta detectada:<br/><ul><li>**Chaves de App antigas:** [chaves de API](/pt/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet) que foram criadas há mais de 6 meses.</li><li>**Super Admin Excessivos:** usuários ou chaves de API com o [perfil de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) **Owner (Admin Super)**.</li><li>**Chaves de App Vazadas:** [chaves de API](/pt/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet) que foram expostas na web, encontradas pelo time de Segurança da VTEX.</li><li>**Usuários Inativos:** usuário que não acessou o Admin nos últimos 30 dias.</li></ul> |
 | Detectada | Data em que a descoberta foi detectada. |
 | Fechada | Data em que a descoberta foi fechada. |
 | Fechada por | Indica que a descoberta foi fechada automaticamente, após ser gerenciada por um usuário administrativo. |
@@ -156,7 +156,7 @@ Para editar os usuários administrativos que vão receber notificações em caso
 
 ## Saiba mais
 
-* [VTEX Shield](https://help.vtex.com/pt/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh)
-* [Perfis de acesso](https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc)
-* [Usuários](https://help.vtex.com/pt/tutorial/gerenciando-usuarios--tutorials_512)
-* [Chaves de API](https://help.vtex.com/pt/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet)
+* [VTEX Shield](/pt/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh)
+* [Perfis de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc)
+* [Usuários](/pt/tutorial/gerenciando-usuarios--tutorials_512)
+* [Chaves de API](/pt/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet)

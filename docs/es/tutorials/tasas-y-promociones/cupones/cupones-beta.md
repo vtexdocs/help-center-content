@@ -19,9 +19,9 @@ Un cupón es un código promocional formado por una secuencia de letras y númer
 
 ## Cómo crear cupones
 
-Puedes crear y editar cupones en el Admin VTEX, a través de **Promociones** > [Cupones](https://help.vtex.com/es/tutorial/lista-de-cupones-beta--5z5ya3IonsC2W4B5h4JrsZ) o de la [Promotions & Taxes API](https://developers.vtex.com/vtex-rest-api/reference/promotions-taxes-api-v2).
+Puedes crear y editar cupones en el Admin VTEX, a través de **Promociones** > [Cupones](/es/tutorial/lista-de-cupones-beta--5z5ya3IonsC2W4B5h4JrsZ) o de la [Promotions & Taxes API](https://developers.vtex.com/vtex-rest-api/reference/promotions-taxes-api-v2).
 
-> ⚠️ El cupón debe estar vinculado, al menos, a una promoción para poderse utilizar. Un cupón se puede asociar a cualquier tipo de promoción, excepto a una [Promoción de campaña](https://help.vtex.com/es/tutorial/promocion-de-campana--1ChYXhK2AQGuS6wAqS8Ume). Obtén más información en [Crear cupón (Beta)](https://help.vtex.com/es/tutorial/crear-cupon-beta--7lMk3MmhNp2IEccyGApxU).
+> ⚠️ El cupón debe estar vinculado, al menos, a una promoción para poderse utilizar. Un cupón se puede asociar a cualquier tipo de promoción, excepto a una [Promoción de campaña](/es/tutorial/promocion-de-campana--1ChYXhK2AQGuS6wAqS8Ume). Obtén más información en [Crear cupón (Beta)](/es/tutorial/crear-cupon-beta--7lMk3MmhNp2IEccyGApxU).
 
 ## Tipos de cupones
 
@@ -50,11 +50,11 @@ El lote de cupones es útil en casos como los que se indican a continuación:
 
 La plataforma genera códigos automáticamente a partir del número de prefijo, agrega un guion y un código aleatorio de 15 caracteres que incluye letras y números. Por ejemplo: al crear un lote de cupones con el código `PROMO`, la plataforma generará códigos con el formato `PROMO-99m0xjzfum1o6tk`.
 
-Puedes generar hasta 1000 códigos asociados a un lote. Para generar más de un código vinculado a un cupón, debes activar la opción **Generando cupones en lote** al crear el cupón e informar la cantidad deseada de cupones. Para obtener más información sobre esta configuración, consulta [Crear cupón](https://help.vtex.com/es/tutorial/crear-cupon-beta--7lMk3MmhNp2IEccyGApxU).
+Puedes generar hasta 1000 códigos asociados a un lote. Para generar más de un código vinculado a un cupón, debes activar la opción **Generando cupones en lote** al crear el cupón e informar la cantidad deseada de cupones. Para obtener más información sobre esta configuración, consulta [Crear cupón](/es/tutorial/crear-cupon-beta--7lMk3MmhNp2IEccyGApxU).
 
 Al crear el lote de cupones, podrás configurar el número de veces que se puede utilizar cada código en **Restricciones**.
 
 ## Más información
 
-* [Lista de cupones](https://help.vtex.com/es/tutorial/lista-de-cupones-beta--5z5ya3IonsC2W4B5h4JrsZ)
-* [Crear cupón](https://help.vtex.com/es/tutorial/crear-cupon-beta--7lMk3MmhNp2IEccyGApxU)
+* [Lista de cupones](/es/tutorial/lista-de-cupones-beta--5z5ya3IonsC2W4B5h4JrsZ)
+* [Crear cupón](/es/tutorial/crear-cupon-beta--7lMk3MmhNp2IEccyGApxU)

@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 1E7tziZCkY4w8i4EmUuwec
 ---
 
-A partir da página **Catálogo > Categorias** no Admin VTEX, é possível realizar ações relacionadas às [categorias](https://help.vtex.com/pt/tutorial/cadastrando-categoria) configuradas na sua loja. Confira as seções a seguir para saber como realizar cada ação:
+A partir da página **Catálogo > Categorias** no Admin VTEX, é possível realizar ações relacionadas às [categorias](/pt/tutorial/cadastrando-categoria) configuradas na sua loja. Confira as seções a seguir para saber como realizar cada ação:
 
 * [Inativar uma categoria](#inativar-uma-categoria)
 * [Alterar a ordem de subcategorias](#alterar-a-ordem-de-subcategorias)
@@ -45,7 +45,7 @@ Na árvore de categorias exibida na página **Catálogo > Categorias** do Admin 
 
 ## Alterar a árvore de categorias
 
-> ⚠️ Mover categorias diretamente pela árvore de categorias pode gerar erros inesperados no seu catálogo. Por isso, recomendamos seguir as instruções abaixo para qualquer alteração nos níveis de categorias. Leia o [problema conhecido](https://help.vtex.com/pt/known-issues/mover-categorias-gera-comportamentos-inesperados-na-arvore-de-categorias--6JSa9nnYoAAUQO1zPtzfZD) relacionado a esse cenário para mais informações.
+> ⚠️ Mover categorias diretamente pela árvore de categorias pode gerar erros inesperados no seu catálogo. Por isso, recomendamos seguir as instruções abaixo para qualquer alteração nos níveis de categorias. Leia o [problema conhecido](/pt/known-issues/mover-categorias-gera-comportamentos-inesperados-na-arvore-de-categorias--6JSa9nnYoAAUQO1zPtzfZD) relacionado a esse cenário para mais informações.
 
 Existem cenários em que é necessário mudar o nível hierárquico de uma categoria. Por exemplo, imagine que uma loja tem uma categoria pai chamada **Acessórios** e uma categoria filha (subcategoria) chamada **Sapatos**, mas deseja transformar a subcategoria **Sapatos** em uma outra categoria pai.
 
@@ -70,5 +70,5 @@ Para movimentar uma categoria sem causar erros ou perder informações, siga o p
 
 ## Saiba mais
 
-* [Categorias - Definição de conceito](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf)
-* [Cadastrar uma Categoria](https://help.vtex.com/pt/tutorial/cadastrar-uma-categoria--tutorials_206)
+* [Categorias - Definição de conceito](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf)
+* [Cadastrar uma Categoria](/pt/tutorial/cadastrar-uma-categoria--tutorials_206)

@@ -42,5 +42,5 @@ Ahora vamos a crear la condición de pago.
 5. Haga clic en `Guardar`.
 
 <div class="alert-info">
-Además de los ajustes anteriores, debes seguir la guía **[Definir los métodos de pago mostrados en VTEX Sales App](https://help.vtex.com/es/tracks/instore-pagamentos--43B4Nr7uZva5UdwWEt3PEy/jHQQcyX3WKeUFidwSjmY1)** para que las opciones de pago se muestren correctamente en la app.
+Además de los ajustes anteriores, debes seguir la guía **[Definir los métodos de pago mostrados en VTEX Sales App](/es/tracks/instore-pagamentos--43B4Nr7uZva5UdwWEt3PEy/jHQQcyX3WKeUFidwSjmY1)** para que las opciones de pago se muestren correctamente en la app.
 </div>

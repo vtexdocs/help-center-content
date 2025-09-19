@@ -17,7 +17,7 @@ order: 4
 
 O primeiro contato do vendedor da loja física com o VTEX Sales App acontece no momento de fazer o login no aplicativo.
 
-Aqui devem ser usados o email e a senha criados para o vendedor na etapa de [Configurações Básicas](https://help.vtex.com/pt/tracks/instore-getting-started-and-setting-up--zav76TFEZlAjnyBVL5tRc/4L5SoLxE8O3YkxF7FKymrO#adding-a-sales-associates-email-and-name). Lembre-se que não é permitido usar emails que já tenham acesso ao Admin de lojas VTEX.
+Aqui devem ser usados o email e a senha criados para o vendedor na etapa de [Configurações Básicas](/pt/tracks/instore-getting-started-and-setting-up--zav76TFEZlAjnyBVL5tRc/4L5SoLxE8O3YkxF7FKymrO#adding-a-sales-associates-email-and-name). Lembre-se que não é permitido usar emails que já tenham acesso ao Admin de lojas VTEX.
 
 ![31. inStore - Product Overview - 1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/instore-usando-o-app/login-no-instore_1.png)
 

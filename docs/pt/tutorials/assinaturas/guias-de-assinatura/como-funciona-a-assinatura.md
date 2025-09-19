@@ -29,7 +29,7 @@ A assinatura na VTEX consiste em uma lista de SKUs vinculada a uma certa configu
 
 ## Como o cliente da sua loja cria um pedido com assinatura
 
-Ao finalizar a [configuração da funcionalidade Assinatura](https://help.vtex.com/pt/tutorial/como-configurar-assinatura-v2--1FA9dfE7vJqxBna9Nft5Sj), ela já estará habilitada para que o cliente da sua loja gere um pedido com assinatura. Existem duas formas do seu cliente criar uma assinatura:
+Ao finalizar a [configuração da funcionalidade Assinatura](/pt/tutorial/como-configurar-assinatura-v2--1FA9dfE7vJqxBna9Nft5Sj), ela já estará habilitada para que o cliente da sua loja gere um pedido com assinatura. Existem duas formas do seu cliente criar uma assinatura:
 
 ### Adicionar produtos para assinatura durante o checkout
 
@@ -37,7 +37,7 @@ Ao adicionar um produto habilitado para Assinatura, durante o checkout, será ex
 
 O seu cliente deverá selecionar a opção de *Assinatura* e selecionar qual a frequência da assinatura. Vale notar que esse fluxo pode ser customizado em alguns casos, dependendo da necessidade de negócio. 
 
-Após selecionar os detalhes da assinatura, o cliente seguirá com o fluxo normal de compra. Deverá inserir o endereço de entrega e utilizar um dos [**meios de pagamento habilitados para o Sistema de Assinatura**](https://help.vtex.com/pt/tutorial/como-configurar-assinatura-v2--1FA9dfE7vJqxBna9Nft5Sj). Após a aprovação do pagamento, a assinatura será ativada.
+Após selecionar os detalhes da assinatura, o cliente seguirá com o fluxo normal de compra. Deverá inserir o endereço de entrega e utilizar um dos [**meios de pagamento habilitados para o Sistema de Assinatura**](/pt/tutorial/como-configurar-assinatura-v2--1FA9dfE7vJqxBna9Nft5Sj). Após a aprovação do pagamento, a assinatura será ativada.
 
 ### Criar uma nova assinatura na página “Minha Conta”
 
@@ -47,11 +47,11 @@ Para isso, basta entrar na página **Minha Conta** no site da sua loja, acessar 
 
 ## Como o cliente da sua loja visualiza suas Assinaturas
 
-> ℹ️ Em [Minha Conta](https://help.vtex.com/es/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh), os clientes conseguem acessar somente os seus pedidos criados nos últimos dois anos.
+> ℹ️ Em [Minha Conta](/es/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh), os clientes conseguem acessar somente os seus pedidos criados nos últimos dois anos.
 
 Após a finalização do pedido com Assinatura, o seu cliente visualiza na página **Minha Conta** a seção **Assinaturas**. Nessa seção, ele também pode encontrar a lista de assinaturas realizadas com os detalhes e estado individual. Seu cliente também receberá por e-mail uma confirmação da Assinatura e do pedido gerado.
 
-A comunicação com seu cliente sobre a assinatura será feita pelo módulo **Central de Mensagens**. Confira nosso artigo sobre [Emails Transacionais para Assinaturas](https://help.vtex.com/pt/tutorial/e-mails-transacionais-para-pedidos-de-assinatura--2NYHqHMRqZ43Cn6s84ZCB5). 
+A comunicação com seu cliente sobre a assinatura será feita pelo módulo **Central de Mensagens**. Confira nosso artigo sobre [Emails Transacionais para Assinaturas](/pt/tutorial/e-mails-transacionais-para-pedidos-de-assinatura--2NYHqHMRqZ43Cn6s84ZCB5). 
 
 ### Detalhamento de assinaturas
 

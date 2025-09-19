@@ -33,7 +33,7 @@ Para configurar Bom Pra Crédito, siga os passos abaixo:
 3. Clique no meio de pagamento __BomPraCredito__.
 4. Preencha o campo __Nome da regra__ com um nome de sua preferência para identificação.
 5. Ative a condição no campo __Status__.
-6. Se desejar, você também pode [configurar condições especiais de pagamento](https://help.vtex.com/pt/tutorial/condiciones-especiales--tutorials_456?&utm_source=autocomplete#).
+6. Se desejar, você também pode [configurar condições especiais de pagamento](/pt/tutorial/condiciones-especiales--tutorials_456?&utm_source=autocomplete#).
 7. Clique em `Salvar`.
 
 Depois de seguir os passos indicados, o Bom Pra Crédito pode demorar até 10 minutos para aparecer no checkout da sua loja como uma opção de pagamento. 

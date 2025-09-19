@@ -21,7 +21,7 @@ My Authentication es una pestaña que aparece en el panel de My Account dentro d
 
 ## ¿Qué cambia?
 
-En esta pestaña los usuarios podrán gestionar su contraseña. También es posible gestionar las sesiones de inicio de sesión, lo que permite al usuario cancelar otras sesiones de forma remota. Encontrará más detalles sobre el uso de la pestaña en la sección [Autenticación del artículo Configurar My Account](https://help.vtex.com/es/tutorial/como-funciona-mi-cuenta--2BQ3GiqhqGJTXsWVuio3Xh).
+En esta pestaña los usuarios podrán gestionar su contraseña. También es posible gestionar las sesiones de inicio de sesión, lo que permite al usuario cancelar otras sesiones de forma remota. Encontrará más detalles sobre el uso de la pestaña en la sección [Autenticación del artículo Configurar My Account](/es/tutorial/como-funciona-mi-cuenta--2BQ3GiqhqGJTXsWVuio3Xh).
 
 ![My Authentication app ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2021/julio/2021-07-26-pestana-my-authentication-de-my-account_1.png)
 

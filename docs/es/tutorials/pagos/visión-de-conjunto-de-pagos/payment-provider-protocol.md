@@ -87,7 +87,7 @@ Hay casos en que se pueden crear conectores para atender alguna solución espec�
 
 - [Payment Provider Framework (PPF)](https://developers.vtex.com/docs/guides/payments-integration-payment-provider-framework): es una solución para la implementación de conectores a través de VTEX IO con base en un _boilerplate_. El _boilerplate_ ya viene con una gran parte del trabajo realizado, incluyendo los _endpoints_ del protocolo. La utilización de VTEX IO también acelera el proceso de desarrollo y pruebas de la tienda.
 
-- [Payment Provider Protocol (PPP) aplicado a los pagos con POS](https://developers.vtex.com/docs/guides/payments-integration-ppp-applied-to-pos): es la aplicación del PPP a pagos en tiendas físicas utilizando un terminal de pago (POS). Se puede utilizar con tarjetas de crédito o débito. El flujo del pago se inicia con una compra realizada en [inStore](https://help.vtex.com/es/tracks/instore-primeros-pasos-y-configuracion--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf), después de lo cual se establece la comunicación con el POS, donde el cliente inserta la tarjeta.
+- [Payment Provider Protocol (PPP) aplicado a los pagos con POS](https://developers.vtex.com/docs/guides/payments-integration-ppp-applied-to-pos): es la aplicación del PPP a pagos en tiendas físicas utilizando un terminal de pago (POS). Se puede utilizar con tarjetas de crédito o débito. El flujo del pago se inicia con una compra realizada en [inStore](/es/tracks/instore-primeros-pasos-y-configuracion--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf), después de lo cual se establece la comunicación con el POS, donde el cliente inserta la tarjeta.
 
 ### 3. Homologación de Payment Provider
 
@@ -223,7 +223,7 @@ Esta URL tiene algunos parámetros de consulta, incluyendo `X-VTEX signature`. E
 https://gatewayqa.vtexpayments.com.br/api/pvt/payment-provider/transactions/8FB0F111111122222333344449984ACB/payments/A2A9A25B11111111222222333327883C/callback?accountName=teampaymentsintegrations&X-VTEX-signature=R123456789aBcDeFGHij1234567890tk
 ```
 
-En la [página de Transacciones del Admin](https://help.vtex.com/es/tutorial/como-visualizar-detalle-del-pedido--tutorials_452), el token de firma se muestra enmascarado por razones de seguridad, como en este ejemplo: `X-VTEX-signature=Rj******tk`.
+En la [página de Transacciones del Admin](/es/tutorial/como-visualizar-detalle-del-pedido--tutorials_452), el token de firma se muestra enmascarado por razones de seguridad, como en este ejemplo: `X-VTEX-signature=Rj******tk`.
 
 Vea a continuación, um ejemplo de payload enviada junto con la callback URL:
 

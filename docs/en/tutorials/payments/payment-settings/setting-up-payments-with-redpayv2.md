@@ -37,7 +37,7 @@ To configure RedPayV2, follow the steps below:
 3. Click **RedPay**.
 4. Activate the condition in the **Status** field.
 5. If you want to use an anti-fraud system, select the option **Use anti-fraud solution**.
-6. If you want, you can also [configure special payment conditions](https://help.vtex.com/en/tutorial/condiciones-especiales--tutorials_456?&utm_source=autocomplete#).
+6. If you want, you can also [configure special payment conditions](/en/tutorial/condiciones-especiales--tutorials_456?&utm_source=autocomplete#).
 7. Click `Save`.
 
 After following the indicated steps, RedPayV2 may take up to 10 minutes to appear at your store`s checkout as a payment option.
