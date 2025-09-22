@@ -44937,6 +44937,51 @@
             },
             {
               "name": {
+                "en": "Deleted banner may still appear on PLP",
+                "es": "El banner eliminado puede seguir apareciendo en PLP",
+                "pt": "O banner excluído ainda pode aparecer no PLP"
+              },
+              "slug": {
+                "en": "deleted-banner-may-still-appear-on-plp",
+                "es": "el-banner-eliminado-puede-seguir-apareciendo-en-plp",
+                "pt": "o-banner-excluido-ainda-pode-aparecer-no-plp"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Deleted banners may remain retrievable in the Banners route of IS API",
+                "es": "Los banners eliminados pueden seguir recuperándose en la ruta Banners de la API IS",
+                "pt": "Os banners excluídos podem permanecer recuperáveis na rota Banners da API IS"
+              },
+              "slug": {
+                "en": "deleted-banners-may-remain-retrievable-in-the-banners-route-of-is-api",
+                "es": "los-banners-eliminados-pueden-seguir-recuperandose-en-la-ruta-banners-de-la-api-is",
+                "pt": "os-banners-excluidos-podem-permanecer-recuperaveis-na-rota-banners-da-api-is"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Deleted banners may still appear on PLP",
+                "es": "Los banners eliminados pueden seguir apareciendo en PLP",
+                "pt": "Os banners excluídos ainda podem aparecer no PLP"
+              },
+              "slug": {
+                "en": "deleted-banners-may-still-appear-on-plp",
+                "es": "los-banners-eliminados-pueden-seguir-apareciendo-en-plp",
+                "pt": "os-banners-excluidos-ainda-podem-aparecer-no-plp"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Duplicated entries for categories/specification values on the same level",
                 "es": "Entradas duplicadas para categorías/valores de especificación en el mismo nivel",
                 "pt": "Entradas duplicadas para categorias/valores de especificação no mesmo nível"
@@ -46040,6 +46085,37 @@
                 "en": "wrong-translation-for-different-fields-under-the-same-original-value",
                 "es": "traduccion-erronea-para-diferentes-campos-bajo-el-mismo-valor-original",
                 "pt": "traducao-incorreta-para-campos-diferentes-com-o-mesmo-valor-original"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": {
+            "en": "Live shopping",
+            "es": "Live shopping",
+            "pt": "Live shopping"
+          },
+          "slug": {
+            "en": "live-shopping",
+            "es": "live-shopping",
+            "pt": "live-shopping"
+          },
+          "origin": "",
+          "type": "category",
+          "children": [
+            {
+              "name": {
+                "en": "Currency symbol on shelves differs from website",
+                "es": "El símbolo de la moneda en las estanterías no coincide con el del sitio web",
+                "pt": "O símbolo da moeda nas prateleiras difere do site"
+              },
+              "slug": {
+                "en": "currency-symbol-on-shelves-differs-from-website",
+                "es": "el-simbolo-de-la-moneda-en-las-estanterias-no-coincide-con-el-del-sitio-web",
+                "pt": "o-simbolo-da-moeda-nas-prateleiras-difere-do-site"
               },
               "origin": "",
               "type": "markdown",
