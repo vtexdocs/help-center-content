@@ -2,3 +2,4 @@ node_modules/
 errorDocs.json
 .env
 netlify.toml
+file-migration-plan.md
