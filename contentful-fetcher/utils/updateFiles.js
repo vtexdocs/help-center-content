@@ -13,7 +13,7 @@ const ASSETS_PROTOCOL = "https:";
 // Configure GitHub link generation
 const PROJECT_ROOT = path.join(__dirname, "..", "..");
 const GITHUB_REPO = process.env.GITHUB_REPO || "vtexdocs/help-center-content"; // format: org/repo
-const GITHUB_BRANCH = process.env.GITHUB_BRANCH || "main";
+const GITHUB_BRANCH = process.env.GITHUB_BRANCH || "files-migration-script";
 
 let activeFiles = 0;
 let fileQueue = [];
