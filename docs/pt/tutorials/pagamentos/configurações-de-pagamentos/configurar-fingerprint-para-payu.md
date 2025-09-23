@@ -99,7 +99,7 @@ Uma vez que já configuramos a etiqueta, temos que salvar o JS chamado a partir 
 
 ![cms js](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/configura%C3%A7%C3%B5es-de-pagamentos/configurar-fingerprint-para-payu_9.png)
 
-__Anexo__: [md5.js](//assets.contentful.com/alneenqid6w5/5PeWM49nPykYYeWI4cOCy4/60c61b5bcf0b4ce92f211f944ab261ad/md5.js)
+__Anexo__: [md5.js](https://raw.githubusercontent.com/vtexdocs/help-center-content/files-migration-script/docs/pt/tutorials/pagamentos/configurações-de-pagamentos/md5.js)
 
 ### Validação
 

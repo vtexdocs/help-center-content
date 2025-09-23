@@ -101,7 +101,7 @@ Para excluir um SKU da lista, basta clicar no botão vermelho ao lado dele.
 
 ### Por planilha 
 
-> ℹ️ Obtenha o modelo de arquivo para a inclusão e exclusão de SKUs da coleção [aqui](//assets.contentful.com/alneenqid6w5/Lo7Y0tXh6eKyyUSs4MESQ/209e614248978f0e86a37e4ddff50162/Colecao.xls).
+> ℹ️ Obtenha o modelo de arquivo para a inclusão e exclusão de SKUs da coleção [aqui](https://raw.githubusercontent.com/vtexdocs/help-center-content/files-migration-script/docs/pt/tutorials/storefront/layout/Colecao.xls).
 
 #### Inclusão massiva
 

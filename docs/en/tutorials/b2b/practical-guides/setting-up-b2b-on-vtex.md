@@ -67,7 +67,7 @@ Accordingly, all pre-registration fields must be defined. B2B usually uses clien
 
 ## 4. Create a pre-registration form
 
-Upon the definition of fields, the pre-registration form must be created on the **system/401** folder, since this is the only folder to which anonymous users will be redirected. The information included in the form will be sent to CRM through the Master Data APIs ([see documentation](https://developers.vtex.com/reference/master-data-api-v2-overview)), that is, the development of a JavaScript file will be required for using this function. Check out [examples of HTML and JavaScript files](//assets.contentful.com/alneenqid6w5/5PJaFVGdOwomgCYG66g2M4/ac29ba69fdd11cb8c87b88a0a6a62795/ExemploTemplateB2B.rar "Example of HTML and JS")[ templates](//assets.contentful.com/alneenqid6w5/5PJaFVGdOwomgCYG66g2M4/ac29ba69fdd11cb8c87b88a0a6a62795/ExemploTemplateB2B.rar " templates") serving this purpose.
+Upon the definition of fields, the pre-registration form must be created on the **system/401** folder, since this is the only folder to which anonymous users will be redirected. The information included in the form will be sent to CRM through the Master Data APIs ([see documentation](https://developers.vtex.com/reference/master-data-api-v2-overview)), that is, the development of a JavaScript file will be required for using this function. Check out [examples of HTML and JavaScript files](https://raw.githubusercontent.com/vtexdocs/help-center-content/files-migration-script/docs/en/tutorials/b2b/practical-guides/ExemploTemplateB2B.rar)[templates](https://raw.githubusercontent.com/vtexdocs/help-center-content/files-migration-script/docs/en/tutorials/b2b/practical-guides/ExemploTemplateB2B-1.rar) serving this purpose.
 
 ## 5. Operation
 

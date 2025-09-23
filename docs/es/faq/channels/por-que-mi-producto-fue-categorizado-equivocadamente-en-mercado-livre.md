@@ -20,7 +20,7 @@ Esta definición de la categoría de destino se realiza sobre la base del __nomb
 
 Sin embargo, hay casos en que esta configuración automática no asocia el producto a la categoría correcta. Para corregir este escenario, es necesario realizar el cambio directamente en el panel del Mercado Libre o seguir el camino detallado abajo:
 
-1. [Descargue esta hoja de trabajo](//assets.ctfassets.net/alneenqid6w5/3rSztadiHm2wucS4cQ0O4o/2dba1cfc3a3687ec0510215ed040c25d/Mercado_Libre_-__Recategorizacion.xlsx) y rellene sus respectivas columnas.
+1. [Descargue esta hoja de trabajo](https://raw.githubusercontent.com/vtexdocs/help-center-content/files-migration-script/docs/es/faq/channels/Mercado_Libre_-__Recategorizacion.xlsx) y rellene sus respectivas columnas.
 2. __ID de anuncio:__ se debe rellenar con el ID de su anuncio en Mercado Libre, sacando el guión que separa el sufijo del número.
 _`Ex:` el ID se puede encontrar en la URL del anuncio. En el siguiente enlace por ejemplo, el ID sería "MLA713224614"._
 https://articulo.mercadolibre.com.ar/MLA-713224614-cafetera-de-filtro-electrolux-cmb31-jarra-de-vidrio-_JM

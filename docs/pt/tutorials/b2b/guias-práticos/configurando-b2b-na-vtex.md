@@ -69,7 +69,7 @@ Dessa forma, é necessário definir os campos desse pré-cadastro. Normalmente, 
 
 Após definidos os campos, você deverá criar o formulário de pré-cadastro na pasta **/sistema/401**, pois é a única pasta para onde o usuário anônimo sempre será redirecionado.
 
-As informações submetidas no formulário deverão ser enviadas para o CRM através das APIs do Master Data ([veja documentação](https://developers.vtex.com/reference/master-data-api-v2-overview), ou seja, será necessário desenvolver um JavaScript para aplicar essa função. Confira aqui um [exemplo de template HTML e JavaScript](//assets.contentful.com/alneenqid6w5/5PJaFVGdOwomgCYG66g2M4/ac29ba69fdd11cb8c87b88a0a6a62795/ExemploTemplateB2B.rar "Exemplo de template HTML e JS") com esse propósito.
+As informações submetidas no formulário deverão ser enviadas para o CRM através das APIs do Master Data ([veja documentação](https://developers.vtex.com/reference/master-data-api-v2-overview), ou seja, será necessário desenvolver um JavaScript para aplicar essa função. Confira aqui um [exemplo de template HTML e JavaScript](https://raw.githubusercontent.com/vtexdocs/help-center-content/files-migration-script/docs/pt/tutorials/b2b/guias-práticos/ExemploTemplateB2B.rar) com esse propósito.
 
 ## 5. Operação
 

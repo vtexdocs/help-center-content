@@ -34,7 +34,7 @@ Para conhecer os valores aceitos pela Casas Bahia Marketplace é necessário faz
 
 Nessa etapa você precisará mapear os atributos dos produtos e enviá-los para o marketplace. O envio dessas informações é feito por meio da planilha de mapeamento, ela tem o objetivo de indicar à Casas Bahia Marketplace a correspondência entre os valores cadastrados na sua loja e os valores aceitos na Casas Bahia Marketplace.
 
-Faça o download do arquivo da [ Planilha de Mapeamento da Casas Bahia Marketplace](//assets.ctfassets.net/alneenqid6w5/3y2lW3BcJPIg35Eeba9DI8/d364bd1a57319f4d830b4dd51aa95c86/vvj_map__1_.xlsx) e utilize o arquivo baixado como modelo para preenchimento. Esta é a planilha que será preenchida e enviada posteriormente para a Casas Bahia Marketplace.
+Faça o download do arquivo da [Planilha de Mapeamento da Casas Bahia Marketplace](https://raw.githubusercontent.com/vtexdocs/help-center-content/files-migration-script/docs/pt/tracks/marketplace/integracao-com-a-casas-bahia-marketplace/vvj_map__1_.xlsx) e utilize o arquivo baixado como modelo para preenchimento. Esta é a planilha que será preenchida e enviada posteriormente para a Casas Bahia Marketplace.
 
 ## 3. Preenchimento da planilha de mapeamento
 
