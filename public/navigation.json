@@ -43628,6 +43628,21 @@
             },
             {
               "name": {
+                "en": "Mercado Livre Some ads are duplicated on the Marketplace",
+                "es": "Mercado Livre Algunos anuncios están duplicados en el Mercado",
+                "pt": "Mercado Livre Alguns anúncios estão duplicados no Marketplace"
+              },
+              "slug": {
+                "en": "mercado-livre-some-ads-are-duplicated-on-the-marketplace",
+                "es": "mercado-livre-algunos-anuncios-estan-duplicados-en-el-mercado",
+                "pt": "mercado-livre-alguns-anuncios-estao-duplicados-no-marketplace"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Netshoes - Main Image not respected",
                 "es": "Imagen principal no respetada",
                 "pt": "Netshoes - Imagem principal não respeitada"
