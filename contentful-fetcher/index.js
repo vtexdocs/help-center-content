@@ -17,6 +17,7 @@ const { isArchived } = require("./utils/entryStatus");
 const { normalizeFolderName } = require("./utils/normalize");
 const { convertInlineHtmlToMarkdown } = require("./utils/markdownUtils");
 const { updateImages } = require("./utils/updateImages");
+const { updateFiles } = require("./utils/updateFiles");
 const { runLinkConversion } = require("./utils/linkConverter");
 const { isDraft } = require("contentful-management");
 const fs = require("fs");
@@ -36,6 +37,7 @@ async function main() {
   let contentTypes = args.contentType?.split(",") ?? allowedTypes;
   const skipImages = args.skipImages;
   const skipWrite = args.skipWrite;
+  const skipFiles = args.skipFiles;
   const updatedAfter = args.updatedAfter;
   const skipLinkConversion = !!args.skipLinkConversion;
   const convertLinksOnly = !!args.convertLinksOnly;
@@ -296,6 +298,29 @@ async function main() {
       console.log(`🖼️ Starting image update process for ${folder}`);
       await updateImages(folder, locales); // currently only process one locale for images
     }
+  }
+
+  // FETCH AND UPDATE DOWNLOADABLE FILE LINKS
+  if (!skipFiles) {
+    const folderMap = {
+      trackArticle: "tracks",
+      tutorial: "tutorials",
+      troubleshooting: "troubleshooting",
+      updates: "announcements",
+      frequentlyAskedQuestion: "faq",
+    };
+
+    const requestedTypes = args.contentType?.split(",") ?? allowedTypes;
+    const foldersToUpdate = requestedTypes
+      .map((type) => folderMap[type])
+      .filter(Boolean);
+
+    for (const folder of foldersToUpdate) {
+      console.log(`📥 Starting files update process for ${folder}`);
+      await updateFiles(folder, locales);
+    }
+  } else {
+    console.log("⏭️ Skipping files update (--skipFiles flag set)");
   }
 
   // LINK CONVERSION - Run after ALL content migration is complete
