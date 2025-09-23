@@ -91,7 +91,7 @@ So the Administrator won't have to manually exclude several SKUs one by one, it 
 
 ![Excluir_lista_de_skus](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/collection/creating-a-product-collection_8.gif)
 
-Obtain a model of a file for importation, both for including and excluding items from the collection [here](//assets.contentful.com/alneenqid6w5/Lo7Y0tXh6eKyyUSs4MESQ/209e614248978f0e86a37e4ddff50162/Colecao.xls "here").
+Obtain a model of a file for importation, both for including and excluding items from the collection [here](https://raw.githubusercontent.com/vtexdocs/help-center-content/files-migration-script/docs/en/tutorials/catalog/collection/Colecao.xls).
 
 ## Searching collections
 

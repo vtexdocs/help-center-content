@@ -113,7 +113,7 @@ Para evitar que um administrador tenha que excluir manualmente diversos SKUs, um
 
 ![Excluir_lista_de_skus](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/cat%C3%A1logo/cole%C3%A7%C3%B5es/criando-colecao-de-produtos_8.gif)
 
-Obtenha um modelo de arquivo para a importação tanto para inclusão quanto para exclusão de itens na coleção [aqui](//assets.contentful.com/alneenqid6w5/Lo7Y0tXh6eKyyUSs4MESQ/209e614248978f0e86a37e4ddff50162/Colecao.xls "aqui").
+Obtenha um modelo de arquivo para a importação tanto para inclusão quanto para exclusão de itens na coleção [aqui](https://raw.githubusercontent.com/vtexdocs/help-center-content/files-migration-script/docs/pt/tutorials/catálogo/coleções/Colecao.xls).
 
 ### Pesquisar coleções
 

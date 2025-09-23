@@ -47,7 +47,7 @@ Si deseas enviar los atributos de tus productos a Facebook, debes completar los 
 
 El mapeo por plantilla es lo que le permite establecer la correspondencia entre los atributos de tus productos en la plataforma VTEX y los estándares utilizados por Facebook.
 
-El primer paso para realizar el mapeo es descargar el archivo [Plantilla de mapeo Facebook.xlsx](//assets.ctfassets.net/alneenqid6w5/52pBgj6plpcSAp1X2DqgJ9/c6f5b2b748bdd5ff3e4d507a1e8ba524/Planilha_de_Mapeamento_Facebook.xlsx).
+El primer paso para realizar el mapeo es descargar el archivo [Plantilla de mapeo Facebook.xlsx](https://raw.githubusercontent.com/vtexdocs/help-center-content/files-migration-script/docs/es/tracks/marketplace/integracion-de-facebook/Planilha_de_Mapeamento_Facebook.xlsx).
 
 ### Llenar la plantilla de mapeo
 

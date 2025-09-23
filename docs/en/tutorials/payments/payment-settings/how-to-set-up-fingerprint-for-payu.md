@@ -98,7 +98,7 @@ Once the tag has been set up, it is necessary to save the JS captured from the c
 
 ![cms js](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payment-settings/how-to-set-up-fingerprint-for-payu_9.png)
 
-__Attachment__: [md5.js](//assets.contentful.com/alneenqid6w5/5PeWM49nPykYYeWI4cOCy4/60c61b5bcf0b4ce92f211f944ab261ad/md5.js)
+__Attachment__: [md5.js](https://raw.githubusercontent.com/vtexdocs/help-center-content/files-migration-script/docs/en/tutorials/payments/payment-settings/md5.js)
 
 ### Validation
 

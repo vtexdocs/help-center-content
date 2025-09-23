@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisPT: 'Agora, você pode fazer o upload de uma planilha XLS com todos os pickup points que deseja oferecer na sua loja.'
 ---
 
-Você não precisa mais cadastrar pontos de retirada um a um. Agora, o Admin permite que você faça o upload de uma planilha XLS [(como a deste exemplo)](//assets.ctfassets.net/alneenqid6w5/2QZFVRKdaoOkykE4AUkw6m/bdf62b6d028819b5b8c08ef7a27eadc6/pickups_example.xls) com todos os pickup points que deseja oferecer na sua loja.
+Você não precisa mais cadastrar pontos de retirada um a um. Agora, o Admin permite que você faça o upload de uma planilha XLS [(como a deste exemplo)](https://raw.githubusercontent.com/vtexdocs/help-center-content/files-migration-script/docs/pt/announcements/2018/dezembro/pickups_example.xls) com todos os pickup points que deseja oferecer na sua loja.
 
 
 ## Mais agilidade nas suas configurações de logística
