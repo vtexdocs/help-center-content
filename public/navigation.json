@@ -114,6 +114,21 @@
                 },
                 {
                   "name": {
+                    "en": "New feature: Seller opt-in for promotions",
+                    "es": "Nueva funcionalidad: opt-in de sellers en promociones",
+                    "pt": "Nova funcionalidade: opt-in de seller em promoções"
+                  },
+                  "slug": {
+                    "en": "2025-09-22-new-feature-seller-opt-in-for-promotions",
+                    "es": "2025-09-22-nueva-funcionalidad-opt-in-de-sellers-en-promociones",
+                    "pt": "2025-09-22-nova-funcionalidade-opt-in-de-seller-em-promocoes"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Shopping Season: Get your store ready with our best practices guide",
                     "es": "Temporada de Compras: Prepare su tienda con nuestra guía de buenas prácticas",
                     "pt": "Black Friday: Prepare sua loja com a nossa cartilha de boas práticas"
@@ -43621,6 +43636,21 @@
                 "en": "mercado-livre-mapper-attribute-size",
                 "es": "tamano-del-atributo-mercado-livre-mapper",
                 "pt": "tamanho-do-atributo-do-mercado-livre-mapper"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Mercado Livre Some ads are duplicated on the Marketplace",
+                "es": "Mercado Livre Algunos anuncios están duplicados en el Mercado",
+                "pt": "Mercado Livre Alguns anúncios estão duplicados no Marketplace"
+              },
+              "slug": {
+                "en": "mercado-livre-some-ads-are-duplicated-on-the-marketplace",
+                "es": "mercado-livre-algunos-anuncios-estan-duplicados-en-el-mercado",
+                "pt": "mercado-livre-alguns-anuncios-estao-duplicados-no-marketplace"
               },
               "origin": "",
               "type": "markdown",
