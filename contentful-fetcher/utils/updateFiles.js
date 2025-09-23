@@ -10,6 +10,10 @@ const docsDirES = path.join(__dirname, "..", "..", "docs", "es");
 
 const MAX_CONCURRENT_FILES = 100;
 const ASSETS_PROTOCOL = "https:";
+// Configure GitHub link generation
+const PROJECT_ROOT = path.join(__dirname, "..", "..");
+const GITHUB_REPO = process.env.GITHUB_REPO || "vtexdocs/help-center-content"; // format: org/repo
+const GITHUB_BRANCH = process.env.GITHUB_BRANCH || "main";
 
 let activeFiles = 0;
 let fileQueue = [];
@@ -87,9 +91,18 @@ async function downloadToFile(absoluteUrl, targetFilePath) {
 /**
  * Builds an HTML anchor with download attribute to force browser download.
  */
-function buildDownloadAnchor(text, localFilename) {
-  const safeText = text && String(text).trim() ? String(text).trim() : localFilename;
-  return `<a href="./${localFilename}" download>${safeText}</a>`;
+function buildMarkdownGitHubLink(text, repoRelativePath, fallbackLocalFilename) {
+  const safeText = text && String(text).trim() ? String(text).trim() : (fallbackLocalFilename || repoRelativePath);
+  const normalizedRepoPath = repoRelativePath.replace(/\\/g, "/");
+  if (GITHUB_REPO) {
+    const rawUrl = `https://raw.githubusercontent.com/${GITHUB_REPO}/${GITHUB_BRANCH}/${normalizedRepoPath}`;
+    return `[${safeText}](${rawUrl})`;
+  }
+  // Fallback to local relative link if repo not configured
+  if (!process.env.__SILENCE_UPDATE_FILES_WARN) {
+    console.warn("⚠️ GITHUB_REPO not set. Falling back to local relative link.");
+  }
+  return `[${safeText}](./${fallbackLocalFilename || normalizedRepoPath.split('/').pop()})`;
 }
 
 /**
@@ -126,8 +139,10 @@ async function processMarkdownFile(filePath) {
 
       await downloadToFile(absoluteUrl, targetPath);
 
-      const anchor = buildDownloadAnchor(text, uniqueName);
-      replacements.push({ full, anchor });
+      // Build repo-relative path for GitHub link
+      const repoRelativePath = path.relative(PROJECT_ROOT, targetPath);
+      const markdownLink = buildMarkdownGitHubLink(text, repoRelativePath, uniqueName);
+      replacements.push({ full, replacement: markdownLink });
     } catch (error) {
       console.error(`❌ Error downloading asset for ${filePath}: ${url}`, error.message);
     }
@@ -136,8 +151,8 @@ async function processMarkdownFile(filePath) {
   if (replacements.length === 0) return;
 
   let newContent = content;
-  for (const { full, anchor } of replacements) {
-    newContent = newContent.replace(full, anchor);
+  for (const { full, replacement } of replacements) {
+    newContent = newContent.replace(full, replacement);
   }
 
   try {
