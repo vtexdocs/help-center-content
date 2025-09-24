@@ -14076,51 +14076,6 @@
             },
             {
               "name": {
-                "es": "El pedido de mi tienda presenta el status \"Verificando factura\"",
-                "pt": "O pedido da minha loja está parado no status \"Verificando nota fiscal\"",
-                "en": "El pedido de mi tienda presenta el status \"Verificando factura\""
-              },
-              "slug": {
-                "es": "el-pedido-de-mi-tienda-presenta-el-status-verificando-factura",
-                "pt": "o-pedido-da-minha-loja-esta-parado-no-status-verificando-nota-fiscal",
-                "en": ""
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "es": "El pedido se detiene en el status \"Listo para preparación\"",
-                "pt": "O pedido não avança após o status \"Pronto para manuseio\"",
-                "en": "El pedido se detiene en el status \"Listo para preparación\""
-              },
-              "slug": {
-                "es": "el-pedido-se-detiene-en-el-status-listo-para-preparacion",
-                "pt": "o-pedido-nao-avanca-apos-o-status-pronto-para-manuseio",
-                "en": ""
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "es": "El pedido se detiene en el status \"Preparando envío\"",
-                "pt": "O pedido não avança após o status \"Preparando entrega\"",
-                "en": "El pedido se detiene en el status \"Preparando envío\""
-              },
-              "slug": {
-                "es": "el-pedido-se-detiene-en-el-status-preparando-envio",
-                "pt": "o-pedido-nao-avanca-apos-o-status-preparando-entrega",
-                "en": ""
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Error installing custom SSL certificates",
                 "es": "Error al instalar certificado SSL personalizado",
                 "pt": "Erro ao instalar certificado SSL customizado"
@@ -14361,6 +14316,21 @@
             },
             {
               "name": {
+                "en": "​​My store's order still has the status \"Verifying invoice\"",
+                "es": "El pedido de mi tienda presenta el status \"Verificando factura\"",
+                "pt": "O pedido da minha loja está parado no status \"Verificando nota fiscal\""
+              },
+              "slug": {
+                "en": "my-stores-order-still-has-the-status-verifying-invoice",
+                "es": "el-pedido-de-mi-tienda-presenta-el-status-verificando-factura",
+                "pt": "o-pedido-da-minha-loja-esta-parado-no-status-verificando-nota-fiscal"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "My store’s Site Editor is not working",
                 "es": "Problemas con Site Editor en mi tienda",
                 "pt": "O Site Editor da minha loja não está funcionando"
@@ -14399,6 +14369,36 @@
                 "en": "promotion-not-applied-to-the-marketplace",
                 "es": "promocion-no-aplicada-en-marketplace",
                 "pt": "promocao-nao-aplicada-ao-marketplace"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "The order doesn't progress after the status \"Handling shipping\"",
+                "es": "El pedido se detiene en el status \"Preparando envío\"",
+                "pt": "O pedido não avança após o status \"Preparando entrega\""
+              },
+              "slug": {
+                "en": "the-order-doesnt-progress-after-the-status-handling-shipping",
+                "es": "el-pedido-se-detiene-en-el-status-preparando-envio",
+                "pt": "o-pedido-nao-avanca-apos-o-status-preparando-entrega"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "The order doesn't progress after the status \"Ready for handling\"",
+                "es": "El pedido se detiene en el status \"Listo para preparación\"",
+                "pt": "O pedido não avança após o status \"Pronto para manuseio\""
+              },
+              "slug": {
+                "en": "the-order-doesnt-progress-after-the-status-ready-for-handling",
+                "es": "el-pedido-se-detiene-en-el-status-listo-para-preparacion",
+                "pt": "o-pedido-nao-avanca-apos-o-status-pronto-para-manuseio"
               },
               "origin": "",
               "type": "markdown",
@@ -17637,97 +17637,6 @@
             },
             {
               "name": {
-                "en": "Kit",
-                "es": "Kit",
-                "pt": "Kit"
-              },
-              "slug": {
-                "en": "kit",
-                "es": "kit",
-                "pt": "kit"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Defining the order of kit look products",
-                    "es": "Ordenar los productos del kit look",
-                    "pt": "Ordenar os produtos do kit look"
-                  },
-                  "slug": {
-                    "en": "how-to-define-the-order-of-lookkit",
-                    "es": "como-ordenar-los-productos-del-kitlook",
-                    "pt": "como-ordenar-os-produtos-do-kitlook"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "How to assemble a Kit Look",
-                    "es": "Montar un Kit Look",
-                    "pt": "Montar um Kit Look"
-                  },
-                  "slug": {
-                    "en": "how-to-assemble-a-look-kit",
-                    "es": "como-montar-un-kit-look",
-                    "pt": "como-montar-um-kit-look"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Kit registration",
-                    "es": "Registrar kit",
-                    "pt": "Cadastrar kit"
-                  },
-                  "slug": {
-                    "en": "kit-registration",
-                    "es": "registrar-kit",
-                    "pt": "cadastrando-kit"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Managing the kit stock",
-                    "es": "Gestionar el inventario del kit",
-                    "pt": "Gerenciar estoque do kit"
-                  },
-                  "slug": {
-                    "en": "how-to-manage-the-kit-stock",
-                    "es": "como-gestionar-el-inventario-del-kit",
-                    "pt": "como-gerenciar-estoque-do-kit"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "What is a kit?",
-                    "es": "Qué es un kit?",
-                    "pt": "O que é um kit?"
-                  },
-                  "slug": {
-                    "en": "what-is-a-kit",
-                    "es": "que-es-un-kit",
-                    "pt": "o-que-e-um-kit"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
                 "en": "List types",
                 "es": "Tipos de lista",
                 "pt": "Tipos de lista"
@@ -17780,6 +17689,97 @@
                     "en": "what-is-a-list",
                     "es": "que-es-una-lista",
                     "pt": "o-que-e-uma-lista"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Kit",
+                "es": "Kit",
+                "pt": "Kit"
+              },
+              "slug": {
+                "en": "kit",
+                "es": "kit",
+                "pt": "kit"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Bundle registration",
+                    "es": "Registrar kit",
+                    "pt": "Cadastrar kit"
+                  },
+                  "slug": {
+                    "en": "bundle-registration",
+                    "es": "registrar-kit",
+                    "pt": "cadastrar-kit"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Defining the order of outfit products",
+                    "es": "Ordenar los productos del kit de look",
+                    "pt": "Ordenar os produtos do kit look"
+                  },
+                  "slug": {
+                    "en": "how-to-define-the-order-of-outfit-products",
+                    "es": "como-ordenar-los-productos-del-kit-de-look",
+                    "pt": "como-ordenar-os-produtos-do-kit-look"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "How to assemble an Outfit",
+                    "es": "Montar un Kit de look",
+                    "pt": "Montar um Kit look"
+                  },
+                  "slug": {
+                    "en": "how-to-assemble-an-outfit",
+                    "es": "como-montar-un-kit-de-look",
+                    "pt": "como-montar-um-kit-look"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Managing the bundle stock",
+                    "es": "Gestionar el inventario del kit",
+                    "pt": "Gerenciar estoque do kit"
+                  },
+                  "slug": {
+                    "en": "how-to-manage-the-bundle-stock",
+                    "es": "como-gestionar-el-inventario-del-kit",
+                    "pt": "como-gerenciar-estoque-do-kit"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "What is a bundle?",
+                    "es": "Qué es un kit?",
+                    "pt": "O que é um kit?"
+                  },
+                  "slug": {
+                    "en": "what-is-a-bundle",
+                    "es": "que-es-un-kit",
+                    "pt": "o-que-e-um-kit"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -19721,6 +19721,948 @@
                   "children": []
                 }
               ]
+            },
+            {
+              "name": {
+                "en": "Employee registrations",
+                "es": "Registros de empleados",
+                "pt": "Cadastros de colaboradores"
+              },
+              "slug": {
+                "en": "employee-registrations",
+                "es": "registros-de-empleados",
+                "pt": "cadastros-de-colaboradores"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Manage administrative user access in the Indeva platform",
+                    "es": "Registrar nuevo usuario: franquiciado, supervisor o equivalente",
+                    "pt": "Gerenciar acesso de usuários administrativos na plataforma Indeva"
+                  },
+                  "slug": {
+                    "en": "manage-administrative-user-access-in-the-indeva-platform",
+                    "es": "registrar-nuevo-usuario-franquiciado-supervisor-equivalente-indeva",
+                    "pt": "gerenciar-acesso-de-usuarios-administrativos-na-plataforma-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Goals",
+                "es": "Metas",
+                "pt": "Metas"
+              },
+              "slug": {
+                "en": "goals",
+                "es": "metas",
+                "pt": "metas"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Adjust goals after a seller’s deactivation",
+                    "es": "Ajustar metas después del desligamiento de un vendedor",
+                    "pt": "Ajustar metas após o desligamento de um vendedor"
+                  },
+                  "slug": {
+                    "en": "adjust-goals-after-a-sellers-deactivation-indeva",
+                    "es": "ajustar-metas-despues-del-desligamiento-de-un-vendedor-indeva",
+                    "pt": "ajustar-metas-apos-o-desligamento-de-um-vendedor-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Change goal distribution format",
+                    "es": "Cambiar el formato de distribución de la meta",
+                    "pt": "Alterar formato de distribuição da meta"
+                  },
+                  "slug": {
+                    "en": "change-goal-distribution-format-indeva",
+                    "es": "cambiar-el-formato-de-distribucion-de-la-meta-indeva",
+                    "pt": "alterar-formato-de-distribuicao-da-meta-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Register time off for a seller",
+                    "es": "Registrar día libre para un vendedor",
+                    "pt": "Cadastrar folga para um vendedor"
+                  },
+                  "slug": {
+                    "en": "register-time-off-for-a-seller",
+                    "es": "registrar-dia-libre-para-un-vendedor",
+                    "pt": "cadastrar-folga-para-um-vendedor"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Resolve date conflict in goals",
+                    "es": "Resolver conflicto de fechas en metas",
+                    "pt": "Resolver conflito de datas em metas"
+                  },
+                  "slug": {
+                    "en": "resolve-date-conflict-in-goals-indeva",
+                    "es": "resolver-conflicto-de-fechas-en-metas-indeva",
+                    "pt": "resolver-conflito-de-datas-em-metas-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Goals registration",
+                "es": "Registro de metas",
+                "pt": "Cadastro de metas"
+              },
+              "slug": {
+                "en": "goals-registration",
+                "es": "registro-de-metas",
+                "pt": "cadastro-de-metas"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Choose a store",
+                    "es": "Elige una tienda",
+                    "pt": "Escolha uma loja"
+                  },
+                  "slug": {
+                    "en": "choose-a-store",
+                    "es": "elige-una-tienda",
+                    "pt": "escolha-uma-loja"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Division of the goal cycle into periods",
+                    "es": "División del ciclo de la meta en períodos",
+                    "pt": "Divisão do ciclo da meta em períodos"
+                  },
+                  "slug": {
+                    "en": "division-of-the-goal-cycle-into-periods-indeva",
+                    "es": "division-del-ciclo-de-la-meta-en-periodos-indeva",
+                    "pt": "divisao-do-ciclo-da-meta-em-periodos-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Goal cycle control",
+                    "es": "Control del ciclo de metas",
+                    "pt": "Controle do ciclo de meta"
+                  },
+                  "slug": {
+                    "en": "goal-cycle-control-indeva",
+                    "es": "control-del-ciclo-de-metas-indeva",
+                    "pt": "controle-do-ciclo-de-meta-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Goal information review",
+                    "es": "Revisión de la información de la meta",
+                    "pt": "Revisão das informações da meta"
+                  },
+                  "slug": {
+                    "en": "goal-information-review-indeva",
+                    "es": "revision-de-la-informacion-de-la-meta-indeva",
+                    "pt": "revisao-das-informacoes-da-meta-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Goal period values",
+                    "es": "Valores de los períodos de la meta",
+                    "pt": "Valores dos períodos da meta"
+                  },
+                  "slug": {
+                    "en": "goal-period-values-indeva",
+                    "es": "valores-de-los-periodos-de-la-meta-indeva",
+                    "pt": "valores-dos-periodos-da-meta-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Goal time cycle definition",
+                    "es": "Definición del ciclo temporal de la meta",
+                    "pt": "Definição do ciclo temporal da meta"
+                  },
+                  "slug": {
+                    "en": "goal-time-cycle-definition-indeva",
+                    "es": "definicion-del-ciclo-temporal-de-la-meta-indeva",
+                    "pt": "definicao-do-ciclo-temporal-da-meta-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Sales goals registration",
+                    "es": "Registro de metas de ventas",
+                    "pt": "Cadastro de metas de vendas"
+                  },
+                  "slug": {
+                    "en": "sales-goals-registration-indeva",
+                    "es": "registro-de-metas-de-ventas-indeva",
+                    "pt": "cadastro-de-metas-de-vendas-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Seller goal format",
+                    "es": "Formato de metas de los vendedores",
+                    "pt": "Formato de metas dos vendedores"
+                  },
+                  "slug": {
+                    "en": "seller-goal-format-indeva",
+                    "es": "formato-de-metas-de-los-vendedores-indeva",
+                    "pt": "formato-de-metas-dos-vendedores-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Time off and holidays",
+                    "es": "Días libres y feriados",
+                    "pt": "Folgas e feriados"
+                  },
+                  "slug": {
+                    "en": "time-off-and-holidays-indeva",
+                    "es": "dias-libres-y-feriados-indeva",
+                    "pt": "folgas-e-feriados-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Weight distribution",
+                    "es": "Distribución de pesos",
+                    "pt": "Distribuição de pesos"
+                  },
+                  "slug": {
+                    "en": "weight-distribution",
+                    "es": "distribucion-de-pesos",
+                    "pt": "distribuicao-de-pesos"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Managers",
+                "es": "Gerentes",
+                "pt": "Gerentes"
+              },
+              "slug": {
+                "en": "managers",
+                "es": "gerentes",
+                "pt": "gerentes"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Deactivate manager",
+                    "es": "Desactivar gerente",
+                    "pt": "Desligar gerente"
+                  },
+                  "slug": {
+                    "en": "deactivate-manager-indeva",
+                    "es": "desactivar-gerente-indeva",
+                    "pt": "desligar-gerente-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Manager registration",
+                    "es": "Registro de gerente",
+                    "pt": "Cadastro de gerente"
+                  },
+                  "slug": {
+                    "en": "manager-registration-indeva",
+                    "es": "registro-de-gerente-indeva",
+                    "pt": "cadastro-de-gerente-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Vacation manager",
+                    "es": "Gerente de vacaciones",
+                    "pt": "Gerente de Férias"
+                  },
+                  "slug": {
+                    "en": "vacation-manager-indeva",
+                    "es": "gerente-de-vacaciones-indeva",
+                    "pt": "gerente-de-ferias-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Viewing feedback",
+                    "es": "Viendo retroalimentación",
+                    "pt": "Visualizando feedback"
+                  },
+                  "slug": {
+                    "en": "viewing-feedback-indeva",
+                    "es": "viendo-retroalimentacion-indeva",
+                    "pt": "visualizando-feedback-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Rankings AND campaigns",
+                "es": "Rankings y campañas",
+                "pt": "Rankings e campanhas"
+              },
+              "slug": {
+                "en": "rankings-and-campaigns",
+                "es": "rankings-y-campanas",
+                "pt": "rankings-e-campanhas"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Campaigns overview",
+                    "es": "Visión general de campañas",
+                    "pt": "Visão geral de campanhas"
+                  },
+                  "slug": {
+                    "en": "campaigns-overview-indeva",
+                    "es": "vision-general-de-campanas-indeva",
+                    "pt": "visao-geral-de-campanhas-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Overview of rankings",
+                    "es": "Visión general de rankings",
+                    "pt": "Visão geral de rankings"
+                  },
+                  "slug": {
+                    "en": "overview-of-rankings",
+                    "es": "vision-general-de-rankings",
+                    "pt": "visao-geral-de-rankings"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Reports",
+                "es": "Informes",
+                "pt": "Relatórios"
+              },
+              "slug": {
+                "en": "reports",
+                "es": "informes",
+                "pt": "relatorios"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Daily progress report",
+                    "es": "Informe de evolución diaria",
+                    "pt": "Relatório Evolução diária"
+                  },
+                  "slug": {
+                    "en": "daily-progress-report-indeva",
+                    "es": "informe-de-evolucion-diaria-indeva",
+                    "pt": "relatorio-evolucao-diaria-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Filter data",
+                    "es": "Filtrar datos",
+                    "pt": "Filtrar dados"
+                  },
+                  "slug": {
+                    "en": "filter-data-indeva",
+                    "es": "filtrar-datos-indeva",
+                    "pt": "filtrar-dados-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Loss reasons report",
+                    "es": "Informe de motivos de pérdida",
+                    "pt": "Relatório Motivos de perdas"
+                  },
+                  "slug": {
+                    "en": "relatorio-motivos-de-perdas-indeva",
+                    "es": "relatorio-motivos-de-perdas-indeva",
+                    "pt": "relatorio-motivos-de-perdas-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Opportunity flow report",
+                    "es": "Informe de flujo de oportunidades",
+                    "pt": "Relatório Fluxo de oportunidades"
+                  },
+                  "slug": {
+                    "en": "opportunity-flow-report",
+                    "es": "informe-de-flujo-de-oportunidades",
+                    "pt": "relatorio-fluxo-de-oportunidades"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Sales wall report",
+                    "es": "Informe del mural de ventas",
+                    "pt": "Relatório Mural de vendas"
+                  },
+                  "slug": {
+                    "en": "relatorio-mural-de-vendas-indeva",
+                    "es": "relatorio-mural-de-vendas-indeva",
+                    "pt": "relatorio-mural-de-vendas-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Utilization flow report",
+                    "es": "Informe de flujo de aprovechamiento",
+                    "pt": "Relatório Fluxo de aproveitamento"
+                  },
+                  "slug": {
+                    "en": "utilization-flow-report-indeva",
+                    "es": "informe-de-flujo-de-aprovechamiento-indeva",
+                    "pt": "relatorio-fluxo-de-aproveitamento-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "X-Ray Report",
+                    "es": "Informe Rayos X",
+                    "pt": "Relatório Raio X"
+                  },
+                  "slug": {
+                    "en": "x-ray-report-indeva",
+                    "es": "informe-rayos-x-indeva",
+                    "pt": "relatorio-raio-x-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Sales update with pdv",
+                "es": "Actualización de ventas con pdv",
+                "pt": "Atualização de vendas com pdv"
+              },
+              "slug": {
+                "en": "sales-update-with-pdv",
+                "es": "actualizacion-de-ventas-con-pdv",
+                "pt": "atualizacao-de-vendas-com-pdv"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "ERP",
+                    "es": "ERP",
+                    "pt": "ERP"
+                  },
+                  "slug": {
+                    "en": "erp",
+                    "es": "erp",
+                    "pt": "erp"
+                  },
+                  "origin": "",
+                  "type": "category",
+                  "children": [
+                    {
+                      "name": {
+                        "en": "Configure TCP/IP connection to resolve IP or port failure",
+                        "es": "Configurar la conexión TCP/IP para resolver fallo en la IP o el puerto",
+                        "pt": "Configurar conexão TCP/IP para resolver falha no IP ou porta"
+                      },
+                      "slug": {
+                        "en": "configure-tcp-ip-connection-to-resolve-ip-or-port-failure-indeva",
+                        "es": "configurar-la-conexion-tcp-ip-para-resolver-fallo-en-la-ip-o-el-puerto-indeva",
+                        "pt": "configurar-conexao-tcp-ip-para-resolver-falha-no-ip-ou-porta-indeva"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Integration interruption with other systems",
+                        "es": "Integration interruption with other systems",
+                        "pt": "Interrupção na integração com outros sistemas"
+                      },
+                      "slug": {
+                        "en": "integration-interruption-with-other-systems-indeva",
+                        "es": "integration-interruption-with-other-systems-indeva",
+                        "pt": "interrupcao-na-integracao-com-outros-sistemas-indeva"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Open the Indeva Integrator",
+                        "es": "Abrir el Integrador Indeva",
+                        "pt": "Abrir o Integrador Indeva"
+                      },
+                      "slug": {
+                        "en": "open-the-indeva-integrator",
+                        "es": "abrir-el-integrador-indeva",
+                        "pt": "abrir-o-integrador-indeva"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Real-time sales",
+                        "es": "Ventas en tiempo real",
+                        "pt": "Vendas em Tempo Real"
+                      },
+                      "slug": {
+                        "en": "real-time-sales-indeva",
+                        "es": "ventas-en-tiempo-real-indeva",
+                        "pt": "vendas-em-tempo-real-indeva"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Sales validation",
+                "es": "Validación de ventas",
+                "pt": "Validação de vendas"
+              },
+              "slug": {
+                "en": "sales-validation",
+                "es": "validacion-de-ventas",
+                "pt": "validacao-de-vendas"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "How to validate sales on the platform",
+                    "es": "Cómo validar ventas en la plataforma",
+                    "pt": "Como validar vendas na plataforma"
+                  },
+                  "slug": {
+                    "en": "how-to-validate-sales-on-the-platform-indeva",
+                    "es": "como-validar-ventas-en-la-plataforma-indeva",
+                    "pt": "como-validar-vendas-na-plataforma-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Seller feedback",
+                "es": "Feedback del vendedor",
+                "pt": "Feedback do vendedor"
+              },
+              "slug": {
+                "en": "seller-feedback",
+                "es": "feedback-del-vendedor",
+                "pt": "feedback-do-vendedor"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Conditions to register feedback",
+                    "es": "Condiciones para registrar retroalimentación",
+                    "pt": "Condições para cadastrar feedback"
+                  },
+                  "slug": {
+                    "en": "conditions-to-register-feedback-indeva",
+                    "es": "condiciones-para-registrar-retroalimentacion-indeva",
+                    "pt": "condicoes-para-cadastrar-feedback-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Register feedback for sellers",
+                    "es": "Registrar retroalimentación para vendedores",
+                    "pt": "Registrar feedback para vendedores"
+                  },
+                  "slug": {
+                    "en": "register-feedback-for-sellers-indeva",
+                    "es": "registrar-retroalimentacion-para-vendedores-indeva",
+                    "pt": "registrar-feedback-para-vendedores-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Sellers",
+                "es": "Sellers",
+                "pt": "Vendedores"
+              },
+              "slug": {
+                "en": "sellers",
+                "es": "sellers",
+                "pt": "vendedores"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Deactivate seller",
+                    "es": "Desactivar vendedor",
+                    "pt": "Desligar vendedor"
+                  },
+                  "slug": {
+                    "en": "deactivate-seller-indeva",
+                    "es": "desactivar-vendedor-indeva",
+                    "pt": "desligar-vendedor-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Responsible seller",
+                    "es": "Vendedor responsable (VR)",
+                    "pt": "Vendedor responsável (VR)"
+                  },
+                  "slug": {
+                    "en": "responsible-seller-indeva",
+                    "es": "vendedor-responsable-vr-indeva",
+                    "pt": "vendedor-responsavel-vr-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Seller dashboard",
+                    "es": "Panel de vendedor",
+                    "pt": "Painel de vendedor"
+                  },
+                  "slug": {
+                    "en": "seller-dashboard",
+                    "es": "panel-de-vendedor",
+                    "pt": "painel-de-vendedor"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Seller registration",
+                    "es": "Registro de vendedor",
+                    "pt": "Cadastro de vendedor"
+                  },
+                  "slug": {
+                    "en": "seller-registration-indeva",
+                    "es": "registro-de-vendedor-indeva",
+                    "pt": "cadastro-de-vendedor-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Seller status",
+                    "es": "Estado del vendedor",
+                    "pt": "Status de vendedor"
+                  },
+                  "slug": {
+                    "en": "seller-status-indeva",
+                    "es": "estado-del-vendedor-indeva",
+                    "pt": "status-de-vendedor-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Temporary seller",
+                    "es": "Vendedor temporal",
+                    "pt": "Vendedor temporário"
+                  },
+                  "slug": {
+                    "en": "temporary-seller",
+                    "es": "vendedor-temporal",
+                    "pt": "vendedor-temporario"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Vacation seller",
+                    "es": "Vendedor de vacaciones",
+                    "pt": "Vendedor de férias"
+                  },
+                  "slug": {
+                    "en": "vacation-seller-indeva",
+                    "es": "vendedor-de-vacaciones-indeva",
+                    "pt": "vendedor-de-ferias-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Tablet AND current queue list",
+                "es": "Tableta y lista del turno actual",
+                "pt": "Tablet e lista da vez"
+              },
+              "slug": {
+                "en": "tablet-and-current-queue-list",
+                "es": "tableta-y-lista-del-turno-actual",
+                "pt": "tablet-e-lista-da-vez"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Change loss reasons",
+                    "es": "Cambiar motivos de pérdida",
+                    "pt": "Alterar motivos de perda"
+                  },
+                  "slug": {
+                    "en": "change-loss-reasons-indeva",
+                    "es": "cambiar-motivos-de-perdida-indeva",
+                    "pt": "alterar-motivos-de-perda-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Change tags in Lista da Vez",
+                    "es": "Cambiar etiquetas en Lista da Vez",
+                    "pt": "Alterar Marcações na Lista da vez"
+                  },
+                  "slug": {
+                    "en": "change-tags-in-lista-da-vez-indeva",
+                    "es": "cambiar-etiquetas-en-lista-da-vez-indeva",
+                    "pt": "alterar-marcacoes-na-lista-da-vez-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Error message \"request was denied for security\" in Indeva",
+                    "es": "Mensaje de error \"request was denied for security\" en Indeva",
+                    "pt": "Mensagem de erro \"request was denied for security\" no Indeva"
+                  },
+                  "slug": {
+                    "en": "error-message-request-was-denied-for-security-in-indeva",
+                    "es": "mensaje-de-error-request-was-denied-for-security-en-indeva",
+                    "pt": "mensagem-de-erro-request-was-denied-for-security-no-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Fix incorrect date and time message in Indeva – Lista da Vez",
+                    "es": "Corregir mensaje incorrecto de fecha y hora en Indeva – Lista da Vez",
+                    "pt": "Corrigir mensagem incorreta de data e hora no Indeva – Lista da Vez"
+                  },
+                  "slug": {
+                    "en": "fix-incorrect-date-and-time-message-in-indeva-lista-da-vez",
+                    "es": "corregir-mensaje-incorrecto-de-fecha-y-hora-en-indeva-lista-da-vez",
+                    "pt": "corrigir-mensagem-incorreta-de-data-e-hora-no-indeva-lista-da-vez"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Incorrect seller display in Lista da Vez",
+                    "es": "Visualización incorrecta de vendedores en Lista da Vez",
+                    "pt": "Exibição incorreta de vendedores na Lista da Vez"
+                  },
+                  "slug": {
+                    "en": "incorrect-seller-display-in-lista-da-vez-indeva",
+                    "es": "visualizacion-incorrecta-de-vendedores-en-lista-da-vez-indeva",
+                    "pt": "exibicao-incorreta-de-vendedores-na-lista-da-vez-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Lista da Vez app does not open on the tablet",
+                    "es": "La aplicación Lista da Vez no se abre en la tableta",
+                    "pt": "Aplicativo Lista da Vez não abre no tablet"
+                  },
+                  "slug": {
+                    "en": "lista-da-vez-app-does-not-open-on-the-tablet-indeva",
+                    "es": "la-aplicacion-lista-da-vez-no-se-abre-en-la-tableta-indeva",
+                    "pt": "aplicativo-lista-da-vez-nao-abre-no-tablet-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Tablet models approved for in-store use",
+                    "es": "Modelos de tablet homologados para uso en tienda",
+                    "pt": "Modelos de tablet homologados para uso em loja"
+                  },
+                  "slug": {
+                    "en": "tablet-models-approved-for-in-store-use-indeva",
+                    "es": "modelos-de-tablet-homologados-para-uso-en-tienda-indeva",
+                    "pt": "modelos-de-tablet-homologados-para-uso-em-loja-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Unlock user in VTEX Sales App",
+                    "es": "Desbloquear usuario en VTEX Sales App",
+                    "pt": "Desbloquear usuário no VTEX Sales App"
+                  },
+                  "slug": {
+                    "en": "unlock-user-in-vtex-sales-app-indeva",
+                    "es": "desbloquear-usuario-en-vtex-sales-app-indeva",
+                    "pt": "untitled-entry-2025-09-12-at-12-46-32-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
             }
           ]
         },
@@ -20035,6 +20977,21 @@
                     "en": "configuring-physical-stores-integration-with-b2w",
                     "es": "configurar-la-integracion-de-tiendas-fisicas-con-b2w",
                     "pt": "configurar-integracao-de-lojas-fisicas-com-a-b2w"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Configuring Warehouse assignment",
+                    "es": "Configurar Asignación de almacén",
+                    "pt": "Configurar Alocação de estoque"
+                  },
+                  "slug": {
+                    "en": "configuring-warehouse-assignment",
+                    "es": "configurar-asignacion-de-almacen",
+                    "pt": "configurar-alocacao-de-estoque"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -20455,6 +21412,21 @@
                     "en": "shopping-feed-integration",
                     "es": "shopping-feed-integracion",
                     "pt": "integracao-shopping-feed"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Warehouse assignment on Mercado Libre",
+                    "es": "Asignación de almacén en Mercado Libre",
+                    "pt": "Alocação de estoque no Mercado Livre"
+                  },
+                  "slug": {
+                    "en": "warehouse-assignment-on-mercado-libre",
+                    "es": "asignacion-de-almacen-en-mercado-libre",
+                    "pt": "alocacao-de-estoque-no-mercado-livre"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -28061,6 +29033,21 @@
                 },
                 {
                   "name": {
+                    "en": "Configuring promotion budgets",
+                    "es": "Configurar presupuesto para promociones",
+                    "pt": "Configurando orçamentos para promoções"
+                  },
+                  "slug": {
+                    "en": "configuring-promotion-budgets",
+                    "es": "configurar-presupuesto-para-promociones",
+                    "pt": "configurando-orcamentos-para-promocoes"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Configuring promotions for marketplaces",
                     "es": "Configurar promoción para marketplace",
                     "pt": "Configurar promoção para marketplace"
@@ -28498,12 +29485,12 @@
                   "name": {
                     "en": "What does it mean to activate a gift multiplier on a promotion?",
                     "es": "¿Qué significa activar el multiplicador de regalo en una promoción?",
-                    "pt": "O que significa ativar o multiplicador de brinde em uma promoção?"
+                    "pt": "What does it mean to activate a gift multiplier on a promotion?"
                   },
                   "slug": {
                     "en": "what-does-it-mean-to-activate-a-gift-multiplier-on-a-promotion",
                     "es": "que-significa-activar-el-multiplicador-de-regalo-en-una-promocion",
-                    "pt": "o-que-significa-ativar-o-multiplicador-de-brinde-em-uma-promocao"
+                    "pt": ""
                   },
                   "origin": "",
                   "type": "markdown",
@@ -30479,21 +31466,6 @@
                     "en": "vtex-pick-and-pack",
                     "es": "vtex-pick-and-pack",
                     "pt": "vtex-pick-and-pack"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "VTEX Pick and Pack Mobile",
-                    "es": "VTEX Pick and Pack Mobile",
-                    "pt": "VTEX Pick and Pack Mobile"
-                  },
-                  "slug": {
-                    "en": "vtex-pick-and-pack-mobile",
-                    "es": "vtex-pick-and-pack-mobile",
-                    "pt": "vtex-pick-and-pack-mobile"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -33581,13 +34553,13 @@
                 {
                   "name": {
                     "en": "Assigning and testing agents",
-                    "es": "Cómo asignar y probar un agente",
-                    "pt": "Atribuir e testar agentes no Agent Builder"
+                    "es": "Asignar y probar agentes",
+                    "pt": "Atribuir e testar agentes"
                   },
                   "slug": {
-                    "en": "attribute-and-test-agents-on-agent-builder",
-                    "es": "asignar-y-testar-agentes-en-el-agent-builder",
-                    "pt": "atribuir-e-testar-agentes-no-agent-builder"
+                    "en": "assigning-and-testing-agents",
+                    "es": "asignar-y-probar-agentes",
+                    "pt": "atribuir-e-testar-agentes"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -33595,12 +34567,12 @@
                 },
                 {
                   "name": {
-                    "en": "Official Weni by VTEX agents",
+                    "en": "Official agents from Weni by VTEX",
                     "es": "Agentes oficiales de Weni by VTEX",
                     "pt": "Agentes oficiais da Weni by VTEX"
                   },
                   "slug": {
-                    "en": "weni-by-vtexs-official-agents",
+                    "en": "official-agents-from-weni-by-vtex",
                     "es": "agentes-oficiales-de-weni-by-vtex",
                     "pt": "agentes-oficiais-da-weni-by-vtex"
                   },
@@ -33727,6 +34699,53 @@
                     "en": "connecting-to-retailers-and-marketplaces-using-vtex-network",
                     "es": "conectandose-a-comerciantes-y-marketplaces-por-el-vtex-network",
                     "pt": "vtex-network"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": {
+            "en": "Uncategorized",
+            "es": "Uncategorized",
+            "pt": "Uncategorized"
+          },
+          "slug": {
+            "en": "uncategorized",
+            "es": "uncategorized",
+            "pt": "uncategorized"
+          },
+          "origin": "",
+          "type": "category",
+          "children": [
+            {
+              "name": {
+                "en": "Unknown subcategory",
+                "es": "Unknown subcategory",
+                "pt": "Unknown subcategory"
+              },
+              "slug": {
+                "en": "unknown-subcategory",
+                "es": "unknown-subcategory",
+                "pt": "unknown-subcategory"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "View feedback in the Indeva app",
+                    "es": "Visualizar comentarios en la app de Indeva",
+                    "pt": "Visualizar feedback no app Indeva"
+                  },
+                  "slug": {
+                    "en": "view-feedback-in-the-indeva-app-indeva",
+                    "es": "visualizar-comentarios-en-la-app-de-indeva",
+                    "pt": "visualizar-feedback-no-app-indeva"
                   },
                   "origin": "",
                   "type": "markdown",
