@@ -3,8 +3,8 @@ title: 'Importación y exportación de productos y SKUs mediante plantilla (Beta
 id: 5udKxWP1ZeBD7QB7Fy2BNl
 status: PUBLISHED
 createdAt: 2025-09-05T16:54:23.995Z
-updatedAt: 2025-09-05T18:45:07.062Z
-publishedAt: 2025-09-05T18:45:07.062Z
+updatedAt: 2025-09-16T13:38:01.425Z
+publishedAt: 2025-09-16T13:38:01.425Z
 firstPublishedAt: 2025-09-05T18:41:30.755Z
 contentType: tutorial
 productTeam: Marketing & Merchandising

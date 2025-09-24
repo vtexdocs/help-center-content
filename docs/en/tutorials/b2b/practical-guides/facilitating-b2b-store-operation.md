@@ -73,7 +73,7 @@ This stage has peculiarities that can be leveraged through some tools. Check out
 
 ### Orders management
 
-All VTEX stores have an “Orders management” module, where you can see all [](https://newhelp.vtex.com/en/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/2sl6hj2eqwgqbDgTF6y5qE "orders") placed in a store. 
+All VTEX stores have an “Orders management” module, where you can see all [orders](/en/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/2sl6hj2eqwgqbDgTF6y5qE) placed in a store. 
 
 The system includes:
 

@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
-> ⚠️  there are two ways to configure collections, through the CMS or the Collection module (Beta). This article is about how to <a href = "https://help.vtex.com/en/tutorial/adding-collections-cms--2YBy6P6X0NFRpkD2ZBxF6L">configure collections through the Legacy CMS Portal</a>.
+> ⚠️  there are two ways to configure collections, through the CMS or the Collection module (Beta). This article is about how to <a href = "/en/tutorial/adding-collections-cms--2YBy6P6X0NFRpkD2ZBxF6L">configure collections through the Legacy CMS Portal</a>.
 
 The `<vtex.cmc:HightLight/>` control (for product pages) or `$product.HightLight` control (for shelves) renders an HTML element with a specific class in the context of products that are part of a collection marked with the __Highlight__ flag.
 

@@ -1,9 +1,9 @@
 ---
 title: 'VTEX Pick and Pack Mobile'
 id: 3i1K01CQlDBFYYp42WFOet
-status: PUBLISHED
+status: CHANGED
 createdAt: 2024-04-04T20:42:46.548Z
-updatedAt: 2025-07-07T18:08:42.360Z
+updatedAt: 2025-09-22T18:21:38.382Z
 publishedAt: 2025-07-07T18:08:42.360Z
 firstPublishedAt: 2024-04-06T01:59:46.300Z
 contentType: tutorial

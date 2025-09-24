@@ -23,7 +23,7 @@ Para iniciar la configuración de la integración, realiza los siguientes pasos:
 2. Por estándar, los campos sobre la **región y la moneda**, así como la **URL** de tu tienda VTEX, estarán rellenados. Revisa la información y realiza cambios si es necesario.
 3. Mantén activada la opción _Habilitar la integración de Píxel_, a menos que tengas una implementación personalizada de Facebook Pixel. 
 
-  > ℹ️ Independientemente de que tengas instalada la <a href= "https://apps.vtex.com/vtex-facebook-pixel/p">aplicación de Facebook Pixel</a>, se recomienda que la opción **Habilitar la integración de Píxel** permanezca activada. La excepción es cuando ya utilizas Google Tag Manager. Obtén más información en <a href= "https://help.vtex.com/es/tracks/integracao-com-o-facebook-business-extension--2hS3ANSZ7vlHCcba4h7k8D/434Z1iWnaa0zbOMDyr6oi#pixel-de-facebook">Píxel de Facebook </a>.
+  > ℹ️ Independientemente de que tengas instalada la <a href= "https://apps.vtex.com/vtex-facebook-pixel/p">aplicación de Facebook Pixel</a>, se recomienda que la opción **Habilitar la integración de Píxel** permanezca activada. La excepción es cuando ya utilizas Google Tag Manager. Obtén más información en <a href= "/es/tracks/integracao-com-o-facebook-business-extension--2hS3ANSZ7vlHCcba4h7k8D/434Z1iWnaa0zbOMDyr6oi#pixel-de-facebook">Píxel de Facebook </a>.
 
 4. Haz clic en `CONTINUAR CON FACEBOOK`.
 5. En la siguiente pantalla, se te pedirá tu cuenta de Facebook. Rellena tus datos y haz clic en `Entrar`. Si tienes configurada la [integración con Facebook](/es/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc), tus datos ya estarán guardados.

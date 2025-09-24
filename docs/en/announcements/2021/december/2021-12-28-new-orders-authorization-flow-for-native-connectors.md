@@ -75,6 +75,6 @@ Once you have configured the Price Divergence rule, it will apply to all marketp
 
 For VTEX marketplaces, external marketplaces and certified connectors (partners), as long as the Price Divergence rule has not been created, orders with price divergence error are automatically approved.
 
-> ⚠️ For <a href= "https://help.vtex.com/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrating-with-a-native-connector-vtex">native connectors</a>, while the seller does not <a href= "https://help.vtex.com/en/tutorial/configuracao-da-regra-de-divergencia-de-valores--awAKP0sS5J8jgLs2g7pPe">configure the Price Divergence rule</a>, orders with price divergence are retained. You can track them in your VTEX Admin by clicking on MARKETPLACE > Integrations > Orders.
+> ⚠️ For <a href= "/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrating-with-a-native-connector-vtex">native connectors</a>, while the seller does not <a href= "/en/tutorial/configuracao-da-regra-de-divergencia-de-valores--awAKP0sS5J8jgLs2g7pPe">configure the Price Divergence rule</a>, orders with price divergence are retained. You can track them in your VTEX Admin by clicking on MARKETPLACE > Integrations > Orders.
 
 If you don't want native connectors to obey the Price Divergence Rule, you can keep the previous flow. In this case, [contact the VTEX support team](https://support.vtex.com/hc/en-us/requests).

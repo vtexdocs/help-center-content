@@ -3,8 +3,8 @@ title: 'Importação e exportação de produtos e SKUs via planilha (Beta)'
 id: 5udKxWP1ZeBD7QB7Fy2BNl
 status: PUBLISHED
 createdAt: 2025-09-05T16:54:23.995Z
-updatedAt: 2025-09-05T18:45:07.062Z
-publishedAt: 2025-09-05T18:45:07.062Z
+updatedAt: 2025-09-16T13:38:01.425Z
+publishedAt: 2025-09-16T13:38:01.425Z
 firstPublishedAt: 2025-09-05T18:41:30.755Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -104,7 +104,7 @@ A tabela a seguir apresenta a descrição e o exemplo de preenchimento dos campo
 | Nome Produto* | Nome do produto apresentado para os clientes na experiência de navegação, podendo ter até 150 caracteres. Por questões de [SEO](/pt/tutorial/melhorando-o-seo-das-paginas-de-lista-de-produtos--UrQtlKAMuSaLBP5wG9ftG), recomendamos:<ul><li>✅ Usar palavras simples</li><li>❌ Evitar outros idiomas</li><li>❌ Evitar escrita complexa</li></ul> |
 | Produto ativo | Determina se o [status do produto](/pt/tutorial/produtos-e-skus--2ig7TmROlirWirZjFWZ3By#filtrar-por-status) será ativo ou inativo. Este campo não editável pela planilha, deve ser deixado vazio. |
 | Descrição | Texto com informações gerais sobre o produto. Este conteúdo é apresentado aos clientes na vitrine da loja, portanto recomendamos criar um resumo de fácil entendimento. |
-| Descrição adicional | Conteúdo adicional do produto, como informações resumidas. Recomendamos não ultrapassar 150 caracteres, de forma que os mecanismos de busca mostrem o texto completo nas páginas de resultado.Caso você não preencha este campo, o sistema vai replicar o **Nome Produto** para completar o cadastro. |
+| Descrição adicional | Conteúdo adicional do produto, como informações resumidas. Recomendamos não ultrapassar 150 caracteres, de forma que os mecanismos de busca mostrem o texto completo nas páginas de resultado. |
 | ID Marca* | Código numérico que identifica a [marca](/pt/tutorial/o-que-e-uma-marca--QU07yhHoaWcEYseEucOQW) do produto. Esta informação pode ser encontrada no Admin VTEX, em **Catálogo > Marcas**, ou usando o endpoint [Get brand list](https://developers.vtex.com/docs/api-reference/catalog-api#get-/api/catalog_system/pvt/brand/list). |
 | Marca | Nome da [marca](/pt/tutorial/o-que-e-uma-marca--QU07yhHoaWcEYseEucOQW) do produto. Uma vez preenchido, este campo não pode ser editado. |
 | ID Departamento | Código numérico que identifica a categoria de maior nível hierárquico do produto. Este campo não é editável pela planilha. Em caso de um novo produto, deixe o campo vazio. |

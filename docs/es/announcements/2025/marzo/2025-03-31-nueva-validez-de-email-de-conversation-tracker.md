@@ -25,5 +25,5 @@ Antes, la dirección de email alternativa de [Conversation Tracker](/es/tutorial
 ## ¿Qué se necesita hacer?
 No se requiere ninguna acción. La actualización de la validez de la dirección de email se implementó automáticamente en todas las tiendas VTEX.
 
-Para más información, consulta el artículo [Cómo se realiza la comunicación con el cliente durante el flujo del pedido] (https://help.vtex.com/es/tutorial/understanding-the-conversation-tracker--tutorials_195).
+Para más información, consulta el artículo [Cómo se realiza la comunicación con el cliente durante el flujo del pedido](/es/tutorial/understanding-the-conversation-tracker--tutorials_195).
 

@@ -3,13 +3,13 @@ title: 'Gestionar el inventario del kit'
 id: frequentlyAskedQuestions_156
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:51.252Z
-updatedAt: 2025-06-12T17:07:35.215Z
-publishedAt: 2025-06-12T17:07:35.215Z
+updatedAt: 2025-09-16T15:12:46.190Z
+publishedAt: 2025-09-16T15:12:46.190Z
 firstPublishedAt: 2019-01-24T22:03:46.311Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
-slugEN: how-to-manage-the-kit-stock
+slugEN: how-to-manage-the-bundle-stock
 legacySlug: como-gestionar-el-inventario-del-kit
 locale: es
 subcategoryId: 17Lkzo2rGBE1Bt7dXjE0tV

@@ -25,7 +25,7 @@ En VTEX, su tienda puede recibir pagos a través de pagarés. Para habilitar est
 
 ## Configurar proveedor de pago
 
-Para configurar un proveedor de pagos, acceda a [Registrar proveedores de pagos y antifraude(https://help.vtex.com/es/tutorial/afiliaciones-de-gateway--tutorials_444).
+Para configurar un proveedor de pagos, acceda a [Registrar proveedores de pagos y antifraude](/es/tutorial/afiliaciones-de-gateway--tutorials_444).
 
 > ⚠️ Verifique que el proveedor de pago deseado admita el procesamiento de pagos de pagarés.
 

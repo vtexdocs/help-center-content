@@ -93,7 +93,7 @@ Como se dijo anteriormente, cada documento tiene un ID que la plataforma genera 
 
 Por ejemplo, puedes consultar un documento con información de un cliente especificando el valor del campo `email` del cliente.
 
-> ℹ️ Obtén más información sobre cómo <a href=https://help.vtex.com/es/tutorial/setting-up-an-index-on-master-data--tutorials_785>configurar índices en Master Data v1</a> o <a href=https://developers.vtex.com/vtex-rest-api/reference/putindices>configurar índices con la API del Master Data v2</a>.
+> ℹ️ Obtén más información sobre cómo <a href=/es/tutorial/setting-up-an-index-on-master-data--tutorials_785>configurar índices en Master Data v1</a> o <a href=https://developers.vtex.com/vtex-rest-api/reference/putindices>configurar índices con la API del Master Data v2</a>.
 
 ## Triggers
 
@@ -102,7 +102,7 @@ Un trigger del Master Data es un mecanismo que ejecuta una acción después de l
 - Enviar email.
 - Guardar documento en otra entidad de datos.
 
-Obtén más información sobre cómo [configurar triggers en el Master Data v1] (https://help.vtex.com/es/tutorial/criando-trigger-no-master-data--tutorials_1270) o cómo [configurar triggers con la API de Master Data v2](https://developers.vtex.com/vtex-rest-api/docs/setting-up-triggers-in-master-data-v2)
+Obtén más información sobre cómo [configurar triggers en el Master Data v1] (/es/tutorial/criando-trigger-no-master-data--tutorials_1270) o cómo [configurar triggers con la API de Master Data v2](https://developers.vtex.com/vtex-rest-api/docs/setting-up-triggers-in-master-data-v2)
 
 ## v2 esquemas
 

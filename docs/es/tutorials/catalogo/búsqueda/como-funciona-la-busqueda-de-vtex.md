@@ -17,7 +17,7 @@ subcategoryId: 383bZO0kymqpnNf7Z4NdEg
 
 Este artículo tiene el objetivo de describir el funcionamiento del sistema de búsqueda de VTEX.
 
-> ⚠️ VTEX presenta dos opciones de búsqueda - La búsqueda VTEX y VTEX Intelligent Search. Este artículo se refiere a la búsqueda VTEX. Para saber más sobre la aplicación VTEX Intelligent Search, consulte <a href = "https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb">nuestra guía</a>.
+> ⚠️ VTEX presenta dos opciones de búsqueda - La búsqueda VTEX y VTEX Intelligent Search. Este artículo se refiere a la búsqueda VTEX. Para saber más sobre la aplicación VTEX Intelligent Search, consulte <a href = "/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb">nuestra guía</a>.
 
 ## Cómo el buscador de VTEX prioriza la exhibición de productos
 
@@ -116,5 +116,5 @@ Resultado:
 
 ## Lea mas
 
- - [¿Cómo funciona el campo Score?] (https://help.vtex.com/es/tutorial/como-funciona-el-campo-score--1BUZC0mBYEEIUgeQYAKcae)
+ - [¿Cómo funciona el campo Score?](/es/tutorial/como-funciona-el-campo-score--1BUZC0mBYEEIUgeQYAKcae)
 

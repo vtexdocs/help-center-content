@@ -3,8 +3,8 @@ title: 'Setting up payments with StripeV2'
 id: 3XG7Vrb0GGhdN40ICNKQoN
 status: PUBLISHED
 createdAt: 2025-03-07T15:20:58.287Z
-updatedAt: 2025-08-15T18:47:00.764Z
-publishedAt: 2025-08-15T18:47:00.764Z
+updatedAt: 2025-09-19T19:45:07.908Z
+publishedAt: 2025-09-19T19:45:07.908Z
 firstPublishedAt: 2025-03-07T15:34:55.639Z
 contentType: tutorial
 productTeam: Financial
@@ -115,12 +115,12 @@ Prerequisites:
 
 To use __VTEX with Stripe Payment Element Experience__ in your store, you need to:
 
-- [Install Stripe apps](#install-stripe-apps)
-- [Configure StripeV2 on VTEX](#configuring-stripev2-on-vtex)
-- [Configure payment conditions](#configuring-payment-conditions)
-- [Configure webhooks on your Stripe account](#configuring-webhooks-on-your-stripe-account)
+- [Install Stripe apps](#install-stripe-apps-element-experience)
+- [Configure StripeV2 on VTEX](#configuring-stripev2-on-vtex-element-experience)
+- [Configure payment conditions](#configuring-payment-conditions-element-experience)
+- [Configure webhooks on your Stripe account](#configuring-webhooks-on-your-stripe-account-element-experience)
 
-### Install Stripe apps
+### Install Stripe apps (Element Experience)
 
 To install Stripe apps in your store, follow the steps below:
 
@@ -135,7 +135,7 @@ To install Stripe apps in your store, follow the steps below:
   <blockquote><ui>- **Payment Provider Framework**: `vtex install stripe.stripe-payments-provider`.</ui></blockquote>
   <blockquote><ui>- **Payment App**: `vtex install stripe.stripe-payment-app`.</ui></blockquote>  
 
-### Configuring StripeV2 on VTEX
+### Configuring StripeV2 on VTEX (Element Experience)
 
 To configure the StripeV2 integration on VTEX, follow the steps below:
 
@@ -155,7 +155,7 @@ To configure the StripeV2 integration on VTEX, follow the steps below:
 <blockquote>d. In **Secret Key**, enter your key starting with **rk_**.</blockquote>
 <blockquote>d. Click **Save**.</blockquote>
 
-### Configuring payment conditions
+### Configuring payment conditions (Element Experience)
 
 To configure a payment condition for StripeV2 on VTEX, follow the steps below:
 
@@ -170,7 +170,7 @@ To configure a payment condition for StripeV2 on VTEX, follow the steps below:
 
 If you need more information on how to install __VTEX with Stripe Payment Element Experience__, see the [Stripe documentation available on Vinneren](https://sites.google.com/vinneren.com.mx/documentacion-publica#h.nmryiar6zrqq).
 
-### Configuring webhooks on your Stripe account
+### Configuring webhooks on your Stripe account (Element Experience)
 
 To configure a webhook in your Stripe account, follow the steps below:
 

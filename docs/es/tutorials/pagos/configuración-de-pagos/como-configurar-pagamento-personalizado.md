@@ -3,8 +3,8 @@ title: 'Configurar pago personalizado'
 id: tutorials_451
 status: PUBLISHED
 createdAt: 2017-04-27T22:04:32.144Z
-updatedAt: 2023-10-18T14:42:25.244Z
-publishedAt: 2023-10-18T14:42:25.244Z
+updatedAt: 2025-09-23T20:11:39.861Z
+publishedAt: 2025-09-23T20:11:39.861Z
 firstPublishedAt: 2017-04-27T23:03:25.828Z
 contentType: tutorial
 productTeam: Financial
@@ -15,9 +15,9 @@ locale: es
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-Los medios de pago personalizados permiten que usted cree hasta 15 nuevas formas de pago para configurar una Condición de Pago. O sea, imagine que su tienda quiere ofrecer la opción de pago con dinero como forma de pago. Para utilizarla, es necesario configurar uno de los pagos personalizados disponibles.
+La funcionalidad de __Pagos Personalizados__ es una alternativa a las opciones estándar que ofrece el módulo de Pagos. Con ella, es posible crear hasta 60 (sesenta) nuevas formas de pago — como pago contra entrega o tarjeta propia de la tienda.
 
-Esos medios de pago son separados en tres categorías. Cada categoría permite cinco configuraciones.
+Los medios de pago personalizados se organizan en tres categorías — pagarés, tarjetas de tienda (red propia) y tarjetas de tienda (co-branded) — cada una con hasta 20 (veinte) configuraciones posibles.
 
 ## Pagarés
 

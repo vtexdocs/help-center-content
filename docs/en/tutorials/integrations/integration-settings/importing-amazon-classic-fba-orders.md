@@ -52,7 +52,7 @@ The values required will vary according to product segmentation:
 After creating the product specification, your product will be available for FBA Classic orders. If you want to change the shipping type of this product, you need to change the specification value.  
 
 ### 2. Defining a shipping strategy for FBA Classic orders   
-> ℹ️ You need to ensure that the <a href=https://help.vtex.com/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV>trade policy</a> you choose is specifically for Amazon to guarantee that another integration will not use the inventory you create. 
+> ℹ️ You need to ensure that the <a href=/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV>trade policy</a> you choose is specifically for Amazon to guarantee that another integration will not use the inventory you create. 
 
 Then you need to create a dedicated [shipping strategy](/pt/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3) for FBA Classic orders, telling us how you want your products to be delivered. Doing so will not affect the shipping strategy already defined in the "Defining a shipping strategy" on Amazon step.  
 

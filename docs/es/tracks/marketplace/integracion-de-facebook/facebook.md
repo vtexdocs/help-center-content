@@ -15,7 +15,7 @@ trackSlugEN: integracion-de-facebook
 order: 1
 ---
 
-> ℹ️ Hay una integración con la aplicación <a href= "https://help.vtex.com/es/tracks/integracao-com-o-facebook-business-extension--2hS3ANSZ7vlHCcba4h7k8D">Facebook Business Extension y Conversions API</a> que debe ser tu selección predeterminada con Facebook. Esto es válido inclusive para los que ya realizaron la <a href= "https://help.vtex.com/es/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc">Integración de Facebook</a>, ya que la integración con la aplicación garantiza las funcionalidades anteriores y otras, como la API de conversiones y píxel de Facebook.
+> ℹ️ Hay una integración con la aplicación <a href= "/es/tracks/integracao-com-o-facebook-business-extension--2hS3ANSZ7vlHCcba4h7k8D">Facebook Business Extension y Conversions API</a> que debe ser tu selección predeterminada con Facebook. Esto es válido inclusive para los que ya realizaron la <a href= "/es/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc">Integración de Facebook</a>, ya que la integración con la aplicación garantiza las funcionalidades anteriores y otras, como la API de conversiones y píxel de Facebook.
 
 [Facebook](https://about.fb.com/ltam/) es la red social con el mayor número de usuarios en el mundo. Creada en 2004, es la plataforma a través de la cual más de tres mil millones de personas se conectan y comparten información todos los días.
 

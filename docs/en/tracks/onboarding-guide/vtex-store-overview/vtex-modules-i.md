@@ -132,7 +132,7 @@ It is important to familiarize yourself with the main terms related to the modul
 | [Price tables](/en/tracks/prices-101--6f8pwCns3PJHqMvQSugNfP/1wAm5m3IUfIj6maBdaRJt8) | Set of SKU prices that can be applied to a given context, such as a [trade policy](/en/tutorial/how-trade-policies-work--6Xef8PZiFm40kg2STrMkMV). These tables contain the price information displayed on the store's storefront. |
 | Cost price | Price paid by the store when purchasing the SKU. |
 | Markup | The store's desired profit margin from selling the SKU. |
-| [Base price](hhttps://help.vtex.com/en/tracks/prices-101--6f8pwCns3PJHqMvQSugNfP/3XcXp0r5WrJvogB8KIX4Kx) | Amount calculated by combining the __cost price__ and the __markup__. This is the SKU's reference price for all price tables. |
+| [Base price](/en/tracks/prices-101--6f8pwCns3PJHqMvQSugNfP/3XcXp0r5WrJvogB8KIX4Kx) | Amount calculated by combining the __cost price__ and the __markup__. This is the SKU's reference price for all price tables. |
 | [List price](/en/tracks/prices-101--6f8pwCns3PJHqMvQSugNfP/3XcXp0r5WrJvogB8KIX4Kx#list-price) | Suggested selling price for an SKU. This price will be displayed on the product page as the __From__ price, while the base price will be displayed as the __To__ price. |
 | [Price rule](/en/tracks/prices-101--6f8pwCns3PJHqMvQSugNfP/2rBirbpB7wLnei4dQ9KGMW) | Changes the SKU price on a specific price table without changing the base price on other tables. To do so, you need to create a price rule and associate it with the desired table. |
 | [Fixed price](/en/tracks/prices-101--6f8pwCns3PJHqMvQSugNfP/3HxF2u5VwidqnUGnFoKdDy) | Price that overrides all other price settings in a price table. |
@@ -226,7 +226,7 @@ You can create discount coupons through the [VTEX Admin](/en/tutorial/creating-a
 
 Creating campaign promotions [campaign audience](/en/tutorial/creating-a-campaign-audience--6cnuDZJzIkIeocewAQQK4K) to set the promotion's target audience. You can then choose eligible customer segments for the promotion. These segments act as a trigger based on criteria defined by the merchant.
 
-Once the campaign audience has been created, it needs to be linked to a [Regular Promotion](/en/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI), thus creating a campaign promotion. This type of promotion encompasses all the possibilities available in the [Regular Promotion](hhttps://help.vtex.com/en/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI) and a few more options:
+Once the campaign audience has been created, it needs to be linked to a [Regular Promotion](/en/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI), thus creating a campaign promotion. This type of promotion encompasses all the possibilities available in the [Regular Promotion](/en/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI) and a few more options:
 
 - Specific target audience.
 - Free shipping for all available shipping options.

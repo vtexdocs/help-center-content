@@ -3,8 +3,8 @@ title: 'Desactivar SKUs y productos de la tienda'
 id: 4oviRZMwCkSEcugEyEmEwo
 status: PUBLISHED
 createdAt: 2017-10-31T03:53:15.045Z
-updatedAt: 2025-06-12T15:57:35.477Z
-publishedAt: 2025-06-12T15:57:35.477Z
+updatedAt: 2025-09-11T18:54:30.341Z
+publishedAt: 2025-09-11T18:54:30.341Z
 firstPublishedAt: 2017-10-31T04:03:55.888Z
 contentType: tutorial
 productTeam: Marketing & Merchandising

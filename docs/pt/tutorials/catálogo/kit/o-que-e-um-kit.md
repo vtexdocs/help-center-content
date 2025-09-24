@@ -3,13 +3,13 @@ title: 'O que é um kit?'
 id: 5ov5s3eHM4AqAAgqWwoc28
 status: PUBLISHED
 createdAt: 2018-01-25T21:09:52.277Z
-updatedAt: 2025-06-12T16:49:51.090Z
-publishedAt: 2025-06-12T16:49:51.090Z
+updatedAt: 2025-09-16T14:08:09.747Z
+publishedAt: 2025-09-16T14:08:09.747Z
 firstPublishedAt: 2018-01-25T21:12:31.415Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 7FpKZ0rc6k4WqeymES80cw
-slugEN: what-is-a-kit
+slugEN: what-is-a-bundle
 legacySlug: o-que-e-um-kit
 locale: pt
 subcategoryId: 17Lkzo2rGBE1Bt7dXjE0tV

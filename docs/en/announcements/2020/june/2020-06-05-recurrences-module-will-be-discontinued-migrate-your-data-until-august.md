@@ -45,4 +45,4 @@ Thus, the migration from the Recurrence module, to Subscriptions module should b
 
 ## What should I do?
 
-To avoid losing this data, you must **migrate the information from the Recurrences module to Subscriptions before August 03**. Check out the complete walkthrough for migration [here] (https://help.vtex.com/en/tutorial/how-to-migrate-from-recurrence-v1-to-subscriptions-v2--3nJ4pbsRHEyKmvoN0foYRi). VTEX will offer assistance to make the migration as smooth as possible.
+To avoid losing this data, you must **migrate the information from the Recurrences module to Subscriptions before August 03**. Check out the complete walkthrough for migration [here](/en/tutorial/how-to-migrate-from-recurrence-v1-to-subscriptions-v2--3nJ4pbsRHEyKmvoN0foYRi). VTEX will offer assistance to make the migration as smooth as possible.

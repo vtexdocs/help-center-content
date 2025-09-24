@@ -40,7 +40,7 @@ _ex: Carrier X has a shipping rate of U$ 7,00 to Atlanta (metropolitan region) i
 To indicate which of your store's carriers corresponds to [those accepted by Wish](https://merchant.wish.com/documentation/shippingproviders), you'll need to perform a from/to in your configuration.
 
   1. Using the first selector (_dropdown_), indicate which carrier will be used for Wish;
-  2. Using the second selector, indicate which VTEX [carrier type]([https://help.vtex.com/tutorial/difference-between-delivery-types--tutorials_126] would correspond to the one selected during the previous step;
+  2. Using the second selector, indicate which VTEX [carrier type](/en/tutorial/difference-between-delivery-types--tutorials_126) would correspond to the one selected during the previous step;
 
   _Ex: Suppose that you're using TNT as a carrier and that your VTEX Shipping Networkistics panel identifies this carrier or delivery type as "standard". Therefore, the field should be called "Standard". Remember that the word should exactly match the one appearing in your Logistics module. 
   

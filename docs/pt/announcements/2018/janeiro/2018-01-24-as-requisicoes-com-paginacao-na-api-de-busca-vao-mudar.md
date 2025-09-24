@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisPT: 'A partir de 31/03/18, requisições com paginação na API de busca não vão ser feitas com o header resources do request.'
 ---
 
-> ⚠️ **Atenção**: a VTEX apresenta duas opções da busca - a busca VTEX e o VTEX Intelligent Search. Esse artigo se refere à busca VTEX. Para saber mais sobre o aplicativo VTEX Intelligent Search acesse <a href = "https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb">nossa track</a>.
+> ⚠️ **Atenção**: a VTEX apresenta duas opções da busca - a busca VTEX e o VTEX Intelligent Search. Esse artigo se refere à busca VTEX. Para saber mais sobre o aplicativo VTEX Intelligent Search acesse <a href = "/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb">nossa track</a>.
 
 A partir de __31 de março__, as requisições com paginação na API de busca não vão mais poder ser feitas com o header `resources` do request. Ele será descontinuado e, para requisitar uma resposta da API, você deverá utilizar os parâmetros `_from` e `_to` na URL, conforme o exemplo:
 

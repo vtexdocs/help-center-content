@@ -47,7 +47,7 @@ Algunos pasos son esenciales para que empecemos las configuraciones de la integr
 - **Usar mi medio de pago:** No utilizar.
 
 ### Cree una promoción de flete gratis 
-[Siga nuestro manual sobre cómo crear promoción para el marketplace] (https://help.vtex.com/es/tutorial/configurar-promocao-para-marketplace--tutorials_406).
+[Siga nuestro manual sobre cómo crear promoción para el marketplace](/es/tutorial/configurar-promocao-para-marketplace--tutorials_406).
 
 ## Para conocer más
 

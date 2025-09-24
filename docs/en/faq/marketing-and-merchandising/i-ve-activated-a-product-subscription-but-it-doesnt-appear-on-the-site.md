@@ -14,7 +14,7 @@ locale: en
 legacySlug: i-ve-activated-a-product-recurrence-but-it-doesnt-appear-on-the-site
 ---
 
-> ⚠️ **Warning:** there are two ways to configure collections, through the CMS or the Collection module (Beta). This article is about how to <a href = "https://help.vtex.com/en/tutorial/adding-collections-cms--2YBy6P6X0NFRpkD2ZBxF6L">configure collections through the CMS</a>.
+> ⚠️ **Warning:** there are two ways to configure collections, through the CMS or the Collection module (Beta). This article is about how to <a href = "/en/tutorial/adding-collections-cms--2YBy6P6X0NFRpkD2ZBxF6L">configure collections through the CMS</a>.
 
 Whenever you change or create a subscription, you need to reindex your SKUs to make it work properly. In doing so, you will be saving the information that such SKU has an attachment (in this case, subscription) and should be treated differently.
 

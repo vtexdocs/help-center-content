@@ -3,8 +3,8 @@ title: 'Cadastrar uma Categoria'
 id: tutorials_206
 status: PUBLISHED
 createdAt: 2017-04-27T22:15:39.383Z
-updatedAt: 2024-12-26T16:55:30.530Z
-publishedAt: 2024-12-26T16:55:30.530Z
+updatedAt: 2025-09-22T15:53:37.843Z
+publishedAt: 2025-09-22T15:53:37.843Z
 firstPublishedAt: 2017-04-27T23:00:46.516Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -26,7 +26,7 @@ Siga o passo a passo para cadastrar suas categorias:
 3. Clique no primeiro nível das categorias.
 4. Clique em `Ações`.
 5. Clique em `Incluir`.
-6. Preencha os campos referentes à Categoria, descritos abaixo.
+6. Preencha os campos referentes à categoria, descritos abaixo.
 7. Clique em `Salvar`.
 
 ## Preencher campos de cadastro de Categoria
@@ -37,24 +37,25 @@ Para entender melhor o significado de cada campo do cadastro de categoria, veja 
 
   > ❗ Ao preencher o **Nome** da categoria, evite utilizar as seguintes palavras reservadas, pois isso pode prejudicar o desempenho da sua loja e interferir no funcionamento de páginas definidas no Admin VTEX. Veja a lista de palavras reservadas abaixo. <ul> <li>`a`</li> <li>`meta`</li> <li>`api`</li> <li>`admin`</li> </ul>
 
-- __Palavras Substitutas:__ sinônimos de termos relacionados ao nome dado para seu departamento ou categoria. "Televisão", por exemplo, pode ter como palavra substituta, "TV" ou "Tevê".  Esse campo é importante para tornar suas buscas mais abrangentes e deve respeitar o limite de 200 caracteres.
-- __Título da Página da Categoria (Tag Title):__ texto que fica na aba do navegador e corresponde ao título da página da categoria, importante para motores de busca (SEO). Este campo suporta apenas texto simples e não pode conter tags HTML.
-- __Descrição da Categoria (Meta Tag Description):__ breve descrição da categoria. É recomendável não ultrapassar 150 caracteres para que os mecanismos de busca possam mostrá-lo de forma correta nas páginas de resultado. Este campo suporta apenas texto simples e não pode conter tags HTML.
-- __AdWords Remarketing Code:__ código utilizado para campanha do Google Adwords.
-- __Lomadee Campaign Code:__ código utilizado por campanhas do Buscapé.
-- __Categoria Pai:__ se a categoria cadastrada for uma categoria filha, isto é, uma subcategoria ou categoria de um departamento, esse campo deve informar a categoria pai a que ela pertence.
-- __Categoria Global VTEX:__ é uma árvore de categorias única, já definida pelo sistema, que será utilizada na integração dos produtos com o Google Shopping, Buscapé e marketplaces. Um bom mapeamento faz com que os produtos da sua loja também sejam encontrados nos parceiros de forma mais eficaz. 
+- __Palavras similares:__ sinônimos de termos relacionados ao nome dado para seu departamento ou categoria. "Televisão", por exemplo, pode ter como palavra substituta, "TV" ou "Tevê".  Esse campo é importante para tornar suas buscas mais abrangentes e deve respeitar o limite de 200 caracteres.
+- __Título da página da categoria (Title Tag):__ texto que fica na aba do navegador e corresponde ao título da página da categoria, importante para motores de busca (SEO). Este campo suporta apenas texto simples e não pode conter tags HTML.
+- __Descrição da categoria (meta tag de descrição):__ breve descrição da categoria. É recomendável não ultrapassar 150 caracteres para que os mecanismos de busca possam mostrá-lo de forma correta nas páginas de resultado. Este campo suporta apenas texto simples e não pode conter tags HTML.
+- __Código de remarketing do Google Ads:__ código utilizado para campanha do Google Adwords.
+- __Código de campanha da Lomadee:__ código utilizado por campanhas do Buscapé.
+- __Categoria pai:__ se a categoria cadastrada for uma categoria filha, isto é, uma subcategoria ou categoria de um departamento, esse campo deve informar a categoria pai a que ela pertence.
+- __Categoria global VTEX:__ é uma árvore de categorias única, já definida pelo sistema, que será utilizada na integração dos produtos com o Google Shopping, Buscapé e marketplaces. Um bom mapeamento faz com que os produtos da sua loja também sejam encontrados nos parceiros de forma mais eficaz. 
 - __Menu:__ ao selecionar esse item, a categoria ou o departamento aparecerá no menu superior e no menu lateral da sua loja.
 - __Ativo:__ ao selecionar esse item, a categoria ou o departamento fica ativado ou desativado na sua loja.
 - __Menu com link ativo:__ ao selecionar esse item, a categoria ou departamento fica ativa e clicável no site para que o cliente navegue através dele.
 - __Filtro de marca:__ ao selecionar esse item, a categoria ou o departamento passa a ter um filtro para marca na página.
-- __Score (usado para ordenação de busca):__ valor utilizado para definir a prioridade na página de resultado de busca. Para entender mais sobre Score, acesse o nosso artigo [Como funciona o campo score](/pt/tutorial/como-funciona-o-campo-score--1BUZC0mBYEEIUgeQYAKcae).
+- __Pontuação (usada para ordenação da busca):__ valor utilizado para definir a prioridade na página de resultado de busca. Para entender mais sobre Score, acesse o nosso artigo [Como funciona o campo score](/pt/tutorial/como-funciona-o-campo-score--1BUZC0mBYEEIUgeQYAKcae).
 - __Modo de exibição dos produtos:__ define como os SKUs serão exibidos na página do produto. Veja abaixo as opções de preenchimento deste campo:
   - __Lista de SKUs:__ todos os SKUs do departamento ou categoria em questão serão exibidos no formato de lista. Cada um com seu botão Comprar do lado.
   ![1Lista.pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/cat%C3%A1logo/categorias/cadastrar-uma-categoria_1.png)
-  - __Ícones de seleção de radio (radioBox):__ todos os SKUs do departamento ou categoria em questão precisarão ser selecionados através de seleção de radio.
+  - __Caixas de seleção (combo box):__ todos os SKUs do departamento ou categoria em questão precisarão ser selecionados através de caixas de seleção.
+  - __Ícones com seleção radio (radio box):__ todos os SKUs do departamento ou categoria em questão precisarão ser selecionados através de seleção de radio.
   ![RadioBox.pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/cat%C3%A1logo/categorias/cadastrar-uma-categoria_2.png)
-  - __Segue definição da especificação do SKU:__ todos os SKUs do departamento ou categoria em questão serão selecionados de acordo com a aba Especificação, no formulário de SKU. As opções pré-configuradas são Combo ou Radio.
+  - __Segue a definição da especificação do SKU:__ todos os SKUs do departamento ou categoria em questão serão selecionados de acordo com a aba Especificação, no formulário de SKU. As opções pré-configuradas são Combo ou Radio.
   ![Campos.pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/cat%C3%A1logo/categorias/cadastrar-uma-categoria_3.png)
 
 ### Saiba mais

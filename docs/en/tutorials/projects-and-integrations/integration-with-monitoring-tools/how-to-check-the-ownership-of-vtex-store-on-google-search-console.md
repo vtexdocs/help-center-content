@@ -3,8 +3,8 @@ title: 'Checking the ownership of a VTEX store on Google Search Console'
 id: frequentlyAskedQuestions_594
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:55.830Z
-updatedAt: 2024-12-20T00:27:16.190Z
-publishedAt: 2024-12-20T00:27:16.190Z
+updatedAt: 2025-09-12T17:04:25.650Z
+publishedAt: 2025-09-12T17:04:25.650Z
 firstPublishedAt: 2019-01-24T22:00:50.515Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -14,6 +14,8 @@ legacySlug: how-to-check-the-ownership-of-vtex-store-on-google-search-console
 locale: en
 subcategoryId: 1luKrYptdi8WoMYckakUaM
 ---
+
+> ⚠️ For FastStore users, you can add the meta tag directly through ThirdPartyScripts instead of using this app. For more information, refer to the guide [Adding third-party scripts.](https://developers.vtex.com/docs/guides/faststore/storefront-features-handling-third-party-scripts)
 
 To access data from [Google Search Console](https://support.google.com/webmasters/answer/9128668?hl=en&ref_topic=9128571&sjid=1026872664762099007-SA), you need to verify the ownership of your store. This means providing Google with the address of your store's website, either the domain (`mystore`) or the URL (`https://mystore.com`). Once verified, you can monitor the store indexing performance on Google.
 
@@ -27,10 +29,10 @@ Follow the instructions in this tutorial to enable access.
 4. Copy the meta tag from step 1.
 5. Choose the installation method based on your store technology:
 
-- [Store Framework and FastStore](#store-framework-and-faststore)
+- [Store Framework](#store-framework)
 - [Legacy CMS Portal](#legacy-cms-portal)
 
-### Store Framework and FastStore
+### Store Framework
 
 1. In the VTEX Admin, go to **Apps > Extensions Hub > App Store**.
 2. Search for the **Google Search Console** app and click `Install`. You will be redirected to the app's [page in the App Store](https://apps.vtex.com/vtex-google-search-console/p).

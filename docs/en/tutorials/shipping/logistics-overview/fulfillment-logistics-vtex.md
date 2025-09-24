@@ -50,7 +50,7 @@ The logistics process must be configured according to your store needs. These co
 <table class="w-100 center mv7 bb b--gray" style="border-spacing: 0px; border-collapse: collapse;">
     <thead class="w-100 center mv7 bb b--gray" style="border-spacing: 0px; border-collapse: collapse;">
   <tr class="bb b--muted-3">
-   <td class="t-body pa5" style="min-width: 15rem;">[<span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;"><a href="https://help.vtex.com/en/tutorial/shipping-strategy--58vLBDbjYVQzJ6rRc5QNz3"><span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">Shipping Strategy](/es/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3)</span>
+   <td class="t-body pa5" style="min-width: 15rem;">[<span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;"><a href="/en/tutorial/shipping-strategy--58vLBDbjYVQzJ6rRc5QNz3"><span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">Shipping Strategy](/es/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3)</span>
    </td>
    <td class="t-body pa5" style="min-width: 15rem;">Manage warehouses, loading docks, and shipping policies. Based on the configured shipping strategies, the platform calculates the shipping possibilities and displays them to the customer at checkout.
 <body>

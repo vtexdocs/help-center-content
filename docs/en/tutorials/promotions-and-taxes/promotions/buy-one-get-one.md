@@ -132,7 +132,7 @@ In this section, you can highlight the promotion on the product listing page and
 
 - **Highlight promotion on products:** Check this option to display the promotion directly on the product listing pages.
 
-> ℹ️ Remember to <a href=https://help.vtex.com/en/tutorial/configurando-promocao-com-destaque-flag--tutorials_2295>configure this view in the CMS module.</a>
+> ℹ️ Remember to <a href=/en/tutorial/configurando-promocao-com-destaque-flag--tutorials_2295>configure this view in the CMS module.</a>
 
 - **Additional information:** Click Create to add custom fields with name and value, which can be used for store customizations.
 

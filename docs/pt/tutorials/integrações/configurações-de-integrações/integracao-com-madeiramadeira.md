@@ -92,7 +92,7 @@ O próximo é criar um [perfil de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Ua
 7. Clique em `Salvar`.
 
 <div class= "alert aler-tinfo">
-Se você não possui o perfil de acesso <a href= "https://help.vtex.com/pt/tutorial/perfis-de-acesso-predefinidos--jGDurZKJHvHJS13LnO7Dy#integrationprofile-fulfillment-oms"> IntegrationProfile-Fulfillment_Oms</a>, será necessário <a href= "https://help.vtex.com/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#criando-um-perfil-de-acesso"> Criar o Perfil de acesso</a> manualmente.
+Se você não possui o perfil de acesso <a href= "/pt/tutorial/perfis-de-acesso-predefinidos--jGDurZKJHvHJS13LnO7Dy#integrationprofile-fulfillment-oms"> IntegrationProfile-Fulfillment_Oms</a>, será necessário <a href= "/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#criando-um-perfil-de-acesso"> Criar o Perfil de acesso</a> manualmente.
 </div>
 
 ### Criar afiliado
