@@ -3,8 +3,8 @@ title: 'Deactivating store SKUs and products'
 id: 4oviRZMwCkSEcugEyEmEwo
 status: PUBLISHED
 createdAt: 2017-10-31T03:53:15.045Z
-updatedAt: 2025-06-12T15:57:35.477Z
-publishedAt: 2025-06-12T15:57:35.477Z
+updatedAt: 2025-09-11T18:54:30.341Z
+publishedAt: 2025-09-11T18:54:30.341Z
 firstPublishedAt: 2017-10-31T04:03:55.888Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -41,7 +41,7 @@ To deactivate a product, follow the steps below:
 3. On the product editing page, turn off the <i class="fas fa-toggle-off" aria-hidden="true"></i> Active toggle.
 4. Click `Save`.
 
-> ⚠️ .en all SKUs of a product are inactive, the product is automatically deactivated.
+> ⚠️ When all SKUs of a product are inactive, the product is automatically deactivated.
 
 ## Deactivating a SKU
 

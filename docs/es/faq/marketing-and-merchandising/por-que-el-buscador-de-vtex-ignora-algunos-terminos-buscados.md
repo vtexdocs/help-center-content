@@ -14,7 +14,7 @@ locale: es
 legacySlug: por-que-el-buscador-de-vtex-ignora-algunos-terminos-buscados
 ---
 
-> ⚠️ **Atención**: VTEX presenta dos opciones de búsqueda - La búsqueda VTEX y VTEX Intelligent Search. Este artículo se refiere a la búsqueda VTEX. Para saber más sobre la aplicación VTEX Intelligent Search, consulte <a href = "https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb">nuestra guía</a>.
+> ⚠️ **Atención**: VTEX presenta dos opciones de búsqueda - La búsqueda VTEX y VTEX Intelligent Search. Este artículo se refiere a la búsqueda VTEX. Para saber más sobre la aplicación VTEX Intelligent Search, consulte <a href = "/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb">nuestra guía</a>.
 
 El artículo [Cómo funciona la búsqueda de VTEX?](/es/tutorial/como-funciona-la-busqueda-de-vtex) demuestra las principales reglas que el algoritmo del buscador utiliza para exhibir y priorizar los productos a partir de un término buscado.
 

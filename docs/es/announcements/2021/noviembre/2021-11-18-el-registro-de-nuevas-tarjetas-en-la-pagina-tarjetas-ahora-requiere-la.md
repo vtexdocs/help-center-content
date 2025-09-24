@@ -23,7 +23,7 @@ Este cambio es importante, ya que reduce drásticamente la probabilidad de que s
 
 ## ¿Qué se necesita hacer?
 
-Si tu tienda utiliza nuestra UI nativa en la [página Tarjetas] (https://help.vtex.com/es/tutorial/como-funciona-a-minha-conta--2BQ3GiqhqGJTXsWVuio3Xh#cartoes), el cambio debería producirse automáticamente. En este caso, no se espera que sea necesaria ninguna acción, pero te recomendamos que revises el diseño de la página para asegurarte de que funciona correctamente.
+Si tu tienda utiliza nuestra UI nativa en la [página Tarjetas](/es/tutorial/como-funciona-a-minha-conta--2BQ3GiqhqGJTXsWVuio3Xh#cartoes), el cambio debería producirse automáticamente. En este caso, no se espera que sea necesaria ninguna acción, pero te recomendamos que revises el diseño de la página para asegurarte de que funciona correctamente.
 
 Ten en cuenta que para probar esta validación en tu tienda, debes acceder a ella a través de la dirección pública (sin el entorno `myvtex`), utilizando un perfil común, sin permisos de administrador de la tienda o desarrollador.
 

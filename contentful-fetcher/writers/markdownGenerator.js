@@ -1,6 +1,7 @@
 const { getEntryStatus } = require("../utils/entryStatus");
 const { toISODate } = require("../utils/markdownUtils");
 const { yamlSafeString } = require("../utils/normalize");
+const { convertPortalLinks } = require("../utils/linkConverter");
 
 //GENERATE TRACKS MARKDOWN FILES
 function generateTrackMarkdown(entry, locale = "en", order) {
@@ -13,7 +14,7 @@ function generateTrackMarkdown(entry, locale = "en", order) {
   const trackId = fields.trackId?.pt?.sys?.id || ""; // Always stored in pt?
   const productTeam = fields.xpTeam?.pt || "unknown"; // Usually only in pt
   const status = getEntryStatus(sys);
-  const text = fields.text?.[locale] || "";
+  const text = convertPortalLinks(fields.text?.[locale]) || "";
 
   const content = `---
 title: ${title.includes("'") ? `"${title}"` : `'${title}'`}
@@ -57,7 +58,7 @@ function generateTutorialMarkdown(
   const subcategoryId = fields.subcategory?.pt?.sys?.id || "";
   const status = getEntryStatus(sys);
 
-  let text = fields.text?.[locale] || "";
+  let text = convertPortalLinks(fields.text?.[locale]) || "";
 
   // Extract tags if it's a troubleshooting article
   let tags = [];
@@ -119,7 +120,7 @@ function generateAnnouncementMarkdown(entry, locale = "en") {
   const status = getEntryStatus(sys);
   const year = new Date(sys.createdAt).getFullYear();
   const synopsisKey = `announcementSynopsis${locale.toUpperCase()}`;
-  const text = fields.text?.[locale] || "";
+  const text = convertPortalLinks(fields.text?.[locale]) || "";
 
   const content = `---
 title: ${title.includes("'") ? `"${title}"` : `'${title}'`}
@@ -155,7 +156,7 @@ function generateFaqMarkdown(entry, locale = "en") {
   const productTeam = fields.xpTeam?.[locale] || fields.xpTeam?.pt || "unknown";
   const author = fields.author?.pt?.[0]?.sys?.id || "";
   const status = getEntryStatus(sys);
-  const text = fields.text?.[locale] || "";
+  const text = convertPortalLinks(fields.text?.[locale]) || "";
 
   const content = `---
 title: ${title.includes("'") ? `"${title}"` : `'${title}'`}

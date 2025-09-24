@@ -18,7 +18,7 @@ At VTEX, authentications of [APIs](https://developers.vtex.com/vtex-developer-do
 
 ## AppKey and AppToken association
 
-Configuring a [role](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) having different access levels on the platform is possible when accessing __Roles__, within the [Account settings]( https://help.vtex.com/en/tutorial/visao-geral-configuracoes-da-conta--6USYxLuzNt4uAkvjdPF7I8) menu.
+Configuring a [role](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) having different access levels on the platform is possible when accessing __Roles__, within the [Account settings]( /en/tutorial/visao-geral-configuracoes-da-conta--6USYxLuzNt4uAkvjdPF7I8) menu.
 
 When created, no pair of appKey and appToken is linked to a role. It's necessary to __link both keys to a desired role__.
 

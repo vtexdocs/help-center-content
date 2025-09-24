@@ -69,7 +69,7 @@ Clique em _**“Finalizar”**_.
 
 ![Formulário de Captura 9](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/formulario-de-captura-suiteshare_10.png)
 
-Configure a [aparência](\https://help.vtex.com/pt/tutorial/personalizar--sG7FAksOsU1EW9vcbPgIe), você pode clicar no botão _**“Clique aqui”**_ ou acessar  **Configurações > Minha conta > Aparência**.
+Configure a [aparência](/pt/tutorial/personalizar--sG7FAksOsU1EW9vcbPgIe), você pode clicar no botão _**“Clique aqui”**_ ou acessar  **Configurações > Minha conta > Aparência**.
 
 ![Formulário de Captura 10](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/formulario-de-captura-suiteshare_11.png)
 

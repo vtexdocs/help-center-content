@@ -3,8 +3,8 @@ title: 'Verificar propriedade no Google Search Console para loja VTEX'
 id: frequentlyAskedQuestions_594
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:55.830Z
-updatedAt: 2024-12-20T00:27:16.190Z
-publishedAt: 2024-12-20T00:27:16.190Z
+updatedAt: 2025-09-12T17:04:25.650Z
+publishedAt: 2025-09-12T17:04:25.650Z
 firstPublishedAt: 2019-01-24T22:00:50.515Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -14,6 +14,8 @@ legacySlug: como-verificar-propriedade-no-google-search-console-de-loja-vtex
 locale: pt
 subcategoryId: 1luKrYptdi8WoMYckakUaM
 ---
+
+> ⚠️ Para usuários da FastStore, você pode adicionar a meta tag diretamente pelo ThirdPartyScripts em vez de usar este aplicativo. Consulte o guia [Adding third-party scripts.](https://developers.vtex.com/docs/guides/faststore/storefront-features-handling-third-party-scripts)
 
 Para acessar os dados do [Google Search Console](https://support.google.com/webmasters/answer/9128668?hl=en&ref_topic=9128571&sjid=1026872664762099007-SA), é necessário verificar a propriedade da sua loja, ou seja, informar ao Google o endereço do site da sua loja, seja o domínio (`mystore`) ou a URL (`https://mystore.com`). Com isso, você poderá monitorar o desempenho da indexação no Google.
 
@@ -27,10 +29,10 @@ Para habilitar o acesso, confira as instruções neste tutorial.
 4. Copie a metatag do passo 1.
 5. Escolha o método de instalação de acordo com a tecnologia da sua loja:
 
-- [Store Framework e FastStore](#store-framework-e-faststore)
+- [Store Framework](#store-framework)
 - [Legacy CMS Portal](#legacy-cms-portal)
 
-### Store Framework e FastStore
+### Store Framework
 
 1. No Admin VTEX, acesse **Loja de aplicativos**.
 2. Procure pelo app **Google Search Console** e clique `INSTALAR`. Você será redirecionado para página do app na App Store.

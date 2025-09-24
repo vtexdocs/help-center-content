@@ -1,5 +1,5 @@
 ---
-title: "The order doesn't progress after the status "Ready for handling""
+title: The order doesn't progress after the status "Ready for handling"
 id: 1Esx82dbr5RHYPOHgEjRGg
 status: PUBLISHED
 createdAt: 2025-02-03T17:59:30.111Z

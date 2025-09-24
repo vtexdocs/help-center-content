@@ -3,8 +3,8 @@ title: 'Configurar pago con StripeV2'
 id: 3XG7Vrb0GGhdN40ICNKQoN
 status: PUBLISHED
 createdAt: 2025-03-07T15:20:58.287Z
-updatedAt: 2025-08-15T18:47:00.764Z
-publishedAt: 2025-08-15T18:47:00.764Z
+updatedAt: 2025-09-19T19:45:07.908Z
+publishedAt: 2025-09-19T19:45:07.908Z
 firstPublishedAt: 2025-03-07T15:34:55.639Z
 contentType: tutorial
 productTeam: Financial
@@ -115,12 +115,12 @@ Requisitos previos:
 
 Para utilizar o __VTEX with Stripe Payment Element Experience__ em sua loja, é necessário:
 
-- [Instalar las aplicaciones de Stripe](#instalar-las-aplicaciones-de-stripe)
-- [Configurar StripeV2 en VTEX](#configurar-stripev2-en-vtex)
-- [Configurar condiciones de pago](#configurar-condicion-de-pago)
-- [Configurar un webhook en la cuenta Stripe](#configurar-un-webhook-en-la-cuenta-stripe)
+- [Instalar las aplicaciones de Stripe](#instalar-las-aplicaciones-de-stripe-element-experience)
+- [Configurar StripeV2 en VTEX](#configurar-stripev2-en-vtex-element-experience)
+- [Configurar condiciones de pago](#configurar-condicion-de-pago-element-experience)
+- [Configurar un webhook en la cuenta Stripe](#configurar-un-webhook-en-la-cuenta-stripe-element-experience)
 
-### Instalar las aplicaciones de Stripe
+### Instalar las aplicaciones de Stripe (Element Experience)
 
 Para instalar las aplicaciones de Stripe en tu tienda sigue los pasos a continuación:
 
@@ -136,7 +136,7 @@ Para instalar las aplicaciones de Stripe en tu tienda sigue los pasos a continua
   <blockquote><ui>- **Payment Provider Framework**: `vtex install stripe.stripe-payments-provider`.</ui></blockquote>
   <blockquote><ui>- **Payment App**: `vtex install stripe.stripe-payment-app`.</ui></blockquote>  
 
-### Configurar StripeV2 en VTEX
+### Configurar StripeV2 en VTEX (Element Experience)
 
 Para configurar la integración de StripeV2 en VTEX sigue los pasos a continuación:
 
@@ -156,7 +156,7 @@ Para configurar la integración de StripeV2 en VTEX sigue los pasos a continuaci
 <blockquote>d. En **Clave secreta**, ingrese su clave comenzando con **rk_**.</blockquote>
 <blockquote>d. Haga clic en **Guardar**.</blockquote>  
 
-### Configurar condición de pago
+### Configurar condición de pago (Element Experience)
 
 Para configurar una condición de pago para StripeV2 en VTEX sigue los pasos a continuación:
 
@@ -171,7 +171,7 @@ Para configurar una condición de pago para StripeV2 en VTEX sigue los pasos a c
 
 Para más información sobre los procedimientos de instalación de __VTEX with Stripe Payment Element Experience__, accede a la [documentación pública de Stripe en Vinneren](https://sites.google.com/vinneren.com.mx/documentacion-publica#h.nmryiar6zrqq).
 
-### Configurar un webhook en la cuenta Stripe
+### Configurar un webhook en la cuenta Stripe (Element Experience)
 
 Para realizar la configuración del webhook en tu cuenta Stripe, sigue los pasos a continuación:
 

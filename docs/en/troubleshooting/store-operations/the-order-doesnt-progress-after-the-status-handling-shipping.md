@@ -1,5 +1,5 @@
 ---
-title: "The order doesn't progress after the status "Handling shipping""
+title: The order doesn't progress after the status "Handling shipping"
 id: 2yia6QhoLh204lHzEaIrnK
 status: PUBLISHED
 createdAt: 2025-02-07T14:22:07.199Z

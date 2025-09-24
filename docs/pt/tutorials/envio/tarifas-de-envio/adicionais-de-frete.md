@@ -25,7 +25,7 @@ Os valores adicionais podem ser configurados conforme:
 * O peso do produto: [adicional por peso](/pt/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV#adicional-por-peso).
 * O valor do produto: [adicional por preço](/pt/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV#adicional-por-preco).
 * O seguro do produto: [adicional de seguro](/pt/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV#adicional-de-seguro).
-* O valor do frete:  [adicional de frete](ahttps://help.vtex.com/pt/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV#adicional-de-frete).
+* O valor do frete:  [adicional de frete](/pt/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV#adicional-de-frete).
 
 ![adicionais frete PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/tarifas-de-envio/adicionais-de-frete_2.svg)
 

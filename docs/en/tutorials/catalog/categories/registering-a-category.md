@@ -3,8 +3,8 @@ title: 'Registering a category'
 id: tutorials_206
 status: PUBLISHED
 createdAt: 2017-04-27T22:15:39.383Z
-updatedAt: 2024-12-26T16:55:30.530Z
-publishedAt: 2024-12-26T16:55:30.530Z
+updatedAt: 2025-09-22T15:53:37.843Z
+publishedAt: 2025-09-22T15:53:37.843Z
 firstPublishedAt: 2017-04-27T23:00:46.516Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -37,24 +37,25 @@ To better understand the meaning of each category registration field, see the fu
 
   > ❗ When filling in the category **Name**, avoid using the following reserved words, as this can hinder your store's performance and interfere with the functioning of VTEX Admin pages. See the list of reserved words below. <ul> <li>`a`</li> <li>`meta`</li> <li>`api`</li> <li>`admin`</li> </ul>
 
-- __Similar words:__ synonyms of terms related to the name given to your department or category. "Television", for example, can have as a substitute word like "TV". This field is important to make your searches more comprehensive and must respect the 200 character limit.
-- __Category Page Title (Tag Title):__ text that is displayed in the browser tab and corresponds to the page title of the category. This field is important for SEO search engines. It only supports plain text and cannot contain HTML tags.
-- __Category Description (Meta Tag Description):__ brief description of the category. It's recommended that you don't exceed 150 characters so that search engines can display it correctly in the result pages. This field only supports plain text and cannot contain HTML tags.
-- __AdWords Remarketing Code:__ code used for Google Adwords campaign.
-- __Lomadee Campaign Code:__ code used by Buscapé campaigns.
-- __Parent Category:__ if the registered category is a child one category, that is, a subcategory or a category inside a department, this field must inform the parent category to which it belongs.
-- __VTEX Global Category:__ it belongs to a single category tree, already defined by the system, that will be used to integrate products with Google Shopping, Buscapé and marketplaces. A good mapping makes your store products also found in partners more effectively.
+- __Similar words:__ Synonyms of terms related to the name given to your department or category. "Television", for example, can have as a substitute word like "TV". This field is important to make your searches more comprehensive and must respect the 200 character limit.
+- __Category page title (title tag):__ Text that is displayed in the browser tab and corresponds to the page title of the category. This field is important for SEO search engines. It only supports plain text and cannot contain HTML tags.
+- __Category description (description meta tag):__ Brief description of the category. It's recommended that you don't exceed 150 characters so that search engines can display it correctly in the result pages. This field only supports plain text and cannot contain HTML tags.
+- __AdWords remarketing code:__ Code used for Google Adwords campaign.
+- __Lomadee campaign code:__ Code used by Buscapé campaigns.
+- __Parent category:__ If the registered category is a child one category, that is, a subcategory or a category inside a department, this field must inform the parent category to which it belongs.
+- __VTEX global category:__ It belongs to a single category tree, already defined by the system, that will be used to integrate products with Google Shopping, Buscapé and marketplaces. A good mapping makes your store products also found in partners more effectively.
 - __Menu:__ When selecting this item, the category or department will appear in the top menu and the side menu of your store.
 - __Active:__ When selecting this item, the category or department is activated or deactivated in your store.
 - __Menu with active link:__ When selecting this item, the category or department is active and clickable on the site for the client to navigate through it.
-- __Brand Filter:__ When selecting this item, the category or department will have a brand filter on the page.
-- __Score (used for search ordering):__ value used to set the priority on the search result page. To understand more about Score, access our article: [How does the score field work?](/en/tutorial/how-does-the-score-field-work--1BUZC0mBYEEIUgeQYAKcae).
-- __Product display mode:__ defines how SKUs will be displayed on the product page. See below the options for this field:
-  - __List of SKUs:__ All SKUs in the department or category in question will be displayed in list format. Each one with its Buy button on the side.
+- __Brand filter:__ When selecting this item, the category or department will have a brand filter on the page.
+- __Score (used for sorting the search):__ Value used to set the priority on the search result page. To understand more about Score, access our article: [How does the score field work?](/en/tutorial/how-does-the-score-field-work--1BUZC0mBYEEIUgeQYAKcae).
+- __Product display mode:__ Defines how SKUs will be displayed on the product page. See below the options for this field:
+  - __SKU List:__ All SKUs in the department or category in question will be displayed in list format. Each one with its Buy button on the side.
   ![1Lista.en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/categories/registering-a-category_1.png)
-  - __Icons with radio selection (radio box)__ All SKUs in this department/category will need to be selected through radio selection.
+  - __Combo Boxes:__ All SKUs in this department/category will need to be selected through combo boxes.
+  - __Radio Selection Icons (Radio Box):__ All SKUs in this department/category will need to be selected through radio selection.
   ![RadioBox.en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/categories/registering-a-category_2.png)
-  - __Following definition of the SKU specification:__ all SKUs in this department/category will be selected according to the specification tab on the SKU registration form. The preconfigured options are Combo or Radio.
+  - __Follows the definition of the SKU specification:__ All SKUs in this department/category will be selected according to the specification tab on the SKU registration form. The preconfigured options are Combo or Radio.
   ![Campos.en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/categories/registering-a-category_3.png)
 
 ## Learn more

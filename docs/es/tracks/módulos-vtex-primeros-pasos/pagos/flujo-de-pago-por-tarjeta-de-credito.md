@@ -24,8 +24,7 @@ El flujo básico de un pago por tarjeta de crédito es realizado por los siguien
 - **Bandera**: Las [banderas](/es/tutorial/que-es-una-bandera-de-tarjeta-de-credito--4bNba5QYuIwKEmac88KwyI "Bandera") son empresas responsables de definir las reglas de negocio para compras realizadas con tarjeta de crédito. Definen los estándares  por los cuales los adquirentes deben procesar las transacciones realizadas mediante este medio de pago (cada bandera tiene sus propias reglas).
 - **Banco Emisor**: El [banco emisor](/es/tutorial/o-que-e-banco-emissor?locale=pt "Banco Emisor") es la institución financiera responsable de los medios de pago, ya sean boletos bancarios, tarjetas de débito o crédito. Es este quien, al recibir los datos de una compra realizada en su tienda, autoriza o no la venta (dependiendo del límite de crédito o del dinero disponible en la cuenta del usuario).
 <br/>
-Para saber más sobre los agentes financieros involucrados en el flujo de pago de un pedido en Brasil, consulte [nuestro artículo].
-(https://help.vtex.com/es/tutorial/diferenca-entre-adquirentes-subadquirentes-e-gateways-no-brasil?locale=pt#adquirente "Agentes financieros"). <br/>
+Para saber más sobre los agentes financieros involucrados en el flujo de pago de un pedido en Brasil, consulte [nuestro artículo](/es/tutorial/diferenca-entre-adquirentes-subadquirentes-e-gateways-no-brasil?locale=pt#adquirente). <br/>
 <br/>
 
 ## Flujo de Pago

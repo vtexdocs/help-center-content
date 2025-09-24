@@ -35,7 +35,7 @@ La pestaña «Importados» reúne los productos del catálogo del marketplace qu
 
 En el primer acceso al Seller Portal, cuando no se hayan importado productos, la pestaña «Importados» estará vacía. Se rellenará a medida que el seller importe los productos que el marketplace pone a su disposición en la pestaña «Disponibles».
 
-Al hacer clic en un producto de la lista, accederá a la página [Detalles del Producto]((https://help.vtex.com/es/tutorial/seller-portal-detalhes-do-produto--K0WWsERWj7aQtmZinhYoP).
+Al hacer clic en un producto de la lista, accederá a la página [Detalles del Producto](/es/tutorial/seller-portal-detalhes-do-produto--K0WWsERWj7aQtmZinhYoP).
 
 ## Disponibles
 

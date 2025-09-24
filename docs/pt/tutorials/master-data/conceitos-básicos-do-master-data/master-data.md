@@ -92,7 +92,7 @@ Como mencionado acima, cada documento tem um ID gerado automaticamente pela plat
 
 Por exemplo, é possível consultar um documento com informações de um cliente especificando o valor do campo `email` referente ao cliente.
 
-> ℹ️ Saiba mais sobre como <a href=https://help.vtex.com/pt/tutorial/setting-up-an-index-on-master-data--tutorials_785>configurar índices no Master Data v1</a> ou <a href=https://developers.vtex.com/vtex-rest-api/reference/putindices>configurar índices com a API do Master Data v2</a>.
+> ℹ️ Saiba mais sobre como <a href=/pt/tutorial/setting-up-an-index-on-master-data--tutorials_785>configurar índices no Master Data v1</a> ou <a href=https://developers.vtex.com/vtex-rest-api/reference/putindices>configurar índices com a API do Master Data v2</a>.
 
 ## Triggers
 

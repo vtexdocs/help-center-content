@@ -3,63 +3,55 @@ title: 'Registrar kit'
 id: tutorials_215
 status: PUBLISHED
 createdAt: 2017-04-27T22:13:50.843Z
-updatedAt: 2025-06-12T16:51:50.196Z
-publishedAt: 2025-06-12T16:51:50.196Z
+updatedAt: 2025-09-16T19:15:39.706Z
+publishedAt: 2025-09-16T19:15:39.706Z
 firstPublishedAt: 2017-04-27T23:02:48.663Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_3
-slugEN: kit-registration
+slugEN: bundle-registration
 legacySlug: cadastrando-kit
 locale: es
 subcategoryId: 17Lkzo2rGBE1Bt7dXjE0tV
 ---
 
-Un kit es un conjunto de productos que se venden juntos; es decir, es un producto compuesto de otros productos.
+En VTEX, un kit es un tipo de SKU formado por uno o más SKUs, llamados componentes. Además del kit, existe un concepto similar: el kit de look.
 
-Un kit puede permitir o no que sus componentes se vendan por separado, entienda las diferencias:
+## Diferencia entre kit y kit de look
 
-- **Kit**: En un kit, en la página del producto, los componentes solo pueden venderse en el kit; es decir, no pueden venderse por separado. Si los componentes están configurados para mostrarse en el sitio, estos aparecerán con normalidad en las páginas de categorías, marcas y en los resultados de búsqueda, así como en cualquier estante.
-- **Kit Look**: En un kit look, todos los productos componentes pueden encontrarse en el sitio y pueden venderse fuera del kit; es decir, incluso en la página de producto del kit look pueden comprarse los ítems por separado, o todos juntos. Vea [Montar un Kit Look](http://help.vtex.com/es/tutorial/como-montar-um-kit-look) para más información.
+La siguiente tabla presenta las características y contextos para el uso de kit o kit de look:
 
-## Crear productos
+| **Tipo** | **Definición** | **Ejemplo** |
+| :---: | :--- | :--- |
+| [Kit](/es/tutorial/que-es-un-kit--5ov5s3eHM4AqAAgqWwoc28) | <ul><li>Los componentes forman un conjunto que no se puede dividir, de modo que el cliente no puede comprar los ítems por separado.</li><li>La tienda puede decidir si ofrece los componentes para compra individual o no.</li></ul> | Una tienda de moda masculina ofrece el kit "Día del Padre", compuesto por un par de zapatos, medias y un llavero. Al cliente no le interesa el llavero, pero le gustaron los zapatos y las medias, por lo que acepta llevarse el kit completo, ya que no es posible comprar ítems individuales. |
+| [Kit de look](/es/tutorial/como-montar-un-kit-look--tutorials_266) | <ul><li>Los componentes funcionan como una sugerencia de compra conjunta, y el cliente puede elegir los ítems del kit de look que desea adquirir.</li><li>La tienda ofrece todos los componentes para compra individual.</li></ul>| Una tienda de moda femenina ofrece la venta del kit de look "Verano", formado por un bikini, una salida de playa y unas sandalias. A la cliente no le gustaron las sandalias y compra solo el bikini y la salida de playa. |
 
-Para configurar el Kit es necesario que los productos que harán parte de este – sus componentes – ya estén creados. Como en el siguiente ejemplo:
+## Crear kit
 
-![01-Componentes ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/kit/registrar-kit_1.png)
+Sigue las instrucciones a continuación para crear un kit:
 
-Luego de crear los productos componentes, podemos continuar con la configuración del Kit.
+> ℹ️ También puedes consultar cómo [Crear un kit de look](/es/tutorial/como-montar-un-kit-look--tutorials_266).
 
-1. Cree el producto que se convertirá en el Kit. Vea [Registrar Producto
-](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1ROhz3Y7mfSMmCO1I1GxEL) para más información.
-2. Inicie las configuraciones del SKU que se convertirá en el Kit. Vea [Registrar SKU](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ) para más información.
-3. Haga clic en la pestaña __Configuraciones Avanzadas__.
-4. Haga clic en la opción `Activar Kit`.
-5. Si quiere un Kit Look, haga clic en la opción __Kit con ítems vendidos por separado__.
-6. Haga clic en `Guardar`.
+1. En el Admin VTEX, accede a **Catálogo > Productos y SKUs** o ingresa **Productos y SKUs** en la barra de búsqueda en la parte superior de la página.
+2. Accede a la página de edición del SKU que será uno de los componentes. Si aún no hay un SKU creado, consulta [Agregar o editar SKUs](/es/tutorial/agregar-o-editar-skus--4ryZ6J45kwn3jDiQBxGiiN).
+3. En la pestaña **SKUs**, haz clic en la <i class="fas fa-ellipsis-v" aria-hidden="true"></i> fila del SKU deseado.
 
-![02-kit ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/kit/registrar-kit_2.png)
+  ![bundle_registration_image_1_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/kit/registrar-kit_1.png)
 
-## Asociar componentes
+4. Haz clic en `Crear kit`.
+5. Haz clic en `Convertir en kit`.
 
-Después de crear el producto que se convertirá en el Kit, deben asociarse los componentes siguiendo los siguientes pasos:
+> ❗ Convertir un SKU en kit es una acción permanente y no se puede deshacer.
 
-1. Después de crear el SKU, usted será redireccionado a la pantalla de visualización del SKU. Si ha salido, acceda a la página de producto &gt; SKU.
-2. Haga clic en la flechita en `Editar`.
-3. Haga clic en la opción __Kit__.
-4. Haga clic en el botón `Nuevo Componente`.
-5. Rellene el ID del SKU que desea asociar como componente del Kit.
-6. Rellene la cantidad de aquel SKU por Kit; es decir, la cantidad de un SKU dado en cada Kit.
-7. Rellene el precio unitario del SKU dentro del Kit.
-6. Haga clic en `Guardar`.
+Al convertirlo, el ID de SKU mostrará la etiqueta `Kit`:
 
-![03-agregar componente al Kit ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/kit/registrar-kit_3.gif)
+![bundle_registration_image_2_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/kit/registrar-kit_2.png)
 
-![04-Kit en el carrito  TODO](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/kit/registrar-kit_4.png)
+Si lo deseas, puedes duplicar el SKU o moverlo a otro producto. Estas acciones están disponibles en el mismo menú donde se encuentra la opción `Crear kit`, descrita en el paso 4.
 
 ## Peso del Kit
 
-El peso del Kit estará conformado por la suma del peso de sus componentes. Editar el peso directamente en la página del Kit no surtirá efectos en la plataforma. La simulación de coste de envío sigue la misma regla.
+El peso del Kit estará conformado por la suma del peso de sus componentes.
 
 ## Stock
 
@@ -67,7 +59,7 @@ El [stock](/es/tutorial/inventory-management--tutorials_139) del Kit siempre ser
 
 Como todos los SKUs componentes del Kit solo pueden venderse juntos, el stock será igual al SKU con menos ítems en stock. Esto porque no puede comprarse el Kit cuando uno de los componentes ya no tiene stock.  
 
-Ejemplo: El Kit tiene dos componentes. El componente 1 tiene 30 unidades en stock. El componente 2 tiene 3 unidades en stock. Solo podrán venderse 3 unidades del Kit.
+> **Ejemplo:** el Kit tiene dos componentes. El componente 1 tiene 30 unidades en stock. El componente 2 tiene 3 unidades en stock. Solo podrán venderse 3 unidades del Kit.
 
 Los componentes del Kit pueden estar en distintos stocks, siempre que se envíen desde el mismo muelle. Si no salen por el mismo muelle, todo el Kit deja de estar disponible. 
 
@@ -75,15 +67,8 @@ Los componentes del Kit pueden estar en distintos stocks, siempre que se envíen
 
 ## Precio
 
-El precio del kit se actualiza automáticamente después de cambiar el valor unitario de cualquiera de los componentes en la página de registro de los componentes SKU del kit en el __Catálogo__. El precio final será la suma de los valores de los componentes.
+El precio del kit se actualiza automáticamente después de cambiar el valor unitario de cualquiera de los componentes. El precio final será la suma de los valores de los componentes.
 
 También podrá modificar únicamente el precio final del Kit directamente desde el sistema de precios sin actualizar los componentes. De este modo, el valor del componente se utilizará apenas para prorratear el valor de venta entre los componentes, determinando el precio de cada componente en ese pedido específico.
 
-Pero tenga en cuenta que al cambiar cualquier componente se generará un nuevo precio final, actualizando lo que se había registrado anteriormente.
-Alterar solo el precio final no actualiza el precio de los componentes.
-
-![06-Lista de precios ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/kit/registrar-kit_5.png)
-
-### Más información
-
-- [Ordenar los productos del kit look](/es/tutorial/como-ordenar-los-productos-del-kitlook--frequentlyAskedQuestions_621)
+Pero tenga en cuenta que al cambiar cualquier componente se generará un nuevo precio final, actualizando lo que se había registrado anteriormente. Alterar solo el precio final no actualiza el precio de los componentes.

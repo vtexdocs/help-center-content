@@ -14,7 +14,7 @@ locale: pt
 legacySlug: ativei-a-recorrencia-de-um-produto-mas-ele-nao-aparece-no-site
 ---
 
-> ⚠️ **Atenção:** existem duas formas de configurar coleções, por meio do CMS ou utilizando o módulo de Coleções Beta. Este artigo refere-se à <a href = "https://help.vtex.com/pt/tutorial/cadastro-de-colecoes-cms--2YBy6P6X0NFRpkD2ZBxF6L">configuração de coleções por meio do CMS</a>.
+> ⚠️ **Atenção:** existem duas formas de configurar coleções, por meio do CMS ou utilizando o módulo de Coleções Beta. Este artigo refere-se à <a href = "/pt/tutorial/cadastro-de-colecoes-cms--2YBy6P6X0NFRpkD2ZBxF6L">configuração de coleções por meio do CMS</a>.
 
 Sempre que você alterar ou criar uma assinatura, é preciso reindexar seus SKUs para que ela funcione corretamete. Ao fazer isso, você estará salvando a informação de que aquele SKU tem um anexo (neste caso, a assinatura) e deve ser tratado de forma diferente.
 

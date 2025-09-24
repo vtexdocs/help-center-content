@@ -3,8 +3,8 @@ title: 'Configurar pagamento customizado'
 id: tutorials_451
 status: PUBLISHED
 createdAt: 2017-04-27T22:04:32.144Z
-updatedAt: 2023-10-18T14:42:25.244Z
-publishedAt: 2023-10-18T14:42:25.244Z
+updatedAt: 2025-09-23T20:11:39.861Z
+publishedAt: 2025-09-23T20:11:39.861Z
 firstPublishedAt: 2017-04-27T23:03:25.828Z
 contentType: tutorial
 productTeam: Financial
@@ -15,9 +15,9 @@ locale: pt
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-O meio de pagamento customizado é uma alternativa às opções oferecidas por padrão pelo Pagamentos. Permite a criação de até 15 novas formas de pagamento, como o pagamento na entrega e o pagamento por cartão próprio da loja, por exemplo.
+A funcionalidade __Pagamentos customizados__ é uma alternativa às opções padrão oferecidas pelo módulo Pagamentos. Com ela, é possível criar até 60 (sessenta) novas formas de pagamento — como pagamento na entrega ou com cartão próprio da loja.
 
-Esses meios de pagamento são separados em três categorias. Cada categoria permite cinco configurações.
+Os meios de pagamento customizados são organizados em três categorias — promissórias, cartões de loja (bandeira própria) e cartões de loja (co-branded) — cada uma com até 20 (vinte) configurações possíveis.
 
 ## Promissórias
 Promissória é uma promessa de pagamento que precisa de aprovação manual do lojista para aprovar a transação. É frequentemente usada para disponibilizar o pagamento através de dinheiro. Para configurar Promissórias, acesse a documentação [Configurar pagamentos com Promissória](/pt/tutorial/configurar-pagamentos-com-promissoria).

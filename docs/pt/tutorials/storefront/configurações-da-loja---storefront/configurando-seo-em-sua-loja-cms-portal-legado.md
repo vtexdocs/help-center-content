@@ -3,8 +3,8 @@ title: 'Configurando SEO em sua loja CMS Portal Legado'
 id: 5MMge9JgUa014quZ0qeMKy
 status: PUBLISHED
 createdAt: 2025-02-21T15:10:44.192Z
-updatedAt: 2025-02-21T15:25:34.997Z
-publishedAt: 2025-02-21T15:25:34.997Z
+updatedAt: 2025-09-22T15:26:50.357Z
+publishedAt: 2025-09-22T15:26:50.357Z
 firstPublishedAt: 2025-02-21T15:25:34.997Z
 contentType: tutorial
 productTeam: Others
@@ -24,12 +24,9 @@ A tag de título ajuda a definir o assunto da página para os motores de busca e
 1. No Admin VTEX, acesse **Configurações da loja > Storefront > Configurações**.
 2. Clique na aba **SEO**.
 3. Preencha os campos conforme as orientações a seguir:
-  - **Palavras-chave (Meta Tag Keyword):** defina as palavras que serão utilizadas pelos mecanismos de busca para indexar sua loja. Utilize vírgulas para separar as palavras.
-  - **Meta Tag Description:** forneça uma breve descrição da sua loja. Deve ser informativa e conter palavras-chave relevantes, pois essa descrição será mostrada nos resultados dos mecanismos de busca.
+    - **Palavras-chave (meta tag de palavra-chave):** defina as palavras que serão utilizadas pelos mecanismos de busca para indexar sua loja. Utilize vírgulas para separar as palavras.
+    - **Meta tag de descrição:** forneça uma breve descrição da sua loja. Deve ser informativa e conter palavras-chave relevantes, pois essa descrição será mostrada nos resultados dos mecanismos de busca.
+        > ℹ️ O campo **Descrição da categoria (meta tag de descrição)** não precisa ser preenchido, pois possui a mesma função do campo anterior **Meta tag de descrição**.
+    - **Robots.txt:** especifique como os motores de busca devem rastrear e indexar uma página específica. Os valores padrão são `index`, `follow`. Para saber quais outros valores são compatíveis com o Google, consulte a [lista de regras válidas](https://developers.google.com/search/docs/crawling-indexing/robots-meta-tag?hl=pt-br#directives).
 
-       > ℹ️ O campo **Descrição da categoria (Meta Tag Description)** não precisa ser preenchido, pois possui a mesma função do campo anterior **Meta Tag Description**.
-
-  - **Robots.txt:** especifique como os motores de busca devem rastrear e indexar uma página específica. Os valores padrão são `index, follow`. Para saber quais outros valores são compatíveis com o Google, consulte a [lista de regras válidas](https://developers.google.com/search/docs/crawling-indexing/robots-meta-tag?hl=pt-br#directives).
 4. Clique em `Salvar`.
-
-![seo-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/configura%C3%A7%C3%B5es-da-loja---storefront/configurando-seo-em-sua-loja-cms-portal-legado_1.png)

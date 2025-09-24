@@ -3,8 +3,8 @@ title: 'How to configure a custom payment'
 id: tutorials_451
 status: PUBLISHED
 createdAt: 2017-04-27T22:04:32.144Z
-updatedAt: 2023-10-18T14:42:25.244Z
-publishedAt: 2023-10-18T14:42:25.244Z
+updatedAt: 2025-09-23T20:11:39.861Z
+publishedAt: 2025-09-23T20:11:39.861Z
 firstPublishedAt: 2017-04-27T23:03:25.828Z
 contentType: tutorial
 productTeam: Financial
@@ -15,15 +15,15 @@ locale: en
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-The custom payment is an alternative to the standard options offered by Payments. It allows you to create up to 15 new forms of payment, such as cash on delivery or payment with the store's card, for example.
+The __Custom Payments__ functionality is an alternative to the standard options offered by the Payments module. With it, you can create up to 60 (sixty) new payment methods — such as cash on delivery or store-issued cards.
 
-These payment methods are separated into three categories, and each category allows five configurations.
+Custom payment methods are organized into three categories — notes payable, store cards (private label), and store cards (co-branded) — each allowing up to 20 (twenty) configurations.
 
 ## Notes Payable
 
 A Note Payable is a promise of payment that needs manual approval of the seller to perform the transaction. It is often used to provide payment through money. To configure Notes Payable, access the documentation [Setting up payments with Notes Payable](/en/tutorial/setting-up-payments-with-notes-payable).
 
-## Store Cards (Own Brand)
+## Store Cards (Private label)
 
 It allows the use of a store's credit card with its own brand. To configure this payment method, access the documentation [Setting up Private Label payments](/en/tutorial/setting-up-private-label-payments).
 

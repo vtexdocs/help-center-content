@@ -31,7 +31,7 @@ On VTEX, there are three ways to configure Collections:
 | Automatic | CMS | Created by Brand or Category filters | No control |  
 | Hybrid | CMS and Collections module (Beta) | Created by Brand or Category filters. You can also add products manually | No control        |
 
-> ⚠️ Collections created in the CMS module and with more than one <a href = "https://help.vtex.com/en/tutorial/cadastro-de-colecoes-cms--2YBy6P6X0NFRpkD2ZBxF6L">group</a> cannot be reordered in the new Beta Collection module. We recommend you do not change the ordering, as it may compromise the efficiency of the functionality.
+> ⚠️ Collections created in the CMS module and with more than one <a href = "/en/tutorial/cadastro-de-colecoes-cms--2YBy6P6X0NFRpkD2ZBxF6L">group</a> cannot be reordered in the new Beta Collection module. We recommend you do not change the ordering, as it may compromise the efficiency of the functionality.
 
   ## Manual collections
 

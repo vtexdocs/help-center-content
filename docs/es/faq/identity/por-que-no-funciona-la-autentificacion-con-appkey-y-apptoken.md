@@ -18,7 +18,7 @@ En VTEX, la autenticación de las [APIs](https://developers.vtex.com/vtex-develo
 
 ## Asociación de appkey y apptoken
 
-Al acceder a __Perfiles de acceso__, dentro del módulo de __[Configuraciones de la cuenta]( https://help.vtex.com/es/tutorial/visao-geral-configuracoes-da-conta--6USYxLuzNt4uAkvjdPF7I8)__, es posible configurar [perfiles de acceso](/es/tutorial/perfiles-de-acceso--7HKK5Uau2H6wxE1rH5oRbc) con niveles de acceso diferentes a la plataforma.
+Al acceder a __Perfiles de acceso__, dentro del módulo de __[Configuraciones de la cuenta](/es/tutorial/visao-geral-configuracoes-da-conta--6USYxLuzNt4uAkvjdPF7I8)__, es posible configurar [perfiles de acceso](/es/tutorial/perfiles-de-acceso--7HKK5Uau2H6wxE1rH5oRbc) con niveles de acceso diferentes a la plataforma.
 
 Cada par de appKey y appToken, cuando se crea, no está vinculado a un perfil de acceso. De esta forma, __es necesario vincular ambas claves a un perfil de acceso deseado__.
 

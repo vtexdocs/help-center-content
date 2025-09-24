@@ -3,8 +3,8 @@ title: 'Verificar propiedad en el Google Search Console de tienda VTEX'
 id: frequentlyAskedQuestions_594
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:55.830Z
-updatedAt: 2024-12-20T00:27:16.190Z
-publishedAt: 2024-12-20T00:27:16.190Z
+updatedAt: 2025-09-12T17:04:25.650Z
+publishedAt: 2025-09-12T17:04:25.650Z
 firstPublishedAt: 2019-01-24T22:00:50.515Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -14,6 +14,8 @@ legacySlug: como-verificar-propiedad-en-el-google-search-console-de-tienda-vtex
 locale: es
 subcategoryId: 1luKrYptdi8WoMYckakUaM
 ---
+
+> ⚠️ Para los usuarios de FastStore, puedes agregar la metaetiqueta directamente a través de ThirdPartyScripts en lugar de utilizar esta aplicación. Consulta la guía [Adding third-party scripts.](https://developers.vtex.com/docs/guides/faststore/storefront-features-handling-third-party-scripts)
 
 Para acceder a los datos de [Google Search Console](https://support.google.com/webmasters/answer/9128668?hl=es&ref_topic=9128571&sjid=2614223107390057925-NA) debes verificar la propiedad de tu tienda informando a Google la dirección del sitio web mediante el dominio (`mitienda`) o la URL (`https://mitienda.com`). Esto te permitirá monitorear el rendimiento de la indexación en Google.
 
@@ -27,10 +29,10 @@ Para activar el acceso, sigue las instrucciones de este tutorial.
 4. Copia la etiqueta meta del paso 1.
 5. Selecciona el método de instalación apropiado para la tecnología de tu tienda:
 
-- [Store Framework y FastStore](#store-framework-y-faststore)
+- [Store Framework](#store-framework)
 - [CMS Portal Legado](#cms-portal-legado)
 
-### Store Framework y FastStore
+### Store Framework
 
 1. En el Admin VTEX, accede a **Apps > Hub de extensiones > App Store**.
 2. Busca la aplicación **Google Search Console** y haz clic en `Instalar`. Se te redirigirá a la [página de la aplicación en la App Store](https://apps.vtex.com/vtex-google-search-console/p).

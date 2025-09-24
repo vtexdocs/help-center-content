@@ -1,9 +1,9 @@
 ---
 title: 'O que significa ativar o multiplicador de brinde em uma promoção?'
 id: 1gydgkmjEWcoo2CskUwuYK
-status: PUBLISHED
+status: CHANGED
 createdAt: 2019-01-24T20:45:34.467Z
-updatedAt: 2020-12-22T22:46:17.767Z
+updatedAt: 2025-09-23T13:51:20.561Z
 publishedAt: 2020-12-22T22:46:17.767Z
 firstPublishedAt: 2019-01-24T22:13:50.154Z
 contentType: tutorial
@@ -15,13 +15,39 @@ locale: pt
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
-Ao configurar uma promoção **Compre e Ganhe**, é possível **Ativar multiplicador de brindes**. Com isso, a promoção passa a ter dois cenários diferentes a partir de agora:
+Ao configurar uma promoção do tipo Compre e Ganhe ou Promoção Regular, você pode adicionar o Multiplicador de brindes. Essa opção altera o comportamento da quantidade máxima de brindes que o cliente pode selecionar no carrinho, com base na quantidade de SKUs elegíveis.
 
-**Primeiro cenário** _Multiplicador de brindes ativo_: A nova funcionalidade permite que ofereça o mesmo número de brindes referente ao número de produtos comprados. Ou seja, ao escolher 3 vezes um SKU, oferta-se 3 unidades do brinde. 
+## Como configurar no Admin
+1. No Admin VTEX, acesse **Promoções > Promoções**, ou digite **Promoções** no topo da página na barra de busca.
+2. Clique em `Criar promoção`.
+3. Escolha o tipo de promoção:
+    - Regular
+    - Compre e Ganhe
+4. No campo `Configurar benefício`, selecione Brinde.
+5. Selecione os SKUs que darão direito ao brinde.
+6. No campo **Quantidade máxima de brindes**, defina quantos brindes o cliente poderá selecionar.
+7. No seletor ao lado, selecione **Por carrinho ou Por item elegível no carrinho**.
+8. Finalize os demais campos da promoção e clique em **Salvar**.
 
-**Segundo cenário** _Multiplicador de brindes desativado_: Mantém o parâmetro que existia antes do lançamento dessa funcionalidade, ou seja, oferta-se apenas um brinde por carrinho.
+A seguir, explicaremos como o multiplicador funciona nos dois cenários possíveis e como configurá-la no Admin VTEX.
 
-Para ambos cenários, é necessário preencher a quantidade máxima de selecionável. Com o multiplicador de brindes **ativado**, determine a **quantidade máxima** de brindes para a condição. Para o multiplicador de brindes **desativado**, a quantidade é **sempre 1**. 
+## Comportamento do multiplicador de brindes
+No campo de Adicionar benefício de brinde, há um seletor que define como será aplicada a quantidade máxima de brindes. Ele oferece duas opções:
 
+### Por carrinho
+A quantidade máxima de brindes é aplicada uma única vez, independentemente da quantidade de SKUs elegíveis no carrinho.
 
-![ativar-multiplicador-brinde pt ](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promo%C3%A7%C3%B5es-e-taxas/promo%C3%A7%C3%B5es/o-que-significa-ativar-o-multiplicador-de-brinde-em-uma-promocao_1.png)
+- Exemplo:
+
+    - Quantidade máxima: `2`
+    - SKUs elegíveis no carrinho: `3`
+    - Brindes disponíveis: `2`
+
+### Por item elegível
+A quantidade máxima de brindes é multiplicada pelo número de SKUs elegíveis para definir a quantidade total de brindes disponíveis.
+
+- Exemplo:
+
+    - Quantidade máxima: `2`
+    - SKUs elegíveis no carrinho: `3`
+    - Brindes disponíveis: `6` (2 × 3)

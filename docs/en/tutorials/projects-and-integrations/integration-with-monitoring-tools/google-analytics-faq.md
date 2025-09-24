@@ -84,7 +84,7 @@ Whereas Google Analytics provides an automatically generated sales funnel based 
 
 As the funnel views are based on different information, they may differ.
 
-You can configure another sales funnel on Google Analytics, which enables a customized view and better control of the buying journey. Check out this article on how to [set up the sales funnel on Google Analytics] (https://help.vtex.com/en/tutorial/configurar-funil-de-vendas-no-google-analytics#).
+You can configure another sales funnel on Google Analytics, which enables a customized view and better control of the buying journey. Check out this article on how to [set up the sales funnel on Google Analytics](/en/tutorial/configurar-funil-de-vendas-no-google-analytics#).
 
 ## What is the Google Analytics sales funnel?
 

@@ -29,5 +29,5 @@ We improved the configuration of subscription promotions by making their creatio
 ## What needs to be done?
 No action is needed. The change will be implemented automatically in all VTEX stores.
 Promotions created previously will continue to work with the original configuration.
-To learn more, read the articles [Creating a subscription promotion] (https://help.vtex.com/en/tutorial/creating-a-subscription-promotion--3ROT13HYNeUIv0plDqgNed) and [Creating a subscription plan] (https://help.vtex.com/en/tutorial/planes-de-suscripcion-beta--5kczKRqHEsrs1tYtRcY8wR).
+To learn more, read the articles [Creating a subscription promotion](/en/tutorial/creating-a-subscription-promotion--3ROT13HYNeUIv0plDqgNed) and [Creating a subscription plan](/en/tutorial/planes-de-suscripcion-beta--5kczKRqHEsrs1tYtRcY8wR).
 

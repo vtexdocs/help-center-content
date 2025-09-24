@@ -29,5 +29,5 @@ Hemos mejorado la configuración de las promociones por suscripción para que se
 ## ¿Qué se necesita hacer? 
 No se requiere ninguna acción, el cambio es automático para todas las tiendas VTEX. 
 Las promociones creadas anteriormente, en el formato sin valor numérico, siguen funcionando con la configuración original.
-Para saber más, consulta los artículos [Crear una promoción por suscripción] (https://help.vtex.com/es/tutorial/como-crear-una-promocion-por-suscripcion--3ROT13HYNeUIv0plDqgNed) y  [Plan de suscripción] (https://help.vtex.com/es/tutorial/planes-de-suscripcion-beta--5kczKRqHEsrs1tYtRcY8wR).
+Para saber más, consulta los artículos [Crear una promoción por suscripción](/es/tutorial/como-crear-una-promocion-por-suscripcion--3ROT13HYNeUIv0plDqgNed) y  [Plan de suscripción](/es/tutorial/planes-de-suscripcion-beta--5kczKRqHEsrs1tYtRcY8wR).
 

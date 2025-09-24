@@ -1,25 +1,23 @@
 ---
-title: 'Montar um Kit Look'
+title: 'Montar um Kit look'
 id: tutorials_266
 status: PUBLISHED
 createdAt: 2017-04-27T22:11:08.863Z
-updatedAt: 2025-06-12T16:52:32.277Z
-publishedAt: 2025-06-12T16:52:32.277Z
+updatedAt: 2025-09-16T14:45:58.909Z
+publishedAt: 2025-09-16T14:45:58.909Z
 firstPublishedAt: 2017-04-27T23:03:12.436Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_3
-slugEN: how-to-assemble-a-look-kit
+slugEN: how-to-assemble-an-outfit
 legacySlug: como-montar-um-kit-look
 locale: pt
 subcategoryId: 17Lkzo2rGBE1Bt7dXjE0tV
 ---
 
-<div style="background-color:#FCF8F2; border-left: 2px solid #F0AD4E; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px; margin-bottom: 10px">
-Tutorial válido apenas para lojas CMS Portal Legado.
-</div>
+> ⚠️ Tutorial válido apenas para lojas CMS Portal Legado.
 
-Saiba como configurar em VTEX um Kit Look ou Lookbook, como também conhecido. 
+Saiba como configurar na VTEX um Kit look, também conhecido como Lookbook.
 
 Antes de falarmos sobre o Kit Look, é importante lembrar que você deve saber criar um Kit. Para isso, acesse o artigo [Como criar Kit](/pt/tutorial/cadastrando-kit/).
 
@@ -29,7 +27,7 @@ As diferenças entre o KIT e o KIT LOOK são:
 
 Ou seja, o Kit é um novo produto composto por outros que podem, ou não, estar disponíveis para compra separada.
 
-**Kit Look:** Em um kit look, todos os produtos componentes podem ser encontrados no site e vendidos fora do kit. Até mesmo na página de produto do kit look é possível comprar os itens separadamente ou todos juntos. O cliente encara um Kit Look como uma sugestão.
+**Kit look:** Em um kit look, todos os produtos componentes podem ser encontrados no site e vendidos fora do kit. Até mesmo na página de produto do kit look é possível comprar os itens separadamente ou todos juntos. O cliente encara um Kit Look como uma sugestão.
 
 ### O que é o Kit Look?
 
