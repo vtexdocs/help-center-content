@@ -3,8 +3,8 @@ title: 'Fluxo e status de pedidos'
 id: tutorials_196
 status: PUBLISHED
 createdAt: 2017-04-27T22:14:33.518Z
-updatedAt: 2025-08-15T14:14:28.169Z
-publishedAt: 2025-08-15T14:14:28.169Z
+updatedAt: 2025-09-25T20:02:32.289Z
+publishedAt: 2025-09-25T20:02:32.289Z
 firstPublishedAt: 2017-04-27T23:02:47.616Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -141,262 +141,249 @@ Veja abaixo a tabela com os status de pedido. As informações da tabela estão 
 
 > ⚠️ Observe que os status do fluxo completo do pedido (fluxo visto pelas lojas responsáveis pela venda e entrega dos pedidos) coincidem com os status de marketplace e seller. Alguns status podem ser vistos via API, mas não ficam visíveis no fluxo do pedido visto no Admin no módulo **Todos os pedidos**.
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
-.tg td{background-color:#fff;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
-  font-family:Fabriga, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{background-color:#f0f0f0;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
-  font-family:Fabriga, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-cly1{text-align:left;vertical-align:middle}
-.tg .tg-9p9e{background-color:#FFF;color:#F71963;text-align:left;text-decoration:underline;vertical-align:top}
-.tg .tg-36r3{background-color:#727273;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
+<table>
 <thead>
   <tr>
-    <th class="tg-36r3"><span style="font-weight:700">Status Admin</span></th>
-    <th class="tg-36r3"><span style="font-weight:700">Status API</span></th>
-    <th class="tg-36r3"><span style="font-weight:700">Status Minha conta</span></th>
-    <th class="tg-36r3"><span style="font-weight:700">Visto por</span></th>
-    <th class="tg-36r3"><span style="font-weight:700">Significado</span></th>
+    <th>Status Admin</th>
+    <th>Status API</th>
+    <th>Status Minha conta</th>
+    <th>Visto por</th>
+    <th>Significado</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">null</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Marketplace, seller, fluxo completo e chain</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Pedidos criados e incompletos. O fluxo ainda pode ser iniciado pelo sistema ou o status do pedido consta como</span> <span style="font-weight:400;color:#3F3F40;background-color:#E3E4E6">CancellationData</span><span style="font-weight:400">, informando que ocorreu uma falha ao tentar completá-lo.</span></td>
+    <td>-</td>
+    <td>null</td>
+    <td>-</td>
+    <td>Marketplace, seller, fluxo completo e chain</td>
+    <td>Pedidos criados e incompletos. O fluxo ainda pode ser iniciado pelo sistema ou o status do pedido consta como CancellationData, informando que ocorreu uma falha ao tentar completá-lo.</td>
   </tr>
   <tr>
-    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">order-created*</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Marketplace, fluxo completo e chain</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Pedido criado. O processamento dos dados do pedido é iniciado. Este é o primeiro estágio de um pedido, e significa que o sistema reuniu as informações básicas para processá-lo.</span></td>
+    <td>-</td>
+    <td>order-created*</td>
+    <td>-</td>
+    <td>Marketplace, fluxo completo e chain</td>
+    <td>Pedido criado. O processamento dos dados do pedido é iniciado. Este é o primeiro estágio de um pedido, e significa que o sistema reuniu as informações básicas para processá-lo.</td>
   </tr>
   <tr>
-    <td class="tg-zr06"><span style="font-weight:400">Pagamento negado</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Cancelado</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Marketplace, fluxo completo e chain</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">O pagamento foi negado.</span></td>
+    <td>Pagamento negado</td>
+    <td>-</td>
+    <td>Cancelado</td>
+    <td>Marketplace, fluxo completo e chain</td>
+    <td>O pagamento foi negado.</td>
   </tr>
   <tr>
-    <td class="tg-zr06"><span style="font-weight:400">Pedido aceito</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">order-accepted</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Seller</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Seller recebe o pedido.</span></td>
+    <td>Pedido aceito</td>
+    <td>order-accepted</td>
+    <td>-</td>
+    <td>Seller</td>
+    <td>Seller recebe o pedido.</td>
   </tr>
   <tr>
-    <td class="tg-zr06"><span style="font-weight:400">Cancelando</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">canceling*</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Marketplace, seller, fluxo completo e chain</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Momento em que o pedido vai para o cancelamento. Nesse estágio, o módulo de</span> [<span style="font-weight:400;color:#F71963;background-color:transparent">Pagamentos</span>](/pt/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG) <span style="font-weight:400">é notificado sobre o cancelamento. O pedido ficará nesse status até que o módulo de Pagamentos conclua o processo de cancelamento.</span></td>
+    <td>Cancelando</td>
+    <td>canceling*</td>
+    <td>-</td>
+    <td>Marketplace, seller, fluxo completo e chain</td>
+    <td>Momento em que o pedido vai para o cancelamento. Nesse estágio, o módulo de [Pagamentos](/pt/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG) é notificado sobre o cancelamento. O pedido ficará nesse status até que o módulo de Pagamentos conclua o processo de cancelamento.</td>
   </tr>
   <tr>
-    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">on-order-completed</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Marketplace, fluxo completo e chain</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">A compra foi processada no checkout. Os dados do pedido estão completos.</span></td>
+    <td>-</td>
+    <td>on-order-completed</td>
+    <td>-</td>
+    <td>Marketplace, fluxo completo e chain</td>
+    <td>A compra foi processada no checkout. Os dados do pedido estão completos.</td>
   </tr>
   <tr>
-    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">on-order-completed-ffm</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Seller</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">A compra foi processada no checkout. Os dados do pedido estão completos.</span></td>
+    <td>-</td>
+    <td>on-order-completed-ffm</td>
+    <td>-</td>
+    <td>Seller</td>
+    <td>A compra foi processada no checkout. Os dados do pedido estão completos.</td>
   </tr>
   <tr>
-    <td class="tg-zr06"><span style="font-weight:400">Pagamento aprovado</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">payment-approved</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Pagamento aprovado</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Marketplace, fluxo completo e chain</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">O pagamento do pedido foi aprovado.</span></td>
+    <td>Pagamento aprovado</td>
+    <td>payment-approved</td>
+    <td>Pagamento aprovado</td>
+    <td>Marketplace, fluxo completo e chain</td>
+    <td>O pagamento do pedido foi aprovado.</td>
   </tr>
   <tr>
-    <td class="tg-zr06"><span style="font-weight:400">Pagamento pendente</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">payment-pending</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Aprovando pagamento</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Marketplace, fluxo completo e chain</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Status de espera pela confirmação do pagamento, no módulo de</span> [<span style="font-weight:400;color:#F71963;background-color:transparent">Pagamentos</span>](/pt/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG)<span style="font-weight:400">. Independentemente de o pagamento ter sido ou não confirmado, esse passo é obrigatório.</span></td>
+    <td>Pagamento pendente</td>
+    <td>payment-pending</td>
+    <td>Aprovando pagamento</td>
+    <td>Marketplace, fluxo completo e chain</td>
+    <td>Status de espera pela confirmação do pagamento, no módulo de [Pagamentos](/pt/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG). Independentemente de o pagamento ter sido ou não confirmado, esse passo é obrigatório.</td>
   </tr>
   <tr>
-    <td class="tg-zr06"><span style="font-weight:400">Cancelamento solicitado</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">request-cancel</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Marketplace e fluxo completo</span></td>
-    <td class="tg-9p9e">[<span style="font-weight:400;color:#F71963;background-color:transparent">Cliente solicita o cancelamento do pedido</span>](/pt/tutorial/cancelamento-de-pedido-por-parte-do-cliente--3wEI6DUNtecooG2Ki4Akqo)<span style="font-weight:400">.</span></td>
+    <td>Cancelamento solicitado</td>
+    <td>request-cancel</td>
+    <td>-</td>
+    <td>Marketplace e fluxo completo</td>
+    <td class="tg-9p9e">[Cliente solicita o cancelamento do pedido](/pt/tutorial/cancelamento-de-pedido-por-parte-do-cliente--3wEI6DUNtecooG2Ki4Akqo).</td>
   </tr>
   <tr>
-    <td class="tg-zr06"><span style="font-weight:400">Cancelado</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">canceled</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Cancelado</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Marketplace, seller, chain e fluxo completo</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">O pedido é finalizado sem sucesso. A transação de pagamento no módulo de</span> [<span style="font-weight:400;color:#F71963;background-color:transparent">Pagamentos</span>](/pt/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG) <span style="font-weight:400">é cancelada neste momento.</span></td>
+    <td>Cancelado</td>
+    <td>canceled</td>
+    <td>Cancelado</td>
+    <td>Marketplace, seller, chain e fluxo completo</td>
+    <td>O pedido é finalizado sem sucesso. A transação de pagamento no módulo de [Pagamentos](/pt/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG) é cancelada neste momento.</td>
   </tr>
   <tr>
-    <td class="tg-zr06"><span style="font-weight:400">Janela para mudança de pagamento</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">window-to-change-payment</span></td>\
-    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Marketplace</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Período de tempo para mudança de pagamento.</span></td>
+    <td>Janela para mudança de pagamento</td>
+    <td>window-to-change-payment</td>\
+    <td>-</td>
+    <td>Marketplace</td>
+    <td>Período de tempo para mudança de pagamento.</td>
   </tr>
   <tr>
-    <td class="tg-zr06"><span style="font-weight:400">Janela para mudança de seller</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">window-to-change-seller</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Marketplace</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Período de tempo para</span> [<span style="font-weight:400;color:#F71963;background-color:transparent">mudança de seller</span>](/pt/tutorial/veja-como-utilizar-o-change-seller--5TBAwO2kOAMw44uyaaQMQO)<span style="font-weight:400">.</span></td>
+    <td>Janela para mudança de seller</td>
+    <td>window-to-change-seller</td>
+    <td>-</td>
+    <td>Marketplace</td>
+    <td>Período de tempo para [mudança de seller](/pt/tutorial/veja-como-utilizar-o-change-seller--5TBAwO2kOAMw44uyaaQMQO).</td>
   </tr>
   <tr>
-    <td class="tg-zr06"><span style="font-weight:400">Aguardando confirmação do seller</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">waiting-for-authorization</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Pedido confirmado</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Marketplace, fluxo completo e chain</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Aguardando liberação do seller para prosseguir com o fluxo do pedido.</span></td>
+    <td>Aguardando confirmação do seller</td>
+    <td>waiting-for-authorization</td>
+    <td>Pedido confirmado</td>
+    <td>Marketplace, fluxo completo e chain</td>
+    <td>Aguardando liberação do seller para prosseguir com o fluxo do pedido.</td>
   </tr>
     <tr>
-    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">waiting-for-fulfillment</span></td>
-      <td class="tg-zr06"><span style="font-weight:400">-</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Seller</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Espera pelo fulfillment do pedido. Status exclusivo para lojas que utilizam um Warehouse Management System (WMS).</span></td>
+    <td>-</td>
+    <td>waiting-for-fulfillment</td>
+      <td>-</td>
+    <td>Seller</td>
+    <td>Espera pelo fulfillment do pedido. Status exclusivo para lojas que utilizam um Warehouse Management System (WMS).</td>
   </tr>
     <tr>
-    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">waiting-ffmt-authorization</span></td>
-      <td class="tg-zr06"><span style="font-weight:400">-</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Seller</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Aguardando a autorização do marketplace.</span></td>
+    <td>-</td>
+    <td>waiting-ffmt-authorization</td>
+      <td>-</td>
+    <td>Seller</td>
+    <td>Aguardando a autorização do marketplace.</td>
   </tr>
   <tr>
-    <td class="tg-zr06"><span style="font-weight:400">Aguardando autorização para despachar</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">waiting-for-manual-authorization</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Seller</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">É um status de espera, no qual o seller aguarda o marketplace autorizar a continuação dos processos do pedido.</span></td>
+    <td>Aguardando autorização para despachar</td>
+    <td>waiting-for-manual-authorization</td>
+    <td>-</td>
+    <td>Seller</td>
+    <td>É um status de espera, no qual o seller aguarda o marketplace autorizar a continuação dos processos do pedido.</td>
   </tr>
   <tr>
-    <td class="tg-zr06"><span style="font-weight:400">Autorizar despacho</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">authorize-fulfillment</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Seller, fluxo completo</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Processo interno de liberação para manuseio. Aqui ocorre a</span> [<span style="font-weight:400;color:#F71963;background-color:transparent">confirmação da reserva</span>](/pt/tutorial/como-a-reserva-funciona--tutorials_92#reserva-confirmada)<span style="font-weight:400">. Quando o marketplace não autoriza o seller a despachar o pedido em até 30 dias, o pedido é automaticamente cancelado pela plataforma.</span></td>
+    <td>Autorizar despacho</td>
+    <td>authorize-fulfillment</td>
+    <td>-</td>
+    <td>Seller, fluxo completo</td>
+    <td>Processo interno de liberação para manuseio. Aqui ocorre a [confirmação da reserva](/pt/tutorial/como-a-reserva-funciona--tutorials_92#reserva-confirmada). Quando o marketplace não autoriza o seller a despachar o pedido em até 30 dias, o pedido é automaticamente cancelado pela plataforma.</td>
   </tr>
   <tr>
-    <td class="tg-zr06"><span style="font-weight:400">Janela para cancelamento</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">window-to-cancel</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Preparando pedido</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Seller e fluxo completo</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Status do tempo de cancelamento do cliente. Após a aprovação do pagamento, o cliente tem 30 minutos (definido como padrão nas</span> [<span style="font-weight:400;color:#F71963;background-color:transparent">Configurações Gerais</span>](/pt/tutorial/configuracoes-gerais/) <span style="font-weight:400">do módulo de</span> <span style="font-weight:700">Gerenciamento de Pedidos</span><span style="font-weight:400">) para realizar seu cancelamento. Nesse período, o estorno do pedido é realizado automaticamente.</span></td>
+    <td>Janela para cancelamento</td>
+    <td>window-to-cancel</td>
+    <td>Preparando pedido</td>
+    <td>Seller e fluxo completo</td>
+    <td>Status do tempo de cancelamento do cliente. Após a aprovação do pagamento, o cliente tem 30 minutos (definido como padrão nas [Configurações Gerais](/pt/tutorial/configuracoes-gerais/) do módulo de **Gerenciamento de Pedidos**) para realizar seu cancelamento. Nesse período, o estorno do pedido é realizado automaticamente.</td>
   </tr>
   <tr>
-    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">ready-for-invoicing</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Marketplace e fluxo completo</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">O pedido está pronto para ser faturado em lojas que tem picking e packing no processo de fulfillment.</span></td>
+    <td>-</td>
+    <td>ready-for-invoicing</td>
+    <td>-</td>
+    <td>Marketplace e fluxo completo</td>
+    <td>O pedido está pronto para ser faturado em lojas que tem picking e packing no processo de fulfillment.</td>
   </tr>
   <tr>
-    <td class="tg-zr06"><span style="font-weight:400">Verificando nota fiscal</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">invoice*</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Preparando pedido</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Marketplace, chain e fluxo completo</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">A plataforma está verificando a nota fiscal incluída. Se esse status permanecer, é possível ter ocorrido problemas na liquidação do pagamento ou na inclusão da fatura. Saiba mais em</span> [<span style="font-weight:400;color:#F71963;background-color:transparent">Por que o pedido está no status "Verificando fatura"</span>](/pt/tutorial/por-que-o-pedido-esta-no-status-verificando-fatura--5VJjxRjeH6SimiG0Wkk2gm)<span style="font-weight:400">.</span></td>
+    <td>Verificando nota fiscal</td>
+    <td>invoice*</td>
+    <td>Preparando pedido</td>
+    <td>Marketplace, chain e fluxo completo</td>
+    <td>A plataforma está verificando a nota fiscal incluída. Se esse status permanecer, é possível ter ocorrido problemas na liquidação do pagamento ou na inclusão da fatura. Saiba mais em [Por que o pedido está no status "Verificando fatura"](/pt/tutorial/por-que-o-pedido-esta-no-status-verificando-fatura--5VJjxRjeH6SimiG0Wkk2gm).</td>
   </tr>
   <tr>
-    <td class="tg-zr06"><span style="font-weight:400">Faturado</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">invoiced</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Entregando à transportadora</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Marketplace, seller, chain e fluxo completo</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">O fluxo foi finalizado com sucesso e o pedido foi entregue à transportadora. Se a transação foi feita via cartão de crédito, a liquidação do valor é realizada neste momento.</span></td>
+    <td>Faturado</td>
+    <td>invoiced</td>
+    <td>Entregando à transportadora</td>
+    <td>Marketplace, seller, chain e fluxo completo</td>
+    <td>O fluxo foi finalizado com sucesso e o pedido foi entregue à transportadora. Se a transação foi feita via cartão de crédito, a liquidação do valor é realizada neste momento.</td>
   </tr>
   <tr>
-    <td class="tg-zr06"><span style="font-weight:400">Faturado</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">invoiced (após usar o endpoint [Update order tracking](https://developers.vtex.com/docs/api-reference/orders-api#put-/api/oms/pvt/orders/-orderId-/invoice/-invoiceNumber-/tracking))</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Enviando pedido</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Marketplace, seller, chain e fluxo completo</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">O fluxo foi finalizado com sucesso e o pedido está sendo enviado. Se a transação foi feita via cartão de crédito, a liquidação do valor é realizada neste momento.</span></td>
+    <td>Faturado</td>
+    <td>invoiced (após usar o endpoint [Update order tracking](https://developers.vtex.com/docs/api-reference/orders-api#put-/api/oms/pvt/orders/-orderId-/invoice/-invoiceNumber-/tracking))</td>
+    <td>Enviando pedido</td>
+    <td>Marketplace, seller, chain e fluxo completo</td>
+    <td>O fluxo foi finalizado com sucesso e o pedido está sendo enviado. Se a transação foi feita via cartão de crédito, a liquidação do valor é realizada neste momento.</td>
   </tr>
   <tr>
-    <td class="tg-zr06"><span style="font-weight:400">Faturado</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">invoiced (após enviar `true` no campo `isDelivered` do endpoint [Update order tracking](https://developers.vtex.com/docs/api-reference/orders-api#put-/api/oms/pvt/orders/-orderId-/invoice/-invoiceNumber-/tracking))</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Pedido enviado</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Marketplace, seller, chain e fluxo completo</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">O fluxo foi finalizado com sucesso e o pedido enviado. Se a transação foi feita via cartão de crédito, a liquidação do valor é realizada neste momento.</span></td>
+    <td>Faturado</td>
+    <td>invoiced (após enviar `true` no campo `isDelivered` do endpoint [Update order tracking](https://developers.vtex.com/docs/api-reference/orders-api#put-/api/oms/pvt/orders/-orderId-/invoice/-invoiceNumber-/tracking))</td>
+    <td>Pedido enviado</td>
+    <td>Marketplace, seller, chain e fluxo completo</td>
+    <td>O fluxo foi finalizado com sucesso e o pedido enviado. Se a transação foi feita via cartão de crédito, a liquidação do valor é realizada neste momento.</td>
   </tr>
   <tr>
-    <td class="tg-zr06"><span style="font-weight:400">Pronto para manuseio</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">ready-for-handling</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Preparando pedido</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Seller</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Status que indica que é preciso iniciar o manuseio, preparar a nota fiscal e o rastreamento do pedido. Nesse status, ocorre a confirmação da</span> [<span style="font-weight:400;color:#F71963;background-color:transparent">reserva</span>](/pt/tutorial/como-a-reserva-funciona--tutorials_92) <span style="font-weight:400">do item. Em geral, essa ação é realizada por uma</span> [<span style="font-weight:400;color:#F71963;background-color:transparent">integração de ERP</span>](https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide#send-order-cancelations)<span style="font-weight:400">, mas é possível fazê-la manualmente pelo gerenciamento de pedidos. O pedido só seguirá o fluxo após a confirmação.</span></td>
+    <td>Pronto para manuseio</td>
+    <td>ready-for-handling</td>
+    <td>Preparando pedido</td>
+    <td>Seller</td>
+    <td>Status que indica que é preciso iniciar o manuseio, preparar a nota fiscal e o rastreamento do pedido. Nesse status, ocorre a confirmação da [reserva](/pt/tutorial/como-a-reserva-funciona--tutorials_92) do item. Em geral, essa ação é realizada por uma [integração de ERP](https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide#send-order-cancelations), mas é possível fazê-la manualmente pelo gerenciamento de pedidos. O pedido só seguirá o fluxo após a confirmação.</td>
   </tr>
   <tr>
-    <td class="tg-zr06"><span style="font-weight:400">Iniciar manuseio</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">start-handling*</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Seller, fluxo completo</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Status de autorização para o fluxo do manuseio continuar. É utilizado quando a autorização é feita manualmente. Caso haja</span> [<span style="font-weight:400;color:#F71963;background-color:transparent">integração com ERP</span>](https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide#send-order-cancelations)<span style="font-weight:400">, esse status espera a confirmação do ERP para que o fluxo do pedido continue.</span></td>
+    <td>Iniciar manuseio</td>
+    <td>start-handling*</td>
+    <td>-</td>
+    <td>Seller, fluxo completo</td>
+    <td>Status de autorização para o fluxo do manuseio continuar. É utilizado quando a autorização é feita manualmente. Caso haja [integração com ERP](https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide#send-order-cancelations), esse status espera a confirmação do ERP para que o fluxo do pedido continue.</td>
   </tr>
   <tr>
-    <td class="tg-zr06"><span style="font-weight:400">Cancelamento solicitado</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">cancellation-requested</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Seller</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Cancelamento solicitado.</span></td>
+    <td>Cancelamento solicitado</td>
+    <td>cancellation-requested</td>
+    <td>-</td>
+    <td>Seller</td>
+    <td>Cancelamento solicitado.</td>
   </tr>
   <tr>
-    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">waiting-for-mkt-authorization</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Chain</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Esperando autorização do marketplace para enviar a autorização para o seller.</span></td>
+    <td>-</td>
+    <td>waiting-for-mkt-authorization</td>
+    <td>-</td>
+    <td>Chain</td>
+    <td>Esperando autorização do marketplace para enviar a autorização para o seller.</td>
   </tr>
   <tr>
-    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">waiting-seller-handling</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Marketplace</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Marketplace da conta principal esperando o início do processo de manuseio, quando se trata de um pedido de Multilevel Omnichannel Inventory. Para o seller white label, aparece o status authorize-fulfillment.</span></td>
+    <td>-</td>
+    <td>waiting-seller-handling</td>
+    <td>-</td>
+    <td>Marketplace</td>
+    <td>Marketplace da conta principal esperando o início do processo de manuseio, quando se trata de um pedido de Multilevel Omnichannel Inventory. Para o seller white label, aparece o status authorize-fulfillment.</td>
   </tr>
   <tr>
-    <td class="tg-zr06"><span style="font-weight:400">Preparando entrega</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">handling</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Preparando pedido</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Seller, fluxo completo</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Status no qual os itens do pedido são</span> [<span style="font-weight:400;color:#F71963;background-color:transparent">reservados</span>](/pt/tutorial/como-a-reserva-funciona--tutorials_92)<span style="font-weight:400">. O pedido fica em manuseio aguardando notificações de fatura, geralmente vindas do ERP.</span></td>
+    <td>Preparando entrega</td>
+    <td>handling</td>
+    <td>Preparando pedido</td>
+    <td>Seller, fluxo completo</td>
+    <td>Status no qual os itens do pedido são [reservados](/pt/tutorial/como-a-reserva-funciona--tutorials_92). O pedido fica em manuseio aguardando notificações de fatura, geralmente vindas do ERP.</td>
   </tr>
   <tr>
-    <td class="tg-zr06"><span style="font-weight:400">Aprovar pagamento</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Marketplace e fluxo completo</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Ação do sistema. O fluxo não para nesse status a não ser que tenha erro.</span></td>
+    <td>Aprovar pagamento</td>
+    <td>-</td>
+    <td>-</td>
+    <td>Marketplace e fluxo completo</td>
+    <td>Ação do sistema. O fluxo não para nesse status a não ser que tenha erro.</td>
   </tr>
   <tr>
-    <td class="tg-zr06"><span style="font-weight:400">Aguardando decisão do seller</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Marketplace e fluxo completo</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">O pedido aguarda a confirmação do seller de que o pedido será cancelado.</span></td>
+    <td>Aguardando decisão do seller</td>
+    <td>-</td>
+    <td>-</td>
+    <td>Marketplace e fluxo completo</td>
+    <td>O pedido aguarda a confirmação do seller de que o pedido será cancelado.</td>
   </tr>
   <tr>
-    <td class="tg-cly1"><span style="font-weight:400">Solicitar cancelamento</span></td>
-    <td class="tg-cly1"><span style="font-weight:400">-</span></td>
-    <td class="tg-cly1"><span style="font-weight:400">-</span></td>
-    <td class="tg-cly1"><span style="font-weight:400">Marketplace e fluxo completo</span></td>
-    <td class="tg-cly1"><span style="font-weight:400">Status que dá início ao fluxo de cancelamento. Há dois tipos de cancelamento possíveis: pela</span> [<span style="font-weight:400;color:#F71963;background-color:transparent">loja</span>](/pt/tutorial/como-cancelar-pedido--tutorials_186) <span style="font-weight:400"> e pelo</span> [<span style="font-weight:400;color:#F71963;background-color:transparent">cliente</span>](/pt/tutorial/cancelamento-de-pedido-por-parte-do-cliente--3wEI6DUNtecooG2Ki4Akqo)<span style="font-weight:400">.</span></td>
+    <td>Solicitar cancelamento</td>
+    <td>-</td>
+    <td>-</td>
+    <td>Marketplace e fluxo completo</td>
+    <td>Status que dá início ao fluxo de cancelamento. Há dois tipos de cancelamento possíveis: pela [loja](/pt/tutorial/como-cancelar-pedido--tutorials_186)  e pelo <a href="https://help.vtex.com/pt/tutorial/cancelamento-de-pedido-por-parte-do-cliente--3wEI6DUNtecooG2Ki4Akqo">cliente.</td>
   </tr>
 </tbody>
 </table>
-
-<br></br>
 
 > ℹ️ Os status assinalados com asteriscos (*) na tabela não permitem modificação ou cancelamento, pois estão sob ação da plataforma.

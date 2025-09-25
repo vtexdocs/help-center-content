@@ -3,8 +3,8 @@ title: 'Frequently asked questions about the new orders module interface'
 id: 1mgSrqT2X3lxIkccEv8bLW
 status: PUBLISHED
 createdAt: 2022-12-08T18:26:26.850Z
-updatedAt: 2023-01-05T18:01:01.354Z
-publishedAt: 2023-01-05T18:01:01.354Z
+updatedAt: 2025-09-25T11:26:48.912Z
+publishedAt: 2025-09-25T11:26:48.912Z
 firstPublishedAt: 2023-01-05T13:24:51.496Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -75,4 +75,6 @@ To resend an email to the client, click the sent email event or the arrow icon <
 
 ![enviar_email_en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/orders/orders-overview/frequently-asked-questions-new-orders-module-interface_6.png)
 
-Click the `Resend Email` button, and it will be immediately sent to the customer, and the following confirmation message should be displayed: _Email was successfully resent to the customer_. 
+Click the `Resend Email` button, and it will be immediately sent to the customer, and the following confirmation message should be displayed: _Email was successfully resent to the customer_.
+
+> ⚠️ Due to safety measures, you can only resend emails for up to 15 minutes after the order has been invoiced.

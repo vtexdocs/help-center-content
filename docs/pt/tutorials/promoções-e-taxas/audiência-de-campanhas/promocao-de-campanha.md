@@ -3,8 +3,8 @@ title: 'Criar promoção de campanha'
 id: 1ChYXhK2AQGuS6wAqS8Ume
 status: PUBLISHED
 createdAt: 2018-12-02T18:57:52.792Z
-updatedAt: 2023-03-31T14:02:10.258Z
-publishedAt: 2023-03-31T14:02:10.258Z
+updatedAt: 2025-09-24T14:00:05.744Z
+publishedAt: 2025-09-24T14:00:05.744Z
 firstPublishedAt: 2018-12-03T16:52:03.595Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -15,135 +15,140 @@ locale: pt
 subcategoryId: 2cI57eZ3ZiWSeaQs26Gwys
 ---
 
-A promoção de campanha é sempre atrelada a uma audiência de campanha, ou seja, um público alvo específico. Esse tipo de promoção engloba todas as possibilidades presentes na [Promoção Regular](/pt/tutorial/promocao-regular--tutorials_327) e algumas opções a mais, que são:
+A **Promoção de Campanha** está sempre vinculada a uma **audiência de campanha**, ou seja, um público-alvo específico.
 
-- Público alvo específico
-- Frete grátis para todos os fretes disponíveis
-- Tabela de preços promocionais
-- Brinde entregue por seller
+Esse tipo de promoção inclui todas as possibilidades da Promoção Regular e oferece recursos adicionais, como:
 
-Antes de criar uma promoção de campanha, você precisa criar uma audiência de campanha para definir o público alvo da sua promoção. Assim, você seleciona segmentos de clientes elegíveis na promoção, que funcionam como gatilho, a partir de critérios de sua escolha.
+* Público-alvo específico
 
-Exemplo: se você configurar uma [audiência de campanha](/pt/tutorial/criar-audiencia-de-campanhas--6cnuDZJzIkIeocewAQQK4K) cujo público alvo é de clientes que colocam o produto A no carrinho, na promoção de campanha você pode configurar que esse público vai receber um desconto sobre o produto B.
+* Frete grátis para todos os fretes disponíveis
 
-> ℹ️ Audiências de campanha e suas promoções são válidas apenas para a conta principal da loja. Contas de sellers não apresentam essa opção. Caso sejam criadas em uma conta de sellers, a audiência de campanha ou a promoção de campanha não serão ativadas.
+* Tabela de preços promocionais
 
-Uma vez definida a [audiência de campanha](/pt/tutorial/criar-audiencia-de-campanhas--6cnuDZJzIkIeocewAQQK4K), acesse o Admin e siga os passos abaixo para criar uma promoção de campanha.
+* Brinde entregue por *seller*
 
-1. No Admin VTEX, acesse *Promoções > Promoções*, ou digite *Promoções* na barra de busca no topo da página.
-2. Clique no botão `Criar Promoção`.
-3. Clique na opção `Promoção De Campanha`.
-4. Preencha os [campos da promoção de campanha](#campos-da-promocao-de-campanha).
-5. Clique em `Salvar`.
+Antes de criar uma promoção de campanha, é necessário criar a [audiência de campanha](/pt/tutorial/criar-audiencia-de-campanhas--6cnuDZJzIkIeocewAQQK4K) para definir o público que será impactado. Com isso, é possível selecionar segmentos de clientes elegíveis e configurar os critérios que servirão como gatilho da promoção.
 
-## Campos da promoção de campanha
+**Exemplo:** Se você criar uma audiência de campanha cujo público-alvo seja de clientes que adicionam o produto A ao carrinho, poderá configurar a promoção de campanha para que esse público receba desconto no produto B.
 
-O formulário de criação de uma promoção de campanha é dividido nas seções:
+> ❗ Audiências de campanha e suas promoções são válidas apenas para a conta principal da loja. As contas de sellers não oferecem essa funcionalidade. Caso sejam criadas em uma conta de seller, a audiência e a promoção de campanha não serão ativadas.
 
-1. [Quais os dados gerais desta promoção?](#1-quais-sao-os-dados-gerais-desta-promocao)
-  - [Restringir esta promoção a produtos dos sellers](#restringir-esta-promoção-a-produtos-dos-sellers)
-  - [Política Comercial](#politica-comercial)
-2. [Em quais itens esta promoção será aplicada?](#2-em-quais-itens-esta-promocao-sera-aplicada)
-3. [Restrições e limitações de uso](#3-restricoes-e-limitacoes-de-uso)
+Para criar a promoção de campanha, siga os passos abaixo:
 
-Veja abaixo a descrição de todos os campos que você precisa preencher para criar uma promoção de campanha, correspondentes a cada seção.
+* [Criar a promoção](#criar-a-promocao)  
+* [Selecionar audiência da campanha](#selecionar-audiencia-da-campanha)  
+* [Definir itens para ativação da promoção](#definir-itens-para-ativacao-da-promocao)  
+* [Conferir as condições da promoção](#conferir-as-condicoes-da-promocao)  
+* [Configurar restrições para o uso da promoção](#configurar-restricoes-para-o-uso-da-promocao)  * [Destacar a promoção na página de produto](#destacar-a-promocao-na-pagina-de-produto)
 
-### 1. Quais são os dados gerais desta promoção?
+## Criar a promoção
 
-- **Nome:** nome da promoção.
-- **Status:** ativa ou desativa a promoção.
-- **Descrição:** descrição interna da promoção. Este campo pode ser utilizado para comunicação interna na sua loja, a fim de identificar melhor a promoção. Por exemplo, deixar claro que a promoção é devida à alguma audiência de campanha ou queima de estoque, por exemplo.
-- **Validade:** data e horário de início e de fim da promoção. Você pode configurar uma data e horário de início futuros para agendar a promoção, se desejar. Nesse caso, a promoção terá o status **Agendada** até a data e o horário determinados. Enquanto a promoção estiver válida, ela terá o status **Ativa**. Ao término do período definido pela data de fim da promoção, o status será alterado para **Inativo** automaticamente.
-- **Usar configurações de recorrência:** habilitar essa opção permite configurar a recorrência da sua promoção de campanha de acordo com as opções abaixo.
-  - **Dia da semana:**
-    - **Todos os dias da semana:** ao selecionar esta opção, a promoção será válida em todos os dias da semana.
-    - **Dias específicos da semana:** ao selecionar esta opção, você pode escolher os dias da semana em que a promoção será válida.
-  - **Hora do dia:**
-    - **O dia todo:** ao selecionar esta opção, a promoção será válida durante o dia inteiro.
-    - **Horários específicos:** ao selecionar esta opção, você pode escolher a hora de início e a hora de fim do período em que a promoção será válida.
-- **Audiência de campanhas:** permite selecionar as audiências de campanhas que terão acesso a esta promoção. Para mais informações, leia o artigo [Audiência de campanhas](/pt/tutorial/como-criar-campanhas).
-- **Qual o tipo e valor do desconto?:** seleção que define o tipo e valor do desconto que será aplicado na promoção. Veja as opções de desconto a seguir:
-  - **Nominal**: desconto que será concedido ao total do carrinho.
-  - **Frete nominal**: desconto que será concedido ao valor do frete.
-  - **Percentual**: percentual de desconto que será concedido ao valor do produto.
-  - **Preço Máximo por Item**: o preço máximo para cada item da compra será o preço configurado acima.
-  - **Frete percentual**: percentual de desconto que será concedido ao valor do frete. 
-  - **Frete máximo**: valor máximo que o frete poderá assumir. 
-  - **Frete grátis**: desconto total sobre o valor do frete.
-  - **Brinde**: desconto total sobre o valor do produto definido como brinde. Você pode selecionar um ou mais SKUs como brinde ou mais de uma unidade do mesmo SKU. Para definir mais de um brinde, selecione a opção **Ativar multiplicador de brindes** e defina a quantidade desejada. Saiba mais sobre essa opção neste [artigo](/pt/tutorial/o-que-significa-ativar-o-multiplicador-de-brinde-em-uma-promocao--1gydgkmjEWcoo2CskUwuYK#).
+Após criar a audiência de campanha, siga os passos abaixo:
 
-  > ℹ️ O produto **Brinde** também precisa ter um preço cadastrado, mesmo sendo dado de graça ao cliente.
+1. No Admin VTEX, acesse **Promoções *\>* Promoções**, ou digite **Promoções** na barra de busca no topo da página.  
+2. Clique em `Criar promoção`.  
+3. Clique em `Promoção de Campanha`.  
+4. Preencha os campos da promoção, conforme descrito na tabela abaixo. Campos com asterisco são de preenchimento obrigatório.  
+5. Clique em `Salvar.`
 
-  - **Desconto nominal baseado em fórmula**: desconto é calculado com a soma dos preços de produtos (total), com o frete (freight) e com o percentual de desconto desejado. É importante destacar que o frete implementado na fórmula será o menor disponível para o pedido, independente da seleção do cliente. O separador decimal deve ser sempre o ponto. Exemplo: o desconto será de 30% do valor do produto + valor do frete. Logo, a fórmula deve ser preenchida da seguinte maneira: `((total + freight) * 0.3)`.
-  - **Valor fidelidade nominal**: crédito que será adicionado no programa de fidelidade da loja. 
-  - **Valor fidelidade percentual**: crédito percentual que será adicionado no programa de fidelidade da loja. 
-  - **Tabela de preços promocionais**: permite selecionar uma tabela de preços para ser utilizada como promoção. O preço promocional de cada SKU será o preço correspondente na tabela de preços selecionada. Você pode configurar no máximo cinco promoções de campanha simultâneas utilizando tabelas de preços promocionais na sua loja. O preço da tabela de preços será aplicado apenas se seu valor for menor que o preço configurado na política comercial utilizada na promoção. Além disso, as promoções de tabelas de preço concorrem com todas as outras promoções relativas ao preço, ou seja, caso exista mais de uma promoção de preço ativa e aplicável aos produtos em questão, o menor preço será aplicado. Saiba mais sobre concorrência de promoções no nosso artigo [Como funciona a concorrência de promoções](/pt/tutorial/entendendo-a-concorrencia-de-promocoes--tutorials_2270).
+| Campo | Descrição |
+| ----- | --------- |
+| **Nome** | Escolha um nome claro e objetivo para a promoção (até 150 caracteres). |
+| **Status** | Defina se a promoção estará **Ativa** ou **Inativa**. Ative como <i class="fas fa-toggle-on" aria-hidden="true"></i> para aplicar a promoção conforme as datas e horários configurados. Desative como <i class="fas fa-toggle-off" aria-hidden="true"></i> para pausá-la, mesmo que esteja dentro do período definido. |
+| **Descrição** | Use este campo para registrar o objetivo da promoção, como o tipo de campanha ou sazonalidade. O limite é de 10.000 caracteres. |
+| **Data de início e horário de início** | Selecione a data e o horário exatos para ativar a promoção automaticamente. |
+| **Data e horário de término** | Defina a data e o horário exatos para encerrar a promoção. Após esse momento, a campanha será desativada automaticamente. A data deve ser posterior à data e horário de início. |
+| **Usar configurações de recorrência** | Marque esta opção para repetir automaticamente a promoção em dias e horários específicos. Isso permite configurar ações sazonais para dias e horários definidos. Após ativar, configure os dias e horários da recorrência de acordo com os parâmetros da campanha. |
 
-Se você optar por um tipo de desconto referente ao frete (Frete percentual, Frete nominal, Frete máximo ou Frete grátis) ao criar a promoção de campanha, você também terá acesso às configurações abaixo.
+### Definir os sellers
 
-- **Tipo de frete:** o desconto será concedido caso o tipo de frete escolhido pelo cliente seja o mesmo que o cadastrado na promoção. Esse critério somente será considerado se o tipo da promoção for relativo ao valor de frete, ou seja, somente se for um dos seguintes tipos: Frete percentual, Frete nominal, Frete máximo ou Frete grátis.
-- **Aplicar o desconto somente no frete mais barato:** caso você habilite esta opção, o desconto do frete será aplicado somente no menor valor estimado para o frete. Esta opção já aparece habilitada por padrão, mas você pode desabilitá-la se desejar aplicar o desconto a outros tipos de frete. Leia o artigo [Configurar promoções de frete](/pt/tutorial/configurar-promocoes-de-frete--6Lo5BR61KMiUFAAHGCdgfW) para mais informações. Esse critério somente será considerado se o efeito da promoção for relativo ao valor de frete, ou seja, somente se for um dos seguintes efeitos: Frete percentual, Frete nominal, Frete máximo ou Frete grátis.
-- **Aplicar o desconto somente quando uma das transportadoras acima for selecionada pelo cliente:** a promoção será aplicada somente após o cliente efetivamente selecionar a forma de entrega em questão. Enquanto não for selecionada, ela ficará sem o desconto. Esse critério somente será considerado se o efeito da promoção for relativo ao valor de frete, ou seja, somente se for um dos seguintes efeitos: Frete percentual, Frete nominal, Frete máximo ou Frete grátis.
-- **Aplicar para todos os fretes disponíveis:** caso você habilite esta opção, o desconto será aplicado a todas as formas de entregas disponíveis.
+Na seção **Sellers**, defina se a promoção será aplicada a todos os sellers ou apenas a sellers específicos. As opções são:
 
-- **Destaque nos produtos**: permite definir se a sua loja vai exibir uma faixa de destaque informando sobre a promoção. Veja as opções a seguir:
-  - **Sem destaque:** quando selecionada, esta opção não exibe a promoção na vitrine nem na página dos produtos contemplados pela promoção.
-  - **Com destaque:** quando selecionada, esta opção habilita a inserção de uma faixa de destaque com o nome da promoção na vitrine e na página dos produtos contemplados. Para que a faixa seja inserida corretamente, é necessário utilizar o controle de exibição de promoção no template da loja: `<vtex.cmc:discountHightLight/>`. Para mais informações, acesse o nosso artigo [Controles de template](/pt/tutorial/lista-de-controles-para-templates--tutorials_563).
+* **Todos:** aplica a promoção a todos os *sellers* cadastrados. Deixe o campo de seleção em branco.  
+* **Iguais a:** aplica a promoção apenas aos *sellers* informados. Insira os identificadores no campo correspondente.  
+* **Diferentes de**: aplica a promoção a todos os *sellers*, exceto aos selecionados.
 
-#### Restringir esta promoção a produtos dos sellers
+### Selecionar políticas comerciais
 
-Nesta seção, é possível definir para quais sellers a promoção será aplicada. Você pode determinar quais sellers serão incluídos ou excluídos do desconto. 
+Na seção **Política comercial**, defina as políticas comerciais às quais a promoção será aplicada:
 
-- **Iguais a:** selecione os nomes dos sellers desejados para inclui-los.
-- **Diferentes de:** selecione os nomes dos sellers desejados para exclui-los.
+* **Todas**: aplica a promoção a todas as políticas comerciais cadastradas.
 
-Para que a promoção seja válida para todos os sellers, deixe a seleção vazia.
+* **Iguais a**: aplica a promoção apenas às políticas selecionadas.
 
-> ⚠️ **Atenção:** não é possível selecionar diretamente um seller white label. Para incluir um seller white na promoção, existem duas opções:<ol>1. Restringir os sellers à loja principal. Essa restrição adiciona todos os sellers white label da sua loja à promoção.</ol><ol>2. Deixar a seleção vazia, incluindo todos os sellers. Aqui, todos os tipos de sellers - white label ou não - serão adicionados à promoção.</ol>
+* **Diferentes de**: aplica a promoção a todas as políticas, exceto as selecionadas.
 
-#### Política Comercial
+## Selecionar audiência da campanha
 
-Esta seção estabelece as políticas comerciais válidas para a promoção. Você pode incluir ou excluir políticas comerciais do desconto.
+Defina quais audiências terão acesso a esta promoção. A promoção será aplicada somente aos usuários que atenderem às condições configuradas nas audiências selecionadas.
 
-- **Iguais a:** selecione as políticas comerciais desejadas inclui-las.
-- **Diferentes de:** selecione as políticas comerciais desejadas exclui-las.
-- **Fornecido por mim (Minha loja):** seleção de políticas comerciais com produtos da sua loja. Pode ser selecionada mais de uma política comercial.
-- **Entregue por mim (Lojas de terceiros):** seleção de políticas comerciais em que seus produtos estão de lojas de terceiros. Pode ser selecionada mais de uma política comercial.
+> ℹ️ Para criar novas audiências ou entender como configurá-las, acesse o artigo [Audiência de campanha](/pt/tutorial/como-criar-campanhas).
 
-Para que a promoção seja válida para todas as políticas comerciais, deixe a seleção vazia.
+## Definir itens para ativação da promoção
 
-### 2. Em quais itens esta promoção será aplicada?
+Na seção **Na compra de**, configure os itens que funcionarão como gatilho para ativar a promoção de campanha, de acordo com a audiência definida anteriormente.
 
-Nesta seção, você precisa escolher se a promoção será aplicada a todos os produtos cadastrados na sua loja ou apenas a produtos específicos, conforme ilustrado abaixo.
+* **Aplicar a todos os itens da loja**: a promoção será ativada quando qualquer item da loja for adicionado ao carrinho pelo público-alvo da audiência.  
+* **Aplicar aos itens que atendem a todas as restrições a seguir**: a promoção será ativada apenas quando forem adicionados ao carrinho itens que atendam a todas as condições configuradas.
 
-![promocoes-restricao-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promo%C3%A7%C3%B5es-e-taxas/audi%C3%AAncia-de-campanhas/promocao-de-campanha_1.png)
+As restrições podem ser configuradas com base em:
 
-Caso deseje aplicar a promoção a todo o seu catálogo, selecione a opção **Aplicar a todos os produtos**.
+* **SKUs**: itens específicos identificados por SKU.  
+  * **Iguais a**: aplica apenas aos SKUs listados.  
+  * **Diferentes de**: aplica a todos os SKUs, exceto os listados.  
+* **Produtos**: aplica a promoção com base no produto, independentemente do SKU.  
+  * **Iguais a**: aplica apenas aos produtos selecionados.  
+  * **Diferentes de**: aplica a todos os produtos, exceto os selecionados.  
+* **Coleções**: aplica a promoção com base nas coleções cadastradas.  
+  * **Iguais a**: aplica apenas às coleções selecionadas.  
+  * **Diferentes de**: aplica a todas as coleções, exceto as selecionadas.  
+* **Categorias**: aplica a promoção com base nas categorias do catálogo.  
+  * **Iguais a**: aplica apenas às categorias selecionadas.  
+  * **Diferentes de**: aplica a todas as categorias, exceto as selecionadas.  
+* **Marcas**: aplica a promoção com base nas marcas dos produtos.  
+  * **Iguais a**: aplica apenas às marcas selecionadas.  
+  * **Diferentes de**: aplica a todas as marcas, exceto as selecionadas.
 
-Para limitar a sua promoção a produtos específicos, selecione **Aplicar aos seguintes produtos **e, em seguida, preencha os critérios de seleção referentes a **Categorias**, **Marcas**, **Coleções **, **Produtos** e **SKUs**.
+O cliente ganha
 
-Você pode incluir ou excluir **Categorias**, **Marcas**, **Coleções**, **Produtos** e **SKUs** da promoção, utilizando os critérios **Iguais a** ou **Diferentes de**.
+Selecione o benefício a ser aplicado quando as condições da promoção de campanha forem atendidas. As opções incluem:
 
-Veja um exemplo de preenchimento abaixo. Nesse caso, participam da promoção todos os produtos da categoria **Home Appliances** cuja marca é **Brastemp**, com exceção do produto **Refrigerator 100**.
+* **Desconto**  
+  * **Nominal**: concede um valor fixo de desconto sobre os itens ou pedido.  
+  * **Percentual**: concede um desconto em porcentagem sobre o valor dos itens ou pedido.  
+  * **Nominal fórmula**: calcula o desconto usando uma fórmula personalizada, subtraindo um valor absoluto definido pela lógica da fórmula.  
+* **Frete**  
+  * **Nominal**: aplica um desconto de valor fixo no frete.  
+  * **Percentual**: aplica um desconto percentual sobre o valor do frete.  
+  * **Grátis**: remove o custo do frete.  
+  * **Máximo**: define um valor máximo que pode ser cobrado de frete. Qualquer valor que ultrapasse o máximo será descontado.  
+* **Preço máximo**  
+  * Define um valor limite que será aplicado como teto para o preço dos produtos elegíveis. Os itens não poderão ultrapassar esse valor após a aplicação da promoção.  
+* **Brinde**  
+  * **SKUs**: permite selecionar os SKUs (por nome ou ID) que serão oferecidos como brinde.  
+  * **Quantidade de brindes**: define a quantidade de brindes que poderão ser selecionados, podendo ser por carrinho ou por item elegível.  
+* **Valor de fidelidade**  
+  * **Nominal**: atribui uma quantidade fixa de pontos de fidelidade.  
+  * **Percentual**: calcula os pontos com base em uma porcentagem do valor do pedido.  
+* **Tabela de preços promocionais**  
+  * Aplica aos SKUs elegíveis os valores definidos em uma tabela de preços promocionais selecionada.
 
-![exemplo-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promo%C3%A7%C3%B5es-e-taxas/audi%C3%AAncia-de-campanhas/promocao-de-campanha_2.png)
+## Conferir as condições da promoção
 
-Nos campos **Produtos** e **SKUs**, existe a opção de fazer o upload de um arquivo **.txt** com um ID de produto ou de SKU por linha, em vez de selecionar um produto ou um SKU de cada vez. Para isso, você precisa clicar em **Escolher arquivo** e selecionar o arquivo **.txt** desejado.
+As condições de aplicação da promoção de campanha são determinadas pelas audiências selecionadas anteriormente. A promoção será exibida e aplicada apenas para usuários que atenderem aos critérios configurados no público-alvo da campanha.
 
-> ⚠️ Se você selecionar **Aplicar aos seguintes produtos** e não preencher nenhum dos critérios de seleção, a promoção não será cadastrada e a mensagem **Defina os produtos elegíveis ou aplique a todos os produtos** será exibida. Nesse caso, você deve retornar e preencher os critérios de seleção ou optar por **Aplicar a todos os produtos**.
+Para consultar ou editar as condições da audiência, clique em `Ver audiência.`
 
-Para serem válidos na promoção, os produtos precisam atender a todas as condições cadastradas nesta seção.
+## Configurar restrições para o uso da promoção
 
-### 3. Restrições e limitações de uso
+Defina o número máximo de vezes que a promoção pode ser aplicada na loja ou por cliente.
 
-- **Quantas vezes essa promoção será aplicada em sua loja:** limita a quantidade de vezes em que a promoção será aplicada. Quando você desmarca a opção **ilimitado**, você precisa incluir a quantidade limite desejada.
-- **Quantas vezes essa promoção será aplicada em sua loja por cliente:** limita a quantidade de vezes em que cada cliente poderá utilizar a promoção. Quando você desmarca a opção **ilimitado**, você precisa incluir a quantidade limite desejada.
-- **Definir quantidade máxima de itens afetados por carrinho:** limita a quantos itens do carrinho a promoção pode ser aplicada. Quando você desmarca a opção **ilimitado**, você precisa incluir a quantidade limite desejada. Exemplo: se você configurar a quantidade limite de 5 itens, mesmo que o seu cliente coloque 10 itens elegíveis para a promoção no carrinho, apenas 5 itens serão beneficiados.
-- **Permitir acumular promoções:** permite que mais de uma promoção com o mesmo tipo de desconto seja concedida ao mesmo tempo.
-- **Permitir acumular com preços manuais:** permite que a promoção seja aplicada a produtos cujos preços foram manualmente inseridos pelo televendas. Para utilizar esta opção, você precisa permitir a [inserção de preços manuais](/pt/tutorial/funcionalidades-de-televendas--UqhiccIRIK2KD0OqkzJaS#inserir-preco-manual) na sua loja.
+* **Limitar o uso da promoção na loja**: ative esta opção para definir um número máximo de utilizações da promoção em toda a loja.  
+* **Limitar o uso da promoção por cliente**: ative esta opção para restringir quantas vezes cada cliente pode aproveitar a promoção.
 
-#### **SAIBA MAIS**
+## Destacar a promoção na página de detalhes do produto
 
- * [Como criar Promoções](/pt/tutorial/como-criar-promocoes)
- * [Como criar Audiências de campanhas](/pt/tutorial/como-criar-campanhas)
+Defina nesta seção o destaque visual da promoção de campanha nos produtos exibidos na loja.
 
+* **Destacar promoção nos produtos:**  ative esta opção para exibir um selo promocional nos produtos afetados pela promoção. Para que o destaque funcione corretamente, é necessário[configurar a exibição no módulo CMS da loja](/pt/tutorial/configurando-promocao-com-destaque-flag--tutorials_2295).  
+* **Informações adicionais:** clique em `Criar` para adicionar campos personalizados com nome e valor, que podem ser usados para customizações na loja.

@@ -3,8 +3,8 @@ title: 'Setting up payments with easypay marketplace'
 id: 3YllWiITcPEOpteuToEdO7
 status: PUBLISHED
 createdAt: 2023-09-19T12:04:31.528Z
-updatedAt: 2025-02-20T21:56:26.715Z
-publishedAt: 2025-02-20T21:56:26.715Z
+updatedAt: 2025-09-24T19:07:24.105Z
+publishedAt: 2025-09-24T19:07:24.105Z
 firstPublishedAt: 2023-09-19T12:05:03.795Z
 contentType: tutorial
 productTeam: Financial
@@ -220,10 +220,11 @@ To configure the easypay affiliation, follow the steps below:
 1. In the VTEX Admin, go to __Store Settings > Payment > Settings__, or type __Settings__ in the search bar at the top of the page.
 2. In the __Gateway Affiliations__ tab, click the `+` button.
 3. Click the __easypay__ connector.
-4. Complete the __Application Key__ and __Application Token__ fields with your easypay account information.
-5. In __Payment Settlement__, select the __Use Payment Behavior Recommended by Payment Processor__ option.
-6. In __Enable payout split and sending payment recipients?__, select __Yes__.
-7. Click `Save`.
+4. Complete the __App Key__ and __App Token__ fields with your easypay account information.
+5. If you wish to modify the identification name to be displayed for the easypay provider on the VTEX Admin screen, enter the information in the __Name__ field in __Basic Information__.
+6. In __Payment Control__, select whether you want to activate the provider in a test environment by clicking __Enable test mode__.
+7. If you want to use [payment split](/en/tutorial/split-payment--6k5JidhYRUxileNolY2VLx) in your store, select the option __Enable payout split and send payment recipients__ and indicate the __Accountable for payment processing charges__ and __Accountable for chargebacks__ (marketplace, sellers or marketplaces and sellers).
+8. Click `Save`.
 
 To configure the payment methods that easypay will process, read the [Configuring payment conditions](/en/tutorial/how-to-configure-payment-conditions) article.
 

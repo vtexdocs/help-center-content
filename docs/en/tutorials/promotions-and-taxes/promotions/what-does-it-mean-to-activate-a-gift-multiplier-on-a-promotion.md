@@ -1,27 +1,53 @@
 ---
-title: 'What does it mean to activate a gift multiplier on a promotion?'
+title: 'How the gift multiplier works in promotions'
 id: 1gydgkmjEWcoo2CskUwuYK
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:34.467Z
-updatedAt: 2020-12-22T22:46:17.767Z
-publishedAt: 2020-12-22T22:46:17.767Z
+updatedAt: 2025-09-24T11:13:38.983Z
+publishedAt: 2025-09-24T11:13:38.983Z
 firstPublishedAt: 2019-01-24T22:13:50.154Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
-author: 6dI9ZPE1e80iq8IuIsww2s
+author: 2AhArvGNSPKwUAd8GOz0iU
 slugEN: what-does-it-mean-to-activate-a-gift-multiplier-on-a-promotion
 legacySlug: what-does -it-mean-to-activate-a-gift-multiplier-on-a-promotion
 locale: en
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
-When configuring a **Buy one and Get one** promotion, it’s possible to **Activate a gift multiplier**. As such, the promotion then has two different scenarios to go by:
+When configuring a Buy One Get One or Regular promotion, you can use the gift multiplier option, which changes the behavior of the maximum number of gifts the customer can select in the cart based on the number of eligible SKUs.
 
-**First scenario** _Active gifts multiplier_: This new functionality may offer the same number of gifts referring to the number of products purchased. In other words, when choosing an SKU three times, 3 units of the gist are offered.
+## How to configure the gift multiplier in the Admin
+1. In the VTEX Admin, go to Promotions > Promotions, or type Promotions in the search bar at the top of the page.
+2. Click `Create promotion`.
+3. Choose the promotion type:
+    - Regular
+    - Buy One Get One
+4. In the `Add benefit` menu under Customer gets—depending on the promotion you want—select Gift.
+5. Select the SKUs that are eligible for the gift.
+6. In the **Maximum number of gifts** field, set how many gifts the customer can select.
+7. In the selector next to it, choose **Per cart** or **By eligible item**.
+8. Complete the remaining promotion fields and click Create.
 
-**Second scenario** _Inactive gift multiplier_: Keeps the prior to launch already existing parameter of this functionality, meaning just one gift per cart.
+Below, you'll find more details about how the multiplier works in both scenarios and how to configure it in VTEX Admin.
 
-For both scenarios it is necessary to fill out the maximum selectable quantity. With the **active** gift multiplier, choose the **maximum quantity** of gifts for the condition. For the **inactive** gift multiplier, the quantity is **always 1**.
+## Gift multiplier behavior
+In the Gift drawer under `Add benefit`, there's a selector that determines how the maximum number of gifts will be applied. There are two options:
 
+### Per cart
+The maximum number of gifts is applied only once, regardless of the number of eligible SKUs in the cart.
 
-![ativar-multiplicador-brinde en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/what-does-it-mean-to-activate-a-gift-multiplier-on-a-promotion_1.png)
+- Example:
+
+    - Maximum quantity: `2`
+    - Eligible SKUs in the cart: `3`
+    - Available gifts: `2`
+
+### Per eligible item
+The maximum number of gifts is multiplied by the number of eligible SKUs to define the total number of gifts available.
+
+- Example:
+
+    - Maximum quantity: `2`
+    - Eligible SKUs in the cart: `3`
+    - Available gifts: `6` (2 × 3)

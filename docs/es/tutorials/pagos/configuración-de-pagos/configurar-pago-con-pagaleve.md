@@ -3,8 +3,8 @@ title: 'Configurar pago con Pagaleve'
 id: 3ro5eb99noG7T4QpoQaJI5
 status: PUBLISHED
 createdAt: 2022-06-22T16:26:18.290Z
-updatedAt: 2024-01-23T19:14:42.547Z
-publishedAt: 2024-01-23T19:14:42.547Z
+updatedAt: 2025-09-24T15:21:19.022Z
+publishedAt: 2025-09-24T15:21:19.022Z
 firstPublishedAt: 2022-06-22T16:33:24.266Z
 contentType: tutorial
 productTeam: Financial

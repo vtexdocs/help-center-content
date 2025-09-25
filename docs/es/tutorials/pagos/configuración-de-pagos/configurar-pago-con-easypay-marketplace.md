@@ -3,8 +3,8 @@ title: 'Configurar pago con easypay marketplace'
 id: 3YllWiITcPEOpteuToEdO7
 status: PUBLISHED
 createdAt: 2023-09-19T12:04:31.528Z
-updatedAt: 2025-02-20T21:56:26.715Z
-publishedAt: 2025-02-20T21:56:26.715Z
+updatedAt: 2025-09-24T19:07:24.105Z
+publishedAt: 2025-09-24T19:07:24.105Z
 firstPublishedAt: 2023-09-19T12:05:03.795Z
 contentType: tutorial
 productTeam: Financial
@@ -221,10 +221,11 @@ Para configurar la afiliación easypay, sigue los pasos a continuación:
 1. En el Admin VTEX, accede a __Configuración de la tienda > Pago > Configuración__, o ingresa __Configuración__ en la barra de búsqueda en la parte superior de la página.
 2. En la pestaña __Afiliaciones de Gateway__, haz clic en el botón `+`.
 3. Haz clic en el conector __easypay__.
-4. Rellena los campos __Application Key__ y __Application Token__ con los datos de tu cuenta easypay.
-5. En __Captura automática de pago__, selecciona la opción __Utiliza el comportamiento recomendado por el procesador de pagos__.
-6. En __¿Activar split y enviar receptores?__, selecciona la opción __Sí__.
-7. Haz clic en `Guardar`.
+4. Rellena los campos __Clave de aplicación__ y __Token de aplicación__ con los datos de tu cuenta easypay.
+5. Si desea modificar el nombre de identificación que se mostrará para el proveedor easypay en la pantalla VTEX Admin, ingrese la información en el campo __Nombre__ en __Información general__.
+6. En __Control de pago__, seleccione si desea activar el proveedor en un entorno de prueba haciendo clic en __Activar modo de prueba__.
+7. Si desea utilizar [Split de pagos](/es/tutorial/split-de-pagos--6k5JidhYRUxileNolY2VLx) en su tienda, seleccione la opción __Activar split de cobros y enviar destinatarios de pago__ e indique el __Responsable de cargos de procesamiento de pagos__ y el __Responsable de contracargos__ (marketplace, sellers o marketplace y sellers).
+8. Haz clic en `Guardar`.
 
 Para configurar los medios de pago que easypay procesará, accede a [Configurar condiciones de pago](/es/tutorial/condiciones-de-pago).
 

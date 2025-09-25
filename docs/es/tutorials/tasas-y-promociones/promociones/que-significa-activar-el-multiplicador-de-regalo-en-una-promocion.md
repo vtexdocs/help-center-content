@@ -1,27 +1,54 @@
 ---
-title: '¿Qué significa activar el multiplicador de regalo en una promoción?'
+title: 'Multiplicador de regalos en promociones'
 id: 1gydgkmjEWcoo2CskUwuYK
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:34.467Z
-updatedAt: 2020-12-22T22:46:17.767Z
-publishedAt: 2020-12-22T22:46:17.767Z
+updatedAt: 2025-09-24T11:13:38.983Z
+publishedAt: 2025-09-24T11:13:38.983Z
 firstPublishedAt: 2019-01-24T22:13:50.154Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
-author: 6dI9ZPE1e80iq8IuIsww2s
+author: 2AhArvGNSPKwUAd8GOz0iU
 slugEN: what-does-it-mean-to-activate-a-gift-multiplier-on-a-promotion
 legacySlug: que-significa-activar-el-multiplicador-de-regalo-en-una-promocion
 locale: es
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
-Al configurar una promoción **Comprar y obtener**, es posible **Activar multiplicador de regalo**. Con esto, la promoción pasa a tener dos escenarios diferentes a partir de ahora:
+Al configurar una promoción Compra uno y lleva uno gratis o Regular, puedes agregar el Multiplicador de regalos. Esta opción ajusta automáticamente la cantidad máxima de regalos que el cliente puede seleccionar en el carrito, según la cantidad de SKUs elegibles.
 
-**Primer escenario** _Multiplicador de regalos activado_: La nueva funcionalidad permite que se ofrezca el mismo número de regalos referente al número de productos comprados. Es decir, al escoger 3 veces un SKU, se ofrece 3 unidades del regalo.
+## Configurar en el Admin
+1. En el Admin VTEX, accede a Promociones > Promociones, o ingresa Promociones  en la barra de búsqueda en la parte superior de la página.
+2. Haz clic en `Crear promoción`.
+3. Elige el tipo de promoción:
+    - Regular
+    - Compra uno y lleva uno gratis
+4. En el menú `Configurar beneficio`, selecciona Regalo.
+5. Selecciona los SKUs que activarán el regalo.
+6. En el campo **Cantidad máxima de regalos**, define cuántos regalos podrá seleccionar el cliente.
+7. En el selector contiguo, selecciona Por carrito o **Por ítem elegible**.
+8. Completa los demás campos de la promoción y haz clic en **Guardar**.
 
-**Segundo escenario** _Multiplicador de regalos desactivado_: Mantiene el parámetro que existía antes del lanzamiento de esta funcionalidad, es decir, se ofrece apenas un regalo por carrito.
+Consulta a continuación cómo se aplica el multiplicador en cada escenario y cómo configurarlo en el Admin VTEX.
 
-Para ambos escenarios, se necesita rellenar la cantidad máxima de seleccionable. Con el multiplicador de regalos **activado**, determine la **cantidad máxima** de regalos para la condición. Para el multiplicador de regalos **desactivado**, la cantidad es **siempre 1**.
+## Comportamiento del multiplicador de regalos
+En el panel lateral `Configurar beneficio > Regalo`, hay un selector que define cómo se aplicará la cantidad máxima de regalos que ofrece dos opciones:
 
+### Por carrito
+La cantidad máxima de regalos se aplica una sola vez, independientemente de la cantidad de SKUs elegibles en el carrito.
 
-![ativar-multiplicador-brinde es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/tasas-y-promociones/promociones/que-significa-activar-el-multiplicador-de-regalo-en-una-promocion_1.png)
+- Ejemplo:
+
+    - Cantidad máxima de regalos: `2`
+    - SKUs elegibles en el carrito: `3`
+    - Regalos disponibles: `2`
+
+### Por ítem elegible 
+La cantidad máxima de regalos es multiplicada por el número de SKUs elegibles para definir la cantidad total de regalos disponibles.
+
+- Ejemplo:
+
+    - Cantidad máxima de regalos: `2`
+    - SKUs elegibles en el carrito: `3`
+    - Regalos disponibles: `6` (2 × 3)
+

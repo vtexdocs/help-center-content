@@ -3,8 +3,8 @@ title: 'Configurar pago con easypay'
 id: 3xJQqjMIn0ARDI1HcwK88J
 status: PUBLISHED
 createdAt: 2023-09-18T16:48:21.184Z
-updatedAt: 2025-02-20T21:51:18.025Z
-publishedAt: 2025-02-20T21:51:18.025Z
+updatedAt: 2025-09-24T19:00:57.899Z
+publishedAt: 2025-09-24T19:00:57.899Z
 firstPublishedAt: 2023-09-18T18:53:57.235Z
 contentType: tutorial
 productTeam: Financial
@@ -193,10 +193,11 @@ Para configurar la afiliación easypay, sigue los pasos a continuación:
 1. En el Admin VTEX, accede a __Configuración de la tienda > Pago > Proveedores__, o escribe __Proveedores__ en la barra de búsqueda en la parte superior de la página.
 2. En la pantalla de proveedores, haga clic en el botón `Nuevo proveedor`.
 3. Escriba el nombre __easypay__ en la barra de búsqueda y haga clic en el nombre del proveedor.
-4. Rellena los campos __Application Key__ y __Application Token__ con los datos de tu cuenta easypay.
-5. En __Captura automática de pago__, selecciona la opción __Utiliza el comportamiento recomendado por el procesador de pagos__.
-6. En __¿Activar split y enviar receptores?__, selecciona la opción __Sí__.
-7. Haz clic en `Guardar`.
+4. Rellena los campos __Clave de aplicación__ y __Token de aplicación__ con los datos de tu cuenta easypay.
+5. Si desea modificar el nombre de identificación que se mostrará para el proveedor easypay en la pantalla VTEX Admin, ingrese la información en el campo __Nombre__ en __Información general__.
+6. En __Control de pago__, seleccione si desea activar el proveedor en un entorno de prueba haciendo clic en __Activar modo de prueba__.
+7. Si desea utilizar [Split de pagos](/es/tutorial/split-de-pagos--6k5JidhYRUxileNolY2VLx) en su tienda, seleccione la opción __Activar split de cobros y enviar destinatarios de pago__ e indique el __Responsable de cargos de procesamiento de pagos__ y el __Responsable de contracargos__ (marketplace, sellers o marketplace y sellers).
+8. Haz clic en `Guardar`.
 
 ## Configurar el pago con Apple Pay en easypay (opcional) 
 

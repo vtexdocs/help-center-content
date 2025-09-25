@@ -3,8 +3,8 @@ title: 'Configurar pago con Conekta'
 id: 7kiAD3SlnABF75xLSL3eSA
 status: PUBLISHED
 createdAt: 2022-08-11T12:41:42.110Z
-updatedAt: 2024-09-13T16:42:16.752Z
-publishedAt: 2024-09-13T16:42:16.752Z
+updatedAt: 2025-09-24T15:30:34.415Z
+publishedAt: 2025-09-24T15:30:34.415Z
 firstPublishedAt: 2022-08-11T12:54:43.579Z
 contentType: tutorial
 productTeam: Financial
@@ -28,7 +28,7 @@ Para configurar Conekta, siga los pasos a continuación:
 7. En __Habilitar meses sin intereses (MSI)__, seleccione si desea activar la opción para permitir a los clientes dividir las compras en pagos mensuales (sin intereses).
 8. En __Indicar número de MSI (3, 6, 9, 12)__, ingrese la cantidad de meses en los que los clientes pueden dividir el pago (sin intereses).
 9. En __Indicar la duración del checkout en días (1 - 30)__, ingrese el número máximo de días para que caduque el pedido (aplicable para pagos vía Efectivo). 
-10. En __Tarjetas__, __Transferencia Bancaria__ y __Efectivo__, selecciona si deseas utilizar estos métodos de pago en tu tienda.
+10. En __Indicar metodos de pago que se habilitaran, separados por coma. ej: cash, transfer, card, bnpl__, ingrese los métodos de pago que deseas utilizar en tu tienda.
 11. Haga clic en `Guardar`.
 
 Para configurar los métodos de pago a procesar por Conekta, acceda al [Configurar Condiciones de Pago](/es/tutorial/condiciones-de-pago--tutorials_455#).
