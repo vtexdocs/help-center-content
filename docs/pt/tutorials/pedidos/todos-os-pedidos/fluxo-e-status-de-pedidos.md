@@ -3,8 +3,8 @@ title: 'Fluxo e status de pedidos'
 id: tutorials_196
 status: PUBLISHED
 createdAt: 2017-04-27T22:14:33.518Z
-updatedAt: 2025-09-25T20:02:32.289Z
-publishedAt: 2025-09-25T20:02:32.289Z
+updatedAt: 2025-09-25T20:33:26.095Z
+publishedAt: 2025-09-25T20:33:26.095Z
 firstPublishedAt: 2017-04-27T23:02:47.616Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -141,249 +141,40 @@ Veja abaixo a tabela com os status de pedido. As informações da tabela estão 
 
 > ⚠️ Observe que os status do fluxo completo do pedido (fluxo visto pelas lojas responsáveis pela venda e entrega dos pedidos) coincidem com os status de marketplace e seller. Alguns status podem ser vistos via API, mas não ficam visíveis no fluxo do pedido visto no Admin no módulo **Todos os pedidos**.
 
-<table>
-<thead>
-  <tr>
-    <th>Status Admin</th>
-    <th>Status API</th>
-    <th>Status Minha conta</th>
-    <th>Visto por</th>
-    <th>Significado</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>-</td>
-    <td>null</td>
-    <td>-</td>
-    <td>Marketplace, seller, fluxo completo e chain</td>
-    <td>Pedidos criados e incompletos. O fluxo ainda pode ser iniciado pelo sistema ou o status do pedido consta como CancellationData, informando que ocorreu uma falha ao tentar completá-lo.</td>
-  </tr>
-  <tr>
-    <td>-</td>
-    <td>order-created*</td>
-    <td>-</td>
-    <td>Marketplace, fluxo completo e chain</td>
-    <td>Pedido criado. O processamento dos dados do pedido é iniciado. Este é o primeiro estágio de um pedido, e significa que o sistema reuniu as informações básicas para processá-lo.</td>
-  </tr>
-  <tr>
-    <td>Pagamento negado</td>
-    <td>-</td>
-    <td>Cancelado</td>
-    <td>Marketplace, fluxo completo e chain</td>
-    <td>O pagamento foi negado.</td>
-  </tr>
-  <tr>
-    <td>Pedido aceito</td>
-    <td>order-accepted</td>
-    <td>-</td>
-    <td>Seller</td>
-    <td>Seller recebe o pedido.</td>
-  </tr>
-  <tr>
-    <td>Cancelando</td>
-    <td>canceling*</td>
-    <td>-</td>
-    <td>Marketplace, seller, fluxo completo e chain</td>
-    <td>Momento em que o pedido vai para o cancelamento. Nesse estágio, o módulo de [Pagamentos](/pt/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG) é notificado sobre o cancelamento. O pedido ficará nesse status até que o módulo de Pagamentos conclua o processo de cancelamento.</td>
-  </tr>
-  <tr>
-    <td>-</td>
-    <td>on-order-completed</td>
-    <td>-</td>
-    <td>Marketplace, fluxo completo e chain</td>
-    <td>A compra foi processada no checkout. Os dados do pedido estão completos.</td>
-  </tr>
-  <tr>
-    <td>-</td>
-    <td>on-order-completed-ffm</td>
-    <td>-</td>
-    <td>Seller</td>
-    <td>A compra foi processada no checkout. Os dados do pedido estão completos.</td>
-  </tr>
-  <tr>
-    <td>Pagamento aprovado</td>
-    <td>payment-approved</td>
-    <td>Pagamento aprovado</td>
-    <td>Marketplace, fluxo completo e chain</td>
-    <td>O pagamento do pedido foi aprovado.</td>
-  </tr>
-  <tr>
-    <td>Pagamento pendente</td>
-    <td>payment-pending</td>
-    <td>Aprovando pagamento</td>
-    <td>Marketplace, fluxo completo e chain</td>
-    <td>Status de espera pela confirmação do pagamento, no módulo de [Pagamentos](/pt/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG). Independentemente de o pagamento ter sido ou não confirmado, esse passo é obrigatório.</td>
-  </tr>
-  <tr>
-    <td>Cancelamento solicitado</td>
-    <td>request-cancel</td>
-    <td>-</td>
-    <td>Marketplace e fluxo completo</td>
-    <td class="tg-9p9e">[Cliente solicita o cancelamento do pedido](/pt/tutorial/cancelamento-de-pedido-por-parte-do-cliente--3wEI6DUNtecooG2Ki4Akqo).</td>
-  </tr>
-  <tr>
-    <td>Cancelado</td>
-    <td>canceled</td>
-    <td>Cancelado</td>
-    <td>Marketplace, seller, chain e fluxo completo</td>
-    <td>O pedido é finalizado sem sucesso. A transação de pagamento no módulo de [Pagamentos](/pt/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG) é cancelada neste momento.</td>
-  </tr>
-  <tr>
-    <td>Janela para mudança de pagamento</td>
-    <td>window-to-change-payment</td>\
-    <td>-</td>
-    <td>Marketplace</td>
-    <td>Período de tempo para mudança de pagamento.</td>
-  </tr>
-  <tr>
-    <td>Janela para mudança de seller</td>
-    <td>window-to-change-seller</td>
-    <td>-</td>
-    <td>Marketplace</td>
-    <td>Período de tempo para [mudança de seller](/pt/tutorial/veja-como-utilizar-o-change-seller--5TBAwO2kOAMw44uyaaQMQO).</td>
-  </tr>
-  <tr>
-    <td>Aguardando confirmação do seller</td>
-    <td>waiting-for-authorization</td>
-    <td>Pedido confirmado</td>
-    <td>Marketplace, fluxo completo e chain</td>
-    <td>Aguardando liberação do seller para prosseguir com o fluxo do pedido.</td>
-  </tr>
-    <tr>
-    <td>-</td>
-    <td>waiting-for-fulfillment</td>
-      <td>-</td>
-    <td>Seller</td>
-    <td>Espera pelo fulfillment do pedido. Status exclusivo para lojas que utilizam um Warehouse Management System (WMS).</td>
-  </tr>
-    <tr>
-    <td>-</td>
-    <td>waiting-ffmt-authorization</td>
-      <td>-</td>
-    <td>Seller</td>
-    <td>Aguardando a autorização do marketplace.</td>
-  </tr>
-  <tr>
-    <td>Aguardando autorização para despachar</td>
-    <td>waiting-for-manual-authorization</td>
-    <td>-</td>
-    <td>Seller</td>
-    <td>É um status de espera, no qual o seller aguarda o marketplace autorizar a continuação dos processos do pedido.</td>
-  </tr>
-  <tr>
-    <td>Autorizar despacho</td>
-    <td>authorize-fulfillment</td>
-    <td>-</td>
-    <td>Seller, fluxo completo</td>
-    <td>Processo interno de liberação para manuseio. Aqui ocorre a [confirmação da reserva](/pt/tutorial/como-a-reserva-funciona--tutorials_92#reserva-confirmada). Quando o marketplace não autoriza o seller a despachar o pedido em até 30 dias, o pedido é automaticamente cancelado pela plataforma.</td>
-  </tr>
-  <tr>
-    <td>Janela para cancelamento</td>
-    <td>window-to-cancel</td>
-    <td>Preparando pedido</td>
-    <td>Seller e fluxo completo</td>
-    <td>Status do tempo de cancelamento do cliente. Após a aprovação do pagamento, o cliente tem 30 minutos (definido como padrão nas [Configurações Gerais](/pt/tutorial/configuracoes-gerais/) do módulo de **Gerenciamento de Pedidos**) para realizar seu cancelamento. Nesse período, o estorno do pedido é realizado automaticamente.</td>
-  </tr>
-  <tr>
-    <td>-</td>
-    <td>ready-for-invoicing</td>
-    <td>-</td>
-    <td>Marketplace e fluxo completo</td>
-    <td>O pedido está pronto para ser faturado em lojas que tem picking e packing no processo de fulfillment.</td>
-  </tr>
-  <tr>
-    <td>Verificando nota fiscal</td>
-    <td>invoice*</td>
-    <td>Preparando pedido</td>
-    <td>Marketplace, chain e fluxo completo</td>
-    <td>A plataforma está verificando a nota fiscal incluída. Se esse status permanecer, é possível ter ocorrido problemas na liquidação do pagamento ou na inclusão da fatura. Saiba mais em [Por que o pedido está no status "Verificando fatura"](/pt/tutorial/por-que-o-pedido-esta-no-status-verificando-fatura--5VJjxRjeH6SimiG0Wkk2gm).</td>
-  </tr>
-  <tr>
-    <td>Faturado</td>
-    <td>invoiced</td>
-    <td>Entregando à transportadora</td>
-    <td>Marketplace, seller, chain e fluxo completo</td>
-    <td>O fluxo foi finalizado com sucesso e o pedido foi entregue à transportadora. Se a transação foi feita via cartão de crédito, a liquidação do valor é realizada neste momento.</td>
-  </tr>
-  <tr>
-    <td>Faturado</td>
-    <td>invoiced (após usar o endpoint [Update order tracking](https://developers.vtex.com/docs/api-reference/orders-api#put-/api/oms/pvt/orders/-orderId-/invoice/-invoiceNumber-/tracking))</td>
-    <td>Enviando pedido</td>
-    <td>Marketplace, seller, chain e fluxo completo</td>
-    <td>O fluxo foi finalizado com sucesso e o pedido está sendo enviado. Se a transação foi feita via cartão de crédito, a liquidação do valor é realizada neste momento.</td>
-  </tr>
-  <tr>
-    <td>Faturado</td>
-    <td>invoiced (após enviar `true` no campo `isDelivered` do endpoint [Update order tracking](https://developers.vtex.com/docs/api-reference/orders-api#put-/api/oms/pvt/orders/-orderId-/invoice/-invoiceNumber-/tracking))</td>
-    <td>Pedido enviado</td>
-    <td>Marketplace, seller, chain e fluxo completo</td>
-    <td>O fluxo foi finalizado com sucesso e o pedido enviado. Se a transação foi feita via cartão de crédito, a liquidação do valor é realizada neste momento.</td>
-  </tr>
-  <tr>
-    <td>Pronto para manuseio</td>
-    <td>ready-for-handling</td>
-    <td>Preparando pedido</td>
-    <td>Seller</td>
-    <td>Status que indica que é preciso iniciar o manuseio, preparar a nota fiscal e o rastreamento do pedido. Nesse status, ocorre a confirmação da [reserva](/pt/tutorial/como-a-reserva-funciona--tutorials_92) do item. Em geral, essa ação é realizada por uma [integração de ERP](https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide#send-order-cancelations), mas é possível fazê-la manualmente pelo gerenciamento de pedidos. O pedido só seguirá o fluxo após a confirmação.</td>
-  </tr>
-  <tr>
-    <td>Iniciar manuseio</td>
-    <td>start-handling*</td>
-    <td>-</td>
-    <td>Seller, fluxo completo</td>
-    <td>Status de autorização para o fluxo do manuseio continuar. É utilizado quando a autorização é feita manualmente. Caso haja [integração com ERP](https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide#send-order-cancelations), esse status espera a confirmação do ERP para que o fluxo do pedido continue.</td>
-  </tr>
-  <tr>
-    <td>Cancelamento solicitado</td>
-    <td>cancellation-requested</td>
-    <td>-</td>
-    <td>Seller</td>
-    <td>Cancelamento solicitado.</td>
-  </tr>
-  <tr>
-    <td>-</td>
-    <td>waiting-for-mkt-authorization</td>
-    <td>-</td>
-    <td>Chain</td>
-    <td>Esperando autorização do marketplace para enviar a autorização para o seller.</td>
-  </tr>
-  <tr>
-    <td>-</td>
-    <td>waiting-seller-handling</td>
-    <td>-</td>
-    <td>Marketplace</td>
-    <td>Marketplace da conta principal esperando o início do processo de manuseio, quando se trata de um pedido de Multilevel Omnichannel Inventory. Para o seller white label, aparece o status authorize-fulfillment.</td>
-  </tr>
-  <tr>
-    <td>Preparando entrega</td>
-    <td>handling</td>
-    <td>Preparando pedido</td>
-    <td>Seller, fluxo completo</td>
-    <td>Status no qual os itens do pedido são [reservados](/pt/tutorial/como-a-reserva-funciona--tutorials_92). O pedido fica em manuseio aguardando notificações de fatura, geralmente vindas do ERP.</td>
-  </tr>
-  <tr>
-    <td>Aprovar pagamento</td>
-    <td>-</td>
-    <td>-</td>
-    <td>Marketplace e fluxo completo</td>
-    <td>Ação do sistema. O fluxo não para nesse status a não ser que tenha erro.</td>
-  </tr>
-  <tr>
-    <td>Aguardando decisão do seller</td>
-    <td>-</td>
-    <td>-</td>
-    <td>Marketplace e fluxo completo</td>
-    <td>O pedido aguarda a confirmação do seller de que o pedido será cancelado.</td>
-  </tr>
-  <tr>
-    <td>Solicitar cancelamento</td>
-    <td>-</td>
-    <td>-</td>
-    <td>Marketplace e fluxo completo</td>
-    <td>Status que dá início ao fluxo de cancelamento. Há dois tipos de cancelamento possíveis: pela [loja](/pt/tutorial/como-cancelar-pedido--tutorials_186)  e pelo <a href="https://help.vtex.com/pt/tutorial/cancelamento-de-pedido-por-parte-do-cliente--3wEI6DUNtecooG2Ki4Akqo">cliente.</td>
-  </tr>
-</tbody>
-</table>
+| Status Admin                  | Status API                                                                                             | Status Minha conta     | Visto por                                 | Significado                                                                                                                                                                                                                                                                                                                                 |
+|-------------------------------|--------------------------------------------------------------------------------------------------------|------------------------|-------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| -                             | null                                                                                                   | -                      | Marketplace, seller, fluxo completo e chain | Pedidos criados e incompletos. O fluxo ainda pode ser iniciado pelo sistema ou o status do pedido consta como CancellationData, informando que ocorreu uma falha ao tentar completá-lo.                                                                                                             |
+| -                             | order-created*                                                                                         | -                      | Marketplace, fluxo completo e chain        | Pedido criado. O processamento dos dados do pedido é iniciado. Este é o primeiro estágio de um pedido, e significa que o sistema reuniu as informações básicas para processá-lo.                                                                                                                    |
+| Pagamento negado              | -                                                                                                      | Cancelado              | Marketplace, fluxo completo e chain        | O pagamento foi negado.                                                                                                                                                                                                                                                                                                                    |
+| Pedido aceito                 | order-accepted                                                                                         | -                      | Seller                                    | Seller recebe o pedido.                                                                                                                                                                                                                                                                                                                     |
+| Cancelando                    | canceling*                                                                                             | -                      | Marketplace, seller, fluxo completo e chain | Momento em que o pedido vai para o cancelamento. Nesse estágio, o módulo de [Pagamentos](/pt/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG) é notificado sobre o cancelamento. O pedido ficará nesse status até que o módulo de Pagamentos conclua o processo de cancelamento.                                               |
+| -                             | on-order-completed                                                                                     | -                      | Marketplace, fluxo completo e chain        | A compra foi processada no checkout. Os dados do pedido estão completos.                                                                                                                                                                                                                                                                   |
+| -                             | on-order-completed-ffm                                                                                 | -                      | Seller                                    | A compra foi processada no checkout. Os dados do pedido estão completos.                                                                                                                                                                                                                                                                   |
+| Pagamento aprovado            | payment-approved                                                                                       | Pagamento aprovado     | Marketplace, fluxo completo e chain        | O pagamento do pedido foi aprovado.                                                                                                                                                                                                                                                                                                        |
+| Pagamento pendente            | payment-pending                                                                                        | Aprovando pagamento    | Marketplace, fluxo completo e chain        | Status de espera pela confirmação do pagamento, no módulo de [Pagamentos](/pt/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG). Independentemente de o pagamento ter sido ou não confirmado, esse passo é obrigatório.                                                                                                        |
+| Cancelamento solicitado       | request-cancel                                                                                         | -                      | Marketplace e fluxo completo               | [Cliente solicita o cancelamento do pedido](/pt/tutorial/cancelamento-de-pedido-por-parte-do-cliente--3wEI6DUNtecooG2Ki4Akqo).                                                                                                                                                                                         |
+| Cancelado                     | canceled                                                                                               | Cancelado              | Marketplace, seller, chain e fluxo completo | O pedido é finalizado sem sucesso. A transação de pagamento no módulo de [Pagamentos](/pt/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG) é cancelada neste momento.                                                                                                                  |
+| Janela para mudança de pagamento | window-to-change-payment                                                                             | -                      | Marketplace                               | Período de tempo para mudança de pagamento.                                                                                                                                                                                                                                                                                                |
+| Janela para mudança de seller | window-to-change-seller                                                                                | -                      | Marketplace                               | Período de tempo para [mudança de seller](/pt/tutorial/veja-como-utilizar-o-change-seller--5TBAwO2kOAMw44uyaaQMQO).                                                                                                                                                                                                  |
+| Aguardando confirmação do seller | waiting-for-authorization                                                                           | Pedido confirmado      | Marketplace, fluxo completo e chain        | Aguardando liberação do seller para prosseguir com o fluxo do pedido.                                                                                                                                                                                                                                                                      |
+| -                             | waiting-for-fulfillment                                                                                | -                      | Seller                                    | Espera pelo fulfillment do pedido. Status exclusivo para lojas que utilizam um Warehouse Management System (WMS).                                                                                                                                                                                                                          |
+| -                             | waiting-ffmt-authorization                                                                             | -                      | Seller                                    | Aguardando a autorização do marketplace.                                                                                                                                                                                                                                                                                                   |
+| Aguardando autorização para despachar | waiting-for-manual-authorization                                                                | -                      | Seller                                    | É um status de espera, no qual o seller aguarda o marketplace autorizar a continuação dos processos do pedido.                                                                                                                                                                                                                             |
+| Autorizar despacho            | authorize-fulfillment                                                                                  | -                      | Seller, fluxo completo                     | Processo interno de liberação para manuseio. Aqui ocorre a [confirmação da reserva](/pt/tutorial/como-a-reserva-funciona--tutorials_92#reserva-confirmada). Quando o marketplace não autoriza o seller a despachar o pedido em até 30 dias, o pedido é automaticamente cancelado pela plataforma.                         |
+| Janela para cancelamento      | window-to-cancel                                                                                       | Preparando pedido      | Seller e fluxo completo                   | Status do tempo de cancelamento do cliente. Após a aprovação do pagamento, o cliente tem 30 minutos (definido como padrão nas [Configurações Gerais](/pt/tutorial/configuracoes-gerais/) do módulo de **Gerenciamento de Pedidos**) para realizar seu cancelamento.                                                       |
+| -                             | ready-for-invoicing                                                                                    | -                      | Marketplace e fluxo completo               | O pedido está pronto para ser faturado em lojas que tem picking e packing no processo de fulfillment.                                                                                                                                                                                                                                     |
+| Verificando nota fiscal       | invoice*                                                                                               | Preparando pedido      | Marketplace, chain e fluxo completo        | A plataforma está verificando a nota fiscal incluída. Saiba mais em [Por que o pedido está no status "Verificando fatura"](/pt/tutorial/por-que-o-pedido-esta-no-status-verificando-fatura--5VJjxRjeH6SimiG0Wkk2gm).                                                                                                   |
+| Faturado                      | invoiced                                                                                               | Entregando à transportadora | Marketplace, seller, chain e fluxo completo | O fluxo foi finalizado com sucesso e o pedido foi entregue à transportadora. Se a transação foi feita via cartão de crédito, a liquidação do valor é realizada neste momento.                                                                                                                          |
+| Faturado                      | invoiced (após usar o endpoint [Update order tracking](https://developers.vtex.com/docs/api-reference/orders-api#put-/api/oms/pvt/orders/-orderId-/invoice/-invoiceNumber-/tracking)) | Enviando pedido        | Marketplace, seller, chain e fluxo completo | O fluxo foi finalizado com sucesso e o pedido está sendo enviado. Se a transação foi feita via cartão de crédito, a liquidação do valor é realizada neste momento.                                                                                                                                    |
+| Faturado                      | invoiced (após enviar `true` no campo `isDelivered` do endpoint [Update order tracking](https://developers.vtex.com/docs/api-reference/orders-api#put-/api/oms/pvt/orders/-orderId-/invoice/-invoiceNumber-/tracking)) | Pedido enviado | Marketplace, seller, chain e fluxo completo | O fluxo foi finalizado com sucesso e o pedido enviado. Se a transação foi feita via cartão de crédito, a liquidação do valor é realizada neste momento.                                                                                                                                                |
+| Pronto para manuseio          | ready-for-handling                                                                                     | Preparando pedido      | Seller                                    | Status que indica que é preciso iniciar o manuseio, preparar a nota fiscal e o rastreamento do pedido. Nesse status, ocorre a confirmação da [reserva](/pt/tutorial/como-a-reserva-funciona--tutorials_92) do item.                                                                                                    |
+| Iniciar manuseio              | start-handling*                                                                                        | -                      | Seller, fluxo completo                     | Status de autorização para o fluxo do manuseio continuar. Caso haja [integração com ERP](https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide#send-order-cancelations), esse status espera a confirmação do ERP para que o fluxo do pedido continue.                                                                          |
+| Cancelamento solicitado       | cancellation-requested                                                                                 | -                      | Seller                                    | Cancelamento solicitado.                                                                                                                                                                                                                                                                                                                   |
+| -                             | waiting-for-mkt-authorization                                                                          | -                      | Chain                                     | Esperando autorização do marketplace para enviar a autorização para o seller.                                                                                                                                                                                                                                                              |
+| -                             | waiting-seller-handling                                                                                | -                      | Marketplace                               | Marketplace da conta principal esperando o início do processo de manuseio, quando se trata de um pedido de Multilevel Omnichannel Inventory. Para o seller white label, aparece o status authorize-fulfillment.                                                                                                                             |
+| Preparando entrega            | handling                                                                                               | Preparando pedido      | Seller, fluxo completo                     | Status no qual os itens do pedido são [reservados](/pt/tutorial/como-a-reserva-funciona--tutorials_92). O pedido fica em manuseio aguardando notificações de fatura, geralmente vindas do ERP.                                                                                                                          |
+| Aprovar pagamento             | -                                                                                                      | -                      | Marketplace e fluxo completo               | Ação do sistema. O fluxo não para nesse status a não ser que tenha erro.                                                                                                                                                                                                                                                                    |
+| Aguardando decisão do seller  | -                                                                                                      | -                      | Marketplace e fluxo completo               | O pedido aguarda a confirmação do seller de que o pedido será cancelado.                                                                                                                                                                                                                                                                    |
+| Solicitar cancelamento        | -                                                                                                      | -                      | Marketplace e fluxo completo               | Status que dá início ao fluxo de cancelamento. Há dois tipos de cancelamento possíveis: pela [loja](/pt/tutorial/como-cancelar-pedido--tutorials_186) e pelo [cliente](/pt/tutorial/cancelamento-de-pedido-por-parte-do-cliente--3wEI6DUNtecooG2Ki4Akqo).                                          |
 
 > ℹ️ Os status assinalados com asteriscos (*) na tabela não permitem modificação ou cancelamento, pois estão sob ação da plataforma.

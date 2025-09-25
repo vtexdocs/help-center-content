@@ -3,8 +3,8 @@ title: 'Order flow and status'
 id: tutorials_196
 status: PUBLISHED
 createdAt: 2017-04-27T22:14:33.518Z
-updatedAt: 2025-09-25T20:02:32.289Z
-publishedAt: 2025-09-25T20:02:32.289Z
+updatedAt: 2025-09-25T20:33:26.095Z
+publishedAt: 2025-09-25T20:33:26.095Z
 firstPublishedAt: 2017-04-27T23:02:47.616Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -145,250 +145,41 @@ Here is a table with more details about each order status. The table is divided 
 
 > ⚠️ Note that the complete order flow (visible to the stores responsible for selling and delivering orders) matches the marketplace and seller flows. Some statuses are visible via API, but not in the order flow in **All Orders** module.
 
-<table>
-<thead>
-  <tr>
-    <th>Admin status</th>
-    <th>API status</th>
-    <th>My account status</th>
-    <th>Viewed by</th>
-    <th>Meaning</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>-</td>
-    <td>null</td>
-    <td>-</td>
-    <td>Marketplace, seller, chain and complete flow</td>
-    <td>Incomplete orders. The system can still launch the flow, or the order status is CancellationData, which means an error occurred.</td>
-  </tr>
-  <tr>
-    <td>-</td>
-    <td>order-created*</td>
-    <td>-</td>
-    <td>Marketplace, chain and complete flow</td>
-    <td>Order created. The order data is being processed. This is the first status of an order, and indicates that the system has the necessary information to process it.</td>
-  </tr>
-  <tr>
-    <td>Order accepted</td>
-    <td>order-accepted</td>
-    <td>-</td>
-    <td>Seller</td>
-    <td>The seller received the order.</td>
-  </tr>
-  <tr>
-    <td>Canceling</td>
-    <td>cancel*</td>
-    <td>-</td>
-    <td>Marketplace, seller, chain and complete flow</td>
-    <td>The order is being canceled. At this stage, the platform notifies the [<Payments](https://help.vtex.com/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG) module about the cancellation. The order will remain in this status until the **Payments** module completes the cancellation process.</td>
-  </tr>
-  <tr>
-    <td>-</td>
-    <td>on-order-completed</td>
-    <td>-</td>
-    <td>Marketplace, chain and complete flow</td>
-    <td>The purchase has been processed at checkout. The order data is complete.</td>
-  </tr>
-  <tr>
-    <td>-</td>
-    <td>on-order-completed-ffm</td>
-    <td>-</td>
-    <td>Seller</td>
-    <td>The purchase has been processed at checkout. The order data is complete.</td>
-  </tr>
-  <tr>
-    <td>Payment denied</td>
-    <td>-</td>
-    <td>Canceled</td>
-    <td>Marketplace, complete flow and chain flow</td>
-    <td>The payment was denied.</td>
-  </tr>
-  <tr>
-    <td>Payment approved</td>
-    <td>payment-approved</td>
-    <td>Payment approved</td>
-    <td>Marketplace, chain and complete flow</td>
-    <td>The order payment has been approved.</td>
-  </tr>
-  <tr>
-    <td>Payment pending</td>
-    <td>payment-pending</td>
-    <td>Approving payment</td>
-    <td>Marketplace, chain and complete flow</td>
-    <td>Waiting status for payment confirmation in the [<Payments](https://help.vtex.com/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG) module. Regardless of whether the payment has been confirmed or not, this step is mandatory.</td>
-  </tr>
-  <tr>
-    <td>Cancellation requested</td>
-    <td>request-cancel</td>
-    <td>-</td>
-    <td>Marketplace and complete flow</td>
-    <td class="tg-9p9e">[<The customer requested the order cancellation](https://help.vtex.com/en/tutorial/cancelamento-de-pedido-por-parte-do-cliente--3wEI6DUNtecooG2Ki4Akqo).</td>
-  </tr>
-  <tr>
-    <td>Canceled</td>
-    <td>canceled</td>
-    <td>Canceled</td>
-    <td>Marketplace, seller, chain and complete flow</td>
-    <td>The order has been canceled, therefore, it was not completed. The payment transaction in the [<Payments](https://help.vtex.com/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG) module is canceled at this point.</td>
-  </tr>
-  <tr>
-    <td>Window to change payment</td>
-    <td>window-to-change-payment</td>
-    <td>-</td>
-    <td>Marketplace</td>
-    <td>Time period the payment can be changed.</td>
-  </tr>
-  <tr>
-    <td>Window to change seller</td>
-    <td>window-to-change-seller</td>
-    <td>-</td>
-    <td>Marketplace</td>
-    <td>Time period the [<seller can be changed](https://help.vtex.com/en/tutorial/veja-como-utilizar-o-change-seller--5TBAwO2kOAMw44uyaaQMQO).</td>
-  </tr>
-  <tr>
-    <td>Waiting for seller confirmation</td>
-    <td>waiting-for-authorization</td>
-    <td>Order placed</td>
-    <td>Marketplace, complete flow and chain flow</td>
-    <td>Waiting for the seller's authorization to proceed with the order flow.</td>
-  </tr>
-   <tr>
-    <td>-</td>
-    <td>waiting-for-fulfillment</td>
-     <td>-</td>
-    <td>Seller</td>
-    <td>Waits for order's fulfillment. Status exclusive for stores that have a Warehouse Management System (WMS). When the marketplace does not authorize the seller to fulfill the order within 30 days, this order is automatically canceled by the platform.</td>
-  </tr>
-  <tr>
-    <td>-</td>
-    <td>waiting-ffmt-authorization</td>
-    <td>-</td>
-    <td>Seller</td>
-    <td>Awaiting the marketplace authorization.</td>
-  </tr>
-  <tr>
-    <td>Waiting for fulfillment authorization</td>
-    <td>waiting-for-manual-authorization</td>
-    <td>-</td>
-    <td>Seller</td>
-    <td>It is a waiting status, in which the seller waits for the marketplace to authorize the order flow to continue.</td>
-  </tr>
-  <tr>
-    <td>Authorize fulfillment</td>
-    <td>authorize-fulfillment</td>
-    <td>-</td>
-    <td>Seller and complete flow</td>
-    <td>Internal process for approving the order handling. In this status, the platform confirms the [<item reservation](https://help.vtex.com/en/tutorial/como-a-reserva-funciona--tutorials_92#reserva-confirmada). When the marketplace does not authorize the seller to fulfill the order within 30 days, this order is automatically canceled by the platform.</td>
-  </tr>
-  <tr>
-    <td>Cancellation window</td>
-    <td>window-to-cancel</td>
-    <td>Handling order</td>
-    <td>Seller and complete flow</td>
-    <td>Status of the customer order cancellation time frame. After payment approval, the customer has 30 minutes (set as default in the [<Settings](https://help.vtex.com/en/tutorial/configuracoes-gerais/) of the **Orders** management module) to cancel the order. During this period, the platform refunds the order automatically.</td>
-  </tr>
-  <tr>
-    <td>-</td>
-    <td>ready-for-invoicing</td>
-    <td>-</td>
-    <td>Marketplace and complete flow</td>
-    <td>The order is ready to be invoiced only for stores that have picking and packing in the fulfillment process.</td>
-  </tr>
-  <tr>
-    <td>Verifying invoice</td>
-    <td>invoice*</td>
-     <td>Handling order</td>
-    <td>Marketplace, chain and complete flow</td>
-    <td>The platform is verifying the invoice. If the order remains at this stage, there may have been a problem settling the payment or adding the invoice. Learn more in [<Why is the order in the "Verifying invoice" status?](https://help.vtex.com/en/tutorial/por-que-o-pedido-esta-no-status-verificando-fatura--5VJjxRjeH6SimiG0Wkk2gm).</td>
-  </tr>
-  <tr>
-    <td>Invoiced</td>
-    <td>invoiced</td>
-    <td>In transit to carrier</td>
-    <td>Marketplace, seller, chain and complete flow</td>
-    <td>The flow was completed successfully and the order was delivered to the carrier. If the transaction was made via credit card, the payment settlement occurs at this point.</td>
-  </tr>
-  <tr>
-    <td>Invoiced</td>
-    <td>invoiced (after using the [Update order tracking](https://developers.vtex.com/docs/api-reference/orders-api#put-/api/oms/pvt/orders/-orderId-/invoice/-invoiceNumber-/tracking)) endpoint</td>
-    <td>Delivering order</td>
-    <td>Marketplace, seller, chain and complete flow</td>
-    <td>The flow was completed successfully and the order is being delivered. If the transaction was made via credit card, the payment settlement occurs at this point.</td>
-  </tr>
-  <tr>
-    <td>Invoiced</td>
-    <td>invoiced (after sending `true` in the field `isDelivered` of the<a href=”https://developers.vtex.com/docs/api-reference/orders-api#put-/api/oms/pvt/orders/-orderId-/invoice/-invoiceNumber-/tracking”>Update order tracking</a> endpoint)</td>
-    <td>Order shipped</td>
-    <td>Marketplace, seller, chain and complete flow</td>
-    <td>The flow was completed successfully and the order is being delivered. If the transaction was made via credit card, the payment settlement occurs at this point.</td>
-  </tr>
-  <tr>
-    <td>Ready for handling</td>
-    <td>ready-for-handling</td>
-    <td>Handling order</td>
-    <td>Seller</td>
-    <td>Status that indicates that you need to start order handling, prepare the invoice, and track the order. In this status, the platform [<reserves](https://help.vtex.com/en/tutorial/como-a-reserva-funciona--tutorials_92) the item. This is usually done by an [<ERP integration](https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide#send-order-cancelations), but you can do it manually through order management. The order will only go to the next stage once this one has been confirmed.</td>
-  </tr>
-  <tr>
-    <td>Start handling</td>
-    <td>start-handling*</td>
-    <td>-</td>
-    <td>Seller and complete flow</td>
-    <td>Authorization status to continue the order handling flow. It is used when authorized manually. If there is [<ERP integration](https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide#send-order-cancelations), this status waits for the ERP confirmation for the order flow to continue.</td>
-  </tr>
-  <tr>
-    <td>Cancellation requested</td>
-    <td>cancellation-requested</td>
-    <td>-</td>
-    <td>Seller</td>
-    <td>Cancellation requested</td>
-  </tr>
-  <tr>
-    <td>-</td>
-    <td>waiting-for-mkt-authorization</td>
-    <td>-</td>
-    <td>Chain</td>
-    <td>Waiting for the marketplace authorization to send the authorization to the seller.</td>
-  </tr>
-  <tr>
-    <td>-</td>
-    <td>waiting-seller-handling</td>
-    <td>-</td>
-    <td>Marketplace</td>
-    <td>Marketplace from the main account waiting for the handling process to start, when it comes to a Multilevel Omnichannel Inventory operation. For the white label seller, the status that appears is authorize-fulfillment.</td>
-  </tr>
-  <tr>
-    <td>Handling shipping</td>
-    <td>handling</td>
-    <td>Handling order</td>
-    <td>Seller and complete flow</td>
-    <td>In this status, the order items are [<reserved](https://help.vtex.com/en/tutorial/como-a-reserva-funciona--tutorials_92). The order remains at this status until it receives an invoice notification, usually from the ERP.</td>
-  </tr>
-  <tr>
-    <td>Approve payment</td>
-    <td>-</td>
-    <td>-</td>
-    <td>Marketplace and complete flow</td>
-    <td>Indicated by the system. The flow does not stop at this status unless there is an error.</td>
-  </tr>
-  <tr>
-    <td>Waiting for the seller decision</td>
-    <td>-</td>
-    <td>-</td>
-    <td>Marketplace and complete flow</td>
-    <td>Waiting for the seller to decide if the order will be canceled.</td>
-  </tr>
-  <tr>
-    <td>Request cancellation</td>
-    <td>-</td>
-    <td>-</td>
-    <td>Marketplace and complete flow</td>
-    <td>Status initiating cancellation flow. There are two types of possible cancellatoins: by the [<store](https://help.vtex.com/en/tutorial/como-cancelar-pedido--tutorials_186) and by the [<customer](https://help.vtex.com/en/tutorial/cancelamento-de-pedido-por-parte-do-cliente--3wEI6DUNtecooG2Ki4Akqo).</td>
-  </tr>
-</tbody>
-</table>
+| Admin status                 | API status                                                                                                                                                            | My account status  | Viewed by                                | Meaning                                                                                                                                                                                                                                                                                                                                                                                                      |
+|------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| -                            | null                                                                                                                                                                 | -                  | Marketplace, seller, chain and complete flow | Incomplete orders. The system can still launch the flow, or the order status is CancellationData, which means an error occurred.                                                                                                                                                                                                                                       |
+| -                            | order-created*                                                                                                                                                        | -                  | Marketplace, chain and complete flow      | Order created. The order data is being processed. This is the first status of an order, and indicates that the system has the necessary information to process it.                                                                                                                                                                                                     |
+| Order accepted               | order-accepted                                                                                                                                                        | -                  | Seller                                   | The seller received the order.                                                                                                                                                                                                                                                                                                                                                                               |
+| Canceling                    | cancel*                                                                                                                                                               | -                  | Marketplace, seller, chain and complete flow | The order is being canceled. At this stage, the platform notifies the [Payments](/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG) module about the cancellation. The order will remain in this status until the **Payments** module completes the cancellation process.                                                                                 |
+| -                            | on-order-completed                                                                                                                                                    | -                  | Marketplace, chain and complete flow      | The purchase has been processed at checkout. The order data is complete.                                                                                                                                                                                                                                                                                                                                     |
+| -                            | on-order-completed-ffm                                                                                                                                                | -                  | Seller                                   | The purchase has been processed at checkout. The order data is complete.                                                                                                                                                                                                                                                                                                                                     |
+| Payment denied               | -                                                                                                                                                                    | Canceled           | Marketplace, complete flow and chain flow | The payment was denied.                                                                                                                                                                                                                                                                                                                                                                                      |
+| Payment approved             | payment-approved                                                                                                                                                      | Payment approved   | Marketplace, chain and complete flow      | The order payment has been approved.                                                                                                                                                                                                                                                                                                                                                                         |
+| Payment pending              | payment-pending                                                                                                                                                       | Approving payment  | Marketplace, chain and complete flow      | Waiting status for payment confirmation in the [Payments](/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG) module. Regardless of whether the payment has been confirmed or not, this step is mandatory.                                                                                                                                              |
+| Cancellation requested        | request-cancel                                                                                                                                                        | -                  | Marketplace and complete flow             | [The customer requested the order cancellation](/en/tutorial/cancelamento-de-pedido-por-parte-do-cliente--3wEI6DUNtecooG2Ki4Akqo).                                                                                                                                                                                                                |
+| Canceled                     | canceled                                                                                                                                                             | Canceled           | Marketplace, seller, chain and complete flow | The order has been canceled, therefore, it was not completed. The payment transaction in the [Payments](/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG) module is canceled at this point.                                                                                                                                                          |
+| Window to change payment      | window-to-change-payment                                                                                                                                              | -                  | Marketplace                              | Time period the payment can be changed.                                                                                                                                                                                                                                                                                                                                                                      |
+| Window to change seller       | window-to-change-seller                                                                                                                                               | -                  | Marketplace                              | Time period the [seller can be changed](/en/tutorial/veja-como-utilizar-o-change-seller--5TBAwO2kOAMw44uyaaQMQO).                                                                                                                                                                                                                                 |
+| Waiting for seller confirmation | waiting-for-authorization                                                                                                                                            | Order placed       | Marketplace, complete flow and chain flow | Waiting for the seller's authorization to proceed with the order flow.                                                                                                                                                                                                                                                                                                                                       |
+| -                            | waiting-for-fulfillment                                                                                                                                               | -                  | Seller                                   | Waits for order's fulfillment. Status exclusive for stores that have a Warehouse Management System (WMS). When the marketplace does not authorize the seller to fulfill the order within 30 days, this order is automatically canceled by the platform.                                                                                                                 |
+| -                            | waiting-ffmt-authorization                                                                                                                                            | -                  | Seller                                   | Awaiting the marketplace authorization.                                                                                                                                                                                                                                                                                                                                                                      |
+| Waiting for fulfillment authorization | waiting-for-manual-authorization                                                                                                                                | -                  | Seller                                   | It is a waiting status, in which the seller waits for the marketplace to authorize the order flow to continue.                                                                                                                                                                                                                                                                                                |
+| Authorize fulfillment         | authorize-fulfillment                                                                                                                                                | -                  | Seller and complete flow                  | Internal process for approving the order handling. In this status, the platform confirms the [item reservation](/en/tutorial/como-a-reserva-funciona--tutorials_92#reserva-confirmada). If not authorized within 30 days, the order is automatically canceled by the platform.                                                                     |
+| Cancellation window           | window-to-cancel                                                                                                                                                      | Handling order     | Seller and complete flow                  | Status of the customer order cancellation time frame. After payment approval, the customer has 30 minutes (default) to cancel the order. During this period, the platform refunds the order automatically. Learn more in [Settings](/en/tutorial/configuracoes-gerais/).                                                                             |
+| -                            | ready-for-invoicing                                                                                                                                                    | -                  | Marketplace and complete flow             | The order is ready to be invoiced only for stores that have picking and packing in the fulfillment process.                                                                                                                                                                                                                                                            |
+| Verifying invoice             | invoice*                                                                                                                                                              | Handling order     | Marketplace, chain and complete flow      | The platform is verifying the invoice. If the order remains at this stage, there may have been a problem settling the payment or adding the invoice. Learn more in [Why is the order in the "Verifying invoice" status?](/en/tutorial/por-que-o-pedido-esta-no-status-verificando-fatura--5VJjxRjeH6SimiG0Wkk2gm).                                |
+| Invoiced                     | invoiced                                                                                                                                                              | In transit to carrier | Marketplace, seller, chain and complete flow | The flow was completed successfully and the order was delivered to the carrier. If the transaction was made via credit card, the payment settlement occurs at this point.                                                                                                                                                                                              |
+| Invoiced                     | invoiced (after using the [Update order tracking](https://developers.vtex.com/docs/api-reference/orders-api#put-/api/oms/pvt/orders/-orderId-/invoice/-invoiceNumber-/tracking) endpoint) | Delivering order   | Marketplace, seller, chain and complete flow | The flow was completed successfully and the order is being delivered. If the transaction was made via credit card, the payment settlement occurs at this point.                                                                                                                                                                                                        |
+| Invoiced                     | invoiced (after sending `true` in the field `isDelivered` of the [Update order tracking](https://developers.vtex.com/docs/api-reference/orders-api#put-/api/oms/pvt/orders/-orderId-/invoice/-invoiceNumber-/tracking) endpoint) | Order shipped      | Marketplace, seller, chain and complete flow | The flow was completed successfully and the order is being delivered. If the transaction was made via credit card, the payment settlement occurs at this point.                                                                                                                                                                                                        |
+| Ready for handling            | ready-for-handling                                                                                                                                                    | Handling order     | Seller                                   | Status that indicates that you need to start order handling, prepare the invoice, and track the order. The platform [reserves](/en/tutorial/como-a-reserva-funciona--tutorials_92) the item. Usually handled by an [ERP integration](https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide#send-order-cancelations).                                                         |
+| Start handling                | start-handling*                                                                                                                                                       | -                  | Seller and complete flow                  | Authorization status to continue the order handling flow. Used when authorized manually. If there is [ERP integration](https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide#send-order-cancelations), this status waits for ERP confirmation.                                                                                                           |
+| Cancellation requested        | cancellation-requested                                                                                                                                                | -                  | Seller                                   | Cancellation requested.                                                                                                                                                                                                                                                                                                                                                                                       |
+| -                            | waiting-for-mkt-authorization                                                                                                                                         | -                  | Chain                                    | Waiting for the marketplace authorization to send the authorization to the seller.                                                                                                                                                                                                                                                                                                                           |
+| -                            | waiting-seller-handling                                                                                                                                                | -                  | Marketplace                              | Marketplace from the main account waiting for the handling process to start (Multilevel Omnichannel Inventory). White label seller sees **authorize-fulfillment**.                                                                                                                                                                                                     |
+| Handling shipping             | handling                                                                                                                                                              | Handling order     | Seller and complete flow                  | In this status, the order items are [reserved](/en/tutorial/como-a-reserva-funciona--tutorials_92). The order remains at this status until it receives an invoice notification, usually from the ERP.                                                                                                                                                                                      |
+| Approve payment               | -                                                                                                                                                                    | -                  | Marketplace and complete flow             | Indicated by the system. The flow does not stop at this status unless there is an error.                                                                                                                                                                                                                                                                                                                      |
+| Waiting for the seller decision | -                                                                                                                                                                    | -                  | Marketplace and complete flow             | Waiting for the seller to decide if the order will be canceled.                                                                                                                                                                                                                                                                                                                                               |
+| Request cancellation          | -                                                                                                                                                                    | -                  | Marketplace and complete flow             | Status initiating cancellation flow. Possible cancellations: by the [store](/en/tutorial/como-cancelar-pedido--tutorials_186) or by the [customer](/en/tutorial/cancelamento-de-pedido-por-parte-do-cliente--3wEI6DUNtecooG2Ki4Akqo).                                                                                            |
 
 > ℹ️ The statuses marked with asterisks (*) in the table do not allow modification or cancellation because the platform changes them automatically.
 
