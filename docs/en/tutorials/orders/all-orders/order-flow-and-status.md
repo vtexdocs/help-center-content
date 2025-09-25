@@ -143,17 +143,6 @@ Here is a table with more details about each order status. The table is divided 
 
 > ⚠️ Note that the complete order flow (visible to the stores responsible for selling and delivering orders) matches the marketplace and seller flows. Some statuses are visible via API, but not in the order flow in **All Orders** module.
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
-.tg td{background-color:#fff;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
-  font-family:Fabriga, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{background-color:#f0f0f0;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
-  font-family:Fabriga, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-cly1{text-align:left;vertical-align:middle}
-.tg .tg-9p9e{background-color:#FFF;color:#F71963;text-align:left;text-decoration:underline;vertical-align:top}
-.tg .tg-36r3{background-color:#727273;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
-</style>
 <table class="tg">
 <thead>
   <tr>
@@ -398,8 +387,6 @@ Here is a table with more details about each order status. The table is divided 
   </tr>
 </tbody>
 </table>
-
-<br></br>
 
 > ℹ️ The statuses marked with asterisks (*) in the table do not allow modification or cancellation because the platform changes them automatically.
 
