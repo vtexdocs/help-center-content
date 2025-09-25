@@ -3,8 +3,8 @@ title: 'Order flow and status'
 id: tutorials_196
 status: PUBLISHED
 createdAt: 2017-04-27T22:14:33.518Z
-updatedAt: 2025-08-15T14:14:28.169Z
-publishedAt: 2025-08-15T14:14:28.169Z
+updatedAt: 2025-09-25T20:02:32.289Z
+publishedAt: 2025-09-25T20:02:32.289Z
 firstPublishedAt: 2017-04-27T23:02:47.616Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -18,6 +18,7 @@ subcategoryId: 2t00bBkcAwIkgSCGKsMOwY
 The order flow describes the status, possibilities, and actions throughout the life cycle of an order. With the flow, retailers can also track the mapped order status on the platform.
 
 This article will present the following information:
+
 - The different [types of order flows](/en/tutorial/fluxo-e-status-de-pedidos--tutorials_196#flow-types) available on the platform: [marketplace flow](/en/tutorial/fluxo-e-status-de-pedidos--tutorials_196#marketplace-flow), [seller flow](/en/tutorial/fluxo-e-status-de-pedidos--tutorials_196#seller-flow), [chain flow](/en/tutorial/fluxo-e-status-de-pedidos--tutorials_196#chain-flow), and [complete flow](/en/tutorial/fluxo-e-status-de-pedidos--tutorials_196#complete-flow).
 - A [table with all the order statuses available on the Admin and via API](/en/tutorial/fluxo-e-status-de-pedidos--tutorials_196#order-status-details).
 - [Scenarios in which orders are canceled](/en/tutorial/fluxo-e-status-de-pedidos--tutorials_196#order-cancellation).
@@ -41,11 +42,11 @@ There are four possible order flows on the VTEX platform:
 
 The marketplace flow is integrated with the seller flow. When an order delivered by an external seller (which is not the main seller) is finalized, this is the flow visible to the marketplace:
 
-1. Starts with the status `Waiting for seller confirmation` and automatically switches to the status `Payment pending`. Since the marketplace is responsible for receiving payment, there are two possible upcoming statuses: 
-    * **If the marketplace receives the payment:** The status changes to `Payment approved`. 
-    * **If the marketplace does not receive the payment:** The order cancellation process is initiated, and the status changes to `Canceling`.
+1. Starts with the status `Waiting for seller confirmation` and automatically switches to the status `Payment pending`. Since the marketplace is responsible for receiving payment, there are two possible upcoming statuses:
+   - **If the marketplace receives the payment:** The status changes to `Payment approved`.
+   - **If the marketplace does not receive the payment:** The order cancellation process is initiated, and the status changes to `Canceling`.
 2. Once the payment has been approved and the [grace period](/en/tutorial/configurar-o-tempo-de-carencia-para-cancelamento-do-pedido--jYFdnPDtNm4WCEkYWqqC) for cancellation (stage visible to the seller) has expired, the marketplace must wait for the seller to start handling the order. This is an active action indicating that the seller has started preparing the order packages. If the seller does not perform this action, [the order remains in the status Ready for handling](/en/faq/pedido-esta-travado-em-pronto-para-manuseio-o-que-fazer--frequentlyAskedQuestions_771).
-3. Once the seller confirms the order handling, the marketplace order status can remain as `Verifying invoice` if there are any errors. Check out the [most common reasons](/en/tutorial/por-que-o-pedido-esta-no-status-verificando-fatura--5VJjxRjeH6SimiG0Wkk2gm) for the order to remain in this status. Remember that if the order is only partially invoiced, its status may go back to `Payment approved`, and the retailer must add the invoices correctly. The total sum of the invoices must equal the total order value. 
+3. Once the seller confirms the order handling, the marketplace order status can remain as `Verifying invoice` if there are any errors. Check out the [most common reasons](/en/tutorial/por-que-o-pedido-esta-no-status-verificando-fatura--5VJjxRjeH6SimiG0Wkk2gm) for the order to remain in this status. Remember that if the order is only partially invoiced, its status may go back to `Payment approved`, and the retailer must add the invoices correctly. The total sum of the invoices must equal the total order value.
 4. After confirming the order handling, the order is prepared for shipping by the seller.
 5. When the seller adds the invoices correctly, the status changes to `Invoiced`. This status means that the purchase transaction has been successfully completed, and you can no longer change the order status. The payment is settled when the order is at this status.
 6. The seller must complete the fulfillment process.
@@ -59,7 +60,7 @@ Learn how to identify orders from marketplaces in the article [Viewing marketpla
 This is the order flow visible to the store responsible for shipping the order products. In this case, the order was placed through another store (online marketplace), and the seller flow starts once the order is confirmed.
 
 1. When the seller receives the order, its initial status is `Order accepted`.
-2. Then the order status automatically changes to `Waiting for fulfillment authorization`. This is a waiting status for the marketplace to indicate that the order payment has been confirmed. 
+2. Then the order status automatically changes to `Waiting for fulfillment authorization`. This is a waiting status for the marketplace to indicate that the order payment has been confirmed.
 
   > ❗ The platform allows you to manually change the status *Waiting for fulfillment authorization* by clicking *Authorize fulfillment*. However, when the seller does that manually, it does not necessarily mean that the marketplace has authorized the order fulfillment, which can lead to a mismatch of information. So use this option with caution. We recommend using it only if the marketplace has authorized the order fulfillment.
 
@@ -68,8 +69,8 @@ This is the order flow visible to the store responsible for shipping the order p
   > ℹ️ The *Cancellation window* allows the customer to cancel the purchase without the store's approval, within a period of time previously configured by the store. After this period, the store must authorize the customer's cancellation request.
 
 4. At this stage, there are two possible statuses:
-    * **Order not canceled:** If the cancellation window period expires and the customer does not request the purchase cancellation, the status changes to `Ready for handling`. This status indicates to the seller that they can begin handling the order for delivery.
-    * **Canceled order**: If the customer has requested the order cancellation within the grace period, the order status will change to `Canceling`.
+   - **Order not canceled:** If the cancellation window period expires and the customer does not request the purchase cancellation, the status changes to `Ready for handling`. This status indicates to the seller that they can begin handling the order for delivery.
+   - **Canceled order**: If the customer has requested the order cancellation within the grace period, the order status will change to `Canceling`.
 5. The order will remain in the status `Ready for handling` until the seller changes it by confirming they have started the order handling. The seller can confirm it manually in the Admin, or via ERP API integration using the [Start handling order](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/start-handling) request.
 
   > ❗ By confirming the order handling, the seller takes responsibility for reserving the order items. From that moment on, if there are any updates in the inventory, the VTEX platform dismisses these SKUs' reservation. Therefore, update the inventory only after the order has been invoiced. By doing so, you avoid inventory discrepancies in the [integration with your store's backoffice](https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide).
@@ -86,15 +87,15 @@ This is the order flow visible to the store responsible for shipping the order p
 The complete order flow is visible to the store that sells and delivers the order. It is composed of the marketplace flow followed by the seller flow.
 
 1. The initial stage of the order flow is `Waiting for seller confirmation`, to indicate the seller has received the order.
-2. The order automatically moves to the `Payment pending` status. 
+2. The order automatically moves to the `Payment pending` status.
 3. The system waits for the payment confirmation and changes the status to one of the following:
-    * **The order payment is approved:** The order status changes to `Payment approved` and then `Cancellation window`. This status delimits the customer's grace period to cancel the purchase without the store's approval. The order will remain in this status until the [end of the period configured](/en/tutorial/configuracoes-gerais/#orders).
-    * **The payment of the order is not approved:** The platform initiates the cancellation process. This happens automatically as the order status goes from `Payment denied` to `Canceling`. Once the platform completes the cancellation, the status changes to `Canceled`, which is the last stage of the flow. With the payment approved and the cancellation window expired, the order status changes to `Ready for handling`.
+   - **The order payment is approved:** The order status changes to `Payment approved` and then `Cancellation window`. This status delimits the customer's grace period to cancel the purchase without the store's approval. The order will remain in this status until the [end of the period configured](/en/tutorial/configuracoes-gerais/#orders).
+   - **The payment of the order is not approved:** The platform initiates the cancellation process. This happens automatically as the order status goes from `Payment denied` to `Canceling`. Once the platform completes the cancellation, the status changes to `Canceled`, which is the last stage of the flow. With the payment approved and the cancellation window expired, the order status changes to `Ready for handling`.
 4. This status shows the retailer that the payment has been confirmed, and they can start handling the order. The store must confirm the order handling has started for the order to advance in the flow. This confirmation can be done manually in the Admin or via an ERP [API](https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide) using the [Start handling order](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/start-handling) request.
 
   > ❗ By confirming the order handling, the seller takes responsibility for reserving the order items. From that moment on, if there are any updates in the inventory, the VTEX platform dismisses these SKUs' reservation. Therefore, update their inventory only after the order has been invoiced. By doing so, you avoid inventory discrepancies in the [integration with your store's backoffice](https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide).
 
-5. Once the order handling starts, the order status changes to `Handling shipping` and the next step is to invoice the order. The system waits for the invoice with status `Verifying invoice`. You must [add the invoice](/en/tutorial/como-faturar-um-pedido-manualmente-beta--7p1h852V5t54KyscpgxE2v) that corresponds to the total value of the order. 
+5. Once the order handling starts, the order status changes to `Handling shipping` and the next step is to invoice the order. The system waits for the invoice with status `Verifying invoice`. You must [add the invoice](/en/tutorial/como-faturar-um-pedido-manualmente-beta--7p1h852V5t54KyscpgxE2v) that corresponds to the total value of the order.
 6. Once this is done, the order status changes to the last status, which is `Invoiced` and the store must ship the order.
 
 The retailer can cancel orders only before they have been `Invoiced`. Once invoiced, the customer can return items, but no longer change the order. Check out the articles [How to cancel orders](/en/tutorial/como-cancelar-pedido--tutorials_186) and [Order cancellation requested by the customer](/en/tutorial/como-funciona-o-cancelamento-de-pedido-por-parte-do-cliente--3wEI6DUNtecooG2Ki4Akqo) to learn more about order cancellation from a store and customer perspectives.
@@ -102,6 +103,7 @@ The retailer can cancel orders only before they have been `Invoiced`. Once invoi
 ### Order cancellation
 
 Orders can be canceled for several reasons. Each type of cancellation is indicated by a different stage in the order flow:
+
 - **[Incomplete orders](/en/tutorial/entendendo-os-pedidos-incompletos--tutorials_294):** When the order is incomplete, the order flow cannot start. This prevents the seller from handling items and, consequently, no reservation of the inventory is made.
 - **[Customer cancellation request](/en/tutorial/como-funciona-o-cancelamento-de-pedido-por-parte-do-cliente--3wEI6DUNtecooG2Ki4Akqo):** The customer cancels the order within the grace period or requests the order cancellation to the store. The order items are not reserved when the cancellation occurs within the grace period. However, the items will be reserved if the cancellation occurs after the order has been handled (after the `Start handling` status).
 - **[Order cancellation by the store](/en/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/4ts2ItvjYo8wm5gg76miS3):** When the seller or marketplace cancels the order.
@@ -122,15 +124,15 @@ Learn more about order cancellation in the article [Why was my order cancelled?]
 
 ![pedido_fluxo_chain_en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/orders/all-orders/order-flow-and-status_4.png)
 
-The order flow seen by the intermediate store in a [Multilevel Omnichannel Inventory](/en/tutorial/multilevel-omnichannel-inventory--7M1xyCZWUyCB7PcjNtOyw4) is similar to the marketplace order flow, except for receiving the payment for orders. In the `Payment pending` stage, instead of the chain receiving payment directly from the gateway, the marketplace informs the chain it has received the payment confirmation. 
+The order flow seen by the intermediate store in a [Multilevel Omnichannel Inventory](/en/tutorial/multilevel-omnichannel-inventory--7M1xyCZWUyCB7PcjNtOyw4) is similar to the marketplace order flow, except for receiving the payment for orders. In the `Payment pending` stage, instead of the chain receiving payment directly from the gateway, the marketplace informs the chain it has received the payment confirmation.
 
 ## Important notes
 
 - [Incomplete orders](/en/tutorial/entendendo-os-pedidos-incompletos--tutorials_294): All orders are considered incomplete at the beginning of the flow. Orders are completed at the last stage of the purchase. If the order does not proceed to the last stage, there may have been an issue during payment (external to VTEX) or missing data.
 - Orders can be changed until they start to be invoiced. Learn more about changing and replacing items in the articles [Order replacement](/en/tutorial/substituicao-de-pedidos--2IK9mwQjBKseQmE8K8saO8) and [Changing items from a completed order](/en/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190).
 - If the customer requests an order cancellation and the retailer denies it, the order can proceed to the `Payment pending` status.
-- For order flows at the stage `Ready for handling`, the store must actively confirm the information for the order to advance in the flow. 
-- The number of items in stock is updated automatically. Learn more about product reservation and inventory updates in the article [How the reservation works](/en/tutorial/como-a-reserva-funciona--tutorials_92). 
+- For order flows at the stage `Ready for handling`, the store must actively confirm the information for the order to advance in the flow.
+- The number of items in stock is updated automatically. Learn more about product reservation and inventory updates in the article [How the reservation works](/en/tutorial/como-a-reserva-funciona--tutorials_92).
 
 ## Order status details
 
@@ -143,247 +145,247 @@ Here is a table with more details about each order status. The table is divided 
 
 > ⚠️ Note that the complete order flow (visible to the stores responsible for selling and delivering orders) matches the marketplace and seller flows. Some statuses are visible via API, but not in the order flow in **All Orders** module.
 
-<table class="tg">
+<table>
 <thead>
   <tr>
-    <th class="tg-36r3"><span style="font-weight:700">Admin status</span></th>
-    <th class="tg-36r3"><span style="font-weight:700">API status</span></th>
-    <th class="tg-36r3"><span style="font-weight:700">My account status</span></th>
-    <th class="tg-36r3"><span style="font-weight:700">Viewed by</span></th>
-    <th class="tg-36r3"><span style="font-weight:700">Meaning</span></th>
+    <th>Admin status</th>
+    <th>API status</th>
+    <th>My account status</th>
+    <th>Viewed by</th>
+    <th>Meaning</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">null</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Marketplace, seller, chain and complete flow</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Incomplete orders. The system can still launch the flow, or the order status is</span> <span style="font-weight:400;color:#3F3F40;background-color:#E3E4E6">CancellationData</span><span style="font-weight:400">, which means an error occurred.</span></td>
+    <td>-</td>
+    <td>null</td>
+    <td>-</td>
+    <td>Marketplace, seller, chain and complete flow</td>
+    <td>Incomplete orders. The system can still launch the flow, or the order status is CancellationData, which means an error occurred.</td>
   </tr>
   <tr>
-    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">order-created*</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Marketplace, chain and complete flow</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Order created. The order data is being processed. This is the first status of an order, and indicates that the system has the necessary information to process it.</span></td>
+    <td>-</td>
+    <td>order-created*</td>
+    <td>-</td>
+    <td>Marketplace, chain and complete flow</td>
+    <td>Order created. The order data is being processed. This is the first status of an order, and indicates that the system has the necessary information to process it.</td>
   </tr>
   <tr>
-    <td class="tg-zr06"><span style="font-weight:400">Order accepted</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">order-accepted</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Seller</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">The seller received the order.</span></td>
+    <td>Order accepted</td>
+    <td>order-accepted</td>
+    <td>-</td>
+    <td>Seller</td>
+    <td>The seller received the order.</td>
   </tr>
   <tr>
-    <td class="tg-zr06"><span style="font-weight:400">Canceling</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">cancel*</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Marketplace, seller, chain and complete flow</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">The order is being canceled. At this stage, the platform notifies the</span> [<span style="font-weight:400;color:#F71963;background-color:transparent">Payments</span>](/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG) <span style="font-weight:400">module about the cancellation. The order will remain in this status until the</span> <span style="font-weight:700">Payments</span> <span style="font-weight:400">module completes the cancellation process.</span></td>
+    <td>Canceling</td>
+    <td>cancel*</td>
+    <td>-</td>
+    <td>Marketplace, seller, chain and complete flow</td>
+    <td>The order is being canceled. At this stage, the platform notifies the [<Payments](https://help.vtex.com/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG) module about the cancellation. The order will remain in this status until the **Payments** module completes the cancellation process.</td>
   </tr>
   <tr>
-    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">on-order-completed</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Marketplace, chain and complete flow</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">The purchase has been processed at checkout. The order data is complete.</span></td>
+    <td>-</td>
+    <td>on-order-completed</td>
+    <td>-</td>
+    <td>Marketplace, chain and complete flow</td>
+    <td>The purchase has been processed at checkout. The order data is complete.</td>
   </tr>
   <tr>
-    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">on-order-completed-ffm</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Seller</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">The purchase has been processed at checkout. The order data is complete.</span></td>
+    <td>-</td>
+    <td>on-order-completed-ffm</td>
+    <td>-</td>
+    <td>Seller</td>
+    <td>The purchase has been processed at checkout. The order data is complete.</td>
   </tr>
   <tr>
-    <td class="tg-zr06"><span style="font-weight:400">Payment denied</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Canceled</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Marketplace, complete flow and chain flow</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">The payment was denied.</span></td>
+    <td>Payment denied</td>
+    <td>-</td>
+    <td>Canceled</td>
+    <td>Marketplace, complete flow and chain flow</td>
+    <td>The payment was denied.</td>
   </tr>
   <tr>
-    <td class="tg-zr06"><span style="font-weight:400">Payment approved</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">payment-approved</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Payment approved</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Marketplace, chain and complete flow</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">The order payment has been approved.</span></td>
+    <td>Payment approved</td>
+    <td>payment-approved</td>
+    <td>Payment approved</td>
+    <td>Marketplace, chain and complete flow</td>
+    <td>The order payment has been approved.</td>
   </tr>
   <tr>
-    <td class="tg-zr06"><span style="font-weight:400">Payment pending</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">payment-pending</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Approving payment</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Marketplace, chain and complete flow</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Waiting status for payment confirmation in the</span> [<span style="font-weight:400;color:#F71963;background-color:transparent">Payments</span>](/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG) <span style="font-weight:400">module. Regardless of whether the payment has been confirmed or not, this step is mandatory.</span></td>
+    <td>Payment pending</td>
+    <td>payment-pending</td>
+    <td>Approving payment</td>
+    <td>Marketplace, chain and complete flow</td>
+    <td>Waiting status for payment confirmation in the [<Payments](https://help.vtex.com/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG) module. Regardless of whether the payment has been confirmed or not, this step is mandatory.</td>
   </tr>
   <tr>
-    <td class="tg-zr06"><span style="font-weight:400">Cancellation requested</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">request-cancel</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Marketplace and complete flow</span></td>
-    <td class="tg-9p9e">[<span style="font-weight:400;color:#F71963;background-color:transparent">The customer requested the order cancellation</span>](/en/tutorial/cancelamento-de-pedido-por-parte-do-cliente--3wEI6DUNtecooG2Ki4Akqo)<span style="font-weight:400">.</span></td>
+    <td>Cancellation requested</td>
+    <td>request-cancel</td>
+    <td>-</td>
+    <td>Marketplace and complete flow</td>
+    <td class="tg-9p9e">[<The customer requested the order cancellation](https://help.vtex.com/en/tutorial/cancelamento-de-pedido-por-parte-do-cliente--3wEI6DUNtecooG2Ki4Akqo).</td>
   </tr>
   <tr>
-    <td class="tg-zr06"><span style="font-weight:400">Canceled</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">canceled</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Canceled</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Marketplace, seller, chain and complete flow</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">The order has been canceled, therefore, it was not completed. The payment transaction in the</span> [<span style="font-weight:400;color:#F71963;background-color:transparent">Payments</span>](/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG) <span style="font-weight:400">module is canceled at this point.</span></td>
+    <td>Canceled</td>
+    <td>canceled</td>
+    <td>Canceled</td>
+    <td>Marketplace, seller, chain and complete flow</td>
+    <td>The order has been canceled, therefore, it was not completed. The payment transaction in the [<Payments](https://help.vtex.com/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG) module is canceled at this point.</td>
   </tr>
   <tr>
-    <td class="tg-zr06"><span style="font-weight:400">Window to change payment</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">window-to-change-payment</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Marketplace</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Time period the payment can be changed.</span></td>
+    <td>Window to change payment</td>
+    <td>window-to-change-payment</td>
+    <td>-</td>
+    <td>Marketplace</td>
+    <td>Time period the payment can be changed.</td>
   </tr>
   <tr>
-    <td class="tg-zr06"><span style="font-weight:400">Window to change seller</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">window-to-change-seller</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Marketplace</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Time period the</span> [<span style="font-weight:400;color:#F71963;background-color:transparent">seller can be changed</span>](/en/tutorial/veja-como-utilizar-o-change-seller--5TBAwO2kOAMw44uyaaQMQO)<span style="font-weight:400">.</span></td>
+    <td>Window to change seller</td>
+    <td>window-to-change-seller</td>
+    <td>-</td>
+    <td>Marketplace</td>
+    <td>Time period the [<seller can be changed](https://help.vtex.com/en/tutorial/veja-como-utilizar-o-change-seller--5TBAwO2kOAMw44uyaaQMQO).</td>
   </tr>
   <tr>
-    <td class="tg-zr06"><span style="font-weight:400">Waiting for seller confirmation</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">waiting-for-authorization</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Order placed</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Marketplace, complete flow and chain flow</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Waiting for the seller's authorization to proceed with the order flow.</span></td>
+    <td>Waiting for seller confirmation</td>
+    <td>waiting-for-authorization</td>
+    <td>Order placed</td>
+    <td>Marketplace, complete flow and chain flow</td>
+    <td>Waiting for the seller's authorization to proceed with the order flow.</td>
   </tr>
    <tr>
-    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">waiting-for-fulfillment</span></td>
-     <td class="tg-zr06"><span style="font-weight:400">-</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Seller</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Waits for order's fulfillment. Status exclusive for stores that have a Warehouse Management System (WMS). When the marketplace does not authorize the seller to fulfill the order within 30 days, this order is automatically canceled by the platform.</span></td>
+    <td>-</td>
+    <td>waiting-for-fulfillment</td>
+     <td>-</td>
+    <td>Seller</td>
+    <td>Waits for order's fulfillment. Status exclusive for stores that have a Warehouse Management System (WMS). When the marketplace does not authorize the seller to fulfill the order within 30 days, this order is automatically canceled by the platform.</td>
   </tr>
   <tr>
-    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">waiting-ffmt-authorization</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Seller</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Awaiting the marketplace authorization.</span></td>
+    <td>-</td>
+    <td>waiting-ffmt-authorization</td>
+    <td>-</td>
+    <td>Seller</td>
+    <td>Awaiting the marketplace authorization.</td>
   </tr>
   <tr>
-    <td class="tg-zr06"><span style="font-weight:400">Waiting for fulfillment authorization</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">waiting-for-manual-authorization</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Seller</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">It is a waiting status, in which the seller waits for the marketplace to authorize the order flow to continue.</span></td>
+    <td>Waiting for fulfillment authorization</td>
+    <td>waiting-for-manual-authorization</td>
+    <td>-</td>
+    <td>Seller</td>
+    <td>It is a waiting status, in which the seller waits for the marketplace to authorize the order flow to continue.</td>
   </tr>
   <tr>
-    <td class="tg-zr06"><span style="font-weight:400">Authorize fulfillment</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">authorize-fulfillment</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Seller and complete flow</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Internal process for approving the order handling. In this status, the platform confirms the</span> [<span style="font-weight:400;color:#F71963;background-color:transparent">item reservation</span>](/en/tutorial/como-a-reserva-funciona--tutorials_92#reserva-confirmada)<span style="font-weight:400">. When the marketplace does not authorize the seller to fulfill the order within 30 days, this order is automatically canceled by the platform.</span></td>
+    <td>Authorize fulfillment</td>
+    <td>authorize-fulfillment</td>
+    <td>-</td>
+    <td>Seller and complete flow</td>
+    <td>Internal process for approving the order handling. In this status, the platform confirms the [<item reservation](https://help.vtex.com/en/tutorial/como-a-reserva-funciona--tutorials_92#reserva-confirmada). When the marketplace does not authorize the seller to fulfill the order within 30 days, this order is automatically canceled by the platform.</td>
   </tr>
   <tr>
-    <td class="tg-zr06"><span style="font-weight:400">Cancellation window</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">window-to-cancel</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Handling order</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Seller and complete flow</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Status of the customer order cancellation time frame. After payment approval, the customer has 30 minutes (set as default in the</span> [<span style="font-weight:400;color:#F71963;background-color:transparent">Settings</span>](/en/tutorial/configuracoes-gerais/) <span style="font-weight:400">of the</span> <span style="font-weight:700">Orders management</span> <span style="font-weight:400">module) to cancel the order. During this period, the platform refunds the order automatically.</span></td>
+    <td>Cancellation window</td>
+    <td>window-to-cancel</td>
+    <td>Handling order</td>
+    <td>Seller and complete flow</td>
+    <td>Status of the customer order cancellation time frame. After payment approval, the customer has 30 minutes (set as default in the [<Settings](https://help.vtex.com/en/tutorial/configuracoes-gerais/) of the **Orders** management module) to cancel the order. During this period, the platform refunds the order automatically.</td>
   </tr>
   <tr>
-    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">ready-for-invoicing</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Marketplace and complete flow</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">The order is ready to be invoiced only for stores that have picking and packing in the fulfillment process.</span></td>
+    <td>-</td>
+    <td>ready-for-invoicing</td>
+    <td>-</td>
+    <td>Marketplace and complete flow</td>
+    <td>The order is ready to be invoiced only for stores that have picking and packing in the fulfillment process.</td>
   </tr>
   <tr>
-    <td class="tg-zr06"><span style="font-weight:400">Verifying invoice</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">invoice*</span></td>
-     <td class="tg-zr06"><span style="font-weight:400">Handling order</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Marketplace, chain and complete flow</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">The platform is verifying the invoice. If the order remains at this stage, there may have been a problem settling the payment or adding the invoice. Learn more in</span> [<span style="font-weight:400;color:#F71963;background-color:transparent">Why is the order in the "Verifying invoice" status?</span>](/en/tutorial/por-que-o-pedido-esta-no-status-verificando-fatura--5VJjxRjeH6SimiG0Wkk2gm)<span style="font-weight:400">.</span></td>
+    <td>Verifying invoice</td>
+    <td>invoice*</td>
+     <td>Handling order</td>
+    <td>Marketplace, chain and complete flow</td>
+    <td>The platform is verifying the invoice. If the order remains at this stage, there may have been a problem settling the payment or adding the invoice. Learn more in [<Why is the order in the "Verifying invoice" status?](https://help.vtex.com/en/tutorial/por-que-o-pedido-esta-no-status-verificando-fatura--5VJjxRjeH6SimiG0Wkk2gm).</td>
   </tr>
   <tr>
-    <td class="tg-zr06"><span style="font-weight:400">Invoiced</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">invoiced</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">In transit to carrier</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Marketplace, seller, chain and complete flow</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">The flow was completed successfully and the order was delivered to the carrier. If the transaction was made via credit card, the payment settlement occurs at this point.</span></td>
+    <td>Invoiced</td>
+    <td>invoiced</td>
+    <td>In transit to carrier</td>
+    <td>Marketplace, seller, chain and complete flow</td>
+    <td>The flow was completed successfully and the order was delivered to the carrier. If the transaction was made via credit card, the payment settlement occurs at this point.</td>
   </tr>
   <tr>
-    <td class="tg-zr06"><span style="font-weight:400">Invoiced</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">invoiced (after using the [Update order tracking](https://developers.vtex.com/docs/api-reference/orders-api#put-/api/oms/pvt/orders/-orderId-/invoice/-invoiceNumber-/tracking)) endpoint</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Delivering order</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Marketplace, seller, chain and complete flow</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">The flow was completed successfully and the order is being delivered. If the transaction was made via credit card, the payment settlement occurs at this point.</span></td>
+    <td>Invoiced</td>
+    <td>invoiced (after using the [Update order tracking](https://developers.vtex.com/docs/api-reference/orders-api#put-/api/oms/pvt/orders/-orderId-/invoice/-invoiceNumber-/tracking)) endpoint</td>
+    <td>Delivering order</td>
+    <td>Marketplace, seller, chain and complete flow</td>
+    <td>The flow was completed successfully and the order is being delivered. If the transaction was made via credit card, the payment settlement occurs at this point.</td>
   </tr>
   <tr>
-    <td class="tg-zr06"><span style="font-weight:400">Invoiced</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">invoiced (after sending `true` in the field `isDelivered` of the<a href=”https://developers.vtex.com/docs/api-reference/orders-api#put-/api/oms/pvt/orders/-orderId-/invoice/-invoiceNumber-/tracking”>Update order tracking</a> endpoint)</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Order shipped</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Marketplace, seller, chain and complete flow</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">The flow was completed successfully and the order is being delivered. If the transaction was made via credit card, the payment settlement occurs at this point.</span></td>
+    <td>Invoiced</td>
+    <td>invoiced (after sending `true` in the field `isDelivered` of the<a href=”https://developers.vtex.com/docs/api-reference/orders-api#put-/api/oms/pvt/orders/-orderId-/invoice/-invoiceNumber-/tracking”>Update order tracking</a> endpoint)</td>
+    <td>Order shipped</td>
+    <td>Marketplace, seller, chain and complete flow</td>
+    <td>The flow was completed successfully and the order is being delivered. If the transaction was made via credit card, the payment settlement occurs at this point.</td>
   </tr>
   <tr>
-    <td class="tg-zr06"><span style="font-weight:400">Ready for handling</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">ready-for-handling</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Handling order</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Seller</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Status that indicates that you need to start order handling, prepare the invoice, and track the order. In this status, the platform</span> [<span style="font-weight:400;color:#F71963;background-color:transparent">reserves</span>](/en/tutorial/como-a-reserva-funciona--tutorials_92) <span style="font-weight:400">the item. This is usually done by an</span> [<span style="font-weight:400;color:#F71963;background-color:transparent">ERP integration</span>](https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide#send-order-cancelations)<span style="font-weight:400">, but you can do it manually through order management. The order will only go to the next stage once this one has been confirmed.</span></td>
+    <td>Ready for handling</td>
+    <td>ready-for-handling</td>
+    <td>Handling order</td>
+    <td>Seller</td>
+    <td>Status that indicates that you need to start order handling, prepare the invoice, and track the order. In this status, the platform [<reserves](https://help.vtex.com/en/tutorial/como-a-reserva-funciona--tutorials_92) the item. This is usually done by an [<ERP integration](https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide#send-order-cancelations), but you can do it manually through order management. The order will only go to the next stage once this one has been confirmed.</td>
   </tr>
   <tr>
-    <td class="tg-zr06"><span style="font-weight:400">Start handling</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">start-handling*</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Seller and complete flow</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Authorization status to continue the order handling flow. It is used when authorized manually. If there is</span> [<span style="font-weight:400;color:#F71963;background-color:transparent">ERP integration</span>](https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide#send-order-cancelations)<span style="font-weight:400">, this status waits for the ERP confirmation for the order flow to continue.</span></td>
+    <td>Start handling</td>
+    <td>start-handling*</td>
+    <td>-</td>
+    <td>Seller and complete flow</td>
+    <td>Authorization status to continue the order handling flow. It is used when authorized manually. If there is [<ERP integration](https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide#send-order-cancelations), this status waits for the ERP confirmation for the order flow to continue.</td>
   </tr>
   <tr>
-    <td class="tg-zr06"><span style="font-weight:400">Cancellation requested</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">cancellation-requested</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Seller</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Cancellation requested</span></td>
+    <td>Cancellation requested</td>
+    <td>cancellation-requested</td>
+    <td>-</td>
+    <td>Seller</td>
+    <td>Cancellation requested</td>
   </tr>
   <tr>
-    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">waiting-for-mkt-authorization</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Chain</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Waiting for the marketplace authorization to send the authorization to the seller.</span></td>
+    <td>-</td>
+    <td>waiting-for-mkt-authorization</td>
+    <td>-</td>
+    <td>Chain</td>
+    <td>Waiting for the marketplace authorization to send the authorization to the seller.</td>
   </tr>
   <tr>
-    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">waiting-seller-handling</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Marketplace</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Marketplace from the main account waiting for the handling process to start, when it comes to a Multilevel Omnichannel Inventory operation. For the white label seller, the status that appears is authorize-fulfillment.</span></td>
+    <td>-</td>
+    <td>waiting-seller-handling</td>
+    <td>-</td>
+    <td>Marketplace</td>
+    <td>Marketplace from the main account waiting for the handling process to start, when it comes to a Multilevel Omnichannel Inventory operation. For the white label seller, the status that appears is authorize-fulfillment.</td>
   </tr>
   <tr>
-    <td class="tg-zr06"><span style="font-weight:400">Handling shipping</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">handling</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Handling order</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Seller and complete flow</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">In this status, the order items are</span> [<span style="font-weight:400;color:#F71963;background-color:transparent">reserved</span>](/en/tutorial/como-a-reserva-funciona--tutorials_92)<span style="font-weight:400">. The order remains at this status until it receives an invoice notification, usually from the ERP.</span></td>
+    <td>Handling shipping</td>
+    <td>handling</td>
+    <td>Handling order</td>
+    <td>Seller and complete flow</td>
+    <td>In this status, the order items are [<reserved](https://help.vtex.com/en/tutorial/como-a-reserva-funciona--tutorials_92). The order remains at this status until it receives an invoice notification, usually from the ERP.</td>
   </tr>
   <tr>
-    <td class="tg-zr06"><span style="font-weight:400">Approve payment</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Marketplace and complete flow</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Indicated by the system. The flow does not stop at this status unless there is an error.</span></td>
+    <td>Approve payment</td>
+    <td>-</td>
+    <td>-</td>
+    <td>Marketplace and complete flow</td>
+    <td>Indicated by the system. The flow does not stop at this status unless there is an error.</td>
   </tr>
   <tr>
-    <td class="tg-zr06"><span style="font-weight:400">Waiting for the seller decision</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">-</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Marketplace and complete flow</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Waiting for the seller to decide if the order will be canceled.</span></td>
+    <td>Waiting for the seller decision</td>
+    <td>-</td>
+    <td>-</td>
+    <td>Marketplace and complete flow</td>
+    <td>Waiting for the seller to decide if the order will be canceled.</td>
   </tr>
   <tr>
-    <td class="tg-cly1">Request cancellation</td>
-    <td class="tg-cly1">-</td>
-    <td class="tg-cly1">-</td>
-    <td class="tg-cly1">Marketplace and complete flow</td>
-    <td class="tg-cly1">Status initiating cancellation flow. There are two types of possible cancellatoins: by the </span> [<span style="font-weight:400;color:#F71963;background-color:transparent">store</span>](/en/tutorial/como-cancelar-pedido--tutorials_186) <span style="font-weight:400"> and by the </span> [<span style="font-weight:400;color:#F71963;background-color:transparent">customer</span>](/en/tutorial/cancelamento-de-pedido-por-parte-do-cliente--3wEI6DUNtecooG2Ki4Akqo)<span style="font-weight:400">.</span></td>
+    <td>Request cancellation</td>
+    <td>-</td>
+    <td>-</td>
+    <td>Marketplace and complete flow</td>
+    <td>Status initiating cancellation flow. There are two types of possible cancellatoins: by the [<store](https://help.vtex.com/en/tutorial/como-cancelar-pedido--tutorials_186) and by the [<customer](https://help.vtex.com/en/tutorial/cancelamento-de-pedido-por-parte-do-cliente--3wEI6DUNtecooG2Ki4Akqo).</td>
   </tr>
 </tbody>
 </table>

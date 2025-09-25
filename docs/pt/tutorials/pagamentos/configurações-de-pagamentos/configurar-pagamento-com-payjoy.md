@@ -3,8 +3,8 @@ title: 'Configurar pagamento com PayJoy'
 id: MNN6mbLPEwr10jA9eavl1
 status: PUBLISHED
 createdAt: 2025-08-15T19:08:03.632Z
-updatedAt: 2025-08-25T13:16:15.834Z
-publishedAt: 2025-08-25T13:16:15.834Z
+updatedAt: 2025-09-24T18:41:53.260Z
+publishedAt: 2025-09-24T18:41:53.260Z
 firstPublishedAt: 2025-08-15T19:27:09.638Z
 contentType: tutorial
 productTeam: Financial
@@ -25,7 +25,7 @@ Para configurar PayJoy, siga os passos abaixo:
 4. Em **Autorização do provedor**, preencha os campos **Chave de aplicação** e **Token de aplicação** com as informações da sua conta PayJoy.
 5. Caso deseje modificar o nome de identificação a ser exibido para o provedor PayJoy na tela do Admin VTEX, insira a informação no campo **Nome** em **Informações básicas**.
 6. Em **Controle de pagamento**, selecione se deseja ativar o provedor em ambiente de teste clicando em **Ativar modo de teste**.
-7. Em **Campos do provedor**, preencha os campos **Partner**, **Device Model Id**, **Memory Id**, **Capacity Id**, **Color Id**, **Os Id** e **Imei** conforme orientações do provedor.
+7. Em **Campos do provedor**, selecione ou preencha os campos **Partner**, **Country**, **Device Model Id**, **Memory Id**, **Capacity Id**, **Color Id**, **Os Id**, **Imei** e **Test Mode** conforme orientações do provedor.
 8. Clique em `Salvar`.
 
 Para configurar os métodos de pagamento a serem processados pela PayJoy, acesse [Condições de Pagamento](/pt/tutorial/condicoes-de-pagamento).

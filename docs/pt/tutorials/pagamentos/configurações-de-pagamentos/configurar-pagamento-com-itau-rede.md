@@ -3,8 +3,8 @@ title: 'Configurar pagamento com Itaú Rede'
 id: 77BYOKxVzONWulAf8dTVSX
 status: PUBLISHED
 createdAt: 2024-04-18T15:03:32.890Z
-updatedAt: 2024-12-13T22:40:46.028Z
-publishedAt: 2024-12-13T22:40:46.028Z
+updatedAt: 2025-09-24T18:12:19.059Z
+publishedAt: 2025-09-24T18:12:19.059Z
 firstPublishedAt: 2024-04-25T14:54:53.085Z
 contentType: tutorial
 productTeam: Financial
@@ -100,7 +100,9 @@ Para configurar o Itaú Rede, siga os passos abaixo:
 
 <blockquote><ui>10. No campo **delayToAutoSettle**, informe o período para que o pedido seja liquidado. Lembre-se que o valor deste campo deve estar de acordo com a regra determinada no campo de **Liquidação automática**.</ui>
 
-<blockquote><ui>11. Clique em `Salvar`.</ui></blockquote>
+<blockquote><ui>11. No campo **pixExpiration**, informe o tempo de validade que um QR Code PIX deve ter em sua loja.</ui>  
+
+<blockquote><ui>12. Clique em `Salvar`.</ui></blockquote>
 
 ## Configurar condição de pagamento para cartão
 

@@ -3,8 +3,8 @@ title: 'Abrir chamados para o suporte VTEX'
 id: 16yOEqpO32UQYygSmMSSAM
 status: PUBLISHED
 createdAt: 2017-11-21T22:18:13.507Z
-updatedAt: 2025-06-27T11:11:19.266Z
-publishedAt: 2025-06-27T11:11:19.266Z
+updatedAt: 2025-09-25T13:49:36.309Z
+publishedAt: 2025-09-25T13:49:36.309Z
 firstPublishedAt: 2017-11-22T02:37:19.330Z
 contentType: tutorial
 productTeam: Others
@@ -19,7 +19,7 @@ Todos os clientes têm acesso a atendimento fornecido pelo time de especialistas
 
 É necessário [habilitar a autorização de suporte](/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) no [License Manager](/pt/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3) para que o usuário tenha acesso ao suporte da VTEX. Esta configuração é válida apenas para contas no Brasil.
 
-Este artigo explica como clientes devem abrir chamados no Suporte VTEX e acompanhar o status dos chamados. Para saber mais sobre disponibilidade, tempo estimado de resposta (SLA) e recursos disponíveis para clientes no Brasil, leia o artigo [Suporte VTEX - Brasil](/pt/faq/suporte-vtex-brasil--5q861sTw1n7H2BENOu7ls9).
+Este artigo explica como clientes devem abrir chamados no Suporte VTEX e acompanhar o status dos chamados. Para saber mais sobre disponibilidade, tempo estimado de resposta (SLA)acesse o artigo [Recursos de Suporte Global da VTEX](/pt/tutorial/recursos-de-suporte-global-da-vtex--5maoEWCrTKFAEMXRsfcklV).
 
 Confira a seguir as etapas descritas neste artigo:
 

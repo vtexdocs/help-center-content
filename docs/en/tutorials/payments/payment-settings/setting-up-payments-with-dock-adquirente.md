@@ -3,8 +3,8 @@ title: 'Setting up payments with Dock Adquirente'
 id: 538RMLmZheQdTCgyG1MAA6
 status: PUBLISHED
 createdAt: 2025-06-11T21:40:53.256Z
-updatedAt: 2025-06-11T21:46:15.542Z
-publishedAt: 2025-06-11T21:46:15.542Z
+updatedAt: 2025-09-24T17:34:11.358Z
+publishedAt: 2025-09-24T17:34:11.358Z
 firstPublishedAt: 2025-06-11T21:46:15.542Z
 contentType: tutorial
 productTeam: Financial
@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-At VTEX, it is possible to integrate with the Dock Adquirente payment provider. With this provider, your store can make sales through credit cards.
+At VTEX, it is possible to integrate with the Dock Adquirente payment provider. With this provider, your store can make sales through credit cards and PIX.
 
 To configure Dock Adquirente, follow the steps below:
 

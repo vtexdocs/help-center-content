@@ -3,8 +3,8 @@ title: 'Opening tickets to VTEX support'
 id: 16yOEqpO32UQYygSmMSSAM
 status: PUBLISHED
 createdAt: 2017-11-21T22:18:13.507Z
-updatedAt: 2025-06-27T11:11:19.266Z
-publishedAt: 2025-06-27T11:11:19.266Z
+updatedAt: 2025-09-25T13:49:36.309Z
+publishedAt: 2025-09-25T13:49:36.309Z
 firstPublishedAt: 2017-11-22T02:37:19.330Z
 contentType: tutorial
 productTeam: Others
@@ -19,9 +19,7 @@ All clients have access to [VTEX Support's](/en/faq/como-funciona-o-suporte-da-v
 
 You must [enable support permission](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) in [License Manager](/en/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3) for the user to access VTEX Support. This setting is only valid for accounts in Brazil.
 
-This article explains how to open tickets with VTEX Support and track their status. For more information about availability, estimated response time (SLA), and resources available to customers in Brazil, see the article VTEX Support - Brazil.
-
-This article explains how to open tickets with VTEX Support and track their status. For more information about availability, estimated response time (SLA), and resources available to customers in Brazil, see the article [VTEX Support - Brazil](/en/faq/suporte-vtex-brasil--5q861sTw1n7H2BENOu7ls9).
+This article explains how customers should open tickets with VTEX Support and track their status. To learn more about availability and estimated response time (SLA), see the article [VTEX Global Support Resources](/en/tutorial/recursos-de-suporte-global-da-vtex--5maoEWCrTKFAEMXRsfcklV).
 
 Check out the steps described in this article:
 

@@ -1,14 +1,14 @@
 ---
-title: 'O que significa ativar o multiplicador de brinde em uma promoção?'
+title: 'Como funciona o multiplicador de brindes em promoções'
 id: 1gydgkmjEWcoo2CskUwuYK
-status: CHANGED
+status: PUBLISHED
 createdAt: 2019-01-24T20:45:34.467Z
-updatedAt: 2025-09-23T13:51:20.561Z
-publishedAt: 2020-12-22T22:46:17.767Z
+updatedAt: 2025-09-24T11:13:38.983Z
+publishedAt: 2025-09-24T11:13:38.983Z
 firstPublishedAt: 2019-01-24T22:13:50.154Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
-author: 6dI9ZPE1e80iq8IuIsww2s
+author: 2AhArvGNSPKwUAd8GOz0iU
 slugEN: what-does-it-mean-to-activate-a-gift-multiplier-on-a-promotion
 legacySlug: o-que-significa-ativar-o-multiplicador-de-brinde-em-uma-promocao
 locale: pt

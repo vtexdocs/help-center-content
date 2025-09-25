@@ -3,8 +3,8 @@ title: 'Abrir tickets para el soporte VTEX'
 id: 16yOEqpO32UQYygSmMSSAM
 status: PUBLISHED
 createdAt: 2017-11-21T22:18:13.507Z
-updatedAt: 2025-06-27T11:11:19.266Z
-publishedAt: 2025-06-27T11:11:19.266Z
+updatedAt: 2025-09-25T13:49:36.309Z
+publishedAt: 2025-09-25T13:49:36.309Z
 firstPublishedAt: 2017-11-22T02:37:19.330Z
 contentType: tutorial
 productTeam: Others
@@ -19,7 +19,7 @@ Todos los usuarios tienen acceso al servicio prestado por el equipo de especiali
 
 Para que los usuario tengan acceso al Soporte VTEX es necesario [activar la autorización de soporte](/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) en [License Manager](/es/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3). Esta configuración solo es válida para cuentas de Brasil.
 
-Este artículo describe el proceso de apertura de tickets con el Soporte VTEX y hacer un seguimiento de su status. Para más información sobre disponibilidad, tiempo de respuesta estimado (SLA) y recursos disponibles para clientes en Brasil, consulta [Soporte VTEX - Brasil](/es/faq/suporte-vtex-brasil--5q861sTw1n7H2BENOu7ls9).
+Este artículo explica cómo los clientes deben abrir tickets con el Soporte de VTEX y hacer el seguimiento de su estado. Para obtener más información sobre disponibilidad y tiempo estimado de respuesta (SLA), consulta el artículo [Recursos de Soporte Global de VTEX](/es/tutorial/recursos-de-suporte-global-da-vtex--5maoEWCrTKFAEMXRsfcklV)
 
 A continuación se detallan las etapas incluidas en este artículo:
 

@@ -3,8 +3,8 @@ title: 'Configurar pagamento com easypay marketplace'
 id: 3YllWiITcPEOpteuToEdO7
 status: PUBLISHED
 createdAt: 2023-09-19T12:04:31.528Z
-updatedAt: 2025-02-20T21:56:26.715Z
-publishedAt: 2025-02-20T21:56:26.715Z
+updatedAt: 2025-09-24T19:07:24.105Z
+publishedAt: 2025-09-24T19:07:24.105Z
 firstPublishedAt: 2023-09-19T12:05:03.795Z
 contentType: tutorial
 productTeam: Financial
@@ -221,10 +221,11 @@ Para configurar a afiliação easypay, siga os passos abaixo:
 1. No Admin VTEX, acesse __Configurações da loja > Pagamentos > Configurações__, ou digite __Configurações__ na barra de busca no topo da página.
 2. Na aba Afiliações de Gateways, clique no botão `+`.
 3. Clique no conector __easypay__.
-4. Preencha os campos __Application Key__ e __Application Token__ com as informações da sua conta easypay.
-5. Em __Captura Automática de Pagamento__, selecione a opção __Use O Comportamento Recomendado Pelo Processador de Pagamentos__.
-6. Em __Ativar divisão e enviar recebedores?__, selecione a opção __Sim__.
-7. Clique em `Salvar`.
+4. Preencha os campos __Chave de aplicação__ e __Token de aplicação__ com as informações da sua conta easypay.
+5. Caso deseje modificar o nome de identificação a ser exibido para o provedor easypay na tela do Admin VTEX, insira a informação no campo __Nome__ em __Informações básicas__.
+6. Em __Controle de pagamento__, selecione se deseja ativar o provedor em ambiente de teste clicando em __Ativar modo de teste__.
+7. Caso deseje utilizar o [split de pagamento](/pt/tutorial/split-de-pagamento--6k5JidhYRUxileNolY2VLx) em sua loja, selecione a opção __Ativar split de recebíveis e enviar recebedores de pagamento__ e indique o __Responsável pelas tarifas de processamento de pagamentos__ e __Responsável pelos estornos__ (marketplace, sellers ou marketplaces e sellers).
+8. Clique em `Salvar`.
 
 Para configurar os métodos de pagamento a serem processados pela easypay, acesse [Condições de Pagamento](/pt/tutorial/condicoes-de-pagamento).
 

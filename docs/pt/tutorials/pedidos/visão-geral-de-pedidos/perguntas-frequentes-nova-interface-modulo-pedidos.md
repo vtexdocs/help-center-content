@@ -3,8 +3,8 @@ title: 'Perguntas frequentes sobre a nova interface do módulo de pedidos'
 id: 1mgSrqT2X3lxIkccEv8bLW
 status: PUBLISHED
 createdAt: 2022-12-08T18:26:26.850Z
-updatedAt: 2023-01-05T18:01:01.354Z
-publishedAt: 2023-01-05T18:01:01.354Z
+updatedAt: 2025-09-25T11:26:48.912Z
+publishedAt: 2025-09-25T11:26:48.912Z
 firstPublishedAt: 2023-01-05T13:24:51.496Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -76,3 +76,5 @@ Para reenviar um email para o cliente, clique no evento de email enviado ou no �
 ![enviar_email_pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pedidos/vis%C3%A3o-geral-de-pedidos/perguntas-frequentes-nova-interface-modulo-pedidos_6.png)
 
 Clique sobre o botão `Reenviar email` e o email será imediatamente enviado ao cliente, sendo que a seguinte mensagem de confirmação deve aparecer: _Email reenviado ao cliente com sucesso_.
+
+> ⚠️ Por motivos de segurança, você só pode reenviar emails até 15 minutos depois do faturamento do pedido.

@@ -3,8 +3,8 @@ title: 'Configurar pagamento com Nuvei'
 id: 67DjdrpIaZZmhXv9Iwa6Ev
 status: PUBLISHED
 createdAt: 2024-03-27T12:55:27.016Z
-updatedAt: 2025-08-18T14:50:12.265Z
-publishedAt: 2025-08-18T14:50:12.265Z
+updatedAt: 2025-09-24T17:30:36.583Z
+publishedAt: 2025-09-24T17:30:36.583Z
 firstPublishedAt: 2024-09-13T17:39:52.427Z
 contentType: tutorial
 productTeam: Financial
@@ -36,17 +36,27 @@ Para utilizar o Nuvei, siga os passos abaixo:
 
 <blockquote><ui>6. Em **Controle de pagamento**, selecione se deseja ativar o provedor em ambiente de teste clicando em **Ativar modo de teste**.</ui>
 
-<blockquote><ui>7. Para preencher os campos **Merchant Id**, **Merchant Site Id** e **Client Secret** (Secret Key), acesse as informações disponíveis em **Settings > My Integration Settings** dentro do painel de controle de sua conta no ambiente Nuvei.</ui>
+<blockquote><ui>7. Em **Liquidação automática**, selecione uma das seguintes opções:
+<ul>
+    	<li>**Usar comportamento recomendado pelo processador de pagamentos**: a captura não é automática, mas agendada de acordo com o prazo especificado pela adquirente que, além de indicar se o pagamento foi autorizado, pode especificar ou recomendar um número de dias para a captura no momento da resposta à autorização do pagamento (este é o comportamento padrão da plataforma).</li>
+    	<li>**Liquidação automática imediatamente após a autorização do pagamento**: a captura é automática e acontece logo após a autorização, mesmo que a transação possua uma análise antifraude.</li>
+    	<li>**Liquidação automática imediatamente após a análise antifraude**: a captura é automática e acontece logo após a autorização e análise antifraude (Caso você selecione este comportamento e não possua análise antifraude, a captura do pagamento acontecerá da mesma forma que no comportamento "Liquidação automática imediatamente após a autorização do pagamento").</li>
+    	<li>**Desativado**: a captura acontece somente quando o pedido for faturado. Caso escolha esse comportamento de captura, é importante atentar-se quanto ao tempo do faturamento. Isso porque o faturamento pode ultrapassar o tempo de captura acordado com o provedor de pagamentos e levar à perda da transação.</li>
+</ul></ui>  
+
+<blockquote><ui>8. Caso deseje utilizar o [split de pagamento](/pt/tutorial/split-de-pagamento--6k5JidhYRUxileNolY2VLx) em sua loja, selecione a opção **Ativar split de recebíveis e enviar recebedores de pagamento** e indique o **Responsável pelas tarifas de processamento de pagamentos** e **Responsável pelos estornos** (marketplace, sellers ou marketplaces e sellers).</ui>  
+
+<blockquote><ui>9. Para preencher os campos **Merchant Id**, **Merchant Site Id** e **Client Secret** (Secret Key), acesse as informações disponíveis em **Settings > My Integration Settings** dentro do painel de controle de sua conta no ambiente Nuvei.</ui>
 
 <blockquote><ui>> ⚠️ A Nuvei possui credenciais (Merchant Id, Merchant Site Id e Client Secret) específicas para cada tipo de ambiente. Acesse os ambientes de teste [(Integration)](sandbox.nuvei.com) e [Live](cpanel.nuvei.com) para identificar as informações relativas a cada um deles.</blockquote>
 <br>  
-<blockquote><ui>8. Em **Environment**, selecione se deseja configurar o provedor Nuvei no ambiente **Integration** ou **Live**.</ui>
+<blockquote><ui>10. Em **Environment**, selecione se deseja configurar o provedor Nuvei no ambiente **Integration** ou **Live**.</ui>
 
-<blockquote><ui>9. Em **Test 3ds challenge Integration only**, caso você tenha selecionado o ambiente de teste (**Integration**) é possível realizar testes de segurança 3DS por meio das opções **Force 3ds Challenge**, **Force 3ds Frictionless** ou **User cardHolder name**. Para mais informações sobre os testes, acesse a documentação [Nuvei](https://docs.nuvei.com/documentation/integration/testing/testing-cards/?highlight=test%20cards#3d-secure-v2-test-scenarios).</ui>
+<blockquote><ui>11. Em **Test 3ds challenge Integration only**, caso você tenha selecionado o ambiente de teste (**Integration**) é possível realizar testes de segurança 3DS por meio das opções **Force 3ds Challenge**, **Force 3ds Frictionless** ou **User cardHolder name**. Para mais informações sobre os testes, acesse a documentação [Nuvei](https://docs.nuvei.com/documentation/integration/testing/testing-cards/?highlight=test%20cards#3d-secure-v2-test-scenarios).</ui>
 
  <blockquote><ui>> ⚠️ Sempre que o **Environment** do provedor for configurado como **Live**, a opção selecionada para o campo **Test 3ds challenge Integration only** deve ser **User cardHolder name**.</blockquote>
 <br>  
-<blockquote><ui>10. Clique em **Salvar**.</ui>
+<blockquote><ui>12. Clique em **Salvar**.</ui>
 
 ## Configurar DMN Url na Nuvei
 

@@ -3,8 +3,8 @@ title: 'Setting up payments with PayJoy'
 id: MNN6mbLPEwr10jA9eavl1
 status: PUBLISHED
 createdAt: 2025-08-15T19:08:03.632Z
-updatedAt: 2025-08-25T13:16:15.834Z
-publishedAt: 2025-08-25T13:16:15.834Z
+updatedAt: 2025-09-24T18:41:53.260Z
+publishedAt: 2025-09-24T18:41:53.260Z
 firstPublishedAt: 2025-08-15T19:27:09.638Z
 contentType: tutorial
 productTeam: Financial
@@ -25,7 +25,7 @@ To configure PayJoy, follow the steps below:
 4. In **Provider Authorization**, fill in the **App key** and **App token** fields with data provided by your account PayJoy.
 5. If you wish to modify the identification name to be displayed for the PayJoy provider on the VTEX Admin screen, enter the information in the **Name** field in **Basic Information**.
 6. In **Payment Control**, select whether you want to activate the provider in a test environment by clicking **Enable test mode**.
-7. In **Provider Fields**, complete the fields **Partner**, **Device Model Id**, **Memory Id**, **Capacity Id**, **Color Id**, **Os Id**, and **Imei** according to the provider`s instructions.
+7. In **Provider Fields**, complete the fields **Partner**, **Country**, **Device Model Id**, **Memory Id**, **Capacity Id**, **Color Id**, **Os Id**, **Imei**, and **Test Mode** according to the provider`s instructions.
 8. Click `Save`.
 
 To configure the payment methods to be processed by PayJoy, access [Configuring Payment Conditions](/en/tutorial/how-to-configure-payment-conditions--tutorials_455).

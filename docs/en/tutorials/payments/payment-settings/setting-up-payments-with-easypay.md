@@ -3,8 +3,8 @@ title: 'Setting up payments with easypay'
 id: 3xJQqjMIn0ARDI1HcwK88J
 status: PUBLISHED
 createdAt: 2023-09-18T16:48:21.184Z
-updatedAt: 2025-02-20T21:51:18.025Z
-publishedAt: 2025-02-20T21:51:18.025Z
+updatedAt: 2025-09-24T19:00:57.899Z
+publishedAt: 2025-09-24T19:00:57.899Z
 firstPublishedAt: 2023-09-18T18:53:57.235Z
 contentType: tutorial
 productTeam: Financial
@@ -193,10 +193,11 @@ To configure the easypay affiliation, follow the steps below:
 1. In the VTEX Admin, go to __Store Settings > Payment > Providers__, or type __Providers__ in the search bar at the top of the page.
 2. On the providers screen, click the `New Provider` button.
 3. Type the name __easypay__ in the search bar and click on the name of the provider.
-4. Complete the __Application Key__ and __Application Token__ fields with your easypay account information.
-5. In __Payment Settlement__, select the __Use Payment Behavior Recommended by Payment Processor__ option.
-6. In __Enable payout split and sending payment recipients?__, select __Yes__.
-7. Click `Save`.
+4. Complete the __App Key__ and __App Token__ fields with your easypay account information.
+5. If you wish to modify the identification name to be displayed for the easypay provider on the VTEX Admin screen, enter the information in the __Name__ field in __Basic Information__.
+6. In __Payment Control__, select whether you want to activate the provider in a test environment by clicking __Enable test mode__.
+7. If you want to use [payment split](/en/tutorial/split-payment--6k5JidhYRUxileNolY2VLx) in your store, select the option __Enable payout split and send payment recipients__ and indicate the __Accountable for payment processing charges__ and __Accountable for chargebacks__ (marketplace, sellers or marketplaces and sellers).
+8. Click `Save`.
 
 ## Configure payment with Apple Pay on easypay (optional) 
 

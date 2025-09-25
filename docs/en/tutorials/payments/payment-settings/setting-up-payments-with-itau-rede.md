@@ -3,8 +3,8 @@ title: 'Setting up payments with Itaú Rede'
 id: 77BYOKxVzONWulAf8dTVSX
 status: PUBLISHED
 createdAt: 2024-04-18T15:03:32.890Z
-updatedAt: 2024-12-13T22:40:46.028Z
-publishedAt: 2024-12-13T22:40:46.028Z
+updatedAt: 2025-09-24T18:12:19.059Z
+publishedAt: 2025-09-24T18:12:19.059Z
 firstPublishedAt: 2024-04-25T14:54:53.085Z
 contentType: tutorial
 productTeam: Financial
@@ -100,7 +100,9 @@ To configure Itaú Rede, follow the steps below:
 
 <blockquote><ui>10. In the **delayToAutoSettle** field, enter the period for the order to be settled. Remember that the value of this field must be in accordance with the rule determined in the **Automatic settlement** field.</ui>
 
-<blockquote><ui>11. Click `Save`.</ui></blockquote>
+<blockquote><ui>11. In the **pixExpiration** field, enter the expiration time that a PIX QR Code must have in your store.</ui>    
+
+<blockquote><ui>12. Click `Save`.</ui></blockquote>
 
 ## Setting up the card payment condition
 

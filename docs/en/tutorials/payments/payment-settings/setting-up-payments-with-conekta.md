@@ -3,8 +3,8 @@ title: 'Setting up payments with Conekta'
 id: 7kiAD3SlnABF75xLSL3eSA
 status: PUBLISHED
 createdAt: 2022-08-11T12:41:42.110Z
-updatedAt: 2024-09-13T16:42:16.752Z
-publishedAt: 2024-09-13T16:42:16.752Z
+updatedAt: 2025-09-24T15:30:34.415Z
+publishedAt: 2025-09-24T15:30:34.415Z
 firstPublishedAt: 2022-08-11T12:54:43.579Z
 contentType: tutorial
 productTeam: Financial
@@ -28,7 +28,7 @@ To configure Conekta, follow the steps below:
 7. In __Habilitar meses sin intereses (MSI)__, select whether you want to activate the option to allow customers to split purchases into monthly payments (interest-free).
 8. In __Indicar número de MSI (3, 6, 9, 12)__, enter the number of months that customers can split the payment (interest-free).
 9. In __Indicar la duración del checkout en días (1 - 30)__, enter the maximum number of days for the order to expire (applicable for payments via Efectivo). 
-10. In __Tarjetas__, __Transferencia Bancaria__ and __Efectivo__, select whether you want to use these payment methods in your store.
+10. In __Indicar metodos de pago que se habilitaran, separados por coma. ej: cash, transfer, card, bnpl__, enter the payment methods you want to use in your store.
 11. Click `Save`.
 
 To configure the payment methods to be processed by Conekta, access [Configuring Payment Conditions](/en/tutorial/how-to-configure-payment-conditions--tutorials_455#).

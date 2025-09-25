@@ -3,8 +3,8 @@ title: 'Configurar pagamento com Dock Adquirente'
 id: 538RMLmZheQdTCgyG1MAA6
 status: PUBLISHED
 createdAt: 2025-06-11T21:40:53.256Z
-updatedAt: 2025-06-11T21:46:15.542Z
-publishedAt: 2025-06-11T21:46:15.542Z
+updatedAt: 2025-09-24T17:34:11.358Z
+publishedAt: 2025-09-24T17:34:11.358Z
 firstPublishedAt: 2025-06-11T21:46:15.542Z
 contentType: tutorial
 productTeam: Financial
@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-Na VTEX, é possível realizar a integração com o provedor de pagamento Dock Adquirente. Por meio deste provedor, sua loja pode oferecer pagamento por meio de cartão de créditos.
+Na VTEX, é possível realizar a integração com o provedor de pagamento Dock Adquirente. Por meio deste provedor, sua loja pode oferecer pagamento por meio de cartão de créditos e PIX.
 
 Para configurar Dock Adquirente, siga os passos abaixo:
 

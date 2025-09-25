@@ -3,8 +3,8 @@ title: 'Setting up payments with Nuvei'
 id: 67DjdrpIaZZmhXv9Iwa6Ev
 status: PUBLISHED
 createdAt: 2024-03-27T12:55:27.016Z
-updatedAt: 2025-08-18T14:50:12.265Z
-publishedAt: 2025-08-18T14:50:12.265Z
+updatedAt: 2025-09-24T17:30:36.583Z
+publishedAt: 2025-09-24T17:30:36.583Z
 firstPublishedAt: 2024-09-13T17:39:52.427Z
 contentType: tutorial
 productTeam: Financial
@@ -36,17 +36,27 @@ To use Nuvei, follow the steps below:
 
 <blockquote><ui>6. In **Payment Control**, select whether you want to activate the provider in a test environment by clicking **Enable test mode**.</ui>
 
-<blockquote><ui>7. To fill in the fields **Merchant Id**, **Merchant Site Id** and **Client Secret** (Secret Key), access the information available in **Settings > My Integration Settings** within the control panel of your account in the Nuvei environment.</ui>
+<blockquote><ui>7. In the **Automatic settlement** field, select one of the following option:
+<ul>
+    	<li>**Use behavior recommended by the payment processor**: Capture is not automatic; it is scheduled according to the period specified by the acquirer. The acquirer indicates whether the payment has been authorized and can determine or recommend a number of days for the capture upon payment authorization. (This is the platform`s default behavior).</li>
+    	<li>**Automatic capture immediately after payment authorization**: Capture is automatically performed right after payment authorization, even if the transaction includes an anti-fraud analysis.</li>
+    	<li>**Automatic capture immediately after anti-fraud analysis**: Capture is automatically performed right after payment authorization and anti-fraud analysis. If you select this behavior and do not have anti-fraud analysis, the system will perform the payment capture as in "Automatic capture immediately after payment authorization".</li>
+    	<li>**Disabled**: Capture takes place only when the order is invoiced. If you select this behavior, it is important to pay attention to the invoicing time, as invoicing can exceed the capture time agreed with the payment provider and lead to the cancellation of the transaction.</li>
+</ul></ui>
+
+<blockquote><ui>8. If you want to use [payment split](/en/tutorial/split-payment--6k5JidhYRUxileNolY2VLx) in your store, select the option **Enable payout split and send payment recipients** and indicate the **Accountable for payment processing charge** and **Accountable for chargebacks** (marketplace, sellers or marketplaces and sellers).</ui>  
+
+<blockquote><ui>9. To fill in the fields **Merchant Id**, **Merchant Site Id** and **Client Secret** (Secret Key), access the information available in **Settings > My Integration Settings** within the control panel of your account in the Nuvei environment.</ui>
 
 <blockquote><ui>> ⚠️ Nuvei has specific credentials (Merchant Id, Merchant Site Id and Client Secret) for each type of environment. Access the test [(Integration)](sandbox.nuvei.com) and [Live](cpanel.nuvei.com) environments to identify the credentials relating to each of them.</blockquote>
 <br>  
-<blockquote><ui>8. In **Environment**, select whether you want to configure the Nuvei provider in the **Integration** or **Live** environment.</ui>
+<blockquote><ui>10. In **Environment**, select whether you want to configure the Nuvei provider in the **Integration** or **Live** environment.</ui>
 
-<blockquote><ui>9. In **Test 3ds challenge Integration only**, if you have selected the test environment (**Integration**) it is possible to perform 3DS security tests using the **Force 3ds Challenge**, **Force 3ds Frictionless** or **User cardHolder name** options. For more information about the tests, access the [Nuvei](https://docs.nuvei.com/documentation/integration/testing/testing-cards/?highlight=test%20cards#3d-secure-v2-test-scenarios) documentation.</ui>
+<blockquote><ui>11. In **Test 3ds challenge Integration only**, if you have selected the test environment (**Integration**) it is possible to perform 3DS security tests using the **Force 3ds Challenge**, **Force 3ds Frictionless** or **User cardHolder name** options. For more information about the tests, access the [Nuvei](https://docs.nuvei.com/documentation/integration/testing/testing-cards/?highlight=test%20cards#3d-secure-v2-test-scenarios) documentation.</ui>
 
  <blockquote><ui>> ⚠️ Whenever the provider's **Environment** is configured as **Live**, the option selected for the **Test 3ds challenge Integration only** field must be **User cardHolder name**.</blockquote>
 <br>  
-<blockquote><ui>10. Click **Save**.</ui>
+<blockquote><ui>12. Click **Save**.</ui>
 
 ## Configuring DMN Url on Nuvei
 
