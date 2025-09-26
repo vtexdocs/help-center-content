@@ -3,8 +3,8 @@ title: 'VTEX Network'
 id: tutorials_5144
 status: PUBLISHED
 createdAt: 2017-04-27T21:49:16.911Z
-updatedAt: 2019-12-31T20:30:57.299Z
-publishedAt: 2019-12-31T20:30:57.299Z
+updatedAt: 2025-09-26T14:37:26.183Z
+publishedAt: 2025-09-26T14:37:26.183Z
 firstPublishedAt: 2017-04-27T23:11:18.046Z
 contentType: tutorial
 productTeam: Others
