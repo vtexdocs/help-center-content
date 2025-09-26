@@ -50463,6 +50463,37 @@
         },
         {
           "name": {
+            "en": "Order allocation",
+            "es": "Order allocation",
+            "pt": "Order allocation"
+          },
+          "slug": {
+            "en": "order-allocation",
+            "es": "order-allocation",
+            "pt": "order-allocation"
+          },
+          "origin": "",
+          "type": "category",
+          "children": [
+            {
+              "name": {
+                "en": "Seller selection excludes single seller of SKU with low coverage, causing unavailability in allocation step",
+                "es": "La selección de vendedores excluye a un único vendedor de SKU con baja cobertura, lo que provoca indisponibilidad en el paso de asignación",
+                "pt": "A seleção do vendedor exclui um único vendedor de SKU com baixa cobertura, causando indisponibilidade na etapa de alocação"
+              },
+              "slug": {
+                "en": "seller-selection-excludes-single-seller-of-sku-with-low-coverage-causing-unavailability-in-allocation-step",
+                "es": "la-seleccion-de-vendedores-excluye-a-un-unico-vendedor-de-sku-con-baja-cobertura-lo-que-provoca-indisponibilidad-en-el-paso-de-asignacion",
+                "pt": "a-selecao-do-vendedor-exclui-um-unico-vendedor-de-sku-com-baixa-cobertura-causando-indisponibilidade-na-etapa-de-alocacao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": {
             "en": "Order management",
             "es": "Order management",
             "pt": "Order management"
