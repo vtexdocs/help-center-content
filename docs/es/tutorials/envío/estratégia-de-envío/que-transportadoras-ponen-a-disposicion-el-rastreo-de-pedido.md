@@ -3,8 +3,8 @@ title: '¿Qué transportadoras ponen a disposición el rastreo de pedido?'
 id: frequentlyAskedQuestions_303
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:52.473Z
-updatedAt: 2023-03-31T01:16:49.121Z
-publishedAt: 2023-03-31T01:16:49.121Z
+updatedAt: 2025-09-26T14:36:28.938Z
+publishedAt: 2025-09-26T14:36:28.938Z
 firstPublishedAt: 2019-01-24T22:12:09.421Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -37,4 +37,4 @@ También es posible [incluir variable](/es/tutorial/incluir-variaveis-do-pedido-
 
 Como se detalla [en este problema conocido](/es/known-issues/actualizacion-automatica-del-rastreo-de-entregas-via-correios--7hKUU5Qp4AyCW2QaMQC0S6), la integración de rastreo nativa con la oficina de correos está actualmente deshabilitada.
 
-Una alternativa es utilizar soluciones desarrolladas por parceros para el seguimiento de las entregas de Correios, como el [rastreo de XP Agência](https://rastreio.xpagencia.com.br/).
+Una alternativa es utilizar soluciones desarrolladas por los partners para el seguimiento de las entregas de Correios, como el [rastreo de XP Agência](https://rastreio.xpagencia.com.br/).

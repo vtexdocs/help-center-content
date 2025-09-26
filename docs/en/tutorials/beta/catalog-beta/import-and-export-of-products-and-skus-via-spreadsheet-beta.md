@@ -3,8 +3,8 @@ title: 'Import and export of products and SKUs via spreadsheet (Beta)'
 id: 5udKxWP1ZeBD7QB7Fy2BNl
 status: PUBLISHED
 createdAt: 2025-09-05T16:54:23.995Z
-updatedAt: 2025-09-16T13:38:01.425Z
-publishedAt: 2025-09-16T13:38:01.425Z
+updatedAt: 2025-09-26T20:18:23.873Z
+publishedAt: 2025-09-26T20:18:23.873Z
 firstPublishedAt: 2025-09-05T18:41:30.755Z
 contentType: tutorial
 productTeam: Marketing & Merchandising

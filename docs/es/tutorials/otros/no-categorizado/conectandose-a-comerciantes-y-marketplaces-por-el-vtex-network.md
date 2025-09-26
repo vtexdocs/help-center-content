@@ -3,8 +3,8 @@ title: 'VTEX Network'
 id: tutorials_5144
 status: PUBLISHED
 createdAt: 2017-04-27T21:49:16.911Z
-updatedAt: 2019-12-31T20:30:57.299Z
-publishedAt: 2019-12-31T20:30:57.299Z
+updatedAt: 2025-09-26T14:37:26.183Z
+publishedAt: 2025-09-26T14:37:26.183Z
 firstPublishedAt: 2017-04-27T23:11:18.046Z
 contentType: tutorial
 productTeam: Others
@@ -17,7 +17,7 @@ subcategoryId: 54gbzsku02c4bKmgFbp3v3
 
 VTEX Network es un portal que catalogará todos los servicios y soluciones de comercio digital en el mundo.
 
-Actualmente está siendo reformulado para ofrecer a los parceros VTEX extensiones y servicios de consultoría, entrenamientos, financieros, jurídicos y tecnológicos.
+Actualmente está siendo reformulado para ofrecer a los partners VTEX extensiones y servicios de consultoría, entrenamientos, financieros, jurídicos y tecnológicos.
 
 Nuestro objetivo es traer lo que el Network era antes (un sistema que interconecta sellers a marketplaces VTEX y viceversa) dentro de la plataforma de manera nativa y con configuración intuitiva.
 

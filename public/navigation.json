@@ -16110,6 +16110,51 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
+                },
+                {
+                  "name": {
+                    "en": "Import and export product and SKU images via spreadsheet (Beta)",
+                    "es": "Importación y exportación de imágenes de productos y SKUs mediante plantilla (Beta)",
+                    "pt": "Importação e exportação de imagens de produtos e SKUs via planilha (Beta)"
+                  },
+                  "slug": {
+                    "en": "import-and-export-product-and-sku-images-via-spreadsheet-beta",
+                    "es": "importacion-y-exportacion-de-imagenes-de-productos-y-skus-mediante-plantilla",
+                    "pt": "importacao-e-exportacao-de-imagens-de-produtos-e-skus-via-planilha-beta"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Import and export product specifications via spreadsheet (Beta)",
+                    "es": "Importación y exportación de especificaciones de producto mediante plantilla (Beta)",
+                    "pt": "Importação e exportação de especificações de produtos via planilha (Beta)"
+                  },
+                  "slug": {
+                    "en": "import-and-export-product-specifications-via-spreadsheet-beta",
+                    "es": "importacion-y-exportacion-de-especificaciones-de-producto-mediante-plantilla",
+                    "pt": "importacao-e-exportacao-de-especificacoes-de-produtos-via-planilha-beta"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Import and export SKU specifications via spreadsheet (Beta)",
+                    "es": "Importación y exportación de especificaciones de SKU mediante plantilla (Beta)",
+                    "pt": "Importação e exportação de especificações de SKUs via planilha (Beta)"
+                  },
+                  "slug": {
+                    "en": "import-and-export-sku-specifications-via-spreadsheet-beta",
+                    "es": "importacion-y-exportacion-de-especificaciones-de-sku-mediante-plantilla-beta",
+                    "pt": "importacao-e-exportacao-de-especificacoes-de-skus-via-planilha-beta"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
                 }
               ]
             },

@@ -3,8 +3,8 @@ title: 'Why is a payment stuck at Authorizing status?'
 id: 3hMw16ZijKm6QmSSY0KOGk
 status: PUBLISHED
 createdAt: 2019-01-24T20:30:45.163Z
-updatedAt: 2019-12-31T14:25:09.791Z
-publishedAt: 2019-12-31T14:25:09.791Z
+updatedAt: 2025-09-26T13:15:48.309Z
+publishedAt: 2025-09-26T13:15:48.309Z
 firstPublishedAt: 2019-01-24T20:30:45.528Z
 contentType: frequentlyAskedQuestion
 productTeam: Financial
