@@ -52,7 +52,7 @@ Additionally, once the SKU is created, you can include it in a [bundle](/en/tuto
 
 See the following sections for details about the form fields and instructions on how to complete them.
 
-> ⚠️ There is a limit of 50 SKUs per product. To request an extension of the limit, please contact <a href= "https://support.vtex.com/hc/pt-br/requests">our Support</a>.
+> ⚠️ There is a limit of 50 SKUs per product. To request an extension of the limit, please contact [our Support](https://support.vtex.com/hc/pt-br/requests).
 
 ## Name and status
 

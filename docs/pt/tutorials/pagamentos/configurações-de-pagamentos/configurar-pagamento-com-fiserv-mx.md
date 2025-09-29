@@ -1,7 +1,7 @@
 ---
 title: 'Configurar pagamento com Fiserv MX'
 id: 3vcYUO1y0Zp9DWVI1AcvfK
-status: CHANGED
+status: PUBLISHED
 createdAt: 2024-10-07T20:39:42.430Z
 updatedAt: 2025-02-04T16:29:57.587Z
 publishedAt: 2025-02-04T16:20:46.056Z

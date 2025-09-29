@@ -1,7 +1,7 @@
 ---
 title: 'Módulos de VTEX II'
 id: 3MYcZaojb5HSUg6ufm6GxQ
-status: CHANGED
+status: PUBLISHED
 createdAt: 2024-02-07T13:20:33.477Z
 updatedAt: 2024-02-22T17:08:09.649Z
 publishedAt: 2024-02-22T14:07:12.569Z
@@ -20,8 +20,6 @@ Además de los módulos abordados en el artículo anterior, como [Catálogo](/es
 - [Pagos](#pagos)
 - [Pedidos](#pedidos)
 - [Checkout](#checkout)
-
-## Pagos
 
 El módulo [Pagos](/es/tracks/pagos--6GAS7ZzGAm7AGoEAwDbwJG/kdPbEIWf8Xq8tESQvViMB) de VTEX se encarga de coordinar todas las operaciones financieras que se realizan en una tienda. Configurándolo, puedes especificar qué proveedores, medios y condiciones de pago se ofrecerán a los clientes en el checkout, además de revisar la información sobre las transacciones de pago realizadas para cada pedido.
 
@@ -161,14 +159,14 @@ Sin embargo, para que el cliente pueda realizar una compra y generar un pedido, 
 
 ### Integración de pedidos
 
-Es habitual que las tiendas deseen [integrar sus pedidos](https://developers.vtex.com/docs/guides/erp-integration-guide) a sistemas como ERP (Enterprise Resource Planning) y WMS (Warehouse Management System). La [implementación del backend](/en/tracks/serie-general-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu) permite a la tienda automatizar algunas acciones en el procesamiento de pedidos, como:
+Es habitual que las tiendas deseen [integrar sus pedidos](https://developers.vtex.com/docs/guides/erp-integration-guide) a sistemas como ERP (Enterprise Resource Planning) y WMS (Warehouse Management System). La [implementación del backend](/es/tracks/serie-general-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu) permite a la tienda automatizar algunas acciones en el procesamiento de pedidos, como:
 
 - Recibir notificaciones del progreso de los pedidos y su status en el [flujo de pedidos](/es/tutorial/flujo-y-status-de-pedidos--tutorials_196).
 - Obtener información sobre los pedidos que deben ser alistados y empacados.
 - Enviar la [factura](/es/tutorial/como-facturar-manualmente-un-pedido--7p1h852V5t54KyscpgxE2v) a la plataforma VTEX, que la remitirá al cliente.
 - Realizar [cambios de ítems](/es/tutorial/cambiar-items-de-un-pedido-finalizado--tutorials_190) en el pedido.
 
-Existen dos formas diferentes de monitorear los cambios de status de los pedidos, el [feed](https://developers.vtex.com/docs/guides/orders-feed) o el [hook](https://developers.vtex.com/docs/guides/orders-feed#hook). Consulta más información sobre integración de pedidos en el artículo [Integraciones de backend](/en/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu).
+Existen dos formas diferentes de monitorear los cambios de status de los pedidos, el [feed](https://developers.vtex.com/docs/guides/orders-feed) o el [hook](https://developers.vtex.com/docs/guides/orders-feed#hook). Consulta más información sobre integración de pedidos en el artículo [Integraciones de backend](/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu).
 
 ### Gestionar pedidos
 
@@ -188,7 +186,7 @@ Para ubicar el registro de una compra en el Admin VTEX, además de poder [filtra
 - Email del cliente
 - Documento del cliente
 
-> ⚠️ Solo se puede acceder a la información de los pedidos creados en los dos últimos años. Este mismo periodo es aplicable para que los clientes accedan a sus pedidos a través de <a href="">Mi cuenta</a>.
+> ⚠️ Solo se puede acceder a la información de los pedidos creados en los dos últimos años. Este mismo periodo es aplicable para que los clientes accedan a sus pedidos a través de Mi cuenta.
 
 VTEX proporciona dos funcionalidades importantes para que los clientes de la tienda puedan hacer un seguimiento de sus pedidos: [emails transaccionales](#emails-transaccionales) y el espacio de los clientes denominado [Mi Cuenta](#funcionalidad-mi-cuenta).
 

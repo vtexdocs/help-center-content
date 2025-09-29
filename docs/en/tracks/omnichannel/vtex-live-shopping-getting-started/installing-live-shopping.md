@@ -18,7 +18,7 @@ order: 2
 The **Live Shopping** solution is compatible with the following frontend technologies:
 
 * [Store Framework (VTEX IO)](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ#store-framework)
-* [Legacy CMS Portal](/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj)
+* [Legacy CMS Portal](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj)
 * [Headless CMS](/en/tutorial/headless-cms-overview--3U5gvhHdQL0jczYH8gjX09)
 * External stores
 

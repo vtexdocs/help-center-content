@@ -56,7 +56,7 @@ Los datos que se pueden modificar con el cambio de pedidos son:
 
 El cambio de pedidos no es posible en los casos de:
 
-* [Pedidos incompletos](/pt/tutorial/entendendo-os-pedidos-incompletos--tutorials_294): cuando el pedido no contiene toda la información necesaria para ser finalizado en la plataforma.
+* [Pedidos incompletos](/es/tutorial/entendendo-os-pedidos-incompletos--tutorials_294): cuando el pedido no contiene toda la información necesaria para ser finalizado en la plataforma.
 * Transacción compartida: pedidos con un o más _sellers_ y pago realizado al _marketplace_.
 * Pedidos ya modificados por la tienda.
 * Pedidos con los siguientes status:

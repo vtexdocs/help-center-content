@@ -42,7 +42,7 @@ Learn more about adding synonyms in [Creating synonyms](/en/tutorial/creating-sy
 
 ## Best practices
 
-> ❗ Don't use [substitute words](/pt/tutorial/otimizar-as-buscas-com-palavras-substitutas--32FqSsl5VuQyiIMEc02Uwu) from the product/SKU in the Catalog with Intelligent Search. Instead, use only the synonym feature, which allows for more scalable management of terms per product.
+> ❗ Don't use [substitute words](/en/tutorial/otimizar-as-buscas-com-palavras-substitutas--32FqSsl5VuQyiIMEc02Uwu) from the product/SKU in the Catalog with Intelligent Search. Instead, use only the synonym feature, which allows for more scalable management of terms per product.
 
 ### Results sorting
 
@@ -70,7 +70,7 @@ Here are some examples of synonym configurations:
 | `shoe ⇄ shoes` | Bidirectional | ❌ Redundant configuration. Intelligent Search automatically corrects variations like this. |
 | `running shoes ⇄ shoes for running` | Bidirectional | ❌ Redundant configuration. Intelligent Search automatically corrects variations like this. |
 
-> ℹ️ The [Intelligent Synonyms](/pt/tutorial/sinonimos-inteligentes--1rR47Kk96UgFYwh8dkDG7i) feature generates term recommendations for adding synonyms, in addition to manual configuration. If you are interested in implementing this feature, please contact our [Support team](https://support.vtex.com/hc/pt-br/requests). Extra fees may apply in the future.
+> ℹ️ The [Intelligent Synonyms](/en/tutorial/sinonimos-inteligentes--1rR47Kk96UgFYwh8dkDG7i) feature generates term recommendations for adding synonyms, in addition to manual configuration. If you are interested in implementing this feature, please contact our [Support team](https://support.vtex.com/hc/pt-br/requests). Extra fees may apply in the future.
 
 ## Learn more
 

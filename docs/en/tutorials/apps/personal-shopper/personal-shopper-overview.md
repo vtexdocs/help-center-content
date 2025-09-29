@@ -101,7 +101,7 @@ To configure your Personal Shopper preferences, follow these steps:
 1. Within the Admin, go to **Apps > Personal Shopper > Setting**.
 2. Switch to the `Settings` tab.
 3. In the **General account** section, fill out the following fields based on the instructions below:
-    * **Url client**: enter the URL of the page you created in the [Creating a Personal Shopper landing page](/tutorial/visao-geral-do-personal-shopper--12dC0UMD0C6x6kw43LF8MH#creating-a-personal-shopper-landing-page) section. For example: `https://www.mystore.com/personal-shopper`.
+    * **Url client**: enter the URL of the page you created in the [Creating a Personal Shopper landing page](/en/tutorial/visao-geral-do-personal-shopper--12dC0UMD0C6x6kw43LF8MH#creating-a-personal-shopper-landing-page) section. For example: `https://www.mystore.com/personal-shopper`.
     * **Store name**: enter the name of your store. This name will be used in emails sent to customers and personal shoppers.
 4. In the **Privacy policy, the terms and conditions** section, configure the appropriate links and text to request user consent for the privacy policy and terms and conditions of data processing.
 5. In the **Messages and notifications** section, customize the following messages:
@@ -199,9 +199,9 @@ As a registered Personal Shopper consultant, you have the ability to create call
 
 ![calls-personalshopper](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/apps/personal-shopper/personal-shopper-overview_3.png)
 
-If you choose to start an instant call, click `Start call` to begin the call with the customer. This allows you to engage in real-time interaction and provide personalized assistance. For more information on conducting a call, see the [Conducting a call](/tutorial/visao-geral-do-personal-shopper--12dC0UMD0C6x6kw43LF8MH#conducting-a-call) section. In this case, please ensure that you grant your browser the necessary permissions for microphone and camera access to avoid any issues during the call.
+If you choose to start an instant call, click `Start call` to begin the call with the customer. This allows you to engage in real-time interaction and provide personalized assistance. For more information on conducting a call, see the [Conducting a call](/en/tutorial/visao-geral-do-personal-shopper--12dC0UMD0C6x6kw43LF8MH#conducting-a-call) section. In this case, please ensure that you grant your browser the necessary permissions for microphone and camera access to avoid any issues during the call.
 
-If you opt to schedule a call for later, you will be provided with the call link to share with the participants. For more information, see the [Joining a scheduled event](/tutorial/visao-geral-do-personal-shopper--12dC0UMD0C6x6kw43LF8MH#joining-a-scheduled-event) section.
+If you opt to schedule a call for later, you will be provided with the call link to share with the participants. For more information, see the [Joining a scheduled event](/en/tutorial/visao-geral-do-personal-shopper--12dC0UMD0C6x6kw43LF8MH#joining-a-scheduled-event) section.
 
 ### Managing availability
 
@@ -223,7 +223,7 @@ To join an event requested by a customer or an event that you have previously cr
 4. Click `Join` to join the call with the customer.
 5. Click `Start call`.
 
-For more information on conducting a call once you have joined, see the [Conducting a call](/tutorial/visao-geral-do-personal-shopper--12dC0UMD0C6x6kw43LF8MH#conducting-a-call) section.
+For more information on conducting a call once you have joined, see the [Conducting a call](/en/tutorial/visao-geral-do-personal-shopper--12dC0UMD0C6x6kw43LF8MH#conducting-a-call) section.
 
 Please ensure that you grant your browser the necessary permissions for microphone and camera access to avoid any issues during the call.
 

@@ -1,7 +1,7 @@
 ---
 title: 'VTEX Modules II'
 id: 3MYcZaojb5HSUg6ufm6GxQ
-status: CHANGED
+status: PUBLISHED
 createdAt: 2024-02-07T13:20:33.477Z
 updatedAt: 2024-02-22T17:08:09.649Z
 publishedAt: 2024-02-22T14:07:12.569Z
@@ -46,7 +46,7 @@ The table below shows the main agents and terms used in the Payments context:
 | **Issuing bank** | Financial institution that authorizes a payment method, such as credit or debit card. |
 | **Payment provider** | Company that offers support for electronic transactions across various payment methods. |
 | **Anti-fraud provider** | Company that conducts risk analysis on credit and debit card transactions. |
-| **Payment Provider Protocol** | Protocol used by payment or anti-fraud providers to transmit payment data. Learn more about how providers integrate with VTEX in [Payment Provider Protocol](/pt/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m). |
+| **Payment Provider Protocol** | Protocol used by payment or anti-fraud providers to transmit payment data. Learn more about how providers integrate with VTEX in [Payment Provider Protocol](/en/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m). |
 | **Payment method** | Methods available to customers when paying for their orders, such as credit cards, debit cards, and digital wallets. |
 | **Payment condition** | Rules established for a specific payment method, e.g., the maximum number of installments allowed and applicable interest. |
 
@@ -186,7 +186,7 @@ To find a purchase record in the VTEX Admin, you can either [filter orders](/en/
 - Customer email
 - Customer ID
 
-> ⚠️ You can only access details about orders created in the last two years. This same period applies to customers accessing their orders via the <a href="">My Account</a> page.
+> ⚠️ You can only access details about orders created in the last two years. This same period applies to customers accessing their orders via the My Account page.
 
 To enable customers to track their orders, VTEX offers two important features: [transactional emails](#transactional-emails) and a dedicated customer area called [My Account](#my-account-feature).
 

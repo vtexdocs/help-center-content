@@ -65,7 +65,7 @@ Para mais informações sobre como iniciar uma operação cross-border, é neces
 
 ## Pedidos
 
-Feitas as configurações obrigatórias de [Pedidos](/tracks/trilha-geral-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/3MYcZaojb5HSUg6ufm6GxQ#pedidos), a loja pode expandir suas vendas disponibilizando [assinaturas](#assinaturas) de pedidos recorrentes e otimizar o gerenciamento de pedidos no Admin VTEX usando o [VTEX DO](#vtex-do).
+Feitas as configurações obrigatórias de [Pedidos](/pt/tracks/trilha-geral-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/3MYcZaojb5HSUg6ufm6GxQ#pedidos), a loja pode expandir suas vendas disponibilizando [assinaturas](#assinaturas) de pedidos recorrentes e otimizar o gerenciamento de pedidos no Admin VTEX usando o [VTEX DO](#vtex-do).
 
 ### Assinaturas
 

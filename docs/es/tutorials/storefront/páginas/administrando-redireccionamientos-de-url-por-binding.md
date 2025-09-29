@@ -17,7 +17,7 @@ subcategoryId: 1znnjA17XqaUNdNFr42PW5
 
 Las redirecciones son una herramienta para reenviar tanto a los usuarios como a los motores de búsqueda a una URL activa más relevante o similar diferente de la que solicitaron inicialmente.
 
-Las tiendas que tienen varios dominios suelen solicitar gestionar la redirección según el [*binding*](/en/tutorial/what-is-binding--4NcN3NJd0IeYccgWCI8O2W) debido a la complejidad que presentan las varias URL disponibles. 
+Las tiendas que tienen varios dominios suelen solicitar gestionar la redirección según el [*binding*](/es/tutorial/what-is-binding--4NcN3NJd0IeYccgWCI8O2W) debido a la complejidad que presentan las varias URL disponibles. 
 
 Con esto en mente, VTEX le permite gestionar sus redirecciones de URL de acuerdo con el *binding* de la tienda a través de la interfaz del Admin.
 

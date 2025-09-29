@@ -1,7 +1,7 @@
 ---
 title: 'The reservation'
 id: 6axzVCJECyHPGHzYjWDR52
-status: CHANGED
+status: PUBLISHED
 createdAt: 2019-11-14T14:40:00.695Z
 updatedAt: 2020-11-27T19:40:09.586Z
 publishedAt: 2020-02-13T15:02:21.694Z

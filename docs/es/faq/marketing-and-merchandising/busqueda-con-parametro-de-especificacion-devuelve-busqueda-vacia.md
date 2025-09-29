@@ -1,7 +1,7 @@
 ---
 title: 'Búsqueda con parámetro de especificación devuelve búsqueda vacía. ¿Que hacer?'
 id: 5qG7kkEeOsG6OQgu8YAKko
-status: CHANGED
+status: PUBLISHED
 createdAt: 2018-01-31T15:46:42.842Z
 updatedAt: 2020-11-27T19:39:57.229Z
 publishedAt: 2020-04-20T15:15:13.316Z
@@ -14,7 +14,7 @@ locale: es
 legacySlug: busqueda-con-parametro-de-especificacion-devuelve-busqueda-vacia
 ---
 
-> ⚠️ **Atención**: VTEX presenta dos opciones de búsqueda - La búsqueda VTEX y VTEX Intelligent Search. Este artículo se refiere a la búsqueda VTEX. Para saber más sobre la aplicación VTEX Intelligent Search, consulte <a href = "/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb">nuestra guía</a>.
+> ⚠️ **Atención**: VTEX presenta dos opciones de búsqueda - La búsqueda VTEX y VTEX Intelligent Search. Este artículo se refiere a la búsqueda VTEX. Para saber más sobre la aplicación VTEX Intelligent Search, consulte [nuestra guía](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb).
 
 En el caso de que la URL `http://www.{account-name}.com.br/busca/?fq=specificationFilter_{XXX}:{Y}` no está trayendo los productos/SKUs que tienen la especificación deseada, es posible que el parámetro __Filtro__ no esté marcado en el registro del campo de producto/SKU.
 

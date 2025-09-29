@@ -1,7 +1,7 @@
 ---
 title: 'Subscription plans'
 id: 5kczKRqHEsrs1tYtRcY8wR
-status: CHANGED
+status: PUBLISHED
 createdAt: 2021-07-06T14:33:32.850Z
 updatedAt: 2022-07-26T22:51:42.731Z
 publishedAt: 2021-07-06T17:47:04.593Z
@@ -15,7 +15,9 @@ locale: en
 subcategoryId: 1rA9wuuskW3PpjvMrhatAM
 ---
 
-The **Plans** page in the **Subscriptions** module displays a list of all subscription plans configured in your store, whether they have been created via the [New plan page](/en/tutorial/como-criar-um-plano-de-assinatura-beta--1qGRoFczm98Wgt81f9mUqC) or [SKU attachments](/en/tutorial/como-criar-um-anexo-de-assinatura--2bUuKyPflA8cOGLv8OvaKK). 
+> ℹ️ This feature is in Beta stage, meaning we are working to improve it. If you have any questions, please contact [our Support Center](https://support.vtex.com/hc/en-us/requests).
+
+The **Plans** page in the **Subscriptions** module displays a list of all subscription plans configured in your store, whether they have been created via the [**New plan** page](/en/tutorial/como-criar-um-plano-de-assinatura-beta--1qGRoFczm98Wgt81f9mUqC) or [SKU attachments](/en/tutorial/como-criar-um-anexo-de-assinatura--2bUuKyPflA8cOGLv8OvaKK). 
 
 To offer subscription plans for your customers, you need to install the Subscriptions app and make all the necessary configurations. For more information, read the article [How to configure Subscriptions in your store](/en/tutorial/como-configurar-assinaturas--1FA9dfE7vJqxBna9Nft5Sj).
 
@@ -34,7 +36,7 @@ Here are the main features of this page:
 
 ## Create a new plan
 
-By clicking on the `New plan` button, you will be redirected to the page for adding a subscription plan. Check out our article [Creating a subscription plan](/en/tutorial/como-criar-um-plano-de-assinatura-beta--1qGRoFczm98Wgt81f9mUqC) for more details.
+By clicking on the `New plan` button, you will be redirected to the page for adding a subscription plan. Check out our article [**Creating a subscription plan**](/en/tutorial/como-criar-um-plano-de-assinatura-beta--1qGRoFczm98Wgt81f9mUqC) for more details.
 
 ## Search
 
@@ -79,6 +81,6 @@ By default, the number of rows displayed on each page is 5. If you want to see a
 
 To navigate between pages in the subscription plan list, use the <i class="fas fa-chevron-left"></i> and <i class="fas fa-chevron-right"></i> arrows in the lower right corner of the page.
 
-## Learn more
+#### **LEARN MORE**
 
 * [Creating a subscription plan](/en/tutorial/como-criar-um-plano-de-assinatura-beta--1qGRoFczm98Wgt81f9mUqC)

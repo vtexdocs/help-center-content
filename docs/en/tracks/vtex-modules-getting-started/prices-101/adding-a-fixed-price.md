@@ -1,7 +1,7 @@
 ---
 title: 'Adding a fixed price'
 id: 3g39iXkQza4AW7C7L814mj
-status: CHANGED
+status: PUBLISHED
 createdAt: 2019-07-04T13:53:38.630Z
 updatedAt: 2025-05-01T16:09:41.194Z
 publishedAt: 2024-08-20T13:48:57.885Z
@@ -16,9 +16,9 @@ order: 10
 ---
 
 There are three ways to create a fixed price:
-(#admin)
+
 - [Via the Pricing module in the Admin](#admin)
-- [Via the fixed price template](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/5lV5s54lQ69zPXxngbpI5D)
+- [Via the fixed price template](/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/5lV5s54lQ69zPXxngbpI5D)
 - [Via Pricing API](#pricing-api)
 
 ## Admin

@@ -1,7 +1,7 @@
 ---
 title: 'Multimedia - Visión general'
 id: 31fhjHTt4TBoo50AmGQ9b2
-status: CHANGED
+status: PUBLISHED
 createdAt: 2023-05-29T23:26:35.354Z
 updatedAt: 2025-03-10T18:01:14.864Z
 publishedAt: 2024-07-03T19:28:25.937Z

@@ -1,7 +1,7 @@
 ---
 title: 'Cart restrictions on item promotions'
 id: 257buCeizCJPTkixvogxVq
-status: CHANGED
+status: PUBLISHED
 createdAt: 2020-06-18T18:05:01.771Z
 updatedAt: 2020-11-27T19:40:24.352Z
 publishedAt: 2020-06-29T15:29:03.500Z

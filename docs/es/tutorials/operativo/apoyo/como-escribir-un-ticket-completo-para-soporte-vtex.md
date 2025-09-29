@@ -69,7 +69,7 @@ Si el error no se produce después del bloqueo de los archivos o en el tema pred
 
 ## Rellenar un ticket
 
-Si, después de seguir todos los pasos de troubleshooting indicados anteriormente, el problema persiste, abra un ticket con el [Soporte VTEX](/support?/cultureInfo=pt-br) siguiendo las indicaciones de la tabla a continuación.
+Si, después de seguir todos los pasos de troubleshooting indicados anteriormente, el problema persiste, abra un ticket con el [Soporte VTEX](/es/support?/cultureInfo=pt-br) siguiendo las indicaciones de la tabla a continuación.
 
 | Información | Guías |
 | ----------- | ----------- |

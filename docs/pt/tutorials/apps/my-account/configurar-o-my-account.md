@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 1RWR7qSyaREbD5RfgCjdYG
 ---
 
-> ℹ️ Em [Minha Conta](/es/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh), os clientes conseguem acessar somente os seus pedidos criados nos últimos dois anos.
+> ℹ️ Em [Minha Conta](/pt/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh), os clientes conseguem acessar somente os seus pedidos criados nos últimos dois anos.
 
 O novo [My Account](/pt/tutorial/como-funciona-o-my-account--2BQ3GiqhqGJTXsWVuio3Xh) já está instalado em todas as contas VTEX em um **ambiente teste**, permitindo ajustes na nova página sem impactos na experiência do usuário. 
 

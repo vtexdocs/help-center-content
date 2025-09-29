@@ -33,6 +33,6 @@ All VTEX clients using Mercado Pago Pro had the Payment App - a feature responsi
 
 Clients can now configure Mercado Pago Pro as a payment method associated with the MercadoPagoV1 Gateway affiliation.
 
-For more details, check out our article on [how to configure Mercado Pago Pro as a payment method](/pt/tutorial/como-configurar-mercado-pago-pro-como-meio-de-pagamento--520AthtalgojtTUKw0La9S?&utm_source=autocomplete "how to configure Mercado Pago pro as a payment method").
+For more details, check out our article on [how to configure Mercado Pago Pro as a payment method](/en/tutorial/como-configurar-mercado-pago-pro-como-meio-de-pagamento--520AthtalgojtTUKw0La9S?&utm_source=autocomplete "how to configure Mercado Pago pro as a payment method").
 
 If you have any questions, contact your CSM - Customer Success Manager -, your account manager at VTEX.

@@ -15,7 +15,7 @@ trackSlugEN: proximos-pasos-tras-el-go-live
 order: 1
 ---
 
-Ahora que la tienda está configurada en el entorno VTEX y el [go-live](/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/6xYnNxDHUcY6FyChgziCoH) se completó con éxito, presentaremos las funcionalidades y [soluciones adicionales](/en/tracks/proximos-pasos-tras-el-go-live--3J7WFZyvTcoiwkcIVFVhIS/1t2QBZvrOBSLgvHaAV9fYm) disponibles que ayudan a optimizar el rendimiento de las ventas y la expansión de la operación con el objetivo de contribuir al desarrollo continuo del negocio.
+Ahora que la tienda está configurada en el entorno VTEX y el [go-live](/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/6xYnNxDHUcY6FyChgziCoH) se completó con éxito, presentaremos las funcionalidades y [soluciones adicionales](/es/tracks/proximos-pasos-tras-el-go-live--3J7WFZyvTcoiwkcIVFVhIS/1t2QBZvrOBSLgvHaAV9fYm) disponibles que ayudan a optimizar el rendimiento de las ventas y la expansión de la operación con el objetivo de contribuir al desarrollo continuo del negocio.
 
 > ⚠️ Puedes contratar [partners](https://partnerportal.vtex.com/) para ayudar con el desarrollo de la tienda y la gestión de las soluciones descritas en este artículo a través de [VTEX Partner Portal](/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#implementation-partners) (solamente en portugués). Para acceder al portal, el usuario debe tener [acceso al Admin VTEX](/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/4EPwTXx5oFdSG1dA3zIchz) de una tienda.
 

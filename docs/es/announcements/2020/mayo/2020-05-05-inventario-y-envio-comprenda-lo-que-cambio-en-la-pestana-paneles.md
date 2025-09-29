@@ -1,7 +1,7 @@
 ---
 title: 'Inventario y envío: comprenda lo que cambió en la pestaña "Paneles".'
 id: 1YNfaeNG206XKI2UbGBRSl
-status: CHANGED
+status: PUBLISHED
 createdAt: 2020-05-05T18:56:51.879Z
 updatedAt: 2020-11-27T19:40:23.141Z
 publishedAt: 2020-05-14T14:38:09.360Z

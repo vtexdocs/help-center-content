@@ -1,7 +1,7 @@
 ---
 title: 'Redirecionamento pela busca com VTEX Intelligent Search'
 id: 256MC65x12CEWob3TYfpkA
-status: CHANGED
+status: PUBLISHED
 createdAt: 2020-06-30T16:24:57.524Z
 updatedAt: 2020-11-27T19:40:29.284Z
 publishedAt: 2020-07-14T16:52:08.780Z

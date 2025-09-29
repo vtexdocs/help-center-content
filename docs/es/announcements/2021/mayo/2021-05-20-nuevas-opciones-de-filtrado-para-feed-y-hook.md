@@ -19,7 +19,7 @@ Hemos mejorado las opciones de configuración del [Feed y Hook](https://develope
 
 ## ¿Qué cambió?
 
-Anteriormente, el Feed y Hook_ _solo registraban cambios en el [status](/en/tutorial/order-status-table-oms--frequentlyAskedQuestions_773?&utm_source=autocomplete#) de los pedidos.
+Anteriormente, el Feed y Hook_ _solo registraban cambios en el [status](/es/tutorial/order-status-table-oms--frequentlyAskedQuestions_773?&utm_source=autocomplete#) de los pedidos.
 
 Con la nueva configuración, se puede registrar cualquier cambio que se produzca en un pedido. Esto se hace por medio de expresiones [JSONata](https://jsonata.org/) configuradas en la API de pedidos, lo que permite un filtrado altamente personalizable.
 

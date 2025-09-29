@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 6Hwvt2WIqemZXRG5fQDZwG
 ---
 
-> ℹ️ Esta funcionalidad se encuentra en fase beta, lo que significa que estamos trabajando para mejorarla. Si tienes alguna pregunta, ponte en contacto con nuestro <a href = "https://support.vtex.com/hc/pt-br/requests">Soporte</a>.  
+> ℹ️ Esta funcionalidad se encuentra en fase beta, lo que significa que estamos trabajando para mejorarla. Si tienes alguna pregunta, ponte en contacto con nuestro [Soporte](https://support.vtex.com/hc/pt-br/requests).  
 
 **Data Insights Agent** es un asistente de inteligencia artificial diseñado para ayudarte en el análisis de datos de tu tienda, consultando en tiempo real las bases de datos de la cuenta para identificar tendencias, variaciones y patrones de comportamiento, y ofreciendo insights que contribuyen a la toma de decisiones sobre el desempeño y la operación comercial.  
 

@@ -28,5 +28,5 @@ To enable a more streamlined, centralized buying experience that gives buyers di
 ## What needs to be done?
 
 No action is required. The feature is available for all stores.
-For more information on how to create a new seller allocation, read the [Configuring seller allocation for buying organizations (B2B)](/pt/tutorial/configurando-atribuicao-de-sellers-a-organizacoes-compradoras-b2b-xky--3VJtKNbLpVAl71uVdaOqpE) article.
+For more information on how to create a new seller allocation, read the [Configuring seller allocation for buying organizations (B2B)](/en/tutorial/configurando-atribuicao-de-sellers-a-organizacoes-compradoras-b2b-xky--3VJtKNbLpVAl71uVdaOqpE) article.
 

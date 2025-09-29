@@ -90,7 +90,7 @@ On the **Products and SKUs** page, each product has a colored icon that indicate
 | **Icon color** | **Name** | **Meaning** |
 | :---: | :--- | :--- |
 | Green | `Available for sale` | The product is enabled with an active status and is available for sale in the store, associated with at least one [trade policy](/en/tutorial/how-trade-policies-work--6Xef8PZiFm40kg2STrMkMV). |
-| Orange | `Unavailable product` | The product is unavailable for sale, even though it is active. This means the seller marked the product as available for sale, but it is currently not sellable.Several reasons may cause a product to be unavailable, such as pricing, inventory, logistics, or others. For more information, check the article [Why is the product not showing on the website?](/faq/why-is-the-product-not-visible-on-the-website--frequentlyAskedQuestions_382) |
+| Orange | `Unavailable product` | The product is unavailable for sale, even though it is active. This means the seller marked the product as available for sale, but it is currently not sellable.Several reasons may cause a product to be unavailable, such as pricing, inventory, logistics, or others. For more information, check the article [Why is the product not showing on the website?](/en/faq/why-is-the-product-not-visible-on-the-website--frequentlyAskedQuestions_382) |
 | White | `Inactive in the catalog` | The product is disabled and has an inactive status.When a seller disables a product, it means they do not intend to sell it. In this case, availability tracking does not apply. |
 
 The availability icons for the product also apply to SKUs, as shown in the following section.

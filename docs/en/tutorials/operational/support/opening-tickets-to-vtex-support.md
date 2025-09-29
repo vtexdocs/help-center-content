@@ -46,7 +46,7 @@ Technical support offers guidance for resolving issues or clarifying questions a
 To request technical support, follow the steps below and provide the required information:
 
 ### 1. Log in to your account 
-In the initial step, authenticate your access to the [VTEX Admin](/pt/tutorial/admin-vtex-comece-aqui--531cHtUCUi3puRXNDmKziw) to manage your store's digital commerce operations.
+In the initial step, authenticate your access to the [VTEX Admin](/en/tutorial/admin-vtex-comece-aqui--531cHtUCUi3puRXNDmKziw) to manage your store's digital commerce operations.
 
 ### 2. Access Copilot
 Copilot is a tool integrated into the platform that enables technical support.  You can use it to ask questions and solve problems. To access Copilot and start interacting with support, follow the steps below:
@@ -121,7 +121,7 @@ To request financial or commercial support, follow the steps below and provide t
 ### 1.  Log in to VTEX Support
 In this initial step, you must authenticate your access to VTEX Support. Follow the steps below:
 
-1. Go to [VTEX Support](/pt/support).
+1. Go to [VTEX Support](https://help.vtex.com/en/support).
 2. Choose one of the following authentication methods for your account:
 
    - Access by token, where a token will be sent to the email address registered with your store.
@@ -186,5 +186,5 @@ Possible ticket statuses are:
   - **Solved:** The ticket has been solved by the support agent or the user. The user has 27 working hours to reopen the ticket by replying to the support email or accessing the **Request History**. Otherwise, the ticket will be closed.
   - **Closed:** The ticket has been solved and marked as closed automatically after 27 working hours without further interaction. Closed tickets cannot be reopened.
 
-Once the ticket is solved, the support team will email you a link to a [satisfaction survey](/pt/announcements/avalie-o-atendimento-da-vtex-pelo-seu-admin--7rSJLgGbtRw2GhjTJezkJf). This survey allows you to evaluate the service without leaving the VTEX environment and contribute to continuous support improvement.
+Once the ticket is solved, the support team will email you a link to a [satisfaction survey](/en/announcements/avalie-o-atendimento-da-vtex-pelo-seu-admin--7rSJLgGbtRw2GhjTJezkJf). This survey allows you to evaluate the service without leaving the VTEX environment and contribute to continuous support improvement.
 

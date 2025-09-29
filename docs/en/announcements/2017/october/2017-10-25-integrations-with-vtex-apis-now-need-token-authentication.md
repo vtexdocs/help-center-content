@@ -35,6 +35,6 @@ Using the email and password for authentication compromises the security of your
 
 ### What you need to do
 - Check if your store uses email and password in any integration with VTEX APIs.
-- If it does, create a pair of appKey and appToken for that integration. See how to do that in the article [Creating appKeys and appTokens to authenticate integrations](http://help.vtex.com/en/tutorial/creating-appkeys-and-apptokens-to-authenticate-integrations).
+- If it does, create a pair of appKey and appToken for that integration. See how to do that in the article [Creating appKeys and appTokens to authenticate integrations](/en/tutorial/creating-appkeys-and-apptokens-to-authenticate-integrations).
 
 > ⚠️ **Attention**: any pair of appKey and appToken, when created, is born without being linked to a role. So, after creating it, you need to link the appKey and appToken to the correspondent role.

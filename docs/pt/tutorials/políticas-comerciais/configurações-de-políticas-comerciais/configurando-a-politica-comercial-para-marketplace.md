@@ -28,7 +28,7 @@ Confira como políticas comerciais podem ser configuradas nos seguintes módulos
 - [Estratégia de Envio](#estrategia-de-envio)  
 - [Integrações](#integracoes)  
 
-Para [contratar políticas comerciais adicionais](/pt/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X), basta solicitar via ticket em [*Suporte*](/pt/support), selecionando a opção **Comercial** e o tipo de solicitação `Criação de Política Comercial`.
+Para [contratar políticas comerciais adicionais](/pt/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X), basta solicitar via ticket em [*Suporte*](https://help.vtex.com/pt/support), selecionando a opção **Comercial** e o tipo de solicitação `Criação de Política Comercial`.
 
 Para cada política comercial adicional, é cobrado um valor mensal, seja ela utilizada para integração com marketplaces certificados, parceiros, externos ou VTEX.
 
@@ -88,7 +88,7 @@ Sellers podem definir uma estratégia de precificação diferente para cada mark
 Essa configuração é feita no módulo de *Preços* da VTEX, utilizando políticas comerciais. Ao definir preços para seus produtos, sellers devem levar em consideração que cada política comercial é criada com sua própria tabela de preços. Para diferenciar a precificação entre políticas comerciais, é possível usar:
 
 - [Regras de preço](/pt/tutorial/configurar-regra-de-preco-para-politica-comercial--5LQMLwcUcEGCWK6SMI6cEM): para determinar um markup para categorias e marcas específicas
-- [Preços fixos](/en/tracks/prices-101--6f8pwCns3PJHqMvQSugNfP/3HxF2u5VwidqnUGnFoKdDy): para diferenciar preços em produtos específicos
+- [Preços fixos](/pt/tracks/prices-101--6f8pwCns3PJHqMvQSugNfP/3HxF2u5VwidqnUGnFoKdDy): para diferenciar preços em produtos específicos
 
 ![PT Regra de preço](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pol%C3%ADticas-comerciais/configura%C3%A7%C3%B5es-de-pol%C3%ADticas-comerciais/configurando-a-politica-comercial-para-marketplace_6.jpg)
 

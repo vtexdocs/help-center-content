@@ -1,7 +1,7 @@
 ---
 title: 'Managing a multistore'
 id: 4S0lFVBPylRS5KpVgdyDhJ
-status: CHANGED
+status: PUBLISHED
 createdAt: 2024-09-06T12:35:51.501Z
 updatedAt: 2025-02-07T13:40:57.764Z
 publishedAt: 2025-02-07T13:30:06.894Z
@@ -25,7 +25,7 @@ Creating a multistore is free of charge for merchants. However, if you need to [
 
 To create a new store, follow the instructions in the section **Creating a store** in the guide [Account management](/en/tutorial/account-details-page--2vhUVOKfCaswqLguT2F9xq#criar-loja).
 
-You need to specify the domain of your new store. Learn more in the guide [Configuring the store domain](/tutorial/configurando-dominios-no-gerenciamento-da-conta--tutorials_2450).
+You need to specify the domain of your new store. Learn more in the guide [Configuring the store domain](/en/tutorial/configurando-dominios-no-gerenciamento-da-conta--tutorials_2450).
 
 Once the multistore has been created, set the layout for each store based on the frontend technology used. For more information, see [Setting layouts for each store](#setting-layouts-for-each-store).
 
@@ -70,7 +70,7 @@ To automatically generate the XML file for the new store, follow the instruction
 
 ## Deleting a multistore
 
-To delete an existing multistore, follow the instructions in the **Deleting a store** section of the guide [Account management](/pt/tutorial/account-details-page--2vhUVOKfCaswqLguT2F9xq#excluir-loja).
+To delete an existing multistore, follow the instructions in the **Deleting a store** section of the guide [Account management](/en/tutorial/account-details-page--2vhUVOKfCaswqLguT2F9xq#excluir-loja).
 
 > ⚠️ The name of the deleted subaccount cannot be used again.
 

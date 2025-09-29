@@ -22,7 +22,7 @@ The offers sent to the marketplaces will not be affected, and you can still view
 ## What has changed?
 
 We have removed the option of monitoring the status and synchronization of offers sent to a marketplace from the Offers Management module.  
-The [Moderation](/pt/tutorial/gerenciamento-de-anuncios-moderacao-e-qualidade-dos-anuncios-do-mercado--xSbPzA41jiWPAorlBCEA4?&utm_source=autocomplete#moderacao), [Offer Quality](/pt/tutorial/gerenciamento-de-anuncios-moderacao-e-qualidade-dos-anuncios-do-mercado--xSbPzA41jiWPAorlBCEA4?&utm_source=autocomplete#qualidade), and [MeLi Catalog Opportunities](/pt/tutorial/anuncios-enviados-oportunidades-de-buybox--1hO9eI1th47EGxQoTzGewC) features will remain available until December 15, 2023, only for offers linked to the [Mercado Libre integration](/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/51oWBHvVxSs8eAwLQhSbSd) through **Marketplace > Mercado Libre > Offer Management.**  
+The [Moderation](/en/tutorial/gerenciamento-de-anuncios-moderacao-e-qualidade-dos-anuncios-do-mercado--xSbPzA41jiWPAorlBCEA4?&utm_source=autocomplete#moderacao), [Offer Quality](/en/tutorial/gerenciamento-de-anuncios-moderacao-e-qualidade-dos-anuncios-do-mercado--xSbPzA41jiWPAorlBCEA4?&utm_source=autocomplete#qualidade), and [MeLi Catalog Opportunities](/en/tutorial/anuncios-enviados-oportunidades-de-buybox--1hO9eI1th47EGxQoTzGewC) features will remain available until December 15, 2023, only for offers linked to the [Mercado Libre integration](/en/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/51oWBHvVxSs8eAwLQhSbSd) through **Marketplace > Mercado Libre > Offer Management.**  
  
 ## What needs to be done?
 

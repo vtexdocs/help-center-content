@@ -18,7 +18,7 @@ subcategoryId: 1yB08KlKzqJOdc0bn38HaY
 At VTEX, we share responsibility for our customers' success. Our support plans allow you to receive the right level of attention and expertise to maximize the platform's potential and develop your business. This allows you to mitigate the risks of your digital operation and keep your operational costs under control.
 
 ## Support
- All customers have access to support from our team of experts, who are prepared to resolve tickets efficiently. Moreover, [Copilot](/pt/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM) is an integrated tool that helps answer questions and resolve technical issues. You can get support by opening a ticket through the Help Center or interacting directly with [Copilot](/pt/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM) in the VTEX Admin.
+ All customers have access to support from our team of experts, who are prepared to resolve tickets efficiently. Moreover, [Copilot](/en/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM) is an integrated tool that helps answer questions and resolve technical issues. You can get support by opening a ticket through the Help Center or interacting directly with [Copilot](/en/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM) in the VTEX Admin.
 
 ### Ticket system
 Official communication with the Support team is via the ticket system. To open a ticket, click Support, located on the right side of the top bar on the [Help Center](/en/faq/planos-de-suporte--3kACEfni4m8Yxa1vnf2ebe#help-center) main page.
@@ -51,7 +51,7 @@ We value transparency regarding the integrity of our systems. Thus, whenever the
 We'll take all appropriate measures to resolve issues as soon as possible and guarantee compliance with the [SLA](/en/tutorial/o-que-e-o-sla-de-operacao-da-plataforma--2cIFrsY5S8usk84OU4QOKm) set in our contract.
 
 ### Help Center
-In this [documentation portal for users](https://newhelp.vtex.com/), you'll find tutorials for beginners, reference guides, and troubleshooting articles. This knowledge base contains all the information you need to use the VTEX Admin.
+In this [documentation portal for users](https://help.vtex.com/), you'll find tutorials for beginners, reference guides, and troubleshooting articles. This knowledge base contains all the information you need to use the VTEX Admin.
 
 ### Developer Portal
 In this [portal for developers](https://developers.vtex.com/), you'll find all the documentation on integrations with APIs and development guides for your store. The content on this site is primarily intended for our [partners](https://vtex.com/br-pt/partner/) and our clients' team of developers.

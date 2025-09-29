@@ -27,7 +27,7 @@ The page displays the following information in a table:
 
 | Columns | Description |
 | :---- | :---- |
-| **Domain** | Host address, consisting of subdomain, domain and top-level domain. For example: www.mystore.com. Learn more about the structure of this address in [Configuring the store domain](/pt/tutorial/configuring-the-store-domain--tutorials_2450#store-address-structure). |
+| **Domain** | Host address, consisting of subdomain, domain and top-level domain. For example: www.mystore.com. Learn more about the structure of this address in [Configuring the store domain](/en/tutorial/configuring-the-store-domain--tutorials_2450#store-address-structure). |
 | **CA** | Certificate Authority. |
 | **Installed on** | Date the certificate was installed. |
 | **Expires on** | Date the certificate expires. |
@@ -66,6 +66,6 @@ The installation may take 7 days to complete, and during this time, the status o
 ## Learn more
 
 * [VTEX Shield](/en/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh)
-* [Configuring the store domain](/pt/tutorial/configuring-the-store-domain--tutorials_2450)
+* [Configuring the store domain](/en/tutorial/configuring-the-store-domain--tutorials_2450)
 * [Go-live](/en/tracks/go-live-your-store--4Ns5FxIiksmjsdX2yOTduM/12bQlMbJ68Ot0LIaO6Btkj)
 * [Error installing custom SSL certificate](/en/tutorial/error-installing-custom-ssl-certificate--6hgFzbcc96mcrqXZMmHCTr)

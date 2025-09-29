@@ -17,7 +17,7 @@ order: 5
 
 After configuring the [VTEX Sales App basic settings](/en/tracks/instore-getting-started-and-setting-up--zav76TFEZlAjnyBVL5tRc/4L5SoLxE8O3YkxF7FKymrO), you can add more physical stores to the system or manage the existing ones in the VTEX Admin.
 
-**Physical store** is a page in the VTEX Admin **Store Settings** that displays the physical stores added to the [VTEX Sales App](/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf) app and allows you to manage their information.
+**Physical store** is a page in the VTEX Admin **Store Settings** that displays the physical stores added to the [VTEX Sales App](/en/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf) app and allows you to manage their information.
 
 This page allows you to perform the following actions:
 

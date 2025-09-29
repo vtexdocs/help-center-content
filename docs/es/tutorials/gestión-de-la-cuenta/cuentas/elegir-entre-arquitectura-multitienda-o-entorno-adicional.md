@@ -19,7 +19,7 @@ La plataforma VTEX permite crear diferentes arquitecturas para tu tienda, empeza
 
 Este artículo presenta las diferencias entre arquitectura multitienda y entorno adicional para que identifiques cuál es el más adecuado para los distintos escenarios. 
 
-> ℹ️ Para arquitecturas de marketplace, también se puede [Elegir entre cuenta franquicia, Seller Portal o cuenta estándar](/es/tutorial/escolher-entre-conta-padrao-conta-franquia-ou-seller-portal--4S90HzzhMyZESsHqrnUs78), o utilizar la configuración [Multilevel Omnichannel Inventory ](/pt/tutorial/multilevel-omnichannel-inventory--7M1xyCZWUyCB7PcjNtOyw4).
+> ℹ️ Para arquitecturas de marketplace, también se puede [Elegir entre cuenta franquicia, Seller Portal o cuenta estándar](/es/tutorial/escolher-entre-conta-padrao-conta-franquia-ou-seller-portal--4S90HzzhMyZESsHqrnUs78), o utilizar la configuración [Multilevel Omnichannel Inventory ](/es/tutorial/multilevel-omnichannel-inventory--7M1xyCZWUyCB7PcjNtOyw4).
 
 ## Arquitectura multitienda (store)
 

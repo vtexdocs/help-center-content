@@ -27,7 +27,7 @@ Existem os seguintes tipos de relatórios:
 - [Assinaturas criadas entre datas](#assinaturas-criadas-entre-datas)
 - [Assinaturas executadas entre datas](#assinaturas-executadas-entre-datas)
 
-> ℹ️ Você também pode usar o endpoint <a href=https://developers.vtex.com/docs/api-reference/subscriptions-api-v3#get-/api/rns/pvt/reports>List report templates</a> para descobrir que tipos de relatório você consegue gerar.
+> ℹ️ Você também pode usar o endpoint [List report templates](https://developers.vtex.com/docs/api-reference/subscriptions-api-v3#get-/api/rns/pvt/reports) para descobrir que tipos de relatório você consegue gerar.
 
 Neste artigo, você saberá mais detalhes sobre cada informação que os diferentes tipos de relatório de assinaturas retornam.
 

@@ -1,7 +1,7 @@
 ---
 title: 'Mapping colors and sizes'
 id: HvbHUmSDbHe1io6XqvHS3
-status: CHANGED
+status: PUBLISHED
 createdAt: 2019-11-18T13:40:10.167Z
 updatedAt: 2020-11-27T19:39:37.276Z
 publishedAt: 2020-03-19T22:03:12.923Z
@@ -33,7 +33,7 @@ Follow the step-by-step, filling in the mapping spreadsheet fields according to 
 
 With this information filled in, continue as follows:
 
-  1. **VTEXField**: the [SKU field's](/pt/tutorial/criando-campo-de-sku) name that your store uses on VTEX. 
+  1. **VTEXField**: the [SKU field's](/en/tutorial/criando-campo-de-sku) name that your store uses on VTEX. 
 _Ex: fields such as "Size", "Color"._
 
   2. **WishField**: the specification's name on Wish, name that corresponds to the one used for the VTEXField SKU field.

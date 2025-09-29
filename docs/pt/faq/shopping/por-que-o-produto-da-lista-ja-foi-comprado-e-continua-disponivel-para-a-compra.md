@@ -1,7 +1,7 @@
 ---
 title: 'Por que o produto da lista já foi comprado e continua disponível para a compra?'
 id: frequentlyAskedQuestions_378
-status: CHANGED
+status: PUBLISHED
 createdAt: 2017-04-27T22:36:31.013Z
 updatedAt: 2020-01-16T19:19:46.375Z
 publishedAt: 2019-12-31T14:24:59.123Z
@@ -14,7 +14,7 @@ locale: pt
 legacySlug: por-que-o-produto-da-lista-ja-foi-comprado-e-continua-disponivel-para-a-compra
 ---
 
-A lista funciona como um catálogo da loja, com a diferença de que os produtos foram selecionados para e por um cliente específico.
+A lista funciona como um catálogo da loja, com a diferença que os produtos foram selecionados para e por um cliente específico.
 
 Partindo deste princípio, é simples entender que não impedimos a compra de determinado produto de uma lista por ele já ter sido comprado - por definição, um catálogo só impede a compra se o produto não puder ser entregue.
 

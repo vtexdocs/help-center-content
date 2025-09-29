@@ -1,7 +1,7 @@
 ---
 title: 'Configuraciones de la integración'
 id: 6EYEy1jRiAj465WOnhiczD
-status: CHANGED
+status: PUBLISHED
 createdAt: 2019-11-18T13:39:42.709Z
 updatedAt: 2022-04-08T20:49:56.270Z
 publishedAt: 2020-02-13T15:01:19.456Z
@@ -76,7 +76,7 @@ _Ej.: la transportadora X tiene en su tabla de fletes el precio de R$ 7,00 para 
 Para indicar cuál transportadora de su tienda corresponde a las [transportadoras  aceptadas por Wish](https://merchant.wish.com/documentation/shippingproviders), será necesario  realizar un de/para en la configuración.
 
   1. Indique en el primer selector (_dropdown_) cuál es la transportadora en Wish.
-  2. Indique en el segundo dropdown cuál es el [tipo de transportadora](/pt/tutorial/como-funciona-o-tipo-de-entrega) en VTEX que corresponderá a la transportadora seleccionada en el paso anterior.
+  2. Indique en el segundo dropdown cuál es el [tipo de transportadora](/es/tutorial/como-funciona-o-tipo-de-entrega) en VTEX que corresponderá a la transportadora seleccionada en el paso anterior.
 
   _Ej.: Imagine que utiliza el Servicio de Correos (PAC) como transportadora y que su Tipo de Transportadora en el panel logístico de VTEX se llama "Convencional". Entonces, usted debe escribir en el campo nombre "Convencional". Recuerde que la palabra debe ser exactamente igual a la registrada en la logística._
 
@@ -90,7 +90,7 @@ Cualquier pedido que tenga una diferencia entre el precio de venta del _marketpl
 
 En este campo se debe colocar el valor (en porcentaje) de hasta cuánto el valor del pedido puede ser divergente del valor original.
 
-_Ej.: la tasa definida es del 10%. El valor original del pedido debería ser de R$ 100,00, pero llegó de Wish como R$ 109,00. Entonces, considerando la tasa definida, el pedido será integrado. Sin embargo, si el pedido hubiera llegado con R$ 150,00, entonces hubiera sido bloqueado y mostrado en la [pestaña de pedidos (dentro de la sección integraciones en el Admin)](/pt/tutorial/verificando-integracao-no-bridge)._
+_Ej.: la tasa definida es del 10%. El valor original del pedido debería ser de R$ 100,00, pero llegó de Wish como R$ 109,00. Entonces, considerando la tasa definida, el pedido será integrado. Sin embargo, si el pedido hubiera llegado con R$ 150,00, entonces hubiera sido bloqueado y mostrado en la [pestaña de pedidos (dentro de la sección integraciones en el Admin)](/es/tutorial/verificando-integracao-no-bridge)._
 
 ## Conversión de moneda 
 

@@ -1,7 +1,7 @@
 ---
 title: 'Configurações iniciais do Google Shopping Ads'
 id: 4H0V9Z4NkQUiS4y2K0I8IU
-status: CHANGED
+status: PUBLISHED
 createdAt: 2018-10-30T22:36:53.918Z
 updatedAt: 2020-11-27T19:40:21.348Z
 publishedAt: 2020-02-13T15:34:48.598Z
@@ -28,7 +28,7 @@ Nesta etapa, deve-se configurar qual loja vai usar o app e para qual URL os anú
 1. Na opção `Loja` selecione o sub-account que deverá ser utilizado para o app
 2. Na opção `URL` selecione a URL correspondente ao site da conta que você escolheu no passo anterior.
 
-> ⚠️ **OBS:** certifique-se de que a URL escolhida é a correta, pois as opções mostrarão qualquer URL que esteja cadastrada em [seus domínios](http://help.vtex.com/pt/tutorial/configurando-dominios-no-license-manager/). **Geralmente a URL usada é que a possui WWW**.
+> ⚠️ **OBS:** certifique-se de que a URL escolhida é a correta, pois as opções mostrarão qualquer URL que esteja cadastrada em [seus domínios](/pt/tutorial/configurando-dominios-no-license-manager/). **Geralmente a URL usada é que a possui WWW**.
 
 
 ## Definindo conta no Google Merchant Center

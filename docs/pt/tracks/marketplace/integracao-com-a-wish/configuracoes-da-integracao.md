@@ -1,7 +1,7 @@
 ---
 title: 'Configurações da integração'
 id: 6EYEy1jRiAj465WOnhiczD
-status: CHANGED
+status: PUBLISHED
 createdAt: 2019-11-18T13:39:42.709Z
 updatedAt: 2022-04-08T20:49:56.270Z
 publishedAt: 2020-02-13T15:01:19.456Z

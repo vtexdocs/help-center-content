@@ -42,7 +42,7 @@ Los estafadores pueden intentar acceder a tu cuenta para realizar actividades fr
 
 Si recibes ofertas en nombre de VTEX que afirman ser parte de programas de incentivos, no sigas las instrucciones del remitente. VTEX no ofrece un programa de incentivos y no solicita pagos a particulares o empresas al margen del contrato de servicios de la plataforma.
 
-Comprueba siempre la URL de destino antes de hacer clic en un link o acceder a una página y confirma que se trata de uno de los [canales de comunicación oficiales](#verificar-la-autenticidad-de-la-comunicacion) de VTEX. En caso de dudas, ponte en contacto con nuestro equipo de [soporte](/support?/cultureInfo=es-419). 
+Comprueba siempre la URL de destino antes de hacer clic en un link o acceder a una página y confirma que se trata de uno de los [canales de comunicación oficiales](#verificar-la-autenticidad-de-la-comunicacion) de VTEX. En caso de dudas, ponte en contacto con nuestro equipo de [soporte](/es/support?/cultureInfo=es-419). 
 
 ## Consulta los recursos de seguridad de VTEX
 
@@ -50,4 +50,4 @@ VTEX ofrece recursos de seguridad y directrices para ayudar a sus clientes a pro
 
 ## Reportar actividades sospechosas
 
-Si sospechas de actividades fraudulentas utilizando la marca VTEX, repórtalo inmediatamente al equipo de [soporte](/support?/cultureInfo=es-419). A continuación, el equipo de seguridad de VTEX investigará la situación y tomará las medidas necesarias para prevenir y combatir posibles fraudes.
+Si sospechas de actividades fraudulentas utilizando la marca VTEX, repórtalo inmediatamente al equipo de [soporte](/es/support?/cultureInfo=es-419). A continuación, el equipo de seguridad de VTEX investigará la situación y tomará las medidas necesarias para prevenir y combatir posibles fraudes.

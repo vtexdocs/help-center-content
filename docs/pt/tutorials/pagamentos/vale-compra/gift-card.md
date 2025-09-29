@@ -46,7 +46,7 @@ Para criar um novo vale-presente, confira o passo a passo:
 
 > ⚠️ **Atenção**: o preenchimento dos campos “Valor” e “Data de expiração” é **obrigatório**. Caso o contrário, o vale-presente não será salvo.
 
-> ❗ A funcionalidade de criação de vales-presente limitados por coleções de produtos não está funcionando. Mais informações sobre este problema podem ser encontrados no artigo [Restricting the use of GiftCards to a collection of products does not work](/en/known-issues/restricting-the-use-of-giftcards-to-a-collection-of-products-does-not-work--7kdbZUdscJLo1sGY6bo1jp).
+> ❗ A funcionalidade de criação de vales-presente limitados por coleções de produtos não está funcionando. Mais informações sobre este problema podem ser encontrados no artigo [Restricting the use of GiftCards to a collection of products does not work](/pt/known-issues/restricting-the-use-of-giftcards-to-a-collection-of-products-does-not-work--7kdbZUdscJLo1sGY6bo1jp).
 
 Depois de preencher os campos corretamente, o usuário poderá assinalar até três opções de configuração: 
 <ul>
@@ -79,7 +79,7 @@ Para criar mais de um vale-presente ao mesmo tempo (um lote), confira o passo a 
   <br>
   > ⚠️ **Atenção**: o preenchimento dos campos “Quantidade de vales-presente”, “Valor” e “Data de Validade” é **obrigatório**. Caso o contrário, os vales-presente não serão salvos.
 <br>
-  > ❗ A funcionalidade de criação de vales-presente limitados por coleções de produtos não está funcionando. Mais informações sobre este problema podem ser encontrados no artigo [Restricting the use of GiftCards to a collection of products does not work](/en/known-issues/restricting-the-use-of-giftcards-to-a-collection-of-products-does-not-work--7kdbZUdscJLo1sGY6bo1jp).
+  > ❗ A funcionalidade de criação de vales-presente limitados por coleções de produtos não está funcionando. Mais informações sobre este problema podem ser encontrados no artigo [Restricting the use of GiftCards to a collection of products does not work](/pt/known-issues/restricting-the-use-of-giftcards-to-a-collection-of-products-does-not-work--7kdbZUdscJLo1sGY6bo1jp).
 <br>
   <li>**Recarregável**: enquanto estes vales estiverem disponíveis, seus saldos poderão ser alterados.</li>
   <li>**Reutilizável**: será possível realizar novas compras com estes vales até que seus valores sejam totalmente utilizados.</li>

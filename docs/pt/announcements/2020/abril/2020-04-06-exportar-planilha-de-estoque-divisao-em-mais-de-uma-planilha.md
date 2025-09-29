@@ -1,7 +1,7 @@
 ---
 title: 'Planilhas de estoque extensas agora são divididas em múltiplos arquivos'
 id: 2torunvirpIE7vElGR7NbI
-status: CHANGED
+status: PUBLISHED
 createdAt: 2020-04-06T14:41:35.438Z
 updatedAt: 2020-11-27T19:40:19.110Z
 publishedAt: 2020-04-07T19:16:41.020Z

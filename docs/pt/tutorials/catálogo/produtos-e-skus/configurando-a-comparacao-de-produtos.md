@@ -32,8 +32,8 @@ Siga os passos a seguir para configurar a comparação de produtos em sua loja.
 
 ### Página de comparação
 
-1. [Crie um template de prateleira](http://help.vtex.com/pt/faq/como-criar-um-template-de-prateleira) para padronizar a exibição dos produtos na página de comparação. Nesse template, você pode utilizar qualquer um dos [controles disponíveis para prateleiras](https://developers.vtex.com/docs/guides/shelf-template-controls).
-2. [Crie um template de página](http://help.vtex.com/pt/faq/como-criar-um-template-de-pagina) utilizando o controle `<vtex.cmc:ProductComparison/>`, que é o responsável pela exibição dos produtos, lado a lado na página de comparação. Exemplo de uso do controle:  
+1. [Crie um template de prateleira](/pt/faq/como-criar-um-template-de-prateleira) para padronizar a exibição dos produtos na página de comparação. Nesse template, você pode utilizar qualquer um dos [controles disponíveis para prateleiras](https://developers.vtex.com/docs/guides/shelf-template-controls).
+2. [Crie um template de página](/pt/faq/como-criar-um-template-de-pagina) utilizando o controle `<vtex.cmc:ProductComparison/>`, que é o responsável pela exibição dos produtos, lado a lado na página de comparação. Exemplo de uso do controle:  
 
 ```
 <vtex.cmc:ProductComparison ShelfLayoutId="12343216-4c8e-4cd5-bcd7-e3b062681f2a"/>

@@ -1,7 +1,7 @@
 ---
 title: "Why the List Price does not appear on my store's front end?"
 id: 7zB1S10crK6QXiWcDTUFtE
-status: CHANGED
+status: PUBLISHED
 createdAt: 2019-03-25T20:41:57.520Z
 updatedAt: 2020-11-27T19:40:10.985Z
 publishedAt: 2019-12-31T14:24:12.007Z

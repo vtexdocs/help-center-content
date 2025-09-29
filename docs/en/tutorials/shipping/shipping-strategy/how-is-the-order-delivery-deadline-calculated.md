@@ -26,7 +26,7 @@ The shipping time calculation for an order takes into account the following aspe
 
 You configure e time frame for each one of them and what your customer sees at checkout is a shipping time calculated adding those configurationn.
 
-The __carriers__ shipping time is defined in the [freight table](/pt/tutorial/planilha-de-frete--tutorials_127), which has to be associated to your shipping strategy through a [shipping policy](/en/tutorial/politica-de-envio--tutorials_140).
+The __carriers__ shipping time is defined in the [freight table](/en/tutorial/planilha-de-frete--tutorials_127), which has to be associated to your shipping strategy through a [shipping policy](/en/tutorial/politica-de-envio--tutorials_140).
 
 To configure shipping policies, warehouses an docks, go to your VTEX Admin, in **Shipping > Shipping Strategy**. In this page, there a tab for each. If you want to configure lead time, go to **Catalog > Inventory Management**.
 

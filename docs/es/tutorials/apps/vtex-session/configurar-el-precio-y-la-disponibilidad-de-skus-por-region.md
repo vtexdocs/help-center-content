@@ -23,7 +23,7 @@ Para regionalizar los precios y la disponibilidad de SKU, debe:
 2. [Sellers White Label](/es/faq/que-son-cuenta-franquicia-y-seller-white-label) realicen entregas de pedidos hechos en su tienda para determinados rangos de Códigos Postales.
 3. La sesión del usuario navegando por la tienda contiene información sobre su código postal y país de origen.
 
-> ℹ️ Para utilizar esta función, la tienda debe tener el sistema ([VTEX Session](/pt/tutorial/vtex-session-visao-geral-do-sistema-de-sessoes--6C4Edou6bYqqEAOCAg2MQQ#)). VTEX Session es nativo de todas las tiendas y usted puede confirmar su instalación por la presencia de las cookies <code>vtex_session<code> y <code>vtex_segment<code> al navegar por la tienda.
+> ℹ️ Para utilizar esta función, la tienda debe tener el sistema ([VTEX Session](/es/tutorial/vtex-session-visao-geral-do-sistema-de-sessoes--6C4Edou6bYqqEAOCAg2MQQ#)). VTEX Session es nativo de todas las tiendas y usted puede confirmar su instalación por la presencia de las cookies <code>vtex_session<code> y <code>vtex_segment<code> al navegar por la tienda.
 
 > ⚠️ Para [Multilevel Omnichannel Inventory](/es/tutorial/multilevel-omnichannel-inventory--7M1xyCZWUyCB7PcjNtOyw4#), un marketplace (nivel 1) no puede configurar la exhibición de los precios y la disponibilidad de los productos para los sellers white label (nivel 3) con la funcionalidad de regionalización.
 

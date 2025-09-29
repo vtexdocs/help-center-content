@@ -1,7 +1,7 @@
 ---
 title: 'How do you calculate payments in installments with compound interest?'
 id: frequentlyAskedQuestions_4758
-status: CHANGED
+status: PUBLISHED
 createdAt: 2019-01-24T20:46:01.816Z
 updatedAt: 2021-03-30T14:40:30.092Z
 publishedAt: 2020-09-16T18:58:19.340Z

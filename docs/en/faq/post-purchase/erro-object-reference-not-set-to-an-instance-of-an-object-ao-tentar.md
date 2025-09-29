@@ -32,6 +32,6 @@ To ensure that your freight spreadsheet has the titles according to the standard
 4. In the __Shipping Rates__ section, click on __Download spreadsheet__
 5. The freight spreadsheet with the correct format should be sent to your e-mail
 6. Upon receiving the e-mail, decompress the spreadsheet
-7. This spreadsheet has the correct column titles. [Fill out the spreadsheet](http://help.vtex.com/en/tutorial/building-a-freight-spreadsheet) with the desired values
-8. [Import the freight spreadsheet](http://help.vtex.com/en/tutorial/importing-the-shipping-spreadsheet)
+7. This spreadsheet has the correct column titles. [Fill out the spreadsheet](/en/tutorial/building-a-freight-spreadsheet) with the desired values
+8. [Import the freight spreadsheet](/en/tutorial/importing-the-shipping-spreadsheet)
 

@@ -1,7 +1,7 @@
 ---
 title: 'Segmentación de promociones por país'
 id: 1e2kgDZ4yaAIaatCANIA0G
-status: CHANGED
+status: PUBLISHED
 createdAt: 2020-02-20T13:51:37.669Z
 updatedAt: 2020-11-27T19:39:59.173Z
 publishedAt: 2020-04-02T16:44:45.173Z

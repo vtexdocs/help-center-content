@@ -23,7 +23,7 @@ Tendrá que solicitar la creación de una nueva política comercial solo si:
 - Desea ofrecer una selección de productos distinta en Google Shopping.
 - Necesita enviar diferentes precios a Google Shopping.
 
-Para [contratar políticas comerciales adicionales](/es/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X), solo tiene que rellenar el [formulario de política comercial adicional](https://docs.google.com/forms/d/e/1FAIpQLSe9qCGB_KM_xsV5e9uNe06JE8tMZrWcv6EuHUOmqTiM8oRW7w/viewform). Si tiene alguna duda, póngase en contacto con nuestro equipo de Growth Operations en *[Soporte](/es/support)* seleccionando la opción **Comercial** y el tipo de solicitud **Creación de Política Comercial.**
+Para [contratar políticas comerciales adicionales](/es/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X), solo tiene que rellenar el [formulario de política comercial adicional](https://docs.google.com/forms/d/e/1FAIpQLSe9qCGB_KM_xsV5e9uNe06JE8tMZrWcv6EuHUOmqTiM8oRW7w/viewform). Si tiene alguna duda, póngase en contacto con nuestro equipo de Growth Operations en *[Soporte](https://help.vtex.com/es/support)* seleccionando la opción **Comercial** y el tipo de solicitud **Creación de Política Comercial.**
 
 Por cada política comercial adicional, se cobra una tarifa mensual, ya sea que se utilice para la integración con mercados certificados, asociados, externos o VTEX.
 

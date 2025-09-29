@@ -41,7 +41,7 @@ Além disso, ao combinar o PageSpeed Insights e o Lighthouse na mesma tela, faci
 
 ## O que precisa ser feito?
 
-A página “Performance das páginas web” está disponível automaticamente apenas para lojas que usam o [novo Admin VTEX](/en/announcements/bem-vindo-ao-novo-admin-vtex--5tLPBodp6Xu03vYdyBTGTa). Para acessá-la, no menu lateral de seu Admin, clique em **Dashboards > Performance das páginas web**. 
+A página “Performance das páginas web” está disponível automaticamente apenas para lojas que usam o [novo Admin VTEX](/pt/announcements/bem-vindo-ao-novo-admin-vtex--5tLPBodp6Xu03vYdyBTGTa). Para acessá-la, no menu lateral de seu Admin, clique em **Dashboards > Performance das páginas web**. 
 
 Se sua loja ainda estiver usando versões anteriores do Admin, [participe do nosso programa Beta](https://content.vtex.com/join-new-admin-beta-program-pt/?utm_source=announcement&utm_medium=help_center&utm_campaign=webpage_performance) do novo Admin VTEX para acessar a Performance das páginas web.
 

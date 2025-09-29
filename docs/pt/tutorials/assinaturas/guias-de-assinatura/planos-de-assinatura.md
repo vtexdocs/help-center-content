@@ -1,7 +1,7 @@
 ---
 title: 'Planos de assinatura'
 id: 5kczKRqHEsrs1tYtRcY8wR
-status: CHANGED
+status: PUBLISHED
 createdAt: 2021-07-06T14:33:32.850Z
 updatedAt: 2022-07-26T22:51:42.731Z
 publishedAt: 2021-07-06T17:47:04.593Z
@@ -14,6 +14,8 @@ legacySlug: planos-de-assinatura-beta
 locale: pt
 subcategoryId: 1rA9wuuskW3PpjvMrhatAM
 ---
+
+> ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com [nosso Suporte](https://support.vtex.com/hc/pt-br/requests).
 
 A página **Planos** do módulo de **Assinaturas** exibe a lista de todos os planos de assinaturas configurados na sua loja, sejam eles criados a partir da [página Novo plano](/pt/tutorial/como-criar-um-plano-de-assinatura-beta--1qGRoFczm98Wgt81f9mUqC) ou [dos anexos de SKU](/pt/tutorial/como-criar-um-anexo-de-assinatura--2bUuKyPflA8cOGLv8OvaKK).
 
@@ -34,7 +36,7 @@ As principais funcionalidades desta página são:
 
 ## Criar novo plano
 
-Ao clicar no botão `Novo plano`, você será direcionado para a página de cadastro de um novo plano de assinatura. Acesse o artigo [Criar um plano de assinatura](/pt/tutorial/como-criar-um-plano-de-assinatura-beta--1qGRoFczm98Wgt81f9mUqC) para mais detalhes sobre esse processo.
+Ao clicar no botão `Novo plano`, você será direcionado para a página de cadastro de um novo plano de assinatura. Acesse o artigo [**Criar um plano de assinatura**](/pt/tutorial/como-criar-um-plano-de-assinatura-beta--1qGRoFczm98Wgt81f9mUqC) para mais detalhes sobre esse processo.
 
 ## Pesquisar
 
@@ -50,7 +52,7 @@ Você pode filtrar os planos de assinaturas exibidos na lista a partir do **Stat
 * **Ativo**: exibe somente planos ativos na sua loja.
 * **Inativo**: exibe somente planos inativos na sua loja.
 
-Para saber mais sobre o significado dos status, confira a seção [Informações sobre planos](#informações-sobre-planos).
+Para saber mais sobre o significado dos status, confira a seção [**Informações sobre planos**](#informações-sobre-planos).
 
 ## Informações sobre planos
 

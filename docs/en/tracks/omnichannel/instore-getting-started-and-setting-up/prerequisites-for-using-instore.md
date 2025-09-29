@@ -90,7 +90,7 @@ VTEX has a standard contract with these partners to facilitate the implementatio
 
 ### Payments
 
-To configure the acquirer that will process your store payments, go to [Configuring Payment Methods for VTEX Sales App](/pt/tracks/instore-pagamentos--43B4Nr7uZva5UdwWEt3PEy).
+To configure the acquirer that will process your store payments, go to [Configuring Payment Methods for VTEX Sales App](/en/tracks/instore-pagamentos--43B4Nr7uZva5UdwWEt3PEy).
 
 ### Invoicing
 
@@ -125,7 +125,7 @@ The prerequisites for implementing these strategies are all the items described 
 
 Additional recommendations:
 
-- Activating the **Checkout v6** module. Please refer to the article[ Activating Checkout v6](/pt/tutorial/ativar-o-checkout-v6--7qVqv3ptRvpVVplrvg8ruH) for more information.
+- Activating the **Checkout v6** module. Please refer to the article[ Activating Checkout v6](/en/tutorial/ativar-o-checkout-v6--7qVqv3ptRvpVVplrvg8ruH) for more information.
 - Pricing: we recommend that your physical stores inherit the prices from your ecommerce. However, if you decide to have different prices, please consider the requirements and remarks below.
     - It is necessary to involve a partner agency to regionalize the catalog.
     - This may affect price comparison tools, as they only receive one price.

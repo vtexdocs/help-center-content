@@ -1,7 +1,7 @@
 ---
 title: 'Como encontrar o Pixel do Google Tag Manager?'
 id: 65Ijv0leHPzm0IhzlY3dQN
-status: CHANGED
+status: PUBLISHED
 createdAt: 2022-08-30T12:13:00.179Z
 updatedAt: 2022-09-30T19:39:31.114Z
 publishedAt: 2022-08-31T14:24:10.226Z
@@ -24,4 +24,4 @@ Na opção **Contâiner ID**, você encontrará o código. Copie-o.
 
 ![Gerenciador de tags Goggle 2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/shopping/como-encontrar-o-pixel-do-google-tag-manager_2.png)
 
-Pronto! Agora você poderá adicionar o seu Pixel do Google Tag Manager na opção de _**Atrair > Remarketing**_ da **VTEX Assisted Sales (SuiteShare)**.
+Pronto! Agora você poderá adicionar o seu Pixel do Google Tag Manager na opção de _**Atrair > Remarketing**_ da **Suiteshare**.

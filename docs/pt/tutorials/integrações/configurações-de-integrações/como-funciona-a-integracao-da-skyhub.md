@@ -84,7 +84,7 @@ Depois que os produtos recebem a primeira carga de estoque, a atualização ser�
 
 A integração envia o [preço de lista](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3XcXp0r5WrJvogB8KIX4Kx#preco-de-lista) e o preço final para cada SKU. O preço final é enviado de acordo com o retorno da [simulação de fulfillment](https://developers.vtex.com/vtex-rest-api/reference/fulfillment-simulation). Em um cenário padrão, o preço enviado será sempre o determinado pela política comercial usada na integração.
 
-> ℹ️ Qualquer alteração no <a href= "/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3XcXp0r5WrJvogB8KIX4Kx">preço base</a> ou no <a href= "/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3HxF2u5VwidqnUGnFoKdDy">preço fixo</a> de um produto vai se refletir automaticamente na B2W. Vale ressaltar que o preço fixo se sobrepõe a todas as configurações de preços existentes em uma <a href= "/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/1wAm5m3IUfIj6maBdaRJt8">tabela de preços</a>.
+> ℹ️ Qualquer alteração no [preço base](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3XcXp0r5WrJvogB8KIX4Kx) ou no [preço fixo](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3HxF2u5VwidqnUGnFoKdDy) de um produto vai se refletir automaticamente na B2W. Vale ressaltar que o preço fixo se sobrepõe a todas as configurações de preços existentes em uma [tabela de preços](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/1wAm5m3IUfIj6maBdaRJt8).
 
 Não é possível enviar preços diferenciados em função da forma de pagamento, pois a escolha da forma de pagamento é determinada no ambiente da B2W.
 

@@ -692,6 +692,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "New process for opening tickets with VTEX Support",
+                    "es": "Nuevo proceso de apertura de tickets con el Soporte VTEX",
+                    "pt": "Novo processo de abertura de chamados para o Suporte VTEX"
+                  },
+                  "slug": {
+                    "en": "2025-01-21-new-process-for-opening-tickets-with-vtex-support",
+                    "es": "2025-01-21-nuevo-proceso-de-apertura-de-tickets-con-el-soporte-vtex",
+                    "pt": "2025-01-21-novo-processo-de-abertura-de-chamados-para-o-suporte-vtex"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Operational capacity (Beta): Optimize your store logistics",
                     "es": "Capacidad operativa (beta): optimiza la logística de tu tienda",
                     "pt": "Capacidade operacional (Beta): otimize a logística da sua loja"
@@ -1607,6 +1622,21 @@
                 },
                 {
                   "name": {
+                    "en": "New payment provider and anti-fraud management interface",
+                    "es": "Nueva interfaz de gestión de proveedores de pago y antifraude",
+                    "pt": "Nova interface de gerenciamento de provedores de pagamento e antifraude"
+                  },
+                  "slug": {
+                    "en": "2023-12-22-new-payment-provider-and-anti-fraud-management-interface",
+                    "es": "2023-12-22-nueva-interfaz-de-gestion-de-proveedores-de-pago-y-antifraude",
+                    "pt": "2023-12-22-nova-interface-de-gerenciamento-de-provedores-de-pagamento-e-antifraude"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Custom selection of sellers for B2B purchases",
                     "es": "Selección personalizada de sellers para compras B2B",
                     "pt": "Seleção personalizada de sellers para compras B2B"
@@ -1934,6 +1964,21 @@
                     "en": "2023-08-31-new-permission-required-to-manage-redirects-in-store-framework-cms",
                     "es": "2023-08-31-store-framework-cms-nuevo-permiso-para-gestionar-redirecciones",
                     "pt": "2023-08-31-store-framework-cms-nova-permissao-para-gerenciar-redirecionamentos"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Headless CMS: Stay informed on your publication progress",
+                    "es": "Headless CMS: mantente informado sobre el progreso de tus publicaciones",
+                    "pt": "Headless CMS: mantenha-se informado sobre o progresso das suas publicações"
+                  },
+                  "slug": {
+                    "en": "2023-08-21-headless-cms-stay-informed-on-your-publication-progress",
+                    "es": "2023-08-21-headless-cms-mantente-informado-sobre-el-progreso-de-tus-publicaciones",
+                    "pt": "2023-08-21-headless-cms-mantenha-se-informado-sobre-o-progresso-das-suas-publicacoes"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -2365,6 +2410,21 @@
                 },
                 {
                   "name": {
+                    "en": "Master Data v2 order entity will be deprecated",
+                    "es": "Se descontinuará la entidad de pedidos de Master Data v2",
+                    "pt": "A entidade de pedidos do Master Data v2 será deprecada"
+                  },
+                  "slug": {
+                    "en": "2023-04-10-master-data-v2-order-entity-will-be-deprecated",
+                    "es": "2023-04-10-se-descontinuara-la-entidad-de-pedidos-de-master-data-v2",
+                    "pt": "2023-04-10-a-entidade-de-pedidos-do-master-data-v2-sera-deprecada"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Redesigned Products & SKUs page",
                     "es": "Nuevo diseño de la página Productos y SKU",
                     "pt": "Novo design da página de Produtos & SKUs"
@@ -2455,6 +2515,21 @@
               "origin": "",
               "type": "category",
               "children": [
+                {
+                  "name": {
+                    "en": "Amazon Integration: Manage your FBA Classic and DBA orders in the VTEX Admin",
+                    "es": "Integración Amazon: gestiona tus pedidos FBA Classic y DBA desde el Admin VTEX",
+                    "pt": "Integração Amazon: gerencie seus pedidos FBA Classic e DBA no Admin VTEX"
+                  },
+                  "slug": {
+                    "en": "2023-01-25-manage-your-fbaclassic-dba-orders-in-one-place",
+                    "es": "2023-01-25-gestionar-tus-pedidos-fbaclassic-dba-desde-un-solo-lugar",
+                    "pt": "2023-01-25-gerencie-seus-pedidos-fbaclassic-dba-em-um-so-lugar"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
                 {
                   "name": {
                     "en": "Improvements in exporting prices via spreadsheet",
@@ -4476,6 +4551,21 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
+                },
+                {
+                  "name": {
+                    "en": "News on how to configure login providers for your store",
+                    "es": "¡Novedad sobre cómo configurar proveedores de inicio de sesión para su tienda",
+                    "pt": "Novidades em como configurar provedores de login para sua loja"
+                  },
+                  "slug": {
+                    "en": "2020-10-06-news-on-how-to-configure-login-providers-for-your-store",
+                    "es": "2020-10-06-novedad-sobre-como-configurar-proveedores-de-inicio-de-sesion-para-su-tienda",
+                    "pt": "2020-10-06-novidades-em-como-configurar-provedores-de-login-para-sua-loja"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
                 }
               ]
             },
@@ -4618,6 +4708,52 @@
             },
             {
               "name": {
+                "en": "July",
+                "es": "Julio",
+                "pt": "Julho"
+              },
+              "slug": {
+                "en": "july",
+                "es": "julio",
+                "pt": "julho"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Now you can export up to 20 thousand orders at the same time",
+                    "es": "Ahora es posible exportar hasta 20 mil pedidos al mismo tiempo",
+                    "pt": "Agora é possível exportar até 20 mil pedidos ao mesmo tempo"
+                  },
+                  "slug": {
+                    "en": "2020-07-24-now-you-can-export-up-to-20-thousand-orders-at-the-same-time",
+                    "es": "2020-07-24-ahora-es-posible-exportar-hasta-20-mil-pedidos-al-mismo-tiempo",
+                    "pt": "2020-07-24-agora-e-possivel-exportar-ate-20-mil-pedidos-ao-mesmo-tempo"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Transitioning API integrations to HTTPS / TLS 1.2",
+                    "es": "Transición de las integraciones de API a HTTPS / TLS 1.2",
+                    "pt": "Transição das integrações via API para HTTPS / TLS 1.2"
+                  },
+                  "slug": {
+                    "en": "2020-07-10-transitioning-api-integrations-to-https-tls-1-2",
+                    "es": "2020-07-10-transicion-de-las-integraciones-de-api-a-https-tls-1-2",
+                    "pt": "2020-07-10-transicao-das-integracoes-via-api-para-https-tls-1-2"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "June",
                 "es": "Junio",
                 "pt": "Junho"
@@ -4632,6 +4768,51 @@
               "children": [
                 {
                   "name": {
+                    "en": "Alelo grocery voucher card: add more options to your store’s payment methods",
+                    "es": "Vale de alimentación Alelo: diversificar las opciones de pago de su tienda",
+                    "pt": "Vale-alimentação Alelo: diversifique as opções de pagamento da sua loja"
+                  },
+                  "slug": {
+                    "en": "2020-06-30-alelo-grocery-voucher-card-add-more-options-to-your-stores-payment-methods",
+                    "es": "2020-06-30-vale-de-alimentacion-alelo-diversificar-las-opciones-de-pago-de-su-tienda",
+                    "pt": "2020-06-30-vale-alimentacao-alelo-diversifique-as-opcoes-de-pagamento-da-sua-loja"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Redirecting by search with VTEX Intelligent Search",
+                    "es": "Redireccionamiento por búsqueda con VTEX Intelligent Search",
+                    "pt": "Redirecionamento pela busca com VTEX Intelligent Search"
+                  },
+                  "slug": {
+                    "en": "2020-06-30-redirecting-by-search-with-vtex-intelligent-search",
+                    "es": "2020-06-30-redireccionamiento-por-busqueda-con-vtex-intelligent-search",
+                    "pt": "2020-06-30-redirecionamento-pela-busca-com-vtex-intelligent-search"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "VTEX Intelligent Search: export more complex search results reports",
+                    "es": "VTEX Intelligent Search: exporte informes más completos sobre resultados de búsqueda",
+                    "pt": "VTEX Intelligent Search: exporte relatórios mais completos sobre os resultados de pesquisa"
+                  },
+                  "slug": {
+                    "en": "2020-06-30-vtex-intelligent-search-export-more-complex-search-results-reports",
+                    "es": "2020-06-30-vtex-intelligent-search-exporte-informes-mas-completos-sobre-resultados-de-busqueda",
+                    "pt": "2020-06-30-vtex-intelligent-search-exporte-relatorios-mais-completos-sobre-os-resultados-de-pesquisa"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Adobe Flash Migration",
                     "es": "Migración de Adobe Flash",
                     "pt": "Migração do Adobe Flash"
@@ -4640,6 +4821,21 @@
                     "en": "2020-06-19-adobe-flash-migration",
                     "es": "2020-06-19-migracion-de-adobe-flash",
                     "pt": "2020-06-19-migracao-do-adobe-flash"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Cart restrictions on item promotions",
+                    "es": "Límite de ítems con promoción en el carrito",
+                    "pt": "Limite de itens com promoção no carrinho"
+                  },
+                  "slug": {
+                    "en": "2020-06-18-cart-restrictions-on-item-prmotions",
+                    "es": "2020-06-18-limite-de-items-con-promocion-en-el-carrito",
+                    "pt": "2020-06-18-limite-de-itens-com-promocao-no-carrinho"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -4689,6 +4885,113 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
+                },
+                {
+                  "name": {
+                    "en": "New tutorials help B2B stores to implement their business on VTEX",
+                    "es": "Nuevos tutoriales ayudan a tiendas B2B a implementar sus negocios en VTEX",
+                    "pt": "Novos tutoriais ajudam lojas B2B a implantarem seus negócios na VTEX"
+                  },
+                  "slug": {
+                    "en": "2020-06-02-new-tutorials-help-b2b-stores-to-implement-their-business-on-vtex",
+                    "es": "2020-06-02-nuevos-tutoriales-ayudan-a-tiendas-b2b-a-implementar-sus-negocios-en-vtex",
+                    "pt": "2020-06-02-novos-tutoriais-ajudam-lojas-b2b-a-implantarem-seus-negocios-na-vtex"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "May",
+                "es": "Mayo",
+                "pt": "Maio"
+              },
+              "slug": {
+                "en": "may",
+                "es": "mayo",
+                "pt": "maio"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Fewer abandoned carts with the new Checkout heuristic",
+                    "es": "Menos carritos abandonados con la nueva heurística del Checkout",
+                    "pt": "Menos carrinhos abandonados com a nova heurística do Checkout"
+                  },
+                  "slug": {
+                    "en": "2020-05-30-fewer-abandoned-carts-with-the-new-checkout-heuristic",
+                    "es": "2020-05-30-menos-carritos-abandonados-con-la-nueva-heuristica-del-checkout",
+                    "pt": "2020-05-30-menos-carrinhos-abandonados-com-a-nova-heuristica-do-checkout"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "My Account: On June 17th, the native links to 'My Account' page will change - review your settings",
+                    "es": "Mi Cuenta: En 17/06 los links de la página Mi Cuenta van a cambiar - revise sus configuraciones",
+                    "pt": "My Account: Em 17/06, os links nativos para o My Account da sua loja vão mudar - revise suas configurações"
+                  },
+                  "slug": {
+                    "en": "2020-05-26-on-06-17-the-native-links-to-your-stores-my-account-page-will-change-review",
+                    "es": "2020-05-26-en-17-06-los-links-de-la-pagina-mi-cuenta-van-a-cambiar-revise-sus",
+                    "pt": "2020-05-26-em-17-06-os-links-nativos-para-o-my-account-vao-mudar-revise-suas"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "B2B stores now need special configuration before going live",
+                    "es": "Tiendas B2B ahora necesitan de configuración especial antes de salir al aire",
+                    "pt": "Lojas B2B agora necessitam de configuração especial antes de irem ao ar"
+                  },
+                  "slug": {
+                    "en": "2020-05-15-b2b-stores-need-special-configuration-before-going-live",
+                    "es": "2020-05-15-tiendas-b2b-necesitan-de-configuracion-especial-antes-de-salir-al-aire",
+                    "pt": "2020-05-15-lojas-b2b-necessitam-de-configuracao-especial-antes-de-irem-ao-ar"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Mayo",
+                "es": "Mayo",
+                "pt": "Maio"
+              },
+              "slug": {
+                "en": "mayo",
+                "es": "mayo",
+                "pt": "maio"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "es": "Inventario y envío: comprenda lo que cambió en la pestaña \"Paneles\".",
+                    "pt": "Estoque & entrega: entenda o que mudou na aba \"Painéis\"",
+                    "en": "Inventario y envío: comprenda lo que cambió en la pestaña \"Paneles\"."
+                  },
+                  "slug": {
+                    "es": "2020-05-05-inventario-y-envio-comprenda-lo-que-cambio-en-la-pestana-paneles",
+                    "pt": "2020-05-05-estoque-e-entrega-entenda-o-que-mudou-na-aba-paineis",
+                    "en": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
                 }
               ]
             },
@@ -4708,6 +5011,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Customer Credit: make your payment terms more flexible by adding interest",
+                    "es": "Customer Credit: flexibilice sus condiciones de pago con intereses",
+                    "pt": "Customer Credit: flexibilize suas condições de pagamento com juros"
+                  },
+                  "slug": {
+                    "en": "2020-04-20-customer-credit-make-your-payment-terms-more-flexible-by-adding-interest",
+                    "es": "2020-04-20-customer-credit-flexibilice-sus-condiciones-de-pago-con-intereses",
+                    "pt": "2020-04-20-customer-credit-flexibilize-suas-condicoes-de-pagamento-com-juros"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "The newsletter opt-in flag in the Checkout will now be unchecked by default",
                     "es": "El flag de newsletter del Checkout ahora vendrá deseleccionado por defecto",
                     "pt": "Opt-in de newsletter do Checkout passará a vir desmarcado por padrão"
@@ -4723,6 +5041,81 @@
                 },
                 {
                   "name": {
+                    "en": "Customer Credit: optimize processes with bulk operations",
+                    "es": "Customer Credit: optimice procesos con recursos masivos",
+                    "pt": "Customer Credit: otimize processos com recursos em massa"
+                  },
+                  "slug": {
+                    "en": "2020-04-09-customer-credit-optimize-processes-with-bulk-operations",
+                    "es": "2020-04-09-customer-credit-optimice-procesos-con-recursos-masivos",
+                    "pt": "2020-04-09-customer-credit-otimize-processos-com-recursos-em-massa"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Changing the Conversation Tracker mask now available in Orders Management",
+                    "es": "Cambio en la máscara de Conversation Tracker. Ahora disponible en Gestión de Pedidos.",
+                    "pt": "Alteração da máscara do Conversation Tracker agora disponível no Gerenciamento de Pedidos"
+                  },
+                  "slug": {
+                    "en": "2020-04-08-changing-the-conversation-tracker-mask-now-available-in-orders-management",
+                    "es": "2020-04-08-cambio-en-la-mascara-de-conversation-tracker-ahora-disponible-en-gestion-de-pedidos",
+                    "pt": "2020-04-08-alteracao-da-mascara-do-conversation-tracker-agora-disponivel-no-gerenciamento-de-pedidos"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "VTEX IO documentation has a new home",
+                    "es": "Documentación de VTEX IO tiene una nueva casa",
+                    "pt": "Documentação do VTEX IO tem uma nova casa"
+                  },
+                  "slug": {
+                    "en": "2020-04-08-vtex-io-documentation-has-a-new-home",
+                    "es": "2020-04-08-documentacion-de-vtex-io-tiene-una-nueva-casa",
+                    "pt": "2020-04-08-documentacoes-do-vtex-io-tem-uma-nova-casa"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Changes to Via Varejo product integration",
+                    "es": "Cambio en el envío de productos a Via Varejo",
+                    "pt": "Mudança no envio de produtos para a Via Varejo"
+                  },
+                  "slug": {
+                    "en": "2020-04-06-category-mapping-now-required-for-via-varejo-marketplace",
+                    "es": "2020-04-06-mapeo-de-categorias-ahora-obligatorio-para-via-varejo-marketplace",
+                    "pt": "2020-04-06-mapeamento-de-categorias-agora-obrigatorio-para-via-varejo-marketplace"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Large warehouse exports will now be split into multiple spreadsheets",
+                    "es": "Plantillas de inventario con muchos ítems se dividirán en más de un archivo",
+                    "pt": "Planilhas de estoque extensas agora são divididas em múltiplos arquivos"
+                  },
+                  "slug": {
+                    "en": "2020-04-06-export-warehouse-spreadsheet-splitting-into-more-than-one-spreadsheet",
+                    "es": "2020-04-06-exportar-plantilla-de-inventario-division-en-mas-de-una-plantilla",
+                    "pt": "2020-04-06-exportar-planilha-de-estoque-divisao-em-mais-de-uma-planilha"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Change in CC/BCC field in Message Center templates",
                     "es": "Alteración en el campo CC/CCO en los templates del Centro de Mensaje",
                     "pt": "Alteração no campo CC/CCO nos templates da Central de Mensagens"
@@ -4731,6 +5124,68 @@
                     "en": "2020-04-02-change-in-cc-bcc-field-in-message-center-templates",
                     "es": "2020-04-02-alteracion-en-el-campo-cc-cco-en-los-templates-del-centro-de-mensaje",
                     "pt": "2020-04-02-alteracao-no-campo-cc-cco-nos-templates-da-central-de-mensagens"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "March",
+                "es": "Marzo",
+                "pt": "Março"
+              },
+              "slug": {
+                "en": "march",
+                "es": "marzo",
+                "pt": "marco"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Customize your payment conditions with the new Card Level functionality",
+                    "es": "Personalice sus condiciones de pago con la nueva funcionalidad Card Level",
+                    "pt": "Personalize suas condições de pagamento com a nova funcionalidade Card Level"
+                  },
+                  "slug": {
+                    "en": "2020-03-09-customize-your-payment-conditions-with-the-new-card-level-functionality",
+                    "es": "2020-03-09-personalice-sus-condiciones-de-pago-con-la-nueva-funcionalidad-card-level",
+                    "pt": "2020-03-09-personalize-suas-condicoes-de-pagamento-com-a-nova-funcionalidade-card"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "February",
+                "es": "Febrero",
+                "pt": "Fevereiro"
+              },
+              "slug": {
+                "en": "february",
+                "es": "febrero",
+                "pt": "fevereiro"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Promotions segmentation by country",
+                    "es": "Segmentación de promociones por país",
+                    "pt": "Segmentação de promoções por país"
+                  },
+                  "slug": {
+                    "en": "2020-02-20-promotions-segmentation-by-country",
+                    "es": "2020-02-20-segmentacao-de-promocoes-por-pais",
+                    "pt": "2020-02-20-segmentacao-de-promocoes-por-pais"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -4833,6 +5288,68 @@
             },
             {
               "name": {
+                "en": "january",
+                "es": "enero",
+                "pt": "janeiro"
+              },
+              "slug": {
+                "en": "january",
+                "es": "enero",
+                "pt": "janeiro"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Now you can choose the interest type used on installments",
+                    "es": "Ahora usted puede elegir el tipo de interés utilizado en las cuotas de su tienda",
+                    "pt": "Agora você pode escolher o tipo de juros usado nas parcelas da sua loja"
+                  },
+                  "slug": {
+                    "en": "2019-01-03-now-you-can-choose-the-interest-type-used-on-installments",
+                    "es": "2019-01-03-ahora-usted-puede-elegir-el-tipo-de-interes-utilizado-en-las-cuotas-de-su",
+                    "pt": "2019-01-03-agora-voce-pode-escolher-o-tipo-de-juros-usado-nas-parcelas-da-sua-loja"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "November",
+                "es": "November",
+                "pt": "Novembro"
+              },
+              "slug": {
+                "en": "november",
+                "es": "november",
+                "pt": "novembro"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "B2W integration: automate picking request with B2W Coleta",
+                    "pt": "Integração B2W: automatize a solicitação de picking com a B2W Coleta",
+                    "es": "B2W integration: automate picking request with B2W Coleta"
+                  },
+                  "slug": {
+                    "en": "2019-11-01-b2w-integration-automate-picking-request-with-b2w-coleta",
+                    "pt": "2019-11-01-integracao-b2w-automatize-a-solicitacao-de-picking-com-a-b2w-coleta",
+                    "es": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "September",
                 "es": "Septiembre",
                 "pt": "Setembro"
@@ -4855,6 +5372,36 @@
                     "en": "2019-09-24-more-time-to-adapt-your-store-s-front-end-requests-to-master-data",
                     "es": "2019-09-24-mas-tiempo-para-adaptar-las-solicitudes-de-front-end-de-su-tienda-al-master-data",
                     "pt": "2019-09-24-mais-tempo-para-adaptar-as-requisicoes-de-front-end-da-sua-loja-ao-master"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Marketplaces: approve and manage SKUs with the new Received SKUs admin in beta.",
+                    "es": "Marketplaces: aprobar y gestionar SKUs con el nuevo admin de SKUs Recibidos en beta.",
+                    "pt": "Marketplaces: aprove e gerencie SKUs com o novo SKUs Recebidos em beta."
+                  },
+                  "slug": {
+                    "en": "2019-09-09-marketplaces-received-skus-beta",
+                    "es": "2019-09-09-marketplaces-skus-recibidos-beta",
+                    "pt": "2019-09-09-marketplaces-skus-recebidos-beta"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Get to know Cartman: the new Checkout investigation tool",
+                    "es": "Conozca Cartman: la nueva herramienta de investigación del Checkout",
+                    "pt": "Conheça o Cartman: a nova ferramenta de investigação do Checkout"
+                  },
+                  "slug": {
+                    "en": "2019-09-03-get-to-know-cartman-the-new-checkout-investigation-tool",
+                    "es": "2019-09-03-conozca-cartman-la-nueva-herramienta-de-investigacion-del-checkout",
+                    "pt": "2019-09-03-conheca-o-cartman-a-nova-ferramenta-de-investigacao-do-checkout"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -4908,6 +5455,21 @@
                 },
                 {
                   "name": {
+                    "en": "Optimize your invoicing with the new B2W Deliveries multiple tags resource",
+                    "es": "Optimiza tu sistema de facturación con el nuevo recurso de múltiples etiquetas en B2W Entregas",
+                    "pt": "Otimize seu sistema de faturamento com o novo recurso de múltiplas etiquetas da B2W Entregas"
+                  },
+                  "slug": {
+                    "en": "2019-08-15-optimize-your-invoicing-with-the-new-b2w-deliveries-multiple-tags-resource",
+                    "es": "2019-08-15-optimiza-tu-sistema-de-facturacion-con-el-nuevo-recurso-de-multiples",
+                    "pt": "2019-08-15-otimize-seu-sistema-de-faturamento-com-o-novo-recurso-de-multiplas"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Update grants in the Promotions module",
                     "es": "Actualización permite mayor personalización en el módulo Promociones",
                     "pt": "Atualização possibilita maior customização no módulo Promoções"
@@ -4937,6 +5499,21 @@
               "origin": "",
               "type": "category",
               "children": [
+                {
+                  "name": {
+                    "en": "Manage your ads using the new VTEX Shopping Ads integration resource",
+                    "es": "Administre sus anuncios con el nuevo recurso de integración de VTEX Shopping Ads",
+                    "pt": "Gerencie seus anúncios com o novo recurso de integração do VTEX Shopping Ads"
+                  },
+                  "slug": {
+                    "en": "2019-07-31-manage-your-ads-using-the-new-vtex-shopping-ads-integration-resource",
+                    "es": "2019-07-31-administre-sus-anuncios-con-el-nuevo-recurso-de-integracion-de-vtex",
+                    "pt": "2019-07-31-gerencie-seus-anuncios-com-o-novo-recurso-de-integracao-do-vtex-shopping"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
                 {
                   "name": {
                     "en": "PRIORITY ALERT – Orders System Migration: In order to maintain the functioning of your operation, ensure that your integration is up-to-date",
@@ -4970,6 +5547,36 @@
               "children": [
                 {
                   "name": {
+                    "en": "Discontinuation of waiting-for-seller-confirmation and order-completed order Marketplace statuses",
+                    "es": "Descontinuación del status del pedido de Marketplace waiting-for-seller-confirmation y order-completed",
+                    "pt": "Descontinuação dos status dos pedidos de Marketplace waiting-for-seller-confirmation e order-completed"
+                  },
+                  "slug": {
+                    "en": "2019-06-28-discontinuation-of-waiting-for-seller-confirmation-and-order-completed",
+                    "es": "2019-06-28-descontinuacion-del-status-del-pedido-de-marketplace-waiting-for-seller",
+                    "pt": "2019-06-28-descontinuacao-dos-status-dos-pedidos-de-marketplace-waiting-for-seller"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Gain speed and practicality with the updated Price Table feature",
+                    "es": "Gane rapidez y practicidad con la actualización de la feature Tabla de Precios",
+                    "pt": "Ganhe rapidez e praticidade com a atualização da feature Tabela de Preços"
+                  },
+                  "slug": {
+                    "en": "2019-06-27-gain-speed-and-practicality-with-the-updated-price-table-feature",
+                    "es": "2019-06-27-gane-rapidez-y-practicidad-con-la-actualizacion-de-la-feature-tabla-de",
+                    "pt": "2019-06-27-ganhe-rapidez-e-praticidade-com-a-atualizacao-da-feature-tabela-de-precos"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Discontinuation of  `order-completed`, `order-create-error` and `order-creation-error` order fulfillment statuses",
                     "es": "Descontinuación del status del pedido de Fulfillment `order-completed`, `order-create-error` y `order-creation-error`",
                     "pt": "Descontinuação dos status dos pedidos de Fulfillment `order-completed`, `order-create-error` e `order-creation-error`"
@@ -4978,6 +5585,21 @@
                     "en": "2019-06-12-discontinuation-of-order-completed-order-create-error-and-order-creation",
                     "es": "2019-06-12-descontinuacao-dos-status-dos-pedidos-de-fulfillment-order-completed-order",
                     "pt": "2019-06-12-descontinuacao-dos-status-dos-pedidos-de-fulfillment-order-completed-order"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Order Management module Feed v1 and v2 discontinuation",
+                    "pt": "Descontinuação do Feed v1 e v2 do módulo de Gerenciamento de pedidos",
+                    "es": "Order Management module Feed v1 and v2 discontinuation"
+                  },
+                  "slug": {
+                    "en": "2019-06-12-order-management-module-feed-v1-and-v2-discontinuation",
+                    "pt": "2019-06-12-descontinuacao-do-feed-v1-e-v2-do-modulo-de-gerenciamento-de-pedidos",
+                    "es": ""
                   },
                   "origin": "",
                   "type": "markdown",
@@ -5046,6 +5668,36 @@
                 },
                 {
                   "name": {
+                    "en": "Changes in format for the orders export spreadsheet Authorized Date field aims to ensure the quality of our data",
+                    "pt": "Mudança no formato do campo Authorized Date da planilha de exportação de pedidos visa garantir a qualidade dos nossos dados",
+                    "es": "Changes in format for the orders export spreadsheet Authorized Date field aims to ensure the quality of our data"
+                  },
+                  "slug": {
+                    "en": "2019-05-23-changes-in-format-for-the-orders-export-spreadsheet-authorized-date-field",
+                    "pt": "2019-05-23-mudanca-no-formato-do-campo-authorized-date",
+                    "es": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Access invoice information faster with the new order report column",
+                    "pt": "Ganhe facilidade para acessar informações de fatura com a nova coluna do relatório de pedidos",
+                    "es": "Access invoice information faster with the new order report column"
+                  },
+                  "slug": {
+                    "en": "2019-05-22-access-invoice-information-faster-with-the-new-order-report-column",
+                    "pt": "2019-05-22-ganhe-facilidade-para-acessar-informacoes-de-fatura-com-a-nova-coluna-do",
+                    "es": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Dazzle your customer with the new SmartCheckout shopping experience",
                     "es": "Encante a su cliente con la nueva experiencia de compra del SmartCheckout",
                     "pt": "Encante seu cliente com a nova experiência de compra do SmartCheckout"
@@ -5077,6 +5729,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Provide your customers with a better self-service experience with the new My Account",
+                    "es": "Proporcione una nueva experiencia de autoservicio a sus clientes con el nuevo My Account",
+                    "pt": "Dê aos seus clientes uma nova experiência de auto-atendimento com o novo My Account"
+                  },
+                  "slug": {
+                    "en": "2019-04-12-provide-your-customers-with-a-better-self-service-experience-with-the-new-my-account",
+                    "es": "2019-04-12-proporcione-una-nueva-experiencia-de-autoservicio-a-sus-clientes-con-el-nuevo-my-account",
+                    "pt": "2019-04-12-de-aos-seus-clientes-uma-nova-experiencia-de-auto-atendimento-com-o-novo-my-account"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "New object returned to API Get Order \"cancelReason\"",
                     "es": "Nuevo objeto devuelto a API Get Order \"cancelReason\"",
                     "pt": "Novo objeto retornado na API Get Order \"cancelReason\""
@@ -5104,6 +5771,21 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
+                },
+                {
+                  "name": {
+                    "en": "Feature Removal: Discontinuing the use of Maximum Price per Item feature",
+                    "es": "Funcionalidad Removida: Discontinuación de la función Precio Máximo por Ítem",
+                    "pt": "Feature Removal: Descontinuação da feature de Preço Máximo por Item"
+                  },
+                  "slug": {
+                    "en": "2019-04-05-feature-removal-discontinuing-the-use-of-maximum-price-per-item-feature",
+                    "es": "2019-04-05-feature-removal-descontinuacao-da-feature-de-preco-maximo-por-item",
+                    "pt": "2019-04-05-feature-removal-descontinuacao-da-feature-de-preco-maximo-por-item"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
                 }
               ]
             },
@@ -5121,6 +5803,21 @@
               "origin": "",
               "type": "category",
               "children": [
+                {
+                  "name": {
+                    "en": "Increase your sales with a new Order Authorization screen",
+                    "es": "Aumenta sus ventas con la nueva pantalla Autorización de pedidos",
+                    "pt": "Aumente suas vendas com a nova tela Autorização de Pedidos"
+                  },
+                  "slug": {
+                    "en": "2019-03-26-increase-your-sales-with-a-new-order-authorization-screen",
+                    "es": "2019-03-26-aumenta-sus-ventas-con-la-nueva-pantalla-autorizacion-de-pedidos",
+                    "pt": "2019-03-26-aumente-suas-vendas-com-a-nova-tela-autorizacao-de-pedidos"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
                 {
                   "name": {
                     "en": "Get Order JSON now delivers new variables in order calculations",
@@ -5207,6 +5904,37 @@
                     "en": "2019-02-18-get-more-agility-managing-your-orders-events-with-feed-v3",
                     "es": "2019-02-18-gane-mas-agilidad-en-la-gestion-de-los-eventos-de-sus-pedidos-con-el-feed",
                     "pt": "2019-02-18-ganhe-mais-agilidade-na-gestao-dos-eventos-dos-seus-pedidos-com-o-feed-v3"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "october",
+                "es": "octubre",
+                "pt": "outubro"
+              },
+              "slug": {
+                "en": "october",
+                "es": "octubre",
+                "pt": "outubro"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Build customer loyalty with the new subscription promotion option",
+                    "es": "Fidelice a sus clientes con la nueva opción de promoción por suscripción",
+                    "pt": "Fidelize seus clientes com a nova opção de promoção por assinatura"
+                  },
+                  "slug": {
+                    "en": "2019-10-31-build-customer-loyalty-with-the-new-subscription-promotion-option",
+                    "es": "2019-10-31-fidelice-a-sus-clientes-con-la-nueva-opcion-de-promocion-por-suscripcion",
+                    "pt": "2019-10-31-fidelize-seus-clientes-com-a-nova-opcao-de-promocao-por-assinatura"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -6581,6 +7309,21 @@
             },
             {
               "name": {
+                "en": "Suggestions module returns error when trying to process SKU suggestion. What to do?",
+                "es": "Suggestion devuelve error al intentar procesar sugerencia de SKU. ¿Que hacer?",
+                "pt": "Sugestões retorna erro ao tentar processar sugestão de SKU. O que fazer?"
+              },
+              "slug": {
+                "en": "suggestion-module-returns-error-when-trying-to-process-sku-suggestion",
+                "es": "suggestion-devuelve-error-al-intentar-procesar-sugerencia-de-sku",
+                "pt": "suggestion-retorna-erro-ao-tentar-processar-sugestao-de-sku"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Why am I unable to change product information on the marketplace?",
                 "es": "¿Por qué no puedo cambiar las informaciones de los productos en el marketplace?",
                 "pt": "Por que não consigo alterar informações do produto no marketplace?"
@@ -6589,6 +7332,21 @@
                 "en": "why-am-i-unable-to-change-product-information-on-the-marketplace",
                 "es": "por-que-no-puedo-cambiar-las-informaciones-de-los-productos-en-el-marketplace",
                 "pt": "por-que-eu-nao-consigo-alterar-informacoes-do-produto-no-marketplace"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Why am I unable to include the promotion seal on the marketplace?",
+                "es": "¿Por qué no puedo insertar el sello de la promocion en el marketplace?",
+                "pt": "Por que não consigo inserir selo da promoção no marketplace?"
+              },
+              "slug": {
+                "en": "why-am-i-unable-to-include-the-promotion-seal-on-the-marketplace",
+                "es": "por-que-no-puedo-insertar-el-sello-de-la-promocion-en-el-marketplace",
+                "pt": "por-que-nao-consigo-inserir-selo-da-promocao-no-marketplace"
               },
               "origin": "",
               "type": "markdown",
@@ -7214,6 +7972,21 @@
             },
             {
               "name": {
+                "en": "Search with specification parameter returns empty search. What to do?",
+                "es": "Búsqueda con parámetro de especificación devuelve búsqueda vacía. ¿Que hacer?",
+                "pt": "Busca com parâmetro de especificação retorna busca vazia. O que fazer?"
+              },
+              "slug": {
+                "en": "search-with-specification-parameter-returns-empty",
+                "es": "busqueda-con-parametro-de-especificacion-devuelve-busqueda-vacia",
+                "pt": "busca-com-parametro-de-especificacao-retorna-busca-vazia-o-que-fazer"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "The price in the search result is different from the product page",
                 "es": "El precio del resultado de búsqueda es diferente de la página de producto",
                 "pt": "Preço do resultado de busca é diferente da página de produto"
@@ -7267,6 +8040,21 @@
                 "en": "why-can-t-i-change-the-fields-in-a-group",
                 "es": "por-que-no-puedo-cambiar-los-campos-en-un-grupo",
                 "pt": "por-que-nao-consigo-alterar-os-campos-de-um-grupo"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Why doesn't a search term return available products?",
+                "es": "¿Por qué un término buscado no retorna productos existentes?",
+                "pt": "Por que um termo buscado não retorna produtos existentes?"
+              },
+              "slug": {
+                "en": "why-does-a-search-term-not-return-existing-products",
+                "es": "por-que-un-termino-buscado-no-retorna-productos-existentes",
+                "pt": "por-que-um-termo-buscado-nao-retorna-produtos-que-existem"
               },
               "origin": "",
               "type": "markdown",
@@ -7409,6 +8197,21 @@
             },
             {
               "name": {
+                "en": "Why is the product not visible on the website?",
+                "es": "¿Por qué el producto no aparece en el sitio web?",
+                "pt": "Por que o produto não aparece no site?"
+              },
+              "slug": {
+                "en": "why-is-the-product-not-visible-on-the-website",
+                "es": "por-que-el-producto-no-aparece-en-el-sitio-web",
+                "pt": "por-que-o-produto-nao-aparece-no-site"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Why isn't the price table displayed to the customer?",
                 "es": "¿Por qué la tabla de precios no aparece para el cliente?",
                 "pt": "Por que a tabela de preços não aparece para o cliente?"
@@ -7417,6 +8220,36 @@
                 "en": "why-isnt-the-price-table-displayed-to-the-customer",
                 "es": "por-que-la-tabla-de-precios-no-aparece-para-el-cliente",
                 "pt": "por-que-a-tabela-de-precos-nao-aparece-para-o-cliente"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Why isn't the product or SKU field filter bringing any result in the search?",
+                "es": "¿Por qué el filtro de campo de producto o SKU no está traendo resultado en la búsqueda?",
+                "pt": "Por que o filtro de campo de produto ou campo de SKU não está retornando resultado na busca?"
+              },
+              "slug": {
+                "en": "why-isnt-the-product-or-sku-field-filter-bringing-any-result-in-the-search",
+                "es": "por-que-el-filtro-de-campo-de-producto-o-sku-no-esta-traendo-resultado-en",
+                "pt": "por-que-o-filtro-de-campo-de-produto-ou-campo-de-sku-nao-esta-retornando"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Why the List Price does not appear on my store's front end?",
+                "es": "¿Por qué el precio de lista no aparece en el front-end de mi tienda?",
+                "pt": "Por que o Preço de Lista não aparece no front-end da minha loja?"
+              },
+              "slug": {
+                "en": "why-the-price-list-does-not-appear-on-my-store-fron-end",
+                "es": "por-que-el-precio-de-lista-no-aparece-en-el-front-end-de-mi-tienda",
+                "pt": "por-que-o-preco-de-lista-nao-aparece-no-front-end-da-minha-loja"
               },
               "origin": "",
               "type": "markdown",
@@ -7659,6 +8492,21 @@
                 "en": "erro-de-coluna-nula-ao-tentar-importar-planilha-de-frete",
                 "es": "erro-de-coluna-nula-ao-tentar-importar-planilha-de-frete",
                 "pt": "erro-de-coluna-nula-ao-tentar-importar-planilha-de-frete"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "SKU available in stock but unavailable for sale",
+                "es": "El SKU tiene unidades positivas en el stock, pero no está disponible para la venta",
+                "pt": "SKU com unidades positivas no inventário, mas indisponível para venda"
+              },
+              "slug": {
+                "en": "sku-available-in-stock-but-unavailable-for-sale",
+                "es": "el-sku-tiene-unidades-positivas-en-el-stock-pero-no-esta-disponible-para-la",
+                "pt": "sku-com-unidades-positivas-no-inventario-mas-indisponivel-para-venda"
               },
               "origin": "",
               "type": "markdown",
@@ -8088,6 +8936,21 @@
             },
             {
               "name": {
+                "en": "How to find Google Tag Manager Pixel?",
+                "es": "¿Cómo encontrar Google Tag Manager Pixel?",
+                "pt": "Como encontrar o Pixel do Google Tag Manager?"
+              },
+              "slug": {
+                "en": "how-to-find-google-tag-manager-pixel",
+                "es": "como-encontrar-google-tag-manager-pixel",
+                "pt": "como-encontrar-o-pixel-do-google-tag-manager"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "How to find Linkedin Pixel?",
                 "es": "¿Cómo encontrar Linkedin Pixel?",
                 "pt": "Como encontrar o Pixel do Linkedin?"
@@ -8126,6 +8989,21 @@
                 "en": "my-trial-is-over-now-what",
                 "es": "mi-prueba-ha-terminado-ahora-que",
                 "pt": "meu-trial-acabou-e-agora"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Since the product on the list has already been purchased, why does it continue to be available for purchase?",
+                "es": "¿Por qué el producto de la lista ya fue comprado y continua disponible para compra?",
+                "pt": "Por que o produto da lista já foi comprado e continua disponível para a compra?"
+              },
+              "slug": {
+                "en": "since-the-product-on-the-list-has-already-been-purchased-why-does-it-continue-to-be-available-for-purchase",
+                "es": "por-que-o-produto-da-lista-ja-foi-comprado-e-continua-disponivel-para-a-compra",
+                "pt": "por-que-o-produto-da-lista-ja-foi-comprado-e-continua-disponivel-para-a-compra"
               },
               "origin": "",
               "type": "markdown",
@@ -8279,9 +9157,24 @@
                 },
                 {
                   "name": {
-                    "en": "2. Initial setup",
-                    "es": "2. Configuración inicial",
-                    "pt": "2. Configurações iniciais"
+                    "en": "2. Accounts and architecture",
+                    "es": "2. Cuentas y arquitectura",
+                    "pt": "2. Contas e arquitetura"
+                  },
+                  "slug": {
+                    "en": "accounts-and-architecture",
+                    "es": "cuentas-y-arquitectura",
+                    "pt": "contas-e-arquitetura"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "3. Initial setup",
+                    "es": "3. Configuración inicial",
+                    "pt": "3. Configurações iniciais"
                   },
                   "slug": {
                     "en": "initial-setup",
@@ -8294,9 +9187,9 @@
                 },
                 {
                   "name": {
-                    "en": "3. Backend integrations",
-                    "es": "3. Integraciones de backend",
-                    "pt": "3. Integrações de backend"
+                    "en": "4. Backend integrations",
+                    "es": "4. Integraciones de backend",
+                    "pt": "4. Integrações de backend"
                   },
                   "slug": {
                     "en": "backend-integrations",
@@ -8309,9 +9202,9 @@
                 },
                 {
                   "name": {
-                    "en": "4. VTEX modules I",
-                    "es": "4. Módulos de VTEX I",
-                    "pt": "4. Módulos da VTEX I"
+                    "en": "5. VTEX modules I",
+                    "es": "5. Módulos de VTEX I",
+                    "pt": "5. Módulos da VTEX I"
                   },
                   "slug": {
                     "en": "vtex-modules-i",
@@ -8324,9 +9217,24 @@
                 },
                 {
                   "name": {
-                    "en": "5. Frontend implementation",
-                    "es": "5. Implementación del frontend",
-                    "pt": "5. Implementação de frontend"
+                    "en": "6. VTEX Modules II",
+                    "es": "6. Módulos de VTEX II",
+                    "pt": "6. Módulos da VTEX II"
+                  },
+                  "slug": {
+                    "en": "vtex-modules-ii",
+                    "es": "modulos-de-vtex-ii",
+                    "pt": "modulos-da-vtex-ii"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "7. Frontend implementation",
+                    "es": "7. Implementación del frontend",
+                    "pt": "7. Implementação de frontend"
                   },
                   "slug": {
                     "en": "frontend-implementation",
@@ -8339,9 +9247,9 @@
                 },
                 {
                   "name": {
-                    "en": "6. Planning the go-live",
-                    "es": "6. Planificación del go live",
-                    "pt": "6. Planejamento do go-live"
+                    "en": "8. Planning the go-live",
+                    "es": "8. Planificación del go live",
+                    "pt": "8. Planejamento do go-live"
                   },
                   "slug": {
                     "en": "planning-the-go-live",
@@ -9020,9 +9928,24 @@
                 },
                 {
                   "name": {
-                    "en": "10. ​​Exporting and importing via a price spreadsheet",
-                    "es": "10. Exportación e importación mediante la plantilla de precios",
-                    "pt": "10. Exportação e importação via planilha de preços"
+                    "en": "10. Adding a fixed price",
+                    "es": "10. Registrar precio fijo",
+                    "pt": "10. Cadastrar preço fixo"
+                  },
+                  "slug": {
+                    "en": "adding-a-fixed-price",
+                    "es": "registrar-precio-fijo",
+                    "pt": "cadastrar-preco-fixo"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "11. ​​Exporting and importing via a price spreadsheet",
+                    "es": "11. Exportación e importación mediante la plantilla de precios",
+                    "pt": "11. Exportação e importação via planilha de preços"
                   },
                   "slug": {
                     "en": "exporting-and-importing-via-a-price-spreadsheet",
@@ -9035,9 +9958,9 @@
                 },
                 {
                   "name": {
-                    "en": "11. Rounding Rules - Concept Definition",
-                    "es": "11. Redondeo de Precios – Definición de Concepto",
-                    "pt": "11. Arredondamento de Preços- Definição de conceito"
+                    "en": "12. Rounding Rules - Concept Definition",
+                    "es": "12. Redondeo de Precios – Definición de Concepto",
+                    "pt": "12. Arredondamento de Preços- Definição de conceito"
                   },
                   "slug": {
                     "en": "rounding-rules-concept-definition",
@@ -9050,9 +9973,9 @@
                 },
                 {
                   "name": {
-                    "en": "12. Adding Rounding Rules",
-                    "es": "12. Registrar Redondeo de Precios",
-                    "pt": "12. Cadastrar Arredondamento de Preços"
+                    "en": "13. Adding Rounding Rules",
+                    "es": "13. Registrar Redondeo de Precios",
+                    "pt": "13. Cadastrar Arredondamento de Preços"
                   },
                   "slug": {
                     "en": "adding-rounding-rules",
@@ -9065,9 +9988,9 @@
                 },
                 {
                   "name": {
-                    "en": "13. Price Variation Limiter - Concept Definition",
-                    "es": "13. Bloqueo de Precio – Definición de Concepto",
-                    "pt": "13. Trava de Preço - Definição de conceito"
+                    "en": "14. Price Variation Limiter - Concept Definition",
+                    "es": "14. Bloqueo de Precio – Definición de Concepto",
+                    "pt": "14. Trava de Preço - Definição de conceito"
                   },
                   "slug": {
                     "en": "trava-de-preco-definicao-de-conceito",
@@ -9080,9 +10003,9 @@
                 },
                 {
                   "name": {
-                    "en": "14. Adding a Price Variation Limiter",
-                    "es": "14. Registrar Bloqueo de Precio",
-                    "pt": "14. Cadastrar Trava de Preço"
+                    "en": "15. Adding a Price Variation Limiter",
+                    "es": "15. Registrar Bloqueo de Precio",
+                    "pt": "15. Cadastrar Trava de Preço"
                   },
                   "slug": {
                     "en": "cadastrar-trava-de-preco",
@@ -9141,9 +10064,24 @@
                 },
                 {
                   "name": {
-                    "en": "3. Creating Regular Promotions",
-                    "es": "3. Crear Promoción Regular",
-                    "pt": "3. Criar Promoção Regular"
+                    "en": "3. Creating discount coupons",
+                    "es": "3. Crear cupones de descuento",
+                    "pt": "3. Criar cupons de desconto"
+                  },
+                  "slug": {
+                    "en": "creating-discount-coupons",
+                    "es": "crear-cupones-de-descuento",
+                    "pt": "criar-cupons-de-desconto"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "4. Creating Regular Promotions",
+                    "es": "4. Crear Promoción Regular",
+                    "pt": "4. Criar Promoção Regular"
                   },
                   "slug": {
                     "en": "creating-regular-promotions",
@@ -9156,14 +10094,29 @@
                 },
                 {
                   "name": {
-                    "en": "4. Promotions for specific scenarios",
-                    "es": "4. Promociones para escenarios específicos",
-                    "pt": "4. Promoções para cenários específicos"
+                    "en": "5. Promotions for specific scenarios",
+                    "es": "5. Promociones para escenarios específicos",
+                    "pt": "5. Promoções para cenários específicos"
                   },
                   "slug": {
                     "en": "promotions-for-specific-scenarios",
                     "es": "promociones-para-escenarios-especificos",
                     "pt": "promocoes-para-cenarios-especificos"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "6. Surcharges: what they are and how to create them",
+                    "es": "6. Tasas: qué son y cómo crearlas",
+                    "pt": "6. Taxas: o que são e como criar"
+                  },
+                  "slug": {
+                    "en": "surcharges-what-they-are-and-how-to-create-them",
+                    "es": "tasas-que-son-y-como-crearlas",
+                    "pt": "taxas-o-que-sao-e-como-criar"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -9217,9 +10170,24 @@
                 },
                 {
                   "name": {
-                    "en": "3. Seeing order details",
-                    "es": "3. Ver detalles del pedido",
-                    "pt": "3. Ver detalhes do pedido"
+                    "en": "3. The reservation",
+                    "es": "3. La reserva",
+                    "pt": "3. A reserva"
+                  },
+                  "slug": {
+                    "en": "the-reservation",
+                    "es": "la-reserva",
+                    "pt": "a-reserva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "4. Seeing order details",
+                    "es": "4. Ver detalles del pedido",
+                    "pt": "4. Ver detalhes do pedido"
                   },
                   "slug": {
                     "en": "seeing-order-details",
@@ -9232,9 +10200,9 @@
                 },
                 {
                   "name": {
-                    "en": "4. How the Orders module filters work",
-                    "es": "4. Cómo funcionan los filtros del módulo Pedidos",
-                    "pt": "4. Como funcionam os filtros do módulo Pedidos"
+                    "en": "5. How the Orders module filters work",
+                    "es": "5. Cómo funcionan los filtros del módulo Pedidos",
+                    "pt": "5. Como funcionam os filtros do módulo Pedidos"
                   },
                   "slug": {
                     "en": "how-the-orders-module-filters-work",
@@ -9247,9 +10215,9 @@
                 },
                 {
                   "name": {
-                    "en": "5. Invoicing an order",
-                    "es": "5. Facturar un pedido",
-                    "pt": "5. Faturar um pedido"
+                    "en": "6. Invoicing an order",
+                    "es": "6. Facturar un pedido",
+                    "pt": "6. Faturar um pedido"
                   },
                   "slug": {
                     "en": "invoicing-an-order",
@@ -9262,9 +10230,9 @@
                 },
                 {
                   "name": {
-                    "en": "6. Partial Invoices",
-                    "es": "6. Facturas parciales",
-                    "pt": "6. Faturas parciais"
+                    "en": "7. Partial Invoices",
+                    "es": "7. Facturas parciales",
+                    "pt": "7. Faturas parciais"
                   },
                   "slug": {
                     "en": "partial-invoices",
@@ -9277,9 +10245,9 @@
                 },
                 {
                   "name": {
-                    "en": "7. Exporting an order",
-                    "es": "7. Exportar un pedido",
-                    "pt": "7. Exportar um pedido"
+                    "en": "8. Exporting an order",
+                    "es": "8. Exportar un pedido",
+                    "pt": "8. Exportar um pedido"
                   },
                   "slug": {
                     "en": "exporting-an-order",
@@ -9292,9 +10260,9 @@
                 },
                 {
                   "name": {
-                    "en": "8. Canceling an order",
-                    "es": "8. Cancelar pedido",
-                    "pt": "8. Cancelar pedido"
+                    "en": "9. Canceling an order",
+                    "es": "9. Cancelar pedido",
+                    "pt": "9. Cancelar pedido"
                   },
                   "slug": {
                     "en": "canceling-an-order",
@@ -9307,9 +10275,9 @@
                 },
                 {
                   "name": {
-                    "en": "9. Allowing order replacement",
-                    "es": "9. Permitir sustitución de pedido",
-                    "pt": "9. Permitir substituição de pedidos"
+                    "en": "10. Allowing order replacement",
+                    "es": "10. Permitir sustitución de pedido",
+                    "pt": "10. Permitir substituição de pedidos"
                   },
                   "slug": {
                     "en": "allowing-order-replacement",
@@ -9322,9 +10290,9 @@
                 },
                 {
                   "name": {
-                    "en": "10. Subscription orders",
-                    "es": "10. Pedidos por suscripción",
-                    "pt": "10. Pedidos por assinatura"
+                    "en": "11. Subscription orders",
+                    "es": "11. Pedidos por suscripción",
+                    "pt": "11. Pedidos por assinatura"
                   },
                   "slug": {
                     "en": "subscription-orders",
@@ -9474,9 +10442,24 @@
               "children": [
                 {
                   "name": {
-                    "en": "1. Adding a sender",
-                    "es": "1. Registrar remitente",
-                    "pt": "1. Cadastrar remetente"
+                    "en": "1. How Message Center works",
+                    "es": "1. Cómo funciona el Message Center",
+                    "pt": "1. Como funciona o Message Center"
+                  },
+                  "slug": {
+                    "en": "how-message-center-works",
+                    "es": "como-funciona-el-message-center",
+                    "pt": "como-funciona-o-message-center"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "2. Adding a sender",
+                    "es": "2. Registrar remitente",
+                    "pt": "2. Cadastrar remetente"
                   },
                   "slug": {
                     "en": "adding-a-sender",
@@ -9489,9 +10472,9 @@
                 },
                 {
                   "name": {
-                    "en": "2. How to create and edit transactional email templates",
-                    "es": "2. Crear o editar template de correo electrónico transaccional",
-                    "pt": "2. Criar ou editar template de e-mail transacional"
+                    "en": "3. How to create and edit transactional email templates",
+                    "es": "3. Crear o editar template de correo electrónico transaccional",
+                    "pt": "3. Criar ou editar template de e-mail transacional"
                   },
                   "slug": {
                     "en": "how-to-create-and-edit-transactional-email-templates",
@@ -9504,9 +10487,9 @@
                 },
                 {
                   "name": {
-                    "en": "3. Including order variables in email template",
-                    "es": "3. Incluir variables del pedido en el template de correo electrónico",
-                    "pt": "3. Incluir variáveis do pedido no template de e-mail"
+                    "en": "4. Including order variables in email template",
+                    "es": "4. Incluir variables del pedido en el template de correo electrónico",
+                    "pt": "4. Incluir variáveis do pedido no template de e-mail"
                   },
                   "slug": {
                     "en": "including-order-variables-in-email-template",
@@ -9519,9 +10502,9 @@
                 },
                 {
                   "name": {
-                    "en": "4. Viewing the email history of an order",
-                    "es": "4. Ver historial de correos electrónicos de un pedido",
-                    "pt": "4. Ver histórico de e-mails de um pedido"
+                    "en": "5. Viewing the email history of an order",
+                    "es": "5. Ver historial de correos electrónicos de un pedido",
+                    "pt": "5. Ver histórico de e-mails de um pedido"
                   },
                   "slug": {
                     "en": "viewing-the-email-history-of-an-order",
@@ -9747,9 +10730,24 @@
                 },
                 {
                   "name": {
-                    "en": "6. Enabling two-factor authentication login",
-                    "es": "6. Habilitar inicio de sesión por autenticación de dos factores",
-                    "pt": "6. Habilitar login por autenticação de dois fatores"
+                    "en": "6. How the account relates to the website's pages",
+                    "es": "6. Cómo se relaciona la cuenta con las páginas del sitio web",
+                    "pt": "6. Como a conta se relaciona às páginas do site"
+                  },
+                  "slug": {
+                    "en": "como-a-conta-se-relaciona-as-paginas-do-site",
+                    "es": "como-se-relaciona-la-cuenta-con-las-paginas-del-sitio-web",
+                    "pt": "como-a-conta-se-relaciona-as-paginas-do-site"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "7. Enabling two-factor authentication login",
+                    "es": "7. Habilitar inicio de sesión por autenticación de dos factores",
+                    "pt": "7. Habilitar login por autenticação de dois fatores"
                   },
                   "slug": {
                     "en": "enabling-2-factor-authentication-login",
@@ -9762,9 +10760,9 @@
                 },
                 {
                   "name": {
-                    "en": "7. Configuring login with Facebook",
-                    "es": "7. Configurar inicio de sesión con Facebook",
-                    "pt": "7. Configurar login com Facebook"
+                    "en": "8. Configuring login with Facebook",
+                    "es": "8. Configurar inicio de sesión con Facebook",
+                    "pt": "8. Configurar login com Facebook"
                   },
                   "slug": {
                     "en": "configuring-login-with-facebook",
@@ -9777,9 +10775,9 @@
                 },
                 {
                   "name": {
-                    "en": "8. Configuring login with Google",
-                    "es": "8. Configurar inicio de sesión con Google",
-                    "pt": "8. Configurar login com Google"
+                    "en": "9. Configuring login with Google",
+                    "es": "9. Configurar inicio de sesión con Google",
+                    "pt": "9. Configurar login com Google"
                   },
                   "slug": {
                     "en": "configuring-login-with-google",
@@ -9975,9 +10973,24 @@
               "children": [
                 {
                   "name": {
-                    "en": "1. Settings",
-                    "es": "1. Configuración",
-                    "pt": "1. Configurações"
+                    "en": "1. Go-live your store",
+                    "es": "1. Cómo realizar el go live de tu tienda",
+                    "pt": "1. Realizando o go-live da sua loja"
+                  },
+                  "slug": {
+                    "en": "go-live-process",
+                    "es": "processo-de-go-live",
+                    "pt": "processo-de-go-live"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "2. Settings",
+                    "es": "2. Configuración",
+                    "pt": "2. Configurações"
                   },
                   "slug": {
                     "en": "settings",
@@ -9990,9 +11003,9 @@
                 },
                 {
                   "name": {
-                    "en": "2. Pre-go-live",
-                    "es": "2. Antes del go live",
-                    "pt": "2. Pré go-live"
+                    "en": "3. Pre-go-live",
+                    "es": "3. Antes del go live",
+                    "pt": "3. Pré go-live"
                   },
                   "slug": {
                     "en": "pre-go-live",
@@ -10005,9 +11018,9 @@
                 },
                 {
                   "name": {
-                    "en": "3. Go-live",
-                    "es": "3. Go live",
-                    "pt": "3. Go-live"
+                    "en": "4. Go-live",
+                    "es": "4. Go live",
+                    "pt": "4. Go-live"
                   },
                   "slug": {
                     "en": "go-live",
@@ -10020,9 +11033,9 @@
                 },
                 {
                   "name": {
-                    "en": "4. Post-go-live",
-                    "es": "4. Después del go live",
-                    "pt": "4. Pós go-live"
+                    "en": "5. Post-go-live",
+                    "es": "5. Después del go live",
+                    "pt": "5. Pós go-live"
                   },
                   "slug": {
                     "en": "post-go-live",
@@ -11771,9 +12784,24 @@
                 },
                 {
                   "name": {
-                    "en": "3. VTEX platform settings",
-                    "es": "3. Configuración de la plataforma VTEX",
-                    "pt": "3. Configurações na plataforma VTEX"
+                    "en": "3. Amazon account settings",
+                    "es": "3. Configuración de la cuenta de Amazon",
+                    "pt": "3. Configurações de conta na Amazon"
+                  },
+                  "slug": {
+                    "en": "amazon-account-settings",
+                    "es": "configuracion-de-la-cuenta-amazon",
+                    "pt": "configuracoes-na-conta-amazon"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "4. VTEX platform settings",
+                    "es": "4. Configuración de la plataforma VTEX",
+                    "pt": "4. Configurações na plataforma VTEX"
                   },
                   "slug": {
                     "en": "vtex-platform-settings",
@@ -11786,9 +12814,9 @@
                 },
                 {
                   "name": {
-                    "en": "4. Configuring the Amazon integration",
-                    "es": "4. Configurar la integración de Amazon",
-                    "pt": "4. Configurar a integração da Amazon"
+                    "en": "5. Configuring the Amazon integration",
+                    "es": "5. Configurar la integración de Amazon",
+                    "pt": "5. Configurar a integração da Amazon"
                   },
                   "slug": {
                     "en": "configuring-the-amazon-integration",
@@ -11801,9 +12829,9 @@
                 },
                 {
                   "name": {
-                    "en": "5. Sending products to Amazon",
-                    "es": "5. Envío de productos a Amazon",
-                    "pt": "5. Envio de produtos à Amazon"
+                    "en": "6. Sending products to Amazon",
+                    "es": "6. Envío de productos a Amazon",
+                    "pt": "6. Envio de produtos à Amazon"
                   },
                   "slug": {
                     "en": "sending-products-to-amazon",
@@ -11975,6 +13003,21 @@
                     "en": "mapping-product-categories-and-attributes-to-mercado-libre",
                     "es": "mapear-categorias-y-atributos-de-los-productos-para-mercado-libre-mapper",
                     "pt": "mapear-categorias-e-atributos-dos-produtos-para-o-mercado-livre-mapper"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "10. Match Offers Mercado Livre",
+                    "es": "10. Match de anuncios de Mercado Libre",
+                    "pt": "10. Match de anúncios Mercado Livre"
+                  },
+                  "slug": {
+                    "en": "match-offers-mercado-livre",
+                    "es": "match-de-anuncios-de-mercado-libre",
+                    "pt": "match-de-anuncios-mercado-livre"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -12964,6 +14007,36 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
+                },
+                {
+                  "name": {
+                    "en": "5. Integration configurations",
+                    "es": "5. Configuraciones de la integración",
+                    "pt": "5. Configurações da integração"
+                  },
+                  "slug": {
+                    "en": "integration-configurations",
+                    "es": "configuraciones-de-la-integracion",
+                    "pt": "configuracoes-da-integracao"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "6. Mapping colors and sizes",
+                    "es": "6. Mapeo de color y tamaño",
+                    "pt": "6. Mapeamento de cor e tamanho"
+                  },
+                  "slug": {
+                    "en": "mapping-colors-and-sizes",
+                    "es": "mapeo-de-color-y-tamano",
+                    "pt": "mapeamento-de-cor-e-tamanho"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
                 }
               ]
             },
@@ -13134,9 +14207,24 @@
                 },
                 {
                   "name": {
-                    "en": "2. Setting up a Smart Campaign",
-                    "es": "2. Configuración de una Campaña Inteligente",
-                    "pt": "2. Configurando uma Campanha Inteligente"
+                    "en": "2. Google Shopping Ads setup",
+                    "es": "2. Configuración inicial de Google Shopping Ads",
+                    "pt": "2. Configurações iniciais do Google Shopping Ads"
+                  },
+                  "slug": {
+                    "en": "google-shopping-ads-set-up",
+                    "es": "configuracion-inicial-de-google-shopping-ads",
+                    "pt": "configuraces-iniciais-do-google-shopping-ads"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "3. Setting up a Smart Campaign",
+                    "es": "3. Configuración de una Campaña Inteligente",
+                    "pt": "3. Configurando uma Campanha Inteligente"
                   },
                   "slug": {
                     "en": "setting-up-a-smart-campaign",
@@ -13149,9 +14237,9 @@
                 },
                 {
                   "name": {
-                    "en": "3. Performance Optimization",
-                    "es": "3. Optimización del rendimiento",
-                    "pt": "3. Otimização de Performance"
+                    "en": "4. Performance Optimization",
+                    "es": "4. Optimización del rendimiento",
+                    "pt": "4. Otimização de Performance"
                   },
                   "slug": {
                     "en": "performance-optimization",
@@ -13195,9 +14283,69 @@
                 },
                 {
                   "name": {
-                    "en": "2. Update and import product feed",
-                    "es": "2. Actualizar y importar feed de productos",
-                    "pt": "2. Atualizar e importar feed de produtos"
+                    "en": "2. Installation and setup",
+                    "es": "2. Instalación y configuración",
+                    "pt": "2. Instalação e configuração"
+                  },
+                  "slug": {
+                    "en": "installation-and-setup",
+                    "es": "instalacion-y-configuracion",
+                    "pt": "instalacao-e-configuracao"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "3. Create product feed",
+                    "es": "3. Crear feed de productos",
+                    "pt": "3. Criar feed de produtos"
+                  },
+                  "slug": {
+                    "en": "create-product-feed",
+                    "es": "crear-feed-de-productos",
+                    "pt": "criar-feed-de-produtos"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "4. Sales channel mapping",
+                    "es": "4. Mapeo de canales de venta",
+                    "pt": "4. Mapeamento de canais de venda"
+                  },
+                  "slug": {
+                    "en": "sales-channel-mapping",
+                    "es": "mapeo-de-canales-de-venta",
+                    "pt": "mapeamento-de-canais-de-venda"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "5. Specifications mapping",
+                    "es": "5. Mapeo de especificaciones",
+                    "pt": "5. Mapeamento de especificações"
+                  },
+                  "slug": {
+                    "en": "specifications-mapping",
+                    "es": "mapeo-de-especificaciones",
+                    "pt": "mapeamento-de-especificacoes"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "6. Update and import product feed",
+                    "es": "6. Actualizar y importar feed de productos",
+                    "pt": "6. Atualizar e importar feed de produtos"
                   },
                   "slug": {
                     "en": "update-and-import-product-feed",
@@ -13210,9 +14358,9 @@
                 },
                 {
                   "name": {
-                    "en": "3. Import orders from Lengow",
-                    "es": "3. Importar pedidos de Lengow",
-                    "pt": "3. Importar pedidos da Lengow"
+                    "en": "7. Import orders from Lengow",
+                    "es": "7. Importar pedidos de Lengow",
+                    "pt": "7. Importar pedidos da Lengow"
                   },
                   "slug": {
                     "en": "import-orders-from-lengow",
@@ -14492,6 +15640,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Accessing the beta environment through the myvtex.com domain",
+                    "es": "Accede al entorno beta a través del dominio myvtex.com",
+                    "pt": "Acessar o ambiente beta pelo domínio myvtex.com"
+                  },
+                  "slug": {
+                    "en": "accessing-the-beta-environment",
+                    "es": "acceder-al-ambiente-beta",
+                    "pt": "acessar-o-ambiente-beta-pelo-dominio-myvtex-com"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Compatibility with browsers in VTEX Admin",
                     "es": "Compatibilidad con navegadores en el panel administrativo de VTEX",
                     "pt": "Compatibilidade com navegadores no painel administrativo da VTEX"
@@ -14744,6 +15907,21 @@
                     "en": "configuring-the-store-domain",
                     "es": "configurar-dominio-de-la-tienda",
                     "pt": "configurar-o-dominio-da-loja"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Managing a multistore",
+                    "es": "Gestionar multitienda",
+                    "pt": "Gerenciando uma multiloja"
+                  },
+                  "slug": {
+                    "en": "managing-a-multistore",
+                    "es": "gestionar-multitienda",
+                    "pt": "gerenciando-uma-multiloja"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -15209,6 +16387,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Credit management through Customer Credit",
+                    "es": "Gestión de crédito a través de Customer Credit",
+                    "pt": "Gestão de crédito por meio do Customer Credit"
+                  },
+                  "slug": {
+                    "en": "managing-credit-with-customer-credit",
+                    "es": "gestion-crediticia-a-traves-del-customer-credit",
+                    "pt": "gestao-de-credito-por-meio-do-customer-credit"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Customer Credit - Overview",
                     "es": "Customer Credit - Visión General",
                     "pt": "Customer Credit - Visão Geral"
@@ -15547,9 +16740,9 @@
               "children": [
                 {
                   "name": {
-                    "en": "6. Enabling two-factor authentication login",
-                    "es": "6. Habilitar inicio de sesión por autenticación de dos factores",
-                    "pt": "6. Habilitar login por autenticação de dois fatores"
+                    "en": "7. Enabling two-factor authentication login",
+                    "es": "7. Habilitar inicio de sesión por autenticación de dos factores",
+                    "pt": "7. Habilitar login por autenticação de dois fatores"
                   },
                   "slug": {
                     "en": "enabling-2-factor-authentication-login",
@@ -15983,6 +17176,21 @@
                     "en": "configuring-b2b-self-service-stores",
                     "es": "configurar-una-tienda-b2b-de-autoservicio",
                     "pt": "configurar-loja-b2b-self-service"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Facilitating B2B store operation",
+                    "es": "Facilitar la operación de una tienda B2B",
+                    "pt": "Facilitar a operação da loja B2B"
+                  },
+                  "slug": {
+                    "en": "facilitating-b2b-store-operation",
+                    "es": "facilitar-la-operacion-de-una-tienda-b2b",
+                    "pt": "facilitar-a-operacao-da-loja-b2b"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -16898,6 +18106,36 @@
                     "en": "how-to-request-sla-verification",
                     "es": "como-solicitar-la-verificacion-de-sla",
                     "pt": "como-solicitar-a-apuracao-de-sla"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Names of VTEX branches worldwide",
+                    "es": "Nombres de las sucursales VTEX en el mundo",
+                    "pt": "Nomes das filiais VTEX pelo mundo"
+                  },
+                  "slug": {
+                    "en": "names-of-vtex-branches-worldwide",
+                    "es": "nombres-de-las-sucursales-vtex-en-el-mundo",
+                    "pt": "nomes-das-filiais-vtex-pelo-mundo"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Requesting a contract termination in Argentina and Colombia",
+                    "es": "Solicitar la rescisión contractual en Argentina y Colombia",
+                    "pt": "Solicitar rescisão contratual na Argentina e Colômbia"
+                  },
+                  "slug": {
+                    "en": "requesting-a-contract-termination-in-argentina-and-colombia",
+                    "es": "solicitar-la-rescision-contractual-en-argentina-y-colombia",
+                    "pt": "solicitar-rescisao-contratual-na-argentina-e-colombia"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -19769,6 +21007,52 @@
             },
             {
               "name": {
+                "en": "Cadastros de colaboradores",
+                "es": "Cadastros de colaboradores",
+                "pt": "Cadastros de colaboradores"
+              },
+              "slug": {
+                "en": "cadastros-de-colaboradores",
+                "es": "cadastros-de-colaboradores",
+                "pt": "cadastros-de-colaboradores"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "pt": "Diferenças entre vendedor fixo e vendedor temporário",
+                    "en": "Diferenças entre vendedor fixo e vendedor temporário",
+                    "es": "Diferenças entre vendedor fixo e vendedor temporário"
+                  },
+                  "slug": {
+                    "pt": "diferencas-entre-vendedor-fixo-e-vendedor-temporario-indeva",
+                    "en": "",
+                    "es": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "pt": "Transferir colaborador de uma loja para outra",
+                    "en": "Transferir colaborador de uma loja para outra",
+                    "es": "Transferir colaborador de uma loja para outra"
+                  },
+                  "slug": {
+                    "pt": "transferir-colaborador-de-uma-loja-para-outra-indeva",
+                    "en": "",
+                    "es": ""
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "Employee registrations",
                 "es": "Registros de empleados",
                 "pt": "Cadastros de colaboradores"
@@ -19791,6 +21075,37 @@
                     "en": "manage-administrative-user-access-in-the-indeva-platform",
                     "es": "registrar-nuevo-usuario-franquiciado-supervisor-equivalente-indeva",
                     "pt": "gerenciar-acesso-de-usuarios-administrativos-na-plataforma-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Feedback do vendedor",
+                "es": "Feedback do vendedor",
+                "pt": "Feedback do vendedor"
+              },
+              "slug": {
+                "en": "feedback-do-vendedor",
+                "es": "feedback-do-vendedor",
+                "pt": "feedback-do-vendedor"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "pt": "Cadastrar feedback de gerente",
+                    "en": "Cadastrar feedback de gerente",
+                    "es": "Cadastrar feedback de gerente"
+                  },
+                  "slug": {
+                    "pt": "cadastrar-feedback-de-gerente-indeva",
+                    "en": "",
+                    "es": ""
                   },
                   "origin": "",
                   "type": "markdown",
@@ -20033,6 +21348,37 @@
                     "en": "weight-distribution",
                     "es": "distribucion-de-pesos",
                     "pt": "distribuicao-de-pesos"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Loja",
+                "es": "Loja",
+                "pt": "Loja"
+              },
+              "slug": {
+                "en": "loja",
+                "es": "loja",
+                "pt": "loja"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "pt": "Loja não aparece no Web Indeva",
+                    "en": "Loja não aparece no Web Indeva",
+                    "es": "Loja não aparece no Web Indeva"
+                  },
+                  "slug": {
+                    "pt": "loja-nao-aparece-no-web-indeva",
+                    "en": "",
+                    "es": ""
                   },
                   "origin": "",
                   "type": "markdown",
@@ -22547,9 +23893,9 @@
                 "pt": "Redirecionamentos"
               },
               "slug": {
-                "en": "redirects",
+                "en": "redirects-category",
                 "es": "redireccionamientos",
-                "pt": "redirecionamentos"
+                "pt": "redirecionamentos-category"
               },
               "origin": "",
               "type": "category",
@@ -22564,6 +23910,21 @@
                     "en": "configuring-redirects",
                     "es": "configurar-redirecciones",
                     "pt": "configurar-redirecionamentos"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Redirects",
+                    "es": "Redirecciones",
+                    "pt": "Redirecionamentos"
+                  },
+                  "slug": {
+                    "en": "redirects",
+                    "es": "redirecciones",
+                    "pt": "redirecionamentos"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -25030,6 +26391,21 @@
                 },
                 {
                   "name": {
+                    "en": "Configuring payment with AdyenV3 in VTEX Sales App",
+                    "es": "Configurar pagos con AdyenV3 en VTEX Sales App",
+                    "pt": "Configurar pagamento com AdyenV3 no VTEX Sales App"
+                  },
+                  "slug": {
+                    "en": "configuring-payment-with-adyenv3-in-vtex-sales-app",
+                    "es": "configurar-pagos-con-adyenv3-en-vtex-sales-app",
+                    "pt": "configurar-pagamento-com-adyenv3-no-vtex-sales-app"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Configuring payment with Cielo in VTEX Sales App",
                     "es": "Configurar pagos con Cielo en VTEX Sales App",
                     "pt": "Configurar pagamento com Cielo no VTEX Sales App"
@@ -25345,6 +26721,21 @@
                 },
                 {
                   "name": {
+                    "en": "Mode-Off: FAQ",
+                    "es": "Mode-Off: FAQ",
+                    "pt": "Mode-Off: FAQ"
+                  },
+                  "slug": {
+                    "en": "mode-off-faq",
+                    "es": "mode-off-faq",
+                    "pt": "mode-off-faq"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "​​Payments in VTEX marketplaces",
                     "es": "Pagos en los marketplaces VTEX",
                     "pt": "Pagamentos em marketplaces VTEX"
@@ -25518,6 +26909,21 @@
                     "en": "setting-up-mercado-pago-offline-and-wallet-as-payment-methods",
                     "es": "configurar-mercado-pago-offline-y-wallet-como-metodos-de-pago",
                     "pt": "configurar-mercado-pago-offline-e-wallet-como-metodos-de-pagamentos"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up Mundipagg Fraud Prevention gateway",
+                    "es": "Configurar gateway Mundipagg Fraud Prevention",
+                    "pt": "Configurar gateway Mundipagg Fraud Prevention"
+                  },
+                  "slug": {
+                    "en": "setting-up-mundipagg-fraud-prevention-gateway",
+                    "es": "configurar-gateway-mundipagg-fraud-prevention",
+                    "pt": "configurar-gateway-mundipagg-fraud-prevention"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -26358,6 +27764,21 @@
                     "en": "setting-up-payments-with-fiserv-ar",
                     "es": "configurar-pago-con-fiserv-ar",
                     "pt": "configurar-pagamento-com-fiserv-ar"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with Fiserv MX",
+                    "es": "Configurar pago con Fiserv MX",
+                    "pt": "Configurar pagamento com Fiserv MX"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-fiserv-mx",
+                    "es": "configurar-pago-con-fiserv-mx",
+                    "pt": "configurar-pagamento-com-fiserv-mx"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -27715,6 +29136,21 @@
                 },
                 {
                   "name": {
+                    "en": "Setting up Pix as a payment method",
+                    "es": "Configurar Pix como medio de pago",
+                    "pt": "Configurar Pix como meio de pagamento"
+                  },
+                  "slug": {
+                    "en": "setting-up-pix-as-a-payment-method",
+                    "es": "configurar-pix-como-medio-de-pago",
+                    "pt": "configurar-pix-como-meio-de-pagamento"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Setting up Private Label payments",
                     "es": "Configurar pagos con Private Label (bandera propia)",
                     "pt": "Configurar pagamentos com Cartões de Loja (bandeira própria)"
@@ -27738,6 +29174,21 @@
                     "en": "how-to-set-up-the-device-fingerprint-for-braspag",
                     "es": "como-configurar-el-device-finger-print-para-braspag",
                     "pt": "como-configurar-o-device-finger-print-para-braspag"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up the Notes Payable conector",
+                    "es": "Configurar el conector Pagarés",
+                    "pt": "Configurar o conector Promissórias"
+                  },
+                  "slug": {
+                    "en": "setting-up-the-notes-payable-conector",
+                    "es": "configurar-conector-pagares",
+                    "pt": "configurar-o-conector-promissorias"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -27919,6 +29370,21 @@
                     "en": "how-do-i-add-the-pci-ssc-certificate",
                     "es": "como-anadir-el-certificado-pci-ssc-mi-tienda",
                     "pt": "como-adicionar-o-selo-pci-ssc-a-minha-loja"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "How do you calculate payments in installments with compound interest?",
+                    "es": "¿Cómo se hace el cálculo del pago en plazos con interés compuesto?",
+                    "pt": "Como é feito o cálculo do parcelado com juros compostos?"
+                  },
+                  "slug": {
+                    "en": "how-do-you-calculate-payments-in-installments-with-compound-interest",
+                    "es": "como-se-hace-el-calculo-del-pago-en-plazos-con-intereses-compuesto",
+                    "pt": "como-e-feito-o-calculo-do-parcelado-com-juros-compostos"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -28635,6 +30101,21 @@
                 },
                 {
                   "name": {
+                    "en": "Registering a product's base price",
+                    "es": "Registrar el precio base de un producto",
+                    "pt": "Cadastrar o preço base de um produto"
+                  },
+                  "slug": {
+                    "en": "registering-a-products-base-price",
+                    "es": "registrar-el-precio-base-de-un-producto",
+                    "pt": "cadastrar-o-preco-base-de-um-produto"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Scheduling prices",
                     "es": "Programación de precios",
                     "pt": "Agendar preço"
@@ -29048,6 +30529,37 @@
           "children": [
             {
               "name": {
+                "en": "Rates & Benefits overview",
+                "es": "Visión de conjunto de Tasas y Promociones",
+                "pt": "Visão geral de Taxas & Promoções"
+              },
+              "slug": {
+                "en": "rates-and-benefits-overview",
+                "es": "vision-de-conjunto-de-tasas-y-promociones",
+                "pt": "visao-geral-de-taxas-and-promocoes"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Overview:  Campaign Audiences, promotions, taxes and coupons",
+                    "es": "Visión general: Audiencia de Campañas, promociones, impuestos y cupones",
+                    "pt": "Visão geral: Audiência de campanhas, promoções, taxas e cupons"
+                  },
+                  "slug": {
+                    "en": "overview-pricing-module",
+                    "es": "pantalla-inicial-del-modulo-de-pricing-promociones",
+                    "pt": "overview-2"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "Coupons",
                 "es": "Cupones",
                 "pt": "Cupons"
@@ -29060,6 +30572,21 @@
               "origin": "",
               "type": "category",
               "children": [
+                {
+                  "name": {
+                    "en": "Coupons list",
+                    "es": "Lísta de cupones",
+                    "pt": "Lista de cupons"
+                  },
+                  "slug": {
+                    "en": "coupons-list-beta",
+                    "es": "lista-de-cupones-beta",
+                    "pt": "lista-de-cupons-beta"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
                 {
                   "name": {
                     "en": "Creating a coupon",
@@ -29303,6 +30830,21 @@
                 },
                 {
                   "name": {
+                    "en": "How does promotion proration work?",
+                    "es": "¿Cómo funciona el prorrateo de una promoción?",
+                    "pt": "Como funciona o rateio de promoção?"
+                  },
+                  "slug": {
+                    "en": "how-does-promotion-proration-work",
+                    "es": "como-funciona-el-prorrateo-de-una-promocion",
+                    "pt": "como-funciona-o-rateio-de-promocao"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "How is shipping cost calculated when there's an item with shipping benefit on the cart?",
                     "es": "¿Cómo se calcula el costo de envío cuando hay un ítem con promoción de envío en el carrito?",
                     "pt": "Como é calculado o custo de envio quando há um item com promoção de frete no carrinho?"
@@ -29416,6 +30958,21 @@
                     "en": "how-to-identify-promotions-attributed-to-an-sku",
                     "es": "como-identificar-promociones-asignadas-un-sku",
                     "pt": "como-identificar-promocoes-atribuidas-a-um-sku"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "How to set a Buy One Get One promotion (gift) for a specific SKU",
+                    "es": "Configurar una promoción Comprar y Obtener (regalo) para un SKU específico",
+                    "pt": "Configurar promoção Compre e ganhe para um SKU específico"
+                  },
+                  "slug": {
+                    "en": "how-to-set-a-buy-and-win-promotion-gift-for-a-specific-sku",
+                    "es": "configurar-una-promocion-compre-y-gane-regalo-para-un-sku-especifico",
+                    "pt": "configurar-promocao-compre-e-ganhe-para-um-sku-especifico"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -29596,6 +31153,21 @@
                     "en": "sales-associate-code-field-at-checkout",
                     "es": "campo-codigo-de-vendedor-en-el-checkout",
                     "pt": "campo-codigo-de-vendedor-no-checkout"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "The most common promotions in B2B",
+                    "es": "Promociones más comunes para B2B",
+                    "pt": "As promoções mais comuns em B2B"
+                  },
+                  "slug": {
+                    "en": "the-most-common-promotions-in-b2b",
+                    "es": "promociones-mas-comunes-para-b2b",
+                    "pt": "as-promocoes-mais-comuns-em-b2b"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -30927,6 +32499,21 @@
                 },
                 {
                   "name": {
+                    "en": "How the modal works",
+                    "es": "Cómo funciona el modal",
+                    "pt": "Como funciona o modal"
+                  },
+                  "slug": {
+                    "en": "how-does-the-modal-work",
+                    "es": "como-se-maneja-el-modal",
+                    "pt": "como-funciona-o-modal"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Managing delivery capacity",
                     "es": "Gestionar capacidad de entrega",
                     "pt": "Gerenciar capacidade de entrega"
@@ -30957,6 +32544,21 @@
                 },
                 {
                   "name": {
+                    "en": "Setting up modal for carriers",
+                    "es": "Configurar modal para transportistas",
+                    "pt": "Configurar modal para transportadoras"
+                  },
+                  "slug": {
+                    "en": "configure-modal",
+                    "es": "configurar-modal",
+                    "pt": "configurar-modal-para-transportadoras"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Setting up shipment",
                     "es": "Configurar grupos de envío",
                     "pt": "Configurar remessa"
@@ -30980,6 +32582,21 @@
                     "en": "setting-up-the-critical-stock-alert",
                     "es": "configurar-la-alerta-de-stock-critico",
                     "pt": "configurar-o-alerta-de-estoque-critico"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "When should I group products in the same shipment?",
+                    "es": "¿Cuándo debo agrupar productos en el mismo envío?",
+                    "pt": "Quando devo agrupar produtos na mesma remessa?"
+                  },
+                  "slug": {
+                    "en": "when-should-i-group-products-in-the-same-shipment",
+                    "es": "cuando-debo-agrupar-productos-en-el-mismo-envio",
+                    "pt": "quando-devo-agrupar-produtos-na-mesma-remessa"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -31101,9 +32718,9 @@
                 "pt": "Tarifas de envio"
               },
               "slug": {
-                "en": "shipping-rates",
-                "es": "tarifas-de-envio",
-                "pt": "tarifas-de-envio"
+                "en": "shipping-rates-category",
+                "es": "tarifas-de-envio-category",
+                "pt": "tarifas-de-envio-category"
               },
               "origin": "",
               "type": "category",
@@ -31118,6 +32735,36 @@
                     "en": "additional-shipping-costs",
                     "es": "adicionales-de-flete",
                     "pt": "adicionais-de-frete"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Managing shipping rates",
+                    "es": "Gestionar las tarifas de envío",
+                    "pt": "Gerenciar Tarifas de envio"
+                  },
+                  "slug": {
+                    "en": "managing-shipping-rates",
+                    "es": "gestionar-las-tarifas-de-envio",
+                    "pt": "gerenciar-tarifas-de-envio"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Shipping rates",
+                    "es": "Tarifas de envío",
+                    "pt": "Tarifas de envio"
+                  },
+                  "slug": {
+                    "en": "shipping-rates",
+                    "es": "tarifas-de-envio",
+                    "pt": "tarifas-de-envio"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -31578,6 +33225,21 @@
                 },
                 {
                   "name": {
+                    "en": "VTEX Pick and Pack Mobile",
+                    "es": "VTEX Pick and Pack Mobile",
+                    "pt": "VTEX Pick and Pack Mobile"
+                  },
+                  "slug": {
+                    "en": "vtex-pick-and-pack-mobile",
+                    "es": "vtex-pick-and-pack-mobile",
+                    "pt": "vtex-pick-and-pack-mobile"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "VTEX Pick and Pack: FAQ",
                     "es": "Preguntas frecuentes sobre VTEX Pick and Pack",
                     "pt": "VTEX Pick and Pack: FAQ"
@@ -31737,6 +33399,21 @@
                     "en": "vtex-shipping-network-dashboard",
                     "es": "panel-vtex-shipping-network",
                     "pt": "painel-vtex-shipping-network"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "VTEX Shipping Network: Deliveries progress",
+                    "es": "VTEX Shipping Network: Progreso de las entregas",
+                    "pt": "VTEX Shipping Network: Entregas Correios"
+                  },
+                  "slug": {
+                    "en": "deliveries-progress-vtex-shipping-network",
+                    "es": "progreso-de-las-entregas-vtex-shipping-network",
+                    "pt": "entregas-correios-vtex-shipping-network"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -31952,6 +33629,21 @@
                     "en": "managing-singleton-content-types",
                     "es": "como-gestionar-content-types-singleton",
                     "pt": "gerenciando-content-types-do-tipo-singleton"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Media - Overview",
+                    "es": "Multimedia - Visión general",
+                    "pt": "Mídia - Visão geral"
+                  },
+                  "slug": {
+                    "en": "media-overview",
+                    "es": "multimedia-vision-general",
+                    "pt": "midia-visao-geral"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -33535,6 +35227,21 @@
                     "en": "pickup-points-for-subscription-orders",
                     "es": "puntos-de-recogida-para-pedidos-de-suscripcion",
                     "pt": "pontos-de-retirada-para-pedidos-de-assinatura"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Subscription plans",
+                    "es": "Planes de suscripción",
+                    "pt": "Planos de assinatura"
+                  },
+                  "slug": {
+                    "en": "subscription-plans",
+                    "es": "planes-de-suscripcion",
+                    "pt": "planos-de-assinatura"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -44610,6 +46317,21 @@
                 "en": "meli-plaintextdescriptionmeli-not-working",
                 "es": "meli-plaintextdescriptionmeli-no-funciona",
                 "pt": "meli-plaintextdescriptionmeli-nao-funciona"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Meli Product error Sequence contains no elements",
+                "es": "Meli Error de producto La secuencia no contiene elementos",
+                "pt": "Meli Erro de produto A sequência não contém elementos"
+              },
+              "slug": {
+                "en": "meli-product-error-sequence-contains-no-elements",
+                "es": "meli-error-de-producto-la-secuencia-no-contiene-elementos",
+                "pt": "meli-erro-de-produto-a-sequencia-nao-contem-elementos"
               },
               "origin": "",
               "type": "markdown",

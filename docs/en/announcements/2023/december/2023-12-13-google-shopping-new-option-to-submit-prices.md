@@ -34,5 +34,5 @@ Accounts not using the Google Shopping integration but wanting to activate the _
 
 ![fluxo-update-news-google-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2023/december/2023-12-13-google-shopping-new-option-to-submit-prices_2.png)
 
-Check out the documentation and learn how to [configure a discount linked to a payment method](/pt/tracks/configurar-integracao-com-o-google-shopping--25Sl7iOqq58PGfVfTAo8Xw/3AqbcsWrge8zLt0BC5CtGd#desconto-vinculado-ao-metodo-de-pagamento) and [how to configure a discount in the connector](/pt/tracks/configurar-integracao-com-o-google-shopping--25Sl7iOqq58PGfVfTAo8Xw/wWyl0Njxgs5KfXvxYZJrl).
+Check out the documentation and learn how to [configure a discount linked to a payment method](/en/tracks/configurar-integracao-com-o-google-shopping--25Sl7iOqq58PGfVfTAo8Xw/3AqbcsWrge8zLt0BC5CtGd#desconto-vinculado-ao-metodo-de-pagamento) and [how to configure a discount in the connector](/en/tracks/configurar-integracao-com-o-google-shopping--25Sl7iOqq58PGfVfTAo8Xw/wWyl0Njxgs5KfXvxYZJrl).
 

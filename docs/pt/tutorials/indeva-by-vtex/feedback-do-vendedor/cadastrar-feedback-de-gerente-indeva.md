@@ -1,7 +1,7 @@
 ---
 title: 'Cadastrar feedback de gerente'
 id: 3BvUxN80W7MY9dgNMIZPPS
-status: CHANGED
+status: PUBLISHED
 createdAt: 2025-09-18T15:32:37.838Z
 updatedAt: 2025-09-18T15:38:52.849Z
 publishedAt: 2025-09-18T15:38:19.988Z

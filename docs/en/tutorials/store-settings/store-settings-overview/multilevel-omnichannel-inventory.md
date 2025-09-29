@@ -105,7 +105,7 @@ The Manual Price feature does not apply to Multilevel Omnichannel Inventory. The
 
 - [ERP Integration](https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide)   
 - [Pricing API REST](https://developers.vtex.com/vtex-rest-api/reference/createupdatepriceorfixedprice).  
-- [Pricing page in the VTEX Admin](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3N9xYhnampRQOrfaTAOxNu)  
+- [Pricing page in the VTEX Admin](/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3N9xYhnampRQOrfaTAOxNu)  
 
 ### New user information
 
@@ -121,7 +121,7 @@ The use of [coupons](/en/tutorial/cupons-beta--1aAEN3ADpz19ss5JCIEBdL), [gift ca
 
 ### Orders integrated asynchronously with price divergence
 
-The store is unable to process orders that have been integrated asynchronously with divergent values for Multilevel Omnichannel Inventory. The [Order Authorization](/en/tutorial/como-funciona-a-autorizacao-de-pedidos--3MBK6CmKHAuUjMBieDU0pn) feature does not support [price divergence rules](/pt/tutorial/regra-de-divergencia-de-valores--6RlFLhD1rIRRshl83KnCjW#) for this scenario. 
+The store is unable to process orders that have been integrated asynchronously with divergent values for Multilevel Omnichannel Inventory. The [Order Authorization](/en/tutorial/como-funciona-a-autorizacao-de-pedidos--3MBK6CmKHAuUjMBieDU0pn) feature does not support [price divergence rules](/en/tutorial/regra-de-divergencia-de-valores--6RlFLhD1rIRRshl83KnCjW#) for this scenario. 
 
 ### Price Table
 

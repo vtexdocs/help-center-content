@@ -1,7 +1,7 @@
 ---
 title: 'Now you can choose the interest type used on installments'
 id: D5XEUzJ6mcY0E0sWwWoWA
-status: CHANGED
+status: PUBLISHED
 createdAt: 2019-01-03T21:13:24.577Z
 updatedAt: 2020-11-27T19:40:11.133Z
 publishedAt: 2020-03-06T14:33:53.099Z

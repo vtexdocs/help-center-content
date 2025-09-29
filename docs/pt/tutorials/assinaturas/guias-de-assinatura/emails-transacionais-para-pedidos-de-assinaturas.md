@@ -29,7 +29,7 @@ Também é possível [criar seu próprio template de email](/pt/tutorial/conhece
 
 ## Como seu cliente acompanha seus pedidos de assinatura
 
-> ℹ️ Em [Minha Conta](/es/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh), os clientes conseguem acessar somente os seus pedidos criados nos últimos dois anos.
+> ℹ️ Em [Minha Conta](/pt/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh), os clientes conseguem acessar somente os seus pedidos criados nos últimos dois anos.
 
 Cada ação ocorrida dentro do fluxo de pedidos de **Assinaturas** contém um gatilho que dispara um email notificando o seu cliente. Após a ativação da assinatura, o cliente receberá emails com detalhes do estado de cada pedido da assinatura toda vez que realizar uma ação. 
 

@@ -25,8 +25,8 @@ This feature allows for purchases made on an e-commerce to be completed with the
 
 1. In the Admin menu of the Franchise Account, which acts as Seller White Label, click on__Payments__
 2. Select **Settings**
-3. [Register the gateway affiliation](http://help.vtex.com/en/tutorial/registering-gateway-affiliations/) that will be used by the Seller White Label to process payments
-4. [Configure the payment options](http://help.vtex.com/en/tutorial/how-to-configure-payment-conditions) that will be sent to Marketplace
+3. [Register the gateway affiliation](/en/tutorial/registering-gateway-affiliations/) that will be used by the Seller White Label to process payments
+4. [Configure the payment options](/en/tutorial/how-to-configure-payment-conditions) that will be sent to Marketplace
 
 ## Register an affiliate to send payment options
 

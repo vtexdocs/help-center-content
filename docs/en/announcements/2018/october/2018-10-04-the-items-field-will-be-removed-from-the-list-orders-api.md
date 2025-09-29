@@ -23,7 +23,7 @@ List Orders API request: `http://{{accountName}}.{{environment}}.com.br/api/oms/
 
 If your store uses the List Orders API and your integration mapping is expected to receive the `items` field, your development team needs to __remove it from the integration mapping__.
 
-> ⚠️ The `items` field of the List Orders API has already been **stale** for quite some time. It does not have any use today, and so your store should not consider it in your integrations. To get order items, you should be using the [Feed API](http://help.vtex.com/en/tutorial/how-the-oms-feed-works) .
+> ⚠️ The `items` field of the List Orders API has already been **stale** for quite some time. It does not have any use today, and so your store should not consider it in your integrations. To get order items, you should be using the [Feed API](/en/tutorial/how-the-oms-feed-works) .
 
 It is important to remember that __the List Orders API remains working normally__. Only the `items` field will be deleted.
 

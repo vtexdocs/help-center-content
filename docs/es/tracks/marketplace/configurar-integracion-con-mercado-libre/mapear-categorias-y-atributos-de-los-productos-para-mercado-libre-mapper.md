@@ -73,4 +73,4 @@ Para mapear los atributos, sigue los pasos a continuación:
 
 Al finalizar el mapeo de categorías y atributos correctamente, el status de la categoría cambiará a **Mapeado** <img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/marketplace/configurar-integracion-con-mercado-libre/mapear-categorias-y-atributos-de-los-productos-para-mercado-libre-mapper_6.JPG" /> y tus productos se anunciarán en el sitio web de Mercado Libre.  
 
-Después del mapeo de productos de moda, como ropa y calzado, es necesario enviar la tabla de medidas del producto a Mercado Livre. Para saber cómo llenar y enviar la tabla de medidas, sigue el tutorial [Tabla de medidas de Mercado Livre](/pt/tutorial/tabela-de-medidas-do-mercado-livre--5dCc9IJ83SjllG75BVCWnr)
+Después del mapeo de productos de moda, como ropa y calzado, es necesario enviar la tabla de medidas del producto a Mercado Livre. Para saber cómo llenar y enviar la tabla de medidas, sigue el tutorial [Tabla de medidas de Mercado Livre](/es/tutorial/tabela-de-medidas-do-mercado-livre--5dCc9IJ83SjllG75BVCWnr)

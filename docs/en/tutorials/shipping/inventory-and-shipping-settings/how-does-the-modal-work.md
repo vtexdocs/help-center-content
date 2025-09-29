@@ -1,7 +1,7 @@
 ---
 title: 'How the modal works'
 id: tutorials_125
-status: CHANGED
+status: PUBLISHED
 createdAt: 2017-04-27T22:18:25.410Z
 updatedAt: 2021-03-26T18:27:59.471Z
 publishedAt: 2019-12-31T15:28:47.027Z

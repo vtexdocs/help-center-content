@@ -25,7 +25,7 @@ En estos casos, se debe notificar a VTEX para permitir que las nuevas tarjetas s
 
 ## Solicitar la inclusión de BIN
 
-Para agegar un BIN o actualizar la información de un BIN existente en VTEX, debes abrir un ticket con el [Soporte VTEX](/es/support).
+Para agegar un BIN o actualizar la información de un BIN existente en VTEX, debes abrir un ticket con el [Soporte VTEX](https://help.vtex.com/es/support).
 
 > ⚠️ Para garantizar la seguridad y la legitimidad de los cambios solicitados, es obligatorio enviar una comprobación formal de la entidad financiera que acredite la titularidad de los BINs informados. Las solicitudes sin esta validación no podrán ser atendidas.
 

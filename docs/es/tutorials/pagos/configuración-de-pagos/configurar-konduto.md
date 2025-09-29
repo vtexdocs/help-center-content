@@ -17,11 +17,11 @@ subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 
 Konduto es un antifraude, sistema externo que analiza las compras realizadas a fin de evitar fraudes.
 
-Este antifraude depende de configuraciones diferentes a los [demás antifraudes que pueden configurarse en su plataforma](http://help.vtex.com/es/tutorial/como-configurar-antifraude/), pues recogen información de navegación y de dispositivo del visitante. Por esta razón, este artículo tiene como objetivo documentar la configuración del Konduto.
+Este antifraude depende de configuraciones diferentes a los [demás antifraudes que pueden configurarse en su plataforma](/es/tutorial/como-configurar-antifraude/), pues recogen información de navegación y de dispositivo del visitante. Por esta razón, este artículo tiene como objetivo documentar la configuración del Konduto.
 
 ## Configure su GTM
 
-GTM es el Google Tag Manager, una herramienta de Google que realiza administración de tags en el site. Ese GTM es entonces asociado en su cuenta e inserta todas las tags configuradas en él en su site. [Vea más detalles sobre cómo configurar el GTM en su tienda](http://help.vtex.com/es/faq/integracion-con-google-tag-manager/).
+GTM es el Google Tag Manager, una herramienta de Google que realiza administración de tags en el site. Ese GTM es entonces asociado en su cuenta e inserta todas las tags configuradas en él en su site. [Vea más detalles sobre cómo configurar el GTM en su tienda](/es/faq/integracion-con-google-tag-manager/).
 
 ### Cree la variable
 
@@ -47,6 +47,6 @@ En su cuenta GTM, cree la tag, tipo **html personalizado** con el script a conti
 Para vincular el **Konduto** a una forma de pago:
 
 1. Acceda a la pestaña **Condiciones de pago**.
-2. Haga clic en la condición deseada o [Configurar condiciones de pago](http://help.vtex.com/es/tutorial/condiciones-de-pago)
+2. Haga clic en la condición deseada o [Configurar condiciones de pago](/es/tutorial/condiciones-de-pago)
 3. Seleccione la opción **Usar antifraude**.
 4. Seleccione el **Konduto**.

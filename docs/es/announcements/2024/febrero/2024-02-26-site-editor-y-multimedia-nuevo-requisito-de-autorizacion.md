@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisES: 'CMS GraphQL API es obligatorio para la gestión de contenido. Actualiza los roles según corresponda.'
 ---
 
-A partir del lunes 18 de marzo de 2024, será obligatorio que todos los [usuarios](https://developers.vtex.com/docs/guides/api-authentication-using-user-tokens) y [claves de aplicación](https://developers.vtex.com/docs/guides/api-authentication-using-application-keys) que necesiten acceder a [Site Editor](/en/tutorial/site-editor-overview--299Dbeb9mFczUTyNQ9xPe1) y [Multimedia](/es/tutorial/media-overview--31fhjHTt4TBoo50AmGQ9b2) tengan el [recurso](/es/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) de License Manager `CMS GraphQL API` agregado a sus [roles](/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc).
+A partir del lunes 18 de marzo de 2024, será obligatorio que todos los [usuarios](https://developers.vtex.com/docs/guides/api-authentication-using-user-tokens) y [claves de aplicación](https://developers.vtex.com/docs/guides/api-authentication-using-application-keys) que necesiten acceder a [Site Editor](/es/tutorial/site-editor-overview--299Dbeb9mFczUTyNQ9xPe1) y [Multimedia](/es/tutorial/media-overview--31fhjHTt4TBoo50AmGQ9b2) tengan el [recurso](/es/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) de License Manager `CMS GraphQL API` agregado a sus [roles](/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc).
 
 ## ¿Qué cambió?
 

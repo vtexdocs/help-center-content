@@ -70,8 +70,8 @@ To learn more, check out the following articles:
 - [Seller Portal: How Catalog works](/en/tutorial/seller-portal-como-funciona-o-catalogo--7pMB6YOt6YQDQQbzFB4Pxp)           
 - [All Products](/en/tutorial/lista-de-produtos-beta--49vxWqoaWRZC4atwLz6cMg)    
 - [How to create a product](/en/tutorial/como-criar-um-produto-beta--671zAWe0B9eCikzDu7kB1G)  
-- [Categories](/tutorial/categories-beta--798zOqqqbeec776xhcXSuV)    
-- [Brands](/entutorial/brands-beta--3QvNtxO57U0QPNOGutv7Sy)
+- [Categories](/en/tutorial/categories-beta--798zOqqqbeec776xhcXSuV)    
+- [Brands](/en/entutorial/brands-beta--3QvNtxO57U0QPNOGutv7Sy)
 - [Seller Portal: Shared Products](/en/tutorial/seller-portal-produtos-compartilhados--6vUGj2UmOuLzQTK9pj04lu)    
 - [Seller Portal: Product details](/en/tutorial/seller-portal-detalhes-do-produto--K0WWsERWj7aQtmZinhYoP)     
 
@@ -128,7 +128,7 @@ Whenever a product or variation is created on the Seller Portal, they are automa
 
 “Offer” is how we call a product or variation from a seller that was sent to the marketplace and whose price and inventory have been configured. When you set up price and inventory conditions, you are preparing your product or variation for it to become an offer. Once the price and inventory conditions are configured, the product becomes an offer in the marketplace’s window display. To learn more, check out our article:  
 
-- [Seller Portal: Offers and Sending Products to the Marketplace](/es/tutorial/anuncios-y-envio-de-productos-al-marketplace--3RwSj7AyBoPtFbXkS7REiu)  
+- [Seller Portal: Offers and Sending Products to the Marketplace](/en/tutorial/anuncios-y-envio-de-productos-al-marketplace--3RwSj7AyBoPtFbXkS7REiu)  
 
 ### 7. Orders
 The moment the end customer pushes the Checkout button, an order is generated inside VTEX. This means that you will now be able to track the order flow through the Order Management module within your store's admin panel. That is, you can now know the details of each step throughout the order progress. To access the Orders module, go to the sidebar and click on Orders > All Orders / Transactions.
@@ -179,7 +179,7 @@ If more people in your operation need to access the Seller Portal, account Owner
 
 - [Account management](/en/tutorial/visao-geral-do-modulo-license-manager/)      
 - [How to manage users](/en/tutorial/gerenciando-usuarios--tutorials_512)     
-- [User Roles](/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc)
+- [User Roles](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc)
 
 **Profile Settings**
 These settings apply to your individual user profile. They include Personal Data and Authentication. To access this feature, click on your profile avatar in the upper right corner > User settings.

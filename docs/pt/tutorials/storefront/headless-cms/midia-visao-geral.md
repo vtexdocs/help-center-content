@@ -1,7 +1,7 @@
 ---
 title: 'Mídia - Visão geral'
 id: 31fhjHTt4TBoo50AmGQ9b2
-status: CHANGED
+status: PUBLISHED
 createdAt: 2023-05-29T23:26:35.354Z
 updatedAt: 2025-03-10T18:01:14.864Z
 publishedAt: 2024-07-03T19:28:25.937Z
@@ -15,24 +15,9 @@ locale: pt
 subcategoryId: 27t6x0lngvjI3bnUg5AgEO
 ---
 
-O Mídia é uma funcionalidade responsável por gerenciar os arquivos de mídia da sua loja, como imagens e vídeos. Para imagens, você pode fazer o upload e organizar arquivos de mídia de até 5 MB usando o Mídia nos seguintes formatos: `png`, `jpg`, `gif`, `svg` e `webp`. 
+O Mídia é uma funcionalidade responsável por gerenciar os arquivos de mídia da sua loja, como imagens e vídeos. Para imagens, você pode fazer o upload e organizar arquivos de mídia de até 5 MB usando o Mídia nos seguintes formatos: `png`, `jpg`, `gif`, `svg` e `webp`. Para vídeos, você pode adicionar uma URL para o provedor de vídeo hospedado externamente, como YouTube ou Vimeo.
 
 > ⚠️ Para upload, os arquivos devem ter uma extensão em minúsculo, por exemplo, `store.png`, e tamanho de até **5 MB**.
-
-Para vídeos, você pode adicionar uma URL para o provedor de vídeo hospedado externamente, como YouTube ou Vimeo. Os formatos aceitos são:
-
-**Vimeo**
-
-- `https://vimeo.com/{VIDEO_ID}`
-
-**Youtube**
-
-- `https://youtu.be/{VIDEO_ID}`
-- `https://www.youtube.com/watch?v={VIDEO_ID}`
-- `https://www.youtube.com/embed/{VIDEO_ID}`
-- `https://www.youtube.com/v/{VIDEO_ID}`
-
-> ⚠️ Substitua `{VIDEO_ID}` de acordo com seu cenário.
 
 ![Mídia Visão Geral](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/headless-cms/midia-visao-geral_1.png)
 

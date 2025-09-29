@@ -15,11 +15,11 @@ locale: es
 subcategoryId: 4D5LrWwlHGmOWMomOaaGee
 ---
 
-Cuando se reembolsa el valor de un pedido al cliente, VTEX envía automáticamente un correo electrónico a ese cliente, notificándole que el reembolso fue exitoso. Usted puede desactivar o personalizar la plantilla para este correo electrónico en el [Centro de Mensajes de su tienda](/en/tracks/transactional-emails--6IkJwttMw5T84mlY9RifRP/5uvq01BDu6nnDEJpseR1aH).
+Cuando se reembolsa el valor de un pedido al cliente, VTEX envía automáticamente un correo electrónico a ese cliente, notificándole que el reembolso fue exitoso. Usted puede desactivar o personalizar la plantilla para este correo electrónico en el [Centro de Mensajes de su tienda](/es/tracks/transactional-emails--6IkJwttMw5T84mlY9RifRP/5uvq01BDu6nnDEJpseR1aH).
 
 ## Personalización de plantillas
 
-Para hacer esto, ingrese al Centro de Mensajes y busque la plantilla **Order Refund Customer**. O busque la clave de la plantilla: `vtexcommerce-order-refunded`. Lea nuestra [guía del Centro de Mensajes](/en/tracks/transactional-emails--6IkJwttMw5T84mlY9RifRP/335JZKUYgvYlGOJgvJYxRO) para aprender a personalizar las plantillas de email transaccional.
+Para hacer esto, ingrese al Centro de Mensajes y busque la plantilla **Order Refund Customer**. O busque la clave de la plantilla: `vtexcommerce-order-refunded`. Lea nuestra [guía del Centro de Mensajes](/es/tracks/transactional-emails--6IkJwttMw5T84mlY9RifRP/335JZKUYgvYlGOJgvJYxRO) para aprender a personalizar las plantillas de email transaccional.
 
 ## Evento de activación del email
 

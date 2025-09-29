@@ -93,7 +93,7 @@ Como se dijo anteriormente, cada documento tiene un ID que la plataforma genera 
 
 Por ejemplo, puedes consultar un documento con información de un cliente especificando el valor del campo `email` del cliente.
 
-> ℹ️ Obtén más información sobre cómo <a href=/es/tutorial/setting-up-an-index-on-master-data--tutorials_785>configurar índices en Master Data v1</a> o <a href=https://developers.vtex.com/vtex-rest-api/reference/putindices>configurar índices con la API del Master Data v2</a>.
+> ℹ️ Obtén más información sobre cómo [configurar índices en Master Data v1](/es/tutorial/setting-up-an-index-on-master-data--tutorials_785) o [configurar índices con la API del Master Data v2](https://developers.vtex.com/vtex-rest-api/reference/putindices).
 
 ## Triggers
 
@@ -108,7 +108,7 @@ Obtén más información sobre cómo [configurar triggers en el Master Data v1] 
 
 Con la v2 de Master Data puedes definir formatos de datos con esquemas JSON. Este formato indica cómo Master Data debe validar e indexar los documentos.
 
-> ℹ️ Obtén más información en <a href=https://json-schema.org/>esquemas JSON</a>.
+> ℹ️ Obtén más información en [esquemas JSON](https://json-schema.org/).
 
 Puedes guardar un documento en cualquier entidad de datos si el contenido es un JSON válido. Una entidad de datos puede tener asociados o no varios esquemas JSON.
 

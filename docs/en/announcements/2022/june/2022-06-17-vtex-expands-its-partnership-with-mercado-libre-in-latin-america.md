@@ -50,6 +50,6 @@ All new features introduced by the certification aim to increase sales and impro
 
 ## What needs to be done?
 
-Users already using the VTEX-Mercado Libre integration can contact [VTEX Support](/support?cultureInfo=en-us) or their CSM team for details on the new features.
+Users already using the VTEX-Mercado Libre integration can contact [VTEX Support](/en/tutorials/how-does-vtex-support-work) or their CSM team for details on the new features.
 
 If your store is not integrated with Mercado Libre yet, check out our [Integration guide](/en/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq).

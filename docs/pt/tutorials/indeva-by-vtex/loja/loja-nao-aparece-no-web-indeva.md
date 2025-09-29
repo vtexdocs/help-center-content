@@ -1,7 +1,7 @@
 ---
 title: 'Loja não aparece no Web Indeva'
 id: 2IqKtPzDDKrTNjyPDJpjpV
-status: CHANGED
+status: PUBLISHED
 createdAt: 2025-09-11T16:21:12.144Z
 updatedAt: 2025-09-12T10:40:35.583Z
 publishedAt: 2025-09-11T16:36:00.246Z

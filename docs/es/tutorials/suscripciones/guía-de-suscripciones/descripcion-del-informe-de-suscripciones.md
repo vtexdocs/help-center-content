@@ -29,7 +29,7 @@ Existen los siguientes tipos de informes:
 - [Suscripciones creadas entre fechas](#suscripciones-creadas-entre-fechas)
 - [Suscripciones ejecutadas entre fechas](#suscripciones-ejecutadas-entre-fechas)
 
-> ℹ️ También puedes usar el endpoint <a href=https://developers.vtex.com/docs/api-reference/subscriptions-api-v3#get-/api/rns/pvt/reports>List report templates</a> para conocer los tipos de informe que puedes generar.
+> ℹ️ También puedes usar el endpoint [List report templates](https://developers.vtex.com/docs/api-reference/subscriptions-api-v3#get-/api/rns/pvt/reports) para conocer los tipos de informe que puedes generar.
 
 Este artículo presenta los diferentes datos que devuelve cada tipo de informe de suscripciones.
 

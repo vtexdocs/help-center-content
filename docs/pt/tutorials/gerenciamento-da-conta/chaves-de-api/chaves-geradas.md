@@ -25,7 +25,7 @@ A página apresenta as informações a seguir em uma tabela:
 
 | Coluna | Descrição |
 | ---- | ---- |
-| **Chave/Nome** | Chave de API, seguida pelo nome definido durante a criação da chave. Se o token tiver passado do período de renovação recomendado (3 meses, por padrão), ao lado da chave aparece um ícone de alerta para renovação. Saiba mais em [Configurar alerta para renovar tokens de API](/en/tutorial/configurar-a-duracao-de-chaves-de-api--kcGIFysFt02FDuhsfjQwZ). |
+| **Chave/Nome** | Chave de API, seguida pelo nome definido durante a criação da chave. Se o token tiver passado do período de renovação recomendado (3 meses, por padrão), ao lado da chave aparece um ícone de alerta para renovação. Saiba mais em [Configurar alerta para renovar tokens de API](/pt/tutorial/configurar-a-duracao-de-chaves-de-api--kcGIFysFt02FDuhsfjQwZ). |
 | **Perfil de acesso** | Perfis de acesso associados à chave de API. |
 | **Data de criação** | Data de criação da chave de API. |
 | **Status** | Status da chave de API, que pode ser **Ativo** ou **Inativo**. |

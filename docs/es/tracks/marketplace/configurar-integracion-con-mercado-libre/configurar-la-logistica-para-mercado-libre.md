@@ -131,7 +131,7 @@ Para configurar, realice los siguientes pasos:
 ## Configurando el modelo de envío
 Después de definir qué modelo de envío se utilizará para la integración de tu tienda con Mercado Libre, es necesario configurar en la integración si se utilizará el ME1 o el ME2. Para esto, debes seguir los siguientes pasos, **crear un campo personalizable de producto** y **llenarlo**.  
 
-Para crear un campo de producto, sigue las instrucciones del tutorial [Registrar especificaciones o campos de producto](/pt/tutorial/criando-um-campo-de-produto--tutorials_106).  
+Para crear un campo de producto, sigue las instrucciones del tutorial [Registrar especificaciones o campos de producto](/es/tutorial/criando-um-campo-de-produto--tutorials_106).  
 
 > ⚠️ El nombre del campo creado debe ser "meli_shipping_mode" y el valor del campo debe ser completado como "me1" o "me2". Si el nombre del campo o el valor es diferente, la integración no reconocerá el atributo.
 

@@ -15,14 +15,14 @@ announcementImageID: 'undefined'
 announcementSynopsisPT: 'O VTEX Pick and Pack oferece aos lojistas um único lugar para gerenciar a separação, empacotamento e entrega last mile.'
 ---
 
-O **[VTEX Pick and Pack](/es/tutorial/vtex-pick-and-pack--1OOops3WrUyz7e0bnhkfXU)** é a solução que lhe oferece um único lugar para gerenciar a separação, o empacotamento e a entrega last mile a partir de lojas físicas e estoques.
+O **[VTEX Pick and Pack](/pt/tutorial/vtex-pick-and-pack--1OOops3WrUyz7e0bnhkfXU)** é a solução que lhe oferece um único lugar para gerenciar a separação, o empacotamento e a entrega last mile a partir de lojas físicas e estoques.
 
-Além disso, o **VTEX Pick and Pack** [coleta dados e análises](/es/tutorial/vtex-pick-and-pack-fulfillment--1zGUEItEEVsal6cuBEBNcA#insights) da sua loja, gerando informações que lhe ajudam a tomar decisões estratégicas e escalar sua operação omnichannel. 
+Além disso, o **VTEX Pick and Pack** [coleta dados e análises](/pt/tutorial/vtex-pick-and-pack-fulfillment--1zGUEItEEVsal6cuBEBNcA#insights) da sua loja, gerando informações que lhe ajudam a tomar decisões estratégicas e escalar sua operação omnichannel. 
 
 A solução combina duas funcionalidades e aplicativos móveis:
 
-* [VTEX Fulfillment](/es/tutorial/vtex-pick-and-pack-fulfillment--1zGUEItEEVsal6cuBEBNcA): gerenciamento de separação e empacotamento.
-* [Last Mile](/en/tutorial/vtex-pick-and-pack-last-mile--HN7WKV0xoq2ssVjsJlfzr): controle da entrega last mile.
+* [VTEX Fulfillment](/pt/tutorial/vtex-pick-and-pack-fulfillment--1zGUEItEEVsal6cuBEBNcA): gerenciamento de separação e empacotamento.
+* [Last Mile](/pt/tutorial/vtex-pick-and-pack-last-mile--HN7WKV0xoq2ssVjsJlfzr): controle da entrega last mile.
 * **Aplicativos móveis:** aplicativos móveis para separadores e entregadores.
 
 ![pick_pack_gif_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2023/abril/2023-04-06-crie-e-escale-sua-operacao-de-fulfillment-com-o-vtex-pick-and-pack_1.gif)
@@ -66,6 +66,6 @@ Para começar a usar o **VTEX Pick and Pack**, fale com o seu Customer Success M
 
 ## Saiba mais
 
-* [VTEX Pick and Pack](/es/tutorial/vtex-pick-and-pack--1OOops3WrUyz7e0bnhkfXU)
-* [VTEX Pick and Pack: Fulfillment](/es/tutorial/vtex-pick-and-pack-fulfillment--1zGUEItEEVsal6cuBEBNcA)
-* [VTEX Pick and Pack: Last Mile](/en/tutorial/vtex-pick-and-pack-last-mile--HN7WKV0xoq2ssVjsJlfzr)
+* [VTEX Pick and Pack](/pt/tutorial/vtex-pick-and-pack--1OOops3WrUyz7e0bnhkfXU)
+* [VTEX Pick and Pack: Fulfillment](/pt/tutorial/vtex-pick-and-pack-fulfillment--1zGUEItEEVsal6cuBEBNcA)
+* [VTEX Pick and Pack: Last Mile](/pt/tutorial/vtex-pick-and-pack-last-mile--HN7WKV0xoq2ssVjsJlfzr)

@@ -89,7 +89,7 @@ These are:
 
 For these two folders, what matters is the control or placeholder that reads their content. Their names can be freely edited.
 
-> ⚠️ Since they are private folders, `/account` and `/account/orders` **must require authentication**. See [in this article](http://help.vtex.com/en/tutorial/requering-authentication-on-store-pages) how to ensure they are configured to ask for user authentication.
+> ⚠️ Since they are private folders, `/account` and `/account/orders` **must require authentication**. See [in this article](/en/tutorial/requering-authentication-on-store-pages) how to ensure they are configured to ask for user authentication.
 
 ### Useful folders
 
@@ -129,7 +129,7 @@ You can check out all available native controls and their respective uses in our
 
 - [Associating a template with a layout](/en/tutorial/associando-um-template-a-um-layout--7CkgOHRj7DVbsRxyR8YQrK?&utm_source=autocomplete): Associate a template with a layout using the Sites and Channels folder.
 
-- [Managing placeholders](/es/tutorial/gerenciandoplaceholders--29Y7r9JqcWIqmGipReGLQI): A placeholder is a configurable snippet of code that meets conditions defined by the store. Learn how to insert and configure a placeholder, for example, a banner on your store’s homepage.
+- [Managing placeholders](/en/tutorial/gerenciandoplaceholders--29Y7r9JqcWIqmGipReGLQI): A placeholder is a configurable snippet of code that meets conditions defined by the store. Learn how to insert and configure a placeholder, for example, a banner on your store’s homepage.
 
 - [Using VTEX's native controls](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/7mGkGmo8l6wf4fXJCkWwPi?&utm_source=autocomplete): Controls are snippets of codes that you can use in your website's templates to perform specific actions. For example, you can use a control on a product page to display the product name.
 

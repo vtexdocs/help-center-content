@@ -19,7 +19,7 @@ El módulo SKUs Recibidos es donde los *marketplaces* evalúan las sugerencias d
 
 ## Más opciones de aprobación automática de SKUs vía API
 
-Existen múltiples opciones de [aprobación de SKUs Recibidos](/en/tutorial/manual-sku-cataloging--tutorials_396). Además de los endpoints que [activan y desactivan](/announcements/marketplace-improvements-on-received-skus--5AY73ocF0evsh3yzY6AMX6) la aprobación automática de SKUs en su *marketplace*, añadimos nuevos endpoints a nuestra API para configurar reglas de aprobación. La configuración puede ser aplicada a sellers específicos o a toda la cuenta del *marketplace*. La API permite configurar los siguientes campos:  
+Existen múltiples opciones de [aprobación de SKUs Recibidos](/es/tutorial/manual-sku-cataloging--tutorials_396). Además de los endpoints que [activan y desactivan](/es/announcements/marketplace-improvements-on-received-skus--5AY73ocF0evsh3yzY6AMX6) la aprobación automática de SKUs en su *marketplace*, añadimos nuevos endpoints a nuestra API para configurar reglas de aprobación. La configuración puede ser aplicada a sellers específicos o a toda la cuenta del *marketplace*. La API permite configurar los siguientes campos:  
 
 - **Aprobación automática:** configure reglas para la aprobación automática de SKUs.
 - **Matcher:** registre un matcher para su *marketplace*, ya sea el Matcher VTEX o uno externo.

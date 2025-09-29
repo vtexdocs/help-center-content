@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 6jaCCq5pVL7VxL0WNWV0cF
 ---
 
-> ⚠️ This tutorial is valid only for stores using [Legacy CMS Portal](/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj) search. If your store uses [Intelligent Search](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG), check [Indexing History ](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4flMwTaQL8FRKl1YT58ezH) to follow the indexing process.
+> ⚠️ This tutorial is valid only for stores using [Legacy CMS Portal](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj) search. If your store uses [Intelligent Search](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG), check [Indexing History ](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4flMwTaQL8FRKl1YT58ezH) to follow the indexing process.
 
 Indexing is a process that prepares the general SKU data, such as catalogue data, prices and inventory, and updates the information to serve as a basis for searches and for setting up the site's product display shelves.
 
@@ -64,4 +64,4 @@ SKU quantity for the product:
 
 ## Additional information
 
-[Why hasn't my product indexed?](http://help.vtex.com/faq/--frequentlyAskedQuestions_1608)
+[Why hasn't my product indexed?](/en/faq/--frequentlyAskedQuestions_1608)

@@ -80,7 +80,7 @@ Ante el mensaje «Tu tienda todavía no tiene redes habilitadas para Google Pay.
 
 * El botón de alternancia está activado, pero no es posible finalizar el proceso
 
-Si al activar el botón de alternancia no aparece el mensaje «Google Pay activado con éxito», significa que puede haber ocurrido algún tipo de inestabilidad en el sistema. Si el problema persiste, el usuario recibirá un aviso para ponerse en contacto con [el soporte de VTEX](/es/support).
+Si al activar el botón de alternancia no aparece el mensaje «Google Pay activado con éxito», significa que puede haber ocurrido algún tipo de inestabilidad en el sistema. Si el problema persiste, el usuario recibirá un aviso para ponerse en contacto con [el soporte de VTEX](https://help.vtex.com/es/support).
 
 ### Problemas que pueden ocurrir durante la compra
 

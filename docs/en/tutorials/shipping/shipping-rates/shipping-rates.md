@@ -1,7 +1,7 @@
 ---
 title: 'Shipping rates'
 id: 1Balpg3rv0854udEPedvMM
-status: CHANGED
+status: PUBLISHED
 createdAt: 2021-08-12T16:00:03.291Z
 updatedAt: 2023-03-29T14:47:11.976Z
 publishedAt: 2023-03-29T14:19:51.929Z
@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 7uJcyu0VawEm8ggqKu404u
 ---
 
-Shipping rates are the shipping options your store offers to customers, and they are related to your store's [shipping policies](/pt/tutorial/politica-de-envio--tutorials_140). Prices agreed between your store and the responsible for the delivery service, such as carriers, pickup points, and service providers, must be configured as **shipping rates.**
+Shipping rates are the shipping options your store offers to customers, and they are related to your store's [shipping policies](/en/tutorial/politica-de-envio--tutorials_140). Prices agreed between your store and the responsible for the delivery service, such as carriers, pickup points, and service providers, must be configured as **shipping rates.**
 
 > ⚠️ The [total shipping cost](/en/tutorial/total-shipping-cost--5bwhIO108VA5Y2YOpef9lV) to the customer includes the shipping rate, [additional shipping costs](/en/tutorial/additional-shipping-costs--2vqGwMn0LabkOHY6zSHYNV) and, a loading dock fee.
 

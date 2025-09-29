@@ -31,11 +31,11 @@ VTEX Shield already offered [Web Application Firewall (WAF)](/en/tutorial/web-ap
 
 ### Custom SSL certificates
 
-By default, VTEX uses [SSL certificates](/pt/tutorial/security-certificate-ssl--tutorials_1308) from the [Let's Encrypt](https://letsencrypt.org/) certificate authority. However, some stores need to maintain direct control over digital certificates to meet specific compliance or security requirements.
+By default, VTEX uses [SSL certificates](/en/tutorial/security-certificate-ssl--tutorials_1308) from the [Let's Encrypt](https://letsencrypt.org/) certificate authority. However, some stores need to maintain direct control over digital certificates to meet specific compliance or security requirements.
 
 With custom SSL certificates, stores with specific security or compliance needs can install and manage their own custom certificates directly through the VTEX Admin.
 
-Learn more in [Custom SSL certificates](/pt/tutorial/custom-ssl-certificates--1hoaDEbU50PDZSe6AYep9q).
+Learn more in [Custom SSL certificates](/en/tutorial/custom-ssl-certificates--1hoaDEbU50PDZSe6AYep9q).
 
 ### Mutual Transport Layer Security (mTLS)
 

@@ -48,5 +48,5 @@ If the products have already been cataloged, you must submit the product prices 
 3. Click the `Actions` button.  
 4. Click **Reprocess**.  
 
-Repeat the process for each product with the status  **Processed with error**. If the error persists, please contact the [VTEX support team](/en/support).  
+Repeat the process for each product with the status  **Processed with error**. If the error persists, please contact the [VTEX support team](https://help.vtex.com/en/support).  
 

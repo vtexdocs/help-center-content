@@ -17,7 +17,7 @@ subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 
 The Shopping Feed platform allows global brands to centralize, optimize, and track the distribution of their product catalog across marketplaces, comparison sites, affiliate networks, and retargeting campaigns. Integrating a VTEX store with the Shopping Feed connector enables the store to use Shopping Feed's ecommerce feed management solution to increase the visibility and profitability of its products on Amazon, Google Shopping, Facebook, eBay, Criteo, Etsy, and [others](https://shoppingfeed.com/en/channels).  
 
-> ⚠️ To integrate with Shopping Feed, you must contact the [VTEX support team](/support?/cultureInfo=en) before following this tutorial.  
+> ⚠️ To integrate with Shopping Feed, you must contact the [VTEX support team](/en/support?/cultureInfo=en) before following this tutorial.  
 
 ![Logo shopping feed](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/integrations/integration-settings/shopping-feed-integration_1.png)
 
@@ -48,7 +48,7 @@ To configure the connector, follow the steps below:
 
 After the app is installed in the store, a new menu option becomes available in the VTEX Admin under **Apps > Installed Apps > Shopping Feed.**  
 
-> ⚠️ Before starting the configurations, you must have your [Shopping Feed credentials](/support?/cultureInfo=en).  
+> ⚠️ Before starting the configurations, you must have your [Shopping Feed credentials](/en/support?/cultureInfo=en).  
 
 Each sales channel on Shopping Feed that the seller wants to integrate needs to be configured in the connector. For this, the processes for **Configure Affiliate for ShoppingFeed** and **Create feed** must be repeated for each sales channel.  
 

@@ -1,7 +1,7 @@
 ---
 title: 'Discontinuation of waiting-for-seller-confirmation and order-completed order Marketplace statuses'
 id: 7jnFwL3cIqwdTu7yb4LXwj
-status: CHANGED
+status: PUBLISHED
 createdAt: 2019-06-28T13:57:39.046Z
 updatedAt: 2020-11-27T19:40:14.278Z
 publishedAt: 2020-04-02T16:47:32.151Z

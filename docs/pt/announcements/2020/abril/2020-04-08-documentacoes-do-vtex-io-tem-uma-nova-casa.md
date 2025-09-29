@@ -1,7 +1,7 @@
 ---
 title: 'Documentação do VTEX IO tem uma nova casa'
 id: 2eOYoB8gNNNSq6zukr8hCH
-status: CHANGED
+status: PUBLISHED
 createdAt: 2020-04-08T13:51:13.362Z
 updatedAt: 2020-05-27T15:16:07.142Z
 publishedAt: 2020-04-09T03:08:06.174Z

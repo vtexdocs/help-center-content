@@ -25,7 +25,7 @@ When there is more than one item in the cart, the shipping cost divided by each 
 
 Let's look at how the cost of shipping calculation would be calculated on a cart with 5 items, with a total shipping cost of 200 currency units:
 
-> ℹ️ To find out the cost of shipping a cart, please make [shipping simulation](http://help.vtex.com/en/tutorial/freight-simulation). To find out the weight of a SKU, access the **Products and SKU** page in the Catalog menu and look for **Shipping Weight**.
+> ℹ️ To find out the cost of shipping a cart, please make [shipping simulation](/en/tutorial/freight-simulation). To find out the weight of a SKU, access the **Products and SKU** page in the Catalog menu and look for **Shipping Weight**.
 
 - __Total Cost of Shipping:__ 200
 - __Product A Weight:__ 20

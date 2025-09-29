@@ -35,7 +35,7 @@ Para definir os valores para repasse externo ao ambiente da VTEX, utilize os [re
 
 Confira abaixo as configurações necessárias no seu Admin VTEX para criar comissões sobre pedidos de sellers e para tornar o seller ou marketplace o processador de pagamentos.
 
-> ℹ️ Caso a sua integração com sellers externos ou sellers VTEX seja feita por meio de API, confira <a href = "https://developers.vtex.com/vtex-rest-api/docs/external-seller-processing-payments">External seller processing payment</a>.
+> ℹ️ Caso a sua integração com sellers externos ou sellers VTEX seja feita por meio de API, confira [External seller processing payment](https://developers.vtex.com/vtex-rest-api/docs/external-seller-processing-payments).
 
 ### Configurar comissões para seller
 

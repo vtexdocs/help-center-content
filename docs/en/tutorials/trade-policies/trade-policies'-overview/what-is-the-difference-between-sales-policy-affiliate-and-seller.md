@@ -45,7 +45,7 @@ Each marketplace must have a __unique affiliate identifier__.
 
 After creating an [affiliate](/en/tutorial/configuring-affiliates/), you must associate a sales policy with it. The sales policy contains the product assortment, logistics and price information that will be sent to the affiliate.
 
-> ℹ️ If the marketplace configuration is made through the [Bridge](http://help.vtex.com/en/tutorial/configuring-a-marketplace-sales-policy/) module, the affiliate will be automatically created in the OMS.
+> ℹ️ If the marketplace configuration is made through the [Bridge](/en/tutorial/configuring-a-marketplace-sales-policy/) module, the affiliate will be automatically created in the OMS.
 
 #### **LEAR MORE**
 

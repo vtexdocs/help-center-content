@@ -54,4 +54,4 @@ Para garantir que o pedido seja faturado corretamente, é necessário observar o
 - Cuando sea necesario emitir más de una factura para un pedido, la suma del valor total de las facturas registradas debe ser igual al valor total del pedido.
 - El valor total del pedido se actualizará en caso de que se [modifiquen o remuevan ítems](/es/tutorial/cambiar-items-de-un-pedido-finalizado--tutorials_190).
 
-> ⚠️ Si el pedido todavía continúa con el status `Faturado` después del registro manual de las facturas, solicita más información abriendo un ticket con el [Soporte VTEX](/es/support).
+> ⚠️ Si el pedido todavía continúa con el status `Faturado` después del registro manual de las facturas, solicita más información abriendo un ticket con el [Soporte VTEX](https://help.vtex.com/es/support).

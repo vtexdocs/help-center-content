@@ -23,7 +23,7 @@ Puedes empezar consultando los artículos del Help Center y las secciones presen
 
 VTEX tiene como objetivo garantizar el cumplimiento de los procedimientos y políticas de pago a los proveedores de sus sucursales; para hacerlo, implementó prácticas específicas que los proveedores deben seguir, dependiendo de su ubicación:
 
-- [Cuentas por pagar - Brasil](/pt/tutorial/contas-a-pagar-brasil--tutorials_660): prácticas a seguir para todos los pagos a proveedores relacionados con los procedimientos de cuentas por pagar de las sucursales de VTEX en Brasil.
+- [Cuentas por pagar - Brasil](/es/tutorial/contas-a-pagar-brasil--tutorials_660): prácticas a seguir para todos los pagos a proveedores relacionados con los procedimientos de cuentas por pagar de las sucursales de VTEX en Brasil.
 - [Cuentas por pagar - Internacional](/es/tutorial/cuentas-por-pagar-internacional--3yea9sIlsA0KgUC28ASCGs): prácticas a seguir para todos los pagos a proveedores relacionados con los procedimientos de cuentas por pagar de las sucursales de VTEX a excepción de Brasil.
 
 > ℹ️ Para consultar la lista de sucursales VTEX en todo el mundo y saber en qué país se emiten facturas, consulta el artículo [ País de facturación de la tienda. ](/es/tutorial/nombres-de-las-sucursales-vtex-en-el-mundo--zg05n6OIOZOEmLW7dcq9z)

@@ -1,7 +1,7 @@
 ---
 title: 'Mudança no formato do campo Authorized Date da planilha de exportação de pedidos visa garantir a qualidade dos nossos dados'
 id: 4bEpPLIkpG90dJ3QCIujx1
-status: CHANGED
+status: PUBLISHED
 createdAt: 2019-05-23T13:42:37.232Z
 updatedAt: 2020-11-27T19:40:28.883Z
 publishedAt: 2019-12-31T15:13:08.423Z

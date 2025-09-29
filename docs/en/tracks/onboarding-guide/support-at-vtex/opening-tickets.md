@@ -30,7 +30,7 @@ You can open tickets with VTEX Support related to:
 > ℹ️ Learn more about how to open a ticket in the article  [Opening tickets with VTEX Support. ](/en/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM)
 
 ## Accessing Copilot
-[Copilot](/pt/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM#2-acessar-o-copilot) is a tool integrated into the platform that streamlines technical support. It allows you to solve questions and identify problems by providing automatic guidance.
+[Copilot](/en/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM#2-acessar-o-copilot) is a tool integrated into the platform that streamlines technical support. It allows you to solve questions and identify problems by providing automatic guidance.
 
 To access Copilot and start interacting with support, follow the steps below:
 
@@ -50,6 +50,6 @@ Copilot will respond automatically and guide you through the process. If your qu
 There are three ways to open a commercial or financial ticket:
 
 - Accessing the [Support page](https://vtexhelp.zendesk.com/auth/v2/login/signin?return_to=https%3A%2F%2Fsupport.vtex.com%2Fhc%2Fpt-br%2Frequests&theme=hc&locale=pt-br&brand_id=144968&auth_origin=144968%2Ctrue%2Ctrue).
-- Going to any [Help Center](https://newhelp.vtex.com/) page and clicking Support at the top or Contact at the bottom of the page.
+- Going to any [Help Center](https://help.vtex.com/) page and clicking Support at the top or Contact at the bottom of the page.
 - Accessing the VTEX Admin, clicking the question mark icon <i class="fas fa-question-circle"></i> from the **Information Center** and choosing the option **Talk to our experts**.
 

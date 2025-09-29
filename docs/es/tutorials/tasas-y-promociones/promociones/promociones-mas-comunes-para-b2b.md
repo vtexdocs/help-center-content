@@ -1,7 +1,7 @@
 ---
 title: 'Promociones más comunes para B2B'
 id: XoM951AzUIvfaH71UdANf
-status: CHANGED
+status: PUBLISHED
 createdAt: 2020-05-29T15:34:34.231Z
 updatedAt: 2020-11-27T19:40:15.439Z
 publishedAt: 2020-09-16T20:22:59.868Z

@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 1P1vFnzQ4TQJsBRDoPVKUI
 ---
 
-> ℹ️ Esse aplicativo está em fase Beta, o que significa que estamos trabalhando para aprimorá-lo. Em caso de dúvidas, entre em contato com <a href= "https://support.vtex.com/hc/pt-br/requests">nosso Suporte</a>.
+> ℹ️ Esse aplicativo está em fase Beta, o que significa que estamos trabalhando para aprimorá-lo. Em caso de dúvidas, entre em contato com [nosso Suporte](https://support.vtex.com/hc/pt-br/requests).
 
 O aplicativo Amazon Multi-Channel Fulfillment (MCF) possibilita a integração do seu negócio com o programa homônimo. Com a integração, clientes VTEX podem usar a rede de logística da Amazon em suas próprias lojas. Assim, os itens de venda ficam armazenados nos centros de distribuição Amazon, e após cada venda no seu ecommerce, a plataforma VTEX envia os dados do pedido para que a Amazon separe, embale e envie aos destinatários.
 
@@ -29,7 +29,7 @@ Este tutorial contém as informações necessárias para a instalação e config
 
 Antes de instalar, é preciso:
 
-* Ter uma conta de [Seller na Amazon](https://sell.amazon.com/). Consulte o artigo [Configurações de conta na Amazon](/en/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/43L0dpbjLBz6tcim1BbTzf) para saber mais sobre as configurações de conta necessárias.
+* Ter uma conta de [Seller na Amazon](https://sell.amazon.com/). Consulte o artigo [Configurações de conta na Amazon](/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/43L0dpbjLBz6tcim1BbTzf) para saber mais sobre as configurações de conta necessárias.
 * Conferir se os produtos da sua loja atendem às [políticas de restrições da Amazon](https://sellercentral.amazon.com/gp/help/external/200164330).
 * Garantir que sua loja está localizada nos países onde o MCF está disponível. Países como Estados Unidos, Austrália, México, Alemanha e Canadá já possuem o MCF da Amazon. Confira a lista atualizada de países [nesta página da Amazon](https://sell.amazon.com/fulfillment-by-amazon/fba-multi-channel.html).
 

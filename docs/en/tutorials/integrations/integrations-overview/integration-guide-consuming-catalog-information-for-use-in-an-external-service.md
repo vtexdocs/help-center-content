@@ -293,4 +293,4 @@ Receiving this payload, the integrator must use this information to decide which
 
 > ⚠️ If a new SKU is inserted into the catalog, it will be notified at the endpoint of each affiliate. Because it is a new SKU, it's necessary to fill in the data of this new SKU in the database of the external service. The integrator shall verify that the notified SKU does not yet exist in the external service database. If it's a new SKU, the integrator must follow the same steps described in the **Perform the first load with SKU data** section. If it's an existing SKU, the integrator must follow the steps in the section **Update SKUs data**
 
-> ℹ️ If you want to integrate the payment methods of a VTEX seller with an external marketplace, <a href = "https://developers.vtex.com/vtex-rest-api/docs/external-marketplace-integration-guide">go to our documentation</a>.
+> ℹ️ If you want to integrate the payment methods of a VTEX seller with an external marketplace, [go to our documentation](https://developers.vtex.com/vtex-rest-api/docs/external-marketplace-integration-guide).

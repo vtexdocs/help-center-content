@@ -28,5 +28,5 @@ Permanece disponível as funcionalidades de [Moderação](/pt/tutorial/gerenciam
 
 Essa atualização é automática, não é necessário realizar nenhuma ação. A partir da data indicada acima o módulo será completamente descontinuado de todos os Admin VTEX.
 
-> ℹ️ Em breve teremos um módulo substituto para o Gerenciador de anúncios, acompanhe as novidades no [Developer portal na página de release notes](https://developers.vtex.com/updates/release-notes) e [VTEX Help Center na página de novidades](/pt/en/announcements).
+> ℹ️ Em breve teremos um módulo substituto para o Gerenciador de anúncios, acompanhe as novidades no [Developer portal na página de release notes](https://developers.vtex.com/updates/release-notes) e [VTEX Help Center na página de novidades](/pt/announcements).
 

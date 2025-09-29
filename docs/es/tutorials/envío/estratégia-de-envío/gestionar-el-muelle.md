@@ -27,7 +27,7 @@ Este artículo contiene la información necesaria para:
 * [Editar un muelle existente](#editar).
 * [Eliminar un muelle](#eliminar).
 
-Es importante saber que para configurar un muelle correctamente hay que: crear el muelle, rellenar los campos de registro (que determinan los horarios de funcionamiento, la prioridad), y también asociar el muelle con la [política comercial](/pt/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE), el [almacén](https://docs.google.com/document/u/0/d/1Nx2HYf58xSJLB3V_voySEW80sxkzzhR8dNrS6mytytM/edit) y la [política de envío](/pt/tutorial/politica-de-envio--tutorials_140?&utm_source=autocomplete). 
+Es importante saber que para configurar un muelle correctamente hay que: crear el muelle, rellenar los campos de registro (que determinan los horarios de funcionamiento, la prioridad), y también asociar el muelle con la [política comercial](/es/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE), el [almacén](https://docs.google.com/document/u/0/d/1Nx2HYf58xSJLB3V_voySEW80sxkzzhR8dNrS6mytytM/edit) y la [política de envío](/es/tutorial/politica-de-envio--tutorials_140?&utm_source=autocomplete). 
 
 > ⚠️ El orden de registro sugerido en la plataforma VTEX para el funcionamiento previsto del sistema logístico es:<ul><li>[Política de envío](/es/tutorial/politica-de-envio--tutorials_140)</li><li>[Muelle](/es/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj)</li><li>[Almacén](/es/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb)</li></ul>
 

@@ -1,7 +1,7 @@
 ---
 title: 'How Message Center works'
 id: 5uvq01BDu6nnDEJpseR1aH
-status: CHANGED
+status: PUBLISHED
 createdAt: 2020-01-10T12:36:32.085Z
 updatedAt: 2020-11-27T19:40:22.331Z
 publishedAt: 2020-02-13T14:58:16.503Z

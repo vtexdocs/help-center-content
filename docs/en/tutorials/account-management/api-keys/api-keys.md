@@ -66,7 +66,7 @@ Learn more about each resource in [License Manager resources](/en/tutorial/licen
 
 ## Learn more
 
-* [Configuring the duration of API keys](/pt/tutorial/configurar-a-duracao-de-chaves-de-api--kcGIFysFt02FDuhsfjQwZ)  
+* [Configuring the duration of API keys](/en/tutorial/configurar-a-duracao-de-chaves-de-api--kcGIFysFt02FDuhsfjQwZ)  
 * [External keys](/en/tutorial/chaves-terceiras--1isU0HfKkeg0atlxRha14Q)  
 * [Generated keys](/en/tutorial/chaves-geradas--7fnU4iZdvZKbxCaT3Ymdjc)  
 * [Renewing API tokens](/en/tutorial/renovar-token-de-api--7r4AzptYjXErGHadg9LnJ3)

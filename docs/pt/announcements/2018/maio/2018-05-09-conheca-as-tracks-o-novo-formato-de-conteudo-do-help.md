@@ -19,4 +19,4 @@ O VTEX Help lançou um novo formato de conteúdo. Além dos artigos e announceme
 
 As tracks reúnem de forma estruturada, simples e intuitiva tópicos que vão tratar de temas específicos sobre a VTEX. Não importa seu nível técnico ou a complexidade da ação que deseja executar: ao final de cada track, você vai ter total compreensão do assunto abordado.
 
-Para começar a explorar esse novo tipo de conteúdo, acesse [este link](http://help.vtex.com/pt/tracks) ou clique no item __Tracks__ do menu superior. 
+Para começar a explorar esse novo tipo de conteúdo, acesse [este link](/pt/tracks) ou clique no item __Tracks__ do menu superior. 

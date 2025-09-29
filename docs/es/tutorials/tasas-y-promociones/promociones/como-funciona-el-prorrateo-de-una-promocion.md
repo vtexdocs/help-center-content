@@ -1,7 +1,7 @@
 ---
 title: '¿Cómo funciona el prorrateo de una promoción?'
 id: frequentlyAskedQuestions_299
-status: CHANGED
+status: PUBLISHED
 createdAt: 2019-01-24T20:45:51.968Z
 updatedAt: 2020-11-27T19:37:04.162Z
 publishedAt: 2020-04-30T19:38:03.616Z

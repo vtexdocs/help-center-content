@@ -35,7 +35,7 @@ La configuración general presenta las siguientes opciones relativas a [las espe
 
 ## Configuración de filtros
 
-La configuración de facetas presenta ajustes relacionados con las [facetas](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/50Dh4mpv0Sax0XpbvsjAtP) mostradas a los clientes de tu tienda durante la búsqueda:
+La configuración de facetas presenta ajustes relacionados con las [facetas](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/50Dh4mpv0Sax0XpbvsjAtP) mostradas a los clientes de tu tienda durante la búsqueda:
 
 ![Configuracion del filtro](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/intelligent-search/configuraci%C3%B3n-del-intelligent-search/configuracion-de-la-busqueda_1.png)
 

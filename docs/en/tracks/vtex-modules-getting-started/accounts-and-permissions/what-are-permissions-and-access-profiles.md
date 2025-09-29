@@ -21,4 +21,4 @@ Roles define which resources the user can view and/or change within each module 
 
 You can create new profiles and set permissions for them. Or you can use the [predefined profiles](/en/tutorial/access-profiles--7HKK5Uau2H6wxE1rH5oRbc#description-of-predefined-profiles), which are configured on the platform by default. Predefined profiles usually meet the vast majority of needs across all stores.
 
-> ❗ Poor management of your store's roles can have serious consequences for your business. See best practices in the article: [Security measures for creating a store's user profiles](/faq/security-measures-for-creating-a-store-user-profiles--15YDwC9jGgqWi3rvcDaiGM).
+> ❗ Poor management of your store's roles can have serious consequences for your business. See best practices in the article: [Security measures for creating a store's user profiles](/en/faq/security-measures-for-creating-a-store-user-profiles--15YDwC9jGgqWi3rvcDaiGM).

@@ -19,7 +19,7 @@ Melhoramos as opções de configuração do [feed e do hook](https://developers.
 
 ## O que mudou?
 
-Antes, o feed e o hook recebiam mudanças apenas no [status](/en/tutorial/order-status-table-oms--frequentlyAskedQuestions_773?&utm_source=autocomplete#) dos pedidos.
+Antes, o feed e o hook recebiam mudanças apenas no [status](/pt/tutorial/order-status-table-oms--frequentlyAskedQuestions_773?&utm_source=autocomplete#) dos pedidos.
 
 Com a nova configuração, qualquer alteração que aconteça em um pedido pode ser recebida. Isso é feito com expressões [JSONata](https://jsonata.org/) ajustadas na API de pedidos, o que permite uma filtragem altamente customizável.
 

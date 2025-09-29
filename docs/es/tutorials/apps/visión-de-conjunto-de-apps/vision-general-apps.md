@@ -28,7 +28,7 @@ Las apps de VTEX extienden las funcionalidades de la plataforma VTEX y ayudan a 
 
 Nuestra solución _plug and play_ permite a los desarrolladores de terceros crear aplicaciones para el ecosistema VTEX de múltiples maneras. En la [VTEX App Store](https://apps.vtex.com/) pueden descargarse tanto aplicaciones _first-party_ como _third-party_, y estas pueden ser gratuitas o de pago. 
 
-> ℹ️ Si es una persona desarrolladora, consulte el <a href = "https://developers.vtex.com">Developer Portal</a> para obtener más información sobre cómo desarrollar sus propias apps en VTEX. 
+> ℹ️ Si es una persona desarrolladora, consulte el [Developer Portal](https://developers.vtex.com) para obtener más información sobre cómo desarrollar sus propias apps en VTEX. 
 
 El menú de Apps permite a los comerciantes descargar nuevas aplicaciones directamente desde la App Store y gestionar las aplicaciones instaladas sin salir del VTEX Admin. Ten en cuenta que el menú de Apps es flexible y puede incluir secciones personalizadas relacionadas con las aplicaciones instaladas en tu cuenta. 
 

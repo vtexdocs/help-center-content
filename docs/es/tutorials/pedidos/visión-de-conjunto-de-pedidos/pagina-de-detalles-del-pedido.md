@@ -76,7 +76,7 @@ La información general del pedido se muestra en la parte superior de la página
 
 ### Status del pedido
 
-Este bloque muestra el status actual del pedido en el [flujo de pedidos](/pt/tutorial/fluxo-de-pedido--tutorials_196) VTEX. Aquí, puedes [ver historial](#historial-del-pedido), con todos los cambios ocurridos e interaciones dentro del pedido.  
+Este bloque muestra el status actual del pedido en el [flujo de pedidos](/es/tutorial/fluxo-de-pedido--tutorials_196) VTEX. Aquí, puedes [ver historial](#historial-del-pedido), con todos los cambios ocurridos e interaciones dentro del pedido.  
 
 ### Ítems a facturar
 

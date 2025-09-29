@@ -1,7 +1,7 @@
 ---
 title: 'Cadastrar o preço base de um produto'
 id: 4S9SbPWlVmOAAWO6yq8wE6
-status: CHANGED
+status: PUBLISHED
 createdAt: 2018-03-20T20:04:04.818Z
 updatedAt: 2023-03-30T16:46:02.952Z
 publishedAt: 2019-12-31T15:24:46.247Z
@@ -21,9 +21,10 @@ O __preço base__ é o preço básico de venda de um produto. Ele é composto pe
 
 Para configurar o preço base, siga os passos abaixo:
 
-1. No Admin VTEX, acesse *Preços > Lista de preços*, ou digite *Lista de preços* na barra de busca no topo da página.
-2. No SKU desejado, clique no box com o título __Preço base__. Uma barra lateral será aberta.
-3. No campo __Preço de custo__, preencha com o custo do SKU.
+- Acesse o módulo __Pricing__.
+- No menu superior, clique em __Lista de preços__. Cada linha desta lista se refere a um SKU específico.
+- No SKU desejado, clique no box com o título __Preço base__. Uma barra lateral será aberta.
+- No campo __Preço de custo__, preencha com o custo do SKU.
 - No campo __Markup__, preencha com o percentual da margem de lucro a ser obtida com a venda do SKU.
 - O preço base de venda será calculado em função dos dados fornecidos nos passos anteriores.
 

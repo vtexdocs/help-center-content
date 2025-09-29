@@ -1,7 +1,7 @@
 ---
 title: 'B2B stores now need special configuration before going live'
 id: 4XcRdSvBm4kKQB44gQ4FwT
-status: CHANGED
+status: PUBLISHED
 createdAt: 2020-05-15T14:57:18.346Z
 updatedAt: 2020-11-27T19:40:28.624Z
 publishedAt: 2020-05-20T15:44:44.161Z

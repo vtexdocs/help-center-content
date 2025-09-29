@@ -29,7 +29,7 @@ A página de **Configurações da conta** permite identificar o usuário titular
 
 ### Transferir a propriedade da conta
 
-Antes de começar, certifique-se de que o usuário a quem será concedido o perfil de acesso de Titular já tem acesso à conta. Se ele não tiver, você deve [criar um novo usuário](/en/tutorial/managing-users--tutorials_512#creating-a-new-user) para ele antes de prosseguir.
+Antes de começar, certifique-se de que o usuário a quem será concedido o perfil de acesso de Titular já tem acesso à conta. Se ele não tiver, você deve [criar um novo usuário](/pt/tutorial/managing-users--tutorials_512#creating-a-new-user) para ele antes de prosseguir.
 
 Para transferir a propriedade da loja, siga estes passos:
 
@@ -68,7 +68,7 @@ Se o usuário Titular não estiver disponível para realizar a transferência de
 
 ### Brasil
 
-Para mudar o usuário Titular, entre em contato com o nosso time de Growth Operations pelo [Suporte](/pt/support) selecionando a opção **Comercial** e o tipo de solicitação `Mudança de Usuário Titular`. Será necessário preencher os campos previstos e enviar uma cópia do contrato social.
+Para mudar o usuário Titular, entre em contato com o nosso time de Growth Operations pelo [Suporte](https://help.vtex.com/pt/support) selecionando a opção **Comercial** e o tipo de solicitação `Mudança de Usuário Titular`. Será necessário preencher os campos previstos e enviar uma cópia do contrato social.
 
 Caso o representante informado no formulário não esteja presente no contrato social, deve ser encaminhada uma procuração registrada em cartório, informando que o representante no formulário tem autorização para assinar.
 
@@ -76,7 +76,7 @@ Com estas informações, o time de Growth Operations irá realizar um aditivo em
 
 ### Outros países
 
-Para mudar o usuário Titular, entre em contato com o nosso time de Growth Operations pelo [Suporte](/pt/support) selecionando a opção **Comercial** e o tipo de solicitação `Mudança de Usuário Titular`. Será necessário preencher os campos previstos e enviar uma cópia do contrato social.
+Para mudar o usuário Titular, entre em contato com o nosso time de Growth Operations pelo [Suporte](https://help.vtex.com/pt/support) selecionando a opção **Comercial** e o tipo de solicitação `Mudança de Usuário Titular`. Será necessário preencher os campos previstos e enviar uma cópia do contrato social.
 
 Caso o representante informado no formulário não esteja presente no contrato social, deve ser encaminhada uma cópia do contrato social.
 

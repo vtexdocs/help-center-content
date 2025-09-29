@@ -1,7 +1,7 @@
 ---
 title: 'Gestionar multitienda'
 id: 4S0lFVBPylRS5KpVgdyDhJ
-status: CHANGED
+status: PUBLISHED
 createdAt: 2024-09-06T12:35:51.501Z
 updatedAt: 2025-02-07T13:40:57.764Z
 publishedAt: 2025-02-07T13:30:06.894Z

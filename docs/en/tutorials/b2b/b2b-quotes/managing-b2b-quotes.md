@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 74CLq9axeDw1YPzAtCpktn
 ---
 
-The **B2B Quotes** app allows customers using the [B2B Organizations](/pt/tutorial/gerenciamento-de-organizacoes-b2b--1UwNCWhML3BsV6anpoUvVZ) app to request quotes for their shopping carts and save them for future use, including items, quantities, and prices. This facilitates price negotiations with the store's sales associates and order approval flows within the organization.
+The **B2B Quotes** app allows customers using the [B2B Organizations](/en/tutorial/gerenciamento-de-organizacoes-b2b--1UwNCWhML3BsV6anpoUvVZ) app to request quotes for their shopping carts and save them for future use, including items, quantities, and prices. This facilitates price negotiations with the store's sales associates and order approval flows within the organization.
 
 In this article, you'll find:
 

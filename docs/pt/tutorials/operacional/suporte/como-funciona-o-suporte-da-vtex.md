@@ -36,7 +36,7 @@ Para melhor atender clientes globais em diferentes países, nosso time de Custom
 - Ásia-Pacífico (APAC)
 - [Brasil](/pt/faq/suporte-vtex-brasil--5q861sTw1n7H2BENOu7ls9)
 - [Estados Unidos (EUA)](/en/faq/vtex-support-united-states--Bm45YFp68QRe1Z5r2oa07)
-- [Europa, Oriente Médio e África (EMEA)](/faq/suporte-vtex-emea--5ePu2qkCfmE0IEKDFKg53F)
+- [Europa, Oriente Médio e África (EMEA)](/pt/faq/suporte-vtex-emea--5ePu2qkCfmE0IEKDFKg53F)
 
 ### Pesquisa de satisfação
 A página *Pesquisa de Satisfação* no seu Admin VTEX disponibiliza os tickets que foram abertos por você em nome da sua loja e já foram resolvidos. Ela permite avaliar o atendimento do suporte da VTEX por meio de nossa pesquisa de satisfação, após a resolução de cada chamado.

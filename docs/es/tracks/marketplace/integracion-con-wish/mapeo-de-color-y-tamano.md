@@ -1,7 +1,7 @@
 ---
 title: 'Mapeo de color y tamaño'
 id: HvbHUmSDbHe1io6XqvHS3
-status: CHANGED
+status: PUBLISHED
 createdAt: 2019-11-18T13:40:10.167Z
 updatedAt: 2020-11-27T19:39:37.276Z
 publishedAt: 2020-03-19T22:03:12.923Z
@@ -33,7 +33,7 @@ Siga el procedimiento, rellenando los campos de la plantilla de mapeo de la sigu
 
 Dada esta información, continúe completando la plantilla siguiendo las siguientes orientaciones:
 
-  2. **VTEXField**: es el nombre del [campo de SKU](/pt/tutorial/criando-campo-de-sku) utilizado en su tienda en  VTEX.
+  2. **VTEXField**: es el nombre del [campo de SKU](/es/tutorial/criando-campo-de-sku) utilizado en su tienda en  VTEX.
 _Ej.: campos como "Tamaño", "Color"._
 
   3. **WishField**: es el nombre de la especificación en Wish, que corresponde al  campo de SKU que usted utilizó en el campo VTEXField.

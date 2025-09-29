@@ -45,4 +45,4 @@ To help you use the above techniques, we can use the fields in the register of p
 
 **Show together:** Displays SKUs of suggested products for joint purchase.
 
-The Up-Selling option can be also worked by using the benefit “[Buy Together](http://help.vtex.com/en/tutorial/buy-together)”.
+The Up-Selling option can be also worked by using the benefit “[Buy Together](/en/tutorial/buy-together)”.

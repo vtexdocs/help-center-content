@@ -45,4 +45,4 @@ Customer desists from finalizing the purchase after clicking on the finalize pur
 
 ## How to identify these orders?
 
-On the **All Orders** page, the [filters](/pt/tutorial/filtrar-todos-pedidos--tutorials_192) include the tab **Status**, with the **Completed Status** options. If you mark the option `Incomplete`, all orders in this situation will be displayed.
+On the **All Orders** page, the [filters](/en/tutorial/filtrar-todos-pedidos--tutorials_192) include the tab **Status**, with the **Completed Status** options. If you mark the option `Incomplete`, all orders in this situation will be displayed.

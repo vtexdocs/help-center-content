@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 383bZO0kymqpnNf7Z4NdEg
 ---
 
-> ⚠️ VTEX has two search options - Legacy CMS Portal search and VTEX Intelligent Search. This article refers to the Legacy CMS Portal search. To learn more about  VTEX Intelligent Search, see <a href = "/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb">this track</a>.
+> ⚠️ VTEX has two search options - Legacy CMS Portal search and VTEX Intelligent Search. This article refers to the Legacy CMS Portal search. To learn more about  VTEX Intelligent Search, see [this track](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb).
 
 If you need to use in your products words that perhaps are not important for the search engine, several good practices exist:
 
@@ -23,4 +23,4 @@ If you need to use in your products words that perhaps are not important for the
 - Use collection, redirecting the search term to a landing-page.
 - Redirect the search term to a search context that makes sense (Category, brand or the product itself).
 
-Learn how to set up redirection on the [URL Mapping (301 Redirect)](http://help.vtex.com/en/faq/url-mapping-301-redirect/) guide.
+Learn how to set up redirection on the [URL Mapping (301 Redirect)](/en/faq/url-mapping-301-redirect/) guide.

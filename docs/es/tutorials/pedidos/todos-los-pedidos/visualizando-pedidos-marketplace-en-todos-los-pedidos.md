@@ -27,7 +27,7 @@ En la columna **Origin**, también aparece `Marketplace` cuando un pedido es de 
 
 ## Página de detalles del pedido
 
-En la [página de detalles del pedido](/pt/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl), en la sección **Pago**, es posible ver el nombre del comerciante asociado al pedido.
+En la [página de detalles del pedido](/es/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl), en la sección **Pago**, es posible ver el nombre del comerciante asociado al pedido.
 
 ### Artículos relacionados
 

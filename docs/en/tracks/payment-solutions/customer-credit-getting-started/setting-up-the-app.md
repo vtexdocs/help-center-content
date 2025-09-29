@@ -30,7 +30,7 @@ To perform the initial Customer Credit settings, follow the steps below:
 <br>
 <ul>
 <br>
-    	<li>**Enable transactional emails on Message Center**: click in **Enable** to install the transactional email templates related to Customer Credit in [Message Center](/pt/tutorial/conhecendo-o-message-center--tutorials_84).</li>
+    	<li>**Enable transactional emails on Message Center**: click in **Enable** to install the transactional email templates related to Customer Credit in [Message Center](/en/tutorial/conhecendo-o-message-center--tutorials_84).</li>
     	<li>**Setting checkout payment conditions**: click in **Setting** to allow the definition of the store's deadline and installment rules.</li>
   	<li>**Affiliation not authenticated**: click in **Authenticate** to be redirected to the configuration screen where you must fill in the information **Application Key** and **Application Token**. This action will allow payments made through Customer Credit to be processed in your store. Find out more at [Authentication](https://developers.vtex.com/docs/guides/authentication).</li>
 </ul>

@@ -30,7 +30,7 @@ La pista reúne los artículos:
 * [Costos y simulación de envío](/es/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/3by48jFhzpZEseYFpH9uVt): explica cómo registrar los costos de envío y cómo utilizar la herramienta de simulación de envío de la tienda.
 * [Entregas programadas y capacidad de entrega](/es/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/5TuyqHRCCwYMaDv4r8rZdo): explica cómo la tienda debe ofrecer a los clientes las entregas programadas, así como gestionar la capacidad de entrega. 
 
-> ℹ️ Si tu tienda ya ha dado los primeros pasos en el módulo de **Inventario y envío**, consulta el artículo [Logística](/es/tutorial/logistics--53udnvI5eBy8DKo8FOjMoP), para acceder rápidamente a la información de las secciones del módulo **Inventario y envío**. Consulta el artículo [Glosario de logística](/en/tutorial/logistics-glossary--16DSSiXn548rsidi0A8Hby) para consultar el significado de los términos logísticos utilizados en VTEX. Las configuraciones logísticas disponibles mediante [API](https://developers.vtex.com/vtex-rest-api/reference/logistics-api-overview).
+> ℹ️ Si tu tienda ya ha dado los primeros pasos en el módulo de **Inventario y envío**, consulta el artículo [Logística](/es/tutorial/logistics--53udnvI5eBy8DKo8FOjMoP), para acceder rápidamente a la información de las secciones del módulo **Inventario y envío**. Consulta el artículo [Glosario de logística](/es/tutorial/logistics-glossary--16DSSiXn548rsidi0A8Hby) para consultar el significado de los términos logísticos utilizados en VTEX. Las configuraciones logísticas disponibles mediante [API](https://developers.vtex.com/vtex-rest-api/reference/logistics-api-overview).
 
 El módulo de **Inventario y envío** se divide en las siguientes secciones:
 

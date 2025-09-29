@@ -1,7 +1,7 @@
 ---
 title: 'Lista de cupons'
 id: 5z5ya3IonsC2W4B5h4JrsZ
-status: CHANGED
+status: PUBLISHED
 createdAt: 2022-04-28T20:47:44.779Z
 updatedAt: 2024-08-14T17:44:43.108Z
 publishedAt: 2023-04-20T19:11:14.509Z

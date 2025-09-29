@@ -19,7 +19,7 @@ When clients and partners need support, they can count on VTEX assistance, which
 
 | **Channel**  | **Artigos** |
 |--------------|-------------|
-| [Help Center](/pt/)      | Documentation portal intended for merchants, support teams and business decision-makes who work with the platform's administrative dashboard, the VTEX Admin. |
+| [Help Center](/en/)      | Documentation portal intended for merchants, support teams and business decision-makes who work with the platform's administrative dashboard, the VTEX Admin. |
 | [Developer Portal](https://developers.vtex.com/) | Documentation portal intended for developers and technical users working with the VTEX platform.                                                              |
 | [VTEX Community](https://community.vtex.com/)   | Official VTEX community. This is where you share questions, ideas, and create connections within the VTEX ecosystem.                         |
 | [VTEX Support](/en/faq/how-does-vtex-support-work--3kACEfni4m8Yxa1vnf2ebe)     | Official VTEX support provided virtually by experts. If your issue needs access to data privacy, open a [technical](/en/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM#technical), [billing](/en/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM#financial), or [commercial](/en/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM#commercial) support request.

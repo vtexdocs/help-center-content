@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 6XPsLadoT3moZ7eTduCg3c
 ---
 
-> ℹ️ This feature is in beta, which means that we are working to improve it. If you have any questions, please contact [our Support](/en/support).
+> ℹ️ This feature is in beta, which means that we are working to improve it. If you have any questions, please contact [our Support](https://help.vtex.com/en/support).
 
 In the VTEX Admin, under **Catalog > Categories**, you'll find the page for managing your store's category tree. This article guides you through creating and configuring categories, [attributes, and variations](#terminology). It's divided into the following sections:
 

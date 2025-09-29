@@ -1,7 +1,7 @@
 ---
 title: 'Configurar gateway Mundipagg Fraud Prevention'
 id: yFbysX42GW2wawu82q6QA
-status: CHANGED
+status: PUBLISHED
 createdAt: 2018-04-18T21:01:40.512Z
 updatedAt: 2024-03-18T18:40:56.708Z
 publishedAt: 2024-02-16T12:17:04.418Z

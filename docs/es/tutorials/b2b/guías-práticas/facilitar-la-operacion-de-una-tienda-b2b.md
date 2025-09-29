@@ -1,7 +1,7 @@
 ---
 title: 'Facilitar la operación de una tienda B2B'
 id: 8t1f9FYBsSCopHHVujKWR
-status: CHANGED
+status: PUBLISHED
 createdAt: 2021-03-30T14:29:12.548Z
 updatedAt: 2024-05-10T10:59:55.549Z
 publishedAt: 2021-05-20T18:17:16.108Z
@@ -45,7 +45,7 @@ Para saber más detalles, lea el artículo sobre [cómo completar cada uno de lo
 
 ### Precio por cantidad
 
-En VTEX, el cliente puede definir el precio de un ítem de acuerdo con su cantidad. Al configurar el [precio fijo](/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3HxF2u5VwidqnUGnFoKdDy "preço fixo") de un SKU, se puede definir la [cantidad mínima de ítems en el carrito para activar el precio fijo](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3HxF2u5VwidqnUGnFoKdDy#item-minimo-no-carrinho "cantidad mínima de ítems en el carrito para activar el precio fijo"). Es decir, en base al volumen que el consumidor añada al carrito, todos los productos adquieren un valor determinado.
+En VTEX, el cliente puede definir el precio de un ítem de acuerdo con su cantidad. Al configurar el [precio fijo](/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3HxF2u5VwidqnUGnFoKdDy "preço fixo") de un SKU, se puede definir la [cantidad mínima de ítems en el carrito para activar el precio fijo](/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3HxF2u5VwidqnUGnFoKdDy#item-minimo-no-carrinho "cantidad mínima de ítems en el carrito para activar el precio fijo"). Es decir, en base al volumen que el consumidor añada al carrito, todos los productos adquieren un valor determinado.
 
 Tomemos como ejemplo un producto que tiene el valor unitario de USD 100 y que este precio se mantendrá hasta que se incluyen 10 unidades en el carrito. Sin embargo, si el consumidor quiere comprar 12 ítems de una sola vez, el precio unitario se reduce un poco, a USD 98.
 
@@ -55,11 +55,11 @@ Este es un recurso que se adapta a las necesidades de los clientes mayoristas. A
 
 ### Kit de productos
 
-En VTEX, todas las tiendas cuentan con el recurso [kit de productos](/pt/tutorial/kit-registration?locale=en "kit de produtos"), a través del cual se puede vender un conjunto de ítems por un precio determinado. 
+En VTEX, todas las tiendas cuentan con el recurso [kit de productos](/es/tutorial/kit-registration?locale=en "kit de produtos"), a través del cual se puede vender un conjunto de ítems por un precio determinado. 
 
 > ℹ️ En el contexto B2B, el kit de productos, generalmente, se cita como "Bundle". Es decir, los términos "kit de productos" y "bundle" se refieren a la misma herramienta.
 
-Para registrar un [kit de productos](/pt/tutorial/cadastrando-kit/ "kit de produtos"), vea la documentación en el Centro de Ayuda. 
+Para registrar un [kit de productos](/es/tutorial/cadastrando-kit/ "kit de produtos"), vea la documentación en el Centro de Ayuda. 
 
 ### Product Assembly Options o Product Customizer
 
@@ -73,7 +73,7 @@ Esta etapa tiene una serie de particularidades que se pueden potenciar a través
 
 ### Gestión de pedidos
 
-Todas las tiendas VTEX cuentan con el módulo «Gestión de pedidos», el cual permite orquestar todos los [pedidos](/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/2sl6hj2eqwgqbDgTF6y5qE "requests") que se realizan en una tienda. 
+Todas las tiendas VTEX cuentan con el módulo «Gestión de pedidos», el cual permite orquestar todos los [pedidos](/es/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/2sl6hj2eqwgqbDgTF6y5qE "requests") que se realizan en una tienda. 
 
 El sistema comprende:
 
@@ -93,7 +93,7 @@ Esta herramienta permite al consumidor seguir el status de su pedido en el flujo
 
 ![reorder ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/b2b/gu%C3%ADas-pr%C3%A1ticas/facilitar-la-operacion-de-una-tienda-b2b_1.png)
 
-Para saber más detalles de My Account, lea el tutorial sobre [cómo configurar esta funcionalidad](/pt/tutorial/configurar-o-my-account--23Ayv5D6b86UBnYfoXqZL1 "cómo configurar esta funcionalidad").
+Para saber más detalles de My Account, lea el tutorial sobre [cómo configurar esta funcionalidad](/es/tutorial/configurar-o-my-account--23Ayv5D6b86UBnYfoXqZL1 "cómo configurar esta funcionalidad").
 
 ### Substitución de pedidos
 

@@ -121,7 +121,7 @@ In this case, the items will be sorted in ascending or descending order when you
 
 ## Cataloging items  
 
-All the SKUs displayed in the list are available for cataloging. However, we recommend [mapping the categories and brands](/pt/tutorial/mapeamento-de-categorias-e-marcas-para-marketplace-vtex-beta--6NU8LwR6i0tTb8nk30bnbE) before this step to streamline the cataloging process.  
+All the SKUs displayed in the list are available for cataloging. However, we recommend [mapping the categories and brands](/en/tutorial/mapeamento-de-categorias-e-marcas-para-marketplace-vtex-beta--6NU8LwR6i0tTb8nk30bnbE) before this step to streamline the cataloging process.  
 
 > ⚠️ The offers in the Pending tab are only available for 30 days. After this period, they automatically expire and the seller will need to submit them again.  
 

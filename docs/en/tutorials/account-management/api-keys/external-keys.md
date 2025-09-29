@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 3OlaStejO5MSzvDSU3VCH3
 ---
 
-External API keys are credentials generated in and managed by other VTEX accounts. By adding [roles](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) to API keys — which are equivalent to usernames — provided by third parties, you can allow them to access specific resources in your account.  
+External API keys are credentials generated in and managed by other VTEX accounts. By adding [roles](/en/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) to API keys — which are equivalent to usernames — provided by third parties, you can allow them to access specific resources in your account.  
 
 The **External** tab lists the API keys created by your account.
 

@@ -23,7 +23,7 @@ To regionalize SKU prices and availability, it is necessary:
 2. [White Label Sellers](/en/faq/what-are-franchise-account-and-seller-white-label) can deliver orders from your store to determined ZIP code areas.
 3. The user's session browsing the store contains information about their zip code and country of origin.
 
-> ℹ️ In order to use this feature, a store must have installed the ([VTEX Session](/pt/tutorial/vtex-session-visao-geral-do-sistema-de-sessoes--6C4Edou6bYqqEAOCAg2MQQ#)) system. The VTEX Session is native to all stores and you can confirm its instalation by checking the presence of the `vtex_session` and `vtex_segment` when browsing the store.
+> ℹ️ In order to use this feature, a store must have installed the ([VTEX Session](/en/tutorial/vtex-session-visao-geral-do-sistema-de-sessoes--6C4Edou6bYqqEAOCAg2MQQ#)) system. The VTEX Session is native to all stores and you can confirm its instalation by checking the presence of the `vtex_session` and `vtex_segment` when browsing the store.
 
 > ⚠️ In case of [Multilevel Omnichannel Inventory](/en/tutorial/multilevel-omnichannel-inventory--7M1xyCZWUyCB7PcjNtOyw4#), a marketplace (level 1) cannot configure the display of prices and availability of White Label Seller products (level 3) with the regionalization feature.
 

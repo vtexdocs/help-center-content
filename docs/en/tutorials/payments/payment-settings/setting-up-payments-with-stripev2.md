@@ -102,7 +102,7 @@ To configure a payment condition for StripeV2 on VTEX, follow the steps below:
 4. On the configuration page, activate the condition by clicking __Status__.
 5. In __Process with provider__, select the __StripeV2NativeCheckout__ option.
 6. If you want to use an anti-fraud system, check the __Use anti-fraud solution__ option.
-7. If necessary, you can also [configure special payment conditions](/pt/tutorial/special-conditions--tutorials_456).
+7. If necessary, you can also [configure special payment conditions](/en/tutorial/special-conditions--tutorials_456).
 8. Click `Save`.
 
 If you need more information on how to install the __VTEX Native Checkout Experience__, see the [Stripe documentation available on Vinneren](https://sites.google.com/vinneren.com.mx/documentacion-publica#h.nmryiar6zrqq).

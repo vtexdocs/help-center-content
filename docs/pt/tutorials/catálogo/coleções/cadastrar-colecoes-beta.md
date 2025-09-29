@@ -31,7 +31,7 @@ Este artigo explica como:
 
 ## Pré-requisito
 
-Para criar uma coleção, é preciso ter o [perfil de acesso](/en/tutorial/access-profiles--7HKK5Uau2H6wxE1rH5oRbc?locale=pt) _Owner (Admin Super)_ ou criar outro perfil com o recurso **Write Collections**, na seção __Collections__ dos perfis do __Catalog__. Veja aqui [como criar um perfil de acesso](/pt/tutorial/access-profiles--7HKK5Uau2H6wxE1rH5oRbc#criando-um-perfil-de-acesso).
+Para criar uma coleção, é preciso ter o [perfil de acesso](/pt/tutorial/access-profiles--7HKK5Uau2H6wxE1rH5oRbc?locale=pt) _Owner (Admin Super)_ ou criar outro perfil com o recurso **Write Collections**, na seção __Collections__ dos perfis do __Catalog__. Veja aqui [como criar um perfil de acesso](/pt/tutorial/access-profiles--7HKK5Uau2H6wxE1rH5oRbc#criando-um-perfil-de-acesso).
 
 ## Criar uma coleção
 

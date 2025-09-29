@@ -30,14 +30,14 @@ To use the same catalog in more than one trade policy, access the
 
 ## Request a trade policy
 
-To [request additional trade policies](/en/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X), contact our Growth Operations team through [VTEX Support](/en/support) by selecting **Commercial** and `Create a trade policy`. When requesting the creation of a trade policy via ticket, consider a response time of up to three business days.
+To [request additional trade policies](/en/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X), contact our Growth Operations team through [VTEX Support](https://help.vtex.com/en/support) by selecting **Commercial** and `Create a trade policy`. When requesting the creation of a trade policy via ticket, consider a response time of up to three business days.
 
 > ℹ️ A monthly fee is charged for each additional trade policy, whether used for integration with certified, partner, external, or VTEX marketplaces.
 
 ## Learn more
 
 - [How trade policies work](/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV)  
-- [Trade policy for marketplaces](/tutorial/configurando-a-politica-comercial-para-marketplace--tutorials_404)
+- [Trade policy for marketplaces](/en/tutorial/configurando-a-politica-comercial-para-marketplace--tutorials_404)
 - [Requesting an additional trade policy](/en/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X)
-- [Adding a loading dock](/tutorial/how-to-register-a-dock--7K3FultD8I2cuuA6iyGEiW)
+- [Adding a loading dock](/en/tutorial/how-to-register-a-dock--7K3FultD8I2cuuA6iyGEiW)
 

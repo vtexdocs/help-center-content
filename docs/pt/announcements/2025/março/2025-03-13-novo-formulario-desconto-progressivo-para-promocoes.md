@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisPT: 'Configure promoções com desconto progressivo, incentivando compras em volume com percentuais ajustáveis e flexíveis.'
 ---
 
-A VTEX disponibiliza um novo formulário de [Desconto Progressivo](/tutorial/desconto-progressivo--tutorials_324), que permite configurar promoções com percentuais de desconto crescentes à medida que mais produtos são adicionados ao carrinho. Essa funcionalidade é ideal para incentivar compras em grandes volumes, oferecendo benefícios proporcionais à quantidade adquirida.
+A VTEX disponibiliza um novo formulário de [Desconto Progressivo](/pt/tutorial/desconto-progressivo--tutorials_324), que permite configurar promoções com percentuais de desconto crescentes à medida que mais produtos são adicionados ao carrinho. Essa funcionalidade é ideal para incentivar compras em grandes volumes, oferecendo benefícios proporcionais à quantidade adquirida.
 
 ## O que mudou?
 Antes, a criação de promoções de **Desconto Progressivo** era limitada, sem intervalos configuráveis de desconto, com poucas opções de personalização de condições e sem controle sobre o acúmulo com outras ofertas. Agora, o novo formulário permite configurar percentuais de desconto por quantidade, aplicar regras específicas para SKUs ou coleções, ajustar condições como meios de pagamento e local de entrega, e gerenciar o acúmulo com outras promoções, tudo em uma interface mais organizada.

@@ -15,7 +15,7 @@ trackSlugEN: integracao-com-o-facebook
 order: 1
 ---
 
-> ℹ️ Existe a integração com a app <a href= "/pt/tracks/integracao-com-o-facebook-business-extension--2hS3ANSZ7vlHCcba4h7k8D">Facebook Business Extension e Conversions API</a>, que deve ser sua escolha padrão para integrar com o Facebook. Isso é válido inclusive para quem já realizou a <a href= "/pt/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc">Integração com o Facebook</a>, pois a integração com a app garante as funcionalidades prévias e outras, como API de Conversões e Pixel do Facebook.
+> ℹ️ Existe a integração com a app [Facebook Business Extension e Conversions API](/pt/tracks/integracao-com-o-facebook-business-extension--2hS3ANSZ7vlHCcba4h7k8D), que deve ser sua escolha padrão para integrar com o Facebook. Isso é válido inclusive para quem já realizou a [Integração com o Facebook](/pt/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc), pois a integração com a app garante as funcionalidades prévias e outras, como API de Conversões e Pixel do Facebook.
 
 O [Facebook](https://about.fb.com/br/company-info/) é a rede social com maior número de usuários no mundo. Criado em 2004, é a plataforma pela qual mais de três bilhões de pessoas se conectam e compartilham informação todos os dias.
 

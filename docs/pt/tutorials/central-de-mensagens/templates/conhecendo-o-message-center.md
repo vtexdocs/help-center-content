@@ -52,4 +52,4 @@ O remetente é quem envia a mensagem, mas neste caso trazendo também o cadastro
 - Botão para executar um teste de envio de mensagem.
 - Ícone que indica se o remetente passou ou não no teste de envio (não exibido se nenhum teste recente foi realizado).
 
-É importante que você personalize seu remetente para que o cliente receba as mensagens com o nome e e-mail da sua empresa, caso contrário os e-mails recebidos serão em nome de “noreply@vtexcommerce.com.br”. Para tal, veja [como alterar o servidor SMTP](http://help.vtex.com/pt/tutorial/personalizando-o-smtp-da-vtex) de sua loja.
+É importante que você personalize seu remetente para que o cliente receba as mensagens com o nome e e-mail da sua empresa, caso contrário os e-mails recebidos serão em nome de “noreply@vtexcommerce.com.br”. Para tal, veja [como alterar o servidor SMTP](/pt/tutorial/personalizando-o-smtp-da-vtex) de sua loja.

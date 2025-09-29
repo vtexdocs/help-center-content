@@ -153,5 +153,5 @@ O mapeamento de especificações é aplicado no site do marketplace de formas di
 
 - [Aprovar produtos](/pt/tutorial/sugerindo-e-aprovando-skus/)    
 - [Criar política comercial](/pt/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE)    
-- [Política comercial para marketplaces](/tutorial/configurando-a-politica-comercial-para-marketplace--tutorials_404)    
+- [Política comercial para marketplaces](/pt/tutorial/configurando-a-politica-comercial-para-marketplace--tutorials_404)    
 

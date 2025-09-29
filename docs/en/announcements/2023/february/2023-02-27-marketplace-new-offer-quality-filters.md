@@ -41,7 +41,7 @@ The configuration page provides many tools for operating the marketplace, includ
 * Enables the marketplace catalog team to review each offer individually to see why it did not meet the requirements.
 * Allows you to identify which sellers and offer types do not meet the requirements, speeding up corrections.
 
-Learn more about the [advantages](/tutorial/filtros-de-qualidade-dos-anuncios--4xm0gi8leCyxHj8YdgHSJH#advantages-of-using-this-feature) of using this feature.
+Learn more about the [advantages](/en/tutorial/filtros-de-qualidade-dos-anuncios--4xm0gi8leCyxHj8YdgHSJH#advantages-of-using-this-feature) of using this feature.
 
 ## What needs to be done?
 

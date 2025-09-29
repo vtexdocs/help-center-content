@@ -21,7 +21,7 @@ Esta página mostra a lista de usuários com os respectivos __Nome__, __Email__ 
 
 ![Lista Usuários User Management PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/gerenciamento-da-conta/usu%C3%A1rios/gerenciando-usuarios_1.png)
 
-> ⚠️ Qualquer usuário que deseje gerenciar usuários ou chaves de aplicação deve ter um perfil que contenha o [recurso](/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) **Save User**. Você pode usar, por exemplo, o perfil predefinido [User Administrator - RESTRICTED](/pt/tutorial/predefined-roles--jGDurZKJHvHJS13LnO7Dy#user-administrator-restricted).
+> ⚠️ Qualquer usuário que deseje gerenciar usuários ou chaves de aplicação deve ter um perfil que contenha o [recurso](/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) **Save User**. Você pode usar, por exemplo, o perfil predefinido [User Administrator - RESTRICTED](/pt/tutorial/predefined-roles--jGDurZKJHvHJS13LnO7Dy#user-administrator-restricted).
 
 ## Criar um novo usuário
 

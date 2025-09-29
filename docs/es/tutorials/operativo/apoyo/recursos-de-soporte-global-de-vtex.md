@@ -66,7 +66,7 @@ Los tickets urgentes reportan problemas críticos con impacto directo en las ven
 | Imposibilidad de atender pedidos | Los status de pedidos no se están actualizando El feed o hook de pedidos no está funcionando |
 | Usabilidad de la tienda no disponible | No se pueden agregar ítems al carrito No es posible registrarse en el sitio web La búsqueda interna no devuelve respuesta |
 
-> ⚠️ Los tickets urgentes contarán con asistencia prioritaria, disponible exclusivamente a través de [tickets en Zendesk](/en/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM).
+> ⚠️ Los tickets urgentes contarán con asistencia prioritaria, disponible exclusivamente a través de [tickets en Zendesk](/es/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM).
 
 ## Clasificación de la prioridad de los tickets
 

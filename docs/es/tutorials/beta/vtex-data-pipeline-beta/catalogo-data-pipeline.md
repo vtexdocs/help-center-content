@@ -35,7 +35,7 @@ En esta sección encontrarás la siguiente información:
 
 | **Característica**       | **Descripción**  |
 |--------------------------|-------------------------|
-| **Origen de los datos**  | [Módulo de catálogo](/pt/tutorial/catalogo-visao-geral--77M8ItLhDXs6aBdQTqToVe). |
+| **Origen de los datos**  | [Módulo de catálogo](/es/tutorial/catalogo-visao-geral--77M8ItLhDXs6aBdQTqToVe). |
 | **Disponibilidad**   | Acceso en el Admin VTEX.   |
 | **Histórico**    | Datos disponibles desde febrero de 2025. |
 | **Menor intervalo de actualización** | Una hora. |
@@ -188,11 +188,11 @@ Los datos del catálogo están conectados a varios otros modelos de datos. Aquí
 
 ### Conozca otros Conjuntos de datos  
 
-- [Inventario](/tutorial/inventario-data-pipeline-beta--2IvKMZV9SNrE6ipBRQr8h2)  
-- [Pagos](/tutorial/pagamentos-data-pipeline-beta--7LWkFaA1jPabzc5JAt1rGs)  
-- [Pedidos](/tutorial/pedidos-data-pipeline-beta--2f3GlRJ5L5IRGVIxOmzrFv)  
-- [Precios](/tutorial/precos-data-pipeline-beta--3NMGJ8dtv73Bwvo9PSz1fz)  
-- [Promoción](/tutorial/promocoes-data-pipeline-beta--3WZ1syNucDFdvVhfKtA6Qd)  
-- [Tarjeta de regalo](/pt/tutorial/vale-presente-data-pipeline--4XAnyc4scy3OG6RdnD7OEf)  
-- [Registro del Bridge](/tutorial/logs-do-bridge-data-pipeline--2RFVJZL19nsWBSB4IXA0Z)  
+- [Inventario](/es/tutorial/inventario-data-pipeline-beta--2IvKMZV9SNrE6ipBRQr8h2)  
+- [Pagos](/es/tutorial/pagamentos-data-pipeline-beta--7LWkFaA1jPabzc5JAt1rGs)  
+- [Pedidos](/es/tutorial/pedidos-data-pipeline-beta--2f3GlRJ5L5IRGVIxOmzrFv)  
+- [Precios](/es/tutorial/precos-data-pipeline-beta--3NMGJ8dtv73Bwvo9PSz1fz)  
+- [Promoción](/es/tutorial/promocoes-data-pipeline-beta--3WZ1syNucDFdvVhfKtA6Qd)  
+- [Tarjeta de regalo](/es/tutorial/vale-presente-data-pipeline--4XAnyc4scy3OG6RdnD7OEf)  
+- [Registro del Bridge](/es/tutorial/logs-do-bridge-data-pipeline--2RFVJZL19nsWBSB4IXA0Z)  
 

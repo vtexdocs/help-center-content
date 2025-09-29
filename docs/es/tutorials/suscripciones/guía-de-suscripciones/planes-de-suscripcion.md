@@ -1,7 +1,7 @@
 ---
 title: 'Planes de suscripción'
 id: 5kczKRqHEsrs1tYtRcY8wR
-status: CHANGED
+status: PUBLISHED
 createdAt: 2021-07-06T14:33:32.850Z
 updatedAt: 2022-07-26T22:51:42.731Z
 publishedAt: 2021-07-06T17:47:04.593Z
@@ -14,6 +14,8 @@ legacySlug: planes-de-suscripcion-beta
 locale: es
 subcategoryId: 1rA9wuuskW3PpjvMrhatAM
 ---
+
+> ℹ️ Esta funcionalidad está en versión Beta, lo que significa que estamos trabajando para mejorarla. Si tiene alguna pregunta, póngase en contacto con [nuestro Soporte](https://support.vtex.com/hc/es-419/requests).
 
 La página de **Planes** del módulo de **Suscripciones** muestra la lista de todos los planes de suscripción configurados en su tienda, tanto los creados desde la [página de Nuevo plan](/es/tutorial/como-criar-um-plano-de-assinatura-beta--1qGRoFczm98Wgt81f9mUqC) como [los anexos de SKU](/es/tutorial/como-criar-um-anexo-de-assinatura--2bUuKyPflA8cOGLv8OvaKK). 
 
@@ -50,7 +52,7 @@ Puede filtrar los planes de suscripción que aparecen en la lista por **Status**
 * **Activo:** solo muestra los planes activos en su tienda.
 * **Inactivo:** solo muestra los planes inactivos en su tienda.
 
-Para saber más sobre el significado de los status, consulte la sección [Información sobre los planes](#informacion-sobre-los-planes).
+Para saber más sobre el significado de los status, consulte la sección [**Información sobre los planes**](#informacion-sobre-los-planes).
 
 ## Información sobre los planes
 
@@ -79,6 +81,7 @@ La cantidad estándar de filas que se muestran en la página es 5. Si desea ver 
 
 Para navegar entre las páginas de la lista de planes de suscripción, utilice las flechas <i class="fas fa-chevron-left"></i> y <i class="fas fa-chevron-right"></i> en la esquina inferior derecha de la página.
 
-## Más información
+#### **SEPA MÁS**
 
 * [Cómo crear un plan de suscripción (Beta)](/es/tutorial/como-criar-um-plano-de-assinatura-beta--1qGRoFczm98Wgt81f9mUqC)
+

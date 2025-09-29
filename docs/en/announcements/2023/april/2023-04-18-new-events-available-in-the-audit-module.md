@@ -228,7 +228,7 @@ VTEX has added the following events to the [list of events available in Audit](/
   </tr>
 </table>
 
-> ℹ️ See the [full list of events available in Audit](/pt/tutorial/eventos-disponiveis-no-audit--6r1Mzcu5NmkmmDLJlz9CCZ).
+> ℹ️ See the [full list of events available in Audit](/en/tutorial/eventos-disponiveis-no-audit--6r1Mzcu5NmkmmDLJlz9CCZ).
 
 ## What needs to be done?
 

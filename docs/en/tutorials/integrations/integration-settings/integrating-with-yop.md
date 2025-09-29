@@ -18,8 +18,8 @@ subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 ## First steps
 
 Some steps are essential for us to start configuring integration with the YOP marketplace.
-1. Configure the [sales policy](http://help.vtex.com/en/tutorial/configuring-a-marketplace-sales-policy/);
-2. Configure the [logistics](http://help.vtex.com/en/tutorial/configuring-logistics-for-a-marketplace/) for this sales policy;
+1. Configure the [sales policy](/en/tutorial/configuring-a-marketplace-sales-policy/);
+2. Configure the [logistics](/en/tutorial/configuring-logistics-for-a-marketplace/) for this sales policy;
 3. Contact YOP;
 
 ## How to configure it
@@ -36,7 +36,7 @@ Some steps are essential for us to start configuring integration with the YOP ma
 
 ### Configure the affiliate
 
-[Follow the instructions in our manual and complete the fields as indicated below](http://help.vtex.com/en/tutorial/configuring-affiliates/).
+[Follow the instructions in our manual and complete the fields as indicated below](/en/tutorial/configuring-affiliates/).
 
 - **Name** YOP
 - **ID:** YPP
@@ -48,9 +48,9 @@ Some steps are essential for us to start configuring integration with the YOP ma
 
 ### Create a free freight promotion 
 
-[See our manual on how to create a promotion for the marketplace](/tutorial/configurar-promocao-para-marketplace--tutorials_406).
+[See our manual on how to create a promotion for the marketplace](/en/tutorial/configurar-promocao-para-marketplace--tutorials_406).
 
 ## Go further
 
-[How integration with the marketplaces works](http://help.vtex.com/en/tutorial/integrating-with-marketplace/).
+[How integration with the marketplaces works](/en/tutorial/integrating-with-marketplace/).
 

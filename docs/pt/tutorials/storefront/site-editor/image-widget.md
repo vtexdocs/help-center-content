@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 9Arh3cJIOYlfSD1MUC2h3
 ---
 
-Image Widget é um repositório modal para blocos que permitem o envio de imagens no [Site Editor](/subcategory/layout--2g6LxtasS4iSeGEqeYUuGW). Com esse modal, você pode enviar, armazenar e gerenciar as imagens de sua loja e usá-las em diferentes páginas, como Home, Product ou Newsletter.
+Image Widget é um repositório modal para blocos que permitem o envio de imagens no [Site Editor](/pt/subcategory/layout--2g6LxtasS4iSeGEqeYUuGW). Com esse modal, você pode enviar, armazenar e gerenciar as imagens de sua loja e usá-las em diferentes páginas, como Home, Product ou Newsletter.
 
 Por exemplo, você pode adicionar uma nova imagem no bloco __Carrossel__ da sua loja. Para fazer o envio dessa imagem, você se beneficia do Image Widget.
 

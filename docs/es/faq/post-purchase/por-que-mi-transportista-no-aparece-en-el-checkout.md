@@ -18,7 +18,7 @@ Para finalizar un pedido en la plataforma VTEX, es necesario seleccionar una for
 
 Eventualmente, puede ser que no se muestre una transportadora en el checkout. Separamos seis escenarios en los que se puede dar esta situación y sus respectivas soluciones.
 
-Vale resaltar que antes de proseguir la lectura de este artículo, es necesario garantizar que todas las [transportadoras están registradas](/es/tutorial/transportadoras-na-vtex--7u9duMD5UQa2QQwukAWMcE) correctamente en la plataforma. Además, todas las soluciones se hacen en el módulo [Envío](/pt/tutorial/--tutorials_143 "Inventory & Shipping").
+Vale resaltar que antes de proseguir la lectura de este artículo, es necesario garantizar que todas las [transportadoras están registradas](/es/tutorial/transportadoras-na-vtex--7u9duMD5UQa2QQwukAWMcE) correctamente en la plataforma. Además, todas las soluciones se hacen en el módulo [Envío](/es/tutorial/--tutorials_143 "Inventory & Shipping").
 
 ## Competencia entre transportadoras del mismo tipo
 
@@ -34,14 +34,14 @@ Si desea que se muestren todas las transportadoras, estas deben ser registradas 
 
 ## Transportadora no atiende a la dirección informada
 
-Al registrar una nueva transportadora, la [planilla de flete](/pt/tutorial/importar-planilha-de-frete) debe rellenarse con
+Al registrar una nueva transportadora, la [planilla de flete](/es/tutorial/importar-planilha-de-frete) debe rellenarse con
 los rangos de códigos postales o  polígono para geolocalización que esta puede atender. Los campos de esta planilla relativos a la localización son `country`, `zipCodeStart` y `zipCodeEnd` y `PolygonName`.
 
 Si el usuario desea que un pedido sea entregado en una región no registrada en la planilla, la transportadora no aparecerá como opción en el checkout.
 
 ### Solución
 
-Verifique en la [planilla de flete](/pt/tutorial/importar-planilha-de-frete) si los rangos de códigos postales o los polígonos de geolocalización configurados atienden a la dirección del pedido.
+Verifique en la [planilla de flete](/es/tutorial/importar-planilha-de-frete) si los rangos de códigos postales o los polígonos de geolocalización configurados atienden a la dirección del pedido.
 
 ## Volumen del pedido excede el máximo permitido
 

@@ -25,7 +25,7 @@ Quando há mais de um item no carrinho, o custo do envio dividido por cada item 
 
 Vamos analisar como seria feito o cálculo da divisão do custo de envio num carrinho com 5 itens, com custo total de envio de 200 unidades monetárias:
 
-> ℹ️ Para descobrir o custo de envio de um carrinho, faça uma [simulação de frete](http://help.vtex.com/pt/tutorial/simulacao-de-frete/). <br> Para saber o peso de um SKU, acesse o cadastro do SKU na página **Produtos e SKUs** no menu **Catálogo** e busque por **Peso para Frete**.
+> ℹ️ Para descobrir o custo de envio de um carrinho, faça uma [simulação de frete](/pt/tutorial/simulacao-de-frete/). <br> Para saber o peso de um SKU, acesse o cadastro do SKU na página **Produtos e SKUs** no menu **Catálogo** e busque por **Peso para Frete**.
 
 - __Custo Total de Envio:__ 200
 - __Peso do Produto A:__ 20

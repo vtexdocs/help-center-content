@@ -29,20 +29,20 @@ There are two ways to make a change to an order:
 Before making changes to the order, be aware of the restrictions of this feature:
 
 * You can only change [Multilevel Omnichannel Inventory](/en/tutorial/multilevel-omnichannel-inventory--7M1xyCZWUyCB7PcjNtOyw4) orders when they are mare in [external marketplaces](https://developers.vtex.com/docs/guides/change-orders-multilevel-omnichannel-inventory-external-marketplaces).
-* You cannot change [incomplete orders](/pt/tutorial/entendendo-os-pedidos-incompletos--tutorials_294).
+* You cannot change [incomplete orders](/en/tutorial/entendendo-os-pedidos-incompletos--tutorials_294).
 * An order can be changed up to 50 times.
 * You cannot apply discounts that are equal to or greater than the order value. 
 * The request for change only occurs if there are changes in the number of items or replacement of at least one SKU in the order.
 * Changing items that are not from the marketplace itself or a franchise account is not allowed.
-* The [acquirer](/pt/tutorial/o-que-e-um-adquirente--7N1oRTG8dGmOiIugC0cs4E) must accept the new transaction value for the change to occur.
-* Additional amounts are only allowed if the order was paid using the **Promissory** or **CardPromissory** payment conditions (available in the Admin in **Store Settings > Payment > Settings > Payment Conditions**), [cash](/tutorial/how-to-configure-a-custom-payment--tutorials_451) or [credit control](/tutorial/customer-credit-overview--1uIqTjWxIIIEW0COMg4uE0). In addition, the [acquirer](/pt/tutorial/what-is-an-acquirer--7N1oRTG8dGmOiIugC0cs4E) must allow transactions without the CVV code and two charging transactions in the same order.
-* The [reservation](/pt/tutorial/how-does-reservation-work--tutorials_92) of the items in the inventory is not automatic. You must manually update the number of items that are still available in the [inventory](/pt/tutorial/managing-stock-items--tutorials_139).
+* The [acquirer](/en/tutorial/o-que-e-um-adquirente--7N1oRTG8dGmOiIugC0cs4E) must accept the new transaction value for the change to occur.
+* Additional amounts are only allowed if the order was paid using the **Promissory** or **CardPromissory** payment conditions (available in the Admin in **Store Settings > Payment > Settings > Payment Conditions**), [cash](/en/tutorial/how-to-configure-a-custom-payment--tutorials_451) or [credit control](/en/tutorial/customer-credit-overview--1uIqTjWxIIIEW0COMg4uE0). In addition, the [acquirer](/en/tutorial/what-is-an-acquirer--7N1oRTG8dGmOiIugC0cs4E) must allow transactions without the CVV code and two charging transactions in the same order.
+* The [reservation](/en/tutorial/how-does-reservation-work--tutorials_92) of the items in the inventory is not automatic. You must manually update the number of items that are still available in the [inventory](/en/tutorial/managing-stock-items--tutorials_139).
 * Orders with [partial invoices](/en/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe) cannot be [canceled](/en/tutorial/como-cancelar-pedido--tutorials_186). If the customer wants to replace or remove items from the order, it is possible to change the order.
 * It is not possible to change an order when its transaction is finalized. For changes to the discounted order value, for example, the OMS considers that you can still change the transaction value if the status in Transaction Details is other than `Finished`, even if the value has already been settled.  
-* You cannot make changes to orders coming from [marketplaces integrated with VTEX](/pt/tutorial/marketplace-strategies-at-vtex--tutorials_402) (either by native connectors or partner connectors).
+* You cannot make changes to orders coming from [marketplaces integrated with VTEX](/en/tutorial/marketplace-strategies-at-vtex--tutorials_402) (either by native connectors or partner connectors).
 * You can only change orders that are being prepared for delivery.
 * For changes in which the final order value is higher than the initial value:
-    * If the [connector](/pt/tutorial/what-is-the-connector--3lze0Cu0bmyC6u2o2iaeEA)does not allow changes to the order value (for higher values), a new transaction will be performed with the remaining value. This way, the transaction will not be linked to the original order. If it is necessary, search for transactions by value, change date or customer name.
+    * If the [connector](/en/tutorial/what-is-the-connector--3lze0Cu0bmyC6u2o2iaeEA)does not allow changes to the order value (for higher values), a new transaction will be performed with the remaining value. This way, the transaction will not be linked to the original order. If it is necessary, search for transactions by value, change date or customer name.
     * The settlement of the additional values occurs only after the order is invoiced. Therefore, be careful with this type of transaction. Since the additional amounts will only be settled later, it is more susceptible to fraud.
 
 ## How to change order items

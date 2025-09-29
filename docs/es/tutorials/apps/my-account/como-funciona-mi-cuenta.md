@@ -133,7 +133,7 @@ Para agregar nuevas tarjetas, sigue los pasos a continuación:
 
 ![Card ReCaptcha](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/apps/my-account/como-funciona-mi-cuenta_4.gif)
 
-Sin embargo, hay **limitaciones** que las tiendas que utilizan la autenticación [3DS](/pt/tutorial/o-que-e-3d-secure--1eWPdop8mECuaEomQgkAIa) (V1 o V2) en sus adquirentes deben considerar:
+Sin embargo, hay **limitaciones** que las tiendas que utilizan la autenticación [3DS](/es/tutorial/o-que-e-3d-secure--1eWPdop8mECuaEomQgkAIa) (V1 o V2) en sus adquirentes deben considerar:
 
 * Si el comprador intenta registrar una nueva tarjeta sin haberla usado previamente en su tienda, aparecerá el mensaje_ _«_Se produjo_ _un error al intentar registrar la tarjeta_». Para saber más detalles, acceda a nuestra documentación [‘Guardar tarjeta’ no funciona al usar la autenticación 3DS](/es/known-issues/the-save-new-card-option-does-not-work-when-using-3-d-secure-3ds--20INELA5LVhY1XqFWG7047).
 

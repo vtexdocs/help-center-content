@@ -35,5 +35,5 @@ Implementamos el cambio para permitir que las tiendas VTEX que utilizan el [CMS 
 
 Para que tu tienda sea compatible con la nueva herramienta de análisis de datos de Google, sigue las instrucciones de la guía [Configurar Google Analytics 4 en tiendas VTEX](/es/tutorial/como-configurar-el-google-analytics-en-tienda-vtex--G2P0rmSrEiqCcmUMyUUwG).
 
-Si tu tienda utiliza [VTEX IO - Store Framework](/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2), será necesário activar una configuración en el Admin VTEX, `Send events in GA4 format`, y configurar la aplicación para recibir actualizaciones de Google Analytics 4. Para más información, accede a [Installing Google Tag Manager](https://developers.vtex.com/docs/guides/vtex-io-documentation-installing-google-tag-manager).
+Si tu tienda utiliza [VTEX IO - Store Framework](/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2), será necesário activar una configuración en el Admin VTEX, `Send events in GA4 format`, y configurar la aplicación para recibir actualizaciones de Google Analytics 4. Para más información, accede a [Installing Google Tag Manager](https://developers.vtex.com/docs/guides/vtex-io-documentation-installing-google-tag-manager).
 

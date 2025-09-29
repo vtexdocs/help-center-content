@@ -122,7 +122,7 @@ Para criar uma nova loja, siga os passos:
 5. Se deseja iniciar o processo de [go-live](/pt/tracks/realizando-o-go-live-da-sua-loja--4Ns5FxIiksmjsdX2yOTduM) da sua loja, preencha o campo **Hosts** com o [domínio da sua loja](/pt/tutorial/configurando-dominios-no-license-manager). Caso contrário, deixe este campo em branco.
 6. Clique no botão `Criar`.
 
-> ℹ️ Para saber mais sobre a configuração de **Hosts** da sua loja, confira o artigo  [Configurando o domínio da sua loja](/tutorial/configurando-dominios-no-gerenciamento-da-conta--tutorials_2450).
+> ℹ️ Para saber mais sobre a configuração de **Hosts** da sua loja, confira o artigo  [Configurando o domínio da sua loja](/pt/tutorial/configurando-dominios-no-gerenciamento-da-conta--tutorials_2450).
 
 > ⚠️ Não utilize um domínio do tipo ".com" no campo Nome da Loja. Esse tipo de entrada só pode existir nos campos Hosts.
 

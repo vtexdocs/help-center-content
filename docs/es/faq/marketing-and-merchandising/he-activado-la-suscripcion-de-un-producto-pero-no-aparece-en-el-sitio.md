@@ -14,7 +14,7 @@ locale: es
 legacySlug: he-activado-la-recurrencia-de-un-producto-pero-no-aparece-en-el-sitio
 ---
 
-> ⚠️ **Atención:** existen dos formas de configurar colecciones, mediante el CMS o utilizando el módulo Colecciones Beta. Este artículo se refiere a <a href = "/es/tutorial/registrar-una-coleccion-cms--2YBy6P6X0NFRpkD2ZBxF6L">la configuración de colecciones mediante el CMS</a>.
+> ⚠️ **Atención:** existen dos formas de configurar colecciones, mediante el CMS o utilizando el módulo Colecciones Beta. Este artículo se refiere a [la configuración de colecciones mediante el CMS](/es/tutorial/registrar-una-coleccion-cms--2YBy6P6X0NFRpkD2ZBxF6L).
 
 Siempre que cambie o cree una suscripción, es necesario reindexar sus SKUs para que ella funcione correctamente. Al hacer esto, usted estará guardando la información de que ese SKU tiene un anexo (en este caso, la suscripción) y debe ser tratado de forma distinta.
 

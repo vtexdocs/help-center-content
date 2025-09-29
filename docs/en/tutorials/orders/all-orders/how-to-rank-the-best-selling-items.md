@@ -17,7 +17,7 @@ subcategoryId: 2t00bBkcAwIkgSCGKsMOwY
 
 > ⚠️ The **Orders** module was not designed as a Business Intelligence (BI) tool. It's usually through the ERP that the store has access to sales reports.
 
-While the **Orders** module primary goal is to manage the order flow, it is possible to manipulate data from the [order report](/tutorial/planilha-de-pedidos) to extract information that may be useful to your business.
+While the **Orders** module primary goal is to manage the order flow, it is possible to manipulate data from the [order report](/en/tutorial/planilha-de-pedidos) to extract information that may be useful to your business.
 
 To get a list of SKUs sold in a certain period by order of top sellers, follow the steps below:
 

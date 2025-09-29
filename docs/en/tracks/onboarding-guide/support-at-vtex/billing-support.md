@@ -17,13 +17,13 @@ order: 5
 
 After [joining VTEX](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/4EPwTXx5oFdSG1dA3zIchz), clients may have questions related to changing their account details, billing information, invoices, and other billing aspects of the account. To address these, billing support is available to help with contractual and billing issues related to stores and VTEX.
 
-You can start by exploring the [Help Center](/pt/) articles and by checking the topics below.
+You can start by exploring the [Help Center](/en/) articles and by checking the topics below.
 
 ## Accounts payable
 
 VTEX is committed to ensuring compliance with the procedures and policies for payments to suppliers of its branches. To do so, VTEX has implemented location-specific practices that suppliers need to follow:
 
-- [Accounts Payable - Brazil](/pt/tutorial/contas-a-pagar-brasil--tutorials_660): Practices to follow in all payments to suppliers related to the accounts payable procedures of VTEX branches in Brazil.
+- [Accounts Payable - Brazil](/en/tutorial/contas-a-pagar-brasil--tutorials_660): Practices to follow in all payments to suppliers related to the accounts payable procedures of VTEX branches in Brazil.
 
 - [Accounts Payable - International](/en/tutorial/accounts-payable-international--3yea9sIlsA0KgUC28ASCGs): Practices to follow for all payments to suppliers related to the accounts payable procedures of VTEX branches outside Brazil.
 

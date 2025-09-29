@@ -1,7 +1,7 @@
 ---
 title: 'Customer Credit: optimize processes with bulk operations'
 id: xoAyucVX5e0DVUgxASoU0
-status: CHANGED
+status: PUBLISHED
 createdAt: 2020-04-09T14:37:18.026Z
 updatedAt: 2020-11-27T19:39:51.220Z
 publishedAt: 2020-04-09T18:29:25.856Z

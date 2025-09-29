@@ -101,4 +101,4 @@ Maneja la plantilla con cuidado, comprobando siempre que la información está c
 - **Custo:** es el costo del servicio para la tienda.
 - **Ativo:** es el status del servicio. Introduce `1` para mantener el servicio activo y `0` para mantenerlo inactivo.
 
-> ⚠️ Añadir una nueva plantilla no sustituirá los servicios ya vinculados al SKU. Para desvincular un servicio, utiliza el *endpoint* <a href ="https://developers.vtex.com/docs/api-reference/catalog-api#delete-/api/catalog/pvt/skuservice/-skuServiceId-">Dissociate SKU Service</a>.
+> ⚠️ Añadir una nueva plantilla no sustituirá los servicios ya vinculados al SKU. Para desvincular un servicio, utiliza el *endpoint* [Dissociate SKU Service](https://developers.vtex.com/docs/api-reference/catalog-api#delete-/api/catalog/pvt/skuservice/-skuServiceId-).

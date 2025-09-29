@@ -133,4 +133,4 @@ Se necessário, é possível segmentar promoções para marketplaces específico
 3. Na seção **Política Comercial**, selecione as opções **Iguais a** e **Entregue por mim (Lojas de terceiros)**.
 4. Clique em `Salvar`.
 
-> ⚠️ Uma vez que você crie a promoção, lembre-se de <a href = "/pt/tutorial/entendendo-a-manutencao-da-base-de-dados--34P9LGs7BCIQK6acQom802">reindexar os produtos afetados</a> no inicio e fim das promoções. Dessa forma, os seus produtos terão os preços atualizados.
+> ⚠️ Uma vez que você crie a promoção, lembre-se de [reindexar os produtos afetados](/pt/tutorial/entendendo-a-manutencao-da-base-de-dados--34P9LGs7BCIQK6acQom802) no inicio e fim das promoções. Dessa forma, os seus produtos terão os preços atualizados.

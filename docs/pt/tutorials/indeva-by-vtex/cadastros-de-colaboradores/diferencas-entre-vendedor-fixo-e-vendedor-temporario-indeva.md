@@ -1,7 +1,7 @@
 ---
 title: 'Diferenças entre vendedor fixo e vendedor temporário'
 id: RxNKhYl8yCcWK4i7NhEhP
-status: CHANGED
+status: PUBLISHED
 createdAt: 2025-09-11T16:03:34.610Z
 updatedAt: 2025-09-12T10:39:50.446Z
 publishedAt: 2025-09-11T16:12:26.719Z

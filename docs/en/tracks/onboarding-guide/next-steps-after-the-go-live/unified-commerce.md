@@ -15,7 +15,7 @@ trackSlugEN: next-steps-after-the-go-live
 order: 2
 ---
 
-[Unified commerce](/pt/tracks/unified-commerce-strategies--3WGDRRhc3vf1MJb9zGncnv) is an evolution of omnichannel. This strategy involves data sharing and the unification of the order processing and management system. It means that every order placed in a store channel is visible to other sales channels and can also be processed within them. Operating with franchise accounts and [white label sellers](/en/tutorial/seller-white-label--5orlGHyDHGAYciQ64oEgKa) in an increasingly connected context can be very strategic for the business.
+[Unified commerce](/en/tracks/unified-commerce-strategies--3WGDRRhc3vf1MJb9zGncnv) is an evolution of omnichannel. This strategy involves data sharing and the unification of the order processing and management system. It means that every order placed in a store channel is visible to other sales channels and can also be processed within them. Operating with franchise accounts and [white label sellers](/en/tutorial/seller-white-label--5orlGHyDHGAYciQ64oEgKa) in an increasingly connected context can be very strategic for the business.
 
 ## Franchise accounts and white label sellers
 

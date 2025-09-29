@@ -46,7 +46,7 @@ Para crear un nuevo vale de compra, siga los pasos a continuación:
 
 > ⚠️ **Atención**: los campos “Valor” y “Fecha de vencimiento” deben completarse de forma **obligatoria**. De lo contrario, el vale no se guardará.
 
-> ❗ La funcionalidad de creación de tarjetas de regalo por colecciones de productos no está funcionando. Hay más información sobre este problema en el artículo [Restricting the use of GiftCards to a collection of products does not work](/en/known-issues/restricting-the-use-of-giftcards-to-a-collection-of-products-does-not-work--7kdbZUdscJLo1sGY6bo1jp).
+> ❗ La funcionalidad de creación de tarjetas de regalo por colecciones de productos no está funcionando. Hay más información sobre este problema en el artículo [Restricting the use of GiftCards to a collection of products does not work](/es/known-issues/restricting-the-use-of-giftcards-to-a-collection-of-products-does-not-work--7kdbZUdscJLo1sGY6bo1jp).
 
 Después de completar los campos correctamente, el usuario puede seleccionar hasta tres opciones de configuración: 
 <ul>
@@ -80,7 +80,7 @@ Para crear más de un nuevo vale de compra al mismo tiempo (un lote), siga los p
 <br>
 > ⚠️ **Atención**: los campos “Cantidad de vales”, “Valor” y “Fecha de vencimiento” deben completarse de forma **obligatoria**. De lo contrario, los vales no se guardarán.
 <br>
-> ❗ La funcionalidad de creación de tarjetas de regalo por colecciones de productos no está funcionando. Hay más información sobre este problema en el artículo [Restricting the use of GiftCards to a collection of products does not work](/en/known-issues/restricting-the-use-of-giftcards-to-a-collection-of-products-does-not-work--7kdbZUdscJLo1sGY6bo1jp).
+> ❗ La funcionalidad de creación de tarjetas de regalo por colecciones de productos no está funcionando. Hay más información sobre este problema en el artículo [Restricting the use of GiftCards to a collection of products does not work](/es/known-issues/restricting-the-use-of-giftcards-to-a-collection-of-products-does-not-work--7kdbZUdscJLo1sGY6bo1jp).
 <br>
   <li>**Recargable**: mientras estos vales estén disponibles, sus saldos pueden alterarse.</li>
   <li>**Reutilizable**: puede hacer nuevas compras con estos vales hasta que sus valores sean utilizados en su totalidad.</li>

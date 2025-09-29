@@ -71,5 +71,5 @@ The **Seller Portal URL** provided is the link you will use to access your Selle
 
 ___________________
 
-Once you have completed these steps, you must [configure the Seller Portal](/pt/tutorial/seller-portal-primeiros-passos--6w1vBdRH2uuBGmUqgNQjwK) and wait for the[ marketplace to activate your store](/pt/tutorial/marketplace-convite-de-sellers-beta--6rb2FkcslmDueJ689Ulb9A#conectar-seller).
+Once you have completed these steps, you must [configure the Seller Portal](/en/tutorial/seller-portal-primeiros-passos--6w1vBdRH2uuBGmUqgNQjwK) and wait for the[ marketplace to activate your store](/en/tutorial/marketplace-convite-de-sellers-beta--6rb2FkcslmDueJ689Ulb9A#conectar-seller).
 

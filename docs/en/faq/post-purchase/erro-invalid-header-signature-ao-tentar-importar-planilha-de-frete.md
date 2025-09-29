@@ -18,7 +18,7 @@ When uploading a freight spreadsheet, you can come across the error "*Invalid he
 
 This error occurs when the freight spreadsheet is imported with the __.xlsx__ extension.
 
-To solve the problem, it is necessary to adjust the freight spreadsheet to the __.xls__ extension and [import the freight spreadsheet](http://help.vtex.com/en/tutorial/importing-the-shipping-spreadsheet) again.
+To solve the problem, it is necessary to adjust the freight spreadsheet to the __.xls__ extension and [import the freight spreadsheet](/en/tutorial/importing-the-shipping-spreadsheet) again.
 
 > ⚠️ In case the spreadsheet is over 10 MB, you’ll need to compact it in .zip format. The .zip archive should have less than 10 MB. Otherwise, the upload won’t work.
 

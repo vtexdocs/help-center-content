@@ -1,7 +1,7 @@
 ---
 title: 'Configurar modal para transportadoras'
 id: 3jhLqxuPhuiq24UoykCcqy
-status: CHANGED
+status: PUBLISHED
 createdAt: 2018-02-28T14:15:43.168Z
 updatedAt: 2023-03-29T15:09:26.801Z
 publishedAt: 2023-03-29T14:51:10.227Z
@@ -28,12 +28,12 @@ Primeiro devemos ativar a opção do modal refrigerado e associar a transportad
 ## Como ativar o modal e associá-lo a uma transportadora
 
 1. No Admin VTEX, acesse **Configurações da loja > Envio > Configurações**, ou digite *Envio* na barra de busca no topo da página e selecione *Configurações da loja / Envio*.      
-2. Em **Permitir o uso dos seguintes modais nas transportadoras**, selecione os tipos de modais desejados.  
-3. Clique no botão **Salvar**.  
-4. Acesse **Envio > Estratégia de Envio** ou digite *Estratégia de envio* na barra de busca no topo da página.    
-5. Selecione a __política de envio__ que deseja alterar.    
-6. Na seção **Modais de entrega**, selecione um **Modal** para vincular a essa transportadora.    
-7. Para finalizar, clique em **Salvar**.   
+2. Em **Permitir o uso dos seguintes modais nas transportadoras**, selecione os tipos de modais desejados.
+3. Clique no botão **Salvar**.
+4. Acesse **Envio > Estratégia de Envio** ou digite *Estratégia de envio* na barra de busca no topo da página.  
+5. Selecione a __política de envio__ que deseja alterar.  
+6. Na seção **Modais de entrega**, selecione um **Modal** para vincular a essa transportadora.  
+7. Para finalizar, clique em **Salvar**.  
 
 Agora que o modal já foi ativado e já está associado a uma política de envio, é necessário vincular o SKU ao modal. 
 

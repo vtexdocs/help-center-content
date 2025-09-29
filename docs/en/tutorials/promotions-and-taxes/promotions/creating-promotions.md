@@ -35,7 +35,7 @@ Follow the tutorial below to create a regular promotion.
  2. Click on __Promotions__.
  3. Click on the `Create promotion` button.
  4. Select `Regular`.
- 5. Fill in the [fields](/tutorial/regular-promotion--tutorials_327).
+ 5. Fill in the [fields](/en/tutorial/regular-promotion--tutorials_327).
  6. Click on `Save`.
 
 ## Filtering or searching for promotions

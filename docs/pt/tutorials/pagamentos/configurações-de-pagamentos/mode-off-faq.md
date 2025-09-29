@@ -1,7 +1,7 @@
 ---
 title: 'Mode-Off: FAQ'
 id: 6hbd7PuvoxuRbPCvTqjxeB
-status: CHANGED
+status: PUBLISHED
 createdAt: 2021-01-21T17:29:10.793Z
 updatedAt: 2024-04-11T19:26:47.407Z
 publishedAt: 2024-04-11T19:22:34.569Z

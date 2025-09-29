@@ -31,4 +31,4 @@ We have increased the limit of orders that can be exported to better serve retai
 
 No action is needed. The change will be automatically implemented in all VTEX stores.
 
-Learn more about the process of exporting orders in our article [Exporting orders in Orders Management](/tutorial/exporting-orders-in-orders-managment--tutorials_6417).
+Learn more about the process of exporting orders in our article [Exporting orders in Orders Management](/en/tutorial/exporting-orders-in-orders-managment--tutorials_6417).

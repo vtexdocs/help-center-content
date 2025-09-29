@@ -1,7 +1,7 @@
 ---
 title: 'Facilitating B2B store operation'
 id: 8t1f9FYBsSCopHHVujKWR
-status: CHANGED
+status: PUBLISHED
 createdAt: 2021-03-30T14:29:12.548Z
 updatedAt: 2024-05-10T10:59:55.549Z
 publishedAt: 2021-05-20T18:17:16.108Z
@@ -45,13 +45,13 @@ For more details, check out the article on [how to fill each of the registration
 
 ### Price per quantity
 
-At VTEX, you can set the price of an item according to its quantity. When configuring the [fixed price](/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3HxF2u5VwidqnUGnFoKdDy "") of an SKU, you can also determine a [minimum product quantity to sell it](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3HxF2u5VwidqnUGnFoKdDy#item-minimo-no-carrinho ""). In other words, the product price will be adjusted depending on the number of items the consumer adds to the cart.
+At VTEX, you can set the price of an item according to its quantity. When configuring the [fixed price](/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3HxF2u5VwidqnUGnFoKdDy "") of an SKU, you can also determine a [minimum product quantity to sell it](/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3HxF2u5VwidqnUGnFoKdDy#item-minimo-no-carrinho ""). In other words, the product price will be adjusted depending on the number of items the consumer adds to the cart.
 
 For example, suppose that a product costs US$ 100 per unit, and the product's price remains the same if you buy up to 10 units. However, if the customer adds 12 items to the shopping cart, the price per unit will be lower: US$ 98.
 
 This is a resource that meets the needs of wholesale businesses. Currently, there are three ways to establish a fixed price at VTEX. See all the methods in our article [how to register fixed prices](/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3g39iXkQza4AW7C7L814mj "").
 
-> ℹ️ Before you keep going on your reading, check our article about [the most used promotions for the B2B context](/es/tutorial/as-promocoes-mais-comuns-em-b2b--XoM951AzUIvfaH71UdANf?&utm_source=autocomplete).
+> ℹ️ Before you keep going on your reading, check our article about [the most used promotions for the B2B context](/en/tutorial/as-promocoes-mais-comuns-em-b2b--XoM951AzUIvfaH71UdANf?&utm_source=autocomplete).
 
 ### Product kits
 

@@ -48,5 +48,5 @@ Copilot responderá automáticamente y te guiará a través del proceso. Si tu p
 La apertura de tickets comerciales o financieros puede hacerse de tres maneras:
 
 - Accediendo a la [página de soporte](https://support.vtex.com/hc/pt-br/requests).
-- Accediendo a cualquier página del [Help Center](https://newhelp.vtex.com/) y haciendo clic en la pestaña `Soporte` en la parte superior de la página o en `Entrar en contacto`, en la parte inferior.
+- Accediendo a cualquier página del [Help Center](https://newhelp.vtex.com/es) y haciendo clic en la pestaña `Soporte` en la parte superior de la página o en `Entrar en contacto`, en la parte inferior.
 - En el Admin VTEX, haciendo clic sobre el ícono del signo de interrogación <i class="fas fa-question-circle"></i> desde el **Centro de información** y seleccionando la opción **Habla con nuestros especialistas**.

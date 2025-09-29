@@ -1,7 +1,7 @@
 ---
 title: 'Why is the product not visible on the website?'
 id: frequentlyAskedQuestions_382
-status: CHANGED
+status: PUBLISHED
 createdAt: 2017-04-27T22:36:11.456Z
 updatedAt: 2025-09-04T18:05:50.517Z
 publishedAt: 2025-09-04T18:05:35.252Z

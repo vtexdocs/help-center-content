@@ -40,6 +40,6 @@ Todas las nuevas funcionalidades introducidas a partir de la certificación tien
 
 ## ¿Qué hay que hacer?
 
-Los usuarios que ya estén integrados con Mercado Libre deberán ponerse en contacto con el [equipo de soporte de VTEX](/support?cultureInfo=en-us) para adaptar su tienda a las nuevas posibilidades. 
+Los usuarios que ya estén integrados con Mercado Libre deberán ponerse en contacto con el [equipo de soporte de VTEX](/es/support?cultureInfo=en-us) para adaptar su tienda a las nuevas posibilidades. 
 
 Si su tienda aún no tiene integración con Mercado Libre, consulte nuestra [Guía de Integración](/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq) para conectarla.

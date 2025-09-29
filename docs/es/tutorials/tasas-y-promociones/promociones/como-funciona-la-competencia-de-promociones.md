@@ -97,15 +97,7 @@ y modifican el valor que refleja el descuento de la promoción seleccionada por 
 Se aplica de la siguiente manera:
 ![promocao3 PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/tasas-y-promociones/promociones/como-funciona-la-competencia-de-promociones_1.png)
 
-<div style="background-color: #fff8e1; border-left: 4px solid #ffb300; padding: 12px 16px; margin: 16px 0; font-family: sans-serif; overflow: auto;">
-  <p style="margin: 0;">
-    Los pedidos de origen 
-    <a href="/es/tutorial/configurar-promocao-para-marketplace--tutorials_406" target="_blank" style="color: #1976d2; text-decoration: underline;">
-      marketplace
-    </a> 
-    y fulfillment no reconocen la acumulación de promociones, ya que el uso de promociones en marketplaces VTEX o externos está restringido a ciertos tipos específicos.
-  
-</div>
+> ⚠️ Los pedidos de origen [marketplace](/es/tutorial/configurar-promocao-para-marketplace--tutorials_406) y fulfillment no reconocen la acumulación de promociones, ya que el uso de promociones en marketplaces VTEX o externos está restringido a ciertos tipos específicos.
 
 ## Estrategia de competencia de promociones
 
@@ -120,15 +112,7 @@ Hay dos estrategias de competencia:
 - [Competencia por escenario](#competencia-por-scenario)  
 - [Competencia por ítem](#competencia-por-item)
 
-<div style="background-color: #e3f2fd; border-left: 4px solid #2196f3; padding: 12px 16px; margin: 16px 0; font-family: sans-serif; overflow: auto;">
-  <p style="margin: 0;">
-    De manera predeterminada, todas las cuentas siguen la estrategia de competencia por escenario. Si la estrategia de competencia por ítem se adapta mejor a tus necesidades de negocio, 
-    <a href="/es/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM" target="_blank" style="color: #1976d2; text-decoration: underline;">
-      abre un ticket con nuestro equipo de Soporte
-    </a> 
-    para solicitar el cambio.
-  
-</div>
+> De manera predeterminada, todas las cuentas siguen la estrategia de competencia por escenario. Si la estrategia de competencia por ítem se adapta mejor a tus necesidades de negocio, [abre un ticket con nuestro equipo de Soporte](/es/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM) para solicitar el cambio.
 
 ### Competencia por escenario
 

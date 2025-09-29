@@ -58,7 +58,7 @@ Select one of the following options for applying the promotion:
 - **Different from:** Define the sellers that will not be affected by this promotion. After selecting "Different from", you can choose the sellers you don't want to include in the campaign. All other sellers will be included.
 
 ### Trade policies
-In the right-hand corner of the page, in the section **Trade policies**, select the trade policies valid for the discount. You can give discounts for trade policies when [your store acts as a marketplace](/pt/faq/o-que-e-um-marketplace) (**My store**) or as a seller (**Third-party stores - Fulfillment**).
+In the right-hand corner of the page, in the section **Trade policies**, select the trade policies valid for the discount. You can give discounts for trade policies when [your store acts as a marketplace](/en/faq/o-que-e-um-marketplace) (**My store**) or as a seller (**Third-party stores - Fulfillment**).
 
 You can choose from the following options:
 

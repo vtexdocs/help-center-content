@@ -22,9 +22,9 @@ Na listagem já é indicado o status atual, o início (data e hora) da transa�
 
 ![payment_pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/transa%C3%A7%C3%B5es/transacoes-pci-gateway_1.jpg)
 
-Cada registro de pedido terá seus dados restritos às condições de pagamento utilizadas para o seu fechamento. Isto é, códigos de autorização, transação, NSU, entre outros, [estão disponibilizados dentro de cada registro](http://help.vtex.com/tutorial/como-visualizar-detalhes-do-pedido/).
+Cada registro de pedido terá seus dados restritos às condições de pagamento utilizadas para o seu fechamento. Isto é, códigos de autorização, transação, NSU, entre outros, [estão disponibilizados dentro de cada registro](/pt/tutorial/como-visualizar-detalhes-do-pedido/).
 
 Além destes dados, essa interface é dinâmica em relação aos filtros que podem ser feitos e às buscas que podem realizadas. Para melhor estender seu uso, acesse:
 
-- [Como buscar transações](http://help.vtex.com/pt/tutorial/transacoes-como-buscar)
-- [Como filtrar transações](http://help.vtex.com/pt/faq/filtrar-transacoes-no-pci-gateway)
+- [Como buscar transações](/pt/tutorial/transacoes-como-buscar)
+- [Como filtrar transações](/pt/faq/filtrar-transacoes-no-pci-gateway)

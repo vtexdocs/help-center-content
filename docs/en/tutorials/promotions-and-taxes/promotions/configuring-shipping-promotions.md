@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
-You can create several types of [discount](/pt/tutorial/como-criar-promocoes--tutorials_320#) in your VTEX store. Shipping promotions provide the buyer with a discount on the amount charged for the delivery of their order.
+You can create several types of [discount](/en/tutorial/como-criar-promocoes--tutorials_320#) in your VTEX store. Shipping promotions provide the buyer with a discount on the amount charged for the delivery of their order.
 
 The step-by-step instructions for creating a shipping promotion are the same as for [other regular promotions](/en/tutorial/regular-promotion--tutorials_327"). However, some specifics must be taken into account when configuring these discounts.
 

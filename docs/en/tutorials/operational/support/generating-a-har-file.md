@@ -32,4 +32,4 @@ See the table below for the documentation with the file exporting instructions f
 
 After exporting the `.HAR` file, you can send it to VTEX Support team. When using Google Chrome, make sure to configure the [exporting options with sensitive data](https://developer.chrome.com/blog/new-in-devtools-130#har).
 
-> ❗ The `.HAR` file contains sensitive information about your store, so share it only with [VTEX Support team](/en/support).
+> ❗ The `.HAR` file contains sensitive information about your store, so share it only with [VTEX Support team](https://help.vtex.com/en/support).

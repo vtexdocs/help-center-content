@@ -56,7 +56,7 @@ Exemplo:
 ];
 ```
 
-Pronto, agora é só usar esse mesmo ID para preencher a coluna **PolygonName** da [planilha de frete](http://help.vtex.com/tutorial/como-montar-a-planilha-de-frete/).
+Pronto, agora é só usar esse mesmo ID para preencher a coluna **PolygonName** da [planilha de frete](/pt/tutorial/como-montar-a-planilha-de-frete/).
 
 > ⚠️ É importante atentar para o fato de que, no caso de você usar geolocalização, preenchendo portanto a coluna **PolygonName** da [planilha de frete](/pt/tutorial/planilha-de-frete--tutorials_127), a transportadora em questão não usará as colunas **ZipCodeStart** e **ZipCodeEnd**, que deverão ser preenchidas com `0`.
 

@@ -19,7 +19,7 @@ Confira abaixo algumas das dúvidas mais frequentes acerca de Google Analytics p
 
 ## Como instalar o Google Analytics na sua loja?
 
-A instalação é feita através do [Google Tag Manager](/tutorial/integracao-com-o-google-tag-manager#), como descrita no artigo [Configurar Google Analytics em loja VTEX](/pt/tutorial/how-to-setup-google-analytics-in-vtex-store--G2P0rmSrEiqCcmUMyUUwG#).
+A instalação é feita através do [Google Tag Manager](/pt/tutorial/integracao-com-o-google-tag-manager#), como descrita no artigo [Configurar Google Analytics em loja VTEX](/pt/tutorial/how-to-setup-google-analytics-in-vtex-store--G2P0rmSrEiqCcmUMyUUwG#).
 
 ## De onde vêm os dados exibidos no Google Analytics? O que são tags do Google?
 
@@ -85,7 +85,7 @@ Já o Google Analytics disponibiliza um funil de vendas gerado automaticamente, 
 
 Por serem baseados em informações diferentes, essas visualizações de funil podem apresentar divergências.
 
-Você pode configurar um outro funil de vendas no Google Analytics, que possibilita uma visão customizada e melhor controle da jornada de compra. Confira este artigo sobre como [implementar este funil de vendas no Google Analytics](/en/tutorial/configurar-funil-de-vendas-no-google-analytics#).
+Você pode configurar um outro funil de vendas no Google Analytics, que possibilita uma visão customizada e melhor controle da jornada de compra. Confira este artigo sobre como [implementar este funil de vendas no Google Analytics](/pt/tutorial/configurar-funil-de-vendas-no-google-analytics#).
 
 ## O que é o funil de vendas do Google Analytics?
 

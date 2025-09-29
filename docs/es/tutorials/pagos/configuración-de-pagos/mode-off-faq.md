@@ -1,7 +1,7 @@
 ---
 title: 'Mode-Off: FAQ'
 id: 6hbd7PuvoxuRbPCvTqjxeB
-status: CHANGED
+status: PUBLISHED
 createdAt: 2021-01-21T17:29:10.793Z
 updatedAt: 2024-04-11T19:26:47.407Z
 publishedAt: 2024-04-11T19:22:34.569Z
@@ -56,7 +56,7 @@ Las transacciones se liberarán normalmente cuando el partner deje de presentar 
 El partner puede definir el tiempo entre los reintentos de procesamiento de transacciones (_retries_) al enviar la información de pago. Al configurar el tiempo de cancelación de pago (campo delayToCancel) por un período inferior a 1 día, los reintentos se realizarán cada 1 hora. Si el tiempo para cancelar el pago se establece como igual o mayor a 1 día, los reintentos se realizarán cada 4 horas. Para obtener más información, visite [Create Payment endpoint](https://developers.vtex.com/docs/api-reference/payment-provider-protocol?endpoint=post-/payments).
 
 <div class="alerta alerta-info">
- Si el pago se realiza mediante [PIX (Método de pago instantáneo brasileño)](/pt/tutorial/configurar-pix-como-meio-de-pagamento--5sbNavMSJY4jyLmLKRHiOf) o el tiempo de cancelación de pago se configura entre 5 minutos y 1 hora, los reintentos se realizarán cada 5 minutos.</div>
+ Si el pago se realiza mediante [PIX (Método de pago instantáneo brasileño)](/es/tutorial/configurar-pix-como-meio-de-pagamento--5sbNavMSJY4jyLmLKRHiOf) o el tiempo de cancelación de pago se configura entre 5 minutos y 1 hora, los reintentos se realizarán cada 5 minutos.</div>
 
 ## ¿Cómo identificar mode-off y qué hacer cuando esté activo?
 

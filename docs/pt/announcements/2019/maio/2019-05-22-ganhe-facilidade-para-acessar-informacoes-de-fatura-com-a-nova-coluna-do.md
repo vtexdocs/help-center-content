@@ -1,7 +1,7 @@
 ---
 title: 'Ganhe facilidade para acessar informações de fatura com a nova coluna do relatório de pedidos'
 id: 691NLFaJYGwpfrOOmnQJsL
-status: CHANGED
+status: PUBLISHED
 createdAt: 2019-05-22T19:41:07.812Z
 updatedAt: 2020-11-27T19:40:31.176Z
 publishedAt: 2020-09-04T21:14:07.344Z

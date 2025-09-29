@@ -72,7 +72,7 @@ Once you have filled out the form and clicked **Save**, your seller will be adde
 
 ## Learn more
 
-- [Creating a trade policy](/pt/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE)  
+- [Creating a trade policy](/en/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE)  
 - [Seller management](/en/tutorial/gerenciamento-de-sellers--6eEiOISwxuAWJ8w6MtK7iv)
 - [Configuring a VTEX marketplace](/en/tutorial/configurar-marketplace-vtex--7splyp5MqIyt2Iyz5jsNzb)  
 - [Actions for a VTEX marketplace operation](/en/tutorial/acoes-para-a-operacao-de-marketplaces-vtex--2SdIflvwywiOqCpczKCfev) 

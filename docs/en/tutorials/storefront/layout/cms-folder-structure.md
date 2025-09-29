@@ -53,7 +53,7 @@ These are:
 
 For these two folders, what matters is the control or placeholder that reads their content. Their names can be freely edited.
 
-> ⚠️ Since they are private folders, `/account` and `/account/orders` **must require authentication**. See [in this article](http://help.vtex.com/en/tutorial/requering-authentication-on-store-pages) how to ensure they are configured to ask for user authentication.
+> ⚠️ Since they are private folders, `/account` and `/account/orders` **must require authentication**. See [in this article](/en/tutorial/requering-authentication-on-store-pages) how to ensure they are configured to ask for user authentication.
 
 ## Useful folders
 

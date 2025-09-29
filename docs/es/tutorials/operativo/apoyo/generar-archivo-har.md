@@ -32,5 +32,5 @@ Consulte la siguiente tabla para ver la documentación con las instrucciones de 
 
 Después de exportar el archivo `.HAR`, basta enviarlo a nuestro equipo de Soporte VTEX. Cuando utilice el Google Chrome, asegúrese de configurar la [opción de exportación con datos sensibles](https://developer.chrome.com/blog/new-in-devtools-130?hl=es-419#har).
 
-> ❗ El archivo HAR contiene información sensible sobre su tienda, por lo tanto compartalo sólo con el equipo de [Soporte VTEX](/es/support).
+> ❗ El archivo HAR contiene información sensible sobre su tienda, por lo tanto compartalo sólo con el equipo de [Soporte VTEX](https://help.vtex.com/es/support).
 

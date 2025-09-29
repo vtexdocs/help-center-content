@@ -1,7 +1,7 @@
 ---
 title: 'Integração Amazon: gerencie seus pedidos FBA Classic e DBA no Admin VTEX'
 id: aEwDY3x18zaUEISTzO7no
-status: CHANGED
+status: PUBLISHED
 createdAt: 2023-01-25T13:54:02.256Z
 updatedAt: 2023-01-27T13:20:40.442Z
 publishedAt: 2023-01-26T17:57:43.160Z

@@ -1,7 +1,7 @@
 ---
 title: 'Gerencie seus anúncios com o novo recurso de integração do VTEX Shopping Ads'
 id: 3cGKE2G63tRrXmrp0kbic8
-status: CHANGED
+status: PUBLISHED
 createdAt: 2019-07-31T21:54:59.585Z
 updatedAt: 2020-11-27T19:39:40.104Z
 publishedAt: 2020-08-17T22:25:02.826Z

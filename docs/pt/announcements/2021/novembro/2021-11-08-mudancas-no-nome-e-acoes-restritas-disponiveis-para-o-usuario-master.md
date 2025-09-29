@@ -33,7 +33,7 @@ Confira o artigo [Transferência de propriedade da loja](/pt/tutorial/transferen
 
 ## As credenciais de autenticação não são mais restritas ao usuário Titular
 
-Antes, somente o usuário Titular podia criar e gerenciar pares de appKey e appToken para a [autenticação de integrações via API.](/pt/tutorial/chaves-de-aplicacao) Agora qualquer usuário com o recurso `License Manager / Save User ` incluído em seus [perfis de acesso](/en/tutorial/roles) pode criar essas credenciais e compartilhar as mesmas permissões com outros usuários, permitindo que o usuário Titular delegue esta responsabilidade conforme necessário. 
+Antes, somente o usuário Titular podia criar e gerenciar pares de appKey e appToken para a [autenticação de integrações via API.](/pt/tutorial/chaves-de-aplicacao) Agora qualquer usuário com o recurso `License Manager / Save User ` incluído em seus [perfis de acesso](/pt/tutorial/roles) pode criar essas credenciais e compartilhar as mesmas permissões com outros usuários, permitindo que o usuário Titular delegue esta responsabilidade conforme necessário. 
 
 ## Saiba mais
 

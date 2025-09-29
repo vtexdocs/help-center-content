@@ -33,7 +33,7 @@ A seção [Layout](/pt/subcategory/layout--2g6LxtasS4iSeGEqeYUuGW) permite que v
 
 - **Product Cluster (Collections):** criar grupos de produtos. Você pode usar esse recurso para criar páginas de Campanhas ou de Coleções de Produtos com clusters de produtos específicos.
 
-- **Sites and Channels:** configurar [o binding da sua loja](/en/tutorial/what-is-binding--4NcN3NJd0IeYccgWCI8O2W) e outras configurações do Gerenciador de Licenças. Para saber mais, consulte o artigo [estrutura das pastas do CMS](/en/tutorial/cms-folder-structure--2RdMaJSv4AK4EyscmQuocu).
+- **Sites and Channels:** configurar [o binding da sua loja](/pt/tutorial/what-is-binding--4NcN3NJd0IeYccgWCI8O2W) e outras configurações do Gerenciador de Licenças. Para saber mais, consulte o artigo [estrutura das pastas do CMS](/pt/tutorial/cms-folder-structure--2RdMaJSv4AK4EyscmQuocu).
 
 ## Configurações
 

@@ -1,7 +1,7 @@
 ---
 title: 'Cambio en la máscara de Conversation Tracker. Ahora disponible en Gestión de Pedidos.'
 id: 4rjAD05fBp6zVeIJL7I6TY
-status: CHANGED
+status: PUBLISHED
 createdAt: 2020-04-08T16:29:31.816Z
 updatedAt: 2020-11-27T19:39:47.532Z
 publishedAt: 2020-04-10T16:36:23.095Z

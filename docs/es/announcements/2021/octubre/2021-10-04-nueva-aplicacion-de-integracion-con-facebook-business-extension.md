@@ -62,6 +62,6 @@ Las funcionalidades que se instalan automáticamente con la integración de la a
 
 Para integrar tu tienda VTEX con FBE, sigue los pasos de la [guía de Integración con Facebook Business Extension](/es/tracks/integracao-com-o-facebook-business-extension--2hS3ANSZ7vlHCcba4h7k8D).
 
-> ⚠️ Incluso si ya has configurado la <a href= "/es/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc">integración con Facebook</a>, se recomienda que realices la integración con la aplicación *Facebook Business Extension y Conversions API*. Esto te permitirá disponer de servicios mejorados y nuevas funcionalidades.
+> ⚠️ Incluso si ya has configurado la [integración con Facebook](/es/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc), se recomienda que realices la integración con la aplicación *Facebook Business Extension y Conversions API*. Esto te permitirá disponer de servicios mejorados y nuevas funcionalidades.
 
 Cabe resaltar que no hay ninguna interferencia entre las dos integraciones. Una vez completada la integración con la aplicación _Facebook Business Extension y Conversions API_, tu tienda podrá acceder a todos los servicios que ofrece Facebook Business Extension.

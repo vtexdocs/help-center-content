@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 3aExYJkji3NIu9Ks8bxbWx
 ---
 
-> ⚠️ There are two ways to configure collections, through the Legacy CMS Portal or the [Collection module (Beta)](/en/tutorial/creating-collections-beta--yJBHqNMViOAnnnq4fyOye). This article is about how to <a href = "/en/tutorial/adding-collections-cms--2YBy6P6X0NFRpkD2ZBxF6L">configure collections through the Legacy CMS Portal</a>.
+> ⚠️ There are two ways to configure collections, through the Legacy CMS Portal or the [Collection module (Beta)](/en/tutorial/creating-collections-beta--yJBHqNMViOAnnnq4fyOye). This article is about how to [configure collections through the Legacy CMS Portal](/en/tutorial/adding-collections-cms--2YBy6P6X0NFRpkD2ZBxF6L).
 
 To create a collection, follow the instructions below.
 

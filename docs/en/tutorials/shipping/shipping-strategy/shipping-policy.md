@@ -42,7 +42,7 @@ Every shipping policy is associated with a [shipping rate template](/en/tutorial
 
 * Carrier identification
 * Carrier shipping cost
-* Postal code ranges or [polygons](/pt/tutorial/gerenciar-geolocalizacao--tutorials_138) valid for shipping
+* Postal code ranges or [polygons](/en/tutorial/gerenciar-geolocalizacao--tutorials_138) valid for shipping
 
 Once the shipping rate template is associated with the shipping policy, this information becomes part of your VTEX logistics operation.
 

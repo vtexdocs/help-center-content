@@ -15,7 +15,7 @@ trackSlugEN: instore-first-steps-and-configurations
 order: 4
 ---
 
-VTEX Sales App is one of VTEX's main products for [unified commerce](/pt/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv) operations. It enables your store to provide a true omnichannel experience, integrating your online and physical channels and placing customers at the core of your business.
+VTEX Sales App is one of VTEX's main products for [unified commerce](/en/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv) operations. It enables your store to provide a true omnichannel experience, integrating your online and physical channels and placing customers at the core of your business.
 
 > ℹ️ Before you start using VTEX Sales App, make sure your store meets all the [prerequisites](/en/tracks/instore-primeiros-passos--6N0QlieWqboSVU2ehgAVAb/1wtAanSRA3g2316dw7bw8u).
 

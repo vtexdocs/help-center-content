@@ -51,7 +51,7 @@ O webhook é um endpoint HTTP que permite a comunicação automatizada entre o V
 
 Depois de criar um novo projeto, você poderá criar páginas para ele com todas as rotas de URL e modelos de página compatíveis com a sua loja, como páginas iniciais, de produtos e de login.
 
-Para criar uma nova página, siga os passos em [Gerenciando páginas no Headless CMS](/tutorial/managing-pages--3DO6rBhZ1p3zndnFu5BgRt)
+Para criar uma nova página, siga os passos em [Gerenciando páginas no Headless CMS](/pt/tutorial/managing-pages--3DO6rBhZ1p3zndnFu5BgRt)
 
 ## Configurações do projeto
 As configurações do projeto permitem que você o configure de acordo com três categorias principais:

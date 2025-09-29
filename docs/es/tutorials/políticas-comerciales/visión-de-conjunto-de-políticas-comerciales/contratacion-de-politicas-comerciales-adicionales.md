@@ -23,11 +23,11 @@ Para adquirir una política comercial destinada a un canal de ventas externo al 
 
 ## Contratar una política comercial
 
-Para contratar una política comercial adicional destinada a operar en el mercado internacional, póngase en contacto con nuestro equipo de Growth Operations en *[Soporte](/es/support)*, seleccionando la opción **Comercial** y el tipo de solicitud `Creación de Política Comercial`.
+Para contratar una política comercial adicional destinada a operar en el mercado internacional, póngase en contacto con nuestro equipo de Growth Operations en *[Soporte](https://help.vtex.com/es/support)*, seleccionando la opción **Comercial** y el tipo de solicitud `Creación de Política Comercial`.
 
 ## Reglas de costos
 
-Cada cliente VTEX tiene valores definidos en su contrato para la compra de políticas comerciales adicionales, y estas tienen un costo. Tenga en cuenta que cada cuenta VTEX ya cuenta con una [póliza comercial nativa](/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV?&amp;utm_source=autocomplete), que no se rige por estas normas de facturación.
+Cada cliente VTEX tiene valores definidos en su contrato para la compra de políticas comerciales adicionales, y estas tienen un costo. Tenga en cuenta que cada cuenta VTEX ya cuenta con una [póliza comercial nativa](/es/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV?&amp;utm_source=autocomplete), que no se rige por estas normas de facturación.
 
 Se cobra una tarifa mensual por cada política comercial adicional, independientemente de si se utiliza para la integración con marketplaces certificados, partners, externos o VTEX. 
 

@@ -34,7 +34,7 @@ You will only need to [configure a specific marketplace trade policy](/en/tutori
 - Configuring other payment conditions.
 - Defining a different shipping strategy.
 
-To [request additional trade policies](/en/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X), simply fill out the [Trade Policy Release form](https://docs.google.com/forms/d/e/1FAIpQLSe9qCGB_KM_xsV5e9uNe06JE8tMZrWcv6EuHUOmqTiM8oRW7w/viewform). If you have any questions, please contact our Growth Operations team through *[Support](/en/support)* by selecting **Commercial** and `Create a trade policy`.
+To [request additional trade policies](/en/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X), simply fill out the [Trade Policy Release form](https://docs.google.com/forms/d/e/1FAIpQLSe9qCGB_KM_xsV5e9uNe06JE8tMZrWcv6EuHUOmqTiM8oRW7w/viewform). If you have any questions, please contact our Growth Operations team through *[Support](https://help.vtex.com/en/support)* by selecting **Commercial** and `Create a trade policy`.
 
 For each additional trade policy, a monthly fee is charged, whether it is used for integration with certified marketplaces, partners, external or VTEX.
 

@@ -1,7 +1,7 @@
 ---
 title: 'El SKU tiene unidades positivas en el stock, pero no está disponible para la venta'
 id: 6HIEgJSYM8S05IyWHnIcOn
-status: CHANGED
+status: PUBLISHED
 createdAt: 2022-02-15T15:41:43.419Z
 updatedAt: 2022-02-15T15:50:50.574Z
 publishedAt: 2022-02-15T15:49:48.146Z

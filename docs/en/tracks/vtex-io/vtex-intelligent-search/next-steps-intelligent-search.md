@@ -21,27 +21,27 @@ After configuring the [initial settings](/en/tracks/vtex-intelligent-search--19w
 
 Access settings and features to optimize search results:
 
-* [Search configuration](/pt/tutorial/configuracao-da-busca--1yNCDwz0k77ovSGqkTbZMv): Define the available filters and configure the behavior of product specifications and SKUs in the search.  
-* [Synonyms](/pt/subcategory/sinonimos--BBzMtJan1UTxC9QZODnlN): Add words with the same meaning as a specific search term, increasing the chance of a successful search.  
-* [Relevance](/pt/subcategory/relevancia--32zXHBMygA2dB6TbCjQJej): Create relevance rules to determine the product order in the search results and handle specific search results through [merchandising rules](/pt/tutorial/regras-de-merchandising--2UEbxllrr98twbGIVhSPvi).  
-* [Redirects](/pt/subcategory/redirecionamentos--1wvyJwJhKgewxGeAGCVmM6): Direct customers to another page, internal or external to the store. This redirect is done in the search area using selected terms or filters.  
-* [Banners](/pt/subcategory/banners--z6qcw06Z38YDu1fOcu9Jn): Configure banners to be displayed during the search.
+* [Search configuration](/en/tutorial/configuracao-da-busca--1yNCDwz0k77ovSGqkTbZMv): Define the available filters and configure the behavior of product specifications and SKUs in the search.  
+* [Synonyms](/en/subcategory/sinonimos--BBzMtJan1UTxC9QZODnlN): Add words with the same meaning as a specific search term, increasing the chance of a successful search.  
+* [Relevance](/en/subcategory/relevancia--32zXHBMygA2dB6TbCjQJej): Create relevance rules to determine the product order in the search results and handle specific search results through [merchandising rules](/en/tutorial/regras-de-merchandising--2UEbxllrr98twbGIVhSPvi).  
+* [Redirects](/en/subcategory/redirecionamentos--1wvyJwJhKgewxGeAGCVmM6): Direct customers to another page, internal or external to the store. This redirect is done in the search area using selected terms or filters.  
+* [Banners](/en/subcategory/banners--z6qcw06Z38YDu1fOcu9Jn): Configure banners to be displayed during the search.
 
 ## Monitoring results
 
 Access reports to monitor Intelligent Search:
 
-* [Search explanation](/pt/tutorial/explicacao-da-busca--F2yxrRvTNt4aEZGC7HV65): Simulates searches and displays all the references used to determine the ranking of the results.  
-* [Analytics](/pt/tutorial/analytics--6qRMAHDL9hvv3oE0bh8mA1): Organizes data related to the searches performed in the store and allows you to export this data in a CSV file.  
-* [Indexing history](/pt/tutorial/historico-da-indexacao--55SRQ79PXk5lTURF54DRyJ): Monitors the synchronization status of all products in the [Catalog](/pt/subcategory/catalogo-visao-geral--6jaCCq5pVL7VxL0WNWV0cF) sent to Intelligent Search.
+* [Search explanation](/en/tutorial/explicacao-da-busca--F2yxrRvTNt4aEZGC7HV65): Simulates searches and displays all the references used to determine the ranking of the results.  
+* [Analytics](/en/tutorial/analytics--6qRMAHDL9hvv3oE0bh8mA1): Organizes data related to the searches performed in the store and allows you to export this data in a CSV file.  
+* [Indexing history](/en/tutorial/historico-da-indexacao--55SRQ79PXk5lTURF54DRyJ): Monitors the synchronization status of all products in the [Catalog](/en/subcategory/catalogo-visao-geral--6jaCCq5pVL7VxL0WNWV0cF) sent to Intelligent Search.
 
 ## How search works
 
 Learn more about how Intelligent Search works:
 
-* [Search behavior](/pt/tutorial/comportamento-da-busca--B9o3JbV6utAinBJ1ETujs)  
-* [Indexing](/pt/tutorial/indexacao--7J6tepFgD3wohCGEP2PqDB)  
-* [Detaching SKUs by specification](/pt/tutorial/separar-skus-por-especificacao--2q34xCKFuob941cOmz9Fx)  
-* [Filters](/pt/tutorial/filtros--k24mQQa9SjmhNWSwdqIMB)  
-* [Autocomplete](/pt/tutorial/autocomplete--6qhP0ZQ4JqUBdgFnbnxS4a)  
-* [Availability](/pt/tutorial/disponibilidade--3ZcZOzTSr2RdauUbn7qTa9)
+* [Search behavior](/en/tutorial/comportamento-da-busca--B9o3JbV6utAinBJ1ETujs)  
+* [Indexing](/en/tutorial/indexacao--7J6tepFgD3wohCGEP2PqDB)  
+* [Detaching SKUs by specification](/en/tutorial/separar-skus-por-especificacao--2q34xCKFuob941cOmz9Fx)  
+* [Filters](/en/tutorial/filtros--k24mQQa9SjmhNWSwdqIMB)  
+* [Autocomplete](/en/tutorial/autocomplete--6qhP0ZQ4JqUBdgFnbnxS4a)  
+* [Availability](/en/tutorial/disponibilidade--3ZcZOzTSr2RdauUbn7qTa9)

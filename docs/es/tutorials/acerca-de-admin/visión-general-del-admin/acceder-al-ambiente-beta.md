@@ -1,7 +1,7 @@
 ---
 title: 'Accede al entorno beta a través del dominio myvtex.com'
 id: 3BHM289568gcSwk2O80Asu
-status: CHANGED
+status: PUBLISHED
 createdAt: 2018-07-26T18:09:29.968Z
 updatedAt: 2024-03-13T12:00:57.622Z
 publishedAt: 2024-03-12T19:18:51.136Z

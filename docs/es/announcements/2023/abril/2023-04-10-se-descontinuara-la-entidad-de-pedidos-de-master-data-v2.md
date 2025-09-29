@@ -1,7 +1,7 @@
 ---
 title: 'Se descontinuará la entidad de pedidos de Master Data v2'
 id: 2A1FAUTdp2AgDNw9O2Y9za
-status: CHANGED
+status: PUBLISHED
 createdAt: 2023-04-10T14:41:54.108Z
 updatedAt: 2023-04-18T20:22:09.303Z
 publishedAt: 2023-04-11T12:53:40.163Z

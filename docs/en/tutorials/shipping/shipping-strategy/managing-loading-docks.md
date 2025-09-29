@@ -44,7 +44,7 @@ Here are the fields you need to fill to add a new loading dock:
 
 * **Name:** the name of the loading dock.
 * **ID:** the loading dock identifier. If this field is left blank, an ID will be created automatically.
-* **[Shipping Policies](/pt/tutorial/politica-de-envio--tutorials_140) and [Trade Policies:](/pt/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE)** select the shipping policy and the trade policy you want to associate with the loading dock. Please note that both policies must have been previously created.
+* **[Shipping Policies](/en/tutorial/politica-de-envio--tutorials_140) and [Trade Policies:](/en/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE)** select the shipping policy and the trade policy you want to associate with the loading dock. Please note that both policies must have been previously created.
 * **Time and Priority: **
     * **Processing time:** time that will be considered when calculating delivery time. It is the time it takes for the product to arrive at the loading dock. Fill in the number of days, hours, and minutes.
     * **Time overhead:** the time that will be used to choose a loading dock when two or more loading docks have the same processing time. It is not considered when calculating delivery time. Fill in the number of days, hours, and minutes.

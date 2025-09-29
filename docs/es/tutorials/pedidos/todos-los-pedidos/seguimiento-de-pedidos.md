@@ -22,6 +22,6 @@ La página [Todos los pedidos](/es/tutorial/todos-os-pedidos--2QTduKHAJMFIZ3BAsi
 Para hacer el seguimiento de un pedido, sigue los pasos a continuación:
 
 1. En el Admin VTEX, accede a **Pedidos > Todos los pedidos**, o escribe **Todos los pedidos** en la barra de búsqueda en la parte superior de la página.
-2. Busque el pedido utilizando la barra de búsqueda o los [Filtros](/pt/tutorial/como-filtrar-pedidos--tutorials_192).
-3. Selecciona el pedido deseado y acceda a la página de [detalles del pedido](/pt/tutorial/order-details-page-interface--2Y75n54Cc9VizrlG1N6ZNl).
+2. Busque el pedido utilizando la barra de búsqueda o los [Filtros](/es/tutorial/como-filtrar-pedidos--tutorials_192).
+3. Selecciona el pedido deseado y acceda a la página de [detalles del pedido](/es/tutorial/order-details-page-interface--2Y75n54Cc9VizrlG1N6ZNl).
 4. Haz clic en `Ver interacciones` y consulta cambios de status, pago e [integración con el ERP](https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide), entre otros eventos del pedido.

@@ -30,7 +30,7 @@ Para realizar la configuración inicial del Customer Credit, siga los pasos a co
 <br>
 <ul>
 <br>
-    	<li>**Habilitar emails transaccionales en el Centro de mensajes**: haga clic en **Habilitar** para instalar las plantillas de correo electrónico transaccional relacionadas con el Customer Credit en [Message Center](/pt/tutorial/conhecendo-o-message-center--tutorials_84).</li>
+    	<li>**Habilitar emails transaccionales en el Centro de mensajes**: haga clic en **Habilitar** para instalar las plantillas de correo electrónico transaccional relacionadas con el Customer Credit en [Message Center](/es/tutorial/conhecendo-o-message-center--tutorials_84).</li>
     	<li>**Configurar las condiciones de pago del checkout**: haga clic en **Configurar** para permitirle definir la fecha límite y las reglas de pago de la tienda.</li>
   	<li>**Afiliación no autenticada todavía**: haga clic en **Autenticar** para ser redirigido a la pantalla de configuración donde deberás completar la información **Application Key** y **Application Token**. Esta acción permitirá que los pagos realizados a través de Customer Credit se procesen en su tienda. Obtenga más información en [Autenticación](https://developers.vtex.com/docs/guides/authentication).</li>
 </ul>

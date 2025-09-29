@@ -43,5 +43,5 @@ Para crear un usuario con el rol de televentas, sigue los pasos a continuación:
 
 ![GIF animado que muestra cómo crear un usuario de televentas](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/gesti%C3%B3n-de-la-cuenta/usuarios/como-creo-un-usuario-de-televentas_1.gif)
 
-> ⚠️ Al crear un [perfil](/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#), evita incluir [recursos](/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3#) de televentas junto con otros recursos. De lo contrario, puede que el perfil no funcione de forma esperada.
+> ⚠️ Al crear un [perfil](/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#), evita incluir [recursos](/es/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3#) de televentas junto con otros recursos. De lo contrario, puede que el perfil no funcione de forma esperada.
 

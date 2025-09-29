@@ -1,7 +1,7 @@
 ---
 title: 'Cadastrar preço fixo'
 id: 3g39iXkQza4AW7C7L814mj
-status: CHANGED
+status: PUBLISHED
 createdAt: 2019-07-04T13:53:38.630Z
 updatedAt: 2025-05-01T16:09:41.194Z
 publishedAt: 2024-08-20T13:48:57.885Z

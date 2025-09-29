@@ -23,11 +23,11 @@ To request a trade policy for a sales channel outside the VTEX ecosystem, such a
 
 ## Requesting a trade policy 
 
-To request an additional trade policy for operating in the international market, contact our Growth Operations team through *[Support](/en/support)* by selecting **Commercial** and `New trade policy`.
+To request an additional trade policy for operating in the international market, contact our Growth Operations team through *[Support](https://help.vtex.com/en/support)* by selecting **Commercial** and `New trade policy`.
 
 ## Billing rules
 
-Each VTEX customer has a defined amount in their contract for purchasing additional commercial policies, which incur a fee. Please note that each VTEX account already has a [native commercial policy](/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV), which does not fall under these billing rules.  
+Each VTEX customer has a defined amount in their contract for purchasing additional commercial policies, which incur a fee. Please note that each VTEX account already has a [native commercial policy](/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV), which does not fall under these billing rules.  
 
 A monthly fee is charged for each additional trade policy, whether used for integration with certified, partner, external, or VTEX marketplaces.
 

@@ -1,7 +1,7 @@
 ---
 title: 'Changes to Via Varejo product integration'
 id: 4iWQ1Kr44tw68pQ7yyL2bu
-status: CHANGED
+status: PUBLISHED
 createdAt: 2020-04-06T23:53:19.365Z
 updatedAt: 2020-11-27T19:39:53.236Z
 publishedAt: 2020-06-18T22:56:50.823Z

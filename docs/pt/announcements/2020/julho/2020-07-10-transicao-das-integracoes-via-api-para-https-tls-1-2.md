@@ -1,7 +1,7 @@
 ---
 title: 'Transição das integrações via API para HTTPS / TLS 1.2'
 id: 50H4bHnV1uk2GCY3CaJBXo
-status: CHANGED
+status: PUBLISHED
 createdAt: 2020-07-10T20:32:32.971Z
 updatedAt: 2021-11-17T17:58:32.348Z
 publishedAt: 2020-07-21T19:14:32.690Z
@@ -49,7 +49,7 @@ Para obter mais informações sobre o HTTPS, veja por que o [HTTPS é importante
 
 As equipes responsáveis por seu stack tecnológico e suas integrações devem verificar se todos os softwares que se comunicam com a VTEX usando nossas APIs estão usando o HTTPS e o TLS 1.2. 
 
-Qualquer software externo que esteja se comunicando com os servidores da VTEX sem usar o HTTPS e o TLS 1.2 deve ser ajustado para estar em conformidade com esses padrões.  
+Qualquer software que esteja se comunicando com os servidores da VTEX sem usar o HTTPS e o TLS 1.2 deve ser ajustado para estar em conformidade com esses padrões.  
 
 <table>
   <tr>

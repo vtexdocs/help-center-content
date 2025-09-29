@@ -29,7 +29,7 @@ The Seller Portal Catalogue architecture is based on fundamental concepts distri
 - **Shared products:** products that are shared between your catalog and the marketplace. You do not need to add these products; you can simply set their price and inventory in the Shared Products module. The Shared Products dashboard automatically informs you of any product that the marketplace has made available to your store as a seller. Learn more on [how to manage shared products](/en/tutorial/seller-portal-produtos-compartilhados--6vUGj2UmOuLzQTK9pj04lu).     
 - **Specifications:** additional properties that can be applied to your store's products. Product specifications are usually used to create filters for the marketplace or display additional information on the product page.  
 - **Variations:** characteristics that define a specific product type and distinguish it from  other options available in your store (items already available in your inventory).   
-- **Offers:**  seller products or variations, with their own price conditions and inventory that are sent to the marketplace. More info on [Offers](/pt/tutorial/anuncios-y-envio-de-productos-al-marketplace--3RwSj7AyBoPtFbXkS7REiu).   
+- **Offers:**  seller products or variations, with their own price conditions and inventory that are sent to the marketplace. More info on [Offers](/en/tutorial/anuncios-y-envio-de-productos-al-marketplace--3RwSj7AyBoPtFbXkS7REiu).   
 
 ## Examples of category, products and variations
 

@@ -1,7 +1,7 @@
 ---
 title: 'Nueva interfaz de gestión de proveedores de pago y antifraude'
 id: Qx6SkUJqM8DwoZajvAP0k
-status: CHANGED
+status: PUBLISHED
 createdAt: 2023-12-22T09:09:05.292Z
 updatedAt: 2024-12-19T12:31:41.321Z
 publishedAt: 2024-01-22T20:43:27.828Z

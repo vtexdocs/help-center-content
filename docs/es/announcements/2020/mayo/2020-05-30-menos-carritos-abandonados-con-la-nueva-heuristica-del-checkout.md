@@ -1,7 +1,7 @@
 ---
 title: 'Menos carritos abandonados con la nueva heurística del Checkout'
 id: 3XLEhUnRe3jjzUGLbDEZJz
-status: CHANGED
+status: PUBLISHED
 createdAt: 2020-05-30T13:08:43.104Z
 updatedAt: 2020-11-27T19:40:17.125Z
 publishedAt: 2020-06-02T18:09:53.394Z

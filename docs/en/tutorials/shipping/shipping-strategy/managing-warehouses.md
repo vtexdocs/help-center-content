@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 7fTH6bP0C4IaM8qWi0kkQC
 ---
 
-Warehouses are physical storage facilities for the ecommerce business. On the VTEX platform, you can add items to the warehouses you have configured in your store. Then you will be able to track items, their availability and manage their shipping through [loading docks](/en/tutorial/gerenciar-doca--7K3FultD8I2cuuA6iyGEiW) and [shipping policies](/pt/tutorial/politica-de-envio--tutorials_140). 
+Warehouses are physical storage facilities for the ecommerce business. On the VTEX platform, you can add items to the warehouses you have configured in your store. Then you will be able to track items, their availability and manage their shipping through [loading docks](/en/tutorial/gerenciar-doca--7K3FultD8I2cuuA6iyGEiW) and [shipping policies](/en/tutorial/politica-de-envio--tutorials_140). 
 
 > ℹ️ To better understand how the VTEX platform interprets and defines warehouse operations, check out our article [Warehouse](/en/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb).
 
@@ -28,7 +28,7 @@ This article describes how to:
 * [Edit a warehouse](/en/tutorial/managing-warehouses--tutorials_137#editing-a-warehouse).  
 * [Delete a warehouse](/en/tutorial/managing-warehouses--tutorials_137#editing-a-warehouse).
 
-> ⚠️ For the logistics system to work as expected, we suggest that you configure it in the following order: <body> <ol> <li>[Shipping policy](/en/tutorial/politica-de-envio--tutorials_140)</li> <li>[Loading dock](/pt/tutorial/gerenciar-doca--7K3FultD8I2cuuA6iyGEiW)</li> <li>[Warehouse](/en/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb)</li> </ol> </body>
+> ⚠️ For the logistics system to work as expected, we suggest that you configure it in the following order: <body> <ol> <li>[Shipping policy](/en/tutorial/politica-de-envio--tutorials_140)</li> <li>[Loading dock](/en/tutorial/gerenciar-doca--7K3FultD8I2cuuA6iyGEiW)</li> <li>[Warehouse](/en/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb)</li> </ol> </body>
 
 ## Adding a warehouse
 

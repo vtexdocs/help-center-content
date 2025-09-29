@@ -69,7 +69,7 @@ Para crear un campo de producto, sigue los pasos a continuación:
     * **Texto**: descripción del campo.
     * **Tipo**: tipo de campo, el cual puede variar entre **Texto**, **Texto grande**, **Número**, **Combo**, **Radio**, **Checkbox**, **Texto indexado** y **Texto grande indexado**. Consulta la sección [Tipos de campo de producto](#tipos-de-campo-de-producto) para obtener más información sobre cada opción.
     * **Valor predeterminado**: valor de llenado ya definido en la creación del campo.
-    * **Grupo**: nombre del [grupo de especificaciones](/pt/tutorial/criando-grupo-de-categoria) creado previamente y del cual formará parte ese campo.
+    * **Grupo**: nombre del [grupo de especificaciones](/es/tutorial/criando-grupo-de-categoria) creado previamente y del cual formará parte ese campo.
     * **Filtro**: define si la especificación se usará como filtro en la navegación del sitio web.
     * **Obligatorio**: define si el valor se debe completar obligatoriamente en el registro del producto o no. Si el campo es obligatorio, el producto solo podrá activarse luego de rellenar la información de esta especificación.
     * **Muestra especificación**: define si el campo se muestra en la página de detalles del producto, en la pestaña **Especificaciones**.

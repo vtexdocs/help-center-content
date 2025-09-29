@@ -29,5 +29,5 @@ La nueva [página de detalles de la cuenta](/es/tutorial/pagina-de-detalhes-da-c
 
 Para saber cómo acceder y utilizar esta nueva página, consulta la documentación [página de detalles de la cuenta](/es/tutorial/pagina-de-detalhes-da-conta--2vhUVOKfCaswqLguT2F9xq).
 
-Si necesitas acceder a la información y las acciones que antes estaban disponibles en la sección **Seguridad** de la página de detalles de la cuenta, ve a la página [claves de aplicación](/en/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet).
+Si necesitas acceder a la información y las acciones que antes estaban disponibles en la sección **Seguridad** de la página de detalles de la cuenta, ve a la página [claves de aplicación](/es/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet).
 

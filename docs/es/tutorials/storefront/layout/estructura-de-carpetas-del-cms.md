@@ -53,7 +53,7 @@ Estas son:
 
 Para estas dos carpetas, lo que importa es el control o placeholder que lee su contenido. Sus nombres se pueden editar libremente.
 
-> ⚠️ > Como son carpetas privadas, `/account` y `/account/orders` **deben requerir autenticación**. Ver [en este artículo](http://help.vtex.com/es/tutorial/exigir-autenticacion-en-paginas-de-la-tienda) cómo asegurarse de que están configuradas para solicitar autenticación del usuario.
+> ⚠️ > Como son carpetas privadas, `/account` y `/account/orders` **deben requerir autenticación**. Ver [en este artículo](/es/tutorial/exigir-autenticacion-en-paginas-de-la-tienda) cómo asegurarse de que están configuradas para solicitar autenticación del usuario.
 
 ## Carpetas útiles
 

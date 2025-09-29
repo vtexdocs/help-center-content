@@ -15,7 +15,7 @@ trackSlugEN: suporte-na-vtex
 order: 2
 ---
 
-O Suporte VTEX é prestado de forma online e permite a abertura de tickets com diferentes níveis de prioridade, dependendo da região da operação da loja. A abertura de tickets ocorre na [página de suporte](/pt/support) e requer [autenticação da conta do usuário](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4EPwTXx5oFdSG1dA3zIchz#autenticacao-para-plataforma-e-frente%20de%20loja). Existem três métodos de autenticação disponíveis:
+O Suporte VTEX é prestado de forma online e permite a abertura de tickets com diferentes níveis de prioridade, dependendo da região da operação da loja. A abertura de tickets ocorre na [página de suporte](https://help.vtex.com/pt/support) e requer [autenticação da conta do usuário](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4EPwTXx5oFdSG1dA3zIchz#autenticacao-para-plataforma-e-frente%20de%20loja). Existem três métodos de autenticação disponíveis:
 
 - Token recebido por email registrado na loja.
 - Login usando a conta do Google.
@@ -37,6 +37,6 @@ A tabela a seguir apresenta uma visão geral dos principais artigos do Help Cent
 | -------------- | ------------------------- |
 | Global         | **Artigo:** [Como funciona o suporte da VTEX?](/pt/faq/como-funciona-o-suporte-da-vtex--3kACEfni4m8Yxa1vnf2ebe)<br><br>Apresenta como funciona o suporte em nível global, abordando tickets, planos regionais, pesquisa de satisfação e serviços, como monitoramento e recursos como [Help Center](https://newhelp.vtex.com/), [Developer Portal](https://developers.vtex.com/) e comunicados de atualizações na plataforma. |
 | Somente Brasil | **Artigo:** [Suporte VTEX - Brasil](/pt/faq/suporte-vtex-brasil--5q861sTw1n7H2BENOu7ls9)<br><br>Apresenta a disponibilidade, SLA e recursos disponíveis para clientes no Brasil. |
-| Somente Estados Unidos  | **Artigo:** [Suporte VTEX - Estados Unidos](/en/faq/vtex-support-united-states--Bm45YFp68QRe1Z5r2oa07)<br><br>Apresenta a disponibilidade, SLA e recursos disponíveis para clientes nos Estados Unidos. Disponível somente em inglês. |
-| Somente Europa, Oriente Médio e África (EMEA) | **Artigo:** [Suporte VTEX - EMEA](/en/faq/suporte-vtex-emea--5ePu2qkCfmE0IEKDFKg53F)<br><br>Apresenta a disponibilidade, SLA e recursos disponíveis para clientes da região EMEA. Disponível somente em inglês. |
+| Somente Estados Unidos  | **Artigo:** [Suporte VTEX - Estados Unidos](/pt/faq/vtex-support-united-states--Bm45YFp68QRe1Z5r2oa07)<br><br>Apresenta a disponibilidade, SLA e recursos disponíveis para clientes nos Estados Unidos. Disponível somente em inglês. |
+| Somente Europa, Oriente Médio e África (EMEA) | **Artigo:** [Suporte VTEX - EMEA](/pt/faq/suporte-vtex-emea--5ePu2qkCfmE0IEKDFKg53F)<br><br>Apresenta a disponibilidade, SLA e recursos disponíveis para clientes da região EMEA. Disponível somente em inglês. |
 

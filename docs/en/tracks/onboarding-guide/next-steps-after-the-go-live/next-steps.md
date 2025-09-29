@@ -23,5 +23,5 @@ Now that the store is configured in the VTEX environment and has [gone live](/en
 
 In our documentation portals, you can learn about the latest news and updates on VTEX solutions:
 
-- **Help Center:** [Updates](/pt/announcements) dedicated to the store's operational public.
+- **Help Center:** [Updates](/en/announcements) dedicated to the store's operational public.
 - **Developer Portal:** [Release notes](https://developers.vtex.com/updates/release-notes) aimed at VTEX environment developers.

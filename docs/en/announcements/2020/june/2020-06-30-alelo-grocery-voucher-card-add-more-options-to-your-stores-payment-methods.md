@@ -1,7 +1,7 @@
 ---
 title: 'Alelo grocery voucher card: add more options to your store’s payment methods'
 id: 6Zzv982QHlBUwJW1gVnEyW
-status: CHANGED
+status: PUBLISHED
 createdAt: 2020-06-30T14:18:03.222Z
 updatedAt: 2020-11-27T19:40:00.156Z
 publishedAt: 2020-07-20T20:38:10.522Z
