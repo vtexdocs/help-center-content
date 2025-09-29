@@ -1,11 +1,8 @@
 name: Index changed docs to Algolia
 
 on:
-  push:
-    branches: [ main ]
-    paths:
-      - 'docs/**/*.md'
   pull_request:
+    types: [closed]
     paths:
       - 'docs/**/*.md'
   workflow_dispatch:
@@ -17,6 +14,8 @@ on:
 
 jobs:
   index-docs:
+    # Run only for merged PRs or manual dispatch
+    if: ${{ github.event_name == 'workflow_dispatch' || (github.event_name == 'pull_request' && github.event.action == 'closed' && github.event.pull_request.merged == true) }}
     name: Index changed markdown files
     runs-on: ubuntu-latest
     timeout-minutes: 30
@@ -47,25 +46,49 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '20'
-          cache: 'npm'
-          cache-dependency-path: algolia-index-analyzer/package-lock.json
+      - name: Set analyzer directory (supports act bind-mount)
+        run: |
+          if [ "${ACT:-}" = "true" ]; then
+            echo "ANALYZER_DIR=/home/runner/algolia-index-analyzer" >> "$GITHUB_ENV"
+          else
+            echo "ANALYZER_DIR=algolia-index-analyzer" >> "$GITHUB_ENV"
+          fi
 
-      - name: Checkout analyzer repo (design/cli-indexer-proposal)
+
+      - name: Checkout analyzer repo (default token)
+        if: ${{ env.ACT != 'true' && (secrets.ANALYZER_REPO_TOKEN == '' || secrets.ANALYZER_REPO_TOKEN == null) }}
         uses: actions/checkout@v4
         with:
           repository: ${{ env.ANALYZER_REPO_SLUG }}
           ref: ${{ env.ANALYZER_REF }}
-          path: algolia-index-analyzer
-          # If the analyzer repo is private, provide a PAT via secrets.ANALYZER_REPO_TOKEN
+          path: ${{ env.ANALYZER_DIR }}
+
+      - name: Checkout analyzer repo (PAT)
+        if: ${{ env.ACT != 'true' && secrets.ANALYZER_REPO_TOKEN != '' }}
+        uses: actions/checkout@v4
+        with:
+          repository: ${{ env.ANALYZER_REPO_SLUG }}
+          ref: ${{ env.ANALYZER_REF }}
+          path: ${{ env.ANALYZER_DIR }}
           token: ${{ secrets.ANALYZER_REPO_TOKEN }}
+
+      - name: Setup Node.js (act)
+        if: ${{ env.ACT == 'true' }}
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Setup Node.js (CI)
+        if: ${{ env.ACT != 'true' }}
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+          cache-dependency-path: ${{ env.ANALYZER_DIR }}/package-lock.json
 
       - name: Install analyzer dependencies
         run: npm ci --no-audit --no-fund
-        working-directory: algolia-index-analyzer
+        working-directory: ${{ env.ANALYZER_DIR }}
 
 
       - name: Ensure jq is installed
@@ -91,18 +114,28 @@ jobs:
         run: |
           set -euo pipefail
           if [ "${{ github.event_name }}" = "pull_request" ]; then
-            BASE_REF="${{ github.event.pull_request.base.ref }}"
-            git fetch --no-tags --prune origin "$BASE_REF" --depth=1
-            BASE="origin/$BASE_REF"
-            HEAD="HEAD"
-          else
-            BASE="${{ github.event.before }}"
-            HEAD="HEAD"
-            if [ -z "$BASE" ]; then
-              BASE_REF="main"
-              git fetch --no-tags --prune origin "$BASE_REF" --depth=1
-              BASE="origin/$BASE_REF"
+            BASE_SHA="${{ github.event.pull_request.base.sha }}"
+            MERGE_SHA="${{ github.event.pull_request.merge_commit_sha }}"
+            # Fetch specific commits (fallback to base ref)
+            git fetch --no-tags --prune origin "$BASE_SHA" || git fetch --no-tags --prune origin "${{ github.event.pull_request.base.ref }}" --depth=100
+            if [ -n "$MERGE_SHA" ]; then
+              git fetch --no-tags --prune origin "$MERGE_SHA" || git fetch --no-tags --prune origin "${{ github.event.pull_request.base.ref }}" --depth=100
+              BASE="$BASE_SHA"
+              HEAD="$MERGE_SHA"
+            else
+              # Fallback: diff base SHA vs latest base ref
+              git fetch --no-tags --prune origin "${{ github.event.pull_request.base.ref }}" --depth=1
+              BASE="$BASE_SHA"
+              HEAD="origin/${{ github.event.pull_request.base.ref }}"
             fi
+          else
+            # Manual run without specific file input: diff last commit against origin/main
+            BASE="$(git rev-parse HEAD~1 2>/dev/null || echo '')"
+            if [ -z "$BASE" ]; then
+              git fetch --no-tags --prune origin main --depth=2
+              BASE="$(git rev-parse origin/main)"
+            fi
+            HEAD="$(git rev-parse HEAD)"
           fi
           CHANGED=$(git --no-pager diff --name-status "$BASE" "$HEAD" -- 'docs/**/*.md' | awk '$1 != "D" {print $NF}' | jq -R -s -c 'split("\n")|map(select(length>0))')
           echo "files=$CHANGED" >> "$GITHUB_OUTPUT"
@@ -137,4 +170,4 @@ jobs:
               --repo "${REPO}" \
               --json
           done
-        working-directory: algolia-index-analyzer
+        working-directory: ${{ env.ANALYZER_DIR }}
