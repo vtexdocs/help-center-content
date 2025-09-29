@@ -57,9 +57,7 @@ To simplify each method's explanation, we will consider that the rounding applie
 
 - *Rule of Zero*: the second digit, from right to left, will be __replaced with 0__ and the first digit will also be __replaced with 0__. Let's use a price of *U$ 100,25* as example. The system will consider the two closest values which end in *"00"*, which in our case are *200,00* and *100,00*. Since the difference between 100,25 and 100,00 is __smaller__ than that between 100,25 and 200,00, __the price will be rounded to 100,00__.
 
-<div class=“alert alert-info”>
-If the difference between the original price and the higher value is equal to that between the original price and the lower value, **the value will be rounded up**.
-</div>
+> ℹ️ If the difference between the original price and the higher value is equal to that between the original price and the lower value, **the value will be rounded up**.
 
 ## Example
 

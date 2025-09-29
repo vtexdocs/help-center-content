@@ -39,7 +39,5 @@ Once you have configured your VTEX store and your Amazon account, you must confi
 
 - **Notify by email if an error occurs in an order:** enter the email address of the responsible technician. If any error occurs when integrating an order, a message will be sent to this email address.
 
-<div class="alert-info">
-If the configuration is successful, the integrated SKU will be displayed in VTEX Admin with the letter "p" at the end of its code. Example: SKU 13737p.
-The letter "p" identifies the sending of a product. As the SKU will only integrated if your product is also integrated. This is expected behavior in the Amazon integration process.
-</div>
+> ℹ️ If the configuration is successful, the integrated SKU will be displayed in VTEX Admin with the letter "p" at the end of its code. Example: SKU 13737p. The letter "p" identifies the sending of a product. As the SKU will only integrated if your product is also integrated. This is expected behavior in the Amazon integration process.
+

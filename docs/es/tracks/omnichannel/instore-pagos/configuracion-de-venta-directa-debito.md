@@ -24,6 +24,5 @@ Si desea recibir sus pagos con tarjeta de débito en VTEX Sales App, siga los si
 5. Opcionalmente, puede establecer condiciones especiales de pago haciendo clic en `+ Condición Especial`. Lea el artículo [Configurar condiciones especiales de pago](/es/tutorial/condicoes-especiais--tutorials_456) para obtener más información.
 6. Haga clic en `Guardar`.
 
-<div class="alert-info">
-Además de los ajustes anteriores, debes seguir la guía **[Definir los métodos de pago mostrados en VTEX Sales App](/es/tracks/instore-pagamentos--43B4Nr7uZva5UdwWEt3PEy/jHQQcyX3WKeUFidwSjmY1)** para que las opciones de pago se muestren correctamente en la app.
-</div>
+> ℹ️ Además de los ajustes anteriores, debes seguir la guía **[Definir los métodos de pago mostrados en VTEX Sales App](/es/tracks/instore-pagamentos--43B4Nr7uZva5UdwWEt3PEy/jHQQcyX3WKeUFidwSjmY1)** para que las opciones de pago se muestren correctamente en la app.
+

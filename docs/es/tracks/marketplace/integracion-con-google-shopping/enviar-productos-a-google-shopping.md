@@ -101,9 +101,7 @@ Después de crear el nuevo campo de especificación, el siguiente paso es asocia
 4. Llena el campo `googleshopping-labels` con los valores deseados, separándolos con punto y coma `;`.  
 5. Haz clic en `Guardar`.  
 
-<div class=”alert alert-warning”>
-Cada oferta puede tener un máximo de cinco etiquetas asociadas. 
-</div>  
+> ⚠️ Cada oferta puede tener un máximo de cinco etiquetas asociadas.  
 
 ## Modificar la categorización automática
 

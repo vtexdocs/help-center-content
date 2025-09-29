@@ -57,9 +57,7 @@ Con el objetivo de simplificar la explicación, vamos a considerar que la regla 
 
 - *Regla del Cero*: el segundo dígito, de derecha a izquierda, será __sustituido por cero__ y el primero también será __sustituido por cero__.  Vamos a utilizar como ejemplo un precio de *€ 100.25*. El sistema considerará los dos valores más cercanos a este precio que tengan *“00”* como los dos primeros dígitos, en este caso, *100.00* y *200.00*. Como la diferencia entre 100.25 y 100.00 es __menor__ que la diferencia entre 100.25 y 200.00, __ el precio se redondeará a 100.00__.
 
-<div class=“alert alert-info”>
-Si la diferencia del precio original para el valor superior y para el valor inferior es la misma, el **redondeo se hará para arriba**.
-</div>
+> ℹ️ Si la diferencia del precio original para el valor superior y para el valor inferior es la misma, el **redondeo se hará para arriba**.
 
 ## Ejemplo
 

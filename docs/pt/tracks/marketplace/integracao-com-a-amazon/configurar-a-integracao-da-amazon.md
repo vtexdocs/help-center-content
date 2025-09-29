@@ -38,7 +38,5 @@ Uma vez terminadas as etapas de preparo da sua loja na VTEX e na Amazon, é nece
 
 - **Notificar por e-mail se ocorrer um erro em um pedido:** preencher com o e-mail do responsável técnico. Caso ocorra algum erro na integração do pedido, será enviada uma mensagem para o e-mail cadastrado.
 
-<div class="alert-info">
-Se a configuração for bem-sucedida, o código do SKU integrado aparecerá no Admin da VTEX com a letra “p” no final, por padrão da Amazon. Exemplo: SKU 13737p.
-Isso ocorre porque a letra “p” funciona como o identificador do envio de um produto. O SKU só é integrado se o produto também for. Este é um comportamento esperado no processo de integração com a Amazon.
-</div>
+> ℹ️ Se a configuração for bem-sucedida, o código do SKU integrado aparecerá no Admin da VTEX com a letra “p” no final, por padrão da Amazon. Exemplo: SKU 13737p.
+> Isso ocorre porque a letra “p” funciona como o identificador do envio de um produto. O SKU só é integrado se o produto também for. Este é um comportamento esperado no processo de integração com a Amazon.

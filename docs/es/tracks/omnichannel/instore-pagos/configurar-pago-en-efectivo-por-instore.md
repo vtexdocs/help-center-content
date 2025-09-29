@@ -1,5 +1,5 @@
 ---
-title: 'Configurar pago en efectivo por VTEX Sales App'
+title: "Configurar pago en efectivo por VTEX Sales App"
 id: 4ye3bIWldaHJxGTgAziBZo
 status: PUBLISHED
 createdAt: 2020-06-28T16:04:36.122Z
@@ -24,7 +24,7 @@ Antes de configurar la visualización del pago en efectivo en VTEX Sales App, ti
 1. En el Admin VTEX, accede a **Configuración de la tienda** > **Pago** > **Configuración**, o escribe **Configuración** en la barra de búsqueda en la parte superior de la página.
 2. Haz clic en la pestaña **Pagos personalizados**.
 3. En la sección de **Pagarés**, haz clic en cualquiera de los recuadros que contienen <i class="fas fa-cog"></i> `Configurar`.
-4. En el campo **Nombre**, ingresa un nombre para este pago personalizado. Por ejemplo,  "Efectivo".
+4. En el campo **Nombre**, ingresa un nombre para este pago personalizado. Por ejemplo, "Efectivo".
 5. En el campo **Autorizar automáticamente, **selecciona **Yes**. No es necesario rellenar ni modificar los demás campos.
 6. Haz clic en `Salvar` (Guardar).
 
@@ -37,10 +37,8 @@ Ahora vamos a crear la condición de pago.
 
 ![es-add-payment-condition](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/omnichannel/instore-pagos/configurar-pago-en-efectivo-por-instore_1.png)
 
-3. En la sección __Pagos Personalizados__, haz clic en la opción __Efectivo__ que ha creado.
-4. Introduce un nombre para esta condición de pago, cambia el status a __Activo__, y en el campo __Procesar con la afiliación__, selecciona el pago personalizado que creaste en el paso anterior.
+3. En la sección **Pagos Personalizados**, haz clic en la opción **Efectivo** que ha creado.
+4. Introduce un nombre para esta condición de pago, cambia el status a **Activo**, y en el campo **Procesar con la afiliación**, selecciona el pago personalizado que creaste en el paso anterior.
 5. Haga clic en `Guardar`.
 
-<div class="alert-info">
-Además de los ajustes anteriores, debes seguir la guía **[Definir los métodos de pago mostrados en VTEX Sales App](/es/tracks/instore-pagamentos--43B4Nr7uZva5UdwWEt3PEy/jHQQcyX3WKeUFidwSjmY1)** para que las opciones de pago se muestren correctamente en la app.
-</div>
+> ℹ️ Además de los ajustes anteriores, debes seguir la guía **[Definir los métodos de pago mostrados en VTEX Sales App](/es/tracks/instore-pagamentos--43B4Nr7uZva5UdwWEt3PEy/jHQQcyX3WKeUFidwSjmY1)** para que las opciones de pago se muestren correctamente en la app.

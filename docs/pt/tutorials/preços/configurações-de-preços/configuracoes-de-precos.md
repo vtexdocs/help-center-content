@@ -29,9 +29,7 @@ Veja as configurações disponíveis a seguir:
   - **Sempre:** a conta sempre vai herdar todos os preços da conta-pai.
   - **Apenas para preços inexistentes:** os preços da conta-pai serão herdados apenas se forem inexistentes na conta atual.
 
-  <div class = "alet alert-info">
-    A configuração **Herdar preços da conta-pai** é disponível apenas para contas-filhas. A definição da conta-pai ocorre durante a criação da conta-filha. Verificar se a conta-pai associada está correta evita problemas relacionados a preços ou à disponibilidade de estoque.
-  </div>
+  > ℹ️ A configuração **Herdar preços da conta-pai** é disponível apenas para contas-filhas. A definição da conta-pai ocorre durante a criação da conta-filha. Verificar se a conta-pai associada está correta evita problemas relacionados a preços ou à disponibilidade de estoque.
 
 - **Sobrescrever preços de sellers:** permite sobrescrever todos os preços de sellers com os da conta atual.
 

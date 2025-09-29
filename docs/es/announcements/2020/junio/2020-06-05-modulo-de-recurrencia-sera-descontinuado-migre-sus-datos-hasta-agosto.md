@@ -15,9 +15,9 @@ announcementImageID: 'undefined'
 announcementSynopsisES: 'Tiendas que todavía utilizan el módulo de Recurrencia deben migrar para Suscripciones hasta el 03 de agosto de 2020'
 ---
 
-<div class="alet alert-info">
-La descontinuación solo afectará a las tiendas que aún tienen el módulo de Recurrencia. Para las tiendas que ya están usando el módulo de Suscripciones, o que no tenían esta funcionalidad, nada cambiará. 
-</div>
+
+> ℹ️ La descontinuación solo afectará a las tiendas que aún tienen el módulo de Recurrencia. Para las tiendas que ya están usando el módulo de Suscripciones, o que no tenían esta funcionalidad, nada cambiará.
+
 
 El módulo de *Recurrencia* es una versión anterior del actual módulo de *Suscripciones*. Esta versión será descontinuada, y todas las tiendas que aún la utilicen deberán migrar al módulo de *Suscripciones* hasta el **03 de agosto de 2020**. 
 

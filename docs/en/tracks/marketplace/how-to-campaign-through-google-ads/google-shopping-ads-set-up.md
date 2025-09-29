@@ -80,8 +80,6 @@ This option will allow VTEX Shopping Ads to create a new Google Ads account. Whe
 
 In both cases, after selecting whichever option best addresses your business needs, VTEX Shopping Ads will redirect you to a *loading* page to finalize the setup. 
 
-<div class=”alert alert-danger”>
-You should not leave the *loading* page until fully completing the setup. Otherwise, the integration will not be done.
-</div>
+> ❗️ You should not leave the *loading* page until fully completing the setup. Otherwise, the integration will not be done.
 
 *__Done!__ After VTEX Shopping Ads finishes loading, you can start using it to create a campaign. Check out the next step for more details!*

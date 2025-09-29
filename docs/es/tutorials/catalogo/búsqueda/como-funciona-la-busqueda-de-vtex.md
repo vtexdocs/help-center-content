@@ -105,7 +105,7 @@ Considerando el siguiente indexador:
 | Pelota       | Society       | sozaite, sossaite       | Pelota de fútbol       |
 | Zapatillas de fútbol       | Campo       | Sapatillas de fútbol, Zapatillas de football       | Blanca       |
 
-<div class=alert>Término buscado 1: **Pelota de fútbol**</div>
+> ℹ️ Término buscado 1: **Pelota de fútbol**
 
 Resultado:
 1. **Pelota de fútbol** (Mejor puntuado, pues el término corresponde exactamente al nombre del producto)

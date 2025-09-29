@@ -161,9 +161,7 @@ La solución permite utilizar los siguientes [medios de pago](/es/tutorial/difer
 
 Para finalizar una venta en **VTEX Sales App** con un medio de pago de tu tienda de ecommerce que no aparece en la lista anterior, los vendedores pueden usar el [carrito compartido (social selling)](/es/tracks/instore-usando-o-app--4BYzQIwyOHvnmnCYQgLzdr/6deiffo22iKkY27PkfstXy) y enviar el link de pago a los clientes. En estos casos, el pedido se procesa en el checkout de la tienda de ecommerce, no en el de **VTEX Sales App**, lo que permite que la tienda física utilice todos los medios de pago configurados en la tienda online.
 
-<div class = "alert alert-alert">
-VTEX Sales App no admite pagos en efectivo realizados en la caja de la tienda física. Para saber más, consulta [VTEX Sales App - Pagos](/es/tracks/instore-pagamentos--43B4Nr7uZva5UdwWEt3PEy/2liigRors32hzqBNs2M1Oa).
-</div>
+> ℹ️ VTEX Sales App no admite pagos en efectivo realizados en la caja de la tienda física. Para saber más, consulta [VTEX Sales App - Pagos](/es/tracks/instore-pagamentos--43B4Nr7uZva5UdwWEt3PEy/2liigRors32hzqBNs2M1Oa).
 
 ### 15. ¿Qué conectores de pago actúan como adquirentes para compras con tarjetas en VTEX Sales App?
 

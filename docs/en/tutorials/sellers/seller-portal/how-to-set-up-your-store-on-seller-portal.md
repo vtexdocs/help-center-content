@@ -53,7 +53,7 @@ Here are some details about the Seller Portal:
 
 ## Setting up your store
 
-> ⚠️ The limit for each Seller Portal account is 100 thousand products. For more information, please contact our <a href="https://support.vtex.com/hc/pt-br/requests">Support.
+> ⚠️ The limit for each Seller Portal account is 100 thousand products. For more information, please contact our [Support](https://support.vtex.com/hc/pt-br/requests).
 
 To start selling your products on the marketplace, you need to configure your store on the Seller Portal. This article explains the complete flow of this initial setup and indicates other documentation for you to access each step in more detail. The basic configuration of the Seller Portal includes the steps listed below.
 

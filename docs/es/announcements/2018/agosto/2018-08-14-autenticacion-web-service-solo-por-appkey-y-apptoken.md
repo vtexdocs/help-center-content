@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisES: 'A partir del 20/08, el lunes, el cambio se hará para garantizar más seguridad en las integraciones Web Service.'
 ---
 
-<div class="alert-danger" role="alert">Ya no recomendamos utilizar el Web Service para nuevas integraciones.</div>
+> ❗️ Ya no recomendamos utilizar el Web Service para nuevas integraciones.
 
 A partir del __20 de agosto, el lunes__, sólo será posible hacer la autenticación en el Web Service a través de appKey y appToken. Este cambio garantizará un mayor nivel de seguridad para las integraciones Web Service de su tienda.
 

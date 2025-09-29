@@ -36,9 +36,7 @@ To configure Mundipagg Fraud Prevention, follow the steps below:
 13. In __Use Anti-fraud__, state whether you've hired the anti-fraud functionality from Mundipagg.
 14. Click __Save__.
 
-<div class "alert alert-info">
-The steps **8**, **9**, **11** and **12** must be completed if you want to offer bank slip as a payment condition in your store.
-</div>
+> ℹ️ The steps **8**, **9**, **11** and **12** must be completed if you want to offer bank slip as a payment condition in your store.
 
 ## Setting up the payment condition
 After following the steps indicated above, Mundipagg Fraud Prevention will be configured in your store. Thus, while you're registering a payment condition, it will be available in the __Process with affiliation__ field (provided the payment method is compatible with Mundipagg Fraud Prevention). To learn how to set up payment conditions, visit [this Help article](/en/tutorial/how-to-configure-payment-conditions).

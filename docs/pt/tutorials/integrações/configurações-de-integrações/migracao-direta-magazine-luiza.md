@@ -34,26 +34,20 @@ Veja abaixo quais são os passos a serem seguidos nesta etapa:
 3. Realizar o mapeamento dos [produtos e SKUs](/pt/tutorial/qual-a-diferenca-entre-produto-e-sku--5yhABFDOpyiUcicce2W4CM) no seu catálogo VTEX.  
 Para realizar o mapeamento acesse no Admin VTEX **Catálogo > Todos os produtos.**  
 
-<div class=”alert alert-danger”>
-O código de referência do SKU na VTEX deve ser igual ao ID do SKU no Magazine Luiza e o código de referência do produto na VTEX também deve ser igual ao ID do produto no Magazine Luiza.  Sem esse mapeamento de equivalência, a migração não funcionará.
-</div>
+> ❗️ O código de referência do SKU na VTEX deve ser igual ao ID do SKU no Magazine Luiza e o código de referência do produto na VTEX também deve ser igual ao ID do produto no Magazine Luiza. Sem esse mapeamento de equivalência, a migração não funcionará.
 
 4. [Criar uma política comercial](/pt/tutorial/criar-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE) para utilizar na integração com o Magazine Luiza. Essa política não deve ter produtos associados.  
 5. Ativar o conector do Magazine Luiza conforme a [documentação de integração](/pt/tracks/configurar-integracao-com-o-magazine-luiza--5Yx5IrNa7Y48c6aSC8wu2Y/3tZ4qVuMDDsC2jx2DCmjdA) e autenticar a conta.  
 6. No seller center do Magazine Luiza, o seller deve zerar o estoque de todos os produtos.  
 7. Ao finalizar os passos anteriores, o seller deve informar nos tickets com a VTEX e com o Magazine Luiza qual a data e horário que deseja realizar a migração.   
 
-<div class=”alert alert-warning”>
-Na data e horário acordado entre o seller e a VTEX, o processo de migração será iniciado e os pedidos que estão pendentes no Portal do seller Magazine Luiza serão segmentados. Todos os pedidos pendentes anteriores à data definida, ficam sob responsabilidade do seller para atualização manual no Portal do seller e os pedidos posteriores à data definida ficam sob responsabilidade da VTEX.
-</div>
+> ⚠️ Na data e horário acordado entre o seller e a VTEX, o processo de migração será iniciado e os pedidos que estão pendentes no Portal do seller Magazine Luiza serão segmentados. Todos os pedidos pendentes anteriores à data definida, ficam sob responsabilidade do seller para atualização manual no Portal do seller e os pedidos posteriores à data definida ficam sob responsabilidade da VTEX.
 
 ![Data de migração](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integra%C3%A7%C3%B5es/configura%C3%A7%C3%B5es-de-integra%C3%A7%C3%B5es/migracao-direta-magazine-luiza_2.png)
 
 Após informar o dia e horário desejado para realizar a integração, o seller deve aguardar o retorno da VTEX confirmando a finalização da migração para seguir aos [testes](#testes).
 
-<div class=”alert alert-warning”>
-Durante o período de migração pedidos podem ser duplicados, chegando na integradora anterior e na VTEX. O seller deve ficar atento à situação para tratar corretamente esses pedidos.
-</div>
+> ⚠️ Durante o período de migração pedidos podem ser duplicados, chegando na integradora anterior e na VTEX. O seller deve ficar atento à situação para tratar corretamente esses pedidos.
 
 ### Testes
 

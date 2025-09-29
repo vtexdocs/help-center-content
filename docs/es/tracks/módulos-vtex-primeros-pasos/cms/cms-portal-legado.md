@@ -94,10 +94,7 @@ Estas son:
 
 Para estas dos carpetas, lo que importa es el control o placeholder que lee su contenido. Sus nombres pueden ser editados libremente.
 
-<div class="">
-Tanto `/account` como `/account/orders`  son carpetas privadas. Por lo tanto, ambas requieren autenticación. Vea en el artículo [Exigir autenticación en páginas de la tienda](/es/tutorial/exigir-autenticacion-en-paginas-de-la-tienda) cómo asegurarse de que están configuradas para solicitar la autenticación del usuario.
-
-</div>
+> ℹ️ Tanto `/account` como `/account/orders`  son carpetas privadas. Por lo tanto, ambas requieren autenticación. Vea en el artículo [Exigir autenticación en páginas de la tienda](/es/tutorial/exigir-autenticacion-en-paginas-de-la-tienda) cómo asegurarse de que están configuradas para solicitar la autenticación del usuario.
 
 ### Carpetas útiles
 

@@ -36,10 +36,8 @@ Si tiene más de un almacén registrado, esta misma acción también le permite 
 5. Escoja un archivo de su computadora, y arrástrelo hacia la pantalla.   
 6. Haga clic en **Importar**.  
 
-<div class=”alert alert-warning”>
-Si no se respetan estas indicaciones, es posible que el sistema no acepte la importación de la plantilla o que el número de ítems en venta sea incorrecto.
-La importación del almacén sobrescribirá los valores actuales de su almacén registrado. Solo haga la importación si desea reemplazar los datos de los SKUs registrados en el Admin, con la información contenida en el archivo .xls.
-</div>
+> ⚠️ Si no se respetan estas indicaciones, es posible que el sistema no acepte la importación de la plantilla o que el número de ítems en venta sea incorrecto.
+> La importación del almacén sobrescribirá los valores actuales de su almacén registrado. Solo haga la importación si desea reemplazar los datos de los SKUs registrados en el Admin, con la información contenida en el archivo .xls.
 
 Por medio de la plantilla de almacén, es posible ingresar de forma masiva la cantidad de SKUs para cada almacén de su tienda. Importar una plantilla de almacén es la forma más simple de ingresar la cantidad de cada SKU en su tienda de forma masiva.
 
@@ -68,6 +66,4 @@ A continuación, vea el significado de cada campo en la plantilla de almacén.
 - **LockIds** (texto): código identificador de la reserva.  
 - **DispatchedReservations** (número): número de ítems del SKU que ya pasaron al status `Listo para preparar`, es decir, cuyas reservas ya se pagaron.  
 
-<div class = "alert alert-info">
-  Para incluir un artículo con stock ilimitado, debe rellenar el campo **TotalQuantity** con el valor `1000000` y cambiar el campo **UnlimitedQuantity** a `True`. 
-</code>
+> ℹ️  Para incluir un artículo con stock ilimitado, debe rellenar el campo **TotalQuantity** con el valor `1000000` y cambiar el campo **UnlimitedQuantity** a `True`. 

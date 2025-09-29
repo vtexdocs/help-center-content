@@ -16,7 +16,7 @@ subcategoryId: 4hisB47iAVZk4r3SEmMoG
 ---
 
 
-> ⚠️ The limit for each Seller Portal account is 100 thousand products. For more information, please contact our <a href="https://support.vtex.com/hc/pt-br/requests">Support.
+> ⚠️ The limit for each Seller Portal account is 100 thousand products. For more information, please contact our [Support](https://support.vtex.com/hc/pt-br/requests).
 
 **Shared Products** is the module where you can manage the products in your catalog that are already offered in the marketplace. The shared products dashboard displays all the products that the marketplace has made available for your store to sell. These products have been synced with the marketplace catalog.
 

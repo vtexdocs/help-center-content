@@ -35,7 +35,7 @@ Para [contratar políticas comerciales adicionales](/es/tutorial/contratacao-de-
 
 La contratación de políticas comerciales adicionales para integración con un [conector certificado](/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-con-un-conector-certificado-partner) u otras tiendas VTEX está exenta de la cuota mensual.
 
-<div class=alert alert-warning> Si se aplica la misma política comercial a un conector certificado y a un conector asociado, no hay exención de tarifas.</div>
+> ⚠️ Si se aplica la misma política comercial a un conector certificado y a un conector asociado, no hay exención de tarifas.
 
 ## Catálogo
 Al [registrar productos](/es/tutorial/cadastrando-produtos--tutorials_2567) en el catálogo, puede restringir su disponibilidad para determinadas políticas comerciales. De este modo, el catálogo se segmenta en función de las diferentes estrategias de negocio. Las estrategias pueden incluir la segmentación de productos por región, para un marketplace o para tipos específicos de clientes, como los empleados. Vea más información sobre la configuración del [catálogo](/es/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ).

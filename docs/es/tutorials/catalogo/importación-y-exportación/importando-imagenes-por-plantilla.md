@@ -50,9 +50,7 @@ A continuación, se explica cómo rellenar cada campo de la plantilla de importa
 
 ### URL de imagen
 
-<div class= “alert alert-info”>
-Este campo es obligatorio. No está permitido utilizar caracteres especiales, puntos en el nombre de la imagen o tildes.
-</div>
+> ℹ️ Este campo es obligatorio. No está permitido utilizar caracteres especiales, puntos en el nombre de la imagen o tildes.
 
 Este campo debe rellenarse con la URL de la imagen que se asociará al SKU, la cual debe ser pública y estar alojada en un servidor FTP desde donde se origina el _link_ de la imagen. La URL debe comenzar, sin excepción, con el identificador de protocolo HTTP (`http://`) y terminar con la extensión del archivo (`.jpg`, `.png` o `.gif`). Ejemplo: `http://www.ejemploimage.com.br/imagem03/teste01/exemplo15.jpg`.
 
@@ -66,9 +64,7 @@ Además, para verificar si las URL son correctas, puedes usar un servicio extern
 
 ### Nombre de imagen
 
-<div class= “alert alert-info”>
-Este campo es obligatorio. No está permitido usar caracteres especiales, tildes o espacios en blanco.
-</div>
+> ℹ️ Este campo es obligatorio. No está permitido usar caracteres especiales, tildes o espacios en blanco.
 
 El nombre de la imagen es lo que viene luego de la última / en la URL de la imagen, incluida la extensión del archivo. Por ende, este campo se debe rellenar con el nombre y la extensión del archivo (`.jpg`, `.png` o `.gif`). Ejemplo: `exemplo15.jpg`.
 
@@ -76,27 +72,21 @@ El nombre estará relacionado con la imagen en el gestor de archivos del CMS - P
 
 ### Texto de imagen
 
-<div class= “alert alert-info”>
-  No está permitido usar caracteres especiales ni tildes en este campo.
-  No está permitido usar el mismo valor en los campos **Label** y **TextoImagem**.
-</div>
+> ℹ️ No está permitido usar caracteres especiales ni tildes en este campo.
+> No está permitido usar el mismo valor en los campos **Label** y **TextoImagem**.
 
 El campo __Texto de imagen__ debe rellenarse con el texto que se asociará a tu imagen. Quedará registrado en el registro del SKU en la pestaña __Imágenes__ en el campo __Texto__.
 
 ### Etiqueta
 
-<div class= “alert alert-info”>
-  Este campo es obligatorio. No está permitido usar caracteres especiales ni tildes en este campo.
-  No está permitido usar el mismo valor en los campos **Etiqueta** y **Texto de imagen**.
-</div>
+> ℹ️ Este campo es obligatorio. No está permitido usar caracteres especiales ni tildes en este campo.
+> No está permitido usar el mismo valor en los campos **Etiqueta** y **Texto de imagen**.
 
 La _Etiqueta__ es lo que se usa para facilitar la organización de la plantilla de las páginas de tu sitio web a través de la referencia del valor ingresado en esta. Ejemplos: frontal, lateral, superior.
 
 ### IDSKU
 
-<div class= “alert alert-info”>
-Este campo es obligatorio. El ID informado debe corresponderse con el ID de un SKU ya existente en el Catálogo.
-</div>
+> ℹ️ Este campo es obligatorio. El ID informado debe corresponderse con el ID de un SKU ya existente en el Catálogo.
 
 El ID del SKU es el código que identifica al SKU que se asociará a la imagen. Este código puede obtenerse exportando **Productos y SKU**. Para más información, consulta el artículo [Cómo exportar plantillas de productos](/es/tutorial/how-to-export-a-product-spreadsheet--2sIroGeqZqaN3NAvaSGwWV).
 

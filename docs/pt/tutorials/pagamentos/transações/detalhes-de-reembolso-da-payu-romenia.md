@@ -15,9 +15,7 @@ locale: pt
 subcategoryId: 3Gdgj9qfu8mO0c0S4Ukmsu
 ---
 
-<div class="alerta alert-warning">
-Este artigo se aplica apenas a pagamentos realizados na **Romênia**.
-</div>
+> ⚠️ Este artigo se aplica apenas a pagamentos realizados na **Romênia**.
 
 Cancelamentos de pagamento (que apenas podem ser feito para o valor total) ou reembolsos (totais ou parciais) não são processados imediatamente, mas sim com um timeout.
 

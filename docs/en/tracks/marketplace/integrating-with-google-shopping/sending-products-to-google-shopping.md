@@ -102,9 +102,7 @@ After creating the new specification field, you must associate the labels with t
 4. Complete the `googleshopping-labels` field with the desired values, separating them with a semicolon`;`.  
 5. Click `Save`.  
 
-<div class=”alert alert-warning”>
-Each offer can have a maximum of five associated labels. 
-</div>
+> ⚠️ Each offer can have a maximum of five associated labels.
 
 ## Modifying the automatic categorization
 

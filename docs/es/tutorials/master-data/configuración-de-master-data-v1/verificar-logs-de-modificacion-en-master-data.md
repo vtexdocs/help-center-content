@@ -29,6 +29,4 @@ Para acceder a los Logs de su tienda, vea el siguiente paso a paso:
 
 En seguida, se presentará en la pantalla el historial de las alteraciones hechas en la plataforma de VTEX.
 
-<div class= “alert alert-info”>
-Atención: en la esquina inferior derecha de la página en la que se muestran los Logs, se puede hacer clic en una opción "Mostrar más logs". Este comando permite una visualización de un número mayor de logs por página. Sin embargo, cada documento tiene un número máximo de datos que puede mostrarse por pantalla.
-</div>
+> ℹ️ Atención: en la esquina inferior derecha de la página en la que se muestran los Logs, se puede hacer clic en una opción "Mostrar más logs". Este comando permite una visualización de un número mayor de logs por página. Sin embargo, cada documento tiene un número máximo de datos que puede mostrarse por pantalla.

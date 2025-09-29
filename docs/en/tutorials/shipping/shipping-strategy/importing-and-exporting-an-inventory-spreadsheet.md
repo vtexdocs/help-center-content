@@ -36,10 +36,8 @@ If you have more than one existing inventory, this same action also allows you t
 5. Choose a file from your computer and drag it into the box.  
 6. Click on **Import**. 
 
-<div class=”alert alert-warning”>
-If these indicators are not respected, the system may not accept the spreadsheet import or the number of available items may be incorrect.
-Importing the inventory will overwrite the current values on your existing one. Import only if you want to replace the SKU data present in the Admin.
-</div>
+> ⚠️ If these indicators are not respected, the system may not accept the spreadsheet import or the number of available items may be incorrect.
+> Importing the inventory will overwrite the current values on your existing one. Import only if you want to replace the SKU data present in the Admin.
 
 Using an inventory spreadsheet, you can bulk insert the number of SKUs for each of your store's inventories. Importing an inventory spreadsheet is the easiest way to bulk add the SKUs to your store.   
 

@@ -17,9 +17,7 @@ announcementSynopsisEN: 'On 10/12, we will remove this field (already obsolete) 
 
 On __October 12__, we will remove the `items` field from the List Orders API.
 
-<div class="alert">
-List Orders API request: `http://{{accountName}}.{{environment}}.com.br/api/oms/pvt/orders`
-</div>
+> ℹ️ List Orders API request: `http://{{accountName}}.{{environment}}.com.br/api/oms/pvt/orders`
 
 If your store uses the List Orders API and your integration mapping is expected to receive the `items` field, your development team needs to __remove it from the integration mapping__.
 
@@ -37,9 +35,7 @@ That is why it's crucial to remove it from integration.
 
 > ℹ️ This change does **not** affect the Get Orders API. In it, the `items` field continues to exist and keeps being normally updated.
 
-<div class="alert">
-Get Order API request: `http://{{accountName}}.{{environment}}.com.br/api/oms/pvt/orders/{{orderId}}`
-</div>
+> ℹ️ Get Order API request: `http://{{accountName}}.{{environment}}.com.br/api/oms/pvt/orders/{{orderId}}`
 
 ---
 

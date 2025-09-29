@@ -70,6 +70,5 @@ Este campo debe completarse de la siguiente manera:
 2. Complete el campo **PARA** con el nombre del nuevo campo.  
 3. Haga clic en el botón <i class="fas fa-plus" aria-hidden="true"></i> y se agregará una regla de mapeo a tu integración.  
 
-<div class = "alert alert-info">
-Cada regla registrada asigna solo un campo.
+> ℹ️ Cada regla registrada asigna solo un campo.
 

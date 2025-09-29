@@ -48,7 +48,7 @@ To identify the SKU price integration error with Google, see the documentation [
 
 **Manufacturer code:** Required field in the [Catalog module](/en/tutorial/catalogo-visao-geral--77M8ItLhDXs6aBdQTqToVe) that must be completed with the code provided by the manufacturer to identify their product. If a product has a specific code, this field must be completed.  
 
-> ℹ️ The codes EAN/UPC and Manufacturer's code are required when selling manufactured products. See when to apply the <a href https://support.google.com/merchants/answer/6324461?hl=pt-BR&ref_topic=6324338&sjid=10867212756007821438-SA>EAN/UPC</a> or the <a href https://support.google.com/merchants/answer/6324482?hl=pt-BR&ref_topic=6324338&sjid=10867212756007821438-SA>Manufacturer's Code</a> to a product.   
+> ℹ️ The codes EAN/UPC and Manufacturer's code are required when selling manufactured products. See when to apply the [EAN/UPC](https://support.google.com/merchants/answer/6324461?hl=pt-BR&ref_topic=6324338&sjid=10867212756007821438-SA) or the [Manufacturer's Code](https://support.google.com/merchants/answer/6324482?hl=pt-BR&ref_topic=6324338&sjid=10867212756007821438-SA) to a product.   
 
 **Size:** Required field only for clothing products that correspond to the category [ID1604](https://support.google.com/merchants/answer/6324492?sjid=6190195010935556339-SA&visit_id=638479454885115656-3876849034&rd=1) and footwear that correspond to the category [ID187](https://support.google.com/merchants/answer/6324492?sjid=6190195010935556339-SA&visit_id=638479454885115656-3876849034&rd=1) on Google. If applicable to your product, enter the SKU size.  
 

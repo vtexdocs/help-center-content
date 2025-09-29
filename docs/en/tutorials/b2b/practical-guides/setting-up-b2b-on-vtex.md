@@ -21,9 +21,7 @@ On VTEX, B2B environments are usually blocked, in whole or in part, for anonymou
 
 See below a description of the settings required for turning an account into B2B on VTEX.
 
-<div class="alert-info">
-Every B2B store preparing to go into production and configure a final domain should contact [our Support](https://support.vtex.com/hc/pt-br/requests) in advance and request that the internal configuration be done.
-</div>
+> ℹ️ Every B2B store preparing to go into production and configure a final domain should contact [our Support](https://support.vtex.com/hc/pt-br/requests) in advance and request that the internal configuration be done.
 
 ## Prerequisite
 

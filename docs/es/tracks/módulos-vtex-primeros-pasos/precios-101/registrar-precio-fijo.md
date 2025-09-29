@@ -63,7 +63,7 @@ Para eliminar un precio fijo existente, sigue los pasos que se indican a continu
 4. Haz clic en el precio fijo registrado.
 5. Haz clic en el botón `Eliminar`.
 
-> ℹ️ No es posible realizar la eliminación masiva de precios fijos mediante la planilla. La eliminación debe hacerse manualmente, siguiendo los pasos anteriores, o a través de la API <a href="https://developers.vtex.com/docs/api-reference/pricing-api#delete-/pricing/prices/-itemId-/fixed/-priceTableId-">Delete fixed prices on a price table or trade policy.
+> ℹ️ No es posible realizar la eliminación masiva de precios fijos mediante la planilla. La eliminación debe hacerse manualmente, siguiendo los pasos anteriores, o a través de la API [Delete fixed prices on a price table or trade policy](https://developers.vtex.com/docs/api-reference/pricing-api#delete-/pricing/prices/-itemId-/fixed/-priceTableId-).
 
 ## Pricing API
 Para registrar un precio fijo mediante API, utiliza el endpoint [Create or update base or fixed prices](https://developers.vtex.com/docs/api-reference/pricing-api#put-/pricing/prices/-itemId-) de la Pricing API.

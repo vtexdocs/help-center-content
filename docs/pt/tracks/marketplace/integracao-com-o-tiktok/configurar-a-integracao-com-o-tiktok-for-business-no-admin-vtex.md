@@ -77,9 +77,7 @@ Depois de preencher o formulário de configuração da integração, você preci
 
 ## 3. Configurar o TikTok for Business
 
-<div class="alert" "alert-warning">
-  Recomendamos desativar extensões que bloqueiam anúncios no seu navegador para evitar erros nas etapas a seguir.
-</div>
+> ℹ️ Recomendamos desativar extensões que bloqueiam anúncios no seu navegador para evitar erros nas etapas a seguir.
 
 Na página **Set up TikTok For Business** (Configurar o TikTok For Business), ilustrada abaixo, é necessário cumprir as instruções de configuração descritas a seguir.
 

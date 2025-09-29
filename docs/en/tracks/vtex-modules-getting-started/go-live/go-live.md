@@ -26,9 +26,7 @@ In the DNS zone of your domain, you should create a CNAME-type entry in the desi
 
 Note that the `{domain}` indicated above has to be the same as the one you [registered on VTEX](/en/tracks/como-realizar-el-go-live-de-tu-tienda--4Ns5FxIiksmjsdX2yOTduM/7sM5IMx02zaHvAFTm0OxiJ#registering-the-domain-on-vtex).
 
-<div class="alert-warning">
-If you use Cloudflare as your DNS zone, you may need to disable the DNS proxy and thus disable Cloudflare's CDN and WAF services. Learn more in the [How to disable the proxy in Cloudflare](/en/tutorial/disable-cloudflare-proxy--75QqsXAqR7NdkRc1GZPiXb) article.
-</div>
+> ⚠️ If you use Cloudflare as your DNS zone, you may need to disable the DNS proxy and thus disable Cloudflare's CDN and WAF services. Learn more in the [How to disable the proxy in Cloudflare](/en/tutorial/disable-cloudflare-proxy--75QqsXAqR7NdkRc1GZPiXb) article.
 
 See some examples:
 

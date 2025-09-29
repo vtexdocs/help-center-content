@@ -17,9 +17,7 @@ announcementSynopsisPT: 'Em 12/10, vamos remover esse campo (já obsoleto) para 
 
 No dia __12 de outubro__, vamos retirar o campo `items` da API de List Orders.
 
-<div class="alert">
-Request da API de List Orders: `http://{{accountName}}.{{environment}}.com.br/api/oms/pvt/orders`
-</div>
+> ℹ️ Request da API de List Orders: `http://{{accountName}}.{{environment}}.com.br/api/oms/pvt/orders`
 
 Se sua loja usa a API de List Orders e no mapeamento da sua integração é esperado receber o campo `items`, seu time de desenvolvimento precisa __retirá-lo do mapeamento da integração__.
 
@@ -37,9 +35,7 @@ Por isso, é crucial retirá-lo da integração.
 
 > ℹ️ Esta mudança **não** afeta a API de Get Order. Nela, o campo `items` continua existindo e sendo atualizado normalmente.
 
-<div class="alert">
-Request da API de Get Order: `http://{{accountName}}.{{environment}}.com.br/api/oms/pvt/orders/{{orderId}}`
-</div>
+> ℹ️ Request da API de Get Order: `http://{{accountName}}.{{environment}}.com.br/api/oms/pvt/orders/{{orderId}}`
 
 ---
 

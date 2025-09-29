@@ -193,9 +193,7 @@ Imagina el siguiente escenario: un marketplace tiene el smartphone XYZ con 128 G
 
 No obstante, es posible que este marketplace reciba el mismo SKU de 128 GB del Seller 2. Para evitar duplicar el catálogo, el marketplace debe asociar estos SKU.  
 
-<div class="alert-info">
-Esta acción puede realizarse en las pestañas **Pendientes** y **Problemas**.
-</div>
+> ℹ️ Esta acción puede realizarse en las pestañas **Pendientes** y **Problemas**.
 
 #### Bloquear  
 

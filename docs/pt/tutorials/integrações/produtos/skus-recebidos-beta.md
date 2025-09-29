@@ -143,9 +143,7 @@ Cria um novo produto no catálogo associando todos os SKUs selecionados. Recomen
 4.  Preencha os campos **Categoria** e **Marca** para cada produto. Caso o mapeamento tenha sido realizado previamente, esses campos já estarão preenchidos.  
 5. Clique em `Aprovar`.  
 
-<div class=”alert alert-info”>
-Esta ação pode ser realizada nas seções de anúncios **Pendentes.**
-</div>
+> ℹ️ Esta ação pode ser realizada nas seções de anúncios **Pendentes.**
 
 #### Criar novo produto
 

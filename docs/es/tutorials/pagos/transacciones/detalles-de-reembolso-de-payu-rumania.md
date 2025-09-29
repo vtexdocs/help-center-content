@@ -15,9 +15,7 @@ locale: es
 subcategoryId: 3Gdgj9qfu8mO0c0S4Ukmsu
 ---
 
-<div class = "alerta alerta-alerta">
-Este artículo se aplica solo a los pagos en ** Rumania **.
-</div>
+> ℹ️ Este artículo se aplica solo a los pagos en ** Rumania **.
 
 Las cancelaciones de pago (también llamadas nulas, se pueden colocar solo por el monto total) o los reembolsos (totales o parciales) no se procesan de forma inmediata, sino que se cancelan.
 
