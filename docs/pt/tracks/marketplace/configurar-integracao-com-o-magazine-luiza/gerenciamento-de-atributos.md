@@ -17,7 +17,7 @@ order: 5
 
 Após realizar as configurações iniciais da integração, é possível enviar os produtos para o catálogo do Magazine Luiza, além de definir quais atributos de cada categoria serão exibidos nos anúncios no marketplace.  
 
-> ⚠️ Para enviar produtos ao marketplace, o seller deve mapear as [categorias](/pt/tutorial/o-que-e-uma-categoria--6HV4Q3E2FauUoOQoiCCgCg) e [estoque](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP>atributos dos produtos</a>, além de configurar <a href=”https://help.vtex.com/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb) e [preço](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/) de cada produto.  
+> ⚠️ Para enviar produtos ao marketplace, o seller deve mapear as [categorias](/pt/tutorial/o-que-e-uma-categoria--6HV4Q3E2FauUoOQoiCCgCg) e [atributos dos produtos](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP), além de configurar [estoque](https://help.vtex.com/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb) e [preço](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/) de cada produto.  
 
 ![Gerenciamento de atributos Magalu](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/marketplace/configurar-integracao-com-o-magazine-luiza/gerenciamento-de-atributos_1.gif)
 

@@ -36,7 +36,9 @@ To access the beta environment in your store, enable the `vtex-commerce-env` coo
 <li>Value: `beta`
 </li>
 </ul>
-<img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/about-the-admin/admin-overview/accessing-the-beta-environment_1.png" alt="beta">
+
+![beta](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/about-the-admin/admin-overview/accessing-the-beta-environment_1.png)
+
 <li>Refresh the page by pressing `F5` or clicking the refresh button in your browser. Once the page has loaded, the store's Admin will already be in beta. 
 </li>
 </ol>

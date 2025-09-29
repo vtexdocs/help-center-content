@@ -29,7 +29,7 @@ Conversation Tracker puede tener dos configuraciones de máscara:
 
 Ahora es posible cambiar entre el modo Hard y Soft del Conversation Tracker accediendo al módulo de Gestión de Pedidos de su Admin. Antes, esta configuración estaba apenas disponible a través del Master Data. 
 
-<div style="alert alert-warning">**Atención:** Si es posible, recomendamos mantener su máscara en el modo Hard para la protección de los datos sensibles de sus clientes (como su correo electrónico).</div>
+> ⚠️ **Atención:** Si es posible, recomendamos mantener su máscara en el modo Hard para la protección de los datos sensibles de sus clientes (como su correo electrónico).
 
 
 ## ¿Por qué hicimos este cambio? 

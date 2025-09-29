@@ -3,8 +3,8 @@ title: 'Importação e exportação de produtos e SKUs via planilha (Beta)'
 id: 5udKxWP1ZeBD7QB7Fy2BNl
 status: PUBLISHED
 createdAt: 2025-09-05T16:54:23.995Z
-updatedAt: 2025-09-26T20:18:23.873Z
-publishedAt: 2025-09-26T20:18:23.873Z
+updatedAt: 2025-09-29T14:40:11.497Z
+publishedAt: 2025-09-29T14:40:11.497Z
 firstPublishedAt: 2025-09-05T18:41:30.755Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -52,7 +52,7 @@ Para exportar um arquivo `.xlsx` com informações sobre o seu sortimento de pro
 2. (Opcional) Caso queira exportar uma seleção de produtos e SKUs, [busque](/pt/tutorial/produtos-e-skus--2ig7TmROlirWirZjFWZ3By#buscar-produtos) ou [filtre](/pt/tutorial/produtos-e-skus--2ig7TmROlirWirZjFWZ3By#filtrar-produtos) os itens desejados. Este passo não é necessário para exportar todos os produtos e/ou SKUs.
 3. No topo da página, clique em `Exportar`.
 4. Clique em `Produtos e SKUs`.
-5. No modal de **Exportação**, selecione o ícone caixa <a class="far fa-check-square" aria-hidden="true"></a> correspondente aos **Campos de produto** e/ou **Campos de SKU**, conforme desejado. Os campos obrigatórios não podem ser desmarcados.
+5. No modal de **Exportação**, selecione o ícone caixa <i class="fa-regular fa-square-check"></i> correspondente aos **Campos de produto** e/ou **Campos de SKU**, conforme desejado. Os campos obrigatórios não podem ser desmarcados.
 
   > ⚠️ Somente planilhas que foram exportadas com todos os campos podem ser importadas futuramente.
 

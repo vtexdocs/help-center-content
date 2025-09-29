@@ -25,7 +25,7 @@ Para cadastrar um vendedor temporário, siga as etapas abaixo:
   <li>Informe a **Data de início** e a **Data de término**.</li>
 </ol>
 
-<img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/vendedores/vendedor-temporario_1.png" alt="Exemplo de seleção do tipo temporário e datas">
+![Exemplo de seleção do tipo temporário e datas](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/vendedores/vendedor-temporario_1.png)
 
 <ol start="6">
   <li>Clique em **Cadastrar Vendedor** para finalizar o processo.</li>

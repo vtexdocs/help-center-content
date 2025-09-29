@@ -44,7 +44,7 @@ Saiba alguns detalhes sobre o Seller Portal:
 
 ## Configurar sua loja
 
-> ⚠️ O limite para cada conta do Seller Portal é de 100 mil produtos. Para mais informações, entre em contato com nosso <a href="https://support.vtex.com/hc/pt-br/requests">Suporte.
+> ⚠️ O limite para cada conta do Seller Portal é de 100 mil produtos. Para mais informações, entre em contato com nosso [Suporte](https://support.vtex.com/hc/pt-br/requests).
 
 Para começar a vender seus produtos no marketplace, é preciso configurar a sua loja no Seller Portal. Este artigo explica o fluxo completo dessa configuração inicial e indica outras documentações para que você acesse cada passo em mais detalhes. A configuração básica do Seller Portal inclui os passos listados abaixo.
 

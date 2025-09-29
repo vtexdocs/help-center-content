@@ -22,14 +22,14 @@ Para desligar um vendedor ativo da loja, siga as etapas abaixo:
   <li>Clique em **Ações** e selecione **Desligamento**.</li>
 </ol>
 
-<img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/vendedores/desligar-vendedor-indeva_1.png" alt="Tela de ações do cadastro de vendedores">
+![Tela de ações do cadastro de vendedores](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/vendedores/desligar-vendedor-indeva_1.png)
 
 <ol start="3">
   <li>Na tela de **Desligamento**, selecione o **Motivo do desligamento**.</li>
   <li>Em **Data do desligamento**, informe o último dia trabalhado pelo vendedor.</li>
 </ol>
 
-<img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/vendedores/desligar-vendedor-indeva_2.png" alt="Tela de desligamento do vendedor">
+![Tela de desligamento do vendedor](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/vendedores/desligar-vendedor-indeva_2.png)
 
 > ⚠️ Preencha com atenção a data de desligamento do vendedor. Após salvar, não será possível editá-la.
 

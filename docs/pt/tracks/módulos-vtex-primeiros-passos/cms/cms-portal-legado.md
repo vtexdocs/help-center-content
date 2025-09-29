@@ -72,9 +72,7 @@ Veja abaixo estas pastas básicas no CMS:
 
 Estas pastas vêm por padrão no ambiente de todas as lojas VTEX.
 
-<div clas="alert alert-warning">
-Atenção: os nomes das pastas obrigatórias **não** devem ser alterados.
-</div>
+> ⚠️ Atenção: os nomes das pastas obrigatórias **não** devem ser alterados.
 
 Como as pastas se referem a páginas dinâmicas, seus nomes não aparecem na navegação do cliente. 
 

@@ -23,8 +23,7 @@ The [price tables](/en/tutorial/criar-tabelas-de-precos?locale=pt) in a VTEX B2B
 
 You can manage price tables by:
 - [Associating price tables with an organization](#associating-price-tables-with-an-organization)
-- [Removing a price table association](#removing-a-price-table-association
-)
+- [Removing a price table association](#removing-a-price-table-association)
 
 ## Associating price tables with an organization
 On VTEX, an organization is an entity that represents a company. To associate price tables with an organization, follow these steps:

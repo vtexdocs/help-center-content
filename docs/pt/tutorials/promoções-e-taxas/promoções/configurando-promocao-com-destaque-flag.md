@@ -3,8 +3,8 @@ title: 'Configurar promoção com destaque / flag'
 id: tutorials_2295
 status: PUBLISHED
 createdAt: 2017-04-27T21:55:19.949Z
-updatedAt: 2024-09-17T16:24:52.963Z
-publishedAt: 2024-09-17T16:24:52.963Z
+updatedAt: 2025-09-29T17:45:04.455Z
+publishedAt: 2025-09-29T17:45:04.455Z
 firstPublishedAt: 2017-04-27T23:03:51.539Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -38,9 +38,6 @@ O destaque de promoção pode ser aplicado em diferentes tipos de promoções e 
 Os seguintes tipos de descontos são elegíveis para a aplicação de um destaque:
 
 - [Desconto percentual](/pt/tutorial/configurar-promocao-de-desconto-percentual-para-um-sku-especifico--3rbh8ELSLu2IGCeQ6SImU0): oferece uma redução percentual no valor do produto.
-- [Frete percentual](/pt/tutorial/configurar-promocao-de-desconto-percentual-para-um-sku-especifico--3rbh8ELSLu2IGCeQ6SImU0): aplica um desconto em parte do valor do frete, permitindo que os clientes paguem menos pelo envio e incentivando a decisão de compra.
-- [Frete máximo](/pt/tutorial/configurar-promocoes-de-frete--6Lo5BR61KMiUFAAHGCdgfW): estabelece um valor máximo para o frete, independentemente de fatores como distância ou peso do pedido.
-- [Frete grátis](/pt/tutorial/configurar-promocoes-de-frete--6Lo5BR61KMiUFAAHGCdgfW): elimina totalmente o custo de envio. 
 - **Brinde**: oferece um produto extra sem custo ao cliente, ao comprar um determinado item ou atingir um valor mínimo de compra.
 
 Para mais informações, acesse os artigos da seção [Promoções](/pt/subcategory/promocoes--1yTYB5p4b6iwMsUg8uieyq).
