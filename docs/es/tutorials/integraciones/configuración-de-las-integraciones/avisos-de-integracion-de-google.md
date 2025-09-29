@@ -52,7 +52,7 @@ Para identificar el error de integración del precio del SKU con Google, lee el 
 
 **Manufacturer code o Código del fabricante:** campo obligatorio del [módulo Catálogo](/es/tutorial/catalogo-visao-geral--77M8ItLhDXs6aBdQTqToVe) y debe rellenarse con el código proporcionado por el fabricante para identificar el producto. Si un producto tiene un código específico, este campo debe rellenarse.  
 
-> ℹ️ Los códigos EAN/UPC y Código del fabricante son obligatorios cuando se venden productos manufacturados. Consulta a continuación cuándo aplicar el <a href https://support.google.com/merchants/answer/6324461?hl=pt-BR&ref_topic=6324338&sjid=10867212756007821438-SA>EAN/UPC</a> o el <a href https://support.google.com/merchants/answer/6324482?hl=pt-BR&ref_topic=6324338&sjid=10867212756007821438-SA>Código del fabricante</a> a un producto.  
+> ℹ️ Los códigos EAN/UPC y Código del fabricante son obligatorios cuando se venden productos manufacturados. Consulta a continuación cuándo aplicar el [EAN/UPC](https://support.google.com/merchants/answer/6324461?hl=pt-BR&ref_topic=6324338&sjid=10867212756007821438-SA) o el [Código del fabricante](https://support.google.com/merchants/answer/6324482?hl=pt-BR&ref_topic=6324338&sjid=10867212756007821438-SA) a un producto.  
 
 **Size:** campo obligatorio exclusivo para productos de ropa que corresponden a la categoría [ID1604](https://support.google.com/merchants/answer/6324492?sjid=6190195010935556339-SA&visit_id=638479454885115656-3876849034&rd=1) y calzado que corresponden a la categoría [ID187](https://support.google.com/merchants/answer/6324492?sjid=6190195010935556339-SA&visit_id=638479454885115656-3876849034&rd=1) en Google. Si se aplica a tu producto, rellena la talla del SKU.  
 

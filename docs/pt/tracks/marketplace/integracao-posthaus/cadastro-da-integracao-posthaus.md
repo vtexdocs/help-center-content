@@ -24,10 +24,8 @@ Terminadas as etapas de conﬁguração da sua conta na Posthaus e da sua conta 
 5. Retorne para a página **Marketplaces e Integrações** e preencha os campos da tela da integração **Posthaus** descritos abaixo.  
 6. Após o preenchimento clique no botão `Salvar`.  
 
-<div class="alert alert danger">
-Nesta etapa as credenciais da Posthaus são necessárias.
-Todos os campos da tela de configuração da Posthaus são obrigatórios.
-</div>  
+> ℹ️ Nesta etapa as credenciais da Posthaus são necessárias.
+> Todos os campos da tela de configuração da Posthaus são obrigatórios.  
 
 | **Campo** | **Descrição** | **Exemplo** |
 |:---:|:---:|:---:|

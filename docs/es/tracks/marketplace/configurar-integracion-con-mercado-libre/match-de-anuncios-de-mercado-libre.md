@@ -66,9 +66,7 @@ En la parte superior de la pantalla, se muestra el número de catálogos activos
 
 ![relevancia](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/marketplace/configurar-integracion-con-mercado-libre/match-de-anuncios-de-mercado-libre_2.png)
 
-<div class=”alert alert-info>
-Los anuncios adquieren relevancia cuando ofrecen mejores precios y condiciones logísticas.
-</div>
+> ℹ️ Los anuncios adquieren relevancia cuando ofrecen mejores precios y condiciones logísticas.
 
 La relevancia de un anuncio registra si la oferta del seller se muestra como la primera oferta del catálogo en el marketplace. Los posibles status de una oferta son:  
 

@@ -92,9 +92,7 @@ São elas:
 
 Para estas duas pastas, o que importa é o controle ou placeholder que lê o conteúdo delas. Seus nomes delas podem ser livremente editados.
 
-<div class="">
-Tanto `/account` quanto `/account/orders` são pastas privadas. Por isso, ambas requerem autenticação. Veja no artigo [Exigir autenticação em páginas da loja](/pt/tutorial/exigir-autenticacao-em-paginas-da-loja) como garantir que elas estejam configuradas para pedir autenticação do usuário.
-</div>
+> ℹ️ Tanto `/account` quanto `/account/orders` são pastas privadas. Por isso, ambas requerem autenticação. Veja no artigo [Exigir autenticação em páginas da loja](/pt/tutorial/exigir-autenticacao-em-paginas-da-loja) como garantir que elas estejam configuradas para pedir autenticação do usuário.
 
 ### Pastas úteis
 

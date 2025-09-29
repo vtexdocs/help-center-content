@@ -15,9 +15,7 @@ locale: es
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-<div class=alert alert-warning">
-Este artículo se ocupa de las configuraciones aplicables en las tiendas que actúan en los siguientes países de América Latina: **Argentina**, **Chile**, **Colombia** y **Uruguay**.
-</div>
+> ⚠️ Este artículo se ocupa de las configuraciones aplicables en las tiendas que actúan en los siguientes países de América Latina: **Argentina**, **Chile**, **Colombia** y **Uruguay**.
 
 Usted puede utilizar Mercado Pago para ofrecer pagos personalizados (usando tarjetas de crédito locales) en su tienda. Para ello, primero debe registrar la afiliación de gateway [MercadoPagoV1](/es/tutorial/configurar-el-subadquirente-mercadopagov1). Después, basta con seguir los pasos abajo:
 

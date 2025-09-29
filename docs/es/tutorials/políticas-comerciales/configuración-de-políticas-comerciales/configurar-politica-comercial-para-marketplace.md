@@ -32,7 +32,7 @@ Para [contratar políticas comerciales adicionales](/es/tutorial/contratacao-de-
 
 Por cada política comercial adicional se cobra un valor mensual, independientemente de si se utiliza para la integración con marketplaces certificados, partners, externos o VTEX.
 
-<div class=alert alert-warning> Si se aplica la misma política comercial a un conector certificado y a un conector asociado, no hay exención de tarifas.</div>
+> ⚠️ Si se aplica la misma política comercial a un conector certificado y a un conector asociado, no hay exención de tarifas.
 
 ## Configuración de la tienda 
 La creación de una nueva política comercial es el primer paso para definir las condiciones aplicadas a cada *marketplace* en el que opera un *seller*. Los *sellers* pueden crear múltiples políticas comerciales o pueden aplicar la misma política en más de un *marketplace*. 

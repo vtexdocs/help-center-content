@@ -125,15 +125,11 @@ Para evitar la exclusión manual de un SKU a la vez, también es posible usar el
 
 En este caso específico, los SKUs listados en la plantilla importada se excluirán del  grupo. Para esto, haga clic en la opción __remove skus__ después que el archivo sea cargado.
 
-<div class="alert alert-warning">
-No se considerarán los IDs de los SKUs inactivos para inclusión o exclusión aunque estén listados en la plantilla.
-<div>
+> ⚠️ No se considerarán los IDs de los SKUs inactivos para inclusión o exclusión aunque estén listados en la plantilla.
 
 ## Productos por fecha de lanzamiento en el mercado 
 
-<div class="alert alert-warning">
-En la sección de **Other options**, las opciones **Pre-sales** y **Launches** son un complemento a la elección de los productos por Categorías, Marcas o SKUs. Esto significa que estos flags solo funcionarán si ya se seleccionaron anteriormente
-<div>
+> ⚠️ En la sección de **Other options**, las opciones **Pre-sales** y **Launches** son un complemento a la elección de los productos por Categorías, Marcas o SKUs. Esto significa que estos flags solo funcionarán si ya se seleccionaron anteriormente
 
 Note que apenas es posible seleccionar una de las dos opciones. Si quiere que se contemplen ambos escenarios, cree dos grupos y configure cada uno con la respectiva opción.
 
@@ -147,5 +143,4 @@ Para crear una colección de productos que aún no fueron lanzados en su tienda,
 
 La opción __Launches__ permite crear una colección de productos recientemente lanzados. Al seleccionar esta opción, el sistema considerará todos los productos lanzados dentro del periodo de 30 días anteriores al vigente. La fecha de lanzamiento considerada es también aquella definida en el campo _Fecha de lanzamiento en el mercado_ en el registro del producto. 
 
-<div class="alert alert-info">
-Si quiere entender cómo funciona la exclusión de una colección de productos, acceda a nuestro artículo sobre [cómo eliminar colecciones](/es/tutorial/como-eliminar-coleccion--6C620yHzwsGoS8iaCocAM2).
+> ℹ️ Si quiere entender cómo funciona la exclusión de una colección de productos, acceda a nuestro artículo sobre [cómo eliminar colecciones](/es/tutorial/como-eliminar-coleccion--6C620yHzwsGoS8iaCocAM2).

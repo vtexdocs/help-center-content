@@ -23,9 +23,7 @@ This article will shed light on how to optimize campaign starting from the remov
 
 Consequently, campaign optimization can also be performed by removing Subcategories, as long as this makes sense for the campaign's strategy.
 
-<div class=“ alert alert-warning” >
-**Notice**: VTEX Shopping Ads only allows the optimization of Google Smart Shopping type campaigns that were created in the App itself. Other campaigns only display their results in VTEX Shopping Ads, while their management is done in the Google Ads panel.
-</div>
+> ⚠️ **Notice**: VTEX Shopping Ads only allows the optimization of Google Smart Shopping type campaigns that were created in the App itself. Other campaigns only display their results in VTEX Shopping Ads, while their management is done in the Google Ads panel.
 
 1. In the upper right corner of the screen, click on __Campaign Audiences__;
 2. Select the Smart Shopping __campaign__ you want to optimize;

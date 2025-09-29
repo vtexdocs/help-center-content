@@ -36,10 +36,8 @@ Se você tiver mais de um estoque cadastrado, essa mesma ação também permite 
 5. Escolha um arquivo de seu computador, e arreste-o para a tela.   
 6. Clique em**Importar**.  
 
-<div class=”alert alert-warning”>
-Caso estas indicações não sejam respeitadas, o sistema pode não aceitar a importação da planilha ou o número de itens a venda pode ficar incorreto.
-A importação do estoque irá sobrescrever os valores atuais do seu estoque cadastrado. Só importe se desejar substituir os dados dos SKUs cadastrados no Admin, pelas informações contidas no arquivo .xls.
-</div>
+> ⚠️ Caso estas indicações não sejam respeitadas, o sistema pode não aceitar a importação da planilha ou o número de itens a venda pode ficar incorreto.
+> A importação do estoque irá sobrescrever os valores atuais do seu estoque cadastrado. Só importe se desejar substituir os dados dos SKUs cadastrados no Admin, pelas informações contidas no arquivo .xls.
 
 Por meio da planilha de estoque, é possível inserir em massa a quantidade de SKUs para cada estoque da sua loja. A importação de planilha de estoque é a maneira mais simples de inserir a quantidade de cada SKU em sua loja massivamente.  
 

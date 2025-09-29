@@ -33,7 +33,7 @@ Este artigo assume que os colaboradores estão devidamente registrados com um ca
 Caso contrário, verifique o artigo [Criando um campo no Master Data](/pt/tutorial/como-crio-um-campo-no-master-data--frequentlyAskedQuestions_1829) para criar um campo que identifique os funcionários e configure-o adequadamente para cada documento correspondente aos funcionários.
 ![Campo do colaborador](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/master-data/gest%C3%A3o-de-clientes/configurar-beneficios-para-funcionarios-usando-master-data-clusters_1.png)
 
-<div class="alert-info" role="alert">São muitos os detalhes para configurar uma promoção. Se você precisar de informações adicionais sobre este assunto, consulte o artigo [Criar promoções](/pt/tutorial/como-criar-promocoes--tutorials_320).</div>
+> ℹ️ São muitos os detalhes para configurar uma promoção. Se você precisar de informações adicionais sobre este assunto, consulte o artigo [Criar promoções](/pt/tutorial/como-criar-promocoes--tutorials_320).
 
 Com o campo configurado, a promoção pode ser criada seguindo os passos abaixo:
 

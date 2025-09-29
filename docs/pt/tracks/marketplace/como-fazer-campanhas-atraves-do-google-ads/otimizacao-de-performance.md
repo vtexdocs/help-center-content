@@ -23,9 +23,7 @@ Aqui ensinaremos como otimizar uma campanha a partir da exclusão de Categorias 
 
 Consequentemente, a otimização de uma campanha também pode ser feita a partir da exclusão de Subcategorias, desde que faça sentido para a estratégia de uma campanha.
 
-<div class=“ alert alert-warning” >
-**Atenção**: o VTEX Shopping Ads só permite a otimização de campanhas do tipo Google Smart Shopping criadas no próprio aplicativo. As demais campanhas têm apenas seus resultados exibidos no VTEX Shopping Ads, enquanto a sua gestão é feita no painel do Google Ads.
-</div>
+> ⚠️ **Atenção**: o VTEX Shopping Ads só permite a otimização de campanhas do tipo Google Smart Shopping criadas no próprio aplicativo. As demais campanhas têm apenas seus resultados exibidos no VTEX Shopping Ads, enquanto a sua gestão é feita no painel do Google Ads.
 
 1. No canto superior direito da tela, clique em __Audiência das campanhas__;
 2. Clique na __campanha__ Smart Shopping que deseja otimizar;

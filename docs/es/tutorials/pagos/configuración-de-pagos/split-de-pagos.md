@@ -24,9 +24,7 @@ A continuación se muestran dos ejemplos de escenarios de aplicación de split d
 1. Cuando el marketplace es responsable de procesar el pago de la compra, VTEX automáticamente divide este pago para que cada beneficiario reciba su parte directamente en su propia cuenta bancaria, realizando así el [Split de cobros](/es/tutorial/split-de-pagos--6k5JidhYRUxileNolY2VLx#split-de-cobros).
 2. Cuando el carrito involucra sellers que son responsables de procesar su propio método de pago (sin depender del marketplace), VTEX crea diferentes transacciones de pago para el marketplace y los sellers, realizando el [Split de transacción](/es/tutorial/split-de-pagos--6k5JidhYRUxileNolY2VLx#split-de-transaccion).
 
-<div class="alerta alerta-advertencia">
-La distribución de los importes de las compras siempre se lleva a cabo de acuerdo con acuerdos de porcentaje de comisión predefinidos entre el marketplace y los sellers.
-</div>
+> ⚠️ La distribución de los importes de las compras siempre se lleva a cabo de acuerdo con acuerdos de porcentaje de comisión predefinidos entre el marketplace y los sellers.
 
 Consulte a continuación para obtener más detalles sobre cada uno de los modelos de split de pagos:
 

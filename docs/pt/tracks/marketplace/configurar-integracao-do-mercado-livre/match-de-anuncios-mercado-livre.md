@@ -66,9 +66,7 @@ No topo da tela é possível acompanhar quantos dos catálogos ativos estão em 
 
 ![relevancia-anuncio-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/marketplace/configurar-integracao-do-mercado-livre/match-de-anuncios-mercado-livre_2.png)
 
-<div class=”alert alert-info>
- Os anúncios ganham relevância quando eles oferecem os melhores preços e as melhores condições logísticas.  
-</div>
+> ℹ️ Os anúncios ganham relevância quando eles oferecem os melhores preços e as melhores condições logísticas.  
 
 A relevância de um anúncio mostra se a oferta do seller aparece como a primeira no anúncio do catálogo no marketplace ou se ele não é a primeira oferta. Os possíveis status para uma oferta são:
 

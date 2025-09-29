@@ -57,7 +57,5 @@ Follow the steps below to import a redirect.
 
 If you want to export your redirects, click <i class="fas fa-download"></i> `Export`, and they will be downloaded to your computer. 
 
-<div class="alert-info">
-You cannot create redirects via predefined routes like "home", "/", "login", "account", etc. We recommend creating them manually by following the instructions mentioned above.
-</div>
+> ℹ️ You cannot create redirects via predefined routes like "home", "/", "login", "account", etc. We recommend creating them manually by following the instructions mentioned above.
 

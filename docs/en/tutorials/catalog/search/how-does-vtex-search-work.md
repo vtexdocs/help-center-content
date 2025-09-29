@@ -101,14 +101,14 @@ Considering the following indexer:
 | Ball       | Football 7       | society       | Soccer ball       |
 | Soccer boot       | Field       | Soccer boot, Soccer boot       | White       |
 
-<div class=alert>Search term 1: **Soccer ball**</div>
+> ℹ️ Search term 1: **Soccer ball**
 
 Result:
 1. **Soccer ball** (Highest ranked, since the term corresponds exactly to the product name)
 2. **Ball** (Second best ranked, since the term corresponds to a specification value)
 3. **Soccer boot** (Third best ranked, since part of the term corresponds to part of the product name)
 
-<div class=alert>Search term 2: **White Ball**</div>
+> ℹ️ Search term 2: **White Ball**
 
 Result:
 1. **Ball** (Best ranked, since part of the term corresponds exactly to the product name)

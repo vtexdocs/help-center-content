@@ -48,9 +48,7 @@ Siga as instruções abaixo para criar uma nova chave de API:
 4. Preencha o campo **Identificação da chave** com o nome para identificar a chave de API. Este campo é obrigatório.  
 5. Selecione os [perfis de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) que serão associados à chave. Por padrão, nenhum perfil de acesso é pré-selecionado.
 
-   <div class="alert alert-error">
-     Marque apenas os perfis de acesso necessários para a integração que utilizará a chave de API. O uso irrestrito de perfis de acesso muito permissivos aumenta o risco de ataques nas lojas por vazamento de credenciais de login.
-   </div>
+   > ℹ️ Marque apenas os perfis de acesso necessários para a integração que utilizará a chave de API. O uso irrestrito de perfis de acesso muito permissivos aumenta o risco de ataques nas lojas por vazamento de credenciais de login.
 
 6. Clique em `Gerar`.
 
@@ -91,9 +89,7 @@ Siga o passo a passo abaixo para inativar ou ativar uma chave de API:
    * **Inativar:** se a chave estiver **ativa**, clique em <i class="far fa-pause-circle"></i> `Inativar` para desabilitá-la. Essa ação vai interromper integrações que utilizem a chave, então utilize-a com cautela. É necessário clicar em `Inativar` mais uma vez para confirmar a ação.  
    * **Ativar:** se a chave estiver **inativa**, clique em <i class="far fa-play-circle"></i> `Ativar` para disponibilizá-la para uso.
 
-<div class="alert alert-error">
-  Apenas reative a chave de API se tiver certeza de que ela não foi comprometida. Quando a chave está ativa, qualquer pessoa com o token de API associado pode ter acesso à sua conta.
-</div>
+> ℹ️ Apenas reative a chave de API se tiver certeza de que ela não foi comprometida. Quando a chave está ativa, qualquer pessoa com o token de API associado pode ter acesso à sua conta.
 
 ## Renovar token
 

@@ -127,7 +127,7 @@ A SKU can have up to 6 videos, and you can only add them using links from either
 - `https://www.youtube.com/embed/{VIDEO_ID}`
 - `https://www.youtube.com/v/{VIDEO_ID}`
 
-<div class=“alert alert-warning”>Replace `{VIDEO_ID}` with the ID of the video you want to display.</div>
+> ⚠️ Replace `{VIDEO_ID}` with the ID of the video you want to display.
 
 ## Identifiers
 

@@ -42,6 +42,4 @@ Now we will create the payment condition.
 4. Enter a name for this payment condition, change the status to **Active**, and in the **Process with affiliation** field, select the custom payment you created in the previous step.
 5. Click on `Save`.
 
-<div class="alert-info">
-In addition to the settings above, you must follow the **[Define payment methods displayed in VTEX Sales App](/en/tracks/instore-pagamentos--43B4Nr7uZva5UdwWEt3PEy/jHQQcyX3WKeUFidwSjmY1)** guide so that the payment options are displayed correctly in the app.
-</div>
+> ℹ️ In addition to the settings above, you must follow the **[Define payment methods displayed in VTEX Sales App](/en/tracks/instore-pagamentos--43B4Nr7uZva5UdwWEt3PEy/jHQQcyX3WKeUFidwSjmY1)** guide so that the payment options are displayed correctly in the app.

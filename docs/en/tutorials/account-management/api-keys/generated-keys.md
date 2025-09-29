@@ -48,9 +48,7 @@ Follow the instructions below to create a new API key:
 4. Complete the **Key identification** field with a name to identify the API key. This field is required.  
 5. Select the [roles](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) that will be associated with the key. By default, no role is pre-selected.  
 
-   <div class="alert alert-error">
-     Select only the roles required for the integration that will use the API key. Unrestricted use of overly permissive roles increases the risk of store attacks through leaked login credentials.
-   </div>
+   > ℹ️ Select only the roles required for the integration that will use the API key. Unrestricted use of overly permissive roles increases the risk of store attacks through leaked login credentials.
 
 6. Click `Generate`.
 
@@ -92,9 +90,7 @@ Follow the steps below to change an API key:
    * **Deactivate:** If the key is **active**, click <i class="far fa-pause-circle"></i> `Deactivate` to deactivate it. This action will interrupt integrations using the key, so use it with caution. You need to click `Deactivate` again to confirm the action.  
    * **Activate:** If the key is **inactive**, click <i class="far fa-play-circle"></i>`Activate` to activate it.
 
-<div class="alert alert-error">
-  You should only reactivate an API key if you are sure it has not been compromised. Anyone with the associated API token can access your account when the key is active.
-</div>
+> ℹ️ You should only reactivate an API key if you are sure it has not been compromised. Anyone with the associated API token can access your account when the key is active.
 
 ## Renewing tokens
 

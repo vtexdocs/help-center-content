@@ -35,9 +35,7 @@ Para realizar o mapeamento de categorias de cada produto, siga as instruções a
 
 O **mapeamento de atributos** realiza a equivalência dos atributos dos produtos no catálogo VTEX com os atributos dos produtos no marketplace. Os atributos mapeados são **marca, cor, tamanho, gênero e faixa etária.**  
 
-<div class="alert alert warning">
-Todos os atributos devem ser confirmados, inclusive os que apresentam a mensagem “Atributo mapeado automaticamente”. A falta de confirmação da equivalência implica em um mapeamento incorreto.
-</div>
+> ℹ️ Todos os atributos devem ser confirmados, inclusive os que apresentam a mensagem “Atributo mapeado automaticamente”. A falta de confirmação da equivalência implica em um mapeamento incorreto.
 
 Para realizar o mapeamento dos atributos dos produtos, siga as instruções abaixo:    
 

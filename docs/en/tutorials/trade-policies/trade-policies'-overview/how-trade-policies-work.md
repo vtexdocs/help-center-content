@@ -35,8 +35,7 @@ To [request additional trade policies](/en/tutorial/contratacao-de-politica-come
 
 Additional trade policies to integrate with [certified connectors](/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrating-with-a-certified-connector-partner), or other VTEX stores are free of charge.
 
-<div class=alert alert-warning>
-If the same trade policy is applied to a certified connector and a partner connector, there is no fee exemption.</div>
+> ⚠️ If the same trade policy is applied to a certified connector and a partner connector, there is no fee exemption.
 
 ## Catalog
 You can restrict which products are available for certain trade policies when [adding new products](/en/tutorial/cadastrando-produtos--tutorials_2567) to the catalog. In doing so, the catalog will be segmented according to different business strategies. These strategies can have products segmented by region, marketplace, or specific types of customers, such as employees. Learn more about how to configure your [catalog](/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ).

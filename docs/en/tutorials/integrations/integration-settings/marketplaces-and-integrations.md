@@ -79,9 +79,7 @@ A success message will appear on the screen.
 
 If the seller needs to contact the same marketplace again, repeat the steps above.  
 
-<div class=alert alert-info>
-The potential business partner will receive an email with the information in the Message field. If the interest is mutual, the seller or marketplace can contact you to negotiate the agreement terms between the marketplace and the seller.
-</div>  
+> ℹ️ The potential business partner will receive an email with the information in the Message field. If the interest is mutual, the seller or marketplace can contact you to negotiate the agreement terms between the marketplace and the seller.
 
 ## Editing  
 

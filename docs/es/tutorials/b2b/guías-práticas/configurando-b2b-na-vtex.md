@@ -21,9 +21,8 @@ En VTEX, ambientes B2B normalmente son completamente o parcialmente bloqueados p
 
 Consulte a continuación los ajustes necesarios para transformar una cuenta en una cuenta B2B en VTEX.
 
-<div class="alert-info">
-Todas las tiendas B2B que se preparen para entrar en producción y hacer la configuración final del dominio deben ponerse en contacto con [nuestro Soporte](https://support.vtex.com/hc/pt-br/requests) con antelación y solicitar que se haga la configuración interna.
-</div>
+> ℹ️ Todas las tiendas B2B que se preparen para entrar en producción y hacer la configuración final del dominio deben ponerse en contacto con [nuestro Soporte](https://support.vtex.com/hc/pt-br/requests) con antelación y solicitar que se haga la configuración interna.
+
 
 ## Prerrequisito
 
