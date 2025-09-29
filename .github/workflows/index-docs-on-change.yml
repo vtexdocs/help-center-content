@@ -1,0 +1,175 @@
+name: Index changed docs to Algolia
+
+on:
+  pull_request:
+    types: [closed]
+    paths:
+      - 'docs/**/*.md'
+  workflow_dispatch:
+    inputs:
+      file:
+        description: 'Optional markdown file path to index (e.g., docs/en/path/to/file.md)'
+        required: false
+        type: string
+
+jobs:
+  index-docs:
+    # Run only for merged PRs or manual dispatch
+    if: ${{ github.event_name == 'workflow_dispatch' || (github.event_name == 'pull_request' && github.event.action == 'closed' && github.event.pull_request.merged == true) }}
+    name: Index changed markdown files
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    permissions:
+      contents: read
+    env:
+      # Algolia configuration (set these in repository Secrets)
+      NEXT_PUBLIC_ALGOLIA_APPLICATION_ID: ${{ secrets.ALGOLIA_APPLICATION_ID }}
+      ALGOLIA_ADMIN_API_KEY: ${{ secrets.ALGOLIA_ADMIN_API_KEY }}
+      ALGOLIA_INDEX_NAME: ${{ secrets.ALGOLIA_INDEX_NAME }}
+      # Help Center hostname used to construct record URLs (optional override via repo Variables)
+      HELP_CENTER_HOSTNAME: ${{ vars.HELP_CENTER_HOSTNAME || 'newhelp.vtex.com' }}
+
+      # GitHub API token to increase rate limits for content fetches
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      # Optional PAT for analyzer checkout if private; exposed as env so we can use in 'if' conditions
+      ANALYZER_REPO_TOKEN: ${{ secrets.ANALYZER_REPO_TOKEN }}
+
+      # Repository context that the analyzer API uses to fetch markdown files
+      OWNER: ${{ github.repository_owner }}
+      REPO: ${{ github.event.repository.name }}
+
+      # Analyzer repository location and branch
+      ANALYZER_REPO_SLUG: vtexdocs/algolia-index-analyzer
+      ANALYZER_REF: design/cli-indexer-proposal
+
+    steps:
+      - name: Checkout content repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set analyzer directory (supports act bind-mount)
+        run: |
+          if [ "${ACT:-}" = "true" ]; then
+            echo "ANALYZER_DIR=/home/runner/algolia-index-analyzer" >> "$GITHUB_ENV"
+          else
+            echo "ANALYZER_DIR=algolia-index-analyzer" >> "$GITHUB_ENV"
+          fi
+
+
+      - name: Checkout analyzer repo (default token)
+        if: ${{ env.ACT != 'true' && (env.ANALYZER_REPO_TOKEN == '' || env.ANALYZER_REPO_TOKEN == null) }}
+        uses: actions/checkout@v4
+        with:
+          repository: ${{ env.ANALYZER_REPO_SLUG }}
+          ref: ${{ env.ANALYZER_REF }}
+          path: ${{ env.ANALYZER_DIR }}
+
+      - name: Checkout analyzer repo (PAT)
+        if: ${{ env.ACT != 'true' && env.ANALYZER_REPO_TOKEN != '' }}
+        uses: actions/checkout@v4
+        with:
+          repository: ${{ env.ANALYZER_REPO_SLUG }}
+          ref: ${{ env.ANALYZER_REF }}
+          path: ${{ env.ANALYZER_DIR }}
+          token: ${{ env.ANALYZER_REPO_TOKEN }}
+
+      - name: Setup Node.js (act)
+        if: ${{ env.ACT == 'true' }}
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Setup Node.js (CI)
+        if: ${{ env.ACT != 'true' }}
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+          cache-dependency-path: ${{ env.ANALYZER_DIR }}/package-lock.json
+
+      - name: Install analyzer dependencies
+        run: npm ci --no-audit --no-fund
+        working-directory: ${{ env.ANALYZER_DIR }}
+
+
+      - name: Ensure jq is installed
+        run: |
+          set -euo pipefail
+          if command -v jq >/dev/null 2>&1; then
+            echo "jq already installed"
+          else
+            if command -v apt-get >/dev/null 2>&1; then
+              sudo apt-get update || apt-get update
+              sudo apt-get install -y jq || apt-get install -y jq
+            elif command -v apk >/dev/null 2>&1; then
+              sudo apk add --no-cache jq || apk add --no-cache jq
+            else
+              echo "Package manager not found; please ensure jq is available" >&2
+              exit 1
+            fi
+          fi
+
+      - name: Compute changed files (docs/**/*.md)
+        id: changed
+        if: ${{ github.event_name != 'workflow_dispatch' || inputs.file == '' }}
+        run: |
+          set -euo pipefail
+          if [ "${{ github.event_name }}" = "pull_request" ]; then
+            BASE_SHA="${{ github.event.pull_request.base.sha }}"
+            MERGE_SHA="${{ github.event.pull_request.merge_commit_sha }}"
+            # Fetch specific commits (fallback to base ref)
+            git fetch --no-tags --prune origin "$BASE_SHA" || git fetch --no-tags --prune origin "${{ github.event.pull_request.base.ref }}" --depth=100
+            if [ -n "$MERGE_SHA" ]; then
+              git fetch --no-tags --prune origin "$MERGE_SHA" || git fetch --no-tags --prune origin "${{ github.event.pull_request.base.ref }}" --depth=100
+              BASE="$BASE_SHA"
+              HEAD="$MERGE_SHA"
+            else
+              # Fallback: diff base SHA vs latest base ref
+              git fetch --no-tags --prune origin "${{ github.event.pull_request.base.ref }}" --depth=1
+              BASE="$BASE_SHA"
+              HEAD="origin/${{ github.event.pull_request.base.ref }}"
+            fi
+          else
+            # Manual run without specific file input: diff last commit against origin/main
+            BASE="$(git rev-parse HEAD~1 2>/dev/null || echo '')"
+            if [ -z "$BASE" ]; then
+              git fetch --no-tags --prune origin main --depth=2
+              BASE="$(git rev-parse origin/main)"
+            fi
+            HEAD="$(git rev-parse HEAD)"
+          fi
+          CHANGED=$(git --no-pager diff --name-status "$BASE" "$HEAD" -- 'docs/**/*.md' | awk '$1 != "D" {print $NF}' | jq -R -s -c 'split("\n")|map(select(length>0))')
+          echo "files=$CHANGED" >> "$GITHUB_OUTPUT"
+
+      - name: No docs changed
+        if: ${{ github.event_name != 'workflow_dispatch' && steps.changed.outputs.files == '[]' }}
+        run: echo "No markdown files changed under docs/, skipping."
+
+      - name: Build file matrix from manual input
+        id: manual
+        if: ${{ github.event_name == 'workflow_dispatch' && inputs.file != '' }}
+        run: |
+          echo "files=[\"${{ inputs.file }}\"]" >> "$GITHUB_OUTPUT"
+
+      - name: Index changed docs
+        if: ${{ (github.event_name == 'workflow_dispatch' && inputs.file != '') || steps.changed.outputs.files != '[]' }}
+        run: |
+          set -euo pipefail
+          FILES_JSON='${{ steps.manual.outputs.files || steps.changed.outputs.files }}'
+          echo "Indexing files: $FILES_JSON"
+          echo "$FILES_JSON" | jq -r '.[]' | while read -r file; do
+            [ -z "$file" ] && continue
+            lang="$(echo "$file" | awk -F/ '{print $2}')"
+            echo "Indexing $file (language=$lang)"
+            # Direct mode: run without starting Next.js server
+            node scripts/cli-index.js \
+              --direct \
+              --file "$file" \
+              --language "$lang" \
+              --index-name "${ALGOLIA_INDEX_NAME}" \
+              --owner "${OWNER}" \
+              --repo "${REPO}" \
+              --json
+          done
+        working-directory: ${{ env.ANALYZER_DIR }}
