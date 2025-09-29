@@ -31,6 +31,8 @@ jobs:
 
       # GitHub API token to increase rate limits for content fetches
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      # Optional PAT for analyzer checkout if private; exposed as env so we can use in 'if' conditions
+      ANALYZER_REPO_TOKEN: ${{ secrets.ANALYZER_REPO_TOKEN }}
 
       # Repository context that the analyzer API uses to fetch markdown files
       OWNER: ${{ github.repository_owner }}
@@ -56,7 +58,7 @@ jobs:
 
 
       - name: Checkout analyzer repo (default token)
-        if: ${{ env.ACT != 'true' && (secrets.ANALYZER_REPO_TOKEN == '' || secrets.ANALYZER_REPO_TOKEN == null) }}
+        if: ${{ env.ACT != 'true' && (env.ANALYZER_REPO_TOKEN == '' || env.ANALYZER_REPO_TOKEN == null) }}
         uses: actions/checkout@v4
         with:
           repository: ${{ env.ANALYZER_REPO_SLUG }}
@@ -64,13 +66,13 @@ jobs:
           path: ${{ env.ANALYZER_DIR }}
 
       - name: Checkout analyzer repo (PAT)
-        if: ${{ env.ACT != 'true' && secrets.ANALYZER_REPO_TOKEN != '' }}
+        if: ${{ env.ACT != 'true' && env.ANALYZER_REPO_TOKEN != '' }}
         uses: actions/checkout@v4
         with:
           repository: ${{ env.ANALYZER_REPO_SLUG }}
           ref: ${{ env.ANALYZER_REF }}
           path: ${{ env.ANALYZER_DIR }}
-          token: ${{ secrets.ANALYZER_REPO_TOKEN }}
+          token: ${{ env.ANALYZER_REPO_TOKEN }}
 
       - name: Setup Node.js (act)
         if: ${{ env.ACT == 'true' }}
