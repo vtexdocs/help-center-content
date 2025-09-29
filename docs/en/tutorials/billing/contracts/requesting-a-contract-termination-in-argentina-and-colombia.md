@@ -1,7 +1,7 @@
 ---
 title: 'Requesting a contract termination in Argentina and Colombia'
 id: 33g6mUoYB9Mf04C06gSU0a
-status: CHANGED
+status: PUBLISHED
 createdAt: 2020-06-25T22:12:14.589Z
 updatedAt: 2020-11-27T19:40:05.265Z
 publishedAt: 2020-07-09T19:17:08.011Z

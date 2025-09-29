@@ -25,7 +25,7 @@ In such cases, VTEX must be notified to ensure that the new cards are correctly 
 
 ## Submitting an add BIN request
 
-To add a new BIN or update an existing one on VTEX, please open a ticket with [VTEX Support](/en/support).
+To add a new BIN or update an existing one on VTEX, please open a ticket with [VTEX Support](https://help.vtex.com/en/support).
 
 > ⚠️ To ensure the security and legitimacy of the requested changes, it is mandatory to provide formal proof from the financial institution confirming ownership of the informed BINs. Requests without this validation cannot be processed.
 

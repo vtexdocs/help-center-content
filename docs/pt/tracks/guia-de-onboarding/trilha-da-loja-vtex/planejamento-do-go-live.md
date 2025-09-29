@@ -61,7 +61,7 @@ Após a data do lançamento oficial, com a loja operando plenamente, os desenvol
 
 Antes de realizar o go-live, é essencial garantir todas as configurações essenciais para o bom funcionamento da loja. Para isso, recomendamos verificar a [Checklist de configuração de loja](https://assets.ctfassets.net/alneenqid6w5/3yv1ofQRJ5xeX7J5EGglGy/dbe5b9175ab01586916c6155ac5681fa/Checklist_de_configura____o_de_loja.xlsx). É preciso confirmar em cada item se as configurações foram concluídas de acordo com as características de operação da loja.
 
-> ⚠️ A checklist indicada acima lista funcionalidades e configurações básicas para o funcionamento de uma loja VTEX. É de responsabilidade da [equipe de implementação](/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#parceiros-de-implementacao) de cada loja definir quais funcionalidades e configurações devem ser aplicadas de maneira a produzir a experiência de compra desejada para os clientes. Recomendamos verificar todos os aspectos operacionais da loja e acrescentá-los à lista, caso não estejam presentes.
+> ⚠️ A checklist indicada acima lista funcionalidades e configurações básicas para o funcionamento de uma loja VTEX. É de responsabilidade da [equipe de implementação](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#parceiros-de-implementacao) de cada loja definir quais funcionalidades e configurações devem ser aplicadas de maneira a produzir a experiência de compra desejada para os clientes. Recomendamos verificar todos os aspectos operacionais da loja e acrescentá-los à lista, caso não estejam presentes.
 
 ## 3. Configurações de domínio e conta
 
@@ -81,7 +81,7 @@ Recomendamos realizar testes antes do go-live para observar o comportamento da l
 
 Na VTEX, é possível criar ambientes separados para esses testes. Nesse caso, é preciso replicar as configurações do ambiente principal que serão testadas. Por exemplo, se o objetivo é testar o funcionamento de uma promoção, é preciso fazer todas as configurações necessárias para simular um cenário em que ela seria aplicada, incluindo produtos, preços, logística, checkout, meios de pagamento, entre outros.
 
-Para planejar a fase de testes, vale entrar em contato com o [nosso suporte](/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy), que é por onde é feita a [contratação de um ambiente de teste](/pt/tutorial/contratar-ambiente-de-testes--2nmZAHlfQoGsCWmEWGIoGy).
+Para planejar a fase de testes, vale entrar em contato com o [nosso suporte](/pt/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy), que é por onde é feita a [contratação de um ambiente de teste](/pt/tutorial/contratar-ambiente-de-testes--2nmZAHlfQoGsCWmEWGIoGy).
 
 > ℹ️ Se a loja for [construída com VTEX IO](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ#ambiente-de-desenvolvimento), é possível realizar testes A/B entre workspaces, ou seja, comparar a performance de ambientes de desenvolvimento de frente de loja. Para mais detalhes, basta acessar o guia para desenvolvedores [Running A/B tests](https://developers.vtex.com/docs/guides/vtex-io-documentation-running-native-ab-testing).
 
@@ -105,7 +105,7 @@ Após a conclusão dos testes e ajustes necessários, é preciso preparar a loja
 
    > ⚠️ Após realizar o cadastro, existe um prazo de sete dias para concluir o go-live. Caso a loja não conclua os procedimentos necessários para go-live neste período, será preciso acessar o cadastro realizado e salvá-lo novamente.
 
-2. **Solicitar apontamento interno:** abrir um ticket para o [Suporte VTEX](/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy) para solicitar o apontamento interno de DNS. O tempo para a conclusão desta solicitação pode ser de até três dias úteis.
+2. **Solicitar apontamento interno:** abrir um ticket para o [Suporte VTEX](/pt/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy) para solicitar o apontamento interno de DNS. O tempo para a conclusão desta solicitação pode ser de até três dias úteis.
 
     O tipo da solicitação encaminhada deve ser de acordo com a [tecnologia escolhida](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ#escolhendo-a-tecnologia) para a frente de loja:
 
@@ -119,11 +119,11 @@ Após a conclusão dos testes e ajustes necessários, é preciso preparar a loja
   <tbody>
     <tr class="bb b--muted-3">
       <td class="t-body pa5" style="min-width: 10rem;">Store Framework ou FastStore (VTEX IO)</td>
-      <td class="t-body pa5" style="min-width: 10rem;">Solicitar o [apontamento interno de DNS para VTEX IO](/pt/tracks/realizando-o-go-live-da-sua-loja--4Ns5FxIiksmjsdX2yOTduM/7sM5IMx02zaHvAFTm0OxiJ#solicitar-apontamento-io) por meio de um ticket para o [Suporte VTEX](/pt/support).<br>Mais informações nos artigos:<ul><li>[Going live with a new store](https://developers.vtex.com/docs/guides/vtex-io-documentation-go-live) (Store Framework)</li><li>[Migrating your storefront from Legacy CMS Portal to Store Framework](https://developers.vtex.com/docs/guides/vtex-io-documentation-migrating-storefront-from-legacy-to-io)</li><li>[Configuring external DNS for a custom domain](https://www.faststore.dev/docs/go-live/2-configuring-external-dns) (FastStore)</li></ul></td>
+      <td class="t-body pa5" style="min-width: 10rem;">Solicitar o [apontamento interno de DNS para VTEX IO](/pt/tracks/realizando-o-go-live-da-sua-loja--4Ns5FxIiksmjsdX2yOTduM/7sM5IMx02zaHvAFTm0OxiJ#solicitar-apontamento-io) por meio de um ticket para o [Suporte VTEX](https://help.vtex.com/pt/support).<br>Mais informações nos artigos:<ul><li>[Going live with a new store](https://developers.vtex.com/docs/guides/vtex-io-documentation-go-live) (Store Framework)</li><li>[Migrating your storefront from Legacy CMS Portal to Store Framework](https://developers.vtex.com/docs/guides/vtex-io-documentation-migrating-storefront-from-legacy-to-io)</li><li>[Configuring external DNS for a custom domain](https://www.faststore.dev/docs/go-live/2-configuring-external-dns) (FastStore)</li></ul></td>
     </tr>
     <tr class="bb b--muted-3">
       <td class="t-body pa5" style="min-width: 10rem;">CMS Portal Legado</td>
-      <td class="t-body pa5" style="min-width: 10rem;">Se o acesso à loja é restrito por [política comercial](/pt/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE) com regra condicional e sua frente de loja foi construída com [CMS Portal Legado](/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj), é preciso solicitar um [apontamento interno especial](/pt/tracks/go-live-your-store--4Ns5FxIiksmjsdX2yOTduM/7sM5IMx02zaHvAFTm0OxiJ#solicitar-apontamento-especial). Um exemplo comum são as lojas B2B, que restringem o acesso a empresas pré-aprovadas. A solicitação de apontamento especial é feita pelo [Suporte VTEX](/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ/), indicando a política comercial e a regra condicional configurada.</td>
+      <td class="t-body pa5" style="min-width: 10rem;">Se o acesso à loja é restrito por [política comercial](/pt/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE) com regra condicional e sua frente de loja foi construída com [CMS Portal Legado](/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj), é preciso solicitar um [apontamento interno especial](/pt/tracks/go-live-your-store--4Ns5FxIiksmjsdX2yOTduM/7sM5IMx02zaHvAFTm0OxiJ#solicitar-apontamento-especial). Um exemplo comum são as lojas B2B, que restringem o acesso a empresas pré-aprovadas. A solicitação de apontamento especial é feita pelo [Suporte VTEX](/pt/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ/), indicando a política comercial e a regra condicional configurada.</td>
     </tr>
   </tbody>
   </table>

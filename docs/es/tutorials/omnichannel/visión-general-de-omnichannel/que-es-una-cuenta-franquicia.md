@@ -42,7 +42,7 @@ Una cuenta franquicia no tiene su propio sitio web. Los consumidores navegan dir
 
 ## Relación entre la cuenta franquicia y el _Seller White Label_
 
-Cada cuenta franquicia opera automáticamente como un _Seller White Label_ de la cuenta principal. Esto significa que cuando el consumidor añade un producto al carrito y simula el costo de envío en la tienda de la cuenta principal, el sistema selecciona automáticamente el _Seller White Label _que tiene ese producto en _stock_ y muestra las formas de entrega de los _sellers _que ofrecen las mejores condiciones. Para saber más sobre el algoritmo de selección de _Sellers White Label_, lee nuestro [artículo](/pt/tutorial/algoritmo-de-selecao-de-sellers-white-label--3MemNQ4pKkWCpMdzI27AHa) sobre el tema.
+Cada cuenta franquicia opera automáticamente como un _Seller White Label_ de la cuenta principal. Esto significa que cuando el consumidor añade un producto al carrito y simula el costo de envío en la tienda de la cuenta principal, el sistema selecciona automáticamente el _Seller White Label _que tiene ese producto en _stock_ y muestra las formas de entrega de los _sellers _que ofrecen las mejores condiciones. Para saber más sobre el algoritmo de selección de _Sellers White Label_, lee nuestro [artículo](/es/tutorial/algoritmo-de-selecao-de-sellers-white-label--3MemNQ4pKkWCpMdzI27AHa) sobre el tema.
 
 Los clientes finales no eligen ni tienen visibilidad de la existencia de los _Sellers White Label_ en ningún momento del proceso. En esta lógica, la relación de los consumidores es con la marca (cuenta principal) y no con cada tienda física (cuenta franquicia).
 
@@ -64,7 +64,7 @@ Para que la cuenta franquicia utilice los precios configurados en la cuenta prin
 
 Para configurar precios propios de la cuenta franquicia, es necesario quitar la marca de la casilla **Heredar precios de la cuenta padre** en la Configuración del módulo de **Precios** de la cuenta franquicia, como se describe en [este artículo](/es/tutorial/price-configuration--3hbBtCzNUBrj8GaWgCtSWN). Además, es necesario configurar los precios deseados en el [módulo de Precios](/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP) o mediante la [API de Pricing](https://developers.vtex.com/vtex-rest-api/reference/pricing-api-overview).
 
-Para garantizar una experiencia de compra uniforme, es importante [configurar la regionalización](/pt/tutorial/configurar-a-regionalizacao-de-sellers--32t6wLpQCEnumoh8TjT5fw?&utm_source=autocomplete) cuando cada cuenta franquicia tiene precios diferentes.
+Para garantizar una experiencia de compra uniforme, es importante [configurar la regionalización](/es/tutorial/configurar-a-regionalizacao-de-sellers--32t6wLpQCEnumoh8TjT5fw?&utm_source=autocomplete) cuando cada cuenta franquicia tiene precios diferentes.
 La adopción de la regionalización posibilita solicitar el código postal del cliente antes de que este inicie la navegación, lo que a su vez permite mostrar los productos y precios correspondientes a la cuenta franquicia antes de continuar al checkout.
 Si la regionalización no está activa, puede haber casos en los que el consumidor vea un determinado valor de producto al navegar por la tienda, pero al llegar al checkout e ingresar el código postal se determine que la cuenta franquicia que debe atender el pedido es otra y, por lo tanto, el precio sea diferente.
 Esto ocurre porque el catálogo de menor precio es priorizado durante la navegación por la tienda. Sin embargo, en el checkout, si la cuenta franquicia de menor precio no tiene stock disponible, se seleccionará el catálogo de otro seller que tenga stock del producto disponible y se actualizará el precio al valor utilizado por dicho seller.
@@ -93,7 +93,7 @@ Existen varios tipos de configuración posibles para los precios y medios de pag
 
 ## Solicitar la creación de una cuenta franquicia
 
-Para abrir una cuenta franquicia, póngase en contacto con nuestro equipo de Growth Operations por el [*Soporte*](/es/support) seleccionando la opción **Comercial** y el tipo de solicitud `Creación de Entorno White Label`.
+Para abrir una cuenta franquicia, póngase en contacto con nuestro equipo de Growth Operations por el [*Soporte*](https://help.vtex.com/es/support) seleccionando la opción **Comercial** y el tipo de solicitud `Creación de Entorno White Label`.
 
 La creación de una cuenta franquicia tiene un costo previsto en su contrato de OMS. Si el costo no está previsto en su contrato, añada esta observación a su solicitud para que se añada una adenda al contrato. 
 

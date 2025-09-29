@@ -23,7 +23,7 @@ Hay diferentes maneras de utilizar los puntos de recogida dependiendo de la orga
 * Tiendas físicas que también son puntos de recogida.
 * Locales exclusivos para la recogida de pedidos.
 
-En todos estos casos hay que prestar atención a la necesidad (o no) de transporte entre el [stock](/en/tutorial/warehouse--6oIxvsVDTtGpO7y6zwhGpb) y el punto de recogida. En este caso, [configura](#como-configurar) los puntos de recogida con las transportadoras que llevan los paquetes hasta el punto de recogida. 
+En todos estos casos hay que prestar atención a la necesidad (o no) de transporte entre el [stock](/es/tutorial/warehouse--6oIxvsVDTtGpO7y6zwhGpb) y el punto de recogida. En este caso, [configura](#como-configurar) los puntos de recogida con las transportadoras que llevan los paquetes hasta el punto de recogida. 
 
 ## Cómo funcionan puntos de recogida
 
@@ -39,9 +39,9 @@ Es importante observar que:
 
 * Los puntos de recogida que le aparecen al cliente en el _checkout_ dependen de la disponibilidad de los ítems y del transporte hasta el punto de recogida.
 * VTEX limita la ubicación a un radio de 50 km entre el punto de recogida y la dirección del cliente.
-* Cuando hay transporte entre el [stock](/en/tutorial/warehouse--6oIxvsVDTtGpO7y6zwhGpb) y el punto de recogida, VTEX también toma en cuenta la existencia de la ruta a la hora de elegir el punto de recogida.
+* Cuando hay transporte entre el [stock](/es/tutorial/warehouse--6oIxvsVDTtGpO7y6zwhGpb) y el punto de recogida, VTEX también toma en cuenta la existencia de la ruta a la hora de elegir el punto de recogida.
 
-> ℹ️ Con los puntos de recogida, VTEX también hace posible que el administrador de la tienda: <body> <ul> <li>Configure puntos de recogida de contingencia: puntos de recogida que pueden suministrar stock a otros puntos cuando sea necesario y así permitir la elección más conveniente para el comprador. Para obtener más información, visite [Punto de recogida de contingencia.](/en/tutorial/creating-a-contingency-pickup-point-to-guarantee-it-as-an-option-at-checkout--3mowqWEfjyM2g6WoWgE0Ao)</li> <li>Configure un seller white label como punto de recogida. Obtenga más información en [Configurar seller white label como punto de recogida (pickup point)](/en/tutorial/setting-up-seller-white-label-as-a-pickup-point--6fSUE2O0taaoKieAaiuc4e).</li> </ul></body>
+> ℹ️ Con los puntos de recogida, VTEX también hace posible que el administrador de la tienda: <body> <ul> <li>Configure puntos de recogida de contingencia: puntos de recogida que pueden suministrar stock a otros puntos cuando sea necesario y así permitir la elección más conveniente para el comprador. Para obtener más información, visite [Punto de recogida de contingencia.](/es/tutorial/creating-a-contingency-pickup-point-to-guarantee-it-as-an-option-at-checkout--3mowqWEfjyM2g6WoWgE0Ao)</li> <li>Configure un seller white label como punto de recogida. Obtenga más información en [Configurar seller white label como punto de recogida (pickup point)](/es/tutorial/setting-up-seller-white-label-as-a-pickup-point--6fSUE2O0taaoKieAaiuc4e).</li> </ul></body>
 
 Es importante verificar que la configuración de la cantidad de puntos de recogida esté dentro de los límites aceptados y de acuerdo con la estrategia de ventas de la tienda. Esto permite que la [simulación de envío](/es/tutorial/simulador-de-envio--tutorials_144) considere correctamente los datos y asegura, por ejemplo, que el número de puntos de recogida no limita la operación de la tienda.
 

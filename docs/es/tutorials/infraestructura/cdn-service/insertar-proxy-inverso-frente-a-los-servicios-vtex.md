@@ -34,7 +34,7 @@ Sigue las guías que se describen a continuación para implementar un proxy inve
 
 Para garantizar que tu dominio esté correctamente dirigido a la CDN de VTEX, crea un registro TXT en formato `_{hostname}` con el valor `{hostname}.cdn.vtex.com` en la zona de DNS de tu dominio.
 
-Sustituye `{hostname}` con la combinación de [subdominio, dominio y dominio de nivel superior](/pt/tutorial/configurar-o-dominio-da-loja--tutorials_2450) de tu tienda. Por ejemplo: `www.mitienda.com`. Asegúrate de incluir `_` antes del host.  
+Sustituye `{hostname}` con la combinación de [subdominio, dominio y dominio de nivel superior](/es/tutorial/configurar-o-dominio-da-loja--tutorials_2450) de tu tienda. Por ejemplo: `www.mitienda.com`. Asegúrate de incluir `_` antes del host.  
 
 Formato:
 

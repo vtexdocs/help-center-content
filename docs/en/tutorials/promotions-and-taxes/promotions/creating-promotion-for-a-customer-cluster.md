@@ -24,7 +24,7 @@ Before creating a promotion, you must define the property that determines whethe
 After configuring the property, follow the instructions below.
 
 1. In the VTEX Admin, go to *Promotions > Promotions*, or type *Promotions* in the search bar at the top of the page.
-2. Search for the promotion you would like to configure (or [create a new promotion](/pt/tutorial/como-criar-promocoes/)).
+2. Search for the promotion you would like to configure (or [create a new promotion](/en/tutorial/como-criar-promocoes/)).
 3. Go to the section **What are the conditions for the promotion to be valid?**
 4. Check the box next to **Customer cluster**.
 5. Select the criteria you would like to configure:

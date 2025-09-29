@@ -139,7 +139,7 @@ Destaque a promoção na página de produtos e adicione dados personalizados par
 
 - **Destacar nos produtos:** marque esta opção para exibir a promoção diretamente nas páginas de produtos. Lembre-se de configurar essa exibição no módulo CMS.
 
-> ℹ️ Lembre-se configurar essa exibição no módulo <a href=/pt/tutorial/configurando-promocao-com-destaque-flag--tutorials_2295>CMS.</a>
+> ℹ️ Lembre-se configurar essa exibição no módulo [CMS.](/pt/tutorial/configurando-promocao-com-destaque-flag--tutorials_2295)
 
 - **Informações adicionais:** clique em `Criar` para adicionar campos personalizados com nome e valor, que podem ser usados para customizações na loja.
 

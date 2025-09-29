@@ -25,7 +25,7 @@ En VTEX, la [política comercial](/es/tutorial/como-funciona-uma-politica-comerc
 
 Si se utiliza la misma configuración de catálogo, precio y estrategia de envío de su tienda VTEX en Amazon, no es necesario [crear una nueva política comercial](/es/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE). Se puede utilizar la misma política comercial para diferentes canales de venta.
 
-Solo tendrá que [configurar una política comercial](/pt/tutorial/configurando-a-politica-comercial-para-marketplace--tutorials_404) de marketplace específica si tiene alguno de los siguientes objetivos:
+Solo tendrá que [configurar una política comercial](/es/tutorial/configurando-a-politica-comercial-para-marketplace--tutorials_404) de marketplace específica si tiene alguno de los siguientes objetivos:
 
 - Ofrecer una selección diferente de productos en Amazon.
 - Proporcionar una cantidad de stock diferente.
@@ -34,7 +34,7 @@ Solo tendrá que [configurar una política comercial](/pt/tutorial/configurando-
 - Configurar otras condiciones de pago.
 - Definir una estrategia de envío diferente.
 
-Para [contratar políticas comerciales adicionales](/es/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X), solo tiene que rellenar el [formulario de política comercial adicional](https://docs.google.com/forms/d/e/1FAIpQLSe9qCGB_KM_xsV5e9uNe06JE8tMZrWcv6EuHUOmqTiM8oRW7w/viewform). Si tiene alguna duda, póngase en contacto con nuestro equipo de Growth Operations en *[Soporte](/es/support)* seleccionando la opción **Comercial** y el tipo de solicitud `Creación de Política Comercial`.
+Para [contratar políticas comerciales adicionales](/es/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X), solo tiene que rellenar el [formulario de política comercial adicional](https://docs.google.com/forms/d/e/1FAIpQLSe9qCGB_KM_xsV5e9uNe06JE8tMZrWcv6EuHUOmqTiM8oRW7w/viewform). Si tiene alguna duda, póngase en contacto con nuestro equipo de Growth Operations en *[Soporte](https://help.vtex.com/es/support)* seleccionando la opción **Comercial** y el tipo de solicitud `Creación de Política Comercial`.
 
 Por cada política comercial adicional se cobra una tarifa mensual, ya sea que se utilice para integración con marketplaces certificados, socios, externos o VTEX.
 
@@ -52,7 +52,7 @@ Si desea utilizar la misma Estrategia de Envío definida para su tienda VTEX en 
 
 Si desea comprobar si la configuración se ha realizado correctamente, puede realizar una [simulación de envío](/es/tutorial/simulacao-de-frete--tutorials_144). El simulador de envío es una herramienta que permite consultar las condiciones de entrega del producto sin necesidad de crear un pedido.
 
-> ℹ️ Amazon selecciona el tipo de envío a partir de la [plantilla](/es/tutorial/como-montar-a-planilha-de-frete--tutorials_127) que el administrador de la tienda [exporta](/pt/tutorial/importando-e-exportando-planilha-de-estoque--tutorials_2034). Por lo tanto, es importante que la plantilla que el administrador de la tienda exporta esté alineada con la plantilla registrada en VTEX, de modo que se reduzca la posibilidad de divergencias.
+> ℹ️ Amazon selecciona el tipo de envío a partir de la [plantilla](/es/tutorial/como-montar-a-planilha-de-frete--tutorials_127) que el administrador de la tienda [exporta](/es/tutorial/importando-e-exportando-planilha-de-estoque--tutorials_2034). Por lo tanto, es importante que la plantilla que el administrador de la tienda exporta esté alineada con la plantilla registrada en VTEX, de modo que se reduzca la posibilidad de divergencias.
 
 ### Tiempo de procesamiento
 

@@ -83,7 +83,7 @@ After creating the type of list, you will be directed to the screen showing the 
 
 - **Export to Excel**: Allows data for list types to be exported to Excel;
 - **Version**: Identifies lists created in a previous version, with limited functions. The latest version is the “V2”;
-- **Delivery**: Indicates where the product is to be delivered: to the owner of the list, the purchaser, or [if the purchase amount is to be credited to a voucher for the owner ](http://help.vtex.com/en/tutorial/setting-up-the-voucher-list "if the purchase amount is to be credited to a voucher for the owner ");
+- **Delivery**: Indicates where the product is to be delivered: to the owner of the list, the purchaser, or [if the purchase amount is to be credited to a voucher for the owner ](/en/tutorial/setting-up-the-voucher-list "if the purchase amount is to be credited to a voucher for the owner ");
 - **Visibility**: Indicates the type of visibility configured;
 - **Unique**: Indicates whether more than one list of the same type can be created;
 - **Participants**: Shows the maximum and minimum numbers of participants configured for the list;

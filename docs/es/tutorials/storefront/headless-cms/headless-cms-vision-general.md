@@ -50,4 +50,4 @@ Consulta los siguientes tutoriales para empezar a gestionar el contenido de tu s
 
 - [Gestionar Proyectos](/es/tutorial/managing-projects--42IpDFqTVTESH8DCypJMPM) 
 - [Gestión de páginas en Headless CMS](/es/tutorial/managing-pages--3DO6rBhZ1p3zndnFu5BgRt)
-- [Gestión de content types de tipo Singleton](/en/tutorial/managing-singleton-content-types--VBibMN1BqV2OFmavUFCdo)
+- [Gestión de content types de tipo Singleton](/es/tutorial/managing-singleton-content-types--VBibMN1BqV2OFmavUFCdo)

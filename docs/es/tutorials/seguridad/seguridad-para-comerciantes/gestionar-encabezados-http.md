@@ -28,7 +28,7 @@ En esta guía, aprenderás a gestionar los encabezados de respuestas de segurida
 
 ## Encabezados de respuestas de seguridad
 
-Si necesitas cambiar el valor de un encabezado de respuesta de seguridad en una tienda Store Framework, abre un ticket con el [soporte VTEX](/es/support).
+Si necesitas cambiar el valor de un encabezado de respuesta de seguridad en una tienda Store Framework, abre un ticket con el [soporte VTEX](https://help.vtex.com/es/support).
 
 A continuación se indican los encabezados que admiten modificación:
 

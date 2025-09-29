@@ -1,7 +1,7 @@
 ---
 title: 'B2W integration: automate picking request with B2W Coleta'
 id: 3yRXLH2Zc7dIOPwVWmYz26
-status: CHANGED
+status: PUBLISHED
 createdAt: 2019-11-01T17:10:58.783Z
 updatedAt: 2020-11-27T19:40:29.236Z
 publishedAt: 2019-12-31T15:13:42.979Z

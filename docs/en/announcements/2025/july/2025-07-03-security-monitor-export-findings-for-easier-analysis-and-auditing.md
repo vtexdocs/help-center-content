@@ -15,13 +15,13 @@ announcementImageID: 'undefined'
 announcementSynopsisEN: 'Export findings from Security Monitor directly from the interface to facilitate risk monitoring.'
 ---
 
-You can now export findings from [Security Monitor](/pt/tutorial/security-monitor--5LOVNLrrtmgSj99pM1NS4x) to a CSV file. With this new feature, merchants have more control to record, share, and further analyze security risks detected in their accounts.
+You can now export findings from [Security Monitor](/en/tutorial/security-monitor--5LOVNLrrtmgSj99pM1NS4x) to a CSV file. With this new feature, merchants have more control to record, share, and further analyze security risks detected in their accounts.
 
 ## What has changed?
 
 We've added the option to export findings directly from the Security Monitor dashboard. Now, you can export the findings as a CSV file, making it easier to use the data outside the VTEX platform.  
 
-Go to **Dashboards > Security Monitor > Security Monitor Dashboard** and click `Export` in the top right corner of the screen. You can select which findings to include in the exported file: *All findings*, *Open*, *Snoozed*, or *Closed*. Learn more in [Security Monitor](/pt/tutorial/security-monitor--5LOVNLrrtmgSj99pM1NS4x).
+Go to **Dashboards > Security Monitor > Security Monitor Dashboard** and click `Export` in the top right corner of the screen. You can select which findings to include in the exported file: *All findings*, *Open*, *Snoozed*, or *Closed*. Learn more in [Security Monitor](/en/tutorial/security-monitor--5LOVNLrrtmgSj99pM1NS4x).
 
 ![export-security-monitor-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2025/july/2025-07-03-security-monitor-export-findings-for-easier-analysis-and-auditing_1.gif)
 

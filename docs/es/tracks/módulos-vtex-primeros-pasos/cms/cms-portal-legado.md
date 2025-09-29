@@ -33,7 +33,7 @@ La sección [Layout](/es/subcategory/layout--2g6LxtasS4iSeGEqeYUuGW) te permite 
 
 - **Product Cluster (Collections):** crea grupos de productos. Puede utilizarlos para crear páginas de destino de campañas o colecciones de productos que carguen grupos de productos específicos.
 
-- **Sites and Channels:** configura [el binding de tu tienda](/en/tutorial/what-is-binding--4NcN3NJd0IeYccgWCI8O2W) y otros ajustes del License Manager. Para obtener más información, consulta el artículo [Estructura de la carpeta CMS](/en/tutorial/cms-folder-structure--2RdMaJSv4AK4EyscmQuocu).
+- **Sites and Channels:** configura [el binding de tu tienda](/es/tutorial/what-is-binding--4NcN3NJd0IeYccgWCI8O2W) y otros ajustes del License Manager. Para obtener más información, consulta el artículo [Estructura de la carpeta CMS](/es/tutorial/cms-folder-structure--2RdMaJSv4AK4EyscmQuocu).
 
 ## Configuración
 
@@ -137,7 +137,7 @@ Puede consultar todos los controles nativos disponibles y sus respectivos usos e
 ## Guías
 - **[Crear o editar una plantilla de página](/es/tutorial/como-criar-um-template-de-pagina--frequentlyAskedQuestions_1850):** Aprende a crear plantillas de página. La plantilla de página es un modelo creado para definir una estructura HTML para presentar el contenido de las páginas.
 
-- **[Asociar una plantilla a un layout](/en/tutorial/associando-um-template-a-um-layout--7CkgOHRj7DVbsRxyR8YQrK?&utm_source=autocomplete):** Asocia una plantilla a un layout utilizando la carpeta Sites and Channels.
+- **[Asociar una plantilla a un layout](/es/tutorial/associando-um-template-a-um-layout--7CkgOHRj7DVbsRxyR8YQrK?&utm_source=autocomplete):** Asocia una plantilla a un layout utilizando la carpeta Sites and Channels.
 
 - **[Gestión de placeholders](/es/tutorial/gerenciandoplaceholders--29Y7r9JqcWIqmGipReGLQI):** Un placeholder es un fragmento de código configurable que atiende a las condiciones establecidas por la tienda. Inserta y configura un placeholder, por ejemplo un banner en tu tienda.
 

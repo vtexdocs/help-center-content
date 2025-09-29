@@ -1,7 +1,7 @@
 ---
 title: 'Customer Credit: flexibilice sus condiciones de pago con intereses'
 id: 5B1FjEk1pn33PPGlRsPDm
-status: CHANGED
+status: PUBLISHED
 createdAt: 2020-04-20T22:08:31.800Z
 updatedAt: 2020-11-27T19:40:03.170Z
 publishedAt: 2020-06-19T13:43:27.495Z

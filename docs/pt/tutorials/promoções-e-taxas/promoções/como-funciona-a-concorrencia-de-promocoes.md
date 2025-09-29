@@ -116,15 +116,7 @@ Existem duas estratégias de concorrência:
 - [Concorrência por cenário](#concorrencia-por-cenario)  
 - [Concorrência por item](#concorrencia-por-item)
 
-<div style="border-left: 4px solid #2196f3; background-color: #e3f2fd; padding: 12px 16px; margin: 16px 0; font-family: sans-serif; overflow: auto;">
-  <p style="margin: 0;">
-    Por padrão, todas as contas seguem a estratégia de concorrência por cenário. Caso a estratégia de concorrência por item atenda melhor suas necessidades de negócio, 
-    <a href="/pt/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM" target="_blank" style="color: #1976d2; text-decoration: underline;">
-      abra um chamado com nosso time de suporte
-    </a> 
-    e solicite a mudança.
-  
-</div>
+> ℹ️ Por padrão, todas as contas seguem a estratégia de concorrência por cenário. Caso a estratégia de concorrência por item atenda melhor suas necessidades de negócio, [abra um chamado com nosso time de suporte](/pt/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM) e solicite a mudança.
 
 ### Concorrência por cenário
 

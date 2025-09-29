@@ -1,7 +1,7 @@
 ---
 title: 'Mapeamento de especificações'
 id: 4GpDlL5cdrxjxchIqI6Hyn
-status: CHANGED
+status: PUBLISHED
 createdAt: 2020-06-30T00:30:39.534Z
 updatedAt: 2020-11-27T19:36:01.138Z
 publishedAt: 2020-07-02T03:46:25.783Z

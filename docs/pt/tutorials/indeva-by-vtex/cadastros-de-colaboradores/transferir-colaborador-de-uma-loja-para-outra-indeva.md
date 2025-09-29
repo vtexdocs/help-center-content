@@ -1,7 +1,7 @@
 ---
 title: 'Transferir colaborador de uma loja para outra'
 id: 6JMZTKvNMtIsPodR0EVMM7
-status: CHANGED
+status: PUBLISHED
 createdAt: 2025-09-11T15:39:25.017Z
 updatedAt: 2025-09-12T10:41:16.544Z
 publishedAt: 2025-09-11T15:52:02.739Z

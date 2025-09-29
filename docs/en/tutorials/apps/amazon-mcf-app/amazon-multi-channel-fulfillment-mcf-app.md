@@ -16,7 +16,7 @@ subcategoryId: 1P1vFnzQ4TQJsBRDoPVKUI
 ---
 
 
-> ℹ️ This App is in beta, which means we are working to improve it. If you have any questions, please contact <a href= "https://support.vtex.com/hc/en-us/requests">our Support</a>.
+> ℹ️ This App is in beta, which means we are working to improve it. If you have any questions, please contact [our Support](https://support.vtex.com/hc/en-us/requests).
 
 The app allows you to integrate your business with the Amazon Multi-Channel Fulfillment (MCF) program. With the integration, VTEX clients can use Amazon's logistics network in their own stores. This way, you can sell items that are stored in Amazon fulfillment centers, and after each sale in your ecommerce, the VTEX platform sends the order information to Amazon, where it is picked, packed, and shipped to the shoppers.
 

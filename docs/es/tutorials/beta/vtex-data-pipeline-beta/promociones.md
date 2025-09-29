@@ -136,7 +136,7 @@ En esta sección puedes consultar la siguiente información:
 | max\_usage\_per\_client | integer | Define el máximo de veces que un cliente puede utilizar la promoción. |
 | should\_distribute\_discount\_among\_matched\_items | boolean | Indica si se debe distribuir el descuento entre todos los ítems aplicables. |
 | multiple\_use\_per\_client | boolean | Define si el cliente puede utilizar la promoción varias veces. |
-| type | character varying(256) | Define el tipo de la promoción o si se trata de un cargo. Valores posibles: regular [promoción Regular](/es/tutorial/regular-promotion--tutorials_327), combo [Comprar juntos](/es/tutorial/buy-together--tutorials_323), forThePriceOf [Más por menos](/es/tutorial/creating-a-more-for-less-promotion--tutorials_325), progressive [Descuento progresivo](/es/tutorial/progressive-discount--tutorials_324), buyAndWin [Compra uno y lleva uno gratis](/en/tutorial/buy-one-get-one--tutorials_322), maxPricePerItem (obsoleto), campaign [Promoción de campaña](/es/tutorial/campaign-promotion--1ChYXhK2AQGuS6wAqS8Ume), tax (cargo), multipleEffects (efectos múltiples). |
+| type | character varying(256) | Define el tipo de la promoción o si se trata de un cargo. Valores posibles: regular [promoción Regular](/es/tutorial/regular-promotion--tutorials_327), combo [Comprar juntos](/es/tutorial/buy-together--tutorials_323), forThePriceOf [Más por menos](/es/tutorial/creating-a-more-for-less-promotion--tutorials_325), progressive [Descuento progresivo](/es/tutorial/progressive-discount--tutorials_324), buyAndWin [Compra uno y lleva uno gratis](/es/tutorial/buy-one-get-one--tutorials_322), maxPricePerItem (obsoleto), campaign [Promoción de campaña](/es/tutorial/campaign-promotion--1ChYXhK2AQGuS6wAqS8Ume), tax (cargo), multipleEffects (efectos múltiples). |
 | use\_new\_progressive\_algorithm | boolean | Indica si se utiliza el algoritmo progresivo. |
 | percentual\_discount\_value\_list | super | Lista de valores de descuento porcentual. |
 | max\_number\_of\_affected\_items | integer | Número máximo de ítems aplicables a la promoción. |
@@ -265,19 +265,19 @@ El conjunto de datos de promociones puede utilizarse para realizar los siguiente
 
 La relación entre el conjunto de datos de promociones y otros conjuntos de datos es esencial. A continuación, se muestran algunos ejemplos:  
 
-- **Datos de [pedidos](/tutorial/pedidos-data-pipeline-beta--2f3GlRJ5L5IRGVIxOmzrFv):** analizar la influencia de las promociones en los pedidos ayuda a comprender su impacto sobre las ventas.  
-- **Datos de [stock](/tutorial/inventario-data-pipeline-beta--2IvKMZV9SNrE6ipBRQr8h2):** la correlación con el stock es fundamental para garantizar la disponibilidad de los productos promocionados.  
+- **Datos de [pedidos](/es/tutorial/pedidos-data-pipeline-beta--2f3GlRJ5L5IRGVIxOmzrFv):** analizar la influencia de las promociones en los pedidos ayuda a comprender su impacto sobre las ventas.  
+- **Datos de [stock](/es/tutorial/inventario-data-pipeline-beta--2IvKMZV9SNrE6ipBRQr8h2):** la correlación con el stock es fundamental para garantizar la disponibilidad de los productos promocionados.  
 - **Análisis de marketing y publicidad**: la integración con estos datos permite medir la efectividad de las promociones para atraer tráfico y engagement.  
-- **Datos de [navegación](/tutorial/navegacao-data-pipeline-beta--4X4hK0zdIHN0Xn5x2MLYYd) en el sitio web:** analizar el efecto de las promociones en la navegación permite obtener insights sobre el comportamiento de los clientes y la eficacia de la exhibición de las promociones.  
+- **Datos de [navegación](/es/tutorial/navegacao-data-pipeline-beta--4X4hK0zdIHN0Xn5x2MLYYd) en el sitio web:** analizar el efecto de las promociones en la navegación permite obtener insights sobre el comportamiento de los clientes y la eficacia de la exhibición de las promociones.  
 
 ### Descubra otros conjuntos de datos
 
-- [Catálogo](/tutorial/catalogo-data-pipeline--7ARDELPaugrBu5dZT7Vx2b)
-- [Stock](/tutorial/inventario-data-pipeline-beta--2IvKMZV9SNrE6ipBRQr8h2) 
-- [Navegación](/tutorial/navegacao-data-pipeline-beta--4X4hK0zdIHN0Xn5x2MLYYd)   
-- [Pagos](/tutorial/pagamentos-data-pipeline-beta--7LWkFaA1jPabzc5JAt1rGs)
-- [Pedidos](/tutorial/pagamentos-data-pipeline-beta--7LWkFaA1jPabzc5JAt1rGs)  
-- [Precios](/tutorial/precos-data-pipeline-beta--3NMGJ8dtv73Bwvo9PSz1fz)  
-- [Tarjeta de regalo](/pt/tutorial/vale-presente-data-pipeline--4XAnyc4scy3OG6RdnD7OEf)
-- [Registro del Bridge](/tutorial/logs-do-bridge-data-pipeline--2RFVJZL19nsWBSB4IXA0Z)
+- [Catálogo](/es/tutorial/catalogo-data-pipeline--7ARDELPaugrBu5dZT7Vx2b)
+- [Stock](/es/tutorial/inventario-data-pipeline-beta--2IvKMZV9SNrE6ipBRQr8h2) 
+- [Navegación](/es/tutorial/navegacao-data-pipeline-beta--4X4hK0zdIHN0Xn5x2MLYYd)   
+- [Pagos](/es/tutorial/pagamentos-data-pipeline-beta--7LWkFaA1jPabzc5JAt1rGs)
+- [Pedidos](/es/tutorial/pagamentos-data-pipeline-beta--7LWkFaA1jPabzc5JAt1rGs)  
+- [Precios](/es/tutorial/precos-data-pipeline-beta--3NMGJ8dtv73Bwvo9PSz1fz)  
+- [Tarjeta de regalo](/es/tutorial/vale-presente-data-pipeline--4XAnyc4scy3OG6RdnD7OEf)
+- [Registro del Bridge](/es/tutorial/logs-do-bridge-data-pipeline--2RFVJZL19nsWBSB4IXA0Z)
 

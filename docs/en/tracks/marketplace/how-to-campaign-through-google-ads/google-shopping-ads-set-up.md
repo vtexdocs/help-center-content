@@ -1,7 +1,7 @@
 ---
 title: 'Google Shopping Ads setup'
 id: 4H0V9Z4NkQUiS4y2K0I8IU
-status: CHANGED
+status: PUBLISHED
 createdAt: 2018-10-30T22:36:53.918Z
 updatedAt: 2020-11-27T19:40:21.348Z
 publishedAt: 2020-02-13T15:34:48.598Z

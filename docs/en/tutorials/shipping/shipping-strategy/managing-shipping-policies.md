@@ -45,8 +45,8 @@ The information displayed on this page is described in the table below:
 | Shipping Method | [Shipping method](/en/tutorial/como-funciona-o-tipo-de-envio--tutorials_126) is the name you set in the shipping policy displayed to customers at checkout. Thus, you should use intuitive names when creating a shipping policy.Example: `Express shipping` and `Standard shipping`. |
 | Loading Docks | Identifies which [loading docks](/en/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj) are associated with the [shipping policy](/en/tutorial/politica-de-envio--tutorials_140). When you hover over the number in this column, you will see the names of all the loading docks associated with the shipping policy. |
 | Status | Shipping policy activation status, which can be:<ul><li>**Active:** The shipping policy is activated and valid for the order shipping [calculation](/en/tutorial/como-funciona-o-calculo-de-envio--tutorials_116).</li><li>**Inactive:** The shipping policy is deactivated and not valid for shipping.</li></ul> |
-| Carrier (Brazil only) | This field only appears in the VTEX Admin for stores that have activated the [VTEX Shipping Network Correios](/pt/tutorial/vtex-shipping-network-correios-ativacao--57opHihFbRAwrjQjCTymTa) or requested the [VTEX Shipping Network](/pt/tutorial/pronto-para-envio--5YOZV7Aotv3pap0fGNESDs). It uniquely identifies Correios. |
-| Contract (Brazil only) | This field only appears in the VTEX Admin for stores that have activated the [VTEX Shipping Network Correios](/pt/tutorial/vtex-shipping-network-correios-ativacao--57opHihFbRAwrjQjCTymTa).Possible values are:<ul><li>**VTEX:** The store has requested a Correios price list intermediated by VTEX.</li><li>**Store:** The store requested a price list on its own before activating the VTEX Shipping Network Correios.</li></ul> |
+| Carrier (Brazil only) | This field only appears in the VTEX Admin for stores that have activated the [VTEX Shipping Network Correios](/en/tutorial/vtex-shipping-network-correios-ativacao--57opHihFbRAwrjQjCTymTa) or requested the [VTEX Shipping Network](/en/tutorial/pronto-para-envio--5YOZV7Aotv3pap0fGNESDs). It uniquely identifies Correios. |
+| Contract (Brazil only) | This field only appears in the VTEX Admin for stores that have activated the [VTEX Shipping Network Correios](/en/tutorial/vtex-shipping-network-correios-ativacao--57opHihFbRAwrjQjCTymTa).Possible values are:<ul><li>**VTEX:** The store has requested a Correios price list intermediated by VTEX.</li><li>**Store:** The store requested a price list on its own before activating the VTEX Shipping Network Correios.</li></ul> |
 
 ## Searching for shipping policies
 
@@ -69,14 +69,14 @@ To remove the applied filter, click `Status` and then `Clear`.
 
 ### Filter for contract types (Brazil only)
 
-Stores that have requested the [VTEX Shipping Network](/pt/tutorial/pronto-para-envio--5YOZV7Aotv3pap0fGNESDs) or activated the [VTEX Shipping Network Correios](/pt/tutorial/vtex-shipping-network-correios-ativacao--57opHihFbRAwrjQjCTymTa) can search by contract type:
+Stores that have requested the [VTEX Shipping Network](/en/tutorial/pronto-para-envio--5YOZV7Aotv3pap0fGNESDs) or activated the [VTEX Shipping Network Correios](/en/tutorial/vtex-shipping-network-correios-ativacao--57opHihFbRAwrjQjCTymTa) can search by contract type:
 
   * `VTEX`: The store has requested a Correios price list intermediated by VTEX.
   * `Store`: The store has directly requested the Correios price list.
 
 ## Viewing the carrier dashboard (optional)
 
-Stores that have requested the [VTEX Shipping Network](/en/tutorial/pronto-para-envio--5YOZV7Aotv3pap0fGNESDs) or activated the [VTEX Shipping Network Correios](/en/tutorial/vtex-shipping-network-correios-ativacao--57opHihFbRAwrjQjCTymTa) will see the "Carriers Dashboard" button on the **Shipping Policies** page. By clicking it, the user will be redirected to the [VTEX Shipping Network](/pt/tutorial/painel-vtex-shipping-network--51e8tx1IehiN4ZtURRWU92) dashboard, where they can manage the carrier operations for their products.
+Stores that have requested the [VTEX Shipping Network](/en/tutorial/pronto-para-envio--5YOZV7Aotv3pap0fGNESDs) or activated the [VTEX Shipping Network Correios](/en/tutorial/vtex-shipping-network-correios-ativacao--57opHihFbRAwrjQjCTymTa) will see the "Carriers Dashboard" button on the **Shipping Policies** page. By clicking it, the user will be redirected to the [VTEX Shipping Network](/en/tutorial/painel-vtex-shipping-network--51e8tx1IehiN4ZtURRWU92) dashboard, where they can manage the carrier operations for their products.
 
 ## Editing shipping policies
 

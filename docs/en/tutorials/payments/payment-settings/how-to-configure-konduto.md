@@ -17,7 +17,7 @@ subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 
 Konduto is an anti-fraud, external system that analyzes the purchases performed, in order to prevent frauds.
 
-This anti-fraud depends on different configurations of the [other anti-frauds that can be configured on your platform](http://help.vtex.com/en/tutorial/how-to-configure-the-anti-fraud/). Therefore, this article aims to document the Konduto configuration.
+This anti-fraud depends on different configurations of the [other anti-frauds that can be configured on your platform](/en/tutorial/how-to-configure-the-anti-fraud/). Therefore, this article aims to document the Konduto configuration.
 
 ## Configure your GTM
 
@@ -47,6 +47,6 @@ On your GTM account, create a tag (customized html type) with the script below.
 To link the **Konduto** to a form of payment:
 
 1. Access the tab **Payment terms**.
-2. Click on the desired condition or [Configuring payment conditions](http://help.vtex.com/en/tutorial/how-to-configure-payment-conditions) 
+2. Click on the desired condition or [Configuring payment conditions](/en/tutorial/how-to-configure-payment-conditions) 
 3. Select the option **Use anti-fraud**.
 4. Select the **Konduto**.

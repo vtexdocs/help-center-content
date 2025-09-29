@@ -100,8 +100,8 @@ Nesta seção você encontra as seguintes informações:
 | minimum\_quantity\_buy\_together | integer | Quantidade mínima para promoção Compre Junto. |
 | quantity\_to\_affect\_buy\_together | integer | Quantidade que vai afetar a promoção Compre Junto. |
 | enable\_buy\_together\_per\_sku | boolean | Ativar Compre Junto por SKU. |
-| list\_sku1\_buy\_together | super | Array de objetos, cada unidade contendo ID e nome de um SKU para ser adicionado à primeira lista da promoção **Compre Junto**. Saiba mais sobre este tipo de promoção na documentação [Criar promoção Compre Junto](/en/tutorial/buy-together--tutorials_323).  ⮕  Objeto contendo o ID e o nome do SKU a ser adicionado à primeira lista da promoção **Compre Junto**.  Saiba mais sobre este tipo de promoção na documentação de [Criar promoção Compre Junto](/en/tutorial/buy-together--tutorials_323).  |
-| list\_sku2\_buy\_together | super | Array de objetos, cada unidade contendo ID e nome de um SKU para ser adicionado à segunda lista da promoção **Compre Junto**. Saiba mais sobre este tipo de promoção na documentação [Criar promoção Compre Junto](/en/tutorial/buy-together--tutorials_323).  ⮕ Objeto contendo o ID e o nome do SKU a ser adicionado à segunda lista da promoção **Compre Junto**. Saiba mais sobre este tipo de promoção na documentação de [Criar promoção Compre Junto](/en/tutorial/buy-together--tutorials_323).  |
+| list\_sku1\_buy\_together | super | Array de objetos, cada unidade contendo ID e nome de um SKU para ser adicionado à primeira lista da promoção **Compre Junto**. Saiba mais sobre este tipo de promoção na documentação [Criar promoção Compre Junto](/pt/tutorial/buy-together--tutorials_323).  ⮕  Objeto contendo o ID e o nome do SKU a ser adicionado à primeira lista da promoção **Compre Junto**.  Saiba mais sobre este tipo de promoção na documentação de [Criar promoção Compre Junto](/pt/tutorial/buy-together--tutorials_323).  |
+| list\_sku2\_buy\_together | super | Array de objetos, cada unidade contendo ID e nome de um SKU para ser adicionado à segunda lista da promoção **Compre Junto**. Saiba mais sobre este tipo de promoção na documentação [Criar promoção Compre Junto](/pt/tutorial/buy-together--tutorials_323).  ⮕ Objeto contendo o ID e o nome do SKU a ser adicionado à segunda lista da promoção **Compre Junto**. Saiba mais sobre este tipo de promoção na documentação de [Criar promoção Compre Junto](/pt/tutorial/buy-together--tutorials_323).  |
 | coupon | super | Deprecado. Lista de cupons. |
 | total\_value\_floor | numeric(18,0) | Valor mínimo do carrinho para ativar a promoção. |
 | total\_value\_ceiling | numeric(18,0) | Valor máximo do carrinho para ativar a promoção. |
@@ -126,7 +126,7 @@ Nesta seção você encontra as seguintes informações:
 | min\_installment | integer | Valor mínimo da parcela. |
 | max\_installment | integer | Valor máximo da parcela. |
 | merchants | super | Lista de lojistas. |
-| cluster\_expressions | super | Critérios para selecionar um cluster de clientes. Cada item neste array deve seguir o formato de uma função de igualdade ({propertyname}={value}) ou de uma função contains ({propertyname} contains {value}). Em ambas as opções, {propertyname} deve ser substituído pelo nome do campo na entidade de dados, e {value} deve ser substituído pelo valor definido no Master Data.  Saiba mais sobre esses critérios em [Como preencher o campo Cluster de clientes](/tutorial/creating-promotion-for-a-customer-cluster--tutorials_342#filling-in-the-customer-cluster-field). |
+| cluster\_expressions | super | Critérios para selecionar um cluster de clientes. Cada item neste array deve seguir o formato de uma função de igualdade ({propertyname}={value}) ou de uma função contains ({propertyname} contains {value}). Em ambas as opções, {propertyname} deve ser substituído pelo nome do campo na entidade de dados, e {value} deve ser substituído pelo valor definido no Master Data.  Saiba mais sobre esses critérios em [Como preencher o campo Cluster de clientes](/pt/tutorial/creating-promotion-for-a-customer-cluster--tutorials_342#filling-in-the-customer-cluster-field). |
 | pii\_cluster\_expressions | super | Expressões de cluster relacionadas às informações de identificação pessoal (PII) dos clientes. |
 | payments\_rules | super | Lista de regras de pagamento. |
 | gift\_list\_types | super | Tipo de brindes da lista. |
@@ -136,7 +136,7 @@ Nesta seção você encontra as seguintes informações:
 | max\_usage\_per\_client | integer | Define se a promoção pode ser usada várias vezes pelo cliente. |
 | should\_distribute\_discount\_among\_matched\_items | boolean | Distribui o desconto entre os items correspondentes. |
 | multiple\_use\_per\_client | boolean | Define se a promoção pode ser usada várias vezes pelo cliente. |
-| type | character varying(256) | Define qual é o tipo da promoção ou indica se é uma taxa. Valores possíveis: regular [Promoção Regular](/tutorial/regular-promotion--tutorials_327), combo [Compre Junto](/en/tutorial/buy-together--tutorials_323), forThePriceOf [Leve Mais por Menos](/en/tutorial/creating-a-more-for-less-promotion--tutorials_325), progressive [Desconto Progressivo](/en/tutorial/progressive-discount--tutorials_324), buyAndWin [Compre e Ganhe](/en/tutorial/buy-one-get-one--tutorials_322), maxPricePerItem (deprecado), campaign [Promoção de campanha](/en/tutorial/campaign-promotion--1ChYXhK2AQGuS6wAqS8Ume), tax (taxa), multipleEffects (efeitos múltiplos). |
+| type | character varying(256) | Define qual é o tipo da promoção ou indica se é uma taxa. Valores possíveis: regular [Promoção Regular](/pt/tutorial/regular-promotion--tutorials_327), combo [Compre Junto](/pt/tutorial/buy-together--tutorials_323), forThePriceOf [Leve Mais por Menos](/pt/tutorial/creating-a-more-for-less-promotion--tutorials_325), progressive [Desconto Progressivo](/pt/tutorial/progressive-discount--tutorials_324), buyAndWin [Compre e Ganhe](/pt/tutorial/buy-one-get-one--tutorials_322), maxPricePerItem (deprecado), campaign [Promoção de campanha](/pt/tutorial/campaign-promotion--1ChYXhK2AQGuS6wAqS8Ume), tax (taxa), multipleEffects (efeitos múltiplos). |
 | use\_new\_progressive\_algorithm | boolean | Indica se é usado um algoritmo progressivo. |
 | percentual\_discount\_value\_list | super | Lista de valores de desconto percentual |
 | max\_number\_of\_affected\_items | integer | Número máximo de itens afetados por uma promoção. |
@@ -210,8 +210,8 @@ Nesta seção você encontra as seguintes informações:
 | minimum\_quantity\_buy\_together | integer | Quantidade mínima para promoção Compre Junto. |
 | quantity\_to\_affect\_buy\_together | integer | Quantidade para a promoção Compre Junto. |
 | enable\_buy\_together\_per\_sku | boolean | Ativar Compre Junto por SKU. |
-| list\_sku1\_buy\_together | super | Array de objetos, cada unidade contendo ID e nome de um SKU para ser adicionado à primeira lista da promoção **Compre Junto**.  Saiba mais sobre este tipo de promoção na documentação [Criar promoção Compre Junto](/en/tutorial/buy-together--tutorials_323). ⮕ Objeto contendo o ID e o nome do SKU a ser adicionado à primeira lista da promoção **Compre Junto**. Saiba mais sobre este tipo de promoção na documentação de [Criar promoção Compre Junto](/en/tutorial/buy-together--tutorials_323).  |
-| list\_sku2\_buy\_together | super | Array de objetos, cada unidade contendo ID e nome de um SKU para ser adicionado à segunda lista da promoção **Compre Junto**.  Saiba mais sobre este tipo de promoção na documentação [Criar promoção Compre Junto](/en/tutorial/buy-together--tutorials_323).  ⮕ Objeto contendo o ID e o nome do SKU a ser adicionado à segunda lista da promoção **Compre Junto**. Saiba mais sobre este tipo de promoção na documentação de [Criar promoção Compre Junto](/en/tutorial/buy-together--tutorials_323).   |
+| list\_sku1\_buy\_together | super | Array de objetos, cada unidade contendo ID e nome de um SKU para ser adicionado à primeira lista da promoção **Compre Junto**.  Saiba mais sobre este tipo de promoção na documentação [Criar promoção Compre Junto](/pt/tutorial/buy-together--tutorials_323). ⮕ Objeto contendo o ID e o nome do SKU a ser adicionado à primeira lista da promoção **Compre Junto**. Saiba mais sobre este tipo de promoção na documentação de [Criar promoção Compre Junto](/pt/tutorial/buy-together--tutorials_323).  |
+| list\_sku2\_buy\_together | super | Array de objetos, cada unidade contendo ID e nome de um SKU para ser adicionado à segunda lista da promoção **Compre Junto**.  Saiba mais sobre este tipo de promoção na documentação [Criar promoção Compre Junto](/pt/tutorial/buy-together--tutorials_323).  ⮕ Objeto contendo o ID e o nome do SKU a ser adicionado à segunda lista da promoção **Compre Junto**. Saiba mais sobre este tipo de promoção na documentação de [Criar promoção Compre Junto](/pt/tutorial/buy-together--tutorials_323).   |
 | coupon | super | Deprecado. Lista de cupons. |
 | total\_value\_floor | numeric(18,0) | Valor mínimo do carrinho para ativar a promoção. |
 | total\_value\_ceiling | numeric(18,0) | Valor máximo do carrinho para ativar a promoção. |
@@ -236,7 +236,7 @@ Nesta seção você encontra as seguintes informações:
 | min\_installment | integer | Valor mínimo da parcela. |
 | max\_installment | integer | Valor máximo da parcela. |
 | merchants | super | Lista de lojistas. |
-| cluster\_expressions | super | Critérios para selecionar um cluster de clientes. Cada item neste array deve seguir o formato de uma função de igualdade ({propertyname}={value}) ou de uma função contains ({propertyname} contains {value}). Em ambas as opções, {propertyname} deve ser substituído pelo nome do campo na entidade de dados, e {value} deve ser substituído pelo valor definido no Master Data.  Saiba mais sobre esses critérios em [Como preencher o campo Cluster de clientes](/tutorial/creating-promotion-for-a-customer-cluster--tutorials_342#filling-in-the-customer-cluster-field).  |
+| cluster\_expressions | super | Critérios para selecionar um cluster de clientes. Cada item neste array deve seguir o formato de uma função de igualdade ({propertyname}={value}) ou de uma função contains ({propertyname} contains {value}). Em ambas as opções, {propertyname} deve ser substituído pelo nome do campo na entidade de dados, e {value} deve ser substituído pelo valor definido no Master Data.  Saiba mais sobre esses critérios em [Como preencher o campo Cluster de clientes](/pt/tutorial/creating-promotion-for-a-customer-cluster--tutorials_342#filling-in-the-customer-cluster-field).  |
 | pii\_cluster\_expressions | super | Expressões de cluster relacionadas às informações de identificação pessoal (PII) dos clientes. |
 | payments\_rules | super | Lista de regras de pagamento. |
 | gift\_list\_types | super | Tipo de brindes da lista. |
@@ -246,7 +246,7 @@ Nesta seção você encontra as seguintes informações:
 | max\_usage\_per\_client | integer | Define se a promoção pode ser usada várias vezes pelo cliente. |
 | should\_distribute\_discount\_among\_matched\_items | boolean | Distribui o desconto entre os items correspondentes. |
 | multiple\_use\_per\_client | boolean | Define se a promoção pode ser usada várias vezes pelo cliente. |
-| type | character varying(256) | Define qual é o tipo da promoção ou indica se é uma taxa. Valores possíveis: regular [Promoção Regular](/tutorial/regular-promotion--tutorials_327), combo [Compre Junto](/en/tutorial/buy-together--tutorials_323), forThePriceOf [Leve Mais por Menos](/en/tutorial/creating-a-more-for-less-promotion--tutorials_325), progressive [Desconto Progressivo](/en/tutorial/progressive-discount--tutorials_324), buyAndWin [Compre e Ganhe](/en/tutorial/buy-one-get-one--tutorials_322), maxPricePerItem (deprecado), campaign [Promoção de campanha](/en/tutorial/campaign-promotion--1ChYXhK2AQGuS6wAqS8Ume), tax (taxa), multipleEffects (efeitos múltiplos). |
+| type | character varying(256) | Define qual é o tipo da promoção ou indica se é uma taxa. Valores possíveis: regular [Promoção Regular](/pt/tutorial/regular-promotion--tutorials_327), combo [Compre Junto](/pt/tutorial/buy-together--tutorials_323), forThePriceOf [Leve Mais por Menos](/pt/tutorial/creating-a-more-for-less-promotion--tutorials_325), progressive [Desconto Progressivo](/pt/tutorial/progressive-discount--tutorials_324), buyAndWin [Compre e Ganhe](/pt/tutorial/buy-one-get-one--tutorials_322), maxPricePerItem (deprecado), campaign [Promoção de campanha](/pt/tutorial/campaign-promotion--1ChYXhK2AQGuS6wAqS8Ume), tax (taxa), multipleEffects (efeitos múltiplos). |
 | use\_new\_progressive\_algorithm | boolean | Indica se é usado um algoritmo progressivo. |
 | percentual\_discount\_value\_list | super | Lista de valores de desconto percentual. |
 | max\_number\_of\_affected\_items | integer | Número máximo de itens afetados por uma promoção. |
@@ -265,19 +265,19 @@ Veja a seguir alguns exemplos de análises com o conjunto de sados de promoçõe
 
 Veja a seguir a correlação do conjunto de dados de promoções, com alguns outros conjuntos de dados:
 
-**- Dados de [pedidos](/tutorial/pedidos-data-pipeline-beta--2f3GlRJ5L5IRGVIxOmzrFv):** a análise da influência das promoções nos pedidos ajuda a compreender seu impacto nas vendas.  
-**- Dados de [inventário](/tutorial/inventario-data-pipeline-beta--2IvKMZV9SNrE6ipBRQr8h2):** a correlação com o inventário é crucial para garantir a disponibilidade de produtos promovidos.  
+**- Dados de [pedidos](/pt/tutorial/pedidos-data-pipeline-beta--2f3GlRJ5L5IRGVIxOmzrFv):** a análise da influência das promoções nos pedidos ajuda a compreender seu impacto nas vendas.  
+**- Dados de [inventário](/pt/tutorial/inventario-data-pipeline-beta--2IvKMZV9SNrE6ipBRQr8h2):** a correlação com o inventário é crucial para garantir a disponibilidade de produtos promovidos.  
 **- Análises de marketing e publicidade:** a integração com esses dados permite medir a efetividade das promoções em atrair tráfego e engajamento.
-**- Dados de [navegação no Site](/tutorial/navegacao-data-pipeline-beta--4X4hK0zdIHN0Xn5x2MLYYd):** analisar o efeito das promoções na navegação fornece insights sobre o comportamento do cliente e a eficácia da colocação das promoções. 
+**- Dados de [navegação no Site](/pt/tutorial/navegacao-data-pipeline-beta--4X4hK0zdIHN0Xn5x2MLYYd):** analisar o efeito das promoções na navegação fornece insights sobre o comportamento do cliente e a eficácia da colocação das promoções. 
 
 ### Conheça outros Conjuntos de dados
 
-- [Catálogo](/tutorial/catalogo-data-pipeline--7ARDELPaugrBu5dZT7Vx2b)
-- [Inventário](/tutorial/inventario-data-pipeline-beta--2IvKMZV9SNrE6ipBRQr8h2)
-- [Navegação](/tutorial/navegacao-data-pipeline-beta--4X4hK0zdIHN0Xn5x2MLYYd) 
-- [Pedidos](/tutorial/pedidos-data-pipeline-beta--2f3GlRJ5L5IRGVIxOmzrFv) 
-- [Pagamentos](/tutorial/pagamentos-data-pipeline-beta--7LWkFaA1jPabzc5JAt1rGs)  
-- [Preços](/tutorial/precos-data-pipeline-beta--3NMGJ8dtv73Bwvo9PSz1fz)   
+- [Catálogo](/pt/tutorial/catalogo-data-pipeline--7ARDELPaugrBu5dZT7Vx2b)
+- [Inventário](/pt/tutorial/inventario-data-pipeline-beta--2IvKMZV9SNrE6ipBRQr8h2)
+- [Navegação](/pt/tutorial/navegacao-data-pipeline-beta--4X4hK0zdIHN0Xn5x2MLYYd) 
+- [Pedidos](/pt/tutorial/pedidos-data-pipeline-beta--2f3GlRJ5L5IRGVIxOmzrFv) 
+- [Pagamentos](/pt/tutorial/pagamentos-data-pipeline-beta--7LWkFaA1jPabzc5JAt1rGs)  
+- [Preços](/pt/tutorial/precos-data-pipeline-beta--3NMGJ8dtv73Bwvo9PSz1fz)   
 - [Vale-presente](/pt/tutorial/vale-presente-data-pipeline--4XAnyc4scy3OG6RdnD7OEf)
-[Logs do Bridge](/tutorial/logs-do-bridge-data-pipeline--2RFVJZL19nsWBSB4IXA0Z)
+[Logs do Bridge](/pt/tutorial/logs-do-bridge-data-pipeline--2RFVJZL19nsWBSB4IXA0Z)
 

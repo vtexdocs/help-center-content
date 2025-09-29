@@ -19,6 +19,6 @@ VTEX Help introduces a new content format, adding up to the articles and announc
 
 Tracks deliver a more simple and intuitive way to learn about VTEX related subjects. No matter if you're a beginner or advanced user. No matter how complex is the action. By the end of every track, you'll fully understand the proposed theme.
 
-To explore this new content type, click on [this link](http://help.vtex.com/en/tracks) or on the __Tracks__ item in the top bar menu. 
+To explore this new content type, click on [this link](/en/tracks) or on the __Tracks__ item in the top bar menu. 
 
 

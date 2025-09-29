@@ -96,9 +96,9 @@ Feedback type (select one or more options):
 
 ![avatar settings admin SEP2023](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/operational/vtex-admin/vtex-admin-start-here_5.gif)
 
-Your profile avatar is a central hub for all your user and account settings. By clicking it, you can access your [User settings](/en/v4/docs/user-settings-overview--1qYAvOTZBVYMosJ7tQm3Ry), [Account settings](/v4/docs/account-settings-overview--159BmXTQhaP44wLxtPff6r), and [Billing](/en/v4/docs/billing-overview--CcugO41lhNJzQKpazKYQC) information, as well as change the language of your Admin, and log out.
+Your profile avatar is a central hub for all your user and account settings. By clicking it, you can access your [User settings](/en/v4/docs/user-settings-overview--1qYAvOTZBVYMosJ7tQm3Ry), [Account settings](/en/v4/docs/account-settings-overview--159BmXTQhaP44wLxtPff6r), and [Billing](/en/v4/docs/billing-overview--CcugO41lhNJzQKpazKYQC) information, as well as change the language of your Admin, and log out.
 
-Your profile settings are separate from the store-related settings. This gives you greater control and visibility over the actions that affect your business and the ones that impact a user's profile, such as [roles](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc).
+Your profile settings are separate from the store-related settings. This gives you greater control and visibility over the actions that affect your business and the ones that impact a user's profile, such as [roles](/en/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc).
 The VTEX Admin offers a localized experience in the following language options:
 
 * Portuguese

@@ -18,8 +18,8 @@ subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 ## Primeiros pasos
 
 Algunos pasos son esenciales para que empecemos las configuraciones de la integración con el marketplace YOP.
-1. Configure la [política comercial](http://help.vtex.com/es/tutorial/politica-comercial-para-marketplace/);
-2. Configure la [logística](http://help.vtex.com/es/tutorial/como-configurar-logistica-para-politica-comercial/) para esa política comercial;
+1. Configure la [política comercial](/es/tutorial/politica-comercial-para-marketplace/);
+2. Configure la [logística](/es/tutorial/como-configurar-logistica-para-politica-comercial/) para esa política comercial;
 3. Póngase en contacto con YOP;
 
 ## Cómo configurar
@@ -36,7 +36,7 @@ Algunos pasos son esenciales para que empecemos las configuraciones de la integr
 
 ### Configure el afiliado
 
-[Siga las instrucciones de nuestro manual y llene los campos conforme a la indicación a continuación](http://help.vtex.com/es/tutorial/como-configurar-afiliado/).
+[Siga las instrucciones de nuestro manual y llene los campos conforme a la indicación a continuación](/es/tutorial/como-configurar-afiliado/).
 
 - **Nome:** YOP
 - **ID:** YPP
@@ -51,4 +51,4 @@ Algunos pasos son esenciales para que empecemos las configuraciones de la integr
 
 ## Para conocer más
 
-[Entenda cómo funciona la integración con los marketplaces](http://help.vtex.com/es/tutorial/integrating-with-marketplace/).
+[Entenda cómo funciona la integración con los marketplaces](/es/tutorial/integrating-with-marketplace/).

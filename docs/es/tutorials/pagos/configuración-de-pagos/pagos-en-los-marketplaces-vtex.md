@@ -35,7 +35,7 @@ Para establecer los valores de transferencias externas al entorno VTEX, utiliza 
 
 Consulta a continuación la configuración necesaria en tu Admin VTEX para crear comisiones sobre pedidos de _sellers _y para hacer que el _seller_ o el _marketplace_ sea el procesador de pagos.
 
-> ℹ️ En caso de que la integración con sellers externos o sellers VTEX se haga mediante API, consulta <a href = "https://developers.vtex.com/vtex-rest-api/docs/external-seller-processing-payments">External seller processing payment</a>.
+> ℹ️ En caso de que la integración con sellers externos o sellers VTEX se haga mediante API, consulta [External seller processing payment](https://developers.vtex.com/vtex-rest-api/docs/external-seller-processing-payments).
 
 ### Configurar comisiones para los _sellers_
 
@@ -57,7 +57,7 @@ Para que el sistema del marketplace procese los pagos, debes acceder a la secci�
 * [Conector de pagos](/es/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/7pAEMAo4iqNHwYOarZ3zgm)
 * [Antifraude](/es/tutorial/como-configurar-antifraude--tutorials_446) 
 
-Para finalizar la configuración que hace que el marketplace sea el procesador de pagos, al [configurar el afiliado](/pt/tutorial/como-configurar-afiliado--tutorials_187), el seller debe dejar la opción **Utilizar mi medio de pago **sin marcar.
+Para finalizar la configuración que hace que el marketplace sea el procesador de pagos, al [configurar el afiliado](/es/tutorial/como-configurar-afiliado--tutorials_187), el seller debe dejar la opción **Utilizar mi medio de pago **sin marcar.
 
 ### Seller VTEX procesando pagos
 

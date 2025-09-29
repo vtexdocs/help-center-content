@@ -17,7 +17,7 @@ subcategoryId: 42hDtnYXHw5ExG6l19RP1l
 
 In VTEX, a benefit or discount can be applied to a group of customers. This group of customers can be defined by properties that they have in common. 
 
-> ⚠️ This article describes how Master Data v1 works. It is important that you evaluate which Master Data version meets the needs of your operation or is already in use. <ul> <li> [ Master Data version characteristics ](/tutorial/master-data--4otjBnR27u4WUIciQsmkAw#versions-available) </li> <li> [ Master Data v2 ](https://developers.vtex.com/vtex-rest-api/docs/getting-started-1) </li> </ul>
+> ⚠️ This article describes how Master Data v1 works. It is important that you evaluate which Master Data version meets the needs of your operation or is already in use. <ul> <li> [ Master Data version characteristics ](/en/tutorial/master-data--4otjBnR27u4WUIciQsmkAw#versions-available) </li> <li> [ Master Data v2 ](https://developers.vtex.com/vtex-rest-api/docs/getting-started-1) </li> </ul>
 
 This article shows how to configure a benefit for employees. It is considered that the employees are a group of customers, so they are identified using Master Data clusters.
 

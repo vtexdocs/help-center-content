@@ -27,7 +27,7 @@ On the column **Origin**, it is also written `Marketplace` when the order was ma
 
 ## Order details page
 
-In the [order details page](/pt/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl), in the **Payment** section, it is possible to view the name of the merchant associated with the order. 
+In the [order details page](/en/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl), in the **Payment** section, it is possible to view the name of the merchant associated with the order. 
 
 ### Related articles
 

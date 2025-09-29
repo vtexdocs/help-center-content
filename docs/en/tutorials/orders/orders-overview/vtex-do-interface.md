@@ -19,7 +19,7 @@ VTEX DO manages tasks automatically created by the VTEX Admin that require manua
 
 ![VTEX Do overview EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/orders/orders-overview/vtex-do-interface_1.gif)
 
-> ℹ️ Only users with the <a href = "/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#oms-full-access">OMS - Full Access</a> role can perform tasks through VTEX DO.
+> ℹ️ Only users with the [OMS - Full Access](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#oms-full-access) role can perform tasks through VTEX DO.
 
 The tasks are listed in two tabs:
 
@@ -81,7 +81,7 @@ Tasks managed through VTEX DO can include messages from all VTEX systems. Some e
   <tr>
    <td>Authorizing an order with price divergence
    </td>
-   <td>The order was generated with an amount different from the configured [price divergence rule](/pt/tutorial/regra-de-divergencia-de-valores--6RlFLhD1rIRRshl83KnCjW).
+   <td>The order was generated with an amount different from the configured [price divergence rule](/en/tutorial/regra-de-divergencia-de-valores--6RlFLhD1rIRRshl83KnCjW).
    </td>
    <td>Go to **Task details** and click **View details** > authorize or cancel the order on the **Order details** page.
    </td>
@@ -97,7 +97,7 @@ Tasks managed through VTEX DO can include messages from all VTEX systems. Some e
   <tr>
    <td>An error occurred while generating the recurring order
    </td>
-   <td>[Subscription](/pt/tutorial/como-configurar-assinatura-v2--1FA9dfE7vJqxBna9Nft5Sj) orders are often not authorized due to problems with the buyer's credit card. We suggest that your store's Customer Service Center contact the customer to offer support.
+   <td>[Subscription](/en/tutorial/como-configurar-assinatura-v2--1FA9dfE7vJqxBna9Nft5Sj) orders are often not authorized due to problems with the buyer's credit card. We suggest that your store's Customer Service Center contact the customer to offer support.
    </td>
    <td>Go to **Task details** and click **View details** > authorize or cancel the order on the **Order details** page.
    </td>
@@ -105,7 +105,7 @@ Tasks managed through VTEX DO can include messages from all VTEX systems. Some e
   <tr>
    <td>Price lower than minimum markup
    </td>
-   <td>The purchase amount is lower than the markup, or the minimum markup on the [SKU base price](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/P99EjtrlRHk92Q8qDPq29).
+   <td>The purchase amount is lower than the markup, or the minimum markup on the [SKU base price](/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/P99EjtrlRHk92Q8qDPq29).
    </td>
    <td>Go to **Task details** and click **View details** > authorize or cancel the order on the **Order details** page.
    </td>

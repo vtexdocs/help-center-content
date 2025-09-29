@@ -1,7 +1,7 @@
 ---
 title: 'Módulos da VTEX II'
 id: 3MYcZaojb5HSUg6ufm6GxQ
-status: CHANGED
+status: PUBLISHED
 createdAt: 2024-02-07T13:20:33.477Z
 updatedAt: 2024-02-22T17:08:09.649Z
 publishedAt: 2024-02-22T14:07:12.569Z
@@ -137,7 +137,7 @@ Além disso, também é possível oferecer gift cards de provedores externos por
 
 Carteiras digitais são ambientes seguros onde dados bancários e de cartão de crédito podem ser armazenados de forma criptografada e que podem ser acessadas pelo cliente no momento de realizar uma compra. A segurança deste meio de pagamento consiste em não ser necessário preencher todos os dados no checkout a cada compra, sendo somente solicitado ao realizar a autenticação dentro do próprio ambiente de carteira digital.
 
-Na VTEX, é possível oferecer carteiras digitais nativas, como o [Google Pay](/pt/tracks/carteira-digital-e-wallet--6X8YyZBoVJpz5R8oXciTyu/61JMBvM5Vanqj6RaJsP8CT), ou carteiras digitais integradas, tais como [Apple Pay](/en/tracks/digital-wallet-e-wallet--6X8YyZBoVJpz5R8oXciTyu/STKWiXJSR9ImPt5EEC2aL), [Samsung Pay](/pt/tutorial/configurar-samsung-pay-como-meio-de-pagamento--5Yj9rgzOCVYuGmAumQlfpP) e [PayPal](/pt/tutorial/configurar-paypal--4p3sD9u1moq2Aya2oc684w). Mais informações em [Carteira digital (ewallet)](/pt/tracks/digital-wallet-e-wallet--6X8YyZBoVJpz5R8oXciTyu/7jLbdfch9Oe2yYbQa9zwE1).
+Na VTEX, é possível oferecer carteiras digitais nativas, como o [Google Pay](/pt/tracks/carteira-digital-e-wallet--6X8YyZBoVJpz5R8oXciTyu/61JMBvM5Vanqj6RaJsP8CT), ou carteiras digitais integradas, tais como [Apple Pay](/pt/tracks/digital-wallet-e-wallet--6X8YyZBoVJpz5R8oXciTyu/STKWiXJSR9ImPt5EEC2aL), [Samsung Pay](/pt/tutorial/configurar-samsung-pay-como-meio-de-pagamento--5Yj9rgzOCVYuGmAumQlfpP) e [PayPal](/pt/tutorial/configurar-paypal--4p3sD9u1moq2Aya2oc684w). Mais informações em [Carteira digital (ewallet)](/pt/tracks/digital-wallet-e-wallet--6X8YyZBoVJpz5R8oXciTyu/7jLbdfch9Oe2yYbQa9zwE1).
 
 #### Customer Credit
 
@@ -189,7 +189,7 @@ Para localizar o registro de uma compra no Admin VTEX, além de poder [filtrar p
 - Email do cliente
 - Documento do cliente 
 
-> ⚠️ Só é possível acessar informações de pedidos criados nos últimos dois anos, sendo o mesmo período válido para os clientes acessarem seus pedidos pelo <a href="">Minha Conta</a>.
+> ⚠️ Só é possível acessar informações de pedidos criados nos últimos dois anos, sendo o mesmo período válido para os clientes acessarem seus pedidos pelo Minha Conta.
 
 #### Emails transacionais
 

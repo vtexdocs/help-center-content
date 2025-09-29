@@ -20,7 +20,7 @@ La logística o fulfillment es el proceso de planificación y ejecución del tra
 
 VTEX te permite registrar e controlar el _stock_, gestionar las tarifas de envío, controlar la disponibilidad de los ítems y hacer el seguimiento de las entregas. 
 
-> ℹ️ Si tu tienda no ha dado los primeros pasos en el módulo de **Envío**, consulta el artículo [Logística: primeros pasos](/es/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/6Y8C1JuPtO5E61Ew91tq1a). Consulta el artículo [Glosario de logística](/en/tutorial/logistics-glossary--16DSSiXn548rsidi0A8Hby) para consultar el significado de los términos logísticos utilizados en VTEX. Las configuraciones logísticas disponibles mediante [API](https://developers.vtex.com/vtex-rest-api/reference/logistics-api-overview).
+> ℹ️ Si tu tienda no ha dado los primeros pasos en el módulo de **Envío**, consulta el artículo [Logística: primeros pasos](/es/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/6Y8C1JuPtO5E61Ew91tq1a). Consulta el artículo [Glosario de logística](/es/tutorial/logistics-glossary--16DSSiXn548rsidi0A8Hby) para consultar el significado de los términos logísticos utilizados en VTEX. Las configuraciones logísticas disponibles mediante [API](https://developers.vtex.com/vtex-rest-api/reference/logistics-api-overview).
 
 Para saber qué configuraciones logísticas son necesarias y cómo realizarlas, primero hay que entender los pasos del flujo de compra de un producto:
 

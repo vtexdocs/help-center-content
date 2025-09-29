@@ -68,7 +68,7 @@ Si el usuario Titular no está disponible para realizar la transferencia de titu
 
 ### Brasil
 
-Para cambiar el Usuario Titular, por favor, contacte con nuestro equipo de Growth Operations a través del [Soporte](/es/support), seleccionando la opción **Comercial** y el tipo de solicitud `Cambio de Usuario Titular`. Debe rellenar los campos requeridos y enviar una copia del contrato social.
+Para cambiar el Usuario Titular, por favor, contacte con nuestro equipo de Growth Operations a través del [Soporte](https://help.vtex.com/es/support), seleccionando la opción **Comercial** y el tipo de solicitud `Cambio de Usuario Titular`. Debe rellenar los campos requeridos y enviar una copia del contrato social.
 
 Si el representante indicado en el formulario no está presente en el contrato social, debe presentarse un poder notarial en el que se informe de que el representante del formulario está autorizado a firmar.
 
@@ -76,7 +76,7 @@ Con esta información, el equipo de Growth Operations añadirá una adenda al co
 
 ### Otros países
 
-Para cambiar el Usuario Titular, póngase en contacto con nuestro equipo de Growth Operations a través del [Soporte](/es/support) seleccionando la opción **Comercial** y el tipo de solicitud `Cambio del Usuario Titular`. Debe rellenar los campos requeridos.
+Para cambiar el Usuario Titular, póngase en contacto con nuestro equipo de Growth Operations a través del [Soporte](https://help.vtex.com/es/support) seleccionando la opción **Comercial** y el tipo de solicitud `Cambio del Usuario Titular`. Debe rellenar los campos requeridos.
 
 En caso de que el representante indicado en el formulario no esté presente en el contrato social, se debe enviar una copia del contrato social.
 

@@ -1,7 +1,7 @@
 ---
 title: 'Feature Removal: Discontinuing the use of Maximum Price per Item feature'
 id: 2sI7R4FgmWpmFdKSJSwJPW
-status: CHANGED
+status: PUBLISHED
 createdAt: 2019-04-05T16:20:16.272Z
 updatedAt: 2020-11-27T19:40:27.110Z
 publishedAt: 2020-09-15T21:42:08.090Z

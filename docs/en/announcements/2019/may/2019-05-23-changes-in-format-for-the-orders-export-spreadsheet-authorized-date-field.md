@@ -1,7 +1,7 @@
 ---
 title: 'Changes in format for the orders export spreadsheet Authorized Date field aims to ensure the quality of our data'
 id: 4bEpPLIkpG90dJ3QCIujx1
-status: CHANGED
+status: PUBLISHED
 createdAt: 2019-05-23T13:42:37.232Z
 updatedAt: 2020-11-27T19:40:28.883Z
 publishedAt: 2019-12-31T15:13:08.423Z

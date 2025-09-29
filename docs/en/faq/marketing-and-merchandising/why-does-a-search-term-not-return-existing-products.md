@@ -1,7 +1,7 @@
 ---
 title: "Why doesn't a search term return available products?"
 id: frequentlyAskedQuestions_6363
-status: CHANGED
+status: PUBLISHED
 createdAt: 2017-04-27T22:22:33.606Z
 updatedAt: 2020-11-27T19:39:37.145Z
 publishedAt: 2020-04-20T15:06:29.554Z
@@ -14,7 +14,7 @@ locale: en
 legacySlug: why-does-a-search-term-not-return-existing-products
 ---
 
-> ⚠️ **Warning**: VTEX has two search options - VTEX search and VTEX Intelligent Search. This article refers to the VTEX search. To learn more about the VTEX Intelligent Search application, see <a href = "/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb">this track</a>.
+> ⚠️ **Warning**: VTEX has two search options - VTEX search and VTEX Intelligent Search. This article refers to the VTEX search. To learn more about the VTEX Intelligent Search application, see [this track](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb).
 
 
 The article [How does VTEX search work?](/en/tutorial/how-does-vtex-search-work) illustrates the main rules that the search engine algorithm uses to display and prioritize the products based on a search term.

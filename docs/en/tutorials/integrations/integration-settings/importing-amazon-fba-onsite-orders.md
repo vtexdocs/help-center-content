@@ -20,14 +20,14 @@ There are four types of logistics configuration to fulfill orders placed on Amaz
 - [Self Ship](#self-ship)
 - [FBA Onsite](#fba-onsite)  
 - FBA Classic, to learn about the program and integration with VTEX, check the documentation [Amazon FBA Classic Order Import](/en/tutorial/importacao-de-pedidos-amazon-fba-classic--2MJZgBen3hpK4xkXqcv8TO).  
-- DBA, to learn more about the program and the integration with VTEX by reading the [Amazon DBA order import](/pt/tutorial/importacao-de-pedidos-amazon-dba--1um6EfKlALGsHzERbH7jig) documentation.  
+- DBA, to learn more about the program and the integration with VTEX by reading the [Amazon DBA order import](/en/tutorial/importacao-de-pedidos-amazon-dba--1um6EfKlALGsHzERbH7jig) documentation.  
 
 The seller can use Self Ship, FBA Onsite, FBA Classic, and DBA simultaneously or only one of the logistics options, considering the eligibility of the products for the respective programs.  
 Regardless of using only one or more logistics options, through the VTEX Admin, you can track and manage all orders placed.  
 
 ## Self Ship  
 
-*Selfship* is the logistics strategy in which the seller is responsible for the entire fulfillment process, from product picking to delivery. To configure this option, you should follow the steps described in the[ Creating a trade policy](/pt/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE) and [Defining a shipping policy in Amazon](/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/37hdzaRUhJqRfXH1bIRXAa#definicao-da-estrategia-de-envio) steps.  
+*Selfship* is the logistics strategy in which the seller is responsible for the entire fulfillment process, from product picking to delivery. To configure this option, you should follow the steps described in the[ Creating a trade policy](/en/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE) and [Defining a shipping policy in Amazon](/en/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/37hdzaRUhJqRfXH1bIRXAa#definicao-da-estrategia-de-envio) steps.  
 
 ## FBA Onsite (Fulfillment by Amazon) 
 
@@ -54,7 +54,7 @@ After creating the product specification, your product will be available for FBA
 
 ### 2. Defining a shipping strategy for FBA Onsite orders  
 
-> ℹ️ You need to ensure that the <a href=/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV>trade policy</a> you choose is specifically for Amazon to guarantee that another integration will not use the inventory you create.   
+> ℹ️ You need to ensure that the [trade policy](https://help.vtex.com/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) you choose is specifically for Amazon to guarantee that another integration will not use the inventory you create.   
 
 To proceed with the configuration, it is necessary to determine a [shipping strategy](/en/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3) exclusively for FBA Onsite orders, that is, to specify the delivery operation of your products.  
 

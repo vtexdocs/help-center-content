@@ -41,7 +41,7 @@ To use Google Pay, you must meet the following requirements:
 * Having at least one active [payment condition](/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/6bzGxlz4inf8sKmvZ1c7i3) configured for credit or debit cards with an [acquirer](/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/kdPbEIWf8Xq8tESQvViMB#adquirente), establishing which acquirer will process the wallet payment.
 * Using [VTEX Checkout](/en/tutorial/checkout-vtex-visao-geral--7wcprkM7yZUflOqbzAN5SI) in your store.
 
-> ⚠️ For stores that have the [3DS](/en/tutorial/o-que-e-3d-secure--1eWPdop8mECuaEomQgkAIa) authentication flow configured and supported by the acquirer, payment with Google Pay will follow the card native flow and will use 3DS as well. For more information on how to configure the authentication flow, please refer to [Setting up 3DS 2 authentication flow](/pt/tutorial/configurar-fluxo-de-autenticacao-3ds-2--58XMn5LOA6fwrSkoDoAsg2).
+> ⚠️ For stores that have the [3DS](/en/tutorial/o-que-e-3d-secure--1eWPdop8mECuaEomQgkAIa) authentication flow configured and supported by the acquirer, payment with Google Pay will follow the card native flow and will use 3DS as well. For more information on how to configure the authentication flow, please refer to [Setting up 3DS 2 authentication flow](/en/tutorial/configurar-fluxo-de-autenticacao-3ds-2--58XMn5LOA6fwrSkoDoAsg2).
 
 > ℹ️ You can also set up Google Pay to be processed with Adyen or Stripe. To do this, access the **Payment Conditions** screen in Admin, click on **Google Pay** and select the desired option.
 
@@ -80,7 +80,7 @@ If you get the message "You don't have any networks enabled for Google Pay in yo
 
 * The toggle switch is enabled, but it is not possible to finish the process
 
-If the message "Google Pay activated successfully." does not appear when activating the toggle switch, it means there may have been instability in the system. If the problem persists, the user will receive a message to contact [VTEX support](/en/support).
+If the message "Google Pay activated successfully." does not appear when activating the toggle switch, it means there may have been instability in the system. If the problem persists, the user will receive a message to contact [VTEX support](https://help.vtex.com/en/support).
 
 ### Issues that may occur during the purchase process
 

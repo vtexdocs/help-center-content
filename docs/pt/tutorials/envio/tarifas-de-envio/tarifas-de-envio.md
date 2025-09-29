@@ -1,7 +1,7 @@
 ---
 title: 'Tarifas de envio'
 id: 1Balpg3rv0854udEPedvMM
-status: CHANGED
+status: PUBLISHED
 createdAt: 2021-08-12T16:00:03.291Z
 updatedAt: 2023-03-29T14:47:11.976Z
 publishedAt: 2023-03-29T14:19:51.929Z

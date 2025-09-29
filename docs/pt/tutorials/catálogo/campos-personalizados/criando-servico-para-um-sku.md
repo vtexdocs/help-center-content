@@ -102,5 +102,5 @@ Manipule a planilha com cautela, sempre verificando se as informações contidas
 - **Custo:** o custo do serviço para a loja.
 - **Ativo:** status do serviço. Preencha com `1` para manter o serviço ativo ou com `0` para manter inativo.
 
-> ⚠️ A inclusão de uma nova planilha não irá substituir os serviços já vinculados ao SKU. Para desvincular um serviço, utilize o endpoint <a href ="https://developers.vtex.com/docs/api-reference/catalog-api#delete-/api/catalog/pvt/skuservice/-skuServiceId-">Dissociate SKU Service</a>.
+> ⚠️ A inclusão de uma nova planilha não irá substituir os serviços já vinculados ao SKU. Para desvincular um serviço, utilize o endpoint [Dissociate SKU Service](https://developers.vtex.com/docs/api-reference/catalog-api#delete-/api/catalog/pvt/skuservice/-skuServiceId-).
 

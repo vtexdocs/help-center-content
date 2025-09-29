@@ -1,7 +1,7 @@
 ---
 title: 'Por que o filtro de campo de produto ou campo de SKU não está retornando resultado na busca?'
 id: 7e9P6HiXTiKsgYCKiEoauy
-status: CHANGED
+status: PUBLISHED
 createdAt: 2017-11-06T20:18:06.419Z
 updatedAt: 2020-11-27T19:40:33.151Z
 publishedAt: 2020-04-20T15:26:32.997Z
@@ -14,7 +14,7 @@ locale: pt
 legacySlug: por-que-o-filtro-de-campo-de-produto-ou-campo-de-sku-nao-esta-retornando
 ---
 
-> ⚠️ **Atenção**: a VTEX apresenta duas opções da busca - a busca VTEX e o VTEX Intelligent Search. Esse artigo se refere à busca VTEX. Para saber mais sobre o aplicativo VTEX Intelligent Search acesse <a href = "/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb">nossa track</a>.
+> ⚠️ **Atenção**: a VTEX apresenta duas opções da busca - a busca VTEX e o VTEX Intelligent Search. Esse artigo se refere à busca VTEX. Para saber mais sobre o aplicativo VTEX Intelligent Search acesse [nossa track](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb).
 
 Você pode usar os parâmetros de busca para filtrar campos de produto ou campos de SKU na busca da loja.
 

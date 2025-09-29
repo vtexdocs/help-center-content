@@ -1,7 +1,7 @@
 ---
 title: 'Build customer loyalty with the new subscription promotion option'
 id: 2Mm1LBBnh9D3x4UyBlgP4t
-status: CHANGED
+status: PUBLISHED
 createdAt: 2019-10-31T14:13:53.081Z
 updatedAt: 2020-11-27T19:40:02.368Z
 publishedAt: 2019-12-31T16:59:16.517Z

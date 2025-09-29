@@ -20,4 +20,4 @@ En este caso, es necesario entrar en contacto con el conector de pagos para ve
 
 En el mail de alerta enviado por el sistema, se incluyen informaciones útiles referentes a la autorización de la transacción que deberán ser informadas al equipo de soporte del conector.
 
-_Importante: En el caso de que desee alterar el mail de la persona que recibe las notificaciones del PCI Gateway, [clique aqui](http://help.vtex.com/tutorial/como-configurar-notificacoes/ "clique aqui") para saber cómo hcerlo._
+_Importante: En el caso de que desee alterar el mail de la persona que recibe las notificaciones del PCI Gateway, [clique aqui](/es/tutorial/como-configurar-notificacoes/ "clique aqui") para saber cómo hcerlo._

@@ -70,7 +70,7 @@ To ensure the Device Fingerprint feature is operating properly, you must analyze
 ![Authorization](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payment-settings/configuring-mercado-pagos-device-fingerprint_2.png)
 
 <ui>
-7. Copy the ID and <a href=https://www.mercadopago.com.br/developers/en/support>send an email</a> with this information to Mercado Pago requesting them to validate the transaction. 
+7. Copy the ID and [send an email](https://www.mercadopago.com.br/developers/en/support) with this information to Mercado Pago requesting them to validate the transaction. 
   </ui>
 
 Once you have received Mercado Pago’s confirmation, Device Fingerprint will be ready to be used in your store.

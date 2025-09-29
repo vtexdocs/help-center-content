@@ -49,6 +49,6 @@ As another step in the process of [discontinuing legacy payment connectors](/en/
 
 If your store uses any of the legacy connectors listed above, complete the specific actions that apply to each connector:
 
-- __Legacy connector does not yet have a corresponding PPP connector available__: Open a ticket with [VTEX Support](/en/support) so that the CX team assigned to your account can assist you in checking which available PPP connectors are best suited to your type of operation and can be configured in your store.
+- __Legacy connector does not yet have a corresponding PPP connector available__: Open a ticket with [VTEX Support](https://help.vtex.com/en/support) so that the CX team assigned to your account can assist you in checking which available PPP connectors are best suited to your type of operation and can be configured in your store.
 
 - __PPP connector available to replace legacy connector__: Contact your payment provider for more information about the migration process and setting up the new connector in your store.

@@ -31,4 +31,4 @@ Esta sustitución refleja los cambios implementados en el Portal del Desarrollad
 
 No hay que tomar ninguna acción. Fue un cambio en la documentación solamente. Nada cambió en el funcionamiento de la plataforma, que puede continuar siendo utilizada normalmente.
 
-Hay más información disponible sobre el proceso de liquidación en el contexto de Pagos en el artículo[ Flujo de la transacción en Pagos](/pt/tutorial/fluxo-da-transacao-no-pagamentos--Er2oWmqPIWWyeIy4IoEoQ).
+Hay más información disponible sobre el proceso de liquidación en el contexto de Pagos en el artículo[ Flujo de la transacción en Pagos](/es/tutorial/fluxo-da-transacao-no-pagamentos--Er2oWmqPIWWyeIy4IoEoQ).

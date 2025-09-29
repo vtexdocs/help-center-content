@@ -43,13 +43,13 @@ Em cada seção, serão fornecidas informações como:
 Nas seções a seguir, entenda como os dados se relacionam com o seu negócio e qual a relevância para o seu projeto.
 Os conjuntos de dados disponíveis são os seguintes:
 
-- [Catálogo](/tutorial/catalogo-data-pipeline--7ARDELPaugrBu5dZT7Vx2b)
-- [Inventário](/tutorial/inventario-data-pipeline-beta--2IvKMZV9SNrE6ipBRQr8h2)
-- [Navegação](/tutorial/navegacao-data-pipeline-beta--4X4hK0zdIHN0Xn5x2MLYYd) 
-- [Pagamentos](/tutorial/pagamentos-data-pipeline-beta--7LWkFaA1jPabzc5JAt1rGs) 
-- [Pedidos](/tutorial/pedidos-data-pipeline-beta--2f3GlRJ5L5IRGVIxOmzrFv) 
-- [Preços](/tutorial/precos-data-pipeline-beta--3NMGJ8dtv73Bwvo9PSz1fz)
-- [Promoção](/tutorial/promocoes-data-pipeline-beta--3WZ1syNucDFdvVhfKtA6Qd)
+- [Catálogo](/pt/tutorial/catalogo-data-pipeline--7ARDELPaugrBu5dZT7Vx2b)
+- [Inventário](/pt/tutorial/inventario-data-pipeline-beta--2IvKMZV9SNrE6ipBRQr8h2)
+- [Navegação](/pt/tutorial/navegacao-data-pipeline-beta--4X4hK0zdIHN0Xn5x2MLYYd) 
+- [Pagamentos](/pt/tutorial/pagamentos-data-pipeline-beta--7LWkFaA1jPabzc5JAt1rGs) 
+- [Pedidos](/pt/tutorial/pedidos-data-pipeline-beta--2f3GlRJ5L5IRGVIxOmzrFv) 
+- [Preços](/pt/tutorial/precos-data-pipeline-beta--3NMGJ8dtv73Bwvo9PSz1fz)
+- [Promoção](/pt/tutorial/promocoes-data-pipeline-beta--3WZ1syNucDFdvVhfKtA6Qd)
 - [Vale-presente](/pt/tutorial/vale-presente-data-pipeline--4XAnyc4scy3OG6RdnD7OEf)
-- [Logs do Bridge](/tutorial/logs-do-bridge-data-pipeline--2RFVJZL19nsWBSB4IXA0Z)
-- [Marketplace in](/tutorial/marketplace-in-data-pipeline--4L3hlSqsnxGqVyxmoYvjTV)
+- [Logs do Bridge](/pt/tutorial/logs-do-bridge-data-pipeline--2RFVJZL19nsWBSB4IXA0Z)
+- [Marketplace in](/pt/tutorial/marketplace-in-data-pipeline--4L3hlSqsnxGqVyxmoYvjTV)

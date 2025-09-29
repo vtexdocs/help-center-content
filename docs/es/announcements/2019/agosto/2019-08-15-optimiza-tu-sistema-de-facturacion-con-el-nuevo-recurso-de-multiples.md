@@ -1,7 +1,7 @@
 ---
 title: 'Optimiza tu sistema de facturación con el nuevo recurso de múltiples etiquetas en B2W Entregas'
 id: 4IbkyNcmGrbwwDl5jpIuBk
-status: CHANGED
+status: PUBLISHED
 createdAt: 2019-08-15T14:11:57.695Z
 updatedAt: 2020-11-27T19:40:32.475Z
 publishedAt: 2019-12-31T15:13:33.705Z

@@ -1,7 +1,7 @@
 ---
 title: 'VTEX Intelligent Search: exporte relatórios mais completos sobre os resultados de pesquisa'
 id: PKD6UGgGEcCPUzuD7L9Up
-status: CHANGED
+status: PUBLISHED
 createdAt: 2020-06-30T16:16:53.923Z
 updatedAt: 2020-11-27T19:40:21.657Z
 publishedAt: 2020-07-13T16:11:08.593Z

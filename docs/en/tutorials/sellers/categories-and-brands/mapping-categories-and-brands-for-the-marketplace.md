@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 24EN0qRBg4yK0uusGUGosu
 ---
 
-When a store acts as a marketplace, it is important to remember that the sellers' catalogs have a completely independent structure. In order to make definitions between both catalogs compatible, [categories](/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf), [brands](/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/7i3sB8fgkqUp5NoH5yJtfh) and [specifications](/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP) have to be mapped when sellers:
+When a store acts as a marketplace, it is important to remember that the sellers' catalogs have a completely independent structure. In order to make definitions between both catalogs compatible, [categories](/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf), [brands](/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/7i3sB8fgkqUp5NoH5yJtfh) and [specifications](/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP) have to be mapped when sellers:
 
 - Send their products for the first time  
 - Send products with data that has not been mapped before  
@@ -142,7 +142,7 @@ We will map the seller's specifications by matching the existing marketplace spe
 
 ### Specifications and received SKUs approval
 
-Specification mapping is applied on the marketplace website in different ways, depending on the actions done in the [Received SKUs](/pt/tutorial/entendendo-a-catalogacao-de-produtos-para-o-marketplace) module when approving seller SKUs:
+Specification mapping is applied on the marketplace website in different ways, depending on the actions done in the [Received SKUs](/en/tutorial/entendendo-a-catalogacao-de-produtos-para-o-marketplace) module when approving seller SKUs:
 
 - __Link to existing SKU:__ the specification mapping is ignored by the marketplace system because the SKU already exists in the marketplace with the same specifications.    
 - __Link to an existing product:__ the specification mapping is only considered for SKU specifications because the product specifications already exist in the marketplace.    
@@ -151,6 +151,6 @@ Specification mapping is applied on the marketplace website in different ways, d
 ## Learn more
 
 - [Approving products](/en/tutorial/sugerindo-e-aprovando-skus/)  
-- [Creating a trade policy](/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE)    
-- [Trade policy for marketplaces](/tutorial/configurando-a-politica-comercial-para-marketplace--tutorials_404)  
+- [Creating a trade policy](/en/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE)    
+- [Trade policy for marketplaces](/en/tutorial/configurando-a-politica-comercial-para-marketplace--tutorials_404)  
 

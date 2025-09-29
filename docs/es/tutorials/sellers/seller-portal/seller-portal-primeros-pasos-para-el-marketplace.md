@@ -15,11 +15,11 @@ locale: es
 subcategoryId: 4hisB47iAVZk4r3SEmMoG
 ---
 
-El *[marketplace](/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402)* es un modelo de negocio colaborativo que requiere sus propias estrategias para tener éxito. La incorporación de nuevos *sellers*, por ejemplo, plantea desafíos como la sincronización de catálogos y el envío y la recepción de pedidos.
+El *[marketplace](/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402)* es un modelo de negocio colaborativo que requiere sus propias estrategias para tener éxito. La incorporación de nuevos *sellers*, por ejemplo, plantea desafíos como la sincronización de catálogos y el envío y la recepción de pedidos.
 
 Para aportar más rapidez y sencillez a la colaboración entre el *marketplace* y el *seller*, VTEX desarrolló el *Seller Portal*, una edición de la plataforma VTEX destinada a que los *marketplaces* y los *sellers* se conecten y vendan sus productos.
 
-Cuando contratas el *Seller Portal*, no hay una cuota mensual fija para el *marketplace*, ni un costo por adquirir este producto. El modelo de cobro se basa en la participación en los ingresos, cobrándose al *marketplace* la tasa de aceptación B2C establecida en el contrato, realizada sobre los [ingresos aprobados](/pt/tutorial/compreenda-o-valor-da-receita-aprovada--tutorials_4322) en el *marketplace* VTEX por cada *seller* externo. En el caso de los *sellers* externos a VTEX, la tasa de captación se cobra solo al *marketplace*, y en el caso de los *sellers* VTEX, la tasa de aceptación se cobra tanto al *seller* como al *marketplace*.
+Cuando contratas el *Seller Portal*, no hay una cuota mensual fija para el *marketplace*, ni un costo por adquirir este producto. El modelo de cobro se basa en la participación en los ingresos, cobrándose al *marketplace* la tasa de aceptación B2C establecida en el contrato, realizada sobre los [ingresos aprobados](/es/tutorial/compreenda-o-valor-da-receita-aprovada--tutorials_4322) en el *marketplace* VTEX por cada *seller* externo. En el caso de los *sellers* externos a VTEX, la tasa de captación se cobra solo al *marketplace*, y en el caso de los *sellers* VTEX, la tasa de aceptación se cobra tanto al *seller* como al *marketplace*.
 
 A través del *Seller Portal*, los *marketplaces* pueden:
 

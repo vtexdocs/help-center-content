@@ -1,7 +1,7 @@
 ---
 title: 'Conozca Cartman: la nueva herramienta de investigación del Checkout'
 id: 2n8eNuBTvlHI0D1oUOny72
-status: CHANGED
+status: PUBLISHED
 createdAt: 2019-09-03T15:02:52.505Z
 updatedAt: 2020-11-27T19:40:30.368Z
 publishedAt: 2019-12-31T16:59:19.986Z

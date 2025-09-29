@@ -27,4 +27,4 @@ Para activar esta configuración:
 
 ![Configuración de tipo de archivo en CMS](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/marketing-and-merchandising/por-que-la-imagen-thumb-esta-en-baja-calidad_1.PNG)
 
-También te recomendamos que leas el artículo [Mejorar la performance de imágenes de productos](/pt/tutorial/improving-the-performance-of-product-images/) para aprender cómo mejorar la calidad de cualquier imagen de la tienda reduciendo al máximo cualquier alteración en la performance de la carga de la página.
+También te recomendamos que leas el artículo [Mejorar la performance de imágenes de productos](/es/tutorial/improving-the-performance-of-product-images/) para aprender cómo mejorar la calidad de cualquier imagen de la tienda reduciendo al máximo cualquier alteración en la performance de la carga de la página.

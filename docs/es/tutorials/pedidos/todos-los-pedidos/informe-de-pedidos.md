@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 2t00bBkcAwIkgSCGKsMOwY
 ---
 
-La exportación de pedidos en la página [Todos los pedidos](/en/tutorial/todos-os-pedidos--2QTduKHAJMFIZ3BAsi6Pi) genera un informe en formato .csv que contiene una serie de detalles sobre los pedidos de su tienda.
+La exportación de pedidos en la página [Todos los pedidos](/es/tutorial/todos-os-pedidos--2QTduKHAJMFIZ3BAsi6Pi) genera un informe en formato .csv que contiene una serie de detalles sobre los pedidos de su tienda.
 
 Cada fila de la plantilla se refiere a un [SKU](/es/tutorial/o-que-e-um-sku--1K75s4RXAQyOuGUYKMM68u). Por ejemplo, si en un pedido hay 3 SKUs, este será referenciado en 3 filas en el informe. Cada fila mostrará los datos de un SKU del pedido.
 

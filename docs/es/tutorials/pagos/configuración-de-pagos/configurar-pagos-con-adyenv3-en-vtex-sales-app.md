@@ -1,7 +1,7 @@
 ---
 title: 'Configurar pagos con AdyenV3 en VTEX Sales App'
 id: 24yO6KloBn6DN6CbprHtgt
-status: CHANGED
+status: PUBLISHED
 createdAt: 2023-05-09T14:12:03.567Z
 updatedAt: 2024-09-23T21:26:11.166Z
 publishedAt: 2024-09-03T13:37:54.592Z

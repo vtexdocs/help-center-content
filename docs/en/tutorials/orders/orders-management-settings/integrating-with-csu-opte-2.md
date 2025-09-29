@@ -21,8 +21,8 @@ CSU uses only the marketplace model **Checkout na CSU**. In this model, the ent
 
 ## First steps
 
-1. Configure the [sales policy](http://help.vtex.com/en/tutorial/configuring-a-marketplace-sales-policy/) (the CSU indication is that you use the same policy of your own site).
-2. Configure the [logistics](http://help.vtex.com/en/tutorial/configuring-logistics-for-a-marketplace/) for this sales policy.
+1. Configure the [sales policy](/en/tutorial/configuring-a-marketplace-sales-policy/) (the CSU indication is that you use the same policy of your own site).
+2. Configure the [logistics](/en/tutorial/configuring-logistics-for-a-marketplace/) for this sales policy.
 
 ## Create an affiliate
 

@@ -21,10 +21,10 @@ Com o objetivo de facilitar o seu suporte, agora você tem acesso aos Guias de T
 > ℹ️ Quer contribuir com esta iniciativa? Preencha este [Formulário de feedback](https://forms.gle/PdVNZmMDMjiDfJaf8).
 
 ## Como estão organizados os Guias de Troubleshooting?
-Os Guias de Troubleshooting estão disponíveis no [Help Center](/category/troubleshooting--39pDkp8qxSll6mGj0tWViz) e [Developer Portal](https://developers.vtex.com/docs/troubleshooting), e estão divididos em categorias da seguinte forma:
+Os Guias de Troubleshooting estão disponíveis no [Help Center](/pt/category/troubleshooting--39pDkp8qxSll6mGj0tWViz) e [Developer Portal](https://developers.vtex.com/docs/troubleshooting), e estão divididos em categorias da seguinte forma:
 
-- [Help Center](/category/troubleshooting--39pDkp8qxSll6mGj0tWViz):
-  - [Operações da loja](/subcategory/store-operations--2Q0IQjRcOqSgJTh6wRHVMB): Seção para solucionar as dificuldades encontradas com operações de plataforma e ecommerce.
+- [Help Center](/pt/category/troubleshooting--39pDkp8qxSll6mGj0tWViz):
+  - [Operações da loja](/pt/subcategory/store-operations--2Q0IQjRcOqSgJTh6wRHVMB): Seção para solucionar as dificuldades encontradas com operações de plataforma e ecommerce.
 
 - [Developer Portal](https://developers.vtex.com/docs/troubleshooting):
   - **Development**: Seção destinada a abordar erros relacionados ao desenvolvimento de frente de loja e aplicativos.

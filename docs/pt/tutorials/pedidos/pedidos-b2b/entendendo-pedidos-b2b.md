@@ -27,7 +27,7 @@ Essa experiência de autosserviço é possível graças a uma integração via A
 - **ERP order number:** número identificador do pedido realizado por meio do ERP da loja.
 - **My order:** número identificador associado ao cliente que efetuou a compra.
 
-> ⚠️ Esta app só está disponível para lojas desenvolvidas usando [VTEX IO](https://vtex.com/br-pt/store-framework/).Antes de prosseguir, é preciso <a href = "https://developers.vtex.com/vtex-developer-docs/docs/querying-b2b-order-statuses">instalar e configurar Pedidos B2B</a> na sua loja.
+> ⚠️ Esta app só está disponível para lojas desenvolvidas usando [VTEX IO](https://vtex.com/br-pt/store-framework/).Antes de prosseguir, é preciso [instalar e configurar Pedidos B2B](https://developers.vtex.com/vtex-developer-docs/docs/querying-b2b-order-statuses) na sua loja.
 
 ## Contexto
 

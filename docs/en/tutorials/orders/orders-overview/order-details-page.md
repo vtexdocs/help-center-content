@@ -40,7 +40,7 @@ On the order details page, you can:
 
 The order details page is divided into blocks that group information or features together. See below the sections of the page and their respective functions.
 
-To learn more about order flow and status, please check out the article [Order flow and status](/pt/tutorial/fluxo-e-status-de-pedidos--tutorials_196).
+To learn more about order flow and status, please check out the article [Order flow and status](/en/tutorial/fluxo-e-status-de-pedidos--tutorials_196).
 
 > ℹ️ You will find below a list of all possible sections for the **Order details page**, but please note that only the sections that apply to the order in question will be visible.
 

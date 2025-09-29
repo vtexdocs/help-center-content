@@ -23,7 +23,7 @@ Merchants that use the Checkout API to place orders from mobile apps, headless s
 
 ## What is changing?
 
-Before, reCAPTCHA verification was not required for orders placed by users and application keys with the `Shopping Cart Full Access` [resource in License Manager](/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3). This includes [predefined roles](/en/tutorial/predefined-roles--jGDurZKJHvHJS13LnO7Dy) such as `Owner (Admin Super)` and `User Admin - RESTRICTED`, as well as the [Sponsor user](/en/tutorial/what-is-the-sponsor-user--3oPr7YuIkEYqUGmEqIMSEy).
+Before, reCAPTCHA verification was not required for orders placed by users and application keys with the `Shopping Cart Full Access` [resource in License Manager](/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3). This includes [predefined roles](/en/tutorial/predefined-roles--jGDurZKJHvHJS13LnO7Dy) such as `Owner (Admin Super)` and `User Admin - RESTRICTED`, as well as the [Sponsor user](/en/tutorial/what-is-the-sponsor-user--3oPr7YuIkEYqUGmEqIMSEy).
 
 Now, reCAPTCHA verification will follow orderForm configuration set in each account for all Checkout API requests, regardless of the roles associated with the user or application key.
 

@@ -18,6 +18,6 @@ Ao fazer o upload de uma planilha de frete, você pode se deparar com o erro "*I
 
 Este erro ocorre quando a planilha de frete é importada com a extensão __.xlsx__.
 
-Para resolver o problema, é necessário ajustar a planilha de frete para a extensão __.xls__ e [importar a planilha de frete](http://help.vtex.com/pt/tutorial/importar-planilha-de-frete) novamente.
+Para resolver o problema, é necessário ajustar a planilha de frete para a extensão __.xls__ e [importar a planilha de frete](/pt/tutorial/importar-planilha-de-frete) novamente.
 
 > ⚠️ Caso a planilha tenha mais de 10 MB, será necessário compactá-la no formato .zip. Este arquivo .zip deverá ter menos de 10 MB. Caso contrário, o upload não irá funcionar.

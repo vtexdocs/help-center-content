@@ -33,4 +33,4 @@ Explore a interface e familiarize-se com os filtros, busca e listagem de SKUs.
 - Acompanhe a sincronização de dados e verifique os status dos SKUs enviados.  
 - Crie templates de produtos já enviados.  
 
-Caso tenha dúvidas ou feedbacks sobre o **Amazon Listing,** entre em contato com o nosso time de [suporte](/support). Para saber mais sobre o módulo, acesse a documentação [Amazon Listing](/pt/tutorial/amazon-listing--5HIhbnYzJWkl2yM0o72WrL).
+Caso tenha dúvidas ou feedbacks sobre o **Amazon Listing,** entre em contato com o nosso time de [suporte](https://help.vtex.com/pt/support). Para saber mais sobre o módulo, acesse a documentação [Amazon Listing](/pt/tutorial/amazon-listing--5HIhbnYzJWkl2yM0o72WrL).

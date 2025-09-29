@@ -39,4 +39,4 @@ La nueva interfaz ya está disponible en el Admin VTEX para toda nuestra base de
 
 Para saber más sobre cómo utilizar la nueva interfaz, consulta el artículo[ Enviar productos a Mercado Libre](/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/5XNeiye4rS4oao2MueSUeA).
 
-Esta página sigue el nuevo sistema de diseño de VTEX, con un aspecto más limpio, moderno y fácil de usar. Para acceder a más páginas con esta experiencia, además de un Admin mejorado con datos procesables, [únete](https://content.vtex.com/join-new-admin-beta-program-es/?utm_source=announcement&utm_medium=display&utm_campaign=meli_tabelamedidas) al programa Beta del [nuevo Admin VTEX](/pt/v4).
+Esta página sigue el nuevo sistema de diseño de VTEX, con un aspecto más limpio, moderno y fácil de usar. Para acceder a más páginas con esta experiencia, además de un Admin mejorado con datos procesables, [únete](https://content.vtex.com/join-new-admin-beta-program-es/?utm_source=announcement&utm_medium=display&utm_campaign=meli_tabelamedidas) al programa Beta del [nuevo Admin VTEX](/es/v4).

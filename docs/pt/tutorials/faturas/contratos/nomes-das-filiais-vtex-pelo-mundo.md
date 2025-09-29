@@ -1,7 +1,7 @@
 ---
 title: 'Nomes das filiais VTEX pelo mundo'
 id: zg05n6OIOZOEmLW7dcq9z
-status: CHANGED
+status: PUBLISHED
 createdAt: 2020-07-29T19:44:58.051Z
 updatedAt: 2020-11-27T19:40:11.162Z
 publishedAt: 2020-08-05T20:38:18.436Z

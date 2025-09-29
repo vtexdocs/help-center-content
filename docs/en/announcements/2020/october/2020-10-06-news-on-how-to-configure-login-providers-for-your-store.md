@@ -1,7 +1,7 @@
 ---
 title: 'News on how to configure login providers for your store'
 id: 6tP4uxQJ0BdnDw38hmyeOW
-status: CHANGED
+status: PUBLISHED
 createdAt: 2020-10-06T17:50:13.106Z
 updatedAt: 2020-11-27T19:35:36.126Z
 publishedAt: 2020-10-21T19:00:50.126Z

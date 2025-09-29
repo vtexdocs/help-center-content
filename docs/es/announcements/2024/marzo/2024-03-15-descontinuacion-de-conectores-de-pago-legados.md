@@ -49,7 +49,7 @@ Como parte del proceso en curso para descontinuar [conectores de pago legados](/
 
 Si tu tienda utiliza alguno de los conectores legados indicados anteriormente, realiza las acciones específicas relacionadas con cada conector:
 
-- __El conector legado aún no tiene un conector PPP correspondiente disponible__: abre un ticket con el [soporte de VTEX](/es/support) para que el equipo CX responsable de tu cuenta te ayude a verificar qué conectores PPP disponibles se adaptan mejor a tu tipo de operación y se pueden configurar en tu tienda.
+- __El conector legado aún no tiene un conector PPP correspondiente disponible__: abre un ticket con el [soporte de VTEX](https://help.vtex.com/es/support) para que el equipo CX responsable de tu cuenta te ayude a verificar qué conectores PPP disponibles se adaptan mejor a tu tipo de operación y se pueden configurar en tu tienda.
 
 - __Conector PPP disponible para reemplazar el conector legado__: ponte en contacto con tu proveedor de pago para obtener más información sobre el proceso de migración y configuración del nuevo conector en tu tienda.
 

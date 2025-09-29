@@ -1,7 +1,7 @@
 ---
 title: 'Ahora es posible exportar hasta 20 mil pedidos al mismo tiempo'
 id: 4JFEKzngwOiSYRonJtRy58
-status: CHANGED
+status: PUBLISHED
 createdAt: 2020-07-24T18:53:36.928Z
 updatedAt: 2020-11-27T19:40:20.243Z
 publishedAt: 2020-07-29T17:43:54.102Z

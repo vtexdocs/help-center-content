@@ -26,7 +26,7 @@ These measures aim to make it easier for merchants to restrict the number of use
  As of today, the **Owner (Admin Super)** [user role](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) will no longer have the **Save user** [resource](/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3). This means that users who have only this role will no longer be able to:
 - [Create users](/en/tutorial/managing-users--tutorials_512).
 - Assign [user roles](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) to users.
-- Remove [user roles](/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) from users.
+- Remove [user roles](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) from users.
 - [Edit user data](/en/tutorial/managing-users--tutorials_512#editando-usuarios).
 - Create [application keys](/en/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet).
 - Create [application keys](/en/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet).

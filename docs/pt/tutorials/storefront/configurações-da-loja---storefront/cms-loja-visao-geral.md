@@ -35,5 +35,5 @@ No Admin VTEX, acesse **Configurações da loja > Storefront > Loja** e descubra
 
 Consulte o tutorial a seguir para começar a gerenciar o conteúdo do seu storefront:
 
-- [Habilitando notificações PWA na sua loja](/en/tutorial/enabling-pwa-push-notifications-in-your-store--1be3ZPhbsgZSbE7h5H46pG?&utm_source=autocomplete)
+- [Habilitando notificações PWA na sua loja](/pt/tutorial/enabling-pwa-push-notifications-in-your-store--1be3ZPhbsgZSbE7h5H46pG?&utm_source=autocomplete)
 

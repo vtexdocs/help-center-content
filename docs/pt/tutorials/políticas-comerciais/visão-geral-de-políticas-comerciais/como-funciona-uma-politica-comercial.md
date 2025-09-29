@@ -31,7 +31,7 @@ Confira como diferentes configurações da VTEX se relacionam com políticas com
 - [Master data](#master-data)  
 - [Gerenciamento da Conta](#gerenciamento-da-conta)  
 
-Para [contratar políticas comerciais adicionais](/pt/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X), basta solicitar via ticket em [*Suporte*](/pt/support), selecionando a opção **Comercial** e o tipo de solicitação `Criação de Política Comercial`, o tempo estimado de resposta (SLA) é de 48 horas úteis.
+Para [contratar políticas comerciais adicionais](/pt/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X), basta solicitar via ticket em [*Suporte*](https://help.vtex.com/pt/support), selecionando a opção **Comercial** e o tipo de solicitação `Criação de Política Comercial`, o tempo estimado de resposta (SLA) é de 48 horas úteis.
 
 A contratação de política comercial adicional para integrar com [conector certificado](/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402?&utm_source=autocomplete#integrado-a-conector-certificado-parceiro) ou outras lojas VTEX é isenta de taxas.
 
@@ -58,7 +58,7 @@ Ao criar uma condição de pagamento, é possível restringir sua disponibilidad
 Ao criar condições de pagamento diferentes sobre o mesmo produto, elas irão concorrer entre si e o sistema do checkout selecionará a opção mais benéfica, considerando o público em questão. Se nenhuma restrição é feita, a política comercial será aplicada em todos os canais de venda. Saiba mais sobre a configuração de [pagamentos](/pt/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG). 
 
 ## Master data
-É possível limitar o acesso de uma loja para públicos específicos, como em um site B2B que só permite que empresas cadastradas naveguem, ou quando o site possui um ambiente para clientes exclusivos. Essa configuração  pode ser atendida por meio de um [cluster de clientes no Master Data](/tutorial/como-criar-um-cluster-de-clientes) e da política comercial utilizada na loja. Saiba mais sobre a configuração do [Master Data](/tutorial/what-is-master-data--4otjBnR27u4WUIciQsmkAw). 
+É possível limitar o acesso de uma loja para públicos específicos, como em um site B2B que só permite que empresas cadastradas naveguem, ou quando o site possui um ambiente para clientes exclusivos. Essa configuração  pode ser atendida por meio de um [cluster de clientes no Master Data](/pt/tutorial/como-criar-um-cluster-de-clientes) e da política comercial utilizada na loja. Saiba mais sobre a configuração do [Master Data](/pt/tutorial/what-is-master-data--4otjBnR27u4WUIciQsmkAw). 
 
 ## Gerenciamento de Conta
 

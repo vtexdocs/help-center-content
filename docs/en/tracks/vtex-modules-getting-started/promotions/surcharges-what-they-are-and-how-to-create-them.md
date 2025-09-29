@@ -1,7 +1,7 @@
 ---
 title: 'Surcharges: what they are and how to create them'
 id: 3DcO1XrLqlbZsq80zxSgZS
-status: CHANGED
+status: PUBLISHED
 createdAt: 2020-01-22T15:01:24.215Z
 updatedAt: 2020-11-27T19:39:42.127Z
 publishedAt: 2020-02-13T16:37:00.259Z

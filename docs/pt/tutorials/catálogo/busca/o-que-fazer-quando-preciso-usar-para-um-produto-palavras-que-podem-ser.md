@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 383bZO0kymqpnNf7Z4NdEg
 ---
 
-> ⚠️ A VTEX apresenta duas opções da busca - a busca do Portal CMS Legado e o VTEX Intelligent Search. Esse artigo se refere à busca do Portal CMS Legado. Para saber mais sobre o aplicativo VTEX Intelligent Search acesse a trilha <a href = "/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb">Intelligent Search</a>.
+> ⚠️ A VTEX apresenta duas opções da busca - a busca do Portal CMS Legado e o VTEX Intelligent Search. Esse artigo se refere à busca do Portal CMS Legado. Para saber mais sobre o aplicativo VTEX Intelligent Search acesse a trilha [Intelligent Search](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb).
 
 Se você precisa utilizar, em seus produtos, palavras que talvez não sejam importantes para o buscador, existem algumas boas práticas que podem ser adotadas:
 
@@ -23,4 +23,4 @@ Se você precisa utilizar, em seus produtos, palavras que talvez não sejam impo
 - Utilizar coleção, redirecionando o termo buscado para uma *landing page*.
 - Redirecionar o termo buscado para um contexto de busca que faça sentido (Categoria, marca ou mesmo  produto).
 
-Para entender como realizar configuração de redirecionamento, leia [Mapeamento de URLs (Redirecionamento 301)](http://help.vtex.com/faq/mapeamento-de-urls-redirecionamento-301/ "Mapeamento de URLs (Redirecionamento 301)").
+Para entender como realizar configuração de redirecionamento, leia [Mapeamento de URLs (Redirecionamento 301)](/pt/faq/mapeamento-de-urls-redirecionamento-301/ "Mapeamento de URLs (Redirecionamento 301)").

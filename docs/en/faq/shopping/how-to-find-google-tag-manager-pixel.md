@@ -1,7 +1,7 @@
 ---
 title: 'How to find Google Tag Manager Pixel?'
 id: 65Ijv0leHPzm0IhzlY3dQN
-status: CHANGED
+status: PUBLISHED
 createdAt: 2022-08-30T12:13:00.179Z
 updatedAt: 2022-09-30T19:39:31.114Z
 publishedAt: 2022-08-31T14:24:10.226Z

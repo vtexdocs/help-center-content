@@ -53,7 +53,7 @@ São elas:
 
 Para estas duas pastas, o que importa é o controle ou placeholder que lê o conteúdo delas. Os nomes delas podem ser livremente editados.
 
-> ⚠️ Como são pastas privadas, `/account` e `/account/orders` **precisam requerer autenticação**. Veja [neste artigo](http://help.vtex.com/pt/tutorial/exigir-autenticacao-em-paginas-da-loja) como garantir que elas estejam configuradas para pedir autenticação do usuário.
+> ⚠️ Como são pastas privadas, `/account` e `/account/orders` **precisam requerer autenticação**. Veja [neste artigo](/pt/tutorial/exigir-autenticacao-em-paginas-da-loja) como garantir que elas estejam configuradas para pedir autenticação do usuário.
 
 ## Pastas úteis
 

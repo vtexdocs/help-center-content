@@ -79,7 +79,7 @@ Essa seção é responsável pela configuração das listas que estarão dispon�
 
 Um anexo é uma customização opcional com objetivo de complementar o produto com uma especificação personalizada. Ele pode ser relacionado a um serviço ou ao próprio item comprado, e pode ou não ter um custo adicional.
 
-Para cadastrar um anexo, siga os passos do tutorial [Cadastrar um anexo](/pt/tutorial/cadastrar-um-anexo). Para cenários complexos, é possível configurar [Assembly Options](/es/tutorial/assembly-options--5x5FhNr4f5RUGDEGWzV1nH).
+Para cadastrar um anexo, siga os passos do tutorial [Cadastrar um anexo](/pt/tutorial/cadastrar-um-anexo). Para cenários complexos, é possível configurar [Assembly Options](/pt/tutorial/assembly-options--5x5FhNr4f5RUGDEGWzV1nH).
 
 ## Integração XML
 

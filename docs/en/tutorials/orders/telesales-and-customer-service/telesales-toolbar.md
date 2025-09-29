@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 6SEjoixhY5LlA7G15W6oZS
 ---
 
-The telesales toolbar is displayed at the top of your store's website for users with the [Call Center Operator user role](/pt/tutorial/como-criar-um-usuario-de-televendas--frequentlyAskedQuestions_4227), in charge of customer service. This tool allows telesales operators to browse the store on behalf of customers, "impersonating" end-users.
+The telesales toolbar is displayed at the top of your store's website for users with the [Call Center Operator user role](/en/tutorial/como-criar-um-usuario-de-televendas--frequentlyAskedQuestions_4227), in charge of customer service. This tool allows telesales operators to browse the store on behalf of customers, "impersonating" end-users.
 
 Once the registered operator logs into the store environment, the toolbar will be displayed at the top of all sections of the website.
 
@@ -58,6 +58,6 @@ By clicking on the customer's name, the operator will view the following informa
 * [Predefined roles - Call center operator](/en/tutorial/predefined-roles--jGDurZKJHvHJS13LnO7Dy#call-center-operator)
 * [Creating a call center user](/en/tutorial/how-can-i-create-callcenter-user--frequentlyAskedQuestions_4227)
 * [Customizing the telesales toolbar](/en/tutorial/customizar-a-toolbar-de-televendas--1XEz1zqO3KyIuwC4asUsOg)
-* [My orders](/pt/tutorial/how-does-my-account-work--2BQ3GiqhqGJTXsWVuio3Xh#pedidos)
+* [My orders](/en/tutorial/how-does-my-account-work--2BQ3GiqhqGJTXsWVuio3Xh#pedidos)
 * [How to use telesales features](/en/tutorial/funcionalidades-de-televendas--UqhiccIRIK2KD0OqkzJaS)
 * [How to configure telesales features](/en/tutorial/como-configurar-as-funcionalidades-de-televendas--76FNgQP2Glc4umMJ5Yr50R)

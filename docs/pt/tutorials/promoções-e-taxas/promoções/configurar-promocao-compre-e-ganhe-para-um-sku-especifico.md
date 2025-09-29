@@ -1,7 +1,7 @@
 ---
 title: 'Configurar promoção Compre e ganhe para um SKU específico'
 id: 4QlFtwxAju6qOwaCi2YS0G
-status: CHANGED
+status: PUBLISHED
 createdAt: 2017-08-22T15:24:13.195Z
 updatedAt: 2023-03-31T17:05:27.785Z
 publishedAt: 2022-03-03T17:07:36.574Z
@@ -17,8 +17,8 @@ subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 
 A configuração dessa promoção é feita por meio do tipo __Compre e ganhe__, onde é possível selecionar qual SKU dará o brinde.
 
-1. No Admin VTEX, acesse *Promoções > Promoções*, ou digite *Promoções* na barra de busca no topo da página.
-2. Clique no botão `Criar promoção`.
+1. No módulo de __Promoções e Taxas__, acesse __Promoções__.
+2. Clique no botão `Nova promoção`.
 3. Clique na opção `Compre e Ganhe`.
 4. Preencha os campos conforme o artigo [Como funciona a promoção Compre e ganhe
 ](/pt/tutorial/compre-e-ganhe--tutorials_322).

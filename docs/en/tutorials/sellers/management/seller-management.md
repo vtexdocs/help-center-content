@@ -97,7 +97,7 @@ By clicking on the <i class="fas fa-ellipsis-v"></i> button in the seller row, t
 The _label _icon next to the seller's name indicates whether the store is visible in your marketplace. Sellers can have two types of visibility:
 
 - **Identifiable seller:** The seller is visible in your marketplace storefront and can be chosen by the consumer. The filled label icon means that the seller is identifiable.  
-- **Unidentifiable seller (white label):** [White label sellers](/pt/tutorial/definicoes-de-conta-franquia-e-seller-white-label) are franchise accounts on VTEX. They are not displayed in the storefront, and are automatically selected by the checkout system for order fulfillment. The transparent label icon means that the seller is not identifiable.  
+- **Unidentifiable seller (white label):** [White label sellers](/en/tutorial/definicoes-de-conta-franquia-e-seller-white-label) are franchise accounts on VTEX. They are not displayed in the storefront, and are automatically selected by the checkout system for order fulfillment. The transparent label icon means that the seller is not identifiable.  
 
 If you would like to add a white label seller, this model must be covered by your contract with VTEX. In case you need to make changes to your contract, please contact your VTEX sales representative and submit a request to [add a franchise account](/en/tutorial/o-que-e-conta-franquia--kWQC6RkFSCUFGgY5gSjdl) through our Support. Every franchise account is created as a white label seller. It is not possible to change the seller type after its creation.
 

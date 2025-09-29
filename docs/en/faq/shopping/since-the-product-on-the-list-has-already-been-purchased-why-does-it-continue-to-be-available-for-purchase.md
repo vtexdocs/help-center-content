@@ -1,7 +1,7 @@
 ---
 title: 'Since the product on the list has already been purchased, why does it continue to be available for purchase?'
 id: frequentlyAskedQuestions_378
-status: CHANGED
+status: PUBLISHED
 createdAt: 2017-04-27T22:36:31.013Z
 updatedAt: 2020-01-16T19:19:46.375Z
 publishedAt: 2019-12-31T14:24:59.123Z

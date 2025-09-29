@@ -1,7 +1,7 @@
 ---
 title: 'Redirecionamentos'
 id: 3okF84cImJwKzcc8hxmZ2r
-status: CHANGED
+status: PUBLISHED
 createdAt: 2024-06-27T17:04:44.975Z
 updatedAt: 2024-12-03T16:07:12.863Z
 publishedAt: 2024-09-20T13:09:06.378Z

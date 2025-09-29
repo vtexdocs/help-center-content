@@ -15,11 +15,11 @@ locale: es
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
-> ⚠️ **Atención:** existen dos formas de configurar colecciones, mediante el CMS o utilizando el módulo Colecciones Beta. Este artículo se refiere a <a href = "/es/tutorial/registrar-una-coleccion-cms--2YBy6P6X0NFRpkD2ZBxF6L">la configuración de colecciones mediante el CMS</a>.
+> ⚠️ **Atención:** existen dos formas de configurar colecciones, mediante el CMS o utilizando el módulo Colecciones Beta. Este artículo se refiere a [la configuración de colecciones mediante el CMS](/es/tutorial/registrar-una-coleccion-cms--2YBy6P6X0NFRpkD2ZBxF6L).
 
 Las vitrinas se usan en el destaque de productos en diversas páginas, se pueden usar también para recomendaciones, en la página del producto.
 
-Primero, antes de definir una vitrina, se debe crear una colección (ver instrucciones [aquí](http://help.vtex.com/es/tutorial/criando-colecao-de-produtos)) con los productos que se exhibirán en ella. También es necesario que las páginas estén debidamente estructuradas, con los debidos controles insertados en sus templates.
+Primero, antes de definir una vitrina, se debe crear una colección (ver instrucciones [aquí](/es/tutorial/criando-colecao-de-produtos)) con los productos que se exhibirán en ella. También es necesario que las páginas estén debidamente estructuradas, con los debidos controles insertados en sus templates.
 
 Realizadas las debidas definiciones, el vínculo de la colección con la vitrina se hace en **Storefront > Layout**.
 

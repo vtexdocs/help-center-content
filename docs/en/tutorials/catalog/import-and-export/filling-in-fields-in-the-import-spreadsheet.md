@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 2u48reCb68K48EAcm86ccM
 ---
 
-On the VTEX platform, you can [import products and SKUs in bulk using a spreadsheet](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ#planilha), by following the steps below:
+On the VTEX platform, you can [import products and SKUs in bulk using a spreadsheet](/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ#planilha), by following the steps below:
 
 1. In the VTEX Admin, go to **Catalog > Import and Export**, or type **Import and Export** in the search bar at the top of the page.
 2. Click on `Export/Import`.
@@ -96,7 +96,7 @@ To better understand the meaning of each field in the spreadsheet, see the compl
 
 **ShowOutOfStock:** field for displaying a product even if it is out of stock, which enables the section _Notify me_, where the customer can enter their email address to be notified when the product is back in stock. By entering _YES_, the out-of-stock product will be displayed on the website with the _Notify me_ option. By entering _NO_, the product will not be displayed on the website if it is out of stock. Required field.
 
-**Kit:** field that indicates whether the SKU is part of a [kit](/pt/tutorial/o-que-e-um-kit--5ov5s3eHM4AqAAgqWwoc28). This is a read-only field. If it is a new SKU, leave the field empty.
+**Kit:** field that indicates whether the SKU is part of a [kit](/en/tutorial/o-que-e-um-kit--5ov5s3eHM4AqAAgqWwoc28). This is a read-only field. If it is a new SKU, leave the field empty.
 
 **DepartmentId:** the unique identifier number of the product’s top-level category. This is a read-only field. If it is a new product, leave the field empty.
 
@@ -112,9 +112,9 @@ To better understand the meaning of each field in the spreadsheet, see the compl
 
 **CubicWeight:** deprecated field. This field is not used by the system anymore. We recommend leaving it empty.
 
-**CommercialCondition:** the unique identifier number of the [commercial condition](/pt/tutorial/como-cadastrar-condicao-comercial--tutorials_445). It defines SKU-specific promotions and installment rules. 
+**CommercialCondition:** the unique identifier number of the [commercial condition](/en/tutorial/como-cadastrar-condicao-comercial--tutorials_445). It defines SKU-specific promotions and installment rules. 
 
-**Stores:** the unique identifier number of the [trade policy](/pt/tutorial/criar-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE). You can find this information in the _Id_ section of the _Trade policies_ module in the Admin.
+**Stores:** the unique identifier number of the [trade policy](/en/tutorial/criar-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE). You can find this information in the _Id_ section of the _Trade policies_ module in the Admin.
 
 **Accessories:** field that displays a complementary product to another product. To add a [accessory](/en/tutorial/configurando-produto-similar-sugestoes-acessorios-e-genericos--tutorials_280) SKU, include the SKU ID for reference.
 
@@ -124,5 +124,5 @@ To better understand the meaning of each field in the spreadsheet, see the compl
 
 **ShowTogether:** field that displays the SKUs that will be suggested for buying together with a given SKU. To add a [show together](/en/tutorial/configurando-produto-similar-sugestoes-acessorios-e-genericos--tutorials_280) SKU, include the SKU ID for reference.
 
-**Attachment:** field that shows an [attachment](/pt/tutorial/o-que-e-um-anexo--aGICk0RVbqKg6GYmQcWUm#) to the buyer of a [service](/pt/tutorial/o-que-e-um-servico--46Ha8CEEQoC6Y40i6akG0y#) or item.
+**Attachment:** field that shows an [attachment](/en/tutorial/o-que-e-um-anexo--aGICk0RVbqKg6GYmQcWUm#) to the buyer of a [service](/en/tutorial/o-que-e-um-servico--46Ha8CEEQoC6Y40i6akG0y#) or item.
 

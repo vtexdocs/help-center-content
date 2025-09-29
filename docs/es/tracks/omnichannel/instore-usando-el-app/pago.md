@@ -40,7 +40,7 @@ Durante la configuración de VTEX Sales App, se pueden agregar los siguientes me
 - [Tarjeta de crédito](#tarjeta-de-credito)
 - [Tarjeta de débito](#tarjeta-de-debito)
 
-Para configurar un medio de pago, sigue las instrucciones de la guía[ VTEX Sales App - Pagos](/pt/tracks/instore-pagamentos--43B4Nr7uZva5UdwWEt3PEy).
+Para configurar un medio de pago, sigue las instrucciones de la guía[ VTEX Sales App - Pagos](/es/tracks/instore-pagamentos--43B4Nr7uZva5UdwWEt3PEy).
 
 ### Efectivo
 

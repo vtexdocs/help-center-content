@@ -1,7 +1,7 @@
 ---
 title: 'Gestão de crédito por meio do Customer Credit'
 id: 5lihi3WBsV5mSIDqNvnoK0
-status: CHANGED
+status: PUBLISHED
 createdAt: 2020-05-29T12:51:08.993Z
 updatedAt: 2020-11-27T19:40:26.828Z
 publishedAt: 2020-06-01T23:34:10.710Z

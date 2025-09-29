@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 32zXHBMygA2dB6TbCjQJej
 ---
 
-Follow the steps below to configure a [merchandising rule](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5tBSYXb9EIdePa0MWTnFd0) in the VTEX Intelligent Search Manual Editor.
+Follow the steps below to configure a [merchandising rule](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5tBSYXb9EIdePa0MWTnFd0) in the VTEX Intelligent Search Manual Editor.
 
 1. In the VTEX Admin, go to **Storefront**, or type **Storefront** in the search bar at the top of the page.
 2. Under **Intelligent Search**, click **Merchandising Rules**.

@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
-Una promoción es un descuento concedido sobre el valor de la compra del cliente. Este descuento puede estar asociado a uno o varios productos, al costo de envío o a un regalo, por ejemplo. Existen los siguientes tipos de promoción en VTEX: [Regular](/en/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI), [Comprar Juntos](/es/tutorial/compre-junto--tutorials_323), [Más por Menos](/es/tutorial/leve-mais-por-menos--tutorials_325), [Descuento Progresivo](/es/tutorial/desconto-progressivo--tutorials_324), [Comprar y Obtener](/es/tutorial/compre-e-ganhe--tutorials_322)y [Promoción de Campaña](/es/tutorial/promocao-de-campanha--1ChYXhK2AQGuS6wAqS8Ume). 
+Una promoción es un descuento concedido sobre el valor de la compra del cliente. Este descuento puede estar asociado a uno o varios productos, al costo de envío o a un regalo, por ejemplo. Existen los siguientes tipos de promoción en VTEX: [Regular](/es/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI), [Comprar Juntos](/es/tutorial/compre-junto--tutorials_323), [Más por Menos](/es/tutorial/leve-mais-por-menos--tutorials_325), [Descuento Progresivo](/es/tutorial/desconto-progressivo--tutorials_324), [Comprar y Obtener](/es/tutorial/compre-e-ganhe--tutorials_322)y [Promoción de Campaña](/es/tutorial/promocao-de-campanha--1ChYXhK2AQGuS6wAqS8Ume). 
 
 En este artículo, encontrarás el paso a paso para realizar las siguientes acciones:
 
@@ -54,7 +54,7 @@ Para buscar una promoción, sigue los pasos a continuación:
 
    1. Accede al menú **Promociones**.
    2. Haz clic en **Promociones**. 
-   3. En la barra de búsqueda, introduce el nombre, la descripción, la [UTM](/es/tutorial/what-are-utm-source-utm-campaign-and-utm-medium--2wTz7QJ8KUG6skGAoAQuii?&utm_source=autocomplete) o la [política comercial](/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV?&utm_source=autocomplete) registrada en la promoción. 
+   3. En la barra de búsqueda, introduce el nombre, la descripción, la [UTM](/es/tutorial/what-are-utm-source-utm-campaign-and-utm-medium--2wTz7QJ8KUG6skGAoAQuii?&utm_source=autocomplete) o la [política comercial](/es/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV?&utm_source=autocomplete) registrada en la promoción. 
 
 ## Ordenar promoción
 Puedes ordenar las promociones creadas por status o por nombre. Este recurso tiene por objeto ayudarte a encontrar una promoción que quieras verificar o cuya configuración quieras modificar. Para ordenarlas, sigue los pasos a continuación:
@@ -80,7 +80,7 @@ Estas promociones se pueden identificar fácilmente en la página principal de P
 
 ![programada](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/tasas-y-promociones/promociones/crear-promociones_1.png)
 
-Para programar una promoción, sigue los pasos descritos en la sección [Programar promociones](/es/tutorial/agendamento-para-eventos-especiais--2nd50tPWdKK4waXRZLg0JI?&utm_source=autocomplete#programar-promociones) del artículo [Programación de funcionalidades para eventos especiales](/pt/tutorial/agendamento-para-eventos-especiais--2nd50tPWdKK4waXRZLg0JI).
+Para programar una promoción, sigue los pasos descritos en la sección [Programar promociones](/es/tutorial/agendamento-para-eventos-especiais--2nd50tPWdKK4waXRZLg0JI?&utm_source=autocomplete#programar-promociones) del artículo [Programación de funcionalidades para eventos especiales](/es/tutorial/agendamento-para-eventos-especiais--2nd50tPWdKK4waXRZLg0JI).
 
 ## Archivar promoción
 Si no quieres que se siga utilizando una promoción, puedes moverla a la lista de promociones archivadas, con lo que su status cambiará automáticamente a Inactiva. Para archivar una promoción, sigue los pasos a continuación:

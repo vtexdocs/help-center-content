@@ -32,8 +32,8 @@ Follow the steps below to configure the product comparison in your store.
 
 ### Comparison page
 
-1. [Create a shelf template](http://help.vtex.com/en/faq/como-criar-um-template-de-prateleira) to standardize product display on the comparison page. In this template, you can use any of the [available controls for shelves](https://developers.vtex.com/docs/guides/shelf-template-controls).
-2. [Create a page template](http://help.vtex.com/en/faq/como-criar-um-template-de-pagina) using the `<vtex.cmc:ProductComparison/>` control, which displays products side by side on the comparison page. Example usage of the control:  
+1. [Create a shelf template](/en/faq/como-criar-um-template-de-prateleira) to standardize product display on the comparison page. In this template, you can use any of the [available controls for shelves](https://developers.vtex.com/docs/guides/shelf-template-controls).
+2. [Create a page template](/en/faq/como-criar-um-template-de-pagina) using the `<vtex.cmc:ProductComparison/>` control, which displays products side by side on the comparison page. Example usage of the control:  
 
 ```
 <vtex.cmc:ProductComparison ShelfLayoutId="12343216-4c8e-4cd5-bcd7-e3b062681f2a"/>

@@ -21,7 +21,7 @@ To use the filter, follow these steps:
 
 1. In the VTEX Admin, go to **Orders > All Orders**, or type **All Orders** in the search bar at the top of the page.
 2. Click `Filters`.
-3. Select the desired [filter](/pt/tutorial/filtrar-todos-pedidos--tutorials_192).
+3. Select the desired [filter](/en/tutorial/filtrar-todos-pedidos--tutorials_192).
 4. Click `Apply`.
 
 For more information about filters, see the article [Filtering orders on All Orders](/en/tutorial/filtrar-todos-pedidos--tutorials_192).

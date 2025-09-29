@@ -60,7 +60,7 @@ O objetivo é analisar:
 
 ## Saiba mais
 
-* [Risk Assessment](/en/tutorial/risk-assessment--4K97IpqkpCpDYsZOSxtfkX) 
+* [Risk Assessment](/pt/tutorial/risk-assessment--4K97IpqkpCpDYsZOSxtfkX) 
 * [VTEX Shared Responsibility Model](https://vtex.com/us-en/security/shared-responsibility-model/)  
 * [Práticas de Segurança - VTEX](https://vtex.com/us-en/security/security-practices/)  
 * [Security](https://developers.vtex.com/docs/guides/security)

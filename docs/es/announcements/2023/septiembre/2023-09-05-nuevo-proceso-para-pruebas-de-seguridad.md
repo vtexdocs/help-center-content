@@ -23,7 +23,7 @@ En caso necesario, puedes realizar una prueba de penetración independiente (con
 
 De manera resumida, el nuevo proceso para realizar pruebas de penetración consiste en:
 
-1. Solicitar la programación de una prueba abriendo un ticket para el [equipo de soporte](/support?/cultureInfo=es-419) de VTEX.
+1. Solicitar la programación de una prueba abriendo un ticket para el [equipo de soporte](/es/support?/cultureInfo=es-419) de VTEX.
 2. Revisar y firmar el [acuerdo de confidencialidad](https://assets.ctfassets.net/alneenqid6w5/5iw8rN7CdSn7PHKvMMcO19/ab46ae4025d506e052dcef5974f9007f/Pentest_NDA_.zip) antes de ejecutar cualquier prueba.
 3. Compartir los resultados con el equipo de seguridad de VTEX una vez finalizada la prueba.
 

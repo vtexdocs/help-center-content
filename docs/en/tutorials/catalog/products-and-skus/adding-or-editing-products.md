@@ -15,7 +15,7 @@ locale: en
 subcategoryId: pwxWmUu7T222QyuGogs68
 ---
 
-The [Products and SKUs](/pt/tutorial/products-and-skus--2ig7TmROlirWirZjFWZ3By) page allows merchants to manage existing products and variations or add new ones. This article describes how to add or edit products. For information on SKUs, see [Adding or editing SKUs](/en/tutorial/adding-or-editing-skus--4ryZ6J45kwn3jDiQBxGiiN).
+The [Products and SKUs](/en/tutorial/products-and-skus--2ig7TmROlirWirZjFWZ3By) page allows merchants to manage existing products and variations or add new ones. This article describes how to add or edit products. For information on SKUs, see [Adding or editing SKUs](/en/tutorial/adding-or-editing-skus--4ryZ6J45kwn3jDiQBxGiiN).
 
 > ℹ️ Registering products can also be done by [importing a spreadsheet](/en/tutorial/filling-in-fields-in-the-import-spreadsheet--4nYhx63Q5yokQWaMguaIgI) or via ERP, following the [Back office integration guide (ERP/PIM/WMS)](https://developers.vtex.com/docs/guides/erp-integration-import-products) instructions on our Developer Portal.
 

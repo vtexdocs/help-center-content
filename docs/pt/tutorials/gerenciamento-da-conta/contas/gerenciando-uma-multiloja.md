@@ -1,7 +1,7 @@
 ---
 title: 'Gerenciando uma multiloja'
 id: 4S0lFVBPylRS5KpVgdyDhJ
-status: CHANGED
+status: PUBLISHED
 createdAt: 2024-09-06T12:35:51.501Z
 updatedAt: 2025-02-07T13:40:57.764Z
 publishedAt: 2025-02-07T13:30:06.894Z
@@ -25,7 +25,7 @@ A criação de multiloja é sem custos para o lojista. Porém, caso seja necess�
 
 Para criar uma nova loja, siga as instruções da seção **Criar loja** do guia [Gerenciamento de conta](/pt/tutorial/account-details-page--2vhUVOKfCaswqLguT2F9xq#criar-loja).
 
-É preciso especificar qual é o domínio da sua nova loja. Saiba mais com o guia [Configurando o domínio da sua loja](/tutorial/configurando-dominios-no-gerenciamento-da-conta--tutorials_2450).
+É preciso especificar qual é o domínio da sua nova loja. Saiba mais com o guia [Configurando o domínio da sua loja](/pt/tutorial/configurando-dominios-no-gerenciamento-da-conta--tutorials_2450).
 
 Após criada a multiloja, defina o layout para cada loja dependendo da tecnologia de frontend utilizada. Para mais detalhes, veja [Definir layouts para cada loja](#definir-layouts-para-cada-loja).
 
@@ -44,7 +44,7 @@ Para diferenciar produtos e/ou preços em cada loja, é necessária a utilizaç�
 
 Para que os clientes possam acessar a nova loja, siga as instruções abaixo para criar um website copiando a estrutura de pastas do seu website principal. Esse processo facilita a criação do layout, mas também é possível criar um website novo.
 
-> ❗ Lojas desenvolvidas com Store Framework também devem seguir estas instruções. Caso contrário, a nova loja não ficará disponível.
+> ⚠️ Lojas desenvolvidas com Store Framework também devem seguir estas instruções. Caso contrário, a nova loja não ficará disponível.
 
 1. No Admin VTEX, acesse o módulo **Storefront > Layout**.
 2. Clique em **CMS > Sites and channels**.

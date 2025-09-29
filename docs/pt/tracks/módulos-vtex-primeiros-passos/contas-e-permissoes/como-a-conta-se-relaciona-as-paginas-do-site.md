@@ -1,7 +1,7 @@
 ---
 title: 'Como a conta se relaciona às páginas do site'
 id: 1UVjfLFJ81ux7M6pAnIlSJ
-status: CHANGED
+status: PUBLISHED
 createdAt: 2019-11-25T21:33:04.077Z
 updatedAt: 2020-11-27T19:39:58.651Z
 publishedAt: 2020-02-13T14:58:35.122Z

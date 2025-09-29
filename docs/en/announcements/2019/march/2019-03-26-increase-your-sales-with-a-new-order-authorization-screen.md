@@ -1,7 +1,7 @@
 ---
 title: 'Increase your sales with a new Order Authorization screen'
 id: 7EXIgaESHfI46lkaZw9jrQ
-status: CHANGED
+status: PUBLISHED
 createdAt: 2019-03-26T18:22:14.655Z
 updatedAt: 2020-11-27T19:39:59.191Z
 publishedAt: 2019-12-31T15:13:55.578Z

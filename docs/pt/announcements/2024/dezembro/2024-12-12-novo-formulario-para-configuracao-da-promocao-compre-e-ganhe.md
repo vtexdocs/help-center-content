@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisPT: 'Atualizamos o formulário "Compre e Ganhe" para facilitar a configuração de promoções com uma interface mais intuitiva.'
 ---
 
-A VTEX disponibiliza um novo [formulário](/tutorial/compre-e-ganhe--tutorials_322) para configuração da promoção Compre e Ganhe. Este recurso oferece uma interface mais estruturada, facilitando a criação de promoções que permitem ao cliente receber benefícios, como frete grátis ou brindes, ao adicionar produtos ao carrinho.
+A VTEX disponibiliza um novo [formulário](/pt/tutorial/compre-e-ganhe--tutorials_322) para configuração da promoção Compre e Ganhe. Este recurso oferece uma interface mais estruturada, facilitando a criação de promoções que permitem ao cliente receber benefícios, como frete grátis ou brindes, ao adicionar produtos ao carrinho.
 
 ## Por que fizemos essa mudança?
 O novo formulário foi criado para melhorar a experiência de configuração de promoções no Admin VTEX. Os principais benefícios incluem:

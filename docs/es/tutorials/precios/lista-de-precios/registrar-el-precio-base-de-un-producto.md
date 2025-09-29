@@ -1,7 +1,7 @@
 ---
 title: 'Registrar el precio base de un producto'
 id: 4S9SbPWlVmOAAWO6yq8wE6
-status: CHANGED
+status: PUBLISHED
 createdAt: 2018-03-20T20:04:04.818Z
 updatedAt: 2023-03-30T16:46:02.952Z
 publishedAt: 2019-12-31T15:24:46.247Z

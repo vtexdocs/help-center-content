@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 1P1vFnzQ4TQJsBRDoPVKUI
 ---
 
-> ℹ️ La aplicación está em fase Beta, o que significa que estamos trabalhando para aprimorá-lo. Em caso de dúvidas, entre em contato com <a href= "https://support.vtex.com/hc/pt-br/requests">nosso Suporte</a>.
+> ℹ️ La aplicación está em fase Beta, o que significa que estamos trabalhando para aprimorá-lo. Em caso de dúvidas, entre em contato com [nosso Suporte](https://support.vtex.com/hc/pt-br/requests).
 
 La aplicación Amazon Multi-Channel Fulfillment (MCF) te permite integrar tu negocio con el programa del mismo nombre. Con la integración, los clientes VTEX pueden utilizar la red logística de Amazon en sus propias tiendas. Así, los ítems de venta se almacenan en los centros de distribución de Amazon, y después de cada venta en tu ecommerce, la plataforma VTEX envía los datos del pedido a Amazon para que los separe, empaquete y envíe a los destinatarios.
 
@@ -29,7 +29,7 @@ Este tutorial contiene la información necesaria para instalar y configurar la a
 
 Antes de la instalación, es necesario:
 
-* Tener una cuenta de _[Seller en Amazon](https://sell.amazon.com/)_ Para más información, consulta el artículo [Configuración de la cuenta en Amazon](/en/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/43L0dpbjLBz6tcim1BbTzf).
+* Tener una cuenta de _[Seller en Amazon](https://sell.amazon.com/)_ Para más información, consulta el artículo [Configuración de la cuenta en Amazon](/es/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/43L0dpbjLBz6tcim1BbTzf).
 * Asegurarte de que los productos de tu tienda cumplen las [políticas de restricción de Amazon](https://sellercentral.amazon.com/gp/help/external/200164330).
 * Asegurarte de que tu tienda está situada en países donde la MCF está disponible. Países como Estados Unidos, Australia, México, Alemania y Canadá ya cuentan con la MCF de Amazon. Consulta la lista actualizada de países [en esta página de Amazon](https://sell.amazon.com/fulfillment-by-amazon/fba-multi-channel.html).
 
@@ -106,7 +106,7 @@ Para instalar la aplicación, accede a VTEX App Store:
 
 Para que los ítems registrados en una plataforma estén disponibles en ambas, es necesario realizar una integración entre los catálogos a través del _marketplace_. 
 
-Para realizar la integración, consulta y sigue los pasos del tutorial [Registro de la integración de Amazon](/en/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5J9CWPIbYQdAegJJWGsxan).
+Para realizar la integración, consulta y sigue los pasos del tutorial [Registro de la integración de Amazon](/es/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5J9CWPIbYQdAegJJWGsxan).
 
 ## Autorización entre cuentas
 

@@ -1,7 +1,7 @@
 ---
 title: 'Headless CMS: mantente informado sobre el progreso de tus publicaciones'
 id: 3ajb4FgE6nmqjblpSEg3SP
-status: CHANGED
+status: PUBLISHED
 createdAt: 2023-08-21T12:33:36.149Z
 updatedAt: 2023-10-04T13:35:38.902Z
 publishedAt: 2023-08-21T15:36:01.683Z

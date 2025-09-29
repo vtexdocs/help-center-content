@@ -124,7 +124,7 @@ Para lojas que utilizam o [VTEX IO](https://vtex.com/us-en/store-framework/), é
 
 ## Configurar pagamentos
 
-Existem diferentes cenários relacionados a pagamentos em marketplaces VTEX, com suas próprias configurações. Saiba mais sobre as opções para Split de pagamentos e as configurações necessárias para que o seller ou o marketplace processem pagamentos em [Pagamentos em marketplace VTEX](/tutorial/pagamentos-em-marketplaces-vtex--2kYOfWCZYweJkYl18bw9yD). 
+Existem diferentes cenários relacionados a pagamentos em marketplaces VTEX, com suas próprias configurações. Saiba mais sobre as opções para Split de pagamentos e as configurações necessárias para que o seller ou o marketplace processem pagamentos em [Pagamentos em marketplace VTEX](/pt/tutorial/pagamentos-em-marketplaces-vtex--2kYOfWCZYweJkYl18bw9yD). 
 
 _____________
 

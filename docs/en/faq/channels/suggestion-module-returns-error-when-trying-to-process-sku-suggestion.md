@@ -1,7 +1,7 @@
 ---
 title: 'Suggestions module returns error when trying to process SKU suggestion. What to do?'
 id: 2OAWpCkw3YQwWGAmss6sCG
-status: CHANGED
+status: PUBLISHED
 createdAt: 2019-01-24T20:30:45.252Z
 updatedAt: 2023-03-22T20:55:46.996Z
 publishedAt: 2019-12-31T14:25:03.994Z

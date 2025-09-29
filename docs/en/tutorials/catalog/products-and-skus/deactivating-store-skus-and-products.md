@@ -29,7 +29,7 @@ Both products and SKUs can be either active or inactive, as shown in the table b
 
 | **Product or SKU status** | **Description** |
 | :---: | :--- |
-| Active | The product or SKU was activated, indicating that the merchant intends to sell it on the storefront.The sale of that product or SKU also depends on its activation and availability. For more information on product availability, see [Products and SKUs](/en/tutorial/products-and-skus--2ig7TmROlirWirZjFWZ3By#tracking-product-availability) and [Why is the product not visible on the website?](/faq/why-is-the-product-not-visible-on-the-website--frequentlyAskedQuestions_382). |
+| Active | The product or SKU was activated, indicating that the merchant intends to sell it on the storefront.The sale of that product or SKU also depends on its activation and availability. For more information on product availability, see [Products and SKUs](/en/tutorial/products-and-skus--2ig7TmROlirWirZjFWZ3By#tracking-product-availability) and [Why is the product not visible on the website?](/en/faq/why-is-the-product-not-visible-on-the-website--frequentlyAskedQuestions_382). |
 | Inactive | The product or SKU is inactive, showing the merchant doesn't want it to display in the storefront for sale at the moment. |
 
 ## Deactivating a product
@@ -37,7 +37,7 @@ Both products and SKUs can be either active or inactive, as shown in the table b
 To deactivate a product, follow the steps below:
 
 1. In the VTEX Admin, go to **Catalog > Products and SKUs**, or type **Products and SKUs** in the search bar at the top of the page.
-2. Click the row corresponding to the product you want. Use the [search bar](/pt/tutorial/produtos-e-skus--2ig7TmROlirWirZjFWZ3By#searching-for-a-product) if needed.
+2. Click the row corresponding to the product you want. Use the [search bar](/en/tutorial/produtos-e-skus--2ig7TmROlirWirZjFWZ3By#searching-for-a-product) if needed.
 3. On the product editing page, turn off the <i class="fas fa-toggle-off" aria-hidden="true"></i> Active toggle.
 4. Click `Save`.
 
@@ -48,7 +48,7 @@ To deactivate a product, follow the steps below:
 To deactivate a SKU, follow the steps below:
 
 1. In the VTEX Admin, go to **Catalog > Products and SKUs**, or type **Products and SKUs** in the search bar at the top of the page.
-2. Click the down arrow next to the product name to display the linked SKUs. Use the [search bar](/pt/tutorial/produtos-e-skus--2ig7TmROlirWirZjFWZ3By#searching-for-a-product) if needed.
+2. Click the down arrow next to the product name to display the linked SKUs. Use the [search bar](/en/tutorial/produtos-e-skus--2ig7TmROlirWirZjFWZ3By#searching-for-a-product) if needed.
 3. Choose one of the following options:
     * In the SKU row, click the `Deactivate` icon <i class="fas fa-eye" aria-hidden="true"></i> and confirm by clicking `Deactivate`. 
     * Or click the SKU row to access the edit page, turn off the <i class="fas fa-toggle-off" aria-hidden="true"></i> **Active** toggle, and click `Save.`

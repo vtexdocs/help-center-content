@@ -17,7 +17,7 @@ order: 4
 
 Los productos add-on son soluciones que VTEX ofrece para satisfacer demandas específicas de los negocios y que pueden adquirirse por separado mediante un contrato de suscripción.
 
-> ⚠️ Para implementar las soluciones a continuación, debes ponerte en contacto con el equipo de[ soporte comercial de VTEX](/tracks/soporte-en-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ).
+> ⚠️ Para implementar las soluciones a continuación, debes ponerte en contacto con el equipo de[ soporte comercial de VTEX](/es/tracks/soporte-en-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ).
 
 ## VTEX Assisted Sales
 
@@ -70,7 +70,7 @@ Para ver una demostración de la aplicación o programar una sesión personaliza
 
 ## VTEX Shipping Network
 
-Explora las opciones de envío de productos a todas las regiones de Brasil con [VTEX Shipping Network](/pt/tutorial/pronto-para-envio--5YOZV7Aotv3pap0fGNESDs) y **VTEX Shipping Network Correios**.
+Explora las opciones de envío de productos a todas las regiones de Brasil con [VTEX Shipping Network](/es/tutorial/pronto-para-envio--5YOZV7Aotv3pap0fGNESDs) y **VTEX Shipping Network Correios**.
 
 **VTEX Shipping Network** permite conectar transportadoras para crear una red de entrega integrada, que actualmente cuenta con más de 20 socios, para ofrecer a los clientes mejores opciones de costo y plazo.
 
@@ -82,19 +82,19 @@ Para más información, debes acceder a la página de VTEX Shipping Network.
 
 ## VTEX Shipping Network Correios (solo Brasil)
 
-[VTEX Shipping Network Correios](/pt/tutorial/vtex-shipping-network-correios-faq--2Wavf7Wie5GEUAEHKtn5oC) es una asociación entre VTEX y Correios en la que la tienda puede contratar servicios de envío de productos a través de PAC y SEDEX directamente en el Admin VTEX, con tarifas especiales que reducen los costos operativos del envío.
+[VTEX Shipping Network Correios](/es/tutorial/vtex-shipping-network-correios-faq--2Wavf7Wie5GEUAEHKtn5oC) es una asociación entre VTEX y Correios en la que la tienda puede contratar servicios de envío de productos a través de PAC y SEDEX directamente en el Admin VTEX, con tarifas especiales que reducen los costos operativos del envío.
 
 ![image6](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/gu%C3%ADa-de-onboarding/proximos-pasos-tras-el-go-live/products-add-on_7.png)
 
-Contratar la solución es simple y solo toma unos pocos minutos: basta con aceptar los Términos y condiciones y la [activación](/pt/tutorial/vtex-shipping-network-correios-ativacao--57opHihFbRAwrjQjCTymTa) directamente en el Admin de la tienda. Algunas de las funcionalidades de VTEX Shipping Network Correios son:
+Contratar la solución es simple y solo toma unos pocos minutos: basta con aceptar los Términos y condiciones y la [activación](/es/tutorial/vtex-shipping-network-correios-ativacao--57opHihFbRAwrjQjCTymTa) directamente en el Admin de la tienda. Algunas de las funcionalidades de VTEX Shipping Network Correios son:
 
 - Sincronización de las tablas de envío entre Correios y VTEX. Las actualizaciones de datos realizadas por Correios se muestran automáticamente en el entorno VTEX.
 
 - El seguimiento de envío se añade y actualiza automáticamente en los pedidos.
 
-- Las etiquetas de envío se pueden imprimir desde el Admin VTEX (en la página [Pronto para Envio](/pt/tutorial/pronto-para-envio--5YOZV7Aotv3pap0fGNESDs)) o por [API](https://developers.vtex.com/docs/guides/vtex-shipping-network-labels-integration) para las integraciones con sistemas externos (como ERP o WMS).
+- Las etiquetas de envío se pueden imprimir desde el Admin VTEX (en la página [Pronto para Envio](/es/tutorial/pronto-para-envio--5YOZV7Aotv3pap0fGNESDs)) o por [API](https://developers.vtex.com/docs/guides/vtex-shipping-network-labels-integration) para las integraciones con sistemas externos (como ERP o WMS).
 
-- Canal de comunicación directa con Correios dentro del Admin a través de [Pedido de informações](/pt/tutorial/entregas-correios-vtex-shipping-network--5CZRA0lq60EecmwZpsjvfq#solicitar-informacoes-do-pedido-aos-correios).
+- Canal de comunicación directa con Correios dentro del Admin a través de [Pedido de informações](/es/tutorial/entregas-correios-vtex-shipping-network--5CZRA0lq60EecmwZpsjvfq#solicitar-informacoes-do-pedido-aos-correios).
 
 Para más información, debes acceder a la página de [VTEX Shipping Network Correios](https://vtex.com/br-pt/shipping-network-correios/).
 

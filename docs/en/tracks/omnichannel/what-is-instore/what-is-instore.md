@@ -47,4 +47,4 @@ See below all the recommended guides to get started with VTEX Sales App.
 
 To see all VTEX Sales App related tracks, click on **[`Start here`](/en/tracks/)** at the top of the page and scroll down to the **Omnichannel** category.
 
-Click `Next` to access the next articles in the **[VTEX Sales App - Getting Started and Configuring](/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc)** track.
+Click `Next` to access the next articles in the **[VTEX Sales App - Getting Started and Configuring](/en/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc)** track.

@@ -15,13 +15,13 @@ locale: pt
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
-> ⚠️ **Atenção**: a VTEX apresenta duas opções da busca - a busca VTEX e o VTEX Intelligent Search. Este artigo se refere à busca VTEX. Para saber mais sobre o aplicativo VTEX Intelligent Search acesse <a href = "/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb">nossa track</a>.
+> ⚠️ **Atenção**: a VTEX apresenta duas opções da busca - a busca VTEX e o VTEX Intelligent Search. Este artigo se refere à busca VTEX. Para saber mais sobre o aplicativo VTEX Intelligent Search acesse [nossa track](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb).
 
 Você pode fazer com que, ao buscar pelo nome de uma coleção na busca da loja, o usuário encontre os produtos dessa coleção.
 
 Por exemplo: digamos que você tenha uma coleção chamada "Dia das crianças", e que você marque esta coleção como buscável. Se um cliente da loja buscar pelo termo "Dia das crianças", os produtos que fazem parte dessa coleção serão renderizados no resultado de busca.
 
-> ⚠️ **Atenção:** existem duas formas de configurar coleções, por meio do CMS ou utilizando o módulo de Coleções Beta. Este artigo, refere-se à <a href = "/pt/tutorial/cadastro-de-colecoes-cms--2YBy6P6X0NFRpkD2ZBxF6L">configuração de coleções por meio do CMS</a>.
+> ⚠️ **Atenção:** existem duas formas de configurar coleções, por meio do CMS ou utilizando o módulo de Coleções Beta. Este artigo, refere-se à [configuração de coleções por meio do CMS](/pt/tutorial/cadastro-de-colecoes-cms--2YBy6P6X0NFRpkD2ZBxF6L).
 
 Para tornar uma coleção buscável, siga os passos abaixo:
 

@@ -27,7 +27,7 @@ The following types of reports are available:
 - [Subscriptions created between dates](#subscriptions-created-between-dates)
 - [Subscriptions triggered between dates](#subscriptions-triggered-between-dates)
 
-> ℹ️ You can also use the endpoint <a href=https://developers.vtex.com/docs/api-reference/subscriptions-api-v3#get-/api/rns/pvt/reports>List report templates</a> to learn the types of reports you can generate.
+> ℹ️ You can also use the endpoint [List report templates](https://developers.vtex.com/docs/api-reference/subscriptions-api-v3#get-/api/rns/pvt/reports) to learn the types of reports you can generate.
 
 In this article, you’ll learn more about the data returned by each type of subscription report.
 

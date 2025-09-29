@@ -35,14 +35,14 @@ Before implementing the frontend, you should configure the following steps in yo
 |---|---|
 | Defining the store's architecture and sales strategy | The team defines your VTEX store's architecture based on your business model's strategies and needs.<br><br>Learn more in the [Accounts and architecture](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl) article. |
 | Configuring roles | The team configures the roles needed for each [user](/en/tutorial/managing-users--tutorials_512) to use the VTEX platform.<br><br>Learn more in the [Roles](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) article. |
-| Configuring catalog | The team configures the product[ catalog](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#catalog), category tree, and related information, such as descriptions, images, and prices, to populate and test the store, including features such as product listing pages (PLP), search features, product details pages (PDP), and checkout.<br><br>Not having a catalog can result in incomplete testing and data integration problems, which delays implementation.<br><br>Learn more in the [VTEX modules I](/pt/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7) article. |
+| Configuring catalog | The team configures the product[ catalog](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#catalog), category tree, and related information, such as descriptions, images, and prices, to populate and test the store, including features such as product listing pages (PLP), search features, product details pages (PDP), and checkout.<br><br>Not having a catalog can result in incomplete testing and data integration problems, which delays implementation.<br><br>Learn more in the [VTEX modules I](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7) article. |
 | Defining the apps needed to operate the store | The team defines the native and third-party apps needed to operate the store.<br><br>For stores that will be built using [Store Framework](#store-framework), there is a list of native and third-party apps.<br><br>Learn more in the [VTEX IO apps](https://developers.vtex.com/docs/vtex-io-apps) article. |
 
 > ℹ️ The [development stage](#development-stages) can run in parallel with other [backend integrations](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu) and [module configuration](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7) steps, such as setting up payment methods and logistics. This will depend on the type of [architecture and planning](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl) chosen for the VTEX store, and the [implementing agency](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#implementation-partners) or [VTEX Support](/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/7w7cUmbrdPEKpTMItjXEB8) should monitor these processes.
 
 ## Frontend development technologies on VTEX
 
-VTEX has three different technologies for storefront development: [FastStore](#faststore), [Store Framework](#store-framework) and [CMS Portal Legado](/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj). Legacy CMS Portal was VTEX's first technology for building storefronts, based on HTML, CSS, and JavaScript, and all development and code editing for this technology is done via the VTEX Admin.
+VTEX has three different technologies for storefront development: [FastStore](#faststore), [Store Framework](#store-framework) and [CMS Portal Legado](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj). Legacy CMS Portal was VTEX's first technology for building storefronts, based on HTML, CSS, and JavaScript, and all development and code editing for this technology is done via the VTEX Admin.
 
 > ⚠️ Although some stores still use it, the [CMS Portal Legado](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj) is a legacy technology and is no longer available to new stores starting with VTEX.
 
@@ -260,7 +260,7 @@ Below are the requirements for each topic:
   - [Associating a shipping strategy and warehouse with a loading dock](/en/tutorial/managing-loading-docks--7K3FultD8I2cuuA6iyGEiW)
 - Payments
   - [Configuring the Notes Payable provider](/en/tutorial/setting-up-the-notes-payable-conector--7Gy0SJRVS0Qi2CuWMAqQc0)
-  - [Adding gateway providers](/pt/tutorial/registering-gateway-affiliations/)
+  - [Adding gateway providers](/en/tutorial/registering-gateway-affiliations/)
 - Performance and SEO
   - Improving the store performance using the right[ technology](https://v1.faststore.dev/how-to-guides/performance) tools
 - Metrics
@@ -306,7 +306,7 @@ Below are the requirements for each topic:
   - [Associating a shipping strategy and warehouse with a loading dock](/en/tutorial/managing-loading-docks--7K3FultD8I2cuuA6iyGEiW)
 - Payments
   - [Configuring the Notes Payable provider](/en/tutorial/setting-up-the-notes-payable-conector--7Gy0SJRVS0Qi2CuWMAqQc0)
-  - [Adding gateway providers](/pt/tutorial/registering-gateway-affiliations/)
+  - [Adding gateway providers](/en/tutorial/registering-gateway-affiliations/)
 - Performance
   - Improving the store performance using performance [optimization tools](https://developers.vtex.com/docs/guides/vtex-io-documentation-best-practices-for-optimizing-performance)
 - Metrics

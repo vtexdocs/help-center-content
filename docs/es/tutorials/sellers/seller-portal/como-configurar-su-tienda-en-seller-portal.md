@@ -176,9 +176,9 @@ Estas configuraciones son las que se aplican a la cuenta de su tienda VTEX. Esto
 
 Si más personas en su operación necesitan acceder al Seller Portal, puede registrar nuevos usuarios. Los propietarios de cuentas pueden agregar nuevos usuarios, lo que permite que más personas accedan al Seller Portal. Para obtener más información, consulte los siguientes artículos:
 
-- [Gestión de cuentas](/pt/tutorial/visao-geral-do-modulo-license-manager/)
-- [Administrar usuarios](/pt/tutorial/gerenciando-usuarios--tutorials_512)
-- [Perfiles de acceso](/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc)
+- [Gestión de cuentas](/es/tutorial/visao-geral-do-modulo-license-manager/)
+- [Administrar usuarios](/es/tutorial/gerenciando-usuarios--tutorials_512)
+- [Perfiles de acceso](/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc)
 
 **Configuración del usuario**
 Esta configuración se aplica a su perfil de usuario individual. Incluye datos personales y autenticación. Para acceder a esta funcionalidad, haga clic en el avatar de su perfil en la esquina superior derecha > Configuración del usuario.

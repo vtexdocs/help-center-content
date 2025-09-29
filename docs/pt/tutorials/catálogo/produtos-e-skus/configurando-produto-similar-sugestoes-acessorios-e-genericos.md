@@ -45,4 +45,4 @@ Para te auxiliar na utilização da técnicas acima podemos utilizar os campos n
 
 **Mostrar junto:** Exibe os SKUs dos produtos sugeridos para compra em conjunto. 
 
-A opção de Up Selling pode ser trabalhada com o uso da promoção [Compre Junto](http://help.vtex.com/pt/tutorial/compre-junto).
+A opção de Up Selling pode ser trabalhada com o uso da promoção [Compre Junto](/pt/tutorial/compre-junto).

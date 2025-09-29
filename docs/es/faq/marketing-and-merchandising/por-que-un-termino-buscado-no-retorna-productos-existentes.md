@@ -1,7 +1,7 @@
 ---
 title: '¿Por qué un término buscado no retorna productos existentes?'
 id: frequentlyAskedQuestions_6363
-status: CHANGED
+status: PUBLISHED
 createdAt: 2017-04-27T22:22:33.606Z
 updatedAt: 2020-11-27T19:39:37.145Z
 publishedAt: 2020-04-20T15:06:29.554Z
@@ -14,7 +14,7 @@ locale: es
 legacySlug: por-que-un-termino-buscado-no-retorna-productos-existentes
 ---
 
-> ⚠️ **Atención**: VTEX presenta dos opciones de búsqueda - La búsqueda VTEX y VTEX Intelligent Search. Este artículo se refiere a la búsqueda VTEX. Para saber más sobre la aplicación VTEX Intelligent Search, consulte <a href = "/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb">nuestra guía</a>.
+> ⚠️ **Atención**: VTEX presenta dos opciones de búsqueda - La búsqueda VTEX y VTEX Intelligent Search. Este artículo se refiere a la búsqueda VTEX. Para saber más sobre la aplicación VTEX Intelligent Search, consulte [nuestra guía](/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb).
 
 
 El artículo [Cómo funciona la búsqueda de VTEX?](/es/tutorial/como-funciona-la-busqueda-de-vtex/) demuestra las principales reglas que el algoritmo del buscador utiliza para exhibir y priorizar los productos a partir de un término buscado.

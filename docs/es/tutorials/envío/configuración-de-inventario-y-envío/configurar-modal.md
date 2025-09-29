@@ -1,7 +1,7 @@
 ---
 title: 'Configurar modal para transportistas'
 id: 3jhLqxuPhuiq24UoykCcqy
-status: CHANGED
+status: PUBLISHED
 createdAt: 2018-02-28T14:15:43.168Z
 updatedAt: 2023-03-29T15:09:26.801Z
 publishedAt: 2023-03-29T14:51:10.227Z

@@ -1,7 +1,7 @@
 ---
 title: 'Dê aos seus clientes uma nova experiência de auto-atendimento com o novo My Account'
 id: 77FfArUimzsoeHM7LzSfFY
-status: CHANGED
+status: PUBLISHED
 createdAt: 2019-04-12T22:51:48.332Z
 updatedAt: 2020-11-27T19:40:20.823Z
 publishedAt: 2019-12-31T15:12:59.744Z

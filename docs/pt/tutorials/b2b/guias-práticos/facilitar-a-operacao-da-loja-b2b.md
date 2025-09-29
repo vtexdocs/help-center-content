@@ -1,7 +1,7 @@
 ---
 title: 'Facilitar a operação da loja B2B'
 id: 8t1f9FYBsSCopHHVujKWR
-status: CHANGED
+status: PUBLISHED
 createdAt: 2021-03-30T14:29:12.548Z
 updatedAt: 2024-05-10T10:59:55.549Z
 publishedAt: 2021-05-20T18:17:16.108Z

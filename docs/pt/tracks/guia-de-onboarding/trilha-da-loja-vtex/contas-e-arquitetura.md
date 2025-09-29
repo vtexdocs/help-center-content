@@ -1,7 +1,7 @@
 ---
 title: 'Contas e arquitetura'
 id: 4yPqZQyj0t675QpcG7H6yl
-status: CHANGED
+status: PUBLISHED
 createdAt: 2024-01-09T00:00:08.724Z
 updatedAt: 2025-07-31T19:05:23.905Z
 publishedAt: 2024-10-03T13:14:47.433Z

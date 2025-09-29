@@ -25,7 +25,7 @@ Si desea utilizar la misma Estrategia de envío definida para su tienda VTEX en 
 
 - [Registrar la política de envío](/es/tutorial/politica-de-envio--tutorials_140#cadastrar-uma-politica-de-envio) asociada a la política comercial utilizada en la integración.
 - [Registrar el muelle](/es/tutorial/como-cadastrar-doca--7K3FultD8I2cuuA6iyGEiW) asociado a la política comercial utilizada en la integración.
-- [Registrar el almacén](/pt/tutorial/gerenciar-estoque--tutorials_137) asociado al muelle creado en el paso anterior.
+- [Registrar el almacén](/es/tutorial/gerenciar-estoque--tutorials_137) asociado al muelle creado en el paso anterior.
 - Asociar la política comercial de Mercado Libre con el muelle.
 
 Si desea comprobar si la configuración se ha realizado correctamente, puede realizar una [Simulación de envío](/es/tutorial/simulacao-de-frete--tutorials_144). El simulador de envío es una herramienta que permite consultar las condiciones de entrega del producto sin necesidad de crear un pedido.

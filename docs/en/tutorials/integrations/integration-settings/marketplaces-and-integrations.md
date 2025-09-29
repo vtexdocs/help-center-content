@@ -66,7 +66,7 @@ To connect to an external marketplace, the seller needs to follow the steps belo
 
 ### __Connecting to a VTEX marketplace__  
 
-To connect to one of the VTEX marketplaces, you need to contact VTEX to negotiate a partnership and wait for the marketplace to respond. Additionally, you must have an [active Seller Profile](/pt/tutorial/encontre-marketplaces-e-sellers-no-ecossistema-vtex--2bzC7tXlVgLEEjxo4ixcAM#perfil-da-loja).  
+To connect to one of the VTEX marketplaces, you need to contact VTEX to negotiate a partnership and wait for the marketplace to respond. Additionally, you must have an [active Seller Profile](/en/tutorial/encontre-marketplaces-e-sellers-no-ecossistema-vtex--2bzC7tXlVgLEEjxo4ixcAM#perfil-da-loja).  
 When sending a message, provide all the information the marketplace needs for connecting to your business. We also suggest anticipating the questions or topics that might arise in a future meeting, for example.  
 
 See below how to contact a marketplace:  
@@ -96,29 +96,29 @@ Once connected to a marketplace, you can edit the connection by following these 
 
 See the list of tutorials available for marketplace integration:  
 
-- [Amazon](/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP)  
-- [Mercado Livre](/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq)  
-- [Magazine Luiza](/pt/tracks/configurar-integracao-com-o-magazine-luiza--5Yx5IrNa7Y48c6aSC8wu2Y)  
-- [Carrefour](/pt/tracks/configurar-integracao-com-o-carrefour--2wYlj07cNuA8k8mmwY86K2)  
-- [Centauro](/pt/tracks/integracao-com-a-centauro--D8Qnjbr5lfLkUfMRhsfbj)  
-- [Facebook](/pt/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc)  
-- [Google Shopping](/pt/tracks/configurar-integracao-com-o-google-shopping--25Sl7iOqq58PGfVfTAo8Xw)  
-- [Google Shopping Ads](/pt/tracks/como-fazer-campanhas-atraves-do-google-ads--47kz5PRQPK0IEaqGqiIuA)  
-- [Dafiti](/pt/tracks/configurar-integracao-da-dafiti--4wF4RBx9ygEkimW6SsKw8i)  
-- [Netshoes](/pt/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm)  
-- [Tik Tok](/pt/tracks/integracao-com-o-tiktok--1r0yJSO11nrer1YVu3WTFd)  
-- [Zoom](/pt/tutorial/integrando-com-zoom--2OoQjigCVOIEWWkgOqwCK6?&utm_source=autocomplete)  
-- [CSU (Opte+)](/pt/tutorial/integrando-com-csu-opte-2--tutorials_4258)  
-- [Kabum](/pt/tutorial/integracao-com-o-kabum--DM0uQeFIXOk7CY9oAPrf0)  
-- [MadeiraMadeira](/pt/tutorial/integracao-com-madeiramadeira--J4QCENKiz4urYNfaMuE0i)  
-- [Riachuelo](/pt/tutorial/integracao-com-riachuelo--kpfxAgwEcANihHLT4iW81)  
-- [Camicado](/pt/tutorial/integracao-com-renner-e-camicado--5qf2wloosKlmIB8o2AitnT)  
-- [Renner](/pt/tutorial/integracao-com-renner-e-camicado--5qf2wloosKlmIB8o2AitnT)  
-- [Loopi](/pt/tutorial/integracao-com-loopi--2wmap3hWksLxJ0IYe7nYFP)  
-- [Via Varejo](/pt/tutorial/como-funciona-a-integracao-da-cnova-via-varejo--1vFbUZUL80SQ0SoySGO8E6)  
-- [SkyHub/B2W](/pt/tutorial/como-funciona-a-integracao-da-skyhub--UJfYlTdmw0so2OKSie2M8)  
-- [Enjoei](/pt/tutorial/integracao-com-enjoei--3mV9uhw1AdqFol8K2tfwly)  
-- [Farmácias App](/pt/tutorial/integrando-com-farmacias-app--tutorials_6271)    
-- [Shopee](/pt/tutorial/integracao-com-a-shopee-beta--5OV9idUY6fHu3P8grnCnqj)  
-- [Wish ](/pt/tracks/integracao-com-a-wish--50hbG4bzhSIhjz1lzqI1g4) 
+- [Amazon](/en/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP)  
+- [Mercado Livre](/en/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq)  
+- [Magazine Luiza](/en/tracks/configurar-integracao-com-o-magazine-luiza--5Yx5IrNa7Y48c6aSC8wu2Y)  
+- [Carrefour](/en/tracks/configurar-integracao-com-o-carrefour--2wYlj07cNuA8k8mmwY86K2)  
+- [Centauro](/en/tracks/integracao-com-a-centauro--D8Qnjbr5lfLkUfMRhsfbj)  
+- [Facebook](/en/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc)  
+- [Google Shopping](/en/tracks/configurar-integracao-com-o-google-shopping--25Sl7iOqq58PGfVfTAo8Xw)  
+- [Google Shopping Ads](/en/tracks/como-fazer-campanhas-atraves-do-google-ads--47kz5PRQPK0IEaqGqiIuA)  
+- [Dafiti](/en/tracks/configurar-integracao-da-dafiti--4wF4RBx9ygEkimW6SsKw8i)  
+- [Netshoes](/en/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm)  
+- [Tik Tok](/en/tracks/integracao-com-o-tiktok--1r0yJSO11nrer1YVu3WTFd)  
+- [Zoom](/en/tutorial/integrando-com-zoom--2OoQjigCVOIEWWkgOqwCK6?&utm_source=autocomplete)  
+- [CSU (Opte+)](/en/tutorial/integrando-com-csu-opte-2--tutorials_4258)  
+- [Kabum](/en/tutorial/integracao-com-o-kabum--DM0uQeFIXOk7CY9oAPrf0)  
+- [MadeiraMadeira](/en/tutorial/integracao-com-madeiramadeira--J4QCENKiz4urYNfaMuE0i)  
+- [Riachuelo](/en/tutorial/integracao-com-riachuelo--kpfxAgwEcANihHLT4iW81)  
+- [Camicado](/en/tutorial/integracao-com-renner-e-camicado--5qf2wloosKlmIB8o2AitnT)  
+- [Renner](/en/tutorial/integracao-com-renner-e-camicado--5qf2wloosKlmIB8o2AitnT)  
+- [Loopi](/en/tutorial/integracao-com-loopi--2wmap3hWksLxJ0IYe7nYFP)  
+- [Via Varejo](/en/tutorial/como-funciona-a-integracao-da-cnova-via-varejo--1vFbUZUL80SQ0SoySGO8E6)  
+- [SkyHub/B2W](/en/tutorial/como-funciona-a-integracao-da-skyhub--UJfYlTdmw0so2OKSie2M8)  
+- [Enjoei](/en/tutorial/integracao-com-enjoei--3mV9uhw1AdqFol8K2tfwly)  
+- [Farmácias App](/en/tutorial/integrando-com-farmacias-app--tutorials_6271)    
+- [Shopee](/en/tutorial/integracao-com-a-shopee-beta--5OV9idUY6fHu3P8grnCnqj)  
+- [Wish ](/en/tracks/integracao-com-a-wish--50hbG4bzhSIhjz1lzqI1g4) 
 

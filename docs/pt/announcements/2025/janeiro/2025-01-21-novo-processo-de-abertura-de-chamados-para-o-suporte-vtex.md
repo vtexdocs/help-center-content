@@ -1,7 +1,7 @@
 ---
 title: 'Novo processo de abertura de chamados para o Suporte VTEX'
 id: 68P7FZGHkRsghYCrRfmSX9
-status: CHANGED
+status: PUBLISHED
 createdAt: 2025-01-21T19:10:27.398Z
 updatedAt: 2025-02-20T14:39:16.259Z
 publishedAt: 2025-01-22T13:23:59.627Z

@@ -205,5 +205,5 @@ In any [type of order modification](#types-of-order-modifications) on the **Mana
 - **Unavailable item:** The SKU may [not be displayed on the store's website](/en/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382) or may be unavailable due to an error or missing catalog, price, or logistics settings.
 - **Insufficient inventory:** The number of items added or replaced in the modification may be greater than the number of items available for sale in your [inventory](/en/tutorial/gerenciar-itens-em-estoque--tutorials_139).
 
-If the Catalog and inventory settings are correct and modifications to orders return errors, this might indicate a problem with the platform's processing. In this case, we recommend contacting our [support team](/en/support).
+If the Catalog and inventory settings are correct and modifications to orders return errors, this might indicate a problem with the platform's processing. In this case, we recommend contacting our [support team](https://help.vtex.com/en/support).
 

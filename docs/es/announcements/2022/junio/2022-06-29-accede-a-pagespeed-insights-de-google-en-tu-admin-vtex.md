@@ -41,7 +41,7 @@ Además, al combinar PageSpeed Insights y Lighthouse en la misma pantalla, facil
 
 ## ¿Qué se necesita hacer?
 
-La página "Rendimiento de las páginas web" está disponible automáticamente para las tiendas que utilizan el [nuevo Admin VTEX](/en/announcements/bienvenido-al-nuevo-admin-vtex--5tLPBodp6Xu03vYdyBTGTa). Para accederla, en el menú lateral de tu Admin, haz clic en **Dashboards > Rendimiento de las páginas web**.
+La página "Rendimiento de las páginas web" está disponible automáticamente para las tiendas que utilizan el [nuevo Admin VTEX](/es/announcements/bienvenido-al-nuevo-admin-vtex--5tLPBodp6Xu03vYdyBTGTa). Para accederla, en el menú lateral de tu Admin, haz clic en **Dashboards > Rendimiento de las páginas web**.
 
 Si tu tienda sigue utilizando versiones anteriores del Admin, [únete a nuestro programa Beta](https://content.vtex.com/join-new-admin-beta-program-es/?utm_source=announcement&utm_medium=help_center&utm_campaign=webpage_performance) del nuevo Admin VTEX para acceder a la página “Rendimiento de las páginas web”.
 

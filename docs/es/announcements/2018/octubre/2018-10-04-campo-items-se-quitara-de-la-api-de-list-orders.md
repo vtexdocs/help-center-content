@@ -23,7 +23,7 @@ Request de la API de List Orders: `http://{{accountName}}.{{environment}}.com.br
 
 Si su tienda utiliza la API de List Orders y en el mapeo de su integración se espera recibir el campo `items`, su equipo de desarrollo necesita retirarlo del mapeo de la integración.
 
-> ⚠️ El campo `items` de la API de List Orders ya está **obsoleto** desde hace bastante tiempo. Él no tiene ninguna utilidad actualmente, y por eso su tienda no debería considerarlo en sus integraciones. Para recoger artículos de pedidos, usted debe usar la [API del Feed](http://help.vtex.com/es/tutorial/como-funciona-el-feed-del-oms).
+> ⚠️ El campo `items` de la API de List Orders ya está **obsoleto** desde hace bastante tiempo. Él no tiene ninguna utilidad actualmente, y por eso su tienda no debería considerarlo en sus integraciones. Para recoger artículos de pedidos, usted debe usar la [API del Feed](/es/tutorial/como-funciona-el-feed-del-oms).
 
 Es importante recordar que la API de List Orders sigue funcionando normalmente. Sólo se eliminará el campo `items`.
 

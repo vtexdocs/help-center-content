@@ -27,7 +27,7 @@ Para borrar una carpeta de CMS, siga los pasos abajo:
 
 ![erroDeletarPasta2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/borrar-carpeta-del-cms_1.png)
 
-> ❗ Algunas carpetas son obligatorias. Su tienda no funcionará correctamente sin ellas. Otras son importantes, así que no es una buena idea borrarlas.<br><br>Para entender mejor este asunto, lea el artículo [Estructura de carpetas de CMS](http://help.vtex.com/es/tutorial/estructura-de-carpetas-de-cms).
+> ❗ Algunas carpetas son obligatorias. Su tienda no funcionará correctamente sin ellas. Otras son importantes, así que no es una buena idea borrarlas.<br><br>Para entender mejor este asunto, lea el artículo [Estructura de carpetas de CMS](/es/tutorial/estructura-de-carpetas-de-cms).
 
 Si una carpeta contiene otras carpetas, antes de borrarla es necesario borrar todas las carpetas internas. En caso contrario, el sistema devuelve el error "Object reference not set to an instance of an object", como en la siguiente imagen.
 

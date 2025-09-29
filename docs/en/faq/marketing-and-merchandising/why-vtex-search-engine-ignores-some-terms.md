@@ -14,7 +14,7 @@ locale: en
 legacySlug: why-vtex-search-engine-ignores-some-terms
 ---
 
-> ⚠️ **Warning**: VTEX has two search options - VTEX search and VTEX Intelligent Search. This article refers to the VTEX search. To learn more about the VTEX Intelligent Search application, see <a href = "/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb">this track</a>.
+> ⚠️ **Warning**: VTEX has two search options - VTEX search and VTEX Intelligent Search. This article refers to the VTEX search. To learn more about the VTEX Intelligent Search application, see [this track](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb).
 
 The article [How does VTEX search work?](/en/tutorial/how-does-vtex-search-work) illustrates the main rules that the search engine algorithm uses to display and prioritize the products based on a search term.
 

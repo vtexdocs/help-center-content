@@ -34,8 +34,8 @@ A imagem a seguir mostra o fluxo de recusa da solicitação de cancelamento de u
 
 Segue a descrição de cada etapa:
 
-1. O cliente entra em contato com o marketplace para cancelar um pedido ou o faz através da [Minha Conta](/en/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh).
-2. O marketplace envia uma solicitação de cancelamento ao seller. Nesta etapa, o [status do pedido](/en/tutorial/order-flow-and-status--tutorials_196) para o marketplace é `aguardando decisão do seller`. 
+1. O cliente entra em contato com o marketplace para cancelar um pedido ou o faz através da [Minha Conta](/pt/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh).
+2. O marketplace envia uma solicitação de cancelamento ao seller. Nesta etapa, o [status do pedido](/pt/tutorial/order-flow-and-status--tutorials_196) para o marketplace é `aguardando decisão do seller`. 
 3. Se o pedido estiver dentro da janela para cancelamento, ele será cancelado automaticamente, seguindo o comportamento padrão da plataforma. As próximas etapas se aplicam quando a janela para cancelamento termina.
 4. O seller recebe a solicitação de cancelamento do pedido e decide se vai aceitá-la ou não. As próximas etapas se aplicam quando o seller decide não cancelar o pedido.
 
@@ -46,16 +46,16 @@ Segue a descrição de cada etapa:
 
 ## Recusar uma solicitação de cancelamento do pedido
 
-A solicitação de cancelamento de um pedido pode ser feita pelo marketplace ou pelo cliente através da [Minha conta](/en/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh). Quando feita diretamente pela **Minha conta,** o cliente recebe uma mensagem de confirmação de que a solicitação foi enviada com sucesso. 
+A solicitação de cancelamento de um pedido pode ser feita pelo marketplace ou pelo cliente através da [Minha conta](/pt/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh). Quando feita diretamente pela **Minha conta,** o cliente recebe uma mensagem de confirmação de que a solicitação foi enviada com sucesso. 
 
-Depois disso, o pedido permanecerá com o [status](/en/tutorial/order-flow-and-status--tutorials_196) de `cancelamento solicitado` para o marketplace e `aguardando decisão do seller` para o seller até que ele aceite ou não a solicitação. 
+Depois disso, o pedido permanecerá com o [status](/pt/tutorial/order-flow-and-status--tutorials_196) de `cancelamento solicitado` para o marketplace e `aguardando decisão do seller` para o seller até que ele aceite ou não a solicitação. 
 
 > ⚠️ Se, dentro de 30 dias, o seller não fizer nada em relação à solicitação de cancelamento do pedido, o pedido será cancelado automaticamente pela plataforma da VTEX.
 
 Para recusar uma solicitação de cancelamento do pedido pelo Admin VTEX, siga os passos a seguir:
 
-1. No Admin VTEX, acesse **Pedidos > Todos os pedidos** ou digite [Todos os pedidos](/en/tutorial/all-orders--2QTduKHAJMFIZ3BAsi6Pi) na barra de busca no topo da página.
-2. Selecione o pedido desejado para acessar a página [Detalhes do pedido](/en/tutorial/order-details-page-interface--2Y75n54Cc9VizrlG1N6ZNl).
+1. No Admin VTEX, acesse **Pedidos > Todos os pedidos** ou digite [Todos os pedidos](/pt/tutorial/all-orders--2QTduKHAJMFIZ3BAsi6Pi) na barra de busca no topo da página.
+2. Selecione o pedido desejado para acessar a página [Detalhes do pedido](/pt/tutorial/order-details-page-interface--2Y75n54Cc9VizrlG1N6ZNl).
 3. Na parte superior da página, clique em Recusar. 
 
   ![deny cancel request](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pedidos/todos-os-pedidos/recusar-solicitacao-de-cancelamento-do-pedido_2.png)

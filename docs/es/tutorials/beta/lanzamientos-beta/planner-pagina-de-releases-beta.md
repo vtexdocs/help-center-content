@@ -20,7 +20,7 @@ subcategoryId: 3vXj7HrnYK8V5riTOwUuYv
 
 El módulo **Releases** te permite [gestionar tus releases](/es/tutorial/planner-concepto-de-release-beta--4pWhQTXG0aIIsi2TYxxRkZ) para que puedas coordinar la creación, programación y publicación de los cambios en tu tienda.
 
-Las páginas **Releases** y [Calendario](/es/v4/docs/planner-pagina-calendario--6GESJ17RFvGrvF9JqToron) están en menú de navegación del **Releases** en el Admin VTEX. Puedes crear un nuevo release y realizar algunas otras [acciones](/pt/tutorial/planner-acciones-en-los-releases-beta--1zsomdifPEQkdV6RW93JyW) desde **Releases**.
+Las páginas **Releases** y [Calendario](/es/v4/docs/planner-pagina-calendario--6GESJ17RFvGrvF9JqToron) están en menú de navegación del **Releases** en el Admin VTEX. Puedes crear un nuevo release y realizar algunas otras [acciones](/es/tutorial/planner-acciones-en-los-releases-beta--1zsomdifPEQkdV6RW93JyW) desde **Releases**.
 
 En la página **Releases**, podrás visualizar una lista con todos los releases existentes, clasificados primero por aquellos releases con el [status](/es/tutorial/planner-concepto-de-release-beta--4pWhQTXG0aIIsi2TYxxRkZ#status-de-los-releases) `No programado`, seguidos de los programados. 
 
@@ -50,11 +50,11 @@ En la página **Releases**, puedes:
 
 **III - Filtrar releases:** para filtrar por [status de releases](/es/tutorial/planner-concepto-de-release-beta--4pWhQTXG0aIIsi2TYxxRkZ#status-de-los-releases), usa el botón `Status`<i class="fas fa-angle-down"></i> y selecciona la opción deseada. Para filtrar por fecha de programación o publicación, haz clic en `Fecha` <i class="fas fa-angle-down"></i> y selecciona la fecha deseada.
 
-**IV - Crear nuevo release:** para crear un nuevo release, haz clic en el botón `Crear release` y sigue los pasos descriptos en [Releases: acciones en releases](/pt/tutorial/planner-acciones-en-los-releases-beta--1zsomdifPEQkdV6RW93JyW).
+**IV - Crear nuevo release:** para crear un nuevo release, haz clic en el botón `Crear release` y sigue los pasos descriptos en [Releases: acciones en releases](/es/tutorial/planner-acciones-en-los-releases-beta--1zsomdifPEQkdV6RW93JyW).
 
 **VI - Navegar entre páginas:** para ver más resultados de los releases, navega entre las páginas de resultados usando las flechas laterales <i class="fas fa-angle-left"></i> <i class="fas fa-angle-right"></i>.
 
-**VII - Realizar acciones en el release:** egún [status de un release](/es/tutorial/planner-concepto-de-release-beta--4pWhQTXG0aIIsi2TYxxRkZ#status-de-los-releases), el menú de tres puntos <i class="fas fa-ellipsis-v"></i> mostrará distintas opciones de acciones. Para ver las posibles acciones, lee [Releases: acciones en los releases](/pt/tutorial/planner-acciones-en-los-releases-beta--1zsomdifPEQkdV6RW93JyW).
+**VII - Realizar acciones en el release:** egún [status de un release](/es/tutorial/planner-concepto-de-release-beta--4pWhQTXG0aIIsi2TYxxRkZ#status-de-los-releases), el menú de tres puntos <i class="fas fa-ellipsis-v"></i> mostrará distintas opciones de acciones. Para ver las posibles acciones, lee [Releases: acciones en los releases](/es/tutorial/planner-acciones-en-los-releases-beta--1zsomdifPEQkdV6RW93JyW).
 
 ## Más información
 

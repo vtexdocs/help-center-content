@@ -21,7 +21,7 @@ The VTEX Admin is blocked when there’s a delay in paying invoices. While you s
 To perform this procedure, you must have one of the following permissions:
 
 - Super Admin
-- [Billing role](/tutorial/criar-um-perfil-de-acesso-financeiro--717qPtxW3Cy9n5KrReHeVv)
+- [Billing role](/en/tutorial/criar-um-perfil-de-acesso-financeiro--717qPtxW3Cy9n5KrReHeVv)
 
 ## Unblock request
 1. In the top bar of the VTEX Admin, click your profile avatar, indicated by the initial letter of your email address. Go to **Billing > Invoices**, or type **Invoices** in the search bar at the top of the page. 

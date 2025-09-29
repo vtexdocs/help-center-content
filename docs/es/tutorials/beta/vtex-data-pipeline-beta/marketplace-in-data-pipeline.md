@@ -157,13 +157,13 @@ Los datos de marketplace in están estrechamente relacionados con los datos de p
 
 ### Descubre otros Conjuntos de datos  
 
-- [Catálogo](/tutorial/catalogo-data-pipeline--7ARDELPaugrBu5dZT7Vx2b)
-- [Inventario](/tutorial/inventario-data-pipeline-beta--2IvKMZV9SNrE6ipBRQr8h2)  
-- [Navegación](/tutorial/navegacao-data-pipeline-beta--4X4hK0zdIHN0Xn5x2MLYYd)  
-- [Pagos](/tutorial/pagamentos-data-pipeline-beta--7LWkFaA1jPabzc5JAt1rGs) 
-- [Pedidos](/tutorial/pedidos-data-pipeline-beta--2f3GlRJ5L5IRGVIxOmzrFv) 
-- [Precios](/tutorial/precos-data-pipeline-beta--3NMGJ8dtv73Bwvo9PSz1fz)  
-- [Promociones](/tutorial/promocoes-data-pipeline-beta--3WZ1syNucDFdvVhfKtA6Qd)  
-- [Tarjetas de Regalo](/pt/tutorial/vale-presente-data-pipeline--4XAnyc4scy3OG6RdnD7OEf)  
-[Registros del Bridge](/tutorial/logs-do-bridge-data-pipeline--2RFVJZL19nsWBSB4IXA0Z)
+- [Catálogo](/es/tutorial/catalogo-data-pipeline--7ARDELPaugrBu5dZT7Vx2b)
+- [Inventario](/es/tutorial/inventario-data-pipeline-beta--2IvKMZV9SNrE6ipBRQr8h2)  
+- [Navegación](/es/tutorial/navegacao-data-pipeline-beta--4X4hK0zdIHN0Xn5x2MLYYd)  
+- [Pagos](/es/tutorial/pagamentos-data-pipeline-beta--7LWkFaA1jPabzc5JAt1rGs) 
+- [Pedidos](/es/tutorial/pedidos-data-pipeline-beta--2f3GlRJ5L5IRGVIxOmzrFv) 
+- [Precios](/es/tutorial/precos-data-pipeline-beta--3NMGJ8dtv73Bwvo9PSz1fz)  
+- [Promociones](/es/tutorial/promocoes-data-pipeline-beta--3WZ1syNucDFdvVhfKtA6Qd)  
+- [Tarjetas de Regalo](/es/tutorial/vale-presente-data-pipeline--4XAnyc4scy3OG6RdnD7OEf)  
+[Registros del Bridge](/es/tutorial/logs-do-bridge-data-pipeline--2RFVJZL19nsWBSB4IXA0Z)
 

@@ -37,4 +37,4 @@ El objetivo de esta modificación de mantenimiento es limitar la visualización 
 
 No necesita tomar ninguna acción. Todos los usuarios automáticamente verán solo los ítems del menú de la barra lateral a los que tengan acceso.
 
-Si un usuario de su cuenta deja de ver algún ítem del menú de la barra lateral que debiera poder ver, revise los permisos del usuario. Puede saber más sobre [perfiles de acceso](/es/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) y [cómo crear un perfil de acceso](http://help.vtex.com/es/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#creando-un-perfil-de-acceso) en los artículos de nuestro Centro de Ayuda.
+Si un usuario de su cuenta deja de ver algún ítem del menú de la barra lateral que debiera poder ver, revise los permisos del usuario. Puede saber más sobre [perfiles de acceso](/es/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) y [cómo crear un perfil de acceso](/es/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#creando-un-perfil-de-acceso) en los artículos de nuestro Centro de Ayuda.

@@ -45,4 +45,4 @@ Para ayudarlo a utilizar las técnicas arriba, podemos usar los campos en el reg
 
 **Mostrar junto**: Muestra los SKUs de los productos sugeridos para la compra en conjunto.
 
-La opción de Up Selling se puede trabajar usando la promoción [Compre Junto](http://help.vtex.com/es/tutorial/comprar-juntos-registro-de-promocion).
+La opción de Up Selling se puede trabajar usando la promoción [Compre Junto](/es/tutorial/comprar-juntos-registro-de-promocion).

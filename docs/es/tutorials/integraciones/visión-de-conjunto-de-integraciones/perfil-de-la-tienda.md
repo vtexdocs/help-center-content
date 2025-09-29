@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 6riYYNZCpO8wyksi8Ksgyq
 ---
 
-VTEX proporciona en el Admin las páginas **[Encontrar sellers](/tutorial/encontrar-sellers--6kkZaxIgfDyvN5trgIuwBl)** y **[Marketplaces e integraciones](/es/tutorial/marketplaces-and-integrations--5AcBO1t29nhq7rBHas9b6V).** Dichas páginas tienen como objetivo poner a disposición y facilitar el encuentro y la comunicación entre sellers y marketplaces que operan en el ecosistema VTEX, abriendo la posibilidad de nuevos negocios y crecimiento mutuo para todos los participantes.  
+VTEX proporciona en el Admin las páginas **[Encontrar sellers](/es/tutorial/encontrar-sellers--6kkZaxIgfDyvN5trgIuwBl)** y **[Marketplaces e integraciones](/es/tutorial/marketplaces-and-integrations--5AcBO1t29nhq7rBHas9b6V).** Dichas páginas tienen como objetivo poner a disposición y facilitar el encuentro y la comunicación entre sellers y marketplaces que operan en el ecosistema VTEX, abriendo la posibilidad de nuevos negocios y crecimiento mutuo para todos los participantes.  
 
 Para ponerte en contacto con partners potenciales presentes en esa lista, debes activar el perfil de tu tienda como marketplace, seller, o ambos. Esto se lleva a cabo en la página Perfil de la tienda, accediendo a **Marketplace > Perfil de la tienda** o ingresando **Perfil de la tienda** en la barra de búsqueda.  
 
@@ -85,4 +85,4 @@ Cuando interactúes con las páginas **Encontrar sellers** y **Marketplaces e in
 - Sugerimos facilitar los datos de contacto del personal ya especializado y encargado de captar socios comerciales.  
 - Asegúrate de que el email y el número de teléfono registrados son válidos y están actualizados.  
 - Mantén tu perfil siempre actualizado con los links e información sobre la empresa.  
-- Proporciona una descripción completa y atractiva sobre tu tienda. Tu perfil es el que aparece en la lista de **[Encontrar sellers](/tutorial/encontrar-sellers--6kkZaxIgfDyvN5trgIuwBl)** y **[Marketplaces e integraciones](/es/tutorial/marketplaces-and-integrations--5AcBO1t29nhq7rBHas9b6V)**, así que es importante dar contexto y señalar aquello que te hace único.
+- Proporciona una descripción completa y atractiva sobre tu tienda. Tu perfil es el que aparece en la lista de **[Encontrar sellers](/es/tutorial/encontrar-sellers--6kkZaxIgfDyvN5trgIuwBl)** y **[Marketplaces e integraciones](/es/tutorial/marketplaces-and-integrations--5AcBO1t29nhq7rBHas9b6V)**, así que es importante dar contexto y señalar aquello que te hace único.

@@ -70,7 +70,7 @@ Para asegurarse de que este recurso funciona, es necesario revisar los detalles 
   ![Autorización](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/configuraci%C3%B3n-de-pagos/configurar-device-fingerprint-de-mercado-pago_2.png)
 
 <ui>
-  7. Copie el ID y <a href=https://www.mercadopago.com.ar/developers/es/support>envíe un email</a> a Mercado Pago con esta información y pídales que validen la transacción. De esta manera, Mercado Pago podrá evaluar si el Dispositivo Fingerprint está funcionando correctamente.
+  7. Copie el ID y [envíe un email](https://www.mercadopago.com.ar/developers/es/support) a Mercado Pago con esta información y pídales que validen la transacción. De esta manera, Mercado Pago podrá evaluar si el Dispositivo Fingerprint está funcionando correctamente.
   </ui>
 
 Una vez que recibe la respuesta de Mercado Pago, Device Fingerprint estará instalado y listo para ser utilizado en su tienda.

@@ -27,7 +27,7 @@ Para apagar uma pasta do CMS, siga os passoa abaixo:
 
 ![erroDeletarPasta2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/apagar-uma-pasta-do-cms_1.png)
 
-> ❗ Algumas pastas são obrigatórias. Sua loja não funcionará corretamente sem elas. Outras são importantes, portanto não é uma boa ideia apagá-las.<br><br>Entenda melhor este assunto no artigo [Estrutura de pastas do CMS](http://help.vtex.com/pt/tutorial/estrutura-de-pastas-do-cms).
+> ❗ Algumas pastas são obrigatórias. Sua loja não funcionará corretamente sem elas. Outras são importantes, portanto não é uma boa ideia apagá-las.<br><br>Entenda melhor este assunto no artigo [Estrutura de pastas do CMS](/pt/tutorial/estrutura-de-pastas-do-cms).
 
 Se uma pasta contém outras pastas, antes de apagá-la é necessário apagar todas as pastas internas. Caso contrário, o sistema retornará o erro "Object reference not set to an instance of an object", como na imagem abaixo.
 

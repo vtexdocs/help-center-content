@@ -18,7 +18,7 @@ order: 6
 Introducir la factura en el pedido es un paso obligatorio para que su estado cambie a `Facturado`, una señal de que el pedido se ha completado con éxito. Recuerde que una vez que se lee un pedido como facturado por el sistema, este estado no se puede cambiar.
 
 La facturación de un pedido puede hacerse de dos formas:
-- __Manualmente__: en el *Admin VTEX > Pedidos > Todos los pedidos*, haciendo clic en el pedido y depués en el botón `Facturar`. Sepa más en [Facturar un pedido manualmente](/en/tutorial/faturar-um-pedido-manualmente--7p1h852V5t54KyscpgxE2v).
+- __Manualmente__: en el *Admin VTEX > Pedidos > Todos los pedidos*, haciendo clic en el pedido y depués en el botón `Facturar`. Sepa más en [Facturar un pedido manualmente](/es/tutorial/faturar-um-pedido-manualmente--7p1h852V5t54KyscpgxE2v).
 
 - __Mediante API__: si tienes una integración con el ERP, utilizando el request [Order invoice notification](https://developers.vtex.com/vtex-rest-api/reference/invoice).  
 
@@ -27,7 +27,7 @@ La facturación de un pedido puede hacerse de dos formas:
 Solo después de alcanzar el valor total del pedido, el estado cambiará a `Facturado`, es decir, cuando el valor del pedido coincide con el valor facturado. Existen trés escenarios posibles para facturación, dependendo de la situación del pedido:
 
 - __Pedido sin cambios:__ deberás ingresar una factura con un valor equivalente al total del pedido.    
-- __Pedido modificado > descontando el importe > seguido de una factura aparte__: deberás ingresar una factura con el importe restante tras el cambio. La nota puede ser [parcial](/en/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe) o completa, si contiene todo el valor restante, después del cambio.    
+- __Pedido modificado > descontando el importe > seguido de una factura aparte__: deberás ingresar una factura con el importe restante tras el cambio. La nota puede ser [parcial](/es/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe) o completa, si contiene todo el valor restante, después del cambio.    
 - __Pedido con factura parcial > seguido de cambio con descuento__: deberás realizar un [cambio](/es/tutorial/changing-items-from-a-complete-order--tutorials_190), descontando el importe restante. Para ello, calcule el importe total menos el importe parcial de la factura.  
 
 ## Factura

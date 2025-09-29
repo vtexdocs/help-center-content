@@ -35,7 +35,7 @@ Use the OMS reports to calculate commissions when setting the amounts for transf
 
 See below for the necessary configurations to create commissions for sellers and to configure a seller or a marketplace as the payment processor.
 
-> ℹ️ If your integration with external sellers or VTEX sellers is done via API, please refer to the article <a href = "https://developers.vtex.com/vtex-rest-api/docs/external-seller-processing-payments">External seller processing payment</a>.
+> ℹ️ If your integration with external sellers or VTEX sellers is done via API, please refer to the article [External seller processing payment](https://developers.vtex.com/vtex-rest-api/docs/external-seller-processing-payments).
 
 ### Configuring commissions for sellers
 

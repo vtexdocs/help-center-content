@@ -43,7 +43,7 @@ Para acessar a documentação sobre este assunto, insira abaixo seu [nome de con
 
 O reCAPTCHA é uma solução utilizada para validação de usuário real em pedidos que serão pagos com cartão de crédito ou débito. Ele previne cenários em que programas maliciosos são utilizados para fraudes.
 
-Recomendamos o uso do [reCAPTCHA v3](/en/tutorial/using-recaptcha-at-checkout--18Te3oDd7f4qcjKu9jhNzP#recaptcha-v3), que utiliza uma pontuação de qualidade em vez de uma validação via pop-up e, portanto, é mais difícil de ser burlado em tais cenários.
+Recomendamos o uso do [reCAPTCHA v3](/pt/tutorial/using-recaptcha-at-checkout--18Te3oDd7f4qcjKu9jhNzP#recaptcha-v3), que utiliza uma pontuação de qualidade em vez de uma validação via pop-up e, portanto, é mais difícil de ser burlado em tais cenários.
 
 Saiba mais sobre como configurar esta validação no Checkout da sua loja em [reCAPTCHA no Checkout](/pt/tutorial/recaptcha-no-checkout--18Te3oDd7f4qcjKu9jhNzP#). Para a implementação do reCAPTCHA V3 em uma loja VTEX, consulte o guia para desenvolvedores [reCAPTCHA](https://developers.vtex.com/docs/guides/recaptcha#recaptcha-v3-score).
 

@@ -193,16 +193,16 @@ The payment dataset can be used for the following analyses:
 
 The payment data of the VTEX platform has correlations with other datasets which give more insight into the purchase cycle:  
 
-- **Interaction with [order](/tutorial/pedidos-data-pipeline-beta--2f3GlRJ5L5IRGVIxOmzrFv) data:** Analyzing payment data alongside orders offers insights into how payment methods influence order conversions and reveal trends in customer purchasing behavior.    
+- **Interaction with [order](/en/tutorial/pedidos-data-pipeline-beta--2f3GlRJ5L5IRGVIxOmzrFv) data:** Analyzing payment data alongside orders offers insights into how payment methods influence order conversions and reveal trends in customer purchasing behavior.    
 - **Financial and accounting analyses:** Integrating payment data with financial analyses contributes to more efficient cash flow management and enables more accurate financial forecasts, helping improve the company's financial health. 
 
 ### Discover other datasets
 
-- [Catalog](/tutorial/catalogo-data-pipeline--7ARDELPaugrBu5dZT7Vx2b)
-- [Inventory](/tutorial/inventario-data-pipeline-beta--2IvKMZV9SNrE6ipBRQr8h2)
-- [Navigation](/tutorial/navegacao-data-pipeline-beta--4X4hK0zdIHN0Xn5x2MLYYd) 
-- [Orders](/tutorial/pedidos-data-pipeline-beta--2f3GlRJ5L5IRGVIxOmzrFv)  
-- [Prices](/tutorial/precos-data-pipeline-beta--3NMGJ8dtv73Bwvo9PSz1fz)  
-- [Promotion](/tutorial/promocoes-data-pipeline-beta--3WZ1syNucDFdvVhfKtA6Qd)  
-- [Gift cards](/pt/tutorial/vale-presente-data-pipeline--4XAnyc4scy3OG6RdnD7OEf)
-- [Bridge logs](/tutorial/logs-do-bridge-data-pipeline--2RFVJZL19nsWBSB4IXA0Z)
+- [Catalog](/en/tutorial/catalogo-data-pipeline--7ARDELPaugrBu5dZT7Vx2b)
+- [Inventory](/en/tutorial/inventario-data-pipeline-beta--2IvKMZV9SNrE6ipBRQr8h2)
+- [Navigation](/en/tutorial/navegacao-data-pipeline-beta--4X4hK0zdIHN0Xn5x2MLYYd) 
+- [Orders](/en/tutorial/pedidos-data-pipeline-beta--2f3GlRJ5L5IRGVIxOmzrFv)  
+- [Prices](/en/tutorial/precos-data-pipeline-beta--3NMGJ8dtv73Bwvo9PSz1fz)  
+- [Promotion](/en/tutorial/promocoes-data-pipeline-beta--3WZ1syNucDFdvVhfKtA6Qd)  
+- [Gift cards](/en/tutorial/vale-presente-data-pipeline--4XAnyc4scy3OG6RdnD7OEf)
+- [Bridge logs](/en/tutorial/logs-do-bridge-data-pipeline--2RFVJZL19nsWBSB4IXA0Z)

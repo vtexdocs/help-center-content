@@ -32,5 +32,5 @@ Now, in addition to providing a segmented view of incoming offers, the marketpla
 ## What needs to be done?
 
 The new **Received SKUs** experience has been available for testing on all VTEX accounts since September 2, 2024. 
-To explore the new architecture of the page and all its available features, see **[Received SKUs](/pt/tutorial/skus-recebidos-beta--4hxDUmbgOEVFSTU2Eqi8DK).**
+To explore the new architecture of the page and all its available features, see **[Received SKUs](/en/tutorial/skus-recebidos-beta--4hxDUmbgOEVFSTU2Eqi8DK).**
 

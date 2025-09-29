@@ -36,4 +36,4 @@ Por lo tanto, la descontinuación de este dashboard reducirá la redundancia de 
 
 A partir del 15 de octubre, el cambio se implementará automáticamente en todas las tiendas VTEX y no se requerirá ninguna acción de tu parte.
 
-Si deseas dar seguimiento a las métricas de ventas de tu tienda, consulta el dashboard [Vista general de la tienda](/es/tutorial/visao-geral-da-loja--P8ahguoRs0U3PzmXg2wuQ) o la [nueva versión de Vista general](/pt/tutorial/visao-geral-da-loja-beta--7i8wNsQQgbbFhYMYbQ5X46) (beta), que contiene la misma información que **Insights** con datos más precisos y mejor visualización.
+Si deseas dar seguimiento a las métricas de ventas de tu tienda, consulta el dashboard [Vista general de la tienda](/es/tutorial/visao-geral-da-loja--P8ahguoRs0U3PzmXg2wuQ) o la [nueva versión de Vista general](/es/tutorial/visao-geral-da-loja-beta--7i8wNsQQgbbFhYMYbQ5X46) (beta), que contiene la misma información que **Insights** con datos más precisos y mejor visualización.

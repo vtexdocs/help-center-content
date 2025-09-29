@@ -56,11 +56,11 @@ Na seção Produtos, você pode configurar preços, condições comerciais e reg
 ## Storefront
 Na seção Storefront, você pode ajustar as configurações gerais da interface da sua loja, que incluem o checkout e as configurações da loja. Aqui, você também pode acessar o Master Data e GraphQL IDE. Essa seção inclui as páginas abaixo, que em breve serão incluídas no Admin v4.
 
-- [Configurações](/subcategory/cms-settings--6kovkwzMRyeOOc2iEC4suM)
-- [Master Data](/subcategory/checkout-overview--8AGXmtpbTqUE2KQu0Swwk)
-- [Checkout](/subcategory/checkout-overview--8AGXmtpbTqUE2KQu0Swwk)
+- [Configurações](/pt/subcategory/cms-settings--6kovkwzMRyeOOc2iEC4suM)
+- [Master Data](/pt/subcategory/checkout-overview--8AGXmtpbTqUE2KQu0Swwk)
+- [Checkout](/pt/subcategory/checkout-overview--8AGXmtpbTqUE2KQu0Swwk)
 - [GraphQL IDE](https://developers.vtex.com/vtex-developer-docs/docs/graphql-ide)
-- [Loja](/subcategory/store--qOFHtR7dz4szTm5LuTd7n)
+- [Loja](/pt/subcategory/store--qOFHtR7dz4szTm5LuTd7n)
 
 ## Canais
 A seção Canais inclui a página Canais de Vendas, onde você pode definir configurações de catálogo, preços, promoções, logística, segmentação de clientes e condições de pagamento para diferentes estratégias de vendas. Aqui, você também pode configurar as suas integrações XML. Essa seção inclui as páginas abaixo, que em breve serão incluídas no Admin v4.

@@ -134,4 +134,4 @@ If necessary, you can segment promotions for specific marketplaces. You can obta
 3. In the **Sales Policy** section, select the **Equal to** and **Delivered by me (Other stores)** options.
 4. Click on `Save`.
 
-> ⚠️  Please remember to <a href = "/pt/tutorial/entendendo-a-manutencao-da-base-de-dados--34P9LGs7BCIQK6acQom802">reindex all products included in the promotion</a> after you’ve created it and at the beginning and end of the promotions. This will ensure that the prices of your products are up to date.
+> ⚠️  Please remember to [reindex all products included in the promotion](/en/tutorial/entendendo-a-manutencao-da-base-de-dados--34P9LGs7BCIQK6acQom802) after you’ve created it and at the beginning and end of the promotions. This will ensure that the prices of your products are up to date.

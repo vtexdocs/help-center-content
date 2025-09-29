@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 2xWRgEIlR2ookieEmm4KQu
 ---
 
-[Gestión de sellers](/pt/tutorial/gerenciamento-de-sellers--6eEiOISwxuAWJ8w6MtK7iv) es la página donde los operadores del _marketplace_ agregan sellers, registran su información y gestionan su status. Este artículo describe los pasos necesarios para agregar un nuevo _seller_. La información ingresada al crear un seller no es visible en el _storefront_ del _marketplace_. Solo la pueden ver los usuarios del marketplace en **Admin VTEX > Marketplace > Gestión**. 
+[Gestión de sellers](/es/tutorial/gerenciamento-de-sellers--6eEiOISwxuAWJ8w6MtK7iv) es la página donde los operadores del _marketplace_ agregan sellers, registran su información y gestionan su status. Este artículo describe los pasos necesarios para agregar un nuevo _seller_. La información ingresada al crear un seller no es visible en el _storefront_ del _marketplace_. Solo la pueden ver los usuarios del marketplace en **Admin VTEX > Marketplace > Gestión**. 
 
 Para agregar un seller no identificable, también conocido como [seller white label](/es/tutorial/definicoes-de-conta-franquia-e-seller-white-label--5orlGHyDHGAYciQ64oEgKa), es necesario tener este modelo previsto en el contrato con VTEX. Una vez acordado un contrato con el representante de ventas de VTEX responsable de tu _marketplace_, solicita la [adición de una cuenta franquicia](/es/tutorial/o-que-e-conta-franquia--kWQC6RkFSCUFGgY5gSjdl) por medio de nuestro Soporte. Todas las cuentas franquicias se crean como un _seller white label_, y no es posible cambiar el tipo de _seller_ después de su creación. 
 
@@ -45,7 +45,7 @@ Para agregar un seller no identificable, también conocido como [seller white la
     - Utilizar un máximo de 50 caracteres.    
     - Evitar solo utilizar la palabra «list» como ID.    
     - Para _sellers white label_, el ID debe comenzar con el _[account name (nombre de cuenta)](/es/tutorial/o-que-e-account-name--i0mIGLcg3QyEy8OCicEoC)_ del _marketplace_ seguido del identificador de su elección. Ejemplo: marketplaceseller1.    
-- **Grupos del seller:** palabra clave que identifica el grupo al que este _seller_ pertenece para filtrarlo en lista de _sellers_. Define una palabra clave nueva para crear un grupo nuevo o repite una palabra ya utilizada para asociar el _seller_ a uno o más grupos existentes. Puedes crear grupos para _sellers_ de extensa cobertura, cuentas franquicia, _sellers_ externos, _partners_ premium, o cualquier otra categoría que se aplique a tu negocio. Sepa más en [Gestión de Sellers](/pt/tutorial/gerenciamento-de-sellers--6eEiOISwxuAWJ8w6MtK7iv).
+- **Grupos del seller:** palabra clave que identifica el grupo al que este _seller_ pertenece para filtrarlo en lista de _sellers_. Define una palabra clave nueva para crear un grupo nuevo o repite una palabra ya utilizada para asociar el _seller_ a uno o más grupos existentes. Puedes crear grupos para _sellers_ de extensa cobertura, cuentas franquicia, _sellers_ externos, _partners_ premium, o cualquier otra categoría que se aplique a tu negocio. Sepa más en [Gestión de Sellers](/es/tutorial/gerenciamento-de-sellers--6eEiOISwxuAWJ8w6MtK7iv).
 
 **Acuerdos comerciales**
 - **Políticas comerciales del marketplace:** selecciona las [políticas comerciales](/es/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) válidas para el _seller_ para asociar sus productos y condiciones de venta a diferentes contextos. Por ejemplo, la política comercial utilizada en el sitio web y la política comercial utilizada en una aplicación.    
@@ -70,6 +70,6 @@ Después de rellenar los campos y hacer clic en **Guardar**, el _seller_ será a
 ## Más información
 
 - [Crear política comercial](/es/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE)  
-- [Gestión de sellers](/pt/tutorial/gerenciamento-de-sellers--6eEiOISwxuAWJ8w6MtK7iv)  
+- [Gestión de sellers](/es/tutorial/gerenciamento-de-sellers--6eEiOISwxuAWJ8w6MtK7iv)  
 - [Configuring a VTEX marketplace](/es/tutorial/configurar-marketplace-vtex--7splyp5MqIyt2Iyz5jsNzb)    
 - [Actions for a VTEX marketplace operation](/es/tutorial/acoes-para-a-operacao-de-marketplaces-vtex--2SdIflvwywiOqCpczKCfev)  

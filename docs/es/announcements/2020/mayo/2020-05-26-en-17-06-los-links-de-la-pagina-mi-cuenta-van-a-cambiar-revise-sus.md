@@ -1,7 +1,7 @@
 ---
 title: 'Mi Cuenta: En 17/06 los links de la página Mi Cuenta van a cambiar - revise sus configuraciones'
 id: 2N9T3weFs2VDXan6vrGgnC
-status: CHANGED
+status: PUBLISHED
 createdAt: 2020-05-26T14:16:56.645Z
 updatedAt: 2020-11-27T19:40:22.264Z
 publishedAt: 2020-06-04T13:39:08.653Z

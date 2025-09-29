@@ -49,7 +49,7 @@ A webhook is an HTTP endpoint that enables automated communication between the V
 
 Once you have created a new project, you can create pages for it with all the URL routes and corresponding page templates of your store’s website, such as home, product, and login pages. 
 
-To create a new page, follow the steps in [Managing Pages in the Headless CMS](/tutorial/managing-pages--3DO6rBhZ1p3zndnFu5BgRt)
+To create a new page, follow the steps in [Managing Pages in the Headless CMS](/en/tutorial/managing-pages--3DO6rBhZ1p3zndnFu5BgRt)
 
 ## Project settings
 The Project settings allow you to configure your project according to three main categories:

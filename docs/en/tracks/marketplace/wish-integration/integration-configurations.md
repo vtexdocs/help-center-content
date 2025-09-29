@@ -1,7 +1,7 @@
 ---
 title: 'Integration configurations'
 id: 6EYEy1jRiAj465WOnhiczD
-status: CHANGED
+status: PUBLISHED
 createdAt: 2019-11-18T13:39:42.709Z
 updatedAt: 2022-04-08T20:49:56.270Z
 publishedAt: 2020-02-13T15:01:19.456Z
@@ -20,7 +20,7 @@ The following steps must be implemented in the app:
 
 ## Setting the trade policy
 
-1. Using the selector, you'll need to define which trade policy will be used with Wish  ([preset during step 2](/tracks/configure-wish-integration--50hbG4bzhSIhjz1lzqI1g43OHGQIQmt1dKw9RwKruE7H))
+1. Using the selector, you'll need to define which trade policy will be used with Wish  ([preset during step 2](/en/tracks/configure-wish-integration--50hbG4bzhSIhjz1lzqI1g43OHGQIQmt1dKw9RwKruE7H))
 2. After selecting the trade policy, click on "Continue".
  
 ## Shipping configurations
@@ -31,7 +31,7 @@ Shipping items using Wish ranges from the all-encompassing to the very specific.
   
 Specify if you'll use Wish Express in the setup. In case you won't, you may skip to next step.
 
-Remember that the shipping rate will be automatically set based on the [Logistics module shipping tables](/tracks/logistics-101--13TFDwDttPl9ki9OXQhyjx/2Pj1gKR80QIuUhc0orMraD). This means that it the shipping will be dynamic and may vary due a change in the carrier's price table or even according to item availability.
+Remember that the shipping rate will be automatically set based on the [Logistics module shipping tables](/en/tracks/logistics-101--13TFDwDttPl9ki9OXQhyjx/2Pj1gKR80QIuUhc0orMraD). This means that it the shipping will be dynamic and may vary due a change in the carrier's price table or even according to item availability.
 
 _ex: Carrier X has a shipping rate of U$ 7,00 to Atlanta (metropolitan region) in its price table. However, that price table is updated to U$ 9,55. Next time the inventory is updated, the shipping rate for that region will be updated for your Wish products._
  
@@ -41,8 +41,7 @@ To indicate which of your store's carriers corresponds to [those accepted by Wis
 
   1. Using the first selector (_dropdown_), indicate which carrier will be used for Wish;
   2. Using the second selector, indicate which VTEX [carrier type](/en/tutorial/difference-between-delivery-types--tutorials_126) would correspond to the one selected during the previous step;
-
-  _Ex: Suppose that you're using TNT as a carrier and that your VTEX Shipping Networkistics panel identifies this carrier or delivery type as "standard". Therefore, the field should be called "Standard". Remember that the word should exactly match the one appearing in your Logistics module. 
+    _Ex: Suppose that you're using TNT as a carrier and that your VTEX Logistics panel identifies this carrier or delivery type as "standard". Therefore, the field should be called "Standard". Remember that the word should exactly match the one appearing in your Logistics module. 
   
   3. Click on "save" to conclude the setup.
 
@@ -54,13 +53,13 @@ To indicate which of your store's carriers corresponds to [those accepted by Wis
 
 The value (in %) of how much the order value may differ from the original value should be given in this field.
 
-_Ex: The set rate is 10%. The original order value should be U$ 100, but it came from Wish at U$ 109, so considering the set rate, the order will be integrated. However, if the order comes in at U$ 150, then it would have been denied and displayed in the [Orders tab (within the Admin integrations section)](/pt/tutorial/checking-integrations-in-bridge--tutorials_422)._
+_Ex: The set rate is 10%. The original order value should be U$ 100, but it came from Wish at U$ 109, so considering the set rate, the order will be integrated. However, if the order comes in at U$ 150, then it would have been denied and displayed in the [Orders tab (within the Admin integrations section)](/en/tutorial/checking-integrations-in-bridge--tutorials_422)._
 
 ## Currency conversion
 
 **Wish requires product prices and shipping rates to be sent in USD.** Both the shipping table as well as the VTEX pricing module infer the currency from the trade policy being used. 
 
-As previously indicated in step [passo 2.1](/tracks/integrating-with-wish--50hbG4bzhSIhjz1lzqI1g4/3OHGQIQmt1dKw9RwKruE7H), our trade policy uses BRL (R$). Therefore, the following steps must be followed in order to convert to USD:
+As previously indicated in step [passo 2.1](/en/tracks/integrating-with-wish--50hbG4bzhSIhjz1lzqI1g4/3OHGQIQmt1dKw9RwKruE7H), our trade policy uses BRL (R$). Therefore, the following steps must be followed in order to convert to USD:
 
 In the `"Dollar quotation (USD)"`, fill in the exchange from (R$) to dollar (US$).
 

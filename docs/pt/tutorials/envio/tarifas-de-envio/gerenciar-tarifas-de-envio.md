@@ -1,7 +1,7 @@
 ---
 title: 'Gerenciar Tarifas de envio'
 id: tutorials_141
-status: CHANGED
+status: PUBLISHED
 createdAt: 2017-04-27T22:17:04.172Z
 updatedAt: 2024-08-22T17:59:31.012Z
 publishedAt: 2023-03-29T15:06:40.531Z
@@ -22,7 +22,7 @@ As [tarifas de envio](/pt/tutorial/tarifas-de-envio--1Balpg3rv0854udEPedvMM) da 
 * [Editar](#editar) as tarifas de envio;
 * [Excluir](#excluir) as tarifas de envio.
 
-> ℹ️ Para casos em que há vários preços de envio para serem atualizados ou cadastrados, recomendamos utilizar a Planilha de frete em vez do módulo **Tarifas de envio**. Caso queira conferir como as tarifas de envio cadastradas serão apresentadas ao cliente final, utilize o módulo [Simulador de envio](/pt/tutorial/simulacao-de-frete--tutorials_144).
+> ℹ️ Para casos em que há vários preços de envio para serem atualizados ou cadastrados, recomendamos utilizar a Planilha de frete em vez do módulo **Tarifas de envio**. Caso queira conferir como as tarifas de envio cadastradas serão apresentadas ao cliente final, utilize o módulo **[Simulador de envio**](/pt/tutorial/simulacao-de-frete--tutorials_144).
 
 ## Cadastrar
 

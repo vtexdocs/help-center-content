@@ -50,7 +50,7 @@ The logistics process must be configured according to your store needs. These co
 <table class="w-100 center mv7 bb b--gray" style="border-spacing: 0px; border-collapse: collapse;">
     <thead class="w-100 center mv7 bb b--gray" style="border-spacing: 0px; border-collapse: collapse;">
   <tr class="bb b--muted-3">
-   <td class="t-body pa5" style="min-width: 15rem;">[<span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;"><a href="/en/tutorial/shipping-strategy--58vLBDbjYVQzJ6rRc5QNz3"><span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">Shipping Strategy](/es/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3)</span>
+   <td class="t-body pa5" style="min-width: 15rem;">[<span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;"><a href="/en/tutorial/shipping-strategy--58vLBDbjYVQzJ6rRc5QNz3"><span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">Shipping Strategy](/en/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3)</span>
    </td>
    <td class="t-body pa5" style="min-width: 15rem;">Manage warehouses, loading docks, and shipping policies. Based on the configured shipping strategies, the platform calculates the shipping possibilities and displays them to the customer at checkout.
 <body>
@@ -132,22 +132,22 @@ Days registered as holidays are not considered in the delivery time of orders.
    <td class="t-body pa5" style="min-width: 15rem;">Manage specific configurations of logistics routes. These configurations allow you to detail the delivery conditions that will be available to the customer. The possible configurations in this section are:
 <body>
 <ul>
-<li>[Additional shipping cost](/pt/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV?&utm_source=autocomplete#adicional-de-frete): extra cost charged on top of the [shipping rate](/pt/tutorial/tarifas-de-envio--1Balpg3rv0854udEPedvMM);</li>
-<li>[Shipment group](/pt/tutorial/como-funciona-a-remessa): a group of bundled packages shipped together.</li>
-<li>[Modality](/pt/tutorial/como-funciona-o-modal): type of items accepted for delivery.</li>
-<li>[Cargo splitting](/pt/tutorial/como-funciona-a-divisao-de-carga): how products must be split for delivery.</li>
-<li>[Critical inventory level alert](/pt/tutorial/configurar-o-alerta-de-estoque-critico): an alert for when the quantity of items is below the expected level.</li>
+<li>[Additional shipping cost](/en/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV?&utm_source=autocomplete#adicional-de-frete): extra cost charged on top of the [shipping rate](/en/tutorial/tarifas-de-envio--1Balpg3rv0854udEPedvMM);</li>
+<li>[Shipment group](/en/tutorial/como-funciona-a-remessa): a group of bundled packages shipped together.</li>
+<li>[Modality](/en/tutorial/como-funciona-o-modal): type of items accepted for delivery.</li>
+<li>[Cargo splitting](/en/tutorial/como-funciona-a-divisao-de-carga): how products must be split for delivery.</li>
+<li>[Critical inventory level alert](/en/tutorial/configurar-o-alerta-de-estoque-critico): an alert for when the quantity of items is below the expected level.</li>
 </body>
 </ul>
    </td>
   </tr>
    <tr class="bb b--muted-3">
-   <td class="t-body pa5" style="min-width: 15rem;">[<span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">Pickup points](/pt/tutorial/como-funcionam-pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R)</span>
+   <td class="t-body pa5" style="min-width: 15rem;">[<span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">Pickup points](/en/tutorial/como-funcionam-pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R)</span>
    </td>
    <td class="t-body pa5" style="min-width: 15rem;">Manage pickup points. With this feature, stores can allow customers to pick up their orders at physical pickup points.
 <body>
 <ul>
-<li>[Configuring pickup points](/pt/tutorial/configurar-pontos-de-retirada-pickup-points)</li>
+<li>[Configuring pickup points](/en/tutorial/configurar-pontos-de-retirada-pickup-points)</li>
 </body>
 </ul>
    </td>

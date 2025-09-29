@@ -49,7 +49,7 @@ Para exportar dados do Master Data v1 pelo painel Admin, siga estes passos:
 2. Clique na aba **Aplicações.**
 3. Clique em visualizar (ícone da direita) correspondente à entidade de dados desejada.
 ![visualizar button master data](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/seguran%C3%A7a/seguran%C3%A7a-para-lojistas/direitos-dos-titulares-de-dados-pessoais_1.png)
-4. Use o [filtro do Master Data v1](/tutorial/filtering-data-on-master-data--tutorials_778#how-to-use-filters) para filtrar apenas os dados referentes ao usuário desejado. Use o `email` ou `ID do usuário` como campo do filtro.
+4. Use o [filtro do Master Data v1](/pt/tutorial/filtering-data-on-master-data--tutorials_778#how-to-use-filters) para filtrar apenas os dados referentes ao usuário desejado. Use o `email` ou `ID do usuário` como campo do filtro.
 5. Clique no botão `Exportar XLS`.
 6. Selecione a opção `Selecionar todos os campos`.
 7. Caso deseje, altere o email para o qual deseja enviar o relatório.
@@ -57,7 +57,7 @@ Para exportar dados do Master Data v1 pelo painel Admin, siga estes passos:
 
 Repita este passo a passo para as entidades de dados de clientes (**CL**), endereços (**AD**) e quaisquer outra que tenha configurado para receber informações pessoais de seus clientes.
 
-> ℹ️ Saiba mais sobre como [filtrar dados](/tutorial/filtering-data-on-master-data--tutorials_778#how-to-use-filters) e [exportar dados](/pt/tutorial/exporting-data--tutorials_1125). na interface do Master Data v1.
+> ℹ️ Saiba mais sobre como [filtrar dados](/pt/tutorial/filtering-data-on-master-data--tutorials_778#how-to-use-filters) e [exportar dados](/pt/tutorial/exporting-data--tutorials_1125). na interface do Master Data v1.
 
 #### Master Data v2
 

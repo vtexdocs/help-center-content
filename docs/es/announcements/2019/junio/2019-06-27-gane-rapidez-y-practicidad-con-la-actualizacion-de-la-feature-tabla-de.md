@@ -1,7 +1,7 @@
 ---
 title: 'Gane rapidez y practicidad con la actualización de la feature Tabla de Precios'
 id: 2WRQvE9bMqwAnLTvMM3ppN
-status: CHANGED
+status: PUBLISHED
 createdAt: 2019-06-27T14:09:07.789Z
 updatedAt: 2020-11-27T19:39:52.197Z
 publishedAt: 2020-02-19T16:20:40.684Z

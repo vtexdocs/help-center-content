@@ -1,7 +1,7 @@
 ---
 title: 'Setting up the Notes Payable conector'
 id: 7Gy0SJRVS0Qi2CuWMAqQc0
-status: CHANGED
+status: PUBLISHED
 createdAt: 2018-06-22T15:15:02.946Z
 updatedAt: 2024-01-19T19:28:16.938Z
 publishedAt: 2023-10-18T17:29:11.714Z

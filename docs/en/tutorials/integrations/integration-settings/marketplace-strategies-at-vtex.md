@@ -32,7 +32,7 @@ Here are some of the main transactions when selling products on marketplaces:
 
 The product assortment sent to a marketplace is defined when you choose the [trade policy](/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV).  
 
-[Additional trade policies can be requested](/pt/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X) via a ticket to our [Support](/pt/support) team by selecting the Commercial option and the New Trade Policy request type. A monthly fee is charged for each additional trade policy, whether used for integration with certified, partner, external, or VTEX marketplaces.  
+[Additional trade policies can be requested](/en/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X) via a ticket to our [Support](https://help.vtex.com/en/support) team by selecting the Commercial option and the New Trade Policy request type. A monthly fee is charged for each additional trade policy, whether used for integration with certified, partner, external, or VTEX marketplaces.  
 
 > ℹ️ Orders placed through marketplaces are subject to the same [contractual rules](/en/tutorial/o-que-a-vtex-considera-como-receita-para-apuracao--58j4cfoXfisWyemASACwSq?locale=pt) as the ones placed through other channels.  
 
@@ -119,33 +119,33 @@ You will only need to configure a trade policy for a specific marketplace if you
 - Configure other payment conditions.  
 - Define a different shipping strategy.  
 
-To [purchase additional trade policies](/pt/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X), simply request it via a ticket in Support, selecting the **Commercial** option and the request type `Creation of Trade Policy`.
+To [purchase additional trade policies](/en/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X), simply request it via a ticket in Support, selecting the **Commercial** option and the request type `Creation of Trade Policy`.
 
 For each additional trade policy, a monthly fee is charged, whether it is used for integration with certified marketplaces, partners, external or VTEX.  
 
 Currently, on the VTEX platform, you can find the following marketplaces:  
 
-- [Amazon](/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP)  
-- [Mercado Libre](/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq)  
-- [Magazine Luiza](/pt/tracks/configurar-integracao-com-o-magazine-luiza--5Yx5IrNa7Y48c6aSC8wu2Y)  
-- [Carrefour](/pt/tracks/configurar-integracao-com-o-carrefour--2wYlj07cNuA8k8mmwY86K2)  
-- [Centauro](/pt/tracks/integracao-com-a-centauro--D8Qnjbr5lfLkUfMRhsfbj)  
-- [Dafiti](/pt/tracks/configurar-integracao-da-dafiti--4wF4RBx9ygEkimW6SsKw8i)  
-- [Netshoes](/pt/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm)  
-- [Zoom](/pt/tutorial/integrando-com-zoom--2OoQjigCVOIEWWkgOqwCK6?&utm_source=autocomplete)  
-- [CSU (Opte+)](/pt/tutorial/integrando-com-csu-opte-2--tutorials_4258)  
-- [MadeiraMadeira](/pt/tutorial/integracao-com-madeiramadeira--J4QCENKiz4urYNfaMuE0i)  
-- [Riachuelo](/pt/tutorial/integracao-com-riachuelo--kpfxAgwEcANihHLT4iW81)  
-- [Camicado](/pt/tutorial/integracao-com-renner-e-camicado--5qf2wloosKlmIB8o2AitnT)  
-- [Renner](/pt/tutorial/integracao-com-renner-e-camicado--5qf2wloosKlmIB8o2AitnT)  
-- [Enjoei](/tutorial/integracao-com-enjoei--3mV9uhw1AdqFol8K2tfwly)  
-- [Wish](/pt/tracks/integracao-com-a-wish--50hbG4bzhSIhjz1lzqI1g4)  
-- [Shopee](/pt/tutorial/integracao-com-a-shopee-beta--5OV9idUY6fHu3P8grnCnqj)  
-- [Facebook](/pt/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc)  
-- [Google Shopping](/pt/tracks/configurar-integracao-com-o-google-shopping--25Sl7iOqq58PGfVfTAo8Xw)  
-- [Google Shopping Ads](/pt/tracks/como-fazer-campanhas-atraves-do-google-ads--47kz5PRQPK0IEaqGqiIuA)  
-- [Tik Tok](/pt/tracks/integracao-com-o-tiktok--1r0yJSO11nrer1YVu3WTFd)  
-- [Livelo](/pt/tracks/integracao-livelo--4ZSHEiuTkh8HR9ubJQj8BP/5rhGcaM0SedoK7lDMBkVFD)  
+- [Amazon](/en/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP)  
+- [Mercado Libre](/en/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq)  
+- [Magazine Luiza](/en/tracks/configurar-integracao-com-o-magazine-luiza--5Yx5IrNa7Y48c6aSC8wu2Y)  
+- [Carrefour](/en/tracks/configurar-integracao-com-o-carrefour--2wYlj07cNuA8k8mmwY86K2)  
+- [Centauro](/en/tracks/integracao-com-a-centauro--D8Qnjbr5lfLkUfMRhsfbj)  
+- [Dafiti](/en/tracks/configurar-integracao-da-dafiti--4wF4RBx9ygEkimW6SsKw8i)  
+- [Netshoes](/en/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm)  
+- [Zoom](/en/tutorial/integrando-com-zoom--2OoQjigCVOIEWWkgOqwCK6?&utm_source=autocomplete)  
+- [CSU (Opte+)](/en/tutorial/integrando-com-csu-opte-2--tutorials_4258)  
+- [MadeiraMadeira](/en/tutorial/integracao-com-madeiramadeira--J4QCENKiz4urYNfaMuE0i)  
+- [Riachuelo](/en/tutorial/integracao-com-riachuelo--kpfxAgwEcANihHLT4iW81)  
+- [Camicado](/en/tutorial/integracao-com-renner-e-camicado--5qf2wloosKlmIB8o2AitnT)  
+- [Renner](/en/tutorial/integracao-com-renner-e-camicado--5qf2wloosKlmIB8o2AitnT)  
+- [Enjoei](/en/tutorial/integracao-com-enjoei--3mV9uhw1AdqFol8K2tfwly)  
+- [Wish](/en/tracks/integracao-com-a-wish--50hbG4bzhSIhjz1lzqI1g4)  
+- [Shopee](/en/tutorial/integracao-com-a-shopee-beta--5OV9idUY6fHu3P8grnCnqj)  
+- [Facebook](/en/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc)  
+- [Google Shopping](/en/tracks/configurar-integracao-com-o-google-shopping--25Sl7iOqq58PGfVfTAo8Xw)  
+- [Google Shopping Ads](/en/tracks/como-fazer-campanhas-atraves-do-google-ads--47kz5PRQPK0IEaqGqiIuA)  
+- [Tik Tok](/en/tracks/integracao-com-o-tiktok--1r0yJSO11nrer1YVu3WTFd)  
+- [Livelo](/en/tracks/integracao-livelo--4ZSHEiuTkh8HR9ubJQj8BP/5rhGcaM0SedoK7lDMBkVFD)  
 - Kabum  
 - Grupo LTM  
 - TudoAzul  

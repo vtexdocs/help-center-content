@@ -34,7 +34,7 @@ La primera acción necesaria es ponerse en contacto con el responsable de tu [in
 2. Accede al pedido deseado.
 3. En la [página de detalhes do pedido](/es/tutorial/pagina-de-detalles-del-pedido--2Y75n54Cc9VizrlG1N6ZNl), comprueba que el status del pedido se haya actualizado a `Preparando envío`.
 
-> ⚠️ Si el pedido todavía continúa en el status `Listo para preparación`, solicita más información abriendo un ticket con el [Soporte VTEX](/es/support).
+> ⚠️ Si el pedido todavía continúa en el status `Listo para preparación`, solicita más información abriendo un ticket con el [Soporte VTEX](https://help.vtex.com/es/support).
 
 ### Actualización manual del status del pedido (opcional)
 
@@ -42,6 +42,6 @@ Puedes [actualizar manualmente](/es/tutorial/enviar-pedido-al-status-a-preparar-
 
 > ❗ Al actualizar manualmente el status y confirmar el inicio de la preparación, el seller asume la responsabilidad por la [reserva de los ítens](/es/tutorial/como-se-maneja-la-reserva--tutorials_92), garantizando que haya suficiente stock y que se registre la baja de los ítems vendidos. Los pedidos actualizados de forma manual no pueden integrarse posteriormente en el sistema del ERP.
 
-> ⚠️ Si el pedido todavía continúa en el status `Listo para preparación` después del intento de actualización manual, solicita más información abriendo un ticket con el [Soporte VTEX](/en/support).
+> ⚠️ Si el pedido todavía continúa en el status `Listo para preparación` después del intento de actualización manual, solicita más información abriendo un ticket con el [Soporte VTEX](https://help.vtex.com/en/support).
 
 Además del escenario de error relacionado con el sistema ERP, pueden darse situaciones en las que se muestren dos status diferentes para el mismo pedido, uno en la lista de la página __Todos los pedidos__ y otro en la respectiva [página de detalles del pedido](/es/tutorial/pagina-de-detalles-del-pedido--2Y75n54Cc9VizrlG1N6ZNl). Para más información sobre este escenario, accede al problema conocido [El status en la lista de pedidos es diferente al status del pedido actual](/es/known-issues/el-estado-en-la-lista-de-pedidos-es-diferente-del-estado-actual-del-pedido--2UBFdtXWtCIygv0SiObCTN).

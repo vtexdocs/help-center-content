@@ -24,7 +24,7 @@ To access this feature, click __Store Settings__ on the left navigation menu, an
 Check out more details about the different sections and pages of this menu below. 
 
 ## Payment
-The Payment Settings Page is where you can set up payment conditions, custom payments, gateway affiliations and notifications. Know more about the actions you can take in this [page](/tracks/payments--6GAS7ZzGAm7AGoEAwDbwJG/7pAEMAo4iqNHwYOarZ3zgm), that is coming soon in the Admin v4 design.
+The Payment Settings Page is where you can set up payment conditions, custom payments, gateway affiliations and notifications. Know more about the actions you can take in this [page](/en/tracks/payments--6GAS7ZzGAm7AGoEAwDbwJG/7pAEMAo4iqNHwYOarZ3zgm), that is coming soon in the Admin v4 design.
 
 ## Orders
 The Order Settings section is where you can set up general orders settings, manage affiliates, orders authorization and payment methods for subscriptions settings. It includes the following pages, that are coming soon in the Admin v4 design:

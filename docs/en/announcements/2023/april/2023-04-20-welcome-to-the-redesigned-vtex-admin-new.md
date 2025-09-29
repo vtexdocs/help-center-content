@@ -52,7 +52,7 @@ Besides reorganizing the order of pages, we have also changed some of the labels
 | [Apps](/en/tutorial/visao-geral-apps--4xfsHXyAQTjbZNuiKl6Y0e#)                               | App Store and installed apps.                                                                                               |
 | [Store Settings](/en/tutorial/store-settings-overview--6VtlMoid6iM9dP14X1CopT#)   | Settings for payments, orders, email templates, shipping, products, storefront, channels, Intelligent Search, and calendar. |
 | [User Settings](/en/tutorial/visao-geral-configuracoes-de-usuario--3Qsy4ce1FrWKZPoMeEQY34)     | Settings applied to your store, including your storefront.                                                                  |
-| [Account Settings](/tutorial/account-settings-overview--6USYxLuzNt4uAkvjdPF7I8) | Settings applied to your personal profile in the Admin, not related to the store or your VTEX business account.             |
+| [Account Settings](/en/tutorial/account-settings-overview--6USYxLuzNt4uAkvjdPF7I8) | Settings applied to your personal profile in the Admin, not related to the store or your VTEX business account.             |
 | [Invoices](/en/tutorial/visao-geral-faturas--6UxfCl4fw4GmyQwoUuIcQs#)                         | Management of all financial aspects of your VTEX account.                                                                   |
 
 ## Why did we make this change?

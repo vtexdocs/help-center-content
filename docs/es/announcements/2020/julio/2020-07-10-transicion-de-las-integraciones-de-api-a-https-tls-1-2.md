@@ -1,7 +1,7 @@
 ---
 title: 'Transición de las integraciones de API a HTTPS / TLS 1.2'
 id: 50H4bHnV1uk2GCY3CaJBXo
-status: CHANGED
+status: PUBLISHED
 createdAt: 2020-07-10T20:32:32.971Z
 updatedAt: 2021-11-17T17:58:32.348Z
 publishedAt: 2020-07-21T19:14:32.690Z

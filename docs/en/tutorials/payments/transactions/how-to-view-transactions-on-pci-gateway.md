@@ -23,9 +23,9 @@ This listing indicates the current status, the start (date and time) of the tran
 
 ![payment_en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/transactions/how-to-view-transactions-on-pci-gateway_1.jpg)
 
-Each order registration will its data restricted to the payment conditions used for its closure. Authorization, transaction and NSU codes, among others, [are available within each record.](http://help.vtex.com/tutorial/como-visualizar-detalhes-do-pedido/ "are available within each record.")
+Each order registration will its data restricted to the payment conditions used for its closure. Authorization, transaction and NSU codes, among others, [are available within each record.](/en/tutorial/como-visualizar-detalhes-do-pedido/ "are available within each record.")
 
 In addition to these data, this interface is also dynamic in terms of the filters that can be created and the searches that can be performed. To further extend its use, visit:
 
-- [How to search for transactions](http://help.vtex.com/en/tutorial/searching-for-transactions-on-pci-gateway)
-- [How to filter transaction](http://help.vtex.com/en/faq/filtering-transactions-on-pci-gateway)
+- [How to search for transactions](/en/tutorial/searching-for-transactions-on-pci-gateway)
+- [How to filter transaction](/en/faq/filtering-transactions-on-pci-gateway)

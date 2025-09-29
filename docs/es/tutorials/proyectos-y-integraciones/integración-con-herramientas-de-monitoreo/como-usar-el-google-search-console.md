@@ -44,7 +44,7 @@ Search Console proporciona un informe de URL indexadas con error de rastreo, pri
 ](/es/tutorial/rastreamento-google-search-console-robots-txt--tutorials_574).
 - **Mapas del sitio:** permite registrar el mapa del sitio de tu tienda y el informe de proporción entre URL enviadas y URL indexadas.
 - **Parámetro de URL:** lista todos los parámetros identificados en las URL de tus tiendas y permite definir la acción que Google aplicará para cada parámetro. Puedes ver más información en [Rastreo Google Search Console - Sitemap
-](/pt/tutorial/rastreamento-google-search-console-sitemap--tutorials_575).
+](/es/tutorial/rastreamento-google-search-console-sitemap--tutorials_575).
 
 ## Índice de Google
 

@@ -78,7 +78,7 @@ Puedes editar los datos de registro de la empresa siguiendo los pasos a continua
 
 En esta sección se presentan los datos del usuario titular de la cuenta. Cada cuenta VTEX tiene un único usuario titular, que dispone de acceso completo a todas las secciones del Admin, incluidas las acciones críticas de mantenimiento y autorización.
 
-> ℹ️ Más información sobre el [usuario titular](/pt/tutorial/o-que-e-o-usuario-titular--3oPr7YuIkEYqUGmEqIMSEy).
+> ℹ️ Más información sobre el [usuario titular](/es/tutorial/o-que-e-o-usuario-titular--3oPr7YuIkEYqUGmEqIMSEy).
 
 ![Página de detalles de la cuenta - Titular](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/gesti%C3%B3n-de-la-cuenta/cuentas/gestion-de-la-cuenta_5.png)
 
@@ -122,7 +122,7 @@ Para crear una nueva tienda, sigue los pasos a continuación.
 5. Si deseas iniciar el proceso [go-live](/es/tracks/realizando-o-go-live-da-sua-loja--4Ns5FxIiksmjsdX2yOTduM) para tu tienda, rellena el campo **Hosts** con el [dominio de tu tienda](/es/tutorial/configurando-dominios-no-license-manager). En caso contrario, deja este campo en blanco.
 6. Haz clic en el botón `Crear`.
 
-> ℹ️ Para obtener más información sobre la configuración de los **Hosts** de tu tienda, consulta el artículo [Configurar el dominio de tu tienda](/tutorial/configurando-dominios-no-gerenciamento-da-conta--tutorials_2450).
+> ℹ️ Para obtener más información sobre la configuración de los **Hosts** de tu tienda, consulta el artículo [Configurar el dominio de tu tienda](/es/tutorial/configurando-dominios-no-gerenciamento-da-conta--tutorials_2450).
 
 > ⚠️ No utilice un dominio de tipo ".com" en el campo Store name. Este tipo de entrada sólo puede existir en el campo Hosts.
 

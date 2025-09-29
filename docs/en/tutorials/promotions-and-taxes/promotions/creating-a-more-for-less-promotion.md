@@ -67,7 +67,7 @@ Select one of the following options to apply the promotion:
 ### Selecting trade policies for the discount
 
 Select the trade policies valid for the discount. You can offer discounts for trade policies where  
-[your store acts as a marketplace](/pt/faq/o-que-e-um-marketplace) (My Store) or a seller (Third Party Stores - Fulfillment).
+[your store acts as a marketplace](/en/faq/o-que-e-um-marketplace) (My Store) or a seller (Third Party Stores - Fulfillment).
 
 Choose from the following options:
 

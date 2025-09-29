@@ -73,7 +73,7 @@ To watch an app demo or schedule a custom service with an expert, go to the[ VTE
 
 > ⚠️ VTEX Shipping Network and VTEX Shipping Network Correios solutions are exclusive to Brazil.
 
-Explore options for shipping products to all regions of Brazil with [VTEX Shipping Network](/pt/tutorial/pronto-para-envio--5YOZV7Aotv3pap0fGNESDs) and **VTEX Shipping Network Correios**.
+Explore options for shipping products to all regions of Brazil with [VTEX Shipping Network](/en/tutorial/pronto-para-envio--5YOZV7Aotv3pap0fGNESDs) and **VTEX Shipping Network Correios**.
 
 **VTEX Shipping Network** offers the option of connecting carriers to create an integrated delivery network. With currently over 20 partners, it provides customers with the best cost and delivery time options.
 
@@ -83,16 +83,16 @@ Learn more on the [VTEX Shipping Network](https://vtex.com/br-pt/shipping-networ
 
 ## VTEX Shipping Network Correios
 
-[VTEX Shipping Network Correios](/pt/tutorial/vtex-shipping-network-correios-faq--2Wavf7Wie5GEUAEHKtn5oC) is a partnership between VTEX and Correios, the primary postal service in Brazil. This solution allows stores to use PAC and SEDEX shipping services directly through the VTEX Admin with special rates, thereby reducing operational shipping costs.
+[VTEX Shipping Network Correios](/en/tutorial/vtex-shipping-network-correios-faq--2Wavf7Wie5GEUAEHKtn5oC) is a partnership between VTEX and Correios, the primary postal service in Brazil. This solution allows stores to use PAC and SEDEX shipping services directly through the VTEX Admin with special rates, thereby reducing operational shipping costs.
 
 ![image6](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/onboarding-guide/next-steps-after-the-go-live/add-on-products_7.png)
 
-Requesting this solution is simple and can be done in a few minutes. To do so, accept the Terms and Conditions and [enable](/pt/tutorial/vtex-shipping-network-correios-ativacao--57opHihFbRAwrjQjCTymTa) the solution in the store's Admin. These are the features available in the VTEX Shipping Network Correios:
+Requesting this solution is simple and can be done in a few minutes. To do so, accept the Terms and Conditions and [enable](/en/tutorial/vtex-shipping-network-correios-ativacao--57opHihFbRAwrjQjCTymTa) the solution in the store's Admin. These are the features available in the VTEX Shipping Network Correios:
 
 - Synchronization of shipping tables between Correios and VTEX. Every update made by Correios is automatically displayed in the VTEX environment.
 - Shipping tracking automatically updated and added to orders.
-- Shipping labels available to be printed via the VTEX Admin ([Ready to Dispatch](/pt/tutorial/pronto-para-envio--5YOZV7Aotv3pap0fGNESDs) module) or via [API](https://developers.vtex.com/docs/guides/vtex-shipping-network-labels-integration) for integration with external systems (e.g., ERP, WMS).
-- Direct communication channel with Correios in the Admin through the [Information request](/pt/tutorial/entregas-correios-vtex-shipping-network--5CZRA0lq60EecmwZpsjvfq#solicitar-informacoes-do-pedido-aos-correios).
+- Shipping labels available to be printed via the VTEX Admin ([Ready to Dispatch](/en/tutorial/pronto-para-envio--5YOZV7Aotv3pap0fGNESDs) module) or via [API](https://developers.vtex.com/docs/guides/vtex-shipping-network-labels-integration) for integration with external systems (e.g., ERP, WMS).
+- Direct communication channel with Correios in the Admin through the [Information request](/en/tutorial/entregas-correios-vtex-shipping-network--5CZRA0lq60EecmwZpsjvfq#solicitar-informacoes-do-pedido-aos-correios).
 
 Learn more on the [VTEX Shipping Network Correios](https://vtex.com/br-pt/shipping-network-correios/) page.
 

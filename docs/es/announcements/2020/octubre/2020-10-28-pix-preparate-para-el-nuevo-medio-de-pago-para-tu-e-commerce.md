@@ -24,7 +24,7 @@ El Pix és el nuevo médio de pago instantaneo de Banco Central (Bacen) - dispon
 Para conocer las ventajas y los beneficios de aceptar el Pix como medio de pago en su e-commerce, [haga clic aquí](https://vtex.com/pt-br/blog/produto/pix-no-e-commerce/).
 
 ## ¿Cómo parceros pueden integrarse a VTEX?
-__A partir del dia 19 de octubre de 2020__, parceros pueron empiezar sus integraciones con el [Payment Provider Protocol](/en/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m) para ofrecer el Pix como medio de pago para sus clientes.
+__A partir del dia 19 de octubre de 2020__, parceros pueron empiezar sus integraciones con el [Payment Provider Protocol](/es/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m) para ofrecer el Pix como medio de pago para sus clientes.
 
 __Entidades de pago socias de VTEX __poden ponerse en contacto con la área de Asociaciónes y solicitar la integración hablando directamente con su Partner Manager. Además, tambien és possible hacer la integración abriendo un ticket para el time de [Soporte VTEX](/es/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM?locale=en "Soporte VTEX").
 

@@ -64,7 +64,7 @@ Todas as páginas do site podem ser alteradas individualmente conforme o artigo 
 
 ### Perda de parâmetros
 
-Este [problema conhecido](/pt/known-issues/parametros-de-campanhas-sendo-perdidos-em-redirecionamento-de-http-para-https) foi solucionado! Com o uso da [nova CDN da VTEX](http://help.vtex.com/pt/tutorial/ativar-nova-cdn-da-vtex), o redirecionamento entre páginas mantém os parâmetros originais.
+Este [problema conhecido](/pt/known-issues/parametros-de-campanhas-sendo-perdidos-em-redirecionamento-de-http-para-https) foi solucionado! Com o uso da [nova CDN da VTEX](/pt/tutorial/ativar-nova-cdn-da-vtex), o redirecionamento entre páginas mantém os parâmetros originais.
 
 ### URLs do XML
 

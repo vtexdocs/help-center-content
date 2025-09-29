@@ -64,6 +64,6 @@ Para crear una nueva política de envío, siga los pasos a continuación:
 
 ### Sepa más
 
-* [Política de envío](/en/tutorial/politica-de-envio--tutorials_140)
+* [Política de envío](/es/tutorial/politica-de-envio--tutorials_140)
 * [Gestionar políticas de envío](/es/tutorial/gerenciar-politicas-de-envio--30nynylgbWieimhaMtGTIE)
 * [Estrategia de envío](/es/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3)

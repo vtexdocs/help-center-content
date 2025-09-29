@@ -1,7 +1,7 @@
 ---
 title: 'Nuevos tutoriales ayudan a tiendas B2B a implementar sus negocios en VTEX'
 id: 3rFBd4IyDn53FiYeyYxoT3
-status: CHANGED
+status: PUBLISHED
 createdAt: 2020-06-02T02:00:25.551Z
 updatedAt: 2020-11-27T19:40:22.164Z
 publishedAt: 2020-06-02T02:43:45.605Z

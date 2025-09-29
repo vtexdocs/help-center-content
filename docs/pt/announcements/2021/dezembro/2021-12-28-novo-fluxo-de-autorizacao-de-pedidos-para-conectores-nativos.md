@@ -77,6 +77,6 @@ Uma vez que você configure a regra de Divergência de valores, ela passa a vale
 
 Para marketplaces VTEX, marketplaces externos e conectores certificados (parceiros), enquanto a regra de Divergência de valores não for criada, pedidos com erro de divergência de preço são aprovados automaticamente.
 
-> ⚠️ Para <a href= "/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-a-conector-nativo-vtex">conectores nativos</a>, enquanto o seller não <a href= "/pt/tutorial/configuracao-da-regra-de-divergencia-de-valores--awAKP0sS5J8jgLs2g7pPe">configura a regra de Divergência de valores</a>, pedidos com divergência de preço ficam retidos. É possível acompanhá-los no Admin VTEX, em **MARKETPLACE > Integrações > Pedidos**.
+> ⚠️ Para [conectores nativos](/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-a-conector-nativo-vtex), enquanto o seller não [configura a regra de Divergência de valores](/pt/tutorial/configuracao-da-regra-de-divergencia-de-valores--awAKP0sS5J8jgLs2g7pPe), pedidos com divergência de preço ficam retidos. É possível acompanhá-los no Admin VTEX, em **MARKETPLACE > Integrações > Pedidos**.
 
 Se você não quiser que conectores nativos obedeçam à Regra de Divergência de valores, é possível manter o fluxo anterior. Neste caso, [entre em contato com o time de suporte da VTEX](https://support.vtex.com/hc/pt-br/requests).

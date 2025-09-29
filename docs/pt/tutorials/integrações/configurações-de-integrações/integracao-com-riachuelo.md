@@ -61,7 +61,7 @@ O [afiliado](/pt/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0) é o identif
 - **E-mail de Follow Up:** endereço eletrônico que receberá notificações sobre a integração.
 - **Endpoint de Search:** URL da aplicação que receberá notificações de produtos, preço, estoque, dentre outros.
 
-> ❗ Esta informação ficará pendente e será retomada na parte final deste artigo, em <a href="">Cadastro do Endpoint de Search do afiliado</a>.
+> ❗ Esta informação ficará pendente e será retomada na parte final deste artigo, em Cadastro do Endpoint de Search do afiliado.
 
 - **Versão do Endpoint de Search:** só existe a opção padrão _1.x.x_.
 - Deixe desmarcada a flag _Usar meu meio de pagamento_.
@@ -100,7 +100,7 @@ Um usuário é um perfil configurado para poder realizar determinadas ações na
 3. Clique no botão `+ NOVO`.
 4. Preencha o campo do email com a _access key_ criada.
 5. Clique em `+ADICIONAR PERFIS`.
-6. Selecione a flag correspondente a [`IntegrationProfile - Fulfillment Gateway Oms`](/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#integrationprofile-fulfillment-gateway-oms).
+6. Selecione a flag correspondente a [`IntegrationProfile - Fulfillment Gateway Oms`](/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#integrationprofile-fulfillment-gateway-oms).
 7. Clique no botão `ADICIONAR PERFIS`.
 8. Clique em `SALVAR`.
 

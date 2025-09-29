@@ -45,8 +45,8 @@ La información de la lista se describe en la siguiente tabla:
 | Método de envío | [Método de envío](/es/tutorial/como-funciona-o-tipo-de-envio--tutorials_126) es el nombre que configuras en la política de envío que se mostrará a los clientes en el checkout. Por lo tanto, es importante utilizar nombres intuitivos al crear una política de envío.Ejemplo: `Envío express` e `Envío estándar`. |
 | Muelles | Identifica los [muelles](/es/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj) asociados a la [política de envío](/es/tutorial/politica-de-envio--tutorials_140). Al pasar el mouse sobre el número de esta columna, se muestran los nombres de todos los muelles asociados a la política de envío. |
 | Status | Status de activación de la política de envío, que puede ser:<ul><li>**Activa:** la política de envío está activada y se considera válida en el [cálculo](/es/tutorial/como-funciona-o-calculo-de-envio--tutorials_116) de envío de pedidos.</li><li>**Inactiva:** la política de envío está desactivada y no es válida para envíos.</li></ul> |
-| Transportadora (solo Brasil) | Este campo solo se muestra en el Admin VTEX de tiendas que activaron la funcionalidad [VTEX Shipping Network Correio](/pt/tutorial/vtex-shipping-network-correios-ativacao--57opHihFbRAwrjQjCTymTa) o que contrataron [VTEX Shipping Network](/pt/tutorial/pronto-para-envio--5YOZV7Aotv3pap0fGNESDs) y solamente identifica a Correios. |
-| Contrato (solo Brasil) | Este campo solo se muestra en el Admin VTEX de tiendas que hayan activado [VTEX Shipping Network Correios](/pt/tutorial/vtex-shipping-network-correios-ativacao--57opHihFbRAwrjQjCTymTa).Los valores pueden ser:<ul><li>**VTEX:** la tienda contrató una tabla de Correios mediada por VTEX.</li><li>**Propio:** la tienda contrató una tabla por cuenta propia antes de activar VTEX Shipping Network Correios.</li></ul> |
+| Transportadora (solo Brasil) | Este campo solo se muestra en el Admin VTEX de tiendas que activaron la funcionalidad [VTEX Shipping Network Correio](/es/tutorial/vtex-shipping-network-correios-ativacao--57opHihFbRAwrjQjCTymTa) o que contrataron [VTEX Shipping Network](/es/tutorial/pronto-para-envio--5YOZV7Aotv3pap0fGNESDs) y solamente identifica a Correios. |
+| Contrato (solo Brasil) | Este campo solo se muestra en el Admin VTEX de tiendas que hayan activado [VTEX Shipping Network Correios](/es/tutorial/vtex-shipping-network-correios-ativacao--57opHihFbRAwrjQjCTymTa).Los valores pueden ser:<ul><li>**VTEX:** la tienda contrató una tabla de Correios mediada por VTEX.</li><li>**Propio:** la tienda contrató una tabla por cuenta propia antes de activar VTEX Shipping Network Correios.</li></ul> |
 
 ## Buscar políticas de envío
 
@@ -69,14 +69,14 @@ Para remover el filtro aplicado, haz clic en `Status` y después en `Limpiar`.
 
 ### Filtro para tipos de contrato (solo Brasil)
 
-Las tiendas que hayan contratado [VTEX Shipping Network](/pt/tutorial/pronto-para-envio--5YOZV7Aotv3pap0fGNESDs) o hayan activado [VTEX Shipping Network Correios](/pt/tutorial/vtex-shipping-network-correios-ativacao--57opHihFbRAwrjQjCTymTa) pueden buscar por tipo de contrato:
+Las tiendas que hayan contratado [VTEX Shipping Network](/es/tutorial/pronto-para-envio--5YOZV7Aotv3pap0fGNESDs) o hayan activado [VTEX Shipping Network Correios](/es/tutorial/vtex-shipping-network-correios-ativacao--57opHihFbRAwrjQjCTymTa) pueden buscar por tipo de contrato:
 
 * `VTEX`: la contratación de la tabla de Correios fue mediada por VTEX.
 * `Propio`: la propia tienda realizó la contratación de la tabla de Correios.
 
 ## Ver dashboard de transportadoras (solo Brasil)
 
-Las tiendas que hayan contratado [VTEX Shipping Network](/pt/tutorial/pronto-para-envio--5YOZV7Aotv3pap0fGNESDs) o hayan activado [VTEX Shipping Network Correios](/pt/tutorial/vtex-shipping-network-correios-ativacao--57opHihFbRAwrjQjCTymTa) verán el botón `Dashboard de transportadoras` en la página **Políticas de envío**. El botón redirige al usuario al [dashboard de VTEX Shipping Network](/pt/tutorial/painel-vtex-shipping-network--51e8tx1IehiN4ZtURRWU92), donde puede gestionar la operación de transportadoras utilizadas en esos productos.
+Las tiendas que hayan contratado [VTEX Shipping Network](/es/tutorial/pronto-para-envio--5YOZV7Aotv3pap0fGNESDs) o hayan activado [VTEX Shipping Network Correios](/es/tutorial/vtex-shipping-network-correios-ativacao--57opHihFbRAwrjQjCTymTa) verán el botón `Dashboard de transportadoras` en la página **Políticas de envío**. El botón redirige al usuario al [dashboard de VTEX Shipping Network](/es/tutorial/painel-vtex-shipping-network--51e8tx1IehiN4ZtURRWU92), donde puede gestionar la operación de transportadoras utilizadas en esos productos.
 
 ## Editar políticas de envío
 

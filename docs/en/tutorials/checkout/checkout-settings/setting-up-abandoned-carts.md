@@ -87,7 +87,7 @@ In this step, you must create a [trigger in Master Data](/en/tutorial/criando-tr
 - __Checkout:__ The trigger will be enabled if the checkout is not completed and is different from null, i.e., if the customer does not place the order.
 - __Cart:__ Refers to the last products the customer added to the shopping cart. The trigger will be enabled if the value is different from null.
 - __Last cart:__ Records the date and time the cart was created. The trigger will be enabled if the value is different from null.
-- __Receives newsletter?:__ Ensures compliance with the [rights of data subjects](/pt/tutorial/data-subject-rights--6imchxTx09icupKMbzHVIM), since only customers subscribed to the newsletter will receive abandoned cart emails. Subscription to your store's newsletter can be managed at checkout or in the [My Account](/pt/tutorial/como-funciona-a-minha-conta--2BQ3GiqhqGJTXsWVuio3Xh#perfil) section of your store. The trigger will be enabled if the value is true.
+- __Receives newsletter?:__ Ensures compliance with the [rights of data subjects](/en/tutorial/data-subject-rights--6imchxTx09icupKMbzHVIM), since only customers subscribed to the newsletter will receive abandoned cart emails. Subscription to your store's newsletter can be managed at checkout or in the [My Account](/en/tutorial/como-funciona-a-minha-conta--2BQ3GiqhqGJTXsWVuio3Xh#perfil) section of your store. The trigger will be enabled if the value is true.
 
 For the trigger to be successfully activated, the filters must be completed following the instructions below:
 

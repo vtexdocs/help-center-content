@@ -19,7 +19,7 @@ subcategoryId: 31ICVopiWZfSTdr9jZMShb
 
 To access this section, click on your **profile avatar**, which can be identified by the first letter of your email address, then click on **Billing**. Select the tab you wish to visit, such as  __Contracts__, __Invoices__, __Registration Data__ and __Billing Contracts__.
 
-> ℹ️ Only users with the access profiles of [Finance](/en/tutorial/predefined-roles--jGDurZKJHvHJS13LnO7Dy#finance), [Finance Full Access](/en/tutorial/predefined-roles--jGDurZKJHvHJS13LnO7Dy#finance-full-access) or with [Billing](/es/tutorial/recursos-do-license-manager-billing--13qKy6rwf9chc8ta90rDcy) resources linked to their access profile can view this section of the VTEX Admin.     
+> ℹ️ Only users with the access profiles of [Finance](/en/tutorial/predefined-roles--jGDurZKJHvHJS13LnO7Dy#finance), [Finance Full Access](/en/tutorial/predefined-roles--jGDurZKJHvHJS13LnO7Dy#finance-full-access) or with [Billing](/en/tutorial/recursos-do-license-manager-billing--13qKy6rwf9chc8ta90rDcy) resources linked to their access profile can view this section of the VTEX Admin.     
 
 ![Admin v4 Faturas menu EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/billing/billing-overview/billing-module-overview_1.jpg)
 

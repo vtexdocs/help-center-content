@@ -42,5 +42,5 @@ See below the five available recommendation strategies, implemented directly by 
 
 ## Implementation
 
-To request activation of the Product Recommendations feature in your store, open a ticket with [Commercial Support](/pt/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ), indicating which strategies you want to activate. The VTEX team will review the request and get in contact with you.  
+To request activation of the Product Recommendations feature in your store, open a ticket with [Commercial Support](/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ), indicating which strategies you want to activate. The VTEX team will review the request and get in contact with you.  
 

@@ -59,7 +59,7 @@ O fluxo de preenchimento automático de dados do cliente no Checkout ocorre da s
 
 Qualquer tipo de alteração nos dados cadastrados, como endereço e telefone, será permitida somente após o cliente realizar a sua [autenticação na loja](/pt/tutorial/como-meu-cliente-pode-fazer-login-na-minha-loja--3FCNpwbpZe0U4auiI4CC0C#). 
 
-Para maiores informações sobre proteção de dados, acesse [Segurança do SmartCheckout](/en/tutorial/seguranca-do-smartcheckout--3SrJuuhrqwePUg1rp1exfB#).
+Para maiores informações sobre proteção de dados, acesse [Segurança do SmartCheckout](/pt/tutorial/seguranca-do-smartcheckout--3SrJuuhrqwePUg1rp1exfB#).
 
 ### Saiba mais
 

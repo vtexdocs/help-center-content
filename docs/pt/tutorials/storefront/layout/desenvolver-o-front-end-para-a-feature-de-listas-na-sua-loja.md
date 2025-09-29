@@ -120,7 +120,7 @@ Este código renderiza uma lista com __três links__:
 
 ## Editar o template de criação de listas
 
-> ℹ️ Antes de editar este template, é necessário [criar o Tipo de Lista](http://help.vtex.com/pt/tutorial/criando-tipo-de-lista) que será oferecido na sua loja. <!--Reescrever o artigo de tipo de lista -->
+> ℹ️ Antes de editar este template, é necessário [criar o Tipo de Lista](/pt/tutorial/criando-tipo-de-lista) que será oferecido na sua loja. <!--Reescrever o artigo de tipo de lista -->
 
 O template para criação de listas está localizado na rota `giftlist/create`. O template default desta rota é o `new-GiftList-Create`, localizado na seção `HTML Templates` do seu CMS.
 

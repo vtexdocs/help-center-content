@@ -66,7 +66,7 @@ Chamados urgentes são aqueles que reportam problemas críticos com impacto dire
 | Impossível Atender Pedidos | Status de pedidos não sendo atualizado *Feed* ou *hook* de pedidos não funcionando |
 | Usabilidade da Loja Indisponível | Não é possível adicionar itens ao carrinho Não é possível registrar no site Busca interna sem resposta |
 
-> ⚠️ Chamados urgentes terão atendimento emergencial, disponível exclusivamente via [chamados Zendesk](/en/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM).
+> ⚠️ Chamados urgentes terão atendimento emergencial, disponível exclusivamente via [chamados Zendesk](/pt/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM).
 
 ## Classificação de prioridade dos Chamados
 

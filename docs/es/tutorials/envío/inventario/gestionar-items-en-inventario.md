@@ -50,7 +50,7 @@ En el Admin VTEX, accede a **Catálogo > Stock > Gestión de stock**, o escribe 
 
 > ❗ Para garantizar que los ítems agregados al stock estén disponibles para venta en la tienda, el [ID del SKU](url) no debe contener **el número cero a la izquierda**. Por ejemplo, el sistema no reconoce ID con el formato `01`, `02` , `021`, ya que espera el formato `1`, `2`, `21`.
 
-La cantidad total de ítems en la página **Gestión de stock** se actualiza en tiempo real, pero puede haber un retraso de hasta 1 hora para que la información aparezca en el [historial de movimientos](/pt/tutorial/historico-de-movimentacoes-do-inventario--5AM7xbmMzmKSEQewakamc2).
+La cantidad total de ítems en la página **Gestión de stock** se actualiza en tiempo real, pero puede haber un retraso de hasta 1 hora para que la información aparezca en el [historial de movimientos](/es/tutorial/historico-de-movimentacoes-do-inventario--5AM7xbmMzmKSEQewakamc2).
 
 ### Filtros
 

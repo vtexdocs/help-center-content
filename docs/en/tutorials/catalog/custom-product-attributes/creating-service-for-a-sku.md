@@ -102,5 +102,5 @@ Use the template carefully, always making sure that the information is correctly
 - **Custo:** the cost of the service to the store.
 - **Ativo:** status of the service. Enter `1` to keep the service active and `0` to keep it inactive.
 
-> ⚠️ Adding a new template will not replace the services already linked to the SKU. To unlink a service, use the endpoint <a href ="https://developers.vtex.com/docs/api-reference/catalog-api#delete-/api/catalog/pvt/skuservice/-skuServiceId-">Dissociate SKU service</a>.
+> ⚠️ Adding a new template will not replace the services already linked to the SKU. To unlink a service, use the endpoint [Dissociate SKU service](https://developers.vtex.com/docs/api-reference/catalog-api#delete-/api/catalog/pvt/skuservice/-skuServiceId-).
 

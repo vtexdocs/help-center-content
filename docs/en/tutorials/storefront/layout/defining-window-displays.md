@@ -15,11 +15,11 @@ locale: en
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
-> ⚠️ **Warning:** there are two ways to configure collections, through the CMS or the Collection module (Beta). This article is about how to <a href = "/en/tutorial/adding-collections-cms--2YBy6P6X0NFRpkD2ZBxF6L">configure collections through the CMS</a>.
+> ⚠️ **Warning:** there are two ways to configure collections, through the CMS or the Collection module (Beta). This article is about how to [configure collections through the CMS](https://help.vtex.com/en/tutorial/adding-collections-cms--2YBy6P6X0NFRpkD2ZBxF6L).
 
 Window displays are used to highlight products on different pages, or for recommendations on a product page.
 
-First, before defining a window display, you must create a collection (see instructions [here](http://help.vtex.com/en/tutorial/creating-a-product-collection)) of the products to be displayed. The pages also have to be properly structured, with the required controls included in their templates.
+First, before defining a window display, you must create a collection (see instructions [here](/en/tutorial/creating-a-product-collection)) of the products to be displayed. The pages also have to be properly structured, with the required controls included in their templates.
 
 After defining this, link the collection to the window display in **Storefront > Layout**.
 

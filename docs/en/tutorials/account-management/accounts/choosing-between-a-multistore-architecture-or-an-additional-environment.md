@@ -38,7 +38,7 @@ The following table shows how the different architectures are related to the com
 
 | Property | Multistore architecture (store names) | Additional environment architecture |
 | - | - | - |
-| Architecture | A single VTEX Admin ([account](/en/tutorial/o-que-e-account-name)) with multiple subaccounts ([store names](/pt/tutorial/o-que-e-store-name--3gh9mTNeMgs6Qe44e8IqQK)). | Two separate VTEX Admin environments ([accounts](/en/tutorial/o-que-e-account-name)). |
+| Architecture | A single VTEX Admin ([account](/en/tutorial/o-que-e-account-name)) with multiple subaccounts ([store names](/en/tutorial/o-que-e-store-name--3gh9mTNeMgs6Qe44e8IqQK)). | Two separate VTEX Admin environments ([accounts](/en/tutorial/o-que-e-account-name)). |
 | Segmentation of sales conditions | You can segment applications such as catalog, prices, payments, promotions, and other components through [trade policies](/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV?) and [bindings](/en/tutorial/o-que-e-binding--4NcN3NJd0IeYccgWCI8O2W). | Because there are two separate environments, with independent configurations, the merchant has more control over segmentation options for sales conditions in different scenarios. |
 | Type of team | This is recommended when the same company and the same team manage two or more ecommerce stores with similar catalogs and some of the same items, but want to have separate storefronts for the customers to see each experience with a different brand. | Recommended when different teams within the same company manage different online stores. |
 | Storefront | Each store has a different storefront, but all stores are managed through the same VTEX Admin. If you only want to change the website language, without changing the operation of the store, you can use [multibinding](/en/tutorial/gerenciando-conteudo-por-binding--5CZjZPMqi0ZNpuqzF6AUOn) and [catalog internationalization](https://developers.vtex.com/docs/guides/catalog-internationalization) to set that up within the same VTEX environment.<br> <br>Note that this architecture is different from a [franchise account](/en/tutorial/what-is-a-franchise-account--kWQC6RkFSCUFGgY5gSjdl); this account doesn't have its own website. Consumers browse directly on the website of the main account, which acts as a marketplace in this case. | Each account manages its own storefronts in separate VTEX Admins and can use all available options for segmenting storefronts. |
@@ -56,5 +56,5 @@ The following table shows how the different architectures are related to the com
 
 ## Learn more
 
-- [Setting up marketplace for multistore](/pt/tutorial/como-configurar-bridge-para-multiloja--frequentlyAskedQuestions_672)    
-- [How to create a multistore / multidomain](/pt/tutorial/como-criar-multiloja-multidominio--tutorials_510)  
+- [Setting up marketplace for multistore](/en/tutorial/como-configurar-bridge-para-multiloja--frequentlyAskedQuestions_672)    
+- [How to create a multistore / multidomain](/en/tutorial/como-criar-multiloja-multidominio--tutorials_510)  

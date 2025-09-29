@@ -21,7 +21,7 @@ __Payment methods__ are the forms that can be used for the money to exchange han
 
 __Payment conditions__, on the other hand, are the rules that must be followed by a person who wants to buy in your store. In practice, payment conditions are the options that appear on the user's screen at checkout.
 
-At VTEX, a payment method is only available on your web site after you set it up at [Payments](http://help.vtex.com/en/tutorial/pci-gateway-overview) module, defining the __conditions__ in which payments can be made. In other words, we can understand a payment condition as the payment method which has already been configured.
+At VTEX, a payment method is only available on your web site after you set it up at [Payments](/en/tutorial/pci-gateway-overview) module, defining the __conditions__ in which payments can be made. In other words, we can understand a payment condition as the payment method which has already been configured.
 
 ### Related articles
 - [Payments - Overview](/en/tutorial/pci-gateway-overview)

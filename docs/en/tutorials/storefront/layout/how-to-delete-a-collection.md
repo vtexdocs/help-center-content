@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
-> ⚠️ **Warning:** there are two ways to configure collections, through the CMS or the Collection module. This article is about how to <a href = "/en/tutorial/adding-collections-cms--2YBy6P6X0NFRpkD2ZBxF6L">configure collections through the CMS</a>.
+> ⚠️ There are two ways to configure collections, through the CMS or the Collection module (Beta). This article is about how to [configure collections through the Legacy CMS Portal](/en/tutorial/adding-collections-cms--2YBy6P6X0NFRpkD2ZBxF6L).
 
 ## Via Admin
 You can not delete a collection altogether via Admin.

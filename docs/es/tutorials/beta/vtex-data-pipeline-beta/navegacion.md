@@ -198,11 +198,11 @@ En los datos de navegación de VTEX observamos importantes interacciones con otr
 
 ### Descubra otros conjuntos de datos
 
-- [Catálogo](/tutorial/catalogo-data-pipeline--7ARDELPaugrBu5dZT7Vx2b)
-- [Stock](/tutorial/inventario-data-pipeline-beta--2IvKMZV9SNrE6ipBRQr8h2) 
-- [Pagos](/tutorial/pagamentos-data-pipeline-beta--7LWkFaA1jPabzc5JAt1rGs) 
-- [Pedidos](/tutorial/pedidos-data-pipeline-beta--2f3GlRJ5L5IRGVIxOmzrFv) 
-- [Precios](/tutorial/precos-data-pipeline-beta--3NMGJ8dtv73Bwvo9PSz1fz)  
-- [Promociones](/tutorial/promocoes-data-pipeline-beta--3WZ1syNucDFdvVhfKtA6Qd)
-- [Tarjeta de regalo](/pt/tutorial/vale-presente-data-pipeline--4XAnyc4scy3OG6RdnD7OEf)
-- [Registro del Bridge](/tutorial/logs-do-bridge-data-pipeline--2RFVJZL19nsWBSB4IXA0Z)
+- [Catálogo](/es/tutorial/catalogo-data-pipeline--7ARDELPaugrBu5dZT7Vx2b)
+- [Stock](/es/tutorial/inventario-data-pipeline-beta--2IvKMZV9SNrE6ipBRQr8h2) 
+- [Pagos](/es/tutorial/pagamentos-data-pipeline-beta--7LWkFaA1jPabzc5JAt1rGs) 
+- [Pedidos](/es/tutorial/pedidos-data-pipeline-beta--2f3GlRJ5L5IRGVIxOmzrFv) 
+- [Precios](/es/tutorial/precos-data-pipeline-beta--3NMGJ8dtv73Bwvo9PSz1fz)  
+- [Promociones](/es/tutorial/promocoes-data-pipeline-beta--3WZ1syNucDFdvVhfKtA6Qd)
+- [Tarjeta de regalo](/es/tutorial/vale-presente-data-pipeline--4XAnyc4scy3OG6RdnD7OEf)
+- [Registro del Bridge](/es/tutorial/logs-do-bridge-data-pipeline--2RFVJZL19nsWBSB4IXA0Z)

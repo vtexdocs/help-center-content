@@ -47,6 +47,6 @@ To learn more about data protection, visit [SmartCheckout Security](/en/tutorial
 
 ## Page tracking
 
-When new parameters are inserted into a URL, such as a `querystring`, page tracking can change, impacting assessments performed by systems such as the Google Analytics conversion funnel. To use page tracking service with additional parameters, see updated rules at [Setting up the sales funnel on Google Analytics](/tutorial/configurar-funil-de-vendas-no-google-analytics#).
+When new parameters are inserted into a URL, such as a `querystring`, page tracking can change, impacting assessments performed by systems such as the Google Analytics conversion funnel. To use page tracking service with additional parameters, see updated rules at [Setting up the sales funnel on Google Analytics](/en/tutorial/configurar-funil-de-vendas-no-google-analytics#).
 
 > ℹ️ If you use another page tracking system in your store, check the internal documentation for that system.

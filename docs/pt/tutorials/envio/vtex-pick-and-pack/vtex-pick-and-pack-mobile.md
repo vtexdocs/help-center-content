@@ -1,7 +1,7 @@
 ---
 title: 'VTEX Pick and Pack Mobile'
 id: 3i1K01CQlDBFYYp42WFOet
-status: CHANGED
+status: PUBLISHED
 createdAt: 2024-04-04T20:42:46.548Z
 updatedAt: 2025-09-22T18:21:38.382Z
 publishedAt: 2025-07-07T18:08:42.360Z
@@ -21,29 +21,12 @@ O aplicativo móvel do [VTEX Pick and Pack](/pt/tutorial/vtex-pick-and-pack-fulf
 
 ![pickpack-mobile-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-mobile_1.png)
 
-O manuseio do pedido é dividido em três etapas, seguindo o caminho normal de pedidos na loja:
+O manuseio do pedido é dividido em quatro etapas, seguindo o caminho normal de pedidos na loja:
 
 1. [Criar ordem de serviço](#criar-ordem-de-servico)
 2. [Separação dos produtos](#separacao-dos-produtos)
 3. [Empacotamento do pedido](#empacotamento-do-pedido)
-
-## Menu
-
-O menu do aplicativo **VTEX Pick and Pack** reúne as principais funcionalidades que auxiliam na navegação e na execução das tarefas. Por meio dele, é possível acessar diferentes áreas do aplicativo de maneira mais eficiente.
-
-Para acessar o menu, clique no ícone <i class="fas fa-grip-lines"></i> no topo direito. Nele, você encontrará os seguintes campos:
-
-- <i class="fas fa-house"></i> **Resumo**: botão que direciona para a tela de início do aplicativo.
-- <img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-pick-and-pack/vtex-pick-and-pack-mobile_13.png" alt="pickpack-logout" width="30" height="30">: botão para realizar o logout do aplicativo.
-- **Histórico**: botão que direciona para o histórico de [ordens de serviço]() concluídas.
-- <i class="fas fa-globe"></i> **Idioma**: botão para mudar o idioma do aplicativo.
-- : botão para mudar a instalação que será realizada a separação dos pedidos.
-- **Pendentes**: botão que direciona para a tela de [ordens de serviço pendentes]().
-- **Para empacotar**: botão que direciona para a tela de ordens de serviço que aguardam o [empacotamento]().
-- <i class="fas fa-bell"></i>: área de notificação das últimas alterações nas [ordens de serviço]().
-- `Solicitar próxima tarefa` <i class="fas fa-arrow-right"></i>: botão que direciona para a tela de [criação de ordem de serviço]().
-
-Para recuar o menu, clique em `Fechar menu` <i class="fas fa-chevron-right"></i>.
+4. [Envio dos pacotes](#envio-dos-pacotes)
 
 ## Ordens de serviço
 

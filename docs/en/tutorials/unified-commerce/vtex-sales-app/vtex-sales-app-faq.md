@@ -82,7 +82,7 @@ Some **VTEX Sales App** features require specific architectural configurations:
 
 Merchants looking to offer a large inventory and optimize delivery logistics can use the same trade policy as the distribution center in **VTEX Sales App**.
 
-> ℹ️ Learn more in the article [Prerequisites for using VTEX Sales App](/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/1wtAanSRA3g2316dw7bw8u).
+> ℹ️ Learn more in the article [Prerequisites for using VTEX Sales App](/en/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/1wtAanSRA3g2316dw7bw8u).
 
 ### 3. What is needed to make local inventory available via VTEX Sales App?
 
@@ -169,7 +169,7 @@ With [acquirer](/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG#adquirente) servic
 
 **VTEX Sales App** supports the following payment connectors:
 
-* [Adyen](/en/tutorial/configurar-pagamento-com-adyenv3--7xAz67E2Eg63LWCQNjVdwv) (doesn't support [payout split](/pt/tutorial/split-de-pagamento--6k5JidhYRUxileNolY2VLx))
+* [Adyen](/en/tutorial/configurar-pagamento-com-adyenv3--7xAz67E2Eg63LWCQNjVdwv) (doesn't support [payout split](/en/tutorial/split-de-pagamento--6k5JidhYRUxileNolY2VLx))
 * [Mercado Pago](/en/tutorial/configurar-pagamento-com-mercado-pago-no-vtex-sales-app--51fgSydGGOnlBdtwTfE8BE) (accepts an exclusive contract for **VTEX Sales App** and doesn't support payout split)
 * [Cielo](/en/tutorial/configurar-pagamento-com-cielo-no-vtex-sales-app--2p8rALKTNojgEl8zKn5BtG) (accepts an exclusive contract for **VTEX Sales App** and doesn't support payout split)
 * PagarMe (accepts payout split)

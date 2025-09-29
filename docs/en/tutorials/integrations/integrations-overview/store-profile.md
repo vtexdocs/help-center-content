@@ -82,4 +82,4 @@ When interacting with the **Find Sellers** and **Marketplaces and Integrations**
 - We suggest putting the contact of employees already qualified and responsible for attracting partners.  
 - Ensure that the entered email and phone number are valid and up-to-date.  
 - Keep your profile updated with the proper links and information about the company.  
-- Write an appealing description of your store. Your profile is displayed in the **[Find Sellers](/tutorial/encontrar-sellers--6kkZaxIgfDyvN5trgIuwBl)** and **[Marketplaces and Integrations](/en/tutorial/marketplaces-and-integrations--5AcBO1t29nhq7rBHas9b6V)** lists, so it is crucial to give context and mention your strengths.  
+- Write an appealing description of your store. Your profile is displayed in the **[Find Sellers](/en/tutorial/encontrar-sellers--6kkZaxIgfDyvN5trgIuwBl)** and **[Marketplaces and Integrations](/en/tutorial/marketplaces-and-integrations--5AcBO1t29nhq7rBHas9b6V)** lists, so it is crucial to give context and mention your strengths.  

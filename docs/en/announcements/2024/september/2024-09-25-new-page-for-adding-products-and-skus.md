@@ -39,5 +39,5 @@ In addition, it's now easier to select categories and brands.
 
 No action is required. All VTEX stores will be gradually migrated to the new experience over the next few months.
 
-If your store has not yet been migrated but you want to join the new experience, open a ticket with [VTEX Support](/pt/support).
+If your store has not yet been migrated but you want to join the new experience, open a ticket with [VTEX Support](https://help.vtex.com/en/support).
 

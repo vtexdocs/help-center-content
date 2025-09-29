@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 7fTH6bP0C4IaM8qWi0kkQC
 ---
 
-When you configure the product correctly and it [is displayed as available on the product listing page](/en/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382), the item may become unavailable when added to the cart. Different [logistics](/pt/tutorial/fulfillment-logistica-vtex--53udnvI5eBy8DKo8FOjMoP) aspects may contribute to the product unavailability in the cart, and the following topics help us identify the potential reasons:
+When you configure the product correctly and it [is displayed as available on the product listing page](/en/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382), the item may become unavailable when added to the cart. Different [logistics](/en/tutorial/fulfillment-logistica-vtex--53udnvI5eBy8DKo8FOjMoP) aspects may contribute to the product unavailability in the cart, and the following topics help us identify the potential reasons:
 
 * [Shipping Simulator](#shipping-simulator)
 * [Inventory](#inventory)

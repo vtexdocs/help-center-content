@@ -46,7 +46,7 @@ Recomendamos utilizar [reCAPTCHA v3](/es/tutorial/using-recaptcha-at-checkout--1
 
 Aprende a configurar esta validación en el checkout de tu tienda en [reCAPTCHA en el checkout](/es/tutorial/recaptcha-no-checkout--18Te3oDd7f4qcjKu9jhNzP). Para implementar reCAPTCHA v3 en una tienda VTEX, consulta la guía de desarrolladores [reCAPTCHA](https://developers.vtex.com/docs/guides/recaptcha#recaptcha-v3-score).
 
-> ℹ️ La validación por reCAPTCHA también está activada de forma predeterminada en el flujo de <a href=tutorial/how-does-my-account-work--2BQ3GiqhqGJTXsWVuio3Xh#cartoes>registro de tarjetas</a> de los clientes de la tienda; por lo tanto, no es necesario que la tienda la configure.
+> ℹ️ La validación por reCAPTCHA también está activada de forma predeterminada en el flujo de [registro de tarjetas](/es/tutorial/how-does-my-account-work--2BQ3GiqhqGJTXsWVuio3Xh#cartoes) de los clientes de la tienda; por lo tanto, no es necesario que la tienda la configure.
 
 ## Configuración de orderForm
 

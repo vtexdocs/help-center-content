@@ -45,5 +45,5 @@ Para configurar el WebPay como gateway, siga estos pasos:
 
 Una vez que haya completado los pasos indicados, WebPay estará configurado en su tienda. Así, cuando registre una condición de pago, esta estará disponible en el campo __Proceso con afiliación__ (siempre y cuando el método de pago sea compatible con WebPay). 
 
-Para saber cómo configurar condiciones de pago, consulte el artículo [Configurar pagos con WebPay](/pt/tutorial/configurar-pagamento-com-webpay#configurar-condicao-de-pagamento-webpay).
+Para saber cómo configurar condiciones de pago, consulte el artículo [Configurar pagos con WebPay](/es/tutorial/configurar-pagamento-com-webpay#configurar-condicao-de-pagamento-webpay).
 

@@ -15,4 +15,4 @@ locale: es
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-> ℹ️ El recurso de Cuentas Alternativas fue descontinuado. Para sustituirlo, utiliza la solución de Cuentas Franquicia y Sellers White Label. Lee [este artículo](http://help.vtex.com/es/faq/que-son-cuenta-franquicia-y-seller-white-label) para obtener más detalles.
+> ℹ️ El recurso de Cuentas Alternativas fue descontinuado. Para sustituirlo, utiliza la solución de Cuentas Franquicia y Sellers White Label. Lee [este artículo](/es/faq/que-son-cuenta-franquicia-y-seller-white-label) para obtener más detalles.

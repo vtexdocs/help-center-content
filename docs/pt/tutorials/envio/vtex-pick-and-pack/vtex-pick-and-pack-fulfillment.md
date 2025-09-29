@@ -17,7 +17,7 @@ subcategoryId: 7Kllu6CmeLNV3tYXlCFvOt
 
 > ℹ️ Caso tenha interesse em adotar essa funcionalidade no seu negócio, preencha nosso [formulário](https://vtex.com/br-pt/contato/) apontando no campo `Comentários` o nome do produto desejado.
 
-[VTEX Pick and Pack](/pt/tutorial/vtex-pick-and-pack--1OOops3WrUyz7e0bnhkfXU) é uma solução para otimizar os processos de fulfillment das lojas, otimizando a coleta e o empacotamento dos pedidos, além da entrega last mile. A solução é composta pelas páginas de [Last Mile](/en/tutorial/vtex-pick-and-pack-last-mile--HN7WKV0xoq2ssVjsJlfzr) e **VTEX Pick and Pack Fulfillment**, e aparece em seu Admin VTEX em **Apps**.
+[VTEX Pick and Pack](/pt/tutorial/vtex-pick-and-pack--1OOops3WrUyz7e0bnhkfXU) é uma solução para otimizar os processos de fulfillment das lojas, otimizando a coleta e o empacotamento dos pedidos, além da entrega last mile. A solução é composta pelas páginas de [Last Mile](/pt/tutorial/vtex-pick-and-pack-last-mile--HN7WKV0xoq2ssVjsJlfzr) e **VTEX Pick and Pack Fulfillment**, e aparece em seu Admin VTEX em **Apps**.
 
 O módulo **VTEX Pick and Pack Fulfillment** está relacionado ao processo de manuseio de pedidos e apresenta as seguintes seções:
 
@@ -319,7 +319,7 @@ Você receberá uma mensagem de sucesso e o pedido passará para o status _Pront
 
 #### Rastrear pedido
 
-Quando o pedido passar para o status _Pronto para enviar_ ou _Entregue_, o botão `Ir para rastreamento` aparecerá na [página de detalhes de Coleta e empacotamento](#detalhes-de-coleta-e-empacotamento). Ao clicar nele, você será redirecionado para o [Last Mile](/en/tutorial/vtex-pick-and-pack-last-mile--HN7WKV0xoq2ssVjsJlfzr) para rastrear o pedido.
+Quando o pedido passar para o status _Pronto para enviar_ ou _Entregue_, o botão `Ir para rastreamento` aparecerá na [página de detalhes de Coleta e empacotamento](#detalhes-de-coleta-e-empacotamento). Ao clicar nele, você será redirecionado para o [Last Mile](/pt/tutorial/vtex-pick-and-pack-last-mile--HN7WKV0xoq2ssVjsJlfzr) para rastrear o pedido.
 
 Você também pode ir para o **Last Mile** diretamente no Admin da loja, acessando **Apps > Last Mile > Serviços de envio**.
 
@@ -464,7 +464,7 @@ Para excluir um pacote, clique na linha desse pacote e, em seguida, clique em `S
 
 ### Configurações de envio
 
-Nesta aba, você associa um serviço [Last Mile](/en/tutorial/vtex-pick-and-pack-last-mile--HN7WKV0xoq2ssVjsJlfzr) à sua loja, o que permite rastrear o status e a localização com atualizações em tempo real, enquanto sua frota interna de entregadores realiza as entregas dos pedidos aos clientes.
+Nesta aba, você associa um serviço [Last Mile](/pt/tutorial/vtex-pick-and-pack-last-mile--HN7WKV0xoq2ssVjsJlfzr) à sua loja, o que permite rastrear o status e a localização com atualizações em tempo real, enquanto sua frota interna de entregadores realiza as entregas dos pedidos aos clientes.
 
 Se o botão **Last Mile** <i class="fas fa-toggle-off"></i> estiver desativado, não há opções de configuração. Para começar a usar o Last Mile, faça o seguinte:
 

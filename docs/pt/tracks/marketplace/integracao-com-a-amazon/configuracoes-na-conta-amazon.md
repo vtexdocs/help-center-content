@@ -1,7 +1,7 @@
 ---
 title: 'Configurações de conta na Amazon'
 id: 43L0dpbjLBz6tcim1BbTzf
-status: CHANGED
+status: PUBLISHED
 createdAt: 2019-02-28T23:01:18.628Z
 updatedAt: 2023-11-09T22:36:18.079Z
 publishedAt: 2023-03-08T20:38:03.932Z

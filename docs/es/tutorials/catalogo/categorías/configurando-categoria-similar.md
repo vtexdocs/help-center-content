@@ -30,7 +30,7 @@ Del mismo modo, si filtra por __Frascos de vidrio__ en la categoría __Frascos__
 Para configurar la categoría similar a nivel de producto, sigue los pasos a continuación:
 
 1. En el Admin VTEX, accede a **Catálogo > Productos y SKUs** o ingresa [Productos y SKUs](/es/tutorial/productos-y-skus--2ig7TmROlirWirZjFWZ3By) en la barra de búsqueda en la parte superior de la página.
-2. Haz clic en la línea de producto deseada, o Haz clic en el menú de tres puntos > `Editar producto`. Si está creando el producto, consulte el artículo [Añadir o editar producto](/pt/tutorial/adicionar-ou-editar-produto--29IkdEu6GofCFlltsZh2H8).
+2. Haz clic en la línea de producto deseada, o Haz clic en el menú de tres puntos > `Editar producto`. Si está creando el producto, consulte el artículo [Añadir o editar producto](/es/tutorial/adicionar-ou-editar-produto--29IkdEu6GofCFlltsZh2H8).
 3. En la sección **Storefront**, rellena el campo **Categorías similares** con las categorías deseadas.
 4. Haz clic en `Guardar`.
 

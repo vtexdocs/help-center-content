@@ -1,7 +1,7 @@
 ---
 title: 'Descontinuação do Feed v1 e v2 do módulo de Gerenciamento de pedidos'
 id: 4zoxe3FihrNs0yQ1g1JyG4
-status: CHANGED
+status: PUBLISHED
 createdAt: 2019-06-12T18:01:18.416Z
 updatedAt: 2020-11-27T19:40:20.157Z
 publishedAt: 2020-09-22T00:53:40.981Z

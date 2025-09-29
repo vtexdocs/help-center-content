@@ -1,7 +1,7 @@
 ---
 title: 'Mapeamento de cor e tamanho'
 id: HvbHUmSDbHe1io6XqvHS3
-status: CHANGED
+status: PUBLISHED
 createdAt: 2019-11-18T13:40:10.167Z
 updatedAt: 2020-11-27T19:39:37.276Z
 publishedAt: 2020-03-19T22:03:12.923Z

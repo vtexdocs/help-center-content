@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
-In this article, you will find the step-by-step instructions to create subscription promotions in [regular promotions](/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI). 
+In this article, you will find the step-by-step instructions to create subscription promotions in [regular promotions](/en/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI). 
 
 1. Access the **Promotions & Taxes** module.
 2. Click on **Promotions**.

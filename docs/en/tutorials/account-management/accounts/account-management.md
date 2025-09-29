@@ -78,7 +78,7 @@ You can edit the company information by following the steps below:
 
 This section displays the account sponsor details. Each VTEX account has only one sponsor account, which has full access to all Admin sections, including important maintenance and authorization actions.
 
-> ℹ️ Learn more about the [sponsor user](/pt/tutorial/o-que-e-o-usuario-titular--3oPr7YuIkEYqUGmEqIMSEy).
+> ℹ️ Learn more about the [sponsor user](/en/tutorial/o-que-e-o-usuario-titular--3oPr7YuIkEYqUGmEqIMSEy).
 
 ![Account details page - Sponsor](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/account-management/accounts/account-management_5.png)
 
@@ -122,7 +122,7 @@ Follow the steps below to create a store:
 5. If you wish to start the [go-live](/en/tracks/realizando-o-go-live-da-sua-loja--4Ns5FxIiksmjsdX2yOTduM) process for your store, fill in the **Hosts** field with [your store's domain](/en/tutorial/configurando-dominios-no-license-manager). Otherwise, leave it blank.
 6. Click the `Create` button.
 
-> ℹ️ To learn more about configuring your store's **Hosts**, read the article  [Configure your store domain](/tutorial/configurando-dominios-no-gerenciamento-da-conta--tutorials_2450).
+> ℹ️ To learn more about configuring your store's **Hosts**, read the article  [Configure your store domain](/en/tutorial/configurando-dominios-no-gerenciamento-da-conta--tutorials_2450).
 
 > ⚠️ Do not use a ".com" domain in the Store Name field. This type of entry can only exist in the Hosts field.
 

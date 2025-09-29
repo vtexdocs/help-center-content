@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 1HSqkejwuYcQSMC400uY84
 ---
 
-A role determines the set of resources that a group of users can access on VTEX. You can manage roles via the VTEX Admin, where you can define the[ resources](/pt/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3) and users associated with each role.
+A role determines the set of resources that a group of users can access on VTEX. You can manage roles via the VTEX Admin, where you can define the[ resources](/en/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3) and users associated with each role.
 
 When creating a role, you can either use a [predefined role](/en/tutorial/access-control--4rM3gyiWqtkim4Q8hOvLTC#predefined) created by the VTEX team to meet common operational scenarios or create a [custom role](/en/tutorial/access-control--4rM3gyiWqtkim4Q8hOvLTC#custom), selecting specific resources that users with this role need access to.
 
@@ -44,7 +44,7 @@ To start using a predefined role, follow the instructions below:
 
     ![New role saved](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/account-management/access-control/creating-roles_1.png)
 
-    Learn more about the available predefined roles and their associated resources in [Predefined roles](/pt/tutorial/perfis-de-acesso-predefinidos--jGDurZKJHvHJS13LnO7Dy).
+    Learn more about the available predefined roles and their associated resources in [Predefined roles](/en/tutorial/perfis-de-acesso-predefinidos--jGDurZKJHvHJS13LnO7Dy).
 4. Add admin users to the role by entering the user email address in **Add users to this role** and click `Add`.
 
     ![Role users](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/account-management/access-control/creating-roles_2.PNG)
@@ -67,7 +67,7 @@ To create a custom role that meets the access needs of a group of users, follow 
 
     ![Configuring product](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/account-management/access-control/creating-roles_3.png)
 
-5. Check the resources to which the role should grant access. Check the complete [License Manager resources](/pt/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3) list for more information on each one.
+5. Check the resources to which the role should grant access. Check the complete [License Manager resources](/en/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3) list for more information on each one.
 6. If you want to add resources from another product, click the **Configure Another Product** button at the bottom of the product and resource list and repeat steps 4 and 5.
 
     You can add resources from as many products as you need to the role.
@@ -88,4 +88,4 @@ To create a custom role that meets the access needs of a group of users, follow 
 ## Learn more
 
 * [Roles](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc)
-* [License Manager resources](/pt/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3)
+* [License Manager resources](/en/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3)

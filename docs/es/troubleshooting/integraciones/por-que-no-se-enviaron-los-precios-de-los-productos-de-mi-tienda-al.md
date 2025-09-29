@@ -51,5 +51,5 @@ Si los productos ya están catalogados, es necesario volver a procesar el envío
 3. Haz clic en el botón `Acciones`.  
 4. Haz clic en **Reprocesar**.  
 
-Repite el proceso para cada producto con el status **Procesado con error**. Si el error persiste, ponte en contacto con el equipo de [soporte VTEX](/es/support).
+Repite el proceso para cada producto con el status **Procesado con error**. Si el error persiste, ponte en contacto con el equipo de [soporte VTEX](https://help.vtex.com/es/support).
 

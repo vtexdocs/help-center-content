@@ -270,7 +270,7 @@ VTEX gestiona los releases de software en actualizaciones principales, secundari
 La plataforma VTEX es una solución SaaS (Software as a Service) y se puede acceder a ella mediante cualquier navegador de internet. VTEX se encarga de proporcionar y actualizar periódicamente la solución con nuevas funcionalidades y de monitorear por completo su funcionamiento. Además, hay equipos especializados que garantizan la escalabilidad de la plataforma monitoreando constantemente el desempeño de cada tienda.
 
 #### ¿Restringe la plataforma el acceso a IP públicas en internet?
-Es posible bloquear el acceso al entorno administrativo de la tienda (VTEX Admin) para IP específicas. No obstante, el sitio web de la tienda permanece abierto al público en general. Para solicitar bloqueos específicos, ponte en contacto con nuestro [soporte](/es/support).
+Es posible bloquear el acceso al entorno administrativo de la tienda (VTEX Admin) para IP específicas. No obstante, el sitio web de la tienda permanece abierto al público en general. Para solicitar bloqueos específicos, ponte en contacto con nuestro [soporte](https://help.vtex.com/es/support).
 
 #### ¿Funciona la solución con un protocolo seguro (HTTPS)?
 La plataforma VTEX funciona con el protocolo seguro HTTPS. Este protocolo garantiza que la comunicación entre los componentes del sistema se mantenga protegida y los datos se transporten de modo seguro.
@@ -305,7 +305,7 @@ Asimismo, VTEX también registra diversas operaciones, incluyendo autores y marc
 #### ¿Cómo pueden los clientes de VTEX acceder en tiempo real a todos los logs de la plataforma?
 VTEX no permite el acceso a sus sistemas internos, con el fin de preservar la privacidad y seguridad de nuestros clientes, así como para garantizar el cumplimiento de la normativa y legislación vigente.
 
-Sin embargo, disponibilizamos logs de diversos [eventos](/es/tutorial/eventos-disponibles-en-audit--6r1Mzcu5NmkmmDLJlz9CCZ) en [Audit](/es/tutorial/audit--5RXf9WJ5YLFBcS8q8KcxTA) y permitimos que nuestros clientes soliciten logs de eventos específicos abriendo un ticket vía [soporte](/es/support). Además, pueden implementar una capa de proxy inverso antes de VTEX, lo que proporciona una mayor visibilidad de los requests que llegan a su entorno. Este enfoque permite a los clientes tener un control más detallado y personalizado del flujo de datos en su infraestructura, manteniendo al mismo tiempo la seguridad y privacidad necesarias.
+Sin embargo, disponibilizamos logs de diversos [eventos](/es/tutorial/eventos-disponibles-en-audit--6r1Mzcu5NmkmmDLJlz9CCZ) en [Audit](/es/tutorial/audit--5RXf9WJ5YLFBcS8q8KcxTA) y permitimos que nuestros clientes soliciten logs de eventos específicos abriendo un ticket vía [soporte](https://help.vtex.com/es/support). Además, pueden implementar una capa de proxy inverso antes de VTEX, lo que proporciona una mayor visibilidad de los requests que llegan a su entorno. Este enfoque permite a los clientes tener un control más detallado y personalizado del flujo de datos en su infraestructura, manteniendo al mismo tiempo la seguridad y privacidad necesarias.
 
 ### Desarrollo seguro
 

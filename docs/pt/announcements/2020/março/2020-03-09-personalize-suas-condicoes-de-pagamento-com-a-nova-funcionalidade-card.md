@@ -1,7 +1,7 @@
 ---
 title: 'Personalize suas condições de pagamento com a nova funcionalidade Card Level'
 id: 3CMBSO4t84pzYUOYCEg23f
-status: CHANGED
+status: PUBLISHED
 createdAt: 2020-03-09T17:51:14.174Z
 updatedAt: 2020-11-27T19:39:53.230Z
 publishedAt: 2020-03-09T19:34:58.257Z

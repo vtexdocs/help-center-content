@@ -1,7 +1,7 @@
 ---
 title: 'Criar cupons de desconto'
 id: 6RU676Ot6K15ZT1aJA8NRW
-status: CHANGED
+status: PUBLISHED
 createdAt: 2020-01-13T21:02:16.828Z
 updatedAt: 2020-11-27T19:40:30.513Z
 publishedAt: 2020-02-13T16:36:15.347Z

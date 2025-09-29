@@ -15,11 +15,11 @@ locale: pt
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
-> ⚠️ **Atenção:** existem duas formas de configurar coleções, por meio do CMS ou utilizando o módulo de Coleções Beta. Este artigo, refere-se à <a href = "/pt/tutorial/cadastro-de-colecoes-cms--2YBy6P6X0NFRpkD2ZBxF6L">configuração de coleções por meio do CMS</a>.
+> ⚠️ **Atenção:** existem duas formas de configurar coleções, por meio do CMS ou utilizando o módulo de Coleções Beta. Este artigo, refere-se à [configuração de coleções por meio do CMS](/pt/tutorial/cadastro-de-colecoes-cms--2YBy6P6X0NFRpkD2ZBxF6L).
 
 As vitrines são utilizadas no destaque de produtos em diversas páginas, elas também podem ser utilizadas para recomendações, na página do produto.
 
-Primeiramente, antes de definir uma vitrine, deve-se criar uma coleção (vide instruções [aqui](http://help.vtex.com/pt/tutorial/criando-colecao-de-produtos)) com os produtos que serão exibidos nela. Também é necessário que as páginas estejam devidamente estruturadas, com os devidos controles inseridos em seus templates.
+Primeiramente, antes de definir uma vitrine, deve-se criar uma coleção (vide instruções [aqui](/pt/tutorial/criando-colecao-de-produtos)) com os produtos que serão exibidos nela. Também é necessário que as páginas estejam devidamente estruturadas, com os devidos controles inseridos em seus templates.
 
 Realizadas as devidas definições, o vínculo da coleção com a vitrine é feito em **Storefront > Layout**.
 

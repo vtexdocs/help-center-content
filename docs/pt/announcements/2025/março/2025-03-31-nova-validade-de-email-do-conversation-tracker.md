@@ -18,7 +18,7 @@ announcementSynopsisPT: 'O endereço de email alternativo do Conversation Tracke
 Para melhorar a experiência dos clientes VTEX, o endereço de email alternativo do Conversation Tracker agora tem uma validade mais curta. Essa mudança proporciona uma medida adicional de segurança.
 
 ## O que mudou?
-Antes, o endereço de email alternativo do [Conversation Tracker](/tutorial/pt/understanding-the-conversation-tracker--tutorials_195#) tinha validade de 2 meses após o fim do pedido. Agora, o endereço expira quando o pedido alcança o fim do fluxo, sendo faturado ou cancelado.
+Antes, o endereço de email alternativo do [Conversation Tracker](/pt/tutorial/pt/understanding-the-conversation-tracker--tutorials_195#) tinha validade de 2 meses após o fim do pedido. Agora, o endereço expira quando o pedido alcança o fim do fluxo, sendo faturado ou cancelado.
 
 > ℹ️ A VTEX pode enviar emails relativos a pedidos após o faturamento, como reembolso ou atualização do status de entrega. Nesses casos, a VTEX vai reativar o endereço de email, enviar o email e expirar o endereço novamente.
 

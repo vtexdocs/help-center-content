@@ -112,7 +112,7 @@ Cuando se solicita la cancelación de un pedido, la plataforma procesa automáti
 
 No es posible [cancelar](/es/tutorial/como-cancelar-pedido--tutorials_186) pedidos [parcialmente facturados](/es/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe). Si el cliente desea sustituir o remover ítems del pedido, es posible [modificar el pedido](/es/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190).
 
-> ℹ️ Ve más información sobre la cancelación y el reembolso en los artículos [¿Por qué se cobró en la factura del cliente mi pedido cancelado?](/pt/faq/por-que-meu-pedido-cancelado-foi-cobrado-na-fatura-do-cliente) y [Reembolso o cancelación](/pt/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m#reembolsocancelamento).
+> ℹ️ Ve más información sobre la cancelación y el reembolso en los artículos [¿Por qué se cobró en la factura del cliente mi pedido cancelado?](/es/faq/por-que-meu-pedido-cancelado-foi-cobrado-na-fatura-do-cliente) y [Reembolso o cancelación](/es/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m#reembolsocancelamento).
 
 Mientras se realiza el proceso de cancelación, el status permanece en `Cancelando`. Una vez completada la cancelación, el status del pedido cambia a `Cancelado`. 
 

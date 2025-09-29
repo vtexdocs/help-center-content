@@ -41,7 +41,7 @@ The Web Application Firewall (WAF) protects web applications by monitoring and f
 
 This security feature plays a key role in protecting websites, online services, and web applications from attacks such as SQL injection, cross-site scripting (XSS), and other common web vulnerabilities.
 
-Only stores with VTEX Shield that request this feature can request WAF activation. Learn more about how the [Web Application Firewall (WAF)](/pt/tutorial/web-application-firewall-waf--6BZYLlU03ws72iqIFF6jdn) works and the types of threats it protects against.
+Only stores with VTEX Shield that request this feature can request WAF activation. Learn more about how the [Web Application Firewall (WAF)](/en/tutorial/web-application-firewall-waf--6BZYLlU03ws72iqIFF6jdn) works and the types of threats it protects against.
 
 ## Data Protection Plus
 
@@ -57,7 +57,7 @@ See the set of guides for the [Data Protection Plus](https://developers.vtex.com
 
 By default, VTEX uses [SSL certificates](/en/tutorial/certificado-de-seguranca-ssl--tutorials_1308) issued by [Let’s Encrypt](https://letsencrypt.org/) to ensure security and compatibility. However, some stores may require customized certificates to meet specific compliance or security requirements.
 
-The **SSL certificates** page in the VTEX Admin allows you to install and manage custom certificates. This feature is available only for stores that have opted in and use [VTEX Shield](/pt/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh). For more information, see the guide [Custom SSL certificates](/en/tutorial/certificados-ssl-customizados--1hoaDEbU50PDZSe6AYep9q).
+The **SSL certificates** page in the VTEX Admin allows you to install and manage custom certificates. This feature is available only for stores that have opted in and use [VTEX Shield](/en/tutorial/vtex-shield--2CVk6H9eY2CBtHjtDI7BFh). For more information, see the guide [Custom SSL certificates](/en/tutorial/certificados-ssl-customizados--1hoaDEbU50PDZSe6AYep9q).
 
 ## Mutual Transport Layer Security (mTLS)
 

@@ -32,8 +32,8 @@ Sigue los pasos a continuación para configurar la comparación de productos en 
 
 ### Página de comparación
 
-1. [Crea una plantilla de estantería de productos](http://help.vtex.com/es/faq/como-criar-um-template-de-prateleira) para estandarizar la visualización de productos en la página de comparación. En la plantilla, puedes utilizar cualquiera de los [controles disponibles para estanterías de productos](https://developers.vtex.com/docs/guides/shelf-template-controls).
-2. [Crea una plantilla de página](http://help.vtex.com/es/faq/como-criar-um-template-de-pagina) utilizando el control `<vtex.cmc:ProductComparison/>`, que se utiliza para mostrar los productos en paralelo en la página de comparación. Ejemplo de uso del control:  
+1. [Crea una plantilla de estantería de productos](/es/faq/como-criar-um-template-de-prateleira) para estandarizar la visualización de productos en la página de comparación. En la plantilla, puedes utilizar cualquiera de los [controles disponibles para estanterías de productos](https://developers.vtex.com/docs/guides/shelf-template-controls).
+2. [Crea una plantilla de página](/es/faq/como-criar-um-template-de-pagina) utilizando el control `<vtex.cmc:ProductComparison/>`, que se utiliza para mostrar los productos en paralelo en la página de comparación. Ejemplo de uso del control:  
 
 ```
 <vtex.cmc:ProductComparison ShelfLayoutId="12343216-4c8e-4cd5-bcd7-e3b062681f2a"/>
@@ -52,7 +52,7 @@ Donde `ShelfLayoutId` es el`Id` de la plantilla de estantería de productos crea
 4. Crea un layout predeterminado:
   - Abre la carpeta creada en el paso anterior.
   - Haz clic en **new layout**.
-  - En el campo `Template`, vincula la plantilla de página creada en el paso 2 a la carpeta. Más información en [Asociar un template con un layout](/pt/tutorial/associando-um-template-a-um-layout--7CkgOHRj7DVbsRxyR8YQrK).
+  - En el campo `Template`, vincula la plantilla de página creada en el paso 2 a la carpeta. Más información en [Asociar un template con un layout](/es/tutorial/associando-um-template-a-um-layout--7CkgOHRj7DVbsRxyR8YQrK).
   - Haz clic en `Save Layout` y después en `OK`.
 
        ![new-layout-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/productos-y-skus/configurando-a-comparacao-de-produtos_2.gif)

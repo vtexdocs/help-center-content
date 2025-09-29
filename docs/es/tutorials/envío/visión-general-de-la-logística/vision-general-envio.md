@@ -28,7 +28,7 @@ Las tarifas de envío son los costos de envío que tu tienda ofrece a los client
 Para saber más, consulta los siguientes artículos:
 
 - [Tarifas de envío](/es/tutorial/tarifas-de-envio--1Balpg3rv0854udEPedvMM): cómo se calculan las tarifas de envío y cómo registrarlas.
-- [Gestionar tarifas de envío](/pt/tutorial/gerenciar-tarifas-de-envio--tutorials_141): cómo gestionar una tarifa de envío específica utilizando el código postal.
+- [Gestionar tarifas de envío](/es/tutorial/gerenciar-tarifas-de-envio--tutorials_141): cómo gestionar una tarifa de envío específica utilizando el código postal.
 - [Plantilla de flete](/es/tutorial/plantilla-de-flete--tutorials_127): cómo registrar tarifas de envío en masa (en vez de utilizar el registro individual).
 
 ## Simulador de envío

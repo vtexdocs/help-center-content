@@ -28,7 +28,7 @@ Vea cómo se pueden configurar las políticas comerciales en los siguientes mód
 - [Estrategia de envío](#estrategia-de-envio)  
 - [Integraciones](#integraciones)  
 
-Para [contratar políticas comerciales adicionales](/es/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X), póngase en contacto con nuestro equipo de Growth Operations en *[Soporte](/es/support)* seleccionando la opción **Comercial** y el tipo de solicitud `Creación de Política Comercial`.
+Para [contratar políticas comerciales adicionales](/es/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X), póngase en contacto con nuestro equipo de Growth Operations en *[Soporte](https://help.vtex.com/es/support)* seleccionando la opción **Comercial** y el tipo de solicitud `Creación de Política Comercial`.
 
 Por cada política comercial adicional se cobra un valor mensual, independientemente de si se utiliza para la integración con marketplaces certificados, partners, externos o VTEX.
 

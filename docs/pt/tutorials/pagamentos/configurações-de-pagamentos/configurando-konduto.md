@@ -17,11 +17,11 @@ subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 
 Konduto é um antifraude, sistema externo que analisa as compras realizadas a fim de evitar fraudes.
 
-Este antifraude depende de configurações diferentes dos [demais antifraudes que podem ser configurados em sua plataforma](http://help.vtex.com/tutorial/como-configurar-antifraude/ "demais antifraudes que podem ser configurados em sua plataforma"), pois coletam informações de navegação e de dispositivo do visitante. Por isto, este artigo tem como objetivo documentar a configuração do Konduto.
+Este antifraude depende de configurações diferentes dos [demais antifraudes que podem ser configurados em sua plataforma](/pt/tutorial/como-configurar-antifraude/ "demais antifraudes que podem ser configurados em sua plataforma"), pois coletam informações de navegação e de dispositivo do visitante. Por isto, este artigo tem como objetivo documentar a configuração do Konduto.
 
 ## Configure seu GTM
 
-GTM é o Google Tag Manager, uma ferramenta do Google que faz gerenciamento de tags no site. Esse GTM é então associado em sua conta e insere todas as tags configuradas nele em seu site. [Veja mais detalhes sobre como configurar o GTM em sua loja](http://help.vtex.com/faq/integracao-com-o-google-tag-manager/ "Veja mais detalhes sobre como configurar o GTM em sua loja").
+GTM é o Google Tag Manager, uma ferramenta do Google que faz gerenciamento de tags no site. Esse GTM é então associado em sua conta e insere todas as tags configuradas nele em seu site. [Veja mais detalhes sobre como configurar o GTM em sua loja](/pt/faq/integracao-com-o-google-tag-manager/ "Veja mais detalhes sobre como configurar o GTM em sua loja").
 
 ### Crie a variável
 

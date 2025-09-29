@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 22TaEgFhwE6a6CG2KASYkC
 ---
 
-To request a new VTEX environment, please contact [Support](/pt/support) by selecting the Sales option and the request type `New additional environment`. Learn more in the article [Opening tickets with VTEX Support](/en/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM).
+To request a new VTEX environment, please contact [Support](https://help.vtex.com/en/support) by selecting the Sales option and the request type `New additional environment`. Learn more in the article [Opening tickets with VTEX Support](/en/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM).
 
 Adding a new environment may incur additional costs, as stipulated in your contract. If these costs aren't covered, mention it in your request so that a contractual addendum can be issued.
 

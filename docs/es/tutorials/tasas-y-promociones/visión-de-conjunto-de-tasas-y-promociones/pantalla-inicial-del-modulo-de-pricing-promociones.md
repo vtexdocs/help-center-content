@@ -1,7 +1,7 @@
 ---
 title: 'Visión general: Audiencia de Campañas, promociones, impuestos y cupones'
 id: tutorials_326
-status: CHANGED
+status: PUBLISHED
 createdAt: 2017-04-27T22:08:08.926Z
 updatedAt: 2020-11-27T19:40:04.279Z
 publishedAt: 2020-09-16T18:54:08.143Z

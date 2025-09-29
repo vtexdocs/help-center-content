@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisPT: 'O perfil de acesso Owner (Admin Super) não inclui mais o recurso Save user, ligado a ações de gerenciamento de usuários.'
 ---
 
-**Owner (Admin Super)** é um [perfil de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) que abarca praticamente todos os [recursos](/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) necessários para acessar informações e realizar tarefas no dia a dia da sua loja VTEX.
+**Owner (Admin Super)** é um [perfil de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) que abarca praticamente todos os [recursos](/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) necessários para acessar informações e realizar tarefas no dia a dia da sua loja VTEX.
 
 Buscando melhorar as práticas de segurança do nosso ecossistema, redefinimos as permissões padrão de usuários e chaves na plataforma. Chaves são equivalentes a senhas e devem ser protegidas na mesma proporção.
 
@@ -23,7 +23,7 @@ Estas medidas visam facilitar aos lojistas restringir o número de usuários que
 
 ## O que mudou?
 
-A partir de hoje, o [perfil de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) **Owner (Super Admin)** não inclui mais o [recurso](/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) **Save user**. Isso significa que usuários que tenham apenas este perfil perderão a capacidade de:
+A partir de hoje, o [perfil de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) **Owner (Super Admin)** não inclui mais o [recurso](/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) **Save user**. Isso significa que usuários que tenham apenas este perfil perderão a capacidade de:
 - [Criar usuários](/pt/tutorial/gerenciando-usuarios--tutorials_512).
 - Atribuir [perfis de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) a usuários.
 - Remover [perfis de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) de usuários.

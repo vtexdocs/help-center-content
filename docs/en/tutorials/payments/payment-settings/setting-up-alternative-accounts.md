@@ -15,4 +15,4 @@ locale: en
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-> ℹ️ The Alternative Accounts feature has been discontinued. To replace it, use the Franchise Accounts and Sellers White Label solution. For more details, refer to [this article](http://help.vtex.com/en/faq/what-are-franchise-account-and-seller-white-label).
+> ℹ️ The Alternative Accounts feature has been discontinued. To replace it, use the Franchise Accounts and Sellers White Label solution. For more details, refer to [this article](/en/faq/what-are-franchise-account-and-seller-white-label).

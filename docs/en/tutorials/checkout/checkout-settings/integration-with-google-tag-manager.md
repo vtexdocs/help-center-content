@@ -56,7 +56,7 @@ To check available events (triggers) and variables on the pages, which will be u
 
 ## VTEX IO: Installing the Google Tag Manager pixel app
 
-If your store uses [VTEX IO - Store Framework](/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2), in addition to the setup, you need to install a new version of the Google Tag Manager app. For more information, see [Installing Google Tag Manager](https://developers.vtex.com/docs/guides/vtex-io-documentation-installing-google-tag-manager).
+If your store uses [VTEX IO - Store Framework](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2), in addition to the setup, you need to install a new version of the Google Tag Manager app. For more information, see [Installing Google Tag Manager](https://developers.vtex.com/docs/guides/vtex-io-documentation-installing-google-tag-manager).
 
 This step is not required for stores using the [Legacy CMS Portal](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj).
 

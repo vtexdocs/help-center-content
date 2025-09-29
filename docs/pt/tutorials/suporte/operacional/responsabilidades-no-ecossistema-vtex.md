@@ -99,9 +99,7 @@ Para realizar o processamento de pagamentos dos pedidos em uma loja VTEX, os int
           subadquirentes)</strong></td>
       <td class="t-body pa5" style="min-width: 15rem;">
         <ul>
-          <li>Desenvolver a integração do provedor de pagamento de acordo com as instruções disponíveis em <a
-              href="https://developers.vtex.com/docs/guides/integrating-a-new-payment-provider-on-vtex" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word">Integrating a
-              new payment provider on VTEX</a>.</li>
+          <li>Desenvolver a integração do provedor de pagamento de acordo com as instruções disponíveis em [Integrating a new payment provider on VTEX](https://developers.vtex.com/docs/guides/integrating-a-new-payment-provider-on-vtex).</li>
           <li>Obter a certificação [PCI-DSS](https://developers.vtex.com/docs/guides/payments-integration-pci-dss-compliance) ou
             desenvolver integração com a VTEX utilizando o [Secure Proxy](https://developers.vtex.com/docs/guides/payments-integration-secure-proxy) para
             processar transações de pagamento contendo dados sensíveis, como em cartões de crédito, débito e co-branded.
@@ -148,7 +146,7 @@ Para realizar o processamento de pagamentos dos pedidos em uma loja VTEX, os int
 Ao detectar qualquer inconsistência ou erro durante a transação de pagamento de um pedido, o lojista deve:
 
 1. Entrar em contato com o(s) responsável(is) pela respectiva transação (provedores de pagamento e antifraude).
-2. Caso o assunto não seja resolvido, abrir um ticket no [Suporte VTEX](/pt/support) informando os dados da ocorrência.
+2. Caso o assunto não seja resolvido, abrir um ticket no [Suporte VTEX](https://help.vtex.com/pt/support) informando os dados da ocorrência.
 
 ## Agências implementadoras
 

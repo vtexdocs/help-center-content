@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 9Arh3cJIOYlfSD1MUC2h3
 ---
 
-Image Widget es un repositorio modal de bloques que permite subir imágenes al [Site Editor](/subcategory/layout--2g6LxtasS4iSeGEqeYUuGW). Con este modal, puede subir, almacenar y gestionar las imágenes de su tienda y utilizarlas en diferentes páginas, como la de Inicio, Producto o Newsletter.
+Image Widget es un repositorio modal de bloques que permite subir imágenes al [Site Editor](/es/subcategory/layout--2g6LxtasS4iSeGEqeYUuGW). Con este modal, puede subir, almacenar y gestionar las imágenes de su tienda y utilizarlas en diferentes páginas, como la de Inicio, Producto o Newsletter.
 
 Por ejemplo, puede añadir una nueva imagen al bloque __Carrusel__ de su tienda a través de  Image Widget.
 
