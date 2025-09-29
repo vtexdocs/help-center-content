@@ -49,6 +49,4 @@ Para entrar em contato:
 3. Preencha o campo **Entrar em contato com o seller**.
 4. Clique no botão **Enviar**.
 
-<div class="alert alert-info">
-O potencial parceiro comercial receberá um e-mail com as informações preenchidas. Caso o interesse seja mútuo, o encarregado pelo seller ou marketplace poderá entrar em contato e negociar os termos do acordo entre marketplace e seller.
-<div>
+> ℹ️ O potencial parceiro comercial receberá um e-mail com as informações preenchidas. Caso o interesse seja mútuo, o encarregado pelo seller ou marketplace poderá entrar em contato e negociar os termos do acordo entre marketplace e seller.

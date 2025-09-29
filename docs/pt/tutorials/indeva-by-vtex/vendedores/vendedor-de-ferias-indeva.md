@@ -22,7 +22,7 @@ Para colocar um vendedor de férias na Indeva, siga as etapas abaixo:
   <li>Clique em **Ações** e selecione **Férias** ou **Inativar**.</li>
 </ol>
 
-<img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/vendedores/vendedor-de-ferias-indeva_1.png" alt="Tela de ações do cadastro de vendedores">
+![Tela de ações do cadastro de vendedores](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/vendedores/vendedor-de-ferias-indeva_1.png)
 
 <ol start="3">
   <li>Clique em **Ausência temporária**.</li>
@@ -30,6 +30,6 @@ Para colocar um vendedor de férias na Indeva, siga as etapas abaixo:
   <li>Informe a **Data de saída** e a **Data de retorno** das férias.</li>
 </ol>
 
-<img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/vendedores/vendedor-de-ferias-indeva_2.png" alt="Tela de preenchimento das datas de férias">
+![Tela de preenchimento das datas de férias](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/vendedores/vendedor-de-ferias-indeva_2.png)
 
 > ⚠️ Preencha com atenção as datas de saída e retorno das férias do vendedor. Após salvar, não será possível editá-las.

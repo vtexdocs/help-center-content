@@ -19,9 +19,7 @@ Com foco no sucesso dos nossos clientes, a VTEX oferece soluções completas par
 
 E para que você adote facilmente novos recursos, gerencie seu negócio com autonomia e ganhe em escalabilidade, disponibilizamos o novo Guia de onboarding, um conteúdo da jornada completa de operar uma loja VTEX. O material está disponível na seção [Comece aqui](/pt/tracks) do Help Center.
 
-<div>
-  <img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2024/fevereiro/2024-02-22-guia-de-onboarding-sua-jornada-completa-na-vtex_1.png" alt="Guia de onboarding">
-</div>
+  ![Guia de onboarding](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2024/fevereiro/2024-02-22-guia-de-onboarding-sua-jornada-completa-na-vtex_1.png)
 
 ## O que é o Guia de onboarding?
 
@@ -71,6 +69,4 @@ Desejamos que este material contribua para o sucesso do seu negócio e sua satis
 | Parte I | Parte II | Parte III |
 | [Trilha da loja VTEX](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/3QfoDZWg9YWl8lwS9MVrnU) | [Próximos passos após o go-live](/pt/tracks/proximos-passos-apos-o-go-live--3J7WFZyvTcoiwkcIVFVhIS/7bORBaAr4rIG3JgRi68jIK) | [Suporte na VTEX](/pt/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/7w7cUmbrdPEKpTMItjXEB8) |
 
-<div>
-  <img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2024/fevereiro/2024-02-22-guia-de-onboarding-sua-jornada-completa-na-vtex_5.png" alt="Imagem de ecommerce">
-</div>
+  ![Imagem de ecommerce](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2024/fevereiro/2024-02-22-guia-de-onboarding-sua-jornada-completa-na-vtex_5.png)

@@ -3,8 +3,8 @@ title: 'Configuring promotions with highlights / flags'
 id: tutorials_2295
 status: PUBLISHED
 createdAt: 2017-04-27T21:55:19.949Z
-updatedAt: 2024-09-17T16:24:52.963Z
-publishedAt: 2024-09-17T16:24:52.963Z
+updatedAt: 2025-09-29T17:45:04.455Z
+publishedAt: 2025-09-29T17:45:04.455Z
 firstPublishedAt: 2017-04-27T23:03:51.539Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -36,9 +36,6 @@ The promotion highlight can be applied to different types of promotions and disc
 The following types of discounts are eligible for a highlight application:
 
 - [Percentage discount](/en/tutorial/configurar-promocao-de-desconto-percentual-para-um-sku-especifico--3rbh8ELSLu2IGCeQ6SImU0): offers a percentage reduction on the product’s price.
-- [Percentage shipping discount](/en/tutorial/configurar-promocao-de-desconto-percentual-para-um-sku-especifico--3rbh8ELSLu2IGCeQ6SImU0): applies a discount to a portion of the shipping cost, allowing customers to pay less for shipping and encouraging the purchase decision.
-- [Maximum shipping](/en/tutorial/configurar-promocoes-de-frete--6Lo5BR61KMiUFAAHGCdgfW): sets a maximum shipping cost, regardless of factors such as distance or order weight.
-- [Free shipping](/en/tutorial/configurar-promocoes-de-frete--6Lo5BR61KMiUFAAHGCdgfW): completely eliminates the shipping cost.
 - **Free gift**: offers an extra product at no cost to the customer when purchasing a certain item or reaching a minimum purchase value.
 
 To learn more, see the [Promotions](/en/subcategory/promocoes--1yTYB5p4b6iwMsUg8uieyq) section.

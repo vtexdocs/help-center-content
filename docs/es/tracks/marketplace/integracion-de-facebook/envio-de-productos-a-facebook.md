@@ -92,13 +92,14 @@ El tercer y último paso para finalizar el mapeo es cargar la plantilla llenada.
 8. Haz clic en `Cargar archivo`.  
 
 Después de completar los pasos, habrás finalizado el mapeo de categorías y atributos de tus productos. El tiempo que tarda para reflejarse en Facebook depende de la extensión de tu catálogo.
-##Utilizar custom labels
+
+## Utilizar custom labels
 Además de la información básica de los productos, puedes enviar etiquetas personalizadas, también conocidas como custom labels, a Facebook Business Manager. Este recurso permite clasificar anuncios utilizando criterios que hayas definido en tu tienda, como campañas promocionales, temporada, márgenes o público objetivo.
 Estas etiquetas son útiles para:
 Agrupar productos por campaña específica (ejemplo: Black Friday, Envío gratis).
 Crear informes por grupos de productos con comportamientos similares.
 
-###Configuración
+### Configuración
 Debes crear las etiquetas personalizadas en Facebook Business Manager. Después de crearlas, sigue el tutorial [Registrar especificaciones o campos de producto](/es/tutorial/cadastrar-especificacoes-ou-campos-de-produto--tutorials_106) para asociarlas a un anuncio específico mediante **especificaciones de productos**.
 
 Cuando crees el nuevo campo de especificación de producto, úsalo para ingresar los siguientes valores:

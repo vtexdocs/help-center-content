@@ -74,9 +74,7 @@ Vea abajo estas carpetas básicas en el CMS:
 
 Estas carpetas vienen de forma predeterminada en el ambiente de todas las tiendas VTEX.
 
-<div clas="alert alert-warning">
-Atención: los nombres de las carpetas obligatorias **no** deben ser alterados.
-</div>
+> ⚠️ Atención: los nombres de las carpetas obligatorias **no** deben ser alterados.
 
 Como las carpetas se refieren a páginas dinámicas, sus nombres no aparecen en la navegación del cliente. 
 

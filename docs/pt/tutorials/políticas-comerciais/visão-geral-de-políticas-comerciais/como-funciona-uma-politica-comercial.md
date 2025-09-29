@@ -37,8 +37,7 @@ A contratação de política comercial adicional para integrar com [conector cer
 
 Cada cliente na plataforma VTEX é regido por um contrato que define os parâmetros para a contratação de políticas comerciais. Essas políticas são projetadas para oferecer benefícios específicos, complementando a política comercial nativa incluída automaticamente em cada conta. A VTEX estabelece [Regras de Cobrança](#regras-de-cobranca) e [Regras de Isenção](#regras-de-isencao) para algumas políticas comerciais adicionais, promovendo o fortalecimento das integrações dentro do seu ecossistema.
 
-<div class=alert alert-warning>
-Se a mesma política comercial for usada em um conector certificado e em um conector parceiro, não há isenção de taxas.</div>
+> ⚠️ Se a mesma política comercial for usada em um conector certificado e em um conector parceiro, não há isenção de taxas.
 
 ## Catálogo
 Ao [cadastrar produtos](/pt/tutorial/cadastrando-produtos--tutorials_2567) no catálogo, é possível restringir sua disponibilidade para determinadas políticas comerciais. Dessa forma, o catálogo é segmentado de acordo com diferentes estratégias de negócio. Essas estratégias podem incluir a segmentação de produtos por região, para um marketplace, ou para tipos específicos de clientes, como funcionários, por exemplo. Saiba mais sobre a configuração do [catálogo](/pt/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ).
@@ -62,9 +61,7 @@ Ao criar condições de pagamento diferentes sobre o mesmo produto, elas irão c
 
 ## Gerenciamento de Conta
 
-<div class=alert alert-warning>
-Para clientes com muitas subcontas, ou com operação de loja física que possibilitam retirada em loja, ou  com ship from store, criar múltiplas políticas comerciais não é a melhor solução. Sugerimos abrir novas [store names](/pt/tutorial/o-que-e-store-name) para cada uma das lojas operando dentro de uma [account](/pt/tutorial/o-que-e-account-name). 
-</div>
+> ⚠️ Para clientes com muitas subcontas, ou com operação de loja física que possibilitam retirada em loja, ou  com ship from store, criar múltiplas políticas comerciais não é a melhor solução. Sugerimos abrir novas [store names](/pt/tutorial/o-que-e-store-name) para cada uma das lojas operando dentro de uma [account](/pt/tutorial/o-que-e-account-name). 
 
 O excesso de políticas comerciais em um ambiente VTEX faz com que o processo de indexação de produtos na vitrine da loja e a simulação de frete no checkout fiquem mais lentos, possivelmente afetando a conversão de pedidos. Ao segmentar o catálogo por múltiplas políticas comerciais em vez de criar store names com inventário próprio, a loja também pode perder oportunidades de venda e melhores condições de entrega, ao restringir a oferta de produtos. Saiba mais sobre [como criar um store name](/pt/tutorial/como-criar-um-store-name).
 

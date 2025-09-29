@@ -22,7 +22,7 @@ Para colocar um gerente de férias na Indeva, siga as etapas abaixo:
   <li>Clique em **Ações** e selecione **Férias** ou **Inativar**.</li>
 </ol>
 
-<img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/gerentes/gerente-de-ferias-indeva_1.png" alt="Tela de ações do cadastro de gerentes">
+![Tela de ações do cadastro de gerentes](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/gerentes/gerente-de-ferias-indeva_1.png)
 
 <ol start="3">
   <li>Clique em **Ausência temporária**.</li>

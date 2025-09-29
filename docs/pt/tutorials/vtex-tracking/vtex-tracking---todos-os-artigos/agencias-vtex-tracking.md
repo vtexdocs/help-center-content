@@ -106,7 +106,7 @@ A imagem abaixo representa o fluxo de disparo de emails e SMS para destinatário
 
 As `{{tags}}` entre chaves correspondem aos dados que são importados dos módulos de Serviço e Rota, para preencher os campos variáveis do e-mail e SMS. As tags seguem o formato HTML, portanto é necessário respeitar seus valores permitidos e formatação. As tags incluem:
 
-- **Logo:** link com a imagem da logo do contratante. Segue a tag <img> em HTML.
+- **Logo:** link com a imagem da logo do contratante. Segue a tag `<img>` em HTML.
 - **ShipperName:** nome do contratante. 
 - **ShipperCustomerFirstName:** primeiro nome do destinatário da entrega.
 - **InvoiceOrderOfService:** nota fiscal do serviço.

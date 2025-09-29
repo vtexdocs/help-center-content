@@ -19,9 +19,7 @@ With client success in mind, VTEX offers complete solutions for different busine
 
 To help you easily adopt new resources, manage your business autonomously, and gain scalability, we have published the new **Onboarding guide** — content covering the complete journey for operating a VTEX store. This documentation will be available in the [Start here](/en/tracks) section of the Help Center.
 
-<div>
-  <img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2024/february/2024-02-22-onboarding-guide-your-complete-journey-at-vtex_1.png" alt="Onboarding guide">
-</div>
+  ![Onboarding guide](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2024/february/2024-02-22-onboarding-guide-your-complete-journey-at-vtex_1.png)
 
 ## What is the Onboarding guide?
 
@@ -72,6 +70,4 @@ We hope this content contributes to the success of your business and your satisf
 | Part I | Part II | Part III |
 | [VTEX store overview](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9) | [Next steps after the go-live](/en/tracks/next-steps-after-the-go-live--3J7WFZyvTcoiwkcIVFVhIS) | [Support at VTEX](/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy) |
 
-<div>
-  <img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2024/february/2024-02-22-onboarding-guide-your-complete-journey-at-vtex_5.png" alt="Ecommerce image">
-</div>
+  ![Ecommerce image](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2024/february/2024-02-22-onboarding-guide-your-complete-journey-at-vtex_5.png)

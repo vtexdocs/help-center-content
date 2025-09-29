@@ -40,7 +40,7 @@ Por isso, é necessário indicar quais dias não devem ser considerados como út
 
 > ℹ️ **Exemplo:** para cadastrar uma folga em uma sexta-feira, selecione *5 de agosto* no calendário. - Para aplicar apenas a esse dia específico, clique em **Aplicar em 5 de agosto**. - Para aplicar a todas as sextas-feiras do período, clique em **Aplicar em todas as sextas-feiras**.
 
-<img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/cadastro-de-metas/folgas-e-feriados-indeva_1.gif" alt="Exemplo de cadastro de folga no calendário">
+![Exemplo de cadastro de folga no calendário](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/cadastro-de-metas/folgas-e-feriados-indeva_1.gif)
 
 <ol start="7">
   <li>Clique em **Próximo** para continuar.</li>

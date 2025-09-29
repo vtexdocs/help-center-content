@@ -21,7 +21,7 @@ Nesta seção você encontra as seguintes informações:
 
 - [Características dos dados de promoções](#caracteristicas-dos-dados-de-promocoes)  
 - [Tabela promotions_latest](#promotions-latest)  
-- [Tabela promotions_historical(#promotions-historical)
+- [Tabela promotions_historical](#promotions-historical)
 - [Análise com dados de promoções](#analise-com-dados-de-promocoes)
 - [Correlações com outros dados](#correlacoes-com-outros-dados)
 

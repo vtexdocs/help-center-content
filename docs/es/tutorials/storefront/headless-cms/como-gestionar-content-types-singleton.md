@@ -39,7 +39,8 @@ Para editar o eliminar contenido, consulta las secciones a continuación:
 3. Selecciona el Singleton creado, por ejemplo **Home**.
 4. Ya puedes editar la página de inicio **Home** agregando nuevas secciones.
 
-##Despublicar el Singleton
+## Despublicar el Singleton
+
 1. Accede a **Admin > Storefront > Headless CMS**.
 2. Haz clic en el proyecto en que se creó el Singleton.
 3. Haz clic en `Despublicar` > `Despublicar ahora`.
