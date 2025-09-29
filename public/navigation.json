@@ -22705,6 +22705,21 @@
                 },
                 {
                   "name": {
+                    "en": "Mercado Libre Holidays",
+                    "es": "Mercado Libre Feriados",
+                    "pt": "Mercado Livre Feriados"
+                  },
+                  "slug": {
+                    "en": "mercado-libre-holidays",
+                    "es": "mercado-libre-feriados",
+                    "pt": "mercado-livre-feriados"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Mercado Libre invoices",
                     "es": "Facturas de Mercado Libre",
                     "pt": "Notas fiscais do Mercado Livre"
@@ -22803,6 +22818,21 @@
                     "en": "shopping-feed-integration",
                     "es": "shopping-feed-integracion",
                     "pt": "integracao-shopping-feed"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Smart Pricing Mercado Libre",
+                    "es": "Precios inteligentes Mercado Libre",
+                    "pt": "Precificação inteligente Mercado Livre"
+                  },
+                  "slug": {
+                    "en": "smart-pricing-mercado-libre",
+                    "es": "precios-inteligentes-mercado-libre",
+                    "pt": "precificacao-inteligente-mercado-livre"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -36548,6 +36578,21 @@
               "origin": "",
               "type": "category",
               "children": [
+                {
+                  "name": {
+                    "en": "Mercado Libre Envios",
+                    "es": "Envíos de Mercado Libre",
+                    "pt": "Mercado Livre Envios"
+                  },
+                  "slug": {
+                    "en": "mercado-libre-envios",
+                    "es": "envios-de-mercado-libre",
+                    "pt": "mercado-livre-envios"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
                 {
                   "name": {
                     "en": "View feedback in the Indeva app",
