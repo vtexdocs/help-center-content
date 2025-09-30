@@ -21,7 +21,7 @@ Disponibilizamos para todos os nossos clientes e parceiros as nossas APIs de Cro
 
 Agora, você pode realizar as chamadas de Cross-selling e Up-selling em APIs REST. Estas chamadas funcionam da mesma forma que todas as outras APIs VTEX.
 
-Abaixo, segue a lista das novas chamadas disponíveis:
+Abaixo, você encontra a lista das novas chamadas disponíveis:
 
 ### Quem Viu Viu Também: 
 
