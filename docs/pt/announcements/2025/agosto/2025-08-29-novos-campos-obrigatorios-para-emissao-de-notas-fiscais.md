@@ -3,8 +3,8 @@ title: 'Novos campos obrigatórios para emissão de notas fiscais'
 id: 5jDozNwc272jtq92dvKQkq
 status: PUBLISHED
 createdAt: 2025-08-29T23:29:00.226Z
-updatedAt: 2025-09-09T13:48:45.545Z
-publishedAt: 2025-09-09T13:48:45.545Z
+updatedAt: 2025-09-30T17:22:53.181Z
+publishedAt: 2025-09-30T17:22:53.181Z
 contentType: updates
 productTeam: Channels
 author: 2p7evLfTcDrhc5qtrzbLWD
@@ -40,19 +40,18 @@ Acompanhe na tabela abaixo o status de cada integração:
 | Marketplace        | API disponibilizada | Data disponível VTEX | Status |
 |--------------------|---------------------|----------------------|--------|
 | Amazon FBAOS       | 28/08/2025 | 29/08/2025 | Disponível |
-| Amazon MFN         | 01/09/2025 | 01/09/2025 | Disponível|
-| Mercado Livre      | 29/08/2025 |29/08/2025 | Disponível |
+| Amazon MFN         | 01/09/2025 | 01/09/2025 | Disponível |
+| Mercado Livre      | 29/08/2025 |29/08/2025  | Disponível |
 | Shopee             | 27/08/2025 | 29/08/2025 | Disponível |
 | Dafiti Cartão      | 26/08/2025 | 28/08/2025 | Disponível |
-| Dafiti Pix         | Não disponível | Sem data definida | Aguardando marketplace |
+| Dafiti Pix         | 18/09/2025 | 30/09/2025 | Disponível |
 | Magalu             | 02/09/2025 | 03/09/2025 | Disponível |
-| Netshoes           | 01/09/2025 | 09/09/2025 | Em desenvolvimento |
-| Centauro           | Não disponível | Sem data definida | Aguardando marketplace |
+| Netshoes           | 01/09/2025 | 09/09/2025 | Disponível |
 | Grupo CasasBahia   | 05/09/2025 | 05/09/2025 | Disponível |
 | Carrefour          | 05/09/2025 | 08/09/2025 | Disponível |
+| Livelo             | 05/09/2025 | 03/10/2025 | Em desenvolvimento |
 | Americanas (B2W)   | Não disponível | Sem data definida | Aguardando marketplace |
-| Zoom               | Não disponível | Sem data definida | Aguardando marketplace |
-| Livelo             | Não disponível | Sem data definida | Aguardando marketplace |
+| Centauro           | Não disponível | Sem data definida | Aguardando marketplace |
 | Posthaus           | Não disponível | Sem data definida | Aguardando marketplace |  
 
 > ⚠️ Os marketplaces que não estão listados acima não têm suas integrações controladas pela VTEX. Nesses casos, é necessário contatar diretamente o integrador responsável.

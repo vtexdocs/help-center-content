@@ -21357,6 +21357,82 @@
             },
             {
               "name": {
+                "en": "Indeva forms",
+                "es": "Formularios de indeva",
+                "pt": "Formulários indeva"
+              },
+              "slug": {
+                "en": "indeva-forms",
+                "es": "formularios-de-indeva",
+                "pt": "formularios-indeva"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Answer form as a manager or responsible seller",
+                    "es": "Responder el formulario como gerente o vendedor responsable",
+                    "pt": "Responder formulário como gerente ou Vendedor responsável"
+                  },
+                  "slug": {
+                    "en": "answer-form-as-a-manager-or-responsible-seller-indeva",
+                    "es": "responder-el-formulario-como-gerente-o-vendedor-responsable-indeva",
+                    "pt": "responder-formulario-como-gerente-ou-vendedor-responsavel-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Create and send forms in the Indeva platform",
+                    "es": "Crear y enviar formularios en la plataforma Indeva",
+                    "pt": "Criar e enviar formulários na plataforma Indeva"
+                  },
+                  "slug": {
+                    "en": "create-and-send-forms-in-the-indeva-platform-indeva",
+                    "es": "crear-y-enviar-formularios-en-la-plataforma-indeva-indeva",
+                    "pt": "criar-e-enviar-formularios-na-plataforma-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Manage forms in the Indeva platform",
+                    "es": "Gestionar formularios en la plataforma Indeva",
+                    "pt": "Gerenciar formulários na plataforma Indeva"
+                  },
+                  "slug": {
+                    "en": "manage-forms-in-the-indeva-platform-indeva",
+                    "es": "gestionar-formularios-en-la-plataforma-indeva",
+                    "pt": "gerenciar-formularios-na-plataforma-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Review and analyze form responses",
+                    "es": "Revisar y analizar las respuestas de los formularios",
+                    "pt": "Conferir e analisar respostas dos formulários"
+                  },
+                  "slug": {
+                    "en": "review-and-analyze-form-responses-indeva",
+                    "es": "revisar-y-analizar-las-respuestas-de-los-formularios-indeva",
+                    "pt": "conferir-e-analisar-respostas-dos-formularios-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "Loja",
                 "es": "Loja",
                 "pt": "Loja"
@@ -21524,6 +21600,36 @@
               "children": [
                 {
                   "name": {
+                    "en": "Access the period comparator",
+                    "es": "Acceder al comparador de períodos",
+                    "pt": "Acessar o comparador de períodos"
+                  },
+                  "slug": {
+                    "en": "access-the-period-comparator-indeva",
+                    "es": "acceder-al-comparador-de-periodos-indeva",
+                    "pt": "acessar-o-comparador-de-periodos-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Analyze peak hours in the store",
+                    "es": "Analizar las horas pico en la tienda",
+                    "pt": "Analisar horários de pico na loja"
+                  },
+                  "slug": {
+                    "en": "analyze-peak-hours-in-the-store-indeva",
+                    "es": "analizar-las-horas-pico-en-la-tienda-indeva",
+                    "pt": "analisar-horarios-de-pico-na-loja-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Daily progress report",
                     "es": "Informe de evolución diaria",
                     "pt": "Relatório Evolução diária"
@@ -21569,6 +21675,21 @@
                 },
                 {
                   "name": {
+                    "en": "Monitor time and activity in the Queue List",
+                    "es": "Monitorear el tiempo y las actividades en la Lista de Turno",
+                    "pt": "Monitorar tempo e movimentações na Lista da Vez"
+                  },
+                  "slug": {
+                    "en": "monitor-time-and-activity-in-the-queue-list-indeva",
+                    "es": "monitorear-el-tiempo-y-las-actividades-en-la-lista-de-turno-indeva",
+                    "pt": "monitorar-tempo-e-movimentacoes-na-lista-da-vez-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Opportunity flow report",
                     "es": "Informe de flujo de oportunidades",
                     "pt": "Relatório Fluxo de oportunidades"
@@ -21599,6 +21720,21 @@
                 },
                 {
                   "name": {
+                    "en": "Track seller feedback",
+                    "es": "Hacer seguimiento de los comentarios de los vendedores",
+                    "pt": "Acompanhar feedbacks de vendedores"
+                  },
+                  "slug": {
+                    "en": "track-seller-feedback-indeva",
+                    "es": "hacer-seguimiento-de-los-comentarios-de-los-vendedores-indeva",
+                    "pt": "acompanhar-feedbacks-de-vendedores-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Utilization flow report",
                     "es": "Informe de flujo de aprovechamiento",
                     "pt": "Relatório Fluxo de aproveitamento"
@@ -21607,6 +21743,21 @@
                     "en": "utilization-flow-report-indeva",
                     "es": "informe-de-flujo-de-aprovechamiento-indeva",
                     "pt": "relatorio-fluxo-de-aproveitamento-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "View events and reasons logged in the Queue List",
+                    "es": "Consultar eventos y motivos registrados en la Lista de Turno",
+                    "pt": "Consultar eventos e motivos registrados na Lista da Vez"
+                  },
+                  "slug": {
+                    "en": "view-events-and-reasons-logged-in-the-queue-list-indeva",
+                    "es": "consultar-eventos-y-motivos-registrados-en-la-lista-de-turno-indeva",
+                    "pt": "consultar-eventos-e-motivos-registrados-na-lista-da-vez-indeva"
                   },
                   "origin": "",
                   "type": "markdown",

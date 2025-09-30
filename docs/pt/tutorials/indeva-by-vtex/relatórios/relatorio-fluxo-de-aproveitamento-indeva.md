@@ -3,8 +3,8 @@ title: 'Relatório Fluxo de aproveitamento'
 id: 51YCPbLw7v8ebeyGX9z623
 status: PUBLISHED
 createdAt: 2025-09-18T18:40:24.492Z
-updatedAt: 2025-09-18T18:50:55.537Z
-publishedAt: 2025-09-18T18:50:55.537Z
+updatedAt: 2025-09-30T17:27:40.262Z
+publishedAt: 2025-09-30T17:27:40.262Z
 firstPublishedAt: 2025-09-18T18:50:04.221Z
 contentType: tutorial
 productTeam: Others
@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 12W8z1keFc6Z7CmgoSpqdz
 ---
 
-O relatório **Fluxo de aproveitamento** mostra a relação entre a **média de conversão da loja** e a **conversão por hora**, permitindo identificar os horários de maior aproveitamento das vendas.  
+O relatório **Fluxo de aproveitamento** mostra a relação entre a média de conversão da loja e a conversão por hora, permitindo identificar os horários de maior aproveitamento das vendas.  
 
 No menu lateral da Indeva, clique em **Relatórios > Fluxo de aproveitamento**.  
 

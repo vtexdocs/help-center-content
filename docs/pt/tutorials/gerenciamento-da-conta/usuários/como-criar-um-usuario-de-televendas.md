@@ -3,8 +3,8 @@ title: 'Criar usuário de televendas'
 id: frequentlyAskedQuestions_4227
 status: PUBLISHED
 createdAt: 2019-01-24T20:46:00.809Z
-updatedAt: 2022-10-04T19:39:42.650Z
-publishedAt: 2022-10-04T19:39:42.650Z
+updatedAt: 2025-09-30T18:42:28.656Z
+publishedAt: 2025-09-30T18:42:28.656Z
 firstPublishedAt: 2019-01-24T21:59:45.397Z
 contentType: tutorial
 productTeam: Shopping
@@ -40,8 +40,6 @@ Para criar um usuário com perfil de televendas, siga os seguintes passos:
 6. Caso queira adicionar mais usuários, repita os passos 4 e 5. 
 
 7. Clique no botão **Salvar**.
-
-![GIF animado mostrando como criar usuário televendas](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/gerenciamento-da-conta/usu%C3%A1rios/como-criar-um-usuario-de-televendas_1.gif)
 
 > ⚠️ Ao criar um [perfil](/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#), evite incluir [recursos](/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3#) de televendas junto com outros recursos. Do contrário, o perfil pode não funcionar como esperado.
 

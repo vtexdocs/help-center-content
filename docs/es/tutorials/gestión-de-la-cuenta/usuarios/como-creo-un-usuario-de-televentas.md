@@ -3,8 +3,8 @@ title: 'Crear usuario de televentas'
 id: frequentlyAskedQuestions_4227
 status: PUBLISHED
 createdAt: 2019-01-24T20:46:00.809Z
-updatedAt: 2022-10-04T19:39:42.650Z
-publishedAt: 2022-10-04T19:39:42.650Z
+updatedAt: 2025-09-30T18:42:28.656Z
+publishedAt: 2025-09-30T18:42:28.656Z
 firstPublishedAt: 2019-01-24T21:59:45.397Z
 contentType: tutorial
 productTeam: Shopping
@@ -40,8 +40,6 @@ Para crear un usuario con el rol de televentas, sigue los pasos a continuación:
 6. Si quieres agregar más usuarios, repite los pasos 4 y 5.
 
 7. Haz clic en el botón **Guardar**.
-
-![GIF animado que muestra cómo crear un usuario de televentas](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/gesti%C3%B3n-de-la-cuenta/usuarios/como-creo-un-usuario-de-televentas_1.gif)
 
 > ⚠️ Al crear un [perfil](/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#), evita incluir [recursos](/es/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3#) de televentas junto con otros recursos. De lo contrario, puede que el perfil no funcione de forma esperada.
 
