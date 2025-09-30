@@ -13,6 +13,7 @@ slugEN: overview-panel-indeva
 legacySlug: painel-visao-geral-indeva
 locale: pt
 subcategoryId: 1iNFZ3jKoIo5aOZtK4C1pO
+order: 1
 ---
 
 A tela Visão Geral é a página inicial do Indeva Web. Ela exibe os principais dados operacionais e de desempenho da loja, com atualizações diárias.

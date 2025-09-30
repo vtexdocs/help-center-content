@@ -13,6 +13,7 @@ slugEN: what-is-a-service
 legacySlug: o-que-e-um-servico
 locale: pt
 subcategoryId: 1hoOi2R0Rm6ky0yCwOUoiy
+order: 1
 ---
 
 Um serviço é um item, opcional e com custo, que pode vir acompanhando um produto. Ele é utilizado para atribuir um valor, muitas vezes emocional, mas também de um adicional de serviço, propriamente dito, a um SKU. Por exemplo, uma embalagem de presente, uma fita diferenciada, um cartão de presente ou uma instalação de produto.

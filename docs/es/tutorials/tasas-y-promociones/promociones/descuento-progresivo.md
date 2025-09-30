@@ -3,8 +3,8 @@ title: 'Cómo funciona la promoción Descuento progresivo'
 id: tutorials_324
 status: PUBLISHED
 createdAt: 2017-04-27T22:08:26.447Z
-updatedAt: 2025-08-22T14:57:47.483Z
-publishedAt: 2025-08-22T14:57:47.483Z
+updatedAt: 2025-09-30T13:50:03.053Z
+publishedAt: 2025-09-30T13:50:03.053Z
 firstPublishedAt: 2017-04-27T23:03:15.195Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -55,6 +55,9 @@ Selecciona una de las siguientes opciones para aplicar la promoción.
 - **Todos:** la promoción se aplicará a todos los sellers registrados. Utiliza esta opción cuando desees que todos los productos de todos los sellers formen parte de la campaña.
 - **Iguales a:** en esta opción la promoción solo se aplicará a sellers específicos. Tras seleccionar esta opción, rellena el campo con los nombres de los sellers deseados. 
 - **Diferentes de:** en esta opción se definen los sellers a los que no se aplicará esta promoción. Después de escoger "Diferentes de", tendrás la opción de seleccionar los sellers que no deseas incluir en la campaña. Se incluirán todos los demás sellers.
+- **Participantes**: con esta configuración, la promoción funciona en modo opt-in, lo que significa que la participación de los sellers se gestiona a través del endpoint [Seller opt-in or opt-out](https://developers.vtex.com/docs/api-reference/promotions-and-taxes-api#post-/api/rnb/pvt/calculatorconfiguration/-promotionId-/seller-opt). En esta API, puedes definir qué sellers deben ser incluidos o excluidos de la promoción.
+
+Para obtener más información, consulta [Seller Opt-in for Promotions](https://developers.vtex.com/docs/guides/seller-opt-in-promotions).
 
 ### Seleccionar políticas comerciales 
 En la esquina derecha de la página, en la sección **Políticas comerciales**, selecciona las políticas comerciales válidas para el descuento. Puedes ofrecer descuentos para políticas comerciales en las que [tu tienda opera como marketplace](/es/tutorial/o-que-e-um-marketplace) (**Mi tienda**) o como seller (**Tiendas de terceros - Fulfillment**).

@@ -13,6 +13,7 @@ slugEN: what-is-a-brand
 legacySlug: what-is-a-brand
 locale: en
 subcategoryId: fUHfjTEwyOcIQuyeUsIIu
+order: 1
 ---
 
 __The Brand is one of the attributes of a product__, as well as its name and description. 

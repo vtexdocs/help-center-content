@@ -3,8 +3,8 @@ title: 'How the Buy One Get One (BoGo) promotion works'
 id: tutorials_322
 status: PUBLISHED
 createdAt: 2017-04-27T22:08:41.148Z
-updatedAt: 2025-02-24T16:17:50.979Z
-publishedAt: 2025-02-24T16:17:50.979Z
+updatedAt: 2025-09-30T13:53:58.091Z
+publishedAt: 2025-09-30T13:53:58.091Z
 firstPublishedAt: 2017-04-27T23:03:14.992Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -50,6 +50,9 @@ In this section, you can specify whether the promotion will apply to all sellers
 - **All:** Select this option to apply the promotion to all sellers. Use this option if you want all products from all sellers to be part of the campaign.
 - **Equal to:** Select this option to include only specific sellers in the promotion. After selecting "Equal to," you can choose the sellers you want to include in the field below. Only selected sellers will have their products in the campaign.
 - **Different from:** Select this option to exclude specific sellers from the promotion. After selecting "Different from", you can choose the sellers you don't want to include in the campaign. All other sellers will be included.
+- **Participants**: with this configuration, the promotion works in opt-in mode, meaning seller participation is managed through the [Seller opt-in or opt-out](https://developers.vtex.com/docs/api-reference/promotions-and-taxes-api#post-/api/rnb/pvt/calculatorconfiguration/-promotionId-/seller-opt). In this API, you can define which sellers should be included in or removed from the promotion.
+
+For more information, see [Seller Opt-in for Promotions](https://developers.vtex.com/docs/guides/seller-opt-in-promotions).
 
 ![Seller-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/buy-one-get-one_7.png)
 

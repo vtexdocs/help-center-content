@@ -13,6 +13,7 @@ slugEN: what-is-a-marketplace
 legacySlug: que-es-un-marketplace
 locale: es
 subcategoryId: 6riYYNZCpO8wyksi8Ksgyq
+order: 1
 ---
 
 Definimos como __marketplace__ la tienda donde se realiza una __compra__. Es el ambiente donde el cliente realiza el __pagamento__ por un pedido.

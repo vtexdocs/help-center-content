@@ -13,6 +13,7 @@ slugEN: agent-builder-overview
 legacySlug: visao-geral-agent-builder
 locale: pt
 subcategoryId: 3TASbcSqDuDZwmgDLc0O5I
+order: 1
 ---
 
 O **Agent Builder** é uma ferramenta de conversação com o cliente baseada em inteligência artificial. Usando essa funcionalidade, você pode customizar agentes para interagir com seus clientes, permitindo que eles solicitem informações sobre um pedido em andamento, o catálogo da sua loja e o cancelamento de um pedido, por exemplo.

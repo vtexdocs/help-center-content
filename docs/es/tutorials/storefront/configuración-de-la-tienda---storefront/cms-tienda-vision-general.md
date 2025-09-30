@@ -13,6 +13,7 @@ slugEN: cms-store-overview
 legacySlug: cms-tienda-vision-general
 locale: es
 subcategoryId: 7ogirQ8NClawO2X6xdgCKc
+order: 1
 ---
 
 La página **Tienda** te permite realizar configuraciones de SEO, habilitar las flags de optimización del rendimiento y editar la configuración de PWA de tu tienda.

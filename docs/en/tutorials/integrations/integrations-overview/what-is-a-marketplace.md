@@ -13,6 +13,7 @@ slugEN: what-is-a-marketplace
 legacySlug: what-is-a-marketplace
 locale: en
 subcategoryId: 6riYYNZCpO8wyksi8Ksgyq
+order: 1
 ---
 
 We define as __marketplace__ the store where a __purchase__ is performed. It's the environment where the customer __pays__ for an order.

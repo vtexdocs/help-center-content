@@ -13,6 +13,7 @@ slugEN: apps-overview
 legacySlug: vision-general-apps
 locale: es
 subcategoryId: 3e2VLdLao8GGk4sAmMmwmi
+order: 1
 ---
 
 Las apps de VTEX extienden las funcionalidades de la plataforma VTEX y ayudan a los comerciantes a crear experiencias completas para los diferentes niveles del comercio digital, por ejemplo:

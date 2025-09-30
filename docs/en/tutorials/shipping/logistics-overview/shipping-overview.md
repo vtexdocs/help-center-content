@@ -13,6 +13,7 @@ slugEN: shipping-overview
 legacySlug: shipping-overview
 locale: en
 subcategoryId: 63f22GypJIBLnMGh1QZUi0
+order: 1
 ---
 
 In an ecommerce, logistics is part of the customer experience as well as the store's business strategy. This means that the logistical configurations of your store are critical to your business. For this reason, the VTEX platform allows you to register and control your inventory, manage shipping and delivery rates, control item availability, and track deliveries. All these operations are performed in the **Shipping** menu of your Admin.

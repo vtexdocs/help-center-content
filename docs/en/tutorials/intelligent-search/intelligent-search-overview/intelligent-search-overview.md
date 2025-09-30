@@ -13,6 +13,7 @@ slugEN: intelligent-search-overview
 legacySlug: intelligent-search-overview
 locale: en
 subcategoryId: l3DubpOCHBfKyF2ueg2Vs
+order: 1
 ---
 
 > ℹ️ Intelligent Search is available for stores developed using: <ul> <li>[Store Framework](https://developers.vtex.com/docs/guides/store-framework)</li> <li>[FastStore](https://developers.vtex.com/docs/guides/faststore) <li>[Headless implementations](https://developers.vtex.com/docs/api-reference/intelligent-search-events-api-headless) </ul>

@@ -13,6 +13,7 @@ slugEN: vtex-tracking-overview
 legacySlug: vision-general-vtex-tracking
 locale: es
 subcategoryId: t5ai1r0dN7J4U1IYLbHmG
+order: 1
 ---
 
 VTEX Tracking es una solución de VTEX enfocada en el monitoreo de entregas. Consta de 3 canales principales:  

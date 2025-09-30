@@ -13,6 +13,7 @@ slugEN: brand-registration-fields
 legacySlug: campos-de-cadastro-de-marca
 locale: pt
 subcategoryId: fUHfjTEwyOcIQuyeUsIIu
+order: 3
 ---
 
 Para entender melhor o significado dos campos de cadastro de Marca, veja abaixo a descrição completa de cada um deles.

@@ -13,6 +13,7 @@ slugEN: what-is-a-brand
 legacySlug: o-que-e-uma-marca
 locale: pt
 subcategoryId: fUHfjTEwyOcIQuyeUsIIu
+order: 1
 ---
 
 __A Marca é um dos atributos de um produto__, assim como nome e descrição. 

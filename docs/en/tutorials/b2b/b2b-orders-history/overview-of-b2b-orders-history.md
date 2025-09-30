@@ -13,6 +13,7 @@ slugEN: overview-of-b2b-orders-history
 legacySlug: overview-of-b2b-orders-history
 locale: en
 subcategoryId: 2LaAukjQB4QEbqSYdgjq7l
+order: 1
 ---
 
 In a [B2B operation](/en/tutorial/b2b-visao-geral--5vb9SNXhX2bZnkpAh7ADdC), multiple users from the same organization place orders on behalf of the company. The **B2B Orders History** app was developed to meet these specific needs, allowing users to view and manage orders in an integrated and collaborative way.

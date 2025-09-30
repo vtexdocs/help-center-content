@@ -13,6 +13,7 @@ slugEN: registering-brands
 legacySlug: cadastrando-marcas
 locale: pt
 subcategoryId: fUHfjTEwyOcIQuyeUsIIu
+order: 2
 ---
 
 Para cadastrar uma marca, siga os passos abaixo:

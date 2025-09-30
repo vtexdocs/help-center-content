@@ -13,6 +13,7 @@ slugEN: what-is-the-difference-between-unbinding-and-removing-seller-sku
 legacySlug: what-is-the-difference-between-delinking-and-deleting-seller-sku
 locale: en
 subcategoryId: FTLNAWyLmuaIiAq4CQKS6
+order: 1
 ---
 
 The products sent by a seller to the marketplace go through the [Received SKUs](/en/tutorial/sugerindo-e-aprovando-skus--tutorials_396) module. After the seller's SKUs have been approved, they are entered in the marketplace's catalogue and shown in the Admin under **Marketplace > SKU Bindings**. To know more, see the article [SKU Bindings](/en/tutorial/vinculos-de-sku--1SmrVgNwjJX17hdqwLa0TX).

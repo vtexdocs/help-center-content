@@ -65,7 +65,7 @@ Para saber mais detalhes sobre a arquitetura de pedidos aplicada em Multilevel O
 
 Algumas das funcionalidades que fazem parte do modelo tradicional de marketplace não estão disponíveis para um cenário _Multilevel Omnichannel Inventory_. É importante conhecer essas restrições antes de habilitar a configuração.
 
-> ⚠️ Note que, no Brasil, o Banco Central (BACEN) regulamenta a atuação de marketplaces varejistas como concentradores e repassadores de dinheiro. Dado essa restrição, recomendamos a implementação do Multilevel Omnichannel Marketplace em lojas que se adequam à circular 3.815 do BACEN. Saiba mais em [ BACEN e a regulamentação para marketplaces no Brasil - VTEX](https://vtex.com/pt-br/blog/estrategia/bacen-e-a-regulamentacao-para-marketplaces-no-brasil/).
+> ⚠️ Note que, no Brasil, o Banco Central (BACEN) regulamenta a atuação de marketplaces varejistas como concentradores e repassadores de dinheiro. Dado essa restrição, recomendamos a implementação do Multilevel Omnichannel Marketplace em lojas que se adequam à circular 3.815 do BACEN. Saiba mais em [BACEN e a regulamentação para marketplaces no Brasil - VTEX](https://vtex.com/pt-br/blog/estrategia/bacen-e-a-regulamentacao-para-marketplaces-no-brasil/).
 
 ### Disponibilidade
 

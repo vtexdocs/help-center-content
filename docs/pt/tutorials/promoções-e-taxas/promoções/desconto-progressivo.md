@@ -3,8 +3,8 @@ title: 'Como funciona o desconto progressivo'
 id: tutorials_324
 status: PUBLISHED
 createdAt: 2017-04-27T22:08:26.447Z
-updatedAt: 2025-08-22T14:57:47.483Z
-publishedAt: 2025-08-22T14:57:47.483Z
+updatedAt: 2025-09-30T13:50:03.053Z
+publishedAt: 2025-09-30T13:50:03.053Z
 firstPublishedAt: 2017-04-27T23:03:15.195Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -55,6 +55,9 @@ Selecione uma das opções para a aplicação da promoção.
 - **Todos:** nesta opção a promoção será aplicada a todos os sellers cadastrados. Use-a quando quiser que todos os produtos, de todos os sellers, façam parte da campanha.
 - **Iguais a:** nesta opção a promoção será aplicada apenas a sellers específicos. Após selecionar esta opção, preencha o campo que aparecerá com o nome dos sellers desejados. 
 - **Diferentes de:** nesta opção você define quais sellers não serão afetados por essa promoção. Após escolher "Diferentes de", você poderá selecionar os sellers que não deseja incluir na campanha. Todos os demais sellers estarão incluídos.
+- **Participantes**: com esta configuração, a promoção funciona no modo *opt-in*, em que a participação dos sellers é gerenciada por meio do [Seller opt-in or opt-out](https://developers.vtex.com/docs/api-reference/promotions-and-taxes-api#post-/api/rnb/pvt/calculatorconfiguration/-promotionId-/seller-opt). Nessa API, você pode definir quais sellers devem participar ou ser removidos da promoção.
+
+Para mais informações, acesse o artigo [Seller opt-in promotions](https://developers.vtex.com/docs/guides/seller-opt-in-promotions).
 
 ### Selecionar políticas comerciais 
 No canto direito da página, na seção **Políticas Comerciais**, selecione as políticas comerciais válidas para o desconto. Você pode oferecer descontos para políticas comerciais onde [sua loja atua como marketplace](/pt/faq/o-que-e-um-marketplace) (**Minha loja**) ou como seller (**Lojas de terceiros - Fulfillment**).

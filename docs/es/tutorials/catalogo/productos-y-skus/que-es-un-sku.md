@@ -13,6 +13,7 @@ slugEN: what-is-an-sku
 legacySlug: que-es-un-sku
 locale: es
 subcategoryId: pwxWmUu7T222QyuGogs68
+order: 2
 ---
 
 Primero, vamos a aclarar qué significa la sigla SKU. Del inglés *Stock Keeping Unit*, o, en español, *Unidad Mantenida en Stock*, es la unidad física del producto. Esto significa que __el SKU es la variación del producto__. En él se contienen las características que lo convierten en un tipo específico de producto.

@@ -13,6 +13,7 @@ slugEN: what-is-transparent-checkout
 legacySlug: o-que-e-checkout-transparente
 locale: pt
 subcategoryId: 8AGXmtpbTqUE2KQu0Swwk
+order: 2
 ---
 
 Dependendo da condição de pagamento que o usuário escolha ao fazer uma compra, ele pode ser redirecionado para uma ambiente externo. Uma transferência bancária (que exige acesso ao internet banking) ou o uso de uma solução como o Paypal (que precisa que o usuário esteja logado) são exemplos de meios de pagamento que podem gerar esse redirecionamento.

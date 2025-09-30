@@ -3,8 +3,8 @@ title: 'Creating a Buy Together promotion'
 id: tutorials_323
 status: PUBLISHED
 createdAt: 2017-04-27T22:08:34.791Z
-updatedAt: 2025-02-24T16:17:27.631Z
-publishedAt: 2025-02-24T16:17:27.631Z
+updatedAt: 2025-09-30T13:55:10.549Z
+publishedAt: 2025-09-30T13:55:10.549Z
 firstPublishedAt: 2017-04-27T23:03:15.238Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -77,6 +77,9 @@ Define whether the promotion will apply to all sellers or only to selected ones.
 - **All:** Select this option to apply the promotion to all sellers. Use this option if you want all products from all sellers to be part of the campaign.
 - **Equal to:** Select this option to include only specific sellers in the promotion. After selecting "Equal to," you can choose the sellers you want to include in the field below. Only selected sellers will have their products in the campaign.
 - **Different from:** Select this option to exclude specific sellers from the promotion. After selecting "Different from", you can choose the sellers you don't want to include in the campaign. All other sellers will be included.
+- **Participants**: with this configuration, the promotion works in opt-in mode, meaning seller participation is managed through the [Seller opt-in or opt-out](https://developers.vtex.com/docs/api-reference/promotions-and-taxes-api#post-/api/rnb/pvt/calculatorconfiguration/-promotionId-/seller-opt). In this API, you can define which sellers should be included in or removed from the promotion.
+
+For more information, see [Seller Opt-in for Promotions](https://developers.vtex.com/docs/guides/seller-opt-in-promotions).
 
 ### Trade policies
 

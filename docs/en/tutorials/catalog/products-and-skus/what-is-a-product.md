@@ -13,6 +13,7 @@ slugEN: what-is-a-product
 legacySlug: what-is-a-product
 locale: en
 subcategoryId: pwxWmUu7T222QyuGogs68
+order: 1
 ---
 
 __The Product is a more generic definition of something that is available in your store__, such as Shirt, Refrigerator, Wardrobe. Hierarchically, the Product is below a category.

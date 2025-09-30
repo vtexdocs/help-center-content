@@ -13,6 +13,7 @@ slugEN: what-is-a-seller
 legacySlug: what-is-a-seller
 locale: en
 subcategoryId: 5tlIjp0ZkAU4EIk4OgyEmm
+order: 1
 ---
 
 We define as a __seller__ the store responsible for delivering an order. The seller is responsible for the [fulfillment](/en/tutorial/logistica--53udnvI5eBy8DKo8FOjMoP) process, ie it's the store that must comply with the obligation to deliver the product to the customer.

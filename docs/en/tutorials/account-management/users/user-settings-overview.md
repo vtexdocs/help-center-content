@@ -13,6 +13,7 @@ slugEN: user-settings-overview
 legacySlug: user-settings-overview
 locale: en
 subcategoryId: 63DHe3VQEEE6Uuua8gIs2M
+order: 1
 ---
 
 *User settings* is the name of a set of configurations applied to your personal profile in the Admin. It is not related to your store or your VTEX business account. To access this page, click on your __profile avatar__, which can be identified by the first letter of your email address, and click on __User Settings__.

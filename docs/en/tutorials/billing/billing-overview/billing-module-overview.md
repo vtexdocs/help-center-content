@@ -13,6 +13,7 @@ slugEN: billing-module-overview
 legacySlug: billing-module-overview
 locale: en
 subcategoryId: 31ICVopiWZfSTdr9jZMShb
+order: 1
 ---
 
 **Billing** is the page where you manage all financial aspects of your VTEX account. It is only available for users with a [Financial role](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc). To view, edit, or perform any action on this page, please request permission from your store owner. 

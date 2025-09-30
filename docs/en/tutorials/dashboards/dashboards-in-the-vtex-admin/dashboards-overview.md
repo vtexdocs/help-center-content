@@ -13,6 +13,7 @@ slugEN: dashboards-overview
 legacySlug: dashboards-overview
 locale: en
 subcategoryId: 1TIJqw8kV2Yok4iQe4SAkq
+order: 2
 ---
 
 The *Dashboards* menu is a control panel that displays data for your unified commerce. The analyses presented here can inform decisions and help prioritize tasks for different professionals, from operations to commercial and marketing. The Dashboards include up-to-date data from all sales channels in which your store operates with VTEX, including key metrics that impact your store revenue.

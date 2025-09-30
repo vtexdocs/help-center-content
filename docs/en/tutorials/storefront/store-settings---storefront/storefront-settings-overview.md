@@ -13,6 +13,7 @@ slugEN: storefront-settings-overview
 legacySlug: storefront-settings-overview
 locale: en
 subcategoryId: 7ogirQ8NClawO2X6xdgCKc
+order: 2
 ---
 
 *Store Settings* are the configurations applied to your store, storefront and how your end customers interact with your ecommerce. We have grouped all settings applied to your store under the __Store Settings__ section on the left navigation menu.

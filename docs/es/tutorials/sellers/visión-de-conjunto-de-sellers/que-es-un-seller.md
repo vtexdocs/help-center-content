@@ -13,6 +13,7 @@ slugEN: what-is-a-seller
 legacySlug: que-es-un-seller
 locale: es
 subcategoryId: 5tlIjp0ZkAU4EIk4OgyEmm
+order: 1
 ---
 
 Definimos un __seller__ como una tienda que es propietaria de los productos y es responsable por enviar pedidos. El seller es responsable de todo el proceso operativo y de [fulfillment](/es/tutorial/logistica--53udnvI5eBy8DKo8FOjMoP), es decir, es la tienda que debe cumplir la obligación de realizar el envío del producto al comprador.  

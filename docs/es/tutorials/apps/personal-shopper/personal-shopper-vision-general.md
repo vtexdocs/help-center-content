@@ -13,6 +13,7 @@ slugEN: personal-shopper-overview
 legacySlug: personal-shopper-vision-general
 locale: es
 subcategoryId: 2vuGumwWQ432unGlyOOXXc
+order: 1
 ---
 
 **Personal Shopper** es una aplicación que permite a las empresas organizar sesiones de compras en vivo en la tienda, facilitando la interacción en tiempo real con los clientes. Durante estas sesiones el personal shopper puede mostrar productos, responder preguntas y agregar productos al carrito del cliente. Esta experiencia interactiva de compra está diseñada para aumentar las ventas, generar engagement con los clientes y crear lealtad a la marca.

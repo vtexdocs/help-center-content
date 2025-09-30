@@ -13,6 +13,7 @@ slugEN: campaigns-overview-indeva
 legacySlug: campaigns-overview-indeva
 locale: en
 subcategoryId: 2basvwwwR3pbjG1BxlHqrc
+order: 1
 ---
 
 > ℹ️ This content is only available in Portuguese. [Click here](/pt/tutorial/visao-geral-de-campanhas-indeva--7woyjpXFWrDocOvY1Uw6ne) to access it.

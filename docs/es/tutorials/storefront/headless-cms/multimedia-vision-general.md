@@ -13,6 +13,7 @@ slugEN: media-overview
 legacySlug: multimedia-vision-general
 locale: es
 subcategoryId: 27t6x0lngvjI3bnUg5AgEO
+order: 2
 ---
 
 En la página Multimedia puedes gestionar los archivos multimedia de tu tienda, tales como imágenes y videos. Para las imágenes puedes cargar y organizar archivos de hasta 5 MB en los siguientes formatos: `png`, `jpg`, `gif`, `svg` y `webp`, mientras que para los videos puedes agregar una URL del proveedor de videos hospedado externamente como YouTube o Vimeo.

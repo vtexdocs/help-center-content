@@ -13,6 +13,7 @@ slugEN: b2b-trade-policies-overview
 legacySlug: b2b-trade-policies-overview
 locale: en
 subcategoryId: 3b0iTwoSQZq9m3Z2ezbWLd
+order: 1
 ---
 
 Associating a [trade policy](/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) with the organization is key to a B2B operation. It allows you to apply specific rules on prices, discounts, and payment conditions, providing customized management of commercial relationships.

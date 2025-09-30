@@ -13,6 +13,7 @@ slugEN: checkout-vtex-overview
 legacySlug: checkout-vtex-visao-geral
 locale: pt
 subcategoryId: 8AGXmtpbTqUE2KQu0Swwk
+order: 1
 ---
 
 O Checkout é a etapa final no processo de compras online e também considerada como uma das mais importantes para a taxa de conversão de vendas em uma loja. Na VTEX, o módulo Checkout é responsável por:

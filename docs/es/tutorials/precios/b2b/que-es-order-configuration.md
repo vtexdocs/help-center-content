@@ -13,6 +13,7 @@ slugEN: what-is-order-configuration
 legacySlug: que-es-order-configuration
 locale: es
 subcategoryId: 1GujN7Pa7NESCz0sB8srX4
+order: 1
 ---
 
 El escenario B2B exige diferentes configuraciones del B2C. En este contexto, los pedidos se orientan a diversos fines, como la reventa y el consumo propio. Por eso, es ideal tener precios diferenciados para cada caso de compra.

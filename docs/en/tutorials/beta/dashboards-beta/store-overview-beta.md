@@ -13,6 +13,7 @@ slugEN: store-overview-beta
 legacySlug: store-overview-beta
 locale: en
 subcategoryId: QPnz120TdtLcXSh65c4Gs
+order: 1
 ---
 
 > ℹ️ The updated version of the Store Overview (beta) page is available for use free of charge on the VTEX Admin during the beta phase or until stipulated by VTEX. It is important to note that charges may apply in the future. For the time being, the current version of the Store Overview page on the VTEX Admin will continue to be available.

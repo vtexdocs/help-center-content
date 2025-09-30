@@ -13,6 +13,7 @@ slugEN: what-is-order-configuration
 legacySlug: what-is-order-configuration
 locale: en
 subcategoryId: 1GujN7Pa7NESCz0sB8srX4
+order: 1
 ---
 
 B2B configurations are different from those of B2C. As orders can be placed with several purposes, such as resale or personal consumption, you should have different prices for each purchase case.

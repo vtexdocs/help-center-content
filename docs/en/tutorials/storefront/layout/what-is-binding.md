@@ -13,6 +13,7 @@ slugEN: what-is-binding
 legacySlug: what-is-binding
 locale: en
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
+order: 2
 ---
 
 Website binding is what bridges the CMS (Portal) with the information defined in the License Manager for a specific account name.

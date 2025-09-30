@@ -13,6 +13,7 @@ slugEN: what-is-a-product
 legacySlug: o-que-e-um-produto
 locale: pt
 subcategoryId: pwxWmUu7T222QyuGogs68
+order: 1
 ---
 
 __O Produto é uma definição mais genérica de algo que é disponibilizado na sua loja__, como Camisa, Geladeira, Estante. Hierarquicamente, o Produto está abaixo de uma Categoria.

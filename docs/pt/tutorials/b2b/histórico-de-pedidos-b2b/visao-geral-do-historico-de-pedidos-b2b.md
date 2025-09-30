@@ -13,6 +13,7 @@ slugEN: overview-of-b2b-orders-history
 legacySlug: visao-geral-do-historico-de-pedidos-b2b
 locale: pt
 subcategoryId: 2LaAukjQB4QEbqSYdgjq7l
+order: 1
 ---
 
 Em uma [operação B2B](/pt/tutorial/b2b-visao-geral--5vb9SNXhX2bZnkpAh7ADdC), múltiplos usuários dentro de uma mesma organização realizam pedidos em nome da empresa. O aplicativo **Histórico de Pedidos B2B** foi desenvolvido para atender a essas necessidades específicas, permitindo que os usuários visualizem e gerenciem pedidos de forma integrada e colaborativa.

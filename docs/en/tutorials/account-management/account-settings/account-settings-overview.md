@@ -13,6 +13,7 @@ slugEN: account-settings-overview
 legacySlug: account-settings-overview
 locale: en
 subcategoryId: 1Y8OlvUk7MDhJzmD6Hk6S6
+order: 1
 ---
 
 Every VTEX client receives an account that has access to the Admin, where you can manage important aspects of your ecommerce.

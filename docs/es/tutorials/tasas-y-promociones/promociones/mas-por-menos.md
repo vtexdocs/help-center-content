@@ -3,8 +3,8 @@ title: 'Crear promoción Más por Menos'
 id: tutorials_325
 status: PUBLISHED
 createdAt: 2017-04-27T22:08:17.186Z
-updatedAt: 2025-03-18T10:40:50.841Z
-publishedAt: 2025-03-18T10:40:50.841Z
+updatedAt: 2025-09-30T13:52:31.023Z
+publishedAt: 2025-09-30T13:52:31.023Z
 firstPublishedAt: 2017-04-27T23:03:15.551Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -56,6 +56,9 @@ Define si la promoción se aplicará a todos tus sellers o solo a sellers espec�
 - **Todos:** la promoción se aplicará a todos los sellers registrados. Utiliza esta opción cuando desees que todos los productos de todos los sellers formen parte de la campaña.
 - **Iguales a:** selecciona esta opción para aplicar la promoción a sellers específicos solamente. Después de escoger "Iguales a", tendrás la opción de seleccionar los sellers deseados en el campo inferior. Solo los productos de los sellers seleccionados se incluirán en la campaña.
 - **Diferentes de:** selecciona esta opción para eliminar sellers específicos de la promoción. Después de escoger "Diferentes de", tendrás la opción de seleccionar los sellers que no deseas incluir en la campaña. Se incluirán todos los demás sellers.
+- **Participantes**: con esta configuración, la promoción funciona en modo opt-in, lo que significa que la participación de los sellers se gestiona a través del endpoint [Seller opt-in or opt-out](https://developers.vtex.com/docs/api-reference/promotions-and-taxes-api#post-/api/rnb/pvt/calculatorconfiguration/-promotionId-/seller-opt). En esta API, puedes definir qué sellers deben ser incluidos o excluidos de la promoción.
+
+Para obtener más información, consulta [Seller Opt-in for Promotions](https://developers.vtex.com/docs/guides/seller-opt-in-promotions).
 
 ### Seleccionar políticas comerciales para aplicar el descuento
 Selecciona las políticas comerciales en las que se aplicará el descuento. Puedes ofrecer descuentos para políticas comerciales en las que [tu tienda opera como marketplace](/es/faq/o-que-e-um-marketplace) (mi tienda) o como seller (tiendas de terceros - fulfillment).

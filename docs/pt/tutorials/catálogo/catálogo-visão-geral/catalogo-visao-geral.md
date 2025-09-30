@@ -13,6 +13,7 @@ slugEN: catalog-overview
 legacySlug: catalogo-visao-geral
 locale: pt
 subcategoryId: 6jaCCq5pVL7VxL0WNWV0cF
+order: 1
 ---
 
 ![Overview do catálogo (capa)](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/cat%C3%A1logo/cat%C3%A1logo-vis%C3%A3o-geral/catalogo-visao-geral_1.jpg)

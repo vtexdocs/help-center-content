@@ -13,6 +13,7 @@ slugEN: what-is-an-affiliate
 legacySlug: o-que-e-afiliado
 locale: pt
 subcategoryId: 1qvm3kIrt6KA6IeGc4EQ6k
+order: 1
 ---
 
 > ℹ️ O conceito de afiliado da VTEX é diferente da [definição usual](https://pt.wikipedia.org/wiki/Programa_de_afiliados). Leia abaixo para saber mais.

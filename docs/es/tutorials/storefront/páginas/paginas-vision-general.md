@@ -13,6 +13,7 @@ slugEN: pages-overview
 legacySlug: paginas-vision-general
 locale: es
 subcategoryId: 1znnjA17XqaUNdNFr42PW5
+order: 1
 ---
 
 En la sección **Páginas** puedes encontrar todas las rutas de URL y las correspondientes plantillas de página del sitio web de tu tienda, como las páginas de inicio, de productos y de inicio de sesión. También puedes crear y asociar páginas personalizadas a plantillas predefinidas y gestionar páginas creadas directamente en el código fuente de tu proyecto de storefront. 

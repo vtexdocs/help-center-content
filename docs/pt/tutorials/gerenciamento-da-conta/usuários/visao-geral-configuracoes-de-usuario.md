@@ -13,6 +13,7 @@ slugEN: user-settings-overview
 legacySlug: visao-geral-configuracoes-de-usuario
 locale: pt
 subcategoryId: 63DHe3VQEEE6Uuua8gIs2M
+order: 1
 ---
 
 *Configurações de usuário* são o conjunto de configurações aplicadas ao seu perfil pessoal no Admin, e não relacionadas à sua loja ou conta do seu negócio na VTEX. Para acessar essa página, clique no **avatar do seu perfil**, marcado pela inicial do seu email, e clique no botão **Configurações do usuário**. 

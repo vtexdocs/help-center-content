@@ -13,6 +13,7 @@ slugEN: what-is-the-store-name
 legacySlug: o-que-e-store-name
 locale: pt
 subcategoryId: yMp6sKDiJEi66CGAIQ4ma
+order: 1
 ---
 
 O __store name__ é a identificação de uma loja na plataforma VTEX. Ele funciona como um subaccount da conta principal (também chamada de [__account name__](/pt/tutorial/o-que-e-account-name)), estando subordinado a ela. 

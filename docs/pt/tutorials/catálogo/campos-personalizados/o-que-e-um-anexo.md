@@ -13,6 +13,7 @@ slugEN: what-is-an-attachment
 legacySlug: o-que-e-um-anexo
 locale: pt
 subcategoryId: 1hoOi2R0Rm6ky0yCwOUoiy
+order: 2
 ---
 
 Um anexo é a customização, opcional e sem custo, de um produto. Ele é utilizado para adicionar uma informação a um SKU. Essa informação pode ser relacionada a um [serviço](/pt/tutorial/o-que-e-um-servico) ou ao próprio item comprado.

@@ -13,6 +13,7 @@ slugEN: b2b-overview
 legacySlug: overview
 locale: en
 subcategoryId: 1PSq4adEARlFaK5Mdv74Y7
+order: 1
 ---
 
 In ecommerce, business models are commonly divided into two groups: B2C (Business to Consumer) and B2B (Business to Business).

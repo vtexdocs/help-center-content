@@ -13,6 +13,7 @@ slugEN: what-is-the-shared-cart
 legacySlug: what-is-the-shared-cart
 locale: en
 subcategoryId: 8AGXmtpbTqUE2KQu0Swwk
+order: 2
 ---
 
 The shared cart is the tool that allows more than one user to manage the same cart, adding, removing or updating items and information from it. Through this functionality, your customer receives greater autonomy when making a purchase, and your store acquires:

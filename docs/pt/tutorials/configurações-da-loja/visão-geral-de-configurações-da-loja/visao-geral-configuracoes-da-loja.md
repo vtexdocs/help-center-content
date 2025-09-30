@@ -13,6 +13,7 @@ slugEN: store-settings-overview
 legacySlug: visao-geral-configuracoes-da-loja
 locale: pt
 subcategoryId: 5RAUzLD6X9Wa1maenj1eGA
+order: 1
 ---
 
 **Configurações da Loja** são as configurações aplicadas à sua loja, o que inclui o seu storefront. Elas estão agrupadas na seção __Configurações da Loja__, no menu de navegação esquerdo do Admin VTEX. Aqui, você pode acessar as configurações aplicadas às seguintes seções: Pagamentos, Pedidos, Templates de Email, Produtos, Storefront, Canais e Intelligent Search.

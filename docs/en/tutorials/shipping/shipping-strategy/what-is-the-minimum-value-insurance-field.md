@@ -13,6 +13,7 @@ slugEN: what-is-the-minimum-value-insurance-field
 legacySlug: what-is-the-minimum-value-insurance-field
 locale: en
 subcategoryId: 7fTH6bP0C4IaM8qWi0kkQC
+order: 1
 ---
 
 The Minimum Value Insurance is a field of the freight table imported into the carrier, which works as a kind of insurance, based on the value of the products, taking into account the additional per price column. If the additional per price is less than the Minimum Value Insurance, you must consider the Minimum Value Insurance instead of the additional, and add it to the absolute value of the freight.

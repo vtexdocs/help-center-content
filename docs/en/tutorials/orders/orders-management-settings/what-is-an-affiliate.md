@@ -13,6 +13,7 @@ slugEN: what-is-an-affiliate
 legacySlug: what-is-affiliate
 locale: en
 subcategoryId: 1qvm3kIrt6KA6IeGc4EQ6k
+order: 1
 ---
 
 > ℹ️ Affiliates in VTEX are different from the [usual definition](https://en.wikipedia.org/wiki/Affiliate_marketing). Read below to learn more.

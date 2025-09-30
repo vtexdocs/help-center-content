@@ -13,6 +13,7 @@ slugEN: apps-overview
 legacySlug: apps-overview
 locale: en
 subcategoryId: 3e2VLdLao8GGk4sAmMmwmi
+order: 1
 ---
 
 A VTEX app extends the functionalities of the VTEX platform, helping merchants create comprehensive experiences for different layers of digital commerce, such as:

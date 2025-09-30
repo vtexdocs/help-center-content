@@ -13,6 +13,7 @@ slugEN: what-is-a-franchise-account
 legacySlug: o-que-e-conta-franquia
 locale: pt
 subcategoryId: 3vhg10rO4MSmy06KeIYMIa
+order: 1
 ---
 
 Na plataforma VTEX, você tem a opção de cadastrar lojas físicas, franqueados e representantes da sua rede como contas franquia. Essa é uma forma de expandir sua estratégia de [Comércio Unificado](/pt/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv/2LGAiUnHES1enjHsfi8fI3) ou Omnichannel.

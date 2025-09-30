@@ -13,6 +13,7 @@ slugEN: marketplace-overview
 legacySlug: vision-general-marketplace
 locale: es
 subcategoryId: Se4oi5LroIII2Ei0uGAoE
+order: 1
 ---
 
 Un _marketplace_ es una plataforma virtual a través de la cual diferentes vendedores anuncian sus productos. El _marketplace_ es la vitrina donde se mostrarán los productos y también el lugar donde se hará el pedido. A los vendedores que anuncian allí se les llama _sellers_. Además de ser propietarios de los productos, también son responsables de entregar los productos a los clientes. El conjunto de operaciones y actividades realizadas por el _seller_, desde que recibe el pedido hasta la entrega del producto, se denomina _fulfillment_.

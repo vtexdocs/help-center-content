@@ -13,6 +13,7 @@ slugEN: billing-module-overview
 legacySlug: vision-general-del-modulo-facturas
 locale: es
 subcategoryId: 31ICVopiWZfSTdr9jZMShb
+order: 1
 ---
 
 **Facturación** es la página en la que gestionas todos los aspectos financieros de tu cuenta VTEX. Solo está disponible para usuarios con un [rol Financiero](/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc). Para ver, editar o realizar cualquier acción en esta página, solicita permiso al propietario de la tienda. 

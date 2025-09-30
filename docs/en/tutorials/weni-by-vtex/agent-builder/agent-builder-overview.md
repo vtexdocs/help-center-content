@@ -13,6 +13,7 @@ slugEN: agent-builder-overview
 legacySlug: agent-builder-overview
 locale: en
 subcategoryId: 3TASbcSqDuDZwmgDLc0O5I
+order: 1
 ---
 
 **Agent Builder** is a customer conversation tool powered by artificial intelligence. With this feature, you can customize agents to interact with customers, letting them request information about orders in progress, the store catalog, or order cancellations, for example.

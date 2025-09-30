@@ -13,6 +13,7 @@ slugEN: orders-overview
 legacySlug: oms-overview
 locale: en
 subcategoryId: 3VNOhxDrvYxJThhuJClrYZ
+order: 1
 ---
 
 Each purchase on your VTEX store generates at least one order. During the post-purchase process, the platform offers resources that allow you to manage several aspects of the orders, such as products, transactions, shipping, and subscription information. You can find these features in the **Orders** menu.

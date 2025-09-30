@@ -13,6 +13,7 @@ slugEN: overview-of-rankings
 legacySlug: overview-of-rankings
 locale: en
 subcategoryId: 2basvwwwR3pbjG1BxlHqrc
+order: 2
 ---
 
 > ℹ️ This content is only available in Portuguese. [Click here](/pt/tutorial/visao-geral-de-rankings--4RvFFupPtvjKmV8eviDzk5) to access it.
