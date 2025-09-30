@@ -13,6 +13,7 @@ slugEN: overview-of-rankings
 legacySlug: visao-geral-de-rankings
 locale: pt
 subcategoryId: 2basvwwwR3pbjG1BxlHqrc
+order: 2
 ---
 
 O recurso de **Rankings** permite criar competições entre vendedores ou lojas, estimulando a performance em um ambiente saudável.  

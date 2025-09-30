@@ -13,6 +13,7 @@ slugEN: media-overview
 legacySlug: media-overview
 locale: en
 subcategoryId: 27t6x0lngvjI3bnUg5AgEO
+order: 2
 ---
 
 Media is a feature responsible for managing your store's media files, such as images and videos. For images, you can upload and organize files up to 5 MB in the following formats: `png`, `jpg`, `gif`, `svg` and `webp`. For videos, you can add a URL to the externally hosted video provider, e.g. YouTube or Vimeo.

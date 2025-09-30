@@ -13,6 +13,7 @@ slugEN: what-is-a-web-site
 legacySlug: o-que-e-um-web-site
 locale: pt
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
+order: 1
 ---
 
 Um __web site__ é composto por uma estrutura de pastas e arquivos, que vão compor as páginas e definir o conteúdo que será exibido para quem acessar seu endereço. 

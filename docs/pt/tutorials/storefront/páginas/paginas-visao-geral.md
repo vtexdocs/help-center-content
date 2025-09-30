@@ -13,6 +13,7 @@ slugEN: pages-overview
 legacySlug: paginas-visao-geral
 locale: pt
 subcategoryId: 1znnjA17XqaUNdNFr42PW5
+order: 1
 ---
 
 Na seção **Páginas**, você pode encontrar todas as rotas de URL e os modelos de página do site da sua loja, como a página inicial, de produto e de login. Você também pode criar e associar páginas personalizadas a modelos predefinidos e gerenciar páginas criadas diretamente no código-fonte do seu projeto de storefront.

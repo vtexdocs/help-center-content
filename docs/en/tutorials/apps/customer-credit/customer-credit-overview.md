@@ -13,6 +13,7 @@ slugEN: customer-credit-overview
 legacySlug: credit-control-overview
 locale: en
 subcategoryId: 7EWKfPIGfmI0G8iMYK8Aiy
+order: 1
 ---
 
 Customer Credit is the VTEX app that allows a store to offer exclusive credit to its trusted customers, increasing purchasing power by allowing a longer period for payment of orders.

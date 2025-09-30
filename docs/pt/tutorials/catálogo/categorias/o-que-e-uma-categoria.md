@@ -13,6 +13,7 @@ slugEN: what-is-a-category
 legacySlug: o-que-e-uma-categoria
 locale: pt
 subcategoryId: 1E7tziZCkY4w8i4EmUuwec
+order: 2
 ---
 
 A Categoria é o segundo nível de categorização da sua loja, logo abaixo do nível Departamento. Categorias são formas de classificação ou organização para apresentar os produtos da sua loja. 

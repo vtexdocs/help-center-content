@@ -3,8 +3,8 @@ title: 'How the progressive discount promotion  works'
 id: tutorials_324
 status: PUBLISHED
 createdAt: 2017-04-27T22:08:26.447Z
-updatedAt: 2025-08-22T14:57:47.483Z
-publishedAt: 2025-08-22T14:57:47.483Z
+updatedAt: 2025-09-30T13:50:03.053Z
+publishedAt: 2025-09-30T13:50:03.053Z
 firstPublishedAt: 2017-04-27T23:03:15.195Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -56,6 +56,9 @@ Select one of the following options for applying the promotion:
 - **All:** The promotion will be applied to all sellers. Use this option if you want all products from all sellers to be part of the campaign.
 - **Same as:** The promotion will only be applied to specific sellers. After selecting this option, complete the field that will display the names of the desired sellers.
 - **Different from:** Define the sellers that will not be affected by this promotion. After selecting "Different from", you can choose the sellers you don't want to include in the campaign. All other sellers will be included.
+- **Participants**: with this configuration, the promotion works in opt-in mode, meaning seller participation is managed through the [Seller opt-in or opt-out](https://developers.vtex.com/docs/api-reference/promotions-and-taxes-api#post-/api/rnb/pvt/calculatorconfiguration/-promotionId-/seller-opt). In this API, you can define which sellers should be included in or removed from the promotion.
+
+For more information, see [Seller Opt-in for Promotions](https://developers.vtex.com/docs/guides/seller-opt-in-promotions).
 
 ### Trade policies
 In the right-hand corner of the page, in the section **Trade policies**, select the trade policies valid for the discount. You can give discounts for trade policies when [your store acts as a marketplace](/en/faq/o-que-e-um-marketplace) (**My store**) or as a seller (**Third-party stores - Fulfillment**).

@@ -13,6 +13,7 @@ slugEN: checkout-vtex-overview
 legacySlug: checkout-vtex-overview
 locale: en
 subcategoryId: 8AGXmtpbTqUE2KQu0Swwk
+order: 1
 ---
 
 In the online purchase process, Checkout is the last step and is also considered to be one of the most important for a store's sales conversion rate. At VTEX, the Checkout module is responsible for the following:

@@ -23,7 +23,7 @@ tags:
 
 Quando ocorre um erro de integração em pedidos entre um marketplace e o Mercado Livre, uma mensagem de erro é informada em cada pedido.   
 
-Os pedidos apresentam erros de integração por **ID de Loja Oficial no Mercado Livre** cadastrado incorretamente ou por **Categorias inexistentes no Mercado Livre**. Para verificar se um pedido contém erros de integração, no Admin VTEX, acesse**Marketplace > Conexões > Pedidos** ou digite **Pedidos** na barra de busca.  
+Os pedidos apresentam erros de integração por **ID de Loja Oficial no Mercado Livre** cadastrado incorretamente ou por **Categorias inexistentes no Mercado Livre**. Para verificar se um pedido contém erros de integração, no Admin VTEX, acesse **Marketplace > Conexões > Pedidos** ou digite **Pedidos** na barra de busca.  
 
 ## Solução
 

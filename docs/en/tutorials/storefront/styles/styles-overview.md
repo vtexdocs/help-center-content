@@ -13,6 +13,7 @@ slugEN: styles-overview
 legacySlug: styles-overview
 locale: en
 subcategoryId: 5HsDDU48ZP58JHWU3WbCPc
+order: 1
 ---
 
 The **Styles** page allows you to define the typography and color palette of your store’s website.

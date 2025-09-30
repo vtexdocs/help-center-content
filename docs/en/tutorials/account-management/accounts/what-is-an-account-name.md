@@ -13,6 +13,7 @@ slugEN: what-is-an-account-name
 legacySlug: what-is-an-account-name
 locale: en
 subcategoryId: yMp6sKDiJEi66CGAIQ4ma
+order: 1
 ---
 
 An __account name__ is your business identification on the VTEX system. 

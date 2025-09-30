@@ -3,8 +3,8 @@ title: 'Criar promoção Compre Junto'
 id: tutorials_323
 status: PUBLISHED
 createdAt: 2017-04-27T22:08:34.791Z
-updatedAt: 2025-02-24T16:17:27.631Z
-publishedAt: 2025-02-24T16:17:27.631Z
+updatedAt: 2025-09-30T13:55:10.549Z
+publishedAt: 2025-09-30T13:55:10.549Z
 firstPublishedAt: 2017-04-27T23:03:15.238Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -77,6 +77,9 @@ Defina se a promoção será aplicada a todos os sellers ou apenas a sellers esp
 - **Todos:** a promoção será aplicada a todos os sellers cadastrados. Use essa opção quando quiser que todos os produtos, de todos os sellers, façam parte da campanha.
 - **Iguais a:** selecione esta opção para incluir apenas sellers específicos na promoção. Após selecionar "Iguais a", você poderá escolher os sellers desejados no campo abaixo. Somente os sellers selecionados terão seus produtos incluídos na campanha.
 - **Diferentes de:** selecione esta opção para excluir sellers específicos da promoção. Após escolher "Diferentes de", você poderá selecionar os sellers que *não deseja incluir* na campanha. Todos os demais sellers estarão incluídos.
+- **Participantes**: com esta configuração, a promoção funciona no modo opt-in, em que a participação dos sellers é gerenciada por meio do [Seller opt-in or opt-out](https://developers.vtex.com/docs/api-reference/promotions-and-taxes-api#post-/api/rnb/pvt/calculatorconfiguration/-promotionId-/seller-opt). Nessa API, você pode definir quais sellers devem participar ou ser removidos da promoção.
+
+Para mais informações, acesse [Seller Opt-in for Promotions](https://developers.vtex.com/docs/guides/seller-opt-in-promotions)
 
 ### Selecionar políticas comerciais para aplicar o desconto
 

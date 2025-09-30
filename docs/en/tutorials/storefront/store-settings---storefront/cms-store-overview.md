@@ -13,6 +13,7 @@ slugEN: cms-store-overview
 legacySlug: cms-store-overview
 locale: en
 subcategoryId: 7ogirQ8NClawO2X6xdgCKc
+order: 1
 ---
 
 The **Store** page allows you to set up your SEO configurations, enable performance optimization flags, and edit your store's PWA settings.

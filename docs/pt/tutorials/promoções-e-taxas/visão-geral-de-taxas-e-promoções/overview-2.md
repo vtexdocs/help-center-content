@@ -13,6 +13,7 @@ slugEN: overview-pricing-module
 legacySlug: overview-2
 locale: pt
 subcategoryId: 18wHIuEV5wc6xUjeWKq9Xc
+order: 1
 ---
 
 As configurações de promoções e taxas que atuarão na sua loja online são realizadas no módulo Promoções e Taxas. Nele também é possível criar cupons para serem associados às promoções. De acordo com a configuração, cada promoção pode ser agendada, ativada ou inativada. Depois de criadas, elas podem ser encontradas por meio de busca ou filtro, e podem ser arquivadas.

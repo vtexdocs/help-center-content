@@ -13,6 +13,7 @@ slugEN: marketplace-overview
 legacySlug: marketplace-overview
 locale: en
 subcategoryId: Se4oi5LroIII2Ei0uGAoE
+order: 1
 ---
 
 A marketplace is a virtual platform where different sellers offer their products. It is where products are displayed and where orders are placed. Sellers who list their products in a marketplace are also responsible for delivering them to customers. The set of operations and activities performed by the seller, from receiving the order to delivering the product, is called fulfillment.

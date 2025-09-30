@@ -13,6 +13,7 @@ slugEN: headless-cms-overview
 legacySlug: headless-cms-visao-geral
 locale: pt
 subcategoryId: 27t6x0lngvjI3bnUg5AgEO
+order: 1
 ---
 
 O Headless CMS é um sistema de gerenciamento de conteúdo desenvolvido pela VTEX para proporcionar às empresas a flexibilidade de criar e disponibilizar conteúdo em diferentes canais, como sites e aplicativos móveis.

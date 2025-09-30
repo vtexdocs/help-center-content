@@ -13,6 +13,7 @@ slugEN: what-is-the-shared-cart
 legacySlug: o-que-e-o-carrinho-compartilhado
 locale: pt
 subcategoryId: 8AGXmtpbTqUE2KQu0Swwk
+order: 3
 ---
 
 O carrinho compartilhado é a ferramenta que permite a mais de um usuário gerenciar o mesmo carrinho, adicionando, retirando ou atualizando itens e informações dele. Por meio desta funcionalidade, o seu cliente recebe maior autonomia no momento de realizar a compra, e a sua loja adquire:

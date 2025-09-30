@@ -13,6 +13,7 @@ slugEN: what-is-a-service
 legacySlug: what-is-a-service
 locale: en
 subcategoryId: 1hoOi2R0Rm6ky0yCwOUoiy
+order: 1
 ---
 
 A service is an item that may come with a product, optionally and with cost. It is used to assign a value, often emotional, but also of an additional service itself to an SKU. For example, a gift packaging, a distinctive ribbon, a gift card or a product installation.

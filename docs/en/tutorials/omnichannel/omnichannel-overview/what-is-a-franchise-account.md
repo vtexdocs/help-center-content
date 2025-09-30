@@ -13,6 +13,7 @@ slugEN: what-is-a-franchise-account
 legacySlug: what-is-a-franchise-account
 locale: en
 subcategoryId: 3vhg10rO4MSmy06KeIYMIa
+order: 1
 ---
 
 On the VTEX platform, you have the option to register physical stores, franchisees and representatives of your network as franchise accounts. This is one way to expand your [Unified Commerce](/en/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv/2LGAiUnHES1enjHsfi8fI3) or Omnichannel strategy.

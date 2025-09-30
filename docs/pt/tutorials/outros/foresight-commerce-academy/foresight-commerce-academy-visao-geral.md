@@ -13,6 +13,7 @@ slugEN: foresight-commerce-academy-overview
 legacySlug: foresight-commerce-academy-visao-geral
 locale: pt
 subcategoryId: 3iMVZhX9ZJ3DKhyU2zn4GB
+order: 1
 ---
 
 [Foresight Commerce Academy](https://member.commerceacademy.org/login) é uma plataforma educacional promovida pela VTEX destinada a compartilhar conhecimento sobre diversos temas relacionados a negócios, arquitetura e tecnologia VTEX.

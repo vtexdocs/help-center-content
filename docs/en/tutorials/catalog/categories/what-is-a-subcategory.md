@@ -13,6 +13,7 @@ slugEN: what-is-a-subcategory
 legacySlug: what-is-a-subcategory
 locale: en
 subcategoryId: 1E7tziZCkY4w8i4EmUuwec
+order: 3
 ---
 
 The Subcategory is the third level of categorization for your store, below Department and Category levels. 

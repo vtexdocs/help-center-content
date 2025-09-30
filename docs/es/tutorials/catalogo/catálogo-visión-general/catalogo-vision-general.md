@@ -13,6 +13,7 @@ slugEN: catalog-overview
 legacySlug: catalogo-vision-general
 locale: es
 subcategoryId: 6jaCCq5pVL7VxL0WNWV0cF
+order: 1
 ---
 
 ![Catalogo overview (tapa)](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/cat%C3%A1logo-visi%C3%B3n-general/catalogo-vision-general_1.jpg)

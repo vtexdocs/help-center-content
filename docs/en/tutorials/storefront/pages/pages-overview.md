@@ -13,6 +13,7 @@ slugEN: pages-overview
 legacySlug: pages-overview
 locale: en
 subcategoryId: 1znnjA17XqaUNdNFr42PW5
+order: 1
 ---
 
 In the **Pages** section you can find all URL routes and corresponding page templates of your store’s website, such as home, product, and login pages. You can also create and associate custom pages to predefined templates and manage pages created directly in the source code of your storefront project. 

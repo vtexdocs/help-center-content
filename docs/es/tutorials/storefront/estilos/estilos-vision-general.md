@@ -13,6 +13,7 @@ slugEN: styles-overview
 legacySlug: estilos-vision-general
 locale: es
 subcategoryId: 5HsDDU48ZP58JHWU3WbCPc
+order: 1
 ---
 
 La página **Estilos** te permite definir la tipografía y la paleta de colores del sitio web de tu tienda.

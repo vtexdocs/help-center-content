@@ -13,6 +13,7 @@ slugEN: what-is-the-period-considered-for-calculating-my-billing
 legacySlug: what-is-the-period-considered-for-calculating-my-billing
 locale: en
 subcategoryId: 5ZfsNR4ioEsIyu6wkyce0M
+order: 1
 ---
 
 VTEX charges are always made on an __in arrears basis__. 

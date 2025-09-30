@@ -13,6 +13,7 @@ slugEN: what-is-the-difference-between-sales-policy-affiliate-and-seller
 legacySlug: what-is-the-difference-between-sales-policy-affiliate-and-seller
 locale: en
 subcategoryId: 6J3wx7KM4oysymsWuUACyY
+order: 1
 ---
 
 ## Sales Policy

@@ -13,6 +13,7 @@ slugEN: what-is-the-difference-between-product-and-sku
 legacySlug: what-is-the-difference-between-product-and-sku
 locale: en
 subcategoryId: pwxWmUu7T222QyuGogs68
+order: 3
 ---
 
 The product is a generic definition of something that is made available in your store, such as "Shirt". Stock Keeping Units (SKUs) are the variations of this product.

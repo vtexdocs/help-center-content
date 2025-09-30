@@ -13,6 +13,7 @@ slugEN: what-is-an-sku
 legacySlug: what-is-an-sku
 locale: en
 subcategoryId: pwxWmUu7T222QyuGogs68
+order: 2
 ---
 
 First, let's make clear what the acronym SKU means. From the English *Stock Keeping Unit*, it is the physical unit of the product. This means that __the SKU is the variation of the product__. It contains the characteristics that make it a specific type of product.

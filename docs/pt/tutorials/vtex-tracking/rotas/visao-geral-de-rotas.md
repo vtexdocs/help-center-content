@@ -13,6 +13,7 @@ slugEN: routes
 legacySlug: visao-geral-de-rotas
 locale: pt
 subcategoryId: 6a36lWUX5znjBVYTrfc29x
+order: 1
 ---
 
 A rota é o trajeto a ser percorrido pelo portador para que a entrega dos pacotes seja  realizada. 

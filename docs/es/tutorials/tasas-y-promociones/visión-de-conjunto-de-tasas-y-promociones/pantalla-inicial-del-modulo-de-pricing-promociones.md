@@ -13,6 +13,7 @@ slugEN: overview-pricing-module
 legacySlug: pantalla-inicial-del-modulo-de-pricing-promociones
 locale: es
 subcategoryId: 18wHIuEV5wc6xUjeWKq9Xc
+order: 1
 ---
 
 La configuración de las promociones y las tarifas que funcionan en su tienda online se realizan en el módulo Tasas y Promociones. En él también es posible crear cupones para ser asociados a las promociones. De acuerdo con la configuración, cada promoción puede ser programada, activada o inactivada. Una vez creadas, pueden ser encontradas por medio de búsqueda o filtro y ser archivadas.

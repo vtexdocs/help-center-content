@@ -13,6 +13,7 @@ slugEN: cms-store-overview
 legacySlug: cms-loja-visao-geral
 locale: pt
 subcategoryId: 7ogirQ8NClawO2X6xdgCKc
+order: 1
 ---
 
 A página **Loja** permite que você realize configurações de SEO, habilite flags de otimização de desempenho e edite as configurações de PWA da sua loja.

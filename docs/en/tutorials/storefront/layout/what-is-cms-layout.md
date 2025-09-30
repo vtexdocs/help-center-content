@@ -13,6 +13,7 @@ slugEN: what-is-cms-layout
 legacySlug: what-is-cms
 locale: en
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
+order: 1
 ---
 
 <div style="background-color:#cfe2ff; border-left: 2px solid #084298; border-top-left-radius: 2px; border-bottom-left-radius: 2px; margin-bottom: 10px; padding: 15px">

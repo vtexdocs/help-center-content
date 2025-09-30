@@ -13,6 +13,7 @@ slugEN: customer-credit-overview
 legacySlug: credit-control-vision-general
 locale: es
 subcategoryId: 7EWKfPIGfmI0G8iMYK8Aiy
+order: 1
 ---
 
 Customer Credit es la aplicación de VTEX que permite a una tienda ofrecer crédito exclusivo a sus clientes de confianza, aumentando el poder adquisitivo al permitir un mayor plazo de pago de los pedidos.

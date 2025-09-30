@@ -13,6 +13,7 @@ slugEN: intelligent-search-overview
 legacySlug: intelligent-search-vision-general
 locale: es
 subcategoryId: l3DubpOCHBfKyF2ueg2Vs
+order: 1
 ---
 
 > ℹ️ Intelligent Search está disponible para tiendas desarrolladas con: <ul> <li>[Store Framework](https://developers.vtex.com/docs/guides/store-framework)</li> <li>[FastStore](https://developers.vtex.com/docs/guides/faststore) <li>[Implementaciones headless](https://developers.vtex.com/docs/api-reference/intelligent-search-events-api-headless) </ul>

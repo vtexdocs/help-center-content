@@ -3,8 +3,8 @@ title: 'Cómo funciona la promoción Compre y gane'
 id: tutorials_322
 status: PUBLISHED
 createdAt: 2017-04-27T22:08:41.148Z
-updatedAt: 2025-02-24T16:17:50.979Z
-publishedAt: 2025-02-24T16:17:50.979Z
+updatedAt: 2025-09-30T13:53:58.091Z
+publishedAt: 2025-09-30T13:53:58.091Z
 firstPublishedAt: 2017-04-27T23:03:14.992Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -51,6 +51,9 @@ En esta sección puedes definir los sellers a los que se aplicará la promoción
 - **Todos:** la promoción se aplicará a todos los sellers registrados. Utiliza esta opción cuando deseas que todos los productos de todos los sellers formen parte de la campaña.
 - **Iguales a:** selecciona esta opción para aplicar la promoción a sellers específicos solamente. Después de escoger "Iguales a", tendrás la opción de seleccionar los sellers deseados en el campo inferior. Solo los productos de los sellers seleccionados se incluirán en la campaña.
 - **Diferentes de:** selecciona esta opción para excluir sellers específicos de la promoción. Después de escoger "Diferentes de", tendrás la opción de seleccionar los sellers que no deseas incluir en la campaña. Se incluirán todos los demás sellers.
+- **Participantes**: con esta configuración, la promoción funciona en modo *opt-in*, lo que significa que la participación de los sellers se gestiona a través del endpoint [Seller opt-in or opt-out](https://developers.vtex.com/docs/api-reference/promotions-and-taxes-api#post-/api/rnb/pvt/calculatorconfiguration/-promotionId-/seller-opt). En esta API, puedes definir qué sellers deben ser incluidos o excluidos de la promoción.
+
+Para obtener más información, consulta [Seller Opt-in for Promotions](https://developers.vtex.com/docs/guides/seller-opt-in-promotions).
 
 ![Seller-ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/tasas-y-promociones/promociones/como-funciona-la-promocion-compre-y-gane_7.png)
 

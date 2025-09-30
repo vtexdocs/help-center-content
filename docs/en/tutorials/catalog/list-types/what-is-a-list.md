@@ -13,6 +13,7 @@ slugEN: what-is-a-list
 legacySlug: what-is-a-list
 locale: en
 subcategoryId: 6aeeWirCBUwwCmeIWOgIWs
+order: 1
 ---
 
 > ⚠️ The **List** feature is exclusive to stores that use Legacy CMS Portal.

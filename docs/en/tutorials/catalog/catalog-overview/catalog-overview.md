@@ -13,6 +13,7 @@ slugEN: catalog-overview
 legacySlug: catalog-overview
 locale: en
 subcategoryId: 6jaCCq5pVL7VxL0WNWV0cF
+order: 1
 ---
 
 ![Catalog overview (header)](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/catalog-overview/catalog-overview_1.jpg)

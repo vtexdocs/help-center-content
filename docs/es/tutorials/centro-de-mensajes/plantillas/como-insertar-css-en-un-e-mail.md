@@ -13,6 +13,7 @@ slugEN: how-can-i-include-css-code-in-an-email
 legacySlug: como-insertar-css-en-un-e-mail
 locale: es
 subcategoryId: 4D5LrWwlHGmOWMomOaaGee
+order: 1
 ---
 
 Esta regla es válida para cualquier tipo de e-mail, tanto de e-mail marketing como templates del Message Center o Master Data: utilice siempre **CSS inline**.

@@ -13,6 +13,7 @@ slugEN: releases-overview
 legacySlug: releases-overview
 locale: en
 subcategoryId: 3vXj7HrnYK8V5riTOwUuYv
+order: 1
 ---
 
 > ℹ️ The **Releases** is in beta version, which means we are working to improve it. This feature is only available for stores using [FastStore](https://www.faststore.dev/).

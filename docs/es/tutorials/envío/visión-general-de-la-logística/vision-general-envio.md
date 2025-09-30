@@ -13,6 +13,7 @@ slugEN: shipping-overview
 legacySlug: vision-general-envio
 locale: es
 subcategoryId: 63f22GypJIBLnMGh1QZUi0
+order: 1
 ---
 
 La logística en el ecommerce está presente en la experiencia del cliente y en la estrategia de negocio de la tienda, por lo que la configuración logística de tu tienda es fundamental. 

@@ -13,6 +13,7 @@ slugEN: storefront-overview
 legacySlug: visao-geral-storefront
 locale: pt
 subcategoryId: 3PNmhq67KMmGTBSfIWJdcQ
+order: 1
 ---
 
 O Storefront, ou vitrine, é a interface gráfica através da qual os visitantes interagem com o website de uma loja. O Storefront define a experiência do usuário e a identidade visual do website através de componentes gráficos, tipografia e paleta de cores. Estes elementos são customizáveis e podem ser gerenciados através de um Sistema de Gerenciamento de Conteúdo (CMS, do inglês _Content Management System_).

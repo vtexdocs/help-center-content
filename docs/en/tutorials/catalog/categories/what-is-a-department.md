@@ -13,6 +13,7 @@ slugEN: what-is-a-department
 legacySlug: what-is-a-department
 locale: en
 subcategoryId: 1E7tziZCkY4w8i4EmUuwec
+order: 1
 ---
 
 The Department is the first level of categorization for your store. Departments are sections or sectors that classify the areas of your business. When classifying or organizing your e-commerce, it's recommended that you present your products through the following hierarchical levels: Department, Category and Subcategory.

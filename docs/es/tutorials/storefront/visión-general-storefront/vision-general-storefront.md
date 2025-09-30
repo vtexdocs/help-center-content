@@ -13,6 +13,7 @@ slugEN: storefront-overview
 legacySlug: vision-general-storefront
 locale: es
 subcategoryId: 3PNmhq67KMmGTBSfIWJdcQ
+order: 1
 ---
 
 El _storefront_ es la interfaz gráfica a través de la cual los visitantes interactúan con el sitio web de una tienda. El _storefront_ define la experiencia del usuario y la identidad visual del sitio web a través de los componentes gráficos, la tipografía y la paleta de colores. Estos elementos son personalizables y pueden gestionarse mediante un sistema de gestión de contenidos (CMS).

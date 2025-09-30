@@ -13,6 +13,7 @@ slugEN: b2b-trade-policies-overview
 legacySlug: visao-geral-da-politica-comercial-no-b2b
 locale: pt
 subcategoryId: 3b0iTwoSQZq9m3Z2ezbWLd
+order: 1
 ---
 
 Associar uma [política comercial](/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) à organização é essencial para uma operação B2B. Isso permite a aplicação de regras específicas de preços, descontos e condições de pagamento, proporcionando um gerenciamento personalizado das relações comerciais.

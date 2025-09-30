@@ -13,6 +13,7 @@ slugEN: what-is-a-franchise-account
 legacySlug: que-es-una-cuenta-franquicia
 locale: es
 subcategoryId: 3vhg10rO4MSmy06KeIYMIa
+order: 1
 ---
 
 En la plataforma VTEX, tienes la opción de registrar tiendas físicas, franquiciados y representantes de tu red como cuentas franquicia. Esta es una forma de ampliar tu estrategia de [Comercio Unificado](/es/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv/2LGAiUnHES1enjHsfi8fI3) u _Omnichannel_.

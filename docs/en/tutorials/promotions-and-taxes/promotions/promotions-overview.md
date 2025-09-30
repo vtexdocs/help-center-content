@@ -13,6 +13,7 @@ slugEN: promotions-overview
 legacySlug: promotions-overview
 locale: en
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
+order: 1
 ---
 
 A promotion is a discount granted to the customer on one or more products in the cart or on the shipping cost, or even a gift. On VTEX, the retailer can create a series of rules that, depending on the context of the purchase, will determine if and how the discount will be applied. 

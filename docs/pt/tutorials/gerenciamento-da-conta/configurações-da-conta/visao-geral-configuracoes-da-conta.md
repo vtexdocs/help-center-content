@@ -13,6 +13,7 @@ slugEN: account-settings-overview
 legacySlug: visao-geral-configuracoes-da-conta
 locale: pt
 subcategoryId: 1Y8OlvUk7MDhJzmD6Hk6S6
+order: 1
 ---
 
 Todo contratante da VTEX recebe uma conta que dá acesso ao Admin, onde é possível gerenciar aspectos importantes do seu ecommerce.

@@ -13,6 +13,7 @@ slugEN: orders-overview
 legacySlug: oms-visao-geral
 locale: pt
 subcategoryId: 3VNOhxDrvYxJThhuJClrYZ
+order: 1
 ---
 
 Cada compra na sua loja VTEX gera um pedido no mínimo. Durante o pós-compra, a plataforma disponibiliza recursos para o gerenciamento de pedidos por diversos aspectos, que incluem produtos, transações, informações de envio e assinaturas, entre outros. Você encontra estas funcionalidades no menu **Pedidos**.

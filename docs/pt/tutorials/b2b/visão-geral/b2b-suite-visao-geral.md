@@ -13,6 +13,7 @@ slugEN: b2b-suite-overview
 legacySlug: b2b-suite-visao-geral
 locale: pt
 subcategoryId: 1PSq4adEARlFaK5Mdv74Y7
+order: 2
 ---
 
 

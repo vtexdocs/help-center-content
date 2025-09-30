@@ -13,6 +13,7 @@ slugEN: what-is-an-attachment
 legacySlug: what-is-an-attachment
 locale: en
 subcategoryId: 1hoOi2R0Rm6ky0yCwOUoiy
+order: 2
 ---
 
 An attachment is the optional and cost-free customization of a product. It's used to add information to an SKU. This information may be related to a [service](/en/tutorial/what-is-a-service) or the purchased item itself.

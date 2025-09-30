@@ -13,6 +13,7 @@ slugEN: storefront-overview
 legacySlug: storefront-overview
 locale: en
 subcategoryId: 3PNmhq67KMmGTBSfIWJdcQ
+order: 1
 ---
 
 Storefront is the graphical interface through which visitors interact with a store website. It defines the user experience and the visual identity of the website through graphic components, typography, and color palette. These elements are customizable and can be managed through the Content Management System (CMS).

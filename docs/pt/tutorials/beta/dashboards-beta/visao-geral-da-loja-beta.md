@@ -13,6 +13,7 @@ slugEN: store-overview-beta
 legacySlug: visao-geral-da-loja-beta
 locale: pt
 subcategoryId: QPnz120TdtLcXSh65c4Gs
+order: 1
 ---
 
 > ℹ️ A versão atualizada da página Visão Geral da Loja (Beta) está disponível para uso gratuito no Admin VTEX durante seu período Beta, ou até decidido pela VTEX. É importante observar que podem ser aplicadas taxas extras no futuro. Além disso, a página Visão Geral atualmente presente no Admin VTEX continuará disponível para uso por enquanto.

@@ -56762,6 +56762,21 @@
               "origin": "",
               "type": "markdown",
               "children": []
+            },
+            {
+              "name": {
+                "en": "Worksheet stuck in “To pack” column with status “Packed” after packing confirmation",
+                "es": "Hoja de cálculo atascada en la columna \"Por empaquetar\" con el estado \"Empaquetado\" tras la confirmación de empaquetado.",
+                "pt": "Planilha presa na coluna \"A embalar\" com o status \"Embalado\" após a confirmação da embalagem"
+              },
+              "slug": {
+                "en": "worksheet-stuck-in-to-pack-column-with-status-packed-after-packing-confirmation",
+                "es": "hoja-de-calculo-atascada-en-la-columna-por-empaquetar-con-el-estado-empaquetado-tras-la-confirmacion-de-empaquetado",
+                "pt": "planilha-presa-na-coluna-a-embalar-com-o-status-embalado-apos-a-confirmacao-da-embalagem"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
             }
           ]
         },

@@ -13,6 +13,7 @@ slugEN: what-is-a-bundle
 legacySlug: what-is-a-kit
 locale: en
 subcategoryId: 17Lkzo2rGBE1Bt7dXjE0tV
+order: 1
 ---
 
 A bundle is an SKU composed of one or more SKUs. SKUs that make up a bundle are called __components__.

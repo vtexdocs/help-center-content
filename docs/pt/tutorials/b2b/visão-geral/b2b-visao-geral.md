@@ -13,6 +13,7 @@ slugEN: b2b-overview
 legacySlug: visao-geral
 locale: pt
 subcategoryId: 1PSq4adEARlFaK5Mdv74Y7
+order: 1
 ---
 
 É comum separar o ecommerce em dois tipos de modelo de negócios: B2C (Business to Consumer) e B2B (Business to Business).

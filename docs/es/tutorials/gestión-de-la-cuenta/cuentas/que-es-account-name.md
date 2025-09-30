@@ -13,6 +13,7 @@ slugEN: what-is-an-account-name
 legacySlug: que-es-account-name
 locale: es
 subcategoryId: yMp6sKDiJEi66CGAIQ4ma
+order: 1
 ---
 
 Un __account name__ (o __nombre de cuenta__) es la identificación de su empresa en el sistema VTEX. 

@@ -13,6 +13,7 @@ slugEN: what-is-a-list
 legacySlug: o-que-e-uma-lista
 locale: pt
 subcategoryId: 6aeeWirCBUwwCmeIWOgIWs
+order: 1
 ---
 
 > ⚠️ A funcionalidade **Lista** é exclusiva para lojas que usam CMS Portal Legado.

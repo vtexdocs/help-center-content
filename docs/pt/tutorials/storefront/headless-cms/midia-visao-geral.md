@@ -13,6 +13,7 @@ slugEN: media-overview
 legacySlug: midia-visao-geral
 locale: pt
 subcategoryId: 27t6x0lngvjI3bnUg5AgEO
+order: 2
 ---
 
 O Mídia é uma funcionalidade responsável por gerenciar os arquivos de mídia da sua loja, como imagens e vídeos. Para imagens, você pode fazer o upload e organizar arquivos de mídia de até 5 MB usando o Mídia nos seguintes formatos: `png`, `jpg`, `gif`, `svg` e `webp`. Para vídeos, você pode adicionar uma URL para o provedor de vídeo hospedado externamente, como YouTube ou Vimeo.

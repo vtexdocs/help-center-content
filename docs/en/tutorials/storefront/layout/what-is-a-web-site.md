@@ -13,6 +13,7 @@ slugEN: what-is-a-web-site
 legacySlug: what-is-a-web-site
 locale: en
 subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
+order: 1
 ---
 
 A __web site__ is made of a structure of folders and files, which will compose the pages and define the content that will be displayed to those who access their addresses. 

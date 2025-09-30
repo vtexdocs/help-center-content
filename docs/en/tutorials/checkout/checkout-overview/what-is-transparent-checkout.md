@@ -13,6 +13,7 @@ slugEN: what-is-transparent-checkout
 legacySlug: what-is-transparent-checkout
 locale: en
 subcategoryId: 8AGXmtpbTqUE2KQu0Swwk
+order: 1
 ---
 
 Depending on the payment condition that the user chooses when making a purchase, they may be redirected to an external environment. A bank transfer (which requires access to internet banking) or the use of a solution such as Paypal (which requires the user to be logged in) are examples of payment methods that can generate this redirection.

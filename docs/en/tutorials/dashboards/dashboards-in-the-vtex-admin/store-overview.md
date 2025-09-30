@@ -13,6 +13,7 @@ slugEN: store-overview
 legacySlug: store-overview
 locale: en
 subcategoryId: 1TIJqw8kV2Yok4iQe4SAkq
+order: 1
 ---
 
 VTEX Admin’s Overview page is where store owners can get a quick overview of key metrics that impact the store’s revenue. Through this dashboard, you can track the evolution of your sales through order trend analysis, conversion rate and sales funnel charts. You can access this tool in the VTEX Admin, by clicking on **Dashboards > Overview** in the navigation menu, or type *Overview* in the search bar at the top of the page.

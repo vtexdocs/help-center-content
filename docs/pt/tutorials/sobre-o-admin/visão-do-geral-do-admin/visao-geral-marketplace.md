@@ -13,6 +13,7 @@ slugEN: marketplace-overview
 legacySlug: visao-geral-marketplace
 locale: pt
 subcategoryId: Se4oi5LroIII2Ei0uGAoE
+order: 1
 ---
 
 Um marketplace é uma plataforma virtual por meio da qual diferentes vendedores anunciam seus produtos. O marketplace é a vitrine onde os produtos estarão expostos e também é onde o pedido será realizado. Os vendedores que anunciam ali são chamados de sellers, que além de serem os donos dos produtos, são também os responsáveis pela entrega do produto ao comprador. O conjunto de operações e atividades desempenhados pelo seller, desde o recebimento do pedido até o momento da entrega do produto, é denominado “fulfillment”.

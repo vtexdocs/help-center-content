@@ -13,6 +13,7 @@ slugEN: what-is-a-department
 legacySlug: que-es-un-departamento
 locale: es
 subcategoryId: 1E7tziZCkY4w8i4EmUuwec
+order: 1
 ---
 
 El Departamento es el primer nivel de categorización de su tienda. Departamentos son secciones o sectores que clasifican las áreas de su negocio. Al clasificar o organizar su e-commerce, es recomendable que usted presente sus productos a través de los siguientes niveles jerárquicos: Departamento, Categoría y Subcategoría.

@@ -13,6 +13,7 @@ slugEN: releases-overview
 legacySlug: visao-geral-lancamentos
 locale: pt
 subcategoryId: 3vXj7HrnYK8V5riTOwUuYv
+order: 1
 ---
 
 > ℹ️ O **Lançamentos** está em fase beta, o que significa que estamos trabalhando para aprimorá-lo. Esta funcionalidade é válida somente para lojas que usam [FastStore](https://www.faststore.dev/).
