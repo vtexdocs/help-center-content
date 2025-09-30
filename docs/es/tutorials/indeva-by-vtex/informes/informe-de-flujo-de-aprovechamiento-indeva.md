@@ -3,8 +3,8 @@ title: 'Informe de flujo de aprovechamiento'
 id: 51YCPbLw7v8ebeyGX9z623
 status: PUBLISHED
 createdAt: 2025-09-18T18:40:24.492Z
-updatedAt: 2025-09-18T18:50:55.537Z
-publishedAt: 2025-09-18T18:50:55.537Z
+updatedAt: 2025-09-30T17:27:40.262Z
+publishedAt: 2025-09-30T17:27:40.262Z
 firstPublishedAt: 2025-09-18T18:50:04.221Z
 contentType: tutorial
 productTeam: Others

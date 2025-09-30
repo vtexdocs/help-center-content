@@ -3,8 +3,8 @@ title: 'Informe de flujo de oportunidades'
 id: 3rsYzVeRgFotbDGa4LU716
 status: PUBLISHED
 createdAt: 2025-09-18T18:30:04.293Z
-updatedAt: 2025-09-18T18:40:10.534Z
-publishedAt: 2025-09-18T18:40:10.534Z
+updatedAt: 2025-09-30T17:26:08.988Z
+publishedAt: 2025-09-30T17:26:08.988Z
 firstPublishedAt: 2025-09-18T18:39:20.644Z
 contentType: tutorial
 productTeam: Others

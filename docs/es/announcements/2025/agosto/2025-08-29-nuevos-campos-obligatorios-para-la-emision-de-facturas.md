@@ -3,8 +3,8 @@ title: 'Nuevos campos obligatorios para la emisión de facturas'
 id: 5jDozNwc272jtq92dvKQkq
 status: PUBLISHED
 createdAt: 2025-08-29T23:29:00.226Z
-updatedAt: 2025-09-09T13:48:45.545Z
-publishedAt: 2025-09-09T13:48:45.545Z
+updatedAt: 2025-09-30T17:22:53.181Z
+publishedAt: 2025-09-30T17:22:53.181Z
 contentType: updates
 productTeam: Channels
 author: 2p7evLfTcDrhc5qtrzbLWD
