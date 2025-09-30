@@ -15,4 +15,4 @@ locale: en
 subcategoryId: 4k2nT4bkX7B73rZyIhw8aE
 ---
 
-> ℹ️ This content is only available in Portuguese. [Click here](/en/tutorial/responder-formulario-como-gerente-ou-vendedor-responsavel--2I7npArTytcLEa7hZgbEVW) to access it.
+> ℹ️ This content is only available in Portuguese. [Click here](/pt/tutorial/responder-formulario-como-gerente-ou-vendedor-responsavel--2I7npArTytcLEa7hZgbEVW) to access it.

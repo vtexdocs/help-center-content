@@ -15,5 +15,5 @@ locale: en
 subcategoryId: 4k2nT4bkX7B73rZyIhw8aE
 ---
 
-> ℹ️ This content is only available in Portuguese. [Click here](/en/tutorial/gerenciar-formularios-na-plataforma-indeva--2DcK33anVEz6k7cguq0Wkx) to access it.
+> ℹ️ This content is only available in Portuguese. [Click here](/pt/tutorial/gerenciar-formularios-na-plataforma-indeva--2DcK33anVEz6k7cguq0Wkx) to access it.
 

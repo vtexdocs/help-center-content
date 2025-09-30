@@ -15,4 +15,4 @@ locale: en
 subcategoryId: 4k2nT4bkX7B73rZyIhw8aE
 ---
 
-> ℹ️ This content is only available in Portuguese. [Click here](/en/tutorial/conferir-e-analisar-respostas-dos-formularios-indeva--1OQx1ke0VoDBRu2C6VzBvF) to access it.
+> ℹ️ This content is only available in Portuguese. [Click here](/pt/tutorial/conferir-e-analisar-respostas-dos-formularios-indeva--1OQx1ke0VoDBRu2C6VzBvF) to access it.

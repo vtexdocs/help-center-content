@@ -15,5 +15,5 @@ locale: en
 subcategoryId: 1ydaNLr2vhaL9YiUHYHPeS
 ---
 
-> ℹ️ This content is only available in Portuguese. [Click here](/en/tutorial/acompanhar-usabilidade-na-lista-da-vez-indeva--4NzByrrwdwVzsGx0IrOqeu) to access it.
+> ℹ️ This content is only available in Portuguese. [Click here](/pt/tutorial/acompanhar-usabilidade-na-lista-da-vez-indeva--4NzByrrwdwVzsGx0IrOqeu) to access it.
 

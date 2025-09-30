@@ -15,4 +15,4 @@ locale: en
 subcategoryId: 12W8z1keFc6Z7CmgoSpqdz
 ---
 
-> ℹ️ This content is only available in Portuguese. [Click here](/en/tutorial/analisar-horarios-de-pico-na-loja-indeva--2QarIihEELezmLrSwCyx9F) to access it.
+> ℹ️ This content is only available in Portuguese. [Click here](/pt/tutorial/analisar-horarios-de-pico-na-loja-indeva--2QarIihEELezmLrSwCyx9F) to access it.

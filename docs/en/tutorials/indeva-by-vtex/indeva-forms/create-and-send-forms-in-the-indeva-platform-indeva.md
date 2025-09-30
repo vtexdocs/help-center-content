@@ -15,4 +15,4 @@ locale: en
 subcategoryId: 4k2nT4bkX7B73rZyIhw8aE
 ---
 
-> ℹ️ This content is only available in Portuguese. [Click here](/en/tutorial/criar-e-enviar-formularios-na-plataforma-indeva--58cVtoAHf79ePLJVS729yM) to access it.
+> ℹ️ This content is only available in Portuguese. [Click here](/pt/tutorial/criar-e-enviar-formularios-na-plataforma-indeva--58cVtoAHf79ePLJVS729yM) to access it.

@@ -15,4 +15,4 @@ locale: en
 subcategoryId: 12W8z1keFc6Z7CmgoSpqdz
 ---
 
-> ℹ️ This content is only available in Portuguese. [Click here](/en/tutorial/acessar-o-comparador-de-periodos-indeva--5C3PpjMdhh63KwEwawDHww) to access it.
+> ℹ️ This content is only available in Portuguese. [Click here](/pt/tutorial/acessar-o-comparador-de-periodos-indeva--5C3PpjMdhh63KwEwawDHww) to access it.
