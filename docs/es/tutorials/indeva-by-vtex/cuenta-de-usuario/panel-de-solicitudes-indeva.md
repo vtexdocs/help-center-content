@@ -3,8 +3,8 @@ title: 'Panel de solicitudes'
 id: pIqcHA9VodHjKooyiXZvW
 status: PUBLISHED
 createdAt: 2025-09-09T13:25:40.169Z
-updatedAt: 2025-10-01T17:07:12.632Z
-publishedAt: 2025-10-01T17:07:12.632Z
+updatedAt: 2025-10-02T16:18:58.482Z
+publishedAt: 2025-10-02T16:18:58.482Z
 firstPublishedAt: 2025-10-01T14:09:52.874Z
 contentType: tutorial
 productTeam: Others
@@ -15,4 +15,4 @@ locale: es
 subcategoryId: 1kLZWFCmluavm21LygmQA0
 ---
 
-> ℹ️ Este contenido está disponible solo en [portugués](colocar link). Haga clic aquí para acceder.
+> ℹ️ Este contenido está disponible solo en [portugués](/pt/tutorial/painel-de-solicitacoes-indeva--pIqcHA9VodHjKooyiXZvW). Haga clic aquí para acceder.

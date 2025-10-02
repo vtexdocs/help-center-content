@@ -3,8 +3,8 @@ title: 'Painel de solicitações'
 id: pIqcHA9VodHjKooyiXZvW
 status: PUBLISHED
 createdAt: 2025-09-09T13:25:40.169Z
-updatedAt: 2025-10-01T17:07:12.632Z
-publishedAt: 2025-10-01T17:07:12.632Z
+updatedAt: 2025-10-02T16:18:58.482Z
+publishedAt: 2025-10-02T16:18:58.482Z
 firstPublishedAt: 2025-10-01T14:09:52.874Z
 contentType: tutorial
 productTeam: Others
@@ -17,11 +17,9 @@ subcategoryId: 1kLZWFCmluavm21LygmQA0
 
 Sempre que um chamado é registrado com os times de Suporte ou Financeiro, ele fica disponível no painel de solicitações da Indeva, é permitido visualizar todas as solicitações abertas e acompanhar o status de cada uma.
 
-Acesse o [Painel de solicitações da Indeva](https://indeva.zendesk.com/hc/pt-br/requests).
+Se precisar acompanhar ou revisar solicitações anteriores, acesse o [Painel de solicitações da Indeva](https://indeva.zendesk.com/hc/pt-br/requests).
 
 ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/conta-do-usu%C3%A1rio/painel-de-solicitacoes-indeva_1.png)
-
-[Acessar painel de solicitações – Help Indeva](https://indeva.zendesk.com/hc/pt-br/requests)
 
 > ⚠️ Para visualizar o painel de solicitações, é necessário ter um **perfil de acesso** no ambiente web da Indeva.
 

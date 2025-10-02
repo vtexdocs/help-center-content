@@ -3,8 +3,8 @@ title: 'Employee management'
 id: 29zngGbq844ZEN9UwKdLrQ
 status: PUBLISHED
 createdAt: 2025-09-09T13:50:50.067Z
-updatedAt: 2025-10-01T18:05:47.125Z
-publishedAt: 2025-10-01T18:05:47.125Z
+updatedAt: 2025-10-02T16:42:22.620Z
+publishedAt: 2025-10-02T16:42:22.620Z
 firstPublishedAt: 2025-10-01T17:49:38.065Z
 contentType: tutorial
 productTeam: Others
@@ -15,4 +15,4 @@ locale: en
 subcategoryId: 2fZRuqcVChcJ9AhY4vzfl3
 ---
 
-> ℹ️ This content is only available in Portuguese. [Click here](/pt/tutorial/gerenciamento-de-colaboradores-indeva--29zngGbq844ZEN9UwKdLrQ) to access it.
+> ℹ️ Este contenido está disponible solo en [portugués](/pt/tutorial/gerenciamento-de-colaboradores-indeva--29zngGbq844ZEN9UwKdLrQ) to access it.

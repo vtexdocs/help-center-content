@@ -3,8 +3,8 @@ title: 'Atualizar dados da conta do usuário'
 id: 4AOfa9cQKTkwqehXDK3ZiK
 status: PUBLISHED
 createdAt: 2025-09-05T13:45:43.323Z
-updatedAt: 2025-10-01T17:24:24.852Z
-publishedAt: 2025-10-01T17:24:24.852Z
+updatedAt: 2025-10-02T13:57:21.434Z
+publishedAt: 2025-10-02T13:57:21.434Z
 firstPublishedAt: 2025-09-08T15:42:29.315Z
 contentType: tutorial
 productTeam: Others
@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 1kLZWFCmluavm21LygmQA0
 ---
 
-Para atualizar as informações da sua conta como senha e foto de perfil, siga as etapas abaixo:
+Gerentes e vendedores responsáveis (VR) podem atualizar suas informações pessoais diretamente no ambiente web da Indeva, incluindo senha de acesso e foto de perfil.
 
 1. Passe o cursor do mouse sobre a **foto do usuário**, localizada no canto superior direito da tela, acima da lista de vendedores.
 2. Clique em **Editar perfil.**

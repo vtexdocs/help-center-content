@@ -3,8 +3,8 @@ title: 'Cómo validar ventas en la plataforma'
 id: 5GRLWlRabZKTm3Ina5PpI7
 status: PUBLISHED
 createdAt: 2025-09-18T12:49:52.947Z
-updatedAt: 2025-09-18T13:19:52.060Z
-publishedAt: 2025-09-18T13:19:52.060Z
+updatedAt: 2025-10-02T12:23:28.854Z
+publishedAt: 2025-10-02T12:23:28.854Z
 firstPublishedAt: 2025-09-18T13:19:20.882Z
 contentType: tutorial
 productTeam: Others

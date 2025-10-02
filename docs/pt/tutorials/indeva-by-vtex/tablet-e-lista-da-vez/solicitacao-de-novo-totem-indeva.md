@@ -1,9 +1,9 @@
 ---
 title: 'Solicitação de novo totem'
 id: 3dnTd05aVJXmPN2tAfepiD
-status: PUBLISHED
+status: CHANGED
 createdAt: 2025-09-11T18:02:53.196Z
-updatedAt: 2025-10-01T18:47:40.367Z
+updatedAt: 2025-10-02T11:46:27.006Z
 publishedAt: 2025-10-01T18:47:40.367Z
 firstPublishedAt: 2025-10-01T18:46:59.993Z
 contentType: tutorial

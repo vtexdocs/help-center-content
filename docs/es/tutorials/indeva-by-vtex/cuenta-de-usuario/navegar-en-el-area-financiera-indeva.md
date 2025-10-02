@@ -3,8 +3,8 @@ title: 'Navegar en el área financiera'
 id: 4RKJne5d60FXu3Gjrdl4ra
 status: PUBLISHED
 createdAt: 2025-09-08T16:15:53.879Z
-updatedAt: 2025-09-08T17:45:16.982Z
-publishedAt: 2025-09-08T17:45:16.982Z
+updatedAt: 2025-10-02T15:53:20.430Z
+publishedAt: 2025-10-02T15:53:20.430Z
 firstPublishedAt: 2025-09-08T16:48:47.192Z
 contentType: tutorial
 productTeam: Others
