@@ -36,7 +36,7 @@ To identify the reason for the cancellation, you need to:
 
 In the VTEX Admin, under **Orders > Transactions**, all payment interactions are recorded with the payment operator/gateway and with the anti-fraud solution, which are responsible for most cancellations.
 
-When a cancellation occurs, a message is recorded in the order transaction events identifying the reason. To learn how to view these events, see [Viewing the order's details in Orders](/pt/tutorial/como-visualizar-detalhes-do-pedido/).
+When a cancellation occurs, a message is recorded in the order transaction events identifying the reason. To learn how to view these events, see [Viewing the order's details in Orders](/en/tutorial/como-visualizar-detalhes-do-pedido/).
 
 ### Checking order interactions
 

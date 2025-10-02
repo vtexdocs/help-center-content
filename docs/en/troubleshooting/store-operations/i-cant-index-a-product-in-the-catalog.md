@@ -71,7 +71,7 @@ Errors in product fields can lead to inconsistencies when indexing a product.
 
 ### Checking the account binding information
 
-When the account has [more than one store](/en/tutorial/managing-a-multistore--4S0lFVBPylRS5KpVgdyDhJ), you need to conduct the [binding](/pt/tutorial/o-que-e-binding--4NcN3NJd0IeYccgWCI8O2W), process — which binds the website to trade policies for each store. If a product is associated with a trade policy not present in the account's binding, indexing errors can occur.
+When the account has [more than one store](/en/tutorial/managing-a-multistore--4S0lFVBPylRS5KpVgdyDhJ), you need to conduct the [binding](/en/tutorial/o-que-e-binding--4NcN3NJd0IeYccgWCI8O2W), process — which binds the website to trade policies for each store. If a product is associated with a trade policy not present in the account's binding, indexing errors can occur.
 
 To identify the trade policies associated with each store in your account, see [Linking a store to a CMS folder structure (binding)](/en/tutorial/linking-an-account-name-to-a-website-binding--PxjfleOw6suCSO2uGWMMs).
 

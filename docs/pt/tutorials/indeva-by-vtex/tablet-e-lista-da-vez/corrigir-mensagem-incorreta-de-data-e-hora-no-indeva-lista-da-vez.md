@@ -3,8 +3,8 @@ title: 'Corrigir mensagem incorreta de data e hora no Indeva – Lista da Vez'
 id: 7wwWzw7J3Pmz9ImN11awtN
 status: PUBLISHED
 createdAt: 2025-09-12T12:14:36.385Z
-updatedAt: 2025-09-12T12:27:36.899Z
-publishedAt: 2025-09-12T12:27:36.899Z
+updatedAt: 2025-10-01T18:52:53.238Z
+publishedAt: 2025-10-01T18:52:53.238Z
 firstPublishedAt: 2025-09-12T12:27:36.899Z
 contentType: tutorial
 productTeam: Others
@@ -24,4 +24,4 @@ Alguns tablets estão programados para a troca automática de horário de verão
 5. Selecione o app **Indeva – Lista da Vez**.
 6. Clique em `Forçar parada`.
 
-Para mais detalhes, consulte o vídeo [Ajustar data e hora no Indeva – Lista da Vez](https://youtu.be/4v-Ny0Wq9OA).
+Para mais detalhes, acesse o vídeo [Ajustar data e hora no Indeva – Lista da Vez](https://youtu.be/4v-Ny0Wq9OA).

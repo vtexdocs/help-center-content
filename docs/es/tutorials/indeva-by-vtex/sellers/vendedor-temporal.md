@@ -3,8 +3,8 @@ title: 'Vendedor temporal'
 id: 1D0znuLfmKpcuYGp29qrEX
 status: PUBLISHED
 createdAt: 2025-09-16T16:41:13.120Z
-updatedAt: 2025-09-16T16:52:04.541Z
-publishedAt: 2025-09-16T16:52:04.541Z
+updatedAt: 2025-10-01T18:07:56.735Z
+publishedAt: 2025-10-01T18:07:56.735Z
 firstPublishedAt: 2025-09-16T16:51:17.205Z
 contentType: tutorial
 productTeam: Others

@@ -3,8 +3,8 @@ title: 'Manager registration'
 id: 6r2bjS0LFdUX0kyt0NyWhf
 status: PUBLISHED
 createdAt: 2025-09-16T17:52:24.779Z
-updatedAt: 2025-09-16T19:09:35.742Z
-publishedAt: 2025-09-16T19:09:35.742Z
+updatedAt: 2025-10-01T18:28:57.081Z
+publishedAt: 2025-10-01T18:28:57.081Z
 firstPublishedAt: 2025-09-16T19:08:59.980Z
 contentType: tutorial
 productTeam: Others

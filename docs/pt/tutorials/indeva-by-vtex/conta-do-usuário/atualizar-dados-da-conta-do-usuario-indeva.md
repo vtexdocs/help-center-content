@@ -3,8 +3,8 @@ title: 'Atualizar dados da conta do usuário'
 id: 4AOfa9cQKTkwqehXDK3ZiK
 status: PUBLISHED
 createdAt: 2025-09-05T13:45:43.323Z
-updatedAt: 2025-09-08T17:46:44.191Z
-publishedAt: 2025-09-08T17:46:44.191Z
+updatedAt: 2025-10-01T17:24:24.852Z
+publishedAt: 2025-10-01T17:24:24.852Z
 firstPublishedAt: 2025-09-08T15:42:29.315Z
 contentType: tutorial
 productTeam: Others
@@ -25,8 +25,8 @@ Para atualizar as informações da sua conta como senha e foto de perfil, siga a
 ## Acesso exclusivo para gerentes e vendedores responsáveis (VR)
 As ações abaixo permitem gerenciar perfis de gerentes e estão disponíveis apenas para usuários com permissões:
 
-- Desligar gerente
-- Cadastrar gerente
+- [Desligar gerente](/pt/tutorial/desligar-gerente-indeva--5LxrfSgD7f4IgRGWlrcnRV)
+- [Cadastrar gerente](/pt/tutorial/cadastro-de-gerente-indeva--6r2bjS0LFdUX0kyt0NyWhf)
 
 ![Dados da conta](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/conta-do-usu%C3%A1rio/atualizar-dados-da-conta-do-usuario-indeva_1.png)
 

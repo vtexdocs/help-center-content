@@ -3,8 +3,8 @@ title: 'Deactivate manager'
 id: 5LxrfSgD7f4IgRGWlrcnRV
 status: PUBLISHED
 createdAt: 2025-09-16T18:09:49.954Z
-updatedAt: 2025-09-16T19:10:45.141Z
-publishedAt: 2025-09-16T19:10:45.141Z
+updatedAt: 2025-10-01T17:22:09.042Z
+publishedAt: 2025-10-01T17:22:09.042Z
 firstPublishedAt: 2025-09-16T19:07:57.314Z
 contentType: tutorial
 productTeam: Others

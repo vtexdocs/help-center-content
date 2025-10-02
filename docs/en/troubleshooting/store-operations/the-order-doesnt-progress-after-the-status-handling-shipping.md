@@ -23,7 +23,7 @@ tags:
   - Handling shipping
 ---
 
-The status `Handling shipping` occurs in the [order flow](/pt/tutorial/order-flow-on-the-oms--tutorials_196#fluxo-do-seller) shortly after the seller starts handling the items. At this point, VTEX must receive the order's invoice details, updating the flow with the `Invoiced` or `Canceled` status.
+The status `Handling shipping` occurs in the [order flow](/en/tutorial/order-flow-on-the-oms--tutorials_196#fluxo-do-seller) shortly after the seller starts handling the items. At this point, VTEX must receive the order's invoice details, updating the flow with the `Invoiced` or `Canceled` status.
 
 > ℹ️ You can't [cancel orders](/en/tutorial/canceling-orders--tutorials_186) that have already been [partially invoiced](/en/tracks/orders--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe). If the customer wants to replace or remove items, they can [change the order](/en/tutorial/changing-items-from-a-complete-order--tutorials_190).
 
@@ -49,9 +49,9 @@ Merchants can add invoices to the VTEX Admin via [manual order invoicing](/en/tu
 
 To ensure that the order is invoiced correctly, the following requirements must be met:
 
-- The invoice total must be equal to the sum of the item prices in the order and their respective shipping costs. If the invoice amount is lower than the total, you must add a [partial invoice](/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe) for the remaining amount.
+- The invoice total must be equal to the sum of the item prices in the order and their respective shipping costs. If the invoice amount is lower than the total, you must add a [partial invoice](/en/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe) for the remaining amount.
 - Each invoice issued, whether total or partial, must have a unique number.
 - When you need to issue more than one invoice for an order, their combined total must equal the order's total amount.
-- The total order amount will be updated if [items are changed or removed](/pt/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190).
+- The total order amount will be updated if [items are changed or removed](/en/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190).
 
 > ⚠️ If the order remains in the `Invoiced` status after manually adding invoices, open a ticket with [Suporte VTEX](https://help.vtex.com/en/support) for further assistance.
