@@ -721,6 +721,37 @@
                   "children": []
                 }
               ]
+            },
+            {
+              "name": {
+                "en": "October",
+                "es": "Octubre",
+                "pt": "Outubro"
+              },
+              "slug": {
+                "en": "october",
+                "es": "octubre",
+                "pt": "outubro"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Mercado Libre: Warehouse assignment",
+                    "es": "Mercado Libre: asignación de almacén",
+                    "pt": "Mercado Livre: Atribuição de estoque"
+                  },
+                  "slug": {
+                    "en": "2025-10-02-warehouse-assignment",
+                    "es": "2025-10-02-asignacion-de-almacen",
+                    "pt": "2025-10-02-atribuicao-de-estoque"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
             }
           ]
         },
@@ -21113,6 +21144,21 @@
                 },
                 {
                   "name": {
+                    "en": "Correct registration made in the wrong store",
+                    "es": "Corregir un registro creado en la tienda equivocada",
+                    "pt": "Corrigir cadastro feito na loja errada"
+                  },
+                  "slug": {
+                    "en": "correct-registration-made-in-the-wrong-store-indeva",
+                    "es": "corregir-un-registro-creado-en-la-tienda-equivocada-indeva",
+                    "pt": "corrigir-cadastro-feito-na-loja-errada-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Difference between responsible seller and manager",
                     "es": "Diferencia entre vendedor responsable y gerente",
                     "pt": "Diferença entre vendedor responsável e gerente"
@@ -21121,6 +21167,21 @@
                     "en": "difference-between-responsible-seller-and-manager",
                     "es": "diferencia-entre-vendedor-responsable-y-gerente",
                     "pt": "diferenca-entre-vendedor-responsavel-e-gerente"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Differences between responsible seller and manager profiles",
+                    "es": "Diferencias entre los perfiles de vendedor responsable y gerente",
+                    "pt": "Diferenças entre os perfis de vendedor responsável e gerente"
+                  },
+                  "slug": {
+                    "en": "differences-responsible-seller-manager-profiles",
+                    "es": "diferencias-perfiles-vendedor-responsable-gerente",
+                    "pt": "diferencas-perfis-vendedor-responsavel-gerente"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -21143,6 +21204,36 @@
                 },
                 {
                   "name": {
+                    "en": "Manage admin users in Indeva",
+                    "es": "Gestionar usuarios administrativos en Indeva",
+                    "pt": "Gerenciar usuários administrativos na Indeva"
+                  },
+                  "slug": {
+                    "en": "manage-administrative-user-in-indeva",
+                    "es": "gestionar-usuario-administrativos-en-indeva",
+                    "pt": "gerenciar-usuarios-administrativos-na-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Transfer seller between stores",
+                    "es": "Transferir vendedor entre tiendas",
+                    "pt": "Transferir vendedor entre lojas"
+                  },
+                  "slug": {
+                    "en": "transfer-seller-between-stores-indeva",
+                    "es": "transferir-vendedor-entre-tiendas-indeva",
+                    "pt": "transferir-vendedor-entre-lojas-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Transfer store collaborator",
                     "es": "Transferir colaborador de tienda",
                     "pt": "Transferir colaborador de loja"
@@ -21151,6 +21242,21 @@
                     "en": "transfer-an-employee-from-one-store-to-another-indeva",
                     "es": "transferir-a-un-empleado-de-una-tienda-a-otra-indeva",
                     "pt": "transferir-colaborador-de-uma-loja-para-outra-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Types of seller registration in the Indeva platform",
+                    "es": "Tipos de registro de vendedor en la plataforma Indeva",
+                    "pt": "Tipos de cadastro de vendedor na plataforma Indeva"
+                  },
+                  "slug": {
+                    "en": "types-seller-registration-indeva",
+                    "es": "tipos-registro-vendedor-indeva",
+                    "pt": "tipos-cadastro-vendedor-indeva"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -22085,6 +22191,21 @@
                     },
                     {
                       "name": {
+                        "en": "Manual sales update",
+                        "es": "Actualización manual de ventas",
+                        "pt": "Atualização manual de vendas"
+                      },
+                      "slug": {
+                        "en": "manual-sales-update-indeva",
+                        "es": "actualizacion-manual-de-ventas-indeva",
+                        "pt": "atualizacao-manual-de-vendas-indeva"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
                         "en": "Open the Indeva Integrator",
                         "es": "Abrir el Integrador Indeva",
                         "pt": "Abrir o Integrador Indeva"
@@ -22108,6 +22229,21 @@
                         "en": "real-time-sales-indeva",
                         "es": "ventas-en-tiempo-real-indeva",
                         "pt": "vendas-em-tempo-real-indeva"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Seller’s sales are not appearing on the platform",
+                        "es": "Las ventas del vendedor no aparecen en la plataforma",
+                        "pt": "Vendas de vendedor não aparecem na plataforma"
+                      },
+                      "slug": {
+                        "en": "sellers-sales-are-not-appearing-on-the-platform-indeva",
+                        "es": "las-ventas-del-vendedor-no-aparecen-en-la-plataforma-indeva",
+                        "pt": "vendas-de-vendedor-nao-aparecem-na-plataforma-indeva"
                       },
                       "origin": "",
                       "type": "markdown",
@@ -22348,6 +22484,37 @@
             },
             {
               "name": {
+                "en": "Store indeva",
+                "es": "Tienda indeva",
+                "pt": "Loja indeva"
+              },
+              "slug": {
+                "en": "store-indeva",
+                "es": "tienda-indeva",
+                "pt": "loja-indeva"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Store does not appear on the homepage or in reports",
+                    "es": "La tienda no aparece en la página inicial ni en los informes",
+                    "pt": "Loja não aparece na página inicial ou nos relatórios"
+                  },
+                  "slug": {
+                    "en": "store-not-appearing-homepage-reports",
+                    "es": "tienda-no-aparece-pagina-inicial-informes",
+                    "pt": "loja-nao-aparece-pagina-inicial-relatorios"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "Tablet AND current queue list",
                 "es": "Tableta y lista del turno actual",
                 "pt": "Tablet e lista da vez"
@@ -22445,21 +22612,6 @@
                     "en": "lista-da-vez-app-does-not-open-on-the-tablet-indeva",
                     "es": "la-aplicacion-lista-da-vez-no-se-abre-en-la-tableta-indeva",
                     "pt": "aplicativo-lista-da-vez-nao-abre-no-tablet-indeva"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "New totem request",
-                    "es": "Solicitud de nuevo tótem",
-                    "pt": "Solicitação de novo totem"
-                  },
-                  "slug": {
-                    "en": "new-totem-request-indeva",
-                    "es": "solicitud-de-nuevo-totem-indeva",
-                    "pt": "solicitacao-de-novo-totem-indeva"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -37052,6 +37204,21 @@
                 },
                 {
                   "name": {
+                    "en": "Microvix integration interrupted due to username and password",
+                    "es": "Interrupción de la integración con Microvix por usuario y contraseña",
+                    "pt": "Interrupção da integração Microvix por usuário e senha"
+                  },
+                  "slug": {
+                    "en": "microvix-integration-interrupted-due-to-username-and-password",
+                    "es": "interrupcion-de-la-integracion-con-microvix-por-usuario-y-contrasena",
+                    "pt": "interrupcao-da-integracao-microvix-por-usuario-e-senha"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "View feedback in the Indeva app",
                     "es": "Visualizar comentarios en la app de Indeva",
                     "pt": "Visualizar feedback no app Indeva"
@@ -38391,6 +38558,21 @@
             },
             {
               "name": {
+                "en": "Catalog admin timeouts related to the number of values in a single specification",
+                "es": "Tiempos de espera del administrador del catálogo relacionados con el número de valores de una única especificación",
+                "pt": "Tempo limite do administrador do catálogo relacionado ao número de valores em uma única especificação"
+              },
+              "slug": {
+                "en": "catalog-admin-timeouts-related-to-the-number-of-values-in-a-single-specification",
+                "es": "tiempos-de-espera-del-administrador-del-catalogo-relacionados-con-el-numero-de-valores-de-una-unica-especificacion",
+                "pt": "tempo-limite-do-administrador-do-catalogo-relacionado-ao-numero-de-valores-em-uma-unica-especificacao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Catalog API /catalog/pvt/stockkeepingunit with query parameter refId return field Videos as empty",
                 "es": "Catalog API /catalog/pvt/stockkeepingunit with query parameter refId return field Videos as empty",
                 "pt": "Catalog API /catalog/pvt/stockkeepingunit with query parameter refId return field Videos as empty"
@@ -38751,21 +38933,6 @@
             },
             {
               "name": {
-                "en": "Categories.aspx Specification Timeout",
-                "es": "Timeout de la especificación Categories.aspx",
-                "pt": "Categorias.aspx Especificação Timeout"
-              },
-              "slug": {
-                "en": "categoriesaspx-specification-timeout",
-                "es": "timeout-de-la-especificacion-categoriesaspx",
-                "pt": "categoriasaspx-especificacao-timeout"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Category Commissioning on the seller config generates Time Out",
                 "es": "La puesta en marcha de la categoría en la configuración del seller genera un Time Out",
                 "pt": "O comissionamento da categoria na configuração do seller gera um Time Out"
@@ -38969,6 +39136,21 @@
                 "en": "collections-schedule-start-date-not-working",
                 "es": "la-fecha-de-inicio-de-las-colecciones-no-funciona",
                 "pt": "data-de-inicio-das-colecoes-nao-funciona"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Collections Timeout",
+                "es": "Tiempo límite de cobro",
+                "pt": "Tempo limite das coleções"
+              },
+              "slug": {
+                "en": "collections-timeout",
+                "es": "tiempo-limite-de-cobro",
+                "pt": "tempo-limite-das-colecoes"
               },
               "origin": "",
               "type": "markdown",
@@ -39389,6 +39571,21 @@
                 "en": "filter-products-by-store-on-the-catalog-admin-can-show-the-wrong-ammount-of-results",
                 "es": "filtrar-productos-por-tienda-en-la-administracion-del-catalogo-puede-mostrar-una-cantidad-incorrecta-de-resultados",
                 "pt": "filtrar-produtos-por-loja-no-catalogo-admin-pode-mostrar-a-quantidade-errada-de-resultados"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Fullcleanup May Generate a Timeout",
+                "es": "La limpieza completa puede generar un tiempo de espera",
+                "pt": "Fullcleanup pode gerar um tempo limite"
+              },
+              "slug": {
+                "en": "fullcleanup-may-generate-a-timeout",
+                "es": "la-limpieza-completa-puede-generar-un-tiempo-de-espera",
+                "pt": "fullcleanup-pode-gerar-um-tempo-limite"
               },
               "origin": "",
               "type": "markdown",
@@ -41054,6 +41251,36 @@
                 "en": "time-out-on-category-keywords-change-with-many-products",
                 "es": "timeout-al-cambiar-las-palabras-clave-de-la-categoria-con-muchos-productos",
                 "pt": "timeout-ao-mudar-as-palavraschave-da-categoria-com-muitos-produtos"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "es": "Timeout de la especificación Categories.aspx",
+                "pt": "Categorias.aspx Especificação Timeout",
+                "en": "Timeout de la especificación Categories.aspx"
+              },
+              "slug": {
+                "es": "timeout-de-la-especificacion-categoriesaspx",
+                "pt": "categoriasaspx-especificacao-timeout",
+                "en": ""
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Timeout when editing specifications",
+                "es": "Tiempo de espera al editar especificaciones",
+                "pt": "Tempo limite ao editar especificações"
+              },
+              "slug": {
+                "en": "timeout-when-editing-specifications",
+                "es": "tiempo-de-espera-al-editar-especificaciones",
+                "pt": "tempo-limite-ao-editar-especificacoes"
               },
               "origin": "",
               "type": "markdown",

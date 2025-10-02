@@ -3,8 +3,8 @@ title: 'Best practices for using API keys'
 id: 7b6nD1VMHa49aI5brlOvJm
 status: PUBLISHED
 createdAt: 2022-10-04T21:36:57.185Z
-updatedAt: 2025-08-12T22:49:38.482Z
-publishedAt: 2025-08-12T22:49:38.482Z
+updatedAt: 2025-10-02T14:55:39.240Z
+publishedAt: 2025-10-02T14:55:39.240Z
 firstPublishedAt: 2022-10-04T21:41:08.638Z
 contentType: tutorial
 productTeam: Others
@@ -27,6 +27,12 @@ Improper handling of [API keys](/en/tutorial/application-keys--2iffYzlvvz4BDMr6W
 It is recommended that you disable old keys and create new ones over time. By doing so, you make sure your [API keys](/en/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet) will have a certain duration.
 
 This practice is similar to defining a password policy with settings for periodic password changes.
+
+## Renew API tokens regularly
+
+Renew API tokens frequently to reduce exposure risks and keep your integrations secure. Configure alerts in **API Keys > Settings** to receive renewal reminders periodically (every 3 or 6 months) and securely save the new token using the one-time access link, deleting the old one after migration.
+
+Learn more in [Renewing API tokens](/en/tutorial/renovar-token-de-api--7r4AzptYjXErGHadg9LnJ3).
 
 ## Reassess keys and access periodically
 

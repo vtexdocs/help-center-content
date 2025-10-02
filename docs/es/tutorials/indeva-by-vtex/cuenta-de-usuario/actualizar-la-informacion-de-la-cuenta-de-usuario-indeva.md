@@ -3,8 +3,8 @@ title: 'Actualizar la información de la cuenta de usuario'
 id: 4AOfa9cQKTkwqehXDK3ZiK
 status: PUBLISHED
 createdAt: 2025-09-05T13:45:43.323Z
-updatedAt: 2025-10-01T17:24:24.852Z
-publishedAt: 2025-10-01T17:24:24.852Z
+updatedAt: 2025-10-02T13:57:21.434Z
+publishedAt: 2025-10-02T13:57:21.434Z
 firstPublishedAt: 2025-09-08T15:42:29.315Z
 contentType: tutorial
 productTeam: Others

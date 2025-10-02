@@ -3,8 +3,8 @@ title: 'Buenas prácticas para el uso de claves de API'
 id: 7b6nD1VMHa49aI5brlOvJm
 status: PUBLISHED
 createdAt: 2022-10-04T21:36:57.185Z
-updatedAt: 2025-08-12T22:49:38.482Z
-publishedAt: 2025-08-12T22:49:38.482Z
+updatedAt: 2025-10-02T14:55:39.240Z
+publishedAt: 2025-10-02T14:55:39.240Z
 firstPublishedAt: 2022-10-04T21:41:08.638Z
 contentType: tutorial
 productTeam: Others
@@ -27,6 +27,12 @@ El manejo inadecuado de las [claves de API](/es/tutorial/application-keys--2iffY
 Es aconsejable que desactives las claves antiguas y crees claves nuevas a lo largo del tiempo. De esta forma te aseguras de que tus [claves de API](/es/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet) tengan una duración determinada.
 
 Esta práctica se asemeja a la definición de una política de contraseñas con ajustes para los cambios periódicos de contraseñas.
+
+## Renovar los tokens de API regularmente
+
+Renueva los tokens de API de manera recurrente para reducir los riesgos de exposición y mantener tus integraciones protegidas. Configura alertas en **Claves de API > Configuración** para recibir recordatorios periódicos (cada 3 o 6 meses) y guarda el nuevo token de forma segura mediante el link de acceso único, eliminando el antiguo después de la migración.
+
+Consulta [Renovar token de API](/es/tutorial/renovar-token-de-api--7r4AzptYjXErGHadg9LnJ3) para saber más.
 
 ## Reevaluar las claves y los accesos periódicamente
 

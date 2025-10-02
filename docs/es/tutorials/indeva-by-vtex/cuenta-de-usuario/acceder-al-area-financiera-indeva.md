@@ -3,8 +3,8 @@ title: 'Acceder al área financiera'
 id: 3Oicnu7sNklQx8Neg6nHRM
 status: PUBLISHED
 createdAt: 2025-09-08T16:00:26.474Z
-updatedAt: 2025-09-08T17:46:03.515Z
-publishedAt: 2025-09-08T17:46:03.515Z
+updatedAt: 2025-10-02T14:10:22.543Z
+publishedAt: 2025-10-02T14:10:22.543Z
 firstPublishedAt: 2025-09-08T16:08:42.272Z
 contentType: tutorial
 productTeam: Others

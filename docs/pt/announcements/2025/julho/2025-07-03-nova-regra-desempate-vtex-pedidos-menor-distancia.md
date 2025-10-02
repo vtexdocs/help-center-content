@@ -3,8 +3,8 @@ title: 'Nova regra de desempate de pedidos na VTEX otimiza a distância até o c
 id: 5pSsuRw6WaoUfznwh0HWXe
 status: PUBLISHED
 createdAt: 2025-07-03T18:17:29.710Z
-updatedAt: 2025-07-07T14:43:10.095Z
-publishedAt: 2025-07-07T14:43:10.095Z
+updatedAt: 2025-10-02T14:50:17.757Z
+publishedAt: 2025-10-02T14:50:17.757Z
 contentType: updates
 productTeam: Post-purchase
 author: 2o8pvz6z9hvxvhSoKAiZzg
@@ -23,8 +23,8 @@ O fluxo atual de alocação de pedidos segue as etapas abaixo:
 
 1. Eliminação de sellers que não atendem à [localidade do pedido](/pt/tutorial/configurar-a-regionalizacao-de-sellers--32t6wLpQCEnumoh8TjT5fw) ou não possuem estoque suficiente para pelo menos um item do carrinho.
 2. Redução do conjunto de sellers para até doze, considerando:
-    * **Para entrega**: menor custo de frete (cadastrado na [tabela de frete](/pt/tutorial/planilha-de-frete--tutorials_127)) e prazo.
-    * **Para retirada**: menor custo de frete (cadastrado na [tabela de frete](/pt/tutorial/planilha-de-frete--tutorials_127)), prazo, e menor distância entre o comprador e o ponto de retirada.
+    * **Para entrega**: menor custo de frete e prazo.
+    * **Para retirada**: menor custo de frete, prazo, e menor distância entre o comprador e o ponto de retirada.
     * Quantidade de estoque como critério de desempate.
 3. Dentre os até doze sellers selecionados anteriormente, priorização considerando:
     * Menor preço do total dos itens e maior disponibilidade do carrinho.

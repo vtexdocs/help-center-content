@@ -3,8 +3,8 @@ title: 'Acessar a área financeira'
 id: 3Oicnu7sNklQx8Neg6nHRM
 status: PUBLISHED
 createdAt: 2025-09-08T16:00:26.474Z
-updatedAt: 2025-09-08T17:46:03.515Z
-publishedAt: 2025-09-08T17:46:03.515Z
+updatedAt: 2025-10-02T14:10:22.543Z
+publishedAt: 2025-10-02T14:10:22.543Z
 firstPublishedAt: 2025-09-08T16:08:42.272Z
 contentType: tutorial
 productTeam: Others
@@ -23,5 +23,5 @@ A área financeira está disponível apenas na versão web da plataforma. O aces
 
 ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/conta-do-usu%C3%A1rio/acessar-a-area-financeira-indeva_1.gif)
 
-> ℹ️ Para adicionar ou remover endereços de email com permissão para acessar a área financeira, envie uma solicitação para **faturamento@indeva.com.br**, informando o **CNPJ** e o email que deseja adicionar ou remover.
+Para adicionar ou remover endereços de e-mail com permissão para acessar a área financeira, envie uma solicitação para **faturamento@indeva.com.br**, informando o **CNPJ** da loja e o endereço que deseja incluir ou remover.
 
