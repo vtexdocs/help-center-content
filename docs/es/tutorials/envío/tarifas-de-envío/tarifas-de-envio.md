@@ -29,4 +29,4 @@ En el Admin VTEX, hay dos maneras de registrar las tarifas de envío:
 
 > ⚠️ Puede configurar la ubicación por polígono, el **costo de seguro** y el **adicional de flete** solo utilizando la [**plantilla de flete**](/es/tutorial/plantilla-de-flete--tutorials_127).
 
-> ℹ️ Cuando tenga que actualizar o registrar varios precios de envío, recomendamos utilizar la [plantilla de flete](https://help.vtex.com/es/tutorial/plantilla-de-flete--tutorials_127) en vez del módulo **Tarifas de envío**. Si desea comprobar cómo se mostrarán las tarifas de envío registradas al cliente final, utilice el módulo **[Simulador de envío**](/es/tutorial/simulador-de-envio--tutorials_144).
+> ℹ️ Cuando tenga que actualizar o registrar varios precios de envío, recomendamos utilizar la [plantilla de flete](/es/tutorial/plantilla-de-flete--tutorials_127) en vez del módulo **Tarifas de envío**. Si desea comprobar cómo se mostrarán las tarifas de envío registradas al cliente final, utilice el módulo **[Simulador de envío**](/es/tutorial/simulador-de-envio--tutorials_144).

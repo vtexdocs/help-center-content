@@ -49,7 +49,7 @@ Follow the steps below to create a website or publish your first store.
 ## Related articles
 
 - [What is a website?](/en/tutorial/o-que-e-um-web-site--5sPUdFEv9C02i0MMqqSo0U?&utm_source=autocomplete)
-- [Linking an account name to a website] (binding)](/pt/tutorial/vincular-um-account-name-a-um-website-binding)
+- [Linking an account name to a website (binding)](/en/tutorial/vincular-um-account-name-a-um-website-binding)
 - [CMS layout overview](/en/tutorial/o-que-e-o-cms-layout--EmO8u2WBj2W4MUQCS8262)
 - [Creating a page template](/en/tutorial/como-criar-um-template-de-pagina--frequentlyAskedQuestions_1850)
 [List of controls for templates](/en/tutorial/lista-de-controles-para-templates).

@@ -25,7 +25,7 @@ Una posibilidad es trabajar todo el catálogo de productos junto al marketplace.
 
 Esta política comercial no demanda una colección de productos configurada, porque el sistema ya entiende que se refiere a todos los productos.
 
-Otra posibilidad es trabajar con un surtido específico por alguna política comercial diferenciada. Para eso, será necesario crear y definir una nueva colección de productos y [asociarla a una nueva política comercial](/en/tutorial/configuring-a-marketplace-sales-policy/).
+Otra posibilidad es trabajar con un surtido específico por alguna política comercial diferenciada. Para eso, será necesario crear y definir una nueva colección de productos y [asociarla a una nueva política comercial](/es/tutorial/configuring-a-marketplace-sales-policy/).
 
 1. En el menú del Admin, acceda al __Catálogo__.
 2. Haga clic en **Productos y SKU**.

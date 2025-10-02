@@ -39,7 +39,7 @@ Hay dos opciones en el menú:
 
 ## Verificación en 2 pasos
 
-Haciendo clic en __Verificación en 2 pasos__, usted tiene acceso a dos opciones, __Código SMS__ y __App Google Autenticador__. Vea cómo configurar la verificación en 2 pasos en nuestro artículo [Habilitar inicio de sesión por autenticación de 2 factores](/pt/tutorial/habilitar-login-por-autenticacao-de-2-fatores).
+Haciendo clic en __Verificación en 2 pasos__, usted tiene acceso a dos opciones, __Código SMS__ y __App Google Autenticador__. Vea cómo configurar la verificación en 2 pasos en nuestro artículo [Habilitar inicio de sesión por autenticación de 2 factores](/es/tutorial/habilitar-login-por-autenticacao-de-2-fatores).
 
 ### Código SMS
 

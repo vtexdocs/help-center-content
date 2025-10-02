@@ -3,8 +3,8 @@ title: 'Vendedor responsável (VR)'
 id: p1VOMt1lIBqT3il1frgJT
 status: PUBLISHED
 createdAt: 2025-09-16T17:24:36.839Z
-updatedAt: 2025-09-16T17:38:40.288Z
-publishedAt: 2025-09-16T17:38:40.288Z
+updatedAt: 2025-10-01T18:27:22.736Z
+publishedAt: 2025-10-01T18:27:22.736Z
 firstPublishedAt: 2025-09-16T17:37:32.480Z
 contentType: tutorial
 productTeam: Others
@@ -15,7 +15,10 @@ locale: pt
 subcategoryId: 1acPW0OHXq4PjbQUFVrNrY
 ---
 
-O **Vendedor Responsável (VR)** possui as seguintes permissões:
+
+O **Vendedor Responsável (VR)** é um perfil atribuído a um vendedor para que ele possa acessar o ambiente web da Indeva e atuar na gestão da loja. 
+Este documento explica como atribuir ou encerrar o período de responsabilidade de um vendedor e quais permissões estão associadas a esse papel.
+
 
 <ul>
   <li>Acesso ao ambiente web Indeva.</li>
@@ -23,7 +26,7 @@ O **Vendedor Responsável (VR)** possui as seguintes permissões:
   <li>Participação na organização da Lista da Vez por meio do aplicativo Indeva.</li>
 </ul>
 
-> ℹ️ Para designar um vendedor como VR, ele deve estar previamente cadastrado na loja. Consulte o artigo [Cadastro de vendedor](/pt/tutorial/cadastro-de-vendedor-indeva--6aHQ7kz8MBAuM143sMnFqK) para mais detalhes.
+> ℹ️ Para designar um vendedor como vendedor responsável (VR), ele deve estar previamente cadastrado na loja. Consulte o artigo [Cadastro de vendedor](/pt/tutorial/cadastro-de-vendedor-indeva--6aHQ7kz8MBAuM143sMnFqK) para mais detalhes.
 
 <h2>Tornar vendedor responsável</h2>
 
@@ -31,7 +34,7 @@ O **Vendedor Responsável (VR)** possui as seguintes permissões:
   <li>No painel do vendedor, clique em **Ações** e selecione **Tornar VR**.</li>
 </ol>
 
-![Tela com opção de tornar vendedor responsável](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/vendedores/vendedor-responsavel-vr-indeva_1.png)
+<img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/vendedores/vendedor-responsavel-vr-indeva_1.png" alt="Tela com opção de tornar vendedor responsável">
 
 <ol start="2">
   <li>Preencha as seguintes informações:
@@ -44,7 +47,7 @@ O **Vendedor Responsável (VR)** possui as seguintes permissões:
   <li>Clique em **Tornar vendedor responsável** para concluir.</li>
 </ol>
 
-![Tela de confirmação para tornar vendedor responsável](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/vendedores/vendedor-responsavel-vr-indeva_2.png)
+<img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/vendedores/vendedor-responsavel-vr-indeva_2.png" alt="Tela de confirmação para tornar vendedor responsável">
 
 > ⚠️ A senha de acesso ao ambiente web será criada no primeiro login da plataforma.
 
@@ -54,12 +57,12 @@ O **Vendedor Responsável (VR)** possui as seguintes permissões:
   <li>No painel do vendedor, clique em **Ações** e selecione **Finalizar período como VR**.</li>
 </ol>
 
-![Tela com opção de finalizar período como VR](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/vendedores/vendedor-responsavel-vr-indeva_3.png)
+<img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/vendedores/vendedor-responsavel-vr-indeva_3.png" alt="Tela com opção de finalizar período como VR">
 
 <ol start="2">
   <li>Informe a **Data de término como VR** (último dia de acesso como vendedor responsável).</li>
   <li>Clique em **Finalizar** para confirmar.</li>
 </ol>
 
-![Tela de confirmação de término do período como VR](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/vendedores/vendedor-responsavel-vr-indeva_4.png)
+<img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/vendedores/vendedor-responsavel-vr-indeva_4.png" alt="Tela de confirmação de término do período como VR">
 

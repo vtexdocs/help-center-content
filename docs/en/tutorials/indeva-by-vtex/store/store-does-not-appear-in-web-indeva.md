@@ -1,10 +1,10 @@
 ---
 title: 'Store does not appear in Web Indeva'
 id: 2IqKtPzDDKrTNjyPDJpjpV
-status: CHANGED
+status: PUBLISHED
 createdAt: 2025-09-11T16:21:12.144Z
-updatedAt: 2025-09-12T10:40:35.583Z
-publishedAt: 2025-09-11T16:36:00.246Z
+updatedAt: 2025-10-01T18:31:43.345Z
+publishedAt: 2025-10-01T18:31:43.345Z
 firstPublishedAt: 2025-09-11T16:34:13.179Z
 contentType: tutorial
 productTeam: Others

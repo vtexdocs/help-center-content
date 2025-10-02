@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 14V5ezEX0cewOMg0o0cYM6
 ---
 
-Para habilitar el inicio de sesión por OAuth2 vía Google, usted necesita acceder al VTEX ID por su Admin y rellenar los campos `Client ID` y `Client Secret`, como se detalla en [este artículo](/pt/tutorial/integracao-google-e-facebook-para-login).
+Para habilitar el inicio de sesión por OAuth2 vía Google, usted necesita acceder al VTEX ID por su Admin y rellenar los campos `Client ID` y `Client Secret`, como se detalla en [este artículo](/es/tutorial/integracao-google-e-facebook-para-login).
 
 ![Google OAuth](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/autenticaci%C3%B3n/conceptos-b%C3%A1sicos-de-autenticaci%C3%B3n/registrar-client-id-y-client-secret-para-inicio-de-sesion-con-google_1.png)
 

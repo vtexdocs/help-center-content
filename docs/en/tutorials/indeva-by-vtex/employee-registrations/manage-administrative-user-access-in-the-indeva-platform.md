@@ -1,9 +1,9 @@
 ---
 title: 'Manage administrative user access in the Indeva platform'
 id: 36VXnj6jIV0zfCSqgGGdrG
-status: PUBLISHED
+status: CHANGED
 createdAt: 2025-09-11T12:20:10.752Z
-updatedAt: 2025-09-11T15:36:48.618Z
+updatedAt: 2025-10-01T18:05:24.441Z
 publishedAt: 2025-09-11T15:36:48.618Z
 firstPublishedAt: 2025-09-11T12:37:43.196Z
 contentType: tutorial

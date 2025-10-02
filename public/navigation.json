@@ -20990,6 +20990,21 @@
                 },
                 {
                   "name": {
+                    "en": "Requests panel",
+                    "es": "Panel de solicitudes",
+                    "pt": "Painel de solicitações"
+                  },
+                  "slug": {
+                    "en": "requests-panel-indeva",
+                    "es": "panel-de-solicitudes-indeva",
+                    "pt": "painel-de-solicitacoes-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Update user account information",
                     "es": "Actualizar la información de la cuenta de usuario",
                     "pt": "Atualizar dados da conta do usuário"
@@ -21033,17 +21048,33 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
-                },
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Devices AND apps",
+                "es": "Dispositivos y aplicaciones",
+                "pt": "Dispositivos e aplicativos"
+              },
+              "slug": {
+                "en": "devices-and-apps",
+                "es": "dispositivos-y-aplicaciones",
+                "pt": "dispositivos-e-aplicativos"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
                 {
                   "name": {
-                    "pt": "Transferir colaborador de uma loja para outra",
-                    "en": "Transferir colaborador de uma loja para outra",
-                    "es": "Transferir colaborador de uma loja para outra"
+                    "en": "Choose tablets and totems compatible with Indeva",
+                    "es": "Elegir tabletas y tótems compatibles con Indeva",
+                    "pt": "Escolher tablets e totens compatíveis com a Indeva"
                   },
                   "slug": {
-                    "pt": "transferir-colaborador-de-uma-loja-para-outra-indeva",
-                    "en": "",
-                    "es": ""
+                    "en": "choose-tablets-and-totems-compatible-with-indeva",
+                    "es": "elegir-tabletas-y-totems-compatibles-con-indeva",
+                    "pt": "escolher-tablets-e-totens-compativeis-com-a-indeva"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -21067,14 +21098,59 @@
               "children": [
                 {
                   "name": {
-                    "en": "Manage administrative user access in the Indeva platform",
-                    "es": "Registrar nuevo usuario: franquiciado, supervisor o equivalente",
-                    "pt": "Gerenciar acesso de usuários administrativos na plataforma Indeva"
+                    "en": "Add employee access to a second store",
+                    "es": "Agregar acceso de empleado a una segunda tienda",
+                    "pt": "Adicionar acesso de colaborador a uma segunda loja"
                   },
                   "slug": {
-                    "en": "manage-administrative-user-access-in-the-indeva-platform",
-                    "es": "registrar-nuevo-usuario-franquiciado-supervisor-equivalente-indeva",
-                    "pt": "gerenciar-acesso-de-usuarios-administrativos-na-plataforma-indeva"
+                    "en": "add-employee-access-to-a-second-store-indeva",
+                    "es": "agregar-acceso-de-empleado-a-una-segunda-tienda-indeva",
+                    "pt": "adicionar-acesso-de-colaborador-a-uma-segunda-loja-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Difference between responsible seller and manager",
+                    "es": "Diferencia entre vendedor responsable y gerente",
+                    "pt": "Diferença entre vendedor responsável e gerente"
+                  },
+                  "slug": {
+                    "en": "difference-between-responsible-seller-and-manager",
+                    "es": "diferencia-entre-vendedor-responsable-y-gerente",
+                    "pt": "diferenca-entre-vendedor-responsavel-e-gerente"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Employee management",
+                    "es": "Gestión de empleados",
+                    "pt": "Gerenciamento de colaboradores"
+                  },
+                  "slug": {
+                    "en": "employee-management-indeva",
+                    "es": "gestion-de-empleados-indeva",
+                    "pt": "gerenciamento-de-colaboradores-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Transfer store collaborator",
+                    "es": "Transferir colaborador de tienda",
+                    "pt": "Transferir colaborador de loja"
+                  },
+                  "slug": {
+                    "en": "transfer-an-employee-from-one-store-to-another-indeva",
+                    "es": "transferir-a-un-empleado-de-una-tienda-a-otra-indeva",
+                    "pt": "transferir-colaborador-de-uma-loja-para-outra-indeva"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -21357,6 +21433,37 @@
             },
             {
               "name": {
+                "en": "Indeva finance",
+                "es": "Finanzas de indeva",
+                "pt": "Financeiro indeva"
+              },
+              "slug": {
+                "en": "indeva-finance",
+                "es": "finanzas-de-indeva",
+                "pt": "financeiro-indeva"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Access information about open invoices",
+                    "es": "Acceder a la información sobre facturas pendientes",
+                    "pt": "Acessar informações sobre faturas em aberto"
+                  },
+                  "slug": {
+                    "en": "access-information-about-open-invoices-indeva",
+                    "es": "acceder-a-la-informacion-sobre-facturas-pendientes-indeva",
+                    "pt": "acessar-informacoes-sobre-faturas-em-aberto-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "Indeva forms",
                 "es": "Formularios de indeva",
                 "pt": "Formulários indeva"
@@ -21433,28 +21540,166 @@
             },
             {
               "name": {
-                "en": "Loja",
-                "es": "Loja",
-                "pt": "Loja"
+                "en": "Indeva queue list",
+                "es": "Lista de turno de indeva",
+                "pt": "Lista da vez indeva"
               },
               "slug": {
-                "en": "loja",
-                "es": "loja",
-                "pt": "loja"
+                "en": "indeva-queue-list",
+                "es": "lista-de-turno-de-indeva",
+                "pt": "lista-da-vez-indeva"
               },
               "origin": "",
               "type": "category",
               "children": [
                 {
                   "name": {
-                    "pt": "Loja não aparece no Web Indeva",
-                    "en": "Loja não aparece no Web Indeva",
-                    "es": "Loja não aparece no Web Indeva"
+                    "en": "Identify the meaning of colors in the Queue List",
+                    "es": "Identificar el significado de los colores en la Lista de Turno",
+                    "pt": "Identificar o significado das cores na Lista da Vez"
                   },
                   "slug": {
-                    "pt": "loja-nao-aparece-no-web-indeva",
-                    "en": "",
-                    "es": ""
+                    "en": "identify-the-meaning-of-colors-in-the-queue-list-indeva",
+                    "es": "identificar-el-significado-de-los-colores-en-la-lista-de-turno-indeva",
+                    "pt": "identificar-o-significado-das-cores-na-lista-da-vez-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Install the correct Indeva app",
+                    "es": "Instalar la aplicación correcta de Indeva",
+                    "pt": "Instalar o aplicativo correto da Indeva"
+                  },
+                  "slug": {
+                    "en": "install-the-correct-indeva-app-indeva",
+                    "es": "instalar-la-aplicacion-correcta-de-indeva",
+                    "pt": "instalar-o-aplicativo-correto-da-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Track usability in the Queue List",
+                    "es": "Hacer seguimiento de la usabilidad en la Lista de Turno",
+                    "pt": "Acompanhar usabilidade na Lista da Vez"
+                  },
+                  "slug": {
+                    "en": "track-usability-in-the-queue-list-indeva",
+                    "es": "hacer-seguimiento-de-la-usabilidad-en-la-lista-de-turno-indeva",
+                    "pt": "acompanhar-usabilidade-na-lista-da-vez-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Indeva support",
+                "es": "Soporte de indeva",
+                "pt": "Suporte indeva"
+              },
+              "slug": {
+                "en": "indeva-support",
+                "es": "soporte-de-indeva",
+                "pt": "suporte-indeva"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Open a support request indeva",
+                    "es": "Abrir una solicitud de soporte indeva",
+                    "pt": "Abrir uma solicitação de suporte indeva"
+                  },
+                  "slug": {
+                    "en": "open-a-support-request-indeva",
+                    "es": "abrir-una-solicitud-de-soporte-indeva",
+                    "pt": "abrir-uma-solicitacao-de-suporte-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Open a ticket via Eva assistant",
+                    "es": "Abrir un ticket a través de la asistente Eva",
+                    "pt": "Abrir chamado via assistente Eva"
+                  },
+                  "slug": {
+                    "en": "open-a-ticket-via-eva-assistant-indeva",
+                    "es": "abrir-un-ticket-a-traves-de-la-asistente-eva-indeva",
+                    "pt": "abrir-chamado-via-assistente-eva-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Indeva training",
+                "es": "Capacitación de indeva",
+                "pt": "Treinamento indeva"
+              },
+              "slug": {
+                "en": "indeva-training",
+                "es": "capacitacion-de-indeva",
+                "pt": "treinamento-indeva"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Start using Indeva",
+                    "es": "Comenzar a usar Indeva",
+                    "pt": "Começar a usar a Indeva"
+                  },
+                  "slug": {
+                    "en": "start-using-indeva",
+                    "es": "comenzar-a-usar-indeva",
+                    "pt": "comecar-a-usar-a-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Indeva usability",
+                "es": "Usabilidad de indeva",
+                "pt": "Usabilidade indeva"
+              },
+              "slug": {
+                "en": "indeva-usability",
+                "es": "usabilidad-de-indeva",
+                "pt": "usabilidade-indeva"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Evaluate usability in the Queue List",
+                    "es": "Evaluar la usabilidad en la Lista de Turno",
+                    "pt": "Avaliar usabilidade na Lista da Vez"
+                  },
+                  "slug": {
+                    "en": "evaluate-usability-in-the-queue-list-indeva",
+                    "es": "evaluar-la-usabilidad-en-la-lista-de-turno-indeva",
+                    "pt": "avaliar-usabilidade-na-lista-da-vez-indeva"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -22072,6 +22317,37 @@
             },
             {
               "name": {
+                "en": "Store",
+                "es": "Tienda",
+                "pt": "Loja"
+              },
+              "slug": {
+                "en": "store",
+                "es": "tienda",
+                "pt": "loja"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "Store does not appear in Web Indeva",
+                    "es": "La tienda no aparece en Web Indeva",
+                    "pt": "Loja não aparece no Web Indeva"
+                  },
+                  "slug": {
+                    "en": "store-does-not-appear-in-web-indeva",
+                    "es": "la-tienda-no-aparece-en-web-indeva",
+                    "pt": "loja-nao-aparece-no-web-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "Tablet AND current queue list",
                 "es": "Tableta y lista del turno actual",
                 "pt": "Tablet e lista da vez"
@@ -22176,6 +22452,21 @@
                 },
                 {
                   "name": {
+                    "en": "New totem request",
+                    "es": "Solicitud de nuevo tótem",
+                    "pt": "Solicitação de novo totem"
+                  },
+                  "slug": {
+                    "en": "new-totem-request-indeva",
+                    "es": "solicitud-de-nuevo-totem-indeva",
+                    "pt": "solicitacao-de-novo-totem-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Tablet models approved for in-store use",
                     "es": "Modelos de tablet homologados para uso en tienda",
                     "pt": "Modelos de tablet homologados para uso em loja"
@@ -22184,6 +22475,21 @@
                     "en": "tablet-models-approved-for-in-store-use-indeva",
                     "es": "modelos-de-tablet-homologados-para-uso-en-tienda-indeva",
                     "pt": "modelos-de-tablet-homologados-para-uso-em-loja-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Tags do not sync with Indeva",
+                    "es": "Las etiquetas no se sincronizan con Indeva",
+                    "pt": "Marcações não sincronizam com a Indeva"
+                  },
+                  "slug": {
+                    "en": "tags-do-not-sync-with-indeva",
+                    "es": "las-etiquetas-no-se-sincronizan-con-indeva",
+                    "pt": "marcacoes-nao-sincronizam-com-a-indeva"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -39465,6 +39771,21 @@
             },
             {
               "name": {
+                "en": "Kit component calculations does not automatically updates its final price",
+                "es": "El cálculo de los componentes del kit no actualiza automáticamente su precio final",
+                "pt": "Os cálculos de componentes do kit não atualizam automaticamente seu preço final"
+              },
+              "slug": {
+                "en": "kit-component-calculations-does-not-automatically-updates-its-final-price",
+                "es": "el-calculo-de-los-componentes-del-kit-no-actualiza-automaticamente-su-precio-final",
+                "pt": "os-calculos-de-componentes-do-kit-nao-atualizam-automaticamente-seu-preco-final"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Kit Creation API is not Calculating Component Prices",
                 "es": "La API de creación de kits no calcula los precios de los componentes",
                 "pt": "A API de criação de kits não está calculando os preços dos componentes"
@@ -55842,6 +56163,21 @@
                 "en": "order-report-inconsistency-when-tid-field-is-duplicated-in-the-connectorresponses-field-from-get-payment-details-api",
                 "es": "incoherencia-en-el-informe-de-pedido-cuando-el-campo-tid-esta-duplicado-en-el-campo-connectorresponses-de-la-api-de-detalles-de-pago-get",
                 "pt": "inconsistencia-no-relatorio-de-pedidos-quando-o-campo-tid-e-duplicado-no-campo-connectorresponses-da-api-de-detalhes-de-pagamento-get"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Order Stuck in Payment Pending Due to Outdated Transaction Status",
+                "es": "Pedido bloqueado en pendiente de pago debido a un estado de transacción obsoleto",
+                "pt": "Pedido preso em pagamento pendente devido a status de transação desatualizado"
+              },
+              "slug": {
+                "en": "order-stuck-in-payment-pending-due-to-outdated-transaction-status",
+                "es": "pedido-bloqueado-en-pendiente-de-pago-debido-a-un-estado-de-transaccion-obsoleto",
+                "pt": "pedido-preso-em-pagamento-pendente-devido-a-status-de-transacao-desatualizado"
               },
               "origin": "",
               "type": "markdown",

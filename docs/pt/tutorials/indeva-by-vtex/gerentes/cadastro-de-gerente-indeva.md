@@ -3,8 +3,8 @@ title: 'Cadastro de gerente'
 id: 6r2bjS0LFdUX0kyt0NyWhf
 status: PUBLISHED
 createdAt: 2025-09-16T17:52:24.779Z
-updatedAt: 2025-09-16T19:09:35.742Z
-publishedAt: 2025-09-16T19:09:35.742Z
+updatedAt: 2025-10-01T18:28:57.081Z
+publishedAt: 2025-10-01T18:28:57.081Z
 firstPublishedAt: 2025-09-16T19:08:59.980Z
 contentType: tutorial
 productTeam: Others
@@ -15,7 +15,10 @@ locale: pt
 subcategoryId: 4LwIt8RFNUOMKhMZ2C6hAK
 ---
 
-A execução deste processo está restrita a usuários com os perfis Supervisor, Franqueado ou Administrador.
+
+  O cadastro de gerentes na plataforma Indeva permite habilitar usuários com perfil de gestão para acesso ao ambiente web. 
+  Este procedimento deve ser realizado por perfis com permissão de administração, Supervisor, Franqueado ou Administrador.
+
 
 <ol>
   <li>No menu lateral, acesse **Cadastro &gt; Gerentes**.</li>
@@ -40,4 +43,12 @@ A execução deste processo está restrita a usuários com os perfis Supervisor,
 
 > ⚠️ O cadastro na Indeva é único e intransferível. Para garantir a segurança das informações, recomendamos realizar o desligamento ou a transferência do gerente em caso de alteração de acessos. Para mais informações, acesse o artigo [Desligar gerente](/pt/tutorial/desligar-gerente-indeva--5LxrfSgD7f4IgRGWlrcnRV).
 
-Após o cadastro, o acesso ao site será liberado apenas a partir da data de início informada. O usuário precisará criar uma senha para acessar a plataforma. Para mais informações, acesse o artigo [Cadastrar ou redefinir senha para acesso à plataforma Indeva](/pt/tutorial/cadastrar-ou-redefinir-senha-para-acesso-a-plataforma-indeva--6WpfWS9NBPTx346oF2BSgI).
+
+  Após o cadastro, o acesso ao site será liberado apenas a partir da data de início informada. 
+  O usuário precisará criar uma senha para acessar a plataforma. 
+  Para mais informações, acesse o artigo 
+  <a href="/pt/tutorial/cadastrar-ou-redefinir-senha-para-acesso-a-plataforma-indeva--6WpfWS9NBPTx346oF2BSgI">
+    Cadastrar ou redefinir senha para acesso à plataforma Indeva
+  </a>.
+
+

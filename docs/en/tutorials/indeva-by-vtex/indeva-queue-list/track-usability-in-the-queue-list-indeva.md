@@ -1,10 +1,10 @@
 ---
 title: 'Track usability in the Queue List'
 id: 4NzByrrwdwVzsGx0IrOqeu
-status: CHANGED
+status: PUBLISHED
 createdAt: 2025-09-30T19:07:39.212Z
-updatedAt: 2025-09-30T19:26:51.984Z
-publishedAt: 2025-09-30T19:26:08.887Z
+updatedAt: 2025-10-01T10:49:40.633Z
+publishedAt: 2025-10-01T10:49:40.633Z
 firstPublishedAt: 2025-09-30T19:26:08.887Z
 contentType: tutorial
 productTeam: Others

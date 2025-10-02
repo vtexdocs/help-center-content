@@ -1,9 +1,9 @@
 ---
 title: 'Gerenciar acesso de usuários administrativos na plataforma Indeva'
 id: 36VXnj6jIV0zfCSqgGGdrG
-status: PUBLISHED
+status: CHANGED
 createdAt: 2025-09-11T12:20:10.752Z
-updatedAt: 2025-09-11T15:36:48.618Z
+updatedAt: 2025-10-01T18:05:24.441Z
 publishedAt: 2025-09-11T15:36:48.618Z
 firstPublishedAt: 2025-09-11T12:37:43.196Z
 contentType: tutorial
@@ -16,8 +16,6 @@ subcategoryId: 2fZRuqcVChcJ9AhY4vzfl3
 ---
 
 Na plataforma Indeva, usuários são colaboradores que acessam o sistema, mas não atuam como gerentes nem vendedores. Isso inclui perfis como supervisores, franqueados, consultores e administradores.
-
-As ações de gestão de acesso descritas neste documento devem sempre ser executadas por um usuário com permissão superior ao perfil-alvo.
 
 ## Cadastrar novo usuário franqueado, supervisor ou equivalente
 Para solicitar o cadastro de um novo usuário, é necessário abrir um chamado com o time de suporte da Indeva, contendo as seguintes informações:

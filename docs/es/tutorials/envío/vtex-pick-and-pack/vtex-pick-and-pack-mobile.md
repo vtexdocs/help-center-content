@@ -3,8 +3,8 @@ title: 'VTEX Pick and Pack Mobile'
 id: 3i1K01CQlDBFYYp42WFOet
 status: PUBLISHED
 createdAt: 2024-04-04T20:42:46.548Z
-updatedAt: 2025-09-29T19:08:32.083Z
-publishedAt: 2025-07-07T18:08:42.360Z
+updatedAt: 2025-10-01T19:33:57.065Z
+publishedAt: 2025-10-01T19:33:57.065Z
 firstPublishedAt: 2024-04-06T01:59:46.300Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -21,12 +21,31 @@ La aplicación móvil de [VTEX Pick and Pack](/es/tutorial/vtex-pick-and-pack-fu
 
 ![pickpack-mobile-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/vtex-pick-and-pack/vtex-pick-and-pack-mobile_1.png)
 
-La preparación de pedidos se divide en cuatro etapas, que siguen el flujo habitual de los pedidos en la tienda:
+La preparación de pedidos se divide en tres etapas, que siguen el flujo habitual de los pedidos en la tienda:
 
 - [Crear hoja de trabajo](#crear-hoja-de-trabajo)
 - [Alistamiento de productos](#alistamiento-de-productos)
 - [Empaque del pedido](#empaque-del-pedido)
-- [Envío de los paquetes](#envio-de-los-paquetes)
+
+## Menú
+
+El menú de la aplicación __VTEX Pick and Pack__ reúne las principales funcionalidades que ayudan en la navegación y la ejecución de tareas. Permite acceder a diferentes secciones de la aplicación fácilmente. 
+
+Para acceder al menú, haz clic en el ícono <i class="fas fa-grip-lines"></i> en la parte superior derecha, donde se muestran los siguientes campos:
+
+![pickpack-menu-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/vtex-pick-and-pack/vtex-pick-and-pack-mobile_2.png)
+
+- <i class="fas fa-house"></i> __Resumen__: botón que redirige a la pantalla de inicio de la aplicación.
+- <img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/vtex-pick-and-pack/vtex-pick-and-pack-mobile_12.png" alt="pickpack-logout" width="30" height="30">: botón para cerrar sesión en la aplicación.
+- <i class="fas fa-history"></i> __Historial__: botón que redirige al historial de hojas de trabajo finalizadas.
+- <i class="fas fa-globe"></i> Idioma: botón para cambiar el idioma de la aplicación.
+- __Cambiar a__ <img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/vtex-pick-and-pack/vtex-pick-and-pack-mobile_13.png" alt="pickpack-logout" width="35" height="30">: botón para cambiar la instalación donde se realizará el alistamiento de los pedidos.
+- Pendientes: botón que redirige a la pantalla de hojas de trabajo pendientes.
+-__ A empacar__: botón que redirige a la pantalla de hojas de trabajo que están listas para empaque.
+- <i class="fas fa-bell"></i>: sección de notificaciones de los últimos cambios en las hojas de trabajo.
+- `Solicitar tu próxima tarea` <i class="fas fa-arrow-right"></i>: botón que dirige a la pantalla de creación de hoja de trabajo.
+
+Para contraer el menú, haz clic en Cerrar menú <i class=\"fas fa-chevron-right\"></i>.
 
 ## Hojas de trabajo
 
@@ -50,55 +69,84 @@ A continuación, la aplicación dará soporte para el empaque de cada pedido con
 
 ## Crear hoja de trabajo
 
-La pestaña Sin asignar muestra en una lista los pedidos que deben seleccionarse para agregarlos a las hojas de trabajo. 
+La imagen de la pestaña a continuación muestra los pedidos que deben seleccionarse para las [hojas de trabajo](#hojas-de-trabajo-pendientes): 
 
-![pickpack-ordemservico-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/vtex-pick-and-pack/vtex-pick-and-pack-mobile_2.png)
+![pickpack-ordemservico-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/vtex-pick-and-pack/vtex-pick-and-pack-mobile_3.png)
+
+La lista de pedidos organiza la información de la siguiente forma:
+
+| Pedido     | Entrega hasta el     |
+| ---------- | ---------- |
+| Número del pedido con la cantidad de unidades y el total de ítems que están contenidos en el mismo.       | Fecha límite para entregar el pedido.       |
 
 Para agregar una hoja de trabajo sigue los pasos a continuación:
 
-En la pantalla de inicio, haz clic en Sin asignar <i class="fas fa-arrow-right"></i>.
-Selecciona los pedidos que deseas incluir en la hoja de trabajo. Para crear una hoja de trabajo con todos los pedidos, haz clic en <i class="fas fa-square"></i> `Seleccionar todos`.
-Haz clic en `Empezar a alistar`.
+1. Haz clic en el menú <i class="fas fa-grip-lines"></i> .
+2. Haz clic en el botón `Solicitar tu próxima tarea` <i class="fas fa-arrow-right"></i>.
+3. Marca las casillas de los pedidos que deseas incluir en la hoja de trabajo. Para crear una hoja de trabajo con todos los pedidos, haz clic en Seleccionar todo.
+4. Haz clic en `Empezar a alistar`.
 
-## Alistar productos
+Para buscar un pedido, escribe el ID del pedido en la barra de búsqueda. Para filtrar la lista de pedidos, haz clic en <img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/vtex-pick-and-pack/vtex-pick-and-pack-mobile_14.png" alt="pickpack-filter" width="30" height="30"> y selecciona una o más de las siguientes opciones:
 
-La etapa de alistamiento consiste en seleccionar físicamente los ítems de una [hoja de trabajo](#hojas-de-trabajo) y llevarlos a la zona adecuada de tu instalación para su posterior empaque.
+* Fecha de entrega
+* [Categorías](/es/tutorial/o-que-e-uma-categoria--6HV4Q3E2FauUoOQoiCCgCg)
+* [Medios de pago](/es/tutorial/diferenca-entre-meios-de-pagamento-e-condicoes-de-pagamento--3azJenhGFyUy2gsocms42Q)
+* [Estrategia de envío](/es/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3)
+* Tipo de envío
+
+## Alistar ítems
+
+Durante el alistamiento, el alistador selecciona físicamente los ítems correspondientes a una [hoja de trabajo](#hojas-de-trabajo) y los lleva al espacio designado para empaque en la instalación.
 
 ### Hojas de trabajo pendientes
 
-La pestaña __Pendientes__ muestra la lista de hojas de trabajo cuyo alistamiento no ha finalizado.
+La pestaña __Hojas de trabajo pendientes__ muestra la lista de hojas de trabajo que no se han terminado de alistar, como se muestra en la siguiente imagen:
 
-![pickpack-pendente-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/vtex-pick-and-pack/vtex-pick-and-pack-mobile_3.png)
+![pickpack-pendente-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/vtex-pick-and-pack/vtex-pick-and-pack-mobile_4.png)
 
-En esta pestaña, puedes seleccionar por el ID de una hoja de trabajo si deseas que se muestren solamente los ítems ya alistados de ese pedido.
+Puedes seleccionar el ID de una hoja de trabajo si deseas ver solo los ítems ya alistados de un pedido específico.
 
-Si hay hojas de trabajo asignadas al alistador, puedes acceder a ellas desde la pantalla de alistamiento siguiendo estos pasos:
+Si tienes hojas de trabajo asignadas como alistador, puedes acceder a ellas desde la pantalla de alistamiento siguiendo estos pasos:
 
-1. En la pantalla de inicio de la aplicación, haz clic en **Continuar alistando**. Aparecerá una lista con las [hojas de trabajo](#hojasdetrabajo) asignadas al alistador que están en fase de alistamiento.
-2. Haz clic en la hoja de trabajo que deseas alistar.
+1. Haz clic en el menú <i class="fas fa-grip-lines">&</i>.
+2. Haz clic en **Pendientes**. Se mostrará una lista con las [hojas de trabajo](/es/tutorial/vtex-pick-and-pack-mobile--3i1K01CQlDBFYYp42WFOet#ordens-de-servico) asignadas que están en la etapa de alistamiento.
+3. Haz clic en el botón <i class="fas fa-arrow-right"></i> de la hoja de trabajo del pedido que deseas alistar.
 
-Al hacer clic en una hoja de trabajo se mostrará la siguiente información:
+Al hacer clic en una hoja de trabajo, se mostrará la siguiente información:
 
-- __Ítems:__ productos que deben alistarse de la hoja de trabajo.
-- __Información:__ información general sobre la hoja de trabajo y el pedido.
-- __Resumen:__ productos ya alistados por el alistador.
+* **Ítems:** productos que deben alistarse en la hoja de trabajo.
+* **Actividad**: muestra los detalles de los cambios realizados en la hoja de trabajo, como productos agregados, cantidades actualizadas y reemplazos.
+* **Información:** información general sobre la hoja de trabajo y el pedido.
+* **Resumen:** ítems ya alistados.
 
-![pickpack-em-separacao-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/vtex-pick-and-pack/vtex-pick-and-pack-mobile_4.png)
+![pickpack-em-separacao-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/vtex-pick-and-pack/vtex-pick-and-pack-mobile_5.png)
 
-Al hacer clic en el menú <i class="fas fa-ellipsis-v"></i>, se mostrarán las siguientes acciones:
+Al hacer clic en el menú , se muestran las siguientes acciones:
 
-- **Agregar observación:** agrega una observación a la hoja de trabajo.
-- **Listo para empaque:** utilizado para alistar o rechazar pedidos en masa.
-- **Pausar alistamiento:** pausa la cuenta atrás del tiempo disponible para el alistamiento de la hoja de trabajo.
-- **Abrir lector de código de barras:** utiliza la cámara del dispositivo para leer los códigos de barras de los productos.
-- **Imprimir lista de alistamiento:** disponibiliza un documento con la lista de ítems de la hoja de trabajo para impresión.
-- **Cerrar menú:** cierra el menú y vuelve a la pantalla de alistamiento. 
+* **Agregar observación:** [agrega una observación](/es/tutorial/vtex-pick-and-pack-configuracoes--16cs3e7hWk7c4cSZqe10O9#alteracoes-no-pedido) libre a la hoja de trabajo.
+* **Agregar ítems al pedido:** inicia el flujo para [agregar nuevos ítems al pedido](#agregar-nuevos-productos-a-un-pedido).
+* **Listo para empacar:** alista o rechaza pedidos en masa.
+* **Pausar alistamiento:** pausa el recuento de tiempo del alistamiento de la hoja de trabajo.
+* **Abrir lector de código de barras:** utiliza la cámara del dispositivo para leer los códigos de barras de los productos.
+* **Imprimir lista de alistamiento:** proporciona un documento con la lista de ítems de la hoja de trabajo que puedes imprimir.
+* **Cerrar menú:** cierra el menú y redirige a la pantalla de alistamiento.
 
-Para alistar un producto sigue estos pasos:
+Para alistar un ítem sigue estos pasos:
 
 1. En la pantalla de __Alistamiento__, accede a la pestaña __Ítems__.
-2. Haz clic en el producto que deseas alistar o desliza el producto hacia la derecha. Si el producto tiene más de una unidad, haz clic en la cantidad de unidades del producto. Para productos que contienen peso o volumen, debes confirmar la medida y, a continuación, confirmar la selección, como en el ejemplo a seguir:
-![pickpack-item-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/vtex-pick-and-pack/vtex-pick-and-pack-mobile_5.png)
+2. Haz clic en el ítem que deseas alistar o desliza el producto hacia la derecha.
+    ![pickpack-item-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/vtex-pick-and-pack/vtex-pick-and-pack-mobile_6.png)
+3. Verifica la cantidad de ítems.
+4. Haz clic en `Confirmar alistamiento` o `Confirmar y alistar todas las unidades`, si hay varias unidades del mismo ítem.
+
+Para los ítems que se miden por peso o volumen, debes confirmar la medida y luego confirmar la selección, como se muestra en el siguiente ejemplo:
+
+![pickpack-item-peso-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/vtex-pick-and-pack/vtex-pick-and-pack-mobile_7.png)
+
+1. En la pantalla de __Alistamiento__, accede a la pestaña __Ítems__.
+2. Haz clic en el ítem que deseas alistar o desliza el producto hacia la derecha.
+3. Activa la opción <i class="fas fa-toggle-on"></i> `Sincronizar peso y precio` para realizar el cálculo y autocompletar el valor total del precio del ítem por peso. Desactiva la opción <i class="fas fa-toggle-off"></i> si deseas agregar el precio y el peso del ítem manualmente.
+4. Haz clic en `Confirmar alistamiento`.
 
 Para alistar todos los productos de la hoja de trabajo de una sola vez, sigue estos pasos:
 
@@ -110,28 +158,28 @@ Una vez alistados, los productos aparecen en la pestaña __Resumen__.
 
 ## Modificar cantidad de producto
 
-Los alistadores pueden modificar manualmente la cantidad del producto después de recibir una solicitud del cliente, como una llamada o un mensaje de texto, o porque el stock disponible de la tienda difiere de lo que se registró inicialmente. El cambio puede hacerse de dos maneras:
+Durante el proceso de alistamiento puedes actualizar manualmente la cantidad de un producto. Esta acción se puede realizar después de recibir una solicitud del cliente, ya sea por videollamada o mensaje de texto, o cuando el stock disponible en la tienda sea diferente al registrado inicialmente.
 
-### Seleccionando el producto
+### Al seleccionar el producto
 
 1. En la pantalla de **Alistamiento**, haz clic y mantén presionado el ítem cuya cantidad deseas cambiar.
 2. Haz clic en la opción **Agregar más unidades**.
-3. Selecciona la cantidad correcta.
+3. Selecciona la cantidad correcta. La cantidad de ítems que puedes modificar se define en la página de [Configuración](/es/tutorial/vtex-pick-and-pack-configuracoes--16cs3e7hWk7c4cSZqe10O9#separacao) del Admin VTEX.
 4. Haz clic en **Confirmar cambios**.
 
-### Seleccionando la hoja de trabajo
+### Al seleccionar la hoja de trabajo
 
 1. En la pantalla de **Alistamiento**, haz clic en la pestaña **Info**.
 2. Haz clic en el menú <i class="fas fa-ellipsis-v"></i> del pedido deseado.
 3. Haz clic en la opción **Agregar más unidades**.
-4. Selecciona la cantidad correcta.
+4. Selecciona la cantidad correcta. La cantidad de ítems que puedes modificar se define en la página de [Configuración](/es/tutorial/vtex-pick-and-pack-configuracoes--16cs3e7hWk7c4cSZqe10O9#separacao) del Admin VTEX.
 5. Haz clic en **Agregar productos**.
 
 ## Agregar nuevos productos a un pedido
 
-El alistador puede agregar manualmente nuevos productos a un pedido después de recibir una solicitud del cliente, como una llamada o un mensaje de texto. Hay dos formas de agregar nuevos productos a un pedido:
+Puedes agregar nuevos productos a un pedido manualmente después de recibir una solicitud del cliente, ya sea por videollamada o mensaje de texto. Hay dos formas de agregar nuevos productos a un pedido:
 
-### Seleccionando el producto
+### Al seleccionar el producto
 
 1. En la pantalla **Alistamiento**, haz clic en el menú <i class="fas fa-ellipsis-v"></i>.
 2. Haz clic en la opción **Agregar producto al pedido.**
@@ -140,7 +188,7 @@ El alistador puede agregar manualmente nuevos productos a un pedido después de 
 5. Selecciona la cantidad deseada.
 6. Haz clic en **Confirmar selección**.
 
-### Seleccionando la hoja de trabajo
+### Al seleccionar la hoja de trabajo
 
 1. En la pantalla de **Alistamiento**, haz clic en la pestaña **Info**.
 2. Haz clic en menú <i class="fas fa-ellipsis-v"></i> del pedido deseado.
@@ -149,43 +197,42 @@ El alistador puede agregar manualmente nuevos productos a un pedido después de 
 5. Selecciona la cantidad deseada.
 6. Haz clic en **Confirmar selección**.
 
-## Rechazar ítems
+## Descartar ítems
 
 Hay situaciones en las que puede ser necesario rechazar productos debido a la configuración de la tienda y a la disponibilidad de ítems en stock. 
-
-> ⚠️ La opción Rechazar ítems puede no estar disponible. En caso de duda, ponte en contacto con la gerencia de la tienda.
 
 Para rechazar un producto de la hoja de trabajo sigue los pasos que se indican a continuación:
 
 1. Accede a la pestaña __Ítems__.
 2. Haz clic y desliza hacia la izquierda el producto que deseas descartar.
-3. Selecciona el motivo del rechazo en la lista **Motivos de rechazo**.
-4. Selecciona el número de unidades que deseas rechazar o haz clic en `Confirmar y descartar todas las unidades`.
-5. Haz clic en `Descartar unidades`.
+3. Describe en el cuadro de texto el motivo de rechazo del ítem.
+    ![pickpack-item-recusa-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/vtex-pick-and-pack/vtex-pick-and-pack-mobile_8.png)
+4. Selecciona la cantidad de ítems que deseas rechazar. La cantidad de ítems que los alistadores pueden rechazar se define en la página de [Configuración](/es/tutorial/vtex-pick-and-pack-configuracoes--16cs3e7hWk7c4cSZqe10O9#separacao) en el Admin VTEX.
+5. Haz clic en `Descartar unidades` para la cantidad seleccionada o haz clic en `Confirmar y descartar todas las unidades` para rechazar todos los ítems.
 
 Para descartar todos los productos de la hoja de trabajo de una sola vez, sigue estos pasos:
 
 1. Haz clic en el menú <i class="fas fa-ellipsis-v"></i>.
 2. Haz clic en la opción **Listo para empaque.** 
-3. Haz clic en **Descartar todos los ítems disponibles.**
+3. Haz clic en **Rechazar todos los ítems disponibles** para finalizar el alistamiento.
 
 > ❗ Si se descartan todos los ítems de un pedido, el pedido se completará automáticamente.
 
-## Sustituir ítems
+## Reemplazar ítems
 
-Los alistadores también pueden sustituir un ítem por otro, dependiendo de la [configuración de la tienda](/es/tutorial/vtex-pick-and-pack-settings--16cs3e7hWk7c4cSZqe10O9#picking) y la disponibilidad del mismo. Esta funcionalidad ayuda a garantizar que los clientes reciban sus pedidos a tiempo, incluso si algunos ítems no están disponibles.
+También puedes reemplazar un ítem por otro, dependiendo de la [configuración de la tienda](/es/tutorial/vtex-pick-and-pack-settings--16cs3e7hWk7c4cSZqe10O9#picking) y la disponibilidad del ítem. Esta funcionalidad ayuda a asegurar que los clientes reciban sus pedidos a tiempo, aun cuando ciertos ítems no estén disponibles
 
 > ⚠️ La opción Rechazar ítems puede no estar disponible. En caso de duda, ponte en contacto con la gerencia de la tienda.
 
 Para reemplazar ítems de la hoja de trabajo sigue los pasos que se indican a continuación:
 
 1. En la pantalla de **Alistamiento**, haz clic manteniendo presionado el ítem cuya cantidad deseas modificar.
-2. Haz clic en la opción **Sustituir ítem**.
+2. Haz clic en la opción **Reemplazar ítem**.
 3. Escanea el código de barras del producto o búscalo manualmente utilizando la barra de búsqueda.
 4. Selecciona la cantidad deseada en unidades o agrega el valor del peso.
-5. Haz clic en **Continuar**.
-6. Selecciona el motivo de la sustitución. Los motivos listados son configurables en la página de [configuración](/es/tutorial/vtex-pick-and-pack-settings--16cs3e7hWk7c4cSZqe10O9#order-changes).
-7. Haz clic en **Confirmar y alistar sustituto**.
+5. Haz clic en `Confirmar selección` y luego en `Continuar`.
+6. Selecciona el motivo de la sustitución. Los motivos listados son configurables en la página de [Configuración](/es/tutorial/vtex-pick-and-pack-settings--16cs3e7hWk7c4cSZqe10O9#order-changes).
+7. Haz clic en **Confirmar reemplazo y alistar**.
 
 ## Finalizar alistamiento
 
@@ -193,58 +240,69 @@ Una vez alistados, rechazados o reemplazados todos los ítems de la hoja de trab
 
 ## Empaque
 
-En la etapa de empaque, el alistador selecciona los ítems de cada pedido en los respectivos embalajes de envío. La aplicación móvil de Pick and Pack permite la organización de todos los paquetes necesarios para los diversos pedidos de manera rápida y sencilla.
+En la etapa de empaque, debes seleccionar los ítems de cada pedido en los respectivos paquetes de envío. La aplicación móvil de Pick and Pack permite organizar rápidamente todos los paquetes necesarios para los diferentes pedidos.
 
-![pickpack-empacotamento-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/vtex-pick-and-pack/vtex-pick-and-pack-mobile_6.png)
+![pickpack-empacotamento-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/vtex-pick-and-pack/vtex-pick-and-pack-mobile_9.png)
 
-Puedes acceder a la página Empaque al [concluir el alistamiento](#finalizar-alistamiento) de una hoja de trabajo o siguiendo los pasos a continuación:
+Puedes acceder a la página de Empaque al finalizar el alistamiento de una hoja de trabajo o siguiendo estos pasos:
 
-1. En la pantalla de inicio de la aplicación, haz clic en **Empaque **. Aparecerá una lista con las [hojas de trabajo](#hojas-de-trabajo) asignadas al alistador que están en la etapa de empaque.
-2. Haz clic en la hoja de trabajo cuyos productos deseas empacar. 
+1. Haz clic en el menú <i class="fas fa-grip-lines"></i> .
+2. Haz clic en __A empacar__. Se mostrará una lista con las [hojas de trabajo](#hojas-de-trabajo) asignadas a ti que están en la etapa de empaque.
+3. Haz clic en la hoja de trabajo cuyos productos deseas empacar.
+    ![pickpack-item-pendente-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/vtex-pick-and-pack/vtex-pick-and-pack-mobile_10.png)
 
-![pickpack-item-pendente-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/vtex-pick-and-pack/vtex-pick-and-pack-mobile_7.png)
+Sigue los pasos que a continuación para empacar los ítems:
 
-Sigue los pasos que se indican a continuación para empacar ítems:
+1. En __Empaque__, haz clic en el pedido que deseas empacar.
+2. Haz clic en el botón `+` para confirmar la cantidad del producto que deseas agregar al paquete.
+3. Haz clic en `Empacar productos`.
+4. Selecciona un paquete ya registrado
+5. Haz clic en `Empacar productos`.
+6. Ingresa el peso total del paquete en kilogramos (kg).
+7. Haz clic en `Guardar`.
 
-1. En __Empaque__, haz clic en el pedido que deseas empacar. 
-2. Haz clic en el botón <i class="fas fa-plus"></i> del producto que deseas agregar al paquete o haz clic en <i class="fas fa-box"></i> para agregar todos los productos a la vez.
-> ⚠️ Si optas por empacar todos los ítems del pedido, los productos que aún no se hayan empacado se registrarán en un único nuevo empaque.
-5. Selecciona un tipo de paquete ya registrado o agrega uno nuevo haciendo clic en `+ Crear paquete`. 
-6. Selecciona el tipo de paquete que deseas agregar.
-7. Selecciona cuántas unidades del producto deseas agregar a ese paquete.
-8. Haz clic en el botón `Empacar producto`.
+### Paquete personalizado
+
+1. En __Empaque__, haz clic en el pedido que deseas empacar.
+2. Haz clic en el botón `+` para confirmar la cantidad del producto que deseas agregar al paquete.
+3. Haz clic en `Empacar productos`.
+4. Agrega un nuevo paquete haciendo clic en Paquete personalizado.
+5. Haz clic en `Empacar productos`.
+6. Rellena los siguientes campos:
+   - Longitud en centímetros (cm).
+   - Anchura en centímetros (cm).
+   - Altura en centímetros (cm).
+   - Peso total del paquete en kilogramos (kg).
+7. Haz clic en `Confirmar`.
+
+### Empaque propio del producto
+
+1. En __Empaque__, haz clic en el pedido que deseas empacar.
+2. Haz clic en el botón `+` para confirmar la cantidad del producto que deseas agregar al paquete.
+3. Haz clic en `Empacar productos`.
+4. Agrega un nuevo paquete haciendo clic en `No necesita empaque`.
+5. Haz clic en `Empacar productos`.
+6. Haz clic en `Confirmar`.
 
 Repite este procedimiento tantas veces como sea necesario para empacar todos los ítems de una hoja de trabajo.
 
-Los ítems ya empacados están disponibles en la pestaña **Ítems empacados**. Puedes alternar la vista de los ítems entre una lista de ítems o de pedidos y empaques haciendo clic en <i class="fas fa-toggle-on"></i>.
+Los ítems ya empacados estarán disponibles en la pestaña __Ítems empacados__. 
 
-__Lista de ítems__
-![pickpack-item-empacotado-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/vtex-pick-and-pack/vtex-pick-and-pack-mobile_8.png)
+![pickpack-itemsempacotados-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/vtex-pick-and-pack/vtex-pick-and-pack-mobile_11.png)
 
-__Pedidos y paquetes__
-![pickpack-item-empacotado-2-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/vtex-pick-and-pack/vtex-pick-and-pack-mobile_9.png)
+Puedes realizar las siguientes acciones para cada ítem empacado al hacer clic en el botón <i class="fas fa-ellipsis-v"></i>:
 
-Una vez empacados todos los ítems de la hoja de trabajo, puedes finalizar el empaque en la pestaña __Ítems empacados__ haciendo clic en el botón `Confirmar empaque`.
+- __Ver detalles__: muestra una ventana con los detalles del paquete.
+- __Imprimir etiquetas__: genera una etiqueta que se agregará al paquete.
+- __Definir ubicación__: registra la ubicación del paquete en una instalación por medio del código BIN, que identifica una ubicación específica en un almacén.
+- __Remover paquete__: remueve el paquete de la lista de __Ítems empaquetados__ y el ítem deberá ser empacado nuevamente.
 
-A continuación, se finalizará el pedido en la aplicación. Dependiendo de la configuración de tu tienda, el alistador puede pasar a la etapa de envío. 
+Para eliminar un ítem del paquete, haz clic en el botón `X` correspondiente.
 
-## Envío
+Para finalizar el empaque, haz clic en `Confirmar empaque`.
 
-La fase de envío permite crear servicios de envío para los pedidos alistados y empacados.
+#### Más información
 
-> ⚠️ El envío es una etapa opcional de la aplicación, dependiendo de tu operación y de la configuración realizada por el administrador de la tienda.
-
-Para enviar paquetes desde la aplicación Pick and Pack, sigue los pasos que se indican a continuación:
-
-1. En la pantalla inicial, haz clic en el menú <i class="fas fa-ellipsis-v"></i>.
-2. Haz clic en la opción **A enviar.**
-3. Selecciona el paquete que deseas enviar. Solo puedes seleccionar pedidos con status `Preparando envío`.
-4. Rellena los datos de envío:
-    - **Fecha prevista de recolección**
-    - **Fecha prevista de entrega**
-    ![pickpack-envio-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/vtex-pick-and-pack/vtex-pick-and-pack-mobile_10.png)
-5. Selecciona una transportadora disponible.
-6. Haz clic en `Seleccionar y continuar`.
-7. Confirma la información de envío. Si no es necesario hacer correcciones, haz clic en el botón `Crear servicio`. En caso contrario, haz clic en `Atrás` y vuelve al paso 5. 
-
-Una vez completado el registro, la información sobre el envío aparecerá en la siguiente pantalla de la aplicación. Los pedidos enviados están disponibles a través del menú <i class="fas fa-ellipsis-v"></i> __> Finalizado__. 
+* [VTEX Pick and Pack](/es/tutorial/vtex-pick-and-pack--1OOops3WrUyz7e0bnhkfXU)
+* [Preguntas frecuentes sobre VTEX Pick and Pack](/es/tutorial/vtex-pick-and-pack-faq--2Rvf9vTS35vmOhkE2i0xcs)
+* [VTEX Pick and Pack: Configuración](/es/tutorial/vtex-pick-and-pack-configuracoes--16cs3e7hWk7c4cSZqe10O9)

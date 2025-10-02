@@ -25,4 +25,4 @@ That is, it sets that an __account name__ (configured in the License Manager mod
 This is the setting made when an account wants to have more than one store. For each of these stores (which we call [multistores](/en/tutorial/creating-multi-store-multi-domain)), you make a binding.
 
 ### Related articles
-- [Linking an account name to a website (binding)](/pt/tutorial/vincular-um-account-name-a-um-website-binding)
+- [Linking an account name to a website (binding)](/en/tutorial/vincular-um-account-name-a-um-website-binding)

@@ -39,7 +39,7 @@ Para remover el mensaje de error y permitir que el usuario vuelva a acceder a la
 
 En la página en la que se muestra el mensaje "__Request headers must contain only ASCII characters__", sigue los pasos a continuación para identificar la cookie que contiene caracteres especiales:
 
-1. Accede al [DevTools](/pt/tutorial/products-and-skus-beta--2ig7TmROlirWirZjFWZ3By) en tu navegador pulsando **F12** o haciendo clic con el botón derecho del mouse y eligiendo la opción **Inspect**.
+1. Accede al [DevTools](/es/tutorial/products-and-skus-beta--2ig7TmROlirWirZjFWZ3By) en tu navegador pulsando **F12** o haciendo clic con el botón derecho del mouse y eligiendo la opción **Inspect**.
 
   2. En la barra superior de la pantalla, accede a la pestaña **Network** y ordena los requests haciendo clic en **Status**. La información **400** en el estado indica que la solicitud no se procesó correctamente, lo que puede deberse a errores como cookies incorrectas.  
 
