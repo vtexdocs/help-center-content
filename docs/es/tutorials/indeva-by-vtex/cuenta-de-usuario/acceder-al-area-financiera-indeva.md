@@ -15,4 +15,4 @@ locale: es
 subcategoryId: 1kLZWFCmluavm21LygmQA0
 ---
 
-> ℹ️ Este contenido está disponible solo en [portugués](/pt/tutorial/acessar-a-area-financeira-indeva--3Oicnu7sNklQx8Neg6nHRM). Haga clic aquí para acceder.
+> ℹ️ Este contenido está disponible solo en [portugués](/es/tutorial/acessar-a-area-financeira-indeva--3Oicnu7sNklQx8Neg6nHRM). Haga clic aquí para acceder.

@@ -15,5 +15,5 @@ locale: es
 subcategoryId: 1kLZWFCmluavm21LygmQA0
 ---
 
-> ℹ️ Este contenido está disponible solo en [portugués](/pt/tutorial/cadastrar-ou-redefinir-senha-para-acesso-a-plataforma-indeva--6WpfWS9NBPTx346oF2BSgI). Haga clic aquí para acceder.
+> ℹ️ Este contenido está disponible solo en [portugués](/es/tutorial/cadastrar-ou-redefinir-senha-para-acesso-a-plataforma-indeva--6WpfWS9NBPTx346oF2BSgI). Haga clic aquí para acceder.
 

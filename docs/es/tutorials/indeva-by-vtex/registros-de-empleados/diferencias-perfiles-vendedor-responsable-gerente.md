@@ -15,4 +15,4 @@ locale: es
 subcategoryId: 2fZRuqcVChcJ9AhY4vzfl3
 ---
 
-> ℹ️ Este contenido está disponible solo en [portugués](/pt/tutorial/diferencas-perfis-vendedor-responsavel-gerente--5Ft4eLr7fg3swbohOv11yD). Haga clic aquí para acceder.
+> ℹ️ Este contenido está disponible solo en [portugués](/es/tutorial/diferencas-perfis-vendedor-responsavel-gerente--5Ft4eLr7fg3swbohOv11yD). Haga clic aquí para acceder.

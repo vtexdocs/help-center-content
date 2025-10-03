@@ -15,4 +15,4 @@ locale: es
 subcategoryId: 1kLZWFCmluavm21LygmQA0
 ---
 
-> ℹ️ Este contenido está disponible solo en [portugués](/pt/tutorial/adicionar-uma-loja-indeva--2wo23yauG3rUUQauHwQnWu). Haga clic aquí para acceder.
+> ℹ️ Este contenido está disponible solo en [portugués](/es/tutorial/adicionar-uma-loja-indeva--2wo23yauG3rUUQauHwQnWu). Haga clic aquí para acceder.

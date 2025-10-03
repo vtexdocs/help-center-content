@@ -15,4 +15,4 @@ locale: en
 subcategoryId: 2vQEGDR2k2uSmdUYF7fMkU
 ---
 
-> ℹ️ Este contenido está disponible solo en [portugués](/pt/tutorial/como-validar-vendas-na-plataforma-indeva--5GRLWlRabZKTm3Ina5PpI7) to access it.
+> ℹ️ This content is only available in Portuguese. [Click here](/en/tutorial/como-validar-vendas-na-plataforma-indeva--5GRLWlRabZKTm3Ina5PpI7) to access it.

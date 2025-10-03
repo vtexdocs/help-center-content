@@ -1,0 +1,18 @@
+---
+title: 'Registrar un vendedor temporal'
+id: 1D0znuLfmKpcuYGp29qrEX
+status: PUBLISHED
+createdAt: 2025-09-16T16:41:13.120Z
+updatedAt: 2025-10-03T17:45:06.821Z
+publishedAt: 2025-10-03T17:45:06.821Z
+firstPublishedAt: 2025-09-16T16:51:17.205Z
+contentType: tutorial
+productTeam: Others
+author: 2AhArvGNSPKwUAd8GOz0iU
+slugEN: register-temporary-seller-indeva
+legacySlug: registrar-vendedor-temporal-indeva
+locale: es
+subcategoryId: 1acPW0OHXq4PjbQUFVrNrY
+---
+
+> ℹ️ Este contenido está disponible solo en [portugués](/es/tutorial/cadastrar-vendedor-temporario-indeva--1D0znuLfmKpcuYGp29qrEX). Haga clic aquí para acceder.

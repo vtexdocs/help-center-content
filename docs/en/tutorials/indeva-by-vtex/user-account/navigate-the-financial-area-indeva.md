@@ -15,4 +15,4 @@ locale: en
 subcategoryId: 1kLZWFCmluavm21LygmQA0
 ---
 
-> ℹ️ Este contenido está disponible solo en [portugués](/pt/tutorial/navegar-na-area-financeira-indeva--4RKJne5d60FXu3Gjrdl4ra) to access it.
+> ℹ️ This content is only available in Portuguese. [Click here](/en/tutorial/navegar-na-area-financeira-indeva--4RKJne5d60FXu3Gjrdl4ra) to access it.

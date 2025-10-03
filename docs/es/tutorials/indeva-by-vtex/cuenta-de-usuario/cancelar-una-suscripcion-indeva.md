@@ -15,4 +15,4 @@ locale: es
 subcategoryId: 1kLZWFCmluavm21LygmQA0
 ---
 
-> ℹ️ Este contenido está disponible solo en [portugués](/pt/tutorial/cancelar-uma-assinatura-indeva--4IGrnDRLpzWNiE0PPgWJVk). Haga clic aquí para acceder.
+> ℹ️ Este contenido está disponible solo en [portugués](/es/tutorial/cancelar-uma-assinatura-indeva--4IGrnDRLpzWNiE0PPgWJVk). Haga clic aquí para acceder.
