@@ -15,4 +15,4 @@ locale: es
 subcategoryId: 2fZRuqcVChcJ9AhY4vzfl3
 ---
 
-> ℹ️ Este contenido está disponible solo en [portugués](/pt/tutorial/transferir-colaborador-de-uma-loja-para-outra-indeva--6JMZTKvNMtIsPodR0EVMM7). Haga clic aquí para acceder.
+> ℹ️ Este contenido está disponible solo en [portugués](/es/tutorial/transferir-colaborador-de-uma-loja-para-outra-indeva--6JMZTKvNMtIsPodR0EVMM7). Haga clic aquí para acceder.

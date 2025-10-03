@@ -15,4 +15,4 @@ locale: en
 subcategoryId: 1kLZWFCmluavm21LygmQA0
 ---
 
-> ℹ️ Este contenido está disponible solo en [portugués](/pt/tutorial/painel-de-solicitacoes-indeva--pIqcHA9VodHjKooyiXZvW) to access it.
+> ℹ️ This content is only available in Portuguese. [Click here](/en/tutorial/painel-de-solicitacoes-indeva--pIqcHA9VodHjKooyiXZvW) to access it.

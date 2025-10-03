@@ -15,5 +15,5 @@ locale: es
 subcategoryId: 1kLZWFCmluavm21LygmQA0
 ---
 
-> ℹ️ Este contenido está disponible solo en [portugués](/pt/tutorial/atualizar-dados-da-conta-do-usuario-indeva--4AOfa9cQKTkwqehXDK3ZiK). Haga clic aquí para acceder.
+> ℹ️ Este contenido está disponible solo en [portugués](/es/tutorial/atualizar-dados-da-conta-do-usuario-indeva--4AOfa9cQKTkwqehXDK3ZiK). Haga clic aquí para acceder.
 

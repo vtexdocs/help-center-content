@@ -15,4 +15,4 @@ locale: en
 subcategoryId: 2fZRuqcVChcJ9AhY4vzfl3
 ---
 
-> ℹ️ Este contenido está disponible solo en [portugués](/pt/tutorial/diferencas-entre-vendedor-fixo-e-vendedor-temporario-indeva--RxNKhYl8yCcWK4i7NhEhP) to access it.
+> ℹ️ This content is only available in Portuguese. [Click here](/en/tutorial/diferencas-entre-vendedor-fixo-e-vendedor-temporario-indeva--RxNKhYl8yCcWK4i7NhEhP) to access it.

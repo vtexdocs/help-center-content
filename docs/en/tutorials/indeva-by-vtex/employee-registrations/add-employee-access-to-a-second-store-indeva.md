@@ -15,4 +15,4 @@ locale: en
 subcategoryId: 2fZRuqcVChcJ9AhY4vzfl3
 ---
 
-> ℹ️ Este contenido está disponible solo en [portugués](/pt/tutorial/adicionar-acesso-de-colaborador-a-uma-segunda-loja-indeva--4T3jTNohl0At9S7ac3GXCJ) to access it.
+> ℹ️ This content is only available in Portuguese. [Click here](/en/tutorial/adicionar-acesso-de-colaborador-a-uma-segunda-loja-indeva--4T3jTNohl0At9S7ac3GXCJ) to access it.

@@ -15,4 +15,4 @@ locale: es
 subcategoryId: 47cSVtf01m00VM60utC1Nt
 ---
 
-> ℹ️ Este contenido está disponible solo en [portugués](/pt/tutorial/loja-nao-aparece-pagina-inicial-relatorios--2IqKtPzDDKrTNjyPDJpjpV). Haga clic aquí para acceder.
+> ℹ️ Este contenido está disponible solo en [portugués](/es/tutorial/loja-nao-aparece-pagina-inicial-relatorios--2IqKtPzDDKrTNjyPDJpjpV). Haga clic aquí para acceder.

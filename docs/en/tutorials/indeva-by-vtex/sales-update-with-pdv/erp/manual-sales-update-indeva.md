@@ -15,4 +15,4 @@ locale: en
 subcategoryId: 2TvvbKyvcItxWiM018erXt
 ---
 
-> ℹ️ Este contenido está disponible solo en [portugués](/pt/tutorial/atualizacao-manual-de-vendas-indeva--3vLUQzMVMyat2hLLLcfKQl) to access it.
+> ℹ️ This content is only available in Portuguese. [Click here](/en/tutorial/atualizacao-manual-de-vendas-indeva--3vLUQzMVMyat2hLLLcfKQl) to access it.
