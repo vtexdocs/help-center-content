@@ -84,7 +84,7 @@ Sigue los pasos a continuación para crear un trigger en Master Data v1:
 2. Haz clic en la pestaña **Trigger**.
 3. Haz clic en el botón `Agregar`.
 4. Ingresa el **Nombre** del trigger.
-5. Selecciona la [entidad de datos](/es/tutorial/entidad-de-datos--tutorials_1265/ "entidad de datos") que activará la acción del trigger.
+5. Selecciona la [entidad de datos](/es/tutorial/entidad-de-datos--tutorials_1265/) que activará la acción del trigger.
 
    Una vez seleccionada la entidad de datos se mostrarán los demás campos de configuración.
 7. Selecciona un status para el trigger, que puede ser **Activado** o **Desactivado**.

@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 6XAvmMxp7yyY06ewYMuggs
 ---
 
-[E-bit](http://www.ebit.com.br/ "E-bit") is a member of the Buscapé group of companies, and has been providing information on e-commerce in Brazil since 2000. E-bit uses a tool to measure consumer satisfaction about the quality of services provided by online stores.
+[E-bit](http://www.ebit.com.br/) is a member of the Buscapé group of companies, and has been providing information on e-commerce in Brazil since 2000. E-bit uses a tool to measure consumer satisfaction about the quality of services provided by online stores.
 
 E-bit currently operates as an online purchasing guide for consumer goods, rating virtual stores according to the quality of their services. The information is obtained from online reviews by consumers who have actually made purchases. E-bit will appear on every page of your site, thus giving it more credibility and serving as a differential for shoppers deciding on a purchase.
 

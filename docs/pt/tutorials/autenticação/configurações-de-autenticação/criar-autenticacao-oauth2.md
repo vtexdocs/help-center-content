@@ -1,5 +1,5 @@
 ---
-title: 'Criar autenticação OAuth2'
+title: "Criar autenticação OAuth2"
 id: 21LbTSTgag4MsuisQsyIm6
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:47.861Z
@@ -15,7 +15,8 @@ locale: pt
 subcategoryId: cgsivNN3J6M6gKAYoeIww
 ---
 
-Para alguns lojistas, existe a necessidade de criar uma autenticação adicional na VTEX com sua base própria de logins. Por exemplo: 
+Para alguns lojistas, existe a necessidade de criar uma autenticação adicional na VTEX com sua base própria de logins. Por exemplo:
+
 - Um "clube fidelidade" de clientes, com login e senha já criados em sua própria plataforma.
 - Login de funcionário para venda em sua "loja de colaboradores".
 
@@ -42,7 +43,7 @@ Com base na documentação oficial, veja abaixo uma ilustração que explica a i
 
 A partir dessa ilustração, vamos detalhar os passos a seguir.
 
-Note que qualquer parte do processo só acontece exclusivamente pelo protocolo __HTTPS__.
+Note que qualquer parte do processo só acontece exclusivamente pelo protocolo **HTTPS**.
 
 ### 1. URL de autorização (getAuthorizationCode)
 
@@ -51,15 +52,17 @@ O usuário (cliente da loja) verá a tela de login do VTEX ID e irá optar por u
 O VTEX ID irá redirecionar o usuário para uma URL de autorização do provedor de identidade. Naturalmente, isso será uma requisição com o método GET neste servidor.
 
 Essa URL de autorização é fornecida pelo lojista e terá pelo menos três parâmetros (querystring):
+
 - Client ID: é o identificador do VTEX ID no provedor de identidade; o parâmetro tem nome livre (sugerido `client_id`) e seu valor é determinado pelo provedor (sendo sempre fixo);
 - URL de retorno: será usado nos próximos passos do fluxo; seu valor é determinado pelo VTEX ID mas o nome do parâmetro é livre (sugerido `return_url`);
 - "state": é usado junto à URL de retorno e tem nome e valor determinados pelo VTEX ID (não deve ser alterado).
 
 Se necessário, o VTEX ID aceita a inclusão de parâmetros adicionais, bastando indicar o nome das chaves e seus valores. Lembrando que chaves e valores são sempre fixos.
 
-A partir da URL de autorização, o usuário irá passar pelo processo de autenticação no provedor de identidade externo. 
+A partir da URL de autorização, o usuário irá passar pelo processo de autenticação no provedor de identidade externo.
 
 Autenticado com sucesso, o provedor deverá redirecionar o usuário de volta para o VTEX ID, de modo que a URL de destino deverá ser:
+
 - a URL de retorno que foi enviada pelo VTEX ID;
 - junto do parâmetro "state" (mantendo seu valor original);
 - e mais um novo parâmetro, que irá representar o código de autenticação gerado pelo provedor de identidade; seu nome é livre (sugerido `auth_code`).
@@ -78,8 +81,7 @@ Parâmetros adicionais podem ser enviados na querystring e/ou no body. Lembrando
 
 Para a segurança do processo o VTEX ID precisa do Client ID e Client Secret (o ID é o mesmo do início do processo, de modo que eles funcionam como appKey e appToken). Eles podem ser enviados com o header "Authorization" ou como parâmetros na URL (chaves de nome livre).
 
-Na resposta esperamos receber o código de acesso no body, que pode ser no formato JSON (content-type `application/json`) ou form-urlencoded (content-type `applicat
-ion/x-www-form-urlencoded`); o nome da propriedade é livre, bastando informá-la para mapeamento.
+Na resposta esperamos receber o código de acesso no body, que pode ser no formato JSON (content-type `application/json`) ou form-urlencoded (content-type `application/x-www-form-urlencoded`); o nome da propriedade é livre, bastando informá-la para mapeamento.
 
 Parâmetros adicionais podem fazer parte da resposta, mas a princípio não são úteis.
 
@@ -89,13 +91,13 @@ Essa URL será usada necessariamente com o método GET.
 
 O cliente deve ser reconhecido pelo próprio código de acesso, que será enviado como um header Authorization Bearer. Opcionalmente, ele também pode ser enviado como parâmetro (querystring).
 
-Se necessário, o VTEX ID aceita a inclusão de parâmetros adicionais, bastando indicar o nome das chaves e seus valores. As chaves e valores sempre serão fixos. 
+Se necessário, o VTEX ID aceita a inclusão de parâmetros adicionais, bastando indicar o nome das chaves e seus valores. As chaves e valores sempre serão fixos.
 
 Na resposta esperamos receber o e-mail do cliente e seu ID no provedor de identidade. Também é adequado disponibilizar o nome do cliente (embora não seja obrigatório). Os dados podem ser entregues no formato JSON (`content-type application/json`) ou form-urlencoded (`content-type application/x-www-form-urlencoded`).
 
 Informações adicionais podem fazer parte da resposta, mas a princípio não são úteis.
 
-__Importante__: a chave única da plataforma VTEX é o e-mail. Do lado do provedor de identidade pode ser solicitado outro tipo de informação para autenticar a pessoa (CPF, CNPJ, login, telefone etc) mas o que deve ser enviado na integração para a VTEX é o e-mail que foi autenticado. Esse cenário atende B2B, B2C, B2E.
+**Importante**: a chave única da plataforma VTEX é o e-mail. Do lado do provedor de identidade pode ser solicitado outro tipo de informação para autenticar a pessoa (CPF, CNPJ, login, telefone etc) mas o que deve ser enviado na integração para a VTEX é o e-mail que foi autenticado. Esse cenário atende B2B, B2C, B2E.
 
 Concluída essa etapa, o usuário vai receber um cookie com o token de autorização que lhe identificará dentro dos serviços da VTEX.
 
@@ -103,16 +105,18 @@ Concluída essa etapa, o usuário vai receber um cookie com o token de autoriza�
 
 A seguir exemplificamos o processo usado para uma integração OAuth2 tendo o Google como provedor de identidade:
 
-#### getAuthorizationCode 
+#### getAuthorizationCode
 
 Request:
+
 ```
 GET https://accounts.google.com/o/oauth2/auth?redirect_uri=https://vtexid.vtex.com.br/VtexIdAuthSiteKnockout/ReceiveAuthorizationCode.ashx&scope=https://www.googleapis.com/auth/userinfo.profile%20https://www.googleapis.com/auth/userinfo.email&access_type=offline&response_type=code&client_id={clientId}&state={state}
 ```
 
-#### getAccessCode 
+#### getAccessCode
 
 Request:
+
 ```
 POST https://accounts.google.com/o/oauth2/token
 
@@ -120,6 +124,7 @@ Body: redirect_uri=https://vtexid.vtex.com.br/VtexIdAuthSiteKnockout/ReceiveAuth
 ```
 
 Response:
+
 ```
 {
 	"access_token" : {accessToken},
@@ -129,14 +134,16 @@ Response:
 }
 ```
 
-#### getUserInfo 
+#### getUserInfo
 
 Request:
+
 ```
 GET https://www.googleapis.com/oauth2/v1/userinfo?access_token={accessToken}
 ```
 
 Response:
+
 ```
 {
 	"id": {id},
@@ -162,10 +169,10 @@ Em resumo, são eles:
 
 - todos endpoints habilitados para HTTPS
 - credenciais (client ID e client Secret, ou equivalente)
-- credenciais (usuário/email e senha) para teste de configuração  
+- credenciais (usuário/email e senha) para teste de configuração
 - nome desejado para o provedor de identidade, que no resultado final será apresentado como texto do botão "Entrar como {nome do provedor}"
 
-Para __getAuthorizationCode__:
+Para **getAuthorizationCode**:
 
 - URL da requisição (método GET)
 - nome do parâmetro para client ID
@@ -173,7 +180,7 @@ Para __getAuthorizationCode__:
 - parâmetros adicionais (se houver, indicando chave e valor)
 - chave que contém o código de autorização (na resposta)
 
-Para __getAccessCode__:
+Para **getAccessCode**:
 
 - URL da requisição (método POST)
 - modo para código de autorização (body em JSON ou form-urlencoded)
@@ -183,7 +190,7 @@ Para __getAccessCode__:
 - formato da resposta (body em JSON ou form-urlencoded)
 - chave que contém o código de acesso (na resposta)
 
-Para __getUserInfo__:
+Para **getUserInfo**:
 
 - URL da requisição (método GET)
 - parâmetros adicionais (se houver)

@@ -23,7 +23,7 @@ A versão beta está aberta para todos que quiserem testar e é só a primeira d
 
 ## Catalogação em massa
 
-Uma das principais melhorias é a nova forma de selecionar SKUs em massa. Assim, você pode aprovar ou rejeitar todos eles de uma só vez. Alinhado com nosso [Styleguide](https://styleguide.vtex.com/ "Styleguide"), a seleção em massa vai trazer ainda mais agilidade e eficiência para o seu trabalho.
+Uma das principais melhorias é a nova forma de selecionar SKUs em massa. Assim, você pode aprovar ou rejeitar todos eles de uma só vez. Alinhado com nosso [Styleguide](https://styleguide.vtex.com/), a seleção em massa vai trazer ainda mais agilidade e eficiência para o seu trabalho.
 
 ![received-skus-bulk](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2019/setembro/2019-09-09-marketplaces-skus-recebidos-beta_1.gif)
 

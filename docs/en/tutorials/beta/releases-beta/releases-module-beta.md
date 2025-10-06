@@ -163,7 +163,7 @@ To publish a release using the **Releases** module and make the changes visible 
 1. In the VTEX Admin, access **Store Settings > Releases.**
 2. On the line corresponding to the desired release, click the <i class="fas fa-ellipsis-v"></i> menu icon.
 3. Click `Publish now`.
-4. Click `Publish.
+4. Click `Publish`.
 
 Another way to publish is to go to the release details page, following the steps below:
 

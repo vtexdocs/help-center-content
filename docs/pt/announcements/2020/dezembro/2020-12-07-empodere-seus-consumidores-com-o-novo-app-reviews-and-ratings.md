@@ -17,7 +17,7 @@ announcementSynopsisPT: 'Baixe o novo aplicativo da VTEX App Store e dê voz ao 
 
 Dê voz ao seu consumidor permitindo que ele avalie produtos e tome decisões mais assertivas, embasadas na avaliação de outros usuários. Aumente a credibilidade dos seus produtos e, consequentemente, aumente a sua taxa de conversão.
 
-O aplicativo está disponível na [VTEX App Store](https://apps.vtex.com/ "VTEX App Store") e pode ser baixado, gratuitamente, por todas as lojas no VTEX IO. 
+O aplicativo está disponível na [VTEX App Store](https://apps.vtex.com/) e pode ser baixado, gratuitamente, por todas as lojas no VTEX IO. 
 
 ## Quais as funcionalidades?
 
@@ -35,5 +35,5 @@ O aplicativo está disponível na [VTEX App Store](https://apps.vtex.com/ "VTEX 
 
 ## Como começo a usar?
 
-Basta acessar a [VTEX App Store](https://apps.vtex.com/vtex-reviews-and-ratings/p "VTEX App Store") e seguir o passo a passo de instalação do app, seguindo a [documentação técnica](https://vtex.io/docs/components/all/vtex.reviews-and-ratings@2.2.1/ "Documentação Reviews & Ratings") para adicionar os blocos necessários na sua store-theme do VTEX IO. 
+Basta acessar a [VTEX App Store](https://apps.vtex.com/vtex-reviews-and-ratings/p) e seguir o passo a passo de instalação do app, seguindo a [documentação técnica](https://vtex.io/docs/components/all/vtex.reviews-and-ratings@2.2.1/) para adicionar os blocos necessários na sua store-theme do VTEX IO. 
 

@@ -15,4 +15,4 @@ locale: es
 subcategoryId: 2TvvbKyvcItxWiM018erXt
 ---
 
-> ℹ️ Este contenido está disponible solo en [portugués](/es/tutorial/vendas-de-vendedor-nao-aparecem-na-plataforma-indeva--6u9zdj61eYodgGiw2LuXfj). Haga clic aquí para acceder.
+> ℹ️ Este contenido está disponible solo en [portugués](/pt/tutorial/vendas-de-vendedor-nao-aparecem-na-plataforma-indeva--6u9zdj61eYodgGiw2LuXfj). Haga clic aquí para acceder.

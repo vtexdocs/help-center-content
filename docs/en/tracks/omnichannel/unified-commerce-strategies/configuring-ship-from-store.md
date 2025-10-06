@@ -25,7 +25,7 @@ Consider this example: a customer who is at homeplaces an order on the ecommerce
 
 ## Prerequisites
 
-First of all, you must consider the prerequisites that your store needs to ensure in order to start implementing a Ship From Store strategy. Check our article on [Prerequisites for using VTEX Sales App](/en/tracks/instore-getting-started-and-setting-up--zav76TFEZlAjnyBVL5tRc/1wtAanSRA3g2316dw7bw8u "Prerequisites for using VTEX Sales App").
+First of all, you must consider the prerequisites that your store needs to ensure in order to start implementing a Ship From Store strategy. Check our article on [Prerequisites for using VTEX Sales App](/en/tracks/instore-getting-started-and-setting-up--zav76TFEZlAjnyBVL5tRc/1wtAanSRA3g2316dw7bw8u).
 
 ## How to implement Ship From Store
 

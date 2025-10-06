@@ -82,7 +82,7 @@ Learn more at [Setting up DNS pointing to VTEX](/en/tutorial/configurando-o-apon
 
 ### Configuring trigger
 
-In this step, you must create a [trigger in Master Data](/en/tutorial/criando-trigger-no-master-data--tutorials_1270 "trigger no Master Data"), which involves completing some values to determine the trigger and defining some filters:
+In this step, you must create a [trigger in Master Data](/en/tutorial/criando-trigger-no-master-data--tutorials_1270), which involves completing some values to determine the trigger and defining some filters:
 
 - __Checkout:__ The trigger will be enabled if the checkout is not completed and is different from null, i.e., if the customer does not place the order.
 - __Cart:__ Refers to the last products the customer added to the shopping cart. The trigger will be enabled if the value is different from null.

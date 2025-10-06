@@ -17,7 +17,7 @@ subcategoryId: 1luKrYptdi8WoMYckakUaM
 
 De acordo com as normas do IETF (Internet Engineering Task Force), instituição responsável por documentar os padrões utilizados na internet, cookies não podem ter caracteres especiais em sua composição, incluindo caracteres não-ASCII.
 
-Essa norma consta nos RFC (Requests For Comments) - documentos técnicos periodicamente atualizados pelo próprio IETF. Para saber mais, [acesse o artigo do próprio IEFT sobre caracteres aceitos em headers e cookies](https://tools.ietf.org/html/rfc7230#section-3.2.6 "acesse o artigo do próprio IEFT sobre caracteres aceitos em headers e cookies"). 
+Essa norma consta nos RFC (Requests For Comments) - documentos técnicos periodicamente atualizados pelo próprio IETF. Para saber mais, [acesse o artigo do próprio IEFT sobre caracteres aceitos em headers e cookies](https://tools.ietf.org/html/rfc7230#section-3.2.6). 
 
 Desse modo, esse comportamento é adotado pela maioria dos produtos e serviços digitais que existem no mercado. Tanto é que esse também é o comportamento esperado da plataforma VTEX. 
 

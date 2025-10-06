@@ -62,7 +62,7 @@ Navegación por un usuario no aprobado (al intentar acceder cualquier página, s
 
 El usuario que aún no está registrado en el sitio necesita tener una interface para realizar el registro previo. El registro previo es un formulario con informaciones básicas del usuario. A pesar de básica, esa información debe ser suficiente para que el dueño de la tienda lo apruebe y lo libere para navegar en el sitio.
 
-Así, es necesario definir los campos de este registro previo. Normalmente, los B2Bs usan información de cliente (nombre, e-mail, teléfono, etc.) y dirección (calle, barrio, ciudad, etc.) para este registro previo. Consulte el artículo [Importar datos de clientes](/es/tutorial/importando-dados-de-clientes-brasil--2zWYVOyj0sISYQmeUwCsI0 "Importar datos de clientes - Brasil") para obtener más información sobre los datos necesarios.
+Así, es necesario definir los campos de este registro previo. Normalmente, los B2Bs usan información de cliente (nombre, e-mail, teléfono, etc.) y dirección (calle, barrio, ciudad, etc.) para este registro previo. Consulte el artículo [Importar datos de clientes](/es/tutorial/importando-dados-de-clientes-brasil--2zWYVOyj0sISYQmeUwCsI0) para obtener más información sobre los datos necesarios.
 
 > ⚠️ El campo utilizado como regla condicional en la política comercial nunca podrá hacer parte de este formulario, una vez que el propio usuario no puede realizar su propia aprobación. Esta responsabilidad es de la tienda.
 

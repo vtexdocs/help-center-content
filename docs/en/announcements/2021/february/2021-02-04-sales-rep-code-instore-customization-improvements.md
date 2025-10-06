@@ -17,7 +17,7 @@ announcementSynopsisEN: 'Now the client can opt to make the sales rep code a req
 
 inStore, VTEX’s solution for brick-and-mortar stores, allows our clients to customize their stores according to their business needs. They can make these changes through fields embedded in the purchase flow.
 
-One of these fields is the [sales rep code](/en/tracks/instore-personalizaciones--1z9kBm12oBPyVNDo1ivVc2/5kNtS80hbBGg58jMeF8CRv "sales rep code"), customization in which the sales rep associates a personal code to each sale they make.
+One of these fields is the [sales rep code](/en/tracks/instore-personalizaciones--1z9kBm12oBPyVNDo1ivVc2/5kNtS80hbBGg58jMeF8CRv), customization in which the sales rep associates a personal code to each sale they make.
 
 Now the client can opt to make the sales rep code a required field. In this case, a sale can only be made if a sales rep code is entered in the `Vendor` field.
 
@@ -31,4 +31,4 @@ Consequentially, having a precise list of the sales made by each sales rep facil
 
 VTEX clients can enable inStore customizations via Admin, by embedding JavaScript codes in a template available on the platform. 
 
-For more information on how to add this and other customizations regarding the sales rep code to your store, read our [inStore customization track](/en/tracks/instore-customizacoes--1z9kBm12oBPyVNDo1ivVc2/4mwdBrFsmE2EPE0FzgX28b "inStore customization track").
+For more information on how to add this and other customizations regarding the sales rep code to your store, read our [inStore customization track](/en/tracks/instore-customizacoes--1z9kBm12oBPyVNDo1ivVc2/4mwdBrFsmE2EPE0FzgX28b).

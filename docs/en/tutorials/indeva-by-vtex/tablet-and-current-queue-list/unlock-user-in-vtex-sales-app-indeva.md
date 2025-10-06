@@ -15,4 +15,4 @@ locale: en
 subcategoryId: 78bsG4YLzz1TR7eUzFSf4F
 ---
 
-> ℹ️ This content is only available in Portuguese. [Click here](/en/tutorial/untitled-entry-2025-09-12-at-12-46-32-indeva--7FjDbh6KJ5wRxziM7nRFJq) to access it.
+> ℹ️ This content is only available in Portuguese. [Click here](/pt/tutorial/untitled-entry-2025-09-12-at-12-46-32-indeva--7FjDbh6KJ5wRxziM7nRFJq) to access it.

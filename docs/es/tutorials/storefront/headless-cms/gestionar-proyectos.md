@@ -112,7 +112,7 @@ Para archivar un proyecto sigue los pasos a continuación:
 ![Arquivar projeto - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/headless-cms/gestionar-proyectos_3.png)
 4. Haz clic en `Archivar`. A continuación aparecerá un mensaje informando que el proyecto se archivó con éxito.
 
-Para restaurar un proyecto archivado, sigue los pasos descritos en [Restaurar proyecto] (#restaurar-proyecto).
+Para restaurar un proyecto archivado, sigue los pasos descritos en [Restaurar proyecto](#restaurar-proyecto).
 
 ### Restaurar proyecto
 Al restaurar un proyecto la API se reactiva y se puede acceder de nuevo a su contenido.

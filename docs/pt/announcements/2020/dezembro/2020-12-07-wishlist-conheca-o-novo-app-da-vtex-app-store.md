@@ -17,7 +17,7 @@ announcementSynopsisPT: 'Ofereça ao seu consumidor a possibilidade de criar lis
 
 Você pediu e nós lhe atendemos: agora sua loja pode disponibilizar a funcionalidade de lista de desejos (wishlist) para os consumidores finais! Aumente o engajamento de seus consumidores e as suas vendas ao permitir que os clientes criem coleções de produtos de seu interesse para comprá-los futuramente. 
 
-O aplicativo está disponível na [VTEX App Store](https://apps.vtex.com/ "VTEX App Store") e pode ser baixado, gratuitamente, por todas as lojas no VTEX IO. 
+O aplicativo está disponível na [VTEX App Store](https://apps.vtex.com/) e pode ser baixado, gratuitamente, por todas as lojas no VTEX IO. 
 
 ## Quais as funcionalidades?
 
@@ -33,5 +33,5 @@ O aplicativo está disponível na [VTEX App Store](https://apps.vtex.com/ "VTEX 
 
 ## Como começo a usar?
 
-Basta acessar a [VTEX App Store](https://apps.vtex.com/vtex-wishlist/p "VTEX App Store") e seguir o procedimento para instalar o app, seguindo a [documentação técnica](https://vtex.io/docs/components/all/vtex.wish-list@1.2.0/ "Documentação Wishlist") para adicionar os blocos necessários na sua store-theme do VTEX IO. 
+Basta acessar a [VTEX App Store](https://apps.vtex.com/vtex-wishlist/p) e seguir o procedimento para instalar o app, seguindo a [documentação técnica](https://vtex.io/docs/components/all/vtex.wish-list@1.2.0/) para adicionar os blocos necessários na sua store-theme do VTEX IO. 
 

@@ -15,7 +15,7 @@ locale: es
 subcategoryId: WpbGhubuRZaNZilJSXnqu
 ---
 
-En VTEX, los Logs funcionan como un historial detallado de alteraciones en una tienda online. Es decir, una vez que alguna configuración se haga en la plataforma, esta información será grabada en un banco de datos, el [Master Data](/es/tutorial/o-que-e-o-master-data--4otjBnR27u4WUIciQsmkAw "Master Data").
+En VTEX, los Logs funcionan como un historial detallado de alteraciones en una tienda online. Es decir, una vez que alguna configuración se haga en la plataforma, esta información será grabada en un banco de datos, el [Master Data](/es/tutorial/o-que-e-o-master-data--4otjBnR27u4WUIciQsmkAw).
 
 En el escenario de e-commerce, a veces, algunas configuraciones pueden ser realizadas sin que se sepa exactamente el por qué. En estos casos, el administrador de la tienda puede consultar los Logs para averiguar la procedencia de esta acción.
 

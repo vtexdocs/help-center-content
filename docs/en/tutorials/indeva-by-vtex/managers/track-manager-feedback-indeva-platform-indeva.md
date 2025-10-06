@@ -15,4 +15,4 @@ locale: en
 subcategoryId: 4LwIt8RFNUOMKhMZ2C6hAK
 ---
 
-> ℹ️ This content is only available in Portuguese. [Click here](/en/tutorial/acompanhar-feedback-gestor-plataforma-indeva--0nTYJIu0e4UsceeV77QuZ) to access it.
+> ℹ️ This content is only available in Portuguese. [Click here](/pt/tutorial/acompanhar-feedback-gestor-plataforma-indeva--0nTYJIu0e4UsceeV77QuZ) to access it.

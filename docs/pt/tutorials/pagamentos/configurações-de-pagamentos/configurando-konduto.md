@@ -17,11 +17,11 @@ subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 
 Konduto é um antifraude, sistema externo que analisa as compras realizadas a fim de evitar fraudes.
 
-Este antifraude depende de configurações diferentes dos [demais antifraudes que podem ser configurados em sua plataforma](/pt/tutorial/como-configurar-antifraude/ "demais antifraudes que podem ser configurados em sua plataforma"), pois coletam informações de navegação e de dispositivo do visitante. Por isto, este artigo tem como objetivo documentar a configuração do Konduto.
+Este antifraude depende de configurações diferentes dos [demais antifraudes que podem ser configurados em sua plataforma](/pt/tutorial/como-configurar-antifraude/), pois coletam informações de navegação e de dispositivo do visitante. Por isto, este artigo tem como objetivo documentar a configuração do Konduto.
 
 ## Configure seu GTM
 
-GTM é o Google Tag Manager, uma ferramenta do Google que faz gerenciamento de tags no site. Esse GTM é então associado em sua conta e insere todas as tags configuradas nele em seu site. [Veja mais detalhes sobre como configurar o GTM em sua loja](/pt/faq/integracao-com-o-google-tag-manager/ "Veja mais detalhes sobre como configurar o GTM em sua loja").
+GTM é o Google Tag Manager, uma ferramenta do Google que faz gerenciamento de tags no site. Esse GTM é então associado em sua conta e insere todas as tags configuradas nele em seu site. [Veja mais detalhes sobre como configurar o GTM em sua loja](/pt/faq/integracao-com-o-google-tag-manager/).
 
 ### Crie a variável
 
@@ -47,7 +47,7 @@ Em sua conta GTM, crie a tag, tipo **html personalizado** com o script abaixo.
 Para vincular o **Konduto** a uma forma de pagamento:
 
 1. Acesse a aba **Condições de pagamento**.
-2. Clique sobre a condição desejada ou [crie a condição de pagamento](/pt/tutorial/condicoes-de-pagamento "crie a condição de pagamento").
+2. Clique sobre a condição desejada ou [crie a condição de pagamento](/pt/tutorial/condicoes-de-pagamento).
 3. Selecione a opção **Usar antifraude**.
 4. Selecione o **Konduto**.
 5. Clique no botão **Salvar**.

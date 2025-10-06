@@ -34,7 +34,7 @@ Para activar la funcionalidad, será necesario:
 
 Para instalar el módulo Suscripciones, abre un ticket con [nuestro Soporte](https://support.vtex.com/hc/es-419). Debes indicar la cuenta VTEX y seleccionar la opción **Técnico**.
 
-El tiempo estimado de respuesta es de hasta 24 horas, de acuerdo con [nuestro SLA] (https://help.vtex.com/es/faq/como-funciona-el-soporte-de-vtex--3kACEfni4m8Yxa1vnf2ebe#support-plans).
+El tiempo estimado de respuesta es de hasta 24 horas, de acuerdo con [nuestro SLA](https://help.vtex.com/es/faq/como-funciona-el-soporte-de-vtex--3kACEfni4m8Yxa1vnf2ebe#support-plans).
 
 ## 2. Configurar medios de pago
 

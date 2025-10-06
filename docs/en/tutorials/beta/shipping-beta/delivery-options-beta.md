@@ -104,7 +104,7 @@ The delivery option will then be active and available to customers.
 To delete a delivery option, follow the steps below:
 
 1. In the VTEX Admin, go to **Shipping > Delivery Options**, or type **Delivery Options** in the search bar at the top of the page.
-2. Find the delivery option you want to activate and click the vertical ellipsis menu <i class="fas fa-ellipsis-v"></i>`.
+2. Find the delivery option you want to activate and click the vertical ellipsis menu <i class="fas fa-ellipsis-v"></i>.
 3. Click <i class="fas fa-trash-alt"></i> `Delete delivery option`.
 4. Click `Delete option`. Note that deletion is irreversible and may impact the shopping experience if the delivery option is active.
 

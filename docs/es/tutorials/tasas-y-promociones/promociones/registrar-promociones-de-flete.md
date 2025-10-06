@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
-En la plataforma VTEX, usted puede crear diversas modalidades de [descuentos](/es/tutorial/como-criar-promocoes?locale=pt "descontos") para su tienda. Con las promociones de flete, el comprador recibe un descuento en el valor cobrado para la entrega de su pedido.
+En la plataforma VTEX, usted puede crear diversas modalidades de [descuentos](/es/tutorial/como-criar-promocoes?locale=pt) para su tienda. Con las promociones de flete, el comprador recibe un descuento en el valor cobrado para la entrega de su pedido.
 
 El paso a paso para crear una promoción de flete es el mismo de las [demás promociones regulares](/es/tutorial/registro-promocion-regular--tutorials_327). Sin embargo, hay algunas especificidades que se deben tener en cuenta al configurar este tipo de promociones.
 

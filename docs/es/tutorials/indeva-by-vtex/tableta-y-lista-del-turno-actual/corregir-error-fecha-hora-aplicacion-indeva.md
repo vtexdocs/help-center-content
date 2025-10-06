@@ -15,4 +15,4 @@ locale: es
 subcategoryId: 78bsG4YLzz1TR7eUzFSf4F
 ---
 
-> ℹ️ Este contenido está disponible solo en [portugués](/es/tutorial/corrigir-erro-data-hora-aplicativo-indeva--7wwWzw7J3Pmz9ImN11awtN). Haga clic aquí para acceder.
+> ℹ️ Este contenido está disponible solo en [portugués](/pt/tutorial/corrigir-erro-data-hora-aplicativo-indeva--7wwWzw7J3Pmz9ImN11awtN). Haga clic aquí para acceder.

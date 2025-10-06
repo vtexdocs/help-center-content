@@ -23,7 +23,7 @@ Mediante la recolección de datos no sensibles, Device Fingerprint identifica y 
 
 En este artículo, explicaremos cómo asociar Device Fingerprint con la afiliación Niubiz.  
 
-Para ello, es necesario generar un identificador a través de [Google Tag Manager](https://marketingplatform.google.com/about/tag-manager/ "Google Tag Manager") y luego asociarlo a la afiliación a través del Admin.
+Para ello, es necesario generar un identificador a través de [Google Tag Manager](https://marketingplatform.google.com/about/tag-manager/) y luego asociarlo a la afiliación a través del Admin.
 
 ### Crear el identificador
 

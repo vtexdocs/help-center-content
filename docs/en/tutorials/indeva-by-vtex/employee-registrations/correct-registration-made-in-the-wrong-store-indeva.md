@@ -15,5 +15,5 @@ locale: en
 subcategoryId: 2fZRuqcVChcJ9AhY4vzfl3
 ---
 
-> ℹ️ This content is only available in Portuguese. [Click here](/en/tutorial/corrigir-cadastro-feito-na-loja-errada-indeva--6O25ITx9XIJ0M6kQkQXquW) to access it.
+> ℹ️ This content is only available in Portuguese. [Click here](/pt/tutorial/corrigir-cadastro-feito-na-loja-errada-indeva--6O25ITx9XIJ0M6kQkQXquW) to access it.
 

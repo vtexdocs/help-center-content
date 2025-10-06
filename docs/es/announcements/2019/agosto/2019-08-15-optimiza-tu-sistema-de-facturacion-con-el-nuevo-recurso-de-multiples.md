@@ -39,4 +39,4 @@ De este modo, cada uno de los paquetes se facturará en el sistema de VTEX. Lueg
   
 Entonces, una vez que todos los ítems del pedido se hayan facturado en VTEX, la integración cambiará el status del pedido en B2W.
 
-Para saber cómo hacer la integración con B2W y aprovechar esta funcionalidad, haga [clic aquí](/es/tracks/configurar-integracao-da-b2w?locale=es "clic aquí").
+Para saber cómo hacer la integración con B2W y aprovechar esta funcionalidad, haga [clic aquí](/es/tracks/configurar-integracao-da-b2w?locale=es).

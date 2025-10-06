@@ -23,7 +23,7 @@ Após as configurações, é necessário realizar a indexação de todos os prod
 1. Com o usuário titular, acesse o link {{ACCOUNTNAME}}.vtexcommercestable.com.br/admin/Site/FullCleanUp.aspx;
 2. Clique no botão **Reindexar Base**.
 
-Lembre-se! É possível acompanhar o status de indexação e o status de integração dos estoques. Para isso, acesse o [relatório de indexação](/pt/tutorial/utilizar-o-relatorio-de-indexação?locale=pt "Utilizar o Relatório de Indexação") e o modulo [Integrações](/pt//tutorial/bridge/ "bridge").
+Lembre-se! É possível acompanhar o status de indexação e o status de integração dos estoques. Para isso, acesse o [relatório de indexação](/pt/tutorial/utilizar-o-relatorio-de-indexação?locale=pt) e o modulo [Integrações](/pt//tutorial/bridge/).
 
 ___ ATENÇÃO: Se o canal de vendas estiver configurado com uma coleção, é necessário verificar se o item pertence à coleção. Caso contrário, nenhuma informação do item será atualizada no parceiro.___
 

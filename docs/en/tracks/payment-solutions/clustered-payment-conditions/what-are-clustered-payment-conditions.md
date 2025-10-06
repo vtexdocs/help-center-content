@@ -15,8 +15,8 @@ trackSlugEN: clustered-payment-conditions
 order: 1
 ---
 
-Clustered Payments Conditions are a new [Customer Credit](/en/announcements/de-credito-aos-seus-melhores-clientes-com-o-customer-credit--6M2V1Oc1UIaGSM6QayWkmq?&utm_source=autocomplete "Customer Credit") feature that allows stores to set a given deadline and enact an installment rule that will be valid for one or more customers of their trust. This filter is made using clusters - a segmentation method.
+Clustered Payments Conditions are a new [Customer Credit](/en/announcements/de-credito-aos-seus-melhores-clientes-com-o-customer-credit--6M2V1Oc1UIaGSM6QayWkmq?&utm_source=autocomplete) feature that allows stores to set a given deadline and enact an installment rule that will be valid for one or more customers of their trust. This filter is made using clusters - a segmentation method.
 
 > ℹ️ This functionality is currently in Closed Beta (testing stage) and is not available for installation in new stores.  
 
-This customization is done using our [Master Data](/en/tutorial/what-is-master-data--4otjBnR27u4WUIciQsmkAw "Master Data") database. 
+This customization is done using our [Master Data](/en/tutorial/what-is-master-data--4otjBnR27u4WUIciQsmkAw) database. 

@@ -30,4 +30,4 @@ Essa mudança facilita a operação de __lojas que atuam em países como a Argen
 Lembramos que a nova funcionalidade __não gera impactos para lojas que usam juros compostos (principalmente as brasileiras)__. Como o padrão continua o mesmo, a etapa a mais de configuração só precisa ser realizada por quem deseja usar juros simples.
 
 ## Como fazer a escolha do tipo de juros
-Para escolher entre juros simples e compostos, basta acessar as configurações de uma condição de pagamento e seguir o [passo a passo detalhado sobre a funcionalidade](/pt/tutorial/como-escolher-o-tipo-de-juros-de-uma-condicao-de-pagamento--2erloDXDuI6yawWqqcmgIo "passo a passo detalhado sobre a funcionalidade").
+Para escolher entre juros simples e compostos, basta acessar as configurações de uma condição de pagamento e seguir o [passo a passo detalhado sobre a funcionalidade](/pt/tutorial/como-escolher-o-tipo-de-juros-de-uma-condicao-de-pagamento--2erloDXDuI6yawWqqcmgIo).

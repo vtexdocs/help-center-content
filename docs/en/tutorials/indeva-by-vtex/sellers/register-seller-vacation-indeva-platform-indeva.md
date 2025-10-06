@@ -15,4 +15,4 @@ locale: en
 subcategoryId: 1acPW0OHXq4PjbQUFVrNrY
 ---
 
-> ℹ️ This content is only available in Portuguese. [Click here](/en/tutorial/vendedor-de-ferias-indeva--7G7P0RQMRNsKNtFMCYdNuD) to access it.
+> ℹ️ This content is only available in Portuguese. [Click here](/pt/tutorial/vendedor-de-ferias-indeva--7G7P0RQMRNsKNtFMCYdNuD) to access it.

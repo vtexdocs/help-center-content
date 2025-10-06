@@ -28,6 +28,6 @@ Sin embargo, el nuevo proceso permite una gestión holística del negocio, conce
 - Visualización unificada de todas las campañas de una tienda;
 - Creación y gestión de campañas de Smart Shopping en VTEX Shopping Ads.
 
-Para configurar una campaña a través de VTEX Shopping Ads, haga [click aquí](/es/tracks/como-hacer-campanas-a-traves-de-google-shopping-app--47kz5PRQPK0IEaqGqiIuA/5YIxQy9TpuaEkgqYo2IaSa "click aquí").
+Para configurar una campaña a través de VTEX Shopping Ads, haga [click aquí](/es/tracks/como-hacer-campanas-a-traves-de-google-shopping-app--47kz5PRQPK0IEaqGqiIuA/5YIxQy9TpuaEkgqYo2IaSa).
 
-Para obtener VTEX Shopping Ads, basta visitar la [App Store](https://apps.vtex.com/vtex-google-shopping/p "App Store") de VTEX.
+Para obtener VTEX Shopping Ads, basta visitar la [App Store](https://apps.vtex.com/vtex-google-shopping/p) de VTEX.

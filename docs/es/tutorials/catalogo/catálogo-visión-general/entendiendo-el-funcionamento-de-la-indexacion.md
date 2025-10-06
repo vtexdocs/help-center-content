@@ -63,4 +63,4 @@ El tiempo de espera puede ser alcanzado por el número de validaciones que el pr
 
 ## Para saber más
 
-[¿Por qué mi producto no indexa?](/es/faq/por-que-el-producto-no-indexa "¿Por qué mi producto no indexa?")
+[¿Por qué mi producto no indexa?](/es/faq/por-que-el-producto-no-indexa)

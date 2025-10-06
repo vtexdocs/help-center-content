@@ -15,4 +15,4 @@ locale: en
 subcategoryId: 4LwIt8RFNUOMKhMZ2C6hAK
 ---
 
-> ℹ️ This content is only available in Portuguese. [Click here](/en/tutorial/registrar-ferias-gerente-plataforma-indeva--KkJfTwISKAel1dJTBLHGK) to access it.
+> ℹ️ This content is only available in Portuguese. [Click here](/pt/tutorial/registrar-ferias-gerente-plataforma-indeva--KkJfTwISKAel1dJTBLHGK) to access it.

@@ -28,6 +28,6 @@ The new process now allows a holistic business management, concentrated on a sin
 - Unified view of all a store’s campaigns;
 - Smart Shopping campaign creation and management in VTEX Shopping Ads. 
 
-To configure a campaign through VTEX Shopping Ads, [click here](/en/tracks/how-to-campaign-through-vtex-shopping-ads--47kz5PRQPK0IEaqGqiIuA "click here"). 
+To configure a campaign through VTEX Shopping Ads, [click here](/en/tracks/how-to-campaign-through-vtex-shopping-ads--47kz5PRQPK0IEaqGqiIuA). 
 
-To get VTEX Shopping Ads, simply check VTEX’s [App Store](https://apps.vtex.com/vtex-google-shopping/p "App Store"). 
+To get VTEX Shopping Ads, simply check VTEX’s [App Store](https://apps.vtex.com/vtex-google-shopping/p). 

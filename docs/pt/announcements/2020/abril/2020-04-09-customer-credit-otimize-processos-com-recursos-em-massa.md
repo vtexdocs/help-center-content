@@ -40,4 +40,4 @@ No caso dos títulos, basta atualizar as informações dispostas nas colunas. J�
 
 Além disso, vale ressaltar que os dois novos recursos não excluem a possibilidade do lojista fazer as alterações manualmente. Ou seja, a atualização de informações podem ser feita via Admin, planilha ou API.
 
-Para saber como utilizar as duas novas funcionalidades, confira a [nossa trilha sobre o Customer Credit](/pt/tracks/customer-credit-como-comecar--1hCRg21lXYy2seOKgqQ2CC/36grlQ69NK6OCuioeekyCs "nossa trilha sobre o Customer Credit"), onde você encontra o passo a passo dos dois processos.
+Para saber como utilizar as duas novas funcionalidades, confira a [nossa trilha sobre o Customer Credit](/pt/tracks/customer-credit-como-comecar--1hCRg21lXYy2seOKgqQ2CC/36grlQ69NK6OCuioeekyCs), onde você encontra o passo a passo dos dois processos.

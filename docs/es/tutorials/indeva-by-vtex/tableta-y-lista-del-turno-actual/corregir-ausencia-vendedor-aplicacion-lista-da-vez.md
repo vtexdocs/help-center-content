@@ -15,4 +15,4 @@ locale: es
 subcategoryId: 78bsG4YLzz1TR7eUzFSf4F
 ---
 
-> ℹ️ Este contenido está disponible solo en [portugués](/es/tutorial/corrigir-ausencia-vendedor-aplicativo-lista-da-vez--3TLFRGiS9TwvDT5f1qDvof). Haga clic aquí para acceder.
+> ℹ️ Este contenido está disponible solo en [portugués](/pt/tutorial/corrigir-ausencia-vendedor-aplicativo-lista-da-vez--3TLFRGiS9TwvDT5f1qDvof). Haga clic aquí para acceder.

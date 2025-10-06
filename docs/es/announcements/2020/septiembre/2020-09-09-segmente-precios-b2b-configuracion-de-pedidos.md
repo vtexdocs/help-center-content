@@ -20,7 +20,7 @@ La parte crítica de una operación B2B es la segmentación de precios y tasas d
 Para que esa experiencia mejore para la empresa compradora y la configuración de esas reglas se vuelva más simple para usted, comerciante B2B, estamos lanzando la aplicación __Configuración de Pedidos B2B__.  
 
 ### ¿Cómo funciona?
-De ahora en adelante, usted podrá combinar las reglas y [tablas de precios](/es/tutorial/creaci%C3%B3n-de-tablas-de-precios--58YmY2Iwggyw4WeSCGg24S "Creación de tablas de precios") que ya fueron creadas en nuestro sistema con nuevos criterios de segmentación basados en el tipo de pedido, para mostrar nuevos precios de forma instantánea al consumidor durante la experiencia de compra.
+De ahora en adelante, usted podrá combinar las reglas y [tablas de precios](/es/tutorial/creaci%C3%B3n-de-tablas-de-precios--58YmY2Iwggyw4WeSCGg24S) que ya fueron creadas en nuestro sistema con nuevos criterios de segmentación basados en el tipo de pedido, para mostrar nuevos precios de forma instantánea al consumidor durante la experiencia de compra.
 
 En otras palabras, estamos poniendo a disposición las herramientas para crear nuevas segmentaciones de precios, así como un nuevo componente en el layout de su tienda. Para que todo esto sea posible, la solución está dividida en dos partes:
 
@@ -39,5 +39,5 @@ Con la nueva aplicación, usted podrá:
 ### ¿Listo para comenzar?
 La nueva aplicación de Configuración de Pedidos B2B puede ser fácilmente instalada por los clientes que utilizan VTEX Store Framework, accediendo a esta en nuestra App Store. Todas sus funcionalidades también están disponibles vía API para los clientes que tienen una tienda en el Portal.
 
-Independiente de cuál es la versión de su tienda, acceda ahora a [nuestra documentación](/es/tutorial/que-es-order-configuration--2t6UQoFrFSSGW8CGEbA0r5 "Qué es Order Configuration") y vea cómo instalar la Configuración de Pedidos B2B en la misma.
+Independiente de cuál es la versión de su tienda, acceda ahora a [nuestra documentación](/es/tutorial/que-es-order-configuration--2t6UQoFrFSSGW8CGEbA0r5) y vea cómo instalar la Configuración de Pedidos B2B en la misma.
 

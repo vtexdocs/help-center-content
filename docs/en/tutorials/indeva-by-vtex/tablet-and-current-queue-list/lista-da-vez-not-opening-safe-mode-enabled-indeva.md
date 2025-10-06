@@ -15,4 +15,4 @@ locale: en
 subcategoryId: 78bsG4YLzz1TR7eUzFSf4F
 ---
 
-> ℹ️ This content is only available in Portuguese. [Click here](/en/tutorial/lista-da-vez-nao-abre-modo-seguranca-ativado-indeva--1toTht0HtSbXMZwL2xqCg6) to access it.
+> ℹ️ This content is only available in Portuguese. [Click here](/pt/tutorial/lista-da-vez-nao-abre-modo-seguranca-ativado-indeva--1toTht0HtSbXMZwL2xqCg6) to access it.

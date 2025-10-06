@@ -15,4 +15,4 @@ locale: en
 subcategoryId: 1acPW0OHXq4PjbQUFVrNrY
 ---
 
-> ℹ️ This content is only available in Portuguese. [Click here](/en/tutorial/desligar-vendedor-indeva--5pJIJWgiiHvO9YompUdNEZ) to access it.
+> ℹ️ This content is only available in Portuguese. [Click here](/pt/tutorial/desligar-vendedor-indeva--5pJIJWgiiHvO9YompUdNEZ) to access it.

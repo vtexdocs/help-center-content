@@ -14,7 +14,7 @@ locale: es
 legacySlug: untitled-entry-2019-03-25-at-08-41-57
 ---
 
-Eventualmente, es posible que el Precio de Lista no se muestre en el front-end de la tienda. Esto se debe a errores en la configuración del módulo [Precios](/es/tutorial/--tutorials_4394 "Precios").
+Eventualmente, es posible que el Precio de Lista no se muestre en el front-end de la tienda. Esto se debe a errores en la configuración del módulo [Precios](/es/tutorial/--tutorials_4394).
 
 El Precio de Lista es apenas una de las configuraciones posibles al establecer un precio de un SKU. En general, las primeras reglas definidas son Precio Base, Precio de Costo y Markup.
 

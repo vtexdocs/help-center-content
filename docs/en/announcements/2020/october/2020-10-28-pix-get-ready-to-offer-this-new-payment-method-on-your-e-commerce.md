@@ -25,7 +25,7 @@ To know the benefits and the advantages to accept Pix as a payment method in you
 ## How partners can integrate with VTEX?
 __From October 19th 2020__, partners will be able to start its integrations using the [Payment Provider Protocol](/en/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m) to offer Pix as a payment method to your clients.
 
-__Payment institutions that already have a partnership with VTEX__ can get in touch with their Partner Manager. You can also do this solicitation through a [Support ticket](/en/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM "Support ticket").  
+__Payment institutions that already have a partnership with VTEX__ can get in touch with their Partner Manager. You can also do this solicitation through a [Support ticket](/en/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM).  
 
 __Payment institutions that not VTEX partners__ should fill out our [registration form](https://vtex.com/us-en/partners) to start the partnership.
 
@@ -35,7 +35,7 @@ There are two options:
 
 - Get in touch with the company in charge of managing the payments in your e-commerce. Then, request an integration between VTEX and this company.
 
-- Choose a payment partner that is already in touch with VTEX about Pix then proceed with the contract negotiation and tech configuration. Currently, the available partners are: [PayMee](https://www.paymee.com.br/), [Spin Pay](https://spinpay.com.br/ "Spin Pay"), [IUGU](https://iugu.com/ "IUGU"), [Pagar.me](/en/tutorial/setting-up-pagarmev2-gateway--5TugxXNMOs0Ocyg4uqussM) and [Aarin](https://aarin.com.br/).
+- Choose a payment partner that is already in touch with VTEX about Pix then proceed with the contract negotiation and tech configuration. Currently, the available partners are: [PayMee](https://www.paymee.com.br/), [Spin Pay](https://spinpay.com.br/), [IUGU](https://iugu.com/), [Pagar.me](/en/tutorial/setting-up-pagarmev2-gateway--5TugxXNMOs0Ocyg4uqussM) and [Aarin](https://aarin.com.br/).
 
 ## Get in touch with the available partners
 

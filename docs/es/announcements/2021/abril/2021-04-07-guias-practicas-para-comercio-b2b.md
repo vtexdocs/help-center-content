@@ -15,11 +15,11 @@ announcementImageID: "undefined"
 announcementSynopsisES: "Nuevos tutoriales destacan los recursos disponibles en la plataforma para los diferentes escenarios de ecommerce B2B."
 ---
 
-Para permitir que nuestros clientes ofrezcan experiencias de comercio diseñadas para su negocio, repensando cómo colaboran con sus clientes, proveedores y partners de canal, publicamos una nueva serie de artículos y tutoriales sobre [comercio digital B2B](https://vtex.com/ar-es/b2b-commerce/ "comercio digital B2B"):
+Para permitir que nuestros clientes ofrezcan experiencias de comercio diseñadas para su negocio, repensando cómo colaboran con sus clientes, proveedores y partners de canal, publicamos una nueva serie de artículos y tutoriales sobre [comercio digital B2B](https://vtex.com/ar-es/b2b-commerce/):
 
-- [B2B: visión general](/es/tutorial/b2b-vision-general--5vb9SNXhX2bZnkpAh7ADdC "B2B: visión general")
-- [Guía práctica sobre cómo configurar una tienda B2B de autoservicio](/es/tutorial/configurar-una-tienda-b2b-de-autoservicio--4576nMaRKk4madDZ7liiXS "Guía práctica sobre cómo configurar una tienda B2B de autoservicio")
-- [Guía práctica sobre cómo facilitar la operación de una tienda B2B](/es/tutorial/facilitar-la-operacion-de-una-tienda-b2b--8t1f9FYBsSCopHHVujKWR "Guía práctica sobre cómo facilitar la operación B2B de una tienda")
+- [B2B: visión general](/es/tutorial/b2b-vision-general--5vb9SNXhX2bZnkpAh7ADdC)
+- [Guía práctica sobre cómo configurar una tienda B2B de autoservicio](/es/tutorial/configurar-una-tienda-b2b-de-autoservicio--4576nMaRKk4madDZ7liiXS)
+- [Guía práctica sobre cómo facilitar la operación de una tienda B2B](/es/tutorial/facilitar-la-operacion-de-una-tienda-b2b--8t1f9FYBsSCopHHVujKWR)
 
 Esta documentación destaca los principales recursos de la plataforma para los diferentes escenarios de un ecommerce B2B.
 

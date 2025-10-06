@@ -29,7 +29,7 @@ A funcionalidade garante uma flexibilidade maior no momento de definir quais for
 Por fim, atualmente, a funcionalidade não suporta a aplicação de juros simples em pagamentos realizados em apenas uma parcela.
 
 ## Como funciona
-Para definir juros no Customer Credit, você precisa seguir o fluxo padrão para [configurar uma condição de pagamento](/pt/tutorial/condicoes-de-pagamento--tutorials_455 "configurar uma condição de pagamento").
+Para definir juros no Customer Credit, você precisa seguir o fluxo padrão para [configurar uma condição de pagamento](/pt/tutorial/condicoes-de-pagamento--tutorials_455).
 
 O primeiro passo é certificar-se de que o Customer Credit já está cadastrado como uma afiliação de Gateway na sua loja. Se esse não for o caso, você deve criar uma nova afiliação. 
 
@@ -41,4 +41,4 @@ Em seguida, você definirá quais as regras aplicadas a esse meio de pagamento:
 
 Finalize o processo salvando as configurações. Desse modo, os juros serão exibidos no Customer Credit do SmartCheckout.
 
-Para saber mais detalhes sobre o Customer Credit, confira nossa [trilha introdutória sobre essa app](/pt/tutorial/customer-credit-visao-geral--1uIqTjWxIIIEW0COMg4uE0 "trilha introdutória sobre essa app.").
+Para saber mais detalhes sobre o Customer Credit, confira nossa [trilha introdutória sobre essa app](/pt/tutorial/customer-credit-visao-geral--1uIqTjWxIIIEW0COMg4uE0).

@@ -15,4 +15,4 @@ locale: es
 subcategoryId: 1acPW0OHXq4PjbQUFVrNrY
 ---
 
-> ℹ️ Este contenido está disponible solo en [portugués](/es/tutorial/filtrar-vendedores-por-status-indeva--7FlkvLNQsECoXdY8QlOkoj). Haga clic aquí para acceder.
+> ℹ️ Este contenido está disponible solo en [portugués](/pt/tutorial/filtrar-vendedores-por-status-indeva--7FlkvLNQsECoXdY8QlOkoj). Haga clic aquí para acceder.

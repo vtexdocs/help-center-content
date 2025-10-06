@@ -15,4 +15,4 @@ locale: es
 subcategoryId: 2qRY1ABm4FFJywlXZeCFa7
 ---
 
-> ℹ️ This content is only available in Portuguese. [Click here](/pt/tutorial/ajustar-metas-apos-o-desligamento-de-um-vendedor-indeva--4eCbdF4gFYu4vj0otHkILd) to access it.
+> ℹ️ This content is only available in Portuguese. [Click here](/pt/tutorial/ajustar-metas-apos-o-desligamento-de-um-vendedor-indeva--4eCbdF4gFYu4vj0otHkILd). Haga clic aquí para acceder.

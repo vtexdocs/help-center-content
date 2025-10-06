@@ -19,7 +19,7 @@ A partir de novembro de 2020, clientes VTEX poderão configurar o Pix - método 
 
 O Pix é um meio de pagamento inédito no Brasil que será disponibilizado em todo território nacional, possibilitando que os usuários realizem transferências bancárias em até 10 segundos 24 horas por dia, sete dias por semana.
 
-A novidade traz muitos benefícios para lojistas e você pode conferir todas essas vantagens no nosso blogpost sobre [impactos do Pix no e-commerce](https://vtex.com/pt-br/blog/produto/pix-no-e-commerce/ "impactos do Pix no e-commerce"). 
+A novidade traz muitos benefícios para lojistas e você pode conferir todas essas vantagens no nosso blogpost sobre [impactos do Pix no e-commerce](https://vtex.com/pt-br/blog/produto/pix-no-e-commerce/). 
 
 ## O que mudou?
 
@@ -31,7 +31,7 @@ Em até 15 minutos, o Pix pode ser disponibilizado como um meio de pagamento par
 
 ## Como funciona
 
-Certifique-se com o parceiro responsável pelo processamento dos seus pagamentos se a [integração](https://developers.vtex.com/vtex-developer-docs/docs/pix-instant-payments-in-brazil "integração") feita via [Payment Provider Protocol](https://developers.vtex.com/vtex-developer-docs/docs/payment-provider-protocol "Payment Provider Protocol") - protocolo de integração da VTEX - foi realizada corretamente. 
+Certifique-se com o parceiro responsável pelo processamento dos seus pagamentos se a [integração](https://developers.vtex.com/vtex-developer-docs/docs/pix-instant-payments-in-brazil) feita via [Payment Provider Protocol](https://developers.vtex.com/vtex-developer-docs/docs/payment-provider-protocol) - protocolo de integração da VTEX - foi realizada corretamente. 
 
-Se a resposta for positiva, o Pix já pode ser configurado. O processo é semelhante aos demais meios de pagamento oferecidos e, para saber mais detalhes, confira nosso tutorial de [como configurar o Pix como meio de pagamento via Admin](/pt/tutorial/configurar-pix-como-meio-de-pagamento--5sbNavMSJY4jyLmLKRHiOf?&utm_source=autocomplete "como configurar o Pix como meio de pagamento via Admin").
+Se a resposta for positiva, o Pix já pode ser configurado. O processo é semelhante aos demais meios de pagamento oferecidos e, para saber mais detalhes, confira nosso tutorial de [como configurar o Pix como meio de pagamento via Admin](/pt/tutorial/configurar-pix-como-meio-de-pagamento--5sbNavMSJY4jyLmLKRHiOf?&utm_source=autocomplete).
 

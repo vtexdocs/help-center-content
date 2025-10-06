@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisPT: 'A solução foi atualizada para finalizar compras sem redirect.'
 ---
 
-O Mercado Pago Pro é um dos meios de pagamento oferecidos pela [carteira digital ](/pt/tutorial/o-que-e-uma-carteira-digital-e-wallet "carteira digital")Mercado Pago. Com ele, o consumidor pode finalizar uma compra no Checkout sem precisar fazer o login em sua conta. 
+O Mercado Pago Pro é um dos meios de pagamento oferecidos pela [carteira digital ](/pt/tutorial/o-que-e-uma-carteira-digital-e-wallet)Mercado Pago. Com ele, o consumidor pode finalizar uma compra no Checkout sem precisar fazer o login em sua conta. 
 
 A partir de novembro de 2020, clientes VTEX que utilizam esse meio de pagamento devem migrar para uma nova versão do Mercado Pago Pro. 
 
@@ -33,6 +33,6 @@ Todos os clientes VTEX que utilizam o Mercado Pago Pro tiveram o Payment App - f
 
 Agora, o cliente poderá configurar o Mercado Pago Pro como um meio de pagamento associado à afiliaçao de Gateway MercadoPagoV1.
 
-Para saber mais detalhes sobre este  processo, confira [nosso artigo sobre como configurar o Mercado Pago Pro como meio de pagamento](/pt/tutorial/como-configurar-mercado-pago-pro-como-meio-de-pagamento--520AthtalgojtTUKw0La9S?&utm_source=autocomplete "nosso artigo sobre como configurar o Mercado Pago Pro como meio de pagamento").
+Para saber mais detalhes sobre este  processo, confira [nosso artigo sobre como configurar o Mercado Pago Pro como meio de pagamento](/pt/tutorial/como-configurar-mercado-pago-pro-como-meio-de-pagamento--520AthtalgojtTUKw0La9S?&utm_source=autocomplete).
 
 Em caso de dúvidas, você sempre pode entrar em contato com o seu CSM - Customer Success Manager -, seu gerente de contas na VTEX.

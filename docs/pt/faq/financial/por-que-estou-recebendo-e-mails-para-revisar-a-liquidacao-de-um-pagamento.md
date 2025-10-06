@@ -20,4 +20,4 @@ Nesse caso, é necessário entrar em contato com o integrador da loja e verifica
 
 No e-mail de alerta enviado pelo sistema, são incluídas informações úteis referentes à autorização da transação e que deverão ser informadas à equipe de suporte do conector.
 
-_Importante: Caso deseje alterar o e-mail da pessoa que recebe as notificações do PCI, [clique aqui](/pt/tutorial/como-configurar-notificacoes/ "clique aqui") para saber como._
+_Importante: Caso deseje alterar o e-mail da pessoa que recebe as notificações do PCI, [clique aqui](/pt/tutorial/como-configurar-notificacoes/) para saber como._

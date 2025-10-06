@@ -23,7 +23,7 @@ Fica a critério do cliente decidir se deseja que o pedido seja entregue em casa
 
 ## Pré-requisitos - VTEX Sales App
 
-Verifique os requisitos que sua loja precisa garantir para iniciar a implementação de lojas físicas como pontos de retirada para pedidos realizados no [VTEX Sales App](/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf). Para isso, confira o artigo [Pré-requisitos para usar o VTEX Sales App](/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/1wtAanSRA3g2316dw7bw8u "Pré-requisitos para usar o VTEX Sales App").
+Verifique os requisitos que sua loja precisa garantir para iniciar a implementação de lojas físicas como pontos de retirada para pedidos realizados no [VTEX Sales App](/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf). Para isso, confira o artigo [Pré-requisitos para usar o VTEX Sales App](/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/1wtAanSRA3g2316dw7bw8u).
 
 ## Configurar lojas físicas como pontos de retirada
 

@@ -20,4 +20,4 @@ In this case, you must contact the store integrator and check whether or not the
 
 The alert email sent by the system includes useful information about the authorization of the transaction, which must be supplied to the connector’s support team.
 
-_Important: If you want to change the email address of the person receiving PCI notifications, [click here](/en/tutorial/como-configurar-notificacoes/ "click here") to find out how._
+_Important: If you want to change the email address of the person receiving PCI notifications, [click here](/en/tutorial/como-configurar-notificacoes/) to find out how._

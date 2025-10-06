@@ -87,7 +87,7 @@ Há casos em que conectores podem ser construídos para atender alguma solução
 - [Payment Provider Protocol aplicado a pagamentos com POS](https://developers.vtex.com/docs/guides/payments-integration-ppp-applied-to-pos): Aplicação do PPP para pagamentos em lojas físicas utilizando um terminal de pagamento (POS). Pode ser utilizado com cartões de crédito e débito. O fluxo do pagamento se inicia com uma compra feita no [VTEX Sales App](/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf) e então será feita a comunicação com o POS, onde o cliente irá inserir o cartão.
 
 ### 3. Homologação do Payment Provider
-Depois de receber os dados de acesso e implementar o back-end, o provedor deve instalar a app Payment Provider Test Suite para acessar a ferramenta de testes. A instalação é feita por meio de [VTEX App Store](https://apps.vtex.com/vtex-payment-provider-test-suite/p "VTEX App Store"). 
+Depois de receber os dados de acesso e implementar o back-end, o provedor deve instalar a app Payment Provider Test Suite para acessar a ferramenta de testes. A instalação é feita por meio de [VTEX App Store](https://apps.vtex.com/vtex-payment-provider-test-suite/p). 
 
 ![ppp-vtex-store-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/vis%C3%A3o-geral-de-pagamentos/payment-provider-protocol_1.png)
 

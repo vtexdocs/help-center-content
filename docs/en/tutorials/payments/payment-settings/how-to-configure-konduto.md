@@ -21,7 +21,7 @@ This anti-fraud depends on different configurations of the [other anti-frauds th
 
 ## Configure your GTM
 
-GTM is the Google Tag Manager, a Google tool that makes tags management on the site. This GTM is then associated to your account, and enters all tags configured on it to your website. [See more details on how to configure the GTM in your store.](/en/faq/integration-with-google-tag-manager/ "See more details on how to configure the GTM in your store.")
+GTM is the Google Tag Manager, a Google tool that makes tags management on the site. This GTM is then associated to your account, and enters all tags configured on it to your website. [See more details on how to configure the GTM in your store.](/en/faq/integration-with-google-tag-manager/)
 
 ### Create the variable
 

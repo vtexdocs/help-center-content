@@ -45,7 +45,7 @@ Confira nosso [guia de integração de ERPs](https://developers.vtex.com/docs/er
 
 O cliente pode solicitar o cancelamento do pedido por meio da tela de **Meus pedidos**.  
 
-Se o cliente solicitar o cancelamento dentro do período de carência do pedido, que é [configurável pela loja](/pt/tutorial/configurar-o-tempo-de-carencia-para-cancelamento-do-pedido?locale=pt "Configurar período de carência"), o lojista não precisa aprovar o cancelamento. Considera-se que o fluxo de picking, packing e entrega ainda não se iniciou, portanto o cancelamento não traria ônus à loja.
+Se o cliente solicitar o cancelamento dentro do período de carência do pedido, que é [configurável pela loja](/pt/tutorial/configurar-o-tempo-de-carencia-para-cancelamento-do-pedido?locale=pt), o lojista não precisa aprovar o cancelamento. Considera-se que o fluxo de picking, packing e entrega ainda não se iniciou, portanto o cancelamento não traria ônus à loja.
 
 Após o período de carência, entende-se que a loja já está agindo sobre o pedido. Nesse caso, o lojista deverá confirmar a solicitação de cancelamento.   
 

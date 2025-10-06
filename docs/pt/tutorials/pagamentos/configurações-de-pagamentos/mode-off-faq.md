@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-O mode-off é um recurso do [Payment Provider Protocol](https://developers.vtex.com/vtex-rest-api/docs/payments-integration-payment-provider-protocol "Payment Provider Protocol"), o protocolo de integração para pagamentos da VTEX. 
+O mode-off é um recurso do [Payment Provider Protocol](https://developers.vtex.com/vtex-rest-api/docs/payments-integration-payment-provider-protocol), o protocolo de integração para pagamentos da VTEX. 
 
 Essa funcionalidade permite que a VTEX acompanhe a saúde e a estabilidade dos seus parceiros de pagamentos, garantindo que pedidos não sejam cancelados por conta de instabilidades. 
 
@@ -77,5 +77,5 @@ Caso deseje, o lojista pode também entrar em contato com seu parceiro de pagame
 
 ## Onde consigo mais detalhes técnicos sobre o funcionamento do mode-off?
 
-Para obter informações técnicas sobre o funcionamento do mode-off, confira nossa documentação no [Developer Portal](https://developers.vtex.com/vtex-rest-api/docs/payments-integration-purchase-flows#mode-off "").  
+Para obter informações técnicas sobre o funcionamento do mode-off, confira nossa documentação no [Developer Portal](https://developers.vtex.com/vtex-rest-api/docs/payments-integration-purchase-flows#mode-off).  
 

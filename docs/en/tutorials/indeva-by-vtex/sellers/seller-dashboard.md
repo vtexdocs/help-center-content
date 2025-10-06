@@ -15,4 +15,4 @@ locale: en
 subcategoryId: 1acPW0OHXq4PjbQUFVrNrY
 ---
 
-> ℹ️ This content is only available in Portuguese. [Click here](/en/tutorial/painel-de-vendedor--1Jc73QVv6PnJxwUbrcFBNA) to access it.
+> ℹ️ This content is only available in Portuguese. [Click here](/pt/tutorial/painel-de-vendedor--1Jc73QVv6PnJxwUbrcFBNA) to access it.

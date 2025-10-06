@@ -33,11 +33,11 @@ Dicho esto, el primer paso es definir qué afiliaciones del Gateway procesarán 
 
 El proceso de configuración de las afiliaciones es similar. Sin embargo, la información requerida en cada formulario es diferente. Para conocer los detalles de cada configuración, consulte los siguientes tutoriales:
 
-- [Adyen](/es/tutorial/como-configurar-o-gateway-adyen-na-vtex--tutorials_2337?locale=pt "Adyen").
-- [Braspag](/es/tutorial/configurar-o-gateway-braspag--7tQmfLMvtYEsWoaaAaeKSC "Braspag").
-- [CieloV3](/es/tutorial/configurar-adquirente-cielo--3avjZ7q65WcM02K8K0eeWu?locale=pt "CieloV3").
-- [Mundi](/es/tutorial/configurar-gateway-mundi--2yn9dKzvZOF5tn4RCX2Nbq?locale=pt "Mundi").
-- [ERedeRest](/es/tutorial/configurar-adquirente-rede-con-erederest?locale=pt "ERedeRest").
+- [Adyen](/es/tutorial/como-configurar-o-gateway-adyen-na-vtex--tutorials_2337?locale=pt).
+- [Braspag](/es/tutorial/configurar-o-gateway-braspag--7tQmfLMvtYEsWoaaAaeKSC).
+- [CieloV3](/es/tutorial/configurar-adquirente-cielo--3avjZ7q65WcM02K8K0eeWu?locale=pt).
+- [Mundi](/es/tutorial/configurar-gateway-mundi--2yn9dKzvZOF5tn4RCX2Nbq?locale=pt).
+- [ERedeRest](/es/tutorial/configurar-adquirente-rede-con-erederest?locale=pt).
 
 ## Condiciones de pago 
 

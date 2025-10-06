@@ -86,7 +86,7 @@ A tabela abaixo apresenta quais são os três tipos de autenticação disponíve
 | **Tipo de autenticação** | **Descrição** |
 | :---: | :--- |
 | Autenticação de requisições a APIs usando [chaves de aplicação](/pt/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet) (appKeys) | As chaves de aplicação (appKeys) são utilizadas para autenticar requisições a APIs da VTEX. Os administradores da loja podem criar essas chaves para diferentes integrações.Mais informações em [API authentication using application keys](https://developers.vtex.com/docs/guides/api-authentication-using-application-keys). |
-| Autenticação de requisições a APIs usando tokens de usuário | Os tokens de usuário são usados para autenticar requisições a APIs, especialmente para aplicativos [frontend](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ  ) desenvolvidos com VTEX IO.Mais informações em [API authentication using user tokens](https://developers.vtex.com/docs/guides/api-authentication-using-user-tokens). |
+| Autenticação de requisições a APIs usando tokens de usuário | Os tokens de usuário são usados para autenticar requisições a APIs, especialmente para aplicativos [frontend](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ) desenvolvidos com VTEX IO.Mais informações em [API authentication using user tokens](https://developers.vtex.com/docs/guides/api-authentication-using-user-tokens). |
 | Autenticação de apps usando tokens de autenticação | O uso de tokens de autenticação (auth tokens) é necessário para autenticação no desenvolvimento de apps com VTEX IO.Mais informações em [App authentication using auth tokens](https://developers.vtex.com/docs/guides/app-authentication-using-auth-tokens). |
 
 ## Política comercial

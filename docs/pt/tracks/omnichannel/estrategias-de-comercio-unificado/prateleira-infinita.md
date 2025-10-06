@@ -21,7 +21,7 @@ Esse é um conceito básico de estratégias Omnichannel, e essencial para a real
 
 ## Pré-requisitos
 
-Antes de mais nada, verifique os pré-requisitos que sua loja precisa garantir para iniciar a implementação de uma estratégia de Prateleira Infinita. Para isso, confira o artigo [Pré-requisitos para usar o VTEX Sales App](/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/1wtAanSRA3g2316dw7bw8u "Pré-requisitos para usar o VTEX Sales App").
+Antes de mais nada, verifique os pré-requisitos que sua loja precisa garantir para iniciar a implementação de uma estratégia de Prateleira Infinita. Para isso, confira o artigo [Pré-requisitos para usar o VTEX Sales App](/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/1wtAanSRA3g2316dw7bw8u).
 
 ## Cadastrar lojas físicas no VTEX Sales App
 

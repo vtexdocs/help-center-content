@@ -39,6 +39,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Mercado Libre: Flex and Turbo shipping",
+                    "es": "Mercado Libre: envíos Flex y Turbo",
+                    "pt": "Mercado Livre: envios Flex e Turbo"
+                  },
+                  "slug": {
+                    "en": "2025-10-02-mercado-libre-flex-and-turbo-shipping",
+                    "es": "2025-10-02-mercado-libre-envios-flex-y-turbo",
+                    "pt": "2025-10-02-mercado-livre-envios-flex-e-turbo"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Mercado Libre: Warehouse assignment",
                     "es": "Mercado Libre: asignación de almacén",
                     "pt": "Mercado Livre: Atribuição de estoque"
@@ -17369,12 +17384,12 @@
                   "name": {
                     "en": "Import and export product and SKU images via spreadsheet (Beta)",
                     "es": "Importación y exportación de imágenes de productos y SKUs mediante plantilla (Beta)",
-                    "pt": "Importação e exportação de imagens de produtos e SKUs via planilha (Beta)"
+                    "pt": "Import and export product and SKU images via spreadsheet (Beta)"
                   },
                   "slug": {
                     "en": "import-and-export-product-and-sku-images-via-spreadsheet-beta",
                     "es": "importacion-y-exportacion-de-imagenes-de-productos-y-skus-mediante-plantilla",
-                    "pt": "importacao-e-exportacao-de-imagens-de-produtos-e-skus-via-planilha-beta"
+                    "pt": ""
                   },
                   "origin": "",
                   "type": "markdown",
@@ -17405,6 +17420,21 @@
                     "en": "import-and-export-sku-specifications-via-spreadsheet-beta",
                     "es": "importacion-y-exportacion-de-especificaciones-de-sku-mediante-plantilla-beta",
                     "pt": "importacao-e-exportacao-de-especificacoes-de-skus-via-planilha-beta"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Importing and exporting product and SKU images using a spreadsheet (Beta)",
+                    "es": "Importar y exportar imágenes de productos y SKUs mediante plantilla (Beta)",
+                    "pt": "Importação e exportação de imagens de produtos e SKUs via planilha (Beta)"
+                  },
+                  "slug": {
+                    "en": "importing-and-exporting-product-and-sku-images-using-a-spreadsheet-beta",
+                    "es": "importar-y-exportar-imagenes-de-productos-y-skus-mediante-plantilla-beta",
+                    "pt": "importacao-e-exportacao-de-imagens-de-produtos-e-skus-via-planilha-beta"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -21356,6 +21386,51 @@
                 },
                 {
                   "name": {
+                    "en": "Edit goal cycle format",
+                    "es": "Editar formato del ciclo de meta",
+                    "pt": "Editar formato do ciclo de meta"
+                  },
+                  "slug": {
+                    "en": "edit-goal-cycle-format-indeva",
+                    "es": "editar-formato-ciclo-metas-indeva",
+                    "pt": "editar-formato-ciclo-meta-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Fix goal assignment linked to deactivated seller",
+                    "es": "Corregir vínculo de meta con vendedor desactivado",
+                    "pt": "Corrigir vínculo de meta com vendedor desligado"
+                  },
+                  "slug": {
+                    "en": "fix-goal-linkage-inactive-seller-indeva",
+                    "es": "corregir-vinculo-meta-vendedor-desvinculado-indeva",
+                    "pt": "corrigir-vinculo-meta-vendedor-desligado-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Register holidays and days off in the goal cycle",
+                    "es": "Registrar feriados y días libres en el ciclo de metas",
+                    "pt": "Cadastrar feriados e folgas no ciclo de meta"
+                  },
+                  "slug": {
+                    "en": "register-holidays-days-off-goal-cycle-indeva",
+                    "es": "registrar-feriados-dias-libres-ciclo-metas-indeva",
+                    "pt": "cadastrar-feriados-folgas-ciclo-meta-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Register time off for a seller",
                     "es": "Registrar día libre para un vendedor",
                     "pt": "Cadastrar folga para um vendedor"
@@ -21371,9 +21446,9 @@
                 },
                 {
                   "name": {
-                    "en": "Resolve date conflict in goals",
-                    "es": "Resolver conflicto de fechas en metas",
-                    "pt": "Resolver conflito de datas em metas"
+                    "en": "Resolve date conflict in goal registration",
+                    "es": "Resolver conflicto de fechas en el registro de metas",
+                    "pt": "Resolver conflito de datas no cadastro de metas"
                   },
                   "slug": {
                     "en": "resolve-date-conflict-in-goals-indeva",

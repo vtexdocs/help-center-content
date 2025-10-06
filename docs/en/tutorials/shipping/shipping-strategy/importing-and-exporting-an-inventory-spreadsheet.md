@@ -31,7 +31,7 @@ If you have more than one existing inventory, this same action also allows you t
 
 1. In the VTEX Admin, go to **Shipping > Shipping Strategy**, or type *Shipping Strategy* in the search bar at the top of the page.    
 2. Click on **Warehouses** tab.  
-3. Click on :` button next to *Create warehouse*.  
+3. Click on `:` button next to *Create warehouse*.  
 4. Click on the **Import items** option.  
 5. Choose a file from your computer and drag it into the box.  
 6. Click on **Import**. 

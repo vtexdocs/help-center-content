@@ -241,7 +241,7 @@ Las personalizaciones que se describen a continuación son opcionales y tienen p
 - [Carrito abandonado](#carrito-abandonado)
 - [Modificar el precio de un ítem en el carrito](#modificar-el-precio-de-un-item-en-el-carrito)
 - [Valor mínimo por pedido y cantidad máxima de ítems por SKU](#valor-minimo-por-pedido-y-cantidad-maxima-de-items-por-sku)
-- [Geolocalización en el checkout](#geolocalizacion-en-el-checkout )
+- [Geolocalización en el checkout](#geolocalizacion-en-el-checkout)
 - [Checkout UI Custom app](#checkout-ui-custom-app)
 
 ### Optimización de opciones de entrega en el checkout

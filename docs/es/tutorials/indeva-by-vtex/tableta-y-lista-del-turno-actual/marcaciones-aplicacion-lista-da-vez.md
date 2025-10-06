@@ -15,4 +15,4 @@ locale: es
 subcategoryId: 78bsG4YLzz1TR7eUzFSf4F
 ---
 
-> ℹ️ Este contenido está disponible solo en [portugués](/es/tutorial/marcacoes-aplicativo-lista-da-vez--4oLt70pEOkY8uYTrhhTlEJ). Haga clic aquí para acceder.
+> ℹ️ Este contenido está disponible solo en [portugués](/pt/tutorial/marcacoes-aplicativo-lista-da-vez--4oLt70pEOkY8uYTrhhTlEJ). Haga clic aquí para acceder.

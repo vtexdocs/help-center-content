@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-O Mercado Pago Pro é uma solução de pagamento da [carteira digital](/pt/tutorial/o-que-e-uma-carteira-digital-e-wallet "carteira digital") Mercado Pago.
+O Mercado Pago Pro é uma solução de pagamento da [carteira digital](/pt/tutorial/o-que-e-uma-carteira-digital-e-wallet) Mercado Pago.
 
 Para oferecê-lo como meio de pagamento no SmartCheckout para os seus consumidores, você deve primeiro cadastrar uma afiliação de gateway e, posteriormente, configurar o Mercado Pago Pro como meio de pagamento em si.  
 
@@ -39,7 +39,7 @@ Para configurar o Mercado Pago Pro, siga os passos abaixo:
 7. Em __Processar com afiliação__, selecione uma das opções: __MercadoPagoV1__ ou __MercadoPagoV2__.
 8. Caso seja necessário, clique na caixa de seleção __“Usar Antifraude”__.
 
-Do lado direito da tela, é possível configurar as [condições especiais de pagamento](/pt/tutorial/condicoes-especiais--tutorials_456 "condições especiais de pagamento").
+Do lado direito da tela, é possível configurar as [condições especiais de pagamento](/pt/tutorial/condicoes-especiais--tutorials_456).
 
 Entretanto, essa etapa é opcional. Você pode simplesmente clicar diretamente no __botão azul “Salvar”__ para finalizar a configuração do meio de pagamento. 
 

@@ -22,7 +22,7 @@ Through this provider, your store can make sales using different payment methods
 To configure Klap, follow the steps below:
 
 1. In the VTEX Admin, go to **Store Settings > Payment > Providers**, or type **Providers** in the search bar at the top of the page.
-2. On the providers screen, click the `New Provider button.
+2. On the providers screen, click the `New Provider` button.
 3. Type the name **klap** in the search bar and click on the name of the provider.
 4. In **Provider Authorization**, fill in the **App key** and **App token** fields with data provided by your account klap.
 5. If you wish to modify the identification name to be displayed for the Klap provider on the VTEX Admin screen, enter the information in the **Name** field in **Basic Information**.
@@ -36,7 +36,7 @@ To configure Klap, follow the steps below:
    		<li>**Automatic capture immediately after anti-fraud analysis**: Capture is automatically performed right after payment authorization and anti-fraud analysis. If you select this behavior and do not have anti-fraud analysis, the system will perform the payment capture as in "Automatic capture immediately after payment authorization".</li>     
    		<li>**Disabled**: Capture takes place only when the order is invoiced. If you select this behavior, it is important to pay attention to the invoicing time, as invoicing can exceed the capture time agreed with the payment provider and lead to the cancellation of the transaction.</li>
 </ul>
-8. In **Provider Fields**, configure the fields **Modo**, **Api key**, and **URL Tienda** according to the provider`s instructions.
+8. In **Provider Fields**, configure the fields **Modo**, **Api key**, and **URL Tienda** according to the provider's  instructions.
 9. Click `Save`.
 
 ## Setting up the payment condition
@@ -49,5 +49,5 @@ To configure Klap, follow the steps below:
 6. If you want, you can also [configure special payment conditions](/en/tutorial/condiciones-especiales--tutorials_456?&utm_source=autocomplete#).
 7. Click `Save`.
 
-After following the indicated steps, klap may take up to 10 minutes to appear at your store`s checkout as a payment option.
+After following the indicated steps, klap may take up to 10 minutes to appear at your store's  checkout as a payment option.
 

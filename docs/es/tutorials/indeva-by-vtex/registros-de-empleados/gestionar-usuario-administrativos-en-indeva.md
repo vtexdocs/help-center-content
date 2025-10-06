@@ -15,4 +15,4 @@ locale: es
 subcategoryId: 2fZRuqcVChcJ9AhY4vzfl3
 ---
 
-> ℹ️ Este contenido está disponible solo en [portugués](/es/tutorial/gerenciar-acesso-de-usuarios-administrativos-na-plataforma-indeva--36VXnj6jIV0zfCSqgGGdrG). Haga clic aquí para acceder.
+> ℹ️ Este contenido está disponible solo en [portugués](/pt/tutorial/gerenciar-acesso-de-usuarios-administrativos-na-plataforma-indeva--36VXnj6jIV0zfCSqgGGdrG). Haga clic aquí para acceder.

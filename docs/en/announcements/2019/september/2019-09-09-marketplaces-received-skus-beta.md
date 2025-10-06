@@ -23,7 +23,7 @@ This open beta is the first in a series of product updates and improvements to c
 
 ## Bulk Cataloging
 
-One of the first and principal improvements is the new way to select SKUs en masse — so you can approve or reject them in bulk. Aligned with our [Styleguide](https://styleguide.vtex.com/ "Styleguide"), the bulk selection will make your work faster and better.
+One of the first and principal improvements is the new way to select SKUs en masse — so you can approve or reject them in bulk. Aligned with our [Styleguide](https://styleguide.vtex.com/), the bulk selection will make your work faster and better.
 
 ![received-skus-bulk](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2019/september/2019-09-09-marketplaces-received-skus-beta_1.gif)
 

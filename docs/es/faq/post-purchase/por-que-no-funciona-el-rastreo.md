@@ -26,6 +26,6 @@ Después de su registro, analice los siguientes elementos, que son los principal
 - Verifique si la URL de rastreo es incorrecta.
 - Verifique si la transportadora es incorrecta.
 - Acceda a la URL de rastreo colocando el número en el navegador y verifique si accede a la página para hacer el acompañamiento. 
-- Verifique si la transportadora está en el [lista de transportadoras registradas para rastreo](/es/faq/cuales-transportistas-ponen-a-disposicion-el-rastreo-de-flete "lista de transportadoras registradas para rastreo").
+- Verifique si la transportadora está en el [lista de transportadoras registradas para rastreo](/es/faq/cuales-transportistas-ponen-a-disposicion-el-rastreo-de-flete).
 
 _Ajuste esos ítems y acompañe el disparo de los correos electrónicos por la Línea de Tiempo en el pedido._

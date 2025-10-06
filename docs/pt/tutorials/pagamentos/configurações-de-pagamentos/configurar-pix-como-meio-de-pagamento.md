@@ -15,11 +15,11 @@ locale: pt
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-O [Pix](https://vtex.com/pt-br/blog/produto/pix-no-e-commerce/ "Pix") é um meio de pagamento eletrônico específico do Brasil. Por meio dele, é possível o envio e o recebimento instantâneo de pagamentos entre diferentes bancos e instituições financeiras, 24h por dia, sete dias por semana.
+O [Pix](https://vtex.com/pt-br/blog/produto/pix-no-e-commerce/) é um meio de pagamento eletrônico específico do Brasil. Por meio dele, é possível o envio e o recebimento instantâneo de pagamentos entre diferentes bancos e instituições financeiras, 24h por dia, sete dias por semana.
 
 > ⚠️ O Pix **não é** um meio de pagamento suportado por clientes marketplace que realizem split de transação.
 
-Para maiores informações sobre o PIX, acesse o [PIX FAQ](/pt/tutorial/pix-faq--3lx7zCU2lQroTEBCYKYbo3 "o FAQ sobre as principais dúvidas relacionadas ao Pix"). 
+Para maiores informações sobre o PIX, acesse o [PIX FAQ](/pt/tutorial/pix-faq--3lx7zCU2lQroTEBCYKYbo3). 
 
 ## Configurar o Pix
 

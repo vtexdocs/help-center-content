@@ -39,7 +39,7 @@ Feito isso, aguarde mais 15 minutos. Agora começa a etapa mais importante do pr
 
 11. Acesse o __painel__ do Mercado Livre
 12. Faça o __login__ com a conta que deseja integrar
-13. Refaça o __[processo de autorizaçao](/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/4leBEAd22Icm46kGeiGgak "processo de autorização")__
+13. Refaça o __[processo de autorizaçao](/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/4leBEAd22Icm46kGeiGgak)__
 15. __Salve__ as configurações.
 
 Pronto! Desse modo, sua integração voltará a funcionar normalmente dentro de alguns minutos.

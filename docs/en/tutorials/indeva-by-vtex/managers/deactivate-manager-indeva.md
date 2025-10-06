@@ -15,4 +15,4 @@ locale: en
 subcategoryId: 4LwIt8RFNUOMKhMZ2C6hAK
 ---
 
-> ℹ️ This content is only available in Portuguese. [Click here](/en/tutorial/desligar-gerente-indeva--5LxrfSgD7f4IgRGWlrcnRV) to access it.
+> ℹ️ This content is only available in Portuguese. [Click here](/pt/tutorial/desligar-gerente-indeva--5LxrfSgD7f4IgRGWlrcnRV) to access it.

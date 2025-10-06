@@ -15,4 +15,4 @@ locale: en
 subcategoryId: 78bsG4YLzz1TR7eUzFSf4F
 ---
 
-> ℹ️ This content is only available in Portuguese. [Click here](/en/tutorial/resolver-erro-request-was-denied-for-security-indeva--sFfVIk5VfXpj5xhCDOf0L) to access it.
+> ℹ️ This content is only available in Portuguese. [Click here](/pt/tutorial/resolver-erro-request-was-denied-for-security-indeva--sFfVIk5VfXpj5xhCDOf0L) to access it.
