@@ -22,12 +22,12 @@ Through this provider, your store can make sales using different payment methods
 To configure FintocMX, follow the steps below:
 
 1. In the VTEX Admin, go to **Store Settings > Payment > Providers**, or type **Providers** in the search bar at the top of the page.
-2. On the providers screen, click the `New Provider button.
+2. On the providers screen, click the `New Provider` button.
 3. Type the name **FintocMX** in the search bar and click on the name of the provider.
 4. In **Provider Authorization**, fill in the **App key** and **App token** fields with data provided by your account FintocMX.
 5. If you wish to modify the identification name to be displayed for the FintocMX provider on the VTEX Admin screen, enter the information in the **Name** field in **Basic Information**.
 6. In **Payment Control**, select whether you want to activate the provider in a test environment by clicking **Enable test mode**.
-7. In **Provider Fields**, select or complete the fields **Secret Key** according to the provider`s instructions.
+7. In **Provider Fields**, select or complete the fields **Secret Key** according to the provider's  instructions.
 8. Click `Save`.
 
 ## Setting up the payment condition

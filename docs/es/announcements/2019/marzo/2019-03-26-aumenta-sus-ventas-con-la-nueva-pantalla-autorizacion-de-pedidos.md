@@ -33,4 +33,4 @@ Es importante mencionar que la tienda no perderá las reglas anteriores, que se 
 - Cree reglas para la aprobación o negación de pedidos con precios modificados manualmente, de acuerdo con el escenario de negocio de la tienda.
 - Tenga más independencia en las negociaciones y añada responsables de autorizar pedidos que tuvieron sus precios modificados manualmente.
 
-Mire el [tutorial](/es/tutorial/saiba-como-criar-fluxos-para-a-liberacao-ou-aprovacao-de-pedidos-dos-canais?locale=es "tutorial") y vea cómo utilizar la nueva función. 
+Mire el [tutorial](/es/tutorial/saiba-como-criar-fluxos-para-a-liberacao-ou-aprovacao-de-pedidos-dos-canais?locale=es) y vea cómo utilizar la nueva función. 

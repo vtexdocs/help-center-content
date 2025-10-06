@@ -32,4 +32,4 @@ To configure the payment methods to be processed by Cielo Orchestrator, access [
 
 To set special conditions on payment methods, go to [Configuring payment special conditions](/en/tutorial/special-conditions--tutorials_456).
 
-After following the indicated steps, Cielo Orchestrator may take up to 10 minutes to appear at your store`s checkout as a payment option.
+After following the indicated steps, Cielo Orchestrator may take up to 10 minutes to appear at your store's  checkout as a payment option.

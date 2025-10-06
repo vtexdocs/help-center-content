@@ -19,7 +19,7 @@ El stock lo asumirá el Marketplace siempre que sea aquél definido por el Selle
 
 Ese stock puede ser el mismo practicado en la tienda principal o un stock específico para el Marketplace o para más de un Marketplace, configurando reglas y precios diferenciados. 
 
-Todas esas configuraciones son posibles a través de la [política comercial](/es/tutorial/politica-comercial-para-marketplace "política comercial").
+Todas esas configuraciones son posibles a través de la [política comercial](/es/tutorial/politica-comercial-para-marketplace).
 
 ## Usando el mismo stock de otra tienda
 

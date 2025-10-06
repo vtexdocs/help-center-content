@@ -20,7 +20,7 @@ GiftCard, tarjeta de regalo o vale de compra es uno de los recursos del Módulo 
 - Medio de pago para compras.
 - Programa de fidelidad que el administrador de la tienda puede conectar con el sistema VTEX.
 
-Para conocer más detalles sobre la segunda opción de uso, consulte nuestra documentación técnica sobre [cómo integrar con GiftCard](/es/tutorial/integrando-com-gift-card?locale=pt "cómo integrar con GiftCard").  
+Para conocer más detalles sobre la segunda opción de uso, consulte nuestra documentación técnica sobre [cómo integrar con GiftCard](/es/tutorial/integrando-com-gift-card?locale=pt).  
 
 ## Cómo crear el vale de compra por el Admin
 
@@ -109,7 +109,7 @@ Siga los pasos a continuación para configurar el vale de compra:
 7. Si desea utilizar un sistema antifraude, seleccione la opción __Utilizar antifraude__.
 8. Haga clic en `Salvar`.
 
-También puede agregar condiciones especiales de pago a su Vale de Compra. No hay límites en las condiciones que pueden aplicarse a un método de pago, especificamos cómo configurar cada una de estas [aquí](/es/tutorial/condicoes-especiais--tutorials_456?locale=es "aquí"). 
+También puede agregar condiciones especiales de pago a su Vale de Compra. No hay límites en las condiciones que pueden aplicarse a un método de pago, especificamos cómo configurar cada una de estas [aquí](/es/tutorial/condicoes-especiais--tutorials_456?locale=es). 
 
 Para finalizar, haga clic en el botón azul __“Salva”__ para guardar las configuraciones.
 

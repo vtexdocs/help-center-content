@@ -15,4 +15,4 @@ locale: es
 subcategoryId: 78bsG4YLzz1TR7eUzFSf4F
 ---
 
-> ℹ️ Este contenido está disponible solo en [portugués](/es/tutorial/gerenciar-motivos-perda-indeva--5YBkReykiGUgPBMslzTOtg). Haga clic aquí para acceder.
+> ℹ️ Este contenido está disponible solo en [portugués](/pt/tutorial/gerenciar-motivos-perda-indeva--5YBkReykiGUgPBMslzTOtg). Haga clic aquí para acceder.

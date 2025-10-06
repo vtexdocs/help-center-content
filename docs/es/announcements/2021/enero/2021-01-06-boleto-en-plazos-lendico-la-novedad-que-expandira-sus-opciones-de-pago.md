@@ -17,13 +17,13 @@ announcementSynopsisES: 'Descubra Boleto en Plazos Lendico - una nueva forma de 
 
 Hoy día, el cliente busca accesibilidad en los medios de pago. Por ello, es esencial ofrecer esta demanda al mercado en su negocio. Así, puedes asegurar las vendas de su e-commerce. 
 
-Por lo tanto, VTEX ha hecho una colaboración com Lendico - que he lanzado la función [Boleto en plazos](https://lendico.com.br/boleto-parcelado-varejista/ "Boleto en plazos") - para democratizar el poder adquisitivo de compra y aportar las ventas de tu negocio.
+Por lo tanto, VTEX ha hecho una colaboración com Lendico - que he lanzado la función [Boleto en plazos](https://lendico.com.br/boleto-parcelado-varejista/) - para democratizar el poder adquisitivo de compra y aportar las ventas de tu negocio.
 
 > ℹ️ Esta opción de pago solo está disponible en Brasil.
 
 ## ¿Quién es Lendico? 
 
-[Lendico](https://lendico.com.br/ "Lendico") es una fintech, creada en 2015 a fin de revolucionar el mercado de préstamos y crédito directo para el consumidor.
+[Lendico](https://lendico.com.br/) es una fintech, creada en 2015 a fin de revolucionar el mercado de préstamos y crédito directo para el consumidor.
 
 Además de ofrecer crédito para los clientes, Lendico también tiene la proposta de una experiencia financiera completa, honesta y transparente.  
 
@@ -31,7 +31,7 @@ Con esto, sus clientes podrán aprovechar el máximo de esta solución y, sobre 
 
 ## Las ventajas de el boleto en plazos
 
-El [Boleto en Plazos Lendico](https://lendico.com.br/boleto-parcelado-varejista/ "Boleto en Plazos Lendico") es un medio de pago brasileño que permite al cliente ir de compras y pagar los tramos directamente en el boleto, así como haria con una tarjeta de crédito. 
+El [Boleto en Plazos Lendico](https://lendico.com.br/boleto-parcelado-varejista/) es un medio de pago brasileño que permite al cliente ir de compras y pagar los tramos directamente en el boleto, así como haria con una tarjeta de crédito. 
 
 La gran ventaja de este medio es el alcance a un público que no tiene tarjeta de crédito o no tiene cuenta en un banco. Pero que, aun así, tiene un elevado poder adquisitivo. Además, Lendico es libre de tajas y no carga tarifas de venta. O sea, usted recibirá el valor total dentro de 15 días.   
 

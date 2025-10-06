@@ -125,7 +125,7 @@ When you select this option, you'll be redirected to the warehouse configuration
 
 With this option, the seller can undo the association between a VTEX warehouse and a Mercado Libre warehouse by following the steps below.  
 1. Select the desired warehouse.  
-2. In the actions menu <i class="ph ph-dots-three-vertical"></i>, click `Unassign warehouse.  
+2. In the actions menu <i class="ph ph-dots-three-vertical"></i>, click `Unassign warehouse`.  
 3. Click `Confirm`.  
 
 > ⚠️ Unassigning a warehouse will reset the inventory on Mercado Libre, but it won't affect the VTEX warehouse.  

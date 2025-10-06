@@ -32,7 +32,7 @@ Como registrar el Sitemap en Search Console
 
 Para registrar el Sitemap usted deberá de ejecutar las siguientes acciones:
 
-**1. Ingrese al panel de Search Console de su tienda: [www.google.com/webmasters/tools/dashboard](http://www.google.com/webmasters/tools/dashboard "www.google.com/webmasters/tools/dashboard")**
+**1. Ingrese al panel de Search Console de su tienda: [www.google.com/webmasters/tools/dashboard](http://www.google.com/webmasters/tools/dashboard)**
 
 **2. Seleccione la opción de &#8220;Sitemaps&#8221; en el apartado llamado &#8220;Rastreo&#8221;**
 

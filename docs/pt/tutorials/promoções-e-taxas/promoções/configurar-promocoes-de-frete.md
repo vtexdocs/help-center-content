@@ -17,7 +17,7 @@ subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 
 Na VTEX, você pode criar várias modalidades de [descontos](/pt/tutorial/como-criar-promocoes--tutorials_320#) para a sua loja. Com promoções de frete, o comprador recebe algum desconto no valor cobrado pela entrega do seu pedido.
 
-O passo a passo para criar uma promoção de frete é o mesmo das [demais promoções regulares](/pt/tutorial/promocao-regular/ "demais promoções"). Contudo, existem algumas especificidades que devem ser levadas em consideração no momento de configurar esses descontos.
+O passo a passo para criar uma promoção de frete é o mesmo das [demais promoções regulares](/pt/tutorial/promocao-regular/). Contudo, existem algumas especificidades que devem ser levadas em consideração no momento de configurar esses descontos.
 
 Antes de configurar qualquer promoção de frete, é preciso entender quais são as formas de oferecer o desconto para os compradores. Na VTEX, existem quatro possibilidades de promoção de frete, que podem ser selecionadas no campo **Qual o tipo e valor do desconto?** durante a [criação da Promoção Regular](/pt/tutorial/regular-promotion#quais-sao-os-dados-gerais-desta-promocao). Veja abaixo quais são essas opções.
 

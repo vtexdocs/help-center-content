@@ -3,8 +3,8 @@ title: 'Creating a financial role'
 id: 717qPtxW3Cy9n5KrReHeVv
 status: PUBLISHED
 createdAt: 2020-05-21T18:32:54.471Z
-updatedAt: 2025-06-09T16:18:00.156Z
-publishedAt: 2025-06-09T16:18:00.156Z
+updatedAt: 2025-10-06T10:17:43.804Z
+publishedAt: 2025-10-06T10:17:43.804Z
 firstPublishedAt: 2020-05-21T20:22:19.449Z
 contentType: tutorial
 productTeam: Billing

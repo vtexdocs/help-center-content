@@ -30,4 +30,4 @@ This change makes it easier for __stores selling in countries like Argentina, wh
 But we must remember: The new feature __doesn't impact stores using compound interests (Brazilian stores, mainly)__. Because compound interests remain the default, the extra step in the installments setup is only necessary if you want to use simple interests.
 
 ## How to choose between simple or compound interests
-You can define the type of interest by going to a payment condition's setup page and following the [detailed instructions about the feature](/en/tutorial/como-escolher-o-tipo-de-juros-de-uma-condicao-de-pagamento--2erloDXDuI6yawWqqcmgIo?locale=en "detailed instructions about the feature.").
+You can define the type of interest by going to a payment condition's setup page and following the [detailed instructions about the feature](/en/tutorial/como-escolher-o-tipo-de-juros-de-uma-condicao-de-pagamento--2erloDXDuI6yawWqqcmgIo?locale=en).

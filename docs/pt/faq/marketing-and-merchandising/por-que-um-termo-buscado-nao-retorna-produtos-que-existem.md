@@ -34,4 +34,4 @@ Se você precisa utilizar, em seus produtos, palavras que para o buscador talvez
 - Utilizar coleção, redirecionando o termo buscado para uma landing-page.
 - Redirecionar o termo buscado para um contexto de busca que faça sentido (Categoria, marca ou mesmo  produto).
 
-O artigo a seguir ensina como realizar configuração de redirecionamento: [Mapeamento de URLs (Redirecionamento 301)](/pt/faq/mapeamento-de-urls-redirecionamento-301/ "Mapeamento de URLs (Redirecionamento 301)")
+O artigo a seguir ensina como realizar configuração de redirecionamento: [Mapeamento de URLs (Redirecionamento 301)](/pt/faq/mapeamento-de-urls-redirecionamento-301/)

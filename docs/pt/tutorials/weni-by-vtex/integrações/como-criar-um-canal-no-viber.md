@@ -1,5 +1,5 @@
 ---
-title: 'Como criar um canal no Viber'
+title: "Como criar um canal no Viber"
 id: 4FnOuBsgb3OlRTxGFxeRWf
 status: PUBLISHED
 createdAt: 2025-09-15T14:06:26.972Z
@@ -19,7 +19,7 @@ subcategoryId: 7e9LaCixVcvflzgWkxlftd
 
 Para criar o canal, clique em **""Aplicações > Descobertas""** dentro do seu projeto:
 
-![](https://files.helpdocs.io/fjqoxc429v/articles/deao4urhfi/1728477549682/image.png
+![](https://files.helpdocs.io/fjqoxc429v/articles/deao4urhfi/1728477549682/image.png)
 
 Logo após, clique no botão de adicionar e uma janela de confirmação será aberta.
 
@@ -47,13 +47,13 @@ Tendo uma conta válida, acesse o painel de administração neste link: <https:/
 
 Você receberá um token de verificação no celular, confirme\-o também.
 
- ! [VerifyToken](https://files.helpdocs.io/fjqoxc429v/articles/deao4urhfi/1669149856980/viber-verify-code.png)
+! [VerifyToken](https://files.helpdocs.io/fjqoxc429v/articles/deao4urhfi/1669149856980/viber-verify-code.png)
 
- No painel esquerdo, selecione ***""Create bot account"".***
+No painel esquerdo, selecione **_""Create bot account""._**
 
- ! [CreateBot](https://files.helpdocs.io/fjqoxc429v/articles/deao4urhfi/1669149808598/viber-create-bot.png) Preencha todos os requisitos apresentados e clique em *Criar* no final da página.
+! [CreateBot](https://files.helpdocs.io/fjqoxc429v/articles/deao4urhfi/1669149808598/viber-create-bot.png) Preencha todos os requisitos apresentados e clique em _Criar_ no final da página.
 
- ! [FillBotForm](https://files.helpdocs.io/fjqoxc429v/articles/deao4urhfi/1669149820650/viber-generating-toke.png) 
+! [FillBotForm](https://files.helpdocs.io/fjqoxc429v/articles/deao4urhfi/1669149820650/viber-generating-toke.png)
 
 Levará alguns segundos para processar e uma nova janela será exibida com o token necessário. copie e guarde este token para o próximo passo de integração do canal com a plataforma Weni.
 

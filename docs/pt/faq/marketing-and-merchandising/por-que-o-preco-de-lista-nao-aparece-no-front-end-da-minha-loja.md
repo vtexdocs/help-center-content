@@ -14,7 +14,7 @@ locale: pt
 legacySlug: por-que-o-preco-de-lista-nao-aparece-no-front-end-da-minha-loja
 ---
 
-Eventualmente, o Preço de Lista pode não ser exibido no front-end da loja. Isso acontece por conta de erros na configuração do módulo [Preços](/pt/tutorial/lista-de-precos-v2--tutorials_4394 "Preços"). 
+Eventualmente, o Preço de Lista pode não ser exibido no front-end da loja. Isso acontece por conta de erros na configuração do módulo [Preços](/pt/tutorial/lista-de-precos-v2--tutorials_4394). 
 
 O Preço de Lista é apenas uma das configurações possíveis ao estabelecer um preço de um SKU. Em geral, as primeiras regras definidas são o Preço Base, o Preço de Custo e o Markup.
 

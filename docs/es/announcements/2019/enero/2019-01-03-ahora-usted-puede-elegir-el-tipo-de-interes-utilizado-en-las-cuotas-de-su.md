@@ -30,4 +30,4 @@ Este cambio facilita la operación de __tiendas que actúan en países como Arge
 Recordamos que la nueva funcionalidad __no da impactos a las tiendas que utilizan interés compuesto (principalmente las brasileñas)__. Como el estándar sigue siendo el mismo, el paso más de configuración sólo necesita ser realizado por quien desea utilizar interés simple.
 
 ## Cómo elegir el tipo de interés
-Para elegir entre interés simple o compuesto, basta con acceder a la configuración de una condición de pago y seguir el [paso a paso detallado sobre la funcionalidad.](/es/tutorial/como-escolher-o-tipo-de-juros-de-uma-condicao-de-pagamento--2erloDXDuI6yawWqqcmgIo?locale=es "paso a paso detallado sobre la funcionalidad.")
+Para elegir entre interés simple o compuesto, basta con acceder a la configuración de una condición de pago y seguir el [paso a paso detallado sobre la funcionalidad.](/es/tutorial/como-escolher-o-tipo-de-juros-de-uma-condicao-de-pagamento--2erloDXDuI6yawWqqcmgIo?locale=es)

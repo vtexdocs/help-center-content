@@ -21,7 +21,7 @@ La página de SKUs recibidos permite que el marketplace visualice, priorice y ca
 - Asociarlos a SKUs ya existentes.
 - Asociarlos a productos ya existentes.
 
-La catalogación se puede hacer [a través de uno o más matchers](/es/tutorial/entendendo-a-pontuacao-do-vtex-matcher?locale=es "por medio de uno o más matchers"), tanto manual como automáticamente. Además, también existe la posibilidad de utilizar herramientas externas para realizar esta operación.
+La catalogación se puede hacer [a través de uno o más matchers](/es/tutorial/entendendo-a-pontuacao-do-vtex-matcher?locale=es), tanto manual como automáticamente. Además, también existe la posibilidad de utilizar herramientas externas para realizar esta operación.
 
 # Priorizando la catalogación #
 

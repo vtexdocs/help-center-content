@@ -1,5 +1,5 @@
 ---
-title: 'Restablecer la configuración de la aplicación de autenticación de dos factores'
+title: "Restablecer la configuración de la aplicación de autenticación de dos factores"
 id: 4ftaOCZono1MiQia2hxbTy
 status: PUBLISHED
 createdAt: 2023-02-08T13:55:25.623Z
@@ -36,8 +36,8 @@ Una vez que hayas recuperado el acceso a tu cuenta como se ha descrito anteriorm
 2. Haz clic en **Configuración del usuario**.
 3. En la sección **Autenticación**, haz clic en **Verificación en 2 pasos**.
 4. Seleccione **App Google Authenticator**.
-5. Haz clic en `Configurar` o en `Modificar' si ya tienes configurada una aplicación de autenticación.
-6. Si no dispone de la aplicación __Google Authenticator__ ([App Store](https://itunes.apple.com/mx/app/google-authenticator/id388497605?mt=8) / [Google Play](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2)), instálela en su dispositivo móvil.
+5. Haz clic en `Configurar` o en `Modificar` si ya tienes configurada una aplicación de autenticación.
+6. Si no dispone de la aplicación **Google Authenticator** ([App Store](https://itunes.apple.com/mx/app/google-authenticator/id388497605?mt=8) / [Google Play](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2)), instálela en su dispositivo móvil.
 7. Escanea el código QR utilizando la aplicación Google Authenticator.
 8. Haz clic en `Siguiente`.
 9. Ingresa el código que aparece en el campo indicado en la página.

@@ -17,7 +17,7 @@ announcementSynopsisES: 'Ahora el cliente puede hacer que el código del vendedo
 
 inStore, la solución para tiendas físicas de VTEX, permite que los administradores de tiendas personalicen las mismas según las necesidades de su negocio. Estas modificaciones se realizan a través de campos que se pueden incorporar al flujo de compra. 
 
-Uno de estos es el [código del vendedor](/es/tracks/instore-personalizaciones--1z9kBm12oBPyVNDo1ivVc2/5kNtS80hbBGg58jMeF8CRv "código del vendedor"), personalización en la que el vendedor asigna su propio código a las ventas que ha realizado.
+Uno de estos es el [código del vendedor](/es/tracks/instore-personalizaciones--1z9kBm12oBPyVNDo1ivVc2/5kNtS80hbBGg58jMeF8CRv), personalización en la que el vendedor asigna su propio código a las ventas que ha realizado.
 
 Ahora el código del vendedor puede volverse obligatorio. Es decir, se puede configurar que una venta no se realice hasta que el campo «Vendor» se complete con el código de un vendedor, si el administrador de la tienda lo desea.
 
@@ -31,4 +31,4 @@ Por lo tanto, tener la relación exacta de qué ventas se han asignado a cada ve
 
 En VTEX, el administrador de la tienda puede habilitar las personalizaciones de inStore vía Admin, incorporando códigos JavaScript a un template que está guardada en la plataforma. 
 
-Para saber, en detalle, cómo añadir esta y otras personalizaciones del código del vendedor en su tienda, lea nuestra [guía de personalizaciones en inStore](/es/tracks/instore-customizacoes--1z9kBm12oBPyVNDo1ivVc2/4mwdBrFsmE2EPE0FzgX28b "guía de personalizaciones en inStore").
+Para saber, en detalle, cómo añadir esta y otras personalizaciones del código del vendedor en su tienda, lea nuestra [guía de personalizaciones en inStore](/es/tracks/instore-customizacoes--1z9kBm12oBPyVNDo1ivVc2/4mwdBrFsmE2EPE0FzgX28b).

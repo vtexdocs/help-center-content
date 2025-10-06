@@ -21,7 +21,7 @@ Este es un concepto básico de las estrategias omnichannel, y es esencial para u
 
 ## Prerrequisitos
 
-En primer lugar, consideremos los requisitos previos que su tienda necesita para asegurarse de comenzar a implementar una estrategia de Pasillo Infinito. Consulte nuestro artículo sobre [Requisitos previos para utilizar VTEX Sales App](/es/tracks/instore-primeros-pasos-y-configuracion--zav76TFEZlAjnyBVL5tRc/1wtAanSRA3g2316dw7bw8u "Requisitos previos para utilizar VTEX Sales App").
+En primer lugar, consideremos los requisitos previos que su tienda necesita para asegurarse de comenzar a implementar una estrategia de Pasillo Infinito. Consulte nuestro artículo sobre [Requisitos previos para utilizar VTEX Sales App](/es/tracks/instore-primeros-pasos-y-configuracion--zav76TFEZlAjnyBVL5tRc/1wtAanSRA3g2316dw7bw8u).
 
 ## Agregar tiendas físicas al VTEX Sales App
 

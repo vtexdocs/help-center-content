@@ -25,7 +25,7 @@ VTEX gateway can communicate with acquirers, sub-acquirers, anti-frauds and othe
 
 ## Check the transaction status
 
-To check the __current status__ of a transaction, search the timeline for the *box at the top of the screen with a green circle on the left side*. [In this article](/en/tutorial/fluxo-da-transacao-no-pagamentos--Er2oWmqPIWWyeIy4IoEoQ?locale=en "In this article"), there's an explanation of each status of a successful transaction. If the transaction has a problem, its final status will be __Cancelled__.
+To check the __current status__ of a transaction, search the timeline for the *box at the top of the screen with a green circle on the left side*. [In this article](/en/tutorial/fluxo-da-transacao-no-pagamentos--Er2oWmqPIWWyeIy4IoEoQ?locale=en), there's an explanation of each status of a successful transaction. If the transaction has a problem, its final status will be __Cancelled__.
 
 ## Check the partner's reply messages
 

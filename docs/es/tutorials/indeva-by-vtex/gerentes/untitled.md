@@ -15,4 +15,4 @@ locale: es
 subcategoryId: 4LwIt8RFNUOMKhMZ2C6hAK
 ---
 
-> ℹ️ Este contenido está disponible solo en [portugués](/es/tutorial/cadastrar-gerente-plataforma-indeva--6r2bjS0LFdUX0kyt0NyWhf ). Haga clic aquí para acceder.
+> ℹ️ Este contenido está disponible solo en [portugués](/pt/tutorial/cadastrar-gerente-plataforma-indeva--6r2bjS0LFdUX0kyt0NyWhf). Haga clic aquí para acceder.

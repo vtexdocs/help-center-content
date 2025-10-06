@@ -15,4 +15,4 @@ locale: en
 subcategoryId: 78bsG4YLzz1TR7eUzFSf4F
 ---
 
-> ℹ️ This content is only available in Portuguese. [Click here](/en/tutorial/operacao-offline-aplicativo-lista-da-vez--5ZxyFrr2duH9vddfJhE7PY) to access it.
+> ℹ️ This content is only available in Portuguese. [Click here](/pt/tutorial/operacao-offline-aplicativo-lista-da-vez--5ZxyFrr2duH9vddfJhE7PY) to access it.

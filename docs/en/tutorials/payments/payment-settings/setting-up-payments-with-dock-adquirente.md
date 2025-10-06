@@ -20,7 +20,7 @@ At VTEX, it is possible to integrate with the Dock Adquirente payment provider. 
 To configure Dock Adquirente, follow the steps below:
 
 1. In the VTEX Admin, go to **Store Settings > Payment > Providers**, or type **Providers** in the search bar at the top of the page.
-2. On the providers screen, click the `New Provider button.
+2. On the providers screen, click the `New Provider` button.
 3. Type the name **DockAdquirente** in the search bar and click on the name of the provider.
 4. In **Provider Authorization**, fill in the **App key** and **App token** fields with data provided by your account Dock Adquirente.
 5. If you wish to modify the identification name to be displayed for the Dock Adquirente provider on the VTEX Admin screen, enter the information in the **Name** field in **Basic Information**.

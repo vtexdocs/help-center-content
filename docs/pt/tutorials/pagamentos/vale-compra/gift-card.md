@@ -20,7 +20,7 @@ O GiftCard ou vale-presente é um dos recursos do módulo de Pagamentos que pode
 - Meio de pagamento para compras; 
 - Programa de fidelidade que o lojista pode conectar com o sistema VTEX. 
 
-Para saber mais detalhes sobre a segunda opção de uso, verifique nossa documentação técnica sobre [como integrar com o GiftCard](/pt/tutorial/integrando-com-gift-card?locale=pt "como integrar com o GiftCard").   
+Para saber mais detalhes sobre a segunda opção de uso, verifique nossa documentação técnica sobre [como integrar com o GiftCard](/pt/tutorial/integrando-com-gift-card?locale=pt).   
 
 ## Como criar o Vale-presente pelo Admin
 
@@ -108,7 +108,7 @@ Siga os passos abaixo para configurar o vale-presente:
 7. Se desejar utilizar um sistema antifraude, selecione a opção __Usar solução antifraude__.
 8. Clique em `Salvar`.
 
-Além disso, você ainda pode definir condições especiais de pagamento para o vale-presente. Não há limite de condições de podem ser aplicadas a um meio de pagamento e especificamos como configurar cada uma delas [aqui](/pt/tutorial/condicoes-especiais--tutorials_456?locale=pt "aqui."). 
+Além disso, você ainda pode definir condições especiais de pagamento para o vale-presente. Não há limite de condições de podem ser aplicadas a um meio de pagamento e especificamos como configurar cada uma delas [aqui](/pt/tutorial/condicoes-especiais--tutorials_456?locale=pt). 
 
 Por fim, clique no botão azul Salvar.
 

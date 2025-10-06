@@ -15,4 +15,4 @@ locale: en
 subcategoryId: 1acPW0OHXq4PjbQUFVrNrY
 ---
 
-> ℹ️ This content is only available in Portuguese. [Click here](/en/tutorial/cadastrar-vendedor-plataforma-indeva--6aHQ7kz8MBAuM143sMnFqK) to access it.
+> ℹ️ This content is only available in Portuguese. [Click here](/pt/tutorial/cadastrar-vendedor-plataforma-indeva--6aHQ7kz8MBAuM143sMnFqK) to access it.

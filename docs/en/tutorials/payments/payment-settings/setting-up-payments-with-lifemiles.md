@@ -20,12 +20,12 @@ At VTEX, it is possible to integrate with the Lifemiles payment provider. With t
 To configure Lifemiles, follow the steps below:
 
 1. In the VTEX Admin, go to **Store Settings > Payment > Providers**, or type **Providers** in the search bar at the top of the page.
-2. On the providers screen, click the `New Provider button.
+2. On the providers screen, click the `New Provider` button.
 3. Type the name **Lifemiles** in the search bar and click on the name of the provider.
 4. In **Provider Authorization**, fill in the **App key** and **App token** fields with data provided by your account Lifemiles.
 5. If you wish to modify the identification name to be displayed for the Lifemiles provider on the VTEX Admin screen, enter the information in the **Name** field in **Basic Information**.
 6. In **Payment Control**, select whether you want to activate the provider in a test environment by clicking **Enable test mode**.
-7. In **Provider Fields**, select or complete the fields **Partner Code**, **Payment currency 1**, **Website currency identifier 1**, **Payment currency 2**, **Website currency identifier 2**, **Payment currency 3**, **Website currency identifier 3**, and **Webhook Status** according to the provider`s instructions
+7. In **Provider Fields**, select or complete the fields **Partner Code**, **Payment currency 1**, **Website currency identifier 1**, **Payment currency 2**, **Website currency identifier 2**, **Payment currency 3**, **Website currency identifier 3**, and **Webhook Status** according to the provider's  instructions
 8. Click `Save`.
 
 ## Setting up payment condition Notes Payable
@@ -42,5 +42,5 @@ Then, follow the steps below:
 6. If you wish, you can also configure [payment special conditionso](/en/tutorial/special-conditions--tutorials_456).
 7. Click `Save`.
 
-After following the indicated steps, Lifemiles may take up to 10 minutes to appear at your store`s checkout as a payment option.
+After following the indicated steps, Lifemiles may take up to 10 minutes to appear at your store's  checkout as a payment option.
 

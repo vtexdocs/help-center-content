@@ -1,10 +1,10 @@
 ---
-title: 'Resolve date conflict in goals'
+title: 'Resolve date conflict in goal registration'
 id: 4jCg9SkEaOgQySV9Rv2NIZ
 status: PUBLISHED
 createdAt: 2025-09-17T14:02:13.564Z
-updatedAt: 2025-09-17T14:12:35.297Z
-publishedAt: 2025-09-17T14:12:35.297Z
+updatedAt: 2025-10-06T10:36:22.621Z
+publishedAt: 2025-10-06T10:36:22.621Z
 firstPublishedAt: 2025-09-17T14:10:53.179Z
 contentType: tutorial
 productTeam: Others

@@ -41,7 +41,7 @@ Anonymous users are unauthenticated users who have no access to a particular sto
 
 Anonymous users are also internally called “unauthenticated” users because seeing the product catalog requires authentication.
 
-To restrict catalog viewing to authenticated users only, you will need to [configure permissions to acess the store](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-configuring-a-b2b-environment "configure permissions to acess the store").
+To restrict catalog viewing to authenticated users only, you will need to [configure permissions to acess the store](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-configuring-a-b2b-environment).
 
 ## Public with restrictions
 
@@ -72,28 +72,28 @@ In the B2B scenario, it is common to use basic information such as name, email, 
 
 > ❗ The field used as a conditional rule in the trade policy **cannot be in this form** because user approval is the store's responsibility.
 
-On VTEX, you can create forms through [Master Data](/en/tutorial/o-que-e-o-master-data--4otjBnR27u4WUIciQsmkAw "Master Data") — the store's database —, which stores information of the store's customer database and organizes the data received through forms.
+On VTEX, you can create forms through [Master Data](/en/tutorial/o-que-e-o-master-data--4otjBnR27u4WUIciQsmkAw) — the store's database —, which stores information of the store's customer database and organizes the data received through forms.
 
 To create a form, please follow the instructions below:
 
-1. Create a data entity with all the information you want on the form. If you have questions, check out the article on [how to create a data entity in Master Data](/en/tutorial/criando-entidade-de-dados--tutorials_1265?&utm_source=autocomplete "how to create a data entity in Master Data").
+1. Create a data entity with all the information you want on the form. If you have questions, check out the article on [how to create a data entity in Master Data](/en/tutorial/criando-entidade-de-dados--tutorials_1265?&utm_source=autocomplete).
 
-2. Create the form using the tutorial [Creating a form in Master Data](/en/tutorial/criando-formulario-no-master-data/ "Creating a form in Master Data").
+2. Create the form using the tutorial [Creating a form in Master Data](/en/tutorial/criando-formulario-no-master-data/).
 
 So when a customer fills out the form, their data will be included in the Master Data customer table.
 
 > ℹ️ You can choose to create a form with more features, such as ZIP code autofill, multiple tabs, or NAICS (North American Industry Classification System) code. If you choose this type of form, check out the [VTEX IO](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-creating-a-new-custom-page) technical documentation.
 
 ### Approving users
-You can approve or add users in the [Master Data](/en/tutorial/o-que-e-o-master-data--4otjBnR27u4WUIciQsmkAw "Master Data"). Ecommerce managers are the ones responsible for approving customer access to store content. 
+You can approve or add users in the [Master Data](/en/tutorial/o-que-e-o-master-data--4otjBnR27u4WUIciQsmkAw). Ecommerce managers are the ones responsible for approving customer access to store content. 
 
 To approve customer access to the store, it is necessary to approve each of the customers who filled out the form. Customer approvals can be done in the Admin or via API.
 
 ### Configuring the product catalog
 
-To determine which products each group of users will be able to view, you must configure your store’s trade policies. Each trade policy has its own catalog and pricing and logistics specifications. You can [create a new trade policy](/en/faq/como-contratar-nova-politica-comercial--frequentlyAskedQuestions_700 "create a new trade policy") specifically for this purpose or configure an existing one. 
+To determine which products each group of users will be able to view, you must configure your store’s trade policies. Each trade policy has its own catalog and pricing and logistics specifications. You can [create a new trade policy](/en/faq/como-contratar-nova-politica-comercial--frequentlyAskedQuestions_700) specifically for this purpose or configure an existing one. 
 
-When creating or configuring a trade policy for the B2B context, you’ll need to select the products that will be associated with it. On VTEX, you can associate SKUs individually through the Admin or in bulk using the [Catalog API](https://developers.vtex.com/vtex-developer-docs/reference/catalog-api-overview "Catalog API").
+When creating or configuring a trade policy for the B2B context, you’ll need to select the products that will be associated with it. On VTEX, you can associate SKUs individually through the Admin or in bulk using the [Catalog API](https://developers.vtex.com/vtex-developer-docs/reference/catalog-api-overview).
 
 > ℹ️ We recommend configuring SKUs using the [Catalog API](https://developers.vtex.com/vtex-developer-docs/reference/catalog-api-overview) — association or creation in bulk or individually — for companies that already have a mature ecommerce operation and manage and maintain their own product catalog in ecommerce. This infrastructure allows you to import the entire catalog with all current configurations via [ERP integration](https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide).
 
@@ -103,75 +103,75 @@ Like the catalog, logistics must be configured in the trade policy.
 
 You have to associate the trade policy configured for the B2B scenario with the shipping strategies related to ecommerce logistics, including loading docks, warehouses and shipping/carrier strategies.
 
-You can configure loading docks, warehouses and shipping strategies using the [Logistics API](https://developers.vtex.com/vtex-developer-docs/reference/logistics-api-overview "Logistics API") or in the [Admin](/en/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx "Admin").
+You can configure loading docks, warehouses and shipping strategies using the [Logistics API](https://developers.vtex.com/vtex-developer-docs/reference/logistics-api-overview) or in the [Admin](/en/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx).
 
 To configure it in the Admin, you must:
 
-1. __Associate the B2B trade policy with a loading dock:__ fill in the field 'Shipping policies and sales channels' on the page for adding/editing loading docks. If there are no docks listed in your store, you must [add a loading dock](/en/tutorial/como-cadastrar-doca--7K3FultD8I2cuuA6iyGEiW?&utm_source=autocomplete "add a loading dock"). In this field, you must enter the trade policy you have configured for the B2B scenario.
+1. __Associate the B2B trade policy with a loading dock:__ fill in the field 'Shipping policies and sales channels' on the page for adding/editing loading docks. If there are no docks listed in your store, you must [add a loading dock](/en/tutorial/como-cadastrar-doca--7K3FultD8I2cuuA6iyGEiW?&utm_source=autocomplete). In this field, you must enter the trade policy you have configured for the B2B scenario.
 
-2. __Associate a carrier with a loading dock__\: fill in the field 'Shipping policies and sales channels' on the page for adding/editing loading docks, in which you must select the trade policy configured for the B2B scenario. If there are no carriers listed in your store, you must [add a carrier](/en/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/55MezrFTw2limlgT7KUg6l "add a carrier").
+2. __Associate a carrier with a loading dock__\: fill in the field 'Shipping policies and sales channels' on the page for adding/editing loading docks, in which you must select the trade policy configured for the B2B scenario. If there are no carriers listed in your store, you must [add a carrier](/en/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/55MezrFTw2limlgT7KUg6l).
 
-3. __Define a warehouse and associate it with a loading dock__\: choose a loading dock on the page for adding/editing warehouses. If there are no warehouses listed in your store, you must [add a warehouse](/en/tutorial/gerenciar-estoque "add a warehouse"). 
+3. __Define a warehouse and associate it with a loading dock__\: choose a loading dock on the page for adding/editing warehouses. If there are no warehouses listed in your store, you must [add a warehouse](/en/tutorial/gerenciar-estoque). 
 
-In the configuration via [Logistics API](https://developers.vtex.com/vtex-developer-docs/reference/logistics-api-overview "Logistics API"), you must follow these exact instructions. However, you can use the [POST Create/Update Dock](https://developers.vtex.com/vtex-developer-docs/reference/docks#createupdatedock "POST Create/Update Dock")</code> endpoint to  associate a trade policy with a loading dock and a carrier with a loading dock by filling in the `salesChannels` and `freightTableIds` parameters, respectively.  
+In the configuration via [Logistics API](https://developers.vtex.com/vtex-developer-docs/reference/logistics-api-overview), you must follow these exact instructions. However, you can use the [POST Create/Update Dock](https://developers.vtex.com/vtex-developer-docs/reference/docks#createupdatedock)</code> endpoint to  associate a trade policy with a loading dock and a carrier with a loading dock by filling in the `salesChannels` and `freightTableIds` parameters, respectively.  
 
-To associate a warehouse with a loading dock, fill in the `warehouseDock` parameter of the `[POST Create/Update Warehouse](https://developers.vtex.com/vtex-developer-docs/reference/warehouses#createupdatewarehouse "POST Create/Update Warehouse")` endpoint.
+To associate a warehouse with a loading dock, fill in the `warehouseDock` parameter of the `[POST Create/Update Warehouse](https://developers.vtex.com/vtex-developer-docs/reference/warehouses#createupdatewarehouse)` endpoint.
 
 ### Configuring prices
 
-You can configure prices through [price tables](/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/1wAm5m3IUfIj6maBdaRJt8 "price tables"), a set of prices applied to certain SKUs in a given context. To configure prices, follow the steps below:
+You can configure prices through [price tables](/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/1wAm5m3IUfIj6maBdaRJt8), a set of prices applied to certain SKUs in a given context. To configure prices, follow the steps below:
 
-1. [Create a new price table](/en/tutorial/creating-price-tables--58YmY2Iwggyw4WeSCGg24S "Create a new price table").
+1. [Create a new price table](/en/tutorial/creating-price-tables--58YmY2Iwggyw4WeSCGg24S).
 2. Edit the pricing spreadsheet settings.
 3. Import the pricing spreadsheet you have configured.
 
-You can also create and edit price tables via the `[POST Create/Edit Fixed Prices on a price table (or trade policy)](https://developers.vtex.com/vtex-developer-docs/reference/prices-and-fixed-prices#createeditfixedpricesonapricetableortradepolicy "POST Create/Edit Fixed Prices on a price table (or trade policy)")` endpoint.
+You can also create and edit price tables via the `[POST Create/Edit Fixed Prices on a price table (or trade policy)](https://developers.vtex.com/vtex-developer-docs/reference/prices-and-fixed-prices#createeditfixedpricesonapricetableortradepolicy)` endpoint.
 
 ### Configuring payment methods
 
 In the B2B business model, a common practice is to grant credit to some of your trusted customers, usually resellers, so that they use that credit to buy items from the retailer.
 
-Credit management is a versatile resource and, as a result, you can use it in different B2B scenarios. Check out some business contexts in which you can employ this strategy in the article [Credit management through Customer Credit](/en/tutorial/gestao-de-credito-por-meio-do-customer-credit--5lihi3WBsV5mSIDqNvnoK0 "Credit management through Customer Credit").
+Credit management is a versatile resource and, as a result, you can use it in different B2B scenarios. Check out some business contexts in which you can employ this strategy in the article [Credit management through Customer Credit](/en/tutorial/gestao-de-credito-por-meio-do-customer-credit--5lihi3WBsV5mSIDqNvnoK0).
 
-On VTEX, retailers can use [Customer Credit](/en/tutorial/customer-credit-visao-geral--1uIqTjWxIIIEW0COMg4uE0 "Customer Credit"), an app in which they can offer and manage the credits granted to their customers. To install the app, check out the complete step-by-step guide in [Installing Customer Credit ](/en/tracks/customer-credit-como-comecar--1hCRg21lXYy2seOKgqQ2CC/36grlQ69NK6OCuioeekyCs "Installing Customer Credit").
+On VTEX, retailers can use [Customer Credit](/en/tutorial/customer-credit-visao-geral--1uIqTjWxIIIEW0COMg4uE0), an app in which they can offer and manage the credits granted to their customers. To install the app, check out the complete step-by-step guide in [Installing Customer Credit ](/en/tracks/customer-credit-como-comecar--1hCRg21lXYy2seOKgqQ2CC/36grlQ69NK6OCuioeekyCs).
 
 > ℹ️ Standard payment methods, such as credit card and debit card, can also be configured for the B2B context. Credit management is the method most frequently used by customers.
 
-After installing the app in your store, you must configure Customer Credit as an available payment method. This way, your customers will be able to make their purchases using the credit granted to them. To configure Customer Credit as a payment method in your store, check out [this tutorial](/en/tracks/customer-credit-como-comecar--1hCRg21lXYy2seOKgqQ2CC/21ok0GBwmcIeaY2IukYMOg#condicoes-de-pagamento "this tutorial"). 
+After installing the app in your store, you must configure Customer Credit as an available payment method. This way, your customers will be able to make their purchases using the credit granted to them. To configure Customer Credit as a payment method in your store, check out [this tutorial](/en/tracks/customer-credit-como-comecar--1hCRg21lXYy2seOKgqQ2CC/21ok0GBwmcIeaY2IukYMOg#condicoes-de-pagamento). 
 
 ## Additional content: tax differences
 
 In Brazil, one of the particularities of B2B businesses is that it is common to have different taxes applied to the total price of each item.  
 
-For more information, check out the article [Surcharges](/en/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/3DcO1XrLqlbZsq80zxSgZS "Surcharges").
+For more information, check out the article [Surcharges](/en/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/3DcO1XrLqlbZsq80zxSgZS).
 
 ### Simple tax system 
 
 For stores with a simple tax system — in which only one type of tax is applied to the SKU price — there are two recommended methods for configuring the pricing model:
 
-- Configuring [price tables](/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/1wAm5m3IUfIj6maBdaRJt8 "price tables"). For tax purposes, you must create price tables with full prices since promotional price tables are not applicable in this context.
+- Configuring [price tables](/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/1wAm5m3IUfIj6maBdaRJt8). For tax purposes, you must create price tables with full prices since promotional price tables are not applicable in this context.
 
-- Applying [taxes](/en/tutorial/como-criar-taxaimposto/ "taxes") to SKU prices to prevent them from being displayed in the store window.
+- Applying [taxes](/en/tutorial/como-criar-taxaimposto/) to SKU prices to prevent them from being displayed in the store window.
 
 ### Complex tax system
 
 For stores with complex tax systems, in which there are many variables for calculating taxes on products and extensive catalogs, the best way to calculate taxes is through integration with an external system.
 
-VTEX provides an [integration protocol for external tax services](https://developers.vtex.com/vtex-rest-api/docs/tax-service-integration-guide "integration protocol for external tax services") that connects to the system and sends the shopping cart information — such as the region of origin of the products and the buyer — to calculate the taxes for each SKU.  
+VTEX provides an [integration protocol for external tax services](https://developers.vtex.com/vtex-rest-api/docs/tax-service-integration-guide) that connects to the system and sends the shopping cart information — such as the region of origin of the products and the buyer — to calculate the taxes for each SKU.  
 
 For more details on the protocol, check out the documentation below:
 
-- [System overview](https://developers.vtex.com/vtex-rest-api/docs/tax-services-overview "System overview") 
-- [How the protocol works](https://developers.vtex.com/vtex-rest-api/docs/tax-services-specification "How the protocol works") 
-- [How to implement Tax Service](https://developers.vtex.com/vtex-rest-api/docs/tax-services-recipe "How to implement Tax Service") 
-- [Implementation example](https://github.com/vtex-apps/tax-protocol-example "Implementation example")
+- [System overview](https://developers.vtex.com/vtex-rest-api/docs/tax-services-overview) 
+- [How the protocol works](https://developers.vtex.com/vtex-rest-api/docs/tax-services-specification) 
+- [How to implement Tax Service](https://developers.vtex.com/vtex-rest-api/docs/tax-services-recipe) 
+- [Implementation example](https://github.com/vtex-apps/tax-protocol-example)
 
 ## Additional content: VTEX Intelligent Search
 
-[VTEX Intelligent Search](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb "VTEX Intelligent Search") is a search application that helps customers during their shopping journey by suggesting products that are related to their profile. 
+[VTEX Intelligent Search](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb) is a search application that helps customers during their shopping journey by suggesting products that are related to their profile. 
 
 In the B2B context, VTEX Intelligent Search is an essential feature that can be used to search for items by part number — the code referring to the product model. 
 
 Besides, it offers benefits such as adding keyword synonyms and changing keyword relevance.
 
-You can integrate this application with your ecommerce website via VTEX IO settings. Learn how to do that in our step-by-step [guide on how to configure VTEX Intelligent Search](https://vtex.io/docs/app/vtex.search@2.4.0/ "guide on how to configure VTEX Intelligent Search").
+You can integrate this application with your ecommerce website via VTEX IO settings. Learn how to do that in our step-by-step [guide on how to configure VTEX Intelligent Search](https://vtex.io/docs/app/vtex.search@2.4.0/).

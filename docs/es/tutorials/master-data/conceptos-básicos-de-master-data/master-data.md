@@ -61,7 +61,7 @@ Las entidades de datos son como tablas donde se registran documentos y campos.
 
 Se hace referencia a las entidades de datos en Master Data v1 con acrónimos compuestos de dos letras mayúsculas. En la v2 puedes usar el nombre de la entidad de datos. Por ejemplo, en la v1, la entidad `CL` almacena los datos de los clientes de la tienda, y la entidad `AD` guarda datos de los domicilios de los clientes. En la v2, las entidades equivalentes se llaman `Client` y `Address`.
 
-En una entidad de datos, la información se estructura en [documentos] (#documentos) y [campos](#campos).
+En una entidad de datos, la información se estructura en [documentos](#documentos) y [campos](#campos).
 
 ### Documentos
 
@@ -102,7 +102,7 @@ Un trigger del Master Data es un mecanismo que ejecuta una acción después de l
 - Enviar email.
 - Guardar documento en otra entidad de datos.
 
-Obtén más información sobre cómo [configurar triggers en el Master Data v1] (/es/tutorial/criando-trigger-no-master-data--tutorials_1270) o cómo [configurar triggers con la API de Master Data v2](https://developers.vtex.com/vtex-rest-api/docs/setting-up-triggers-in-master-data-v2)
+Obtén más información sobre cómo [configurar triggers en el Master Data v1](/es/tutorial/criando-trigger-no-master-data--tutorials_1270) o cómo [configurar triggers con la API de Master Data v2](https://developers.vtex.com/vtex-rest-api/docs/setting-up-triggers-in-master-data-v2)
 
 ## v2 esquemas
 

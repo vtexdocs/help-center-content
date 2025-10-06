@@ -17,7 +17,7 @@ subcategoryId: 4hU8QWlzhxWg711Kz7Gmib
 
 A página de SKUs recebidos permite que o marketplace visualize, priorize e catalogue os itens enviados pelos seus sellers. Dessa maneira, é possível criar novos produtos e também associá-los a SKUs ou a produtos já existentes para disponibilizá-los para venda.
 
-A catalogação pode ser feita [por meio de um ou mais matchers](/pt/tutorial/entendendo-a-pontuacao-do-vtex-matcher?locale=pt "por meio de um ou mais matchers"), tanto de forma manual quanto automática. Além disso, também existe a possibilidade de usar ferramentas externas para realizar essa operação. 
+A catalogação pode ser feita [por meio de um ou mais matchers](/pt/tutorial/entendendo-a-pontuacao-do-vtex-matcher), tanto de forma manual quanto automática. Além disso, também existe a possibilidade de usar ferramentas externas para realizar essa operação. 
 
 ## Priorizando a catalogação
 

@@ -41,7 +41,7 @@ Es posible que se produzca el siguiente error: al acceder al Admin VTEX > **Stor
 Para solucionarlo, consulta las instrucciones a continuación:
 
 1. [Comprueba la integración de búsqueda](#comprobar-la-integracion-de-busqueda).
-2. [Comprueba la configuración del inquilino] (#comprobar-la-configuración-del-inquilino-solo-cuentas-nuevas)
+2. [Comprueba la configuración del inquilino](#comprobar-la-configuración-del-inquilino-solo-cuentas-nuevas)
 
 ### Comprueba la integración de la búsqueda
 

@@ -34,13 +34,13 @@ If you want all carriers to be displayed, you should register these in the **Sto
 
 ## Carrier does not serve address
 
-When registering a new carrier, the client should insert the ZIP code range or geolocation polygon that this carrier can serve in the [shipping spreadsheet](/en/tutorial/--45I9m2rknucSmYigA2AE0G "shipping spreadsheet"). The spreadsheet fields related to location are `country`, `ZIPCodeStart`, `ZIPCodeEnd` and `PolygonName`.
+When registering a new carrier, the client should insert the ZIP code range or geolocation polygon that this carrier can serve in the [shipping spreadsheet](/en/tutorial/--45I9m2rknucSmYigA2AE0G). The spreadsheet fields related to location are `country`, `ZIPCodeStart`, `ZIPCodeEnd` and `PolygonName`.
 
 If the address given by the user does not fall into a zip code range which a carrier serves, that particular carrier will not be shown as a possible option.
 
 ### Solution
 
-You should check the [shipping spreadsheet](/en/tutorial/--45I9m2rknucSmYigA2AE0G "shipping spreadsheet") to see if the configured zip code range or geolocation polygon encompasses the desired delivery address.
+You should check the [shipping spreadsheet](/en/tutorial/--45I9m2rknucSmYigA2AE0G) to see if the configured zip code range or geolocation polygon encompasses the desired delivery address.
 
 ## Volume exceeds maximum allowed limit 
 

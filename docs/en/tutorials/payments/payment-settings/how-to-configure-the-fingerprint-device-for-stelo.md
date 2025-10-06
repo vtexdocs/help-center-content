@@ -25,7 +25,7 @@ This article will explain how to associate the Device Fingerprint feature with t
 
 > ℹ️ The configurations documented in this article are done in an environment outside VTEX. They may therefore be out of date.
 
-To enter the scripts that Stelo requires for the fingerprint device, you must use Google Tag Manager. To do this, log into your account at [http://www.google.com/tagmanager](http://www.google.com/tagmanager "http://www.google.com/tagmanager"). Then proceed as follows:
+To enter the scripts that Stelo requires for the fingerprint device, you must use Google Tag Manager. To do this, log into your account at [http://www.google.com/tagmanager](http://www.google.com/tagmanager). Then proceed as follows:
 
 1. In the opening menu in Google Tag Manager, click on **Nova tag**.
 2. Select **Configuração da tag** and then type **HTML personalizado**.![Tela1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payment-settings/how-to-configure-the-fingerprint-device-for-stelo_1.jpg)

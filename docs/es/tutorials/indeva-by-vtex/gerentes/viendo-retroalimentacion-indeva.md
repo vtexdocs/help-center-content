@@ -15,4 +15,4 @@ locale: es
 subcategoryId: 4LwIt8RFNUOMKhMZ2C6hAK
 ---
 
-> ℹ️ This content is only available in Portuguese. [Click here](/pt/tutorial/visualizando-feedback-indeva--0nTYJIu0e4UsceeV77QuZ) to access it.
+> ℹ️ This content is only available in Portuguese. [Click here](/pt/tutorial/visualizando-feedback-indeva--0nTYJIu0e4UsceeV77QuZ). Haga clic aquí para acceder.

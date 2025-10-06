@@ -1,5 +1,5 @@
 ---
-title: 'Habilitar Venta de inventario local en VTEX Sales App'
+title: "Habilitar Venta de inventario local en VTEX Sales App"
 id: 54eQN4rOH5yBYPGG2w8v9q
 status: PUBLISHED
 createdAt: 2023-05-19T17:30:02.393Z
@@ -29,7 +29,7 @@ Venta de inventario local permite al vendedor de una tienda física realizar ven
 
 ## Crear una cuenta franquicia
 
-El primer paso es [solicitar la creación de una cuenta de franquicia](/es/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/eujH0id9Y4WJjjmdazUKd) para tu tienda física. La cuenta franquicia  estará asociada a la cuenta principal de tu tienda y heredará su catálogo. Si ya tienes una cuenta franquicia, ve al paso siguiente.
+El primer paso es [solicitar la creación de una cuenta de franquicia](/es/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/eujH0id9Y4WJjjmdazUKd) para tu tienda física. La cuenta franquicia estará asociada a la cuenta principal de tu tienda y heredará su catálogo. Si ya tienes una cuenta franquicia, ve al paso siguiente.
 
 ## Crear un seller
 
@@ -48,15 +48,15 @@ Con el punto de recogida registrado, debes introducir el [almacén](/es/tutorial
 1. En el Admin VTEX, ve a **Envío > Estrategia de envío** > **Almacenes**, o escribe **Estrategia de envío** en la barra de búsqueda de la parte superior de la página.
 2. Haz clic en `+ Crear almacén`.
 3. Rellena los [campos del formulario](/es/tutorial/gerenciar-estoque--tutorials_137#campos-de-cadastro) y selecciona el punto de recogida configurado en el paso anterior.
-4. Cambia  <i class="fas fa-toggle-on"></i> a `Activo` para vincular el almacén de la tienda física con Sales App.
+4. Cambia <i class="fas fa-toggle-on"></i> a `Activo` para vincular el almacén de la tienda física con Sales App.
 5. Haz clic en `Guardar`.
 
 ## Actualizar el stock
 
 Después de configurar el almacén y el punto de recogida, se recomienda comprobar los ítems disponibles en el [stock](/es/tutorial/gerenciar-itens-em-estoque--tutorials_139) y actualizarlo. Puedes comprobar el stock de tu tienda de dos formas:
 
-* **Manualmente**: en la página **[Gestión de stock](/es/tutorial/gerenciar-itens-em-estoque--tutorials_139)** en el Admin VTEX de la cuenta franquicia.
-* **Integración ERP**: a través de la [integración ERP](https://developers.vtex.com/docs/guides/erp-integration-guide), agregando las cuentas franquicia a tu integración para que el [almacén se actualice automáticamente](https://developers.vtex.com/docs/guides/erp-integration-import-inventory#update-sku-inventory) por el ERP.
+- **Manualmente**: en la página **[Gestión de stock](/es/tutorial/gerenciar-itens-em-estoque--tutorials_139)** en el Admin VTEX de la cuenta franquicia.
+- **Integración ERP**: a través de la [integración ERP](https://developers.vtex.com/docs/guides/erp-integration-guide), agregando las cuentas franquicia a tu integración para que el [almacén se actualice automáticamente](https://developers.vtex.com/docs/guides/erp-integration-import-inventory#update-sku-inventory) por el ERP.
 
 Si todos tus productos se muestran sin cantidad, tendrás que agregar las cantidades de esta tienda manualmente o a través de la API.
 
@@ -82,13 +82,15 @@ Deberás seleccionar un vendedor de la tienda en la que quieras probar Venta en 
 También puedes configurar la Venta en mano para ignorar la cantidad de ítems en stock y forzar la disponibilidad de los ítems sin necesidad de activar el stock ilimitado. Para ello, sigue las instrucciones a continuación:
 
 1. Ve a la configuración técnica de Sales App utilizando la siguiente URL. Sustituye `cuenta_principal` por el nombre de la cuenta principal de tu tienda en el Admin VTEX:
-```https://{cuenta_principal}.myvtex.com/admin/portal/#/sites```
+   ```
+   https://{cuenta_principal}.myvtex.com/admin/portal/#/sites
+   ```
 2. Haz clic en el botón del engranaje <i class="fas fa-cog"></i> para editar.
 3. Selecciona la pestaña **Código**.
 4. En la pestaña lateral, selecciona `checkout-instore-custom-js`.
-![instore-custom-js-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/comercio-unificado/vtex-sales-app/habilitar-venta-de-inventario-local-en-vtex-sales-app_2.png)
+   ![instore-custom-js-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/comercio-unificado/vtex-sales-app/habilitar-venta-de-inventario-local-en-vtex-sales-app_2.png)
 5. En la clave `window.INSTORE_CONFIG`, agrega la flag `venderSinStockEnMano: true`.
-![sellWithoutStockInHands-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/comercio-unificado/vtex-sales-app/habilitar-venta-de-inventario-local-en-vtex-sales-app_3.png)
+   ![sellWithoutStockInHands-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/comercio-unificado/vtex-sales-app/habilitar-venta-de-inventario-local-en-vtex-sales-app_3.png)
 6. Haz clic en <i class="fas fa-save"></i> `Guardar`.
 
 ### Habilitar la venta con carrito mixto (opcional)
@@ -98,4 +100,3 @@ Una venta con carrito mixto es una venta que contiene ítems que el cliente reco
 ## Integrar el punto de ventas
 
 Por último, para completar una venta en mano, debes emitir una factura. Es posible que el vendedor quiera actualizar el stock local del punto de ventas con la información de esta venta. Para hacerlo, es necesario integrar tu punto de ventas. Puedes obtener más información en nuestro artículo [Integración de Venta de inventario local](https://developers.vtex.com/docs/guides/integration-vtex-sales-app-local-stock-sale).
-

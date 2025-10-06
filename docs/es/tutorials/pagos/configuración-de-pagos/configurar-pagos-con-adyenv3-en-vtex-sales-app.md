@@ -109,7 +109,7 @@ Configura el webhook según los pasos a continuación:
 7. En __Control de pago__, seleccione si desea activar el proveedor en un entorno de prueba haciendo clic en __Activar modo de prueba__.
 8. En __Live URL prefix__, complete el prefijo disponible en el área de clientes de Adyen (paso 2 de la sección [Obtener la Live URL prefix](#obtener-la-live-url-prefix)).
 9. En __Company account__, ingrese el nombre de tu company account (paso 2 de la sección [Obtener las credenciales Company y Merchant Account](#obtener-las-credenciales-company-y-merchant-account)).
-10. En __Live POS URL__, complete los endpoints utilizados para acceder a las API de terminales de Adyen. Obtenga más información en [documentación de Adyen] (https://docs.adyen.com/point-of-sale/design-your-integration/terminal-api#cloud).
+10. En __Live POS URL__, complete los endpoints utilizados para acceder a las API de terminales de Adyen. Obtenga más información en [documentación de Adyen](https://docs.adyen.com/point-of-sale/design-your-integration/terminal-api#cloud).
 11. No es necesario rellenar el campo __Client key__, ya que sólo es aplicable a otro tipo de canales de venta online.
 12. En __Auto Capture Settings__, seleccione cuándo desea capturar el pago.
 13. Haga clic en `Guardar`.  

@@ -3,13 +3,13 @@ title: 'Importação e exportação de imagens de produtos e SKUs via planilha (
 id: 6zBisMdxDYeBF49LPzvfqt
 status: PUBLISHED
 createdAt: 2025-09-26T15:59:03.761Z
-updatedAt: 2025-09-26T16:29:54.414Z
-publishedAt: 2025-09-26T16:29:54.414Z
+updatedAt: 2025-10-06T14:50:09.160Z
+publishedAt: 2025-10-06T14:50:09.160Z
 firstPublishedAt: 2025-09-26T16:15:52.581Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 5l9ZQjiivHzkEVjafL4O6v
-slugEN: import-and-export-product-and-sku-images-via-spreadsheet-beta
+slugEN: importing-and-exporting-product-and-sku-images-using-a-spreadsheet-beta
 legacySlug: importacao-e-exportacao-de-imagens-de-produtos-e-skus-via-planilha-beta
 locale: pt
 subcategoryId: 6XPsLadoT3moZ7eTduCg3c
@@ -60,20 +60,20 @@ A tabela a seguir apresenta a descrição e o exemplo de preenchimento dos campo
 
 > ℹ️ Para importar uma nova imagem, os únicos campos obrigatórios são **ID SKU** e **URL de importação Imagem**. Saiba quais são as [Boas práticas para o uso de imagens no Catálogo](/pt/tutorial/boas-praticas-para-o-uso-de-imagens-no-catalogo--738K2yfq5U86kUI2k4AQIk).
 
-| **Campo** | **Descrição** | **Exemplo** |
-| :---: | :--- | :---: |
+| Campo | Descrição | Exemplo |
+| :--- | :--- | :--- |
 | ID Produto | Código numérico único identificador do produto. | 310117603 |
 | Nome Produto | Nome do produto apresentado para os clientes na experiência de navegação. | Corebiz camiseta |
 | ID SKU* | Código numérico único que identifica o SKU. | 310119261 |
 | Nome SKU | Nome do SKU, ou seja, que identifica a variação do produto. | M |
 | Código de referência SKU | Código de referência único do SKU, utilizado apenas internamente pela loja. Utilize uma combinação única de letras e/ou números. | camisaVerao26 |
 | ID Imagem | Código numérico que identifica a imagem do SKU. Para a importação de uma nova imagem, deixe o campo em branco, e para uma atualização de imagem existente mantenha o valor. | 167002 |
-| Nome Imagem | Nome da imagem, utilizado apenas internamente na loja. Este campo não permite o uso de caracteres especiais, acentos ou espaços em branco. | lateral_camiseta_azul_gola_redonda |
+| Nome Imagem | Nome da imagem, utilizado apenas internamente na loja. Este campo não permite o uso de caracteres especiais, acentos ou espaços em branco. | lateral_camiseta_azul |
 | Posição Imagem | Número da posição de exibição da imagem no site, onde `0` corresponde à primeira posição, `1` à segunda posição, e assim por diante. | 0 |
 | Label Imagem | Nome que identifica a "etiqueta" da imagem, utilizado internamente pelo lojista para referenciar valores comuns às imagens. | Vista lateral |
 | Texto Imagem | Texto que será associado à imagem, usado internamente na loja. Não utilize caracteres especiais ou acentos, e não repita valores dos campos **Nome Imagem** e **Label Imagem**. | lateral camiseta verao26 |
-| Caminho Imagem | Nome que compõem parte da URL da imagem que está hospedada na plataforma VTEX. Ele aparece após a última barra `/`, incluindo a extensão do arquivo. Caso o campo não esteja preenchido, deixe-o em branco. | camiseta_azul_gola_redonda_frente.jpg |
-| URL de importação Imagem | Imagem a ser associada ao SKU. Para importar uma nova imagem, este campo é obrigatório e deve ser [preenchido com a URL](/pt/tutorial/como-definir-a-url-de-um-produto--frequentlyAskedQuestions_368) do arquivo hospedado. Ela deve começar com o identificador de protocolo HTTP (`http://`) e terminar com uma das seguintes extensões:<ul><li>jpg</li><li>png</li><li>gif</li><li>ico</li><li>svg</li><li>webp</li></ul>Para atualizar uma imagem existente, deixe o campo em branco. Caso contrário, a imagem será criada novamente, gerando uma duplicação. | `http://arquivos.com/ids/image/camiseta_azul_gola_redonda_frente.jpg` |
+| Caminho Imagem | Nome que compõem parte da URL da imagem que está hospedada na plataforma VTEX. Ele aparece após a última barra `/`, incluindo a extensão do arquivo. Caso o campo não esteja preenchido, deixe-o em branco. | camiseta_azul_gola_redonda.jpg |
+| URL de importação Imagem | Imagem a ser associada ao SKU. Para importar uma nova imagem, este campo é obrigatório e deve ser [preenchido com a URL](/pt/tutorial/como-definir-a-url-de-um-produto--frequentlyAskedQuestions_368) do arquivo hospedado. Ela deve começar com o identificador de protocolo HTTP (`http://`) e terminar com uma das seguintes extensões:<ul><li>jpg</li><li>png</li><li>gif</li><li>ico</li><li>svg</li><li>webp</li></ul>Para atualizar uma imagem existente, deixe o campo em branco. Caso contrário, a imagem será criada novamente, gerando uma duplicação. | `http://arquivos.com/ids/image/camiseta_azul_gola_redonda.jpg` |
 
 ## Saiba mais
 

@@ -23,7 +23,7 @@ See below details regarding approval of each one of these types:
 
 In this type of setup, the store, or some other system, must inform VTEX that the payment was made.
 
-The order status will remain **Payment pending** until the payment is notified. This notification can be made through [bank reconciliation](/en/tutorial/bank-reconciliations/), [API](https://developers.vtex.com/reference/payment#sendpaymentnotification "API") or [manually in Orders management](/en/tutorial/approving-payment-of-the-bank-payment-slip/).
+The order status will remain **Payment pending** until the payment is notified. This notification can be made through [bank reconciliation](/en/tutorial/bank-reconciliations/), [API](https://developers.vtex.com/reference/payment#sendpaymentnotification) or [manually in Orders management](/en/tutorial/approving-payment-of-the-bank-payment-slip/).
 
 It must be mentioned that the order will follow its normal course only upon approval of the payment.
 

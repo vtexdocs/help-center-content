@@ -15,4 +15,4 @@ locale: en
 subcategoryId: 78bsG4YLzz1TR7eUzFSf4F
 ---
 
-> ℹ️ This content is only available in Portuguese. [Click here](/en/tutorial/tablets-homologados-uso-totens-aplicativo-indeva--7jqi08Pf7zhI23mwbV7Zhh) to access it.
+> ℹ️ This content is only available in Portuguese. [Click here](/pt/tutorial/tablets-homologados-uso-totens-aplicativo-indeva--7jqi08Pf7zhI23mwbV7Zhh) to access it.

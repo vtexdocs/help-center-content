@@ -17,7 +17,7 @@ announcementSynopsisES: 'Permita que su consumidor comente y califique los produ
 
 Dé voz a su consumidor permitiéndole calificar productos y tomar decisiones más asertivas basadas en las calificaciones de otros usuarios. Aumente la credibilidad de sus productos y, consecuentemente, incremente su tasa de conversión.
 
-La aplicación está disponible en [VTEX App Store](https://apps.vtex.com/ "VTEX App Store") y todas las tiendas que utilizan VTEX IO pueden descargarla gratuitamente. 
+La aplicación está disponible en [VTEX App Store](https://apps.vtex.com/) y todas las tiendas que utilizan VTEX IO pueden descargarla gratuitamente. 
 
 ## ¿Cuáles son las funcionalidades?
 
@@ -35,5 +35,5 @@ La aplicación está disponible en [VTEX App Store](https://apps.vtex.com/ "VTEX
 
 ## ¿Cómo empiezo a utilizarla?
 
-Simplemente acceda a [VTEX App Store](https://apps.vtex.com/vtex-reviews-and-ratings/p "VTEX App Store") y realice el procedimiento para instalar la aplicación, siga la [documentación técnica](https://vtex.io/docs/components/all/vtex.reviews-and-ratings@2.2.1/ "Documentacion") para añadir los bloques necesarios a su store-theme de VTEX IO.
+Simplemente acceda a [VTEX App Store](https://apps.vtex.com/vtex-reviews-and-ratings/p) y realice el procedimiento para instalar la aplicación, siga la [documentación técnica](https://vtex.io/docs/components/all/vtex.reviews-and-ratings@2.2.1/) para añadir los bloques necesarios a su store-theme de VTEX IO.
 

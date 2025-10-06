@@ -26,4 +26,4 @@ Importante lembrar que esses recursos estarão disponíveis no Menu caso existam
 
 Para clientes que integram produtos de outras lojas em seu catálogo, é necessário indexar o produto após sua adição ao catálogo para que o indexador sobrescreva as especificações do seller.
 
-Para entender mais sobre a criação de campos de produto, leia o artigo [Campo de Produto](/pt/tutorial/criando-um-campo-de-produto "Campo de Produto") que explica como e onde é cadastrada essa configuração.
+Para entender mais sobre a criação de campos de produto, leia o artigo [Campo de Produto](/pt/tutorial/criando-um-campo-de-produto) que explica como e onde é cadastrada essa configuração.

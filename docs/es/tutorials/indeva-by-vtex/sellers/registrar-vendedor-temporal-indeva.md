@@ -15,4 +15,4 @@ locale: es
 subcategoryId: 1acPW0OHXq4PjbQUFVrNrY
 ---
 
-> ℹ️ Este contenido está disponible solo en [portugués](/es/tutorial/cadastrar-vendedor-temporario-indeva--1D0znuLfmKpcuYGp29qrEX). Haga clic aquí para acceder.
+> ℹ️ Este contenido está disponible solo en [portugués](/pt/tutorial/cadastrar-vendedor-temporario-indeva--1D0znuLfmKpcuYGp29qrEX). Haga clic aquí para acceder.

@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 3OlaStejO5MSzvDSU3VCH3
 ---
 
-La página [Claves de API](/es/tutorial/chaves-de-api--4bFEmcHXgpNksoePchZyy6) permite exportar información de todas las claves generadas y las claves externas relacionadas con la cuenta a un archivo \`XLSX`` ` ``.
+La página [Claves de API](/es/tutorial/chaves-de-api--4bFEmcHXgpNksoePchZyy6) permite exportar información de todas las claves generadas y las claves externas relacionadas con la cuenta a un archivo `XLSX`.
 
 ## Antes de empezar
 

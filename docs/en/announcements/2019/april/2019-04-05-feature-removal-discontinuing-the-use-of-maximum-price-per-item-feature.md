@@ -33,4 +33,4 @@ The benefits of Maximum Price per Item registered previously will continue worki
 
 ## What should the retailer do?
 
-VTEX HELP contains a step by step about how to use the new feature of Promotional Price Table. To access the article about the feature with related tutorials click here: [How to create a benefit using price table ](/en/tutorial/how-to-create-a-benefit-using-price-table "How to create a benefit using price table")
+VTEX HELP contains a step by step about how to use the new feature of Promotional Price Table. To access the article about the feature with related tutorials click here: [How to create a benefit using price table ](/en/tutorial/how-to-create-a-benefit-using-price-table)

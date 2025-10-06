@@ -35,7 +35,7 @@ Este artículo tiene como objetivo mostrar cómo configurar su CRM para crear un
 
 Técnicamente, un clúster en el CRM es nada más que un campo.
 
-Para rellenar este campo, usted puede usar una [planilla de importación](/es/tutorial/importar-datos-en-el-master-data--tutorials_1135 "Importar datos en el Master Data") o una API, o puede hacerlo manualmente por el formulario Cliente en CRM. Todo depende de la estrategia de la tienda para agrupar a sus clientes.
+Para rellenar este campo, usted puede usar una [planilla de importación](/es/tutorial/importar-datos-en-el-master-data--tutorials_1135) o una API, o puede hacerlo manualmente por el formulario Cliente en CRM. Todo depende de la estrategia de la tienda para agrupar a sus clientes.
 
 ## Más información
 

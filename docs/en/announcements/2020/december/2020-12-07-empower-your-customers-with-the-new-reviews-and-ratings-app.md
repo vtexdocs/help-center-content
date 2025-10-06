@@ -17,7 +17,7 @@ announcementSynopsisEN: 'Allow your consumer to review and rate your store produ
 
 Give your customers a voice by allowing them to rate products and make more assertive decisions based on ratings from other users. Enhance the credibility of your products and increase your conversion rate as a result.
 
-The application is available in the [VTEX App Store](https://apps.vtex.com "VTEX App Store") and can be downloaded for free by all stores running on VTEX IO. 
+The application is available in the [VTEX App Store](https://apps.vtex.com) and can be downloaded for free by all stores running on VTEX IO. 
 
 ## What are the capabilities?
 
@@ -35,5 +35,5 @@ The application is available in the [VTEX App Store](https://apps.vtex.com "VTEX
 
 ## How to start using it?
 
-Access the [VTEX App Store](https://apps.vtex.com/vtex-reviews-and-ratings/p "VTEX App Store") and follow the app’ step by step installation as highlighted in the [technical documentation](https://vtex.io/docs/components/all/vtex.reviews-and-ratings@2.2.1/ "Documentation").
+Access the [VTEX App Store](https://apps.vtex.com/vtex-reviews-and-ratings/p) and follow the app’ step by step installation as highlighted in the [technical documentation](https://vtex.io/docs/components/all/vtex.reviews-and-ratings@2.2.1/).
 

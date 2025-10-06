@@ -64,4 +64,4 @@ Quantidade de SKU do produto:
 
 ### Para saber mais
 
-[Por que meu produto não indexa?](/faq/por-que-o-produto-nao-indexa "Por que meu produto não indexa?")
+[Por que meu produto não indexa?](/faq/por-que-o-produto-nao-indexa)

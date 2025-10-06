@@ -31,11 +31,11 @@ Para acceder a **Agent Builder**, selecciona la organización en la página de i
 
 En **Agent Builder** puedes acceder a las siguientes páginas:
 
-- [**Supervisor**] (#supervisor)
-- [**Perfil**] (#perfil)
-- [**Agentes**] (#agentes)
-- [**Conocimientos**] (#conocimientos)
-- [**Ajustes**] (#ajustes)
+- [**Supervisor**](#supervisor)
+- [**Perfil**](#perfil)
+- [**Agentes**](#agentes)
+- [**Conocimientos**](#conocimientos)
+- [**Ajustes**](#ajustes)
 
 ### Supervisor
 

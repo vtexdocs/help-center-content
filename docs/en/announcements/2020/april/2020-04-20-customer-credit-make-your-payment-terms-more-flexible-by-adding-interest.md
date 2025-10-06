@@ -31,7 +31,7 @@ Currently, this functionality does not support the application of simple interes
 
 ## How does it work
 
-To define interest rates on Customer Credit, follow the standard flow [to configure a payment condition](/en/tutorial/condicoes-de-pagamento--tutorials_455 "to configure a payment condition").
+To define interest rates on Customer Credit, follow the standard flow [to configure a payment condition](/en/tutorial/condicoes-de-pagamento--tutorials_455).
 
 The first step is to make sure that Customer Credit is configured as a Gateway affiliation in your store. If this is not the case, you must create a new affiliation.
 
@@ -43,4 +43,4 @@ Then you’ll define which rules apply to that payment method:
 
 Finish the process by saving the settings. In this way, interest will be displayed on SmartCheckout's Customer Credit.
 
-For more details on Customer Credit, check out our [introductory track on this app](/en/tutorial/customer-credit-visao-geral--1uIqTjWxIIIEW0COMg4uE0 "introductory track on this app").
+For more details on Customer Credit, check out our [introductory track on this app](/en/tutorial/customer-credit-visao-geral--1uIqTjWxIIIEW0COMg4uE0).

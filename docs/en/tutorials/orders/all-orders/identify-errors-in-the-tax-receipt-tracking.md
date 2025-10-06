@@ -21,6 +21,6 @@ In order to make sure the tax receipt tracking works properly, analyze the follo
 - Check whether the tracking URL is incorrect
 - Check whether the transport company is incorrect
 - Access the tracking URL by entering the number on the browser and check whether you are accessing the tracking monitoring page
-- Check whether the transport company is on the [list of companies registered for tracking](/en/faq/which-transport-companies-enable-make-it-possible-to-track-delivery "list of companies registered for tracking").
+- Check whether the transport company is on the [list of companies registered for tracking](/en/faq/which-transport-companies-enable-make-it-possible-to-track-delivery).
 
 _Adjust these items and follow up the triggering of the e-mails using the time line in the order._

@@ -15,4 +15,4 @@ locale: es
 subcategoryId: 1acPW0OHXq4PjbQUFVrNrY
 ---
 
-> ℹ️ Este contenido está disponible solo en [portugués](/es/tutorial/gerenciar-perfil-vendedor-responsavel-vr-indeva--p1VOMt1lIBqT3il1frgJT). Haga clic aquí para acceder.
+> ℹ️ Este contenido está disponible solo en [portugués](/pt/tutorial/gerenciar-perfil-vendedor-responsavel-vr-indeva--p1VOMt1lIBqT3il1frgJT). Haga clic aquí para acceder.

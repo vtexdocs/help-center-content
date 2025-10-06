@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 6XAvmMxp7yyY06ewYMuggs
 ---
 
-El [E-bit](http://www.ebit.com.br/ "E-bit") es una empresa del grupo Buscapé que actúa con información sobre comercio electrónico (e-commerce) en escenario brasileño desde el año 2000. E-bit posee una herramienta que mide la satisfacción de los consumidores a través de la calidad de los servicios prestados por las tiendas.
+El [E-bit](http://www.ebit.com.br/) es una empresa del grupo Buscapé que actúa con información sobre comercio electrónico (e-commerce) en escenario brasileño desde el año 2000. E-bit posee una herramienta que mide la satisfacción de los consumidores a través de la calidad de los servicios prestados por las tiendas.
 
 Actualmente, E-bit actúa como un consultor de compras online de bienes de consumo, publicando la certificación de las tiendas virtuais por la excelencia de sus servicios, donde la información es obtenida a través de las evaluaciones de consumidores online que efectivamente realizaron compras. E-bit será divulgado en todas las páginas do su site, transmitiendo así más credibilidad y un diferencial para la toma de decisión del consumidor.
 

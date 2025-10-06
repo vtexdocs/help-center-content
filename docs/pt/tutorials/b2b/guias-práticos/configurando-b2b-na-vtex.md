@@ -61,7 +61,7 @@ Navegação por um usuário não aprovado (ao tentar acessar qualquer página, s
 
 O usuário que ainda não é cadastrado no site precisa ter uma interface para realizar o pré-cadastro. O pré-cadastro é um formulário com informações básicas do usuário. Apesar de básicas, essas informações devem ser suficientes para o lojista aprová-lo e liberá-lo para navegação no site.
 
-Dessa forma, é necessário definir os campos desse pré-cadastro. Normalmente, os B2Bs utilizam informações de cliente (nome, e-mail, telefone, etc) e endereço (rua, bairro, cidade, etc) para esse pré-cadastro. Confira o artigo [Importar dados de clientes](/pt/tutorial/importando-dados-de-clientes-brasil--2zWYVOyj0sISYQmeUwCsI0 "Importar dados de clientes - Brasil") para mais informações sobre os dados necessários.
+Dessa forma, é necessário definir os campos desse pré-cadastro. Normalmente, os B2Bs utilizam informações de cliente (nome, e-mail, telefone, etc) e endereço (rua, bairro, cidade, etc) para esse pré-cadastro. Confira o artigo [Importar dados de clientes](/pt/tutorial/importando-dados-de-clientes-brasil--2zWYVOyj0sISYQmeUwCsI0) para mais informações sobre os dados necessários.
 
 > ⚠️ O campo utilizado como regra condicional na política comercial nunca poderá fazer parte desse formulário, uma vez que o próprio usuário não pode realizar sua própria aprovação, cabendo à loja essa responsabilidade.
 

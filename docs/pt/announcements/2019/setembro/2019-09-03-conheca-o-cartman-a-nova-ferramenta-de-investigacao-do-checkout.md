@@ -39,4 +39,4 @@ Por exemplo, um analista de suporte, ao receber um chamado, pode refazer o mesmo
 O Cartman já está disponível em todos os domínios VTEX. Contudo, é possível desativá-lo e ativá-lo novamente, quantas vezes for necessário, caso seja interessante para o lojista. 
 
 Vale ressaltar que o Cartman não fica visível para os clientes da sua loja. Essa é uma forma de garantir que a experiência de compra do cliente não seja afetada em nenhum momento.                                                                    
-Para saber mais detalhes sobre o Cartman, [clique aqui](/pt/tutorial/configurar-o-cartman--1ACMTStZYkMqB0lTgwg451 "clique aqui.").
+Para saber mais detalhes sobre o Cartman, [clique aqui](/pt/tutorial/configurar-o-cartman--1ACMTStZYkMqB0lTgwg451).

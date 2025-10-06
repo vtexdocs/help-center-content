@@ -15,4 +15,4 @@ locale: es
 subcategoryId: 2fZRuqcVChcJ9AhY4vzfl3
 ---
 
-> ℹ️ Este contenido está disponible solo en [portugués](/es/tutorial/gerenciamento-de-colaboradores-indeva--29zngGbq844ZEN9UwKdLrQ). Haga clic aquí para acceder.
+> ℹ️ Este contenido está disponible solo en [portugués](/pt/tutorial/gerenciamento-de-colaboradores-indeva--29zngGbq844ZEN9UwKdLrQ). Haga clic aquí para acceder.

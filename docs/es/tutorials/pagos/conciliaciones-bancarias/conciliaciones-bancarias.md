@@ -19,7 +19,7 @@ Es el lugar por el cual el tendero aprueba en lote los pagos de los pedidos acor
 
 El flujo completo es: compra acordada con boleto en el sitio web &gt; pedido entra como Pago Pendiente &gt; boleto de pago &gt; banco envía el archivo para la tienda &gt; tendero realiza la conciliación &gt; pedido sigue el flujo para entrega.
 
-Conforme explicado en el FAQ [¿Cuánto tiempo lleva para la cancelación de un pedido de boleto sin pago?](/hc/es-419/articles/215033318 "¿Cuánto tiempo lleva para la cancelación de un pedido de boleto sin pago?"), existe un plazo para la cancelación del pedido, caso este no sea notificado como pagado en el status de Pago Aprobado (ya sea manualmente en el OMS el por conciliación). En ese caso, el pedido permanecerá en el status de Pago Pendiente hasta que sea cancelado.
+Conforme explicado en el FAQ [¿Cuánto tiempo lleva para la cancelación de un pedido de boleto sin pago?](/hc/es-419/articles/215033318), existe un plazo para la cancelación del pedido, caso este no sea notificado como pagado en el status de Pago Aprobado (ya sea manualmente en el OMS el por conciliación). En ese caso, el pedido permanecerá en el status de Pago Pendiente hasta que sea cancelado.
 
 > ⚠️ Los procedimientos de este artículo no se aplican a las integraciones que realizan la conciliación bancaria de forma automática.
 

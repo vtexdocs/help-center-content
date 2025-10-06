@@ -32,5 +32,5 @@ Las promociones de Precio Máximo por ítem registradas previamente continuaran 
 
 ## Lo que los tenderos necesitan hacer?
 
-En VTEX Help hay un paso a paso disponible explicando como utilizar la nueva funcionalidad de Promociones por Tabla de Precio. Para acceder el articulo sobre la nueva herramienta con los tutoriales relacionados, haz clic en el [link](/es/tutorial/Creando-Promociones-por-Tabla-de-Precio "Creando promociones por tabla de precio").
+En VTEX Help hay un paso a paso disponible explicando como utilizar la nueva funcionalidad de Promociones por Tabla de Precio. Para acceder el articulo sobre la nueva herramienta con los tutoriales relacionados, haz clic en el [link](/es/tutorial/Creando-Promociones-por-Tabla-de-Precio).
 

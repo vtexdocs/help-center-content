@@ -25,7 +25,7 @@ Considere este ejemplo: un cliente que se encuentra en su casa hace un pedido en
 
 ## Prerrequisitos
 
-En primer lugar, consideremos los requisitos previos que su tienda necesita para asegurarse de comenzar a implementar una estrategia de Ship From Store. Consulte nuestro artículo sobre [Requisitos previos para utilizar VTEX Sales App](/es/tracks/instore-primeros-pasos-y-configuracion--zav76TFEZlAjnyBVL5tRc/1wtAanSRA3g2316dw7bw8u "Requisitos previos para utilizar VTEX Sales App").
+En primer lugar, consideremos los requisitos previos que su tienda necesita para asegurarse de comenzar a implementar una estrategia de Ship From Store. Consulte nuestro artículo sobre [Requisitos previos para utilizar VTEX Sales App](/es/tracks/instore-primeros-pasos-y-configuracion--zav76TFEZlAjnyBVL5tRc/1wtAanSRA3g2316dw7bw8u).
 
 ## Cómo implementar el Ship From Store
 

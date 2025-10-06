@@ -3,8 +3,8 @@ title: 'Criar um perfil de acesso financeiro'
 id: 717qPtxW3Cy9n5KrReHeVv
 status: PUBLISHED
 createdAt: 2020-05-21T18:32:54.471Z
-updatedAt: 2025-06-09T16:18:00.156Z
-publishedAt: 2025-06-09T16:18:00.156Z
+updatedAt: 2025-10-06T10:17:43.804Z
+publishedAt: 2025-10-06T10:17:43.804Z
 firstPublishedAt: 2020-05-21T20:22:19.449Z
 contentType: tutorial
 productTeam: Billing
@@ -19,7 +19,7 @@ Para [acessar as faturas](/pt/tutorial/como-acessar-o-valor-da-receita-aprovada-
 
 Existem dois [perfis de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) financeiro predefinidos: [Finance](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#finance) e [Finance Full Access](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#finance-full-access). Utilizaremos o Finance como referência para este artigo, mas os passos abaixo são os mesmos para ambos perfis.
 
-## ## Como criar um perfil de acesso financeiro
+## Como criar um perfil de acesso financeiro
 
 Para criar um perfil de acesso financeiro:
 

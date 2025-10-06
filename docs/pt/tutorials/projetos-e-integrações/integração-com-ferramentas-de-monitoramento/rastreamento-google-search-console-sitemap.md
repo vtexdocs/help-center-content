@@ -31,7 +31,7 @@ A indexação de sua loja não fica condicionada a inserção do sitemap, mas co
 
 Para cadastar o Sitemap você deve executar as seguites ações:
 
-1. Acesse o painel do Search Console de sua loja: [www.google.com/webmasters/tools/dashboard](http://www.google.com/webmasters/tools/dashboard "www.google.com/webmasters/tools/dashboard")**
+1. Acesse o painel do Search Console de sua loja: [www.google.com/webmasters/tools/dashboard](http://www.google.com/webmasters/tools/dashboard)**
 
 2. Selecione a opção **Sitemaps** na sessão **Rastreamento**
 

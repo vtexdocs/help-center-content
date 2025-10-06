@@ -15,4 +15,4 @@ locale: es
 subcategoryId: 2fZRuqcVChcJ9AhY4vzfl3
 ---
 
-> ℹ️ Este contenido está disponible solo en [portugués](/es/tutorial/tipos-cadastro-vendedor-indeva--RxNKhYl8yCcWK4i7NhEhP). Haga clic aquí para acceder.
+> ℹ️ Este contenido está disponible solo en [portugués](/pt/tutorial/tipos-cadastro-vendedor-indeva--RxNKhYl8yCcWK4i7NhEhP). Haga clic aquí para acceder.

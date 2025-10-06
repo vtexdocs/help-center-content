@@ -21,6 +21,6 @@ Para garantizar que el rastreo de nota fiscal funcione, analice los ítems abajo
 - Verifique si la URL de rastreo está equivocada;
 - Verifique si el transportista está equivocado;
 - Acceda a URL de rastreo pasando el número en el navegador y verifique si accede a la página de seguimiento de rastreo;
-- Verifique si el transportista está en el [listado de transportistas catastrados para el rastreo](/es/faq/cuales-transportistas-ponen-a-disposicion-el-rastreo-de-flete "listado de transportistas catastrados para el rastreo").
+- Verifique si el transportista está en el [listado de transportistas catastrados para el rastreo](/es/faq/cuales-transportistas-ponen-a-disposicion-el-rastreo-de-flete).
 
 _Ajuste esos ítems y acompañe el disparo de los e-mails por la Línea del Tiempo en el pedido._

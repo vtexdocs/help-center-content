@@ -15,4 +15,4 @@ locale: en
 subcategoryId: 1acPW0OHXq4PjbQUFVrNrY
 ---
 
-> ℹ️ This content is only available in Portuguese. [Click here](/en/tutorial/filtrar-vendedores-por-status-indeva--7FlkvLNQsECoXdY8QlOkoj) to access it.
+> ℹ️ This content is only available in Portuguese. [Click here](/pt/tutorial/filtrar-vendedores-por-status-indeva--7FlkvLNQsECoXdY8QlOkoj) to access it.

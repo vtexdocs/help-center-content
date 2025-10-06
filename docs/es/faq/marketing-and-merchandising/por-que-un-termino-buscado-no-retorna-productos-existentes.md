@@ -34,4 +34,4 @@ Si usted necesita utilizar, en sus productos, palabras que tal vez para el busca
 - Utilizar colección, redireccionando el término buscado a una landing-page.
 - Redireccionar el término buscado a un contexto de busca que tenga sentido (Categoría, marca o incluso producto).
 
-El artículo siguiene enseña cómo realizar configuración de redireccionamiento: [Mapeo de URLs (Redirecionamento 301)](/es/faq/mapeo-de-urls-redireccionamiento-301/ "Mapeo de URLs (Redirecionamento 301)")
+El artículo siguiene enseña cómo realizar configuración de redireccionamiento: [Mapeo de URLs (Redirecionamento 301)](/es/faq/mapeo-de-urls-redireccionamiento-301/)

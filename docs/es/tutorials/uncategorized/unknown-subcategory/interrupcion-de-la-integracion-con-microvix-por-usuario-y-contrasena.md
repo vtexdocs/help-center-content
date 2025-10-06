@@ -15,4 +15,4 @@ locale: es
 subcategoryId: 
 ---
 
-> ℹ️ Este contenido está disponible solo en [portugués](/pt/tutorial/interrupcao-da-integracao-microvix-por-usuario-e-senha--314RUn6H0lO1ish6CsWkKV) to access it.
+> ℹ️ Este contenido está disponible solo en [portugués](/pt/tutorial/interrupcao-da-integracao-microvix-por-usuario-e-senha--314RUn6H0lO1ish6CsWkKV). Haga clic aquí para acceder.

@@ -33,4 +33,4 @@ La configuración del tiempo máximo para la captura se hace cuando se registra 
 
 En el Admin, el administrador de la tienda debe rellenar un formulario de registro que ahora cuenta con dos nuevos campos: “Captura anticipada” y “Cambiar el tiempo máximo de captura automática”.
 
-Para saber más detalles, vea el [tutorial sobre cómo rellenar los campos de registro de afiliación y activar la captura automática](/es/tutorial/configurar-tempo-maximo-para-captura-automatica--7dwcaxrcgcFJUk7umqPBw2 "tutorial sobre cómo rellenar los campos de registro de affiliación y activar la captura automática"). 
+Para saber más detalles, vea el [tutorial sobre cómo rellenar los campos de registro de afiliación y activar la captura automática](/es/tutorial/configurar-tempo-maximo-para-captura-automatica--7dwcaxrcgcFJUk7umqPBw2). 

@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 6pbaGm24tlXta7TKTtMc5l
 ---
 
-O aplicativo móvel do [VTEX Tracking](/pt/tutorial/visao-geral-vtex-tracking--1uDRquVudbPuoK05MtbZGh "Visão Geral VTEX Tracking") é um dos componentes da solução VTEX voltada para o  monitoramento de entregas de uso exclusivo do portador ou motorista.  O aplicativo dispõe das seguintes funcionalidades:
+O aplicativo móvel do [VTEX Tracking](/pt/tutorial/visao-geral-vtex-tracking--1uDRquVudbPuoK05MtbZGh) é um dos componentes da solução VTEX voltada para o  monitoramento de entregas de uso exclusivo do portador ou motorista.  O aplicativo dispõe das seguintes funcionalidades:
 
 - Informações sobre rota e entrega.
 - [Como fazer uma entrega](#como-fazer-uma-entrega):

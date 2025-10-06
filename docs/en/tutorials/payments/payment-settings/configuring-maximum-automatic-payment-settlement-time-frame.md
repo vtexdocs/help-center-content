@@ -44,7 +44,7 @@ The retailer and the acquirer agree on the time frame for the automatic settleme
 See below an example of how to perform the above settings:
 
 1. In the VTEX Admin, go to **Store Settings** > **Payment** > **Settings**, or type **Settings** in the search bar at the top of the page.
-2. On the providers screen, click the `New Provider button.
+2. On the providers screen, click the `New Provider` button.
 3. Type the name of the provider in the search bar and click on it.
 4. In **Provider Authorization**, fill in the **App key** and **App token** fields with your account information with the provider.
 5. If you wish to modify the identification name to be displayed for the desired provider on the VTEX Admin screen, enter the information in the **Name** field in **Basic Information**.

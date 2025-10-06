@@ -23,7 +23,7 @@ Esta beta abierta es la primera de una serie de mejoras y actualizaciones de pro
 
 ## Catalogación masiva
 
-Una de las primeras y principales mejoras es la nueva forma de seleccionar los SKUs en masa - para que pueda aprobarlos o rechazarlos en masa. Alineado con nuestra [Styleguide](https://styleguide.vtex.com/ "Styleguide"), la selección masiva hará que su trabajo sea más rápido y mejor.
+Una de las primeras y principales mejoras es la nueva forma de seleccionar los SKUs en masa - para que pueda aprobarlos o rechazarlos en masa. Alineado con nuestra [Styleguide](https://styleguide.vtex.com/), la selección masiva hará que su trabajo sea más rápido y mejor.
 
 ![received-skus-bulk](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2019/septiembre/2019-09-09-marketplaces-skus-recibidos-beta_1.gif)
 

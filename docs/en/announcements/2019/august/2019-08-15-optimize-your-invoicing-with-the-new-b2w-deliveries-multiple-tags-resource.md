@@ -39,4 +39,4 @@ Therefore, each of these packages will be invoiced by VTEX's system. Thereafter,
 
 As soon as all items comprising an order have been invoiced by VTEX, the integration changes the order's status with B2W.
 
-For more on how to implement the integration with B2W and benefit from this functionality, [click here](/en/tracks/configurar-integracao-da-b2w?locale=en "click here"). 
+For more on how to implement the integration with B2W and benefit from this functionality, [click here](/en/tracks/configurar-integracao-da-b2w?locale=en). 

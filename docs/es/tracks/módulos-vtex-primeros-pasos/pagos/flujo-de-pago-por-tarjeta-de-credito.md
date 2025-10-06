@@ -17,12 +17,12 @@ order: 3
 
 El flujo básico de un pago por tarjeta de crédito es realizado por los siguientes players:    
 <br/>
-- **Gateway de Pagos**: El [gateway de pagos](/es/tutorial/o-que-e-um-gateway-de-pagamentos?locale=pt "Gateway de pagos") es un sistema que transmite los datos de las compras realizadas en su tienda. El gateway envía datos y recibe respuestas para que usted sepa si debe confirmar o no una determinada compra.
+- **Gateway de Pagos**: El [gateway de pagos](/es/tutorial/o-que-e-um-gateway-de-pagamentos?locale=pt) es un sistema que transmite los datos de las compras realizadas en su tienda. El gateway envía datos y recibe respuestas para que usted sepa si debe confirmar o no una determinada compra.
 
-- **Adquirente**: El [adquirente](/es/tutorial/diferenca-entre-adquirentes-subadquirentes-e-gateways-no-brasil?locale=pt#adquirente "Adquirente"), también llamado acreditador, es una empresa que es especializada en procesar pagos; es decir, realizar la liquidación financiera de las transacciones de una tienda a través de tarjetas de crédito y débito.
+- **Adquirente**: El [adquirente](/es/tutorial/diferenca-entre-adquirentes-subadquirentes-e-gateways-no-brasil?locale=pt#adquirente), también llamado acreditador, es una empresa que es especializada en procesar pagos; es decir, realizar la liquidación financiera de las transacciones de una tienda a través de tarjetas de crédito y débito.
 
-- **Bandera**: Las [banderas](/es/tutorial/que-es-una-bandera-de-tarjeta-de-credito--4bNba5QYuIwKEmac88KwyI "Bandera") son empresas responsables de definir las reglas de negocio para compras realizadas con tarjeta de crédito. Definen los estándares  por los cuales los adquirentes deben procesar las transacciones realizadas mediante este medio de pago (cada bandera tiene sus propias reglas).
-- **Banco Emisor**: El [banco emisor](/es/tutorial/o-que-e-banco-emissor?locale=pt "Banco Emisor") es la institución financiera responsable de los medios de pago, ya sean boletos bancarios, tarjetas de débito o crédito. Es este quien, al recibir los datos de una compra realizada en su tienda, autoriza o no la venta (dependiendo del límite de crédito o del dinero disponible en la cuenta del usuario).
+- **Bandera**: Las [banderas](/es/tutorial/que-es-una-bandera-de-tarjeta-de-credito--4bNba5QYuIwKEmac88KwyI) son empresas responsables de definir las reglas de negocio para compras realizadas con tarjeta de crédito. Definen los estándares  por los cuales los adquirentes deben procesar las transacciones realizadas mediante este medio de pago (cada bandera tiene sus propias reglas).
+- **Banco Emisor**: El [banco emisor](/es/tutorial/o-que-e-banco-emissor?locale=pt) es la institución financiera responsable de los medios de pago, ya sean boletos bancarios, tarjetas de débito o crédito. Es este quien, al recibir los datos de una compra realizada en su tienda, autoriza o no la venta (dependiendo del límite de crédito o del dinero disponible en la cuenta del usuario).
 <br/>
 Para saber más sobre los agentes financieros involucrados en el flujo de pago de un pedido en Brasil, consulte [nuestro artículo](/es/tutorial/diferenca-entre-adquirentes-subadquirentes-e-gateways-no-brasil?locale=pt#adquirente). <br/>
 <br/>

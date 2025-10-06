@@ -15,4 +15,4 @@ locale: es
 subcategoryId: 2qRY1ABm4FFJywlXZeCFa7
 ---
 
-> ℹ️ This content is only available in Portuguese. [Click here](/pt/tutorial/alterar-formato-de-distribuicao-da-meta-indeva--2c2kc5EJv3bJEw9aIQCuIy) to access it.
+> ℹ️ This content is only available in Portuguese. [Click here](/pt/tutorial/alterar-formato-de-distribuicao-da-meta-indeva--2c2kc5EJv3bJEw9aIQCuIy). Haga clic aquí para acceder.

@@ -32,11 +32,11 @@ To access **Agent Builder**, select the organization on the Weni by VTEX homepag
 
 You can access the following pages in **Agent Builder:**
 
-- [**Supervisor**] (#supervisor)
-- [**Profile**] (#profile) 
-- [**Agents**] (#agents)
-- [**Knowledge**] (#knowledge)
-- [**Adjustments**] (#adjustments)
+- [**Supervisor**](#supervisor)
+- [**Profile**](#profile) 
+- [**Agents**](#agents)
+- [**Knowledge**](#knowledge)
+- [**Adjustments**](#adjustments)
 
 ### Supervisor
 

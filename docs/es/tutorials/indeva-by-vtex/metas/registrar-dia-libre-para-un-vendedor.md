@@ -15,4 +15,4 @@ locale: es
 subcategoryId: 2qRY1ABm4FFJywlXZeCFa7
 ---
 
-> ℹ️ This content is only available in Portuguese. [Click here](/pt/tutorial/cadastrar-folga-para-um-vendedor--3NsW7I5JwfIlmKvvxOQ4dA) to access it.
+> ℹ️ This content is only available in Portuguese. [Click here](/pt/tutorial/cadastrar-folga-para-um-vendedor--3NsW7I5JwfIlmKvvxOQ4dA). Haga clic aquí para acceder.

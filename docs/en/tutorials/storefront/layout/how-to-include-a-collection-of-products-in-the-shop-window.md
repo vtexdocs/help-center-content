@@ -19,7 +19,7 @@ subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 
 Shop windows are used to feature products on several pages; they can also be used for recommendations on the product page.
 
-Firstly, before setting up a shop window, create a collection (see instructions [here](/en/tutorial/creating-a-product-collection "here")) with the products that will be shown on the screen. The pages should also be duly structured, with the proper controls inserted in their templates.
+Firstly, before setting up a shop window, create a collection (see instructions [here](/en/tutorial/creating-a-product-collection)) with the products that will be shown on the screen. The pages should also be duly structured, with the proper controls inserted in their templates.
 
 After the proper definitions, the collection is linked to the shop window at **Storefront > Layout**.
 

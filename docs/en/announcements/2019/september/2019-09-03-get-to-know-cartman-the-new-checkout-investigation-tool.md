@@ -43,4 +43,4 @@ Cartman is already available in all VTEX domains. However, it's possible to disa
 
 A quick reminder that Cartman is not visible to your store customers, which ensures that the customer buying experience is never affected. 
 
-For more on Cartman, [click here](/en/tutorial/configurar-o-cartman--1ACMTStZYkMqB0lTgwg451 "click here").
+For more on Cartman, [click here](/en/tutorial/configurar-o-cartman--1ACMTStZYkMqB0lTgwg451).

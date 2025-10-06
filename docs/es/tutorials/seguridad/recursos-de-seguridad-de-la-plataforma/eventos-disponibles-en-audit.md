@@ -15,7 +15,7 @@ locale: es
 subcategoryId: 2TNXiKzLZOPxjMTyGiEeJu
 ---
 
-A continuación, verás la lista de posibles eventos disponibles en [Audit] (https://help.vtex.com/es/tutorial/audit--5RXf9WJ5YLFBcS8q8KcxTA) para cada aplicación.
+A continuación, verás la lista de posibles eventos disponibles en [Audit](https://help.vtex.com/es/tutorial/audit--5RXf9WJ5YLFBcS8q8KcxTA) para cada aplicación.
 
 * [OMS](#oms)
 * [Pedidos](#pedidos)

@@ -1,5 +1,5 @@
 ---
-title: 'Enabling Local stock sale in VTEX Sales App'
+title: "Enabling Local stock sale in VTEX Sales App"
 id: 54eQN4rOH5yBYPGG2w8v9q
 status: PUBLISHED
 createdAt: 2023-05-19T17:30:02.393Z
@@ -55,8 +55,8 @@ After you have the pickup point, you need to indicate which [warehouse](/en/tuto
 
 It is a good practice to check the items available in the [inventory](/en/tutorial/gerenciar-itens-em-estoque--tutorials_139) and update it after activating the warehouse and pickup point. You can check the store inventory in two ways:
 
-* **Manually**: Through the **[Inventory management](/en/tutorial/gerenciar-itens-em-estoque--tutorials_139)** page in the VTEX Admin of the franchise account.
-* **ERP integration**: Through the [ERP integration](https://developers.vtex.com/docs/guides/erp-integration-guide) by adding the franchise accounts to your integration so the [warehouse is automatically updated](https://developers.vtex.com/docs/guides/erp-integration-import-inventory#update-sku-inventory) by the ERP.
+- **Manually**: Through the **[Inventory management](/en/tutorial/gerenciar-itens-em-estoque--tutorials_139)** page in the VTEX Admin of the franchise account.
+- **ERP integration**: Through the [ERP integration](https://developers.vtex.com/docs/guides/erp-integration-guide) by adding the franchise accounts to your integration so the [warehouse is automatically updated](https://developers.vtex.com/docs/guides/erp-integration-import-inventory#update-sku-inventory) by the ERP.
 
 If all your products are listed without quantity, you will need to add the quantities of this store manually or via API.
 
@@ -82,13 +82,15 @@ You will need to select a sales associate from the store where you want to test 
 You can also enable On Hands to ignore stock quantity and force item availability without having to enable unlimited inventory. To do this, follow the instructions below:
 
 1. Go to the Sales App technical settings using the URL below. Substitute `main_account` with the name of the main account of your store in the VTEX Admin:
-```https://{main_account}.myvtex.com/admin/portal/#/sites```
+   ```
+   https://{main_account}.myvtex.com/admin/portal/#/sites
+   ```
 2. Click the gear <i class="fas fa-cog"></i> button to edit.
 3. Select the **Code** tab.
 4. In the side tab, select the `checkout-instore-custom-js` file.
-![instore-custom-js-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/unified-commerce/vtex-sales-app/enabling-local-stock-sale-in-vtex-sales-app_2.png)
+   ![instore-custom-js-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/unified-commerce/vtex-sales-app/enabling-local-stock-sale-in-vtex-sales-app_2.png)
 5. In the `window.INSTORE_CONFIG` key, add the `sellWithoutStockInHands: true` flag.
-![sellWithoutStockInHands-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/unified-commerce/vtex-sales-app/enabling-local-stock-sale-in-vtex-sales-app_3.png)
+   ![sellWithoutStockInHands-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/unified-commerce/vtex-sales-app/enabling-local-stock-sale-in-vtex-sales-app_3.png)
 6. Click <i class="fas fa-save"></i> `Save`.
 
 ## Enabling mixed cart sales (optional)
@@ -98,4 +100,3 @@ A mixed cart sale is a sale that contains items that the customer is going to pi
 ## Integrating the point of sale
 
 Lastly, to complete the sale of an on-hand item, a tax receipt must be issued. The sales associate might want to update the local inventory of the point of sale with the information from this sale. To solve this, you need to integrate your point of sales. You can learn more in our [Integrating Local stock sale](https://developers.vtex.com/docs/guides/integration-vtex-sales-app-local-stock-sale) article.
-

@@ -15,4 +15,4 @@ locale: es
 subcategoryId: 4LwIt8RFNUOMKhMZ2C6hAK
 ---
 
-> ℹ️ This content is only available in Portuguese. [Click here](/pt/tutorial/gerente-de-ferias-indeva--KkJfTwISKAel1dJTBLHGK) to access it.
+> ℹ️ This content is only available in Portuguese. [Click here](/pt/tutorial/gerente-de-ferias-indeva--KkJfTwISKAel1dJTBLHGK). Haga clic aquí para acceder.
