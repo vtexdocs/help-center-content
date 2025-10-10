@@ -3,13 +3,13 @@ title: 'Importação e exportação de especificações de SKUs via planilha (Be
 id: 5EAioeC33wHpIxKHaGQzbV
 status: PUBLISHED
 createdAt: 2025-09-26T15:29:35.015Z
-updatedAt: 2025-09-26T16:35:10.016Z
-publishedAt: 2025-09-26T16:35:10.016Z
+updatedAt: 2025-10-03T22:19:04.607Z
+publishedAt: 2025-10-03T22:19:04.607Z
 firstPublishedAt: 2025-09-26T16:15:50.391Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 5l9ZQjiivHzkEVjafL4O6v
-slugEN: import-and-export-sku-specifications-via-spreadsheet-beta
+slugEN: importing-and-exporting-sku-specifications-using-a-spreadsheet-beta
 legacySlug: importacao-e-exportacao-de-especificacoes-de-skus-via-planilha-beta
 locale: pt
 subcategoryId: 6XPsLadoT3moZ7eTduCg3c

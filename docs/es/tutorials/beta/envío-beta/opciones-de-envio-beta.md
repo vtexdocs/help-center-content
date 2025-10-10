@@ -3,8 +3,8 @@ title: 'Opciones de envío (Beta)'
 id: 1fRDJFcHCtpTnk7GNyaRDY
 status: PUBLISHED
 createdAt: 2025-08-22T17:00:47.486Z
-updatedAt: 2025-08-22T20:35:40.852Z
-publishedAt: 2025-08-22T20:35:40.852Z
+updatedAt: 2025-10-08T20:13:21.470Z
+publishedAt: 2025-10-08T20:13:21.470Z
 firstPublishedAt: 2025-08-22T20:33:50.257Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -56,6 +56,9 @@ Para crear una nueva opción de envío sigue los pasos a continuación.
    - **Método de envío:** selecciona el tipo de método de envío (**Envío**, **Entrega programada**, **Recogida**, **Recogida programada**).
    - **Nombre de la opción:** ingresa el nombre de la opción que se mostrará al cliente durante la compra.
    - **Usar opción como filtro en la vitrina de la tienda**: marca la casilla para permitir que los clientes utilicen esta opción para filtrar los productos con los [filtros de Intelligent Search](/es/tutorial/filtros--k24mQQa9SjmhNWSwdqIMB).
+
+   > ⚠️ Los filtros de métodos de envío solo se mostrarán en la lista de productos para el cliente si esta opción está activada. Si está desactivada, los filtros no se mostrarán.
+
    - **Formato de la meta**: selecciona la unidad de tiempo (**Días** u **Horas**) que se debe utilizar para la entrega.
    - **Condición**: define la condición (**Listo en**, **En hasta**, **Entre**) del plazo de la opción de envío.
    - **Meta mínima:** cantidad mínima de horas o días para el plazo de la opción de envío.

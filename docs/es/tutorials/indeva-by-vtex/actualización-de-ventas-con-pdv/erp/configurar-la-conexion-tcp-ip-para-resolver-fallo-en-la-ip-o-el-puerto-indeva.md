@@ -15,4 +15,4 @@ locale: es
 subcategoryId: 2TvvbKyvcItxWiM018erXt
 ---
 
-> ℹ️ This content is only available in Portuguese. [Click here](/pt/tutorial/configurar-conexao-tcp-ip-para-resolver-falha-no-ip-ou-porta-indeva--3He6MxaQ9xKI4fiZ4t5TqE). Haga clic aquí para acceder.
+> ℹ️ Este contenido está disponible solo en [portugués](/pt/tutorial/configurar-conexao-tcp-ip-para-resolver-falha-no-ip-ou-porta-indeva--3He6MxaQ9xKI4fiZ4t5TqE). Haga clic aquí para acceder.

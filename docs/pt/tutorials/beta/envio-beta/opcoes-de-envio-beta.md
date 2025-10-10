@@ -3,8 +3,8 @@ title: 'Opções de envio (Beta)'
 id: 1fRDJFcHCtpTnk7GNyaRDY
 status: PUBLISHED
 createdAt: 2025-08-22T17:00:47.486Z
-updatedAt: 2025-08-22T20:35:40.852Z
-publishedAt: 2025-08-22T20:35:40.852Z
+updatedAt: 2025-10-08T20:13:21.470Z
+publishedAt: 2025-10-08T20:13:21.470Z
 firstPublishedAt: 2025-08-22T20:33:50.257Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -56,6 +56,9 @@ Para criar uma nova opção de envio, siga os passos abaixo.
    - **Método de envio:** selecione o tipo de método de envio (**Entrega**, **Entrega agendada**, **Retirada**, **Retirada agendada**).
    - **Nome da opção:** digite o nome da opção que será visualizada pelo cliente durante a compra.
    - **Usar opção como filtro na vitrine da loja**: ative para permitir que os clientes filtrem os produtos por esta opção de envio por meio dos [filtros do Intelligent Search](/pt/tutorial/filtros--k24mQQa9SjmhNWSwdqIMB).
+
+   > ⚠️ Os filtros de métodos de envio somente serão exibidos na listagem de produtos ao cliente se esta opção estiver ativada. Caso desativada, os filtros não serão exibidos.
+
    - **Formato de prazo**: selecione qual medida de tempo (**Dias** ou **Horas**) deve ser utilizada para a entrega.
    - **Condição**: define qual a condição (**A partir de**, **Em até**, **Entre**) para o prazo da opção de envio.
    - **Prazo mínimo:** quantidade mínima de horas ou dias para a opção de envio.

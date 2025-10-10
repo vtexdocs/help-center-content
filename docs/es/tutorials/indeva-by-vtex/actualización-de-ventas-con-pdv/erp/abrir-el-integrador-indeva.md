@@ -15,4 +15,4 @@ locale: es
 subcategoryId: 2TvvbKyvcItxWiM018erXt
 ---
 
-> ℹ️ This content is only available in Portuguese. [Click here](/pt/tutorial/abrir-o-integrador-indeva--1ONPZkWXlWCMy8394Q3P8x). Haga clic aquí para acceder.
+> ℹ️ Este contenido está disponible solo en [portugués](/pt/tutorial/abrir-o-integrador-indeva--1ONPZkWXlWCMy8394Q3P8x). Haga clic aquí para acceder.

@@ -13,7 +13,6 @@ slugEN: campaigns-overview-indeva
 legacySlug: visao-geral-de-campanhas-indeva
 locale: pt
 subcategoryId: 2basvwwwR3pbjG1BxlHqrc
-order: 1
 ---
 
 O recurso de **Campanhas** é usado para incentivar a performance em indicadores específicos da loja, como:  

@@ -39,6 +39,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Mercado Libre Holidays",
+                    "es": "Mercado Libre Feriados",
+                    "pt": "Mercado Livre Feriados"
+                  },
+                  "slug": {
+                    "en": "2025-10-02-mercado-libre-holidays-announcement-en",
+                    "es": "2025-10-02-mercado-libre-feriados-announcement-es",
+                    "pt": "2025-10-02-mercado-livre-feriados-announcement-pt"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Mercado Libre: Flex and Turbo shipping",
                     "es": "Mercado Libre: envíos Flex y Turbo",
                     "pt": "Mercado Livre: envios Flex e Turbo"
@@ -14344,24 +14359,9 @@
                 },
                 {
                   "name": {
-                    "en": "2. Installation and setup",
-                    "es": "2. Instalación y configuración",
-                    "pt": "2. Instalação e configuração"
-                  },
-                  "slug": {
-                    "en": "installation-and-setup",
-                    "es": "instalacion-y-configuracion",
-                    "pt": "instalacao-e-configuracao"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "3. Create product feed",
-                    "es": "3. Crear feed de productos",
-                    "pt": "3. Criar feed de produtos"
+                    "en": "2. Create product feed",
+                    "es": "2. Crear feed de productos",
+                    "pt": "2. Criar feed de produtos"
                   },
                   "slug": {
                     "en": "create-product-feed",
@@ -14374,9 +14374,9 @@
                 },
                 {
                   "name": {
-                    "en": "4. Sales channel mapping",
-                    "es": "4. Mapeo de canales de venta",
-                    "pt": "4. Mapeamento de canais de venda"
+                    "en": "3. Sales channel mapping",
+                    "es": "3. Mapeo de canales de venta",
+                    "pt": "3. Mapeamento de canais de venda"
                   },
                   "slug": {
                     "en": "sales-channel-mapping",
@@ -14389,9 +14389,9 @@
                 },
                 {
                   "name": {
-                    "en": "5. Specifications mapping",
-                    "es": "5. Mapeo de especificaciones",
-                    "pt": "5. Mapeamento de especificações"
+                    "en": "4. Specifications mapping",
+                    "es": "4. Mapeo de especificaciones",
+                    "pt": "4. Mapeamento de especificações"
                   },
                   "slug": {
                     "en": "specifications-mapping",
@@ -14404,9 +14404,9 @@
                 },
                 {
                   "name": {
-                    "en": "6. Update and import product feed",
-                    "es": "6. Actualizar y importar feed de productos",
-                    "pt": "6. Atualizar e importar feed de produtos"
+                    "en": "5. Update and import product feed",
+                    "es": "5. Actualizar y importar feed de productos",
+                    "pt": "5. Atualizar e importar feed de produtos"
                   },
                   "slug": {
                     "en": "update-and-import-product-feed",
@@ -14419,14 +14419,45 @@
                 },
                 {
                   "name": {
-                    "en": "7. Import orders from Lengow",
-                    "es": "7. Importar pedidos de Lengow",
-                    "pt": "7. Importar pedidos da Lengow"
+                    "en": "6. Import orders from Lengow",
+                    "es": "6. Importar pedidos de Lengow",
+                    "pt": "6. Importar pedidos da Lengow"
                   },
                   "slug": {
                     "en": "import-orders-from-lengow",
                     "es": "importar-pedidos-de-lengow",
                     "pt": "importar-pedidos-da-lengow"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
+                "en": "Integración de Lengow",
+                "es": "Integración de Lengow",
+                "pt": "Integración de Lengow"
+              },
+              "slug": {
+                "en": "integracion-de-lengow",
+                "es": "integracion-de-lengow",
+                "pt": "integracion-de-lengow"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "es": "1. Instalación y configuración",
+                    "en": "1. Instalación y configuración",
+                    "pt": "1. Instalación y configuración"
+                  },
+                  "slug": {
+                    "es": "instalacion-y-configuracion",
+                    "en": "",
+                    "pt": ""
                   },
                   "origin": "",
                   "type": "markdown",
@@ -17399,12 +17430,12 @@
                   "name": {
                     "en": "Import and export product specifications via spreadsheet (Beta)",
                     "es": "Importación y exportación de especificaciones de producto mediante plantilla (Beta)",
-                    "pt": "Importação e exportação de especificações de produtos via planilha (Beta)"
+                    "pt": "Import and export product specifications via spreadsheet (Beta)"
                   },
                   "slug": {
                     "en": "import-and-export-product-specifications-via-spreadsheet-beta",
                     "es": "importacion-y-exportacion-de-especificaciones-de-producto-mediante-plantilla",
-                    "pt": "importacao-e-exportacao-de-especificacoes-de-produtos-via-planilha-beta"
+                    "pt": ""
                   },
                   "origin": "",
                   "type": "markdown",
@@ -17414,12 +17445,12 @@
                   "name": {
                     "en": "Import and export SKU specifications via spreadsheet (Beta)",
                     "es": "Importación y exportación de especificaciones de SKU mediante plantilla (Beta)",
-                    "pt": "Importação e exportação de especificações de SKUs via planilha (Beta)"
+                    "pt": "Import and export SKU specifications via spreadsheet (Beta)"
                   },
                   "slug": {
                     "en": "import-and-export-sku-specifications-via-spreadsheet-beta",
                     "es": "importacion-y-exportacion-de-especificaciones-de-sku-mediante-plantilla-beta",
-                    "pt": "importacao-e-exportacao-de-especificacoes-de-skus-via-planilha-beta"
+                    "pt": ""
                   },
                   "origin": "",
                   "type": "markdown",
@@ -17435,6 +17466,21 @@
                     "en": "importing-and-exporting-product-and-sku-images-using-a-spreadsheet-beta",
                     "es": "importar-y-exportar-imagenes-de-productos-y-skus-mediante-plantilla-beta",
                     "pt": "importacao-e-exportacao-de-imagens-de-produtos-e-skus-via-planilha-beta"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Importing and exporting SKU specifications using a spreadsheet (Beta)",
+                    "es": "Importar y exportar especificaciones de SKUs mediante plantilla (Beta)",
+                    "pt": "Importação e exportação de especificações de SKUs via planilha (Beta)"
+                  },
+                  "slug": {
+                    "en": "importing-and-exporting-sku-specifications-using-a-spreadsheet-beta",
+                    "es": "importar-y-exportar-especificaciones-de-skus-mediante-plantilla-beta",
+                    "pt": "importacao-e-exportacao-de-especificacoes-de-skus-via-planilha-beta"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -21311,37 +21357,6 @@
             },
             {
               "name": {
-                "en": "Feedback do vendedor",
-                "es": "Feedback do vendedor",
-                "pt": "Feedback do vendedor"
-              },
-              "slug": {
-                "en": "feedback-do-vendedor",
-                "es": "feedback-do-vendedor",
-                "pt": "feedback-do-vendedor"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "pt": "Cadastrar feedback de gerente",
-                    "en": "Cadastrar feedback de gerente",
-                    "es": "Cadastrar feedback de gerente"
-                  },
-                  "slug": {
-                    "pt": "cadastrar-feedback-de-gerente-indeva",
-                    "en": "",
-                    "es": ""
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
                 "en": "Goals",
                 "es": "Metas",
                 "pt": "Metas"
@@ -21492,6 +21507,36 @@
                 },
                 {
                   "name": {
+                    "en": "Define goal distribution by business days",
+                    "es": "Definir distribución de metas por días hábiles",
+                    "pt": "Definir distribuição de metas por dias úteis"
+                  },
+                  "slug": {
+                    "en": "define-goal-distribution-business-days-indeva",
+                    "es": "definir-distribucion-metas-dias-habiles-indeva",
+                    "pt": "definir-distribuicao-metas-dias-uteis-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Define goal distribution format",
+                    "es": "Definir formato de distribución de metas",
+                    "pt": "Definir formato de distribuição das metas"
+                  },
+                  "slug": {
+                    "en": "define-goal-distribution-format-indeva",
+                    "es": "definir-formato-distribucion-metas-indeva",
+                    "pt": "definir-formato-distribuicao-metas-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Division of the goal cycle into periods",
                     "es": "División del ciclo de la meta en períodos",
                     "pt": "Divisão do ciclo da meta em períodos"
@@ -21560,6 +21605,36 @@
                     "en": "goal-time-cycle-definition-indeva",
                     "es": "definicion-del-ciclo-temporal-de-la-meta-indeva",
                     "pt": "definicao-do-ciclo-temporal-da-meta-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Register days off and holidays in the goal cycle",
+                    "es": "Registrar días libres y feriados en el ciclo de metas",
+                    "pt": "Cadastrar folgas e feriados no ciclo de meta"
+                  },
+                  "slug": {
+                    "en": "register-days-off-holidays-goal-cycle-indeva",
+                    "es": "registrar-dias-libres-feriados-ciclo-metas-indeva",
+                    "pt": "cadastrar-folgas-feriados-ciclo-meta-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Review and finalize goal registration",
+                    "es": "Revisar y finalizar el registro de metas",
+                    "pt": "Revisar e finalizar o cadastro de metas"
+                  },
+                  "slug": {
+                    "en": "review-finalize-goal-registration-indeva",
+                    "es": "revisar-finalizar-registro-metas-indeva",
+                    "pt": "revisar-finalizar-cadastro-metas-indeva"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -24955,21 +25030,6 @@
                     "en": "creating-merchandising-rules-visual-editor",
                     "es": "crear-regla-de-merchandising-editor-visual",
                     "pt": "criar-regra-de-merchandising-editor-visual"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Merchandising rule conditions",
-                    "es": "Condiciones de las reglas de merchandising",
-                    "pt": "Condições de Regras de merchandising"
-                  },
-                  "slug": {
-                    "en": "merchandising-rule-conditions",
-                    "es": "condiciones-de-las-reglas-de-merchandising",
-                    "pt": "condicoes-de-regras-de-merchandising"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -44404,6 +44464,21 @@
             },
             {
               "name": {
+                "en": "Checkout shows payment methods without eligible installment options",
+                "es": "La caja muestra métodos de pago sin opciones de pago a plazos elegibles",
+                "pt": "O checkout mostra métodos de pagamento sem opções de parcelamento qualificadas"
+              },
+              "slug": {
+                "en": "checkout-shows-payment-methods-without-eligible-installment-options",
+                "es": "la-caja-muestra-metodos-de-pago-sin-opciones-de-pago-a-plazos-elegibles",
+                "pt": "o-checkout-mostra-metodos-de-pagamento-sem-opcoes-de-parcelamento-qualificadas"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Checkout Simulation returns value 0 in 'slas.tax' field for Shipping Percentage taxes",
                 "es": "La simulación de pago devuelve el valor 0 en el campo 'slas.tax' para los impuestos del porcentaje de envío.",
                 "pt": "A simulação de checkout retorna o valor 0 no campo 'slas.tax' para impostos de porcentagem de frete"
@@ -51311,6 +51386,21 @@
             },
             {
               "name": {
+                "en": "Search results may not display products from the synonyms",
+                "es": "Es posible que los resultados de la búsqueda no muestren los productos de los sinónimos",
+                "pt": "Os resultados da pesquisa podem não exibir produtos dos sinônimos"
+              },
+              "slug": {
+                "en": "search-results-may-not-display-products-from-the-synonyms",
+                "es": "es-posible-que-los-resultados-de-la-busqueda-no-muestren-los-productos-de-los-sinonimos",
+                "pt": "os-resultados-da-pesquisa-podem-nao-exibir-produtos-dos-sinonimos"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Searches with % at the end not working correctly",
                 "es": "Las búsquedas con % al final no funcionan correctamente",
                 "pt": "Pesquisas com % no final não funcionando corretamente"
@@ -54360,6 +54450,21 @@
             },
             {
               "name": {
+                "en": "Seller inactivation in new Seller Register UI does not trigger product reindexing (Marketplace sync gap)",
+                "es": "La desactivación de vendedores en la nueva interfaz de registro de vendedores no activa la reindexación de productos (brecha de sincronización de Marketplace).",
+                "pt": "A inativação do vendedor na nova UI de registro do vendedor não aciona a reindexação do produto (lacuna de sincronização do Marketplace)"
+              },
+              "slug": {
+                "en": "seller-inactivation-in-new-seller-register-ui-does-not-trigger-product-reindexing-marketplace-sync-gap",
+                "es": "la-desactivacion-de-vendedores-en-la-nueva-interfaz-de-registro-de-vendedores-no-activa-la-reindexacion-de-productos-brecha-de-sincronizacion-de-marketplace",
+                "pt": "a-inativacao-do-vendedor-na-nova-ui-de-registro-do-vendedor-nao-aciona-a-reindexacao-do-produto-lacuna-de-sincronizacao-do-marketplace"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Seller Logo not being saved as an URL",
                 "es": "El logotipo del vendedor no se guarda como URL",
                 "pt": "O logotipo do vendedor não está sendo salvo como um URL"
@@ -54368,21 +54473,6 @@
                 "en": "seller-logo-not-being-saved-as-an-url",
                 "es": "el-logotipo-del-vendedor-no-se-guarda-como-url",
                 "pt": "o-logotipo-do-vendedor-nao-esta-sendo-salvo-como-um-url"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Seller register UI doesn't send products to reindex when inactivating a seller",
-                "es": "La interfaz de usuario de registro de vendedores no envía los productos a reindexar al desactivar un vendedor.",
-                "pt": "A interface de usuário de registro do vendedor não envia produtos para reindexação ao inativar um vendedor"
-              },
-              "slug": {
-                "en": "seller-register-ui-doesnt-send-products-to-reindex-when-inactivating-a-seller",
-                "es": "la-interfaz-de-usuario-de-registro-de-vendedores-no-envia-los-productos-a-reindexar-al-desactivar-un-vendedor",
-                "pt": "a-interface-de-usuario-de-registro-do-vendedor-nao-envia-produtos-para-reindexacao-ao-inativar-um-vendedor"
               },
               "origin": "",
               "type": "markdown",
@@ -58656,6 +58746,21 @@
             },
             {
               "name": {
+                "en": "Terminal Connector loops instead of showing error when invalid terminal code is entered (Sales App POS)",
+                "es": "Terminal Connector entra en bucle en lugar de mostrar error cuando se introduce un código de terminal no válido (Sales App POS)",
+                "pt": "O Conector de Terminal faz um loop em vez de mostrar um erro quando um código de terminal inválido é inserido (Sales App POS)"
+              },
+              "slug": {
+                "en": "terminal-connector-loops-instead-of-showing-error-when-invalid-terminal-code-is-entered-sales-app-pos",
+                "es": "terminal-connector-entra-en-bucle-en-lugar-de-mostrar-error-cuando-se-introduce-un-codigo-de-terminal-no-valido-sales-app-pos",
+                "pt": "o-conector-de-terminal-faz-um-loop-em-vez-de-mostrar-um-erro-quando-um-codigo-de-terminal-invalido-e-inserido-sales-app-pos"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "The 'Save new card' option does not work for asynchronous Payment Providers",
                 "es": "La opción 'Guardar nueva tarjeta' no funciona para los proveedores de pago asíncronos.",
                 "pt": "A opção 'Salvar novo cartão' não funciona para provedores de pagamento assíncronos"
@@ -59001,6 +59106,21 @@
             },
             {
               "name": {
+                "en": "Transaction Stuck in Authorized Or Pending Authorization Status After Being Approved",
+                "es": "Transacción bloqueada en estado autorizado o pendiente de autorización después de haber sido aprobada",
+                "pt": "Transação bloqueada no status de autorização autorizada ou pendente após ser aprovada"
+              },
+              "slug": {
+                "en": "transaction-stuck-in-authorized-or-pending-authorization-status-after-being-approved",
+                "es": "transaccion-bloqueada-en-estado-autorizado-o-pendiente-de-autorizacion-despues-de-haber-sido-aprobada",
+                "pt": "transacao-bloqueada-no-status-de-autorizacao-autorizada-ou-pendente-apos-ser-aprovada"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Transaction stuck in canceling when one of the card is denied",
                 "es": "Transaction stuck in canceling when one of the card is denied",
                 "pt": "Transaction stuck in canceling when one of the card is denied"
@@ -59069,6 +59189,21 @@
                 "en": "transactions-made-with-payu-do-not-change-from-cancelling-status",
                 "es": "las-transacciones-realizadas-con-payu-no-cambian-de-estado-de-cancelacion",
                 "pt": "as-transacoes-feitas-com-payu-nao-mudam-do-status-de-cancelamento"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Transactions stuck in Authorized or Pending Authorization after approval",
+                "es": "Transacciones atascadas en Autorizado o Pendiente de autorización tras la aprobación",
+                "pt": "Transações presas em Autorizado ou Autorização pendente após a aprovação"
+              },
+              "slug": {
+                "en": "transactions-stuck-in-authorized-or-pending-authorization-after-approval",
+                "es": "transacciones-atascadas-en-autorizado-o-pendiente-de-autorizacion-tras-la-aprobacion",
+                "pt": "transacoes-presas-em-autorizado-ou-autorizacao-pendente-apos-a-aprovacao"
               },
               "origin": "",
               "type": "markdown",
@@ -59371,6 +59506,21 @@
                 "en": "absence-of-feedback-for-order-change-failures-in-pick-and-pack-communication-with-oms",
                 "es": "ausencia-de-retroalimentacion-por-fallos-en-el-cambio-de-pedido-en-pick-and-pack-comunicacion-con-oms",
                 "pt": "ausencia-de-feedback-para-falhas-na-alteracao-de-pedidos-no-pick-and-pack-comunicacao-com-o-oms"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Replace Items flow fails for split items in Pick and Pack (cannot complete replacement)",
+                "es": "El flujo Reemplazar Artículos falla para artículos divididos en Recoger y Embalar (no se puede completar el reemplazo).",
+                "pt": "O fluxo de substituição de itens falha para itens divididos no picking e embalagem (não é possível concluir a substituição)"
+              },
+              "slug": {
+                "en": "replace-items-flow-fails-for-split-items-in-pick-and-pack-cannot-complete-replacement",
+                "es": "el-flujo-reemplazar-articulos-falla-para-articulos-divididos-en-recoger-y-embalar-no-se-puede-completar-el-reemplazo",
+                "pt": "o-fluxo-de-substituicao-de-itens-falha-para-itens-divididos-no-picking-e-embalagem-nao-e-possivel-concluir-a-substituicao"
               },
               "origin": "",
               "type": "markdown",
@@ -59717,6 +59867,21 @@
                 "en": "manual-sorting-of-collections-doesnt-work-as-expected",
                 "es": "la-clasificacion-manual-de-colecciones-no-funciona-como-se-esperaba",
                 "pt": "a-classificacao-manual-de-colecoes-nao-funciona-como-esperado"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "O=OrderByBestDiscount brings the wrong order",
+                "es": "O=OrderByBestDiscount trae el pedido equivocado",
+                "pt": "O=OrderByBestDiscount traz o pedido errado"
+              },
+              "slug": {
+                "en": "oorderbybestdiscount-brings-the-wrong-order",
+                "es": "oorderbybestdiscount-trae-el-pedido-equivocado",
+                "pt": "oorderbybestdiscount-traz-o-pedido-errado"
               },
               "origin": "",
               "type": "markdown",

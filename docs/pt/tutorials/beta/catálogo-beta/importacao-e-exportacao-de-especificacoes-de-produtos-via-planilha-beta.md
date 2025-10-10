@@ -1,15 +1,15 @@
 ---
 title: 'Importação e exportação de especificações de produtos via planilha (Beta)'
 id: jQcmbocCb7kjHOr1JSWIL
-status: PUBLISHED
+status: CHANGED
 createdAt: 2025-09-26T15:11:47.384Z
-updatedAt: 2025-09-26T16:39:25.024Z
-publishedAt: 2025-09-26T16:39:25.024Z
+updatedAt: 2025-10-03T22:11:16.259Z
+publishedAt: 2025-10-03T21:43:51.564Z
 firstPublishedAt: 2025-09-26T16:15:47.785Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 5l9ZQjiivHzkEVjafL4O6v
-slugEN: import-and-export-product-specifications-via-spreadsheet-beta
+slugEN: importing-and-exporting-product-specifications-using-a-spreadsheet-beta
 legacySlug: importacao-e-exportacao-de-especificacoes-de-produtos-via-planilha-beta
 locale: pt
 subcategoryId: 6XPsLadoT3moZ7eTduCg3c

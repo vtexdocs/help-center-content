@@ -1,7 +1,7 @@
 ---
 title: 'Installation and setup'
 id: 3lxT3FsW1zZIewGSEiqA7s
-status: PUBLISHED
+status: CHANGED
 createdAt: 2020-06-30T00:28:02.789Z
 updatedAt: 2025-09-26T20:28:08.379Z
 publishedAt: 2020-08-17T22:19:28.791Z
@@ -53,25 +53,15 @@ To fill out the **Prefix to imported orders - Affilitiate ID** field you should 
 
 You can find the information needed to fill out the **Lengow Account**, **Lengow API KEY** and **Lengow API Secret** fields in the [A.P.I settings](https://my.lengow.io/company/api) for your Lengow account.
 
-<table width="100%">
-  <tr>
-   <td>
-    <img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/marketplace/lengow-integration/installation-and-setup_3.png" style="display: block; margin-left: auto; margin-right: auto;" alt="Lengow Account ID" title="Lengow Account ID">
-   </td>
-  </tr>
-  <tr>
-   <td style="text-align: center;">
-     <em>
-       Lengow Account ID = Account ID
-     </em>
-   </td>
-  </tr>
-</table>
+|                                                                                                                     |
+|---------------------------------------------------------------------------------------------------------------------|
+| ![Lengow Account ID](https://images.ctfassets.net/alneenqid6w5/5RhkmJ5MSU7IAqKeaeIHOt/1a047d143644b5ede26e54ff0248d609/image10.png "Lengow Account ID") |
+| *Lengow Account ID = Account ID*                                                                                    |
 
 <table width="100%">
   <tr>
    <td>
-    <img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/marketplace/lengow-integration/installation-and-setup_4.png" style="display: block; margin-left: auto; margin-right: auto;" alt="Lengow API KEY / Secret" title="Lengow API KEY / Secret">
+    <img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/marketplace/lengow-integration/installation-and-setup_3.png" style="display: block; margin-left: auto; margin-right: auto;" alt="Lengow API KEY / Secret" title="Lengow API KEY / Secret">
    </td>
   </tr>
   <tr>
