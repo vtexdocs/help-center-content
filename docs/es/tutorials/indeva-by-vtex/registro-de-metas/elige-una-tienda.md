@@ -15,4 +15,4 @@ locale: es
 subcategoryId: 4xaNvv2oZFUetmybJrtHUL
 ---
 
-> ℹ️ This content is only available in Portuguese. [Click here](/pt/tutorial/escolha-uma-loja--2FnZQbAlGxRfoTxJdQc0OQ). Haga clic aquí para acceder.
+> ℹ️ Este contenido está disponible solo en [portugués](/pt/tutorial/escolha-uma-loja--2FnZQbAlGxRfoTxJdQc0OQ). Haga clic aquí para acceder.

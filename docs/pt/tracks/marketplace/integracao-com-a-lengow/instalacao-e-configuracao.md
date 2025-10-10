@@ -1,7 +1,7 @@
 ---
 title: 'Instalação e configuração'
 id: 3lxT3FsW1zZIewGSEiqA7s
-status: PUBLISHED
+status: CHANGED
 createdAt: 2020-06-30T00:28:02.789Z
 updatedAt: 2025-09-26T20:28:08.379Z
 publishedAt: 2020-08-17T22:19:28.791Z

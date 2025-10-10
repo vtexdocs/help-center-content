@@ -19,7 +19,7 @@ subcategoryId: 7e9LaCixVcvflzgWkxlftd
 
 Para criar o canal, clique em **""Aplicações > Descobertas""** dentro do seu projeto:
 
-![](https://files.helpdocs.io/fjqoxc429v/articles/deao4urhfi/1728477549682/image.png)
+![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integra%C3%A7%C3%B5es/como-criar-um-canal-no-viber_1.png)
 
 Logo após, clique no botão de adicionar e uma janela de confirmação será aberta.
 

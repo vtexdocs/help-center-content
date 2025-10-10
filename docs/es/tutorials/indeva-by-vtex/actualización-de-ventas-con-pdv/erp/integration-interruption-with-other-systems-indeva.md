@@ -15,4 +15,4 @@ locale: es
 subcategoryId: 2TvvbKyvcItxWiM018erXt
 ---
 
-> ℹ️ This content is only available in Portuguese. [Click here](/pt/tutorial/interrupcao-na-integracao-com-outros-sistemas-indeva--53ga7DATVMpOYpSLFJRPwW). Haga clic aquí para acceder.
+> ℹ️ Este contenido está disponible solo en [portugués](/pt/tutorial/interrupcao-na-integracao-com-outros-sistemas-indeva--53ga7DATVMpOYpSLFJRPwW). Haga clic aquí para acceder.

@@ -1,0 +1,80 @@
+---
+title: 'Importar y exportar especificaciones de SKUs mediante plantilla (Beta)'
+id: 5EAioeC33wHpIxKHaGQzbV
+status: PUBLISHED
+createdAt: 2025-09-26T15:29:35.015Z
+updatedAt: 2025-10-03T22:19:04.607Z
+publishedAt: 2025-10-03T22:19:04.607Z
+firstPublishedAt: 2025-09-26T16:15:50.391Z
+contentType: tutorial
+productTeam: Marketing & Merchandising
+author: 5l9ZQjiivHzkEVjafL4O6v
+slugEN: importing-and-exporting-sku-specifications-using-a-spreadsheet-beta
+legacySlug: importacion-y-exportacion-de-especificaciones-de-sku-mediante-plantilla-beta
+locale: es
+subcategoryId: 6XPsLadoT3moZ7eTduCg3c
+---
+
+> ℹ️ Esta funcionalidad se encuentra en fase beta, lo que significa que estamos trabajando para optimizarla. Si tienes alguna duda, ponte en contacto con nuestro [Soporte](https://help.vtex.com/es/support).
+
+En el Admin VTEX puedes gestionar la importación y exportación de especificaciones de SKUs utilizando una plantilla, como se indica en las secciones a continuación:
+
+- [Importar especificaciones de SKUs mediante plantilla](#importar-especificaciones-de-skus-mediante-plantilla)
+- [Exportar especificaciones de SKUs mediante plantilla](#exportar-especificaciones-de-skus-mediante-plantilla)
+- [Campos de la plantilla de especificaciones de SKUs](#campos-de-la-plantilla-de-especificaciones-de-skus)
+
+## Importar especificaciones de SKUs mediante plantilla
+
+Para importar especificaciones de SKUs a partir de una plantilla sigue los pasos a continuación:
+
+1. En el Admin VTEX, accede a **Catálogo > Productos y SKUs** o ingresa [Productos y SKUs](/es/tutorial/produtos-e-skus--2ig7TmROlirWirZjFWZ3By) en la barra de búsqueda en la parte superior de la página.
+2. En la parte superior de la página, haz clic en `Importar`.
+3. Haz clic en `Especificaciones de SKU`.
+4. Agrega una plantilla con extensión `.xls` o `.xlsx`. Puedes arrastrar el archivo y soltarlo en el área indicada, o hacer clic en la ventana modal y seleccionar el archivo.
+
+  > ⚠️ Para obtener un modelo de la plantilla, [exporta las especificaciones de SKUs](#exportar-especificaciones-de-skus-mediante-plantilla).
+
+5. Cuando el archivo termine de cargarse, haz clic en `Importar`.
+
+  > ❗ El tiempo de importación dependerá del volumen de información que se esté procesando. La operación seguirá en curso aunque navegues a otra página.
+
+Mientras la operación esté en curso, se mostrará un mensaje indicando que el archivo se está procesando. Al finalizar, se mostrará el mensaje "Especificaciones de SKUs importadas con éxito", y recibirás un email de confirmación.
+
+## Exportar especificaciones de SKUs mediante plantilla
+
+Para exportar un archivo `.xlsx` con información sobre especificaciones de SKUs sigue los pasos a continuación:
+
+> ℹ️ La información exportada corresponde a los campos presentados en la sección [Campos de la plantilla de especificaciones de SKUs](#campos-de-la-plantilla-de-especificaciones-de-skus).
+
+1. En el Admin VTEX, accede a **Catálogo > Productos y SKUs** o ingresa [Productos y SKUs](/es/tutorial/produtos-e-skus--2ig7TmROlirWirZjFWZ3By) en la barra de búsqueda en la parte superior de la página.
+2. (Opcional) Si deseas exportar especificaciones de SKUs de determinados ítems, [busca](/es/tutorial/productos-y-skus--2ig7TmROlirWirZjFWZ3By#buscar-productos) o [filtra](/es/tutorial/productos-y-skus--2ig7TmROlirWirZjFWZ3By#filtrar-productos) según tus preferencias. Este paso no es necesario para exportar las especificaciones de SKUs de todo tu catálogo.
+3. En la parte superior de la página, haz clic en `Exportar`.
+4. Haz clic en `Especificaciones de SKU`.
+
+Mientras la operación esté en curso, se mostrará un mensaje indicando que el archivo se está procesando. La operación seguirá en curso aunque salgas de la página. Puedes [hacer seguimiento del progreso de la exportación en la ventana modal](/es/tutorial/importacao-e-exportacao-de-produtos-e-skus-via-planilha-beta--5udKxWP1ZeBD7QB7Fy2BNl#acompanhar-janela-do-processo-de-exportacao) que se abre en la página.
+
+Al finalizar la exportación recibirás un email con un link para descargar el archivo. El plazo para realizar la descarga vía link es de 24 horas; después de este periodo el link expirará. También puedes descargar el archivo desde la ventana modal que se abre en la página.
+
+## Campos de la plantilla de especificaciones de SKUs
+
+La siguiente tabla muestra la descripción y el ejemplo de valor de los campos de la plantilla de importación de especificaciones de SKUs. Los campos obligatorios están marcados con un asterisco (*).
+
+| Campo | Descripción | Ejemplo |
+| :--- | :--- | :--- |
+| ID SKU* | Código numérico único que identifica el SKU. | 310119261 |
+| Nombre SKU | Nombre del SKU, que identifica la variación del producto. | M |
+| Código referencia SKU | Código de referencia único del SKU, creado para ayudar en la gestión del catálogo. Una vez creado, no se puede modificar desde la plantilla.Este campo es obligatorio a menos que se haya llenado el campo **EAN/UPC**. | camisa-color |
+| ID Marca | Código numérico que identifica la [marca](/es/tutorial/o-que-e-uma-marca--QU07yhHoaWcEYseEucOQW) del SKU. Esta información se puede encontrar en el Admin VTEX, en **Catálogo > Marcas**, o usando el endpoint [Get brand list](https://developers.vtex.com/docs/api-reference/catalog-api#get-/api/catalog_system/pvt/brand/list). | 2000003 |
+| Marca | Nombre de la [marca](/es/tutorial/o-que-e-uma-marca--QU07yhHoaWcEYseEucOQW) del SKU. Una vez llenado, este campo no puede editarse. | AOC |
+| ID Departamento | Código numérico que identifica la categoría de mayor nivel jerárquico del producto. | 1000014 |
+| Departamento | Nombre de la categoría de mayor nivel jerárquico del producto. | Ropa |
+| ID Categoría | Número identificador único de la categoría de menor nivel jerárquico del SKU. Esta información se puede encontrar en el Admin VTEX, en **Catálogo > Categorías**, o usando el endpoint [Get category tree](https://developers.vtex.com/docs/api-reference/catalog-api#get-/api/catalog_system/pub/category/tree/-categoryLevels-). | 1000014 |
+| Categoría | Nombre relacionado con la categoría de menor nivel jerárquico del SKU. | Blusas |
+| ID Campo | Código numérico que identifica el campo de especificación asociado a ese SKU. | 892 |
+| Nombre Campo | Nombre del campo de la especificación de SKU. | Color |
+| Nombre Tipo Campo | [Tipo de campo de la especificación de SKU](/es/tutorial/registrar-especificaciones-o-campos-de-sku--tutorials_119#tipos-de-campo-de-sku), que puede ser:<ul><li>Combo</li><li>Radio</li></ul>Si utilizas la versión beta de categorías, revisa los tipos de campo aceptados para [variaciones](/es/tutorial/crear-o-editar-categorias-atributos-y-variaciones-beta--1lzs3fHjM9N7CKFOxCCYQi#agregar-variaciones). | Radio |
+| ID Valor Campo | Código numérico que identifica el valor del campo. | 689 |
+| Nombre Valor Campo | Nombre del valor del campo. | Color |
+| Código Especificación | Código numérico que identifica la relación entre el campo y el SKU. | 397 |
+| Valor Especificación  | Valor asignado al campo de la especificación de SKU. Esta es la única información que se puede editar a través de la plantilla. | Azul |
+

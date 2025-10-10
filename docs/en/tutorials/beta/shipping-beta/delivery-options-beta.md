@@ -3,8 +3,8 @@ title: 'Delivery Options (Beta)'
 id: 1fRDJFcHCtpTnk7GNyaRDY
 status: PUBLISHED
 createdAt: 2025-08-22T17:00:47.486Z
-updatedAt: 2025-08-22T20:35:40.852Z
-publishedAt: 2025-08-22T20:35:40.852Z
+updatedAt: 2025-10-08T20:13:21.470Z
+publishedAt: 2025-10-08T20:13:21.470Z
 firstPublishedAt: 2025-08-22T20:33:50.257Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -56,6 +56,9 @@ To create a delivery option, follow the steps below:
     - **Shipping method:** Select the shipping method (**delivery**, **scheduled delivery**, **pickup**, **scheduled pickup**).
     - **Option name:** Enter the name of the option the customer will see when purchasing.
     - **Use option as a filter on the product listing page**: Enable this to allow customers to filter products by this delivery option using[ Intelligent Search filters](/en/tutorial/filters--k24mQQa9SjmhNWSwdqIMB).
+
+   > ⚠️ The shipping method filters will only be displayed in the product listing for the customer if this option is enabled. If disabled, the filters will not be displayed.
+
     - **Target format**: Select the time unit (**days** or **hours**) to be used for delivery.
     - **Condition**: Define the condition (**from**, **up to**, **between**) for the delivery option target.
     - **Minimum target:** Minimum number of hours or days for the delivery option time frame.
