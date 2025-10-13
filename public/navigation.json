@@ -69,6 +69,21 @@
                 },
                 {
                   "name": {
+                    "en": "Mercado Libre: Smart Pricing",
+                    "es": "Mercado Libre: Smart Pricing",
+                    "pt": "Mercado Livre: Precificação inteligente"
+                  },
+                  "slug": {
+                    "en": "2025-10-02-mercado-libre-smart-pricing-en",
+                    "es": "2025-10-02-mercado-libre-smart-pricing-es",
+                    "pt": "2025-10-02-mercado-livre-precificacao-inteligente"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Mercado Libre: Warehouse assignment",
                     "es": "Mercado Libre: asignación de almacén",
                     "pt": "Mercado Livre: Atribuição de estoque"
@@ -55736,6 +55751,21 @@
                 "en": "order-stuck-at-seller-status-cancellationrequestdeniedffm",
                 "es": "pedido-bloqueado-en-el-estado-del-vendedor-cancellationrequestdeniedffm",
                 "pt": "pedido-preso-no-status-de-vendedor-cancellationrequestdeniedffm"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Order stuck in on-order-completed-ffm (Fulfillment) or on-order-completed (Marketplace) even after successful creation (isCompleted: true)",
+                "es": "Pedido atascado en on-order-completed-ffm (Cumplimiento) o en on-order-completed (Mercado) incluso después de una creación correcta (isCompleted: true)",
+                "pt": "Pedido preso em on-order-completed-ffm (Fulfillment) ou on-order-completed (Marketplace) mesmo após a criação bem-sucedida (isCompleted: true)"
+              },
+              "slug": {
+                "en": "order-stuck-in-onordercompletedffm-fulfillment-or-onordercompleted-marketplace-even-after-successful-creation-iscompleted-true",
+                "es": "pedido-atascado-en-onordercompletedffm-cumplimiento-o-en-onordercompleted-mercado-incluso-despues-de-una-creacion-correcta-iscompleted-true",
+                "pt": "pedido-preso-em-onordercompletedffm-fulfillment-ou-onordercompleted-marketplace-mesmo-apos-a-criacao-bemsucedida-iscompleted-true"
               },
               "origin": "",
               "type": "markdown",

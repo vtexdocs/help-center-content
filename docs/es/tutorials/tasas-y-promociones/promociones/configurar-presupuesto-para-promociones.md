@@ -3,8 +3,8 @@ title: 'Configurar presupuesto para promociones'
 id: 3ZCbnELZdMNykXhqBYdFOa
 status: PUBLISHED
 createdAt: 2025-09-10T10:30:37.848Z
-updatedAt: 2025-09-10T11:49:30.645Z
-publishedAt: 2025-09-10T11:49:30.645Z
+updatedAt: 2025-10-13T13:56:04.974Z
+publishedAt: 2025-10-13T13:56:04.974Z
 firstPublishedAt: 2025-09-10T11:43:30.901Z
 contentType: tutorial
 productTeam: Others
@@ -14,6 +14,8 @@ legacySlug: configurar-presupuesto-para-promociones
 locale: es
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
+
+> ℹ️ Esta funcionalidad está en fase de pruebas (beta cerrada). Si estás interesado en participar, abre un ticket con el equipo de [ Soporte de VTEX ](https://help.vtex.com/es/support).
 
 El módulo Promociones del Admin VTEX permite establecer un presupuesto para limitar el total de descuentos concedidos en una promoción. Esta funcionalidad ayuda a controlar el gasto en beneficios, garantizando que los descuentos no superen un límite previamente definido.
 

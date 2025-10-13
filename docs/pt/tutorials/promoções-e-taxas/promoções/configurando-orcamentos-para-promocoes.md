@@ -3,8 +3,8 @@ title: 'Configurando orçamentos para promoções'
 id: 3ZCbnELZdMNykXhqBYdFOa
 status: PUBLISHED
 createdAt: 2025-09-10T10:30:37.848Z
-updatedAt: 2025-09-10T11:49:30.645Z
-publishedAt: 2025-09-10T11:49:30.645Z
+updatedAt: 2025-10-13T13:56:04.974Z
+publishedAt: 2025-10-13T13:56:04.974Z
 firstPublishedAt: 2025-09-10T11:43:30.901Z
 contentType: tutorial
 productTeam: Others
@@ -14,6 +14,8 @@ legacySlug: configurando-orcamentos-para-promocoes
 locale: pt
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
+
+> ℹ️ Esta funcionalidade está em fase de testes (closed beta). Caso tenha interesse em participar, abra um chamado com o time de [Suporte VTEX](https://vtexhelp.zendesk.com/auth/v2/login/signin?return_to=https%3A%2F%2Fsupport.vtex.com%2Fhc%2Fpt-br%2Frequests&theme=hc&locale=pt-br&brand_id=144968&auth_origin=144968%2Ctrue%2Ctrue).
 
 O módulo de Promoções do Admin VTEX permite configurar um orçamento para limitar o valor total de descontos concedidos em uma promoção. Essa funcionalidade ajuda a controlar os gastos com benefícios, garantindo que os descontos não ultrapassem um valor máximo previamente definido.
 
