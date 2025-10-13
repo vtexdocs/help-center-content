@@ -3,8 +3,8 @@ title: 'Configuring promotion budgets'
 id: 3ZCbnELZdMNykXhqBYdFOa
 status: PUBLISHED
 createdAt: 2025-09-10T10:30:37.848Z
-updatedAt: 2025-09-10T11:49:30.645Z
-publishedAt: 2025-09-10T11:49:30.645Z
+updatedAt: 2025-10-13T13:56:04.974Z
+publishedAt: 2025-10-13T13:56:04.974Z
 firstPublishedAt: 2025-09-10T11:43:30.901Z
 contentType: tutorial
 productTeam: Others
@@ -14,6 +14,8 @@ legacySlug: configuring-promotion-budgets
 locale: en
 subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 ---
+
+> ℹ️ This feature is in testing phase (closed beta). If you are interested in joining, please open a ticket with the [ VTEX Support team ](https://help.vtex.com/en/support).
 
 The Promotions module in the VTEX Admin allows you to configure a budget to limit the discounts in a promotion. This feature helps control benefit spending by ensuring that discounts don't exceed a predefined maximum amount.
 
