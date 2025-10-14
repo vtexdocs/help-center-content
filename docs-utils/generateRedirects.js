@@ -6,6 +6,7 @@ const csvFilePath = path.join(__dirname, '../redirects.csv'); // exported from h
 
 // Set to keep track of unique redirects
 const redirectsSet = new Set();
+let filesProcessed = 0;
 
 // Initial content for netlify.toml
 let netlifyTomlContent = `
@@ -40,8 +41,8 @@ to = "${to}"
     }
 }
 
-// Function to process each markdown file
-function processMarkdownFile(filePath) {
+// Function to process each markdown file for legacySlug redirects only
+function processMarkdownFileLegacySlug(filePath) {
     try {
         const content = fs.readFileSync(filePath, 'utf8');
         const { data } = matter(content);
@@ -49,11 +50,20 @@ function processMarkdownFile(filePath) {
         const relativePath = path.relative('docs', filePath);
         const parts = relativePath.split(path.sep);
         const locale = parts[0];
-        const localizedSlug = path.basename(filePath, '.md');
-        const idContentful = data.id;
+        let localizedSlug = path.basename(filePath, '.md');
         const legacySlug = data.legacySlug;
         let contentType = parts[1];
         let contentTypeNew = contentType;
+
+        // For announcements, strip the date prefix from the slug for comparison
+        if (contentType === 'announcements') {
+            // Remove date prefix (yyyy-mm-dd-) from the beginning of the slug
+            const datePattern = /^\d{4}-\d{2}-\d{2}-/;
+            if (datePattern.test(localizedSlug)) {
+                localizedSlug = localizedSlug.replace(datePattern, '');
+            }
+        }
+
 
         if (contentType === 'tutorials') {
             contentType = 'tutorial';
@@ -62,25 +72,20 @@ function processMarkdownFile(filePath) {
 
         if (contentType === 'tracks') {
             contentTypeNew = 'docs/' + contentType;
-            let trackSlug = data.trackSlugEN || data.trackSlugPT || data.trackSlugES;
-            let trackId = data.trackId;
-
-            addRedirect(`/${locale}/${contentType}/${trackSlug}--${trackId}/${idContentful}`, `/${locale}/${contentTypeNew}/${localizedSlug}`);
-            addRedirect(`/${contentType}/${trackSlug}--${trackId}/${idContentful}`, `/${locale}/${contentTypeNew}/${localizedSlug}`);
         } else if (contentType === 'troubleshooting') {
-            addRedirect(`/${locale}/tutorials/${localizedSlug}--${idContentful}`, `/${locale}/${contentTypeNew}/${localizedSlug}`);
-            addRedirect(`/${locale}/tutorials/--${idContentful}`, `/${locale}/${contentTypeNew}/${localizedSlug}`);
-            addRedirect(`/tutorials/--${idContentful}`, `/en/${contentTypeNew}/${localizedSlug}`);
-            addRedirect(`/${locale}/tutorials/${localizedSlug}`, `/${locale}/${contentTypeNew}/${localizedSlug}`);
-            addRedirect(`/tutorials/${localizedSlug}`, `/${locale}/${contentTypeNew}/${localizedSlug}`);
-            addRedirect(`/tutorials/${legacySlug}`, `/${locale}/${contentTypeNew}/${localizedSlug}`);
+            contentTypeNew = 'docs/troubleshooting';
         } else {
-            addRedirect(`/${locale}/${contentType}/${localizedSlug}--${idContentful}`, `/${locale}/${contentTypeNew}/${localizedSlug}`);
-            addRedirect(`/${locale}/${contentType}/--${idContentful}`, `/${locale}/${contentTypeNew}/${localizedSlug}`);
-            addRedirect(`/${contentType}/--${idContentful}`, `/en/${contentTypeNew}/${localizedSlug}`);
-            addRedirect(`/${locale}/${contentType}/${localizedSlug}`, `/${locale}/${contentTypeNew}/${localizedSlug}`);
-            addRedirect(`/${contentType}/${localizedSlug}`, `/${locale}/${contentTypeNew}/${localizedSlug}`);
-            addRedirect(`/${contentType}/${legacySlug}`, `/${locale}/${contentTypeNew}/${localizedSlug}`);
+            contentTypeNew = 'docs/' + contentType;
+        }
+
+        // Only add legacySlug redirects if the legacy slug is different from the current slug
+        // and the legacySlug is not undefined or the string "undefined"
+        if (legacySlug && legacySlug !== 'undefined' && legacySlug !== localizedSlug) {
+            if (contentType === 'troubleshooting') {
+                addRedirect(`/tutorials/${legacySlug}`, `/${locale}/${contentTypeNew}/${localizedSlug}`);
+            } else {
+                addRedirect(`/${contentType}/${legacySlug}`, `/${locale}/${contentTypeNew}/${localizedSlug}`);
+            }
         }
     } catch (error) {
         console.error(`Error processing file ${filePath}:`, error.message);
@@ -98,7 +103,8 @@ async function iterateDocsDirectory(directory) {
         if (stat.isDirectory()) {
             await iterateDocsDirectory(filePath);
         } else if (file.endsWith('.md')) {
-            processMarkdownFile(filePath);
+            filesProcessed++;
+            processMarkdownFileLegacySlug(filePath);
         }
     }
 }
@@ -133,8 +139,8 @@ async function main() {
     try {
         await processCsvFile(csvFilePath);
         console.log('CSV file has been processed.');
-        // await iterateDocsDirectory(path.join('./docs'));
-        // console.log('Docs directory has been processed.');
+        await iterateDocsDirectory(path.join(__dirname, '../docs'));
+        console.log(`Docs directory has been processed. Files processed: ${filesProcessed}`);
 
         // Convert the Set to a string and append to netlifyTomlContent
         netlifyTomlContent += Array.from(redirectsSet).join('');
