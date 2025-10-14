@@ -17415,12 +17415,12 @@
                   "name": {
                     "en": "Import and export of products and SKUs via spreadsheet (Beta)",
                     "es": "Importación y exportación de productos y SKUs mediante plantilla (Beta)",
-                    "pt": "Importação e exportação de produtos e SKUs via planilha (Beta)"
+                    "pt": "Import and export of products and SKUs via spreadsheet (Beta)"
                   },
                   "slug": {
                     "en": "import-and-export-of-products-and-skus-via-spreadsheet-beta",
                     "es": "importacion-y-exportacion-de-productos-y-skus-mediante-plantilla-beta",
-                    "pt": "importacao-e-exportacao-de-produtos-e-skus-via-planilha-beta"
+                    "pt": ""
                   },
                   "origin": "",
                   "type": "markdown",
@@ -17475,12 +17475,42 @@
                   "name": {
                     "en": "Importing and exporting product and SKU images using a spreadsheet (Beta)",
                     "es": "Importar y exportar imágenes de productos y SKUs mediante plantilla (Beta)",
-                    "pt": "Importação e exportação de imagens de produtos e SKUs via planilha (Beta)"
+                    "pt": "Importar e exportar imagens de produtos e SKUs via planilha (Beta)"
                   },
                   "slug": {
                     "en": "importing-and-exporting-product-and-sku-images-using-a-spreadsheet-beta",
                     "es": "importar-y-exportar-imagenes-de-productos-y-skus-mediante-plantilla-beta",
-                    "pt": "importacao-e-exportacao-de-imagens-de-produtos-e-skus-via-planilha-beta"
+                    "pt": "importar-e-exportar-dimagens-de-produtos-e-skus-via-planilha-beta"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Importing and exporting product specifications using a spreadsheet (Beta)",
+                    "es": "Importar y exportar especificaciones de productos mediante plantilla (Beta)",
+                    "pt": "Importar e exportar especificações de produtos via planilha (Beta)"
+                  },
+                  "slug": {
+                    "en": "importing-and-exporting-product-specifications-using-a-spreadsheet-beta",
+                    "es": "importar-y-exportar-especificaciones-de-productos-mediante-plantilla-beta",
+                    "pt": "importar-e-exportar-especificacoes-de-produtos-via-planilha-beta"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Importing and exporting products and SKUs using a spreadsheet (Beta)",
+                    "es": "Importar y exportar productos y SKUs mediante plantilla (Beta)",
+                    "pt": "Importar e exportar produtos e SKUs via planilha (Beta)"
+                  },
+                  "slug": {
+                    "en": "importing-and-exporting-products-and-skus-using-a-spreadsheet-beta",
+                    "es": "importar-y-exportar-productos-y-skus-mediante-plantilla-beta",
+                    "pt": "importar-e-exportar-produtos-e-skus-via-planilha-beta"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -17490,12 +17520,12 @@
                   "name": {
                     "en": "Importing and exporting SKU specifications using a spreadsheet (Beta)",
                     "es": "Importar y exportar especificaciones de SKUs mediante plantilla (Beta)",
-                    "pt": "Importação e exportação de especificações de SKUs via planilha (Beta)"
+                    "pt": "Importar e exportar especificações de SKUs via planilha (Beta)"
                   },
                   "slug": {
                     "en": "importing-and-exporting-sku-specifications-using-a-spreadsheet-beta",
                     "es": "importar-y-exportar-especificaciones-de-skus-mediante-plantilla-beta",
-                    "pt": "importacao-e-exportacao-de-especificacoes-de-skus-via-planilha-beta"
+                    "pt": "importar-e-exportar-especificacoes-de-skus-via-planilha-beta"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -49718,6 +49748,21 @@
             },
             {
               "name": {
+                "en": "Native Sitemap is not fully integrated with Faststore",
+                "es": "El Sitemap nativo no está totalmente integrado con Faststore",
+                "pt": "O Sitemap nativo não está totalmente integrado ao Faststore"
+              },
+              "slug": {
+                "en": "native-sitemap-is-not-fully-integrated-with-faststore",
+                "es": "el-sitemap-nativo-no-esta-totalmente-integrado-con-faststore",
+                "pt": "o-sitemap-nativo-nao-esta-totalmente-integrado-ao-faststore"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Open/close modal hook affects all modals on the page",
                 "es": "El gancho para abrir/cerrar modales afecta a todos los modales de la página",
                 "pt": "O gancho para abrir/fechar modais afeta todos os modais da página"
@@ -61564,6 +61609,21 @@
                 "en": "productsku-upload-form-allows-utf16-format-uploaddownload",
                 "es": "el-formulario-de-carga-de-productossku-permite-cargardescargar-el-formato-utf16",
                 "pt": "o-formulario-de-upload-do-produtosku-permite-uploaddownload-do-formato-utf16"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Promotion alerts missing in new Promotions UI",
+                "es": "Faltan alertas de promoción en la nueva interfaz de usuario de Promociones",
+                "pt": "Alertas de promoção ausentes na nova interface de usuário de promoções"
+              },
+              "slug": {
+                "en": "promotion-alerts-missing-in-new-promotions-ui",
+                "es": "faltan-alertas-de-promocion-en-la-nueva-interfaz-de-usuario-de-promociones",
+                "pt": "alertas-de-promocao-ausentes-na-nova-interface-de-usuario-de-promocoes"
               },
               "origin": "",
               "type": "markdown",
