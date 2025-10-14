@@ -47975,6 +47975,21 @@
             },
             {
               "name": {
+                "en": "Amazon Listing Required attribute not rendered in Amazon Listing UI prevents product submission",
+                "es": "Amazon Listing Atributo obligatorio no mostrado en la interfaz de usuario de Amazon Listing impide el envío de productos",
+                "pt": "Amazon Listagem Atributo obrigatório não renderizado na interface do usuário da listagem da Amazon impede o envio de produtos"
+              },
+              "slug": {
+                "en": "amazon-listing-required-attribute-not-rendered-in-amazon-listing-ui-prevents-product-submission",
+                "es": "amazon-listing-atributo-obligatorio-no-mostrado-en-la-interfaz-de-usuario-de-amazon-listing-impide-el-envio-de-productos",
+                "pt": "amazon-listagem-atributo-obrigatorio-nao-renderizado-na-interface-do-usuario-da-listagem-da-amazon-impede-o-envio-de-produtos"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Amazon order does not integrate correctly",
                 "es": "El pedido de Amazon no se integra correctamente",
                 "pt": "O pedido da Amazon não se integra corretamente"
