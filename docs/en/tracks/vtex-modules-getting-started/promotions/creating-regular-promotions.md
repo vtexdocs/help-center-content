@@ -3,8 +3,8 @@ title: 'Creating Regular Promotions'
 id: 7FjbeZdE2KMwk5L1t98pZI
 status: PUBLISHED
 createdAt: 2020-01-14T13:11:35.010Z
-updatedAt: 2025-06-12T16:32:22.510Z
-publishedAt: 2025-06-12T16:32:22.510Z
+updatedAt: 2025-10-13T16:15:14.357Z
+publishedAt: 2025-10-13T16:15:14.357Z
 firstPublishedAt: 2020-01-22T13:55:43.369Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -15,143 +15,169 @@ trackSlugEN: promotions
 order: 4
 ---
 
-On VTEX, you can [create different types of promotions](/en/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI) for a range of scenarios, but the most commonly used is the regular promotion. This promotion type allows you to offer flexible discounts, combining multiple conditions, restrictions, and benefits.
-In this article, we'll explain the steps required to set up a regular promotion:
+VTEX allows [creating multiple promotion types](/en/tutorial/como-criar-promocoes--tutorials_320) to meet different business scenarios, including **Regular promotions**, which are the most common. This promotion type provides a structured way to give discounts, allowing the combination of multiple conditions, usage restrictions, and benefits.  
 
-1. [Promotion overview](#promotion-overview)
-   - [Restrict this promotion to seller products](#restrict-this-promotion-to-seller-products)
-   - [Trade policy](#trade-policy)
-2. [To which items will this promotion apply?](#to-which-items-will-this-promotion-apply)
-3. [Conditions for the promotion to be valid](#conditions-for-the-promotion-to-be-valid)
-4. [Restrictions and limitations of use](#restrictions-and-limitations-of-use)
+To set up a Regular promotion, follow the steps below:  
 
-Read our article [Promotion examples](/en/tutorial/promotion-examples--5A8UTc7knvAscxo7e7rMFD?&utm_source=autocomplete) for more information.
+- [Create promotion](#create-promotion)
+- [Define conditions for the Regular promotion](#define-conditions-for-the-regular-promotion)
+- [Set conditions for applying the promotion](#set-conditions-for-applying-the-promotion)
+- [Set usage restrictions](#set-usage-restrictions)
+- [Set combination and competition](#set-combination-and-competition)
+- [Highlight promotion on the product page](#highlight-promotion-on-the-product-page)
 
 ## Creating a promotion
+To create the promotion in the VTEX Admin, follow the steps below:
 
-To create a regular promotion, follow the steps below:
+1. In the VTEX Admin, go to **Promotions \> Promotions**, or type **Promotions** in the search bar at the top of the page.
+2. Click `Create promotion`.  
+3. Select the **Regular** option.  
+4. Complete the fields. The table below describes the required fields.  
+5. Click `Save`.
 
-1. In the VTEX Admin, go to **Promotions > Promotions**, or type **Promotions** in the search bar at the top of the page.
-2. Click the **Create Promotion** button.
-3. Select the **Regular** option.
-4. Complete the promotion fields.
-5. Click **Save**.
+|  Field | Description |
+| ----- | ----- |
+|  **Name** | Name of the promotion. It should be a clear and objective name (up to 150 characters). |
+|  **Status** | Defines whether the promotion will be **Active** or **Inactive**. Active <i class="fas fa-toggle-on" aria-hidden="true"></i> applies the promotion based on the configured dates and times. Inactive <i class="fas fa-toggle-off" aria-hidden="true"></i> pauses it, even within the defined period. |
+|  **Description** | Sets the promotion objective, such as the campaign type or seasonality.  The limit is 10,000 characters. |
+|  **Start date and time** | Sets the exact date and time to activate the promotion automatically. |
+|  **End date and time** | Sets the exact date and time the promotion should end. After that, the campaign will be automatically deactivated. The end date must be greater than the start date and time. |
+|  **Use recurrence     settings** | Select this option to repeat the promotion on specific days and times automatically. This allows setting up seasonal actions for specific days and times. Once activated, configure the recurrence days and times following the campaign parameters. |
 
-# 1. Promotion overview
+### Defining sellers
+In this section, you can specify whether the promotion will apply to all sellers or only to specific ones. Choose one of the options below:  
 
-In this section, you need to configure your promotion's general information. These are required fields: **Name**, **Expiration date**, and **What is the type and amount of discount?**.
+ - **All:** Applies the promotion to all sellers. Use this option when the campaign includes all products from all sellers.
+ -  **Equal to:** Applies the promotion only to the specified sellers. Enter the identifiers in the corresponding field. 
+ -  **Different from:** Applies the promotion to all sellers, except those specified.
 
-- **Name:** Promotion name. Required field.
-- **Status:** Activates or deactivates the promotion.
-- **Description:** An internal description of the promotion. The purpose of this field is to be used as internal communication in your store to indicate whether the promotion comes from a campaign, clearance sale, etc.
-- **Expiration date:** Start and end date and time of the promotion. You can use a future date and/or time for the promotion to start on your website. If configured this way, the promotion status will be displayed as follows:
-  - **Scheduled:** Before the selected start date and time.
-  - **Active:** During the scheduled promotion period.
-  - **Inactive:** After the selected end date and time.
-- **Use recurrence settings:** By selecting this option, you can configure the recurrence, such as the weekday and time.
-- **What is the type and amount of discount?:**  Allows you to select one of the options below:
-  - **Nominal:** Discount applied to the cart total.
-  - **Nominal shipping:** Discount applied to the shipping cost.
-  - **Percentage:** Percentage discount that will be applied to the product price.
-  - **Maximum price per item:** The maximum price for each eligible item will be the price set above.
-  - **Percentage:** Percentage discount that will be applied to the shipping cost.
-  - **Maximum shipping:** Maximum amount for the shipping cost.
-  - **Free shipping:** Full discount on shipping costs.
-  - **Gift:** Full discount on the product amount set as a gift. By selecting this option, you can indicate the SKU (by name or ID) that will be considered a gift, choose if you want to activate the gift multiplier, and the maximum number of products that can be used as gifts in the promotion.
-> ℹ️ The gift product must have a price associated with it, even though it is given to the customer for free.
+### Selecting trade policies
+Select the trade policies the promotion will apply to:
 
-  - **Nominal discount based on formula:** Discount calculated based on a formula you can create using the product total amount, shipping, and the number of items as variables. Please note that the shipping cost considered by the formula will be the lowest available for the order, regardless of the customer's selection. The decimal separator must always be a period. For example: If the discount is 30% of the product's total amount + shipping cost, the formula should be (total + freight) * 0.3. For more information about the formula, check out our [documentation](/en/tutorial/promocao-regular-com-desconto-nominal-baseado-em-formula--2Pwrq6THyGViNedQG381jV).
-  - **Nominal reward value:** Credit that will be added to the store's reward program. For more information, check out the [Regular promotion with reward value](/en/tutorial/promocao-regular-com-valor-fidelidade--3FCip23ZtvG0sDt0rVGVmR) article.
-  - **Percentage reward value:** Percentage credit that will be added to the store's reward program. For more information, check out the [Regular promotion with reward value](/en/tutorial/promocao-regular-com-valor-fidelidade--3FCip23ZtvG0sDt0rVGVmR) article.
-  - **Promotional price table:** Price tables can be used as promotions. The promotional price of each SKU will be its corresponding price in the selected price table.
-  - **Additional information (optional):** Allows you to add a name and value to the promotion.
-  - **Promotion is highlighted:** Adds a tag with the promotion name to the window display and the product page. This tag will only be added if you use the right promotion display control in the template `<vtex.cmc:discountHightLight/>`.
+- **All:** Applies the promotion to all trade policies.
+- **Equal to:** Defines the trade policies you want to include.  
+- **Different from:** Defines the trade policies you want to exclude.
 
-> ℹ️ Nominal promotions will only be displayed in the cart, not in the window display or on the product page.
+## Defining conditions for the Regular promotion
+In the Customer buys section, define the items that must be in the cart to activate the promotion:
 
-## Restrict this promotion to seller products
+- Apply to all items in the store: The promotion will be applied to all your store items.
+- Apply to items that meet the set restrictions: The promotion will be applied only to items that meet the conditions.
 
-In this section, you can determine to which sellers the promotion will apply. You can specify the sellers you want to include or exclude from the discount.
+Restrictions can be configured based on:
 
-- **Equal to:** Select the sellers you want to include.
-- **Different from:** Select the sellers you want to exclude.
+- **SKUs:** Applies the promotion to specific items identified by SKU.  
+  - **Equal to:** Applies only to the listed SKUs.  
+  - **Different from:** Applies to all SKUs except the listed ones.  
 
-For the promotion to be valid for all sellers, leave the field blank.
+- **Products:** Applies the promotion based on the products, regardless of their SKUs.  
+  - **Equal to:** Applies the promotion only to the selected products.  
+  - **Different from:** Applies the promotion to all products except the selected ones.  
 
-> ⚠️ You cannot directly select a white label seller. To include a white label seller to the promotion, there are two options:<ol>1. Restrict sellers to the main store. This restriction adds all your store's white label sellers to the promotion.</ol><ol>2. Leave the checkbox empty to include all sellers, meaning that all types of sellers - whether white label or not - will be added to the promotion.</ol>
+- **Collections:** Applies the promotion based on collections.  
+  - **Equal to:** Applies the promotion only to the selected collections.  
+  - **Different from:** Applies the promotion to all collections except the selected ones.  
 
-## Trade policy
+- **Categories:** Applies the promotion based on catalog categories.  
+  - **Equal to:** Applies the promotion only to the selected categories.  
+  - **Different from:** Applies the promotion to all categories except the selected ones.  
 
-In this section, you can set the trade policies valid for the promotion. You can include or exclude trade policies from the discount.
+- **Brands:** Applies the promotion based on the product brands.  
+  - **Equal to:** Applies the promotion only to the selected brands.  
+  - **Different from:** Applies the promotion to all brands except the selected ones.  
 
-- Equal to: Select the trade policies you want to include.
-- Different from: Select the trade policies you want to exclude.
-- Provided by me (my store): Select trade policies with products from your store. You can select more than one trade policy.
-- Delivered by me (other stores): Select trade policies in which your products are available in third-party stores. You can select more than one trade policy.
+Customer gets:
+Defines the benefit that will be applied when the conditions are met. The options include:
 
-For the promotion to be valid for all trade policies, leave the selection empty.
+- **Discount**  
+  - **Fixed amount:** Sets a fixed discount amount (example: $20.00).  
+  - **Percentage:** Applies a percentage discount (example: 10%).  
+  - **Fixed amount: formula:** Defines a fixed amount discount based on a formula. This type of discount isn't a percentage; it subtracts an absolute amount from the order or item total, as configured in the logic of the formula.  
 
-# 2. To which items will this promotion apply?
+- **Shipping**  
+  - **Fixed amount:** Sets a fixed discount amount for shipping.  
+  - **Percentage:** Applies a percentage discount to the shipping.  
+  - **Free:** Eliminates the shipping cost.  
+  - **Maximum:** Sets the maximum amount that can be charged. Any calculated amount exceeding the maximum will be discounted.  
 
-In this section, you need to choose whether the promotion will apply to all your store products or only specific products, as detailed below:
+- **Maximum price:** Sets a limit value that will be applied as a maximum price for eligible products. Items can't exceed this amount after the promotion is applied.  
 
-- **Apply to all products:** Allows you to apply the promotion to your whole catalog.
-- **Apply to products that meet all of the following restrictions:** Allows you to limit your promotion to specific products. You must satisfy the selection criteria for categories, brands, collections, products, and SKUs.
-- **Products:** Allows you to choose the products to which the promotion will be applied. You can upload a file (.txt) with the product IDs.
-- **SKUs:** Allows you to choose the SKUs to which the promotion will be applied. You can upload a file (.txt) with the product SKUs.
+- **Gift**  
+  - **SKUs:** Allows selecting SKUs (by name or ID) associated with the gift being offered.  
+  - **Gift quantity:** Defines the number of gifts that can be selected, either per cart or per eligible item.  
 
-You can include or exclude **categories**, **brands**, **collections**, **products**, and **SKUs** from the promotion using the **Equal** to or **Different from** criteria.
+- **Reward amount**  
+  - **Fixed amount:** Sets a fixed credit based on purchases.  
+  - **Percentage:** Calculates credits based on the order amount.  
 
-To be eligible for the promotion, products must meet all the conditions added in this section.
+- **Promotional price table:** Applies the amount defined in the selected price table to the SKUs.  
 
-![A quais itens esta promoção será aplicada - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-modules-getting-started/promotions/creating-regular-promotions_1.png)
+## Setting conditions for applying the promotion
+In this section, you define the conditions that must be met for the promotion to be applied. You can combine different conditions based on the campaign configuration.
 
-# 3. Conditions for the promotion to be valid
+- **Order total:** Applies the promotion when the order total reaches or exceeds the set amount.  
 
-The order must meet the conditions specified in this section for the promotion to apply.
+- **Item price:** Applies the promotion only to items whose original price is within the specified limits.  
 
-- **Order minimum or maximum amount:** The promotion will be applied based on the gross amount of the cart, not considering other promotions or shipping.
-- **Aggregate purchase value:** Discount given if the customer's total purchase amount reaches the specified amount.
-- **Item price between:** The discount will apply if the item price is within the range of values set by the store.
-- **Full price and discounted price are the same or Full price and discounted price are different:** Refers to the added product prices. Only one can be selected.
-- **Use restriction BINs:** Allows you to activate or deactivate the BIN restriction, limiting the credit cards used in the promotion. You can import a list of BINs, which must be saved in a text file (.txt) with each BIN listed on a different row.
-- **Marketing tags:** Used to limit the promotion's activation if the order is placed through the VTEX Subscriptions module.
-- **Affiliates:** Marketplace order identifier. The discount will be applied to the selected affiliates. Check out the What is an affiliate article for more information.
-- **Customer cluster:** The discount will be given if the customer is included in the cluster selected in this field. Note that the cluster name must be identical to the one registered; any misspelling will prevent the configuration from working correctly. For more information, check out the Create a cluster of customers article.
-- **Shipping countries:** The discount will apply to items shipped to the countries selected in this field.
-- **Shipping postal code should:** The discount will apply if the shipping postal code meets the configured rule. Note that postal codes not added will not be valid for the promotion.
-- **Shipping method:** The discount will apply only if the shipping method chosen by the customer is the same as the one specified in the promotion. This criterion will only be considered if the discount refers to the shipping cost, i.e., if it is one of the following: Percentage shipping, Nominal shipping, Maximum shipping, or Free shipping. Note that this configuration cannot be combined with "Only apply discount to the cheapest shipping option", as one option invalidates the other.
-- **Apply the selected discount only when one of the above carriers is selected by the customer:** The promotion will only be applied once the customer has selected the shipping method in question. If it is not selected, it will not be eligible for the discount. This criterion will only be considered if the promotion type refers to the shipping cost, i.e., only if it is one of the following types: Percentage shipping, Nominal shipping, Maximum shipping, or Free shipping.
-- **Payment method:** Allows you to choose if the promotion will be applied to one or more of the selected payment methods.
+- **List price:** Considers the product's original price (without discounts) for validating the promotion application.  
 
-> ℹ️ By default, you can add up to 20 payment methods per promotion. You can also customize it to add up to 100 payment methods. If you need to use more than 20 payment methods, please contact [our Support](https://vtexhelp.zendesk.com/auth/v2/login/signin?return_to=https%3A%2F%2Fsupport.vtex.com%2Fhc%2Fpt-br%2Frequests&theme=hc&locale=pt-br&brand_id=144968&auth_origin=144968%2Ctrue%2Ctrue).
+- **Card BIN:** Applies the promotion only when the card belongs to a network, bank, or category identified by a specific BIN number. Import a TXT or CSV file with the list of BINs, listing one number per line.  
 
-- **Number of installments:** Discount given if the number of installments selected by the customer is within the specified range. This field does not apply to boletos (Brazilian payment method).
-> ⚠️ Promotions based on payment method and number of installments do not apply to orders paid for with two cards or vouchers.
+- **Marketing tags:** Applies the promotion when the purchase is made through the VTEX [Subscriptions module](/en/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453).  
 
-- **UTM source:** The discount will apply if the customer navigation uses an utm_source parameter corresponding to a listed one in this promotion. Note that the customer can only enter one **utm_source** at checkout.
-- **UTM campaign:** The discount will apply if the customer navigation uses an utm_source parameter corresponding to a listed one in this promotion.
-- **Create a new coupon with the UTMs above:** Creates a coupon from the added UTMs to give customers access to the promotion using just the coupon code, without the need for UTMs.
-- **utmi_cp:** The discount will be given if the customer navigation uses the utmi_cp parameter with the specified value, which is case-sensitive.
+- **Affiliates:** Selects marketplaces or partner affiliates eligible for the promotion. For more information, see [What is an affiliate](/en/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0).  
 
-> ℹ️ In the UTMs field, enter only the value that the UTMs must match to activate the promotion. You don't need to enter ?utm_source= in the field.
+- **Customer cluster:** Allows selecting an existing [customer cluster](/en/tutorial/desconto-progressivo--tutorials_324) from Master Data, following the format `field=value` or `field contains value`. Choose one of the following:  
+  - **All of the following:** Applies the promotion only if all cluster conditions are met.  
+  - **At least one of the following:** Applies the promotion if at least one of the cluster conditions is met.  
 
-- **Only on first purchase:** The discount will only be given on the customer's first purchase.
-- **Apply the discount even if the user is not logged in?:** This field is available when the Only on first purchase field is selected. If this field is checked, the promotion will be applied even if the customer has not entered their email and password. When unchecked, the promotion will only be applied if the customer has logged in with their email and password.
-- **Is a subscription order:** Allows you to select one of the options below:
-  - **First orders:** Orders that generate subscriptions but are not part of subscription cycles yet.
-  - **Recurring orders:** Orders from subscription cycles.
-  - **Filter by:** Allows you to filter the subscription requests valid for the promotion.
-  - **Frequency:** Select the frequency of subscription orders — weekly, monthly, and annually. For more information, see [Configuring the frequency and date of the subscription cycle](/en/tutorial/como-criar-um-anexo-de-assinatura--2bUuKyPflA8cOGLv8OvaKK).
-  - **Cycle number:** Allows you to select the subscription cycles valid for the promotion. This option is only unlocked if the **Recurring orders** option is selected.
+- **Shipping location:** Applies the promotion based on the shipping address associated with the order. Conditions can be configured using the following criteria:  
+  - **Countries:** Allows selecting the shipping countries where the promotion will apply. You can add up to 50 countries to the list. The promotion will only apply to orders with shipping associated to the configured countries.  
+  - **Postal codes:** Configures postal code ranges to limit the promotion to specific regions.      - **Choose Include or Exclude:** Defines whether the promotion will apply to the configured ranges (Include) or to the excluded values (Exclude).  
+    - **Configure the postal code ranges:** Complete the "from" and "to" fields with the desired postal codes.  
+    - **Add multiple ranges:** Use the *Add range* option to include multiple postal code ranges, following the campaign criteria.  
 
-# 4. Restrictions and limitations of use
+- **Shipping method:** Applies the promotion only when a defined shipping method is selected.  
 
-In this section, you will find important information about the promotion conditions and restrictions.
+- **Payment method:** Applies the promotion only when the customer uses one of the previously configured payment methods, and there's no more than one payment method in the cart.
 
-- **How many times will this promotion be applied in your store:** Limits the number of times the promotion will be applied. If you uncheck the unlimited field, the **times** field becomes available to enter the maximum number of times the promotion can be used. This only applies for orders created after the condition has been set up. It will not affect orders placed previously.
-- **How many times per customer will this promotion be applied in your store:** This field's value determines the maximum number of times each customer can benefit from the promotion. For example, if you set a limit of three uses and the promotion is applied three times on a single order, this will be considered a single use in relation to the total limit. This way, the customer can still use the promotion on two different orders. Note that this calculation is done regardless of how many times the promotion has been used on each individual order.
-- **Set maximum number of eligible items for each cart:** Defines the maximum number of items in the cart that will be affected by the promotion. Check out [Restricting promotional products in cart](/en/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/jOu9b69mKbrTDfSJYAawy#restricting-promotional-products-in-cart) to learn how to configure this field.
-- **Apply with other promotions:** If selected, more than one promotion can be applied simultaneously, regardless of the discount type. Learn more in the [How promotion competition works](/en/tutorial/entendendo-a-concorrencia-de-promocoes--tutorials_2270) article.
-- **Apply with manual prices:** Allows the promotion to apply to products whose prices were manually added via telesales. To enable the manual pricing feature, use the [Update orderForm configuration endpoint](https://developers.vtex.com/docs/api-reference/checkout-api#post-/api/checkout/pvt/configuration/orderForm).
+- **Number of installments:** Applies the promotion only if the number of installments is within the configured range.  
+  - **Minimum no. of installments:** Sets the minimum number of installments required for the promotion to be valid.  
+  - **Maximum no. of installments:** Defines the maximum number of installments allowed. The promotion will apply only if the order number of installments is equal to or less than the defined value.  
+
+> ℹ️ This condition doesn't apply to payments via boleto, gift card, or orders using multiple payment methods.
+
+- **UTM:** Applies the promotion when the store is accessed via a URL with UTM parameters or when the customer uses a coupon linked to these parameters. Use only letters, numbers, hyphens, and underscores when defining UTM field values. For more information, see the article [Campaign tracking with UTM parameters](/en/tutorial/o-que-sao-utm_source-utm_campaign-e-utm_medium).  
+
+Set the following parameters if necessary:  
+
+- **UTM source:** Applies the discount when browsing occurs through the configured `utm_source` parameter.  
+- **UTM campaign:** Applies the discount when browsing occurs through the configured `utm_campaign` parameter.  
+- **Create coupon from the UTM parameters above:** Generates a coupon based on the UTM parameters entered in the `UTM source` and `UTM campaign` fields.  
+- **utmi_cp:** The discount will apply only if the navigation includes the `utmi_cp` parameter with its configured value. For more information, see the article [What are the internal UTMs utmi_cp, utmi_pc, and utmi_p]().  
+- **View linked coupons:** Allows viewing coupons already associated with the defined UTM parameters.  
+
+## Setting promotion usage restrictions  
+
+Use this section to limit how many times the promotion can be applied in the store or per customer.  
+
+- **Limit the use of in-store promotions:** Sets the maximum number of promotion usage across the store.  
+- **Limit promotion usage per customer:** Restricts how many times each customer can use the promotion.  
+- **Limit the number of eligible items:** Allows setting a maximum number of items per order that can receive the discount. The behavior of this setting varies depending on the option selected in the "Customer gets" section.  
+  - For the **Fixed amount**, **Fixed amount: formula**, and **Maximum price per item** conditions, the limit applies to the total items in the cart.  
+  - For the **Percentage discount** condition, you can choose whether the limit applies per cart, product, or SKU.  
+
+## Configuring combination and competition  
+
+Define whether the promotion can be combined with other promotions or manually adjusted prices. These settings control how the promotion behaves in combined scenarios.  
+
+- **Allow combining with other promotions:** Allows combining the promotion with other promotions active in the same order. By default, the promotion already includes shipping discounts and gifts. For more information, see the article [How promotion competition works](/en/tutorial/entendendo-a-concorrencia-de-promocoes--tutorials_2270).  
+- **Allow combining with manual prices:** Allows the promotion to be applied even when the product already has a manually set price.  
+
+## Highlighting the promotion on the product page  
+
+Use this section to visually highlight the promotion on products displayed on the store's product listing page.  
+
+- **Highlight promotion on products:** Displays a promotional badge on products affected by the promotion. For the highlight to work properly, you need to [configure visualization in the store's CMS module](/en/tutorial/configurando-promocao-com-destaque-flag--tutorials_2295).  
+- **Additional information:** Click `Create` to add custom fields with name and value, which can be used for store customizations.  
 

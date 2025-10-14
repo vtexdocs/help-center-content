@@ -3,8 +3,8 @@ title: 'Importar y exportar imágenes de productos y SKUs mediante plantilla (Be
 id: 6zBisMdxDYeBF49LPzvfqt
 status: PUBLISHED
 createdAt: 2025-09-26T15:59:03.761Z
-updatedAt: 2025-10-06T14:50:09.160Z
-publishedAt: 2025-10-06T14:50:09.160Z
+updatedAt: 2025-10-13T22:40:44.722Z
+publishedAt: 2025-10-13T22:40:44.722Z
 firstPublishedAt: 2025-09-26T16:15:52.581Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -50,7 +50,7 @@ Para exportar un archivo `.xlsx` con las imágenes de tu catálogo sigue los pas
 3. En la parte superior de la página, haz clic en `Exportar`.
 4. Haz clic en `Imágenes`.
 
-Mientras la operación esté en curso, se mostrará un mensaje indicando que el archivo se está procesando. La operación seguirá en curso aunque salgas de la página. Puedes hacer seguimiento del [progreso de la exportación en la ventana modal](/es/tutorial/importacao-e-exportacao-de-produtos-e-skus-via-planilha-beta--5udKxWP1ZeBD7QB7Fy2BNl#ver-campos-da-planilha-de-produtos-e-skus) que se abre en la página.
+Mientras la operación esté en curso, se mostrará un mensaje indicando que el archivo se está procesando. La operación seguirá en curso aunque salgas de la página. Puedes hacer seguimiento del [progreso de la exportación en la ventana modal](/es/tutorial/importar-y-exportar-productos-y-skus-mediante-plantilla-beta--5udKxWP1ZeBD7QB7Fy2BNl#ventana-de-seguimiento-de-la-exportacion) que se abre en la página.
 
 Tras finalizar la exportación de imágenes de productos y SKUs recibirás un email con un link para descargar el archivo. El plazo para realizar la descarga mediante el link es de 24 horas; después de este periodo el link expirará. También puedes descargar el archivo desde la ventana modal que se abre en la página.
 
@@ -74,4 +74,10 @@ La siguiente tabla muestra la descripción y un ejemplo de valor de los campos d
 | Texto de imagen | Texto que se asociará a la imagen, utilizado internamente en la tienda. No utilices caracteres especiales ni acentos, y no repitas valores de los campos **Nombre de imagen** y **Etiqueta**. | lateral camiseta verano26 |
 | URL de imagen | Nombre que compone parte de la URL de la imagen que está alojada en la plataforma VTEX. Se muestra después de la última barra `/`, incluyendo la extensión del archivo. Si el campo no tiene valor, déjalo en blanco. | camiseta_azul_cuello_redondo.jpg |
 | URL de importación Imagen | Imagen que se asociará al SKU. Para importar una nueva imagen, este campo es obligatorio y debe [completarse con la URL](/es/tutorial/como-definir-a-url-de-um-produto--frequentlyAskedQuestions_368) del archivo alojado. Debe comenzar con el identificador de protocolo HTTP (`http://`) y terminar con una de las siguientes extensiones:<ul><li>jpg</li><li>png</li><li>gif</li><li>ico</li><li>svg</li><li>webp</li></ul>Para actualizar una imagen existente, deja el campo en blanco. De lo contrario, la imagen se creará nuevamente, generando una duplicación. | `http://archivos.com/ids/image/camiseta_azul_cuello_redondo.jpg` |
+
+## Más información
+
+* [Importar y exportar productos y SKUs mediante plantilla (Beta)](/es/tutorial/importar-y-exportar-productos-y-skus-mediante-plantilla-beta--5udKxWP1ZeBD7QB7Fy2BNl) 
+* [Importar y exportar especificaciones de productos mediante plantilla (Beta)](/es/tutorial/importar-y-exportar-especificaciones-de-productos-mediante-plantilla-beta--jQcmbocCb7kjHOr1JSWIL)
+* [Importar y exportar especificaciones de SKUs mediante plantilla (Beta)](/es/tutorial/importar-y-exportar-especificaciones-de-skus-mediante-plantilla-beta--5EAioeC33wHpIxKHaGQzbV)
 

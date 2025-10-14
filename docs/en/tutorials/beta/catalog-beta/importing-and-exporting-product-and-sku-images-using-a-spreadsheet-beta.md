@@ -3,8 +3,8 @@ title: 'Importing and exporting product and SKU images using a spreadsheet (Beta
 id: 6zBisMdxDYeBF49LPzvfqt
 status: PUBLISHED
 createdAt: 2025-09-26T15:59:03.761Z
-updatedAt: 2025-10-06T14:50:09.160Z
-publishedAt: 2025-10-06T14:50:09.160Z
+updatedAt: 2025-10-13T22:40:44.722Z
+publishedAt: 2025-10-13T22:40:44.722Z
 firstPublishedAt: 2025-09-26T16:15:52.581Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -50,7 +50,7 @@ To export a `.xlsx` file with the images from your catalog, follow these steps:
 3. At the top of the page, click `Export`.
 4. Click `Images`.
 
-While the export is in progress, a message will be displayed indicating that the file is being processed. Leaving the page won't interrupt the operation. You can [track the export progress in the window](/en/tutorial/importacao-e-exportacao-de-produtos-e-skus-via-planilha-beta--5udKxWP1ZeBD7QB7Fy2BNl#ver-campos-da-planilha-de-produtos-e-skus) displayed on the page.
+While the export is in progress, a message will be displayed indicating that the file is being processed. Leaving the page won't interrupt the operation. You can [track the export progress in the window](/en/tutorial/importing-and-exporting-products-and-skus-using-a-spreadsheet-beta--5udKxWP1ZeBD7QB7Fy2BNl#tracking-export-process) displayed on the page.
 
 After the export of product and SKU images is completed, you will receive an email with a link to download the file. The download link is valid for 24 hours. After that, the link expires. You can also download the file from the window that opens on the page.
 
@@ -75,3 +75,8 @@ The following table describes and includes an example of each field in the impor
 | Image path | Name that is part of the image URL hosted on the VTEX platform. It displays after the last slash `/`, including the file extension. If the field isn't completed, leave it blank. | blue_tshirt_round_collar.jpg |
 | Image import URL | Image that will be associated with the SKU. To import a new image, this field must be [completed with the URL](/en/tutorial/como-definir-a-url-de-um-produto--frequentlyAskedQuestions_368) of the hosted file. It must start with the HTTP protocol identifier (`http://`) and end with one of the following extensions:<ul><li>jpg</li><li>png</li><li>gif</li><li>ico</li><li>svg</li><li>webp</li></ul>To update an existing image, leave the field blank. Otherwise, the image will be created again, which duplicates it. | `http://files.com/ids/image/blue_tshirt_round_collar.jpg` |
 
+## Learn more
+
+* [Importing and exporting products and SKUs using a spreadsheet (Beta)](/en/tutorial/importing-and-exporting-products-and-skus-using-a-spreadsheet-beta--5udKxWP1ZeBD7QB7Fy2BNl)
+* [Importing and exporting product specifications using a spreadsheet (Beta)](/en/tutorial/importing-and-exporting-product-specifications-using-a-spreadsheet-beta--jQcmbocCb7kjHOr1JSWIL)
+* [Importing and exporting SKU specifications using a spreadsheet (Beta)](/en/tutorial/importing-and-exporting-sku-specifications-using-a-spreadsheet-beta--5EAioeC33wHpIxKHaGQzbV)

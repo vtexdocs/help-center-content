@@ -3,8 +3,8 @@ title: 'Criar Promoção Regular'
 id: 7FjbeZdE2KMwk5L1t98pZI
 status: PUBLISHED
 createdAt: 2020-01-14T13:11:35.010Z
-updatedAt: 2025-06-12T16:32:22.510Z
-publishedAt: 2025-06-12T16:32:22.510Z
+updatedAt: 2025-10-13T16:15:14.357Z
+publishedAt: 2025-10-13T16:15:14.357Z
 firstPublishedAt: 2020-01-22T13:55:43.369Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -15,140 +15,156 @@ trackSlugEN: promocoes
 order: 4
 ---
 
+A VTEX permite a [criação de diferentes tipos de promoção](/pt/tutorial/como-criar-promocoes--tutorials_320#como-criar-promocoes) para atender a variados cenários comerciais, sendo a **Promoção Regular** a mais comum. Esse tipo de promoção oferece uma forma estruturada de conceder descontos, permitindo a combinação de múltiplas condições, restrições de uso e benefícios.
 
-Na VTEX, é possível [criar vários tipos de promoção](/pt/tutorial/como-criar-promocoes--tutorials_320#como-criar-promocoes) para cenários diferentes, porém o mais utilizado é a Promoção Regular. Esse tipo de promoção permite que sua loja ofereça descontos de forma poderosa e flexível, combinando múltiplas condições, restrições e benefícios. 
+Para configurar a Promoção Regular, siga os passos abaixo:
 
-Neste artigo, detalhamos o funcionamento de cada campo durante as etapas de configuração de uma Promoção Regular listadas abaixo.
-
-1. [Quais os dados gerais desta promoção?](#1-quais-os-dados-gerais-desta-promocao)
-    - [Restringir esta promoção a produtos dos sellers](#restringir-esta-promocao-a-produtos-dos-sellers)
-    - [Política Comercial](#politica-comercial)
-2. [Em quais itens esta promoção será aplicada?](#2-em-quais-itens-esta-promocao-sera-aplicada)
-3. [Quais as condições para a promoção ser válida?](#3-quais-as-condicoes-para-a-promocao-ser-valida)
-4. [Restrições e limitações de uso](#4-restricoes-e-limitacoes-de-uso)
-
-Para entender como funciona a implementação das promoções, leia nosso artigo de [Exemplos de Promoção](/pt/tutorial/promotion-examples--5A8UTc7knvAscxo7e7rMFD?&utm_source=autocomplete#).
+- [Criar a promoção](#criar-a-promocao)  
+- [Definir condições da Promoção regular](#definir-condicoes-da-promocao-regular)  
+- [Configurar condições de aplicação da promoção](#configurar-condicoes-de-aplicacao-da-promocao)  
+- [Configurar restrições para o uso da promoção](#configurar-restricoes-para-o-uso-da-promocao)  
+- [Configurar acúmulo e concorrência](#configurar-acumulo-e-concorrencia)  
+- [Destacar a promoção na página de produto](#destacar-a-promocao-na-pagina-de-produto)
 
 ## Criar a promoção
 
-Para criar uma Promoção Regular, siga os passos abaixo:
+Para criar a promoção no Admin VTEX, siga os passos abaixo:
 
-1. No Admin VTEX, acesse **Promoções > Promoções**, ou digite **Promoções** na barra de busca no topo da página.
-2. Clique no botão **Criar promoção**.
-3. Selecione a opção **Regular**.
-4. Preencha os campos da promoção.
-5. Clique em **Salvar**.
+1. No Admin VTEX, acesse **Promoções > Promoções**, ou digite **Promoções** na barra de busca no topo da página.  
+2. Clique em `Criar promoção`.  
+3. Selecione a opção **Regular**`.`  
+4. Preencha os campos da página. A tabela abaixo exibe os detalhes necessários.  
+5. Clique em `Salvar`.
 
-# 1. Quais os dados gerais desta promoção?
+| Campo | Descrição |
+| ----- | --------- |
+| **Nome** | Escolha um nome claro e objetivo para a promoção (até 150 caracteres). |
+| **Status** | Defina se a promoção estará **Ativa** ou **Inativa**. Ative como <i class="fas fa-toggle-on" aria-hidden="true"></i> para aplicar a promoção conforme as datas e horários configurados. Desative como <i class="fas fa-toggle-off" aria-hidden="true"></i> para pausá-la, mesmo que esteja dentro do período definido. |
+| **Descrição** | Use este campo para registrar o objetivo da promoção, como o tipo de campanha ou sazonalidade. O limite é de 10.000 caracteres. |
+| **Data de início e horário de início** | Selecione a data e o horário exatos para ativar a promoção automaticamente. |
+| **Data e horário de término** | Defina a data e o horário exatos para encerrar a promoção. Após esse momento, a campanha será desativada automaticamente. A data deve ser posterior à data e horário de início. |
+| **Usar configurações de recorrência** | Marque esta opção para repetir automaticamente a promoção em dias e horários específicos. Isso permite configurar ações sazonais para dias e horários definidos. Após ativar, configure os dias e horários da recorrência de acordo com os parâmetros da campanha. |
 
-Nesta seção, você deve configurar as informações gerais da sua promoção. Os campos **Nome**, **Data de expiração** e **Qual o tipo e valor do desconto** são de preenchimento obrigatório.
+### Definir os sellers
 
-- **Nome:** nome da promoção. Campo obrigatório.
-- **Status:** opção que define se a promoção está ativa ou inativa.
-- **Descrição:** descrição interna da promoção. O objetivo desse campo é que seja usado para comunicação interna na sua loja, a fim de deixar claro se a promoção é devido à alguma campanha, queima de estoque, etc.
-- **Data de expiração:** data e hora de início e de fim da promoção. Pode ser usada uma data e/ou horário futuros, para que a promoção comece a ser aplicada no site. Caso seja configurada desta forma, o status da promoção será exibido das seguintes formas:
-    - **Agendada:** antes da data e horário de início selecionados.
-    - **Ativa:** durante o período programado para a promoção.
-    - **Inativa:** após a data e horário de término selecionados.
-- **Usar configurações de recorrência:** ao selecionar esta opção, é permitido realizar configurações de recorrência, por exemplo, dia da semana e horário.
-- **Qual o tipo e valor do desconto?:** permite selecionar uma das opções abaixo:
-     - **Nominal:** desconto que será concedido ao total do carrinho.
-     - **Frete nominal:** desconto que será concedido ao valor do frete.
-     - **Percentual:** percentual de desconto que será concedido ao valor do produto.
-     - **Preço Máximo por Item:** o preço máximo para cada item da compra será o preço configurado acima.
-     - **Frete percentual:** percentual de desconto que será concedido ao valor do frete.
-     - **Frete máximo:** valor máximo que o frete poderá assumir.
-     - **Frete grátis:** desconto total sobre o valor do frete.
-     - **Brinde:** desconto total sobre o valor do produto definido como brinde. Ao selecionar essa opção  é possível indicar o SKU por nome ou ID que será considerado como brinde, escolher se o [multiplicador de brindes](/pt/tutorial/o-que-significa-ativar-o-multiplicador-de-brinde-em-uma-promocao--1gydgkmjEWcoo2CskUwuYK) deve ser ativado e a quantidade máxima de produtos que poderão ser utilizados como brindes na promoção.
-> ℹ️ O produto Brinde também precisa ter um preço cadastrado, mesmo sendo oferecido gratuitamente ao cliente.
+Nesta seção, defina se a promoção será aplicada a todos os sellers ou apenas a sellers específicos. Escolha uma das opções abaixo:
 
-   - **Desconto nominal baseado em fórmula:** o desconto é calculado com base na fórmula que você pode criar usando como variáveis a soma dos preços de produtos, o frete e a quantidade de itens. Observe que o frete considerado pela fórmula será o menor disponível para o pedido, independentemente da seleção do cliente. O separador decimal deve ser sempre o ponto. Exemplo: se o desconto for 30% do valor total do produto + valor do frete, a fórmula deve ser (total + freight) * 0.3. Para obter mais informações sobre a fórmula, leia nossa [documentação](/pt/tutorial/promocao-regular-com-desconto-nominal-baseado-em-formula--2Pwrq6THyGViNedQG381jV).
-   - **Valor fidelidade nominal:** crédito que será adicionado no programa de fidelidade da loja. Leia [Promoção regular com valor fidelidade](/pt/tutorial/promocao-regular-com-valor-fidelidade--3FCip23ZtvG0sDt0rVGVmR) para mais informações.
-   - **Valor fidelidade percentual:** crédito percentual que será adicionado no programa de fidelidade da loja. Leia [Promoção regular com valor fidelidade](/pt/tutorial/promocao-regular-com-valor-fidelidade--3FCip23ZtvG0sDt0rVGVmR) para mais informações.
-   - **Tabela de preços promocionais:** uma tabela de preços pode ser utilizada como promoção. O preço promocional de cada SKU será o preço correspondente na tabela de preços escolhida.
-- **Informações adicionais (opcional):** permite  incluir informações adicionais a promoção composto de um nome e valor.
-- **Destaque nos produtos:** insere uma flag com o nome da promoção, utilizada na vitrine e na página do produto. Essa flag só será inserida caso use o controle correto de exibição de promoção no template `vtex.cmc:discountHightLight/>`.
+- **Todos:** aplica a promoção a todos os Sellers cadastrados. Use esta opção quando a campanha incluir todos os produtos de todos os sellers.  
+- **Iguais a:** aplica a promoção apenas aos Sellers informados. Insira os identificadores no campo correspondente.  
+- **Diferentes de**: aplica a promoção a todos os Sellers, exceto os informados.
 
-> ℹ️ Promoções do tipo Nominal só serão apresentadas no carrinho, e não na vitrine ou na página de produto.
+### Selecionar políticas comerciais
 
-## Restringir esta promoção a produtos dos sellers
+Escolha as políticas comerciais às quais a promoção será aplicada:
 
-Nesta seção, é possível definir para quais sellers a promoção será aplicada. Você pode determinar quais sellers serão incluídos ou excluídos do desconto.
+- **Todas:** aplica a promoção a todas as políticas comerciais cadastradas.  
+- **Iguais a:** selecione as políticas comerciais que deseja incluir.  
+- **Diferentes de:** selecione as políticas comerciais que deseja excluir.
 
-- **Iguais a:** selecione os nomes dos sellers desejados para inclui-los.
-- **Diferentes de:** selecione os nomes dos sellers desejados para exclui-los.
+## Definir condições da Promoção regular
 
-Para que a promoção seja válida para todos os sellers, deixe a seleção vazia.
+Na seção **Na compra de**, defina quais itens devem estar no carrinho para ativar a promoção:
 
-> ⚠️ **Atenção:** não é possível selecionar diretamente um seller white label. Para incluir um seller white na promoção, existem duas opções:<ol>1. Restringir os sellers à loja principal. Essa restrição adiciona todos os sellers white label da sua loja à promoção.</ol><ol>2. Deixar a seleção vazia, incluindo todos os sellers. Aqui, todos os tipos de sellers - white label ou não - serão adicionados à promoção.</ol>
+- **Aplicar a todos os itens da loja:** a promoção será aplicada a todos os itens da sua loja.  
+- **Aplicar aos itens que atendem às restrições definidas**: a promoção será aplicada apenas aos itens que atenderem aos critérios.
 
-## Política comercial
+As restrições podem ser configuradas com base em:
 
-Esta seção estabelece as políticas comerciais válidas para a promoção. Você pode incluir ou excluir políticas comerciais do desconto.
+- **SKUs:** permite aplicar a promoção a itens específicos identificados por SKU.  
+  - **Iguais a**: aplica apenas aos SKUs listados.  
+  - **Diferentes de**: aplica a todos, exceto os listados.  
+- **Produtos:** baseie-se no produto, independentemente do SKU.  
+  - **Iguais a**: aplica a promoção apenas aos produtos selecionados.  
+  - **Diferentes de**: aplica a promoção a todos os produtos, exceto os selecionados.  
+- **Coleções:** aplique com base nas coleções cadastradas.  
+  - **Iguais a**: aplica a promoção somente às coleções selecionadas.  
+  - **Diferentes de**: aplica a promoção a todas as coleções, exceto as selecionadas.  
+- **Categorias**: aplique com base nas categorias do catálogo.  
+  - **Iguais a**: aplica a promoção apenas às categorias selecionadas.  
+  - **Diferentes de**: aplica a promoção a todas as categorias, exceto as selecionadas.  
+- **Marcas:** aplique a promoção com base nas marcas dos produtos.  
+  - **Iguais a**: aplica a promoção apenas às marcas selecionadas.  
+  - **Diferentes de**: aplica a promoção a todas as marcas, exceto as selecionadas.
 
-- **Iguais a:** selecione as políticas comerciais desejadas incluí-las.
-- **Diferentes de:** selecione as políticas comerciais desejadas excluí-las.
-- **Fornecido por mim (Minha loja):** seleção de políticas comerciais com produtos da sua loja. Pode ser selecionada mais de uma política comercial.
-- **Entregue por mim (Lojas de terceiros):** seleção de políticas comerciais em que seus produtos estão de lojas de terceiros. Pode ser selecionada mais de uma política comercial.
+**O cliente ganha:**  
+Selecione o benefício a ser aplicado quando as condições forem atendidas. As opções incluem:
 
-Para que a promoção seja válida para todas as políticas comerciais, deixe a seleção vazia.
+- **Desconto**  
+  - **Nominal:** define um valor fixo de desconto (ex: R$ 20,00).  
+  - **Percentual:** aplica um desconto em porcentagem (ex: 10%).  
+  - **Nominal fórmula:** defina um desconto nominal, calculado com base em uma fórmula. Esse tipo de desconto não é percentual, ele subtrai um valor absoluto do total do pedido ou do item, conforme a lógica configurada na fórmula.  
+- **Frete**  
+  - **Nominal:** define um valor fixo de desconto para frete.  
+  - **Percentual**: aplica um desconto percentual sobre o frete.  
+  - **Grátis**: remove o custo do frete.  
+  - **Máximo**: define um valor máximo que pode ser cobrado. Qualquer valor calculado que ultrapasse o máximo será descontado.  
+- **Preço máximo:** define um valor limite que será aplicado como teto para o preço dos produtos elegíveis. Os itens não poderão ultrapassar esse valor após a aplicação da promoção.  
+- **Brinde**  
+  - **SKUs:** permite a seleção dos SKUs (por nome ou ID) correspondentes ao brinde oferecido.  
+  - **Quantidade de brindes:** define a quantidade de brindes que poderão ser selecionados, podendo ser por carrinho ou por item elegível.  
+- **Valor de fidelidade**  
+  - **Nominal**: atribui uma quantidade fixa de pontos.  
+  - **Percentual**: calcula os pontos com base no valor do pedido.  
+- **Tabela de preços promocionais**: aplica aos SKUs o valor definido em uma tabela de preços selecionada.
 
-# 2. A quais itens esta promoção será aplicada?
+## Configurar condições de aplicação da promoção
 
-Nesta seção, você precisa escolher se a promoção será aplicada a todos os produtos cadastrados na sua loja ou apenas a produtos específicos, conforme detalharemos abaixo:
+Nesta seção, você define os critérios que precisam ser atendidos para que a promoção seja aplicada. É possível combinar diferentes condições de acordo com a configuração da campanha.
 
-- **Aplicar a todos os produtos:** permite aplicar a promoção a todo o seu catálogo.
-- **Aplicar aos produtos que atendem a todas as restrições a seguir:** permite limitar a sua promoção a produtos específicos, e é necessário preencher os critérios de seleção referentes a **Categorias**, **Marcas**, **Coleções**, **Produtos **e **SKUs**.
-- **Produtos:** permite escolher os produtos no qual a promoção será aplicada. É possível fazer o upload de um arquivo **(.txt)** com os IDs dos produtos.
-- **SKUs:** permite escolher os SKUs dos produtos no qual a promoção será aplicada. É possível fazer o upload de um arquivo **(.txt)** com os SKUs dos produtos.
+- **Valor do pedido**: aplique a promoção quando o valor total do carrinho atingir ou ultrapassar o valor definido.  
+- **Preço do item**: aplique a promoção apenas a itens com valor unitário dentro do intervalo configurado.  
+- **Preço de lista**: considere o valor original do produto (sem descontos) para validar a aplicação da promoção.  
+- **Número do BIN do cartão:** aplique a promoção apenas quando o cartão utilizado pertencer a uma bandeira, banco ou categoria identificada por um número BIN específico. Importe um arquivo `.txt` ou `.csv` com a lista de BINs, informando um número por linha.  
+- **Tags de marketing**: aplique a promoção quando a compra for realizada por meio do [módulo de assinaturas](/pt/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453) da VTEX.  
+- **Afiliados**: selecione os afiliados marketplaces ou parceiros elegíveis para a promoção. Para mais informações acesse [O que é afiliado](/pt/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0).  
+- **Cluster de clientes:** selecione um [cluster de clientes](/pt/tutorial/desconto-progressivo--tutorials_324) já criado no Master Data, seguindo o formato `field=value` ou `field contains value`. Escolha uma das seguintes opções:  
+  - **Todos os seguintes**: aplique a promoção apenas se todos os critérios do cluster forem atendidos.  
+  - **Pelo menos um dos seguintes:** aplique a promoção se pelo menos um dos critérios do cluster for atendido.  
+- **Local de entrega:** aplica a promoção com base no endereço de entrega associado ao pedido. As condições podem ser configuradas utilizando os seguintes critérios:  
+  - **Países de entrega:** selecione os países de entrega nos quais a promoção será aplicada. Você pode adicionar até 50 países nesta lista. A promoção será aplicada apenas para pedidos cuja entrega esteja associada aos países configurados.  
+  - **CEP de entrega:** permite configurar intervalos de CEP para limitar a aplicação da promoção a regiões específicas.  
+    - **Escolha Incluir ou Excluir:** defina se a promoção será aplicada aos intervalos configurados (incluir) ou excluídas deles (Excluir).  
+    - **Configure os intervalos de CEP:** preencha os campos “De” e “Até” com os códigos postais desejados.  
+    - **Adicione múltiplos intervalos:** utilize a opção **Adicionar intervalo** para incluir múltiplos intervalos de CEP, conforme os critérios da campanha.  
+- **Tipo de frete**: aplica a promoção somente quando for selecionado um dos tipos de frete definidos.  
+- **Meios de pagamento:** a promoção é aplicada somente quando o cliente utilizar um dos meios de pagamento previamente configurados e não houver mais de um meio de pagamento no carrinho.  
+- **Número de parcelas**: aplica a promoção apenas se o número de parcelas estiver dentro do intervalo configurado.  
+  - **Mínimo de parcelas**: defina o número mínimo de parcelas exigido para que a promoção seja válida.  
+  - **Máximo de parcelas**: defina o número máximo de parcelas permitido. A promoção será aplicada apenas se o número de parcelas do pedido for igual ou inferior ao valor definido.
 
-Você pode incluir ou excluir **Categorias**, **Marcas**, **Coleções**, **Produtos** e **SKUs** da promoção, utilizando os critérios **Iguais a** ou **Diferentes de**.
+> ℹ️ Essa condição não se aplica a pagamentos via boleto, vale-presente ou pedidos com mais de um meio de pagamento.
 
-Para serem válidos na promoção, os produtos precisam atender a todas as condições cadastradas nesta seção.
+- **UTM:** aplique a promoção quando o acesso à loja for feito por uma URL com parâmetros UTM ou quando o cliente usar um cupom vinculado a esses parâmetros. Use apenas letras, números, hífens e *underscores* ao definir os valores dos campos UTM. Para mais detalhes, consulte o artigo [Rastreamento de campanhas com parâmetros UTM](/pt/tutorial/o-que-sao-utm_source-utm_campaign-e-utm_medium).
 
-![A quais itens esta promoção será aplicada - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/m%C3%B3dulos-vtex-primeiros-passos/promocoes/criar-promocao-regular_1.png)
+**Defina os parâmetros abaixo, se necessário:**
 
-# 3. Quais as condições para a promoção ser válida?
+- **Utm_source:** permite o desconto quando a navegação for realizada com a utm_source configurada.  
+- **Utm_campaign:** permite o desconto quando a navegação for realizada com o parâmetro utm_campaign configurado.  
+- **Criar cupom a partir dos parâmetros UTM acima:** gere um cupom com base nos parâmetros UTM inseridos nos campos `UTM_source` e `UTM_campaign`.  
+- **Utmi_cp:** o desconto será aplicado apenas se a navegação incluir o parâmetro `utmi_cp` com o valor cadastrado. Para mais detalhes, consulte o artigo [O que são as UTMs internas utmi_cp, utmi_pc e utmi_p](/pt/tutorial/what-are-the-internal-utms).  
+- **Ver cupons vinculados:** permite visualizar os cupons que já foram associados aos parâmetros UTM definidos.
 
-O pedido do cliente deve atender às condições cadastradas nesta seção para ser válido na promoção.
+## Configurar restrições para o uso da promoção
 
-- **Valor mínimo e máximo do pedido:** a promoção será aplicada levando em conta o valor “bruto” do carrinho, sem considerar demais promoções ou frete.
-* **Valor acumulado em compras:** o desconto será concedido caso o total de todas as compras já realizadas pelo cliente, esteja atendendo ao valor preenchido.
-- **Preço do item entre:** o desconto será concedido caso o valor do item esteja atendendo ao intervalo de valores preenchidos.
-- **Preço "de" e "por" são iguais** ou **Preço "de" e "por" são diferentes:** se refere aos valores do cadastro do produto. Somente uma opção pode ser selecionada.
-- **Usar BIN de restrição:** permite ativar ou desativar a restrição do BIN, limitando quais cartões de créditos poderão ser utilizados na promoção criada. É possível realizar a importação de uma lista de BINs, que deve estar salvo em um arquivo de texto (.txt) com cada BIN descrito em uma linha diferente.
-- **Tags Marketing:** campo utilizado para restringir a ativação da promoção caso a compra seja realizada pelo [módulo de Assinaturas da VTEX](/pt/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453#).
-- **Afiliados:** identificador de pedidos do marketplace. O desconto será aplicado nos afiliados selecionados. Veja o artigo [O que é afiliado](/pt/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0?locale=pt) para mais informações.
-- **Cluster de clientes:** o desconto será concedido caso o cliente esteja cadastrado no cluster selecionado. É importante destacar que o nome do cluster deve ser exatamente como cadastrado, qualquer erro de grafia impedirá o funcionamento correto da configuração. Para mais informações, acesse [Criar cluster de clientes](/pt/tutorial/como-criar-um-cluster-de-clientes).
-- **Países de entrega:** o desconto será concedido aos países selecionados neste campo.
-- **O CEP de entrega deve:** o desconto será concedido caso o CEP esteja atendendo à regra configurada. É importante ressaltar que os CEPs que não constam no cadastro não serão elegíveis para ativar a promoção. 
-- **Tipo de frete:** o desconto será concedido caso o tipo de frete escolhido pelo cliente seja o mesmo que o cadastrado na promoção. Esse critério somente será considerado se o efeito da promoção for relativo ao Valor de Frete, ou seja, somente se for um dos seguintes efeitos: Frete percentual, Frete nominal, Frete máximo ou Frete grátis. Importante observar que esta configuração não pode ser combinada com a opção “Aplicar desconto ao frete mais barato”, já que uma opção invalida a outra.
-- **Aplicar o desconto somente quando uma das transportadoras acima for selecionada pelo cliente:** a promoção será aplicada somente após o cliente efetivamente selecionar a forma de entrega em questão. Enquanto não for selecionada, ela ficará sem o desconto. Esse critério somente será considerado se o tipo da promoção for relativo ao valor de frete, ou seja, somente se for um dos seguintes tipos: Frete percentual, Frete nominal, Frete máximo ou Frete grátis.
-- **Meio de pagamento:** permite escolher se a promoção será aplicada em um ou mais tipos de meios de pagamento selecionados.
-> ℹ️ Por padrão, você pode cadastrar até 20 meios de pagamento por promoção. Além disso, existe a possibilidade de customização para incluir até 100 meios de pagamento. Caso precise utilizar mais de 20, entre em contato com o [nosso Suporte.](https://vtexhelp.zendesk.com/auth/v2/login/signin?return_to=https%3A%2F%2Fsupport.vtex.com%2Fhc%2Fpt-br%2Frequests&theme=hc&locale=pt-br&brand_id=144968&auth_origin=144968%2Ctrue%2Ctrue)
-- **Número de parcelas:** o desconto será concedido caso o número de parcelas selecionadas pelo cliente estiver no intervalo cadastrado. Esse campo não se aplica para a seleção de boleto.
- > ⚠️ Promoções por forma de pagamento e número de parcelas não atendem a pedidos pagos com dois cartões ou vale-compras.
-- **utm_source:** o desconto será concedido caso a navegação seja realizada com as **utm_source** correspondente a qualquer um dos valores cadastrados. É importante destacar que o cliente pode inserir apenas um **utm_source** no checkout.
-- **utm_campaign:** o desconto será concedido caso a navegação seja realizada com a utm_campaign com o valor cadastrado.
-- **Criar cupom a partir das UTMs acima:** cria um cupom a partir das UTMs cadastradas para dar ao cliente acesso à essa promoção sem a necessidade das utms, apenas com o código do cupom.
-- **utmi_cp:** o desconto será concedido caso a navegação seja realizada com a utmi_cp com o valor cadastrado (case sensitive).
- > ℹ️ No campo das UTMs coloque somente o valor que as UTMs terão que assumir para ativar a promoção. Não é necessário colocar ?utm_source= dentro do campo.
-- **Apenas na primeira compra:** o desconto só será concedido na primeira compra do cliente.
-- **Aplicar o desconto mesmo se o cliente não estiver logado:** este campo é disponibilizado quando o campo **Apenas na primeira compra** é selecionado. Se este campo é marcado, a promoção será aplicada mesmo que o consumidor não tenha inserido e-mail e senha. Quando desmarcado, a promoção somente será aplicada se o consumidor tiver acessado com e-mail e senha previamente cadastrados.
-- **Pedido de assinatura:** permite selecionar uma das opções abaixo:
-    - **Pedido original:** são pedidos que geram as assinaturas, mas ainda não fazem parte dos ciclos de assinatura.
-    - **Pedidos recorrentes:** são pedidos que fazem parte dos ciclos de assinatura.
-    - **Filtrar por**: permite filtrar quais pedidos de assinatura são válidos para a promoção.
-    - **Frequência:** seleção da frequência dos pedidos por assinatura - semanal, mensal e anual.  Para saber mais informações, acesse [Configurar frequência e data do ciclo de assinatura](/pt/tutorial/como-criar-um-anexo-de-assinatura--2bUuKyPflA8cOGLv8OvaKK#configurar-frequencia-e-data-do-ciclo-de-assinatura).
-   - **Número do ciclo:** permite selecionar os ciclos da assinatura que serão incluídos à promoção. Essa opção é desbloqueada apenas se **Pedidos recorrentes** forem selecionados anteriormente. 
+Use esta seção para limitar quantas vezes a promoção pode ser aplicada na loja ou por cliente.
 
-# 4. Restrições e limitações de uso
+- **Limitar o uso da promoção na loja**: ative esta opção para definir um número máximo de utilizações da promoção em toda a loja.  
+- **Limitar o uso da promoção por cliente**: ative esta opção para restringir quantas vezes cada cliente pode aproveitar a promoção.  
+- **Limitar a quantidade de itens elegíveis:** permite restringir o número máximo de itens por pedido que podem receber o desconto. O comportamento dessa configuração varia de acordo com a opção selecionada em **"O cliente ganha"**.  
+  - Para as condições **Desconto nominal**, **Desconto nominal: fórmula** e **Preço máximo por item**, o limite é aplicado ao total de itens no carrinho.  
+  - Para a condição **Desconto percentual**, é possível escolher se o limite será aplicado por carrinho, por produto ou por SKU.
 
-Nesta seção você encontrará informações importantes sobre quais condições e restrições se aplicam à promoção.
+## Configurar acúmulo e concorrência
 
-- **Quantas vezes essa promoção será aplicada em sua loja:** limita a quantidade de vezes  em que a promoção será aplicada. Quando a opção **ilimitada** é desmarcada, é disponibilizado um campo para cadastrar a quantidade de vezes que deseja limitar. Uma vez que a promoção já foi criada, essa condição só será aplicada a partir do dia em que foi configurada, não afetando os pedidos realizados anteriormente.
-- **Quantas vezes essa promoção será aplicada em sua loja por cliente:** O valor incluído neste campo determina o número máximo de vezes que cada cliente pode se beneficiar da promoção. Consideremos, por exemplo, um limite estabelecido de três utilizações. Caso a promoção seja aplicada três vezes em um único pedido, isso será considerado como uma única utilização em relação ao limite total. Assim, o cliente ainda terá a oportunidade de utilizar a promoção em mais dois pedidos diferentes. É importante destacar que este cálculo é independente da quantidade de vezes que a promoção é utilizada em cada pedido individualmente.
-- **Definir o número máximo de itens elegíveis por carrinho:** define quantos itens do carrinho serão afetados pela promoção. Leia [esse artigo](/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/jOu9b69mKbrTDfSJYAawy#limite-de-itens-com-promocao-no-carrinho) para saber como configurar o campo.
-- **Permitir acumular promoções:** permite que mais de uma promoção, independente do tipo de desconto, seja concedida ao mesmo tempo. Saiba mais sobre [como funciona a concorrência de promoções](/pt/tutorial/entendendo-a-concorrencia-de-promocoes--tutorials_2270#).
-- **Permitir acumular com preços manuais:** permite que a promoção seja aplicada a produtos cujos preços foram manualmente inseridos pelo televendas. Para habilitar a funcionalidade de preços manuais, use o endpoint [Update orderForm configuration](https://developers.vtex.com/docs/api-reference/checkout-api#post-/api/checkout/pvt/configuration/orderForm).
+Defina se a promoção pode ser aplicada junto com outras promoções ou com preços ajustados manualmente. Essas configurações controlam como a promoção se comporta em cenários combinados.
+
+- **Permitir acumular com outras promoções:** permite combinar esta promoção com outras que estejam ativas no mesmo pedido. Por padrão, a promoção já acumula descontos de frete e brindes. Para mais detalhes, consulte o artigo [Como funciona a concorrência de promoções](/pt/tutorial/entendendo-a-concorrencia-de-promocoes--tutorials_2270).  
+- **Permitir acumular com preços manuais**: permite que a promoção seja aplicada mesmo quando o produto já possui um preço definido manualmente.
+
+## Destacar a promoção na página de produto
+
+Use esta seção para destacar a promoção visualmente nos produtos exibidos na vitrine da loja.
+
+- **Destacar promoção nos produtos:** ative esta opção para exibir um selo promocional nos produtos afetados pela promoção. Para que o destaque funcione corretamente, é necessário [configurar a exibição no módulo CMS da loja](/pt/tutorial/configurando-promocao-com-destaque-flag--tutorials_2295).  
+- **Informações adicionais:** clique em `Criar` para adicionar campos personalizados com nome e valor, que podem ser usados para customizações na loja.
 

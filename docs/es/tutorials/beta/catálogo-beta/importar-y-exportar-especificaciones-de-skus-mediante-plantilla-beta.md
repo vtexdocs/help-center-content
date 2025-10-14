@@ -3,8 +3,8 @@ title: 'Importar y exportar especificaciones de SKUs mediante plantilla (Beta)'
 id: 5EAioeC33wHpIxKHaGQzbV
 status: PUBLISHED
 createdAt: 2025-09-26T15:29:35.015Z
-updatedAt: 2025-10-03T22:19:04.607Z
-publishedAt: 2025-10-03T22:19:04.607Z
+updatedAt: 2025-10-13T22:58:33.129Z
+publishedAt: 2025-10-13T22:58:33.129Z
 firstPublishedAt: 2025-09-26T16:15:50.391Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -51,7 +51,7 @@ Para exportar un archivo `.xlsx` con información sobre especificaciones de SKUs
 3. En la parte superior de la página, haz clic en `Exportar`.
 4. Haz clic en `Especificaciones de SKU`.
 
-Mientras la operación esté en curso, se mostrará un mensaje indicando que el archivo se está procesando. La operación seguirá en curso aunque salgas de la página. Puedes [hacer seguimiento del progreso de la exportación en la ventana modal](/es/tutorial/importacao-e-exportacao-de-produtos-e-skus-via-planilha-beta--5udKxWP1ZeBD7QB7Fy2BNl#acompanhar-janela-do-processo-de-exportacao) que se abre en la página.
+Mientras la operación esté en curso, se mostrará un mensaje indicando que el archivo se está procesando. La operación seguirá en curso aunque salgas de la página. Puedes [hacer seguimiento del progreso de la exportación en la ventana modal](/es/tutorial/importar-y-exportar-productos-y-skus-mediante-plantilla-beta--5udKxWP1ZeBD7QB7Fy2BNl#ventana-de-seguimiento-de-la-exportacion) que se abre en la página.
 
 Al finalizar la exportación recibirás un email con un link para descargar el archivo. El plazo para realizar la descarga vía link es de 24 horas; después de este periodo el link expirará. También puedes descargar el archivo desde la ventana modal que se abre en la página.
 
@@ -77,4 +77,10 @@ La siguiente tabla muestra la descripción y el ejemplo de valor de los campos d
 | Nombre Valor Campo | Nombre del valor del campo. | Color |
 | Código Especificación | Código numérico que identifica la relación entre el campo y el SKU. | 397 |
 | Valor Especificación  | Valor asignado al campo de la especificación de SKU. Esta es la única información que se puede editar a través de la plantilla. | Azul |
+
+## Más información
+
+* [Importar y exportar productos y SKUs mediante plantilla (Beta)](/es/tutorial/importar-y-exportar-productos-y-skus-mediante-plantilla-beta--5udKxWP1ZeBD7QB7Fy2BNl) 
+* [Importar y exportar especificaciones de productos mediante plantilla (Beta)](/es/tutorial/importar-y-exportar-especificaciones-de-productos-mediante-plantilla-beta--jQcmbocCb7kjHOr1JSWIL)
+* [Importar y exportar imágenes de productos y SKUs mediante plantilla (Beta)](/es/tutorial/importar-y-exportar-imagenes-de-productos-y-skus-mediante-plantilla-beta--6zBisMdxDYeBF49LPzvfqt)
 
