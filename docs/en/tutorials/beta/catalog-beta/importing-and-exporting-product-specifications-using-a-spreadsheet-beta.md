@@ -1,10 +1,10 @@
 ---
 title: 'Importing and exporting product specifications using a spreadsheet (Beta)'
 id: jQcmbocCb7kjHOr1JSWIL
-status: CHANGED
+status: PUBLISHED
 createdAt: 2025-09-26T15:11:47.384Z
-updatedAt: 2025-10-03T22:11:16.259Z
-publishedAt: 2025-10-03T21:43:51.564Z
+updatedAt: 2025-10-13T22:44:30.267Z
+publishedAt: 2025-10-13T22:44:30.267Z
 firstPublishedAt: 2025-09-26T16:15:47.785Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 6XPsLadoT3moZ7eTduCg3c
 ---
 
-> ℹ️ This feature is in beta, which means that we are working to improve it. If you have any questions, please contact our Support.
+> ℹ️ This feature is in beta, which means that we are working to improve it. If you have any questions, please contact our [Support](https://help.vtex.com/en/support).
 
 In VTEX Admin, you can manage product specification import and export using a spreadsheet, as described in the sections below:
 
@@ -38,18 +38,20 @@ To import product specifications using a spreadsheet, follow these steps:
 
   > ❗ The import time will depend on the size of the data being processed. Leaving the page won't interrupt the operation.
 
+While the operation is running, a message will display indicating that the file is being processed. After the import is complete, the page will display "Product specifications imported successfully" and you'll receive a confirmation email.
+
 ## Exporting product specifications using a spreadsheet
 
 To export an `.xlsx` file with the product specification information, follow these steps:
 
-> ℹ️ The exported information corresponds to the fields described in the Product specification spreadsheet fields section.
+> ℹ️ The exported information corresponds to the fields described in the [Product specification spreadsheet fields](#product-specification-spreadsheet-fields) section.
 
 1. In the VTEX Admin, go to **Catalog > Products and SKUs**, or type [Products and SKUs](/en/tutorial/produtos-e-skus--2ig7TmROlirWirZjFWZ3By) in the search bar at the top of the page.
 2. (Optional) If you want to export the product specifications of certain products, apply a [search](/en/tutorial/products-and-skus--2ig7TmROlirWirZjFWZ3By#searching-for-a-product) or a [filter](/en/tutorial/products-and-skus--2ig7TmROlirWirZjFWZ3By#filtering-products) as desired. This step isn't required to export all product specifications from your catalog.
 3. At the top of the page, click `Export`.
 4. Click `Product specifications`.
 
-While the export is running, a message will display indicating that the file is being processed. Leaving the page won't interrupt the operation. You can [track the export progress in the window](/en/tutorial/importacao-e-exportacao-de-produtos-e-skus-via-planilha-beta--5udKxWP1ZeBD7QB7Fy2BNl#acompanhar-janela-do-processo-de-exportacao) displayed on the page.
+While the export is running, a message will display indicating that the file is being processed. Leaving the page won't interrupt the operation. You can [track the export progress in the window](/en/tutorial/importing-and-exporting-products-and-skus-using-a-spreadsheet-beta--5udKxWP1ZeBD7QB7Fy2BNl#tracking-export-process) displayed on the page.
 
 Once the export is complete, you'll receive an email with a link to download the file. The download link is valid for 24 hours. After that, the link expires. You can also download the file from the window that opens on the page.
 
@@ -75,4 +77,10 @@ The following table describes and includes an example for each field of the prod
 | Field Value Name | Field value name. | Synthetic |
 | Specification Code | Numeric code that identifies the relationship between the field and the product. | 418  |
 | Specification Value | Value assigned to the product specification field. This is the only information that can be edited through the spreadsheet.  | Polyester |
+
+## Learn more
+
+* [Importing and exporting products and SKUs using a spreadsheet (Beta)](/en/tutorial/importing-and-exporting-products-and-skus-using-a-spreadsheet-beta--5udKxWP1ZeBD7QB7Fy2BNl)
+* [Importing and exporting SKU specifications using a spreadsheet (Beta)](/en/tutorial/importing-and-exporting-sku-specifications-using-a-spreadsheet-beta--5EAioeC33wHpIxKHaGQzbV)
+* [Importing and exporting product and SKU images using a spreadsheet (Beta)](/en/tutorial/importing-and-exporting-product-and-sku-images-using-a-spreadsheet-beta--6zBisMdxDYeBF49LPzvfqt)
 
