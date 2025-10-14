@@ -17413,66 +17413,6 @@
                 },
                 {
                   "name": {
-                    "en": "Import and export of products and SKUs via spreadsheet (Beta)",
-                    "es": "Importación y exportación de productos y SKUs mediante plantilla (Beta)",
-                    "pt": "Import and export of products and SKUs via spreadsheet (Beta)"
-                  },
-                  "slug": {
-                    "en": "import-and-export-of-products-and-skus-via-spreadsheet-beta",
-                    "es": "importacion-y-exportacion-de-productos-y-skus-mediante-plantilla-beta",
-                    "pt": ""
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Import and export product and SKU images via spreadsheet (Beta)",
-                    "es": "Importación y exportación de imágenes de productos y SKUs mediante plantilla (Beta)",
-                    "pt": "Import and export product and SKU images via spreadsheet (Beta)"
-                  },
-                  "slug": {
-                    "en": "import-and-export-product-and-sku-images-via-spreadsheet-beta",
-                    "es": "importacion-y-exportacion-de-imagenes-de-productos-y-skus-mediante-plantilla",
-                    "pt": ""
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Import and export product specifications via spreadsheet (Beta)",
-                    "es": "Importación y exportación de especificaciones de producto mediante plantilla (Beta)",
-                    "pt": "Import and export product specifications via spreadsheet (Beta)"
-                  },
-                  "slug": {
-                    "en": "import-and-export-product-specifications-via-spreadsheet-beta",
-                    "es": "importacion-y-exportacion-de-especificaciones-de-producto-mediante-plantilla",
-                    "pt": ""
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Import and export SKU specifications via spreadsheet (Beta)",
-                    "es": "Importación y exportación de especificaciones de SKU mediante plantilla (Beta)",
-                    "pt": "Import and export SKU specifications via spreadsheet (Beta)"
-                  },
-                  "slug": {
-                    "en": "import-and-export-sku-specifications-via-spreadsheet-beta",
-                    "es": "importacion-y-exportacion-de-especificaciones-de-sku-mediante-plantilla-beta",
-                    "pt": ""
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Importing and exporting product and SKU images using a spreadsheet (Beta)",
                     "es": "Importar y exportar imágenes de productos y SKUs mediante plantilla (Beta)",
                     "pt": "Importar e exportar imagens de produtos e SKUs via planilha (Beta)"
@@ -21189,37 +21129,6 @@
             },
             {
               "name": {
-                "en": "Cadastros de colaboradores",
-                "es": "Cadastros de colaboradores",
-                "pt": "Cadastros de colaboradores"
-              },
-              "slug": {
-                "en": "cadastros-de-colaboradores",
-                "es": "cadastros-de-colaboradores",
-                "pt": "cadastros-de-colaboradores"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "pt": "Diferenças entre vendedor fixo e vendedor temporário",
-                    "en": "Diferenças entre vendedor fixo e vendedor temporário",
-                    "es": "Diferenças entre vendedor fixo e vendedor temporário"
-                  },
-                  "slug": {
-                    "pt": "diferencas-entre-vendedor-fixo-e-vendedor-temporario-indeva",
-                    "en": "",
-                    "es": ""
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
                 "en": "Devices AND apps",
                 "es": "Dispositivos y aplicaciones",
                 "pt": "Dispositivos e aplicativos"
@@ -21295,21 +21204,6 @@
                 },
                 {
                   "name": {
-                    "en": "Difference between responsible seller and manager",
-                    "es": "Diferencia entre vendedor responsable y gerente",
-                    "pt": "Diferença entre vendedor responsável e gerente"
-                  },
-                  "slug": {
-                    "en": "difference-between-responsible-seller-and-manager",
-                    "es": "diferencia-entre-vendedor-responsable-y-gerente",
-                    "pt": "diferenca-entre-vendedor-responsavel-e-gerente"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Differences between responsible seller and manager profiles",
                     "es": "Diferencias entre los perfiles de vendedor responsable y gerente",
                     "pt": "Diferenças entre os perfis de vendedor responsável e gerente"
@@ -21370,21 +21264,6 @@
                 },
                 {
                   "name": {
-                    "en": "Transfer store collaborator",
-                    "es": "Transferir colaborador de tienda",
-                    "pt": "Transferir colaborador de loja"
-                  },
-                  "slug": {
-                    "en": "transfer-an-employee-from-one-store-to-another-indeva",
-                    "es": "transferir-a-un-empleado-de-una-tienda-a-otra-indeva",
-                    "pt": "transferir-colaborador-de-uma-loja-para-outra-indeva"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Types of seller registration in the Indeva platform",
                     "es": "Tipos de registro de vendedor en la plataforma Indeva",
                     "pt": "Tipos de cadastro de vendedor na plataforma Indeva"
@@ -21414,36 +21293,6 @@
               "origin": "",
               "type": "category",
               "children": [
-                {
-                  "name": {
-                    "en": "Adjust goals after a seller’s deactivation",
-                    "es": "Ajustar metas después del desligamiento de un vendedor",
-                    "pt": "Ajustar metas após o desligamento de um vendedor"
-                  },
-                  "slug": {
-                    "en": "adjust-goals-after-a-sellers-deactivation-indeva",
-                    "es": "ajustar-metas-despues-del-desligamiento-de-un-vendedor-indeva",
-                    "pt": "ajustar-metas-apos-o-desligamento-de-um-vendedor-indeva"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Change goal distribution format",
-                    "es": "Cambiar el formato de distribución de la meta",
-                    "pt": "Alterar formato de distribuição da meta"
-                  },
-                  "slug": {
-                    "en": "change-goal-distribution-format-indeva",
-                    "es": "cambiar-el-formato-de-distribucion-de-la-meta-indeva",
-                    "pt": "alterar-formato-de-distribuicao-da-meta-indeva"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
                 {
                   "name": {
                     "en": "Edit goal cycle format",
@@ -21484,21 +21333,6 @@
                     "en": "register-holidays-days-off-goal-cycle-indeva",
                     "es": "registrar-feriados-dias-libres-ciclo-metas-indeva",
                     "pt": "cadastrar-feriados-folgas-ciclo-meta-indeva"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Register time off for a seller",
-                    "es": "Registrar día libre para un vendedor",
-                    "pt": "Cadastrar folga para um vendedor"
-                  },
-                  "slug": {
-                    "en": "register-time-off-for-a-seller",
-                    "es": "registrar-dia-libre-para-un-vendedor",
-                    "pt": "cadastrar-folga-para-um-vendedor"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -21612,21 +21446,6 @@
                 },
                 {
                   "name": {
-                    "en": "Goal information review",
-                    "es": "Revisión de la información de la meta",
-                    "pt": "Revisão das informações da meta"
-                  },
-                  "slug": {
-                    "en": "goal-information-review-indeva",
-                    "es": "revision-de-la-informacion-de-la-meta-indeva",
-                    "pt": "revisao-das-informacoes-da-meta-indeva"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Goal period values",
                     "es": "Valores de los períodos de la meta",
                     "pt": "Valores dos períodos da meta"
@@ -21695,51 +21514,6 @@
                     "en": "sales-goals-registration-indeva",
                     "es": "registro-de-metas-de-ventas-indeva",
                     "pt": "cadastro-de-metas-de-vendas-indeva"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Seller goal format",
-                    "es": "Formato de metas de los vendedores",
-                    "pt": "Formato de metas dos vendedores"
-                  },
-                  "slug": {
-                    "en": "seller-goal-format-indeva",
-                    "es": "formato-de-metas-de-los-vendedores-indeva",
-                    "pt": "formato-de-metas-dos-vendedores-indeva"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Time off and holidays",
-                    "es": "Días libres y feriados",
-                    "pt": "Folgas e feriados"
-                  },
-                  "slug": {
-                    "en": "time-off-and-holidays-indeva",
-                    "es": "dias-libres-y-feriados-indeva",
-                    "pt": "folgas-e-feriados-indeva"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Weight distribution",
-                    "es": "Distribución de pesos",
-                    "pt": "Distribuição de pesos"
-                  },
-                  "slug": {
-                    "en": "weight-distribution",
-                    "es": "distribucion-de-pesos",
-                    "pt": "distribuicao-de-pesos"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -22054,21 +21828,6 @@
                 },
                 {
                   "name": {
-                    "en": "Manager registration",
-                    "es": "Registro de gerente",
-                    "pt": "Cadastro de gerente"
-                  },
-                  "slug": {
-                    "en": "manager-registration-indeva",
-                    "es": "registro-de-gerente-indeva",
-                    "pt": "cadastro-de-gerente-indeva"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Register a manager in the Indeva platform",
                     "es": "Registrar un gerente en la plataforma Indeva",
                     "pt": "Cadastrar gerente na plataforma Indeva"
@@ -22107,36 +21866,6 @@
                     "en": "track-manager-feedback-indeva-platform-indeva",
                     "es": "seguir-retroalimentacion-gerente-plataforma-indeva",
                     "pt": "acompanhar-feedback-gestor-plataforma-indeva"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Vacation manager",
-                    "es": "Gerente de vacaciones",
-                    "pt": "Gerente de Férias"
-                  },
-                  "slug": {
-                    "en": "vacation-manager-indeva",
-                    "es": "gerente-de-vacaciones-indeva",
-                    "pt": "gerente-de-ferias-indeva"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Viewing feedback",
-                    "es": "Viendo retroalimentación",
-                    "pt": "Visualizando feedback"
-                  },
-                  "slug": {
-                    "en": "viewing-feedback-indeva",
-                    "es": "viendo-retroalimentacion-indeva",
-                    "pt": "visualizando-feedback-indeva"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -22703,112 +22432,6 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
-                },
-                {
-                  "name": {
-                    "en": "Responsible seller",
-                    "es": "Vendedor responsable (VR)",
-                    "pt": "Vendedor responsável (VR)"
-                  },
-                  "slug": {
-                    "en": "responsible-seller-indeva",
-                    "es": "vendedor-responsable-vr-indeva",
-                    "pt": "vendedor-responsavel-vr-indeva"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Seller registration",
-                    "es": "Registro de vendedor",
-                    "pt": "Cadastro de vendedor"
-                  },
-                  "slug": {
-                    "en": "seller-registration-indeva",
-                    "es": "registro-de-vendedor-indeva",
-                    "pt": "cadastro-de-vendedor-indeva"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Seller status",
-                    "es": "Estado del vendedor",
-                    "pt": "Status de vendedor"
-                  },
-                  "slug": {
-                    "en": "seller-status-indeva",
-                    "es": "estado-del-vendedor-indeva",
-                    "pt": "status-de-vendedor-indeva"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Temporary seller",
-                    "es": "Vendedor temporal",
-                    "pt": "Vendedor temporário"
-                  },
-                  "slug": {
-                    "en": "temporary-seller",
-                    "es": "vendedor-temporal",
-                    "pt": "vendedor-temporario"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Vacation seller",
-                    "es": "Vendedor de vacaciones",
-                    "pt": "Vendedor de férias"
-                  },
-                  "slug": {
-                    "en": "vacation-seller-indeva",
-                    "es": "vendedor-de-vacaciones-indeva",
-                    "pt": "vendedor-de-ferias-indeva"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": {
-                "en": "Store",
-                "es": "Tienda",
-                "pt": "Loja"
-              },
-              "slug": {
-                "en": "store",
-                "es": "tienda",
-                "pt": "loja"
-              },
-              "origin": "",
-              "type": "category",
-              "children": [
-                {
-                  "name": {
-                    "en": "Store does not appear in Web Indeva",
-                    "es": "La tienda no aparece en Web Indeva",
-                    "pt": "Loja não aparece no Web Indeva"
-                  },
-                  "slug": {
-                    "en": "store-does-not-appear-in-web-indeva",
-                    "es": "la-tienda-no-aparece-en-web-indeva",
-                    "pt": "loja-nao-aparece-no-web-indeva"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
                 }
               ]
             },
@@ -22874,36 +22497,6 @@
                 },
                 {
                   "name": {
-                    "en": "Change loss reasons",
-                    "es": "Cambiar motivos de pérdida",
-                    "pt": "Alterar motivos de perda"
-                  },
-                  "slug": {
-                    "en": "change-loss-reasons-indeva",
-                    "es": "cambiar-motivos-de-perdida-indeva",
-                    "pt": "alterar-motivos-de-perda-indeva"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Change tags in Lista da Vez",
-                    "es": "Cambiar etiquetas en Lista da Vez",
-                    "pt": "Alterar Marcações na Lista da vez"
-                  },
-                  "slug": {
-                    "en": "change-tags-in-lista-da-vez-indeva",
-                    "es": "cambiar-etiquetas-en-lista-da-vez-indeva",
-                    "pt": "alterar-marcacoes-na-lista-da-vez-indeva"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Choose compatible totems for Indeva",
                     "es": "Elegir tótems compatibles con Indeva",
                     "pt": "Escolher totens compatíveis com a Indeva"
@@ -22919,21 +22512,6 @@
                 },
                 {
                   "name": {
-                    "en": "Error message \"request was denied for security\" in Indeva",
-                    "es": "Mensaje de error \"request was denied for security\" en Indeva",
-                    "pt": "Mensagem de erro \"request was denied for security\" no Indeva"
-                  },
-                  "slug": {
-                    "en": "error-message-request-was-denied-for-security-in-indeva",
-                    "es": "mensaje-de-error-request-was-denied-for-security-en-indeva",
-                    "pt": "mensagem-de-erro-request-was-denied-for-security-no-indeva"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Fix incorrect date and time in the Indeva app",
                     "es": "Corregir fecha y hora incorrectas en la app de Indeva",
                     "pt": "Corrigir erro de data e hora no aplicativo Indeva"
@@ -22942,21 +22520,6 @@
                     "en": "fix-date-time-error-indeva-app",
                     "es": "corregir-error-fecha-hora-aplicacion-indeva",
                     "pt": "corrigir-erro-data-hora-aplicativo-indeva"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Fix incorrect date and time message in Indeva – Lista da Vez",
-                    "es": "Corregir mensaje incorrecto de fecha y hora en Indeva – Lista da Vez",
-                    "pt": "Corrigir mensagem incorreta de data e hora no Indeva – Lista da Vez"
-                  },
-                  "slug": {
-                    "en": "fix-incorrect-date-and-time-message-in-indeva-lista-da-vez",
-                    "es": "corregir-mensaje-incorrecto-de-fecha-y-hora-en-indeva-lista-da-vez",
-                    "pt": "corrigir-mensagem-incorreta-de-data-e-hora-no-indeva-lista-da-vez"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -22987,36 +22550,6 @@
                     "en": "lista-da-vez-not-opening-safe-mode-enabled-indeva",
                     "es": "lista-da-vez-not-opening-safe-mode-enabled-indeva",
                     "pt": "lista-da-vez-nao-abre-modo-seguranca-ativado-indeva"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Incorrect seller display in Lista da Vez",
-                    "es": "Visualización incorrecta de vendedores en Lista da Vez",
-                    "pt": "Exibição incorreta de vendedores na Lista da Vez"
-                  },
-                  "slug": {
-                    "en": "incorrect-seller-display-in-lista-da-vez-indeva",
-                    "es": "visualizacion-incorrecta-de-vendedores-en-lista-da-vez-indeva",
-                    "pt": "exibicao-incorreta-de-vendedores-na-lista-da-vez-indeva"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Lista da Vez app does not open on the tablet",
-                    "es": "La aplicación Lista da Vez no se abre en la tableta",
-                    "pt": "Aplicativo Lista da Vez não abre no tablet"
-                  },
-                  "slug": {
-                    "en": "lista-da-vez-app-does-not-open-on-the-tablet-indeva",
-                    "es": "la-aplicacion-lista-da-vez-no-se-abre-en-la-tableta-indeva",
-                    "pt": "aplicativo-lista-da-vez-nao-abre-no-tablet-indeva"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -23062,36 +22595,6 @@
                     "en": "fix-missing-seller-lista-da-vez-app",
                     "es": "corregir-ausencia-vendedor-aplicacion-lista-da-vez",
                     "pt": "corrigir-ausencia-vendedor-aplicativo-lista-da-vez"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Tablet models approved for in-store use",
-                    "es": "Modelos de tablet homologados para uso en tienda",
-                    "pt": "Modelos de tablet homologados para uso em loja"
-                  },
-                  "slug": {
-                    "en": "tablet-models-approved-for-in-store-use-indeva",
-                    "es": "modelos-de-tablet-homologados-para-uso-en-tienda-indeva",
-                    "pt": "modelos-de-tablet-homologados-para-uso-em-loja-indeva"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
-                    "en": "Tags do not sync with Indeva",
-                    "es": "Las etiquetas no se sincronizan con Indeva",
-                    "pt": "Marcações não sincronizam com a Indeva"
-                  },
-                  "slug": {
-                    "en": "tags-do-not-sync-with-indeva",
-                    "es": "las-etiquetas-no-se-sincronizan-con-indeva",
-                    "pt": "marcacoes-nao-sincronizam-com-a-indeva"
                   },
                   "origin": "",
                   "type": "markdown",
