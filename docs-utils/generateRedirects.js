@@ -4,22 +4,16 @@ const matter = require('gray-matter');
 const csv = require('csv-parser');
 const csvFilePath = path.join(__dirname, '../redirects.csv'); // exported from https://vtexhelp.myvtex.com/admin/cms/redirects
 
-// Set to keep track of unique redirects
-const redirectsSet = new Set();
+// Sets to keep track of unique redirects
+const csvRedirectsSet = new Set();
+const legacySlugRedirectsSet = new Set();
 let filesProcessed = 0;
 
 // Initial content for netlify.toml
-let netlifyTomlContent = `
-[functions]
-external_node_modules = ["sharp"]
-included_files = ["node_modules/sharp/**/*", "./github.pem"]
-
-[[plugins]]
-    package = "@netlify/plugin-nextjs"
-`;
+let netlifyTomlContent = ``;
 
 // Function to add a redirect if from and to are different
-function addRedirect(from, to) {
+function addRedirect(from, to, redirectSet = csvRedirectsSet) {
     // Remove base URL if present
     const baseUrl = 'https://help.vtex.com';
     if (from.startsWith(baseUrl)) {
@@ -37,7 +31,7 @@ from = "${from}"
 status = 308
 to = "${to}"
 `;
-        redirectsSet.add(redirectEntry);
+        redirectSet.add(redirectEntry);
     }
 }
 
@@ -82,9 +76,9 @@ function processMarkdownFileLegacySlug(filePath) {
         // and the legacySlug is not undefined or the string "undefined"
         if (legacySlug && legacySlug !== 'undefined' && legacySlug !== localizedSlug) {
             if (contentType === 'troubleshooting') {
-                addRedirect(`/tutorials/${legacySlug}`, `/${locale}/${contentTypeNew}/${localizedSlug}`);
+                addRedirect(`/tutorials/${legacySlug}`, `/${locale}/${contentTypeNew}/${localizedSlug}`, legacySlugRedirectsSet);
             } else {
-                addRedirect(`/${contentType}/${legacySlug}`, `/${locale}/${contentTypeNew}/${localizedSlug}`);
+                addRedirect(`/${contentType}/${legacySlug}`, `/${locale}/${contentTypeNew}/${localizedSlug}`, legacySlugRedirectsSet);
             }
         }
     } catch (error) {
@@ -120,6 +114,13 @@ function processCsvLine(line) {
 // Read and process the CSV file
 function processCsvFile(filePath) {
     return new Promise((resolve, reject) => {
+        // Add section header for CSV redirects
+        netlifyTomlContent += `
+# ==========================================
+# REDIRECTS FROM CSV FILE (redirects.csv)
+# ==========================================
+`;
+        
         fs.createReadStream(filePath)
             .pipe(csv({ separator: ';' }))
             .on('data', (line) => {
@@ -139,11 +140,22 @@ async function main() {
     try {
         await processCsvFile(csvFilePath);
         console.log('CSV file has been processed.');
+        
         await iterateDocsDirectory(path.join(__dirname, '../docs'));
         console.log(`Docs directory has been processed. Files processed: ${filesProcessed}`);
 
-        // Convert the Set to a string and append to netlifyTomlContent
-        netlifyTomlContent += Array.from(redirectsSet).join('');
+        // Add CSV redirects first
+        netlifyTomlContent += Array.from(csvRedirectsSet).join('');
+        
+        // Add section header for legacySlug redirects
+        netlifyTomlContent += `
+# ==========================================
+# REDIRECTS FROM LEGACY SLUGS (markdown files)
+# ==========================================
+`;
+
+        // Add legacySlug redirects
+        netlifyTomlContent += Array.from(legacySlugRedirectsSet).join('');
         
         // Write the netlify.toml content to a file
         await fs.promises.writeFile('./netlify.toml', netlifyTomlContent, 'utf8');
