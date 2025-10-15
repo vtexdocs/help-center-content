@@ -17,8 +17,8 @@ Options:
   --help, -h          Show this help message
 
 Examples:
-  node generateRedirects.js                    # Generate redirect.json (default)
-  node generateRedirects.js --format json      # Generate redirect.json
+  node generateRedirects.js                    # Generate redirects.json (default)
+  node generateRedirects.js --format json      # Generate redirects.json
   node generateRedirects.js --format netlify   # Generate netlify.toml
 `);
     process.exit(0);
@@ -176,9 +176,9 @@ function processCsvFile(filePath) {
 async function generateJsonOutput() {
     let existingManualInput = [];
     
-    // Check if redirect.json exists and read existing manual input
+    // Check if redirects.json exists and read existing manual input
     try {
-        const redirectJsonPath = path.join(__dirname, '../redirect.json');
+        const redirectJsonPath = path.join(__dirname, '../redirects.json');
         if (fs.existsSync(redirectJsonPath)) {
             const existingData = JSON.parse(fs.readFileSync(redirectJsonPath, 'utf8'));
             if (existingData.redirects && existingData.redirects.fromManualInput) {
@@ -187,7 +187,7 @@ async function generateJsonOutput() {
             }
         }
     } catch (error) {
-        console.log('No existing redirect.json found or error reading it. Proceeding with new generation.');
+        console.log('No existing redirects.json found or error reading it. Proceeding with new generation.');
     }
     
     const jsonOutput = {
@@ -198,9 +198,9 @@ async function generateJsonOutput() {
         }
     };
     
-    const outputPath = path.join(__dirname, '../redirect.json');
+    const outputPath = path.join(__dirname, '../redirects.json');
     await fs.promises.writeFile(outputPath, JSON.stringify(jsonOutput, null, 2), 'utf8');
-    console.log('redirect.json has been generated.');
+    console.log('redirects.json has been generated.');
 }
 
 // Function to generate netlify output
