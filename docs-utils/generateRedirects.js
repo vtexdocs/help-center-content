@@ -4,16 +4,49 @@ const matter = require('gray-matter');
 const csv = require('csv-parser');
 const csvFilePath = path.join(__dirname, '../redirects.csv'); // exported from https://vtexhelp.myvtex.com/admin/cms/redirects
 
+// Parse CLI arguments
+const args = process.argv.slice(2);
+
+// Show help if requested
+if (args.includes('--help') || args.includes('-h')) {
+    console.log(`
+Usage: node generateRedirects.js [options]
+
+Options:
+  --format <format>    Output format: json (default) or netlify
+  --help, -h          Show this help message
+
+Examples:
+  node generateRedirects.js                    # Generate redirects.json (default)
+  node generateRedirects.js --format json      # Generate redirects.json
+  node generateRedirects.js --format netlify   # Generate netlify.toml
+`);
+    process.exit(0);
+}
+
+const outputFormat = args.includes('--format') ? args[args.indexOf('--format') + 1] : 'json';
+const validFormats = ['json', 'netlify'];
+
+if (!validFormats.includes(outputFormat)) {
+    console.error('Invalid output format. Use --format json or --format netlify');
+    console.error('Run with --help for usage information');
+    process.exit(1);
+}
+
 // Sets to keep track of unique redirects
 const csvRedirectsSet = new Set();
 const legacySlugRedirectsSet = new Set();
 let filesProcessed = 0;
 
+// Arrays to store redirects for JSON output
+const csvRedirectsArray = [];
+const legacySlugRedirectsArray = [];
+
 // Initial content for netlify.toml
 let netlifyTomlContent = ``;
 
 // Function to add a redirect if from and to are different
-function addRedirect(from, to, redirectSet = csvRedirectsSet) {
+function addRedirect(from, to, redirectSet = csvRedirectsSet, redirectArray = csvRedirectsArray) {
     // Remove base URL if present
     const baseUrl = 'https://help.vtex.com';
     if (from.startsWith(baseUrl)) {
@@ -24,6 +57,7 @@ function addRedirect(from, to, redirectSet = csvRedirectsSet) {
     }
 
     if (from !== to) {
+        // For netlify format
         const redirectEntry = `
 [[redirects]]
 force = true
@@ -32,6 +66,9 @@ status = 308
 to = "${to}"
 `;
         redirectSet.add(redirectEntry);
+        
+        // For JSON format
+        redirectArray.push({ from, to });
     }
 }
 
@@ -76,9 +113,9 @@ function processMarkdownFileLegacySlug(filePath) {
         // and the legacySlug is not undefined or the string "undefined"
         if (legacySlug && legacySlug !== 'undefined' && legacySlug !== localizedSlug) {
             if (contentType === 'troubleshooting') {
-                addRedirect(`/tutorials/${legacySlug}`, `/${locale}/${contentTypeNew}/${localizedSlug}`, legacySlugRedirectsSet);
+                addRedirect(`/tutorials/${legacySlug}`, `/${locale}/${contentTypeNew}/${localizedSlug}`, legacySlugRedirectsSet, legacySlugRedirectsArray);
             } else {
-                addRedirect(`/${contentType}/${legacySlug}`, `/${locale}/${contentTypeNew}/${localizedSlug}`, legacySlugRedirectsSet);
+                addRedirect(`/${contentType}/${legacySlug}`, `/${locale}/${contentTypeNew}/${localizedSlug}`, legacySlugRedirectsSet, legacySlugRedirectsArray);
             }
         }
     } catch (error) {
@@ -135,6 +172,57 @@ function processCsvFile(filePath) {
     });
 }
 
+// Function to generate JSON output
+async function generateJsonOutput() {
+    let existingManualInput = [];
+    
+    // Check if redirects.json exists and read existing manual input
+    try {
+        const redirectJsonPath = path.join(__dirname, '../redirects.json');
+        if (fs.existsSync(redirectJsonPath)) {
+            const existingData = JSON.parse(fs.readFileSync(redirectJsonPath, 'utf8'));
+            if (existingData.redirects && existingData.redirects.fromManualInput) {
+                existingManualInput = existingData.redirects.fromManualInput;
+                console.log(`Found ${existingManualInput.length} existing manual input redirects to preserve.`);
+            }
+        }
+    } catch (error) {
+        console.log('No existing redirects.json found or error reading it. Proceeding with new generation.');
+    }
+    
+    const jsonOutput = {
+        redirects: {
+            fromCsvExport: csvRedirectsArray,
+            fromLegacySlugs: legacySlugRedirectsArray,
+            fromManualInput: existingManualInput
+        }
+    };
+    
+    const outputPath = path.join(__dirname, '../redirects.json');
+    await fs.promises.writeFile(outputPath, JSON.stringify(jsonOutput, null, 2), 'utf8');
+    console.log('redirects.json has been generated.');
+}
+
+// Function to generate netlify output
+async function generateNetlifyOutput() {
+    // Add CSV redirects first
+    netlifyTomlContent += Array.from(csvRedirectsSet).join('');
+    
+    // Add section header for legacySlug redirects
+    netlifyTomlContent += `
+# ==========================================
+# REDIRECTS FROM LEGACY SLUGS (markdown files)
+# ==========================================
+`;
+
+    // Add legacySlug redirects
+    netlifyTomlContent += Array.from(legacySlugRedirectsSet).join('');
+    
+    // Write the netlify.toml content to a file
+    await fs.promises.writeFile('./netlify.toml', netlifyTomlContent, 'utf8');
+    console.log('netlify.toml has been generated.');
+}
+
 // Main function to run the tasks sequentially
 async function main() {
     try {
@@ -144,22 +232,12 @@ async function main() {
         await iterateDocsDirectory(path.join(__dirname, '../docs'));
         console.log(`Docs directory has been processed. Files processed: ${filesProcessed}`);
 
-        // Add CSV redirects first
-        netlifyTomlContent += Array.from(csvRedirectsSet).join('');
-        
-        // Add section header for legacySlug redirects
-        netlifyTomlContent += `
-# ==========================================
-# REDIRECTS FROM LEGACY SLUGS (markdown files)
-# ==========================================
-`;
-
-        // Add legacySlug redirects
-        netlifyTomlContent += Array.from(legacySlugRedirectsSet).join('');
-        
-        // Write the netlify.toml content to a file
-        await fs.promises.writeFile('./netlify.toml', netlifyTomlContent, 'utf8');
-        console.log('netlify.toml has been generated.');
+        // Generate output based on format
+        if (outputFormat === 'json') {
+            await generateJsonOutput();
+        } else {
+            await generateNetlifyOutput();
+        }
     } catch (error) {
         console.error('Error:', error);
     }
