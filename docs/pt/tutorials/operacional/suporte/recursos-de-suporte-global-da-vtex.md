@@ -3,8 +3,8 @@ title: 'Recursos de Suporte Global da VTEX'
 id: 5maoEWCrTKFAEMXRsfcklV
 status: PUBLISHED
 createdAt: 2025-06-16T11:23:32.616Z
-updatedAt: 2025-06-18T18:11:58.784Z
-publishedAt: 2025-06-18T18:11:58.784Z
+updatedAt: 2025-10-15T19:31:40.399Z
+publishedAt: 2025-10-15T19:31:40.399Z
 firstPublishedAt: 2025-06-16T13:25:37.792Z
 contentType: tutorial
 productTeam: Billing
@@ -21,37 +21,12 @@ Este documento apresenta a disponibilidade, o SLA de atendimento e os recursos a
 
 A seguir, apresentamos a tabela de disponibilidade e os SLAs de atendimento, que são padrões globais aplicáveis a clientes e parceiros atendidos pela VTEX. 
 
-<table class="w-100 center mv7 bb b--gray" style="border-spacing: 0px; border-collapse: collapse;">
-  <thead>
-    <tr class="bb b--muted-3">
-      <th style="background-color: white;" class="t-body fw5 c-muted-1 bb bw1 pa2 pb3 b--muted-3 tl">Classificação por prioridade</th>
-      <th style="background-color: white;" class="t-body fw5 c-muted-1 bb bw1 pa2 pb3 b--muted-3 tl">Tempo médio de primeira resposta</th>
-      <th style="background-color: white;" class="t-body fw5 c-muted-1 bb bw1 pa2 pb3 b--muted-3 tl">Descrição</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr class="bb b--muted-3">
-      <td style="background-color: white;">Urgente</td>
-      <td style="background-color: white;">1 hora</td>
-      <td style="background-color: white;">Sua loja VTEX em produção está indisponível ou completamente inutilizável, com todos os clientes ou todas as regiões afetadas. <br><br>*Exemplo: VTEX retornando erro 502 para todos usuários.*</td>
-    </tr>
-    <tr class="bb b--muted-3">
-      <td style="background-color: white;">Alta</td>
-      <td style="background-color: white;">2-4 horas</td>
-      <td style="background-color: white;">Funcionalidades importantes da sua loja VTEX estão indisponíveis ou extremamente lentas, sem alternativa viável para contornar o problema. <br><br>*Exemplo: Uma promoção não está sendo aplicada ou produtos não estão sendo enviados de um Seller para um Marketplace.*</td>
-    </tr>
-    <tr class="bb b--muted-3">
-      <td style="background-color: white;">Normal</td>
-      <td style="background-color: white;">4-8 horas</td>
-      <td style="background-color: white;">Funcionalidades importantes da sua loja VTEX estão indisponíveis ou lentas, mas existe uma alternativa viável para contornar o problema. <br><br>*Exemplo: Um problema conhecido impacta o seu uso da VTEX, mas um workaround está sendo utilizado como solução temporária.*</td>
-    </tr>
-    <tr class="bb b--muted-3">
-      <td style="background-color: white;">Baixa</td>
-      <td style="background-color: white;">8-12 horas</td>
-      <td style="background-color: white;">Chamados para o time financeiro, tarefas ou perguntas sobre funcionalidades ou documentação. <br><br>*Exemplo: "É possível configurar feriados locais na plataforma?"*</td>
-    </tr>
-  </tbody>
-</table>
+| Classificação por prioridade | Tempo médio de primeira resposta | Descrição |
+|------------------------------|----------------------------------|------------|
+| **Urgente** | **1 hora** | Sua loja VTEX em produção está indisponível ou completamente inutilizável, com todos os clientes ou todas as regiões afetadas.<br><br>_Exemplo: VTEX retornando erro 502 para todos usuários._ |
+| **Alta** | **2–4 horas** | Funcionalidades importantes da sua loja VTEX estão indisponíveis ou extremamente lentas, sem alternativa viável para contornar o problema.<br><br>_Exemplo: Uma promoção não está sendo aplicada ou produtos não estão sendo enviados de um Seller para um Marketplace._ |
+| **Normal** | **4–8 horas** | Funcionalidades importantes da sua loja VTEX estão indisponíveis ou lentas, mas existe uma alternativa viável para contornar o problema.<br><br>_Exemplo: Um problema conhecido impacta o seu uso da VTEX, mas um workaround está sendo utilizado como solução temporária._ |
+| **Baixa** | **8–12 horas** | Chamados para o time financeiro, tarefas ou perguntas sobre funcionalidades ou documentação.<br><br>_Exemplo: “É possível configurar feriados locais na plataforma?”_ |
 
 Observe que nosso cálculo para o tempo de primeira resposta considera apenas as horas úteis.
 

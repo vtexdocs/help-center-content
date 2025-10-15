@@ -3,8 +3,8 @@ title: 'Criar sinônimos'
 id: 5IfjhvjxNAvJGEWNn0AhOA
 status: PUBLISHED
 createdAt: 2024-06-27T16:36:30.904Z
-updatedAt: 2025-09-04T14:11:28.043Z
-publishedAt: 2025-09-04T14:11:28.043Z
+updatedAt: 2025-10-15T13:46:16.968Z
+publishedAt: 2025-10-15T13:46:16.968Z
 firstPublishedAt: 2024-06-27T16:37:25.800Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -43,7 +43,9 @@ A alteração pode demorar até duas horas para ser aplicada.
 
 ## Importar CSV
 
-Caso existam muitos sinônimos a serem cadastrados, você pode fazer um arquivo .csv e depois importá-lo no Admin VTEX. 
+Caso existam muitos sinônimos a serem cadastrados, você pode fazer um arquivo .csv e depois importá-lo no Admin VTEX.
+
+> ⚠️ O arquivo CSV utilizado na importação deve ter no máximo 20 KB. Arquivos maiores não serão aceitos pelo sistema. Para solicitar a importação de um arquivo maior, entre em contato com o  [Suporte](https://support.vtex.com/hc/pt-br/requests).
 
 Para importar sinônimos por planilha, siga os passos abaixo:
 
