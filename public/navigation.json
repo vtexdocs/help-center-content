@@ -58114,6 +58114,21 @@
             },
             {
               "name": {
+                "en": "Payment status stuck and transaction canceling after risk analysis rejected",
+                "es": "Estado del pago bloqueado y anulación de la operación tras el rechazo del análisis de riesgos",
+                "pt": "Status de pagamento bloqueado e cancelamento da transação após a rejeição da análise de risco"
+              },
+              "slug": {
+                "en": "payment-status-stuck-and-transaction-canceling-after-risk-analysis-rejected",
+                "es": "estado-del-pago-bloqueado-y-anulacion-de-la-operacion-tras-el-rechazo-del-analisis-de-riesgos",
+                "pt": "status-de-pagamento-bloqueado-e-cancelamento-da-transacao-apos-a-rejeicao-da-analise-de-risco"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Payments Gateway does not correctly send subaccount information in the payload to the connector",
                 "es": "Payments Gateway no envía correctamente la información de la subcuenta en la carga útil al conector",
                 "pt": "O Gateway de Pagamentos não envia corretamente as informações da subconta na carga útil para o conector"
