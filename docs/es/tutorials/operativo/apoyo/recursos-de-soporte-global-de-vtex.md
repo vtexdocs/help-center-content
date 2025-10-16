@@ -3,8 +3,8 @@ title: 'Recursos de soporte global de VTEX'
 id: 5maoEWCrTKFAEMXRsfcklV
 status: PUBLISHED
 createdAt: 2025-06-16T11:23:32.616Z
-updatedAt: 2025-10-15T19:31:40.399Z
-publishedAt: 2025-10-15T19:31:40.399Z
+updatedAt: 2025-10-16T17:30:58.274Z
+publishedAt: 2025-10-16T17:30:58.274Z
 firstPublishedAt: 2025-06-16T13:25:37.792Z
 contentType: tutorial
 productTeam: Billing
@@ -58,7 +58,6 @@ Consulta a continuación la tabla con los escenarios considerados para clasifica
     </tr>
   </thead>
 
-  <!-- Financiero -->
   <tr class="bb b--muted-3">
     <td>Financiero</td>
     <td></td>
@@ -67,7 +66,6 @@ Consulta a continuación la tabla con los escenarios considerados para clasifica
     <td>Baja</td>
   </tr>
 
-  <!-- Técnico -->
   <tr class="bb b--muted-3">
     <td rowspan="8">Técnico</td>
     <td>Pregunta</td>
@@ -75,6 +73,7 @@ Consulta a continuación la tabla con los escenarios considerados para clasifica
     <td></td>
     <td>Baja</td>
   </tr>
+
   <tr class="bb b--muted-3">
     <td>Tarea</td>
     <td></td>
@@ -82,32 +81,34 @@ Consulta a continuación la tabla con los escenarios considerados para clasifica
     <td>Baja</td>
   </tr>
 
-  <!-- Incidente (Internos) -->
   <tr class="bb b--muted-3">
     <td rowspan="6">Incidente</td>
     <td rowspan="3">Internos</td>
     <td>Bajo</td>
     <td>Baja</td>
   </tr>
+
   <tr class="bb b--muted-3">
     <td>Moderado</td>
     <td>Normal</td>
   </tr>
+
   <tr class="bb b--muted-3">
     <td>Alto</td>
     <td>Alta</td>
   </tr>
 
-  <!-- Incidente (Externos/Todos) -->
   <tr class="bb b--muted-3">
     <td rowspan="3">Externos/Todos</td>
     <td>Bajo</td>
     <td>Normal</td>
   </tr>
+
   <tr class="bb b--muted-3">
     <td>Moderado</td>
     <td>Alta</td>
   </tr>
+
   <tr class="bb b--muted-3">
     <td>Alto</td>
     <td>Urgente</td>

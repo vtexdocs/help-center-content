@@ -39,6 +39,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "New display of the items affected by a promotion",
+                    "es": "Nueva forma de destacar la cantidad de productos incluidos en una promoción",
+                    "pt": "Nova exibição da quantidade de produtos afetados por promoção"
+                  },
+                  "slug": {
+                    "en": "2025-10-16-new-display-of-the-items-affected-by-a-promotion",
+                    "es": "2025-10-16-nueva-forma-de-destacar-la-cantidad-de-productos-incluidos-en-una-promocion",
+                    "pt": "2025-10-16-nova-exibicao-da-quantidade-de-produtos-afetados-por-promocao"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Mercado Libre Holidays",
                     "es": "Mercado Libre Feriados",
                     "pt": "Mercado Livre Feriados"
@@ -21518,6 +21533,21 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
+                },
+                {
+                  "name": {
+                    "en": "Set goal values by period in Indeva",
+                    "es": "Definir valores de las metas por período en Indeva",
+                    "pt": "Definir valores das metas por período no Indeva"
+                  },
+                  "slug": {
+                    "en": "set-goal-values-by-period-indeva",
+                    "es": "definir-valores-de-las-metas-por-periodo-indeva",
+                    "pt": "definir-valores-das-metas-por-periodo-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
                 }
               ]
             },
@@ -38344,21 +38374,6 @@
                 },
                 {
                   "name": {
-                    "en": "Create project",
-                    "es": "Crear projeto",
-                    "pt": "Criar projeto"
-                  },
-                  "slug": {
-                    "en": "create-project",
-                    "es": "crear-projeto",
-                    "pt": "criar-projeto"
-                  },
-                  "origin": "",
-                  "type": "markdown",
-                  "children": []
-                },
-                {
-                  "name": {
                     "en": "Dashboard",
                     "es": "Panel de control",
                     "pt": "Dashboard"
@@ -38367,6 +38382,36 @@
                     "en": "dashboard",
                     "es": "panel-de-control",
                     "pt": "dashboard"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "First Steps - Register and login",
+                    "es": "Primeros pasos - Registro y login",
+                    "pt": "Primeiros passos - Cadastro e login"
+                  },
+                  "slug": {
+                    "en": "first-steps-register-and-login",
+                    "es": "primeros-pasos-registro-y-login",
+                    "pt": "primeiros-passos-cadastro-e-login"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Getting Started - Create project",
+                    "es": "Primeros Pasos - Crear projeto",
+                    "pt": "Primeiros Passos - Criar projeto"
+                  },
+                  "slug": {
+                    "en": "create-project",
+                    "es": "crear-projeto",
+                    "pt": "criar-projeto"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -39187,6 +39232,21 @@
                 "en": "b2b-organizations-detail-ui-only-shows-100-first-sellers",
                 "es": "la-interfaz-de-usuario-detallada-de-las-organizaciones-b2b-solo-muestra-100-primeros-vendedores",
                 "pt": "a-interface-de-usuario-detalhada-das-organizacoes-b2b-mostra-apenas-100-primeiros-vendedores"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "B2B Organizations without an address number as a valid address",
+                "es": "Organizaciones B2B sin número de dirección como dirección válida",
+                "pt": "Organizações B2B sem um número de endereço como um endereço válido"
+              },
+              "slug": {
+                "en": "b2b-organizations-without-an-address-number-as-a-valid-address",
+                "es": "organizaciones-b2b-sin-numero-de-direccion-como-direccion-valida",
+                "pt": "organizacoes-b2b-sem-um-numero-de-endereco-como-um-endereco-valido"
               },
               "origin": "",
               "type": "markdown",
@@ -40388,6 +40448,21 @@
                 "en": "catalogv2-user-roles-not-applying",
                 "es": "los-roles-de-usuario-de-catalogv2-no-se-aplican",
                 "pt": "catalogv2-funcoes-do-usuario-que-nao-se-aplicam"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Categories missing seller not provisioned correctly",
+                "es": "Categorías que faltan vendedor no provisionado correctamente",
+                "pt": "Categorias ausentes do vendedor não provisionadas corretamente"
+              },
+              "slug": {
+                "en": "categories-missing-seller-not-provisioned-correctly",
+                "es": "categorias-que-faltan-vendedor-no-provisionado-correctamente",
+                "pt": "categorias-ausentes-do-vendedor-nao-provisionadas-corretamente"
               },
               "origin": "",
               "type": "markdown",
