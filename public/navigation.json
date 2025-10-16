@@ -39630,6 +39630,21 @@
           "children": [
             {
               "name": {
+                "en": "Categories missing seller not provisioned correctly",
+                "es": "Categorías que faltan vendedor no provisionado correctamente",
+                "pt": "Categorias ausentes do vendedor não provisionadas corretamente"
+              },
+              "slug": {
+                "en": "categories-missing-seller-not-provisioned-correctly",
+                "es": "categorias-que-faltan-vendedor-no-provisionado-correctamente",
+                "pt": "categorias-ausentes-do-vendedor-nao-provisionadas-corretamente"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": " 'Position' of the trade policy depends on the page it is shown on the admin interface",
                 "es": " La 'posición' de la política comercial depende de la página en la que se muestra en la interfaz de administración",
                 "pt": " A 'posição' da política comercial depende da página que é mostrada na interface administrativa"

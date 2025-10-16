@@ -1,10 +1,10 @@
 ---
-title: 'Crear projeto'
+title: 'Primeros Pasos - Crear projeto'
 id: 6s7Y3xsQSOTGxufA9bY8IP
 status: PUBLISHED
 createdAt: 2025-09-01T15:32:25.883Z
-updatedAt: 2025-10-03T14:21:49.832Z
-publishedAt: 2025-10-03T14:21:49.832Z
+updatedAt: 2025-10-16T18:24:16.133Z
+publishedAt: 2025-10-16T18:24:16.133Z
 firstPublishedAt: 2025-10-03T14:21:49.832Z
 contentType: tutorial
 productTeam: Post-purchase
