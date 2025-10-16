@@ -103,10 +103,8 @@ function processMarkdownFileLegacySlug(filePath) {
 
         if (contentType === 'tracks') {
             contentTypeNew = 'docs/' + contentType;
-        } else if (contentType === 'troubleshooting') {
-            contentTypeNew = 'docs/troubleshooting';
         } else {
-            contentTypeNew = 'docs/' + contentType;
+            contentTypeNew = contentType;
         }
 
         // Only add legacySlug redirects if the legacy slug is different from the current slug
