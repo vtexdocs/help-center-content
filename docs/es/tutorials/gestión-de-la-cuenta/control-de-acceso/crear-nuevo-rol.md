@@ -3,8 +3,8 @@ title: 'Crear nuevo rol'
 id: qGtNQpKSSAduX94l2WZBW
 status: PUBLISHED
 createdAt: 2023-11-30T16:42:01.373Z
-updatedAt: 2024-11-22T14:17:26.392Z
-publishedAt: 2024-11-22T14:17:26.392Z
+updatedAt: 2025-10-15T14:05:46.117Z
+publishedAt: 2025-10-15T14:05:46.117Z
 firstPublishedAt: 2023-11-30T17:12:45.125Z
 contentType: tutorial
 productTeam: Identity
@@ -55,6 +55,8 @@ Para empezar a utilizar un rol predefinido sigue las instrucciones a continuaci�
 5. Haz clic en `Guardar`.
 
 ## Rol personalizado
+
+> ⚠️ Para crear o editar un rol, el usuario debe tener un rol del tipo **User Administrator - RESTRICTED** y también un rol que incluya el producto o recurso específico que desea editar. Tener solo el rol **User Administrator - RESTRICTED** **no es suficiente**. Por ejemplo, para editar un rol que contenga recursos del producto **OMS**, el usuario debe tener asignado tanto un rol **User Administrator - RESTRICTED** como un rol que incluya los recursos de **OMS**. Esta regla se aplica tanto a la edición de roles existentes como a la creación de nuevos roles personalizados. El usuario debe tener acceso al producto correspondiente para agregar o modificar sus recursos.
 
 Sigue las instrucciones a continuación para crear un rol personalizado que responda a las necesidades de acceso de un grupo de usuarios:
 

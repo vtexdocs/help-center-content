@@ -3,8 +3,8 @@ title: 'Creating roles'
 id: qGtNQpKSSAduX94l2WZBW
 status: PUBLISHED
 createdAt: 2023-11-30T16:42:01.373Z
-updatedAt: 2024-11-22T14:17:26.392Z
-publishedAt: 2024-11-22T14:17:26.392Z
+updatedAt: 2025-10-15T14:05:46.117Z
+publishedAt: 2025-10-15T14:05:46.117Z
 firstPublishedAt: 2023-11-30T17:12:45.125Z
 contentType: tutorial
 productTeam: Identity
@@ -53,6 +53,8 @@ To start using a predefined role, follow the instructions below:
 5. Click `Save`.
 
 ## Creating custom roles
+
+> ⚠️ To create or edit a role, the user must have a **User Administrator - RESTRICTED** role and also a role that includes the specific product or resource they want to edit. Having only the **User Administrator - RESTRICTED** role is **not sufficient**. For example, to edit a role that contains resources from the **OMS** product, the user must be assigned both a **User Administrator - RESTRICTED** role and a role that includes **OMS** resources. This rule applies to both the editing of existing roles and the creation of new custom roles. The user must have access to the corresponding product in order to add or modify its resources.
 
 To create a custom role that meets the access needs of a group of users, follow the instructions below:
 

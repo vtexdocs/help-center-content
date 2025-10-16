@@ -3,8 +3,8 @@ title: 'VTEX Global Support resources'
 id: 5maoEWCrTKFAEMXRsfcklV
 status: PUBLISHED
 createdAt: 2025-06-16T11:23:32.616Z
-updatedAt: 2025-06-18T18:11:58.784Z
-publishedAt: 2025-06-18T18:11:58.784Z
+updatedAt: 2025-10-15T19:31:40.399Z
+publishedAt: 2025-10-15T19:31:40.399Z
 firstPublishedAt: 2025-06-16T13:25:37.792Z
 contentType: tutorial
 productTeam: Billing
@@ -21,37 +21,12 @@ This document presents the availability, service SLAs, and additional support re
 
 The following table shows the availability and service SLAs, which are global standards applicable to clients and partners served by VTEX.
 
-<table class="w-100 center mv7 bb b--gray" style="border-spacing: 0px; border-collapse: collapse;">
-  <thead>
-    <tr class="bb b--muted-3">
-      <th style="background-color: white;" class="t-body fw5 c-muted-1 bb bw1 pa2 pb3 b--muted-3 tl">Priority ranking</th>
-      <th style="background-color: white;" class="t-body fw5 c-muted-1 bb bw1 pa2 pb3 b--muted-3 tl">Average first response time</th>
-      <th style="background-color: white;" class="t-body fw5 c-muted-1 bb bw1 pa2 pb3 b--muted-3 tl">Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr class="bb b--muted-3">
-      <td style="background-color: white;">Urgent</td>
-      <td style="background-color: white;">1 hour</td>
-      <td style="background-color: white;">Your VTEX store in production is unavailable or completely unusable, with all clients or all regions affected. <br><br>*Example: VTEX returning error 502 for all users.*</td>
-    </tr>
-    <tr class="bb b--muted-3">
-      <td style="background-color: white;">High</td>
-      <td style="background-color: white;">2-4 hours</td>
-      <td style="background-color: white;">Important features of your VTEX store are unavailable or extremely slow, with no viable workaround. <br><br>*Example: A promotion fails to apply, or products fail to sync from a seller to a marketplace.*</td>
-    </tr>
-    <tr class="bb b--muted-3">
-      <td style="background-color: white;">Normal</td>
-      <td style="background-color: white;">4-8 hours</td>
-      <td style="background-color: white;">Important features of your VTEX store are unavailable or slow, but a viable workaround exists. <br><br>*Example: A known issue impacts your store, but a temporary solution is in place.*</td>
-    </tr>
-    <tr class="bb b--muted-3">
-      <td style="background-color: white;">Low</td>
-      <td style="background-color: white;">8-12 hours</td>
-      <td style="background-color: white;">Finance-related tickets, tasks, or questions about features or documentation. <br><br>*Example: "Can you set up local holidays on the platform?"*</td>
-    </tr>
-  </tbody>
-</table>
+| Priority ranking | Average first response time | Description |
+|------------------|------------------------------|--------------|
+| **Urgent** | **1 hour** | Your VTEX store in production is unavailable or completely unusable, with all clients or all regions affected.<br><br>_Example: VTEX returning error 502 for all users._ |
+| **High** | **2–4 hours** | Important features of your VTEX store are unavailable or extremely slow, with no viable workaround.<br><br>_Example: A promotion fails to apply, or products fail to sync from a seller to a marketplace._ |
+| **Normal** | **4–8 hours** | Important features of your VTEX store are unavailable or slow, but a viable workaround exists.<br><br>_Example: A known issue impacts your store, but a temporary solution is in place._ |
+| **Low** | **8–12 hours** | Finance-related tickets, tasks, or questions about features or documentation.<br><br>_Example: “Can you set up local holidays on the platform?”_ |
 
 Please note the first response time is calculated based on business hours only.
 

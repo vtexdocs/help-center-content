@@ -3,8 +3,8 @@ title: 'Creating synonyms'
 id: 5IfjhvjxNAvJGEWNn0AhOA
 status: PUBLISHED
 createdAt: 2024-06-27T16:36:30.904Z
-updatedAt: 2025-09-04T14:11:28.043Z
-publishedAt: 2025-09-04T14:11:28.043Z
+updatedAt: 2025-10-15T13:46:16.968Z
+publishedAt: 2025-10-15T13:46:16.968Z
 firstPublishedAt: 2024-06-27T16:37:25.800Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -44,6 +44,8 @@ Changes can take up to two hours to take effect.
 ## Importing CSV spreadsheet
 
 In case there are many synonyms to be added, you can make a .csv file and import it in the Admin.
+
+> ⚠️ The CSV file used in the import must be up to 20 KB. Larger files will not be accepted by the system. To request the import of a larger file, please contact [Support](https://support.vtex.com/hc/en-us/requests).
 
 To import the file, follow the steps below:
 

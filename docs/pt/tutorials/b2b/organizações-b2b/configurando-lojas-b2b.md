@@ -3,8 +3,8 @@ title: 'Configurando lojas B2B'
 id: 7riBcnrOv4Cz7qMeACyVLm
 status: PUBLISHED
 createdAt: 2023-10-11T15:17:39.003Z
-updatedAt: 2025-08-14T15:51:14.997Z
-publishedAt: 2025-08-14T15:51:14.997Z
+updatedAt: 2025-10-14T18:11:52.743Z
+publishedAt: 2025-10-14T18:11:52.743Z
 firstPublishedAt: 2023-10-19T13:27:04.087Z
 contentType: tutorial
 productTeam: B2B
@@ -28,8 +28,7 @@ Nesta página, é possível realizar as seguintes ações.
 - Remover política comercial da loja
 
 ## Definir aprovação de novas organizações
-
-    - Aprovar automaticamente novas organizações: quando habilitada, todas as organizações recém-criadas serão aprovadas automaticamente.
+- Aprovar automaticamente novas organizações: quando habilitada, todas as organizações recém-criadas serão aprovadas automaticamente.
 Quando essa opção estiver desabilitada, é possível configurar a barra superior de notificação para informar que a organização ainda não está aprovada.
 
 Após configurar a aprovação de organizações, personalize a barra superior exibida aos compradores.

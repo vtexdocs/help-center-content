@@ -3,8 +3,8 @@ title: 'Crear sinónimos'
 id: 5IfjhvjxNAvJGEWNn0AhOA
 status: PUBLISHED
 createdAt: 2024-06-27T16:36:30.904Z
-updatedAt: 2025-09-04T14:11:28.043Z
-publishedAt: 2025-09-04T14:11:28.043Z
+updatedAt: 2025-10-15T13:46:16.968Z
+publishedAt: 2025-10-15T13:46:16.968Z
 firstPublishedAt: 2024-06-27T16:37:25.800Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -44,6 +44,8 @@ La alteración puede tardar hasta dos horas en aplicarse.
 ## Importar CSV
 
 Si existen muchos sinónimos para registrar, puedes hacer un archivo .csv y luego importarlo en el Admin.
+
+> ⚠️ El archivo CSV utilizado en la importación debe tener un tamaño de hasta 20 KB. Los archivos más grandes no serán aceptados por el sistema. Para solicitar la importación de un archivo más grande, comuníquese con el [Soporte](https://support.vtex.com/hc/es-mx/requests).
 
 Para importar la hoja de cálculo, siga los pasos que se indican a continuación:
 

@@ -3,8 +3,8 @@ title: 'Criar perfil de acesso'
 id: qGtNQpKSSAduX94l2WZBW
 status: PUBLISHED
 createdAt: 2023-11-30T16:42:01.373Z
-updatedAt: 2024-11-22T14:17:26.392Z
-publishedAt: 2024-11-22T14:17:26.392Z
+updatedAt: 2025-10-15T14:05:46.117Z
+publishedAt: 2025-10-15T14:05:46.117Z
 firstPublishedAt: 2023-11-30T17:12:45.125Z
 contentType: tutorial
 productTeam: Identity
@@ -56,6 +56,8 @@ Para começar a utilizar um perfil de acesso predefinido, siga as instruções a
 5. Clique em `Salvar`.
 
 ## Criar perfil de acesso personalizado
+
+> ⚠️ Para criar ou editar um perfil de acesso, o usuário precisa ter um perfil do tipo **User Administrator - RESTRICTED** e também um perfil que possua o produto ou recurso específico que deseja editar. Ter apenas o perfil **User Administrator - RESTRICTED** não é suficiente. Por exemplo, para editar um perfil que contenha recursos do produto **OMS**, o usuário deve ter atribuído tanto um perfil **User Administrator - RESTRICTED** quanto um perfil que contenha os recursos de **OMS**. Essa regra se aplica tanto à edição de perfis existentes quanto à criação de novos perfis personalizados. É necessário ter acesso ao produto correspondente para adicionar ou modificar seus recursos.
 
 Para criar  um perfil de acesso personalizado para atender as necessidades de acesso de um grupo de usuários, siga as instruções abaixo:
 

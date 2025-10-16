@@ -43562,6 +43562,21 @@
             },
             {
               "name": {
+                "en": "Broken carts when adding unavailable Assembly Option",
+                "es": "Carros rotos al añadir la opción de montaje no disponible",
+                "pt": "Carrinhos quebrados ao adicionar a opção de montagem indisponível"
+              },
+              "slug": {
+                "en": "broken-carts-when-adding-unavailable-assembly-option",
+                "es": "carros-rotos-al-anadir-la-opcion-de-montaje-no-disponible",
+                "pt": "carrinhos-quebrados-ao-adicionar-a-opcao-de-montagem-indisponivel"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Button to see more pickup points not being presented in the list",
                 "es": "Botón para ver más puntos de recogida que no se presentan en la lista",
                 "pt": "Botão para ver mais pontos de coleta que não estão sendo apresentados na lista"
@@ -56584,6 +56599,21 @@
             },
             {
               "name": {
+                "en": "Checkout cancels transaction after creation",
+                "es": "El pago cancela la transacción después de la creación",
+                "pt": "O checkout cancela a transação após a criação"
+              },
+              "slug": {
+                "en": "checkout-cancels-transaction-after-creation",
+                "es": "el-pago-cancela-la-transaccion-despues-de-la-creacion",
+                "pt": "o-checkout-cancela-a-transacao-apos-a-criacao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Co-branded saved card with wrong payment system id",
                 "es": "Tarjeta guardada de marca compartida con identificador de sistema de pago incorrecto",
                 "pt": "Cartão salvo de marca compartilhada com identificação incorreta do sistema de pagamento"
@@ -58152,6 +58182,21 @@
                 "en": "paypalplus-does-not-respect-the-minimum-installment-amount",
                 "es": "paypalplus-no-respeta-el-importe-minimo-de-la-cuota",
                 "pt": "o-paypalplus-nao-respeita-o-valor-minimo-da-parcela"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "PIX payment countdown timer pauses when checkout tab is minimized",
+                "es": "El temporizador de la cuenta atrás del pago PIX se detiene cuando se minimiza la pestaña de pago.",
+                "pt": "O cronômetro de contagem regressiva de pagamento do PIX é pausado quando a guia de checkout é minimizada"
+              },
+              "slug": {
+                "en": "pix-payment-countdown-timer-pauses-when-checkout-tab-is-minimized",
+                "es": "el-temporizador-de-la-cuenta-atras-del-pago-pix-se-detiene-cuando-se-minimiza-la-pestana-de-pago",
+                "pt": "o-cronometro-de-contagem-regressiva-de-pagamento-do-pix-e-pausado-quando-a-guia-de-checkout-e-minimizada"
               },
               "origin": "",
               "type": "markdown",
