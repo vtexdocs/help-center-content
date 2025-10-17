@@ -3,8 +3,8 @@ title: 'Recursos de soporte global de VTEX'
 id: 5maoEWCrTKFAEMXRsfcklV
 status: PUBLISHED
 createdAt: 2025-06-16T11:23:32.616Z
-updatedAt: 2025-10-17T11:57:45.848Z
-publishedAt: 2025-10-17T11:57:45.848Z
+updatedAt: 2025-10-17T18:48:21.129Z
+publishedAt: 2025-10-17T18:48:21.129Z
 firstPublishedAt: 2025-06-16T13:25:37.792Z
 contentType: tutorial
 productTeam: Billing
