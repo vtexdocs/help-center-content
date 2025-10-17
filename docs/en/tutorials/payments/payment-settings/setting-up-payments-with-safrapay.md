@@ -3,8 +3,8 @@ title: 'Setting up payments with SafraPay'
 id: 70ov5R7wJjUYXE0AzlNy7Y
 status: PUBLISHED
 createdAt: 2024-09-26T18:36:57.313Z
-updatedAt: 2024-09-26T18:55:35.999Z
-publishedAt: 2024-09-26T18:55:35.999Z
+updatedAt: 2025-10-17T17:56:30.277Z
+publishedAt: 2025-10-17T17:56:30.277Z
 firstPublishedAt: 2024-09-26T18:55:35.999Z
 contentType: tutorial
 productTeam: Financial

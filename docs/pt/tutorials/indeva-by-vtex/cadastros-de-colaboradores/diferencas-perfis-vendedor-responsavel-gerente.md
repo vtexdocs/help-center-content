@@ -3,8 +3,8 @@ title: 'Diferenças entre os perfis de vendedor responsável e gerente'
 id: 5Ft4eLr7fg3swbohOv11yD
 status: PUBLISHED
 createdAt: 2025-09-11T16:12:37.515Z
-updatedAt: 2025-10-02T17:41:48.671Z
-publishedAt: 2025-10-02T17:41:48.671Z
+updatedAt: 2025-10-17T17:11:32.469Z
+publishedAt: 2025-10-17T17:11:32.469Z
 firstPublishedAt: 2025-09-11T16:44:41.907Z
 contentType: tutorial
 productTeam: Others
@@ -28,6 +28,6 @@ A principal diferença entre os dois está na participação em metas e na visib
 
 Consulte os tutoriais de cadastro:
 
-- [Cadastrar vendedor responsável](/pt/tutorial/vendedor-responsavel-vr-indeva--p1VOMt1lIBqT3il1frgJT)  
-- [Cadastrar gerente](/pt/tutorial/cadastro-de-gerente-indeva--6r2bjS0LFdUX0kyt0NyWhf)
+- [Gerenciar perfil de Vendedor Responsável (VR)](/pt/tutorial/vendedor-responsavel-vr-indeva--p1VOMt1lIBqT3il1frgJT)  
+- [Cadastrar gerente na plataforma Indeva](/pt/tutorial/cadastro-de-gerente-indeva--6r2bjS0LFdUX0kyt0NyWhf)
 

@@ -3,8 +3,8 @@ title: 'Navigate the financial area'
 id: 4RKJne5d60FXu3Gjrdl4ra
 status: PUBLISHED
 createdAt: 2025-09-08T16:15:53.879Z
-updatedAt: 2025-10-02T15:53:20.430Z
-publishedAt: 2025-10-02T15:53:20.430Z
+updatedAt: 2025-10-17T17:01:42.808Z
+publishedAt: 2025-10-17T17:01:42.808Z
 firstPublishedAt: 2025-09-08T16:48:47.192Z
 contentType: tutorial
 productTeam: Others

@@ -3,8 +3,8 @@ title: 'Requests panel'
 id: pIqcHA9VodHjKooyiXZvW
 status: PUBLISHED
 createdAt: 2025-09-09T13:25:40.169Z
-updatedAt: 2025-10-02T16:18:58.482Z
-publishedAt: 2025-10-02T16:18:58.482Z
+updatedAt: 2025-10-17T16:58:34.061Z
+publishedAt: 2025-10-17T16:58:34.061Z
 firstPublishedAt: 2025-10-01T14:09:52.874Z
 contentType: tutorial
 productTeam: Others

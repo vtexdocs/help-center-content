@@ -3,8 +3,8 @@ title: 'Visualizar comentarios en la app de Indeva'
 id: 7EK0IQFQtK3NNyYBuWJRuf
 status: PUBLISHED
 createdAt: 2025-09-18T13:21:02.967Z
-updatedAt: 2025-09-18T13:30:55.320Z
-publishedAt: 2025-09-18T13:30:55.320Z
+updatedAt: 2025-10-17T12:40:07.414Z
+publishedAt: 2025-10-17T12:40:07.414Z
 firstPublishedAt: 2025-09-18T13:30:10.037Z
 contentType: tutorial
 productTeam: Others

@@ -3,8 +3,8 @@ title: 'Setting up payments with PagBrasilV2'
 id: 5ONHAWmRbZpNIDPXCkNJXD
 status: PUBLISHED
 createdAt: 2024-03-13T16:31:07.244Z
-updatedAt: 2025-08-25T14:20:54.686Z
-publishedAt: 2025-08-25T14:20:54.686Z
+updatedAt: 2025-10-17T12:42:23.555Z
+publishedAt: 2025-10-17T12:42:23.555Z
 firstPublishedAt: 2024-03-13T22:21:24.967Z
 contentType: tutorial
 productTeam: Financial
@@ -25,9 +25,10 @@ To configure PagBrasilV2, follow the steps below:
 4. In __Provider Authorization__, fill in the __App Key__ and __App Token__ fields with your PagBrasilV2 account information.
 5. If you wish to modify the identification name to be displayed for the PagBrasilV2 provider on the VTEX Admin screen, enter the information in the __Name__ field in __Basic Information__.
 6. In __External Service Url__, enter the external URL that will be associated with `/pvt/payments?an={AccountName}`.
-7. In __SoftDescriptor__, indicate what information should appear to identify the transaction carried out in your store.
-8. In __Captura antecipada__ (Early capture), choose how long you want the capture to be carried out (after transaction approval and anti-fraud analysis). This function can also be deactivated.
-9. Click __Save__.
+7. In __Transparent Checkout__, fill in the information as instructed by the PagBrasilV2 provider.
+8. In __SoftDescriptor__, indicate what information should appear to identify the transaction carried out in your store.
+9. In __Captura antecipada__ (Early capture), choose how long you want the capture to be carried out (after transaction approval and anti-fraud analysis). This function can also be deactivated.
+10. Click __Save__.
 
 To configure the payment methods to be processed by PagBrasilV2, access [Configuring payment vonditions](/en/tutorial/how-to-configure-payment-conditions--tutorials_455#).
 

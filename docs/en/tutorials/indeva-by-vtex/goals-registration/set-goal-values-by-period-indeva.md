@@ -15,4 +15,4 @@ locale: en
 subcategoryId: 4xaNvv2oZFUetmybJrtHUL
 ---
 
-> ℹ️ This content is only available in Portuguese. [Click here](/pt/tutorial/valores-dos-periodos-da-meta-indeva--6ULajgDpZFuJcoaZyKuDG0) to access it.
+> ℹ️ This content is only available in Portuguese. [Click here](/en/tutorial/valores-dos-periodos-da-meta-indeva--6ULajgDpZFuJcoaZyKuDG0) to access it.

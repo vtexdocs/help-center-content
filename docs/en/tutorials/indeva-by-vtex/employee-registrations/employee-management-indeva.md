@@ -3,8 +3,8 @@ title: 'Employee management'
 id: 29zngGbq844ZEN9UwKdLrQ
 status: PUBLISHED
 createdAt: 2025-09-09T13:50:50.067Z
-updatedAt: 2025-10-02T16:42:22.620Z
-publishedAt: 2025-10-02T16:42:22.620Z
+updatedAt: 2025-10-17T17:27:38.429Z
+publishedAt: 2025-10-17T17:27:38.429Z
 firstPublishedAt: 2025-10-01T17:49:38.065Z
 contentType: tutorial
 productTeam: Others

@@ -3,8 +3,8 @@ title: 'Mercado Livre Feriados'
 id: 1U6n4mKvwBZRrGxpMIp3eK
 status: PUBLISHED
 createdAt: 2025-10-02T23:27:30.413Z
-updatedAt: 2025-10-08T11:00:06.413Z
-publishedAt: 2025-10-08T11:00:06.413Z
+updatedAt: 2025-10-17T15:12:17.984Z
+publishedAt: 2025-10-17T15:12:17.984Z
 contentType: updates
 productTeam: Channels
 author: 2p7evLfTcDrhc5qtrzbLWD

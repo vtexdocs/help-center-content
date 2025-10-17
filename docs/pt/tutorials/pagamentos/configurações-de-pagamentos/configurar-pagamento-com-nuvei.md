@@ -3,8 +3,8 @@ title: 'Configurar pagamento com Nuvei'
 id: 67DjdrpIaZZmhXv9Iwa6Ev
 status: PUBLISHED
 createdAt: 2024-03-27T12:55:27.016Z
-updatedAt: 2025-09-24T17:30:36.583Z
-publishedAt: 2025-09-24T17:30:36.583Z
+updatedAt: 2025-10-17T12:55:54.822Z
+publishedAt: 2025-10-17T12:55:54.822Z
 firstPublishedAt: 2024-09-13T17:39:52.427Z
 contentType: tutorial
 productTeam: Financial
@@ -56,7 +56,9 @@ Para utilizar o Nuvei, siga os passos abaixo:
 
  <blockquote><ui>> ⚠️ Sempre que o **Environment** do provedor for configurado como **Live**, a opção selecionada para o campo **Test 3ds challenge Integration only** deve ser **User cardHolder name**.</blockquote>
 <br>  
-<blockquote><ui>12. Clique em **Salvar**.</ui>
+<blockquote><ui>12. Em **3DS**, selecione se desejar utilizar a autenticação 3DS.</ui>
+
+<blockquote><ui>13. Clique em **Salvar**.</ui>  
 
 ## Configurar DMN Url na Nuvei
 
