@@ -39118,21 +39118,6 @@
             },
             {
               "name": {
-                "en": "Error listing workspace dependencies\" when trying to access an account",
-                "es": "Error al listar las dependencias del espacio de trabajo\" al intentar acceder a una cuenta",
-                "pt": "Erro ao listar as dependências do espaço de trabalho\" ao tentar acessar uma conta"
-              },
-              "slug": {
-                "en": "error-listing-workspace-dependencies-when-trying-to-access-an-account",
-                "es": "error-al-listar-las-dependencias-del-espacio-de-trabajo-al-intentar-acceder-a-una-cuenta",
-                "pt": "erro-ao-listar-as-dependencias-do-espaco-de-trabalho-ao-tentar-acessar-uma-conta"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Error when trying to publish or link an app",
                 "es": "Error al intentar publicar o vincular una aplicación",
                 "pt": "Erro ao tentar publicar ou vincular um aplicativo"
@@ -39990,21 +39975,6 @@
             },
             {
               "name": {
-                "en": "\"Product name contains' search with more than one term doesn't work on catalog's redesigned UI",
-                "es": "La búsqueda 'El nombre del producto contiene' con más de un término no funciona en la interfaz de usuario rediseñada del catálogo.",
-                "pt": "A pesquisa 'Product name contains' (O nome do produto contém) com mais de um termo não funciona na IU reformulada do catálogo"
-              },
-              "slug": {
-                "en": "product-name-contains-search-with-more-than-one-term-doesnt-work-on-catalogs-redesigned-ui",
-                "es": "la-busqueda-el-nombre-del-producto-contiene-con-mas-de-un-termino-no-funciona-en-la-interfaz-de-usuario-redisenada-del-catalogo",
-                "pt": "a-pesquisa-product-name-contains-o-nome-do-produto-contem-com-mais-de-um-termo-nao-funciona-na-iu-reformulada-do-catalogo"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "[Catalog] [Facelift] Only items that are within the department are being returned",
                 "es": "[Catálogo] [Facelift] Sólo se devuelven los artículos que están dentro del departamento",
                 "pt": "[Catalog] [Facelift] Somente os itens que estão dentro do departamento estão sendo devolvidos"
@@ -40125,21 +40095,6 @@
             },
             {
               "name": {
-                "en": "Admin homepage has an error in 'How to improve' section of the Catalog",
-                "es": "La página de inicio del Admin presenta un error en la sección 'Cómo mejorar' del Catálogo",
-                "pt": "Página inicial do Admin apresenta erro na seção “Como melhorar” do Catálogo"
-              },
-              "slug": {
-                "en": "admin-homepage-has-an-error-in-how-to-improve-section-of-the-catalog",
-                "es": "la-pagina-de-inicio-del-admin-presenta-un-error-en-la-seccion-como-mejorar",
-                "pt": "pagina-inicial-do-admin-apresenta-erro-na-secao-como-melhorar-do-catalogo"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Admin is showing image extension as .jpg even when the image is .png",
                 "es": "El administrador muestra la extensión de la imagen como .jpg incluso cuando la imagen es .png",
                 "pt": "Admin está mostrando a extensão da imagem como .jpg mesmo quando a imagem é .png"
@@ -40193,21 +40148,6 @@
                 "en": "apply-the-discount-to-the-most-expensive-items-ui-not-saving-data",
                 "es": "aplicar-el-descuento-a-los-articulos-mas-caros-ui-no-ahorrar-datos",
                 "pt": "aplique-o-desconto-aos-itens-mais-caros-a-interface-do-usuario-nao-esta-economizando-dados"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Attachents API doesn't allow null \"domainValues' (and it should)",
-                "es": "La API de Attachents no permite 'domainValues' nulos (y debería)",
-                "pt": "A API da Attachents não permite 'domainValues' nulos (e deveria)"
-              },
-              "slug": {
-                "en": "attachents-api-doesnt-allow-null-domainvalues-and-it-should",
-                "es": "la-api-de-attachents-no-permite-domainvalues-nulos-y-deberia",
-                "pt": "a-api-da-attachents-nao-permite-domainvalues-nulos-e-deveria"
               },
               "origin": "",
               "type": "markdown",
@@ -41340,6 +41280,51 @@
             },
             {
               "name": {
+                "es": "El botón \"Ver error\" no muestra nada en el módulo de cobros para errores genéricos",
+                "pt": "O botão \"Ver erro\" não mostra nada no módulo de coleções para erros genéricos",
+                "en": "El botón \"Ver error\" no muestra nada en el módulo de cobros para errores genéricos"
+              },
+              "slug": {
+                "es": "el-boton-ver-error-no-muestra-nada-en-el-modulo-de-cobros-para-errores-genericos",
+                "pt": "o-botao-ver-erro-nao-mostra-nada-no-modulo-de-colecoes-para-erros-genericos",
+                "en": ""
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "es": "El filtro \"Especificación del producto\" del módulo de recogida asume valores incorrectos.",
+                "pt": "Filtro \"Product Specification\" no Collection Module assumindo valores incorretos",
+                "en": "El filtro \"Especificación del producto\" del módulo de recogida asume valores incorrectos."
+              },
+              "slug": {
+                "es": "el-filtro-especificacion-del-producto-del-modulo-de-recogida-asume-valores-incorrectos",
+                "pt": "filtro-product-specification-no-collection-module-assumindo-valores-incorretos",
+                "en": ""
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "es": "El filtro de las nuevas colecciones 'Recién estrenadas' no funciona en las exportaciones",
+                "pt": "Novo filtro de coleções 'Recém-lançadas' não está funcionando para Exportação",
+                "en": "El filtro de las nuevas colecciones 'Recién estrenadas' no funciona en las exportaciones"
+              },
+              "slug": {
+                "es": "el-filtro-de-las-nuevas-colecciones-recien-estrenadas-no-funciona-en-las-exportaciones",
+                "pt": "novo-filtro-de-colecoes-recemlancadas-nao-esta-funcionando-para-exportacao",
+                "en": ""
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Error 'Field Group not found in the category' when creating specification via API using group that belongs to parent category",
                 "es": "Error 'Grupo de campos no encontrado en la categoría' al crear una especificación a través de la API utilizando un grupo que pertenece a la categoría principal.",
                 "pt": "Erro 'Field Group not found in the category' ao criar uma especificação via API usando um grupo que pertence à categoria principal"
@@ -42000,6 +41985,51 @@
             },
             {
               "name": {
+                "es": "La API de Attachents no permite 'domainValues' nulos (y debería)",
+                "pt": "A API da Attachents não permite 'domainValues' nulos (e deveria)",
+                "en": "La API de Attachents no permite 'domainValues' nulos (y debería)"
+              },
+              "slug": {
+                "es": "la-api-de-attachents-no-permite-domainvalues-nulos-y-deberia",
+                "pt": "a-api-da-attachents-nao-permite-domainvalues-nulos-e-deveria",
+                "en": ""
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "es": "La búsqueda 'El nombre del producto contiene' con más de un término no funciona en la interfaz de usuario rediseñada del catálogo.",
+                "pt": "A pesquisa 'Product name contains' (O nome do produto contém) com mais de um termo não funciona na IU reformulada do catálogo",
+                "en": "La búsqueda 'El nombre del producto contiene' con más de un término no funciona en la interfaz de usuario rediseñada del catálogo."
+              },
+              "slug": {
+                "es": "la-busqueda-el-nombre-del-producto-contiene-con-mas-de-un-termino-no-funciona-en-la-interfaz-de-usuario-redisenada-del-catalogo",
+                "pt": "a-pesquisa-product-name-contains-o-nome-do-produto-contem-com-mais-de-um-termo-nao-funciona-na-iu-reformulada-do-catalogo",
+                "en": ""
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "es": "La búsqueda de televentas no acepta caracteres especiales aparte de '@'.",
+                "pt": "A pesquisa de televendas não aceita caracteres especiais além de '@'.",
+                "en": "La búsqueda de televentas no acepta caracteres especiales aparte de '@'."
+              },
+              "slug": {
+                "es": "la-busqueda-de-televentas-no-acepta-caracteres-especiales-aparte-de",
+                "pt": "a-pesquisa-de-televendas-nao-aceita-caracteres-especiais-alem-de",
+                "en": ""
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Large Import/Export Spreadsheet Error on New Collections Admin",
                 "es": "Error al importar/exportar una hoja de cálculo grande en el nuevo administrador de cobros",
                 "pt": "Erro de planilha grande de importação/exportação no New Collections Admin"
@@ -42435,21 +42465,6 @@
             },
             {
               "name": {
-                "en": "Portal don't respect the tag 'Principal' of SKU's Image",
-                "es": "Portal no respeta la etiqueta 'Principal' de SKU's Imagen",
-                "pt": "O portal não respeita a etiqueta 'Principal' da imagem da SKU"
-              },
-              "slug": {
-                "en": "portal-dont-respect-the-tag-principal-of-skus-image",
-                "es": "portal-no-respeta-la-etiqueta-principal-de-skus-imagen",
-                "pt": "o-portal-nao-respeita-a-etiqueta-principal-da-imagem-da-sku"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Pricing API Allows Negative Values",
                 "es": "La API de precios permite valores negativos",
                 "pt": "A API de preços permite valores negativos"
@@ -42608,21 +42623,6 @@
                 "en": "product-specification-import-with-type-text-does-not-trigger-the-products-indexation",
                 "es": "la-importacion-de-especificaciones-de-producto-con-el-tipo-texto-no-activa-la-indexacion-del-producto",
                 "pt": "a-importacao-da-especificacao-do-produto-com-o-tipo-texto-nao-aciona-a-indexacao-do-produto"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Product Specification\" filter on Collection Module assuming incorrect values",
-                "es": "El filtro \"Especificación del producto\" del módulo de recogida asume valores incorrectos.",
-                "pt": "Filtro \"Product Specification\" no Collection Module assumindo valores incorretos"
-              },
-              "slug": {
-                "en": "product-specification-filter-on-collection-module-assuming-incorrect-values",
-                "es": "el-filtro-especificacion-del-producto-del-modulo-de-recogida-asume-valores-incorrectos",
-                "pt": "filtro-product-specification-no-collection-module-assumindo-valores-incorretos"
               },
               "origin": "",
               "type": "markdown",
@@ -42885,21 +42885,6 @@
             },
             {
               "name": {
-                "en": "See error\" button doesn't show anything on collections module for generic errors",
-                "es": "El botón \"Ver error\" no muestra nada en el módulo de cobros para errores genéricos",
-                "pt": "O botão \"Ver erro\" não mostra nada no módulo de coleções para erros genéricos"
-              },
-              "slug": {
-                "en": "see-error-button-doesnt-show-anything-on-collections-module-for-generic-errors",
-                "es": "el-boton-ver-error-no-muestra-nada-en-el-modulo-de-cobros-para-errores-genericos",
-                "pt": "o-botao-ver-erro-nao-mostra-nada-no-modulo-de-colecoes-para-erros-genericos"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Selection of sellers available in the commercial policy is not working properly",
                 "es": "La selección de sellers disponible en la política comercial no funciona correctamente",
                 "pt": "A seleção de sellers disponíveis na política comercial não está funcionando corretamente"
@@ -43058,21 +43043,6 @@
                 "en": "sku-insert-file-api-is-not-responding-with-the-text-property",
                 "es": "la-api-de-insercion-de-archivos-de-sku-no-responde-con-la-propiedad-texto",
                 "pt": "a-api-sku-insert-file-nao-esta-respondendo-com-a-propriedade-text"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "SKU Move Failure: Distributed Transaction Error",
-                "es": "Fallo de traslado de SKU: Error de transacción distribuida",
-                "pt": "Falha na movimentação da SKU: Erro de transação distribuída"
-              },
-              "slug": {
-                "en": "sku-move-failure-distributed-transaction-error",
-                "es": "fallo-de-traslado-de-sku-error-de-transaccion-distribuida",
-                "pt": "falha-na-movimentacao-da-sku-erro-de-transacao-distribuida"
               },
               "origin": "",
               "type": "markdown",
@@ -43335,21 +43305,6 @@
             },
             {
               "name": {
-                "en": "Telesales search doesn't accept special characters aside from \"@'.",
-                "es": "La búsqueda de televentas no acepta caracteres especiales aparte de '@'.",
-                "pt": "A pesquisa de televendas não aceita caracteres especiais além de '@'."
-              },
-              "slug": {
-                "en": "telesales-search-doesnt-accept-special-characters-aside-from",
-                "es": "la-busqueda-de-televentas-no-acepta-caracteres-especiales-aparte-de",
-                "pt": "a-pesquisa-de-televendas-nao-aceita-caracteres-especiais-alem-de"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Term makes search API have no return",
                 "es": "El término hace que la API de búsqueda no tenga retorno",
                 "pt": "O termo faz com que a API de busca não tenha retorno"
@@ -43433,6 +43388,21 @@
                 "en": "time-out-on-category-keywords-change-with-many-products",
                 "es": "timeout-al-cambiar-las-palabras-clave-de-la-categoria-con-muchos-productos",
                 "pt": "timeout-ao-mudar-as-palavraschave-da-categoria-com-muitos-produtos"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "es": "Timeout de la especificación Categories.aspx",
+                "pt": "Categorias.aspx Especificação Timeout",
+                "en": "Timeout de la especificación Categories.aspx"
+              },
+              "slug": {
+                "es": "timeout-de-la-especificacion-categoriesaspx",
+                "pt": "categoriasaspx-especificacao-timeout",
+                "en": ""
               },
               "origin": "",
               "type": "markdown",
@@ -44050,21 +44020,6 @@
                 "en": "something-went-wrong-when-adding-an-incomplete-address-and-tried-to-edit-it",
                 "es": "algo-salio-mal-al-anadir-una-direccion-incompleta-e-intentar-editarla",
                 "pt": "algo-deu-errado-ao-adicionar-um-endereco-incompleto-e-tentar-editalo"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "\"Go to payment' button doesn't work in delivery split when switching between Delivery and Pick up options",
-                "es": "El botón 'Ir al pago' no funciona en la división de entrega cuando se cambia entre las opciones de Entrega y Recogida.",
-                "pt": "O botão 'Ir para pagamento' não funciona na divisão da entrega ao alternar entre as opções de Entrega e Coleta"
-              },
-              "slug": {
-                "en": "go-to-payment-button-doesnt-work-in-delivery-split-when-switching-between-delivery-and-pick-up-options",
-                "es": "el-boton-ir-al-pago-no-funciona-en-la-division-de-entrega-cuando-se-cambia-entre-las-opciones-de-entrega-y-recogida",
-                "pt": "o-botao-ir-para-pagamento-nao-funciona-na-divisao-da-entrega-ao-alternar-entre-as-opcoes-de-entrega-e-coleta"
               },
               "origin": "",
               "type": "markdown",
@@ -45272,6 +45227,21 @@
             },
             {
               "name": {
+                "es": "El botón 'Ir al pago' no funciona en la división de entrega cuando se cambia entre las opciones de Entrega y Recogida.",
+                "pt": "O botão 'Ir para pagamento' não funciona na divisão da entrega ao alternar entre as opções de Entrega e Coleta",
+                "en": "El botón 'Ir al pago' no funciona en la división de entrega cuando se cambia entre las opciones de Entrega y Recogida."
+              },
+              "slug": {
+                "es": "el-boton-ir-al-pago-no-funciona-en-la-division-de-entrega-cuando-se-cambia-entre-las-opciones-de-entrega-y-recogida",
+                "pt": "o-botao-ir-para-pagamento-nao-funciona-na-divisao-da-entrega-ao-alternar-entre-as-opcoes-de-entrega-e-coleta",
+                "en": ""
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Email not auto-filling for new buyers after logging in",
                 "es": "El correo electrónico no se rellena automáticamente para los nuevos compradores después de iniciar sesión",
                 "pt": "O e-mail não é preenchido automaticamente para novos compradores após o login"
@@ -45925,6 +45895,21 @@
                 "en": "new-subscription-orders-arent-created-with-saved-credit-card-and-savepersonaldataasoptin",
                 "es": "los-nuevos-pedidos-de-suscripcion-no-se-crean-con-la-tarjeta-de-credito-guardada-y-savepersonaldataasoptin",
                 "pt": "novos-pedidos-de-assinatura-nao-sao-criados-com-cartao-de-credito-salvo-e-savepersonaldataasoptin"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "es": "No se informa al usuario cuando algo va mal",
+                "pt": "Não há feedback para o usuário quando algo dá errado",
+                "en": "No se informa al usuario cuando algo va mal"
+              },
+              "slug": {
+                "es": "no-se-informa-al-usuario-cuando-algo-va-mal",
+                "pt": "nao-ha-feedback-para-o-usuario-quando-algo-da-errado",
+                "en": ""
               },
               "origin": "",
               "type": "markdown",
@@ -47057,21 +47042,6 @@
             },
             {
               "name": {
-                "en": "Simultaneous sending of information generates data loss in the API",
-                "es": "Simultaneous sending of information generates data loss in the API",
-                "pt": "Simultaneous sending of information generates data loss in the API"
-              },
-              "slug": {
-                "en": "simultaneous-sending-of-information-generates-data-loss-in-the-api",
-                "es": "simultaneous-sending-of-information-generates-data-loss-in-the-api",
-                "pt": "simultaneous-sending-of-information-generates-data-loss-in-the-api"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Street, Neighborhood, Complement and Reference fields are not requested in the address step at checkout",
                 "es": "Los campos Calle, Barrio, Complemento y Referencia no se solicitan en el paso de la dirección en la compra",
                 "pt": "Os campos Rua, Bairro, Complemento e Referência não são solicitados na etapa de endereço no checkout"
@@ -47253,8 +47223,8 @@
             {
               "name": {
                 "en": "UI does not display/select correctly the address used for delivery calculation.",
-                "es": "Untitled",
-                "pt": "Untitled"
+                "es": "UI does not display/select correctly the address used for delivery calculation.",
+                "pt": "UI does not display/select correctly the address used for delivery calculation."
               },
               "slug": {
                 "en": "untitled",
@@ -47614,9 +47584,9 @@
         },
         {
           "name": {
-            "en": "Cloud Services",
-            "es": "Cloud Services",
-            "pt": "Cloud Services"
+            "en": "Cloud services",
+            "es": "Cloud services",
+            "pt": "Cloud services"
           },
           "slug": {
             "en": "cloud-services",
@@ -48502,7 +48472,7 @@
               "name": {
                 "en": "[Magazine Luiza] Order with error 'Object reference not set to an instance of an object'",
                 "es": "[Revista Luiza] Pedido con error 'Referencia de objeto no establecida a una instancia de un objeto'",
-                "pt": ""
+                "pt": "[Magazine Luiza] Order with error 'Object reference not set to an instance of an object'"
               },
               "slug": {
                 "en": "magazine-luiza-order-with-error-object-reference-not-set-to-an-instance-of-an-object",
@@ -49611,13 +49581,13 @@
             {
               "name": {
                 "en": "MELI Promotions UI error",
-                "es": "",
-                "pt": "Erro na interface do usuário da MELI Promotions"
+                "pt": "Erro na interface do usuário da MELI Promotions",
+                "es": "MELI Promotions UI error"
               },
               "slug": {
                 "en": "meli-promotions-ui-error",
-                "es": "",
-                "pt": "erro-na-interface-do-usuario-da-meli-promotions"
+                "pt": "erro-na-interface-do-usuario-da-meli-promotions",
+                "es": ""
               },
               "origin": "",
               "type": "markdown",
@@ -49685,14 +49655,14 @@
             },
             {
               "name": {
-                "en": "Mercado Livre \"The following attributes need to be created to configure me2: ''attribute name.",
-                "es": "Mercado Livre \"Es necesario crear los siguientes atributos para configurar me2: ''nombre del atributo\".",
-                "pt": "Mercado Livre \"Os seguintes atributos precisam ser criados para configurar o me2: ''nome do atributo\"."
+                "es": "Mercado Livre La interfaz de usuario de promociones muestra el mensaje \"Lo sentimos, se ha producido un error\" debido a los límites de solicitudes de Mercado Livre (módulo Promociones).",
+                "en": "Mercado Livre La interfaz de usuario de promociones muestra el mensaje \"Lo sentimos, se ha producido un error\" debido a los límites de solicitudes de Mercado Livre (módulo Promociones).",
+                "pt": "Mercado Livre La interfaz de usuario de promociones muestra el mensaje \"Lo sentimos, se ha producido un error\" debido a los límites de solicitudes de Mercado Livre (módulo Promociones)."
               },
               "slug": {
-                "en": "mercado-livre-the-following-attributes-need-to-be-created-to-configure-me2-attribute-name",
-                "es": "mercado-livre-es-necesario-crear-los-siguientes-atributos-para-configurar-me2-nombre-del-atributo",
-                "pt": "mercado-livre-os-seguintes-atributos-precisam-ser-criados-para-configurar-o-me2-nome-do-atributo"
+                "es": "mercado-livre-la-interfaz-de-usuario-de-promociones-muestra-el-mensaje-lo-sentimos-se-ha-producido-un-error-debido-a-los-limites-de-solicitudes-de-mercado-livre-modulo-promociones",
+                "en": "",
+                "pt": ""
               },
               "origin": "",
               "type": "markdown",
@@ -49865,21 +49835,6 @@
             },
             {
               "name": {
-                "en": "Shopee Cannot update price because the product has Shopee-exclusive promotions",
-                "es": "Shopee No se puede actualizar el precio porque el producto tiene promociones exclusivas de Shopee",
-                "pt": "Shopee Não é possível atualizar o preço porque o produto tem promoções exclusivas do Shopee"
-              },
-              "slug": {
-                "en": "shopee-cannot-update-price-because-the-product-has-shopeeexclusive-promotions",
-                "es": "shopee-no-se-puede-actualizar-el-precio-porque-el-producto-tiene-promociones-exclusivas-de-shopee",
-                "pt": "shopee-nao-e-possivel-atualizar-o-preco-porque-o-produto-tem-promocoes-exclusivas-do-shopee"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Shopee Catalog Sync Blocked Due to Excess Variation Attributes",
                 "es": "Shopee Sincronización de catálogo bloqueada por exceso de atributos de variación",
                 "pt": "Shopee Sincronização de catálogo bloqueada devido ao excesso de atributos de variação"
@@ -49912,12 +49867,12 @@
               "name": {
                 "en": "Shopee Error Item tier-variation level not same when updating migrated products",
                 "es": "Shopee Error El nivel de variación del artículo no es el mismo al actualizar productos migrados",
-                "pt": "Shopee Erro: o nível de variação do item não é o mesmo ao atualizar produtos migrados"
+                "pt": "Shopee Error Item tier-variation level not same when updating migrated products"
               },
               "slug": {
                 "en": "shopee-error-item-tiervariation-level-not-same-when-updating-migrated-products",
                 "es": "shopee-error-el-nivel-de-variacion-del-articulo-no-es-el-mismo-al-actualizar-productos-migrados",
-                "pt": "shopee-erro-o-nivel-de-variacao-do-item-nao-e-o-mesmo-ao-atualizar-produtos-migrados"
+                "pt": ""
               },
               "origin": "",
               "type": "markdown",
@@ -50107,9 +50062,9 @@
         },
         {
           "name": {
-            "en": "FastStore",
-            "es": "FastStore",
-            "pt": "FastStore"
+            "en": "Faststore",
+            "es": "Faststore",
+            "pt": "Faststore"
           },
           "slug": {
             "en": "faststore",
@@ -51025,9 +50980,9 @@
         },
         {
           "name": {
-            "en": "Intelligent Search",
-            "es": "Intelligent Search",
-            "pt": "Intelligent Search"
+            "en": "Intelligent search",
+            "es": "Intelligent search",
+            "pt": "Intelligent search"
           },
           "slug": {
             "en": "intelligent-search",
@@ -51954,14 +51909,14 @@
             },
             {
               "name": {
-                "en": "Prioritization by product's \"keyword' not considering stopwords",
                 "es": "Priorización por 'palabra clave' del producto sin tener en cuenta las 'stopwords",
-                "pt": "Priorização por 'palavra-chave' do produto, sem considerar stopwords"
+                "pt": "Priorização por 'palavra-chave' do produto, sem considerar stopwords",
+                "en": "Priorización por 'palabra clave' del producto sin tener en cuenta las 'stopwords"
               },
               "slug": {
-                "en": "prioritization-by-products-keyword-not-considering-stopwords",
                 "es": "priorizacion-por-palabra-clave-del-producto-sin-tener-en-cuenta-las-stopwords",
-                "pt": "priorizacao-por-palavrachave-do-produto-sem-considerar-stopwords"
+                "pt": "priorizacao-por-palavrachave-do-produto-sem-considerar-stopwords",
+                "en": ""
               },
               "origin": "",
               "type": "markdown",
@@ -52691,9 +52646,9 @@
         },
         {
           "name": {
-            "en": "Live Shopping",
-            "es": "Live Shopping",
-            "pt": "Live Shopping"
+            "en": "Live shopping",
+            "es": "Live shopping",
+            "pt": "Live shopping"
           },
           "slug": {
             "en": "live-shopping",
@@ -53336,21 +53291,6 @@
             },
             {
               "name": {
-                "en": "Stock export does not work for a very large sku base (StatusCode: 429)",
-                "es": "La exportación de existencias no funciona para una base de sku muy grande (StatusCode: 429)",
-                "pt": "A exportação de estoque não funciona para uma base de sku muito grande (StatusCode: 429)"
-              },
-              "slug": {
-                "en": "stock-export-does-not-work-for-a-very-large-sku-base-statuscode-429",
-                "es": "la-exportacion-de-existencias-no-funciona-para-una-base-de-sku-muy-grande-statuscode-429",
-                "pt": "a-exportacao-de-estoque-nao-funciona-para-uma-base-de-sku-muito-grande-statuscode-429"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "The holiday is not shown in the list after using the API to create (PUT)",
                 "es": "Las vacaciones no se muestran en la lista después de utilizar la API para crear (PUT)",
                 "pt": "O feriado não é mostrado na lista depois de usar o API para criar (PUT)"
@@ -53532,36 +53472,6 @@
             },
             {
               "name": {
-                "en": "\"I don't know my ZIP code' link in the wedding list creation page is redirecting to the wedding list creation page",
-                "es": "El enlace 'No sé mi código postal' en la página de creación de listas de bodas redirecciona el usuario a la propia página de creación de listas de bodas",
-                "pt": "Link 'Não sei meu CEP' na criação de listas de casamento redireciona para a própria página de criação de listas de casamento"
-              },
-              "slug": {
-                "en": "i-dont-know-my-zip-code-link-in-the-wedding-list-creation-page-is-redirecting-to-the-wedding-list-creation-page",
-                "es": "el-enlace-no-se-mi-codigo-postal-en-la-pagina-de-creacion-de-listas-de-bodas-redirecciona-el-usuario-a-la-propia-pagina-de-creacion-de-listas-de-bo",
-                "pt": "link-nao-sei-meu-cep-na-criacao-de-listas-de-casamento-redireciona-para-a-propria-pagina-de-criacao-de-listas-de-casamento"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "\"Let me know' email is sent even when the product is not available for the website's trade policy",
-                "es": "El email «Avísame» se envía incluso cuando el producto no está disponible para la política comercial del sitio web",
-                "pt": "Email de 'Avise-me' é enviado mesmo quando o produto não está disponível para a política comercial do site"
-              },
-              "slug": {
-                "en": "let-me-know-email-is-sent-even-when-the-product-is-not-available-for-the-websites-trade-policy",
-                "es": "el-email-avisame-se-envia-incluso-cuando-el-producto-no-esta-disponible-para-la-politica-comercial-del-sitio-web",
-                "pt": "email-de-aviseme-e-enviado-mesmo-quando-o-produto-nao-esta-disponivel-para-a-politica-comercial-do-site"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "“shippingValue” ViewPart incorrectly displays delivery times in hours",
                 "es": "ViewPart 'shippingValue' no muestra los plazos en horas correctamente",
                 "pt": "A viewpart “shippingValue” não exibe prazos em horas corretamente"
@@ -53570,21 +53480,6 @@
                 "en": "shippingvalue-viewpart-incorrectly-displays-delivery-times-in-hours",
                 "es": "viewpart-shippingvalue-no-muestra-los-plazos-en-horas-correctamente",
                 "pt": "a-viewpart-shippingvalue-nao-exibe-prazos-em-horas-corretamente"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "\"Store texts' search doesn't work",
-                "es": "Búsqueda de 'Textos de la tienda' no funciona",
-                "pt": "Busca de 'Textos da loja' não funciona"
-              },
-              "slug": {
-                "en": "store-texts-search-doesnt-work",
-                "es": "busqueda-de-textos-de-la-tienda-no-funciona",
-                "pt": "busca-de-textos-da-loja-nao-funciona"
               },
               "origin": "",
               "type": "markdown",
@@ -53720,6 +53615,21 @@
                 "en": "bundle-weight-is-not-updated-according-to-the-modifications-of-the-sku-that-comprise-it",
                 "es": "peso-de-un-kit-no-se-actualiza-conforme-modificaciones-de-los-skus-que-lo-componen",
                 "pt": "peso-de-um-kit-nao-e-atualizado-conforme-modificacoes-dos-skus-que-o-compoem"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "es": "Búsqueda de 'Textos de la tienda' no funciona",
+                "pt": "Busca de 'Textos da loja' não funciona",
+                "en": "Búsqueda de 'Textos de la tienda' no funciona"
+              },
+              "slug": {
+                "es": "busqueda-de-textos-de-la-tienda-no-funciona",
+                "pt": "busca-de-textos-da-loja-nao-funciona",
+                "en": ""
               },
               "origin": "",
               "type": "markdown",
@@ -53957,7 +53867,7 @@
                 "pt": "Vale (GiftCard) de cliente não localizado no módulo administrativo ao realizar consulta por CPF"
               },
               "slug": {
-                "en": "customer-giftcard-not-located-in-the-administrative-module-when-performing--cpf-query",
+                "en": "customer-giftcard-not-located-in-the-administrative-module-when-performing-cpf-query",
                 "es": "voucher-giftcard-de-cliente-no-localizado-en-el-modulo-administrativo-al-realizar-consulta-por-cpf",
                 "pt": "vale-giftcard-de-cliente-nao-localizado-no-modulo-administrativo-ao"
               },
@@ -53975,6 +53885,36 @@
                 "en": "different-accessories-by-sku-dont-work",
                 "es": "accesorios-diferentes-por-sku-no-funcionan",
                 "pt": "acessorios-diferentes-por-sku-nao-funcionam"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "es": "El email «Avísame» se envía incluso cuando el producto no está disponible para la política comercial del sitio web",
+                "pt": "Email de 'Avise-me' é enviado mesmo quando o produto não está disponível para a política comercial do site",
+                "en": "El email «Avísame» se envía incluso cuando el producto no está disponible para la política comercial del sitio web"
+              },
+              "slug": {
+                "es": "el-email-avisame-se-envia-incluso-cuando-el-producto-no-esta-disponible-para-la-politica-comercial-del-sitio-web",
+                "pt": "email-de-aviseme-e-enviado-mesmo-quando-o-produto-nao-esta-disponivel-para-a-politica-comercial-do-site",
+                "en": ""
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "es": "El enlace 'No sé mi código postal' en la página de creación de listas de bodas redirecciona el usuario a la propia página de creación de listas de bodas",
+                "pt": "Link 'Não sei meu CEP' na criação de listas de casamento redireciona para a própria página de criação de listas de casamento",
+                "en": "El enlace 'No sé mi código postal' en la página de creación de listas de bodas redirecciona el usuario a la propia página de creación de listas de bodas"
+              },
+              "slug": {
+                "es": "el-enlace-no-se-mi-codigo-postal-en-la-pagina-de-creacion-de-listas-de-bodas-redirecciona-el-usuario-a-la-propia-pagina-de-creacion-de-listas-de-bo",
+                "pt": "link-nao-sei-meu-cep-na-criacao-de-listas-de-casamento-redireciona-para-a-propria-pagina-de-criacao-de-listas-de-casamento",
+                "en": ""
               },
               "origin": "",
               "type": "markdown",
@@ -54587,8 +54527,8 @@
                 "pt": "Quick view não funciona em páginas HTTPS"
               },
               "slug": {
-                "en": "quick-view-does-not-work-on-HTTPS-pages",
-                "es": "quick-view-no-funciona-en-páginas-HTTPS",
+                "en": "quick-view-does-not-work-on-https-pages",
+                "es": "quick-view-no-funciona-en-paginas-https",
                 "pt": "quick-view-nao-funciona-em-paginas-https"
               },
               "origin": "",
@@ -55037,8 +54977,8 @@
                 "pt": "Método WebService de ativar SKU não funciona quando não há preço na política comercial principal"
               },
               "slug": {
-                "en": "webservice-method-for-activating-SKU-does-not-work-when-no-price-is-set-in-the-main-sales-policy",
-                "es": "método-webservice-no-funciona-cuando-no-hay-precio-en-la-política-comercial-principal",
+                "en": "webservice-method-for-activating-sku-does-not-work-when-no-price-is-set-in-the-main-sales-policy",
+                "es": "metodo-webservice-no-funciona-cuando-no-hay-precio-en-la-politica-comercial-principal",
                 "pt": "metodo-webservice-stockkeepingunitactive-nao-funciona-quando-um-sku-nao"
               },
               "origin": "",
@@ -55228,21 +55168,6 @@
           "children": [
             {
               "name": {
-                "en": "\"Get all SKU suggestions' API doesn't keep same sku order when changing limits",
-                "es": "La API 'Obtener todas las sugerencias de SKU' no mantiene el mismo orden de SKU al cambiar los límites.",
-                "pt": "A API 'Obter todas as sugestões de SKU' não mantém a mesma ordem de SKU ao alterar os limites"
-              },
-              "slug": {
-                "en": "get-all-sku-suggestions-api-doesnt-keep-same-sku-order-when-changing-limits",
-                "es": "la-api-obtener-todas-las-sugerencias-de-sku-no-mantiene-el-mismo-orden-de-sku-al-cambiar-los-limites",
-                "pt": "a-api-obter-todas-as-sugestoes-de-sku-nao-mantem-a-mesma-ordem-de-sku-ao-alterar-os-limites"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Approved Skus Spreadsheet not showing price",
                 "es": "La hoja de cálculo de Skus aprobados no muestra el precio",
                 "pt": "Folha de cálculo aprovada Skus que não mostra o preço"
@@ -55416,6 +55341,21 @@
                 "en": "get-matched-offers-list-api-not-working-properly",
                 "es": "la-api-de-la-lista-de-ofertas-coincidentes-no-funciona-correctamente",
                 "pt": "obter-a-lista-de-ofertas-combinadas-api-nao-funciona-corretamente"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "es": "La API 'Obtener todas las sugerencias de SKU' no mantiene el mismo orden de SKU al cambiar los límites.",
+                "pt": "A API 'Obter todas as sugestões de SKU' não mantém a mesma ordem de SKU ao alterar os limites",
+                "en": "La API 'Obtener todas las sugerencias de SKU' no mantiene el mismo orden de SKU al cambiar los límites."
+              },
+              "slug": {
+                "es": "la-api-obtener-todas-las-sugerencias-de-sku-no-mantiene-el-mismo-orden-de-sku-al-cambiar-los-limites",
+                "pt": "a-api-obter-todas-as-sugestoes-de-sku-nao-mantem-a-mesma-ordem-de-sku-ao-alterar-os-limites",
+                "en": ""
               },
               "origin": "",
               "type": "markdown",
@@ -55770,9 +55710,9 @@
         },
         {
           "name": {
-            "en": "Master Data",
-            "es": "Master Data",
-            "pt": "Master Data"
+            "en": "Master data",
+            "es": "Master data",
+            "pt": "Master data"
           },
           "slug": {
             "en": "master-data",
@@ -55800,13 +55740,13 @@
             {
               "name": {
                 "en": "Abandoned Shopping Cart triggers stopped working",
-                "es": "",
-                "pt": "Erro com alguns triggers de carrinho abandonado"
+                "pt": "Erro com alguns triggers de carrinho abandonado",
+                "es": "Abandoned Shopping Cart triggers stopped working"
               },
               "slug": {
                 "en": "abandoned-shopping-cart-triggers-stopped-working",
-                "es": "",
-                "pt": "erro-com-alguns-triggers-de-carrinho-abandonado"
+                "pt": "erro-com-alguns-triggers-de-carrinho-abandonado",
+                "es": ""
               },
               "origin": "",
               "type": "markdown",
@@ -56536,21 +56476,6 @@
             },
             {
               "name": {
-                "en": "Filter on List Order by Promotion with space blank is not working",
-                "es": "El filtro en la lista Ordenar por promoción con el espacio en blanco no funciona",
-                "pt": "Filtrar na lista Pedido por Promoção com espaço em branco não está funcionando"
-              },
-              "slug": {
-                "en": "filter-on-list-order-by-promotion-with-space-blank-is-not-working",
-                "es": "el-filtro-en-la-lista-ordenar-por-promocion-con-el-espacio-en-blanco-no-funciona",
-                "pt": "filtrar-na-lista-pedido-por-promocao-com-espaco-em-branco-nao-esta-funcionando"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "First subscription cycle is skipped",
                 "es": "Se salta el primer ciclo de suscripción",
                 "pt": "O primeiro ciclo de assinatura é ignorado"
@@ -56799,21 +56724,6 @@
                 "en": "my-account-receiver-name-field-doesnt-recognize-input",
                 "es": "mi-cuenta-el-campo-nombre-del-receptor-no-reconoce-la-entrada",
                 "pt": "minha-conta-o-campo-nome-do-receptor-nao-reconhece-a-entrada"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "My Orders on My Account - Error Message Ocorreu um erro inesperado, estamos trabalhando para resolvê-lo. Tente novamente mais tarde.",
-                "es": "My Orders on My Account - Error Message Ocorreu um erro inesperado, estamos trabalhando para resolvê-lo. Tente novamente mais tarde.",
-                "pt": "My Orders on My Account - Error Message Ocorreu um erro inesperado, estamos trabalhando para resolvê-lo. Tente novamente mais tarde."
-              },
-              "slug": {
-                "en": "my-orders-on-my-account-error-message-ocorreu-um-erro-inesperado-estamos-trabalhando-para-resolvelo-tente-novamente-mais-tarde",
-                "es": "my-orders-on-my-account-error-message-ocorreu-um-erro-inesperado-estamos-trabalhando-para-resolvelo-tente-novamente-mais-tarde",
-                "pt": "my-orders-on-my-account-error-message-ocorreu-um-erro-inesperado-estamos-trabalhando-para-resolvelo-tente-novamente-mais-tarde"
               },
               "origin": "",
               "type": "markdown",
@@ -57481,21 +57391,6 @@
             },
             {
               "name": {
-                "en": "Seller selection excludes single seller of SKU with low coverage, causing unavailability in allocation step",
-                "es": "La selección de vendedores excluye a un único vendedor de SKU con baja cobertura, lo que provoca indisponibilidad en el paso de asignación",
-                "pt": "A seleção do vendedor exclui um único vendedor de SKU com baixa cobertura, causando indisponibilidade na etapa de alocação"
-              },
-              "slug": {
-                "en": "seller-selection-excludes-single-seller-of-sku-with-low-coverage-causing-unavailability-in-allocation-step",
-                "es": "la-seleccion-de-vendedores-excluye-a-un-unico-vendedor-de-sku-con-baja-cobertura-lo-que-provoca-indisponibilidad-en-el-paso-de-asignacion",
-                "pt": "a-selecao-do-vendedor-exclui-um-unico-vendedor-de-sku-com-baixa-cobertura-causando-indisponibilidade-na-etapa-de-alocacao"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Seller's order invoiced with problem in the payment capture",
                 "es": "Pedido del vendedor facturado con problema en la captura del pago",
                 "pt": "Pedido do vendedor faturado com problema na captura do pagamento"
@@ -57579,21 +57474,6 @@
                 "en": "special-characters-in-invoicenumber-cause-postpurchase-flow-to-fail",
                 "es": "los-caracteres-especiales-en-invoicenumber-hacen-que-falle-el-flujo-posterior-a-la-compra",
                 "pt": "caracteres-especiais-no-invoicenumber-causam-falha-no-fluxo-poscompra"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Split Items Order with Value as 0 (zero) on the Invoice",
-                "es": "Split Items Order with Value as 0 (zero) on the Invoice",
-                "pt": "Split Items Order with Value as 0 (zero) on the Invoice"
-              },
-              "slug": {
-                "en": "split-items-order-with-value-as-0-zero-on-the-invoice",
-                "es": "split-items-order-with-value-as-0-zero-on-the-invoice",
-                "pt": "split-items-order-with-value-as-0-zero-on-the-invoice"
               },
               "origin": "",
               "type": "markdown",
@@ -57894,21 +57774,6 @@
                 "en": "two-different-workflows-for-the-same-order-resulting-in-status-detailstatenull",
                 "es": "two-different-workflows-for-the-same-order-resulting-in-status-detailstatenull",
                 "pt": "two-different-workflows-for-the-same-order-resulting-in-status-detailstatenull"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Untitled",
-                "es": "Untitled",
-                "pt": "Untitled"
-              },
-              "slug": {
-                "en": "untitled",
-                "es": "untitled",
-                "pt": "untitled"
               },
               "origin": "",
               "type": "markdown",
@@ -58234,36 +58099,6 @@
             },
             {
               "name": {
-                "en": "Affiliation created in subaccount not listed in Admin; ‘Affiliation name is already used’ on retry",
-                "es": "Afiliación creada en subcuenta no listada en Admin",
-                "pt": "Afiliação criada na subconta não listada no Admin"
-              },
-              "slug": {
-                "en": "affiliation-created-in-subaccount-not-listed-in-admin-affiliation-name-is-already-used-on-retry",
-                "es": "afiliacion-creada-en-subcuenta-no-listada-en-admin",
-                "pt": "afiliacao-criada-na-subconta-nao-listada-no-admin"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Amount to use\" from Gift card does not allow user to change the value when the currency doesn't have decimals",
-                "es": "Importe a utilizar\" de la tarjeta regalo no permite al usuario cambiar el valor cuando la moneda no tiene decimales",
-                "pt": "O \"Valor a ser usado\" do cartão-presente não permite que o usuário altere o valor quando a moeda não tem decimais"
-              },
-              "slug": {
-                "en": "amount-to-use-from-gift-card-does-not-allow-user-to-change-the-value-when-the-currency-doesnt-have-decimals",
-                "es": "importe-a-utilizar-de-la-tarjeta-regalo-no-permite-al-usuario-cambiar-el-valor-cuando-la-moneda-no-tiene-decimales",
-                "pt": "o-valor-a-ser-usado-do-cartaopresente-nao-permite-que-o-usuario-altere-o-valor-quando-a-moeda-nao-tem-decimais"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Authorization status is stuck for asynchronous transactions with 2 or more payments when the first one is canceled.",
                 "es": "El estado de autorización se bloquea para transacciones asíncronas con 2 o más pagos cuando se cancela el primero.",
                 "pt": "O status da autorização é mantido para transações assíncronas com 2 ou mais pagamentos quando o primeiro é cancelado."
@@ -58414,21 +58249,6 @@
             },
             {
               "name": {
-                "en": "Callcenter users can't delete a customer's credit card via My Account",
-                "es": "Callcenter users can't delete a customer's credit card via My Account",
-                "pt": "Callcenter users can't delete a customer's credit card via My Account"
-              },
-              "slug": {
-                "en": "callcenter-users-cant-delete-a-customers-credit-card-via-my-account",
-                "es": "callcenter-users-cant-delete-a-customers-credit-card-via-my-account",
-                "pt": "callcenter-users-cant-delete-a-customers-credit-card-via-my-account"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Card brands incorrectly processed as Visa",
                 "es": "Marcas de tarjetas procesadas incorrectamente como Visa",
                 "pt": "Marcas de cartão processadas incorretamente como Visa"
@@ -58512,21 +58332,6 @@
                 "en": "cobranded-saved-card-with-wrong-payment-system-id",
                 "es": "tarjeta-guardada-de-marca-compartida-con-identificador-de-sistema-de-pago-incorrecto",
                 "pt": "cartao-salvo-de-marca-compartilhada-com-identificacao-incorreta-do-sistema-de-pagamento"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Collection functionality doesn't work on Giftcard",
-                "es": "Collection functionality doesn't work on Giftcard",
-                "pt": "Collection functionality doesn't work on Giftcard"
-              },
-              "slug": {
-                "en": "collection-functionality-doesnt-work-on-giftcard",
-                "es": "collection-functionality-doesnt-work-on-giftcard",
-                "pt": "collection-functionality-doesnt-work-on-giftcard"
               },
               "origin": "",
               "type": "markdown",
@@ -58804,6 +58609,21 @@
             },
             {
               "name": {
+                "es": "Error al exportar una gran cantidad de Giftcards",
+                "pt": "Erro ao exportar uma grande quantidade de Giftcards",
+                "en": "Error al exportar una gran cantidad de Giftcards"
+              },
+              "slug": {
+                "es": "error-al-exportar-una-gran-cantidad-de-giftcards",
+                "pt": "erro-ao-exportar-uma-grande-quantidade-de-giftcards",
+                "en": ""
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Error cancelling Customer Credit invoices",
                 "es": "Error al anular facturas de crédito de clientes",
                 "pt": "Erro ao cancelar faturas de crédito do cliente"
@@ -59007,21 +58827,6 @@
                 "en": "error-when-trying-to-open-my-cards",
                 "es": "error-al-intentar-abrir-mis-tarjetas",
                 "pt": "erro-ao-tentar-abrir-meus-cartoes"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Escalation Incomplete billingAddress despite isBillingAddressDifferent: false",
-                "es": "Incomplete billingAddress despite isBillingAddressDifferent: false",
-                "pt": "Escalonamento Incomplete billingAddress apesar de isBillingAddressDifferent: false"
-              },
-              "slug": {
-                "en": "escalation-incomplete-billingaddress-despite-isbillingaddressdifferent-false",
-                "es": "incomplete-billingaddress-despite-isbillingaddressdifferent-false",
-                "pt": "escalonamento-incomplete-billingaddress-apesar-de-isbillingaddressdifferent-false"
               },
               "origin": "",
               "type": "markdown",
@@ -59314,21 +59119,6 @@
             },
             {
               "name": {
-                "en": "Import file for customer credit invoices stuck in loading",
-                "es": "Archivo de importación de facturas de crédito de clientes atascado en la carga",
-                "pt": "Arquivo de importação de faturas de crédito de clientes travado no carregamento"
-              },
-              "slug": {
-                "en": "import-file-for-customer-credit-invoices-stuck-in-loading",
-                "es": "archivo-de-importacion-de-facturas-de-credito-de-clientes-atascado-en-la-carga",
-                "pt": "arquivo-de-importacao-de-faturas-de-credito-de-clientes-travado-no-carregamento"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Impossibility to cancel transactions with Adyen due to lack of pspReference",
                 "es": "Imposibilidad de cancelar transacciones con Adyen por falta de pspReference",
                 "pt": "Impossibilidade de cancelar transações com Adyen devido à falta de pspReference"
@@ -59592,21 +59382,6 @@
                 "en": "invalid-fields-card-security-code-securitycodelength-0-securitycodeisnumeric-true",
                 "es": "campos-no-validos-codigo-de-seguridad-de-la-tarjeta-securitycodelength-0-securitycodeisnumeric-true",
                 "pt": "campos-invalidos-codigo-de-seguranca-do-cartao-securitycodelength-0-securitycodeisnumeric-true"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "isBillingAddressDifferent\": false when it should be true in a first buy as pick-up point",
-                "es": "isBillingAddressDifferent\": false cuando debería ser true en una primera compra como punto de recogida.",
-                "pt": "isBillingAddressDifferent\": falso quando deveria ser verdadeiro em uma primeira compra como ponto de coleta"
-              },
-              "slug": {
-                "en": "isbillingaddressdifferent-false-when-it-should-be-true-in-a-first-buy-as-pickup-point",
-                "es": "isbillingaddressdifferent-false-cuando-deberia-ser-true-en-una-primera-compra-como-punto-de-recogida",
-                "pt": "isbillingaddressdifferent-falso-quando-deveria-ser-verdadeiro-em-uma-primeira-compra-como-ponto-de-coleta"
               },
               "origin": "",
               "type": "markdown",
@@ -59884,21 +59659,6 @@
             },
             {
               "name": {
-                "en": "My Credits displays agent’s balance, not customer’s, during telesales impersonation",
-                "es": "My Credits muestra el saldo del agente, no el del cliente, durante la suplantación de televenta",
-                "pt": "My Credits exibe o saldo do agente, não o do cliente, durante a personificação de televendas"
-              },
-              "slug": {
-                "en": "my-credits-displays-agents-balance-not-customers-during-telesales-impersonation",
-                "es": "my-credits-muestra-el-saldo-del-agente-no-el-del-cliente-durante-la-suplantacion-de-televenta",
-                "pt": "my-credits-exibe-o-saldo-do-agente-nao-o-do-cliente-durante-a-personificacao-de-televendas"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "My Credits doesn't show the PaymentLink invoice even if the field is set",
                 "es": "Mis créditos no muestran la factura de PaymentLink aunque el campo esté configurado",
                 "pt": "Meus Créditos não mostram a fatura PaymentLink mesmo que o campo esteja definido"
@@ -59989,6 +59749,21 @@
             },
             {
               "name": {
+                "es": "No es posible cancelar una transacción con MaxiPago",
+                "pt": "Não é possível cancelar uma transação com a MaxiPago",
+                "en": "No es posible cancelar una transacción con MaxiPago"
+              },
+              "slug": {
+                "es": "no-es-posible-cancelar-una-transaccion-con-maxipago",
+                "pt": "nao-e-possivel-cancelar-uma-transacao-com-a-maxipago",
+                "en": ""
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "NPS - we aren't accepting response with more than 65536 characters",
                 "es": "NPS - no aceptamos respuestas con más de 65536 caracteres",
                 "pt": "NPS - não estamos aceitando resposta com mais de 65536 caracteres"
@@ -59997,6 +59772,21 @@
                 "en": "nps-we-arent-accepting-response-with-more-than-65536-characters",
                 "es": "nps-no-aceptamos-respuestas-con-mas-de-65536-caracteres",
                 "pt": "nps-nao-estamos-aceitando-resposta-com-mais-de-65536-caracteres"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "pt": "O \"Valor a ser usado\" do cartão-presente não permite que o usuário altere o valor quando a moeda não tem decimais",
+                "en": "O \"Valor a ser usado\" do cartão-presente não permite que o usuário altere o valor quando a moeda não tem decimais",
+                "es": "O \"Valor a ser usado\" do cartão-presente não permite que o usuário altere o valor quando a moeda não tem decimais"
+              },
+              "slug": {
+                "pt": "o-valor-a-ser-usado-do-cartaopresente-nao-permite-que-o-usuario-altere-o-valor-quando-a-moeda-nao-tem-decimais",
+                "en": "",
+                "es": ""
               },
               "origin": "",
               "type": "markdown",
@@ -60042,21 +59832,6 @@
                 "en": "order-stuck-in-payment-pending-due-to-outdated-transaction-status",
                 "es": "pedido-bloqueado-en-pendiente-de-pago-debido-a-un-estado-de-transaccion-obsoleto",
                 "pt": "pedido-preso-em-pagamento-pendente-devido-a-status-de-transacao-desatualizado"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Order stuck in Payment Pending status due to missing payment approved notification",
-                "es": "Pedido bloqueado en estado Pendiente de pago por falta de notificación de pago aprobado",
-                "pt": "Pedido preso no status Pendente de pagamento devido à falta de notificação de pagamento aprovado"
-              },
-              "slug": {
-                "en": "order-stuck-in-payment-pending-status-due-to-missing-payment-approved-notification",
-                "es": "pedido-bloqueado-en-estado-pendiente-de-pago-por-falta-de-notificacion-de-pago-aprobado",
-                "pt": "pedido-preso-no-status-pendente-de-pagamento-devido-a-falta-de-notificacao-de-pagamento-aprovado"
               },
               "origin": "",
               "type": "markdown",
@@ -60192,21 +59967,6 @@
                 "en": "payment-received-while-transaction-approved",
                 "es": "pago-recibido-con-transaccion-aprobada",
                 "pt": "pagamento-recebido-durante-a-aprovacao-da-transacao"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Payment rule requiresAuthentication attribute is ignored by gateway (cannot be enforced/overridden via API)",
-                "es": "El atributo requiresAuthentication de la regla de pago es ignorado por la pasarela (no puede aplicarse/anularse a través de la API).",
-                "pt": "O atributo requiresAuthentication da regra de pagamento é ignorado pelo gateway (não pode ser imposto/substituído via API)"
-              },
-              "slug": {
-                "en": "payment-rule-requiresauthentication-attribute-is-ignored-by-gateway-cannot-be-enforcedoverridden-via-api",
-                "es": "el-atributo-requiresauthentication-de-la-regla-de-pago-es-ignorado-por-la-pasarela-no-puede-aplicarseanularse-a-traves-de-la-api",
-                "pt": "o-atributo-requiresauthentication-da-regra-de-pagamento-e-ignorado-pelo-gateway-nao-pode-ser-impostosubstituido-via-api"
               },
               "origin": "",
               "type": "markdown",
@@ -60492,21 +60252,6 @@
                 "en": "single-installment-payment-condition-does-not-appear-at-chekout",
                 "es": "la-condicion-de-pago-unico-no-aparece-en-el-chekout",
                 "pt": "a-condicao-de-pagamento-em-uma-unica-parcela-nao-aparece-no-checkout"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "SKU quantity miscount in checkout when More for Less promotion is applied in B2B Quotes",
-                "es": "Error en el recuento de la cantidad de SKU en la caja cuando se aplica la promoción Más por Menos en Cotizaciones B2B.",
-                "pt": "Erro na contagem da quantidade de SKU no checkout quando a promoção Mais por Menos é aplicada em Cotações B2B"
-              },
-              "slug": {
-                "en": "sku-quantity-miscount-in-checkout-when-more-for-less-promotion-is-applied-in-b2b-quotes",
-                "es": "error-en-el-recuento-de-la-cantidad-de-sku-en-la-caja-cuando-se-aplica-la-promocion-mas-por-menos-en-cotizaciones-b2b",
-                "pt": "erro-na-contagem-da-quantidade-de-sku-no-checkout-quando-a-promocao-mais-por-menos-e-aplicada-em-cotacoes-b2b"
               },
               "origin": "",
               "type": "markdown",
@@ -60979,21 +60724,6 @@
             },
             {
               "name": {
-                "en": "Transaction stuck in Settling after Capture fails due to recipientsSplitRemainValue mismatch",
-                "es": "Transacción bloqueada en Liquidación tras fallo de Captura debido a una falta de coincidencia de recipientsSplitRemainValue.",
-                "pt": "Transação presa na liquidação após falha na captura devido à incompatibilidade de recipientsSplitRemainValue"
-              },
-              "slug": {
-                "en": "transaction-stuck-in-settling-after-capture-fails-due-to-recipientssplitremainvalue-mismatch",
-                "es": "transaccion-bloqueada-en-liquidacion-tras-fallo-de-captura-debido-a-una-falta-de-coincidencia-de-recipientssplitremainvalue",
-                "pt": "transacao-presa-na-liquidacao-apos-falha-na-captura-devido-a-incompatibilidade-de-recipientssplitremainvalue"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Transaction stuck in status approved with payment canceled",
                 "es": "Transacción bloqueada en estado aprobado con pago cancelado",
                 "pt": "Transação presa no status aprovado com pagamento cancelado"
@@ -61084,21 +60814,6 @@
             },
             {
               "name": {
-                "en": "Transactions remain in pending authorization despite connector approval",
-                "es": "Las transacciones permanecen pendientes de autorización a pesar de la aprobación del conector",
-                "pt": "As transações permanecem em autorização pendente apesar da aprovação do conector"
-              },
-              "slug": {
-                "en": "transactions-remain-in-pending-authorization-despite-connector-approval",
-                "es": "las-transacciones-permanecen-pendientes-de-autorizacion-a-pesar-de-la-aprobacion-del-conector",
-                "pt": "as-transacoes-permanecem-em-autorizacao-pendente-apesar-da-aprovacao-do-conector"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Transactions stuck in Authorized or Pending Authorization after approval",
                 "es": "Transacciones atascadas en Autorizado o Pendiente de autorización tras la aprobación",
                 "pt": "Transações presas em Autorizado ou Autorização pendente após a aprovação"
@@ -61137,21 +60852,6 @@
                 "en": "transactions-with-the-tnspay-connector-being-denied-by-error-card-not-enrolled-in-3ds",
                 "es": "transacciones-con-el-conector-tnspay-denegadas-por-error-tarjeta-no-registrada-en-3ds",
                 "pt": "transacoes-com-o-conector-tnspay-sendo-negadas-por-erro-cartao-nao-proibido-em-3ds"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Unable to access My Credits \"An error occurred in your account",
-                "es": "No se puede acceder a Mis créditos \"Se ha producido un error en su cuenta",
-                "pt": "Não é possível acessar My Credits \"Ocorreu um erro em sua conta"
-              },
-              "slug": {
-                "en": "unable-to-access-my-credits-an-error-occurred-in-your-account",
-                "es": "no-se-puede-acceder-a-mis-creditos-se-ha-producido-un-error-en-su-cuenta",
-                "pt": "nao-e-possivel-acessar-my-credits-ocorreu-um-erro-em-sua-conta"
               },
               "origin": "",
               "type": "markdown",
@@ -61356,9 +61056,9 @@
         },
         {
           "name": {
-            "en": "Physical Stores",
-            "es": "Physical Stores",
-            "pt": "Physical Stores"
+            "en": "Physical stores",
+            "es": "Physical stores",
+            "pt": "Physical stores"
           },
           "slug": {
             "en": "physical-stores",
@@ -61415,6 +61115,21 @@
             },
             {
               "name": {
+                "es": "Estado \"Procesando\" al consultar la página de últimos pedidos",
+                "pt": "Status \"Processando\" ao verificar a página de últimos pedidos",
+                "en": "Estado \"Procesando\" al consultar la página de últimos pedidos"
+              },
+              "slug": {
+                "es": "estado-procesando-al-consultar-la-pagina-de-ultimos-pedidos",
+                "pt": "status-processando-ao-verificar-a-pagina-de-ultimos-pedidos",
+                "en": ""
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "InStore does not read properly the HTML registred in the product information.",
                 "es": "InStore no lee correctamente el HTML registrado en la información del producto.",
                 "pt": "A InStore não lê corretamente o registro HTML nas informações do produto."
@@ -61423,36 +61138,6 @@
                 "en": "instore-does-not-read-properly-the-html-registred-in-the-product-information",
                 "es": "instore-no-lee-correctamente-el-html-registrado-en-la-informacion-del-producto",
                 "pt": "a-instore-nao-le-corretamente-o-registro-html-nas-informacoes-do-produto"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Lost reasons not ordered on indeva page",
-                "es": "Razones perdidas no ordenadas en la página indeva",
-                "pt": "Motivos de perda não solicitados na página do indeva"
-              },
-              "slug": {
-                "en": "lost-reasons-not-ordered-on-indeva-page",
-                "es": "razones-perdidas-no-ordenadas-en-la-pagina-indeva",
-                "pt": "motivos-de-perda-nao-solicitados-na-pagina-do-indeva"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Processing\" status when checking last orders page",
-                "es": "Estado \"Procesando\" al consultar la página de últimos pedidos",
-                "pt": "Status \"Processando\" ao verificar a página de últimos pedidos"
-              },
-              "slug": {
-                "en": "processing-status-when-checking-last-orders-page",
-                "es": "estado-procesando-al-consultar-la-pagina-de-ultimos-pedidos",
-                "pt": "status-processando-ao-verificar-a-pagina-de-ultimos-pedidos"
               },
               "origin": "",
               "type": "markdown",
@@ -61477,9 +61162,9 @@
         },
         {
           "name": {
-            "en": "Pick and Pack",
-            "es": "Pick and Pack",
-            "pt": "Pick and Pack"
+            "en": "Pick AND pack",
+            "es": "Pick AND pack",
+            "pt": "Pick AND pack"
           },
           "slug": {
             "en": "pick-and-pack",
@@ -61492,13 +61177,13 @@
             {
               "name": {
                 "en": "“Error get items and fulfillments” when attempting to assign orders in Pick and Pack due to canceled orders associated with a Picker",
-                "es": "Error get items and fulfillments\" al intentar asignar pedidos en Pick and Pack debido a pedidos cancelados asociados a un Picker.",
-                "pt": "Erro ao obter itens e cumprimentos\" ao tentar atribuir pedidos no Pick and Pack devido a pedidos cancelados associados a um Picker"
+                "es": "“Error get items and fulfillments” when attempting to assign orders in Pick and Pack due to canceled orders associated with a Picker",
+                "pt": "“Error get items and fulfillments” when attempting to assign orders in Pick and Pack due to canceled orders associated with a Picker"
               },
               "slug": {
                 "en": "error-get-items-and-fulfillments-when-attempting-to-assign-orders-in-pick-and-pack-due-to-canceled-orders-associated-with-a-picker",
-                "es": "error-get-items-and-fulfillments-al-intentar-asignar-pedidos-en-pick-and-pack-debido-a-pedidos-cancelados-asociados-a-un-picker",
-                "pt": "erro-ao-obter-itens-e-cumprimentos-ao-tentar-atribuir-pedidos-no-pick-and-pack-devido-a-pedidos-cancelados-associados-a-um-picker"
+                "es": "",
+                "pt": ""
               },
               "origin": "",
               "type": "markdown",
@@ -62439,9 +62124,9 @@
         },
         {
           "name": {
-            "en": "Post-purchase",
-            "es": "Post-purchase",
-            "pt": "Post-purchase"
+            "en": "POST purchase",
+            "es": "POST purchase",
+            "pt": "POST purchase"
           },
           "slug": {
             "en": "post-purchase",
@@ -62920,9 +62605,9 @@
         },
         {
           "name": {
-            "en": "Pricing & Promotions",
-            "es": "Pricing & Promotions",
-            "pt": "Pricing & Promotions"
+            "en": "Pricing & promotions",
+            "es": "Pricing & promotions",
+            "pt": "Pricing & promotions"
           },
           "slug": {
             "en": "pricing-and-promotions",
@@ -63377,6 +63062,21 @@
                 "en": "incorrect-price-update-when-a-promotion-doesnt-apply-the-discount-to-all-the-same-items-in-a-cart",
                 "es": "actualizacion-incorrecta-del-precio-cuando-una-promocion-no-aplica-el-descuento-a-todos-los-mismos-articulos-de-un-carrito",
                 "pt": "atualizacao-incorreta-do-preco-quando-uma-promocao-nao-aplica-o-desconto-a-todos-os-mesmos-itens-em-um-carrinho"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "es": "La promoción de envío gratuito no se aplica debido a que el importe mínimo o máximo se basa en el precio unitario en lugar del valor total del artículo.",
+                "en": "La promoción de envío gratuito no se aplica debido a que el importe mínimo o máximo se basa en el precio unitario en lugar del valor total del artículo.",
+                "pt": "La promoción de envío gratuito no se aplica debido a que el importe mínimo o máximo se basa en el precio unitario en lugar del valor total del artículo."
+              },
+              "slug": {
+                "es": "la-promocion-de-envio-gratuito-no-se-aplica-debido-a-que-el-importe-minimo-o-maximo-se-basa-en-el-precio-unitario-en-lugar-del-valor-total-del-arti",
+                "en": "",
+                "pt": ""
               },
               "origin": "",
               "type": "markdown",
@@ -64301,7 +64001,7 @@
             },
             {
               "name": {
-                "en": "Products in the `product-list` that have an `itemAttachment` duplicate when the quantity is increased",
+                "en": "Products in the 'product-list' that have an 'itemAttachment' duplicate when the quantity is increased",
                 "es": "Los productos de la 'product-list' que tienen un 'itemAttachment' se duplican al aumentar la cantidad",
                 "pt": "Produtos na 'product-list' que têm um 'itemAttachment' duplicado quando a quantidade é aumentada"
               },
@@ -64692,21 +64392,6 @@
             },
             {
               "name": {
-                "en": "Problems with triggers that contain attachments",
-                "es": "Problemas con los disparadores que contienen archivos adjuntos",
-                "pt": "Problemas com gatilhos que contêm anexos"
-              },
-              "slug": {
-                "en": "problems-with-triggers-that-contain-attachments",
-                "es": "problemas-con-los-disparadores-que-contienen-archivos-adjuntos",
-                "pt": "problemas-com-gatilhos-que-contem-anexos"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "REST Content-Range Header Shows Incorrect Total When Using Custom Index on Entity",
                 "es": "La cabecera REST Content-Range muestra un total incorrecto al utilizar un índice personalizado en una entidad",
                 "pt": "O cabeçalho do intervalo de conteúdo REST mostra o total incorreto ao usar o índice personalizado na entidade"
@@ -64829,9 +64514,9 @@
         },
         {
           "name": {
-            "en": "Store Framework",
-            "es": "Store Framework",
-            "pt": "Store Framework"
+            "en": "Store framework",
+            "es": "Store framework",
+            "pt": "Store framework"
           },
           "slug": {
             "en": "store-framework",
@@ -65713,21 +65398,6 @@
             },
             {
               "name": {
-                "en": "PLP with “Show More” renders blank after browser back navigation from Checkout",
-                "es": "PLP con \"Mostrar más\" se muestra en blanco después de la navegación de vuelta de Checkout",
-                "pt": "O PLP com \"Show More\" é renderizado em branco após a navegação de retorno do navegador a partir do Checkout"
-              },
-              "slug": {
-                "en": "plp-with-show-more-renders-blank-after-browser-back-navigation-from-checkout",
-                "es": "plp-con-mostrar-mas-se-muestra-en-blanco-despues-de-la-navegacion-de-vuelta-de-checkout",
-                "pt": "o-plp-com-show-more-e-renderizado-em-branco-apos-a-navegacao-de-retorno-do-navegador-a-partir-do-checkout"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Position on selected image on PDP doesn't reset when changing product",
                 "es": "La posición de la imagen seleccionada en la PDP no se restablece al cambiar de producto",
                 "pt": "A posição na imagem selecionada no PDP não é reinicializada ao mudar de produto"
@@ -65841,21 +65511,6 @@
                 "en": "productimpression-doesnt-show-all-the-products-when-the-sku-is-individually-showed",
                 "es": "productimpression-no-muestra-todos-los-productos-cuando-el-sku-se-muestra-individualmente",
                 "pt": "produtoimpressao-nao-mostra-todos-os-produtos-quando-o-sku-e-mostrado-individualmente"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "Products in the 'product-list' that have an 'itemAttachment' duplicate when the quantity is increased",
-                "es": "Los productos de la 'product-list' que tienen un 'itemAttachment' se duplican al aumentar la cantidad",
-                "pt": "Produtos na 'product-list' que têm um 'itemAttachment' duplicado quando a quantidade é aumentada"
-              },
-              "slug": {
-                "en": "products-in-the-productlist-that-have-an-itemattachment-duplicate-when-the-quantity-is-increased",
-                "es": "los-productos-de-la-productlist-que-tienen-un-itemattachment-se-duplican-al-aumentar-la-cantidad",
-                "pt": "produtos-na-productlist-que-tem-um-itemattachment-duplicado-quando-a-quantidade-e-aumentada"
               },
               "origin": "",
               "type": "markdown",
@@ -66193,21 +65848,6 @@
             },
             {
               "name": {
-                "en": "Storefront Styles Page Interfering with Theme CSS Loading",
-                "es": "La página de estilos de la tienda interfiere con la carga de CSS del tema",
-                "pt": "Página de estilos da vitrine interferindo no carregamento do CSS do tema"
-              },
-              "slug": {
-                "en": "storefront-styles-page-interfering-with-theme-css-loading",
-                "es": "la-pagina-de-estilos-de-la-tienda-interfiere-con-la-carga-de-css-del-tema",
-                "pt": "pagina-de-estilos-da-vitrine-interferindo-no-carregamento-do-css-do-tema"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Stucked not found routes on platform",
                 "es": "Rutas atascadas no encontradas en la plataforma",
                 "pt": "Rotas bloqueadas e não encontradas na plataforma"
@@ -66525,9 +66165,9 @@
         },
         {
           "name": {
-            "en": "VTEX Log",
-            "es": "VTEX Log",
-            "pt": "VTEX Log"
+            "en": "VTEX log",
+            "es": "VTEX log",
+            "pt": "VTEX log"
           },
           "slug": {
             "en": "vtex-log",
@@ -66556,9 +66196,9 @@
         },
         {
           "name": {
-            "en": "VTEX Shipping Network (VTEX Log)",
-            "es": "VTEX Shipping Network (VTEX Log)",
-            "pt": "VTEX Shipping Network (VTEX Log)"
+            "en": "VTEX shipping network (vtex log)",
+            "es": "VTEX shipping network (vtex log)",
+            "pt": "VTEX shipping network (vtex log)"
           },
           "slug": {
             "en": "vtex-shipping-network-vtex-log",
