@@ -3,8 +3,8 @@ title: 'Transfer seller between stores'
 id: 6JMZTKvNMtIsPodR0EVMM7
 status: PUBLISHED
 createdAt: 2025-09-11T15:39:25.017Z
-updatedAt: 2025-10-02T17:26:57.765Z
-publishedAt: 2025-10-02T17:26:57.765Z
+updatedAt: 2025-10-17T17:14:15.924Z
+publishedAt: 2025-10-17T17:14:15.924Z
 firstPublishedAt: 2025-09-11T15:51:16.748Z
 contentType: tutorial
 productTeam: Others

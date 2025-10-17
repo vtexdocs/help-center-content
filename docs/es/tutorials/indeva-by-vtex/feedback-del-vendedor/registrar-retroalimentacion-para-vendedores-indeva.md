@@ -3,8 +3,8 @@ title: 'Registrar retroalimentación para vendedores'
 id: II7BJZzq5p5L8rRNcSAqJ
 status: PUBLISHED
 createdAt: 2025-09-18T13:31:09.704Z
-updatedAt: 2025-09-18T14:03:43.817Z
-publishedAt: 2025-09-18T14:03:43.817Z
+updatedAt: 2025-10-17T12:38:33.657Z
+publishedAt: 2025-10-17T12:38:33.657Z
 firstPublishedAt: 2025-09-18T14:03:15.649Z
 contentType: tutorial
 productTeam: Others

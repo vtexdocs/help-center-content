@@ -3,8 +3,8 @@ title: 'Manage forms in the Indeva platform'
 id: 2DcK33anVEz6k7cguq0Wkx
 status: PUBLISHED
 createdAt: 2025-09-30T17:43:57.446Z
-updatedAt: 2025-09-30T17:56:45.467Z
-publishedAt: 2025-09-30T17:56:45.467Z
+updatedAt: 2025-10-17T16:08:40.361Z
+publishedAt: 2025-10-17T16:08:40.361Z
 firstPublishedAt: 2025-09-30T17:54:44.408Z
 contentType: tutorial
 productTeam: Others

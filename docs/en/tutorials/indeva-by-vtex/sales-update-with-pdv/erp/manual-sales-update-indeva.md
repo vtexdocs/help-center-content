@@ -3,8 +3,8 @@ title: 'Manual sales update'
 id: 3vLUQzMVMyat2hLLLcfKQl
 status: PUBLISHED
 createdAt: 2025-09-17T17:30:36.944Z
-updatedAt: 2025-10-02T12:08:07.766Z
-publishedAt: 2025-10-02T12:08:07.766Z
+updatedAt: 2025-10-17T11:46:41.777Z
+publishedAt: 2025-10-17T11:46:41.777Z
 firstPublishedAt: 2025-10-02T12:07:30.944Z
 contentType: tutorial
 productTeam: Others

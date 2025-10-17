@@ -3,8 +3,8 @@ title: 'Configurar pagamento com PagBrasilV2'
 id: 5ONHAWmRbZpNIDPXCkNJXD
 status: PUBLISHED
 createdAt: 2024-03-13T16:31:07.244Z
-updatedAt: 2025-08-25T14:20:54.686Z
-publishedAt: 2025-08-25T14:20:54.686Z
+updatedAt: 2025-10-17T12:42:23.555Z
+publishedAt: 2025-10-17T12:42:23.555Z
 firstPublishedAt: 2024-03-13T22:21:24.967Z
 contentType: tutorial
 productTeam: Financial
@@ -25,9 +25,10 @@ Para configurar o PagBrasilV2, siga os passos abaixo:
 4. Em __Autorização do provedor__, preencha os campos __Chave de aplicação__ e __Token de aplicação__ com as informações da sua conta PagBrasilV2.
 5. Caso deseje modificar o nome de identificação a ser exibido para o provedor PagBrasilV2 na tela do Admin VTEX, insira a informação no campo __Nome__ em __Informações básicas__.
 6. Em __External Service Url__ (URL externa do serviço), insira a URL externa que vai estar associada a `/pvt/payments?an={AccountName}`.
-7. Em __SoftDescriptor__ (Descrição da transação), indique qual informação deverá aparecer para identificar a transação realizada na sua loja.
-8. Em __Captura antecipada__, escolha em quanto tempo você deseja que a captura seja realizada (depois da aprovação da transação e da análise do antifraude). Esta função também pode ser desativada.
-9. Clique em __Salvar__.
+7. Em __Transparent Checkout__, preencha as informações conforme orientação do provedor PagBrasilV2.
+8. Em __SoftDescriptor__ (Descrição da transação), indique qual informação deverá aparecer para identificar a transação realizada na sua loja.
+9. Em __Captura antecipada__, escolha em quanto tempo você deseja que a captura seja realizada (depois da aprovação da transação e da análise do antifraude). Esta função também pode ser desativada.
+10. Clique em __Salvar__.
 
 Para configurar os métodos de pagamento a serem processados pela PagBrasilV2, acesse [Configurar condições de Pagamento](/pt/tutorial/condicoes-de-pagamento).
 

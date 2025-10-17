@@ -1,10 +1,10 @@
 ---
-title: 'Configurar pagamento com Lyra'
+title: 'Configurar pagamento com LyraNetwork'
 id: 1FlJmbVEqF8KJ5ueZUpCWM
 status: PUBLISHED
 createdAt: 2022-10-18T13:23:05.314Z
-updatedAt: 2025-07-16T22:35:59.168Z
-publishedAt: 2025-07-16T22:35:59.168Z
+updatedAt: 2025-10-17T14:02:46.504Z
+publishedAt: 2025-10-17T14:02:46.504Z
 firstPublishedAt: 2022-10-18T16:31:23.474Z
 contentType: tutorial
 productTeam: Financial
@@ -15,13 +15,13 @@ locale: pt
 subcategoryId: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-Na VTEX, é possível realizar a integração com o provedor de pagamento Lyra. Por meio deste provedor, sua loja pode oferecer pagamentos com Lyra.
+Na VTEX, é possível realizar a integração com o provedor de pagamento LyraNetwork. Por meio deste provedor, sua loja pode oferecer pagamentos com Lyra.
 
-Para configurar Lyra, siga os passos abaixo:
+Para configurar LyraNetwork, siga os passos abaixo:
 
 1. No Admin VTEX, acesse **Configurações da loja > Pagamentos > Provedores**, ou digite **Provedores** na barra de busca no topo da página.
 2. Na tela de provedores, clique no botão `Novo provedor`.
-3. Digite o nome **Lyra** na barra de busca e clique sobre o nome do provedor.
+3. Digite o nome **LyraNetwork** na barra de busca e clique sobre o nome do provedor.
 4. Em **Autorização do provedor**, preencha os campos **Chave de aplicação** e **Token de aplicação** com as informações da sua conta Lyra.
 5. Caso deseje modificar o nome de identificação a ser exibido para o provedor Lyra na tela do Admin VTEX, insira a informação no campo **Nome** em **Informações básicas**.
 6. Em **Controle de pagamento**, selecione se deseja ativar o provedor em ambiente de teste clicando em **Ativar modo de teste**.

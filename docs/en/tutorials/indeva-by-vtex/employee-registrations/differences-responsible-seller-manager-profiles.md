@@ -3,8 +3,8 @@ title: 'Differences between responsible seller and manager profiles'
 id: 5Ft4eLr7fg3swbohOv11yD
 status: PUBLISHED
 createdAt: 2025-09-11T16:12:37.515Z
-updatedAt: 2025-10-02T17:41:48.671Z
-publishedAt: 2025-10-02T17:41:48.671Z
+updatedAt: 2025-10-17T17:11:32.469Z
+publishedAt: 2025-10-17T17:11:32.469Z
 firstPublishedAt: 2025-09-11T16:44:41.907Z
 contentType: tutorial
 productTeam: Others

@@ -3,8 +3,8 @@ title: 'Mercado Livre: envios Flex e Turbo'
 id: 4d7NmQWkUMauaSNlykTQYC
 status: PUBLISHED
 createdAt: 2025-10-02T23:15:27.274Z
-updatedAt: 2025-10-06T11:00:16.464Z
-publishedAt: 2025-10-06T11:00:16.464Z
+updatedAt: 2025-10-17T15:08:48.837Z
+publishedAt: 2025-10-17T15:08:48.837Z
 contentType: updates
 productTeam: Channels
 author: 2p7evLfTcDrhc5qtrzbLWD

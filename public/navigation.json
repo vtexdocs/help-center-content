@@ -70,7 +70,7 @@
                 {
                   "name": {
                     "en": "Mercado Libre: Flex and Turbo shipping",
-                    "es": "Mercado Libre: envíos Flex y Turbo",
+                    "es": "Mercado Libre: Envíos Flex y Envíos Turbo",
                     "pt": "Mercado Livre: envios Flex e Turbo"
                   },
                   "slug": {
@@ -21127,6 +21127,21 @@
                 },
                 {
                   "name": {
+                    "en": "Update profile information in the Indeva platform",
+                    "es": "Actualizar la información de perfil en la plataforma Indeva",
+                    "pt": "Atualizar informações de perfil na plataforma Indeva"
+                  },
+                  "slug": {
+                    "en": "update-profile-information-in-platform-indeva",
+                    "es": "actualizar-informacion-de-perfil-en-la-plataforma-indeva",
+                    "pt": "atualizar-informacoes-de-perfil-na-plataforma-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Update user account information",
                     "es": "Actualizar la información de la cuenta de usuario",
                     "pt": "Atualizar dados da conta do usuário"
@@ -21166,6 +21181,21 @@
                     "en": "choose-tablets-and-totems-compatible-with-indeva",
                     "es": "elegir-tabletas-y-totems-compatibles-con-indeva",
                     "pt": "escolher-tablets-e-totens-compativeis-com-a-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "View compatible tablet and totem models with the Indeva platform",
+                    "es": "Consultar los modelos de tablets y tótems compatibles con la plataforma Indeva",
+                    "pt": "Consultar modelos de tablets e totens compatíveis com a plataforma Indeva"
+                  },
+                  "slug": {
+                    "en": "view-compatible-tablet-and-kiosk-models-with-platform-indeva",
+                    "es": "consultar-modelos-de-tabletas-y-totems-compatibles-con-la-plataforma-indeva",
+                    "pt": "consultar-modelos-de-tablets-e-totens-compativeis-com-a-plataforma-indeva"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -21257,6 +21287,21 @@
                     "en": "manage-administrative-user-in-indeva",
                     "es": "gestionar-usuario-administrativos-en-indeva",
                     "pt": "gerenciar-usuarios-administrativos-na-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Manage franchisee, supervisor, and equivalent users in the Indeva platform",
+                    "es": "Gestionar usuarios franquiciados, supervisores y equivalentes en la plataforma Indeva",
+                    "pt": "Gerenciar usuários franqueados, supervisores e equivalentes na plataforma Indeva"
+                  },
+                  "slug": {
+                    "en": "manage-franchisees-supervisors-and-equivalents-in-platform-indeva",
+                    "es": "gestionar-usuarios-franquiciados-supervisores-y-equivalentes-en-la-plataforma-indeva",
+                    "pt": "gerenciar-usuarios-franqueados-supervisores-e-equivalentes-na-plataforma-indeva"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -21536,6 +21581,21 @@
                 },
                 {
                   "name": {
+                    "en": "Select store to set goals in Indeva",
+                    "es": "Seleccionar tienda para definir metas en Indeva",
+                    "pt": "Selecionar loja para cadastrar metas no Indeva"
+                  },
+                  "slug": {
+                    "en": "select-store-to-set-goals-indeva",
+                    "es": "seleccionar-tienda-para-registrar-metas-indeva",
+                    "pt": "selecionar-loja-para-cadastrar-metas-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Set goal values by period in Indeva",
                     "es": "Definir valores de las metas por período en Indeva",
                     "pt": "Definir valores das metas por período no Indeva"
@@ -21579,6 +21639,21 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
+                },
+                {
+                  "name": {
+                    "en": "Access the financial area in the Indeva platform",
+                    "es": "Acceder al área financiera en la plataforma Indeva",
+                    "pt": "Acessar área financeira na plataforma Indeva"
+                  },
+                  "slug": {
+                    "en": "access-financial-area-in-platform-indeva",
+                    "es": "acceder-al-area-financiera-en-la-plataforma-indeva",
+                    "pt": "acessar-area-financeira-na-plataforma-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
                 }
               ]
             },
@@ -21606,6 +21681,21 @@
                     "en": "answer-form-as-a-manager-or-responsible-seller-indeva",
                     "es": "responder-el-formulario-como-gerente-o-vendedor-responsable-indeva",
                     "pt": "responder-formulario-como-gerente-ou-vendedor-responsavel-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Answer forms in the Indeva platform",
+                    "es": "Responder formularios en la plataforma Indeva",
+                    "pt": "Responder formulários na plataforma Indeva"
+                  },
+                  "slug": {
+                    "en": "answer-forms-in-platform-indeva",
+                    "es": "responder-formularios-en-la-plataforma-indeva",
+                    "pt": "responder-formularios-na-plataforma-indeva"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -21655,6 +21745,36 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
+                },
+                {
+                  "name": {
+                    "en": "Review form responses submitted by stores in the Indeva platform",
+                    "es": "Revisar las respuestas de formularios enviadas por las tiendas en la plataforma Indeva",
+                    "pt": "Revisar respostas de formulários enviados pelas lojas na plataforma Indeva"
+                  },
+                  "slug": {
+                    "en": "review-form-responses-submitted-by-stores-in-platform-indeva",
+                    "es": "revisar-respuestas-de-formularios-enviadas-por-tiendas-en-la-plataforma-indeva",
+                    "pt": "revisar-respostas-de-formularios-enviados-pelas-lojas-na-plataforma-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Set up and send forms in the Indeva platform",
+                    "es": "Configurar y enviar formularios en la plataforma Indeva",
+                    "pt": "Configurar e enviar formulários na plataforma Indeva"
+                  },
+                  "slug": {
+                    "en": "set-up-and-send-forms-in-platform-indeva",
+                    "es": "configurar-y-enviar-formularios-en-la-plataforma-indeva",
+                    "pt": "configurar-e-enviar-formularios-na-plataforma-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
                 }
               ]
             },
@@ -21674,6 +21794,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Evaluate usability in the Indeva platform",
+                    "es": "Evaluar la usabilidad en la plataforma Indeva",
+                    "pt": "Avaliar usabilidade na plataforma Indeva"
+                  },
+                  "slug": {
+                    "en": "evaluate-usability-in-platform-indeva",
+                    "es": "evaluar-usabilidad-en-la-plataforma-indeva",
+                    "pt": "avaliar-usabilidade-na-plataforma-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Identify the meaning of colors in the Queue List",
                     "es": "Identificar el significado de los colores en la Lista de Turno",
                     "pt": "Identificar o significado das cores na Lista da Vez"
@@ -21682,6 +21817,21 @@
                     "en": "identify-the-meaning-of-colors-in-the-queue-list-indeva",
                     "es": "identificar-el-significado-de-los-colores-en-la-lista-de-turno-indeva",
                     "pt": "identificar-o-significado-das-cores-na-lista-da-vez-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Install apps from the Indeva platform",
+                    "es": "Instalar aplicaciones de la plataforma Indeva",
+                    "pt": "Instalar aplicativos da plataforma Indeva"
+                  },
+                  "slug": {
+                    "en": "install-apps-from-platform-indeva",
+                    "es": "instalar-aplicaciones-de-la-plataforma-indeva",
+                    "pt": "instalar-aplicativos-da-plataforma-indeva"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -21712,6 +21862,21 @@
                     "en": "track-usability-in-the-queue-list-indeva",
                     "es": "hacer-seguimiento-de-la-usabilidad-en-la-lista-de-turno-indeva",
                     "pt": "acompanhar-usabilidade-na-lista-da-vez-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Understand color markings in the Turn List of the Indeva platform",
+                    "es": "Entender las marcas de colores en la Lista del Turno de la plataforma Indeva",
+                    "pt": "Entender marcações de cores na Lista da Vez da plataforma Indeva"
+                  },
+                  "slug": {
+                    "en": "understand-color-markings-in-lista-da-vez-of-platform-indeva",
+                    "es": "entender-marcaciones-de-colores-en-lista-da-vez-de-la-plataforma-indeva",
+                    "pt": "entender-marcacoes-de-cores-na-lista-da-vez-da-plataforma-indeva"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -21762,6 +21927,36 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
+                },
+                {
+                  "name": {
+                    "en": "Request technical support in the Indeva platform",
+                    "es": "Solicitar soporte técnico en la plataforma Indeva",
+                    "pt": "Solicitar suporte técnico na plataforma Indeva"
+                  },
+                  "slug": {
+                    "en": "request-technical-support-in-platform-indeva",
+                    "es": "solicitar-soporte-tecnico-en-la-plataforma-indeva",
+                    "pt": "solicitar-suporte-tecnico-na-plataforma-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Submit a support ticket through the virtual assistant Eva",
+                    "es": "Registrar un ticket con el soporte mediante la asistente virtual Eva",
+                    "pt": "Registrar chamado com o suporte por meio da assistente virtual Eva"
+                  },
+                  "slug": {
+                    "en": "open-support-ticket-through-virtual-assistant-eva",
+                    "es": "registrar-caso-con-soporte-a-traves-de-la-asistente-virtual-eva",
+                    "pt": "registrar-chamado-com-o-suporte-por-meio-da-assistente-virtual-eva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
                 }
               ]
             },
@@ -21779,6 +21974,21 @@
               "origin": "",
               "type": "category",
               "children": [
+                {
+                  "name": {
+                    "en": "Learn how to use the Indeva platform",
+                    "es": "Aprender a usar la plataforma Indeva",
+                    "pt": "Aprender a usar a plataforma Indeva"
+                  },
+                  "slug": {
+                    "en": "learn-to-use-platform-indeva",
+                    "es": "aprender-a-usar-la-plataforma-indeva",
+                    "pt": "aprender-a-usar-a-plataforma-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
                 {
                   "name": {
                     "en": "Start using Indeva",
@@ -21820,6 +22030,21 @@
                     "en": "evaluate-usability-in-the-queue-list-indeva",
                     "es": "evaluar-la-usabilidad-en-la-lista-de-turno-indeva",
                     "pt": "avaliar-usabilidade-na-lista-da-vez-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "View usability report in the Indeva platform",
+                    "es": "Consultar el informe de usabilidad en la plataforma Indeva",
+                    "pt": "Consultar relatório de usabilidade na plataforma Indeva"
+                  },
+                  "slug": {
+                    "en": "view-usability-report-in-platform-indeva",
+                    "es": "consultar-informe-de-usabilidad-en-la-plataforma-indeva",
+                    "pt": "consultar-relatorio-de-usabilidade-na-plataforma-indeva"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -21905,6 +22130,37 @@
             },
             {
               "name": {
+                "en": "Overview indeva",
+                "es": "Visión general indeva",
+                "pt": "Visão geral indeva"
+              },
+              "slug": {
+                "en": "overview-indeva",
+                "es": "vision-general-indeva",
+                "pt": "visao-geral-indeva"
+              },
+              "origin": "",
+              "type": "category",
+              "children": [
+                {
+                  "name": {
+                    "en": "View performance data in Indeva Overview",
+                    "es": "Visualizar datos de desempeño en la Vista general de Indeva",
+                    "pt": "Visualizar dados de desempenho na Visão Geral do Indeva"
+                  },
+                  "slug": {
+                    "en": "view-performance-data-in-overview-indeva",
+                    "es": "ver-datos-de-rendimiento-en-vista-general-indeva",
+                    "pt": "visualizar-dados-de-desempenho-na-visao-geral-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": {
                 "en": "Rankings AND campaigns",
                 "es": "Rankings y campañas",
                 "pt": "Rankings e campanhas"
@@ -21927,6 +22183,36 @@
                     "en": "campaigns-overview-indeva",
                     "es": "vision-general-de-campanas-indeva",
                     "pt": "visao-geral-de-campanhas-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Create campaigns to encourage performance in the Indeva platform",
+                    "es": "Crear campañas para incentivar el desempeño en la plataforma Indeva",
+                    "pt": "Criar campanhas para incentivar desempenho na plataforma Indeva"
+                  },
+                  "slug": {
+                    "en": "create-campaigns-to-boost-performance-in-platform-indeva",
+                    "es": "crear-campanas-para-fomentar-rendimiento-en-la-plataforma-indeva",
+                    "pt": "criar-campanhas-para-incentivar-desempenho-na-plataforma-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Create rankings to track performance in the Indeva platform",
+                    "es": "Crear rankings para monitorear el desempeño en la plataforma Indeva",
+                    "pt": "Criar rankings para acompanhar desempenho na plataforma Indeva"
+                  },
+                  "slug": {
+                    "en": "create-rankings-to-track-performance-in-platform-indeva",
+                    "es": "crear-rankings-para-seguir-rendimiento-en-la-plataforma-indeva",
+                    "pt": "criar-rankings-para-acompanhar-desempenho-na-plataforma-indeva"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -21965,6 +22251,21 @@
               "children": [
                 {
                   "name": {
+                    "en": "Access and analyze the opportunity flow report in the Indeva platform",
+                    "es": "Acceder y analizar el informe de flujo de oportunidades en la plataforma Indeva",
+                    "pt": "Acessar e analisar o relatório de fluxo de oportunidades na plataforma Indeva"
+                  },
+                  "slug": {
+                    "en": "access-and-analyze-opportunity-flow-report-in-platform-indeva",
+                    "es": "acceder-y-analizar-informe-de-flujo-de-oportunidades-en-la-plataforma-indeva",
+                    "pt": "acessar-e-analisar-relatorio-de-fluxo-de-oportunidades-na-plataforma-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Access the period comparator",
                     "es": "Acceder al comparador de períodos",
                     "pt": "Acessar o comparador de períodos"
@@ -21988,6 +22289,21 @@
                     "en": "analyze-peak-hours-in-the-store-indeva",
                     "es": "analizar-las-horas-pico-en-la-tienda-indeva",
                     "pt": "analisar-horarios-de-pico-na-loja-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Apply filters to reports and dashboards in the Indeva platform",
+                    "es": "Aplicar filtros en los informes y paneles de la plataforma Indeva",
+                    "pt": "Aplicar filtros nos relatórios e painéis da plataforma Indeva"
+                  },
+                  "slug": {
+                    "en": "apply-filters-in-reports-and-dashboards-in-platform-indeva",
+                    "es": "aplicar-filtros-en-informes-y-paneles-en-la-plataforma-indeva",
+                    "pt": "aplicar-filtros-nos-relatorios-e-paineis-da-plataforma-indeva"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -22115,6 +22431,36 @@
                 },
                 {
                   "name": {
+                    "en": "View daily evolution report in the Indeva platform",
+                    "es": "Consultar el informe de evolución diaria en la plataforma Indeva",
+                    "pt": "Consultar relatório Evolução diária na plataforma Indeva"
+                  },
+                  "slug": {
+                    "en": "view-daily-evolution-report-in-platform-indeva",
+                    "es": "consultar-informe-evolucion-diaria-en-la-plataforma-indeva",
+                    "pt": "consultar-relatorio-evolucao-diaria-na-plataforma-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "View event and reason report in the Indeva platform",
+                    "es": "Consultar el informe de eventos y motivos en la plataforma Indeva",
+                    "pt": "Consultar relatório de eventos e motivos na plataforma Indeva"
+                  },
+                  "slug": {
+                    "en": "view-events-and-reasons-report-in-platform-indeva",
+                    "es": "consultar-informe-de-eventos-y-motivos-en-la-plataforma-indeva",
+                    "pt": "consultar-relatorio-de-eventos-e-motivos-na-plataforma-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "View events and reasons logged in the Queue List",
                     "es": "Consultar eventos y motivos registrados en la Lista de Turno",
                     "pt": "Consultar eventos e motivos registrados na Lista da Vez"
@@ -22123,6 +22469,126 @@
                     "en": "view-events-and-reasons-logged-in-the-queue-list-indeva",
                     "es": "consultar-eventos-y-motivos-registrados-en-la-lista-de-turno-indeva",
                     "pt": "consultar-eventos-e-motivos-registrados-na-lista-da-vez-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "View feedback report in the Indeva platform",
+                    "es": "Consultar el informe de retroalimentación en la plataforma Indeva",
+                    "pt": "Consultar relatório de feedbacks na plataforma Indeva"
+                  },
+                  "slug": {
+                    "en": "view-feedback-report-in-platform-indeva",
+                    "es": "consultar-informe-de-feedbacks-en-la-plataforma-indeva",
+                    "pt": "consultar-relatorio-de-feedbacks-na-plataforma-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "View loss reasons report in the Indeva platform",
+                    "es": "Consultar el informe de motivos de pérdida en la plataforma Indeva",
+                    "pt": "Consultar relatório Motivos de perdas na plataforma Indeva"
+                  },
+                  "slug": {
+                    "en": "view-loss-reasons-report-in-platform-indeva",
+                    "es": "consultar-informe-motivos-de-perdidas-en-la-plataforma-indeva",
+                    "pt": "consultar-relatorio-motivos-de-perdas-na-plataforma-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "View opportunity flow report in the Indeva platform",
+                    "es": "Consultar el informe de flujo de oportunidades en la plataforma Indeva",
+                    "pt": "Consultar relatório de fluxo de oportunidades na plataforma Indeva"
+                  },
+                  "slug": {
+                    "en": "view-opportunity-flow-report-in-platform-indeva",
+                    "es": "consultar-informe-de-flujo-de-oportunidades-en-la-plataforma-indeva",
+                    "pt": "consultar-relatorio-de-fluxo-de-oportunidades-na-plataforma-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "View period comparator in the Indeva platform",
+                    "es": "Consultar el comparador de períodos en la plataforma Indeva",
+                    "pt": "Consultar comparador de períodos na plataforma Indeva"
+                  },
+                  "slug": {
+                    "en": "view-period-comparator-in-platform-indeva",
+                    "es": "consultar-comparador-de-periodos-en-la-plataforma-indeva",
+                    "pt": "consultar-comparador-de-periodos-na-plataforma-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "View Sales Wall report in the Indeva platform",
+                    "es": "Consultar el informe Muro de ventas en la plataforma Indeva",
+                    "pt": "Consultar relatório Mural de vendas na plataforma Indeva"
+                  },
+                  "slug": {
+                    "en": "view-sales-wall-report-in-platform-indeva",
+                    "es": "consultar-informe-mural-de-ventas-en-la-plataforma-indeva",
+                    "pt": "consultar-relatorio-mural-de-vendas-na-plataforma-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "View Turn List report in the Indeva platform",
+                    "es": "Consultar el informe Lista del Turno en la plataforma Indeva",
+                    "pt": "Consultar relatório Lista da Vez na plataforma Indeva"
+                  },
+                  "slug": {
+                    "en": "view-lista-da-vez-report-in-platform-indeva",
+                    "es": "consultar-informe-lista-da-vez-en-la-plataforma-indeva",
+                    "pt": "consultar-relatorio-lista-da-vez-na-plataforma-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "View utilization flow report in the Indeva platform",
+                    "es": "Consultar el informe de flujo de aprovechamiento en la plataforma Indeva",
+                    "pt": "Consultar relatório de fluxo de aproveitamento na plataforma Indeva"
+                  },
+                  "slug": {
+                    "en": "view-utilization-flow-report-in-platform-indeva",
+                    "es": "consultar-informe-de-flujo-de-aprovechamiento-en-la-plataforma-indeva",
+                    "pt": "consultar-relatorio-de-fluxo-de-aproveitamento-na-plataforma-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "View X-ray report in the Indeva platform",
+                    "es": "Consultar el informe Rayos X en la plataforma Indeva",
+                    "pt": "Consultar relatório Raio X na plataforma Indeva"
+                  },
+                  "slug": {
+                    "en": "view-x-ray-report-in-platform-indeva",
+                    "es": "consultar-informe-raio-x-en-la-plataforma-indeva",
+                    "pt": "consultar-relatorio-raio-x-na-plataforma-indeva"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -22190,6 +22656,51 @@
                     },
                     {
                       "name": {
+                        "en": "Fix “Connection refused on IP or port” error in Indeva Integrator",
+                        "es": "Corregir error “Conexión rechazada en IP o puerto” en el Integrador Indeva",
+                        "pt": "Corrigir erro “Conexão recusada no IP ou porta” no Integrador Indeva"
+                      },
+                      "slug": {
+                        "en": "fix-connection-refused-error-ip-or-port-integrator-indeva",
+                        "es": "corregir-error-conexion-rechazada-en-ip-o-puerto-integrador-indeva",
+                        "pt": "corrigir-erro-conexao-recusada-no-ip-ou-porta-integrador-indeva"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Fix integration issues between Indeva and sales systems",
+                        "es": "Corregir fallas en la integración de Indeva con sistemas de ventas",
+                        "pt": "Corrigir falhas na integração do Indeva com sistemas de vendas"
+                      },
+                      "slug": {
+                        "en": "fix-integration-failures-with-sales-systems-indeva",
+                        "es": "corregir-fallas-en-la-integracion-con-sistemas-de-ventas-indeva",
+                        "pt": "corrigir-falhas-na-integracao-com-sistemas-de-vendas-indeva"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Fix sales not assigned to sellers in Indeva",
+                        "es": "Corregir ventas no asignadas a vendedores en Indeva",
+                        "pt": "Corrigir vendas não atribuídas a vendedores no Indeva"
+                      },
+                      "slug": {
+                        "en": "fix-unassigned-sales-to-sellers-indeva",
+                        "es": "corregir-ventas-no-asignadas-a-vendedores-indeva",
+                        "pt": "corrigir-vendas-nao-atribuidas-a-vendedores-indeva"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
                         "en": "Integration interruption with other systems",
                         "es": "Integration interruption with other systems",
                         "pt": "Interrupção na integração com outros sistemas"
@@ -22213,6 +22724,21 @@
                         "en": "manual-sales-update-indeva",
                         "es": "actualizacion-manual-de-ventas-indeva",
                         "pt": "atualizacao-manual-de-vendas-indeva"
+                      },
+                      "origin": "",
+                      "type": "markdown",
+                      "children": []
+                    },
+                    {
+                      "name": {
+                        "en": "Open and check Indeva Integrator",
+                        "es": "Abrir y verificar el Integrador Indeva",
+                        "pt": "Abrir e verificar o Integrador Indeva"
+                      },
+                      "slug": {
+                        "en": "open-and-check-integrator-indeva",
+                        "es": "abrir-y-verificar-el-integrador-indeva",
+                        "pt": "abrir-e-verificar-o-integrador-indeva"
                       },
                       "origin": "",
                       "type": "markdown",
@@ -22295,6 +22821,21 @@
                   "origin": "",
                   "type": "markdown",
                   "children": []
+                },
+                {
+                  "name": {
+                    "en": "Validate POS values in the Indeva platform",
+                    "es": "Validar valores de POS en la plataforma Indeva",
+                    "pt": "Validar valores de PDV na plataforma Indeva"
+                  },
+                  "slug": {
+                    "en": "validate-pos-values-in-platform-indeva",
+                    "es": "validar-valores-de-pdv-en-la-plataforma-indeva",
+                    "pt": "validar-valores-de-pdv-na-plataforma-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
                 }
               ]
             },
@@ -22329,6 +22870,21 @@
                 },
                 {
                   "name": {
+                    "en": "Record manager feedback in the Indeva platform",
+                    "es": "Registrar comentarios del gerente en la plataforma Indeva",
+                    "pt": "Registrar feedback de gerente na plataforma Indeva"
+                  },
+                  "slug": {
+                    "en": "register-manager-feedback-in-platform-indeva",
+                    "es": "registrar-feedback-de-gerente-en-la-plataforma-indeva",
+                    "pt": "registrar-feedback-de-gerente-na-plataforma-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "Register feedback for sellers",
                     "es": "Registrar retroalimentación para vendedores",
                     "pt": "Registrar feedback para vendedores"
@@ -22337,6 +22893,21 @@
                     "en": "register-feedback-for-sellers-indeva",
                     "es": "registrar-retroalimentacion-para-vendedores-indeva",
                     "pt": "registrar-feedback-para-vendedores-indeva"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Understand period availability to record feedback in Indeva  ES:",
+                    "es": "Entender la disponibilidad de períodos para registrar comentarios en Indeva",
+                    "pt": "Entender disponibilidade de períodos para registrar feedback na Indeva"
+                  },
+                  "slug": {
+                    "en": "understand-period-availability-to-register-feedback-indeva",
+                    "es": "entender-disponibilidad-de-periodos-para-registrar-feedback-indeva",
+                    "pt": "entender-disponibilidade-de-periodos-para-registrar-feedback-indeva"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -28663,9 +29234,9 @@
                 },
                 {
                   "name": {
-                    "en": "Setting up payments with Lyra",
-                    "es": "Configurar pago con Lyra",
-                    "pt": "Configurar pagamento com Lyra"
+                    "en": "Setting up payments with LyraNetwork",
+                    "es": "Configurar pago con LyraNetwork",
+                    "pt": "Configurar pagamento com LyraNetwork"
                   },
                   "slug": {
                     "en": "setting-up-payments-with-lyra",
@@ -28761,6 +29332,21 @@
                     "en": "setting-up-payments-with-mobbex",
                     "es": "configurar-pago-con-mobbex",
                     "pt": "configurar-pagamento-com-mobbex"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Setting up payments with Netopia Marketplace",
+                    "es": "Configurar pago con Netopia Marketplace",
+                    "pt": "Configurar pagamento com Netopia Marketplace"
+                  },
+                  "slug": {
+                    "en": "setting-up-payments-with-netopia-marketplace",
+                    "es": "configurar-pago-con-netopia-marketplace",
+                    "pt": "configurar-pagamento-com-netopia-marketplace"
                   },
                   "origin": "",
                   "type": "markdown",
@@ -48920,6 +49506,21 @@
             },
             {
               "name": {
+                "en": "Amazon Listing Returns Code",
+                "es": "Amazon Listado Código de devolución",
+                "pt": "Amazon Listagem Código de devolução"
+              },
+              "slug": {
+                "en": "amazon-listing-returns-code-13013-preventing-sku-creation",
+                "es": "amazon-listado-codigo-de-devolucion-13013-que-impide-la-creacion-de-sku",
+                "pt": "amazon-listagem-codigo-de-devolucao-13013-impedindo-a-criacao-de-sku"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Amazon order does not integrate correctly",
                 "es": "El pedido de Amazon no se integra correctamente",
                 "pt": "O pedido da Amazon não se integra corretamente"
@@ -60807,6 +61408,21 @@
                 "en": "transactions-made-with-payu-do-not-change-from-cancelling-status",
                 "es": "las-transacciones-realizadas-con-payu-no-cambian-de-estado-de-cancelacion",
                 "pt": "as-transacoes-feitas-com-payu-nao-mudam-do-status-de-cancelamento"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Transactions stuck in \"Canceling\" and payments remain in \"Authorized\"",
+                "es": "Las transacciones se atascan en \"Cancelando\" y los pagos permanecen en \"Autorizado\".",
+                "pt": "As transações ficam presas em \"Cancelando\" e os pagamentos permanecem em \"Autorizados\""
+              },
+              "slug": {
+                "en": "transactions-stuck-in-canceling-and-payments-remain-in-authorized",
+                "es": "las-transacciones-se-atascan-en-cancelando-y-los-pagos-permanecen-en-autorizado",
+                "pt": "as-transacoes-ficam-presas-em-cancelando-e-os-pagamentos-permanecem-em-autorizados"
               },
               "origin": "",
               "type": "markdown",
