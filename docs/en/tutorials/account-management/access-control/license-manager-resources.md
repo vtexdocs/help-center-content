@@ -21,7 +21,7 @@ Therefore, the VTEX platform offers you the possibility to create custom access 
 
 > ❗ Unrestricted use of resources increases the risk of store attacks by leaking login credentials with access to critical resources. If you have questions about the description of a specific feature, please feel free to contact us.
 
-<iframe src="https://help.vtex.com/tables/resources/en" title="License Manager resources" frameBorder="0" width="105%" height="850"></iframe>
+<iframe src="https://vtexhelp.myvtex.com/tables/resources/en" title="License Manager resources" frameBorder="0" width="105%" height="850"></iframe>
 
 > ℹ️ In the [Audit](/en/tutorial/audit--5RXf9WJ5YLFBcS8q8KcxTA) application, License Manager resources are identified by the corresponding keys.
 
@@ -29,5 +29,5 @@ Therefore, the VTEX platform offers you the possibility to create custom access 
 
 In the License Manager interface, you can also find resources that are deprecated or exclusively for internal use by VTEX. These have no impact on your store. They are:
 
-<iframe src="https://help.vtex.com/tables/internalresources/en" title="Internal or deprecated resources" frameBorder="0" width="100%" height="700"></iframe>
+<iframe src="https://vtexhelp.myvtex.com/tables/internalresources/en" title="Internal or deprecated resources" frameBorder="0" width="100%" height="700"></iframe>
 
