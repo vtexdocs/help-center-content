@@ -46594,13 +46594,13 @@
             {
               "name": {
                 "en": "Order can't be created due to invalid credit card",
-                "es": "El pedido no se puede crear debido a que la tarjeta de crédito no es válida",
-                "pt": "O pedido não pode ser criado devido a cartão de crédito inválido"
+                "es": "No se puede crear el pedido debido a que la tarjeta de crédito no es válida",
+                "pt": "O pedido não pode ser criado devido a um cartão de crédito inválido"
               },
               "slug": {
                 "en": "order-cant-be-created-due-to-invalid-credit-card",
-                "es": "el-pedido-no-se-puede-crear-debido-a-que-la-tarjeta-de-credito-no-es-valida",
-                "pt": "o-pedido-nao-pode-ser-criado-devido-a-cartao-de-credito-invalido"
+                "es": "no-se-puede-crear-el-pedido-debido-a-que-la-tarjeta-de-credito-no-es-valida",
+                "pt": "o-pedido-nao-pode-ser-criado-devido-a-um-cartao-de-credito-invalido"
               },
               "origin": "",
               "type": "markdown",
@@ -61670,6 +61670,21 @@
             },
             {
               "name": {
+                "en": "Transactions remain stuck despite connector approval",
+                "es": "Las transacciones siguen bloqueadas a pesar de la aprobación del conector",
+                "pt": "As transações continuam travadas apesar da aprovação do conector"
+              },
+              "slug": {
+                "en": "transactions-remain-stuck-despite-connector-approval",
+                "es": "las-transacciones-siguen-bloqueadas-a-pesar-de-la-aprobacion-del-conector",
+                "pt": "as-transacoes-continuam-travadas-apesar-da-aprovacao-do-conector"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "Transactions stuck in \"Canceling\" and payments remain in \"Authorized\"",
                 "es": "Las transacciones se atascan en \"Cancelando\" y los pagos permanecen en \"Autorizado\".",
                 "pt": "As transações ficam presas em \"Cancelando\" e os pagamentos permanecem em \"Autorizados\""
@@ -65174,12 +65189,12 @@
             {
               "name": {
                 "en": "Error when changing an index if the fields are identical.",
-                "es": "Error al modificar un índice si los campos son idénticos.",
+                "es": "Error al cambiar un índice si los campos son idénticos.",
                 "pt": "Erro ao alterar um índice se os campos forem idênticos."
               },
               "slug": {
                 "en": "error-when-changing-an-index-if-the-fields-are-identical",
-                "es": "error-al-modificar-un-indice-si-los-campos-son-identicos",
+                "es": "error-al-cambiar-un-indice-si-los-campos-son-identicos",
                 "pt": "erro-ao-alterar-um-indice-se-os-campos-forem-identicos"
               },
               "origin": "",
@@ -65263,9 +65278,9 @@
             },
             {
               "name": {
-                "en": "MDv2 returns error '504 Gateway Timeout' when we try to update a document passing a symbol or special character.",
-                "es": "MDv2 devuelve el error '504 Gateway Timeout' cuando intentamos actualizar un documento pasando un símbolo o carácter especial.",
-                "pt": "O MDv2 retorna o erro '504 Gateway Timeout' quando tentamos atualizar um documento passando um símbolo ou caractere especial."
+                "en": "MDv2 returns error \"504 Gateway Timeout\" when we try to update a document passing a symbol or special character.",
+                "es": "MDv2 devuelve el error \"504 Gateway Timeout\" cuando intentamos actualizar un documento pasando un símbolo o carácter especial.",
+                "pt": "O MDv2 retorna o erro \"504 Gateway Timeout\" quando tentamos atualizar um documento passando um símbolo ou caractere especial."
               },
               "slug": {
                 "en": "mdv2-returns-error-504-gateway-timeout-when-we-try-to-update-a-document-passing-a-symbol-or-special-character",
