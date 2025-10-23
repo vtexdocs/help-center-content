@@ -3,8 +3,8 @@ title: 'Creating Regular Promotions'
 id: 7FjbeZdE2KMwk5L1t98pZI
 status: PUBLISHED
 createdAt: 2020-01-14T13:11:35.010Z
-updatedAt: 2025-10-13T16:15:14.357Z
-publishedAt: 2025-10-13T16:15:14.357Z
+updatedAt: 2025-10-21T17:44:47.560Z
+publishedAt: 2025-10-21T17:44:47.560Z
 firstPublishedAt: 2020-01-22T13:55:43.369Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising

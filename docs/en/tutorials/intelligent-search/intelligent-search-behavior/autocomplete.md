@@ -3,8 +3,8 @@ title: 'Autocomplete'
 id: 6qhP0ZQ4JqUBdgFnbnxS4a
 status: PUBLISHED
 createdAt: 2024-06-27T16:42:03.645Z
-updatedAt: 2024-06-27T16:42:56.071Z
-publishedAt: 2024-06-27T16:42:56.071Z
+updatedAt: 2025-10-22T18:40:37.633Z
+publishedAt: 2025-10-22T18:40:37.633Z
 firstPublishedAt: 2024-06-27T16:42:56.071Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -39,7 +39,7 @@ This way, it is possible to provide the customer with a more fluid and personali
 
 Another advantage for the store's manager is the increase in conversion due to this dynamic of usability and experience.
 
-> ℹ️ Autocomplete offers search keyword suggestions even for completely new stores that do not yet have data on customer interaction such as clicks and searches. In this case, the feature suggests search options based on an algorithm that extracts keywords from the store's catalog, products, brands, and categories. 
+> ℹ️ The Autocomplete feature provides search suggestions even when the store is completely new and does not yet have customer interaction data such as clicks or searches. In this case, the functionality generates search suggestions based on an algorithm that extracts keywords from the store’s catalog, products, brands, and categories. However, this initial data expires after 14 days, which can affect stores that are still under development and do not have enough customer traffic to generate new interactions. When this happens, you will need to request a new search data initialization (*cold start*) from [Support](https://support.vtex.com/hc/en-us/requests) before the store goes live, ensuring that Autocomplete continues to work properly at launch.
 
  ## Most searched terms
 

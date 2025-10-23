@@ -3,8 +3,8 @@ title: 'Adding or editing products'
 id: 29IkdEu6GofCFlltsZh2H8
 status: PUBLISHED
 createdAt: 2024-08-29T19:11:09.043Z
-updatedAt: 2025-05-26T21:45:55.031Z
-publishedAt: 2025-05-26T21:45:55.031Z
+updatedAt: 2025-10-20T15:24:51.383Z
+publishedAt: 2025-10-20T15:24:51.383Z
 firstPublishedAt: 2024-08-29T19:14:22.359Z
 contentType: tutorial
 productTeam: Marketing & Merchandising

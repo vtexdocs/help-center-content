@@ -3,8 +3,8 @@ title: 'Unlock user in VTEX Sales App'
 id: 7FjDbh6KJ5wRxziM7nRFJq
 status: PUBLISHED
 createdAt: 2025-09-12T12:46:32.980Z
-updatedAt: 2025-10-17T18:57:50.636Z
-publishedAt: 2025-10-17T18:57:50.636Z
+updatedAt: 2025-10-23T11:58:15.970Z
+publishedAt: 2025-10-23T11:58:15.970Z
 firstPublishedAt: 2025-09-12T12:52:20.698Z
 contentType: tutorial
 productTeam: Others
