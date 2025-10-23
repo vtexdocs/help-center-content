@@ -3,8 +3,8 @@ title: 'Histórico da indexação'
 id: 55SRQ79PXk5lTURF54DRyJ
 status: PUBLISHED
 createdAt: 2024-06-27T16:51:28.631Z
-updatedAt: 2024-06-27T16:52:45.090Z
-publishedAt: 2024-06-27T16:52:45.090Z
+updatedAt: 2025-10-22T18:26:33.853Z
+publishedAt: 2025-10-22T18:26:33.853Z
 firstPublishedAt: 2024-06-27T16:52:45.090Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -59,8 +59,6 @@ Além dos dados exibidos na lista de produtos, também é possível visualizar:
 * **Linha do tempo da indexação:** registro de cada mudança de status com data e horário. Você pode vizualizar mais detalhes de cada etapa clicando no ícone <i class="fa-solid fa-chevron-down"></i>.
 
 ![Historico indexação 7 - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/intelligent-search/intelligent-search---vis%C3%A3o-geral/historico-da-indexacao_7.png)
-
-É possível reindexar um produto manualmente sem a necessidade de realizar alguma atualização no seu cadastro. Para reidexar um produto, clique em <i class="fa-solid fa-arrows-rotate"></i> `Reindexar`. Apenas produtos no status **Atualizado** podem ser reindexados.
 
 Você pode acessar o **Histórico de indexação** do produto, uma lista com data e horário de cada atualização realizada. Dessa forma, é possível ter registro de toda alteração que foi realizada no produto. Para acessá-lo, clique em <i class="fa-solid fa-arrow-rotate-left"></i> `Histórico`. 
 

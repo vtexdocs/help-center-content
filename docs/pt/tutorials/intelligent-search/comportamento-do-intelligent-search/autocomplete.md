@@ -3,8 +3,8 @@ title: 'Autocomplete'
 id: 6qhP0ZQ4JqUBdgFnbnxS4a
 status: PUBLISHED
 createdAt: 2024-06-27T16:42:03.645Z
-updatedAt: 2024-06-27T16:42:56.071Z
-publishedAt: 2024-06-27T16:42:56.071Z
+updatedAt: 2025-10-22T18:40:37.633Z
+publishedAt: 2025-10-22T18:40:37.633Z
 firstPublishedAt: 2024-06-27T16:42:56.071Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -36,7 +36,7 @@ Dessa forma, é possível proporcionar ao cliente uma experiência de pesquisa m
 
 Outra vantagem para o gestor da loja é o aumento de conversão, resultado dessa dinâmica de usabilidade e experiência.
 
-> ℹ️  O Autocomplete oferece sugestões de pesquisa mesmo quando a loja é totalmente nova e ainda não dispõe de dados de interações com clientes, como cliques e buscas. Nesse caso, a funcionalidade gera sugestões de busca a partir de um algoritmo que extrai palavras-chave do catálogo, dos produtos, das marcas e das categorias registradas na loja. 
+> ℹ️ O Autocomplete oferece sugestões de pesquisa mesmo quando a loja é totalmente nova e ainda não dispõe de dados de interações com clientes, como cliques e buscas. Nesse caso, a funcionalidade gera sugestões de busca a partir de um algoritmo que extrai palavras-chave do catálogo, dos produtos, das marcas e das categorias registradas na loja. No entanto, esses dados iniciais expiram após 14 dias, o que pode impactar lojas que ainda estão em fase de desenvolvimento e não têm fluxo de clientes suficiente para gerar novas interações. Quando isso ocorrer, será necessário solicitar uma nova inicialização dos dados de busca (*cold start*) ao [Suporte](https://support.vtex.com/hc/pt-br/requests) antes de a loja ir ao ar, garantindo que o Autocomplete continue funcionando corretamente no lançamento.
 
 ## Termos mais buscados
 

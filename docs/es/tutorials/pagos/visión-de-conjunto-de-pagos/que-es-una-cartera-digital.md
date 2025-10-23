@@ -3,8 +3,8 @@ title: '¿Qué es una cartera digital (ewallet)?'
 id: 4v5wcOe4A0SiaimWM2cU60
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:38.294Z
-updatedAt: 2023-09-26T15:16:20.294Z
-publishedAt: 2023-09-26T15:16:20.294Z
+updatedAt: 2025-10-21T13:26:28.545Z
+publishedAt: 2025-10-21T13:26:28.545Z
 firstPublishedAt: 2019-01-24T22:05:07.777Z
 contentType: tutorial
 productTeam: Financial

@@ -3,8 +3,8 @@ title: 'Adicionar ou editar produto'
 id: 29IkdEu6GofCFlltsZh2H8
 status: PUBLISHED
 createdAt: 2024-08-29T19:11:09.043Z
-updatedAt: 2025-05-26T21:45:55.031Z
-publishedAt: 2025-05-26T21:45:55.031Z
+updatedAt: 2025-10-20T15:24:51.383Z
+publishedAt: 2025-10-20T15:24:51.383Z
 firstPublishedAt: 2024-08-29T19:14:22.359Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: pwxWmUu7T222QyuGogs68
 ---
 
-A página [Produtos e SKUs](/pt/tutorial/produtos-e-skus--2ig7TmROlirWirZjFWZ3By) permite ao lojista gerenciar produtos e variações existentes ou cadastrar novos. Este artigo orienta sobre como adicionar ou editar produtos. Caso deseje informações relacionadas a SKUs, confira o artigo [Adicionar ou editar SKU](/pt/tutorial/agregar-o-editar-skus--4ryZ6J45kwn3jDiQBxGiiN).
+A página [Produtos e SKUs](/pt/tutorial/produtos-e-skus--2ig7TmROlirWirZjFWZ3By) permite ao lojista gerenciar produtos e variações existentes ou cadastrar novos. Este artigo orienta sobre como adicionar ou editar produtos. Caso deseje informações relacionadas a SKUs, confira o artigo [Adicionar ou editar SKU](/pt/tutorial/adicionar-ou-editar-sku--4ryZ6J45kwn3jDiQBxGiiN).
 
 > ℹ️ Também é possível cadastrar produtos pela [importação de planilha](/pt/tutorial/preencher-campos-da-planilha-de-importacao--4nYhx63Q5yokQWaMguaIgI) ou via ERP, seguindo as orientações do [Back office integration guide (ERP/PIM/WMS)](https://developers.vtex.com/docs/guides/erp-integration-import-products) do nosso portal para desenvolvedores.
 

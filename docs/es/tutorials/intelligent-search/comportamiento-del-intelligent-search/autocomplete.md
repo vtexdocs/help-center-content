@@ -3,8 +3,8 @@ title: 'Autocomplete'
 id: 6qhP0ZQ4JqUBdgFnbnxS4a
 status: PUBLISHED
 createdAt: 2024-06-27T16:42:03.645Z
-updatedAt: 2024-06-27T16:42:56.071Z
-publishedAt: 2024-06-27T16:42:56.071Z
+updatedAt: 2025-10-22T18:40:37.633Z
+publishedAt: 2025-10-22T18:40:37.633Z
 firstPublishedAt: 2024-06-27T16:42:56.071Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -37,7 +37,7 @@ De esta forma, es posible proporcionar al cliente una experiencia de búsqueda m
 
 Otra ventaja para el administrador de la tienda es el aumento de conversión, que es el resultado de la dinámica de facilidad de uso y experiencia.
 
-> ℹ️ Autocomplete ofrece sugerencias de búsqueda incluso cuando la tienda es nueva y aún no muestra datos de interacciones con los clientes, como clics y búsquedas. En este caso, la funcionalidad genera sugerencias de búsqueda a partir de un algoritmo que extrae palabras clave del catálogo, productos, marcas y categorías registradas en la tienda. 
+> ℹ️ Autocomplete ofrece sugerencias de búsqueda incluso cuando la tienda es nueva y aún no muestra datos de interacciones con los clientes, como clics y búsquedas. En este caso, la funcionalidad genera sugerencias de búsqueda a partir de un algoritmo que extrae palabras clave del catálogo, productos, marcas y categorías registradas en la tienda. Sin embargo, estos datos iniciales caducan después de 14 días, lo que puede afectar a las tiendas que aún están en fase de desarrollo y no tienen suficiente tráfico de clientes para generar nuevas interacciones. Cuando esto ocurra, será necesario solicitar una nueva inicialización de los datos de búsqueda (*cold start*) al [Soporte](https://support.vtex.com/hc/es-mx/requests) antes de que la tienda se publique, para garantizar que la función de Autocompletar siga funcionando correctamente en el lanzamiento.
 
 ## Términos más buscados
 
