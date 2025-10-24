@@ -1,10 +1,10 @@
 ---
-title: "Setting up payments with Yuno"
+title: 'Setting up payments with Yuno'
 id: h7PS0vDJJokqI9axZPNzE
 status: PUBLISHED
 createdAt: 2023-04-14T12:42:43.736Z
-updatedAt: 2025-07-16T22:45:37.100Z
-publishedAt: 2025-07-16T22:45:37.100Z
+updatedAt: 2025-10-24T13:28:27.182Z
+publishedAt: 2025-10-24T13:28:27.182Z
 firstPublishedAt: 2023-04-14T13:21:45.782Z
 contentType: tutorial
 productTeam: Financial
@@ -34,7 +34,7 @@ To configure Yuno, follow the steps below:
    		<li>**Automatic capture immediately after anti-fraud analysis**: Capture is automatically performed right after payment authorization and anti-fraud analysis. If you select this behavior and do not have anti-fraud analysis, the system will perform the payment capture as in "Automatic capture immediately after payment authorization".</li>     
    		<li>**Disabled**: Capture takes place only when the order is invoiced. If you select this behavior, it is important to pay attention to the invoicing time, as invoicing can exceed the capture time agreed with the payment provider and lead to the cancellation of the transaction.</li>
 </ul>
-8. In **Provider Fields**, configure the fields **Affiliation Name**, **Account ID**, **Public API Key**, **Private Secret Key**, **Main Account Name**, **Main Account App key** and **Main Account App token** according to the provider's instructions.
+8. In **Provider Fields**, configure the fields **Affiliation Name**, **Account ID**, **Public API Key**, **Private Secret Key**, **Main Account Name**, **Main Account App key**, **Main Account App token**, and **Soft Descriptor** according to the provider`s instructions.
 9. Click `Save`.
 
 To configure the payment methods to be processed by Yuno, access [Configuring Payment Conditions](/en/tutorial/how-to-configure-payment-conditions--tutorials_455#).

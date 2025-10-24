@@ -3,8 +3,8 @@ title: 'Configurar pago con Yuno'
 id: h7PS0vDJJokqI9axZPNzE
 status: PUBLISHED
 createdAt: 2023-04-14T12:42:43.736Z
-updatedAt: 2025-07-16T22:45:37.100Z
-publishedAt: 2025-07-16T22:45:37.100Z
+updatedAt: 2025-10-24T13:28:27.182Z
+publishedAt: 2025-10-24T13:28:27.182Z
 firstPublishedAt: 2023-04-14T13:21:45.782Z
 contentType: tutorial
 productTeam: Financial
@@ -34,7 +34,7 @@ Para configurar Yuno, siga los pasos a continuación:
    		<li>**Liquidación automática inmediatamente después del análisis antifraude**: la captura es automática y se realiza inmediatamente después de la autorización y el análisis antifraude (si seleccionas este comportamiento y no tienes análisis antifraude, la captura de pago se realizará de la misma manera que en el comportamiento "Liquidación automática inmediatamente después de la autorización del pago").</li>
    		<li>**Desactivado**: la captura se realiza solo cuando se factura el pedido. Si se opta por este comportamiento de captura, es importante estar atento al tiempo de facturación, ya que puede exceder el tiempo de captura acordado con el proveedor de pagos y provocar la cancelación de la transacción.</li>
 </ul>
-8. En **Campos del Proveedor**, seleccione o complete los campos **Affiliation Name**, **Account ID**, **Public API Key**, **Private Secret Key**, **Main Account Name**, **Main Account App key** y **Main Account App token** según las instrucciones del proveedor.
+8. En **Campos del Proveedor**, seleccione o complete los campos **Affiliation Name**, **Account ID**, **Public API Key**, **Private Secret Key**, **Main Account Name**, **Main Account App key**, **Main Account App token**, y **Soft Descriptor** según las instrucciones del proveedor.
 9. Haga clic en `Guardar`.
 
 Para configurar los métodos de pago a procesar por Yuno, acceda al [Configurar Condiciones de Pago](/es/tutorial/condiciones-de-pago--tutorials_455#).

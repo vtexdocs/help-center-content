@@ -3,8 +3,8 @@ title: 'Ocultar o remover componente de Live Shopping'
 id: 7e3bP6LjFgxXC210jSpl59
 status: PUBLISHED
 createdAt: 2025-07-23T18:14:54.073Z
-updatedAt: 2025-09-15T18:23:16.624Z
-publishedAt: 2025-09-15T18:23:16.624Z
+updatedAt: 2025-10-24T13:34:17.911Z
+publishedAt: 2025-10-24T13:34:17.911Z
 firstPublishedAt: 2025-07-28T15:08:44.289Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -22,6 +22,7 @@ Consulta las instrucciones que corresponden a tu solución de frontend:
 * [Store Framework (VTEX IO)](#store-framework-vtex-io)
 * [CMS - Portal Legado](#cms-portal-legado)
 * [Headless CMS](#headless-cms)
+* [FastStore](#faststore)
 
 > ❗ Para evitar que tu audiencia vea una pantalla negra al finalizar la transmisión, puedes mostrar una imagen de cierre, como se indica a continuación:<ol><li>Antes de finalizar la transmisión, muestra la imagen final en Bundle o en un estudio externo.</li><li>Oculta el componente **Live Shopping** o remueve el código de la tienda (como se muestra en las siguientes secciones).</li><li>Espera aproximadamente 10 minutos después de mostrar la imagen de cierre para permitir que la caché se actualice.</li><li>Termina el evento.
 
@@ -48,3 +49,14 @@ Para tiendas que usan [CMS - Portal Legado](/es/tracks/cms--2YcpgIljVaLVQYMzxQbc
 ## Headless CMS
 
 Para tiendas que utilizan [Headless CMS](/es/tutorial/headless-cms-vision-general--3U5gvhHdQL0jczYH8gjX09) debes remover el script de **Live Shopping** del archivo HTML donde [lo hayas agregado](/es/tracks/vtex-live-shopping-primeros-pasos--3eCHNCIx8XhZOSmX0sQT3U/4r5uk6XHxdYlOGMr11GFWR#headless-cms).
+
+## FastStore
+
+Para eliminar el componente de Live Shopping de un proyecto [FastStore](https://developers.vtex.com/docs/guides/faststore), sigue los pasos a continuación:
+
+1. En el Admin VTEX, accede a **Storefront > Headless CMS**, o ingresa **Headless CMS** en la barra de búsqueda en la parte superior de la página.
+2. Selecciona la página en que agregaste el componente **Live Shopping Player**.
+3. En la pestaña `Secciones`, navega a la sección del reproductor de **Live Shopping** y haz clic en <i class="fas fa-ellipsis-v" aria-hidden="true"></i> **Más > Eliminar**.
+4. Haz clic en `Guardar`.
+5. Haz clic en **Publicar > Publicar ahora**.
+6. En la ventana **Sustituir versión publicada**, haz clic en `Sustituir`.

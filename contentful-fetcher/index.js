@@ -39,7 +39,7 @@ async function main() {
   const skipWrite = args.skipWrite;
   const skipFiles = args.skipFiles;
   const updatedAfter = args.updatedAfter;
-  const skipLinkConversion = !!args.skipLinkConversion;
+  const convertLinks = args.convertLinks;
   const convertLinksOnly = !!args.convertLinksOnly;
   const dryRun = !!args.dryRun;
   const backup = !!args.backup;
@@ -78,7 +78,7 @@ async function main() {
         locales,
         dryRun,
         backup,
-        verbose
+        verbose,
       });
       console.log("✅ Link conversion completed successfully.");
       return;
@@ -324,7 +324,7 @@ async function main() {
   }
 
   // LINK CONVERSION - Run after ALL content migration is complete
-  if (!skipLinkConversion) {
+  if (convertLinks) {
     console.log("🔗 Starting link conversion process...");
     try {
       const results = await runLinkConversion({
@@ -332,15 +332,13 @@ async function main() {
         locales,
         dryRun,
         backup,
-        verbose
+        verbose,
       });
       console.log("✅ Link conversion completed successfully.");
     } catch (error) {
       console.error("❌ Link conversion failed:", error.message);
       process.exit(1);
     }
-  } else {
-    console.log("⏭️ Skipping link conversion (--skipLinkConversion flag set)");
   }
 }
 
