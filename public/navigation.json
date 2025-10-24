@@ -41280,6 +41280,21 @@
             },
             {
               "name": {
+                "en": "DefaultValue on specification is accepted for CheckBox, Combo or Radio field types via API",
+                "es": "Se acepta DefaultValue en la especificación para los tipos de campo CheckBox, Combo o Radio a través de API",
+                "pt": "O DefaultValue na especificação é aceito para os tipos de campo CheckBox, Combo ou Radio via API"
+              },
+              "slug": {
+                "en": "defaultvalue-on-specification-is-accepted-for-checkbox-combo-or-radio-field-types-via-api",
+                "es": "se-acepta-defaultvalue-en-la-especificacion-para-los-tipos-de-campo-checkbox-combo-o-radio-a-traves-de-api",
+                "pt": "o-defaultvalue-na-especificacao-e-aceito-para-os-tipos-de-campo-checkbox-combo-ou-radio-via-api"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "DefaultValue property doesn't update on specification API",
                 "es": "La propiedad DefaultValue no se actualiza en la API de especificación",
                 "pt": "A propriedade DefaultValue não é atualizada na API de especificação"
@@ -60162,6 +60177,21 @@
                 "en": "payment-received-while-transaction-approved",
                 "es": "pago-recibido-con-transaccion-aprobada",
                 "pt": "pagamento-recebido-durante-a-aprovacao-da-transacao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Payment rule fields not reflected in Admin when rule is created via API",
+                "es": "Los campos de la regla de pago no se reflejan en Admin cuando la regla se crea a través de API",
+                "pt": "Os campos da regra de pagamento não são refletidos no Admin quando a regra é criada via API"
+              },
+              "slug": {
+                "en": "payment-rule-fields-not-reflected-in-admin-when-rule-is-created-via-api",
+                "es": "los-campos-de-la-regla-de-pago-no-se-reflejan-en-admin-cuando-la-regla-se-crea-a-traves-de-api",
+                "pt": "os-campos-da-regra-de-pagamento-nao-sao-refletidos-no-admin-quando-a-regra-e-criada-via-api"
               },
               "origin": "",
               "type": "markdown",
