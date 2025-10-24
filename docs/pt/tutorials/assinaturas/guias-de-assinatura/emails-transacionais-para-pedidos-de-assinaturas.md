@@ -3,8 +3,8 @@ title: 'Emails transacionais para pedidos de assinaturas'
 id: 2NYHqHMRqZ43Cn6s84ZCB5
 status: PUBLISHED
 createdAt: 2020-02-11T15:13:38.504Z
-updatedAt: 2024-10-04T14:15:54.337Z
-publishedAt: 2024-10-04T14:15:54.337Z
+updatedAt: 2025-10-24T14:47:50.280Z
+publishedAt: 2025-10-24T14:47:50.280Z
 firstPublishedAt: 2020-02-17T21:15:14.903Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -46,16 +46,17 @@ Não é preciso ativar o envio de emails manualmente, pois são enviados de form
 A tabela a seguir apresenta os templates de email padrão para **Assinaturas**:
 
 | **Nome do template** | **ID** | **Descrição** |
-| :---: | :---: | :--- |
-| Paused subscription | `paused-subscription` | Assinatura pausada. |
-| Canceled Subscription | `canceled-subscription` | Assinatura cancelada com sucesso. |
-| Expired Subscription | `expired-subscription` | Período de assinatura expirado. |
-| New Subscription | `new-subscription` | Assinatura criada com sucesso.<br><br>> ℹ️ Existe um período de tempo entre a criação da assinatura e o disparo da notificação do template `new-subscription`. |
-| Next Subscription Order Reminder | `next-subscription-order-reminder` | Lembrete que a data da próxima compra do pedido de assinatura será em dois dias. |
-| Payment not approved | `payment-not-approved` | Pagamento não aprovado do pedido de assinatura. |
-| Reactivated Subscription | `reactivated-subscription` | Assinatura reativada. |
-| Skipped Subscription | `skipped-subscription` | Pedido de assinatura “pulado” pelo cliente. |
-| Subscription Creation Error | `subscription-creation-error` | Erro na criação da assinatura. |
-| Subscription Error | `subscription-error` | Erro no pedido da assinatura. |
-| Unavailable Items | `unavailable-items` | Pedido de assinatura criado com indisponibilidade em algum item. |
-| Updated Subscription | `updated-subscription` | Assinatura atualizada com sucesso. |
+| --- | --- | --- |
+| Subscriptions - New | `vtexcommerce-subscriptions-create` | Nova assinatura criada com sucesso.<br><br>Existe um período de 30 minutos entre a criação da assinatura e o disparo da notificação do template `vtexcommerce-subscriptions-create`. |
+| Subscriptions - Edited | `vtexcommerce-subscriptions-update` | Assinatura atualizada com sucesso. |
+| Subscriptions - Cancelled | `vtexcommerce-subscriptions-cancel` | Assinatura cancelada com sucesso. |
+| Subscriptions - Skipped | `vtexcommerce-subscriptions-skip` | Pedido de assinatura “pulado” pelo cliente. |
+| Subscriptions - Paused | `vtexcommerce-subscriptions-stop` | Assinatura pausada. Nenhum pedido de assinatura será criado até que a assinatura seja reativada. |
+| Subscriptions Reactivated | `vtexcommerce-subscriptions-reactivated` | Assinatura reativada. A nova data de execução será recalculada e os pedidos voltarão a ser executados na data definida. |
+| Subscriptions - Next Order | `vtexcommerce-subscriptions-reminder` | Lembrete de que a data da próxima compra do pedido de assinatura será em dois dias. |
+| Subscriptions Expired | `vtexcommerce-subscriptions-expired` | Período de assinatura expirado. |
+| vtexcommerce-subscriptions-neworder | `vtexcommerce-subscriptions-neworder` | Assinatura gerou um novo pedido. |
+| Subscriptions - Item Unavailable | `vtexcommerce-subscriptions-partialorder` | Pedido de assinatura foi gerado parcialmente. Você pode ativar esse template quando a loja não tem todos os SKUs do pedido ou não tem a quantidade necessária de SKU em estoque. |
+| Subscriptions - No Order | `vtexcommerce-subscriptions-noorder`| Pedido de assinatura não gerado. Você pode ativar esse template quando a loja não tem nenhum dos SKUs do pedido em estoque. |
+| Subscriptions - Error | `vtexcommerce-subscriptions-failorder`| Pedido de assinatura não pode ser gerado. |
+| Subscription - Payment Not Approved | `vtexcommerce-subscriptions-payment-not-approved` | Pagamento não aprovado do pedido de assinatura. |

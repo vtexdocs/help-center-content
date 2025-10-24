@@ -3,8 +3,8 @@ title: 'Ocultar ou remover componente do Live Shopping'
 id: 7e3bP6LjFgxXC210jSpl59
 status: PUBLISHED
 createdAt: 2025-07-23T18:14:54.073Z
-updatedAt: 2025-09-15T18:23:16.624Z
-publishedAt: 2025-09-15T18:23:16.624Z
+updatedAt: 2025-10-24T13:34:17.911Z
+publishedAt: 2025-10-24T13:34:17.911Z
 firstPublishedAt: 2025-07-28T15:08:44.289Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -22,6 +22,7 @@ Verifique as instruções específicas para a sua solução frontend:
 * [Store Framework (VTEX IO)](#store-framework-vtex-io)
 * [CMS - Portal Legado](#cms-portal-legado)
 * [Headless CMS](#headless-cms)
+* [FastStore](#faststore)
 
 > ❗ Para evitar que os espectadores vejam uma tela preta no final da transmissão, é possível exibir uma imagem de encerramento, conforme explicado a seguir:<ol><li>Antes de finalizar a transmissão, exiba a imagem de encerramento no Bundle ou em um estúdio externo.</li><li>Oculte o componente **Live Shopping** ou remova o código da loja (conforme descrito nas próximas seções).</li><li>Aguarde cerca de 10 minutos após exibir a imagem para que o cache seja atualizado.</li><li>Finalize o evento.
 
@@ -49,3 +50,13 @@ Para lojas que usam o [CMS - Portal Legado](/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc
 
 Para lojas que usam [Headless CMS](/pt/tutorial/headless-cms-visao-geral--3U5gvhHdQL0jczYH8gjX09), é necessário remover o script do **Live Shopping** do arquivo HTML em que foi [adicionado](/pt/tracks/vtex-live-shopping-primeiros-passos--3eCHNCIx8XhZOSmX0sQT3U/4r5uk6XHxdYlOGMr11GFWR#headless-cms).
 
+## FastStore
+
+Para deletar o componente Live Shopping de um projeto que usa [FastStore](https://developers.vtex.com/docs/guides/faststore), siga os passos abaixo: 
+
+1. No Admin VTEX, acesse **Storefront > Headless CMS**, ou digite **Headless CMS** na barra de busca no topo da página.
+2. Selecione a página em que deseja adicionar o **Live Shopping Player**.
+3. Na aba `Seções`, acesse a seção **Live Shopping Player** e clique em <i class="fas fa-ellipsis-v" aria-hidden="true"></i> **Mais > Excluir**.
+4. Clique em `Salvar`.
+5. Clique em **Publicar > Publicar agora**.
+6. Na janela **Substituir versão publicada**, clique em `Substituir`.

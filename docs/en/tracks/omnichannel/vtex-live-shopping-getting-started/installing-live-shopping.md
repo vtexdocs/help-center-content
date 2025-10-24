@@ -3,8 +3,8 @@ title: 'Installing Live Shopping'
 id: 5r4DSCZCdQUErgJzLGtiMD
 status: PUBLISHED
 createdAt: 2025-07-23T17:40:02.306Z
-updatedAt: 2025-09-15T20:37:48.025Z
-publishedAt: 2025-09-15T20:37:48.025Z
+updatedAt: 2025-10-24T13:10:34.190Z
+publishedAt: 2025-10-24T13:10:34.190Z
 firstPublishedAt: 2025-07-28T15:07:26.166Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -20,6 +20,7 @@ The **Live Shopping** solution is compatible with the following frontend technol
 * [Store Framework (VTEX IO)](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ#store-framework)
 * [Legacy CMS Portal](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj)
 * [Headless CMS](/en/tutorial/headless-cms-overview--3U5gvhHdQL0jczYH8gjX09)
+* [FastStore](https://developers.vtex.com/docs/guides/faststore/storefront-features-implementing-live-shopping-for-faststore)
 * External stores
 
 ## Prerequisite
@@ -40,3 +41,9 @@ Unless you are an external store, you must follow the steps below:
 ## Installation steps for VTEX IO
 
 Since **VTEX Live Shopping** impacts your storefront by displaying a component when the event begins, your technical team must implement it following the instructions provided in our [developer documentation](https://developers.vtex.com/docs/apps/vtexventures.livestreaming#for-vtex-io).
+
+## Installation steps for FastStore
+
+To integrate **Live Shopping** into a project using [FastStore](https://developers.vtex.com/docs/guides/faststore), see the guide [Implementing Live Shopping for FastStore](https://developers.vtex.com/docs/guides/faststore/storefront-features-implementing-live-shopping-for-faststore).
+
+> ℹ️ This feature is available as a native solution in the latest version of FastStore. If your storefront uses [FastStore v1 or v2](https://developers.vtex.com/docs/guides/faststore/getting-started-faststore-versions-and-support-levels), see the guide [Implementing Live Shopping for FastStore previous versions](https://developers.vtex.com/docs/guides/faststore/storefront-features-implementing-live-shopping-for-faststore-previous-versions).

@@ -3,8 +3,8 @@ title: 'Adicionar componente do Live Shopping'
 id: 4r5uk6XHxdYlOGMr11GFWR
 status: PUBLISHED
 createdAt: 2025-07-23T17:54:26.773Z
-updatedAt: 2025-09-15T20:53:57.710Z
-publishedAt: 2025-09-15T20:53:57.710Z
+updatedAt: 2025-10-24T13:26:35.877Z
+publishedAt: 2025-10-24T13:26:35.877Z
 firstPublishedAt: 2025-07-28T15:07:46.555Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -20,6 +20,7 @@ Depois que seu evento estiver [configurado no Bundle](/pt/tracks/vtex-live-shopp
 * [Store Framework (VTEX IO)](#store-framework-vtex-io)
 * [CMS - Portal Legado](#cms-portal-legado)
 * [Headless CMS](#headless-cms)
+* [FastStore](#faststore)
 
 > ⚠️ Após configurar o componente **Live Shopping**, as alterações podem levar de cinco a dez minutos para serem refletidas no storefront devido ao cache.
 
@@ -62,3 +63,23 @@ Para lojas que usam [Headless CMS](/pt/tutorial/headless-cms-visao-geral--3U5gvh
 5. Cole o código no arquivo HTML desejado.
 
 > ❗ Após configurar o evento, é possível visualizá-lo clicando no botão [Pré-visualização](/pt/tracks/vtex-live-shopping-primeiros-passos--3eCHNCIx8XhZOSmX0sQT3U/125yr6jAfwiiz84JP4ppfO#pre-visualizacao). No entanto, como essa visualização exibe somente determinados componentes do **Live Shopping**, recomendamos fazer verificações adicionais em todo o site para garantir que tudo esteja funcionando corretamente.
+
+## FastStore
+
+Para adicionar o componente **Live Shopping** ao seu projeto, siga os passos abaixo:
+
+> ℹ️ Essa funcionalidade está disponível como uma solução nativa para a última versão da FastStore. Se a sua loja usa [FastStore v1 ou v2](https://developers.vtex.com/docs/guides/faststore/getting-started-faststore-versions-and-support-levels), acesse o guia [Implementing Live Shopping for FastStore previous versions](https://developers.vtex.com/docs/guides/faststore/storefront-features-implementing-live-shopping-for-faststore-previous-versions).
+
+1. No Admin VTEX, acesse **Apps > Live Shopping > Eventos**, ou digite **Eventos** na barra de busca no topo da página.
+2. Na coluna **Ação**, clique na seta para acessar a [página do evento](/pt/tutorial/live-shopping-events--6aGLiqoKG1UoS30f3FFWch). 
+3. Na seção **Detalhes**, copie o `ID`, um código único composto por letras e números. Você pode usar o botão `Copiar para área de transferência`. 
+4. Acesse **Storefront > Headless CMS**, ou digite **Headless CMS** na barra de busca no topo da página.
+5. Selecione a página em que deseja adicionar o **Live Shopping Player**.
+6. Na aba `Seções`, adicione o reprodutor de mídia clicando em `+` **Adicionar seção** no local desejado. 
+7. Na janela **Adicionar seção**, clique em **Live Shopping Player**.
+8. No campo **Live Shopping Player**, cole o ID do evento que você copiou.
+9. Clique em `Salvar`.
+10. Quando estiver pronto para exibir o reprodutor de mídia no storefront, clique em **Publicar > Publicar agora**. 
+11. (Opcional) Se a versão da página já tiver sido publicada anteriormente e a janela **Substituir versão publicada** for exibida, clique em `Substituir`.
+
+Após alguns instantes, o deploy será concluído e o status na seção **Versões** mudará para `Publicado`.
