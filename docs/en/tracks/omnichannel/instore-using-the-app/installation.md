@@ -20,7 +20,7 @@ Before installing the VTEX Sales App application on the devices intended for use
 
 It is also crucial to [set up VTEX Sales App in the Admin](/en/tracks/instore-setting-up--zav76TFEZlAjnyBVL5tRc) before you start using it on these devices.
 
-You can install the **VTEX VTEX Sales App** app on smartphones or tablets that use [Android](https://play.google.com/store/apps/details?id=com.vtex.instore&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1) or [iOS](https://itunes.apple.com/us/app/vtex-instore/id1100390867?ls=1&mt=8), or on a computer with the [Windows](/en/instorewin) operating system.
+You can install the **VTEX VTEX Sales App** app on smartphones or tablets that use [Android](https://play.google.com/store/apps/details?id=com.vtex.instore&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1) or [iOS](https://itunes.apple.com/us/app/vtex-instore/id1100390867?ls=1&mt=8), or on a computer with the [Windows](https://vtexhelp.myvtex.com/instorewin) operating system.
 
 For smartphones and tablets, you can download the app from [Google Play](https://play.google.com/store/apps/details?id=com.vtex.instore&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1) or [Apple's App Store](https://apps.apple.com/us/app/vtex-instore/id1100390867?amp%3Bmt=8&ls=1).
 
