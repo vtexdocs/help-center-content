@@ -29,15 +29,15 @@ As tabelas a seguir representam os dados e os formatos necessários para a impor
 
 ### Campos pessoais
 
-<iframe src="https://help.vtex.com/tables/checkoutprofilepersonal/pt" title="Campos pessoais obrigatórios" frameBorder="0" width="100%" height="850"></iframe>
+<iframe src="https://vtexhelp.myvtex.com/tables/checkoutprofilepersonal/pt" title="Campos pessoais obrigatórios" frameBorder="0" width="100%" height="850"></iframe>
 
 ### Campos de endereço
 
-<iframe src="https://help.vtex.com/tables/checkoutprofileaddress/pt" title="Campos de endereço obrigatórios" frameBorder="0" width="100%" height="850"></iframe>
+<iframe src="https://vtexhelp.myvtex.com/tables/checkoutprofileaddress/pt" title="Campos de endereço obrigatórios" frameBorder="0" width="100%" height="850"></iframe>
 
 ### Campos corporativos
 
-<iframe src="https://help.vtex.com/tables/checkoutprofilecorporate/pt" title="Campos corporativos obrigatórios" frameBorder="0" width="100%" height="850"></iframe>
+<iframe src="https://vtexhelp.myvtex.com/tables/checkoutprofilecorporate/pt" title="Campos corporativos obrigatórios" frameBorder="0" width="100%" height="850"></iframe>
 
 ### Saiba mais
 

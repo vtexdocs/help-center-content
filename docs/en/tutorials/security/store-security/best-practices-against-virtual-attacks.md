@@ -36,7 +36,7 @@ Learn more about [anti-fraud systems](/en/tutorial/what-is-anti-fraud--69SjFCc4r
 ## Protection against transaction attacks
 
 To access the documentation on this topic, insert your VTEX [account name](/en/tutorial/what-is-an-account-name--i0mIGLcg3QyEy8OCicEoC#) below, click the button and login into the Admin panel.
-<iframe src="https://help.vtex.com/insertaccountname?id=62oQBmi7UZlYlgb0Ha1hZ3" title="Insert your account name and click the button." frameBorder="0" width="400" height="50"></iframe>
+<iframe src="https://vtexhelp.myvtex.com/insertaccountname?id=62oQBmi7UZlYlgb0Ha1hZ3" title="Insert your account name and click the button." frameBorder="0" width="400" height="50"></iframe>
 
 ## reCAPTCHA v3 at Checkout
 
@@ -52,7 +52,7 @@ Learn more about how to set up this verification at your store's checkout in the
 
 To access the documentation on this topic, insert your VTEX [account name](/en/tutorial/what-is-an-account-name--i0mIGLcg3QyEy8OCicEoC) below, click the button and login into the Admin panel.
 
-<iframe src="https://help.vtex.com/insertaccountname?id=7EAqNk48KP2QHnCxu856jT" title="Insert your account name and click the button." frameBorder="0" width="400" height="50"></iframe>
+<iframe src="https://vtexhelp.myvtex.com/insertaccountname?id=7EAqNk48KP2QHnCxu856jT" title="Insert your account name and click the button." frameBorder="0" width="400" height="50"></iframe>
 
 ## Disabling password login
 

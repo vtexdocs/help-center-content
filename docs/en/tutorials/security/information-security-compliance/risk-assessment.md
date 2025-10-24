@@ -43,7 +43,7 @@ Click the points below to go to the related FAQ:
 
 Some security information is restricted to VTEX Admin users, and it's not available in the VTEX Help Center. To access the restricted information, enter your VTEX account name below:
 
-<iframe src="https://help.vtex.com/insertaccountname?id=7AmPOGXykmE9SYyYDzdAZ4" title="Enter your account name and click the button." frameBorder="0" width="400" height="50"></iframe>
+<iframe src="https://vtexhelp.myvtex.com/insertaccountname?id=7AmPOGXykmE9SYyYDzdAZ4" title="Enter your account name and click the button." frameBorder="0" width="400" height="50"></iframe>
 
 > ⚠️ If you are having dificulty accessing the FAQs, try installing the latest version of the app `vtex.admin-docs` using [VTEX CLI](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-vtex-io-cli-installation-and-command-reference) and repeating the process.
 

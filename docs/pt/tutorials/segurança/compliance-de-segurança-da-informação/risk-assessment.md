@@ -43,7 +43,7 @@ Clique nos itens a seguir para acessar a FAQ referente a cada assunto:
 
 Algumas informações sobre segurança são restritas a usuários logados no Admin VTEX, por isso não estão presentes no VTEX Help Center. Para acessá-las, insira abaixo seu nome de conta VTEX:
 
-<iframe src="https://help.vtex.com/insertaccountname?id=7AmPOGXykmE9SYyYDzdAZ4" title="Insira seu nome de conta e clique no botão." frameBorder="0" width="400" height="50"></iframe>
+<iframe src="https://vtexhelp.myvtex.com/insertaccountname?id=7AmPOGXykmE9SYyYDzdAZ4" title="Insira seu nome de conta e clique no botão." frameBorder="0" width="400" height="50"></iframe>
 
 > ⚠️ Se está tendo dificuldades para acessar o conteúdo dos FAQs, tente instalar a versão mais recente do aplicativo `vtex.admin-docs` usando a [CLI da VTEX](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-vtex-io-cli-installation-and-command-reference) e repetir o processo.
 

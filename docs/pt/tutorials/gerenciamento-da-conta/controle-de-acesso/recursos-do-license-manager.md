@@ -21,7 +21,7 @@ Por isso, a plataforma VTEX oferece a possibilidade de criar perfis de acessos c
 
 > ❗ O uso irrestrito de recursos aumenta o risco de ataques às lojas por vazamento de credenciais de login com acesso a recursos críticos. Caso haja dúvidas sobre a descrição de um recurso específico, não hesite em nos contatar.
 
-<iframe src="https://help.vtex.com/tables/resources/pt" title="Recursos do License Manager" frameBorder="0" width="105%" height="850"></iframe>
+<iframe src="https://vtexhelp.myvtex.com/tables/resources/pt" title="Recursos do License Manager" frameBorder="0" width="105%" height="850"></iframe>
 
 > ℹ️ No aplicativo [Audit](/pt/tutorial/audit--5RXf9WJ5YLFBcS8q8KcxTA), recursos do License Manager são identificados pelas respectivas chaves.
 
@@ -29,5 +29,5 @@ Por isso, a plataforma VTEX oferece a possibilidade de criar perfis de acessos c
 
 Na interface do License Manager, você também encontra recursos deprecados ou de uso exclusivamente interno da VTEX. Estes não têm impacto para a sua loja. São eles:
 
-<iframe src="https://help.vtex.com/tables/internalresources/pt" title="Recursos internos e deprecados" frameBorder="0" width="100%" height="700"></iframe>
+<iframe src="https://vtexhelp.myvtex.com/tables/internalresources/pt" title="Recursos internos e deprecados" frameBorder="0" width="100%" height="700"></iframe>
 

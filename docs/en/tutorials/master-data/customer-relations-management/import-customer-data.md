@@ -29,15 +29,15 @@ The tables below include the data and the formats required for the import.
 
 ### Personal information fields
 
-<iframe src="https://help.vtex.com/tables/checkoutprofilepersonal/en" title="Required personal information fields" frameBorder="0" width="100%" height="850"></iframe>
+<iframe src="https://vtexhelp.myvtex.com/tables/checkoutprofilepersonal/en" title="Required personal information fields" frameBorder="0" width="100%" height="850"></iframe>
 
 ### Address fields
 
-<iframe src="https://help.vtex.com/tables/checkoutprofileaddress/en" title="Required address fields" frameBorder="0" width="100%" height="850"></iframe>
+<iframe src="https://vtexhelp.myvtex.com/tables/checkoutprofileaddress/en" title="Required address fields" frameBorder="0" width="100%" height="850"></iframe>
 
 ### Corporate fields
 
-<iframe src="https://help.vtex.com/tables/checkoutprofilecorporate/en" title="Required corporate fields" frameBorder="0" width="100%" height="850"></iframe>
+<iframe src="https://vtexhelp.myvtex.com/tables/checkoutprofilecorporate/en" title="Required corporate fields" frameBorder="0" width="100%" height="850"></iframe>
 
 ### Learn more
 

@@ -21,7 +21,7 @@ Por lo tanto, la plataforma VTEX ofrece la posibilidad de crear roles de usuario
 
 > ❗ El uso sin restricciones de los recursos aumenta el riesgo de ataques a las tiendas por la filtración de credenciales de acceso a los recursos críticos. Si tienes alguna duda sobre la descripción de un recurso específico, no dudes en ponerse en contacto con nosotros.
 
-<iframe src="https://help.vtex.com/tables/resources/es" title="Recursos del License Manager" frameBorder="0" width="105%" height="850"></iframe>
+<iframe src="https://vtexhelp.myvtex.com/tables/resources/es" title="Recursos del License Manager" frameBorder="0" width="105%" height="850"></iframe>
 
 > ℹ️ En la aplicación [Audit](/es/tutorial/audit--5RXf9WJ5YLFBcS8q8KcxTA), los recursos de License Manager son identificados por las respectivas claves.
 
@@ -29,5 +29,5 @@ Por lo tanto, la plataforma VTEX ofrece la posibilidad de crear roles de usuario
 
 En la interfaz del License Manager, también encontrarás recursos obsoletos o que son de uso exclusivo interno de VTEX. Estos no tienen ningún impacto en tu tienda. Son:
 
-<iframe src="https://help.vtex.com/tables/internalresources/es" title="Recursos internos o obsoletos" frameBorder="0" width="100%" height="700"></iframe>
+<iframe src="https://vtexhelp.myvtex.com/tables/internalresources/es" title="Recursos internos o obsoletos" frameBorder="0" width="100%" height="700"></iframe>
 
