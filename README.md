@@ -1,18 +1,138 @@
-# help-center-content
+# content-portal-content
 
-Repository assembling VTEX's Help Center content
+Repository containing VTEX's Content Style Guide documentation, providing comprehensive guidelines for writing clear, consistent, and effective content across all VTEX products and services.
 
-## In this repository
+## Table of Contents
 
-You will find the following folders in this repository:
+- [In this Repository](#in-this-repository)
+- [Repository Structure](#repository-structure)
+- [Content Organization](#content-organization)
+- [Getting Started](#getting-started)
+- [Contributing](#contributing)
+- [Localization](#localization)
+- [Image Guidelines](#image-guidelines)
+- [Adding Download Files](#adding-download-files)
 
--TBD
+## In this Repository
 
-## Contributing with Help Center Portal documentation
+This repository contains:
 
-We're so glad you're here! Thanks for being interested.
+- **Style Guide Documentation**: Grammar, formatting, and writing guidelines in multiple languages
+- **Documentation Templates**: Reusable templates for announcements, tutorials, release notes, and more
+- **Interface Copy Guidelines**: Best practices for writing UI text, labels, messages, and descriptions
+- **Brand Voice Guidelines**: Tone of voice, inclusive language, and product naming conventions
+- **Supporting Images**: Localized images and illustrations for documentation
 
-### What is the maximum image size I can use in an article?
+## Repository Structure
+
+```
+content-portal-content/
+├── docs/                    # Main documentation folder
+│   ├── en/                  # English documentation
+│   │   ├── documentation/   # Templates and writing guides
+│   │   ├── formatting/      # Formatting guidelines
+│   │   ├── grammar/         # Grammar rules and standards
+│   │   ├── guides/          # Brand and style guides
+│   │   └── interface-copy/  # UI writing guidelines
+│   ├── es/                  # Spanish documentation (same structure)
+│   └── pt/                  # Portuguese documentation (same structure)
+├── images/                  # Localized images for documentation
+│   ├── en/                  # English images (249 files)
+│   ├── es/                  # Spanish images (191 files)
+│   └── pt/                  # Portuguese images (232 files)
+├── readme-images/           # Images used in this README
+├── crowdin.yml              # Localization configuration
+├── package.json             # Project dependencies
+└── README.md                # This file
+```
+
+## Content Organization
+
+### Documentation Categories
+
+The style guide is organized into five main categories, available in English (en), Spanish (es), and Portuguese (pt):
+
+#### 1. **Documentation** (`docs/documentation/`)
+Templates and best practices for creating different types of documentation:
+- Announcement templates
+- App documentation templates
+- Contribution guidelines
+- How-to guides
+- Known issues documentation
+- Onboarding guides
+- Release notes
+- Troubleshooting guides
+- Tutorial templates
+
+#### 2. **Formatting** (`docs/formatting/`)
+Guidelines for consistent formatting:
+- Computer interfaces and code formatting
+- Headings and titles structure
+- Lists and tables best practices
+
+#### 3. **Grammar** (`docs/grammar/`)
+Language-specific grammar rules and conventions:
+- Abbreviations
+- Adjectives
+- Articles
+- Capitalization
+- Contractions
+- Pronouns
+- Punctuation
+- Verbs
+
+#### 4. **Guides** (`docs/guides/`)
+Overarching brand and writing principles:
+- Inclusive language guidelines
+- Product and feature naming conventions
+- Tone of voice standards
+- US English standard (for English content)
+
+#### 5. **Interface Copy** (`docs/interface-copy/`)
+Specific guidelines for UI text:
+- Action labels (buttons, links)
+- Content labels
+- Data formats
+- Descriptions
+- Messages (errors, success, warnings)
+- Placeholder texts
+- Titles and headings
+
+## Contributing
+
+We're so glad you're here! Thanks for being interested in contributing to the VTEX Content Style Guide.
+
+### How to Contribute
+
+1. Clone the repository and create a new branch for your changes
+2. Make your changes following the existing structure and style
+3. Test your changes to ensure all links and references work correctly
+4. Submit a Pull Request with a clear description of your changes
+
+### Contribution Guidelines
+
+- Follow the existing documentation structure and markdown formatting
+- Ensure consistency with the established tone and style
+- Update images in the appropriate language-specific folder
+- Keep image file sizes under 50 MB
+- Use clear, descriptive file names
+- Add references to any new images in the relevant documentation
+
+## Localization
+
+This repository uses **Crowdin** for localization management. The `crowdin.yml` file configures the translation workflow.
+
+### Supported Languages
+
+- **English (en)**: Primary language and source for translations
+- **Spanish (es)**: Complete translation of core guidelines
+- **Portuguese (pt)**: Complete translation of core guidelines
+
+When adding new content, please ensure it's added to all language versions or flagged for translation.
+
+## Image Guidelines
+
+### What is the maximum image size I can use?
 
 In some situations, it may be necessary to insert images, GIFs, or videos into an article to help the user understand complex procedures.
 
@@ -22,36 +142,28 @@ If you need to use an illustration that exceeds this value, you can compress it 
 
 > ⚠️ Whenever you use an image compressor, check the visual quality of the file after compression.
 
-### How do I add a download file to my article?
+### Image Organization
 
-1. Open a branch in the [help-portal-content](https://github.com/vtexdocs/help-center-content) repository.
-2. Copy the file you want to make available for download to the same directory as the article where it will be inserted. For instance, to attach a spreadsheet within an article located at `docs/pt/tutorials/Payments/Payment Settings/list-of-payment-providers-by-country.md`, you need to save it in the directory `docs/pt/tutorials/Payments/Payment Settings.`
-3. Go to the [branches page](https://github.com/vtexdocs/help-center-content/branches), and under **Your branches** section, click on the name of the branch you created.
+Images are organized by language in the `images/` directory:
+- `images/en/` - English images (249 files)
+- `images/es/` - Spanish images (191 files)
+- `images/pt/` - Portuguese images (232 files)
 
-![Branches_page](https://raw.githubusercontent.com/vtexdocs/help-center-content/main/readme-images/readme-download-illustration-1.png)
+### Best Practices
 
-4. Locate the folder where you saved the file and click on it.
+- Use PNG format for screenshots and diagrams
+- Use GIF format for animations and demonstrations
+- Use JPG format for photographs
+- Optimize images before committing
+- Use descriptive file names that match the content
+- Keep file sizes reasonable for web performance
 
-![File_folder](https://raw.githubusercontent.com/vtexdocs/help-center-content/main/readme-images/readme-download-illustration-2.png)
+## License
 
-5. Right-click on the **Raw** option and select **Copy link address (Copiar endereço do link)**.
+This project is maintained by VTEX and is intended for internal use and public reference for VTEX documentation and UX writing standards.
 
-![Raw_link_information](https://raw.githubusercontent.com/vtexdocs/help-center-content/main/readme-images/readme-download-illustration-3.png)
+## Support
 
-> ℹ️ Address link example: `https://github.com/vtexdocs/help-center-content/raw/main/docs/pt/tutorials/Payments/Payment%20Settings/Payment%20Provider%20x%20Countries%20-%20August%202024.xlsx`
-
-6. Access the article where you want to add the file and insert the link obtained in the previous step in the desired location.
-
-![Add_link_in_article](https://raw.githubusercontent.com/vtexdocs/help-center-content/main/readme-images/readme-download-illustration-4.png)
-
-7. Return to the main branch by clicking **Main** in the **Branches** tab.
-
-![Main branch](https://raw.githubusercontent.com/vtexdocs/help-center-content/main/readme-images/readme-download-illustration-5.png)
-
-8. Submit your PR for review.
-
-## Track articles
-
-Track articles' titles must contain the reference numbers in the navigation, but not in the title of the article page.
-
-![image](https://raw.githubusercontent.com/vtexdocs/help-center-content/main/readme-images/readme-track-illustration-6.png)
+For questions or issues:
+- Open an issue in this repository
+- Contact the VTEX team
