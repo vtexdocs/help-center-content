@@ -26,7 +26,7 @@ Previously, VTEX Intelligent Search filters were not available in inStore, only 
 
 With the new feature, when searching for a term, sales associates can filter results by price range, department, and brand, for example, among other configurable filters in VTEX Intelligent Search. This allows them to quickly find the desired product.
 
-![instore-filtros-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2021/december/2021-12-02-search-filters-in-instores-endless-aisle_1.png)
+![instore-filtros-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2021/december/2021-12-02-search-filters-in-instores-endless-aisle_1.png)
 
 ## Why did we make this change?
 

@@ -19,7 +19,7 @@ A partir del 31 de mayo, estamos lanzando para todas las tiendas VTEX la versió
 
 Las páginas de la **Estrategia de envío** fueran actualizadas al nuevo _VTEX design system_, como se puede ver a continuación:
 
-![nova_estrategia_envio_announcement_boards_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2023/mayo/2023-05-31-descubre-las-nuevas-interfaces-de-estrategia-de-envio_1.png)
+![nova_estrategia_envio_announcement_boards_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2023/mayo/2023-05-31-descubre-las-nuevas-interfaces-de-estrategia-de-envio_1.png)
 
 ## ¿Qué cambió?
 

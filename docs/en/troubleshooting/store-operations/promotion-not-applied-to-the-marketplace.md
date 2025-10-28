@@ -33,7 +33,7 @@ To solve the problem of promotions not being applied to marketplaces, review the
 3. Choose the desired trade policies associated with the marketplaces.
 4. Click `Save`.
 
-![Dados gerais promoção - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/troubleshooting/store-operations/promotion-not-applied-to-the-marketplace_1.png)
+![Dados gerais promoção - EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/troubleshooting/store-operations/promotion-not-applied-to-the-marketplace_1.png)
 
 ### Selecting affiliates
 To ensure a promotion is applied correctly in a marketplace, select the desired affiliat The affiliate is the partner associated with the marketplace that makes the promotional products available. Below are the steps for correctly selecting an affiliate when configuring a promotion.
@@ -41,7 +41,7 @@ To ensure a promotion is applied correctly in a marketplace, select the desired 
 1. Create a [regular promotion](/en/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI).  
 2. Complete the **Affiliates** field with the name of the affiliate associated with the desired marketplace.  
 
-   ![condições para promoção - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/troubleshooting/store-operations/promotion-not-applied-to-the-marketplace_2.png)
+   ![condições para promoção - EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/troubleshooting/store-operations/promotion-not-applied-to-the-marketplace_2.png)
 
 3. In the **Trade policy** section, select the `Equal to` and **Delivered by me (other stores)** options.  
 4. Click `Save`.

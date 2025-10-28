@@ -30,11 +30,11 @@ Para criar um Template Message:
 3. Clique na aba **Template** no lado direito.
 4. Irá abrir um painel onde você clicará em Novo Template para adicionar a mensagem:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integra%C3%A7%C3%B5es/whatsapp-como-criar-template-messages_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integra%C3%A7%C3%B5es/whatsapp-como-criar-template-messages_1.png)
 
 1. Preencha o formulário com as informações necessárias. Use o botão **\+ Adicionar variável** caso queira inserir espaços reservados para conteúdo variável a ser fornecido no envio do modelo.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integra%C3%A7%C3%B5es/whatsapp-como-criar-template-messages_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integra%C3%A7%C3%B5es/whatsapp-como-criar-template-messages_2.png)
 
 1. Clique em **Adicionar exemplo** para adicionar exemplos de valores ao modelo. Fazer isso é opcional, mas altamente recomendado. Consulte os [Exemplos](https://developers.facebook.com/docs/whatsapp/message-templates/guidelines/?translation#samples) .
 2. Clique em **Enviar** para enviar o modelo para aprovação.

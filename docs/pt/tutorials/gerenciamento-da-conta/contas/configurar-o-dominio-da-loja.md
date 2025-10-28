@@ -26,7 +26,7 @@ As configurações relacionadas ao domínio são necessárias para que um endere
 
 O endereço da loja é composto pelos elementos ilustrados a seguir:
 
-![url-diagram-pt (3)](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/gerenciamento-da-conta/contas/configurar-o-dominio-da-loja_1.png)
+![url-diagram-pt (3)](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/gerenciamento-da-conta/contas/configurar-o-dominio-da-loja_1.png)
 
 | Elemento | Descrição | Exemplo |
 |---|---|---|

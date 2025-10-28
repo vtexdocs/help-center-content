@@ -42,11 +42,11 @@ Follow the steps below to filter the form records and save a custom query.
 
 After following the instructions above, the query will appear as a display option in the form list.
 
-![queries-2-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/master-data/master-data-v1-applications/creating-custom-queries-in-master-data-v1_1.png)
+![queries-2-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/master-data/master-data-v1-applications/creating-custom-queries-in-master-data-v1_1.png)
 
 You can also access the saved queries by clicking the __Queries__ button in the form list:
 
-![queries-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/master-data/master-data-v1-applications/creating-custom-queries-in-master-data-v1_2.png)
+![queries-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/master-data/master-data-v1-applications/creating-custom-queries-in-master-data-v1_2.png)
 
 ## Configuring a default query
 

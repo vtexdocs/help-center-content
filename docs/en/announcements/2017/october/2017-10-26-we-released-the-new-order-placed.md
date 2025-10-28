@@ -17,7 +17,7 @@ announcementSynopsisEN: 'The new version of the order confirmation page is now a
 
 Earlier this month we announced the release of one of the many new features that VTEX is developing to further enhance the user experience - the new My Orders section. Today we released another feature that integrates this section: the new version of the Order Placed page.
 
-![PedidoConfirmado](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2017/october/2017-10-26-we-released-the-new-order-placed_1.png)
+![PedidoConfirmado](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2017/october/2017-10-26-we-released-the-new-order-placed_1.png)
 
 It is now part of __Checkout Confirmation__, feature that's responsible for the Checkout confirmation pages. And it brings important advantages to your store:
 
@@ -29,7 +29,7 @@ Activating this update is simple: just access the Orders tab in your admin's Por
 
 After August 24, 2017, the new version will be activated by default, and the old one will be discontinued. So stay tuned!
 
-![PedidoConfirmado2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2017/october/2017-10-26-we-released-the-new-order-placed_2.png)
+![PedidoConfirmado2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2017/october/2017-10-26-we-released-the-new-order-placed_2.png)
 
 You may want to update your customization. To learn how, see the tutorial [Customize Checkout Confirmation Pages](/en/tutorial/customizing-the-checkout-confirmation-pages).
 

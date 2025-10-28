@@ -23,20 +23,20 @@ Si ya integraste un bot de acuerdo con las políticas antiguas de Facebook, no n
 
 1. En tu proyecto, haz clic en Aplicaciones > Descubrimientos > Haz clic en el signo \+
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/como-crear-un-canal-en-facebook_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/como-crear-un-canal-en-facebook_1.png)
 
 2. Cuando aparezca esta ventana, haz clic en Conectar.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/como-crear-un-canal-en-facebook_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/como-crear-un-canal-en-facebook_2.png)
 
 3. Se abrirá una nueva ventana con la opción de iniciar sesión en la cuenta de Facebook que contiene la página o, si ya has iniciado sesión, simplemente confirma el usuario y haz clic en conectar.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/como-crear-un-canal-en-facebook_3.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/como-crear-un-canal-en-facebook_3.png)
 
 4. A continuación, se listará la página que deseas transformar en canal y haz clic en el botón Crear Canal.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/como-crear-un-canal-en-facebook_4.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/como-crear-un-canal-en-facebook_4.png)
 
 5. Después de eso, tu canal será creado y una aplicación aparecerá en la pestaña **Mis Aplicaciones**.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/como-crear-un-canal-en-facebook_5.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/como-crear-un-canal-en-facebook_5.png)

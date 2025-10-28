@@ -30,7 +30,7 @@ No lado direito há uma caixa que contém o valor total do pedido, os dados do c
 
 O ID é referente à transação no gateway da plataforma VTEX, e é inclusive parte da URL.
 
-![pci](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/transa%C3%A7%C3%B5es/como-visualizar-detalhes-do-pedido_1.png)
+![pci](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/transa%C3%A7%C3%B5es/como-visualizar-detalhes-do-pedido_1.png)
 
 Acima dessa caixa, há um link para o pedido no módulo **Pedidos**.
 
@@ -50,19 +50,19 @@ Seguem abaixo exemplos de como visualizar os cenários mais comuns que necessita
 
 ### Evento de aprovação
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/transa%C3%A7%C3%B5es/como-visualizar-detalhes-do-pedido_2.jpg)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/transa%C3%A7%C3%B5es/como-visualizar-detalhes-do-pedido_2.jpg)
 
 Nesse exemplo, vemos a aprovação de um pagamento. Ou seja, vemos que a operadora autorizou o fechamento da compra com estes dados de pagamento.
 
 ### Evento de aprovação de antifraude
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/transa%C3%A7%C3%B5es/como-visualizar-detalhes-do-pedido_3.jpg)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/transa%C3%A7%C3%B5es/como-visualizar-detalhes-do-pedido_3.jpg)
 
 Neste exemplo, vemos o retorno do antifraude recebendo a transação e posteriormente o retorno com a análise de risco realizada, aprovando a mesma. Em casos de reprovação, o log exibirá a informação `RiskRejected`.
 
 ### Evento de fatura
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/transa%C3%A7%C3%B5es/como-visualizar-detalhes-do-pedido_4.jpg)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/transa%C3%A7%C3%B5es/como-visualizar-detalhes-do-pedido_4.jpg)
 
 Neste exemplo, a operadora retorna o evento de liquidação do valor, ou seja, informa que realizou a fatura do pedido.
 
@@ -70,7 +70,7 @@ Neste exemplo, a operadora retorna o evento de liquidação do valor, ou seja, i
 
 O exemplo abaixo mostra uma transação de cartão de crédito que gerou erro ao ser processada pela adquirente Redecard. Os afiliados costumam retornar um código (`ConnectorCode`) junto a uma mensagem. Para encontrar informações detalhadas do erro, recomendamos consultar a documentação do adquirente. Por meio de uma rápida busca no Google é possível encontrar a lista de códigos e mensagens de cada afiliado.
 
-![2017-01-26 20_23_37-634883 _ VTEX PCI Gateway](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/transa%C3%A7%C3%B5es/como-visualizar-detalhes-do-pedido_5.png)
+![2017-01-26 20_23_37-634883 _ VTEX PCI Gateway](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/transa%C3%A7%C3%B5es/como-visualizar-detalhes-do-pedido_5.png)
 
 ## Liquidação automática agendada
 
@@ -80,7 +80,7 @@ Caso o pedido seja cancelado, o estorno ocorrerá normalmente.
 
 Veja como visualizar a data do agendamento da liquidação automática:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/transa%C3%A7%C3%B5es/como-visualizar-detalhes-do-pedido_6.jpg)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/transa%C3%A7%C3%B5es/como-visualizar-detalhes-do-pedido_6.jpg)
 
 ## TID de pagamento
 
@@ -90,22 +90,22 @@ Essa informação é importante sempre que for necessário confirmar algo com a 
 
 Para encontrar esse código na transação, veja a ilustração abaixo.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/transa%C3%A7%C3%B5es/como-visualizar-detalhes-do-pedido_7.jpg)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/transa%C3%A7%C3%B5es/como-visualizar-detalhes-do-pedido_7.jpg)
 
 ## IP do cliente
 
 O IP do cliente é coletado no momento da compra e pode ser visto no campo superior da tela da transação, conforme imagem abaixo.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/transa%C3%A7%C3%B5es/como-visualizar-detalhes-do-pedido_8.jpg)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/transa%C3%A7%C3%B5es/como-visualizar-detalhes-do-pedido_8.jpg)
 
 ## ID do antifraude
 
 É o ID da transação para o antifraude. Para buscas no antifraude, deve-se consultar esse valor no PCI Gateway.
 
-![IDAntifraude](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/transa%C3%A7%C3%B5es/como-visualizar-detalhes-do-pedido_9.gif)
+![IDAntifraude](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/transa%C3%A7%C3%B5es/como-visualizar-detalhes-do-pedido_9.gif)
 
 ## Mais informações
 
 Além das informações acima, existem outros dados retirados das interações com a operadora, com o gateway e/ou com o antifraude que são identificados e disponibilizados de forma mais clara no box **+ informações** logo abaixo do topo de informações. Veja na imagem abaixo como visualizá-las:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/transa%C3%A7%C3%B5es/como-visualizar-detalhes-do-pedido_10.jpg)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/transa%C3%A7%C3%B5es/como-visualizar-detalhes-do-pedido_10.jpg)

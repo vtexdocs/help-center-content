@@ -19,7 +19,7 @@ A App Store é a página do Admin onde você pode buscar, visualizar e obter app
 
 ## Página inicial
 
-![Extensions Hub App Store página inicial](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/vtex-io/hub-de-extensoes/hub-de-extensoes-app-store_1.png)
+![Extensions Hub App Store página inicial](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/vtex-io/hub-de-extensoes/hub-de-extensoes-app-store_1.png)
 
 Ao entrar na loja, você estará na página inicial. Nesta página estão disponíveis as seguintes opções:
 
@@ -29,13 +29,13 @@ Ao entrar na loja, você estará na página inicial. Nesta página estão dispon
 
 ## Busca
 
-![Extensions Hub App Store busca](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/vtex-io/hub-de-extensoes/hub-de-extensoes-app-store_2.png)
+![Extensions Hub App Store busca](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/vtex-io/hub-de-extensoes/hub-de-extensoes-app-store_2.png)
 
 A busca permite que você pesquise por apps através do nome. Ao digitar na caixa de texto da busca e pressionar a tecla `Enter`, você será direcionado para a página de resultados da busca. Os resultados serão os apps cujos nomes correspondam ao texto inserido na busca. Os apps aparecem no formato de cartões quadrados, onde é possível ver o nome, o subtítulo e o custo do app. Ao clicar em um app, você será levado para a [página do app](#pagina-do-app).
 
 ## Página do app
 
-![Extensions Hub App Store app page](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/vtex-io/hub-de-extensoes/hub-de-extensoes-app-store_3.png)
+![Extensions Hub App Store app page](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/vtex-io/hub-de-extensoes/hub-de-extensoes-app-store_3.png)
 
 Ao clicar em um app na página inicial ou na busca, você será direcionado para a página do respectivo app. Nesta página você encontrará todas as informações sobre o app, incluindo os custos, e a opção para baixá-lo.
 

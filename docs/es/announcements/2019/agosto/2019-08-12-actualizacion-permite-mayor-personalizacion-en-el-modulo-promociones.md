@@ -37,6 +37,6 @@ Con esta actualización, usted tiene más poder sobre el comportamiento de sus p
  6. Haga clic en **Utilizar configuraciones de recurrencia**
  7. Establezca la configuración deseable de días y horarios para la promoción
 
-![CRON 2 ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2019/agosto/2019-08-12-actualizacion-permite-mayor-personalizacion-en-el-modulo-promociones_1.png)
+![CRON 2 ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2019/agosto/2019-08-12-actualizacion-permite-mayor-personalizacion-en-el-modulo-promociones_1.png)
 
  

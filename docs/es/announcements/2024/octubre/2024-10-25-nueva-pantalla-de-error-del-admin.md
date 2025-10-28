@@ -29,7 +29,7 @@ La nueva pantalla de error incorpora las siguientes actualizaciones para mejorar
 
 Vea la nueva pantalla de error a continuación:
 
-![Tela erro - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2024/octubre/2024-10-25-nueva-pantalla-de-error-del-admin_1.png)
+![Tela erro - ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2024/octubre/2024-10-25-nueva-pantalla-de-error-del-admin_1.png)
 
 ## ¿Qué se necesita hacer?
 

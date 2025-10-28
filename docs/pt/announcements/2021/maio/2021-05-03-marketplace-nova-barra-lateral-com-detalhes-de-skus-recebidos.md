@@ -24,7 +24,7 @@ Até então, para conferir as informações de um SKU recebido era preciso acess
 
 A barra contém  imagens do SKU, preço, nível de estoque, além de outros atributos do produto, como descrição, especificações, códigos e IDs. Também inclui a porcentagem de equivalência que o SKU recebeu pelo [matcher](/pt/tutorial/entendendo-a-pontuacao-do-vtex-matcher?locale=pt) instalado em sua loja. Ainda é possível acessar a página completa de detalhes do SKU, clicando no botão *Ver página de detalhes*. 
 
-![Sidebar received](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2021/maio/2021-05-03-marketplace-nova-barra-lateral-com-detalhes-de-skus-recebidos_1.gif)
+![Sidebar received](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2021/maio/2021-05-03-marketplace-nova-barra-lateral-com-detalhes-de-skus-recebidos_1.gif)
 
 ## Por que fizemos essa mudança?
 

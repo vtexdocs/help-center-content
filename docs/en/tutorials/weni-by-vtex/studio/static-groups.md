@@ -25,12 +25,12 @@ You can find the description of the flow charts for groups by clicking [here](ht
 
 To create a static group, simply navigate to the contacts page within the ""**Studio**"" module and click the ***Create Group*** button in the side menu.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/studio/static-groups_1.PNG)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/studio/static-groups_1.PNG)
 
 After that, just choose the name of your group and create it by the pop-up that will appear.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/studio/static-groups_2.PNG)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/studio/static-groups_2.PNG)
 
 The group will start to be listed in your group list, just below the contact categories in the left side menu. If you want to edit the name of your group, export the participating contacts or delete it, just access the group and then click on the settings button in the right corner next to **Manage Fields**.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/studio/static-groups_3.PNG)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/studio/static-groups_3.PNG)

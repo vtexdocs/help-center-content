@@ -30,4 +30,4 @@ Esta asociación se realiza en la configuración de las propiedades del layout. 
 5. Haga clic en el menú desplegable **Template**. Ahí se listarán los templates configurados en HTML Templates.
 6. Seleccione el template que desea asociar a este layout.
 7. Digite `yes` para confirmar el cambio (este paso es necesario porque se trata de un cambio crítico para el sitio web, ya que el front-end de la página será reemplazado). 
-![CMS 4 1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/asociar-un-template-con-un-layout_1.png)
+![CMS 4 1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/asociar-un-template-con-un-layout_1.png)

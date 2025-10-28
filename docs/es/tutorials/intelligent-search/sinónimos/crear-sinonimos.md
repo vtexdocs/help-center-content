@@ -85,7 +85,7 @@ belleza,blush,polvo;true
 
 Resultado en el Admin VTEX:
 
-![sinonimos-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/intelligent-search/sin%C3%B3nimos/crear-sinonimos_1.png)
+![sinonimos-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/intelligent-search/sin%C3%B3nimos/crear-sinonimos_1.png)
 
 #### Tiendas multidioma (Beta)
 

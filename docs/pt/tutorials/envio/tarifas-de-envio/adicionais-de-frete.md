@@ -18,7 +18,7 @@ subcategoryId: 7uJcyu0VawEm8ggqKu404u
 
 Os adicionais de frete são valores extras adicionados ao custo de envio pelas [políticas de envio](/pt/tutorial/politica-de-envio--tutorials_140). Então, ao configurar um valor de custo para a entrega dos itens da sua loja, é possível configurar uma tarifa fixa e incluir valores adicionais. O custo fixo de entrega somado aos adicionais compõem os custos da [tarifa de envio](/pt/tutorial/tarifas-de-envio--1Balpg3rv0854udEPedvMM).
 
-![Tarifa envio PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/tarifas-de-envio/adicionais-de-frete_1.svg)
+![Tarifa envio PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/tarifas-de-envio/adicionais-de-frete_1.svg)
 
 Os valores adicionais podem ser configurados conforme:
 
@@ -27,7 +27,7 @@ Os valores adicionais podem ser configurados conforme:
 * O seguro do produto: [adicional de seguro](/pt/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV#adicional-de-seguro).
 * O valor do frete:  [adicional de frete](/pt/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV#adicional-de-frete).
 
-![adicionais frete PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/tarifas-de-envio/adicionais-de-frete_2.svg)
+![adicionais frete PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/tarifas-de-envio/adicionais-de-frete_2.svg)
 
 > ❗ É importante ressaltar que é possível ter todos os adicionais configurados simultaneamente para uma única tarifa de envio. O cálculo final da [tarifa de envio](/pt/tutorial/tarifas-de-envio--1Balpg3rv0854udEPedvMM) é a soma de todos os adicionais cadastrados mais a tarifa fixa do frete. A tarifa de envio não é o custo final de envio.
 
@@ -87,7 +87,7 @@ Tarifa de envio: ($10+$16,4)=$26,4
 
 > ❗ É importante lembrar que o cálculo do adicional por preço não considera possíveis descontos e promoções, e sim o valor cheio do carrinho. Se o adicional por preço for menor que o adicional de seguro, o adicional por preço é desconsiderado no cálculo final da tarifa de envio.
 
-![faixa-peso PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/tarifas-de-envio/adicionais-de-frete_3.png)
+![faixa-peso PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/tarifas-de-envio/adicionais-de-frete_3.png)
 
 ### Configuração 
 
@@ -152,4 +152,4 @@ Para configurar o adicional de frete, acesse o menu esquerdo do Admin VTEX:
     Se quer incluir uma taxa de 10% preencha o campo com 10. Para números decimais utilize pontos ao invés de vírgula (como em 1.67).
 3. Clique em `Salvar`.
 
-![adicional configuracoes PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/tarifas-de-envio/adicionais-de-frete_4.png)
+![adicional configuracoes PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/tarifas-de-envio/adicionais-de-frete_4.png)

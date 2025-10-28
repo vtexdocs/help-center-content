@@ -31,7 +31,7 @@ The order of the scheduled releases is based on the publication date: The furthe
 
 Go to the **Releases** navigation menu to access the **Releases** page in the VTEX Admin. In the following image, you'll see the interface and what you can do in it:
 
-![Releases list view v2 - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/releases-beta/planner-releases-page-beta_1.png)
+![Releases list view v2 - EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/releases-beta/planner-releases-page-beta_1.png)
 
 | **Field** | **Description** |
 |---|---|

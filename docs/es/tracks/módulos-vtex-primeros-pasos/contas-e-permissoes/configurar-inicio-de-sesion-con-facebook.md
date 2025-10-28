@@ -29,7 +29,7 @@ Después de la configuración en Facebook, es necesario configurar esta opción 
 1.  En el módulo de **Configuración de la cuenta**, acceda a la pestaña de **Autenticación**.
 2.  Haga clic en el botón **Editar** correspondiente a Facebook.
 3.  Rellene los campos con el _Client Id_ y _Client Secret_ registrados en **Facebook**.
-    ![Facebook OAuth ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/m%C3%B3dulos-vtex-primeros-pasos/contas-e-permissoes/configurar-inicio-de-sesion-con-facebook_1.png)
+    ![Facebook OAuth ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/m%C3%B3dulos-vtex-primeros-pasos/contas-e-permissoes/configurar-inicio-de-sesion-con-facebook_1.png)
 4.  Haga clic en el botón **Salvar**. 
 5.  Para validar si el inicio de sesión se hizo correctamente, acceda al  front-end de su tienda y haga clic en **Login**.
 6. Aparecerán las opciones de inicio de sesión configuradas. Haga clic en la opción **Facebook** y compruebe si se muestra el nombre de su tienda.

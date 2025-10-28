@@ -69,11 +69,11 @@ Para un número reducido de registros, el cliente puede crear las cuentas una po
 - Correo electrónico
 - Límite de crédito
 
-![CustomerCredit1-ES.png h 250?h=250](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/apps/customer-credit/gestion-crediticia-a-traves-del-customer-credit_1.png)
+![CustomerCredit1-ES.png h 250?h=250](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/apps/customer-credit/gestion-crediticia-a-traves-del-customer-credit_1.png)
 
 Si, por otro lado, la base tiene un gran número de cuentas, lo más indicado es importar una plantilla en formato CSV. Puede descargar un modelo de este documento en la sección de Cuentas y rellenarlo con la información necesaria. Para esto, haga clic en el botón __Importar__.
 
-![CustomerCredit2-ES.png?h=250](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/apps/customer-credit/gestion-crediticia-a-traves-del-customer-credit_2.png)
+![CustomerCredit2-ES.png?h=250](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/apps/customer-credit/gestion-crediticia-a-traves-del-customer-credit_2.png)
 
 ### Bases grandes
 

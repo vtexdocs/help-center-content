@@ -23,7 +23,7 @@ Sea del computador, smartphone, tablet o notebook, el design es el mismo. Lo que
 
 El design de la versión mobile y toda su programación se hace pensando solamente en el mobile, siendo una segunda aplicación, o sea, una para navegadores comunes y otra para navegadores mobile. Al acceder a la tienda, se identifica el dispositivo y se dirige a programación específica.
 
-![Principales pantallas mobile utilizadas](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/responsivo-x-version-mobile_1.jpg)
+![Principales pantallas mobile utilizadas](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/responsivo-x-version-mobile_1.jpg)
 
 Principales pantallas mobile utilizadas (puede haber variaciones según el dispositivo utilizado):
 
@@ -55,7 +55,7 @@ Principales pantallas mobile utilizadas (puede haber variaciones según el dispo
 
 #### Principales elementos visuales reconocidos en los dispositivos móviles
 
-![menu_mobile_version es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/responsivo-x-version-mobile_2.png)
+![menu_mobile_version es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/responsivo-x-version-mobile_2.png)
 
 #### ¡La calidad es indiferente al tamaño!
 

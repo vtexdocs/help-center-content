@@ -19,7 +19,7 @@ Digital businesses are increasingly looking to have tools that will be allies fo
 
 Welcome to the [Redesigned Admin experience](https://content.vtex.com/join-new-admin-beta-program-en/?utm_source=announcement&utm_medium=organic&utm_campaign=new_admin_beta).
 
-![Store Overview gif EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2022/june/2022-06-13-welcome-to-the-redesigned-vtex-admin_1.gif)
+![Store Overview gif EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2022/june/2022-06-13-welcome-to-the-redesigned-vtex-admin_1.gif)
 
 ## What has changed?
 

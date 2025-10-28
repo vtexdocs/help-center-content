@@ -21,7 +21,7 @@ Ahora es posible crear Tablas de Precios de una manera más intuitiva, práctica
 
 Antes, para crear una tabla de precios era necesario ir hasta el filtro y digitar el nombre de la tabla que se crearía. Ahora, hemos añadido un nuevo campo Tablas de Precios que permite crear y seleccionar la tabla que desea visualizar y trabajar con los precios.
 
-![Annoucement Price Table ES.png?h=250](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2019/junio/2019-06-27-gane-rapidez-y-practicidad-con-la-actualizacion-de-la-feature-tabla-de_1.png)
+![Annoucement Price Table ES.png?h=250](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2019/junio/2019-06-27-gane-rapidez-y-practicidad-con-la-actualizacion-de-la-feature-tabla-de_1.png)
 
 ## Ventajas
 

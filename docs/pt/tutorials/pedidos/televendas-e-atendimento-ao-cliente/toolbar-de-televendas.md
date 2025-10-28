@@ -19,7 +19,7 @@ A toolbar de televendas é uma barra superior exibida no site da loja para usuá
 
 A toolbar aparece uma vez que o operador cadastrado faz o login no ambiente da loja e é exibida em todas as áreas do site.
 
-![toolbartelevendas PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pedidos/televendas-e-atendimento-ao-cliente/toolbar-de-televendas_1.png)
+![toolbartelevendas PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pedidos/televendas-e-atendimento-ao-cliente/toolbar-de-televendas_1.png)
 
 Veja abaixo os principais recursos da toolbar:
 *   [Entrar como cliente](#entrar-como-cliente)

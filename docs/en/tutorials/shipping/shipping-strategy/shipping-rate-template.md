@@ -60,7 +60,7 @@ See below the spreadsheet columns content to understand each field in detail.
 
 Here is an example of how to fill in the fields in the spreadsheet.
 
-![modelo_planilhanumerica](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/shipping-strategy/shipping-rate-template_1.png)
+![modelo_planilhanumerica](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/shipping-strategy/shipping-rate-template_1.png)
 
 ## Upload the spreadsheet in VTEX Admin
 
@@ -73,7 +73,7 @@ Follow the steps below:
 4. In both cases, download the spreadsheet and [complete its fields](#fill-in-the-fields-in-the-spreadsheet). Then, upload the file in the **Upload shipping rates** section, as illustrated in the image below.
 5. After completing these steps, click on `Save changes`.
 
-![upload tarifas envioEN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/shipping-strategy/shipping-rate-template_2.png)
+![upload tarifas envioEN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/shipping-strategy/shipping-rate-template_2.png)
 
 > ⚠️ For **new** shipping policies, other steps are required. Check out the article [Shipping policy](/en/tutorial/politica-de-envio--tutorials_140) for more information.
 

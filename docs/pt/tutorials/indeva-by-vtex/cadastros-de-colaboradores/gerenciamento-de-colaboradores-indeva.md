@@ -76,7 +76,7 @@ Para remover essa restrição:
 
 Após a edição, o botão de **Desligamento** será exibido novamente.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/cadastros-de-colaboradores/gerenciamento-de-colaboradores-indeva_1.gif)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/cadastros-de-colaboradores/gerenciamento-de-colaboradores-indeva_1.gif)
 
 > ⚠️ O painel de cadastro exibe todos os períodos vinculados ao colaborador. Por esse motivo, o mesmo nome pode aparecer mais de uma vez na listagem.
 

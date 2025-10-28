@@ -41,7 +41,7 @@ Para importar los datos en masa a la plataforma VTEX, sigue los pasos a continua
 	<li>Una vez finalizado el proceso de importación, puedes hacer clic en Ver detalles de la importación para acceder al informe de importación.</li>
 </ol>
 
-![Importação em massa - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/b2b/organizaciones-b2b/configurar-la-importacion-en-masa-de-datos-de-organizaciones-y-centros-custo_1.gif)
+![Importação em massa - ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/b2b/organizaciones-b2b/configurar-la-importacion-en-masa-de-datos-de-organizaciones-y-centros-custo_1.gif)
 
 # Errores de importación
 
@@ -57,7 +57,7 @@ Para ver los detalles de los problemas encontrados, sigue los pasos a continuaci
 
 > ℹ️ Asegúrate de que el archivo que cargues solo contenga las correcciones de los errores previamente identificados para garantizar que la importación se realice correctamente.
 
-![Bulk import - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/b2b/organizaciones-b2b/configurar-la-importacion-en-masa-de-datos-de-organizaciones-y-centros-custo_2.gif)
+![Bulk import - ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/b2b/organizaciones-b2b/configurar-la-importacion-en-masa-de-datos-de-organizaciones-y-centros-custo_2.gif)
 
 # Importación vía API
 

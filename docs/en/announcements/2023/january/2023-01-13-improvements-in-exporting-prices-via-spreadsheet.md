@@ -25,7 +25,7 @@ On VTEX, you can change the price many times a day according to your store's str
 
 You can add prices via spreadsheet in two steps, exporting and importing. The price export had its experience improved with new features to give the user more visibility about the status of each price export spreadsheet.
 
-![exportacao en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2023/january/2023-01-13-improvements-in-exporting-prices-via-spreadsheet_1.gif)
+![exportacao en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2023/january/2023-01-13-improvements-in-exporting-prices-via-spreadsheet_1.gif)
 
 ## What has changed?
 

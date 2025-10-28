@@ -25,10 +25,10 @@ To configure a flow to ignore triggers and keywords while a contact is still par
 
 -  Click on the three-line icon in the upper right corner of the flow editor, and then click on the ""Edit"" option.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/studio/tell-a-flow-to-ignore-triggers-and-keywords_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/studio/tell-a-flow-to-ignore-triggers-and-keywords_1.png)
 
 -    Check the box ""Ignore triggers""
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/studio/tell-a-flow-to-ignore-triggers-and-keywords_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/studio/tell-a-flow-to-ignore-triggers-and-keywords_2.png)
 
 -    Click Save Changes button

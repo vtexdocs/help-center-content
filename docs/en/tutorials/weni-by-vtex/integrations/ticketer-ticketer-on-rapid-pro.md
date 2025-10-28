@@ -28,13 +28,13 @@ The Ticketer Service is used to provide human assistance to users who contact yo
 
 You can quickly start a ticket at any point in your flow by adding the 'open a ticket with a human agent' action.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/ticketer-ticketer-on-rapid-pro_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/ticketer-ticketer-on-rapid-pro_1.png)
 
 1\. Create a card “Open a ticket with a human agent”
 
 2\. Pick a topic or category. To create a new topic or category option, simply type the name in the bar and it will be automatically created.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/ticketer-ticketer-on-rapid-pro_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/ticketer-ticketer-on-rapid-pro_2.png)
 
 3\. This is an optional configuration, in case you don't Assign an agent to the ticket, Any agent will be able to pick up the ticket in the “unsigned” ticket box . In case you choose an Agent, all the tickets will be automatically assigned and appear on the “My tickets” box.
 
@@ -48,15 +48,15 @@ Now, you should  add agents to handle the ticket. First, go to your workspace s
 
 Scroll down to find on the [multi-login](https://help.nyaruka.com/en/article/multi-login-support-adding-editing-removing-multiple-account-roles-df2ay6/) section.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/ticketer-ticketer-on-rapid-pro_3.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/ticketer-ticketer-on-rapid-pro_3.png)
 
  Click the 'Manage Logins' button.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/ticketer-ticketer-on-rapid-pro_4.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/ticketer-ticketer-on-rapid-pro_4.png)
 
 On this page you can invite your agents by entering their email address(1\), assign the role of ""agent"" from the drop-down menu(1\) and click “Save changes”(3\)
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/ticketer-ticketer-on-rapid-pro_5.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/ticketer-ticketer-on-rapid-pro_5.png)
 
 #### **Viewing and handling tickets**
 
@@ -64,36 +64,36 @@ Click the ‘tickets’ tab(1\) in your workspace to view all tickets. The all f
 
 Once you choose a folder, toggle open or closed using the drop-down menu to view resolved or unresolved tickets(3\).
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/ticketer-ticketer-on-rapid-pro_6.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/ticketer-ticketer-on-rapid-pro_6.png)
 
 #### **Opening and closing tickets**
 
 Once the ticket has been resolved, you can mark the tickets as resolved by clicking the checkmark on the open ticket.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/ticketer-ticketer-on-rapid-pro_7.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/ticketer-ticketer-on-rapid-pro_7.png)
 
 If you need to reopen a ticket, all closed tickets have a button to reopen them at the bottom of the conversation.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/ticketer-ticketer-on-rapid-pro_8.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/ticketer-ticketer-on-rapid-pro_8.png)
 
 #### **Contact details**
 
 All customed fields for contacts are visible from the contact’s details pane, along with any information entered from the flow. To open the pane, click on the small square icon on the right of the conversation.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/ticketer-ticketer-on-rapid-pro_9.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/ticketer-ticketer-on-rapid-pro_9.png)
 
 #### **Assigning tickets to another agent**
 
 Aside from assigning tickets from the flow, you can always assign tickets directly from the Tickets tab. Right under the details icon, you will see the icon to assign.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/ticketer-ticketer-on-rapid-pro_10.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/ticketer-ticketer-on-rapid-pro_10.png)
 
 Once you clock on the assign icon, you will be able to select the agent (1\), add Notes and save the changes.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/ticketer-ticketer-on-rapid-pro_11.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/ticketer-ticketer-on-rapid-pro_11.png)
 
 #### **Starting a flow after a ticket is closed**
 
 It is essential to follow up with your contacts once an agent has resolved an open ticket. You can start the contact in a flow immediately after closing a ticket. Navigate to the ""Triggers"" tab then scroll down to find Start a flow after a ticket is closed and choose your flow.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/ticketer-ticketer-on-rapid-pro_12.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/ticketer-ticketer-on-rapid-pro_12.png)

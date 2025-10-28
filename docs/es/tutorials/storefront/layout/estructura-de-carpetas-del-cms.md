@@ -33,7 +33,7 @@ Estas son las carpetas que toda tienda necesita tener en el CMS para garantizar 
 
 A continuación, vea estas carpetas básicas en el CMS:
 
-![pastasObrigatorias](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/estructura-de-carpetas-del-cms_1.png)
+![pastasObrigatorias](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/estructura-de-carpetas-del-cms_1.png)
 
 Estas carpetas vienen de forma predeterminada en el ambiente de todas las tiendas VTEX.
 

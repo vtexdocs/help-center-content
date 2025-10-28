@@ -25,8 +25,8 @@ As mensagens são ordenadas por data e separadas por cor de acordo com a origem.
 
 Você pode optar por uma visão resumida, mostrando apenas as conversas para uma análise rápida, ou por uma visão detalhada, com mais informações.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/historico-de-contato_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/historico-de-contato_1.png)
 
 Ao clicar no contato desejado, uma nova tela será aberta onde você poderá ver o histórico do contato.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/historico-de-contato_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/historico-de-contato_2.png)

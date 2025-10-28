@@ -22,7 +22,7 @@ A tela de __Títulos__ no Admin VTEX (__Aplicativos > Customer Credit > Títulos
 - [Liquidar títulos](#liquidar-titulos)
 <br>
 <br>
-![Invoices_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/solu%C3%A7%C3%B5es-de-pagamento/customer-credit-como-comecar/gerenciando-titulos-no-customer-credit_1.JPG)
+![Invoices_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/solu%C3%A7%C3%B5es-de-pagamento/customer-credit-como-comecar/gerenciando-titulos-no-customer-credit_1.JPG)
 
 ## Filtro de títulos
 

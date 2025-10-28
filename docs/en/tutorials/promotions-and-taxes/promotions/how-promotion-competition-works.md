@@ -95,7 +95,7 @@ They're applied to the amount already discounted by the promotion that won among
 
 The application sequence is:  
 
-![promoção](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/how-promotion-competition-works_1.png)
+![promoção](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/how-promotion-competition-works_1.png)
 
 <div style="background-color: #fff8e1; border-left: 4px solid #ffecb3; padding: 12px 16px; margin: 16px 0; font-family: sans-serif; overflow: auto;">
   <p style="margin: 0;">

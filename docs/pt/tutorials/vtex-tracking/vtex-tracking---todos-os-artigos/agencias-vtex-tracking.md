@@ -76,13 +76,13 @@ Para cada status de entrega, é enviado um e-mail e um SMS para o consumidor com
 *O corpo do email deve ser preenchido em HTML, CSS e Javascript. Já a mensagem SMS pode ser preenchida em texto normal, substituindo os valores variáveis pelas `{{tags}}`, que explicaremos a seguir.*   
  7. Clique em **Salvar**.  
 
-![PT Tracking Agencia Configurar email](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-tracking/vtex-tracking---todos-os-artigos/agencias-vtex-tracking_1.png)
+![PT Tracking Agencia Configurar email](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-tracking/vtex-tracking---todos-os-artigos/agencias-vtex-tracking_1.png)
 
 #### Status 
 
 A imagem abaixo representa o fluxo de disparo de emails e SMS para destinatários presentes em uma rota. 
 
-![PT Tracking Agencia status disparo](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-tracking/vtex-tracking---todos-os-artigos/agencias-vtex-tracking_2.png)
+![PT Tracking Agencia status disparo](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-tracking/vtex-tracking---todos-os-artigos/agencias-vtex-tracking_2.png)
 
 - **Rota itinerante:** rota itinerante é aquela que demora mais de um dia para ser concluída. A comunicação é enviada quando o portador inicia a primeira entrega da rota. No email ou SMS a mensagem avisa que o serviço está em rota, e determina que a entrega será feita até o dia cadastrado como a data de fim da rota. 
 - **Rota Iniciada:** enviado quando o portador inicia a primeira entrega da rota. Todos os pedidos dentro daquela rota recebem uma previsão estimada, que será atualizada quando a comunicação de Entrega Iniciada for enviado.    

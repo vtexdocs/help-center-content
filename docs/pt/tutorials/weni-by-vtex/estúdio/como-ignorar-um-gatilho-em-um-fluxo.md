@@ -25,10 +25,10 @@ Para configurar um fluxo para ignorar gatilhos e palavras-chave enquanto um cont
 
 -   Clique no ícone de 3 listras no canto superior direito do editor de fluxo e depois clique na opção ""**Editar**""
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/como-ignorar-um-gatilho-em-um-fluxo_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/como-ignorar-um-gatilho-em-um-fluxo_1.png)
 
 -    Marque a caixa ""Ignorar disparadores""
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/como-ignorar-um-gatilho-em-um-fluxo_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/como-ignorar-um-gatilho-em-um-fluxo_2.png)
 
 -    Clique em Salvar interações.

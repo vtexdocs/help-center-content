@@ -28,7 +28,7 @@ The purpose of this article is to show you how your customers should log in to a
 
 When clicking on a link to authenticate, the client will see the login screen.
 
-![vtex-id-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/authentication/authentication-basics/how-can-my-customer-login-to-my-store_1.png)
+![vtex-id-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/authentication/authentication-basics/how-can-my-customer-login-to-my-store_1.png)
 
 There are three standard ways to log in to a VTEX store:
 
@@ -42,9 +42,9 @@ This login type __sends an access token to the user’s email__ so he or she can
 
 For the client to sign in using this method, they must follow the steps below:
 1. On the login screen, the user should click on __Receive quick access key by email__;
-2. On the next screen, the user must fill out their email and click on the button __Confirm__ ![fill-mail-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/authentication/authentication-basics/how-can-my-customer-login-to-my-store_2.png)
-3. __An access token will be sent to the email they entered in the previous step__. If the customer does not receive the email, ask them to verify that they’ve typed the email correctly. In addition, the customer should to check the junk mail to ensure that the access key has not fallen into the spam filter. The token has 6 numbers. ![code-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/authentication/authentication-basics/how-can-my-customer-login-to-my-store_3.png)
-4. Return to the login screen and __enter the access key__ received in the previous step and click __Enter__ ![fill-access-token-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/authentication/authentication-basics/how-can-my-customer-login-to-my-store_4.png)
+2. On the next screen, the user must fill out their email and click on the button __Confirm__ ![fill-mail-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/authentication/authentication-basics/how-can-my-customer-login-to-my-store_2.png)
+3. __An access token will be sent to the email they entered in the previous step__. If the customer does not receive the email, ask them to verify that they’ve typed the email correctly. In addition, the customer should to check the junk mail to ensure that the access key has not fallen into the spam filter. The token has 6 numbers. ![code-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/authentication/authentication-basics/how-can-my-customer-login-to-my-store_3.png)
+4. Return to the login screen and __enter the access key__ received in the previous step and click __Enter__ ![fill-access-token-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/authentication/authentication-basics/how-can-my-customer-login-to-my-store_4.png)
 
 ### Login with email and password
 
@@ -54,11 +54,11 @@ This type of login __ requests email and password__ so that the client can authe
 
 - If the client needs to __register a password__, they must follow the steps below:
 1. On the login screen, the user must click on __Login with email and password__;
-2. On the next screen, the user should click on __Don’t you have a password? Register now!__ ![register-password-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/authentication/authentication-basics/how-can-my-customer-login-to-my-store_5.png)
-3. The user must fill in their email and click on the button __Confirm__ ![fill-mail-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/authentication/authentication-basics/how-can-my-customer-login-to-my-store_6.png)
-4. On the next screen, the user must enter their new password in the fields __New password__ and __Confirm new password__ and then click on the button __Create new password__  ![register-new-password-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/authentication/authentication-basics/how-can-my-customer-login-to-my-store_7.png)
-5. __An access token will be sent to the email informed in the previous step__. If the customer does not receive the email, ask them to verify that they’ve typed the email correctly. In addition, the customer should check the junk mail to ensure that the access key has not fallen into the spam filter. The token has 6 numbers. ![code-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/authentication/authentication-basics/how-can-my-customer-login-to-my-store_8.png)
-6. Return to the login screen and __enter the access key__ received in the previous step and then click __Change Password__ ![change-password-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/authentication/authentication-basics/how-can-my-customer-login-to-my-store_9.png)
+2. On the next screen, the user should click on __Don’t you have a password? Register now!__ ![register-password-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/authentication/authentication-basics/how-can-my-customer-login-to-my-store_5.png)
+3. The user must fill in their email and click on the button __Confirm__ ![fill-mail-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/authentication/authentication-basics/how-can-my-customer-login-to-my-store_6.png)
+4. On the next screen, the user must enter their new password in the fields __New password__ and __Confirm new password__ and then click on the button __Create new password__  ![register-new-password-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/authentication/authentication-basics/how-can-my-customer-login-to-my-store_7.png)
+5. __An access token will be sent to the email informed in the previous step__. If the customer does not receive the email, ask them to verify that they’ve typed the email correctly. In addition, the customer should check the junk mail to ensure that the access key has not fallen into the spam filter. The token has 6 numbers. ![code-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/authentication/authentication-basics/how-can-my-customer-login-to-my-store_8.png)
+6. Return to the login screen and __enter the access key__ received in the previous step and then click __Change Password__ ![change-password-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/authentication/authentication-basics/how-can-my-customer-login-to-my-store_9.png)
 
 ### Social media login
 

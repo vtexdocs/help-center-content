@@ -25,7 +25,7 @@ Después de que el _marketplace_ cataloga los SKU, ya sea a través de la págin
 
 La página **Vínculos de SKU** le permite al _marketplace_ seguir y gestionar la vinculación entre los SKU del _seller_ y los del _marketplace_. Para acceder a la página, en el Admin VTEX, ingresa a **Marketplace > Sellers > Vínculos de SKU**. Aparecerá la siguiente interfaz:
 
-![sku-bindings-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/sellers/v%C3%ADnculos-de-sku/vinculos-de-sku_1.png)
+![sku-bindings-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/sellers/v%C3%ADnculos-de-sku/vinculos-de-sku_1.png)
 
 La tabla a continuación contiene la descripción de las columnas de la lista de vínculos de SKU:
 

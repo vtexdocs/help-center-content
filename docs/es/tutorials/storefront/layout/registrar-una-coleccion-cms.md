@@ -29,7 +29,7 @@ Realice el siguiente paso a paso para registrar una nueva colección:
 
 La elección de los productos que van a hacer parte de una colección se hace a través de la creación de un __grupo__. Para esto, basta con hacer clic en __New Group__ dentro de la colección deseada. 
 
-![2019-06-06 16 22 46-Layout](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/registrar-una-coleccion-cms_1.png)
+![2019-06-06 16 22 46-Layout](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/registrar-una-coleccion-cms_1.png)
 
 Antes de escoger qué productos harán parte del grupo, como veremos a continuación, es necesario atribuir un nombre y especificar el tipo de grupo creado.
 
@@ -69,17 +69,17 @@ Por ejemplo: al seleccionar la categoría `A` y la marca `B`, apenas los product
 
 Para agregar todos los productos de un determinado Departamento a un grupo, basta con seleccionar el Departamento deseado y hacer clic en __Save Group__, como muestra la imagen a continuación. 
 
-![seleção-departamento ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/registrar-una-coleccion-cms_2.png)
+![seleção-departamento ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/registrar-una-coleccion-cms_2.png)
 
 Lo mismo aplica para los productos de una determinada Categoría o Subcategoría.
 
-![seleção-categoria-subcategoria ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/registrar-una-coleccion-cms_3.png)
+![seleção-categoria-subcategoria ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/registrar-una-coleccion-cms_3.png)
 
 ## Productos por Marca
 
 Para crear un grupo con productos de una o más marcas, basta con seleccionar la marca deseada en la lista correspondiente. 
 
-![seleção-marca-coleção ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/registrar-una-coleccion-cms_4.png)
+![seleção-marca-coleção ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/registrar-una-coleccion-cms_4.png)
 
 Las marcas se encuentran dispuestas en orden alfabética. Al hacer clic en la letra correspondiente a la inicial de la marca deseada, la lista se expande y exhibe las marcas existentes. 
 
@@ -89,7 +89,7 @@ Las marcas se encuentran dispuestas en orden alfabética. Al hacer clic en la le
 
 Al agregar un SKU a un grupo, el producto al cual está vinculado también será agregado. En un escenario en el que un producto tenga más de un SKU atribuido, agregar un único SKU hará con que todos los otros también sean agregados al grupo.  
 
-![selecao-sku-manual en & es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/registrar-una-coleccion-cms_5.png)
+![selecao-sku-manual en & es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/registrar-una-coleccion-cms_5.png)
 
 En el campo __Find SKUs__, es posible digitar el ID de cuantos SKUs se deseen, escribiendo los valores entre comas. 
 
@@ -101,27 +101,27 @@ Para excluir un SKU de la lista, basta con hacer clic en el botón rojo al lado 
 
 #### Por plantilla  
 
-> ℹ️ Obtenga el modelo de archivo para la inclusión y exclusión de SKUs de la colección [aquí](https://raw.githubusercontent.com/vtexdocs/help-center-content/files-migration-script/docs/es/tutorials/storefront/layout/Colecao.xls).
+> ℹ️ Obtenga el modelo de archivo para la inclusión y exclusión de SKUs de la colección [aquí](https://cdn.statically.io/gh/vtexdocs/help-center-content/files-migration-script/docs/es/tutorials/storefront/layout/Colecao.xls).
 
 #### Inclusión masiva 
 
 En el campo __Bulk Insert SKUs__, es posible importar por plantilla (formato `.xls`) una lista de SKUs que harán parte del grupo.
 
-![selecao-sku-planilha-insert en & es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/registrar-una-coleccion-cms_6.png)
+![selecao-sku-planilha-insert en & es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/registrar-una-coleccion-cms_6.png)
 
 En la plantilla importada, todos los IDs de los SKUs deben estar dispuestos en la primera columna, con el encabezado, como se ejemplifica en la siguiente figura: 
 
-![exemplo-planilha-seleção-sku-coleção](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/registrar-una-coleccion-cms_7.png)
+![exemplo-planilha-seleção-sku-coleção](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/registrar-una-coleccion-cms_7.png)
 
 Después de seleccionar la plantilla deseada, haga clic en la opción __import skus__ para enviar la información.
 
-![Import SKUs](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/registrar-una-coleccion-cms_8.png)
+![Import SKUs](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/registrar-una-coleccion-cms_8.png)
 
 #### Exclusión masiva 
 
 Para evitar la exclusión manual de un SKU a la vez, también es posible usar el recurso de importación de plantilla para la exclusión masiva.
 
-![exclusao-skus-manualmente-planilha-coleção-cms en & es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/registrar-una-coleccion-cms_9.png)
+![exclusao-skus-manualmente-planilha-coleção-cms en & es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/registrar-una-coleccion-cms_9.png)
 
 En este caso específico, los SKUs listados en la plantilla importada se excluirán del  grupo. Para esto, haga clic en la opción __remove skus__ después que el archivo sea cargado.
 
@@ -133,7 +133,7 @@ En este caso específico, los SKUs listados en la plantilla importada se excluir
 
 Note que apenas es posible seleccionar una de las dos opciones. Si quiere que se contemplen ambos escenarios, cree dos grupos y configure cada uno con la respectiva opción.
 
-![other-options-cms-coleções ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/registrar-una-coleccion-cms_10.png)
+![other-options-cms-coleções ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/registrar-una-coleccion-cms_10.png)
 
 ### Pre-sales
 

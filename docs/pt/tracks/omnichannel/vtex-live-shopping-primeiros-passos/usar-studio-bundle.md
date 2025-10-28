@@ -23,7 +23,7 @@ O estúdio de transmissão da VTEX é chamado de **Bundle**. Neste artigo, você
 
 Para acessar o estúdio no Admin VTEX e iniciar uma transmissão ao vivo, acesse a seção **Estúdio de streaming** na página **Informações do evento**:
 
-![article_8_streaming_studio_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/vtex-live-shopping-primeiros-passos/usar-studio-bundle_1.png)
+![article_8_streaming_studio_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/vtex-live-shopping-primeiros-passos/usar-studio-bundle_1.png)
 
 > ℹ️ Para ativar os campos, o evento deve ser [iniciado](/pt/tracks/vtex-live-shopping-primeiros-passos--3eCHNCIx8XhZOSmX0sQT3U/6NrWRLAJEHijcd6tLIWoqq) para ficar com o status `Ao vivo`.
 
@@ -38,7 +38,7 @@ Tanto os hosts que acessam pelo link gerado com o botão `Copiar convite` quanto
 
 Na página **Device settings** (Configurações do dispositivo), ao clicar em `Enter the studio` (Entrar no estúdio), você será redirecionado para a página **My Studio** (Meu estúdio), conforme mostrado no exemplo abaixo com o [layout](/pt/tracks/vtex-live-shopping-primeiros-passos--3eCHNCIx8XhZOSmX0sQT3U/125yr6jAfwiiz84JP4ppfO#tipo-de-layout-configuracao-do-estilo) no formato retrato.
 
-![article_8_my_studio_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/vtex-live-shopping-primeiros-passos/usar-studio-bundle_2.png)
+![article_8_my_studio_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/vtex-live-shopping-primeiros-passos/usar-studio-bundle_2.png)
 
 > ⚠️ Antes de iniciar a transmissão pelo Bundle, selecione o [tipo de layout](/pt/tracks/vtex-live-shopping-primeiros-passos--3eCHNCIx8XhZOSmX0sQT3U/125yr6jAfwiiz84JP4ppfO#tipo-de-layout-configuracao-do-estilo) desejado para a tela. Após entrar na página **My Studio** (Meu estúdio), não será mais possível alterar o layout do evento. Para alterá-lo, será necessário criar um novo evento.
 
@@ -52,7 +52,7 @@ O menu de navegação à esquerda tem as seguintes seções (apenas para adminis
 
 Na opção **My Studio** (Meu estúdio) do menu, as configurações numeradas de 1 a 5 estão disponíveis para convidados e administradores, enquanto as configurações de 6 a 9 são exclusivas para administradores.
 
-![article_8_my_studio_woman_streaming_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/vtex-live-shopping-primeiros-passos/usar-studio-bundle_3.png)
+![article_8_my_studio_woman_streaming_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/vtex-live-shopping-primeiros-passos/usar-studio-bundle_3.png)
 
 ### Configurações de convidados e administradores
 
@@ -93,7 +93,7 @@ Existe também a opção <i class="fas fa-toggle-off" aria-hidden="true"></i> **
 O nome será exibido em letras brancas sobre um fundo escuro e não poderá ser alterado. Só é possível personalizar a cor inicial da faixa, pois é a mesma usada em **Banners > Theme Color** (Cor do tema). Não é necessário criar um banner para ativar essa opção, você só precisa definir a cor do tema, que é preta por padrão. A imagem abaixo é um exemplo de uma cor de tema rosa:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/vtex-live-shopping-primeiros-passos/usar-studio-bundle_4.png" alt="article_8_asset_types_EN" width="200" height="30">
+  <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/vtex-live-shopping-primeiros-passos/usar-studio-bundle_4.png" alt="article_8_asset_types_EN" width="200" height="30">
 
 
 ### Dimensões dos recursos

@@ -25,9 +25,9 @@ When the user searches in a VTEX store using [Intelligent Search](/en/tracks/vte
 
 Example scenario: When searching the store's website for products containing the term "Pendleton," the search results return 6 products. However, when we access the VTEX Admin (__Storefront > Intelligent Search > Explained Search__) and enter the same term, 9 products are displayed.
 
-![Filter_1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/troubleshooting/store-operations/i-cant-view-the-product-in-the-search-results_1.png)
+![Filter_1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/troubleshooting/store-operations/i-cant-view-the-product-in-the-search-results_1.png)
 
-![Filter_2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/troubleshooting/store-operations/i-cant-view-the-product-in-the-search-results_2.png)
+![Filter_2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/troubleshooting/store-operations/i-cant-view-the-product-in-the-search-results_2.png)
 
 This behavior can occur due to the following reasons:
 
@@ -83,7 +83,7 @@ To remove the restriction on searching by *brand* and allow products to be found
 
 4. Under **Choose an app**, click the Rewriter app option (**vtex.rewriter@{app-version-number}**).
 
-![Graphql_ide_en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/troubleshooting/store-operations/i-cant-view-the-product-in-the-search-results_3.png)
+![Graphql_ide_en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/troubleshooting/store-operations/i-cant-view-the-product-in-the-search-results_3.png)
 
 5. In the query input field (below **GraphiQL**), enter the details of the _saveInternal_ mutation function.
 

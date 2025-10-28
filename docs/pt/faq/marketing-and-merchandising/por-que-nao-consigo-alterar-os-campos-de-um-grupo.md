@@ -28,14 +28,14 @@ Uma vez localizado o campo, prossiga com as instruções a seguir:
 
 1. Acesse o módulo __Catálogo__
 2. Do lado esquerdo da tela, clique em __Categorias__
-![campos1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/marketing-and-merchandising/por-que-nao-consigo-alterar-os-campos-de-um-grupo_1.PNG)
+![campos1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/marketing-and-merchandising/por-que-nao-consigo-alterar-os-campos-de-um-grupo_1.PNG)
 3. Vá até o lado direito da página e clique no botão azul __Ações__
 4. Selecione a opção __Campos (Produto)__
-![campos2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/marketing-and-merchandising/por-que-nao-consigo-alterar-os-campos-de-um-grupo_2.PNG)
+![campos2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/marketing-and-merchandising/por-que-nao-consigo-alterar-os-campos-de-um-grupo_2.PNG)
 5. Encontre o __grupo__ em que deseja fazer as modificações
 6. Clique em __Alterar__
-![campos3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/marketing-and-merchandising/por-que-nao-consigo-alterar-os-campos-de-um-grupo_3.PNG)
+![campos3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/marketing-and-merchandising/por-que-nao-consigo-alterar-os-campos-de-um-grupo_3.PNG)
 7. Após fazer as mudanças necessárias, clique em __Salvar__
-![PTgrupo4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/marketing-and-merchandising/por-que-nao-consigo-alterar-os-campos-de-um-grupo_4.png)![ENgrupo4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/marketing-and-merchandising/por-que-nao-consigo-alterar-os-campos-de-um-grupo_5.png)
+![PTgrupo4](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/marketing-and-merchandising/por-que-nao-consigo-alterar-os-campos-de-um-grupo_4.png)![ENgrupo4](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/marketing-and-merchandising/por-que-nao-consigo-alterar-os-campos-de-um-grupo_5.png)
 
 Pronto, campos alterados! Não se esqueça de salvar as configurações para que as alterações sejam exibidas no front da loja.

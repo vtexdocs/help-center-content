@@ -21,7 +21,7 @@ To improve payment operations on the platform, VTEX will implement a new setting
 
 Currently, the Pix QR Code is available to the user for 10 minutes on the screen, while the payment can be completed in a maximum of 15 minutes. After this window, the order is canceled, and the user must make a new purchase.
 
-![PIX QR Code](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2025/february/2025-02-20-pix-new-qr-code-expiration-setting_1.png)
+![PIX QR Code](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2025/february/2025-02-20-pix-new-qr-code-expiration-setting_1.png)
 
 After __March 26, 2025__, the Pix QR Code expiration can be set to any value between 15 and 60 minutes, allowing customers greater payment flexibility.
 

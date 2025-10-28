@@ -17,7 +17,7 @@ order: 3
 
 Tras completar la configuración básica y la instalación de la aplicación de VTEX Sales App en un dispositivo, es importante realizar pruebas antes de empezar a utilizar VTEX Sales App en tus tiendas físicas. En este artículo, conocerás las mejores prácticas para probar el uso de VTEX Sales App.
 
-![testes-instore-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/omnichannel/instore-usando-el-app/mejores-practicas-de-pruebas-instore_1.png)
+![testes-instore-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/omnichannel/instore-usando-el-app/mejores-practicas-de-pruebas-instore_1.png)
 
 ## Pruebas técnicas
 

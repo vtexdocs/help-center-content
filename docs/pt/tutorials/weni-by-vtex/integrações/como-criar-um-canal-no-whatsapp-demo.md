@@ -21,13 +21,13 @@ A Weni Plataforma permite que você teste o bot do WhatsApp de uma maneira rápi
 2. **Localize o projeto** que você deseja integrar.
 3. Na barra lateral esquerda, **clique em Aplicativos**. A seguinte tela aparecerá:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integra%C3%A7%C3%B5es/como-criar-um-canal-no-whatsapp-demo_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integra%C3%A7%C3%B5es/como-criar-um-canal-no-whatsapp-demo_1.png)
 
 1. Selecione a opção **Whatsapp Demo** e adicione o canal ao seu projeto, clicando no **ícone \+.**
 2. Em seguida escolha entre ler o QR Code, copiar o link ou abrir uma guia para ser redirecionado ao canal de demonstração da Weni no WhatsApp. **Envie seu token e você já pode começar a conversar!**
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integra%C3%A7%C3%B5es/como-criar-um-canal-no-whatsapp-demo_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integra%C3%A7%C3%B5es/como-criar-um-canal-no-whatsapp-demo_2.png)
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integra%C3%A7%C3%B5es/como-criar-um-canal-no-whatsapp-demo_3.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integra%C3%A7%C3%B5es/como-criar-um-canal-no-whatsapp-demo_3.png)
 
 E assim, **você poderá testar seus fluxos conversacionais** e garantir que tudo está funcionando como planejado antes de realizar os disparos para seus clientes. Aproveite ao máximo todos os recursos que a Weni Plataforma oferece!

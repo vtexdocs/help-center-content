@@ -19,7 +19,7 @@ Las condiciones especiales forman parte de la configuración de las condiciones 
 
 Para identificar las condiciones especiales aplicables a cada método de pago, en VTEX Admin, acceda a __Pago > Configuraçión > Condiciones de Pago__, seleccione el método de pago deseado y verifique las opciones como se muestra en la siguiente ilustración.
 
-![condiciones especiales de pago](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/configuraci%C3%B3n-de-pagos/condiciones-especiales_1.png)
+![condiciones especiales de pago](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/configuraci%C3%B3n-de-pagos/condiciones-especiales_1.png)
 
 ## Condición Comercial
 
@@ -29,7 +29,7 @@ Para saber cómo catastrar una nueva condición comercial y asociarla a un SKU, 
 
 ## Cómo configurar la condición comercial en la condición de pago
 
-![condicao-comercial es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/configuraci%C3%B3n-de-pagos/condiciones-especiales_2.png)
+![condicao-comercial es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/configuraci%C3%B3n-de-pagos/condiciones-especiales_2.png)
 
 1. Dentro de la condición de pago, haga clic en `Añadir condición especial`.
 3. A continuación, haga clic en `Condición Comercial`.
@@ -89,7 +89,7 @@ Permite poner a disposición una condición de pago para una política comercial
 
 Cómo configurar la política comercial en la condición de pago
 
-![politica-comercial es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/configuraci%C3%B3n-de-pagos/condiciones-especiales_3.png)
+![politica-comercial es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/configuraci%C3%B3n-de-pagos/condiciones-especiales_3.png)
 
 1. Dentro de la condición de pago, haga clic en `Añadir condición especial`.
 2. A continuación, haga clic en `Política Comercial (Canal de Ventas)`.
@@ -114,7 +114,7 @@ Cómo configurar el banco emisor en la condición de pago:
 6. Si desea segmentar por co-brand, seleccione la opción deseada en Co-brand (esta casilla de selección solo aparecerá si su tienda ha informado a VTEX la lista de tarjetas con co-brand).
 7. Guarde los cambios.
 
-![banco-emissor es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/configuraci%C3%B3n-de-pagos/condiciones-especiales_4.png)
+![banco-emissor es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/configuraci%C3%B3n-de-pagos/condiciones-especiales_4.png)
 
 ### Ejemplos
 
@@ -144,7 +144,7 @@ Permite configurar una validez en la condición de pago, para que deje de ser ap
 
 Cómo configurar el período en la condición de pago
 
-![periodo es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/configuraci%C3%B3n-de-pagos/condiciones-especiales_5.png)
+![periodo es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/configuraci%C3%B3n-de-pagos/condiciones-especiales_5.png)
 
 1. Dentro de la condición de pago, haga clic en `Añadir condición especial`.
 3. A continuación, haga clic en `Período`.

@@ -27,7 +27,7 @@ Anteriormente, la funcionalidad Social Selling en inStore consistía en generar 
 
 Con el cambio, inStore ahora también genera un código QR que puede ser leído por los dispositivos de los clientes, además del enlace compartible.
 
-![instore-social-selling-qr-code-share-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2021/diciembre/2021-12-09-social-selling-comparte-carritos-de-instore-mediante-codigos-qr_1.png)
+![instore-social-selling-qr-code-share-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2021/diciembre/2021-12-09-social-selling-comparte-carritos-de-instore-mediante-codigos-qr_1.png)
 
 ## ¿Por qué realizamos este cambio?
 

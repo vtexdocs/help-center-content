@@ -27,7 +27,7 @@ Para configurar um [redirecionamento](/pt/tutorial/redirecionamentos--3okF84cImJ
 
 Você deve preencher os seguintes campos:
 
-![redirecionamentos-adminv4-PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/intelligent-search/redirecionamentos/configurar-redirecionamentos_1.png)
+![redirecionamentos-adminv4-PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/intelligent-search/redirecionamentos/configurar-redirecionamentos_1.png)
 
 ### Informações gerais
 

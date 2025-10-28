@@ -19,5 +19,5 @@ It is usual for the store to make changes to the placeholders of a layout in the
 Usually this happens because the store saves the placeholder after the changes but does not save the layout.
 
 Whenever you change a placeholder, remember to:
-1. Save the placeholder.![savePlaceholder](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/marketing-and-merchandising/ive-edited-a-placeholder-and-the-site-hasnt-been-updated-what-to-do_1.png)
-2. Save the layout.![saveLayout](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/marketing-and-merchandising/ive-edited-a-placeholder-and-the-site-hasnt-been-updated-what-to-do_2.png)
+1. Save the placeholder.![savePlaceholder](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/marketing-and-merchandising/ive-edited-a-placeholder-and-the-site-hasnt-been-updated-what-to-do_1.png)
+2. Save the layout.![saveLayout](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/marketing-and-merchandising/ive-edited-a-placeholder-and-the-site-hasnt-been-updated-what-to-do_2.png)

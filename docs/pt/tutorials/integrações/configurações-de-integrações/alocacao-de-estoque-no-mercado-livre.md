@@ -25,7 +25,7 @@ Para verificar se sua conta está habilitada, acesse o **Admin VTEX > Marketplac
 2. Clique no botão `Editar`.  
 3. Verifique se no campo `Estoque multi-origem ativado` o valor é `sim` ou `não`.  
 
-![Multi origem ativado](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integra%C3%A7%C3%B5es/configura%C3%A7%C3%B5es-de-integra%C3%A7%C3%B5es/alocacao-de-estoque-no-mercado-livre_1.jpg)
+![Multi origem ativado](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integra%C3%A7%C3%B5es/configura%C3%A7%C3%B5es-de-integra%C3%A7%C3%B5es/alocacao-de-estoque-no-mercado-livre_1.jpg)
 
 Caso o valor do campo seja `Sim`, você deve configurar a integração dos seus estoques VTEX com os estoques do Mercado Livre. Leia o tutorial [Configurar Alocação de estoque](/pt/tutorial/configurar-alocacao-de-estoque--1yCEr7xQ0gVsTBB0ktMYVX), para realizar as ações necessárias.  
 

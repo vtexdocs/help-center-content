@@ -21,7 +21,7 @@ Para conseguir o login e senha para acessar o adaptador, você deve abrir um cha
 
 Em seu navegador preferido, digite `https://adapterstaging.ciashop.com.br/`. Sugerimos adicionar este link na pasta favoritos do seu navegador preferido.
 
-![login-adaptador](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/erp/adaptador-vtex/login-e-senha_1.png)
+![login-adaptador](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/erp/adaptador-vtex/login-e-senha_1.png)
 
 ## Efetuando login (ambiente de homologação) com os dados enviados pela equipe de atendimento 
 

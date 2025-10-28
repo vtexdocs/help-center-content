@@ -32,5 +32,5 @@ The functionality can be used whenever retailers want to opt for a fixed product
 - Under "What kind and amount of tax?", choose the Nominal tax option
 - Fill in the required fields and click on save
 
-![Nominal tax EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2019/december/2019-12-12-use-the-nominal-tax-and-avoid-customers-abandoning-their-shopping-cart_1.png)
+![Nominal tax EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2019/december/2019-12-12-use-the-nominal-tax-and-avoid-customers-abandoning-their-shopping-cart_1.png)
 

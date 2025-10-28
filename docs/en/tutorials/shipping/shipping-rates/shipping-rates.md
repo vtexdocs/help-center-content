@@ -19,7 +19,7 @@ Shipping rates are the shipping options your store offers to customers, and they
 
 > ⚠️ The [total shipping cost](/en/tutorial/total-shipping-cost--5bwhIO108VA5Y2YOpef9lV) to the customer includes the shipping rate, [additional shipping costs](/en/tutorial/additional-shipping-costs--2vqGwMn0LabkOHY6zSHYNV) and, a loading dock fee.
 
-![Tarifa envio EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/shipping-rates/shipping-rates_1.svg)
+![Tarifa envio EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/shipping-rates/shipping-rates_1.svg)
 
 You can add shipping rates in the Admin by using:
 

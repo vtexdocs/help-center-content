@@ -111,7 +111,7 @@ Com a v2 do Master Data, você pode definir formatos de dados com JSON schemas. 
 
 Você pode salvar um documento em qualquer entidade de dados se o conteúdo for um JSON válido. Uma entidade de dados pode ou não ter múltiplos JSON schemas associados.
 
-![Master Data schemas](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/master-data/conceitos-b%C3%A1sicos-do-master-data/master-data_1.jpg)
+![Master Data schemas](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/master-data/conceitos-b%C3%A1sicos-do-master-data/master-data_1.jpg)
 
 > ℹ️ Um documento pode ser compatível com múltiplos JSON Schemas, mas também com nenhum.
 

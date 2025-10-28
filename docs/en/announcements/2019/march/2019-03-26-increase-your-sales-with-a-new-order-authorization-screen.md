@@ -22,7 +22,7 @@ This tool allows to control order approvals with changes in their values. The ch
 ## What changes? 
 Now, instead of opening a ticket directly with the support, you can manage the authorization rules by admin. To do this, go to the path: Menu - Order Management - Order Authorization.
 
-![ENAutorizacaoPedidos.PNG?h=250](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2019/march/2019-03-26-increase-your-sales-with-a-new-order-authorization-screen_1.png)
+![ENAutorizacaoPedidos.PNG?h=250](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2019/march/2019-03-26-increase-your-sales-with-a-new-order-authorization-screen_1.png)
 
 ## What you need to do
 It is important to mention that the store will not lose the previous rules, which were done by opening a ticket to the support team. They will automatically update on the new screen.

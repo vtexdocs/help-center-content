@@ -20,7 +20,7 @@ subcategoryId: 4k2nT4bkX7B73rZyIhw8aE
 Siga as etapas abaixo para configurar e enviar um novo formulário:
 
 1. No menu lateral da Indeva, clique em **Formulários** e depois em **Novo formulário**.  
-   ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/formul%C3%A1rios-indeva/configurar-e-enviar-formularios-na-plataforma-indeva_1.png)
+   ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/formul%C3%A1rios-indeva/configurar-e-enviar-formularios-na-plataforma-indeva_1.png)
 
 2. Preencha o campo **Título** do formulário.  
    *Exemplo:* Acompanhamento gerencial – Julho/2020.
@@ -30,7 +30,7 @@ Siga as etapas abaixo para configurar e enviar um novo formulário:
 4. Use o ícone de anexo para incluir arquivos, como orientações, imagens ou documentos de apoio.  
 
 5. Após inserir todas as perguntas, clique em **Configurar envio**.  
-   ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/formul%C3%A1rios-indeva/configurar-e-enviar-formularios-na-plataforma-indeva_2.png)
+   ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/formul%C3%A1rios-indeva/configurar-e-enviar-formularios-na-plataforma-indeva_2.png)
 
 6. Preencha as configurações de envio:  
    - **Referência:** define o mês ou período do formulário.  

@@ -21,11 +21,11 @@ Weni Platform allows you to test the WhatsApp bot quickly and efficiently throug
 2. Find the project you want to integrate.
 3. On the left sidebar, click on **Applications**. The following screen will appear:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/how-to-create-a-channel-with-whatsapp-demo_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/how-to-create-a-channel-with-whatsapp-demo_1.png)
 
 1. Select the **WhatsApp Demo** option and add the channel to your project by clicking on the **\+** icon.
 2. Next, choose between scanning the QR Code, copying the link, or opening a tab to be redirected to Weni's WhatsApp demo channel. Send your token, and you're ready to start chatting!
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/how-to-create-a-channel-with-whatsapp-demo_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/how-to-create-a-channel-with-whatsapp-demo_2.png)
 
 You can scan the QR Code or use the link to open WhatsApp Demo.

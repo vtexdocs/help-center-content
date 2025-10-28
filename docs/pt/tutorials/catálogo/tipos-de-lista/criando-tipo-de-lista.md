@@ -61,7 +61,7 @@ O lojista decide se a lista terá evento ou não. Uma vez salvo o tipo de lista 
 
 Ao selecionar **POSSUI EVENTO**, o formulário disponibiliza outras opções de configuração para o evento, onde será possível configurar todas as datas limites para criação desse tipo de lista, conforme imagem abaixo.
 
-![eventos.pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/cat%C3%A1logo/tipos-de-lista/criando-tipo-de-lista_1.png)
+![eventos.pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/cat%C3%A1logo/tipos-de-lista/criando-tipo-de-lista_1.png)
 
 A área de evento é responsável por definir se a lista criada possui ou não um período preestabelecido para a data do evento. Listas de desejo ou listas de compras não necessitam de um período determinado para ocorrência do evento. De forma contrária, listas de casamento ou de chá de bebe, precisam levar em conta a data do evento, para que assim, todos os produtos comprados sejam entregues ao dono em período hábil à data do evento.
 
@@ -79,7 +79,7 @@ As seguintes opções estão disponíveis:
 
 Após a criação do tipo de lista, você será redirecionado para a tela onde aparecem os tipos de listas já cadastrados na loja. Essa tela fornece as seguintes informações e funções:
 
-![listagem.pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/cat%C3%A1logo/tipos-de-lista/criando-tipo-de-lista_2.png)
+![listagem.pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/cat%C3%A1logo/tipos-de-lista/criando-tipo-de-lista_2.png)
 
 - **Exportar para Excel**: Permite exportar os dados de tipos de listas para Excel.
 - **Versão**: Identificação de listas criadas na versão antiga da funcionalidade, com limitações. A versão mais atual é a “v2”.

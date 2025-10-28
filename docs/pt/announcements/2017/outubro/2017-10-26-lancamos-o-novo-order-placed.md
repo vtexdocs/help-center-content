@@ -17,7 +17,7 @@ announcementSynopsisPT: 'A nova versão da página de confirmação de pedido j�
 
 No início deste mês divulgamos o lançamento de uma das muitas novidades que a VTEX está desenvolvendo para melhorar ainda mais a experiência do usuário — a nova seção de Meus Pedidos. Hoje lançamos mais uma feature que integra essa seção: a nova versão da página de confirmação de pedido (Order Placed).
 
-![PedidoConfirmado](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2017/outubro/2017-10-26-lancamos-o-novo-order-placed_1.png)
+![PedidoConfirmado](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2017/outubro/2017-10-26-lancamos-o-novo-order-placed_1.png)
 
 Ela agora faz parte do __Checkout Confirmation__, feature responsável pelas páginas de confirmação do Checkout. E traz vantagens importantes para sua loja:
 
@@ -29,7 +29,7 @@ Ativar essa atualização é simples: basta acessar a aba Pedidos no módulo Por
 
 Depois do dia 24 de agosto de 2017, a nova versão será ativada por default, e a antiga será descontinuada. Então fique ligado!
 
-![PedidoConfirmado2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2017/outubro/2017-10-26-lancamos-o-novo-order-placed_2.png)
+![PedidoConfirmado2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2017/outubro/2017-10-26-lancamos-o-novo-order-placed_2.png)
 
 É provável que você queira atualizar sua customização. Para saber como, veja o tutorial [Customizar as páginas do Checkout Confirmation](/pt/tutorial/customizando-o-checkout-confirmation).
 

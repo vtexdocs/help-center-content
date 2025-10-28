@@ -25,7 +25,7 @@ Se puede hacer esa aprobación manualmente por el OMS de forma simple, conforme 
 2. Haga clic en la transaccione.
 3. Haga clic en el botón __Notificar el pago__.
 
-![NotificarES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/transacciones/como-aprobar-un-pago_1.png)
+![NotificarES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/transacciones/como-aprobar-un-pago_1.png)
 
 **Después de la aprobación del pago, el pedido entrará en el flujo normal de compra.**
 

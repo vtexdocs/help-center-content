@@ -50,7 +50,7 @@ To configure a VTEX Intelligent Search [merchandising rule](/en/tracks/vtex-inte
 
 The Visual Editor for merchandising rules in VTEX Intelligent Search allows you to perform the actions shown in the image below:
 
-![visual-merch-rules-EN-v2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/intelligent-search/relevance/creating-merchandising-rules-visual-editor_1.png)
+![visual-merch-rules-EN-v2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/intelligent-search/relevance/creating-merchandising-rules-visual-editor_1.png)
 
 <ol class="mv7" type="I">
     <li class="t-body c-on-base mb5 lh-copy">Edit the name of the merchandising rule.</li>

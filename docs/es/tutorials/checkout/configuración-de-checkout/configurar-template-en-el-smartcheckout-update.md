@@ -35,11 +35,11 @@ El módulo __Checkout__ en Admin, muestra los sitios que están registrados para
 
 Creación del nuevo sitio web: 
 
-![ses.smartchackout1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/checkout/configuraci%C3%B3n-de-checkout/configurar-template-en-el-smartcheckout-update_1.png) 
+![ses.smartchackout1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/checkout/configuraci%C3%B3n-de-checkout/configurar-template-en-el-smartcheckout-update_1.png) 
 
 Acceso a __Nombre de cuenta__:
 
-![ses.smartchackout2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/checkout/configuraci%C3%B3n-de-checkout/configurar-template-en-el-smartcheckout-update_2.png)
+![ses.smartchackout2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/checkout/configuraci%C3%B3n-de-checkout/configurar-template-en-el-smartcheckout-update_2.png)
 
 ## Editar y configurar sitio
 
@@ -54,14 +54,14 @@ Acceso a __Nombre de cuenta__:
    - __Páginas__: mostrar páginas existentes para el sitio. 
 
 Ejemplo de sitios existentes en la misma cuenta:
-![ES Cards Portal](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/checkout/configuraci%C3%B3n-de-checkout/configurar-template-en-el-smartcheckout-update_3.png)
+![ES Cards Portal](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/checkout/configuraci%C3%B3n-de-checkout/configurar-template-en-el-smartcheckout-update_3.png)
 
 Si desea __eliminar__ un sitio web, haga clic en el botón Eliminar del sitio web deseado, como en el siguiente ejemplo:
-![ses.smartchackout3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/checkout/configuraci%C3%B3n-de-checkout/configurar-template-en-el-smartcheckout-update_4.png)
+![ses.smartchackout3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/checkout/configuraci%C3%B3n-de-checkout/configurar-template-en-el-smartcheckout-update_4.png)
 
 Si desea __eliminar__ una página existente, haga clic en el botón indicado en la imagen de abajo:
 
-![ses.smartchackout5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/checkout/configuraci%C3%B3n-de-checkout/configurar-template-en-el-smartcheckout-update_5.png)
+![ses.smartchackout5](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/checkout/configuraci%C3%B3n-de-checkout/configurar-template-en-el-smartcheckout-update_5.png)
 
 A continuación, pasaremos a la configuración paso a paso de las opciones del menú: __Código__ y __Checkout__ - pues configuran las páginas de *Checkout* y *Order Placed*.
 
@@ -80,7 +80,7 @@ A continuación, pasaremos a la configuración paso a paso de las opciones del m
   <li>**Cálculo de las Opciones de Entrega (Beta y Stable)**: seleccione si el cálculo del flete se hará desde la hoja de cálculo o por geolocalización.</li>
   </ul>
 
-![ses.smartchackout6](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/checkout/configuraci%C3%B3n-de-checkout/configurar-template-en-el-smartcheckout-update_6.png)
+![ses.smartchackout6](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/checkout/configuraci%C3%B3n-de-checkout/configurar-template-en-el-smartcheckout-update_6.png)
 
 ## Configurar código
 
@@ -90,7 +90,7 @@ A continuación, pasaremos a la configuración paso a paso de las opciones del m
 
 Ejemplo:
 
-![ses.smartchackout7](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/checkout/configuraci%C3%B3n-de-checkout/configurar-template-en-el-smartcheckout-update_7.png)
+![ses.smartchackout7](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/checkout/configuraci%C3%B3n-de-checkout/configurar-template-en-el-smartcheckout-update_7.png)
 
 ### Configurar templates del menú "Código"
 
@@ -108,27 +108,27 @@ A continuación se muestran ejemplos de cómo se pueden llenar los códigos pres
 
 - Template __checkout-header__ y la cabecera de página del sitio web:
 
-![ses.smartchackout10](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/checkout/configuraci%C3%B3n-de-checkout/configurar-template-en-el-smartcheckout-update_8.png) 
+![ses.smartchackout10](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/checkout/configuraci%C3%B3n-de-checkout/configurar-template-en-el-smartcheckout-update_8.png) 
 
-![checkout-header-page-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/checkout/configuraci%C3%B3n-de-checkout/configurar-template-en-el-smartcheckout-update_9.png)
+![checkout-header-page-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/checkout/configuraci%C3%B3n-de-checkout/configurar-template-en-el-smartcheckout-update_9.png)
 
 - Template __checkout-footer__ y pie de página del sitio web:
 
-![checkout-footer-codigo-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/checkout/configuraci%C3%B3n-de-checkout/configurar-template-en-el-smartcheckout-update_10.png)
+![checkout-footer-codigo-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/checkout/configuraci%C3%B3n-de-checkout/configurar-template-en-el-smartcheckout-update_10.png)
 
-![checkout-footer-cesta-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/checkout/configuraci%C3%B3n-de-checkout/configurar-template-en-el-smartcheckout-update_11.png)
+![checkout-footer-cesta-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/checkout/configuraci%C3%B3n-de-checkout/configurar-template-en-el-smartcheckout-update_11.png)
 
 - Template __vtex-checkout__ y página de carrito al finalizar la compra:
 
-![smartcheckout16.pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/checkout/configuraci%C3%B3n-de-checkout/configurar-template-en-el-smartcheckout-update_12.png) 
+![smartcheckout16.pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/checkout/configuraci%C3%B3n-de-checkout/configurar-template-en-el-smartcheckout-update_12.png) 
 
-![vtex-checkout-pagina-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/checkout/configuraci%C3%B3n-de-checkout/configurar-template-en-el-smartcheckout-update_13.png)
+![vtex-checkout-pagina-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/checkout/configuraci%C3%B3n-de-checkout/configurar-template-en-el-smartcheckout-update_13.png)
 
 - Template __vtex-orderPlaced__ y página de pedido confirmado:
 
-![ses.smartchackout18](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/checkout/configuraci%C3%B3n-de-checkout/configurar-template-en-el-smartcheckout-update_14.png) 
+![ses.smartchackout18](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/checkout/configuraci%C3%B3n-de-checkout/configurar-template-en-el-smartcheckout-update_14.png) 
 
-![vtex-orderplaced-paginas-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/checkout/configuraci%C3%B3n-de-checkout/configurar-template-en-el-smartcheckout-update_15.png)
+![vtex-orderplaced-paginas-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/checkout/configuraci%C3%B3n-de-checkout/configurar-template-en-el-smartcheckout-update_15.png)
 
 ### Cuentas con multidominio 
 
@@ -136,5 +136,5 @@ Las cuentas que tengan multidominio pueden usar apenas un sitio web, si no hay n
 
 Clase insertada en el tag "body" de acuerdo al dominio accedido:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/checkout/configuraci%C3%B3n-de-checkout/configurar-template-en-el-smartcheckout-update_16.jpg)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/checkout/configuraci%C3%B3n-de-checkout/configurar-template-en-el-smartcheckout-update_16.jpg)
 

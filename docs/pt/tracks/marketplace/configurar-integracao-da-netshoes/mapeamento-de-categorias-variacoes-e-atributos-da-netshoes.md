@@ -21,8 +21,8 @@ Com essa feature, é possível categorizar corretamente seus produtos na Netshoe
 
 O mapeamento deve ser feito sempre que um produto for enviado pela primeira vez à Netshoes. Isso significa que, já tendo feito o mapeamento uma vez, os produtos que já foram integrados não precisam passar por esse processo novamente. Da mesma forma, produtos novos devem sempre passar pelo mapeamento.
 
-1. [Baixe aqui](https://raw.githubusercontent.com/vtexdocs/help-center-content/files-migration-script/docs/pt/tracks/marketplace/configurar-integracao-da-netshoes/Mapeamento.xlsx) a __Planilha de Mapeamento da Netshoes__ no formato `.xlsx`.
-2. [Baixe aqui](https://raw.githubusercontent.com/vtexdocs/help-center-content/files-migration-script/docs/pt/tracks/marketplace/configurar-integracao-da-netshoes/Atributos.xlsx) a __Planilha de Consulta da Netshoes__ para verificar os valores aceitos de acordo com cada coluna da Planilha de Mapeamento do passo anterior. Essa planilha é __exclusivamente para consulta__.
+1. [Baixe aqui](https://cdn.statically.io/gh/vtexdocs/help-center-content/files-migration-script/docs/pt/tracks/marketplace/configurar-integracao-da-netshoes/Mapeamento.xlsx) a __Planilha de Mapeamento da Netshoes__ no formato `.xlsx`.
+2. [Baixe aqui](https://cdn.statically.io/gh/vtexdocs/help-center-content/files-migration-script/docs/pt/tracks/marketplace/configurar-integracao-da-netshoes/Atributos.xlsx) a __Planilha de Consulta da Netshoes__ para verificar os valores aceitos de acordo com cada coluna da Planilha de Mapeamento do passo anterior. Essa planilha é __exclusivamente para consulta__.
 
 ### Preenchendo a Planilha de Mapeamento
 

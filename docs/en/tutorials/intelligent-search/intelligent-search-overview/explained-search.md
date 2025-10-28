@@ -27,5 +27,5 @@ Follow the steps below to access it:
 1. In the VTEX Admin, go to __Storefront__, or type __Storefront__ in the search bar at the top of the page.
 2. Under **Intelligent Search**, click __Explained Search__. 
 
-![Explained Search](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/intelligent-search/intelligent-search-overview/explained-search_1.png)
+![Explained Search](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/intelligent-search/intelligent-search-overview/explained-search_1.png)
 

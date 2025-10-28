@@ -21,7 +21,7 @@ Uma situação comum em restaurantes que aceitam pedidos online, por exemplo, é
 
 Para simplificar o uso dessa funcionalidade, desenvolvemos o aplicativo **Assembly Options**, que apresenta uma interface para configuração e gerenciamento das opções de customização. O aplicativo está disponível somente para lojas que utilizam [VTEX IO](https://vtex.com/br-pt/store-framework/).
 
-![assembly-options-app](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2022/junho/2022-06-22-assembly-options-novo-aplicativo-para-facilitar-a-customizacao-de-produtos_1.png)
+![assembly-options-app](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2022/junho/2022-06-22-assembly-options-novo-aplicativo-para-facilitar-a-customizacao-de-produtos_1.png)
 
 ## O que mudou?
 

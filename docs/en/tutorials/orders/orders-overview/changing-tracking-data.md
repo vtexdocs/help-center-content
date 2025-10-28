@@ -38,4 +38,4 @@ To manually change an order's data, follow the steps below:
     * **Select carrier:** select which carrier will deliver the order.
 7. Click `Save`.
 
-![FaturaEN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/orders/orders-overview/changing-tracking-data_1.png)
+![FaturaEN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/orders/orders-overview/changing-tracking-data_1.png)

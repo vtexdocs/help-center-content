@@ -28,7 +28,7 @@ You can [configure which identification methods you want to enable](https://deve
 
 In the example image below, Email and CPF are enabled.
 
-![31. VTEX Sales App - Product Overview - 2 - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/instore-using-the-app/customer-identification_1.PNG)
+![31. VTEX Sales App - Product Overview - 2 - EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/instore-using-the-app/customer-identification_1.PNG)
 
 Just enter one of these data in the field and click on the `Confirm` button.
 

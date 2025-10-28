@@ -19,6 +19,6 @@ El Hub de extensiones es una sección del Admin VTEX que agrupa toda la informac
 
 Para acceder al Hub de extensiones ve al panel lateral izquierdo del Admin, haz clic en el ícono **Extensiones** y verás la sección en la parte superior del menú.
 
-![Extensions Hub panel](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/vtex-io/hub-de-extensiones/hub-de-extensiones-1_1.png)
+![Extensions Hub panel](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/vtex-io/hub-de-extensiones/hub-de-extensiones-1_1.png)
 
 La sección del Hub de extensiones tiene tres páginas: **App Store**, **Partners** y **Gestión de aplicaciones**. La documentación sobre cada una de ellas puede consultarse en los artículos a continuación.

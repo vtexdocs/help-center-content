@@ -36,4 +36,4 @@ Such specifications are, for example, a product's composition or an SKU's voltag
 
 An example of a VTEX Catalog architecture blueprint is found below:
 
-![arquitetura-catalogo-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-modules-getting-started/catalog-101/catalog-architecture_1.png)
+![arquitetura-catalogo-EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-modules-getting-started/catalog-101/catalog-architecture_1.png)

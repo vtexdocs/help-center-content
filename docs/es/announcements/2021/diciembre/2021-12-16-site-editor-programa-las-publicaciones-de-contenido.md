@@ -17,7 +17,7 @@ announcementSynopsisES: 'Crea y programa versiones de bloques predefinidas en el
 
 El recurso **Configuraciones** del Site Editor se actualizó. Ahora, además de llamarse **Versiones**, puedes crear versiones del contenido de tu tienda que se han desactivado, y activarlas cuando así lo desees.
 
-![activating-versions-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2021/diciembre/2021-12-16-site-editor-programa-las-publicaciones-de-contenido_1.gif)
+![activating-versions-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2021/diciembre/2021-12-16-site-editor-programa-las-publicaciones-de-contenido_1.gif)
 
 ## ¿Qué cambió?
 Anteriormente, la funcionalidad **Versiones** se llamaba **Configuraciones**, y solo era posible crear una nueva versión activada, por ejemplo un carrusel con productos en promoción, o programar su activación. Después de deshabilitar una versión, no podía volver a activarla.

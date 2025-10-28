@@ -21,4 +21,4 @@ Al tener acceso a esta información, el vendedor puede intentar completar la ven
 
 Simplemente haga clic en `Acceder` para ver los productos en el carrito abandonado.
 
-![last-cart-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/omnichannel/instore-usando-el-app/acceso-al-ultimo-carrito-del-cliente_1.png)
+![last-cart-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/omnichannel/instore-usando-el-app/acceso-al-ultimo-carrito-del-cliente_1.png)

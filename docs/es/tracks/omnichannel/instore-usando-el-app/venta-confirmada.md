@@ -17,4 +17,4 @@ order: 16
 
 El vendedor puede ver la pantalla __Venta confirmada__ con el resumen del pedido cuando termina una venta, o haciendo clic en una venta en la página __Últimas ventas__, a la que puede acceder a través del menú principal de VTEX Sales App. En la página __Últimas ventas__, pueden buscar el pedido por número de pedido o nombre del cliente.
 
-![order-placed-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/omnichannel/instore-usando-el-app/venta-confirmada_1.png)
+![order-placed-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/omnichannel/instore-usando-el-app/venta-confirmada_1.png)

@@ -19,7 +19,7 @@ Desde 13 de março de 2020, as documentações do  VTEX IO e VTEX IO Store Frame
 
 Agora, elas devem ser acessadas através do [**VTEX IO Docs**](https://vtex.io/docs), plataforma de documentação que reúne todos os conteúdos disponíveis sobre ambas soluções. 
 
-![vtex-io-docs](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2020/abril/2020-04-08-documentacoes-do-vtex-io-tem-uma-nova-casa_1.png)
+![vtex-io-docs](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2020/abril/2020-04-08-documentacoes-do-vtex-io-tem-uma-nova-casa_1.png)
 
 ## Por que estamos realizando esta mudança?
 
@@ -33,7 +33,7 @@ A decisão de remover do Help Center as documentações do VTEX IO e VTEX IO Sto
 
 Abrigando nossa [documentação de API](https://developers.vtex.com/reference), [guias](https://developers.vtex.com/docs) voltados para desenvolvedores que trabalham com integrações e customizações e [Release Notes](https://developers.vtex.com/changelog) sincronizados com tudo de novo que acontece no nosso produto, o [**Developer Portal**](https://developers.vtex.com) - antigo Developer Docs do Help Center - oferece em um só lugar todos os recursos necessários para os usuários mais técnicos da VTEX. 
 
-![developer-portal](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2020/abril/2020-04-08-documentacoes-do-vtex-io-tem-uma-nova-casa_2.png)
+![developer-portal](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2020/abril/2020-04-08-documentacoes-do-vtex-io-tem-uma-nova-casa_2.png)
 
 Com o objetivo de melhorar a experiência de desenvolvimento na VTEX, o Developer Portal em breve também contará com as documentações do VTEX IO e VTEX IO Store Framework - hoje disponibilizadas no VTEX IO Docs. 
 

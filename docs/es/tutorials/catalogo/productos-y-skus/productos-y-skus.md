@@ -17,7 +17,7 @@ subcategoryId: pwxWmUu7T222QyuGogs68
 
 La página **Productos y SKUs** permite ver y gestionar toda la lista de productos registrados en la tienda, incluyendo la información de los SKU, fecha de actualización y status. Para acceder a la página, ve a **Catálogo > Productos y SKUs**. 
 
-![products_and_skus_listing_page_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/productos-y-skus/productos-y-skus_1.png)
+![products_and_skus_listing_page_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/productos-y-skus/productos-y-skus_1.png)
 
 La página te permite realizar las siguientes acciones:
 
@@ -97,7 +97,7 @@ Los íconos de disponibilidad del producto se aplican de la misma manera a los S
 
 Al hacer clic en la flecha <i class="fas fa-chevron-right"></i> en la fila de un producto de la lista, la plataforma muestra una lista con todos los SKUs registrados para ese producto, según se ilustra a continuación:
 
-![products_and_skus_sku_icons_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/productos-y-skus/productos-y-skus_2.gif)
+![products_and_skus_sku_icons_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/productos-y-skus/productos-y-skus_2.gif)
 
 En la lista de SKU, se puede ver la siguiente información:
 
@@ -136,7 +136,7 @@ Al hacer clic en el icono de menú <i class="fas fa-ellipsis-v"></i> de un produ
 
 La página **Productos y SKUs** te permite ver los logs (registros técnicos) de la indexación de productos y SKUs haciendo clic en la fila del producto deseado y luego seleccionando `Ver detalles de la indexación` en el [menú de acciones](#acceder-al-menu-de-acciones) <i class="fas fa-ellipsis-v" aria-hidden="true"></i>. Se mostrará la ventana **Log de indexación** según se ilustra a continuación:
 
-![products_and_skus_indexing_modal_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/productos-y-skus/productos-y-skus_3.png)
+![products_and_skus_indexing_modal_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/productos-y-skus/productos-y-skus_3.png)
 
 En la parte superior derecha de la ventana, puedes copiar el contenido al portapapeles haciendo clic en <i class="far fa-clone" aria-hidden="true"></i> `Copiar`. Para cerrar la ventana, haz clic en el ícono <i class="far fa-times-circle" aria-hidden="true"></i> o fuera de la ventana.
 

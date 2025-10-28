@@ -27,7 +27,7 @@ Para acceder, simplemente ve al módulo **Chats** de la plataforma Weni y dentro
 del menú de **Preferencias**, haz clic en el botón **Dashboard**. Por ahora,
 esta herramienta está disponible solo para gestores y administradores.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/chats/weni-chats-dashboard-de-atencion-humana_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/chats/weni-chats-dashboard-de-atencion-humana_1.png)
 
 #### Pantalla principal
 
@@ -35,7 +35,7 @@ Al acceder a **Dashboards**, se presentan los datos del proyecto. De esta
 manera, si existe más de un sector, las métricas representan los datos de todos
 los sectores incluidos en el proyecto.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/chats/weni-chats-dashboard-de-atencion-humana_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/chats/weni-chats-dashboard-de-atencion-humana_2.png)
 
 ##### Indicadores:
 
@@ -44,11 +44,11 @@ los sectores incluidos en el proyecto.
 - **Tiempo de respuesta**: Se refiere al tiempo promedio que los contactos esperan por cada respuesta. También se calcula desde el inicio de la operación hasta el momento actual.
 - **Tiempo de interacción**: Muestra el tiempo promedio de duración de los chats, desde el inicio hasta su cierre.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/chats/weni-chats-dashboard-de-atencion-humana_3.png) 
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/chats/weni-chats-dashboard-de-atencion-humana_3.png) 
 
 Cuando la visualización es de **todos los sectores** del proyecto, se mostrarán los sectores listados a continuación, con las mismas métricas mencionadas anteriormente, pero detalladas específicamente para cada sector.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/chats/weni-chats-dashboard-de-atencion-humana_4.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/chats/weni-chats-dashboard-de-atencion-humana_4.png)
 
 Al lado de los sectores listados, se encuentra la columna de **agentes en línea**, donde se muestran los agentes con estado en línea y la cantidad de chats activos de esos agentes.
 
@@ -62,7 +62,7 @@ Por ahora, hay dos tipos de filtros disponibles. El primero es el **filtro de
 sector**, que permite seleccionar un sector específico y visualizar sus datos
 detallados.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/chats/weni-chats-dashboard-de-atencion-humana_5.png) 
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/chats/weni-chats-dashboard-de-atencion-humana_5.png) 
 
 Al seleccionar un sector, los datos principales se mostrarán exclusivamente de acuerdo con ese sector. De esta forma, se listarán las colas contenidas en ese sector y los agentes en línea serán solo los que pertenecen a ese sector.
 

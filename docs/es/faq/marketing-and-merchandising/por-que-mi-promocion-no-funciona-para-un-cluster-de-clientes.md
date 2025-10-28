@@ -34,7 +34,7 @@ Asegúrese de que el valor se ha insertado siguiendo los pasos abajo:
 4. Acceda a la sesión __"¿Cuáles son las condiciones para la promoción sea válida?"__;
 5. Compruebe qué clústeres están registrados en __"Clúster de clientes"__;
 
-![ES - 7GcSb6BuF6JKnmGAggO3uA](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/marketing-and-merchandising/por-que-mi-promocion-no-funciona-para-un-cluster-de-clientes_1.png)
+![ES - 7GcSb6BuF6JKnmGAggO3uA](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/marketing-and-merchandising/por-que-mi-promocion-no-funciona-para-un-cluster-de-clientes_1.png)
 
 6. Introduzca los __nuevos datos__;
 7. Haga clic en __Guardar__.!

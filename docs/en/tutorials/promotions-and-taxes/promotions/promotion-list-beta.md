@@ -30,7 +30,7 @@ The page displays the list of your store's promotions and their basic informatio
 | `To` | Promotion end date. |
 | `Status` | Promotion status, which can be:  __Active:__ when a promotion is active. __Scheduled:__ when the promotion was scheduled. __Paused:__ when the promotion is paused. __Completed:__ when the promotion ended. |
 
-![listadepromocoes en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/promotion-list-beta_1.gif)
+![listadepromocoes en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/promotion-list-beta_1.gif)
 
 You can sort the promotions by name, date, or status. To do this, click on the title of the column with the information you want to use as sorting criteria.
 
@@ -82,7 +82,7 @@ The file contains the following information about each promotion:
 
 ## Promotion usage
 
-![usodaspromoções en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/promotion-list-beta_2.JPG)
+![usodaspromoções en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/promotion-list-beta_2.JPG)
 
 To view the total of your active promotions and the remaining quota for new promotions, click `Promotion usage`. 
 
@@ -90,7 +90,7 @@ By default, the maximum number of active promotions is 100. If you need to incre
 
 ## Filter promotions
 
-![filtrodepromocoes en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/promotion-list-beta_3.gif)
+![filtrodepromocoes en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/promotion-list-beta_3.gif)
 
 The promotion list can be filtered according to your needs by using the following filters:
 

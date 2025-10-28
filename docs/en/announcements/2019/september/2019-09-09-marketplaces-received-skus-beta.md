@@ -25,7 +25,7 @@ This open beta is the first in a series of product updates and improvements to c
 
 One of the first and principal improvements is the new way to select SKUs en masse — so you can approve or reject them in bulk. Aligned with our [Styleguide](https://styleguide.vtex.com/), the bulk selection will make your work faster and better.
 
-![received-skus-bulk](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2019/september/2019-09-09-marketplaces-received-skus-beta_1.gif)
+![received-skus-bulk](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2019/september/2019-09-09-marketplaces-received-skus-beta_1.gif)
 
 
 
@@ -33,13 +33,13 @@ One of the first and principal improvements is the new way to select SKUs en mas
 One of the challenges in managing items from multiple sellers is prioritizing your never-ending items list. To help you with that we've built a brand new __ordering__ feature, where you can reorder all submissions according to price and – one of the main improvements – by inventory availability. See how many items are available at a glance, so you can approve the SKUs that will perform better.
 
 
-![received-skus-ordering](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2019/september/2019-09-09-marketplaces-received-skus-beta_2.gif)
+![received-skus-ordering](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2019/september/2019-09-09-marketplaces-received-skus-beta_2.gif)
 
 
 This extends to the new __filtering__ tool. See and filter SKUs by category, brand, and seller in a simple and intuitive way.
 
 
-![received-skus-filtering](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2019/september/2019-09-09-marketplaces-received-skus-beta_3.gif)
+![received-skus-filtering](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2019/september/2019-09-09-marketplaces-received-skus-beta_3.gif)
 
 
 

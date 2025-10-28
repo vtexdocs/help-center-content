@@ -39,7 +39,7 @@ There are no prior settings to make before configuring the Catalog, but the foll
 
 The Catalog architecture has some key concepts: category, brand, product, SKU (_Stock Keeping Unit_) and specification. The image below shows the relation between these concepts:
 
-![arquitetura-catalogo-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/onboarding-guide/vtex-store-overview/vtex-modules-i_1.png)
+![arquitetura-catalogo-EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/onboarding-guide/vtex-store-overview/vtex-modules-i_1.png)
 
 The store catalog must be created following the steps below:
 
@@ -74,7 +74,7 @@ __Example__: Department `Women`, Category `Shirts and T-shirts`, and Sub-categor
 
 Before importing the store catalog to VTEX, we recommend that you start working on the category tree by creating a table such as the one below. This allows you to better view the tree's organization and the display of specifications.
 
-![catalog_arquitecture_table_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/onboarding-guide/vtex-store-overview/vtex-modules-i_2.png)
+![catalog_arquitecture_table_EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/onboarding-guide/vtex-store-overview/vtex-modules-i_2.png)
 
 > ℹ️ For more information on how to import back-office specifications, read the [Backend integrations](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu) article.
 
@@ -153,7 +153,7 @@ Prices are the sales value information for your SKUs. These prices are stored in
 
 The image below illustrates the relationship between prices, the price table, and the context in which they will be applied:
 
-![Conceito de Preços-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/onboarding-guide/vtex-store-overview/vtex-modules-i_3.png)
+![Conceito de Preços-EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/onboarding-guide/vtex-store-overview/vtex-modules-i_3.png)
 
 You can create price tables for your SKUs in three ways:
 
@@ -269,7 +269,7 @@ The set of essential logistics settings for a VTEX store is called [Shipping Str
 
 The image below shows how these concepts relate to each other when selling a product:
 
-![shipping_strategy_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/onboarding-guide/vtex-store-overview/vtex-modules-i_4.png)
+![shipping_strategy_EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/onboarding-guide/vtex-store-overview/vtex-modules-i_4.png)
 
 The following table shows the store's main logistics settings on VTEX:
 
@@ -318,7 +318,7 @@ The [main use cases](/en/tutorial/lead_time-shipping-time-at-sku-level--16yv5Mkj
 
 The VTEX platform considers the following settings to [calculate the order shipping time](/en/tutorial/how-shipping-calculation-works--tutorials_116):
 
-![Shipping Calculation_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/onboarding-guide/vtex-store-overview/vtex-modules-i_5.png)
+![Shipping Calculation_EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/onboarding-guide/vtex-store-overview/vtex-modules-i_5.png)
 
 - [Lead time](/en/tutorial/lead-time-shipping-time-at-sku-level--16yv5Mkj6bTyWR1hCN2f4B): Configurable amount of time for an SKU in stock. This configuration is optional and is set to zero days by default.
 - [Warehouse time](/en/tutorial/managing-warehouses--tutorials_137): time it takes for an SKU to move from a warehouse to a [loading dock](/en/tutorial/loading-dock--5DY8xHEjOLYDVL41Urd5qj). This configuration is required, but you can set the time to zero.

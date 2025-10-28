@@ -19,7 +19,7 @@ Entidade de dados é uma representação de um conjunto de informações sobre u
 
 Para exemplificar, imagine um sistema de controle de uma biblioteca. Esse sistema controla livros que podem ser alugados por clientes. Então, percebemos que esses 3 conceitos (livro, cliente, aluguel) são entidades que possuem informações sobre cada uma delas. Entidade de dados, portanto, é um grupo de informações sobre determinado conceito.
 
-![data-entity-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/master-data/conceitos-b%C3%A1sicos-do-master-data/entidade-de-dados_1.png)
+![data-entity-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/master-data/conceitos-b%C3%A1sicos-do-master-data/entidade-de-dados_1.png)
 
 Com esses conceitos, é possível configurar os mais diversos cenários de controle de dados pelo Master Data. Por padrão, são inseridas as seguintes entidades de dados: Cliente, Endereço, Stores etc. É possível criar quantas mais entidades de dados desejar, possibilitando um ambiente personalizado, voltado às necessidade de cada loja.
 

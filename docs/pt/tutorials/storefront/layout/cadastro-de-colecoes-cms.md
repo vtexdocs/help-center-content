@@ -29,7 +29,7 @@ Siga o passo a passo abaixo para cadastrar uma nova coleção:
 
 A escolha dos produtos que vão compor uma coleção é feita através da criação de um __grupo__. Para isso, basta clicar em __New Group__ dentro da coleção desejada. 
 
-![2019-06-06 16 22 46-Layout](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/cadastro-de-colecoes-cms_1.png)
+![2019-06-06 16 22 46-Layout](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/cadastro-de-colecoes-cms_1.png)
 
 Antes de escolher quais produtos farão parte do grupo, como veremos a seguir, é necessário atribuir um nome e especificar o tipo de grupo criado. 
 
@@ -69,17 +69,17 @@ Por exemplo: ao selecionar a categoria `A` e a marca `B`, apenas os produtos que
 
 Para adicionar todos os produtos de um determinado Departamento a um grupo, basta selecionar o Departamento desejado e clicar em __Save Group__, como mostra a imagem abaixo. 
 
-![selecionar-departamento-colecoes-cms PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/cadastro-de-colecoes-cms_2.png)
+![selecionar-departamento-colecoes-cms PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/cadastro-de-colecoes-cms_2.png)
 
 O mesmo se aplica aos produtos de uma determinada Categoria ou Subcategoria.
 
-![selecionar-categoria-subcategoria-colecoes-cms PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/cadastro-de-colecoes-cms_3.png)
+![selecionar-categoria-subcategoria-colecoes-cms PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/cadastro-de-colecoes-cms_3.png)
 
 ## Produtos por Marca
 
 Para criar um grupo com produtos de uma ou mais marcas, basta selecionar a marca desejada na lista correspondente. 
 
-![selecionar-marcas-colecoes-cms PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/cadastro-de-colecoes-cms_4.png)
+![selecionar-marcas-colecoes-cms PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/cadastro-de-colecoes-cms_4.png)
 
 As marcas encontram-se dispostas em ordem alfabética. Ao clicar na letra correspondente à inicial da marca desejada, a lista se expande e exibe as marcas existentes.
 
@@ -89,7 +89,7 @@ As marcas encontram-se dispostas em ordem alfabética. Ao clicar na letra corres
 
 Ao adicionar um SKU a um grupo, o produto ao qual ele está vinculado também será adicionado. Em um cenário em que um produto tenha mais de um SKU atribuido a ele, a adição de um único SKU fará com que todos os outros também sejam adicionados ao grupo.
 
-![add-skus-manualmente-coleção-cms](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/cadastro-de-colecoes-cms_5.png)
+![add-skus-manualmente-coleção-cms](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/cadastro-de-colecoes-cms_5.png)
 
 No campo __Find SKUs__, é possível digitar o ID de quantos SKUs forem desejados, escrevendo os valores entre vírgulas. 
 
@@ -101,27 +101,27 @@ Para excluir um SKU da lista, basta clicar no botão vermelho ao lado dele.
 
 ### Por planilha 
 
-> ℹ️ Obtenha o modelo de arquivo para a inclusão e exclusão de SKUs da coleção [aqui](https://raw.githubusercontent.com/vtexdocs/help-center-content/files-migration-script/docs/pt/tutorials/storefront/layout/Colecao.xls).
+> ℹ️ Obtenha o modelo de arquivo para a inclusão e exclusão de SKUs da coleção [aqui](https://cdn.statically.io/gh/vtexdocs/help-center-content/files-migration-script/docs/pt/tutorials/storefront/layout/Colecao.xls).
 
 #### Inclusão massiva
 
 No campo __Bulk Insert SKUs__, é possível inserir por planilha (formato `.xls`) uma listagem de SKUs que farão parte do grupo.
 
-![add-skus-manualmente-planilha-coleção-cms](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/cadastro-de-colecoes-cms_6.png)
+![add-skus-manualmente-planilha-coleção-cms](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/cadastro-de-colecoes-cms_6.png)
 
 Na planilha, todos os IDs dos SKUs devem estar dispostos na primeira coluna, com o cabeçalho, como exemplifica a figura abaixo:
 
-![exemplo-planilha-seleção-sku-coleção](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/cadastro-de-colecoes-cms_7.png)
+![exemplo-planilha-seleção-sku-coleção](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/cadastro-de-colecoes-cms_7.png)
 
 Depois de selecionar a planilha desejada, clique na opção de __Import skus__ para enviar as informações.
 
-![Import SKUs](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/cadastro-de-colecoes-cms_8.png)
+![Import SKUs](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/cadastro-de-colecoes-cms_8.png)
 
 #### Exclusão massiva
 
 Para evitar a exclusão manual de um SKU por vez, também é possível usar o recurso de importação de planilha para a exclusão massiva. 
 
-![exclusao-skus-manualmente-planilha-coleção-cms](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/cadastro-de-colecoes-cms_9.png)
+![exclusao-skus-manualmente-planilha-coleção-cms](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/cadastro-de-colecoes-cms_9.png)
 
 Nesse caso em específico, os SKUs listados na planilha importada serão excluídos do grupo. Para isso, clique na opção __excluir skus__ depois que o arquivo for carregado.
 
@@ -133,7 +133,7 @@ Nesse caso em específico, os SKUs listados na planilha importada serão excluí
 
 Note que apenas é possível selecionar uma das duas opções. Caso queira que ambos os cenários sejam contemplados, crie dois grupos e configure cada um deles com a respectiva opção.
 
-![selecionar-other-options-colecoes-cms PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/cadastro-de-colecoes-cms_10.png)
+![selecionar-other-options-colecoes-cms PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/cadastro-de-colecoes-cms_10.png)
 
 ### Pre-sales
 

@@ -26,10 +26,10 @@ This way, AB Testing will be successful.
 See below the screens with examples of the steps:
 
 __Control Screen__:
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/others/ab-testing-why-is-it-not-working-google-analytics_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/others/ab-testing-why-is-it-not-working-google-analytics_1.png)
 
 __Script Screen__:
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/others/ab-testing-why-is-it-not-working-google-analytics_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/others/ab-testing-why-is-it-not-working-google-analytics_2.png)
 
 __Template Screen__:
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/others/ab-testing-why-is-it-not-working-google-analytics_3.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/others/ab-testing-why-is-it-not-working-google-analytics_3.png)

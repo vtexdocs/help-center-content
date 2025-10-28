@@ -15,7 +15,7 @@ trackSlugEN: cms
 order: 1
 ---
 
-![CMS Capa overview](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-modules-getting-started/cms/what-is-the-cms_1.png)
+![CMS Capa overview](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-modules-getting-started/cms/what-is-the-cms_1.png)
 
 A content management system (CMS) allows continuous and practical management of content.
 

@@ -25,7 +25,7 @@ This approval can be done manually through the Orders Management module as shown
 2. Click on the transaction.
 3. Click on **Notify Payment** button.
 
-![NotificarEN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/transactions/approving-payment-of-the-bank-payment-slip_1.png)
+![NotificarEN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/transactions/approving-payment-of-the-bank-payment-slip_1.png)
 
 **After approval of the payment, the order will go through the normal purchase flow.**
 

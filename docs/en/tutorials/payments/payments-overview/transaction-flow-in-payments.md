@@ -19,7 +19,7 @@ Transactions performed by VTEX Payments go through a variety of statuses, from t
 
 See below an example timeline with the transaction statuses.
 
-![Transaction Flow](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payments-overview/transaction-flow-in-payments_1.jpg)
+![Transaction Flow](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payments-overview/transaction-flow-in-payments_1.jpg)
 
 1. __Authorizing__: This is the first status of a Payments transaction. At this stage, Payments indicates that the process of sending information to an acquirer or to another gateway has begun.
 2. __Authorized__: Upon initiation of the authorization process, the acquirer or other gateway sends the transaction information to the issuing bank. The bank responds whether or not the transaction should be authorized. If it denies the transaction, the payment is __canceled__. If it authorizes, the transaction status changes to __Authorized__.

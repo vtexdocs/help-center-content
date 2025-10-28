@@ -23,7 +23,7 @@ O conjunto de configurações [logísticas](/pt/tutorial/fulfillment-logistica-v
 
 A imagem abaixo mostra como esses conceitos se relacionam entre si:
 
-![shipping_strategy_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/estrat%C3%A9gia-de-envio/politica-de-envio_1.png)
+![shipping_strategy_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/estrat%C3%A9gia-de-envio/politica-de-envio_1.png)
 
 **Política de envio** é um conjunto de regras e configurações que definem quais opções de envio serão apresentadas aos clientes no checkout. Quando a plataforma VTEX [calcula o tempo de envio](/pt/tutorial/como-funciona-o-calculo-de-envio--tutorials_116) do pedido, as configurações das políticas de envio são consideradas, e algumas das principais são:
 

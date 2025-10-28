@@ -29,7 +29,7 @@ To learn more about the financial agents involved in the payment flow of an orde
 
 The complete credit card payment flow at VTEX is shown in the following scheme:
 
-![Credit Card - Basic payment flow](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-modules-getting-started/payments/credit-card-payment-flow_1.JPG)
+![Credit Card - Basic payment flow](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-modules-getting-started/payments/credit-card-payment-flow_1.JPG)
 
 1. On the Checkout screen of your store, the customer chooses the _credit card_ **Payment Method** to complete the purchase.
 

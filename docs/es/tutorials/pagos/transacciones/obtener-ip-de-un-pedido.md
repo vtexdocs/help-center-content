@@ -21,11 +21,11 @@ Para recuperar la IP de un cliente que realizó un pedido en su tienda, basta an
 
 Al abrir una ordén, haga clic en "Ver detalles de la transacción" en la caja de pagos:
 
-![ip pedido1 ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/transacciones/obtener-ip-de-un-pedido_1.png)
+![ip pedido1 ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/transacciones/obtener-ip-de-un-pedido_1.png)
 
 Finalmente, la IP se visualiza en la parte superior derecha:
 
-![ip pedido2 ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/transacciones/obtener-ip-de-un-pedido_2.png)
+![ip pedido2 ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/transacciones/obtener-ip-de-un-pedido_2.png)
 
 Ver más detalles en [Cómo visualizar detalle del pedido](/es/tutorial/como-visualizar-detalle-del-pedido)
 

@@ -21,23 +21,23 @@ Para realizar a integração, utilize uma das duas formas abaixo:
 
 1. No dashboard, clique em **Ver todas integrações** e em **Active Campaign**.
 
-   ![CRM Zen_1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/active-campaign-suiteshare_1.png)
+   ![CRM Zen_1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/active-campaign-suiteshare_1.png)
 
 2. Acesse **Configurações > Integrações > Active Campaign > Integrar**.
 
-![Active Campaign_1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/active-campaign-suiteshare_2.png)
+![Active Campaign_1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/active-campaign-suiteshare_2.png)
 
 Selecione o [Formulário de captura](/pt/tutorial/formulario-de-captura--6NJ6JyS3x5P2iWEZGadHAo) que deseja conectar.
 
-![Active Campaign_2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/active-campaign-suiteshare_3.png)
+![Active Campaign_2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/active-campaign-suiteshare_3.png)
 
 Dentro do painel admin da Active Campaing, acesse **Configurações > Desenvolvedor**. 
 
-![Active Campaign_3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/active-campaign-suiteshare_4.png)
+![Active Campaign_3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/active-campaign-suiteshare_4.png)
 
 Copie a URL e a chave dentro da VTEX Assisted Sales (SuiteShare). 
 
-![Active Campaign_4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/active-campaign-suiteshare_5.png)
+![Active Campaign_4](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/active-campaign-suiteshare_5.png)
 
 Clique em **Salvar**.
 

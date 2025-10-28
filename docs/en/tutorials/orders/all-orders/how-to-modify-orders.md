@@ -85,7 +85,7 @@ To add one or more items to the order, follow these steps:
 2. In the **Pending invoicing** section, click `Change Items`.
 3. On the **Manage order items** page, click the up arrow <i class="fas fa-angle-up"></i> to the number you want, or enter the number in the field. Then, the page will display the price and the previous number with a strikethrough, followed by the message: _"Item edited"_.
 
-    ![change_order_adding_items_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/orders/all-orders/how-to-modify-orders_1.png)
+    ![change_order_adding_items_EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/orders/all-orders/how-to-modify-orders_1.png)
 
 4. Review the [details of the amount modification](#viewing-details-of-the-amount-change). You can [undo a modification](#undoing-actions) if necessary.
 5. Click `Review and Apply`.
@@ -106,7 +106,7 @@ To add one or more products to an order, follow these steps:
   > If you click the product name, you will be redirected to the product page on the store's website.
 6. Then click `Add Selected Items`, and the following message will be displayed: _"Items added"_.
 
-    ![change_order_adding_product_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/orders/all-orders/how-to-modify-orders_2.png)
+    ![change_order_adding_product_EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/orders/all-orders/how-to-modify-orders_2.png)
 
 4. Review the [details of the amount modification](#viewing-details-of-the-amount-change). You can [undo a modification](#undoing-actions) if necessary.
 5. Click `Review and Apply`.
@@ -123,7 +123,7 @@ To remove one or more items from an order, follow these steps:
 2. In the **Pending invoicing** section, click `Change Items`.
 3. On the **Manage order items** page, click the down arrow <i class="fas fa-angle-down"></i> to the number you want, or enter the number in the field. Then, the page will display the price and the previous number with a strikethrough, followed by the message: _"Item edited"_.
 
-    ![change_order_removing_items_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/orders/all-orders/how-to-modify-orders_3.png)
+    ![change_order_removing_items_EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/orders/all-orders/how-to-modify-orders_3.png)
 
 4. Review the [details of the amount modification](#viewing-details-of-the-amount-change). You can [undo a modification](#undoing-actions) if necessary.
 5. Then click `Review and Apply`.
@@ -140,7 +140,7 @@ To remove a product from an order, follow these steps:
 2. In the **Pending invoicing** section, click `Change Items`.
 3. On the **Manage order items** page, click the trash can icon <i class="far fa-trash-alt"></i> and `Remove Item`. The following confirmation message will appear: _"Item removed"_.
 
-    ![change_order_removing_product_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/orders/all-orders/how-to-modify-orders_4.png)
+    ![change_order_removing_product_EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/orders/all-orders/how-to-modify-orders_4.png)
 
 4. Review the [details of the amount modification](#viewing-details-of-the-amount-change). You can [undo a modification](#undoing-actions) if necessary.
 5. Then click `Review and Apply`.
@@ -175,7 +175,7 @@ To change the weight of an item, follow these steps:
 3. On the **Manage order items** page, enter the new weight in the row of the desired product. The unit of measure will be specified based on the Catalog settings.
 4. Then, the page will display the previous price and weight number with a strikethrough, followed by the message _"Item edited"_.
 
-    ![change_order_changing_weight_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/orders/all-orders/how-to-modify-orders_5.png)
+    ![change_order_changing_weight_EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/orders/all-orders/how-to-modify-orders_5.png)
 
 5. Review the [details of the amount modification](##viewing-details-of-the-amount-change). You can [undo a modification](#undoing-actions) if necessary.
 6. Click `Review and Apply`.
@@ -196,7 +196,7 @@ On the **Manage order items** page, as you modify the order, the **Total amount*
 
 On the **Manage order items** page, you can undo a modification if you want. To do this, click the curved arrow icon `Undo Action`. After this, a confirmation message will be displayed: _"Change undone"_, indicating that the action has been successfully reversed.
 
-![change_order_undoing_actions_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/orders/all-orders/how-to-modify-orders_6.png)
+![change_order_undoing_actions_EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/orders/all-orders/how-to-modify-orders_6.png)
 
 ## Processing errors
 

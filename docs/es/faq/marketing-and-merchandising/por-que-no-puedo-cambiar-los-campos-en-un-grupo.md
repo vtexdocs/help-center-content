@@ -26,13 +26,13 @@ Una vez localizado el campo, continúe con las instrucciones:
 
 1. Acceda al módulo __Catálogo__
 2. Haga clic en __Categorías__
-![campos1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/marketing-and-merchandising/por-que-no-puedo-cambiar-los-campos-en-un-grupo_1.PNG)
+![campos1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/marketing-and-merchandising/por-que-no-puedo-cambiar-los-campos-en-un-grupo_1.PNG)
 3. Haga clic en __Acciones__
 4. Seleccione __Campos (Producto)__
-![campos2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/marketing-and-merchandising/por-que-no-puedo-cambiar-los-campos-en-un-grupo_2.PNG)
+![campos2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/marketing-and-merchandising/por-que-no-puedo-cambiar-los-campos-en-un-grupo_2.PNG)
 5. Encuentre el __grupo__ al que desea hacerle modificaciones. 
 6. Haga clic en __Alterar__
-![campos3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/marketing-and-merchandising/por-que-no-puedo-cambiar-los-campos-en-un-grupo_3.PNG)
+![campos3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/marketing-and-merchandising/por-que-no-puedo-cambiar-los-campos-en-un-grupo_3.PNG)
 7. Después de realizar los cambios requeridos, haga clic en __Guardar__
 
 ¡Listo, campos alterados! No se olvide de guardar las configuraciones para que las alteraciones sean exhibidas en el front de la tienda.

@@ -15,7 +15,7 @@ announcementImageID: 'undefined'
 announcementSynopsisEN: 'Now, you can upload an XLS file containing all the pickup points you want to offer on your website.'
 ---
 
-You don't need to register pickup points one by one anymore. Now, you can use your Admin to upload an XLS file [(like this one)](https://raw.githubusercontent.com/vtexdocs/help-center-content/files-migration-script/docs/en/announcements/2018/december/pickups_example.xls) with all the pickup points you want to offer on your website.
+You don't need to register pickup points one by one anymore. Now, you can use your Admin to upload an XLS file [(like this one)](https://cdn.statically.io/gh/vtexdocs/help-center-content/files-migration-script/docs/en/announcements/2018/december/pickups_example.xls) with all the pickup points you want to offer on your website.
 
 
 ## Your logistics setup has never been this fast

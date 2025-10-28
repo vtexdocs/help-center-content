@@ -28,7 +28,7 @@ Você pode [configurar quais métodos de identificação deseja habilitar](https
 
 No exemplo da imagem abaixo, estão habilitados Email e CPF.
 
-![31. VTEX Sales App - Product Overview - 2 - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/instore-usando-o-app/identificacao-do-cliente_1.PNG)
+![31. VTEX Sales App - Product Overview - 2 - PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/instore-usando-o-app/identificacao-do-cliente_1.PNG)
 
 Basta inserir um desses dados no campo e clicar em `Confirmar`.
 

@@ -36,7 +36,7 @@ Para desenvolver uma versão mobile com um novo WebSite, você deve seguir os se
 
   Storefront > Layout > Pasta CMS > Sites and Channels > New Website
 
-![cms-new-website](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/como-criar-ambiente-de-desenvolvimento-de-versao-mobile_1.png)
+![cms-new-website](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/como-criar-ambiente-de-desenvolvimento-de-versao-mobile_1.png)
 
 3. Criar estrutura de pastas do WebSite Mobile: Nesse passo será necessário criar as pastas padrões do sistema que serão utilizadas na versão mobile (busca, departamento, categoria, marca, produto etc.)
 

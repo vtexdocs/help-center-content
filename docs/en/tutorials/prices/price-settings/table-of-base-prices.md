@@ -44,7 +44,7 @@ The next spreadsheet fields are optional, used only to make SKU identification e
 <table width="100%">
   <tr>
    <td>
-    <img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/prices/price-settings/table-of-base-prices_1.png" style="display: block; margin-left: auto; margin-right: auto;" alt="base prices table" title="base prices table">
+    <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/prices/price-settings/table-of-base-prices_1.png" style="display: block; margin-left: auto; margin-right: auto;" alt="base prices table" title="base prices table">
    </td>
   </tr>
   <tr>

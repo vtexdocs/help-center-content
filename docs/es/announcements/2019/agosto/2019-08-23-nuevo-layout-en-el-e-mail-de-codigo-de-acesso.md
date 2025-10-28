@@ -17,7 +17,7 @@ announcementSynopsisES: 'Actualizamos el layout del e-mail recibido al solicitar
 
 Actualizamos el layout del e-mail recibido al solicitar el código de acceso para su admin. Ahora, cada vez que se solicite el código de acceso para iniciar sesión o cambiar la contraseña, recibirá un e-mail como este a continuación:
 
-![announcement-novo-layout-email-codigo-acesso ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2019/agosto/2019-08-23-nuevo-layout-en-el-e-mail-de-codigo-de-acesso_1.png)
+![announcement-novo-layout-email-codigo-acesso ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2019/agosto/2019-08-23-nuevo-layout-en-el-e-mail-de-codigo-de-acesso_1.png)
 
 ## ¿Qué cambia?
 

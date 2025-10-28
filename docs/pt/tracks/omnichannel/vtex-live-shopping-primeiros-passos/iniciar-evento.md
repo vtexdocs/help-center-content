@@ -46,6 +46,6 @@ Quando o evento estiver ativado, todas as configurações ficam disponíveis par
 
 Nesta seção, você pode monitorar o [status do evento](/pt/tracks/vtex-live-shopping-primeiros-passos--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv#status-do-evento), como mostrado na imagem abaixo:
 
-![article_6_turning_on_event_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/vtex-live-shopping-primeiros-passos/iniciar-evento_1.png)
+![article_6_turning_on_event_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/vtex-live-shopping-primeiros-passos/iniciar-evento_1.png)
 
 > ⚠️ Após iniciar o evento, se não houver transmissão ou interação por mais de 90 minutos, o status mudará para `Finalizado`, indicando que o evento não poderá mais ser transmitido.

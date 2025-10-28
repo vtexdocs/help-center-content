@@ -118,7 +118,7 @@ Ao cadastrar um produto, é necessário estabelecer uma quantidade mínima para 
 
 A categoria em questão exige o mapeamento de marca e modelo. Essas informações devem estar presentes na planilha de mapeamento. Formato de exemplo:
 
-![mercadolivre faq erro](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integra%C3%A7%C3%B5es/vis%C3%A3o-geral-de-integra%C3%A7%C3%B5es/mercado-livre-faq_1.JPG)
+![mercadolivre faq erro](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integra%C3%A7%C3%B5es/vis%C3%A3o-geral-de-integra%C3%A7%C3%B5es/mercado-livre-faq_1.JPG)
 
 ### Por que meu anúncio está desativado no Mercado Livre?
 
@@ -158,13 +158,13 @@ No entanto, esses atributos são bastante claros (Cor principal, Cor secundária
 
 Se algum desses atributos for preenchido incorretamente (por exemplo, se você atribuiu um código referente a Tamanho de cinto para um calçado), o Integrações vai retornar um erro com o seguinte formato:
 
-![mercadolivre faq erro2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integra%C3%A7%C3%B5es/vis%C3%A3o-geral-de-integra%C3%A7%C3%B5es/mercado-livre-faq_2.JPG)
+![mercadolivre faq erro2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integra%C3%A7%C3%B5es/vis%C3%A3o-geral-de-integra%C3%A7%C3%B5es/mercado-livre-faq_2.JPG)
 
 Neste caso, temos dois exemplos de erros na mesma mensagem.
 
 O primeiro deles indica que o atributo cujo código se inicia com o número `113000` é necessário para a categoria escolhida e não foi inserido na planilha de mapeamento. Veja a planilha abaixo:
 
-![mercadolivre faq erro3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integra%C3%A7%C3%B5es/vis%C3%A3o-geral-de-integra%C3%A7%C3%B5es/mercado-livre-faq_3.JPG)
+![mercadolivre faq erro3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integra%C3%A7%C3%B5es/vis%C3%A3o-geral-de-integra%C3%A7%C3%B5es/mercado-livre-faq_3.JPG)
 
 O segundo erro indica que o atributo cujo código se inicia com o número `63000`, inserido na última coluna da planilha acima, é inválido para a categoria escolhida.
 
@@ -209,7 +209,7 @@ Existe o elemento principal do anúncio e ele contém as variações (que são o
 
 Acontece que cada categoria tem sua especificação de quantidade de imagens que podem ser adicionadas, para o caso da categoria MLA3697 são somente 12 imagens permitidas para esse elemento principal. Veja [aqui](https://api.mercadolibre.com/categories/MLA3697) as condições dessa categoria. 
 
-![mercadolivre faq erro4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integra%C3%A7%C3%B5es/vis%C3%A3o-geral-de-integra%C3%A7%C3%B5es/mercado-livre-faq_4.JPG)
+![mercadolivre faq erro4](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integra%C3%A7%C3%B5es/vis%C3%A3o-geral-de-integra%C3%A7%C3%B5es/mercado-livre-faq_4.JPG)
 
 `Sku não integrado pois o mesmo não possui descrição`
 
@@ -245,7 +245,7 @@ Dito isso, o primeiro passo é acessar o cadastro dessa integração:
 1. Acesse o módulo __Marketplace__
 2. Clique em __Integrações__
 3. Procure o __painel__ do Mercado Livre
-4. Clique na __engrenagem__ <img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integra%C3%A7%C3%B5es/vis%C3%A3o-geral-de-integra%C3%A7%C3%B5es/mercado-livre-faq_5.png" />
+4. Clique na __engrenagem__ <img class="shadow-4" src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integra%C3%A7%C3%B5es/vis%C3%A3o-geral-de-integra%C3%A7%C3%B5es/mercado-livre-faq_5.png" />
 5. Clique em __Editar configuração__
 
 A partir daí, é preciso refazer o processo de integração.

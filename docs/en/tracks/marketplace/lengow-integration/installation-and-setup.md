@@ -41,13 +41,13 @@ To get started, we will fill out basic settings that allow VTEX and Lengow to co
 
 Once this is done, as seen in the image below, press **Save** to store the settings and move on to the next step.
 
-![Lengow Basic Setup](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/marketplace/lengow-integration/installation-and-setup_1.png)
+![Lengow Basic Setup](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/marketplace/lengow-integration/installation-and-setup_1.png)
 
 ### Configure VTEX affiliate for Lengow
 
 To fill out the **Prefix to imported orders - Affilitiate ID** field you should configure an [affiliate](/en/tutorial/configuring-affiliates--tutorials_187) for the Lengow connector in *Orders > Orders Management > Settings*. We recommend using the settings below, with LNG as the affiliate ID and your own e-mail address for notifications.
 
-![Lengow affiliate](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/marketplace/lengow-integration/installation-and-setup_2.png)
+![Lengow affiliate](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/marketplace/lengow-integration/installation-and-setup_2.png)
 
 ### Get Lengow authentication credentials
 
@@ -61,7 +61,7 @@ You can find the information needed to fill out the **Lengow Account**, **Lengow
 <table width="100%">
   <tr>
    <td>
-    <img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/marketplace/lengow-integration/installation-and-setup_3.png" style="display: block; margin-left: auto; margin-right: auto;" alt="Lengow API KEY / Secret" title="Lengow API KEY / Secret">
+    <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/marketplace/lengow-integration/installation-and-setup_3.png" style="display: block; margin-left: auto; margin-right: auto;" alt="Lengow API KEY / Secret" title="Lengow API KEY / Secret">
    </td>
   </tr>
   <tr>

@@ -19,7 +19,7 @@ The telesales toolbar is displayed at the top of your store's website for users 
 
 Once the registered operator logs into the store environment, the toolbar will be displayed at the top of all sections of the website.
 
-![toolbartelevendas EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/orders/telesales-and-customer-service/telesales-toolbar_1.png)
+![toolbartelevendas EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/orders/telesales-and-customer-service/telesales-toolbar_1.png)
 
 See below the main features of the telesales toolbar:
 *   [Log in as customer](#log-in-as-customer)

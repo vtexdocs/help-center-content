@@ -21,7 +21,7 @@ Uma Assembly Option é um [anexo](/pt/tutorial/o-que-e-um-anexo--aGICk0RVbqKg6GY
 
 No exemplo abaixo, uma loja oferece várias Assembly Options para o produto _Custom Bell_. Essas opções são mostradas na página do produto, onde o cliente pode selecionar as opções desejadas. Dependendo das escolhas, pode haver um custo adicional.
 
-![assembly-option-PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/cat%C3%A1logo/campos-personalizados/assembly-options_1.png)
+![assembly-option-PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/cat%C3%A1logo/campos-personalizados/assembly-options_1.png)
 
 Você pode combinar [SKUs](/pt/tutorial/o-que-e-um-sku--1K75s4RXAQyOuGUYKMM68u) para oferecer Assembly Options, como o _Bells add-ons Roman_ ou o _Bells add-ons 1-3 lines_ no exemplo acima. Se um item estiver esgotado, ele será exibido como indisponível.
 
@@ -57,7 +57,7 @@ O primeiro trecho`[x-y]` se refere às regras aplicadas ao grupo, e entre cada `
 |\[0-3\]#10000\[1-2\]**\[1\]**pricetable1;#20000\[0-2\]**\[0\]**pricetable2;#30000\[0-2\]**\[0\]**pricetable3 | Esse segmento define a quantidade padrão selecionada para cada SKU.                                    |
 | \[0-3\]#10000\[1-2\]\[1\]**pricetable1**;#20000\[0-2\]\[0\]**pricetable2**;#30000\[0-2\]\[0\]**pricetable3** | O segmento final indica a tabela de preços para cada item. |
 
-![assembly-option-exemplo-PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/cat%C3%A1logo/campos-personalizados/assembly-options_2.png)
+![assembly-option-exemplo-PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/cat%C3%A1logo/campos-personalizados/assembly-options_2.png)
 
 #### Configuração do Anexo
 

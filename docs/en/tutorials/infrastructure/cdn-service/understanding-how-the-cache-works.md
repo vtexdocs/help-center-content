@@ -25,11 +25,11 @@ The browser submits a **request** and the server’s reply is its **response**. 
 
 See the schematic chart shown below:
 
-![How the cache works - communication between server and browser](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/infrastructure/cdn-service/understanding-how-the-cache-works_1.png)
+![How the cache works - communication between server and browser](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/infrastructure/cdn-service/understanding-how-the-cache-works_1.png)
 
 The cache is represented by a layer between the browser and server. So when a **request** is made, instead of the system going straight to the server to find the information, it first goes to this layer, which makes the response much quicker. A schematic diagram is shown below:
 
-![How cache works - communication with cache (without expiring)](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/infrastructure/cdn-service/understanding-how-the-cache-works_2.png)
+![How cache works - communication with cache (without expiring)](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/infrastructure/cdn-service/understanding-how-the-cache-works_2.png)
 
 However, since the latest information is in the server, the cache has to be updated from time to time. The frequency varies according to the type of **request**: it is different for a single page, for a java script or CSS file, or for an image.
 
@@ -58,7 +58,7 @@ As mentioned the cache duration time varies for each type of **request**. The fo
 
 When a **request** cache (page or file) expires, and you make a new request (i.e. load the URL again) the system goes to the server, collects the latest information and updates the content of the URL in the cache. Once updated, the cached version will be returned for a new request for the URL. The following illustrates how this works:
 
-![How cache works - communication with cache (expired)](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/infrastructure/cdn-service/understanding-how-the-cache-works_3.png)
+![How cache works - communication with cache (expired)](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/infrastructure/cdn-service/understanding-how-the-cache-works_3.png)
 
 So we can separate responses into two groups: cached and not cached.
 
@@ -71,7 +71,7 @@ When you click on the request, upon the first page reload, find among the header
 
 If the value is “MISS”, it means that the content is not cached but was returned directly by the server. Another important detail that can be found from the **request** headers is the date when the cache was created. This is shown in the property `X-vtex-processed-at`.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/infrastructure/cdn-service/understanding-how-the-cache-works_4.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/infrastructure/cdn-service/understanding-how-the-cache-works_4.png)
 
 JavaScript and CSS files also have a fixed cache duration, but as they are used in formatting layouts and thus sometimes need to work more quickly, the portal is able to identify changes in their content, and break through the cache layer. 
 

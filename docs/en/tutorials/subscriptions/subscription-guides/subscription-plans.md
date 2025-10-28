@@ -23,7 +23,7 @@ To offer subscription plans for your customers, you need to install the Subscrip
 
 On the **Plans** page, you can view and manage the subscription plans available to your customers, as illustrated below.
 
-![planslist EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/subscriptions/subscription-guides/subscription-plans_1.png)
+![planslist EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/subscriptions/subscription-guides/subscription-plans_1.png)
 
 Here are the main features of this page:
 

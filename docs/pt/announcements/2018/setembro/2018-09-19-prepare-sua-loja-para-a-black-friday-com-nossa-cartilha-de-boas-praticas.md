@@ -21,4 +21,4 @@ Como fazemos todos os anos, criamos uma cartilha com recomendações e dicas exc
 
 Disponível para clientes e parceiros VTEX, o guia pode ser acessado pela homepage do seu Admin ou diretamente pela URL `https://{AccountName}.myvtex.com/admin/blackfriday`. Basta substituir `{AccountName}` pelo Account Name da sua loja.
 
-![Announcement Cartilha BF](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2018/setembro/2018-09-19-prepare-sua-loja-para-a-black-friday-com-nossa-cartilha-de-boas-praticas_1.png)
+![Announcement Cartilha BF](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2018/setembro/2018-09-19-prepare-sua-loja-para-a-black-friday-com-nossa-cartilha-de-boas-praticas_1.png)

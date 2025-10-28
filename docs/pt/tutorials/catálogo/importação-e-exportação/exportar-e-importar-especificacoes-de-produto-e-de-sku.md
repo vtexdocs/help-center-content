@@ -28,14 +28,14 @@ Veja a seguir como exportar a planilha com as especificações de produto ou de 
 1. No Admin VTEX, acesse __Catálogo__, ou digite __Catálogo__ na barra de busca no topo da página.
 2. Clique em __Importação e exportação__.
 3. Clique na aba __Especificações de produto__ ou __Especificações de SKU__, dependendo da sua necessidade.
-    ![skuexport.pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/cat%C3%A1logo/importa%C3%A7%C3%A3o-e-exporta%C3%A7%C3%A3o/exportar-e-importar-especificacoes-de-produto-e-de-sku_1.png)
+    ![skuexport.pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/cat%C3%A1logo/importa%C3%A7%C3%A3o-e-exporta%C3%A7%C3%A3o/exportar-e-importar-especificacoes-de-produto-e-de-sku_1.png)
 4. Clique com o botão direito na categoria desejada.
     Não é possível exportar especificações de todas as categorias de uma só vez. É preciso escolher apenas uma categoria cujas especificações você deseja exportar.
 5. Clique na opção `Exportar`.
     Um retângulo verde aparecerá na tela.
 6. Clique em `Clique aqui para baixar o arquivo`.
 
-![skuexport2.pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/cat%C3%A1logo/importa%C3%A7%C3%A3o-e-exporta%C3%A7%C3%A3o/exportar-e-importar-especificacoes-de-produto-e-de-sku_2.png)
+![skuexport2.pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/cat%C3%A1logo/importa%C3%A7%C3%A3o-e-exporta%C3%A7%C3%A3o/exportar-e-importar-especificacoes-de-produto-e-de-sku_2.png)
 
 > ℹ️ A planilha exportada ficará disponível por uma semana no seu email. Caso exceda esse prazo, siga o passo a passo de exportação novamente para gerar uma nova planilha.
 
@@ -55,7 +55,7 @@ Siga os passos abaixo para importar a planilha:
 2. Clique em __Selecionar__ para escolher o arquivo com a planilha preenchida no seu computador.
 3. Clique em `Importar`.
 
-![skuexport3.pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/cat%C3%A1logo/importa%C3%A7%C3%A3o-e-exporta%C3%A7%C3%A3o/exportar-e-importar-especificacoes-de-produto-e-de-sku_3.png)
+![skuexport3.pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/cat%C3%A1logo/importa%C3%A7%C3%A3o-e-exporta%C3%A7%C3%A3o/exportar-e-importar-especificacoes-de-produto-e-de-sku_3.png)
 
 ## Saiba mais
 - [Especificações de produto e de SKU](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP)

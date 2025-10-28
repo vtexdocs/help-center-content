@@ -19,6 +19,6 @@ O Hub de Extensões é uma seção do Admin que agrupa todas as informações e 
 
 Para acessar o Hub de Extensões, vá ao painel lateral esquerdo do Admin, clique no ícone **Extensões** e ele estará visível na parte superior do menu.
 
-![Extensions Hub painel](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/vtex-io/hub-de-extensoes/hub-de-extensoes-1_1.png)
+![Extensions Hub painel](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/vtex-io/hub-de-extensoes/hub-de-extensoes-1_1.png)
 
 No Hub de Extensões podem ser encontradas três páginas: **Loja de aplicativos**, **Parceiros** e **Gerenciamento de aplicativos**. A documentação sobre cada um deles pode ser vista nos artigos logo em seguida.

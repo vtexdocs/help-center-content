@@ -69,7 +69,7 @@ A continuación se listan las tags de los canales de venta que generan el pedido
 
 La siguiente imagen muestra como se asignan las tags de origen de pedido en el caso de marketplaces y sellers:
 
-![marcacao_pedidos_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/facturas/contratos/tags-de-pedidos-utilizadas-por-el-modulo-de-facturacion_1.png)
+![marcacao_pedidos_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/facturas/contratos/tags-de-pedidos-utilizadas-por-el-modulo-de-facturacion_1.png)
 
 > ⚠️ A través de acuerdos comerciales, VTEX otorga un tipo de certificación a determinados canales de venta. Cuando el pedido se generó en un canal de venta que no tiene este nivel de certificación, no hay tag de pedido por origen y el pedido se marca como `IsB2C`. Es decir, sólo los canales de venta certificados están marcados por origen.
 

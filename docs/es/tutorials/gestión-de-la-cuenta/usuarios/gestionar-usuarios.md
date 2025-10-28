@@ -19,7 +19,7 @@ La gestión de los usuarios con acceso al ambiente administrativo de su tienda V
 
 En esta sección, se mostrará la lista de usuarios con sus respectivos __Nombre__, __Email__ y configuración de __MFA__. También pueden verse las presentes opciones de búsqueda, exportación y creación de nuevos usuarios, así como editar y eliminar usuarios.
 
-![Lista Usuários User Management ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/gesti%C3%B3n-de-la-cuenta/usuarios/gestionar-usuarios_1.png)
+![Lista Usuários User Management ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/gesti%C3%B3n-de-la-cuenta/usuarios/gestionar-usuarios_1.png)
 
 > ⚠️ Cualquier usuario que desee gestionar usuarios o claves de aplicación debe tener un perfil que contenga el [recurso](/es/tutorial/recursos-del-license-manager--3q6ztrC8YynQf6rdc6euk3) **Save User**. Puedes utilizar, por ejemplo, el perfil predeterminado [User Administrator - RESTRICTED](/es/tutorial/roles-de-usuario-predefinidos--jGDurZKJHvHJS13LnO7Dy#user-administrator-restricted).
 
@@ -28,10 +28,10 @@ En esta sección, se mostrará la lista de usuarios con sus respectivos __Nombre
 1. En la barra superior de VTEX Admin, haga clic en el **avatar de tu perfil**, marcado con la inicial de tu correo electrónico, y luego en **Configuración de la cuenta** > **Cuenta**.
 2. Haga clic en el botón `+ Nuevo`.  
 3. Rellene el campo **Email**.  
-  ![Cadastro Novo usuário User Management ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/gesti%C3%B3n-de-la-cuenta/usuarios/gestionar-usuarios_2.png)
+  ![Cadastro Novo usuário User Management ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/gesti%C3%B3n-de-la-cuenta/usuarios/gestionar-usuarios_2.png)
 4. Haga clic en `+ Agregar roles`.
 5. Seleccione los [roles](/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) deseados, como se muestra en la imagen: 
-  ![Selecionar perfis User Management ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/gesti%C3%B3n-de-la-cuenta/usuarios/gestionar-usuarios_3.PNG)
+  ![Selecionar perfis User Management ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/gesti%C3%B3n-de-la-cuenta/usuarios/gestionar-usuarios_3.PNG)
 6. Haga clic en `Agregar rol` para confirmar la selección.
 7. Haga clic en `Guardar`.  
 
@@ -43,10 +43,10 @@ La contraseña debe tener al menos 8 caracteres, incluyendo un número, una letr
 
 1. En la barra superior de VTEX Admin, haga clic en el **avatar de tu perfil**, marcado con la inicial de tu correo electrónico, y luego en **Configuración de la cuenta** > **Cuenta**.
 2. Para editar un usuario ya registrado, haga clic en su nombre. Esto también es posible haciendo clic en los tres puntos al lado derecho del usuario en la lista y luego en la opción **Editar**.
-  ![Botão Editar Usuário User Management ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/gesti%C3%B3n-de-la-cuenta/usuarios/gestionar-usuarios_4.png)
+  ![Botão Editar Usuário User Management ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/gesti%C3%B3n-de-la-cuenta/usuarios/gestionar-usuarios_4.png)
   > ⚠️ El email no puede ser cambiado. Si desea hacer esto, se deberá realizar un nuevo registro.
 3. En la pantalla de edición, se pueden agregar o eliminar los [roles](/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) de los usuarios.  
-  ![Selecionar perfis User Management ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/gesti%C3%B3n-de-la-cuenta/usuarios/gestionar-usuarios_5.PNG)
+  ![Selecionar perfis User Management ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/gesti%C3%B3n-de-la-cuenta/usuarios/gestionar-usuarios_5.PNG)
 4. Haga clic en `Agregar rol` para confirmar la selección.
 5. Haga clic en `Guardar`.
 
@@ -59,9 +59,9 @@ La contraseña debe tener al menos 8 caracteres, incluyendo un número, una letr
 1. En la barra superior de VTEX Admin, haga clic en el **avatar de tu perfil**, marcado con la inicial de tu correo electrónico, y luego en **Configuración de la cuenta** > **Cuenta**.
 2. Para remover el acceso de un usuario, haga clic en botón con tres puntos <i class="fas fa-ellipsis-v"></i> al lado del usuario que desea eliminar.
 3. Haga clic en la opción **Eliminar**.  
-  ![Botão Excluir Usuário User Management ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/gesti%C3%B3n-de-la-cuenta/usuarios/gestionar-usuarios_6.png)
+  ![Botão Excluir Usuário User Management ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/gesti%C3%B3n-de-la-cuenta/usuarios/gestionar-usuarios_6.png)
 4. Confirme haciendo clic en `SÍ, ELIMINAR TODO ACCESO`.  
-  ![Confirmar Remover Acesso User Management ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/gesti%C3%B3n-de-la-cuenta/usuarios/gestionar-usuarios_7.png)
+  ![Confirmar Remover Acesso User Management ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/gesti%C3%B3n-de-la-cuenta/usuarios/gestionar-usuarios_7.png)
 
 ## Exportando datos de usuarios
 

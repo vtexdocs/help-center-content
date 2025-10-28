@@ -55,7 +55,7 @@ To allow customers to access the new store, follow the instructions below to cre
 7. Click `Save Website`.
 8. In the **Links** field, click `Add`.
 
-    ![cms-layout](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/account-management/accounts/managing-a-multistore_1.png)
+    ![cms-layout](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/account-management/accounts/managing-a-multistore_1.png)
 
 9. Complete the **Store name from License Manager** field with the value of the subaccount previously created in the [Account Management] module (#creating-a-store).
 10. Complete the **Available sales channel** field by selecting the trade policies that will be associated with this store.

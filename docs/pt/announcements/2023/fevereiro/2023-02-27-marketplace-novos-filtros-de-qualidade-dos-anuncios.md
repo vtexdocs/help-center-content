@@ -21,7 +21,7 @@ Para que marketplaces tenham mais controle sobre os critérios de aprovação de
 
 Dessa forma, os SKUs que chegam até o marketplace já estão de acordo com os requisitos que importam na curadoria de seu catálogo. 
 
-![Offer Quality gif](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2023/fevereiro/2023-02-27-marketplace-novos-filtros-de-qualidade-dos-anuncios_1.gif)
+![Offer Quality gif](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2023/fevereiro/2023-02-27-marketplace-novos-filtros-de-qualidade-dos-anuncios_1.gif)
 
 ## O que mudou? 
 

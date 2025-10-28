@@ -21,22 +21,22 @@ Puedes añadir medios a tu mensaje en nuestra plataforma. Ya sea imágenes, audi
 
   1. Dentro de tu proyecto, haz clic en el Módulo de Flujos;
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/flujos/agregar-midias-a-su-mensaje_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/flujos/agregar-midias-a-su-mensaje_1.png)
 
   2. Elige un flujo preexistente o crea uno nuevo;
   3. Añade una nueva carta de acción, haz clic en Archivos, elige entre las opciones URL de imagen, URL de audio, URL de video, URL de documento PDF o inserta la URL del medio seleccionado.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/flujos/agregar-midias-a-su-mensaje_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/flujos/agregar-midias-a-su-mensaje_2.png)
 
 Puedes elegir entre las 5 opciones mencionadas anteriormente.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/flujos/agregar-midias-a-su-mensaje_3.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/flujos/agregar-midias-a-su-mensaje_3.png)
 
 #### Usando un archivo de tu computadora
 
 Añade una nueva carta de acción, haz clic en Archivos, elige la opción **Enviar Archivo** y selecciona el archivo directamente desde tu computadora.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/flujos/agregar-midias-a-su-mensaje_4.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/flujos/agregar-midias-a-su-mensaje_4.png)
 
 #### Limitaciones
 

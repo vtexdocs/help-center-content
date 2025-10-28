@@ -54,13 +54,13 @@ Para empezar a utilizar Pick and Pack, es necesario tener acceso a la [aplicaci�
 
 Ingresa tu usuario debidamente registrado, contraseña y haz clic en  **iniciar sesión**.
 
-![pick and pack 1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/vtex-pick-and-pack/vtex-pick-and-pack-fulfillment_1.png)
+![pick and pack 1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/vtex-pick-and-pack/vtex-pick-and-pack-fulfillment_1.png)
 
 ## Página de inicio
 
 Al acceder, se habilita el dashboard del alistador, que te permitirá monitorizar, analizar y visualizar los indicadores clave de desempeño del alistador.
 
-![pick and pack 2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/vtex-pick-and-pack/vtex-pick-and-pack-fulfillment_2.png)
+![pick and pack 2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/vtex-pick-and-pack/vtex-pick-and-pack-fulfillment_2.png)
 
 - Permite visualizar de manera gráfica la cantidad de pedidos alistados durante los últimos días.
 - Puedes consultar la cantidad de pedidos con alistamiento finalizado.
@@ -72,11 +72,11 @@ En la sección superior de la aplicación podrás encontrar las siguientes funci
 
 - **Selección de instalación,** ubicada a la derecha del ícono del usuario alistador. Al tocar, indica las instalaciones asociadas al usuario.
 
-![pick and pack 3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/vtex-pick-and-pack/vtex-pick-and-pack-fulfillment_3.png)
+![pick and pack 3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/vtex-pick-and-pack/vtex-pick-and-pack-fulfillment_3.png)
 
 - **Menú**, donde figuran los accesos directos a las funcionalidades principales de la aplicación.
 
-![pick and pack 4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/vtex-pick-and-pack/vtex-pick-and-pack-fulfillment_4.png)
+![pick and pack 4](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/vtex-pick-and-pack/vtex-pick-and-pack-fulfillment_4.png)
 
 ## Proceso de alistamiento
 
@@ -92,9 +92,9 @@ Los pedidos en color rojo son aquellos que llevan mucho tiempo sin ser gestionad
 
 Elige los pedidos que deseas gestionar y haz clic en la opción  **Empezar a alistar.** En ese momento el sistema crea las hojas de trabajo, con su respectivo número de identificación, que estarán compuestas por los ítems de los pedidos seleccionados.
 
-![pick and pack 5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/vtex-pick-and-pack/vtex-pick-and-pack-fulfillment_5.png)
+![pick and pack 5](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/vtex-pick-and-pack/vtex-pick-and-pack-fulfillment_5.png)
 
-![pick and pack 6](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/vtex-pick-and-pack/vtex-pick-and-pack-fulfillment_6.png)
+![pick and pack 6](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/vtex-pick-and-pack/vtex-pick-and-pack-fulfillment_6.png)
 
 De igual manera, se  habilitarán las acciones de alistamiento para cada producto que compone los pedidos asociados a las hojas de trabajo.
 
@@ -104,7 +104,7 @@ Hay varias formas de iniciar el alistamiento de los productos:
 
 Sitúate sobre el producto que deses alistar, y desliza hacia la izquierda.
 
-![pick and pack 7](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/vtex-pick-and-pack/vtex-pick-and-pack-fulfillment_7.png)
+![pick and pack 7](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/vtex-pick-and-pack/vtex-pick-and-pack-fulfillment_7.png)
 
 Si se pulsa una vez sobre el producto, solo será alistada una unidad. Si se pulsa dos veces, se alistarán todas las unidades.
 
@@ -114,15 +114,15 @@ Existen varias formas de rechazar un producto:
 
 Sitúate en el producto que deseas alistar, y desliza hacia el lado derecho.
 
-![pick and pack 8](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/vtex-pick-and-pack/vtex-pick-and-pack-fulfillment_8.png)
+![pick and pack 8](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/vtex-pick-and-pack/vtex-pick-and-pack-fulfillment_8.png)
 
 Mantén pulsado el producto y se desplegará un menú, donde puedes seleccionar Descartar ítem.
 
-![pick and pack 9](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/vtex-pick-and-pack/vtex-pick-and-pack-fulfillment_9.png)
+![pick and pack 9](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/vtex-pick-and-pack/vtex-pick-and-pack-fulfillment_9.png)
 
 Después, debe incluirse el motivo del rechazo. Si lo deseas, puedes rechazar una cantidad específica, ingresando la cifra para después pulsar la opción Descartar unidades. También puedes descartarlas todas, como se muestra en la captura de pantalla a continuación.
 
-![pick and pack 10](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/vtex-pick-and-pack/vtex-pick-and-pack-fulfillment_10.png)
+![pick and pack 10](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/vtex-pick-and-pack/vtex-pick-and-pack-fulfillment_10.png)
 
 ### Reemplazar ítems
 
@@ -130,17 +130,17 @@ La opción **Reemplazar ítem** se encuentra en el menú que se despliega al toc
 
 Si se accede a **Reemplaza ítem**, el sistema valida los pedidos a los que pertenece el producto. Si existen pedidos que comparten productos el sistema habilita el listado de los pedidos asociados.
 
-![pick and pack 11](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/vtex-pick-and-pack/vtex-pick-and-pack-fulfillment_11.png)
+![pick and pack 11](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/vtex-pick-and-pack/vtex-pick-and-pack-fulfillment_11.png)
 
 Selecciona los pedidos deseados y toca la opción **Reemplazar en los pedidos seleccionados.** Después, el sistema habilitará la pantalla **Reemplazar ítem.**
 
 La pantalla Reemplazar ítem habilita los productos asociados al producto a reemplazar. Puedes utilizar el filtro de búsqueda.
 
-![pick and pack 12](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/vtex-pick-and-pack/vtex-pick-and-pack-fulfillment_12.png)
+![pick and pack 12](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/vtex-pick-and-pack/vtex-pick-and-pack-fulfillment_12.png)
 
 Selecciona el producto deseado y haz clic en  la opción Reemplazar ítem: el sistema habilitará los campos de reemplazo.
 
-![pick and pack 13](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/vtex-pick-and-pack/vtex-pick-and-pack-fulfillment_13.png)
+![pick and pack 13](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/vtex-pick-and-pack/vtex-pick-and-pack-fulfillment_13.png)
 
 Se pueden ingresar los siguientes datos:
 - Precio.
@@ -155,7 +155,7 @@ Toca la opción **Confirmar reemplazo.**
 
 Para ingresar observaciones sobre el producto, accede al menú del ítem y después a la opción **Agregar observaciones.**
 
-![pick and pack 14](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/vtex-pick-and-pack/vtex-pick-and-pack-fulfillment_14.png)
+![pick and pack 14](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/vtex-pick-and-pack/vtex-pick-and-pack-fulfillment_14.png)
 
 Si existen pedidos que comparten producto, selecciona el pedido al que debe asociarse la observación. Ingresa la observación y toca la opción **Agregar observación.**
 
@@ -167,7 +167,7 @@ Para ingresar observaciones a la hoja de trabajo, nos ubicamos en el menú y sel
 - **Pausar alistamiento:** al hacer clic sobre esta opción, la hoja de trabajo queda en estado de pausa para no afectar el rendimiento del alistador.
 - **Imprimir lista de alistamiento:** disponibiliza un documento que enumera los ítems alistados de cada pedido.
 
-![pick and pack 15](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/vtex-pick-and-pack/vtex-pick-and-pack-fulfillment_15.png)
+![pick and pack 15](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/vtex-pick-and-pack/vtex-pick-and-pack-fulfillment_15.png)
 
 ## Proceso de empaquetado
 
@@ -177,13 +177,13 @@ Existen varias formas de iniciar el empaque.
 
 En el dashboard se encuentra la opción **Para empaquetar;** al acceder, nos redirige a la lista de hojas de trabajo pendientes por empacar. Desde el menú, accedemos a la lista de **Empaquetado** ubicada dentro de la opción **Pendiente.**
 
-![pick and pack 15](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/vtex-pick-and-pack/vtex-pick-and-pack-fulfillment_16.png)
+![pick and pack 15](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/vtex-pick-and-pack/vtex-pick-and-pack-fulfillment_16.png)
 
 Dentro de la pestaña **Empaquetado** seleccionamos la hoja de trabajo que se encuentre en estado Listo para empaquetar o Empaquetado para iniciar o continuar el proceso de empaque.
 
 Al acceder encontramos la lista de productos, donde podemos realizar un empaque individual o en masa.
 
-![pick and pack 16](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/vtex-pick-and-pack/vtex-pick-and-pack-fulfillment_17.png)
+![pick and pack 16](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/vtex-pick-and-pack/vtex-pick-and-pack-fulfillment_17.png)
 
 ### Empaquetado individual o en masa
 
@@ -195,7 +195,7 @@ Al tocar, se abre una ventana donde seleccionar el pedido para hacer el empaque 
 
 Verifica los productos del pedido que seleccionaste y toca la opción Empaquetar producto.
 
-![pick and pack 17](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/vtex-pick-and-pack/vtex-pick-and-pack-fulfillment_18.png)
+![pick and pack 17](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/vtex-pick-and-pack/vtex-pick-and-pack-fulfillment_18.png)
 
 #### Empaquetado individual
 
@@ -211,7 +211,7 @@ Agrega las unidades y selecciona la opción **Empaquetar producto.**
 
 Una vez alistados todos los ítems, debes realizar el proceso de envío seleccionando desde el menú la opción **Para enviar.**
 
-![pick and pack 18](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/vtex-pick-and-pack/vtex-pick-and-pack-fulfillment_19.png)
+![pick and pack 18](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/vtex-pick-and-pack/vtex-pick-and-pack-fulfillment_19.png)
 
 Se abrirá el listado de pedidos que se encuentran listos para envío, organizados por fecha de empaque. Haz clic sobre el pedido que deseas enviar.
 
@@ -225,7 +225,7 @@ Para crear el servicio de envío, deben proporcionarse los siguientes datos:
 
 Al terminar, toca en la opción **Seleccionar y continuar.**
 
-![pick and pack 18](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/vtex-pick-and-pack/vtex-pick-and-pack-fulfillment_20.png)
+![pick and pack 18](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/vtex-pick-and-pack/vtex-pick-and-pack-fulfillment_20.png)
 
 Verifica los datos del servicio y haz clic en la opción **Crear servicio.**
 
@@ -253,7 +253,7 @@ Posee un filtro de búsqueda configurable según la necesidad de resultado del u
 
 Cuenta con un botón para **cerrar** ventana, o en su defecto, para **borrar todos** los filtros seleccionados.
 
-![pick and pack 20](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/vtex-pick-and-pack/vtex-pick-and-pack-fulfillment_21.png)
+![pick and pack 20](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/vtex-pick-and-pack/vtex-pick-and-pack-fulfillment_21.png)
 
 La  sección Pedidos muestra la tabla de datos sin filtrar, con las opciones:
 
@@ -311,7 +311,7 @@ También posee la opción de Fijado, donde el usuario puede acceder a los pedido
 
 Además, cuenta con un filtro de búsqueda que permite encontrar los pedidos según la necesidad del usuario.
 
-![pick and pack 21](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/vtex-pick-and-pack/vtex-pick-and-pack-fulfillment_22.png)
+![pick and pack 21](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/vtex-pick-and-pack/vtex-pick-and-pack-fulfillment_22.png)
 
 ## Configuración de la aplicación
 

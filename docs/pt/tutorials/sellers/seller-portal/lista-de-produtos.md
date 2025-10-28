@@ -17,7 +17,7 @@ subcategoryId: 4hisB47iAVZk4r3SEmMoG
 
 A página **Produtos** permite visualizar e gerenciar a lista completa de produtos cadastrados na sua loja, simplificando a gestão do catálogo no Seller Portal. Você pode acessar a página através do menu **Catálogo** no Admin VTEX.
 
-![product-list-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/sellers/seller-portal/lista-de-produtos_1.png)
+![product-list-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/sellers/seller-portal/lista-de-produtos_1.png)
 
 A partir da lista de produtos, você pode realizar uma variedade de ações:
 

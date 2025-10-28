@@ -17,7 +17,7 @@ subcategoryId: 5yDQmr18K4GgQAeGwq8USa
 
 El **Informe de Indexación** es el reporte que indica el status de indexación de todos los productos de la tienda. 
 
-![productosindexados](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/informes/utilizando-el-informe-de-indexacion_1.png)
+![productosindexados](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/informes/utilizando-el-informe-de-indexacion_1.png)
 
 > ℹ️ **Nota:** Acceda a ver más información en [Entendiendo el funcionamiento de la indexación.](/es/tutorial/entendiendo-el-funcionamento-de-la-indexacion)
 

@@ -17,7 +17,7 @@ subcategoryId: 2basvwwwR3pbjG1BxlHqrc
 
 O recurso de **Rankings** permite criar competições entre vendedores ou lojas, estimulando a performance em um ambiente saudável.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/rankings-e-campanhas/criar-rankings-para-acompanhar-desempenho-na-plataforma-indeva_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/rankings-e-campanhas/criar-rankings-para-acompanhar-desempenho-na-plataforma-indeva_1.png)
 
 ## Criar ranking
 

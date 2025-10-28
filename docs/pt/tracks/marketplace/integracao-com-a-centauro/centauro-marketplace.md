@@ -17,7 +17,7 @@ order: 1
 
 A Centauro é maior rede de lojas esportivas da América Latina, presente em mais de 22 estados e com mais de 190 lojas. Seu site possui 15 milhões de visitantes únicos por mês, 5 milhões de usuários conectados por mês via redes sociais.  
 
-![logo centauro](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/marketplace/integracao-com-a-centauro/centauro-marketplace_1.jpg)
+![logo centauro](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/marketplace/integracao-com-a-centauro/centauro-marketplace_1.jpg)
 
 Usando a integração nativa com o Marketplace da Centauro, você poderá expor e vender seus produtos na loja online.
 

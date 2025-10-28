@@ -22,7 +22,7 @@ El primer paso es realizar un request GET con nuestra [API de Product by Id](htt
 
 La respuesta de esta llamada trae la información de `DepartmentId` y `CategoryId`, como podemos ver en la siguiente imagen:
 
-![department-id-category-id](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/marketing-and-merchandising/por-que-mi-producto-aparece-en-la-categoria-incorrecta_1.png)
+![department-id-category-id](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/marketing-and-merchandising/por-que-mi-producto-aparece-en-la-categoria-incorrecta_1.png)
 
 Después, usted debe comparar esta respuesta con los Ids que aparecen en su árbol de categoría. Para acceder a su árbol de categorías, siga los pasos abajo:
 

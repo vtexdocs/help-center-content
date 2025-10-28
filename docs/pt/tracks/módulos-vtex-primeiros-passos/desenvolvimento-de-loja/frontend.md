@@ -27,7 +27,7 @@ A maneira como essa extensão de funcionalidades ocorre é através de apps VTEX
 
 O Store Framework é uma solução para construção de frente de loja que se alavanca do VTEX IO. Através dela podemos contar com a interface amigável do [Site Editor](/pt/tutorial/site-editor-overview--299Dbeb9mFczUTyNQ9xPe1) e tornar o gerenciamento de conteúdo da loja mais simples.
 
-![vtex io](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/m%C3%B3dulos-vtex-primeiros-passos/desenvolvimento-de-loja/frontend_1.png)
+![vtex io](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/m%C3%B3dulos-vtex-primeiros-passos/desenvolvimento-de-loja/frontend_1.png)
 
 Lojas criadas com o Store Framework também contam com as features de: 
 - **[Intelligent Search](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG)**: ferramenta de busca, que corrige erros ortográficos e possibilita regras condicionais para exibição do resultado de busca.

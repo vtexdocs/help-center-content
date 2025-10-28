@@ -28,7 +28,7 @@ La nueva interfaz de **Productos y SKUs** permite:
 - Monitorear el status de los productos y SKU de forma más directa y visual con iconos y status de SKU directamente en la lista.
 - Identificar más fácilmente los productos y SKU que tengan información pendiente para estar disponibles para la venta mediante el nuevo status **Pendiente**.
 
-![catalog-products-skus-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2023/abril/2023-04-10-nuevo-diseno-de-la-pagina-productos-y-sku_1.png)
+![catalog-products-skus-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2023/abril/2023-04-10-nuevo-diseno-de-la-pagina-productos-y-sku_1.png)
 
 ## ¿Por qué realizamos este cambio?
 

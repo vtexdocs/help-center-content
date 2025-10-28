@@ -60,7 +60,7 @@ You should choose the closest color match, which in Wish's case can be "White/Ic
 
 > ℹ️ The table's header should be filled in exactly as in the example below. Remember to not add any special characters such as "enter" or "space" when filling this table in.
 
-![PT - Tabela Wish](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/marketplace/wish-integration/mapping-colors-and-sizes_1.png)
+![PT - Tabela Wish](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/marketplace/wish-integration/mapping-colors-and-sizes_1.png)
 
 ## Uploading the spreadsheet
 

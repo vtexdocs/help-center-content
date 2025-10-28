@@ -88,7 +88,7 @@ Ao falar de implementação de frontend, é preciso lembrar que o [VTEX IO](http
 
 Isso significa que ao trabalhar com VTEX IO, a pessoa desenvolve seu código localmente. Porém, quando se trata de implantar e executar a loja, o VTEX IO gerencia a infraestrutura, CI/CD e segurança, além de cuidar do processo de implantação. A imagem abaixo apresenta como estes conceitos se relacionam entre si:
 
-![Arquitetura de desenvolvimento frontend](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/guia-de-onboarding/trilha-da-loja-vtex/implementacao-de-frontend_1.png)
+![Arquitetura de desenvolvimento frontend](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/guia-de-onboarding/trilha-da-loja-vtex/implementacao-de-frontend_1.png)
 
 ### Principais funcionalidades do Store Framework
 
@@ -220,7 +220,7 @@ O time de desenvolvimento deve iniciar um novo projeto com a FastStore através 
 - *Product Details Page* (PDP)
 - *Minicart*
 
-![FastStore template](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/guia-de-onboarding/trilha-da-loja-vtex/implementacao-de-frontend_2.png)
+![FastStore template](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/guia-de-onboarding/trilha-da-loja-vtex/implementacao-de-frontend_2.png)
 
 #### Requisitos para um MVP da FastStore
 
@@ -273,7 +273,7 @@ O time de desenvolvimento deve iniciar um novo projeto com o Store Framework clo
 - *Product Listing Page* (PLP)
 - *Product Details Page* (PDP)
 
-![Store Framework template](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/guia-de-onboarding/trilha-da-loja-vtex/implementacao-de-frontend_3.png)
+![Store Framework template](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/guia-de-onboarding/trilha-da-loja-vtex/implementacao-de-frontend_3.png)
 
 #### Requisitos para um MVP do Store Framework
 

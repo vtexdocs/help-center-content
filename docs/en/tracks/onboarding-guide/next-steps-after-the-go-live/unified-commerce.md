@@ -21,7 +21,7 @@ order: 2
 
 [Franchise accounts](/en/tutorial/what-is-a-franchise-account--kWQC6RkFSCUFGgY5gSjdl) are accounts associated with a [main account](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl). Companies with multiple physical stores, franchisees, or multi-brands can create franchise accounts associated with the brand's main account.
 
-![main account](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/onboarding-guide/next-steps-after-the-go-live/unified-commerce_1.png)
+![main account](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/onboarding-guide/next-steps-after-the-go-live/unified-commerce_1.png)
 
 This model shares Catalog and [storefront](/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ) information, allowing the franchise accounts' inventory to be available for sale in the main store. It also supports different unified commerce strategies, such as [ship from store](#ship-from-store), [physical stores as pickup points](#pickup-points), and [endless aisle](/en/tracks/next-steps-after-the-go-live--3J7WFZyvTcoiwkcIVFVhIS/1t2QBZvrOBSLgvHaAV9fYm).
 

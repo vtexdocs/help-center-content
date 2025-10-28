@@ -19,14 +19,14 @@ From now on, your store can use a semicolon (`;`) to concatenate e-mail addresse
 
 This feature works for both the copy field (`Cc`) and the hidden copy field (`Bcc`), just as the comma already worked. The two concatenation options are now valid.
 
-![Message Center bug fix - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2018/august/2018-08-13-mudanca-na-concatenacao-reduz-erros-no-envio-de-e-mails_1.png)
+![Message Center bug fix - EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2018/august/2018-08-13-mudanca-na-concatenacao-reduz-erros-no-envio-de-e-mails_1.png)
 
 This simple change in the module responsible for sending transactional emails dramatically reduced the error rate on customer communications.
 
 The chart below shows the error rate of a store before we implemented the support for semicolon concatenation. More than 90% of e-mails failed every day.
 
-![Message Center bug fix 2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2018/august/2018-08-13-mudanca-na-concatenacao-reduz-erros-no-envio-de-e-mails_2.png)
+![Message Center bug fix 2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2018/august/2018-08-13-mudanca-na-concatenacao-reduz-erros-no-envio-de-e-mails_2.png)
 
 After the improvement was implemented, the errors in sending transactional emails from the same store were completely eliminated, as this other chart shows:
 
-![Message Center bug fix 3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2018/august/2018-08-13-mudanca-na-concatenacao-reduz-erros-no-envio-de-e-mails_3.png)
+![Message Center bug fix 3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2018/august/2018-08-13-mudanca-na-concatenacao-reduz-erros-no-envio-de-e-mails_3.png)

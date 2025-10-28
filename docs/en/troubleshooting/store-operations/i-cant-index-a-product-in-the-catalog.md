@@ -116,4 +116,4 @@ For accounts with 100,000 or more products, please contact [VTEX Support](/en/fa
 
 Learn more in [Database Maintenance (Full Cleanup)](/en/tutorial/database-maintenance-full-cleanup--34P9LGs7BCIQK6acQom802).
 
-![Schedule full reindexing](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/troubleshooting/store-operations/i-cant-index-a-product-in-the-catalog_1.png)
+![Schedule full reindexing](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/troubleshooting/store-operations/i-cant-index-a-product-in-the-catalog_1.png)

@@ -17,7 +17,7 @@ order: 9
 
 Al hacer clic en los detalles de un producto que aparece en los resultados de búsqueda de VTEX Sales App, o al leer el código de un producto, el vendedor se dirige a la pantalla de detalles del producto.
 
-![instore-pdp-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/omnichannel/instore-usando-el-app/detalles-del-producto_1.png)
+![instore-pdp-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/omnichannel/instore-usando-el-app/detalles-del-producto_1.png)
 
 Esta pantalla muestra el nombre del producto, su galería de fotos, variaciones, descripción y disponibilidad. El vendedor puede, en esta pantalla, agregar el producto al carrito.
 

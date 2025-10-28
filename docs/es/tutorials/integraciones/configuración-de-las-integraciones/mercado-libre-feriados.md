@@ -25,7 +25,7 @@ Los días sin envío solo pueden configurarse hasta un máximo de dos días labo
 
 La tienda puede marcar este feriado como día sin envío, como máximo, hasta el martes, 23 de diciembre. Pasada esa fecha, el feriado aparecerá con el status **Vencido**, tal como se muestra en la imagen siguiente:
 
-![Mercado Liibre Días no laborales](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/configuraci%C3%B3n-de-las-integraciones/mercado-libre-feriados_1.jpg)
+![Mercado Liibre Días no laborales](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/configuraci%C3%B3n-de-las-integraciones/mercado-libre-feriados_1.jpg)
 
 En la página **Feriados** se listan los días feriados de los próximos dos meses. Para acceder y configurarlos sigue los pasos a continuación:
 

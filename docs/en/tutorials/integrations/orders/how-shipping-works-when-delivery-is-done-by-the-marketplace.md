@@ -44,7 +44,7 @@ As with the OMS interface, the API shows `vtex:fob_1111` in the selectedSla, del
 
 It is important that the ERP is able to accept data in this format.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/integrations/orders/how-shipping-works-when-delivery-is-done-by-the-marketplace_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/integrations/orders/how-shipping-works-when-delivery-is-done-by-the-marketplace_1.png)
 
 ## Label
 
@@ -52,6 +52,6 @@ The order is mailed under an agreement between Correios (national postal service
 
 The label can be accessed directly through OMS, under the order list. Just click on the link and a new window will open with the label in PDF format.
 
-![Delivery label by Correios (BR) - Marketplace](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/integrations/orders/how-shipping-works-when-delivery-is-done-by-the-marketplace_2.png)
+![Delivery label by Correios (BR) - Marketplace](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/integrations/orders/how-shipping-works-when-delivery-is-done-by-the-marketplace_2.png)
 
 If you want to make use of the label in your ERP, it is also available in the [Marketplace Protocol API](https://developers.vtex.com/docs/api-reference/marketplace-protocol-external-marketplace-orders#post-/api/order-integration/orders), more information in [New Order Integration](https://developers.vtex.com/docs/guides/external-marketplace-integration-collect-orders#scenario-12-order-with-tracking-hints).

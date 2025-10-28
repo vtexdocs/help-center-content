@@ -19,7 +19,7 @@ A palavra-chave é a primeira palavra em uma mensagem e pode ser usada para inic
 
 Todos os passos aqui descritos serão realizados na guia ""**Disparadores**"", localizada dentro do módulo ""**Estúdio**"".
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/tipos-de-gatilho_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/tipos-de-gatilho_1.png)
 
 Para facilitar a navegação neste artigo, caso queira ir diretamente para um tipo de gatilho específico, basta clicar no nome dele abaixo:
 
@@ -36,7 +36,7 @@ Para facilitar a navegação neste artigo, caso queira ir diretamente para um ti
 
 -  Clique no botão ""**Criar uma palavra-chave que inicie um fluxo**""
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/tipos-de-gatilho_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/tipos-de-gatilho_2.png)
 
 - Em **palavra-chave**, você pode definir uma palavra para funcionar como palavra-chave
 
@@ -52,7 +52,7 @@ Para facilitar a navegação neste artigo, caso queira ir diretamente para um ti
 
 - Clique na caixa **Criar disparador**
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/tipos-de-gatilho_3.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/tipos-de-gatilho_3.png)
 
 ### Criando uma palavra-chave de mensagem que permite que as pessoas ingressem em um grupo
 
@@ -62,7 +62,7 @@ Usando esse gatilho para adicionar um contato de ingresso em um grupo. Esse gati
 
 -    Clique no botão ""Criar uma palavra-chave de mensagem que permita que as pessoas se juntem a um grupo"":
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/tipos-de-gatilho_4.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/tipos-de-gatilho_4.png)
 
 -    Introduza uma palavra-chave em ""Juntar palavra-chave""
 
@@ -72,7 +72,7 @@ Usando esse gatilho para adicionar um contato de ingresso em um grupo. Esse gati
 
 -   Em ""Fluxo"", você pode escolher qual fluxo será iniciado
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/tipos-de-gatilho_5.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/tipos-de-gatilho_5.png)
 
 ### Iniciar um fluxo depois de receber uma mensagem não tratada em outro lugar
 
@@ -81,7 +81,7 @@ xo.
 
 -    Clique no botão ""Iniciar um fluxo após receber uma mensagem que não corresponda a nenhuma palavra-chave""
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/tipos-de-gatilho_6.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/tipos-de-gatilho_6.png)
 
 -   Em ""Fluxo"", você pode escolher qual fluxo será iniciado
 
@@ -91,7 +91,7 @@ xo.
 
 -   Clique em ""Criar disparador""
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/tipos-de-gatilho_7.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/tipos-de-gatilho_7.png)
 
 ### Iniciar um fluxo futuramente ou segundo agendamento
 
@@ -99,11 +99,11 @@ Use este gatilho para agendar um fluxo em um momento no futuro, o repita diariam
 
 -    Clique no botão ""Iniciar um fluxo no futuro ou segundo agendamento"
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/tipos-de-gatilho_8.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/tipos-de-gatilho_8.png)
 
 -    Escolha a data que gostaria de agendar
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/tipos-de-gatilho_9.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/tipos-de-gatilho_9.png)
 
 -    Logo abaixo, em Repeat. Você pode optar por repetir o fluxo diariamente, semanalmente ou mensalmente (sendo opcional tal uso)
 
@@ -114,7 +114,7 @@ Use este gatilho para agendar um fluxo em um momento no futuro, o repita diariam
 ### Iniciar um fluxo depois de receber uma chamada
 
 -  Clique no botão ""Comece um fluxo depois de receber uma chamada"":
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/tipos-de-gatilho_10.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/tipos-de-gatilho_10.png)
 
 -    Em ""Fluxo"", você pode escolher qual fluxo será iniciado
 
@@ -124,13 +124,13 @@ Use este gatilho para agendar um fluxo em um momento no futuro, o repita diariam
 
 -   Clique em ""Criar Disparador""
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/tipos-de-gatilho_11.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/tipos-de-gatilho_11.png)
 
 ### Iniciar um fluxo depois de uma chamada perdidaUse este gatilho após uma chamada perdida.
 
 -    Clique no botão ""Comece um fluxo após uma chamada perdida""
 
--  ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/tipos-de-gatilho_12.png)
+-  ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/tipos-de-gatilho_12.png)
 
 -    Em ""Fluxo"", você pode escolher qual fluxo será iniciado
 
@@ -139,14 +139,14 @@ Use este gatilho para agendar um fluxo em um momento no futuro, o repita diariam
 -  se você deixar o campo vazio, o gatilho será aplicado a todos os contatos
 
 -   Clique em ""Criar Disparador""
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/tipos-de-gatilho_13.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/tipos-de-gatilho_13.png)
 
 ### Iniciar um fluxo posterior ao fechamento de ticket com agente humano
 
 Use este gatilho para disparar o fluxo de encerramento de atendimento humano no Weni Chats.
 
 -    Clique no botão ""Start a flow after a ticket is closed"":
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/tipos-de-gatilho_14.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/tipos-de-gatilho_14.png)
 
 -    Em ""Fluxo"", você pode escolher qual fluxo será iniciado
 
@@ -155,4 +155,4 @@ Use este gatilho para disparar o fluxo de encerramento de atendimento humano no 
 -  se você deixar o campo vazio, o gatilho será aplicado a todos os contatos
 
 -   Clique em ""Criar Disparador""
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/tipos-de-gatilho_15.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/tipos-de-gatilho_15.png)

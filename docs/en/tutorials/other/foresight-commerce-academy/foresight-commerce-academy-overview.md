@@ -20,7 +20,7 @@ order: 1
 
 With relevant content taught by digital commerce and VTEX technology experts, Foresight empowers professionals to boost their careers and contributes to strengthening partners, customers, and, ultimately, the VTEX ecosystem, preparing companies and individuals for the challenges and opportunities of the global market.
 
-![Foresight_1_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/other/foresight-commerce-academy/foresight-commerce-academy-overview_1.png)
+![Foresight_1_EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/other/foresight-commerce-academy/foresight-commerce-academy-overview_1.png)
 
 To access the __Foresight Commerce Academy__, you must register as a [subscriber member](https://www.commerceacademy.org/pricing) or request a [free account](https://www.commerceacademy.org/registration/freemium) (limited content).
 
@@ -45,7 +45,7 @@ Follow the steps below to access a program:
 2. Click the program you want.
 3. Access each module and watch all the lessons to complete the program.
 
-![Foresight Commerce Academy_gif1_en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/other/foresight-commerce-academy/foresight-commerce-academy-overview_2.gif)
+![Foresight Commerce Academy_gif1_en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/other/foresight-commerce-academy/foresight-commerce-academy-overview_2.gif)
 
 ### Credentials
 
@@ -59,7 +59,7 @@ Follow the steps below to access the content on credentials:
 2. Click the credential you want.
 3. Click the desired video lesson on the right side of the screen.
 
-![Foresight Commerce Academy_gif2_en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/other/foresight-commerce-academy/foresight-commerce-academy-overview_3.gif)
+![Foresight Commerce Academy_gif2_en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/other/foresight-commerce-academy/foresight-commerce-academy-overview_3.gif)
 
 For more information about the registration process, such as fees and exam dates, go to [Credentials by EICOM](https://www.eicom.org/credentials#credentials). 
 
@@ -72,7 +72,7 @@ Follow the steps below to access a community on the platform:
 1. On the main page, click __Communities__ in the top menu.
 2. Click the __Sign in__ button to join the community you want.
 
-![Foresight Commerce Academy_gif3_en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/other/foresight-commerce-academy/foresight-commerce-academy-overview_4.gif)
+![Foresight Commerce Academy_gif3_en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/other/foresight-commerce-academy/foresight-commerce-academy-overview_4.gif)
 
 Within the community page, you can access the following resources:
 
@@ -80,7 +80,7 @@ Within the community page, you can access the following resources:
 - A community message feed.
 - Platform ranking information.
 
-![Foresight Commerce Academy_gif4_en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/other/foresight-commerce-academy/foresight-commerce-academy-overview_5.gif)
+![Foresight Commerce Academy_gif4_en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/other/foresight-commerce-academy/foresight-commerce-academy-overview_5.gif)
 
 ### Ranking
 
@@ -92,7 +92,7 @@ For every activity performed, you get a specific score. Here's how to get points
 - __Community score:__ Interact with the community by creating a post or replying to comments, for example.
 - __Daily score:__ Complete specific tasks on the same day to get extra points, such as attending 10 lessons in one day.
 
-![Foresight Commerce Academy_gif5_en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/other/foresight-commerce-academy/foresight-commerce-academy-overview_6.gif)
+![Foresight Commerce Academy_gif5_en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/other/foresight-commerce-academy/foresight-commerce-academy-overview_6.gif)
 
 ## Access and settings
 
@@ -112,7 +112,7 @@ The __Favorites__ page shows all the video lessons accessed by the user and high
 
 To set a lesson as a favorite, open the video and click the heart icon at the bottom of the screen.
 
-![Foresight Commerce Academy_gif6_en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/other/foresight-commerce-academy/foresight-commerce-academy-overview_7.gif)
+![Foresight Commerce Academy_gif6_en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/other/foresight-commerce-academy/foresight-commerce-academy-overview_7.gif)
 
 ### Search and settings
 
@@ -123,7 +123,7 @@ At the top right of the homepage, you can activate the following functions:
 - __Notifications:__ Allows the platform to send notifications.
 - __Languages:__ Select the language in which the information will be displayed on the platform (English, Portuguese, or Spanish).
 
-![Foresight Commerce Academy_gif7_en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/other/foresight-commerce-academy/foresight-commerce-academy-overview_8.gif)
+![Foresight Commerce Academy_gif7_en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/other/foresight-commerce-academy/foresight-commerce-academy-overview_8.gif)
 
 > ⚠️ All video lessons are only available in English. To view subtitles in Portuguese, English, or Spanish, click the "cc" icon on the video player's control bar.
 
@@ -131,7 +131,7 @@ At the top right of the homepage, you can activate the following functions:
 
 At the top right of the homepage, you can check specific information about your account, such as profile data, favorites, ratings, and notifications.
 
-![Foresight Commerce Academy_gif8_en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/other/foresight-commerce-academy/foresight-commerce-academy-overview_9.gif)
+![Foresight Commerce Academy_gif8_en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/other/foresight-commerce-academy/foresight-commerce-academy-overview_9.gif)
 
 ### My profile
 
@@ -141,5 +141,5 @@ The __My profile__ section displays all information related to your settings and
 - Points earned for each type of activity.
 - The number of video lessons and courses completed to date.
 
-![Foresight Commerce Academy_gif9_en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/other/foresight-commerce-academy/foresight-commerce-academy-overview_10.gif)
+![Foresight Commerce Academy_gif9_en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/other/foresight-commerce-academy/foresight-commerce-academy-overview_10.gif)
 

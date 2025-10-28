@@ -19,7 +19,7 @@ Continuing the improvements made for [Mercado Libre certification](/en/announcem
 
 Prior to certification, sellers had to fill out the [mapping template](/en/tutorial/mapeamento-de-categorias-variacoes-e-atributos-do-mercado-libre--4xNFUZZmboCSUVdLCFo6eA) with the categories and attributes of the products they wanted to list on Mercado Libre. The new interface for mapping categories and attributes will replace the mapping template.
 
-![announcement mapperEN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2021/november/2021-11-19-mercado-libre-integration-new-interface-for-mapping-categories-and_1.gif)
+![announcement mapperEN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2021/november/2021-11-19-mercado-libre-integration-new-interface-for-mapping-categories-and_1.gif)
 
 ## What has changed?
 

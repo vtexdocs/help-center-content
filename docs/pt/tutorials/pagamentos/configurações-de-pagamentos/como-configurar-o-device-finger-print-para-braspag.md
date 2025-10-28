@@ -29,7 +29,7 @@ Para inserir os scripts que a Braspag/CyberSource exige para o device fingerprin
 
 ## Criação de variáveis (macros) e acionador
 
-- Crie a variável de nome `trasactionPaymentId`, tipo **Variável da camada de dados**, lendo a variável `transactionPayment.id` do datalayer.![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/configura%C3%A7%C3%B5es-de-pagamentos/como-configurar-o-device-finger-print-para-braspag_1.png)
+- Crie a variável de nome `trasactionPaymentId`, tipo **Variável da camada de dados**, lendo a variável `transactionPayment.id` do datalayer.![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/configura%C3%A7%C3%B5es-de-pagamentos/como-configurar-o-device-finger-print-para-braspag_1.png)
 - Crie a variável de nome `cs_sessionId`, com o tipo **JavaScript personalizado** e o seguinte código:
 
 ```
@@ -39,15 +39,15 @@ function() {
   }
 ```
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/configura%C3%A7%C3%B5es-de-pagamentos/como-configurar-o-device-finger-print-para-braspag_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/configura%C3%A7%C3%B5es-de-pagamentos/como-configurar-o-device-finger-print-para-braspag_2.png)
 
 - Crie as variáveis `cs_orgId` e `cs_merchantId` com o tipo **Permanente**. O valor dessas duas variáveis deverá ser preenchido com o conteúdo fornecido pela Braspag. Fique atento que esse valor também configura no conector da Braspag como **FingerPrint_MerchantId**.
 
-![gtm-cybersource-variavel3-permanente](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/configura%C3%A7%C3%B5es-de-pagamentos/como-configurar-o-device-finger-print-para-braspag_3.png)
+![gtm-cybersource-variavel3-permanente](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/configura%C3%A7%C3%B5es-de-pagamentos/como-configurar-o-device-finger-print-para-braspag_3.png)
 
 - Crie ou edite um acionador para a tela de OrderPlaced (tela de compra finalizada com sucesso), para que seja compatível com o evento de tipo **Evento personalizado** e de valor **orderPlaced**.
 
-![gtm-cybersource-acionador-orderplaced](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/configura%C3%A7%C3%B5es-de-pagamentos/como-configurar-o-device-finger-print-para-braspag_4.png)
+![gtm-cybersource-acionador-orderplaced](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/configura%C3%A7%C3%B5es-de-pagamentos/como-configurar-o-device-finger-print-para-braspag_4.png)
 
 ## Criação da tag para Braspag
 
@@ -66,6 +66,6 @@ Preencha com o seguinte código HTML:
 <script src="https://h.online-metrix.net/fp/check.js?org_id={{cs_orgId}}&amp;session_id={{cs_merchantId}}{{cs_sessionId}}" type="text/javascript"></script>
 ```
 
-![braspag fingerprint](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/configura%C3%A7%C3%B5es-de-pagamentos/como-configurar-o-device-finger-print-para-braspag_5.png)
+![braspag fingerprint](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/configura%C3%A7%C3%B5es-de-pagamentos/como-configurar-o-device-finger-print-para-braspag_5.png)
 
 Por fim, publique as alterações.

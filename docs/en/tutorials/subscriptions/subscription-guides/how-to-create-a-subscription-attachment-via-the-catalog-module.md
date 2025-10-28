@@ -85,11 +85,11 @@ The following images provide examples of how to complete the fields in the VTEX 
 
 * **Example of monthly frequency:** The image shows a monthly subscription where orders can be placed on the 1st, 15th, or 28th of each month.
 
-  ![EN Assinatura Exemplo Valores month](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/subscriptions/subscription-guides/how-to-create-a-subscription-attachment-via-the-catalog-module_1.png)
+  ![EN Assinatura Exemplo Valores month](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/subscriptions/subscription-guides/how-to-create-a-subscription-attachment-via-the-catalog-module_1.png)
 
 * **Example of a frequency every 3 weeks:** The image shows a subscription that generates new orders every 3 weeks, with purchases occurring on Sundays, Tuesdays, or Saturdays.
 
-  ![EN Assinatura Exemplo Valores week](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/subscriptions/subscription-guides/how-to-create-a-subscription-attachment-via-the-catalog-module_2.png)
+  ![EN Assinatura Exemplo Valores week](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/subscriptions/subscription-guides/how-to-create-a-subscription-attachment-via-the-catalog-module_2.png)
 
 ## 3. Associating a SKU with the subscription attachment
 

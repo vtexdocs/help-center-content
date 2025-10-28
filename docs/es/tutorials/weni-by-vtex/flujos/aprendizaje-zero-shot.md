@@ -44,21 +44,21 @@ Hay dos formas de crear una IA de clasificación de tipo Zero Shot en la Platafo
 
 Con la tarjeta **"" Esperar por respuesta inteligente""**, puede esperar la respuesta del usuario y enviar esa respuesta directamente a su Clasificación de IA, de modo que pueda crear sus categorías y tratar cada intención según desee:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/flujos/aprendizaje-zero-shot_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/flujos/aprendizaje-zero-shot_1.png)
 
 En el ejemplo siguiente, creamos las intenciones y sus respectivos contextos para que podamos categorizar y tratar las solicitudes del usuario:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/flujos/aprendizaje-zero-shot_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/flujos/aprendizaje-zero-shot_2.png)
 
 Recuerde, cada categoría debe tener una Frase de Comando. **Estas frases instruir án a la inteligencia y puede usar estos ejemplos:**
 - Cuando el usuario quiere saber cuáles son las modalidades y los plazos de entrega > Entrega
 - Cuando el usuario quiere saber por qué su pedido se retrasó o si se retrasará > Atraso
 - Cuando el usuario quiere reemplazar un producto o hablar sobre un producto que fue reemplazado o cambiar un artículo > Substitución
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/flujos/aprendizaje-zero-shot_3.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/flujos/aprendizaje-zero-shot_3.png)
 
 #### **Clasificar automáticamente **
 
 Con la tarjeta ""Clasificar automáticamente"", puede utilizar una expresión o variables como entrada para la clasificación de la intención (Clase) del usuario. Normalmente, esta tarjeta se usa cuando ya tiene un texto para tratar y no necesita esperar una respuesta del usuario antes de consultar la Inteligencia Artificial:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/flujos/aprendizaje-zero-shot_4.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/flujos/aprendizaje-zero-shot_4.png)

@@ -24,12 +24,12 @@ Para que as **UTMS** configuradas funcionem corretamente, é necessário que **
 2 - utm\_medium.  
 3 - utm\_campaign.
 
-![UTMs1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/shopping/utms_1.png)
+![UTMs1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/shopping/utms_1.png)
 
 Abaixo um exemplo de como o link deve ficar e como aparecerá no **RD Station**: 
 
 **[https://whts.co/marcelows](\"https://whts.co/marcelows\")**utm\_source=**facebook**&utm\_medium=cpc&utm\_campaign=nomecampanhaexemplo&utm\_term=palavrachaveYou
 
-![UTMs2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/shopping/utms_2.png)
+![UTMs2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/shopping/utms_2.png)
 
 Após estar com o link configurado, as origens de leads convertidos nesse link respeitarão as configurações inseridas por você.

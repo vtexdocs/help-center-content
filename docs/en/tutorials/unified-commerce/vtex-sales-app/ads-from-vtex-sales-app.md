@@ -61,14 +61,14 @@ To create an offer page for VTEX Sales App, follow the steps below:
 5. Select an offer type, either products or search results.
 
 - **Product custom display:** It will display each product and SKU (optional) that you specify. Add the following information: - **Custom display title:** Name of the custom display that will be displayed on the page. - **Product ID:** Identifier number of the product you want to display. Required field. - **Product SKU ID:** Iidentifier number of the product's SKU you want to display. Optional field.
-  ![vitrine-produto-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/unified-commerce/vtex-sales-app/ads-from-vtex-sales-app_1.png)
+  ![vitrine-produto-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/unified-commerce/vtex-sales-app/ads-from-vtex-sales-app_1.png)
   After completing the fields, the product image will be displayed with the "starting at" price. If you include the SKU, the price and promotion of the indicated SKU will be displayed. You can add more products by clicking + NEW PRODUCT. You can add up to 10 products in each custom display. The result of the product custom display will be displayed as shown in the image below.
-  ![vitrine-produto-2-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/unified-commerce/vtex-sales-app/ads-from-vtex-sales-app_2.png)
+  ![vitrine-produto-2-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/unified-commerce/vtex-sales-app/ads-from-vtex-sales-app_2.png)
 - **Search results custom display:** It will display products from a search result that you define. Add the following information:
 Custom display title: Name of the custom display that will be displayed on the page. - **Search image:** image that will represent the selection of products in the showcase. - **Search name:** Name of the search that will be displayed on the page. - **Search term:** Search term: Search term that will be used as a reference for the products.
-![vitrine-busca-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/unified-commerce/vtex-sales-app/ads-from-vtex-sales-app_3.png)
+![vitrine-busca-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/unified-commerce/vtex-sales-app/ads-from-vtex-sales-app_3.png)
 When the seller clicks the search term, they will be directed to the search result determined in the Search term. You can also include up to 10 searches in each custom display. See the result in the image below:
-![vitrine-busca-2-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/unified-commerce/vtex-sales-app/ads-from-vtex-sales-app_4.png)
+![vitrine-busca-2-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/unified-commerce/vtex-sales-app/ads-from-vtex-sales-app_4.png)
 <ol start="6">
   <li>After creating the sections, click `Save`, then click `Publish` and `Publish Now` to finalize.</li>
 </ol>
@@ -79,7 +79,7 @@ The publication of the custom display will enter the indexing queue and will be 
   - **Custom display title:** Name of the custom display as it will appear on the page.
   - **Collection ID:** The collection identifier number that will be displayed on the page.
 
-![Vitrine - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/unified-commerce/vtex-sales-app/ads-from-vtex-sales-app_5.png)
+![Vitrine - EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/unified-commerce/vtex-sales-app/ads-from-vtex-sales-app_5.png)
 
 ## Activate the offer menu in VTEX Sales App
 
@@ -92,12 +92,12 @@ https://{main_account}.myvtex.com/admin/portal/#/sites
 1. Click the <i class="fas fa-cog"></i> button.
 2. Select the **Code** tab.
 3. Select the `checkout-instore-custom-js` file in the side tab.
-   ![checkout-instore-custom-js-file](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/unified-commerce/vtex-sales-app/ads-from-vtex-sales-app_6.png)
+   ![checkout-instore-custom-js-file](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/unified-commerce/vtex-sales-app/ads-from-vtex-sales-app_6.png)
 4. In the `window.INSTORE_CONFIG` object, add the flag `enableExplore: true,`.
-   ![window.INSTORE_CONFIG](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/unified-commerce/vtex-sales-app/ads-from-vtex-sales-app_7.png)
+   ![window.INSTORE_CONFIG](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/unified-commerce/vtex-sales-app/ads-from-vtex-sales-app_7.png)
 5. Click <i class="fas fa-save"></i> `Save`.
 6. Optionally, you can set the offer page as the seller's homepage. To do this, add the flag `initialPage: 'advertisements',` to the `window.INSTORE_CONFIG` object.
-   ![initialPage : advertisements](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/unified-commerce/vtex-sales-app/ads-from-vtex-sales-app_8.png)
+   ![initialPage : advertisements](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/unified-commerce/vtex-sales-app/ads-from-vtex-sales-app_8.png)
 
 ## Accessing offers in VTEX Sales App
 
@@ -107,4 +107,4 @@ In VTEX Sales App, the seller will can access the offer page in two different wa
 
 - **Explore Menu:** If the offer page is not set as the seller's homepage, it can still be easily accessed through the Explore menu. To access the offer page, the seller should click the Explore menu. This will directly take the seller to the offer page, where they can view and interact with the available products and promotions.
 
-![vitrine-sale-app-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/unified-commerce/vtex-sales-app/ads-from-vtex-sales-app_9.png)
+![vitrine-sale-app-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/unified-commerce/vtex-sales-app/ads-from-vtex-sales-app_9.png)

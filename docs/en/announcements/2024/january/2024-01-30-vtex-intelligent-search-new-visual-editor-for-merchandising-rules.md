@@ -28,7 +28,7 @@ Previously, stores using [VTEX Intelligent Search](/en/tracks/vtex-intelligent-s
 * Pin a product to the top positions in the search results.
 * Review the main product information.
 
-![visual-merch-rules-EN-announcement](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2024/january/2024-01-30-vtex-intelligent-search-new-visual-editor-for-merchandising-rules_1.png)
+![visual-merch-rules-EN-announcement](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2024/january/2024-01-30-vtex-intelligent-search-new-visual-editor-for-merchandising-rules_1.png)
 
 When creating a merchandising rule in the VTEX Admin under **Storefront > Intelligent Search > Merchandising Rules > New**, you can choose the type of editor you want to use. Read the [Merchandising Rules](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5tBSYXb9EIdePa0MWTnFd0#types-of-editing) guide for more information on the differences between the manual and the visual editor.
 

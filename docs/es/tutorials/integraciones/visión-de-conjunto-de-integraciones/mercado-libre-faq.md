@@ -93,7 +93,7 @@ Al registrar un producto, es necesario establecer una cantidad mínima de stock 
 
 La categoría en cuestión exige el mapeo de marca y modelo. Esta información debe estar presente en la plantilla de mapeo. Formato de ejemplo:
 
-![mercadolivre faq erro](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/visi%C3%B3n-de-conjunto-de-integraciones/mercado-libre-faq_1.JPG)
+![mercadolivre faq erro](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/visi%C3%B3n-de-conjunto-de-integraciones/mercado-libre-faq_1.JPG)
 
 ## ¿Por qué mi anuncio está desactivado en Mercado Libre?
 
@@ -133,12 +133,12 @@ Sin embargo, estos atributos son bastante claros (Color principal, Color secunda
 
 Si alguno de estos atributos se completa de forma incorrecta (por ejemplo, si se asignó un código relativo a Talla de cinturón para un zapato), Integraciones va a mostrar un error con el siguiente formato:
 
-![mercadolivre faq erro2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/visi%C3%B3n-de-conjunto-de-integraciones/mercado-libre-faq_2.JPG)
+![mercadolivre faq erro2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/visi%C3%B3n-de-conjunto-de-integraciones/mercado-libre-faq_2.JPG)
 
 En este caso, tenemos dos ejemplos de errores en el mismo mensaje.
 El primero de estos indica que el atributo cuyo código comienza con el número `113000` es necesario para la categoría escogida y no fue ingresado en la plantilla de mapeo. Vea la plantilla a continuación:
 
-![mercadolivre faq erro3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/visi%C3%B3n-de-conjunto-de-integraciones/mercado-libre-faq_3.JPG)
+![mercadolivre faq erro3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/visi%C3%B3n-de-conjunto-de-integraciones/mercado-libre-faq_3.JPG)
 
 El segundo error muestra que el atributo cuyo código empieza con el número `63000`, ingresado en la última columna de la plantilla anterior, es inválido para la categoría escogida.
 
@@ -183,7 +183,7 @@ Existe el elemento principal del anuncio y este contiene las variaciones (que so
 
 Cada categoría tiene su propia especificación de cuántas imágenes pueden ser añadidas, en la categoría MLA3697 solo se permite 12 imágenes para este elemento principal. Vea en el enlace las condiciones de esta [categoría](https://api.mercadolibre.com/categories/MLA3697)
 
-![mercadolivre faq erro4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/visi%C3%B3n-de-conjunto-de-integraciones/mercado-libre-faq_4.JPG)
+![mercadolivre faq erro4](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/visi%C3%B3n-de-conjunto-de-integraciones/mercado-libre-faq_4.JPG)
 
 `SKU no integrado, pues el mismo no posee descripción`
 
@@ -217,7 +217,7 @@ Dicho esto, el primer paso es acceder al registro de esta integración:
 1. Acceda al módulo __Marketplace__
 2. Haga clic en __Integraciones__ 
 3. Busque el __panel__ de Mercado Libre
-4. Haga clic en el __engranaje__ <img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/visi%C3%B3n-de-conjunto-de-integraciones/mercado-libre-faq_5.png" />
+4. Haga clic en el __engranaje__ <img class="shadow-4" src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/visi%C3%B3n-de-conjunto-de-integraciones/mercado-libre-faq_5.png" />
 5. Haga clic en __Editar configuración__
 
 A partir de ahí, tenemos que rehacer el proceso de integración.

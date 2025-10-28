@@ -45,7 +45,7 @@ _Available units = updated quantity of units - reserved units_
 
 Negative stock usually occurs when an SKU corresponding to an order that already has a reservation is removed from inventory. To avoid this situation, it is important that the SKU quantity update takes place  once the [status of the orders](/en/tutorial/order-flow-on-the-oms--tutorials_196) has changed from `Preparing for delivery`. At this point, the platform has already [acknowledged the reservation](/en/tutorial/how-does-reservation-work--tutorials_92#acknowledged-reservation), and it won't interpret the SKU quantity update as a reduction in the quantity of units of a product that hasn't been sold yet.
 
-![Inventory management](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/inventory/updating-the-quantity-of-items-in-inventory_1.gif)
+![Inventory management](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/inventory/updating-the-quantity-of-items-in-inventory_1.gif)
 
 ## Related articles
 

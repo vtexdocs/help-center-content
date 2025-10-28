@@ -31,7 +31,7 @@ For developer’s content, see [Order canceling improvements](https://developers
 
 The following image shows the flow of declining an order’s cancellation request outside the cancellation window:
 
-![cancel_api_improvements_help_center_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/orders/all-orders/declining-order-cancellation_1.png)
+![cancel_api_improvements_help_center_EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/orders/all-orders/declining-order-cancellation_1.png)
 
 The description of each step is the following:
 
@@ -59,11 +59,11 @@ To decline an order cancellation request via the VTEX Admin, follow the steps be
 2. Select the desired order to access the [Order Details page](/en/tutorial/order-details-page-interface--2Y75n54Cc9VizrlG1N6ZNl).
 3. At the top of the page, click `Decline`.
 
-  ![deny_cancel_request_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/orders/all-orders/declining-order-cancellation_2.png)
+  ![deny_cancel_request_EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/orders/all-orders/declining-order-cancellation_2.png)
 
 4. Complete the **Cancellation Request** box with the reason why the cancel order request has been declined.
 
-  ![deny_cancel_request_reason_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/orders/all-orders/declining-order-cancellation_3.png)
+  ![deny_cancel_request_reason_EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/orders/all-orders/declining-order-cancellation_3.png)
 
   > ⚠️ Keep in mind that the message written in this field can be displayed to the customer via [My Account](/en/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh), or sent by the marketplace.
 

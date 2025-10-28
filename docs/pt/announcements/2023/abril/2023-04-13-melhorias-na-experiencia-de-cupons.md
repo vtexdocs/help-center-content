@@ -27,7 +27,7 @@ A nova experiência de Cupons oferece os seguintes recursos:
 
 A nova [Lista de cupons](/pt/tutorial/lista-de-cupons-beta--5z5ya3IonsC2W4B5h4JrsZ) exibe todos os cupons cadastrados na sua loja, possibilitando gerenciar seus dados e analisar em quais pedidos foram utilizados.
 
-![listacupons pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2023/abril/2023-04-13-melhorias-na-experiencia-de-cupons_1.gif)
+![listacupons pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2023/abril/2023-04-13-melhorias-na-experiencia-de-cupons_1.gif)
 
 ### Acesso mais fácil aos códigos de cupom
 
@@ -44,7 +44,7 @@ Os novos filtros possibilitam a visualização apenas dos cupons que atendem a c
 - Última edição
 - Tipo de cupom 
 
-![filtroscupons pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2023/abril/2023-04-13-melhorias-na-experiencia-de-cupons_2.gif)
+![filtroscupons pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2023/abril/2023-04-13-melhorias-na-experiencia-de-cupons_2.gif)
 
 ### Grupos de cupons para gerenciamento ágil
 

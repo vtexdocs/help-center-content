@@ -17,7 +17,7 @@ subcategoryId: 2xWRgEIlR2ookieEmm4KQu
 
 **Seller Management** is the page where marketplace operators [add sellers](/en/tutorial/adicionar-seller--tutorials_392), input their information, and manage their status. The page features metrics that allow marketplaces to assess their operation. It is also possible to apply filters to the seller list and group sellers using the _Group_ option. 
 
-![Seller management gif 2022 launch](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/sellers/management/seller-management_1.gif)
+![Seller management gif 2022 launch](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/sellers/management/seller-management_1.gif)
 
 ## Metrics
 
@@ -47,7 +47,7 @@ This feature allows merchants to better monitor their operations by:
 
 You can create groups manually by clicking on Add sellers or Manage groups. Once created, you can edit and delete each one.  
 
-![Seller management](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/sellers/management/seller-management_2.png)  
+![Seller management](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/sellers/management/seller-management_2.png)  
 
 ## Managing groups  
 

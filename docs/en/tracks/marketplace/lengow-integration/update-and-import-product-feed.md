@@ -24,6 +24,6 @@ http://{accountName}.myvtex.com/integration/lengow/feed
 
 Using the Lengow product feed URL you will now be able to import your products into a new Lengow catalogue using the direct link (HTTP/HTTPS) method.
 
-![Lengow - Import products](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/marketplace/lengow-integration/update-and-import-product-feed_1.png)
+![Lengow - Import products](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/marketplace/lengow-integration/update-and-import-product-feed_1.png)
 
 For more information on how to publish your products on the channels of your choice, please refer to the how-to articles available in the Lengow Help Center.

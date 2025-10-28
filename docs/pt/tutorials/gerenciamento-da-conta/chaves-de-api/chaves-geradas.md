@@ -19,7 +19,7 @@ As chaves de API internas são credenciais internas, geradas e administradas por
 
 A aba **Geradas** apresenta a listagem de chaves de API criadas pela sua conta. Você pode utilizar a barra de busca para encontrar uma chave pelo nome ou valor preenchido em **Identificação da chave** ao gerá-la.
 
-![generated-keys-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/gerenciamento-da-conta/chaves-de-api/chaves-geradas_1.png)
+![generated-keys-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/gerenciamento-da-conta/chaves-de-api/chaves-geradas_1.png)
 
 A página apresenta as informações a seguir em uma tabela: 
 
@@ -59,7 +59,7 @@ Siga as instruções abaixo para criar uma nova chave de API:
 9. Acesse o link copiado ou compartilhe-o com a pessoa que vai utilizar o token. O link pode ser acessado apenas uma vez e tem duração de 24 horas se não houver acesso.
 10. Clique em `Copiar` para copiar o token da API para a área de transferência. Esse segredo será exibido apenas uma vez. Salve-o em um local seguro.
 
-![one-time-link-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/gerenciamento-da-conta/chaves-de-api/chaves-geradas_2.png)
+![one-time-link-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/gerenciamento-da-conta/chaves-de-api/chaves-geradas_2.png)
 
 > ⚠️ A URL oficial para acessar o token segue sempre o formato `share.vtex.com/credentials/{token}`. O `{token}` é um identificador aleatório gerado no momento da criação ou renovação da chave. Verifique o formato do link antes de acessá-lo para evitar riscos de phishing ou acesso a páginas maliciosas.
 

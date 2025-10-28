@@ -33,7 +33,7 @@ El **Campo calculado** era una configuración dentro de los campos de [entidad d
 
 Este tipo de campo, ilustrado a continuación, ya no estará disponible a partir del 17 de junio de 2024. Los campos calculados creados anteriormente dejarán de funcionar en la misma fecha.
 
-![image6](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2024/abril/2024-04-17-master-data-v1-descontinuacion-de-configuraciones-dinamicas_1.png)
+![image6](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2024/abril/2024-04-17-master-data-v1-descontinuacion-de-configuraciones-dinamicas_1.png)
 
 ### Editar el valor del campo
 
@@ -41,7 +41,7 @@ Al configurar acciones de triggers, existía la opción de **Editar el valor del
 
 La opción **Editar el valor del campo**, ilustrada a continuación, ya no estará disponible al configurar acciones de triggers a partir del 17 de junio de 2024. Los triggers configurados con esta acción continuarán operativos solo hasta esa fecha.
 
-![image1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2024/abril/2024-04-17-master-data-v1-descontinuacion-de-configuraciones-dinamicas_2.png)
+![image1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2024/abril/2024-04-17-master-data-v1-descontinuacion-de-configuraciones-dinamicas_2.png)
 
 ## ¿Qué se necesita hacer?
 

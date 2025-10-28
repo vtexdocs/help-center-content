@@ -22,7 +22,7 @@ To specify the type of delivery to which you want to apply the benefit, you must
 2. Click on the card of the benefit to which you want to apply the free shipping.
 3. In item 3, activate the __Shipping Method__ flag and specify which ones should receive the free shipping.
 
-![promoções-campo-tipo-frete en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/marketing-and-merchandising/why-doesnt-my-benefit-work-for-all-types-of-delivery_1.png)
+![promoções-campo-tipo-frete en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/marketing-and-merchandising/why-doesnt-my-benefit-work-for-all-types-of-delivery_1.png)
 
 Once this has been done, the specified shipping types will enter the promotion and will appear to the customer with free shipping available.
 

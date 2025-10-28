@@ -31,7 +31,7 @@ Por isso, para ter acesso ao change seller, a afiliação com split deve ser con
 - __Use O Comportamento Recomendado Pelo Processador de Pagamentos__.
 - __Desativado: Não Capturado Automaticamente__.
 
-![Captura automática de pagamento](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/financial/change-seller-para-afiliacoes-que-suportam-split-nativo-faq_1.png)
+![Captura automática de pagamento](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/financial/change-seller-para-afiliacoes-que-suportam-split-nativo-faq_1.png)
 
 ### Selecionando o comportamento de liquidação não automática, quando o pagamento será liquidado?
 

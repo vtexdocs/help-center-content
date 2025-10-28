@@ -32,7 +32,7 @@ To build and configure your Store Framework website using CMS, you will use the 
 
 With an intuitive interface in the VTEX Admin, Site Editor reflects the blocks defined in the [Store Theme](https://developers.vtex.com/docs/guides/vtex-io-documentation-store-theme), allowing anyone to make store content and layout changes without having to edit the code.
 
-![site-editor-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-modules-getting-started/cms/cms-vtex-io_1.png)
+![site-editor-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-modules-getting-started/cms/cms-vtex-io_1.png)
 
 ## Layout - Sites and channels
 
@@ -40,7 +40,7 @@ Stores developed using Store Framework must also configure the [store binding](/
 
 Binding is the process of linking your website to a store. For more details, see the article [Linking a store to a folder structure in CMS (binding)](/en/tutorial/vincular-um-account-name-a-um-website-binding).
 
-![layout-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-modules-getting-started/cms/cms-vtex-io_2.png)
+![layout-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-modules-getting-started/cms/cms-vtex-io_2.png)
 
 > ℹ️ Except the **Sites and channels**folder, all the other features in the **Layout** section of the VTEX Admin are only available for CMS Portal Legado stores.
 
@@ -54,11 +54,11 @@ To learn how to use this module, see the tutorial [Banners](/en/v4/docs/banners-
 
 The **Pages** module is where your site pages are managed. In the VTEX Admin, the pages are divided into **Default**, **Product**, **Product Collections**, and **Not Found (404)**. They allow you to create new URLs and link them to a template already defined in the [store theme code](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-4-configuringtemplates).
 
-![cms-store-framework-paginas-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-modules-getting-started/cms/cms-vtex-io_3.gif)
+![cms-store-framework-paginas-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-modules-getting-started/cms/cms-vtex-io_3.gif)
 
 This section also includes the **Redirects** page that allows you to set up redirects from one store URL to a more relevant one.
 
-![cms-store-framework-redirecionamentos-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-modules-getting-started/cms/cms-vtex-io_4.png)
+![cms-store-framework-redirecionamentos-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-modules-getting-started/cms/cms-vtex-io_4.png)
 
 To learn more about this module, see the tutorial [Pages - Overview](/en/tutorial/paginas-visao-geral--5iBUUJbK5NqG6OxlDrGNzc).
 
@@ -74,7 +74,7 @@ To learn how to use this module, see the tutorial [Styles - Overview](/en/tutori
 
 Media is the module where you manage store media files, such as images and videos.
 
-![cms-store-framework-media-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-modules-getting-started/cms/cms-vtex-io_5.png)
+![cms-store-framework-media-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-modules-getting-started/cms/cms-vtex-io_5.png)
 
 To learn more about this module, see the tutorial [Media - Overview](/en/tutorial/midia-visao-geral--31fhjHTt4TBoo50AmGQ9b2).
 

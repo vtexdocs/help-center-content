@@ -25,7 +25,7 @@ Se seu usuário tem perfil de acesso ao módulo Gerenciamento da conta, você po
 
 Ao clicar na loja desejada, o nome e o e-mail do usuário Titular encontram-se na seção __Contato__.
 
-![usuario-master-contato pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/m%C3%B3dulos-vtex-primeiros-passos/contas-e-permissoes/o-que-e-o-usuario-master_1.png)
+![usuario-master-contato pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/m%C3%B3dulos-vtex-primeiros-passos/contas-e-permissoes/o-que-e-o-usuario-master_1.png)
 
 Entre as ações que somente o usuário Titular pode tomar, estão:
 - Reindexar o catálogo.

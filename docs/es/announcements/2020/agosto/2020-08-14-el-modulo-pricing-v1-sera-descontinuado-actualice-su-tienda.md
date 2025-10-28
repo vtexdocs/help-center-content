@@ -31,7 +31,7 @@ Para saber si su cuenta aún está utilizando Pricing V1, realice los siguientes
 
 Si ve una pantalla similar a la que aparece a continuación, significa que necesita realizar la migración de su cuenta. 
 
-![Tela pricing antiga - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2020/agosto/2020-08-14-el-modulo-pricing-v1-sera-descontinuado-actualice-su-tienda_1.png)
+![Tela pricing antiga - ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2020/agosto/2020-08-14-el-modulo-pricing-v1-sera-descontinuado-actualice-su-tienda_1.png)
 
 Si su cuenta VTEX sigue utilizando versiones anteriores del Admin de VTEX (como "vtexcommercestable"), usted necesitará realizar la migración de la misma. Para eso, siga los pasos a continuación: 
 

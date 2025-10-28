@@ -33,5 +33,5 @@ La funcionalidad puede ser utilizada siempre que el administrador de la tienda d
 - En  “¿Cuál es el tipo y el valor de la tasa?”, escoja la opción Tasa Nominal
 - Complete los ítems necesarios y haga clic en guardar
 
-![Nominal tax ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2019/diciembre/2019-12-12-utilice-la-tasa-nominal-y-evite-que-sus-clientes-abandonen-el-carrito-de_1.png)
+![Nominal tax ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2019/diciembre/2019-12-12-utilice-la-tasa-nominal-y-evite-que-sus-clientes-abandonen-el-carrito-de_1.png)
 

@@ -26,12 +26,12 @@ To delete a CMS folder, follow the steps below:
 3. Click the website that contains the folder you want to delete and then click the root folder (/).
 4. In the line corresponding to the folder you want to delete, click __delete__.
 
-![erroDeletarPasta2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/layout/deleting-a-folder-from-cms_1.png)
+![erroDeletarPasta2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/layout/deleting-a-folder-from-cms_1.png)
 
 > ❗ Some folders are required. Your store will not function properly without them. Others are important, so it's not a good idea to delete them.<br><br>Understand this theme deeper by reading the article [CMS folder structure](/en/tutorial/cms-folder-structure).
 
 If a folder contains other folders, you must delete all internal folders before deleting the more external one. Otherwise, the system will return the error "Object reference not set to an instance of an object", as in the image below.
 
-![erroDeletarPasta](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/layout/deleting-a-folder-from-cms_2.png)
+![erroDeletarPasta](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/layout/deleting-a-folder-from-cms_2.png)
 
 For example, if you want to delete folder A, and within it are folders A1 and A2, first delete folders A1 and A2, and then delete folder A.

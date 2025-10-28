@@ -74,8 +74,8 @@ To export a report in .csv format, you must follow the steps below:
 
 The report (CSV file) you have downloaded contains two tables. The first table contains information about searched terms, as illustrated below. It also shows funnel metrics (from the **ProductsClick** column to the **ProductsSold** column) if you have selected this option.
 
-![search-report-term](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/intelligent-search/intelligent-search-overview/analytics_1.png)
+![search-report-term](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/intelligent-search/intelligent-search-overview/analytics_1.png)
 
 The second table shows data for the selected period, as illustrated below. In the __Date__ column, you can see the date of the search.
 
-![search-report-date](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/intelligent-search/intelligent-search-overview/analytics_2.png)
+![search-report-date](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/intelligent-search/intelligent-search-overview/analytics_2.png)

@@ -19,11 +19,11 @@ subcategoryId: hXGU8pFfABVFIg724zWBN
 O processo para criação de fluxos é bem simples e intuitivo. Existem algumas opções de configuração que precisam ser levadas em consideração em algumas situações, mas não é nada complicado. Vamos começar?
   1. Primeiro, iremos clicar no botão de **fluxos** no nosso menu lateral.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/criacao-de-fluxos_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/criacao-de-fluxos_1.png)
 
   1. Chegando na página de fluxos, basta clicar no botão **Criar fluxo** , no canto esquerdo da tela.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/criacao-de-fluxos_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/criacao-de-fluxos_2.png)
 
   1. Depois disso, um pop-up para criação de fluxo irá aparecer na sua tela. Ele é formado por três campos que podem ser preenchidos: **Nome** , **Palavras-chave dos disparadores globais** , **Digite**
 
@@ -34,6 +34,6 @@ Por padrão, a opção **Mensagem** vem marcada. Um fluxo que utiliza o método 
 Além disso, temos mais duas opções: **Chamada Telefônica** e **Pesquisador**.
 Um fluxo que utiliza o método Phone Call é um fluxo criado para ser utilizado em canais de ligação. Existem algumas cartas de ação e decisão especiais para esse tipo de fluxo, que você pode conhecer visitando o artigo sobre fluxos de ligação.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/criacao-de-fluxos_3.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/criacao-de-fluxos_3.png)
 
 Agora que você conhece as configurações, basta clicar em **Criar** e começar a criação do seu novo fluxo, devidamente configurado para a finalidade que você desejar!

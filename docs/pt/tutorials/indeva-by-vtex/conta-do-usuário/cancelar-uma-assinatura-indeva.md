@@ -21,7 +21,7 @@ Para iniciar o processo, envie a solicitação com 30 dias de antecedência para
 
 No campo **Tipo de solicitação**, selecione a opção **Cancelamento** para que o formulário correto seja exibido.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/conta-do-usu%C3%A1rio/cancelar-uma-assinatura-indeva_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/conta-do-usu%C3%A1rio/cancelar-uma-assinatura-indeva_1.png)
 
 Após o envio do formulário, a equipe responsável entrará em contato por email para dar continuidade ao processo.
 

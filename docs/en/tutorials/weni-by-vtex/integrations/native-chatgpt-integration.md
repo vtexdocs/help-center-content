@@ -23,15 +23,15 @@ In this way, it enhances customer support, automates repetitive tasks, and provi
 
 To get started, access the Weni Platform. In the left-side menu, click on **Applications > Discovery**. Then, in the **External Services** section, click the ""\+"" button to add ChatGPT:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/native-chatgpt-integration_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/native-chatgpt-integration_1.png)
 
 Fill in the fields with **Name, Token** (your ChatGPT API consumption token), and **Version**. And to complete this step, click on continue:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/native-chatgpt-integration_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/native-chatgpt-integration_2.png)
 
 After completing the steps above, it’s necessary to configure ChatGPT’s functionality in the My Apps tab. Therefore, at this stage, **it is necessary to define how ChatGPT will behave when responding to people in the flows area.**
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/native-chatgpt-integration_3.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/native-chatgpt-integration_3.png)
 
 ### **Rules**
 
@@ -95,11 +95,11 @@ You can insert more than one Prompt in the ChatGPT settings, being able to choos
 
 To use the ChatGPT integration in flows, you must use the ""Call External Service"" card after receiving a message or response from the user. Your flow can be constructed as follows:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/native-chatgpt-integration_4.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/native-chatgpt-integration_4.png)
 
 According to the image, you must configure the card as follows:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/native-chatgpt-integration_5.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/native-chatgpt-integration_5.png)
 
 1. Choose the Name of your application configured in the Integrations Menu;
 2. Choose the action Consult Chat GPT (for now we only have this function released);

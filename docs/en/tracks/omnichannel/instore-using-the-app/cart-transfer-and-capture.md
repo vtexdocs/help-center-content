@@ -21,11 +21,11 @@ VTEX Sales App allows you to [enable the cart transfer functionality](/en/tracks
 
 For the sales associate to share a cart, they can generate a numeric code or a QR Code. To do this, while on the cart screen, just click on the __Transfer__ button. See an example in the image below.
 
-![24. Enable cart transfer between devices - 3 - EN.png?h=250](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/instore-using-the-app/cart-transfer-and-capture_1.png)
+![24. Enable cart transfer between devices - 3 - EN.png?h=250](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/instore-using-the-app/cart-transfer-and-capture_1.png)
 
 When they click this button, the app shows a QR Code and a four-digit numeric code.
 
-![31. inStore - Product Overview - 8 - EN.png?h=250](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/instore-using-the-app/cart-transfer-and-capture_2.png)
+![31. inStore - Product Overview - 8 - EN.png?h=250](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/instore-using-the-app/cart-transfer-and-capture_2.png)
 
 Another sales associate logged into the same store can then capture that cart and continue selling from their device.
 
@@ -35,7 +35,7 @@ To capture a cart, enter the VTEX Sales App main menu and click on `Capture Cart
 
 Alternatively, on the app's home screen, the sales associate can slide the screen to the right. When they drag the screen to the right, they will see the __Cart Capture__ option, as shown in the image below.
 
-![24. Enable cart transfer between devices - 2 - EN.png?h=250](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/instore-using-the-app/cart-transfer-and-capture_3.png)
+![24. Enable cart transfer between devices - 2 - EN.png?h=250](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/instore-using-the-app/cart-transfer-and-capture_3.png)
 
 On this screen, they can capture a cart using one of three methods:
 

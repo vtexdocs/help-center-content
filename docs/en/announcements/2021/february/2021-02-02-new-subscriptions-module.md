@@ -37,37 +37,37 @@ The improvements to the Subscription system include new features for your end cu
 #### Subscription details 
 Our subscription details page has been redesigned to improve customer experience by reducing the time to find information and perform tasks. In addition, a new feature allows you to add items to an existing subscription.
 
-![img1 subscriptions EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2021/february/2021-02-02-new-subscriptions-module_1.png)
+![img1 subscriptions EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2021/february/2021-02-02-new-subscriptions-module_1.png)
 
 #### Notification box
 Now you can use a notification box to improve your communication with users about actions they need to perform or to communicate important events about your subscriptions.
 
-![img2 subscriptions EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2021/february/2021-02-02-new-subscriptions-module_2.png)
+![img2 subscriptions EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2021/february/2021-02-02-new-subscriptions-module_2.png)
 
 #### Adding products to your subscription
 You can also add new items to your subscription by searching for products available in the store.
 
-![img3 subscriptions EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2021/february/2021-02-02-new-subscriptions-module_3.png)
+![img3 subscriptions EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2021/february/2021-02-02-new-subscriptions-module_3.png)
 
 #### Creating a new subscription
 A long-awaited feature is now available: a screen for creating subscriptions. You can now configure a new subscription without the need to go through the checkout and place an order. To do that, click on the __New subscription__ button on the subscriptions list.
 
-![img4 subscriptions EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2021/february/2021-02-02-new-subscriptions-module_4.png)
+![img4 subscriptions EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2021/february/2021-02-02-new-subscriptions-module_4.png)
 
 ### New subscription concept in the VTEX system
 Previously, in the VTEX system, a subscription consisted of an SKU linked to a purchase configuration. It allowed the customer to subscribe to SKUs with different shipping addresses and different payment methods—which represented an evolution compared to the first version of the system.
 
 #### Before:
-![img5 subscriptions EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2021/february/2021-02-02-new-subscriptions-module_5.png)
+![img5 subscriptions EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2021/february/2021-02-02-new-subscriptions-module_5.png)
 
-![img6 subscriptions EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2021/february/2021-02-02-new-subscriptions-module_6.png)
+![img6 subscriptions EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2021/february/2021-02-02-new-subscriptions-module_6.png)
 
-![img7 subscriptions EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2021/february/2021-02-02-new-subscriptions-module_7.png)
+![img7 subscriptions EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2021/february/2021-02-02-new-subscriptions-module_7.png)
 
 The subscription now consists of an SKU list and a particular purchase configuration. This means that we have removed the concept of Subscription Groups from our system. For more information, read our article [How subscription works](/en/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453). The diagram below shows our new subscription concept:
 
 #### Now:
-![img8 subscriptions EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2021/february/2021-02-02-new-subscriptions-module_8.png)
+![img8 subscriptions EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2021/february/2021-02-02-new-subscriptions-module_8.png)
 
 ### Subscription order cycle date
 

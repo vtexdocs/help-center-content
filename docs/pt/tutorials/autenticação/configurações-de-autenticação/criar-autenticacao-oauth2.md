@@ -39,7 +39,7 @@ Você pode consultar o guia oficial do protocolo OAuth2 neste endereço: https:/
 ## Fluxo de integração do OAuth2 com o VTEX ID
 
 Com base na documentação oficial, veja abaixo uma ilustração que explica a integração do OAuth2 com o VTEX ID:
-![oauth2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/autentica%C3%A7%C3%A3o/configura%C3%A7%C3%B5es-de-autentica%C3%A7%C3%A3o/criar-autenticacao-oauth2_1.jpg)
+![oauth2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/autentica%C3%A7%C3%A3o/configura%C3%A7%C3%B5es-de-autentica%C3%A7%C3%A3o/criar-autenticacao-oauth2_1.jpg)
 
 A partir dessa ilustração, vamos detalhar os passos a seguir.
 

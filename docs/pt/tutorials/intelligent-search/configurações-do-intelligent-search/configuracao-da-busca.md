@@ -37,7 +37,7 @@ As configurações gerais apresentam as opções a seguir, relacionadas a [espec
 
 As configurações de filtros apresentam ajustes relacionados aos filtros exibidos para os clientes da sua loja durante a busca:
 
-![Configurações de filtros](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/intelligent-search/configura%C3%A7%C3%B5es-do-intelligent-search/configuracao-da-busca_1.png)
+![Configurações de filtros](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/intelligent-search/configura%C3%A7%C3%B5es-do-intelligent-search/configuracao-da-busca_1.png)
 
 * **Ordenação dos filtros:** ordem em que os filtros serão exibidos na loja. Caso não tenha nenhum filtro selecionado na área, a ordem padrão é alfabética.
 

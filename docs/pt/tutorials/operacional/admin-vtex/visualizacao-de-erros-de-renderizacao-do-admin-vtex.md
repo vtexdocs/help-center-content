@@ -21,7 +21,7 @@ A detecção e correção de erros são fundamentais para garantir uma experiên
 
 A página de Erro de Renderização realiza uma tentativa automática de reconexão após 10 segundos, sem exigir intervenção do usuário, o que aumenta as chances de solucionar o problema rapidamente.
 
-![Tela erro-PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/operacional/admin-vtex/visualizacao-de-erros-de-renderizacao-do-admin-vtex_1.png)
+![Tela erro-PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/operacional/admin-vtex/visualizacao-de-erros-de-renderizacao-do-admin-vtex_1.png)
 
 ## Como visualizar detalhes de erros de renderização
 Os detalhes técnicos do erro estão disponíveis no Console do navegador, facilitando o diagnóstico para desenvolvedores e suporte técnico. Para acessar o console do navegador e identificar o código do erro de renderização, siga os passos abaixo:
@@ -31,4 +31,4 @@ Os detalhes técnicos do erro estão disponíveis no Console do navegador, facil
 3. Acesse a aba **Console** para visualizar as mensagens de log e os erros registrados pelo navegador.
 4. No Console, localize as linhas destacadas em vermelho, que representam mensagens de erro e indicam que algo não foi carregado ou processado corretamente.
 
-![devtools - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/operacional/admin-vtex/visualizacao-de-erros-de-renderizacao-do-admin-vtex_2.gif)
+![devtools - PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/operacional/admin-vtex/visualizacao-de-erros-de-renderizacao-do-admin-vtex_2.gif)

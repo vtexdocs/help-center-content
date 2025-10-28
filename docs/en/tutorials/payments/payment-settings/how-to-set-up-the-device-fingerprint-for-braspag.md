@@ -29,7 +29,7 @@ To enter the device fingerprint scripts required by Braspag/CyberSource, you wil
 
 ## Creation of variables (macros) and driver
 
-- Create a variable named `trasactionPaymentId`, ype **Variável da camada de dados**, by reading the detalayer `transactionPayment.id` variable.[]![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payment-settings/how-to-set-up-the-device-fingerprint-for-braspag_1.png)
+- Create a variable named `trasactionPaymentId`, ype **Variável da camada de dados**, by reading the detalayer `transactionPayment.id` variable.[]![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payment-settings/how-to-set-up-the-device-fingerprint-for-braspag_1.png)
 - Create a variable named `cs_sessionId`, of type **JavaScript personalizado** and the following code:
 
 ```
@@ -41,11 +41,11 @@ function() {
 
 - Create the variables `cs_orgId` and `cs_merchantId` of type **Permanente.** The values of these two variables should be filled out with the contents informed by Braspag.
 
-![gtm-cybersource-variavel3-permanente](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payment-settings/how-to-set-up-the-device-fingerprint-for-braspag_2.png)
+![gtm-cybersource-variavel3-permanente](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payment-settings/how-to-set-up-the-device-fingerprint-for-braspag_2.png)
 
 - Create or edit a driver for the orderPlaced screen (screen that shows purchases successfully closed) for it to be compatible with the **Evento personalizado** type and the **orderPlaced** value.
 
-![gtm-cybersource-acionador-orderplaced](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payment-settings/how-to-set-up-the-device-fingerprint-for-braspag_3.png)
+![gtm-cybersource-acionador-orderplaced](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payment-settings/how-to-set-up-the-device-fingerprint-for-braspag_3.png)
 
 ## Creation of a Braspag tag
 
@@ -64,6 +64,6 @@ Fill it out with the HTML below:
 <script src="https://h.online-metrix.net/fp/check.js?org_id={{cs_orgId}}&amp;session_id={{cs_merchantId}}{{cs_sessionId}}" type="text/javascript"></script>
 ```
 
-![braspag fingerprint](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payment-settings/how-to-set-up-the-device-fingerprint-for-braspag_4.png)
+![braspag fingerprint](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payment-settings/how-to-set-up-the-device-fingerprint-for-braspag_4.png)
 
 At last, post the changes.

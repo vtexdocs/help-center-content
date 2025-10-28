@@ -27,7 +27,7 @@ To configure a [redirect](/en/tutorial/redirects--3okF84cImJwKzcc8hxmZ2r) on Int
 
 You must fill in the fields below.
 
-![redirecionamentos-adminv4-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/intelligent-search/redirects/configuring-redirects_1.png)
+![redirecionamentos-adminv4-EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/intelligent-search/redirects/configuring-redirects_1.png)
 
 ### General information
 

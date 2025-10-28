@@ -25,7 +25,7 @@ To check if your account is enabled, go to  **Admin VTEX > Marketplace > Marketp
 2. Click the `Edit` button.  
 3. Check the value of the `Stock multi-origin enabled` field. It will be either `yes` or `no`.  
 
-![Multi-origin enable](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/integrations/integration-settings/warehouse-assignment-on-mercado-libre_1.jpg)  
+![Multi-origin enable](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/integrations/integration-settings/warehouse-assignment-on-mercado-libre_1.jpg)  
 
 If the value is `Yes`, you must configure the integration between your VTEX warehouses and Mercado Libre warehouses. To do so, follow the steps in [Configuring warehouse assignment](/en/tutorial/configurar-alocacao-de-estoque--1yCEr7xQ0gVsTBB0ktMYVX).  
 

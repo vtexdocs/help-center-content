@@ -29,7 +29,7 @@ O novo menu traz vários benefícios significativos, que destacamos abaixo:
 * **Navegação intuitiva:** organização aprimorada para encontrar rapidamente o que precisa.
 * **Consistência visual:** aparência harmonizada com outras atualizações recentes em nossa plataforma.
 
-<img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2023/maio/2023-05-31-vtex-apresenta-a-nova-versao-do-instore-o-vtex-sales-app_1.png" alt= “menu-sales-app-pt” width="35%" height="35%">
+<img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2023/maio/2023-05-31-vtex-apresenta-a-nova-versao-do-instore-o-vtex-sales-app_1.png" alt= “menu-sales-app-pt” width="35%" height="35%">
 
 ### Área de anúncios
 
@@ -37,13 +37,13 @@ A área de anúncios permite que os lojistas exibam produtos ou resultados de pe
 
 Um dos principais recursos dessa atualização é a opção de os lojistas definirem a área do anúncio como sua página inicial. Isso permite uma experiência de usuário mais personalizada, pois os clientes são imediatamente recebidos com conteúdo selecionado e recomendações de produtos. Saiba mais no artigo [Anúncios do VTEX Sales App](/pt/tutorial/anuncios-do-vtex-sales-app--3UtOFwbwD4muz3p72RBPmC).
 
-<img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2023/maio/2023-05-31-vtex-apresenta-a-nova-versao-do-instore-o-vtex-sales-app_2.png" alt= “anuncio-sale-app-pt” width="35%" height="35%">
+<img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2023/maio/2023-05-31-vtex-apresenta-a-nova-versao-do-instore-o-vtex-sales-app_2.png" alt= “anuncio-sale-app-pt” width="35%" height="35%">
 
 ### Performance de vendas
 
 Performance de vendas permite que o lojista tenha acesso às métricas de vendas de sua loja, tornando possível a comparação de performance entre períodos de venda e desempenho de funcionários. Saiba mais no artigo [VTEX Sales App: Performance de vendas](/pt/tutorial/sales-app-performance-de-vendas--7i4Elt835tatBM6iqZoc56).
 
-<img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2023/maio/2023-05-31-vtex-apresenta-a-nova-versao-do-instore-o-vtex-sales-app_3.png" alt= “vendas-da-loja-sales-app-pt” width="35%" height="35%">
+<img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2023/maio/2023-05-31-vtex-apresenta-a-nova-versao-do-instore-o-vtex-sales-app_3.png" alt= “vendas-da-loja-sales-app-pt” width="35%" height="35%">
 
 ## O que precisa ser feito?
 

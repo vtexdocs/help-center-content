@@ -29,16 +29,16 @@ O módulo Layout abrange a home, catálogo (busca, categorias e produtos), landi
 2. Acesse **Sites and channels**.
 3. Acesse o website desejado.
 4. Abra a pasta raiz do website.
-![instrução CMS -pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/como-ter-o-protocolo-https-nas-paginas-da-minha-loja_1.png)
+![instrução CMS -pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/como-ter-o-protocolo-https-nas-paginas-da-minha-loja_1.png)
 5. A tela que foi aberta apresenta todas as pastas que estão no primeiro nível do site. Para cada pasta pertinente, clique em **Edit** - para a home, considere o botão do topo;
-![CMS edit PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/como-ter-o-protocolo-https-nas-paginas-da-minha-loja_2.png)
+![CMS edit PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/como-ter-o-protocolo-https-nas-paginas-da-minha-loja_2.png)
 6. Na caixa de seleção **Protocol**, selecione a opção **HTTPS**;
-![CMS: protocol HTTPS ](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/como-ter-o-protocolo-https-nas-paginas-da-minha-loja_3.png)
+![CMS: protocol HTTPS ](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/como-ter-o-protocolo-https-nas-paginas-da-minha-loja_3.png)
 7. Clique em **Save Folder**.
 
 Atenção às pastas que possuem subpastas, como Departamento, Categoria, Produto e outras pastas, incluindo também as criadas para customização da loja. 
 
 No exemplo a seguir, a pasta dinâmica **@Categoria@**, contida em **Categoria**, que deve ser também editada: 
-![cms: subcategoria edit](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/como-ter-o-protocolo-https-nas-paginas-da-minha-loja_4.png)
+![cms: subcategoria edit](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/como-ter-o-protocolo-https-nas-paginas-da-minha-loja_4.png)
 
 Após cache de até 10 minutos as alterções irão vigorar.

@@ -61,4 +61,4 @@ O comprovante impresso vai apresentar os seguintes dados:
 
 Para lojas com integrações feitas por parceiros como a Neomode e que faturam imediatamente as vendas do tipo OnHands, a nota fiscal aparecerá no comprovante, como na imagem abaixo:
 
-![thermic_printer_receipt_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/com%C3%A9rcio-unificado/vtex-sales-app/emissao-de-comprovante-de-venda-no-sales-app-via-impressora-termica_1.png)
+![thermic_printer_receipt_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/com%C3%A9rcio-unificado/vtex-sales-app/emissao-de-comprovante-de-venda-no-sales-app-via-impressora-termica_1.png)

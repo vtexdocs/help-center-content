@@ -19,7 +19,7 @@ Se você já [configurou o funcionamento da sua loja](/pt/tracks) e [desenvolveu
 
 Neste tutorial você encontra o passo a passo detalhado de como realizar o go-live da sua loja.
 
-![Go-live](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/m%C3%B3dulos-vtex-primeiros-passos/go-live/processo-de-go-live_1.jpg)
+![Go-live](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/m%C3%B3dulos-vtex-primeiros-passos/go-live/processo-de-go-live_1.jpg)
 
 > ℹ️ Note que uma loja em produção é diferente de uma conta em produção. De modo geral, pode-se dizer que para ter uma loja em produção é necessário colocar a conta em produção e realizar o apontamento de DNS. Confira abaixo todos os passos envolvidos nesse processo.
 
@@ -27,7 +27,7 @@ Neste tutorial você encontra o passo a passo detalhado de como realizar o go-li
 
 Antes de realizar o go-live da sua loja, é essencial garantir que você tenha realizado todas as configurações necessárias para o bom funcionamento da sua loja.
 
-Copie esta [Checklist de configuração de loja](https://raw.githubusercontent.com/vtexdocs/help-center-content/files-migration-script/docs/pt/tracks/módulos-vtex-primeiros-passos/go-live/Checklist_de_configura__o_de_loja.xlsx) e verifique, para cada item, se realizou as configurações de acordo com o funcionamento desejado da loja.
+Copie esta [Checklist de configuração de loja](https://cdn.statically.io/gh/vtexdocs/help-center-content/files-migration-script/docs/pt/tracks/módulos-vtex-primeiros-passos/go-live/Checklist_de_configura__o_de_loja.xlsx) e verifique, para cada item, se realizou as configurações de acordo com o funcionamento desejado da loja.
 
 > ⚠️ A checklist indicada acima lista funcionalidades e configurações básicas para o funcionamento de uma loja VTEX. Cabe à sua equipe definir quais funcionalidades implementar na sua loja e como deverão ser configuradas de maneira a produzir a experiência de loja desejada. Isso significa que a lista pode não contemplar todas as funcionalidades usadas pela sua loja. Ainda assim, é importante verificar todos os aspectos do funcionamento da sua loja, mesmo que não estejam na lista sugerida.
 

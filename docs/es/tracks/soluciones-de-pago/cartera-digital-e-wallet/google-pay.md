@@ -32,7 +32,7 @@ Para activar Google Pay, sigue los pasos a continuación.
 
 Una vez hecho esto, Google Pay estará disponible en el checkout de tu tienda VTEX como nuevo medio de pago. La configuración puede demorarse alrededor de 10 minutos en aparecer en el checkout.
 
-![google-pay-checkout-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/soluciones-de-pago/cartera-digital-e-wallet/google-pay_1.png)
+![google-pay-checkout-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/soluciones-de-pago/cartera-digital-e-wallet/google-pay_1.png)
 
 > ⚠️ Google Pay, por el momento, no admite suscripciones.
 
@@ -49,11 +49,11 @@ Para utilizar Google Pay deben cumplirse los siguientes requisitos:
 
 Para consultar y verificar las transacciones finalizadas con Google Pay, sigue los pasos indicados en el artículo [Ver detalles de la transacción](/es/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/3Nt40DMEWkvhlpaL5PlBy). En la barra de búsqueda de la página de transacciones, escriba **Google Pay** para filtrar las transacciones realizadas con este tipo de pago.
 
-![Google Pay Transaction_1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/soluciones-de-pago/cartera-digital-e-wallet/google-pay_2.png)
+![Google Pay Transaction_1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/soluciones-de-pago/cartera-digital-e-wallet/google-pay_2.png)
 
 Después de acceder a la transacción deseada, haga clic en "+ Información" para verificar la información de **Google Pay** descrita en el campo `paymentOrigin`.
 
-![Google Pay Transaction_2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/soluciones-de-pago/cartera-digital-e-wallet/google-pay_3.png)
+![Google Pay Transaction_2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/soluciones-de-pago/cartera-digital-e-wallet/google-pay_3.png)
 
 > ⚠️ También es posible identificar las transacciones realizadas con Google Pay a través de la página **Todos los pedidos** en Admin. Sólo necesitas seleccionar el periodo de búsqueda deseado, [exportar los pedidos](/es/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/6rVCf9KLn1jgTaxS0xuByu) en un informe en formato . csv y localizar la información de Google Pay en el campo "payment origin".
 

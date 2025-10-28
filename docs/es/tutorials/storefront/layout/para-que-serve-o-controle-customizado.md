@@ -35,7 +35,7 @@ Estos tipos son:
 
 Para crear una tag de control personalizado, basta hacer clic en __Add__, registrar un nombre y una tag, luego seleccionar el tipo.
 
-![cms-custom-elements EN / ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/para-que-serve-o-controle-customizado_1.png)
+![cms-custom-elements EN / ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/para-que-serve-o-controle-customizado_1.png)
 
 > ⚠️ **Atención:** no cree un control del tipo HTML con un elemento `title`. Esto puede interferir con el buen funcionamiento de su tienda.
 

@@ -34,7 +34,7 @@ The Delivery Options page allows you to:
 - [Filter](#filtering-delivery-options)
 - [Configure preferences](#delivery-option-preferences)
 
-![delivery-options-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/shipping-beta/delivery-options-beta_1.png)
+![delivery-options-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/shipping-beta/delivery-options-beta_1.png)
 
 The page displays the following information in a table:
 
@@ -52,7 +52,7 @@ To create a delivery option, follow the steps below:
 1. In the VTEX Admin, go to **Shipping > Delivery Options**, or type **Delivery Options** in the search bar at the top of the page.
 2. Click `Create delivery option`.
 3. Complete the form fields:
-  ![delivery-options-form-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/shipping-beta/delivery-options-beta_2.png)
+  ![delivery-options-form-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/shipping-beta/delivery-options-beta_2.png)
     - **Shipping method:** Select the shipping method (**delivery**, **scheduled delivery**, **pickup**, **scheduled pickup**).
     - **Option name:** Enter the name of the option the customer will see when purchasing.
     - **Use option as a filter on the product listing page**: Enable this to allow customers to filter products by this delivery option using[ Intelligent Search filters](/en/tutorial/filters--k24mQQa9SjmhNWSwdqIMB).
@@ -135,7 +135,7 @@ Configure delivery options on the storefront to customize the customer experienc
 1. In the VTEX Admin, go to **Shipping > Delivery Options**, or type **Delivery Options** in the search bar at the top of the page.
 2. Click `Preferences`.
 3. Select how your options will be displayed in the store.
-  ![delivery-options-preferencias-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/shipping-beta/delivery-options-beta_3.png)
+  ![delivery-options-preferencias-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/shipping-beta/delivery-options-beta_3.png)
     - **Always display all available options for the product:** All delivery options that are available under the shipping conditions will be displayed on the product page and checkout.
     - **Only display the lowest-cost and fastest options:** Only the delivery options with the lowest cost or shortest time will be displayed on the product page and checkout.
 4. Click `Save`.

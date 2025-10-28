@@ -54,4 +54,4 @@ Para adicionar ou alterar um score relacionado a um produto, siga estes passos:
 2. Clique em `Adicionar Produto` para criar um novo produto ou clique em `Alterar` no produto que deseja editar.
 3. Insira o valor desejado do score no campo **Score (usado para ordenação de busca)**.
 
-![posicao-Score-PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/como-funciona-o-campo-score_1.png)
+![posicao-Score-PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/como-funciona-o-campo-score_1.png)

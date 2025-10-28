@@ -17,7 +17,7 @@ subcategoryId: 2g6LxtasS4iSeGEqeYUuGW
 
 El título de un placeholder es el que aparece en la esquina derecha del objeto, como indica la imagen abajo.
 
-![cms-placeholder es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/cambiar-titulo-de-un-placeholder_1.png)
+![cms-placeholder es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/cambiar-titulo-de-un-placeholder_1.png)
 
 El texto que se inserta en ese campo es el que se mostrará como título del placeholder en el sitio de la tienda.
 
@@ -26,7 +26,7 @@ Para cambiar el título de un placeholder, basta con seguir los pasos abajo:
 1. Haga clic en el título.
 
 2. Introduzca el nuevo título.
-![placeholder-change-name es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/cambiar-titulo-de-un-placeholder_2.png)
+![placeholder-change-name es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/cambiar-titulo-de-un-placeholder_2.png)
 
 3. Haga clic en __Rename__.
 

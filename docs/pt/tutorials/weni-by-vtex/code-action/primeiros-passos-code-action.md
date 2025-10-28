@@ -37,7 +37,7 @@ Para continuar neste módulo, você deve passar pela etapa anterior clicando no 
 
 - Para que seja possível gerar esse token, você deverá fazer uma requisição para a API abaixo, passando seu **login**, **senha** utilizados na plataforma. **E caso possua autenticação de 2 fatores**, você deverá preencher no campo de totp o código de 2 fatores.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/code-action/primeiros-passos-code-action_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/code-action/primeiros-passos-code-action_1.png)
 
 Esse código tem validade de até 12h deverá ser utilizado em algumas das próximas APIs.
 
@@ -51,16 +51,16 @@ Caso opte por HTML, o retorno do seu código, estará preparado para retornar um
 
 Para realizar a criação do tipo JSON, você poderá encontrar uma requisição chamada **create code action \[python] -> json,** como segue na imagem abaixo.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/code-action/primeiros-passos-code-action_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/code-action/primeiros-passos-code-action_2.png)
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/code-action/primeiros-passos-code-action_3.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/code-action/primeiros-passos-code-action_3.png)
 
 Para criar um código, como mostra na imagem acima, você precisará de alguns parâmetros como: **project_uuid**, **code_name** e **Bearer Token.**
 
 - **project_uuid**
   - Essa informação você conseguirá pegar na URL do seu projeto na [Weni Plataforma](https://dash.weni.ai), como segue na imagem abaixo:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/code-action/primeiros-passos-code-action_4.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/code-action/primeiros-passos-code-action_4.png)
 
 - **code_name**
   - Essa informação deverá ser preenchido com o nome da sua preferência, de acordo com que for mais legível e didático.
@@ -69,11 +69,11 @@ Após possuir essas informações, será importante que você crie seu código s
 
 Logo em seguida, você poderá ir para o body, como segue na imagem abaixo e executar a requisição.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/code-action/primeiros-passos-code-action_5.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/code-action/primeiros-passos-code-action_5.png)
 
 Coloque seu código dentro da parte de **raw** e o formato deverá ser **Text**.Após realizar a requisição, você deverá receber um retorno similar a este:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/code-action/primeiros-passos-code-action_6.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/code-action/primeiros-passos-code-action_6.png)
 
 Esse ID será o identificador do seu código, salve-o em algum lugar, pois ele é importante para executar seu código.
 
@@ -81,7 +81,7 @@ Esse ID será o identificador do seu código, salve-o em algum lugar, pois ele �
 
 Para realizar a execução do código, será necessário pegar o ID do código que você criou na etapa anterior. Após isso você fará uma requisição passando o ID do seu código, como está na imagem abaixo:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/code-action/primeiros-passos-code-action_7.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/code-action/primeiros-passos-code-action_7.png)
 
 Não é necessário passar as credenciais na request acima.O seu código poderá receber requests de qualquer tipo, como: GET, POST, PUT, DELETE... Seu código deverá estar adaptado para receber a request esperada. Para dúvidas relacionadas a como pegar dados da Query ou Body, você poderá visitar [Padrão de código e exemplos](/pt/code-action/padr-o-de-c-digo-e-exemplos).
 
@@ -216,13 +216,13 @@ Durante o processo de execução de código, como mencionado em [Padrão de cód
 
 Toda vez que o código é executado, é gerada uma execução de código. Para que você consiga visualizar essa execução, você poderá realizar a request abaixo passando o **ID** do seu código.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/code-action/primeiros-passos-code-action_8.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/code-action/primeiros-passos-code-action_8.png)
 
 Após fazer essa requisição, passando o ID do Código, você irá receber algumas informações como: o **resultado da execução**, parâmetro recebido na **query**, o **body** da request e o ID da execução.
 
 É possível realizar um filtro de tempo utilizando os parâmetros **after** e **before**, com eles você pegará apenas as execução de uma janela de tempo específica, eles esperam uma data/hora no padrão ISO 8601\. Segue um exemplo
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/code-action/primeiros-passos-code-action_9.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/code-action/primeiros-passos-code-action_9.png)
 
 Também é possível utilizar o parâmetro **page**, para conseguir paginar melhor as buscas.
 
@@ -232,6 +232,6 @@ Com o ID da execução retornado na request acima, você conseguirá pegar mais 
 
 Você deverá fazer uma nova request para a API abaixo, passando o ID da execução.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/code-action/primeiros-passos-code-action_10.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/code-action/primeiros-passos-code-action_10.png)
 
 Você poderá usar o parâmetro **page**, similar na request anterior.Nese retorno acima, você terá o **content** e ele conterá o valor retornado no engine.log.debug, conforme ensinado em [Padrão de código e exemplos](/pt/code-action/padr-o-de-c-digo-e-exemplos).

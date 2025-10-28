@@ -24,7 +24,7 @@ Os itens revisados incluem:
 - **Distribuição de pesos**: linear ou com pesos diferentes.  
 - **Frequência**: se há metas cadastradas para cada dia do período ou se foram incluídas folgas e feriados no planejamento.  
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/cadastro-de-metas/revisar-finalizar-cadastro-metas-indeva_1.PNG)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/cadastro-de-metas/revisar-finalizar-cadastro-metas-indeva_1.PNG)
 
 Para editar qualquer informação, clique no ícone <i class="fas fa-pencil-alt" aria-hidden="true"></i> ao lado da configuração correspondente.  
 

@@ -33,7 +33,7 @@ Em um evento de **Live Shopping**, os seguintes recursos estão disponíveis:
 
 Veja abaixo como os recursos apareceriam em um evento real de **Live Shopping**:
 
-![article_1_overview_v3_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/vtex-live-shopping-primeiros-passos/vtex-live-shopping_1.png)
+![article_1_overview_v3_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/vtex-live-shopping-primeiros-passos/vtex-live-shopping_1.png)
 
 > ℹ️ O [Live Shopping](/pt/tutorial/live-shopping--1cYWPIbjNMyr072sksHSVL) é um aplicativo pago com diferentes planos de assinatura. Para mais informações, acesse a [VTEX App Store](https://apps.vtex.com/liveshopping/p).
 

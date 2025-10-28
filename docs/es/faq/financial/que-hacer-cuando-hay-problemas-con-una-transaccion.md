@@ -25,10 +25,10 @@ En ocasiones puede ocurrir una falla de comunicación entre VTEX y el aliado. Ha
 Casos como ése generan logs o mantienen el pedido en un looping. Una vez que se identifique un comportamiento errático, el camino más rápido es verificar si el status del pedido está igual en ambas plataformas. Como, por ejemplo, el Gateway haber atualizado el Status como "Settling", pero posteriormente contestar que el Status no está correcto para captura, sin embargo el Status estaría correcto. Vea el ejemplo:
 
 El día 08 de febrero, VTEX recibió una notificación del Gateway en la que hay un cambio de Status.
-![2017-04-11-17 28 32-4820587- -VTEX-PCI-Gateway-300x65](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/financial/que-hacer-cuando-hay-problemas-con-una-transaccion_1.png) 
+![2017-04-11-17 28 32-4820587- -VTEX-PCI-Gateway-300x65](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/financial/que-hacer-cuando-hay-problemas-con-una-transaccion_1.png) 
 
 El día 03 de abril el gateway retorna error en el Status
-![2017-04-11-17 26 40-4820587- -VTEX-PCI-Gateway-300x87](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/financial/que-hacer-cuando-hay-problemas-con-una-transaccion_2.png)
+![2017-04-11-17 26 40-4820587- -VTEX-PCI-Gateway-300x87](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/financial/que-hacer-cuando-hay-problemas-con-una-transaccion_2.png)
 
 Otro ejemplo sería el Gateway (aliado) retornar que no posee los datos completos de la tarjeta de crédito para proseguir con la compra. Sin embargo, en los detalles de la transacción en la parte superior de la página, es posible confirmar que la información existe – incluso porque el pedido no se habría creado sin esa información. El camino aquí sería el mismo, ponerse en contacto con su Gateway.
 

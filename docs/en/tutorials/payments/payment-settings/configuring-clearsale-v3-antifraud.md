@@ -69,7 +69,7 @@ Configuring ClearSale v3 anti-fraud solution requires creating a tag in Google T
 10. Click on the __Create Tag__ button, enter a name for this tag and save.
 11. In the top right corner, click on __Publish__.
 
-![Pasted image at 2017 10 20 01 11 PM](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payment-settings/configuring-clearsale-v3-antifraud_1.png)
+![Pasted image at 2017 10 20 01 11 PM](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payment-settings/configuring-clearsale-v3-antifraud_1.png)
 
 > ℹ️ See the [ FingerPrint documentation](https://api.clearsale.com.br/docs/finger-print) on ClearSale for more information on the above script.
 

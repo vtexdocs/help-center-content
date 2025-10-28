@@ -18,7 +18,7 @@ Un error común en la aprobación de pago, en el módulo **Pedidos**, es el de f
 
 En este caso, al intentar aprobar el pago en **Pedidos**, usted verá el siguiente error:
 
-![error authorize fulfillment](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/post-purchase/al-intentar-aprobar-el-pago-gestion-de-pedidos-devuelve-el-error-de-authorize-fulfillment-que-hacer_1.png)
+![error authorize fulfillment](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/post-purchase/al-intentar-aprobar-el-pago-gestion-de-pedidos-devuelve-el-error-de-authorize-fulfillment-que-hacer_1.png)
 
 Para confirmar que el problema es este, en la [página de detalles del pedido](/es/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl), haga clic en `Ver interacciones` para ver los detalles del pedido.
 

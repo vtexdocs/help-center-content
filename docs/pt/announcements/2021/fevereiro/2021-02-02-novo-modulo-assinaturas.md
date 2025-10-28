@@ -37,35 +37,35 @@ A melhoria do sistema de assinaturas também trouxe novas funcionalidades para o
 #### Novo detalhamento de assinaturas 
 A nossa página de detalhamento de assinatura foi remodelada pensando em melhorar a experiência do consumidor ao reduzir o tempo para localizar informações e realizar tarefas. Além disso, contamos com a nova funcionalidade de adicionar itens a uma assinatura existente.
 
-![img1 subscriptions PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2021/fevereiro/2021-02-02-novo-modulo-assinaturas_1.png)
+![img1 subscriptions PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2021/fevereiro/2021-02-02-novo-modulo-assinaturas_1.png)
 
 #### Barra de ações
 Adicionamos uma barra de ações para melhorar a comunicação com o usuário sobre o que precisa ser feito ou comunicar eventos importantes sobre a sua assinatura.
 
-![img2 subscriptions PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2021/fevereiro/2021-02-02-novo-modulo-assinaturas_2.png)
+![img2 subscriptions PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2021/fevereiro/2021-02-02-novo-modulo-assinaturas_2.png)
 
 #### Adicionar produto à sua assinatura
 Agora é possível adicionar um novo item à sua assinatura através da busca dos produtos disponíveis na loja. 
 
-![img3 subscriptions PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2021/fevereiro/2021-02-02-novo-modulo-assinaturas_3.png)
+![img3 subscriptions PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2021/fevereiro/2021-02-02-novo-modulo-assinaturas_3.png)
 
 #### Criar uma nova assinatura
 Adicionamos uma funcionalidade muito aguardada que é a tela de criação de assinaturas. Ela permite configurar uma nova assinatura sem ter que passar pelo checkout e realizar um pedido na hora. Para realizar essa ação, basta clicar no botão __Nova assinatura__, na listagem de assinaturas.
 
-![img4 subscriptions PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2021/fevereiro/2021-02-02-novo-modulo-assinaturas_4.png)
+![img4 subscriptions PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2021/fevereiro/2021-02-02-novo-modulo-assinaturas_4.png)
 
 ### Novo conceito de assinaturas para o sistema
 Até então, para o sistema da VTEX, uma assinatura era composta por um SKU, atrelado a uma configuração de compra. Isso permitia que o consumidor da loja assinasse SKUs com endereços de entrega e até mesmo formas de pagamento diferentes – uma evolução em comparação à primeira versão do sistema. 
 
 #### Antes:
-![img5 subscriptions PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2021/fevereiro/2021-02-02-novo-modulo-assinaturas_5.png)
-![img6 subscriptions PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2021/fevereiro/2021-02-02-novo-modulo-assinaturas_6.png)
-![img7 subscriptions PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2021/fevereiro/2021-02-02-novo-modulo-assinaturas_7.png)
+![img5 subscriptions PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2021/fevereiro/2021-02-02-novo-modulo-assinaturas_5.png)
+![img6 subscriptions PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2021/fevereiro/2021-02-02-novo-modulo-assinaturas_6.png)
+![img7 subscriptions PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2021/fevereiro/2021-02-02-novo-modulo-assinaturas_7.png)
 
 A assinatura para nós agora consiste em uma lista de SKUs e uma determinada configuração de compra. Isso significa que nós retiramos o conceito de Grupos de Assinatura do nosso sistema. Saiba mais no artigo [Como funciona a assinatura](/pt/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453). O diagrama abaixo demonstra o novo conceito de assinatura:
 
 #### Agora:
-![img8 subscriptions PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2021/fevereiro/2021-02-02-novo-modulo-assinaturas_8.png)
+![img8 subscriptions PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2021/fevereiro/2021-02-02-novo-modulo-assinaturas_8.png)
 
 ### Data do ciclo da assinatura
 

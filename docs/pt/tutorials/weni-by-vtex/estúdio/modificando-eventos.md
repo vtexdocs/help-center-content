@@ -19,19 +19,19 @@ Para editar quando uma mensagem ou fluxo serão enviados, escolher outro fluxo, 
 
 -    Clique no menu ""Campanhas"", dentro do módulo ""Estúdio"" no menu lateral e clique na campanha que contém o(s) evento(s) que você gostaria de editar.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/modificando-eventos_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/modificando-eventos_1.png)
 
 -    Para editar nome da Campanha e o grupo, clique no menu de 3 listras e em Editar
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/modificando-eventos_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/modificando-eventos_2.png)
 
 -    Para Editar um evento, da lista de eventos dentro da Campanha, clique no evento e uma janela será aberta
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/modificando-eventos_3.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/modificando-eventos_3.png)
 
 -    Clique no botão ""Editar"" no canto superior direito da tela
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/modificando-eventos_4.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/modificando-eventos_4.png)
 
 -    Na caixa de diálogo de atualização de eventos você pode realizar as seguintes alterações:
 
@@ -43,6 +43,6 @@ Para editar quando uma mensagem ou fluxo serão enviados, escolher outro fluxo, 
 
 -   Em seguida, defina o tempo que você quer que seu evento comece.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/modificando-eventos_5.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/modificando-eventos_5.png)
 
 -    Clique em ""Atualizar evento"" para salvar as alterações.

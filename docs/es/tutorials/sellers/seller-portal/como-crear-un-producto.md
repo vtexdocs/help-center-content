@@ -83,7 +83,7 @@ Para agregar imágenes al producto, siga las instrucciones a continuación:
 
 Puede hacer clic en una imagen y arrastrarla para posicionarla antes o después de las otras si desea reorganizar las imágenes y cambiar el orden de visualización en la página del producto, como se ilustra a continuación.
 
-![imagens-sku-ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/sellers/seller-portal/como-crear-un-producto_1.gif)
+![imagens-sku-ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/sellers/seller-portal/como-crear-un-producto_1.gif)
 
 Puede modificar la información de cada imagen haciendo clic en el botón <i class="fas fa-ellipsis-v"></i> en la fila de cada una, esto abre un menú con las siguientes opciones.
 
@@ -118,7 +118,7 @@ Ejemplo: una tienda de cosméticos puede configurar los grupos de atributos de u
   1. Tiempo de fijación: largo.
   2. Tipo de aplicación: spray.
 
-![atributo-ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/sellers/seller-portal/como-crear-un-producto_2.gif)
+![atributo-ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/sellers/seller-portal/como-crear-un-producto_2.gif)
 
 Después de realizar los cambios deseados en el panel de atributos, haga clic en `Aplicar`.
 
@@ -159,7 +159,7 @@ Después de llevar a cabo este procedimiento, las especificaciones creadas y sus
 
 Además, a partir de las opciones creadas, la lista de SKU posibles se genera automáticamente y se muestra en la sección **[Variaciones](#variaciones)**.
 
-![variations ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/sellers/seller-portal/como-crear-un-producto_3.png)
+![variations ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/sellers/seller-portal/como-crear-un-producto_3.png)
 
 ## Especificaciones
 
@@ -188,7 +188,7 @@ Al hacer clic en el botón <i class="fas fa-ellipsis-v"></i>, puede realizar las
   * **Seleccionar imágenes:** seleccione las imágenes correspondientes a la variación. Para seleccionar una imagen, basta con hacer clic en ella. Si quiere seleccionar todas las imágenes a la vez, puede utilizar el acceso directo pulsando `Ctrl` + `A` en el teclado.
   * **Aplicar a múltiples variaciones:** si lo desea, puede aplicar las imágenes seleccionadas a múltiples variaciones. Para eso, haga clic en `Aplicar a múltiples variaciones +` y seleccione los valores de las especificaciones relacionadas con su imagen. Por ejemplo: si la imagen es de una zapatilla deportiva de color beige, debe seleccionar la opción `beige` de la especificación `color` en este campo. Con esta configuración, la imagen se aplicará a todas las variaciones cuya especificación de `color` tenga el valor `beige`, independientemente de otras especificaciones configuradas, como el `tamaño`. La siguiente imagen ilustra este flujo de configuración.
 
-![variacoes-ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/sellers/seller-portal/como-crear-un-producto_4.gif)
+![variacoes-ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/sellers/seller-portal/como-crear-un-producto_4.gif)
 
   * **Agregar imágenes:** en este panel, también se puede cargar nuevas imágenes haciendo clic en el botón `Agregar imágenes` o arrastrando y soltando los archivos de imagen en el espacio delimitado por la línea punteada.
 * **Desactivar:** desactive la variación en su tienda. 
@@ -198,7 +198,7 @@ Al hacer clic en el botón <i class="fas fa-ellipsis-v"></i>, puede realizar las
 ### Edición avanzada
 El panel de edición avanzada de variaciones, que se ilustra a continuación, permite ver y editar toda la información y las imágenes relacionadas con cada variación del producto. 
 
-![Edición avanzada ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/sellers/seller-portal/como-crear-un-producto_5.png)
+![Edición avanzada ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/sellers/seller-portal/como-crear-un-producto_5.png)
 
 En la sección **Variaciones**, en el lado izquierdo del panel, encontrará la lista de variaciones de su producto. Para editar una variación específica, debe hacer clic en ella.
 
@@ -209,7 +209,7 @@ Para editar un gran número de variaciones a la vez, puede utilizar la funcional
 
 1. Haga clic en el botón `Edición en masa` para abrir la plantilla de edición de variaciones.
 2. Para editar la información en la plantilla, debe hacer doble clic en el campo que desee modificar.
-![edicao-massa-SKU-ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/sellers/seller-portal/como-crear-un-producto_6.png)
+![edicao-massa-SKU-ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/sellers/seller-portal/como-crear-un-producto_6.png)
 
 En la plantilla puede editar la siguiente información:
 - **Activo:** indica si la variación está activa o no.
@@ -225,7 +225,7 @@ En la plantilla puede editar la siguiente información:
 Para filtrar las columnas mostradas en la plantilla, haga clic en `Filtrar columnas` y seleccione las columnas que desee ocultar.
 
 Puede replicar la información de una celda a otras filas y columnas. Para ello, haga clic en el cuadrado azul en la esquina inferior derecha de la celda y arrástrelo a las celdas en las que desee replicar automáticamente el valor, como se muestra en la imagen a continuación.
-![Formatacao-celula-ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/sellers/seller-portal/como-crear-un-producto_7.gif)
+![Formatacao-celula-ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/sellers/seller-portal/como-crear-un-producto_7.gif)
 3. Después de editar, haga clic en `Aplicar` para guardar los cambios.
 
 ## SEO
@@ -238,7 +238,7 @@ La manera de completar los campos de esta sección influye en la posición que e
 
 Al rellenar los campos de SEO, se puede observar, en el lado derecho, la vista previa del producto en los resultados de Google. A continuación, vea un ejemplo de cómo completar tales campos.
 
-![SEO-ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/sellers/seller-portal/como-crear-un-producto_8.png)
+![SEO-ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/sellers/seller-portal/como-crear-un-producto_8.png)
 
 ## Storefront
 

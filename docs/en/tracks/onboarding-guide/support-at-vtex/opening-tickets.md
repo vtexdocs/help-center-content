@@ -42,7 +42,7 @@ To access Copilot and start interacting with support, follow the steps below:
    - I have an unexpected behavior
    - I need VTEX to setup something
 
-![Copilot-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/onboarding-guide/support-at-vtex/opening-tickets_1.gif)
+![Copilot-EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/onboarding-guide/support-at-vtex/opening-tickets_1.gif)
 
 Copilot will respond automatically and guide you through the process. If your question isn't solved during the interaction with Copilot, you can proceed to open a ticket manually.
 

@@ -25,8 +25,8 @@ Messages are sorted by date and color-coded according to their origin. In this s
 
 You can choose between a summarized view, showing only the conversations for quick analysis, or a detailed view with more information.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/studio/contact-history_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/studio/contact-history_1.png)
 
 When you click on the desired contact, a new screen will open where you can view the contact's history.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/studio/contact-history_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/studio/contact-history_2.png)

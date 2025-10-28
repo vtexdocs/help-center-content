@@ -40,7 +40,7 @@ Para que una colección se muestre en el menú por el control Search Navigator, 
 
 Este flag se encuentra en la configuración de la propia colección dentro del CMS.
 
-![searchNavigator2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/control-search-navigator_1.jpg)
+![searchNavigator2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/control-search-navigator_1.jpg)
 
 ## Categorías
 
@@ -48,7 +48,7 @@ Para que una categoría sea exhibida por acción de ese control, debe estar con 
 
 Este flag está en la pantalla de registro de la categoría.
 
-![Cómo funciona el control Search Navigator ES 2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/control-search-navigator_2.png)
+![Cómo funciona el control Search Navigator ES 2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/control-search-navigator_2.png)
 
 > ℹ️ **Importante**: El control  `&lt;vtex.cmc:searchNavigator/&gt;` exhibe, por estándar, apenas la categoría base (primer nivel) y la subcategoría más específica (último nivel) dentro del contexto actual. Se omiten las divisiones intermedias en el árbol de categorías. Además, el control solo funciona en los primeros tres niveles, que son tradicionalmente Departamento, Categoría y Subcategoría. Si su  [arquitectura de catálogo](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/7kz4uWVq6NoaOdUpiJv4PR) contiene subdivisiones más allá del tercer nivel, no se mostrarán con el control nativo.
 
@@ -77,7 +77,7 @@ Para que un campo de producto o un campo de SKU se muestre en el menú por el co
 
 Ambos se encuentran en la pantalla de registro del campo.
 
-![Cómo funciona el control Search Navigator ES 3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/control-search-navigator_3.png)
+![Cómo funciona el control Search Navigator ES 3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/control-search-navigator_3.png)
 
 ## Rangos de precio
 

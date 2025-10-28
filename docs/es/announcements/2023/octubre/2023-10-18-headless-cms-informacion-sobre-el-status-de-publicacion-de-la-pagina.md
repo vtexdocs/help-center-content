@@ -19,7 +19,7 @@ A partir del 1 de noviembre de 2023, se descontinuará el estado **Publicando** 
 
 Cuando se crea una nueva página, inicialmente se muestra como **Borrador** en la columna Versiones, lo que indica que aún no se hizo deploy de la página. Una vez que el deploy se ha realizado, el status se actualiza a **Publicado**, lo que significa que el proceso de compilación está listo para comenzar. Una vez completado este proceso, la página pasa a estar disponible para los usuarios finales.
 
-![Build Status - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2023/octubre/2023-10-18-headless-cms-informacion-sobre-el-status-de-publicacion-de-la-pagina_1.gif)
+![Build Status - ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2023/octubre/2023-10-18-headless-cms-informacion-sobre-el-status-de-publicacion-de-la-pagina_1.gif)
 
 ## ## ¿Qué cambió?
 El status *Publicando* se utilizaba anteriormente para describir el proceso de deploy de una página CMS en FastStore. Sin embargo, no proporcionaba más detalles sobre el proceso.

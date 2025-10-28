@@ -23,13 +23,13 @@ Os templates usados pelos layouts da loja, por padrão, não carregam nenhuma cl
 
 Veja, por exemplo, o código do template Department.
 
-![changeBodyClass1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/mudar-classe-do-body-de-uma-pagina_1.jpg)
+![changeBodyClass1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/mudar-classe-do-body-de-uma-pagina_1.jpg)
 
 Ele tem um `id`, mas não uma `class`.
 
 No entanto, ao carregar um layout que use esse template, vemos que a classe `departamento` foi adicionada ao body da página.
 
-![changeBodyClass2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/mudar-classe-do-body-de-uma-pagina_2.jpg)
+![changeBodyClass2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/mudar-classe-do-body-de-uma-pagina_2.jpg)
 
 Ou seja, o sistema insere essa classe automaticamente.
 

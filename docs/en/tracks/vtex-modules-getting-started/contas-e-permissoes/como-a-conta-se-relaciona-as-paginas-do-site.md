@@ -22,7 +22,7 @@ One of the first things you need to do on your website is to _link it to an acco
 To link it, check out our [article about linking an account name to a website.](/en/tutorial/linking-an-account-name-to-a-website-binding--PxjfleOw6suCSO2uGWMMs)
 
 
-![Binding](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-modules-getting-started/contas-e-permissoes/como-a-conta-se-relaciona-as-paginas-do-site_1.png)
+![Binding](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-modules-getting-started/contas-e-permissoes/como-a-conta-se-relaciona-as-paginas-do-site_1.png)
 
 The configuration shown above is for when you want an account to have more than one store.
 

@@ -31,7 +31,7 @@ On this page, you can:
 
 To access this page in the VTEX Admin, click **Promotions > Coupons**.
 
-![lista-cupons](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/coupons/coupons-list-beta_1.png)
+![lista-cupons](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/coupons/coupons-list-beta_1.png)
 
 Below you will find a description of the page components and the actions you can perform.
 
@@ -83,7 +83,7 @@ The generated file contains the information described below.
 
 Here is an example of an exported CSV file:
 
-![cupons-exportados](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/coupons/coupons-list-beta_2.png)
+![cupons-exportados](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/coupons/coupons-list-beta_2.png)
 
 #### Exporting coupon batch codes
 
@@ -100,13 +100,13 @@ To view or export all the codes within a coupon batch, you must follow the steps
     * <i class="far fa-clone"></i> **Copy all:** Allows you to copy the generated codes to your clipboard. You can also copy each code individually by clicking it.
     * **Export:** Allows exporting the generated coupons to a CSV file. The exported file contains a single column, with one code per row.
 
-![export-coupons](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/coupons/coupons-list-beta_3.png)
+![export-coupons](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/coupons/coupons-list-beta_3.png)
 
 ### View coupon usage
 
 To view the total number of active coupons and the remaining available space for new coupons, click <i class="fas fa-chart-line"></i> `Coupon usage`.
 
-![coupon-usage](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/coupons/coupons-list-beta_4.png)
+![coupon-usage](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/coupons/coupons-list-beta_4.png)
 
 You are allowed a maximum of five thousand active coupons. To free up space, you can archive coupons in the [Coupon list](#coupon-list). If you need to increase the limit of active coupons, please contact our [Support team](https://support.vtex.com/hc/en-us/requests).
 
@@ -155,13 +155,13 @@ The **View usage details** modal presents information on how each coupon was use
 
     This section presents the list of orders in which a coupon has been used and allows you to search by order number. When you click on the order number, you will be redirected to the order details page in **Orders management**.
 
-![view-usage-details](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/coupons/coupons-list-beta_5.png)
+![view-usage-details](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/coupons/coupons-list-beta_5.png)
 
 * **General usage of the coupon codes** (coupon batches): Displays the total amount of times of the codes in a coupon batch have been used and the amount of remaining uses, if you have set a usage limit.
 
    This section also displays the list of codes in the coupon batch and allows you to search for a specific code. When you click on a code, you have access to the list of orders where the code has been used and you can search by an order number. Clicking on an order number will take you to the order details page in **Orders management**.
 
-![select-the-code-coupon-batch](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/coupons/coupons-list-beta_6.PNG)
+![select-the-code-coupon-batch](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/coupons/coupons-list-beta_6.PNG)
 
 ## Learn more
 * [Coupons](/en/tutorial/coupons-beta--1aAEN3ADpz19ss5JCIEBdL)

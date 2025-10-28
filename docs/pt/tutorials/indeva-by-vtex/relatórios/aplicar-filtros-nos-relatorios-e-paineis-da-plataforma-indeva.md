@@ -35,7 +35,7 @@ Confira abaixo os principais ambientes e as opções disponíveis em cada um del
 - Agrupar por rede, loja ou vendedor.  
 - Selecionar redes, lojas e, se disponível, subgrupos.  
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/relat%C3%B3rios/aplicar-filtros-nos-relatorios-e-paineis-da-plataforma-indeva_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/relat%C3%B3rios/aplicar-filtros-nos-relatorios-e-paineis-da-plataforma-indeva_1.png)
 
 ### Rankings
 Na seção **Rankings**, é possível consultar informações de campanhas e respectivos rankings, disponíveis a partir da data de finalização.

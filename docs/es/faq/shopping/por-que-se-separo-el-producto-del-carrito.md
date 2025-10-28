@@ -18,7 +18,7 @@ Este escenario sucede cuando más de un artículo del mismo SKU se separa en má
 
 Pero hay escenarios en que el importe de descuento es indivisible por el número de artículos, especialmente en los casos en que el SKU tiene una unidad de multiplicación, por lo que necesitamos dar diferentes descuentos para los artículos del mismo SKU, de manera que el importe de descuento sea correcto. Lo que termina dejando los precios diferentes y separando cada unidad en una fila. Vea mejor esta explicación con el siguiente ejemplo.
 
-![Por que o item do carrinho foi separado](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/shopping/por-que-se-separo-el-producto-del-carrito_1.jpg)
+![Por que o item do carrinho foi separado](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/shopping/por-que-se-separo-el-producto-del-carrito_1.jpg)
 
 1. Unidad de multiplicación.
 2. Precio del producto después del descuento.

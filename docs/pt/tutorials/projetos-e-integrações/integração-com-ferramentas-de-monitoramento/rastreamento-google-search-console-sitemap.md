@@ -35,7 +35,7 @@ Para cadastar o Sitemap você deve executar as seguites ações:
 
 2. Selecione a opção **Sitemaps** na sessão **Rastreamento**
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/projetos-e-integra%C3%A7%C3%B5es/integra%C3%A7%C3%A3o-com-ferramentas-de-monitoramento/rastreamento-google-search-console-sitemap_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/projetos-e-integra%C3%A7%C3%B5es/integra%C3%A7%C3%A3o-com-ferramentas-de-monitoramento/rastreamento-google-search-console-sitemap_1.png)
 
 3. Clique no botão **Adicionar / Testar Sitemap****
 
@@ -43,13 +43,13 @@ Para cadastar o Sitemap você deve executar as seguites ações:
 
 5. Clique em **Enviar Sitemap**
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/projetos-e-integra%C3%A7%C3%B5es/integra%C3%A7%C3%A3o-com-ferramentas-de-monitoramento/rastreamento-google-search-console-sitemap_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/projetos-e-integra%C3%A7%C3%B5es/integra%C3%A7%C3%A3o-com-ferramentas-de-monitoramento/rastreamento-google-search-console-sitemap_2.png)
 
 6. O Search Console irá acessar o XML e verificar, clique na opção **Atualize a página** para visualizar o status das urls do sitemap enviado
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/projetos-e-integra%C3%A7%C3%B5es/integra%C3%A7%C3%A3o-com-ferramentas-de-monitoramento/rastreamento-google-search-console-sitemap_3.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/projetos-e-integra%C3%A7%C3%B5es/integra%C3%A7%C3%A3o-com-ferramentas-de-monitoramento/rastreamento-google-search-console-sitemap_3.png)
 
 7. Após adicionar com sucesso o sitemap no Search Console, a ferramenta disponibilizará o relatório de todas as URLs enviadas versus indexadas, segmentando por **Páginas da Web** e **Imagens**:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/projetos-e-integra%C3%A7%C3%B5es/integra%C3%A7%C3%A3o-com-ferramentas-de-monitoramento/rastreamento-google-search-console-sitemap_4.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/projetos-e-integra%C3%A7%C3%B5es/integra%C3%A7%C3%A3o-com-ferramentas-de-monitoramento/rastreamento-google-search-console-sitemap_4.png)
 

@@ -34,7 +34,7 @@ Esta página permite que você realize as seguintes ações:
 - [Filtrar](#filtrar-uma-opcao-de-envio)
 - [Configurar preferências](#preferencias-de-opcao-de-envio)
 
-![delivery-options-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/envio-beta/opcoes-de-envio-beta_1.png)
+![delivery-options-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/envio-beta/opcoes-de-envio-beta_1.png)
 
 A página apresenta as seguintes informações em uma tabela:
 
@@ -52,7 +52,7 @@ Para criar uma nova opção de envio, siga os passos abaixo.
 1. No Admin VTEX, acesse **Envio > Opções de envio** ou digite **Opções de envio** na barra de busca no topo da página.
 2. Clique em `Criar opção de envio`.
 3. Preencha os campos do formulário:
-  ![delivery-options-form-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/envio-beta/opcoes-de-envio-beta_2.png)
+  ![delivery-options-form-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/envio-beta/opcoes-de-envio-beta_2.png)
    - **Método de envio:** selecione o tipo de método de envio (**Entrega**, **Entrega agendada**, **Retirada**, **Retirada agendada**).
    - **Nome da opção:** digite o nome da opção que será visualizada pelo cliente durante a compra.
    - **Usar opção como filtro na vitrine da loja**: ative para permitir que os clientes filtrem os produtos por esta opção de envio por meio dos [filtros do Intelligent Search](/pt/tutorial/filtros--k24mQQa9SjmhNWSwdqIMB).
@@ -138,7 +138,7 @@ Configure as opções de envio na frente da loja para personalizar a experiênci
 1. No Admin VTEX, acesse **Envio > Opções de envio** ou digite **Opções de envio** na barra de busca no topo da página.
 2. Clique em `Preferências`.
 3. Selecione a forma que deseja exibir as suas opções de envio na loja.
-   ![delivery-options-preferencias-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/envio-beta/opcoes-de-envio-beta_3.png)
+   ![delivery-options-preferencias-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/envio-beta/opcoes-de-envio-beta_3.png)
    - **Exibir sempre todas as opções disponíveis para o produto:** todas as opções de envio que estão disponíveis nas condições de entrega serão exibidas na página de produto e no checkout da loja.
    - **Exibir apenas a opção de menor custo e a de menor prazo:** apenas as opções de envio com menor custo ou com menor prazo serão exibidas na página de produto e no checkout da loja.
 4. Clique em `Salvar` para finalizar.

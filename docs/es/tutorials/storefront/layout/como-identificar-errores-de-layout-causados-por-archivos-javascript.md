@@ -25,7 +25,7 @@ Para eso, siga los siguientes pasos:
 
 1. Para deshabilitar el JavaScript de la página basta colocar el `/tools.html` al final de la URL. Ej: {AccountName}.myvtex.com/tools.html
 2. Haga clic en __Disable__ en la pestaña __Client JavaScript is__.
-![javascript-disable ](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/como-identificar-errores-de-layout-causados-por-archivos-javascript_1.png)
+![javascript-disable ](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/como-identificar-errores-de-layout-causados-por-archivos-javascript_1.png)
 
 3. Después retirar el `/tools.html` da URL y actualizar la página.
 

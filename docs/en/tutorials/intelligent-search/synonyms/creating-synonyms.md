@@ -87,7 +87,7 @@ beauty,blush,powder;true
 
 Result in the VTEX Admin:
 
-![sinonimos-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/intelligent-search/synonyms/creating-synonyms_1.png)
+![sinonimos-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/intelligent-search/synonyms/creating-synonyms_1.png)
 
 #### Multilanguage stores (Beta)
 

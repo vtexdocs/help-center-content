@@ -20,8 +20,8 @@ De forma predeterminada, el CMS sólo muestra las __últimas 20 colecciones__ ac
 
 Por lo tanto, si su tienda tiene más de 20 colecciones, es normal que algunas de ellas no aparezcan en la lista mostrada en el CMS.
 
-![findCollection1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/marketing-and-merchandising/nao-encontro-uma-colecao-o-que-fazer_1.png)
+![findCollection1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/marketing-and-merchandising/nao-encontro-uma-colecao-o-que-fazer_1.png)
 
 Pero usted puede buscar cualquier colección utilizando el campo de búsqueda (Find), incluyendo aquellos que no se muestran por defecto.
 
-![findCollection2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/marketing-and-merchandising/nao-encontro-uma-colecao-o-que-fazer_2.png)
+![findCollection2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/marketing-and-merchandising/nao-encontro-uma-colecao-o-que-fazer_2.png)

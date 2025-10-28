@@ -17,7 +17,7 @@ order: 1
 
 La evolución del comercio en línea ha traído una serie de mejoras a la experiencia del cliente, y una de las más relevantes es quizás la que transformó la relación multicanal entre el cliente y la tienda en una relación omnicanal.
 
-![32. Unified Commerce 101 - 1 - ES.png h 250?h=250](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/omnichannel/estrategias-de-comercio-unificado/comercio-unificado-101_1.png)
+![32. Unified Commerce 101 - 1 - ES.png h 250?h=250](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/omnichannel/estrategias-de-comercio-unificado/comercio-unificado-101_1.png)
 
 En una arquitectura __multicanal__, cada canal se comunica independientemente con la tienda, ya sea comercio electrónico, tiendas físicas, call center, redes sociales, etc. Cuando un cliente interactúa con uno de estos canales, la tienda no tiene conocimiento de quién es ese cliente.
 
@@ -27,7 +27,7 @@ En el omnichannel, sin embargo, los pedidos aún se procesan de forma aislada. A
 
 El __Comercio Unificado__ resuleve ese problema.
 
-![32. Unified Commerce 101 - 2 - ES.png h 250?h=250](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/omnichannel/estrategias-de-comercio-unificado/comercio-unificado-101_2.png)
+![32. Unified Commerce 101 - 2 - ES.png h 250?h=250](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/omnichannel/estrategias-de-comercio-unificado/comercio-unificado-101_2.png)
 
 El Comercio Unificado es una evolución del omnichannel: además del intercambio de datos, esta estrategia también implica __unificar el sistema de procesamiento y gestión de pedidos__. En la práctica, esto significa que todos los pedidos realizados en un canal de la tienda no solo son visibles por otros canales, sino que también pueden ser procesados por ellos.
 

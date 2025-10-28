@@ -23,4 +23,4 @@ Sólo tiene que seguir los pasos abajo:
 2. Busque la transacción deseada y haga clic en ella.
 3. En los __Eventos de la transacción__, busque el evento de captura ("settlement"):
 
-![settlementEvent](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/transacciones/donde-veo-la-fecha-de-captura-del-pago_1.png)
+![settlementEvent](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/transacciones/donde-veo-la-fecha-de-captura-del-pago_1.png)

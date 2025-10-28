@@ -38,7 +38,7 @@ Essa opção possibilita compartilhar um carrinho preenchido com um ou mais clie
 
 Veja o passo a passo ilustrado a seguir.
 
-![socialselling-sugestaocarrinho-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/instore-usando-o-app/compartilhar-carrinho-utilizando-o-instore-social-selling_1.gif)
+![socialselling-sugestaocarrinho-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/instore-usando-o-app/compartilhar-carrinho-utilizando-o-instore-social-selling_1.gif)
 
 O vendedor pode enviar o mesmo link para vários clientes, quantas vezes desejar. Cada vez que uma pessoa acessar esse link, um novo carrinho será gerado, exatamente igual ao criado no inStore. Cada carrinho acessado também fica associado à conta do vendedor e, se houver, ao código do vendedor.
 
@@ -62,4 +62,4 @@ Nesse caso, o vendedor precisa colocar itens no carrinho, preencher as informaç
 
 Veja o passo a passo ilustrado abaixo.
 
-![socialselling-paymentlink-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/instore-usando-o-app/compartilhar-carrinho-utilizando-o-instore-social-selling_2.gif)
+![socialselling-paymentlink-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/instore-usando-o-app/compartilhar-carrinho-utilizando-o-instore-social-selling_2.gif)

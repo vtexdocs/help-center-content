@@ -19,7 +19,7 @@ Una vez completada la integración con la aplicación _Facebook Business Extensi
 
 En esta interfaz, hay tres secciones principales: [Status](#status), [Funcionalidades](#funcionalidades) y [Catálogo](#catalogo).
 
-![Facebook business Extension](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/marketplace/integracion-con-facebook-business-extension/interface-da-integracao-configurada_1.png)
+![Facebook business Extension](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/marketplace/integracion-con-facebook-business-extension/interface-da-integracao-configurada_1.png)
 
 ## Status
 

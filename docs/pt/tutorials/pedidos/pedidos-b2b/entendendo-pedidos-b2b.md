@@ -19,7 +19,7 @@ Na operação de um e-commerce B2B, frequentemente é necessário informar o sta
 
 O app **Pedidos B2B** simplifica este processo, permitindo que qualquer funcionário possa consultar os pedidos feitos pela sua empresa pela própria loja virtual.
 
-![orders VTEX B2B](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pedidos/pedidos-b2b/entendendo-pedidos-b2b_1.png)
+![orders VTEX B2B](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pedidos/pedidos-b2b/entendendo-pedidos-b2b_1.png)
 
 Essa experiência de autosserviço é possível graças a uma integração via API com o ERP. Com isso, o funcionário pode buscar pedidos por:
 

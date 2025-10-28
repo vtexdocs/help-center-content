@@ -33,7 +33,7 @@ Después de activar la funcionalidad, debes monitorear las sugerencias generadas
 
 Puedes identificar todas las sugerencias de precios en el módulo Precio mediante el **ID** que sigue el formato `186-Automation`, como se muestra en la imagen a continuación:
 
-![Precios inteligentes de Mercado Libre](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/configuraci%C3%B3n-de-las-integraciones/precios-inteligentes-mercado-libre_1.png)
+![Precios inteligentes de Mercado Libre](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/configuraci%C3%B3n-de-las-integraciones/precios-inteligentes-mercado-libre_1.png)
 
 ## Ajuste automático de precios
 **Ajuste automático de precios** permite a los sellers configurar reglas para que los precios de los anuncios publicados se actualicen de manera dinámica, siempre siguiendo el precio más bajo encontrado en anuncios similares en Mercado Libre y otros sitios web.

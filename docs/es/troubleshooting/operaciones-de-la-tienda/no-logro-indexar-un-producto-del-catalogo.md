@@ -116,4 +116,4 @@ Las cuentas que tienen 100 mil productos o más registrados deben ponerse en con
 
 Más información en [Mantenimiento de base de datos (full cleanup)](/es/tutorial/manutencao-de-base-full-cleanup--34P9LGs7BCIQK6acQom802).
 
-![Programar reindexación completa](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/troubleshooting/operaciones-de-la-tienda/no-logro-indexar-un-producto-del-catalogo_1.png)
+![Programar reindexación completa](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/troubleshooting/operaciones-de-la-tienda/no-logro-indexar-un-producto-del-catalogo_1.png)

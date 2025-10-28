@@ -23,12 +23,12 @@ Add-on products are solutions offered by VTEX to meet the specific business need
 
 [Assisted Sales (SuiteShare)](/en/tracks/suiteshare--khP0p8mjIYRIpvM7Cb4Zr/onWmyS8j4Thhde67UBBsB) is the solution created by VTEX to boost sales through WhatsApp. It allows you to attract new customers, integrate sales tools, and manage user service data and result metrics.
 
-![suitshare-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/onboarding-guide/next-steps-after-the-go-live/add-on-products_1.JPG)
+![suitshare-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/onboarding-guide/next-steps-after-the-go-live/add-on-products_1.JPG)
 
 ## VTEX Live Shopping
 VTEX Live Shopping allows creating online broadcasts for live demos of store product features. Direct and instantaneous interactions with customers improve public engagement with the brand and help increase sales performance.
 
-![live-shopping-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/onboarding-guide/next-steps-after-the-go-live/add-on-products_2.JPG)
+![live-shopping-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/onboarding-guide/next-steps-after-the-go-live/add-on-products_2.JPG)
 
 To schedule an app demo with an expert, go to the [VTEX Live Shopping](https://vtex.com/us-en/live-shopping/#contact) page.
 
@@ -36,7 +36,7 @@ To schedule an app demo with an expert, go to the [VTEX Live Shopping](https://v
 
 VTEX Personal Shopper allows offering a direct, personalized service between the customer and the sales associate, bringing the physical store shopping experience to the digital environment. The sales associate can show products, make recommendations, and answer customers' questions through this app. They can also add items to the shopping cart during a video call.
 
-![personal-shopper-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/onboarding-guide/next-steps-after-the-go-live/add-on-products_3.JPG)
+![personal-shopper-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/onboarding-guide/next-steps-after-the-go-live/add-on-products_3.JPG)
 
 To schedule an app demo with an expert, go to the [VTEX Personal Shopper](https://vtex.com/us-en/vtex-personal-shopper/#contact) page.
 
@@ -50,7 +50,7 @@ VTEX Pick and Pack is a solution for managing and ensuring complete visibility t
 
 - [Last Mile app](/en/tutorial/vtex-pick-and-pack-last-mile--HN7WKV0xoq2ssVjsJlfzr): Coordinates the shipping of packages from warehouses or stores to the customer's address by creating efficient delivery routes, selecting available drivers, and tracking the exact location of the order.
 
-![pick-and-pack-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/onboarding-guide/next-steps-after-the-go-live/add-on-products_4.JPG)
+![pick-and-pack-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/onboarding-guide/next-steps-after-the-go-live/add-on-products_4.JPG)
 
 To watch an app demo or schedule a custom service with an expert, go to the[ VTEX Pick and Pack](https://content.vtex.com/en/pick-and-pack/) page. 
 
@@ -65,7 +65,7 @@ With [VTEX Sales App](/en/tracks/instore-getting-started-and-setting-up--zav76TF
 
 - Manage performance metrics for each sales associate.
 
- ![sales-app-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/onboarding-guide/next-steps-after-the-go-live/add-on-products_5.JPG)
+ ![sales-app-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/onboarding-guide/next-steps-after-the-go-live/add-on-products_5.JPG)
 
 To watch an app demo or schedule a custom service with an expert, go to the[ VTEX Sales App](https://assets.vtex.com/sales-app/) page.
 
@@ -77,7 +77,7 @@ Explore options for shipping products to all regions of Brazil with [VTEX Shippi
 
 **VTEX Shipping Network** offers the option of connecting carriers to create an integrated delivery network. With currently over 20 partners, it provides customers with the best cost and delivery time options.
 
-![shipping-network-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/onboarding-guide/next-steps-after-the-go-live/add-on-products_6.png)
+![shipping-network-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/onboarding-guide/next-steps-after-the-go-live/add-on-products_6.png)
 
 Learn more on the [VTEX Shipping Network](https://vtex.com/br-pt/shipping-network/) page.
 
@@ -85,7 +85,7 @@ Learn more on the [VTEX Shipping Network](https://vtex.com/br-pt/shipping-networ
 
 [VTEX Shipping Network Correios](/en/tutorial/vtex-shipping-network-correios-faq--2Wavf7Wie5GEUAEHKtn5oC) is a partnership between VTEX and Correios, the primary postal service in Brazil. This solution allows stores to use PAC and SEDEX shipping services directly through the VTEX Admin with special rates, thereby reducing operational shipping costs.
 
-![image6](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/onboarding-guide/next-steps-after-the-go-live/add-on-products_7.png)
+![image6](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/onboarding-guide/next-steps-after-the-go-live/add-on-products_7.png)
 
 Requesting this solution is simple and can be done in a few minutes. To do so, accept the Terms and Conditions and [enable](/en/tutorial/vtex-shipping-network-correios-ativacao--57opHihFbRAwrjQjCTymTa) the solution in the store's Admin. These are the features available in the VTEX Shipping Network Correios:
 

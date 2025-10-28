@@ -23,15 +23,15 @@ Puedes agregar tu cuenta pública de Viber como un canal en la plataforma.
 
 Ve a la configuración del Workspace y haz clic en Add Channel.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/agregando-un-canal-de-viber-rapidpro_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/agregando-un-canal-de-viber-rapidpro_1.png)
 
 Desplázate hacia abajo hasta la opción de Viber y haz clic en ella.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/agregando-un-canal-de-viber-rapidpro_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/agregando-un-canal-de-viber-rapidpro_2.png)
 
 Después de eso, verás una breve descripción del canal. El único requisito para conectar Viber es un token de autorización (llamado App token por el equipo de Viber).
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/agregando-un-canal-de-viber-rapidpro_3.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/agregando-un-canal-de-viber-rapidpro_3.png)
 
 ##### **Ahora veamos cómo obtener este App token**
 
@@ -41,23 +41,23 @@ El proceso principal consiste en aprobar una cuenta pública de Viber y obtener 
 
 Instala la aplicación móvil de Viber y realiza el proceso de registro mediante un número de teléfono exclusivo para el proyecto. Con tu cuenta válida, accede al panel de administración de Viber y vincúlala a una cuenta pública.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/agregando-un-canal-de-viber-rapidpro_4.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/agregando-un-canal-de-viber-rapidpro_4.png)
 
 Recibirás un token de verificación en el móvil, confírmalo también.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/agregando-un-canal-de-viber-rapidpro_5.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/agregando-un-canal-de-viber-rapidpro_5.png)
 
 En el panel izquierdo, selecciona Create Bot Account.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/agregando-un-canal-de-viber-rapidpro_6.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/agregando-un-canal-de-viber-rapidpro_6.png)
 
 Completa todos los requisitos presentados y haz clic en Create al final de la página.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/agregando-un-canal-de-viber-rapidpro_7.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/agregando-un-canal-de-viber-rapidpro_7.png)
 
 Tomará unos segundos para procesar y aparecerá una nueva ventana con el token necesario.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/agregando-un-canal-de-viber-rapidpro_8.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/agregando-un-canal-de-viber-rapidpro_8.png)
 
 **Enviar el canal**
 
@@ -67,15 +67,15 @@ Ahora vuelve a RapidPro, pega el token y haz clic en Submit.
 
 El canal de Viber fue creado, pero para que sea publicado y esté disponible para todo tu público, el equipo de soporte de Viber requiere algunos pasos. El primer paso es proporcionar un mensaje de bienvenida. Para agregar uno, ve a la configuración de tu Workspace y abre la configuración del Canal de Viber.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/agregando-un-canal-de-viber-rapidpro_9.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/agregando-un-canal-de-viber-rapidpro_9.png)
 
 Después de eso, haz clic en el icono de menú y luego en la opción Edit.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/agregando-un-canal-de-viber-rapidpro_10.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/agregando-un-canal-de-viber-rapidpro_10.png)
 
 Cuando hagas clic en Editar, aparecerá una nueva ventana para que añadas un correo electrónico de alerta y un mensaje de bienvenida. Guarda los cambios después de eso.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/agregando-un-canal-de-viber-rapidpro_11.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/agregando-un-canal-de-viber-rapidpro_11.png)
 
 ### **Publicar la cuenta**
 

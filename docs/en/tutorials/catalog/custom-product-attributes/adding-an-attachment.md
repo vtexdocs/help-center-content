@@ -31,7 +31,7 @@ Attachments can be used to [complement a product with custom information](/en/tu
 After adding the attachment, you need to add the keys and **permitted values** related to it. You can add as many keys as you wish. To add the keys and **permitted values**, follow the steps below.
 
 1. On the **Custom product attributes** page, find the row of the attachment you have created and click `Modify`, as illustrated in the image below.
-  ![anexos.pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/custom-product-attributes/adding-an-attachment_1.PNG)
+  ![anexos.pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/custom-product-attributes/adding-an-attachment_1.PNG)
 2. Fill in the fields listed below.
     * **Key Name:** name of the custom information. This field is required and must contain only letters, numbers, or periods. For example, if the customizable product is a U.S. soccer jersey, its key names can be `Name` and `Number`.
     * **Maximum Number of Characters:** the maximum number of characters the customer can type to add custom information to the product. For example, in this field you could set the character limit for the name that will be printed on a shirt. This field is required. If you do not fill it in, the attachment will not be displayed to your customer as a selection option in the cart.

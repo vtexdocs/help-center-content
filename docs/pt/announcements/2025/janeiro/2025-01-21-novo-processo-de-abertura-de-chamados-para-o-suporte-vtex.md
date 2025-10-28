@@ -27,7 +27,7 @@ Essa mudança traz:
 - **Respostas instantâneas:** receba orientações rápidas para dúvidas comuns.
 - **Processo simplificado:** se a dúvida persistir, abra um chamado diretamente no Admin VTEX com ajuda do Copilot.
 
-![Chatbot-PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2025/janeiro/2025-01-21-novo-processo-de-abertura-de-chamados-para-o-suporte-vtex_1.gif)
+![Chatbot-PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2025/janeiro/2025-01-21-novo-processo-de-abertura-de-chamados-para-o-suporte-vtex_1.gif)
 
 ## O que precisa ser feito?
 Nenhuma ação é necessária. A funcionalidade já está disponível para os usuários que desejam abrir um chamado no Admin VTEX.

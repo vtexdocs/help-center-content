@@ -34,7 +34,7 @@ Después de recibir el archivo del banco y guardarlo en su máquina, conforme ci
 
 Luego que seleccione el archivo, la plataforma empezará a procesarlo y registrará en histórico cuántos pagos se conciliaron con éxito o error. Los pagos que se concilien con éxito actualizarán los status de los pedidos para Pago Aprobado.
 
-![upload-archivo-ret](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/conciliaciones-bancarias/conciliaciones-bancarias_1.JPG)
+![upload-archivo-ret](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/conciliaciones-bancarias/conciliaciones-bancarias_1.JPG)
 
 ## Visualizar el histórico
 
@@ -46,7 +46,7 @@ De entre los detalles es posible saber el banco al cual el boleto pertenece, el 
 2. En **Historial**, haga clic en una de las fechas de las operaciones de conciliación bancaria realizadas.
 3. En **Más detalles**, haga clic en **Conciliado Satisfactoriamente** o **No conciliados** para verificar los detalles de las transacciones realizadas en un banco en particular. 
 
-![historico-conciliacion](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/conciliaciones-bancarias/conciliaciones-bancarias_2.jpg)
+![historico-conciliacion](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/conciliaciones-bancarias/conciliaciones-bancarias_2.jpg)
 
 ## Payclub
 
@@ -57,4 +57,4 @@ Aquí es posible hacer el download de los pagos del día que se han hecho a trav
 3. Seleccione la fecha que desee del calendario.
 4. Haga clic en **Descargar archivo**.
 
-![descarga-archivo-conciliación](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/conciliaciones-bancarias/conciliaciones-bancarias_3.JPG)
+![descarga-archivo-conciliación](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/conciliaciones-bancarias/conciliaciones-bancarias_3.JPG)

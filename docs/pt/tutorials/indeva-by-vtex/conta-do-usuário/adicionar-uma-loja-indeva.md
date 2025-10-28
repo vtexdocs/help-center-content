@@ -23,4 +23,4 @@ O contato com o time comercial deve ser feito por meio do [formulário de solici
 
 > ℹ️ No campo **Tipo de solicitação**, selecione a opção **Nova Loja** para que o formulário correto seja exibido.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/conta-do-usu%C3%A1rio/adicionar-uma-loja-indeva_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/conta-do-usu%C3%A1rio/adicionar-uma-loja-indeva_1.png)

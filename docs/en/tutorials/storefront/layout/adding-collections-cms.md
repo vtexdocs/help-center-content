@@ -29,7 +29,7 @@ Follow the steps below to add a new collection:
 
 Choosing the products that will make up a collection is done by clicking on __New Group__ in the desired collection, creating a __group__.
 
-![new-group-collection en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/layout/adding-collections-cms_1.png)
+![new-group-collection en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/layout/adding-collections-cms_1.png)
 
 Before choosing which products to add to a group, you will need to give it a name and specify which type the created group falls under.
 
@@ -69,17 +69,17 @@ For example: When selecting a category `A` and a brand `B`, only products pertai
 
 To add the products of a specific department to a group, select the desired department and click on __Save Group__, as shown in the image below.
 
-![seleção-departamento EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/layout/adding-collections-cms_2.png)
+![seleção-departamento EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/layout/adding-collections-cms_2.png)
 
 The same applies for products of a specific Category or Subcategory.
 
-![seleção-categoria-subcategoria EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/layout/adding-collections-cms_3.png)
+![seleção-categoria-subcategoria EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/layout/adding-collections-cms_3.png)
 
 ## Product by Brand
 
 To create a group containing products from one or more brands, select the desired brand from the corresponding list.
 
-![seleção-marca-coleção en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/layout/adding-collections-cms_4.png)
+![seleção-marca-coleção en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/layout/adding-collections-cms_4.png)
 
 Brands are displayed in alphabetical order. When clicking on the first letter corresponding to the desired brand, the list expands and displays the existing brands.
 
@@ -89,7 +89,7 @@ Brands are displayed in alphabetical order. When clicking on the first letter co
 
 When adding a SKU to a group, the product to which it is linked is also added. If the product is linked to more than one SKU, adding one SKU would also add all other SKUs to the group.
 
-![selecao-sku-manual en & es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/layout/adding-collections-cms_5.png)
+![selecao-sku-manual en & es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/layout/adding-collections-cms_5.png)
 
 In the __find SKUs__ field, you can type in as many SKU IDs as needed, separating each one by a comma. 
 
@@ -101,27 +101,27 @@ To remove an SKU from the list, click on the red button next to it.
 
 ### By spreadsheet
 
- > ℹ️ Get the file template for adding SKUs to or removing them from a collection [here](https://raw.githubusercontent.com/vtexdocs/help-center-content/files-migration-script/docs/en/tutorials/storefront/layout/Colecao.xls).
+ > ℹ️ Get the file template for adding SKUs to or removing them from a collection [here](https://cdn.statically.io/gh/vtexdocs/help-center-content/files-migration-script/docs/en/tutorials/storefront/layout/Colecao.xls).
 
 #### Bulk Upload
 
 You can __Bulk insert SKUs__ by importing an `.xls` format spreadsheet to list SKUs that will be part of a group.
 
-![selecao-sku-planilha-insert en & es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/layout/adding-collections-cms_6.png)
+![selecao-sku-planilha-insert en & es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/layout/adding-collections-cms_6.png)
 
 In the imported spreadsheet, all SKU IDs must be listed in the first column, with a header, as shown in the example below:
 
-![exemplo-planilha-seleção-sku-coleção](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/layout/adding-collections-cms_7.png) 
+![exemplo-planilha-seleção-sku-coleção](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/layout/adding-collections-cms_7.png) 
 
 After selecting the desired spreadsheet, click on the __Import SKUs__ option to sent the information.
 
-![Import SKUs](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/layout/adding-collections-cms_8.png)
+![Import SKUs](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/layout/adding-collections-cms_8.png)
 
 #### Bulk remove
 
 To avoid having to remove SKUs one at a time, you can use the import function of a spreadsheet to bulk remove them.
 
-![exclusao-skus-manualmente-planilha-coleção-cms en & es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/layout/adding-collections-cms_9.png)
+![exclusao-skus-manualmente-planilha-coleção-cms en & es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/layout/adding-collections-cms_9.png)
 
 In this specific case, the SKUs listed in the imported spreadsheet will be excluded from the group. Do this by clicking on __remove SKUs__ after the file has been loaded. 
 
@@ -133,7 +133,7 @@ In this specific case, the SKUs listed in the imported spreadsheet will be exclu
 
 Note that you can only select one of the two options. Should you want both add-ons, create two groups and configure each one with the respective option.
 
-![other-options-cms-coleções EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/layout/adding-collections-cms_10.png)
+![other-options-cms-coleções EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/layout/adding-collections-cms_10.png)
 
 ### Pre-sales
 

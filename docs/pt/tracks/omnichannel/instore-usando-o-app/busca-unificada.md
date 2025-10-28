@@ -19,13 +19,13 @@ Com a [prateleira infinita](/pt/tracks/estrategias-de-comercio-unificado--3WGDRR
 
 > ℹ️ Para melhorar a experiência em cenários em que a conexão com a internet esteja em baixa velocidade, esta funcionalidade conta com recursos otimizados que fazem uso do cache do navegador para otimizar a busca.
 
-![Barra busca - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/instore-usando-o-app/busca-unificada_1.gif)
+![Barra busca - PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/instore-usando-o-app/busca-unificada_1.gif)
 
 A busca do VTEX Sales App é unificada, o que significa que ao fazer uma busca no aplicativo a pesquisa é feita tanto no estoque local (da sua loja física) quanto no de outras lojas físicas e nos centros de distribuição associados ao ecommerce.
 
 Os resultados da busca mostram os produtos organizados para melhorar a experiência do cliente, com imagens que facilitam a identificação dos produtos e informações relevantes para o vendedor.
 
-![Busca unificada - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/instore-usando-o-app/busca-unificada_2.png)
+![Busca unificada - PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/instore-usando-o-app/busca-unificada_2.png)
 
 Ao clicar na opção `Adicionar ao carrinho`, as seguintes informações do produto serão exibidas:
 
@@ -35,7 +35,7 @@ Ao clicar na opção `Adicionar ao carrinho`, as seguintes informações do prod
 
 Para adicionar o produto ao carrinho, selecione a variação, entrega e quantidade desejada e clique em `Adicionar ao carrinho`.
 
-![Carrinho - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/instore-usando-o-app/busca-unificada_3.png)
+![Carrinho - PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/instore-usando-o-app/busca-unificada_3.png)
 
 ## Filtros
 

@@ -17,7 +17,7 @@ order: 1
 
 A evolução do varejo online trouxe uma série de melhorias à experiência do cliente, e uma das mais relevantes talvez seja a que transformou a relação multicanal entre cliente e loja em uma relação de omnicanalidade.
 
-![32. Unified Commerce 101 - 2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/estrategias-de-comercio-unificado/comercio-unificado-101_1.png)
+![32. Unified Commerce 101 - 2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/estrategias-de-comercio-unificado/comercio-unificado-101_1.png)
 
 Em uma arquitetura __multicanal__, cada canal se comunica de forma independente com a loja, seja o ecomerce, as lojas físicas, o SAC, as mídias sociais etc. Quando um cliente interage com um desses canais, a loja não tem conhecimento algum sobre quem é esse cliente.
 
@@ -27,7 +27,7 @@ No omnichannel, entretanto, os pedidos ainda são processados de forma isolada. 
 
 O __Comércio Unificado__ resolve esse problema.
 
-![32. Unified Commerce 101 - 1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/estrategias-de-comercio-unificado/comercio-unificado-101_2.png)
+![32. Unified Commerce 101 - 1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/estrategias-de-comercio-unificado/comercio-unificado-101_2.png)
 
 O Comércio Unificado é uma evolução do omnichannel: além do compartilhamento de dados, nessa estratégia acontece também a __unificação do sistema de processamento e gerenciamento dos pedidos__. Na prática, isso significa que todo pedido realizado em um canal da loja fica não apenas visível por outros canais como pode ser processado por eles.
 

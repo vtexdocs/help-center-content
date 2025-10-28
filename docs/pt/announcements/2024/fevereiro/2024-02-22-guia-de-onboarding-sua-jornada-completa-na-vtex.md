@@ -19,7 +19,7 @@ Com foco no sucesso dos nossos clientes, a VTEX oferece soluções completas par
 
 E para que você adote facilmente novos recursos, gerencie seu negócio com autonomia e ganhe em escalabilidade, disponibilizamos o novo Guia de onboarding, um conteúdo da jornada completa de operar uma loja VTEX. O material está disponível na seção [Comece aqui](/pt/tracks) do Help Center.
 
-  ![Guia de onboarding](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2024/fevereiro/2024-02-22-guia-de-onboarding-sua-jornada-completa-na-vtex_1.png)
+  ![Guia de onboarding](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2024/fevereiro/2024-02-22-guia-de-onboarding-sua-jornada-completa-na-vtex_1.png)
 
 ## O que é o Guia de onboarding?
 
@@ -37,19 +37,19 @@ Nosso objetivo é que clientes, parceiros e todo o ecossistema VTEX se beneficie
 Veja a seguir uma [introdução](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/3QfoDZWg9YWl8lwS9MVrnU) do que você encontrará no guia.
 
 <div>
-    <img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2024/fevereiro/2024-02-22-guia-de-onboarding-sua-jornada-completa-na-vtex_2.png" height="90" alt="Trilha da loja VTEX">
+    <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2024/fevereiro/2024-02-22-guia-de-onboarding-sua-jornada-completa-na-vtex_2.png" height="90" alt="Trilha da loja VTEX">
 </div>
 
 A **Trilha da loja VTEX** apresenta o contexto inaugural da operação, começando pela definição de qual [tipo de conta e arquitetura](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl) são adequados às necessidades do negócio. A partir disso, é possível realizar as [configurações iniciais](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4EPwTXx5oFdSG1dA3zIchz) e as configurações dos [módulos](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7) da plataforma, focando em acelerar a inauguração da loja. Uma vez que as [integrações de backend](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu) estejam concluídas e a implementação da tecnologia de [frontend](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ) para a construção da frente de loja tenha sido finalizada, é chegado o momento do [go-live](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/6xYnNxDHUcY6FyChgziCoH) e da inauguração da nova loja.
 
 <div>
-    <img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2024/fevereiro/2024-02-22-guia-de-onboarding-sua-jornada-completa-na-vtex_3.png" height="90" alt="Proximos passos apos o go live">
+    <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2024/fevereiro/2024-02-22-guia-de-onboarding-sua-jornada-completa-na-vtex_3.png" height="90" alt="Proximos passos apos o go live">
 </div>
 
 A trilha **Próximos passos após o go-live** apresenta como o [comércio unificado](/pt/tracks/proximos-passos-apos-o-go-live--3J7WFZyvTcoiwkcIVFVhIS/5Qvw31yH2FPDBl14K5xXHA) é realizado com os recursos da plataforma, incluindo [configurações de módulos](/pt/tracks/proximos-passos-apos-o-go-live--3J7WFZyvTcoiwkcIVFVhIS/V1fs7IkfYMfn91ZVHTLu4) não mencionadas anteriormente, pois aqui o foco é na evolução da operação. Esta trilha apresenta também os [produtos Add on](/pt/tracks/proximos-passos-apos-o-go-live--3J7WFZyvTcoiwkcIVFVhIS/1t2QBZvrOBSLgvHaAV9fYm) da VTEX, uma série de produtos que podem ser adquiridos à parte para permitir novas estratégias e diversificação do negócio.
 
 <div>
-    <img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2024/fevereiro/2024-02-22-guia-de-onboarding-sua-jornada-completa-na-vtex_4.png" height="90" alt="Suporte na VTEX">
+    <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2024/fevereiro/2024-02-22-guia-de-onboarding-sua-jornada-completa-na-vtex_4.png" height="90" alt="Suporte na VTEX">
 </div>
 
 O **Suporte na VTEX** apresenta o [suporte](/pt/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/7w7cUmbrdPEKpTMItjXEB8) que prestamos aos clientes, o que não se restringe a uma parte específica da jornada. O [funcionamento do suporte](/pt/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/2Ik9CGbPeZIHHaYFsuyId3) é inclusive referenciado nas outras trilhas, pois a [abertura de chamados](/pt/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/6EboD7Y1BOLlWdT8JM15EE) é a via para determinadas contratações e solicitações. Esta trilha foi organizada para que os nossos clientes tenham a melhor experiência com nossos serviços e que disponham das informações necessárias à abertura de chamados, seja no contexto de suporte [técnico](/pt/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/3thRAdTB3gGwTB0e1fVL3T), [financeiro](/pt/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/3g2mhmPDx5GszNgLDICzsl) ou [comercial](/pt/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ).
@@ -69,4 +69,4 @@ Desejamos que este material contribua para o sucesso do seu negócio e sua satis
 | Parte I | Parte II | Parte III |
 | [Trilha da loja VTEX](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/3QfoDZWg9YWl8lwS9MVrnU) | [Próximos passos após o go-live](/pt/tracks/proximos-passos-apos-o-go-live--3J7WFZyvTcoiwkcIVFVhIS/7bORBaAr4rIG3JgRi68jIK) | [Suporte na VTEX](/pt/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/7w7cUmbrdPEKpTMItjXEB8) |
 
-  ![Imagem de ecommerce](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2024/fevereiro/2024-02-22-guia-de-onboarding-sua-jornada-completa-na-vtex_5.png)
+  ![Imagem de ecommerce](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2024/fevereiro/2024-02-22-guia-de-onboarding-sua-jornada-completa-na-vtex_5.png)

@@ -19,7 +19,7 @@ La página **Claves de API** permite configurar alertas para recomendar la renov
 
 [Renovar los tokens](/es/tutorial/renovar-token-de-api--7r4AzptYjXErGHadg9LnJ3%5D) periódicamente es importante para garantizar la seguridad, limitar la exposición a riesgos y controlar el acceso a los recursos, lo que minimiza el impacto de claves comprometidas.
 
-![token-renewal-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/gesti%C3%B3n-de-la-cuenta/claves-de-api/configurar-alerta-para-renovar-tokens-de-api_1.png)
+![token-renewal-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/gesti%C3%B3n-de-la-cuenta/claves-de-api/configurar-alerta-para-renovar-tokens-de-api_1.png)
 
 La alerta de renovación se muestra a los 3 meses de forma predeterminada, a menos que se seleccione otra opción. Para configurar la periodicidad de la alerta sigue los pasos a continuación:
 
@@ -39,11 +39,11 @@ La periodicidad de la alerta se aplicará a todas las claves, tanto nuevas como 
 
 Cuando se cumple el plazo definido, la alerta de renovación se muestra al lado de la clave en la pestaña **Generadas**:
 
-![renew-recommended-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/gesti%C3%B3n-de-la-cuenta/claves-de-api/configurar-alerta-para-renovar-tokens-de-api_2.png)
+![renew-recommended-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/gesti%C3%B3n-de-la-cuenta/claves-de-api/configurar-alerta-para-renovar-tokens-de-api_2.png)
 
 La alerta naranja indica que el token superó el plazo de uso recomendado por un periodo inferior a 3 meses.
 
-![renew-highly-recommended-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/gesti%C3%B3n-de-la-cuenta/claves-de-api/configurar-alerta-para-renovar-tokens-de-api_3.png)
+![renew-highly-recommended-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/gesti%C3%B3n-de-la-cuenta/claves-de-api/configurar-alerta-para-renovar-tokens-de-api_3.png)
 
 La alerta roja indica que el plazo de uso recomendado se superó hace 3 meses o más.
 

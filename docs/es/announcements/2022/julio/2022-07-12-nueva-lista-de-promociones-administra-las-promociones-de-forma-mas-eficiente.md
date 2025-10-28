@@ -30,7 +30,7 @@ Para la Lista de promociones, desarrollamos una nueva interfaz que te permite:
 * Exportar tu lista de promociones activas.
 * Duplicar las promociones activas o archivadas para que el proceso de creación sea más rápido.
 
-![lista-promocoes-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2022/julio/2022-07-12-nueva-lista-de-promociones-administra-las-promociones-de-forma-mas-eficiente_1.PNG)
+![lista-promocoes-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2022/julio/2022-07-12-nueva-lista-de-promociones-administra-las-promociones-de-forma-mas-eficiente_1.PNG)
 
 ## ¿Por qué realizamos este cambio?
 

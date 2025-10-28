@@ -28,10 +28,10 @@ You can place a test order in the store and then check in **Orders Management** 
 
 Example: Imagine an order in which free shipping has been applied, but you don't know the reason. By clicking on an order in **Orders Management**, you would find the name of the promotion registered in the **Sales and Marketing** or **Promotions and Partnerships** section.
 
-<img class="db center mv9 shadow-4 pointer" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/how-to-identify-promotions-applied-to-the-cart_3.png" alt="order-details" style="margin-bottom: 20px;"> <figcaption align = "center"><em>Order details
+<img class="db center mv9 shadow-4 pointer" src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/how-to-identify-promotions-applied-to-the-cart_3.png" alt="order-details" style="margin-bottom: 20px;"> <figcaption align = "center"><em>Order details
 </em></figcaption></figure>
 
-<img class="db center mv9 shadow-4 pointer" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/how-to-identify-promotions-applied-to-the-cart_4.png" alt="order-details-beta" style="margin-bottom: 20px;"> <figcaption align = "center"><em>Order details
+<img class="db center mv9 shadow-4 pointer" src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/how-to-identify-promotions-applied-to-the-cart_4.png" alt="order-details-beta" style="margin-bottom: 20px;"> <figcaption align = "center"><em>Order details
  (Beta)</em></figcaption></figure>
 
 If no promotion is listed, it indicates that the free shipping is not caused by a promotion, i.e. the shipping calculation in the **Inventory & shipping** module has resulted in zero. In this case, you have to use the **Shipping Simulator** to understand why shipping had zero value.
@@ -42,7 +42,7 @@ In the cart, you can move your mouse over the question mark icon below the price
 
 However, if more than one promotion is applied, what appears will be the sum of the discounts, making it difficult to analyze the scenario.
 
-![example-cart](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/how-to-identify-promotions-applied-to-the-cart_1.png)
+![example-cart](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/how-to-identify-promotions-applied-to-the-cart_1.png)
 
 ## orderForm
 
@@ -56,7 +56,7 @@ Follow the step-by-step instructions to find the `orderForm` and identify the pr
 2. Click on `Network`.
 3. Check the **Preserve log** option.
 4. Reload the page.
-5. After loading, press `Ctrl+F` to perform the search in the **Developer Tools**. Type `orderForm` in the search bar. ![order-form](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/how-to-identify-promotions-applied-to-the-cart_2.png)
+5. After loading, press `Ctrl+F` to perform the search in the **Developer Tools**. Type `orderForm` in the search bar. ![order-form](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/how-to-identify-promotions-applied-to-the-cart_2.png)
 6. Click on the `orderForm` line. A new window will open next to it.
 7. Click on `Preview`.
 8. Search for `ratesAndBenefitsData` and click on the item.

@@ -29,7 +29,7 @@ This means that on these external platforms, you can **set up a URL to receive d
 
 To configure your webhook, go to **Applications \> My Apps \> WhatsApp Channel you want to configure \> Webhook \> Configure Method, URL, and Request Header:**
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/webhook-configuration-message-delivery-status_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/webhook-configuration-message-delivery-status_1.png)
 
 After setting up the webhook service, you can create solutions via code or external applications as needed.
 
@@ -37,7 +37,7 @@ After setting up the webhook service, you can create solutions via code or exter
 
 The data that the webhooks will send to your external service (URL) is in JSON format:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/webhook-configuration-message-delivery-status_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/webhook-configuration-message-delivery-status_2.png)
 
 The ""status"" parameter will inform the message status; if read, it will appear as ""read.""
 

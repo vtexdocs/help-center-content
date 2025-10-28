@@ -42,7 +42,7 @@ As principais características dos triggers são:
 
 Antes de [criar um trigger](#configurar-um-trigger), é necessário compreender que a configuração de um trigger se dá por quatro partes, explicadas a seguir.
 
-![trigger](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/master-data/triggers-no-master-data-v1/criando-trigger-no-master-data_1.png)
+![trigger](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/master-data/triggers-no-master-data-v1/criando-trigger-no-master-data_1.png)
 
 ### Ação que dispara o trigger
 
@@ -119,7 +119,7 @@ Aqui, você deve definir as condições que vão disparar o(s) evento(s) configu
 
    Selecione quais são os campos e quais os valores aceitos ou não para que o trigger seja disparado.
 
-   ![filters-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/master-data/triggers-no-master-data-v1/criando-trigger-no-master-data_2.png)
+   ![filters-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/master-data/triggers-no-master-data-v1/criando-trigger-no-master-data_2.png)
 
 > ℹ️ O Master Data v1 não permite configuração de retentativas de trigger, diferente do Master Data v2.
 
@@ -139,7 +139,7 @@ Nesta aba, você deve configurar os eventos a serem disparados caso o registro q
 
 Envia um email para destinatários dinâmicos (contidos no registro) ou estáticos. O email a ser enviado é  personalizado, podendo ser um texto, HTML ou até mesmo o conteúdo de uma URL. É possível inserir anexos e o campo **Tags válidas** mostra como inserir valores de campos do registro.
 
-![send-email-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/master-data/triggers-no-master-data-v1/criando-trigger-no-master-data_3.png)
+![send-email-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/master-data/triggers-no-master-data-v1/criando-trigger-no-master-data_3.png)
 
 #### Enviar um email usando um modelo do VTEX Message Center
 
@@ -155,7 +155,7 @@ Envia uma requisição HTTP com a possibilidade de salvar informações da respo
 
 Preencha a seção **Informações da solicitação** com as informações da requisição a ser enviada. Na seção **Ação de resposta**, você poderá indicar como as informações da resposta deverão ser salvas no Master Data.
 
-![http-request-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/master-data/triggers-no-master-data-v1/criando-trigger-no-master-data_4.png)
+![http-request-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/master-data/triggers-no-master-data-v1/criando-trigger-no-master-data_4.png)
 
 Para configurar a **Ação de resposta**, selecione a entidade de dados desejada e defina, para cada campo a ser salvo, o caminho JSON correspondente na resposta.
 

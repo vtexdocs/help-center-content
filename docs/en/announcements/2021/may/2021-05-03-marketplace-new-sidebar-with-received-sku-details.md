@@ -24,7 +24,7 @@ Previously, to check a received SKU's information, you had to leave the main lis
 
 The sidebar contains the SKU's images, price, inventory levels, and product attributes such as a description, specifications, codes and IDs. It also includes the matching percentage that the SKU received from the [matcher](/en/tutorial/entendendo-a-pontuacao-do-vtex-matcher?locale=pt) set up in your store. You can still access the SKU’s full details by clicking on the button *View details page*.
 
-![EN Sidebar received](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2021/may/2021-05-03-marketplace-new-sidebar-with-received-sku-details_1.gif)
+![EN Sidebar received](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2021/may/2021-05-03-marketplace-new-sidebar-with-received-sku-details_1.gif)
 
 ## Why did we make this change?
 We developed the sidebar to provide more agility to your operation and facilitate the cataloging of received SKUs, by allowing you to:  

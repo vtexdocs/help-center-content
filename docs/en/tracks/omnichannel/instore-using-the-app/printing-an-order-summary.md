@@ -19,7 +19,7 @@ When an order is placed using VTEX Sales App, it is possible to print the order 
 
 To do this, the sales associate can click on the `Print order` button on the completed order screen, as illustrated below. Another option is to configure VTEX Sales App to print the order summary automatically as soon as an order is placed.
 
-![15. Configurar impressão de resumo do pedido - 1 - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/instore-using-the-app/printing-an-order-summary_1.png)
+![15. Configurar impressão de resumo do pedido - 1 - EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/instore-using-the-app/printing-an-order-summary_1.png)
 
 To enable order summary printing, follow the steps below.
 
@@ -49,13 +49,13 @@ After obtaining the AppKey and AppToken, follow the steps below.
 2. Open the VTEX Sales App app and enter the name of the store where you want to configure the printer.
 3. In the VTEX Sales App main menu, go to **Settings** and click on the <i class="fas fa-cog"></i> **Configure device** option, as shown below.
 
-![15. Configurar impressão de resumo do pedido - 2 - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/instore-using-the-app/printing-an-order-summary_2.png)
+![15. Configurar impressão de resumo do pedido - 2 - EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/instore-using-the-app/printing-an-order-summary_2.png)
 
 <ol start="4">
   <li>You will see the summary of the configured device. If this is the first time this configuration is performed, the fields on the screen will be empty, as shown in the image below. If a device has been previously configured, you will see the **Device name** and **Default printer**. Click on the <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">Edit</span> button.</li>
 </ol>
 
-![15. Configurar impressão de resumo do pedido - 4 - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/instore-using-the-app/printing-an-order-summary_3.png)
+![15. Configurar impressão de resumo do pedido - 4 - EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/instore-using-the-app/printing-an-order-summary_3.png)
 
 <ol start="5">
   <li>Fill out the form according to the descriptions below.

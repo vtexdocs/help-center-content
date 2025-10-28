@@ -60,7 +60,7 @@ Deve-se escolher a cor disponível mais próxima que, no caso da Wish, "Gelo" po
 
 > ℹ️ OBS: o cabeçalho da tabela deve ser preenchida exatamente como está no exemplo abaixo. Lembre-se de não adicionar caracteres especiais como enter ou espaço no preenchimento dessa tabela.
 
-![PT - Tabela Wish](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/marketplace/integracao-com-a-wish/mapeamento-de-cor-e-tamanho_1.png)
+![PT - Tabela Wish](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/marketplace/integracao-com-a-wish/mapeamento-de-cor-e-tamanho_1.png)
 
 ## Fazendo o upload
 

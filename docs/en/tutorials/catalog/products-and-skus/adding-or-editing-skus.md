@@ -46,7 +46,7 @@ Every new SKU must be linked to a product. Once the product is created, follow t
 
 After creating the SKU, you can track its availability for sale through the colored icon. Hovering over the icon displays a tooltip with the meaning of the color, as in the image below. Learn more in [Products and SKUs](/en/tutorial/products-and-skus--2ig7TmROlirWirZjFWZ3By).
 
-![adding_or_editting_sku_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/products-and-skus/adding-or-editing-skus_1.png)
+![adding_or_editting_sku_EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/products-and-skus/adding-or-editing-skus_1.png)
 
 Additionally, once the SKU is created, you can include it in a [bundle](/en/tutorial/o-que-e-um-kit--5ov5s3eHM4AqAAgqWwoc28). To do so, in the row of the desired SKU, click the menu icon and select the `Create bundle` option. Note that converting a SKU into a bundle can't be undone.
 

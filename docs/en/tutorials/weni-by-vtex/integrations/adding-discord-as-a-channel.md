@@ -29,12 +29,12 @@ https://discord.com/developers/applications
 
 1. Go to the ""Bot"" tab and click ""Add Bot"". You will have to confirm by clicking ""Yes, do it!""
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/adding-discord-as-a-channel_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/adding-discord-as-a-channel_1.png)
 
 2. Keep the default settings for Public Bot (checked) and Require OAuth2 code grant (unchecked).
 3. The next step is to copy the token.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/adding-discord-as-a-channel_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/adding-discord-as-a-channel_2.png)
 
 4.Click ""Reset Token"" and get your token.
 
@@ -42,10 +42,10 @@ https://discord.com/developers/applications
 
 1. Within the project, go to: Applications \-> Discovery \-> Add Discord.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/adding-discord-as-a-channel_3.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/adding-discord-as-a-channel_3.png)
 
 2. After adding it to ""My Applications,"" insert your discord\_bot\_token provided by the Discord Developer page and the Proxy URL, which is the URL where the Discord proxy is running.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/adding-discord-as-a-channel_4.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/adding-discord-as-a-channel_4.png)
 
 3. Save Changes.

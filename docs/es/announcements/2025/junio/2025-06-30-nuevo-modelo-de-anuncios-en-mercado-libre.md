@@ -23,7 +23,7 @@ La [integración con Mercado Libre](/es/tracks/configurar-integracao-do-mercado-
 
 En el modelo anterior, se creaba un anuncio en el marketplace cuando el seller enviaba un producto a través de la integración de su tienda con Mercado Libre. Todos los SKU de este producto estaban vinculados al mismo anuncio, sin la posibilidad de tener atributos tales como precio, origen del stock, tipo de envío y descuento de forma individual.  
 
-![uptin1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2025/junio/2025-06-30-nuevo-modelo-de-anuncios-en-mercado-libre_1.jpg)
+![uptin1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2025/junio/2025-06-30-nuevo-modelo-de-anuncios-en-mercado-libre_1.jpg)
 
 En el nuevo modelo, los anuncios se crean en el marketplace a partir del envío de los SKU. Para agrupar los SKU de un producto, **Mercado Libre** identifica las características similares y genera automáticamente un conjunto denominado **Family_id.**  
 
@@ -31,7 +31,7 @@ Al crear un nuevo anuncio, Mercado Libre utilizará los atributos del SKU como t
 
 También se han modificado algunas denominaciones: lo que antes era **Product Name** ahora es **Family_id**; los **SKU**  se llaman ahora **User Product** y los **Atributos lógicos o condiciones de venta** son ahora **item_id.**  
 
-![uptin-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2025/junio/2025-06-30-nuevo-modelo-de-anuncios-en-mercado-libre_2.png)
+![uptin-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2025/junio/2025-06-30-nuevo-modelo-de-anuncios-en-mercado-libre_2.png)
 
 ## ¿Qué se necesita hacer?
 

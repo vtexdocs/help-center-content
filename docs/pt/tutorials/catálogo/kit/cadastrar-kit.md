@@ -36,7 +36,7 @@ As instruções a seguir são para realizar o cadastro de um kit.
 2. Acesse a página de edição do SKU que será um dos componentes. Se ainda não houver um SKU criado, confira [Adicionar ou editar SKU](/pt/tutorial/adicionar-ou-editar-sku--4ryZ6J45kwn3jDiQBxGiiN).
 3. Na aba **SKUs**, clique no <i class="fas fa-ellipsis-v" aria-hidden="true"></i> menu na linha do SKU.
 
-  ![bundle_registration_image_1_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/cat%C3%A1logo/kit/cadastrar-kit_1.png)
+  ![bundle_registration_image_1_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/cat%C3%A1logo/kit/cadastrar-kit_1.png)
 
 4. Clique em `Formar kit`.
 5. Clique em `Converter em kit`.
@@ -45,7 +45,7 @@ As instruções a seguir são para realizar o cadastro de um kit.
 
 Após transformar o SKU em um kit, a palavra `Kit` aparece ao lado do ID do SKU:
 
-![bundle_registration_image_2_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/cat%C3%A1logo/kit/cadastrar-kit_2.png)
+![bundle_registration_image_2_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/cat%C3%A1logo/kit/cadastrar-kit_2.png)
 
 Caso deseje, você pode duplicar o SKU ou movê-lo para outro produto. Estas ações estão disponíveis no mesmo menu com a opção para `Formar kit`, descrita no passo 4.
 

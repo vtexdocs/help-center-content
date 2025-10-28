@@ -28,7 +28,7 @@ This article will explain how to associate the Device Fingerprint feature with t
 1. Login on http://www.google.com/tagmanager/ for the stored to be set up;
 2. Enter the tags section to set up the device session id;
 3. Crete an “HTML Personalized” product with the following image:
-  ![payU 1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payment-settings/how-to-set-up-fingerprint-for-payu_1.png)
+  ![payU 1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payment-settings/how-to-set-up-fingerprint-for-payu_1.png)
 4. In the HTML field of the setup, find the HTML code that calls the code to send information to PayU:
 
 ```
@@ -74,31 +74,31 @@ This article will explain how to associate the Device Fingerprint feature with t
 <div id="maf"></div>
 ```
 
-![payU 2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payment-settings/how-to-set-up-fingerprint-for-payu_2.png)
+![payU 2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payment-settings/how-to-set-up-fingerprint-for-payu_2.png)
 
 It is then necessary to continue on to advanced set up in accordance with the following image:
-  ![payU 3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payment-settings/how-to-set-up-fingerprint-for-payu_3.png)
+  ![payU 3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payment-settings/how-to-set-up-fingerprint-for-payu_3.png)
 
 To set up the event, follow these steps:
 
 1. Click on the tab More:
-  ![payU 4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payment-settings/how-to-set-up-fingerprint-for-payu_4.png)
+  ![payU 4](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payment-settings/how-to-set-up-fingerprint-for-payu_4.png)
 2. Create a personalized event:
-  ![payU 5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payment-settings/how-to-set-up-fingerprint-for-payu_5.png)
+  ![payU 5](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payment-settings/how-to-set-up-fingerprint-for-payu_5.png)
 3. Fill it in as follows:
-  ![payU 6](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payment-settings/how-to-set-up-fingerprint-for-payu_6.png)
+  ![payU 6](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payment-settings/how-to-set-up-fingerprint-for-payu_6.png)
 4. We save the event and subsequently save the tag (tag):
-  ![payU 7](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payment-settings/how-to-set-up-fingerprint-for-payu_7.png)
+  ![payU 7](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payment-settings/how-to-set-up-fingerprint-for-payu_7.png)
 5. Once the tag has been saved, it is necessary to publish it:
-  ![payU 8](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payment-settings/how-to-set-up-fingerprint-for-payu_8.png)
+  ![payU 8](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payment-settings/how-to-set-up-fingerprint-for-payu_8.png)
 
 Once the tag has been set up, it is necessary to save the JS captured from the code. This is saved in the VTEX file manager. To do this, follow these steps:
 
 - Accessing the VTEX panel in the CMS menu >> Layout >> File Manager >> .js File Management >> Add.
 
-![cms js](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payment-settings/how-to-set-up-fingerprint-for-payu_9.png)
+![cms js](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payment-settings/how-to-set-up-fingerprint-for-payu_9.png)
 
-__Attachment__: [md5.js](https://raw.githubusercontent.com/vtexdocs/help-center-content/files-migration-script/docs/en/tutorials/payments/payment-settings/md5.js)
+__Attachment__: [md5.js](https://cdn.statically.io/gh/vtexdocs/help-center-content/files-migration-script/docs/en/tutorials/payments/payment-settings/md5.js)
 
 ### Validation
 
@@ -110,4 +110,4 @@ To validate it, it is necessary to enter the store and to complete the purchase 
 
 If the result is found, it means that the setup is correct and that Fingerprint is working properly. For example:
 
-![payU 9](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payment-settings/how-to-set-up-fingerprint-for-payu_10.png)
+![payU 9](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payment-settings/how-to-set-up-fingerprint-for-payu_10.png)

@@ -23,13 +23,13 @@ The templates used by store layouts, by default, don't carry any class in their 
 
 See, for example, the Department template code.
 
-![changeBodyClass1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/layout/changing-a-pages-body-class_1.jpg)
+![changeBodyClass1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/layout/changing-a-pages-body-class_1.jpg)
 
 It has an `id`, but not a `class`.
 
 However, when loading a layout that uses this template, we note that the `departmento` class has been added to the body of the page.
 
-![changeBodyClass2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/layout/changing-a-pages-body-class_2.jpg)
+![changeBodyClass2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/layout/changing-a-pages-body-class_2.jpg)
 
 That is, the system inserts this class automatically.
 

@@ -97,7 +97,7 @@ To install the app, go to the VTEX App Store:
 
 > ⚠️ The configurations made in the Automatic Invoice field will be applied to all orders.
 
-![MCF](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/apps/amazon-mcf-app/amazon-multi-channel-fulfillment-mcf-app_1.PNG)
+![MCF](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/apps/amazon-mcf-app/amazon-multi-channel-fulfillment-mcf-app_1.PNG)
 
 ### Integrating the catalog
 

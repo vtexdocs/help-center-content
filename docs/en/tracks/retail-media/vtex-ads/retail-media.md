@@ -42,22 +42,22 @@ VTEX Ads allows you to set up different campaign types to achieve specific objec
 
 Sponsored product ads are the most common format in retail media. Sponsored products are displayed in strategic positions, such as search results and product listing pages, based on keywords and categories accessed by the consumer. This increases product visibility and the conversion rate.
 
-![sponsored-products](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/retail-media/vtex-ads/retail-media_1.png)
+![sponsored-products](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/retail-media/vtex-ads/retail-media_1.png)
 
 ### Banner/Display
 
 Banners or displays are used to promote specific products and offers, typically shown in selected areas of the site, such as category pages or the homepage. This format focuses on visually highlighting promotions.
 
-![banner-display](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/retail-media/vtex-ads/retail-media_2.png)
+![banner-display](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/retail-media/vtex-ads/retail-media_2.png)
 
 ### Sponsored brands
 
 This format allows brands to position their ads clearly, combining banner elements and sponsored products into a single digital advertising experience.
 
-![sponsored-brands](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/retail-media/vtex-ads/retail-media_3.png)
+![sponsored-brands](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/retail-media/vtex-ads/retail-media_3.png)
 
 ### In-store display
 
 This campaign type uses LED or LCD screens in physical stores to display campaigns and promotions. These displays can be used to increase brand awareness and promote specific offers based on consumer buying behavior.
 
-![digital-signage](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/retail-media/vtex-ads/retail-media_4.png)
+![digital-signage](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/retail-media/vtex-ads/retail-media_4.png)

@@ -22,7 +22,7 @@ subcategoryId: 7e9LaCixVcvflzgWkxlftd
 3. Busca **Azure Bot** en el cuadro de búsqueda.
 4. Selecciona **Azure Bot** en el marketplace.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/creacion-de-un-canal-de-microsoft-teams_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/creacion-de-un-canal-de-microsoft-teams_1.png)
 
 5. Selecciona **Crear**.
 6. Ingresa el nombre identificador para el bot en el campo de identificación.
@@ -32,11 +32,11 @@ subcategoryId: 7e9LaCixVcvflzgWkxlftd
 
 Selecciona el tipo de aplicación; se recomienda multiinquilino. Luego, selecciona Revisar \+ Crear.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/creacion-de-un-canal-de-microsoft-teams_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/creacion-de-un-canal-de-microsoft-teams_2.png)
 
 10. Selecciona Crear si la validación es aprobada. Tomará unos momentos para que tu servicio de bot sea aprovisionado.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/creacion-de-un-canal-de-microsoft-teams_3.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/creacion-de-un-canal-de-microsoft-teams_3.png)
 
 11. Selecciona Ir al recurso. ¡Ahora tu aplicación está creada!
 
@@ -44,27 +44,27 @@ Selecciona el tipo de aplicación; se recomienda multiinquilino. Luego, seleccio
 
 1. Desde Configuración, selecciona Configuración. Guarda el ID de aplicación de Microsoft (ID de cliente) para referencia futura.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/creacion-de-un-canal-de-microsoft-teams_4.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/creacion-de-un-canal-de-microsoft-teams_4.png)
 
 2. Selecciona Administrar junto al ID de aplicación de Microsoft.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/creacion-de-un-canal-de-microsoft-teams_5.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/creacion-de-un-canal-de-microsoft-teams_5.png)
 
 3. En la sección Secretos de Cliente, selecciona Nuevo Secreto de Cliente. Aparecerá la ventana Agregar un Secreto de Cliente.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/creacion-de-un-canal-de-microsoft-teams_6.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/creacion-de-un-canal-de-microsoft-teams_6.png)
 
 4. Ingresa una Descripción y un período para la expiración del secreto, luego selecciona Agregar.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/creacion-de-un-canal-de-microsoft-teams_7.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/creacion-de-un-canal-de-microsoft-teams_7.png)
 
 5. Selecciona Copiar al portapapeles en la columna de Valor y guarda el ID del secreto de cliente para referencia futura.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/creacion-de-un-canal-de-microsoft-teams_8.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/creacion-de-un-canal-de-microsoft-teams_8.png)
 
 6. Necesitas buscar un dato más que necesitarás para la creación del canal en la plataforma de Weni. Para hacerlo, regresa a Inicio y selecciona tu bot. Ve a Información general en el menú de la izquierda y luego selecciona Vista JSON. Se abrirá un JSON con información sobre tu aplicación; busca el tenant id y guarda el valor.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/creacion-de-un-canal-de-microsoft-teams_9.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/creacion-de-un-canal-de-microsoft-teams_9.png)
 
 #### **Para agregar el canal de Microsoft Teams**
 
@@ -78,11 +78,11 @@ Selecciona el tipo de aplicación; se recomienda multiinquilino. Luego, seleccio
 
 #### **Para agregar el canal de Microsoft Teams a tu bot**
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/creacion-de-un-canal-de-microsoft-teams_10.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/creacion-de-un-canal-de-microsoft-teams_10.png)
 
 1. Selecciona la casilla para aceptar los términos de servicio y selecciona Aceptar.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/creacion-de-un-canal-de-microsoft-teams_11.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/creacion-de-un-canal-de-microsoft-teams_11.png)
 
 2. Selecciona Guardar.
 
@@ -99,12 +99,12 @@ Selecciona el tipo de aplicación; se recomienda multiinquilino. Luego, seleccio
 9. En Tenant id ingresa el valor de tenant id que guardaste anteriormente.
 10. Ahora haz clic en Enviar.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/creacion-de-un-canal-de-microsoft-teams_12.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/creacion-de-un-canal-de-microsoft-teams_12.png)
 
 11. ¡Ahora tu canal está creado!
 12. En la página del canal a la que serás dirigido justo después de hacer clic en Enviar, tendrás el ID de ese canal, necesitaremos ese valor. Para obtenerlo, puedes copiar el ID largo que aparece al final de la URL de esta página. Después de leer/copiar todo este ID compuesto de números, letras y guiones, guárdalo.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/creacion-de-un-canal-de-microsoft-teams_13.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/creacion-de-un-canal-de-microsoft-teams_13.png)
 
 #### **Configurar el Endpoint en la Aplicación**
 
@@ -115,7 +115,7 @@ Selecciona el tipo de aplicación; se recomienda multiinquilino. Luego, seleccio
 
 Ejemplo: [https://new.push.al/c/tm/37b755f9-2d97-48fd-8c46-6f0f4d102d16/receive](https://new.push.al/c/tm/37b755f9-2d97-48fd-8c46-6f0f4d102d16/receive)
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/creacion-de-un-canal-de-microsoft-teams_14.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/creacion-de-un-canal-de-microsoft-teams_14.png)
 
 #### **Configurar el bot en Teams**
 

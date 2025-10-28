@@ -33,7 +33,7 @@ Esse é o passo mais importante para ativar o B2B. Ao configurar a Política Com
 
 Normalmente, nos B2Bs convencionais, esse campo é preenchido com o valor `approved="true"` (`approved` é o nome de um campo na entidade Cliente, no Master Data). Com essa regra, o sistema permite que apenas usuários autenticados e aprovados naveguem no site.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/b2b/guias-pr%C3%A1ticos/configurando-b2b-na-vtex_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/b2b/guias-pr%C3%A1ticos/configurando-b2b-na-vtex_1.png)
 
 ## 2. Customizar layout de diretórios B2B
 
@@ -47,15 +47,15 @@ Veja as características básicas de cada tipo de usuário:
 
 Dessa forma, para ter um ambiente B2B, será necessário customizar as pastas **401** e **403**, filhas da pasta **sistema**.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/b2b/guias-pr%C3%A1ticos/configurando-b2b-na-vtex_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/b2b/guias-pr%C3%A1ticos/configurando-b2b-na-vtex_2.png)
 
 Navegação por um usuário Anônimo (ao tentar acessar qualquer página, será redirecionado para 401):
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/b2b/guias-pr%C3%A1ticos/configurando-b2b-na-vtex_3.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/b2b/guias-pr%C3%A1ticos/configurando-b2b-na-vtex_3.png)
 
 Navegação por um usuário não aprovado (ao tentar acessar qualquer página, será redirecionado para 403):
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/b2b/guias-pr%C3%A1ticos/configurando-b2b-na-vtex_4.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/b2b/guias-pr%C3%A1ticos/configurando-b2b-na-vtex_4.png)
 
 ## 3. Definir campos de pré-cadastro
 
@@ -69,7 +69,7 @@ Dessa forma, é necessário definir os campos desse pré-cadastro. Normalmente, 
 
 Após definidos os campos, você deverá criar o formulário de pré-cadastro na pasta **/sistema/401**, pois é a única pasta para onde o usuário anônimo sempre será redirecionado.
 
-As informações submetidas no formulário deverão ser enviadas para o CRM através das APIs do Master Data ([veja documentação](https://developers.vtex.com/reference/master-data-api-v2-overview), ou seja, será necessário desenvolver um JavaScript para aplicar essa função. Confira aqui um [exemplo de template HTML e JavaScript](https://raw.githubusercontent.com/vtexdocs/help-center-content/files-migration-script/docs/pt/tutorials/b2b/guias-práticos/ExemploTemplateB2B.rar) com esse propósito.
+As informações submetidas no formulário deverão ser enviadas para o CRM através das APIs do Master Data ([veja documentação](https://developers.vtex.com/reference/master-data-api-v2-overview), ou seja, será necessário desenvolver um JavaScript para aplicar essa função. Confira aqui um [exemplo de template HTML e JavaScript](https://cdn.statically.io/gh/vtexdocs/help-center-content/files-migration-script/docs/pt/tutorials/b2b/guias-práticos/ExemploTemplateB2B.rar) com esse propósito.
 
 ## 5. Operação
 

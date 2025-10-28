@@ -26,7 +26,7 @@ Collection at the beginning of the period is calculated as follows:
 1. i = Interest rate
 2. n = Number of installments
 3. PV = Present Value (total amount of the purchase without interest)
-4. Installment = ![juros-inicio-periodo](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payments-overview/how-do-you-calculate-payments-in-installments-with-compound-interest_1.png)
+4. Installment = ![juros-inicio-periodo](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payments-overview/how-do-you-calculate-payments-in-installments-with-compound-interest_1.png)
 
 ## End of the period
 
@@ -35,7 +35,7 @@ Collection at the end of the period is calculated as follows:
 1. i = Interest rate
 2. n = Number of installments
 3. PV = Present Value (total amount of the purchase without interest)
-4. Cash Flow Multiplier =![cash-flow](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payments-overview/how-do-you-calculate-payments-in-installments-with-compound-interest_2.png)
+4. Cash Flow Multiplier =![cash-flow](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payments-overview/how-do-you-calculate-payments-in-installments-with-compound-interest_2.png)
 5. Installment = `PV x Cash Flow Multiplier`
 
 ## Examples
@@ -45,11 +45,11 @@ Collection at the end of the period is calculated as follows:
 1. i = 1%
 2. n = 12
 3. PV = 1000
-![conta0](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payments-overview/how-do-you-calculate-payments-in-installments-with-compound-interest_3.png)
+![conta0](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payments-overview/how-do-you-calculate-payments-in-installments-with-compound-interest_3.png)
 
 ### End of the period
 
 1. i = 1%
 2. n = 12
 3. PV = 1000
-4. ![conta1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payments-overview/how-do-you-calculate-payments-in-installments-with-compound-interest_4.png)![conta2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payments-overview/how-do-you-calculate-payments-in-installments-with-compound-interest_5.png)
+4. ![conta1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payments-overview/how-do-you-calculate-payments-in-installments-with-compound-interest_4.png)![conta2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payments-overview/how-do-you-calculate-payments-in-installments-with-compound-interest_5.png)

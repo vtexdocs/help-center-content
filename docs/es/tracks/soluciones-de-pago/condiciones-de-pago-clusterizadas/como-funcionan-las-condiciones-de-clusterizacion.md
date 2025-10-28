@@ -25,7 +25,7 @@ De esta manera, las reglas de plazo y de pago en cuotas se aplicarán al consumi
 
 Para configurarlas, escoja una propiedad y, luego, seleccione los parámetros para crear un clúster.
 
-![Pagamentos Clusterizados_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/soluciones-de-pago/condiciones-de-pago-clusterizadas/como-funcionan-las-condiciones-de-clusterizacion_1.png)
+![Pagamentos Clusterizados_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/soluciones-de-pago/condiciones-de-pago-clusterizadas/como-funcionan-las-condiciones-de-clusterizacion_1.png)
 
 ## Propiedad
 

@@ -57,7 +57,7 @@ En el cálculo del rendimiento, se consideran todos los paquetes que forman part
 
 El rendimiento es el resultado porcentual del cálculo entre la relación de paquetes entregados a tiempo y el total de paquetes entregados. Por lo tanto, el cálculo del rendimiento solo toma en cuenta los paquetes entregados. Veamos:
 
-![equation ES performance](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/vtex-shipping-network/panel-vtex-shipping-network_1.gif)
+![equation ES performance](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/vtex-shipping-network/panel-vtex-shipping-network_1.gif)
 
  La herramienta de rendimiento de VTEX Shipping Network permite:
 
@@ -93,4 +93,4 @@ Puede descargar el informe con los datos de las transportadoras y las entregas d
 2. Espere hasta recibir la plantilla por email.
 3. Descargue la plantilla.
 
-![Resumo de performance ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/vtex-shipping-network/panel-vtex-shipping-network_2.png)
+![Resumo de performance ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/vtex-shipping-network/panel-vtex-shipping-network_2.png)

@@ -19,14 +19,14 @@ A partir de ahora, su tiendna puede utilizar punto y coma (`;`) para concatenar 
 
 Esta feature funciona en los campos de copia (`CC`) y copia oculta (`CCO`), así como la coma ya funcionaba anteriormente. Ahora las dos opciones de concatenación son válidas.
 
-![Message Center bug fix - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2018/agosto/2018-08-13-nueva-concatenacion-reduce-errores-en-envios-de-email_1.png)
+![Message Center bug fix - EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2018/agosto/2018-08-13-nueva-concatenacion-reduce-errores-en-envios-de-email_1.png)
 
 Este cambio simple en el módulo responsable del envío de e-mails transaccionales redujo drásticamente la tasa de errores en comunicaciones con clientes.
 
 El gráfico siguiente muestra la tasa de errores de una tienda antes de implementado el soporte de concatenación con punto y coma. Más del 90% de los correos electrónicos fallaban todos los días.
 
-![Message Center bug fix 2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2018/agosto/2018-08-13-nueva-concatenacion-reduce-errores-en-envios-de-email_2.png)
+![Message Center bug fix 2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2018/agosto/2018-08-13-nueva-concatenacion-reduce-errores-en-envios-de-email_2.png)
 
 Después de implementada la mejora, los errores en el envío de e-mails transaccionales de la misma tienda fueron completamente eliminados, como muestra este otro gráfico:
 
-![Message Center bug fix 3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2018/agosto/2018-08-13-nueva-concatenacion-reduce-errores-en-envios-de-email_3.png)
+![Message Center bug fix 3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2018/agosto/2018-08-13-nueva-concatenacion-reduce-errores-en-envios-de-email_3.png)

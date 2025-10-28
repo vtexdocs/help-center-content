@@ -23,7 +23,7 @@ Ahora usted puede filtrar los precios combinando las múltiples Categorías y Ma
 
 Esta actualización de la funcionalidad permite la exportación de precios más específicos, a partir de la selección de los filtros.
 
-![filtro preco-ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2020/septiembre/2020-09-11-filtro-para-precios-mas-flexibilidad-de-busqueda_1.png)
+![filtro preco-ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2020/septiembre/2020-09-11-filtro-para-precios-mas-flexibilidad-de-busqueda_1.png)
 
 ## ¿Qué necesito hacer?
 Para utilizar esta nueva configuración, realice los siguientes pasos:

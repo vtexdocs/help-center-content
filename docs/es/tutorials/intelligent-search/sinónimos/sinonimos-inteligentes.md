@@ -30,7 +30,7 @@ Las sugerencias se muestran en dos categorías en la lista de sinónimos, como s
 * **Nuevas sugerencias:** son aquellas generadas por la plataforma que aún no se han revisado.
 * **Sugerencias guardadas:** son aquellas que se guardaron para su posterior revisión, tal como se describe en el paso 5 de la sección [Revisar sugerencias](#revisar-sugestoes).
 
-![synonym-suggestion-list-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/intelligent-search/sin%C3%B3nimos/sinonimos-inteligentes_1.png)
+![synonym-suggestion-list-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/intelligent-search/sin%C3%B3nimos/sinonimos-inteligentes_1.png)
 
 Puedes revisar las sugerencias generadas y elegir guardar para más tarde, rechazar, editar o aprobar. Consulta el paso a paso en la siguiente sección.
 
@@ -46,7 +46,7 @@ Sigue las instrucciones para visualizar las sugerencias de sinónimos y definir 
 
 4. Verás un modal con la primera sugerencia de sinónimo. Cada sugerencia indica el término buscado y el término que se agregará como sinónimo, y también el número de veces que los clientes de tu tienda reescribieron el término original por el segundo término en los últimos 30 días.
 
-   ![synonym-suggestion-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/intelligent-search/sin%C3%B3nimos/sinonimos-inteligentes_2.png)
+   ![synonym-suggestion-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/intelligent-search/sin%C3%B3nimos/sinonimos-inteligentes_2.png)
 
 4. Para revisar cada sugerencia, elige una de las siguientes opciones:
     * <i class="fas fa-bookmark"></i> **Guardar para más tarde:** remueve la sugerencia del recuento **Nuevas sugerencias** y la almacena en **Sugerencias guardadas**. Para analizarla posteriormente, haz clic en `Revisar`.

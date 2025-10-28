@@ -20,7 +20,7 @@ O Mídia é uma funcionalidade responsável por gerenciar os arquivos de mídia 
 
 > ⚠️ Para upload, os arquivos devem ter uma extensão em minúsculo, por exemplo, `store.png`, e tamanho de até **5 MB**.
 
-![Mídia Visão Geral](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/headless-cms/midia-visao-geral_1.png)
+![Mídia Visão Geral](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/headless-cms/midia-visao-geral_1.png)
 
 Além disso, o Mídia está integrado ao **Site Editor** e ao **Headless CMS**, o que permite que ele seja acessado e gerenciado diretamente através de soluções de CMS da VTEX. 
 
@@ -42,7 +42,7 @@ Há três maneiras de acessar o Mídia no Admin:
 
 Na imagem a seguir, confira a visão geral da interface do Mídia e as ações disponíveis para gerenciar seus arquivos de mídia:
 
-![Mídia Features](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/headless-cms/midia-visao-geral_2.png)
+![Mídia Features](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/headless-cms/midia-visao-geral_2.png)
 
 | Campo | Descrição |
 | ---------- | ------------- |

@@ -19,7 +19,7 @@ The creation of a flow aims to fully connect a set of actions in order to achiev
 
 Variables are used to store the values and results of these steps, allowing data persistence. For example, the **Wait for Response** option below will generate a flow variable called name as the contact's response. Additionally, the variable will be used to save the data in the contact's Name field.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/flows/expressions-and-variables-introduction_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/flows/expressions-and-variables-introduction_1.png)
 
 Variables start with the symbol `@`. However, you can also move on to more complex expressions using `@(`. These expressions are modeled within specific syntaxes and are intended to handle data in order to manipulate the variables saved by the platform.
 

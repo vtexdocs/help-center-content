@@ -32,7 +32,7 @@ A continuación, explicamos cómo realizar esta configuración:
 5. Acceda a la caja de __HTML__.      
 6. Introduzca el código de las imágenes que desea insertar.  
 
-  ![Let me know - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/productos-y-skus/insertar-imagenes-en-el-email-de-avisame_1.jpg)
+  ![Let me know - ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/productos-y-skus/insertar-imagenes-en-el-email-de-avisame_1.jpg)
 
 7. Haga clic en `Guardar`.  
 

@@ -25,19 +25,19 @@ The **support manager** can make changes to the department they manage, such as 
 
 All of this management is done within the project under **Settings > Chats**.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/weni-settings/weni-chats-setting-up-human-attendance_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/weni-settings/weni-chats-setting-up-human-attendance_1.png)
 
 ### Sector
 
 In the department, you can set the operating hours for human support, define the limit of simultaneous chats per agent, and add tags. These tags allow agents to classify chats by topic at the end of each interaction, making future searches and reporting easier.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/weni-settings/weni-chats-setting-up-human-attendance_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/weni-settings/weni-chats-setting-up-human-attendance_2.png)
 
 ### Queue
 
 A department must have at least one queue. Queues are used to subdivide a department if you want a department with more than one group of agents. If this subdivision isn’t necessary, simply create a single queue.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/weni-settings/weni-chats-setting-up-human-attendance_3.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/weni-settings/weni-chats-setting-up-human-attendance_3.png)
 
 An example of using queues can be seen in a **Technical Support** department. For this department, it may be helpful to have queues like **Basic**, **Intermediate**, and **Advanced**, where the bot filters and directs the contact to the appropriate queue based on their needs.
 
@@ -49,4 +49,4 @@ If an agent is assigned to more than one queue, whether in the same or different
 
 Tags are used to classify the characteristics of a support interaction, allowing chats to be searched and filtered based on these tags. When closing a chat, the agent will use tags to categorize the conversation according to its topic and other relevant characteristics.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/weni-settings/weni-chats-setting-up-human-attendance_4.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/weni-settings/weni-chats-setting-up-human-attendance_4.png)

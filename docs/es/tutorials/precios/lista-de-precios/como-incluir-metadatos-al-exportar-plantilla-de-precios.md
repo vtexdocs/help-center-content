@@ -18,7 +18,7 @@ subcategoryId: 4id9W3RDyw02CasOm2C2iy
 Para incluir metadatos al exportar una plantilla de precios de SKUs, siga los siguientes pasos:
 
 1. Haga clic en **Precios** en el menú de la izquierda de la página 
-![ESRefID 1.png h 250?h=250](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/precios/lista-de-precios/como-incluir-metadatos-al-exportar-plantilla-de-precios_1.png)
+![ESRefID 1.png h 250?h=250](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/precios/lista-de-precios/como-incluir-metadatos-al-exportar-plantilla-de-precios_1.png)
 
 2. Haga clic en **lista de precios** 
 
@@ -29,6 +29,6 @@ Para incluir metadatos al exportar una plantilla de precios de SKUs, siga los si
 5. Haga clic en **incluir metadados en las tablas exportadas**
 
 6. Haga clic en el botón **Exportar tabla**
-![ESRefID 2.png?h=250](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/precios/lista-de-precios/como-incluir-metadatos-al-exportar-plantilla-de-precios_2.png)
+![ESRefID 2.png?h=250](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/precios/lista-de-precios/como-incluir-metadatos-al-exportar-plantilla-de-precios_2.png)
 
 En algunos minutos usted recibirá un e-mail con la tabla exportada.

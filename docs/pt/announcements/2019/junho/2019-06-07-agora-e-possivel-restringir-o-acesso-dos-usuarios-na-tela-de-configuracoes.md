@@ -19,7 +19,7 @@ announcementSynopsisPT: 'Possibilidade de limitar perfis de acesso a tela Config
 
 Buscando garantir maior segurança, criamos a possibilidade de limitar perfis de acesso a tela de **Configurações** do módulo Gerenciamento de Pedidos, permitindo que somente alguns usuários editem as informações.
 
-![2019-06-07 17 23 36-Configurações.pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2019/junho/2019-06-07-agora-e-possivel-restringir-o-acesso-dos-usuarios-na-tela-de-configuracoes_1.png)
+![2019-06-07 17 23 36-Configurações.pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2019/junho/2019-06-07-agora-e-possivel-restringir-o-acesso-dos-usuarios-na-tela-de-configuracoes_1.png)
 
 ## Principais Vantagens
 
@@ -39,7 +39,7 @@ Para fazer isso é necessário adicionar um produto chamado `Checkout` ao perfil
  6. Escolha o tipo de permissão desejada: `Save Order Configuration`, para permitir que o usuário edite e salve modificações na seção de **Pedidos**, ou `Save OrderForm Configuration`, para permitir a edição na seção de **Carrinho**.
  7. Clique em **Salvar**
 
-![GIT-Checkout.pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2019/junho/2019-06-07-agora-e-possivel-restringir-o-acesso-dos-usuarios-na-tela-de-configuracoes_2.gif)
+![GIT-Checkout.pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2019/junho/2019-06-07-agora-e-possivel-restringir-o-acesso-dos-usuarios-na-tela-de-configuracoes_2.gif)
 
 Após adicionar este novo produto a um perfil, certifique-se de que os usuários desejados estão associados a este perfil de acesso.
   

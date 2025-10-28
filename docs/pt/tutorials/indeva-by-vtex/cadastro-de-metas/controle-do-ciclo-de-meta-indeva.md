@@ -31,7 +31,7 @@ Existem duas modalidades:
 
 Para configurar essa etapa do cadastro, clique na opção que corresponde ao controle desejado.  
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/cadastro-de-metas/controle-do-ciclo-de-meta-indeva_1.PNG)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/cadastro-de-metas/controle-do-ciclo-de-meta-indeva_1.PNG)
 
 Após a seleção, o sistema direciona automaticamente para a próxima etapa do cadastro.  
 

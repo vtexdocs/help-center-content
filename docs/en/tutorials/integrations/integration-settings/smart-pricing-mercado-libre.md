@@ -33,7 +33,7 @@ After activating the feature, the seller must track the suggestions in the [Pric
 
 You can identify all price suggestions in the Price module by their **ID** following this structure: `186-Automation`, as shown in the image below:
 
-![Mercado Libre Smart Pricing](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/integrations/integration-settings/smart-pricing-mercado-libre_1.png)
+![Mercado Libre Smart Pricing](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/integrations/integration-settings/smart-pricing-mercado-libre_1.png)
 
 ## Automatic price adjustment
 

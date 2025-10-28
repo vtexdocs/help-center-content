@@ -17,7 +17,7 @@ order: 1
 
 A Livelo é a plataforma de marketplace com o maior programa de recompensas do Brasil. Atualmente, a Livelo comercializa produtos diversos, com destaque para as categorias de eletrônicos, eletrodomésticos, eletroportáteis e utilidades domésticas.
 
-![Logo Livelo](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/marketplace/integracao-livelo/visao-geral-da-integracao-com-a-livelo_1.jpg)  
+![Logo Livelo](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/marketplace/integracao-livelo/visao-geral-da-integracao-com-a-livelo_1.jpg)  
 
 A conﬁguração com a Livelo tem como objetivo conectar sua loja VTEX com o marketplace, permitindo que você anuncie seus produtos, aumente suas vendas e atingindo novos clientes a partir deste novo canal.   
 

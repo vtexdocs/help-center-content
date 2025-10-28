@@ -19,7 +19,7 @@ A [Shopee](https://shopee.com.br/) é uma plataforma de e-commerce que opera com
 
 Com a integração entre a VTEX e a Shopee, você pode expandir sua presença digital e utilizar a Shopee como um canal estratégico de vendas, alcançando um público ainda maior e aproveitando os benefícios da plataforma para impulsionar seu negócio.
 
-![Integração Shopee](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/integracao-shopee/visao-geral-da-integracao-shopee_1.png)
+![Integração Shopee](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/integracao-shopee/visao-geral-da-integracao-shopee_1.png)
 
 Este guia orienta como configurar sua loja com a Shopee através do conector desenvolvido pela VTEX. Para realizar a configuração entre VTEX e Shopee, é necessário criar e configurar uma conta na [Central do vendedor Shopee](https://seller.shopee.com.br) e  realizar algumas configurações na plataforma VTEX. 
 

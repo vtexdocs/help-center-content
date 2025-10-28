@@ -78,7 +78,7 @@ To link a service to a SKU, please follow the steps below:
 7. Fill in the [template fields](#template-fields). Keep the file in CSV format when saving changes.
 > ⚠️ The size of the template file cannot exceed 4Mb (4096KB).
 8. Click on the bar next to the `Select` button, as shown below.
-  ![Anexos - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/custom-product-attributes/creating-service-for-a-sku_1.png)
+  ![Anexos - EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/custom-product-attributes/creating-service-for-a-sku_1.png)
 9. Select the updated CSV template.
 10. Click on the button `Link service values to SKU`.
 

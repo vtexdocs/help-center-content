@@ -23,21 +23,21 @@ O envio das mensagens segue um cronograma pré-definido, respeitando uma sequên
 
 -  Acesse a opção ""**Campanhas**"", dentro do módulo ""**Estúdio**"" no menu lateral
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/como-criar-uma-campanha_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/como-criar-uma-campanha_1.png)
 
 -    Clique em ""**Criar Campanha**"" para criar a campanha
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/como-criar-uma-campanha_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/como-criar-uma-campanha_2.png)
 
 -    Crie um nome para a sua campanha, e escolha um **Grupo** para o qual as mensagens serão enviadas e uma nova janela será aberta.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/como-criar-uma-campanha_3.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/como-criar-uma-campanha_3.png)
 
 Cada campanha pode operar **apenas um grupo.** Sendo então necessário uma nova campanha para cada grupo com o qual você deseja interagir.
 
 -    Agora defina as regras do evento clicando no botão **Adicionar evento **e uma jenela será aberta
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/como-criar-uma-campanha_4.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/como-criar-uma-campanha_4.png)
 
 1. Poderá escolher entre enviar uma mensagem ou selecionar um fluxo
 

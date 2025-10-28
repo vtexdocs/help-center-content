@@ -82,7 +82,7 @@ Para imprimir etiquetas específicas e notificar as transportadoras encarregadas
 
 As transportadoras são notificadas quando é feito o download das etiquetas. 
 
-![etiquetas](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-shipping-network/pronto-para-envio_1.png)
+![etiquetas](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-shipping-network/pronto-para-envio_1.png)
 
 > ❗ Em caso de erros ou dúvidas, entre em contato diretamente com o suporte do **VTEX Shipping Network** através do email vtexlog@vtex.com.br.
 

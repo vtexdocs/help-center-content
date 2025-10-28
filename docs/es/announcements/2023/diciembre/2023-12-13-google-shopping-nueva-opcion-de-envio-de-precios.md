@@ -25,14 +25,14 @@ Antes, el registro de la [integración con Google Shopping](/es/tracks/configura
 
 > ⚠️ La configuración **Aplicar descuento al precio enviado** solo está disponible para tiendas VTEX en Brasil.
 
-![envio-de-precos-google-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2023/diciembre/2023-12-13-google-shopping-nueva-opcion-de-envio-de-precios_1.png)
+![envio-de-precos-google-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2023/diciembre/2023-12-13-google-shopping-nueva-opcion-de-envio-de-precios_1.png)
 
 ## ¿Qué se necesita hacer?
 
 La actualización estará disponible para todas las [cuentas VTEX que operan como seller](/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#sendo-seller-vtex) a partir del 14 de diciembre de 2023.
 Las cuentas que aún no utilizan la integración con Google Shopping y desean activar la configuración __Enviar precio base (para precios con descuento)__ y __Aplicar descuento al precio enviado__, deben seguir [esta serie de tutoriales](/es/tracks/configurar-integracao-com-o-google-shopping--25Sl7iOqq58PGfVfTAo8Xw/2kGKxwD9HKJvTLDTikQ4zG) para comenzar a utilizar los nuevos ajustes. Las cuentas que ya estén integradas con Google Shopping y tienen la configurada la opción __Considerar descuento para pago con boleto en el precio enviado__ activa, tendrán la opción __Aplicar descuento al precio enviado__ activa después de que se realice la actualización según se muestra en la imagen a continuación:
 
- ![fluxo-update-news-google-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2023/diciembre/2023-12-13-google-shopping-nueva-opcion-de-envio-de-precios_2.png)
+ ![fluxo-update-news-google-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2023/diciembre/2023-12-13-google-shopping-nueva-opcion-de-envio-de-precios_2.png)
 
 Consulta la documentación para más información sobre cómo configurar [un descuento vinculado al medio de pago](/es/tracks/configurar-integracao-com-o-google-shopping--25Sl7iOqq58PGfVfTAo8Xw/3AqbcsWrge8zLt0BC5CtGd#desconto-vinculado-ao-metodo-de-pagamento) y [un descuento en el conector](/es/tracks/configurar-integracao-com-o-google-shopping--25Sl7iOqq58PGfVfTAo8Xw/wWyl0Njxgs5KfXvxYZJrl).
 

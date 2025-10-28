@@ -21,6 +21,6 @@ Esa consulta significa que se convocó el XML en menos de 48 horas. Aquellos XML
 
 Es posible visualizar la última fecha de actualización del XML. Esa información queda en horario UTC al final del documento, conforme imagen abajo.
 
-![xml](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/integraciones-xml/como-se-hace-la-actualizacion-del-xml_1.png)
+![xml](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/integraciones-xml/como-se-hace-la-actualizacion-del-xml_1.png)
 
 > ℹ️ Caso la opción "Exhibir los SKUs sin saldo disponible (agotados) en Stock entre los resultados" no esté señalada, los productos/SKUs que estén agotados **no** surgirán en el XML. Productos inactivos también **no** surgen en el XML.

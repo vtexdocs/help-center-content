@@ -36,7 +36,7 @@ Follow the instructions below to create a bundle.
 2. Open the edit page of one of the SKU components. If the SKUs aren't created yet, check [Adding or editing SKUs](/en/tutorial/adding-or-editing-skus--4ryZ6J45kwn3jDiQBxGiiN).
 3. In the **SKUs** tab, click the <i class="fas fa-ellipsis-v" aria-hidden="true"></i> menu in the row of the SKU.
 
-  ![bundle_registration_image_1_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/bundle/bundle-registration_1.png)
+  ![bundle_registration_image_1_EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/bundle/bundle-registration_1.png)
 
 4. Click `Create bundle`.
 5. Click `Convert to bundle`.
@@ -45,7 +45,7 @@ Follow the instructions below to create a bundle.
 
 After converting the SKU into a bundle, the word `Bundle` will display next to the SKU ID:
 
-![bundle_registration_image_2_v2_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/bundle/bundle-registration_2.png)
+![bundle_registration_image_2_v2_EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/bundle/bundle-registration_2.png)
 
 If you want, you can duplicate the SKU or move it to another product. These actions are available in the same menu as the `Create bundle` option, described in step 4.
 

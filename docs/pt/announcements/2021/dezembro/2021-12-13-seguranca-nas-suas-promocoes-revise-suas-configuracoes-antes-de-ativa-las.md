@@ -17,7 +17,7 @@ announcementSynopsisPT: 'O resumo da promoção permite revisar as informações
 
 Ao configurar uma nova promoção, é possível cometer erros ao preencher as informações. Para evitar ativar promoções com informações incorretas, criamos o resumo da promoção. Esse novo recurso permite confirmar as configurações da promoção antes de ativá-la.
 
-![resumo-promo-PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2021/dezembro/2021-12-13-seguranca-nas-suas-promocoes-revise-suas-configuracoes-antes-de-ativa-las_1.png)
+![resumo-promo-PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2021/dezembro/2021-12-13-seguranca-nas-suas-promocoes-revise-suas-configuracoes-antes-de-ativa-las_1.png)
 
 ## O que mudou?
 Antes, uma promoção era ativada automaticamente quando salva com o status **Ativa**. Com o novo recurso, você pode visualizar um resumo das configurações definidas antes de ativar uma nova promoção. Assim, é possível verificar se os dados da promoção estão corretos, evitando erros de implementação.

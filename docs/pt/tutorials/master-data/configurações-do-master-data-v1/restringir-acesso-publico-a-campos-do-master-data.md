@@ -27,25 +27,25 @@ Dependendo dos dados armazenados, o acesso público sem autenticação pode repr
 2. No Master Data, clique em **Aplicações**.
 3. Clique na engrenagem <i class="fas fa-cog"></i> ao lado de **Profile System**:
 
-   ![1-master-data-confidential-data-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/master-data/configura%C3%A7%C3%B5es-do-master-data-v1/restringir-acesso-publico-a-campos-do-master-data_1.png)
+   ![1-master-data-confidential-data-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/master-data/configura%C3%A7%C3%B5es-do-master-data-v1/restringir-acesso-publico-a-campos-do-master-data_1.png)
 
 4. Em **Configurações**, clique em **Estrutura de dados**.
 
-   ![2-master-data-confidential-data-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/master-data/configura%C3%A7%C3%B5es-do-master-data-v1/restringir-acesso-publico-a-campos-do-master-data_2.png)
+   ![2-master-data-confidential-data-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/master-data/configura%C3%A7%C3%B5es-do-master-data-v1/restringir-acesso-publico-a-campos-do-master-data_2.png)
 5. Clique na aba **Entidades de dados**.
 6. Na linha da entidade de dados, clique no botão de edição <i class="fas fa-edit"></i>.
 
-   ![3-master-data-confidential-data-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/master-data/configura%C3%A7%C3%B5es-do-master-data-v1/restringir-acesso-publico-a-campos-do-master-data_3.png)
+   ![3-master-data-confidential-data-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/master-data/configura%C3%A7%C3%B5es-do-master-data-v1/restringir-acesso-publico-a-campos-do-master-data_3.png)
 7. Na linha do campo que contém um dado confidencial, clique na engrenagem <i class="fas fa-cog"></i>.
 
-   ![4-master-data-confidential-data-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/master-data/configura%C3%A7%C3%B5es-do-master-data-v1/restringir-acesso-publico-a-campos-do-master-data_4.png)
+   ![4-master-data-confidential-data-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/master-data/configura%C3%A7%C3%B5es-do-master-data-v1/restringir-acesso-publico-a-campos-do-master-data_4.png)
 8. Desmarque as opções a seguir:
 
    * **Permitir a leitura sem credencial**
    * **Permitir editar sem credencial**
    * **Permitir filtrar sem credencial**
 
-   ![5-master-data-confidential-data-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/master-data/configura%C3%A7%C3%B5es-do-master-data-v1/restringir-acesso-publico-a-campos-do-master-data_5.png)
+   ![5-master-data-confidential-data-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/master-data/configura%C3%A7%C3%B5es-do-master-data-v1/restringir-acesso-publico-a-campos-do-master-data_5.png)
 
 9. Clique em `Salvar`.
 10. Na linha da entidade de dados alterada, clique no botão de publicação <i class="fas fa-save"></i> para que as configurações salvas sejam publicadas.

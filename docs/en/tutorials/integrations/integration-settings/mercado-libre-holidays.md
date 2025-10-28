@@ -24,7 +24,7 @@ Non-shipping days can only be configured a maximum of two business days before t
 
 The store can set this holiday as a non-shipping day on or before Wednesday, July 2. After that date, the holiday will show as **expired**, as in the image below. 
 
-![Mercado Liibre Holidays](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/integrations/integration-settings/mercado-libre-holidays_1.jpg)
+![Mercado Liibre Holidays](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/integrations/integration-settings/mercado-libre-holidays_1.jpg)
 
 The **Holidays** page shows the holidays for the next two months. To access and configure it, follow the steps below:
 

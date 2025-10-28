@@ -24,7 +24,7 @@ Vea a continuación dos ejemplos de este escenario:
 
 En este caso, es habitual que los ítems salgan del almacén de un Centro de Distribución, como se ilustra a continuación.
 
-![ES Conceitos Logística](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/omnichannel/estrategias-de-comercio-unificado/entrega-delivery_1.png)
+![ES Conceitos Logística](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/omnichannel/estrategias-de-comercio-unificado/entrega-delivery_1.png)
 
 Otra posibilidad de entrega que puede optimizar la operación y reducir los costes es implementar la estrategia de [envío desde la tienda](/es/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv/50GAmxxFsJoLWqcnMysWdl), de modo que los ítems también puedan enviarse desde el **stock** de las tiendas físicas.
 

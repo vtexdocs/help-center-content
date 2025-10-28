@@ -19,15 +19,15 @@ subcategoryId: hXGU8pFfABVFIg724zWBN
 El proceso de creación de flujos es simple e intuitivo. Existen algunas opciones de configuración que necesitan ser tomadas en cuenta en algunas situaciones, pero no es nada complicado. Comenzamos?
   1. Primero, vamos a hacer click en el botón de **flows** en el Menú lateral.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/flujos/creacion-de-flujos_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/flujos/creacion-de-flujos_1.png)
 
   1. Llegando en la página de flujos, basta con clickear en el botón de **Create flow** , en la esquina izquierda de la pantalla.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/flujos/creacion-de-flujos_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/flujos/creacion-de-flujos_2.png)
 
   1. Después de eso, un pop-up para creación de flujo aparecerá en si pantalla. Esta esta formada por 4 campos que pueden ser llenados: **Nombre** , **Activadores de palabras clave globales** , **Idioma, Tipo de Flujo.**
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/flujos/creacion-de-flujos_3.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/flujos/creacion-de-flujos_3.png)
 
 **1 -** **Nombre** : es el nombre que queremos dar a nuestro flujo. Es un campo obligatorio, pero que puede ser editado después.
 

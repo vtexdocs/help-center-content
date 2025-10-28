@@ -28,13 +28,13 @@ Puedes elegir entre:
 - Recoger en una tienda física.
 - Personalizar por ítem.
 
-![entrega-2-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/omnichannel/instore-usando-el-app/entrega_1.png)
+![entrega-2-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/omnichannel/instore-usando-el-app/entrega_1.png)
 
 ### Puntos de recogida
 
 Para los puntos de recogida, el sistema selecciona las tiendas que tienen los SKUs en stock y muestra la tienda más cercana al código postal del cliente, como sugerencia. Si el vendedor quiere cambiar la tienda donde el cliente recogerá los productos, solo hay que hacer clic en el botón `Editar punto de recogida`.
 
-![entrega-retirada-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/omnichannel/instore-usando-el-app/entrega_2.png)
+![entrega-retirada-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/omnichannel/instore-usando-el-app/entrega_2.png)
 
 Al hacer clic en ese botón, el vendedor primero tiene acceso al punto de recogida sugerido por el sistema. Para ver todos los puntos de recogida disponibles, hay que hacer clic en `Ver todos los puntos de recogida`.
 

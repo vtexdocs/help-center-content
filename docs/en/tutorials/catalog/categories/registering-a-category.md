@@ -51,12 +51,12 @@ To better understand the meaning of each category registration field, see the fu
 - __Score (used for sorting the search):__ Value used to set the priority on the search result page. To understand more about Score, access our article: [How does the score field work?](/en/tutorial/how-does-the-score-field-work--1BUZC0mBYEEIUgeQYAKcae).
 - __Product display mode:__ Defines how SKUs will be displayed on the product page. See below the options for this field:
   - __SKU List:__ All SKUs in the department or category in question will be displayed in list format. Each one with its Buy button on the side.
-  ![1Lista.en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/categories/registering-a-category_1.png)
+  ![1Lista.en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/categories/registering-a-category_1.png)
   - __Combo Boxes:__ All SKUs in this department/category will need to be selected through combo boxes.
   - __Radio Selection Icons (Radio Box):__ All SKUs in this department/category will need to be selected through radio selection.
-  ![RadioBox.en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/categories/registering-a-category_2.png)
+  ![RadioBox.en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/categories/registering-a-category_2.png)
   - __Follows the definition of the SKU specification:__ All SKUs in this department/category will be selected according to the specification tab on the SKU registration form. The preconfigured options are Combo or Radio.
-  ![Campos.en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/categories/registering-a-category_3.png)
+  ![Campos.en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/categories/registering-a-category_3.png)
 
 ## Learn more
 

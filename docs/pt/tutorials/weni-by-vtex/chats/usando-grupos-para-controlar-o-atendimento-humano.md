@@ -27,7 +27,7 @@ Neste artigo iremos nos referir ao grupo de controle como `Atendimento Humano`.
 Você deve adicionar o contato a este grupo no fluxo que você abre um ticket,
 conforme mostrado anteriormente.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/chats/usando-grupos-para-controlar-o-atendimento-humano_1.png) É importante mencionar que, caso você abra tickets em fluxos diferentes, **você precisa fazer isso em todos os fluxos**.
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/chats/usando-grupos-para-controlar-o-atendimento-humano_1.png) É importante mencionar que, caso você abra tickets em fluxos diferentes, **você precisa fazer isso em todos os fluxos**.
 
 ### Ignorando participantes do grupo de controle em gatilhos
 
@@ -39,7 +39,7 @@ Para isso, você deverá adicionar este grupo na lista de grupos ignorados **pa
 cada um dos triggers configurados** no seu projeto, conforme exemplifica a
 imagem abaixo.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/chats/usando-grupos-para-controlar-o-atendimento-humano_2.png) Com isso configurado, o chatbot não irá interromper o atendimento humano e a funcionalidade irá rodar como esperado.
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/chats/usando-grupos-para-controlar-o-atendimento-humano_2.png) Com isso configurado, o chatbot não irá interromper o atendimento humano e a funcionalidade irá rodar como esperado.
 
 ### Removendo contatos do grupo de controle
 
@@ -47,11 +47,11 @@ imagem abaixo.
 atendimento humano for concluída. Para isto, existe um tipo
 de `trigger` específico: 'start a flow when a ticket is closed':
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/chats/usando-grupos-para-controlar-o-atendimento-humano_3.png) 
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/chats/usando-grupos-para-controlar-o-atendimento-humano_3.png) 
 
 Este pode ser um fluxo extremamente simples, onde a única ação é remover o contato do grupo de controle `Atendimento Humano`:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/chats/usando-grupos-para-controlar-o-atendimento-humano_4.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/chats/usando-grupos-para-controlar-o-atendimento-humano_4.png)
 
 ### Como enviar campos customizados?
 
@@ -65,4 +65,4 @@ A seguir, observe um exemplo, mostrando a configuração de campos customizados,
 onde o campo `origin` com seu valor definido como o `result` origem,
 entre `""""` por ser do tipo string.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/chats/usando-grupos-para-controlar-o-atendimento-humano_5.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/chats/usando-grupos-para-controlar-o-atendimento-humano_5.png)

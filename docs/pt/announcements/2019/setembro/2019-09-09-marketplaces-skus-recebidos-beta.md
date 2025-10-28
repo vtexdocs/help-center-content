@@ -25,7 +25,7 @@ A versão beta está aberta para todos que quiserem testar e é só a primeira d
 
 Uma das principais melhorias é a nova forma de selecionar SKUs em massa. Assim, você pode aprovar ou rejeitar todos eles de uma só vez. Alinhado com nosso [Styleguide](https://styleguide.vtex.com/), a seleção em massa vai trazer ainda mais agilidade e eficiência para o seu trabalho.
 
-![received-skus-bulk](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2019/setembro/2019-09-09-marketplaces-skus-recebidos-beta_1.gif)
+![received-skus-bulk](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2019/setembro/2019-09-09-marketplaces-skus-recebidos-beta_1.gif)
 
 
 
@@ -33,13 +33,13 @@ Uma das principais melhorias é a nova forma de selecionar SKUs em massa. Assim,
 Um dos desafios de gerenciar itens de múltiplos sellers é priorizar uma lista que nunca acaba. Para ajudar, construímos uma nova funcionalidade de ordenação, para você reordenar tudo o que foi enviado por preço e - uma das principais melhorias - por disponibilidade de estoque. Visualize com facilidade quantos itens estão disponíveis e aprove os SKUs que vão performar melhor.
 
 
-![received-skus-ordering](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2019/setembro/2019-09-09-marketplaces-skus-recebidos-beta_2.gif)
+![received-skus-ordering](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2019/setembro/2019-09-09-marketplaces-skus-recebidos-beta_2.gif)
 
 
 Tudo isso é potencializado com os novos filtros. Veja e filtre SKUs por categoria, marca e seller de forma simples e intuitiva.
 
 
-![received-skus-filtering](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2019/setembro/2019-09-09-marketplaces-skus-recebidos-beta_3.gif)
+![received-skus-filtering](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2019/setembro/2019-09-09-marketplaces-skus-recebidos-beta_3.gif)
 
 
 

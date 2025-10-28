@@ -33,7 +33,7 @@ This is the most important step to activate the B2B. Upon setting up the B2B Com
 
 Usually, in traditional B2Bs, this field is filled out with the value `approved="true"` (where `approved` is the name of a field of the Client entity, in Master Data). Using this rule, only authenticated and approved users will be able to browse the website.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/b2b/practical-guides/setting-up-b2b-on-vtex_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/b2b/practical-guides/setting-up-b2b-on-vtex_1.png)
 
 ## 2.Customize the layout of B2B directories
 
@@ -47,13 +47,13 @@ Check out the basic characteristics of each type of user:
 
 Thus, to have a B2B environment, the **401** and **403** folders, under the **system** folder, must be customized.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/b2b/practical-guides/setting-up-b2b-on-vtex_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/b2b/practical-guides/setting-up-b2b-on-vtex_2.png)
 
 Browsing by Anonymous users (when attempting to access any page, they will be redirected to 401):
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/b2b/practical-guides/setting-up-b2b-on-vtex_3.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/b2b/practical-guides/setting-up-b2b-on-vtex_3.png)
 
 Browsing by non-approved users (when attempting to access any page, they will be redirected to 403):
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/b2b/practical-guides/setting-up-b2b-on-vtex_4.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/b2b/practical-guides/setting-up-b2b-on-vtex_4.png)
 
 ## 3. Define pre-registration fields
 
@@ -65,7 +65,7 @@ Accordingly, all pre-registration fields must be defined. B2B usually uses clien
 
 ## 4. Create a pre-registration form
 
-Upon the definition of fields, the pre-registration form must be created on the **system/401** folder, since this is the only folder to which anonymous users will be redirected. The information included in the form will be sent to CRM through the Master Data APIs ([see documentation](https://developers.vtex.com/reference/master-data-api-v2-overview)), that is, the development of a JavaScript file will be required for using this function. Check out [examples of HTML and JavaScript files](https://raw.githubusercontent.com/vtexdocs/help-center-content/files-migration-script/docs/en/tutorials/b2b/practical-guides/ExemploTemplateB2B.rar)[templates](https://raw.githubusercontent.com/vtexdocs/help-center-content/files-migration-script/docs/en/tutorials/b2b/practical-guides/ExemploTemplateB2B-1.rar) serving this purpose.
+Upon the definition of fields, the pre-registration form must be created on the **system/401** folder, since this is the only folder to which anonymous users will be redirected. The information included in the form will be sent to CRM through the Master Data APIs ([see documentation](https://developers.vtex.com/reference/master-data-api-v2-overview)), that is, the development of a JavaScript file will be required for using this function. Check out [examples of HTML and JavaScript files](https://cdn.statically.io/gh/vtexdocs/help-center-content/files-migration-script/docs/en/tutorials/b2b/practical-guides/ExemploTemplateB2B.rar)[templates](https://cdn.statically.io/gh/vtexdocs/help-center-content/files-migration-script/docs/en/tutorials/b2b/practical-guides/ExemploTemplateB2B-1.rar) serving this purpose.
 
 ## 5. Operation
 

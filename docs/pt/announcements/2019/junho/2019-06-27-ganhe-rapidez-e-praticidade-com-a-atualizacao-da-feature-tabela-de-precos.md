@@ -21,7 +21,7 @@ Agora é possível criar Tabelas de Preços de forma mais intuitiva, prática e 
 
 Antes, para criar uma tabela de preços, era necessário ir até o filtro do módulo de Preços e digitar o nome da tabela a ser criada. Agora, adicionamos um novo botão __Tabelas de Preços__ que permite criar e selecionar as tabelas de preço que você deseja visualizar.
 
-![Annoucement Price table PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2019/junho/2019-06-27-ganhe-rapidez-e-praticidade-com-a-atualizacao-da-feature-tabela-de-precos_1.png)
+![Annoucement Price table PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2019/junho/2019-06-27-ganhe-rapidez-e-praticidade-com-a-atualizacao-da-feature-tabela-de-precos_1.png)
 
 ## Vantagens
 

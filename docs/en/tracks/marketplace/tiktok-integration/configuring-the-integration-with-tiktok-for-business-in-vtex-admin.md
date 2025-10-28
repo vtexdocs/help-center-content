@@ -79,7 +79,7 @@ After completing the integration configuration form, you need to connect your Ti
 
 On the **Set Up TikTok for Business page**, as illustrated below, please follow the configuration instructions described next.
 
-![set-up-tiktok-for-business](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/marketplace/tiktok-integration/configuring-the-integration-with-tiktok-for-business-in-vtex-admin_1.png)
+![set-up-tiktok-for-business](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/marketplace/tiktok-integration/configuring-the-integration-with-tiktok-for-business-in-vtex-admin_1.png)
 
 1. Click the __TikTok for Business Account__ section and check if your account is listed.
     * If you want to connect another account, click `Disconnect` and repeat the login step described in [Connecting the TikTok account](#2-connecting-the-tiktok-account).

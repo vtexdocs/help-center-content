@@ -19,32 +19,32 @@ Para realizar a integração, acesse a plataforma **Zapier** clicando [aqui](htt
 
 Fazendo **login** ou criando uma **conta**.
 
-![Zapier_1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/zapier-suiteshare_1.png)
+![Zapier_1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/zapier-suiteshare_1.png)
 
 Após a criação, personalize sua conta com suas **informações**.
 
-![Zapier_2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/zapier-suiteshare_2.png)
+![Zapier_2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/zapier-suiteshare_2.png)
 
 Depois de configurado, pesquise o **VTEX Assisted Sales (SuiteShare)** nos aplicativos do **Zapier**.
 
 E conclua a configuração no **botão inferior**.
 
-![Zapier_3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/zapier-suiteshare_3.png)
+![Zapier_3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/zapier-suiteshare_3.png)
 
 Crie seu fluxo de integração adicionando o **VTEX Assisted Sales (SuiteShare)** e a outra plataforma que desejar, e configure a ação que a integração fará.
 
-![Zapier_4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/zapier-suiteshare_4.png)
+![Zapier_4](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/zapier-suiteshare_4.png)
 
 Clique em **iniciar**.
 
-![Zapier_5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/zapier-suiteshare_5.png)
+![Zapier_5](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/zapier-suiteshare_5.png)
 
 Clique em **conectar** para acessar sua conta **VTEX Assisted Sales (SuiteShare)**.
 
-![Zapier_6](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/zapier-suiteshare_6.png)
+![Zapier_6](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/zapier-suiteshare_6.png)
 
 Forneça seu email **VTEX Assisted Sales (SuiteShare)** e sua senha para realizar a **conexão**.
 
-![Zapier_7](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/zapier-suiteshare_7.png)
+![Zapier_7](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/zapier-suiteshare_7.png)
 
 Pronto! Após o login, sua integração está pronta para ser utilizada!

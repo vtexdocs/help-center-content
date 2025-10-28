@@ -23,7 +23,7 @@ Para que los planes de suscripción estén disponibles, primero debe instalar la
 
 En la página de **Planes**, puede ver y gestionar los planes de suscripción disponibles para los clientes de su tienda, según se ilustra a continuación.
 
-![planslist ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/suscripciones/gu%C3%ADa-de-suscripciones/planes-de-suscripcion_1.png)
+![planslist ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/suscripciones/gu%C3%ADa-de-suscripciones/planes-de-suscripcion_1.png)
 
 Las principales funcionalidades de esta página son:
 

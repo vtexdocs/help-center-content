@@ -21,7 +21,7 @@ Once we create our streams, our goal and anxiety becomes knowing how people are 
 
 Route markers are guide numbers that appear below each action and decision chart, showing how many people went through that route in the flow. Very interesting tool to identify which path is being the most sought after by its users, besides always being updated in real time. You can also identify certain bottlenecks, such as when a question holds a user too long in the flow.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/flows/route-markers_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/flows/route-markers_1.png)
 
 By placing the cursor on top of one of the route markers, you can see the last messages received by the people who went through that path. Besides knowing the date of last contact.
 

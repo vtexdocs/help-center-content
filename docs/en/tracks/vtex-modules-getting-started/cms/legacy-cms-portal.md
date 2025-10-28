@@ -19,7 +19,7 @@ order: 3
 
 The [Layout](/en/subcategory/layout--2g6LxtasS4iSeGEqeYUuGW) section allows you to create your storefront with HTML and CSS. It is organized into folders and files with specific purposes:
 
-![CMS - Layout EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-modules-getting-started/cms/legacy-cms-portal_1.png)
+![CMS - Layout EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-modules-getting-started/cms/legacy-cms-portal_1.png)
 
 - **HTML Templates:** build the HTML code and reference JavaScript and CSS files to be used in the website pages.
 
@@ -39,7 +39,7 @@ The [Layout](/en/subcategory/layout--2g6LxtasS4iSeGEqeYUuGW) section allows you 
 
 The [Settings](/en/subcategory/cms-settings--6kovkwzMRyeOOc2iEC4suM) section allows you to configure settings related to your store website, such as its metadata, SEO tags, file types, and more. 
 
-![CMS - Settings EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-modules-getting-started/cms/legacy-cms-portal_2.png)
+![CMS - Settings EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-modules-getting-started/cms/legacy-cms-portal_2.png)
 
 The **Settings** section is structured as follows.
 
@@ -69,7 +69,7 @@ These are the folders that every store needs to have in the CMS to ensure the co
 
 See below these basic folders in the CMS:
 
-![pastasObrigatorias](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-modules-getting-started/cms/legacy-cms-portal_3.png)
+![pastasObrigatorias](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-modules-getting-started/cms/legacy-cms-portal_3.png)
 
 These folders come by default in the environment of all VTEX stores.
 

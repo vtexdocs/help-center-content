@@ -17,7 +17,7 @@ subcategoryId: yMp6sKDiJEi66CGAIQ4ma
 
 La página **Cuenta** te permite ver y gestionar los detalles de tu cuenta VTEX. Para acceder a ella, haz clic en el **avatar de tu perfil**, marcado por la inicial de tu email, y luego en **Configuración de la cuenta** > **Cuenta.**
 
-![Admin v4 account settings menu ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/gesti%C3%B3n-de-la-cuenta/cuentas/gestion-de-la-cuenta_1.jpg)
+![Admin v4 account settings menu ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/gesti%C3%B3n-de-la-cuenta/cuentas/gestion-de-la-cuenta_1.jpg)
 
 > ⚠️ Esta pantalla no tiene detalles de las claves de aplicación. Para saber dónde encontrar y gestionar esta información, consulta el artículo [Claves de aplicación](/es/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet).
 
@@ -27,7 +27,7 @@ Las funciones de la página **Cuenta** se dividen en dos pestañas: [General](#g
 
 Las funcionalidades de la pestaña **General** están agrupadas en las secciones [Detalles](#detalles), [Datos de la empresa](#datos-de-la-empresa) y [Titular](#titular).
 
-![Página de detalles de la cuenta - cuenta](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/gesti%C3%B3n-de-la-cuenta/cuentas/gestion-de-la-cuenta_2.png)
+![Página de detalles de la cuenta - cuenta](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/gesti%C3%B3n-de-la-cuenta/cuentas/gestion-de-la-cuenta_2.png)
 
 En esta pestaña puedes:
 
@@ -39,7 +39,7 @@ En esta pestaña puedes:
 
 En esta sección puedes consultar la información básica de tu cuenta VTEX.
 
-![Página de detalles de la cuenta - detalles](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/gesti%C3%B3n-de-la-cuenta/cuentas/gestion-de-la-cuenta_3.png)
+![Página de detalles de la cuenta - detalles](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/gesti%C3%B3n-de-la-cuenta/cuentas/gestion-de-la-cuenta_3.png)
 
 - **Nombre de la cuenta principal:** el [nombre de la cuenta VTEX](/es/tutorial/what-is-an-account-name--i0mIGLcg3QyEy8OCicEoC).
 - **Fecha de creación:** la fecha de creación de la cuenta.
@@ -56,7 +56,7 @@ En esta sección puedes ver los siguientes datos de registro de tu empresa:
 - Razón social
 - Número de identificación fiscal
 
-![Página de detalles de la cuenta - Datos de la empresa](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/gesti%C3%B3n-de-la-cuenta/cuentas/gestion-de-la-cuenta_4.png)
+![Página de detalles de la cuenta - Datos de la empresa](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/gesti%C3%B3n-de-la-cuenta/cuentas/gestion-de-la-cuenta_4.png)
 
 #### Editar los datos de la empresa
 
@@ -80,7 +80,7 @@ En esta sección se presentan los datos del usuario titular de la cuenta. Cada c
 
 > ℹ️ Más información sobre el [usuario titular](/es/tutorial/o-que-e-o-usuario-titular--3oPr7YuIkEYqUGmEqIMSEy).
 
-![Página de detalles de la cuenta - Titular](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/gesti%C3%B3n-de-la-cuenta/cuentas/gestion-de-la-cuenta_5.png)
+![Página de detalles de la cuenta - Titular](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/gesti%C3%B3n-de-la-cuenta/cuentas/gestion-de-la-cuenta_5.png)
 
 Si eres el usuario titular, puedes [transferir la propiedad de la tienda](/es/tutorial/transferencia-de-propriedade-da-loja) en esta sección. Esto te permite transferir la propiedad de la tienda a otro usuario.
 
@@ -95,7 +95,7 @@ En la pestaña Tiendas, puedes:
 
 Al hacer clic en la pestaña **Tiendas** en la parte superior de la pantalla, verás una lista con la información de todas las tiendas creadas en tu cuenta VTEX.
 
-![Página de detalles de la cuenta - Tiendas](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/gesti%C3%B3n-de-la-cuenta/cuentas/gestion-de-la-cuenta_6.png)
+![Página de detalles de la cuenta - Tiendas](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/gesti%C3%B3n-de-la-cuenta/cuentas/gestion-de-la-cuenta_6.png)
 
 Para cada tienda, puedes ver los siguientes detalles:
 

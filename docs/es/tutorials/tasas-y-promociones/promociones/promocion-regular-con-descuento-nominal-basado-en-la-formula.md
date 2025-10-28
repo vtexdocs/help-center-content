@@ -19,7 +19,7 @@ Al crear una [promoción regular](/es/tutorial/registro-promocion-regular--tutor
 
 Al seleccionar este tipo de descuento, deberás crear una fórmula para definir cuál será el cálculo del descuento que se aplicará. En este artículo, explicaremos cómo crear una fórmula que cumpla con los objetivos de tu promoción.
 
-![tipo-descuento-formula](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/tasas-y-promociones/promociones/promocion-regular-con-descuento-nominal-basado-en-la-formula_1.PNG)
+![tipo-descuento-formula](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/tasas-y-promociones/promociones/promocion-regular-con-descuento-nominal-basado-en-la-formula_1.PNG)
 
 Para crear tu fórmula puedes utilizar [variables](#variables), como `total`, `freight` y `quantity`, realizar [operaciones](#operaciones) (suma, resta, multiplicación y división) y aplicar funciones, como `min` , `max` y `floor`.
 
@@ -74,19 +74,19 @@ De esta manera, la promoción aplicará el valor de descuento más bajo en cada 
 
 Un cliente agregó al carrito un ítem cuyo precio es $ 45. Al calcular el 20% del total del precio, el resultado es 9, ya que `total * 0.2 = 9.` Como 9 está por debajo del valor límite de descuento, el descuento que se aplicará será de $ 9.
 
-![scenario1-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/tasas-y-promociones/promociones/promocion-regular-con-descuento-nominal-basado-en-la-formula_2.png)
+![scenario1-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/tasas-y-promociones/promociones/promocion-regular-con-descuento-nominal-basado-en-la-formula_2.png)
 
 #### Escenario 2
 
 Otro cliente agregó al carrito un ítem cuyo precio es de $ 2600. Al calcular el 20% de ese valor, el resultado es 520, ya que `total * 0.2 = 520.` Como este valor está por encima del límite ($ 10), el descuento aplicado será de $ 10.
 
-![scenario2-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/tasas-y-promociones/promociones/promocion-regular-con-descuento-nominal-basado-en-la-formula_3.png)
+![scenario2-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/tasas-y-promociones/promociones/promocion-regular-con-descuento-nominal-basado-en-la-formula_3.png)
 
 #### Escenario 3
 
 Un tercer cliente agregó dos ítems al carrito: un ítem tiene un precio de $ 100, y el otro, $ 2600. La suma de estos valores da como resultado $ 2700, por lo tanto, `total = 2700`. Al calcular el 20% del valor total, obtenemos un resultado de 540, ya que `total * 0.2 =  540`. Como este valor está por encima del límite ($ 10), el descuento total aplicado será de $ 10.
 
-![scenario3-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/tasas-y-promociones/promociones/promocion-regular-con-descuento-nominal-basado-en-la-formula_4.png)
+![scenario3-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/tasas-y-promociones/promociones/promocion-regular-con-descuento-nominal-basado-en-la-formula_4.png)
 
 El descuento total de $ 10 se distribuye proporcionalmente entre los ítems, teniendo en cuenta el precio y la cantidad de cada uno. Esta distribución la realiza la plataforma de manera automática, siguiendo la lógica que se explica a continuación:
 

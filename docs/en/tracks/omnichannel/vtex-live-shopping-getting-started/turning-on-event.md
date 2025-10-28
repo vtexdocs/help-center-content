@@ -46,6 +46,6 @@ Once the event is turned on, all configurations become available for setup. In t
 
 In this section, you can monitor the [event status](/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/5WLXGbOSFmxN7QlzOnfGrv#event-status), as shown in the image below:
 
-![article_6_turning_on_event_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/vtex-live-shopping-getting-started/turning-on-event_1.png)
+![article_6_turning_on_event_EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/vtex-live-shopping-getting-started/turning-on-event_1.png)
 
 > ⚠️ After turning on the event, if you don't transmit or interact with it for more than 90 minutes, the event status will change to `Completed`, meaning the event is finished and can no longer be broadcast.

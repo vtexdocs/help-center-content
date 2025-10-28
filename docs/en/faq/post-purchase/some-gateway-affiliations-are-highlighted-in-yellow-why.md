@@ -18,7 +18,7 @@ In __Gateway Affiliation__, you can view the list of all settings made. However,
 
 This means that these affiliations are not enabled, but being tested. You may confirm this information by clicking on the affiliation highlighted. 
 
-![afiliação-gateway-teste en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/post-purchase/some-gateway-affiliations-are-highlighted-in-yellow-why_1.png)
+![afiliação-gateway-teste en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/post-purchase/some-gateway-affiliations-are-highlighted-in-yellow-why_1.png)
 
 
 That is, the settings that have not yet been enabled are highlighted in a different color.

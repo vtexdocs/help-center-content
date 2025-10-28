@@ -62,7 +62,7 @@ No cálculo da performance, são considerados todos os pacotes que fazem parte d
 
 A performance é o resultado em percentual do cálculo entre a relação dos pacotes entregues dentro do  prazo pelo total de pacotes entregues. Assim, o cálculo da performance só leva em consideração os pacotes que foram entregues. Veja:
 
-![equation PT performance](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-shipping-network/painel-vtex-shipping-network_1.gif)
+![equation PT performance](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/vtex-shipping-network/painel-vtex-shipping-network_1.gif)
 
  A ferramenta de Performance do **VTEX Shipping Network** permite:
 

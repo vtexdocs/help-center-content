@@ -17,7 +17,7 @@ order: 1
 
 Dafiti es el mayor _marketplace_ de moda y estilo de vida de América Latina. Fundada en 2011, lleva más de 10 años influyendo en el comercio minorista _online_. En 2020, alcanzó más de 7,7 millones de clientes activos y la facturación anual superó los BRL 3 mil millones.
 
-![dafiti_marca](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/marketplace/configurar-la-integracion-de-dafiti/dafiti-marketplace_1.png)
+![dafiti_marca](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/marketplace/configurar-la-integracion-de-dafiti/dafiti-marketplace_1.png)
 
 En Dafiti puede vender productos de múltiples categorías, como moda, deportes, belleza, decoración, entre otros. El _marketplace_ concentra alrededor de 6 mil marcas y un catálogo de más de 400 mil productos.
 

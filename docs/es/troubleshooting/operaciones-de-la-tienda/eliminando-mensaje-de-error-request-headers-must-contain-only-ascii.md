@@ -23,7 +23,7 @@ El mensaje "__Request headers must contain only ASCII characters__" puede mostra
 
 Este escenario se produce si la página o funcionalidad solicitada contiene una cookie con caracteres especiales (no ASCII).
 
-![ascii_1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/troubleshooting/operaciones-de-la-tienda/eliminando-mensaje-de-error-request-headers-must-contain-only-ascii_1.png)
+![ascii_1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/troubleshooting/operaciones-de-la-tienda/eliminando-mensaje-de-error-request-headers-must-contain-only-ascii_1.png)
 
 Según las normas de la [IETF](https://www.ietf.org/) (Internet Engineering Task Force), institución responsable de documentar los estándares utilizados en internet, las cookies deben estar compuestas únicamente por caracteres ASCII estándar y deben evitar incluir caracteres especiales (no ASCII). Para más información sobre los caracteres aceptados en cookies y encabezados, accede a [IETF - Request for Comments 7230 - Section 3.2.6 - Field Value Components](https://datatracker.ietf.org/doc/html/rfc7230#section-3.2.6). 
 
@@ -43,19 +43,19 @@ En la página en la que se muestra el mensaje "__Request headers must contain on
 
   2. En la barra superior de la pantalla, accede a la pestaña **Network** y ordena los requests haciendo clic en **Status**. La información **400** en el estado indica que la solicitud no se procesó correctamente, lo que puede deberse a errores como cookies incorrectas.  
 
-![ascii 2ascii_2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/troubleshooting/operaciones-de-la-tienda/eliminando-mensaje-de-error-request-headers-must-contain-only-ascii_2.png) 
+![ascii 2ascii_2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/troubleshooting/operaciones-de-la-tienda/eliminando-mensaje-de-error-request-headers-must-contain-only-ascii_2.png) 
 
 3. Haz clic en un request y después en la pestaña **Preview** para identificar si el error encontrado se refiere al mensaje "**Request headers must contain only ASCII characters**".
 
-![ascii 3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/troubleshooting/operaciones-de-la-tienda/eliminando-mensaje-de-error-request-headers-must-contain-only-ascii_3.png)
+![ascii 3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/troubleshooting/operaciones-de-la-tienda/eliminando-mensaje-de-error-request-headers-must-contain-only-ascii_3.png)
 
 4. Haz clic en la pestaña **Headers** y copia los datos de la cookie.  
 
-![ascii 4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/troubleshooting/operaciones-de-la-tienda/eliminando-mensaje-de-error-request-headers-must-contain-only-ascii_4.png)
+![ascii 4](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/troubleshooting/operaciones-de-la-tienda/eliminando-mensaje-de-error-request-headers-must-contain-only-ascii_4.png)
 
 5. Accede a un [validador online de caracteres ASCII](https://pages.cs.wisc.edu/~markm/ascii.html) e ingresa la información de la cookie. Si se identifican uno o varios caracteres especiales, los tipos y posiciones se mostrarán en la parte inferior del validador de caracteres.     
 
-![ascii 5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/troubleshooting/operaciones-de-la-tienda/eliminando-mensaje-de-error-request-headers-must-contain-only-ascii_5.png)
+![ascii 5](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/troubleshooting/operaciones-de-la-tienda/eliminando-mensaje-de-error-request-headers-must-contain-only-ascii_5.png)
 
 6. Repite los pasos 3 a 5 con todos los requests de error para identificar los que contienen cookies con caracteres especiales.      
 

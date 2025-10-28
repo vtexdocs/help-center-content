@@ -29,7 +29,7 @@ Instead of using the IDs of each item (which would generate separate orders in o
 
 You can find both IDs through the report generated on the integration's panel on VTEX Admin.
 
-![mercalo-livre-pedido-id-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/integrations/integrations-overview/how-does-the-cart-with-multiple-items-work-in-mercado-livre_1.png)
+![mercalo-livre-pedido-id-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/integrations/integrations-overview/how-does-the-cart-with-multiple-items-work-in-mercado-livre_1.png)
 
 
 > ⚠️ This logic of operation applies to all types of delivery, except those that include pickup points. In such, the platform continues to use the old ID.

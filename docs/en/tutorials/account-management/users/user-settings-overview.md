@@ -18,7 +18,7 @@ order: 1
 
 *User settings* is the name of a set of configurations applied to your personal profile in the Admin. It is not related to your store or your VTEX business account. To access this page, click on your __profile avatar__, which can be identified by the first letter of your email address, and click on __User Settings__.
 
-![Admin v4 User settings menu EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/account-management/users/user-settings-overview_1.jpg)
+![Admin v4 User settings menu EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/account-management/users/user-settings-overview_1.jpg)
 
 On this page, soon to be included in Admin v4, you can perform the following actions:
 

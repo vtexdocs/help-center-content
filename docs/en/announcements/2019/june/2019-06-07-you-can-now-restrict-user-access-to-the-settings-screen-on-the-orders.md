@@ -19,7 +19,7 @@ announcementSynopsisEN: 'Possibility to limit user access to the Settings screen
 
 Seeking to ensure greater safety, we created the possibility to limit user access to the **Settings** screen on the Orders Management module, allowing information to be edited by selected users only. 
 
-![2019-06-07 17 24 10-Settings.en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2019/june/2019-06-07-you-can-now-restrict-user-access-to-the-settings-screen-on-the-orders_1.png)
+![2019-06-07 17 24 10-Settings.en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2019/june/2019-06-07-you-can-now-restrict-user-access-to-the-settings-screen-on-the-orders_1.png)
 
 ## Main Advantages 
 
@@ -39,7 +39,7 @@ In order to do this, you need to add a product called `Checkout` to the desired 
 6. Choose the type of permission you wish to grant: either `Save Order Configuration` if you want to allow the user to edit the **Orders** secction, or `Save OrderForm Configuration` if you want the user to edit the **Cart** section.
 7. Finally, click on **Save**.
 
-![GIT-Checkout.en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2019/june/2019-06-07-you-can-now-restrict-user-access-to-the-settings-screen-on-the-orders_2.gif)
+![GIT-Checkout.en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2019/june/2019-06-07-you-can-now-restrict-user-access-to-the-settings-screen-on-the-orders_2.gif)
 
 Upon adding this new product to a profile, ensure that the desired users are in fact linked to this profile.
 

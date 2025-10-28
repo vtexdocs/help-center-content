@@ -37,7 +37,7 @@ Para dar início à configuração da integração, realize os seguintes passos:
 10. Clique em `Avançar`.
 11. Na janela aberta, aparecerá uma confirmação de que a integração foi realizada. Clique em `Concluir`.
 
-![gif pt v1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/marketplace/integracao-com-o-facebook-business-extension/configurar-a-integracao-com-o-fbe-no-admin-vtex_1.gif)
+![gif pt v1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/marketplace/integracao-com-o-facebook-business-extension/configurar-a-integracao-com-o-fbe-no-admin-vtex_1.gif)
 
 ## Envio de dados dos produtos para o Facebook Business Extension
 

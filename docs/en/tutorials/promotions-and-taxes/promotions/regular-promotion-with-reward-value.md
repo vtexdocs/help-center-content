@@ -38,7 +38,7 @@ The **nominal reward value** adds a fixed credit amount to the user's account in
 
 In the following example, the customers will earn R$10,00 in store credit when the order status changes to **Invoiced**.
 
-![vf-nominal-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/regular-promotion-with-reward-value_1.png)
+![vf-nominal-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/regular-promotion-with-reward-value_1.png)
 
 ### Percentage reward value
 
@@ -49,7 +49,7 @@ The **percentage reward value** adds a percentage credit amount based on the pri
 
 In the following example, customers will earn 20% of the purchase value when the order status changes to **Payment Approved**.
 
-![vf-percentual-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/regular-promotion-with-reward-value_2.png)
+![vf-percentual-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/regular-promotion-with-reward-value_2.png)
 
 ## How to set up restrictions
 
@@ -85,19 +85,19 @@ When a customer places an order which is eligible to receive a reward credit, yo
 
 The name of the promotion applied to the order appears in the **Sales and marketing** section:
 
-<img class="db center mv9 shadow-4 pointer" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/regular-promotion-with-reward-value_7.png" alt="order-details" style="margin-bottom: 20px;"> <figcaption align = "center"><em>Order details
+<img class="db center mv9 shadow-4 pointer" src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/regular-promotion-with-reward-value_7.png" alt="order-details" style="margin-bottom: 20px;"> <figcaption align = "center"><em>Order details
 </em></figcaption></figure>
 
-<img class="db center mv9 shadow-4 pointer" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/regular-promotion-with-reward-value_8.png" alt="order-details-beta" style="margin-bottom: 20px;"> <figcaption align = "center"><em>Order details
+<img class="db center mv9 shadow-4 pointer" src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/regular-promotion-with-reward-value_8.png" alt="order-details-beta" style="margin-bottom: 20px;"> <figcaption align = "center"><em>Order details
  (Beta)</em></figcaption></figure>
 
 In the **Order flow** section, you can check the reward value applied:
 
-![fluxo-oms-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/regular-promotion-with-reward-value_3.png)
+![fluxo-oms-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/regular-promotion-with-reward-value_3.png)
 
 If you use the new [Order details (Beta)](/en/tutorial/order-details-page-beta--2Y75n54Cc9VizrlG1N6ZNl) interface, go to `See interactions` to check the applied value:
 
-![interacoes-neworders-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/regular-promotion-with-reward-value_4.png)
+![interacoes-neworders-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/regular-promotion-with-reward-value_4.png)
 
 Consider that the promotion applied to the order illustrated offers a **percentage reward value** of **50%**. Therefore, the client earned a credit of `R$ 54.28` for  future purchases, which is equivalent to **50%** of `R$ 108.55`, the total value of the order.
 
@@ -105,13 +105,13 @@ Consider that the promotion applied to the order illustrated offers a **percenta
 
 The reward value available for use is displayed to your store customers at the **Payment** stage during checkout, as shown below.
 
-![checkout-pt (1)](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/regular-promotion-with-reward-value_5.png)
+![checkout-pt (1)](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/regular-promotion-with-reward-value_5.png)
 
 The applied value can be used to calculate the payment. To do so, the customer must click on `use credit` and then enter the value they want to use.
 
 Note that the value will be discounted from the other method of payment selected. In the following example, the _boleto_ shows the amount of `R$ 113.50`, which corresponds to `R$ 167.80` minus the reward value used (`R$ 54.30`).
 
-![checkout-2-pt (1)](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/regular-promotion-with-reward-value_6.png)
+![checkout-2-pt (1)](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/regular-promotion-with-reward-value_6.png)
 
 ## Learn more
 

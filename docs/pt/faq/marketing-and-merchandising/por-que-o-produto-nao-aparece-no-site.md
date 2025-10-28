@@ -45,7 +45,7 @@ Recomendamos iniciar a investigação pelo **Catálogo**. Para verificar as conf
 1. Acesse o Admin VTEX e navegue até **Produtos > Catálogo > Produtos e SKUs** para verificar os produtos cadastrados na sua loja.
 2. Encontre na listagem o produto que você pretende exibir, conforme ilustrado a seguir.
 
-    ![01-produto-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/marketing-and-merchandising/por-que-o-produto-nao-aparece-no-site_1.png)
+    ![01-produto-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/marketing-and-merchandising/por-que-o-produto-nao-aparece-no-site_1.png)
 
 3. Siga as instruções descritas nas próximas seções para verificar as seguintes informações:
    - [Produto](#produto)
@@ -71,11 +71,11 @@ Para verificar as configurações do produto, é importante seguir os passos aba
    * Caso o produto contenha especificações, navegue até a aba **Especificações** e verifique se elas estão preenchidas.
 3. Após qualquer alteração, clique em `Salvar`.
 
-![Campos que devem ser verificados na página de informações do produto](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/marketing-and-merchandising/por-que-o-produto-nao-aparece-no-site_2.png)
+![Campos que devem ser verificados na página de informações do produto](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/marketing-and-merchandising/por-que-o-produto-nao-aparece-no-site_2.png)
 
 <p align="center">*Campos que devem ser verificados na página de informações do produto*
 
-![Aba Especificações](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/marketing-and-merchandising/por-que-o-produto-nao-aparece-no-site_3.png)
+![Aba Especificações](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/marketing-and-merchandising/por-que-o-produto-nao-aparece-no-site_3.png)
 
 <p align="center">*Aba **Especificações***
 
@@ -89,16 +89,16 @@ Na página de SKUs, em **Produtos > Catálogo > Produtos e SKUs**, siga as instr
 
     |Botão | Descrição |
     |-|-|
-    | ![04-botao-precos](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/marketing-and-merchandising/por-que-o-produto-nao-aparece-no-site_4.png) | Permite acessar a **Lista de preços** para verificar se existe um preço válido para a política comercial desejada associado aos SKUs do produto. Confira a seção de [Preços](#precos) para mais informações.|
-    | ![05-botao-logistica](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/marketing-and-merchandising/por-que-o-produto-nao-aparece-no-site_5.png) | Permite acessar a página **Gerenciar inventário** para verificar se o SKU está disponível em estoque. Confira a seção de [Logística](#logistica) para mais informações. |
-    | ![06-botao-indexed-info](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/marketing-and-merchandising/por-que-o-produto-nao-aparece-no-site_6.png) | Permite visualizar cada **Seller **que comercializa o SKU, a política comercial (**Policy**), o preço (**Value**) e a quantidade do SKU em estoque (**Quantity**). |
+    | ![04-botao-precos](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/marketing-and-merchandising/por-que-o-produto-nao-aparece-no-site_4.png) | Permite acessar a **Lista de preços** para verificar se existe um preço válido para a política comercial desejada associado aos SKUs do produto. Confira a seção de [Preços](#precos) para mais informações.|
+    | ![05-botao-logistica](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/marketing-and-merchandising/por-que-o-produto-nao-aparece-no-site_5.png) | Permite acessar a página **Gerenciar inventário** para verificar se o SKU está disponível em estoque. Confira a seção de [Logística](#logistica) para mais informações. |
+    | ![06-botao-indexed-info](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/marketing-and-merchandising/por-que-o-produto-nao-aparece-no-site_6.png) | Permite visualizar cada **Seller **que comercializa o SKU, a política comercial (**Policy**), o preço (**Value**) e a quantidade do SKU em estoque (**Quantity**). |
 
 2. Na linha do produto que corresponde ao SKU a ser verificado, clique na seta para baixo <i class="fas fa-caret-down"></i>, ao lado do botão `Alterar`.
 3. Clique na opção **Sku** para acessar a lista detalhada de SKUs.
 4. Na coluna **Status**, verifique se a situação indicada é `Ativa`. Se os SKUs estiverem ativos, prossiga para o passo 7.
 5. Caso algum SKU esteja com situação `Inativa`, clique em `Alterar` para visualizar as informações detalhadas do SKU.
 
-    ![07-catalogo-skus-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/marketing-and-merchandising/por-que-o-produto-nao-aparece-no-site_7.png)
+    ![07-catalogo-skus-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/marketing-and-merchandising/por-que-o-produto-nao-aparece-no-site_7.png)
 
 6. Na página de informações do SKU, prossiga para a verificação dos itens listados a seguir:
     * **Ativar o SKU se possível:** verifique se esta opção está marcada. Caso contrário, o SKU não será exibido. Ativar esta opção significa determinar que o SKU será ativado se cumprir os requisitos necessários:
@@ -111,11 +111,11 @@ Na página de SKUs, em **Produtos > Catálogo > Produtos e SKUs**, siga as instr
 8. Verifique se o SKU contém pelo menos uma imagem. Se não tiver, o SKU não será ativado – siga o próximo passo para corrigir esse problema.
 9. Clique em `Inserir` para fazer upload de uma nova imagem. Se preferir, clique em `Associar a imagens existentes` para incluir uma imagem já utilizada em outro SKU.
 
-![08-aba-imagens-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/marketing-and-merchandising/por-que-o-produto-nao-aparece-no-site_8.png)
+![08-aba-imagens-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/marketing-and-merchandising/por-que-o-produto-nao-aparece-no-site_8.png)
 
 <p align="center">*Aba **Imagens***
 
-![09-sku-imagens-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/marketing-and-merchandising/por-que-o-produto-nao-aparece-no-site_9.png)
+![09-sku-imagens-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/marketing-and-merchandising/por-que-o-produto-nao-aparece-no-site_9.png)
 
 ### Indexed Info
 
@@ -129,13 +129,13 @@ O registro de indexação apresenta o status de cada SKU do produto. Caso exista
 
 No exemplo abaixo, é possível concluir que o SKU está indisponível por causa da ausência de itens em estoque:
 
-![10-indexed-info-code](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/marketing-and-merchandising/por-que-o-produto-nao-aparece-no-site_10.png)
+![10-indexed-info-code](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/marketing-and-merchandising/por-que-o-produto-nao-aparece-no-site_10.png)
 
 A partir disso, é possível tomar ações para corrigir o problema. No caso do exemplo, seria necessário ajustar a quantidade de itens em estoque no sistema de [Logística](#logistica).
 
 Um SKU ativo e sem erros terá o registro no indexador similar ao ilustrado a seguir:
 
-![11-indexed-info-code-active](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/marketing-and-merchandising/por-que-o-produto-nao-aparece-no-site_11.png)
+![11-indexed-info-code-active](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/marketing-and-merchandising/por-que-o-produto-nao-aparece-no-site_11.png)
 
 > ℹ️ Se as informações de indexação não apontarem nenhum motivo para a indisponibilidade dos produtos e se você não tiver encontrado nenhum erro no cadastro dos produtos e dos SKUs, é possível que reindexar o produto resolva o problema. Para isso, altere algum campo dentro do cadastro do produto ou de um dos seus SKUs e salve suas alterações. Isso forçará a reindexação.
 
@@ -150,7 +150,7 @@ No módulo de **Preços**, é importante verificar se os SKUs do seu produto con
 
 No exemplo ilustrado a seguir, há três SKUs sem preço base cadastrado. Por isso, não há preço computado na coluna da política comercial – aparece apenas a informação _Preço não cadastrado_.
 
-![12-precos-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/marketing-and-merchandising/por-que-o-produto-nao-aparece-no-site_12.png)
+![12-precos-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/marketing-and-merchandising/por-que-o-produto-nao-aparece-no-site_12.png)
 
 ### Criar preço base
 
@@ -236,7 +236,7 @@ Siga os passos abaixo para verificar o template que a sua página está utilizan
 
     No exemplo abaixo, o template padrão utilizado é `vtex.curbside-pickup@0.x:store.curbside-pickup` e não há template condicional.
 
-    ![16-templates-cms-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/marketing-and-merchandising/por-que-o-produto-nao-aparece-no-site_13.png)
+    ![16-templates-cms-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/marketing-and-merchandising/por-que-o-produto-nao-aparece-no-site_13.png)
 
 4. Em seguida, é necessário conferir os blocos declarados no template utilizado, conforme descrito em [Templates](#templates).
 

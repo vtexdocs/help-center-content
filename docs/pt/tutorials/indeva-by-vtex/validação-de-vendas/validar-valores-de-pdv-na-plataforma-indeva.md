@@ -25,14 +25,14 @@ Quando o sistema não envia os valores automaticamente, é necessário inserir o
 
 > ⚠️ Se você tem acesso a mais de uma loja, selecione a loja correta em **Filtros**, localizado no canto superior direito da tela.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/valida%C3%A7%C3%A3o-de-vendas/validar-valores-de-pdv-na-plataforma-indeva_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/valida%C3%A7%C3%A3o-de-vendas/validar-valores-de-pdv-na-plataforma-indeva_1.png)
 
 Siga os passos abaixo para validar os dados manualmente:
 
 1. No menu, clique em **Validação**.  
 2. Selecione o dia desejado e clique em **Validar**.  
 3. Na tela exibida, insira os valores de vendas.  
-   ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/valida%C3%A7%C3%A3o-de-vendas/validar-valores-de-pdv-na-plataforma-indeva_2.png)  
+   ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/valida%C3%A7%C3%A3o-de-vendas/validar-valores-de-pdv-na-plataforma-indeva_2.png)  
 4. Clique em **Salvar e validar** para concluir.
 
 Após qualquer edição manual, a plataforma **bloqueia automaticamente as informações** para impedir que sejam sobrescritas pela integração automática.
@@ -43,7 +43,7 @@ Após validar os dados, a Indeva exibe o **status do último horário, dia e usu
 
 O ambiente de validação também apresenta novas colunas para consulta, como **Última atualização do Integrador**, **Última validação** e a foto do **Validador**.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/valida%C3%A7%C3%A3o-de-vendas/validar-valores-de-pdv-na-plataforma-indeva_3.gif)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/valida%C3%A7%C3%A3o-de-vendas/validar-valores-de-pdv-na-plataforma-indeva_3.gif)
 
 ### Interpretar os status de validação
 

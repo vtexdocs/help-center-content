@@ -17,7 +17,7 @@ subcategoryId: 1yTYB5p4b6iwMsUg8uieyq
 
 The highlight of a promotion is a visual notification that can be placed on shelves and product pages, informing customers that the item is eligible for a promotion. A common example is the indication of free shipping below the product image.
 
-![ExemploPromocaoDestaque2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/configuring-promotions-with-a-highlightflag_1.png)
+![ExemploPromocaoDestaque2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/configuring-promotions-with-a-highlightflag_1.png)
 
 In this guide, you will find the following sections:
 
@@ -86,16 +86,16 @@ This configuration involves editing the page template used for the product page 
 4. Click **/ > Product > @Product@**.
 5. Click the layout with a red checkmark.
 
-    ![template-pagina](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/configuring-promotions-with-a-highlightflag_2.gif)
+    ![template-pagina](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/configuring-promotions-with-a-highlightflag_2.gif)
 
 6. In the __Template__ field, check the name of the template used:
 
-    ![template-produto](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/configuring-promotions-with-a-highlightflag_3.png)
+    ![template-produto](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/configuring-promotions-with-a-highlightflag_3.png)
 
 7.  In the side menu, click the **HTML Templates** folder.
 8.  Click the template found at **@Product@**.
 
-    ![save-template](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/configuring-promotions-with-a-highlightflag_4.gif)
+    ![save-template](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/configuring-promotions-with-a-highlightflag_4.gif)
 
 9.  Enter the code `<vtex.cmc:discountHightLight/>` based on your HTML structure.
 10.  Click **Save Template**.
@@ -105,7 +105,7 @@ This configuration involves editing the page template used for the product page 
 1.  In the VTEX Admin, go to **Storefront > Layout**, or type **Layout** in the search bar at the top of the page.
 2.  Click **CMS > Shelves Templtes**.
 
-    ![shelves-templates](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/configuring-promotions-with-a-highlightflag_5.png)
+    ![shelves-templates](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/configuring-promotions-with-a-highlightflag_5.png)
 
 3.  Click the desired template.
 4.  Enter the `$product.DiscountHightLight` code.

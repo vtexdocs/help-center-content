@@ -19,7 +19,7 @@ Uno de los desafíos de los *marketplaces* y *sellers* de nuestro ecosistema es 
 
 Hemos rediseñado Marketplace Network para mejorar la experiencia. Además, ya no es necesario descargar la aplicación desde nuestra App Store, se añadió la funcionalidad a todas las tiendas que operan como *sellers* o *marketplaces* de forma automática.
 
-![Marketplace network tour ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2021/junio/2021-06-09-mejoras-a-marketplace-network_1.gif)
+![Marketplace network tour ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2021/junio/2021-06-09-mejoras-a-marketplace-network_1.gif)
 
 ## ¿Qué cambió?
 Se hicieron algunos cambios a las páginas de Marketplace Network:

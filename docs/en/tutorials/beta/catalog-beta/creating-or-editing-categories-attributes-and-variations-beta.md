@@ -57,7 +57,7 @@ In the beta phase, we'll use a new name for the following terms:
 
 In the VTEX Admin, when you go to **Catalog > Categories**, the interface by displays **Categories** and **Attributes** by default, as shown in the image below:
 
-![category_attributes_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/catalog-beta/creating-or-editing-categories-attributes-and-variations-beta_1.png)
+![category_attributes_EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/catalog-beta/creating-or-editing-categories-attributes-and-variations-beta_1.png)
 
 On this page, you can view information and perform the following actions:
 
@@ -78,7 +78,7 @@ On this page, you can view information and perform the following actions:
 
 Selecting the **Variations** option displays an interface like the one shown below:
 
-![category_variations_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/catalog-beta/creating-or-editing-categories-attributes-and-variations-beta_2.png)
+![category_variations_EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/catalog-beta/creating-or-editing-categories-attributes-and-variations-beta_2.png)
 
 On this page, you can view information and do the following:
 
@@ -206,7 +206,7 @@ When a group of attributes is created in the parent category, it becomes mandato
 
 In the **Attributes** interface, you can identify groups and inherited attributes by the share icon, located to the left of the name, as in the image below:
 
-![inherited_atribute_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/catalog-beta/creating-or-editing-categories-attributes-and-variations-beta_3.png)
+![inherited_atribute_EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/catalog-beta/creating-or-editing-categories-attributes-and-variations-beta_3.png)
 
 > ℹ️ To learn about attribute status, see the section [Viewing attribute activation status and values](#viewing-attribute-activation-status-and-values).
 

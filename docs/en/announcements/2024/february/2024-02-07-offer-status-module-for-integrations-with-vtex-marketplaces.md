@@ -17,7 +17,7 @@ announcementSynopsisEN: 'Monitor your offers with the new Offer Status module'
 
 __Offer Status__ is the new VTEX Admin module that allows sellers to monitor offers being sent and synced from integrations with VTEX marketplaces worldwide. To access the module, in the VTEX Admin, go to __Marketplace > Connections > Offer Status,__ or type __Offer Status__ in the search bar.
 
-![Offer Status Screen](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2024/february/2024-02-07-offer-status-module-for-integrations-with-vtex-marketplaces_1.gif)
+![Offer Status Screen](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2024/february/2024-02-07-offer-status-module-for-integrations-with-vtex-marketplaces_1.gif)
 
 ## Why did we develop this feature?
 

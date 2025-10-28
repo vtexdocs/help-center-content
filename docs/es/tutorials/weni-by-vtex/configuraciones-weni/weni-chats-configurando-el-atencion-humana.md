@@ -25,19 +25,19 @@ El **gerente de atención** puede realizar cambios en el sector que administra, 
 
 Toda esta gestión se lleva a cabo dentro del proyecto, en **Configuraciones > Chats**.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/configuraciones-weni/weni-chats-configurando-el-atencion-humana_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/configuraciones-weni/weni-chats-configurando-el-atencion-humana_1.png)
 
 ### Sector
 
 En el sector es donde se define el **horario de funcionamiento** de la atención humana, el **límite de atenciones simultáneas** por agente, y es posible añadir **etiquetas (tags)** para que los agentes clasifiquen el chat al finalizar la atención según el tema. Esto facilita búsquedas y la generación de informes posteriores.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/configuraciones-weni/weni-chats-configurando-el-atencion-humana_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/configuraciones-weni/weni-chats-configurando-el-atencion-humana_2.png)
 
 ### Colas
 
 Un sector necesita tener al menos una cola. Las colas sirven para subdividir un sector, en caso de que se quiera tener un sector con más de un grupo de agentes. Si no es necesaria esta subdivisión, basta con crear una única cola.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/configuraciones-weni/weni-chats-configurando-el-atencion-humana_3.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/configuraciones-weni/weni-chats-configurando-el-atencion-humana_3.png)
 
 Es posible ejemplificar el uso de colas en un sector de **Soporte Técnico**. Para este sector, puede ser útil tener las colas **Básico**, **Intermedio** y **Avanzado**, donde, a través de la filtración del bot, el contacto se dirige a la cola correspondiente según su necesidad.
 
@@ -49,4 +49,4 @@ Si un agente está asignado a más de una cola, ya sea dentro del mismo sector o
 
 Las **tags** se utilizan para clasificar las características de la atención y permiten la búsqueda y filtración de los chats a partir de ellas. Al cerrar un chat, el agente utilizará las tags para clasificar el chat según el tema y otras características.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/configuraciones-weni/weni-chats-configurando-el-atencion-humana_4.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/configuraciones-weni/weni-chats-configurando-el-atencion-humana_4.png)

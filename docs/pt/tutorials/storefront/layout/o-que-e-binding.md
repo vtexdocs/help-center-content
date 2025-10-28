@@ -20,7 +20,7 @@ O Website binding é o que faz a ponte entre o CMS (Portal) e as informações d
 
 Ou seja, é ele que define que um __account name__ (configurado no License Manager) está atrelado à estrutura de pastas e arquivos de determinado __Website__ (construída no CMS). 
 
-![Binding](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/o-que-e-binding_1.png)
+![Binding](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/o-que-e-binding_1.png)
 
 Esta é a configuração realizada quando uma conta deseja ter mais de uma loja. Para cada uma dessas lojas (que chamamos de [multilojas](/pt/tutorial/como-criar-multiloja-multidominio)), é feito um binding.
 

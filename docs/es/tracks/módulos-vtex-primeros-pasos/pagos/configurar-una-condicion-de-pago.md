@@ -99,7 +99,7 @@ Si decide configurar un medio de pago que acepte cuotas con intereses, este camp
 La opción Cuota Automática le permite configurar los detalles de las cuotas directamente en el proveedor de pago (fuera del entorno VTEX).
 Para habilitar esta opción, seleccione "Sí" en el campo **Utilizar pago en cuotas externo** durante el paso de [configuración de proveedor](/es/tutorial/afiliacoes-de-gateway--tutorials_444).
 
-![cuotaautomatica](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/m%C3%B3dulos-vtex-primeros-pasos/pagos/configurar-una-condicion-de-pago_1.JPG)
+![cuotaautomatica](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/m%C3%B3dulos-vtex-primeros-pasos/pagos/configurar-una-condicion-de-pago_1.JPG)
 
 Después de habilitar la cuota automática en el proveedor, siga estos pasos:
 

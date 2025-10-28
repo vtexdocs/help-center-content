@@ -96,7 +96,7 @@ y modifican el valor que refleja el descuento de la promoción seleccionada por 
 
 Se aplica de la siguiente manera:
 
-![promoção es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/tasas-y-promociones/promociones/como-funciona-la-competencia-de-promociones_1.png)
+![promoção es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/tasas-y-promociones/promociones/como-funciona-la-competencia-de-promociones_1.png)
 
 > ⚠️ Los pedidos de origen [marketplace](/es/tutorial/configurar-promocao-para-marketplace--tutorials_406) y fulfillment no reconocen la acumulación de promociones, ya que el uso de promociones en marketplaces VTEX o externos está restringido a ciertos tipos específicos.
 

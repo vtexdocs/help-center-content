@@ -37,7 +37,7 @@ In the **Layout Type** section, you can choose the desired layout format for bro
 * **Landscape (16:9):** Provides a horizontal view of the transmission, optimized for desktop screens.
 * **Portrait (9:16):** Provides a vertical view of the transmission, optimized for mobile screens.
 
-![article_7_screen_format_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/vtex-live-shopping-getting-started/configuring-event_1.png)
+![article_7_screen_format_EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/vtex-live-shopping-getting-started/configuring-event_1.png)
 
 The screen format is **Landscape (16:9)** by default, but you can change it by clicking the **Portrait (9:16)** view. The blue checkmark indicates the selected option.
 
@@ -88,7 +88,7 @@ In the **CMS Configuration** section, you can set up how the content will be pre
 * **Chat:** Enables your audience to interact via chat during the live event. Note that if the chat is hidden, the question option will also be hidden, as this functionality is displayed above the chat.
 * **Like:** Allows users to react during the live event using the heart-shaped like button.
 
-![article_7_cms_configuration_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/vtex-live-shopping-getting-started/configuring-event_2.png)
+![article_7_cms_configuration_EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/vtex-live-shopping-getting-started/configuring-event_2.png)
 
 * **Checkout cart:** Provides an `Add to cart` button that, when clicked by your audience, opens the checkout with the product added to the customer shopping cart in a new tab. The picture-in-picture (PiP) mode will also be activated, allowing the customer to continue watching the live stream while completing the purchase.
 * **Quick view:** Allows your audience to view the live event while seeing product variations. When the customer clicks the `Add to cart` button, a quick product view opens up without hiding the event transmission. This allows the customer to choose the size and color of a product, for example, while still watching the event. 

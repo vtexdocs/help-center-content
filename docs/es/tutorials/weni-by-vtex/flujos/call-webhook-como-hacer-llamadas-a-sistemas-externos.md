@@ -19,7 +19,7 @@ subcategoryId: hXGU8pFfABVFIg724zWBN
 
 La sigla **API** corresponde a las palabras en inglés **"" Application Programming Interface""**. En español, ""Interfaz de Programación de Aplicaciones"". Son una forma de **integrar sistemas** , posibilitando beneficios como la seguridad de los datos y la facilidad en el intercambio entre información.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/flujos/call-webhook-como-hacer-llamadas-a-sistemas-externos_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/flujos/call-webhook-como-hacer-llamadas-a-sistemas-externos_1.png)
 
 Actualmente, la capacidad de conectarse e integrarse con otros sistemas es una funcionalidad esencial para la mayoría de las soluciones hoy en día. Por ello, tenemos una carta de acción para utilizar en los flujos justamente para esa función: **Llamar Webhook.**
 
@@ -27,7 +27,7 @@ Actualmente, la capacidad de conectarse e integrarse con otros sistemas es una f
 
 La carta de **Llamar Webhook** es la responsable de la conexión entre la Plataforma Weni y otros sistemas externos, a continuación, tenemos un poco sobre su anatomía:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/flujos/call-webhook-como-hacer-llamadas-a-sistemas-externos_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/flujos/call-webhook-como-hacer-llamadas-a-sistemas-externos_2.png)
 
   1. Método de la solicitud: Donde se define cuál será el método para su solicitud de API (GET, POST, PUT o DELETE).
   2. URL de la solicitud: Donde se coloca la URL de la solicitud para la API.
@@ -51,7 +51,7 @@ El cuerpo de la solicitud acepta todas las variables y expresiones soportadas en
 
 Después de hacer la solicitud, puedes utilizar algunas expresiones para consultar información del retorno.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/flujos/call-webhook-como-hacer-llamadas-a-sistemas-externos_3.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/flujos/call-webhook-como-hacer-llamadas-a-sistemas-externos_3.png)
 
   * **@results**
 `@results.[nombre del result de la carta Llamar Webhook]`: Para consultar el estado de la solicitud, como por ejemplo: 200, 400, 500.

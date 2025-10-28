@@ -29,7 +29,7 @@ Com foco em melhorar a experiência do usuário, a nova tela de erro traz as seg
 
 Veja abaixo a nova tela de erro:
 
-![Erro-novo PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2024/outubro/2024-10-25-nova-tela-de-erro-no-admin_1.png)
+![Erro-novo PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2024/outubro/2024-10-25-nova-tela-de-erro-no-admin_1.png)
 
 ## O que precisa ser feito?
 

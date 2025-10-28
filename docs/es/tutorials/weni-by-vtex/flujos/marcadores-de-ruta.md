@@ -21,7 +21,7 @@ Después de crear nuestros flujos, nuestro objetivo y ansiedad se centran en sab
 
 Los marcadores de ruta son números guía que aparecen debajo de cada carta de acción y decisión, mostrando cuántas personas han pasado por esa ruta en el flujo. Es una herramienta muy interesante para identificar cuál es el camino más frecuentado por tus usuarios, además de actualizarse siempre en tiempo real. También es útil para identificar ciertos cuellos de botella, como cuando una pregunta retiene a un usuario demasiado tiempo en el flujo.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/flujos/marcadores-de-ruta_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/flujos/marcadores-de-ruta_1.png)
 
 Al colocar el cursor sobre uno de los marcadores de ruta, puedes ver cuáles fueron los últimos mensajes recibidos por las personas que pasaron por ese camino, además de conocer la fecha del último contacto.
 

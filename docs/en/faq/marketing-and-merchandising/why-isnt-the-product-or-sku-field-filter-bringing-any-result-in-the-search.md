@@ -30,4 +30,4 @@ To access this screen, follow the steps below:
 
 The Filter flag is on the product field configuration screen.
 
-![Filtro Campo de produto](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/marketing-and-merchandising/why-isnt-the-product-or-sku-field-filter-bringing-any-result-in-the-search_1.png)
+![Filtro Campo de produto](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/marketing-and-merchandising/why-isnt-the-product-or-sku-field-filter-bringing-any-result-in-the-search_1.png)

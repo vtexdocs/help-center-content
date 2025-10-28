@@ -45,22 +45,22 @@ Another advantage for the store's manager is the increase in conversion due to t
 
 This section displays the most searched terms on the website by other customers.
 
-![top-busca-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/intelligent-search/intelligent-search-behavior/autocomplete_1.png)
+![top-busca-EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/intelligent-search/intelligent-search-behavior/autocomplete_1.png)
 
 ## Last searches
 
 This section displays the last searches performed by the customer. This way, it is possible to start the interaction with the search instantly.
 
-![historico-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/intelligent-search/intelligent-search-behavior/autocomplete_2.png)
+![historico-EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/intelligent-search/intelligent-search-behavior/autocomplete_2.png)
 
 ## Search suggestions
 
 This section displays the terms and categories other users searched related to the search performed at that time. 
 
-![sugest-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/intelligent-search/intelligent-search-behavior/autocomplete_3.png)
+![sugest-EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/intelligent-search/intelligent-search-behavior/autocomplete_3.png)
 
 ## Product suggestion
 
 This section shows the products that correspond to the search carried out at that moment. By displaying products related to your search while you are typing, it reduces dropouts and gives the user the possibility to make a more dynamic purchase.
 
-![produtos-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/intelligent-search/intelligent-search-behavior/autocomplete_4.png)
+![produtos-EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/intelligent-search/intelligent-search-behavior/autocomplete_4.png)

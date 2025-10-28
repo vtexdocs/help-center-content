@@ -26,9 +26,9 @@ Siga as etapas abaixo para acessar o feedback no aplicativo:
 3. Selecione o nome do vendedor.  
 4. Digite a senha para acessar as informações.  
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/uncategorized/unknown-subcategory/visualizar-feedback-no-app-indeva_1.gif)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/uncategorized/unknown-subcategory/visualizar-feedback-no-app-indeva_1.gif)
 
 > ⚠️ O feedback fica disponível apenas no período seguinte. A data de registro é exibida logo abaixo do comentário.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/uncategorized/unknown-subcategory/visualizar-feedback-no-app-indeva_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/uncategorized/unknown-subcategory/visualizar-feedback-no-app-indeva_2.png)
 

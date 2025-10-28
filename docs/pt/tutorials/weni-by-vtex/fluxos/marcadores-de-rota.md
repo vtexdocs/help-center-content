@@ -21,7 +21,7 @@ Depois que criamos nossos fluxos, o nosso objetivo e ansiedade vira saber como a
 
 Os marcadores de rota são números guias que aparecem abaixo de cada carta de ação e decisão, mostrando quantas vezes as pessoas passaram por aquela rota no fluxo. Ferramenta bem interessante para identificar qual o caminho está sendo o mais procurado pelos seus usuários, além de sempre ser atualizada em tempo real. Também é possível identificar certos gargalos, como quando uma pergunta segurar um usuário tempo demais no fluxo.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/marcadores-de-rota_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/marcadores-de-rota_1.png)
 
 Ao colocar o cursor em cima de um dos marcadores de rota, você consegue ver quais foram as últimas mensagens recebidas pelas pessoas que passaram por aquele caminho. Além de saber a data de último contato.
 

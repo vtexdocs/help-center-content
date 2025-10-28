@@ -20,7 +20,7 @@ This scenario is presented when more than one item from the same SKU is splitt
 
 The example below helps to understand this concept :
 
-![Por que o item do carrinho foi separado](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/shopping/why-was-the-item-splitted-in-the-cart_1.jpg)
+![Por que o item do carrinho foi separado](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/shopping/why-was-the-item-splitted-in-the-cart_1.jpg)
 
 1. Multiplier unit.
 2. Product price after discount.

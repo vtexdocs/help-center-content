@@ -87,7 +87,7 @@ beleza,blush,pó;true
 
 Resultado no Admin VTEX:
 
-![sinonimos-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/intelligent-search/sin%C3%B4nimos/criar-sinonimos_1.png)
+![sinonimos-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/intelligent-search/sin%C3%B4nimos/criar-sinonimos_1.png)
 
 #### Lojas Multi-idioma (Beta)
 

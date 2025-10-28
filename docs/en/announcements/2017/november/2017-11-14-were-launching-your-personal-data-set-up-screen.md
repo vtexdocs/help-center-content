@@ -19,7 +19,7 @@ It has become easier to edit your personal VTEX Admin access settings.
 
 VTEX ID team has created the My User screen, which can be easily accessed by the Admin topbar.
 
-![dadosPessoais](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2017/november/2017-11-14-were-launching-your-personal-data-set-up-screen_1.png)
+![dadosPessoais](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2017/november/2017-11-14-were-launching-your-personal-data-set-up-screen_1.png)
 
 In this screen you can:
 - View your email registered on Admin.

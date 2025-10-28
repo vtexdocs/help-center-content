@@ -35,13 +35,13 @@ Para voltar à listagem original das transações, basta apagar o valor anterior
 
 Ao clicar em um pedido no Gerenciamento de Pedidos, você vai para a página que traz um resumo sobre ele. As principais informações estão lá, mas você pode ver ainda mais detalhes se clicar no link _Detalhes da transação_:
 
-![Link transação OMS (PT)](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/transa%C3%A7%C3%B5es/transacoes-como-buscar_1.png)
+![Link transação OMS (PT)](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/transa%C3%A7%C3%B5es/transacoes-como-buscar_1.png)
 
 ## TID do Pagamento e ID do Pagamento
 
 A busca utilizando esses códigos necessariamente precisa conter todos os dígitos, ou sua busca retornará vazia. Veja abaixo como encontrá-lo:
 
-![Códigos PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/transa%C3%A7%C3%B5es/transacoes-como-buscar_2.png)
+![Códigos PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/transa%C3%A7%C3%B5es/transacoes-como-buscar_2.png)
 
 Estes valores, dentro do detalhe da transação representarão a comunicação junto ao respectivo conector. Nos [eventos da transação](/pt/tutorial/como-visualizar-detalhes-do-pedido) será possível validar cada contato feito.
 

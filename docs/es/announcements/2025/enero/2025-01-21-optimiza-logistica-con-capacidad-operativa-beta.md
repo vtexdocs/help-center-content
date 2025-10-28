@@ -17,7 +17,7 @@ announcementSynopsisES: 'El nuevo módulo Capacidad operativa (beta) de VTEX opt
 
 VTEX lanza el nuevo módulo [Capacidad operativa (beta)](/es/tutorial/capacidade-operacional-beta--2thSYLMAS8KAd8V4XuBLSy), creado para ayudar a los retailers a gestionar la capacidad de los [sellers](/es/tutorial/o-que-e-um-seller--5FkLvhZ3Few4CWWIuYOK2w) para recibir y preparar pedidos. Esta herramienta permite monitorear la distribución de pedidos entre los sellers y realizar ajustes para optimizar el flujo operativo, promoviendo una red logística más eficiente.
 
-![operational_capacity_image_1_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2025/enero/2025-01-21-optimiza-logistica-con-capacidad-operativa-beta_1.png)
+![operational_capacity_image_1_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2025/enero/2025-01-21-optimiza-logistica-con-capacidad-operativa-beta_1.png)
 
 ## ¿Qué cambió?
 

@@ -33,7 +33,7 @@ These are the folders that every store needs to have in the CMS to ensure the co
 
 See below these basic folders in the CMS:
 
-![pastasObrigatorias](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/layout/cms-folder-structure_1.png)
+![pastasObrigatorias](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/layout/cms-folder-structure_1.png)
 
 These folders come by default in the environment of all VTEX stores.
 

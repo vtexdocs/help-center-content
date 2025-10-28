@@ -18,7 +18,7 @@ subcategoryId: 1ydaNLr2vhaL9YiUHYHPeS
 A Indeva disponibiliza três aplicativos distintos para dispositivos móveis, cada um voltado para uma função específica na operação ou na gestão da loja.  
 Todos podem ser encontrados na loja de aplicativos do seu dispositivo, conforme a compatibilidade do sistema operacional.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/lista-da-vez-indeva/instalar-aplicativos-da-plataforma-indeva_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/lista-da-vez-indeva/instalar-aplicativos-da-plataforma-indeva_1.png)
 
 Confira abaixo as características e requisitos de cada aplicativo:
 

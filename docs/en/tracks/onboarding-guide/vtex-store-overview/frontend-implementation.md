@@ -88,7 +88,7 @@ When talking about frontend implementation, remember that [VTEX IO](https://deve
 
 This means that with VTEX IO, you develop your code locally. However, when it comes to deploying and running the store, VTEX IO manages the infrastructure, CI/CD, and security and takes care of the deployment process. The image below shows how these concepts relate to each other:
 
-![Frontend development architecture](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/onboarding-guide/vtex-store-overview/frontend-implementation_1.png)
+![Frontend development architecture](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/onboarding-guide/vtex-store-overview/frontend-implementation_1.png)
 
 ### Store Framework main features
 
@@ -221,7 +221,7 @@ The development team must start a new project with FastStore through the [Onboar
 - *Product Details Page* (PDP)
 - *Minicart*
 
-![FastStore template](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/onboarding-guide/vtex-store-overview/frontend-implementation_2.png)
+![FastStore template](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/onboarding-guide/vtex-store-overview/frontend-implementation_2.png)
 
 #### FastStore MVP requirements
 
@@ -274,7 +274,7 @@ The development team must start a new project with Store Framework by cloning an
 - Product Listing Page (PLP)
 - Product Details Page (PDP)
 
-![Store Framework template](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/onboarding-guide/vtex-store-overview/frontend-implementation_3.png)
+![Store Framework template](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/onboarding-guide/vtex-store-overview/frontend-implementation_3.png)
 
 #### Store Framework MVP requirements
 

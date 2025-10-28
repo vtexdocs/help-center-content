@@ -35,9 +35,9 @@ There are two scenarios for adding services to products in a single cart:
 2. Select the service option you want and click the **Continue to Cart** button.
 3. After completing the process, you can view the selected services in your cart, along with the total order amount.
 
-![Garantia estendida - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/unified-commerce/vtex-sales-app/assembly-options-in-vtex-sales-app_1.png)
+![Garantia estendida - EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/unified-commerce/vtex-sales-app/assembly-options-in-vtex-sales-app_1.png)
 
-![Carrinho - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/unified-commerce/vtex-sales-app/assembly-options-in-vtex-sales-app_2.png)
+![Carrinho - EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/unified-commerce/vtex-sales-app/assembly-options-in-vtex-sales-app_2.png)
 
 **Scenario 2:** Selecting multiple services
 
@@ -53,8 +53,8 @@ There are two scenarios for adding services to products in a single cart:
 
 6.	Click the **Apply** button.
 
-![Garantia estendida - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/unified-commerce/vtex-sales-app/assembly-options-in-vtex-sales-app_3.png)
+![Garantia estendida - EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/unified-commerce/vtex-sales-app/assembly-options-in-vtex-sales-app_3.png)
 
-![Seguro - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/unified-commerce/vtex-sales-app/assembly-options-in-vtex-sales-app_4.png)
+![Seguro - EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/unified-commerce/vtex-sales-app/assembly-options-in-vtex-sales-app_4.png)
 
-![Ordem pedido - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/unified-commerce/vtex-sales-app/assembly-options-in-vtex-sales-app_5.png)
+![Ordem pedido - EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/unified-commerce/vtex-sales-app/assembly-options-in-vtex-sales-app_5.png)

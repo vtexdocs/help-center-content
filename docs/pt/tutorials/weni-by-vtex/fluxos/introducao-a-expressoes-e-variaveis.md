@@ -19,7 +19,7 @@ A criação de um fluxo é feita visando conectar um conjunto de ações por com
 
 As variáveis servem justamente para armazenar os valores e resultados dessas etapas, para persistir os dados. Por exemplo, a opção **Aguarde por Resposta** abaixo gerará uma variável de fluxo denominada _nome_ como resposta do contato. Além disso, a variável será usada para salvar os dados no campo de contato _Nome_.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/introducao-a-expressoes-e-variaveis_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/introducao-a-expressoes-e-variaveis_1.png)
 
 Variáveis começam com o símbolo @. Porém, você também pode avançar para as expressões de uso mais complexo, utilizando `@( `. As expressões são modeladas dentro de sintaxes específicas e a sua ideia é tratar dados para manipular as variáveis salvas pela plataforma.
 

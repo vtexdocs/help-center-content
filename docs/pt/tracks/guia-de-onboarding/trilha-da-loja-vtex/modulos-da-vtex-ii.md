@@ -55,11 +55,11 @@ A tabela a seguir apresenta os principais agentes e termos utilizados no context
 
 Quando uma compra é finalizada na VTEX, uma nova transação é criada e o fluxo de pagamento é iniciado. No exemplo abaixo, é possível verificar um fluxo de pagamento para uma compra realizada por cartão de crédito:
 
-![payments-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/guia-de-onboarding/trilha-da-loja-vtex/modulos-da-vtex-ii_1.jpg)
+![payments-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/guia-de-onboarding/trilha-da-loja-vtex/modulos-da-vtex-ii_1.jpg)
 
 Conforme as informações vão sendo transmitidas entre os agentes responsáveis pelo processamento dos dados, o status da transação de pagamento é atualizado para indicar em qual momento do fluxo os recursos se encontram. Para o fluxo de pagamento por cartão de crédito, temos o seguinte exemplo de status da transação:
 
-![payments-flow-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/guia-de-onboarding/trilha-da-loja-vtex/modulos-da-vtex-ii_2.JPG)
+![payments-flow-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/guia-de-onboarding/trilha-da-loja-vtex/modulos-da-vtex-ii_2.JPG)
 
 Mais informações sobre cada etapa podem ser encontradas no artigo [Fluxo da transação no Pagamentos](/pt/tutorial/transaction-flow-in-payments--Er2oWmqPIWWyeIy4IoEoQ). Para saber como acessar mais informações sobre as transações no Admin VTEX, bas conferir o artigo [Ver detalhes da transação](/pt/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/3Nt40DMEWkvhlpaL5PlBy).
 
@@ -180,7 +180,7 @@ No Admin VTEX, em **Pedidos > [Todos os pedidos](/pt/tutorial/lista-de-pedidos-i
 
 Na página de detalhes do pedido, também é possível acompanhar a evolução do [fluxo do pedido](/pt/tutorial/fluxo-e-status-de-pedidos--tutorials_196). A imagem a seguir é um exemplo de fluxo quando a loja atua simultaneamente como marketplace e seller:
 
-![order-flow-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/guia-de-onboarding/trilha-da-loja-vtex/modulos-da-vtex-ii_3.png)
+![order-flow-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/guia-de-onboarding/trilha-da-loja-vtex/modulos-da-vtex-ii_3.png)
 
 Para localizar o registro de uma compra no Admin VTEX, além de poder [filtrar pedidos](/pt/tutorial/filtrar-todos-pedidos--tutorials_192) na página **Todos os pedidos**, existe a opção de pesquisar pela barra de busca global, que aparece em todas as páginas do Admin VTEX. Para realizar a pesquisa, basta selecionar a opção `Pedidos`, no canto direito da barra de busca, e utilizar algum dos seguintes valores:
 
@@ -230,7 +230,7 @@ O checkout é a etapa final no processo de compras online e contribui de maneira
 
 Para assegurar o correto funcionamento do checkout, é necessário que os seguintes módulos estejam devidamente configurados pela loja: [Catálogo](/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3rA2tTpIoEXdv2nzC27zxR), [Logística](/pt/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx), [Preços](/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP#), [Promoções](/pt/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/2a2D0K85Ahvs4hLnL3Ag7N#), [Pagamentos](/pt/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/kdPbEIWf8Xq8tESQvViMB#) e [Pedidos](/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/2sl6hj2eqwgqbDgTF6y5qE).
 
-![checkout-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/guia-de-onboarding/trilha-da-loja-vtex/modulos-da-vtex-ii_4.jpg)
+![checkout-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/guia-de-onboarding/trilha-da-loja-vtex/modulos-da-vtex-ii_4.jpg)
 
 Este compartilhamento de informações permite que sejam processadas informações de disponibilidade, preços, promoções aplicáveis, métodos de envio e de pagamento.
 

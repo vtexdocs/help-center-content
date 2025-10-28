@@ -34,7 +34,7 @@ After you determine the discount at Checkout, you need to link the SKU to the pa
 3. Select the template of your product page.
 4. In the `skuPrice` property, add the `paymentSystemId` variable with the ID of the chosen payment method.
 
-![Screenshot 2020-12-18 Criar preço à vista](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/integrations/price/configuring-a-discount-for-orders-prepaid-in-full_1.png)
+![Screenshot 2020-12-18 Criar preço à vista](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/integrations/price/configuring-a-discount-for-orders-prepaid-in-full_1.png)
 
 6. Click on __Save Template__ in the upper right corner.
 

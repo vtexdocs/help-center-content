@@ -26,7 +26,7 @@ From February 1st, 2023, the new interface will be the default for all VTEX stor
 
 You can see the sections and fields correspondence between the old version of the **Order Details** page and the new version in the image below:
 
-![board_comparativo_interface_pedido_v2_en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/orders/orders-overview/frequently-asked-questions-new-orders-module-interface_1.png)
+![board_comparativo_interface_pedido_v2_en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/orders/orders-overview/frequently-asked-questions-new-orders-module-interface_1.png)
 
 ## What happened to the six-month search filter?
 
@@ -36,17 +36,17 @@ The six-month filter is now replaced by an unlimited date search that returns al
 
 Enter the desired term in the search bar to search all orders. This will make the <i class="fas fa-toggle-off"></i> `Remove date limit` option visible. Then, activate it to search.
 
-![busca_sem_limite_data_all_en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/orders/orders-overview/frequently-asked-questions-new-orders-module-interface_2.png)
+![busca_sem_limite_data_all_en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/orders/orders-overview/frequently-asked-questions-new-orders-module-interface_2.png)
 
 ## How to view the order flow diagram?
 
 By default, in the new interface, a timeline with the **Order status** events is displayed, as in the image below:
 
-![timeline_pedido_en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/orders/orders-overview/frequently-asked-questions-new-orders-module-interface_3.png)
+![timeline_pedido_en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/orders/orders-overview/frequently-asked-questions-new-orders-module-interface_3.png)
 
 If you want to see the **Order diagram** as in the old interface, click `View diagram` and a modal like the one in the image below will display: 
 
-![diagrama_pedido_en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/orders/orders-overview/frequently-asked-questions-new-orders-module-interface_4.png)
+![diagrama_pedido_en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/orders/orders-overview/frequently-asked-questions-new-orders-module-interface_4.png)
 
 ## How do I invoice an order?
 
@@ -54,7 +54,7 @@ In the **Items to invoice** section of the new interface, you can access all inv
 
 * **Submit invoice referencing items: **This option is exclusive to the new interface. It allows you to issue the invoice for all or specific items identified by SKU, inventory, and price. The following image shows an example:
 
-![faturar_referenciar_pedidos_final_en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/orders/orders-overview/frequently-asked-questions-new-orders-module-interface_5.png)
+![faturar_referenciar_pedidos_final_en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/orders/orders-overview/frequently-asked-questions-new-orders-module-interface_5.png)
 
 * **Submit single invoice:** This option corresponds to the old _Submit invoice_ and allows you to invoice the full or partial order amount. The page layout is different, but the fields remain the same.
 
@@ -73,7 +73,7 @@ In the new interface, in the **Order history** section, there is a timeline with
 
 To resend an email to the client, click the sent email event or the arrow icon <i class="fas fa-angle-right"></i> to see the event details, which will display as in the following image:
 
-![enviar_email_en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/orders/orders-overview/frequently-asked-questions-new-orders-module-interface_6.png)
+![enviar_email_en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/orders/orders-overview/frequently-asked-questions-new-orders-module-interface_6.png)
 
 Click the `Resend Email` button, and it will be immediately sent to the customer, and the following confirmation message should be displayed: _Email was successfully resent to the customer_.
 

@@ -33,6 +33,6 @@ Puede configurar Google Shopping a través de VTEX Admin siguiendo los siguiente
   El enlace de acceso XML se generará automáticamente.
 9. Guarde este XML en un archivo .txt y envíe el archivo a Google.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/integraciones-xml/como-configurar-xml-google-shopping_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/integraciones-xml/como-configurar-xml-google-shopping_1.png)
 
 > ⚠️ Si la opción **Mostrar SKU no disponibles** está desmarcada, los productos o SKU que estén agotados no aparecerán en el XML. Los productos inactivos tampoco aparecerán en el XML.

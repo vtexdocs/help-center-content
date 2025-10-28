@@ -16,6 +16,6 @@ legacySlug: por-que-el-pci-gateway-no-finaliza-la-cancelacion-de-la-transaccion
 
 Este escenario ocurre cuando una transacción permanece indefinidamente en el status `Cancelling`, impidiendo la cancelación de la transacción, y por consiguiente, del pedido en el OMS. Esta situación ocurre cuando VTEX está esperando un retorno del sistema del gateway, pero la respuesta correcta no llega hasta VTEX. Podemos ver en la imagen a continuación un ejemplo de respuesta del gateway que no permite la continuidad del proceso de cancelación por parte de VTEX:
 
-![resposta-inadequada-pci-gateway](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/financial/por-que-el-pagos-no-finaliza-la-cancelacion-de-la-transaccion_1.png)
+![resposta-inadequada-pci-gateway](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/financial/por-que-el-pagos-no-finaliza-la-cancelacion-de-la-transaccion_1.png)
 
 Para solucionar la cuestión, el comerciante debe ponerse en contacto con el gateway responsable del pago, informar los datos de la transacción y solicitar la cancelación.

@@ -23,7 +23,7 @@ From now on, you can view the information of providers in your store more quickl
 
 The screen for adding a new provider, editing settings, and searching for providers was also improved for better navigation.
 
-![new_admin_providers_interface](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2023/december/2023-12-22-new-payment-provider-and-anti-fraud-management-interface_1.JPG)
+![new_admin_providers_interface](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2023/december/2023-12-22-new-payment-provider-and-anti-fraud-management-interface_1.JPG)
 
 ## What needs to be done?
 

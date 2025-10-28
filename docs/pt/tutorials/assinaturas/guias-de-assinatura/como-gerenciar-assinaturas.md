@@ -35,7 +35,7 @@ A seção **Assinaturas Únicas** permite:
 - Visualizar um **gráfico dinâmico** com a relação entre assinaturas ativas e canceladas, dentro do período filtrado. Passando o cursor em cima das linhas do gráfico, é possível ver com detalhes a movimentação de assinaturas por dia.
 - **Exportar assinaturas** únicas dentro do período filtrado, pelo botão no canto superior direito da tela.
 
-![Dashboard Assinatura única](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/assinaturas/guias-de-assinatura/como-gerenciar-assinaturas_1.png)
+![Dashboard Assinatura única](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/assinaturas/guias-de-assinatura/como-gerenciar-assinaturas_1.png)
 
 ### Pedidos de Assinatura
 
@@ -47,12 +47,12 @@ A seção **Pedidos de Assinatura** permite:
 - Acompanhar o número absoluto e porcentagem correspondente de Pedidos de Assinatura que foram agendados, processados, gerados e completos por período.  
 - Visualizar um gráfico com a porcentagem de pedidos pulados, ciclos com problema e erro de pagamento.  
 
-![Dashboard Pedidos Assinatura](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/assinaturas/guias-de-assinatura/como-gerenciar-assinaturas_2.png)
+![Dashboard Pedidos Assinatura](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/assinaturas/guias-de-assinatura/como-gerenciar-assinaturas_2.png)
 
 - Ao acessar cada aba do quadro **Pedidos de Assinatura**, é possível visualizar o fluxo e detalhes dos pedidos que foram Pulados, os que apresentaram Ciclos com problema, aqueles que contém um Erro de Pagamento e pedidos Completos.    
 - Além de listar detalhes dos erros que ocorreram durante  o fluxo de pedidos de Assinatura, também é possível realizar a **retentativa manual** dos pedidos com erros. Confira nosso artigo sobre a [Resolução de problemas de pedidos com Assinatura](/pt/tutorial/como-solucionar-pedidos-de-assinatura-com-erros--uLL8AYBGdtAmbbdL5gRCf) para saber mais. 
 
-![Log Pedidos Assinatura](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/assinaturas/guias-de-assinatura/como-gerenciar-assinaturas_3.png)
+![Log Pedidos Assinatura](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/assinaturas/guias-de-assinatura/como-gerenciar-assinaturas_3.png)
 
 ### Assinantes
 

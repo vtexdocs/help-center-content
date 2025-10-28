@@ -23,7 +23,7 @@ La [estrategia de envío](/es/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QN
 
 La siguiente imagen muestra cómo se relacionan estos conceptos entre sí:
 
-![shipping_strategy_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/estrat%C3%A9gia-de-env%C3%ADo/politica-de-envio_1.png)
+![shipping_strategy_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/estrat%C3%A9gia-de-env%C3%ADo/politica-de-envio_1.png)
 
 La **política de envío** es un conjunto de reglas y ajustes que definen las opciones de envío que se mostrarán a los clientes en el checkout. Al [calcular el tiempo de envío](/es/tutorial/como-funciona-o-calculo-de-envio--tutorials_116) del pedido, la plataforma VTEX toma en consideración los ajustes establecidos en las políticas de envío, entre los que destacan:
 

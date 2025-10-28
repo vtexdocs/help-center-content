@@ -21,7 +21,7 @@ Cuando no hay [stock](/es/tutorial/gestionar-items-en-inventario--tutorials_139)
 
 A continuación, puedes ver un ejemplo de cómo se visualiza la opción **Avísame** en una tienda. Para recibir una notificación cuando el ítem esté disponible para la venta, el cliente debe ingresar su nombre e email en los campos resaltados y luego hacer clic en el botón `Enviar`.
 
-![aviseme-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pedidos/configuraci%C3%B3n-de-gesti%C3%B3n-de-pedidos/configurar-la-opcion-avisame_1.png)
+![aviseme-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pedidos/configuraci%C3%B3n-de-gesti%C3%B3n-de-pedidos/configurar-la-opcion-avisame_1.png)
 
 En cuanto el ítem ingrese de nuevo al stock de la tienda, el sistema envía automáticamente un email al cliente informándo le que el producto ya está disponible para la compra. 
 

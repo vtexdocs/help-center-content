@@ -16,7 +16,7 @@ legacySlug: que-hacer-cuando-el-aviseme-no-es-exhibido
 
 Existe un caso en que, aun con la [configuración del Avíseme](/es/tutorial/configurar-el-aviseme) hecha, el Avíseme no aparece. Es **cuando el tipo de exhibición de la categoría está seleccionado como Lista de SKUs**.
 
-![categoria-lista-de-skus ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/others/que-hacer-cuando-no-aparece-la-opcion-avisame_1.png)
+![categoria-lista-de-skus ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/others/que-hacer-cuando-no-aparece-la-opcion-avisame_1.png)
 
 En este caso, además de las configuraciones estándar, es necesario usar el control `vtex.cmc:SkuSelection`, aunque no exista más de un SKU por página.
 

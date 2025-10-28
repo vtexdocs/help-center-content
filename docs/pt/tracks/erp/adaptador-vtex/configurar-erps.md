@@ -24,7 +24,7 @@ Esta seção apresenta o passo-a-passo de confirmação dos ERPs:
 
 Tudo o que você precisa é acessar a tela da integradora clicando em  e, em seguida, na filial utilizada para integrar com Ecommerce, você deve alterar os campos URL de integração e o campo Token, conforme os passos abaixo:
 
-![integra winthor-adaptador](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/erp/adaptador-vtex/configurar-erps_1.png)
+![integra winthor-adaptador](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/erp/adaptador-vtex/configurar-erps_1.png)
 
 1. No campo URL da integração, insira o o endereço: `https://adapterstaging.ciashop.com.br`. 
 2. Após executar todo o processo de validação da integração com o ambiente de homologação (`https://adapterstaging.ciashop.com.br`), você deve requisitar ao time de suporte VTEX CURITIBA, para que seja liberado o acesso ao ambiente de produção do adapter.
@@ -39,9 +39,9 @@ Tudo o que você precisa fazer no ambiente Protheus é alterar os valores  de tr
 1. No ambiente Proteus, acesse o **SigaCFG**. 
 2. No menu lateral, acesse **Ambiente** > **Cadastros**. 
 3. Clique em **Parâmetros**. A seguinte tela será exibida:
-![protheusParametros-adaptador](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/erp/adaptador-vtex/configurar-erps_2.png)
+![protheusParametros-adaptador](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/erp/adaptador-vtex/configurar-erps_2.png)
 4. Na barra de ferramentas superior, clique no botão `FILTRO`. Abrirá a tela **Expressão de Filtro**:
-![protheusParametros2-adaptador](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/erp/adaptador-vtex/configurar-erps_3.png)
+![protheusParametros2-adaptador](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/erp/adaptador-vtex/configurar-erps_3.png)
 5. Na caixa **campos**, informe `X6_VAR`.
 6. Na caixa **Operadores**, escolha **Contém a expressão**.
 7. Na caixa **expressão** informe `MV_LJEC`.

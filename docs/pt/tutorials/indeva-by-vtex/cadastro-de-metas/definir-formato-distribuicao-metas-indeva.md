@@ -49,7 +49,7 @@ Nesta página, é possível editar os valores e percentuais das metas de cada ve
 
 - O total das metas individuais pode ser diferente da meta total da loja.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/cadastro-de-metas/definir-formato-distribuicao-metas-indeva_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/cadastro-de-metas/definir-formato-distribuicao-metas-indeva_1.png)
 
 Ao concluir a edição, clique em **Próximo**.
 

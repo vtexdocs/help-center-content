@@ -21,28 +21,28 @@ Com essa integração via **VTEX Assisted Sales (SuiteShare)** (através do for
 
 Na dashboard em _**“Integrações”**_.
 
-![RdStation 1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/rdstation-suiteshare_1.png)
+![RdStation 1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/rdstation-suiteshare_1.png)
 
 Ou clique em "_**configurações > Integrações"**_.
 
-![RdStation 2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/rdstation-suiteshare_2.png)
+![RdStation 2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/rdstation-suiteshare_2.png)
 
 Selecione a RD Station e clique em _**“integrar”**_.
 
 Clique em _**“conectar”**_.
 
-![RdStation 3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/rdstation-suiteshare_3.png)
+![RdStation 3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/rdstation-suiteshare_3.png)
 
 Faça login na sua conta no RD Station.
 
-![RdStation 4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/rdstation-suiteshare_4.png)
+![RdStation 4](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/rdstation-suiteshare_4.png)
 
 Escolha qual conta deseja conectar e clique em _**continuar**_.
 
-![RdStation 5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/rdstation-suiteshare_5.png)
+![RdStation 5](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/rdstation-suiteshare_5.png)
 
 Clique em _**“Conectar”**_.
 
-![RdStation 6](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/rdstation-suiteshare_6.png)
+![RdStation 6](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/rdstation-suiteshare_6.png)
 
 Pronto! Você acabou de integrar a **VTEX Assisted Sales (SuiteShare)** com o seu CRM.

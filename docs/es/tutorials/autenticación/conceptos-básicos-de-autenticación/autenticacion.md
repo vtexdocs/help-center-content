@@ -43,7 +43,7 @@ Es necesario configurar el método de autenticación que se ofrecerá en cada co
 
 En la página **Autenticación**, puedes elegir las opciones de inicio de sesión que deseas ofrecer a los clientes de tu tienda y a los usuarios administrativos que tendrán acceso al Admin de tu cuenta.
 
-![Página de autenticación](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/autenticaci%C3%B3n/conceptos-b%C3%A1sicos-de-autenticaci%C3%B3n/autenticacion_1.png)
+![Página de autenticación](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/autenticaci%C3%B3n/conceptos-b%C3%A1sicos-de-autenticaci%C3%B3n/autenticacion_1.png)
 
 Sigue estos pasos para activar las opciones de inicio de sesión que desees:
 

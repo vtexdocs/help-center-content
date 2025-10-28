@@ -25,7 +25,7 @@ En el Admin puedes crear páginas de destino personalizadas, como páginas para 
 
 2.Haz clic en **CREAR NUEVA**.
 
-![Crear Landing Pages](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/p%C3%A1ginas/crear-paginas-de-destino_1.png)
+![Crear Landing Pages](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/p%C3%A1ginas/crear-paginas-de-destino_1.png)
 
 3.En la sección **Detalles de la página**, rellena los siguientes campos para definir los metadatos de la página:
 

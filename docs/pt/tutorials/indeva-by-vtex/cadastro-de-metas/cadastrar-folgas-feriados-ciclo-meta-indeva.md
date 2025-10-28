@@ -37,5 +37,5 @@ Para cadastrar uma folga em uma sexta-feira, selecione 5 de agosto no calendári
 Para aplicar apenas a esse dia específico, clique em **Aplicar em 5 de agosto**.  
 Para aplicar a todas as sextas-feiras do período, clique em **Aplicar em todas as sextas-feiras**.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/cadastro-de-metas/cadastrar-folgas-feriados-ciclo-meta-indeva_1.gif)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/cadastro-de-metas/cadastrar-folgas-feriados-ciclo-meta-indeva_1.gif)
 

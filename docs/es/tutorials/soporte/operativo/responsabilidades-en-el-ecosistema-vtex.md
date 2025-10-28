@@ -30,7 +30,7 @@ Durante la configuración inicial de VTEX, si tu tienda utiliza [integraciones e
 
 Después de configurar la integración de productos, precios y stock, así como de desarrollar el middleware, el flujo de información se dará como se ilustra en el diagrama a continuación.
 
-![back-office-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/soporte/operativo/responsabilidades-en-el-ecosistema-vtex_1.PNG)
+![back-office-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/soporte/operativo/responsabilidades-en-el-ecosistema-vtex_1.PNG)
 
 Durante las operaciones rutinarias, las responsabilidades se dividen de la siguiente manera:
 
@@ -195,6 +195,6 @@ Sigue los pasos que se indican a continuación para identificar al soporte con e
 2. Haz clic en el pedido deseado para acceder a la [página de detalles del pedido](/es/tutorial/pagina-de-detalles-del-pedido--2Y75n54Cc9VizrlG1N6ZNl).
 3. En la sección **Historial de pedidos**, haz clic en `Ver interacciones` (botón ilustrado a continuación), y comprueba si hay algún mensaje de error. 
 
-![ver-interacciones-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/soporte/operativo/responsabilidades-en-el-ecosistema-vtex_2.png)
+![ver-interacciones-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/soporte/operativo/responsabilidades-en-el-ecosistema-vtex_2.png)
 
 Si el mensaje de error no es autoexplicativo, el retailer puede ponerse en contacto con el [equipo de soporte VTEX](/es/faq/como-funciona-el-suporte-de-vtex--3kACEfni4m8Yxa1vnf2ebe) adjuntando capturas de pantalla de las interacciones y el ID del pedido, y el equipo de expertos lo ayudará a identificar el origen del problema.

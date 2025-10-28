@@ -33,7 +33,7 @@ Selecciona la cuenta empresarial que deseas utilizar.
 
 Sigue los pasos a continuación para realizar la verificación de negocios.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/whatsapp-bussiness-api-como-verificar-mi-negocio_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/whatsapp-bussiness-api-como-verificar-mi-negocio_1.png)
 
 1. Elige la cuenta
 2. Haz clic en configuraciones
@@ -51,7 +51,7 @@ Paso 2
 
 Si ya has integrado tu número en nuestra plataforma a través del Menú Integraciones \> Mis Aplicaciones o si se ha aceptado el vínculo entre tu Meta Business y Weni, el botón Iniciar verificación estará disponible para ti en la nueva página que se abre al hacer clic en Ver Detalles.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/whatsapp-bussiness-api-como-verificar-mi-negocio_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/whatsapp-bussiness-api-como-verificar-mi-negocio_2.png)
 
 Si este botón no está visible, contacta al soporte o a tu analista responsable para obtener ayuda con la activación del botón de verificación de negocios.Sigue las instrucciones de Meta, lee atentamente las solicitudes y completa con datos compatibles con tu documentación de empresa/CNPJ o los indicados por Meta.
 

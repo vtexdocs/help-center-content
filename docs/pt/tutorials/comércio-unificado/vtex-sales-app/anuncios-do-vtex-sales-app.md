@@ -64,24 +64,24 @@ Para criar uma página de anúncios para o VTEX Sales App, siga os passos abaixo
     * **Título da vitrine:** nome da vitrine que  será exibido na página.
     * **ID do produto:** número identificador do produto que você deseja exibir. Campo obrigatório.
     * **SKU ID do produto:** número identificador do  SKU do produto que você deseja exibir. Campo opcional.
-![vitrine-produto-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/com%C3%A9rcio-unificado/vtex-sales-app/anuncios-do-vtex-sales-app_1.png)
+![vitrine-produto-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/com%C3%A9rcio-unificado/vtex-sales-app/anuncios-do-vtex-sales-app_1.png)
 Após preencher os campos, será exibido a imagem do produto com o preço com a "partir de". Caso você inclua o SKU, será exibido o preço e promoção do SKU indicado. Você pode incluir mais produtos clicando em `+ NOVO PRODUTO`. É possível adicionar até 10 produtos em cada vitrine. 
 O resultado da vitrine de produtos será exibido conforme imagem abaixo.
-![vitrine-produto-2-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/com%C3%A9rcio-unificado/vtex-sales-app/anuncios-do-vtex-sales-app_2.png)
+![vitrine-produto-2-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/com%C3%A9rcio-unificado/vtex-sales-app/anuncios-do-vtex-sales-app_2.png)
   - **Vitrine de resultado de buscas:** exibirá produtos de um resultado de busca que você definir. Adicione as  seguintes informações:
     * **Título da vitrine:** nome da vitrine que  será exibido na página.
     * **Imagem da busca:** imagem que representará a seleção de produtos na vitrine.
     * **Nome da busca:** nome da busca que será exibido na página.
     * **Termo de busca:** termo de busca que será referência dos produtos.
-![vitrine-busca-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/com%C3%A9rcio-unificado/vtex-sales-app/anuncios-do-vtex-sales-app_3.png)
+![vitrine-busca-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/com%C3%A9rcio-unificado/vtex-sales-app/anuncios-do-vtex-sales-app_3.png)
 Quando o vendedor clicar no termo de busca, ele será direcionado para o resultado de buscas que foi determinado em **Termo de busca**. Você também poderá incluir até 10 buscas em cada vitrine. Veja o resultado na imagem abaixo:
-![vitrine-busca-2-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/com%C3%A9rcio-unificado/vtex-sales-app/anuncios-do-vtex-sales-app_4.png)
+![vitrine-busca-2-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/com%C3%A9rcio-unificado/vtex-sales-app/anuncios-do-vtex-sales-app_4.png)
 <ol start="6">
   <li>Depois de criar as seções, clique em `Salvar`, em seguida, clique em `Publicar` e `Publicar agora` para finalizar.</li>
 </ol> 
 - **Vitrine de coleção:** exibirá produtos da coleção que você definir. Adicione as seguintes informações: **Título da vitrine:** nome da vitrine que será exibido na página. **ID da coleção:** número do identificador da coleção que será exibido na página.
 
-![Vitrine-PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/com%C3%A9rcio-unificado/vtex-sales-app/anuncios-do-vtex-sales-app_5.png)
+![Vitrine-PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/com%C3%A9rcio-unificado/vtex-sales-app/anuncios-do-vtex-sales-app_5.png)
 
 A publicação da vitrine entrará na fila de indexação e estará publicada em torno de alguns  segundos.
 
@@ -92,13 +92,13 @@ A publicação da vitrine entrará na fila de indexação e estará publicada em
 2. Clique no botão <i class="fas fa-cog"></i>. 
 3. Selecione a aba **Código**.
 4. Selecione na aba lateral o arquivo `checkout-instore-custom-js`.
-![checkout-instore-custom-js-file](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/com%C3%A9rcio-unificado/vtex-sales-app/anuncios-do-vtex-sales-app_6.png)
+![checkout-instore-custom-js-file](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/com%C3%A9rcio-unificado/vtex-sales-app/anuncios-do-vtex-sales-app_6.png)
 5. No objeto `window.INSTORE_CONFIG`, adicione a flag `enableExplore: true,`.
-![window.INSTORE_CONFIG](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/com%C3%A9rcio-unificado/vtex-sales-app/anuncios-do-vtex-sales-app_7.png)
+![window.INSTORE_CONFIG](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/com%C3%A9rcio-unificado/vtex-sales-app/anuncios-do-vtex-sales-app_7.png)
 6. Clique em <i class="fas fa-save"></i> `Salvar`. 
 7. Opcionalmente, você pode determinar que a página inicial do vendedor seja a página de anúncios. Para isso, adicione a flag `initialPage : 'advertisements',` no objeto `window.INSTORE_CONFIG`.
 
-![initialPage : advertisements](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/com%C3%A9rcio-unificado/vtex-sales-app/anuncios-do-vtex-sales-app_8.png)
+![initialPage : advertisements](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/com%C3%A9rcio-unificado/vtex-sales-app/anuncios-do-vtex-sales-app_8.png)
 
 ## Acessar os anúncios no VTEX Sales App
 
@@ -107,4 +107,4 @@ No VTEX Sales App, o vendedor terá a possibilidade de acessar a página de anú
 * **Página inicial:** se o administrador da loja cadastrou previamente a página de anúncios como a página inicial do vendedor, ao efetuar login na plataforma, o vendedor será direcionado diretamente para a página de anúncios. Essa configuração garante que os vendedores estejam sempre atualizados sobre os anúncios e promoções relevantes, assim que acessarem o sistema.
 * **Menu Explorar:** caso a página de anúncios não seja a página inicial do vendedor, ela ainda pode ser facilmente acessada por meio do menu **Explorar**. Para acessar a página de anúncios, o vendedor deve clicar no menu **Explorar**. Isso levará o vendedor diretamente à página de anúncios, onde poderá visualizar e interagir com os produtos e promoções disponíveis.
 
-![vitrine-sale-app-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/com%C3%A9rcio-unificado/vtex-sales-app/anuncios-do-vtex-sales-app_9.png)
+![vitrine-sale-app-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/com%C3%A9rcio-unificado/vtex-sales-app/anuncios-do-vtex-sales-app_9.png)

@@ -103,7 +103,7 @@ Os passos para esta configuração devem ser seguidos na ordem apresentada abaix
 
 Após configurar a loja e fazer a integração com middleware, o fluxo geral de informações terá o seguinte formato:
 
-![ERP-integrations-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/guia-de-onboarding/trilha-da-loja-vtex/integracoes-de-backend_1.jpg)
+![ERP-integrations-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/guia-de-onboarding/trilha-da-loja-vtex/integracoes-de-backend_1.jpg)
 
 Cada uma das requisições ou processos representados pelas setas no diagrama acima é acionada por um tipo diferente de evento na operação do dia a dia de um ecommerce. Para saber mais detalhes sobre esse fluxo, veja o [Back office integration guide (ERP/PIM/WMS)](https://developers.vtex.com/docs/guides/erp-integration-guide#ongoing-middleware-flow).
 
@@ -165,7 +165,7 @@ Existem três tipos de especificações e elas devem ser criadas na seguinte ord
 
 O diagrama abaixo ilustra este procedimento:
 
-![catalog_specification_diagram_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/guia-de-onboarding/trilha-da-loja-vtex/integracoes-de-backend_2.png)
+![catalog_specification_diagram_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/guia-de-onboarding/trilha-da-loja-vtex/integracoes-de-backend_2.png)
 
 As especificações seguem a hierarquia do Catálogo. Quando um grupo é criado em um departamento ou categoria, ele será herdado nos níveis abaixo. 
 

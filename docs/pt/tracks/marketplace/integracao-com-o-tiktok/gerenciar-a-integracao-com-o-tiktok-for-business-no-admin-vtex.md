@@ -19,7 +19,7 @@ Após instalar e configurar o TikTok for Business, você poderá gerenciar a int
 
 Qualquer usuário logado no Admin VTEX poderá acessar essa área de gerenciamento do TikTok. Porém, ao interagir com os botões dessa área, o usuário será redirecionado para ambientes do TikTok – TikTok Business Center, TikTok Ads Manager e TikTok Catalog Manager – onde precisam das permissões necessárias para visualizar o conteúdo e realizar alterações.
 
-![manage-tiktok-integration](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/marketplace/integracao-com-o-tiktok/gerenciar-a-integracao-com-o-tiktok-for-business-no-admin-vtex_1.png)
+![manage-tiktok-integration](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/marketplace/integracao-com-o-tiktok/gerenciar-a-integracao-com-o-tiktok-for-business-no-admin-vtex_1.png)
 
 A partir dessa página, é possível:
 

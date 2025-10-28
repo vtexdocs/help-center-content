@@ -26,7 +26,7 @@ This page allows you to:
 - [Filter orders](#filtering-orders)
 - [Export orders](#exporting-orders)
 
-![pick-and-pack-pedidos-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-orders_1.png)
+![pick-and-pack-pedidos-EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-orders_1.png)
 
 The page displays the following information in a table:
 
@@ -53,7 +53,7 @@ You can optimize order search by using the following tabs:
 
 You can also find more detailed information about each order by clicking the respective order in the table.
 
-![pick-and-pack-pedidos-2-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-orders_2.png)
+![pick-and-pack-pedidos-2-EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-orders_2.png)
 
 By selecting the desired order, you will see the following information:
 
@@ -88,5 +88,5 @@ You can export orders by following the steps below:
 1. Click `Export`.
 2. Select the information you want to export: `Package Report` or `Order Report`.
     * For the `Package Report`, select the date range you want to export, the shipping type, and the shipping method.
-![pick-and-pack-pedidos-3-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-orders_3.png)
+![pick-and-pack-pedidos-3-EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-pick-and-pack/vtex-pick-and-pack-orders_3.png)
 3.  Click `Export`.

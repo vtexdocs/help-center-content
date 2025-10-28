@@ -26,10 +26,10 @@ Así la Prueba AB funcionará con éxito.
 Siguen las pantallas que ejemplifican el paso a paso:
 
 __Pantalla Control__:
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/others/prueba-ab-por-que-no-esta-funcionando-google-analytics_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/others/prueba-ab-por-que-no-esta-funcionando-google-analytics_1.png)
 
 __Pantalla Script__:
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/others/prueba-ab-por-que-no-esta-funcionando-google-analytics_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/others/prueba-ab-por-que-no-esta-funcionando-google-analytics_2.png)
 
 __Pantalla Template__:
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/others/prueba-ab-por-que-no-esta-funcionando-google-analytics_3.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/others/prueba-ab-por-que-no-esta-funcionando-google-analytics_3.png)

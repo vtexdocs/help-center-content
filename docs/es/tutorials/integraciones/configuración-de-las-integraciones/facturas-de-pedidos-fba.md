@@ -19,7 +19,7 @@ La funcionalidad **Facturas** permite que los sellers [filtren](#filtros) y expo
 
 Para acceder a la página, accede al **Admin VTEX > Marketplace > Amazon > Facturas** o escribe **Facturas** en la barra de búsqueda del Admin.
 
-![Overview facturas Amazon](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/configuraci%C3%B3n-de-las-integraciones/facturas-de-pedidos-fba_1.jpg)
+![Overview facturas Amazon](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/configuraci%C3%B3n-de-las-integraciones/facturas-de-pedidos-fba_1.jpg)
 
 ## Filtros
 
@@ -37,11 +37,11 @@ Al seleccionar **Tipo de operación** o **Tipo de factura,**  se muestran otras 
 
 - Si se selecciona **Tipo de operación** , se muestran las opciones **Envío (excedente), Remoción, Ventas, Devolución del cliente, Ajuste de stock (encontrado)** y **Ajuste de stock (perdido),**  según se ilustra a continuación.  
 
-![Tipo operación NFe](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/configuraci%C3%B3n-de-las-integraciones/facturas-de-pedidos-fba_2.jpg)
+![Tipo operación NFe](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/configuraci%C3%B3n-de-las-integraciones/facturas-de-pedidos-fba_2.jpg)
 
 - Si se selecciona **Tipo de factura** , se muestran las opciones **Envío, Envío de ajuste, Devolución, Devolución de ajuste** y **Venta al cliente**, según se ilustra a continuación.  
 
-![Tipo NFe](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/configuraci%C3%B3n-de-las-integraciones/facturas-de-pedidos-fba_3.jpg)
+![Tipo NFe](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/configuraci%C3%B3n-de-las-integraciones/facturas-de-pedidos-fba_3.jpg)
 
 > ℹ️ Si no seleccionas ninguno de los dos, el sistema devuelve las facturas de todos los tipos de forma predeterminada.
 

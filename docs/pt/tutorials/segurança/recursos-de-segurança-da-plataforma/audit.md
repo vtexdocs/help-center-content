@@ -24,7 +24,7 @@ Para acessar a página do Audit no Admin VTEX, acesse **Apps > Apps instalados >
 
 > ℹ️ Para visualizar os eventos do Audit, é necessário ter um [perfil de acesso](/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) associado ao [recurso](/pt/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3) *Insights Metrics*.
 
-![audit-ui-pt 1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/seguran%C3%A7a/recursos-de-seguran%C3%A7a-da-plataforma/audit_1.png)
+![audit-ui-pt 1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/seguran%C3%A7a/recursos-de-seguran%C3%A7a-da-plataforma/audit_1.png)
 
 ## Buscar eventos no Audit
 
@@ -48,7 +48,7 @@ Confira o passo a passo para buscar por um evento utilizando os filtros disponí
 
     Por exemplo, a busca correspondente à figura abaixo encontra resultados cujas ações são _Change Promotion Configuration_ ou _Change Coupon Configuration_ e cujo autor é `email@email.com`.
 
-    ![filtros-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/seguran%C3%A7a/recursos-de-seguran%C3%A7a-da-plataforma/audit_2.png)
+    ![filtros-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/seguran%C3%A7a/recursos-de-seguran%C3%A7a-da-plataforma/audit_2.png)
 
 7. Clique no botão `Aplicar` para obter os eventos que foram encontrados.
 
@@ -115,7 +115,7 @@ Para buscar se uma transportadora foi deletada em determinada data:
 
 ## Verificar últimas buscas realizadas no Audit
 
-Toda busca realizada no Audit é salva na aba **Últimas buscas**. Para refazer uma busca nessa aba, clique no botão <img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/seguran%C3%A7a/recursos-de-seguran%C3%A7a-da-plataforma/audit_3.png" width="15"> correspondente à busca que você deseja refazer.
+Toda busca realizada no Audit é salva na aba **Últimas buscas**. Para refazer uma busca nessa aba, clique no botão <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/seguran%C3%A7a/recursos-de-seguran%C3%A7a-da-plataforma/audit_3.png" width="15"> correspondente à busca que você deseja refazer.
 
 Confira a seguir as informações disponíveis nesta aba:
 

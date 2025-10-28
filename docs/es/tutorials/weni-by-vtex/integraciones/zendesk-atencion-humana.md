@@ -23,44 +23,44 @@ La integración entre la plataforma Weni y Zendesk proporciona una herramienta p
 - Si aún no tienes una cuenta, crea una en Zendesk. Para este ejemplo, estamos utilizando una cuenta de prueba gratuita. ( [https://weni5623\.zendesk.com/](https://weni5623.zendesk.com/) )
 - Acesse: <https://www.zendesk.com.br/>
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/zendesk-atencion-humana_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/zendesk-atencion-humana_1.png)
 
 1. Acceder al proyecto en la plataforma Weni
 
 - Dentro de tu proyecto en la plataforma Weni, ve al módulo **Applications** > **Other Apps**.
 - Haz clic en el menú hamburguesa y selecciona **Add Ticketing Service**, eligiendo **Zendesk**.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/zendesk-atencion-humana_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/zendesk-atencion-humana_2.png)
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/zendesk-atencion-humana_3.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/zendesk-atencion-humana_3.png)
 
 1. Rellena el **Subdomain** y captura la **Request URL**
 
 - Se te pedirá que ingreses tu subdominio. Antes de enviarlo, presiona **F12** para abrir el modo desarrollador y accede al módulo **Network**.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/zendesk-atencion-humana_4.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/zendesk-atencion-humana_4.png)
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/zendesk-atencion-humana_5.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/zendesk-atencion-humana_5.png)
 
 - Rellena el **Subdomain**, que es el valor antes de “zendesk.com” en la URL. Ejemplo: **weni5623** de https://weni5623\.zendesk.com/.
 - Al hacer clic en **Conectar**, en el modo desarrollador aparecerán dos nuevas líneas.
 - Haz clic en la segunda línea, donde la Request URL comenzará con tu subdominio, por ejemplo, https://weni5623\...
 - Copia toda la URL y ábrela en otra pestaña del navegador.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/zendesk-atencion-humana_6.gif)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/zendesk-atencion-humana_6.gif)
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/zendesk-atencion-humana_7.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/zendesk-atencion-humana_7.png)
 
 1. Autorizar el uso de la aplicación
 
 - Autoriza el uso de la aplicación en tu cuenta de Zendesk.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/zendesk-atencion-humana_8.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/zendesk-atencion-humana_8.png)
 
 - Después de la autorización, se mostrará una guía paso a paso para continuar.
 - Guarda el **secreto** que se muestra, ya que será necesario en las siguientes etapas.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/zendesk-atencion-humana_9.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/zendesk-atencion-humana_9.png)
 
 1. Instalar la aplicación Weni en Zendesk
 
@@ -68,9 +68,9 @@ Accede al [Marketplace de Zendesk](https://www.zendesk.com/marketplace/apps/) y 
 
 Si la aplicación de Weni ya está instalada en Zendesk, no es necesario reinstalarla. Continúe con el siguiente paso para **agregar cuenta**.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/zendesk-atencion-humana_10.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/zendesk-atencion-humana_10.png)
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/zendesk-atencion-humana_11.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/zendesk-atencion-humana_11.png)
 
 1. Configurar la Integración en Zendesk
 
@@ -80,21 +80,21 @@ En Aplicaciones e integraciones, agrega la aplicación de Weni en el Marketplace
 
 Después de integrar, configura y guarda la información.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/zendesk-atencion-humana_12.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/zendesk-atencion-humana_12.png)
 
 1. Haz clic en Aplicaciones de canal > Haz clic en tu Canal > Cuentas > Agregar cuenta.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/zendesk-atencion-humana_13.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/zendesk-atencion-humana_13.png)
 
 Asigna un nombre a tu integración/cuenta y añade el secreto guardado en el paso 5\.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/zendesk-atencion-humana_14.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/zendesk-atencion-humana_14.png)
 
 1. Verificar la Conexión en la Plataforma Weni
 
 Si todos los pasos se han seguido correctamente, en Aplicaciones > Otras Aplicaciones en la Plataforma Weni, el servicio con Zendesk deberá aparecer como conectado.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/zendesk-atencion-humana_15.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/zendesk-atencion-humana_15.png)
 
 1. Utilizar la Tarjeta ""Abrir un Ticket"" en el Flujo
 
@@ -102,7 +102,7 @@ Ahora puedes utilizar la tarjeta Abrir un Ticket en tu flujo en la Plataforma We
 
 Consulta: [Creación de campos personalizados.](https://docs.weni.ai/l/pt/configura-es/campos-de-cria-o-de-ticket-no-zendesk)
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/zendesk-atencion-humana_16.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/zendesk-atencion-humana_16.png)
 
 1. Configurar Disparadores
 
@@ -112,7 +112,7 @@ Además, crea activadores para evitar que los usuarios en atención inicien otro
 
 Este es un test de apertura de tickets en Zendesk:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/zendesk-atencion-humana_17.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/zendesk-atencion-humana_17.png)
 
 ##### Próximos Pasos:
 

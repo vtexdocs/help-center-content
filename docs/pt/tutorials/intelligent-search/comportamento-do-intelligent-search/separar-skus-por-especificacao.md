@@ -25,7 +25,7 @@ Essa ferramenta é indicada, principalmente, para lojas de vestuários, pois é 
 
 A seguir, confira um exemplo de separação de SKUs por cor. Na imagem abaixo, a sandália em destaque apresenta duas cores diferentes no resultado da pesquisa:
 
-![screencapture-footnotes-sandals-2021-02-11-14 21 21](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/intelligent-search/comportamento-do-intelligent-search/separar-skus-por-especificacao_1.png)
+![screencapture-footnotes-sandals-2021-02-11-14 21 21](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/intelligent-search/comportamento-do-intelligent-search/separar-skus-por-especificacao_1.png)
 
 > ℹ️  Caso os resultados de busca sejam ordenados por relevância, os SKUs de um mesmo produto são agrupados, ou seja, aparecem um ao lado do outro.
 

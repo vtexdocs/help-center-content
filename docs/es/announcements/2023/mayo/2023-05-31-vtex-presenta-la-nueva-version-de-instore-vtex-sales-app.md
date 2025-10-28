@@ -29,7 +29,7 @@ El nuevo menú aporta beneficios significativos, que destacamos a continuación:
 * **Navegación intuitiva:** organización mejorada para encontrar rápidamente lo que se está buscando.
 * **Coherencia visual:** apariencia alineada con otras actualizaciones recientes de nuestra plataforma.
 
-<img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2023/mayo/2023-05-31-vtex-presenta-la-nueva-version-de-instore-vtex-sales-app_1.png" alt= “menu-sales-app-es” width="35%" height="35%">
+<img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2023/mayo/2023-05-31-vtex-presenta-la-nueva-version-de-instore-vtex-sales-app_1.png" alt= “menu-sales-app-es” width="35%" height="35%">
 
 ### Área de anuncios
 
@@ -37,13 +37,13 @@ El área de anuncios permite que los administradores de las tiendas muestren pro
 
 Uno de los principales recursos de esta actualización es la opción de que los administradores de las tiendas establezcan la nueva área de anuncios como página de inicio. Esto permite una experiencia de usuario más personalizada, ya que los clientes, en cuanto acceden, se encuentran inmediatamente con contenido seleccionado y recomendaciones de productos. Más información en el artículo [Habilitar Venta de inventario local en VTEX Sales App](/es/tutorial/habilitar-venta-de-inventario-local-en-vtex-sales-app--54eQN4rOH5yBYPGG2w8v9q).
 
-<img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2023/mayo/2023-05-31-vtex-presenta-la-nueva-version-de-instore-vtex-sales-app_2.png" alt= “anuncio-sale-app-es” width="35%" height="35%">
+<img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2023/mayo/2023-05-31-vtex-presenta-la-nueva-version-de-instore-vtex-sales-app_2.png" alt= “anuncio-sale-app-es” width="35%" height="35%">
 
 ### Desempeño de ventas
 
 La sección Desempeño de ventas permite al administrador de la tienda acceder a las métricas de ventas de su tienda, mostrando la comparación de desempeño entre periodos de ventas y también de los empleados. Más información en el artículo [VTEX Sales App: Rendimiento de Ventas](/es/tutorial/sales-app-rendimiento-de-ventas--7i4Elt835tatBM6iqZoc56).
 
-<img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2023/mayo/2023-05-31-vtex-presenta-la-nueva-version-de-instore-vtex-sales-app_3.png" alt= “vendas-da-loja-sales-app-es” width="35%" height="35%">
+<img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2023/mayo/2023-05-31-vtex-presenta-la-nueva-version-de-instore-vtex-sales-app_3.png" alt= “vendas-da-loja-sales-app-es” width="35%" height="35%">
 
 ## ¿Qué se necesita hacer?
 

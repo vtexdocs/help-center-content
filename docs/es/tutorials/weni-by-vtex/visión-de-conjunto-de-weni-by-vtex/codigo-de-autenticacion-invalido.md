@@ -19,10 +19,10 @@ Si deshabilitó y volvió a habilitar la autenticación de dos factores, y al in
 
 1. Acceda a la aplicación Microsoft Authenticator en su celular.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/visi%C3%B3n-de-conjunto-de-weni-by-vtex/codigo-de-autenticacion-invalido_1.png)
-1. Al acceder a la aplicación, aparecerá la pestaña ""Weni\-staging"". Haga clic en esta opción y luego en configuraciones, el ícono de la rueda dentada.![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/visi%C3%B3n-de-conjunto-de-weni-by-vtex/codigo-de-autenticacion-invalido_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/visi%C3%B3n-de-conjunto-de-weni-by-vtex/codigo-de-autenticacion-invalido_1.png)
+1. Al acceder a la aplicación, aparecerá la pestaña ""Weni\-staging"". Haga clic en esta opción y luego en configuraciones, el ícono de la rueda dentada.![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/visi%C3%B3n-de-conjunto-de-weni-by-vtex/codigo-de-autenticacion-invalido_2.png)
 2. Al ingresar al área de configuración, aparecerá esta pantalla. Haga clic en el botón ""eliminar cuenta"".
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/visi%C3%B3n-de-conjunto-de-weni-by-vtex/codigo-de-autenticacion-invalido_3.png) Después de realizar este proceso, siga las instrucciones que aparecen en su pantalla de inicio de sesión, en el campo debajo de ""**configurar verificación en dos pasos**"".
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/visi%C3%B3n-de-conjunto-de-weni-by-vtex/codigo-de-autenticacion-invalido_3.png) Después de realizar este proceso, siga las instrucciones que aparecen en su pantalla de inicio de sesión, en el campo debajo de ""**configurar verificación en dos pasos**"".
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/visi%C3%B3n-de-conjunto-de-weni-by-vtex/codigo-de-autenticacion-invalido_4.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/visi%C3%B3n-de-conjunto-de-weni-by-vtex/codigo-de-autenticacion-invalido_4.png)

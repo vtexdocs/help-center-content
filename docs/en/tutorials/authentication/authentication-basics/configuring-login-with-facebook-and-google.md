@@ -37,14 +37,14 @@ After completing the configuration on Facebook and/or Google, you must configure
 
   You will be redirected to the **Webstore** tab of the **Authentication** page, which lists the login methods available in your store.
 
-  ![List Authentication](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/authentication/authentication-basics/configuring-login-with-facebook-and-google_1.png)
+  ![List Authentication](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/authentication/authentication-basics/configuring-login-with-facebook-and-google_1.png)
 3. In the row of the desired login provider, click `Configure`.
 4. Complete the form with the `Client ID` and `Client Secret` from the [previous step](#obtaining-credentials-from-providers) and click `Save`.
 
-  ![Facebook OAuth EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/authentication/authentication-basics/configuring-login-with-facebook-and-google_2.PNG)
+  ![Facebook OAuth EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/authentication/authentication-basics/configuring-login-with-facebook-and-google_2.PNG)
 6. On the **Authentication** page, enable the provider by clicking the toggle switch.
 
-  ![List Authentication Switch On Highlight](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/authentication/authentication-basics/configuring-login-with-facebook-and-google_3.png)
+  ![List Authentication Switch On Highlight](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/authentication/authentication-basics/configuring-login-with-facebook-and-google_3.png)
 
 ## Validating the configuration
 

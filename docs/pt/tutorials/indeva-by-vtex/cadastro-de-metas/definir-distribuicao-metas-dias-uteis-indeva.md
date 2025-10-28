@@ -29,7 +29,7 @@ Existem duas opções de configuração:
 1. Selecione uma das opções: **Distribuição linear** ou **Distribuição com pesos diferentes**.  
 2. Clique em **Próximo** para continuar.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/cadastro-de-metas/definir-distribuicao-metas-dias-uteis-indeva_1.PNG)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/cadastro-de-metas/definir-distribuicao-metas-dias-uteis-indeva_1.PNG)
 
 Após a seleção, o fluxo segue por caminhos diferentes, conforme a opção escolhida.
 
@@ -59,7 +59,7 @@ Se a opção selecionada for **Distribuição com pesos diferentes**, o sistema 
 - Copiar uma coluna inteira de uma planilha  
 - Copiar uma linha inteira de uma planilha  
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/cadastro-de-metas/definir-distribuicao-metas-dias-uteis-indeva_2.PNG)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/cadastro-de-metas/definir-distribuicao-metas-dias-uteis-indeva_2.PNG)
 
 > ℹ️ Após fechar o box **Preenchimento por cópia de documento externo**, ele não poderá ser reaberto. Para exibi-lo novamente, será necessário limpar os cookies do navegador.
 
@@ -70,7 +70,7 @@ Na configuração de pesos diários, o sistema calcula automaticamente a porcent
 - É possível preencher manualmente os valores.  
 - Os valores informados devem corresponder ao total cadastrado da meta.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/cadastro-de-metas/definir-distribuicao-metas-dias-uteis-indeva_3.PNG)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/cadastro-de-metas/definir-distribuicao-metas-dias-uteis-indeva_3.PNG)
 
 > ❗ Se a soma dos valores atribuídos não corresponder ao total da meta do ciclo, o cadastro não poderá ser concluído.
 
@@ -81,7 +81,7 @@ Na configuração de pesos por período, o sistema calcula automaticamente os pe
 - Se o ciclo for dividido em dois períodos, será necessário atribuir dois pesos.  
 - A soma dos pesos deve ser igual ao valor total cadastrado da meta.  
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/cadastro-de-metas/definir-distribuicao-metas-dias-uteis-indeva_4.PNG)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/cadastro-de-metas/definir-distribuicao-metas-dias-uteis-indeva_4.PNG)
 
 Assim como na configuração de pesos diários, é possível preencher os valores manualmente.
 

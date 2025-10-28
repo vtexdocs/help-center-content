@@ -20,18 +20,18 @@ You can add media to your message on our platform. Whether images, audio, or vid
 ### Using a URL
   1. Within your project, click on the **Flows Module** ;
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/flows/adding-media-to-the-message_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/flows/adding-media-to-the-message_1.png)
 
   2. Choose an existing flow or create a new one;
   3. Add a new action card, click on **Files** , and choose between **Image URL** , **Audio URL** , **Video URL** , **PDF Document URL** , or insert the chosen media URL.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/flows/adding-media-to-the-message_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/flows/adding-media-to-the-message_2.png)
 
 ### Using a file from your computer
 
 Add a new action card, click on **Files** , choose the **Upload File** option, and select the file directly from your computer.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/flows/adding-media-to-the-message_3.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/flows/adding-media-to-the-message_3.png)
 
 ### Limitations
 

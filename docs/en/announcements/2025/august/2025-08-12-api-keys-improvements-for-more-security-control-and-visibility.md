@@ -17,7 +17,7 @@ announcementSynopsisEN: "We've updated the API keys experience with export optio
 
 To optimize access credential management and increase security, we've enhanced the **API keys** experience. These updates are now available to all accounts.
 
-![generated-keys-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2025/august/2025-08-12-api-keys-improvements-for-more-security-control-and-visibility_1.png)
+![generated-keys-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2025/august/2025-08-12-api-keys-improvements-for-more-security-control-and-visibility_1.png)
 
 ## What has changed?
 
@@ -29,7 +29,7 @@ Now, instead of viewing the new token directly when generating and renewing it, 
 
 The single-access link can be copied for later access or shared with the person who needs to use it. The link can only be accessed once, as it expires when clicked. If there are no interactions within 24 hours, the link also expires.
 
-![one-time-link-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2025/august/2025-08-12-api-keys-improvements-for-more-security-control-and-visibility_2.png)
+![one-time-link-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2025/august/2025-08-12-api-keys-improvements-for-more-security-control-and-visibility_2.png)
 
 > ⚠️ The official URL for accessing the token always follows the format `share.vtex.com/credentials/{token}`. The `{token}` is a random identifier generated when the key is created or renewed. Check the link format before accessing it to avoid phishing attempts or malicious pages.
 
@@ -48,7 +48,7 @@ The single-access link can be copied for later access or shared with the person 
 <table style="border-collapse:collapse;border:none;margin:auto;">
   <tr>
     <td style="border:none;padding:0;text-align:center;">
-      <img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2025/august/2025-08-12-api-keys-improvements-for-more-security-control-and-visibility_3.png" alt="renew-recommended-en" style="display:block;max-width:100%;height:auto;margin:auto;">
+      <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2025/august/2025-08-12-api-keys-improvements-for-more-security-control-and-visibility_3.png" alt="renew-recommended-en" style="display:block;max-width:100%;height:auto;margin:auto;">
     </td>
   </tr>
   <tr>
@@ -63,7 +63,7 @@ The single-access link can be copied for later access or shared with the person 
 <table style="border-collapse:collapse;border:none;margin:auto;">
   <tr>
     <td style="border:none;padding:0;text-align:center;">
-      <img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2025/august/2025-08-12-api-keys-improvements-for-more-security-control-and-visibility_4.png" alt="renew-highly-recommended-en" style="display:block;max-width:100%;height:auto;margin:auto;">
+      <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2025/august/2025-08-12-api-keys-improvements-for-more-security-control-and-visibility_4.png" alt="renew-highly-recommended-en" style="display:block;max-width:100%;height:auto;margin:auto;">
     </td>
   </tr>
   <tr>
@@ -78,7 +78,7 @@ The single-access link can be copied for later access or shared with the person 
 <table style="border-collapse:collapse;border:none;margin:auto;">
   <tr>
     <td style="border:none;padding:0;text-align:center;">
-      <img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2025/august/2025-08-12-api-keys-improvements-for-more-security-control-and-visibility_5.png" alt="pending-deletion-alert-en" style="display:block;max-width:100%;height:auto;margin:auto;">
+      <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2025/august/2025-08-12-api-keys-improvements-for-more-security-control-and-visibility_5.png" alt="pending-deletion-alert-en" style="display:block;max-width:100%;height:auto;margin:auto;">
     </td>
   </tr>
   <tr>
@@ -93,7 +93,7 @@ The single-access link can be copied for later access or shared with the person 
 <table style="border-collapse:collapse;border:none;margin:auto;">
   <tr>
     <td style="border:none;padding:0;text-align:center;">
-      <img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2025/august/2025-08-12-api-keys-improvements-for-more-security-control-and-visibility_6.png" alt="delete-pending-en" style="display:block;max-width:100%;height:auto;margin:auto;">
+      <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2025/august/2025-08-12-api-keys-improvements-for-more-security-control-and-visibility_6.png" alt="delete-pending-en" style="display:block;max-width:100%;height:auto;margin:auto;">
     </td>
   </tr>
   <tr>

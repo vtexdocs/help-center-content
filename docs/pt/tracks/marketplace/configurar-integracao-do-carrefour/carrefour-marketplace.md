@@ -17,6 +17,6 @@ order: 1
 
 O [Carrefour](https://www.carrefour.com.br/) é uma das principais empresas do ramo varejista físico e online do país, operando no Brasil há mais de 40 anos e uma das suas linhas de negócio é o [Carrefour Marketplace](https://www.carrefour.com.br/marketplace), onde sellers se beneficiam da visibilidade nacional e credibilidade da marca para vender seus produtos para mais de 6 milhões de clientes cadastrados na sua plataforma.
 
-![carrefourmkt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/marketplace/configurar-integracao-do-carrefour/carrefour-marketplace_1.jpg)
+![carrefourmkt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/marketplace/configurar-integracao-do-carrefour/carrefour-marketplace_1.jpg)
 
 A configuração com o Carrefour tem como objetivo enviar o catálogo de produtos da sua loja VTEX para esse marketplace, permitindo que você anuncie seus produtos e expanda seus canais de venda.

@@ -23,7 +23,7 @@ Aprimoramos a configuração de audiência de campanha para permitir que você s
 
 No Admin VTEX, em **Produtos > Promoções e Taxas > Audiências de campanhas > Nova audiência de campanha**, nas configurações referentes ao **Público-alvo**, acrescentamos a opção “e”, onde antes havia apenas a opção “ou”.  Isso significa que agora você pode aplicar uma lógica de adição de critérios (“e”), além da lógica de alternativa (“ou”) que já existia antes. Veja a imagem a seguir:
 
-![publico-alvo-e-ou-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2022/julho/2022-07-22-promocoes-de-campanha-nova-opcao-ao-configurar-publico-alvo_1.gif)
+![publico-alvo-e-ou-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2022/julho/2022-07-22-promocoes-de-campanha-nova-opcao-ao-configurar-publico-alvo_1.gif)
 
 Com a nova opção, é possível criar promoções de campanha a partir da combinação de critérios de forma mais flexível.
 

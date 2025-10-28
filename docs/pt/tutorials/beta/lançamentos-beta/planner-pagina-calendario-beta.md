@@ -35,7 +35,7 @@ O **Calendário** apresenta somente [lançamentos agendados](/pt/tutorial/planne
 
 A imagem a seguir apresenta a visualização por mês e identifica o que você pode realizar pela interface:
 
-![releases-calendar-monthly-view-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/lan%C3%A7amentos-beta/planner-pagina-calendario-beta_1.png)
+![releases-calendar-monthly-view-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/lan%C3%A7amentos-beta/planner-pagina-calendario-beta_1.png)
 
 Nesta tela, é possível:
 
@@ -53,7 +53,7 @@ Nesta tela, é possível:
 
 A imagem a seguir apresenta a visualização por semana e identifica o que você pode realizar na interface:
 
-![releases-calendar-weekly-view-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/lan%C3%A7amentos-beta/planner-pagina-calendario-beta_2.png)
+![releases-calendar-weekly-view-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/lan%C3%A7amentos-beta/planner-pagina-calendario-beta_2.png)
 
 Nesta tela, é possível:
 
@@ -71,7 +71,7 @@ Nesta tela, é possível:
 
 A imagem a seguir apresenta a visualização por dia e identifica o que você pode realizar na interface:
 
-![daily view v2 pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/lan%C3%A7amentos-beta/planner-pagina-calendario-beta_3.png)
+![daily view v2 pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/lan%C3%A7amentos-beta/planner-pagina-calendario-beta_3.png)
 
 Além de visualizar informações sobre o lançamento, nesta tela, é possível:
 

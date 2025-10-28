@@ -23,11 +23,11 @@ A continuación, aprenderá cómo administrar su cuenta en Weni.
 #### Editar perfil
 Para acceder a la página de Perfil, vaya a la página de inicio y haga clic en el ícono en la parte superior derecha de la pantalla.
 
-![Página de perfil](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/visi%C3%B3n-de-conjunto-de-weni-by-vtex/perfil_1.png)
+![Página de perfil](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/visi%C3%B3n-de-conjunto-de-weni-by-vtex/perfil_1.png)
 
 Haciendo clic en el ícono a la derecha, seleccione Cuenta. En esta sección, puede editar su **nombre, apellido** y el contacto de su cuenta, además de **cambiar la contraseña** si es necesario. Ingrese las modificaciones y haga clic en **guardar cambios** para que la información se actualice.
 
-![Edición de perfil](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/visi%C3%B3n-de-conjunto-de-weni-by-vtex/perfil_2.png)
+![Edición de perfil](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/visi%C3%B3n-de-conjunto-de-weni-by-vtex/perfil_2.png)
 
 > Nota: Complete los campos para guardar los datos que se actualizarán. La imagen demostrativa no contiene el contacto completo para cumplir con la Ley General de Protección de Datos.
 
@@ -38,17 +38,17 @@ Para cambiar la contraseña de su cuenta en Weni, siga los siguientes pasos:
 2. Haga clic en Nueva contraseña
 3. Ingrese su nueva contraseña y luego confírmela.
 
-![Cambio de contraseña 1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/visi%C3%B3n-de-conjunto-de-weni-by-vtex/perfil_3.png)
+![Cambio de contraseña 1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/visi%C3%B3n-de-conjunto-de-weni-by-vtex/perfil_3.png)
 
-![Cambio de contraseña 2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/visi%C3%B3n-de-conjunto-de-weni-by-vtex/perfil_4.png)
+![Cambio de contraseña 2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/visi%C3%B3n-de-conjunto-de-weni-by-vtex/perfil_4.png)
 
 #### Restablecer Contraseña
 ¡También puede restablecer su contraseña!
 
 Vaya a la página de inicio -> Iniciar sesión -> Olvidé mi contraseña e ingrese su correo electrónico.
 
-![Olvidé mi contraseña 1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/visi%C3%B3n-de-conjunto-de-weni-by-vtex/perfil_5.png)
+![Olvidé mi contraseña 1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/visi%C3%B3n-de-conjunto-de-weni-by-vtex/perfil_5.png)
 
-![Olvidé mi contraseña 2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/visi%C3%B3n-de-conjunto-de-weni-by-vtex/perfil_6.png)
+![Olvidé mi contraseña 2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/visi%C3%B3n-de-conjunto-de-weni-by-vtex/perfil_6.png)
 
 Un correo electrónico será enviado y podrás cambiar tu contraseña.

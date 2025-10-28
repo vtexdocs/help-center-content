@@ -23,7 +23,7 @@ No entanto, se estiver amarelo, há um erro.
 Veja abaixo o passo a passo para corrigi-lo:
 
 1. Clique no website desejado.
-2. Selecione o Binding (linha selecionada na imagem abaixo), e clique em __Update__.![Binding 1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/marketing-and-merchandising/website-com-erro-como-ajustar_1.png)
+2. Selecione o Binding (linha selecionada na imagem abaixo), e clique em __Update__.![Binding 1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/marketing-and-merchandising/website-com-erro-como-ajustar_1.png)
 3. Na tela que aparecerá em seguida, o campo __Store name from License Manager__ estará em branco. Clique na seta que aparece nesse campo e selecione o nome da sua loja.
-4. Clique em **Save Binding**.![Binding 2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/marketing-and-merchandising/website-com-erro-como-ajustar_2.png)
+4. Clique em **Save Binding**.![Binding 2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/marketing-and-merchandising/website-com-erro-como-ajustar_2.png)
 5. Clique em **Websites** novamente para atualizar a página. Pronto! O globo estará azul, o que indica que agora está tudo certo com a associação ao Binding.

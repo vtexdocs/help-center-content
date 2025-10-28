@@ -21,7 +21,7 @@ As configurações básicas para a exibição do **Avise-me** quando o produto e
 
 Porém, existe um caso em que, mesmo com os itens acima configurados, o Avise-me não aparece, que é **quando o tipo de exibição da Categoria está selecionado como Lista de SKUs**.
 
-![categoria-lista-de-skus PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/marketing-and-merchandising/por-que-nao-aparece-o-avise-me_1.png)
+![categoria-lista-de-skus PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/marketing-and-merchandising/por-que-nao-aparece-o-avise-me_1.png)
 
 Neste caso, além das configurações padrão, é necessário o uso do controle `vtex.cmc:SkuSelection`, mesmo que não exista mais de um SKU por página.
 Logo, quando a Categoria do produto desejado estiver setada para Lista de SKUs, como na imagem acima, é necessário que seja inserido o controle `vtex.cmc:SkuSelection` no template de página para que o avise-me seja exibido.

@@ -19,7 +19,7 @@ Internal API keys are credentials generated in and managed by your VTEX account.
 
 The **Generated** tab lists the API keys created by your account. You can use the search bar to find keys by name or by the **Key identifier** used when it was generated.
 
-![generated-keys-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/account-management/api-keys/generated-keys_1.png)
+![generated-keys-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/account-management/api-keys/generated-keys_1.png)
 
 The page displays the following information in a table:  
 
@@ -59,7 +59,7 @@ Follow the instructions below to create a new API key:
 9. Access the copied link or share it with the person that will use the new token. The link can only be accessed once and is valid for 24 hours if not accessed.  
 10. Click `Copy` to copy the API token to the clipboard. This secret will only be displayed once. Save it in a safe place.
 
-![one-time-link-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/account-management/api-keys/generated-keys_2.png)
+![one-time-link-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/account-management/api-keys/generated-keys_2.png)
 
 > ⚠️ The official URL for accessing the token always follows the format `share.vtex.com/credentials/{token}`. The `{token}` is a random identifier generated when the key is created or renewed. Check the link format before accessing it to avoid phishing attempts or malicious pages.
 

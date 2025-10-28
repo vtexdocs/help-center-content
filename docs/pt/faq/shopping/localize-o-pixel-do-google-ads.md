@@ -16,23 +16,23 @@ legacySlug: localize-o-pixel-do-google-ads
 
 Para localizar o ID do pixel de remarketing é necessário realizar o login dentro do Google ads.
 
-![Google_Ads](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/shopping/localize-o-pixel-do-google-ads_1.png)
+![Google_Ads](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/shopping/localize-o-pixel-do-google-ads_1.png)
 
 O próximo passo, é acessar o menu **Ferramentas e Definições** e em **Biblioteca Partilhada**, acesse **Gestor de públicos-alvo**, conforme a imagem abaixo:
 
-![Google_Ads_Menu](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/shopping/localize-o-pixel-do-google-ads_2.png)
+![Google_Ads_Menu](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/shopping/localize-o-pixel-do-google-ads_2.png)
 
 Agora, em gestor de público alvo, selecione a opção **Origens de públicos-alvo**.
 
-![Google_Ads_Menu_2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/shopping/localize-o-pixel-do-google-ads_3.png)
+![Google_Ads_Menu_2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/shopping/localize-o-pixel-do-google-ads_3.png)
 
 Dentro do menu Origens de públicos-alvo, algumas opções estarão disponíveis (Analytics, Youtube, etc), selecione a tag do Google ADS. Acesse **Detalhes** ou em **Editar origem**. Agora, o próximo passo é selecionar o tipo de dados recolhidos por esta origem:
 
-![Google_Ads_Menu_3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/shopping/localize-o-pixel-do-google-ads_4.png)
+![Google_Ads_Menu_3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/shopping/localize-o-pixel-do-google-ads_4.png)
 
 A seguir, selecione o tipo de tag:
 
-![Google_Ads_Menu_4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/shopping/localize-o-pixel-do-google-ads_5.png)
+![Google_Ads_Menu_4](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/shopping/localize-o-pixel-do-google-ads_5.png)
 
 Uma vez que o tipo de tag seja selecionada, aparecerão as instruções, bem como o código da tag que você deverá copiar.
 

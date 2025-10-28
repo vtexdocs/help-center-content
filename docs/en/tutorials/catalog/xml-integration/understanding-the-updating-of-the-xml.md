@@ -21,6 +21,6 @@ This query means that the XML was called in less than 48 hours. Those XMLs not c
 
 You can view the date of the latest XML update. This information is shown in UTC time at the foot of the document, as illustrated below.
 
-![xml](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/xml-integration/understanding-the-updating-of-the-xml_1.png)
+![xml](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/xml-integration/understanding-the-updating-of-the-xml_1.png)
 
 > ℹ️ If the option “Display SKUs without available stock (out of stock) in Inventory among the results” is not checked, out-of-stock products/SKUs will NOT be shown in the XML. Inactive products also do **not** appear in the XML.

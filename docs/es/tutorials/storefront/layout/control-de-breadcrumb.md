@@ -19,7 +19,7 @@ Breadbrumbs mejoran la experiencia de navegación en la tienda por llevar a los 
 
 En VTEX, el control `<vtex.cmc:breadCrumb/>` es responsable de renderizar breadcrumbs como el del ejemplo abajo.
 
-![breadcrumb1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/control-de-breadcrumb_1.png)
+![breadcrumb1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/control-de-breadcrumb_1.png)
 
 Si, como en este ejemplo, el usuario accede directamente a la página de un producto de la categoría *Camisetas*, el breadcrumb exhibido en la página del producto le dará la información de que el usuario se encuentra en esa categoría (*Camisetas*), que a su vez está por debajo del departamento *Moda masculina*.
 
@@ -42,4 +42,4 @@ A continuación se muestra un ejemplo del código HTML renderizado por el contro
 
 El código anterior renderiza el siguiente breadcrumb en el sitio:
 
-![breadcrumb2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/control-de-breadcrumb_2.png)
+![breadcrumb2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/control-de-breadcrumb_2.png)

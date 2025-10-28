@@ -16,7 +16,7 @@ subcategoryId: 6jaCCq5pVL7VxL0WNWV0cF
 order: 1
 ---
 
-![Overview do catálogo (capa)](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/cat%C3%A1logo/cat%C3%A1logo-vis%C3%A3o-geral/catalogo-visao-geral_1.jpg)
+![Overview do catálogo (capa)](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/cat%C3%A1logo/cat%C3%A1logo-vis%C3%A3o-geral/catalogo-visao-geral_1.jpg)
 
 **Catálogo** é o módulo do Admin VTEX que possibilita configurar as funcionalidades referentes aos produtos do seu ecommerce. Para que o seu cliente veja os produtos no site, você precisa cadastrá-los neste módulo. 
 
@@ -28,7 +28,7 @@ A **Categoria** é o segundo nível de categorização da sua loja, logo abaixo 
 
 O módulo **Categorias** permite visualizar e gerenciar a árvore de categorias cadastradas na sua loja, como mostrado no exemplo abaixo:
 
-![Estrutura do catálogo](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/cat%C3%A1logo/cat%C3%A1logo-vis%C3%A3o-geral/catalogo-visao-geral_2.png)
+![Estrutura do catálogo](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/cat%C3%A1logo/cat%C3%A1logo-vis%C3%A3o-geral/catalogo-visao-geral_2.png)
 
 Você pode cadastrar uma categoria seguindo o tutorial [Cadastrar uma Categoria](/pt/tutorial/cadastrando-categoria--tutorials_206). Se deseja gerenciar ou inativar uma categoria, siga os passos do tutorial [Inativar e reorganizar categorias](/pt/tutorial/inativando-e-reorganizando-categorias--tutorials_264).
 

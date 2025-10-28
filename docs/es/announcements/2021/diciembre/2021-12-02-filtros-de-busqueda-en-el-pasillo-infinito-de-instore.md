@@ -25,7 +25,7 @@ Anteriormente, los filtros de búsqueda de VTEX Intelligent Search no estaban di
 
 Con la nueva funcionalidad, al buscar un término, los vendedores pueden filtrar los resultados por rango de precios, departamento y marca, por ejemplo, entre otros filtros configurables en VTEX Intelligent Search. Esto permite encontrar rápidamente el producto deseado.
 
-![instore-filtros-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2021/diciembre/2021-12-02-filtros-de-busqueda-en-el-pasillo-infinito-de-instore_1.png)
+![instore-filtros-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2021/diciembre/2021-12-02-filtros-de-busqueda-en-el-pasillo-infinito-de-instore_1.png)
 
 ## ¿Por qué realizamos este cambio?
 

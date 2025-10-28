@@ -37,7 +37,7 @@ En la sección **Tipo de layout**, puedes elegir el formato de layout deseado pa
 * **Horizontal (16:9):** proporciona una vista horizontal de la transmisión, optimizada para pantallas de escritorio.
 * **Vertical (9:16):** proporciona una vista vertical de la transmisión, optimizada para pantallas móviles.
 
-![article_7_screen_format_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/omnichannel/vtex-live-shopping-primeros-pasos/configurar-evento_1.png)
+![article_7_screen_format_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/omnichannel/vtex-live-shopping-primeros-pasos/configurar-evento_1.png)
 
 El formato predeterminado de la pantalla es **Horizontal (16:9)**, pero puedes cambiarlo haciendo clic en la vista **Vertical (9:16)**. La marca azul indica la opción seleccionada.
 
@@ -88,7 +88,7 @@ En la sección **Configuración CMS** puedes configurar la presentación del con
 * **Chat:** permite que tu audiencia interactúe en el chat durante el evento en vivo. Ten en cuenta que si el chat está oculto, la opción de preguntas también estará oculta, ya que esa funcionalidad se muestra encima del chat.
 * **Me gusta:** permite a los usuarios reaccionar durante el evento en vivo utilizando el botón de me gusta en forma de corazón.
 
-![article_7_cms_configuration_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/omnichannel/vtex-live-shopping-primeros-pasos/configurar-evento_2.png)
+![article_7_cms_configuration_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/omnichannel/vtex-live-shopping-primeros-pasos/configurar-evento_2.png)
 
 * **Carrito de checkout:** proporciona un botón `Agregar al carrito` que cuando utilizado por la audiencia, abre el checkout con el producto agregado al carrito en una nueva pestaña. El modo pantalla en pantalla (PiP) también se activará para permitir que el cliente continúe viendo la transmisión en vivo mientras finaliza la compra.
 * **Vista rápida:** permite que el público vea el evento en vivo mientras consulta las variaciones del producto. Cuando el cliente hace clic en el botón `Agregar al carrito`, se abre una vista rápida del producto sin ocultar la transmisión del evento permitiéndole elegir la talla y el color del producto, por ejemplo, sin dejar de ver el evento. 

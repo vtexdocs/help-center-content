@@ -23,7 +23,7 @@ To disable the CloudFlare proxy (and therefore disable CloudFlare's CDN and WAF 
 
 If the proxy is enabled, the icon will be orange with the text **Proxied**. If it is disabled, the icon will be gray with the text **DNS Only**.
 
-![Cloudflare proxy configuration](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/infrastructure/cdn-service/disable-cloudflare-proxy_1.png)
+![Cloudflare proxy configuration](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/infrastructure/cdn-service/disable-cloudflare-proxy_1.png)
 
 Please note that it may take a while to see the result of disabling the CloudFlare proxy, as it requires the cache to be refreshed.
 

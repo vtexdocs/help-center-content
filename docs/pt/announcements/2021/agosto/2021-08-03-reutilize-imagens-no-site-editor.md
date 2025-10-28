@@ -17,7 +17,7 @@ announcementSynopsisPT: 'Aprimoramos blocos com a opção nativa de envio de ima
 
 Aprimoramos a maneira como você gerencia suas imagens no [Site Editor](/pt/subcategory/site-editor--9Arh3cJIOYlfSD1MUC2h3) por meio do Image Widget, um repositório de imagens centralizado para que você possa enviar e reutilizar imagens da loja. 
 
-![gif-image-widget-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2021/agosto/2021-08-03-reutilize-imagens-no-site-editor_1.gif)
+![gif-image-widget-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2021/agosto/2021-08-03-reutilize-imagens-no-site-editor_1.gif)
 
 <div style="background-color:#cfe2ff; border-left: 2px solid #084298; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 16px">
   Image Widget está disponível em Open Beta para usuários VTEX IO.

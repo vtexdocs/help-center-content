@@ -17,7 +17,7 @@ order: 9
 
 When clicking on the details of a product that appears in the VTEX Sales App search results, or when beeping a product, the sales associate is directed to the product details page.
 
-![instore-pdp-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/instore-using-the-app/product-details_1.png)
+![instore-pdp-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/instore-using-the-app/product-details_1.png)
 
 This page shows the name of the product, its photo gallery, variations, description and availability. On this screen, the sales associate can add the product to the cart.
 

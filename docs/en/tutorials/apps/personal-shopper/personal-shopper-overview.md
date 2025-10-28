@@ -22,7 +22,7 @@ order: 1
 
 The Personal Shopper app is compatible with desktop and mobile devices.
 
-| ![mobile-personalshopper](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/apps/personal-shopper/personal-shopper-overview_1.gif)     | ![desktop-personalshopper](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/apps/personal-shopper/personal-shopper-overview_2.gif)     |
+| ![mobile-personalshopper](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/apps/personal-shopper/personal-shopper-overview_1.gif)     | ![desktop-personalshopper](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/apps/personal-shopper/personal-shopper-overview_2.gif)     |
 | ---------- | ---------- |
 | Personal Shopper on mobile       | Personal Shopper on desktop       |
 
@@ -198,7 +198,7 @@ As a registered Personal Shopper consultant, you have the ability to create call
 5. Click `Create call`.
 6. Choose `Start an instant call` to begin the call with the customer or `Create a call for later` to schedule a call.
 
-![calls-personalshopper](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/apps/personal-shopper/personal-shopper-overview_3.png)
+![calls-personalshopper](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/apps/personal-shopper/personal-shopper-overview_3.png)
 
 If you choose to start an instant call, click `Start call` to begin the call with the customer. This allows you to engage in real-time interaction and provide personalized assistance. For more information on conducting a call, see the [Conducting a call](/en/tutorial/visao-geral-do-personal-shopper--12dC0UMD0C6x6kw43LF8MH#conducting-a-call) section. In this case, please ensure that you grant your browser the necessary permissions for microphone and camera access to avoid any issues during the call.
 
@@ -232,7 +232,7 @@ Please ensure that you grant your browser the necessary permissions for micropho
 
 When participating in a call as a personal shopper, you will have access to various video conference tools, as presented in the following:
 
-![call-personalshopper](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/apps/personal-shopper/personal-shopper-overview_4.png)
+![call-personalshopper](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/apps/personal-shopper/personal-shopper-overview_4.png)
 
 * **I - Microphone:** Allows participants to control their audio by muting or unmuting themselves.
 * **II - Camera:** Allows participants to turn their video camera on or off during the video conference.

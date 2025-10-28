@@ -19,7 +19,7 @@ Ao concluir um pedido pelo VTEX Sales App, é possível imprimir um resumo do pe
 
 Para isso, o vendedor pode clicar no botão `Imprimir Pedido`, na tela de pedido finalizado, conforme ilustrado abaixo. Outra opção é configurar o VTEX Sales App para imprimir o resumo do pedido automaticamente, assim que o pedido for finalizado.
 
-![15. Configurar impressão de resumo do pedido - 1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/instore-usando-o-app/impressao-de-resumo-do-pedido_1.png)
+![15. Configurar impressão de resumo do pedido - 1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/instore-usando-o-app/impressao-de-resumo-do-pedido_1.png)
 
 Para habilitar a impressão do resumo do pedido, é necessário seguir as etapas descritas abaixo.
 
@@ -49,13 +49,13 @@ Com o AppKey e o AppToken em mãos, siga os passos abaixo.
 2. Abra o aplicativo do VTEX Sales App e informe o nome da loja onde você deseja configurar a impressora.
 3. No menu principal do VTEX Sales App, na seção **Configurações**, clique na opção <i class="fas fa-cog"></i> **Configurar o dispositivo**, ilustrada abaixo.
 
-![15. Configurar impressão de resumo do pedido - 2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/instore-usando-o-app/impressao-de-resumo-do-pedido_2.png)
+![15. Configurar impressão de resumo do pedido - 2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/instore-usando-o-app/impressao-de-resumo-do-pedido_2.png)
 
 <ol start="4">
   <li>Em seguida, você verá o resumo do dispositivo configurado. Se essa for a primeira vez em que essa configuração é realizada, os campos da tela estarão vazios, conforme a imagem abaixo. Se um dispositivo já tiver sido configurado anteriormente, você verá o **Nome do dispositivo** e **Impressora padrão**. Clique no botão <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">Editar</span>.</li>
 </ol>
 
-![15. Configurar impressão de resumo do pedido - 4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/instore-usando-o-app/impressao-de-resumo-do-pedido_3.png)
+![15. Configurar impressão de resumo do pedido - 4](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/instore-usando-o-app/impressao-de-resumo-do-pedido_3.png)
 
 <ol start="5">
   <li>Preencha o formulário contendo os campos descritos abaixo.

@@ -27,7 +27,7 @@ When clicking on the name of a specific account, the __Account Details__ screen 
 - [Account closure](#account-closure)
 <br>
 <br>
-![Account_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/payment-solutions/customer-credit-getting-started/managing-accounts_1.png)
+![Account_EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/payment-solutions/customer-credit-getting-started/managing-accounts_1.png)
 
 ## Holder
 

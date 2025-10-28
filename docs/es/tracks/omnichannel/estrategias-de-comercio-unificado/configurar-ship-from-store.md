@@ -17,7 +17,7 @@ order: 4
 
 La estrategia de **Ship From Store** se produce cuando el cliente desea recibir los productos en su casa y estos productos provienen del almacén de una tienda física. En otras palabras, en este escenario, la tienda funciona como un mini centro de distribución.
 
-![35. Setting up Shipping From Store - 1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/omnichannel/estrategias-de-comercio-unificado/configurar-ship-from-store_1.png)
+![35. Setting up Shipping From Store - 1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/omnichannel/estrategias-de-comercio-unificado/configurar-ship-from-store_1.png)
 
 Este tipo de logística ayuda a su operación a reducir costos y tiempo de envío. Esto se debe a que, en lugar de tener solo los almacenes principales, generalmente lejos de las áreas centrales de las ciudades, ahora usted tiene una red de entrega más capilar.
 

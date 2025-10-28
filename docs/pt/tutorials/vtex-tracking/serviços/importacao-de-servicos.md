@@ -77,5 +77,5 @@ Depois de baixar o modelo é preciso preencher os campos com as informações do
 
 > ❗ Cuidados com o preenchimento da planilha: <body> <ul> <li>Se algum campo não for utilizado deixe-o em branco.</li> <li>Não altere os rótulos das colunas da planilha modelo.</li> <li>Caso os campos estejam preenchidos de forma errada o serviço não será criado.</li> </ul> </body>
 
-![menu importação de serviços](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-tracking/servi%C3%A7os/importacao-de-servicos_1.png)
+![menu importação de serviços](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-tracking/servi%C3%A7os/importacao-de-servicos_1.png)
 

@@ -19,7 +19,7 @@ A página Performance de Vendas é um dashboard que permite que operadores de lo
 
 Atualizamos a sua experiência na página a partir das sugestões dadas por vocês, adicionando novas possibilidades para aplicação de filtros, visualizações e exploração de dados. 
 
-![Sales perf update PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2022/mar%C3%A7o/2022-03-08-novidades-no-dashboard-performance-de-vendas_1.gif)
+![Sales perf update PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2022/mar%C3%A7o/2022-03-08-novidades-no-dashboard-performance-de-vendas_1.gif)
 
 ## O que mudou?
 Aprimoramos algumas funcionalidades existentes, como Filtros e Dados, e acrescentamos o menu Visualização. A nova experiência de filtros da página possibilita mais combinações de filtros, com menos cliques. Já a nova funcionalidade de menu Visualização foi feita para gravar os filtros e métricas aplicados na página, permitindo voltar rapidamente para o mesmo contexto. 

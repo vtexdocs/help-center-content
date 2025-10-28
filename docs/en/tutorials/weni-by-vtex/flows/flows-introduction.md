@@ -19,7 +19,7 @@ A flow is a set of steps organized in a flowchart format. These steps are applie
 
 In flows, these steps can be actions or decisions, which allow for the creation and development of conversations from there. In this article, we will discuss a bit more about the anatomy and structure of these flows.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/flows/flows-introduction_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/flows/flows-introduction_1.png)
 
 #### Anatomy of a flow
 In the image above, we have an example of a flow for a simple survey. In it, we can see decision cards, action cards, and note cards that together form the structure for the following conversation: send a question that needs to be answered with yes or no, and from that, we have a response for each option.
@@ -34,7 +34,7 @@ Action cards represent certain operations/actions that we can perform in a conve
 In other words, action cards trigger commands that are executed immediately, following a stack order.*
 *_The first in the order of cards will always be executed first._
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/flows/flows-introduction_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/flows/flows-introduction_2.png)
 
 #### Decision cards
 Decision cards are responsible for various connections throughout the flow. They are in charge of creating decision conditions that allow our conversations to take different paths, depending on the information provided by the contact.
@@ -50,14 +50,14 @@ These decisions are based on existing decision rules in the card, which can be:
   * Check for the existence of specific numbers or numerical rules in a response/value;
   * Check for the existence of a specific format (such as dates, emails, phone numbers) in a response/value;
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/flows/flows-introduction_3.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/flows/flows-introduction_3.png)
 
 #### Note cards (comments)
 Note cards allow the creation of notes, similar to post-its, in our flows. They can be used as a form of communication between you and a colleague who is also working on the same project, whether to explain how a part of the flow works or to alert them that it might be better not to change that step.
 
 To create a note card, simply double-click on an empty space in the flow. After that, you can freely move your notes, change the background colors, and position them as you see fit.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/flows/flows-introduction_4.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/flows/flows-introduction_4.png)
 
 #### What's next?
 Now that we have a better understanding of the concept of a flow and how it is formed, we can delve deeper into each of the existing cards, as well as some other settings within our editor.

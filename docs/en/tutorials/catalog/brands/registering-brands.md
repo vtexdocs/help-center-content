@@ -23,4 +23,4 @@ To register a brand, follow these steps:
 4. Fill in the [Brand registration fields](/en/tutorial/brand-registration-fields--37Ky7lTbEkiWIAYA80EMyI).
 5. Click on `Save`.
 
-![ENcadastrarmarcas3.PNG?h=250](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/brands/registering-brands_1.png)
+![ENcadastrarmarcas3.PNG?h=250](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/brands/registering-brands_1.png)

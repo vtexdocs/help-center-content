@@ -26,13 +26,13 @@ To make the change, follow the steps below:
 3. Click the order to access the **Order details page**.        
 4. Go to the **Total cost of the order** section on the right side of the Order Details page.    
 5. Click `Change final cost`.    
-![valorfinalEN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/orders/orders-overview/changing-the-total-cost-of-the-order_1.png)  
+![valorfinalEN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/orders/orders-overview/changing-the-total-cost-of-the-order_1.png)  
 6. On the **Change value** page, fill in the required fields.  
 7. Fill in the required fields:  
     * **Value:** Select Discount or Increase and enter the amount corresponding to what you want to change.    
     * **Reason:** indicate why you are making this change.  
 8. On the right side of the page click `Submit`.  
-![Alterar valorEN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/orders/orders-overview/changing-the-total-cost-of-the-order_2.png)
+![Alterar valorEN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/orders/orders-overview/changing-the-total-cost-of-the-order_2.png)
 
 Changes to the order cost will be updated in the "Items to invoice" and "Order History" sections. Note that the order total will also change.
 

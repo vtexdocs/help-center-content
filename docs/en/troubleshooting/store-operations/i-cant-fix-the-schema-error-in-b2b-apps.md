@@ -44,4 +44,4 @@ To fix the Schema is invalid alert, follow the steps below to ensure the correct
 
 The image below shows the necessary steps to fix the configuration of the required fields in Master Data, solving the `Schema is invalid` alert.
 
-![B2B Suite - troubleshootingv2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/troubleshooting/store-operations/i-cant-fix-the-schema-error-in-b2b-apps_1.gif)
+![B2B Suite - troubleshootingv2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/troubleshooting/store-operations/i-cant-fix-the-schema-error-in-b2b-apps_1.gif)

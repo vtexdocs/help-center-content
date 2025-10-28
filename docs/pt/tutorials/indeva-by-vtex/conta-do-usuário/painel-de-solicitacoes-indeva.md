@@ -19,11 +19,11 @@ Sempre que um chamado é registrado com os times de Suporte ou Financeiro, ele f
 
 Se precisar acompanhar ou revisar solicitações anteriores, acesse o [Painel de solicitações da Indeva](https://indeva.zendesk.com/hc/pt-br/requests).
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/conta-do-usu%C3%A1rio/painel-de-solicitacoes-indeva_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/conta-do-usu%C3%A1rio/painel-de-solicitacoes-indeva_1.png)
 
 > ⚠️ Para visualizar o painel de solicitações, é necessário ter um **perfil de acesso** no ambiente web da Indeva.
 
 O painel exibe apenas solicitações já registradas e permite acompanhar o status de cada uma.  
 Para abrir um novo chamado, utilize a Eva a assistente virtual da Indeva. Para mais informações acesse o artigo [Registrar chamado com o suporte por meio da assistente virtual Eva](/pt/tutorial/abrir-chamado-via-assistente-eva-indeva--7jL5JrDaKVnXcxIB9x4klr).
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/conta-do-usu%C3%A1rio/painel-de-solicitacoes-indeva_2.gif)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/conta-do-usu%C3%A1rio/painel-de-solicitacoes-indeva_2.gif)
