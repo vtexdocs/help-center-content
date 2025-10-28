@@ -7,7 +7,7 @@ const { URL } = require("url");
 const dns = require("dns").promises;
 
 const baseURL =
-  "https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/";
+  "https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/";
 
 const isValidExtension = (ext) => /^[a-zA-Z0-9]*$/.test(ext);
 
