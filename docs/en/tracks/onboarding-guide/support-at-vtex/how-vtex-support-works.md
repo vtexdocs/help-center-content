@@ -3,8 +3,8 @@ title: 'How VTEX Support works'
 id: 2Ik9CGbPeZIHHaYFsuyId3
 status: PUBLISHED
 createdAt: 2024-02-20T21:27:52.565Z
-updatedAt: 2025-06-27T15:56:47.128Z
-publishedAt: 2025-06-27T15:56:47.128Z
+updatedAt: 2025-10-27T16:29:07.526Z
+publishedAt: 2025-10-27T16:29:07.526Z
 firstPublishedAt: 2024-02-22T14:09:20.551Z
 contentType: trackArticle
 productTeam: Others
@@ -23,13 +23,8 @@ VTEX Support is provided online and allows you to open tickets with different pr
 
 > ⚠️ To get authentication authorization, the [user](/en/tutorial/managing-users--tutorials_512) must have access to the VTEX Admin and a [role ](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) associated with [License Manager resources. ](/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3).
 
-VTEX Support is divided in regions, and each region has its own service level agreement (SLA), priority, and Customer Excellence (CX) team available for that region. These are the regions where support operates:
-
-- Brazil
-- Latin America (LATAM, except Brazil)
-- Asia-Pacific (APAC)
-- United States (US)
-- Europe, the Middle East and Africa (EMEA)
+VTEX Support operates globally and follows a standardized service model with unified criteria for availability, priority, and service level (SLA), applicable to all customers served by VTEX.  
+For more information, refer to the article [VTEX Global Support Resources](/en/tutorial/vtex-global-support-resources--5maoEWCrTKFAEMXRsfcklV).
 
 The following table shows an overview of the Help Center's main articles by region:
 

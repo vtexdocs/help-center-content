@@ -3,8 +3,8 @@ title: 'Lista de Proveedores de Pago por País'
 id: 2im3BEGXxSAcRuxEaIHPvp
 status: PUBLISHED
 createdAt: 2022-02-01T18:37:56.763Z
-updatedAt: 2023-11-13T18:15:23.134Z
-publishedAt: 2023-11-13T18:15:23.134Z
+updatedAt: 2025-10-24T23:01:37.862Z
+publishedAt: 2025-10-24T23:01:37.862Z
 firstPublishedAt: 2022-02-01T18:39:26.915Z
 contentType: tutorial
 productTeam: Financial

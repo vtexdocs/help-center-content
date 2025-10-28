@@ -3,8 +3,8 @@ title: 'License Manager resources'
 id: 3q6ztrC8YynQf6rdc6euk3
 status: PUBLISHED
 createdAt: 2022-02-14T17:53:22.572Z
-updatedAt: 2025-06-23T22:14:09.213Z
-publishedAt: 2025-06-23T22:14:09.213Z
+updatedAt: 2025-10-24T22:59:13.330Z
+publishedAt: 2025-10-24T22:59:13.330Z
 firstPublishedAt: 2022-02-14T19:56:27.935Z
 contentType: tutorial
 productTeam: Identity

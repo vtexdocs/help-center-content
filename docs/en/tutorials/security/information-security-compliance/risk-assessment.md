@@ -3,8 +3,8 @@ title: 'Risk Assessment'
 id: 4K97IpqkpCpDYsZOSxtfkX
 status: PUBLISHED
 createdAt: 2022-05-26T13:08:53.479Z
-updatedAt: 2025-04-22T14:40:08.173Z
-publishedAt: 2025-04-22T14:40:08.173Z
+updatedAt: 2025-10-24T23:03:49.398Z
+publishedAt: 2025-10-24T23:03:49.398Z
 firstPublishedAt: 2022-05-26T13:17:48.374Z
 contentType: tutorial
 productTeam: Others
