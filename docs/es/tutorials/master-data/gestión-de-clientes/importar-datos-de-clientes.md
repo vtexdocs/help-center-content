@@ -3,8 +3,8 @@ title: 'Importar datos de clientes'
 id: 2zWYVOyj0sISYQmeUwCsI0
 status: PUBLISHED
 createdAt: 2017-06-22T20:55:49.745Z
-updatedAt: 2025-03-21T18:34:06.692Z
-publishedAt: 2025-03-21T18:34:06.692Z
+updatedAt: 2025-10-24T23:00:50.285Z
+publishedAt: 2025-10-24T23:00:50.285Z
 firstPublishedAt: 2017-06-27T14:40:29.106Z
 contentType: tutorial
 productTeam: Master Data

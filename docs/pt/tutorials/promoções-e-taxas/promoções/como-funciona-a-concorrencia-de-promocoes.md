@@ -3,8 +3,8 @@ title: 'Como funciona a concorrência de promoções'
 id: tutorials_2270
 status: PUBLISHED
 createdAt: 2017-04-27T21:55:27.997Z
-updatedAt: 2025-08-08T16:42:58.333Z
-publishedAt: 2025-08-08T16:42:58.333Z
+updatedAt: 2025-10-28T13:19:16.349Z
+publishedAt: 2025-10-28T13:19:16.349Z
 firstPublishedAt: 2017-04-27T23:03:50.791Z
 contentType: tutorial
 productTeam: Marketing & Merchandising

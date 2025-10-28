@@ -38936,44 +38936,14 @@
           "children": [
             {
               "name": {
-                "en": " 'Visited product' feature does not work properly",
-                "es": " La función 'Producto visitado' no funciona correctamente",
-                "pt": " O recurso 'Produto visitado' não funciona corretamente"
+                "en": "'Visited product' feature does not work properly",
+                "es": "La función 'Producto visitado' no funciona correctamente",
+                "pt": "O recurso 'Produto visitado' não funciona corretamente"
               },
               "slug": {
                 "en": "visited-product-feature-does-not-work-properly",
                 "es": "la-funcion-producto-visitado-no-funciona-correctamente",
                 "pt": "o-recurso-produto-visitado-nao-funciona-corretamente"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": " Filter by SkuName on Sales Performance is not accepting uppercase.",
-                "es": " El filtro por SkuName en Sales Performance no acepta mayúsculas.",
-                "pt": " Filtrar por SkuName no desempenho de vendas não está aceitando maiúsculas."
-              },
-              "slug": {
-                "en": "filter-by-skuname-on-sales-performance-is-not-accepting-uppercase",
-                "es": "el-filtro-por-skuname-en-sales-performance-no-acepta-mayusculas",
-                "pt": "filtrar-por-skuname-no-desempenho-de-vendas-nao-esta-aceitando-maiusculas"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": " Group by Delivery Method on Sales Performance not working as expected",
-                "es": " La agrupación por método de entrega en el rendimiento de las ventas no funciona como se esperaba",
-                "pt": " Método de entrega por grupo no desempenho de vendas não funciona como esperado"
-              },
-              "slug": {
-                "en": "group-by-delivery-method-on-sales-performance-not-working-as-expected",
-                "es": "la-agrupacion-por-metodo-de-entrega-en-el-rendimiento-de-las-ventas-no-funciona-como-se-esperaba",
-                "pt": "metodo-de-entrega-por-grupo-no-desempenho-de-vendas-nao-funciona-como-esperado"
               },
               "origin": "",
               "type": "markdown",
@@ -39004,6 +38974,36 @@
                 "en": "export-the-csv-in-the-sales-performance-module",
                 "es": "exportar-el-csv-en-el-modulo-de-rendimiento-de-ventas",
                 "pt": "exportar-o-csv-no-modulo-de-desempenho-de-vendas"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Filter by SkuName on Sales Performance is not accepting uppercase.",
+                "es": "El filtro por SkuName en Sales Performance no acepta mayúsculas.",
+                "pt": "Filtrar por SkuName no desempenho de vendas não está aceitando maiúsculas."
+              },
+              "slug": {
+                "en": "filter-by-skuname-on-sales-performance-is-not-accepting-uppercase",
+                "es": "el-filtro-por-skuname-en-sales-performance-no-acepta-mayusculas",
+                "pt": "filtrar-por-skuname-no-desempenho-de-vendas-nao-esta-aceitando-maiusculas"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Group by Delivery Method on Sales Performance not working as expected",
+                "es": "La agrupación por método de entrega en el rendimiento de las ventas no funciona como se esperaba",
+                "pt": "Método de entrega por grupo no desempenho de vendas não funciona como esperado"
+              },
+              "slug": {
+                "en": "group-by-delivery-method-on-sales-performance-not-working-as-expected",
+                "es": "la-agrupacion-por-metodo-de-entrega-en-el-rendimiento-de-las-ventas-no-funciona-como-se-esperaba",
+                "pt": "metodo-de-entrega-por-grupo-no-desempenho-de-vendas-nao-funciona-como-esperado"
               },
               "origin": "",
               "type": "markdown",
@@ -39915,36 +39915,6 @@
           "children": [
             {
               "name": {
-                "en": " 'Position' of the trade policy depends on the page it is shown on the admin interface",
-                "es": " La 'posición' de la política comercial depende de la página en la que se muestra en la interfaz de administración",
-                "pt": " A 'posição' da política comercial depende da página que é mostrada na interface administrativa"
-              },
-              "slug": {
-                "en": "position-of-the-trade-policy-depends-on-the-page-it-is-shown-on-the-admin-interface",
-                "es": "la-posicion-de-la-politica-comercial-depende-de-la-pagina-en-la-que-se-muestra-en-la-interfaz-de-administracion",
-                "pt": "a-posicao-da-politica-comercial-depende-da-pagina-que-e-mostrada-na-interface-administrativa"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
-                "en": "'An item with the same key has already been added. Key: description'",
-                "es": "'Ya se ha añadido un artículo con la misma clave. Clave: descripción'",
-                "pt": "'Um item com a mesma chave já foi adicionado. Chave: descrição'"
-              },
-              "slug": {
-                "en": "an-item-with-the-same-key-has-already-been-added-key-description",
-                "es": "ya-se-ha-anadido-un-articulo-con-la-misma-clave-clave-descripcion",
-                "pt": "um-item-com-a-mesma-chave-ja-foi-adicionado-chave-descricao"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "'Large Indexed Text' and 'Indexed Text' not being changed by Specification Import",
                 "es": "'Texto grande indexado' y 'Texto indexado' no se modifican con la importación de la especificación",
                 "pt": "'Texto Grande Indexado' e 'Texto Indexado' não sendo alterados pela Importação de Especificação"
@@ -39998,6 +39968,21 @@
                 "en": "nao-e-possivel-inativar-este-produto-porque-ele-possui-um-ou-mais-skus-ativos-does-not-automatically-translate-on-the-product-admin",
                 "es": "no-puede-desactivar-este-producto-porque-tiene-uno-o-mas-skus-activos-no-se-traduce-automaticamente-en-el-product-admin",
                 "pt": "nao-e-possivel-inativar-este-produto-porque-ele-possui-um-ou-mais-skus-ativos-does-not-automatically-translate-on-the-product-admin"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "'Position' of the trade policy depends on the page it is shown on the admin interface",
+                "es": "La 'posición' de la política comercial depende de la página en la que se muestra en la interfaz de administración",
+                "pt": "A 'posição' da política comercial depende da página que é mostrada na interface administrativa"
+              },
+              "slug": {
+                "en": "position-of-the-trade-policy-depends-on-the-page-it-is-shown-on-the-admin-interface",
+                "es": "la-posicion-de-la-politica-comercial-depende-de-la-pagina-en-la-que-se-muestra-en-la-interfaz-de-administracion",
+                "pt": "a-posicao-da-politica-comercial-depende-da-pagina-que-e-mostrada-na-interface-administrativa"
               },
               "origin": "",
               "type": "markdown",
@@ -40193,6 +40178,21 @@
                 "en": "advanced-searchs-file-import-not-functioning-on-catalog-filters",
                 "es": "la-importacion-de-archivos-de-la-busqueda-avanzada-no-funciona-en-los-filtros-de-catalogo",
                 "pt": "a-importacao-de-arquivos-da-pesquisa-avancada-nao-funciona-nos-filtros-do-catalogo"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "An item with the same key has already been added. Key: description",
+                "es": "Ya se ha añadido un artículo con la misma clave. Clave: descripción",
+                "pt": "Um item com a mesma chave já foi adicionado. Chave: descrição"
+              },
+              "slug": {
+                "en": "an-item-with-the-same-key-has-already-been-added-key-description",
+                "es": "ya-se-ha-anadido-un-articulo-con-la-misma-clave-clave-descripcion",
+                "pt": "um-item-com-a-mesma-chave-ja-foi-adicionado-chave-descricao"
               },
               "origin": "",
               "type": "markdown",
@@ -40652,7 +40652,7 @@
               "name": {
                 "en": "Catalog Indexing Report 'Total' Section Calculation Error",
                 "es": "Error de cálculo de la sección 'total' del informe de indexación del catálogo",
-                "pt": "Erro de Cálculo da Seção 'Total' do Relatório de Indexação do Catálogo "
+                "pt": "Erro de Cálculo da Seção 'Total' do Relatório de Indexação do Catálogo"
               },
               "slug": {
                 "en": "catalog-indexing-report-total-section-calculation-error",
@@ -42570,9 +42570,9 @@
             },
             {
               "name": {
-                "en": "Product Insert/Update API allows '\n' in the textLink field.",
-                "es": "La API de inserción/actualización de productos permite '\n' en el campo textLink.",
-                "pt": "A API de Inserção/Atualização de Produto permite '\n' no campo de textoLink."
+                "en": "Product Insert/Update API allows ' ' in the textLink field.",
+                "es": "La API de inserción/actualización de productos permite ' ' en el campo textLink.",
+                "pt": "A API de Inserção/Atualização de Produto permite ' ' no campo de textoLink."
               },
               "slug": {
                 "en": "product-insertupdate-api-allows-n-in-the-textlink-field",
@@ -47704,21 +47704,6 @@
           "children": [
             {
               "name": {
-                "en": " CMS Styles selector doesn't work in development workspaces",
-                "es": " El selector de Estilos CMS no funciona en los espacios de trabajo de desarrollo",
-                "pt": " O seletor de Estilos CMS não funciona em espaços de trabalho de desenvolvimento"
-              },
-              "slug": {
-                "en": "cms-styles-selector-doesnt-work-in-development-workspaces",
-                "es": "el-selector-de-estilos-cms-no-funciona-en-los-espacios-de-trabajo-de-desarrollo",
-                "pt": "o-seletor-de-estilos-cms-nao-funciona-em-espacos-de-trabalho-de-desenvolvimento"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "Advanced store settings being registered globally insted of by binding",
                 "es": "La configuración avanzada de la tienda se registra globalmente en lugar de por vinculación",
                 "pt": "Configurações avançadas da loja sendo registradas globalmente através de"
@@ -47787,6 +47772,21 @@
                 "en": "checkbox-requires-authentication-doesnt-work-on-pages-module",
                 "es": "la-casilla-requiere-autenticacion-no-funciona-en-el-modulo-de-paginas",
                 "pt": "a-caixa-de-selecao-requer-autenticacao-nao-funciona-no-modulo-paginas"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "CMS Styles selector doesn't work in development workspaces",
+                "es": "El selector de Estilos CMS no funciona en los espacios de trabajo de desarrollo",
+                "pt": "O seletor de Estilos CMS não funciona em espaços de trabalho de desenvolvimento"
+              },
+              "slug": {
+                "en": "cms-styles-selector-doesnt-work-in-development-workspaces",
+                "es": "el-selector-de-estilos-cms-no-funciona-en-los-espacios-de-trabajo-de-desarrollo",
+                "pt": "o-seletor-de-estilos-cms-nao-funciona-em-espacos-de-trabalho-de-desenvolvimento"
               },
               "origin": "",
               "type": "markdown",
@@ -48245,21 +48245,6 @@
           "children": [
             {
               "name": {
-                "en": " [Magalu] Order with error 'Object reference not set to an instance of an object'",
-                "es": " [Magalu] Pedido con error 'Referencia de objeto no establecida a una instancia de un objeto'",
-                "pt": " [Ordem com erro 'Referência do objeto não definida para uma instância de um objeto'."
-              },
-              "slug": {
-                "en": "magalu-order-with-error-object-reference-not-set-to-an-instance-of-an-object",
-                "es": "magalu-pedido-con-error-referencia-de-objeto-no-establecida-a-una-instancia-de-un-objeto",
-                "pt": "ordem-com-erro-referencia-do-objeto-nao-definida-para-uma-instancia-de-um-objeto"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "[AMAZON] 'Object reference not set to an instance of an object'",
                 "es": "[AMAZON] 'La referencia a un objeto no es una instancia de un objeto'",
                 "pt": "[AMAZON] Referência de objeto não definida para uma instância de um objeto'"
@@ -48463,6 +48448,21 @@
                 "en": "magalu-order-not-created-in-oms-and-without-log-in-bridge",
                 "es": "magalu-pedido-no-creado-en-oms-y-sin-registro-en-bridge",
                 "pt": "magalu-pedido-nao-criado-no-oms-e-sem-log-no-bridge"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "[Magalu] Order with error 'Object reference not set to an instance of an object'",
+                "es": "[Magalu] Pedido con error 'Referencia de objeto no establecida a una instancia de un objeto'",
+                "pt": "[Ordem com erro 'Referência do objeto não definida para uma instância de um objeto'."
+              },
+              "slug": {
+                "en": "magalu-order-with-error-object-reference-not-set-to-an-instance-of-an-object",
+                "es": "magalu-pedido-con-error-referencia-de-objeto-no-establecida-a-una-instancia-de-un-objeto",
+                "pt": "ordem-com-erro-referencia-do-objeto-nao-definida-para-uma-instancia-de-um-objeto"
               },
               "origin": "",
               "type": "markdown",
@@ -50724,7 +50724,7 @@
               "name": {
                 "en": "Previous day transactions appearing with today’s date when filtering",
                 "es": "Transaciones del día anterior salen con el filtro de hoy",
-                "pt": " Transações do dia anterior que aparecem no filtro de hoje"
+                "pt": "Transações do dia anterior que aparecem no filtro de hoje"
               },
               "slug": {
                 "en": "previous-day-transactions-appearing-when-filtering-with-todays-date",
@@ -50797,7 +50797,7 @@
             },
             {
               "name": {
-                "en": "You cannot pay with MercadoPago Redirect and Vale in shopping cart having Seller's product ",
+                "en": "You cannot pay with MercadoPago Redirect and Vale in shopping cart having Seller's product",
                 "es": "No se puede abonar con MercadoPago Redirect y Vale en carrito con producto Seller",
                 "pt": "Não pode pagar com MercadoPago Redirect e Vale no carrinho com produto do Seller"
               },
@@ -53622,21 +53622,6 @@
             },
             {
               "name": {
-                "en": "'My Account' page does not work on domain 'myvtex.com'",
-                "es": "Página 'Mi Cuenta' no funciona en el dominio 'myvtex.com'",
-                "pt": "Página de 'minha conta' não funciona no domínio 'myvtex.com'"
-              },
-              "slug": {
-                "en": "my-account-page-does-not-work-on-domain-myvtex-com",
-                "es": "pagina-mi-cuenta-no-funciona-en-el-dominio-myvtex-com",
-                "pt": "pagina-de-minha-conta-nao-funciona-no-dominio-myvtex-com"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "'Store texts' search doesn't work",
                 "es": "Búsqueda de 'Textos de la tienda' no funciona",
                 "pt": "Busca de 'Textos da loja' não funciona"
@@ -53849,7 +53834,7 @@
               "name": {
                 "en": "Canonical tag on custom pages",
                 "es": "Tag canonical en páginas personalizadas",
-                "pt": "Tag canonical em páginas customizadas "
+                "pt": "Tag canonical em páginas customizadas"
               },
               "slug": {
                 "en": "canonical-tag-on-custom-pages",
@@ -54193,7 +54178,7 @@
             {
               "name": {
                 "en": "Google Merchant Center is denying ads due to price divergence",
-                "es": " Google Merchant Center reprobando anuncios por divergencia de precio",
+                "es": "Google Merchant Center reprobando anuncios por divergencia de precio",
                 "pt": "Google Merchant Center reprovando anúncios por divergência de preço"
               },
               "slug": {
@@ -54365,6 +54350,21 @@
                 "en": "moving-categories-leads-to-unexpected-behavior-in-the-categories-tree",
                 "es": "mover-categorias-genera-comportamientos-inesperados-en-el-arbol-de-categorias",
                 "pt": "mover-categorias-gera-comportamentos-inesperados-na-arvore-de-categorias"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "My Account' page does not work on domain 'myvtex.com",
+                "es": "Página 'Mi Cuenta' no funciona en el dominio 'myvtex.com'",
+                "pt": "Página de 'minha conta' não funciona no domínio 'myvtex.com'"
+              },
+              "slug": {
+                "en": "my-account-page-does-not-work-on-domain-myvtex-com",
+                "es": "pagina-mi-cuenta-no-funciona-en-el-dominio-myvtex-com",
+                "pt": "pagina-de-minha-conta-nao-funciona-no-dominio-myvtex-com"
               },
               "origin": "",
               "type": "markdown",
@@ -54583,7 +54583,7 @@
             {
               "name": {
                 "en": "Product Export Headings not in English",
-                "es": "Títulos de columnas de la exportación de productos no disponibles en inglés  ",
+                "es": "Títulos de columnas de la exportación de productos no disponibles en inglés",
                 "pt": "Títulos de colunas da exportação de produtos indisponíveis em inglês"
               },
               "slug": {
@@ -54763,7 +54763,7 @@
             {
               "name": {
                 "en": "Search result totalizer and filters showing wrong value",
-                "es": " Totalizador de resultados de búsqueda y filtros presentando valor equivocado",
+                "es": "Totalizador de resultados de búsqueda y filtros presentando valor equivocado",
                 "pt": "Totalizador de resultado de busca e filtros apresentando valor equivocado"
               },
               "slug": {
@@ -54928,8 +54928,8 @@
             {
               "name": {
                 "en": "Specification filters with character restriction",
-                "es": "Filtros de especificación con restricción de caracteres ",
-                "pt": "Filtros de especificação com restrição de caracteres "
+                "es": "Filtros de especificación con restricción de caracteres",
+                "pt": "Filtros de especificação com restrição de caracteres"
               },
               "slug": {
                 "en": "specification-filters-with-character-restriction",
@@ -55167,7 +55167,7 @@
             },
             {
               "name": {
-                "en": "When a schedule price expires, the fixed price is not reenabled ",
+                "en": "When a schedule price expires, the fixed price is not reenabled",
                 "es": "Cuando un precio agendado vence, no reactiva el precio fijo",
                 "pt": "Quando um preço agendado é atingido, não reativa o preço fixo"
               },
@@ -55274,7 +55274,7 @@
               "name": {
                 "en": "You cannot archive a promotion via the Create Or Update Promotion endpoint",
                 "es": "No se puede archivar una promoción por el endpoint Create Or Update Promotion",
-                "pt": "Não é possível arquivar uma promoção pelo endpoint Create Or Update Promotion "
+                "pt": "Não é possível arquivar uma promoção pelo endpoint Create Or Update Promotion"
               },
               "slug": {
                 "en": "you-cannot-archive-a-promotion-via-the-create-or-update-promotion-endpoint",
@@ -55891,7 +55891,7 @@
               "name": {
                 "en": "Automatic field doesn't calculate the field correctly when set to 'Calculate during the first hour of the day'",
                 "es": "Campo automático no calcula el campo correctamente cuando está programado para cambiar el registro en la primera hora del día",
-                "pt": "Campo automático não calcula o campo corretamente quando programado para alterar registro na primeiro hora do dia "
+                "pt": "Campo automático não calcula o campo corretamente quando programado para alterar registro na primeiro hora do dia"
               },
               "slug": {
                 "en": "automatic-field-doesnt-calculate-the-field-correctly-when-set-to-calculate-during-the-first-hour-of-the-day",
@@ -56040,7 +56040,7 @@
             {
               "name": {
                 "en": "Master Data’s scroll endpoint sometimes returns a 408 error",
-                "es": "El endpoint de la API de Scroll eventualmente devuelve el error 408 ",
+                "es": "El endpoint de la API de Scroll eventualmente devuelve el error 408",
                 "pt": "O endpoint da API de Scroll eventualmente retorna o erro 408"
               },
               "slug": {
@@ -58144,21 +58144,6 @@
           "children": [
             {
               "name": {
-                "en": " The card-ui generates an error when the user chooses to pay with two cards, changes the payment method and returns to the payment with two cards",
-                "es": " La interfaz de usuario de la tarjeta genera un error cuando el usuario elige pagar con dos tarjetas, cambia el método de pago y vuelve al pago con dos tarjetas",
-                "pt": " O cartão-ui gera um erro quando o usuário escolhe pagar com dois cartões, muda a forma de pagamento e retorna ao pagamento com dois cartões"
-              },
-              "slug": {
-                "en": "the-cardui-generates-an-error-when-the-user-chooses-to-pay-with-two-cards-changes-the-payment-method-and-returns-to-the-payment-with-two-cards",
-                "es": "la-interfaz-de-usuario-de-la-tarjeta-genera-un-error-cuando-el-usuario-elige-pagar-con-dos-tarjetas-cambia-el-metodo-de-pago-y-vuelve-al-pago-con-d",
-                "pt": "o-cartaoui-gera-um-erro-quando-o-usuario-escolhe-pagar-com-dois-cartoes-muda-a-forma-de-pagamento-e-retorna-ao-pagamento-com-dois-cartoes"
-              },
-              "origin": "",
-              "type": "markdown",
-              "children": []
-            },
-            {
-              "name": {
                 "en": "'Amount to use' from Gift card does not allow user to change the value when the currency doesn't have decimals",
                 "es": "\"Importe a utilizar\" de la tarjeta regalo no permite al usuario cambiar el valor cuando la moneda no tiene decimales",
                 "pt": "O \"Valor a ser usado\" do cartão-presente não permite que o usuário altere o valor quando a moeda não tem decimais"
@@ -58565,8 +58550,8 @@
             {
               "name": {
                 "en": "Customer Credit doesn't show installments correctly",
-                "es": " El crédito del cliente no muestra las cuotas correctamente",
-                "pt": " O crédito ao cliente não mostra as parcelas corretamente"
+                "es": "El crédito del cliente no muestra las cuotas correctamente",
+                "pt": "O crédito ao cliente não mostra as parcelas corretamente"
               },
               "slug": {
                 "en": "customer-credit-doesnt-show-installments-correctly",
@@ -60604,6 +60589,21 @@
             },
             {
               "name": {
+                "en": "The card-ui generates an error when the user chooses to pay with two cards, changes the payment method and returns to the payment with two cards",
+                "es": "La interfaz de usuario de la tarjeta genera un error cuando el usuario elige pagar con dos tarjetas, cambia el método de pago y vuelve al pago con dos tarjetas",
+                "pt": "O cartão-ui gera um erro quando o usuário escolhe pagar com dois cartões, muda a forma de pagamento e retorna ao pagamento com dois cartões"
+              },
+              "slug": {
+                "en": "the-cardui-generates-an-error-when-the-user-chooses-to-pay-with-two-cards-changes-the-payment-method-and-returns-to-the-payment-with-two-cards",
+                "es": "la-interfaz-de-usuario-de-la-tarjeta-genera-un-error-cuando-el-usuario-elige-pagar-con-dos-tarjetas-cambia-el-metodo-de-pago-y-vuelve-al-pago-con-d",
+                "pt": "o-cartaoui-gera-um-erro-quando-o-usuario-escolhe-pagar-com-dois-cartoes-muda-a-forma-de-pagamento-e-retorna-ao-pagamento-com-dois-cartoes"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
                 "en": "The changes made to Custom payments are not reflected in checkout",
                 "es": "Los cambios realizados en los pagos personalizados no se reflejan en el pago",
                 "pt": "As mudanças feitas nos pagamentos personalizados não se refletem no checkout"
@@ -61032,6 +61032,21 @@
                 "en": "transaction-with-antifraud-doesnt-update-to-settling-when-riskapproved-log-is-missing",
                 "es": "transaccion-con-antifraude-no-se-actualiza-a-liquidando-cuando-falta-el-registro-riskapproved",
                 "pt": "a-transacao-com-antifraude-nao-e-atualizada-para-liquidacao-quando-o-registro-riskapproved-esta-ausente"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Transactions created without any payment get stuck in “Canceling”",
+                "es": "Las transacciones creadas sin ningún pago se quedan atascadas en \"Cancelando\".",
+                "pt": "As transações criadas sem nenhum pagamento ficam presas em \"Cancelamento\""
+              },
+              "slug": {
+                "en": "transactions-created-without-any-payment-get-stuck-in-canceling",
+                "es": "las-transacciones-creadas-sin-ningun-pago-se-quedan-atascadas-en-cancelando",
+                "pt": "as-transacoes-criadas-sem-nenhum-pagamento-ficam-presas-em-cancelamento"
               },
               "origin": "",
               "type": "markdown",
@@ -61529,6 +61544,21 @@
                 "en": "error-get-items-and-fulfillments-when-attempting-to-assign-orders-in-pick-and-pack-due-to-canceled-orders-associated-with-a-picker",
                 "es": "error-get-items-and-fulfillments-al-intentar-asignar-pedidos-en-pick-and-pack-debido-a-pedidos-cancelados-asociados-a-un-picker",
                 "pt": "erro-ao-obter-itens-e-cumprimentos-ao-tentar-atribuir-pedidos-no-pick-and-pack-devido-a-pedidos-cancelados-associados-a-um-picker"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "“Shipping Method” (from Logistics) in Order Automation (pnp) is incorrectly linked to a Product Category when both share the same ID",
+                "es": "\"Método de envío\" (de Logística) en Automatización de pedidos (pnp) se vincula incorrectamente a una Categoría de producto cuando ambas comparten el mismo ID.",
+                "pt": "O \"Método de envio\" (da Logística) na Automação de pedidos (pnp) está incorretamente vinculado a uma Categoria de produto quando ambos compartilham o mesmo ID"
+              },
+              "slug": {
+                "en": "shipping-method-from-logistics-in-order-automation-pnp-is-incorrectly-linked-to-a-product-category-when-both-share-the-same-id",
+                "es": "metodo-de-envio-de-logistica-en-automatizacion-de-pedidos-pnp-se-vincula-incorrectamente-a-una-categoria-de-producto-cuando-ambas-comparten-el-mismo-id",
+                "pt": "o-metodo-de-envio-da-logistica-na-automacao-de-pedidos-pnp-esta-incorretamente-vinculado-a-uma-categoria-de-produto-quando-ambos-compartilham-o-mesmo-id"
               },
               "origin": "",
               "type": "markdown",
@@ -62528,7 +62558,7 @@
             },
             {
               "name": {
-                "en": "Divergence in quantity of exported orders x displayed orders in the Orders Management ",
+                "en": "Divergence in quantity of exported orders x displayed orders in the Orders Management",
                 "es": "Divergencia en la cantidad de pedidos exportados x cantidad visualizada en el Gestión de Pedidos",
                 "pt": "Divergência na quantidade de pedidos exportados x quantidade visualizada no Gerenciamento de Pedidos"
               },
@@ -62635,7 +62665,7 @@
               "name": {
                 "en": "Instability in the toggle button for shipping and in-store pickup",
                 "es": "Inestabilidad en el botón para elegir entre recoger y recibir el pedido",
-                "pt": " Instabilidade no botão que alterna a escolha entre  retirada e entrega"
+                "pt": "Instabilidade no botão que alterna a escolha entre  retirada e entrega"
               },
               "slug": {
                 "en": "instability-in-the-toggle-button-for-shipping-and-instore-pickup",
@@ -62694,8 +62724,8 @@
             {
               "name": {
                 "en": "Order isn't fully canceled",
-                "es": "El pedido no se cancela completamente ",
-                "pt": "Pedido não é cancelado totalmente "
+                "es": "El pedido no se cancela completamente",
+                "pt": "Pedido não é cancelado totalmente"
               },
               "slug": {
                 "en": "order-isnt-fully-canceled",
@@ -64361,7 +64391,7 @@
             },
             {
               "name": {
-                "en": "Receive and Pick-up tabs are displayed according to the searched ZIP code's availability ",
+                "en": "Receive and Pick-up tabs are displayed according to the searched ZIP code's availability",
                 "es": "Pestañas 'Recibir | Retirar' se muestran solo según la disponibilidad en el código postal buscado",
                 "pt": "Abas de 'Receber | Retirar' são exibidas apenas de acordo com a disponibilidade no CEP buscado"
               },
@@ -64376,7 +64406,7 @@
             },
             {
               "name": {
-                "en": "Shipping calculator for shopping cart is inconsistent ",
+                "en": "Shipping calculator for shopping cart is inconsistent",
                 "es": "Calculadora de flete inconsistente en el carrito",
                 "pt": "Calculador de frete inconsistente no carrinho"
               },
@@ -64423,7 +64453,7 @@
               "name": {
                 "en": "Unexpected error message is displayed when selecting PayPal Plus at checkout",
                 "es": "Aparece un mensaje de error inesperado al seleccionar PayPal Plus en el checkout",
-                "pt": " Mensagem de erro inesperado aparece ao selecionar PayPal Plus no checkout"
+                "pt": "Mensagem de erro inesperado aparece ao selecionar PayPal Plus no checkout"
               },
               "slug": {
                 "en": "unexpected-error-message-is-displayed-when-selecting-paypal-plus-at-checkout",
@@ -65826,6 +65856,21 @@
                 "en": "product-quantity-selector-error-for-high-resolution-screens",
                 "es": "error-en-el-selector-de-cantidad-de-productos-para-pantallas-de-alta-resolucion",
                 "pt": "erro-no-seletor-de-quantidade-de-produto-para-telas-de-alta-resolucao"
+              },
+              "origin": "",
+              "type": "markdown",
+              "children": []
+            },
+            {
+              "name": {
+                "en": "Product Summary Quantity does not work in regionalized stores",
+                "es": "La cantidad del resumen del producto no funciona en las tiendas regionalizadas",
+                "pt": "A quantidade do resumo do produto não funciona em lojas regionalizadas"
+              },
+              "slug": {
+                "en": "product-summary-quantity-does-not-work-in-regionalized-stores",
+                "es": "la-cantidad-del-resumen-del-producto-no-funciona-en-las-tiendas-regionalizadas",
+                "pt": "a-quantidade-do-resumo-do-produto-nao-funciona-em-lojas-regionalizadas"
               },
               "origin": "",
               "type": "markdown",

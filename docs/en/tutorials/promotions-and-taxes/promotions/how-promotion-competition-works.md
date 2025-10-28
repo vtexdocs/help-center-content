@@ -3,8 +3,8 @@ title: 'How promotion competition works'
 id: tutorials_2270
 status: PUBLISHED
 createdAt: 2017-04-27T21:55:27.997Z
-updatedAt: 2025-08-08T16:42:58.333Z
-publishedAt: 2025-08-08T16:42:58.333Z
+updatedAt: 2025-10-28T13:19:16.349Z
+publishedAt: 2025-10-28T13:19:16.349Z
 firstPublishedAt: 2017-04-27T23:03:50.791Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -95,7 +95,7 @@ They're applied to the amount already discounted by the promotion that won among
 
 The application sequence is:  
 
-![promocao3 PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/how-promotion-competition-works_1.png)
+![promoção](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/how-promotion-competition-works_1.png)
 
 <div style="background-color: #fff8e1; border-left: 4px solid #ffecb3; padding: 12px 16px; margin: 16px 0; font-family: sans-serif; overflow: auto;">
   <p style="margin: 0;">

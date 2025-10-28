@@ -46,9 +46,6 @@ Esse procedimento deve ser realizado por usuários com perfil de **Supervisor**,
 
 O acesso ao ambiente web será liberado apenas a partir da **data de início** informada no cadastro.  
 O usuário deverá criar uma senha para acessar a plataforma.  
-Para mais informações, consulte o artigo
-<a href="/pt/tutorial/cadastrar-ou-redefinir-senha-para-acesso-a-plataforma-indeva--6WpfWS9NBPTx346oF2BSgI" target="_blank" rel="noopener noreferrer">
-Cadastrar ou redefinir senha para acesso à plataforma Indeva
-</a>.
+Para mais informações, consulte o artigo [Cadastrar ou redefinir senha para acesso à plataforma Indeva](/pt/tutorial/cadastrar-ou-redefinir-senha-para-acesso-a-plataforma-indeva--6WpfWS9NBPTx346oF2BSgI).
 
 
