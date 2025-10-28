@@ -50,7 +50,7 @@ En el campo <i class="fas fa-search" aria-hidden="true"></i>`Buscar`, puedes bus
 
 En la parte superior se encuentran las fechas de las interacciones. Puedes hacer clic en la fecha para cambiar el periodo de tiempo y filtrar los resultados que aparecen.
 
-![Imagem Supervisor](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/agent-builder/informacion-general-de-agent-builder_1.png)
+![Imagem Supervisor](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/agent-builder/informacion-general-de-agent-builder_1.png)
 
 ## Perfil
 
@@ -142,11 +142,11 @@ Debajo de **Vista previa de los agentes** hay dos botones de alternancia:
 
 - **Feedback progresivo de los agentes:** activa el botón de alternancia <i class="fas fa-toggle-on" aria-hidden="true"></i> si deseas que el agente envíe actualizaciones en tiempo real al usuario mientras redacta la respuesta final. De lo contrario, deja el botón de alternancia desactivado <i class="fas fa-toggle-off" aria-hidden="true"></i>. 
 
-![ES GIF Feedback progressivo dos agentes](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/agent-builder/informacion-general-de-agent-builder_1.gif)
+![ES GIF Feedback progressivo dos agentes](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/agent-builder/informacion-general-de-agent-builder_1.gif)
 
 - **Formato de mensaje múltiple:** activa el botón de alternancia <i class="fas fa-toggle-on" aria-hidden="true"></i> si quieres que el agente envíe varios mensajes, como respuestas rápidas, listas, catálogo. De lo contrario, deja el botón de alternancia desactivado <i class="fas fa-toggle-off" aria-hidden="true"></i>.
 
-![formato de mensaje múltiple](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/agent-builder/informacion-general-de-agent-builder_2.png)
+![formato de mensaje múltiple](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/agent-builder/informacion-general-de-agent-builder_2.png)
 
 Debajo de **Soporte humano** hay un botón de alternancia:
 

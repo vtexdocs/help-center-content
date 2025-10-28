@@ -27,7 +27,7 @@ La nueva experiencia de [Cupones](/es/tutorial/cupons-beta--1aAEN3ADpz19ss5JCIEB
 
 La nueva [lista de Cupones](/es/tutorial/lista-de-cupons-beta--5z5ya3IonsC2W4B5h4JrsZ) muestra todos los cupones registrados en tu tienda, permitiendo gestionar los datos y analizar en qué pedidos se han utilizado.
 
-![listacupons es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2023/abril/2023-04-13-mejoras-en-la-experiencia-de-cupones_1.gif)
+![listacupons es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2023/abril/2023-04-13-mejoras-en-la-experiencia-de-cupones_1.gif)
 
 ### Acceso más fácil a los códigos de los cupones
 
@@ -44,7 +44,7 @@ Los nuevos filtros permiten la visualización de aquellos cupones que cumplen cr
 - Última modificación
 - Tipo de cupón
 
-![filtroscupons es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2023/abril/2023-04-13-mejoras-en-la-experiencia-de-cupones_2.gif)
+![filtroscupons es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2023/abril/2023-04-13-mejoras-en-la-experiencia-de-cupones_2.gif)
 
 ### Grupos de cupones para una gestión ágil
 

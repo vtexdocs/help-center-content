@@ -17,7 +17,7 @@ order: 1
 
 A Rappi é uma plataforma que funciona como marketplace conectando compradores a produtos dos mais diversos segmentos. Acompanhando a experiência do cliente da compra à entrega.
 
-![Logo Rappi](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/integracao-rappi/visao-geral-da-integracao-com-a-rappi_1.jpg)
+![Logo Rappi](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/integracao-rappi/visao-geral-da-integracao-com-a-rappi_1.jpg)
 
 A configuração com a Rappi tem o objetivo conectar sua loja VTEX com a plataforma, permitindo que você anuncie seus produtos, aumente suas vendas e alcance novos clientes a partir deste canal.
 

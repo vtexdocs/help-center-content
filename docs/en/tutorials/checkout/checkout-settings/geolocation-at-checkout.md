@@ -42,7 +42,7 @@ Once you have an API Key, proceed as follows:
 1. In the VTEX Admin, go to __Store Settings > Shipping > Geolocation Shipping__, or type __Geolocation Shipping__ in the search bar at the top of the page.
 2. Enter the API Key in the field indicated and click on __Register Key__.
 
-![Geolocalizacao 1 EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/checkout/checkout-settings/geolocation-at-checkout_1.png)
+![Geolocalizacao 1 EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/checkout/checkout-settings/geolocation-at-checkout_1.png)
 
 > ℹ️ In some countries, Google Maps does not provide high quality mapping. Therefore it is possible that some addresses will be written wrongly, or Google may indicate an incorrect address. In these cases, you must correct the address on the map itself.
 
@@ -59,7 +59,7 @@ Once you've created the polygon and entered your ID in the shipping worksheet, y
 3. In the blue options menu located at the top of the page, click on __Checkout__.
 4. In the __Google Maps API Key__ field insert the API Key given in the logistics step.
 
-![Google map keys](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/checkout/checkout-settings/geolocation-at-checkout_2.PNG)
+![Google map keys](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/checkout/checkout-settings/geolocation-at-checkout_2.PNG)
 
 Once the API Key has been included in the Checkout configuration, the geolocation will be visible in your store checkout.
 

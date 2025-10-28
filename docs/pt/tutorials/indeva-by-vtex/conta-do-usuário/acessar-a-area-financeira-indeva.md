@@ -21,7 +21,7 @@ A área financeira permite visualizar a segunda via de boletos e notas fiscais d
 
 A área financeira está disponível apenas na versão web da plataforma. O acesso pode ser feito no canto superior direito da tela, ao clicar sobre o menu de **perfil**.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/conta-do-usu%C3%A1rio/acessar-a-area-financeira-indeva_1.gif)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/conta-do-usu%C3%A1rio/acessar-a-area-financeira-indeva_1.gif)
 
 Para adicionar ou remover endereços de e-mail com permissão para acessar a área financeira, envie uma solicitação para **faturamento@indeva.com.br**, informando o **CNPJ** da loja e o endereço que deseja incluir ou remover.
 

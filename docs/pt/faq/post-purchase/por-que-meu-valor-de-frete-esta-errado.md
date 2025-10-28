@@ -23,7 +23,7 @@ O valor de frete é calculado com base em vários fatores: tabela de frete, adic
 3. Aqui, você verificará o valor cadastrado na planilha mais todos os [adicionais](/pt/tutorial/como-funciona-o-adicional-de-frete/) somados a esse valor.
 4. Caso o valor ainda não esteja condizente com o exibido na loja, siga os passos abaixo para verificar se não há nenhuma promoção alterando o valor do frete.
 
-![por-que-meu-valor-de-frete-esta-errado pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/post-purchase/por-que-meu-valor-de-frete-esta-errado_1.jpg)
+![por-que-meu-valor-de-frete-esta-errado pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/post-purchase/por-que-meu-valor-de-frete-esta-errado_1.jpg)
 
 ### Promoção
 
@@ -32,4 +32,4 @@ O valor de frete é calculado com base em vários fatores: tabela de frete, adic
 3. Observe a box **Valor Total**.
 4. Verifique se, entre as promoções, existe alguma com desconto em frete. Para verificar, basta você acessar a promoção do pedido e verificar o tipo de desconto.
 
-![valortotal pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/post-purchase/por-que-meu-valor-de-frete-esta-errado_2.jpg)
+![valortotal pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/post-purchase/por-que-meu-valor-de-frete-esta-errado_2.jpg)

@@ -34,7 +34,7 @@ Após receber o arquivo do banco e salvá-lo em sua máquina, conforme citado ac
 
 Assim que selecionar o arquivo, a plataforma começará a processá-lo e registrará no histórico quantos pagamentos foram conciliados com sucesso ou erro. Os pagamentos que forem conciliados com sucesso, atualizarão os status dos pedidos para Pagamento Aprovado.
 
-![upload-arquivo-ret](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/concilia%C3%A7%C3%A3o-banc%C3%A1ria/conciliacoes-bancarias_1.JPG)
+![upload-arquivo-ret](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/concilia%C3%A7%C3%A3o-banc%C3%A1ria/conciliacoes-bancarias_1.JPG)
 
 ## Visualizar o histórico
 
@@ -46,7 +46,7 @@ Dentre os detalhes, é possível saber: o banco ao qual o boleto pertence, o tot
 2. Em **Histórico**, clique em uma das datas das operações de conciliação bancária realizadas.
 3. Em **Mais detalhes dos pagamentos**, clique em **Conciliados com Sucesso** ou **Não conciliados** para verificar os detalhes das operações realizadas em um determinado banco. 
 
-![historico-conciliacao](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/concilia%C3%A7%C3%A3o-banc%C3%A1ria/conciliacoes-bancarias_2.jpg)
+![historico-conciliacao](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/concilia%C3%A7%C3%A3o-banc%C3%A1ria/conciliacoes-bancarias_2.jpg)
 
 ## Payclub
 
@@ -57,4 +57,4 @@ Aqui é possível fazer o download dos pagamentos do dia que foram feitos atrav�
 3. Selecione a data que desejar no calendário.
 4. Clique em **Baixar arquivo**.
 
-![donwload-arquivo-conciliação](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/concilia%C3%A7%C3%A3o-banc%C3%A1ria/conciliacoes-bancarias_3.JPG)
+![donwload-arquivo-conciliação](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/concilia%C3%A7%C3%A3o-banc%C3%A1ria/conciliacoes-bancarias_3.JPG)

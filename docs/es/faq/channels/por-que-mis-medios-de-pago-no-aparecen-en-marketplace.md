@@ -20,4 +20,4 @@ O sea, el pago es realizado en el marketplace por las formas de pago del marketp
 
 Ejemplo: una compra realizada por el marketplace CNova se mostrará en su OMS con el siguiente mensaje en __Pago__: "Assumed value by affiliate CNova (NVP)", como en la imagen abajo.
 
-![exemplopagamento](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/channels/por-que-mis-medios-de-pago-no-aparecen-en-marketplace_1.png)
+![exemplopagamento](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/channels/por-que-mis-medios-de-pago-no-aparecen-en-marketplace_1.png)

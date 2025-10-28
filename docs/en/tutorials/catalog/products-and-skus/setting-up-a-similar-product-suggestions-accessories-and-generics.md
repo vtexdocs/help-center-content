@@ -35,7 +35,7 @@ To help you use the above techniques, we can use the fields in the register of p
 4. Fill out the fields correctly as indicated below.
 5. Click on the `Save` button.
 
-![produto-similar-sugestão-acessório-exemplo en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/products-and-skus/setting-up-a-similar-product-suggestions-accessories-and-generics_1.png)
+![produto-similar-sugestão-acessório-exemplo en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/products-and-skus/setting-up-a-similar-product-suggestions-accessories-and-generics_1.png)
 
 **Acessories:** in this field we register the products that must be sold to complement another product. In this option, the products registered as accessories are shown as a purchase option by enabling the selection checkbox (function included in the layout).
 

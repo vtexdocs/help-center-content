@@ -85,7 +85,7 @@ Para agregar uno o más ítems al pedido, sigue estos pasos:
 2. En la sección **Facturación pendiente**, haz clic en `Modificar ítems`.
 3. En la página **Gestionar ítems del pedido**, haz clic en la flecha hacia arriba <i class="fas fa-angle-up"></i> hasta alcanzar la cantidad que desees, o ingresa el número en el campo. Después, la página mostrará el precio y la cantidad anterior tachados y aparecerá el siguiente mensaje: _"Ítem editado"_. 
 
-    ![change_order_adding_items_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pedidos/todos-los-pedidos/como-modificar-pedidos_1.png)
+    ![change_order_adding_items_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pedidos/todos-los-pedidos/como-modificar-pedidos_1.png)
 
 4. Revisa los [detalles del valor modificado](#consultar-detalles-de-los-valores-modificados). Si es necesario, puedes [revertir una modificación](#deshacer-acciones).
 5. Haz clic en `Revisar y aplicar`.
@@ -106,7 +106,7 @@ Para agregar uno o más productos al pedido, sigue estos pasos:
   > Si haces clic en el nombre del producto, se te redirigirá a la página del producto en el sitio web de la tienda.
 6. A continuación, haz clic en `Agregar ítems seleccionados`. Aparecerá el siguiente mensaje: _"Ítems agregados"_.
 
-    ![change_order_adding_product_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pedidos/todos-los-pedidos/como-modificar-pedidos_2.png)
+    ![change_order_adding_product_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pedidos/todos-los-pedidos/como-modificar-pedidos_2.png)
 
 4. Revisa los [detalles del valor modificado](#consultar-detalles-de-los-valores-modificados). Si es necesario, puedes [revertir una modificación](#deshacer-acciones).
 8. Haz clic en `Revisar y aplicar`.
@@ -123,7 +123,7 @@ Para remover uno o más ítems del pedido, sigue estos pasos:
 2. En la sección **Facturación pendiente**, haz clic en `Modificar ítems`.
 3. En la página **Gestionar ítems del pedido**, haz clic en la flecha hacia abajo <i class="fas fa-angle-down"></i> hasta alcanzar la cantidad que desees, o ingresa el número en el campo. Después, la página mostrará el precio y la cantidad anterior tachados y aparecerá el siguiente mensaje: _“Ítem editado”_.
 
-    ![change_order_removing_items_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pedidos/todos-los-pedidos/como-modificar-pedidos_3.png)
+    ![change_order_removing_items_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pedidos/todos-los-pedidos/como-modificar-pedidos_3.png)
 
 4. Revisa los [detalles del valor modificado](#consultar-detalles-de-los-valores-modificados). Si es necesario, puedes [revertir una modificación](#deshacer-acciones).
 5. A continuación, haz clic en `Revisar y aplicar`.
@@ -140,7 +140,7 @@ Para remover un producto de un pedido, sigue estos pasos:
 2. En la sección **Facturación pendiente**, haz clic en `Modificar ítems`.
 3. En la página **Gestionar ítems del pedido**, haz clic en el ícono de la papelera <i class="far fa-trash-alt"></i> `Remover ítem`. Aparecerá el siguiente mensaje de confirmación: _“Ítem removido”_.
 
-    ![change_order_removing_product_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pedidos/todos-los-pedidos/como-modificar-pedidos_4.png)
+    ![change_order_removing_product_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pedidos/todos-los-pedidos/como-modificar-pedidos_4.png)
 
 4. Revisa los [detalles del valor modificado](#consultar-detalles-de-los-valores-modificados). Si es necesario, puedes [revertir una modificación](#deshacer-acciones).
 5. A continuación, haz clic en `Revisar y aplicar`.
@@ -175,7 +175,7 @@ Para modificar el peso de un ítem, sigue estos pasos:
 3. En la página **Gestionar ítems del pedido**, en la fila del producto deseado, ingresa el nuevo peso en el campo. La unidad de medida especificada se basa en los ajustes del Catálogo. 
 4. Una vez hecho esto, en la página se muestra el precio y el peso anterior tachados, seguido del mensaje _“Ítem editado”_.
 
-    ![change_order_changing_weight_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pedidos/todos-los-pedidos/como-modificar-pedidos_5.png)
+    ![change_order_changing_weight_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pedidos/todos-los-pedidos/como-modificar-pedidos_5.png)
 
 5. Revisa los [detalles del valor modificado](#consultar-detalles-de-los-valores-modificados). Si es necesario, puedes [revertir una modificación](#deshacer-acciones).
 6. Haz clic en `Revisar y aplicar`.
@@ -196,7 +196,7 @@ En la página **Gestionar ítems del pedido**, al modificar el pedido, el valor 
 
 En la página **Gestionar ítems del pedido**, puedes deshacer las modificaciones si así lo deseas. Haz clic en el ícono de flecha curva `Deshacer acción`. Una vez hecho esto, aparecerá un mensaje de confirmación: _"Modificación deshecha"_, y la acción se habrá revertido.
 
-![change_order_undoing_actions_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pedidos/todos-los-pedidos/como-modificar-pedidos_6.png)
+![change_order_undoing_actions_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pedidos/todos-los-pedidos/como-modificar-pedidos_6.png)
 
 ## Errores de procesamiento
 

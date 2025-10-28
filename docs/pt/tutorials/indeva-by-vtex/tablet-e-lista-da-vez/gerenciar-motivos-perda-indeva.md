@@ -37,7 +37,7 @@ Siga as orientações abaixo ao preencher a planilha de motivos de perda:
 - Insira cada motivo na **categoria correspondente**, posicionando-o na coluna à direita da categoria pai.
 - Envie o arquivo no formato **Excel (.xlsx)**.
 
-![Exemplo de preenchimento da planilha](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/tablet-e-lista-da-vez/gerenciar-motivos-perda-indeva_1.png)
+![Exemplo de preenchimento da planilha](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/tablet-e-lista-da-vez/gerenciar-motivos-perda-indeva_1.png)
 
 Para instruções completas, assista ao vídeo [Como preencher a planilha de motivos de perda](https://www.loom.com/share/b157ebc71a434cbebebb2d84e1d11d54?sid=50529728-4dd7-4a7d-bd1b-2e014cdddd76).
 

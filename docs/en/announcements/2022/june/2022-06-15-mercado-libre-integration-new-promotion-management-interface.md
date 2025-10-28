@@ -19,7 +19,7 @@ Continuing with the improvements implemented for the [Mercado Libre certificatio
 
 On the new Mercado Libre **Promotions** page, you can manage a list of different promotional campaigns on the platform available for your store.
 
-![Promotions](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2022/june/2022-06-15-mercado-libre-integration-new-promotion-management-interface_1.gif)
+![Promotions](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2022/june/2022-06-15-mercado-libre-integration-new-promotion-management-interface_1.gif)
 
 ## What has changed?
 

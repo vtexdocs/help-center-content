@@ -19,7 +19,7 @@ Com um volume cada vez maior de dados disponíveis para operações de ecommerce
 
 O dashboard permite que os usuários analisem dados de todos os canais de venda da loja, e de seus sellers, incluindo métricas sobre receita, pedidos, ticket médio e muito mais. Inclui também gráficos e tabelas para que você compare resultados de períodos diferentes, introduzindo onze opções de filtros para que obtenham insights unificados de toda a operação.
 
-![Sales Perf Dash PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2021/outubro/2021-10-19-novo-dashboard-performance-de-vendas_1.gif)
+![Sales Perf Dash PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2021/outubro/2021-10-19-novo-dashboard-performance-de-vendas_1.gif)
 
 ## O que mudou?
 Antes, o seu Admin VTEX incluía somente a página Insights para gerar inteligência de negócios a partir dos dados da sua operação. Agora incluímos uma nova página, a Performance de Vendas, para que você tenha uma visão mais detalhada dos resultados dos diferentes canais de venda da sua loja. A página de Insights ainda permanecerá em seu Admin VTEX.

@@ -23,7 +23,7 @@ Agregamos la opción de exportar hallazgos directamente desde el dashboard de Se
 
 Accede a **Dashboards > Security Monitor > Security Monitor Dashboard** y haz clic en `Exportar` en la esquina superior derecha de la pantalla. Puedes seleccionar los hallazgos que deseas incluir en el archivo exportado: *Todos los hallazgos*, *Abiertos*, *Pospuestos* o *Finalizados*. Para más información, consulta [Security Monitor](/es/tutorial/security-monitor--5LOVNLrrtmgSj99pM1NS4x).
 
-![export-security-monitor-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2025/julio/2025-07-03-exporta-hallazgos-de-security-monitor-para-agilizar-analisis-y-auditoria_1.gif)
+![export-security-monitor-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2025/julio/2025-07-03-exporta-hallazgos-de-security-monitor-para-agilizar-analisis-y-auditoria_1.gif)
 
 ## ¿Por qué realizamos este cambio?
 

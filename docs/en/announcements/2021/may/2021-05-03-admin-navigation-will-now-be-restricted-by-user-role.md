@@ -27,7 +27,7 @@ Now, users will only see the sidebar menu items they are allowed to access, acco
 
 The image below illustrates how the sidebar might change as a result of these housekeeping procedures to improve your store's security and user experience.
 
-![EN Sidebar permissions announcement screenshot](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2021/may/2021-05-03-admin-navigation-will-now-be-restricted-by-user-role_1.png)
+![EN Sidebar permissions announcement screenshot](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2021/may/2021-05-03-admin-navigation-will-now-be-restricted-by-user-role_1.png)
 
 ## Why did we make this change?
 

@@ -23,7 +23,7 @@ We have improved the campaign audience settings so that you can add up target au
 
 In the VTEX Admin, **Products > Promotions and Taxes > Campaign Audience > New Campaign Audience**, in the settings related to the **Target Audience**, we added the "and" option, where there was previously only the "or" option. This means that now you can apply a criteria adding logic ("and") besides the pre-existent alternative logic ("or"). Please see the image below:
 
-![publico-alvo-e-ou-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2022/july/2022-07-22-campaign-promotions-new-option-when-configuring-target-audience_1.gif)
+![publico-alvo-e-ou-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2022/july/2022-07-22-campaign-promotions-new-option-when-configuring-target-audience_1.gif)
 
 Using the new option, you can create campaign promotions flexibly combining different criteria.
 

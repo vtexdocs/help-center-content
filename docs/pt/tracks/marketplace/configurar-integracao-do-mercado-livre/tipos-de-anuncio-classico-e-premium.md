@@ -21,9 +21,9 @@ Anúncios do tipo Clássico têm como principal vantagem uma menor tarifa por ve
 
 Na integração com a VTEX, você pode optar por anunciar seus produtos em ambos formatos. Cada tipo de anúncio deve ser configurado separadamente, seguindo todos os passos indicados neste tutorial.
 
-<img style="width:48%;" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/marketplace/configurar-integracao-do-mercado-livre/tipos-de-anuncio-classico-e-premium_1.png"/>
+<img style="width:48%;" src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/marketplace/configurar-integracao-do-mercado-livre/tipos-de-anuncio-classico-e-premium_1.png"/>
 <span style="width:4%;"/>
-<img style="width:48%;" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/marketplace/configurar-integracao-do-mercado-livre/tipos-de-anuncio-classico-e-premium_2.png"/>
+<img style="width:48%;" src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/marketplace/configurar-integracao-do-mercado-livre/tipos-de-anuncio-classico-e-premium_2.png"/>
 
 #### Mais detalhes sobre os tipos de anúncios
 

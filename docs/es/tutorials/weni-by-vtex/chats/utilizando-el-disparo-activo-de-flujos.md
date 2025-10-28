@@ -32,15 +32,15 @@ En este artículo trataremos sobre:
 
 Cualquier flujo existente puede ser enviado a través de los chats. Para hacerlo, simplemente accede a **Flujos.**
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/chats/utilizando-el-disparo-activo-de-flujos_1.png) 
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/chats/utilizando-el-disparo-activo-de-flujos_1.png) 
 
 Luego selecciona el flujo deseado y haz clic en el botón **""Etiqueta"".**
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/chats/utilizando-el-disparo-activo-de-flujos_2.png) 
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/chats/utilizando-el-disparo-activo-de-flujos_2.png) 
 
 Para que el flujo esté disponible en los chats, debe tener una etiqueta con el nombre **""chats""**. Si no está disponible, crea una nueva etiqueta con el nombre **""chats""** como se muestra en el ejemplo.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/chats/utilizando-el-disparo-activo-de-flujos_3.png) 
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/chats/utilizando-el-disparo-activo-de-flujos_3.png) 
 
 Al hacer clic en **""crear""**, tu flujo automáticamente tendrá la etiqueta creada y estará disponible para ser usado en los chats.
 
@@ -57,15 +57,15 @@ respecto.
 Accede a tu proyecto y luego al módulo de Flujos, haz clic en el botón **""Crear
 flujo""**:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/chats/utilizando-el-disparo-activo-de-flujos_4.png) 
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/chats/utilizando-el-disparo-activo-de-flujos_4.png) 
 
 Luego, ingresa los **datos** sobre tu flujo:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/chats/utilizando-el-disparo-activo-de-flujos_5.png) 
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/chats/utilizando-el-disparo-activo-de-flujos_5.png) 
 
 Añade las tarjetas según las acciones que desees en tu flujo. Para que el flujo sea de envío de modelos de mensajes, selecciona la tarjeta del tipo ""Enviar mensaje"" y haz clic en **""WhatsApp""**.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/chats/utilizando-el-disparo-activo-de-flujos_6.png) 
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/chats/utilizando-el-disparo-activo-de-flujos_6.png) 
 
 Tus modelos registrados deberían aparecer. Selecciona el deseado e ingresa la variable en caso de haberla. Luego, haz clic en **""Confirme""** y finaliza tu flujo.
 
@@ -76,11 +76,11 @@ primero debes habilitarla en la configuración, en el sector deseado.
 
 Accede a **Configuraciones \> Chats.**
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/chats/utilizando-el-disparo-activo-de-flujos_7.png) 
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/chats/utilizando-el-disparo-activo-de-flujos_7.png) 
 
 En la primera pantalla del sector, podrás ver el botón para activar el envío de flujos, el cual estará desactivado. Actívalo y haz clic en **""Guardar"".**
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/chats/utilizando-el-disparo-activo-de-flujos_8.png) 
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/chats/utilizando-el-disparo-activo-de-flujos_8.png) 
 
 Enviando un flujo en Chats
 
@@ -89,14 +89,14 @@ Enviando un flujo en Chats
 En la pantalla de chats, haz clic en el botón debajo de preferencias, como se
 muestra en el ejemplo.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/chats/utilizando-el-disparo-activo-de-flujos_9.png) 
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/chats/utilizando-el-disparo-activo-de-flujos_9.png) 
 
 Selecciona los contactos deseados y haz clic en **""Continuar""**.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/chats/utilizando-el-disparo-activo-de-flujos_10.png) 
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/chats/utilizando-el-disparo-activo-de-flujos_10.png) 
 
 Selecciona el flujo deseado y luego haz clic en el botón **""enviar""**.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/chats/utilizando-el-disparo-activo-de-flujos_11.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/chats/utilizando-el-disparo-activo-de-flujos_11.png)
 
 ¡Listo! Los contactos que recibieron los flujos aparecerán en una lista de espera. Una vez que el contacto responda, podrás iniciar el chat normalmente con él.

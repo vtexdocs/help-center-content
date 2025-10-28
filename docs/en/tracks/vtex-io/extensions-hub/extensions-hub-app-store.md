@@ -19,7 +19,7 @@ The App Store is the Admin page where you can search, view and get apps to expan
 
 ## Home page
 
-![Extensions Hub App Store home page](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-io/extensions-hub/extensions-hub-app-store_1.png)
+![Extensions Hub App Store home page](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-io/extensions-hub/extensions-hub-app-store_1.png)
 
 When you log in to the store, you will see the home page with the following available options:
 
@@ -29,13 +29,13 @@ When you log in to the store, you will see the home page with the following avai
 
 ## Search
 
-![Extensions Hub App Store search](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-io/extensions-hub/extensions-hub-app-store_2.png)
+![Extensions Hub App Store search](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-io/extensions-hub/extensions-hub-app-store_2.png)
 
 You can search for an app by typing its name in the search text box and pressing `Enter`. Then, you will be redirected to the search results page. The results will be the apps whose names match the text you entered in the search. The apps are displayed as square cards, where you can see the app name, headline, and price. Clicking an app will take you to the [app page](#app-page).
 
 ## App page
 
-![Extensions Hub App Store app page](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-io/extensions-hub/extensions-hub-app-store_3.png)
+![Extensions Hub App Store app page](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-io/extensions-hub/extensions-hub-app-store_3.png)
 
 When you click an app on the home page or in the search results, you will be redirected to the app page. On this page, you will find detailed information about the app, including its price and the option to acquire it.
 

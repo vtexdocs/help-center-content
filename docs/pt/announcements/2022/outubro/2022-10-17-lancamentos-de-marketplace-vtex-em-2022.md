@@ -29,7 +29,7 @@ Com nossas novas funcionalidades, marketplaces podem:
 
 Vá além do ecommerce tradicional com as [novidades de Marketplace da VTEX](https://content.vtex.com/pt-br/2022-marketplace-release/?utm_source=announcement&utm_medium=organic&utm_campaign=2022_marketplace_release). 
 
-![capa de blog marketplace 2022](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2022/outubro/2022-10-17-lancamentos-de-marketplace-vtex-em-2022_1.png)
+![capa de blog marketplace 2022](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2022/outubro/2022-10-17-lancamentos-de-marketplace-vtex-em-2022_1.png)
 
 ## O que estamos lançando?
 
@@ -78,7 +78,7 @@ Saiba mais sobre cada funcionalidade a seguir.
 
 ### Seller Portal 
 
-![Seller Portal gif 2022 launch](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2022/outubro/2022-10-17-lancamentos-de-marketplace-vtex-em-2022_2.gif)
+![Seller Portal gif 2022 launch](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2022/outubro/2022-10-17-lancamentos-de-marketplace-vtex-em-2022_2.gif)
 
 O Seller Portal é uma edição da plataforma VTEX voltada para [sellers](/pt/tutorial/marketplace-strategies-at-vtex--tutorials_402#vender-em-marketplace) se conectarem e venderem seus produtos em marketplaces hospedados na VTEX. Com o portal, sellers acessam todas as funcionalidades essenciais para a operação de ecommerce em grandes vitrines, trazendo visibilidade e conversão de vendas.
 
@@ -126,7 +126,7 @@ Para facilitar a entrada de novos sellers no Seller Portal, lançamos também a 
 
 ### Gestão de sellers
 
-![Seller management gif 2022 launch](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2022/outubro/2022-10-17-lancamentos-de-marketplace-vtex-em-2022_3.gif)
+![Seller management gif 2022 launch](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2022/outubro/2022-10-17-lancamentos-de-marketplace-vtex-em-2022_3.gif)
 
 Lançamos a experiência renovada da página [Gestão de Sellers](/pt/tutorial/gerenciamento-de-sellers-beta--6eEiOISwxuAWJ8w6MtK7iv), onde operadores de marketplace [adicionam sellers](/pt/tutorial/adicionar-seller-beta--6q4G4RNqVENr5YMJyindwL), registram suas respectivas informações e administram o status de cada seller. 
 
@@ -141,7 +141,7 @@ _Esta página segue o novo Design System da VTEX, com um visual mais limpo, mode
 
 ### Gerenciamento de anúncios
 
-![Offer Management gif](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2022/outubro/2022-10-17-lancamentos-de-marketplace-vtex-em-2022_4.gif)
+![Offer Management gif](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2022/outubro/2022-10-17-lancamentos-de-marketplace-vtex-em-2022_4.gif)
 
 A eficiência e atuação estratégica de um seller depende da sua visibilidade sobre o envio dos anúncios ao marketplace, além da identificação e correção de erros durante o envio. Para facilitar esse processo, lançamos a funcionalidade [Gerenciamento de anúncios](/pt/tutorial/gestao-de-anuncios--7MRb9S78aBdZjFGpbuffpE).
 

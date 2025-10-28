@@ -57,7 +57,7 @@ For calculating the performance, the system considers all packages for delivery.
 
 Carrier performance is presented as a percentage and is calculated by dividing the number of packages delivered on time by the total number of packages delivered. Thus, the performance calculation only takes into account the packages that have been delivered.
 
-![equation EN performance](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-shipping-network/vtex-shipping-network-dashboard_1.gif)
+![equation EN performance](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-shipping-network/vtex-shipping-network-dashboard_1.gif)
 
  The VTEX Shipping Network Performance tool allows you to:
 
@@ -93,4 +93,4 @@ You can download a report with data from the carriers and package deliveries. To
 2. Wait until you receive the spreadsheet by email.
 3.  Download the spreadsheet.
 
-![Resumo de performance EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-shipping-network/vtex-shipping-network-dashboard_2.png)
+![Resumo de performance EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/vtex-shipping-network/vtex-shipping-network-dashboard_2.png)

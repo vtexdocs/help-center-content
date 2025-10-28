@@ -43,7 +43,7 @@ Para saber qué configuraciones logísticas son necesarias y cómo realizarlas, 
 
 > ℹ️ Ten en cuenta que el proceso de envío dependerá de la configuración realizada en la plataforma. Aquí presentamos los escenarios para cada tipo de envío (entrega y recogida), pero hay otros flujos posibles en el proceso de envío. Por ejemplo, cuando se realiza el envío por recogida y el almacén coincide con el punto de recogida, no es necesario transportar los paquetes entre estos lugares.
 
-![Envio ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/visi%C3%B3n-general-de-la-log%C3%ADstica/fulfillment-logistica-vtex_1.svg)
+![Envio ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/visi%C3%B3n-general-de-la-log%C3%ADstica/fulfillment-logistica-vtex_1.svg)
 ## Configuración del proceso logístico
 
 El proceso logístico debe configurarse según las necesidades de tu tienda. Estas configuraciones se hacen en el módulo **Envío**. Mira las funcionalidades disponibles en el módulo y cómo afecta cada una de ellas a tu negocio:

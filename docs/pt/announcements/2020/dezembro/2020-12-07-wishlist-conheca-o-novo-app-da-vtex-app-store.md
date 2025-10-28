@@ -24,7 +24,7 @@ O aplicativo está disponível na [VTEX App Store](https://apps.vtex.com/) e pod
 - Inclusão de um ícone de coração ao lado de cada produto nas listas de produtos e nas páginas de detalhamento do produto;
 - Criação de uma página para a Lista de Desejos, onde o comprador consegue ver todos os itens e facilmente comprá-los.
 
-![Wishlist Printscreen](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2020/dezembro/2020-12-07-wishlist-conheca-o-novo-app-da-vtex-app-store_1.png)
+![Wishlist Printscreen](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2020/dezembro/2020-12-07-wishlist-conheca-o-novo-app-da-vtex-app-store_1.png)
 
 ## Quais os benefícios?
 - Torna a experiência de compra da sua loja mais completa;

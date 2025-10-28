@@ -29,7 +29,7 @@ Esto significa que, en estas plataformas externas, puedes configurar una URL par
 
 Para configurar tu webhook, ve a **Aplicaciones \> Mis Aplicaciones \> Canal de Whatsapp que deseas configurar \> Webhook \> Configurar Método, URL y Cabecera de la solicitud:**
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/configuracion-del-webhook-estado-del-envio-de-mensajes_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/configuracion-del-webhook-estado-del-envio-de-mensajes_1.png)
 
 Después de configurar el servicio de webhooks, podrás crear soluciones mediante código o aplicación externa según tu necesidad.
 
@@ -37,7 +37,7 @@ Después de configurar el servicio de webhooks, podrás crear soluciones mediant
 
 Los datos que los webhooks enviarán a tu servicio externo (URL) seguirán el formato Json:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/configuracion-del-webhook-estado-del-envio-de-mensajes_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/configuracion-del-webhook-estado-del-envio-de-mensajes_2.png)
 
 El parámetro ""status"" informará el estado del mensaje, si ha sido leído aparecerá como ""read"".
 

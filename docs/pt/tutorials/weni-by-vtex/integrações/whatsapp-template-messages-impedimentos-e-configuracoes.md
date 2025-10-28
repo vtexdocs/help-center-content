@@ -63,7 +63,7 @@ Os modelos podem ter os status a seguir.
 
 Você pode consultar o status de um modelo em **Gerenciador do WhatsApp** > **Visão geral**. Depois, passe o mouse sobre o ícone da mala (**Ferramentas de conta**) e clique em **Modelos de mensagem**. Caso você tenha mais de uma conta do WhatsApp Business, selecione a conta cujo status do modelo você quer consultar na lista de contas no menu suspenso do canto superior direito.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integra%C3%A7%C3%B5es/whatsapp-template-messages-impedimentos-e-configuracoes_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integra%C3%A7%C3%B5es/whatsapp-template-messages-impedimentos-e-configuracoes_1.png)
 
 #### **Como monitorar alterações de status**
 

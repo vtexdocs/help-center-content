@@ -28,7 +28,7 @@ En el Admin VTEX:
 1. Acceda al módulo **Storefront > Páginas**.
 2. Haga clic en la pestaña `Redirecciones`.
 
-![es-redirect-tab](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/p%C3%A1ginas/administrando-redireccionamientos-de-url-por-binding_1.png)
+![es-redirect-tab](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/p%C3%A1ginas/administrando-redireccionamientos-de-url-por-binding_1.png)
 
 ## Crear redirecciones manualmente
 
@@ -40,7 +40,7 @@ En la pestaña Redirecciones del módulo Páginas:
 4. Indique si la redirección será permanente o temporal. Si es temporal, puede activar el botón `Esta redirección tiene una fecha final` y definir la fecha final. 
 5. Guarde los cambios.
 
-![es-novoredirect](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/p%C3%A1ginas/administrando-redireccionamientos-de-url-por-binding_2.png)
+![es-novoredirect](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/p%C3%A1ginas/administrando-redireccionamientos-de-url-por-binding_2.png)
 
 ## Eliminar redirecciones manualmente
 
@@ -50,7 +50,7 @@ En la pestaña Redirecciones del módulo Páginas:
 2. Haga clic en el botón `Remover`.
 3. Confirme la acción. 
 
-![es-remover-redirect](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/p%C3%A1ginas/administrando-redireccionamientos-de-url-por-binding_3.png)
+![es-remover-redirect](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/p%C3%A1ginas/administrando-redireccionamientos-de-url-por-binding_3.png)
 
 > ⚠️ Puede ocurrir un error al intentar hacer clic en las redirecciones que tienen cadenas de query. El equipo de producto de VTEX está al tanto de este comportamiento inesperado y está trabajando en la corrección. Si no puede hacer clic en la redirección que desea eliminar, puede utilizar la hoja de cálculo para eliminarla mientras arreglamos el error.
 
@@ -77,7 +77,7 @@ En la pestaña Redirecciones del módulo Páginas:
 4. Haga clic en el botón `Importar`. 
 5. Haga clic en el botón `Guardar` o `Eliminar` según sea el caso. 
 
-  ![es-redirect-planilha](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/p%C3%A1ginas/administrando-redireccionamientos-de-url-por-binding_4.png)
+  ![es-redirect-planilha](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/p%C3%A1ginas/administrando-redireccionamientos-de-url-por-binding_4.png)
 
   > ⚠️ Al seleccionar la opción `Guardar`, creará todas las redirecciones enumeradas en la plantilla, mientras que seleccionar la opción `Eliminar` las eliminará todas de la base de datos de su tienda.
 

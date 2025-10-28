@@ -19,6 +19,6 @@ Después de identificar al cliente, el vendedor es llevado directamente al carri
 
 Si el vendedor está usando un tablet o smartphone, verá un botón de código de barras <i class="fas fa-barcode"></i> en la barra superior de la aplicación.
 
-![31. VTEX Sales App - Product Overview - 6 - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/omnichannel/instore-usando-el-app/lectura-de-codigo-de-barras_1.png)
+![31. VTEX Sales App - Product Overview - 6 - EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/omnichannel/instore-usando-el-app/lectura-de-codigo-de-barras_1.png)
 
 Al hacer clic en él, el vendedor puede usar la cámara para emitir leer un producto y, con eso, pasar automáticamente a la pantalla de detalles de ese producto.

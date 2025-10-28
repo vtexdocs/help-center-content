@@ -60,4 +60,4 @@ The surcharge is applied in accordance with the registration done on the seller.
 
 Scheduling of a surcharge occurs when it is created with an expiration date and time, beginning after the current one. Visually, it is possible to identify these surcharges on the home page of the Promotions & Taxes module by an orange strip in the upper right-hand corner of the surcharge card with the word ‘scheduled’. See below an example of how the surcharge card looks when scheduled.
 
-![agendamento.en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/taxes/creating-surchargestaxes_1.png)
+![agendamento.en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/taxes/creating-surchargestaxes_1.png)

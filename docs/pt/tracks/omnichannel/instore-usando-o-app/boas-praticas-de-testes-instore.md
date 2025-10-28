@@ -17,7 +17,7 @@ order: 3
 
 Após finalizar as configurações básicas e a instalação do aplicativo do VTEX Sales App em um dispositivo, é importante realizar testes antes de começar a utilizar o VTEX Sales App em suas lojas físicas. Neste artigo, você vai conhecer as boas práticas para testes de uso do VTEX Sales App.
 
-![testes-instore-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/instore-usando-o-app/boas-praticas-de-testes-instore_1.png)
+![testes-instore-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/instore-usando-o-app/boas-praticas-de-testes-instore_1.png)
 
 ## Testes de retaguarda
 

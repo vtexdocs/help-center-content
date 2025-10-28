@@ -32,9 +32,9 @@ To do this, do the following steps:
 
 1. Go to **settings**, find **Account type and tools**, tap **Switch to professional account**.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/how-to-create-a-channel-on-instagram_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/how-to-create-a-channel-on-instagram_1.png)
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/how-to-create-a-channel-on-instagram_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/how-to-create-a-channel-on-instagram_2.png)
 
 2. Choose the category that best represents your business and select Company.
 3. Done, your account is business now!
@@ -44,11 +44,11 @@ To do this, do the following steps:
 1. Go to **Settings**.
 2. Go to **Accounts Center** by clicking ""See more in Account Center""
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/how-to-create-a-channel-on-instagram_3.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/how-to-create-a-channel-on-instagram_3.png)
 
 3. Tap on **Profiles** > **Add Accounts** > **Add Facebook account** and either sign in to it or select the account you want to connect to.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/how-to-create-a-channel-on-instagram_4.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/how-to-create-a-channel-on-instagram_4.png)
 
 4. Tap Yes, complete the setup.
 5. Select whether to sync your profile picture. Then tap Continue.
@@ -85,15 +85,15 @@ After performing the settings indicated in the previous section we will now crea
 
 1. When you sign in to your account on our platform, go to the settings within your project.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/how-to-create-a-channel-on-instagram_5.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/how-to-create-a-channel-on-instagram_5.png)
 
 2. Navigate to Discovery. Now choose from the list of available channels the Instagram option.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/how-to-create-a-channel-on-instagram_6.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/how-to-create-a-channel-on-instagram_6.png)
 
 3. If you have already completed the previously presented configuration steps, click on Connect.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/how-to-create-a-channel-on-instagram_7.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/how-to-create-a-channel-on-instagram_7.png)
 
 4. You'll see that a new page will open, so you'll need to log in to Facebook (Use the same Facebook account you linked to your Instagram account in the previous section).
 5. After you sign in to Facebook, you'll see all Instagram accounts that are linked to your account, select the one you want to give permissions to manage on our platform (specifically the account you made the settings in the previous section) and click Next.
@@ -101,6 +101,6 @@ After performing the settings indicated in the previous section we will now crea
 7. Confirm that you want to continue and give the necessary permissions so that you can manage your Instagram account through our platform.
 8. After you're done, the Facebook page will close and the pages you selected in the previous steps will appear on your screen, click the page you linked to your Instagram account in the previous section.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/how-to-create-a-channel-on-instagram_8.gif)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/how-to-create-a-channel-on-instagram_8.gif)
 
 Done, your channel's been created!

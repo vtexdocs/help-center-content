@@ -31,13 +31,13 @@ Las diferencias entre el KIT y el KIT DE LOOK:
 
 Este término es muy conocido en el rubro de la Moda. Un Kit de look es un modo en el que se puede comprar varios productos visualizando solamente la pantalla de un solo producto.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/kit/como-montar-un-kit-de-look_1.gif)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/kit/como-montar-un-kit-de-look_1.gif)
 
 En el layout arriba se pueden seleccionar los ítems del kit de look que el cliente quisiera comprar y luego hacer clic en “Comprar Produtos Selecionados”.
 
 O si prefiere, puede comprar el kit de look completo manteniendo todos los ítems seleccionados.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/kit/como-montar-un-kit-de-look_2.gif)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/kit/como-montar-un-kit-de-look_2.gif)
 
 En este layout cada ítem tiene un botón de “Comprar Separadamente”.
 

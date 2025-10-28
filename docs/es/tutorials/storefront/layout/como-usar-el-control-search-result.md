@@ -44,14 +44,14 @@ A continuación se muestra la lista de todos los atributos del control Search Re
 
 El código renderizado por el control Search Result tiene, de forma predeterminada, la siguiente estructura:
 
-![searchResult1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/como-usar-el-control-search-result_1.jpg) 
+![searchResult1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/como-usar-el-control-search-result_1.jpg) 
 
 Y los elementos correspondientes que son renderizados por el control en su versión no personalizada siguen el patrón abajo:
 
-![searchResult2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/como-usar-el-control-search-result_2.jpg) 
+![searchResult2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/como-usar-el-control-search-result_2.jpg) 
 
-![searchResult3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/como-usar-el-control-search-result_3.jpg) 
+![searchResult3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/como-usar-el-control-search-result_3.jpg) 
 
-![searchResult4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/como-usar-el-control-search-result_4.jpg) 
+![searchResult4](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/como-usar-el-control-search-result_4.jpg) 
 
-![searchResult5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/como-usar-el-control-search-result_5.jpg)
+![searchResult5](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/como-usar-el-control-search-result_5.jpg)

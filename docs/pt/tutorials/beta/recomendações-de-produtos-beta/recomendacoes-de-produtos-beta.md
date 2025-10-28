@@ -19,7 +19,7 @@ subcategoryId: 6WyZwZfn89IsnNFNkTAi8d
 
 A funcionalidade de Recomendações de produtos permite que sua loja ofereça experiências personalizadas aos consumidores, sugerindo itens com base em diferentes estratégias de recomendação. Com ela, é possível exibir produtos relevantes ou complementares, impulsionar a taxa de conversão e elevar o ticket médio da sua operação.
 
-![produtos-similares-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/recomenda%C3%A7%C3%B5es-de-produtos-beta/recomendacoes-de-produtos-beta_1.png)
+![produtos-similares-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/recomenda%C3%A7%C3%B5es-de-produtos-beta/recomendacoes-de-produtos-beta_1.png)
 
 ## Pré-requisitos
 

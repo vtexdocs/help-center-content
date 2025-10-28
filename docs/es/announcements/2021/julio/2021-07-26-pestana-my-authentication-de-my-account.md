@@ -23,15 +23,15 @@ My Authentication es una pestaña que aparece en el panel de My Account dentro d
 
 En esta pestaña los usuarios podrán gestionar su contraseña. También es posible gestionar las sesiones de inicio de sesión, lo que permite al usuario cancelar otras sesiones de forma remota. Encontrará más detalles sobre el uso de la pestaña en la sección [Autenticación del artículo Configurar My Account](/es/tutorial/como-funciona-mi-cuenta--2BQ3GiqhqGJTXsWVuio3Xh).
 
-![My Authentication app ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2021/julio/2021-07-26-pestana-my-authentication-de-my-account_1.png)
+![My Authentication app ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2021/julio/2021-07-26-pestana-my-authentication-de-my-account_1.png)
 
-![My Authentication Session Management ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2021/julio/2021-07-26-pestana-my-authentication-de-my-account_2.png)
+![My Authentication Session Management ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2021/julio/2021-07-26-pestana-my-authentication-de-my-account_2.png)
 
 El 29 de septiembre también se eliminará el componente de gestión de contraseña del perfil de usuario para evitar duplicidades. Las siguientes imágenes muestran ejemplos de una página de perfil de usuario con y sin el componente de gestión de contraseña.
 
-![My Account with password ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2021/julio/2021-07-26-pestana-my-authentication-de-my-account_3.png)
+![My Account with password ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2021/julio/2021-07-26-pestana-my-authentication-de-my-account_3.png)
 
-![My Account no password ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2021/julio/2021-07-26-pestana-my-authentication-de-my-account_4.png)
+![My Account no password ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2021/julio/2021-07-26-pestana-my-authentication-de-my-account_4.png)
 
 ## ¿Por qué hicimos este cambio?
 
@@ -62,12 +62,12 @@ Para que la pestaña My Authentication sea visible públicamente en su tienda:
 1. En el panel lateral izquierdo del Admin, vaya a la sección **CONFIGURACIÓN DE LA CUENTA**.
 2. Haga clic en **Apps**.
 3. Haga clic en **Mis aplicaciones**.  
-![My apps menu ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2021/julio/2021-07-26-pestana-my-authentication-de-my-account_5.png)
+![My apps menu ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2021/julio/2021-07-26-pestana-my-authentication-de-my-account_5.png)
 4. Vaya a la app **My Account** y haga clic en `Configuración`.  
-![My apps installed ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2021/julio/2021-07-26-pestana-my-authentication-de-my-account_6.png)
+![My apps installed ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2021/julio/2021-07-26-pestana-my-authentication-de-my-account_6.png)
 5. En la sección **AUTHENTICATION** de la configuración de la app, marque la casilla `Visible`.
 6. Haga clic en `Guardar`.
-![My Authentication visible setting ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2021/julio/2021-07-26-pestana-my-authentication-de-my-account_7.png)
+![My Authentication visible setting ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2021/julio/2021-07-26-pestana-my-authentication-de-my-account_7.png)
 
 También puede acceder directamente a la configuración de la aplicación My Account en el Admin a través de una URL.
 
@@ -76,4 +76,4 @@ También puede acceder directamente a la configuración de la aplicación My Acc
 
 Tras habilitar la visibilidad de la pestaña **Autenticación**, esta aparecerá en el perfil de usuario de la tienda. Cualquier usuario puede acceder a ella desde el panel lateral izquierdo.
 
-![My Authentication app ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2021/julio/2021-07-26-pestana-my-authentication-de-my-account_8.png)
+![My Authentication app ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2021/julio/2021-07-26-pestana-my-authentication-de-my-account_8.png)

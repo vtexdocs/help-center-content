@@ -23,7 +23,7 @@ La funcionalidad de puntos de recogida del módulo Suscripciones solo está disp
 
 Anteriormente, las suscripciones no tenían puntos de recogida como una de las opciones de entrega. Con la nueva funcionalidad, el cliente final puede elegir los puntos de recogida de los ítems de un pedido de suscripción cuando realiza el _checkout_, como se ilustra en la siguiente imagen.
 
-![subscriptionspickup ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2021/mayo/2021-05-17-ofrezca-puntos-de-recogida-para-pedidos-de-suscripcion_1.gif)
+![subscriptionspickup ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2021/mayo/2021-05-17-ofrezca-puntos-de-recogida-para-pedidos-de-suscripcion_1.gif)
 
 Además, puede asignar puntos de recogida para las suscripciones nuevas y las suscripciones existentes a través de la [API de Subscriptions](https://developers.vtex.com/vtex-rest-api/reference/subscriptions-1).
 

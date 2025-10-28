@@ -19,13 +19,13 @@ VTEX Sales App's [endless aisle](/en/tracks/estrategias-de-comercio-unificado--3
 
 > ℹ️ This feature uses the browser's cache to optimize searches in scenarios with slow internet connections.
 
-![Barra busca - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/instore-using-the-app/unified-search_1.gif)
+![Barra busca - EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/instore-using-the-app/unified-search_1.gif)
 
 VTEX Sales App features a unified search, which means that, when searching for a product in the app, search results will include not only the local inventory (of the current physical store) but also inventories of other physical stores and distribution centers associated with the ecommerce operation.
 
 Search results are organized to improve customer experience, displaying images that facilitate product identification and providing relevant information for sales associates.
 
-![Busca unificada - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/instore-using-the-app/unified-search_2.png)
+![Busca unificada - EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/instore-using-the-app/unified-search_2.png)
 
 When you click the `Add to Cart` option, the following product information will be displayed:
 - Product variations, SKUs.
@@ -34,7 +34,7 @@ When you click the `Add to Cart` option, the following product information will 
 
 To add a product to the cart, select the desired variation, shipping option, and quantity, then click `Add to Cart`.
 
-![Carrinho - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/instore-using-the-app/unified-search_3.png)
+![Carrinho - EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/instore-using-the-app/unified-search_3.png)
 
 ## Filters
 

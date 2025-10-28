@@ -51,12 +51,12 @@ Para entender melhor o significado de cada campo do cadastro de categoria, veja 
 - __Pontuação (usada para ordenação da busca):__ valor utilizado para definir a prioridade na página de resultado de busca. Para entender mais sobre Score, acesse o nosso artigo [Como funciona o campo score](/pt/tutorial/como-funciona-o-campo-score--1BUZC0mBYEEIUgeQYAKcae).
 - __Modo de exibição dos produtos:__ define como os SKUs serão exibidos na página do produto. Veja abaixo as opções de preenchimento deste campo:
   - __Lista de SKUs:__ todos os SKUs do departamento ou categoria em questão serão exibidos no formato de lista. Cada um com seu botão Comprar do lado.
-  ![1Lista.pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/cat%C3%A1logo/categorias/cadastrar-uma-categoria_1.png)
+  ![1Lista.pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/cat%C3%A1logo/categorias/cadastrar-uma-categoria_1.png)
   - __Caixas de seleção (combo box):__ todos os SKUs do departamento ou categoria em questão precisarão ser selecionados através de caixas de seleção.
   - __Ícones com seleção radio (radio box):__ todos os SKUs do departamento ou categoria em questão precisarão ser selecionados através de seleção de radio.
-  ![RadioBox.pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/cat%C3%A1logo/categorias/cadastrar-uma-categoria_2.png)
+  ![RadioBox.pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/cat%C3%A1logo/categorias/cadastrar-uma-categoria_2.png)
   - __Segue a definição da especificação do SKU:__ todos os SKUs do departamento ou categoria em questão serão selecionados de acordo com a aba Especificação, no formulário de SKU. As opções pré-configuradas são Combo ou Radio.
-  ![Campos.pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/cat%C3%A1logo/categorias/cadastrar-uma-categoria_3.png)
+  ![Campos.pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/cat%C3%A1logo/categorias/cadastrar-uma-categoria_3.png)
 
 ### Saiba mais
 

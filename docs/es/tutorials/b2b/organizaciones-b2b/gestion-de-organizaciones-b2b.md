@@ -48,7 +48,7 @@ Los status son los siguientes:
 
 - **Inactivo:** la organización ha sido desactivada por los administradores de la tienda, por lo que sus usuarios no podrán iniciar sesión.
 
-![Status- ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/b2b/organizaciones-b2b/gestion-de-organizaciones-b2b_1.gif)
+![Status- ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/b2b/organizaciones-b2b/gestion-de-organizaciones-b2b_1.gif)
 
 ## Agregar una nueva organización 
 
@@ -72,7 +72,7 @@ Para agregar una nueva organización accede al Admin VTEX, Apps > Organizaciones
     - **Destinatario:** nombre de la persona que recibirá los pedidos en la dirección informada.
 4. Haz clic en el botón `Agregar`.
 
-![Adiconar organização- ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/b2b/organizaciones-b2b/gestion-de-organizaciones-b2b_2.gif)
+![Adiconar organização- ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/b2b/organizaciones-b2b/gestion-de-organizaciones-b2b_2.gif)
 
 ## Notificaciones por email
 

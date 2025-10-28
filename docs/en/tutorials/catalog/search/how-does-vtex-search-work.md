@@ -71,7 +71,7 @@ To understand VTEX search, we must first become familiar with the indexer and it
 
 The catalog indexer is a quick access scalable database, with configurable algorithms for result prioritization. It is positioned between conventional database and user. See the outline below:
 
-![database](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/search/how-does-vtex-search-work_1.JPG)
+![database](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/search/how-does-vtex-search-work_1.JPG)
 
 The indexer contains all the information referring to the product catalog (products, SKUs, brands, departments, categories). The search engine uses this information to locate products and to display these in shop windows and search results. However, __only already indexed products can be found by the search__.
 

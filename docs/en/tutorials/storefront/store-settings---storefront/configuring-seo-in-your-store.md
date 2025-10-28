@@ -35,7 +35,7 @@ In all VTEX IO stores, you can configure these parameters natively by following 
   - **Meta description tag**: Provide a brief description of the page's content. It should be informative and contain relevant keywords.
   - **Meta robots tag**: Specify how search engines should crawl and index a specific page. The default values are `index, follow`. For additional values compatible with Google, see the [list of valid rules](https://developers.google.com/search/docs/crawling-indexing/robots-meta-tag#directives). 
 
-  ![seo-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/store-settings---storefront/configuring-seo-in-your-store_1.png)
+  ![seo-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/store-settings---storefront/configuring-seo-in-your-store_1.png)
 
 ### Favicons
 
@@ -43,7 +43,7 @@ In all VTEX IO stores, you can configure these parameters natively by following 
 2. Click the **General** tab.
 3. Click **Add**.
 
-  ![favicon-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/store-settings---storefront/configuring-seo-in-your-store_2.png)
+  ![favicon-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/store-settings---storefront/configuring-seo-in-your-store_2.png)
 
 4. A new screen will open for completion based on the following guidelines:
 
@@ -54,7 +54,7 @@ In all VTEX IO stores, you can configure these parameters natively by following 
 
     See the example below:
 
-    ![relacao-favicon-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/store-settings---storefront/configuring-seo-in-your-store_3.png)
+    ![relacao-favicon-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/store-settings---storefront/configuring-seo-in-your-store_3.png)
 
 5. Click **Apply** to reflect the settings in your store. This process may take a few minutes.
 

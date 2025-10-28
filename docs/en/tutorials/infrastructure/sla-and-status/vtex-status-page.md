@@ -19,7 +19,7 @@ On the [VTEX Status](https://status.vtex.com/) page, you can monitor the platfor
 
 Our team reports events whenever our automatic monitoring system identifies an instability in the platform modules. Scheduled maintenance is also reported in detail on this page.
 
-![statuspage-1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/infrastructure/sla-and-status/vtex-status-page_1.png)
+![statuspage-1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/infrastructure/sla-and-status/vtex-status-page_1.png)
 
 Below, you can find details of the VTEX platform's status page elements, developed with the [incident.io](https://incident.io/) tool:
 
@@ -41,7 +41,7 @@ The status page displays the `Subscribe to updates` button in the top right corn
 
 By choosing the email subscription option, you can receive notifications only for certain components. To do so, select the **Subscribe to specific components** option. Then, check the components you want to monitor.
 
-![statuspage-2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/infrastructure/sla-and-status/vtex-status-page_2.png)
+![statuspage-2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/infrastructure/sla-and-status/vtex-status-page_2.png)
 
 ## General status
 
@@ -49,23 +49,23 @@ In this section, you can view the platform's general status, which can be _fully
 
 When problems or maintenance affect a system, the impacted component and the incident description are displayed. See examples below.
 
-![statuspage-3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/infrastructure/sla-and-status/vtex-status-page_3.png)
+![statuspage-3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/infrastructure/sla-and-status/vtex-status-page_3.png)
 
-![statuspage-4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/infrastructure/sla-and-status/vtex-status-page_4.png)
+![statuspage-4](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/infrastructure/sla-and-status/vtex-status-page_4.png)
 
-![statuspage-5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/infrastructure/sla-and-status/vtex-status-page_5.png)
+![statuspage-5](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/infrastructure/sla-and-status/vtex-status-page_5.png)
 
 ## System status
 
 In this section, you can check the status of each platform system and its components in real time.
 
-![statuspage-6](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/infrastructure/sla-and-status/vtex-status-page_6.png)
+![statuspage-6](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/infrastructure/sla-and-status/vtex-status-page_6.png)
 
 By clicking the arrow <i class="fas fa-chevron-down"></i> next to the number of components, you can view the status of specific components for each system.
 
 If maintenance is scheduled for a future date, you will also see the `Upcoming maintenance scheduled` button, as shown below. Hovering over this button will display the scheduled maintenance event. You can click to view its log.
 
-![statuspage-7](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/infrastructure/sla-and-status/vtex-status-page_7.png)
+![statuspage-7](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/infrastructure/sla-and-status/vtex-status-page_7.png)
 
 The possible statuses for each component are:
 
@@ -123,7 +123,7 @@ To navigate to previous months, click the arrow `<`.
 
 To view incidents from a specific day, hover over the date. To access the page with the complete event log, click the listed incident or maintenance.
 
-![statuspage-8](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/infrastructure/sla-and-status/vtex-status-page_8.png)
+![statuspage-8](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/infrastructure/sla-and-status/vtex-status-page_8.png)
 
 > ⚠️ If the scheduled maintenance lasts longer than a day, only the start date will be selected in the calendar. You must open the [ maintenance log](#scheduled-maintenance-logs) to see the start and end dates.
 
@@ -133,7 +133,7 @@ Below, we detail the information available in the [incident log](#incident-logs)
 
 The incident details page displays the following information:
 
-![status-page-9-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/infrastructure/sla-and-status/vtex-status-page_9.png)
+![status-page-9-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/infrastructure/sla-and-status/vtex-status-page_9.png)
 
 * **Title:** Title describing the incident.
 * **Status:** Each incident has a defined cycle in which our team works to identify and solve problems. These are stages of this cycle:
@@ -162,6 +162,6 @@ The scheduled maintenance log displays the same information as the incident logs
 
 Below are some examples illustrating the status and timeline of scheduled maintenance events.
 
-![statuspage-10](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/infrastructure/sla-and-status/vtex-status-page_10.png)
+![statuspage-10](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/infrastructure/sla-and-status/vtex-status-page_10.png)
 
-![statuspage-11](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/infrastructure/sla-and-status/vtex-status-page_11.png)
+![statuspage-11](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/infrastructure/sla-and-status/vtex-status-page_11.png)

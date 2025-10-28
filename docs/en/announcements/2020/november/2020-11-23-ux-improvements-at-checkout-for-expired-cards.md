@@ -23,7 +23,7 @@ To continue enhancing this experience, we have included additional validation in
 
 Previously, customers could select an expired card, proceed with a purchase, and then the payment would be declined. We now flag expired cards and prevent them from being chosen at checkout, in order to offer a smoother shopping experience.
 
-![EN - Expired Cards](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2020/november/2020-11-23-ux-improvements-at-checkout-for-expired-cards_1.png)
+![EN - Expired Cards](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2020/november/2020-11-23-ux-improvements-at-checkout-for-expired-cards_1.png)
 
 ## Why did we make this change?
 

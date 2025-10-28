@@ -23,15 +23,15 @@ The My Authentication section is available on all VTEX accounts, and you can fin
 
 In this section, all users can manage their password and login sessions, allowing them to sign out other sessions remotely. For more details on using My Authentication, see the [Authentication section on the article Setting up My account](/en/tutorial/how-does-my-account-work--2BQ3GiqhqGJTXsWVuio3Xh).
 
-![My Authentication app EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2021/july/2021-07-26-my-authentication-section-in-my-account_1.png)
+![My Authentication app EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2021/july/2021-07-26-my-authentication-section-in-my-account_1.png)
 
-![My Authentication Session Management EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2021/july/2021-07-26-my-authentication-section-in-my-account_2.png)
+![My Authentication Session Management EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2021/july/2021-07-26-my-authentication-section-in-my-account_2.png)
 
 On September 29, the component for managing passwords will also be removed from the user profile page to prevent duplication issues. The images below show examples of a user profile page with and without the password management component.
 
-![My Account with password EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2021/july/2021-07-26-my-authentication-section-in-my-account_3.png)
+![My Account with password EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2021/july/2021-07-26-my-authentication-section-in-my-account_3.png)
 
-![My Account no password EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2021/july/2021-07-26-my-authentication-section-in-my-account_4.png)
+![My Account no password EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2021/july/2021-07-26-my-authentication-section-in-my-account_4.png)
 
 ## Why did we make this change?
 
@@ -62,12 +62,12 @@ To make the My authentication section visible for your customers, follow the ste
 1. On the left side menu in the Admin, go to **ACCOUNT SETTINGS**.
 2. Click on **Apps**.
 3. Click on **My apps**.  
-![My apps menu EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2021/july/2021-07-26-my-authentication-section-in-my-account_5.png)
+![My apps menu EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2021/july/2021-07-26-my-authentication-section-in-my-account_5.png)
 4. Go to the **My Account** app and click on `Settings`.  
-![My apps installed EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2021/july/2021-07-26-my-authentication-section-in-my-account_6.png)
+![My apps installed EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2021/july/2021-07-26-my-authentication-section-in-my-account_6.png)
 5. In the **AUTHENTICATION** field, check the `Visible` box.
 6. Click on `Save`.  
-![My Authentication visible setting EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2021/july/2021-07-26-my-authentication-section-in-my-account_7.png)
+![My Authentication visible setting EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2021/july/2021-07-26-my-authentication-section-in-my-account_7.png)
 
 You can also directly access the My Account app settings via URL.
 
@@ -76,4 +76,4 @@ You can also directly access the My Account app settings via URL.
 
 After enabling the **Authentication** section, it will be displayed for your customers in their user profiles in your store, and they can access it using the left side menu on the My Account page.
 
-![My Authentication visible setting EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2021/july/2021-07-26-my-authentication-section-in-my-account_8.png)
+![My Authentication visible setting EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2021/july/2021-07-26-my-authentication-section-in-my-account_8.png)

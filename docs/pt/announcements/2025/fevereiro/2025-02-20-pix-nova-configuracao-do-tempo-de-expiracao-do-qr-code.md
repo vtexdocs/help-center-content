@@ -21,7 +21,7 @@ Visando aprimorar as operações de pagamento realizadas na plataforma, a VTEX i
 
 Atualmente, o QR Code Pix permanece disponível na tela para o usuário por 10 minutos e o prazo máximo para o pagamento é de 15 minutos. Após este período, o pedido é cancelado e uma nova compra deve ser realizada.
 
-![PIX QR Code](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2025/fevereiro/2025-02-20-pix-nova-configuracao-do-tempo-de-expiracao-do-qr-code_1.png)
+![PIX QR Code](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2025/fevereiro/2025-02-20-pix-nova-configuracao-do-tempo-de-expiracao-do-qr-code_1.png)
 
 A partir de __26 de março de 2025__, o tempo de validade de um QR Code Pix poderá ser configurado para um período entre 15 e 60 minutos, permitindo que os clientes tenham maior flexibilidade no momento do pagamento.
 

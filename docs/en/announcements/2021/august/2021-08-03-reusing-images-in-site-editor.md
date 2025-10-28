@@ -17,7 +17,7 @@ announcementSynopsisEN: 'We have improved blocks with the native option to uploa
 
 We have improved the way you manage your images in [Site Editor](/en/subcategory/site-editor--9Arh3cJIOYlfSD1MUC2h3) through an Image Widget, a centralized image repository that allows you to upload and reuse your store’s images. 
 
-![gif-image-widget-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2021/august/2021-08-03-reusing-images-in-site-editor_1.gif)
+![gif-image-widget-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2021/august/2021-08-03-reusing-images-in-site-editor_1.gif)
 
 <div style="background-color:#cfe2ff; border-left: 2px solid #084298; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 16px">
   Image Widget is available in Open Beta for VTEX IO users.

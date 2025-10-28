@@ -37,4 +37,4 @@ This update gives you more power over your promotions' behavior. The new buttons
 6. Tick the box next to **Use recurrence settings**
 7. Set the desired days and schedule for that promotion 
 
-![CRON 2 EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2019/august/2019-08-12-update-grants-in-the-promotions-module_1.png)
+![CRON 2 EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2019/august/2019-08-12-update-grants-in-the-promotions-module_1.png)

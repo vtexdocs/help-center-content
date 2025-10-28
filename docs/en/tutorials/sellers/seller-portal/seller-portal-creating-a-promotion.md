@@ -22,7 +22,7 @@ To create a new promotion as a seller in the Seller Portal, follow the steps bel
 3. Complete the [Promotion fields](#promotion-fields).
 4. Click `Save`.
 5. Review your promotion configuration before publishing it.
-![seller-portal-promo-revisao-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/sellers/seller-portal/seller-portal-creating-a-promotion_1.png)
+![seller-portal-promo-revisao-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/sellers/seller-portal/seller-portal-creating-a-promotion_1.png)
 6. After reviewing the details, click `Confirm`.
 
 Then, the promotion will be activated and applied to your store.
@@ -35,7 +35,7 @@ Then, the promotion will be activated and applied to your store.
 
 In this section, you need to configure your promotion's general information.
 
-![seller-portal-promo-geral-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/sellers/seller-portal/seller-portal-creating-a-promotion_2.png)
+![seller-portal-promo-geral-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/sellers/seller-portal/seller-portal-creating-a-promotion_2.png)
 
 * **Name:** Promotion name.
 * **Status:** Option that defines whether the promotion is active <i class="fas-toggle-on"></i> or inactive <i class="fas-toggle-off"></i>.
@@ -49,7 +49,7 @@ In this section, you need to configure your promotion's general information.
 
 Section that defines the discount type and amount that will be applied in the promotion. See the discount options below:
 
-![seller-portal-promo-tipo-desconto-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/sellers/seller-portal/seller-portal-creating-a-promotion_3.png)
+![seller-portal-promo-tipo-desconto-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/sellers/seller-portal/seller-portal-creating-a-promotion_3.png)
 
 #### Price
 
@@ -66,7 +66,7 @@ Section that defines the discount type and amount that will be applied in the pr
 
 In this section, you need to choose whether the promotion will apply to all your store products or only specific products, as in the image below.
 
-![seller-portal-promo-produtos-elegiveis-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/sellers/seller-portal/seller-portal-creating-a-promotion_4.png)
+![seller-portal-promo-produtos-elegiveis-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/sellers/seller-portal/seller-portal-creating-a-promotion_4.png)
 
 * **All products:** Applies the promotion to your whole catalog.
 * **Products that meet all the following rules:** Limits your promotion to specific products based on the following rules:
@@ -84,7 +84,7 @@ To remove a rule, click <i class="fas-trash-can"></i> `Remove rule`.
 
 The order must meet all the conditions specified in this section for the promotion to apply.
 
-![seller-portal-promo-condicoes-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/sellers/seller-portal/seller-portal-creating-a-promotion_5.png)
+![seller-portal-promo-condicoes-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/sellers/seller-portal/seller-portal-creating-a-promotion_5.png)
 
 * **Item price:** The discount will apply only to items within the specified price range.
 * **Shipping method:** The discount will apply only if the customer selects the same shipping method specified in the promotion.
@@ -95,6 +95,6 @@ The order must meet all the conditions specified in this section for the promoti
 
 The promotion will be limited by the following criteria:
 
-![seller-portal-promo-restricoes-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/sellers/seller-portal/seller-portal-creating-a-promotion_6.png)
+![seller-portal-promo-restricoes-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/sellers/seller-portal/seller-portal-creating-a-promotion_6.png)
 
 * **Limit the number of eligible items per cart:** Defines the maximum number of items in the cart that will be affected by the promotion. If the cart has more items than the limit, the discount will only be applied to the number of items configured in this field.

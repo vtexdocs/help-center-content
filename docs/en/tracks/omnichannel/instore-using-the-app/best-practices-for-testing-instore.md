@@ -18,7 +18,7 @@ order: 3
 
 After configuring the basic settings and installing VTEX Sales App on a device, it is important to run tests before you start using the app in your physical stores. In this article, you will learn about best practices for testing VTEX Sales App.
 
-![testes-instore-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/instore-using-the-app/best-practices-for-testing-instore_1.png)
+![testes-instore-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/instore-using-the-app/best-practices-for-testing-instore_1.png)
 
 ## Technical testing
 

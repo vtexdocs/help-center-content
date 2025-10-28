@@ -20,7 +20,7 @@ subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 - If the product already exists on Amazon, follow the instructions in the [Amazon Offer Matching tutorial](/en/tutorial/match-de-anuncios-amazon--7fRfoP69kYgg8znImMhyQ0) to link your product to an Amazon offer.
 - If the product doesn't exist on Amazon yet, follow the steps in this tutorial to add the product and create a new offer.
 
-![overview-listing-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/integrations/integration-settings/amazon-listing_1.gif)
+![overview-listing-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/integrations/integration-settings/amazon-listing_1.gif)
 
 > ℹ️ All products must have [Inventory](/en/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb) and [Price](/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP) configured before being sent to the marketplace.
 
@@ -38,9 +38,9 @@ The page consists of the following sections:
 
 In the search bar, you can search SKUs by **name** or **SKU ID.** See some examples below.
 
-![Filter name listing](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/integrations/integration-settings/amazon-listing_2.jpg)
+![Filter name listing](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/integrations/integration-settings/amazon-listing_2.jpg)
 
-![SKU search listing](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/integrations/integration-settings/amazon-listing_3.jpg)
+![SKU search listing](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/integrations/integration-settings/amazon-listing_3.jpg)
 
 ### Filters
 

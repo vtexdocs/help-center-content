@@ -64,19 +64,19 @@ High-risk alerts indicate that critical configurations or registration errors mu
 
 Example:
 
-![alert-alto-risco-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/promotion-summary_1.png)
+![alert-alto-risco-EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/promotion-summary_1.png)
 
 ### Medium risk
 Medium-risk alerts indicate that there are configurations that may cause undesired effects on the promotion.
 
 Example:
 
-![alert-medio-risco-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/promotion-summary_2.png)
+![alert-medio-risco-EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/promotion-summary_2.png)
 
 ### Low risk
 Low-risk alerts present relevant information about the promotion configuration, which can contribute to better performance.
 
 Example:
 
-![alert-baixo-risco-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/promotion-summary_3.png)
+![alert-baixo-risco-EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/promotion-summary_3.png)
 

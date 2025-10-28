@@ -19,7 +19,7 @@ O [Mercado Livre](https://www.mercadolivre.com.br/) é um dos líderes do e-comm
 
 Sua operação está presente nos países: Argentina, Brasil, Chile, Colômbia,  México, Uruguai e Venezuela.
 
-![mercado-livre-reproducao-w-970x550](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/marketplace/configurar-integracao-do-mercado-livre/mercado-livre-marketplace_1.jpg)
+![mercado-livre-reproducao-w-970x550](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/marketplace/configurar-integracao-do-mercado-livre/mercado-livre-marketplace_1.jpg)
 
 O marketplace do Mercado Livre oferece um ambiente de negociação on-line totalmente automatizado, organizado por tópicos e fácil de usar. Esse serviço oferece aos compradores uma grande variedade de itens novos e usados, permitindo que empresas e indivíduos anunciem itens e realizem suas vendas e compras no maior mercado da América Latina.
 

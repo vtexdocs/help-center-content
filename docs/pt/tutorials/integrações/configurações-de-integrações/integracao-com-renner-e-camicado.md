@@ -119,6 +119,6 @@ Alguns dos dados a serem enviados são encontrados no seu Admin, são eles:
 
 Uma vez que você tenha reunido esses dados, você deverá enviá-los para o contato informado pela Renner ou pela Camicado, e a integração será concluída pelo parceiro. Vale ressaltar que o processo de _onboarding_ com conectores certificados é responsabilidade dos próprios parceiros.
 
-> ℹ️ A Camicado disponibiliza documentação sobre a integração. Para consultá-la, faça o download do [Tutorial de Auxílio ao parceiro.pdf](https://raw.githubusercontent.com/vtexdocs/help-center-content/files-migration-script/docs/pt/tutorials/integrações/configurações-de-integrações/Tutorial_de_Aux_lio_ao_parceiro.pdf).  
+> ℹ️ A Camicado disponibiliza documentação sobre a integração. Para consultá-la, faça o download do [Tutorial de Auxílio ao parceiro.pdf](https://cdn.statically.io/gh/vtexdocs/help-center-content/files-migration-script/docs/pt/tutorials/integrações/configurações-de-integrações/Tutorial_de_Aux_lio_ao_parceiro.pdf).  
 
 Caso você tenha dúvidas sobre a integração com a Renner, você pode utilizar o [formulário de suporte Renner](https://atendimento.lojasrenner.com.br/hc/pt-br/requests/new?ticket_form_id=360004738294). Se as dúvidas forem relativas à Camicado, entre em contato pelo email _suporte_marketplace@camicado.com.br_.

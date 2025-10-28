@@ -20,7 +20,7 @@ Media is a feature responsible for managing your store's media files, such as im
 
 > ⚠️ For upload, files must have a lowercase extension (e.g., `store.png`) and be up to **5 MB**.
 
-![Media Overview](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/headless-cms/media-overview_1.png)
+![Media Overview](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/headless-cms/media-overview_1.png)
 
 In addition, Media is integrated with **Site Editor** and **Headless CMS**. This integration allows you to access and manage Media directly through VTEX CMS solutions.
 
@@ -42,7 +42,7 @@ There are three ways to access Media:
 
 In the following image, you can see an overview of the Media interface and the actions available for managing your media files:
 
-![Media Features](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/headless-cms/media-overview_2.png)
+![Media Features](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/headless-cms/media-overview_2.png)
 
 | Field | Description |
 | ---------- | ------------- |

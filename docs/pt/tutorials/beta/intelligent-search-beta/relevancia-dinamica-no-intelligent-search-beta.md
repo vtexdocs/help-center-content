@@ -36,7 +36,7 @@ A relevância manual é configurada pela distribuição dos pesos realizada na p
 
 1. No Admin VTEX, acesse **Storefront > Intelligent Search >** **Regras de relevância**  ou digite **Regras de relevância** na barra de busca no topo da página.
 2. Selecione a opção **Relevância manual**.
-![relevancia-manual-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/intelligent-search-beta/relevancia-dinamica-no-intelligent-search-beta_1.png)
+![relevancia-manual-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/intelligent-search-beta/relevancia-dinamica-no-intelligent-search-beta_1.png)
 3. Clique em `Salvar`.
 
 Para configurar a relevância manual, confira o artigo [Relevância](/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1qlObWIib6KqgrfX1FCOXS).
@@ -54,7 +54,7 @@ Para ativar a relevância dinâmica, siga os seguintes passos:
 1. No Admin VTEX, acesse **Storefront > Intelligent Search > Regras de relevância**  ou digite **Regras de relevância** na barra de busca no topo da página.
 2. Leia as informações sobre a Relevância Dinâmicas e clique em `Próximo`.
 3. Selecione a opção **Relevância Dinâmica**.
-![relevancia-dinamica-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/intelligent-search-beta/relevancia-dinamica-no-intelligent-search-beta_2.png)
+![relevancia-dinamica-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/intelligent-search-beta/relevancia-dinamica-no-intelligent-search-beta_2.png)
 4. Clique em `Salvar`.
 5. Aguarde a barra de carregamento atingir 100%. Esse processo pode demorar algumas horas. Você receberá um email notificando que o carregamento foi finalizado.
 6. Clique em `Ativar`.

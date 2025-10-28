@@ -85,23 +85,23 @@ La selección de productos vía Admin VTEX se puede realizar a través de la lis
 
 Hay una variedad de filtros que se pueden seleccionar para reducir la cantidad de productos que se muestran en la lista. 
 
-![Colecciones - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/colecciones/registrar-colecciones-beta_1.PNG)
+![Colecciones - ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/colecciones/registrar-colecciones-beta_1.PNG)
 
 Usted puede crear nuevos filtros a partir de otros criterios que no se incluyen en los filtros predeterminados. Las siguientes imágenes muestran algunas opciones:
 
-![Novo filtro - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/colecciones/registrar-colecciones-beta_2.PNG)
+![Novo filtro - ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/colecciones/registrar-colecciones-beta_2.PNG)
 
-![Filtro Colecao detalhes - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/colecciones/registrar-colecciones-beta_3.PNG)
+![Filtro Colecao detalhes - ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/colecciones/registrar-colecciones-beta_3.PNG)
 
 Para agregar un producto a la colección, solo haga clic en el ícono <i class="fas fa-plus-circle" title = "símbolo de agregar en círculo"></i> del producto. De esa forma, se guardará en la colección automáticamente.  
 
 Si desea más información sobre el ítem, haga clic en el ícono <i class="fas fa-external-link-alt" title = "enlace externo"></i> para abrir la página del producto, o haga clic en la imagen para verla de forma ampliada. 
 
-![ES-colecao-adicionar](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/colecciones/registrar-colecciones-beta_4.gif)
+![ES-colecao-adicionar](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/colecciones/registrar-colecciones-beta_4.gif)
 
 Si desea incluir productos de forma masiva, aplique uno de los filtros y haga clic en el botón `Agregar Todo`. Es importante destacar que el producto debe tener al menos un SKU registrado para ser incluido en una colección.
 
-![ES-colecao-adicionar-todos](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/colecciones/registrar-colecciones-beta_5.png)
+![ES-colecao-adicionar-todos](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/colecciones/registrar-colecciones-beta_5.png)
 
 > ❗ No agregue de forma masiva una cantidad superior a 150 mil productos. Eso puede comprometer la indexación del catálogo y el funcionamiento de la tienda.
 
@@ -116,7 +116,7 @@ Para eso, realice los siguientes pasos:
   2. Haga clic en la opción **Incluir productos a la colección**, y luego en el botón `Importar`.
   3. Haga clic en `Descargar la plantilla` para obtener la plantilla correcta como se muestra aquí:
 
-![colecao-planilha -ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/colecciones/registrar-colecciones-beta_6.png)
+![colecao-planilha -ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/colecciones/registrar-colecciones-beta_6.png)
 
   4. Complete la plantilla con los IDs o los RefIDs de los productos o de los SKUs. Solo agregue un ID en cada fila. Independientemente del ID que ingrese, todos los SKUs del producto seleccionado se añadirán a la colección después de la importación.
   5. Después de completar la plantilla, guarde las modificaciones e importe el documento en el Admin. Usted puede arrastrar y soltar el archivo en el área indicada o hacer clic en **Selecciona un archivo**. Se aceptan archivos en formato CSV o XML. En caso de que utilice un arquivo CSV, use , para delimitar los campos.
@@ -132,11 +132,11 @@ Los productos se pueden eliminar mediante la selección de los ítems en la list
 
 Para eliminar un ítem de la colección, solo debe hacer clic en el ícono <i class="fas fa-check-circle" title = "check en círculo"></i> del producto. 
 
-![ES-colecao-remover](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/colecciones/registrar-colecciones-beta_7.gif)
+![ES-colecao-remover](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/colecciones/registrar-colecciones-beta_7.gif)
 
 Si desea eliminar productos de forma masiva, aplique uno de los filtros y haga clic en el botón `Eliminar Todo`.
 
-![ES-colecao-remover-todos](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/colecciones/registrar-colecciones-beta_8.png)
+![ES-colecao-remover-todos](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/colecciones/registrar-colecciones-beta_8.png)
 
 También puede hacer clic en el botón <i class="far fa-check-circle" title = "produtos nesta coleção"></i> (Productos nen esta colección) en la barra superior y después seleccionar `Eliminar Todo`. 
 
@@ -165,7 +165,7 @@ Para alterar el orden de su colección, siga estos pasos:
 
   b. Seleccione la caja de los productos que desea alterar y haga clic en `Mover a la posición`. Indique el número de la nueva posición y, para finalizar, haga clic en `Mover`. De esta manera, puede ordenar todos los ítems de la lista de forma masiva. 
 
-![mover-colecao-ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/colecciones/registrar-colecciones-beta_9.png)
+![mover-colecao-ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/colecciones/registrar-colecciones-beta_9.png)
 
 ### Exportar la plantilla de la colección
 

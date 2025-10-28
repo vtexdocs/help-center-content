@@ -33,7 +33,7 @@ No Admin, você tem flexibilidade para personalizar a tipografia da sua loja de 
 
 5. No campo **Família de fontes**, crie um nome para a fonte.
 
-    ![familia-de-fontes-giff-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/estilos/personalizando-a-tipografia-da-sua-loja_1.gif)
+    ![familia-de-fontes-giff-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/estilos/personalizando-a-tipografia-da-sua-loja_1.gif)
 
 6. Clique em **Enviar** para fazer o upload do arquivo da fonte desejada.
 
@@ -67,7 +67,7 @@ Siga as instruções a seguir para configurar tokens de tipo:
 
 3. Clique em **Editar > Tipografia > Tokens de tipo**.
 
-    ![tokens-tipo-giff-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/estilos/personalizando-a-tipografia-da-sua-loja_2.gif)
+    ![tokens-tipo-giff-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/estilos/personalizando-a-tipografia-da-sua-loja_2.gif)
 
 4. Escolha o token que você deseja personalizar como, por exemplo, **Heading 1** (Cabeçalho 1), e clique nele.
 

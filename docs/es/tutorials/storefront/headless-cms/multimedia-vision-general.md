@@ -20,7 +20,7 @@ En la página Multimedia puedes gestionar los archivos multimedia de tu tienda, 
 
 > ⚠️ Para cargar, los archivos deben tener una extensión en minúsculas, por ejemplo, `store.png`, y el límite de tamaño de archivo para cargar en Multimedia es de **5 MB**.
 
-![Multimedia Visión general](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/headless-cms/multimedia-vision-general_1.png)
+![Multimedia Visión general](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/headless-cms/multimedia-vision-general_1.png)
 
 demás, Multimedia está integrada con **Site Editor** y **Headless CMS**. Esta integración te permite acceder y gestionar archivos multimedia directamente a través de las soluciones de CMS de VTEX.
 
@@ -42,7 +42,7 @@ Hay tres formas de acceder al módulo Multimedia:
 
 En la siguiente imagen se muestra una visión general de la interfaz de Multimedia y las acciones disponibles para gestionar tus archivos multimedia:
 
-![Multimedia Features](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/headless-cms/multimedia-vision-general_2.png)
+![Multimedia Features](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/headless-cms/multimedia-vision-general_2.png)
 
 | Campo | Descripción |
 | ---------- | ------------- |

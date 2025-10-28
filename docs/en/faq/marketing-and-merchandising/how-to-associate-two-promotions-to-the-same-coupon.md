@@ -31,7 +31,7 @@ Check below how to perform this process:
 4. Proceed to the __What are the conditions for the benefit to be valid?__ section.
 5. Enter the coupon code in __utm_source__.
 
-  ![Sincronizar promoções no mesmo cupom - 1 - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/marketing-and-merchandising/how-to-associate-two-promotions-to-the-same-coupon_1.png)
+  ![Sincronizar promoções no mesmo cupom - 1 - EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/marketing-and-merchandising/how-to-associate-two-promotions-to-the-same-coupon_1.png)
 
 6. Click 'Create coupon from UTMs above'.
 7. Click 'Save'.
@@ -39,6 +39,6 @@ Check below how to perform this process:
 9. Repeat the process with the second regular promotion.
 10. In the end, both promotions must present the same UTM.
 
-  ![Sincronizar promoções no mesmo cupom - 2 - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/marketing-and-merchandising/how-to-associate-two-promotions-to-the-same-coupon_2.png)
+  ![Sincronizar promoções no mesmo cupom - 2 - EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/marketing-and-merchandising/how-to-associate-two-promotions-to-the-same-coupon_2.png)
 
 With this, the customer can get a full discount of both values before closing the purchase.

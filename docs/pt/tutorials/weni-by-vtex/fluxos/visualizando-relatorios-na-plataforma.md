@@ -21,7 +21,7 @@ Depois de construirmos e rodarmos nossos fluxos, o nosso próximo anseio sem som
 
 Para acessar os resultados de fluxo basta abrir o fluxo em questão, clicar no menu hambúrguer ao lado do botão _**Disparar**_ _**fluxo**_ e selecionar a opção **_Resultados_**
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/visualizando-relatorios-na-plataforma_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/visualizando-relatorios-na-plataforma_1.png)
 
 Na aba de _**Resultados**_ temos duas opções de relatórios:
 
@@ -29,20 +29,20 @@ Na aba de _**Resultados**_ temos duas opções de relatórios:
 
 A aba de visão global permite que tenhamos uma visão geral dos usuários que passaram pelo fluxo.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/visualizando-relatorios-na-plataforma_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/visualizando-relatorios-na-plataforma_2.png)
 
   2. **Execuções (runs)**
 
 A aba de ""Runs"" oferece acesso a todos os dados brutos, que podem ser exportados e utilizados em outras aplicações para validação de informações. Na aba ""Execuções"", você pode optar por visualizar todos os dados ou apenas os contatos que responderam. Os resultados salvos nos cartões são exibidos em colunas.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/visualizando-relatorios-na-plataforma_3.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/visualizando-relatorios-na-plataforma_3.png)
 
 A exportação de resultados irá incluir nome, URN do contato, data de início e de término das interações no fluxo, mensagens que o contato enviou e outras informações coletadas no fluxo.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/visualizando-relatorios-na-plataforma_4.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/visualizando-relatorios-na-plataforma_4.png)
 
 A exportação é em formato de planilha XLSX e é enviada diretamente para o email do usuário que fez a exportação.
 
 Antes de exportar, você pode selecionar as opções Grupos, Campos de Contato (Fields) e URNs. Se você marcar a opção ""Somente respondidos"", a exportação será limitada apenas aos contatos que enviaram alguma resposta no fluxo que está sendo exportado.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/visualizando-relatorios-na-plataforma_5.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/visualizando-relatorios-na-plataforma_5.png)

@@ -25,7 +25,7 @@ La primera caja con tiempo total de __2 días__ esperará el item representado p
 
 El período considera T = 0 como la fecha del pedido.
 
-![Configuração em estoque e entrega ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/configuraci%C3%B3n-de-inventario-y-env%C3%ADo/configurar-grupos-de-envio_1.png)
+![Configuração em estoque e entrega ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/configuraci%C3%B3n-de-inventario-y-env%C3%ADo/configurar-grupos-de-envio_1.png)
 
 ## Cómo configurar el envío en grupo
 

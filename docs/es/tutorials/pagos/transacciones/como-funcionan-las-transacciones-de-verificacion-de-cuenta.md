@@ -21,6 +21,6 @@ Esta transacción se realiza por $1.50 y se puede identificar por la presencia d
 
 Consulta a continuación un ejemplo de una transacción de verificación de cuenta, disponible en la página de transacciones del Admin VTEX, en __Pedidos > Transacciones__:
 
-![Transação av es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/transacciones/como-funcionan-las-transacciones-de-verificacion-de-cuenta_1.png)
+![Transação av es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/transacciones/como-funcionan-las-transacciones-de-verificacion-de-cuenta_1.png)
 
 > ⚠️ Una vez que la institución financiera o el emisor de la tarjeta valida los datos de la tarjeta, la transacción de pago se cancela automáticamente y se reembolsa el valor de $1.50, sin generar cargos al cliente.

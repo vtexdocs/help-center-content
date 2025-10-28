@@ -25,7 +25,7 @@ La solución combina dos funcionalidades y aplicaciones móviles:
 - [Last Mile](/es/tutorial/vtex-pick-and-pack-last-mile--HN7WKV0xoq2ssVjsJlfzr): control de la entrega last-mile.
 - **Aplicaciones móviles:** aplicaciones para entregadores y conductores.
 
-![pick_pack_gif_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2023/abril/2023-04-06-crea-y-amplia-tu-operacion-de-fulfillment-con-vtex-pick-and-pack_1.gif)
+![pick_pack_gif_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2023/abril/2023-04-06-crea-y-amplia-tu-operacion-de-fulfillment-con-vtex-pick-and-pack_1.gif)
 
 ## ¿Qué cambió?
 

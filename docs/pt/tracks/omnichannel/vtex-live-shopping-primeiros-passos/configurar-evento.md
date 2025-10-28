@@ -37,7 +37,7 @@ Na seção **Tipo de layout**, escolha o layout desejado para a transmissão do 
 - **Paisagem (16:9):** oferece uma visualização horizontal da transmissão, otimizada para telas de desktop.
 - **Retrato (9:16):** oferece uma visualização vertical da transmissão, otimizada para telas de dispositivos móveis.
 
- ![article_7_screen_format_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/vtex-live-shopping-primeiros-passos/configurar-evento_1.png)
+ ![article_7_screen_format_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/vtex-live-shopping-primeiros-passos/configurar-evento_1.png)
 
 O formato da tela é **Paisagem (16:9)** por padrão, mas você pode alterá-lo clicando em **Retrato (9:16)**. A marcação em azul indica a opção selecionada.
 
@@ -88,7 +88,7 @@ Na seção **Configuração do CMS**, você pode configurar como o conteúdo ser
 - **Chat:** permite a interação do público via chat durante o evento ao vivo. Atenção: se o chat estiver oculto, a opção de pergunta também ficará oculta, já que essa funcionalidade é exibida acima do chat.
 - **Curtida:** permite que os usuários reajam durante o evento ao vivo usando o botão de curtir em formato de coração.
 
-![article_7_cms_configuration_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/vtex-live-shopping-primeiros-passos/configurar-evento_2.png)
+![article_7_cms_configuration_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/omnichannel/vtex-live-shopping-primeiros-passos/configurar-evento_2.png)
 
 - **Carrinho de compras:** disponibiliza o botão “Adicionar ao carrinho” que, quando clicado, abre uma nova aba com o checkout e o produto adicionado ao carrinho de compras do cliente. O modo picture-in-picture (PiP) também será ativado, permitindo que o cliente continue assistindo à transmissão ao vivo enquanto finaliza o pedido.
 - **Visualização rápida:** permite que o seu público assista ao evento ao vivo enquanto navega pelas variações de produtos. Quando o cliente clica no botão `Adicionar ao carrinho`, uma visualização rápida do produto é aberta sem que a transmissão do evento fique oculta. Isso permite ao cliente escolher o tamanho e a cor de um produto, por exemplo, enquanto assiste ao evento.

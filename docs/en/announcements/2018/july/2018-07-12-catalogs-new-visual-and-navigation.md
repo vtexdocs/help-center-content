@@ -23,16 +23,16 @@ The main difference to the old version is on how you navigate through it. We've 
 ## What has changed
 
 Most items of the old Catalog can now be found on the _Catalog_ option, on the sidebar's _PRODUCTS_ section.
-![EN-Catálogo1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2018/july/2018-07-12-catalogs-new-visual-and-navigation_1.png)
+![EN-Catálogo1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2018/july/2018-07-12-catalogs-new-visual-and-navigation_1.png)
 
 
 The _Gift card_ subitem (formerly known as _Vouchers_ and previously located under the _Campaign Control_ tab) is now one of the _Payments_ drop-down options, on the sidebar's _TRANSACTIONS_ section. 
-![EN-Catálogo2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2018/july/2018-07-12-catalogs-new-visual-and-navigation_2.png)
+![EN-Catálogo2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2018/july/2018-07-12-catalogs-new-visual-and-navigation_2.png)
 
 
 The _Settings_ item (formerly a tab of its own) is now one of the _CMS_ drop-down options, on the sidebar's _STORE SETUP_ section. 
-![EN-Catálogo3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2018/july/2018-07-12-catalogs-new-visual-and-navigation_3.png)
+![EN-Catálogo3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2018/july/2018-07-12-catalogs-new-visual-and-navigation_3.png)
 
 
 The former _Marketplace_ tab continues independent (even the name remains the same), with a section of its own on the sidebar.
-![EN-Catálogo4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2018/july/2018-07-12-catalogs-new-visual-and-navigation_4.png)
+![EN-Catálogo4](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2018/july/2018-07-12-catalogs-new-visual-and-navigation_4.png)

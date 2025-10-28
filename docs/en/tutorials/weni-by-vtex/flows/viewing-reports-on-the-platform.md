@@ -21,27 +21,27 @@ After we build and run our flows, our next longing without a doubt is to be able
 
 To access the flow results, simply open the flow in question, click on the burger menu next to the **Start Flow button** and select the **Results** option
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/flows/viewing-reports-on-the-platform_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/flows/viewing-reports-on-the-platform_1.png)
 
 In the **_Results_** tab we have two report options:
   1. **Overview:**
 
 This option allows us to have an overview of users who have passed through the flow.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/flows/viewing-reports-on-the-platform_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/flows/viewing-reports-on-the-platform_2.png)
 
   2. **Runs:**
 
 The ""Runs"" tab provides access to all raw data, which can be exported and used in other applications for data validation. In the ""Runs"" tab, you can choose to view all data or only the contacts who responded. The results saved in the cards are displayed in columns.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/flows/viewing-reports-on-the-platform_3.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/flows/viewing-reports-on-the-platform_3.png)
 
 The export of results will include the contact's name, URN, start and end dates of interactions in the flow, messages the contact sent, and other information collected during the flow.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/flows/viewing-reports-on-the-platform_4.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/flows/viewing-reports-on-the-platform_4.png)
 
 The export is in XLSX spreadsheet format and is sent directly to the email of the user who requested the export.
 
 Before exporting, you can select the options for Groups, Contact Fields, and URNs. If you check the ""Responded only"" option, the export will be limited to contacts who sent a response in the flow being exported.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/flows/viewing-reports-on-the-platform_5.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/flows/viewing-reports-on-the-platform_5.png)

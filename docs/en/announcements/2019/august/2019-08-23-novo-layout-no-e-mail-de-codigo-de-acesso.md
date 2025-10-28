@@ -17,7 +17,7 @@ announcementSynopsisEN: "We've updated the layout for the email you receive when
 
 We've updated the layout for the email you receive when requesting an access code for your admin. From now on, every time access to login or change password is requested, you'll receive an email as the one shown below:
 
-![announcement-novo-layout-email-codigo-acesso EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2019/august/2019-08-23-novo-layout-no-e-mail-de-codigo-de-acesso_1.png)
+![announcement-novo-layout-email-codigo-acesso EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2019/august/2019-08-23-novo-layout-no-e-mail-de-codigo-de-acesso_1.png)
 
 ## What changes
 The new version makes the layout more seamless and usable, in addition to making it more coherent with VTEX's visual identity.

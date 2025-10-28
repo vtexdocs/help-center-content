@@ -51,7 +51,7 @@ In the <i class="fas fa-search" aria-hidden="true"></i>`Search` field, you can s
 
 At the top of the page, you'll find interaction dates. You can click a date to change the time range and filter the results.
 
-![Imagem Supervisor](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/agent-builder/agent-builder-overview_1.png)
+![Imagem Supervisor](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/agent-builder/agent-builder-overview_1.png)
 
 ## Profile
 
@@ -143,11 +143,11 @@ Below **Agent preview,** there are two toggles:
 
 - **Agent progressive feedback:** Activate the toggle switch <i class="fas fa-toggle-on" aria-hidden="true"></i> if you want the agent to send real-time updates to the user while drafting the final response. Otherwise, leave it off <i class="fas fa-toggle-off" aria-hidden="true"></i>. 
 
-![EN GIF Feedback progressivo dos agentes](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/agent-builder/agent-builder-overview_1.gif)
+![EN GIF Feedback progressivo dos agentes](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/agent-builder/agent-builder-overview_1.gif)
 
 - **Multiple message format:** Activate the toggle switch <i class="fas fa-toggle-on" aria-hidden="true"></i> if you want the agent to send multiple messages, like quick replies, lists, and catalogs. Otherwise, leave it off <i class="fas fa-toggle-off" aria-hidden="true"></i>.
 
-![Multiple message format](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/agent-builder/agent-builder-overview_2.png)
+![Multiple message format](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/agent-builder/agent-builder-overview_2.png)
 
 Below **Human support,** there's a toggle switch:
 

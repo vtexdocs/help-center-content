@@ -26,7 +26,7 @@ To access the page, go to __Dashboards__ and click on __Sales performance__.
 
 You can customize the view of chart and list data by filtering by period, dimensions and metrics.
 
-![Sales Perf Dash EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/dashboards/dashboards-in-the-vtex-admin/sales-performance_1.gif)
+![Sales Perf Dash EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/dashboards/dashboards-in-the-vtex-admin/sales-performance_1.gif)
 
 ## Data 
 
@@ -152,7 +152,7 @@ In addition to applying filters, you can also perform the actions below.
 
 ## Views
 
-![Sales perf update EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/dashboards/dashboards-in-the-vtex-admin/sales-performance_2.gif)
+![Sales perf update EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/dashboards/dashboards-in-the-vtex-admin/sales-performance_2.gif)
 
 The Sales Performance dashboard can be customized by applying different filters and selecting the metrics that will be displayed in the chart and in the list. To facilitate your data exploration on a daily basis, we have created views, which save the filters and metrics applied on the page for your direct viewing. You can save, edit, and share different dashboard views. The page comes with the following views configured by default:
 

@@ -31,7 +31,7 @@ This improvement allows sales associates to find products beyond the store's inv
 
 - **Optimization for slow connections:** By leveraging browser caching, the search will return new information only when necessary, guaranteeing a fast response even in scenarios with slow internet connections.
 
-![Mobile - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2024/may/2024-05-03-improvements-to-unified-search-in-vtex-sales-app_1.gif)
+![Mobile - EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2024/may/2024-05-03-improvements-to-unified-search-in-vtex-sales-app_1.gif)
 
 ## Why did we make this change?
 

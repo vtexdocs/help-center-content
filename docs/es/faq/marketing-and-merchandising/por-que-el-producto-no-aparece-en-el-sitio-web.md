@@ -45,7 +45,7 @@ Te recomendamos que empieces tu búsqueda de errores por el **Catálogo**. Para 
 1. Accede al Admin VTEX y navega hasta **Productos > Catálogo > Gestión de productos y SKU** para verificar los productos registrados en tu tienda.
 2. Busca el producto que deseas mostrar en la lista, tal como se ilustra en la imagen a continuación.
 
-    ![01-produto-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/marketing-and-merchandising/por-que-el-producto-no-aparece-en-el-sitio-web_1.PNG)
+    ![01-produto-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/marketing-and-merchandising/por-que-el-producto-no-aparece-en-el-sitio-web_1.PNG)
 
 3. Sigue las instrucciones descriptas en las próximas secciones para verificar la información a continuación:
     * [Producto](#producto)
@@ -71,11 +71,11 @@ Para verificar la configuración del producto, es importante que sigas los pasos
     * En caso de que el producto tenga especificaciones, navega hasta la pestaña **Especificaciones** y verifica que se hayan rellenado los campos correspondientes.
 3. Luego de cualquier modificación, haz clic en `Guardar`.
 
-![02-campos-produto-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/marketing-and-merchandising/por-que-el-producto-no-aparece-en-el-sitio-web_2.png)
+![02-campos-produto-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/marketing-and-merchandising/por-que-el-producto-no-aparece-en-el-sitio-web_2.png)
 
 <p align="center">*Campos que se deben verificar en la página de información del producto*
 
-![03-aba-especificacoes-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/marketing-and-merchandising/por-que-el-producto-no-aparece-en-el-sitio-web_3.png)
+![03-aba-especificacoes-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/marketing-and-merchandising/por-que-el-producto-no-aparece-en-el-sitio-web_3.png)
 
 <p align="center">*Pestaña **Especificaciones***
 
@@ -89,16 +89,16 @@ En la página de SKU, en **Productos > Catálogo > Gestión de productos y SKU**
 
     | Botón | Descripción |
     |-|-|
-    | ![04-botao-precos](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/marketing-and-merchandising/por-que-el-producto-no-aparece-en-el-sitio-web_4.png) | Permite acceder a la __Lista de precios__ para verificar si existe un precio válido para la política comercial deseada que esté asociado a los SKU del producto. Consulta la sección de [Precios](#precios) para más información. |
-    | ![05-botao-logistica](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/marketing-and-merchandising/por-que-el-producto-no-aparece-en-el-sitio-web_5.png) | Permite acceder a la página __Gestión del stock__ para verificar si el SKU tiene stock disponible. Consulta la sección de [Logística](#logistica) para más información. |
-    | ![06-botao-indexed-info](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/marketing-and-merchandising/por-que-el-producto-no-aparece-en-el-sitio-web_6.png) | Permite ver a cada **_seller_** que comercializa el SKU, la política comercial (**Policy**), el precio (**Value**) y la cantidad de SKU en stock (**Quantity**). |
+    | ![04-botao-precos](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/marketing-and-merchandising/por-que-el-producto-no-aparece-en-el-sitio-web_4.png) | Permite acceder a la __Lista de precios__ para verificar si existe un precio válido para la política comercial deseada que esté asociado a los SKU del producto. Consulta la sección de [Precios](#precios) para más información. |
+    | ![05-botao-logistica](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/marketing-and-merchandising/por-que-el-producto-no-aparece-en-el-sitio-web_5.png) | Permite acceder a la página __Gestión del stock__ para verificar si el SKU tiene stock disponible. Consulta la sección de [Logística](#logistica) para más información. |
+    | ![06-botao-indexed-info](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/marketing-and-merchandising/por-que-el-producto-no-aparece-en-el-sitio-web_6.png) | Permite ver a cada **_seller_** que comercializa el SKU, la política comercial (**Policy**), el precio (**Value**) y la cantidad de SKU en stock (**Quantity**). |
 
 2. En la línea del producto correspondiente al SKU que se verificará, haz clic en la flecha hacia abajo <i class="fas fa-caret-down"></i>, al lado del botón `Modificar`.
 3. Haz clic en la opción** SKU** para acceder a la lista detallada de los SKU.
 4. En la columna **Status**, verifica que el status indicado sea `Activo`. Si los SKU están activos, continúa con el paso 7.
 5. Si algún SKU está con el status `Inactivo`, haz clic en `Modificar` para ver la información detallada del SKU.
 
-    ![07-catalogo-skus-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/marketing-and-merchandising/por-que-el-producto-no-aparece-en-el-sitio-web_7.png)
+    ![07-catalogo-skus-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/marketing-and-merchandising/por-que-el-producto-no-aparece-en-el-sitio-web_7.png)
 
 6. En la página de información del SKU, el próximo paso es verificar los ítems que se enumeran a continuación.
     * **Activar SKU si es posible:** verifica si esta opción está seleccionada. De lo contrario, el SKU no se mostrará. Activar esta opción significa determinar que el SKU se activará si cumple con los requisitos necesarios:
@@ -111,11 +111,11 @@ En la página de SKU, en **Productos > Catálogo > Gestión de productos y SKU**
 8. Verifica si el SKU incluye al menos una imagen. Si no la tiene, el SKU no se activará. Realiza el paso a continuación para corregir este problema.
 9. Haz clic en `Insertar` para subir una imagen nueva. Si lo prefieres, haz clic en `Asociar a las imágenes existentes` para incluir una imagen que ya se utilice en otro SKU.
 
-![08-aba-imagens-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/marketing-and-merchandising/por-que-el-producto-no-aparece-en-el-sitio-web_8.png)
+![08-aba-imagens-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/marketing-and-merchandising/por-que-el-producto-no-aparece-en-el-sitio-web_8.png)
 
 <p align="center">*Pestaña **Imágenes***
 
-![09-sku-imagens-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/marketing-and-merchandising/por-que-el-producto-no-aparece-en-el-sitio-web_9.PNG)
+![09-sku-imagens-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/marketing-and-merchandising/por-que-el-producto-no-aparece-en-el-sitio-web_9.PNG)
 
 ### Información indexada
 
@@ -129,13 +129,13 @@ El registro de indexación muestra el status de cada SKU del producto. Si hay al
 
 En el ejemplo a continuación, podemos llegar a la conclusión de que el SKU no está disponible por falta de ítems en el stock:
 
-![10-indexed-info-code](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/marketing-and-merchandising/por-que-el-producto-no-aparece-en-el-sitio-web_10.png)
+![10-indexed-info-code](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/marketing-and-merchandising/por-que-el-producto-no-aparece-en-el-sitio-web_10.png)
 
 A partir de esto, es posible tomar medidas para corregir el problema. En el caso del ejemplo, sería necesario ajustar el número de ítems en el stock del sistema de [Logística](#logistica).
 
 Un SKU activo y sin errores tendrá el registro en el indexador parecido al que se muestra a continuación:
 
-![11-indexed-info-code-active](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/marketing-and-merchandising/por-que-el-producto-no-aparece-en-el-sitio-web_11.png)
+![11-indexed-info-code-active](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/marketing-and-merchandising/por-que-el-producto-no-aparece-en-el-sitio-web_11.png)
 
 > ℹ️ Si la información de la indexación no muestra ningún motivo para la falta de disponibilidad de los productos, y si no encontraste ningún error en el registro de los productos y SKU, probablemente lo que resuelva el problema sea volver a indexar el producto. Para hacerlo, modifica algún campo dentro del registro del producto o alguno de sus SKU, y guarda los cambios. Esto forzará la indexación.
 
@@ -150,7 +150,7 @@ En el módulo de **Precios**, es importante verificar que los SKU del producto t
 
 En el ejemplo a continuación, hay dos SKU sin precio base registrado. Es por esto que no hay un precio ingresado en la columna de la política comercial. Solo aparece la información _Precio no registrado_.
 
-![12-precos-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/marketing-and-merchandising/por-que-el-producto-no-aparece-en-el-sitio-web_12.PNG)
+![12-precos-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/marketing-and-merchandising/por-que-el-producto-no-aparece-en-el-sitio-web_12.PNG)
 
 ### Crear precio base
 
@@ -236,7 +236,7 @@ Sigue los pasos a continuación para verificar la plantilla que está usando tu 
 
     En el ejemplo a continuación, la plantilla estándar que se usó es `vtex.curbside-pickup@0.x:store.curbside-pickup` y no hay una plantilla condicional.
 
-    ![16-templates-cms-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/marketing-and-merchandising/por-que-el-producto-no-aparece-en-el-sitio-web_13.PNG)
+    ![16-templates-cms-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/marketing-and-merchandising/por-que-el-producto-no-aparece-en-el-sitio-web_13.PNG)
 
 4. Luego, debes configurar los bloques incluidos en la plantilla utilizada, tal como se indica en [Templates](#templates).
 

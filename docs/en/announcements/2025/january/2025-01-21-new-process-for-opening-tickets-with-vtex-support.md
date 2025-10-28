@@ -27,7 +27,7 @@ This change allows:
 - **Instant answers**: Receive quick guidance for common questions.
 - **Simplified process:** If the issue persists, open a ticket directly in the VTEX Admin with Copilot's assistance.
 
-![Copilot-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2025/january/2025-01-21-new-process-for-opening-tickets-with-vtex-support_1.gif)
+![Copilot-EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2025/january/2025-01-21-new-process-for-opening-tickets-with-vtex-support_1.gif)
 
 ## What needs to be done?
 No action is required. The feature is now available to users who want to open a ticket in the VTEX Admin.

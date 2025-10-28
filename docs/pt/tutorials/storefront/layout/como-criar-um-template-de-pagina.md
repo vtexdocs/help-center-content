@@ -37,7 +37,7 @@ Confira o passo a passo a seguir:
 4. Logo abaixo, clique em __New template.
 5. Preencha o campo __Template Name__.
 > ❗ Ao preencher o **Template Name** do template, evite utilizar as seguintes palavras reservadas, pois isso pode prejudicar o desempenho da sua loja e interferir no funcionamento de páginas definidas no Admin VTEX. Veja a lista de palavras reservadas abaixo. <ul> <li>`a`</li> <li>`meta`</li> <li>`api`</li> <li>`admin`</li> <li>`app`</li> </ul>
-6. Em seguida, preencha o box __Template XHTML__ com o código do seu template.![4 1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/como-criar-um-template-de-pagina_1.png)
+6. Em seguida, preencha o box __Template XHTML__ com o código do seu template.![4 1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/como-criar-um-template-de-pagina_1.png)
 7. No canto superior direito, clique no botão __Save Template__.
 
 Para editar um template já existente, o processo é quase idêntico.

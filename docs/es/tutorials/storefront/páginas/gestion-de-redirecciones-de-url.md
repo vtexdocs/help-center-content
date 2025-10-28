@@ -38,7 +38,7 @@ Puedes asignar al usuario un rol de acceso con el recurso siguiendo las instrucc
 4. En la casilla de selección, indica si la redirección es temporal o permanente. Si es temporal, debes definir la fecha de fin.
 5. Haz clic en `Guardar` para finalizar.
 
-![gerenciando redirecionamentos es 1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/p%C3%A1ginas/gestion-de-redirecciones-de-url_1.png)
+![gerenciando redirecionamentos es 1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/p%C3%A1ginas/gestion-de-redirecciones-de-url_1.png)
 
 ## Importar redirección
 

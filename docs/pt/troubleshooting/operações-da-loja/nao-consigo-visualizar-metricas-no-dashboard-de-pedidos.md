@@ -26,7 +26,7 @@ Ao acessar o painel Admin, pode ser que sua loja não carregue métricas na **Vi
 - **Período de comparação inadequado:** o período selecionado no canto superior direito do dashboard pode não conter dados de pedidos suficientes para a comparação.
 - **Permissões de acesso insuficientes:** você pode não ter o perfil de acesso necessário para visualizar determinadas informações no dashboard.
 
-![Visão geral - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/troubleshooting/opera%C3%A7%C3%B5es-da-loja/nao-consigo-visualizar-metricas-no-dashboard-de-pedidos_1.png)
+![Visão geral - PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/troubleshooting/opera%C3%A7%C3%B5es-da-loja/nao-consigo-visualizar-metricas-no-dashboard-de-pedidos_1.png)
 
 ## Solução
 Para resolver inconsistências no dashboard inicial do painel administrativo, você pode testar as ações descritas abaixo:
@@ -37,7 +37,7 @@ Ajustar o período de comparação pode resolver o problema ao exibir métricas 
 1. No Admin VTEX, acesse **Dashboard > Visão geral**.
 2. No canto superior direito, selecione o período de comparação.
 
-![Dashboard- PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/troubleshooting/opera%C3%A7%C3%B5es-da-loja/nao-consigo-visualizar-metricas-no-dashboard-de-pedidos_2.png)
+![Dashboard- PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/troubleshooting/opera%C3%A7%C3%B5es-da-loja/nao-consigo-visualizar-metricas-no-dashboard-de-pedidos_2.png)
 
 ### Aguarde a atualização das informações
 Considere o tempo de espera de 10 a 80 minutos para a atualização das informações no painel. Este período é necessário para que os dados sejam processados e exibidos corretamente. Para mais informações sobre o tempo de espera, acesse  [Comparação de períodos](/pt/tutorial/visao-geral-da-loja--P8ahguoRs0U3PzmXg2wuQ?&utm_source=autocomplete#comparacao-de-periodos).

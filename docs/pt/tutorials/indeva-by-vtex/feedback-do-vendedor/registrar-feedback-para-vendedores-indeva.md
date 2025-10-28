@@ -35,7 +35,7 @@ Ao clicar em **Realizar**, o sistema exibe o último feedback registrado, facili
 
 Além disso, a plataforma compara os resultados do vendedor com a média da loja, conforme mostrado na imagem abaixo:  
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/feedback-do-vendedor/registrar-feedback-para-vendedores-indeva_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/feedback-do-vendedor/registrar-feedback-para-vendedores-indeva_1.png)
 
 > ℹ️ Utilize a simulação de resultados para ajudar o vendedor a visualizar planos de ação e entender como poderia ter melhorado. Lembre-se de registrar o feedback ao final de cada período.
 

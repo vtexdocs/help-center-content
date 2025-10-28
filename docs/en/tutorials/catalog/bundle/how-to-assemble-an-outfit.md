@@ -31,13 +31,13 @@ Differences between bundle and Outfit:
 
 This term is widely known in the Fashion Segment. An Outfit is a way through which you can buy several products viewing only one product screen. 
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/bundle/how-to-assemble-an-outfit_1.gif)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/bundle/how-to-assemble-an-outfit_1.gif)
 
 In the layout above, it is possible to choose the Outfit items the customer would like to buy and then click on “Comprar Produtos Selecionados”.
 
 Alternatively, if you prefer, you may buy the complete look, with all selected items.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/bundle/how-to-assemble-an-outfit_2.gif)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/bundle/how-to-assemble-an-outfit_2.gif)
 
 In this layout, for each item there is a button “Comprar Separadamente”.
 

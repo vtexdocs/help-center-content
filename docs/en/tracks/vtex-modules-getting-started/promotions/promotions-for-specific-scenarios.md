@@ -36,7 +36,7 @@ The promotion configuration screen offers two SKU lists, which can be added manu
 
 You can define a discount value for each of these lists. If, for example, list 1 has a 10% discount and list 2 has a 5% discount, when the cart has at least one product from each of these lists, a total of 10% discount will be granted on the value of the items from list 1 and a 5% discount will be granted on the value of the items from list 2.
 
-![Compre junto - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-modules-getting-started/promotions/promotions-for-specific-scenarios_1.png)
+![Compre junto - EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-modules-getting-started/promotions/promotions-for-specific-scenarios_1.png)
 
 Two examples of this type of promotion would be "Buy a pair of pants and get 10% off when buying a belt" and "Buy a pair of sneakers + a pair of socks and get a 15% off".
 
@@ -48,7 +48,7 @@ The More for Less promotion is used to grant a discount when the customer adds s
 
 In the configuration of the More for Less promotion, the store must define which collections or SKUs it will apply to. Then, it must choose the minimum number of items in the cart for it to apply and the number of items that get a discount.
 
-![More less](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-modules-getting-started/promotions/promotions-for-specific-scenarios_2.png)
+![More less](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-modules-getting-started/promotions/promotions-for-specific-scenarios_2.png)
 
 For example:
 - For every `3` products, the customer will get `1` `free` product.
@@ -66,7 +66,7 @@ When configuring the Progressive Discount promotion, the store must define which
 
 To add more details to the progressive discount promotion, click on the "+" button. A new line will be added, and then you can add a new discount. For example: for the next 2 products, the customer will receive an additional 5% discount. And so on.
 
-![Desconto progressivo - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-modules-getting-started/promotions/promotions-for-specific-scenarios_3.png)
+![Desconto progressivo - EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-modules-getting-started/promotions/promotions-for-specific-scenarios_3.png)
 
 To understand the Progressive Discount promotion in more detail, read our article on [How progressive discount works](/en/tutorial/progressive-discount--tutorials_324).
 
@@ -76,7 +76,7 @@ The Buy One Get One promotion is used to offer free shipping or a freebie when a
 
 The applied discount (free shipping or freebie) must be defined in the promotion's general data. Then the store must choose the collections or SKUs to which it will apply. Finally, you must define the minimum number of items in the cart for the promotion to apply.
 
-![Compre um e leve outro - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-modules-getting-started/promotions/promotions-for-specific-scenarios_4.png)
+![Compre um e leve outro - EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-modules-getting-started/promotions/promotions-for-specific-scenarios_4.png)
 
 To understand the Buy One Get One promotion in more detail, read our article on [How the Buy and Win promotion works](/en/tutorial/buy-and-win--tutorials_322).
 
@@ -88,22 +88,22 @@ This setting determines how many items in the cart will be affected by a promoti
 
 After filling in all the [regular promotion fields](/en/tutorial/regular-promotion--tutorials_327) with the percentage discount, you can __set a maximum number of items affected per cart__ by checking the box for this option, found in the __restrictions__ section.
 
-![Limite itens - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-modules-getting-started/promotions/promotions-for-specific-scenarios_5.png)
+![Limite itens - EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-modules-getting-started/promotions/promotions-for-specific-scenarios_5.png)
 
 By default, the __unlimited__ selection is active, applying the promotion to all items in the cart, as illustrated in the diagram below:  
 
-![Caso ilimitado EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-modules-getting-started/promotions/promotions-for-specific-scenarios_6.png)
+![Caso ilimitado EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-modules-getting-started/promotions/promotions-for-specific-scenarios_6.png)
 
 To restrict the number of items in the cart, you can choose one from the following options:
 
 - __Items by cart__: this setting restrict a promotion to a predetermined number of items in the cart. Once the limit is reached, the promotion will apply to the rest of the cart. The system uses price as a selection criterion so the items with the lowest prices will be affected first.
 
-![Caso por itens EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-modules-getting-started/promotions/promotions-for-specific-scenarios_7.png)
+![Caso por itens EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-modules-getting-started/promotions/promotions-for-specific-scenarios_7.png)
 
 - __Items by product__: this setting restricts the promotion to a number of units per product. As in the example below, only two units per product will be eligible for the promotion. The lowest price determines which product items are eligible first.   
 
-![Caso por produto EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-modules-getting-started/promotions/promotions-for-specific-scenarios_8.png)
+![Caso por produto EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-modules-getting-started/promotions/promotions-for-specific-scenarios_8.png)
 
 - __Items by SKU__: this setting restricts the promotion to a predetermined number of units for each SKU in the cart. As in the example below, only two units per SKU will be eligible. As seen in the previous case, the lowest price will determine the eligible items. 
 
-![Caso por SKU EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-modules-getting-started/promotions/promotions-for-specific-scenarios_9.png)
+![Caso por SKU EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-modules-getting-started/promotions/promotions-for-specific-scenarios_9.png)

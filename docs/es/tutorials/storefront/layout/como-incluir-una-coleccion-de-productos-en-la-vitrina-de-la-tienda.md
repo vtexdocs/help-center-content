@@ -25,30 +25,30 @@ Realizadas las debidas definiciones, se hace el vínculo de la colección con la
 
 En el ejemplo abajo, vamos a definir la vitrina presentada en la Home. Por lo tanto, seleccione **Settings**, luego **add object**, como en la siguiente imagen.
 
-![coleção2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/como-incluir-una-coleccion-de-productos-en-la-vitrina-de-la-tienda_1.png)
+![coleção2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/como-incluir-una-coleccion-de-productos-en-la-vitrina-de-la-tienda_1.png)
 
 Este comando abrirá **Visual Controls**, que corresponden al escaparate en el que desea mostrar la colección. Agregue una _Collection_, pero asegúrese de establecer un nombre para ella.
 
-![coleção3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/como-incluir-una-coleccion-de-productos-en-la-vitrina-de-la-tienda_2.png) 
+![coleção3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/como-incluir-una-coleccion-de-productos-en-la-vitrina-de-la-tienda_2.png) 
 
-![coleção4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/como-incluir-una-coleccion-de-productos-en-la-vitrina-de-la-tienda_3.png)
+![coleção4](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/como-incluir-una-coleccion-de-productos-en-la-vitrina-de-la-tienda_3.png)
 
 Acuérdese de grabar las configuraciones para que sea posible editar el control creado!
 
-![coleção5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/como-incluir-una-coleccion-de-productos-en-la-vitrina-de-la-tienda_4.png)
+![coleção5](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/como-incluir-una-coleccion-de-productos-en-la-vitrina-de-la-tienda_4.png)
 
-![coleção6](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/como-incluir-una-coleccion-de-productos-en-la-vitrina-de-la-tienda_5.png)
+![coleção6](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/como-incluir-una-coleccion-de-productos-en-la-vitrina-de-la-tienda_5.png)
 
 Al editar el control es necesario agregar sus contenidos, que representan cada conjunto de ítems que se exhibirán.
 Son ellos:
 _Layout_: seleccione la plantilla de estante utilizada en la muestra.
 _Number of Columns, Number of Items, Show Unavailable_ y _Ramdom ad Paged_: Defina el diseño, la cantidad y los criterios para mostrar los elementos.
 
-![coleção7](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/como-incluir-una-coleccion-de-productos-en-la-vitrina-de-la-tienda_6.png)
+![coleção7](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/como-incluir-una-coleccion-de-productos-en-la-vitrina-de-la-tienda_6.png)
 
 Recuerde guardar antes de buscar o cambiar páginas.
 El siguiente paso es agregar el contenido seleccionando **Add Content**.
-![coleção8](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/como-incluir-una-coleccion-de-productos-en-la-vitrina-de-la-tienda_7.png)
+![coleção8](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/como-incluir-una-coleccion-de-productos-en-la-vitrina-de-la-tienda_7.png)
 
 Es posible definir cada contenido usando colecciones o resultados de búsqueda, usando parámetros de búsqueda (más detalles [aquí](/es/tutorial/como-funciona-a-busca-da-vtex--tutorials_542)).
 
@@ -58,7 +58,7 @@ _QueryString_: los parámetros ingresados en este campo definen el resultado de 
 
 En el campo **Product Cluster (Collection)**, debe seleccionar la colección que se mostrará completando el siguiente paso:
 
-![coleção10](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/como-incluir-una-coleccion-de-productos-en-la-vitrina-de-la-tienda_8.png)
+![coleção10](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/como-incluir-una-coleccion-de-productos-en-la-vitrina-de-la-tienda_8.png)
 
 Los contenidos a rellenar en la parte **Condición de visualización**:
 _Partner, Campaign_ y _Source_: definen la visualización de este contenido si el visitante tiene un UTM correspondiente en su URL de origen.
@@ -70,7 +70,7 @@ Después de la configuración, marque **Active Content** y agregue a la lista de
 
 En el ejemplo abajo tenemos una vitrina estándar, sin condiciones de exhibición y otra exclusiva para las visitas originadas de las audiencias de campañas patrocinadas de Google (utm_source=**google**/utm_medium=**cpc**):
 
-![coleção9](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/como-incluir-una-coleccion-de-productos-en-la-vitrina-de-la-tienda_9.png)![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/como-incluir-una-coleccion-de-productos-en-la-vitrina-de-la-tienda_10.png)
+![coleção9](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/como-incluir-una-coleccion-de-productos-en-la-vitrina-de-la-tienda_9.png)![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/como-incluir-una-coleccion-de-productos-en-la-vitrina-de-la-tienda_10.png)
 
 En el escenario arriba, si el cliente tiene origen en la audiencia de campaña patrocinada se exhibirán en la vitrina **Lançamentos**, ubicada en la Home, los productos que corresponden al resultado de una búsqueda por la Marca de ID 200000, en caso contrario, se exhibirán los productos de la colección de ID 8.
 

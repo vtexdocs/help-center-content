@@ -20,7 +20,7 @@ On the VTEX platform, warehouses are physical storage spaces for goods sold by t
 
 It is important to pay attention to the inventory logistics and how the settings on the VTEX platform affect order delivery. From the warehouse, orders are sent to loading docks, where they are picked up by the carriers. 
 
-![EstrategiaEnvio_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/shipping-strategy/warehouse_1.svg)
+![EstrategiaEnvio_EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/shipping-strategy/warehouse_1.svg)
 
 > ℹ️ The carrier that will deliver a certain order is defined by the [shipping policy](/en/tutorial/politica-de-envio--tutorials_140). For a carrier to be selected to deliver the order, its shipping policy must meet the conditions required for the delivery of the order. The shipping policy is linked to the warehouse by the Loading dock.
 

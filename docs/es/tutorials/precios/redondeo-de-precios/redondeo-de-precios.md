@@ -60,16 +60,16 @@ Debajo se muestran ejemplos de los flujos de inclusión, edición y exclusión d
 
 *Flujo de creación de una regla*
 
-![config-arrendodamento-ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/precios/redondeo-de-precios/redondeo-de-precios_1.gif)
+![config-arrendodamento-ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/precios/redondeo-de-precios/redondeo-de-precios_1.gif)
 
 *Flujo de alteración de una regla*
 
-![editar-arrendodamento-ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/precios/redondeo-de-precios/redondeo-de-precios_2.gif)
+![editar-arrendodamento-ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/precios/redondeo-de-precios/redondeo-de-precios_2.gif)
 
 *Flujo de exclusión de una regla*
 
-![deletar-arrendodamento-ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/precios/redondeo-de-precios/redondeo-de-precios_3.gif)
+![deletar-arrendodamento-ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/precios/redondeo-de-precios/redondeo-de-precios_3.gif)
 
 *Simulación de precio para una regla*
 
-![teste-arrendodamento-ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/precios/redondeo-de-precios/redondeo-de-precios_4.gif)
+![teste-arrendodamento-ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/precios/redondeo-de-precios/redondeo-de-precios_4.gif)

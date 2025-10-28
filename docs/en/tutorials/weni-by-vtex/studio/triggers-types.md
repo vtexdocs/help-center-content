@@ -19,7 +19,7 @@ The keyword is the first word in a message and can be used to start the flow. Fo
 
 All steps described here will be performed on the **""Triggers""** tab, located within the **""Studio""** module.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/studio/triggers-types_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/studio/triggers-types_1.png)
 
 To facilitate navigation in this article, if you want to go directly to a specific trigger type, just click on its name below:
 
@@ -35,7 +35,7 @@ To facilitate navigation in this article, if you want to go directly to a specif
 
 -  Click on the ""Create a keyword that starts a flow"" button
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/studio/triggers-types_2.PNG)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/studio/triggers-types_2.PNG)
 
 -    In a keyword, you can define a word to function as a keyword
 
@@ -49,7 +49,7 @@ To facilitate navigation in this article, if you want to go directly to a specif
 
 -   In groups only, it is possible to apply the rules of this trigger to specific contact groups, just leave the space blank if you want to apply this rule to all users
 
--   Click the Create trigger button![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/studio/triggers-types_3.PNG)
+-   Click the Create trigger button![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/studio/triggers-types_3.PNG)
 
 ### Creating a message keyword that allows people to join a group
 
@@ -59,7 +59,7 @@ Using this trigger to add an entry contact to a group. This trigger is useful fo
 
 -    Click the ""Create a message keyword that allows people to join a group"" button:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/studio/triggers-types_4.PNG)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/studio/triggers-types_4.PNG)
 
 -    Enter a keyword in ""Associate a keyword""
 
@@ -69,7 +69,7 @@ Using this trigger to add an entry contact to a group. This trigger is useful fo
 
 -   Under ""Flow"", you can choose which flow to start
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/studio/triggers-types_5.PNG)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/studio/triggers-types_5.PNG)
 
 ### Start a flow after receiving an unhandled message elsewhere
 
@@ -77,21 +77,21 @@ Use this trigger to start a stream after receiving an uncaught message (the mess
 
 -    Click on the button ""Start a stream after receiving an untreated message elsewhere""
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/studio/triggers-types_6.PNG)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/studio/triggers-types_6.PNG)
 
 -    Under ""Flow"", you can choose which flow to start
 
 -   In ""Groups only"", you can choose the groups in which the trigger will be applied. If you leave the field empty, the trigger will be applied to all contacts
 
 -   Click on ""Create Trigger""
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/studio/triggers-types_7.PNG)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/studio/triggers-types_7.PNG)
 
 ### Start a flow in the future or on schedule
 
 Use this trigger to schedule a flow at a time in the future, repeat it daily, weekly or monthly. To start the flow in the future or on a scheduled basis:
 
 -    Click the ""Start a stream in the future or on a schedule"" button:
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/studio/triggers-types_8.PNG)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/studio/triggers-types_8.PNG)
 
 -    Choose the stream you want to start, to which contacts or groups the stream will be transmitted:
 
@@ -99,12 +99,12 @@ Use this trigger to schedule a flow at a time in the future, repeat it daily, we
 
 -   Click on the ""Create Trigger"" box
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/studio/triggers-types_9.PNG)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/studio/triggers-types_9.PNG)
 
 ### Start a flow after receiving a call
 
 -  Click the ""Create a stream after receiving a call"" button:
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/studio/triggers-types_10.PNG)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/studio/triggers-types_10.PNG)
 
 -    Under ""Flow"", you can choose which flow to start
 
@@ -112,26 +112,26 @@ Use this trigger to schedule a flow at a time in the future, repeat it daily, we
 
 -  if you leave the field empty, the trigger will be applied to all contacts
 
--   Click on ""Create trigger"".![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/studio/triggers-types_11.PNG)
+-   Click on ""Create trigger"".![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/studio/triggers-types_11.PNG)
 
 ### Start a flow after a missed call
 Use this trigger after a missed call.
 
 -    Click the ""Start a flow after a missed call"" button
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/studio/triggers-types_12.PNG)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/studio/triggers-types_12.PNG)
 
 -    Under ""Flow"", you can choose which flow to start
 
 -   Click on ""Create Trigger""
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/studio/triggers-types_13.PNG)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/studio/triggers-types_13.PNG)
 
 ### Start a flow after closing a ticket with a human agent
 
 Use this trigger to initiate the flow for closing human support in Weni Chats.
 
 -    Click on the ""Start a flow after a ticket is closed"" button:
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/studio/triggers-types_14.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/studio/triggers-types_14.png)
 
 -    In ""Flow,"" you can choose which flow will be initiated
 
@@ -140,4 +140,4 @@ Use this trigger to initiate the flow for closing human support in Weni Chats.
 -  if you leave this field blank, the trigger will be applied to all contacts
 
 -   Click ""Create Trigger.""
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/studio/triggers-types_15.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/studio/triggers-types_15.png)

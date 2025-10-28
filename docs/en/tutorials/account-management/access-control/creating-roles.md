@@ -42,12 +42,12 @@ To start using a predefined role, follow the instructions below:
 
     For example, the **Call center operator** profile has a _Catalog_ product resource that allows operations to be carried out in a store on behalf of a customer and an _OMS_ resource that allows verifying an order status:
 
-    ![New role saved](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/account-management/access-control/creating-roles_1.png)
+    ![New role saved](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/account-management/access-control/creating-roles_1.png)
 
     Learn more about the available predefined roles and their associated resources in [Predefined roles](/en/tutorial/perfis-de-acesso-predefinidos--jGDurZKJHvHJS13LnO7Dy).
 4. Add admin users to the role by entering the user email address in **Add users to this role** and click `Add`.
 
-    ![Role users](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/account-management/access-control/creating-roles_2.PNG)
+    ![Role users](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/account-management/access-control/creating-roles_2.PNG)
 
     If the user does not exist, a new user will be created using the email as the name, i.e., the name and email will be the same.
 5. Click `Save`.
@@ -67,7 +67,7 @@ To create a custom role that meets the access needs of a group of users, follow 
 
     You will see a list of all the resources available for the product:
 
-    ![Configuring product](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/account-management/access-control/creating-roles_3.png)
+    ![Configuring product](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/account-management/access-control/creating-roles_3.png)
 
 5. Check the resources to which the role should grant access. Check the complete [License Manager resources](/en/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3) list for more information on each one.
 6. If you want to add resources from another product, click the **Configure Another Product** button at the bottom of the product and resource list and repeat steps 4 and 5.
@@ -79,7 +79,7 @@ To create a custom role that meets the access needs of a group of users, follow 
 
 8. Add admin users to the role by entering the user email address in **Add users to this role** and then click `Add`.
 
-    ![Role users](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/account-management/access-control/creating-roles_4.PNG)
+    ![Role users](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/account-management/access-control/creating-roles_4.PNG)
 
     If the user does not exist, a new user will be created using the email as the name, i.e., the name and email will be the same.
 

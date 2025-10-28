@@ -23,7 +23,7 @@ Para criar uma coleção, siga as instruções abaixo:
 2. Clique em **Layout**.
 3. Clique na pasta **Product Clusters (Collections)**.
 4. Clique no botão `new collection`, ilustrado a seguir.
-	![Layout 4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/cat%C3%A1logo/cole%C3%A7%C3%B5es/criando-colecao-de-produtos_1.png)
+	![Layout 4](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/cat%C3%A1logo/cole%C3%A7%C3%B5es/criando-colecao-de-produtos_1.png)
 5. Preencha as informações necessárias:
 	- **Product Cluster Id:** código identificador da coleção. Este campo não deve ser preenchido, pois é gerado automaticamente pelo sistema ao salvar.
 	- **Name:** nome da coleção.
@@ -49,9 +49,9 @@ Para criar um grupo por departamento, categoria ou subcategoria, siga as instru�
 
 1. Clique no nome da coleção desejada em **Product Clusters (Collections)**.
 2. Clique no botão `new group`, conforme exemplifica a imagem a seguir.
-	![Layout 5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/cat%C3%A1logo/cole%C3%A7%C3%B5es/criando-colecao-de-produtos_2.png)
+	![Layout 5](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/cat%C3%A1logo/cole%C3%A7%C3%B5es/criando-colecao-de-produtos_2.png)
 3. Para acrescentar todos os produtos de um determinado departamento a um grupo, selecione o departamento em questão, como indica a figura a seguir. O mesmo se aplica aos produtos de uma determinada categoria ou subcategoria.
-	![Filtro_por_categoria](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/cat%C3%A1logo/cole%C3%A7%C3%B5es/criando-colecao-de-produtos_3.jpg)
+	![Filtro_por_categoria](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/cat%C3%A1logo/cole%C3%A7%C3%B5es/criando-colecao-de-produtos_3.jpg)
 4. Clique em `Salvar Grupo`.
 
 ### Criar grupo por marca
@@ -61,7 +61,7 @@ Para criar um grupo com produtos de uma ou mais marcas, siga as instruções aba
 1. Clique no nome da coleção desejada em **Product Clusters (Collections)**.
 2. Clique no botão `new group`.
 3. Selecione uma ou mais marcas na lista correspondente. As marcas encontram-se dispostas em ordem alfabética. Ao clicar na letra correspondente à inicial da marca, a lista se expande e exibe as marcas existentes.
-  ![FIltro_por_marca](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/cat%C3%A1logo/cole%C3%A7%C3%B5es/criando-colecao-de-produtos_4.jpg)
+  ![FIltro_por_marca](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/cat%C3%A1logo/cole%C3%A7%C3%B5es/criando-colecao-de-produtos_4.jpg)
 
 ### Definir grupo por produtos em pré-venda ou em período de lançamento
 
@@ -91,17 +91,17 @@ Quando o número de SKUs na listagem ultrapassar 10 itens, um controle de pagina
 
 Para excluir um SKU da lista, basta clicar no botão vermelho ao lado do SKU correspondente.
 
-  ![Inserir_sku_espec_fico](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/cat%C3%A1logo/cole%C3%A7%C3%B5es/criando-colecao-de-produtos_5.gif)
+  ![Inserir_sku_espec_fico](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/cat%C3%A1logo/cole%C3%A7%C3%B5es/criando-colecao-de-produtos_5.gif)
 
 ### Importar uma lista de SKUs para o grupo
 
 Apesar dos filtros de grupos serem muito práticos para criar agrupamentos de produtos de forma automática, é possível que eles não atendam as suas necessidades em situações específicas. Para resolver isso, é possível importar uma listagem com os SKUs que farão parte do grupo e consequentemente, da coleção. O módulo de Coleções aceita arquivos nos formatos planilha do Excel (.xls). Todos os IDs dos SKUs devem estar dispostos na primeira coluna, com o cabeçalho, como exemplifica a figura abaixo:
 
-  ![2017-03-08_170117](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/cat%C3%A1logo/cole%C3%A7%C3%B5es/criando-colecao-de-produtos_6.jpg)
+  ![2017-03-08_170117](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/cat%C3%A1logo/cole%C3%A7%C3%B5es/criando-colecao-de-produtos_6.jpg)
 
 Depois que a planilha for importada pelo sistema, os SKUs são apresentados da seguinte maneira:
 
-![Importar_lista_de_skus](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/cat%C3%A1logo/cole%C3%A7%C3%B5es/criando-colecao-de-produtos_7.gif)
+![Importar_lista_de_skus](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/cat%C3%A1logo/cole%C3%A7%C3%B5es/criando-colecao-de-produtos_7.gif)
 
 SKUs que estiverem inativos não terão seus IDs importados mesmo que estejam incluídos na planilha.
 
@@ -111,12 +111,12 @@ SKUs que estiverem inativos não terão seus IDs importados mesmo que estejam in
 
 Para evitar que um administrador tenha que excluir manualmente diversos SKUs, um a um, é possível utilizar o recurso de importação de SKUs da mesma forma que foi exemplificada na seção anterior. Neste caso, depois que o arquivo for carregado, clique na opção `excluir skus`.
 
-![Excluir_lista_de_skus](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/cat%C3%A1logo/cole%C3%A7%C3%B5es/criando-colecao-de-produtos_8.gif)
+![Excluir_lista_de_skus](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/cat%C3%A1logo/cole%C3%A7%C3%B5es/criando-colecao-de-produtos_8.gif)
 
-Obtenha um modelo de arquivo para a importação tanto para inclusão quanto para exclusão de itens na coleção [aqui](https://raw.githubusercontent.com/vtexdocs/help-center-content/files-migration-script/docs/pt/tutorials/catálogo/coleções/Colecao.xls).
+Obtenha um modelo de arquivo para a importação tanto para inclusão quanto para exclusão de itens na coleção [aqui](https://cdn.statically.io/gh/vtexdocs/help-center-content/files-migration-script/docs/pt/tutorials/catálogo/coleções/Colecao.xls).
 
 ### Pesquisar coleções
 
 Quando a quantidade de coleções criadas exceder o limite de exibição, que é de 20 itens, as coleções poderão ser encontradas através do campo de pesquisa. A busca deve ser feita com base no nome da coleção.
 
-![Pesquisar_cole__o](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/cat%C3%A1logo/cole%C3%A7%C3%B5es/criando-colecao-de-produtos_9.gif)
+![Pesquisar_cole__o](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/cat%C3%A1logo/cole%C3%A7%C3%B5es/criando-colecao-de-produtos_9.gif)

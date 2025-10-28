@@ -27,7 +27,7 @@ VTEX uses the same principle. The directory (folder) is where all the informatio
 
 We can create any number of templates but we have to specify in the directory which template is to be exhibited. Using the __Account__ page as an example:
 
-![cms-template-pagina EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/layout/how-to-identify-a-page-template_1.png)
+![cms-template-pagina EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/layout/how-to-identify-a-page-template_1.png)
 
 Storefront > Layout > CMS Foulder > Sites and channels > Account Name > (/) Foulder > Account *(following the example)* > Click on the link with the red "ok" arrow.
 
@@ -39,13 +39,13 @@ To make this more flexible, it is also possible to include subtemplates and any 
 
 Now a real example: I want to know what page I am browsing on right now:
 
-![página-loja EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/layout/how-to-identify-a-page-template_2.png)
+![página-loja EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/layout/how-to-identify-a-page-template_2.png)
 
 The domain itself often helps me identify it, but some stores may customize this, making this identification more difficult. If I am unsure if I am on a __Departament__ or __Category__ page, this may well be that the shelf has been customized. 
 
 The best way is checking the Source Code for the page (Ctrl + U). VTEX stores will have an indication of the directory to which the page belongs.
 
-![template-cms-exemplo en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/layout/how-to-identify-a-page-template_3.png)
+![template-cms-exemplo en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/layout/how-to-identify-a-page-template_3.png)
 
 In the example above: `<!-- CommerceContext.Current.VirtualFolder.Name: @Produto@ -->`
 Now that we know that it is a category page, we have to find out which template is active for Categoria. To this, you need only repeat the process described in the previous example.

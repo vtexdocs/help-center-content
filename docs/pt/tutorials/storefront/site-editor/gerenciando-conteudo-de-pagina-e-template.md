@@ -28,7 +28,7 @@ Exercite sua autonomia sobre o código e construa o cenário de loja desejado de
 
 1. Selecione o bloco para o qual deseja criar um novo conteúdo. Você pode selecioná-lo usando a lista no canto direito ou através da interface:
 
-![seta-interface-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/site-editor/gerenciando-conteudo-de-pagina-e-template_1.png)
+![seta-interface-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/site-editor/gerenciando-conteudo-de-pagina-e-template_1.png)
 
 2. Clique em `Versões` no canto superior direito.
 
@@ -50,7 +50,7 @@ Exercite sua autonomia sobre o código e construa o cenário de loja desejado de
 
 1. Selecione o bloco desejado cujo conteúdo será sobrescrito. Você pode selecioná-lo usando a lista no canto direito ou através da interface:
 
-![seta-interface-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/site-editor/gerenciando-conteudo-de-pagina-e-template_2.png)
+![seta-interface-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/site-editor/gerenciando-conteudo-de-pagina-e-template_2.png)
 
 2. O conteúdo disponível é o ativo vigente. Edite os campos com os novos valores ou clique em `Versões` para editar as configurações de outros conteúdos.
 3. Salve suas alterações.
@@ -61,7 +61,7 @@ Exercite sua autonomia sobre o código e construa o cenário de loja desejado de
 
 1. Selecione o bloco desejado cujo conteúdo será excluído ou redefinido. Você pode selecioná-lo usando a lista no canto direito ou através da interface:
 
-![seta-interface-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/site-editor/gerenciando-conteudo-de-pagina-e-template_3.png)
+![seta-interface-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/site-editor/gerenciando-conteudo-de-pagina-e-template_3.png)
 
 2. Clique em `Versões` no canto superior direito.
 3. Clique no menu kebab do conteúdo desejado (três pontos).

@@ -23,7 +23,7 @@ Use este procedimento para responder aos formulários enviados por supervisores 
 2. Formulários pendentes de resposta são destacados com uma notificação na tela inicial.  
 3. Clique no formulário que deseja responder.  
 
-   ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/formul%C3%A1rios-indeva/responder-formularios-na-plataforma-indeva_1.png)
+   ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/formul%C3%A1rios-indeva/responder-formularios-na-plataforma-indeva_1.png)
 
 ## Preencher formulário
 
@@ -37,7 +37,7 @@ Na tela seguinte, as perguntas do formulário são exibidas junto com os princip
 
 Esses dados auxiliam na análise e no preenchimento das respostas.
 
-   ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/formul%C3%A1rios-indeva/responder-formularios-na-plataforma-indeva_2.png)
+   ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/formul%C3%A1rios-indeva/responder-formularios-na-plataforma-indeva_2.png)
 
 ## Anexar arquivos (opcional)
 

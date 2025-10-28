@@ -17,13 +17,13 @@ subcategoryId: 119WfAe6xGl5c0S1hLdHRQ
 
 Neste artigo, explicaremos cada opção das configurações gerais que sua organização terá em nossa plataforma. Elas foram enumeradas de 1 a 10 (foto abaixo) e explicadas minuciosamente. Para acessá-las, é necessário clicar no menu lateral dentro do seu projeto.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/configura%C3%A7%C3%B5es-weni/configuracoes-gerais-do-projeto_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/configura%C3%A7%C3%B5es-weni/configuracoes-gerais-do-projeto_1.png)
 
 ### 1 - Configurações:
 
 Ao clicar no ícone de engrenagem, você acessará um menu com 2 opções:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/configura%C3%A7%C3%B5es-weni/configuracoes-gerais-do-projeto_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/configura%C3%A7%C3%B5es-weni/configuracoes-gerais-do-projeto_2.png)
 
 1. Em Exportar, você poderá exportar um fluxo criado para ser utilizado em outra organização.
 2. Em Importar, você poderá importar um fluxo de outra organização para a sua.
@@ -32,7 +32,7 @@ Ao clicar no ícone de engrenagem, você acessará um menu com 2 opções:
 
 Aqui você poderá configurar dois ou mais idiomas para sua organização: um principal (utilizado por padrão nos fluxos) e outros secundários (definidos ao criar o fluxo).
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/configura%C3%A7%C3%B5es-weni/configuracoes-gerais-do-projeto_3.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/configura%C3%A7%C3%B5es-weni/configuracoes-gerais-do-projeto_3.png)
 
 Para adicionar os idiomas, simplesmente insira o primeiro idioma no campo de Fluxo Padrão e os demais no campo de idiomas adicionais.
 
@@ -40,13 +40,13 @@ Para adicionar os idiomas, simplesmente insira o primeiro idioma no campo de Flu
 
 Nesta opção, você poderá escolher a localização onde sua organização irá operar.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/configura%C3%A7%C3%B5es-weni/configuracoes-gerais-do-projeto_4.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/configura%C3%A7%C3%B5es-weni/configuracoes-gerais-do-projeto_4.png)
 
 ### 4 - E-mail da Organização:
 
 Aqui você poderá definir o e-mail da sua organização. Todos os e-mails enviados nos fluxos ou campanhas serão enviados em nome do e-mail definido aqui. Para configurá-lo corretamente, siga os passos abaixo:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/configura%C3%A7%C3%B5es-weni/configuracoes-gerais-do-projeto_5.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/configura%C3%A7%C3%B5es-weni/configuracoes-gerais-do-projeto_5.png)
 
 1. Em Endereço de e-mail, insira o e-mail desejado;
 2. Em Host SMTP, insira o host do seu SMTP;
@@ -61,13 +61,13 @@ Se não desejar configurar, pode deixar os campos em branco para enviar e-mails 
 
 DT1 é uma plataforma que realiza transferências digitais B2B para recargas de celular e soluções de dados. Ao configurar esta opção, uma opção adicional aparecerá no fluxo.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/configura%C3%A7%C3%B5es-weni/configuracoes-gerais-do-projeto_6.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/configura%C3%A7%C3%B5es-weni/configuracoes-gerais-do-projeto_6.png)
 
 ### 6 - Token de acesso da organização:
 
 Aqui você poderá verificar o token da sua API. O token é a chave de acesso para que aplicações externas possam interagir com a API da Plataforma Weni.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/configura%C3%A7%C3%B5es-weni/configuracoes-gerais-do-projeto_7.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/configura%C3%A7%C3%B5es-weni/configuracoes-gerais-do-projeto_7.png)
 
 ### 7 - Prometheus:
 

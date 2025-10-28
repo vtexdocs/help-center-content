@@ -17,7 +17,7 @@ order: 1
 
 Amazon es una plataforma de ecommerce y se le considera una de las cinco mayores empresas de tecnología del mundo. Actualmente, Amazon vende una gran variedad de productos, como juguetes, productos electrónicos, ropa y accesorios, entre otros. Además, la empresa de comercio minorista online ofrece servicios de streaming, almacenamiento en la nube y asistentes virtuales.
 
-![amazon logo](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/marketplace/integracion-de-amazon/amazon_1.png)
+![amazon logo](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/marketplace/integracion-de-amazon/amazon_1.png)
 
 La configuración con Amazon tiene como objetivo enviar el catálogo de productos de su tienda VTEX a este marketplace, permitiéndole anunciar sus productos y aumentar sus ventas. 
 

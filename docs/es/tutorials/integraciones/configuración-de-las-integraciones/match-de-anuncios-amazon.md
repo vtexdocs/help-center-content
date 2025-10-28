@@ -19,7 +19,7 @@ Cada vez que se envía a Amazon un [SKU](/es/tracks/catalogo-101--5AF0XfnjfWeopI
 
 El EAN registrado en VTEX se utiliza para hacer la equivalencia con los [ASIN](https://afiliados.amazon.com.mx/) (*Amazon Standard Identification Number, o número de identificación estándar de Amazon*) correspondientes en Amazon. Para hacer el emparejamiento entre EAN y ASIN, es necesario realizar el matching manualmente. La correspondencia entre EAN y ASIN debe ser exacta para que los anuncios se vinculen correctamente.  
 
-![Presentación match de anuncios](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/configuraci%C3%B3n-de-las-integraciones/match-de-anuncios-amazon_1.gif)
+![Presentación match de anuncios](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/configuraci%C3%B3n-de-las-integraciones/match-de-anuncios-amazon_1.gif)
 
 ## Pestaña Oportunidad  
 
@@ -78,7 +78,7 @@ Para aprobar el match, el seller debe seguir los pasos a continuación:
 1. En la pestaña `Oportunidad`, haz clic en el ícono <i class="fas fa-ellipsis-v"></i>.  
 2. Haz clic en la opción `Ver detalles`.  
 3. Consulta la información que aparece en la página.    
-![Match individual de anuncios](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/configuraci%C3%B3n-de-las-integraciones/match-de-anuncios-amazon_2.png)
+![Match individual de anuncios](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/configuraci%C3%B3n-de-las-integraciones/match-de-anuncios-amazon_2.png)
 
 4. Según la conclusión del análisis, haz clic en uno de los botones disponibles: `Publicar`, `Rechazar y pedir revisión` o `Rechazar`.
 
@@ -91,13 +91,13 @@ En la pestaña `Oportunidad`, todos los productos listados que presenten equival
 1. En la pestaña `Oportunidad`, marca la casilla situada junto al título de los anuncios con equivalencia SKU <> ASIN.  
 Al seleccionar los productos, aparecerá en la pantalla el siguiente pop up indicando cuántos productos se han seleccionado.  
 
-![popupES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/configuraci%C3%B3n-de-las-integraciones/match-de-anuncios-amazon_3.png)
+![popupES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/configuraci%C3%B3n-de-las-integraciones/match-de-anuncios-amazon_3.png)
 
 2. Al finalizar la selección de productos, haz clic en `Publicar seleccionados`.  
 
 3. En el pop up de confirmación del matching, comprueba los anuncios elegidos y haz clic en `Publicar seleccionados`.  
 
-![Confirmacioin del matching](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/configuraci%C3%B3n-de-las-integraciones/match-de-anuncios-amazon_4.png)
+![Confirmacioin del matching](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/configuraci%C3%B3n-de-las-integraciones/match-de-anuncios-amazon_4.png)
 
 Tras la confirmación, tus anuncios se enviarán y se pondrán en cola para su procesamiento. Una vez aprobado, el anuncio aparecerá en la pestaña __Anuncios__, donde podrás __"ver detalles" de tu anuncio__, __ver "anuncio sugerido" por Amazon__ y __buscar__ anuncios en la barra de búsqueda.  
 

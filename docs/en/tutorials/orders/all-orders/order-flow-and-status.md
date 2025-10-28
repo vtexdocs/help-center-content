@@ -38,7 +38,7 @@ There are four possible order flows on the VTEX platform:
 
 ### Marketplace flow
 
-![pedido_marketplace_en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/orders/all-orders/order-flow-and-status_1.png)
+![pedido_marketplace_en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/orders/all-orders/order-flow-and-status_1.png)
 
 The marketplace flow is integrated with the seller flow. When an order delivered by an external seller (which is not the main seller) is finalized, this is the flow visible to the marketplace:
 
@@ -55,7 +55,7 @@ Learn how to identify orders from marketplaces in the article [Viewing marketpla
 
 ### Seller flow
 
-![pedido_fluxo_seller_en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/orders/all-orders/order-flow-and-status_2.png)
+![pedido_fluxo_seller_en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/orders/all-orders/order-flow-and-status_2.png)
 
 This is the order flow visible to the store responsible for shipping the order products. In this case, the order was placed through another store (online marketplace), and the seller flow starts once the order is confirmed.
 
@@ -82,7 +82,7 @@ This is the order flow visible to the store responsible for shipping the order p
 
 ### Complete flow
 
-![pedido_fluxo_completo_en_2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/orders/all-orders/order-flow-and-status_3.png)
+![pedido_fluxo_completo_en_2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/orders/all-orders/order-flow-and-status_3.png)
 
 The complete order flow is visible to the store that sells and delivers the order. It is composed of the marketplace flow followed by the seller flow.
 
@@ -122,7 +122,7 @@ Learn more about order cancellation in the article [Why was my order cancelled?]
 
 ### Chain flow
 
-![pedido_fluxo_chain_en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/orders/all-orders/order-flow-and-status_4.png)
+![pedido_fluxo_chain_en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/orders/all-orders/order-flow-and-status_4.png)
 
 The order flow seen by the intermediate store in a [Multilevel Omnichannel Inventory](/en/tutorial/multilevel-omnichannel-inventory--7M1xyCZWUyCB7PcjNtOyw4) is similar to the marketplace order flow, except for receiving the payment for orders. In the `Payment pending` stage, instead of the chain receiving payment directly from the gateway, the marketplace informs the chain it has received the payment confirmation.
 

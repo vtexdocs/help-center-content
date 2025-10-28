@@ -44,10 +44,10 @@ En el sitio es posible validar si la configuración se ha efectuado correctament
 3. En este momento el tipo de servicio debe estar disponible para selección. El mensaje debe ser escrito en hasta 150 caracteres.
 4. Seleccione el servicio en el carrito y haga clic en el link para agregar mensaje.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/campos-personalizados/configurar-mensaje-personalizado-de-regalo_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/campos-personalizados/configurar-mensaje-personalizado-de-regalo_1.png)
 
 Puede ver el mensaje escrito en la página de __Mi Cuenta > Mis Pedidos__:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/campos-personalizados/configurar-mensaje-personalizado-de-regalo_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/campos-personalizados/configurar-mensaje-personalizado-de-regalo_2.png)
 
 > ℹ️ Después de configurar el servicio en el SKU aguarde la indexación para que el registro tenga efecto en el sitio. Después de esto ya será posible probar la compra con este servicio activo.

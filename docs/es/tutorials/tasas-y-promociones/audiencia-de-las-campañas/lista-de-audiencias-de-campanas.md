@@ -17,7 +17,7 @@ subcategoryId: 2cI57eZ3ZiWSeaQs26Gwys
 
 Tal como se muestra a continuación, podrás ver la lista de audiencias de campañas registradas en tu tienda desde la página *Promociones > Audiencia de campañas* del Admin VTEX.
 
-![lista-audiencias-campanha-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/tasas-y-promociones/audiencia-de-las-campa%C3%B1as/lista-de-audiencias-de-campanas_1.png)
+![lista-audiencias-campanha-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/tasas-y-promociones/audiencia-de-las-campa%C3%B1as/lista-de-audiencias-de-campanas_1.png)
 
 Desde esta página, puedes realizar las acciones a continuación:
 
@@ -48,7 +48,7 @@ Las audiencias de campaña se presentan en _tarjetas_ que incluyen la informaci�
 
 Para ver las audiencias de campaña [archivadas](#archivar-audiencias-de-campana), dirígete a la opción **Presentar** y haz clic en **Archivados**, tal como se muestra a continuación:
 
-![toggle-audiencias-campanha-arquivadas-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/tasas-y-promociones/audiencia-de-las-campa%C3%B1as/lista-de-audiencias-de-campanas_2.png)
+![toggle-audiencias-campanha-arquivadas-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/tasas-y-promociones/audiencia-de-las-campa%C3%B1as/lista-de-audiencias-de-campanas_2.png)
 
 Para volver a ver las audiencias de campaña no archivadas, haz clic en **No archivados**.
 

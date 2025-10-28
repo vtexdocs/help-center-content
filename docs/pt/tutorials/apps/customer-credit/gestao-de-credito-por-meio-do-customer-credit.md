@@ -69,11 +69,11 @@ Para um número reduzido de cadastros, o cliente pode criar as contas uma a uma 
 - E-mail
 - Limite de crédito
 
-![CustomerCredit1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/apps/customer-credit/gestao-de-credito-por-meio-do-customer-credit_1.png)
+![CustomerCredit1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/apps/customer-credit/gestao-de-credito-por-meio-do-customer-credit_1.png)
 
 Se, por outro lado, a base tem um número grande de contas, o mais indicado é importar uma planilha em formato CSV. Você pode baixar um modelo desse documento na seção Contas e preenchê-lo com as informações necessárias. Para isso, clique no botão __Importar__.
 
-![CustomerCredit2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/apps/customer-credit/gestao-de-credito-por-meio-do-customer-credit_2.png)
+![CustomerCredit2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/apps/customer-credit/gestao-de-credito-por-meio-do-customer-credit_2.png)
 
 ### Grandes bases
 

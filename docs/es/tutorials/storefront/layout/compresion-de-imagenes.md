@@ -42,7 +42,7 @@ Al mismo tiempo, las imágenes PNG se optimizan utilizando[ pngquant](https://pn
 
 Por último, VTEX entrega el archivo más compacto de entre el WebP sin pérdida y el PNG optimizado, como se ilustra en el siguiente diagrama.
 
-![png-image-compression-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/compresion-de-imagenes_1.PNG)
+![png-image-compression-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/compresion-de-imagenes_1.PNG)
 
 ## JPG/JPEG
 
@@ -50,7 +50,7 @@ Para imágenes en formato **JPG/JPEG**, indicado para fotos, la conversión a We
 
 VTEX entrega al cliente la imagen que tenga el tamaño de archivo más pequeño de entre la original y la convertida a WebP sin pérdida, como se ilustra en el siguiente diagrama.
 
-![webp-image-compression-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/compresion-de-imagenes_2.PNG)
+![webp-image-compression-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/compresion-de-imagenes_2.PNG)
 
 ## Artículos relacionados
 

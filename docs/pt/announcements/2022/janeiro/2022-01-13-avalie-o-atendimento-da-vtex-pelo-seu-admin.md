@@ -17,7 +17,7 @@ announcementSynopsisPT: 'Lançamos uma página de pesquisa de satisfação no Ad
 
 Lançamos a nova página *Pesquisa de Satisfação* no seu Admin VTEX. Agora, você pode avaliar o atendimento do nosso suporte sem sair do ambiente VTEX.
 
-![Pesquisa de satisfação PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2022/janeiro/2022-01-13-avalie-o-atendimento-da-vtex-pelo-seu-admin_1.png)
+![Pesquisa de satisfação PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2022/janeiro/2022-01-13-avalie-o-atendimento-da-vtex-pelo-seu-admin_1.png)
 
 ## O que mudou?
 

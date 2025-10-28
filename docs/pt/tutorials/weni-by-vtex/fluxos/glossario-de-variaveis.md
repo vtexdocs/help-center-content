@@ -61,10 +61,10 @@ Variáveis globais, ou globals, são variáveis criadas que podem ser acessadas 
 
 Para criar uma global, basta ir para as configurações gerais de sua organização e descer até o fim da página, onde você irá encontrar a aba para as globals.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/glossario-de-variaveis_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/glossario-de-variaveis_1.png)
 
 Após isso, basta clicar em Criar Global, digitar o nome da global que você deseja juntamente com o valor.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/glossario-de-variaveis_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/glossario-de-variaveis_2.png)
 
 Assim, ela vai se tornar acessível em qualquer fluxo através da variável `@globals.nome_da_global`

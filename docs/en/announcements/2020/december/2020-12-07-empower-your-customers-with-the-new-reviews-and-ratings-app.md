@@ -25,7 +25,7 @@ The application is available in the [VTEX App Store](https://apps.vtex.com) and 
 - Allows you to moderate reviews: approve product reviews before they are published on the product page;
 - Allows you to configure your store to enable anonymous reviews.
 
-![Reviews and Ratings - Printscreen](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2020/december/2020-12-07-empower-your-customers-with-the-new-reviews-and-ratings-app_1.png)
+![Reviews and Ratings - Printscreen](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2020/december/2020-12-07-empower-your-customers-with-the-new-reviews-and-ratings-app_1.png)
 
 ## What are the advantages?
 - Allows your customer to be more confident and assertive when shopping, based on ratings from other users;

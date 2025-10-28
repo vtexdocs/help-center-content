@@ -37,7 +37,7 @@ The general settings display the following options related to[ product and SKU s
 
 The facet settings have settings related to the[ filters](/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/50Dh4mpv0Sax0XpbvsjAtP) displayed to your customers during the search:
 
-![Facet configurations](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/intelligent-search/intelligent-search-settings/search-configuration_1.png)
+![Facet configurations](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/intelligent-search/intelligent-search-settings/search-configuration_1.png)
 
 * **Facet order:** Order in which the facets will be displayed in the store. If no facet is selected, the default order is alphabetical.
 

@@ -22,7 +22,7 @@ El plazo de envío de un pedido es calculado considerando los seguientes aspecto
 - [Muelle](/es/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj)
 - [Política de envío](/es/tutorial/politica-de-envio--tutorials_140)
 
-![lead_time_image_total_time_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/estrat%C3%A9gia-de-env%C3%ADo/como-se-calcula-el-plazo-de-entrega-del-pedido_1.png)
+![lead_time_image_total_time_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/estrat%C3%A9gia-de-env%C3%ADo/como-se-calcula-el-plazo-de-entrega-del-pedido_1.png)
 
 Usted define una duración para cada una de esas etapas y su cliente en checkout vé um plazo de envío que es la suma de estos tiempos.  
 

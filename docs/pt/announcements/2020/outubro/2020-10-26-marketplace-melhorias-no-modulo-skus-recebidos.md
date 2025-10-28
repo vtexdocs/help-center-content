@@ -29,7 +29,7 @@ Vale notar que essa ação pode ser desfeita. É possível aprovar um SKU bloque
 
 Não é preciso realizar nenhuma configuração para ativar essa funcionalidade, ela será instalada de forma automática na plataforma VTEX. Para saber mais sobre o bloqueio de SKUs, no painel do módulo SKUs recebidos, confira nosso artigo sobre [Catalogação manual de SKUs](/pt/tutorial/sugerindo-e-aprovando-skus--tutorials_396).
 
-![PT SKUs Recebidos Announcement](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2020/outubro/2020-10-26-marketplace-melhorias-no-modulo-skus-recebidos_1.jpg)
+![PT SKUs Recebidos Announcement](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2020/outubro/2020-10-26-marketplace-melhorias-no-modulo-skus-recebidos_1.jpg)
 
 ## Configurações de aprovação automática de SKUs
 

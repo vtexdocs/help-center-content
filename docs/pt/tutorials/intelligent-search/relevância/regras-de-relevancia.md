@@ -24,7 +24,7 @@ Existem dois cenários possíveis de configurações de relevância:
 - **Critérios prioritários:** é a forma de forçar que um ou mais critérios terão prioridade maior entre os demais. Nessa situação não existem pesos, pois todos os produtos que possuírem essa característica serão apresentados primeiro no resultado de busca.
 - **Composição de critérios:** é a forma de distribuir pesos para cada opção, variando de 0 a 10. Aqui, não existe uma ordem entre os critérios, serão os pesos que vão definir a relevância.
 
-![criterios-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/intelligent-search/relev%C3%A2ncia/regras-de-relevancia_1.png)
+![criterios-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/intelligent-search/relev%C3%A2ncia/regras-de-relevancia_1.png)
 
 As informações aplicadas para compor a relevância são:
 
@@ -108,5 +108,5 @@ Para alterar a configuração de relevância, siga os passos abaixo.
 
    Caso você queira mudar a posição de um critério de **Composição de critérios** para **Critérios prioritários**, arraste-o pelo ícone <i class="fas fa-grip-vertical"></i> para a área superior, conforme ilustrado na imagem abaixo. Note que quando o critério se torna prioritário, não é mais possível alterar seu peso. 
 
-    ![criterios-prioritarios-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/intelligent-search/relev%C3%A2ncia/regras-de-relevancia_2.gif)
+    ![criterios-prioritarios-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/intelligent-search/relev%C3%A2ncia/regras-de-relevancia_2.gif)
 5. Para finalizar, clique em `Salvar`.

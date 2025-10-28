@@ -17,7 +17,7 @@ announcementSynopsisES: 'Aplicación que lista los Puntos de Recogida y los mues
 
 Una de las funcionalidades más comunes de los sitios web y de las tiendas en línea es poner a disposición mapas que señalan la ubicación de las tiendas físicas. Con la nueva aplicación [Store Locator](https://apps.vtex.com/vtex-store-locator/p#overview), las tiendas desarrolladas con VTEX IO pueden utilizar Google Maps para listar los puntos de recogida registrados en la tienda y mostrarlos como marcadores en un mapa.
 
-![Maps](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2021/marzo/2021-03-19-muestre-puntos-de-recogida-en-google-maps_1.png)
+![Maps](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2021/marzo/2021-03-19-muestre-puntos-de-recogida-en-google-maps_1.png)
 
 ## ¿Qué cambió?
 Las tiendas desarrolladas con VTEX IO ahora pueden instalar la aplicación Store Locator y mostrar los puntos de recogida como marcadores en Google Maps.

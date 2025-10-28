@@ -25,9 +25,9 @@ Cuando el usuario realiza una búsqueda en una tienda VTEX utilizando [Intellige
 
 Ejemplo: al buscar en el sitio web de la tienda productos que contengan el término "Pendleton", los resultados de la búsqueda muestran 6 productos. Sin embargo, cuando accedemos al Admin VTEX (__Storefront > Intelligent Search > Explicación de la búsqueda__) e ingresamos el mismo término, se muestran 9 productos.
 
-![Filter_1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/troubleshooting/operaciones-de-la-tienda/el-producto-no-se-muestra-en-la-busqueda-del-sitio-web_1.png)
+![Filter_1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/troubleshooting/operaciones-de-la-tienda/el-producto-no-se-muestra-en-la-busqueda-del-sitio-web_1.png)
 
-![Filter_2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/troubleshooting/operaciones-de-la-tienda/el-producto-no-se-muestra-en-la-busqueda-del-sitio-web_2.png)
+![Filter_2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/troubleshooting/operaciones-de-la-tienda/el-producto-no-se-muestra-en-la-busqueda-del-sitio-web_2.png)
 
 Este comportamiento puede ocurrir debido a los siguientes escenarios:
 
@@ -83,7 +83,7 @@ Para remover la restricción de búsqueda por marca (brand) y permitir que los p
 
 4. En **Selecciona una aplicación**, chaz clic en la opción de Rewriter (**vtex.rewriter@{app-version-number}**).
 
-![Graphql_ide_es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/troubleshooting/operaciones-de-la-tienda/el-producto-no-se-muestra-en-la-busqueda-del-sitio-web_3.png)
+![Graphql_ide_es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/troubleshooting/operaciones-de-la-tienda/el-producto-no-se-muestra-en-la-busqueda-del-sitio-web_3.png)
 
 5. En el campo de entrada de datos de la consulta (debajo de **GraphiQL**), ingresa los datos de la función mutación *saveInternal*:
 

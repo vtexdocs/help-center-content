@@ -44,7 +44,7 @@ De forma resumida, o módulo **Estoque & entrega** divide-se nas seguintes seç�
 * **Configurações**: configurações gerais de logística, como habilitar a notificação de estoque crítico.
 * **[Pontos de retirada](/pt/tutorial/como-funcionam-pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R)**: seção para cadastro de pontos físicos onde os clientes podem retirar seus pedidos.
 
-    ![estoque e entregaPT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/m%C3%B3dulos-vtex-primeiros-passos/logistica-101/primeiros-passos-da-logistica_1.png)
+    ![estoque e entregaPT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/m%C3%B3dulos-vtex-primeiros-passos/logistica-101/primeiros-passos-da-logistica_1.png)
 
 > ℹ️ Clientes que utilizam o [**VTEX Shipping Network](https://vtex.com/br-pt/log/)** acessam a funcionalidade pelo módulo **Estoque & Entrega**.
 

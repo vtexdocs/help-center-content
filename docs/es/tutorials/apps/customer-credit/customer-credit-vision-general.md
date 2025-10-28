@@ -39,7 +39,7 @@ A través de VTEX Admin o [API de Customer Credit](https://developers.vtex.com/d
 
 Vea a continuación el flujo básico de cómo funciona el Customer Credit en las tiendas VTEX:
 
-![GIF_CC_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/apps/customer-credit/customer-credit-vision-general_1.gif)
+![GIF_CC_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/apps/customer-credit/customer-credit-vision-general_1.gif)
 
 ## Definiciones en Customer Credit
 

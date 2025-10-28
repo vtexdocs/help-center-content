@@ -33,7 +33,7 @@ La [política comercial](/es/tutorial/o-que-e-uma-politica-comercial--563tbcL0TY
 3. Selecciona las políticas comerciales que deseas asociar a los marketplaces.
 4. Haz clic en `Guardar`.
 
-![Dados gerais da promoção - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/troubleshooting/operaciones-de-la-tienda/promocion-no-aplicada-en-marketplace_1.png)
+![Dados gerais da promoção - ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/troubleshooting/operaciones-de-la-tienda/promocion-no-aplicada-en-marketplace_1.png)
 
 ### Seleccionar afiliados
 Para que una promoción se aplique correctamente en un marketplace es necesario seleccionar el afiliado deseado. El afiliado es el partner asociado al marketplace que disponibiliza los productos promocionales. A continuación se detallan los pasos a seguir para seleccionar correctamente un afiliado a la hora de configurar una promoción.
@@ -41,7 +41,7 @@ Para que una promoción se aplique correctamente en un marketplace es necesario 
 1. Crea una [promoción regular](/es/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI#).  
 2. Rellena el campo **Afiliados** con el nombre del afiliado asociado al marketplace deseado.
 
-   ![condições para promoção - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/troubleshooting/operaciones-de-la-tienda/promocion-no-aplicada-en-marketplace_2.png)
+   ![condições para promoção - ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/troubleshooting/operaciones-de-la-tienda/promocion-no-aplicada-en-marketplace_2.png)
 
 3. En la sección **Política comercial**, selecciona las opciones `igual a` y **Entregado por mí (Otras tiendas)**.  
 4. Haz clic en `Guardar`.

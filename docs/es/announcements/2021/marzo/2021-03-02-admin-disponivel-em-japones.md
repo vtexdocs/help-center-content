@@ -25,4 +25,4 @@ La [apertura de una oficina en Singapur](https://vtex.com/us-en/press/vtex-opens
 
 ## ¿Qué se necesita hacer?
 Para visualizar el Admin en japonés, basta con seleccionar el código __JP__ en el menú desplegable de idioma situado en la esquina superior derecha de la pantalla. 
-![Seleccionar el código JP ](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2021/marzo/2021-03-02-admin-disponivel-em-japones_1.png)
+![Seleccionar el código JP ](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2021/marzo/2021-03-02-admin-disponivel-em-japones_1.png)

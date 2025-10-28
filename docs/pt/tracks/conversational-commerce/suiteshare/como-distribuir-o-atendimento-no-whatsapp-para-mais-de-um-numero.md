@@ -17,7 +17,7 @@ order: 6
 
 Você já conseguiu o mais difícil, fazer com que seus clientes entrem em contato com a sua empresa pelo WhatsApp. Agora, basta configurar com quem eles irão falar, definir os setores ou se serão direcionados para o atendente mais próximo a ele. 
 
-![Como distribuir o atendimento no WhatsApp para mais de um número 1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/conversational-commerce/suiteshare/como-distribuir-o-atendimento-no-whatsapp-para-mais-de-um-numero_1.png)
+![Como distribuir o atendimento no WhatsApp para mais de um número 1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/conversational-commerce/suiteshare/como-distribuir-o-atendimento-no-whatsapp-para-mais-de-um-numero_1.png)
 
 Para começar, você precisa criar um link para cada número que irá atender na sua empresa. Se você ainda não criou ou não sabe como criar, [leia mais sobre links](/pt/tutorial/links--7h7YXPFovF2k5z6ZSZs5WB). Mas, se você já possui todos os links criados vamos começar a organizar o nosso time. 
 
@@ -25,7 +25,7 @@ Para começar, você precisa criar um link para cada número que irá atender na
 
 Acesse “_**Organizar**_” e escolha como será distribuído o atendimento, você pode escolher entre **Sequencial, Geolocalizado** (Apenas para o plano Enterprise) e **Seletivo**.
 
-![Como distribuir o atendimento no WhatsApp para mais de um número 2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/conversational-commerce/suiteshare/como-distribuir-o-atendimento-no-whatsapp-para-mais-de-um-numero_2.png)
+![Como distribuir o atendimento no WhatsApp para mais de um número 2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/conversational-commerce/suiteshare/como-distribuir-o-atendimento-no-whatsapp-para-mais-de-um-numero_2.png)
 
 No modo **sequencial**, cada cliente que clica nesse link cairá para um atendente diferente, a distribuição é feita de forma sequencial, onde cada atendente terá a sua vez de forma igualitária.  Como se fosse uma fila de espera, cada cliente será direcionado para um atendente, numa espécie de central de atendimento (ou como alguns gostam de chamar), em um call-center de WhatsApp.
 

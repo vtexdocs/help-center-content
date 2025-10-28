@@ -25,26 +25,26 @@ Realizadas as devidas definições, o vínculo da coleção com a vitrine é fei
 
 No exemplo abaixo, iremos definir a vitrine apresentada na Home, sendo assim, deve-se realizar a alteração no seguinte layout:
 
-![cms_layout_home ](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/definicao-de-vitrines_1.png)
+![cms_layout_home ](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/definicao-de-vitrines_1.png)
 
 No layout selecionado, adicione o controle correspondente à vitrine onde deseja exibir a coleção clicando em **Add object**.
 Após selecionar o tipo de controle desejado, defina seu nome e clique em **Adicionar**.
 
 __Não se esqueça de salvar as configurações feitas para que seja possível posteriormente editar o controle criado.__
 
-![save settings cms](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/definicao-de-vitrines_2.png)
+![save settings cms](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/definicao-de-vitrines_2.png)
 
 ### Edição do controle
 
 Para editar seus controles, clique no **símbolo de lápis**, conforme mostra a imagem exemplo abaixo: 
 
-![banner_edit_cms](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/definicao-de-vitrines_3.png)
+![banner_edit_cms](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/definicao-de-vitrines_3.png)
 
 Ao editar o controle é necessário adicionar seus conteúdos, que representam cada conjunto de itens que serão exibidos.
 Para isso, clique em **Add content**
 
-![cadastro_conteudo_cms ](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/definicao-de-vitrines_4.png)
-![cadastro_conteudo_cms 2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/definicao-de-vitrines_5.png)
+![cadastro_conteudo_cms ](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/definicao-de-vitrines_4.png)
+![cadastro_conteudo_cms 2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/definicao-de-vitrines_5.png)
 
 - **"Adicionar arquivo":** para selecionar a coleção que será exibida nesse conteúdo. 
 - **Partner / Campaign / Source:**  define a exibição desse conteúdo caso o visitante possua alguma UTM correspondente em sua URL de origem. 
@@ -60,7 +60,7 @@ Deve-se marcar a opção **Active Content** e clicar em **Add content list**, sa
 
 Se caso depois de salvo o conteúdo for necessário editá-lo, basta clicar no segundo simbolo de lápis conforme mostra a imagem abaixo:
 
-![edit_content_cms](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/definicao-de-vitrines_6.png)
+![edit_content_cms](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/definicao-de-vitrines_6.png)
 
 Deve-se realizar as mudanças desejadas, clicar em **Update Content List** e salvar todas as configurações feitas clicando em **Save Settings** depois. 
 

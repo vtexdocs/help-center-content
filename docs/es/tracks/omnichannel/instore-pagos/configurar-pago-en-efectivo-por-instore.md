@@ -35,7 +35,7 @@ Ahora vamos a crear la condición de pago.
 1. Aún en la página de **Configuración **del módulo de **Pagos**, haz clic en la pestaña **Planes de Pago**.
 2. Haz clic en el botón verde con el ícono `+` para añadir una nueva condición de pago, como se muestra a continuación.
 
-![es-add-payment-condition](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/omnichannel/instore-pagos/configurar-pago-en-efectivo-por-instore_1.png)
+![es-add-payment-condition](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/omnichannel/instore-pagos/configurar-pago-en-efectivo-por-instore_1.png)
 
 3. En la sección **Pagos Personalizados**, haz clic en la opción **Efectivo** que ha creado.
 4. Introduce un nombre para esta condición de pago, cambia el status a **Activo**, y en el campo **Procesar con la afiliación**, selecciona el pago personalizado que creaste en el paso anterior.

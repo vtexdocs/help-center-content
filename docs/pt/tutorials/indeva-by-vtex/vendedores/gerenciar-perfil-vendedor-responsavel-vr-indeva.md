@@ -36,7 +36,7 @@ Este documento explica como atribuir ou encerrar o período como VR e quais perm
   <li>No painel do vendedor, clique em **Ações** e selecione **Tornar VR**.</li>
 </ol>
 
-<img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/vendedores/gerenciar-perfil-vendedor-responsavel-vr-indeva_1.png" alt="Tela com opção de tornar vendedor responsável" loading="lazy" />
+<img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/vendedores/gerenciar-perfil-vendedor-responsavel-vr-indeva_1.png" alt="Tela com opção de tornar vendedor responsável" loading="lazy" />
 
 <ol start="2">
   <li>
@@ -50,7 +50,7 @@ Este documento explica como atribuir ou encerrar o período como VR e quais perm
   <li>Clique em **Tornar vendedor responsável** para concluir.</li>
 </ol>
 
-<img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/vendedores/gerenciar-perfil-vendedor-responsavel-vr-indeva_2.png" alt="Tela de confirmação para tornar vendedor responsável" loading="lazy" />
+<img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/vendedores/gerenciar-perfil-vendedor-responsavel-vr-indeva_2.png" alt="Tela de confirmação para tornar vendedor responsável" loading="lazy" />
 
 > ⚠️ A senha de acesso ao ambiente web será criada no primeiro login na plataforma.
 
@@ -60,12 +60,12 @@ Este documento explica como atribuir ou encerrar o período como VR e quais perm
   <li>No painel do vendedor, clique em **Ações** e selecione **Finalizar período como VR**.</li>
 </ol>
 
-<img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/vendedores/gerenciar-perfil-vendedor-responsavel-vr-indeva_3.png" alt="Tela com opção de finalizar período como VR" loading="lazy" />
+<img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/vendedores/gerenciar-perfil-vendedor-responsavel-vr-indeva_3.png" alt="Tela com opção de finalizar período como VR" loading="lazy" />
 
 <ol start="2">
   <li>Informe a **Data de término como VR** (último dia de acesso).</li>
   <li>Clique em **Finalizar** para confirmar.</li>
 </ol>
 
-<img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/vendedores/gerenciar-perfil-vendedor-responsavel-vr-indeva_4.png" alt="Tela de confirmação de término do período como VR" loading="lazy" />
+<img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/vendedores/gerenciar-perfil-vendedor-responsavel-vr-indeva_4.png" alt="Tela de confirmação de término do período como VR" loading="lazy" />
 

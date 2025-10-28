@@ -51,7 +51,7 @@ No campo <i class="fas fa-search" aria-hidden="true"></i>`Buscar`, você pode bu
 
 No canto superior, estão as datas das interações. Você pode clicar na data para alterar o intervalo de tempo e filtrar os resultados exibidos.
 
-![Imagem Supervisor](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/agent-builder/visao-geral-agent-builder_1.png)
+![Imagem Supervisor](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/agent-builder/visao-geral-agent-builder_1.png)
 
 ### Perfil
 
@@ -143,11 +143,11 @@ Abaixo de **Prévia dos agentes,** há dois botões de alternância:
 
 - **Feedback progressivo dos agentes:** ative-o <i class="fas fa-toggle-on" aria-hidden="true"></i> se quiser que o agente envie atualizações em tempo real ao usuário enquanto redige a resposta final. Caso contrário, deixe-o desativado <i class="fas fa-toggle-off" aria-hidden="true"></i>.
 
-![GIF Feedback progressivo dos agentes](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/agent-builder/visao-geral-agent-builder_2.gif)
+![GIF Feedback progressivo dos agentes](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/agent-builder/visao-geral-agent-builder_2.gif)
 
 - **Formato de mensagem múltipla:** ative-o <i class="fas fa-toggle-on" aria-hidden="true"></i> se quiser que o agente envie várias mensagens, como respostas rápidas, listas, catálogo. Caso contrário, deixe-o desativado <i class="fas fa-toggle-off" aria-hidden="true"></i>. 
 
-![Formato de mensagem múltipla](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/agent-builder/visao-geral-agent-builder_3.png)
+![Formato de mensagem múltipla](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/agent-builder/visao-geral-agent-builder_3.png)
 
 Abaixo de **Suporte humano,** há um botão de alternância:
 

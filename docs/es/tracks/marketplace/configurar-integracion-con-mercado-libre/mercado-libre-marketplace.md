@@ -19,7 +19,7 @@ order: 1
 
 Su operación está presente en países: Argentina, Brasil, Chile, Colombia, México, Uruguay y Venezuela.
 
-![image3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/marketplace/configurar-integracion-con-mercado-libre/mercado-libre-marketplace_1.png)
+![image3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/marketplace/configurar-integracion-con-mercado-libre/mercado-libre-marketplace_1.png)
 
 El marketplace de Mercado Libre ofrece un entorno de comercio en línea totalmente automatizado, organizado por temas y fácil de usar. Este servicio ofrece a los compradores una amplia variedad de artículos nuevos y usados, permitiendo a empresas y particulares publicitar artículos y realizar sus ventas y compras en el mercado más grande de América Latina.
 

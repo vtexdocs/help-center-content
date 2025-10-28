@@ -23,7 +23,7 @@ To access it, go to the **Chats** module on the Weni platform, and within the
 preferences menu, click on the **Dashboard** button. Currently, this tool is
 available only for managers and administrators.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/chats/weni-chats-human-service-dashboard_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/chats/weni-chats-human-service-dashboard_1.png)
 
 #### Main Screen
 
@@ -31,7 +31,7 @@ When accessing the Dashboard, the project data is displayed. Thus, if there is
 more than one department, the metrics represent the data from all departments
 within the project.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/chats/weni-chats-human-service-dashboard_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/chats/weni-chats-human-service-dashboard_2.png)
 
 **Indicators:**
 
@@ -40,11 +40,11 @@ within the project.
 - **Response Time**: Refers to the average time contacts wait for each response, also calculated as an average from the start of operations to the current time.
 - **Interaction Time**: Indicates the average duration of chats, from start to closure.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/chats/weni-chats-human-service-dashboard_3.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/chats/weni-chats-human-service-dashboard_3.png)
 
 When viewing all departments within the project, the departments listed below will appear, displaying the same metrics mentioned earlier but detailed specifically for each department.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/chats/weni-chats-human-service-dashboard_4.png) 
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/chats/weni-chats-human-service-dashboard_4.png) 
 
 Next to the listed departments is the **Online Agents** column, which displays agents with an online status along with the number of active chats assigned to them.
 
@@ -57,7 +57,7 @@ Currently, two types of filters are available. The first is the **Department
 Filter**, which allows you to select a specific department and view its detailed
 data.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/chats/weni-chats-human-service-dashboard_5.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/chats/weni-chats-human-service-dashboard_5.png)
 
 When selecting a department, the main data will be shown exclusively for that department. This way, the queues within that department will be listed, and the online agents displayed will only be those in that department.
 

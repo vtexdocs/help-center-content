@@ -19,7 +19,7 @@ La versión de un bloque es una copia de su contenido en un momento determinado.
 
 Con el recurso **Versiones**, puedes crear, programar y experimentar con diferentes contenidos para un bloque determinado, sin comprometer la versión publicada de tu tienda. Cada bloque disponible en el Site Editor puede tener varias versiones.
 
-![Activating Versions - Versiones](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/site-editor/gestion-de-versiones-de-contenido_1.png)
+![Activating Versions - Versiones](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/site-editor/gestion-de-versiones-de-contenido_1.png)
 
 Ve en las siguientes secciones cómo:
 

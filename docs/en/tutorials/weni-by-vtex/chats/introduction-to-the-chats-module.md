@@ -35,11 +35,11 @@ This user has all permission levels, can create departments, and delegate suppor
 - **Contact Information**
 By clicking on the contact’s photo or name in any area of the conversation, you can access the **contact information sidebar**. This sidebar displays the contact’s profile photo in a larger size, data such as the communication channel the contact is using, the time of the last interaction, the option to transfer the chat, and the contact’s media gallery.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/chats/introduction-to-the-chats-module_1.png)#### Quick Messages
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/chats/introduction-to-the-chats-module_1.png)#### Quick Messages
 
 Quick Messages is a feature that allows you to register message templates for quick use. By clicking the Quick Messages button, the user can access the function's **sidebar**, where they can view, manage, and register new messages. A message can be used by either clicking on it or typing **/** followed by the message shortcut.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/chats/introduction-to-the-chats-module_2.png) When the desired message is selected, the registered text fills the text editor field.
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/chats/introduction-to-the-chats-module_2.png) When the desired message is selected, the registered text fills the text editor field.
 
 Quick messages can be used in two ways:
 
@@ -47,41 +47,41 @@ Quick messages can be used in two ways:
 
 **Shortcut**: When registering the message, the agent assigns a keyword as a shortcut. To use it with the keyboard only, the agent should type the **/** (slash) key followed by the shortcut word.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/chats/introduction-to-the-chats-module_3.png) The user can navigate through messages using the arrow keys and press **Enter** to use a message. By typing the shortcut text, the tool also performs a specific search for that message.
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/chats/introduction-to-the-chats-module_3.png) The user can navigate through messages using the arrow keys and press **Enter** to use a message. By typing the shortcut text, the tool also performs a specific search for that message.
 
 #### Quick Messages by Department
 
 It's also possible to configure quick messages for each department. Managers can set up these messages when creating the department. See in the image:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/chats/introduction-to-the-chats-module_4.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/chats/introduction-to-the-chats-module_4.png)
 
 #### Transfer Chat
 
 The transfer chat function allows you to route the contact to a specific department, queue, or agent. This function can be accessed in the contact information area.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/chats/introduction-to-the-chats-module_5.png) The user can search by the name of an agent, queue, or department, or select a recipient from the list that opens. Once the transfer is confirmed, the contact is routed to the chosen recipient.
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/chats/introduction-to-the-chats-module_5.png) The user can search by the name of an agent, queue, or department, or select a recipient from the list that opens. Once the transfer is confirmed, the contact is routed to the chosen recipient.
 
 #### Record and Send Audio
 
 Using the buttons in the text box, the user can record an audio message and send it. Before sending it to the contact, the user can play back the audio and then proceed to send it.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/chats/introduction-to-the-chats-module_6.png)**Drag and Drop Files**
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/chats/introduction-to-the-chats-module_6.png)**Drag and Drop Files**
 
 You can drag files into the text box, and **Ctrl \+ V** is enabled to paste image files directly without needing to attach them.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/chats/introduction-to-the-chats-module_7.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/chats/introduction-to-the-chats-module_7.png)
 
 #### Emojis
 
 Emojis can make communication more engaging, as they help convey tone and intent. Weni Chats offers a full emoji panel. See the image below:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/chats/introduction-to-the-chats-module_8.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/chats/introduction-to-the-chats-module_8.png)
 
 #### Text Break
 
 You can press **Shift \+ Enter** to create line breaks, which can help organize your message. See the image below:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/chats/introduction-to-the-chats-module_9.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/chats/introduction-to-the-chats-module_9.png)
 
 #### Dashboard
 
@@ -93,7 +93,7 @@ To simplify locating chat histories, Chats currently offers two types of filters
 
 There is also a **Clear Filters** button to reset the search.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/chats/introduction-to-the-chats-module_10.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/chats/introduction-to-the-chats-module_10.png)
 
 #### View History
 
@@ -101,13 +101,13 @@ The user will see the list of Chats in chronological order, from most recent to 
 
 When viewing the contact’s history, the agent can see the start of the interaction, the chat history with the bot, chat events, and finally, the tags used to classify the chat.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/chats/introduction-to-the-chats-module_11.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/chats/introduction-to-the-chats-module_11.png)
 
 #### Active Signature
 
 You can enable an active signature so that each message exchanged includes the name of the agent responding. To activate this function, go to **Settings \> Chats**. Then, select the department you want to configure. Once inside the department, go to **Additional Options** and select **Active Signature**. See the image below:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/chats/introduction-to-the-chats-module_12.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/chats/introduction-to-the-chats-module_12.png)
 
 After enabling this option, the agent's name will appear in the message bubble followed by a colon, as shown in the image below:
 
@@ -115,7 +115,7 @@ After enabling this option, the agent's name will appear in the message bubble f
 
 By clicking on an agent's name in the dashboard, you open the viewing mode for that agent's interactions. This allows for an overview of the details of each interaction handled by the agent, and a manager can take over a chat at any time by transferring the interaction to themselves.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/chats/introduction-to-the-chats-module_13.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/chats/introduction-to-the-chats-module_13.png)
 
 #### Browser Notification
 
@@ -125,12 +125,12 @@ Since some of our clients choose not to activate sound effects, we have also int
 
 In addition to having a dashboard available, you can also download it in Excel format. See the image below:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/chats/introduction-to-the-chats-module_14.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/chats/introduction-to-the-chats-module_14.png)
 
 #### Editing Contact Fields
 
 If needed, the agent can edit the customer's contact fields, which is especially useful for correcting incorrect data or updating information. To enable this editing function, go to **Settings** and select **Departments**. Open the department and activate the **Custom Fields Editing** function, as shown in the image below.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/chats/introduction-to-the-chats-module_15.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/chats/introduction-to-the-chats-module_15.png)
 
 To make this edit, simply click on the contact's name. A right\-side panel will display the contact information, and then click on the data field to enter the updated information. See the following image:

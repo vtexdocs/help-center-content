@@ -25,17 +25,17 @@ Por otro lado, el **envío activo** ocurre cuando la empresa toma la iniciativa 
 
 Después de la preaprobación del Template Message, se puede comenzar a construir el flujo conversacional. El primer paso es agregar la tarjeta ""Actualizar Contacto"" y elegir la opción ""Canal"", ya que esta definirá desde qué canal se realizará el envío. En esta etapa, elige tu canal de WhatsApp.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/envio-activo-de-mensajes-en-whatsapp_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/envio-activo-de-mensajes-en-whatsapp_1.png)
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/envio-activo-de-mensajes-en-whatsapp_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/envio-activo-de-mensajes-en-whatsapp_2.png)
 
 El **segundo paso** es agregar la tarjeta ""Enviar mensaje"", en la casilla de texto simplemente escriba la siguiente expresión: `@(“”)`. Vea la imagen a continuación:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/envio-activo-de-mensajes-en-whatsapp_3.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/envio-activo-de-mensajes-en-whatsapp_3.png)
 
 La expresión anterior indica que se enviará un Template Message (modelo de mensaje) y que este campo no será tomado en cuenta, ya que el modelo de mensaje a enviar a los clientes puede seleccionarse en la pestaña ""WhatsApp"", ubicada en la misma tarjeta de ""Enviar Mensaje"", como se muestra en la imagen anterior. Al hacer clic en la pestaña ""WhatsApp"", es posible acceder a los mensajes que han sido preaprobados y seleccionarlos para su envío, como se ilustra en la siguiente imagen.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/envio-activo-de-mensajes-en-whatsapp_4.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/envio-activo-de-mensajes-en-whatsapp_4.png)
 
 En este momento, también es posible añadir variables que harán el mensaje más personalizado, como, por ejemplo, la variable @contact.name, que llama al usuario por el nombre registrado en su propio WhatsApp.
 
@@ -49,6 +49,6 @@ Finalmente, para verificar si todo ocurrió correctamente, basta con acceder al 
 
 También es posible enviar un Template Message desde el módulo ""Estudio"", seleccionando el contacto al que deseas enviar el mensaje y haciendo clic en el menú de opciones, ubicado en la esquina superior derecha. Luego, simplemente selecciona ""Iniciar en el Flujo"", elige el flujo y envía. Esta es otra posibilidad que ofrece la Plataforma Weni para realizar el envío activo. Observa la imagen a continuación:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/envio-activo-de-mensajes-en-whatsapp_5.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/envio-activo-de-mensajes-en-whatsapp_5.png)
 
 El proceso de envío activo es el mismo para todos los canales de comunicación, pero la creación del Template Message es exclusiva para el canal de WhatsApp. Esto significa que, mientras que el uso del Template Message no es necesario para otros canales, en WhatsApp solo es posible enviar un modelo de mensaje (inicio del flujo). En los demás canales, es posible enviar más de un mensaje sin limitaciones previas.

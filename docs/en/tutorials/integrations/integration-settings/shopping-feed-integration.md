@@ -19,7 +19,7 @@ The Shopping Feed platform allows global brands to centralize, optimize, and tra
 
 > ⚠️ To integrate with Shopping Feed, you must contact the [VTEX support team](/en/support?/cultureInfo=en) before following this tutorial.  
 
-![Logo shopping feed](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/integrations/integration-settings/shopping-feed-integration_1.png)
+![Logo shopping feed](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/integrations/integration-settings/shopping-feed-integration_1.png)
 
 Once the connector app is configured, your catalog feed will be available on ShoppingFeed, and your products will be ready to be published on the channels of your choice. As you sell across different channels, orders, and product stock levels will automatically stay synchronized between VTEX and Shopping Feed.   
 
@@ -44,7 +44,7 @@ To configure the connector, follow the steps below:
 1. In the app card, click **Settings.**   
 2. Fill in the fields shown in the image below. The fields in the Cron jobs section should be modified according to [this guide](https://crontab.guru/).  
 
-![crontab shopping feed](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/integrations/integration-settings/shopping-feed-integration_2.png)
+![crontab shopping feed](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/integrations/integration-settings/shopping-feed-integration_2.png)
 
 After the app is installed in the store, a new menu option becomes available in the VTEX Admin under **Apps > Installed Apps > Shopping Feed.**  
 
@@ -81,6 +81,6 @@ To create a feed, follow the steps below:
 6. Click the `Add` button and fill in the **[VTEX Shipping Policy](/en/tutorial/creating-a-shipping-policy--66rJO4LKBdyMJOH6Z3dsaT)** and **Shopping Feed Courier** fields.  
 7. Click the `Save` button.  
 
-![config app shopping feed](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/integrations/integration-settings/shopping-feed-integration_3.png)
+![config app shopping feed](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/integrations/integration-settings/shopping-feed-integration_3.png)
 
 > ❗ Each time a new feed is created, it is necessary to refresh all feeds by clicking on **<i class="fas fa-ellipsis-v" aria-hidden="true"></i>Menu > Force all feeds.**

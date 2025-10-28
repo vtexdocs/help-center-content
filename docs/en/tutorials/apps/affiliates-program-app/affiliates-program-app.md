@@ -38,11 +38,11 @@ The app creates three types of affiliate pages, available to them without any ac
 
 The **affiliate page** is the VTEX store URL that they will share with the customers. The following image shows an example:
 
-![print_affiliates_url_en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/apps/affiliates-program-app/affiliates-program-app_1.png)
+![print_affiliates_url_en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/apps/affiliates-program-app/affiliates-program-app_1.png)
 
 The **affiliate profile page** is an interface where the affiliate can track and manage their orders and commissions. The image below shows an example:
 
-![affiliate_profile_page_en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/apps/affiliates-program-app/affiliates-program-app_2.png)
+![affiliate_profile_page_en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/apps/affiliates-program-app/affiliates-program-app_2.png)
 
 The **registration page** allows those who are interested in becoming affiliates to fill in their information to apply for VTEX store registration. 
 
@@ -70,7 +70,7 @@ The **Affiliate Management** page allows you to do the following:
 - [View affiliate details](#viewing-affiliate-details)
 - [Edit an affiliate](#editing-an-affiliate)
 
-![affiliates_management_page_en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/apps/affiliates-program-app/affiliates-program-app_3.png)
+![affiliates_management_page_en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/apps/affiliates-program-app/affiliates-program-app_3.png)
 
 ### Adding an affiliate
 
@@ -115,7 +115,7 @@ The **Order Management** page allows you to do the following:
 - [Export order spreadsheet](#exporting-the-order-list)
 - [View order details](#viewing-order-details)
 
-![orders_management_page_en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/apps/affiliates-program-app/affiliates-program-app_4.jpg)
+![orders_management_page_en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/apps/affiliates-program-app/affiliates-program-app_4.jpg)
 
 ### Monitoring data
 
@@ -164,7 +164,7 @@ The **Commission Management** page allows you to do the following:
 - [Import commissions](#importing-commissions)
 - [Download last import](#downloading-the-last-import)
 
-![commissions_ management_page_en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/apps/affiliates-program-app/affiliates-program-app_5.png)
+![commissions_ management_page_en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/apps/affiliates-program-app/affiliates-program-app_5.png)
 
 ### Searching for commissions
 

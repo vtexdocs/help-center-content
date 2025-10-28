@@ -49,7 +49,7 @@ La configuración del conector se realiza en el Admin. Para completarla, siga la
 
 - **Nombre de SKU*:** determina cuál será la regla para nombrar los SKU en el portal de Dafiti. Debe seleccionar una de las combinaciones disponibles de los siguientes atributos: _Marca_, _Nombre del Producto_ y _Nombre del SKU._
 
-![print nome exibicao produto es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/marketplace/configurar-la-integracion-de-dafiti/configuracion-del-conector-dafiti_1.png)
+![print nome exibicao produto es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/marketplace/configurar-la-integracion-de-dafiti/configuracion-del-conector-dafiti_1.png)
 
 > Ejemplo: mi producto es una zapatilla deportiva negra de Nike. El _Nombre de SKU_ que seleccioné fue _Marca - Nombre del Producto - Nombre del SKU_. Así, el nombre que aparecerá en el portal de Dafiti será Nike zapatilla deportiva negra.
 

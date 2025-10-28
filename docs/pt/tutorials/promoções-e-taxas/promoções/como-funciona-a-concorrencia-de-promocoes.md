@@ -96,7 +96,7 @@ Elas incidem sobre o valor já descontado pela promoção que venceu a concorrê
 
 A sequência de aplicação é: 
 
-![promocao3 PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promo%C3%A7%C3%B5es-e-taxas/promo%C3%A7%C3%B5es/como-funciona-a-concorrencia-de-promocoes_1.png)
+![promocao3 PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promo%C3%A7%C3%B5es-e-taxas/promo%C3%A7%C3%B5es/como-funciona-a-concorrencia-de-promocoes_1.png)
 
 <div style="background-color: #FFF8E1; border-left: 4px solid #FFC107; padding: 12px;">
   Pedidos de origem [**Marketplace**](/pt/tutorial/configurar-promocao-para-marketplace--tutorials_406) e **Fulfillment** não reconhecem acúmulo de promoção, 

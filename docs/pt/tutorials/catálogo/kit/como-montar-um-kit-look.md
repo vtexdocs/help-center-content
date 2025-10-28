@@ -33,13 +33,13 @@ Ou seja, o Kit é um novo produto composto por outros que podem, ou não, estar 
 
 Esse termo é muito conhecido no segmento de Moda e Mobiliário. Um Kit Look é um modo que você consegue comprar vários produtos, visualizando apenas a tela de um produto.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/cat%C3%A1logo/kit/como-montar-um-kit-look_1.gif)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/cat%C3%A1logo/kit/como-montar-um-kit-look_1.gif)
 
 No layout acima, é possível selecionar os itens do kit que o cliente gostaria de comprar e em seguida clicar em “Comprar Produtos Selecionados”.
 
 Ou se preferir comprar o kit completo, basta manter todos os itens selecionados.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/cat%C3%A1logo/kit/como-montar-um-kit-look_2.gif)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/cat%C3%A1logo/kit/como-montar-um-kit-look_2.gif)
 
 Nesse layout cada item possui um botão de “Comprar Separadamente”.
 
@@ -128,7 +128,7 @@ Entenda a relação entre esses controles em [Lista Completa de Controles](/pt/t
 
 Este template deve ser associado a um novo Layout de Página de Produto, que será aplicado apenas na categoria onde os Kits estão cadastrados. Para criar uma nova página de produto selecione a pasta **_"Produto"_** e clique em **_"novo layout"_**.
 
-![2017-03-09 13_40_22-Index](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/cat%C3%A1logo/kit/como-montar-um-kit-look_3.png)
+![2017-03-09 13_40_22-Index](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/cat%C3%A1logo/kit/como-montar-um-kit-look_3.png)
 
 Existe um limite de exibição de até 12 componentes para uma página de kit look. Para que não seja necessário criar vários templates diferentes, basta inserir mais vezes o mesmo código acima - alterando o valor de _**productIndex**_.
 

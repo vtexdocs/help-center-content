@@ -21,7 +21,7 @@ Siga as instruções abaixo:
 
 1. Na seção **Períodos**, clique no **número correspondente à quantidade de períodos** que deseja criar para o ciclo da meta.  
 
-   ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/cadastro-de-metas/divisao-do-ciclo-da-meta-em-periodos-indeva_1.png)  
+   ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/cadastro-de-metas/divisao-do-ciclo-da-meta-em-periodos-indeva_1.png)  
 
 2. Defina **quantos dias o primeiro período deve ter**, utilizando os botões **-** e **+**.  
 

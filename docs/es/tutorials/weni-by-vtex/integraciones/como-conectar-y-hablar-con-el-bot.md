@@ -21,18 +21,18 @@ Alcanzar al consumidor requiere un acceso multicanal. La **comunicación multica
 
 1. Acceder a tu proyecto y hacer clic en **Aplicaciones**.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/como-conectar-y-hablar-con-el-bot_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/como-conectar-y-hablar-con-el-bot_1.png)
 
 2. Dentro de **Aplicaciones** encontrarás un menú con los canales compatibles con la Plataforma Weni.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/como-conectar-y-hablar-con-el-bot_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/como-conectar-y-hablar-con-el-bot_2.png)
 
 3. Haz clic en el lugar indicado y sigue las instrucciones que aparecen en la ventana según el canal que hayas elegido.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/como-conectar-y-hablar-con-el-bot_3.png) ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/como-conectar-y-hablar-con-el-bot_4.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/como-conectar-y-hablar-con-el-bot_3.png) ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/como-conectar-y-hablar-con-el-bot_4.png)
 
 4. Otra forma de agregar canales es haciendo clic en **Aplicaciones > Otras Aplicaciones > Botón Agregar Canal** y luego eligiendo el canal de tu preferencia.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/como-conectar-y-hablar-con-el-bot_5.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/como-conectar-y-hablar-con-el-bot_5.png)
 
 Ofrecemos un tratamiento estandarizado para todos los canales, es decir, incluso si eliges más de una opción, la plataforma tratará a los contactos de la misma manera.

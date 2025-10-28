@@ -49,7 +49,7 @@ To install B2B Suite, follow the steps below:
 
 3. Click Get App to install.
 
-![Instalação B2B Suite - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/b2b/overview/b2b-suite-overview_1.gif)
+![Instalação B2B Suite - EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/b2b/overview/b2b-suite-overview_1.gif)
 
 ## B2B Suite apps
 

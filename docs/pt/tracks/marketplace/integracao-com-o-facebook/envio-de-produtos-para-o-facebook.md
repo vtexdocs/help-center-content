@@ -47,7 +47,7 @@ Se for do seu interesse enviar os atributos dos seus produtos para o Facebook, v
 
 O mapeamento por planilha é o que permite estabelecer a correspondência entre os atributos dos seus produtos na plataforma VTEX e os padrões utilizados pelo Facebook.
 
-O primeiro passo para realizar o mapeamento é fazer o download do arquivo [Planilha de Mapeamento Facebook.xlsx](https://raw.githubusercontent.com/vtexdocs/help-center-content/files-migration-script/docs/pt/tracks/marketplace/integracao-com-o-facebook/Planilha_de_Mapeamento_Facebook.xlsx).
+O primeiro passo para realizar o mapeamento é fazer o download do arquivo [Planilha de Mapeamento Facebook.xlsx](https://cdn.statically.io/gh/vtexdocs/help-center-content/files-migration-script/docs/pt/tracks/marketplace/integracao-com-o-facebook/Planilha_de_Mapeamento_Facebook.xlsx).
 
 ### Preenchimento da planilha de mapeamento
 

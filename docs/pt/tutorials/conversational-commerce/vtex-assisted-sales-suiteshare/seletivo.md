@@ -19,41 +19,41 @@ No modo Seletivo, cada cliente que clicar no link será direcionado para uma tel
 
 Para criar um atendimento seletivo, acesse: _**Organizar > Seletivo**_ 
 
-![Seletivo 1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/seletivo_1.png)
+![Seletivo 1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/seletivo_1.png)
 
 **IMPORTANTE**:  Antes de começar, você já deverá ter criado um link para cada número de WhatsApp que deseja adicionar na central. Se ainda não fez isso, é só [acessar esse link.](/pt/tutorial/links--7h7YXPFovF2k5z6ZSZs5WB)
 
 Clique em _**“Novo”.**_
 
-![Seletivo 2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/seletivo_2.png)
+![Seletivo 2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/seletivo_2.png)
 
 Defina o link principal. 
 
 Em **Link Âncora**, como o próprio nome já diz, você irá selecionar o link principal da central. Esse é o link que você irá divulgar, será o link responsável por fazer a ligação com os demais atendentes.
 
-![Seletivo 3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/seletivo_3.png)
+![Seletivo 3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/seletivo_3.png)
 
 Clique em **“Avançar**”.
 
 Em Links de **Seleção**,escolha quem serão os vendedores ou setores que irão participar da central. Clique em Adicionar , personalize as informações dos atendentes (título, descrição e foto) e selecione o link para cada participante da central.
 
-![Seletivo 4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/seletivo_4.png)
+![Seletivo 4](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/seletivo_4.png)
 
 Defina se os links ficarão em _**“Ordenação randômica”**_ ou seja, a sequência de links sempre irá mudar para cada acesso.
 
-![Seletivo 5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/seletivo_5.png)
+![Seletivo 5](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/seletivo_5.png)
 
 Clique em "_**Avançar"**_. 
 
 Defina o texto que irá aparecer na sua tela de seleção.
 
-![Seletivo 6](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/seletivo_6.png)
+![Seletivo 6](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/seletivo_6.png)
 
 Clique no botão “_**Finalizar**_” para salvar seu atendimento seletivo. 
 
 Configure a aparência, você pode clicar no botão “_**Clique aqui**_” ou acessar  **Configurações > Minha conta > Aparência**
 
-![Seletivo 7](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/seletivo_7.png)
+![Seletivo 7](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/seletivo_7.png)
 
 **Atenção:** Se você ir para a aparência e não salvar seu seletivo, você terá que refazer as opções. 
 

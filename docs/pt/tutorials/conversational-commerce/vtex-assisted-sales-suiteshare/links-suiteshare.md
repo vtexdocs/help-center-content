@@ -23,37 +23,37 @@ Pensando nisso e também em aumentar as suas vendas, o VTEX Assisted Sales (Suit
 
 Para criar seu link é muito fácil, acesse seu painel do VTEX Assisted Sales (SuiteShare) e clique em **Atrair** e depois em **Links**.
 
-![Links 1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/links-suiteshare_1.png)
+![Links 1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/links-suiteshare_1.png)
 
 Clique no botão **Novo**.
 
-![Links 2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/links-suiteshare_2.png)
+![Links 2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/links-suiteshare_2.png)
 
 Escolha o País e o DDD do número e insira o número do WhatsApp da sua empresa.
 
-![Links 3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/links-suiteshare_3.png)
+![Links 3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/links-suiteshare_3.png)
 
 Escolha o endereço do link (URL), você poderá personalizar o domínio do seu link com o nome da sua empresa. Por exemplo: `whts.co/suaempresa`.
 
-![Links 4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/links-suiteshare_4.png)
+![Links 4](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/links-suiteshare_4.png)
 
 Em seguida, defina a mensagem que irá aparecer pré-digitado para o usuário ao clicar no seu link. Exemplo: _Olá, vi o seu anúncio no Facebook e gostaria de saber mais, meu nome é_.
 
-![Links 5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/links-suiteshare_5.png)
+![Links 5](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/links-suiteshare_5.png)
 
 Opção avançado de mensagem (Não disponível para o plano Free).
 
 Clique em avançado no campo **Mensagem**.
 
-![Links 6](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/links-suiteshare_6.png)
+![Links 6](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/links-suiteshare_6.png)
 
 Irá abrir as instruções para as configurações avançadas. Tenha mais de uma mensagem no mesmo link. 
 
-![Links 7](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/links-suiteshare_7.png)
+![Links 7](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/links-suiteshare_7.png)
 
 Defina um **Identificador** para localizar o link de forma prática e rápida:
 
-![Links 8](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/links-suiteshare_8.png)
+![Links 8](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/links-suiteshare_8.png)
 
 Esse Identificador é apenas para fins de organização dentro do painel do VTEX Assisted Sales (SuiteShare). 
 
@@ -61,6 +61,6 @@ Feito todas as configurações, clique no botão `Finalizar`. 
 
 Seus links irão para a lista de links. 
 
-![Links 9](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/links-suiteshare_9.png)
+![Links 9](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/links-suiteshare_9.png)
 
 [Quer saber onde utilizar os links criados? Criamos um artigo que vai te explicar tudo.](/pt/faq/onde-utilizar-o-link-de-whatsapp--6VbyH573udBQJ3j7kfsWeJ)

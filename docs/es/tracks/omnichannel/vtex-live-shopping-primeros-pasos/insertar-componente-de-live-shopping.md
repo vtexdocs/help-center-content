@@ -43,7 +43,7 @@ En tiendas que utilizan [CMS - Portal Legado](/es/tracks/cms--2YcpgIljVaLVQYMzxQ
 3. En **Script para plantilla**, selecciona `Plantilla CMS`.
 4. Copia el código en **Script para plantilla**.
 
-  ![article_4_legacy_cms_portal_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/omnichannel/vtex-live-shopping-primeros-pasos/insertar-componente-de-live-shopping_1.png)
+  ![article_4_legacy_cms_portal_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/omnichannel/vtex-live-shopping-primeros-pasos/insertar-componente-de-live-shopping_1.png)
 
 5. Accede a **Storefront > Layout**, o ingresa **Layout** en la barra de búsqueda de la parte superior de la página.
 6. Haz clic en **CMS > HTML Templates**.
@@ -58,7 +58,7 @@ En tiendas que utilizan [Headless CMS](/es/tutorial/headless-cms-vision-general-
 3. En **Script para plantilla**, selecciona `Plantilla externa`.
 4. Copia el código en **Script para plantilla**.
 
-  ![article_4_headless_cms_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/omnichannel/vtex-live-shopping-primeros-pasos/insertar-componente-de-live-shopping_2.png)
+  ![article_4_headless_cms_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/omnichannel/vtex-live-shopping-primeros-pasos/insertar-componente-de-live-shopping_2.png)
 
 5. Pega el código en el archivo HTML deseado.
 

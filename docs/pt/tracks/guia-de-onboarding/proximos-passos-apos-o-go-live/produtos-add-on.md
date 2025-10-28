@@ -23,12 +23,12 @@ Produtos Add-on são soluções oferecidas pela VTEX para atender demandas espec
 
 [Assisted Sales (SuiteShare)](/pt/tracks/suiteshare--khP0p8mjIYRIpvM7Cb4Zr/onWmyS8j4Thhde67UBBsB) é a solução criada pela VTEX para impulsionamento de vendas no WhatsApp. Por meio dela, é possível atrair novos clientes, integrar ferramentas de vendas, gerenciar dados de atendimento do usuário e métricas de resultados.
 
-![suitshare-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/guia-de-onboarding/proximos-passos-apos-o-go-live/produtos-add-on_1.JPG)
+![suitshare-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/guia-de-onboarding/proximos-passos-apos-o-go-live/produtos-add-on_1.JPG)
 
 ## VTEX Live Shopping
 Solução que permite a criação de transmissões online para a realização de demonstrações ao vivo das características dos produtos na loja. Interações diretas e instantâneas com os clientes permitem melhorar o engajamento do público com a marca e contribuem para aumentar a performance de venda.
 
-![live-shopping-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/guia-de-onboarding/proximos-passos-apos-o-go-live/produtos-add-on_2.JPG)
+![live-shopping-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/guia-de-onboarding/proximos-passos-apos-o-go-live/produtos-add-on_2.JPG)
 
 Para agendar uma demonstração do aplicativo com um especialista, é preciso acessar a página sobre [VTEX Live Shopping](https://vtex.com/br-pt/live-shopping/#contact).
 
@@ -36,7 +36,7 @@ Para agendar uma demonstração do aplicativo com um especialista, é preciso ac
 
 Solução que permite o atendimento personalizado direto entre o cliente e o vendedor, trazendo a experiência de compra da loja física para o ambiente digital. Por meio deste aplicativo, o vendedor tem a possibilidade demonstrar produtos, fazer recomendações e esclarecer dúvidas dos clientes. Durante a videochamada, também é possível adicionar itens no carrinho de compras.
 
-![personal-shopper-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/guia-de-onboarding/proximos-passos-apos-o-go-live/produtos-add-on_3.JPG)
+![personal-shopper-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/guia-de-onboarding/proximos-passos-apos-o-go-live/produtos-add-on_3.JPG)
 
 ## VTEX Pick and Pack
 
@@ -47,7 +47,7 @@ O **VTEX Pick and Pack** é composto por:
 - [Pick and Pack app](/pt/tutorial/vtex-pick-and-pack-fulfillment--1zGUEItEEVsal6cuBEBNcA): gerencia pedidos na loja ou depósito, permitindo personalizar o método de separação de pedidos, selecionar tipos de embalagens por produto, remover ou adicionar produtos de acordo com o estoque da loja.
 - [Last Mile app](/pt/tutorial/vtex-pick-and-pack-last-mile--HN7WKV0xoq2ssVjsJlfzr): coordena o envio de pacotes a partir de depósitos ou lojas até os endereços, criando rotas inteligentes de entrega, selecionando motoristas disponíveis, e rastreando a localização exata do pedido.
 
-![pick-and-pack-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/guia-de-onboarding/proximos-passos-apos-o-go-live/produtos-add-on_4.JPG)
+![pick-and-pack-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/guia-de-onboarding/proximos-passos-apos-o-go-live/produtos-add-on_4.JPG)
 
 Para assistir uma demonstração do aplicativo ou agendar o atendimento personalizado com um especialista, é preciso acessar a página sobre [VTEX Pick and Pack](https://content.vtex.com/pt-br/pick-and-pack/). 
 
@@ -60,7 +60,7 @@ Com o [VTEX Sales App](/pt/tracks/instore-primeiros-passos-e-configuracoes--zav7
 - Oferecer opções de entrega instantânea, retirada agendada ou no local do cliente.
 - Gerenciar métricas de performance para cada vendedor.
 
-![sales-app-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/guia-de-onboarding/proximos-passos-apos-o-go-live/produtos-add-on_5.png)
+![sales-app-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/guia-de-onboarding/proximos-passos-apos-o-go-live/produtos-add-on_5.png)
 
 Para assistir uma demonstração do aplicativo ou agendar o atendimento personalizado com um especialista, é preciso acessar a página sobre [VTEX Sales App](https://assets.vtex.com/sales-app/).
 
@@ -70,7 +70,7 @@ Explore opções de envio de produtos para todas as regiões do Brasil com o [VT
 
 O **VTEX Shipping Network** proporciona a possibilidade de conectar transportadoras para criar uma rede integrada de entrega, atualmente com mais de 20 parceiros, para oferecer as melhores opções de custo e prazo aos clientes. 
 
-![shipping-network-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/guia-de-onboarding/proximos-passos-apos-o-go-live/produtos-add-on_6.png)
+![shipping-network-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/guia-de-onboarding/proximos-passos-apos-o-go-live/produtos-add-on_6.png)
 
 Para mais informações, é preciso acessar a página sobre [VTEX Shipping Network](https://vtex.com/br-pt/shipping-network/).
 
@@ -80,7 +80,7 @@ Para mais informações, é preciso acessar a página sobre [VTEX Shipping Netwo
 
 O [VTEX Shipping Network Correios](/pt/tutorial/vtex-shipping-network-correios-faq--2Wavf7Wie5GEUAEHKtn5oC) é uma parceria entre a VTEX e os Correios na qual a loja pode contratar serviços de envio de produtos via PAC e SEDEX diretamente no Admin VTEX, com taxas diferenciadas que reduzem os custos operacionais de frete.
 
-![image6](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/guia-de-onboarding/proximos-passos-apos-o-go-live/produtos-add-on_7.png)
+![image6](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/guia-de-onboarding/proximos-passos-apos-o-go-live/produtos-add-on_7.png)
 
 A contratação dessa solução pode ser realizada de maneira simples e em poucos minutos, por meio da aceitação dos Termos e Condições e a [ativação](/pt/tutorial/vtex-shipping-network-correios-ativacao--57opHihFbRAwrjQjCTymTa) no próprio Admin da loja. As seguintes funcionalidades estão presentes no VTEX Shipping Network Correios: 
 

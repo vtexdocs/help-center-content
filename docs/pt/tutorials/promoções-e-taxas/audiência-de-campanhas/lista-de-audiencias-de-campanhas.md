@@ -17,7 +17,7 @@ subcategoryId: 2cI57eZ3ZiWSeaQs26Gwys
 
 A lista de audiências de campanhas cadastradas na sua loja está disponível no Admin VTEX, na página *Promoções > Audiências de campanhas*, ilustrada a seguir.
 
-![lista-audiencias-campanha-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promo%C3%A7%C3%B5es-e-taxas/audi%C3%AAncia-de-campanhas/lista-de-audiencias-de-campanhas_1.png)
+![lista-audiencias-campanha-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promo%C3%A7%C3%B5es-e-taxas/audi%C3%AAncia-de-campanhas/lista-de-audiencias-de-campanhas_1.png)
 
 A partir desta página, você pode realizar as seguintes ações:
 
@@ -48,7 +48,7 @@ As audiências de campanhas são apresentadas em _cards_ com as seguintes inform
 
 Para visualizar as Audiências de campanhas que estão [arquivadas](#arquivar-audiencia-de-campanha), na opção **Exibir**, clique em **Arquivados**, conforme ilustrado a seguir:
 
-![toggle-audiencias-campanha-arquivadas-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promo%C3%A7%C3%B5es-e-taxas/audi%C3%AAncia-de-campanhas/lista-de-audiencias-de-campanhas_2.png)
+![toggle-audiencias-campanha-arquivadas-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promo%C3%A7%C3%B5es-e-taxas/audi%C3%AAncia-de-campanhas/lista-de-audiencias-de-campanhas_2.png)
 
 Para voltar a visualizar as Audiências de campanhas não arquivadas, clique em **Não Arquivados**.
 

@@ -30,7 +30,7 @@ Antes, la barra de búsqueda solo permitía buscar las páginas del Admin VTEX. 
 
 Para buscar, haz clic en la barra de búsqueda, selecciona la opción `Pedidos` y ejecuta la búsqueda deseada. Cada búsqueda puede devolver hasta 10 resultados, como se muestra en la siguiente imagen:
 
-![order_global_search_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2023/octubre/2023-10-17-barra-de-busqueda-global-del-admin-vtex-ahora-permite-buscar-pedidos_1.gif)
+![order_global_search_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2023/octubre/2023-10-17-barra-de-busqueda-global-del-admin-vtex-ahora-permite-buscar-pedidos_1.gif)
 
 Al hacer clic en un resultado, se te redirigirá a la [página de detalles](/es/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl) del pedido. Además, los últimos 10 pedidos buscados se registran como historial de búsquedas recientes para mayor facilidad de acceso. El registro de búsqueda se almacena a nivel de [usuario](/es/tutorial/gerenciando-usuarios--tutorials_512) y no se comparte entre diferentes usuarios.
 

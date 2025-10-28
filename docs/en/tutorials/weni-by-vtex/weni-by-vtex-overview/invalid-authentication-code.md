@@ -19,13 +19,13 @@ If you have disabled and re\-enabled two\-factor authentication, and when loggin
 
 1. Access the Microsoft Authenticator app on your phone and select the profile.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/weni-by-vtex-overview/invalid-authentication-code_1.jpeg)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/weni-by-vtex-overview/invalid-authentication-code_1.jpeg)
 1. When selecting the profile, a new window will open. Click on the gear icon.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/weni-by-vtex-overview/invalid-authentication-code_2.jpeg)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/weni-by-vtex-overview/invalid-authentication-code_2.jpeg)
 1. A new window will open. Click on ""Remove account.""
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/weni-by-vtex-overview/invalid-authentication-code_3.jpeg)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/weni-by-vtex-overview/invalid-authentication-code_3.jpeg)
 1. After completing this process, follow the instructions provided on your login screen, under the section for setting up two\-step verification.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/weni-by-vtex-overview/invalid-authentication-code_4.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/weni-by-vtex-overview/invalid-authentication-code_4.png)

@@ -22,7 +22,7 @@ On VTEX Admin, the page **Storefront** > **Intelligent Search** > **Merchandisin
 * [Edit](#editing-merchandising-rules)
 * [Delete](#deleting-merchandising-rules)
 
-![merch-rules-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/intelligent-search/relevance/merchandising-rules-list_1.PNG)
+![merch-rules-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/intelligent-search/relevance/merchandising-rules-list_1.PNG)
 
 The page displays the following information: 
 

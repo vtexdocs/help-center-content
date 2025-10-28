@@ -29,7 +29,7 @@ Para saber mais sobre os agentes financeiros envolvidos no fluxo de pagamento de
 
 O fluxo completo para pagamento por cartão de crédito na VTEX pode ser descrito pela imagem abaixo. 
 
-![Cartão de crédito - Fluxo básico de um pagamento](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/m%C3%B3dulos-vtex-primeiros-passos/pagamentos/fluxo-de-um-pagamento-por-cartao-de-credito_1.jpg)
+![Cartão de crédito - Fluxo básico de um pagamento](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/m%C3%B3dulos-vtex-primeiros-passos/pagamentos/fluxo-de-um-pagamento-por-cartao-de-credito_1.jpg)
 
 1. Na tela de Checkout da sua loja, o cliente escolhe o  **Meio de Pagamento**  _cartão de crédito_ para realizar o pagamento de sua compra.  
 

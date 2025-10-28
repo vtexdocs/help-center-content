@@ -21,19 +21,19 @@ To connect your chatbot with Telegram, follow these steps:
 
 BotFather is a chatbot that creates and manages other chatbots for Telegram. To find it, look for @BotFather in your Telegram's search bar.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/adding-a-telegram-channel_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/adding-a-telegram-channel_1.png)
 
 #### **Create a new chatbot with BotFather:**
 
 Once you start the conversation with BotFather, send the message /newbot to create a new chatbot. Then choose a name and a Username (usernames must always end with “\_bot”, ex test\_bot).
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/adding-a-telegram-channel_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/adding-a-telegram-channel_2.png)
 
 #### **Receive the access token:**
 
 All set! You’ve created your new chatbot and received your token! Copy and save it for use on the Weni Platform.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/adding-a-telegram-channel_3.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/adding-a-telegram-channel_3.png)
 
 #### **Registering Telegram on the platform:**
 
@@ -43,7 +43,7 @@ All set! You’ve created your new chatbot and received your token! Copy and sav
 4. Select the **Telegram** option and add the channel to your project.
 5. Once added, go to the **My Apps** tab and click on the Telegram icon to add the token you obtained earlier from BotFather, then click **Validate**.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/adding-a-telegram-channel_4.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/adding-a-telegram-channel_4.png)
 
 6. All set! The generated channel will have the same name as the bot you created.
 

@@ -41,7 +41,7 @@ Antes de crear especificaciones, es importante entender que las especificaciones
 
 Tomemos como ejemplo el producto **Televisor**. En __Catálogo > Productos y SKU > Modificar > Especificaciones__, en la imagen que vemos a continuación, se puede ver que el grupo de especificaciones llamado **Características** está asociado a la categoría de televisor. Ese grupo incluye un campo llamado **Pulgadas** y un campo llamado **Rango etario** que son obligatorios.
 
-![especificaciones-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/productos-y-skus/registrar-especificaciones-o-campos-de-producto_1.PNG)
+![especificaciones-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/productos-y-skus/registrar-especificaciones-o-campos-de-producto_1.PNG)
 
 Como se trata de una especificación de producto, la información seleccionada en esa página será válida para todas las variaciones del producto **Televisor**. Estas especificaciones también deben haber sido rellenadas en todos los productos registrados en la misma categoría de televisor porque son campos obligatorios.
 
@@ -78,7 +78,7 @@ Para crear un campo de producto, sigue los pasos a continuación:
     * **Activo**: inserta o elimina este campo en el registro del producto (pestaña **Especificaciones**).
 7. Haz clic en `Guardar`.
 
-![product-spec-1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/productos-y-skus/registrar-especificaciones-o-campos-de-producto_2.gif)
+![product-spec-1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/productos-y-skus/registrar-especificaciones-o-campos-de-producto_2.gif)
 
 #### Tipos de campo de producto
 
@@ -144,7 +144,7 @@ Sin embargo, para los campos **Combo**, **Radio** y **Checkbox** es necesario re
 
     Los valores creados se mostrarán en la pestaña **Especificaciones** en el registro de Producto.
 
-![product-spec-2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/productos-y-skus/registrar-especificaciones-o-campos-de-producto_3.gif)
+![product-spec-2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/productos-y-skus/registrar-especificaciones-o-campos-de-producto_3.gif)
 
 > ℹ️ Si estás registrando los primeros valores de un campo, deberás regresar al formulario de ese campo específico y seleccionar la opción **Activo**.
 
@@ -184,7 +184,7 @@ Para rellenar las especificaciones de cada producto individualmente, siga las  i
 
 6. Haz clic en `Guardar`.
 
-![product-spec-3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/productos-y-skus/registrar-especificaciones-o-campos-de-producto_4.gif)
+![product-spec-3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/productos-y-skus/registrar-especificaciones-o-campos-de-producto_4.gif)
 
 #### Plantilla
 
@@ -207,7 +207,7 @@ Para rellenar las especificaciones de los productos de forma masiva mediante una
 9. Haz clic en **Seleccionar** para seleccionar el archivo con la plantilla completada en su ordenador.
 10. Haz clic en `Importar`.
 
-![product-spec-4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/productos-y-skus/registrar-especificaciones-o-campos-de-producto_5.gif)
+![product-spec-4](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/productos-y-skus/registrar-especificaciones-o-campos-de-producto_5.gif)
 
 ## Más información
 - [Registrar especificaciones o campos de SKU](/es/tutorial/registrar-especificaciones-o-campos-de-sku--tutorials_119)

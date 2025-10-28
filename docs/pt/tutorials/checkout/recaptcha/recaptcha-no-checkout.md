@@ -54,15 +54,15 @@ Você pode utilizar reCAPTCHA checkbox (v2). Ou seja, quando aplicável, o usuá
 
 Levando em consideração os fatores mencionados acima, a experiência de compra com cartão de débito ou crédito tende a seguir o fluxo abaixo. Isso minimiza a incidência de alguns tipos de fraudes e ataques com o mínimo de fricção para o usuário.
 
-![reCAPTCHA scenariosPT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/checkout/recaptcha/recaptcha-no-checkout_1.jpg)
+![reCAPTCHA scenariosPT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/checkout/recaptcha/recaptcha-no-checkout_1.jpg)
 Como mostrado na imagem acima, existem diferentes possibilidades de resultado neste fluxo:
 
 1. Se o algoritmo do VTEX Criteria não considerar a sessão suspeita, a plataforma prossegue normalmente com a compra.
 
 2. Caso contrário, a interface deverá exibir o reCAPTCHA Checkbox, a qual deverá ser marcada pelo cliente. Se o reCAPTCHA não considerar o comportamento suspeito ao marcar a Checkbox, a compra prossegue normalmente.
-![newCaptchaAnchor](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/checkout/recaptcha/recaptcha-no-checkout_2.gif)
+![newCaptchaAnchor](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/checkout/recaptcha/recaptcha-no-checkout_2.gif)
 3. Se o reCAPTCHA ainda considera o comportamento suspeito, a interface exibirá o desafio.
-![desafio recaptcha](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/checkout/recaptcha/recaptcha-no-checkout_3.png)
+![desafio recaptcha](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/checkout/recaptcha/recaptcha-no-checkout_3.png)
 4. Se o desafio for resolvido com sucesso, a plataforma prossegue com a compra. Caso contrário, o comportamento é considerado compatível com o de um bot e a plataforma não finaliza a compra.
 
 ## reCAPTCHA v3

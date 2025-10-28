@@ -40,7 +40,7 @@ Sigue los pasos a continuación para acceder a Copilot y comenzar la interacció
    - Tengo un comportamiento inesperado
    - Necesito una configuración por parte de VTEX
 
-![Copilot-ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/gu%C3%ADa-de-onboarding/soporte-en-vtex/apertura-de-tickets_1.gif)
+![Copilot-ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/gu%C3%ADa-de-onboarding/soporte-en-vtex/apertura-de-tickets_1.gif)
 
 Copilot responderá automáticamente y te guiará a través del proceso. Si tu pregunta no se resuelve durante la interacción con Copilot, puedes abrir un ticket manualmente.
 

@@ -21,9 +21,9 @@ To add or remove new users, such as agents, first add the user to the Weni platf
 
 Click the **manage members** button in the **Weni platform organization > Enter the email > Select the type of permission** and click **add** in the Weni platform organization.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/weni-settings/weni-chats-human-service-management_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/weni-settings/weni-chats-human-service-management_1.png)
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/weni-settings/weni-chats-human-service-management_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/weni-settings/weni-chats-human-service-management_2.png)
 
 ### Adding Agents to Your Project
 
@@ -31,11 +31,11 @@ To add users who will be part of the human support team, they must be added to t
 
 In your Organization, where the projects are listed, click on the indicated location in the specific project:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/weni-settings/weni-chats-human-service-management_3.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/weni-settings/weni-chats-human-service-management_3.png)
 
 The process is the same as adding users to the Organization:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/weni-settings/weni-chats-human-service-management_4.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/weni-settings/weni-chats-human-service-management_4.png)
 
 1 - Enter the email
 
@@ -55,11 +55,11 @@ After assigning the correct permission to the user, the chat module will be avai
 
 To add a department in Weni Chats, you need to go to the **Settings module > Chats > New Department**.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/weni-settings/weni-chats-human-service-management_5.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/weni-settings/weni-chats-human-service-management_5.png)
 
 After that, fill in the information to create the department:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/weni-settings/weni-chats-human-service-management_6.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/weni-settings/weni-chats-human-service-management_6.png)
 
 * Department Name;
 * Support Managers (who will view the support history, agent activities, and dashboard);
@@ -73,7 +73,7 @@ After configuring the department, set up the queues.
 
 Every department requires at least one queue to be configured in order to function. So, you must set it up when creating the department. When creating your queue, provide a name for the queue and add one or more agents:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/weni-settings/weni-chats-human-service-management_7.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/weni-settings/weni-chats-human-service-management_7.png)
 
 After configuring the department and queue, it's time to create your support tags.
 
@@ -83,6 +83,6 @@ Support tags are selected when closing a support session and are used to filter 
 
 To create a tag, **choose the name > Click Add > Click Save**.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/weni-settings/weni-chats-human-service-management_8.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/weni-settings/weni-chats-human-service-management_8.png)
 
 Now, your human support is set up. The next step is to use an ""open ticket"" card in your flow to direct users to human support.

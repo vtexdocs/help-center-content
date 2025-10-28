@@ -27,7 +27,7 @@ O Google Pay é uma plataforma de carteira digital e um sistema de pagamento onl
 
 A partir de agora, você pode adicionar o Google Pay como meio de pagamento na sua loja, proporcionando aos seus clientes um processo de checkout mais ágil e conveniente.
 
-![google-pay-checkout-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2023/junho/2023-06-20-google-pay-novo-meio-de-pagamento-na-plataforma-vtex_1.png)
+![google-pay-checkout-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2023/junho/2023-06-20-google-pay-novo-meio-de-pagamento-na-plataforma-vtex_1.png)
 
 ## O que precisa ser feito?
 

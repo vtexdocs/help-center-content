@@ -19,7 +19,7 @@ La __Black Friday__ será pronto. Y, con ella, viene el deseo de aprovechar esta
 
 Para ayudarle en esta tarea, VTEX está lanzando una __app exclusiva en asociación con Google__, que estará disponible en nuestra [App Store](https://apps.vtex.com/vtex-google-shopping/p).
 
-![Google Shopping App](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2018/octubre/2018-10-23-haga-mas-ventas-con-la-app-que-integra-su-negocio-a-google-shopping_1.png)
+![Google Shopping App](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2018/octubre/2018-10-23-haga-mas-ventas-con-la-app-que-integra-su-negocio-a-google-shopping_1.png)
 
 Ella integra su negocio a Google Ads y le permite divulgar sus productos en Google Shopping, utilizando las nuevas Smart Shopping Campaigns, y acompañar los resultados con facilidad y rapidez.
 

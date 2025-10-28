@@ -33,15 +33,15 @@ In this article, we will cover:
 Any existing flow can be triggered through Chats. To do this, simply access
 **Flows**.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/chats/using-active-triggering-of-flows_1.png) 
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/chats/using-active-triggering-of-flows_1.png) 
 
 Next, select the desired flow and click on the **label** button.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/chats/using-active-triggering-of-flows_2.png) 
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/chats/using-active-triggering-of-flows_2.png) 
 
 For the flow to be available in Chats, it needs to have a label named **chats**. If it's not available, create a new label named **chats** as shown in the example:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/chats/using-active-triggering-of-flows_3.png) 
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/chats/using-active-triggering-of-flows_3.png) 
 
 By clicking **create**, your flow will automatically have the created label and will be available for use in Chats.
 
@@ -57,19 +57,19 @@ if you have any questions.
 
 Access your project, then go to the **Flows** module:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/chats/using-active-triggering-of-flows_4.png) 
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/chats/using-active-triggering-of-flows_4.png) 
 
 Click the **Create Flow** button:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/chats/using-active-triggering-of-flows_5.png) 
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/chats/using-active-triggering-of-flows_5.png) 
 
 Next, provide the details about your flow:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/chats/using-active-triggering-of-flows_6.png) 
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/chats/using-active-triggering-of-flows_6.png) 
 
 Insira os cards de acordo com as ações que desejar no seu fluxo, para que o fluxo seja de envio de modelo de mensagens, selecione o card do tipo enviar mensagem e clique em **whatsapp.**
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/chats/using-active-triggering-of-flows_7.png) 
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/chats/using-active-triggering-of-flows_7.png) 
 
 Your registered templates should appear. Select the desired one and insert the variable if applicable, click OK and finalize your flow.
 
@@ -80,28 +80,28 @@ enabled in the desired department settings.
 
 Go to **Settings \> Chats \> Open**.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/chats/using-active-triggering-of-flows_8.png) 
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/chats/using-active-triggering-of-flows_8.png) 
 
 On the first screen of the department, you will see the button to activate the flow trigger. It will be deactivated; **activate** it and click **save**.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/chats/using-active-triggering-of-flows_9.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/chats/using-active-triggering-of-flows_9.png)
 
 #### Triggering a Flow in Chats
 
 Access **Chats**.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/chats/using-active-triggering-of-flows_10.png) 
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/chats/using-active-triggering-of-flows_10.png) 
 
 On the Chats screen, click the button below **Preferences \> Flows**, as shown in the example:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/chats/using-active-triggering-of-flows_11.png) 
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/chats/using-active-triggering-of-flows_11.png) 
 
 Select the desired contacts and click **Continue**.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/chats/using-active-triggering-of-flows_12.png) 
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/chats/using-active-triggering-of-flows_12.png) 
 
 Select the desired flow, then click the **Send** button.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/chats/using-active-triggering-of-flows_13.png) 
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/chats/using-active-triggering-of-flows_13.png) 
 
 That's it! The contacts who received the flows will appear in a waiting list, and once the contact responds, you will be able to start the chat normally with them.

@@ -21,11 +21,11 @@ To retrieve the IP of a customer that placed an order at your store, you can ana
 
 When you open an order, click "See transaction details" in the payment box:
 
-![ip pedido1 EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/transactions/how-to-capture-the-ip-of-an-order_1.png)
+![ip pedido1 EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/transactions/how-to-capture-the-ip-of-an-order_1.png)
 
 Finally, the IP is visualized on the top right corner:
 
-![ip pedido2 EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/transactions/how-to-capture-the-ip-of-an-order_2.png)
+![ip pedido2 EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/transactions/how-to-capture-the-ip-of-an-order_2.png)
 
 See more details on [How to visualize the order detail](/en/tutorial/how-to-view-the-orders-details)
 

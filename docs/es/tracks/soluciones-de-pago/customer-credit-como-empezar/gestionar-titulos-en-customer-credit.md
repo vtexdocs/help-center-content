@@ -22,7 +22,7 @@ La pantalla __Facturas__ en el Admin de VTEX (__Aplicaciones > Customer Credit >
 - [Liquidar facturas](#liquidar-facturas)
 <br>
 <br>
-![Invoices_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/soluciones-de-pago/customer-credit-como-empezar/gestionar-titulos-en-customer-credit_1.JPG)
+![Invoices_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/soluciones-de-pago/customer-credit-como-empezar/gestionar-titulos-en-customer-credit_1.JPG)
 
 ## Filtro de facturas
 

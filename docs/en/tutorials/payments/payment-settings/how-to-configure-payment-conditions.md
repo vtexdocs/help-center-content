@@ -36,7 +36,7 @@ In the steps below, we will use the credit card as an example of a payment condi
 
 ### Payment in full
 
-![pagamento-a-vista en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payment-settings/how-to-configure-payment-conditions_1.png)
+![pagamento-a-vista en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payment-settings/how-to-configure-payment-conditions_1.png)
 
 1. In the VTEX Admin, go to Store __Settings > Payment > Settings__, or type __Settings__ in the search bar at the top of the page.
 2. In the __Payment Conditions__ tab, click on the __+__ button.
@@ -52,7 +52,7 @@ In the steps below, we will use the credit card as an example of a payment condi
 
 ### Installments without interest
 
-![parcelamento-sem-juros en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payment-settings/how-to-configure-payment-conditions_2.png)
+![parcelamento-sem-juros en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payment-settings/how-to-configure-payment-conditions_2.png)
 
 1. In the VTEX Admin, go to __Store Settings > Payment > Settings__, or type __Settings__ in the search bar at the top of the page.
 2. In the __Payment Conditions__ tab, click on the __+__ button.
@@ -69,7 +69,7 @@ In the steps below, we will use the credit card as an example of a payment condi
 
 ### Installments with interest
 
-![parcelamento-com-juros en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payment-settings/how-to-configure-payment-conditions_3.png)
+![parcelamento-com-juros en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payment-settings/how-to-configure-payment-conditions_3.png)
 
 1. In the VTEX Admin, go to __Store Settings > Payment > Settings__, or type __Settings__ in the search bar at the top of the page.
 2. In the __Payment Conditions__ tab, click on the __+__ button.
@@ -87,7 +87,7 @@ In the steps below, we will use the credit card as an example of a payment condi
 14. To choose between compound interest and simple interest, select __Compound interest applied. Change__. A selection box will appear allowing you to choose between the two options. 
 15. Click __Save__.
 
-![Juros - en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payment-settings/how-to-configure-payment-conditions_4.png)
+![Juros - en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payment-settings/how-to-configure-payment-conditions_4.png)
 
 ## Remove payment condition
 
@@ -95,4 +95,4 @@ In the steps below, we will use the credit card as an example of a payment condi
 2. In the __Payment Conditions__ tab, click on the payment term you wish to remove.
 3. Click on the trash can icon.
 
-![Remove payment condition](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payment-settings/how-to-configure-payment-conditions_5.png)
+![Remove payment condition](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payment-settings/how-to-configure-payment-conditions_5.png)

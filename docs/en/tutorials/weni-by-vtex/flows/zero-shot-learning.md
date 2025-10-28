@@ -45,11 +45,11 @@ There are two ways to create a Zero Shot classification AI on the Weni Platform:
 
 With the Smart Wait for response card, you can wait for the user's response and send that response directly to your AI Classification, so you can create your categories and treat each intention as you wish:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/flows/zero-shot-learning_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/flows/zero-shot-learning_1.png)
 
 In the example below, we create intentions and their appropriate contexts so that we can categorize and handle user requests:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/flows/zero-shot-learning_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/flows/zero-shot-learning_2.png)
 
 Remember, each category must have a Command Phrase. The command phrases will instruct the intelligence and you can use these examples:
 
@@ -57,13 +57,13 @@ Remember, each category must have a Command Phrase. The command phrases will ins
 - when the user wants to know why their order was delayed or if it will be delayed > Delay
 - when the user wants to replace a product or talk about a product that has been replaced or change an item > Replacement
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/flows/zero-shot-learning_3.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/flows/zero-shot-learning_3.png)
 
 ##### Automatic Classiffy
 
 With the Automatic classify card, you can use an expression or variables as the input for classifying user intent (Class). This card is normally used when you already have a **text** to deal with and do not need to wait for a response from the user before consulting Artificial Intelligence:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/flows/zero-shot-learning_4.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/flows/zero-shot-learning_4.png)
 
 The difference between the **Smart Wait for response** card and the **Automatic Classify** card is that **Automatic Classify** will not cause a pause in the flow to receive a response from the contact.
 

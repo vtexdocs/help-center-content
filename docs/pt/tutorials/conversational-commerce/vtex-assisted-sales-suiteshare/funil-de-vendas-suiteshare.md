@@ -25,22 +25,22 @@ Nessa etapa, será possível localizar todas as informações necessárias para 
 
 Nessa página você irá encontrar todas as informações necessárias para realizar a integração.
 
-![Funil de vendas_1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/funil-de-vendas-suiteshare_1.png)
+![Funil de vendas_1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/funil-de-vendas-suiteshare_1.png)
 
 Para realizar a integração com a Suiteshare, utilize uma das duas formas abaixo:
 
 1. No dashboard, clique em **Ver todas integrações** e em **Funil de Vendas**.
 
-   ![Funil de vendas_2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/funil-de-vendas-suiteshare_2.png)
+   ![Funil de vendas_2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/funil-de-vendas-suiteshare_2.png)
 
 2. Acesse **Configurações > Integrações > Funil de Vendas > Integrar**.
 
-   ![Funil de vendas_3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/funil-de-vendas-suiteshare_3.png)
+   ![Funil de vendas_3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/funil-de-vendas-suiteshare_3.png)
 
 Clique em **Conectar**.
 
 Pronto! Esse deve ser o resultado da integração dentro do Funil de Vendas CRM:
 
-![Funil de vendas_4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/funil-de-vendas-suiteshare_4.png)
+![Funil de vendas_4](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/funil-de-vendas-suiteshare_4.png)
 
 Agora é só aproveitar a integração!

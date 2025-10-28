@@ -25,9 +25,9 @@ Quando o usuário realiza a pesquisa em uma loja VTEX por meio do [Intelligent S
 
 Cenário de exemplo: ao pesquisar no site da loja por produtos que contenham o termo "Pendleton", o resultado da busca exibe 6 produtos. Entretanto, quando acessamos o Admin VTEX (__Storefront > Intelligent Search > Explicação da busca__) e digitamos o mesmo termo, são apresentados 9 produtos.
 
-![Filter_1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/troubleshooting/opera%C3%A7%C3%B5es-da-loja/nao-consigo-visualizar-o-produto-na-busca-do-site_1.png)
+![Filter_1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/troubleshooting/opera%C3%A7%C3%B5es-da-loja/nao-consigo-visualizar-o-produto-na-busca-do-site_1.png)
 
-![Filter_2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/troubleshooting/opera%C3%A7%C3%B5es-da-loja/nao-consigo-visualizar-o-produto-na-busca-do-site_2.png)
+![Filter_2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/troubleshooting/opera%C3%A7%C3%B5es-da-loja/nao-consigo-visualizar-o-produto-na-busca-do-site_2.png)
 
 Este comportamento pode ocorrer devido aos seguintes cenários:
 
@@ -80,7 +80,7 @@ Para remover a restrição de busca por marca (*brand*) e permitir os produtos s
 3. Acesse o [GraphQL IDE](https://developers.vtex.com/docs/guides/graphql-ide#graphql-basics) em **Configurações da loja > Storefront > GraphQL IDE**.  
 4. Em **Selecione um app**, clique sobre a opção do app Rewriter (**vtex.rewriter@{app-version-number}**).  
 
-   ![Graphql_ide_pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/troubleshooting/opera%C3%A7%C3%B5es-da-loja/nao-consigo-visualizar-o-produto-na-busca-do-site_3.png)
+   ![Graphql_ide_pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/troubleshooting/opera%C3%A7%C3%B5es-da-loja/nao-consigo-visualizar-o-produto-na-busca-do-site_3.png)
 
 5. No campo de preenchimento da query (abaixo de **GraphiQL**), insira os dados da função mutação *saveInternal*:
 

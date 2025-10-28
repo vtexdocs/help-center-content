@@ -61,13 +61,13 @@ Para asegurarse de que este recurso funciona, es necesario revisar los detalles 
 4. En la siguiente página, haga clic en __+Información__.
 5. Al hacer clic en __+Información__, busque el campo __deviceFingerprint__ y verifique si el  código disponible inicia con la palabra __armor__, según el siguiente ejemplo. 
 
-![Device Fingerprint Armor](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/configuraci%C3%B3n-de-pagos/configurar-device-fingerprint-de-mercado-pago_1.png)
+![Device Fingerprint Armor](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/configuraci%C3%B3n-de-pagos/configurar-device-fingerprint-de-mercado-pago_1.png)
 
 <ui>
 6. Después de confirmar que la información es correcta, el paso final para la verificación deDevice Fingerprint es enviar el ID de la transacción al equipo de Mercado Pago. Este ID puede encontrarse en el campo **authorizationConnectorResponse**, en el detalle de la transacción.
   </ui>
 
-  ![Autorización](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/configuraci%C3%B3n-de-pagos/configurar-device-fingerprint-de-mercado-pago_2.png)
+  ![Autorización](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/configuraci%C3%B3n-de-pagos/configurar-device-fingerprint-de-mercado-pago_2.png)
 
 <ui>
   7. Copie el ID y [envíe un email](https://www.mercadopago.com.ar/developers/es/support) a Mercado Pago con esta información y pídales que validen la transacción. De esta manera, Mercado Pago podrá evaluar si el Dispositivo Fingerprint está funcionando correctamente.

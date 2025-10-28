@@ -21,7 +21,7 @@ Es importante para la operación del marketplace que haya criterios de calidad p
 
 **Calidad de anuncios** es la página donde los marketplaces registran y gestionan los grupos de requisitos aplicados al proceso de catalogación de SKU recibidos. Para accederla, en su VTEX Admin, haz clic en **Marketplace > Calidad de anuncios**, o escriba __"Calidad del anuncio"__ en la barra de búsqueda.
 
-![ES offer quality](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/gesti%C3%B3n-de-anuncios/calidad-de-anuncios_1.png)
+![ES offer quality](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/gesti%C3%B3n-de-anuncios/calidad-de-anuncios_1.png)
 
 Con este tutorial, sepa cómo:
 
@@ -46,7 +46,7 @@ La funcionalidad permite que el operador del marketplace pueda realizar una seri
 | Aportar más transparencia a los criterios de catalogación de anuncios recibidos y a la medida en que los sellers y anuncios los cumplen.                                                            | Permite identificar los sellers y los tipos de anuncios que no cumplen los requisitos, lo que acelera la corrección de problemas.                 |
 
 ## Ver "Default requirements" 
-![ESDefault requirements](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/gesti%C3%B3n-de-anuncios/calidad-de-anuncios_2.png)
+![ESDefault requirements](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/gesti%C3%B3n-de-anuncios/calidad-de-anuncios_2.png)
 
 La página estándar tiene algunos requisitos preestablecidos que se aplicarán a todas las categorías, sellers y marcas, conocidas como «Default requirements». Algunos de estos criterios se configuran de forma nativa en [VTEX Matcher](/es/tutorial/entendendo-a-pontuacao-do-vtex-matcher--tutorials_424), la herramienta aplicada a los marketplaces VTEX para ayudar en el proceso de catalogación de los anuncios recibidos.
 

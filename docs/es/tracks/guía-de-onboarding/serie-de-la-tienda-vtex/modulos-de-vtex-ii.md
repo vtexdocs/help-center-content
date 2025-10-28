@@ -52,11 +52,11 @@ La siguiente tabla muestra los principales agentes y términos utilizados en el 
 
 Cuando se finaliza una compra en VTEX, se crea una nueva transacción y se inicia el flujo de pago. El siguiente ejemplo muestra el flujo de pago para una compra realizada con tarjeta de crédito:
 
-![payments-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/gu%C3%ADa-de-onboarding/serie-de-la-tienda-vtex/modulos-de-vtex-ii_1.JPG)
+![payments-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/gu%C3%ADa-de-onboarding/serie-de-la-tienda-vtex/modulos-de-vtex-ii_1.JPG)
 
 A medida que la información se transmite entre los agentes encargados de procesar los datos, el status de la transacción del pago se actualiza para indicar en qué etapa del flujo se encuentran los recursos. Para ilustrar el flujo de pago con tarjeta de crédito, tenemos el siguiente ejemplo de status de la transacción:
 
-![payments-flow-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/gu%C3%ADa-de-onboarding/serie-de-la-tienda-vtex/modulos-de-vtex-ii_2.JPG)
+![payments-flow-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/gu%C3%ADa-de-onboarding/serie-de-la-tienda-vtex/modulos-de-vtex-ii_2.JPG)
 
 Consulta más información sobre cada paso en el artículo [Flujo de la transacción en Pagos](/es/tutorial/flujo-de-la-transaccion-en-pagos--Er2oWmqPIWWyeIy4IoEoQ). Para acceder a más información sobre transacciones en el Admin VTEX, consulta el artículo [Ver detalles de la transacción](/es/tracks/pagos--6GAS7ZzGAm7AGoEAwDbwJG/3Nt40DMEWkvhlpaL5PlBy).
 
@@ -177,7 +177,7 @@ En el Admin VTEX, en **Pedidos > [Todos los pedidos](/es/tutorial/todos-los-pedi
 
 En la página de detalles del pedido, también puede monitorearse la información del [flujo del pedido](/es/tutorial/fluxo-e-status-de-pedidos--tutorials_196). La imagen siguiente ilustra un ejemplo del flujo cuando la tienda actúa simultáneamente como marketplace y seller:
 
-![order-flow-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/gu%C3%ADa-de-onboarding/serie-de-la-tienda-vtex/modulos-de-vtex-ii_3.png)
+![order-flow-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/gu%C3%ADa-de-onboarding/serie-de-la-tienda-vtex/modulos-de-vtex-ii_3.png)
 
 Para ubicar el registro de una compra en el Admin VTEX, además de poder [filtrar pedidos](/es/tutorial/filtrar-todos-pedidos--tutorials_192) en la página **Todos los pedidos**, existe la opción de buscar a través de la barra de búsqueda global, presente en todas las páginas del Admin VTEX. Para realizar la búsqueda solo hay que seleccionar la opción `Pedidos` en la esquina derecha de la barra de búsqueda y utilizar cualquiera de los siguientes valores:
 
@@ -229,7 +229,7 @@ El checkout es la etapa final en el proceso de compras online y contribuye de ma
 
 Para garantizar el correcto funcionamiento del checkout, los siguientes módulos deben ser debidamente configurados en la tienda: [Catálogo](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3rA2tTpIoEXdv2nzC27zxR), [Logística](/es/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx), [Precios](/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP#), [Promociones](/es/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/2a2D0K85Ahvs4hLnL3Ag7N#), [Pagos](/es/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/kdPbEIWf8Xq8tESQvViMB#) y [Pedidos](/es/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/2sl6hj2eqwgqbDgTF6y5qE).
 
-![checkout-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/gu%C3%ADa-de-onboarding/serie-de-la-tienda-vtex/modulos-de-vtex-ii_4.jpg)
+![checkout-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/gu%C3%ADa-de-onboarding/serie-de-la-tienda-vtex/modulos-de-vtex-ii_4.jpg)
 
 Este intercambio de información permite procesar datos sobre disponibilidad, precios, promociones aplicables, métodos de envío y medios de pago.
 

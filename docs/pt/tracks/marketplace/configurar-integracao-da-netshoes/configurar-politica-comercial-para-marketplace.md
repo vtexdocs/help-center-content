@@ -19,15 +19,15 @@ O primeiro passo de qualquer integração é definir a política comercial que s
 
 Uma das funções da política comercial é fazer uma diferenciação de __catálogo__ e/ou __logística__ entre os diferentes canais de venda da loja. Ou seja, uma nova política comercial só é necessária quando um desses fatores for diferente entre os canais de venda.
 
-![marketplace-v2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/marketplace/configurar-integracao-da-netshoes/configurar-politica-comercial-para-marketplace_1.png)
+![marketplace-v2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/marketplace/configurar-integracao-da-netshoes/configurar-politica-comercial-para-marketplace_1.png)
 
 Uma única política comercial pode ser compartilhada por mais de um marketplace ou entre loja principal e marketplace. Para isso, basta que se use o mesmo ID de política comercial nas [configurações](/pt/tutorial/integrando-com-marketplace). Fazendo isso, o mesmo catálogo e a mesma logística vão ser usados para as lojas ou canais que estão configurados com a mesma política comercial.
 
-![marketplace-politica-compartilhada](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/marketplace/configurar-integracao-da-netshoes/configurar-politica-comercial-para-marketplace_2.png)
+![marketplace-politica-compartilhada](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/marketplace/configurar-integracao-da-netshoes/configurar-politica-comercial-para-marketplace_2.png)
 
 Em outras palavras, se não houver necessidade de definir um catálogo ou um tipo de logística específicos para canais de venda diferentes, você também não vai precisar usar políticas comerciais separadas. Basta associar à sua integração com o marketplace o ID da política comercial que já existe. 
 
-![marketplace-politica-comercial-principal-e-compartilhada](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/marketplace/configurar-integracao-da-netshoes/configurar-politica-comercial-para-marketplace_3.png)
+![marketplace-politica-comercial-principal-e-compartilhada](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/marketplace/configurar-integracao-da-netshoes/configurar-politica-comercial-para-marketplace_3.png)
 
 A partir desse entendimento, avalie se é necessário configurar uma nova política comercial na sua loja. Se a resposta for sim, siga as orientações [deste artigo](/pt/faq/como-contratar-nova-politica-comercial--frequentlyAskedQuestions_700) antes de passar para a próxima etapa de configuração. Caso sua política comercial já atenda às condições que precisa para a integração com o marketplace, siga as próximas instruções.
 

@@ -31,7 +31,7 @@ Las conversaciones no se guardan.
 
 Para interactuar con el agente e iniciar el análisis de los datos de tu tienda, en el Admin de VTEX accede a **Dashboards > Data Insights Agent** o escribe **Data Insights Agent** en la barra de búsqueda. En la página se muestra una ventana de conversaciones y sugerencias de preguntas para iniciar un análisis con el asistente.    
 
-![Data Insights](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/beta/data-insights-agent-beta/data-insights-agent_1.jpg)
+![Data Insights](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/beta/data-insights-agent-beta/data-insights-agent_1.jpg)
 
 Al hacer clic en una de las preguntas sugeridas, el asistente inicia el análisis del dato requerido.  
 

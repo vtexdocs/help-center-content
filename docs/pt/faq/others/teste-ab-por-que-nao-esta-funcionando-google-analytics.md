@@ -26,10 +26,10 @@ Dessa forma o Teste AB funcionará com sucesso.
 Seguem as telas que exemplificam o passo a passo:
 
 __Tela Controle__:
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/others/teste-ab-por-que-nao-esta-funcionando-google-analytics_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/others/teste-ab-por-que-nao-esta-funcionando-google-analytics_1.png)
 
 __Tela Script__:
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/others/teste-ab-por-que-nao-esta-funcionando-google-analytics_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/others/teste-ab-por-que-nao-esta-funcionando-google-analytics_2.png)
 
 __Tela Template__:
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/others/teste-ab-por-que-nao-esta-funcionando-google-analytics_3.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/others/teste-ab-por-que-nao-esta-funcionando-google-analytics_3.png)

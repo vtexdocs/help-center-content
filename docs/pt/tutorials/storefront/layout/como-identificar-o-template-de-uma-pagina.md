@@ -27,7 +27,7 @@ A VTEX usa o mesmo princípio. O diretório (pasta) é onde deve ser guardada to
 
 Podemos criar inúmeros templates mas devemos especificar no diretório qual template será exibido. Usando a página de __Produto__ como exemplo:
 
-![cms-template-pagina PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/como-identificar-o-template-de-uma-pagina_1.png)
+![cms-template-pagina PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/como-identificar-o-template-de-uma-pagina_1.png)
 
 Storefront > Layout > Pasta CMS > Sites and channels > Nome da Loja > Pasta raíz (/) > Produto (por exemplo) > Clicar no link que estiver com a setinha vermelha de "ok"
 
@@ -39,13 +39,13 @@ Para dar flexibilidade é possível ainda incluir subtemplates e inúmeros outro
 
 Agora um exemplo real. Quero identificar qual página é essa que estou navegando:
 
-![Captura-de-Tela-2017-03-01-às-2.49.14-PM-768x445](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/como-identificar-o-template-de-uma-pagina_2.png)
+![Captura-de-Tela-2017-03-01-às-2.49.14-PM-768x445](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/como-identificar-o-template-de-uma-pagina_2.png)
 
 O próprio domínio muitas vezes já me ajuda a identificar, mas algumas lojas podem customizar isso o que pode dificultar esse trabalho. No caso estou na dúvida se é uma pagina de __Departamento__ ou __Categoria__, talvez possa inclusive ser uma customização de prateleira.
 
 O melhor caminho é conferindo no Código Fonte da página (Ctrl + U). Lojas VTEX vão possuir um indicativo de qual diretório pertence a página.
 
-![Captura-de-Tela-2017-03-01-às-2.51.06-PM-768x89](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/como-identificar-o-template-de-uma-pagina_3.png)
+![Captura-de-Tela-2017-03-01-às-2.51.06-PM-768x89](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/como-identificar-o-template-de-uma-pagina_3.png)
 
 No exemplo acima: `<!-- CommerceContext.Current.VirtualFolder.Name: @categoria@ -->`
 Agora que sabemos que é uma página de categoria, precisamos identificar qual template está ativo para Categoria. Para isso basta repetir o processo aplicado no exemplo anterior.

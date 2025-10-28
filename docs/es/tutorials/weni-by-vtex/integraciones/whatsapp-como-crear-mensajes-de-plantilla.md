@@ -30,11 +30,11 @@ Para crear un mensaje de plantilla:
 3. Haz clic en la pestaña **Plantilla** en el lado derecho.
 4. Se abrirá un panel donde deberás hacer clic en Nuevo modelo para agregar el mensaje:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/whatsapp-como-crear-mensajes-de-plantilla_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/whatsapp-como-crear-mensajes-de-plantilla_1.png)
 
 1. Completa el formulario con la información necesaria. Usa el botón **\+ Agregar variable** si deseas insertar espacios reservados para contenido variable que se proporcionará al enviar el modelo.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/whatsapp-como-crear-mensajes-de-plantilla_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/whatsapp-como-crear-mensajes-de-plantilla_2.png)
 
 1. Haz clic en Agregar ejemplo para agregar ejemplos de valores al modelo. Esto es opcional, pero muy recomendable. Consulta los Ejemplos.
 2. Haz clic en Enviar para enviar el modelo para su aprobación.

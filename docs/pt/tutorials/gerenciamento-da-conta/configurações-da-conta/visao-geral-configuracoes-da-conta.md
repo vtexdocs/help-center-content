@@ -21,7 +21,7 @@ Todo contratante da VTEX recebe uma conta que dá acesso ao Admin, onde é poss�
 Nas **Configurações da conta,** é possível controlar  o acesso ao Admin e alterar outras configurações relacionadas à conta, como editar informações de contato e vincular lojas à sua conta.
 
 Para acessar as _Configurações da conta_, clique no **avatar do seu perfil**, marcado pela inicial do seu email, e clique no botão **Configurações da conta**.  
-![Admin v4 account settings menu PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/gerenciamento-da-conta/configura%C3%A7%C3%B5es-da-conta/visao-geral-configuracoes-da-conta_1.jpg)
+![Admin v4 account settings menu PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/gerenciamento-da-conta/configura%C3%A7%C3%B5es-da-conta/visao-geral-configuracoes-da-conta_1.jpg)
 
 A seção inclui as seguintes páginas, em breve no design do Admin v4.
 

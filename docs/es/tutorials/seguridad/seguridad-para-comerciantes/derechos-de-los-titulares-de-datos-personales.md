@@ -48,7 +48,7 @@ Para exportar datos de Master Data v1 a través del dashboard del Admin, sigue l
 1. En el Admin VTEX, accede a **Configuración de la tienda** > **Storefront** > **Master Data**.
 2. Haz clic en la pestaña **Applications**.
 3. Haz clic en el ícono de visualizar (derecha) de la entidad de datos deseada.
-![Master Data botón](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/seguridad/seguridad-para-comerciantes/derechos-de-los-titulares-de-datos-personales_1.png)
+![Master Data botón](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/seguridad/seguridad-para-comerciantes/derechos-de-los-titulares-de-datos-personales_1.png)
 4. Utiliza el [filtro de Master Data v1](/es/tutorial/filtering-data-on-master-data--tutorials_778) para obtener solo los datos del usuario deseado. Utiliza `email` o `User ID` como campo del filtro.
 5. Haz clic en el botón `Export XLS`.
 6. Selecciona la opción `Select all fields`.

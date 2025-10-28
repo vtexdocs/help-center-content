@@ -33,7 +33,7 @@ Veja na tabela a seguir as novidades na página de [adicionar ou editar produto]
 | Novo campo **Descrição complementar** | Inclua informações adicionais e resumidas do produto. Essa melhoria permite ter mais flexibilidade e opções ao apresentar o produto na PDP. |
 | Novo campo **Data de lançamento** | Configure a data de lançamento do produto, determinando a partir de quando ele estará disponível para venda. |
 
-![announcement_product_page_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2025/fevereiro/2025-02-19-novas-paginas-para-adicionar-ou-editar-produtos-e-skus-agora-em-ga_1.gif)
+![announcement_product_page_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2025/fevereiro/2025-02-19-novas-paginas-para-adicionar-ou-editar-produtos-e-skus-agora-em-ga_1.gif)
 
 ### SKU
 
@@ -49,7 +49,7 @@ A tabela a seguir apresenta as novidades na página de [adicionar ou editar SKU]
 | Novo campo **Vídeos** | Associe até seis vídeos ao SKU. |
 | Novo campo **Atributos** | Crie **Atributos** e adicione informações customizadas no SKU. |
 
-![announcement_sku_page_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2025/fevereiro/2025-02-19-novas-paginas-para-adicionar-ou-editar-produtos-e-skus-agora-em-ga_2.gif)
+![announcement_sku_page_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2025/fevereiro/2025-02-19-novas-paginas-para-adicionar-ou-editar-produtos-e-skus-agora-em-ga_2.gif)
 
 ## O que precisa ser feito?
 

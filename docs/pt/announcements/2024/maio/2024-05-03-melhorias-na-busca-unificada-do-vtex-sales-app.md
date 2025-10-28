@@ -32,7 +32,7 @@ Com a nova melhoria, você encontrará mudanças que visam melhorar sua experiê
 
 - **Otimização para conexões lentas:** com o uso de caches do navegador, a busca retornará novas informações apenas quando necessário, garantindo uma resposta rápida mesmo em cenários de conexão lenta.
 
-![Mobile - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2024/maio/2024-05-03-melhorias-na-busca-unificada-do-vtex-sales-app_1.gif)
+![Mobile - PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2024/maio/2024-05-03-melhorias-na-busca-unificada-do-vtex-sales-app_1.gif)
 
 ## Por que fizemos essa mudança?
 

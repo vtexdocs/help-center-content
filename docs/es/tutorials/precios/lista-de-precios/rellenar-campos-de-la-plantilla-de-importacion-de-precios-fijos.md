@@ -17,7 +17,7 @@ subcategoryId: 4id9W3RDyw02CasOm2C2iy
 
 Para comprender mejor el significado de cada campo de la plantilla de registro de precio fijo, vea la descripción completa de los ítems.
 
-![tabela.preço.fixo](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/precios/lista-de-precios/rellenar-campos-de-la-plantilla-de-importacion-de-precios-fijos_1.png)
+![tabela.preço.fixo](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/precios/lista-de-precios/rellenar-campos-de-la-plantilla-de-importacion-de-precios-fijos_1.png)
 
 - **SKU ID:** el ID del SKU al que quiere añadir el precio fijo.
 - **Trade Policy:** el nombre o el ID de la política comercial a la que se aplicará el precio fijo.

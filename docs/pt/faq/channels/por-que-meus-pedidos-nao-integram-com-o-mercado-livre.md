@@ -21,7 +21,7 @@ Dito isso, o primeiro passo é acessar o cadastro dessa integração:
 1. Acesse o módulo __Marketplace__
 2. Clique em __Integrações__
 3. Procure o __painel__ do Mercado Livre
-4. Clique na __engrenagem__ <img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/channels/por-que-meus-pedidos-nao-integram-com-o-mercado-livre_1.png" />
+4. Clique na __engrenagem__ <img class="shadow-4" src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/channels/por-que-meus-pedidos-nao-integram-com-o-mercado-livre_1.png" />
 5. Clique em __Editar configuração__
 
 A partir daí, é preciso refazer o processo de integração.

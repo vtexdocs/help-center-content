@@ -19,7 +19,7 @@ Es posible realizar configuraciones directamente relacionadas con las condicione
 
 En el Admin VTEX, accede a **Configuración de la tienda > Pedidos > Configuración**, o escribe *Pedidos* en la barra de búsqueda en la parte superior de la página, y haga clic en *Configuración de la tienda / Pedidos*.  
 
-![configuracoes_pedidos_es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pedidos/configuraci%C3%B3n-de-gesti%C3%B3n-de-pedidos/configuraciones-generales_1.png)
+![configuracoes_pedidos_es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pedidos/configuraci%C3%B3n-de-gesti%C3%B3n-de-pedidos/configuraciones-generales_1.png)
 
 ## Carrito
 

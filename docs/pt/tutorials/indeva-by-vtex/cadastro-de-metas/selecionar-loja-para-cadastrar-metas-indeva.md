@@ -32,7 +32,7 @@ Siga as etapas abaixo para escolher a loja desejada:
 
 Para localizar uma loja específica, digite o nome na barra de busca do campo `Selecione a loja`.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/cadastro-de-metas/selecionar-loja-para-cadastrar-metas-indeva_1.PNG)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/cadastro-de-metas/selecionar-loja-para-cadastrar-metas-indeva_1.PNG)
 
 Após a seleção, o sistema direcionará automaticamente para a próxima etapa do cadastro.
 

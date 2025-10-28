@@ -32,7 +32,7 @@ It's important to understand these concepts because the Marketplace's order flow
 
 ## Marketplace Order Flow
 
-![screenshoot fluxo marketplace EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-modules-getting-started/orders/order-flow_1.JPG)
+![screenshoot fluxo marketplace EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-modules-getting-started/orders/order-flow_1.JPG)
 
 It happens when the store acts exclusively as a Marketplace in the order. That is, when the store sells products from another store - its Seller.
 
@@ -46,7 +46,7 @@ The dispatch is then authorized and the order enters the status `Window to Cance
 
 ## Seller Order Flow
 
-![screenshoot fluxo seller EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-modules-getting-started/orders/order-flow_2.JPG)
+![screenshoot fluxo seller EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-modules-getting-started/orders/order-flow_2.JPG)
 
 It happens when the store acts as a Seller. That is, when it is the owner of the product.
 
@@ -60,7 +60,7 @@ The next status is then `Handling Shipping`, when the Seller prepares the invoic
 
 ## Complete Order Flow
 
-![screenshoot fluxo completo EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-modules-getting-started/orders/order-flow_3.JPG)
+![screenshoot fluxo completo EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-modules-getting-started/orders/order-flow_3.JPG)
 
 It happens when the store is both the Marketplace and the Seller. That is, it's when the order was closed in the store and the store itself is the owner of the product, being responsible for the fulfillment.
 

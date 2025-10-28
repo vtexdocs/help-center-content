@@ -21,47 +21,47 @@ Algo muito importante para você saber sobre a coleta de dados na plataforma Wen
 
 É possível baixar esses dados arquivados acessando o painel de configurações. No final da página informará a quantidade de arquivos e seus registros, conforme imagem a seguir:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/como-baixar-extrair-transformar-e-combinar-os-dados-arquivados-do-weni-flows_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/como-baixar-extrair-transformar-e-combinar-os-dados-arquivados-do-weni-flows_1.png)
 
 Você poderá acessar tanto o conteúdo da tabela **Messages** quanto o da tabela **Runs. **Para visualizar tanto um quanto outro, basta clicar no botão que está grifado em amarelo conforme imagem abaixo.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/como-baixar-extrair-transformar-e-combinar-os-dados-arquivados-do-weni-flows_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/como-baixar-extrair-transformar-e-combinar-os-dados-arquivados-do-weni-flows_2.png)
 
 Os arquivos da tabela Messages virão com a inicial **message**. Para realizar o download dos arquivos, basta clicar no ícone grifado (conforme figura abaixo) ao lado da data.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/como-baixar-extrair-transformar-e-combinar-os-dados-arquivados-do-weni-flows_3.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/como-baixar-extrair-transformar-e-combinar-os-dados-arquivados-do-weni-flows_3.png)
 
 Os arquivos da tabela Runs virão com a inicial **run**. Para realizar o download dos arquivos, basta clicar no ícone grifado (conforme figura abaixo) ao lado da data.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/como-baixar-extrair-transformar-e-combinar-os-dados-arquivados-do-weni-flows_4.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/como-baixar-extrair-transformar-e-combinar-os-dados-arquivados-do-weni-flows_4.png)
 
 Por fim, em cada arquivo você poderá verificar qual o conteúdo, período(mês) e quantidade de registros do arquivo.
 
 ## **Carregando e transformando os dados arquivados no Power BI**
 
-- Após baixar os arquivos e extraí-los no Power BI, através do Power Query, você conseguirá carregá-los ao selecionar nova fonte e escolhendo a opção **JSON**.![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/como-baixar-extrair-transformar-e-combinar-os-dados-arquivados-do-weni-flows_5.png)
+- Após baixar os arquivos e extraí-los no Power BI, através do Power Query, você conseguirá carregá-los ao selecionar nova fonte e escolhendo a opção **JSON**.![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/como-baixar-extrair-transformar-e-combinar-os-dados-arquivados-do-weni-flows_5.png)
 
-- Ao clicar em conectar você deve alterar a opção da caixa de seleção para Todos os Arquivos,  como demonstrado a seguir:![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/como-baixar-extrair-transformar-e-combinar-os-dados-arquivados-do-weni-flows_6.png)
+- Ao clicar em conectar você deve alterar a opção da caixa de seleção para Todos os Arquivos,  como demonstrado a seguir:![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/como-baixar-extrair-transformar-e-combinar-os-dados-arquivados-do-weni-flows_6.png)
 
-- Selecione o arquivo desejado e clique em abrir.![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/como-baixar-extrair-transformar-e-combinar-os-dados-arquivados-do-weni-flows_7.png)
+- Selecione o arquivo desejado e clique em abrir.![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/como-baixar-extrair-transformar-e-combinar-os-dados-arquivados-do-weni-flows_7.png)
 
 No Power Query irá aparecer a opção para Importar os arquivos, se você deseja importá-los para o Power BI, ou a opção DirectQuery, que faz a conexão direta com o arquivo sem fazer sua importação.  Recomendo utilizar Importar, pois o arquivo pode ser alterado ou removido da pasta.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/como-baixar-extrair-transformar-e-combinar-os-dados-arquivados-do-weni-flows_8.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/como-baixar-extrair-transformar-e-combinar-os-dados-arquivados-do-weni-flows_8.png)
 
 Ao fazer a importação do arquivo, você verá que ele já irá expandir todas as colunas, que contenham dados.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/como-baixar-extrair-transformar-e-combinar-os-dados-arquivados-do-weni-flows_9.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/como-baixar-extrair-transformar-e-combinar-os-dados-arquivados-do-weni-flows_9.png)
 
 É importante que façamos a exclusão dessas etapas, como mostrado na figura abaixo, para obtermos os dados limpos e para que consigamos fazer a união das tabelas dos dados arquivados junto aos dados das tabelas que foram obtidas através do conector.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/como-baixar-extrair-transformar-e-combinar-os-dados-arquivados-do-weni-flows_10.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/como-baixar-extrair-transformar-e-combinar-os-dados-arquivados-do-weni-flows_10.png)
 
 **Combinando as tabelas**
 
-- Para fazer a combinação das tabelas, basta você selecionar a opção **Combinar** e logo após, **Acrescentar Consultas**,  **Acrescentar Consultas como novas**,  como demonstrado na figura abaixo:![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/como-baixar-extrair-transformar-e-combinar-os-dados-arquivados-do-weni-flows_11.png)
+- Para fazer a combinação das tabelas, basta você selecionar a opção **Combinar** e logo após, **Acrescentar Consultas**,  **Acrescentar Consultas como novas**,  como demonstrado na figura abaixo:![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/como-baixar-extrair-transformar-e-combinar-os-dados-arquivados-do-weni-flows_11.png)
 
-- Feito isso, basta selecionar as tabelas desejadas e finalizar o processo clicando em ok.![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/como-baixar-extrair-transformar-e-combinar-os-dados-arquivados-do-weni-flows_12.png)
+- Feito isso, basta selecionar as tabelas desejadas e finalizar o processo clicando em ok.![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/como-baixar-extrair-transformar-e-combinar-os-dados-arquivados-do-weni-flows_12.png)
 
 - Ao finalizar o processo, será gerada uma nova consulta com todos os dados selecionados em uma única tabela.Esperamos que este tutorial seja útil para gerar mais insights para seu negócio.
 

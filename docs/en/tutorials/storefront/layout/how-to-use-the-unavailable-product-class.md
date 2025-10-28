@@ -29,7 +29,7 @@ __If an SKU with a certain specification is not available in stock, the store ma
 
 In the example below, sizes P and G are not available.
 
-![classeIndisponivel](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/layout/how-to-use-the-unavailable-product-class_1.png)
+![classeIndisponivel](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/layout/how-to-use-the-unavailable-product-class_1.png)
 
 ## Including the unavailable product class
 

@@ -41,13 +41,13 @@ Es el usuario con todos los niveles de permisos, crea sectores y delega gerentes
 
 Al hacer clic en la foto o nombre del contacto en cualquier área de la conversación, es posible acceder a la **barra lateral** de información del contacto, donde se muestra la foto del contacto en un tamaño más grande, los datos como el canal por el cual el contacto está conversando, la hora del último contacto, la función de transferir el chat y la galería de medios del contacto.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/chats/introduccion-al-modulo-de-chats_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/chats/introduccion-al-modulo-de-chats_1.png)
 
 ##### Mensajes rápidas
 
 Mensajes rápidas es una función que permite registrar plantillas de mensajes para utilizarlas rápidamente. Al hacer clic en el botón de mensajes rápidas, el usuario accede a la **barra lateral** de la función, donde puede ver los mensajes, gestionarlos y registrar uno nuevo. Un mensaje puede utilizarse haciendo clic sobre él o escribiendo **/** seguido del atajo del mensaje.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/chats/introduccion-al-modulo-de-chats_2.png)![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/chats/introduccion-al-modulo-de-chats_3.png) 
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/chats/introduccion-al-modulo-de-chats_2.png)![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/chats/introduccion-al-modulo-de-chats_3.png) 
 
 Al seleccionar el mensaje deseado, el texto registrado en el mensaje llena el campo del editor de texto.
 
@@ -56,7 +56,7 @@ Es posible utilizar los mensajes rápidas de dos maneras:
 1. La primera es como en el ejemplo anterior, donde el agente abre la barra lateral haciendo clic en el botón de mensajes rápidas y luego selecciona el mensaje deseado.
 2. La otra opción es mediante un atajo, donde el agente al registrar el mensaje determina una palabra clave como atajo. Para usarlo solo con el teclado, el agente debe escribir la tecla **/** (barra).
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/chats/introduccion-al-modulo-de-chats_4.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/chats/introduccion-al-modulo-de-chats_4.png)
 
 ##### Mensajes rápidas por sector
 
@@ -64,53 +64,53 @@ También es posible configurar mensajes rápidas para cada sector, de esta forma
 
 1. Haz clic en Configuración \> Chats \> Elige el sector y haz clic en Abrir.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/chats/introduccion-al-modulo-de-chats_5.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/chats/introduccion-al-modulo-de-chats_5.png)
 2. Al abrir el sector, haz clic en Mensajes y luego en el botón Nueva mensaje rápida.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/chats/introduccion-al-modulo-de-chats_6.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/chats/introduccion-al-modulo-de-chats_6.png)
 3. Crea un título, un atajo y el mensaje.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/chats/introduccion-al-modulo-de-chats_7.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/chats/introduccion-al-modulo-de-chats_7.png)
 
 ##### Transferir Chat
 
 La función de transferir chat se utiliza para redirigir al contacto a un sector, fila o agente específico. Esta función se puede acceder desde el área de información del contacto.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/chats/introduccion-al-modulo-de-chats_8.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/chats/introduccion-al-modulo-de-chats_8.png)
 
 El usuario puede buscar por el nombre de un agente, fila o sector, o puede seleccionar algún destinatario en la lista que se despliega. Al confirmar la transferencia, el contacto es enviado al destinatario seleccionado.
 
 ##### Grabar y enviar audio
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/chats/introduccion-al-modulo-de-chats_9.png) 
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/chats/introduccion-al-modulo-de-chats_9.png) 
 
 A través de los botones del cuadro de texto, el usuario puede grabar un audio y enviarlo. Antes de enviarlo al contacto, el usuario puede reproducir el audio y, finalmente, enviarlo.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/chats/introduccion-al-modulo-de-chats_10.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/chats/introduccion-al-modulo-de-chats_10.png)
 
 ##### Arrastrar archivos
 
 Es posible arrastrar archivos al cuadro de texto, y la función de Ctrl \+ V está activa para copiar archivos de imágenes sin necesidad de adjuntarlos manualmente.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/chats/introduccion-al-modulo-de-chats_11.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/chats/introduccion-al-modulo-de-chats_11.png)
 
 ##### Emojis
 
 Los emojis pueden hacer la comunicación más atractiva, ya que facilitan la comprensión del tono y la intención del mensaje. Weni Chats tiene una página completa de emojis. Ve la imagen a continuación:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/chats/introduccion-al-modulo-de-chats_12.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/chats/introduccion-al-modulo-de-chats_12.png)
 
 Salto de línea
 
 Es posible escribir **shift \+ enter** para hacer saltos de línea, lo que puede facilitar la organización del mensaje. Ve la imagen a continuación:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/chats/introduccion-al-modulo-de-chats_13.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/chats/introduccion-al-modulo-de-chats_13.png)
 
 ##### Historial
 
 Dentro del Módulo de Chats, haz clic en **Historial de chats**.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/chats/introduccion-al-modulo-de-chats_14.png) 
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/chats/introduccion-al-modulo-de-chats_14.png) 
 
 Para facilitar la localización de historiales, el módulo de Chats dispone de **2 tipos** de filtros por ahora, que son:
 
@@ -120,7 +120,7 @@ Para facilitar la localización de historiales, el módulo de Chats dispone de *
 4. También está disponible el botón para **limpiar filtros**.
 5. Haz clic en **Ver** para acceder a los historiales.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/chats/introduccion-al-modulo-de-chats_15.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/chats/introduccion-al-modulo-de-chats_15.png)
 
 ##### Visualizar historial
 
@@ -128,32 +128,32 @@ El usuario verá la lista de Chats en orden cronológico, desde los más recient
 
 Al visualizar el historial del contacto, el agente puede ver el inicio de la atención, el historial con el Bot y los eventos del chat, así como las etiquetas utilizadas para clasificar el chat en sí.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/chats/introduccion-al-modulo-de-chats_16.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/chats/introduccion-al-modulo-de-chats_16.png)
 
 ##### Firma Activa
 
 Es posible añadir una firma activa, de modo que cada mensaje intercambiado incluirá el nombre del agente que está respondiendo. Para activar esta función, accede a **Configuraciones \> Chats**. A continuación, selecciona el sector que deseas configurar, y después de abrir el sector, en **opciones adicionales**, selecciona **firma activa**. Ve la imagen a continuación:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/chats/introduccion-al-modulo-de-chats_17.png)![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/chats/introduccion-al-modulo-de-chats_18.png) Después de añadir esta opción, el nombre del agente aparecerá en el globo de mensaje seguido de dos puntos, como se muestra en la imagen a continuación:
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/chats/introduccion-al-modulo-de-chats_17.png)![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/chats/introduccion-al-modulo-de-chats_18.png) Después de añadir esta opción, el nombre del agente aparecerá en el globo de mensaje seguido de dos puntos, como se muestra en la imagen a continuación:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/chats/introduccion-al-modulo-de-chats_19.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/chats/introduccion-al-modulo-de-chats_19.png)
 
 ##### Modo de visualización
 
 1. En el módulo de **Chats \> Preferencias \> Dashboard**.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/chats/introduccion-al-modulo-de-chats_20.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/chats/introduccion-al-modulo-de-chats_20.png)
 1. Haz clic en el nombre del agente y se abrirá una nueva ventana.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/chats/introduccion-al-modulo-de-chats_21.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/chats/introduccion-al-modulo-de-chats_21.png)
 1. Se abrirá una nueva ventana y podrás ver las actividades del agente en tiempo real.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/chats/introduccion-al-modulo-de-chats_22.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/chats/introduccion-al-modulo-de-chats_22.png)
 **Notificación Via Navegador**
 
 Como parte de nuestros clientes optan por no activar el sonido, también se lanzó la notificación a través del navegador. Para que esto funcione, es necesario permitir las notificaciones en tu navegador, para así recibir alertas como se muestra en la imagen a continuación:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/chats/introduccion-al-modulo-de-chats_23.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/chats/introduccion-al-modulo-de-chats_23.png)
 
 **Planilla del Dashboard**
 
@@ -161,12 +161,12 @@ Además de tener un dashboard disponible, también es posible descargarlo en for
 
 1. En el módulo de **Chats \> Preferencias \> Dashboard**.
 
-Reproduce el mismo camino anterior para visualizar la pantalla del agente.![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/chats/introduccion-al-modulo-de-chats_24.png)
+Reproduce el mismo camino anterior para visualizar la pantalla del agente.![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/chats/introduccion-al-modulo-de-chats_24.png)
 
 ##### Edición de Campos de Contacto
 
 Si es necesario, el agente podrá modificar los campos de contacto del cliente, lo que facilita corregir datos erróneos o actualizar información. Para activar esta función de edición, simplemente haz clic en **Configuraciones** y luego en **Sectores**, abre el sector y activa la función de edición de **Custom Fields**, como se muestra en la imagen a continuación:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/chats/introduccion-al-modulo-de-chats_25.png) Y para realizar esta edición, basta hacer clic en el nombre del contacto. Una columna lateral derecha mostrará la información del contacto y, finalmente, haz clic en el campo de datos para escribir la información actualizada, como se muestra en la imagen siguiente:
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/chats/introduccion-al-modulo-de-chats_25.png) Y para realizar esta edición, basta hacer clic en el nombre del contacto. Una columna lateral derecha mostrará la información del contacto y, finalmente, haz clic en el campo de datos para escribir la información actualizada, como se muestra en la imagen siguiente:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/chats/introduccion-al-modulo-de-chats_26.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/chats/introduccion-al-modulo-de-chats_26.png)

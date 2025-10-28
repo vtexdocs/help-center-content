@@ -18,6 +18,6 @@ Cuando entre en __Afiliaciones__, es posible ver la lista de todas las configura
 
 Eso significa que esta afiliación no está activa, y sí que está en teste. Es posible confirmar esa información haciendo clic en la Afiliación.
 
-![afiliação-gateway-teste es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/post-purchase/por-que-quedan-amarillas-algunas-afiliaciones-de-gateways_1.png)
+![afiliação-gateway-teste es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/post-purchase/por-que-quedan-amarillas-algunas-afiliaciones-de-gateways_1.png)
 
 O sea, el color destaca aquellas configuraciones que todavía no están activas.

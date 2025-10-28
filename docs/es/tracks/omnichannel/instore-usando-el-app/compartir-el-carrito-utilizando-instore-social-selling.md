@@ -38,7 +38,7 @@ Esta opción permite compartir un carrito lleno de ítems con uno o más cliente
 
 Vea el paso a paso que se muestra a continuación.
 
-![socialselling-sugestaocarrinho-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/omnichannel/instore-usando-el-app/compartir-el-carrito-utilizando-instore-social-selling_1.gif)
+![socialselling-sugestaocarrinho-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/omnichannel/instore-usando-el-app/compartir-el-carrito-utilizando-instore-social-selling_1.gif)
 
 El vendedor puede enviar el mismo enlace a varios clientes, tantas veces como lo desee. Cada vez que una persona acceda a este enlace, se generará un nuevo carrito de compra, exactamente igual al creado en VTEX Sales App. Cada carrito al que se accede también está asociado a la cuenta del vendedor y, si existe, al código del vendedor.
 
@@ -62,4 +62,4 @@ En este caso, el vendedor tiene que poner los ítems en el carrito, rellenar los
 
 Vea el paso a paso que se muestra a continuación.
 
-![socialselling-paymentlink-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/omnichannel/instore-usando-el-app/compartir-el-carrito-utilizando-instore-social-selling_2.gif)
+![socialselling-paymentlink-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/omnichannel/instore-usando-el-app/compartir-el-carrito-utilizando-instore-social-selling_2.gif)

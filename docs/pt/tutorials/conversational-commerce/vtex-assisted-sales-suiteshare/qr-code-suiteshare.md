@@ -19,7 +19,7 @@ Código QR é um código de barras bidimensional que pode ser facilmente escanea
 
 No VTEX Assisted Sales (SuiteShare) você conseguirá unir a tecnologia dos QRCODES com o Link de WhatsApp e fazer com que os clientes abram uma conversa com você no WhatsApp com apenas um escaneamento.
 
-![QR Code_1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/qr-code-suiteshare_1.png)
+![QR Code_1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/qr-code-suiteshare_1.png)
 
 Se na sua empresa, você utiliza materiais impressos, esses códigos são a melhor opção para levar os clientes do offline para o online.
 
@@ -27,19 +27,19 @@ Se na sua empresa, você utiliza materiais impressos, esses códigos são a melh
 
 No painel do VTEX Assisted Sales (SuiteShare), acesse a opção _**Atrair > Links**_.
 
-![QR Code_2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/qr-code-suiteshare_2.png)
+![QR Code_2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/qr-code-suiteshare_2.png)
 
 Clique no ícone do QRCODE, localizado no lado direito do link que você deseja criar um código.
 
-![QR Code_3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/qr-code-suiteshare_3.png)
+![QR Code_3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/qr-code-suiteshare_3.png)
 
 Escolha um logotipo (Opcional):
 
-![QR Code_4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/qr-code-suiteshare_4.png)
+![QR Code_4](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/qr-code-suiteshare_4.png)
 
 Pronto! Agora você precisa escolher o formato do arquivo que deseja fazer o download (PNG, SVG, EPS) e adiciona-lo a sua arte do seu material no Corel Drawn, Ilustrator, Potoshop.
 
-![QR Code_5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/qr-code-suiteshare_5.png)
+![QR Code_5](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/qr-code-suiteshare_5.png)
 
 ## Saiba onde utilizar o QR code: 
 

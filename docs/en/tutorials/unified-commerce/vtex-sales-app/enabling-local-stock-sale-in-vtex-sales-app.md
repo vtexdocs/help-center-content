@@ -73,7 +73,7 @@ You will need to select a sales associate from the store where you want to test 
 1. With a [sales associate selected](/en/tutorial/vendedores-instore-beta--4rzit1pzp28km4HSDEdrEC), open Sales App and log in.
 2. Search for an item that exists in the franchise account warehouse. The item should display the available quantity that corresponds to the seller inventory.
 
-![instore-pdp-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/unified-commerce/vtex-sales-app/enabling-local-stock-sale-in-vtex-sales-app_1.png)
+![instore-pdp-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/unified-commerce/vtex-sales-app/enabling-local-stock-sale-in-vtex-sales-app_1.png)
 
 > ℹ️ If you enabled Unlimited inventory, the item quantity will display as a number greater than one million, which can't be changed when a sale is completed.
 
@@ -88,9 +88,9 @@ You can also enable On Hands to ignore stock quantity and force item availabilit
 2. Click the gear <i class="fas fa-cog"></i> button to edit.
 3. Select the **Code** tab.
 4. In the side tab, select the `checkout-instore-custom-js` file.
-   ![instore-custom-js-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/unified-commerce/vtex-sales-app/enabling-local-stock-sale-in-vtex-sales-app_2.png)
+   ![instore-custom-js-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/unified-commerce/vtex-sales-app/enabling-local-stock-sale-in-vtex-sales-app_2.png)
 5. In the `window.INSTORE_CONFIG` key, add the `sellWithoutStockInHands: true` flag.
-   ![sellWithoutStockInHands-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/unified-commerce/vtex-sales-app/enabling-local-stock-sale-in-vtex-sales-app_3.png)
+   ![sellWithoutStockInHands-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/unified-commerce/vtex-sales-app/enabling-local-stock-sale-in-vtex-sales-app_3.png)
 6. Click <i class="fas fa-save"></i> `Save`.
 
 ## Enabling mixed cart sales (optional)

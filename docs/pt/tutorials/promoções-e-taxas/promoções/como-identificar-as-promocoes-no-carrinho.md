@@ -28,9 +28,9 @@ Você pode fazer um pedido para teste na loja e, em seguida, verificar no **Gere
 
 Exemplo: imagine um pedido em que frete grátis foi aplicado, mas você não sabe o motivo. Ao clicar em um pedido no **Gerenciamento de pedidos**, você encontraria o nome da promoção registrada na seção **Promoções e parcerias**.
 
-<img class="db center mv9 shadow-4 pointer" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promo%C3%A7%C3%B5es-e-taxas/promo%C3%A7%C3%B5es/como-identificar-as-promocoes-no-carrinho_3.png" alt="detalhes-do-pedido" style="margin-bottom: 20px;"> <figcaption align = "center">*Detalhes do pedido*</figcaption></figure>
+<img class="db center mv9 shadow-4 pointer" src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promo%C3%A7%C3%B5es-e-taxas/promo%C3%A7%C3%B5es/como-identificar-as-promocoes-no-carrinho_3.png" alt="detalhes-do-pedido" style="margin-bottom: 20px;"> <figcaption align = "center">*Detalhes do pedido*</figcaption></figure>
 
-<img class="db center mv9 shadow-4 pointer" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promo%C3%A7%C3%B5es-e-taxas/promo%C3%A7%C3%B5es/como-identificar-as-promocoes-no-carrinho_4.png" alt="detalhes-do-pedido-beta" style="margin-bottom: 20px;"> <figcaption align = "center">*Detalhes do pedido (Beta)*</figcaption></figure>
+<img class="db center mv9 shadow-4 pointer" src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promo%C3%A7%C3%B5es-e-taxas/promo%C3%A7%C3%B5es/como-identificar-as-promocoes-no-carrinho_4.png" alt="detalhes-do-pedido-beta" style="margin-bottom: 20px;"> <figcaption align = "center">*Detalhes do pedido (Beta)*</figcaption></figure>
 
 Se nenhuma promoção estiver listada, isso indica que o frete grátis não tem como causa uma promoção, ou seja, o cálculo de frete no módulo de **Estoque & entrega** teve como resultado zero. Nesse caso, seria necessário utilizar o **Simulador de envio** para entender por que razão o frete teve valor zero.
 
@@ -40,7 +40,7 @@ No carrinho, você pode passar o mouse sobre o ícone de interrogação que fica
 
 Porém, caso mais de uma promoção seja aplicada, o que aparecerá será apenas o somatório dos descontos, dificultando a análise do cenário.
 
-![example-cart](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promo%C3%A7%C3%B5es-e-taxas/promo%C3%A7%C3%B5es/como-identificar-as-promocoes-no-carrinho_1.png)
+![example-cart](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promo%C3%A7%C3%B5es-e-taxas/promo%C3%A7%C3%B5es/como-identificar-as-promocoes-no-carrinho_1.png)
 
 ## orderForm
 
@@ -54,7 +54,7 @@ Siga o passo a passo para encontrar o orderForm e identificar as promoções apl
 2. Clique em `Network`.
 3. Marque a opção **Preserve log**.
 4. Recarregue a página.
-5. Após o carregamento, pressione `Ctrl+F` para fazer uma busca na janela das **Ferramentas de Desenvolvedor**. Digite `orderForm` na barra de busca.![order-form](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promo%C3%A7%C3%B5es-e-taxas/promo%C3%A7%C3%B5es/como-identificar-as-promocoes-no-carrinho_2.png)
+5. Após o carregamento, pressione `Ctrl+F` para fazer uma busca na janela das **Ferramentas de Desenvolvedor**. Digite `orderForm` na barra de busca.![order-form](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promo%C3%A7%C3%B5es-e-taxas/promo%C3%A7%C3%B5es/como-identificar-as-promocoes-no-carrinho_2.png)
 6. Clique sobre a linha do `orderForm`. Ao lado abrirá uma nova janela.
 7. Clique em `Preview`.
 8. Procure por `ratesAndBenefitsData` e clique sobre o item.

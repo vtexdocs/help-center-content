@@ -25,7 +25,7 @@ In the Admin, you can create customized landing pages, such as pages for special
 
 2.Click **CREATE NEW**.
 
-![Creating Landing pages](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/pages/creating-landing-pages_1.png)
+![Creating Landing pages](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/pages/creating-landing-pages_1.png)
 
 3.In the Page details section, fill in the fields below to define the page metadata:
 

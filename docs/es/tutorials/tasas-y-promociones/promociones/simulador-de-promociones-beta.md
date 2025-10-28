@@ -29,12 +29,12 @@ El **Simulador de promociones** está disponible para todas las tiendas VTEX med
 
 2. Agrega productos al carrito y accede al checkout mediante `https://{nombredelacuenta}.myvtex.com/checkout/#/cart`.
 
-3. Haz clic en el botón azul <img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/tasas-y-promociones/promociones/simulador-de-promociones-beta_3.png" alt="cartman-icon" width="25"/> en la parte inferior derecha de la página para iniciar Cartman.
+3. Haz clic en el botón azul <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/tasas-y-promociones/promociones/simulador-de-promociones-beta_3.png" alt="cartman-icon" width="25"/> en la parte inferior derecha de la página para iniciar Cartman.
 4. Haz clic en **Simulador de promociones**.
 
    En la nueva ventana, verás una lista de los productos que están en tu carrito. Podrás ver todas las promociones aplicadas y aplicables a cada uno de los ítems.
 
-![Simulator-promo-es-gif-1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/tasas-y-promociones/promociones/simulador-de-promociones-beta_1.gif)
+![Simulator-promo-es-gif-1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/tasas-y-promociones/promociones/simulador-de-promociones-beta_1.gif)
 
 La interfaz del **Simulador de promociones** presenta la siguiente información:
 
@@ -73,7 +73,7 @@ Para editar una promoción, sigue los pasos a continuación:
 
 El **Simulador de promociones** permite probar la aplicación de otra promoción o simular lo que sucedería al desactivar promociones aplicadas. Para utilizarlo, haz clic en el botón `Seleccionar promociones` en la parte superior derecha de la página según se muestra en la imagen a continuación.
 
-![ui-Simulator-promo-es-gif-2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/tasas-y-promociones/promociones/simulador-de-promociones-beta_2.gif)
+![ui-Simulator-promo-es-gif-2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/tasas-y-promociones/promociones/simulador-de-promociones-beta_2.gif)
 
 Para ejecutar una simulación, sigue estos pasos:
 

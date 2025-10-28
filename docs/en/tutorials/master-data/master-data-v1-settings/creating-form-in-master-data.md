@@ -40,7 +40,7 @@ To create a form, follow the steps below:
 
    If the acronym of the __Shopping List__ entity is __SL__, and the name of the field is __Customer__, you must enter: `SL.Customer` to upload the customer service that is being viewed in the form.
 
-   ![relatedRecords-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/master-data/master-data-v1-settings/creating-form-in-master-data_1.png)
+   ![relatedRecords-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/master-data/master-data-v1-settings/creating-form-in-master-data_1.png)
 
 After filling out the mandatory fields, the tabs available for configuration will be displayed. See below the fields of these tabs.
 

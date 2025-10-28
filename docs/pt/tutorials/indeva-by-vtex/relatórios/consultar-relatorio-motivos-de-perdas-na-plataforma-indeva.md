@@ -19,7 +19,7 @@ O relatório **Motivos de perdas** apresenta as razões registradas para vendas 
 
 No menu lateral da Indeva, clique em **Relatórios > Motivos de perdas**.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/relat%C3%B3rios/consultar-relatorio-motivos-de-perdas-na-plataforma-indeva_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/relat%C3%B3rios/consultar-relatorio-motivos-de-perdas-na-plataforma-indeva_1.png)
 
 A tela reúne os motivos de não conversão registrados pelos vendedores na **Lista da Vez Digital**.
 

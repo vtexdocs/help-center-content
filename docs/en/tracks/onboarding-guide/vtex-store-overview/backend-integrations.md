@@ -103,7 +103,7 @@ You must follow the setup steps for this phase in the order shown below. A detai
 
 After configuring the store and integrating with the middleware, the general flow of information will follow this format:
 
-![ERP-integrations-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/onboarding-guide/vtex-store-overview/backend-integrations_1.jpg)
+![ERP-integrations-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/onboarding-guide/vtex-store-overview/backend-integrations_1.jpg)
 
 Each request or process represented by the arrows in the diagram above is triggered by a different type of event in the operation of an ecommerce store. Learn more about this flow in the [Back office integration guide (ERP/PIM/WMS)](https://developers.vtex.com/docs/guides/erp-integration-guide#ongoing-middleware-flow).
 
@@ -165,7 +165,7 @@ There are three types of specifications, which should be created in the followin
 
 The diagram below illustrates this procedure.
 
-![catalog_specification_diagram_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/onboarding-guide/vtex-store-overview/backend-integrations_2.png)
+![catalog_specification_diagram_EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/onboarding-guide/vtex-store-overview/backend-integrations_2.png)
 
 Specifications follow the Catalog hierarchy. When a group is created within a department or category, it will be inherited by the subsequent lower levels. 
 

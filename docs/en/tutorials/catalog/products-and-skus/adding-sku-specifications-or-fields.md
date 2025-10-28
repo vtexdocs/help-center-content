@@ -41,7 +41,7 @@ Before creating any specifications, it's important to understand that they follo
 
 Example: consider a **Men's shirt** product. In __Catalog > Products and SKUs > SKU > Specifications__, as illustrated in the page below, we can see that the specification group called **Characteristics** is associated with the Shirt category. This group includes a field named **Color** and a field named **Size**.
 
-![heranca-especificacoes-sku-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/products-and-skus/adding-sku-specifications-or-fields_1.PNG)
+![heranca-especificacoes-sku-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/products-and-skus/adding-sku-specifications-or-fields_1.PNG)
 
 Since this is an SKU specification, the information selected on that page will apply only to the **Men's Shirt** product variations. All SKUs added to the **Men's Shirt** category and all product SKUs of the same category must also have these specifications filled out.
 
@@ -82,7 +82,7 @@ To create an SKU field, follow the instructions below:
     * **Active**: Activates this field.
 8. Click `Save`.
 
-![sku-spec-1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/products-and-skus/adding-sku-specifications-or-fields_2.gif)
+![sku-spec-1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/products-and-skus/adding-sku-specifications-or-fields_2.gif)
 
 #### SKU Field types
 
@@ -127,13 +127,13 @@ The **Values** of the SKU fields will vary according to the selected field type:
 
     Insert one value per row and press `Enter` after each value, as illustrated in the image below.
 
-    ![valores-campo-sku-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/products-and-skus/adding-sku-specifications-or-fields_3.PNG)
+    ![valores-campo-sku-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/products-and-skus/adding-sku-specifications-or-fields_3.PNG)
 
 8. Click `Save`.
 
     The added values will be displayed in the [SKU registration interface](#sku-registration).
 
-![sku-spec-2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/products-and-skus/adding-sku-specifications-or-fields_4.gif)
+![sku-spec-2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/products-and-skus/adding-sku-specifications-or-fields_4.gif)
 
 > ℹ️ If you are adding values for the first time in a field, you must return to the form of that specific field and check the **Active** option.
 
@@ -175,7 +175,7 @@ To fill in the specifications for each SKU individually, follow the instructions
 
 8. Click `Save`.
 
-![sku-spec-3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/products-and-skus/adding-sku-specifications-or-fields_5.gif)
+![sku-spec-3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/products-and-skus/adding-sku-specifications-or-fields_5.gif)
 
 #### Spreadsheet
 
@@ -198,7 +198,7 @@ To fill in SKU specifications in bulk using a spreadsheet, first you must export
 9. Click **Select** to select the file with the filled out spreadsheet from your computer.
 10. Click `Import`.
 
-![sku-spec-4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/products-and-skus/adding-sku-specifications-or-fields_6.gif)
+![sku-spec-4](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/products-and-skus/adding-sku-specifications-or-fields_6.gif)
 
 ## Learn more
 - [Adding product specifications or fields](/en/tutorial/adding-specifications-or-product-fields--tutorials_106)

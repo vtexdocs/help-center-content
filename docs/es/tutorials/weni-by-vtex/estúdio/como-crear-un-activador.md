@@ -17,10 +17,10 @@ subcategoryId: 2kZMtDveyKwicJ6Hs8s2yN
 
 En este punto, tu chatbot está conectado a algún canal, pero para iniciar un flujo automáticamente cuando el usuario interactúe con el chatbot, debes configurar un Activador (trigger). Para crearlo, debes ir al Menú de Disparadores dentro del módulo ""Estudio"" y hacer clic en Crear Activador.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/est%C3%BAdio/como-crear-un-activador_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/est%C3%BAdio/como-crear-un-activador_1.png)
 
 -    Haz clic en el botón ""Cree una palabra clave de mensaje que lance un flujo""
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/est%C3%BAdio/como-crear-un-activador_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/est%C3%BAdio/como-crear-un-activador_2.png)
 
 -    En la palabra clave, definirás la palabra que funcionará como activador.
 
@@ -35,4 +35,4 @@ El mensaje contiene solo la palabra clave: El flujo seleccionado se ejecutará s
 -    En ""Solo Grupos"" es posible incluir o no las reglas de este activador a un grupo de contactos específico; deja el espacio en blanco si deseas aplicar esta regla a todos.
 
 -    Haz clic en la caja ""Crear activador"".
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/est%C3%BAdio/como-crear-un-activador_3.png)"
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/est%C3%BAdio/como-crear-un-activador_3.png)"

@@ -25,7 +25,7 @@ En VTEX, puedes cambiar el precio varias veces al día según la estrategia de t
 
 El registro con una plantilla se realiza en dos etapas: exportación e importación. Se ha mejorado la experiencia de exportación de precios con nuevas funcionalidades para dar más visibilidad al usuario del status de cada plantilla de exportación de precios.
 
-![exportacao es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2023/enero/2023-01-13-mejoras-a-la-exportacion-de-precios-con-una-plantilla_1.gif)
+![exportacao es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2023/enero/2023-01-13-mejoras-a-la-exportacion-de-precios-con-una-plantilla_1.gif)
 
 ## ¿Qué cambió?
 

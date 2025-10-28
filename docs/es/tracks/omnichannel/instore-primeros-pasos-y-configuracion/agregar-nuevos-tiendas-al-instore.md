@@ -26,7 +26,7 @@ Esta página te permite realizar las siguientes acciones:
 * [Editar](#editar-tienda-física)
 * [Inativar](#inativar-tienda-física)
 
-![loja-fisica-ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/omnichannel/instore-primeros-pasos-y-configuracion/agregar-nuevos-tiendas-al-instore_1.png)
+![loja-fisica-ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/omnichannel/instore-primeros-pasos-y-configuracion/agregar-nuevos-tiendas-al-instore_1.png)
 
 La página contiene la siguiente información:
 
@@ -51,7 +51,7 @@ Puedes crear una tienda física siguiendo los pasos a continuación:
 
 ### Campos de registro de la tienda física
 
-![loja-fisica2-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/omnichannel/instore-primeros-pasos-y-configuracion/agregar-nuevos-tiendas-al-instore_2.png)
+![loja-fisica2-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/omnichannel/instore-primeros-pasos-y-configuracion/agregar-nuevos-tiendas-al-instore_2.png)
 
 #### Identificación
 

@@ -26,7 +26,7 @@ Domain-related settings are necessary for a web address to be correctly routed t
 
 The store's address is composed of the following elements:
 
-![url-diagram-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/account-management/accounts/configuring-the-store-domain_1.png)
+![url-diagram-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/account-management/accounts/configuring-the-store-domain_1.png)
 
 | Element | Description | Example |
 |---|---|---|

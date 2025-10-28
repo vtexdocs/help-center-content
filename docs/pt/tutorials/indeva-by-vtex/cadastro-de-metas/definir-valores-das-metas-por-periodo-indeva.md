@@ -33,7 +33,7 @@ Siga os passos para configurar as metas mensais:
 3. Para definir uma meta adicional, preencha o campo `R$` com um valor superior ao da meta anterior.  
 4. Para avançar para a próxima etapa, clique em `Próximo`.  
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/cadastro-de-metas/definir-valores-das-metas-por-periodo-indeva_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/cadastro-de-metas/definir-valores-das-metas-por-periodo-indeva_1.png)
 
 ## Definir meta por período
 
@@ -52,7 +52,7 @@ Siga os passos para configurar as metas do primeiro período:
 3. Para configurar a meta adicional, preencha o campo `R$` com um valor superior ao da meta anterior.
 4. Para avançar para a próxima etapa, clique em `Próximo`. 
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/cadastro-de-metas/definir-valores-das-metas-por-periodo-indeva_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/cadastro-de-metas/definir-valores-das-metas-por-periodo-indeva_2.png)
 
 ### Cadastrar metas em períodos seguintes
 
@@ -72,9 +72,9 @@ Siga as instruções:
 2. Na listagem de metas, passe o cursor sobre o botão `Ações` e clique em `Editar`.  
 3. Na página de resumo da meta, localize o alerta indicando que chegou o momento de cadastrar as metas do próximo período. Clique em `Editar meta da loja`. 
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/cadastro-de-metas/definir-valores-das-metas-por-periodo-indeva_3.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/cadastro-de-metas/definir-valores-das-metas-por-periodo-indeva_3.png)
 
 O sistema direcionará você para a tela de cadastro do novo período.  
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/cadastro-de-metas/definir-valores-das-metas-por-periodo-indeva_4.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/cadastro-de-metas/definir-valores-das-metas-por-periodo-indeva_4.png)
 

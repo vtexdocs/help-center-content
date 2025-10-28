@@ -25,11 +25,11 @@ Esta página te permite realizar las siguientes acciones:
 * [Buscar hoja de trabajo](#buscar-hoja-de-trabajo)
 * [Filtrar hojas de trabajo](#filtrar-hojas-de-trabajo)
 
-![pick-pack-ordem-servico-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/vtex-pick-and-pack/vtex-pick-and-pack-hojas-de-trabajo_1.png)
+![pick-pack-ordem-servico-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/vtex-pick-and-pack/vtex-pick-and-pack-hojas-de-trabajo_1.png)
 
 Los pedidos se presentan en tarjetas que contienen la siguiente información:
 
-![pick-pack-ordem-servico-2-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/vtex-pick-and-pack/vtex-pick-and-pack-hojas-de-trabajo_2.png)
+![pick-pack-ordem-servico-2-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/vtex-pick-and-pack/vtex-pick-and-pack-hojas-de-trabajo_2.png)
 
 * ID de la hoja de trabajo.
 * Número de pedidos en la hoja de trabajo.
@@ -47,7 +47,7 @@ Puedes crear una nueva hoja de trabajo siguiendo los pasos que se indican a cont
 3. Haz clic en la pestaña **Manual** para crear manualmente la hoja de trabajo.
 4. Haz clic en `+` para crear una hoja de trabajo. Puedes crear más de una hoja de trabajo.
 5. Arrastra los pedidos que desees a la hoja de trabajo.
-  ![pick-pack-ordem-servico-3-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/vtex-pick-and-pack/vtex-pick-and-pack-hojas-de-trabajo_3.png)
+  ![pick-pack-ordem-servico-3-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/vtex-pick-and-pack/vtex-pick-and-pack-hojas-de-trabajo_3.png)
 6. Haz clic en `Crear` para finalizar.
 
 ## Consultar hojas de trabajo
@@ -62,7 +62,7 @@ Puedes optimizar la consulta de las hojas de trabajo desde las siguientes seccio
 
 También puedes acceder a más información sobre cada hoja de trabajo particular haciendo clic en el botón <i class="fas fa-chevron-down"></i> en la tarjeta.
 
-![pick-pack-ordem-servico-4-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/vtex-pick-and-pack/vtex-pick-and-pack-hojas-de-trabajo_4.png)
+![pick-pack-ordem-servico-4-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/vtex-pick-and-pack/vtex-pick-and-pack-hojas-de-trabajo_4.png)
 
 ## Buscar hoja de trabajo
 

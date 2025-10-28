@@ -26,16 +26,16 @@ Siga as etapas abaixo para abrir o Integrador:
 
 1. No computador principal da loja ou servidor, localize o ícone do **Integrador Indeva** na área de trabalho e dê um duplo clique para abrir o programa.  
 
-   ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/atualiza%C3%A7%C3%A3o-de-vendas-com-pdv/erp/abrir-e-verificar-o-integrador-indeva_1.png)-8W8.gif)  
+   ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/atualiza%C3%A7%C3%A3o-de-vendas-com-pdv/erp/abrir-e-verificar-o-integrador-indeva_1.png)-8W8.gif)  
 
 2. Quando a aplicação estiver em execução, ela aparecerá na bandeja do sistema, no canto inferior direito do desktop, próximo ao relógio.  
    Clique com o botão direito do mouse sobre o ícone e selecione **Abrir integrador**.  
 
-   ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/atualiza%C3%A7%C3%A3o-de-vendas-com-pdv/erp/abrir-e-verificar-o-integrador-indeva_2.gif)  
+   ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/atualiza%C3%A7%C3%A3o-de-vendas-com-pdv/erp/abrir-e-verificar-o-integrador-indeva_2.gif)  
 
 3. Ao abrir o Integrador, verifique se os **indicadores de conexão** estão verdes.  
 
-   ![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/atualiza%C3%A7%C3%A3o-de-vendas-com-pdv/erp/abrir-e-verificar-o-integrador-indeva_3.png)  
+   ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/atualiza%C3%A7%C3%A3o-de-vendas-com-pdv/erp/abrir-e-verificar-o-integrador-indeva_3.png)  
 
    - Se todos estiverem verdes, clique em **Esconder integrador** para mantê-lo em execução.  
    - Se algum indicador estiver vermelho, clique em **Validar configurações** e verifique a mensagem de erro exibida.

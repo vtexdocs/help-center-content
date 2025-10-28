@@ -39,7 +39,7 @@ Para comprobar si un clúster de clientes está asociado a una promoción, sigue
 
 3. En la sección **“¿Cuáles son las condiciones para que la promoción sea válida?”**, verifica que la opción **Clúster de clientes** esté marcada y si el campo tiene el [valor correcto del clúster deseado](/es/tutorial/creando-promociones-cluster-clientes--tutorials_342#como-completar-el-campo-cluster-de-clientes).
 
-![Cluster_es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/troubleshooting/operaciones-de-la-tienda/la-promocion-no-se-aplico-al-cluster-de-clientes_1.png)
+![Cluster_es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/troubleshooting/operaciones-de-la-tienda/la-promocion-no-se-aplico-al-cluster-de-clientes_1.png)
 
  > ⚠️ El valor ingresado en el campo debe ser exactamente igual al valor previamente asignado al clúster de clientes teniendo en cuenta que el sistema distingue entre mayúsculas y minúsculas (case sensitive). Por ejemplo, si el valor utilizado para un determinado identificador de clúster es `empleado=true` y en la promoción se ingresó `Empleado=true` o `empleado=True`, la promoción no se mostrará a los usuarios de ese clúster.
 

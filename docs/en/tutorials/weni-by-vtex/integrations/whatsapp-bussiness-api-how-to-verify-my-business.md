@@ -29,21 +29,21 @@ WhatsApp Business: When creating a WhatsApp Business account, business verificat
 - \- Select the business account to be used.
 - \- Follow the steps below to complete business verification.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/whatsapp-bussiness-api-how-to-verify-my-business_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/whatsapp-bussiness-api-how-to-verify-my-business_1.png)
 
 ### **Step 1**
 
 Click on **WhatsApp Accounts** and select the account you want to verify.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/whatsapp-bussiness-api-how-to-verify-my-business_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/whatsapp-bussiness-api-how-to-verify-my-business_2.png)
 
 The status is displayed when you select the account to be verified:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/whatsapp-bussiness-api-how-to-verify-my-business_3.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/whatsapp-bussiness-api-how-to-verify-my-business_3.png)
 
 Click on **Start Verification**, and a new window will open.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/whatsapp-bussiness-api-how-to-verify-my-business_4.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/whatsapp-bussiness-api-how-to-verify-my-business_4.png)
 
 Here are some important links for the Business Verification process:
 
@@ -55,7 +55,7 @@ Here are some important links for the Business Verification process:
 
 If you have already integrated your number into our platform via the **Integrations Menu \> My Apps** or if the link between your Meta Business and Weni has been accepted, the **Start Verification** button will be available for you in the new page opened through **View Details**.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/whatsapp-bussiness-api-how-to-verify-my-business_5.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/whatsapp-bussiness-api-how-to-verify-my-business_5.png)
 
 ### **Step 3**
 

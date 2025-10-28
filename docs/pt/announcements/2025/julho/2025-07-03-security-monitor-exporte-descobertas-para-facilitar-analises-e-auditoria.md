@@ -23,7 +23,7 @@ Adicionamos a opção de exportar as descobertas diretamente do dashboard do Sec
 
 Para isso, acesse **Dashboards > Security Monitor > Security Monitor Dashboard** e clique em `Exportar` no canto superior direito da tela. Você pode selecionar quais descobertas incluir no arquivo exportado: *Todas as descobertas*, *Abertas*, *Silenciadas* ou *Fechadas*. Saiba mais em [Security Monitor](/pt/tutorial/security-monitor--5LOVNLrrtmgSj99pM1NS4x).
 
-![export-security-monitor-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2025/julho/2025-07-03-security-monitor-exporte-descobertas-para-facilitar-analises-e-auditoria_1.gif)
+![export-security-monitor-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2025/julho/2025-07-03-security-monitor-exporte-descobertas-para-facilitar-analises-e-auditoria_1.gif)
 
 ## Por que fizemos essa mudança?
 

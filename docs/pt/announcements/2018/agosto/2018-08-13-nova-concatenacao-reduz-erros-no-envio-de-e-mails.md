@@ -19,14 +19,14 @@ A partir de agora, sua loja pode usar ponto e vírgula (`;`) para concatenar end
 
 Esse recurso funciona nos campos de cópia (`Destinatário (CC)`) e cópia oculta (`Destinatário (CCO)`), assim como a vírgula já funcionava anteriormente. Agora as duas opções de concatenação são válidas.
 
-![Message Center bug fix](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2018/agosto/2018-08-13-nova-concatenacao-reduz-erros-no-envio-de-e-mails_1.png)
+![Message Center bug fix](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2018/agosto/2018-08-13-nova-concatenacao-reduz-erros-no-envio-de-e-mails_1.png)
 
 Essa mudança simples no módulo responsável pelo envio de e-mails transacionais reduziu drasticamente a taxa de erros em comunicações com clientes.
 
 O gráfico abaixo mostra a taxa de erros de uma loja antes de implementarmos o suporte à concatenação com ponto e vírgula. Mais de 90% dos e-mails falhavam todos os dias.
 
-![Message Center bug fix 2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2018/agosto/2018-08-13-nova-concatenacao-reduz-erros-no-envio-de-e-mails_2.png)
+![Message Center bug fix 2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2018/agosto/2018-08-13-nova-concatenacao-reduz-erros-no-envio-de-e-mails_2.png)
 
 Depois de implementada a melhoria, os erros no envio de e-mails transacionais da mesma loja foram completamente eliminados, como mostra este outro gráfico:
 
-![Message Center bug fix 3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2018/agosto/2018-08-13-nova-concatenacao-reduz-erros-no-envio-de-e-mails_3.png)
+![Message Center bug fix 3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2018/agosto/2018-08-13-nova-concatenacao-reduz-erros-no-envio-de-e-mails_3.png)

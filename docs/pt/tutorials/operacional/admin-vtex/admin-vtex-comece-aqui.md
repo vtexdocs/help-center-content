@@ -19,7 +19,7 @@ O Admin permite que os comerciantes gerenciem toda sua experiência de comércio
 
 ## Página inicial
 
-![Store overview gif PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/operacional/admin-vtex/admin-vtex-comece-aqui_1.gif)
+![Store overview gif PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/operacional/admin-vtex/admin-vtex-comece-aqui_1.gif)
 
 A página inicial oferece uma visão geral de alto nível da sua loja, como uma cabine de comando para as suas operações de comércio digital. Por isso, ela se chama [Visão Geral](/pt/v4/docs/visao-geral-da-loja--6mcM4LPUqQxSiXY6uFtXZy).
 
@@ -28,7 +28,7 @@ Assim que você fizer login no Admin, verá métricas e gráficos úteis para mo
 ## Menu de navegação 
 Nossos menus de navegação lateral e barra superior agrupam categorias similares para reduzir as distrações e ajudar a sua equipe a encontrar o que precisa mais rapidamente. 
 
-![menu de navegação admin SEP2023](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/operacional/admin-vtex/admin-vtex-comece-aqui_2.png)
+![menu de navegação admin SEP2023](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/operacional/admin-vtex/admin-vtex-comece-aqui_2.png)
 
 Na topbar, você pode usar a barra de busca global para pesquisar páginas do Admin VTEX ou pedidos da sua loja. Por padrão, a busca está configurada para `Páginas`. Para buscar um pedido, clique sobre a barra, selecione a opção `Pedidos` e utilize algum dos seguintes critérios:
 
@@ -56,7 +56,7 @@ Confira nossos artigos sobre a visão geral de cada menu do seu Admin VTEX, para
 
 ### Central de Informações
 
-![central de informações admin SEP2023](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/operacional/admin-vtex/admin-vtex-comece-aqui_3.gif)
+![central de informações admin SEP2023](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/operacional/admin-vtex/admin-vtex-comece-aqui_3.gif)
 
 É aqui que reunimos todos os links úteis do nosso ecossistema VTEX, para ajudá-lo(a) a aproveitar a nossa plataforma ao máximo. C Clicando no botão <i class='fa fa-question-circle-o'></i> na barra superior, você pode acessar nosso [Help Center](https://newhelp.vtex.com), [Developer Portal](https://developers.vtex.com/), [Status da Plataforma](https://status.vtex.com/), [blog](https://vtex.com/pt/blog/) e central de suporte.
 
@@ -69,7 +69,7 @@ O botão Enviar feedback permite que um usuário possa enviar comentários a res
 
 Neste momento um formulário do Google será exibido para que você possa enviar seu feedback. Após o envio, você receberá um email.
 
-![Botão feedback - PT -](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/operacional/admin-vtex/admin-vtex-comece-aqui_4.gif)
+![Botão feedback - PT -](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/operacional/admin-vtex/admin-vtex-comece-aqui_4.gif)
 
 #### Formulário do feedback
 O objetivo principal das perguntas no formulário de feedback é coletar informações detalhadas sobre as experiências e percepções em relação ao produto no Admin VTEX.
@@ -95,7 +95,7 @@ Tipo de feedback (selecione um ou mais campos):
 
 ### Configurações da conta e do usuário
 
-![configurações de avatar admin SEP2023](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/operacional/admin-vtex/admin-vtex-comece-aqui_5.gif)
+![configurações de avatar admin SEP2023](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/operacional/admin-vtex/admin-vtex-comece-aqui_5.gif)
 
 Seu avatar de perfil, reúne todas as configurações relacionadas ao seu usuário e à sua conta. Através do avatar, você pode acessar as [Configurações do usuário](/pt/v4/docs/user-settings-overview--1qYAvOTZBVYMosJ7tQm3Ry), [Configurações da conta](/pt/v4/docs/account-settings-overview--159BmXTQhaP44wLxtPff6r), e [Faturas](/pt/v4/docs/billing-overview--CcugO41lhNJzQKpazKYQC), alterar o idioma do seu Admin e encerrar a sessão. 
 

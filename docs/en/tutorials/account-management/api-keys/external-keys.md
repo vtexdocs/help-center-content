@@ -19,7 +19,7 @@ External API keys are credentials generated in and managed by other VTEX account
 
 The **External** tab lists the API keys created by your account.
 
-![apikeys-external-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/account-management/api-keys/external-keys_1.png)
+![apikeys-external-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/account-management/api-keys/external-keys_1.png)
 
 The page displays the following information in a table:
 

@@ -48,7 +48,7 @@ After this, you have to set up the store identification code from Tag Manager on
 4. In the __Google Tag Manager__ field, enter the store identification code in `GTM-XXXX` format, as shown in the image below.
 5. Click `Save`. 
 
-![Google Tag Manager](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/checkout/checkout-settings/integration-with-google-tag-manager_1.PNG)
+![Google Tag Manager](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/checkout/checkout-settings/integration-with-google-tag-manager_1.PNG)
 
 To check available events (triggers) and variables on the pages, which will be used in the tags, you can use the Google Tag Manager preview mode. For more information, check the [Google Tag Manager documentation](https://support.google.com/tagmanager/answer/6107056?hl=pt-BR).
 

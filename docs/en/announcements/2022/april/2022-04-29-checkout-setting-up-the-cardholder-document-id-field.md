@@ -43,7 +43,7 @@ To check if the anti-fraud solutions configured in your store allow changing the
 2. In the **Payments** module, click on **Settings > Gateway affiliations**. 
 3. After selecting the desired anti-fraud solution, check if the **Cardholder document field** option is available on the configuration screen.
 
-![cardholder document field](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2022/april/2022-04-29-checkout-setting-up-the-cardholder-document-id-field_1.png)
+![cardholder document field](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2022/april/2022-04-29-checkout-setting-up-the-cardholder-document-id-field_1.png)
 
 > ⚠️ If the **Cardholder document field** option is not available on the configuration screen of your anti-fraud solution provider, the **Cardholder document** field will still be displayed at Checkout in your store, and the customer will be required to fill it out.
 

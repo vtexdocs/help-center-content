@@ -36,10 +36,10 @@ La lista de categorías de tu tienda VTEX incluye el status del mapeo a través 
 
 | Icono | Status | Descripción |
 | ---------- | ---------- | ---------- | 
-| <img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/marketplace/configurar-integracion-con-mercado-libre/mapear-categorias-y-atributos-de-los-productos-para-mercado-libre-mapper_2.JPG" /> | **Mapeado**| Indica que se completó el mapeo de la categoría. | 
-| <img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/marketplace/configurar-integracion-con-mercado-libre/mapear-categorias-y-atributos-de-los-productos-para-mercado-libre-mapper_3.JPG" /> | **Mapeo incompleto** | La categoría está parcialmente mapeada y requiere que se rellenen los atributos obligatorios, indicados con un asterisco, para mapearla. | 
-| <img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/marketplace/configurar-integracion-con-mercado-libre/mapear-categorias-y-atributos-de-los-productos-para-mercado-libre-mapper_4.JPG" /> | **Error en el mapeo** | Se produce un error en el mapeo cuando el marketplace elimina o cambia la categoría del producto.  Para resolver este problema, solo hay que rehacer el mapeo de categorías. | 
-| <img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/marketplace/configurar-integracion-con-mercado-libre/mapear-categorias-y-atributos-de-los-productos-para-mercado-libre-mapper_5.JPG" /> | **No mapeada** | Indica que la categoría no fue mapeada. |
+| <img class="shadow-4" src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/marketplace/configurar-integracion-con-mercado-libre/mapear-categorias-y-atributos-de-los-productos-para-mercado-libre-mapper_2.JPG" /> | **Mapeado**| Indica que se completó el mapeo de la categoría. | 
+| <img class="shadow-4" src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/marketplace/configurar-integracion-con-mercado-libre/mapear-categorias-y-atributos-de-los-productos-para-mercado-libre-mapper_3.JPG" /> | **Mapeo incompleto** | La categoría está parcialmente mapeada y requiere que se rellenen los atributos obligatorios, indicados con un asterisco, para mapearla. | 
+| <img class="shadow-4" src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/marketplace/configurar-integracion-con-mercado-libre/mapear-categorias-y-atributos-de-los-productos-para-mercado-libre-mapper_4.JPG" /> | **Error en el mapeo** | Se produce un error en el mapeo cuando el marketplace elimina o cambia la categoría del producto.  Para resolver este problema, solo hay que rehacer el mapeo de categorías. | 
+| <img class="shadow-4" src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/marketplace/configurar-integracion-con-mercado-libre/mapear-categorias-y-atributos-de-los-productos-para-mercado-libre-mapper_5.JPG" /> | **No mapeada** | Indica que la categoría no fue mapeada. |
 
 La página de mapeo también contiene las secciones **Categoría del marketplace** y **Mapeo de atributos**. Ambas aparecen como una opción de menú de selección en el que si se hace clic sobre la flecha, se muestran nuevos campos e información.
 
@@ -56,7 +56,7 @@ Para finalizar el mapeo de la categoría, debes seguir las instrucciones a conti
 
 ## Mapear atributos
 
-![Home (8)](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/marketplace/configurar-integracion-con-mercado-libre/mapear-categorias-y-atributos-de-los-productos-para-mercado-libre-mapper_1.gif)
+![Home (8)](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/marketplace/configurar-integracion-con-mercado-libre/mapear-categorias-y-atributos-de-los-productos-para-mercado-libre-mapper_1.gif)
 
 El mapeo de los atributos permite que haya una correspondencia entre el patrón de tu tienda VTEX y el patrón utilizado por Mercado Libre. Cada categoría tiene atributos obligatorios en Mercado Libre y es necesario rellenarlos para que el mapeo pueda completarse. Los campos no mapeados no impiden que se realice el mapeo, sin embargo, mientras más atributos de tu producto se envíen a Mercado Libre, mejor clasificado estará en ese marketplace.
 
@@ -71,6 +71,6 @@ Para mapear los atributos, sigue los pasos a continuación:
 7. Si deseas personalizar un atributo, haz clic en el botón `Agregar valor personalizado` y crea un nombre para el valor del atributo personalizado.
 8. Haz clic en `Guardar cambios`.
 
-Al finalizar el mapeo de categorías y atributos correctamente, el status de la categoría cambiará a **Mapeado** <img class="shadow-4" src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/marketplace/configurar-integracion-con-mercado-libre/mapear-categorias-y-atributos-de-los-productos-para-mercado-libre-mapper_6.JPG" /> y tus productos se anunciarán en el sitio web de Mercado Libre.  
+Al finalizar el mapeo de categorías y atributos correctamente, el status de la categoría cambiará a **Mapeado** <img class="shadow-4" src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/marketplace/configurar-integracion-con-mercado-libre/mapear-categorias-y-atributos-de-los-productos-para-mercado-libre-mapper_6.JPG" /> y tus productos se anunciarán en el sitio web de Mercado Libre.  
 
 Después del mapeo de productos de moda, como ropa y calzado, es necesario enviar la tabla de medidas del producto a Mercado Livre. Para saber cómo llenar y enviar la tabla de medidas, sigue el tutorial [Tabla de medidas de Mercado Livre](/es/tutorial/tabela-de-medidas-do-mercado-livre--5dCc9IJ83SjllG75BVCWnr)

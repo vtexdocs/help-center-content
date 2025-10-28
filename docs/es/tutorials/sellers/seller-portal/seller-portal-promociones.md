@@ -27,7 +27,7 @@ A partir de la lista de promociones del Seller Portal puedes llevar a cabo diver
 * [Acceder al menú de acciones de la promoción](#acceder-al-menu-de-acciones-de-la-promocion)
 * [Acceder a promociones archivadas](#acceder-a-promociones-archivadas)
 
-![seller-portal-promo-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/sellers/seller-portal/seller-portal-promociones_1.png)
+![seller-portal-promo-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/sellers/seller-portal/seller-portal-promociones_1.png)
 
 En la siguiente tabla puedes consultar la información de la página **Promociones**: 
 
@@ -71,7 +71,7 @@ El archivo contiene la siguiente información sobre cada promoción:
 
 ## Verificar datos de uso de las promociones
 
-![seller-portal-promo-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/sellers/seller-portal/seller-portal-promociones_2.png)
+![seller-portal-promo-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/sellers/seller-portal/seller-portal-promociones_2.png)
 
 Para ver el total de promociones activas en tu tienda y la cuota restante para nuevas promociones, haz clic en `Uso de las promociones`.
 

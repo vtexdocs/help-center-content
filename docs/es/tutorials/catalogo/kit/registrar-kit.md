@@ -36,7 +36,7 @@ Sigue las instrucciones a continuación para crear un kit:
 2. Accede a la página de edición del SKU que será uno de los componentes. Si aún no hay un SKU creado, consulta [Agregar o editar SKUs](/es/tutorial/agregar-o-editar-skus--4ryZ6J45kwn3jDiQBxGiiN).
 3. En la pestaña **SKUs**, haz clic en la <i class="fas fa-ellipsis-v" aria-hidden="true"></i> fila del SKU deseado.
 
-  ![bundle_registration_image_1_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/kit/registrar-kit_1.png)
+  ![bundle_registration_image_1_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/kit/registrar-kit_1.png)
 
 4. Haz clic en `Crear kit`.
 5. Haz clic en `Convertir en kit`.
@@ -45,7 +45,7 @@ Sigue las instrucciones a continuación para crear un kit:
 
 Al convertirlo, el ID de SKU mostrará la etiqueta `Kit`:
 
-![bundle_registration_image_2_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/kit/registrar-kit_2.png)
+![bundle_registration_image_2_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/kit/registrar-kit_2.png)
 
 Si lo deseas, puedes duplicar el SKU o moverlo a otro producto. Estas acciones están disponibles en el mismo menú donde se encuentra la opción `Crear kit`, descrita en el paso 4.
 

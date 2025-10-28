@@ -26,14 +26,14 @@ In this article, we explain how to export and import spreadsheets with product a
 1. In the VTEX Admin, go to **Catalog**, or type **Catalog** in the search bar at the top of the page.
 2. Click **Import and export**.
 3. Click the **Product Specifications** or the **SKU Specifications** tab, according to your need.
-    ![skuexport1.en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/import-and-export/exporting-and-importing-product-and-sku-specifications_1.png)
+    ![skuexport1.en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/import-and-export/exporting-and-importing-product-and-sku-specifications_1.png)
 4. Right-click on the desired category.
     You cannot export specifications from all categories at once. You must choose only one category whose specifications you want to export. 
 5. Click on `Export...`.
     A green rectangle will appear on the screen.
 6. Click `Click here to download the file` to export the spreadsheet.
 
-![skuexport2.en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/import-and-export/exporting-and-importing-product-and-sku-specifications_2.png)
+![skuexport2.en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/import-and-export/exporting-and-importing-product-and-sku-specifications_2.png)
 
 > ℹ️ The exported spreadsheet will be available in your email for one week. If you exceed this period, follow the export step-by-step again to generate a new spreadsheet.
 
@@ -53,7 +53,7 @@ Follow the steps below to import the spreadsheet:
 2. Click **Select** to select the file with the completed spreadsheet on your computer.
 3. Click `Import`.
 
-![skuexport3.en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/import-and-export/exporting-and-importing-product-and-sku-specifications_3.png)
+![skuexport3.en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/import-and-export/exporting-and-importing-product-and-sku-specifications_3.png)
 
 ## Learn more
 - [Product and SKU Specifications](/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP)

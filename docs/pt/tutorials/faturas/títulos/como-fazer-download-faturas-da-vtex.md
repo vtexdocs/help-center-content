@@ -47,7 +47,7 @@ Para fazer o download da sua fatura, siga os passos abaixo:
 
 Feito isso, sua fatura estará disponível em outra aba.
 
-![baixar faturas pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/faturas/t%C3%ADtulos/como-fazer-download-faturas-da-vtex_1.gif)
+![baixar faturas pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/faturas/t%C3%ADtulos/como-fazer-download-faturas-da-vtex_1.gif)
 
 ## Brasil
 
@@ -67,7 +67,7 @@ Para fazer o download de seu boleto, siga os passos abaixo:
 
 > ℹ️ No Brasil, uma fatura roxa pode indicar que está atrasada mas com um novo boleto gerado para uma data próxima. Nesse caso, a fatura continuará em atraso até a quitação do pagamento. Caso não seja efetuado o pagamento do novo boleto, a fatura voltará a cor vermelha.
 
-![baixar boletos pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/faturas/t%C3%ADtulos/como-fazer-download-faturas-da-vtex_2.gif)
+![baixar boletos pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/faturas/t%C3%ADtulos/como-fazer-download-faturas-da-vtex_2.gif)
 
 ### Fazer download da Nota Fiscal
 
@@ -84,6 +84,6 @@ Desse modo, a Nota Fiscal será aberta em outra aba do seu navegador. Clique **I
 1. Em Destino, selecione a opção **Salvar em PDF**.
 2. Para finalizar, clique em **Salvar**.
 
-![baixar notafiscal pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/faturas/t%C3%ADtulos/como-fazer-download-faturas-da-vtex_3.gif)
+![baixar notafiscal pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/faturas/t%C3%ADtulos/como-fazer-download-faturas-da-vtex_3.gif)
 
 Caso você tenha dúvidas sobre o valor cobrado na fatura, leia o artigo [Compreenda o valor da receita aprovada](/pt/tutorial/como-acessar-o-valor-da-receita-aprovada--tutorials_4322) para entender o valor que foi cobrado.

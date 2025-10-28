@@ -19,7 +19,7 @@ No **Headless CMS**, você pode gerenciar todas as rotas de URL e modelos de pá
 
 ## Visão geral
 
-![Novas páginas ](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/headless-cms/gerenciando-paginas_1.png)
+![Novas páginas ](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/headless-cms/gerenciando-paginas_1.png)
 
 | Opção               | Descrição                                              |
 | ------------------- | ------------------------------------------------------ |
@@ -40,7 +40,7 @@ Para criar e gerenciar uma página, siga estas etapas:
 3. Em `Untitled`, nomeie a página.
 
 4. Clique em **Seções** e selecione a seção desejada.
-![Gif - páginas disponíveis](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/headless-cms/gerenciando-paginas_2.gif)
+![Gif - páginas disponíveis](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/headless-cms/gerenciando-paginas_2.gif)
 5. Adicione mais seções, se necessário, e preencha-as.
 
 6. Clique em `Publicar`.

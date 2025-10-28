@@ -85,7 +85,7 @@ Para buscar uma promoção, siga os passos abaixo:
 
 O agendamento de uma promoção ocorre quando esta é criada (ou alterada) com data e hora de validade posteriores ao momento atual . Lembrando que o horário considerado é o do sistema do computador no qual a promoção foi criada, desconsiderando-se ajustes de fuso horário.
 
-Essas promoções podem ser facilmente identificadas na página principal de Promoções, visto que possuem uma tarja laranja no canto superior direito da ficha, com a palavra agendada, como mostra o exemplo a seguir:![agendada](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promo%C3%A7%C3%B5es-e-taxas/promo%C3%A7%C3%B5es/criar-promocoes_1.png)
+Essas promoções podem ser facilmente identificadas na página principal de Promoções, visto que possuem uma tarja laranja no canto superior direito da ficha, com a palavra agendada, como mostra o exemplo a seguir:![agendada](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promo%C3%A7%C3%B5es-e-taxas/promo%C3%A7%C3%B5es/criar-promocoes_1.png)
 
 Para agendar uma promoção, siga os passos da seção [Agendar promoções](/pt/tutorial/agendamento-para-eventos-especiais--2nd50tPWdKK4waXRZLg0JI?&utm_source=autocomplete#agendar-promocoes) do artigo [Agendamento para eventos especiais](/pt/tutorial/agendamento-para-eventos-especiais--2nd50tPWdKK4waXRZLg0JI)
 

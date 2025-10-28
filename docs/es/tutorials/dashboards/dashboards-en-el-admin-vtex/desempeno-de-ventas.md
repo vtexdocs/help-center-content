@@ -26,7 +26,7 @@ Para acceder a la pagina, en __Dashboards__, haz clic en __Desempeño de Ventas_
 
 Puedes personalizar la visualización de los datos del gráfico y de la lista filtrando por periodo, dimensiones y métricas. 
 
-![Sales Perf Dash ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/dashboards/dashboards-en-el-admin-vtex/desempeno-de-ventas_1.gif)
+![Sales Perf Dash ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/dashboards/dashboards-en-el-admin-vtex/desempeno-de-ventas_1.gif)
 
 ## Datos 
 Los datos de la página proceden del [sistema de Gestión de pedidos](/es/tracks/orders--2xkTisx4SXOWXQel8Jg8sa) de VTEX. El Desempeño de Ventas es una solución analítica, que utiliza heurística y fórmulas creadas a partir de nuestra experiencia, llevando a nuestros clientes de ecommerce al siguiente nivel para calcular sus métricas. La página no debe utilizarse como un sustituto de los datos del OMS, sino como una herramienta de análisis y de insights de negocio.
@@ -151,7 +151,7 @@ Además de aplicar filtros, también puedes realizar las acciones a continuació
 
 ## Vistas
 
-![Sales perf update ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/dashboards/dashboards-en-el-admin-vtex/desempeno-de-ventas_2.gif)
+![Sales perf update ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/dashboards/dashboards-en-el-admin-vtex/desempeno-de-ventas_2.gif)
 
 El *dashboard* Desempeño de Ventas se puede personalizar aplicando diferentes filtros y seleccionando las métricas que aparecerán en el gráfico y la lista. Para facilitar la exploración diaria de los datos, hemos creado vistas que registran los filtros y las métricas aplicadas en la página para tu visualización directa. Puedes guardar, editar y compartir las diferentes vistas del dashboard. La página viene con las siguientes vistas configuradas por defecto:
 

@@ -91,7 +91,7 @@ VTEX cuenta con [My account](/es/tutorial/como-funciona-o-my-account--2BQ3GiqhqG
 
 Esta herramienta permite al consumidor seguir el status de su pedido en el flujo de posventa, así como realizar algunas operaciones. Entre estas, «Pedir nuevamente» para volver a realizar un pedido que se efectuó anteriormente.  
 
-![reorder ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/b2b/gu%C3%ADas-pr%C3%A1ticas/facilitar-la-operacion-de-una-tienda-b2b_1.png)
+![reorder ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/b2b/gu%C3%ADas-pr%C3%A1ticas/facilitar-la-operacion-de-una-tienda-b2b_1.png)
 
 Para saber más detalles de My Account, lea el tutorial sobre [cómo configurar esta funcionalidad](/es/tutorial/configurar-o-my-account--23Ayv5D6b86UBnYfoXqZL1).
 

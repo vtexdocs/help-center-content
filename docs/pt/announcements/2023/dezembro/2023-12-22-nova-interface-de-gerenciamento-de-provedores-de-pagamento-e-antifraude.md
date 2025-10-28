@@ -23,7 +23,7 @@ A partir de agora você poderá acessar de forma mais rápida as informações d
 
 A tela que permite adicionar um novo provedor, editar configurações e realizar busca de provedores, também foi aprimorada para permitir uma melhor experiência de navegação.
 
-![nova_interface_provedores_admin](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2023/dezembro/2023-12-22-nova-interface-de-gerenciamento-de-provedores-de-pagamento-e-antifraude_1.JPG)
+![nova_interface_provedores_admin](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2023/dezembro/2023-12-22-nova-interface-de-gerenciamento-de-provedores-de-pagamento-e-antifraude_1.JPG)
 
 ## O que precisa ser feito?
 

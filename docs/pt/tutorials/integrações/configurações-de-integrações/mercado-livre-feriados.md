@@ -24,7 +24,7 @@ Os dias sem envios só podem ser configurados no máximo dois dias úteis antes 
 
 A loja pode configurar esse feriado como um dia sem envios, no máximo até terça-feira, 18 de novembro. Após essa data o feriado aparecerá com o status **expirado** como na imagem abaixo.
 
-![Mercado Livre Feriados](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integra%C3%A7%C3%B5es/configura%C3%A7%C3%B5es-de-integra%C3%A7%C3%B5es/mercado-livre-feriados_1.jpg)
+![Mercado Livre Feriados](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integra%C3%A7%C3%B5es/configura%C3%A7%C3%B5es-de-integra%C3%A7%C3%B5es/mercado-livre-feriados_1.jpg)
 
 Na página de **Feriados** é apresentado os feriados dos próximos dois meses. Para acessá-la e configurá-la, siga os passos abaixo:
 

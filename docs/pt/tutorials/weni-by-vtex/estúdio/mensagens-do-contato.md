@@ -19,11 +19,11 @@ Mensagens são todas as interações realizadas quando você envia ou recebe uma
 
 Para acessar essas informações, Entre no seu projeto e clique no módulo **""Estúdio""** no menu lateral esquerdo.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/mensagens-do-contato_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/mensagens-do-contato_1.png)
 
 Logo em seguida, selecione a opção **""Mensagens""** no menu lateral. Você irá se deparar com as seguintes informações:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/mensagens-do-contato_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/mensagens-do-contato_2.png)
 
 **Inbox (Caixa de entrada)**: As mensagens desta pasta são todas as mensagens recebidas por um fluxo. Além disso, as mensagens nesta pasta são enviadas por contatos que não são ativos no fluxo.
 

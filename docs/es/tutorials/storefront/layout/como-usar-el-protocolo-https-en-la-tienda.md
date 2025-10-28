@@ -29,16 +29,16 @@ Es posible cambiar el protocolo en todas las carpetas de una sola vez con el uso
 2. Acceda a **Sites and channels**;
 3. Acceda el website deseado;
 4. Abra la carpeta raíz del website;
-![cms_instrução ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/como-usar-el-protocolo-https-en-la-tienda_1.png)
+![cms_instrução ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/como-usar-el-protocolo-https-en-la-tienda_1.png)
 5. La pantalla que se abre muestra todas las carpetas que están en el primer nivel del sitio. Para cada carpeta pertinente, haga clic en **Edit** - para la home, considera el botón superior;
-![cms_edit ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/como-usar-el-protocolo-https-en-la-tienda_2.png)
+![cms_edit ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/como-usar-el-protocolo-https-en-la-tienda_2.png)
 6. En el cuadro de selección **Protocol**, seleccione la opción **HTTPS**;
-![cms-protocol-https ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/como-usar-el-protocolo-https-en-la-tienda_3.png)
+![cms-protocol-https ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/como-usar-el-protocolo-https-en-la-tienda_3.png)
 7. Haga clic en **Save Folder**.
 
 Atención a las carpetas que tienen subcarpetas, como Departamento, Categoria, Produto y otras carpetas, incluyendo también las creadas para la personalización de la tienda. 
 
 En el siguiente ejemplo, la carpeta **@Orders@**, contenida en **Account**, que también debe ser editada: 
-![cms_subcategoria_edit ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/como-usar-el-protocolo-https-en-la-tienda_4.png)
+![cms_subcategoria_edit ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/como-usar-el-protocolo-https-en-la-tienda_4.png)
 
 Después del cache de hasta 10 minutos los cambios estarán en vigor.

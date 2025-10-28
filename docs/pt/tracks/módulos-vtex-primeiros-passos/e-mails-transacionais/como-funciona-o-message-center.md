@@ -44,7 +44,7 @@ Ao entrar no Message Center e clicar em __Templates__, você encontra a lista de
 
 Vamos entender as informações presentes nesses cards.
 
-![Emails 1 1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/m%C3%B3dulos-vtex-primeiros-passos/e-mails-transacionais/como-funciona-o-message-center_1.png)
+![Emails 1 1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/m%C3%B3dulos-vtex-primeiros-passos/e-mails-transacionais/como-funciona-o-message-center_1.png)
 
 - Nome do template para identificação interna. Este *não* é o assunto do e-mail.
 - Aplicação ou módulo ao qual o template pertence, sinalizado em verde.
@@ -54,7 +54,7 @@ Vamos entender as informações presentes nesses cards.
 
 Para buscar templates, você pode usar filtros por aplicação (módulo) e tipo (mensagem padrão ou personalizada).
 
-![Emails 1 2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/m%C3%B3dulos-vtex-primeiros-passos/e-mails-transacionais/como-funciona-o-message-center_2.png)
+![Emails 1 2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/m%C3%B3dulos-vtex-primeiros-passos/e-mails-transacionais/como-funciona-o-message-center_2.png)
 
 ### Remetentes
 
@@ -62,7 +62,7 @@ Aqui, o usuário confere e edita as informações - nome, e-mail e dados do serv
 
 Estas são as informações apresentadas nos cards dos remetentes:
 
-![Emails 1 3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/m%C3%B3dulos-vtex-primeiros-passos/e-mails-transacionais/como-funciona-o-message-center_3.png)
+![Emails 1 3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/m%C3%B3dulos-vtex-primeiros-passos/e-mails-transacionais/como-funciona-o-message-center_3.png)
 
 - Nome do remetente, para identificação interna.
 - Tipo de servidor SMTP, que pode ser da VTEX ou da própria loja.

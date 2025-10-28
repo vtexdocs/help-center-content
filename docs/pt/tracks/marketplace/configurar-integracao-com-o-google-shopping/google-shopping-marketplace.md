@@ -17,7 +17,7 @@ order: 1
 
 O [Google Shopping](https://shopping.google.com/) é uma plataforma na qual um produto é apresentado em listagens gratuitas classificadas de forma orgânica em pesquisas do Google. Ou seja, é um serviço de comparação e rastreamento de preços, que apresenta seus produtos gratuitamente nos resultados de pesquisa de produtos locais.
 
-![Google Shopping](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/marketplace/configurar-integracao-com-o-google-shopping/google-shopping-marketplace_1.png)
+![Google Shopping](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/marketplace/configurar-integracao-com-o-google-shopping/google-shopping-marketplace_1.png)
 
 Através do Google Shopping, é possível exibir ao consumidor alguns dos atributos do seu produto, tais como imagem, título, preço e nome da sua loja.
 

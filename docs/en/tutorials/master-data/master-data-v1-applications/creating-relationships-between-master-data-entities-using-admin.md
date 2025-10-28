@@ -47,7 +47,7 @@ Check out the instructions below for the aforementioned example.
 8. Click the gear icon <i class="fas fa-cog"></i> next to the **Relationship** field to configure it.
 9. Under **Custom field type settings**, select the entity you want to link and the field that will be displayed in the relationship. In this example, the relationship will be with the **Customer** entity, and the **email** field will be displayed.
 
-   ![Relationship entity Shopping List](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/master-data/master-data-v1-applications/creating-relationships-between-master-data-entities-using-admin_1.png)
+   ![Relationship entity Shopping List](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/master-data/master-data-v1-applications/creating-relationships-between-master-data-entities-using-admin_1.png)
 
 10. Click the `Save` button to save the settings.
 11. Click the publish icon <i class="fas fa-save"></i> to publish the entity.
@@ -94,4 +94,4 @@ To do this, you need to add the value `{relationship_entity_acronym}.{relationsh
 
 Relationships are kept through document IDs. Trying to insert the relationship's field value as a filter in the form will return only the IDs of the referred documents, and not each document's value for the chosen field. The image below shows this result. For more information, see [How to filter data in Master Data](/en/tutorial/filtering-data-on-master-data--tutorials_778).
 
-![Filter relationship ID](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/master-data/master-data-v1-applications/creating-relationships-between-master-data-entities-using-admin_2.png)
+![Filter relationship ID](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/master-data/master-data-v1-applications/creating-relationships-between-master-data-entities-using-admin_2.png)

@@ -37,36 +37,36 @@ La mejora del sistema de suscripciones también trajo nuevas funcionalidades par
 #### Nueva página de detalles de suscripción 
 Nuestra página de detalles de suscripción fue rediseñada con el fin de mejorar la experiencia del consumidor al reducir el tiempo para encontrar información y realizar tareas.  Además, contamos con una nueva funcionalidad de agregar ítems a una suscripción existente. 
 
-![img1 subscriptions ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2021/febrero/2021-02-02-nuevo-modulo-suscripciones_1.png)
+![img1 subscriptions ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2021/febrero/2021-02-02-nuevo-modulo-suscripciones_1.png)
 
 #### Barra de acciones
 Añadimos una barra de acciones para mejorar la comunicación con el usuario sobre lo que se necesita realizar o comunicar eventos importantes sobre su suscripción. 
 
-![img2 subscriptions ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2021/febrero/2021-02-02-nuevo-modulo-suscripciones_2.png)
+![img2 subscriptions ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2021/febrero/2021-02-02-nuevo-modulo-suscripciones_2.png)
 
 #### Agregar productos a su suscripción 
 Ahora se puede agregar nuevos ítems a su suscripción a través de la búsqueda de los productos disponibles en su tienda.
-![img3 subscriptions ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2021/febrero/2021-02-02-nuevo-modulo-suscripciones_3.png)
+![img3 subscriptions ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2021/febrero/2021-02-02-nuevo-modulo-suscripciones_3.png)
 
 #### Crear una nueva suscripción
 Añadimos una funcionalidad muy esperada: la pantalla de creación de suscripciones. La misma permite configurar una nueva suscripción sin tener que pasar por el checkout y ejecutar un pedido en ese momento. Para realizar esta acción, basta hacer clic en el botón __Nueva suscripción__, en la lista de suscripciones. 
 
-![img4 subscriptions PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2021/febrero/2021-02-02-nuevo-modulo-suscripciones_4.png)
+![img4 subscriptions PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2021/febrero/2021-02-02-nuevo-modulo-suscripciones_4.png)
 
 ### Nuevo concepto de suscripción para el sistema 
 Antes, para el sistema de VTEX, una suscripción estaba compuesta por un SKU asociado a una configuración de compra. Eso permitía que el consumidor de la tienda suscriba SKUs con direcciones de entrega e, incluso, con formas de pago diferentes —una evolución en comparación con la primera versión del sistema.
 
 #### Antes:
-![img5 subscriptions ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2021/febrero/2021-02-02-nuevo-modulo-suscripciones_5.png)
+![img5 subscriptions ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2021/febrero/2021-02-02-nuevo-modulo-suscripciones_5.png)
 
-![img6 subscriptions ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2021/febrero/2021-02-02-nuevo-modulo-suscripciones_6.png)
+![img6 subscriptions ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2021/febrero/2021-02-02-nuevo-modulo-suscripciones_6.png)
 
-![img7 subscriptions ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2021/febrero/2021-02-02-nuevo-modulo-suscripciones_7.png)
+![img7 subscriptions ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2021/febrero/2021-02-02-nuevo-modulo-suscripciones_7.png)
 
 La suscripción ahora consiste en una lista de SKUs y una configuración de compra determinada. Esto significa que eliminamos el concepto de «Grupos de suscripción» de nuestro sistema. Vea más información en nuestro artículo [Cómo funciona la suscripción](/es/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453). El siguiente diagrama muestra el nuevo concepto de suscripción:  
 
 #### Ahora:
-![img8 subscriptions ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2021/febrero/2021-02-02-nuevo-modulo-suscripciones_8.png)
+![img8 subscriptions ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2021/febrero/2021-02-02-nuevo-modulo-suscripciones_8.png)
 
 ### Fecha de ciclo de la suscripción
 El cálculo de la próxima fecha del pedido por suscripción cambió. Esta alteración permite que el usuario modifique la fecha de su pedido con mayor facilidad. Para acompañar el cambio, desarrollamos una [API](https://developers.vtex.com/vtex-developer-docs/reference/cycles) que permite elegir con exactitud la próxima fecha, sin tener que modificar la frecuencia de la suscripción para que se adecue a la fecha deseada.

@@ -32,9 +32,9 @@ Primeiramente é necessário que sua conta do Instagram seja empresarial ou prof
 
 1. Vá em **Configurações > Para profissionais >** toque em **Mudar para conta profissional**.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integra%C3%A7%C3%B5es/como-criar-um-canal-no-instagram_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integra%C3%A7%C3%B5es/como-criar-um-canal-no-instagram_1.png)
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integra%C3%A7%C3%B5es/como-criar-um-canal-no-instagram_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integra%C3%A7%C3%B5es/como-criar-um-canal-no-instagram_2.png)
 
 1. Escolha a categoria que melhor represente a sua empresa e selecione Empresa.
 2. Pronto, sua conta é empresarial agora!
@@ -44,11 +44,11 @@ Primeiramente é necessário que sua conta do Instagram seja empresarial ou prof
 1. Acesse **Configurações.**
 2. Toque em **Central de Contas** na parte inferior e, depois, em **Configurar a Central de Contas**.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integra%C3%A7%C3%B5es/como-criar-um-canal-no-instagram_3.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integra%C3%A7%C3%B5es/como-criar-um-canal-no-instagram_3.png)
 
 3. Toque em **Perfis** **> Adicionar contas >** **Adicionar conta do Facebook** e conecte\-se a ela ou selecione a conta à qual deseja se conectar.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integra%C3%A7%C3%B5es/como-criar-um-canal-no-instagram_4.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integra%C3%A7%C3%B5es/como-criar-um-canal-no-instagram_4.png)
 
 4. Toque em **Sim, concluir a configuração**.
 5. Selecione se deseja sincronizar a sua foto de perfil. Depois, toque em **Continuar**.
@@ -85,15 +85,15 @@ Após realizar as configurações indicadas na seção anterior iremos agora cri
 
 1. Ao entrar em sua conta em nossa plataforma, entre nas configurações dentro do seu projeto.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integra%C3%A7%C3%B5es/como-criar-um-canal-no-instagram_5.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integra%C3%A7%C3%B5es/como-criar-um-canal-no-instagram_5.png)
 
 2. Vá em Descoberta. Agora escolha entre a lista de canais disponíveis a opção de Instagram.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integra%C3%A7%C3%B5es/como-criar-um-canal-no-instagram_6.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integra%C3%A7%C3%B5es/como-criar-um-canal-no-instagram_6.png)
 
 3. Se já tiver realizado os passos de configuração apresentados anteriormente, clique em Conectar.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integra%C3%A7%C3%B5es/como-criar-um-canal-no-instagram_7.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integra%C3%A7%C3%B5es/como-criar-um-canal-no-instagram_7.png)
 
 4. Você verá que uma nova página se abrirá, nela você deverá realizar seu Login no Facebook (Use a mesma conta do Facebook que você vinculou a sua conta do Instagram na seção anterior).
 5. Após fazer login no Facebook, você verá todas as contas do Instagram que estão vinculadas a sua conta, selecione a que deseja dar permissões para ser gerenciada em nossa plataforma (Especificamente a conta na qual você realizou as configurações da seção anterior) e clique em Avançar.
@@ -101,6 +101,6 @@ Após realizar as configurações indicadas na seção anterior iremos agora cri
 7. Confirme que deseja continuar e dar as permissões necessárias para que possa gerenciar sua conta do Instagram por nossa plataforma.
 8. Após finalizar, a página do Facebook se fechará e irá aparecer em sua tela as páginas selecionadas por você nos passos anteriores, clique na página que você vinculou a conta do Instagram na seção anterior.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integra%C3%A7%C3%B5es/como-criar-um-canal-no-instagram_8.gif)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integra%C3%A7%C3%B5es/como-criar-um-canal-no-instagram_8.gif)
 
 Pronto, seu canal foi criado!

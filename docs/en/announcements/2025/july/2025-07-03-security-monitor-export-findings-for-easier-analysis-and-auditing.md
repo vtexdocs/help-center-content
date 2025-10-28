@@ -23,7 +23,7 @@ We've added the option to export findings directly from the Security Monitor das
 
 Go to **Dashboards > Security Monitor > Security Monitor Dashboard** and click `Export` in the top right corner of the screen. You can select which findings to include in the exported file: *All findings*, *Open*, *Snoozed*, or *Closed*. Learn more in [Security Monitor](/en/tutorial/security-monitor--5LOVNLrrtmgSj99pM1NS4x).
 
-![export-security-monitor-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2025/july/2025-07-03-security-monitor-export-findings-for-easier-analysis-and-auditing_1.gif)
+![export-security-monitor-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2025/july/2025-07-03-security-monitor-export-findings-for-easier-analysis-and-auditing_1.gif)
 
 ## Why did we make this change?
 

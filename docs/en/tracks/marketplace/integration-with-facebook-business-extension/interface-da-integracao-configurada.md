@@ -19,7 +19,7 @@ Once the integration with the _Facebook Business Extension and Conversions API_ 
 
 In this interface, there are three main sections: [Status](#status), [Features](#features), and [Catalog](#catalog).
 
-![Facebook business Extension](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/marketplace/integration-with-facebook-business-extension/interface-da-integracao-configurada_1.png)
+![Facebook business Extension](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/marketplace/integration-with-facebook-business-extension/interface-da-integracao-configurada_1.png)
 
 ## Status
 

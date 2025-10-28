@@ -20,7 +20,7 @@ The loading dock is part of the logistics system and usually acts as an intermed
 
 On VTEX, the loading dock is an intermediary between storing items and delivering orders. The loading dock integrates the necessary parts for your store’s logistics system: [Warehouse](/en/tutorial/warehouse--6oIxvsVDTtGpO7y6zwhGpb), [Trade policy](/en/tutorial/how-trade-policies-work--6Xef8PZiFm40kg2STrMkMV) and [Shipping policy](/en/tutorial/politica-de-envio--tutorials_140).
 
-![Doca EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/shipping-strategy/loading-dock_1.svg)
+![Doca EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/shipping/shipping-strategy/loading-dock_1.svg)
 
 > ℹ️ The Warehouse is the physical storage for the goods sold by the store; the Trade policy is the configuration of the store's sales strategies; and the Shipping policy is a set of rules that define the shipping options and conditions. For the logistics system to work as expected, we suggest that you configure it in the following order: <ul><li>[Shipping policy](/en/tutorial/politica-de-envio--tutorials_140)</li><li>Loading dock</li><li>[Warehouse](/en/tutorial/warehouse--6oIxvsVDTtGpO7y6zwhGpb)</li></ul>
 

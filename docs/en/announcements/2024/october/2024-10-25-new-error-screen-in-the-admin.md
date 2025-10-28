@@ -29,7 +29,7 @@ With a focus on improving the user experience, the new error screen includes the
 
 See the new error screen below:
 
-![Tela erro - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2024/october/2024-10-25-new-error-screen-in-the-admin_1.png)
+![Tela erro - EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2024/october/2024-10-25-new-error-screen-in-the-admin_1.png)
 
 ## What needs to be done?
 

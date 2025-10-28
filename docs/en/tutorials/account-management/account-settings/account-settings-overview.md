@@ -22,7 +22,7 @@ In the **Account Settings** section, you can control access to the Admin and cha
 
 To access the _Account Settings_ page, click on your **profile avatar**, which can be identified by the first letter of your email address, and click on **Account Settings**.
 
-![Admin v4 account settings menu EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/account-management/account-settings/account-settings-overview_1.jpg)
+![Admin v4 account settings menu EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/account-management/account-settings/account-settings-overview_1.jpg)
 
 This section includes the following pages, soon to be included in Admin v4.
 

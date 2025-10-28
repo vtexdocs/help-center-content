@@ -35,7 +35,7 @@ O menu Aplicativos permite que os comerciantes baixem novos aplicativos diretame
 
 Essas operações podem ser realizadas no menu Aplicativos do seu Admin repaginado.
 
-![Apps Overview menu PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/apps/vis%C3%A3o-geral-de-apps/visao-geral-apps_1.jpg)
+![Apps Overview menu PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/apps/vis%C3%A3o-geral-de-apps/visao-geral-apps_1.jpg)
 
 Veja abaixo mais detalhes sobre as diferentes seções e páginas deste recurso, que em breve estará disponível no Admin repaginado.
 

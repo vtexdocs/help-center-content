@@ -29,6 +29,6 @@ Entre las imágenes del SKU, la principal será aquella flechada en el registro 
 
 Vea, en nuestro ejemplo, que aunque no sea la primera imagen registrada, la imagen definida como principal es la que se asume en la página de producto al seleccionar el SKU.
 
-![sku_imagem_principal es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/ordenando-imagens-na-vitrine-e-na-pagina-de-produto_1.png)
+![sku_imagem_principal es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/ordenando-imagens-na-vitrine-e-na-pagina-de-produto_1.png)
 
 - Al subir la planilla de imágenes, la plataforma considera línea a línea luego la primera línea de un sku será considerada la principal y así sucesivamente.

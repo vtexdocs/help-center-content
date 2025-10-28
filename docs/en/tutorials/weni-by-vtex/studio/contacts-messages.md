@@ -19,11 +19,11 @@ Messages are all interactions that take place when you send or receive a message
 
 To access this information, enter your project and click the ""**Studio**"" module in the left side menu.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/studio/contacts-messages_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/studio/contacts-messages_1.png)
 
 Then select the ""**Messages**"" option from the side menu. You will come across the following information:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/studio/contacts-messages_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/studio/contacts-messages_2.png)
 
 **Inbox**: This folder contains all messages received by a flow. Additionally, the messages here are sent by contacts who are not active in the flow.
 

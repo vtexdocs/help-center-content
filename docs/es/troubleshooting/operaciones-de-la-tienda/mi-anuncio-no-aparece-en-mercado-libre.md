@@ -39,7 +39,7 @@ Para comprobar que la política comercial esté configurada correctamente en el 
 3. En la página de registro del producto, comprueba que la política comercial que se utiliza para Mercado Libre esté seleccionada.
 4. Si no lo está, marca la casilla de la política comercial.
 
-  ![politicas-comerciales-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/troubleshooting/operaciones-de-la-tienda/mi-anuncio-no-aparece-en-mercado-libre_1.png)
+  ![politicas-comerciales-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/troubleshooting/operaciones-de-la-tienda/mi-anuncio-no-aparece-en-mercado-libre_1.png)
 
  5. Haz clic en el botón `Guardar`.
 
@@ -55,7 +55,7 @@ Para comprobar la configuración del stock mínimo, accede a Marketplace > Conex
 2. En la fila de la integración deseada, haz clic en `Editar`.
 3. En `Configuración`, comprueba que el campo Stock mínimo tenga un valor.
 
-  ![inventario-minimo-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/troubleshooting/operaciones-de-la-tienda/mi-anuncio-no-aparece-en-mercado-libre_2.png)
+  ![inventario-minimo-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/troubleshooting/operaciones-de-la-tienda/mi-anuncio-no-aparece-en-mercado-libre_2.png)
 
  4. Asegúrate de que este campo esté configurado correctamente según se explica en el artículo [Control de stock mínimo para integraciones](/es/tutorial/controle-de-estoque-minimo-para-integracoes--5hvUNIiSeJ5QCaZQYpYf1D).
 

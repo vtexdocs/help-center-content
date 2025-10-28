@@ -19,7 +19,7 @@ La creación de un flujo se realiza con el objetivo de conectar un conjunto de a
 
 Las variables sirven precisamente para almacenar los valores y resultados de esas etapas, con el fin de persistir los datos. Por ejemplo, la opción ""Wait for Response"" (Esperar Respuesta) a continuación generará una variable de flujo denominada ""name"" como respuesta del contacto. Además, la variable se utilizará para guardar los datos en el campo de contacto ""Name"".
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/flujos/introduccion-a-expresiones-y-variables_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/flujos/introduccion-a-expresiones-y-variables_1.png)
 
 Las variables comienzan con el símbolo @. Sin embargo, también puedes avanzar a expresiones de uso más complejo utilizando @(. Las expresiones se modelan dentro de sintaxis específicas y su objetivo es procesar datos para manipular las variables guardadas por la plataforma.
 

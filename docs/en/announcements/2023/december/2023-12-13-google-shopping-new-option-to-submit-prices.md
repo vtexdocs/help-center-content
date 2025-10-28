@@ -25,14 +25,14 @@ Previously, merchants could see the **Consider discount for boleto payment in th
 
 > ⚠️ The **Apply discount to submitted price** setting is only available for VTEX stores in Brazil.
 
-![envio-de-precos-google-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2023/december/2023-12-13-google-shopping-new-option-to-submit-prices_1.png)  
+![envio-de-precos-google-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2023/december/2023-12-13-google-shopping-new-option-to-submit-prices_1.png)  
 
 ## What needs to be done?
 
 As of December 14, 2023, the update will be available to all [VTEX accounts acting as sellers](/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#being-a-vtex-seller).
 Accounts not using the Google Shopping integration but wanting to activate the __Submit base price (for discount prices)__ and __Apply discount to submitted price__ settings should follow [this article track](/en/tracks/configurar-integracao-com-o-google-shopping--25Sl7iOqq58PGfVfTAo8Xw/2kGKxwD9HKJvTLDTikQ4z) to start using the new settings. Accounts that are integrated with Google Shopping and have the __Consider discount for boleto payment in the submitted price__ setting active will automatically have the __Apply discount to submitted price__ option active after the update, as shown in the image below:
 
-![fluxo-update-news-google-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2023/december/2023-12-13-google-shopping-new-option-to-submit-prices_2.png)
+![fluxo-update-news-google-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2023/december/2023-12-13-google-shopping-new-option-to-submit-prices_2.png)
 
 Check out the documentation and learn how to [configure a discount linked to a payment method](/en/tracks/configurar-integracao-com-o-google-shopping--25Sl7iOqq58PGfVfTAo8Xw/3AqbcsWrge8zLt0BC5CtGd#desconto-vinculado-ao-metodo-de-pagamento) and [how to configure a discount in the connector](/en/tracks/configurar-integracao-com-o-google-shopping--25Sl7iOqq58PGfVfTAo8Xw/wWyl0Njxgs5KfXvxYZJrl).
 

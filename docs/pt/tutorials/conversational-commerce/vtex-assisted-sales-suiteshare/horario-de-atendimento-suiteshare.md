@@ -22,25 +22,25 @@ Além de organizar e distribuir os atendimentos, você pode definir horários de
 - [**Sequencial**](/pt/tutorial/sequencial--212r1PKHPGdpbbRlpf2gY3): o atendente não receberá clientes durante o período.  
 - [**Geolocalizado**](/pt/tutorial/geolocalizado--6XIfgaqXaPe5exQa9oVp6D): o atendente ou loja não receberão clientes durante o período. 
 
-![horario_suitshare_1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/horario-de-atendimento-suiteshare_1.png)
+![horario_suitshare_1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/horario-de-atendimento-suiteshare_1.png)
 
 > ⚠️ **Nota**: Para configurar o horário de atendimento você deve ter organizado seu atendimento de forma seletiva, sequencial ou geolocalizado.
 
 Acesse o **link âncora** que irá distribuir os atendimentos. 
 
-![horario_suitshare_2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/horario-de-atendimento-suiteshare_2.png)
+![horario_suitshare_2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/horario-de-atendimento-suiteshare_2.png)
 
 Defina o horário de atendimento clicando no **botão de relógio** localizado a frente do nome de cada um dos atendentes. 
 
-![horario_suitshare_3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/horario-de-atendimento-suiteshare_3.png)
+![horario_suitshare_3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/horario-de-atendimento-suiteshare_3.png)
 
-![horario_suitshare_4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/horario-de-atendimento-suiteshare_4.png)
+![horario_suitshare_4](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/horario-de-atendimento-suiteshare_4.png)
 
 > ❗ A disponibilidade padrão de todos os atendentes está configurada para 24 horas. Dessa forma, qualquer modificação deve ser feita de forma individual.
 
 Defina os dias disponíveis e horários de cada atendente. 
 
-![horario_suitshare_1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/horario-de-atendimento-suiteshare_5.gif)
+![horario_suitshare_1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/horario-de-atendimento-suiteshare_5.gif)
 
 Clique no botão **Finalizar**. 
 

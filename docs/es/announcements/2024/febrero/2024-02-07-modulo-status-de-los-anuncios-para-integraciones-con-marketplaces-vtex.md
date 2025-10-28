@@ -17,7 +17,7 @@ announcementSynopsisES: 'Monitorea tus anuncios con el nuevo módulo Status de l
 
 __Status de los anuncios__ es el nuevo módulo en el Admin VTEX que les permite a los sellers monitorear el envío y la sincronización de los anuncios de integraciones con marketplaces VTEX globalmente. Puedes acceder al módulo en el Admin VTEX a través de __Marketplace > Conexiones > Status de los anuncios__ o ingresando Status de los anuncios en la barra de búsqueda.  
 
-![Pantalla de estado de la oferta](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2024/febrero/2024-02-07-modulo-status-de-los-anuncios-para-integraciones-con-marketplaces-vtex_1.gif)
+![Pantalla de estado de la oferta](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2024/febrero/2024-02-07-modulo-status-de-los-anuncios-para-integraciones-con-marketplaces-vtex_1.gif)
 
 ## ¿Por qué desarrollamos esta funcionalidad?
 

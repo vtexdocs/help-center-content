@@ -24,7 +24,7 @@ We've created the new form to improve the experience of configuring promotions i
 - Reducing configuration errors through well-defined steps and an intuitive visualization of promotion criteria.
 - Customizing promotions easily, adjusting the purchase conditions and benefits offered to customers.
 
-![Compre e Ganhe-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2024/december/2024-12-12-new-buy-one-get-one-promotion-configuration-form_1.gif)
+![Compre e Ganhe-EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2024/december/2024-12-12-new-buy-one-get-one-promotion-configuration-form_1.gif)
 
 ## What needs to be done?
 No action is required. The new promotion form is already available in all VTEX stores.

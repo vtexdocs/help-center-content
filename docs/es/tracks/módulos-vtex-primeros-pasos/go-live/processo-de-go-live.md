@@ -19,14 +19,14 @@ Si has [configurado el funcionamiento de tu tienda](/es/tracks) y [desarrollado 
 
 En este tutorial, encontrarás una guía detallada paso a paso sobre cómo realizar el _go live_ de tu tienda.
 
-![Go live](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/m%C3%B3dulos-vtex-primeros-pasos/go-live/processo-de-go-live_1.jpg)
+![Go live](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/m%C3%B3dulos-vtex-primeros-pasos/go-live/processo-de-go-live_1.jpg)
 
 > ℹ️ Ten en cuenta que una tienda en producción es diferente de una cuenta en producción. En general, se puede decir que para que una tienda esté en producción, es necesario poner la cuenta en producción y realizar el apuntamiento de DNS. Consulta todos los pasos de este proceso a continuación.
 
 ## Antes de comenzar
 Antes de realizar el go live de tu tienda, es importante garantizar que hayas completado todas las configuraciones necesarias para el buen funcionamiento de la tienda.
 
-Copia esta [Lista de verificación de tienda](https://raw.githubusercontent.com/vtexdocs/help-center-content/files-migration-script/docs/es/tracks/módulos-vtex-primeros-pasos/go-live/Lista_verificacion_tienda.xlsx) y comprueba, para cada ítem, si realizaste la configuración de acuerdo con el funcionamiento deseado de la tienda.
+Copia esta [Lista de verificación de tienda](https://cdn.statically.io/gh/vtexdocs/help-center-content/files-migration-script/docs/es/tracks/módulos-vtex-primeros-pasos/go-live/Lista_verificacion_tienda.xlsx) y comprueba, para cada ítem, si realizaste la configuración de acuerdo con el funcionamiento deseado de la tienda.
 
 > ⚠️ La lista de verificación que se presenta aquí muestra las funcionalidades y configuraciones básicas para el funcionamiento de una tienda VTEX. Tu equipo debe definir qué funcionalidades implementará en la tienda y cómo se deben configurar para crear la experiencia de tienda deseada. Esto significa que la lista no necesariamente incluye todas las funcionalidades que tu tienda utiliza. Sin embargo, es importante verificar todos los aspectos del funcionamiento de tu tienda aunque no estén en la lista sugerida.
 

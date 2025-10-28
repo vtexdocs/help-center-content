@@ -44,7 +44,7 @@ Assim como na interface do OMS, a API traz a informação `vtex:fob_1111` para o
 
 É importante que o ERP esteja adequado à recepção dos dados neste formato.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integra%C3%A7%C3%B5es/pedidos/como-funciona-o-frete-quando-o-marketplace-faz-a-entrega_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integra%C3%A7%C3%B5es/pedidos/como-funciona-o-frete-quando-o-marketplace-faz-a-entrega_1.png)
 
 ## Etiqueta
 
@@ -52,6 +52,6 @@ O pedido é enviado em um contrato com os Correios do próprio marketplace. Nest
 
 É possível acessar a etiqueta diretamente pelo OMS, abaixo dos itens do pedido. Basta clicar no link e uma nova janela será aberta já com o PDF da etiqueta.
 
-![Etiqueta de entrega pelos Correios (BR) - Marketplace](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integra%C3%A7%C3%B5es/pedidos/como-funciona-o-frete-quando-o-marketplace-faz-a-entrega_2.png)
+![Etiqueta de entrega pelos Correios (BR) - Marketplace](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integra%C3%A7%C3%B5es/pedidos/como-funciona-o-frete-quando-o-marketplace-faz-a-entrega_2.png)
 
 Caso queria aproveitar a etiqueta dentro do ERP, ela também está disponível em [Marketplace Protocol API](https://developers.vtex.com/docs/api-reference/marketplace-protocol-external-marketplace-orders#post-/api/order-integration/orders), saiba mais em [New Order Integration](https://developers.vtex.com/docs/guides/external-marketplace-integration-collect-orders#scenario-12-order-with-tracking-hints).

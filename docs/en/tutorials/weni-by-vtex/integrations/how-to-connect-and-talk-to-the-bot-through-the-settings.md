@@ -21,22 +21,22 @@ Reaching the consumer requires a multichannel approach. Multichannel communicati
 
 1. In your project: **Apps > Other Applications > Add Channel**.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/how-to-connect-and-talk-to-the-bot-through-the-settings_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/how-to-connect-and-talk-to-the-bot-through-the-settings_1.png)
 
 2. A new window will open where you can choose the type of channel you want to integrate.
 3. After that, you can review all available channels for connection.
 
 **Call and SMS providers:**
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/how-to-connect-and-talk-to-the-bot-through-the-settings_2.gif)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/how-to-connect-and-talk-to-the-bot-through-the-settings_2.gif)
 
 **Social Networks:**
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/how-to-connect-and-talk-to-the-bot-through-the-settings_3.gif)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/how-to-connect-and-talk-to-the-bot-through-the-settings_3.gif)
 
 **APIs:**
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/how-to-connect-and-talk-to-the-bot-through-the-settings_4.PNG)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/how-to-connect-and-talk-to-the-bot-through-the-settings_4.PNG)
 
 Choose the channels you want to use and integrate.
 

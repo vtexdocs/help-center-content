@@ -32,7 +32,7 @@ In the Admin, you have the flexibility to customize your store's typography to m
 
 5. In the **Font family** field, create a name for the font.
 
-    ![familia-de-fontes-giff-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/styles/customizing-your-stores-typography_1.gif)
+    ![familia-de-fontes-giff-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/styles/customizing-your-stores-typography_1.gif)
 
 6. Click **Upload** to upload the desired font file.
 
@@ -66,7 +66,7 @@ Follow the instructions below to configure type tokens:
 
 3. Click **Edit > Typography > Type tokens**.
 
-    ![tokens-tipo-giff-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/styles/customizing-your-stores-typography_2.gif)
+    ![tokens-tipo-giff-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/styles/customizing-your-stores-typography_2.gif)
 
 4. Choose the token you want to customize, such as **Heading 1**, and click it.
 

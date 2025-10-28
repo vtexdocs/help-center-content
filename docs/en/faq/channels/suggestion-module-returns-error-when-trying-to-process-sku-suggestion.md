@@ -22,14 +22,14 @@ This happens when there is some error in the SKU registration in the seller.
 
 To identify what the error is, follow the steps below:
 1. Enter the __Suggestions__ module.
-2. Click the SKU that the marketplace did not accept.![erroSuggestion1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/channels/suggestion-module-returns-error-when-trying-to-process-sku-suggestion_1.png)
+2. Click the SKU that the marketplace did not accept.![erroSuggestion1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/channels/suggestion-module-returns-error-when-trying-to-process-sku-suggestion_1.png)
 3. Enter the browser __developer tools__ (for this, if you are using Google Chrome, press `F12` on Windows or` Command + Option + I` on the Mac).
 4. In the developer tools, click the __Network__ tab.
-5. Still in the developer tools, click the option __All__.![erroSuggestion2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/channels/suggestion-module-returns-error-when-trying-to-process-sku-suggestion_2.png)
+5. Still in the developer tools, click the option __All__.![erroSuggestion2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/channels/suggestion-module-returns-error-when-trying-to-process-sku-suggestion_2.png)
 6. Click the __Activate__ button of the Suggestions module.
 7. You will see a list of the calls activated by the Accept button.
-8. If one of them is in red and has `400` status, as in the image below, click on this call.![erroSuggestion3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/channels/suggestion-module-returns-error-when-trying-to-process-sku-suggestion_3.png)
-9. You will see below the description of the error that caused the failure to process the SKU suggestion.![erroSuggestion4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/channels/suggestion-module-returns-error-when-trying-to-process-sku-suggestion_4.png)
+8. If one of them is in red and has `400` status, as in the image below, click on this call.![erroSuggestion3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/channels/suggestion-module-returns-error-when-trying-to-process-sku-suggestion_3.png)
+9. You will see below the description of the error that caused the failure to process the SKU suggestion.![erroSuggestion4](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/channels/suggestion-module-returns-error-when-trying-to-process-sku-suggestion_4.png)
 
 To resolve the problem, the seller must resolve the error pointed out in this description.
 

@@ -31,7 +31,7 @@ subcategoryId: 6Hwvt2WIqemZXRG5fQDZwG
 
 To interact with the agent and start analyzing your store data, in the VTEX Admin, go to **Dashboards > Data Insights Agent** or type **Data Insights Agent** in the search bar. The page includes a conversation window and suggested questions to help you start an analysis with the assistant.   
 
-![Data Insights](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/data-insights-agent-beta/data-insights-agent_1.jpg)
+![Data Insights](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/beta/data-insights-agent-beta/data-insights-agent_1.jpg)
 
 When you click one of the suggested questions, the assistant begins analyzing the data related to this request.  
 

@@ -22,7 +22,7 @@ El diseño del panel de gestión de usuarios se actualizó con los mismos están
 - Exhibición de la configuración de MFA (autenticación de múltiples factores) de cada usuario en la lista de usuarios.
 - Botón para exportar los datos de la lista de usuarios en un archivo CSV que incluye ID, email y nombre.
 
-![Lista Usuários User Management ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2020/diciembre/2020-12-17-nueva-ui-del-panel-de-gestion-de-usuarios-del-admin_1.png)
+![Lista Usuários User Management ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2020/diciembre/2020-12-17-nueva-ui-del-panel-de-gestion-de-usuarios-del-admin_1.png)
 
 Además, el panel tiene algunos cambios:
 

@@ -24,15 +24,15 @@ To do that, we will show you how to remove the customizations using a Chrome nat
 
 1. To open DevTools, open Chrome and click **F12** or **right-click** anywhere on the page and select **Inspect**.
 
-![Customizations1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/shopping/blocking-customizations-to-troubleshoot-front-end-issues_1.png)
+![Customizations1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/shopping/blocking-customizations-to-troubleshoot-front-end-issues_1.png)
 
 2. Search for the **Request Blocking** function to block all customizations made via CSS, JavaScript, and Google Tag Manager. Click on the three vertical dots on the top right of the page, as indicated in the image below. Select **More Tools** and then **Request Blocking**.
 
-![Customizations2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/shopping/blocking-customizations-to-troubleshoot-front-end-issues_2.png)
+![Customizations2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/shopping/blocking-customizations-to-troubleshoot-front-end-issues_2.png)
 
 3. A box will be displayed, as in the image below:
 
-![Customizations3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/shopping/blocking-customizations-to-troubleshoot-front-end-issues_3.png)
+![Customizations3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/shopping/blocking-customizations-to-troubleshoot-front-end-issues_3.png)
 
 4. Click on the **Request Blocking** tab.
 
@@ -47,7 +47,7 @@ Now you will determine the features you want to block. This configuration must b
 
 The box will finally be displayed as in the image below:
 
-![Customizations4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/shopping/blocking-customizations-to-troubleshoot-front-end-issues_4.png)
+![Customizations4](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/shopping/blocking-customizations-to-troubleshoot-front-end-issues_4.png)
 
 Please remember that this configuration must be done only __once__.
 
@@ -57,11 +57,11 @@ Please remember that this configuration must be done only __once__.
 
 2. This configuration will be set by default, with all options for blocking enabled.
 
-![Customizations5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/shopping/blocking-customizations-to-troubleshoot-front-end-issues_5.png)
+![Customizations5](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/shopping/blocking-customizations-to-troubleshoot-front-end-issues_5.png)
 
 3. Now refresh the page by clicking on **F5**. The page will be displayed without custom components.
 
-![Customizations6](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/shopping/blocking-customizations-to-troubleshoot-front-end-issues_6.png)
+![Customizations6](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/shopping/blocking-customizations-to-troubleshoot-front-end-issues_6.png)
 
 4. To view customizations again, deselect the checkbox **Enable request blocking** and refresh the page.
 

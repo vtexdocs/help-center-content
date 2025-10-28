@@ -20,7 +20,7 @@ It is now possible to create Price Tables in a more intuitive, practical and fas
 ## What changes
 Before, to create a Price Table, it was necessary to acess the Prices module filter and enter the name of the table to be created. Now, we've added a new __Price Table__ button that allows you to create and select the price table you want to view.
 
-![Annoucement Price Table EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2019/june/2019-06-27-gain-speed-and-practicality-with-the-updated-price-table-feature_1.png)
+![Annoucement Price Table EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2019/june/2019-06-27-gain-speed-and-practicality-with-the-updated-price-table-feature_1.png)
 
 ## Advantages
 

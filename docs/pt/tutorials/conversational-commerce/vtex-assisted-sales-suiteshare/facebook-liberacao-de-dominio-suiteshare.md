@@ -20,7 +20,7 @@ Como o lançamento do iOS 14 da Apple pode afetar os seus anúncios e relatório
 Se você planeja veicular anúncios otimizados para eventos de conversão que ocorrem no site do VTEX Assisted Sales (SuiteShare), você deve nos informar o seu **número de identificação do Gerenciador de Negócios**, para isso bastar seguir os passos a seguir: 
 
 1. Você pode encontrar o seu Número de identificação do Gerenciador de Negócios, acessando `https://business.facebook.com/settings/info` conforme imagem abaixo:
-![facebook liberação de domínio](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/facebook-liberacao-de-dominio-suiteshare_1.png)
+![facebook liberação de domínio](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/facebook-liberacao-de-dominio-suiteshare_1.png)
 2. Assim que obter o seu número de identificação, [CLIQUE AQUI](\"https://suit.sh/liberacao-de-dominio\") para realizar a solicitação de liberação. Dentro de um prazo de 48 horas você será notificado por email, informando sobre a finalização do processo de liberação.
 
 Saiba mais:

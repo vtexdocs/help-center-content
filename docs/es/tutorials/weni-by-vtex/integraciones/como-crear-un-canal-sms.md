@@ -19,11 +19,11 @@ subcategoryId: 7e9LaCixVcvflzgWkxlftd
 
 La plataforma Weni tiene varios canales SMS que pueden configurarse para recibir y enviar mensajes y, de acuerdo con la aplicación elegida, tendrán diferentes configuraciones a realizar. Para activar un canal, ve al módulo **Aplicaciones> Otras Aplicaciones > Agregar Canal**
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/como-crear-un-canal-sms_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/como-crear-un-canal-sms_1.png)
 
 Se abrirá una nueva ventana. Navega hasta Canales de SMS y Voz.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/como-crear-un-canal-sms_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/como-crear-un-canal-sms_2.png)
 
 Después de elegir tu canal SMS, sigue el paso a paso para realizar esta integración. Aquí tenemos los canales SMS disponibles en el proyecto.
 

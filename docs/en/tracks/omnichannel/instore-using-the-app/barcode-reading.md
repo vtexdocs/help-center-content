@@ -19,7 +19,7 @@ After identifying the customer, the sales associate is taken directly to the car
 
 If the sales associate is using a tablet or smartphone, they will see a barcode button <i class="fas fa-barcode"></i> on the top bar of the application.
 
-![31. VTEX Sales App - Product Overview - 6 - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/instore-using-the-app/barcode-reading_1.png)
+![31. VTEX Sales App - Product Overview - 6 - EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/instore-using-the-app/barcode-reading_1.png)
 
 When clicking on it, the sales associate can use the camera to beep a product and, with that, be automatically taken to the details screen of that product.
 

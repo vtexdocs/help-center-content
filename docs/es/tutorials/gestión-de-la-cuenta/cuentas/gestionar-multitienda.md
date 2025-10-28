@@ -55,7 +55,7 @@ Para que los clientes puedan acceder a la nueva tienda, sigue las instrucciones 
 7. Haz clic en `Save Website`.
 8. En el campo **Links**, haz clic en `Add`.
 
-    ![cms-layout](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/gesti%C3%B3n-de-la-cuenta/cuentas/gestionar-multitienda_1.png)
+    ![cms-layout](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/gesti%C3%B3n-de-la-cuenta/cuentas/gestionar-multitienda_1.png)
 
 9. Rellena el campo **Store name from License Manager** con el valor de la subcuenta creada anteriormente en el módulo [Gestión de la cuenta](#crear-multitienda).
 10. En el campo **Available sales channel**, marca las políticas comerciales que se deben asociar a esta tienda.

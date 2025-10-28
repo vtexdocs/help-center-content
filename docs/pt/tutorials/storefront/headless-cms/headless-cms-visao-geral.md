@@ -36,7 +36,7 @@ Com o Headless CMS, você pode:
 
 [Projetos](/pt/tutorial/managing-projects--42IpDFqTVTESH8DCypJMPM) é uma funcionalidade do Headless CMS que permite criar e gerenciar vários projetos de frontend, como aplicativos móveis, sites e email marketing em um único painel de controle.
 
-![Projects pages](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/headless-cms/headless-cms-visao-geral_1.gif)
+![Projects pages](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/headless-cms/headless-cms-visao-geral_1.gif)
 
 Para mais informações, acesse o artigo [Gerenciando Projetos](/pt/tutorial/managing-projects--42IpDFqTVTESH8DCypJMPM).
 

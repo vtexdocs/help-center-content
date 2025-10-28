@@ -85,7 +85,7 @@ On this page, you can perform the following actions:
 
 * **Select**: by clicking on the <i class="far fa-square"></i> in the row of each product, you can select products or SKUs individually. Another option is to click on the first <i class="far fa-square"></i> and select all the products and SKUs displayed on the page to add them to the subscription plan, as illustrated in the example below.
 
-![selecionarskus EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/subscriptions/subscription-guides/creating-a-subscription-plan_1.gif)
+![selecionarskus EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/subscriptions/subscription-guides/creating-a-subscription-plan_1.gif)
 
 * <i class="fas fa-chevron-down"></i> __button__: displays the SKUs, i.e., product variations.
 * **Add**: click on this button to add products or SKUs to the subscription plan.

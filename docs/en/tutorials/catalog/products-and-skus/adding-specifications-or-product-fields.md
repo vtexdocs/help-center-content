@@ -41,7 +41,7 @@ Before creating any specifications, it's important to understand that they follo
 
 Consider the **TV** product for example. In __Catalog > All products > Edit > Specifications__, as illustrated in the page below, we can see that the specification group called **Characteristics** is associated with the TV's category. This group includes a field named **Inches** and a field named **Age group**, which are mandatory.
 
-![specifications-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/products-and-skus/adding-specifications-or-product-fields_1.PNG)
+![specifications-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/products-and-skus/adding-specifications-or-product-fields_1.PNG)
 
 Since this is a product specification, the information selected on that page will apply to all **TV** product variations. All products added to the TV's category must have these specifications filled out, since they are required fields.
 
@@ -78,7 +78,7 @@ To create a product field, follow the steps below:
     * **Active**: Inserts or removes this field when adding the product (**Specifications** tab).
 7. Click `Save`. 
 
-![product-spec-1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/products-and-skus/adding-specifications-or-product-fields_2.gif)
+![product-spec-1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/products-and-skus/adding-specifications-or-product-fields_2.gif)
 
 #### Product field types
 
@@ -144,7 +144,7 @@ For the **Combo**, **Radio** and **CheckBox** field types, you must add preset v
 
     The created values will be displayed in the Product **Specifications** tab.
 
-![product-spec-2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/products-and-skus/adding-specifications-or-product-fields_3.gif)
+![product-spec-2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/products-and-skus/adding-specifications-or-product-fields_3.gif)
 
 > ℹ️ If you are adding values for the first time in a field, you must return to the form of that specific field and check the **Active** option.
 
@@ -184,7 +184,7 @@ To fill in the specifications for each product individually, follow the instruct
 
 6. Click `Save`.
 
-![product-spec-3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/products-and-skus/adding-specifications-or-product-fields_4.gif)
+![product-spec-3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/products-and-skus/adding-specifications-or-product-fields_4.gif)
 
 #### Spreadsheet
 
@@ -207,7 +207,7 @@ To fill in product specifications in bulk by spreadsheet, you need to export the
 9. Click **Select** to select the file with the completed spreadsheet on your computer.
 10. Click `Import`.
 
-![product-spec-4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/products-and-skus/adding-specifications-or-product-fields_5.gif)
+![product-spec-4](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/products-and-skus/adding-specifications-or-product-fields_5.gif)
 
 ## Learn more
 - [Adding SKU specifications or fields](/en/tutorial/adding-sku-specifications-or-fields--tutorials_119)

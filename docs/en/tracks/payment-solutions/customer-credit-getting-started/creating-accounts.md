@@ -37,7 +37,7 @@ To register a new customer in Customer Credit, follow the steps below:
 
 From this moment on, the new account created will be displayed on the __Accounts__ screen.
 
-![CC_new_account_1_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/payment-solutions/customer-credit-getting-started/creating-accounts_1.JPG)
+![CC_new_account_1_EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/payment-solutions/customer-credit-getting-started/creating-accounts_1.JPG)
 
 ## Create multiple accounts (bulk import)
 
@@ -54,7 +54,7 @@ To create multiple accounts at the same time (in bulk) in Customer Credit, you c
   <li>Columns **Credit limit** and **Tolerance rate**: values available to each customer. The **Tolerance rate** must be entered in decimal format, for example, a tolerance of 5% must be indicated as 0.05.</li>
 </ul>
 
-![CC_criar_conta_2_ALL](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/payment-solutions/customer-credit-getting-started/creating-accounts_2.JPG)
+![CC_criar_conta_2_ALL](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/payment-solutions/customer-credit-getting-started/creating-accounts_2.JPG)
 
 <blockquote><ui>6. Save the .csv spreadsheet.</ui>
 

@@ -18,7 +18,7 @@ subcategoryId: 2eGwEr4DyPidougQJwktc5
 El Admin VTEX permite a los administradores de la tienda gestionar todas sus experiencias de comercio digital en un solo lugar, de forma sencilla e inteligente. Aquí dan seguimiento a los pedidos, registran productos, configuran fulfillment y llevan a cabo los demás aspectos de una operación de comercio unificado.
 
 ## Página de inicio
-![Store Overview gif ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/operativo/admin-vtex/admin-vtex-comience-aqui_1.gif)
+![Store Overview gif ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/operativo/admin-vtex/admin-vtex-comience-aqui_1.gif)
 
 La página de inicio proporciona una vista de alto nivel de tu tienda, como una cabina de mando para tus operaciones de comercio digital, y por eso se llama [Vista general](/es/v4/docs/visao-geral-da-loja--6mcM4LPUqQxSiXY6uFtXZy).
 
@@ -28,7 +28,7 @@ Una vez que accedas al Admin, verás métricas y gráficos útiles para monitore
 
 Nuestros menús laterales de navegación y la barra superior agrupan categorías similares de forma más clara para reducir las distracciones y ayudar a tu equipo a encontrar lo que necesita más rápidamente. 
 
-![menu de navegación admin SEP2023](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/operativo/admin-vtex/admin-vtex-comience-aqui_2.png)
+![menu de navegación admin SEP2023](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/operativo/admin-vtex/admin-vtex-comience-aqui_2.png)
 
 Puede utilizar la barra de búsqueda global para buscar páginas en el Admin VTEX o pedidos de su tienda. Por defecto, la búsqueda está configurada en `Páginas`. Para buscar un pedido, haga clic en la barra, seleccione la opción `Pedidos` y utilice cualquiera de los siguientes criterios:
 
@@ -56,7 +56,7 @@ Consulta nuestros artículos sobre la vista general de cada menú del Admin VTEX
 
 ### Centro de información
 
-![centro de información admin SEP2023](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/operativo/admin-vtex/admin-vtex-comience-aqui_3.gif)
+![centro de información admin SEP2023](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/operativo/admin-vtex/admin-vtex-comience-aqui_3.gif)
 
 Allí hemos reunido todos los enlaces útiles de nuestro ecosistema VTEX para ayudarte a sacar el máximo partido a nuestra plataforma. Haciendo clic en el botón <i class='fa fa-question-circle-o'></i>  en la barra superior, puedes acceder a nuestro [Help Center](https://newhelp.vtex.com), [Developer Portal](https://developers.vtex.com/), [Plataform Status](https://status.vtex.com/), [blog](https://vtex.com/es/blog/) y a las páginas de soporte.
 
@@ -67,7 +67,7 @@ El botón Dar feedback permite al usuario compartir su opinión sobre su experie
 2. Haz clic en la opción **Dar feedback**.
 
 Se abrirá un formulario de Google donde podrás enviar tus comentarios. Tras el envío, recibirás un email de confirmación.
-![Botão feedback - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/operativo/admin-vtex/admin-vtex-comience-aqui_4.gif)
+![Botão feedback - ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/operativo/admin-vtex/admin-vtex-comience-aqui_4.gif)
 
 #### Formulario de feedback
 El objetivo principal de las preguntas presentes en el formulario de feedback es obtener información detallada sobre la experiencia y las percepciones con respecto al producto en el Admin VTEX.
@@ -94,7 +94,7 @@ Tipo de feedback (marca una o varias casillas):
 
 ### Configuración de la cuenta y del usuario
 
-![configuraciones de avatar admin SEP2023](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/operativo/admin-vtex/admin-vtex-comience-aqui_5.gif)
+![configuraciones de avatar admin SEP2023](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/operativo/admin-vtex/admin-vtex-comience-aqui_5.gif)
 
 El avatar de tu perfil reúne todas las configuraciones relacionadas con tu usuario y tu cuenta. A través del avatar, puedes acceder a la [Configuración del usuario](/es/v4/docs/user-settings-overview--1qYAvOTZBVYMosJ7tQm3Ry), a la [Configuración de la cuenta](/es/v4/docs/account-settings-overview--159BmXTQhaP44wLxtPff6r), y a la información de las [Facturas](/es/v4/docs/billing-overview--CcugO41lhNJzQKpazKYQC).  También puedes cambiar el idioma del Admin y cerrar la sesión.
 

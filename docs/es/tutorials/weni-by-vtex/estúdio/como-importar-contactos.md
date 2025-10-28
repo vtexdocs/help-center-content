@@ -19,11 +19,11 @@ Cuando una persona interactúa a través de alguno de los canales conectados en 
 
 Es un proceso muy simple, primero, solo debes acceder al **Estudio **y dirigirte a la página de **contactos**, donde encontrarás el botón de ***Importar Contactos**** *en la esquina izquierda.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/est%C3%BAdio/como-importar-contactos_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/est%C3%BAdio/como-importar-contactos_1.png)
 
 Después de eso, serás dirigido a la página de importación, donde podrás seleccionar una hoja de Excel en formato **.XLS** y cargar los contactos que existen en la hoja a la plataforma. Sin embargo, para que esto funcione, es necesario nombrar correctamente el encabezado de la hoja, es decir, el nombre de las columnas. Al final de la página, proporcionamos una plantilla de ejemplo que puedes utilizar.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/est%C3%BAdio/como-importar-contactos_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/est%C3%BAdio/como-importar-contactos_2.png)
 
 Las reglas para nombrar las columnas son:
 
@@ -37,4 +37,4 @@ Las reglas para nombrar las columnas son:
 
 Después de seleccionar el archivo, simplemente haz clic en **(Avance)** y tus contactos se importarán a la plataforma. Todos los contactos aparecerán vinculados a un grupo estático, que tendrá el mismo nombre que el archivo de la hoja de cálculo. Si no deseas mantener el grupo, simplemente elimínalo.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/est%C3%BAdio/como-importar-contactos_3.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/est%C3%BAdio/como-importar-contactos_3.png)

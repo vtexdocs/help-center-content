@@ -40,7 +40,7 @@ Siga o passo a passo abaixo para renovar o token de uma chave de API:
 7. Acesse o link copiado ou compartilhe-o com a pessoa que vai utilizar o novo token. O link pode ser acessado apenas uma vez e tem duração de 24 horas se não houver acesso.
 8. Clique em `Copiar` para copiar o token da API para a área de transferência. Esse segredo será exibido apenas uma vez. Salve-o em um local seguro.
 
-![one-time-link-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/gerenciamento-da-conta/chaves-de-api/renovar-token-de-api_1.png)
+![one-time-link-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/gerenciamento-da-conta/chaves-de-api/renovar-token-de-api_1.png)
 
 Ao finalizar a renovação, não será possível renovar o token novamente antes do link de acesso único ser acessado ou expirar no prazo de 24 horas. Se necessário, você pode [desfazer a renovação do token](#desfazer-renovacao-de-token) enquanto o link ainda for válido.
 
@@ -58,7 +58,7 @@ Siga as instruções abaixo para excluir manualmente um token antigo, após a re
 2. Certifique-se de que você está na aba **Geradas**.  
 3. Na linha de uma chave de API com o alerta `Exclusão pendente - Token antigo`, clique no menu ⋮ e depois em <i class="far fa-trash-alt"></i> `Excluir token antigo`.
 
-   ![delete-pending-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/gerenciamento-da-conta/chaves-de-api/renovar-token-de-api_2.png)
+   ![delete-pending-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/gerenciamento-da-conta/chaves-de-api/renovar-token-de-api_2.png)
 
 4. Para confirmar, clique em `Excluir`.
 

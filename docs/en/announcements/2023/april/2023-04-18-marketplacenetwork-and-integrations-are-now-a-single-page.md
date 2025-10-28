@@ -17,7 +17,7 @@ announcementSynopsisEN: 'We have unified the Marketplace Network and the Integra
 
 To unify the opportunities to connect to VTEX and external marketplaces, we have merged the Integrations and Marketplace Network pages, now called __Marketplaces and Integrations__. The update will be available in all VTEX accounts as of May 03, 2023.  
 
-![Marketplaces and Integrations](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2023/april/2023-04-18-marketplacenetwork-and-integrations-are-now-a-single-page_1.png)
+![Marketplaces and Integrations](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2023/april/2023-04-18-marketplacenetwork-and-integrations-are-now-a-single-page_1.png)
 
 ## What has changed?  
 

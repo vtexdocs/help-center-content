@@ -22,14 +22,14 @@ Para ejemplo, usaremos un banner de la Home en el paso a paso, pero estas instru
 3. Haga clic en la carpeta **“Sites and Channels”**
 4. Haga clic en el **nombre de su tienda**.
 5. Haga clic en la **carpeta "/"**
-![cms_instrução ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/como-modificar-banner_1.png)
+![cms_instrução ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/como-modificar-banner_1.png)
 6. Haga clic en el archivo **“home”**
 7. Haga clic en la pestaña **Settings**
 8. Haga clic en el “lápiz” de edición. 
-![cms-home-settings ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/como-modificar-banner_2.png)
+![cms-home-settings ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/como-modificar-banner_2.png)
 9. Se abrirá la ventana de banners
 10. Haga clic en el "lápiz" que aparecerá
-![cms_home_settings_lapis ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/como-modificar-banner_3.png)
+![cms_home_settings_lapis ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/como-modificar-banner_3.png)
 11. Se abrirá el formulario de banner;
 
 **Modificar los contenidos del formulario:**

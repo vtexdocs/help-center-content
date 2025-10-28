@@ -17,13 +17,13 @@ subcategoryId: 119WfAe6xGl5c0S1hLdHRQ
 
 In this article, we will explain each option in the general settings that your organization will have on our platform. They have been numbered from 1 to 10 (see the image below) and are explained in detail. To access them, click on the side menu within your project.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/weni-settings/general-project-settings_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/weni-settings/general-project-settings_1.png)
 
 ### 1 - Settings:
 
 By clicking the gear icon, you will access a menu with two options:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/weni-settings/general-project-settings_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/weni-settings/general-project-settings_2.png)
 
 1. **Export**: You can export a created flow to be used in another organization.
 2. **Import**: You can import a flow from another organization to yours.
@@ -32,7 +32,7 @@ By clicking the gear icon, you will access a menu with two options:
 
 Here, you can configure two or more languages for your organization: one primary (used by default in the flows) and others secondary (defined when creating the flow). ​ 
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/weni-settings/general-project-settings_3.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/weni-settings/general-project-settings_3.png)
 
 To add the languages, simply enter the first language in the ""Default Flow"" field and the others in the ""Additional Languages"" field.
 
@@ -40,13 +40,13 @@ To add the languages, simply enter the first language in the ""Default Flow"" fi
 
 In this option, you can choose the location where your organization will operate. ​ 
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/weni-settings/general-project-settings_4.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/weni-settings/general-project-settings_4.png)
 
 ### 4 - Organization Email**:**
 
 Here, you can set your organization's email. All emails sent in flows or campaigns will be sent in the name of the email defined here. To configure it correctly, follow these steps:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/weni-settings/general-project-settings_5.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/weni-settings/general-project-settings_5.png)
 
 1. In **Email Address**, enter the desired email;
 2. In **SMTP Host**, enter your SMTP host;
@@ -61,13 +61,13 @@ If you don't want to configure it, leave the fields blank to send emails using W
 
 DT1 is a platform that provides B2B digital transfers for mobile top-ups and data solutions. Configuring this option adds an additional option to the flow. ​ 
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/weni-settings/general-project-settings_6.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/weni-settings/general-project-settings_6.png)
 
 ### 6 - Organization Access Token:
 
 Here, you can view your API token. The token is the access key for external applications to interact with the Weni Platform API. ​ 
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/weni-settings/general-project-settings_7.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/weni-settings/general-project-settings_7.png)
 
 ### 7 - Prometheus:
 

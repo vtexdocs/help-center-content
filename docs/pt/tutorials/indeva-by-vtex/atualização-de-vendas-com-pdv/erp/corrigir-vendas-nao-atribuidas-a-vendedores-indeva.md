@@ -38,7 +38,7 @@ Siga as etapas abaixo para adicionar o código:
 
 Abaixo está uma ilustração que demonstra o processo:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/atualiza%C3%A7%C3%A3o-de-vendas-com-pdv/erp/corrigir-vendas-nao-atribuidas-a-vendedores-indeva_1.gif)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/atualiza%C3%A7%C3%A3o-de-vendas-com-pdv/erp/corrigir-vendas-nao-atribuidas-a-vendedores-indeva_1.gif)
 
 > ❗ Enquanto o vendedor não estiver com o código informado corretamente, as vendas serão agrupadas na Indeva como **Outras Vendas**. Para corrigir registros anteriores, acesse **Validação** e refaça a validação dos dias impactados.
 

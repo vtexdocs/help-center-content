@@ -33,7 +33,7 @@ Después de determinar el descuento en Checkout, se debe vincular el SKU al medi
 3. Haga clic en el template de su página de producto en la lista de templates.
 4. En la propiedad `skuPrice`, añada la variable `paymentSystemId` con el ID del medio de pago deseado. 
 
-![Screenshot 2020-12-18 Crear precio al contado](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/precio/configurar-descuento-de-precio-al-contado_1.png)
+![Screenshot 2020-12-18 Crear precio al contado](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/precio/configurar-descuento-de-precio-al-contado_1.png)
 
 6. Luego, haga clic en __Save Template__ en el campo superior, para guardar la alteración.
 

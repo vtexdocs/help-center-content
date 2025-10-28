@@ -21,7 +21,7 @@ Para que los _marketplaces_ tengan más control sobre los criterios de aprobaci�
 
 De esta forma, los SKU que se envían al _marketplace_ cumplen los requisitos relevantes para la curación de catálogos. 
 
-![Offer Quality gif](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2023/febrero/2023-02-27-marketplace-nuevos-filtros-de-calidad-de-anuncios_1.gif)
+![Offer Quality gif](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2023/febrero/2023-02-27-marketplace-nuevos-filtros-de-calidad-de-anuncios_1.gif)
 
 ## ¿Qué cambió?
 

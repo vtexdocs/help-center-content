@@ -22,7 +22,7 @@ En **Configuración de la cuenta**, puedes controlar el acceso al Admin y modifi
 
 Para acceder a la _Configuración de la cuenta_, haz clic en tu **avatar de perfil**, marcado con la inicial de tu email, y luego haz clic en el botón **Configuración de la cuenta**.  
 
-![Admin v4 account settings menu ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/gesti%C3%B3n-de-la-cuenta/configuraciones-de-la-cuenta/vision-general-configuraciones-de-la-cuenta_1.jpg)
+![Admin v4 account settings menu ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/gesti%C3%B3n-de-la-cuenta/configuraciones-de-la-cuenta/vision-general-configuraciones-de-la-cuenta_1.jpg)
 
 La sección incluye las siguientes páginas, que pronto se incluirán en el diseño del Admin v4.
 

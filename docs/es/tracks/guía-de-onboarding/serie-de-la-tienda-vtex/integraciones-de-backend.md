@@ -103,7 +103,7 @@ Los pasos para la configuración se deben seguir en el orden indicado a continua
 
 Después de configurar la tienda y completar la integración con el middleware, el flujo general de información seguirá el formato que se muestra en la imagen:
 
-![ERP-integrations-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/gu%C3%ADa-de-onboarding/serie-de-la-tienda-vtex/integraciones-de-backend_1.jpg)
+![ERP-integrations-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/gu%C3%ADa-de-onboarding/serie-de-la-tienda-vtex/integraciones-de-backend_1.jpg)
 
 Cada una de las solicitudes o procesos representados por las flechas en el diagrama anterior es accionado por un tipo diferente de evento en la operación cotidiana de una tienda online. Para más información sobre este flujo, consulta[ Back office integration guide (ERP/PIM/WMS)](https://developers.vtex.com/docs/guides/erp-integration-guide#ongoing-middleware-flow).
 
@@ -165,7 +165,7 @@ Hay tres tipos de especificaciones que se deben crear en el siguiente orden:
 
 El diagrama a continuación ilustra el procedimiento.
 
-![catalog_specification_diagram_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/gu%C3%ADa-de-onboarding/serie-de-la-tienda-vtex/integraciones-de-backend_2.png)
+![catalog_specification_diagram_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/gu%C3%ADa-de-onboarding/serie-de-la-tienda-vtex/integraciones-de-backend_2.png)
 
 Las especificaciones siguen la jerarquía de Catálogo. Cuando se crea un grupo en un departamento o categoría, el mismo se heredará en los niveles inferiores.
 Una vez creados los grupos, campos y valores, hay que asociar las especificaciones a productos y SKU. Estos procedimientos se describen en la próxima sección: [Importar productos](#importar-productos).

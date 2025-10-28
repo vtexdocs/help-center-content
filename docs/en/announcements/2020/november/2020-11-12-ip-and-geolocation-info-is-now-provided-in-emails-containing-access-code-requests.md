@@ -28,4 +28,4 @@ When trying to access a store's Admin using an email address, you have the optio
 
 Security is a major focus here at VTEX, which takes center stage even more as major events like Black Friday comes into play. This new feature can help identify the source of an unauthorized access attempt.
 
-![IP Geolocation email - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2020/november/2020-11-12-ip-and-geolocation-info-is-now-provided-in-emails-containing-access-code-requests_1.png)
+![IP Geolocation email - EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2020/november/2020-11-12-ip-and-geolocation-info-is-now-provided-in-emails-containing-access-code-requests_1.png)

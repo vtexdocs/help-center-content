@@ -29,11 +29,11 @@ To make product updates available to Lengow, you must [configure an XML feed](/e
 
 - **File Name:** `lengow.xml`
 - **Collection:** `Lengow` (or another name you chose)
-- **Show Unavailable SKUs:** <img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/marketplace/lengow-integration/create-product-feed_3.png"/> (enabled)
+- **Show Unavailable SKUs:** <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/marketplace/lengow-integration/create-product-feed_3.png"/> (enabled)
 
 The feed itself should then be filled in as seen in the image below:
 
-![image2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/marketplace/lengow-integration/create-product-feed_1.png)
+![image2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/marketplace/lengow-integration/create-product-feed_1.png)
 
 ## Verify XML feed consistency
 
@@ -43,7 +43,7 @@ Your product feed should now be available at the following URL:
 
 If you visit this URL in your browser, you should see an XML document tree like this:
 
-![image8](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/marketplace/lengow-integration/create-product-feed_2.png)
+![image8](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/marketplace/lengow-integration/create-product-feed_2.png)
 
 The numbers seen in the XML feed correspond to the Product ID for all products in the collection you created for the Lengow connector.
 

@@ -28,20 +28,20 @@ Una vez que aprueben tu cuenta de desarrollador, Twitter enviará un correo elec
 2. Luego, deberás crear un entorno de desarrollo para que tu aplicación se ejecute. Deberás crear un entorno para la **Account Activity API / Sandbox**. Puedes nombrarlo como desees; recomendamos ""producción."" Asegúrate de seleccionar la aplicación que creaste en esta etapa.
 Este nombre se usará al conectar la cuenta en la Plataforma Weni.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/como-crear-un-canal-en-twitter_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/como-crear-un-canal-en-twitter_1.png)
 
 4. Ahora necesitas crear las claves y tokens para tu aplicación, que serán necesarios al crear tu canal. Vuelve a tu aplicación y selecciona la pestaña **Keys and****Tokens**. Haz clic en **Regenerar** en las secciones **Consumer API Keys** y **Access token \& access token secret**. Las claves y tokens deben generarse con los permisos de ""Leer, Escribir y Mensajes Directos"".
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/como-crear-un-canal-en-twitter_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/como-crear-un-canal-en-twitter_2.png)
 
 Asegúrate de que tu cuenta esté habilitada para recibir mensajes directos de cualquier persona. Puedes hacerlo en la configuración de seguridad/privacidad de Twitter.#### Conectando en la Plataforma
 
 5. Para crear el canal en la plataforma, dentro de tu proyecto ve a **Aplicaciones > Descubrimiento** en la sección de **Canales de Comunicación** y agrégalo haciendo clic en el ""\+"".
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/como-crear-un-canal-en-twitter_3.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/como-crear-un-canal-en-twitter_3.png)
 
 6. Luego, haz clic en la pestaña **Mis Aplicaciones**; la aplicación estará en la sección de **Aplicaciones Instaladas**. Completa la página con los datos recopilados anteriormente, y no olvides ingresar el Environment Name tal como fue configurado en el paso 2\. Al terminar, haz clic en **Enviar**, y tu canal estará conectado.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/como-crear-un-canal-en-twitter_4.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/como-crear-un-canal-en-twitter_4.png)
 
 Tu canal ahora está conectado, y puedes probar el envío y recepción de mensajes directos.

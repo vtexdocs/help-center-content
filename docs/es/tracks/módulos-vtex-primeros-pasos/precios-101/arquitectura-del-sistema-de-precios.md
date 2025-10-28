@@ -34,7 +34,7 @@ Estos pueden ser:
 
 A continuación, vemos un esquema de cómo se relacionan los conceptos de *precios*, *tabla de precios* y *contextos*:
 
-![Architecture-ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/m%C3%B3dulos-vtex-primeros-pasos/precios-101/arquitectura-del-sistema-de-precios_1.svg)
+![Architecture-ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/m%C3%B3dulos-vtex-primeros-pasos/precios-101/arquitectura-del-sistema-de-precios_1.svg)
 
 ## Precio calculado
 
@@ -48,22 +48,22 @@ El módulo de precios considera 4 criterios para calcular el precio calculado pa
 - Precio Fijo
 
 1. Si el SKU tiene apenas registrado el *precio base*, el precio calculado para una determinada tabla de precios será igual al **precio base**.
-![rule1-ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/m%C3%B3dulos-vtex-primeros-pasos/precios-101/arquitectura-del-sistema-de-precios_2.svg) 
+![rule1-ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/m%C3%B3dulos-vtex-primeros-pasos/precios-101/arquitectura-del-sistema-de-precios_2.svg) 
 
 2. Si el SKU tiene el *precio base* y una *regla de precio* configurada para una determinada tabla de precios, el precio calculado será igual al **precio base modificado por la regla de precio**.
-![rule2-ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/m%C3%B3dulos-vtex-primeros-pasos/precios-101/arquitectura-del-sistema-de-precios_3.svg) 
+![rule2-ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/m%C3%B3dulos-vtex-primeros-pasos/precios-101/arquitectura-del-sistema-de-precios_3.svg) 
 
 3. En otro escenario, vamos a considerar un SKU con *precio base*, *regla de precio* y *redondeo de precios*. **El precio calculado para una determinada tabla de precio se calculará mediante una combinación de estos tres factores**. Primero, el precio base se modificará por la regla de precio. Después de esto, se producirá el redondeo por la regla de precio psicológico.
-![rule3-ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/m%C3%B3dulos-vtex-primeros-pasos/precios-101/arquitectura-del-sistema-de-precios_4.svg)
+![rule3-ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/m%C3%B3dulos-vtex-primeros-pasos/precios-101/arquitectura-del-sistema-de-precios_4.svg)
 
 4. Finalmente, si un SKU tiene un *precio fijo* registrado, **el precio calculado para una determinada tabla de precios será igual al precio fijo**. Este precio tiene un peso superior a los otros precios. De esta manera, el módulo de precios *ignora los otros precios* si encuentra un precio fijo asociado a un SKU.
-![rule4-ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/m%C3%B3dulos-vtex-primeros-pasos/precios-101/arquitectura-del-sistema-de-precios_5.svg)
+![rule4-ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/m%C3%B3dulos-vtex-primeros-pasos/precios-101/arquitectura-del-sistema-de-precios_5.svg)
 
 ## Validar precio calculado
 
 Para verificar el precio de venta de un SKU en una determinada tabla de precios, puede consultar el **valor del precio computado** en la sección de **Lista de precios** del admin de VTEX. En el siguiente ejemplo, vemos que el precio computado del **SKU 14** para la **tabla de la política comercial 1** es igual a **334.62**:
 
-![computed-price-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/m%C3%B3dulos-vtex-primeros-pasos/precios-101/arquitectura-del-sistema-de-precios_6.png)
+![computed-price-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/m%C3%B3dulos-vtex-primeros-pasos/precios-101/arquitectura-del-sistema-de-precios_6.png)
 
 También puede verificar cuál es el precio computado de un SKU en una tabla de precios **haciendo una llamada por API**. Para esto, debe hacer un **GET** en el endpoint [Get Computed Price by price table or trade policy](https://developers.vtex.com/docs/api-reference/pricing-api#get-/pricing/prices/-itemId-/computed/-priceTableId-).
 

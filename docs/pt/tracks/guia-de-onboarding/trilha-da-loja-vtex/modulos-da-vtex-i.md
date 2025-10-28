@@ -39,7 +39,7 @@ Não existem configurações prévias que devam ser realizadas antes das configu
 
 A arquitetura do Catálogo apresenta alguns conceitos fundamentais: categoria, marca, produto, SKU (_Stock Keeping Unit_) e especificação. A imagem abaixo ilustra a relação entre esses conceitos:
 
-![arquitetura-catalogo-PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/guia-de-onboarding/trilha-da-loja-vtex/modulos-da-vtex-i_1.png)
+![arquitetura-catalogo-PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/guia-de-onboarding/trilha-da-loja-vtex/modulos-da-vtex-i_1.png)
 
 O catálogo da loja deve ser criado seguindo a ordem dos passos abaixo:
 
@@ -74,7 +74,7 @@ Recomendamos a criação de uma hierarquia de até três níveis, incluindo [Dep
 
 Antes de importar o catálogo da loja para a VTEX, recomendamos começar a trabalhar na árvore de categorias criando uma tabela como a ilustrada abaixo. Isto permite uma melhor visualização de como a árvore está organizada e como as especificações serão apresentadas.
 
-![catalog_arquitecture_table_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/guia-de-onboarding/trilha-da-loja-vtex/modulos-da-vtex-i_2.png)
+![catalog_arquitecture_table_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/guia-de-onboarding/trilha-da-loja-vtex/modulos-da-vtex-i_2.png)
 
 > ℹ️ Informações sobre como importar especificações para back-office podem ser encontradas no artigo [Integrações de backend](/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu).
 
@@ -153,7 +153,7 @@ Os preços são as informações dos valores de venda dos seus SKUs. Estes preç
 
 O relacionamento entre preços, tabela de preço e o contexto que será aplicado está representado na imagem abaixo:
 
-![Conceito de Preços-PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/guia-de-onboarding/trilha-da-loja-vtex/modulos-da-vtex-i_3.png)
+![Conceito de Preços-PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/guia-de-onboarding/trilha-da-loja-vtex/modulos-da-vtex-i_3.png)
 
 É possível cadastrar tabelas de preços para os SKUs da loja de três maneiras:
 
@@ -269,7 +269,7 @@ O conjunto de configurações essenciais de logística de uma loja VTEX é chama
 
 A imagem abaixo mostra como esses conceitos se relacionam entre si na venda de um produto:
 
-![shipping_strategy_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/guia-de-onboarding/trilha-da-loja-vtex/modulos-da-vtex-i_4.png)
+![shipping_strategy_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/guia-de-onboarding/trilha-da-loja-vtex/modulos-da-vtex-i_4.png)
 
 A tabela a seguir apresenta as principais configurações de logística da loja na VTEX:
 
@@ -317,7 +317,7 @@ Dentre os [principais casos de uso](/pt/tutorial/lead_time-shipping-time-at-sku-
 
 Para [calcular o prazo de envio](/pt/tutorial/como-funciona-o-calculo-de-envio--tutorials_116) de pedidos, a plataforma VTEX considera as seguintes configurações:
 
-![Envio de Pedidos_PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/guia-de-onboarding/trilha-da-loja-vtex/modulos-da-vtex-i_5.png)
+![Envio de Pedidos_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/guia-de-onboarding/trilha-da-loja-vtex/modulos-da-vtex-i_5.png)
 
 - [Lead time](/pt/tutorial/lead_time-shipping-time-at-sku-level--16yv5Mkj6bTyWR1hCN2f4B): quantidade de tempo configurável para o SKU de um estoque. A configuração é opcional e, por padrão, está definida como zero dias.
 - [Tempo de estoque](/pt/tutorial/gerenciar-estoque--tutorials_137): tempo que o SKU leva para sair de um estoque para uma [doca](/pt/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj). Essa configuração é obrigatória, mas o tempo pode ser definido igual a zero.

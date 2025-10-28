@@ -28,12 +28,12 @@ El Servicio de Ticketer se utiliza para proporcionar asistencia humana a los usu
 
 Puedes iniciar rápidamente un ticket en cualquier punto de tu flujo añadiendo la acción de 'open ticket'.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/ticketer-anadiendo-el-servicio-de-ticketer-en-rapidpro_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/ticketer-anadiendo-el-servicio-de-ticketer-en-rapidpro_1.png)
 
 1. Crea una carta “Open a ticket with a human agent”.
 2. Elige un tema o categoría. Para crear una nueva opción de tema o categoría, simplemente escribe el nombre en la barra y se creará automáticamente.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/ticketer-anadiendo-el-servicio-de-ticketer-en-rapidpro_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/ticketer-anadiendo-el-servicio-de-ticketer-en-rapidpro_2.png)
 
 1. Esta es una configuración opcional; si no asignas un agente al ticket, cualquier agente podrá tomar el ticket en la bandeja de tickets ""no asignados"". Si eliges un Agente, todos los tickets se asignarán automáticamente y aparecerán en la bandeja de “Mis tickets”.
 
@@ -47,15 +47,15 @@ Ahora debes agregar agentes para gestionar el ticket. Primero, ve a la página d
 
 Desplázate hacia abajo para encontrar la sección de inicio de sesión múltiple.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/ticketer-anadiendo-el-servicio-de-ticketer-en-rapidpro_3.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/ticketer-anadiendo-el-servicio-de-ticketer-en-rapidpro_3.png)
 
 Haz clic en el botón 'Menage Logins'.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/ticketer-anadiendo-el-servicio-de-ticketer-en-rapidpro_4.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/ticketer-anadiendo-el-servicio-de-ticketer-en-rapidpro_4.png)
 
 En esta página, puedes invitar a tus agentes ingresando su dirección de correo electrónico (1\), asignar el rol de ""agent"" desde el menú desplegable (2\) y hacer clic en “Save Changes” (3\).
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/ticketer-anadiendo-el-servicio-de-ticketer-en-rapidpro_5.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/ticketer-anadiendo-el-servicio-de-ticketer-en-rapidpro_5.png)
 
 #### **Ver y gestionar tickets**
 
@@ -63,36 +63,36 @@ Haz clic en la pestaña ‘tickets’ (1\) en tu espacio de trabajo para ver tod
 
 Una vez que elijas una carpeta, usa el menú desplegable para alternar entre abiertos o cerrados y ver tickets resueltos o sin resolver (3\).
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/ticketer-anadiendo-el-servicio-de-ticketer-en-rapidpro_6.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/ticketer-anadiendo-el-servicio-de-ticketer-en-rapidpro_6.png)
 
 #### **Abrir y cerrar tickets**
 
 Una vez que el ticket se ha resuelto, puedes marcar el ticket como resuelto haciendo clic en la marca de verificación en el ticket abierto.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/ticketer-anadiendo-el-servicio-de-ticketer-en-rapidpro_7.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/ticketer-anadiendo-el-servicio-de-ticketer-en-rapidpro_7.png)
 
 Si necesitas reabrir un ticket, todos los tickets cerrados tienen un botón en la parte inferior de la conversación para reabrirlos.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/ticketer-anadiendo-el-servicio-de-ticketer-en-rapidpro_8.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/ticketer-anadiendo-el-servicio-de-ticketer-en-rapidpro_8.png)
 
 #### **Detalles de contacto**
 
 Todos los campos personalizados de los contactos son visibles desde el panel de detalles del contacto, junto con cualquier información ingresada desde el flujo. Para abrir el panel, haz clic en el pequeño icono cuadrado a la derecha de la conversación.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/ticketer-anadiendo-el-servicio-de-ticketer-en-rapidpro_9.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/ticketer-anadiendo-el-servicio-de-ticketer-en-rapidpro_9.png)
 
 #### **Asignar tickets a otro agente**
 
 Además de asignar tickets desde el flujo, siempre puedes asignar tickets directamente desde la pestaña Tickets. Justo debajo del icono de detalles, verás el icono para asignar.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/ticketer-anadiendo-el-servicio-de-ticketer-en-rapidpro_10.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/ticketer-anadiendo-el-servicio-de-ticketer-en-rapidpro_10.png)
 
 Una vez que hagas clic en el icono de asignación, podrás seleccionar el agente (1\), agregar notas y guardar los cambios.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/ticketer-anadiendo-el-servicio-de-ticketer-en-rapidpro_11.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/ticketer-anadiendo-el-servicio-de-ticketer-en-rapidpro_11.png)
 
 #### Iniciar un flujo después de cerrar un ticket
 
 Es esencial hacer un seguimiento con tus contactos una vez que un agente haya resuelto un ticket abierto. Puedes iniciar el contacto en un flujo inmediatamente después de cerrar un ticket. Navega a la pestaña ""Triggers"", luego desplázate hacia abajo para encontrar la opción ""Start a flow after a ticket is closed"" y elige tu flujo.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/ticketer-anadiendo-el-servicio-de-ticketer-en-rapidpro_12.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/ticketer-anadiendo-el-servicio-de-ticketer-en-rapidpro_12.png)

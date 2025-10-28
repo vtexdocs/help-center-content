@@ -18,7 +18,7 @@ announcementSynopsisPT: 'Apresentamos o FastCheckout: inovação em checkout par
 
 Com o compromisso contínuo de inovar e a entregar excelência aos nossos clientes, a VTEX apresenta o **FastCheckout**, a mais recente evolução em nosso checkout. A nova solução permite criar experiências de checkout personalizadas com alta conversão, sempre atualizadas com novas funcionalidades.
 
-![fastcheckout](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2024/abril/2024-04-03-fastcheckout-aumente-sua-conversao-com-o-novo-checkout_1.png)
+![fastcheckout](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2024/abril/2024-04-03-fastcheckout-aumente-sua-conversao-com-o-novo-checkout_1.png)
 
 ## O que mudou?
 
@@ -55,7 +55,7 @@ Proporcionamos a liberdade de incluir elementos completamente customizados, sem 
 
 O novo fluxo de compra no FastCheckout é projetado para ser dinâmico e intuitivo, para oferecer aos seus clientes uma experiência de compra mais fluida e simplificada. Com etapas claramente definidas e uma navegação intuitiva, tornamos o processo de checkout mais eficiente.
 
-![GIFCheckout](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2024/abril/2024-04-03-fastcheckout-aumente-sua-conversao-com-o-novo-checkout_2.gif)
+![GIFCheckout](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2024/abril/2024-04-03-fastcheckout-aumente-sua-conversao-com-o-novo-checkout_2.gif)
 
 ## Por que fizemos essa mudança?
 

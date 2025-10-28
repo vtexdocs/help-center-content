@@ -30,15 +30,15 @@ To assign sellers to a particular buying organization, follow the steps below:
 <li>In the VTEX Admin, go to **Apps > B2B Organizations & Cost Centers > Organizations**, or type **Organizations** in the search bar at the top of the page.</li>
 <li>In the **Organizations** tab, click the name of the desired buying organization.</li>
 
-![Organization](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/b2b/organization-details/configuring-seller-allocation-for-buying-xky_1.jpg)
+![Organization](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/b2b/organization-details/configuring-seller-allocation-for-buying-xky_1.jpg)
 
 <li>In the **Sellers** tab, under **Disponible**, select the desired sellers.</li>
 
-![Details Organization](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/b2b/organization-details/configuring-seller-allocation-for-buying-xky_2.jpg)
+![Details Organization](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/b2b/organization-details/configuring-seller-allocation-for-buying-xky_2.jpg)
 
 <li>Click the **ADD TO ORG** button.</li>
 
-![Details Organizations 2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/b2b/organization-details/configuring-seller-allocation-for-buying-xky_3.jpg)
+![Details Organizations 2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/b2b/organization-details/configuring-seller-allocation-for-buying-xky_3.jpg)
 
 <li>Click **Save**.</li>
 

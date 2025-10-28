@@ -43,7 +43,7 @@ You need to configure which authentication method will be available in each cont
 
 On the **Authentication** page, you can choose which login methods you want to offer for your store's customers and administrative users accessing the Admin.
 
-![Authentication page](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/authentication/authentication-basics/authentication_1.png)
+![Authentication page](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/authentication/authentication-basics/authentication_1.png)
 
 Follow the steps below to enable the desired login methods:
 

@@ -17,7 +17,7 @@ announcementSynopsisEN: 'Global launch of lead time, an optional SKU-level shipp
 
 VTEX has made [lead time](/en/tutorial/lead-time-tempo-de-envio-a-nivel-de-sku--16yv5Mkj6bTyWR1hCN2f4B), a shipping time setting for inventory SKUs, available to all stores. In other words, you can set an additional shipping time at SKU level when calculating the shipping promises displayed to customers at checkout.
 
-![lead_time_image_total_time_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2023/september/2023-09-22-lead-time-configuring-shipping-time-at-sku-level_1.png)
+![lead_time_image_total_time_EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2023/september/2023-09-22-lead-time-configuring-shipping-time-at-sku-level_1.png)
 
 The store's shipping will remain unchanged when not configured, as lead time is optional. Note that the checkout consolidation rules are maintained, calculating the total shipping time of the order based on the longest shipping time among the items.
 
@@ -31,7 +31,7 @@ Previously, the order [shipping calculation](/en/tutorial/como-funciona-o-calcul
 
 Now, you can also configure the shipping time at SKU level with the new lead time column on the [Inventory Management](/en/tutorial/gerenciar-inventario--tutorials_139) page, which can be found in your VTEX Admin under **Catalog > Inventory > Inventory Management**, as shown in the image below:
 
-![lead_time_inventory_management_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2023/september/2023-09-22-lead-time-configuring-shipping-time-at-sku-level_2.png) 
+![lead_time_inventory_management_EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2023/september/2023-09-22-lead-time-configuring-shipping-time-at-sku-level_2.png) 
 
 > ⚠️ In the VTEX Admin, the lead time is configured in days, with a 365-day limit. By default, the days are calculated in business days, but you can configure your shipping policy to [calculate them in calendar days](/en/tutorial/lead-time-tempo-de-envio-a-nivel-de-sku--16yv5Mkj6bTyWR1hCN2f4B#configuring-lead-time-calculation-in-calendar-days-optional). You need to use the [Update inventory by SKU and warehouse](https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/inventory/skus/-skuId-/warehouses/-warehouseId-) endpoint to configure periods in hours, minutes, and seconds.
 

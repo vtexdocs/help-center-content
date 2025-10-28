@@ -29,7 +29,7 @@ __Caso um SKU com determinada especificação não esteja disponível em estoque
 
 No exemplo abaixo, os tamanhos P e G do produto não estão disponíveis.
 
-![classeIndisponivel](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/como-usar-a-classe-de-produto-indisponivel_1.png)
+![classeIndisponivel](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/como-usar-a-classe-de-produto-indisponivel_1.png)
 
 ## Incluir a classe de produto indisponível
 

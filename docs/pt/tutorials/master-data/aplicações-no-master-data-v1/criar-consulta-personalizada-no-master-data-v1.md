@@ -44,11 +44,11 @@ Siga o passo a passo abaixo para filtrar os registros de um formulário e salvar
 
 Após seguir as instruções acima, a consulta vai aparecer como uma opção de visualização na listagem do formulário.
 
-![consultas-2-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/master-data/aplica%C3%A7%C3%B5es-no-master-data-v1/criar-consulta-personalizada-no-master-data-v1_1.png)
+![consultas-2-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/master-data/aplica%C3%A7%C3%B5es-no-master-data-v1/criar-consulta-personalizada-no-master-data-v1_1.png)
 
 Você também pode acessar as consultas salvas clicando no botão Consultas, na listagem do formulário:
 
-![consultas-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/master-data/aplica%C3%A7%C3%B5es-no-master-data-v1/criar-consulta-personalizada-no-master-data-v1_2.png)
+![consultas-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/master-data/aplica%C3%A7%C3%B5es-no-master-data-v1/criar-consulta-personalizada-no-master-data-v1_2.png)
 
 ## Configurar uma consulta padrão
 

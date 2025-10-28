@@ -27,24 +27,24 @@ Depending on the data stored, public access without authentication can pose a ri
 2. In Master Data, click **Applications**.
 3. Click the gear <i class="fas fa-cog"></i> next to **Profile System**:
 
-   ![1-master-data-confidential-data-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/master-data/master-data-v1-settings/restrict-public-access-to-master-data-fields_1.png)
+   ![1-master-data-confidential-data-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/master-data/master-data-v1-settings/restrict-public-access-to-master-data-fields_1.png)
 4. In **Settings**, click **Data structure**.
 
-   ![2-master-data-confidential-data-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/master-data/master-data-v1-settings/restrict-public-access-to-master-data-fields_2.png)
+   ![2-master-data-confidential-data-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/master-data/master-data-v1-settings/restrict-public-access-to-master-data-fields_2.png)
 5. Click the **Data Entities** tab.
 6. In the data entity row, click the edit <i class="fas fa-edit"></i> button.
 
-   ![3-master-data-confidential-data-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/master-data/master-data-v1-settings/restrict-public-access-to-master-data-fields_3.png)
+   ![3-master-data-confidential-data-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/master-data/master-data-v1-settings/restrict-public-access-to-master-data-fields_3.png)
 7. Click the gear icon <i class="fas fa-cog"></i> in the row of a field that contains confidential data.
 
-   ![4-master-data-confidential-data-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/master-data/master-data-v1-settings/restrict-public-access-to-master-data-fields_4.png)
+   ![4-master-data-confidential-data-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/master-data/master-data-v1-settings/restrict-public-access-to-master-data-fields_4.png)
 8. Uncheck the following options:
 
    * **Make readable without credentials**
    * **Allow editing without credentials**
    * **Allow filtering without credentials**
 
-   ![5-master-data-confidential-data-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/master-data/master-data-v1-settings/restrict-public-access-to-master-data-fields_5.png)
+   ![5-master-data-confidential-data-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/master-data/master-data-v1-settings/restrict-public-access-to-master-data-fields_5.png)
 9. Click `Save`.
 10. In the row of the changed data entity, click the Publish button <i class="fas fa-save"></i> to publish the saved settings.
 11. Click `OK`.

@@ -24,13 +24,13 @@ However, these attributes are quite clear (Primary color, Secondary color, Size 
 
 If any of these attributes is wrongly entered (for example, if you attribute a code for belt size to a pair of shoes), the Integrations will return an error in the following format:
 
-![Shot1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/channels/why-does-mercado-livre-return-attribution-errors-after-mapping_1.jpg)
+![Shot1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/channels/why-does-mercado-livre-return-attribution-errors-after-mapping_1.jpg)
 
 In this case, we have examples of two errors in the same message.
 
 he first indicates that an attribute whose code begins with the number `113000` is needed for the category selected and was not entered in the mapping worksheet. Look at the following worksheet:
 
-![Shot2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/channels/why-does-mercado-livre-return-attribution-errors-after-mapping_2.png)
+![Shot2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/channels/why-does-mercado-livre-return-attribution-errors-after-mapping_2.png)
 
 The second error indicates that the attribute with a code beginning with the number `63000`, entered in the final column of the above worksheet, is not valid for the category selected.
 
@@ -40,7 +40,7 @@ The codes for each variation of an attribute start with the same number. For exa
 
 To identify the attribute indicated in an error message, see the code start number defined by the Mercado Livre. Click on the name of your country to download the reference worksheet:
 
-- [Brazil](https://raw.githubusercontent.com/vtexdocs/help-center-content/files-migration-script/docs/en/faq/channels/Brasil.zip)
-- [Argentina](https://raw.githubusercontent.com/vtexdocs/help-center-content/files-migration-script/docs/en/faq/channels/Argentina.rar)
-- [Colombia](https://raw.githubusercontent.com/vtexdocs/help-center-content/files-migration-script/docs/en/faq/channels/Colombia.rar)
-- [México](https://raw.githubusercontent.com/vtexdocs/help-center-content/files-migration-script/docs/en/faq/channels/Mexico.rar)
+- [Brazil](https://cdn.statically.io/gh/vtexdocs/help-center-content/files-migration-script/docs/en/faq/channels/Brasil.zip)
+- [Argentina](https://cdn.statically.io/gh/vtexdocs/help-center-content/files-migration-script/docs/en/faq/channels/Argentina.rar)
+- [Colombia](https://cdn.statically.io/gh/vtexdocs/help-center-content/files-migration-script/docs/en/faq/channels/Colombia.rar)
+- [México](https://cdn.statically.io/gh/vtexdocs/help-center-content/files-migration-script/docs/en/faq/channels/Mexico.rar)

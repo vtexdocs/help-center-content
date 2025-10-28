@@ -24,7 +24,7 @@ Puedes mover un SKU de un producto a otro siguiendo estos pasos:
 3. En la página de [edición del producto](/es/tutorial/adicionar-ou-editar-produto--29IkdEu6GofCFlltsZh2H8) o en la de [edición del SKU](/es/tutorial/adicionar-ou-editar-sku--4ryZ6J45kwn3jDiQBxGiiN), ve a la pestaña **SKUs**.
 4. Haz clic en el menú de tres puntos verticales > `Mover a otro producto`.
 
-    ![move_sku_product_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/productos-y-skus/mover-un-sku-a-otro-producto_1.png)
+    ![move_sku_product_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/productos-y-skus/mover-un-sku-a-otro-producto_1.png)
 
 5. Haz clic en el producto deseado o utiliza la barra de búsqueda, ingresando el nombre del producto o el código de referencia.
 6. Haz clic en `Mover SKU`.

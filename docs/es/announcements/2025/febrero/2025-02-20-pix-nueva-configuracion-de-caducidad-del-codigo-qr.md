@@ -21,7 +21,7 @@ Para optimizar las operaciones de pago en la plataforma, VTEX implementará una 
 
 Actualmente, los códigos de QR Code Pix están disponibles en pantalla durante 10 minutos, y el pago puede realizarse en un máximo de 15. Transcurrido este plazo, el pedido se anula y debe realizarse una nueva compra.
 
-![PIX QR Code](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2025/febrero/2025-02-20-pix-nueva-configuracion-de-caducidad-del-codigo-qr_1.png)
+![PIX QR Code](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2025/febrero/2025-02-20-pix-nueva-configuracion-de-caducidad-del-codigo-qr_1.png)
 
 A partir del __26 de marzo de 2025__, el tiempo de validez de QR Code Pix podrá configurarse entre 15 y 60 minutos, lo que dará a los clientes más flexibilidad al pagar.
 

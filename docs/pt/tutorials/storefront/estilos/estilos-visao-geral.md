@@ -20,7 +20,7 @@ A página **Estilos** permite que você defina a tipografia e a paleta de cores 
 
 Para acessar a seção Estilos, entre no Admin VTEX, acesse **Storefront > Estilos** e descubra as principais ferramentas disponíveis na interface.
 
-![Estilos - Visão geral](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/estilos/estilos-visao-geral_1.png)
+![Estilos - Visão geral](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/estilos/estilos-visao-geral_1.png)
 
 <div style="background-color:#FFF3CD; border-left: 2px solid #F0AD4E; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px">
   Para aplicar e prever mudanças nos estilos da sua loja, certifique-se de utilizar um workspace que suporte o tráfego de produção, como um [workspace de produção](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-workspace). 

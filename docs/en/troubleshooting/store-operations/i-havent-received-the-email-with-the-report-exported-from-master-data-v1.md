@@ -31,7 +31,7 @@ You can access the report in Master Data by following the steps below:
 4. In **Export Status**, identify the row of the report you want to access.
 5. If the **Status** is **Completed - Download**, click `Download` to download the file.
 
-    ![download-report-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/troubleshooting/store-operations/i-havent-received-the-email-with-the-report-exported-from-master-data-v1_1.png)
+    ![download-report-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/troubleshooting/store-operations/i-havent-received-the-email-with-the-report-exported-from-master-data-v1_1.png)
 
     If the **Status** is **Running**, wait for the export to complete and then repeat the steps.
 

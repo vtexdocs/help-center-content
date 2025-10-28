@@ -84,7 +84,7 @@ Se puede configurar la programación de compras recurrentes en el [sistema de Su
 
 - Asignación de [usuario](/es/tutorial/gestionar-usuarios--tutorials_512) encargado de la tarea.
 
-![vtex-do-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/gu%C3%ADa-de-onboarding/proximos-pasos-tras-el-go-live/otros-ajustes-de-los-modulos-de-vtex_1.JPG)
+![vtex-do-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/gu%C3%ADa-de-onboarding/proximos-pasos-tras-el-go-live/otros-ajustes-de-los-modulos-de-vtex_1.JPG)
 
 ### VTEX Social Selling
 

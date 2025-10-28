@@ -21,7 +21,7 @@ Quando o ERP envia as mensagens ao e-commerce, estas são enviadas em **LOTE** c
 
 Em alguns casos, um registro pode ser quebrado em partes para ser enviado corretamente para **VTEX**. Exemplo: o método de atualização de estoque que em alguns casos envia também o preço. Neste caso, o adaptador gera um registro para o estoque e outro registro para o preço, como ilustrado abaixo:
 
-![aa1-adaptador](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/erp/adaptador-vtex/monitor-da-integracao_1.png)
+![aa1-adaptador](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/erp/adaptador-vtex/monitor-da-integracao_1.png)
 
 ## Usando o monitor de integração
 
@@ -37,16 +37,16 @@ Na área de filtros você pode:
 - Filtrar pela Operação executada. Exemplos: **AtualizaPreco**, **AtualizaEstoque**, **AtualizaPrecoArmazem**, **Comprador**, **confirmaComprador**.
 - Filtrar pelo Status da troca de mensagens. Exemplo: somente apresentar as mensagens que apresentaram erro no sincronismo com a VTEX.
 
-![loginformacoeslote-adaptador](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/erp/adaptador-vtex/monitor-da-integracao_2.png)
+![loginformacoeslote-adaptador](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/erp/adaptador-vtex/monitor-da-integracao_2.png)
 
 - Você pode acompanhar a quantidade de registros processados em cada lote, olhando as colunas de **Pendentes** (registros que ainda não foram processados pela VTEX), **Sucesso** (Registros processados pela VTEX com sucesso), **Erro** (registros que apresentaram falha no processamento pela VTEX).
 - Você pode fazer download do arquivo XML do lote que foi enviado pelo ERP clicando no link **Baixar XML**.
 - Clicando no link registro, você pode consultar os registros que foram enviado no lote.
 
-![loteRegistro-adaptador](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/erp/adaptador-vtex/monitor-da-integracao_3.png)
+![loteRegistro-adaptador](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/erp/adaptador-vtex/monitor-da-integracao_3.png)
 
 - Você pode filtrar a lista pelo conteúdo da mensagem retornada através do campo **Palavras Chave na Mensagem**.
 - Você pode ordenar as linhas do relatório clicando no nome da coluna desejada. Ex: ordenar a coluna de **Status**.
 - Você pode clicar nos links da coluna de **Detalhes** para visualizar o `JSON` enviado pela VTEX e o retorno oferecido pela VTEX.
 
-![detalhesregistros-adaptador](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/erp/adaptador-vtex/monitor-da-integracao_4.png)
+![detalhesregistros-adaptador](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/erp/adaptador-vtex/monitor-da-integracao_4.png)

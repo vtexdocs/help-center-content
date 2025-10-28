@@ -73,7 +73,7 @@ Digamos que se registren dos precios fijos para el mismo SKU. Además, ambos tie
 
 Por ejemplo: el primer precio fijo es __$ 50.00__ y ​​su programación va de __10h a 16h__. Ya el segundo es __$ 25.00__, solo que está programado de __12h a 20h del mismo día__. En este caso, *entre las 12h y las 16h*, los dos precios fijos compiten entre sí. Por lo tanto, el valor de __$ 25.00__ será el precio de venta del SKU en este horario en común.
 
-![fixed price - example2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/m%C3%B3dulos-vtex-primeros-pasos/precios-101/precio-fijo-definicion-de-concepto_1.svg)
+![fixed price - example2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/m%C3%B3dulos-vtex-primeros-pasos/precios-101/precio-fijo-definicion-de-concepto_1.svg)
 
 ### Competencia por el Criterio de Ítems Mínimos en el Carrito 
 
@@ -83,7 +83,7 @@ Imagine que registramos un precio fijo de $ 200.00 para __dos o más ítems en e
 
 ¿Cuál sería el precio aplicado para 5 o más ítems? El precio de venta será de $ 100.00, visto que el sistema prioriza el valor más bajo.
 
-![fixed price - example1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/m%C3%B3dulos-vtex-primeros-pasos/precios-101/precio-fijo-definicion-de-concepto_2.svg)
+![fixed price - example1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/m%C3%B3dulos-vtex-primeros-pasos/precios-101/precio-fijo-definicion-de-concepto_2.svg)
 
 ## Ejemplos
 

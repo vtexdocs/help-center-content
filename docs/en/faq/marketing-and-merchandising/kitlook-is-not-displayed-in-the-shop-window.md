@@ -32,7 +32,7 @@ __Fill in the Label field__
 4. Go to the __Images__ tab;
 5. Enter a term to populate the __Label__;
 
-  ![Kit Look - Label - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/marketing-and-merchandising/kitlook-is-not-displayed-in-the-shop-window_1.jpg)
+  ![Kit Look - Label - EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/marketing-and-merchandising/kitlook-is-not-displayed-in-the-shop-window_1.jpg)
 
 6. Click __Save__.
 

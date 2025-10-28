@@ -21,7 +21,7 @@ This is why we created the new [Web Page Performance](/en/v4/docs/web-page-perfo
 
 PageSpeed Insights and Lighthouse are tools developed by Google to report on the user experience of a page on both mobile and desktop devices, providing suggestions on how that page may be improved. They use [Google's Core Web Vitals](https://web.dev/vitals/#core-web-vitals) as metrics to assess online user experience. 
 
-![Web page performance Dash EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2022/june/2022-06-29-access-googles-pagespeed-insights-in-your-vtex-admin_1.png)
+![Web page performance Dash EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2022/june/2022-06-29-access-googles-pagespeed-insights-in-your-vtex-admin_1.png)
 
 ## What has changed?
 

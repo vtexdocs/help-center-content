@@ -28,7 +28,7 @@ The new **Products & SKUs** interface allows you to:
 * Track product and SKU status in a more straightforward and visual way, with icons and SKU status in the list.
 * Easily identify products and SKUs with pending information waiting to be available for sale through the new **Pending** status.
 
-![catalog-products-skus-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2023/april/2023-04-10-redesigned-products-and-skus-page_1.png)
+![catalog-products-skus-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2023/april/2023-04-10-redesigned-products-and-skus-page_1.png)
 
 ## Why did we make this change?
 

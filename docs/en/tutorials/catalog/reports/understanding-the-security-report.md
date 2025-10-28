@@ -31,7 +31,7 @@ Several filters are available, beginning with the fields below, bearing in mind 
 
 In the example, I set up a filter for a change (whether creation or updating) to the price of an SKU. To do this I have used the fields __Data__ with the SKU Id, __Screen__, with the location of the platform where the change is happening and a specific time frame. According to the report you want, you may have to use other fields at the same time, or as a replacement for those I have used in the example.
 
-![relatorioseguran aPT.gif?h=250](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/reports/understanding-the-security-report_1.gif)
+![relatorioseguran aPT.gif?h=250](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/reports/understanding-the-security-report_1.gif)
 
 Read the section below to understand all the available fields for filtering the report.
 

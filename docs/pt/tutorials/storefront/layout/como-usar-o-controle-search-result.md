@@ -44,14 +44,14 @@ Veja abaixo a lista de todos os atributos do controle Search Result:
 
 O código renderizado pelo controle Search Result tem, por padrão, a seguinte estrutura:
 
-![searchResult1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/como-usar-o-controle-search-result_1.jpg) 
+![searchResult1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/como-usar-o-controle-search-result_1.jpg) 
 
 E os elementos correspondentes que são renderizados pelo controle em sua versão não customizada seguem o padrão abaixo:
 
-![searchResult2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/como-usar-o-controle-search-result_2.jpg) 
+![searchResult2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/como-usar-o-controle-search-result_2.jpg) 
 
-![searchResult3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/como-usar-o-controle-search-result_3.jpg) 
+![searchResult3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/como-usar-o-controle-search-result_3.jpg) 
 
-![searchResult4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/como-usar-o-controle-search-result_4.jpg) 
+![searchResult4](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/como-usar-o-controle-search-result_4.jpg) 
 
-![searchResult5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/como-usar-o-controle-search-result_5.jpg)
+![searchResult5](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/como-usar-o-controle-search-result_5.jpg)

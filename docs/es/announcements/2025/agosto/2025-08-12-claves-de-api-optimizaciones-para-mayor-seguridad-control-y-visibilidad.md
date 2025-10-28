@@ -17,7 +17,7 @@ announcementSynopsisES: 'Actualizamos la experiencia de Claves de API con export
 
 Para optimizar la gestión de las credenciales de acceso, actualizamos la experiencia de **Claves de API**. Las optimizaciones ya están disponibles para todas las cuentas.
 
-![generated-keys-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2025/agosto/2025-08-12-claves-de-api-optimizaciones-para-mayor-seguridad-control-y-visibilidad_1.png)
+![generated-keys-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2025/agosto/2025-08-12-claves-de-api-optimizaciones-para-mayor-seguridad-control-y-visibilidad_1.png)
 
 ## ¿Qué cambió?
 
@@ -29,7 +29,7 @@ Ahora, en lugar de que el token se muestre directamente al crearlo o renovarlo, 
 
 El link de acceso único se puede copiar para acceder más tarde o compartir con la persona que necesite utilizarlo. Solo se puede acceder al link una vez; es decir, expira al hacer clic en él. Si no hay ninguna interacción en 24 horas, el link también expira.
 
-![one-time-link-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2025/agosto/2025-08-12-claves-de-api-optimizaciones-para-mayor-seguridad-control-y-visibilidad_2.png)
+![one-time-link-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2025/agosto/2025-08-12-claves-de-api-optimizaciones-para-mayor-seguridad-control-y-visibilidad_2.png)
 
 > ⚠️ La URL oficial para acceder al token siempre sigue el formato `share.vtex.com/credentials/{token}`. El `{token}` es un identificador aleatorio generado cuando se crea o renueva la clave. Comprueba el formato del link antes de abrirlo para evitar riesgos de phishing o acceso a páginas maliciosas.
 
@@ -48,7 +48,7 @@ El link de acceso único se puede copiar para acceder más tarde o compartir con
 <table style="border-collapse:collapse;border:none;margin:auto;">
   <tr>
     <td style="border:none;padding:0;text-align:center;">
-      <img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2025/agosto/2025-08-12-claves-de-api-optimizaciones-para-mayor-seguridad-control-y-visibilidad_3.png" alt="renew-recommended-es" style="display:block;max-width:100%;height:auto;margin:auto;">
+      <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2025/agosto/2025-08-12-claves-de-api-optimizaciones-para-mayor-seguridad-control-y-visibilidad_3.png" alt="renew-recommended-es" style="display:block;max-width:100%;height:auto;margin:auto;">
     </td>
   </tr>
   <tr>
@@ -63,7 +63,7 @@ El link de acceso único se puede copiar para acceder más tarde o compartir con
 <table style="border-collapse:collapse;border:none;margin:auto;">
   <tr>
     <td style="border:none;padding:0;text-align:center;">
-      <img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2025/agosto/2025-08-12-claves-de-api-optimizaciones-para-mayor-seguridad-control-y-visibilidad_4.png" alt="renew-highly-recommended-es" style="display:block;max-width:100%;height:auto;margin:auto;">
+      <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2025/agosto/2025-08-12-claves-de-api-optimizaciones-para-mayor-seguridad-control-y-visibilidad_4.png" alt="renew-highly-recommended-es" style="display:block;max-width:100%;height:auto;margin:auto;">
     </td>
   </tr>
   <tr>
@@ -78,7 +78,7 @@ El link de acceso único se puede copiar para acceder más tarde o compartir con
 <table style="border-collapse:collapse;border:none;margin:auto;">
   <tr>
     <td style="border:none;padding:0;text-align:center;">
-      <img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2025/agosto/2025-08-12-claves-de-api-optimizaciones-para-mayor-seguridad-control-y-visibilidad_5.png" alt="pending-deletion-alert-es" style="display:block;max-width:100%;height:auto;margin:auto;">
+      <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2025/agosto/2025-08-12-claves-de-api-optimizaciones-para-mayor-seguridad-control-y-visibilidad_5.png" alt="pending-deletion-alert-es" style="display:block;max-width:100%;height:auto;margin:auto;">
     </td>
   </tr>
   <tr>
@@ -93,7 +93,7 @@ El link de acceso único se puede copiar para acceder más tarde o compartir con
 <table style="border-collapse:collapse;border:none;margin:auto;">
   <tr>
     <td style="border:none;padding:0;text-align:center;">
-      <img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2025/agosto/2025-08-12-claves-de-api-optimizaciones-para-mayor-seguridad-control-y-visibilidad_6.png" alt="delete-pending-es" style="display:block;max-width:100%;height:auto;margin:auto;">
+      <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2025/agosto/2025-08-12-claves-de-api-optimizaciones-para-mayor-seguridad-control-y-visibilidad_6.png" alt="delete-pending-es" style="display:block;max-width:100%;height:auto;margin:auto;">
     </td>
   </tr>
   <tr>

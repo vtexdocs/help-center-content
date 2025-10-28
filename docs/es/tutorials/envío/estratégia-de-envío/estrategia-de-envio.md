@@ -17,7 +17,7 @@ subcategoryId: 7fTH6bP0C4IaM8qWi0kkQC
 
 Estrategia de envío es la relación entre stock, muelle y política de envío; es decir, la forma en que se comunican el stock, el muelle y la política de envío definirá la coordinación de la estructura de entrega de los pedidos de la tienda. 
 
-![shipping_strategy_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/estrat%C3%A9gia-de-env%C3%ADo/estrategia-de-envio_1.png)
+![shipping_strategy_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/estrat%C3%A9gia-de-env%C3%ADo/estrategia-de-envio_1.png)
 
 <table class="w-100 center mv7 bb b--gray" style="border-spacing: 0px; border-collapse: collapse;">
    <tr class="bb b--muted-3">

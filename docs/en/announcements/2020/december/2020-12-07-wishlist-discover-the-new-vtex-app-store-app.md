@@ -24,7 +24,7 @@ The application is available in the [VTEX App Store](https://apps.vtex.com/) and
 - Adding a heart icon next to each product in the product lists and product detail pages;
 - Creating a Wishlist page, where customers can see their favorite items and easily purchase them.
 
-![Wishlist Printscreen](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2020/december/2020-12-07-wishlist-discover-the-new-vtex-app-store-app_1.png)
+![Wishlist Printscreen](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2020/december/2020-12-07-wishlist-discover-the-new-vtex-app-store-app_1.png)
 
 ## What are the advantages?
 - Makes your store’s shopping experience more complete;

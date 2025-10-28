@@ -19,11 +19,11 @@ El módulo **Status de los anuncios** permite a los sellers realizar un seguimie
 
 En **Status de los anuncios** se puede llevar a cabo un seguimiento de los anuncios enviados únicamente a los marketplaces VTEX. Para acceder al módulo en el Admin VTEX, ve a **Marketplace > Conexiones > Status de los anuncios,** o ingresa **Status de los anuncios** en la barra de búsqueda.  
 
-![Pantalla de estado de la oferta](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/gesti%C3%B3n-de-anuncios/status-de-los-anuncios_1.gif)
+![Pantalla de estado de la oferta](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/gesti%C3%B3n-de-anuncios/status-de-los-anuncios_1.gif)
 
 La página **Status de los anuncios** está compuesta por tres pestañas: **[Publicados](#pestana-publicados)**, **[Problemas](#pestana-problemas)** y **[A la espera de finalización.](#pestana-a-la-espera-de-finalizacion)** Todas ellas presentan una lista de tus anuncios de acuerdo con su status actual. Accede y consulta los detalles de cada anuncio, como status, stock, precio, fecha de actualización y los motivos de rechazo en el marketplace.
 
-![Estado de los anuncios shcema](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/gesti%C3%B3n-de-anuncios/status-de-los-anuncios_2.png)
+![Estado de los anuncios shcema](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/gesti%C3%B3n-de-anuncios/status-de-los-anuncios_2.png)
 
 ## Pestaña Publicados
 
@@ -50,7 +50,7 @@ Para filtrar los anuncios por **Marketplace**, haz clic en la flecha hacia abajo
 
 Para filtrar los anuncios por **Stock**, haz clic en la flecha hacia abajo situada junto al filtro, ingresa el número de stock mínimo, stock máximo, o ambos, y haz clic en **Aplicar**.
 
-![Filtro estoque offer status](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/gesti%C3%B3n-de-anuncios/status-de-los-anuncios_3.png)
+![Filtro estoque offer status](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/gesti%C3%B3n-de-anuncios/status-de-los-anuncios_3.png)
 
 Para filtrar los anuncios por **Actualización**, haz clic en la flecha hacia abajo situada junto al filtro, selecciona una de las opciones y haz clic en **Aplicar.**
 
@@ -59,7 +59,7 @@ Consulta a continuación las opciones disponibles para este filtro:
 - **Actualizados**: son anuncios cuyo precio y/o stock han sido actualizados por el seller y se procesaron con éxito.
 - **Error al actualizar:** anuncios que presentaban inconsistencias y, por lo tanto, no pudieron ser actualizados.
 
-![Filtro atualizado offer status](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/gesti%C3%B3n-de-anuncios/status-de-los-anuncios_4.png)
+![Filtro atualizado offer status](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/gesti%C3%B3n-de-anuncios/status-de-los-anuncios_4.png)
 
 Puedes utilizar un único filtro o combinarlos en una misma búsqueda. Los filtros no vienen preseleccionados de manera predeterminada, lo que significa que la página inicial mostrará la cantidad total de anuncios existentes.
 
@@ -102,7 +102,7 @@ Para actualizar la información de un anuncio ya publicado el seller debe realiz
 
 Serás redirigido a la página correspondiente para realizar los cambios necesarios.
 
-![Ações offer status](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/gesti%C3%B3n-de-anuncios/status-de-los-anuncios_5.png)
+![Ações offer status](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/gesti%C3%B3n-de-anuncios/status-de-los-anuncios_5.png)
 
 ### Exportar la lista de anuncios publicados
 
@@ -140,7 +140,7 @@ Para filtrar los anuncios por **Enviados**, haz clic en la flecha hacia abajo si
 
 Para filtrar los anuncios por **Stock**, haz clic en la flecha hacia abajo situada junto al filtro, ingresa el número de stock mínimo, stock máximo, o ambos, y haz clic en **Aplicar**.
 
-![Filtro estoque offer status](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/gesti%C3%B3n-de-anuncios/status-de-los-anuncios_6.png)
+![Filtro estoque offer status](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/gesti%C3%B3n-de-anuncios/status-de-los-anuncios_6.png)
 
 Puedes utilizar un único filtro o combinarlos en una misma búsqueda. Los filtros no vienen preseleccionados de manera predeterminada, lo que significa que la página inicial mostrará la cantidad total de anuncios existentes.
 

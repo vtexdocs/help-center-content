@@ -34,7 +34,7 @@ Este es el paso más importante para activar el B2B. Al configurar la Política 
 
 Normalmente, en los B2Bs convencionales, este campo se rellena con el valor `approved="true"` (`approved` es el nombre de un campo en la entidad __Cliente__, en el Master Data). Con esa regla, el sistema sólo dejará que usuarios autenticados y aprobados naveguen en el sitio.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/b2b/gu%C3%ADas-pr%C3%A1ticas/configurando-b2b-na-vtex_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/b2b/gu%C3%ADas-pr%C3%A1ticas/configurando-b2b-na-vtex_1.png)
 
 ## 2. Personalizar layout de directorios B2B
 
@@ -48,15 +48,15 @@ Vea las características básicas de cada tipo de usuario:
 
 Así, para tener un ambiente B2B, será necesario personalizar las carpetas **401** y **403**, hijas de la carpeta **sistema**.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/b2b/gu%C3%ADas-pr%C3%A1ticas/configurando-b2b-na-vtex_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/b2b/gu%C3%ADas-pr%C3%A1ticas/configurando-b2b-na-vtex_2.png)
 
 Navegación por un usuario Anónimo (al intentar acceder cualquier página, será dirigido al 401):
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/b2b/gu%C3%ADas-pr%C3%A1ticas/configurando-b2b-na-vtex_3.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/b2b/gu%C3%ADas-pr%C3%A1ticas/configurando-b2b-na-vtex_3.png)
 
 Navegación por un usuario no aprobado (al intentar acceder cualquier página, será dirigido al 403):
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/b2b/gu%C3%ADas-pr%C3%A1ticas/configurando-b2b-na-vtex_4.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/b2b/gu%C3%ADas-pr%C3%A1ticas/configurando-b2b-na-vtex_4.png)
 
 ## 3. Definir campos de registro previo
 
@@ -70,7 +70,7 @@ Así, es necesario definir los campos de este registro previo. Normalmente, los 
 
 Luego de definir los campos, deberá crear el formulario de registro previo en la carpeta **/sistema/401**, que es la única carpeta adonde el usuario anónimo siempre será dirigido.
 
-La información colocada en el formulario deberá ser enviada al CRM a través de las APIs del Master Data ([vea documentación](https://developers.vtex.com/reference/master-data-api-v2-overview)), o sea, será necesario desarrollar un JavaScript para aplicar esta función. Para ello, consulte un [ejemplo de plantilla HTML y JavaScript](https://raw.githubusercontent.com/vtexdocs/help-center-content/files-migration-script/docs/es/tutorials/b2b/guías-práticas/ExemploTemplateB2B.rar).
+La información colocada en el formulario deberá ser enviada al CRM a través de las APIs del Master Data ([vea documentación](https://developers.vtex.com/reference/master-data-api-v2-overview)), o sea, será necesario desarrollar un JavaScript para aplicar esta función. Para ello, consulte un [ejemplo de plantilla HTML y JavaScript](https://cdn.statically.io/gh/vtexdocs/help-center-content/files-migration-script/docs/es/tutorials/b2b/guías-práticas/ExemploTemplateB2B.rar).
 
 ## 5. Operación
 

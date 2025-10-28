@@ -19,7 +19,7 @@ Puede configurar uno de los banners de su tienda para un redireccionamiento de p
 
 ## URLs Internas
 
-![url-interna](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/site-editor/vinculando-las-url-en-banners-utilizando-site-editor_1.png)
+![url-interna](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/site-editor/vinculando-las-url-en-banners-utilizando-site-editor_1.png)
 
 1. En el Admin VTEX, accede a **Storefront > Site Editor**.
 2. Seleccione el bloque __Carrusel__ deseado y elija el banner cuyo contenido será editado.
@@ -33,7 +33,7 @@ Puede configurar uno de los banners de su tienda para un redireccionamiento de p
 
 ## URLs Externas
 
-![url-externa-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/site-editor/vinculando-las-url-en-banners-utilizando-site-editor_2.png)
+![url-externa-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/site-editor/vinculando-las-url-en-banners-utilizando-site-editor_2.png)
 
 1. En el Admin VTEX, accede a **Storefront > Site Editor**.
 2.  Seleccione el bloque __Carrusel__ deseado y elija el banner cuyo contenido será editado.

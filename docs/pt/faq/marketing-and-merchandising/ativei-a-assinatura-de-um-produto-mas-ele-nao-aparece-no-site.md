@@ -29,6 +29,6 @@ _Para fazer a inclusão manual de SKUs específicos, siga o passo a passo abaixo
 5. Dê um nome à sua Coleção (os demais campos não devem ser preenchidos).
 6. Insira os SKUs no campo informado e __separe-os com vírgulas__.
 
-![recurrence-specific-skus](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/marketing-and-merchandising/ativei-a-assinatura-de-um-produto-mas-ele-nao-aparece-no-site_1.png)
+![recurrence-specific-skus](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/marketing-and-merchandising/ativei-a-assinatura-de-um-produto-mas-ele-nao-aparece-no-site_1.png)
 
 Por fim, dê um nome ao __Grupo__ da sua Coleção e clique em __Save Group__.

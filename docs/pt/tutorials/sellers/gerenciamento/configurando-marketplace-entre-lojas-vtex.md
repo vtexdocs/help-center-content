@@ -38,7 +38,7 @@ Depois de realizar as configurações, é necessário fazer a indexação de tod
 1. Com o [usuário titular](/pt/tracks/contas-e-permissoes--5PxyAgZrtiYlaYZBTlhJ2A/56Bd0KpwbvAji1aFs94xdA?locale=pt), acesse o link `{nomedaloja}.vtexcommercestable.com.br/admin/Site/FullCleanUp.aspx`.
 2. Clique no botão __Reindexar Base__.
 
-![ReindexarBase](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/sellers/gerenciamento/configurando-marketplace-entre-lojas-vtex_1.png)
+![ReindexarBase](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/sellers/gerenciamento/configurando-marketplace-entre-lojas-vtex_1.png)
 
 Perceba que, na URL, é preciso alterar o termo `{nomedaloja}` para o nome de sua loja.
 

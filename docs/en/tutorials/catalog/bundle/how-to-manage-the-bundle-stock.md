@@ -27,7 +27,7 @@ The bundle with components is the idea of a bundle product whose SKU is a "clust
 
 For example, a bundle product called Colorido is composed by other 10 SKUs. Each, with its required amount of 1 (one) SKU item to compose the bundle.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/bundle/how-to-manage-the-bundle-stock_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/catalog/bundle/how-to-manage-the-bundle-stock_1.png)
 
 So, if there is at least 1 (one) unit of each component in stock, the kit will be considered in stock, as it depends on the stock quantities registered for each of its components.
 

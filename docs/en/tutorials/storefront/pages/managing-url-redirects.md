@@ -40,7 +40,7 @@ Multiple redirects are possible in a single URL. To create a redirect, follow th
 4. In the checkbox, indicate whether this redirect is temporary or permanent. If it is temporary, you need to set an end date.
 5. Click `Save`.
 
-![gerenciando redirecionamentos en 1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/pages/managing-url-redirects_1.png)
+![gerenciando redirecionamentos en 1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/pages/managing-url-redirects_1.png)
 
 ## Importing redirects
 

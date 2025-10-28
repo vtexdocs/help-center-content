@@ -27,4 +27,4 @@ https://{AccountName}.myvtex.com/admin/shopping-season
 
 Simply replace `{AccountName}` with your store's Account Name, as in the image below.
 
-![Shopping Season Guidelines - 2022 - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2022/october/2022-10-19-get-your-store-ready-for-shopping-season-with-our-best-practices-guide-2022_1.png)
+![Shopping Season Guidelines - 2022 - EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2022/october/2022-10-19-get-your-store-ready-for-shopping-season-with-our-best-practices-guide-2022_1.png)

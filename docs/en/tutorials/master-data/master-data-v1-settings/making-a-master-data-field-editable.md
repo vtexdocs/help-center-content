@@ -23,7 +23,7 @@ By default, not all the Master Data fields can be edited. To change this, procee
 2. Choose the application you want, and click on the cog symbol <i class="fas fa-cog"></i>.
 3. Click on the edition icon <i class="fas fa-edit"></i> for the form you want to change.
 4. Click on the tab **Layout Schemas**.
-5. Click on the edition icon <i class="fas fa-edit"></i> beside the field you want to change. ![master-data-edit-field-layout](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/master-data/master-data-v1-settings/making-a-master-data-field-editable_1.png)
+5. Click on the edition icon <i class="fas fa-edit"></i> beside the field you want to change. ![master-data-edit-field-layout](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/master-data/master-data-v1-settings/making-a-master-data-field-editable_1.png)
 6. Uncheck the option **Display field as read-only**.
 7. Click on the `OK` button.
 8. Click on the `Save` button.

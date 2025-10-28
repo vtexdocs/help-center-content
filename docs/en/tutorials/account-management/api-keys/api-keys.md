@@ -43,15 +43,15 @@ The **API Keys** page in the VTEX Admin allows you to manage the API keys with a
 
    > ℹ️ Tokens don’t expire automatically after the set period. The setting only determines when the interface will suggest renewal.
 
-   ![token-renewal-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/account-management/api-keys/api-keys_1.png)
+   ![token-renewal-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/account-management/api-keys/api-keys_1.png)
 
 * [Generated keys](/en/tutorial/generated-keys--7fnU4iZdvZKbxCaT3Ymdjc): Allows you to manage API keys created and managed by your VTEX account.
 
-   ![generated-keys-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/account-management/api-keys/api-keys_2.png)
+   ![generated-keys-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/account-management/api-keys/api-keys_2.png)
 
 * [External keys](/en/tutorial/external-keys--1isU0HfKkeg0atlxRha14Q): Allows you to manage API keys created and managed by other VTEX accounts, with access to specific resources in your account.
 
-  ![apikeys-external-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/account-management/api-keys/api-keys_3.png)
+  ![apikeys-external-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/account-management/api-keys/api-keys_3.png)
 
 ## Requirements for managing API keys
 

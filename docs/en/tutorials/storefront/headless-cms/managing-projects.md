@@ -17,7 +17,7 @@ subcategoryId: 27t6x0lngvjI3bnUg5AgEO
 
 Projects is a feature in the VTEX Headless CMS that simplifies the management of multiple frontend projects, such as mobile apps, websites, and email marketing, from one control panel.
 
-![Projects pages](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/headless-cms/managing-projects_1.gif)
+![Projects pages](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/headless-cms/managing-projects_1.gif)
 
 Each project is customized with its own settings, content, and branding according to specific audiences or purposes. 
 
@@ -29,7 +29,7 @@ For the Headless CMS management, make sure the [resources](/en/tutorial/license-
 ## Overview
 To access **Projects**, go to the VTEX Admin and access **Storefront > Headless CMS**.
 
-![Projects overview](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/headless-cms/managing-projects_2.png)
+![Projects overview](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/headless-cms/managing-projects_2.png)
 
 | Option         | Description                                           |
 | -------------- | ----------------------------------------------------- |
@@ -109,7 +109,7 @@ To archive a project, follow the steps below:
 1. Go to **Storefront > Projects**.
 2. Choose the project you want to archive and click **Settings** (⚙️) to open a modal.
 3. Click `Archive project` on the `General` page. A pop-up message will appear to confirm that you want to archive the project.
-![Archive project](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/headless-cms/managing-projects_3.png)
+![Archive project](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/headless-cms/managing-projects_3.png)
 4. Click `Archive`. A message informing that the project was successfully archived will appear.
 
 If you want to restore an archived project, follow the steps in [Restoring a project](#restoring-the-project).

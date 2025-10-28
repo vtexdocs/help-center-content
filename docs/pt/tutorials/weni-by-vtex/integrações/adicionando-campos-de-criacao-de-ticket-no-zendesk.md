@@ -26,7 +26,7 @@ Na criação de ticket no Zendesk podemos enviar algumas informações extras vi
 
 1. Primeiramente, vá na sua Central de Administração, você a encontrará clicando no ícone superior direito
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integra%C3%A7%C3%B5es/adicionando-campos-de-criacao-de-ticket-no-zendesk_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integra%C3%A7%C3%B5es/adicionando-campos-de-criacao-de-ticket-no-zendesk_1.png)
 
 2. Agora no menu da esquerda clique em Objetos e regras > Campos.
 3. No botão azul no canto superior direito, clique em Adicionar campo.

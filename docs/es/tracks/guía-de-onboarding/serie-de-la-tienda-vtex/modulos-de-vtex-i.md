@@ -39,7 +39,7 @@ No se requieren ajustes preliminares antes de realizar configuraciones en Catál
 
 La arquitectura de Catálogo presenta algunos conceptos fundamentales: categoría, marca, producto, SKU (_Stock Keeping Unit_) y especificación. La siguiente imagen ilustra la relación entre estos conceptos:
 
-![arquitetura-catalogo-ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/gu%C3%ADa-de-onboarding/serie-de-la-tienda-vtex/modulos-de-vtex-i_1.png)
+![arquitetura-catalogo-ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/gu%C3%ADa-de-onboarding/serie-de-la-tienda-vtex/modulos-de-vtex-i_1.png)
 
 El catálogo de la tienda debe crearse siguiendo el orden de los pasos que se indican a continuación:
 
@@ -74,7 +74,7 @@ __Ejemplo__: Departamento `Femenino`, Categoría `Blusas y camisas` y Subcategor
 
 Antes de importar el catálogo de la tienda a VTEX, recomendamos empezar a trabajar en el árbol de categorías creando una tabla como la que se ilustra a continuación. Esto facilita la visualización de la estructura del árbol y la presentación de las especificaciones.
 
-![catalog_arquitecture_table_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/gu%C3%ADa-de-onboarding/serie-de-la-tienda-vtex/modulos-de-vtex-i_2.png)
+![catalog_arquitecture_table_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/gu%C3%ADa-de-onboarding/serie-de-la-tienda-vtex/modulos-de-vtex-i_2.png)
 
 > ℹ️ En el artículo [Integraciones de backend](/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu) puedes consultar más información sobre cómo importar especificaciones para back office.
 
@@ -153,7 +153,7 @@ Los precios son la información del valor de venta de tus SKU. Estos precios se 
 
 La relación entre los precios, la tabla de precios y el contexto que se aplicará se muestra en la siguiente imagen:
 
-![Conceito de Precios-ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/gu%C3%ADa-de-onboarding/serie-de-la-tienda-vtex/modulos-de-vtex-i_3.png)
+![Conceito de Precios-ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/gu%C3%ADa-de-onboarding/serie-de-la-tienda-vtex/modulos-de-vtex-i_3.png)
 
 Puedes registrar tablas de precios para los SKU de la tienda de tres maneras:
 
@@ -269,7 +269,7 @@ El conjunto de configuraciones esenciales de logística para una tienda VTEX se 
 
 La imagen siguiente muestra cómo se relacionan estos conceptos en la venta de un producto:
 
-![shipping_strategy_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/gu%C3%ADa-de-onboarding/serie-de-la-tienda-vtex/modulos-de-vtex-i_4.png)
+![shipping_strategy_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/gu%C3%ADa-de-onboarding/serie-de-la-tienda-vtex/modulos-de-vtex-i_4.png)
 
 La siguiente tabla muestra los principales ajustes de logística de la tienda VTEX:
 
@@ -318,7 +318,7 @@ Entre los [principales casos de uso](/es/tutorial/lead_time-shipping-time-at-sku
 
 Para realizar el [cálculo de envio](/es/tutorial/como-funciona-o-calculo-de-envio--tutorials_116) de los pedidos, la plataforma VTEX considera las siguientes configuraciones:
 
-![Envío de Pedidos_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/gu%C3%ADa-de-onboarding/serie-de-la-tienda-vtex/modulos-de-vtex-i_5.png)
+![Envío de Pedidos_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/gu%C3%ADa-de-onboarding/serie-de-la-tienda-vtex/modulos-de-vtex-i_5.png)
 
 - [Lead time](/es/tutorial/lead_time-shipping-time-at-sku-level--16yv5Mkj6bTyWR1hCN2f4B): cantidad de tiempo configurable para el SKU de un almacén. Esta configuración es opcional y se establece en cero días de forma predeterminada.
 - [Tiempo de almacén](/es/tutorial/gerenciar-estoque--tutorials_137): tiempo que tarda el SKU en pasar del almacén al [muelle](/es/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj). Esta configuración es obligatoria, pero el tiempo puede establecerse en cero.

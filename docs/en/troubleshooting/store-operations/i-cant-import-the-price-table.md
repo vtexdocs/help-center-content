@@ -53,7 +53,7 @@ Make sure that all fields in your table are properly populated based on the guid
 
 Example of a table with filters applied and __Error Code__ and __Error Message__ fields:
 
-![Price spreadsheet](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/troubleshooting/store-operations/i-cant-import-the-price-table_1.PNG)
+![Price spreadsheet](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/troubleshooting/store-operations/i-cant-import-the-price-table_1.PNG)
 
 #### File size
 

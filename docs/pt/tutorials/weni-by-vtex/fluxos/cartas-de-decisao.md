@@ -37,7 +37,7 @@ Para facilitar a navegação por esse artigo, caso queira ir diretamente para al
 
 O maior diferencial entre as cartas de decisão e as cartas de ação são a criação de rotas. Essas rotas são possíveis caminhos que uma conversa pode tomar de acordo com alguma resposta ou algum dado do contato, ou seja, a finalidade de todas as cartas de decisão é criar rotas para cada regra, e assim criar as ramificações do nosso fluxo.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/cartas-de-decisao_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/cartas-de-decisao_1.png)
 
 Cada rota possui um **_nome/categoria_** _e_ obedece uma **_regra de decis ão_**. Você pode ver nas conexões de suas rotas a quantidade de contatos que já seguiram aquele caminho pelo seu fluxo.
 
@@ -47,7 +47,7 @@ A rota **_Outro_** é uma rota padrão, que existe para o caso de o valor analis
 
 As regras de decisão são um conjunto de regras que utilizamos para criar rotas, ou seja, parâmetros que vão ser verificados para decidir se um contato deve ou não deve passar por aquele caminho.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/cartas-de-decisao_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/cartas-de-decisao_2.png)
 
 Para utilizar uma regra de decisão, basta selecionar o tipo da regra, depois, colocar o valor para comparação e por último definir a categoria/nome da rota a qual essa regra pertence. Cada nome diferente de categoria, gerará uma nova rota com aquele mesmo nome. Caso você crie mais de uma regra, mas nomeie ela com a mesma categoria, todas as regras apontarão para a rota com aquele nome.
 
@@ -121,7 +121,7 @@ Você pode acessar esses valores de fluxo utilizando as variáveis da plataforma
 
 Por padrão, os nomes dos resultados serão sempre **_(Result + n)_** onde n é o número de resultados que existem no seu fluxo, porém, isso pode ser facilmente mudado no campo de Result name.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/cartas-de-decisao_3.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/cartas-de-decisao_3.png)
 
 Sempre mude o nome dos seus resultados de fluxo para nomes que você consiga entender de forma simples e intuitiva!
 
@@ -129,20 +129,20 @@ Sempre mude o nome dos seus resultados de fluxo para nomes que você consiga ent
 
 A primeira e mais usada das cartas de decisão. As rotas são decididas a partir do texto inserido por um contato. Além disso, possui a opção para criar uma rota caso o usuário não responda, marcando a caixa de seleção no rodapé da carta e escolhendo o tempo de espera para a resposta.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/cartas-de-decisao_4.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/cartas-de-decisao_4.png)
 
 Carta muito utilizada para tratar respostas de perguntas feitas para o usuário.
 
 Avançado
 Se estiver usando este card para coletar uma informação obrigatória no fluxo, tenha cuidado ao selecionar a opção ""continuar quando não houver resposta."" Se quiser lembrar o contato de responder, você pode criar um loop, o que evitará que o contato avance para o próximo card sem fornecer a resposta. Caso a opção ""Sem resposta"" não esteja conectada a outro card, o fluxo será encerrado quando o tempo de espera expirar.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/cartas-de-decisao_5.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/cartas-de-decisao_5.png)
 
 ### Dividir por uma expressão customizada
 
 As rotas são decididas a partir de uma expressão customizada criada pelo usuário. Essa expressão customizada pode ser construída a partir do uso de variáveis e funções. (Para saber mais sobre [expressões e funções](/l/pt/fluxos/express-es) vá para o artigo sobre)
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/cartas-de-decisao_6.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/cartas-de-decisao_6.png)
 
 Permite personalizar alguns tratamentos, como, verificar o horário de funcionamento para atendimento.
 
@@ -150,7 +150,7 @@ Permite personalizar alguns tratamentos, como, verificar o horário de funcionam
 
 Aqui, todas as regras de decisão analisam um campo do contato. Basta selecionar qual campo do contato você pretende verificar, e assim definir as regras em questão.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/cartas-de-decisao_7.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/cartas-de-decisao_7.png)
 
 Boa forma para classificar contatos através dos seus dados.
 
@@ -158,7 +158,7 @@ Boa forma para classificar contatos através dos seus dados.
 
 O foco aqui é criar rotas a partir dos resultados de fluxo, podendo ser tanto os criados por outras cartas de decisão quanto os criados manualmente pela carta de ação responsável. Basta selecionar o nome do resultado de fluxo que vai ser analisado.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/cartas-de-decisao_8.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/cartas-de-decisao_8.png)
 
 Essa carta pode ser usada para analisar se alguma resposta do usuário deve ser salva em um campo de contato.
 
@@ -166,7 +166,7 @@ Essa carta pode ser usada para analisar se alguma resposta do usuário deve ser 
 
 Aqui, a rota escolhida é feita de forma aleatória, basta escolher a quantidade de rotas que você deseja e esperar o resultado. Nesse caso, não existe regra de decisão, e apenas o nome da rota pode ser personalizado, junto com a quantidade de rotas que vão existir.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/cartas-de-decisao_9.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/cartas-de-decisao_9.png)
 
 Você pode criar várias mensagens de saudação e despedidas que vão ser diferentes a cada execução por um contato.
 
@@ -174,7 +174,7 @@ Você pode criar várias mensagens de saudação e despedidas que vão ser difer
 
 Cria rotas a partir de grupos que o contato participa. Para isso, basta selecionar um dos grupos de contato existentes na organização.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/cartas-de-decisao_10.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/cartas-de-decisao_10.png)
 
 Pode ser usada para limitar o acesso de certos grupos a partes especificas de fluxos.
 
@@ -182,7 +182,7 @@ Pode ser usada para limitar o acesso de certos grupos a partes especificas de fl
 
 Cria rotas baseadas em qual canal o contato está utilizando no momento. Basta selecionar o tipo do canal que estão entre os disponíveis e salvar.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/cartas-de-decisao_11.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/cartas-de-decisao_11.png)
 
 Deseja fazer tratamentos diferentes de acordo com o canal do contato? Use essa carta
 
@@ -190,7 +190,7 @@ Deseja fazer tratamentos diferentes de acordo com o canal do contato? Use essa c
 
 Com o cartão **Classificar automaticamente** , você pode utilizar uma expressão ou variáveis como a entrada para a classificação da intenção (Classe) do usuário. Normalmente esse cartão é usado quando você já tem um texto para tratar e não precisa aguardar uma resposta do usuário antes de consultar a Inteligência artificial:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/cartas-de-decisao_12.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/cartas-de-decisao_12.png)
 
 Utilize frases de comando claras e objetivas para ajudar a classificar corretamente. Saiba mais no artigo sobre [Zero Shot](/l/pt/ia/zero-shot).
 
@@ -198,7 +198,7 @@ Utilize frases de comando claras e objetivas para ajudar a classificar corretame
 
 Com o cartão **Aguarde por resposta inteligente** , você consegue aguardar pela resposta do usuário e enviar essa resposta direto para a sua Classificação de IA, assim você cria suas categorias e trata cada intenção como desejar:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/cartas-de-decisao_13.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/cartas-de-decisao_13.png)
 
 Utilize frases de comando claras e objetivas para ajudar a classificar corretamente. Saiba mais no artigo sobre [Zero Shot](/l/pt/ia/zero-shot).
 
@@ -206,4 +206,4 @@ Utilize frases de comando claras e objetivas para ajudar a classificar corretame
 
 No cartão **Dividir por Intenção**, você selecionará a inteligência de classificação que será utilizada, conforme descrito no artigo [**Dividir por Intenções**](/l/pt/fluxos/split-by-intent). Com base na intenção(1) e no nível de confiança(2) configurados no card, a entrada/mensagem será devidamente classificada.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/cartas-de-decisao_14.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/cartas-de-decisao_14.png)

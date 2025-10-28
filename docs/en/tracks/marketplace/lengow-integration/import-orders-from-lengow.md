@@ -31,6 +31,6 @@ To import orders automatically, use any scheduling service to perform a periodic
 
 The image below provides an example of what that would look like in [EasyCron](https://www.easycron.com/):
 
-![Lengow - EasyCron](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/marketplace/lengow-integration/import-orders-from-lengow_1.png)
+![Lengow - EasyCron](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/marketplace/lengow-integration/import-orders-from-lengow_1.png)
 
 For more information on how to set up cron jobs using EasyCron, refer to the [FAQ](https://www.easycron.com/faq) available in their website.

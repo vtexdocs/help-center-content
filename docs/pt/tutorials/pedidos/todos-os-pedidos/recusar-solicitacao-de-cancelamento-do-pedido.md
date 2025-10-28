@@ -30,7 +30,7 @@ Para conferir nosso conteúdo para desenvolvedores, veja [Order canceling improv
 ## Diagrama de cancelamento de pedido recusado
 A imagem a seguir mostra o fluxo de recusa da solicitação de cancelamento de um pedido após a janela para cancelamento:
 
-![order cancel diagram](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pedidos/todos-os-pedidos/recusar-solicitacao-de-cancelamento-do-pedido_1.png)
+![order cancel diagram](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pedidos/todos-os-pedidos/recusar-solicitacao-de-cancelamento-do-pedido_1.png)
 
 Segue a descrição de cada etapa:
 
@@ -58,11 +58,11 @@ Para recusar uma solicitação de cancelamento do pedido pelo Admin VTEX, siga o
 2. Selecione o pedido desejado para acessar a página [Detalhes do pedido](/pt/tutorial/order-details-page-interface--2Y75n54Cc9VizrlG1N6ZNl).
 3. Na parte superior da página, clique em Recusar. 
 
-  ![deny cancel request](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pedidos/todos-os-pedidos/recusar-solicitacao-de-cancelamento-do-pedido_2.png)
+  ![deny cancel request](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pedidos/todos-os-pedidos/recusar-solicitacao-de-cancelamento-do-pedido_2.png)
 
 4. Preencha o pop-up **Solicitação de cancelamento** com o motivo da recusa da solicitação de cancelamento do pedido.
 
-  ![deny_cancel_request_reason_PT_v2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pedidos/todos-os-pedidos/recusar-solicitacao-de-cancelamento-do-pedido_3.png)
+  ![deny_cancel_request_reason_PT_v2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pedidos/todos-os-pedidos/recusar-solicitacao-de-cancelamento-do-pedido_3.png)
 
   > ⚠️ Lembre-se de que a mensagem contida nesse campo poderá ser exibida ao cliente pela [Minha conta](/pt/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh) ou enviada pelo marketplace.
 

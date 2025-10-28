@@ -32,7 +32,7 @@ Además de estos dos tipos básicos, todavía hay una subdivisión de los __temp
 
 Y hablando en organización, usted encuentra todos los templates en el **Storefront > Layout > CMS**, reunidos en carpetas de acuerdo a su tipo (HTML o Shelves). Los __Sub Templates__ están en la carpeta del mismo nombre, que se encuentra dentro del directorio __HTML Templates__. En estos lugares, usted podrá crear nuevos templates y editar los que ya existen.
 
-![cms](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/que-son-templates_1.png)
+![cms](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/que-son-templates_1.png)
 
 ### Artículos relacionados
 - [¿Qué es el CMS?](/es/tutorial/que-es-el-cms)

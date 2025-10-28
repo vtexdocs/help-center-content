@@ -29,7 +29,7 @@ Let's say you want to enter the carrier's name in the order sent email.
 
 To do this, go to the order sent template and, in the __JSON Data__ field, look for the `courier` property.
 
-![EN Incluir variáveis do pedido no template de e-mail - 1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-modules-getting-started/transactional-emails/including-order-variables-in-email-template_1.png)
+![EN Incluir variáveis do pedido no template de e-mail - 1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-modules-getting-started/transactional-emails/including-order-variables-in-email-template_1.png)
 
 The value entered for this property is just an example, but you can use it in the __HTML__ field so that when the email is sent, the customer will see the carrier actually responsible for delivering the order.
 
@@ -37,6 +37,6 @@ Note that the `courier` property is inside the `package` object. Therefore, you 
 
 `{{package.courier}}`
 
-![EN Incluir variáveis do pedido no template de e-mail - 2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-modules-getting-started/transactional-emails/including-order-variables-in-email-template_2.png)
+![EN Incluir variáveis do pedido no template de e-mail - 2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/vtex-modules-getting-started/transactional-emails/including-order-variables-in-email-template_2.png)
 
 See that the example value ("Carrier Teste Courier S.A.") was inserted in the preview screen, below the __HTML__ and __JSON Data__ fields.

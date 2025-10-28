@@ -49,8 +49,8 @@ That is, I'm using the variables `preposicaonomeloja2` and `nomeloja`.
 
 > ⚠️ When using variables to compose a text, replace the `#` symbol with `@`. That is, **#variable#** becomes **@variable@**.
 
-![textos-importantes en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/store-settings---storefront/changing-default-system-texts-displayed-in-the-store_1.png)
-![exemplos-textos-importantes en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/store-settings---storefront/changing-default-system-texts-displayed-in-the-store_2.png)
+![textos-importantes en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/store-settings---storefront/changing-default-system-texts-displayed-in-the-store_1.png)
+![exemplos-textos-importantes en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/store-settings---storefront/changing-default-system-texts-displayed-in-the-store_2.png)
 
 As I defined the content of the first variable to be "to" and the second one is "World Shopping", the final text rendered on the site will be "Welcome to World Shopping".
 

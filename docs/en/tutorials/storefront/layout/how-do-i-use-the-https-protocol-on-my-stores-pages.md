@@ -29,16 +29,16 @@ You can change the protocol in all folders at once by using our API, documented 
 2. Access **Sites and channels**.
 3. Access the desired website.
 4. Open the root folder of the website.
-![CMS instrução - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/layout/how-do-i-use-the-https-protocol-on-my-stores-pages_1.png)
+![CMS instrução - EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/layout/how-do-i-use-the-https-protocol-on-my-stores-pages_1.png)
 5. The screen that was opened displays all the folders that are on the first level of the site. For each pertinent folder, click **Edit** - for home, consider the top button;
-![edit cms - EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/layout/how-do-i-use-the-https-protocol-on-my-stores-pages_2.png)
+![edit cms - EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/layout/how-do-i-use-the-https-protocol-on-my-stores-pages_2.png)
 6. In the checkbox **Protocol**, select the option **HTTPS**;
-![cms-protocol-https EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/layout/how-do-i-use-the-https-protocol-on-my-stores-pages_3.png)
+![cms-protocol-https EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/layout/how-do-i-use-the-https-protocol-on-my-stores-pages_3.png)
 7. Click in **Save Folder**.
 
 Attention to folders that have subfolders, such as Departamento, Categoria, Produto, and other folders, including also those created for store customization. 
 
 In the following example, the folder **Orders**, contained in **Account**, which also must be edited: 
-![cms-subcategoria-edit EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/layout/how-do-i-use-the-https-protocol-on-my-stores-pages_4.png)
+![cms-subcategoria-edit EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/layout/how-do-i-use-the-https-protocol-on-my-stores-pages_4.png)
 
 After a cache of up to 10 minutes the changes will take effect.

@@ -33,7 +33,7 @@ La página SKUs recibidos se organiza en pestañas correspondientes a los distin
 
 Dentro de cada pestaña, además de visualizar la lista de SKU, es posible filtrar anuncios, revisar las especificaciones de cada uno y verificar el porcentaje de SKUs recibidos que se encuentran en ese status específico.  
 
-![skus-recibidos-pestanas-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/productos/skus-recebidos-beta_1.png)
+![skus-recibidos-pestanas-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/productos/skus-recebidos-beta_1.png)
 
 ### Pendientes
 
@@ -50,7 +50,7 @@ Cada fila de la lista representa un producto con la siguiente información:
 
 Para consultar todas las especificaciones de un producto, haz clic en el nombre del producto deseado y se abrirá una nueva ventana con toda la información.  
 
-![skus-recibidos-analisis-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/productos/skus-recebidos-beta_2.png)
+![skus-recibidos-analisis-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/productos/skus-recebidos-beta_2.png)
 
 ### Problemas
 
@@ -60,7 +60,7 @@ En la pestaña **Problemas** están disponibles todos los anuncios que aún no s
 
 Para identificar el problema de un anuncio solo hay que hacer clic en el nombre del producto deseado. Se mostrará una nueva ventana con la información del producto, el mensaje de error y el revisor del anuncio.  
 
-![skus-recibidos-problemas-analisis-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/productos/skus-recebidos-beta_3.png)
+![skus-recibidos-problemas-analisis-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/productos/skus-recebidos-beta_3.png)
 
 ### Aprobados
 
@@ -117,7 +117,7 @@ De manera predeterminada, los ítems más recientemente agregados se muestran pr
 
 En este caso, los ítems se ordenarán de forma ascendente o descendente al hacer clic en **Precio** o **Stock.**  
 
-![skus-recibidos-ord-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/productos/skus-recebidos-beta_4.png)
+![skus-recibidos-ord-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/productos/skus-recebidos-beta_4.png)
 
 ## Catalogación de ítems  
 
@@ -155,7 +155,7 @@ Crea un nuevo SKU en el catálogo, lo que a su vez crea un nuevo producto. Recom
 
 > ℹ️ Esta acción puede realizarse en las pestañas **Pendientes** y **Problemas**.  
 
-![skus-recibidos-crear-nuevo-producto-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/productos/skus-recebidos-beta_5.png)
+![skus-recibidos-crear-nuevo-producto-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/productos/skus-recebidos-beta_5.png)
 
 #### Asociar a un producto existente  
 
@@ -166,7 +166,7 @@ Crea una relación entre el producto del seller y un producto que ya existe en e
 3. Ingresa el ID del producto al que se asociará.  
 4. Haz clic en `Aprobar`.
 
-![skus-recibidos-vincular-al-producto-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/productos/skus-recebidos-beta_6.png)   
+![skus-recibidos-vincular-al-producto-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/productos/skus-recebidos-beta_6.png)   
 
 **Caso de uso**  
 
@@ -185,7 +185,7 @@ Crea una relación entre el SKU del seller y un SKU que ya existe en el catálog
 3. Ingresa el **ID del SKU** que se asociará a cada SKU que se está aprobando.  
 4. Haz clic en `Aprobar`.  
 
-![skus-recibidos-vincular-al-sku-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/productos/skus-recebidos-beta_7.png)  
+![skus-recibidos-vincular-al-sku-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/productos/skus-recebidos-beta_7.png)  
 
 **Caso de uso**  
 
@@ -204,7 +204,7 @@ Esta acción bloquea los anuncios seleccionados, impidiendo su reprocesamiento a
 3. Rellena el campo **Motivo del bloqueo** (opcional). O preenchimento é opcional.  
 4. Haz clic en `Rechazar`.  
 
-![skus-recibidos-rechazar-y-bloquear-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/productos/skus-recebidos-beta_8.png)
+![skus-recibidos-rechazar-y-bloquear-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/productos/skus-recebidos-beta_8.png)
 
 Cuando el marketplace bloquea un SKU, significa que la próxima vez que el seller envíe sus productos, aquellos que hayan sido bloqueados ya no serán incluidos entre los enviados. Es posible desbloquear un SKU a través de la API REST, si el marketplace desea volver a recibirlo como sugerencia del seller. Para más información sobre la aprobación de SKU, consulta nuestra documentación [Send SKU Suggestion](https://developers.vtex.com/docs/api-reference/marketplace-apis-suggestions#put-/suggestions/-sellerId-/-sellerSkuId-).  
 
@@ -219,7 +219,7 @@ Rechaza el anuncio y envía al seller una solicitud para corregir la informació
 3. Completa el campo **Correcciones** con la información que el seller debe corregir.  
 4. Haz clic en `Rechazar`.  
 
-![skus-recibidos-rechazar-para-correccion-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/productos/skus-recebidos-beta_9.png)  
+![skus-recibidos-rechazar-para-correccion-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/productos/skus-recebidos-beta_9.png)  
 
 > ℹ️ Esta acción puede realizarse en la pestaña **Pendientes**. Los anuncios que necesitan corrección se mostrarán en la pestaña **Problemas**.    
 

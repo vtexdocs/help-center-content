@@ -39,8 +39,8 @@ Recordando que el `htmlSeo` es el nombre del control creado arriba. Este contro
 ```
 **Ejemplos**
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/como-personalizar-una-pagina-usando-placeholder_1.png) 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/como-personalizar-una-pagina-usando-placeholder_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/como-personalizar-una-pagina-usando-placeholder_1.png) 
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/como-personalizar-una-pagina-usando-placeholder_2.png)
 
 **Obs.:** la aplicación del placeholder puede ser realizada de otras maneras hasta que atienda el local, el formato, o sea, la necesidad del dueño de la tienda.
 
@@ -50,23 +50,23 @@ Para incluir una descripción para Categoria (Categoria), siga los pasos abajo:
 
 1. Entre en Configurações > Portal
 2. Haga clic en Portal > Web-sites > [nomedaloja] > / > categoria > @categoria@ > categoria
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/como-personalizar-una-pagina-usando-placeholder_3.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/como-personalizar-una-pagina-usando-placeholder_3.png)
 3. Entre en la pestaña **Configurações**
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/como-personalizar-una-pagina-usando-placeholder_4.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/como-personalizar-una-pagina-usando-placeholder_4.png)
 4. Haga clic en **Adicionar Controle**
 5. Seleccione el tipo de control que desea, generalmente HTML
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/como-personalizar-una-pagina-usando-placeholder_5.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/como-personalizar-una-pagina-usando-placeholder_5.png)
 6. Haga clic en **Adicionar**
 7. Haga clic en **Salvar Configurações**
 8. Haga clic en **Editar**
 9. Haga clic en **Adicionar Conteúdo**
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/como-personalizar-una-pagina-usando-placeholder_6.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/como-personalizar-una-pagina-usando-placeholder_6.png)
 10. Cree el HTML que le gustaría que aparezca en el sitio
 11. En la pestaña **Preview** podrá tener una visualización previa del HTML
 12. En los campos **Condições de Exibição**, configure de acuerdo a su necesidad, por ejemplo, seleccione una Categoría en la que este contenido estará disponible.
 13. Haga clic en el checkbox **Conteúdo Ativo**
 14. Haga clic en **Adicionar na Lista de Conteúdo**
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/como-personalizar-una-pagina-usando-placeholder_7.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/layout/como-personalizar-una-pagina-usando-placeholder_7.png)
 15. Haga clic en **Salvar Configurações**
 
 

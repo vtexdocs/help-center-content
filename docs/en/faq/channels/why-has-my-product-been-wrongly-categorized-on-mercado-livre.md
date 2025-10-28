@@ -28,7 +28,7 @@ Mercado Livre has a tool which automatically defines the category of each produc
 
 To fix this, you can [add a product specification](/en/tutorial/creating-a-product-field), **mandatorily** with the `categoria_meli` name. This specification will be able to be given different values, each of them representing a category in Mercado Livre.
 
-The values will be the category IDs. Click [here](https://raw.githubusercontent.com/vtexdocs/help-center-content/files-migration-script/docs/en/faq/channels/MercadoLivre_CategoriasFixas.xlsx) to download a worksheet showing these values.
+The values will be the category IDs. Click [here](https://cdn.statically.io/gh/vtexdocs/help-center-content/files-migration-script/docs/en/faq/channels/MercadoLivre_CategoriasFixas.xlsx) to download a worksheet showing these values.
 
 After registering the specification, you must access each product register and enter the ID as shown in the worksheet.
 

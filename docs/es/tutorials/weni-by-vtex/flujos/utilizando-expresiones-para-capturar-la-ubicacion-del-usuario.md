@@ -25,11 +25,11 @@ La forma de capturar la ubicación varía según el canal que estés utilizando 
 
 Para capturar la ubicación de un usuario a través del canal web, solo necesitas crear una carta de acción ""Send Message"" con una ""Quick Reply"" con el prefijo ""[Loc]"". Una vez que el usuario presione ese botón, podremos captar la ubicación a través del navegador. Después, simplemente guarda el resultado en la carta de decisión ""Esperar por respuesta"".
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/flujos/utilizando-expresiones-para-capturar-la-ubicacion-del-usuario_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/flujos/utilizando-expresiones-para-capturar-la-ubicacion-del-usuario_1.png)
 
 El mensaje recibido por el canal web siempre comenzará con: ""Mi ubicación es:"", seguido de la latitud y longitud del usuario en el formato `[latitud, longitud]`. Para eliminar estos prefijos, solo necesitas utilizar la expresión `@(replace)` y luego separar los valores de latitud y longitud en diferentes variables, utilizando la expresión `@(split)` para separarlos usando la coma ("","") que los separa como parámetro.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/flujos/utilizando-expresiones-para-capturar-la-ubicacion-del-usuario_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/flujos/utilizando-expresiones-para-capturar-la-ubicacion-del-usuario_2.png)
 
 #### Canal Telegram
 
@@ -37,7 +37,7 @@ Para enviar la ubicación por Telegram, el usuario debe hacer clic en el botón 
 
 Después de esto, solo necesitas crear una carta de decisión ""Esperar por respuesta"" y guardar el valor. Telegram envía la ubicación en el formato ""latitud, longitud"", por lo que no es necesario utilizar `@(replace)` para eliminar textos, solo separarla utilizando **split** como en el canal web.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/flujos/utilizando-expresiones-para-capturar-la-ubicacion-del-usuario_3.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/flujos/utilizando-expresiones-para-capturar-la-ubicacion-del-usuario_3.png)
 
 #### Canal WhatsApp
 
@@ -47,7 +47,7 @@ A diferencia de otros canales, la ubicación en WhatsApp no se envía como texto
 
 Esta variable contiene la ubicación en el formato ""geo: latitud, longitud"", por lo que debemos utilizar la expresión `@(replace)` para eliminar ""geo:"" y luego usar `@(split)` para separar la latitud y la longitud, como en los otros canales.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/flujos/utilizando-expresiones-para-capturar-la-ubicacion-del-usuario_4.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/flujos/utilizando-expresiones-para-capturar-la-ubicacion-del-usuario_4.png)
 
 De esta manera, podemos crear un flujo con soporte para capturar la ubicación del usuario en tres canales diferentes, utilizando las expresiones y variables disponibles en la plataforma.
 

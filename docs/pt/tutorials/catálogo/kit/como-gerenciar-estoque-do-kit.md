@@ -27,7 +27,7 @@ O Kit com componentes baseia-se em um produto kit que possui um SKU que é um 
 
 Por exemplo, o produto kit de nome Colorido é composto por outros 10 SKUs. Cada um com sua quantidade necessária de 1 item de cada SKU para poder compor o KIT.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/cat%C3%A1logo/kit/como-gerenciar-estoque-do-kit_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/cat%C3%A1logo/kit/como-gerenciar-estoque-do-kit_1.png)
 
 Se cada componente tiver 1 unidade em estoque, o kit estará em estoque, pois depende do estoque cadastrado em cada um de seus componentes.
 

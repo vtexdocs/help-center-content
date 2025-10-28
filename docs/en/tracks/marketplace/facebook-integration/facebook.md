@@ -19,7 +19,7 @@ order: 1
 
 [Facebook](https://about.fb.com) is the social network with the largest number of users in the world. Created in 2004, it is the platform where more than three billion people connect and share information every day.
 
-![Logo Facebook](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/marketplace/facebook-integration/facebook_1.png)
+![Logo Facebook](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/marketplace/facebook-integration/facebook_1.png)
 
 There are different strategies to promote your store on Facebook. Business Manager is a free tool created to make it easier for you to manage your actions on the social network. In just one place, you can manage organic posts, paid ads, content libraries, and more.
 

@@ -15,7 +15,7 @@ locale: pt
 subcategoryId: 4hisB47iAVZk4r3SEmMoG
 ---
 
-![Shared products product details PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/sellers/seller-portal/seller-portal-detalhes-do-produto_1.jpg)
+![Shared products product details PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/sellers/seller-portal/seller-portal-detalhes-do-produto_1.jpg)
 
 A página Detalhes do Produto na funcionalidade [Produtos Compartilhados](/pt/tutorial/seller-portal-produtos-compartilhados--6vUGj2UmOuLzQTK9pj04lu) é onde todas as informações sobre um produto  específico são visualizadas. É a partir dela que o seller:  
 

@@ -23,15 +23,15 @@ My Authentication é uma aba que aparece no painel do My Account dentro da loja 
 
 Esta aba é um local onde os usuários serão capazes de gerenciar a sua senha. Na aba também é possível gerenciar as sessões de login, permitindo ao usuário encerrar outras sessões remotamente. Mais detalhes sobre o uso da aba podem ser encontrados na seção [Autenticação do artigo Configurar o My Account](/pt/tutorial/como-funciona-a-minha-conta--2BQ3GiqhqGJTXsWVuio3Xh).
 
-![My Authentication app PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2021/julho/2021-07-26-aba-my-authentication-do-my-account_1.png)
+![My Authentication app PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2021/julho/2021-07-26-aba-my-authentication-do-my-account_1.png)
 
-![My Authentication Session Management PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2021/julho/2021-07-26-aba-my-authentication-do-my-account_2.png)
+![My Authentication Session Management PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2021/julho/2021-07-26-aba-my-authentication-do-my-account_2.png)
 
 No dia 29/09 o componente de gerenciamento de senha também será removido do perfil do usuário para evitar a sua duplicidade. As imagens abaixo mostram exemplos de página de perfil do usuário com e sem o componente de gerenciamento de senha.
 
-![My Account with password PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2021/julho/2021-07-26-aba-my-authentication-do-my-account_3.png)
+![My Account with password PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2021/julho/2021-07-26-aba-my-authentication-do-my-account_3.png)
 
-![My Account no password PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2021/julho/2021-07-26-aba-my-authentication-do-my-account_4.png)
+![My Account no password PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2021/julho/2021-07-26-aba-my-authentication-do-my-account_4.png)
 
 ## Por que realizamos essa mudança?
 
@@ -62,12 +62,12 @@ Para tornar a aba My Authentication visível publicamente na sua loja:
 1. No painel lateral esquerdo do Admin, vá até a seção **CONFIGURAÇÕES DA CONTA**.
 2. Clique em **Aplicativos**.
 3. Clique em **Meus aplicativos**.  
-![My apps menu PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2021/julho/2021-07-26-aba-my-authentication-do-my-account_5.png)
+![My apps menu PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2021/julho/2021-07-26-aba-my-authentication-do-my-account_5.png)
 4. Vá até o app **My Account** e clique em `Configurações`.  
-![My apps installed PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2021/julho/2021-07-26-aba-my-authentication-do-my-account_6.png)
+![My apps installed PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2021/julho/2021-07-26-aba-my-authentication-do-my-account_6.png)
 5. Na seção **AUTHENTICATION** das configurações do app, marque a caixa `Visible`.
 6. Clique em `Salvar`.  
-![My Authentication visible setting PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2021/julho/2021-07-26-aba-my-authentication-do-my-account_7.png)
+![My Authentication visible setting PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2021/julho/2021-07-26-aba-my-authentication-do-my-account_7.png)
 
 Também é possível acessar diretamente as configurações do app My Account no Admin por uma URL.
 - Caso a sua loja seja VTEX IO, utilize o endereço `https://{account}.myvtex.com/admin/apps/vtex.my-account@1.x/setup`, substituindo `{account}` pelo nome da conta.
@@ -75,4 +75,4 @@ Também é possível acessar diretamente as configurações do app My Account no
 
 Após habilitar a visibilidade da aba **Autenticação**, ela aparecerá no perfil de usuário da loja. Ela pode ser acessada por qualquer usuário pelo painel lateral esquerdo.
 
-![My Authentication app PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2021/julho/2021-07-26-aba-my-authentication-do-my-account_8.png)
+![My Authentication app PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2021/julho/2021-07-26-aba-my-authentication-do-my-account_8.png)

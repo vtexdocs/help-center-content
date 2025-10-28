@@ -20,7 +20,7 @@ The **Store** page allows you to set up your SEO configurations, enable performa
 
 In the VTEX Admin, access **Store Settings > Storefront > Store**, and take a look at the main tools available on the interface.
 
-![CMS Store](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/store-settings---storefront/cms-store-overview_1.png)
+![CMS Store](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/storefront/store-settings---storefront/cms-store-overview_1.png)
 
 <div style="background-color:#FFF3CD; border-left: 2px solid #F0AD4E; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px">
   Before making changes in the **Advanced** tab, please contact your developer team and read our documentation [Optimizing performance](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-best-practices-for-optimizing-performance#enabling-store-settings) para mais informações.

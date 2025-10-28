@@ -38,7 +38,7 @@ Antes de começar a organizar o conteúdo do seu Web Site, ele precisa estar vin
 
 Esse é um processo fundamental para o perfeito funcionamento da sua loja, mas também é muito simples. Basta seguir os passos [deste artigo](/pt/tutorial/vincular-um-account-name-a-um-website-binding).
 
-![Binding](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/o-que-e-o-cms-layout_1.png)
+![Binding](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/o-que-e-o-cms-layout_1.png)
 
 ## Layouts e templates
 

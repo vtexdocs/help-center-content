@@ -25,7 +25,7 @@ Essa aprovação pode ser feita manualmente no módulo Pedidos, conforme abaixo.
 2. Clique sobre a transação desejada.
 3. Clique no botão **Notificar Pagamento**.
 
-![NotificarPT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/transa%C3%A7%C3%B5es/como-aprovar-pagamento_1.png)
+![NotificarPT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pagamentos/transa%C3%A7%C3%B5es/como-aprovar-pagamento_1.png)
 
 **Após a aprovação do pagamento, o pedido entrará no fluxo normal de compra.**
 

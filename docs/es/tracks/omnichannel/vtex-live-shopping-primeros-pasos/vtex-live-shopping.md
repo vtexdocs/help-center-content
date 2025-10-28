@@ -33,7 +33,7 @@ Un evento de **Live Shopping** presenta las siguientes funcionalidades:
 
 Puedes ver las funcionalidades a continuación tal como aparecerían en un evento de **Live Shopping** real:
 
-![article_1_overview_v3_ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/omnichannel/vtex-live-shopping-primeros-pasos/vtex-live-shopping_1.png)
+![article_1_overview_v3_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/omnichannel/vtex-live-shopping-primeros-pasos/vtex-live-shopping_1.png)
 
 > ℹ️ [Live Shopping](/es/tutorial/live-shopping--1cYWPIbjNMyr072sksHSVL) es una aplicación de pago con diferentes planes de suscripción. Para más información, consulta [VTEX App Store](https://apps.vtex.com/liveshopping/p).
 

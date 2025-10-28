@@ -23,7 +23,7 @@ Previously, we faced challenges by categorizing incidents into four components: 
 
 Now, we have introduced 18 more specific components, grouped into four categories: Storefront, Checkout, Admin, and Developer Tools. This approach focuses not only on our internal architecture but mainly on where merchants can see the symptoms. The following image shows all the components displayed on the new page:
 
-![status-page-vtex](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2023/december/2023-12-22-get-to-know-the-new-vtex-status-page_1.png)
+![status-page-vtex](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2023/december/2023-12-22-get-to-know-the-new-vtex-status-page_1.png)
 
 Check out the [VTEX Status page](/en/tutorial/vtex-status-page--gPhqDn9IQ3c67wbJEX3JJ) article for more information on each component.
 

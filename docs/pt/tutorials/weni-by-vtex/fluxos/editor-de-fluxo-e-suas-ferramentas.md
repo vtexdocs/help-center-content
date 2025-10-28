@@ -17,7 +17,7 @@ subcategoryId: hXGU8pFfABVFIg724zWBN
 
 O editor de fluxo é o ambiente onde criamos as cartas e montamos o nosso fluxo. Nele, temos toda a liberdade de criar e editar conexões, decisões e ações para a nossa conversa.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/editor-de-fluxo-e-suas-ferramentas_1.gif)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/editor-de-fluxo-e-suas-ferramentas_1.gif)
 
 Neste artigo, falaremos sobre as ferramentas que existem dentro deste editor para facilitar a criação dos nossos fluxos.
 
@@ -26,17 +26,17 @@ Uma das ferramentas mais utilizadas na criação e edição de fluxos é o simul
 
 Para acessar o simulador, basta clicar no botão com o símbolo de um telefone celular, no canto direito da tela.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/editor-de-fluxo-e-suas-ferramentas_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/editor-de-fluxo-e-suas-ferramentas_2.png)
 
 Ao clicar no botão, você verá o simulador, que aparece no formato de um telefone celular no canto direito da tela, com a execução do fluxo.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/editor-de-fluxo-e-suas-ferramentas_3.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/editor-de-fluxo-e-suas-ferramentas_3.png)
 
 Agora, você pode enviar mensagens como resposta para o seu fluxo usando a barra de texto (1), reiniciar a simulação quando quiser utilizando o botão reiniciar do simulador (2), enviar anexos como fotos, áudios e vídeos utilizando o botão de anexos (3), habilitar o modo WhatsApp (4) e encerrar o uso do simulador quando achar melhor (5).
 
 Caso você deseje uma versão mais completa do simulador, basta apertar no botão @ (6) que irá transformar o simulador para esse novo modo:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/editor-de-fluxo-e-suas-ferramentas_4.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/editor-de-fluxo-e-suas-ferramentas_4.png)
 
 Permitindo que você consiga acompanhar em tempo real as mudanças das expressões que estão envolvidas com aquela execução de fluxo. Para saber mais sobre expressões, leia o artigo expressões clicando [aqui](https://docs.weni.ai/l/pt/fluxos/express-es).
 
@@ -45,11 +45,11 @@ Outra ferramenta muito útil é o registro de versões da edição. Cada modific
 
 Para acessar as versões da edição, basta clicar no botão do relógio logo abaixo do botão do simulador.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/editor-de-fluxo-e-suas-ferramentas_5.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/editor-de-fluxo-e-suas-ferramentas_5.png)
 
 Você pode selecionar uma das opções da lista para ver as versões antigas do fluxo, e caso queira retroceder para aquela versão, basta clicar no botão _R_ _everter_.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/editor-de-fluxo-e-suas-ferramentas_6.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/editor-de-fluxo-e-suas-ferramentas_6.png)
 
 ### Botão Começar Fluxo
 O botão ""Disparar Fluxo"" é essencial para determinados testes e validações. Com ele, podemos iniciar manualmente um fluxo utilizando contatos ou grupos já existentes na plataforma.
@@ -58,19 +58,19 @@ Diferente do simulador, esse fluxo será realmente executado para o contato em s
 
 O botão se encontra no canto direito, um pouco acima das outras ferramentas mostradas no artigo.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/editor-de-fluxo-e-suas-ferramentas_7.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/editor-de-fluxo-e-suas-ferramentas_7.png)
 
 Antes de lançarmos esses contatos no fluxo, podemos configurar alguns detalhes:
   1. Decidir se preferimos escolher contatos/grupos de forma específica, ou se preferimos criar alguma regra para filtrar os contatos que desejamos;
   2. Decidir se, caso um contato já esteja ativo no fluxo em questão, esse fluxo será reiniciado ou não;
   3. Decidir se, caso um contato já esteja ativo em algum outro fluxo, esse fluxo será interrompido ou não;
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/editor-de-fluxo-e-suas-ferramentas_8.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/editor-de-fluxo-e-suas-ferramentas_8.png)
 
 ### Menu de configurações
 Além disso, temos uma série de opções no menu de configurações, que podemos achar facilmente ao lado do botão Começar Fluxo.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/editor-de-fluxo-e-suas-ferramentas_9.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/editor-de-fluxo-e-suas-ferramentas_9.png)
 
   1. **Resultados:** Opção para analisar e exportar resultados dos fluxos, com base na utilização pelos contatos. Um meio de verificar quais contatos passaram pelo fluxo.
   2. **Copy UUID** : Opção que permite você obter o identificador do fluxo. Sendo assim, cada fluxo possui um UUID específico
@@ -84,7 +84,7 @@ Além disso, temos uma série de opções no menu de configurações, que podemo
 ### Barra de Ferramentas
 Nesta parte do Editor de Fluxos, você encontrará algumas ferramentas que facilitarão seu trabalho. Basta clicar e utilizá-las.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/editor-de-fluxo-e-suas-ferramentas_10.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/editor-de-fluxo-e-suas-ferramentas_10.png)
 
   1. **Selecionar e Arrastar:** Essas funções irão ajudar a selecionar cards (botão em formato de seta) e navegar pelo fluxo (botão em formato de mão). Também é possível utilizar a tecla ""v"" para alternar entre essas funções mais facilmente.
   2. **Criar Bloco:** Nesse botão você pode criar qualquer card para o seu fluxo.

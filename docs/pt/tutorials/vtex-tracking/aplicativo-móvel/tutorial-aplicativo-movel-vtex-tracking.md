@@ -49,7 +49,7 @@ Com os dados do cadastro em mãos, siga as instruções abaixo para acesso:
 4. Clique em __ENTRAR.__
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-tracking/aplicativo-m%C3%B3vel/tutorial-aplicativo-movel-vtex-tracking_1.png" width="250" height="450">
+  <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-tracking/aplicativo-m%C3%B3vel/tutorial-aplicativo-movel-vtex-tracking_1.png" width="250" height="450">
 
 
 > ⚠️ Caso o aplicativo apresente instabilidade, recomendamos a limpeza do cache do dispositivo móvel  e/ou a re-instalação do aplicativo.
@@ -67,7 +67,7 @@ Abra o aplicativo.
 > ⚠️ Utilize como email de recuperação o mesmo email que foi cadastrado na plataforma web (veja Como acessar). Caso você não tenha a informação sobre um email cadastrado, entre em contato com a empresa de serviço de entrega.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-tracking/aplicativo-m%C3%B3vel/tutorial-aplicativo-movel-vtex-tracking_2.png" width="250" height="450">
+  <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-tracking/aplicativo-m%C3%B3vel/tutorial-aplicativo-movel-vtex-tracking_2.png" width="250" height="450">
 
 
  ## Como fazer uma entrega 
@@ -76,7 +76,7 @@ O aplicativo apresenta na tela inicial, uma lista com as as entregas do dia a se
 > ℹ️ Para que as rotas estejam disponíveis no aplicativo é necessário que elas sejam previamente planejadas na plataforma web pela empresa de serviço de entregas. Entre em contato com a empresa, caso não tenha rotas disponíveis para você.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-tracking/aplicativo-m%C3%B3vel/tutorial-aplicativo-movel-vtex-tracking_3.png" width="230" height="450">
+  <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-tracking/aplicativo-m%C3%B3vel/tutorial-aplicativo-movel-vtex-tracking_3.png" width="230" height="450">
 
 > ❗ Use a opção **PAUSAR** com cautela pois ao iniciar novamente a rota, os destinatários receberão notificações do novo início da entrega.
 
@@ -99,10 +99,10 @@ Após a inicialização da entrega, o destinatário passa a receber notificaçõ
 3. Clique em __OK__.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-tracking/aplicativo-m%C3%B3vel/tutorial-aplicativo-movel-vtex-tracking_4.png" width="230" height="450">
+  <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-tracking/aplicativo-m%C3%B3vel/tutorial-aplicativo-movel-vtex-tracking_4.png" width="230" height="450">
 
 
-> ℹ️ Essa opção pode também estar disponível antes do início da rota mediante a configuração  pela empresa de serviço de entrega. Assim, ao invés de FOTOS estar disponível durante a entrega, ela aparecerá antes mesmo do início da rota. Se este for o caso, é preciso fotografar antes de realizar o início da rota. Então: <ol> <li>Clique em **Fotografar.**</li> <li>Tire a foto.</li> <li>Clique em **Iniciar** para iniciar a rota.</li> </ol> <figure class="half"> <table class="center"> <tr> <td> <img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-tracking/aplicativo-m%C3%B3vel/tutorial-aplicativo-movel-vtex-tracking_5.png" width="250" height="450"> </td> <td> <img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-tracking/aplicativo-m%C3%B3vel/tutorial-aplicativo-movel-vtex-tracking_6.png" width="250" height="450"> </td> </tr> </table> </figure>
+> ℹ️ Essa opção pode também estar disponível antes do início da rota mediante a configuração  pela empresa de serviço de entrega. Assim, ao invés de FOTOS estar disponível durante a entrega, ela aparecerá antes mesmo do início da rota. Se este for o caso, é preciso fotografar antes de realizar o início da rota. Então: <ol> <li>Clique em **Fotografar.**</li> <li>Tire a foto.</li> <li>Clique em **Iniciar** para iniciar a rota.</li> </ol> <figure class="half"> <table class="center"> <tr> <td> <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-tracking/aplicativo-m%C3%B3vel/tutorial-aplicativo-movel-vtex-tracking_5.png" width="250" height="450"> </td> <td> <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-tracking/aplicativo-m%C3%B3vel/tutorial-aplicativo-movel-vtex-tracking_6.png" width="250" height="450"> </td> </tr> </table> </figure>
 
   ### Ocorrências durante a entrega
 <a id="Reportar_problemas">Durante a entrega, </a> caso aconteça uma ocorrência, como por exemplo ausência do morador e/ou endereço errado, é possível fazer um reporte. 
@@ -110,7 +110,7 @@ Após a inicialização da entrega, o destinatário passa a receber notificaçõ
 A forma de reporte da ocorrência está condicionada ao tipo de ocorrência e às configurações realizadas pela empresa de serviço de entrega. Para cada tipo de ocorrência é possível escrever uma descrição do acontecido ou conversar com um atendente da central através do chat. 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-tracking/aplicativo-m%C3%B3vel/tutorial-aplicativo-movel-vtex-tracking_7.png" width="230" height="450">
+  <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-tracking/aplicativo-m%C3%B3vel/tutorial-aplicativo-movel-vtex-tracking_7.png" width="230" height="450">
 
 
 #### Para descrever uma ocorrência  na tela de dados da entrega: 
@@ -133,10 +133,10 @@ Ao escolher uma ocorrência que tenha possibilidade de abertura de chat, uma men
   <table class="center">
     <tr>
       <td>
-        <img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-tracking/aplicativo-m%C3%B3vel/tutorial-aplicativo-movel-vtex-tracking_8.jpg" width="230" height="450">
+        <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-tracking/aplicativo-m%C3%B3vel/tutorial-aplicativo-movel-vtex-tracking_8.jpg" width="230" height="450">
       </td>
       <td>
-        <img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-tracking/aplicativo-m%C3%B3vel/tutorial-aplicativo-movel-vtex-tracking_9.jpg" width="230" height="450">
+        <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-tracking/aplicativo-m%C3%B3vel/tutorial-aplicativo-movel-vtex-tracking_9.jpg" width="230" height="450">
       </td>
     </tr>
   </table>
@@ -146,7 +146,7 @@ Ao escolher uma ocorrência que tenha possibilidade de abertura de chat, uma men
 <a id="Pausar_entrega"> Se durante a entrega</a> ocorrerem situações que impossibilitem a entrega e que  não foram resolvidos pelo chat, é possível que o entregador pause o serviço. Com a entrega iniciada basta  clicar no botão __PAUSAR__, a entrega será pausada e você será redirecionado para a tela com a lista de entregas.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-tracking/aplicativo-m%C3%B3vel/tutorial-aplicativo-movel-vtex-tracking_10.jpg" width="230" height="450">
+  <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-tracking/aplicativo-m%C3%B3vel/tutorial-aplicativo-movel-vtex-tracking_10.jpg" width="230" height="450">
 
 
 > ❗ Use a opção **PAUSAR** com cautela pois ao iniciar novamente a rota, os destinatários receberão notificações do novo início da entrega.
@@ -166,17 +166,17 @@ Ao escolher uma ocorrência que tenha possibilidade de abertura de chat, uma men
   <table class="center">
     <tr>
       <td>
-        <img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-tracking/aplicativo-m%C3%B3vel/tutorial-aplicativo-movel-vtex-tracking_11.jpg" width="230" height="450">
+        <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-tracking/aplicativo-m%C3%B3vel/tutorial-aplicativo-movel-vtex-tracking_11.jpg" width="230" height="450">
       </td>
       <td>
-        <img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-tracking/aplicativo-m%C3%B3vel/tutorial-aplicativo-movel-vtex-tracking_12.jpg" width="230" height="450">
+        <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-tracking/aplicativo-m%C3%B3vel/tutorial-aplicativo-movel-vtex-tracking_12.jpg" width="230" height="450">
       </td>
     </tr>
   </table>
 </figure>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-tracking/aplicativo-m%C3%B3vel/tutorial-aplicativo-movel-vtex-tracking_13.jpg" width="450" height="230">
+  <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-tracking/aplicativo-m%C3%B3vel/tutorial-aplicativo-movel-vtex-tracking_13.jpg" width="450" height="230">
 
 
 Ao voltar para a página de finalização, será preciso escrever um comentário sobre a entrega. 
@@ -186,7 +186,7 @@ Ao voltar para a página de finalização, será preciso escrever um comentário
 3. Clique em __OK__.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-tracking/aplicativo-m%C3%B3vel/tutorial-aplicativo-movel-vtex-tracking_14.jpg" width="230" height="450">
+  <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-tracking/aplicativo-m%C3%B3vel/tutorial-aplicativo-movel-vtex-tracking_14.jpg" width="230" height="450">
 
 
 Após esses passos, a entrega é finalizada e o  aplicativo  abre uma caixa de diálogo perguntando se você deseja iniciar a próxima entrega da lista. Caso deseje, clique em __SIM__. 
@@ -197,10 +197,10 @@ Após esses passos, a entrega é finalizada e o  aplicativo  abre uma caixa de d
   <table class="center">
     <tr>
       <td>
-        <img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-tracking/aplicativo-m%C3%B3vel/tutorial-aplicativo-movel-vtex-tracking_15.png" width="230" height="450">
+        <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-tracking/aplicativo-m%C3%B3vel/tutorial-aplicativo-movel-vtex-tracking_15.png" width="230" height="450">
       </td>
       <td>
-        <img src="https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-tracking/aplicativo-m%C3%B3vel/tutorial-aplicativo-movel-vtex-tracking_16.png" width="230" height="450">
+        <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/vtex-tracking/aplicativo-m%C3%B3vel/tutorial-aplicativo-movel-vtex-tracking_16.png" width="230" height="450">
       </td>
     </tr>
   </table>

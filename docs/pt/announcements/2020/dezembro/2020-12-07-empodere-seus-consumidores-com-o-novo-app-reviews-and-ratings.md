@@ -25,7 +25,7 @@ O aplicativo está disponível na [VTEX App Store](https://apps.vtex.com/) e pod
 - Possibilita moderar as avaliações: aprovar as avaliações de produtos antes de serem disponibilizadas na página do produto;
 - Permite que você configure a sua loja para habilitar avaliações anônimas.
 
-![Reviews and Ratings - Printscreen](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2020/dezembro/2020-12-07-empodere-seus-consumidores-com-o-novo-app-reviews-and-ratings_1.png)
+![Reviews and Ratings - Printscreen](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2020/dezembro/2020-12-07-empodere-seus-consumidores-com-o-novo-app-reviews-and-ratings_1.png)
 
 ## Quais os benefícios?
 - Permite que o seu consumidor faça compras com mais confiança e assertividade baseando-se em avaliações de outros usuários;

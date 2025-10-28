@@ -23,16 +23,16 @@ A principal diferença para a versão antiga está na navegação. Rearranjamos 
 ## O que mudou
 
 A maior parte dos itens do Catálogo podem ser encontrados em _Catálogo_, que fica na seção _PRODUTOS_ do menu lateral.
-![Catálogo1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2018/julho/2018-07-12-visual-e-navegacao-novos-para-o-catalogo_1.png)
+![Catálogo1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2018/julho/2018-07-12-visual-e-navegacao-novos-para-o-catalogo_1.png)
 
 
 O subitem _Vale-compra_ (que antes se chamava _Vales_ e ficava em _Controle de Campanhas_) está no item _Pagamentos_, dentro da seção _TRANSAÇÕES_ do menu lateral.
-![Catálogo2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2018/julho/2018-07-12-visual-e-navegacao-novos-para-o-catalogo_2.png)
+![Catálogo2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2018/julho/2018-07-12-visual-e-navegacao-novos-para-o-catalogo_2.png)
 
 
 O item _Configurações_ virou um subitem de _CMS_, que fica na seção _CONFIGURAÇÕES DE LOJA_ do menu lateral.
-![Catálogo3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2018/julho/2018-07-12-visual-e-navegacao-novos-para-o-catalogo_3.png)
+![Catálogo3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2018/julho/2018-07-12-visual-e-navegacao-novos-para-o-catalogo_3.png)
 
 
 A aba _Marketplace_ ganhou uma seção própria de mesmo nome no menu lateral.
-![Catálogo4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2018/julho/2018-07-12-visual-e-navegacao-novos-para-o-catalogo_4.png)
+![Catálogo4](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2018/julho/2018-07-12-visual-e-navegacao-novos-para-o-catalogo_4.png)

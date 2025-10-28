@@ -61,13 +61,13 @@ To ensure the Device Fingerprint feature is operating properly, you must analyze
 4. Click on __+ Information__.
 5. Search for the __deviceFingerprint__ field and check if the code starts with the word armor, as illustrated below.
 
-![Device Fingerprint Armor](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payment-settings/configuring-mercado-pagos-device-fingerprint_1.png)
+![Device Fingerprint Armor](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payment-settings/configuring-mercado-pagos-device-fingerprint_1.png)
 
 <ui>
 6. Then, send the transaction ID to the Mercado Pago support team. You can find this ID in the **authorizationConnectorResponse** field.
   </ui>
 
-![Authorization](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payment-settings/configuring-mercado-pagos-device-fingerprint_2.png)
+![Authorization](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/payments/payment-settings/configuring-mercado-pagos-device-fingerprint_2.png)
 
 <ui>
 7. Copy the ID and [send an email](https://www.mercadopago.com.br/developers/en/support) with this information to Mercado Pago requesting them to validate the transaction. 

@@ -53,16 +53,16 @@ You can use reCAPTCHA checkbox (v2). So, when applicable, the user should click 
 ### Shopping experience with VTEX Criteria and reCAPTCHA v2
 
 The shopping experience with debit or credit cards tends to follow the flow below. It minimizes the occurrence of some types of fraud and attacks with minimal friction for the user.
-![reCAPTCHA scenariosEN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/checkout/recaptcha/using-recaptcha-at-checkout_1.jpg)
+![reCAPTCHA scenariosEN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/checkout/recaptcha/using-recaptcha-at-checkout_1.jpg)
 As shown in the image above, there are different possible results in this flow:
 
 1. If the VTEX Criteria algorithm does not consider the session suspicious, the platform proceeds normally with the purchase.
 
 2. If the session is considered suspicious, the interface will display the reCAPTCHA Checkbox for the customer to select it. If reCAPTCHA does not consider the behavior suspicious when the Checkbox is selected, the purchase proceeds normally.
-![newCaptchaAnchor](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/checkout/recaptcha/using-recaptcha-at-checkout_2.gif)
+![newCaptchaAnchor](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/checkout/recaptcha/using-recaptcha-at-checkout_2.gif)
 
 3. If reCAPTCHA considers the behavior suspicious, the interface will display the challenge.
-![desafio recaptcha](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/checkout/recaptcha/using-recaptcha-at-checkout_3.png)
+![desafio recaptcha](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/checkout/recaptcha/using-recaptcha-at-checkout_3.png)
 
 4. If the challenge is successfully solved, the platform proceeds with the purchase. Otherwise, the behavior is considered compatible with that of a bot and the platform does not conclude the purchase.
 

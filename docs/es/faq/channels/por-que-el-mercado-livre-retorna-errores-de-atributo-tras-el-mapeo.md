@@ -24,13 +24,13 @@ Sin embargo, esos atributos son muy claros (Color principal, Color secundario, T
 
 Si alguno de esos atributos es rellenado incorrectamente (por ejemplo, si usted ha atribuido un código relativo a Tamaño de cinturón para un calzado), el Integraciones va a retornar un error con el siguiente formato:
 
-![Shot1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/channels/por-que-el-mercado-livre-retorna-errores-de-atributo-tras-el-mapeo_1.jpg)
+![Shot1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/channels/por-que-el-mercado-livre-retorna-errores-de-atributo-tras-el-mapeo_1.jpg)
 
 En este caso, tenemos dos ejemplos de errores en el mismo mensaje.
 
 El primero de ellos indica que el atributo cuyo código empieza con el número `113000` es necesario para la categoría elegida y no fue insertado en la planilla de mapeo. Vea la planilla a continuación:
 
-![Shot2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/channels/por-que-el-mercado-livre-retorna-errores-de-atributo-tras-el-mapeo_2.png)
+![Shot2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/faq/channels/por-que-el-mercado-livre-retorna-errores-de-atributo-tras-el-mapeo_2.png)
 
 El segundo error indica que el atributo cuyo código empieza con el número `63000`, insertado en la última columna de la planilla arriba es inválido para la categoría elegida.
 
@@ -40,7 +40,7 @@ Los códigos de cada variación de atributo empiezan con el mismo número. Por e
 
 Para identificar el atributo indicado en el mensaje de error, consulte el número inicial de los códigos determinados por Mercado Livre. Haga clic en el nombre de su país para descargar la planilla de referencia:
 
-- [Brasil](https://raw.githubusercontent.com/vtexdocs/help-center-content/files-migration-script/docs/es/faq/channels/Brasil.zip)
-- [Argentina](https://raw.githubusercontent.com/vtexdocs/help-center-content/files-migration-script/docs/es/faq/channels/Argentina.rar)
-- [Colombia](https://raw.githubusercontent.com/vtexdocs/help-center-content/files-migration-script/docs/es/faq/channels/Colombia.rar)
-- [México](https://raw.githubusercontent.com/vtexdocs/help-center-content/files-migration-script/docs/es/faq/channels/Mexico.rar)
+- [Brasil](https://cdn.statically.io/gh/vtexdocs/help-center-content/files-migration-script/docs/es/faq/channels/Brasil.zip)
+- [Argentina](https://cdn.statically.io/gh/vtexdocs/help-center-content/files-migration-script/docs/es/faq/channels/Argentina.rar)
+- [Colombia](https://cdn.statically.io/gh/vtexdocs/help-center-content/files-migration-script/docs/es/faq/channels/Colombia.rar)
+- [México](https://cdn.statically.io/gh/vtexdocs/help-center-content/files-migration-script/docs/es/faq/channels/Mexico.rar)

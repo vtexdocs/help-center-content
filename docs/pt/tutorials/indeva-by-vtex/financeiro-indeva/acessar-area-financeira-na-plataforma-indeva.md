@@ -18,7 +18,7 @@ subcategoryId: 1LRiSf1bi4xyNzNoZ2QyP7
 Para os usuários cadastrados para receber boletos por email, a **área financeira** está disponível no acesso web da Indeva.  
 Ela pode ser localizada no canto superior direito da tela, junto às informações do perfil do usuário.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/financeiro-indeva/acessar-area-financeira-na-plataforma-indeva_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/financeiro-indeva/acessar-area-financeira-na-plataforma-indeva_1.png)
 
 Esse ambiente foi criado para oferecer **acesso rápido à 2ª via de boletos e notas fiscais, pagas ou em aberto**, para os usuários que já recebem os boletos por email.
 

@@ -36,14 +36,14 @@ A continuación, se muestran algunos de los operadores que podemos utilizar en e
 
 -    > , >= (Mayor que, mayor o igual a)
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/est%C3%BAdio/grupos-dinamicos_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/est%C3%BAdio/grupos-dinamicos_1.png)
 
 Es decir, un grupo dinámico es un tipo de grupo en el que no podemos añadir y/o eliminar usuarios manualmente. Todos los usuarios que se añaden entran al grupo si cumplen con la regla de la búsqueda realizada.
 
 Si haces clic en el botón para guardar tu grupo dinámico, aparecerá un pop-up para que elijas el nombre de tu nuevo grupo.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/est%C3%BAdio/grupos-dinamicos_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/est%C3%BAdio/grupos-dinamicos_2.png)
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/est%C3%BAdio/grupos-dinamicos_3.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/est%C3%BAdio/grupos-dinamicos_3.png)
 
 Si deseas editar el nombre del grupo, exportar los contactos participantes, eliminar el grupo o incluso modificar la regla de participación, el proceso es el mismo que para los grupos estáticos.

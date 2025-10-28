@@ -19,7 +19,7 @@ announcementSynopsisES: 'Posibilidad de limitar perfiles de acceso a la pantalla
 
 Con el fin de garantizar una mayor seguridad, creamos la posibilidad de limitar perfiles de acceso en la pantalla **Configuración**, permitiendo que solo algunos usuarios editen las informaciones.
 
-![2019-06-07 17 24 38-Configuración.es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2019/junio/2019-06-07-ahora-es-posible-restringir-el-acceso-de-los-usuarios-en-la-en-la-pantalla_1.png)
+![2019-06-07 17 24 38-Configuración.es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2019/junio/2019-06-07-ahora-es-posible-restringir-el-acceso-de-los-usuarios-en-la-en-la-pantalla_1.png)
 
 ## Principales ventajas
 
@@ -39,6 +39,6 @@ Para hacer esto es necesario añadir un producto llamado `Checkout` al perfil de
  6. Elija el tipo de permiso deseado: `Save Order Configuration`, para permitir al usuario editar la sección **Pedidos**, o `Save OrderForm Configuration`, para permitir al usuario editar la sección **Carrito**.
  7. Haga clic en **Guardar**
 
-![GIT-Checkout.es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2019/junio/2019-06-07-ahora-es-posible-restringir-el-acceso-de-los-usuarios-en-la-en-la-pantalla_2.gif)
+![GIT-Checkout.es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2019/junio/2019-06-07-ahora-es-posible-restringir-el-acceso-de-los-usuarios-en-la-en-la-pantalla_2.gif)
 
 Después de añadir este nuevo producto a un perfil, asegúrese de que los usuarios deseados están asociados a este perfil de acceso.

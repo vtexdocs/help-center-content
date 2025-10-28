@@ -17,7 +17,7 @@ announcementSynopsisEN: 'An application that lists pickup locations and displays
 
 One of the most common features of websites and online stores is a map showing the location of physical stores. The new[ Store Locator](https://apps.vtex.com/vtex-store-locator/p#overview) app allows stores developed with VTEX IO to list their pickup points on Google Maps and show them as markers on a map.
 
-![Maps](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2021/march/2021-03-19-displaying-pickup-points-on-google-maps_1.png)
+![Maps](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2021/march/2021-03-19-displaying-pickup-points-on-google-maps_1.png)
 
 ## What changed?
 

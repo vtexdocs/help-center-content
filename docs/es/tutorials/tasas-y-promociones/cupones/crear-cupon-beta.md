@@ -40,7 +40,7 @@ El formulario para crear o editar un cupón consta de las siguientes secciones:
 
 El panel superior del formulario de creación y edición del cupón, ilustrado a continuación, muestra el número de usos del cupón y el número de promociones vinculadas a él.
 
-![crear-cupon-1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/tasas-y-promociones/cupones/crear-cupon-beta_1.png)
+![crear-cupon-1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/tasas-y-promociones/cupones/crear-cupon-beta_1.png)
 
 Al hacer clic sobre cualquier información del panel, tendrás acceso a la ventana __Ver detalles de uso__, donde aparecen los datos que se describen a continuación.
 
@@ -52,11 +52,11 @@ Al hacer clic sobre cualquier información del panel, tendrás acceso a la venta
 
     Si el cupón es sencillo, Esta sección muestra la lista de pedidos en que se usó el cupón y permite buscar por número de pedido. Al hacer clic en el número de un pedido, serás redirigido a la página de detalles del pedido en **Gestión de pedidos**.
 
-    ![ver-detalles-de-uso](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/tasas-y-promociones/cupones/crear-cupon-beta_2.png)
+    ![ver-detalles-de-uso](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/tasas-y-promociones/cupones/crear-cupon-beta_2.png)
 
     Si se trata de un grupo de cupones, esta sección muestra la lista de códigos del grupo de cupones y permite buscar un código específico. Al hacer clic en un código, se accede a la lista de pedidos en los que se ha utilizado el código y se puede buscar un número de pedido. Al hacer clic en un número de pedido, accederá a la página de detalles del pedido en **Gestión de pedidos**.
 
-![selecciona-el-codigo-lotes-cupones](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/tasas-y-promociones/cupones/crear-cupon-beta_3.PNG)
+![selecciona-el-codigo-lotes-cupones](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/tasas-y-promociones/cupones/crear-cupon-beta_3.PNG)
 
 ### General
 
@@ -88,7 +88,7 @@ Si creaste un [lote de cupones](/es/tutorial/cupones-beta--1aAEN3ADpz19ss5JCIEBd
 * <i class="far fa-clone"></i> **Copiar todos:** permite copiar los códigos generados a su área de transferencia. Luego, si lo deseas, puedes pegarlos en un editor de planillas como Excel o Google Sheets. También puedes copiar cada código haciendo clic sobre él.
 * **Exportar:** permite exportar los códigos generados a un archivo CSV. El archivo exportado tiene una columna con un código por línea.
 
-![cupons-gerados-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/tasas-y-promociones/cupones/crear-cupon-beta_4.gif)
+![cupons-gerados-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/tasas-y-promociones/cupones/crear-cupon-beta_4.gif)
 
 ### Generar cupones masivamente
 La [creación de cupones](#crear-cupón) para promociones se debe realizar a través del módulo Tasas y Promociones. Sin embargo, pueden presentarse casos en los que se necesita crear muchos cupones a la vez, debido a alguna campaña o acción de marketing.

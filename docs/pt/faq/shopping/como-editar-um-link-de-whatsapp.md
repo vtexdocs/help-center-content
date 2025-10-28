@@ -18,7 +18,7 @@ No painel da **VTEX Assisted Sales (SuiteShare)**, acesse a opção _**Atrair >
 
 Na nova página, localize o link que você deseja editar, clique na seta localizada no lado direito e clique na opção **Editar**. 
 
-![LinkWhatsapp](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/shopping/como-editar-um-link-de-whatsapp_1.png)
+![LinkWhatsapp](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/shopping/como-editar-um-link-de-whatsapp_1.png)
 
 Pronto, basta editar a opção desejada. 
 

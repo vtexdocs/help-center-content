@@ -25,31 +25,31 @@ Realizadas as devidas definições, o vínculo da coleção com a vitrine é fei
 
 No exemplo a seguir, iremos definir a vitrine apresentada na Home, para isso, selecione **Settings**, depois **add object**, conforme na imagem a seguir.
 
-![coleção2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/como-incluir-uma-colecao-de-produtos-na-vitrine-da-loja_1.png)
+![coleção2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/como-incluir-uma-colecao-de-produtos-na-vitrine-da-loja_1.png)
 
 Esse comando irá abrir o **Visual Controls**, ou seja, o controle correspondente à vitrine em que se deseja exibir a coleção. Adicione uma _Coleção_, porém não se esqueça de definir um nome para ela.
 
-![coleção3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/como-incluir-uma-colecao-de-produtos-na-vitrine-da-loja_2.png) 
+![coleção3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/como-incluir-uma-colecao-de-produtos-na-vitrine-da-loja_2.png) 
 
-![coleção4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/como-incluir-uma-colecao-de-produtos-na-vitrine-da-loja_3.png)
+![coleção4](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/como-incluir-uma-colecao-de-produtos-na-vitrine-da-loja_3.png)
 
 Para editar o controle criado, é necessário salvar as configurações primeiramente em **Save Settings**.
 
-![coleção5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/como-incluir-uma-colecao-de-produtos-na-vitrine-da-loja_4.png)
+![coleção5](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/como-incluir-uma-colecao-de-produtos-na-vitrine-da-loja_4.png)
 
-![coleção6](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/como-incluir-uma-colecao-de-produtos-na-vitrine-da-loja_5.png)
+![coleção6](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/como-incluir-uma-colecao-de-produtos-na-vitrine-da-loja_5.png)
 
 Ao editar o controle é necessário adicionar seus conteúdos, que representam cada conjunto de itens que serão exibidos.
 São eles:
 _Layout_: Selecione o template de prateleira utilizado na vitrine.
 _Number of Columns, Number of Items,Show Unavailable, Ramdom ad Paged_: Definem a disposição, quantidade e qual o critério de exibição dos itens.
 
-![coleção7](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/como-incluir-uma-colecao-de-produtos-na-vitrine-da-loja_6.png)
+![coleção7](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/como-incluir-uma-colecao-de-produtos-na-vitrine-da-loja_6.png)
 
 Lembre-se de salvar as alterações antes de efetuar uma busca ou mudar de página.
 
 O próximo passo é adicionar o conteúdo, selecionando **Add Content**.
-![coleção8](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/como-incluir-uma-colecao-de-produtos-na-vitrine-da-loja_7.png)
+![coleção8](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/como-incluir-uma-colecao-de-produtos-na-vitrine-da-loja_7.png)
 
 É possível definir cada conteúdo utilizando coleções ou resultados de busca, utilizando parâmetros de busca (mais detalhes [aqui](/pt/tutorial/como-funciona-a-busca-da-vtex--tutorials_542)).
 
@@ -59,7 +59,7 @@ _QueryString_: Os parâmetros preenchidos nesse campo definem o resultado de bus
 
 No campo **Product Cluster (Collection)**, é necessário selecionar a coleção que será exibida, para isso, siga o passo a seguir:
 
-![coleção10](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/como-incluir-uma-colecao-de-produtos-na-vitrine-da-loja_8.png)
+![coleção10](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/como-incluir-uma-colecao-de-produtos-na-vitrine-da-loja_8.png)
 
 Os conteúdos a serem preenchidos na parte **Display Condition**:
 _Partner, Campaign_ e _Source_: Definem a exibição deste conteúdo, caso o visitante possua alguma UTM correspondente em sua URL de origem.
@@ -71,7 +71,7 @@ Após as definições, deve-se marcar a opção **Active Content** e adicionar n
 
 No exemplo abaixo temos uma vitrine padrão, sem condições de exibição, e outra exclusiva para as visitas oriundas das audiências de campanhas patrocinadas do Google (utm_source=**google**/utm_medium=**cpc**):
 
-![coleção9](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/como-incluir-uma-colecao-de-produtos-na-vitrine-da-loja_9.png)
+![coleção9](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/layout/como-incluir-uma-colecao-de-produtos-na-vitrine-da-loja_9.png)
 
 No cenário acima, caso o cliente tenha origem na audiência de campanha patrocinada serão exibidos na vitrine **Lançamentos**, localizada na Home, os produtos que correspondem ao resultado de uma busca pela Marca de ID 200000, caso contrário, serão exibidos os produtos da coleção de ID 8.
 

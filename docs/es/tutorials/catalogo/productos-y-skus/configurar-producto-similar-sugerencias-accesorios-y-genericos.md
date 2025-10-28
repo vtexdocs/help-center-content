@@ -35,7 +35,7 @@ Para ayudarlo a utilizar las técnicas arriba, podemos usar los campos en el reg
 4. Rellene los campos, como indicado abajo.
 5. Haga clic en el botón `Guardar`.
 
-![produto-similar-sugestão-acessório-exemplo es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/productos-y-skus/configurar-producto-similar-sugerencias-accesorios-y-genericos_1.png)
+![produto-similar-sugestão-acessório-exemplo es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/productos-y-skus/configurar-producto-similar-sugerencias-accesorios-y-genericos_1.png)
 
 **Accesorios:** En este campo registramos los productos que deben venderse como complemento de otro producto. En esta opción, los productos registrados como accesorios se muestran como opción de compra con el checkbox de selección habilitado (función hecha en el layout).
 

@@ -19,7 +19,7 @@ Presentamos la nueva experiencia de gestión de [claves de API](/es/tutorial/cla
 
 La actualización incluye una interfaz optimizada para facilitar la gestión, además de nuevas funcionalidades que mejoran la seguridad, como definir la duración de los tokens, renovar tokens y eliminar claves no utilizadas.
 
-![apikeys-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2024/diciembre/2024-12-03-claves-de-api-nueva-experiencia-centrada-en-usabilidad-y-seguridad_1.png)
+![apikeys-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2024/diciembre/2024-12-03-claves-de-api-nueva-experiencia-centrada-en-usabilidad-y-seguridad_1.png)
 
 ## ¿Qué cambió?
 

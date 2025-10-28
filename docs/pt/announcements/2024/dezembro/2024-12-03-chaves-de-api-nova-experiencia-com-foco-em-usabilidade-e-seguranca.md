@@ -19,7 +19,7 @@ Introduzimos uma nova experiência de gerenciamento de [chaves de API](/pt/tutor
 
 A atualização inclui uma interface otimizada para facilitar a gestão e novas funcionalidades voltadas para segurança, como a definição da duração de tokens, a renovação de tokens e a exclusão de chaves não utilizadas.
 
-![apikeys-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2024/dezembro/2024-12-03-chaves-de-api-nova-experiencia-com-foco-em-usabilidade-e-seguranca_1.png)
+![apikeys-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2024/dezembro/2024-12-03-chaves-de-api-nova-experiencia-com-foco-em-usabilidade-e-seguranca_1.png)
 
 ## O que mudou?
 

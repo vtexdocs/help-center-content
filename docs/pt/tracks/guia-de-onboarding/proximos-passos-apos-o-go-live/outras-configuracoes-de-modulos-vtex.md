@@ -79,7 +79,7 @@ O [VTEX DO](/pt/tutorial/vtex-do-interface--7KMbRL4OslN8DTX9oiuCiu) é o sistema
 - Acesso a detalhes e informações para conclusão de cada tarefa.
 - Atribuição de [usuário](/pt/tutorial/gerenciando-usuarios--tutorials_512) responsável pela tarefa.
 
-![vtex-do-pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/guia-de-onboarding/proximos-passos-apos-o-go-live/outras-configuracoes-de-modulos-vtex_1.JPG)
+![vtex-do-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/guia-de-onboarding/proximos-passos-apos-o-go-live/outras-configuracoes-de-modulos-vtex_1.JPG)
 
 ### VTEX Social Selling
 

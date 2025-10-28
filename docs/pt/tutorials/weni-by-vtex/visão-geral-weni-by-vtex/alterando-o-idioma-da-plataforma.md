@@ -21,11 +21,11 @@ Atualmente, a Plataforma se encontra disponível em Português, Inglês e Espanh
 
 1. Ao fazer login na plataforma, clique no botão de configurações do lado superior direito na tela, conforme indicado na imagem. Ao clicar nele você terá a opção de alternar entre idiomas
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/vis%C3%A3o-geral-weni-by-vtex/alterando-o-idioma-da-plataforma_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/vis%C3%A3o-geral-weni-by-vtex/alterando-o-idioma-da-plataforma_1.png)
 
 2. Dentro da tela de projetos também é possível modificar o idioma da plataforma, basta clicar no botão de configurações do lado superior direito na tela, conforme indicado na imagem. Ao clicar nele você terá a opção de alternar entre idiomas
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/vis%C3%A3o-geral-weni-by-vtex/alterando-o-idioma-da-plataforma_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/vis%C3%A3o-geral-weni-by-vtex/alterando-o-idioma-da-plataforma_2.png)
 
 Seguindo estes passos, a interface deve estar atualizada para o idioma da sua preferência. Talvez seja necessário reiniciar o navegador ou sair e entrar novamente no sistema.
 

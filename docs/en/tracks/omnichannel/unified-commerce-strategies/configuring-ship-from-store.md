@@ -17,7 +17,7 @@ order: 4
 
 The **Ship From Store** strategy allows a customer who wants to receive the products at home to receive them from the warehouse of a physical store. In other words, in this scenario, the store functions as a mini distribution center.
 
-![35. Setting up Shipping From Store - 1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/unified-commerce-strategies/configuring-ship-from-store_1.png)
+![35. Setting up Shipping From Store - 1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/unified-commerce-strategies/configuring-ship-from-store_1.png)
 
 This type of logistics helps your operation to reduce costs and shipping time. Instead of having only the main warehouses - usually away from the central areas of cities - you now have a more capillary delivery network.
 

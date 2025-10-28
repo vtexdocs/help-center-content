@@ -21,38 +21,38 @@ Para realizar a integração acesse no seu painel da VTEX Assisted Sales (Suite
 
 Na dashboard em **Integrações”**, clique em **Ver todas as integrações**. Ou clique em _**Configurações > Integrações**_.
 
-![Bitrix24_1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/bitrix24_1.png)
+![Bitrix24_1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/bitrix24_1.png)
 
 Selecione o Bitrix24 sales e clique em **Integrar**.
 
 Selecione o [formulário de captura](/pt/tutorial/formulario-de-captura--6NJ6JyS3x5P2iWEZGadHAo) que deseja conectar.
 
-![Bitrix24_2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/bitrix24_2.png)
+![Bitrix24_2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/bitrix24_2.png)
 
 Dentro do Bitrix24, no menu a esquerda, clique em _**Aplicativos > Market**_.
 
-![Bitrix24_3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/bitrix24_3.png)
+![Bitrix24_3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/bitrix24_3.png)
 
 No menu superior, clique em **Recursos para desenvolvedores**.
 
-![Bitrix24_4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/bitrix24_4.png)
+![Bitrix24_4](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/bitrix24_4.png)
 
 Na página a seguir, clique em **Outro**.
 
-![Bitrix24_5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/bitrix24_5.png)
+![Bitrix24_5](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/bitrix24_5.png)
 
 Na página a seguir, clique em **Webhook de entrada**.
 
-![Bitrix24_6](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/bitrix24_6.png)
+![Bitrix24_6](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/bitrix24_6.png)
 
 Na página a seguir, troque o **Criador de pedido** para `crm.lead.add`.
 
-![Bitrix24_7](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/bitrix24_7.png)
+![Bitrix24_7](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/bitrix24_7.png)
 
 Copie a URL gerada no campo URL e clique em salvar. 
 
 A URL copiada deve ser colada no campo **URL do Webhook** painel da VTEX Assisted Sales (SuiteShare) para cada um dos links que deseja integrar:
 
-![Bitrix24_8](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/bitrix24_8.png)
+![Bitrix24_8](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/conversational-commerce/vtex-assisted-sales-suiteshare/bitrix24_8.png)
 
 Pronto, integração finalizada!

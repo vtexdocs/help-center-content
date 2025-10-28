@@ -36,7 +36,7 @@ Para registrar el Sitemap usted deberá de ejecutar las siguientes acciones:
 
 **2. Seleccione la opción de &#8220;Sitemaps&#8221; en el apartado llamado &#8220;Rastreo&#8221;**
 
-****![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/proyectos-y-integraciones/integraci%C3%B3n-con-herramientas-de-monitoreo/rastreo-google-search-console-sitemap_1.png)****
+****![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/proyectos-y-integraciones/integraci%C3%B3n-con-herramientas-de-monitoreo/rastreo-google-search-console-sitemap_1.png)****
 
 **3. Haga click en el boton &#8220;Añadir o Probar Sitemap&#8221;**
 
@@ -44,13 +44,13 @@ Para registrar el Sitemap usted deberá de ejecutar las siguientes acciones:
 
 **5. **Click en &#8220;Enviar&#8221; **
 
-****![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/proyectos-y-integraciones/integraci%C3%B3n-con-herramientas-de-monitoreo/rastreo-google-search-console-sitemap_2.png)****
+****![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/proyectos-y-integraciones/integraci%C3%B3n-con-herramientas-de-monitoreo/rastreo-google-search-console-sitemap_2.png)****
 
 **6. El Search Console tendrá acceso al XML y lo verificara. Haga click en la opcion &#8220;Actualizar pagina&#8221; para ir visualizando los resultados y los status de las urls enviadas por el Sitemap.**
 
-**![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/proyectos-y-integraciones/integraci%C3%B3n-con-herramientas-de-monitoreo/rastreo-google-search-console-sitemap_3.png)**
+**![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/proyectos-y-integraciones/integraci%C3%B3n-con-herramientas-de-monitoreo/rastreo-google-search-console-sitemap_3.png)**
 
 **7. Después de agregar con éxito el Sitemap en Search Console, se disponibilizara un reporte de las URLs enviadas versus las URLs indexadas, segmentadas por &#8220;Paginas web&#8221; e &#8220;Imagenes&#8221;**
 
-**![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/proyectos-y-integraciones/integraci%C3%B3n-con-herramientas-de-monitoreo/rastreo-google-search-console-sitemap_4.png)**
+**![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/proyectos-y-integraciones/integraci%C3%B3n-con-herramientas-de-monitoreo/rastreo-google-search-console-sitemap_4.png)**
 

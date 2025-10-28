@@ -17,7 +17,7 @@ subcategoryId: 27t6x0lngvjI3bnUg5AgEO
 
 Proyectos es una funcionalidad de VTEX Headless CMS que simplifica la gestión de varios proyectos de frontend, como aplicaciones móviles, páginas web y email marketing, desde un único dashboard.
 
-![Projects pages](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/headless-cms/gestionar-proyectos_1.gif)
+![Projects pages](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/headless-cms/gestionar-proyectos_1.gif)
 
 Cada proyecto cuenta con sus propios ajustes, contenido y marca, pudiendo personalizarse en función de públicos u objetivos específicos. 
 
@@ -30,7 +30,7 @@ Para gestionar Headless CMS, asegúrate de que los [recursos](/es/tutorial/licen
 ## Visión general
 Para acceder a **Proyectos**, en el Admin VTEX ve a **Storefront > Headless CMS**.
 
-![Projects overview](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/headless-cms/gestionar-proyectos_2.png)
+![Projects overview](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/headless-cms/gestionar-proyectos_2.png)
 
 | Opciones     | Descripción     |
 | ---------- | ---------- |
@@ -109,7 +109,7 @@ Para archivar un proyecto sigue los pasos a continuación:
 1. Accede a **Storefront > Proyectos**.
 2. Selecciona el proyecto que deseas archivar y haz clic en **Configuración** (⚙️). 
 3. Haz clic en `Archivar proyecto` en la página `General`. Aparecerá un mensaje emergente para confirmar que deseas archivar el proyecto.
-![Arquivar projeto - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/headless-cms/gestionar-proyectos_3.png)
+![Arquivar projeto - ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/storefront/headless-cms/gestionar-proyectos_3.png)
 4. Haz clic en `Archivar`. A continuación aparecerá un mensaje informando que el proyecto se archivó con éxito.
 
 Para restaurar un proyecto archivado, sigue los pasos descritos en [Restaurar proyecto](#restaurar-proyecto).

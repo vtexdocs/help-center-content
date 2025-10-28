@@ -22,7 +22,7 @@ O painel de gerenciamento de usuários teve seu design atualizado com os mesmos 
 - Apresentação da configuração de MFA (autenticação de múltiplos fatores) para cada usuário na lista de usuários.
 - Botão para exportar os dados da lista de usuários para um arquivo csv que inclui id, email e nome.
 
-![Lista Usuários User Management PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2020/dezembro/2020-12-17-nova-ui-para-o-painel-de-gerenciamento-de-usuarios-do-admin_1.png)
+![Lista Usuários User Management PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2020/dezembro/2020-12-17-nova-ui-para-o-painel-de-gerenciamento-de-usuarios-do-admin_1.png)
 
 Além disso, o painel sofreu algumas alterações:
 

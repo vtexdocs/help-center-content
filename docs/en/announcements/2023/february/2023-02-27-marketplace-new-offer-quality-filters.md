@@ -21,7 +21,7 @@ To give marketplaces more control over the approval criteria for an offer, we cr
 
 Thus, the SKUs that are sent to the marketplace meet the requirements relevant to catalog curation. 
 
- ![Offer Quality gif](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2023/february/2023-02-27-marketplace-new-offer-quality-filters_1.gif)
+ ![Offer Quality gif](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/announcements/2023/february/2023-02-27-marketplace-new-offer-quality-filters_1.gif)
 
 ## What has changed?
 

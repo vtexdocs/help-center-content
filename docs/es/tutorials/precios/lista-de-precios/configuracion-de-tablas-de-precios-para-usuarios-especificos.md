@@ -73,11 +73,11 @@ En el menú principal del Admin, ingrese a __Precios__ y elija la opción __List
 
 En el filtro de búsqueda, introduzca los nombres de las tablas creadas en el Master Data. Las tablas de precio se muestran como columnas de la lista de precios, así como las políticas comerciales.
 
-![Filtros - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/precios/lista-de-precios/configuracion-de-tablas-de-precios-para-usuarios-especificos_1.png)
+![Filtros - ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/precios/lista-de-precios/configuracion-de-tablas-de-precios-para-usuarios-especificos_1.png)
 
 Para actualizar el precio fijo en una tabla específica, haga clic en la columna de esa tabla y, a continuación, en __Definir precios fijos__.
 
-![Lista de preços - ES](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/precios/lista-de-precios/configuracion-de-tablas-de-precios-para-usuarios-especificos_2.png)
+![Lista de preços - ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/precios/lista-de-precios/configuracion-de-tablas-de-precios-para-usuarios-especificos_2.png)
 
 Para ingresar y actualizar los precios de una tabla específica por API, vea esta [documentación de API](https://developers.vtex.com/reference/prices-and-fixed-prices#createeditfixedpricesonapricetableortradepolicy).
 
@@ -90,7 +90,7 @@ Cuando un usuario de su tienda no ha iniciado sesión, los precios que se le mue
 Si el usuario ha iniciado sesión, verá los precios correspondientes a la tabla de precios a la que está asociado su e-mail.
 
 Por ejemplo, estos dos clientes están vinculados a tablas de precios diferentes:
-![Clients](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/precios/lista-de-precios/configuracion-de-tablas-de-precios-para-usuarios-especificos_3.png)
+![Clients](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/precios/lista-de-precios/configuracion-de-tablas-de-precios-para-usuarios-especificos_3.png)
 
 Cuando el cliente Daniel, que está vinculado a la tabla Silver, inicie sesión en la tienda, verá los precios establecidos en dicha tabla. La mochila del ejemplo anterior aparecerá a USD 50.
 En cambio, el cliente Breno, que está vinculado a la tabla Gold, verá los precios definidos en esta otra tabla. Para él, la mochila costará USD 60,50.

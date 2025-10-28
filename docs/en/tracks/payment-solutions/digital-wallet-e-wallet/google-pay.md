@@ -30,7 +30,7 @@ To enable Google Pay, follow the steps below.
 
 > ℹ️ The card brands supported by the Google Pay extension are the ones configured in the payment conditions.
 
-![google-pay-checkout-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/payment-solutions/digital-wallet-e-wallet/google-pay_1.png)
+![google-pay-checkout-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/payment-solutions/digital-wallet-e-wallet/google-pay_1.png)
 
 Google Pay will then be available in your VTEX store's checkout as a new payment method. It may take around 10 minutes to be implemented.
 
@@ -49,11 +49,11 @@ To use Google Pay, you must meet the following requirements:
 
 To view transactions that have been completed with Google Pay, please follow the steps described in the article [Viewing transaction details](/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/3Nt40DMEWkvhlpaL5PlBy). In the search bar of the transactions page, type **Google Pay** to filter the transactions carried out with this type of payment.
 
-![Google Pay Transaction_1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/payment-solutions/digital-wallet-e-wallet/google-pay_2.png)
+![Google Pay Transaction_1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/payment-solutions/digital-wallet-e-wallet/google-pay_2.png)
 
 After accessing the desired transaction, click on `+ Information` to verify the **Google Pay** information described in the `paymentOrigin` field.
 
-![Google Pay Transaction_2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/payment-solutions/digital-wallet-e-wallet/google-pay_3.png)
+![Google Pay Transaction_2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/payment-solutions/digital-wallet-e-wallet/google-pay_3.png)
 
 > ⚠️ It is also possible to identify transactions made with Google Pay through the **All Orders** page in Admin. You just need to select the desired search period, [export the orders](/en/tracks/orders--2xkTisx4SXOWXQel8Jg8sa/6rVCf9KLn1jgTaxS0xuByu) in a report in .csv and locate the Google Pay information in the "payment origin" field.
 

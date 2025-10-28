@@ -35,7 +35,7 @@ Para te auxiliar na utilização da técnicas acima podemos utilizar os campos n
 4. Preencha os campos corretamente conforme indicação abaixo.
 5. Clique no botão `Salvar`.
 
-![produto-similar-sugestão-acessório-exemplo pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/cat%C3%A1logo/produtos-e-skus/configurando-produto-similar-sugestoes-acessorios-e-genericos_1.png)
+![produto-similar-sugestão-acessório-exemplo pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/cat%C3%A1logo/produtos-e-skus/configurando-produto-similar-sugestoes-acessorios-e-genericos_1.png)
 
 **Acessórios:** nesse campo cadastramos os produtos que devem ser vendidos como complemento de um outro produto. Nesta opção os produto cadastrados como acessórios são mostrados como opção de compra com o checkbox de seleção habilitado (função feita no layout).
 

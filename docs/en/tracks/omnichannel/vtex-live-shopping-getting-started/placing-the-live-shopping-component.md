@@ -43,7 +43,7 @@ For stores using [Legacy CMS Portal](/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN4
 3. In **Script for template**, select `CMS template`.
 4. Copy the code in **Script for template**.
 
-  ![article_4_legacy_cms_portal_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/vtex-live-shopping-getting-started/placing-the-live-shopping-component_1.png)
+  ![article_4_legacy_cms_portal_EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/vtex-live-shopping-getting-started/placing-the-live-shopping-component_1.png)
 
 5. Go to **Storefront > Layout**, or type **Layout** in the search bar at the top of the page.
 6. Click **CMS > HTML Templates**.
@@ -58,7 +58,7 @@ For stores using [Headless CMS](/en/tutorial/headless-cms-overview--3U5gvhHdQL0j
 3. In **Script for template**, select `External template`.
 4. Copy the code in **Script for template**.
 
-  ![article_4_headless_cms_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/vtex-live-shopping-getting-started/placing-the-live-shopping-component_2.png)
+  ![article_4_headless_cms_EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/vtex-live-shopping-getting-started/placing-the-live-shopping-component_2.png)
 
 5. Paste the code in the desired HTML file.
 

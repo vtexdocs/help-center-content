@@ -29,7 +29,7 @@ In the Shared Products page you will find two tabs:
 - Available  
 
  ## Imported
- ![Shared products Importados EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/sellers/seller-portal/seller-portal-shared-products_1.jpg)
+ ![Shared products Importados EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/sellers/seller-portal/seller-portal-shared-products_1.jpg)
 
 The *Imported* tab displays products from the marketplace catalog that you have already imported and are ready to become offers. This is also where you activate your products. Above the list there is a search bar where you can search for products by name or SKU.  
 
@@ -38,7 +38,7 @@ The first time you access the Seller Portal the *Imported* tab will be empty bec
 When you click on a product in the list, you will be redirected to a page containing the [Product's Details](/en/tutorial/seller-portal-detalhes-do-produto--K0WWsERWj7aQtmZinhYoP).
 
 ## Available
-![Shared products Disponíveis EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/sellers/seller-portal/seller-portal-shared-products_2.jpg)
+![Shared products Disponíveis EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/sellers/seller-portal/seller-portal-shared-products_2.jpg)
 
 The *Available* tab displays products from the marketplace catalog that have been made available to the seller but which have not been added to the their catalog.  You can filter the available products by brand or category to facilitate the import process.
 

@@ -26,7 +26,7 @@ This page allows you to perform the following actions:
 * [Edit](#editing-a-physical-store)
 * [Inactivate](#inactivating-a-physical-store)
 
-![loja-fisica-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/instore-first-steps-and-configurations/adding-new-stores-to-instore_1.png)
+![loja-fisica-EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/instore-first-steps-and-configurations/adding-new-stores-to-instore_1.png)
 
 The page displays the following information: 
 
@@ -51,7 +51,7 @@ You can add a physical store by following the steps below:
 
 ### Physical store fields
 
-![loja-fisica2-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/instore-first-steps-and-configurations/adding-new-stores-to-instore_2.png)
+![loja-fisica2-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/instore-first-steps-and-configurations/adding-new-stores-to-instore_2.png)
 
 #### Identification
 

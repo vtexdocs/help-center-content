@@ -28,4 +28,4 @@ Ao tentar acessar o Admin de uma loja usando um endereço de email, você tem a 
 
 Segurança é uma das principais preocupações na VTEX, e isso se torna ainda mais importante quando estamos próximos de grandes eventos como a Black Friday. Esse novo recurso pode ajudar a identificar a fonte de uma tentativa de acesso indesejado.
 
-![IP Geolocation email - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2020/novembro/2020-11-12-informacoes-de-ip-e-geolocalizacao-agora-estao-disponiveis-nos-emails-de_1.png)
+![IP Geolocation email - PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2020/novembro/2020-11-12-informacoes-de-ip-e-geolocalizacao-agora-estao-disponiveis-nos-emails-de_1.png)

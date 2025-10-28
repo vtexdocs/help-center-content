@@ -35,7 +35,7 @@ To perform the initial Customer Credit settings, follow the steps below:
   	<li>**Affiliation not authenticated**: click in **Authenticate** to be redirected to the configuration screen where you must fill in the information **Application Key** and **Application Token**. This action will allow payments made through Customer Credit to be processed in your store. Find out more at [Authentication](https://developers.vtex.com/docs/guides/authentication).</li>
 </ul>
 
-![CC Configuration 1 EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/payment-solutions/customer-credit-getting-started/setting-up-the-app_1.JPG)
+![CC Configuration 1 EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/payment-solutions/customer-credit-getting-started/setting-up-the-app_1.JPG)
 
 ## App settings
 
@@ -55,13 +55,13 @@ For example, for an account created with a credit limit of $1,000.00 and a toler
 
 > ⚠️ Tolerance values are configured in decimal numbers, with 0 representing 0% and 1 representing 100%. Example: to use a tolerance of 5%, the value to be configured is 0.05.
 
-![CC_Configuration_2_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/payment-solutions/customer-credit-getting-started/setting-up-the-app_2.JPG)
+![CC_Configuration_2_EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/payment-solutions/customer-credit-getting-started/setting-up-the-app_2.JPG)
 
 ### Automatic account creation
 
 This option allows any store customer to use Customer Credit as a payment method, even if you have not previously created an account for them in the Customer Credit app. When activating this functionality, you must also define the initial credit limit that can be used for orders placed by customers without a Customer Credit account.
 
-![CC_Configurações_3_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/payment-solutions/customer-credit-getting-started/setting-up-the-app_3.JPG)
+![CC_Configurações_3_EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/payment-solutions/customer-credit-getting-started/setting-up-the-app_3.JPG)
 
 ### My Credits page
 
@@ -69,7 +69,7 @@ By installing the __My Credits__ page, you will allow customers to view and mana
 
 The customer can access this page on your store's website at __My account > My Credits__.
 
-![CC_Configuration_4_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/payment-solutions/customer-credit-getting-started/setting-up-the-app_4.JPG)
+![CC_Configuration_4_EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/payment-solutions/customer-credit-getting-started/setting-up-the-app_4.JPG)
 
 ### Payment Instructions 
 
@@ -77,15 +77,15 @@ This configuration allows you to insert instructions related to payment in the i
 
 > ⚠️ The message registered in this configuration will be replicated on all invoices issued for all Customer Credit accounts. It is not possible to configure a unique message for each specific customer or invoice.
 
-![CC_Configuration_5_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/payment-solutions/customer-credit-getting-started/setting-up-the-app_5.JPG)
+![CC_Configuration_5_EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/payment-solutions/customer-credit-getting-started/setting-up-the-app_5.JPG)
 
 ### Identifying Information
 
 This option allows you to select which store identification information should be displayed at the top of issued invoices.
 
-![CC_Configuration_6_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/payment-solutions/customer-credit-getting-started/setting-up-the-app_6.JPG)
+![CC_Configuration_6_EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/payment-solutions/customer-credit-getting-started/setting-up-the-app_6.JPG)
 
-![CC_Configuration_8_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/payment-solutions/customer-credit-getting-started/setting-up-the-app_7.JPG)
+![CC_Configuration_8_EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/payment-solutions/customer-credit-getting-started/setting-up-the-app_7.JPG)
 
 ## Payment conditions
 
@@ -100,7 +100,7 @@ To create payment conditions for Customer Credit invoices, follow the steps belo
 5. Enable the condition in the __Status__ field.
 6. In __Configure Due Date and Installment Rules__, indicate the number of installments, due period (in days) and the simple interest rate to be applied to each installment. To create more than one payment condition, click `Add new condition`.
 
-![CC_Configuration_9_EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/payment-solutions/customer-credit-getting-started/setting-up-the-app_8.JPG)
+![CC_Configuration_9_EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/payment-solutions/customer-credit-getting-started/setting-up-the-app_8.JPG)
 
 <blockquote><ui>7. If you wish, you can also configure [payment special conditions](/en/tutorial/special-conditions--tutorials_456).</ui>
 

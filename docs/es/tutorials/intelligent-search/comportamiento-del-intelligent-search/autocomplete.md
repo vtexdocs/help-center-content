@@ -43,22 +43,22 @@ Otra ventaja para el administrador de la tienda es el aumento de conversión, qu
 
 En esta sección se muestran los términos más buscados por otros clientes dentro del sitio web.
 
-![PT - Autocomplete termos mais pesquisados](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/intelligent-search/comportamiento-del-intelligent-search/autocomplete_1.png)
+![PT - Autocomplete termos mais pesquisados](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/intelligent-search/comportamiento-del-intelligent-search/autocomplete_1.png)
 
 ## Últimas búsquedas realizadas
 
 En esta sección se muestran las últimas búsquedas realizadas por el cliente. Así, es posible comenzar la interacción con la búsqueda instantáneamente.
 
-![PT - Autocomplete historico](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/intelligent-search/comportamiento-del-intelligent-search/autocomplete_2.png)
+![PT - Autocomplete historico](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/intelligent-search/comportamiento-del-intelligent-search/autocomplete_2.png)
 
 ## Sugerencia de búsquedas
 
 En esta sección se muestran los términos buscados por otros usuarios que se relacionan con la búsqueda realizada en ese momento. Además de términos, también se sugieren categorías relacionadas con la búsqueda.
 
-![PT - Autocomplete sugestao termos](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/intelligent-search/comportamiento-del-intelligent-search/autocomplete_3.png)
+![PT - Autocomplete sugestao termos](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/intelligent-search/comportamiento-del-intelligent-search/autocomplete_3.png)
 
 ## Sugerencia de productos
 
 En esta sección se muestran los productos que coinciden con la búsqueda realizada en ese momento. Así, al mostrar productos relacionados con su búsqueda durante la escritura, se reducen las interrupciones y se le permite al usuario realizar una compra más dinámica.
 
-![PT - Autocomplete sugestao de produtos](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/intelligent-search/comportamiento-del-intelligent-search/autocomplete_4.png)
+![PT - Autocomplete sugestao de produtos](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/intelligent-search/comportamiento-del-intelligent-search/autocomplete_4.png)

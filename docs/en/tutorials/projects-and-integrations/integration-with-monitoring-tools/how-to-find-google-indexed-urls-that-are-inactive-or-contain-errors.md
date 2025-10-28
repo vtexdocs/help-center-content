@@ -19,17 +19,17 @@ This article will help you complement your URL mapping. If your store did not se
 
 Access your Google Web Master Tools account. On this screen, you will already be able to check the numbers of pages that contain errors.
 
-![locateURL1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/projects-and-integrations/integration-with-monitoring-tools/how-to-find-google-indexed-urls-that-are-inactive-or-contain-errors_1.jpg)
+![locateURL1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/projects-and-integrations/integration-with-monitoring-tools/how-to-find-google-indexed-urls-that-are-inactive-or-contain-errors_1.jpg)
 
 Click on **Tracking** and then on **Tracking Errors** as shown below:
 
-![locateURL2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/projects-and-integrations/integration-with-monitoring-tools/how-to-find-google-indexed-urls-that-are-inactive-or-contain-errors_2.jpg)
+![locateURL2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/projects-and-integrations/integration-with-monitoring-tools/how-to-find-google-indexed-urls-that-are-inactive-or-contain-errors_2.jpg)
 
 In this area, you will be able to view when the error occurred, the corresponding URL, and the type of error. Now, you will be able to export a worksheet (\*.csv).
 
-![locateURL3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/projects-and-integrations/integration-with-monitoring-tools/how-to-find-google-indexed-urls-that-are-inactive-or-contain-errors_3.jpg)
-![locateURL4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/projects-and-integrations/integration-with-monitoring-tools/how-to-find-google-indexed-urls-that-are-inactive-or-contain-errors_4.jpg)
+![locateURL3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/projects-and-integrations/integration-with-monitoring-tools/how-to-find-google-indexed-urls-that-are-inactive-or-contain-errors_3.jpg)
+![locateURL4](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/projects-and-integrations/integration-with-monitoring-tools/how-to-find-google-indexed-urls-that-are-inactive-or-contain-errors_4.jpg)
 
 You will be able to include these links in the worksheet by referring to Home or collection, whichever is more appropriate to your store. After correcting these links, go back to the Web Master Tools and click on **Tracking** and then on **Tracking Errors**.
 
-![locateURL5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/projects-and-integrations/integration-with-monitoring-tools/how-to-find-google-indexed-urls-that-are-inactive-or-contain-errors_5.jpg)
+![locateURL5](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/projects-and-integrations/integration-with-monitoring-tools/how-to-find-google-indexed-urls-that-are-inactive-or-contain-errors_5.jpg)

@@ -27,7 +27,7 @@ Ahora, los usuarios sólo verán los ítems del menú de la barra lateral a los 
 
 La imagen a continuación ilustra cómo la barra lateral cambiaría al aplicar esta modificación de mantenimiento para mejorar la seguridad y la experiencia de usuario de su tienda.
 
-![ES Sidebar permissions announcement screenshot](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2021/mayo/2021-05-03-la-navegacion-en-el-admin-ahora-estara-restringida-segun-el-perfil-de-acceso_1.png)
+![ES Sidebar permissions announcement screenshot](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/announcements/2021/mayo/2021-05-03-la-navegacion-en-el-admin-ahora-estara-restringida-segun-el-perfil-de-acceso_1.png)
 
 ## ¿Por qué realizamos este cambio?
 

@@ -31,7 +31,7 @@ Aqui, a propriedade comum dos clientes é que eles também são funcionários da
 Este artigo assume que os colaboradores estão devidamente registrados com um campo booleano `é funcionário` definido como verdadeiro em seus respectivos documentos para a entidade de dados CL, como demonstrado na figura abaixo. 
 
 Caso contrário, verifique o artigo [Criando um campo no Master Data](/pt/tutorial/como-crio-um-campo-no-master-data--frequentlyAskedQuestions_1829) para criar um campo que identifique os funcionários e configure-o adequadamente para cada documento correspondente aos funcionários.
-![Campo do colaborador](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/master-data/gest%C3%A3o-de-clientes/configurar-beneficios-para-funcionarios-usando-master-data-clusters_1.png)
+![Campo do colaborador](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/master-data/gest%C3%A3o-de-clientes/configurar-beneficios-para-funcionarios-usando-master-data-clusters_1.png)
 
 > ℹ️ São muitos os detalhes para configurar uma promoção. Se você precisar de informações adicionais sobre este assunto, consulte o artigo [Criar promoções](/pt/tutorial/como-criar-promocoes--tutorials_320).
 
@@ -46,4 +46,4 @@ Com o campo configurado, a promoção pode ser criada seguindo os passos abaixo:
 7. No final da página, clique no botão **Salvar***.
 
 Depois disso, a promoção já funcionará conforme configurada. O desconto é mostrado apenas no carrinho de compras. A imagem abaixo mostra um exemplo com 99% de desconto.
-![carrinho de compras com desconto](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/master-data/gest%C3%A3o-de-clientes/configurar-beneficios-para-funcionarios-usando-master-data-clusters_2.png)
+![carrinho de compras com desconto](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/master-data/gest%C3%A3o-de-clientes/configurar-beneficios-para-funcionarios-usando-master-data-clusters_2.png)

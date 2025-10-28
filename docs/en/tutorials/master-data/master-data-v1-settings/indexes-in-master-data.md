@@ -56,11 +56,11 @@ If only one field is configured as an index, the alternative key will not allow 
 
 For example, the **Customer** table has two columns: **ID** and **Name**. To make searching easier, the **Name** field (`firstName`) can be configured as an index and marked as **Unique values**, as illustrated below:
 
-![indices-1-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/master-data/master-data-v1-settings/indexes-in-master-data_1.png)
+![indices-1-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/master-data/master-data-v1-settings/indexes-in-master-data_1.png)
 
 As a result, it will not be possible to enter a name that has already been entered in **Customer**:
 
-![indices-2-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/master-data/master-data-v1-settings/indexes-in-master-data_2.png)
+![indices-2-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/master-data/master-data-v1-settings/indexes-in-master-data_2.png)
 
 In the example above, as there is already a record with the **Name** equal to **Mary**, you cannot add another one with the same value.
 
@@ -72,11 +72,11 @@ If there is more than one field in the index, the alternative key will prevent a
 
 For example, imagine that the **Customer** entity has three fields: **ID**, **Name** and **Document**. In the index configuration, under **Fields**, you enter Name (`firstName`) and Document (`document`), as shown below:
 
-![indices-3-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/master-data/master-data-v1-settings/indexes-in-master-data_3.png)
+![indices-3-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/master-data/master-data-v1-settings/indexes-in-master-data_3.png)
 
 In this case, the **Name** value can be repeated, or the **Document** value can be repeated, but the combination of the two values cannot be repeated. In other words, there can be no record that repeats the same pair of values (such as identical **Name** and **Document**).
 
-![indices-4-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/master-data/master-data-v1-settings/indexes-in-master-data_4.png)
+![indices-4-en](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/master-data/master-data-v1-settings/indexes-in-master-data_4.png)
 
 In the example above, there is already a record with the **Name** as **Mary**. You can include another record with the same **Name** as long as the **Document** value is different.
 

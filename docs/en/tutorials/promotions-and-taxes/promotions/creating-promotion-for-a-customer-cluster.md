@@ -52,9 +52,9 @@ In the configuration below, for example, only `employee` entries with the value 
 
 You could also configure `employee=false`, where only `employee` entries with the value `false` in the field would receive the promotion.
 
-![Campo funcionário Master Data EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/creating-promotion-for-a-customer-cluster_1.png)
+![Campo funcionário Master Data EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/creating-promotion-for-a-customer-cluster_1.png)
 
-![Cluster de clientes EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/creating-promotion-for-a-customer-cluster_2.png)
+![Cluster de clientes EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/creating-promotion-for-a-customer-cluster_2.png)
 
 Given a field of type **[Varchar](/en/tutorial/criando-entidade-de-dados--tutorials_1265)**, we could configure `employee="yes"` so that only customers with the value `"yes"` in the field receive the promotion.
 
@@ -68,8 +68,8 @@ The expression `{propertyname} contains {"value"}` must be used when the informa
 
 For example, if you want to create a cluster with only customers whose emails contain `@test.com`, the configuration will follow the example below.
 
-![Campo Email Master Data](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/creating-promotion-for-a-customer-cluster_3.png)
+![Campo Email Master Data](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/creating-promotion-for-a-customer-cluster_3.png)
 
-![cluster email EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/creating-promotion-for-a-customer-cluster_4.png)
+![cluster email EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/promotions-and-taxes/promotions/creating-promotion-for-a-customer-cluster_4.png)
 
 In this case, `email contains test.com` will be `true`, for example, when the value is `john@test.com`, and `false` when the value is `john@test.org`.

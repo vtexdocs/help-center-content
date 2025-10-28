@@ -23,7 +23,7 @@ El [comercio unificado](/es/tracks/estrategias-de-comercio-unificado--3WGDRRhc3v
 
 Las [cuentas franquicia](/es/tutorial/what-is-a-franchise-account--kWQC6RkFSCUFGgY5gSjdl) son cuentas asociadas a una [cuenta principal](/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl). Las empresas que tienen varias tiendas físicas, franquicia o multimarca pueden crear cuentas franquicia vinculadas a la cuenta principal de la marca.
 
-![cuenta principal](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/gu%C3%ADa-de-onboarding/proximos-pasos-tras-el-go-live/comercio-unificado_1.png)
+![cuenta principal](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/gu%C3%ADa-de-onboarding/proximos-pasos-tras-el-go-live/comercio-unificado_1.png)
 
 Este modelo comparte la información del catálogo y [storefront](/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ), permitiendo que el stock de las cuentas franquicia esté disponible para la venta en la cuenta principal y que se puedan utilizar varias estrategias de comercio unificado, tales como [envío desde la tienda](#envio-desde-la-tienda), [tiendas físicas como puntos de recogida](#punto-de-recogida) y [pasillo infinito](/es/tracks/serie-de-la-tienda-vtex--3J7WFZyvTcoiwkcIVFVhIS/1t2QBZvrOBSLgvHaAV9fYm).
 

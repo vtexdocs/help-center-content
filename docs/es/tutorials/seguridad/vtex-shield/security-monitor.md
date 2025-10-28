@@ -24,7 +24,7 @@ Para acceder al dashboard sigue los pasos a continuación:
 1. En el Admin VTEX, accede a **Dashboards**, o ingresa **Dashboards** en la barra de búsqueda.
 2. En **Security Monitor**, haz clic en **Security Monitor Dashboard**.
 
-![1-security-monitor-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/seguridad/vtex-shield/security-monitor_1.png)
+![1-security-monitor-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/seguridad/vtex-shield/security-monitor_1.png)
 
 Security Monitor presenta los resultados en tres pestañas, divididas por status:
 
@@ -47,7 +47,7 @@ La pestaña **Abiertos** muestra las amenazas identificadas por Security Monitor
 
 La barra superior muestra el número total de hallazgos y el número de amenazas por nivel de gravedad (alto, medio o bajo).
 
-![2-findings-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/seguridad/vtex-shield/security-monitor_2.png)
+![2-findings-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/seguridad/vtex-shield/security-monitor_2.png)
 
 La pestaña muestra la lista completa de hallazgos abiertos en una tabla, del más reciente al más antiguo: 
 
@@ -78,7 +78,7 @@ Para mover un hallazgo a la pestaña **Pospuestos**, es decir, removerlo de la p
 3. Elige el periodo de tiempo, en días, durante el cual deseas mantener este hallazgo en la pestaña **Pospuestos**. Las opciones disponibles son: **7**, **90** o **120** días.
 4. Haz clic en `Posponer`.
 
-![3-snooze-finding-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/seguridad/vtex-shield/security-monitor_3.png)
+![3-snooze-finding-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/seguridad/vtex-shield/security-monitor_3.png)
 
 ## Pospuestos
 
@@ -107,7 +107,7 @@ En la barra de búsqueda, ingresa la dirección de email del usuario o el nombre
 
 Al hacer clic en `Tipo` <i class="fas fa-chevron-down"></i>, puedes elegir uno de los tipos de hallazgo para filtrar los resultados mostrados en la lista. Haz clic en `Aplicar` para confirmar el filtro elegido y la lista se actualizará.
 
-![4-filter-findings-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/seguridad/vtex-shield/security-monitor_4.png)
+![4-filter-findings-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/seguridad/vtex-shield/security-monitor_4.png)
 
 ## Exportar hallazgos
 
@@ -151,7 +151,7 @@ Para editar aquellos usuarios administrativos que recibirán notificaciones en c
    Para remover un usuario, haz clic en la `X` junto al email relacionado.
 3. Haz clic en `Guardar`.
 
-![5-edit-notifications-es](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/seguridad/vtex-shield/security-monitor_5.png)
+![5-edit-notifications-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/seguridad/vtex-shield/security-monitor_5.png)
 
 ## Más información
 

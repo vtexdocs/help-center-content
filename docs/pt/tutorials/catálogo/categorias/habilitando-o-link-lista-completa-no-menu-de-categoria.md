@@ -20,7 +20,7 @@ O link de **Lista Completa** no menu de categorias é muito usado em lojas que 
 
 Como, por exemplo, no caso abaixo, o "Departamento 2" :
 
-![categoria.pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/cat%C3%A1logo/categorias/habilitando-o-link-lista-completa-no-menu-de-categoria_1.png)
+![categoria.pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/cat%C3%A1logo/categorias/habilitando-o-link-lista-completa-no-menu-de-categoria_1.png)
 
 De todas as categorias, a loja preferiu exibir no menu somente algumas.
 
@@ -29,5 +29,5 @@ Esta configuração é feita no cadastro de categoria, na opção **Menu com lin
 - Se tiver marcada, a categoria aparece no menu.
 - Se não tiver marcada, a categoria não aparece e é mostrado opção  Lista Completa no site.
 
-![categoria2.pt](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/cat%C3%A1logo/categorias/habilitando-o-link-lista-completa-no-menu-de-categoria_2.png)
+![categoria2.pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/cat%C3%A1logo/categorias/habilitando-o-link-lista-completa-no-menu-de-categoria_2.png)
 

@@ -27,11 +27,11 @@ Para configurar o [Chrome DevTools](https://developer.chrome.com/docs/devtools/)
 1. Abra o [Google Chrome](https://www.google.com/intl/pt-BR/chrome/) no seu computador.
 2. Clique no botão `F12` do seu teclado ou com o botão direito do mouse em qualquer lugar da tela e selecione **Inspecionar**.
 3. Clique nos três pontos verticais na parte superior direita da página, conforme indicado na imagem abaixo.
-![Customizations1 - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/shopping/como-bloquear-customizacoes-para-investigar-problemas-no-front-end-da-loja_1.png)
+![Customizations1 - PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/shopping/como-bloquear-customizacoes-para-investigar-problemas-no-front-end-da-loja_1.png)
 4. Selecione **Mais ferramentas** e, em seguida, **Bloqueios de solicitação de rede** para bloquear todas as customizações feitas via CSS, JavaScript e Google Tag Manager. 
-![Customizations2 - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/shopping/como-bloquear-customizacoes-para-investigar-problemas-no-front-end-da-loja_2.png)
+![Customizations2 - PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/shopping/como-bloquear-customizacoes-para-investigar-problemas-no-front-end-da-loja_2.png)
 5. A aba **Bloqueios de solicitação de rede** abrirá em seguida como mostra a imagem abaixo:
-![Customizations3 - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/shopping/como-bloquear-customizacoes-para-investigar-problemas-no-front-end-da-loja_3.png)
+![Customizations3 - PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/shopping/como-bloquear-customizacoes-para-investigar-problemas-no-front-end-da-loja_3.png)
 6. Clique em `Adicionar padrão` para definir o primeiro recursos será bloqueado. Para adicionar mais recursos, clique em `+` e, depois de defini-lo, clique em `Adicionar`. Essa configuração precisa ser feita apenas uma vez no seu navegador. Inclua os itens abaixo:
 
  * `*/arquivos/*.js`
@@ -40,7 +40,7 @@ Para configurar o [Chrome DevTools](https://developer.chrome.com/docs/devtools/)
  * `*/files/*.css`
  * `*gtm.js*`
 
-![Customizations4 - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/shopping/como-bloquear-customizacoes-para-investigar-problemas-no-front-end-da-loja_4.png)
+![Customizations4 - PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/faq/shopping/como-bloquear-customizacoes-para-investigar-problemas-no-front-end-da-loja_4.png)
 <ol start ="7">
 <li>Marque a opção **Ativar bloqueio de solicitação de rede** e habilite todos os checkboxes abaixo. Essa será a configuração que ficará definida por padrão, com todas as opções habilitadas para bloqueio.</li>
 <li>Agora atualize a página. Ela será exibida sem os componentes customizados.</li>

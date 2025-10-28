@@ -23,17 +23,17 @@ Caso contrário, as páginas indexadas pelo Google com o conteúdo antigo serão
 
 Você precisará acessar sua conta no Web Master Tools do Google. Lá você poderá verificar os números de páginas com erros.
 
-![locateURL1](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/projetos-e-integra%C3%A7%C3%B5es/integra%C3%A7%C3%A3o-com-ferramentas-de-monitoramento/como-localizar-urls-indexadas-pelo-google-que-estao-inativas-ou-com-erros_1.jpg)
+![locateURL1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/projetos-e-integra%C3%A7%C3%B5es/integra%C3%A7%C3%A3o-com-ferramentas-de-monitoramento/como-localizar-urls-indexadas-pelo-google-que-estao-inativas-ou-com-erros_1.jpg)
 
 Clique em **Rastreamento** e depois em **Erros de Rastreamentos**, como na imagem abaixo:
 
-![locateURL2](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/projetos-e-integra%C3%A7%C3%B5es/integra%C3%A7%C3%A3o-com-ferramentas-de-monitoramento/como-localizar-urls-indexadas-pelo-google-que-estao-inativas-ou-com-erros_2.jpg)
+![locateURL2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/projetos-e-integra%C3%A7%C3%B5es/integra%C3%A7%C3%A3o-com-ferramentas-de-monitoramento/como-localizar-urls-indexadas-pelo-google-que-estao-inativas-ou-com-erros_2.jpg)
 
 Nessa área você poderá visualizar quando ocorreu o erro, com qual URL, e qual é o erro apresentado. Você então poderá exportar uma planilha (\*.csv)
 
-![locateURL3](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/projetos-e-integra%C3%A7%C3%B5es/integra%C3%A7%C3%A3o-com-ferramentas-de-monitoramento/como-localizar-urls-indexadas-pelo-google-que-estao-inativas-ou-com-erros_3.jpg)
-![locateURL4](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/projetos-e-integra%C3%A7%C3%B5es/integra%C3%A7%C3%A3o-com-ferramentas-de-monitoramento/como-localizar-urls-indexadas-pelo-google-que-estao-inativas-ou-com-erros_4.jpg)
+![locateURL3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/projetos-e-integra%C3%A7%C3%B5es/integra%C3%A7%C3%A3o-com-ferramentas-de-monitoramento/como-localizar-urls-indexadas-pelo-google-que-estao-inativas-ou-com-erros_3.jpg)
+![locateURL4](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/projetos-e-integra%C3%A7%C3%B5es/integra%C3%A7%C3%A3o-com-ferramentas-de-monitoramento/como-localizar-urls-indexadas-pelo-google-que-estao-inativas-ou-com-erros_4.jpg)
 
 Você poderá incluir esses links na planilha, fazendo referência à Home, ou coleção, o que for mais adequado à sua loja. Após a correção desses links você precisará voltar ao Web Master Tools, clicar em **Rastreamento** e depois em **Erros de Rastreamentos**.
 
-![locateURL5](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/projetos-e-integra%C3%A7%C3%B5es/integra%C3%A7%C3%A3o-com-ferramentas-de-monitoramento/como-localizar-urls-indexadas-pelo-google-que-estao-inativas-ou-com-erros_5.jpg)
+![locateURL5](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/projetos-e-integra%C3%A7%C3%B5es/integra%C3%A7%C3%A3o-com-ferramentas-de-monitoramento/como-localizar-urls-indexadas-pelo-google-que-estao-inativas-ou-com-erros_5.jpg)

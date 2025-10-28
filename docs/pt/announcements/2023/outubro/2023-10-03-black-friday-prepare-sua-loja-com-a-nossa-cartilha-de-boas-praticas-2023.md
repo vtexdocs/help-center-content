@@ -27,4 +27,4 @@ https://{accountName}.myvtex.com/admin/shopping-season
 
 Basta substituir `{accountName}` pelo Account Name da sua loja, como na imagem abaixo.
 
-![Shopping Season Guidelines - 2023 - PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2023/outubro/2023-10-03-black-friday-prepare-sua-loja-com-a-nossa-cartilha-de-boas-praticas-2023_1.png)
+![Shopping Season Guidelines - 2023 - PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2023/outubro/2023-10-03-black-friday-prepare-sua-loja-com-a-nossa-cartilha-de-boas-praticas-2023_1.png)

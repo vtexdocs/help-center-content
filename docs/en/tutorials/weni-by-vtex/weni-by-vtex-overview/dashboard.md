@@ -19,7 +19,7 @@ subcategoryId: 6c1i8fEiPg5ZMZQiEE52fX
 
 After logging into your organization and project, you will have access to this screen:
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/weni-by-vtex-overview/dashboard_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/weni-by-vtex-overview/dashboard_1.png)
 
 Let's go through a quick explanation of each menu:
 
@@ -35,7 +35,7 @@ Let's go through a quick explanation of each menu:
 
 ##### In addition to the main side menu, the home screen has other features.
 
-![](https://raw.githubusercontent.com/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/weni-by-vtex-overview/dashboard_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/weni-by-vtex-overview/dashboard_2.png)
 
 1. **Learning Center**: Here you will find learning resources related to the Weni Platform.
 2. **News**: In this tab, you'll find updates about the Weni Platform and other activities within the entire organization, not just the project.
