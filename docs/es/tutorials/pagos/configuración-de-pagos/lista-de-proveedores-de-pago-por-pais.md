@@ -19,5 +19,5 @@ VTEX ofrece la posibilidad de varios [proveedores de pago](/es/tutorial/afiliaco
 
 Para identificar las opciones disponibles, ingrese el nombre del país, el proveedor de pago o la disponibilidad de Split de Cobros (Sí/No) en el campo **Search** de la a continuación. También puede optar por mostrar 10, 25, 50 o 100 resultados por página seleccionando el campo **Show Entries**.
 
-<iframe src="https://vtexhelp.myvtex.com/en/tables/payments/es" loading="lazy" title="Lista de Proveedores de Pago por País" width="140%" height="800" style="border:none;"></iframe>
+<iframe src="https://vtexhelp.myvtex.com/tables/payments/es" loading="lazy" title="Lista de Proveedores de Pago por País" width="140%" height="800" style="border:none;"></iframe>
 

@@ -19,5 +19,5 @@ A VTEX oferece a possibilidade de diversos [provedores de pagamento](/pt/tutoria
 
 Para identificar as opções disponíveis, clique em **Search** e digite o nome do país, provedor de pagamento ou disponibilidade do Split de Recebíveis (Sim/Não). Você também pode optar por exibir 10, 25, 50 ou 100 resultados por página, selecionando o campo **Show Entries**.
 
-<iframe src="https://vtexhelp.myvtex.com/en/tables/payments/pt" loading="lazy" title="Lista de Provedores de Pagamento por País" width="140%" height="800" style="border:none;"></iframe>
+<iframe src="https://vtexhelp.myvtex.com/tables/payments/pt" loading="lazy" title="Lista de Provedores de Pagamento por País" width="140%" height="800" style="border:none;"></iframe>
 
