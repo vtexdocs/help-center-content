@@ -3,8 +3,8 @@ title: 'Dicionário VTEX Data Pipeline'
 id: 69hMoE2woVw14nWR3ujVto
 status: PUBLISHED
 createdAt: 2024-02-01T18:51:29.281Z
-updatedAt: 2025-03-07T11:30:02.614Z
-publishedAt: 2025-03-07T11:30:02.614Z
+updatedAt: 2025-10-29T21:32:20.776Z
+publishedAt: 2025-10-29T21:32:20.776Z
 firstPublishedAt: 2024-05-27T19:26:59.681Z
 contentType: tutorial
 productTeam: Others
@@ -53,3 +53,4 @@ Os conjuntos de dados disponíveis são os seguintes:
 - [Vale-presente](/pt/tutorial/vale-presente-data-pipeline--4XAnyc4scy3OG6RdnD7OEf)
 - [Logs do Bridge](/pt/tutorial/logs-do-bridge-data-pipeline--2RFVJZL19nsWBSB4IXA0Z)
 - [Marketplace in](/pt/tutorial/marketplace-in-data-pipeline--4L3hlSqsnxGqVyxmoYvjTV)
+- [Disponibilidade de carrinho](/pt/tutorial/disponibilidade-de-carrinho-data-pipeline--1TU6rsMUlwmSoVVLs6Oom0)
