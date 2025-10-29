@@ -17611,6 +17611,21 @@
                 },
                 {
                   "name": {
+                    "en": "Intelligent Search: Semantic search (Beta)",
+                    "es": "Intelligent Search: Búsqueda semántica (Beta)",
+                    "pt": "Intelligent Search: Busca semântica (Beta)"
+                  },
+                  "slug": {
+                    "en": "intelligent-search-semantic-search-beta",
+                    "es": "intelligent-search-busca-semantica-beta",
+                    "pt": "intelligent-search-busca-semantica-beta"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
                     "en": "VTEX Intelligent Search: Multilanguage settings (Beta)",
                     "es": "VTEX Intelligent Search: configuración Multidioma (Beta)",
                     "pt": "VTEX Intelligent Search: configurações Multi-idioma (Beta)"
@@ -17909,6 +17924,21 @@
                     "en": "bridge-logs-data-pipeline",
                     "es": "registros-del-bridge-data-pipeline",
                     "pt": "logs-do-bridge-data-pipeline"
+                  },
+                  "origin": "",
+                  "type": "markdown",
+                  "children": []
+                },
+                {
+                  "name": {
+                    "en": "Cart Availability Data Pipeline",
+                    "es": "Disponibilidad de carrito Data Pipeline",
+                    "pt": "Disponibilidade de carrinho Data Pipeline"
+                  },
+                  "slug": {
+                    "en": "cart-availability-data-pipeline",
+                    "es": "disponibilidad-de-carrito-data-pipeline",
+                    "pt": "disponibilidade-de-carrinho-data-pipeline"
                   },
                   "origin": "",
                   "type": "markdown",
