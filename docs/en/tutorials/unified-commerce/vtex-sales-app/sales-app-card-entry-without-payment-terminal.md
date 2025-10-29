@@ -19,6 +19,8 @@ The **Sales App card entry** feature allows the store to sell using credit cards
 
 This feature ensures the purchase is processed through the same gateway as the ecommerce website, applying the existing checkout settings. After the sale, the payment confirmation is done through **VTEX Sales App**.
 
+> ⚠️ This feature is temporarily unavailable for new customer adoption. Only stores that are already using the **Sales App card entry** solution can continue using the feature. If you are already an active customer, this documentation will remain available to support your use of the feature.
+
 This article introduces the solution **Sales App card entry** and is organized in the following sections:
 
 - [Characteristics](#characteristics)
@@ -63,6 +65,8 @@ If the store has a [trade policy](/en/tutorial/como-funciona-uma-politica-comerc
 ## Settings
 
 The settings required to activate the feature differ for stores that already use **VTEX Sales App** or will start using the solution.
+
+> ⚠️ This feature is temporarily unavailable for new customer adoption. Only stores that are already using the **Sales App card entry** solution can continue using the feature. If you are already an active customer, this documentation will remain available to support your use of the feature.
 
 > ⚠️ Before enabling the feature, make sure that the store is integrated with a payment partner and can process credit card sales.
 
