@@ -3,8 +3,8 @@ title: 'Pago con tarjeta vía VTEX Sales App (sin terminal)'
 id: 48OR7InFvdLW6hekvfESs3
 status: PUBLISHED
 createdAt: 2025-03-28T15:33:24.822Z
-updatedAt: 2025-04-10T19:05:57.726Z
-publishedAt: 2025-04-10T19:05:57.726Z
+updatedAt: 2025-10-29T20:05:52.877Z
+publishedAt: 2025-10-29T20:05:52.877Z
 firstPublishedAt: 2025-03-28T16:09:38.187Z
 contentType: tutorial
 productTeam: Shopping
@@ -17,7 +17,7 @@ subcategoryId: 4T6qfa6gNO6g4sAUIa6s2G
 
 La funcionalidad **Pago con tarjeta vía Sales App** permite que la tienda realice ventas mediante tarjetas de crédito, pero sin necesidad de terminales de pago. La solución posibilita el pago con tarjeta a través de **VTEX Sales App** y permite el escaneo automático de la tarjeta o el ingreso manual de los datos. El proceso es seguro, ya que los datos se enmascaran y la información no se almacena.
 
-Con esta funcionalidad, la compra se procesa a través del mismo gateway de la tienda de ecommerce, lo que garantiza que su configuración de checkout se mantenga válida. Una vez completada la venta, la confirmación del pago se realiza a través de la propia **VTEX Sales App**.
+Con esta funcionalidad, la compra se procesa a través del mismo gateway de la tienda de ecommerce, lo que garantiza que su configuración de checkout se mantenga válida. Una vez completada la venta, la confirmación del pago se realiza a través de la propia **VTEX Sales App.**
 
 > ⚠️ Esta funcionalidad está temporalmente indisponible para la adhesión de nuevos clientes. Solo los clientes que ya están utilizando activamente la solución **Pago con tarjeta vía Sales App** podrán seguir usando la funcionalidad. Si ya eres un cliente activo, esta documentación seguirá disponible para apoyar el uso de la funcionalidad.
 
