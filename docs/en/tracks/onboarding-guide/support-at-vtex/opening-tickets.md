@@ -27,7 +27,7 @@ You can open tickets with VTEX Support related to:
 - [Financial support](/en/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/3g2mhmPDx5GszNgLDICzsl): Get help with agreement or billing issues regarding the store and VTEX.
 - [Commercial support](/en/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ): Request additional [trade policies](/en/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ#requesting-an-additional-trade-policy), [environments](/en/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ#requesting-a-new-environment), franchise accounts, or changes to the [main user](/en/tutorial/o-que-e-o-usuario-titular--3oPr7YuIkEYqUGmEqIMSEy).
 
-> ℹ️ Learn more about how to open a ticket in the article  [Opening tickets with VTEX Support. ](/en/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM)
+> ℹ️ Learn more about how to open a ticket in the article [Opening tickets with VTEX Support.](/en/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM)
 
 ## Accessing Copilot
 [Copilot](/en/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM#2-acessar-o-copilot) is a tool integrated into the platform that streamlines technical support. It allows you to solve questions and identify problems by providing automatic guidance.

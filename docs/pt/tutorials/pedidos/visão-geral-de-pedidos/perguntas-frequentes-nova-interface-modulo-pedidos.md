@@ -26,7 +26,7 @@ A partir de 1 de fevereiro de 2023, a nova interface será o padrão de todas as
 
 Você pode visualizar a correspondência de seções e campos entre a versão antiga da página **Detalhes do pedido** e a nova versão na imagem abaixo:
 
-![board_comparativo_interface_pedido_v2_pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pedidos/vis%C3%A3o-geral-de-pedidos/perguntas-frequentes-nova-interface-modulo-pedidos_1.png)
+![board_comparativo_interface_pedido_v2_pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pedidos/visão-geral-de-pedidos/perguntas-frequentes-nova-interface-modulo-pedidos_1.png)
 
 ## O que aconteceu com o filtro de busca de seis meses?
 
@@ -36,17 +36,17 @@ O filtro de seis meses foi substituído pela busca sem limite de data, que retor
 
 Para buscar em todos os pedidos, digite o termo desejado na caixa de busca. Isso fará com que a opção <i class="fas fa-toggle-off"></i> `Remover limite de datas` se torne visível. Depois basta ativá-la e isso dará início à busca.
 
-![busca_sem_limite_data_all_pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pedidos/vis%C3%A3o-geral-de-pedidos/perguntas-frequentes-nova-interface-modulo-pedidos_2.png)
+![busca_sem_limite_data_all_pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pedidos/visão-geral-de-pedidos/perguntas-frequentes-nova-interface-modulo-pedidos_2.png)
 
 ## Como visualizar o diagrama de fluxo do pedido?
 
 Na nova interface, por padrão, o que é exibido é uma linha tempo com os eventos de **Status do pedido**, como na imagem abaixo:
 
-![timeline_pedido_pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pedidos/vis%C3%A3o-geral-de-pedidos/perguntas-frequentes-nova-interface-modulo-pedidos_3.png)
+![timeline_pedido_pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pedidos/visão-geral-de-pedidos/perguntas-frequentes-nova-interface-modulo-pedidos_3.png)
 
 Caso você deseje ver o **Diagrama do pedido** como na interface antiga, clique em `Ver diagrama` e um modal como o da imagem abaixo vai aparecer:
 
-![diagrama_pedido_pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pedidos/vis%C3%A3o-geral-de-pedidos/perguntas-frequentes-nova-interface-modulo-pedidos_4.png)
+![diagrama_pedido_pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pedidos/visão-geral-de-pedidos/perguntas-frequentes-nova-interface-modulo-pedidos_4.png)
 
 ## Como faturar o pedido?
 
@@ -54,7 +54,7 @@ Na seção **Itens a faturar** da nova interface, todas as ações relacionadas 
 
 * **Enviar nota fiscal referenciando itens:** esta opção é exclusiva da nova interface. Por meio dela, é possível emitir a nota fiscal total ou parcial de determinados itens, que são identificados por SKU, estoque e preço. Veja um exemplo na imagem a seguir:
 
-![faturar_referenciar_pedidos_final_pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pedidos/vis%C3%A3o-geral-de-pedidos/perguntas-frequentes-nova-interface-modulo-pedidos_5.png)
+![faturar_referenciar_pedidos_final_pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pedidos/visão-geral-de-pedidos/perguntas-frequentes-nova-interface-modulo-pedidos_5.png)
 
 * **Enviar nota fiscal avulsa:** a opção corresponde ao antigo _Enviar nota fiscal_ e permite faturar o valor total ou parcial do pedido. A apresentação da página é diferente, mas os campos permanecem os mesmos.
 
@@ -73,7 +73,7 @@ Na nova interface, dentro da seção **Histórico do pedido**, existe uma linha 
 
 Para reenviar um email para o cliente, clique no evento de email enviado ou no ícone seta <i class="fas fa-angle-right"></i> para ver os detalhes do evento, que vão aparecer como na imagem a seguir:
 
-![enviar_email_pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pedidos/vis%C3%A3o-geral-de-pedidos/perguntas-frequentes-nova-interface-modulo-pedidos_6.png)
+![enviar_email_pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pedidos/visão-geral-de-pedidos/perguntas-frequentes-nova-interface-modulo-pedidos_6.png)
 
 Clique sobre o botão `Reenviar email` e o email será imediatamente enviado ao cliente, sendo que a seguinte mensagem de confirmação deve aparecer: _Email reenviado ao cliente com sucesso_.
 

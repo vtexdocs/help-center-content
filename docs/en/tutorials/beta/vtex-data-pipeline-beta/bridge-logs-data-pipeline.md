@@ -62,7 +62,7 @@ Here are some of the analyses you can perform using the Bridge table:
 
 ## Correlations with other data
 
-Bridge data closely ties with order data, providing a comprehensive analysis of purchases and sales. Here are an  examples:
+Bridge data closely ties with order data, providing a comprehensive analysis of purchases and sales. Here are an examples:
 
 - **Comprehensive analysis of orders made through external marketplaces:** Integrating this data model with the orders data provides a complete view of orders sold via Marketplace Out scenarios. Use the order_id to join both tables.
 

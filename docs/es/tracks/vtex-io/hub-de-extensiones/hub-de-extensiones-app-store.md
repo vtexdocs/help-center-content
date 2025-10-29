@@ -19,7 +19,7 @@ App Store es la página del Admin VTEX donde puedes buscar, visualizar y obtener
 
 ## Página de inicio
 
-Al entrar en la tienda estarás en la página de inicio,  con las siguientes opciones disponibles: 
+Al entrar en la tienda estarás en la página de inicio, con las siguientes opciones disponibles: 
 
 ![Extensions Hub App Store página de inicio](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/vtex-io/hub-de-extensiones/hub-de-extensiones-app-store_1.png)
 
@@ -67,6 +67,6 @@ El costo de una aplicación puede ser:
 
 - Gratis.
 - Un valor fijo mensual.
-- O presentar condiciones específicas,  que pueden incluir el número de mensajes SMS enviados o el tiempo de retransmisión en vivo, entre otros factores.
+- O presentar condiciones específicas, que pueden incluir el número de mensajes SMS enviados o el tiempo de retransmisión en vivo, entre otros factores.
 
 Los costos se añadirán automáticamente a tu [factura VTEX](/es/tutorial/vision-general-facturacion--6UxfCl4fw4GmyQwoUuIcQs) poco después de comprar la aplicación.

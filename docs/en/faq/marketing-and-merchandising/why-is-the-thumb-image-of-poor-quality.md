@@ -22,7 +22,7 @@ To perform this configuration:
 1. Go to **Store setup** > **CMS** > **Settings**.
 2. Go to the **File type** tab. 
 3. Click **Edit** on the `Produto - Thumb` row.
-4. In the display, you can choose the maximum file size  for the thumbnails in the **Maximum size in Kb** field.
+4. In the display, you can choose the maximum file size for the thumbnails in the **Maximum size in Kb** field.
 
 ![File type settings in CMS](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/faq/marketing-and-merchandising/why-is-the-thumb-image-of-poor-quality_1.PNG)
 

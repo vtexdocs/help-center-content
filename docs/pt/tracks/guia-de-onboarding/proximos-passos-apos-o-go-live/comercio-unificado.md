@@ -30,7 +30,7 @@ Outras vantagens em operar com contas franquia estão listadas a seguir:
 - Contas exclusivas para cada loja, permitindo melhor gestão do acesso de colaboradores.
 - Melhor gerenciamento e escalabilidade de recursos devido ao cadastro de docas e estoques para cada loja.
 - Gestão de promoções específicas para cada conta, sem a obrigatoriedade de contratar uma nova [política comercial](/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV).
-- Possibilidade de pagamento no ambiente da conta principal ou da franquia ([split de pagamento](/pt/tutorial/split-de-pagamento--6k5JidhYRUxileNolY2VLx)/pedido).
+- Possibilidade de pagamento no ambiente da conta principal ou da franquia ( [split de pagamento](/pt/tutorial/split-de-pagamento--6k5JidhYRUxileNolY2VLx) /pedido).
 - [Regionalização de sellers](/pt/tutorial/configurar-a-regionalizacao-de-sellers--32t6wLpQCEnumoh8TjT5fw) (preço e inventário).
 - Aumento na performance operacional por meio da utilização de requisições simultâneas no checkout de cada loja. Em uma conta padrão, onde a [estratégia de envio](/pt/tracks/trilha-geral-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#configuracoes-obrigatorias-em-logistica) é cadastrada na conta principal, as requisições são processadas em fila, gerando um possível acúmulo de requisições e aumento de interrupções (timeout). Sempre que a interrupção ocorre, uma mensagem de erro aparece no checkout e o cliente precisa clicar em F5 ou no botão de atualizar para prosseguir com a compra. Este comportamento gera impacto negativo na experiência do cliente e diminui a taxa de conversão da loja.
 

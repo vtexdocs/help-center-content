@@ -37,7 +37,7 @@ As camisetas são seus __produtos__. Porém, os __tipos__ de camiseta da sua loj
 
 Um cliente não irá comprar apenas uma "Camiseta". Na verdade, a __unidade física do produto__ enviada para o endereço de entrega será, por exemplo, uma "Camiseta Vermelha Tamanho M".
 
-Neste caso, tamanho e cor são especificações que caracterizam o produto. Assim, a __Especificação__ “Tamanho”  tem como valores disponíveis "P", "M" e "G". Já a __Especificação__ "Cor" tem como valores possíveis "Azul", "Vermelho" e "Amarelo".
+Neste caso, tamanho e cor são especificações que caracterizam o produto. Assim, a __Especificação__ “Tamanho” tem como valores disponíveis "P", "M" e "G". Já a __Especificação__ "Cor" tem como valores possíveis "Azul", "Vermelho" e "Amarelo".
 
 ### Eletrodomésticos
 

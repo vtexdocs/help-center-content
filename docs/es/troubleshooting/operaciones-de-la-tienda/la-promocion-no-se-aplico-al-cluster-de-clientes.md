@@ -33,7 +33,7 @@ A continuación se describen algunas soluciones para asegurarte de que la promoc
 
 Para comprobar si un clúster de clientes está asociado a una promoción, sigue los pasos a continuación:
 
-1. En el Admin VTEX, accede a **Promociones > Promociones**, o escribe  **Promociones** en la barra de búsqueda en la parte superior de la página.
+1. En el Admin VTEX, accede a **Promociones > Promociones**, o escribe **Promociones** en la barra de búsqueda en la parte superior de la página.
 
 2. Haz clic en la promoción que deseas verificar.
 

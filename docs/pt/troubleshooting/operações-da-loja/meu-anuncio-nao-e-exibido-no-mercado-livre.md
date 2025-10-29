@@ -40,7 +40,7 @@ Para validar se a política comercial está configurada corretamente no cadastro
 3. Na página de cadastro do produto, valide se a política comercial que atende o Mercado Livre está selecionada.
 4. Caso não esteja, marque a flag da política comercial.
 
-  ![politicas-comerciais-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/troubleshooting/opera%C3%A7%C3%B5es-da-loja/meu-anuncio-nao-e-exibido-no-mercado-livre_1.png)
+  ![politicas-comerciais-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/troubleshooting/operações-da-loja/meu-anuncio-nao-e-exibido-no-mercado-livre_1.png)
 
  5. Clique no botão `Salvar`.
 
@@ -56,10 +56,8 @@ Para validar a configuração do estoque limite, acesse Marketplace > Conexões 
 2. Na linha do card de integração desejado, clique em `Editar`.
 3. Em `Configurações`, verifique se há algum valor atribuído ao campo Estoque limite para pausa de anúncio.
 
-  ![estoque-limite-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/troubleshooting/opera%C3%A7%C3%B5es-da-loja/meu-anuncio-nao-e-exibido-no-mercado-livre_2.png)
+  ![estoque-limite-pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/troubleshooting/operações-da-loja/meu-anuncio-nao-e-exibido-no-mercado-livre_2.png)
 
  4. Certifique-se de que a configuração deste campo está correta, de acordo com o artigo [Controle de estoque mínimo para integrações](/pt/tutorial/controle-de-estoque-minimo-para-integracoes--5hvUNIiSeJ5QCaZQYpYf1D). 
 
-<div style="background-color:#DBEAFE; border-left: 2px solid ##1E3A8A; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px; margin-bottom: 10px">
-Caso seu problema não seja resolvido por uma das soluções propostas, abra um ticket para o [suporte VTEX](/support?/cultureInfo=pt-br).
-</div>
+>ℹ️ Caso seu problema não seja resolvido por uma das soluções propostas, abra um ticket para o [suporte VTEX](https://help.vtex.com/pt/support).

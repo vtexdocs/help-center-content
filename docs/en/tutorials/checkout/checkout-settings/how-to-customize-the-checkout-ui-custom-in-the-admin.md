@@ -35,7 +35,7 @@ In this tab, you can configure the following:
 
 1. **Payment option as accordion:** by enabling this button, the payment methods are displayed in a cascade (accordion) if up to five payment methods are available. When disabled, the payment methods will be displayed in side tabs.
 
-2. **Simplified shipping date:** by enabling this button, the user can view the delivery estimate in date format (e.g., "Monday, 09/18/23").  When disabled, the data provided will be limited to an estimate of the delivery time in days (e.g., "up to 5 working days").
+2. **Simplified shipping date:** by enabling this button, the user can view the delivery estimate in date format (e.g., "Monday, 09/18/23"). When disabled, the data provided will be limited to an estimate of the delivery time in days (e.g., "up to 5 working days").
 
 3. **Show item unit price:** by enabling this button, the user will see both the unit price of each product and the total amount for that product based on the product's quantity. When disabled, only the product's unit price will be displayed.
 

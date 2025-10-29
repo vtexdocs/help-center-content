@@ -16,7 +16,7 @@ legacySlug: como-configurar-multiplas-contas-na-integracao-com-o-mercado-livre
 
 A integração da VTEX com o Mercado Livre dá a opção de configurar múltiplas contas. Desta forma, você pode usar contas diferentes no Mercado Livre trabalhando no mesmo ambiente da VTEX. Assim, você consegue reaproveitar o seu catálogo segmentando o seu mix de produtos, preços e logística da maneira que convir. E ainda, a gestão dos pedidos acontece de maneira unificada através do OMS.
 
-_`Ex:` muitos vendedores fazem isto através de segmentação de marcas. Vamos pensar numa __loja de brinquedos__. Existe a loja A, que vende produtos para o  de 0 à 6 anos, e existe a loja B que vende para o público de 7 à 12 anos. As duas lojas compartilham do mesmo ambiente na VTEX, porém usam contas diferentes e, consequentemente, sites diferentes. Logo, o mesmo catálogo é compartilhado entre as duas marcas, mas o que é disponibilizado nos sites é diferente. Assim como nos sites, a mesma lógica é aplicada ao Mercado Livre. No caso, essas lojas teriam duas contas diferentes no Mercado Livre._
+_`Ex:` muitos vendedores fazem isto através de segmentação de marcas. Vamos pensar numa __loja de brinquedos__. Existe a loja A, que vende produtos para o de 0 à 6 anos, e existe a loja B que vende para o público de 7 à 12 anos. As duas lojas compartilham do mesmo ambiente na VTEX, porém usam contas diferentes e, consequentemente, sites diferentes. Logo, o mesmo catálogo é compartilhado entre as duas marcas, mas o que é disponibilizado nos sites é diferente. Assim como nos sites, a mesma lógica é aplicada ao Mercado Livre. No caso, essas lojas teriam duas contas diferentes no Mercado Livre._
 
 Siga os passos abaixo para realizar esta configuração:
 

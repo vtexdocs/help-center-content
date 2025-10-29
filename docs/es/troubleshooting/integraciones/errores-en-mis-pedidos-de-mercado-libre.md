@@ -31,7 +31,7 @@ Considera las siguientes opciones para corregir los errores de integración en l
 ### Verificar el ID de la tienda oficial en Mercado Libre 
 Si tu tienda tiene el status de [Tienda Oficial](https://www.mercadolibre.com.mx/tiendas-oficiales/catalogo) en Mercado Libre, debes introducir el ID proporcionado por Mercado Libre en el [registro del conector](/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/4YvYdgICMosaEgISOYogsi).
 
-Para validar si el ID ingresado es correcto, ve a **Marketplace > Conexiones > Marketplaces e integraciones**  y sigue los pasos que se indican a continuación:
+Para validar si el ID ingresado es correcto, ve a **Marketplace > Conexiones > Marketplaces e integraciones** y sigue los pasos que se indican a continuación:
 
 1. Busca el conector de **Mercado Libre.**
 2. Haz clic en `Editar`.
@@ -45,7 +45,7 @@ Al realizar el [mapeo de categorías y atributos](/es/tracks/configurar-integrac
 Si alguno de los atributos se rellena incorrectamente, la integración devolverá un error con el siguiente formato:
 `La categoría seleccionada en el atributo category_meli no existe en Mercado Libre.`
 
-Para comprobar las categorías y atributos enviados, accede a **Marketplace > Conexiones > Marketplaces e integraciones**  y sigue los pasos que se indican a continuación:
+Para comprobar las categorías y atributos enviados, accede a **Marketplace > Conexiones > Marketplaces e integraciones** y sigue los pasos que se indican a continuación:
 
 1. Busca el conector de **Mercado Libre.**
 2. Haz clic en `Editar`.

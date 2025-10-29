@@ -29,7 +29,7 @@ No carrinho, não são exibidos os nomes das transportadoras e sim os tipos de 
 
 Segue uma imagem de como seriam exibidas as opções de frete no fechamento de compra de acordo com o exemplo citado:
 
-![Transportadoras Checkout](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/estrat%C3%A9gia-de-envio/como-funciona-o-tipo-de-envio_1.png)
+![Transportadoras Checkout](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/estratégia-de-envio/como-funciona-o-tipo-de-envio_1.png)
 
 Note que, mesmo tendo cinco transportadoras cadastradas, só aparecem duas opções de frete: **Agendado** e **Normal**. Isso acontece por dois motivos: 
 

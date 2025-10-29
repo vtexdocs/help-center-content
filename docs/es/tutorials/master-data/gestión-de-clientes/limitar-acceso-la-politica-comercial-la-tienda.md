@@ -34,7 +34,7 @@ Después de crear el clúster, debe crear la regla en la política comercial de 
 3. En el campo de la **Regla condicional**, rellene el valor **NombreDelCluster=”true”**. Tenga en cuenta que el valor **NombreDelCluster** debe de ser cambiado por el nombre del campo en la entidad de datos.
 4. Haga click en el botón **Guardar**.
 
-![Catálogo ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/master-data/gesti%C3%B3n-de-clientes/limitar-acceso-la-politica-comercial-la-tienda_1.png)
+![Catálogo ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/master-data/gestión-de-clientes/limitar-acceso-la-politica-comercial-la-tienda_1.png)
 
 En la configuración anterior, sólo los clientes con el valor verdadero (utilizando un campo booleano - cuando los datos son verdaderos o falsos) tendrán acceso al sitio.
 

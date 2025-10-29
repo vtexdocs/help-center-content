@@ -19,7 +19,7 @@ subcategoryId: 22TaEgFhwE6a6CG2KASYkC
 
 To ensure the conformity of overseas payments, the following procedures must be followed:  
 
-1)  Invoices received/issued after the 25th of each month will not be accepted. 
+1) Invoices received/issued after the 25th of each month will not be accepted. 
 
 2) Payments are made by bank transfer or check depending on the case. All bank information must be detailed on the invoice. 
 

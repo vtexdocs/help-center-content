@@ -34,7 +34,7 @@ Para resolver esse problema, é possível:
 
 [Modificar o arquivo](#solucao-modificar-o-arquivo): O arquivo precisa seguir regras específicas de formatação e ser salvo como uma planilha XML no formato .xls.
 
-### Solução  - Modificar o arquivo
+### Solução - Modificar o arquivo
 
 1. Em **Catálogo > Importação e exportação > Todos os produtos > Exportação / Importação**, clique na aba **Importar**.
 2. Clique em `Clique aqui` para fazer o download da planilha de exemplo.

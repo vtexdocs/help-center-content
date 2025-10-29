@@ -24,7 +24,7 @@ Para acessar a plataforma Indeva, é necessário ter uma senha registrada no sis
 </ol>
 
 
-  <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/conta-do-usu%C3%A1rio/cadastrar-ou-redefinir-senha-para-acesso-a-plataforma-indeva_1.png" alt="Cadastro Indeva" style="max-width:100%; height:auto;" />
+  <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/conta-do-usuário/cadastrar-ou-redefinir-senha-para-acesso-a-plataforma-indeva_1.png" alt="Cadastro Indeva" style="max-width:100%; height:auto;" />
 
 
 <ol start="4">
@@ -32,7 +32,7 @@ Para acessar a plataforma Indeva, é necessário ter uma senha registrada no sis
 </ol>
 
 
-  <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/conta-do-usu%C3%A1rio/cadastrar-ou-redefinir-senha-para-acesso-a-plataforma-indeva_2.png" alt="Cadastro Indeva (2)" style="max-width:100%; height:auto;" />
+  <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/conta-do-usuário/cadastrar-ou-redefinir-senha-para-acesso-a-plataforma-indeva_2.png" alt="Cadastro Indeva (2)" style="max-width:100%; height:auto;" />
 
 
 Você receberá um email com um link para cadastrar uma nova senha. Esse processo pode levar alguns minutos.

@@ -59,7 +59,7 @@ La siguiente tabla describe cómo funciona el orden por tipo de efecto, incluyen
 | 3 | Precio | Descuento porcentual aplicado solo a los ítems correspondientes a la promoción | Promoción Regular |
 | 4 | Precio | Valor fijo descontado del valor total del pedido | Promoción Regular |
 | 5 | Precio | Valor fijo descontado directamente del precio del ítem | Promoción Regular |
-| 6 | Precio | Descuento aplicado por comprar productos en conjunto  | Comprar juntos |
+| 6 | Precio | Descuento aplicado por comprar productos en conjunto | Comprar juntos |
 | 7 | Precio | Limita el precio máximo por ítem en el pedido | Promoción Regular |
 | 8 | Envío | Descuento porcentual aplicado al valor del envío | Promoción Regular |
 | 9 | Envío | Valor fijo descontado del valor del envío | Promoción Regular |
@@ -132,11 +132,11 @@ Las promociones disponibles son:
 
 | Promoción | Descuentos | Acumulación |
 | :---- | :---- | :---- |
-| A  | 10% de descuento aplicado en todos los productos | Acumulativa para todos los productos |
-| B  | Envío máximo de 20 USD | No acumulativa |
-| C  | 80% de descuento en el envío | No acumulativa |
-| D  | Descuento de valor fijo de 50 USD | No acumulativa |
-| E  | Regalo al comprar el escritorio | No acumulativa |
+| A | 10% de descuento aplicado en todos los productos | Acumulativa para todos los productos |
+| B | Envío máximo de 20 USD | No acumulativa |
+| C | 80% de descuento en el envío | No acumulativa |
+| D | Descuento de valor fijo de 50 USD | No acumulativa |
+| E | Regalo al comprar el escritorio | No acumulativa |
 
 Después de aplicar las promociones disponibles:
 
@@ -194,9 +194,9 @@ Las promociones disponibles son:
 
 | Promoción | Descuentos | Reglas | Acumulación |
 | :---- | :---- | :---- | :---- |
-| A  | 10 % | Aplicado en productos de la Colección 1 | No acumulativa |
-| B  | 25% | Aplicado en productos de la Colección 2 | No acumulativa |
-| C  | 5 % | Aplicado a todos los productos | Acumulativa para todos los productos |
+| A | 10 % | Aplicado en productos de la Colección 1 | No acumulativa |
+| B | 25% | Aplicado en productos de la Colección 2 | No acumulativa |
+| C | 5 % | Aplicado a todos los productos | Acumulativa para todos los productos |
 
 Las promociones A y B compiten entre sí, ya que afectan el mismo producto (escritorio). Cuando hay competencia, el módulo Promociones selecciona la promoción que otorgue el mejor descuento para el cliente. A continuación, se presenta un ejemplo de competencia para este escenario.
 

@@ -48,7 +48,7 @@ El seller es responsable de enviar una [plantilla de flete](/es/tutorial/planilh
 
 En VTEX, los sellers configuran las opciones y los valores de flete a través de las [políticas de envío](/es/tutorial/politica-de-envio--tutorials_140). El flete dinámico es una configuración de Mercado Envíos 1 (ME1) que tiene la función de verificar en tiempo real los mejores precios y condiciones de envío para los usuarios, a partir de la información registrada en las políticas de envío en VTEX.    
 
-Mercado Libre realiza simulaciones de flete en tiempo real en el momento del cierre de  la compra, y casi simultáneamente, VTEX proporciona una URL donde Mercado Libre hace un *request* para obtener la información de flete que se mostrará en la plataforma en el momento de la compra.
+Mercado Libre realiza simulaciones de flete en tiempo real en el momento del cierre de la compra, y casi simultáneamente, VTEX proporciona una URL donde Mercado Libre hace un *request* para obtener la información de flete que se mostrará en la plataforma en el momento de la compra.
 
 #### Configuración de flete dinámico
 

@@ -19,7 +19,7 @@ Pensando em facilitar o processo de captura de dados, o VTEX Assisted Sales (Sui
 
 Após o seu cliente clicar no chat, ele será direcionado a um formulário, onde irá preencher informações como nome, email e telefone. Essas informações serão enviadas diretamente para o seu CRM, ou exportadas para um arquivo CSV. 
 
-Depois de preencher o  as informações ele será direcionado para o WhatsApp.
+Depois de preencher o as informações ele será direcionado para o WhatsApp.
 
 ![Capturar dados do lead antes de iniciar uma conversa no WhatsApp 1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/conversational-commerce/suiteshare/capturar-dados-do-lead-antes-de-iniciar-uma-conversa-no-whatsapp_1.png)  
 

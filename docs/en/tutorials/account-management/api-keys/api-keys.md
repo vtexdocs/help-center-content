@@ -55,7 +55,7 @@ The **API Keys** page in the VTEX Admin allows you to manage the API keys with a
 
 ## Requirements for managing API keys
 
-To manage API keys, you must have the  [User Administrator - RESTRICTED](/en/tutorial/predefined-roles--jGDurZKJHvHJS13LnO7Dy#user-administrator-restricted) role or a [custom](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#creating-a-role) role with the following resources:  
+To manage API keys, you must have the [User Administrator - RESTRICTED](/en/tutorial/predefined-roles--jGDurZKJHvHJS13LnO7Dy#user-administrator-restricted) role or a [custom](/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#creating-a-role) role with the following resources:  
 
 * *View API Keys* (view, filter, search for, sort, and export external and generated API keys)  
 * *Edit API Keys* (create, delete, change status and add or remove API key permissions)  

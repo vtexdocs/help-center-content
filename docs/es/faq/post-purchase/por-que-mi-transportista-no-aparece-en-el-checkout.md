@@ -35,7 +35,7 @@ Si desea que se muestren todas las transportadoras, estas deben ser registradas 
 ## Transportadora no atiende a la dirección informada
 
 Al registrar una nueva transportadora, la [planilla de flete](/es/tutorial/importar-planilha-de-frete) debe rellenarse con
-los rangos de códigos postales o  polígono para geolocalización que esta puede atender. Los campos de esta planilla relativos a la localización son `country`, `zipCodeStart` y `zipCodeEnd` y `PolygonName`.
+los rangos de códigos postales o polígono para geolocalización que esta puede atender. Los campos de esta planilla relativos a la localización son `country`, `zipCodeStart` y `zipCodeEnd` y `PolygonName`.
 
 Si el usuario desea que un pedido sea entregado en una región no registrada en la planilla, la transportadora no aparecerá como opción en el checkout.
 
@@ -57,7 +57,7 @@ Si el peso de los ítems del pedido excede el _peso máximo_ registrado en la pl
 
 ### Solución
 
-El raciocinio es el mismo en relación al ítem anterior: valide en las configuraciones de  la transportadora, en **Configuración de la tienda > Envío > Configuración**, si el peso máximo registrado es el mismo del límite de la transportadora.
+El raciocinio es el mismo en relación al ítem anterior: valide en las configuraciones de la transportadora, en **Configuración de la tienda > Envío > Configuración**, si el peso máximo registrado es el mismo del límite de la transportadora.
 
 Esta vez, será necesario alterar los valores en los campos `weightStart` y `weightEnd`, en la planilla de flete. A continuación, vuelva a importar el documento a la plataforma.
 

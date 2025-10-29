@@ -26,7 +26,7 @@ La cobranza al inicio del periodo se calcula como sigue:
 1. i = Tasa de Intereses
 2. n = Número de Cuotas
 3. PV = Valor Presente (valor total de la compra sin intereses)
-4. Cuota = ![juros-inicio-periodo](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/visi%C3%B3n-de-conjunto-de-pagos/como-se-hace-el-calculo-del-pago-en-plazos-con-intereses-compuesto_1.png)
+4. Cuota = ![juros-inicio-periodo](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/visión-de-conjunto-de-pagos/como-se-hace-el-calculo-del-pago-en-plazos-con-intereses-compuesto_1.png)
 
 ## Fin del periodo
 
@@ -35,7 +35,7 @@ La cobranza al fin del periodo se calcula como sigue:
 1. i = Tasa de Intereses
 2. n = Número de Cuotas
 3. PV = Valor Presente (valor total da compra sin intereses)
-4. Multiplicador Cash Flow =![cash-flow](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/visi%C3%B3n-de-conjunto-de-pagos/como-se-hace-el-calculo-del-pago-en-plazos-con-intereses-compuesto_2.png)
+4. Multiplicador Cash Flow =![cash-flow](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/visión-de-conjunto-de-pagos/como-se-hace-el-calculo-del-pago-en-plazos-con-intereses-compuesto_2.png)
 5. Cuota = `PV x Multiplicador Cash Flow`
 
 ## Ejemplos
@@ -45,7 +45,7 @@ La cobranza al fin del periodo se calcula como sigue:
 1. i = 1%
 2. n = 12
 3. PV = 1000
-![conta0](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/visi%C3%B3n-de-conjunto-de-pagos/como-se-hace-el-calculo-del-pago-en-plazos-con-intereses-compuesto_3.png)
+![conta0](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/visión-de-conjunto-de-pagos/como-se-hace-el-calculo-del-pago-en-plazos-con-intereses-compuesto_3.png)
 
 ---
 
@@ -54,4 +54,4 @@ La cobranza al fin del periodo se calcula como sigue:
 1. i = 1%
 2. n = 12
 3. PV = 1000
-4. ![conta1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/visi%C3%B3n-de-conjunto-de-pagos/como-se-hace-el-calculo-del-pago-en-plazos-con-intereses-compuesto_4.png)![conta2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/visi%C3%B3n-de-conjunto-de-pagos/como-se-hace-el-calculo-del-pago-en-plazos-con-intereses-compuesto_5.png)
+4. ![conta1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/visión-de-conjunto-de-pagos/como-se-hace-el-calculo-del-pago-en-plazos-con-intereses-compuesto_4.png)![conta2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/visión-de-conjunto-de-pagos/como-se-hace-el-calculo-del-pago-en-plazos-con-intereses-compuesto_5.png)

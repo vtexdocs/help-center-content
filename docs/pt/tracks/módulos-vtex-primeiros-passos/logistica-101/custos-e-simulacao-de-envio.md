@@ -18,7 +18,7 @@ order: 4
 
 ## Custo final de envio
 
-A soma de todas as tarifas necessárias para realizar o envio dos pedidos é chamada[ custo final de envio](/pt/tutorial/custo-final-do-envio--5bwhIO108VA5Y2YOpef9lV). O custo reúne as [tarifas de envio](/pt/tutorial/tarifas-de-envio--1Balpg3rv0854udEPedvMM) das políticas de envio e os custos de doca. 
+A soma de todas as tarifas necessárias para realizar o envio dos pedidos é chamada [custo final de envio](/pt/tutorial/custo-final-do-envio--5bwhIO108VA5Y2YOpef9lV). O custo reúne as [tarifas de envio](/pt/tutorial/tarifas-de-envio--1Balpg3rv0854udEPedvMM) das políticas de envio e os custos de doca. 
 
 Esses custos são cadastrados para serem utilizados no checkout. Ao final da experiência de compra, o cliente informa os dados de entrega; a plataforma calcula as opções de envio e as apresenta para o cliente com seus respectivos custos. 
 

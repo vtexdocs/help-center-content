@@ -14,7 +14,7 @@ locale: pt
 legacySlug: checkout-com-erro-loja-nao-encontrada-o-que-fazer
 ---
 
-Ao entrar no carrinho da sua loja, pode acontecer de surgir um erro na tela com a mensagem de `loja não encontrada`. Este erro mostra que, provavelmente, existe uma falha na configuração do  Gerenciamento da conta da sua loja. Para ajustar estas configurações, realize o passo-a-passo abaixo:
+Ao entrar no carrinho da sua loja, pode acontecer de surgir um erro na tela com a mensagem de `loja não encontrada`. Este erro mostra que, provavelmente, existe uma falha na configuração do Gerenciamento da conta da sua loja. Para ajustar estas configurações, realize o passo-a-passo abaixo:
 
 1. No menu lateral do Admin, acesse __Gerenciamento da conta__.
 2. Acesse a aba __Contas__.

@@ -3,8 +3,8 @@ title: 'Cómo crear un canal en Viber'
 id: 4FnOuBsgb3OlRTxGFxeRWf
 status: PUBLISHED
 createdAt: 2025-09-15T14:06:26.972Z
-updatedAt: 2025-10-03T14:20:33.800Z
-publishedAt: 2025-10-03T14:20:33.800Z
+updatedAt: 2025-10-28T20:11:09.732Z
+publishedAt: 2025-10-28T20:11:09.732Z
 firstPublishedAt: 2025-10-03T14:20:33.800Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -41,29 +41,29 @@ Instale la aplicación del Viber y pase por el proceso de registro con su númer
 
 Teniendo una cuenta válida ya puede acceder al panel de administración de Viber y vincularla con una cuenta pública.
 
- ! [PhonesNumber](https://cdn.statically.io/gh/Ilhasoft/rapidpro-docs/master/img/channel/Viber_adminPanel.png) 
+ ![PhonesNumber](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/como-crear-un-canal-en-viber_5.png) 
 
  Usted recibirá un token de verificación en su celular, el cual debe confirmar.
 
- ! [VerifyToken](https://cdn.statically.io/gh/Ilhasoft/rapidpro-docs/master/img/channel/Viber_verifyCode.png) 
+ ![VerifyToken](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/como-crear-un-canal-en-viber_6.png) 
 
  En el panel izquierdo, seleccione ""Create bot account"".
 
- ! [CreateBot](https://cdn.statically.io/gh/Ilhasoft/rapidpro-docs/master/img/channel/Viber_CreateBot.png) 
+ ![CreateBot](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/como-crear-un-canal-en-viber_7.png) 
 
  Llene los requisitos y haga click en ""create"" al final de la página.
 
- ! [FillBotForm](https://cdn.statically.io/gh/Ilhasoft/rapidpro-docs/master/img/channel/Viber_GeneratingToken.png) 
+ ![FillBotForm](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/como-crear-un-canal-en-viber_8.png) 
 
  Llevará algunos segundos para procesar y una nueva ventana será exhibida con el token necesario.
 
- ! [FinalToken](https://cdn.statically.io/gh/Ilhasoft/rapidpro-docs/master/img/channel/Viber_FinalToken.png) 
+ ![FinalToken](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/como-crear-un-canal-en-viber_9.png) 
 
  #### Concluir la configuración del canal
 
 Ahora vuelva al proceso de edición de canal, pegue el Token y presione ""Guardar los Cambios"".
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/como-crear-un-canal-en-viber_5.png) 
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/integraciones/como-crear-un-canal-en-viber_10.png) 
 
 #### Publica la cuenta
 

@@ -31,7 +31,7 @@ Aquí, la propiedad común de los clientes será que también son empleados de l
 En este artículo se asume que los empleados están debidamente registrados con un campo booleano `isEmployee` establecido como true en sus respectivos documentos para la entidad de datos CL, como se muestra en la siguiente imagen.
 
 Si no lo están, revise el artículo [Crear un campo en Master Data](/es/tutorial/how-can-i-create-field-in-master-data) para crear un campo que identifique a los empleados y configurarlo adecuadamente para cada documento correspondiente a los mismos.
-![Campo empleado](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/master-data/gesti%C3%B3n-de-clientes/configurar-los-beneficios-para-empleados-usando-clusters-de-master-data_1.png)
+![Campo empleado](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/master-data/gestión-de-clientes/configurar-los-beneficios-para-empleados-usando-clusters-de-master-data_1.png)
 
 > ℹ️ Hay muchos detalles para configurar completamente una promoción. Si necesita información adicional sobre este asunto, consulte el artículo [Crear promociones](/es/tutorial/creating-promotions-2).
 
@@ -45,5 +45,5 @@ Con el campo configurado, la promoción puede crearse siguiendo los siguientes p
 6. En el campo inferior a **Clúster de clientes**, ingrese el clúster que identifica que los clientes son empleados (un par `{field}={value}`). En este caso, se usa `isEmployee=true` .
 7. Al final de la página, haga clic en **Guardar**.
 
-Después de esta configuración, la promoción ya debería estar funcionando como fue configurada. El descuento se muestra solo en el carrito de compra. La siguiente imagen muestra un ejemplo con 99% de descuento. ![Carrito con descuento](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/master-data/gesti%C3%B3n-de-clientes/configurar-los-beneficios-para-empleados-usando-clusters-de-master-data_2.png)
+Después de esta configuración, la promoción ya debería estar funcionando como fue configurada. El descuento se muestra solo en el carrito de compra. La siguiente imagen muestra un ejemplo con 99% de descuento. ![Carrito con descuento](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/master-data/gestión-de-clientes/configurar-los-beneficios-para-empleados-usando-clusters-de-master-data_2.png)
 

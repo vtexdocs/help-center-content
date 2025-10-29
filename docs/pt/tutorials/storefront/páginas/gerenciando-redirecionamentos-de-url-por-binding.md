@@ -28,7 +28,7 @@ No Admin VTEX:
 1. Acesse **Storefront > Pages**.
 2. Clique na aba **Redirecionamentos**.
 
-![pt-redirecttab](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/p%C3%A1ginas/gerenciando-redirecionamentos-de-url-por-binding_1.png)
+![pt-redirecttab](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/páginas/gerenciando-redirecionamentos-de-url-por-binding_1.png)
 
 ## Criando redirecionamentos manualmente
 
@@ -38,7 +38,7 @@ No Admin VTEX:
 4. Defina se o seu redirecionamento será permanente ou temporário - caso o seu redirecionamento seja temporário, você pode selecionar o botão `Este redirecionamento tem uma data de término` para definir uma data de término para ele.
 5. Salve as suas alterações.
 
-![pt-newredirect](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/p%C3%A1ginas/gerenciando-redirecionamentos-de-url-por-binding_2.png)
+![pt-newredirect](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/páginas/gerenciando-redirecionamentos-de-url-por-binding_2.png)
 
 ## Excluindo redirecionamentos manualmente
 
@@ -46,7 +46,7 @@ No Admin VTEX:
 2. Clique no botão `Excluir`.
 3. Confirme sua ação.
 
-![pt-redirectdelete](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/p%C3%A1ginas/gerenciando-redirecionamentos-de-url-por-binding_3.png)
+![pt-redirectdelete](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/páginas/gerenciando-redirecionamentos-de-url-por-binding_3.png)
 
 > ⚠️ Um *bug* pode ser encontrado ao tentar clicar em redirecionamentos com parâmetros de consulta na URL (*query strings*). O time de produto da VTEX já está ciente do comportamento inesperado e trabalhando na correção. Caso você não consiga clicar no redirecionamento desejado para excluí-lo, prefira fazê-lo por meio da importação da planilha enquanto o problema não é resolvido.
 
@@ -71,7 +71,7 @@ Para gerenciar em massa os redirecionamentos da sua loja, você pode usar uma pl
 4. Clique no botão `Importar`.
 5. Marque o botão `Salvar` ou` Excluir` de acordo com o seu cenário.
 
-![pt-planilharedirect](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/p%C3%A1ginas/gerenciando-redirecionamentos-de-url-por-binding_4.png)
+![pt-planilharedirect](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/páginas/gerenciando-redirecionamentos-de-url-por-binding_4.png)
 
 > ⚠️ Ao clicar no botão `Salvar`, você criará todos os redirecionamentos listados em sua planilha, ao passo que clicar no botão <code>Excluir</couirde> removerá todos eles do banco de dados de redirecionamentos da sua loja.
 

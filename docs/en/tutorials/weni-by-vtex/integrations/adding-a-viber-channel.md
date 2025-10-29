@@ -3,8 +3,8 @@ title: 'Adding a Viber channel'
 id: 4FnOuBsgb3OlRTxGFxeRWf
 status: PUBLISHED
 createdAt: 2025-09-15T14:06:26.972Z
-updatedAt: 2025-10-03T14:20:33.800Z
-publishedAt: 2025-10-03T14:20:33.800Z
+updatedAt: 2025-10-28T20:11:09.732Z
+publishedAt: 2025-10-28T20:11:09.732Z
 firstPublishedAt: 2025-10-03T14:20:33.800Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -43,29 +43,31 @@ Install Viber's mobile app and go through the registration process for your mobi
 
 Having a valid account, access [Viber's admin panel](https://partners.viber.com/login) and link it to a Public account.
 
- ! [PhonesNumber](https://cdn.statically.io/gh/Ilhasoft/rapidpro-docs/master/img/channel/Viber_adminPanel.png) 
+ ![PhonesNumber](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/adding-a-viber-channel_6.png) 
 
  You will receive a verification token on the mobile phone, confirm it too.
 
- ! [VerifyToken](https://cdn.statically.io/gh/Ilhasoft/rapidpro-docs/master/img/channel/Viber_verifyCode.png) 
+ ![VerifyToken](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/adding-a-viber-channel_7.png) 
 
  On the left panel, select *Create Bot Account*
 
- ! [CreateBot](https://cdn.statically.io/gh/Ilhasoft/rapidpro-docs/master/img/channel/Viber_CreateBot.png) 
+ ![CreateBot](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/adding-a-viber-channel_8.png) 
 
  Fill all requirements presented and hit Create at the end of the page.
 
- ! [FillBotForm](https://cdn.statically.io/gh/Ilhasoft/rapidpro-docs/master/img/channel/Viber_GeneratingToken.png)
+ ![FillBotForm](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/adding-a-viber-channel_9.png)
 
  It will take a few seconds to process and a new window will pop\-up with the token needed.
 
- ! [FinalToken](https://cdn.statically.io/gh/Ilhasoft/rapidpro-docs/master/img/channel/Viber_FinalToken.png)
+ ![FinalToken](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/adding-a-viber-channel_10.png)
 
  ### Finish channel's setting
 
 Now go back to My apps > configure, paste the token and hit Submit.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/adding-a-viber-channel_6.png) ![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/adding-a-viber-channel_7.png) 
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/adding-a-viber-channel_11.png)
+
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/weni-by-vtex/integrations/adding-a-viber-channel_12.png) 
 
 ### Publish the account
 

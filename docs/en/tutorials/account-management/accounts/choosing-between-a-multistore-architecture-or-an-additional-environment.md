@@ -19,7 +19,7 @@ The VTEX platform allows creating different store architectures starting from a 
 
 This article describes the differences between the multistore and additional environment architectures to help you choose the best one for different scenarios.
 
-> ℹ️ For marketplace architectures, you can also  [Choose between a standard account, franchise account, and Seller Portal](/en/tutorial/escolher-entre-conta-padrao-conta-franquia-ou-seller-portal--4S90HzzhMyZESsHqrnUs78)  or use the [Multilevel Omnichannel Inventory ](/en/tutorial/multilevel-omnichannel-inventory--7M1xyCZWUyCB7PcjNtOyw4) configuration.
+> ℹ️ For marketplace architectures, you can also [Choose between a standard account, franchise account, and Seller Portal](/en/tutorial/escolher-entre-conta-padrao-conta-franquia-ou-seller-portal--4S90HzzhMyZESsHqrnUs78) or use the [Multilevel Omnichannel Inventory ](/en/tutorial/multilevel-omnichannel-inventory--7M1xyCZWUyCB7PcjNtOyw4) configuration.
 
 ## Multistore arquitecture (store name)
 

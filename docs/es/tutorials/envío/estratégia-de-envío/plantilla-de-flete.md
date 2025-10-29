@@ -60,7 +60,7 @@ Vea la siguiente tabla para entender cada campo en detalle.
 
 Vea el siguiente ejemplo de cómo rellenar los campos, teniendo en cuenta el formato aceptado en cada columna. 
 
-![modelo_planilhanumerica](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/estrat%C3%A9gia-de-env%C3%ADo/plantilla-de-flete_1.png)
+![modelo_planilhanumerica](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/envío/estratégia-de-envío/plantilla-de-flete_1.png)
 
 ## Enviar el archivo por el Admin VTEX
 
@@ -73,7 +73,7 @@ El envío de la plantilla se realiza en el registro o en la edición de la _Pol�
 3. Después de descargar la plantilla modelo y [completar los campos](#completar-los-campos-de-la-plantilla), cargue el archivo en la sección Cargar tarifas de envío, como se ilustra en la siguiente imagen. 
 4. Al finalizar, haga clic en `Guardar cambios`.
 
-  ![upload tarifas envioES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/estrat%C3%A9gia-de-env%C3%ADo/plantilla-de-flete_2.png)
+  ![upload tarifas envioES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/envío/estratégia-de-envío/plantilla-de-flete_2.png)
 
 > ⚠️ Para registrar una **nueva** Política de envío se debe completar otros campos además de la plantilla de flete.  Aprenda cómo crear, editar y completar todos los campos necesarios en el artículo [Política de envío](/es/tutorial/politica-de-envio--tutorials_140).
 

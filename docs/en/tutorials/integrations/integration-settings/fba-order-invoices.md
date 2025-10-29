@@ -48,7 +48,7 @@ If **Operation type** or **Invoice type** is selected, additional filtering opti
 
 To export invoices for FBA orders, follow the steps below.
 
-1. In the VTEX Admin, go to **Marketplace > Amazon > Invoices** or type  **Invoices** in the search bar.  
+1. In the VTEX Admin, go to **Marketplace > Amazon > Invoices** or type **Invoices** in the search bar.  
 2. Select the desired filters.  
 3. Click the `Export invoices` button.  
 

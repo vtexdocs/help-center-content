@@ -41,7 +41,7 @@ See the information available in the spreadsheet below.
 | `label` | API key name, defined when creating the key. |
 | `creationDate` | API key created date. |
 | `creationDateToken` | If the key has a single token associated with it, this date indicates when the token was created. If the key is renewed, two tokens are associated with it. In this case, this date refers to when the token being replaced by the new one was created (the token that existed before the renewal process started). |
-| `creationDateNewToken` | This field will be null if the key has a single token associated with it.   If the key is in the renewal process, two tokens are associated with it. In this case, the field represents the date the new token that will replace the old one was created (in other words, the date renewal started). |
+| `creationDateNewToken` | This field will be null if the key has a single token associated with it. If the key is in the renewal process, two tokens are associated with it. In this case, the field represents the date the new token that will replace the old one was created (in other words, the date renewal started). |
 | `status` | API key status, which can be active or inactive. |
 
 ### External tabs

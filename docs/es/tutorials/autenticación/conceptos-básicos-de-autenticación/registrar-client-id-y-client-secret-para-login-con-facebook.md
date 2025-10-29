@@ -17,7 +17,7 @@ subcategoryId: 14V5ezEX0cewOMg0o0cYM6
 
 Para activar el inicio de sesión por OAuth2 a través de Facebook, accede al Admin VTEX > **Configuración de cuenta > Autenticación** y completa los campos **Client ID** y **Secreto del cliente**, tal como se describe en el artículo [Configurar inicio de sesión con Facebook y Google](/es/tutorial/configurar-inicio-de-sesion-con-facebook-y-google--tutorials_513).
 
-![Facebook OAuth ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/autenticaci%C3%B3n/conceptos-b%C3%A1sicos-de-autenticaci%C3%B3n/registrar-client-id-y-client-secret-para-login-con-facebook_1.PNG)
+![Facebook OAuth ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/autenticación/conceptos-básicos-de-autenticación/registrar-client-id-y-client-secret-para-login-con-facebook_1.PNG)
 
 Para obtener las credenciales, sigue las instrucciones en las secciones a continuación:
 
@@ -35,12 +35,12 @@ Para empezar, debes registrar una aplicación en Facebook siguiendo los pasos a 
 4. Haz clic en `Crear app`.
 5. Haz clic en **Permitir que las personas inicien sesión con su cuenta de Facebook** entre las opciones que se ilustran a continuación.
 
-   ![2-login-fb-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/autenticaci%C3%B3n/conceptos-b%C3%A1sicos-de-autenticaci%C3%B3n/registrar-client-id-y-client-secret-para-login-con-facebook_2.png)
+   ![2-login-fb-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/autenticación/conceptos-básicos-de-autenticación/registrar-client-id-y-client-secret-para-login-con-facebook_2.png)
 
 6. Haz clic en `Siguiente`.
 7. Añade el nombre de la aplicación y el correo electrónico de contacto de la persona responsable de la aplicación en los campos que se ilustran a continuación.
 
-   ![3-login-fb-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/autenticaci%C3%B3n/conceptos-b%C3%A1sicos-de-autenticaci%C3%B3n/registrar-client-id-y-client-secret-para-login-con-facebook_3.png)
+   ![3-login-fb-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/autenticación/conceptos-básicos-de-autenticación/registrar-client-id-y-client-secret-para-login-con-facebook_3.png)
 
 8. Haz clic en `Crear app`.
 
@@ -50,15 +50,15 @@ El siguiente paso es configurar el producto Inicio de sesión con Facebook en la
 
 1. Haz clic en **Productos** en el menú lateral o en el **panel **de Meta for Developers, resaltado en la imagen siguiente.
 
-   ![4-login-fb-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/autenticaci%C3%B3n/conceptos-b%C3%A1sicos-de-autenticaci%C3%B3n/registrar-client-id-y-client-secret-para-login-con-facebook_4.png)
+   ![4-login-fb-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/autenticación/conceptos-básicos-de-autenticación/registrar-client-id-y-client-secret-para-login-con-facebook_4.png)
 
 2. Haz clic en `Configurar` y después selecciona `Configurar` en el menú desplegable.
 
-   ![5-login-fb-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/autenticaci%C3%B3n/conceptos-b%C3%A1sicos-de-autenticaci%C3%B3n/registrar-client-id-y-client-secret-para-login-con-facebook_5.png)
+   ![5-login-fb-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/autenticación/conceptos-básicos-de-autenticación/registrar-client-id-y-client-secret-para-login-con-facebook_5.png)
 
 3. Define los estados como se detalla a continuación:
 
-   ![Configuração URI OAuth Facebook ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/autenticaci%C3%B3n/conceptos-b%C3%A1sicos-de-autenticaci%C3%B3n/registrar-client-id-y-client-secret-para-login-con-facebook_6.png)
+   ![Configuração URI OAuth Facebook ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/autenticación/conceptos-básicos-de-autenticación/registrar-client-id-y-client-secret-para-login-con-facebook_6.png)
 
    Inserta las URL siguientes en **URI de redireccionamieno de OAuth válidos**, sustituyendo `{{HOST_URL}}`  por la URL base de tu tienda y `{{accountName}}` por el nombre de tu cuenta tal y como se describe en el menú de administración de la tienda:   
 
@@ -74,7 +74,7 @@ Por último, debes rellenar algunos datos sobre la aplicación para completar el
 
 1. En el menú lateral de Meta for Developers, haz clic en **Configuración de la aplicación** y después en **Básica:**
 
-   ![7-login-fb-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/autenticaci%C3%B3n/conceptos-b%C3%A1sicos-de-autenticaci%C3%B3n/registrar-client-id-y-client-secret-para-login-con-facebook_7.png)
+   ![7-login-fb-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/autenticación/conceptos-básicos-de-autenticación/registrar-client-id-y-client-secret-para-login-con-facebook_7.png)
 
 2. Copia el valor del campo **Identificador de la aplicación**. Debes ingresar este valor en el campo **Client ID** al [configurar el Inicio de sesión con Facebook en el Admin VTEX](/es/tutorial/configurar-inicio-de-sesion-con-facebook-y-google--tutorials_513).
 3. En **Clave secreta de aplicación**, haz clic en el botón **Mostrar** y, a continuación, copia el valor del campo. Debes ingresar este valor en el campo **Secreto del cliente** al [configurar el inicio de sesión con Facebook en el Admin VTEX](/es/tutorial/configurar-inicio-de-sesion-con-facebook-y-google--tutorials_513).

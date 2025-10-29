@@ -47,4 +47,4 @@ O lojista pode segmentar os clientes de acordo com o momento que pagam o título
 
 Desse modo, seria possível aplicar uma condição de pagamento apenas para os clientes que correspondessem aos valores “adiantado” e “emdia”.
 
-Bastaria criar duas condições - “Pagamento +  é +  adiantando”, “Pagamento é em dia” - e definir que a regra de prazo e parcelamento será válida para qualquer uma das condições.
+Bastaria criar duas condições - “Pagamento + é + adiantando”, “Pagamento é em dia” - e definir que a regra de prazo e parcelamento será válida para qualquer uma das condições.

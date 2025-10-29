@@ -56,7 +56,7 @@ Since WhatsApp encrypts messages, it relies on user feedback to measure message 
 
 - If your business or identity verification is rejected, ensure you are sending high-quality messages. We will periodically reassess your activity and message quality. Based on this, we may approve the increase.
 - Here are some guidelines for sending high-quality messages:
-- Ensure that your messages comply with the \[WhatsApp Business Messaging Policy](https://www.whatsapp.com/legal/business-policy).
+- Ensure that your messages comply with the [WhatsApp Business Messaging Policy](https://www.whatsapp.com/legal/business-policy).
 - Send messages only to users who have opted in to receive contact from your business.
 - Craft highly personalized and useful messages for users. Avoid sending introductory or welcome messages that are too vague.
 - Consider frequency: avoid sending too many messages per day to customers. When drafting informative messages, focus on content and conciseness.

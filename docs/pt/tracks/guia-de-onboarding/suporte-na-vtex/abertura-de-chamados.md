@@ -27,7 +27,7 @@ Os chamados para o suporte VTEX são:
 - [Suporte financeiro](/pt/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/3g2mhmPDx5GszNgLDICzsl): contrato ou questões financeiras relativas à loja e à VTEX.
 - [Suporte comercial](/pt/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ): contratação de [política comercial](/pt/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ#contratar-politica-comercial-adicional) adicional, de [ambiente adicional](/pt/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ#contratar-politica-comercial-adicional#contratar-novo-ambiente), conta franquia ou alteração de [usuário titular](/pt/tutorial/o-que-e-o-usuario-titular--3oPr7YuIkEYqUGmEqIMSEy).
 
-> ℹ️ Para obter mais informações sobre como abrir um chamado, basta acessar o artigo [Abrir chamados para o suporte VTEX. ](/pt/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM)
+> ℹ️ Para obter mais informações sobre como abrir um chamado, basta acessar o artigo [Abrir chamados para o suporte VTEX.](/pt/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM)
 
 ## Acesso ao Copilot
 
@@ -51,5 +51,5 @@ O Copilot responderá de forma automática e guiará você pelo processo. Caso s
 A abertura de um chamado comercial ou financeiro pode ser feita de três formas:
 
 - Acessando a [página de suporte](https://support.vtex.com/hc/pt-br/requests).
-- Acessando qualquer página do [Help Center](https://newhelp.vtex.com/) e clicando em `Suporte`, no topo, ou em `Entrar em contato` no canto inferior da página.
+- Acessando qualquer página do [Help Center](/pt) e clicando em `Suporte`, no topo, ou em `Entrar em contato` no canto inferior da página.
 - Acessando o Admin VTEX, clicando no ícone <i class="fas fa-question-circle"></i> de **Central de Informações** e escolhendo a opção **Fale com nossos especialistas**.

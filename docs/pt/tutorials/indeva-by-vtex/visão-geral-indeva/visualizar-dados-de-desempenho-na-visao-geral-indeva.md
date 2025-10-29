@@ -43,7 +43,7 @@ A seção de **Performance** apresenta os números acumulados de vendas e o prog
 **Exemplo:**  
 Se a meta do mês é de BRL 116,694.57 e as vendas acumuladas são de BRL 109,067.73, o sistema exibe o progresso percentual correspondente (93.46%).
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/vis%C3%A3o-geral-indeva/visualizar-dados-de-desempenho-na-visao-geral-indeva_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/visão-geral-indeva/visualizar-dados-de-desempenho-na-visao-geral-indeva_1.png)
 
 Na lateral direita da tela, há uma coluna de vendedores onde é possível acompanhar o desempenho individual da equipe.  
 Essa área mostra o percentual da meta atingido por cada vendedor e a participação de cada um no ciclo atual.
@@ -78,7 +78,7 @@ A **Visão Geral** apresenta informações por meio de gráficos que exibem:
 - Variações anuais.  
 - Principais motivos de perda de venda.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/vis%C3%A3o-geral-indeva/visualizar-dados-de-desempenho-na-visao-geral-indeva_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/visão-geral-indeva/visualizar-dados-de-desempenho-na-visao-geral-indeva_2.png)
 
 ### Atualizar dados exibidos
 

@@ -63,7 +63,7 @@ En el flujo de pago por tarjeta de crédito, la **bandera** recibe del adquirent
 
 De esta forma, la bandera sirve tanto para regular el uso de la tarjeta, así como un puente entre adquirente y banco.
 
-Ejemplos de banderas de  tarjeta: Mastercard, American Express y Visa.
+Ejemplos de banderas de tarjeta: Mastercard, American Express y Visa.
 
 ## Banco Emisor
 El Banco Emisor es la institución financiera responsable de los medios de pago, ya sean boletos bancarios, tarjetas de débito o de crédito. 
@@ -72,18 +72,18 @@ Es este quien, al recibir los datos de una compra hecha en su tienda, va a autor
 
 En VTEX, es posible configurar las condiciones especiales para pagos realizados a través de **bancos** específicos, funcionalidad que exploraremos más adelante. 
 
-Ejemplos de bancos emisores:  Itaú, Santander, Bradesco y Citibank.  
+Ejemplos de bancos emisores: Itaú, Santander, Bradesco y Citibank.  
 
 ## Antifraude  
 El antifraude es un sistema especializado en analizar las compras realizadas en los sitios web, con el objetivo de identificar operaciones fraudulentas. 
 
-Recolecta datos sobre el comportamiento de los usuarios y los compara con patrones sospechosos para, entonces,  aprobar o no el pedido. Así, el **antifraude** añade una capa más de seguridad para su tienda.
+Recolecta datos sobre el comportamiento de los usuarios y los compara con patrones sospechosos para, entonces, aprobar o no el pedido. Así, el **antifraude** añade una capa más de seguridad para su tienda.
 
-Ejemplos de antifraudes:  ClearSale y Konduto.  
+Ejemplos de antifraudes: ClearSale y Konduto.  
 
 ## Certificación PCI SSC
 El PCI Security Standards Council es un foro mundial abierto para el continuo desarrollo, mejora, almacenamiento, difusión e implementación de normas de seguridad para la protección de datos. 
 
-[La plataforma VTEX posee un gateway propio con **certificación PCI**](/es/tutorial/que-es-el-pci-ssc--4jo3Vkox3amSO2w4qIWa0E), que  significa que los datos de todos los pagos realizados en su tienda están protegidos de acuerdo con los más altos estándares de seguridad. 
+[La plataforma VTEX posee un gateway propio con **certificación PCI**](/es/tutorial/que-es-el-pci-ssc--4jo3Vkox3amSO2w4qIWa0E), que significa que los datos de todos los pagos realizados en su tienda están protegidos de acuerdo con los más altos estándares de seguridad. 
 
 Si desea profundizar los conceptos de gateway, adquirente, subadquirente, bandera, banco emisor y antifraude, consulte nuestro [artículo sobre agentes financieros en Brasil](/es/tutorial/diferenca-entre-adquirentes-subadquirentes-e-gateways-no-brasil?locale=pt).

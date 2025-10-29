@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 3xpuy7xGlzKKg6vxqiExZ2
 ---
 
-> ⚠️ This app is only available for stores developed using[ VTEX IO](https://vtex.com/br-pt/store-framework/). Before proceeding, you need to [install and configure Product Customizer](https://developers.vtex.com/vtex-developer-docs/docs/vtex-product-customizer) in your store.
+> ⚠️ This app is only available for stores developed using [VTEX IO](https://vtex.com/br-pt/store-framework/). Before proceeding, you need to [install and configure Product Customizer](https://developers.vtex.com/vtex-developer-docs/docs/vtex-product-customizer) in your store.
 
 Product customization options are available at VTEX when using [Assembly Options](/en/tutorial/assembly-options--5x5FhNr4f5RUGDEGWzV1nH). This solution helps create [attachments](/en/tutorial/what-is-an-attachment--aGICk0RVbqKg6GYmQcWUm) for complex scenarios in which you need to manage different product combinations, quantities, additional items and costs.
 

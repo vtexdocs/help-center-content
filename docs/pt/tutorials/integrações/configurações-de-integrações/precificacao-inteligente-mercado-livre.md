@@ -33,7 +33,7 @@ Após ativar a funcionalidade, o seller deve acompanhar as sugestões geradas, n
 
 Todas as sugestões de preços podem ser identificadas no módulo Preços através do **ID** que segue a seguinte estrutura, `186-Automation`, conforme imagem abaixo:
 
-![Precificação inteligente do Mercado Livre](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integra%C3%A7%C3%B5es/configura%C3%A7%C3%B5es-de-integra%C3%A7%C3%B5es/precificacao-inteligente-mercado-livre_1.png)
+![Precificação inteligente do Mercado Livre](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integrações/configurações-de-integrações/precificacao-inteligente-mercado-livre_1.png)
 
 ## Ajuste automático de preços
 

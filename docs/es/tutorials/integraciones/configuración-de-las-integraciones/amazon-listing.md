@@ -20,7 +20,7 @@ subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 - Si el producto ya existe en Amazon, debes seguir las instrucciones del [tutorial Match de anuncios Amazon](/es/tutorial/match-de-anuncios-amazon--7fRfoP69kYgg8znImMhyQ0) para vincular tu producto a un anuncio en Amazon.  
 - Si el producto no existe en Amazon, debes seguir las instrucciones de este tutorial para registrar tu producto y crear un nuevo anuncio en Amazon.  
 
-![overview-listing-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/configuraci%C3%B3n-de-las-integraciones/amazon-listing_1.gif)
+![overview-listing-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/configuración-de-las-integraciones/amazon-listing_1.gif)
 
 > ℹ️ Todos los productos deben tener [stock](/es/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb) y [precio](/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP) configurados antes de enviarlos al marketplace.
 
@@ -38,8 +38,8 @@ La página contiene los siguientes elementos:
 
 La barra de búsqueda te permite buscar SKUs por **nombre o por ID de SKU. A continuación se presentan ejemplos.
 
-![Filtro por nombre listing](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/configuraci%C3%B3n-de-las-integraciones/amazon-listing_2.jpg)
-![SKU busquéda listing](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/configuraci%C3%B3n-de-las-integraciones/amazon-listing_3.jpg)
+![Filtro por nombre listing](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/configuración-de-las-integraciones/amazon-listing_2.jpg)
+![SKU busquéda listing](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/integraciones/configuración-de-las-integraciones/amazon-listing_3.jpg)
 
 ### Filtros
 

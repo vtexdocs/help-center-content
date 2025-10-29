@@ -55,7 +55,7 @@ If you want more information about the indexing of a specific product, you can c
 
 In addition to the information displayed in the product list, you can also see:
 
-* **Indexing time:** Is an entry of how long the product indexing lasted using the `hh:mm:ss` format`.
+* **Indexing time:** Is an entry of how long the product indexing lasted using the `hh:mm:ss` format.
 * **Indexing timeline:** Shows a log of every status change with date and time. You can view more details of each step by clicking the <i class="fa-solid fa-chevron-down"></i> icon.
 
 ![Historico indexação 7 - EN](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tutorials/intelligent-search/intelligent-search-overview/indexing-history_7.png)

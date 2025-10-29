@@ -117,6 +117,6 @@ Com as etapas de [Configuração da loja](#configuracao-da-loja) e [Configuraç�
 5. Preencha o campo `Estoque do fulfillment` com o Id do estoque cadastrado em Configuração da loja.
 6. Clique em `Salvar`.
 
-![Fulfillment magalu](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integra%C3%A7%C3%B5es/configura%C3%A7%C3%B5es-de-integra%C3%A7%C3%B5es/fulfillment-magalu_1.png)  
+![Fulfillment magalu](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integrações/configurações-de-integrações/fulfillment-magalu_1.png)  
 
 Ao finalizar o processo de configuração do conector, os seus produtos configurados estarão disponíveis no Magalu Marketplace com a opção de envio __Fulfillment Magalu.__

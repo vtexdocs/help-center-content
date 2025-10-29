@@ -49,13 +49,13 @@ El __número máximo__ de dígitos afectados por la regla de redondeo de precios
 
 Para finalizar la configuración del redondeo de precios, debe escoger entre tres __métodos de redondeo__: la *Regla del Nueve*, la *Regla de los Nueves* y la *Regla del Cero*.  
 
-Con el objetivo de simplificar la explicación, vamos a considerar que la regla de redondeo se aplicará a los __dos primeros dígitos__, *contados de derecha a  izquierda*:
+Con el objetivo de simplificar la explicación, vamos a considerar que la regla de redondeo se aplicará a los __dos primeros dígitos__, *contados de derecha a izquierda*:
 
 - *Regla del Nueve*: el segundo dígito, de derecha a izquierda, será __sustituido por nueve__ y el primero será __sustituido por cero__. Vamos a utilizar como ejemplo un precio de *€ 100.00*. El sistema considerará los dos valores más cercanos a este precio que tengan *"90"* como los dos primeros dígitos, en este caso, *100.90* y *99.90*. Como la diferencia entre 100.00 y 99.90 es __menor__ que la diferencia entre 100.00 y 100.90, __el precio se redondeará a 99.90__.
 
-- *Regla de los Nueves*: el segundo dígito, de derecha a izquierda, será __sustituido por nueve__ y el primero también será __sustituido por nueve__.  Vamos a utilizar como ejemplo un precio de *€ 100.00*. El sistema considerará los dos valores más cercanos a este precio que tengan *"99"* como los dos primeros dígitos, en este caso, *100.99* y *99.99*. Como la diferencia entre 100.00 y 99.99 es __menor__ que la diferencia entre 100.00 y 100.99, __el precio se redondeará a 99.99__.
+- *Regla de los Nueves*: el segundo dígito, de derecha a izquierda, será __sustituido por nueve__ y el primero también será __sustituido por nueve__. Vamos a utilizar como ejemplo un precio de *€ 100.00*. El sistema considerará los dos valores más cercanos a este precio que tengan *"99"* como los dos primeros dígitos, en este caso, *100.99* y *99.99*. Como la diferencia entre 100.00 y 99.99 es __menor__ que la diferencia entre 100.00 y 100.99, __el precio se redondeará a 99.99__.
 
-- *Regla del Cero*: el segundo dígito, de derecha a izquierda, será __sustituido por cero__ y el primero también será __sustituido por cero__.  Vamos a utilizar como ejemplo un precio de *€ 100.25*. El sistema considerará los dos valores más cercanos a este precio que tengan *“00”* como los dos primeros dígitos, en este caso, *100.00* y *200.00*. Como la diferencia entre 100.25 y 100.00 es __menor__ que la diferencia entre 100.25 y 200.00, __ el precio se redondeará a 100.00__.
+- *Regla del Cero*: el segundo dígito, de derecha a izquierda, será __sustituido por cero__ y el primero también será __sustituido por cero__. Vamos a utilizar como ejemplo un precio de *€ 100.25*. El sistema considerará los dos valores más cercanos a este precio que tengan *“00”* como los dos primeros dígitos, en este caso, *100.00* y *200.00*. Como la diferencia entre 100.25 y 100.00 es __menor__ que la diferencia entre 100.25 y 200.00, __ el precio se redondeará a 100.00__.
 
 > ℹ️ Si la diferencia del precio original para el valor superior y para el valor inferior es la misma, el **redondeo se hará para arriba**.
 
@@ -63,6 +63,6 @@ Con el objetivo de simplificar la explicación, vamos a considerar que la regla 
 
 Digamos que un televisor nuevo en el mercado se vende por € 5000.00. Sin embargo, percibe que el volumen de ventas de esta mercancía no es el esperado.
 
-Para revertir esta situación y atraer nuevos consumidores, es posible utilizar una estrategia de redondeo de precios. En este caso, una posible aplicación de la funcionalidad sería aplicar la __*Regla del Nueve*__  junto con el redondeo de __tres dígitos__.
+Para revertir esta situación y atraer nuevos consumidores, es posible utilizar una estrategia de redondeo de precios. En este caso, una posible aplicación de la funcionalidad sería aplicar la __*Regla del Nueve*__ junto con el redondeo de __tres dígitos__.
 
 Por lo tanto, el valor bajaría a € 4999.00, dando la impresión de que el producto tiene un precio más barato.

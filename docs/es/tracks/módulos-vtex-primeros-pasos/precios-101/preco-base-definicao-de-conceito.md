@@ -19,7 +19,7 @@ order: 5
 
 El Precio Base de un SKU es el valor calculado a través de la combinación entre el **Precio de Costo** y el **Markup**, el margen de ganancia deseado con la venta del SKU. Es el __precio de referencia__ de un SKU para todas las tablas de precio. 
 
-![base-price-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/m%C3%B3dulos-vtex-primeros-pasos/precios-101/preco-base-definicao-de-conceito_1.png)
+![base-price-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/módulos-vtex-primeros-pasos/precios-101/preco-base-definicao-de-conceito_1.png)
 
 Este **precio base** puede combinarse con una **regla de precio** aplicada a la tabla de precios. Si no existe regla de precio registrada, el precio de venta en una tabla será el propio precio base.
 

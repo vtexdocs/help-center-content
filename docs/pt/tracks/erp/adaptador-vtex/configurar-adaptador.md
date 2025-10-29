@@ -31,7 +31,7 @@ Abaixo você encontrar informações sobre como você efetua a configuração do
 9. Na tela do adaptador, você deve colocar os valores copiados nos respectivos campos.
 ![imagem-adaptador-4](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/erp/adaptador-vtex/configurar-adaptador_2.png)
 10. Preencha o email para receber notificações do adapter. Este email será utilizado para lembrete de senha.
-11. Preencha o campo  app-Key com o valor configurado no ambiente VTEX.
+11. Preencha o campo app-Key com o valor configurado no ambiente VTEX.
 12. Preencha o campo appToken com o valor gerado no ambiente VTEX.
 13. Por fim, clique no botão `SALVAR`. Aguarde o adaptador fazer a validação das configurações junto ao ambiente da VTEX. 
 > ℹ️ Em caso de falha, você deve revisar as configurações inseridas em cada um dos campos. é importante garantir que não existem espaços (Antes e depois) dos valores contidos nas caixas.
@@ -65,7 +65,7 @@ Para colocar o campo criado dentro do fórmulário de clientes, você deve segui
 1. No topo da página, clique em **Master Data**.
 2. Selecione a opção **Master Data**.
 3. Ao lado de **Profile System**, clique no botão <i class="fas fa-cog"></i>.
-4. No formulário desejado, clique no ícone <i class="fas fa-pencil-alt"></i>  para editar.
+4. No formulário desejado, clique no ícone <i class="fas fa-pencil-alt"></i> para editar.
 5. Na aba **Campos da Listagem**, selecione os campos que deseja exibir na listagem da aba.
 6. Clique na aba **Schemas de Layout**.
 7. Arraste o campo da lista **Campos disponíveis** para coluna **Campos da coluna 2**.
@@ -90,7 +90,7 @@ Para trabalhar com integração de campos customizados de produto, você deve cr
 11. Clique no botão <i class="fas fa-cog"></i> e, sem seguida, marque os campos contidos nas seções: **General Settings**, **Search And Filter Settings**, **Default Value** e **Field Description** marque os campos de acordo com a necessidade do campo que você está criando.
 12. Clique no botão `Salvar`.
 13. Desse modo, você retornará para a página de principal da aba **Entidade de Dados**. Para finalizar, você precisa publicar o campo. Basta localizar a linha da entidade em que o campo foi adicionado e clicar no ícone <i class="fas fa-save"></i>.
-14. Em seguida, será exibida na tela a seguinte mensagem: “Publicação realizada com sucesso. Se há campos configurados como Filtro ou Buscável é preciso clicar no botão de reindexação”.  Se esse for o caso, na linha da entidade alterada, clique no ícone setas para reindexar a entidade. Assim, a criação do campo será concluída.
+14. Em seguida, será exibida na tela a seguinte mensagem: “Publicação realizada com sucesso. Se há campos configurados como Filtro ou Buscável é preciso clicar no botão de reindexação”. Se esse for o caso, na linha da entidade alterada, clique no ícone setas para reindexar a entidade. Assim, a criação do campo será concluída.
 
 ## Configurar os métodos de pagamento corretamente na VTEX
 

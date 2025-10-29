@@ -85,7 +85,7 @@ En la página **Set up TikTok for Business** (Configurar TikTok for Business), q
 3. En la sección **Business Center**, elige una de las siguientes opciones:
     * Para conectarte a un Centro de negocios existente: haz clic en `Connect`.
     * Para crear un nuevo Centro de negocios: escribe el nombre que desees para el nuevo Centro de negocios y haz clic en `Create New`.
-4.  Haz clic en la sección **TikTok Ad Account** para conectar tu [cuenta de TikTok Ads Manager](https://ads.tiktok.com/help/article?aid=9678), es decir, la cuenta que utilizas para crear publicidad en TikTok. 
+4. Haz clic en la sección **TikTok Ad Account** para conectar tu [cuenta de TikTok Ads Manager](https://ads.tiktok.com/help/article?aid=9678), es decir, la cuenta que utilizas para crear publicidad en TikTok. 
 5. En la sección **TikTok Ad Account**, elige una de las siguientes opciones:
     * Para conectarte a una cuenta publicitaria existente haz clic en `Connect`.
     * Para crear una nueva cuenta publicitaria: edita el nombre como desees de la nueva cuenta y haz clic en `Create New`.

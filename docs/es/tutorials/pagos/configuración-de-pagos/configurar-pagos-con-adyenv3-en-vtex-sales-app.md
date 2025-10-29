@@ -47,7 +47,7 @@ Para habilitar el acceso de VTEX en el entorno Adyen, sigue los pasos a continua
 2. En la barra lateral izquierda, copia y guarda la información descrita antes de **Company**. Esta es tu Company Account.
 3. En la lista de abajo, busca el nombre de la Merchant Account a utilizar (resaltada en blanco). Copia y guarda esta información.
 
-![Adyenv3_1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/configuraci%C3%B3n-de-pagos/configurar-pagos-con-adyenv3-en-vtex-sales-app_1.PNG)
+![Adyenv3_1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/configuración-de-pagos/configurar-pagos-con-adyenv3-en-vtex-sales-app_1.PNG)
 
 ### Obtener la POS Live URL
 
@@ -66,7 +66,7 @@ La información a continuación supone que la API Key se ha generado previamente
 2. Selecciona tu credencial API.
 3. En **Server Settings > Authentication**, selecciona **API key**. 
 
-![Adyenv3_2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/configuraci%C3%B3n-de-pagos/configurar-pagos-con-adyenv3-en-vtex-sales-app_2.PNG)
+![Adyenv3_2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/configuración-de-pagos/configurar-pagos-con-adyenv3-en-vtex-sales-app_2.PNG)
 
 <blockquote><ui>4. Haz clic en **Generate Key** y anota la información creada en un lugar seguro.</ui>
 
@@ -82,7 +82,7 @@ Configura el webhook según los pasos a continuación:
 4. En **General > Description**, agrega una descripción para el nuevo webhook. Ejemplo: "Webhook Adyen Connector Provider v3".
 5. En **General > Server configuration > URL**, introduce la URL de tu cuenta VTEX. Ejemplo https://{{account}}.myvtex.com/_v3/api/webhook/notification.
 
-![Adyenv3_4](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/configuraci%C3%B3n-de-pagos/configurar-pagos-con-adyenv3-en-vtex-sales-app_3.PNG)
+![Adyenv3_4](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/configuración-de-pagos/configurar-pagos-con-adyenv3-en-vtex-sales-app_3.PNG)
 
 <blockquote><ui>6. Haz clic en **Apply**.</ui>
 
@@ -90,11 +90,11 @@ Configura el webhook según los pasos a continuación:
 
 <blockquote><ui>8. Haz clic en **Save changes**.</ui>
 
-![Adyenv3_5](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/configuraci%C3%B3n-de-pagos/configurar-pagos-con-adyenv3-en-vtex-sales-app_4.PNG)
+![Adyenv3_5](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/configuración-de-pagos/configurar-pagos-con-adyenv3-en-vtex-sales-app_4.PNG)
 
-![Adyenv3_6](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/configuraci%C3%B3n-de-pagos/configurar-pagos-con-adyenv3-en-vtex-sales-app_5.PNG)
+![Adyenv3_6](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/configuración-de-pagos/configurar-pagos-con-adyenv3-en-vtex-sales-app_5.PNG)
 
-![Adyenv3_7](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/configuraci%C3%B3n-de-pagos/configurar-pagos-con-adyenv3-en-vtex-sales-app_6.PNG)
+![Adyenv3_7](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pagos/configuración-de-pagos/configurar-pagos-con-adyenv3-en-vtex-sales-app_6.PNG)
 
 > ℹ️ Si tienes varias tiendas, es necesario configurar el webhook para cada una de ellas.
 

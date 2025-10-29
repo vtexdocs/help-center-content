@@ -22,7 +22,7 @@ To import images in bulk, follow the step-by-step instructions below:
 1. In the VTEX Admin, go to __Catalog__, or type __Catalog__ in the search bar at the top of the page.
 2. Click **Import and export**.
 3. Click the **Import images** tab.
-4. Click [here](https://docs.google.com/spreadsheets/d/17ItiEncnnioxLZFLiKDTxs5Yj0D6tn-i/edit?usp=sharing&ouid=115538149359194322936&rtpof=true&sd=true) to download the template sheet in the format admitted by  the system (.xls), so that you can import product images seamlessly.
+4. Click [here](https://docs.google.com/spreadsheets/d/17ItiEncnnioxLZFLiKDTxs5Yj0D6tn-i/edit?usp=sharing&ouid=115538149359194322936&rtpof=true&sd=true) to download the template sheet in the format admitted by the system (.xls), so that you can import product images seamlessly.
 5. Fill in the template according to the description in the [Filling in a template to import images](#filling-in-a-template-to-import-images) section. Then, save it to your computer.
 6. Click the <i class="fas fa-folder-open"></i> `Select file...` button.
 7. Look for the file saved in your computer and click `Open`.

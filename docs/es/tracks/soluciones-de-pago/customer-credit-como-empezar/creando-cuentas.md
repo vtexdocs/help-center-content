@@ -85,6 +85,6 @@ El procedimiento es similar a [crear múltiples cuentas](#crear-varias-cuentas-i
 
 ## Crear cuenta a través de API
 
-También puede crear cuentas para sus clientes en Customer Credit a través  endpoint [POST - Open an account](https://developers.vtex.com/docs/api-reference/customer-credit-api#post-/api/creditcontrol/accounts).
+También puede crear cuentas para sus clientes en Customer Credit a través endpoint [POST - Open an account](https://developers.vtex.com/docs/api-reference/customer-credit-api#post-/api/creditcontrol/accounts).
 
 Para obtener más información sobre los endpoints de la API de Customer Credit, acesse [Customer Credit API - Overview](https://developers.vtex.com/docs/api-reference/customer-credit-api#overview).

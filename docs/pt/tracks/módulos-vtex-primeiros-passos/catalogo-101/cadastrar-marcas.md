@@ -36,9 +36,9 @@ Siga as instruções abaixo para criar e atualizar as marcas dos produtos dispon
   - __Ativar marca__: ao selecionar essa caixa, a marca fica visível e pronta para o uso nos produtos cadastrados.
 5. Clique em `Salvar`.
 
-As informações preenchidas no cadastro podem ser atualizadas a qualquer momento através do módulo de Catálogo. Para editar as informações de uma marca, basta clicar no botão  `Alterar `. 
+As informações preenchidas no cadastro podem ser atualizadas a qualquer momento através do módulo de Catálogo. Para editar as informações de uma marca, basta clicar no botão `Alterar `. 
 
-Para excluir o cadastro de alguma marca, você deve clicar na seta ao lado de  `Alterar ` e selecionar a opção `Excluir`. 
+Para excluir o cadastro de alguma marca, você deve clicar na seta ao lado de `Alterar ` e selecionar a opção `Excluir`. 
 
 ## API
 

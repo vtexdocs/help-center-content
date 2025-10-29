@@ -16,7 +16,7 @@ subcategoryId: 2Za4fjGfxYOo6oqykukgyy
 ---
 
 
-A store's main domain must have a subdomain, such as `www` or other. To access the store using a pure domain, such as `mystore.com`, which lacks a subdomain, a redirect is necessary.  This guide explains why you need a redirect and how to do it. Check out the following sections:
+A store's main domain must have a subdomain, such as `www` or other. To access the store using a pure domain, such as `mystore.com`, which lacks a subdomain, a redirect is necessary. This guide explains why you need a redirect and how to do it. Check out the following sections:
 
 * [Before you begin](#before-you-begin)
 * [Challenges of domains without subdomains](#challenges-of-domains-without-subdomains)

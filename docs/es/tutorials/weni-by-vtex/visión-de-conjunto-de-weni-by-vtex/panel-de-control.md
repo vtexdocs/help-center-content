@@ -19,7 +19,7 @@ subcategoryId: 6c1i8fEiPg5ZMZQiEE52fX
 
 Después de haber iniciado sesión correctamente en su organización y proyecto, tendrá acceso a esta pantalla:
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/visi%C3%B3n-de-conjunto-de-weni-by-vtex/panel-de-control_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/visión-de-conjunto-de-weni-by-vtex/panel-de-control_1.png)
 
 Vamos a una breve explicación de cada menú:
 

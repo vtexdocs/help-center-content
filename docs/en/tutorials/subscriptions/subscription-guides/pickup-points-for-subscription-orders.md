@@ -30,10 +30,10 @@ Check out how to enable this feature:
 
 To offer pickup points for subscription orders, you must fulfill the logistical requirements listed below.
 
-*    You must have the [Subscriptions module](/en/tutorial/como-configurar-assinatura-v2--1FA9dfE7vJqxBna9Nft5Sj) installed and the pickup points option enabled. To do that, please contact [our Support](https://support.vtex.com/hc/pt-br/requests).
-*    You need to configure pickup points for your store. You can only use pickup points from the main store or franchises (white label sellers) for subscription orders. Learn how to configure pickup points in our article [Adding pickup points](/en/tutorial/adding-pickup-points--2R5ClQiwe4KoSQgsuiOw4E).
-*    Carriers associated with pickup points for subscription orders **cannot** have any [delivery windows](/en/tutorial/entrega-agendada--22g3HAVCGLFiU7xugShOBi) configured.
-*   Make sure that you have the items in stock at the subscription cycle date (the moment when recurring orders are created).
+- You must have the [Subscriptions module](/en/tutorial/como-configurar-assinatura-v2--1FA9dfE7vJqxBna9Nft5Sj) installed and the pickup points option enabled. To do that, please contact [our Support](https://support.vtex.com/hc/pt-br/requests).
+- You need to configure pickup points for your store. You can only use pickup points from the main store or franchises (white label sellers) for subscription orders. Learn how to configure pickup points in our article [Adding pickup points](/en/tutorial/adding-pickup-points--2R5ClQiwe4KoSQgsuiOw4E).
+- Carriers associated with pickup points for subscription orders **cannot** have any [delivery windows](/en/tutorial/entrega-agendada--22g3HAVCGLFiU7xugShOBi) configured.
+- Make sure that you have the items in stock at the subscription cycle date (the moment when recurring orders are created).
 
 ## Choosing pickup points
 

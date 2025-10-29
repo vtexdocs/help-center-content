@@ -32,12 +32,12 @@ Permite que você utilize um cartão de crédito da loja com uma das seguintes b
 
 ## Como configurar pagamentos customizados
 
-1.  No Admin VTEX, acesse **Configurações da loja** > **Pagamentos** > **Configurações**, ou digite **Configurações** na barra de busca no topo da página.  
-2.  Acesse a aba **Pagamentos Customizados**.  
-3.  Selecione uma das opções de pagamento customizado.  
-4.  Preencha os campos do formulário e clique em  **Salvar**.
+1. No Admin VTEX, acesse **Configurações da loja** > **Pagamentos** > **Configurações**, ou digite **Configurações** na barra de busca no topo da página.  
+2. Acesse a aba **Pagamentos Customizados**.  
+3. Selecione uma das opções de pagamento customizado.  
+4. Preencha os campos do formulário e clique em **Salvar**.
 
-![PT Pagamento Customizado](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/m%C3%B3dulos-vtex-primeiros-passos/pagamentos/configurar-pagamentos-customizados_1.gif)
+![PT Pagamento Customizado](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/módulos-vtex-primeiros-passos/pagamentos/configurar-pagamentos-customizados_1.gif)
 
 Após essa configuração, será necessária a criação da [Condição de Pagamento](/pt/tutorial/condicoes-de-pagamento/).  
 

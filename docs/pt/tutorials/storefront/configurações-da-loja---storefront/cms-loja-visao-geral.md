@@ -20,7 +20,7 @@ A página **Loja** permite que você realize configurações de SEO, habilite fl
 
 No Admin VTEX, acesse **Configurações da loja > Storefront > Loja** e descubra as principais ferramentas disponíveis na interface.
 
-![CMS Loja](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/configura%C3%A7%C3%B5es-da-loja---storefront/cms-loja-visao-geral_1.png)
+![CMS Loja](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/storefront/configurações-da-loja---storefront/cms-loja-visao-geral_1.png)
 
 <div style="background-color:#FFF3CD; border-left: 2px solid #F0AD4E; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px">
   Antes de fazer alterações na aba **Avançado**, entre em contato com a sua equipe de desenvolvedores e consulte a nossa [documentação sobre a otimização de desempenho](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-best-practices-for-optimizing-performance#enabling-store-settings) para mais informações.

@@ -39,7 +39,7 @@ El app le da dos opciones en cuanto a la cuenta en el GMC. Elija la opción que 
 
 Al seleccionar __"Crear nueva"__, es muy importante enseguida [acceder al GMC](https://www.google.com/retail/solutions/merchant-center/) y configurar el logo y los datos de su empresa. Usted debe iniciar sesión con el mismo correo electrónico que definió para esta cuenta. Estos datos se utilizarán para los anuncios de remarketing en display.
 
-- __Asociar existente:__ el app utilizará la cuenta que ya posee en el GMC. Al  momento de iniciar sesión, debe utilizar exactamente el mismo correo electrónico que utiliza en el GMC que desea asociar.
+- __Asociar existente:__ el app utilizará la cuenta que ya posee en el GMC. Al momento de iniciar sesión, debe utilizar exactamente el mismo correo electrónico que utiliza en el GMC que desea asociar.
 
 > ⚠️ **OBS:** la URL configurada en el GMC debe ser **exactamente la misma** que fue elegida anteriormente. Inclusive, tomando en cuenta el protocolo (http o https).
 
@@ -71,7 +71,7 @@ Estas son:
 
 En este caso, VTEX Shopping Ads utiliza la cuenta que el usuario ya tiene en Google Ads. Debido a esto, se mantienen tanto las configuraciones de las campañas como la forma de pago.
 
-Ahora, al seleccionar esta opción, el administrador de la tienda  debe iniciar sesión con un correo electrónico que tenga acceso administrativo a la cuenta de Google Ads. A continuación, debe seleccionar el Id de la cuenta que el usuario desea asociar con VTEX Shopping Ads. Finalmente, haga clic en __ "Continuar"__.
+Ahora, al seleccionar esta opción, el administrador de la tienda debe iniciar sesión con un correo electrónico que tenga acceso administrativo a la cuenta de Google Ads. A continuación, debe seleccionar el Id de la cuenta que el usuario desea asociar con VTEX Shopping Ads. Finalmente, haga clic en __ "Continuar"__.
 
 ### Crear nueva
 

@@ -25,15 +25,15 @@ As conversas iniciadas pela empresa são divididas em três categorias: utilidad
 
 - **Utilidade**:  Serve para facilitar uma solicitação, transação ou atualização sobre transações em andamento, incluindo notificações pós-venda e extratos de faturas recorrentes.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integra%C3%A7%C3%B5es/precificacao-do-whatsapp-business-api_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integrações/precificacao-do-whatsapp-business-api_1.png)
 
 - **Autenticação**:  Serve para autenticação de usuários com senhas de uso único em várias etapas do processo de login. Por exemplo, verificação da conta, recuperação da conta e desafios de integridade.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integra%C3%A7%C3%B5es/precificacao-do-whatsapp-business-api_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integrações/precificacao-do-whatsapp-business-api_2.png)
 
 - **Marketing**: Serve para promoções ou ofertas, atualizações de informações ou convites. As conversas que não se enquadrarem nas categorias de utilidade ou autenticação serão consideradas de marketing.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integra%C3%A7%C3%B5es/precificacao-do-whatsapp-business-api_3.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integrações/precificacao-do-whatsapp-business-api_3.png)
 
 #### **Conversas iniciadas pelo usuário**
 

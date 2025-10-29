@@ -48,7 +48,7 @@ Después, debes configurar el código de identificación de la tienda en Tag Man
 4. En el campo __Google Tag Manager__, ingresa el código de identificación de la tienda, en el formato `GTM-XXXX`, ilustrado en la imagen siguiente.
 5. Haz clic en `Guardar`.
 
-![Google Tag Manager](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/checkout/configuraci%C3%B3n-de-checkout/integracion-con-google-tag-manager_1.PNG)
+![Google Tag Manager](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/checkout/configuración-de-checkout/integracion-con-google-tag-manager_1.PNG)
 
 Para verificar eventos (activadores) y variables disponibles en las páginas que se utilizarán en las etiquetas, puedes utilizar el modo de vista previa de Google Tag Manager. Consulta este artículo en [Google Tag Manager](https://support.google.com/tagmanager/answer/6261285?hl=es) para más información.
 

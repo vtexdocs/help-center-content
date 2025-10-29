@@ -22,7 +22,7 @@ Esta ferramenta permite o controle das aprovações de pedidos com mudanças em 
 ## O que muda
 Agora, ao invés de abrir um chamado diretamente com o suporte, é possível configurar as regras de autorização pelo admin. Para isso, acesse o caminho: Menu - Gerenciamento de Pedidos - Autorização de Pedidos.
 
-![Print Tela Principal OrderAuthorization (2)](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2019/mar%C3%A7o/2019-03-26-aumente-suas-vendas-com-a-nova-tela-autorizacao-de-pedidos_1.jpg)
+![Print Tela Principal OrderAuthorization (2)](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/announcements/2019/março/2019-03-26-aumente-suas-vendas-com-a-nova-tela-autorizacao-de-pedidos_1.jpg)
 
 ## O que você precisa fazer
 Importante mencionar que a loja não perde as regras configuradas através do fluxo antigo, que era feito abrindo chamado para a equipe de suporte. Elas serão atualizadas automaticamente na nova tela.

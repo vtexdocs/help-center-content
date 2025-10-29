@@ -24,9 +24,9 @@ Gerentes e **Vendedores Responsáveis (VR)** podem atualizar suas informações 
 3. Faça as alterações desejadas.  
 4. Clique em **Atualizar** para salvar as mudanças.
 
-![Dados da conta](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/conta-do-usu%C3%A1rio/atualizar-informacoes-de-perfil-na-plataforma-indeva_1.png)
+![Dados da conta](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/conta-do-usuário/atualizar-informacoes-de-perfil-na-plataforma-indeva_1.png)
 
-![Dados conta 2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/conta-do-usu%C3%A1rio/atualizar-informacoes-de-perfil-na-plataforma-indeva_2.png)
+![Dados conta 2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/conta-do-usuário/atualizar-informacoes-de-perfil-na-plataforma-indeva_2.png)
 
 ## Gerenciar perfis de gerentes e Vendedores Responsáveis (VR)
 

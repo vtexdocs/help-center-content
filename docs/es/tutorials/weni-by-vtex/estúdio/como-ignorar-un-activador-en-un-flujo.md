@@ -23,14 +23,14 @@ Si deseas mantener a tus contactos en un flujo hasta que lo terminen o expire, p
 
 -    Ve a ""Flujo"" y haz clic en el flujo que deseas modificar.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/est%C3%BAdio/como-ignorar-un-activador-en-un-flujo_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/estúdio/como-ignorar-un-activador-en-un-flujo_1.png)
 
 -    Haz clic en el ícono de engranaje en la esquina superior derecha del editor de flujo y luego selecciona la opción ""Editar"".
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/est%C3%BAdio/como-ignorar-un-activador-en-un-flujo_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/estúdio/como-ignorar-un-activador-en-un-flujo_2.png)
 
 -    Marca la casilla ""Ignorar los activadores de palabras clave mientras se encuentre en este flujo""
 
 -   Haz clic en ""Guardar Cambios"".
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/est%C3%BAdio/como-ignorar-un-activador-en-un-flujo_3.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/weni-by-vtex/estúdio/como-ignorar-un-activador-en-un-flujo_3.png)

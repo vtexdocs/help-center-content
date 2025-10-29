@@ -49,7 +49,7 @@ Para utilizar o Customer Credit como meio de pagamento em uma compra, o cliente 
 
 ### Limite de crédito
 
-Cada conta possui um limite de crédito cadastrado no momento de sua abertura. Esse limite indica o valor máximo que o cliente pode utilizar para realizar uma ou mais compras  ao mesmo tempo via Customer Credit.
+Cada conta possui um limite de crédito cadastrado no momento de sua abertura. Esse limite indica o valor máximo que o cliente pode utilizar para realizar uma ou mais compras ao mesmo tempo via Customer Credit.
 
 > ⚠️ O limite de crédito de uma conta pode ser alterado pelo lojista a qualquer momento.
 
@@ -77,7 +77,7 @@ Após o cliente realizar a compra utilizando o Customer Credit, o pagamento é a
 
 O fluxo no Customer Credit é similar ao de cartões de crédito em relação a modificações no pedido. Quando uma alteração de valor no pedido ocorre durante o período de pré-autorização, o valor do crédito é alterado.
 
-> ⚠️ Se for necessário alterar  uma ordem para diminuir o seu valor após o período de liquidação (emissão de títulos), o sistema irá atualizar os títulos para o novo valor. Caso o valor do pedido seja aumentado, o sistema criará novos títulos.
+> ⚠️ Se for necessário alterar uma ordem para diminuir o seu valor após o período de liquidação (emissão de títulos), o sistema irá atualizar os títulos para o novo valor. Caso o valor do pedido seja aumentado, o sistema criará novos títulos.
 
 ## Instalação e configuração
 Para instalar e configurar o Customer Credit em sua loja, acesse a Track [Customer Credit - Como começar](/pt/tracks/customer-credit-como-comecar--1hCRg21lXYy2seOKgqQ2CC/36grlQ69NK6OCuioeekyCs).

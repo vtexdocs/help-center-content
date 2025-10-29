@@ -15,7 +15,7 @@ trackSlugEN: instore-usando-o-app
 order: 7
 ---
 
-Com a [prateleira infinita](/pt/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv/40KMlmGI5tN0r0KPCDWgGn) do VTEX Sales App, o vendedor pode buscar por produtos que não estão limitados ao estoque da loja e adicioná-los ao carrinho. Para buscar um produto, clique no ícone de lupa <i class="fas fa-search"></i> e a barra de busca será exibida no topo da página inicial da loja.  Digite o nome do produto, código referência, SKU ID  ou EAN para encontrar o que precisa.
+Com a [prateleira infinita](/pt/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv/40KMlmGI5tN0r0KPCDWgGn) do VTEX Sales App, o vendedor pode buscar por produtos que não estão limitados ao estoque da loja e adicioná-los ao carrinho. Para buscar um produto, clique no ícone de lupa <i class="fas fa-search"></i> e a barra de busca será exibida no topo da página inicial da loja. Digite o nome do produto, código referência, SKU ID ou EAN para encontrar o que precisa.
 
 > ℹ️ Para melhorar a experiência em cenários em que a conexão com a internet esteja em baixa velocidade, esta funcionalidade conta com recursos otimizados que fazem uso do cache do navegador para otimizar a busca.
 
@@ -47,7 +47,7 @@ Para utilizar os filtros de busca no VTEX Sales App, é necessário antes instal
 Além das configurações do VTEX Intelligent Search, é preciso [entrar em contato com o time de suporte da VTEX](https://support.vtex.com/hc/pt-br/requests) para habilitar a funcionalidade de filtros no VTEX Sales App.
 
 Uma vez que os filtros estejam habilitados, é possível utilizar esse recurso seguindo o procedimento abaixo durante a busca por produtos:
-1. Se estiver utilizando o VTEX Sales App em um dispositivo móvel, como um smartphone, clique em `Filtros`.  Se estiver usando outro dispositivo com uma tela maior, pule este passo.
+1. Se estiver utilizando o VTEX Sales App em um dispositivo móvel, como um smartphone, clique em `Filtros`. Se estiver usando outro dispositivo com uma tela maior, pule este passo.
 2. Selecione os filtros desejados.
 3. Clique em `Filtrar`.
 

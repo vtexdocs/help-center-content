@@ -22,7 +22,7 @@ Para acceder a esta sección, haz clic en tu **avatar de perfil**, que se puede 
 
 > ℹ️ Solo los usuarios con perfil de acceso [Finance](/es/tutorial/predefined-roles--jGDurZKJHvHJS13LnO7Dy#finance), [Finance Full Access](/es/tutorial/predefined-roles--jGDurZKJHvHJS13LnO7Dy#finance-full-access) o con recursos de [Billing](/es/tutorial/recursos-do-license-manager-billing--13qKy6rwf9chc8ta90rDcy) vinculadas a su Perfil de acceso tendrán acceso a esta sección del VTEX Admin.            
 
-![Admin v4 Faturas menu ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/facturas/facturaci%C3%B3n-visi%C3%B3n-general/vision-general-facturacion_1.jpg)
+![Admin v4 Faturas menu ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/facturas/facturación-visión-general/vision-general-facturacion_1.jpg)
 
 A continuación encontrarás más detalles sobre las diferentes secciones y páginas de esta funcionalidad.
 

@@ -24,7 +24,7 @@ No menu lateral da Indeva, clique em **Relatórios > Fluxo de aproveitamento**.
 No gráfico, a linha laranja representa a **média da taxa de conversão da loja**.  
 O objetivo é que a taxa de conversão por hora permaneça acima dessa linha de referência.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/relat%C3%B3rios/consultar-relatorio-de-fluxo-de-aproveitamento-na-plataforma-indeva_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/relatórios/consultar-relatorio-de-fluxo-de-aproveitamento-na-plataforma-indeva_1.png)
 
 ## Utilizar relatório estrategicamente
 
@@ -32,7 +32,7 @@ Essas informações ajudam a identificar os horários de maior aproveitamento de
 
 > ℹ️ Posicione o cursor sobre os pontos do gráfico para visualizar o percentual da taxa de conversão.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/relat%C3%B3rios/consultar-relatorio-de-fluxo-de-aproveitamento-na-plataforma-indeva_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/relatórios/consultar-relatorio-de-fluxo-de-aproveitamento-na-plataforma-indeva_2.png)
 
 > ⚠️ Antes de consultar o relatório, defina corretamente a **data de início** e a **data de fim** no filtro de datas.
 

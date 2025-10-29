@@ -44,7 +44,7 @@ Al entrar en el Message Center y hacer clic en __Templates__, encontrará una li
 
 Comprendamos la información presente en estos cards.
 
-![Emails 1 1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/m%C3%B3dulos-vtex-primeros-pasos/e-mails-transaccionales/como-funciona-el-message-center_1.png)
+![Emails 1 1](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/módulos-vtex-primeros-pasos/e-mails-transaccionales/como-funciona-el-message-center_1.png)
 
 - Nombre del template para identificación interna. Este *no* es el asunto del correo electrónico.  
 - Aplicación o módulo al que pertenece el template, indicado en verde.  
@@ -54,7 +54,7 @@ Comprendamos la información presente en estos cards.
   
 Para buscar templates, puede utilizar filtros por aplicación (módulo) y tipo (mensaje estándar o personalizado).
 
-![Emails 1 2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/m%C3%B3dulos-vtex-primeros-pasos/e-mails-transaccionales/como-funciona-el-message-center_2.png)
+![Emails 1 2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/módulos-vtex-primeros-pasos/e-mails-transaccionales/como-funciona-el-message-center_2.png)
 
 ### Remitentes
 
@@ -62,7 +62,7 @@ Aquí, el usuario verifica y edita la información - nombre, correo electrónico
 
 Esta es la información que se muestra en los cards de los remitentes:
 
-![Emails 1 3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/m%C3%B3dulos-vtex-primeros-pasos/e-mails-transaccionales/como-funciona-el-message-center_3.png)
+![Emails 1 3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/módulos-vtex-primeros-pasos/e-mails-transaccionales/como-funciona-el-message-center_3.png)
 
 - Nombre del remitente, para identificación interna.  
 - Tipo de servidor SMTP, que puede ser de VTEX o de la propia tienda.  

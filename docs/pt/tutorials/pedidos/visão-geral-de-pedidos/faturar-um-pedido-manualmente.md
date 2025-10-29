@@ -32,7 +32,7 @@ Para enviar a fatura pelo Admin VTEX, realize os seguintes passos:
 2. Busque o pedido pela barra de busca ou [utilizando os filtros](/pt/tutorial/como-filtrar-pedidos--tutorials_192).  
 3. Clique no pedido desejado.     
 4. Na seção **Itens para faturar,** clique no ícone de seta <i class="fas fa-chevron-right"></i> para expandir.
-![Itens faturar](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pedidos/vis%C3%A3o-geral-de-pedidos/faturar-um-pedido-manualmente_1.png)
+![Itens faturar](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pedidos/visão-geral-de-pedidos/faturar-um-pedido-manualmente_1.png)
 5. Clique no botão `Faturar`.   
 6. Clique na opção de faturamento desejada:    
     * **Enviar fatura referenciando itens:** para faturar o pedido referenciando os itens do pacote.    
@@ -62,7 +62,7 @@ Para enviar a fatura pelo Admin VTEX, realize os seguintes passos:
 
 Depois do pedido `Faturado`, confira as notas fiscais inseridas na seção **Fatura**, como apresentado na figura abaixo:
 
-![Fatura](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pedidos/vis%C3%A3o-geral-de-pedidos/faturar-um-pedido-manualmente_2.png)
+![Fatura](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/pedidos/visão-geral-de-pedidos/faturar-um-pedido-manualmente_2.png)
 
 Em casos de envios de [faturas parciais](/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe), ao [alterar ou remover itens](/pt/tutorial/how-to-change-order-items--7jekq618QxgbsOxKkXBjE8) de um pedido, o valor total do pedido será atualizado após o faturamento, e corresponde ao que é captado pelo gateway de pagamentos da VTEX.
 

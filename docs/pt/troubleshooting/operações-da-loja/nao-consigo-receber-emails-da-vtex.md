@@ -94,4 +94,4 @@ Além disso, você também pode verificar se o endereço de email está cadastra
 3. Verifique se o endereço de email não está presente nos campos __Cc:__ ou __Cco:__ do template. Caso esteja, remova a informação e clique em `Salvar`.
 4. Realize este procedimento para cada um dos cards de template da loja e realize um teste de envio de email para o endereço desejado.
 
-![copia_email_pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/troubleshooting/opera%C3%A7%C3%B5es-da-loja/nao-consigo-receber-emails-da-vtex_1.png)
+![copia_email_pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/troubleshooting/operações-da-loja/nao-consigo-receber-emails-da-vtex_1.png)

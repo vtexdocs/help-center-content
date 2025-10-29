@@ -42,40 +42,40 @@ Caso você habilite a opção **Aplicar o desconto somente no frete mais barato*
 Se a loja configurar a estratégia de envio __Retirada__, que tem custo de R$ 0,00 para o cliente, a promoção pode considerar esse valor como o mais barato e não aplicar o desconto nos fretes de envio. Para garantir que a promoção funcione conforme esperado, aplicando o desconto de frete grátis aos fretes de envio, selecione todos os métodos, exceto __Retirada na Loja__.
 
 #### Configuração
-![Aplicar o desconto somente no frete mais barato - PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promo%C3%A7%C3%B5es-e-taxas/promo%C3%A7%C3%B5es/configurar-promocoes-de-frete_1.png)
+![Aplicar o desconto somente no frete mais barato - PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promoções-e-taxas/promoções/configurar-promocoes-de-frete_1.png)
 
 #### Resultado
-![saggincaso1.2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promo%C3%A7%C3%B5es-e-taxas/promo%C3%A7%C3%B5es/configurar-promocoes-de-frete_2.png)
+![saggincaso1.2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promoções-e-taxas/promoções/configurar-promocoes-de-frete_2.png)
 
 ### Cenário 2
 
 Caso você desabilite a opção Aplicar o desconto somente no frete mais barato, o desconto do frete será aplicado em todos os fretes disponíveis.
 
 #### Configuração
-![Nenhum frete selecionado -PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promo%C3%A7%C3%B5es-e-taxas/promo%C3%A7%C3%B5es/configurar-promocoes-de-frete_3.png)
+![Nenhum frete selecionado -PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promoções-e-taxas/promoções/configurar-promocoes-de-frete_3.png)
 
 #### Resultado
-![saggincaso2.2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promo%C3%A7%C3%B5es-e-taxas/promo%C3%A7%C3%B5es/configurar-promocoes-de-frete_4.png)
+![saggincaso2.2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promoções-e-taxas/promoções/configurar-promocoes-de-frete_4.png)
 
 ### Cenário 3
 
 Caso você habilite somente a opção **Tipo de Frete** e selecione os tipos de frete desejados, o desconto de frete será aplicado a todos os tipos de frete selecionados.
 
 #### Configuração
-![Tipo de Frete - PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promo%C3%A7%C3%B5es-e-taxas/promo%C3%A7%C3%B5es/configurar-promocoes-de-frete_5.png)
+![Tipo de Frete - PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promoções-e-taxas/promoções/configurar-promocoes-de-frete_5.png)
 
 #### Resultado
-![saggincaso2.2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promo%C3%A7%C3%B5es-e-taxas/promo%C3%A7%C3%B5es/configurar-promocoes-de-frete_6.png)
+![saggincaso2.2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promoções-e-taxas/promoções/configurar-promocoes-de-frete_6.png)
 
 ### Cenário 4
 
 Caso você habilite as opções **Tipo de Frete** e **Aplicar o desconto somente quando uma das transportadoras acima for selecionada pelo cliente** e selecione os tipos de frete desejados, o desconto de frete será aplicado para todos os tipos de frete selecionados somente quando o cliente escolher o tipo de frete no checkout.
 
 #### Configuração
-![Tipo de Frete e Aplicar o desconto somente quando uma das transportadoras acima for selecionada pelo cliente - PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promo%C3%A7%C3%B5es-e-taxas/promo%C3%A7%C3%B5es/configurar-promocoes-de-frete_7.png)
+![Tipo de Frete e Aplicar o desconto somente quando uma das transportadoras acima for selecionada pelo cliente - PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promoções-e-taxas/promoções/configurar-promocoes-de-frete_7.png)
 
 #### Resultado
-![saggincaso3.2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promo%C3%A7%C3%B5es-e-taxas/promo%C3%A7%C3%B5es/configurar-promocoes-de-frete_8.png)
+![saggincaso3.2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promoções-e-taxas/promoções/configurar-promocoes-de-frete_8.png)
 
 Em resumo, a função do checkbox **Aplicar o desconto somente quando uma das transportadoras acima for selecionada pelo cliente** é de aplicar o desconto somente quando a Transportadora for selecionada.
 

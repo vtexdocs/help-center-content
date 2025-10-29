@@ -34,7 +34,7 @@ La página Opciones de envío te permite realizar las siguientes acciones:
 - [Filtrar](#filtrar-una-opcion-de-envio)
 - [Configurar preferencias](#preferencias-de-opcion-de-envio)
 
-![delivery-options-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/beta/env%C3%ADo-beta/opciones-de-envio-beta_1.png)
+![delivery-options-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/beta/envío-beta/opciones-de-envio-beta_1.png)
 
 La página presenta la siguiente información en forma de tabla:
 
@@ -52,7 +52,7 @@ Para crear una nueva opción de envío sigue los pasos a continuación.
 1. En el Admin VTEX, accede a **Envío > Opciones de envío** o ingresa **Opciones de envío** en la barra de búsqueda en la parte superior de la página.
 2. Haz clic en `Crear opción de envío`.
 3. Llena los campos del formulario:
-  ![delivery-options-form-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/beta/env%C3%ADo-beta/opciones-de-envio-beta_2.png)
+  ![delivery-options-form-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/beta/envío-beta/opciones-de-envio-beta_2.png)
    - **Método de envío:** selecciona el tipo de método de envío (**Envío**, **Entrega programada**, **Recogida**, **Recogida programada**).
    - **Nombre de la opción:** ingresa el nombre de la opción que se mostrará al cliente durante la compra.
    - **Usar opción como filtro en la vitrina de la tienda**: marca la casilla para permitir que los clientes utilicen esta opción para filtrar los productos con los [filtros de Intelligent Search](/es/tutorial/filtros--k24mQQa9SjmhNWSwdqIMB).
@@ -135,7 +135,7 @@ Configura las opciones de envío en el storefront para personalizar la experienc
 1. En el Admin VTEX, accede a **Envío > Opciones de envío** o ingresa **Opciones de envío** en la barra de búsqueda en la parte superior de la página.
 2. Haz clic en `Preferencias`.
 3. Selecciona la forma en que deseas mostrar tus opciones de envío en la tienda.
-![delivery-options-preferencias-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/beta/env%C3%ADo-beta/opciones-de-envio-beta_3.png)
+![delivery-options-preferencias-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/beta/envío-beta/opciones-de-envio-beta_3.png)
    - **Mostrar siempre todas las opciones disponibles para el producto:** todas las opciones de envío que están disponibles en las condiciones de envío se mostrarán en la página del producto y en el checkout de la tienda.
    - **Mostrar solo la opción de menor costo y la de menor plazo:** solo se mostrarán las opciones de envío con el menor costo o el menor plazo en la página de producto y en el checkout de la tienda.
 4. Haz clic en `Guardar` para finalizar.

@@ -31,9 +31,9 @@ Siga el siguiente procedimiento para registrar el bloqueo de precio:
 
 ## API REST
 
-> ⚠️ Las autenticaciones para las llamadas de API REST del módulo de Precios deben realizarse a través de AppKey y AppToken. Para entender más, acceda a nuestro  artículo sobre [cómo generar un Appkey y un AppToken para autenticar sus integraciones](https://developers.vtex.com/vtex-developer-docs/docs/getting-started-authentication)
+> ⚠️ Las autenticaciones para las llamadas de API REST del módulo de Precios deben realizarse a través de AppKey y AppToken. Para entender más, acceda a nuestro artículo sobre [cómo generar un Appkey y un AppToken para autenticar sus integraciones](https://developers.vtex.com/vtex-developer-docs/docs/getting-started-authentication)
 
-Para registrar el **bloqueo de precio**, necesita enviar en __POST__ para el siguiente  endpoint:
+Para registrar el **bloqueo de precio**, necesita enviar en __POST__ para el siguiente endpoint:
 
 `https://api.vtex.com/{{account}}/pricing/config`
 

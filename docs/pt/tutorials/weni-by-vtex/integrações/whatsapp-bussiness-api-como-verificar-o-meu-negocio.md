@@ -31,21 +31,21 @@ A Weni, como empresa parceira oficial (BPS) da Meta, habilita o botão de verifi
 - Selecione a conta empresarial a ser utilizada
 - Siga com os passos abaixo para realizar a verificação de negócios.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integra%C3%A7%C3%B5es/whatsapp-bussiness-api-como-verificar-o-meu-negocio_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integrações/whatsapp-bussiness-api-como-verificar-o-meu-negocio_1.png)
 
 #### **Passo 1**
 
  Clique em Contas de WhatsApp e escolha a conta que deseja verificar
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integra%C3%A7%C3%B5es/whatsapp-bussiness-api-como-verificar-o-meu-negocio_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integrações/whatsapp-bussiness-api-como-verificar-o-meu-negocio_2.png)
 
 O status é mostrado ao selecionar a conta a ser verificada:
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integra%C3%A7%C3%B5es/whatsapp-bussiness-api-como-verificar-o-meu-negocio_3.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integrações/whatsapp-bussiness-api-como-verificar-o-meu-negocio_3.png)
 
 Clique em Iniciar verificação e uma nova janela será aberta:
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integra%C3%A7%C3%B5es/whatsapp-bussiness-api-como-verificar-o-meu-negocio_4.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integrações/whatsapp-bussiness-api-como-verificar-o-meu-negocio_4.png)
 
 Seguem alguns links importantes para o processo de Verificação de Negócios:
 
@@ -58,7 +58,7 @@ Caso já tenha integrado seu número na nossa plataforma através do Menu Integr
 
 Caso este botão não esteja visível, contate o suporte/seu analista responsável para auxílio da ativação do botão de verificação de negócios.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integra%C3%A7%C3%B5es/whatsapp-bussiness-api-como-verificar-o-meu-negocio_5.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/integrações/whatsapp-bussiness-api-como-verificar-o-meu-negocio_5.png)
 
 #### **Passo 3**
 

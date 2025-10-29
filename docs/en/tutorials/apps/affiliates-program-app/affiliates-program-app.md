@@ -123,7 +123,7 @@ At the top of the page, you see the following metrics about orders placed throug
 
 - **Total Orders:** Total number of affiliate orders.
 - **Order Total:** Sum of the order values, calculated from the item prices without shipping costs.
-- **Order Total Commission:**  Sum of the amounts of affiliate commissions on orders.
+- **Order Total Commission:** Sum of the amounts of affiliate commissions on orders.
 
 > ℹ️ To track an order flow, click the `Order ID`. This will redirect you to the VTEX Admin under **Orders > All Orders**.
 

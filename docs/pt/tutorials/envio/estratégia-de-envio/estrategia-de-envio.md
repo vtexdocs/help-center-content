@@ -17,7 +17,7 @@ subcategoryId: 7fTH6bP0C4IaM8qWi0kkQC
 
 Estratégia de envio é a relação entre estoque, doca e política de envio. A forma que   estoque, doca e política de envio se comunicam definirá a combinação de estrutura para entrega dos pedidos da loja.
 
-![shipping_strategy_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/estrat%C3%A9gia-de-envio/estrategia-de-envio_1.png)
+![shipping_strategy_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/envio/estratégia-de-envio/estrategia-de-envio_1.png)
 
 <table class="w-100 center mv7 bb b--gray" style="border-spacing: 0px; border-collapse: collapse;">
    <tr class="bb b--muted-3">

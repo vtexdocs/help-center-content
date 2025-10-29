@@ -112,7 +112,7 @@ Con la v2 de Master Data puedes definir formatos de datos con esquemas JSON. Est
 
 Puedes guardar un documento en cualquier entidad de datos si el contenido es un JSON válido. Una entidad de datos puede tener asociados o no varios esquemas JSON.
 
-![Master Data schemas](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/master-data/conceptos-b%C3%A1sicos-de-master-data/master-data_1.jpg)
+![Master Data schemas](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/master-data/conceptos-básicos-de-master-data/master-data_1.jpg)
 
 > ℹ️ Un documento puede ser compatible con varios esquemas JSON, o con ninguno.
 

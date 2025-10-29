@@ -26,7 +26,7 @@ VTEX tiene como objetivo garantizar el cumplimiento de los procedimientos y pol�
 - [Cuentas por pagar - Brasil](/es/tutorial/contas-a-pagar-brasil--tutorials_660): prácticas a seguir para todos los pagos a proveedores relacionados con los procedimientos de cuentas por pagar de las sucursales de VTEX en Brasil.
 - [Cuentas por pagar - Internacional](/es/tutorial/cuentas-por-pagar-internacional--3yea9sIlsA0KgUC28ASCGs): prácticas a seguir para todos los pagos a proveedores relacionados con los procedimientos de cuentas por pagar de las sucursales de VTEX a excepción de Brasil.
 
-> ℹ️ Para consultar la lista de sucursales VTEX en todo el mundo y saber en qué país se emiten facturas, consulta el artículo [ País de facturación de la tienda. ](/es/tutorial/nombres-de-las-sucursales-vtex-en-el-mundo--zg05n6OIOZOEmLW7dcq9z)
+> ℹ️ Para consultar la lista de sucursales VTEX en todo el mundo y saber en qué país se emiten facturas, consulta el artículo [País de facturación de la tienda.](/es/tutorial/nombres-de-las-sucursales-vtex-en-el-mundo--zg05n6OIOZOEmLW7dcq9z)
 
 ## Cálculo de los ingresos por facturación por VTEX
 
@@ -46,5 +46,5 @@ Tras el primer acceso, es posible modificar los datos registrados de la tienda, 
 
 Para realizar estas modificaciones es necesario [abrir un ticket de soporte financiero](/es/tutorial/abrir-tickets-para-el-soporte-vtex--16yOEqpO32UQYygSmMSSAM#financiero), especificando el tipo de modificación requerida.
 
-> ℹ️ Para obtener más información sobre cómo solicitar una evaluación de SLA y los descuentos concedidos por infracciones de SLA, consulta el artículo [ Cómo solicitar la verificación de SLA de operación de la plataforma. ](/es/tutorial/como-solicitar-la-verificacion-de-sla--3L99VeoLhYEwMqqkWKu86i)
+> ℹ️ Para obtener más información sobre cómo solicitar una evaluación de SLA y los descuentos concedidos por infracciones de SLA, consulta el artículo [Cómo solicitar la verificación de SLA de operación de la plataforma.](/es/tutorial/como-solicitar-la-verificacion-de-sla--3L99VeoLhYEwMqqkWKu86i)
 

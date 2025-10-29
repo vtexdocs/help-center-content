@@ -27,5 +27,5 @@ Para utilizá-la, siga o passo a passo abaixo:
 1. No Admin VTEX, acesse **Storefront**, ou digite **Storefront** na barra de busca no topo da página.
 2. Em **Intelligent Search**, clique em **Explicação da busca**. 
 
-![Explicação da Busca](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/intelligent-search/intelligent-search---vis%C3%A3o-geral/explicacao-da-busca_1.png)
+![Explicação da Busca](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/intelligent-search/intelligent-search---visão-geral/explicacao-da-busca_1.png)
 

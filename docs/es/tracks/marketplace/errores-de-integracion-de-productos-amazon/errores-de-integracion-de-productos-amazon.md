@@ -23,7 +23,7 @@ En este artículo, describimos los siguientes errores:
 
 - [Errores en la plantilla de mapeo de categorías y atributos de Amazon](#Errores-en-la-plantilla-de-mapeo-de-categorias-y-atributos-de-Amazon)
 - [Errores de falta de atributos obligatorios en Amazon](#Errores-de-falta-de-atributos-obligatorios-en-Amazon)
-- [Errores de divergencia entre los catálogos de VTEX y Amazon (match de anuncios)](#Errores-de-divergencia-entre-los-catálogos-de-VTEX-y-Amazon (match-de-anuncios))
+- [Errores de divergencia entre los catálogos de VTEX y Amazon (match de anuncios)](#Errores-de-divergencia-entre-los-catálogos-de-VTEX-y-Amazon)
 - [Errores de token y permisos de Amazon](#Errores-de-token-y-permisos-de-Amazon)
 - [Errores de configuración en la integración de Amazon](#Errores-de-configuracion-en-la-integracion-de-Amazon)
 - [Errores de envío de la categoría global VTEX](#Errores-de-envio-de-la-categoria-global-VTEX)

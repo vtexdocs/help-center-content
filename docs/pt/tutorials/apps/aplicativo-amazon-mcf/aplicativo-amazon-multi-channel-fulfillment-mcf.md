@@ -69,7 +69,7 @@ Para realizar essa configuração, acesse o Admin e siga os passos abaixo.
 5. Na mesma página, no canto superior direito, clique em `PUBLISH`;
 6. Clique no botão do ícone `Store Settings`, no menu esquerdo;
 7. No menu lateral esquerdo, busque a seção **Storefront** e clique em `Checkout`.
-8. Clique no <i class="fas fa-cog"></i>  que está no cartão das configurações de **Checkout;**
+8. Clique no <i class="fas fa-cog"></i> que está no cartão das configurações de **Checkout;**
 9. Preencha o campo **Google Maps API Key:**
 10. No menu lateral esquerdo, busque a seção **Shipping** e clique em `Geolocation Shipping`.
 11. Preencha a chave **Google Geolocation API**;

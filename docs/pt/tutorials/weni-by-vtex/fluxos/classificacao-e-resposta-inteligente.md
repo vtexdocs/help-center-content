@@ -29,7 +29,7 @@ Existem duas formas de se criar uma IA de classificação na Weni Plataforma: at
 
 Com o cartão **Aguarde por resposta inteligente** , você consegue aguardar pela resposta do usuário e enviar essa resposta direto para a sua Classificação de IA, assim você cria suas categorias e trata cada intenção como desejar:
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/classificacao-e-resposta-inteligente_1.png)
+![](https://lh7-us.googleusercontent.com/FetuxrdrvbyqOvpD3v96bxqwF9wqMNP8Z_DXxeyqSdeld14eK2zYK3jKod-5DOIwtvUmlE0AEjMFILaZ1CanWNPh6q1jtGmWOksLqtiwzP4P8OxzrVZ4PWqLksl24_r4KSGcLqFF--3JP87spVils7s)
 
 No exemplo abaixo, criamos as intenções e seus devidos contextos para que possamos categorizar e tratar as solicitações do usuário:
 
@@ -47,6 +47,6 @@ Lembre-se, cada categoria deve ter uma Frase de Comando. **As frases de comando 
 
 Com o cartão **Classificar automaticamente** , você pode utilizar uma expressão ou variáveis como a entrada para a classificação da intenção (Classe) do usuário. Normalmente esse cartão é usado quando você já tem um texto para tratar e não precisa aguardar uma resposta do usuário antes de consultar a Inteligência artificial:
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/fluxos/classificacao-e-resposta-inteligente_4.png)
+![](https://lh7-us.googleusercontent.com/3R71nFNe65l_P5NqL0T1NMJtJzLE-gDOSNQojr0cdSbtZAsBTCatfz6-LBS56PIIEHzO5cMx2g6ORaYHD7H5zDMKbx7Uq6nIRHG42_Zay8z1xh5fevY_VdMYRL7NbX33Jaeoo7DIedD_uPPeYV0DX4E)
 
 Diferença entre o cartão **Aguarde por resposta inteligente** e o **Classificar automaticamente -** O **Classificar automaticamente** não irá provocar uma pausa no fluxo para receber a resposta do contato.

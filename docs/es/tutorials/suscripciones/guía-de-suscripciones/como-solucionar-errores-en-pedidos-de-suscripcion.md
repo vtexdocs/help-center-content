@@ -30,7 +30,7 @@ Los problemas en ciclos de suscripción se producen cuando hay un impedimento pa
 
 La pestaña **Ciclos con un problema**, que se ilustra en la siguiente imagen, recoge los pedidos de suscripción que tienen este tipo de problemas.
 
-![pedidos_assinaturas_print_es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/suscripciones/gu%C3%ADa-de-suscripciones/como-solucionar-errores-en-pedidos-de-suscripcion_1.png)
+![pedidos_assinaturas_print_es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/suscripciones/guía-de-suscripciones/como-solucionar-errores-en-pedidos-de-suscripcion_1.png)
 
 Desde esta pestaña se puede gestionar los pedidos que presentan ciclos con un problema y realizar reintentos manuales de creación de pedidos. Por ejemplo, cuando un producto no está disponible, puede ajustar el stock y volver a intentarlo.
 
@@ -67,7 +67,7 @@ Los errores de pago se producen durante el flujo de aprobación del pago, como e
 
 Los pedidos con este tipo de error pueden visualizarse en la pestaña **Error de pago**, ilustrada en la siguiente imagen.
 
-![pedidos_assinaturas_print_erro_pagamento_es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/suscripciones/gu%C3%ADa-de-suscripciones/como-solucionar-errores-en-pedidos-de-suscripcion_2.png)
+![pedidos_assinaturas_print_erro_pagamento_es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/suscripciones/guía-de-suscripciones/como-solucionar-errores-en-pedidos-de-suscripcion_2.png)
 
 Para analizar errores de pago, realice el siguiente procedimiento.
 

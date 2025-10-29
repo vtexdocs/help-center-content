@@ -25,7 +25,7 @@ Para visualizar o relatório:
 
 - No menu lateral esquerdo da tela, clique em **Menu > Relatórios > Fluxo de oportunidades**.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/relat%C3%B3rios/consultar-relatorio-de-fluxo-de-oportunidades-na-plataforma-indeva_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/relatórios/consultar-relatorio-de-fluxo-de-oportunidades-na-plataforma-indeva_1.png)
 
 ## Analisar gráficos de conversão
 

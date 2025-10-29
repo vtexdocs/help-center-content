@@ -28,7 +28,7 @@ A tela exibirá as seguintes informações:
 
 Para visualizar as respostas individualmente, clique sobre o nome de cada loja.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/formul%C3%A1rios-indeva/revisar-respostas-de-formularios-enviados-pelas-lojas-na-plataforma-indeva_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/formulários-indeva/revisar-respostas-de-formularios-enviados-pelas-lojas-na-plataforma-indeva_1.png)
 
 ## Visualizar indicadores da loja
 

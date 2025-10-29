@@ -14,8 +14,7 @@ locale: pt
 legacySlug: recebi-uma-nota-fiscal-e-nao-sou-cliente-vtex-por-que
 ---
 
-A VTEX opera atualmente com 4 plataformas distintas:  __VTEX, Loja Integrada, Integrando.se, Xtech, Biggy, CIA SHOP e UniteU.
-__.
+A VTEX opera atualmente com 4 plataformas distintas: __VTEX, Loja Integrada, Integrando.se, Xtech, Biggy, CIA SHOP e UniteU.__.
 
 Se você não utiliza a plataforma de e-commerce VTEX, mas é cliente de uma das outras citadas acima, isso significa que os serviços prestados para elas também terão suas Notas Fiscais emitidas com o CNPJ VTEX.
 

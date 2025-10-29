@@ -18,14 +18,14 @@ order: 3
 
 _Stock_ es la funcionalidad de gestión de los productos disponibles para la venta. Una vez [registrados los productos](/es/tutorial/campos-de-registro-de-producto--4dYXWIK3zyS8IceKkQseke) en el [catálogo](/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3rA2tTpIoEXdv2nzC27zxR), es necesario añadirlos al _stock_ de una tienda para que estén realmente disponibles para la venta. El módulo de [Gestión del stock](/es/tutorial/gestionar-items-en-inventario--tutorials_139) es donde los ítems del catálogo se vinculan a un _stock_.
 
-> ℹ️ Recuerda que debes añadir al menos un [almacén](/es/tutorial/almacen--6oIxvsVDTtGpO7y6zwhGpb) en tu tienda antes de poder utilizar la funcionalidad de [ Stock.](/es/tutorial/gestionar-items-en-inventario--tutorials_139)
+> ℹ️ Recuerda que debes añadir al menos un [almacén](/es/tutorial/almacen--6oIxvsVDTtGpO7y6zwhGpb) en tu tienda antes de poder utilizar la funcionalidad de [Stock.](/es/tutorial/gestionar-items-en-inventario--tutorials_139)
 
 Mediante dicha funcionalidad, el administrador de la tienda también puede comprobar:
 
 * la disponibilidad de los ítems;
 * el _stock_ donde se encuentran los ítems;
 * el historial de movimientos de los ítems;
-* los ítems[ reservados](/es/tutorial/como-se-maneja-la-reserva--tutorials_92).
+* los ítems[reservados](/es/tutorial/como-se-maneja-la-reserva--tutorials_92).
 
 Para añadir ítems en masa a un _stock_, utiliza la plantilla de importación de _stock_. Lee el artículo [Importar y exportar plantilla de stock](/es/tutorial/importando-y-exportando-plantilla-de-stock--tutorials_2034) y obtén más información.
 

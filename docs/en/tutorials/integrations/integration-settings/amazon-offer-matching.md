@@ -23,7 +23,7 @@ On VTEX, the EAN is used to map the products with the corresponding [ASINs](http
 
 ## Opportunity tab  
 
-On the __Opportunity tab__, sellers can match products sent to Amazon individually or in bulk, search by product name, and by clicking the <i class="fas fa-ellipsis-v"></i> icon,  choose to either view the details of the products or the corresponding offer on Amazon.  
+On the __Opportunity tab__, sellers can match products sent to Amazon individually or in bulk, search by product name, and by clicking the <i class="fas fa-ellipsis-v"></i> icon, choose to either view the details of the products or the corresponding offer on Amazon.  
 
 See the tab structure below.  
 
@@ -41,7 +41,7 @@ See the tab structure below.
 
 ## Offers tab  
 
-On the __Offers tab__,  sellers can view all approved offers, search by product name, and by clicking the <i class="fas fa-ellipsis-v"></i> icon,  choose to either view the details of the products or the corresponding offer on Amazon.  
+On the __Offers tab__, sellers can view all approved offers, search by product name, and by clicking the <i class="fas fa-ellipsis-v"></i> icon, choose to either view the details of the products or the corresponding offer on Amazon.  
 
 See the tab structure below.  
 

@@ -31,7 +31,7 @@ A seguir, saiba como realizar essa configuração:
 4. Selecione o template __Let me know__.  
 5. Vá para a caixa de __HTML__.    
 6. Digite o código das imagens que deseja inserir, conforme ilustrado abaixo.
-  ![Let me know - PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/cat%C3%A1logo/produtos-e-skus/inserir-imagens-no-email-de-avise-me_1.jpg)  
+  ![Let me know - PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/catálogo/produtos-e-skus/inserir-imagens-no-email-de-avise-me_1.jpg)  
 7. Clique em `Salvar`.  
 
 Uma vez salva, a configuração já valerá para os próximos emails.

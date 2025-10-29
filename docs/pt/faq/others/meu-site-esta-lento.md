@@ -38,7 +38,7 @@ Serviços externos que modificam as páginas da loja podem interromper o carrega
 
 Exemplo: se sua loja faz um request para o script de um parceiro de mídia diretamente pelo módulo CMS, sem que o código seja assíncrono ("async"), a página somente será carregada depois que esse script seja executado.
 
-Em alguns casos essa espera é necessária. Mas em outros não. Imagine, por exemplo,  uma caixa de chat de atendimento. Você não precisa interromper o carregamento da página até que ela seja executada.
+Em alguns casos essa espera é necessária. Mas em outros não. Imagine, por exemplo, uma caixa de chat de atendimento. Você não precisa interromper o carregamento da página até que ela seja executada.
 
 ### Imagens pesadas demais
 

@@ -18,7 +18,7 @@ order: 1
 
 La *Configuración del usuario* es el conjunto de configuraciones aplicadas a tu perfil personal en el Admin, y no están relacionadas con tu tienda o la cuenta de tu negocio en VTEX. Para acceder a esta página, haz clic en tu **avatar de perfil**, marcado con la inicial de tu email, y luego haz clic en el botón **Configuración del usuario**. 
 
-![Admin v4 User settings menu ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/gesti%C3%B3n-de-la-cuenta/usuarios/vision-general-configuraciones-de-usuario_1.jpg)
+![Admin v4 User settings menu ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/gestión-de-la-cuenta/usuarios/vision-general-configuraciones-de-usuario_1.jpg)
 
 En esta página, que pronto se incluirá en el diseño del Admin v4, puedes realizar las siguientes acciones:
 

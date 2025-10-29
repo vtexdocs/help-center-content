@@ -32,7 +32,7 @@ Os conceitos de [Marketplace e Seller](/pt/tutorial/estrategias-de-marketplace-n
 
 ## Fluxo do pedido no Marketplace
 
-![Screen Shot Fluxo de Marketplace](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/m%C3%B3dulos-vtex-primeiros-passos/pedidos/fluxo-do-pedido_1.png)
+![Screen Shot Fluxo de Marketplace](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/módulos-vtex-primeiros-passos/pedidos/fluxo-do-pedido_1.png)
 
 Ocorre quando a loja atua apenas como Marketplace no pedido. Ou seja, quando a loja vende produtos de outra loja - seu Seller.
 
@@ -46,7 +46,7 @@ Então, o despacho é autorizado e logo em seguida entra-se no status `Carência
 
 ## Fluxo do pedido no Seller
 
-![screenshoot fluxo seller PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/m%C3%B3dulos-vtex-primeiros-passos/pedidos/fluxo-do-pedido_2.JPG)
+![screenshoot fluxo seller PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/módulos-vtex-primeiros-passos/pedidos/fluxo-do-pedido_2.JPG)
 
 Ocorre quando a loja atua como Seller. Ou seja, quando ela é a dona do produto.
 
@@ -60,7 +60,7 @@ O próximo status é então o de `Preparando entrega`, quando o Seller prepara a
 
 ## Fluxo completo do pedido
 
-![Screen Shot Fluxo completo](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/m%C3%B3dulos-vtex-primeiros-passos/pedidos/fluxo-do-pedido_3.png)
+![Screen Shot Fluxo completo](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/módulos-vtex-primeiros-passos/pedidos/fluxo-do-pedido_3.png)
 
 Ocorre quando a loja é ao mesmo tempo Marketplace e Seller. Ou seja, é quando o pedido foi fechado na loja e a própria loja é a dona do produto, sendo responsável pelo fulfillment.
 

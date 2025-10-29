@@ -27,7 +27,7 @@ Ejemplo: en el segmento de moda, al registrar una audiencia de campaña, puedes 
 
 El público objetivo segmenta los usuarios y las condiciones elegibles de la audiencia de campaña. Si la audiencia de la campaña está activa, al cumplir todos los criterios definidos en el público objetivo, se activarán las promociones asociadas a la audiencia de la campaña.
 
-![campanha-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/tasas-y-promociones/audiencia-de-las-campa%C3%B1as/audiencias-de-campanas_1.png)
+![campanha-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/tasas-y-promociones/audiencia-de-las-campañas/audiencias-de-campanas_1.png)
 
 Cuando la campaña está activada, es elegible para el contexto de compra y se cumplen todas sus restricciones, no significa necesariamente que se aplicarán todas las promociones de audiencia de la campaña asociadas a ella. Para ello, también deben cumplirse las restricciones definidas en [promoción de campaña](/es/tutorial/promocion-de-campana--1ChYXhK2AQGuS6wAqS8Ume).
 

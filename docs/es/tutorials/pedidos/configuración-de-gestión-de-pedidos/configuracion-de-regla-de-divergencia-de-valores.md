@@ -43,13 +43,13 @@ Para crear una regla de divergencia de precios, sigue los pasos a continuación:
 
 Verás la siguiente pantalla:
 
-![print_01_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pedidos/configuraci%C3%B3n-de-gesti%C3%B3n-de-pedidos/configuracion-de-regla-de-divergencia-de-valores_1.png)
+![print_01_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pedidos/configuración-de-gestión-de-pedidos/configuracion-de-regla-de-divergencia-de-valores_1.png)
 
 La pestaña **Todas** muestra todas las reglas de autorización configuradas.
 
 Para crear la primera regla de autorización, haz clic en **CREAR REGLAS**. Se mostrará una nueva pestaña, llamada **1ª regla**. Al clicar en esta pestaña, aparecerán las opciones de configuración.
 
-![print_02_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pedidos/configuraci%C3%B3n-de-gesti%C3%B3n-de-pedidos/configuracion-de-regla-de-divergencia-de-valores_2.png)
+![print_02_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pedidos/configuración-de-gestión-de-pedidos/configuracion-de-regla-de-divergencia-de-valores_2.png)
 
 Para configurar la **1ª regla**, puedes aumentar o disminuir el porcentaje de divergencia arrastrando los extremos de la barra. El signo > define el inicio del intervalo y el signo < determina su fin. El intervalo elegido puede ser del 0% al 100%.
 
@@ -65,7 +65,7 @@ Para configurar una jerarquía de usuarios responsables de aprobar los pedidos, 
 
 Para crear la **segunda regla**, haz clic en el <i class="fas fa-plus" aria-hidden="true"></i> signo más. Lo mismo se aplica a la creación de una tercera o cuarta regla, y así en adelante. Tras hacer clic en el ícono, se mostrará la siguiente interfaz:
 
-![print_03_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pedidos/configuraci%C3%B3n-de-gesti%C3%B3n-de-pedidos/configuracion-de-regla-de-divergencia-de-valores_3.png)
+![print_03_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/pedidos/configuración-de-gestión-de-pedidos/configuracion-de-regla-de-divergencia-de-valores_3.png)
 
 Configura la nueva regla de autorización y, después de definir todas las reglas que desees, haz clic en el botón **GUARDAR REGLAS**. Verás el siguiente mensaje: _Después de guardar las reglas, puedes editarlas o eliminarlas cuando quieras_. Haz clic en **OK** para confirmar. Una vez que hayas hecho esto, se creará la regla de divergencia de precios.
 

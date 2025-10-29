@@ -38,7 +38,7 @@ Para fazer isso, siga o passo a passo abaixo:
 1. Clique em **Catálogo**.
 2. Clique em **Importação e exportação**.
 3. Na aba __Todos os produtos__, clique em **Exportação / Importação**.
-4. Em __Exportar__, na caixa verde, adicione o email desejado para o envio da planilha. Em seguida,  clique em `Exportar para Excel`.
+4. Em __Exportar__, na caixa verde, adicione o email desejado para o envio da planilha. Em seguida, clique em `Exportar para Excel`.
 5. Ao receber a planilha, preencha as linhas com os dados do SKU. Para entender melhor o significado de cada campo, acesse nosso artigo sobre [preencher campos da planilha de importação de produtos e SKUs](/pt/tutorial/preencher-campos-da-planilha-de-importacao--4nYhx63Q5yokQWaMguaIgI).
 
 ### Importar planilha

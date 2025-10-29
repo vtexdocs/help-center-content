@@ -22,10 +22,10 @@ Há duas formas de cadastrar uma regra de arredondamento de preços:
 
 Siga o passo a passo abaixo para cadastrar suas regras de arredondamento de preços:
 
-1.  No Admin VTEX, acesse *Produtos > Regras de arredondamento de preços*, ou digite *Regras de arredondamento de preços* na barra de busca no topo da página.
-2.  Clique no botão **Nova regra**.  
-3.  Na seção **Em qual intervalo de preços essa regra será aplicada?**, estabeleça um intervalo de preço no qual será aplicada regra de preço psicológico em **De** e **Até**.
-4.  Na seção **Quantos dígitos serão arredondados?**, escolha no dropdown quantos dígitos serão arredondados pela regra.
-5.  Na seção **Qual método de arredondamento será aplicado?**, selecione o [método desejado](/pt/tracks/pricing-101--6f8pwCns3PJHqMvQSugNfP/1tUIUvF6BUkDgMsknGaMkF).
-6.  Clique em **Teste seus preços** e insira um preço para verificar se a regra criada está funcionando como você deseja.
-7.  Clique em **Salvar**.
+1. No Admin VTEX, acesse *Produtos > Regras de arredondamento de preços*, ou digite *Regras de arredondamento de preços* na barra de busca no topo da página.
+2. Clique no botão **Nova regra**.  
+3. Na seção **Em qual intervalo de preços essa regra será aplicada?**, estabeleça um intervalo de preço no qual será aplicada regra de preço psicológico em **De** e **Até**.
+4. Na seção **Quantos dígitos serão arredondados?**, escolha no dropdown quantos dígitos serão arredondados pela regra.
+5. Na seção **Qual método de arredondamento será aplicado?**, selecione o [método desejado](/pt/tracks/pricing-101--6f8pwCns3PJHqMvQSugNfP/1tUIUvF6BUkDgMsknGaMkF).
+6. Clique em **Teste seus preços** e insira um preço para verificar se a regra criada está funcionando como você deseja.
+7. Clique em **Salvar**.

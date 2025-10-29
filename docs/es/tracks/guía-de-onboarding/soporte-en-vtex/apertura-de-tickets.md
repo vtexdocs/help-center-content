@@ -25,7 +25,7 @@ Los tickets con el Soporte VTEX, detallados a continuación, se dividen en tres 
 - [Soporte financiero](/es/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/3g2mhmPDx5GszNgLDICzsl): su objetivo es la resolución de problemas relacionados con contratos o asuntos financieros de tiendas que operan con VTEX.
 - [Soporte comercial](/es/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ): su objetivo es la contratación de políticas comerciales adicionales, entornos adicionales, cuentas franquicia o cambios de usuario titular.
 
-> ℹ️ Para más información sobre apertura de tickets y tipos existentes, consulta  [Abrir tickets con el Soporte VTEX. ](/es/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM)
+> ℹ️ Para más información sobre apertura de tickets y tipos existentes, consulta [Abrir tickets con el Soporte VTEX.](/es/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM)
 
 ## Acceso a Copilot
 Copilot es una herramienta integrada en la plataforma que ofrece soporte técnico, resolviendo dudas e identificando problemas mediante orientación automática.
@@ -40,7 +40,7 @@ Sigue los pasos a continuación para acceder a Copilot y comenzar la interacció
    - Tengo un comportamiento inesperado
    - Necesito una configuración por parte de VTEX
 
-![Copilot-ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/gu%C3%ADa-de-onboarding/soporte-en-vtex/apertura-de-tickets_1.gif)
+![Copilot-ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/guía-de-onboarding/soporte-en-vtex/apertura-de-tickets_1.gif)
 
 Copilot responderá automáticamente y te guiará a través del proceso. Si tu pregunta no se resuelve durante la interacción con Copilot, puedes abrir un ticket manualmente.
 
@@ -48,5 +48,5 @@ Copilot responderá automáticamente y te guiará a través del proceso. Si tu p
 La apertura de tickets comerciales o financieros puede hacerse de tres maneras:
 
 - Accediendo a la [página de soporte](https://support.vtex.com/hc/pt-br/requests).
-- Accediendo a cualquier página del [Help Center](https://newhelp.vtex.com/es) y haciendo clic en la pestaña `Soporte` en la parte superior de la página o en `Entrar en contacto`, en la parte inferior.
+- Accediendo a cualquier página del [Help Center](/es) y haciendo clic en la pestaña `Soporte` en la parte superior de la página o en `Entrar en contacto`, en la parte inferior.
 - En el Admin VTEX, haciendo clic sobre el ícono del signo de interrogación <i class="fas fa-question-circle"></i> desde el **Centro de información** y seleccionando la opción **Habla con nuestros especialistas**.

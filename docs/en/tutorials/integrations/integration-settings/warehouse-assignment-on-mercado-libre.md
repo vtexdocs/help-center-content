@@ -19,7 +19,7 @@ The Warehouse assignment feature allows VTEX sellers using the [**Premium** inte
 
 > ℹ️ Only sellers with accounts enabled by Mercado Libre can use this feature.  
 
-To check if your account is enabled, go to  **Admin VTEX > Marketplace > Marketplaces and Integrations**, or type Marketplaces and Integrations in the search bar, and follow the steps below:  
+To check if your account is enabled, go to **Admin VTEX > Marketplace > Marketplaces and Integrations**, or type Marketplaces and Integrations in the search bar, and follow the steps below:  
 
 1. On the page, search for **Mercado Libre Premium.**  
 2. Click the `Edit` button.  

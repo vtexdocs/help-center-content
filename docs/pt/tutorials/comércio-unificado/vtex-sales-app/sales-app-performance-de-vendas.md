@@ -23,7 +23,7 @@ subcategoryId: 4T6qfa6gNO6g4sAUIa6s2G
 2. Clique no botão <i class="fas fa-bars" aria-hidden="true"></i>.
 3. Clique em **Performance de vendas**. 
 
-![Métricas da Loja](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/com%C3%A9rcio-unificado/vtex-sales-app/sales-app-performance-de-vendas_1.png)
+![Métricas da Loja](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/comércio-unificado/vtex-sales-app/sales-app-performance-de-vendas_1.png)
 
 Nessa página, você terá acesso às seguintes métricas:
 
@@ -41,7 +41,7 @@ Para acessar métricas específicas de um vendedor, siga os passos abaixo:
 2. Selecione o perfil do vendedor e insira a senha de acesso.
 3. Clique em `Confirmar`.
 
-![Vendas de Bruna - VTEX Sales App](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/com%C3%A9rcio-unificado/vtex-sales-app/sales-app-performance-de-vendas_2.png)
+![Vendas de Bruna - VTEX Sales App](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/comércio-unificado/vtex-sales-app/sales-app-performance-de-vendas_2.png)
 
 Nessa página, você terá acesso às seguintes métricas referentes àquele vendedor:
 

@@ -19,7 +19,7 @@ Al finalizar un pedido utilizando VTEX Sales App, es posible imprimir un resumen
 
 Para ello, el vendedor puede hacer clic en el botón `Imprimir pedido` en la pantalla del pedido finalizado, como se ilustra a continuación. Otra opción es configurar VTEX Sales App para que imprima el resumen del pedido automáticamente en cuanto se finalice el pedido.
 
-![15. Configurar impressão de resumo do pedido - 1 - ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/omnichannel/instore-utilizando-la-aplicaci%C3%B3n/impresion-del-resumen-del-pedido_1.png)
+![15. Configurar impressão de resumo do pedido - 1 - ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/omnichannel/instore-utilizando-la-aplicación/impresion-del-resumen-del-pedido_1.png)
 
 Para habilitar la impresión del resumen del pedido, sigue los pasos descritos a continuación.
 
@@ -49,13 +49,13 @@ Después de obtener el AppKey y el AppToken, sigue los pasos a continuación.
 2. Abre la aplicación VTEX Sales App e introduce el nombre de la tienda en la que quieres configurar la impresora.
 3. En el menú principal de inStore, en la sección **Configuración**, haz clic en la opción <i class="fas fa-cog"></i> **Configurar el dispositivo**, ilustrada a continuación.
 
-![15. Configurar impressão de resumo do pedido - 2 - ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/omnichannel/instore-utilizando-la-aplicaci%C3%B3n/impresion-del-resumen-del-pedido_2.png)
+![15. Configurar impressão de resumo do pedido - 2 - ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/omnichannel/instore-utilizando-la-aplicación/impresion-del-resumen-del-pedido_2.png)
 
 <ol start="4">
   <li>A continuación, verás el resumen del dispositivo configurado. Si es la primera vez que se realiza esta configuración, los campos en la pantalla estarán vacíos, como se muestra en la siguiente imagen. Si un dispositivo ha sido configurado anteriormente, verás el **Nombre del dispositivo** y la **Impresora estándar**. Haz clic en el botón <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">Editar</span>.</li>
 </ol>
 
-![15. Configurar impressão de resumo do pedido - 4 - ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/omnichannel/instore-utilizando-la-aplicaci%C3%B3n/impresion-del-resumen-del-pedido_3.png)
+![15. Configurar impressão de resumo do pedido - 4 - ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/omnichannel/instore-utilizando-la-aplicación/impresion-del-resumen-del-pedido_3.png)
 
 <ol start="5">
   <li>Rellena el formulario con los campos descritos a continuación.

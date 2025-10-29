@@ -22,7 +22,7 @@ The registration of a category happens inside the __Catalog__ on VTEX Admin.
 Follow the instructions below to create a category:
 
 1. In the VTEX Admin, go to __Catalog__, or type __Catalog__ in the search bar at the top of the page.
-2. Click  __Categories__.
+2. Click __Categories__.
 4. Click the first level of the category.
 5. Click `Actions`.
 6. Click `Include`.

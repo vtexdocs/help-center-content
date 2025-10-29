@@ -36,4 +36,4 @@ Essas especificações são, por exemplo, a composição de um produto, ou o tam
 
 Abaixo, vemos um esquema da arquitetura do Catálogo na VTEX.
 
-![arquitetura-catalogo-PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/m%C3%B3dulos-vtex-primeiros-passos/catalogo-101/arquitetura-do-catalogo_1.png)
+![arquitetura-catalogo-PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tracks/módulos-vtex-primeiros-passos/catalogo-101/arquitetura-do-catalogo_1.png)

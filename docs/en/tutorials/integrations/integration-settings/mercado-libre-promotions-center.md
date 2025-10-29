@@ -15,7 +15,7 @@ locale: en
 subcategoryId: 4uqMnZjwBO04uWgCom8QiA
 ---
 
-On the **Promotions,** page in the Mercado Libre menu in the VTEX Admin, [sellers](/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#sendo-seller-vtex) can view a list of all promotional campaigns offered by Mercado Libre. The page displays the **campaign name, type, ID, deadline to include offers, duration,**  and **status.**  
+On the **Promotions,** page in the Mercado Libre menu in the VTEX Admin, [sellers](/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#sendo-seller-vtex) can view a list of all promotional campaigns offered by Mercado Libre. The page displays the **campaign name, type, ID, deadline to include offers, duration,** and **status.**  
 
 By clicking a promotion from the list, the seller can use the search bar to find listed offers using the **MercadoLibre-ID** or the **Name** of each one.  
 
@@ -51,16 +51,16 @@ In this section, the seller will select the offers they want to include in the *
 
 1. In the **Candidates** section, select the checkbox <a class="far fa-check-square" aria-hidden="true"></a> for the offers you want to include in the campaign.  
 2. At the top of the screen, click the `Include in the promotion` button.  
-3. Complete the **Discount**  and ** Meli+ discount (optional)** fields.  
+3. Complete the **Discount** and ** Meli+ discount (optional)** fields.  
 4. Click the `Confirm` button.  
 
-If the promotional campaign has the **Started** status, the selected and configured offers in the **Candidates**  section will move to the **Participating**  section and active discounts on Mercado Libre. If the campaign has the **Available** status, the offers will move to **Scheduled.**  
+If the promotional campaign has the **Started** status, the selected and configured offers in the **Candidates** section will move to the **Participating** section and active discounts on Mercado Libre. If the campaign has the **Available** status, the offers will move to **Scheduled.**  
 
 #### Scheduled
 
 In the **Scheduled** section, the offers configured to participate in a campaign with the **Available** status will be listed.  
 
-When the campaign status changes to **Started,** all the offers listed in this section will move to the  **Participating** section.  
+When the campaign status changes to **Started,** all the offers listed in this section will move to the **Participating** section.  
 
 #### Participating
 
@@ -90,12 +90,12 @@ In this section, the seller will select the offers they want to include in the *
 2. At the top of the screen, click the `Include in the promotion` button.  
 3. In the confirmation pop-up, click the `Confirm` button.  
 
-If the campaign has the **Started** status, the selected and configured offers in the **Candidates**  section will move to the **Participating**  section. If the campaign has the **Available** status, the offers will move to **Scheduled**.  
+If the campaign has the **Started** status, the selected and configured offers in the **Candidates** section will move to the **Participating** section. If the campaign has the **Available** status, the offers will move to **Scheduled**.  
 
 #### Scheduled
 
 In the **Scheduled** section, the offers configured to participate in a campaign with the **Available** status will be listed.  
-When the campaign status changes to **Started,** all the offers listed in this section will move to the  **Participating** section.  
+When the campaign status changes to **Started,** all the offers listed in this section will move to the **Participating** section.  
 
 #### Participating
 
@@ -123,13 +123,13 @@ In this section, the seller will select the offers they want to include in the *
 2. At the top of the screen, click the `Include in the promotion` button.  
 In the confirmation pop-up, click the `Confirm` button.  
 
-If the campaign has the **Started** status, the selected and configured offers in the **Candidates**  section will move to the **Participating**  section. If the campaign has the **Available** status, the offers will move to **Scheduled**.
+If the campaign has the **Started** status, the selected and configured offers in the **Candidates** section will move to the **Participating** section. If the campaign has the **Available** status, the offers will move to **Scheduled**.
 
 #### Scheduled
 
 In the **Scheduled** section, the offers configured to participate in a campaign with the **Available** status will be listed.  
 
-When the campaign status changes to **Started,** all the offers listed in this section will move to the  **Participating** section.  
+When the campaign status changes to **Started,** all the offers listed in this section will move to the **Participating** section.  
 
 #### Participating
 
@@ -159,13 +159,13 @@ In this section, the seller will select the offers they want to include in the *
 2. At the top of the screen, click the `Include in the promotion` button.  
 3. In the confirmation pop-up, click the `Confirm` button.  
 
-If the campaign has the **Started** status, the selected and configured offers in the **Candidates**  section will move to the **Participating**  section. If the campaign has the **Available** status, the offers will move to **Scheduled**.
+If the campaign has the **Started** status, the selected and configured offers in the **Candidates** section will move to the **Participating** section. If the campaign has the **Available** status, the offers will move to **Scheduled**.
 
 #### Scheduled
 
 In the **Scheduled** section, the offers configured to participate in a campaign with the **Available** status will be listed.  
 
-When the campaign status changes to **Started,** all the offers listed in this section will move to the  **Participating** section.  
+When the campaign status changes to **Started,** all the offers listed in this section will move to the **Participating** section.  
 
 #### Participating
 
@@ -192,12 +192,12 @@ In this section, the seller will select the offers they want to include in the *
 3. Enter the discount you want to offer.
 4. In the confirmation pop-up, click the `Confirm` button.
 
-If the campaign has the **Started** status, the selected and configured offers in the **Candidates**  section will move to the **Participating**  section. If the campaign has the **Available** status, the offers will move to **Scheduled**.  
+If the campaign has the **Started** status, the selected and configured offers in the **Candidates** section will move to the **Participating** section. If the campaign has the **Available** status, the offers will move to **Scheduled**.  
 
 #### Scheduled
 
 In the **Scheduled** section, the offers configured to participate in a campaign with the **Available** status will be listed.  
-When the campaign status changes to **Started,** all the offers listed in this section will move to the  **Participating** section.  
+When the campaign status changes to **Started,** all the offers listed in this section will move to the **Participating** section.  
 
 #### Participating
 
@@ -218,12 +218,12 @@ In this section, the seller will select the offers they want to include in the *
 2. At the top of the screen, click the `Include in the promotion` button.  
 3. In the confirmation pop-up, click the `Confirm` button.  
 
-If the campaign has the **Started** status, the selected and configured offers in the **Candidates**  section will move to the **Participating**  section. If the campaign has the **Available** status, the offers will move to **Scheduled**.
+If the campaign has the **Started** status, the selected and configured offers in the **Candidates** section will move to the **Participating** section. If the campaign has the **Available** status, the offers will move to **Scheduled**.
 
 #### Scheduled
 
 In the **Scheduled** section, the offers configured to participate in a campaign with the **Available** status will be listed.  
-When the campaign status changes to **Started,** all the offers listed in this section will move to the  **Participating** section.  
+When the campaign status changes to **Started,** all the offers listed in this section will move to the **Participating** section.  
 
 #### Participating
 
@@ -233,7 +233,7 @@ In the **Participating** section, the offers configured to participate in a camp
 
 ### Automated co-participation
 
-In the  **Automated co-participation** campaign, Mercado Libre determines the participating offers and the discounts to be applied by the seller and the marketplace. It's up to the seller to accept it or not.  
+In the **Automated co-participation** campaign, Mercado Libre determines the participating offers and the discounts to be applied by the seller and the marketplace. It's up to the seller to accept it or not.  
 
 By selecting this type of campaign, three different sections are displayed:  
 
@@ -245,12 +245,12 @@ In this section, the seller will select the offers they want to include in the *
 2. At the top of the screen, click the `Include in the promotion` button.  
 3. In the confirmation pop-up, click the `Confirm` button.  
 
-If the campaign has the **Started** status, the selected and configured offers in the **Candidates**  section will move to the **Participating**  section. If the campaign has the **Available** status, the offers will move to **Scheduled**.  
+If the campaign has the **Started** status, the selected and configured offers in the **Candidates** section will move to the **Participating** section. If the campaign has the **Available** status, the offers will move to **Scheduled**.  
 
 #### Scheduled
 
 In the **Scheduled** section, the offers configured to participate in a campaign with the **Available** status will be listed.  
-When the campaign status changes to **Started,** all the offers listed in this section will move to the  **Participating** section.  
+When the campaign status changes to **Started,** all the offers listed in this section will move to the **Participating** section.  
 
 #### Participating
 
@@ -264,7 +264,7 @@ To remove a product from the campaign, follow the steps below:
 
 ### Competitive prices
 
-In the  **Competitive prices** campaign, Mercado Libre determines the participating offers and the discounts to be applied by the seller. It's up to the seller to accept it or not.  
+In the **Competitive prices** campaign, Mercado Libre determines the participating offers and the discounts to be applied by the seller. It's up to the seller to accept it or not.  
 
 By selecting this type of campaign, three different sections are displayed:  
 
@@ -276,13 +276,13 @@ In this section, the seller will select the offers they want to include in the *
 2. At the top of the screen, click the `Include in the promotion` button.  
 3. In the confirmation pop-up, click the `Confirm` button.  
 
-If the campaign has the **Started** status, the selected and configured offers in the **Candidates**  section will move to the **Participating**  section. If the campaign has the **Available** status, the offers will move to **Scheduled**.  
+If the campaign has the **Started** status, the selected and configured offers in the **Candidates** section will move to the **Participating** section. If the campaign has the **Available** status, the offers will move to **Scheduled**.  
 
 #### Scheduled
 
 In the **Scheduled** section, the offers configured to participate in a campaign with the **Available** status will be listed.  
 
-When the campaign status changes to **Started,** all the offers listed in this section will move to the  **Participating** section.  
+When the campaign status changes to **Started,** all the offers listed in this section will move to the **Participating** section.  
 
 #### Participating
 
@@ -296,7 +296,7 @@ To remove a product from the campaign, follow the steps below:
 
 ### Full stock sale
 
-In the  **Full stock sale** campaign, Mercado Libre determines the participating offers and the discounts the seller will offer, based on the quantity available in stock. It's up to the seller to accept it or not.  
+In the **Full stock sale** campaign, Mercado Libre determines the participating offers and the discounts the seller will offer, based on the quantity available in stock. It's up to the seller to accept it or not.  
 
 By selecting this type of campaign, three different sections are displayed:  
 
@@ -308,12 +308,12 @@ In this section, the seller will select the offers they want to include in the *
 2. At the top of the screen, click the `Include in the promotion` button.  
 3. In the confirmation pop-up, click the `Confirm` button.  
 
-If the campaign has the **Started** status, the selected and configured offers in the **Candidates**  section will move to the **Participating**  section. If the campaign has the **Available** status, the offers will move to **Scheduled**.  
+If the campaign has the **Started** status, the selected and configured offers in the **Candidates** section will move to the **Participating** section. If the campaign has the **Available** status, the offers will move to **Scheduled**.  
 
 #### Scheduled
 
 In the **Scheduled** section, the offers configured to participate in a campaign with the **Available** status will be listed.  
-When the campaign status changes to **Started,** all the offers listed in this section will move to the  **Participating** section.  
+When the campaign status changes to **Started,** all the offers listed in this section will move to the **Participating** section.  
 
 #### Participating
 
@@ -353,16 +353,16 @@ In this section, the seller will select the offers to include in the promotion. 
 
 1. In the **Candidates** section, select the checkbox <a class="far fa-check-square" aria-hidden="true"></a> for the offers you want to include in the campaign.  
 2. At the top of the screen, click the `Include in the promotion` button.  
-  Complete the **Discount** and the **Meli+ Discount (optional).**   This step will only appear for flexible percentage discounts.  
+  Complete the **Discount** and the **Meli+ Discount (optional).** This step will only appear for flexible percentage discounts.  
 4. In the confirmation pop-up, click the `Confirm` button.  
 
-If the campaign has the **Started** status, the selected and configured offers in the **Candidates**  section will move to the **Participating**  section. If the campaign has the **Available** status, the offers will move to **Scheduled**.  
+If the campaign has the **Started** status, the selected and configured offers in the **Candidates** section will move to the **Participating** section. If the campaign has the **Available** status, the offers will move to **Scheduled**.  
 
 #### Scheduled
 
 In the **Scheduled** section, the offers configured to participate in a campaign with the **Available** status will be listed.  
 
-When the campaign status changes to **Started,** all the offers listed in this section will move to the  **Participating** section.  
+When the campaign status changes to **Started,** all the offers listed in this section will move to the **Participating** section.  
 
 #### Participating
 
@@ -376,7 +376,7 @@ To remove a product from the campaign, follow the steps below:
 
  ### Seller coupons
 
-In **Seller coupons**,  the seller creates a discount coupon, defines the participating offers, and chooses whether the coupon can be used by anyone buying those offers or only by those with the coupon code.  
+In **Seller coupons**, the seller creates a discount coupon, defines the participating offers, and chooses whether the coupon can be used by anyone buying those offers or only by those with the coupon code.  
 
 To create a **Seller coupon,** follow the steps below:  
 
@@ -392,7 +392,7 @@ To create a **Seller coupon,** follow the steps below:
 | Audience | Choose which audience can use the coupon. |
 | Coupon code | Create a code for the coupon. |
 | Discount | Choose the type of discount: **Percentage** or **Fixed amount**. |
-| Minimum purchase amount: Set the minimum order amount for the coupon to be applied.  |
+| Minimum purchase amount: Set the minimum order amount for the coupon to be applied. |
 | Available budget | Define the amount to spend on this campaign. |
 | Duration | Set the start and end date of the campaign. |
 
@@ -407,12 +407,12 @@ In this section, the seller will select the offers to include in the promotion. 
 2. At the top of the screen, click the `Include in the promotion` button.  
 3. In the confirmation pop-up, click the `Confirm` button.  
 
-If the campaign has the **Started** status, the selected and configured offers in the **Candidates**  section will move to the **Participating**  section. If the campaign has the **Available** status, the offers will move to **Scheduled**.  
+If the campaign has the **Started** status, the selected and configured offers in the **Candidates** section will move to the **Participating** section. If the campaign has the **Available** status, the offers will move to **Scheduled**.  
 
 #### Scheduled
 
 In the **Scheduled** section, the offers configured to participate in a campaign with the **Available** status will be listed.  
-When the campaign status changes to **Started,** all the offers listed in this section will move to the  **Participating** section.  
+When the campaign status changes to **Started,** all the offers listed in this section will move to the **Participating** section.  
 
 #### Participating
 

@@ -16,16 +16,16 @@ order: 6
 ---
 
 1.	Vaya al Admin.
-2.	En el módulo *MARKETPLACE*,  haga clic en **Integraciones**.
+2.	En el módulo *MARKETPLACE*, haga clic en **Integraciones**.
 3.	Seleccione la opción `Configuración`.
 4.	Busque la integración __Mercado Livre Classic__ o __Mercado Livre Premium__ y haga clic en `Integrar`.
 5.	Rellene los campos indicados a continuación. El asterisco significa que es obligatorio completarlos. A continuación, haga clic en el botón `Guardar configuración`.
 
 > ℹ️ Cada cuenta VTEX debe estar vinculada a una sola cuenta en Mercado Libre, aunque se utilicen ambos conectores (Classic y Premium). Actualmente no es posible autenticarse con dos cuentas simultáneamente.
 
-- **Integración (si elige desactivar la integración, se eliminará toda la configuración, incluyendo la autenticación y la afiliación)* :**  seleccione *Activada* para que se inicie la integración.
+- **Integración (si elige desactivar la integración, se eliminará toda la configuración, incluyendo la autenticación y la afiliación)* :** seleccione *Activada* para que se inicie la integración.
 - **ID del afiliado*:** código de identificación para crear un [afiliado](/es/tutorial/o-que-e-afiliado) que aún no está registrado en tu sistema. El código debe estar compuesto por tres consonantes, repetidas o no. No se aceptan vocales. Sugerencia: `MLC` (Classic) o `MLP` (Premium). La configuración del conector crea el afiliado automáticamente.
-- **ID de la política comercial*:**  ID de la [política comercial](/es/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) que se utilizará para la integración con Mercado Libre. Los productos de esta política comercial se enviarán al marketplace.
+- **ID de la política comercial*:** ID de la [política comercial](/es/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) que se utilizará para la integración con Mercado Libre. Los productos de esta política comercial se enviarán al marketplace.
 - **Formato del título del anuncio*:** regla para el formato del título del anuncio que se publicará en Mercado Libre. Este título puede combinar diferentes atributos del Catálogo, como la *Marca*, el *Nombre del Producto* y el *Nombre del SKU*. Los títulos de los anuncios en Mercado Libre pueden tener un máximo de 60 caracteres. Para personalizar el *Formato del título del anuncio* de un producto, puede [crear un campo](/es/tutorial/criando-um-campo-de-produto--tutorials_106) de producto con el nombre `meli_title`, del tipo `Texto Grande` y la opción `Mostrar Especificación` desactivada.
 - **Actualizar la descripción del anuncio*:** cuando está activado, actualiza automáticamente la descripción del anuncio en Mercado Libre cada vez que se realiza un cambio en la descripción del producto en VTEX. En caso contrario, se mantendrá la descripción original.
 - **ID de la tienda oficial en Mercado Libre:** identificador numérico que proporciona Mercado Libre en su contrato comercial cuando un usuario alcanza el status de [Tienda Oficial](https://www.mercadolibre.com.ar/tiendas-oficiales). Debe rellenarse si su tienda tiene este status para que la integración funcione correctamente.

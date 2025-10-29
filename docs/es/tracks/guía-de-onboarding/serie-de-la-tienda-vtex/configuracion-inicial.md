@@ -45,7 +45,7 @@ Los clientes que hayan formalizado una asociación con VTEX mediante firma puede
 
 ## Recibir acceso al Admin VTEX
 
-Tras la firma del acuerdo comercial, el [usuario titular](/es/tutorial/o-que-e-o-usuario-titular--3oPr7YuIkEYqUGmEqIMSEy) recibirá acceso al Admin VTEX por email en hasta 10 días laborables.  El usuario titular es el principal responsable de la tienda y el único usuario que tiene acceso total a todas las secciones del Admin VTEX, incluyendo acciones importantes de mantenimiento y autorización.
+Tras la firma del acuerdo comercial, el [usuario titular](/es/tutorial/o-que-e-o-usuario-titular--3oPr7YuIkEYqUGmEqIMSEy) recibirá acceso al Admin VTEX por email en hasta 10 días laborables. El usuario titular es el principal responsable de la tienda y el único usuario que tiene acceso total a todas las secciones del Admin VTEX, incluyendo acciones importantes de mantenimiento y autorización.
 
 Al principio, las principales acciones que solo pueden ser ejecutadas por el usuario titular son:
 

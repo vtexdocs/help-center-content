@@ -49,7 +49,7 @@ Depois, será necessário:
 Por fim, deve ser realizado o cadastro do afiliado, que serve como identificação única do marketplace em sua loja. Para fazer isso, siga os passos abaixo:
 
 1. Acesse o menu **Configurações da loja > Pedidos**;
-2. Clique no botão **Conigurações**;![Farmacias2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integra%C3%A7%C3%B5es/configura%C3%A7%C3%B5es-de-integra%C3%A7%C3%B5es/integrando-com-farmacias-app_1.png)
+2. Clique no botão **Conigurações**;![Farmacias2](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integrações/configurações-de-integrações/integrando-com-farmacias-app_1.png)
 3. Clique na aba **Afiliados**;
 4. Clique no botão **Novo afiliado**;
 5. Preencha os campos da seguinte forma:
@@ -60,7 +60,7 @@ Por fim, deve ser realizado o cadastro do afiliado, que serve como identificaç
 **E-mail de follow up**: _e-mail da pessoa responsável pela integração_;
 **Endpoint de Search**: https://integrador.farmaciasapp.com.br/Vtex/api/notification
 
-![Farmacias3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integra%C3%A7%C3%B5es/configura%C3%A7%C3%B5es-de-integra%C3%A7%C3%B5es/integrando-com-farmacias-app_2.png)
+![Farmacias3](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/integrações/configurações-de-integrações/integrando-com-farmacias-app_2.png)
 
 _Quando os pagamentos forem processados por meio do Farmácias App, a opção **Usar meu meio de pagamento** deve estar desmarcada. Marque essa opção apenas para pagamentos processados em ambientes diferentes, como pagamentos processados na plataforma VTEX._
 

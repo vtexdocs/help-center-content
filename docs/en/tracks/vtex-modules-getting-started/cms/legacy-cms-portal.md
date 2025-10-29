@@ -33,7 +33,7 @@ The [Layout](/en/subcategory/layout--2g6LxtasS4iSeGEqeYUuGW) section allows you 
 
 - **Product Cluster (Collections):** create product groups. You can use them to build Campaign or Product Collection landing pages that load specific product clusters.
 
-- **Sites and Channels:** configure [your store  binding](/en/tutorial/what-is-binding--4NcN3NJd0IeYccgWCI8O2W) and other License Manager settings. To learn more, please refer to the [CMS folder structure](/en/tutorial/cms-folder-structure--2RdMaJSv4AK4EyscmQuocu) article.
+- **Sites and Channels:** configure [your store binding](/en/tutorial/what-is-binding--4NcN3NJd0IeYccgWCI8O2W) and other License Manager settings. To learn more, please refer to the [CMS folder structure](/en/tutorial/cms-folder-structure--2RdMaJSv4AK4EyscmQuocu) article.
 
 ## Settings
 

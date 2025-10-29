@@ -20,7 +20,7 @@ Importantísimas para navegación y búsqueda de los productos deseados en la ti
 
 El registro es sencillo y se pueden determinar diferentes rangos de precios para categorías, conforme a la imagen abajo:
 
-![faixa-de-preço es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/categor%C3%ADas/configurando-filtro-de-faixa-de-preco_1.png)
+![faixa-de-preço es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/categorías/configurando-filtro-de-faixa-de-preco_1.png)
 
 Dentro de Fajas de Precio, haga clic en “Nuevo rango de precio” y rellene los campos:
 

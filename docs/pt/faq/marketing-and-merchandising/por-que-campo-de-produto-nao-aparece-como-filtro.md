@@ -14,7 +14,7 @@ locale: pt
 legacySlug: por-que-campo-de-produto-nao-aparece-como-filtro
 ---
 
-Em categoria, existe a possibilidade do cadastro de campo de produto &#8211; ou especificação de produto. Nele, é possível marcar duas opções de filtro: **Link no Menu Superior **e **Link no Menu Lateral. **Esses links formarão os filtros nos menus principal ou lateral. Porém, para que isso  aconteça, é necessário que o campo criado esteja nos seguintes tipos:
+Em categoria, existe a possibilidade do cadastro de campo de produto &#8211; ou especificação de produto. Nele, é possível marcar duas opções de filtro: **Link no Menu Superior **e **Link no Menu Lateral. **Esses links formarão os filtros nos menus principal ou lateral. Porém, para que isso aconteça, é necessário que o campo criado esteja nos seguintes tipos:
 
 - **Combo**
 - **Radio**

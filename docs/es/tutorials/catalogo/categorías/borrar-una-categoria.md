@@ -26,7 +26,7 @@ Para que una categoría no les aparezca a los clientes de la tienda, puede inact
 3. Haga clic en la categoría que desea inactivar.
 4. Haga clic en el botón `Acciones`.
 5. Haga clic en `Editar`.
-6. Desmarque el campo __Activo | Categoría está activa en la tienda__, según se muestra en esta imagen: ![img inativarcategoria ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/categor%C3%ADas/borrar-una-categoria_1.png)
+6. Desmarque el campo __Activo | Categoría está activa en la tienda__, según se muestra en esta imagen: ![img inativarcategoria ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/catalogo/categorías/borrar-una-categoria_1.png)
 7. Haga clic en `Guardar`.
 
 ## Eliminar todas las categorías

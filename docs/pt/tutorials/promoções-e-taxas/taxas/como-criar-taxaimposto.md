@@ -61,4 +61,4 @@ A taxa é aplicada conforme o cadastro que é feito no seller. Então se no car
 
 O agendamento de uma taxa ocorre quando é criada ou alterada com data e hora de validade com início posterior ao atual. Visualmente é possível identificar essas taxas na página principal do módulo de Taxas & Promoções, através de uma tarja laranja no canto superior direito do cartão da taxa, com a palavra agendada. Veja abaixo um exemplo de como fica o cartão de uma taxa quando agendada.
 
-![agendamento.pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promo%C3%A7%C3%B5es-e-taxas/taxas/como-criar-taxaimposto_1.png)
+![agendamento.pt](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/promoções-e-taxas/taxas/como-criar-taxaimposto_1.png)

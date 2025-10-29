@@ -35,7 +35,7 @@ La activación del descuento vinculado a un medio de pago se lleva a cabo en dos
 Para configurar un descuento vinculado a un medio de pago debes considerar la información contenida en los artículos a continuación:
 
 1. [Set a discount using the checkout API](https://developers.vtex.com/docs/guides/set-a-discount-using-the-checkout-api) para ingresar el medio de pago deseado en la variable `paymentSystemToCheckFirstInstallment` y simular un carrito de compras para comprobar si el medio de pago se ha actualizado.  
-2.  [Configurar descuento de precio al contado](/es/tutorial/configurar-desconto-de-preco-a-vista--7Lfcj9Wb5dpYfA2gKkACIt) para vincular el SKU al método de pago.  
+2. [Configurar descuento de precio al contado](/es/tutorial/configurar-desconto-de-preco-a-vista--7Lfcj9Wb5dpYfA2gKkACIt) para vincular el SKU al método de pago.  
 3. [Configurar descuento del precio al contado para Google Shopping](/es/tutorial/configurar-desconto-de-preco-a-vista-para-google-shopping--40K3R5d4NogMvCzIWdWt3e).  
 
 Una vez realizados los pasos anteriormente descritos, la activación deberá realizarse a través de la [configuración del conector](/es/tracks/configurar-integracao-com-o-google-shopping--25Sl7iOqq58PGfVfTAo8Xw/wWyl0Njxgs5KfXvxYZJrl).

@@ -33,7 +33,7 @@ To facilitate navigation through this article, if you want to go directly to a s
 
 ### Routes and decision rules
 
-####  What are routes?
+#### What are routes?
 
 The biggest difference between decision cards and action cards is the creation of routes. These routes are possible paths that a conversation can take according to some response or some contact data. The purpose of all decision cards is to create routes for each rule and ramifications of our flow.
 

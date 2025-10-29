@@ -28,7 +28,7 @@ O relatório apresenta um gráfico que compara:
 
 A visualização é feita em intervalos de uma hora.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/relat%C3%B3rios/acessar-e-analisar-relatorio-de-fluxo-de-oportunidades-na-plataforma-indeva_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/relatórios/acessar-e-analisar-relatorio-de-fluxo-de-oportunidades-na-plataforma-indeva_1.png)
 
 ## Utilizar relatório estrategicamente
 
@@ -36,7 +36,7 @@ Essas informações ajudam a planejar a escala da equipe de vendas de acordo com
 
 > ℹ️ Posicione o cursor sobre os pontos de pico no gráfico para visualizar o número de atendimentos e conversões.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/relat%C3%B3rios/acessar-e-analisar-relatorio-de-fluxo-de-oportunidades-na-plataforma-indeva_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/indeva-by-vtex/relatórios/acessar-e-analisar-relatorio-de-fluxo-de-oportunidades-na-plataforma-indeva_2.png)
 
 > ⚠️ Antes de consultar o relatório, defina corretamente a **data de início** e a **data de fim** no filtro de datas.
 

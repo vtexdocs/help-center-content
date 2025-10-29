@@ -27,7 +27,7 @@ El fulfillment nada más es que el proceso del análisis de los pedidos, separac
 
 En la mayoría de las operaciones convencionales de eCommerce, tenemos un almacén que representa el inventario. Ya en la mayoría de las operaciones de grocery, ese almacén no es practicado debido a su capacidad de perecer, rápido detrimento de las mercancías (validez) y la gran variedad del mix de productos.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/estrat%C3%A9gia-de-env%C3%ADo/logistica-en-el-segmento-de-grocery-supermercados_1.jpg)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/envío/estratégia-de-envío/logistica-en-el-segmento-de-grocery-supermercados_1.jpg)
 
 En este contexto, para la existencia de un almacén que represente el inventario es prácticamente necesario el doble del espacio físico y un gran flujo de pedidos para desagüe antes del detrimento de los productos.
 
@@ -53,7 +53,7 @@ A partir de volúmenes medianos (superior a 30 pedidos diarios), el método de p
 1. Se agrupan todos los productos, sin embargo, sin distinción de pedidos. Reduciendo, así, los movimientos de entre las direcciones de las mercancías.
 2. Después de la separación de los productos, envíelos a un área donde se montan los pedidos. Es posible realizar esas olas por transportadora, rutas, muelles o lote.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/estrat%C3%A9gia-de-env%C3%ADo/logistica-en-el-segmento-de-grocery-supermercados_2.jpg)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/envío/estratégia-de-envío/logistica-en-el-segmento-de-grocery-supermercados_2.jpg)
 
 ## Picking _por ola lote_ favorece el Packing
 
@@ -67,7 +67,7 @@ Debido a los distintos tipos de mercancías vendibles en el grocery, podemos atr
 6. Frágiles
 7. Congelados
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/estrat%C3%A9gia-de-env%C3%ADo/logistica-en-el-segmento-de-grocery-supermercados_3.jpg)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/envío/estratégia-de-envío/logistica-en-el-segmento-de-grocery-supermercados_3.jpg)
 
 Además de que es imprescindible para la separación, el lote es muy importante en el packing, una vez que los tipos de lotes tienen necesidades características y particulares:
 
@@ -91,7 +91,7 @@ __7. Congelados:__ Deben ser transportados en cajas térmicas, en hasta 6 horas 
 
 Ejemplos: Helados, postres, empanados, platos listos, hamburguesas, tapas, etc.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/env%C3%ADo/estrat%C3%A9gia-de-env%C3%ADo/logistica-en-el-segmento-de-grocery-supermercados_4.jpg)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/envío/estratégia-de-envío/logistica-en-el-segmento-de-grocery-supermercados_4.jpg)
 
 ## Despacho, transporte y entrega
 

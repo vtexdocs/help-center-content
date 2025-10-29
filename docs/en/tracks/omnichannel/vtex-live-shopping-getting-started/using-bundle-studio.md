@@ -60,7 +60,7 @@ In the **My Studio** menu option, numbers 1 through 5 indicate the settings that
 * **2. Activate/deactivate microphone:** Controls your own microphone settings.
 * **3. Activate/deactivate camera:** Turns your own camera on and off.
 * **4. Share screen:** Allows the host (including guests/influencers) to share their screen and choose the window or screen they want to display.
-* **5. End meeting:** Opens two options to end the broadcast —  one that ends the event for everyone and removes all participants from the studio, and another where only the user leaves the meeting. Learn more in the [Ending the transmission](/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/69PX90vv4oDWQ34nnBkiQt#ending-the-transmission) section.
+* **5. End meeting:** Opens two options to end the broadcast — one that ends the event for everyone and removes all participants from the studio, and another where only the user leaves the meeting. Learn more in the [Ending the transmission](/en/tracks/vtex-live-shopping-getting-started--3eCHNCIx8XhZOSmX0sQT3U/69PX90vv4oDWQ34nnBkiQt#ending-the-transmission) section.
 
 ### Administrator-only settings
 
@@ -90,7 +90,7 @@ The asset types are the following:
 
 Also, there’s a <i class="fas fa-toggle-off" aria-hidden="true"></i> **Show display names** option. When you log into Bundle, you complete the **Name** field. The name can be displayed on the live stream by enabling this setting.
 
-The name will show in white letters against a dark background and can’t be changed. However, you can customize the initial stripe color, as it’s the same as  **Banners > Theme Color**. Creating a banner isn’t necessary to activate this option, you only have to define the theme color, which is black by default. The image below is an example of a pink **Theme Color**:
+The name will show in white letters against a dark background and can’t be changed. However, you can customize the initial stripe color, as it’s the same as **Banners > Theme Color**. Creating a banner isn’t necessary to activate this option, you only have to define the theme color, which is black by default. The image below is an example of a pink **Theme Color**:
 
 <p align="center">
   <img src="https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/en/tracks/omnichannel/vtex-live-shopping-getting-started/using-bundle-studio_4.png" alt="article_8_asset_types_EN" width="200" height="30">

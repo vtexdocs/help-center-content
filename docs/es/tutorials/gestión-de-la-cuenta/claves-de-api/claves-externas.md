@@ -19,7 +19,7 @@ Las claves de API externas son credenciales generadas y administradas por otras 
 
 La pestaña **Externas** enumera las claves de API externas agregadas a tu cuenta.
 
-![apikeys-external-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/gesti%C3%B3n-de-la-cuenta/claves-de-api/claves-externas_1.png)
+![apikeys-external-es](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/gestión-de-la-cuenta/claves-de-api/claves-externas_1.png)
 
 La página muestra la siguiente información en forma de tabla:
 

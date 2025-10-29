@@ -24,12 +24,12 @@ There are two predefined financial [roles](/en/tutorial/perfis-de-acesso--7HKK5U
 You can associate a user with the existing **Finance** profile:
 
 8. In VTEX Admin, click the logged-in user's initials in the top right corner.  
-9. Click  **Account settings**.  
-10.  Click **User Roles**.  
-11.  Click `New Role`.  
-12.  Select the **Finance** profile.  
-13.  Add users to this access profile.  
-14.  Click `Save`.
+9. Click **Account settings**.  
+10. Click **User Roles**.  
+11. Click `New Role`.  
+12. Select the **Finance** profile.  
+13. Add users to this access profile.  
+14. Click `Save`.
 
 The financial access profile is now created and available to be associated with existing users.
 

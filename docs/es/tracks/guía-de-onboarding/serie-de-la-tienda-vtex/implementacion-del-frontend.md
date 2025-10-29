@@ -88,7 +88,7 @@ Cuando se habla de implementación frontend, cabe recordar que [VTEX IO](https:/
 
 Esto significa que cuando trabajas con VTEX IO, desarrollas tu código localmente. Sin embargo, en lo que respecta a implementar y ejecutar la tienda, además de encargarse del proceso de deploy, VTEX IO gestiona la infraestructura, CI/CD y la seguridad. La siguiente imagen muestra cómo se relacionan estos conceptos entre sí:
 
-![Arquitectura de desarrollo frontend](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/gu%C3%ADa-de-onboarding/serie-de-la-tienda-vtex/implementacion-del-frontend_1.png)
+![Arquitectura de desarrollo frontend](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/guía-de-onboarding/serie-de-la-tienda-vtex/implementacion-del-frontend_1.png)
 
 ### Principales funcionalidades de Store Framework
 
@@ -219,7 +219,7 @@ El equipo de desarrollo debe iniciar un nuevo proyecto con FastStore a través d
 - Página de detalles de producto (PDP)
 - Minicart
 
-![FastStore template](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/gu%C3%ADa-de-onboarding/serie-de-la-tienda-vtex/implementacion-del-frontend_2.png)
+![FastStore template](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/guía-de-onboarding/serie-de-la-tienda-vtex/implementacion-del-frontend_2.png)
 
 #### Requisitos para un PMV de FastStore
 
@@ -272,7 +272,7 @@ El equipo de desarrollo debe iniciar un nuevo proyecto con Store Framework clona
 - Página de lista de productos (PLP)
 - Página de detalles de producto (PDP)
 
-![Store Framework template](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/gu%C3%ADa-de-onboarding/serie-de-la-tienda-vtex/implementacion-del-frontend_3.png)
+![Store Framework template](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tracks/guía-de-onboarding/serie-de-la-tienda-vtex/implementacion-del-frontend_3.png)
 
 #### Requisitos para un PMV de Store Framework
 

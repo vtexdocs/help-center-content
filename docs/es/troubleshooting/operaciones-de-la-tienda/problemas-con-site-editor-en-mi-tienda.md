@@ -81,7 +81,7 @@ Para solucionarlo, consulta las instrucciones a continuación:
 
 ### Comprueba si el rol de usuario tiene los permisos necesarios
 
-Una posible causa de este problema podría estar relacionada con la falta del [recurso](/es/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) `CMS GraphQL API` de License Manager para el [rol de usuario](/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) asignado a la gestión de contenido. 
+Una posible causa de este problema podría estar relacionada con la falta del [recurso](/es/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) `CMS GraphQL API` de License Manager para el [rol de usuario](/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) asignado a la gestión de contenido. 
 
 Asegúrate de que el recurso `CMS GraphQL API` esté asociado con el rol de usuario correspondiente, ya sea [creando un nuevo rol](/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#creating-a-role) o editando uno existente.
 

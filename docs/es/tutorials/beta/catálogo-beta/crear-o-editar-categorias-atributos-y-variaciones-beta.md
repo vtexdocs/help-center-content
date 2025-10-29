@@ -57,7 +57,7 @@ En la fase beta utilizaremos una nueva nomenclatura para los siguientes término
 
 Al acceder a **Catálogo > Categorías** en el Admin VTEX, la vista predeterminada muestra la interfaz **Categorías** y **Atributos**, según se ilustra a continuación:
 
-![category_attributes_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/beta/cat%C3%A1logo-beta/crear-o-editar-categorias-atributos-y-variaciones-beta_1.png)
+![category_attributes_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/beta/catálogo-beta/crear-o-editar-categorias-atributos-y-variaciones-beta_1.png)
 
 A continuación se describe la información que se muestra y las acciones que se pueden realizar en esta página:
 
@@ -78,7 +78,7 @@ A continuación se describe la información que se muestra y las acciones que se
 
 Al seleccionar la vista de **Variaciones** se muestra la siguiente interfaz:
 
-![category_variations_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/beta/cat%C3%A1logo-beta/crear-o-editar-categorias-atributos-y-variaciones-beta_2.png)
+![category_variations_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/beta/catálogo-beta/crear-o-editar-categorias-atributos-y-variaciones-beta_2.png)
 
 A continuación se describe la información que se muestra y las acciones que se pueden realizar en esta página:
 
@@ -202,7 +202,7 @@ Un grupo de atributos creado en la categoría principal es obligatorio en todas 
 
 En la interfaz **Atributos**, los grupos y atributos heredados se indican mediante un ícono de compartir a la izquierda del nombre, como se ilustra a continuación:
 
-![inherited_atribute_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/beta/cat%C3%A1logo-beta/crear-o-editar-categorias-atributos-y-variaciones-beta_3.png)
+![inherited_atribute_ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/beta/catálogo-beta/crear-o-editar-categorias-atributos-y-variaciones-beta_3.png)
 
 > ℹ️ Para más información sobre status de los atributos, consulta la sección [Ver status de activación de atributos y sus valores](#ver-status-de-activacion-de-atributos-y-sus-valores).
 

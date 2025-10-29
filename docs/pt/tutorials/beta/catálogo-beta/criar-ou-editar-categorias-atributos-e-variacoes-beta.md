@@ -57,7 +57,7 @@ Na fase beta, utilizaremos uma nova nomenclatura para os seguintes termos:
 
 No Admin VTEX, ao acessar **Catálogo > Categorias**, por padrão, você visualiza a interface de **Categorias** e **Atributos**, conforme a imagem abaixo:
 
-![category_attributes_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/cat%C3%A1logo-beta/criar-ou-editar-categorias-atributos-e-variacoes-beta_1.png)
+![category_attributes_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/catálogo-beta/criar-ou-editar-categorias-atributos-e-variacoes-beta_1.png)
 
 Nesta página, você pode visualizar informações e realizar as seguintes ações:
 
@@ -78,7 +78,7 @@ Nesta página, você pode visualizar informações e realizar as seguintes açõ
 
 Quando você seleciona a opção **Variações**, você visualiza uma interface como a imagem abaixo:
 
-![category_variations_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/cat%C3%A1logo-beta/criar-ou-editar-categorias-atributos-e-variacoes-beta_2.png)
+![category_variations_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/catálogo-beta/criar-ou-editar-categorias-atributos-e-variacoes-beta_2.png)
 
 Nesta página, você pode visualizar informações e realizar as seguintes ações:
 
@@ -202,7 +202,7 @@ Quando um grupo de atributos é criado na categoria pai, ele se torna obrigatór
 
 Na interface de **Atributos**, é possível identificar grupos e atributos herdados a partir do ícone de compartilhamento, localizado à esquerda do nome, como na imagem abaixo:
 
-![inherited_atribute_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/cat%C3%A1logo-beta/criar-ou-editar-categorias-atributos-e-variacoes-beta_3.png)
+![inherited_atribute_PT](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/beta/catálogo-beta/criar-ou-editar-categorias-atributos-e-variacoes-beta_3.png)
 
 > ℹ️ Caso queira saber sobre status de atributos, confira a seção [Ver status de ativação do atributo e seus valores](#ver-status-de-ativacao-da-variacao-e-seus-valores).
 

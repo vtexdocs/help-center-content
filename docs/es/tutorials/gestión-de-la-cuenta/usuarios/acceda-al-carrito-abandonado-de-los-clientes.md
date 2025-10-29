@@ -28,26 +28,26 @@ Ver estos campos es muy simple. Una vez registrado en el Admin de su tienda, só
 
 1. En la _sidebar_ del Admin, haga clic en __Master Data__;
 
-  ![Carrinho Abandonado - 1 - ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/gesti%C3%B3n-de-la-cuenta/usuarios/acceda-al-carrito-abandonado-de-los-clientes_1.jpg)
+  ![Carrinho Abandonado - 1 - ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/gestión-de-la-cuenta/usuarios/acceda-al-carrito-abandonado-de-los-clientes_1.jpg)
 
 2. Haga clic en el icono de configuración (engranaje) del __Profile System__.
 
-  ![Carrinho Abandonado - 2 - ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/gesti%C3%B3n-de-la-cuenta/usuarios/acceda-al-carrito-abandonado-de-los-clientes_2.jpg)
+  ![Carrinho Abandonado - 2 - ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/gestión-de-la-cuenta/usuarios/acceda-al-carrito-abandonado-de-los-clientes_2.jpg)
 
 3. Asegúrese de que está en la pestaña __Aplicaciones__.
 
-  ![Carrinho Abandonado - 3 - ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/gesti%C3%B3n-de-la-cuenta/usuarios/acceda-al-carrito-abandonado-de-los-clientes_3.jpg)
+  ![Carrinho Abandonado - 3 - ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/gestión-de-la-cuenta/usuarios/acceda-al-carrito-abandonado-de-los-clientes_3.jpg)
 
 4. Acceda a Editar (Lápiz) en la categoría __Clientes__.
 
-  ![Carrinho Abandonado - 4 - ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/gesti%C3%B3n-de-la-cuenta/usuarios/acceda-al-carrito-abandonado-de-los-clientes_4.jpg)
+  ![Carrinho Abandonado - 4 - ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/gestión-de-la-cuenta/usuarios/acceda-al-carrito-abandonado-de-los-clientes_4.jpg)
 
 5. Seleccione __"Último carrito"__ y __"Carrito"__ entre las opciones de __Campos de Listados__;
 
-  ![Carrinho Abandonado - 5 - ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/gesti%C3%B3n-de-la-cuenta/usuarios/acceda-al-carrito-abandonado-de-los-clientes_5.jpg)
+  ![Carrinho Abandonado - 5 - ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/gestión-de-la-cuenta/usuarios/acceda-al-carrito-abandonado-de-los-clientes_5.jpg)
 
 6. Haga clic en __Guardar__.
 
-  ![Carrinho Abandonado - 6 - ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/gesti%C3%B3n-de-la-cuenta/usuarios/acceda-al-carrito-abandonado-de-los-clientes_6.jpg)
+  ![Carrinho Abandonado - 6 - ES](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/es/tutorials/gestión-de-la-cuenta/usuarios/acceda-al-carrito-abandonado-de-los-clientes_6.jpg)
 
 Con eso, usted ya podrá ver los parámetros de los carritos abandonados de sus clientes.

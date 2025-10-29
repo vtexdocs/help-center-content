@@ -16,7 +16,7 @@ legacySlug: por-que-no-recibo-el-email-de-carrito-abandonado
 
 En algunos casos, la configuración de [Trigger](/es/tutorial/criando-trigger-no-master-data?locale=es) para el [carrito abandonado](/es/tutorial/setting-up-abandoned-carts--tutorials_740) podrá no funcionar correctamente. Este comportamiento se debe a algunas configuraciones indebidas. Sin embargo, estos errores pueden ser fácilmente corregidos por los [Master Data](/es/tutorial/o-que-e-o-master-data?locale=es).
 
-Siga el paso a paso a continuación  para acceder a la página de configuraciones:
+Siga el paso a paso a continuación para acceder a la página de configuraciones:
 
 1. Acceda al módulo __Master Data__
 2. Luego abajo de "Links rápidos", haga clic en __Crear Aplicación__.

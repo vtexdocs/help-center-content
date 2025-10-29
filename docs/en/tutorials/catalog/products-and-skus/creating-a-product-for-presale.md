@@ -29,7 +29,7 @@ To make a product available on presale, follow the steps below.
 
 1. In the VTEX Admin, go to __Catalog__, or type __Catalog__ in the search bar at the top of the page.
 2. Click the **All products** page.
-3. Click  `Add Product`.
+3. Click `Add Product`.
 4. In the **Market launch date** field put the intended launch date of the product in the `dd/mm/yyyy` format. This field is a criterion for sorting products in the store. To learn more about sorting products, read the article [Can I put my products in an order which I choose?](/en/tutorial/can-i-put-my-products-in-an-order-which-i-choose--qfWKX2ZekoEoayiyo0uuA).
 5. Fill in the [remaining product fields](/en/tutorial/product-registration-fields--4dYXWIK3zyS8IceKkQseke)
 6. Click `Save and add a new SKU`.

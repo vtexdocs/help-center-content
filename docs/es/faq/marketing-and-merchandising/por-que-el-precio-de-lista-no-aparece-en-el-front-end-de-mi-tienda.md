@@ -18,7 +18,7 @@ Eventualmente, es posible que el Precio de Lista no se muestre en el front-end d
 
 El Precio de Lista es apenas una de las configuraciones posibles al establecer un precio de un SKU. En general, las primeras reglas definidas son Precio Base, Precio de Costo y Markup.
 
-Ahora, lo que sucede es que, al fijar un precio para un SKU, esa configuración se sobrepone  a las demás reglas de modificación de precio antes registradas. En otras palabras, el precio de lista o precio base se "borra" ya que el administrador de la tienda aplica un precio fijo a un SKU.
+Ahora, lo que sucede es que, al fijar un precio para un SKU, esa configuración se sobrepone a las demás reglas de modificación de precio antes registradas. En otras palabras, el precio de lista o precio base se "borra" ya que el administrador de la tienda aplica un precio fijo a un SKU.
 
 Para que el Precio de Lista vuelva a mostrarse en el front-end de la tienda, se necesita eliminar el precio fijo de las configuraciones.
 

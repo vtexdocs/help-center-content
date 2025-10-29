@@ -40,7 +40,7 @@ Você pode criar o seu próprio template de email customizado ou utilizar a opç
 4. Preencha o campo __Template XHTML__ com os códigos do template.
 5. Clique em `Save Template`.
 
-![template xhtml](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/checkout/configura%C3%A7%C3%B5es-do-checkout/configurar-carrinho-abandonado_1.PNG)
+![template xhtml](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/checkout/configurações-do-checkout/configurar-carrinho-abandonado_1.PNG)
 
 > ⚠️ Recomendamos que a customização de template seja realizada por profissionais com experiência no módulo CMS, e preferencialmente, que já tenham realizado configurações de outros templates de página e prateleira.
 
@@ -50,7 +50,7 @@ Para utilizar uma opção padrão de template, siga os seguintes passos:
 2. Em __CMS > HTML Templates__, clique em `CEM-Abandoned-Cart`.
 3. Verifique as informações dos códigos de template presentes no campo __Template XHTML__.
 
-![CEM-Abandoned-Cart](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/checkout/configura%C3%A7%C3%B5es-do-checkout/configurar-carrinho-abandonado_2.PNG)
+![CEM-Abandoned-Cart](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/checkout/configurações-do-checkout/configurar-carrinho-abandonado_2.PNG)
 
 ### Configurar modelo de email na Central de Mensagens
 
@@ -67,7 +67,7 @@ Uma vez criado o novo template de email ou utilizado os dados do template padrã
 
 > ℹ️ O campo JSON Data não deve ser preenchido ou seus dados utilizados no template do email. Ele contém apenas informações para permitir uma pré-visualização do formato em que os dados que serão visualizados no email.
 
-![New template - message center](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/checkout/configura%C3%A7%C3%B5es-do-checkout/configurar-carrinho-abandonado_3.PNG)
+![New template - message center](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/checkout/configurações-do-checkout/configurar-carrinho-abandonado_3.PNG)
 
 ### Liberar SPF
 
@@ -75,7 +75,7 @@ A liberação do SPF é fundamental para evitar problemas de entregabilidade do 
 
 Como boa prática de configuração de DNS de um domínio genérico (não obrigatório), segue o exemplo abaixo:
 
-![Hostnames - SPF](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/checkout/configura%C3%A7%C3%B5es-do-checkout/configurar-carrinho-abandonado_4.PNG)
+![Hostnames - SPF](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/checkout/configurações-do-checkout/configurar-carrinho-abandonado_4.PNG)
 
 Saiba mais em [Configurar o apontamento de DNS para a VTEX](/pt/tutorial/configurando-o-apontamento-de-dns-para-a-vtex--tutorials_4280?&utm_source=autocomplete).
 

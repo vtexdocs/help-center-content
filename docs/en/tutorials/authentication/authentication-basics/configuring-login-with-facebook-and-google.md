@@ -30,7 +30,7 @@ Before setting up our Google and Facebook login integrations, you need to create
 
 ## Configuring login with providers
 
-After completing the configuration on Facebook and/or Google, you must configure the login option for the desired provider in the VTEX Admin.  In both cases, you will need the `Client ID` and `Client Secret` from your providers.
+After completing the configuration on Facebook and/or Google, you must configure the login option for the desired provider in the VTEX Admin. In both cases, you will need the `Client ID` and `Client Secret` from your providers.
 
 1. In the top bar of the VTEX Admin, click your **profile avatar**, indicated by the initial letter of your email address.
 2. Click **Account settings > Authentication**.

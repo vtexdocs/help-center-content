@@ -22,11 +22,11 @@ Aqui estão todas as pessoas com quem você manterá contato. Existem duas manei
 - De forma ativa, por meio do **envio de uma mensagem** para algum dos canais cadastrados pela organização.
 - - Através do botão **importar contatos** que permite a importação de uma planilha (que deve seguir regras específicas) com contatos que ainda não interagiram com a plataforma. Para acessar essas informações entre no seu projeto e clique no módulo **""Estúdio""** no menu lateral esquerdo.
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/introducao-a-contatos_1.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/estúdio/introducao-a-contatos_1.png)
 
 Ao selecionar a opção **""Contatos""** Você irá se deparar com as seguintes funcionalidades:
 
-![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/est%C3%BAdio/introducao-a-contatos_2.png)
+![](https://cdn.statically.io/gh/vtexdocs/help-center-content/refs/heads/main/docs/pt/tutorials/weni-by-vtex/estúdio/introducao-a-contatos_2.png)
 
 - **Importar Contatos**: Botão para importar uma planilha (com algumas regras de construção) com contatos externos a plataforma. Se o usuário estiver nessa planilha, a plataforma Weni o reconhece e consegue tratá-lo pelo nome cadastrado desde a primeira mensagem enviada pela plataforma;
 - **Criar Contatos**: Permite criar um contato novo do zero dentro da plataforma;

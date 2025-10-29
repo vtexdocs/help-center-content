@@ -46,7 +46,7 @@ En la barra superior, hay un enlace que conduce a la página de detalles del ped
 
 En la parte izquierda de la pantalla, se concentra la información relacionada con el medio de pago utilizado en el pedido.
 
-Para las transacciones con tarjeta de crédito, cada pago (el pedido puede haberse cerrado con dos tarjetas) tiene un ID   generado por VTEX. Además, el adquirente también crea un número de identificador, llamado __Transaction ID (TID)__. El TID es específico para cada tarjeta, por lo que si un pedido se paga con dos tarjetas, habrá dos transacciones y, por lo tanto, dos TID.
+Para las transacciones con tarjeta de crédito, cada pago (el pedido puede haberse cerrado con dos tarjetas) tiene un ID generado por VTEX. Además, el adquirente también crea un número de identificador, llamado __Transaction ID (TID)__. El TID es específico para cada tarjeta, por lo que si un pedido se paga con dos tarjetas, habrá dos transacciones y, por lo tanto, dos TID.
 
 A continuación, se encuentra una de las áreas más útiles de esta pantalla: la línea de tiempo de __Eventos de la Transacción__.
 

@@ -29,7 +29,7 @@ Para reemplazarlo con el correo electrónico de su tienda, siga los pasos a cont
 2. Haga clic en la pestaña __Remitentes__.  
 3. Haga clic en el botón __Nuevo Remitente__.  
 4. En seguida, haga clic en la opción __VTEX__ (para utilizar el servidor nativo de VTEX).  
-5. Rellene el campo __Identificación del remitente__ con un nombre para control  interno.  
+5. Rellene el campo __Identificación del remitente__ con un nombre para control interno.  
 6. Rellene el campo __Nombre__ con el nombre que será asociado con el remitente.  
 7. Rellene el campo __E-mail__ con la dirección de correo electrónico que se utilizará para este remitente.  
 8. Por el momento, *no* marque el flag “Este es el remitente estándar”.  
@@ -39,7 +39,7 @@ Luego, el sistema enviará una confirmación de que el registro de SMTP se reali
 
 Verifique la recepción de este mensaje y haga clic en el enlace para asegurarse de que el envío de correos electrónicos a partir del remitente creado realmente está funcionando.
 
-Una vez hecho esto,  vuelva a la página de configuraciones en el Admin y seleccione el flag “Este es el remitente estándar”. Por último, haga clic nuevamente en el botón __Guardar__ para actualizar las informaciones.
+Una vez hecho esto, vuelva a la página de configuraciones en el Admin y seleccione el flag “Este es el remitente estándar”. Por último, haga clic nuevamente en el botón __Guardar__ para actualizar las informaciones.
 
 Siempre que lo considere necesario, puede probar si el envío de correos electrónicos funciona. Para hacerlo, vaya a la sección Remitentes y haga clic en el botón __Prueba__ del card con el remitente deseado.
 
